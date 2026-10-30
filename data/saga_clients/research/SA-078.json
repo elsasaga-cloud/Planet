@@ -543,6 +543,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "加拿大 · 联邦 / 省登记可查但研究档无法定名与省份线索；本行为「无登记源」记录（据第 79 批研究档）：James Clendenan Systems Ltd. · （登记状态不可免费核） · 成立 — · —",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Alignable / Infobel / controlready.ca：James Clendenan Systems Ltd. · launched 2012-09 · North Vancouver（1528 Bowser Ave V7P 2Y3；Control Ready：1127 15th Street West）· Owner James Clendenan（Computer Engineer；ex Pixar Canada、Sophos、HootSuite、Olympic Broadcasting Service）· 服务：managed networks（$15/device/month）、ISP/SMB 网络设计、Wi-Fi、Fixed Wireless、Fiber；品牌 Control Ready（SCOUT 移动办公箱、BARK 移动报警、POST 数字标牌）",
+    "url": "https://www.controlready.ca/about",
+    "note": "PI 成单户（活跃）：一人工程公司 + 自牌移动设备 → 复购在其项目节奏",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

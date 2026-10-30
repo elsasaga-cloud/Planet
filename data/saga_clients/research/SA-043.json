@@ -523,6 +523,16 @@
     "batch": "INTEL-09",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / ：DIREKTRONIK AKTIEBOLAG（Direktronik AB） · Org.nr 556281-9663 · VAT SE556281966301  · Aktiv（经营中） · 成立 1986-09-11 · Konsul Johnsons Väg 15, 149 45 Nynäshamn（Box 234, 149 23 Nynäshamn）",
+    "url": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning/2JZYJ4FI63IFR",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

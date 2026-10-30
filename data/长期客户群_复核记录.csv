@@ -1610,3 +1610,17 @@ SB-1122,comtinu.ru,俄罗斯,A,B,A-DEEP-10,2026-10-30,A-DEEP-10 2026-10-30 「�
 SB-487,npotelecom.ru,俄罗斯,A,B,A-DEEP-10,2026-10-30,A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：НПО Телеком：主业为执法部门合法监听（ОРМ/СОРМ）通信设备 → 守界 + 制裁风险
 SA-067,"Latmedia Group, LLC",乌兹别克斯坦,A,B,A-DEEP-10,2026-10-30,A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Latmedia Group：实为塔什干数字营销代理 → 品类不对位
 SB-1135,raisecom.su,俄罗斯,A,B,A-DEEP-10,2026-10-30,A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DEALER / raisecom.su：主体不可核 + Simon 此前判「不行」
+SB-175,mbtc.com.sa,沙特阿拉伯,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛
+SB-451,e-saudi.net,沙特阿拉伯,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易 → 微型
+SB-059,avanca.com.sg,新加坡,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Avanca：新加坡 1–10 人工业网络分销 → 微型
+SB-1102,vienthonggiatot.com,越南,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Viễn Thông Giá Tốt：2020 年成立的低价小经销/施工商 → 微型
+SB-226,"HANCHANG Infotech CO.,LTD",韩国,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型
+SB-267,bio-cognitive.com,新加坡,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Bio-Cognitive：新加坡小型安防安装商、网页停在 2012 → 微型
+SB-367,thuyluc.com,越南,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端
+SB-982,mcss.co.kr,韩国,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）
+SB-031,OM Telecom S.R.L.,秘鲁,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型
+SB-056,Net Work Business Solutions,爱沙尼亚,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核
+SA-061,RYMTECH EAS,巴拉圭,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RYMTECH：官方登记 Micro 的网络安全服务商、自述不卖硬件 → 微型 + 不对位
+SB-1137,Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda.,巴西,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核
+SB-183,Onyx Technology Solutions Limited,乌干达,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Onyx（乌干达，无域名）：不可核
+SB-110,itkati.com,乌干达,A,B,A-DEEP-11,2026-10-30,A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：iTKATI：坎帕拉 6–10 人 IT 小公司 → 微型

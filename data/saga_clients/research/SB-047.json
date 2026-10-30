@@ -484,6 +484,26 @@
     "batch": "INTEL-GH-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC e：Topica LLC（Топика ХХК；topica.mn；**devex：2005 年由电子 / IT 工程师创立；Chingeltei District, 1st Khor · 未取（蒙古注册号 1 查未得） · 营业中（名录 + 网店） · 成立 2005 · Office 3A, 1st Khoroo, Chingeltei District, Ulaanbaatar, Mongolia",
+    "url": "https://www.devex.com/organizations/topica-40614",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "whois.ipip.net / Facebook：Topica LLC · Ulaanbaatar（Chingeltei district, 3a building；P.O.Box 44/575）· AS10109 TOPNET-AS-MN-AP「Internet Service Provider」· Facebook「Topica」18,163 likes：Мэдээллийн технологи, автоматжуулалтын шилдэг шийдэл, тоног төхөөрөмжийн худалдаа, үйлчилгээ（IT/自动化设备销售与服务）+「Topica.mn Network Shop」",
+    "url": "https://whois.ipip.net/AS10109",
+    "note": "乌兰巴托 ISP（自有 AS）兼网络设备商店 → 接入/汇聚交换机真实买家",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -218,13 +218,14 @@ updated: 2026-10-30
 | 2026-07-18 | 去 | R |  |  |
 | 2026-08-30 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：ng-check：BIZ-ETHICS LIMITED · RC 401375 · registered 2001-01-23, Ikeja · 30/31 Otigba Street, Computer Village, Ikeja, Lagos · Directors Okafor Chidi Ogonna, Mbata Valentine, Mbata Livinus, Odiachi Evelyn, Mbata Evelyn, Mbata Uchechukwu Samuel；ngcontacts：「Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment」 — <https://ng-check.com/biz-ethics-limited/938121.html>　*PI 成单户（BEL Networks 自牌 BNSC-）：拉各斯电脑城（Computer Village）网络设备经销，Mbata 家族企业*
+- 2026-10-30：尼日利亚 · CAC 公开查询仅返回名称 / RC 号，需登录；本行为「无登记源」记录（据第 79 批研究档）：Biz-Ethics Ltd.（BEL Networks） · （登记状态不可免费核） · 成立 — · —　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

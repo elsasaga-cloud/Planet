@@ -332,6 +332,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 KVKK 页（İstanbul Ticaret Sicil Müdürlüğü 358519：Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.；fasttr.com；伊斯坦布尔 Ataşehir FAST Plaza；** · İstanbul Ticaret Sicil 358519（A.Ş.） · Active（2026-03 站点更新） · 成立 1994 · FAST Plaza, Küçükbakkalköy Mah. Dereyolu Sok. No:4, 34750 Ataşehir / İstanbul",
+    "url": "https://www.fasttr.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

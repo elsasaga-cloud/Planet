@@ -225,9 +225,13 @@ updated: 2026-10-30
 | 2026-03-04 | 去 | A | Updated Ethernet Switches Links |  |
 | 2026-03-04 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、：EION Inc.（d/b/a EION Wireless；集团 PomeGran Inc.） · 联邦公司 3921174 · Business Number 870048014 · Active / Actif · 成立 2001-07-16 · 260 Terence Matthews Cres, Suite 200, Ottawa (Kanata) ON K2M 2C7 — <https://federalcorporation.ca/corporation/3921174>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

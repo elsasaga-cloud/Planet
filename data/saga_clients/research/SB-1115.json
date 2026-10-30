@@ -332,6 +332,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UK · Companies House（官方）公司页 + officers 页：MILLISECONDS EVOLUTION LIMITED · 16807798 · Active · 成立 2025-10-24 · 128 City Road, London EC1V 2NX（**虚拟办公室 / 注册代理地址**，非实体经营地）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/16807798",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "（无新增）Milliseconds Evolution Limited：Companies House 已在登记库（第 86 批）；2026-10-17 样品 PI 已开未付",
+    "url": "",
+    "note": "活跃样品单，留 A 观察",
+    "batch": "INTEL-21",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -557,6 +557,16 @@
     "batch": "INTEL-09",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · 马里兰州公司（BBB 登记 / Bloomberg / Buzzfile）+ SAM.gov 供应商档案（G：DATA CONNECT ENTERPRISE, INC.（DCE） · Maryland corporation · SAM.gov 在册（有效至 20 · 经营中；联邦小企业供应商（DLA 国防后勤局等） · 成立 1989-01-13 · 3405 Olandwood Court, Olney, MD 20832（总部，4,000 sqft）；另有 NJ、CA 仓库 / 办公",
+    "url": "https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

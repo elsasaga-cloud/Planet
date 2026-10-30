@@ -51,8 +51,8 @@
    "source": "https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 维持；有具体项目再报价。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -195,6 +195,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-11",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核"
   }
  ],
  "a_deep": {
@@ -309,7 +317,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-11",
+  "verdict2_reason": "Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -321,6 +332,26 @@
     "url": "",
     "note": "",
     "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；R：NETWORK BUSINESS SOLUTIONS OÜ（原 Osaühing Angelmont 2007-01-09 – 02-19；nbs.ee 停放；Vesse tn 9 · registrikood 11338038 · Registrisse kantud（休眠：VAT 注销 2 · 成立 2007-01-09 · Vesse tn 9a, Lasnamäe linnaosa, 11415 Tallinn",
+    "url": "https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "未得：「Net Work Business Solutions nbs.ee」网查无命中（结果为美国 NBS / 其他爱沙尼亚 IT 公司）",
+    "url": "",
+    "note": "不可核 → A-DEEP-11 下放 B",
+    "batch": "INTEL-21",
     "found": false,
     "added": "2026-10-30"
    }

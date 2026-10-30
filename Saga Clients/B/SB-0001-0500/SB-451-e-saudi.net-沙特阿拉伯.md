@@ -1,17 +1,17 @@
 # e-saudi.net
 
-> **评级 A**　|　沙特阿拉伯　|　档案编号 `SB-451`　|　优先级 ★★★　|　状态：已推送 1 次·未回复
+> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-451`　|　优先级 ★★　|　状态：已推送 1 次·未回复
 >
-> **P 池并入（A 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 未坐实 · 体量 小型（11–50））　|　标签：prepay
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 未坐实 · 体量 小型（11–50））　|　标签：prepay
 >
 > **类型**：IT/网络贸易商（沙特，有回复，业务待核）（推断）　|　**历史关系**：推送 1 次（2025-04-28 → 2025-04-28）　|　**所在清单**：A已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-451
-rating: A
+rating: B
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易
 score: 41
 country: 沙特阿拉伯
 region: 中东
@@ -35,7 +35,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。（调研 2026-10-21；表内兴趣：Catalog）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易 → 微型）；自动分级 B：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-04-28 → 2025-04-28）；最近一次客户回复：2025-04-28：Info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
@@ -148,7 +148,7 @@ updated: 2026-10-30
   > Catalog；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Saeed Mohammed（Operation Manager / Business Development Manager（RocketReach，2005 至今；表内 1 次跟进有回复 要 Catalog）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机、opener 引其要 Catalog — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28））saeed@e-saudi.net +966 55 068 6619（2024-02→06 签名 Mobile）〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）
+- **调研后定级**：B（原自动 B）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易 → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
@@ -224,15 +224,23 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-08 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：SA · 1 次检索：rocketreach.co/e-saudi-electronic-saudi-network-p：(e-Saudi) Electronic Saudi Network（e-saudi.net / e-saudi.net.sa；**2001 年成立；利雅得 Abdallah Ba · 未取（CR 1 查未得） · 营业中（企业库） · 成立 2001 · Abdallah Bahamdan St, Suleimaniya, Riyadh, Saudi Arabia — <https://rocketreach.co/e-saudi-electronic-saudi-network-profile_b4438538fdf7a71a>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn / RocketReach：(e-Saudi) Electronic Saudi Network · Riyadh（P.O. Box 61461，+966 1 4650832）· Founded 2001 · 11–14 employees · revenue ≈$1.4M · Remote Automation, Control and Communication + fixed broadband · Sales Managers Muhammad Rashid、Varughese Mathew；Operation Manager Saeed Mohammed — <https://www.linkedin.com/company/-e-saudi-electronic-saudi-network>　*14 人、年销 ≈$1.4M 的小型 SI/贸易 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：e-saudi.net in:email；"e-saudi.net" in:readme in:description；e-saudi.net type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -307,7 +315,7 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -334,7 +342,7 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -369,11 +377,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）
 
 ---
 

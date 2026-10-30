@@ -223,9 +223,13 @@ updated: 2026-10-30
 | 2024-12-05 | 去 | S | Re: Industrial PoE Switch |  |
 | 2025-04-06 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；20：Epygi Technologies, LLC（原 Epygi Technologies, Ltd.；epygi.com；Altamonte Springs, FL，原 Plano · LLC（TX 起家，现 FL；登记号未取 → 部分坐实） · Active（2024 新闻） · 成立 2000 · 561 Maitland Avenue, Altamonte Springs, FL 32701（原 1400 Preston Road Ste 300, Pl — <https://support.epygi.com/Knowledgebase/List/Index/354/qx-ip-pbx-products>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

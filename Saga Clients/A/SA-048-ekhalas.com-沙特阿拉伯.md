@@ -292,13 +292,17 @@ updated: 2026-10-30
 | 2026-09-22 | 来 | A | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we … |  |
 | 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：alrajhitel.com / Crunchbase：Al Rajhi Telecom Company · Riyadh（7687 King Fahad Branch Road, Al Murabba）· Established 2014 as a subsidiary of Al Rajhi Building & Construction · 501–1,000 employees · ICT infrastructure / MEP / ELV / cybersecurity / data center & power · 10,000+ customers · showrooms Riyadh, Al Khobar, Jeddah · e-commerce ekhalas.com（2025-11 发文）· 目标「leading IT wholesale distributor in — <https://www.alrajhitel.com/about-us/>　*沙特大集团（Al Rajhi）旗下 ICT 集成 + 分销 + 电商（500–1,000 人）——自身是分销方，按 K8 留 A；采购走正式供应商注册*
+
+**登记**
+
+- 2026-10-30：沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）：Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Soluti · （登记状态不可免费核） · 成立 2014（官网时间线 · 7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

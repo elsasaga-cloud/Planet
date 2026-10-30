@@ -565,6 +565,16 @@
     "batch": "INTEL-16",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (2：Xspec Technology Sdn Bhd（xspec.com.my；**SSM 200501018493 (700608-K)；注册 2005-06-20；Selangor · SSM 200501018493 (700608-K) · 营业中（登记在 2026-10） · 成立 2005-06-20 · No 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, Subang Jaya, Selangor, ",
+    "url": "https://buy.experian.com.my/index.php/buy-report/malaysia-company/700608/xspec-technology-sdn-bhd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

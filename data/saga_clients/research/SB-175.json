@@ -41,8 +41,8 @@
    "role": "E&I / Telecom lead（研究档 Wasi Akthar；AAM Industrial 项目组）— 不动（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -179,6 +179,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）"
+  },
+  {
+   "batch": "A-DEEP-11",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）",
+   "reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛"
   }
  ],
  "a_deep": {
@@ -367,7 +375,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-11",
+  "verdict2_reason": "MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -380,6 +391,26 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracti：M. Al-Barghash Trading & Contracting Company (MBTC)（mbtc.com.sa；**1976 年成立；100% 沙资；总部 Al-K · 未取（CR 1 查未得） · 营业中（名录） · 成立 1976 · Al-Khobar 31952 / P.O. Box 31996 Dammam, Eastern Province, Saudi Arabia",
+    "url": "https://www.protenders.com/companies/mohammad-al-barghash-trading-construction-company",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "SignalHire / RocketReach / AeroLeads：M. Al Barghash Trading & Contracting（MBTC）· Al-Khobar（4th St corner Kharj St, Thuqbah-2）· Energy / Saudi Aramco approved contractor · 1,000–5,000 employees（AeroLeads 70）· revenue ≈$414.6M · Head of IT Hariprasath Ramu · Procurement Engineer Venkatesh Raja · 项目工程师多人（Buqayq 等）",
+    "url": "https://www.signalhire.com/companies/m-al-barghash-company",
+    "note": "阿美认证的大型 EPC 承包商 = 项目型终端，设备需走阿美供应商名录 → A-DEEP-11 下放 B（B1 观察）",
+    "batch": "INTEL-21",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

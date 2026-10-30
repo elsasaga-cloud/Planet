@@ -434,6 +434,16 @@
     "batch": "INTEL-07",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、：EION Inc.（d/b/a EION Wireless；集团 PomeGran Inc.） · 联邦公司 3921174 · Business Number 870048014 · Active / Actif · 成立 2001-07-16 · 260 Terence Matthews Cres, Suite 200, Ottawa (Kanata) ON K2M 2C7",
+    "url": "https://federalcorporation.ca/corporation/3921174",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

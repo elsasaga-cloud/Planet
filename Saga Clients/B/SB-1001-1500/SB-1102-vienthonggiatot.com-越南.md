@@ -1,18 +1,18 @@
 # vienthonggiatot.com
 **官方名称（调研核实）**：Viễn Thông Giá Tốt（vienthonggiatot.com）
 
-> **评级 A**　|　越南　|　档案编号 `SB-1102`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　越南　|　档案编号 `SB-1102`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型对位 未知 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 微型（2020 新设））
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型对位 未知 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 微型（2020 新设））
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；推送 4 次（? → ?）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1102
-rating: A
+rating: B
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Viễn Thông Giá Tốt：2020 年成立的低价小
 name_official: "Viễn Thông Giá Tốt（vienthonggiatot.com）"
 score: 21
 country: 越南
@@ -37,10 +37,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。（调研 2026-10-21；表内兴趣：很多国内的牌子 有洪瑞的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；托底 B：有实质回复的客户至少 B
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Viễn Thông Giá Tốt：2020 年成立的低价小经销/施工商 → 微型）；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 4 次（? → ?）；最近一次客户回复：113：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；他见过的实报（2024-11-03）：STI-288GP $60；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
@@ -132,7 +132,7 @@ updated: 2026-10-30
   > 兴趣：很多国内的牌子 有洪瑞的；回复：price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nguyễn Văn Đông（法人代表（masothue 0109246393）— 不动（Q-33 待定）（第 119 批 官方登记核实 2026-10-28）） 〔masothue.com/0109246393〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
+- **调研后定级**：B（原自动 B）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Viễn Thông Giá Tốt：2020 年成立的低价小经销/施工商 → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -223,9 +223,14 @@ updated: 2026-10-30
 | 2025-01-06 | 去 | S | 16 Port Ethernet Switch |  |
 | 2026-09-10 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：VN · 1 次检索：masothue.com/0109246393（CÔNG TY TNHH VIỄN THÔNG G：CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT / GOOD PRICE TELECOMMUNICATIONS CO., LTD（vienthonggiatot.c · MST 0109246393 · Đang hoạt động（营业中） · 成立 2020-07-01 · Thôn Tiên Kha, Xã Phúc Thịnh, Hà Nội, Việt Nam — <https://masothue.com/0109246393-cong-ty-tnhh-vien-thong-gia-tot>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：infocom.vn：CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT（GOOD PRICE TELECOMMUNICATIONS COMPANY LIMITED）· MST 0109246393 · 成立 2020-07-01 · 代表 Nguyễn Văn Đông · Đông Anh, Hà Nội · 批发电子/电信设备；官网：网络设备 + 摄像头 + 光纤熔接施工（Hotline 0963.508.809） — <https://infocom.vn/cong-ty-tnhh-vien-thong-gia-tot.html>　*2020 年成立的「低价」小型网络经销/施工商 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -296,7 +301,7 @@ updated: 2026-10-30
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -323,7 +328,7 @@ updated: 2026-10-30
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ✅ 洪瑞 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -359,11 +364,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 21）
 
 ---
 

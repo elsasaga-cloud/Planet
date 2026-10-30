@@ -256,9 +256,13 @@ updated: 2026-10-30
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-18 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the leg：Apollo Infoways Private Limited（WatchDog 品牌；apolloinfoways.in；CIN U72900DL2014PTC264342（20 · CIN U72900DL2014PTC264342 · Active · 成立 2014-02-03 · E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092（运营 Noida — <https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

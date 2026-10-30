@@ -601,6 +601,16 @@
     "batch": "INTEL-09",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）：CXR ANDERSON JACOBSON（SAS） · SIREN 785754706（总部 SIRET 78575470600139） · Active（etat_administratif A；IN · 成立 1983-04-10 · 28 rue de l'Ornette, 28410 Abondant（Eure-et-Loir，巴黎西 80 km）；历史上 5 个机构，仅总部仍开（Gent",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/785754706",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

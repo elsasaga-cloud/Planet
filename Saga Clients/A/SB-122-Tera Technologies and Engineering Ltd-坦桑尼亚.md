@@ -219,9 +219,13 @@ updated: 2026-10-30
 | 2025.2.20 | 表 | 表 | 工业16 24口出货图｜可能会用到 |  |
 | 923 | 表 | 表 | 18 2.5G｜是PoE吗？ |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineerin：Tera Technologies and Engineering Limited（teratech.co.tz / ttel.co.tz；**公司自述：2011-09-09 依  · Certificate of Incorporation No. 85715（公 · 营业中（官网 + 中标记录） · 成立 2011-09-09 · Plot No. 2283, Block H, Tarangire Street, Africana Drive, Mbezi Beach, P.O. Box  — <https://ttel.co.tz/about>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

@@ -240,13 +240,14 @@ updated: 2026-10-30
 - 网查（2026-10-30）：El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799 — <https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e>
 - 网查（2026-10-30）：Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori — <http://www.elsikr.it/chi-siamo.html>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799 — <https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e>　*A-DEEP-01 网查镜像*
+- 2026-10-30：IT · 1 次检索：ufficiocamerale（EL.SI. S.R.L.；P.IVA 01536710799；L：EL.SI. S.R.L.（elsi.it；克罗托内 Crotone Località Zigari, Via Enzo Ferrari, 88900；P.IVA / CF 015 · P.IVA / CF 01536710799；REA KR-118653 · Active · 成立 1985-10-18 · Località Zigari, Via Enzo Ferrari, 88900 Crotone — <https://www.ufficiocamerale.it/9607/elsi-srl>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

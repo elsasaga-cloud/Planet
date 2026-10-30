@@ -265,9 +265,13 @@ updated: 2026-10-30
 | 2026-07-30 | 去 | A | WiFi 7 Ready Access Switch |  |
 | 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’：Nelly’s Security LLC（nellyssecurity.com；Broken Arrow, Oklahoma）— 2008 年 Sean Nelson 创办的商用级 · OK LLC（SoS 备案号未取）；BBB 列为 Rackmount Solut · Active（站点在线；股权已变更 — 待核） · 成立 2008-01-01 · 501 N Aspen Ave, Broken Arrow, OK 74012 — <https://www.bbb.org/us/ok/broken-arrow/profile/surveillance-equipment/nellys-security-a-division-of-rackmount-solutions-1025-38020648>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

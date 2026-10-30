@@ -407,6 +407,16 @@
     "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Italia · Registro Imprese 镜像（ufficiocamerale / companyreport：STS ITALIA S.R.L.（Arcore MB；原 Vicenza） · P.IVA / C.F. 00865310247 · REA MB 149060 · Attiva（2024 年报已交；无 protesti） · 成立 1984-03-16 · Via Altiero Spinelli 134, 20862 Arcore (MB)",
+    "url": "https://www.ufficiocamerale.it/4755/sts-italia-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -247,9 +247,13 @@ updated: 2026-10-30
 | 2024-11-18 | 来 | R | 用户表跟进：推「引流机型」→ 对方「passive poe only」 |  |
 | 2024.6.14 | 表 | 表 | 发了商业poE 228信息｜24 port passive poe  后续成单 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (2：Xspec Technology Sdn Bhd（xspec.com.my；**SSM 200501018493 (700608-K)；注册 2005-06-20；Selangor · SSM 200501018493 (700608-K) · 营业中（登记在 2026-10） · 成立 2005-06-20 · No 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, Subang Jaya, Selangor,  — <https://buy.experian.com.my/index.php/buy-report/malaysia-company/700608/xspec-technology-sdn-bhd>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **展会/活动**
 

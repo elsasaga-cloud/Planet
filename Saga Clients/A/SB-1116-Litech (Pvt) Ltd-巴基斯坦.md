@@ -180,9 +180,13 @@ updated: 2026-10-30
 |---|---|---|---|---|
 | 2024-03-09 | 来 | R | Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance stat… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, L：LITECH Pakistan (Private) Limited（litech.com.pk；**2018 年设立（母公司 Litech Sdn Bhd 马来西亚 1999）；总 · 未取（(Private) Limited；SECP 号 1 查未得） · 营业中（官网 + D&B） · 成立 2018 · Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil L — <https://litech.com.pk/about-litech/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

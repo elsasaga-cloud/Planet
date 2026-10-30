@@ -66,8 +66,8 @@
    "source": "connectamericas.com"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -199,6 +199,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-11",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型"
   }
  ],
  "a_deep": {
@@ -273,7 +281,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-11",
+  "verdict2_reason": "OM Telecom：利马 2–10 人项目型 → 微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -286,6 +297,26 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 2：OM TELECOM S.R.L.（om-telecom.com；**SUNAT 镜像 universidadperu：RUC 20600792858；Activo / Habid · RUC 20600792858 · Activo / Habido（SUNAT 镜像） · 成立 2015-11-02 · Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima, Peru（办公 Calle Rocca ",
+    "url": "https://www.universidadperu.com/empresas/om-telecom.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "universidadperu / LinkedIn / PAR：OM TELECOM S.R.L. · RUC 20600792858 · inicio 2015-11-02 · Santiago de Surco, Lima（Av. Ramón Castilla 1120 Int. 503A）· 2–10 empleados · 能源/矿业/变电站自动化电信方案（光纤、载波、IP 电话、CCTV、SDH/PDH）· 国家供应商登记 · 运营区域 CO/EC/PE/BO/CL/AR/PY/BR",
+    "url": "https://pe.linkedin.com/company/omtelecomperu",
+    "note": "2–10 人项目型 → A-DEEP-11 下放 B",
+    "batch": "INTEL-21",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

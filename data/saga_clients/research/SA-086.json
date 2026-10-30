@@ -969,6 +969,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（：Netaş Telekomünikasyon A.Ş.（BIST: NETAS） · KAP 公司 ID 1041 · BIST 代码 NETAS · 实缴资本 64 · 上市公司，正常披露；2024 与 2025 两年无利润分配（ · 成立 1967（北电 No · İstanbul（Pendik 园区）",
+    "url": "https://kap.org.tr/tr/sirket-finansal-bilgileri/1041-netas-telekomunikasyon-a-s",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

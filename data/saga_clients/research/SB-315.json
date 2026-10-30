@@ -480,6 +480,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：masothue.com/0309279999（CÔNG TY TNHH THƯƠNG MẠI D：CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SONG THÀNH CÔNG（STC Vietnam；stc-vietnam.com / songthanhcon · MST 0309279999 · Đang hoạt động（营业中） · 成立 2009 · 247/8B Hoàng Hoa Thám, P.5, Q. Phú Nhuận, TP. Hồ Chí Minh, Việt Nam",
+    "url": "https://masothue.com/0309279999-cong-ty-tnhh-thuong-mai-dich-vu-song-thanh-cong",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "stcvietnam.biz：Công ty TNHH TM DV Song Thành Công（STC Vietnam）「là nhà phân phối chính thức thiết bị hãng MOXA Inc tại thị trường Việt Nam」· 工业自动化备件/设备分销：Industrial Ethernet Switch、Serial Device Server、Industrial Router、Media Converter、NSD 编码器、Balluff 传感器、E2S、Enerdoor",
+    "url": "https://stcvietnam.biz/",
+    "note": "越南 Moxa 官方分销 + 工业自动化渠道 → 工业交换机白牌补位（Moxa 价差大）",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

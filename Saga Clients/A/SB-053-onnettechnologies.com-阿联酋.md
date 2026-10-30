@@ -227,15 +227,23 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-08 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：AE · 1 次检索：LinkedIn 公司页（2012 成立，11–50 人，Ajman；自称电信产品制造商：无线传输：ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman Industrial Area 1） · Ajman 执照号未取 · Active · 成立 2012 · Shed 1 & 2, Street 80-81 Junction, Ajman Industrial Area 1, Ajman（PO Box 23170） — <https://ae.linkedin.com/company/otaillc>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：Onnet Technologies & Innovations LLC（OTAI）· Ajman Industrial Area-1（Shed #1, Street 80-81 Junction）· 11–50 · 成立 2012 ·「the only #TDRA approved Telecom Products / Solution manufacturer based in UAE」· 产品：Carrier-Grade Wireless、High Power Industrial PoE Switch、PoE Extenders、Outdoor Communication UPS、Solar Communication Systems、CCTV/Smart Poles；联系人 Piyush Shah（piyush@onnettechnologies.com） — <https://ae.linkedin.com/company/otaillc>　*阿治曼本地「制造商」（实为自牌集成），TDRA 认证 → 高功率 PoE 交换机 OEM 口；KP Piyush Shah*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：onnettechnologies.com in:email；"onnettechnologies.com" in:readme in:description；onnettechnologies.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -470,6 +470,16 @@
     "batch": "INTEL-10",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittli：LivEye GmbH（HRB 44506 Wittlich；Föhren）— 移动视频监控塔制造商 · HRB 44506（Amtsgericht Wittlich）；USt-IdNr · Aktiv · 成立 2018（Indee · Europa-Allee 56b, 54343 Föhren（+49 6502 4034722）",
+    "url": "https://www.liveye.uk/impressum-en/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

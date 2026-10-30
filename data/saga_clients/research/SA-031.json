@@ -519,6 +519,16 @@
     "batch": "INTEL-16",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "越南 · 国家企业登记门户需越文名交互查询，无镜像；本行为「无登记源」记录（据第 79 批研究档）：Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.） · （登记状态不可免费核） · 成立 2019 注册 · Ho Chi Minh City（另河内办公室）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

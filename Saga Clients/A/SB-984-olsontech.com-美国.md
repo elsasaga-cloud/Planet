@@ -237,13 +237,14 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 9… — <http://www.olsontech.com/>
 - 网查（2026-10-30）：Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active — <https://www.crunchbase.com/organization/olson-technology>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active — <https://www.crunchbase.com/organization/olson-technology>　*A-DEEP-01 网查镜像*
+- 2026-10-30：US · 1 次检索：官网 company.html（「Antronix of California, (Olson T：Olson Technology, Inc.（现「Antronix of California（Olson Technology Division）」；olsontech.com； · CA 公司（SoS 号未取）；现为 Antronix of California · Active（已并入 Antronix 体系） · 成立 1985-07 · 24926 Highway 108, Mi-Wuk Village (Sierra Village), CA 95346（Sonora CA 收发；Greenb — <http://www.olsontech.com/company.html>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

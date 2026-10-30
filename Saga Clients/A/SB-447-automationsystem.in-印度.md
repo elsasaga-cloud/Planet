@@ -235,9 +235,13 @@ updated: 2026-10-30
 | 2025-04-22 | 去 | R |  |  |
 | 2025.4.10 | 表 | 表 | 群发了2光4PoE｜ds |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RA：Automation Systems & Solution（automationsystem.in；**个体经营；GSTIN 07AOCPK7395A1Z0（2017-07-01； · GSTIN 07AOCPK7395A1Z0 · Active · 成立 2007 · T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092 — <https://www.indiamart.com/automation-systems-solution/profile.html>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

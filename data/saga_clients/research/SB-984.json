@@ -454,6 +454,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 company.html（「Antronix of California, (Olson T：Olson Technology, Inc.（现「Antronix of California（Olson Technology Division）」；olsontech.com； · CA 公司（SoS 号未取）；现为 Antronix of California · Active（已并入 Antronix 体系） · 成立 1985-07 · 24926 Highway 108, Mi-Wuk Village (Sierra Village), CA 95346（Sonora CA 收发；Greenb",
+    "url": "http://www.olsontech.com/company.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -1,18 +1,18 @@
 # mbtc.com.sa
 **官方名称（调研核实）**：M. Al Barghash Trading & Contracting Co. (MBTC)（沙特东部省）
 
-> **评级 A**　|　沙特阿拉伯　|　档案编号 `SB-175`　|　优先级 ★★★　|　状态：回复暂无需求
+> **评级 B**　|　沙特阿拉伯　|　档案编号 `SB-175`　|　优先级 ★★　|　状态：回复暂无需求
 >
-> **P 池并入（A 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 未知 → 观察；⚠ 回复暂无需求；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 大型（口径存疑））　|　标签：prepay
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 未知 → 观察；⚠ 回复暂无需求；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 大型（口径存疑））　|　标签：prepay
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：回复暂无需求 1 次；WhatsApp 已加；推送 24 次（2023-11-04 → 2025-10-27）　|　**所在清单**：A优质名单(阿联酋 沙特阿拉伯)、AI评估(阿联酋 沙特阿拉伯)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-175
-rating: A
+rating: B
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需
 name_official: "M. Al Barghash Trading & Contracting Co. (MBTC)（沙特东部省）"
 score: 53
 country: 沙特阿拉伯
@@ -37,10 +37,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特东部省 1976 年成立的 100% 沙资贸易与承包公司（关联 AAM Industrial，ei-telcomlead@ 邮箱 = 电气仪表 / 电信项目组），项目型采购；表内 Project Manager Prabhu Manickam 与 Wasi Akthar，2024-01 对 2 光 4 工业机「有用但现在没需求」，WhatsApp 24 次跟进无实质回复。（调研 2026-10-21；表内兴趣：做项目的 问了几个产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06））；自动分级 B：+6 有互动但表示暂无需求/已有供应商 1 次；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛）；自动分级 B：+6 有互动但表示暂无需求/已有供应商 1 次；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 24 次（2023-11-04 → 2025-10-27）；最近一次客户回复：2024-01-18：有用但现在没需求
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-12 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
@@ -137,7 +137,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Prabhu Manickam（Project Manager（研究档；2024-01「有用但现在没需求」；WA 24×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28））prabhu@mbtc.com.sa +966 57 201 2594〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Wasi Akthar（E&I / Telecom lead（研究档 Wasi Akthar；AAM Industrial 项目组）— 不动（第 119 批 官方登记核实 2026-10-28））ei-telcomlead@aamindustrial.com 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）
+- **调研后定级**：B（原自动 B）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -231,15 +231,23 @@ updated: 2026-10-30
 | 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracti：M. Al-Barghash Trading & Contracting Company (MBTC)（mbtc.com.sa；**1976 年成立；100% 沙资；总部 Al-K · 未取（CR 1 查未得） · 营业中（名录） · 成立 1976 · Al-Khobar 31952 / P.O. Box 31996 Dammam, Eastern Province, Saudi Arabia — <https://www.protenders.com/companies/mohammad-al-barghash-trading-construction-company>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-30：SignalHire / RocketReach / AeroLeads：M. Al Barghash Trading & Contracting（MBTC）· Al-Khobar（4th St corner Kharj St, Thuqbah-2）· Energy / Saudi Aramco approved contractor · 1,000–5,000 employees（AeroLeads 70）· revenue ≈$414.6M · Head of IT Hariprasath Ramu · Procurement Engineer Venkatesh Raja · 项目工程师多人（Buqayq 等） — <https://www.signalhire.com/companies/m-al-barghash-company>　*阿美认证的大型 EPC 承包商 = 项目型终端，设备需走阿美供应商名录 → A-DEEP-11 下放 B（B1 观察）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：mbtc.com.sa in:email；"mbtc.com.sa" in:readme in:description；mbtc.com.sa type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -314,7 +322,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-244GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -341,7 +349,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -377,11 +385,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）
 
 ---
 

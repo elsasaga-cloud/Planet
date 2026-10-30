@@ -418,6 +418,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYST：Nayon Kontrol Systems（NKS；nkstech.net；**No. 4 Illinois St., Brgy. Silangan, District III,  · 未取（SEC 号 1 查未得） · 营业中（官网 + 企业库） · 成立 约 1996 · No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109, Phili",
+    "url": "https://www.aihitdata.com/company/01B1B037/nayon-kontrol-systems/overview",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "aihitdata / ZoomInfo / JobStreet：Nayon Kontrol Systems（NKS）· No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City · established 1996 · 11–50 · est. revenue $14.8M · SCADA & automation SI for electric utilities（first real SCADA in electric cooperatives）+ oil/gas/water/railway/BMS · 关联 NKS Energy Utilities, NKS Solar One, NKS Biomass One",
+    "url": "https://www.aihitdata.com/company/01B1B037/nayon-kontrol-systems/overview",
+    "note": "菲律宾电力 SCADA 集成商（≈$15M）→ 变电站工业交换机对位（railway 部分守界）",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

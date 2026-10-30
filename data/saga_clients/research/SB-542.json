@@ -432,6 +432,16 @@
     "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：companyhouse.de（LANOPIA GmbH；Euphemiaweg 20 A 852：LANOPIA GmbH（lanopia.de；巴伐利亚 Altomünster；Amtsgericht München HRB 143448）— 2002-07-05 成立的光纤 · HRB 143448（Amtsgericht München） · Active · 成立 2002-07-05 · Gewerbepark 23, 85250 Altomünster（登记地址 Euphemiaweg 20a）",
+    "url": "https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

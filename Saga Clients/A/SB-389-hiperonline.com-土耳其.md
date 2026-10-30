@@ -186,13 +186,14 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 **故事线**：土耳其·ISP/运营商；登记坐实：TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgele: HİPERONLİNE İLETİŞ。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424XGGM；路径：MX 未确认；最近来信 无。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：官网：HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ，BTK 授权 ISP；地址 Binbaşı Reşatbey Mah. 351 Sok. Şükrü Ölçer İş Merkezi No:2 Gaziemir / İzmir；客服 0850 840 98 83 — <https://hiperonline.com.tr/eskisehir-metro-ethernet-internet>　*总部在伊兹密尔 Gaziemir，Eskişehir 是自建光纤 + Airfiber 无线的重点城市*
+- 2026-10-30：TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgele：HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ（İzmir 总部；Eskişehir 为分部） · Vergi No 3330751186（Gaziemir Vergi Daire · Aktif（官网 .com.tr 在线；**.com 域已死 · 成立 2014（官网） · İzmir（Gaziemir 税务局辖区）；分部 Eskişehir（0850 840 98 83） — <https://hiperonline.com.tr/belgelerimiz>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

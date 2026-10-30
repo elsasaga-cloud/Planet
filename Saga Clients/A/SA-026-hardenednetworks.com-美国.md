@@ -269,9 +269,13 @@ A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌�
 | 2026-01-16 | 去 | A | Re: Marvell Alleycat5 Solution |  |
 | 2026-02-12 | 去 | A | Updated Ethernet Switches Links |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · Florida 公司（corporationwiki 摘要）+ FDOT 州采购合同 PDF（DOT-ITB：EXPRESS SUPPLY, INC.（品牌 Hardened Networks = ITS Express；关联 ITS Express Inc.） · Florida corporation（Express Supply, Inc. · 两家公司均 Active（corporationwiki）； · 成立 Express Su · 632 Gatlin Ave, Orlando, FL 32806 — <https://www.corporationwiki.com/Florida/Orlando/mark-v-schulting-P1253020.aspx>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

@@ -256,13 +256,17 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-30 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：Visiotech 招聘页（2025-04）：「VISIOTECH es el mayor distribuidor europeo de material de seguridad electrónica, AV y redes, con una facturación total aproximada de 140M de euros, más de 330 empleados y presencia comercial en la gran mayoría de los países de Europa Occidental, con la sede principal ubicada en Madrid」（2024 初版本：130M€ / 300+ 人） — <https://empleo.visiotechsecurity.com/jobs/comercial-interno-canal-retail>　*欧洲最大安防/AV/网络分销商之一，一年营收 +10M€；网络品类在其主营里 → 分销 20% 档的头部目标*
+
+**登记**
+
+- 2026-10-30：ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alb：VISIOTECH SECURITY S.L.（visiotechsecurity.com；**官网页脚：CIF B80645518；Calle Alberto Sánchez 3 · B80645518 · 营业中（官网 2026） · 成立 未取 · Calle Alberto Sánchez 31, 28052 Madrid — <https://www.visiotechsecurity.com/en/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

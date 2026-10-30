@@ -327,9 +327,13 @@ A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 
 | 2026-09-25 | 来 | R | Thank you - It looks good. I will take a look at the switch. What would be our cost? |  |
 | 2026-09-27 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人：VILINK COMMUNICATIONS, INC.（Vi-Link） · California corporation（实体号待补） · 经营中但明显收缩（Brea 门店 YP 标 CLOSED；D · 成立 1993（Linke · 450 Goddard, Irvine, CA 92618（现）；2913 Saturn St Ste J, Brea, CA 92821（旧）；5160 Av — <https://www.linkedin.com/company/vilink-communications>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

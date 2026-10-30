@@ -261,13 +261,14 @@ updated: 2026-10-30
 | 2026-07-14 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-20 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：companycheck（Companies House）：SWITCHTEC LIMITED · 01613368 · Incorporated 12 February 1982 · Active - Accounts Filed · SIC 46520 Wholesale of electronic and telecommunications equipment and parts · Brooms Road, Stone, Staffordshire ST15 0SH · Directors 8；2020-07 Switchtec Components Limited 名下一项 charge 未清 — <https://companycheck.co.uk/company/01613368/SWITCHTEC-LIMITED/companies-house-data>　*1982 年起的英国工业元器件专业分销（UK franchisee for world-wide manufacturers）；研究档「11–50 人」核实为 13–15 人*
+- 2026-10-30：GB · 1 次检索：Companies House 01613368（SWITCHTEC LIMITED；1982-0：SWITCHTEC LIMITED（switchtec.com；Stone, Staffordshire）— 1982 起的工业电气 / 电子元器件分销，Lester 家族，7,0 · Companies House 01613368（关联 02612994 / 0 · Active（2026-05 申请扩建） · 成立 1982-02-12 · Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH — <https://find-and-update.company-information.service.gov.uk/company/01613368>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **KP**
 

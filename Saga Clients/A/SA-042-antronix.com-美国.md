@@ -275,9 +275,13 @@ A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · 新泽西州公司（Bloomberg / D&B / Buzzfile 登记摘要）+ 官网 About（2026：ANTRONIX, INC. · New Jersey corporation（州登记号待补） · 经营中、私人持有（官网 2026-10「still priv · 成立 1980-03-12 · 440 Forsgate Drive, Cranbury, NJ 08512（全球总部 + 技术中心） — <https://antronix.com/about-antronix/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

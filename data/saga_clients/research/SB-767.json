@@ -650,6 +650,16 @@
     "batch": "INTEL-12",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UK Companies House：ITM SYSTEMS LIMITED · 07747218 · Active · 成立 2011-08-22 · North Wing, Broadway Court, Peterborough PE1 1RP（与官网一致）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07747218",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

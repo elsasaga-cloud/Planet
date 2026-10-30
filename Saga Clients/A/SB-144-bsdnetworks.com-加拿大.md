@@ -251,13 +251,14 @@ updated: 2026-10-30
 - 网查（2026-10-30）：BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613 — <https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html>
 - 网查（2026-10-30）：BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner — <https://www.zoominfo.com/c/bsd-networks/10489097>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner — <https://www.zoominfo.com/c/bsd-networks/10489097>　*A-DEEP-01 网查镜像*
+- 2026-10-30：CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公：BSD International Marketing（品牌 BSD Networks） · 安省公司（Ontario Business Registry 需 JS，编号未取 · 在营（官网 2026；Graybar Canada 在售 2 · 成立 1982（ZoomI · 登记 275 York Hill Blvd, Thornhill ON L4J 3L5（住宅）；经营 520 Applewood Cres, Concord / — <https://www.dnb.com/business-directory/company-profiles.bsd_networks.239dc1ee4b87cb51cc71290a587c2280.html>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

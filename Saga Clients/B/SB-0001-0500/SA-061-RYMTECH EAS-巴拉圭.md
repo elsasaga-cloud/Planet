@@ -1,18 +1,18 @@
 # RYMTECH EAS
 **官方名称（调研核实）**：RYMTECH E.A.S.（商号 RYMTECH TACTICAL CYBEROPS；RYMTECH CYBERSECURITY LLC；亚松森，巴拉圭）
 
-> **评级 A**　|　巴拉圭　|　档案编号 `SA-061`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　巴拉圭　|　档案编号 `SA-061`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 Micro（DNCP 登记））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 Micro（DNCP 登记））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-10-06）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-061
-rating: A
+rating: B
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RYMTECH：官方登记 Micro 的网络安全服务商、自述不
 name_official: "RYMTECH E.A.S.（商号 RYMTECH TACTICAL CYBEROPS；RYMTECH CYBERSECURITY LLC；亚松森，巴拉圭）"
 score: 69
 country: 巴拉圭
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴拉圭集成/工程商（World Trade Center 亚松森办公地址），WA 在线，3 次回复、18 次跟进，明确需求 2 台 12 光 12 电交换机。（调研 2026-10-21；表内兴趣：2个12光12电 '+5959857 48567 已加）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴拉圭；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RYMTECH：官方登记 Micro 的网络安全服务商、自述不卖硬件 → 微型 + 不对位）；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴拉圭；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-10-06）；最近一次客户回复：2025-01-02：问了高速的 后续没进展了
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：SmartByte 12 光 12 电 — 12 光 12 电 ×2（SOC 机柜或客户现场未定，L3 与否未定）→ 先确认部署与 L3 再报，不报通用价；—
 - **第一问（只问一个）**：For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?
@@ -135,7 +135,7 @@ updated: 2026-10-30
   > Rymtech E.A.S Avenida Aviadores Del Chaco 2050 World Trade Center, Torre 3, Piso 14 Asuncion Asuncion 1890
   > 来源：https://www.nsnlookup.com/cage/py（抓取 2026-10-16）
 - **KP**：Ruslan Osorio Guerra（股东 / 负责人（政府采购登记；FIRST 2024 演讲人））—（未公开） —〔https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 A）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RYMTECH：官方登记 Micro 的网络安全服务商、自述不卖硬件 → 微型 + 不对位
 - 备注：LT-T03 官网快照加厚（2026-10-29）：deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。
@@ -227,9 +227,14 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2024.2.9 | 表 | 表 | 发工业电源最新的价格册｜I will check |  |
 | 2025-01-02 | 来 | R | 用户表跟进：推「mini」→ 对方「问了高速的 后续没进展了」 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAm：RYMTECH E.A.S. · RUC 80125463-9 · 美国 CAGE 代码持有（名录） · Activo（政府采购登记在册） · 成立 2015（Conne · WTC Torre 3 Piso 14, Av. Aviadores del Chaco 2050, Asunción；Hernandarias（Alto Pa — <https://www.rym-tech.net/>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：contrataciones.gov.py：RYMTECH E.A.S. · RUC 80125463-9 · Nombre de Fantasía RYMTECH TACTICAL CYBEROPS（Nancy Carolina Elizalde de Osorio, Ruslan Osorio Guerra）· Empresa de Acciones Simplificada · Tamaño Micro · inscripción 2022-06-16 · Hernandarias, Alto Paraná · 服务：SOCaaS、渗透测试、DFIR、Hardware as a Service；官网：「No comercializamos tecnología」 — <https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html>　*微型网络安全服务商（官方登记 Micro）、自述不卖硬件 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -256,7 +261,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://rym-tech.net/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 23 字符；首行：Carbonio Authentication |
+| [home](https://rym-tech.net/static/login/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 23 字符；首行：Carbonio Authentication |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -300,7 +305,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -327,7 +332,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -353,11 +358,11 @@ Hi, Simon from Saga Telecom. On the two 12-SFP + 12-RJ45 units: before I quote, 
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
 
 ---
 

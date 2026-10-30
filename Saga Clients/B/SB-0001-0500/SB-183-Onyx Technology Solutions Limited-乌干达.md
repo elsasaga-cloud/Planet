@@ -1,18 +1,18 @@
 # Onyx Technology Solutions Limited
 **官方名称（调研核实）**：Onyx Technology Solutions Limited（乌干达）
 
-> **评级 A**　|　乌干达　|　档案编号 `SB-183`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　乌干达　|　档案编号 `SB-183`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 微型）　|　标签：prepay
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实 → 观察；命中 2/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 微型）　|　标签：prepay
 >
 > **类型**：系统集成/工程商（推断）　|　**历史关系**：实质回复 4 次；WhatsApp 已加；推送 15 次（2024-04-29 → 2025-10-06）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-183
-rating: A
+rating: B
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Onyx（乌干达，无域名）：不可核
 name_official: "Onyx Technology Solutions Limited（乌干达）"
 score: 52
 country: 乌干达
@@ -36,10 +36,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：乌干达 WISP / 网络集成商（Steven Ntengo），用 Cambium Force 200/190 无线，需求工业 PoE 注入器（Saga 价目无，Q-32）；2024 年问工业交换机价格、48 口 / 228 价格，对 154（1 SFP + 1 GE + 4 PoE 工业）有兴趣，要价目表。（调研 2026-10-21；表内兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/乌干达；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Onyx（乌干达，无域名）：不可核）；自动分级 B：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/乌干达；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 15 次（2024-04-29 → 2025-10-06）；最近一次客户回复：2024-09-26：price list
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
 - **下一步**：不动 — —
 
@@ -115,7 +115,7 @@ updated: 2026-10-30
   > 兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price list
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Steven Ntengo（联系人（研究档 KP；对 154 有兴趣、要价目）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP / STI-054GP 塔站供电 + STC-228GP $33 一口价 + MOQ 1；注入器不供明说 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29））onyxtechnologysolutionsltd@gmail.com +256 704 803 724〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 B）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Onyx（乌干达，无域名）：不可核
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -188,9 +188,14 @@ updated: 2026-10-30
 | 2024.8.14 | 表 | 表 | 4 8口工业PoE｜对154有兴趣 |  |
 | 926 | 表 | 表 | 2.5G ethernet｜price list |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：UG · 1 次检索：onyxtechnologysolutionsltd.com（Onyx Technology So：Onyx Technology Solutions Ltd（onyxtechnologysolutionsltd.com；**官网：Room S.11 Nathur Buildin · 未取（URSB 号 1 查未得） · 营业中（官网 2025） · 成立 未取 · Room S.11, Nathur Building, Victoria Street, Masaka City, Uganda — <https://onyxtechnologysolutionsltd.com/>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：未得：Onyx Technology Solutions Limited（乌干达，无域名）网查无法锁定　*不可核 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -240,7 +245,7 @@ updated: 2026-10-30
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-154GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -267,7 +272,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -304,11 +309,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）
 
 ---
 

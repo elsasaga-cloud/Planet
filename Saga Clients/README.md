@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 136 / B 1333 / C 3178
+> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 122 / B 1347 / C 3178
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -19,18 +19,18 @@
 | 区域 | A | B | C | 合计 |
 |---|---|---|---|---|
 | 北美 | 21 | 175 | 289 | 485 |
-| 欧洲 | 29 | 446 | 522 | 997 |
+| 欧洲 | 28 | 447 | 522 | 997 |
 | 土耳其 | 16 | 119 | 72 | 207 |
-| 中东 | 9 | 71 | 246 | 326 |
-| 亚太 | 22 | 234 | 696 | 952 |
+| 中东 | 7 | 73 | 246 | 326 |
+| 亚太 | 16 | 240 | 696 | 952 |
 | 俄语区 | 6 | 100 | 398 | 504 |
 | 南亚 | 19 | 95 | 346 | 460 |
-| 拉美 | 7 | 31 | 212 | 250 |
-| 非洲 | 7 | 60 | 274 | 341 |
+| 拉美 | 4 | 34 | 212 | 250 |
+| 非洲 | 5 | 62 | 274 | 341 |
 | 乌克兰 | 0 | 0 | 55 | 55 |
 | 中国大陆 | 0 | 0 | 17 | 17 |
 | 未知 | 0 | 2 | 51 | 53 |
-| **合计** | 136 | 1333 | 3178 | 4647 |
+| **合计** | 122 | 1347 | 3178 | 4647 |
 
 状态分布：名单内 2011；已推送 1239；WhatsApp 526；用户判定不行 444；有回复 229；发不过去 83；历史合作 80；成交过 20；回复暂无需求 15
 
@@ -38,7 +38,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 ## 调研覆盖（A 候选逐家网页核实）
 
-- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 460 / 调研后降 C 280。
+- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 474 / 调研后降 C 280。
 - 降级口径：≥14 次推送 0 回复（即便面谈/OEM 意向）→ B 并标「回复即升 A」；核心需求在 Saga 线外（IP67、M12、HDMI 延长器、仅 SFP/DWDM、400G）→ B；已停业 / 休眠壳公司 / 疑似同行 / 军工守界 / TKH 等集团子公司 → C；中国直采的纯比价客户 → B。
 - B/C 级未逐家网页核实（量级 4,500+），分级依据为用户表信号 + 规则；任一 B 升 A 前先补一份 research JSON。
 
@@ -59,7 +59,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 目录结构：A 平铺；B / C 每 500 户一个子目录（`B/SB-0001-0500/`、`B/SB-0501-1000/`、`B/SB-1001-1500/` …，GitHub 网页一个目录只显示前 1,000 个文件），编号连号，看编号就知道在哪个子目录；各级 `_索引.md` 的链接直达文件。
 
-### A 级（136）— `Saga Clients/A/`
+### A 级（122）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -99,7 +99,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SA-055 | NOVA Group Engineering Project Electronic Co LTD | 土耳其 | 进口批发商/分销商（弱电安防） | 已推送 4 次·未回复 | 72 | 已 | [SA-055-NOVA Group Engineering Project Electroni-土耳其.md](A/SA-055-NOVA%20Group%20Engineering%20Project%20Electroni-土耳其.md) |
 | SA-059 | data-connect.com | 美国 | 品牌商（自有品牌）+ 分销 | 有回复·跟进中 | 70 | 已 | [SA-059-data-connect.com-美国.md](A/SA-059-data-connect.com-美国.md) |
 | SA-060 | gofiberx.com | 美国 | ISP/运营商（终端用户） | 有回复·跟进中 | 70 | 已 | [SA-060-gofiberx.com-美国.md](A/SA-060-gofiberx.com-美国.md) |
-| SA-061 | RYMTECH EAS | 巴拉圭 | 系统集成/工程商 | 有回复·跟进中 | 69 | 已 | [SA-061-RYMTECH EAS-巴拉圭.md](A/SA-061-RYMTECH%20EAS-巴拉圭.md) |
 | SA-063 | Areca Embedded Systems Pvt Ltd | 印度 | 系统集成/设备商 | 有回复·跟进中 | 67 | 已 | [SA-063-Areca Embedded Systems Pvt Ltd-印度.md](A/SA-063-Areca%20Embedded%20Systems%20Pvt%20Ltd-印度.md) |
 | SA-066 | ccs-msk.ru | 俄罗斯 | 分销商（企业网络 + 工业以太网） | 有回复·跟进中 | 65 | 已 | [SA-066-ccs-msk.ru-俄罗斯.md](A/SA-066-ccs-msk.ru-俄罗斯.md) |
 | SA-070 | Top Italia | 意大利 | 经销/集成商 | 已推送 14 次·未回复 | 61 | 已 | [SA-070-Top Italia-意大利.md](A/SA-070-Top%20Italia-意大利.md) |
@@ -119,13 +118,10 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-003 | Rio-Import LLC（ООО «РИО-ИМПОРТ»） | 俄罗斯 | 分销商/经销商（工业自动化） | 成交过·已凉（Simon: gg） | 128 | 已 | [SB-003-Rio-Import LLC（ООО «РИО-ИМПОРТ»）-俄罗斯.md](A/SB-003-Rio-Import%20LLC（ООО%20«РИО-ИМПОРТ»）-俄罗斯.md) |
 | SB-006 | unitedcontrolengg.com | 印度 | 分销商 + 系统集成（工业自动化） | 成交过·已凉（Simon: gg） | 107 | 已 | [SB-006-unitedcontrolengg.com-印度.md](A/SB-006-unitedcontrolengg.com-印度.md) |
 | SB-020 | 52networks.com | 美国 | 经销商（政府/商业小单，已成交） | 成交过·已凉（Simon: gg） | 77 | 已 | [SB-020-52networks.com-美国.md](A/SB-020-52networks.com-美国.md) |
-| SB-031 | OM Telecom S.R.L. | 秘鲁 | 电信设备经销商 | 有回复·跟进中 | 69 | 已 | [SB-031-OM Telecom S.R.L-秘鲁.md](A/SB-031-OM%20Telecom%20S.R.L-秘鲁.md) |
 | SB-043 | Euro Technology | 阿联酋 | 安防系统集成商 | 有回复·跟进中 | 65 | 已 | [SB-043-Euro Technology-阿联酋.md](A/SB-043-Euro%20Technology-阿联酋.md) |
 | SB-047 | topica.mn | 蒙古国 | 贸易商 | 有回复·跟进中 | 65 | 已 | [SB-047-topica.mn-蒙古国.md](A/SB-047-topica.mn-蒙古国.md) |
 | SB-053 | onnettechnologies.com | 阿联酋 | IT 贸易商 | 有回复·跟进中 | 63 | 已 | [SB-053-onnettechnologies.com-阿联酋.md](A/SB-053-onnettechnologies.com-阿联酋.md) |
-| SB-056 | Net Work Business Solutions | 爱沙尼亚 | IT/网络服务商 | 有回复·跟进中 | 62 | 已 | [SB-056-Net Work Business Solutions-爱沙尼亚.md](A/SB-056-Net%20Work%20Business%20Solutions-爱沙尼亚.md) |
 | SB-057 | Rfcom | 希腊 | 经销/集成商 | 有回复·跟进中 | 62 | 已 | [SB-057-Rfcom-希腊.md](A/SB-057-Rfcom-希腊.md) |
-| SB-059 | avanca.com.sg | 新加坡 | 工业产品经销商 | 有回复·跟进中 | 62 | 已 | [SB-059-avanca.com.sg-新加坡.md](A/SB-059-avanca.com.sg-新加坡.md) |
 | SB-071 | nkstech.net | 菲律宾 | 经销/集成商 | 历史合作·维护（非 Saga 成单） | 61 | 已 | [SB-071-nkstech.net-菲律宾.md](A/SB-071-nkstech.net-菲律宾.md) |
 | SB-074 | Bilge SECURITY SYSTEMS | 土耳其 | 安防安装/经销商 | WhatsApp 已加·未回复 | 60 | 已 | [SB-074-Bilge SECURITY SYSTEMS-土耳其.md](A/SB-074-Bilge%20SECURITY%20SYSTEMS-土耳其.md) |
 | SB-077 | Liveye | 德国 | 安防产品商 | WhatsApp 已加·未回复 | 60 | 已 | [SB-077-Liveye-德国.md](A/SB-077-Liveye-德国.md) |
@@ -134,8 +130,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-103 | Grundig | 德国 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 59 | 已 | [SB-103-Grundig-德国.md](A/SB-103-Grundig-德国.md) |
 | SB-104 | STS Italia S.r.l. | 意大利 | 经销/集成（类型待核） | 有回复·跟进中 | 59 | 已 | [SB-104-STS Italia S.r.l-意大利.md](A/SB-104-STS%20Italia%20S.r.l-意大利.md) |
 | SB-109 | ite.net.pk | 巴基斯坦 | 经销/集成（类型待核） | 有回复·跟进中 | 59 | 已 | [SB-109-ite.net.pk-巴基斯坦.md](A/SB-109-ite.net.pk-巴基斯坦.md) |
-| SB-110 | itkati.com | 乌干达 | 经销/集成（类型待核） | 有回复·跟进中 | 59 | 已 | [SB-110-itkati.com-乌干达.md](A/SB-110-itkati.com-乌干达.md) |
-| SB-1102 | vienthonggiatot.com | 越南 | 经销/集成（类型待核） | 有回复·跟进中 | 21 | 已 | [SB-1102-vienthonggiatot.com-越南.md](A/SB-1102-vienthonggiatot.com-越南.md) |
 | SB-111 | nivoxtech.com | 印度 | 经销/集成（类型待核） | 有回复·跟进中 | 59 | 已 | [SB-111-nivoxtech.com-印度.md](A/SB-111-nivoxtech.com-印度.md) |
 | SB-1113 | Fastball | 印度 | 经销/贸易（德里） | 成交过·已凉（Simon: gg） | 77 | 已 | [SB-1113-Fastball-印度.md](A/SB-1113-Fastball-印度.md) |
 | SB-1115 | Milliseconds Evolution Limited | 英国 | 网络集成/MikroTik 顾问（拟经销） | 名单内·未触达 | 46 | 已 | [SB-1115-Milliseconds Evolution Limited-英国.md](A/SB-1115-Milliseconds%20Evolution%20Limited-英国.md) |
@@ -143,7 +137,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-1120 | Obmac systems 可以推一下 | 赞比亚 | 系统集成/工程商 | 成交过·已凉（Simon: gg） | 18 | 已 | [SB-1120-Obmac systems 可以推一下-赞比亚.md](A/SB-1120-Obmac%20systems%20可以推一下-赞比亚.md) |
 | SB-1134 | conexionderedes.com | 萨尔瓦多 | 中美洲网络集成/分销商（为其客户转发方案） | 已推送 13 次·未回复 | 7 | 已 | [SB-1134-conexionderedes.com-萨尔瓦多.md](A/SB-1134-conexionderedes.com-萨尔瓦多.md) |
 | SB-1136 | fiberoptics4sale.com | 美国 | 线上零售/分销（光纤配件多品牌） | 已推送 8 次·未回复 | 2 | 已 | [SB-1136-fiberoptics4sale.com-美国.md](A/SB-1136-fiberoptics4sale.com-美国.md) |
-| SB-1137 | Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda. | 巴西 | 巴西安防设备经销（CCTV） | 名单内·未触达 | -2 | 已 | [SB-1137-Infotec Comercio de Equipamentos e Siste-巴西.md](A/SB-1137-Infotec%20Comercio%20de%20Equipamentos%20e%20Siste-巴西.md) |
 | SB-119 | wirestar.net | 美国 | 经销/集成（类型待核） | 有回复·跟进中 | 58 | 已 | [SB-119-wirestar.net-美国.md](A/SB-119-wirestar.net-美国.md) |
 | SB-122 | Tera Technologies and Engineering Ltd | 坦桑尼亚 | 系统集成/工程商 | 有回复·跟进中 | 57 | 已 | [SB-122-Tera Technologies and Engineering Ltd-坦桑尼亚.md](A/SB-122-Tera%20Technologies%20and%20Engineering%20Ltd-坦桑尼亚.md) |
 | SB-131 | DE secure | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 55 | 已 | [SB-131-DE secure-土耳其.md](A/SB-131-DE%20secure-土耳其.md) |
@@ -154,27 +147,21 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-163 | skeo.ru | 俄罗斯 | 经销/集成（类型待核） | 有回复·跟进中 | 54 | 已 | [SB-163-skeo.ru-俄罗斯.md](A/SB-163-skeo.ru-俄罗斯.md) |
 | SB-164 | unea-x.com | 日本 | IT/工业产品贸易商（日本，工业 switch 现国内货） | 已推送 2 次·未回复 | 54 | 已 | [SB-164-unea-x.com-日本.md](A/SB-164-unea-x.com-日本.md) |
 | SB-173 | inaxsys.com | 加拿大 | 加拿大安防品牌商（交换机现由 HRUI 代工贴标 → Q-33 口径，OEM 采购） | 已推送 8 次·未回复 | 53 | 已 | [SB-173-inaxsys.com-加拿大.md](A/SB-173-inaxsys.com-加拿大.md) |
-| SB-175 | mbtc.com.sa | 沙特阿拉伯 | 系统集成/工程商 | 回复暂无需求 | 53 | 已 | [SB-175-mbtc.com.sa-沙特阿拉伯.md](A/SB-175-mbtc.com.sa-沙特阿拉伯.md) |
-| SB-183 | Onyx Technology Solutions Limited | 乌干达 | 系统集成/工程商 | 有回复·跟进中 | 52 | 已 | [SB-183-Onyx Technology Solutions Limited-乌干达.md](A/SB-183-Onyx%20Technology%20Solutions%20Limited-乌干达.md) |
 | SB-189 | vintronsmartvision.com | 印度 | 印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购） | 名单内·未触达 | 52 | 已 | [SB-189-vintronsmartvision.com-印度.md](A/SB-189-vintronsmartvision.com-印度.md) |
 | SB-193 | Dema Vertriebs GmbH | 德国 | 经销/集成（类型待核） | 有回复·跟进中 | 51 | 已 | [SB-193-Dema Vertriebs GmbH-德国.md](A/SB-193-Dema%20Vertriebs%20GmbH-德国.md) |
 | SB-201 | Elsi | 意大利 | 安防集成/经销 | 已推送 14 次·未回复 | 50 | 已 | [SB-201-Elsi-意大利.md](A/SB-201-Elsi-意大利.md) |
-| SB-226 | HANCHANG Infotech CO.,LTD | 韩国 | 韩国网络品牌商（自有标商用 FS，现 Volktek） | 已推送 2 次·未回复 | 49 | 已 | [SB-226-HANCHANG Infotech CO.,LTD-韩国.md](A/SB-226-HANCHANG%20Infotech%20CO.,LTD-韩国.md) |
 | SB-243 | hfcl.com | 印度 | 印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复） | 已推送 1 次·未回复 | 49 | 已 | [SB-243-hfcl.com-印度.md](A/SB-243-hfcl.com-印度.md) |
 | SB-248 | nellyssecurity.com | 美国 | 安防集成/经销 | 已推送 9 次·未回复 | 49 | 已 | [SB-248-nellyssecurity.com-美国.md](A/SB-248-nellyssecurity.com-美国.md) |
 | SB-255 | switchtek | 英国 | 分销商/经销商 | 已推送 17 次·未回复 | 49 | 已 | [SB-255-switchtek-英国.md](A/SB-255-switchtek-英国.md) |
-| SB-267 | bio-cognitive.com | 新加坡 | 安防集成/经销 | 有回复·跟进中 | 48 | 已 | [SB-267-bio-cognitive.com-新加坡.md](A/SB-267-bio-cognitive.com-新加坡.md) |
 | SB-274 | fiberix.com.tr | 土耳其 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 48 | 已 | [SB-274-fiberix.com.tr-土耳其.md](A/SB-274-fiberix.com.tr-土耳其.md) |
 | SB-315 | stc-vietnam.com | 越南 | 分销商/经销商 | 有回复·跟进中 | 46 | 已 | [SB-315-stc-vietnam.com-越南.md](A/SB-315-stc-vietnam.com-越南.md) |
 | SB-326 | PROXEET LIMITED | 塞浦路斯 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 45 | 已 | [SB-326-PROXEET LIMITED-塞浦路斯.md](A/SB-326-PROXEET%20LIMITED-塞浦路斯.md) |
 | SB-331 | retelem-dz.com | 阿尔及利亚 | 经销/集成（类型待核） | 有回复·跟进中 | 45 | 已 | [SB-331-retelem-dz.com-阿尔及利亚.md](A/SB-331-retelem-dz.com-阿尔及利亚.md) |
 | SB-359 | larch-networks.com | 以色列 | 网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购） | 名单内·未触达 | 44 | 已 | [SB-359-larch-networks.com-以色列.md](A/SB-359-larch-networks.com-以色列.md) |
-| SB-367 | thuyluc.com | 越南 | 经销/集成（类型待核） | 有回复·跟进中 | 44 | 已 | [SB-367-thuyluc.com-越南.md](A/SB-367-thuyluc.com-越南.md) |
 | SB-375 | Delta Consulting | 格鲁吉亚 | 经销/集成（类型待核） | 成交过·已凉（Simon: gg） | 93 | 已 | [SB-375-Delta Consulting-格鲁吉亚.md](A/SB-375-Delta%20Consulting-格鲁吉亚.md) |
 | SB-389 | hiperonline.com | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 43 | 已 | [SB-389-hiperonline.com-土耳其.md](A/SB-389-hiperonline.com-土耳其.md) |
 | SB-392 | makrosisas.com.tr | 土耳其 | 系统集成/工程商 | 名单内·未触达 | 43 | 已 | [SB-392-makrosisas.com.tr-土耳其.md](A/SB-392-makrosisas.com.tr-土耳其.md) |
 | SB-447 | automationsystem.in | 印度 | 经销/集成（类型待核） | 有回复·跟进中 | 41 | 已 | [SB-447-automationsystem.in-印度.md](A/SB-447-automationsystem.in-印度.md) |
-| SB-451 | e-saudi.net | 沙特阿拉伯 | IT/网络贸易商（沙特，有回复，业务待核） | 已推送 1 次·未回复 | 41 | 已 | [SB-451-e-saudi.net-沙特阿拉伯.md](A/SB-451-e-saudi.net-沙特阿拉伯.md) |
 | SB-485 | n-itus.com | 韩国 | 经销/集成（类型待核） | 有回复·跟进中 | 40 | 已 | [SB-485-n-itus.com-韩国.md](A/SB-485-n-itus.com-韩国.md) |
 | SB-529 | dmsimfg.com | 美国 | 网络配件品牌商（美国，自有标 MC；官网待核） | 已推送 19 次·未回复 | 38 | 已 | [SB-529-dmsimfg.com-美国.md](A/SB-529-dmsimfg.com-美国.md) |
 | SB-542 | lanopia.de | 德国 | 经销/集成（类型待核） | 已推送 8 次·未回复 | 38 | 已 | [SB-542-lanopia.de-德国.md](A/SB-542-lanopia.de-德国.md) |
@@ -186,7 +173,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-910 | etictelecom.com | 法国 | 经销/集成（类型待核） | 有回复·跟进中 | 28 | 已 | [SB-910-etictelecom.com-法国.md](A/SB-910-etictelecom.com-法国.md) |
 | SB-949 | ksm.com.au | 澳大利亚 | 工业网络经销商（澳大利亚，国内货源在供） | 已推送 22 次·未回复 | 27 | 已 | [SB-949-ksm.com.au-澳大利亚.md](A/SB-949-ksm.com.au-澳大利亚.md) |
 | SB-970 | EION Inc | 加拿大 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 26 | 已 | [SB-970-EION Inc-加拿大.md](A/SB-970-EION%20Inc-加拿大.md) |
-| SB-982 | mcss.co.kr | 韩国 | 系统集成 + 在线商城（PLANET / UniFi 渠道） | 名单内·未触达 | 26 | 已 | [SB-982-mcss.co.kr-韩国.md](A/SB-982-mcss.co.kr-韩国.md) |
 | SB-984 | olsontech.com | 美国 | CATV/PON 光设备商（美国，MC 为副线） | 已推送 11 次·未回复 | 26 | 已 | [SB-984-olsontech.com-美国.md](A/SB-984-olsontech.com-美国.md) |
 | SC-1056 | cloudinfotech.co.in | 印度 | 经销/集成（类型待核） | 名单内·未触达 | 15 | 已 | [SC-1056-cloudinfotech.co.in-印度.md](A/SC-1056-cloudinfotech.co.in-印度.md) |
 | SC-1200 | futurepointt.com | 巴基斯坦 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 13 | 已 | [SC-1200-futurepointt.com-巴基斯坦.md](A/SC-1200-futurepointt.com-巴基斯坦.md) |
@@ -200,9 +186,9 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SC-2904 | firsttech.co.za | 南非 | 经销/集成（类型待核） | 用户判定不行 | -51 | 已 | [SC-2904-firsttech.co.za-南非.md](A/SC-2904-firsttech.co.za-南非.md) |
 | SC-371 | Visiotech | 西班牙 | OEM（闸 2 判定 · 30% 档） | 历史合作·维护（非 Saga 成单） | 22 | 已 | [SC-371-Visiotech-西班牙.md](A/SC-371-Visiotech-西班牙.md) |
 
-### B 级（1333）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
+### B 级（1347）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
 
-全部 1333 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1347 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
 ### C 级（3178）— `Saga Clients/C/`（子目录 `SC-0001-0500/` / `SC-0501-1000/` / `SC-1001-1500/` / `SC-1501-2000/` / `SC-2001-2500/` / `SC-2501-3000/` / `SC-3001-3500/`）
 

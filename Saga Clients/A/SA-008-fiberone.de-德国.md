@@ -377,9 +377,14 @@ A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联�
 | 2026-10-15 | 来 | S | Re: Saga Marvell AC5 Series Fully Ready｜Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with … |  |
 | 2026-10-17 | 去 | S | Re: Saga Marvell AC5 Series Fully Ready |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darms：NYNEX satellite OHG（品牌 fiberONE） · Amtsgericht Darmstadt HRA 84829 · EUID D · 在册（Northdata 无注销 / 破产事件；最近事件 2 · 成立 2012-11-27 · Darmstadt（研究档：Robert-Bosch-Str. 20, 64293 Darmstadt） — <https://www.northdata.de/NYNEX%20satellite%20OHG,%20Darmstadt/HRA%2084829>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：（无新增）NYNEX satellite OHG / fiberONE：Handelsregister HRA 84829 在登记库　*PI 成单户*
 
 **GitHub/技术足迹**
 

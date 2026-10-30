@@ -1,14 +1,14 @@
 # mcss.co.kr
 
-> **评级 A**　|　韩国　|　档案编号 `SB-982`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　韩国　|　档案编号 `SB-982`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：系统集成 + 在线商城（PLANET / UniFi 渠道）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DC线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-982
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 
 score: 26
 country: 韩国
 region: 亚太
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国 ICT 集成商 MCS Solution（엠씨에스솔루션：网络集成 / 云 / IoT / IT 外包；站内商城在售 PLANET IGS-6325-8UP2S2X 工业 L3 PoE、PLANET GS-4210-8P2S、UniFi USW-16/24/48-PoE、Teltonika RUT976；表内「基本都是 UniFi 的 switch」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：基本都是unifi的switch）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5） — 已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续；OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）
 - **第一问（只问一个）**：Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?
@@ -136,7 +136,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：노현진（MCSS support@）（MCS Solution 研究档 KP（support@）= 收件人（抄 sales@）；대표이사 이일우 = 拍板人（第 115 批 官方登记核实 2026-10-28））support@mcss.co.kr 〔S/A 邮箱来信 2026-01-16 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：이일우 Lee Il-woo（대표이사 (주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr 页脚 / jobkorea）= 拍板人（第 115 批 官方登记核实 2026-10-28））sales@mcss.co.kr 〔https://www.mcss.co.kr/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 B）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -222,9 +222,14 @@ updated: 2026-10-30
 | 2026-02-05 | 去 | A | Re: Fw: OEM Core Switching Solution |  |
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：KR · 1 次检索：mcss.co.kr 页脚（(주)엠씨에스솔루션；대표이사 이일우；사업자등록번호 106-86-：(주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr；**사업자등록번호 106-86-25768；통신판매업 제2017-서울금천-1333호 · 사업자등록번호 106-86-25768 / 통신판매업 2017-서울금천-1 · 营业中（商城在线） · 成立 2004-01-30 · 서울 금천구 디지털로 178, 현대가산퍼블릭 A동 1009호 (가산동) — <https://www.mcss.co.kr/>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：mcss.co.kr / JobKorea / sharedit：㈜엠씨에스솔루션（MCSS）· 서울 금천구 디지털로 178 A동 1009호 · 사업자 106-86-25768 · 설립 2004-01-30 · 대표 이일우 · 사원수 9–10 명 · 매출 45억 원 · PLANET / Ubiquiti（공식 총판）/ Omnitron / Teltonika 유통 + NI/SI · 영업대표 함종섭 — <https://www.mcss.co.kr/>　*PLANET/UniFi 渠道但 9–10 人 → A-DEEP-11 下放 B（韩国 B1 重点）*
 
 **GitHub/技术足迹**
 
@@ -312,7 +317,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -339,7 +344,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -382,11 +387,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 26）
 
 ---
 

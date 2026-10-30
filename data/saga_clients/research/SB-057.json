@@ -435,6 +435,16 @@
     "batch": "INTEL-11",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GR · 1 次检索：findbiz.gr（ΞΥΓΚΑΚΗΣ, ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ., Ο.Ε.；Εμπορ：ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ. Ο.Ε.「RFCOM」（Xygkakis Konstantinos Il. O.E.；rfcom.gr；塞萨洛尼基 Σταυρο · ΑΦΜ 未取；ΓΕΜΗ 601010939512（推定） · Active · 成立 2008 · Λαγκαδά 301, 564 30 Σταυρούπολη, Θεσσαλονίκη",
+    "url": "https://findbiz.gr/el/company/xygkakis-konstantinos-il-oe/601010939512",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -55,8 +55,8 @@
    "source": "https://www.mcss.co.kr/"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -256,6 +256,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-11",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）"
   }
  ],
  "a_deep": {
@@ -450,7 +458,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-11",
+  "verdict2_reason": "MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -463,6 +474,26 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：mcss.co.kr 页脚（(주)엠씨에스솔루션；대표이사 이일우；사업자등록번호 106-86-：(주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr；**사업자등록번호 106-86-25768；통신판매업 제2017-서울금천-1333호 · 사업자등록번호 106-86-25768 / 통신판매업 2017-서울금천-1 · 营业中（商城在线） · 成立 2004-01-30 · 서울 금천구 디지털로 178, 현대가산퍼블릭 A동 1009호 (가산동)",
+    "url": "https://www.mcss.co.kr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "mcss.co.kr / JobKorea / sharedit：㈜엠씨에스솔루션（MCSS）· 서울 금천구 디지털로 178 A동 1009호 · 사업자 106-86-25768 · 설립 2004-01-30 · 대표 이일우 · 사원수 9–10 명 · 매출 45억 원 · PLANET / Ubiquiti（공식 총판）/ Omnitron / Teltonika 유통 + NI/SI · 영업대표 함종섭",
+    "url": "https://www.mcss.co.kr/",
+    "note": "PLANET/UniFi 渠道但 9–10 人 → A-DEEP-11 下放 B（韩国 B1 重点）",
+    "batch": "INTEL-21",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

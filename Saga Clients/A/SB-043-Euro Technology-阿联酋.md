@@ -289,13 +289,14 @@ WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 | 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-25 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：2GIS / ReachUAE：Euro Technology（Euro Technology Civil Company）· 136 Al Zajil Street, Mezzanine Office 4, Al Danah, Abu Dhabi · Safety and security systems · Fax 026417333；RocketReach 另有「EURO® Technology Group」（interactiveeuro.co.uk，$7M / 9 人 / 1998）——是否同一主体未确认 — <https://2gis.ae/dubai/firm/70000001038659183>　*阿布扎比安防集成商；规模按研究档 ≈9 人 / ≈$7M 采信（待官网核）*
+- 2026-10-30：AE · 1 次检索：yellowpages-uae.com（Euro Technology；M 4, Ruby Sal：Euro Technology（eurotechnology.ae / eurotechnology.net；**阿布扎比 M4 Ruby Saloon Bldg, Opp Al  · 未取（牌照号 1 查未得） · 营业中（名录 + WA 在线） · 成立 未取 · M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd (Hazaa Bin Zaid Rd), Abu Dhab — <https://www.atninfo.com/co/euro-technology-abu-dhabi-26803>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

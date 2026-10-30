@@ -1,18 +1,18 @@
 # avanca.com.sg
 **官方名称（调研核实）**：Avanca Technologies Pte Ltd（新加坡）
 
-> **评级 A**　|　新加坡　|　档案编号 `SB-059`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　新加坡　|　档案编号 `SB-059`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型（24 年））
+> **P 池并入（B 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型（24 年））
 >
 > **类型**：工业产品经销商（推断）　|　**历史关系**：实质回复 1 次；推送 11 次（2024-02-04 → 2024-10-17）　|　**所在清单**：A优质名单(Singapore)、AI评估(SG)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-059
-rating: A
+rating: B
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Avanca：新加坡 1–10 人工业网络分销 → 微型
 name_official: "Avanca Technologies Pte Ltd（新加坡）"
 score: 62
 country: 新加坡
@@ -37,10 +37,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：新加坡工业通信分销商：工业 4G/5G 路由（R5020、M1200）、工业管理 / 非管理交换机、PoE、光纤 MC（Red Lion N-Tron NT24K 等），GM Steven Fu；表内兴趣 Red Lion 工业 FS，2025-11 对 10G MC 群发回复 info。（调研 2026-10-21；表内兴趣：redlion的工业FS）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Avanca：新加坡 1–10 人工业网络分销 → 微型）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
 - **历史互动**：实质回复 1 次；推送 11 次（2024-02-04 → 2024-10-17）；最近一次客户回复：116：info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无（缺口） — 有货再说。已打开的主题（2/23 封有打开记录）：「Re: 10G Media Converter」(2024-11-06)、「Re: 10G Media Converter」(2024-11-15) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 A 邮箱 —
 
@@ -144,7 +144,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表邮件签名）（） 〔用户 Clients 表〕
 - **KP**：Steven Fu（General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））steven@avanca.com.sg +65 6242 5108〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
+- **调研后定级**：B（原自动 A）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Avanca：新加坡 1–10 人工业网络分销 → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。
 
@@ -237,9 +237,14 @@ updated: 2026-10-30
 | 2026-08-21 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：SG · 1 次检索：sgpbusiness（AVANCA TECHNOLOGIES PTE. LTD.；UEN 200：Avanca Technologies Pte. Ltd.（avanca.com.sg；**UEN 200207710N；注册 2002-09-06；Private Company · UEN 200207710N · Live Company · 成立 2002-09-06 · 23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209 — <https://www.sgpbusiness.com/company/Avanca-Technologies-Pte-Ltd>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：ZoomInfo / EMIS / Kompass：Avanca Technologies Pte Ltd · 23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209 · incorporated 2002-09-06 · 1–10 employees · regional distributor：Serial Server、Industrial Switches、4G/5G industrial routers、Audio/IO over IP · Sales Manager Benny Chee Fu — <https://www.zoominfo.com/c/avanca-technologies-pte-ltd/480924629>　*1–10 人工业网络分销 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -271,7 +276,7 @@ updated: 2026-10-30
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-059/`；本节随档案重渲染刷新，实时看日志。
 
@@ -324,7 +329,7 @@ updated: 2026-10-30
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -351,7 +356,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ redlion, FS |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -387,11 +392,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 

@@ -441,6 +441,16 @@
     "batch": "INTEL-14",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实：San Telequip Private Limited（santelequip.com；**CIN U32202PN1992PTC065720；ROC Pune；1992-03- · U32202PN1992PTC065720（CIN） · Active（年报 2023-03-31） · 成立 1992-03-04 · Pune, Maharashtra（注册地址见 MCA）",
+    "url": "https://www.zaubacorp.com/SAN-TELEQUIP-PRIVATE-LIMITED-U32202PN1992PTC065720",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

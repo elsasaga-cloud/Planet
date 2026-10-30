@@ -284,9 +284,13 @@ A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其�
 | 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）：CXR ANDERSON JACOBSON（SAS） · SIREN 785754706（总部 SIRET 78575470600139） · Active（etat_administratif A；IN · 成立 1983-04-10 · 28 rue de l'Ornette, 28410 Abondant（Eure-et-Loir，巴黎西 80 km）；历史上 5 个机构，仅总部仍开（Gent — <https://annuaire-entreprises.data.gouv.fr/entreprise/785754706>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

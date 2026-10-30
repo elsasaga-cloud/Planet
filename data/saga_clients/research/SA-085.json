@@ -265,6 +265,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + ：HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ · İstanbul Ticaret Sicil No 12401448 · LEI · 经营中（LEI ISSUED；官网 / LinkedIn 活 · 成立 2000-11-22 · İkitelli OSB Mah. 8. Cadde Boypaş Blok No:3A, Başakşehir, İstanbul 34490",
+    "url": "https://www.lei-lookup.com/record/7890008F3LXUBMYF0N25/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -1282,6 +1282,16 @@
 "batch": "INTEL-17",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究：Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae） · （登记状态不可免费核） · 成立 — · UAE（Dubai，网店 + 门店）",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -2068,6 +2078,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · SAM.gov 联邦供应商登记（CAGE / DUNS，经 cage.report 镜像，记录更新 2026：SIMREX CORPORATION · CAGE 1WEC8 · DUNS 087787573 · 注册地 Delawa · SAM 登记 Active（2026-05-06 续期，到期 · 成立 业务始于 1996- · 1223 William St, Buffalo, NY 14206（制造与服务设施）",
+"url": "https://cage.report/DUNS/087787573",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -2793,6 +2813,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）：Eyescan Private Security Services Ltd · （登记状态不可免费核） · 成立 2001（官网「Si · Limassol, Cyprus",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -3452,6 +3482,26 @@
 "url": "",
 "note": "",
 "batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "DE · 1 次检索未命中（boeck-technology.de / sicherheitstechnik-bock.：Boecek Sec（boecek.de；用户表原值；德国）— 1 次检索未命中该域名的任何公开页面（同名 boeck GmbH Leipheim HRB 15558 / Sich · 未取 · 未知（域名无公开页） · 成立 未取 · 未取（德国）",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "（无新增）Boecek Sec：无公开网页，登记线索在登记库；WhatsApp +49 172 5368536 在联（Simon 2026-10-30）",
+"url": "",
+"note": "留 A（Simon 亲联）",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -5523,6 +5573,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人：VILINK COMMUNICATIONS, INC.（Vi-Link） · California corporation（实体号待补） · 经营中但明显收缩（Brea 门店 YP 标 CLOSED；D · 成立 1993（Linke · 450 Goddard, Irvine, CA 92618（现）；2913 Saturn St Ste J, Brea, CA 92821（旧）；5160 Av",
+"url": "https://www.linkedin.com/company/vilink-communications",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -6452,6 +6512,26 @@
 "url": "",
 "note": "PI 成单户；身份以 Companies House 07614771 为准",
 "batch": "INTEL-10",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UK Companies House：GO GREEN IT LTD · 07614771 · Active · 成立 2011-04-26 · 222 Warwick Avenue, Derby DE23 6HP（住宅街道地址 = 家庭办公，不是仓库 / 写字楼）",
+"url": "https://find-and-update.company-information.service.gov.uk/company/07614771",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "（无新增）GO GREEN IT LTD 07614771：Companies House 在登记库 + 申报历史已 watch",
+"url": "",
+"note": "PI 成单户",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -7736,6 +7816,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darms：NYNEX satellite OHG（品牌 fiberONE） · Amtsgericht Darmstadt HRA 84829 · EUID D · 在册（Northdata 无注销 / 破产事件；最近事件 2 · 成立 2012-11-27 · Darmstadt（研究档：Robert-Bosch-Str. 20, 64293 Darmstadt）",
+"url": "https://www.northdata.de/NYNEX%20satellite%20OHG,%20Darmstadt/HRA%2084829",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "（无新增）NYNEX satellite OHG / fiberONE：Handelsregister HRA 84829 在登记库",
+"url": "",
+"note": "PI 成单户",
+"batch": "INTEL-21",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -8464,6 +8564,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · find.com.tr（登记摘要 + 经营范围 2007-11-09 修订）+ EMIS（成立日，2：KOPTEK BİLGİSAYAR VE İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Odası 会员（Ticaret Sicil  · 经营中（EMIS 2026-03 更新；官网在线） · 成立 2006-02-07 · Gayrettepe Mah. Fuat Sarp Sok. No:5/1, Balmumcu, Beşiktaş / İstanbul（官网 İletişim",
+"url": "https://www.find.com.tr/Company/koptekbilgisayarveiletisimsistemlerisanayiveticaretlimitedsirketi",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -9540,6 +9650,16 @@
 "batch": "INTEL-16",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "대한민국 · 사업자등록 공시（nextu.kr 商城資訊頁）+ KODATA / NICE 企業資訊（cookiede：(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXT / NEXTU） · 사업자등록번호 106-86-42660 · 법인번호 110111-3**** · 경영중（2026 招聘 / 商城在線） · 成立 2006-04-04 · 서울 용산구 새창로45길 78 진성빌딩 302호 / 502호（신계동）04370",
+"url": "https://cookiedeal.io/company-search/1068642660/%EC%9D%B4%EC%A7%80%EB%84%B7%EC%9C%A0%EB%B9%84%EC%BF%BC%ED%84%B0%EC%8A%A4",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -10547,6 +10667,16 @@
 "batch": "INTEL-09",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）：CXR ANDERSON JACOBSON（SAS） · SIREN 785754706（总部 SIRET 78575470600139） · Active（etat_administratif A；IN · 成立 1983-04-10 · 28 rue de l'Ornette, 28410 Abondant（Eure-et-Loir，巴黎西 80 km）；历史上 5 个机构，仅总部仍开（Gent",
+"url": "https://annuaire-entreprises.data.gouv.fr/entreprise/785754706",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -11387,6 +11517,16 @@
 "url": "http://www.widen.co.th/index.php?content=about",
 "note": "泰国光纤分销商（三地分支 + 经销网络）；KP Thawat",
 "batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）：WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS） · （登记状态不可免费核） · 成立 — · Nonthaburi, Thailand",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -13719,6 +13859,16 @@
 "batch": "INTEL-08",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UK Companies House：MEGNET LTD. · 04748999 · Active · 成立 2003-04-30 · Mortlake Business Centre, 20 Mortlake High Street, London SW14 8JN（商务中心地址，非自有办公室",
+"url": "https://find-and-update.company-information.service.gov.uk/company/04748999",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -14360,6 +14510,16 @@
 "url": "https://www.gz-spb.ru/gzSuppliers/ViewSupplier/15399",
 "note": "PI 成单户：下塔吉尔小型分销商（条码为主 + 网络 PoE），年收入约 64M RUB、做政府采购；主 OKVED 登记为不动产出租（经营多元）",
 "batch": "INTEL-11",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Россия · ЕГРЮЛ 镜像（rusprofile / saby / checko / synapsenet / ：ООО «БИТБУК»（BitBook LLC，bitbuk.ru / bitbook.ru） · ОГРН 1186658033220 · ИНН 6623126845 · КП · Действует（经营中，2018-04-24 起） · 成立 2018-04-24 · 622013, Свердловская обл., г. Нижний Тагил, ул. Октябрьской Революции, д. 7А, кв",
+"url": "https://www.rusprofile.ru/id/11421194",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -16616,6 +16776,16 @@
 "batch": "INTEL-09",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像）：BITSTREAM SPÓŁKA AKCYJNA（原 Bitstream Sp. z o.o.，KRS 0000266288） · KRS 0001010572（S.A.，2023-01-02）· 旧 KRS 0 · Aktywna · 最近登记第 21 号 2026-08-1 · 成立 Sp. z o.o. · ul. Mełgiewska 7/9, 20-209 Lublin",
+"url": "https://rejestr.io/krs/1010572/bitstream",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -17478,6 +17648,16 @@
 "url": "https://www.signalhire.com/companies/optiview-inc/employees",
 "note": "Georgia Fishel 管采购 + 市场 = OEM 采购对口；Jaime Baas 做产品测试 = 样机对口",
 "batch": "INTEL-07",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · BBB 企业档案（含州注册日 / 法人形式 / 别名）+ 官网 + LinkedIn；Florida Sun：OPTIVIEW, INC. · Florida Corporation（Sunbiz 文件号待补） · 经营中（官网 © 2026，经销商门户在线） · 成立 2000-01-21 · 5211 Fairmont St, Jacksonville, FL 32207（官网 2025–2026）",
+"url": "https://www.bbb.org/us/fl/jacksonville/profile/security-system-monitors/optiview-inc-0403-12778",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -18897,6 +19077,16 @@
 "url": "https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia",
 "note": "奥波莱光纤分销/制造商，收入一年 +41%、净利率 18% → 现金好、在扩张；自有 logo 采购户",
 "batch": "INTEL-10",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Poland · KRS 官方 API（api-krs.ms.gov.pl，现行摘录 2026-06-11 状态）+ 财：FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0001095976 · NIP 7542916466 · REGON  · Active · VAT 状态 Czynny（增值税在册）· · 成立 2007-10-01 · ul. Św. Jacka 2, 45-073 Opole（与研究档一致）；已登记电子送达地址",
+"url": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -21023,6 +21213,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · Florida 公司（corporationwiki 摘要）+ FDOT 州采购合同 PDF（DOT-ITB：EXPRESS SUPPLY, INC.（品牌 Hardened Networks = ITS Express；关联 ITS Express Inc.） · Florida corporation（Express Supply, Inc. · 两家公司均 Active（corporationwiki）； · 成立 Express Su · 632 Gatlin Ave, Orlando, FL 32806",
+"url": "https://www.corporationwiki.com/Florida/Orlando/mark-v-schulting-P1253020.aspx",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -21639,6 +21839,16 @@
 "url": "https://www.linkedin.com/company/al-salami-trading-establishment/",
 "note": "迪拜老牌家族集团下的安防集成公司（≈15 人）；GM 直联",
 "batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究：Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE） · （登记状态不可免费核） · 成立 1989（创始人/董 · Shop 8, Bin Soqat (Bin Sougat) Building, Al Twar Road, opp. Airport Terminal 2, ",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -22293,6 +22503,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）：ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส） · （登记状态不可免费核） · 成立 — · Bangkok, Thailand",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "entasource.co.th：ENTA SOURCE Co., Ltd.（曼谷）进口分销 SFP 1G/10G/25G/40G/100G（兼容 Cisco/Juniper/Aruba/Huawei，3 年保）、Media Converter、Rack/DIN-Rail Industrial Ethernet Switch、Industrial PoE Switch、HDMI/4K over Fiber、光纤配件；售后保 1–3 年",
+"url": "https://www.entasource.co.th/17430328/network",
+"note": "曼谷自标进口分销商（光模块 + 工业交换机）→ 换源对位",
+"batch": "INTEL-21",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -22921,6 +23151,26 @@
 "url": "",
 "note": "1 查未得即停",
 "batch": "INTEL-16",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "대한민국 · bizno 사업자 名錄（業種 / 代表姓）+ 官網（地址 / 認證 / 2 年保固）+ 매거진한경（20：(주)지티웨이브 GTWAVE Co., Ltd. · 사업자등록번호 待補（bizno 條目存在，號碼未顯示） · 경영중（官網在線；2026-03 入選富川產業振興院 창업도 · 成立 2001（研究檔 / · 경기 성남시 분당구 판교로 723, 701-1 / #804-2（판교 테크노밸리）13511；另與 gotinc.co.kr（GOT Inc.）共用 sa",
+"url": "https://www.gtwave.co.kr/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "未得（第二次）：网查「지티웨이브 GTWAVE」仍只命中无关同名公司；研究档已有 매거진한경 报道",
+"url": "",
+"note": "两查未得即停；韩国品牌商身份以研究档为准",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -23725,6 +23975,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+：HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（品牌 Snexus Networks） · İstanbul Ticaret Sicil（号待补） · 经营中（官网博客 2026-04 / 2026-06 更新） · 成立 待补（LinkedI · Turgut Özal Bulvarı No:2 A6 No:145, Çekmeköy / İstanbul（合同页）；Sultançiftliği Mah.",
+"url": "https://www.snexus.com.tr/en/s%C3%B6zle%C5%9Fme",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -24708,6 +24968,16 @@
 "batch": "INTEL-16",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "越南 · 国家企业登记门户需越文名交互查询，无镜像；本行为「无登记源」记录（据第 79 批研究档）：Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.） · （登记状态不可免费核） · 成立 2019 注册 · Ho Chi Minh City（另河内办公室）",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -25352,6 +25622,16 @@
 "url": "https://sundartechno.com/2026/05/16/oil-gas-petrochemical-industrial-automation-india/",
 "note": "2026 年仍在做 SEO 内容营销 → 活跃；油气/管线是其目标行业（工业环网 + PoE）",
 "batch": "INTEL-13",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "印度 · 个体 / 合伙企业不入 MCA；GST 查询需完整 GSTIN；本行为「无登记源」记录（据第 79 批研究档）：Sundar Techno Solutions（STS） · （登记状态不可免费核） · 成立 2019（GST 注 · Bengaluru, Karnataka, India",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -30663,6 +30943,16 @@
 "batch": "INTEL-14",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "巴基斯坦 · SECP 公司查询需交互验证码；本行为「无登记源」记录（据第 79 批研究档）：MT-Link Technologies Co. · （登记状态不可免费核） · 成立 — · 109–113 Elahi Centre, Preedy Street, Saddar, Karachi, Pakistan（+92 317 9995719）",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -32641,6 +32931,16 @@
 "batch": "INTEL-07",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · 新泽西州公司（Bloomberg / D&B / Buzzfile 登记摘要）+ 官网 About（2026：ANTRONIX, INC. · New Jersey corporation（州登记号待补） · 经营中、私人持有（官网 2026-10「still priv · 成立 1980-03-12 · 440 Forsgate Drive, Cranbury, NJ 08512（全球总部 + 技术中心）",
+"url": "https://antronix.com/about-antronix/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -33291,6 +33591,16 @@
 "url": "https://proff.se/befattningshavare/direktronik-aktiebolag/-/-/5562819663/",
 "note": "瑞典老牌进口分销商，年销 ≈1.3 亿瑞典克朗、利润率 ≈18%（现金充裕）；已在卖 Proxeet 的 PoE 注入器 → 自牌/多品牌采购老手",
 "batch": "INTEL-09",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / ：DIREKTRONIK AKTIEBOLAG（Direktronik AB） · Org.nr 556281-9663 · VAT SE556281966301  · Aktiv（经营中） · 成立 1986-09-11 · Konsul Johnsons Väg 15, 149 45 Nynäshamn（Box 234, 149 23 Nynäshamn）",
+"url": "https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning/2JZYJ4FI63IFR",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -34643,6 +34953,16 @@
 "batch": "INTEL-19",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试；本行为「无登记源」记录（据第 ：Energyplus Systems（energyplusystems.cl） · （登记状态不可免费核） · 成立 — · 6 ½ Oriente #270, Viña del Mar, Chile（+56 9 9218 8218；ventas@energyplusystems.cl",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -35686,6 +36006,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / ：SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Sicil（号待补） · 经营中（ContactOut 2026-10 更新；Link · 成立 2007-11-28 · Mimar Sinan Mah. Çavuşbaşı Cad. Gündoğdu Sk., Çekmeköy / İstanbul 34782（另有 Ümran",
+"url": "https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -36642,6 +36972,16 @@
 "batch": "INTEL-18",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）：Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Soluti · （登记状态不可免费核） · 成立 2014（官网时间线 · 7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -37527,6 +37867,16 @@
 "batch": "INTEL-09",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · 官网 Hakkımızda（iotsistem.com / bosgem.com / bosgem.：Bosgem Otomasyon（商号 IoT Sistem / iotsistem.com；法定全称待补） · İstanbul Ticaret Sicil（号待补；法定名含 Bosgem O · 经营中（bosgem.com.tr 2026-03 / 20 · 成立 2010 年末（官网 · Cevizli Mah. Bağdat Cad. Coşkunlar Sok. Dragos Center No:16-18/11, Maltepe / İst",
+"url": "https://www.bosgem.com.tr/urunler/markalar/bosgem/uzak-io-sistemleri-bsg-rtio-ai/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -38410,6 +38760,16 @@
 "url": "https://www.bizraport.pl/krs/0000585900/impakt-spolka-akcyjna",
 "note": "采购线索：Lanberg 是其网络品牌（交换机/线缆）→ 自牌交换机 OEM 直接对位；年销 ≈1.5 亿 PLN、112 人、仍在增员",
 "batch": "INTEL-09",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Poland · KRS（rejestr.io / bizraport.pl / okredo 镜像，财报来自 KRS ：IMPAKT SPÓŁKA AKCYJNA · KRS 0000585900 · NIP 7831720485 · REGON  · Czynny（活跃）· 最近登记第 43 号 2025-07 · 成立 2015-11-13 · ul. Stanisława Lema 16, 62-050 Mosina（波兹南南郊）",
+"url": "https://rejestr.io/krs/585900/impakt",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -39332,6 +39692,16 @@
 "url": "https://rocketreach.co/tecpro-solution-co-llc-profile_b45d2102fc62e2d2",
 "note": "销售兼采购经理 Fahadh 是 ELV 配套交换机的采购对口",
 "batch": "INTEL-17",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究：Tecpro Solutions Co. L.L.C.（TPS） · （登记状态不可免费核） · 成立 2003 Al Ai · Dubai（Saheel Tower；+971 4 326 6881 / +971 52 925 0501；dxb@tecprosolutions.com）；A",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -42013,6 +42383,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · 官网 TSE 服务站清单 PDF（2024-08，含登记全称 + 进口商身份）+ ZoomInfo ：NOVA GRUP MÜHENDİSLİK PROJE ELEKTRİK ELEKTRONİK İLETİŞİM SİSTEMLERİ İNŞAAT VE TEKSTİL SANA · Ankara Ticaret Sicil（号待补）· TSE 服务站清单（TS  · 经营中（官网 2025-12；ZoomInfo 2023–2 · 成立 2002（官网自述） · Aşağı Öveçler Mah. 1332 Cad. No:8/1-3-5-7, Çankaya / Ankara",
+"url": "https://www.novacom.com.tr/wp-content/uploads/2024/08/NOVA-TS-10956-SERVIS-LISTESI.pdf",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -44998,6 +45378,16 @@
 "batch": "INTEL-09",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · 马里兰州公司（BBB 登记 / Bloomberg / Buzzfile）+ SAM.gov 供应商档案（G：DATA CONNECT ENTERPRISE, INC.（DCE） · Maryland corporation · SAM.gov 在册（有效至 20 · 经营中；联邦小企业供应商（DLA 国防后勤局等） · 成立 1989-01-13 · 3405 Olandwood Court, Olney, MD 20832（总部，4,000 sqft）；另有 NJ、CA 仓库 / 办公",
+"url": "https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -45896,6 +46286,16 @@
 "batch": "INTEL-19",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + Pe：FIBERX LLC（gofiberx.com / fiberx.net；关联 OSNet Wireless） · Puerto Rico LLC（波多黎各国务院登记号待补） · 经营中（2025-09 自办 FiberX Expo；202 · 成立 2016（Linke · Metro Office Park Street #1 Lot 6, Suite 104（办公）/ B01（数据中心）, Guaynabo, PR 00968",
+"url": "https://gofiberx.com/about-us/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -46210,7 +46610,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SA-061",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-061",
 "name_official": "RYMTECH E.A.S.（商号 RYMTECH TACTICAL CYBEROPS；RYMTECH CYBERSECURITY LLC；亚松森，巴拉圭）",
@@ -46258,8 +46658,8 @@
 "source": "https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RYMTECH：官方登记 Micro 的网络安全服务商、自述不卖硬件 → 微型 + 不对位",
 "notes": "LT-T03 官网快照加厚（2026-10-29）：deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
 "researched_at": "2026-10-21",
 "deep": {
@@ -46438,6 +46838,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RYMTECH：官方登记 Micro 的网络安全服务商、自述不卖硬件 → 微型 + 不对位"
 }
 ],
 "a_deep": {
@@ -46578,7 +46986,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "RYMTECH：官方登记 Micro 的网络安全服务商、自述不卖硬件 → 微型 + 不对位"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -46591,6 +47002,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAm：RYMTECH E.A.S. · RUC 80125463-9 · 美国 CAGE 代码持有（名录） · Activo（政府采购登记在册） · 成立 2015（Conne · WTC Torre 3 Piso 14, Av. Aviadores del Chaco 2050, Asunción；Hernandarias（Alto Pa",
+"url": "https://www.rym-tech.net/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "contrataciones.gov.py：RYMTECH E.A.S. · RUC 80125463-9 · Nombre de Fantasía RYMTECH TACTICAL CYBEROPS（Nancy Carolina Elizalde de Osorio, Ruslan Osorio Guerra）· Empresa de Acciones Simplificada · Tamaño Micro · inscripción 2022-06-16 · Hernandarias, Alto Paraná · 服务：SOCaaS、渗透测试、DFIR、Hardware as a Service；官网：「No comercializamos tecnología」",
+"url": "https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html",
+"note": "微型网络安全服务商（官方登记 Micro）、自述不卖硬件 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -47853,6 +48284,16 @@
 "url": "https://www.zoominfo.com/c/areca-embedded-systems-pvt-ltd/426946019",
 "note": "嵌入式系统设备商（RAMS 岗位暗示轨道信号领域——守界核对：若主业轨交则不追）；有供应链经理可直接对接",
 "batch": "INTEL-15",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings ：ARECA EMBEDDED SYSTEMS PRIVATE LIMITED · CIN U72200TG2007PTC053397 · RoC Hyderaba · Active · 最近 AGM 2024-09-30（Tof · 成立 2007-03-29 · Hyderabad, Telangana（研究档）",
+"url": "https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -49755,6 +50196,26 @@
 "url": "",
 "note": "1 查未得即停",
 "batch": "INTEL-10",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "RU · 1 次检索：官网 О компании（официальный партнёр MICROSENS и LEN：CCS（ccs-msk.ru；莫斯科 107589 ул. Красноярская д.1 корп.1）— 十余年的 IT / 电信设备分销商：MICROSENS（德国工业交换 · ИНН / ОГРН 未取（官网未列法定名） · Active（官网在线；2026 有回复） · 成立 未取（自述 10+  · 107589, г. Москва, ул. Красноярская д.1, корп. 1",
+"url": "https://www.ccs-msk.ru/about",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "未得（第二次）：「ccs-msk.ru」仍只命中同名「МСК」等无关公司；需 whois/官网 реквизиты",
+"url": "",
+"note": "两查未得即停；研究档（Microsens/Lenovo 合作伙伴）为准",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -52687,6 +53148,26 @@
 "batch": "INTEL-12",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Italy · Registro Imprese 公开摘要（ufficiocamerale.it / fatturato：TOP ITALIA S.R.L. · P.IVA / C.F. 04592850871 · REA CT-306496 · Attiva · 成立 2008-05-08 · Via Comunità Economica Europea 41, 95045 Misterbianco (CT)，西西里卡塔尼亚",
+"url": "https://www.ufficiocamerale.it/4950/top-italia-srl",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "未得（第二次）：Top Italia S.r.l.（Misterbianco/Catania，topsicurezza.com）网查仍只见同名 Top Security；需官网 P.IVA 核",
+"url": "",
+"note": "两查未得即停；研究档为准",
+"batch": "INTEL-21",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -53322,6 +53803,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）：Sur-Link Technology Bolivia · （登记状态不可免费核） · 成立 — · Av. Guapay Nro. 2675 esq. Calle 10（Canal Cotoca, entre 2do y 3er anillo）, Santa ",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Facebook / boliviayp：Sur-Link Technology Bolivia · Av. Guapay #2675 esq. Calle 10, Santa Cruz de la Sierra · +591 3 3477677 / 74927328 · Emiranda@surlink-tech.com ·「Distribuidor mayorista de tecnología: Cat6a cat6 cat5e, fibra óptica SM/MM, ferretería ADSS, racks」· 覆盖 La Paz / Cochabamba / Santa Cruz 等 9 省",
+"url": "https://www.boliviayp.com/company/64839/SUR_LINK_TECHNOLOGY_BOLIVIA",
+"note": "圣克鲁斯布线/光纤批发分销（全国覆盖）；KP E. Miranda",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -54109,6 +54610,16 @@
 "url": "https://www.reportaziende.it/trans_audio_video_srl_ce_01675270613",
 "note": "采购线索：营收下滑 24%、利润见底 → 在找降本货源；高端 CCTV 分销线 → PoE 交换机配套",
 "batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Italia · Registro Imprese 镜像（ufficiocamerale / reportaziende：TRANS AUDIO VIDEO S.R.L.（TAV Group） · P.IVA / C.F. 01675270613 · REA CE-116878 · Attiva（经营中） · 成立 1987-06-18 · Viale Melvin Jones 12, 81100 Caserta (CE)",
+"url": "https://www.ufficiocamerale.it/4733/trans-audio-video-srl",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -56286,6 +56797,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · EMIS / Bloomberg 摘要 + 官网 + LinkedIn + kariyer.net ：TELEMOBİL BİLGİ İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（TBI） · İstanbul Ticaret Sicil（号待补） · 经营中（2025-11 仍在招聘；EMIS 2025-11  · 成立 2005-01-14 · Çilehane Yolu Cd. Çamlıca Evleri Sitesi No:13/3–4, Küçük Çamlıca, 34696 Üsküdar ",
+"url": "https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -57932,6 +58453,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Turkey · 商会 / Ticaret Sicil 公开摘要（find.com.tr 镜像）+ 官网 / Linke：ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ · Ticaret sicil 号与税号在镜像站仅会员可见（未取）；NACE 620 · 在册（官网 / LinkedIn 2026 活跃） · 成立 2016-11-28 · 登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara；办公 Nergiz Sok. No:7 Via F",
+"url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -58625,6 +59156,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "加拿大 · 联邦 / 省登记可查但研究档无法定名与省份线索；本行为「无登记源」记录（据第 79 批研究档）：James Clendenan Systems Ltd. · （登记状态不可免费核） · 成立 — · —",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Alignable / Infobel / controlready.ca：James Clendenan Systems Ltd. · launched 2012-09 · North Vancouver（1528 Bowser Ave V7P 2Y3；Control Ready：1127 15th Street West）· Owner James Clendenan（Computer Engineer；ex Pixar Canada、Sophos、HootSuite、Olympic Broadcasting Service）· 服务：managed networks（$15/device/month）、ISP/SMB 网络设计、Wi-Fi、Fixed Wireless、Fiber；品牌 Control Ready（SCOUT 移动办公箱、BARK 移动报警、POST 数字标牌）",
+"url": "https://www.controlready.ca/about",
+"note": "PI 成单户（活跃）：一人工程公司 + 自牌移动设备 → 复购在其项目节奏",
+"batch": "INTEL-21",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -59249,6 +59800,16 @@
 "batch": "INTEL-19",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "尼日利亚 · CAC 公开查询仅返回名称 / RC 号，需登录；本行为「无登记源」记录（据第 79 批研究档）：Biz-Ethics Ltd.（BEL Networks） · （登记状态不可免费核） · 成立 — · —",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -59825,6 +60386,16 @@
 "url": "https://www.dataforthai.com/company/0115558019700/",
 "note": "PI 成单户：曼谷东郊 CCTV + 网络安装/零售商，注册资本 500 万泰铢",
 "batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）：PBA Forever Technology Co., Ltd. · （登记状态不可免费核） · 成立 — · —",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -60909,6 +61480,16 @@
 "url": "https://www.goyellow.de/home/elektriker-isimko-gmbh-cottbus--grpbv9.html",
 "note": "勃兰登堡 50–249 人的 IT/安防/通信系统集成商，三位 GF 可直接写信（Noack 家族 + Hannemann）",
 "batch": "INTEL-12",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费：ISIMKO GmbH（原 G. Fleischhauer Ingenieur-Büro Cottbus GmbH → Fleischhauer Cottbus GmbH） · Amtsgericht Cottbus HRB 472 · EUID DEG11 · 在册，年报按期公告（2024 年报 2026-01-19 公 · 成立 1990-09-28 · Guhrower Str. 5, D-03044 Cottbus（勃兰登堡）",
+"url": "https://www.northdata.de/ISIMKO%20GmbH,%20Cottbus/HRB%20472",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -62222,6 +62803,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + ：HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ · İstanbul Ticaret Sicil No 12401448 · LEI · 经营中（LEI ISSUED；官网 / LinkedIn 活 · 成立 2000-11-22 · İkitelli OSB Mah. 8. Cadde Boypaş Blok No:3A, Başakşehir, İstanbul 34490",
+"url": "https://www.lei-lookup.com/record/7890008F3LXUBMYF0N25/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -63318,6 +63909,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（：Netaş Telekomünikasyon A.Ş.（BIST: NETAS） · KAP 公司 ID 1041 · BIST 代码 NETAS · 实缴资本 64 · 上市公司，正常披露；2024 与 2025 两年无利润分配（ · 成立 1967（北电 No · İstanbul（Pendik 园区）",
+"url": "https://kap.org.tr/tr/sirket-finansal-bilgileri/1041-netas-telekomunikasyon-a-s",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -65188,6 +65789,16 @@
 "batch": "INTEL-16",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "马来西亚 · SSM e-Info 付费；本行为「无登记源」记录（据第 79 批研究档）：WizardsInc Sdn Bhd · （登记状态不可免费核） · 成立 — · —",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -66344,6 +66955,16 @@
 "batch": "INTEL-16",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14：RESONANT NETWORKS PTE. LTD.（R~Nets；Ubi, Singapore） · UEN 202005761Z · Live Company · 成立 2020-02-20 · 81 Ubi Avenue 4 #09-28, UB.One, Singapore 408830",
+"url": "https://www.resonantnetworks.com/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -67085,6 +67706,16 @@
 "batch": "INTEL-16",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (2：Xspec Technology Sdn Bhd（xspec.com.my；**SSM 200501018493 (700608-K)；注册 2005-06-20；Selangor · SSM 200501018493 (700608-K) · 营业中（登记在 2026-10） · 成立 2005-06-20 · No 8, Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, Subang Jaya, Selangor, ",
+"url": "https://buy.experian.com.my/index.php/buy-report/malaysia-company/700608/xspec-technology-sdn-bhd",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -67753,6 +68384,16 @@
 "url": "https://www.rio-krsk.ru/company/requisites/",
 "note": "PI 成单户：克拉斯诺亚尔斯克工业自动化（АСУТП）设备集团公司成员，法定信息齐",
 "batch": "INTEL-12",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Россия · ЕГРЮЛ 镜像（oxycom.biz 迷你摘录 2012 + companies.rbc 现任总经理：ООО «РИО-ИМПОРТ»（RIO Group，Красноярск） · ОГРН 1092468006047 · ИНН 2460214069 · КП · Действующее（官网在线） · 成立 2009-02-19 · 660075 г. Красноярск, ул. Красной Гвардии, д. 21, оф. 217",
+"url": "https://www.rio-krsk.ru/company/requisites/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -69522,6 +70163,16 @@
 "url": "https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa",
 "note": "PI 成单户：大诺伊达工业自动化分销 + 盘柜集成，28 人 $15M；Delta/ABB/Schneider 渠道 → 工业交换机随盘柜走量",
 "batch": "INTEL-13",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立：UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（Greater Noida, UP） · CIN U17302UP2019PTC115938 · GST 09AACCU4 · Active · 成立 2019-04-18 · Plot No. 98, Toy City, Ecotech-III, Greater Noida 201306（注册地 218 Udyog Kendra Ex",
+"url": "https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -77269,6 +77920,16 @@
 "batch": "INTEL-07",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA e：52 NETWORKS, INC. · UEI FV4KBSNE5S75 · CAGE 907X4 · Virginia · Active（SAM.gov 注册有效至 2027-06-1 · 成立 2018-03-12 · 5142 Meeting Pl, Woodbridge, VA 22193（SAM）；历史地址 4380 Whitmer Dr #14 / 957 Higham",
+"url": "https://govtribe.com/vendors/52-networks-inc-dot-907x4",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -82253,7 +82914,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-031",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-031",
 "name_official": "OM Telecom S.R.L.（RUC 20600792858，Lima，秘鲁；om-telecom.com）",
@@ -82322,8 +82983,8 @@
 "source": "connectamericas.com"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
 "researched_at": "2026-10-21",
 "deep": {
@@ -82455,6 +83116,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型"
 }
 ],
 "a_deep": {
@@ -82529,7 +83198,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "OM Telecom：利马 2–10 人项目型 → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -82542,6 +83214,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 2：OM TELECOM S.R.L.（om-telecom.com；**SUNAT 镜像 universidadperu：RUC 20600792858；Activo / Habid · RUC 20600792858 · Activo / Habido（SUNAT 镜像） · 成立 2015-11-02 · Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima, Peru（办公 Calle Rocca ",
+"url": "https://www.universidadperu.com/empresas/om-telecom.php",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "universidadperu / LinkedIn / PAR：OM TELECOM S.R.L. · RUC 20600792858 · inicio 2015-11-02 · Santiago de Surco, Lima（Av. Ramón Castilla 1120 Int. 503A）· 2–10 empleados · 能源/矿业/变电站自动化电信方案（光纤、载波、IP 电话、CCTV、SDH/PDH）· 国家供应商登记 · 运营区域 CO/EC/PE/BO/CL/AR/PY/BR",
+"url": "https://pe.linkedin.com/company/omtelecomperu",
+"note": "2–10 人项目型 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -90038,6 +90730,16 @@
 "batch": "INTEL-18",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "AE · 1 次检索：yellowpages-uae.com（Euro Technology；M 4, Ruby Sal：Euro Technology（eurotechnology.ae / eurotechnology.net；**阿布扎比 M4 Ruby Saloon Bldg, Opp Al  · 未取（牌照号 1 查未得） · 营业中（名录 + WA 在线） · 成立 未取 · M4 Ruby Saloon Bldg, Opp Al Wahda Mall, Defence Rd (Hazaa Bin Zaid Rd), Abu Dhab",
+"url": "https://www.atninfo.com/co/euro-technology-abu-dhabi-26803",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -91953,6 +92655,26 @@
 "url": "https://github.com/topica-mn",
 "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
 "batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC e：Topica LLC（Топика ХХК；topica.mn；**devex：2005 年由电子 / IT 工程师创立；Chingeltei District, 1st Khor · 未取（蒙古注册号 1 查未得） · 营业中（名录 + 网店） · 成立 2005 · Office 3A, 1st Khoroo, Chingeltei District, Ulaanbaatar, Mongolia",
+"url": "https://www.devex.com/organizations/topica-40614",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "whois.ipip.net / Facebook：Topica LLC · Ulaanbaatar（Chingeltei district, 3a building；P.O.Box 44/575）· AS10109 TOPNET-AS-MN-AP「Internet Service Provider」· Facebook「Topica」18,163 likes：Мэдээллийн технологи, автоматжуулалтын шилдэг шийдэл, тоног төхөөрөмжийн худалдаа, үйлчилгээ（IT/自动化设备销售与服务）+「Topica.mn Network Shop」",
+"url": "https://whois.ipip.net/AS10109",
+"note": "乌兰巴托 ISP（自有 AS）兼网络设备商店 → 接入/汇聚交换机真实买家",
+"batch": "INTEL-21",
 "found": true,
 "added": "2026-10-30"
 }
@@ -94244,6 +94966,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "AE · 1 次检索：LinkedIn 公司页（2012 成立，11–50 人，Ajman；自称电信产品制造商：无线传输：ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman Industrial Area 1） · Ajman 执照号未取 · Active · 成立 2012 · Shed 1 & 2, Street 80-81 Junction, Ajman Industrial Area 1, Ajman（PO Box 23170）",
+"url": "https://ae.linkedin.com/company/otaillc",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn：Onnet Technologies & Innovations LLC（OTAI）· Ajman Industrial Area-1（Shed #1, Street 80-81 Junction）· 11–50 · 成立 2012 ·「the only #TDRA approved Telecom Products / Solution manufacturer based in UAE」· 产品：Carrier-Grade Wireless、High Power Industrial PoE Switch、PoE Extenders、Outdoor Communication UPS、Solar Communication Systems、CCTV/Smart Poles；联系人 Piyush Shah（piyush@onnettechnologies.com）",
+"url": "https://ae.linkedin.com/company/otaillc",
+"note": "阿治曼本地「制造商」（实为自牌集成），TDRA 认证 → 高功率 PoE 交换机 OEM 口；KP Piyush Shah",
+"batch": "INTEL-21",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -95770,7 +96512,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-056",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-056",
 "name_official": "Net Work Business Solutions（爱沙尼亚）",
@@ -95824,8 +96566,8 @@
 "source": "https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 维持；有具体项目再报价。",
 "researched_at": "2026-10-21",
 "deep": {
@@ -95968,6 +96710,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核"
 }
 ],
 "a_deep": {
@@ -96082,7 +96832,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -96094,6 +96847,26 @@
 "url": "",
 "note": "",
 "batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；R：NETWORK BUSINESS SOLUTIONS OÜ（原 Osaühing Angelmont 2007-01-09 – 02-19；nbs.ee 停放；Vesse tn 9 · registrikood 11338038 · Registrisse kantud（休眠：VAT 注销 2 · 成立 2007-01-09 · Vesse tn 9a, Lasnamäe linnaosa, 11415 Tallinn",
+"url": "https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "未得：「Net Work Business Solutions nbs.ee」网查无命中（结果为美国 NBS / 其他爱沙尼亚 IT 公司）",
+"url": "",
+"note": "不可核 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -96910,6 +97683,16 @@
 "batch": "INTEL-11",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "GR · 1 次检索：findbiz.gr（ΞΥΓΚΑΚΗΣ, ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ., Ο.Ε.；Εμπορ：ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ. Ο.Ε.「RFCOM」（Xygkakis Konstantinos Il. O.E.；rfcom.gr；塞萨洛尼基 Σταυρο · ΑΦΜ 未取；ΓΕΜΗ 601010939512（推定） · Active · 成立 2008 · Λαγκαδά 301, 564 30 Σταυρούπολη, Θεσσαλονίκη",
+"url": "https://findbiz.gr/el/company/xygkakis-konstantinos-il-oe/601010939512",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -97479,7 +98262,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-059",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-059",
 "name_official": "Avanca Technologies Pte Ltd（新加坡）",
@@ -97531,8 +98314,8 @@
 "role": "General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Avanca：新加坡 1–10 人工业网络分销 → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。",
 "researched_at": "2026-10-21",
 "deep": {
@@ -97679,6 +98462,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Avanca：新加坡 1–10 人工业网络分销 → 微型"
 }
 ],
 "a_deep": {
@@ -97879,7 +98670,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "Avanca：新加坡 1–10 人工业网络分销 → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -97892,6 +98686,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "SG · 1 次检索：sgpbusiness（AVANCA TECHNOLOGIES PTE. LTD.；UEN 200：Avanca Technologies Pte. Ltd.（avanca.com.sg；**UEN 200207710N；注册 2002-09-06；Private Company · UEN 200207710N · Live Company · 成立 2002-09-06 · 23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209",
+"url": "https://www.sgpbusiness.com/company/Avanca-Technologies-Pte-Ltd",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "ZoomInfo / EMIS / Kompass：Avanca Technologies Pte Ltd · 23 New Industrial Road #07-06/07 Solstice Business Center, Singapore 536209 · incorporated 2002-09-06 · 1–10 employees · regional distributor：Serial Server、Industrial Switches、4G/5G industrial routers、Audio/IO over IP · Sales Manager Benny Chee Fu",
+"url": "https://www.zoominfo.com/c/avanca-technologies-pte-ltd/480924629",
+"note": "1–10 人工业网络分销 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -103871,6 +104685,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYST：Nayon Kontrol Systems（NKS；nkstech.net；**No. 4 Illinois St., Brgy. Silangan, District III,  · 未取（SEC 号 1 查未得） · 营业中（官网 + 企业库） · 成立 约 1996 · No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109, Phili",
+"url": "https://www.aihitdata.com/company/01B1B037/nayon-kontrol-systems/overview",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "aihitdata / ZoomInfo / JobStreet：Nayon Kontrol Systems（NKS）· No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City · established 1996 · 11–50 · est. revenue $14.8M · SCADA & automation SI for electric utilities（first real SCADA in electric cooperatives）+ oil/gas/water/railway/BMS · 关联 NKS Energy Utilities, NKS Solar One, NKS Biomass One",
+"url": "https://www.aihitdata.com/company/01B1B037/nayon-kontrol-systems/overview",
+"note": "菲律宾电力 SCADA 集成商（≈$15M）→ 变电站工业交换机对位（railway 部分守界）",
+"batch": "INTEL-21",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -104981,6 +105815,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（Bilge Security；bilgeguvenlik.com / bilgetech.c · A.Ş.（İstanbul 商事登记 2018-02-08；MERSİS 未取） · Active（2026 EMIS 更新） · 成立 2018-02-08 · Örnek Mah. Dr. Suphi Ezgi Sok. No:6, 34704 Ataşehir / İstanbul（另 Ankara / İzmir）",
+"url": "https://www.bilgeguvenlik.com/en/about",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -106554,6 +107398,16 @@
 "url": "https://app.dealroom.co/companies/liveye_gmbh",
 "note": "PE 控股 + 自研监控塔 → 塔内交换机/PoE 是明确的 OEM 配套位；决策人 Thurn / Simons",
 "batch": "INTEL-10",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittli：LivEye GmbH（HRB 44506 Wittlich；Föhren）— 移动视频监控塔制造商 · HRB 44506（Amtsgericht Wittlich）；USt-IdNr · Aktiv · 成立 2018（Indee · Europa-Allee 56b, 54343 Föhren（+49 6502 4034722）",
+"url": "https://www.liveye.uk/impressum-en/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -113980,6 +114834,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Türkiye · 1 次检索（\"Konak Güvenlik\" + Erkut Sevin）—— 仅命中 Erkut ：Konak Güvenlik（konakguvenlik.com.tr；法定全称未定位） · 未取 · 未核（官网 2026 快照 ok）",
+"url": "",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -126265,6 +127129,16 @@
 "batch": "INTEL-07",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；20：Epygi Technologies, LLC（原 Epygi Technologies, Ltd.；epygi.com；Altamonte Springs, FL，原 Plano · LLC（TX 起家，现 FL；登记号未取 → 部分坐实） · Active（2024 新闻） · 成立 2000 · 561 Maitland Avenue, Altamonte Springs, FL 32701（原 1400 Preston Road Ste 300, Pl",
+"url": "https://support.epygi.com/Knowledgebase/List/Index/354/qx-ip-pbx-products",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -128107,6 +128981,16 @@
 "url": "https://pro-4-pro.com/de/firma/30582-abetechs-gmbh-grundig-security.html",
 "note": "品牌授权商（非 Grundig 集团）；PoE 交换机是其配套品类",
 "batch": "INTEL-09",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Deutschland · Handelsregister（Northdata 免费页：登记时间线 / GF 变更 / ：Abetechs GmbH（GRUNDIG Security 独家许可方） · Amtsgericht Wuppertal HRB 35197（2024-11- · Aktiv（2026-09-14 最新登记变更） · 成立 2017-12-15 · Steinhof 39, D-40699 Erkrath",
+"url": "https://www.northdata.de/Abetechs%20GmbH,%20Erkrath",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -131881,6 +132765,16 @@
 "url": "https://www.ufficiocamerale.it/4755/sts-italia-srl",
 "note": "米兰北郊 73 人安防/布线安装集成商，年销 €8M、盈利 → 集成 25% 档",
 "batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Italia · Registro Imprese 镜像（ufficiocamerale / companyreport：STS ITALIA S.R.L.（Arcore MB；原 Vicenza） · P.IVA / C.F. 00865310247 · REA MB 149060 · Attiva（2024 年报已交；无 protesti） · 成立 1984-03-16 · Via Altiero Spinelli 134, 20862 Arcore (MB)",
+"url": "https://www.ufficiocamerale.it/4755/sts-italia-srl",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -149374,6 +150268,16 @@
 "batch": "INTEL-15",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, ：International Technology Exchanger (ITE)（ite.net.pk；**2004 年创立；卡拉奇 The Forum, Suite 611, 6 · 未取（SECP / NTN 1 查未得） · 营业中（官网 + 企业库） · 成立 2004 · The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600, Pakistan",
+"url": "https://ite.net.pk/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -152599,7 +153503,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-110",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-110",
 "name_official": "iTKATI UG Ltd（ITKATI Uganda，Kampala；itkati.com）",
@@ -152655,8 +153559,8 @@
 "source": "yellow.ug"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：iTKATI：坎帕拉 6–10 人 IT 小公司 → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -152787,6 +153691,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：iTKATI：坎帕拉 6–10 人 IT 小公司 → 微型"
 }
 ],
 "lt_review": {
@@ -152939,7 +153851,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "iTKATI：坎帕拉 6–10 人 IT 小公司 → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -152952,6 +153867,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UG · 1 次检索：eastafricatenders.com/directory/itkati-ug-ltd（Reg：iTKATI UG Ltd（ITKati Corp.；itkati.com；**eastafricatenders：Registration Date 2018-07-25，Blo · 未取（URSB 号 1 查未得；登记日 2018-07-25） · 营业中（官网 + 名录 2026-07 更新） · 成立 2009（登记 20 · Block 244, Plot 965, Kyadondo, Makindye, Kampala, Uganda",
+"url": "https://eastafricatenders.com/directory/itkati-ug-ltd/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "yellow.ug：iTKATI UG LTD · plot 4646 Muwaire Rd, Kampala（Makindye）· established 2009 · Employees 6–10 · manager Sarah Basemera · +256 785 284579 · IT / CCTV / network / software / websites",
+"url": "https://www.yellow.ug/company/40803/itkati-ug-ltd",
+"note": "6–10 人 IT 小公司 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -153806,7 +154741,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-1102",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-1102",
 "name_official": "Viễn Thông Giá Tốt（vienthonggiatot.com）",
@@ -153863,8 +154798,8 @@
 "source": "masothue.com/0109246393"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Viễn Thông Giá Tốt：2020 年成立的低价小经销/施工商 → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -154017,6 +154952,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Viễn Thông Giá Tốt：2020 年成立的低价小经销/施工商 → 微型"
 }
 ],
 "snap_thicken": {
@@ -154216,7 +155159,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "Viễn Thông Giá Tốt：2020 年成立的低价小经销/施工商 → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -154229,6 +155175,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "VN · 1 次检索：masothue.com/0109246393（CÔNG TY TNHH VIỄN THÔNG G：CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT / GOOD PRICE TELECOMMUNICATIONS CO., LTD（vienthonggiatot.c · MST 0109246393 · Đang hoạt động（营业中） · 成立 2020-07-01 · Thôn Tiên Kha, Xã Phúc Thịnh, Hà Nội, Việt Nam",
+"url": "https://masothue.com/0109246393-cong-ty-tnhh-vien-thong-gia-tot",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "infocom.vn：CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT（GOOD PRICE TELECOMMUNICATIONS COMPANY LIMITED）· MST 0109246393 · 成立 2020-07-01 · 代表 Nguyễn Văn Đông · Đông Anh, Hà Nội · 批发电子/电信设备；官网：网络设备 + 摄像头 + 光纤熔接施工（Hotline 0963.508.809）",
+"url": "https://infocom.vn/cong-ty-tnhh-vien-thong-gia-tot.html",
+"note": "2020 年成立的「低价」小型网络经销/施工商 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -157541,6 +158507,16 @@
 "batch": "INTEL-15",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：indiamart（Nivox Technologies；Partnership；GST 29AA：Nivox Technologies（nivoxtech.com / iveonet.com；**合伙企业；GSTIN 29AAIFN5171H1ZZ（2017）；IEC 0711 · GSTIN 29AAIFN5171H1ZZ / IEC 0711010331 · Active · 成立 2011 · 401B, 4th Floor, Nugen Residency, 105 Dollars Scheme, Nandini Layout, Bengaluru ",
+"url": "https://www.indiamart.com/nivoxtechnologies/about-us.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -158925,6 +159901,16 @@
 "batch": "INTEL-15",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：tradeindia（Fastball；GST 07AJJPR5445G1ZX；Proprieto：Fastball（Fastball Telecom & Networking；fastball.in；**个体经营 Rishi Kumar Bansal；GSTIN 07AJJPR · GSTIN 07AJJPR5445G1ZX · Active · 成立 2016（GST 2 · A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093",
+"url": "https://www.indiamart.com/fastball/profile.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -159807,6 +160793,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UK · Companies House（官方）公司页 + officers 页：MILLISECONDS EVOLUTION LIMITED · 16807798 · Active · 成立 2025-10-24 · 128 City Road, London EC1V 2NX（**虚拟办公室 / 注册代理地址**，非实体经营地）",
+"url": "https://find-and-update.company-information.service.gov.uk/company/16807798",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "（无新增）Milliseconds Evolution Limited：Companies House 已在登记库（第 86 批）；2026-10-17 样品 PI 已开未付",
+"url": "",
+"note": "活跃样品单，留 A 观察",
+"batch": "INTEL-21",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -160191,6 +161197,16 @@
 "url": "https://www.zoominfo.com/c/litech-pakistan/557123995",
 "note": "2025 新技术总经理 = 设备选型新对口",
 "batch": "INTEL-14",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, L：LITECH Pakistan (Private) Limited（litech.com.pk；**2018 年设立（母公司 Litech Sdn Bhd 马来西亚 1999）；总 · 未取（(Private) Limited；SECP 号 1 查未得） · 营业中（官网 + D&B） · 成立 2018 · Office No. 01, Ground Floor, Layallpur Regency Plaza, 949-Mall Road, New Civil L",
+"url": "https://litech.com.pk/about-litech/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -162075,6 +163091,26 @@
 "url": "",
 "note": "",
 "batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "ZM · 1 次检索：obmacsystems.com（founded on February 13th 2007；Te：Obmac Systems（obmacsystems.com；**官网：2007-02-13 成立，ICT / 电气 / 机械项目与采购（恩多拉起家，现卢萨卡）；创始人 / CEO · 未取（PACRA 号 1 查未得） · 营业中（官网 + 领英） · 成立 2007-02-13 · 未取（Lusaka, Zambia；起家 Ndola）",
+"url": "http://obmacsystems.com/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "（未查）Obmac Systems（赞比亚，无域名）：PI 成单户（gg），按成单保留 A1",
+"url": "",
+"note": "PI",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -168456,6 +169492,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；T：Conexión de Redes de Centro América（conexionderedes.com；**官网：San Salvador, El Salvador；+50 · 未取（NIT 1 查未得） · 营业中（官网 2026） · 成立 未取 · San Salvador, El Salvador（街道未取；+503 2262-1049）",
+"url": "https://www.conexionderedes.com/servicios",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "conexionderedes.com：Conexión de Redes（San Salvador；+503 2262-1049；WhatsApp +503 7553-2289；gerencia@conexionderedes.com）· 服务：Redes XGPON/FTTx、Fibra Óptica FTTH、POLAN 智能楼宇、IPTV、Data Center、LTE、微波 IP、PoE 照明咨询 · 网店含 switches/routers/FTTH/XGPON",
+"url": "https://www.conexionderedes.com/servicios",
+"note": "中美洲电信设备供应 + 集成（网店 + 咨询）；规模未见",
+"batch": "INTEL-21",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -169752,6 +170808,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi：Fiber Optics For Sale Co.（FOSCO Connect；Pleasanton / Livermore, CA） · 未取（CA SoS 需名称检索） · Active（网店 + eBay 在售） · 成立 2003-08-04 · 269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore；旧址 Fremont 42660 Christy St / ",
+"url": "https://www.fiberoptics4sale.com/pages/about-us",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -169856,7 +170922,7 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1137",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-1137",
 "name_official": "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）",
@@ -169897,8 +170963,8 @@
 "role": "Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核",
 "notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
 "deep": {
 "done_at": "2026-10-24",
@@ -170030,6 +171096,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核"
 }
 ],
 "ab_final": {
@@ -170246,7 +171320,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "Infotec（巴西，无域名）：不可核"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -170258,6 +171335,26 @@
 "url": "",
 "note": "",
 "batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156：Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda（**CNPJ 05.590.805/0001-56（总部 · CNPJ 05.590.805/0001-56（分支 0002-37） · ATIVA（Simples） · 成立 2003-03-26 · São José - SC, Brazil（分支 Florianópolis - SC）",
+"url": "https://casadosdados.com.br/solucao/cnpj/infotec-comercio-de-equipamentos-e-sistemas-de-seguranca-ltda-05590805000156",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "未得：Infotec Comércio de Equipamentos e Sistemas（巴西，无域名）网查无法锁定主体",
+"url": "",
+"note": "不可核 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -174482,6 +175579,16 @@
 "batch": "INTEL-09",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "US · SAM.gov 实体登记（opengovus 镜像 UEI PU66QHF8L5F6）+ BBB 档案 + 公：WireStar, Inc.（d/b/a WireStar Networks） · SAM UEI PU66QHF8L5F6（2021-03-29 登记，2025- · Active（SAM 有效至 2026-12-02；BBB  · 成立 2007-12-06 · 4156 State Highway 6 S, College Station, TX 77845-8964（另 1902 Pinon Dr Ste E；邮箱 ",
+"url": "https://opengovus.com/sam-entity/PU66QHF8L5F6",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -175846,6 +176953,16 @@
 "url": "https://contactout.com/company/Tera-Technologies-and-Engineering-Limited-82148",
 "note": "达累斯萨拉姆 ICT/电信/安防集成商（≈32 人）",
 "batch": "INTEL-19",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineerin：Tera Technologies and Engineering Limited（teratech.co.tz / ttel.co.tz；**公司自述：2011-09-09 依  · Certificate of Incorporation No. 85715（公 · 营业中（官网 + 中标记录） · 成立 2011-09-09 · Plot No. 2283, Block H, Tarangire Street, Africana Drive, Mbezi Beach, P.O. Box ",
+"url": "https://ttel.co.tz/about",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -179789,6 +180906,16 @@
 "batch": "INTEL-09",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TR · 1 次检索：desecuretechnology.com Hakkımızda（Desecure grubun：Desecure Technology（Desecure 集团安防技术公司；desecuretechnology.com；总部伊斯坦布尔 Vadistanbul，运营与技术中心代尼 · 技术公司法定名 / MERSİS 未取（部分坐实）；集团保安公司 Desecur · Active（2026-10 新闻） · 成立 集团 2008（Aİ · Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89, 34396 Sarıyer / İst",
+"url": "https://desecuretechnology.com/kurumsal/hakkimizda/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -180266,6 +181393,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TR · 1 次检索：官网 KVKK 页（İstanbul Ticaret Sicil Müdürlüğü 358519：Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.；fasttr.com；伊斯坦布尔 Ataşehir FAST Plaza；** · İstanbul Ticaret Sicil 358519（A.Ş.） · Active（2026-03 站点更新） · 成立 1994 · FAST Plaza, Küçükbakkalköy Mah. Dereyolu Sok. No:4, 34750 Ataşehir / İstanbul",
+"url": "https://www.fasttr.com/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -185115,6 +186252,16 @@
 "batch": "INTEL-09",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "US · 1 次检索：Sunbiz（BROADSTAR COMMERCIAL COMMUNICATIONS LLC；L1：BroadStar Commercial Communications LLC（BroadStar；broadstar.com；West Palm Beach, Florida；S · FL Sunbiz L14000110165（FEI 47-1348982）；旧 · Active · 成立 2014-07-11 · 3965 Investment Ln, West Palm Beach, FL 33404",
+"url": "https://www.broadstar.com/about-us/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -185912,6 +187059,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公：BSD International Marketing（品牌 BSD Networks） · 安省公司（Ontario Business Registry 需 JS，编号未取 · 在营（官网 2026；Graybar Canada 在售 2 · 成立 1982（ZoomI · 登记 275 York Hill Blvd, Thornhill ON L4J 3L5（住宅）；经营 520 Applewood Cres, Concord /",
+"url": "https://www.dnb.com/business-directory/company-profiles.bsd_networks.239dc1ee4b87cb51cc71290a587c2280.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -193357,6 +194514,16 @@
 "batch": "INTEL-10",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UK Companies House：LINXCOM LIMITED · 07157746 · Active · 成立 2010-02-15 · 50 Woodgate, Leicester LE3 5GF（注册地；研究档里的 3 Oakland Road 是旧址 / 经营地，以此为准更新）",
+"url": "https://find-and-update.company-information.service.gov.uk/company/07157746",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -194875,6 +196042,16 @@
 "batch": "INTEL-19",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Россия · ЕГРЮЛ 镜像（companium / rusprofile 2026-09-16 更新 / com：ООО «СКЕО»（品牌 SKEO，skeo.ru） · ОГРН 1147847171185 · ИНН 7810990736 · КП · Действующее（2026-09-16 核） · 成立 2014-05-14 · 197341 Санкт-Петербург, Фермское ш., д. 32 лит. А, пом. 32-н（2026）；旧址 Коломяжски",
+"url": "https://www.companium.ru/id/1147847171185-skeo",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -195640,6 +196817,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "JP · 1 次检索：helloboss.com/corp/6021001077094（UNEAX株式会社；法人番号 6：UNEAX 株式会社（unea-x.com；**法人番号 6021001077094；設立 2022-10-04；本店 〒242-0007 神奈川県大和市中央林間 5-5-23-6 · 法人番号 6021001077094 · 营业中（登記 2022-10；官网在） · 成立 2022-10-04 · 〒242-0007 神奈川県大和市中央林間 5-5-23-6, Japan",
+"url": "https://helloboss.com/corp/6021001077094",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "unea-x.com 会社概要：UNEAX株式会社（UNEAX Co., Ltd.）· 設立 2022-09-28 · 代表者 大迫 麗莉 · 本社 神奈川県大和市中央林間五丁目5番；東京支社 港区虎ノ門4-3-1 21F · TEL 0462-11-8013 · 事業：SSD 販売（パートナー ScaleFlux）、産業用イーサネットスイッチの開発と販売、IoT センサー、金型部品加工；iPROS 2023-08：産業用イーサネットスイッチ 12 種類をリリース",
+"url": "https://unea-x.com/company/",
+"note": "2022 年新公司但已有 12 款自牌工业交换机 → ODM 换源对位（日本非主攻，留 A 观察）",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -200062,6 +201259,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "CA · 1 次检索：inaxsys.com 新闻 2024-10（Inaxsys Security Systems I：Inaxsys Security Systems Inc.（inaxsys.com；11685 Avenue Philippe-Panneton, Montréal (QC) H1 · 未取（NEQ） · Active · 成立 2004 · 11685 Avenue Philippe-Panneton, Montréal, QC H1E 4M1",
+"url": "https://inaxsys.com/en/news-and-articles/details/inaxsys-at-security-canada-central-2024/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -200902,7 +202109,7 @@
 "c_sub": "",
 "status": "回复暂无需求",
 "code": "SB-175",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-175",
 "name_official": "M. Al Barghash Trading & Contracting Co. (MBTC)（沙特东部省）",
@@ -200946,8 +202153,8 @@
 "role": "E&I / Telecom lead（研究档 Wasi Akthar；AAM Industrial 项目组）— 不动（第 119 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -201084,6 +202291,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛"
 }
 ],
 "a_deep": {
@@ -201272,7 +202487,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -201285,6 +202503,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracti：M. Al-Barghash Trading & Contracting Company (MBTC)（mbtc.com.sa；**1976 年成立；100% 沙资；总部 Al-K · 未取（CR 1 查未得） · 营业中（名录） · 成立 1976 · Al-Khobar 31952 / P.O. Box 31996 Dammam, Eastern Province, Saudi Arabia",
+"url": "https://www.protenders.com/companies/mohammad-al-barghash-trading-construction-company",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "SignalHire / RocketReach / AeroLeads：M. Al Barghash Trading & Contracting（MBTC）· Al-Khobar（4th St corner Kharj St, Thuqbah-2）· Energy / Saudi Aramco approved contractor · 1,000–5,000 employees（AeroLeads 70）· revenue ≈$414.6M · Head of IT Hariprasath Ramu · Procurement Engineer Venkatesh Raja · 项目工程师多人（Buqayq 等）",
+"url": "https://www.signalhire.com/companies/m-al-barghash-company",
+"note": "阿美认证的大型 EPC 承包商 = 项目型终端，设备需走阿美供应商名录 → A-DEEP-11 下放 B（B1 观察）",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -204457,7 +205695,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-183",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-183",
 "name_official": "Onyx Technology Solutions Limited（乌干达）",
@@ -204488,8 +205726,8 @@
 "role": "联系人（研究档 KP；对 154 有兴趣、要价目）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP / STI-054GP 塔站供电 + STC-228GP $33 一口价 + MOQ 1；注入器不供明说 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Onyx（乌干达，无域名）：不可核",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -204609,6 +205847,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Onyx（乌干达，无域名）：不可核"
 }
 ],
 "ab_final": {
@@ -204761,7 +206007,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "Onyx（乌干达，无域名）：不可核"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -204773,6 +206022,26 @@
 "url": "",
 "note": "",
 "batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UG · 1 次检索：onyxtechnologysolutionsltd.com（Onyx Technology So：Onyx Technology Solutions Ltd（onyxtechnologysolutionsltd.com；**官网：Room S.11 Nathur Buildin · 未取（URSB 号 1 查未得） · 营业中（官网 2025） · 成立 未取 · Room S.11, Nathur Building, Victoria Street, Masaka City, Uganda",
+"url": "https://onyxtechnologysolutionsltd.com/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "未得：Onyx Technology Solutions Limited（乌干达，无域名）网查无法锁定",
+"url": "",
+"note": "不可核 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
 "found": false,
 "added": "2026-10-30"
 }
@@ -207542,6 +208811,16 @@
 "batch": "INTEL-13",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：X 账号 @VintronInfo 自述「Vintron Smartvision Pvt. Ltd：VINTRON SMARTVISION PVT. LTD.（vintronsmartvision.com；New Delhi；关联上市公司 Vintron Informatics  · Vintron Smartvision Pvt Ltd CIN 未取；上市关联体 · Active（私营运营体） · 成立 未取（上市体 199 · New Delhi（上市体注册地新德里）",
+"url": "https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -209457,6 +210736,16 @@
 "url": "https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/571318/DEMA-Vertriebs-GmbH",
 "note": "1963 年起的电气安装材料/工业设备批发商（资本 80 万欧）→ 交换机为电气批发品类扩展",
 "batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF /：DEMA Vertriebs-GmbH（Untermünkheim；STABILO 建材连锁同系） · Amtsgericht Stuttgart HRB 571318 · EUID  · Aktiv（2024 年报 2026-02-10 公示；20 · 成立 1963-01-17 · Im Tobel 4, D-74547 Untermünkheim（Schwäbisch Hall 郡，巴符州）",
+"url": "https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -212904,6 +214193,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IT · 1 次检索：ufficiocamerale（EL.SI. S.R.L.；P.IVA 01536710799；L：EL.SI. S.R.L.（elsi.it；克罗托内 Crotone Località Zigari, Via Enzo Ferrari, 88900；P.IVA / CF 015 · P.IVA / CF 01536710799；REA KR-118653 · Active · 成立 1985-10-18 · Località Zigari, Via Enzo Ferrari, 88900 Crotone",
+"url": "https://www.ufficiocamerale.it/9607/elsi-srl",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -224770,7 +226069,7 @@
 "c_sub": "",
 "status": "已推送 2 次·未回复",
 "code": "SB-226",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-226",
 "name_official": "",
@@ -224829,8 +226128,8 @@
 "source": "https://hcin4.com/default/01/02.php"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
@@ -224959,6 +226258,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型"
 }
 ],
 "snap_thicken": {
@@ -225175,7 +226482,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -225188,6 +226498,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 201：(주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com / rfoint.com R.FOINT MALL；**사업자등록번호 106-86- · 사업자등록번호 106-86-81310 / 통신판매업 00960 · 营业中（官网 + 商城在线） · 成立 2011-09-06 · 서울시 용산구 청파로 40, 삼구빌딩 1610호 (04373)",
+"url": "https://hcin4.com/default/01/02.php",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "官网 / JobKorea / Saramin：(주)한창인포텍 · 서울 용산구 청파로 40 삼구빌딩 1610호 · 사업자등록번호 106-86-81310 · 설립 2011-09-06 · 대표 배성훈 · 직원 4–10 명 · 매출 18–40억 원 · Sony 디지털카메라 총판 + 2020 년부터 자체 브랜드 RFOINT 네트워크 장비/컨버터/케이블 수입 유통 · jryoun74@hcin4.com",
+"url": "https://www.jobkorea.co.kr/recruit/co_read/c/hcinfo117",
+"note": "4–10 人、自牌 RFOINT 进口商 → A-DEEP-11 下放 B（俄/韩二级 + 微型）",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -232983,6 +234313,16 @@
 "batch": "INTEL-12",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：thecompanycheck（CIN L64200HP1987PLC007466，2025 营收：HFCL LIMITED（原 Himachal Futuristic Communications Ltd；NSE/BSE: HFCL；Gurugram / New Delhi） · CIN L64200HP1987PLC007466 · Active · 上市（NSE/BSE） · 成立 1987 · 8, Commercial Complex, Masjid Moth, Greater Kailash-II, New Delhi 110048（运营 Guru",
+"url": "https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -235796,6 +237136,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’：Nelly’s Security LLC（nellyssecurity.com；Broken Arrow, Oklahoma）— 2008 年 Sean Nelson 创办的商用级 · OK LLC（SoS 备案号未取）；BBB 列为 Rackmount Solut · Active（站点在线；股权已变更 — 待核） · 成立 2008-01-01 · 501 N Aspen Ave, Broken Arrow, OK 74012",
+"url": "https://www.bbb.org/us/ok/broken-arrow/profile/surveillance-equipment/nellys-security-a-division-of-rackmount-solutions-1025-38020648",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -239267,6 +240617,16 @@
 "url": "https://contactout.com/company/Switchtec-Ltd-66643",
 "note": "Simon 备注其「分销爱尔兰和英国，主要处理 Ethernet switch、Kyland」；老板 Bob Lyons 是决策人，区域销售网络现成",
 "batch": "INTEL-11",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "GB · 1 次检索：Companies House 01613368（SWITCHTEC LIMITED；1982-0：SWITCHTEC LIMITED（switchtec.com；Stone, Staffordshire）— 1982 起的工业电气 / 电子元器件分销，Lester 家族，7,0 · Companies House 01613368（关联 02612994 / 0 · Active（2026-05 申请扩建） · 成立 1982-02-12 · Brooms Road, Stone Business Park, Stone, Staffordshire ST15 0SH",
+"url": "https://find-and-update.company-information.service.gov.uk/company/01613368",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -243815,7 +245175,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-267",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-267",
 "name_official": "Bio-Cognitive Pte Ltd（新加坡）",
@@ -243853,8 +245213,8 @@
 "role": "名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Bio-Cognitive：新加坡小型安防安装商、网页停在 2012 → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -243977,6 +245337,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Bio-Cognitive：新加坡小型安防安装商、网页停在 2012 → 微型"
 }
 ],
 "snap_thicken": {
@@ -244218,7 +245586,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "Bio-Cognitive：新加坡小型安防安装商、网页停在 2012 → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -244231,6 +245602,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "SG · 1 次检索：recordowl（BIO-COGNITIVE SOLUTIONS PTE. LTD.；UEN 2：Bio-Cognitive Solutions Pte. Ltd.（bio-cognitive.com；**UEN 200807513Z；注册 2008-04-17；Exempt  · UEN 200807513Z · Live Company（年报记录停于 2012 → 待核） · 成立 2008-04-17 · 5 Ang Mo Kio Industrial Park 2A #05-30 AMK Tech II, Singapore 567760",
+"url": "https://recordowl.com/company/bio-cognitive-solutions-pte-ltd",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "corpiness / mfgpages / yellowpages.net：Bio-Cognitive Solutions Pte Ltd · 4008 Ang Mo Kio Avenue 10 #02-04 Techplace I, Singapore 569625 · +65 6553 2128 · biometric access / CCTV / alarm / autogate / carpark barrier 供应与安装（网页产品停留在 2012 年款）",
+"url": "https://www.corpiness.com/bio-cognitive-solutions-pte-ltd/contact.htm",
+"note": "新加坡小型安防安装商、网页陈旧 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -246847,6 +248238,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd：Fiberix İletişim Hizmetleri Ltd. Şti.（fiberix.com.tr；加济安泰普 Şehitkamil）— BTK 授权基础设施与互联网服务商、 · RIPE LIR tr.fiberixinternet；AS205768；MER · Active · 成立 2017 前后（AS · Zübeyde Hanım Bulvarı No:74/A, Şehitkamil, 27060 Gaziantep",
+"url": "https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -263032,6 +264433,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "VN · 1 次检索：masothue.com/0309279999（CÔNG TY TNHH THƯƠNG MẠI D：CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SONG THÀNH CÔNG（STC Vietnam；stc-vietnam.com / songthanhcon · MST 0309279999 · Đang hoạt động（营业中） · 成立 2009 · 247/8B Hoàng Hoa Thám, P.5, Q. Phú Nhuận, TP. Hồ Chí Minh, Việt Nam",
+"url": "https://masothue.com/0309279999-cong-ty-tnhh-thuong-mai-dich-vu-song-thanh-cong",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "stcvietnam.biz：Công ty TNHH TM DV Song Thành Công（STC Vietnam）「là nhà phân phối chính thức thiết bị hãng MOXA Inc tại thị trường Việt Nam」· 工业自动化备件/设备分销：Industrial Ethernet Switch、Serial Device Server、Industrial Router、Media Converter、NSD 编码器、Balluff 传感器、E2S、Enerdoor",
+"url": "https://stcvietnam.biz/",
+"note": "越南 Moxa 官方分销 + 工业自动化渠道 → 工业交换机白牌补位（Moxa 价差大）",
+"batch": "INTEL-21",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -267151,6 +268572,16 @@
 "batch": "INTEL-06",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "CY · 1 次检索：i-cyprus（PROXEET LIMITED；ΗΕ 437925；Private Limite：PROXEET LIMITED（proxeet.com / portablepoe.com / chiprian.com；帕福斯 Neofytou Nikolaidi 61, Yi · ΗΕ 437925 · Active（Registrar of Companies） · 成立 2022-08-31 · Neofytou Nikolaidi 61, Yiannis Court, Floor 2, Office 201, 8011 Pafos",
+"url": "https://i-cyprus.com/company/611007",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -269649,6 +271080,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETE：EPE RETELEM SPA（ex-SONATITE；retelem-dz.com；**signalhire 名录：54, Rue Omar Benaissa, Bab El O · 未取（RC / NIF 1 查未得） · 营业中（国企；官网 + 名录） · 成立 1971（SONAT · 54, Rue Omar Benaissa, Bab El Oued, Alger, Algeria",
+"url": "https://www.signalhire.com/companies/epe-retelem-spa",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "algeriayp / SignalHire / RocketReach：EPE RETELEM SPA（ex-SONATITE）· 54 Rue Omar Benaissa, Alger · established 2008（历史 50+ 年）· 200–500 employees（RocketReach 59 可见）· est. revenue $10M–50M · 业务：telephony IP/hybrid, télécommunications, sécurité industrielle, réception satellitaire · CEO Benchelef Kamel（+213 555 050 850）· Project Director Mustapha Mehessem",
+"url": "https://www.signalhire.com/companies/epe-retelem-spa",
+"note": "阿尔及利亚国有电信/安防集成商（200–500 人）→ 国企采购走招标，留 A 观察",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -284791,6 +286242,16 @@
 "batch": "INTEL-17",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IL · 1 次检索：官网 team / at-a-glance（2009 成立，联合创始人 CEO Alexander：Larch Networks Ltd.（原 Niram Systems；Rosh HaAyin, Israel） · ח.פ. 未取（镜像未命中；下轮 israeli-companies 按名查） · Active（2025-08 新闻） · 成立 2008/2009（ · Rosh HaAyin, Central District, Israel（开发办公室 Kyiv）",
+"url": "https://larch-networks.com/about-larch-networks/at-a-glance/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -288842,7 +290303,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-367",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-367",
 "name_official": "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）",
@@ -288878,8 +290339,8 @@
 "role": "表内联系人 Lee（液压公司；偶发询 2 光 6 电）— 不动，不发（第 119 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -289040,6 +290501,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端"
 }
 ],
 "a_deep": {
@@ -289227,7 +290696,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -289240,6 +290712,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc t：CÔNG TY CỔ PHẦN MTS / MTS JSC（thuyluc.com；**MST 0101892941；发证 2006-03-20；Số 166 đường Tựu  · MST 0101892941 · 营业中 · 成立 2006-03-20 · Số 166 đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội, Việt Nam",
+"url": "https://thuvienphapluat.vn/ma-so-thue/cong-ty-co-phan-mts-mst-0101892941.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "thuyluc.com：Công ty Cổ Phần MTS（MTS Hydraulics & Automation）· Số 166 Đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội · GPKD 0101892941（2006-03-14）· 水电项目液压/阀门/SCADA 电柜供应（源自某总公司高科技中心私有化，Dr. Ly Thanh Ha 主要股东；该总公司 20 家成员企业约 1 万人）",
+"url": "https://www.thuyluc.com/gioi-thieu",
+"note": "水电 EPC 配套（液压为主，SCADA 电柜顺带）= 项目型终端 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -293208,6 +294700,16 @@
 "url": "https://www.dc.ge/about-us-eng",
 "note": "PI 成单户（gg）：第比利斯政企 IT 集成商，Cisco/Juniper 渠道；规模按公开信息偏小，CEO 直联",
 "batch": "INTEL-12",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "GE · US SAM 镜像 1 页（opengovus.com/sam-entity/J9LKEG5JR7D6）：UE：DELTA CONSULTING LLC（dc.ge；Tbilisi, Georgia） · SAM UEI J9LKEG5JR7D6 · CAGE SJFH4（格鲁吉亚登记 · Active（公司）；SAM 注册 Expired 2022 · 成立 2014-01-08 · 72 O. Oniashvili Str., Tbilisi 0160, Georgia",
+"url": "https://opengovus.com/sam-entity/J9LKEG5JR7D6",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -298819,6 +300321,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgele：HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ（İzmir 总部；Eskişehir 为分部） · Vergi No 3330751186（Gaziemir Vergi Daire · Aktif（官网 .com.tr 在线；**.com 域已死 · 成立 2014（官网） · İzmir（Gaziemir 税务局辖区）；分部 Eskişehir（0850 840 98 83）",
+"url": "https://hiperonline.com.tr/belgelerimiz",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -300293,6 +301805,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKE：MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（Makrosis；makrosisas.com.tr；伊斯坦布尔 Şişli Kuştepe Mah · MERSİS 未取（A.Ş. 设立公告 2023-11-13） · Active · 成立 2023-11-13 · Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, Şişli / İst",
+"url": "https://www.find.com.tr/Company/makrosistemdisticaretanonimsirketi",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -324025,6 +325547,16 @@
 "batch": "INTEL-15",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RA：Automation Systems & Solution（automationsystem.in；**个体经营；GSTIN 07AOCPK7395A1Z0（2017-07-01； · GSTIN 07AOCPK7395A1Z0 · Active · 成立 2007 · T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj, Delhi 110092",
+"url": "https://www.indiamart.com/automation-systems-solution/profile.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -325994,7 +327526,7 @@
 "c_sub": "",
 "status": "已推送 1 次·未回复",
 "code": "SB-451",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-451",
 "name_official": "",
@@ -326030,8 +327562,8 @@
 "role": "Operation Manager / Business Development Manager（RocketReach，2005 至今；表内 1 次跟进有回复 要 Catalog）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机、opener 引其要 Catalog — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易 → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
@@ -326238,6 +327770,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易 → 微型"
 }
 ],
 "snap_thicken": {
@@ -326481,7 +328021,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易 → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -326494,6 +328037,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "SA · 1 次检索：rocketreach.co/e-saudi-electronic-saudi-network-p：(e-Saudi) Electronic Saudi Network（e-saudi.net / e-saudi.net.sa；**2001 年成立；利雅得 Abdallah Ba · 未取（CR 1 查未得） · 营业中（企业库） · 成立 2001 · Abdallah Bahamdan St, Suleimaniya, Riyadh, Saudi Arabia",
+"url": "https://rocketreach.co/e-saudi-electronic-saudi-network-profile_b4438538fdf7a71a",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn / RocketReach：(e-Saudi) Electronic Saudi Network · Riyadh（P.O. Box 61461，+966 1 4650832）· Founded 2001 · 11–14 employees · revenue ≈$1.4M · Remote Automation, Control and Communication + fixed broadband · Sales Managers Muhammad Rashid、Varughese Mathew；Operation Manager Saeed Mohammed",
+"url": "https://www.linkedin.com/company/-e-saudi-electronic-saudi-network",
+"note": "14 人、年销 ≈$1.4M 的小型 SI/贸易 → A-DEEP-11 下放 B",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -340035,6 +341598,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "KR · 1 次检索：bizno（엔아이투스(주) N-iTUS Co., Ltd.；유선 통신장비 제조업；주요제품 ：엔아이투스(주) N-iTUS Co., Ltd.（n-itus.com；**사업자등록번호 119-86-00900 / 법인등록번호 110111-3736141；设立 200 · 사업자등록번호 119-86-00900 / 법인등록번호 110111-373 · 계속사업자（Active） · 成立 2007-08-14 · 경기 군포시 엘에스로 153-8, 4층",
+"url": "https://bizno.net/article/1198600900",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "JobKorea / Incruit / lab.incruit：엔아이투스㈜（N-ITUS Co., Ltd.）· 경기 군포시 엘에스로 153-8 4층 · 설립 2007-09-03 · 대표 장세봉 · 유선 통신장비 제조업 · 사원수 40–43 명 · 자본금 6억 1,582만원 · 매출 2022 348.8억 → 2023 310억 → 2024 200억（순손실 −21.1억）→ 2025 240.4억 원（순이익 3.3억）",
+"url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/nitus/Company_name/%EC%97%94%EC%95%84%EC%9D%B4%ED%88%AC%EC%8A%A4%E3%88%9C",
+"note": "韩国有线通信设备制造商（40 人、≈$17M），2024 亏损后 2025 回升 → 外采降本期，OEM 对位",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -360465,6 +362048,16 @@
 "batch": "INTEL-08",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "US · 1 次检索：BBB（Diversified Material Specialists, Inc.；别名 DMS：DMSI International = Diversified Material Specialists, Inc.（dmsimfg.com；North Venice, FL）— · FL Corporation（Sunbiz 文件号未取；BBB 法定名 Dive · Active（2025 扩产报道） · 成立 1996-07-05 · 105 Triple Diamond Blvd, Unit 101, North Venice, FL 34275",
+"url": "https://www.bbb.org/us/fl/north-venice/profile/fiber-optics/diversified-material-specialists-inc-0653-90109063",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -366742,6 +368335,16 @@
 "url": "https://app.implisense.com/en/companies/lanopia-gmbh-altomuenster--DEIDEIEX1021",
 "note": "巴伐利亚家族式数据通信批发商（小型）",
 "batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "DE · 1 次检索：companyhouse.de（LANOPIA GmbH；Euphemiaweg 20 A 852：LANOPIA GmbH（lanopia.de；巴伐利亚 Altomünster；Amtsgericht München HRB 143448）— 2002-07-05 成立的光纤 · HRB 143448（Amtsgericht München） · Active · 成立 2002-07-05 · Gewerbepark 23, 85250 Altomünster（登记地址 Euphemiaweg 20a）",
+"url": "https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -406906,6 +408509,16 @@
 "url": "https://www.datanyze.com/companies/apollo-infoways-pvt/425988672",
 "note": "WatchDog 品牌主体；SC-1371 作为同一公司的副档降 B（A-DEEP-06），跟进只走 SB-641",
 "batch": "INTEL-14",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the leg：Apollo Infoways Private Limited（WatchDog 品牌；apolloinfoways.in；CIN U72900DL2014PTC264342（20 · CIN U72900DL2014PTC264342 · Active · 成立 2014-02-03 · E-703, Plot 60, Mayur Dhwaj Apartment, I.P. Extension, New Delhi 110092（运营 Noida",
+"url": "https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -455831,6 +457444,16 @@
 "batch": "INTEL-12",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UK Companies House：ITM SYSTEMS LIMITED · 07747218 · Active · 成立 2011-08-22 · North Wing, Broadway Court, Peterborough PE1 1RP（与官网一致）",
+"url": "https://find-and-update.company-information.service.gov.uk/company/07747218",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -479181,6 +480804,16 @@
 "batch": "INTEL-08",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人：VERSITRON, INC. · DUNS 837605443（CAGE 在册）；Delaware 公司（Bloo · Active（2025-07 仍发新闻稿；NAVAIR 小企 · 成立 1958 创立（品牌 · 83 Albe Drive Suite C, Newark, DE 19702",
+"url": "https://cage.report/DUNS/837605443",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -498126,6 +499759,16 @@
 "batch": "INTEL-14",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "PK · 1 次检索：jamals.com/futurist-pvt-ltd./61581（FUTURIST (PVT)：FUTURIST (PVT) LTD.（futurist.com.pk；**House 898, Street 27, I-10/4, Islamabad（黄页；051-444 6 · 未取（(Pvt) Ltd；SECP 号 1 查未得；海关进口记录在） · 营业中（2025-09 仍在进口） · 成立 2011 · House 898, Street 27, I-10/4, Islamabad, Pakistan（海关地址 House 524, Double Road, I",
+"url": "https://www.jamals.com/futurist-pvt-ltd./61581?preview=1",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -511630,6 +513273,16 @@
 "batch": "INTEL-10",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "UK Companies House：TELTRONIX HOLDINGS LTD（品牌 Briticom™） · 12455268 · Active（officers 页在列，无解散标记） · 成立 2020-02-11 · 7 Premier Court, Boarden Close, Moulton Park Industrial Estate, Northampton NN3 ",
+"url": "https://find-and-update.company-information.service.gov.uk/company/12455268",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -513876,6 +515529,16 @@
 "url": "https://entreprises.lefigaro.fr/etic-telecom-38/entreprise-380927475",
 "note": "采购线索：工业路由器/远程访问设备制造商，营收两年腰斩（6.6M→3.9M€）；对供应商付款周期 106 天 → 合作要前 T/T",
 "batch": "INTEL-09",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，20：ETIC TELECOM · SIREN 380927475 · SIRET 38092747500026（总 · Active（A） · 成立 1991-01-01 · 405 Rue Lavoisier, 38330 Montbonnot-Saint-Martin（2022-10 起）；旧址 ZIRST 13 Chemin d",
+"url": "https://recherche-entreprises.api.gouv.fr/search?q=ETIC%20TELECOM&per_page=1",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }
@@ -532337,6 +534000,16 @@
 "batch": "INTEL-17",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "AU · 1 次检索：ksm.com.au/terms-conditions（KSM Australia Pty Ltd：KSM Australia Pty Ltd / KSM Solutions 网店（ksm.com.au；**ABN 98 071 589 690；Suite 18, 12 Tryo · ABN 98 071 589 690 · 营业中（官网 2026；ABN 在） · 成立 未取（ABN 071 · Suite 18, 12 Tryon Rd, Lindfield NSW 2070, Australia",
+"url": "https://www.ksm.com.au/terms-conditions/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -542361,6 +544034,16 @@
 "batch": "INTEL-07",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、：EION Inc.（d/b/a EION Wireless；集团 PomeGran Inc.） · 联邦公司 3921174 · Business Number 870048014 · Active / Actif · 成立 2001-07-16 · 260 Terence Matthews Cres, Suite 200, Ottawa (Kanata) ON K2M 2C7",
+"url": "https://federalcorporation.ca/corporation/3921174",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -546898,7 +548581,7 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-982",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-982",
 "name_official": "",
@@ -546956,8 +548639,8 @@
 "source": "https://www.mcss.co.kr/"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
 "deep": {
 "done_at": "2026-10-21",
@@ -547157,6 +548840,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-11",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）"
 }
 ],
 "a_deep": {
@@ -547351,7 +549042,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-11",
+"verdict2_reason": "MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -547364,6 +549058,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "KR · 1 次检索：mcss.co.kr 页脚（(주)엠씨에스솔루션；대표이사 이일우；사업자등록번호 106-86-：(주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr；**사업자등록번호 106-86-25768；통신판매업 제2017-서울금천-1333호 · 사업자등록번호 106-86-25768 / 통신판매업 2017-서울금천-1 · 营业中（商城在线） · 成立 2004-01-30 · 서울 금천구 디지털로 178, 현대가산퍼블릭 A동 1009호 (가산동)",
+"url": "https://www.mcss.co.kr/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "mcss.co.kr / JobKorea / sharedit：㈜엠씨에스솔루션（MCSS）· 서울 금천구 디지털로 178 A동 1009호 · 사업자 106-86-25768 · 설립 2004-01-30 · 대표 이일우 · 사원수 9–10 명 · 매출 45억 원 · PLANET / Ubiquiti（공식 총판）/ Omnitron / Teltonika 유통 + NI/SI · 영업대표 함종섭",
+"url": "https://www.mcss.co.kr/",
+"note": "PLANET/UniFi 渠道但 9–10 人 → A-DEEP-11 下放 B（韩国 B1 重点）",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -548429,6 +550143,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "US · 1 次检索：官网 company.html（「Antronix of California, (Olson T：Olson Technology, Inc.（现「Antronix of California（Olson Technology Division）」；olsontech.com； · CA 公司（SoS 号未取）；现为 Antronix of California · Active（已并入 Antronix 体系） · 成立 1985-07 · 24926 Highway 108, Mi-Wuk Village (Sierra Village), CA 95346（Sonora CA 收发；Greenb",
+"url": "http://www.olsontech.com/company.html",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -692116,6 +693840,16 @@
 "batch": "INTEL-14",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实：San Telequip Private Limited（santelequip.com；**CIN U32202PN1992PTC065720；ROC Pune；1992-03- · U32202PN1992PTC065720（CIN） · Active（年报 2023-03-31） · 成立 1992-03-04 · Pune, Maharashtra（注册地址见 MCA）",
+"url": "https://www.zaubacorp.com/SAN-TELEQUIP-PRIVATE-LIMITED-U32202PN1992PTC065720",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -742306,6 +744040,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "shop.satvision-cctv.ru：Satvision —「одна из крупнейших компаний в области производства и поставок оборудования для систем безопасности и видеонаблюдения в России」· Самара, ул. Санфировой 95, к.1 · 品牌：Satvision、SatvisionSP（项目线）、Divisat（数字/卫星接收机）、Satvision Smart Systems（VMS）；fastvideo.ru 将其列为俄罗斯本土摄像机厂商",
+"url": "https://shop.satvision-cctv.ru/company/brands/",
+"note": "萨马拉 CCTV 大牌（OEM 采购方）→ PoE 交换机贴 Satvision 的 30% 档",
+"batch": "INTEL-21",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -988208,6 +989952,16 @@
 "url": "https://www.konaequity.com/company/visiotech-10402389140/",
 "note": "",
 "batch": "INTEL-06",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "ES · 1 次检索：visiotechsecurity.com/en/（CIF B80645518；Calle Alb：VISIOTECH SECURITY S.L.（visiotechsecurity.com；**官网页脚：CIF B80645518；Calle Alberto Sánchez 3 · B80645518 · 营业中（官网 2026） · 成立 未取 · Calle Alberto Sánchez 31, 28052 Madrid",
+"url": "https://www.visiotechsecurity.com/en/",
+"note": "登记库镜像（公司底数 2026-10-27 批次）",
+"batch": "INTEL-20",
 "found": true,
 "added": "2026-10-30"
 }

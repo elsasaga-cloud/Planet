@@ -248,9 +248,13 @@ updated: 2026-10-30
 | 2024.6.17 | 表 | 表 | 发了48口引流信息｜问了MPLS |  |
 | 2024.7.15 | 表 | 表 | 3个2光8PoE｜will check |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings ：ARECA EMBEDDED SYSTEMS PRIVATE LIMITED · CIN U72200TG2007PTC053397 · RoC Hyderaba · Active · 最近 AGM 2024-09-30（Tof · 成立 2007-03-29 · Hyderabad, Telangana（研究档） — <https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

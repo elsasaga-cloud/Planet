@@ -199,13 +199,14 @@ updated: 2026-10-30
 | 2024 | 表 | 表 | Simon 备注/兴趣栏｜需要30W PoE injector / from: 阿里巴巴RFQ |  |
 | 2024-12-10 | 去 | S | Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：Direktronik（瑞典经销商）产品 PDF 的合规声明：Manufacturer PROXEET LIMITED · Cyprus, Paphos, 61 Neofytou Nikolaidi, Yiannis court, office 201, 8011 · +357-25100999 · info@proxeet.com；产品 iBlock Essential 便携中跨 PoE 注入器 — <https://www.direktronik.se/globalassets/_product-images--pdf/2.-kommunikation-datacenter/2.1-stromforsorjning/06.-power-over-ethernet-poe-90/poe-injektor-med-batteridrift.pdf>　*已有北欧经销渠道（Direktronik）*
+- 2026-10-30：CY · 1 次检索：i-cyprus（PROXEET LIMITED；ΗΕ 437925；Private Limite：PROXEET LIMITED（proxeet.com / portablepoe.com / chiprian.com；帕福斯 Neofytou Nikolaidi 61, Yi · ΗΕ 437925 · Active（Registrar of Companies） · 成立 2022-08-31 · Neofytou Nikolaidi 61, Yiannis Court, Floor 2, Office 201, 8011 Pafos — <https://i-cyprus.com/company/611007>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **KP**
 

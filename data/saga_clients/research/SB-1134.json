@@ -434,6 +434,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；T：Conexión de Redes de Centro América（conexionderedes.com；**官网：San Salvador, El Salvador；+50 · 未取（NIT 1 查未得） · 营业中（官网 2026） · 成立 未取 · San Salvador, El Salvador（街道未取；+503 2262-1049）",
+    "url": "https://www.conexionderedes.com/servicios",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "conexionderedes.com：Conexión de Redes（San Salvador；+503 2262-1049；WhatsApp +503 7553-2289；gerencia@conexionderedes.com）· 服务：Redes XGPON/FTTx、Fibra Óptica FTTH、POLAN 智能楼宇、IPTV、Data Center、LTE、微波 IP、PoE 照明咨询 · 网店含 switches/routers/FTTH/XGPON",
+    "url": "https://www.conexionderedes.com/servicios",
+    "note": "中美洲电信设备供应 + 集成（网店 + 咨询）；规模未见",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

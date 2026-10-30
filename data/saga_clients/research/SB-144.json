@@ -458,6 +458,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公：BSD International Marketing（品牌 BSD Networks） · 安省公司（Ontario Business Registry 需 JS，编号未取 · 在营（官网 2026；Graybar Canada 在售 2 · 成立 1982（ZoomI · 登记 275 York Hill Blvd, Thornhill ON L4J 3L5（住宅）；经营 520 Applewood Cres, Concord /",
+    "url": "https://www.dnb.com/business-directory/company-profiles.bsd_networks.239dc1ee4b87cb51cc71290a587c2280.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

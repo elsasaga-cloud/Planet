@@ -258,13 +258,14 @@ A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询�
 | 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-10-06 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：firmatlas：Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti. · Gayrettepe Mah. Fuatsarp Sok. Mutlu Apt. No:4/3 Balmumcu / İstanbul · 212 275 79 53 — <https://www.firmatlas.com/koptek-bilgisayar-ve-iletisim-sistemleri-san-ve-tic-ltd-sti/>
+- 2026-10-30：Türkiye · find.com.tr（登记摘要 + 经营范围 2007-11-09 修订）+ EMIS（成立日，2：KOPTEK BİLGİSAYAR VE İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Odası 会员（Ticaret Sicil  · 经营中（EMIS 2026-03 更新；官网在线） · 成立 2006-02-07 · Gayrettepe Mah. Fuat Sarp Sok. No:5/1, Balmumcu, Beşiktaş / İstanbul（官网 İletişim — <https://www.find.com.tr/Company/koptekbilgisayarveiletisimsistemlerisanayiveticaretlimitedsirketi>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **展会/活动**
 

@@ -434,9 +434,13 @@ A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Tele
 | 2026-08-17 | 去 | R |  |  |
 | 2026-10-03 | 来 | R | Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same … |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 6 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Turkey · 商会 / Ticaret Sicil 公开摘要（find.com.tr 镜像）+ 官网 / Linke：ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ · Ticaret sicil 号与税号在镜像站仅会员可见（未取）；NACE 620 · 在册（官网 / LinkedIn 2026 活跃） · 成立 2016-11-28 · 登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara；办公 Nergiz Sok. No:7 Via F — <https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 
@@ -505,7 +509,7 @@ A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Tele
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：6 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：成单精选层　|　**自动源**：8 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-077/`；本节随档案重渲染刷新，实时看日志。
 
@@ -516,9 +520,11 @@ A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Tele
 | [verge_family](https://www.angoranetworks.com/verge-network-switch-family/?lang=en) | html | HTTP 200 | 2026-10-23T02:54:23Z | 3982 字符；首行：Verge Network Switch Family - Angora Networks |
 | [support_portal](https://support.angoranetworks.com/) | html | HTTP 522 | 2026-10-23T02:54:23Z | 在线文档/支持门户（2026-10-23 02:40Z Cloudflare 522 源站超时） |
 | [github_anwHub](https://github.com/anwHub) | github | HTTP 200 | 2026-10-23T02:54:23Z | Organization anwHub · 仓库 1 · 最近推送 2020-01-16T11:10:50Z |
-| [auto_home](https://angoranetworks.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3087 字符；首行：Anasayfa - Angora Networks |
+| [auto_home](https://www.angoranetworks.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 3087 字符；首行：Anasayfa - Angora Networks |
+| [auto_sitemap](https://www.angoranetworks.com/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 73 条） |
+| [auto_youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCCAG46dVy-wxXtO-_b7fTPA) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCCAG46dVy-wxXtO-_b7fTPA |
 
-- **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/angora-networks（2,110 followers）；https://x.com/angoranetworks；https://www.instagram.com/angora_networks/；YouTube（频道 ID 待核：首轮 feed 404）: https://www.youtube.com/results?search_query=Angora+Networks
+- **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/angora-networks（2,110 followers）；https://x.com/angoranetworks；https://www.instagram.com/angora_networks/；YouTube（频道 ID 待核：首轮 feed 404）: https://www.youtube.com/results?search_query=Angora+Networks；X/Twitter: https://twitter.com/angoranetworks；LinkedIn: https://www.linkedin.com/company/angora-networks/；Instagram: https://www.instagram.com/angora_networks/
 
 ## 联系方式（已有 · 原值照录）
 

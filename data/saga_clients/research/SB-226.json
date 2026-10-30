@@ -56,8 +56,8 @@
    "source": "https://hcin4.com/default/01/02.php"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -186,6 +186,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）"
+  },
+  {
+   "batch": "A-DEEP-11",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）",
+   "reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型"
   }
  ],
  "snap_thicken": {
@@ -402,7 +410,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-11",
+  "verdict2_reason": "Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -415,6 +426,26 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 201：(주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com / rfoint.com R.FOINT MALL；**사업자등록번호 106-86- · 사업자등록번호 106-86-81310 / 통신판매업 00960 · 营业中（官网 + 商城在线） · 成立 2011-09-06 · 서울시 용산구 청파로 40, 삼구빌딩 1610호 (04373)",
+    "url": "https://hcin4.com/default/01/02.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "官网 / JobKorea / Saramin：(주)한창인포텍 · 서울 용산구 청파로 40 삼구빌딩 1610호 · 사업자등록번호 106-86-81310 · 설립 2011-09-06 · 대표 배성훈 · 직원 4–10 명 · 매출 18–40억 원 · Sony 디지털카메라 총판 + 2020 년부터 자체 브랜드 RFOINT 네트워크 장비/컨버터/케이블 수입 유통 · jryoun74@hcin4.com",
+    "url": "https://www.jobkorea.co.kr/recruit/co_read/c/hcinfo117",
+    "note": "4–10 人、自牌 RFOINT 进口商 → A-DEEP-11 下放 B（俄/韩二级 + 微型）",
+    "batch": "INTEL-21",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

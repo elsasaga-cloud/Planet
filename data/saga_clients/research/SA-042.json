@@ -533,6 +533,16 @@
     "batch": "INTEL-07",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · 新泽西州公司（Bloomberg / D&B / Buzzfile 登记摘要）+ 官网 About（2026：ANTRONIX, INC. · New Jersey corporation（州登记号待补） · 经营中、私人持有（官网 2026-10「still priv · 成立 1980-03-12 · 440 Forsgate Drive, Cranbury, NJ 08512（全球总部 + 技术中心）",
+    "url": "https://antronix.com/about-antronix/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

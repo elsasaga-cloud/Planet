@@ -239,13 +239,21 @@ A 确认（已回复 + 自有 logo + 工业线全品类分销）；P1 = STI-288D
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）：ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส） · （登记状态不可免费核） · 成立 — · Bangkok, Thailand　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：entasource.co.th in:email；"entasource.co.th" in:readme in:description；entasource.co.th type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：entasource.co.th：ENTA SOURCE Co., Ltd.（曼谷）进口分销 SFP 1G/10G/25G/40G/100G（兼容 Cisco/Juniper/Aruba/Huawei，3 年保）、Media Converter、Rack/DIN-Rail Industrial Ethernet Switch、Industrial PoE Switch、HDMI/4K over Fiber、光纤配件；售后保 1–3 年 — <https://www.entasource.co.th/17430328/network>　*曼谷自标进口分销商（光模块 + 工业交换机）→ 换源对位*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

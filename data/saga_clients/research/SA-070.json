@@ -430,6 +430,26 @@
     "batch": "INTEL-12",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Italy · Registro Imprese 公开摘要（ufficiocamerale.it / fatturato：TOP ITALIA S.R.L. · P.IVA / C.F. 04592850871 · REA CT-306496 · Attiva · 成立 2008-05-08 · Via Comunità Economica Europea 41, 95045 Misterbianco (CT)，西西里卡塔尼亚",
+    "url": "https://www.ufficiocamerale.it/4950/top-italia-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "未得（第二次）：Top Italia S.r.l.（Misterbianco/Catania，topsicurezza.com）网查仍只见同名 Top Security；需官网 P.IVA 核",
+    "url": "",
+    "note": "两查未得即停；研究档为准",
+    "batch": "INTEL-21",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

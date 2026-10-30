@@ -262,6 +262,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（Bilge Security；bilgeguvenlik.com / bilgetech.c · A.Ş.（İstanbul 商事登记 2018-02-08；MERSİS 未取） · Active（2026 EMIS 更新） · 成立 2018-02-08 · Örnek Mah. Dr. Suphi Ezgi Sok. No:6, 34704 Ataşehir / İstanbul（另 Ankara / İzmir）",
+    "url": "https://www.bilgeguvenlik.com/en/about",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

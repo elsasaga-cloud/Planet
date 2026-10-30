@@ -467,6 +467,16 @@
     "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Italia · Registro Imprese 镜像（ufficiocamerale / reportaziende：TRANS AUDIO VIDEO S.R.L.（TAV Group） · P.IVA / C.F. 01675270613 · REA CE-116878 · Attiva（经营中） · 成立 1987-06-18 · Viale Melvin Jones 12, 81100 Caserta (CE)",
+    "url": "https://www.ufficiocamerale.it/4733/trans-audio-video-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

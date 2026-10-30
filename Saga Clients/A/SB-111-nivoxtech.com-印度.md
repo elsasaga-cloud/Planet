@@ -216,9 +216,13 @@ updated: 2026-10-30
 | 2024.4.22 | 表 | 表 | 发了工业MC信息｜price 证书 |  |
 | 57 | 表 | 表 | 4 8 16口工业PoE｜EN50155 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：indiamart（Nivox Technologies；Partnership；GST 29AA：Nivox Technologies（nivoxtech.com / iveonet.com；**合伙企业；GSTIN 29AAIFN5171H1ZZ（2017）；IEC 0711 · GSTIN 29AAIFN5171H1ZZ / IEC 0711010331 · Active · 成立 2011 · 401B, 4th Floor, Nugen Residency, 105 Dollars Scheme, Nandini Layout, Bengaluru  — <https://www.indiamart.com/nivoxtechnologies/about-us.html>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

@@ -243,13 +243,14 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 - 网查（2026-10-30）：EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300 — <https://www.dnb.com/business-directory/company-profiles/eyescan-private-security-services-ltd.1ac629ee0e4fa28c2eb3603b85b97c55>
 - 网查（2026-10-30）：2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems — <https://eyescan.com.cy/about-us/>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300 — <https://www.dnb.com/business-directory/company-profiles/eyescan-private-security-services-ltd.1ac629ee0e4fa28c2eb3603b85b97c55>　*A-DEEP-01 网查镜像*
+- 2026-10-30：塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）：Eyescan Private Security Services Ltd · （登记状态不可免费核） · 成立 2001（官网「Si · Limassol, Cyprus　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

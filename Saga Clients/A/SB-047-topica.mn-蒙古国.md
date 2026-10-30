@@ -221,9 +221,14 @@ updated: 2026-10-30
 | 2025-12-29 | 去 | R |  |  |
 | 2025.11.6 | 表 | 表 | 24PoE｜需要16 port的 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC e：Topica LLC（Топика ХХК；topica.mn；**devex：2005 年由电子 / IT 工程师创立；Chingeltei District, 1st Khor · 未取（蒙古注册号 1 查未得） · 营业中（名录 + 网店） · 成立 2005 · Office 3A, 1st Khoroo, Chingeltei District, Ulaanbaatar, Mongolia — <https://www.devex.com/organizations/topica-40614>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：whois.ipip.net / Facebook：Topica LLC · Ulaanbaatar（Chingeltei district, 3a building；P.O.Box 44/575）· AS10109 TOPNET-AS-MN-AP「Internet Service Provider」· Facebook「Topica」18,163 likes：Мэдээллийн технологи, автоматжуулалтын шилдэг шийдэл, тоног төхөөрөмжийн худалдаа, үйлчилгээ（IT/自动化设备销售与服务）+「Topica.mn Network Shop」 — <https://whois.ipip.net/AS10109>　*乌兰巴托 ISP（自有 AS）兼网络设备商店 → 接入/汇聚交换机真实买家*
 
 **GitHub/技术足迹**
 
@@ -233,7 +238,7 @@ updated: 2026-10-30
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-047/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

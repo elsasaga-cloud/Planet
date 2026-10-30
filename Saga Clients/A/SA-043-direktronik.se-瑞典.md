@@ -255,13 +255,17 @@ A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度�
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-28 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：proff.se / hitta.se：Direktronik Aktiebolag · org.nr 556281-9663 · Registreringsår 1986 · Nynäshamn（Konsul Johnsons väg 15）· Bokslut 2024-03：Omsättning 130 548 Tkr（−8.1%）· Resultat efter finansnetto 23 742 Tkr · Anställda 26（bolagsfakta：28，+1 vs 2023）· SNI 46521 Partihandel med elektronikkomponenter；经营范围含 import, tillverkning och försäljning av datakomponenter — <https://proff.se/befattningshavare/direktronik-aktiebolag/-/-/5562819663/>　*瑞典老牌进口分销商，年销 ≈1.3 亿瑞典克朗、利润率 ≈18%（现金充裕）；已在卖 Proxeet 的 PoE 注入器 → 自牌/多品牌采购老手*
+
+**登记**
+
+- 2026-10-30：Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / ：DIREKTRONIK AKTIEBOLAG（Direktronik AB） · Org.nr 556281-9663 · VAT SE556281966301  · Aktiv（经营中） · 成立 1986-09-11 · Konsul Johnsons Väg 15, 149 45 Nynäshamn（Box 234, 149 23 Nynäshamn） — <https://www.allabolag.se/foretag/direktronik-aktiebolag/nyn%C3%A4shamn/elektronik-och-telekommunikationsutrustning/2JZYJ4FI63IFR>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

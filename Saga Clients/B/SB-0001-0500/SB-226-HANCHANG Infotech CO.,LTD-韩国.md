@@ -1,14 +1,14 @@
 # HANCHANG Infotech CO.,LTD
 
-> **评级 A**　|　韩国　|　档案编号 `SB-226`　|　优先级 ★★★　|　状态：已推送 2 次·未回复
+> **评级 B**　|　韩国　|　档案编号 `SB-226`　|　优先级 ★★　|　状态：已推送 2 次·未回复
 >
 > **类型**：韩国网络品牌商（自有标商用 FS，现 Volktek）（推断）　|　**历史关系**：推送 2 次（2025-10-16 → 2025-10-30）　|　**所在清单**：A优质名单(KR)、表:Secon 2023、AI评估(KR)、DC线索、群发(筛选后质量一般的_群发)、表:KR　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-226
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFO
 score: 49
 country: 韩国
 region: 亚太
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国 HANCHANG Infotech（hcin4.com / rfoint.com；表内「Volktek 的；会英文 PoE switch；自己的 logo 主要是商业 FS，别人在卖他们家的」；KP Peter Youn（Director，070-4306-9494 / 82-10-5336-2982）、Park）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：Volktek的；会英文 POE switch；自己的logo 主要是商业FS  别人在卖他们家的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-10-16 → 2025-10-30）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 + STC-424XGGPM — 品牌商 + 主动要价。已打开的主题（4/42 封有打开记录）：「24 Port Fiber Switch」(2025-02-04)、「Optional Marvell Chipset Solutions」(2025-12-08)、「Re: OEM Core Switching Solution」(2026-01-19)、「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-22)、Performance of PeakNetX Platform_EN_V3(2026-01-19)、STH25G Series(2026-01-19)、Saga Software Function List_EN_V2.4(2026-01-19)、Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180；他 2024 收过 $300 / $240 群发，48 口与汇聚款别高于那两个数无解释；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 EXW; is the first project 10G/25G aggregation or 100G core?
@@ -153,7 +153,7 @@ updated: 2026-10-30
 - **KP**：Peter Youn（Director, (주)한창인포텍 HANCHANG Infotech（公司对外邮箱 = KP 邮箱；会英文）= 收件人；대표이사 배성훈 = 拍板人（第 115 批 官方登记核实 2026-10-28））jryoun74@hcin4.com 〔用户表〕
 - **KP**：Park（HANCHANG Infotech 研究档联系人 = 抄送（第 115 批 官方登记核实 2026-10-28））parkhj4003@hcin4.com 〔用户表〕
 - **KP**：배성훈 Bae Seong-hoon（대표이사 (주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com 회사개요）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://hcin4.com/default/01/02.php〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）
+- **调研后定级**：B（原自动 B）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -227,15 +227,23 @@ updated: 2026-10-30
 | 2026-08-19 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-10 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：官网 / JobKorea / Saramin：(주)한창인포텍 · 서울 용산구 청파로 40 삼구빌딩 1610호 · 사업자등록번호 106-86-81310 · 설립 2011-09-06 · 대표 배성훈 · 직원 4–10 명 · 매출 18–40억 원 · Sony 디지털카메라 총판 + 2020 년부터 자체 브랜드 RFOINT 네트워크 장비/컨버터/케이블 수입 유통 · jryoun74@hcin4.com — <https://www.jobkorea.co.kr/recruit/co_read/c/hcinfo117>　*4–10 人、自牌 RFOINT 进口商 → A-DEEP-11 下放 B（俄/韩二级 + 微型）*
+
+**登记**
+
+- 2026-10-30：KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 201：(주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com / rfoint.com R.FOINT MALL；**사업자등록번호 106-86- · 사업자등록번호 106-86-81310 / 통신판매업 00960 · 营业中（官网 + 商城在线） · 成立 2011-09-06 · 서울시 용산구 청파로 40, 삼구빌딩 1610호 (04373) — <https://hcin4.com/default/01/02.php>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：hcin4.com in:email；"hcin4.com" in:readme in:description；HANCHANG Infotech CO. LTD type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -324,7 +332,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -351,7 +359,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -393,11 +401,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 49）
 
 ---
 

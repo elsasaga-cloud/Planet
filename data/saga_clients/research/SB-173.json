@@ -477,6 +477,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：inaxsys.com 新闻 2024-10（Inaxsys Security Systems I：Inaxsys Security Systems Inc.（inaxsys.com；11685 Avenue Philippe-Panneton, Montréal (QC) H1 · 未取（NEQ） · Active · 成立 2004 · 11685 Avenue Philippe-Panneton, Montréal, QC H1E 4M1",
+    "url": "https://inaxsys.com/en/news-and-articles/details/inaxsys-at-security-canada-central-2024/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -250,9 +250,13 @@ A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/
 | 2024.5.27 | 表 | 表 | 问测试结果｜will check |  |
 | 2024.8.13 | 表 | 表 | 问需求｜基本只需要电口 不要光 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立：UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（Greater Noida, UP） · CIN U17302UP2019PTC115938 · GST 09AACCU4 · Active · 成立 2019-04-18 · Plot No. 98, Toy City, Ecotech-III, Greater Noida 201306（注册地 218 Udyog Kendra Ex — <https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

@@ -252,9 +252,13 @@ updated: 2026-10-30
 | 2026-07-02 | 去 | A | Re: Request for DX1518/DX1548 Chips |  |
 | 2026-07-02 | 来 | A | Request for DX1518/DX1548 Chips｜Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX151… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IL · 1 次检索：官网 team / at-a-glance（2009 成立，联合创始人 CEO Alexander：Larch Networks Ltd.（原 Niram Systems；Rosh HaAyin, Israel） · ח.פ. 未取（镜像未命中；下轮 israeli-companies 按名查） · Active（2025-08 新闻） · 成立 2008/2009（ · Rosh HaAyin, Central District, Israel（开发办公室 Kyiv） — <https://larch-networks.com/about-larch-networks/at-a-glance/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

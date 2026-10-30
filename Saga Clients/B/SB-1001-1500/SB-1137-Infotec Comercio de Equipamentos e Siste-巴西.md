@@ -1,18 +1,18 @@
 # Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda.
 **官方名称（调研核实）**：Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）
 
-> **评级 A**　|　巴西　|　档案编号 `SB-1137`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　巴西　|　档案编号 `SB-1137`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **P 池并入（A 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 微型 / 小型（ME；Sim）
+> **P 池并入（B 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 微型 / 小型（ME；Sim）
 >
 > **类型**：巴西安防设备经销（CCTV）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：E冷名单(巴西)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1137
-rating: A
+rating: B
 rating_auto: C
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核
 name_official: "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）"
 score: -2
 country: 巴西
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S 邮箱 2024-06-25 三封来信：要 8+2 / 16+2 / 24+2 PoE 的型号与价（「lo más usado aquí」）、确认 19" 机架、问有无 VPN 设备；Simon 当日给报价单 + 规格书，答机架 OK / 无 VPN；2024-11-19 再要 4/8/16/24 口工业非管理价表 → 给了。此后无回。（调研 2026-10-24；表内兴趣：买的MC和机架 公司做: VC Switch和MC  工程）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11））；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-4 区域 拉美/巴西
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核）；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-4 区域 拉美/巴西
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级 — 已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)｜档位说明（原 tier 字段文字「经销 20%」移此）：经销 20%；2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it.
@@ -138,7 +138,7 @@ updated: 2026-10-30
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-11-19）
 - **KP**：Fabian Alonzo（联系人（研究档；2024-06 / 2024-11 两次主动要价）= 收件人 — 一页纸一次：分销 20% B、以 2024-06 报价为开场再报 STC-028GP / STC-2216GP / STC-2224GP 现价 + STI-280GE 工业非管理 + MOQ 1；葡语备注；回信 → 升 A 候选 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））transivideo@gmail.com 51 98144-0559（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **KP**：Ema Ines Rodriguez Rodriguez（Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29））admin@infotecsistemas.com.br 〔〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）
+- **调研后定级**：B（原自动 C）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核
 - 备注：西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。
 
 ### 加厚挖掘（2026-10-24 · 邮件证据）
@@ -195,9 +195,14 @@ updated: 2026-10-30
 | 2025-08-26 | 去 | A | 24 Port Fiber Switch | $240 |
 | 2025-09-18 | 去 | A | 90W PoE Managed Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156：Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda（**CNPJ 05.590.805/0001-56（总部 · CNPJ 05.590.805/0001-56（分支 0002-37） · ATIVA（Simples） · 成立 2003-03-26 · São José - SC, Brazil（分支 Florianópolis - SC） — <https://casadosdados.com.br/solucao/cnpj/infotec-comercio-de-equipamentos-e-sistemas-de-seguranca-ltda-05590805000156>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：未得：Infotec Comércio de Equipamentos e Sistemas（巴西，无域名）网查无法锁定主体　*不可核 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -268,7 +273,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165） 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -295,7 +300,7 @@ updated: 2026-10-30
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -330,11 +335,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → B
 
 ---
 

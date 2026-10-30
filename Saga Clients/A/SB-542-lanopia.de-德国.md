@@ -225,13 +225,14 @@ updated: 2026-10-30
 | 2026-09-23 | 来 | A | Ihr email an Lanopia GmbH｜Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder unse… |  |
 | 2026-09-23 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：implisense / D&B：LANOPIA GmbH · Amtsgericht München HRB 143448 · 2002-05-09 · Euphemiaweg 20a / Gewerbepark 23, 85250 Altomünster · Stammkapital €25,000 · Wholesale of electronic and telecommunications equipment（Datenkommunikationsprodukte）· Small enterprise（1–24）· GF Martina Ochmann，Partner Paul Ochmann — <https://app.implisense.com/en/companies/lanopia-gmbh-altomuenster--DEIDEIEX1021>　*巴伐利亚家族式数据通信批发商（小型）*
+- 2026-10-30：DE · 1 次检索：companyhouse.de（LANOPIA GmbH；Euphemiaweg 20 A 852：LANOPIA GmbH（lanopia.de；巴伐利亚 Altomünster；Amtsgericht München HRB 143448）— 2002-07-05 成立的光纤 · HRB 143448（Amtsgericht München） · Active · 成立 2002-07-05 · Gewerbepark 23, 85250 Altomünster（登记地址 Euphemiaweg 20a） — <https://www.companyhouse.de/LANOPIA-GmbH-Altomuenster>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

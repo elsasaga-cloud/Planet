@@ -529,6 +529,16 @@
     "batch": "INTEL-10",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UK Companies House：LINXCOM LIMITED · 07157746 · Active · 成立 2010-02-15 · 50 Woodgate, Leicester LE3 5GF（注册地；研究档里的 3 Oakland Road 是旧址 / 经营地，以此为准更新）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07157746",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

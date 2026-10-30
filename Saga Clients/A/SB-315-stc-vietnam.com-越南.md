@@ -228,13 +228,21 @@ updated: 2026-10-30
 | 2024.8.14 | 表 | 表 | 4 8口工业PoE｜noted |  |
 | 2026-09-10 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：VN · 1 次检索：masothue.com/0309279999（CÔNG TY TNHH THƯƠNG MẠI D：CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SONG THÀNH CÔNG（STC Vietnam；stc-vietnam.com / songthanhcon · MST 0309279999 · Đang hoạt động（营业中） · 成立 2009 · 247/8B Hoàng Hoa Thám, P.5, Q. Phú Nhuận, TP. Hồ Chí Minh, Việt Nam — <https://masothue.com/0309279999-cong-ty-tnhh-thuong-mai-dich-vu-song-thanh-cong>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：stc-vietnam.com in:email；"stc-vietnam.com" in:readme in:description；stc-vietnam.com type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：stcvietnam.biz：Công ty TNHH TM DV Song Thành Công（STC Vietnam）「là nhà phân phối chính thức thiết bị hãng MOXA Inc tại thị trường Việt Nam」· 工业自动化备件/设备分销：Industrial Ethernet Switch、Serial Device Server、Industrial Router、Media Converter、NSD 编码器、Balluff 传感器、E2S、Enerdoor — <https://stcvietnam.biz/>　*越南 Moxa 官方分销 + 工业自动化渠道 → 工业交换机白牌补位（Moxa 价差大）*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

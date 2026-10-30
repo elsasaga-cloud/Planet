@@ -245,15 +245,23 @@ updated: 2026-10-30
 | 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-02 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETE：EPE RETELEM SPA（ex-SONATITE；retelem-dz.com；**signalhire 名录：54, Rue Omar Benaissa, Bab El O · 未取（RC / NIF 1 查未得） · 营业中（国企；官网 + 名录） · 成立 1971（SONAT · 54, Rue Omar Benaissa, Bab El Oued, Alger, Algeria — <https://www.signalhire.com/companies/epe-retelem-spa>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-30：algeriayp / SignalHire / RocketReach：EPE RETELEM SPA（ex-SONATITE）· 54 Rue Omar Benaissa, Alger · established 2008（历史 50+ 年）· 200–500 employees（RocketReach 59 可见）· est. revenue $10M–50M · 业务：telephony IP/hybrid, télécommunications, sécurité industrielle, réception satellitaire · CEO Benchelef Kamel（+213 555 050 850）· Project Director Mustapha Mehessem — <https://www.signalhire.com/companies/epe-retelem-spa>　*阿尔及利亚国有电信/安防集成商（200–500 人）→ 国企采购走招标，留 A 观察*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：retelem-dz.com in:email；"retelem-dz.com" in:readme in:description；retelem-dz.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -1,18 +1,18 @@
 # thuyluc.com
 **官方名称（调研核实）**：Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）
 
-> **评级 A**　|　越南　|　档案编号 `SB-367`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　越南　|　档案编号 `SB-367`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；WA ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型）
+> **P 池并入（B 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；WA ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 12 次（2024-02-27 → 2025-01-07）　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-367
-rating: A
+rating: B
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端
 name_official: "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）"
 score: 44
 country: 越南
@@ -37,10 +37,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。（调研 2026-10-21；表内兴趣：2光6电非管理非POE SC 20km 没成）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06））；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端）；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 12 次（2024-02-27 → 2025-01-07）；最近一次客户回复：2024-06-20：Email发了2光6小壳信息
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — 首封前知悉：本户是 Elsa 群发批次的锚（每轮 To 本户），已收 1 轮（2026-09-10→2026-09-10，0 回）（第 74 批(m)）；—
 
@@ -127,7 +127,7 @@ updated: 2026-10-30
   > 兴趣：2光6电非管理非POE SC 20km 没成
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ly Thanh Ha (Lee Thanh Ha)（表内联系人 Lee（液压公司；偶发询 2 光 6 电）— 不动，不发（第 119 批 官方登记核实 2026-10-28））hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） +84 912 336 758〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）
+- **调研后定级**：B（原自动 B）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -214,9 +214,14 @@ updated: 2026-10-30
 | 2026-09-10 | 去 | R |  |  |
 | 2026-10-20 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc t：CÔNG TY CỔ PHẦN MTS / MTS JSC（thuyluc.com；**MST 0101892941；发证 2006-03-20；Số 166 đường Tựu  · MST 0101892941 · 营业中 · 成立 2006-03-20 · Số 166 đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội, Việt Nam — <https://thuvienphapluat.vn/ma-so-thue/cong-ty-co-phan-mts-mst-0101892941.html>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：thuyluc.com：Công ty Cổ Phần MTS（MTS Hydraulics & Automation）· Số 166 Đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội · GPKD 0101892941（2006-03-14）· 水电项目液压/阀门/SCADA 电柜供应（源自某总公司高科技中心私有化，Dr. Ly Thanh Ha 主要股东；该总公司 20 家成员企业约 1 万人） — <https://www.thuyluc.com/gioi-thieu>　*水电 EPC 配套（液压为主，SCADA 电柜顺带）= 项目型终端 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -298,7 +303,7 @@ updated: 2026-10-30
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-280GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -325,7 +330,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -342,7 +347,7 @@ Picking up our earlier exchange about PoE / industrial switches.
 
 We supply an industrial DIN-rail switch, 8x Gigabit plus 2 SFP (unmanaged) - model STI-280GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $48.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -365,11 +370,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 

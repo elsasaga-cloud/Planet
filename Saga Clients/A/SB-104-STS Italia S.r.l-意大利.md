@@ -232,13 +232,17 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2026-09-15 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-10-08 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：ufficiocamerale：STS ITALIA S.R.L. · P.IVA 00865310247 · Via Spinelli 134, 20862 Arcore (MB) · REA 1490600 · Data Iscrizione 1984-05-11 · Dipendenti 73（2026）· Fatturato €7,973,181（2024）· Utile €438,664 · ATECO 432102 Installazione di cablaggi per telecomunicazioni e altre reti · PEC stsitaliasrl@pec.telemar.it；RocketReach：Security and Investigations，Silvio Stefani — Commerciale — <https://www.ufficiocamerale.it/4755/sts-italia-srl>　*米兰北郊 73 人安防/布线安装集成商，年销 €8M、盈利 → 集成 25% 档*
+
+**登记**
+
+- 2026-10-30：Italia · Registro Imprese 镜像（ufficiocamerale / companyreport：STS ITALIA S.R.L.（Arcore MB；原 Vicenza） · P.IVA / C.F. 00865310247 · REA MB 149060 · Attiva（2024 年报已交；无 protesti） · 成立 1984-03-16 · Via Altiero Spinelli 134, 20862 Arcore (MB) — <https://www.ufficiocamerale.it/4755/sts-italia-srl>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

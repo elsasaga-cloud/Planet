@@ -271,6 +271,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKE：MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（Makrosis；makrosisas.com.tr；伊斯坦布尔 Şişli Kuştepe Mah · MERSİS 未取（A.Ş. 设立公告 2023-11-13） · Active · 成立 2023-11-13 · Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, Şişli / İst",
+    "url": "https://www.find.com.tr/Company/makrosistemdisticaretanonimsirketi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

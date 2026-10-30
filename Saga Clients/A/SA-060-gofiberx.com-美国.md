@@ -306,9 +306,13 @@ updated: 2026-10-30
 | 2026-08-25 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-25 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + Pe：FIBERX LLC（gofiberx.com / fiberx.net；关联 OSNet Wireless） · Puerto Rico LLC（波多黎各国务院登记号待补） · 经营中（2025-09 自办 FiberX Expo；202 · 成立 2016（Linke · Metro Office Park Street #1 Lot 6, Suite 104（办公）/ B01（数据中心）, Guaynabo, PR 00968 — <https://gofiberx.com/about-us/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

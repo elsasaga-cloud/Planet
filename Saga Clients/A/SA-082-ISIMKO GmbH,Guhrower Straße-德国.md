@@ -235,13 +235,14 @@ updated: 2026-10-30
 | 2026-03-09 | 去 | A | Updated Ethernet Switches Links |  |
 | 2026-09-30 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：goyellow / Kompass / wlw：ISIMKO GmbH · Guhrower Straße 5, 03044 Cottbus · Amtsgericht Cottbus HRB 472 · USt-IdNr. DE138775376 · Gründungsjahr 1990 · Geschäftsführer Wolfgang Noack, Ralph Hannemann, Diego Noack · Mitarbeiter 50–99（wlw）/ 100–249（Kompass）· Kapital 250.001 EUR · Zertifikate BHE, DIN 14675, ISO 9001 · 业务：Informationstechnik, Sicherheitstechnik, Medientechnik, Kommunikationstechnik（Fert — <https://www.goyellow.de/home/elektriker-isimko-gmbh-cottbus--grpbv9.html>　*勃兰登堡 50–249 人的 IT/安防/通信系统集成商，三位 GF 可直接写信（Noack 家族 + Hannemann）*
+- 2026-10-30：Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费：ISIMKO GmbH（原 G. Fleischhauer Ingenieur-Büro Cottbus GmbH → Fleischhauer Cottbus GmbH） · Amtsgericht Cottbus HRB 472 · EUID DEG11 · 在册，年报按期公告（2024 年报 2026-01-19 公 · 成立 1990-09-28 · Guhrower Str. 5, D-03044 Cottbus（勃兰登堡） — <https://www.northdata.de/ISIMKO%20GmbH,%20Cottbus/HRB%20472>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

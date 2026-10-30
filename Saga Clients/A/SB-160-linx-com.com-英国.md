@@ -251,9 +251,13 @@ updated: 2026-10-30
 | 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：UK Companies House：LINXCOM LIMITED · 07157746 · Active · 成立 2010-02-15 · 50 Woodgate, Leicester LE3 5GF（注册地；研究档里的 3 Oakland Road 是旧址 / 经营地，以此为准更新） — <https://find-and-update.company-information.service.gov.uk/company/07157746>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

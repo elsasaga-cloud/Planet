@@ -1067,6 +1067,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darms：NYNEX satellite OHG（品牌 fiberONE） · Amtsgericht Darmstadt HRA 84829 · EUID D · 在册（Northdata 无注销 / 破产事件；最近事件 2 · 成立 2012-11-27 · Darmstadt（研究档：Robert-Bosch-Str. 20, 64293 Darmstadt）",
+    "url": "https://www.northdata.de/NYNEX%20satellite%20OHG,%20Darmstadt/HRA%2084829",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "（无新增）NYNEX satellite OHG / fiberONE：Handelsregister HRA 84829 在登记库",
+    "url": "",
+    "note": "PI 成单户",
+    "batch": "INTEL-21",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

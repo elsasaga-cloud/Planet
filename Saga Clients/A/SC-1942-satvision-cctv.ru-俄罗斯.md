@@ -221,13 +221,17 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2026-07-02 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-19 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：satvision-cctv.ru in:email；"satvision-cctv.ru" in:readme in:description；satvision-cctv.ru type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：shop.satvision-cctv.ru：Satvision —「одна из крупнейших компаний в области производства и поставок оборудования для систем безопасности и видеонаблюдения в России」· Самара, ул. Санфировой 95, к.1 · 品牌：Satvision、SatvisionSP（项目线）、Divisat（数字/卫星接收机）、Satvision Smart Systems（VMS）；fastvideo.ru 将其列为俄罗斯本土摄像机厂商 — <https://shop.satvision-cctv.ru/company/brands/>　*萨马拉 CCTV 大牌（OEM 采购方）→ PoE 交换机贴 Satvision 的 30% 档*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

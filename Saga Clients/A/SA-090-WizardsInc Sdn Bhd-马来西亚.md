@@ -195,13 +195,14 @@ updated: 2026-10-30
 |---|---|---|---|---|
 | 2025-04-11 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：Experian MY / CreditScan：WIZARDSINC SDN. BHD. · 201101002484 (930621-U) · incorporated 2011-01-24 · Wilayah Persekutuan · ICT solution & software/hardware, embedded system & security & communication systems, access control & CCTV；官网：Lot 1-2A Incubator 1, Technology Park Malaysia, Bukit Jalil, KL · +603 4044 4044 · info@wizardsinc.co — <https://buy.experian.com.my/index.php/search/Malaysia-Company/930621/WIZARDSINC-SDN.-BHD.>　*PI 成单户：吉隆坡科技园 ICT/安防集成商（2011 年）*
+- 2026-10-30：马来西亚 · SSM e-Info 付费；本行为「无登记源」记录（据第 79 批研究档）：WizardsInc Sdn Bhd · （登记状态不可免费核） · 成立 — · —　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

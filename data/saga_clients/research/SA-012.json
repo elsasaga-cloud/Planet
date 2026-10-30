@@ -483,6 +483,16 @@
     "batch": "INTEL-16",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）：WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS） · （登记状态不可免费核） · 成立 — · Nonthaburi, Thailand",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

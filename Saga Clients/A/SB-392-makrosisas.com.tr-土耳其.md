@@ -186,13 +186,14 @@ updated: 2026-10-30
 
 **故事线**：土耳其·分销商；登记线索：TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKE: MAKRO SİSTEM DIŞ T。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：官网联系：Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26 Şişli / İSTANBUL · +90 212 272 47 92 · info@makrosisas.com.tr — <https://makrosisas.com.tr/contact.html>
+- 2026-10-30：TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKE：MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（Makrosis；makrosisas.com.tr；伊斯坦布尔 Şişli Kuştepe Mah · MERSİS 未取（A.Ş. 设立公告 2023-11-13） · Active · 成立 2023-11-13 · Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26, Şişli / İst — <https://www.find.com.tr/Company/makrosistemdisticaretanonimsirketi>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

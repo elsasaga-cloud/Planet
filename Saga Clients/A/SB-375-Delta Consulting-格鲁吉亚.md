@@ -254,9 +254,13 @@ updated: 2026-10-30
 | 2026-05-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：GE · US SAM 镜像 1 页（opengovus.com/sam-entity/J9LKEG5JR7D6）：UE：DELTA CONSULTING LLC（dc.ge；Tbilisi, Georgia） · SAM UEI J9LKEG5JR7D6 · CAGE SJFH4（格鲁吉亚登记 · Active（公司）；SAM 注册 Expired 2022 · 成立 2014-01-08 · 72 O. Oniashvili Str., Tbilisi 0160, Georgia — <https://opengovus.com/sam-entity/J9LKEG5JR7D6>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

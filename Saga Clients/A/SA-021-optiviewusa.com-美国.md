@@ -301,9 +301,13 @@ A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（
 | 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · BBB 企业档案（含州注册日 / 法人形式 / 别名）+ 官网 + LinkedIn；Florida Sun：OPTIVIEW, INC. · Florida Corporation（Sunbiz 文件号待补） · 经营中（官网 © 2026，经销商门户在线） · 成立 2000-01-21 · 5211 Fairmont St, Jacksonville, FL 32207（官网 2025–2026） — <https://www.bbb.org/us/fl/jacksonville/profile/security-system-monitors/optiview-inc-0403-12778>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

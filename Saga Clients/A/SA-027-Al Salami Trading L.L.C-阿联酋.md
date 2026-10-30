@@ -224,9 +224,13 @@ A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走
 | 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究：Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE） · （登记状态不可免费核） · 成立 1989（创始人/董 · Shop 8, Bin Soqat (Bin Sougat) Building, Al Twar Road, opp. Airport Terminal 2, 　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

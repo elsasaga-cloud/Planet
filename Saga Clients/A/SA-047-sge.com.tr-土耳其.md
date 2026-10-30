@@ -238,9 +238,13 @@ A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转�
 | 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 6 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / ：SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Sicil（号待补） · 经营中（ContactOut 2026-10 更新；Link · 成立 2007-11-28 · Mimar Sinan Mah. Çavuşbaşı Cad. Gündoğdu Sk., Çekmeköy / İstanbul 34782（另有 Ümran — <https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 
@@ -283,7 +287,7 @@ A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T04:35:40Z
+- **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T04:35:40Z
 - **最近变化摘要**：2026-10-24 news_2：内容变化：+5 −5 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-047/`；本节随档案重渲染刷新，实时看日志。
 

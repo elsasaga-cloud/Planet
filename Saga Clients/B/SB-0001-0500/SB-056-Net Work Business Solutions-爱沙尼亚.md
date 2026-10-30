@@ -1,15 +1,15 @@
 # Net Work Business Solutions
 **官方名称（调研核实）**：Net Work Business Solutions（爱沙尼亚）
 
-> **评级 A**　|　爱沙尼亚　|　档案编号 `SB-056`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　爱沙尼亚　|　档案编号 `SB-056`　|　优先级 ★★　|　状态：有回复·跟进中
 >
 > **类型**：IT/网络服务商（推断）　|　**历史关系**：实质回复 3 次；WhatsApp 已加；推送 19 次（2024-01-23 → 2025-10-02）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-056
-rating: A
+rating: B
 rating_auto: A
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs
 name_official: "Net Work Business Solutions（爱沙尼亚）"
 score: 62
 country: 爱沙尼亚
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。（调研 2026-10-21；表内兴趣：general information network business solutions）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱沙尼亚；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核）；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱沙尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 19 次（2024-01-23 → 2025-10-02）；最近一次客户回复：2025-02-27：有工业mini pc？
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?
@@ -142,7 +142,7 @@ updated: 2026-10-30
   > 来源：https://www.nbs.ee/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +372 515 1032（WA）〔用户 Clients 表〕
 - **KP**：Dmitri Simonov（受益人（inforegister，2018-09-20 起）= WA 联系人（推定）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 A）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 WA 维持；有具体项目再报价。
 
@@ -229,9 +229,14 @@ WA 维持；有具体项目再报价。
 | 2025-02-27 | 来 | R | 用户表跟进：推「工业16 24口出货图」→ 对方「有工业mini pc？」 |  |
 | 2025.2.27 | 表 | 表 | 工业16 24口出货图｜有工业mini pc？ |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；R：NETWORK BUSINESS SOLUTIONS OÜ（原 Osaühing Angelmont 2007-01-09 – 02-19；nbs.ee 停放；Vesse tn 9 · registrikood 11338038 · Registrisse kantud（休眠：VAT 注销 2 · 成立 2007-01-09 · Vesse tn 9a, Lasnamäe linnaosa, 11415 Tallinn — <https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：未得：「Net Work Business Solutions nbs.ee」网查无命中（结果为美国 NBS / 其他爱沙尼亚 IT 公司）　*不可核 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -241,7 +246,7 @@ WA 维持；有具体项目再报价。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-056/`；本节随档案重渲染刷新，实时看日志。
 
@@ -293,7 +298,7 @@ WA 维持；有具体项目再报价。
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STC-424XGGM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -320,7 +325,7 @@ WA 维持；有具体项目再报价。
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -354,11 +359,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 

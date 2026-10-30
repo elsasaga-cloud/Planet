@@ -293,9 +293,13 @@ updated: 2026-10-30
 | 2026-08-28 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-10-02 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · 马里兰州公司（BBB 登记 / Bloomberg / Buzzfile）+ SAM.gov 供应商档案（G：DATA CONNECT ENTERPRISE, INC.（DCE） · Maryland corporation · SAM.gov 在册（有效至 20 · 经营中；联邦小企业供应商（DLA 国防后勤局等） · 成立 1989-01-13 · 3405 Olandwood Court, Olney, MD 20832（总部，4,000 sqft）；另有 NJ、CA 仓库 / 办公 — <https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

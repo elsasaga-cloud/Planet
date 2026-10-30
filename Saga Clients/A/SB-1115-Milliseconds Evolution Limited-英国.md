@@ -209,9 +209,14 @@ LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 | 2026-10-17 | 来 | R | Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. |  |
 | 2026-10-17 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：UK · Companies House（官方）公司页 + officers 页：MILLISECONDS EVOLUTION LIMITED · 16807798 · Active · 成立 2025-10-24 · 128 City Road, London EC1V 2NX（**虚拟办公室 / 注册代理地址**，非实体经营地） — <https://find-and-update.company-information.service.gov.uk/company/16807798>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：（无新增）Milliseconds Evolution Limited：Companies House 已在登记库（第 86 批）；2026-10-17 样品 PI 已开未付　*活跃样品单，留 A 观察*
 
 **GitHub/技术足迹**
 

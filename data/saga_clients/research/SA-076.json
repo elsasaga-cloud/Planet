@@ -308,6 +308,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · EMIS / Bloomberg 摘要 + 官网 + LinkedIn + kariyer.net ：TELEMOBİL BİLGİ İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（TBI） · İstanbul Ticaret Sicil（号待补） · 经营中（2025-11 仍在招聘；EMIS 2025-11  · 成立 2005-01-14 · Çilehane Yolu Cd. Çamlıca Evleri Sitesi No:13/3–4, Küçük Çamlıca, 34696 Üsküdar ",
+    "url": "https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

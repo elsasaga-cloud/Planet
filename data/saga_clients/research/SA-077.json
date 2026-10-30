@@ -1492,6 +1492,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Turkey · 商会 / Ticaret Sicil 公开摘要（find.com.tr 镜像）+ 官网 / Linke：ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ ANONİM ŞİRKETİ · Ticaret sicil 号与税号在镜像站仅会员可见（未取）；NACE 620 · 在册（官网 / LinkedIn 2026 活跃） · 成立 2016-11-28 · 登记地 Alacaatlı Mah. Park Cad. 47/31 Yenimahalle, Ankara；办公 Nergiz Sok. No:7 Via F",
+    "url": "https://www.find.com.tr/Company/angoranetworksbilisimteknolojiticaretsanayianonimsirketi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -249,13 +249,15 @@ updated: 2026-10-30
 | 2026-08-05 | 去 | A | WiFi 7 Ready Access Switch |  |
 | 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30（查过未得）：未得：网查「Top Italia / topsicurezza.com」命中多家同名 Top Security S.r.l.（Grugliasco 12 人 / Muggia 15 人 / Ospitaletto 清算中），均无法与 topsicurezza.com 对应　*1 查未得即停；下轮用官网 Partita IVA 再核*
+- 2026-10-30：Italy · Registro Imprese 公开摘要（ufficiocamerale.it / fatturato：TOP ITALIA S.R.L. · P.IVA / C.F. 04592850871 · REA CT-306496 · Attiva · 成立 2008-05-08 · Via Comunità Economica Europea 41, 95045 Misterbianco (CT)，西西里卡塔尼亚 — <https://www.ufficiocamerale.it/4950/top-italia-srl>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：未得（第二次）：Top Italia S.r.l.（Misterbianco/Catania，topsicurezza.com）网查仍只见同名 Top Security；需官网 P.IVA 核　*两查未得即停；研究档为准*
 
 **GitHub/技术足迹**
 

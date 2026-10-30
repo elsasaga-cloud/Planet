@@ -251,13 +251,17 @@ WA 季度触达。
 | 2026-09-23 | 去 | A | Managed PoE Switches |  |
 | 2026-09-23 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：Validatis（Unternehmensregister，Jahresabschluss 2025 vom 20.05.2026）：LivEye GmbH · Amtsgericht Wittlich HRB 44506 · EUID DET2408V.HRB44506 · Bilanzsumme 37,9 Mio. € · Eigenkapital −22 Tsd. €（Eigenkapitalquote −0,1 %）· 2025 年平均 101 名员工 · WZ 46 Großhandel；DDW：Umsatz 3,5 Mio. €（估，偏低）· Inhaber/GF Marc Thurn · Europa-Allee 27, 54343 Föhren — <https://www.validatis.de/unternehmen/liveye-gmbh-3022d228-ce61-41c3-b0dc-5f89ce48b5e2/>　*采购线索：101 人、资产 3,790 万欧但净资产为负 → 靠股东/PE 融资扩张；设备采购活跃但要注意账期*
+
+**登记**
+
+- 2026-10-30：DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittli：LivEye GmbH（HRB 44506 Wittlich；Föhren）— 移动视频监控塔制造商 · HRB 44506（Amtsgericht Wittlich）；USt-IdNr · Aktiv · 成立 2018（Indee · Europa-Allee 56b, 54343 Föhren（+49 6502 4034722） — <https://www.liveye.uk/impressum-en/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **人事变动**
 

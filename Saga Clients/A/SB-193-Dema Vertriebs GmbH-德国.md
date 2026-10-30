@@ -223,13 +223,14 @@ updated: 2026-10-30
 | 2025.7.10 | 表 | 表 | 16电｜MOQ  8/24口的 |  |
 | 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：online-handelsregister / cylex：DEMA Vertriebs-GmbH · Amtsgericht Stuttgart HRB 571318 · Gründung 1963-01-17 · Im Tobel 4, 74547 Untermünkheim · Kapital €800,000 · USt-IdNr. DE146279485 · WZ Elektroinstallationsmaterial (Großhandel), Industriemaschinen (Großhandel) · 07944 981010 — <https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/571318/DEMA-Vertriebs-GmbH>　*1963 年起的电气安装材料/工业设备批发商（资本 80 万欧）→ 交换机为电气批发品类扩展*
+- 2026-10-30：Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF /：DEMA Vertriebs-GmbH（Untermünkheim；STABILO 建材连锁同系） · Amtsgericht Stuttgart HRB 571318 · EUID  · Aktiv（2024 年报 2026-02-10 公示；20 · 成立 1963-01-17 · Im Tobel 4, D-74547 Untermünkheim（Schwäbisch Hall 郡，巴符州） — <https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

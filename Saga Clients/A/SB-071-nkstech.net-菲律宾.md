@@ -227,15 +227,23 @@ updated: 2026-10-30
 | 2025-01-10 | 去 | S | 8 Port Industrial PoE Switch |  |
 | 2025-03-19 | 去 | A | 8 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYST：Nayon Kontrol Systems（NKS；nkstech.net；**No. 4 Illinois St., Brgy. Silangan, District III,  · 未取（SEC 号 1 查未得） · 营业中（官网 + 企业库） · 成立 约 1996 · No. 4 Illinois St., Brgy. Silangan, District III, Cubao, Quezon City 1109, Phili — <https://www.aihitdata.com/company/01B1B037/nayon-kontrol-systems/overview>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-30：aihitdata / ZoomInfo / JobStreet：Nayon Kontrol Systems（NKS）· No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City · established 1996 · 11–50 · est. revenue $14.8M · SCADA & automation SI for electric utilities（first real SCADA in electric cooperatives）+ oil/gas/water/railway/BMS · 关联 NKS Energy Utilities, NKS Solar One, NKS Biomass One — <https://www.aihitdata.com/company/01B1B037/nayon-kontrol-systems/overview>　*菲律宾电力 SCADA 集成商（≈$15M）→ 变电站工业交换机对位（railway 部分守界）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：nkstech.net in:email；"nkstech.net" in:readme in:description；nkstech.net type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

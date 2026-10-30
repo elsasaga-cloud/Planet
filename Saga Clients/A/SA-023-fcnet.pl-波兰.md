@@ -252,13 +252,17 @@ A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28D
 | 2026-09-28 | 去 | A | Managed PoE Switches |  |
 | 418 | 表 | 表 | 10gmc｜price |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：bizraport：FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0001095976 · NIP 7542916466 · REGON 160150149 · ul. Św. Jacka 2, 45-073 Opole · 收入 10 241 580 zł（2025）/ 7 242 043 zł（2024）· 净利 1 833 945 zł · 股本 100 000 zł · PKD 27.31.Z 光缆生产 / 27.32.Z；董事会 Anna Joanna Frydel、Jarosław Krzysztof Cisowski、Krzysztof Marek Smugowski、Piotr Frydel — <https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia>　*奥波莱光纤分销/制造商，收入一年 +41%、净利率 18% → 现金好、在扩张；自有 logo 采购户*
+
+**登记**
+
+- 2026-10-30：Poland · KRS 官方 API（api-krs.ms.gov.pl，现行摘录 2026-06-11 状态）+ 财：FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0001095976 · NIP 7542916466 · REGON  · Active · VAT 状态 Czynny（增值税在册）· · 成立 2007-10-01 · ul. Św. Jacka 2, 45-073 Opole（与研究档一致）；已登记电子送达地址 — <https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

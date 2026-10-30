@@ -319,13 +319,14 @@ updated: 2026-10-30
 | 2025-12-01 | 来 | S | Re: FW: 10G Enterprise SFP Switch｜Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you. |  |
 | 2025-12-01 | 来 | S | FW: 10G Enterprise SFP Switch｜Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Ship… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：ExportersIndia：ASTEL DIGICOM ELECTRONICS LLC · Shop no 22, Baghlaf Building, Satellite Market, Dubai · Year Established 2012 · Total Employees 5–10 · Annual Revenue US$1M–2.5M · Top markets Africa 70% / Mid East 20% / Eastern Europe · Contact Sanjay Singla · 主营 Coaxial / Fiber Optic / Security Cables, Fiber Optic Equipment, Media Converters — <https://www.exportersindia.com/ae/astel-digicom-electronics-llc/about-us.htm>　*PI 成单户：迪拜卫星市场线缆/光纤贸易商（5–10 人，年销 $1–2.5M），7 成出口非洲 → 我们的货经其转非洲*
+- 2026-10-30：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究：Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae） · （登记状态不可免费核） · 成立 — · UAE（Dubai，网店 + 门店）　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

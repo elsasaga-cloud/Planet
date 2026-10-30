@@ -462,6 +462,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi：Fiber Optics For Sale Co.（FOSCO Connect；Pleasanton / Livermore, CA） · 未取（CA SoS 需名称检索） · Active（网店 + eBay 在售） · 成立 2003-08-04 · 269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore；旧址 Fremont 42660 Christy St / ",
+    "url": "https://www.fiberoptics4sale.com/pages/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

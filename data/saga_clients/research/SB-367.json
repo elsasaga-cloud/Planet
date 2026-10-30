@@ -33,8 +33,8 @@
    "role": "表内联系人 Lee（液压公司；偶发询 2 光 6 电）— 不动，不发（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -195,6 +195,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）"
+  },
+  {
+   "batch": "A-DEEP-11",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
+   "reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端"
   }
  ],
  "a_deep": {
@@ -382,7 +390,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-11",
+  "verdict2_reason": "MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -395,6 +406,26 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc t：CÔNG TY CỔ PHẦN MTS / MTS JSC（thuyluc.com；**MST 0101892941；发证 2006-03-20；Số 166 đường Tựu  · MST 0101892941 · 营业中 · 成立 2006-03-20 · Số 166 đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội, Việt Nam",
+    "url": "https://thuvienphapluat.vn/ma-so-thue/cong-ty-co-phan-mts-mst-0101892941.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "thuyluc.com：Công ty Cổ Phần MTS（MTS Hydraulics & Automation）· Số 166 Đường Tựu Liệt, Tam Hiệp, Thanh Trì, Hà Nội · GPKD 0101892941（2006-03-14）· 水电项目液压/阀门/SCADA 电柜供应（源自某总公司高科技中心私有化，Dr. Ly Thanh Ha 主要股东；该总公司 20 家成员企业约 1 万人）",
+    "url": "https://www.thuyluc.com/gioi-thieu",
+    "note": "水电 EPC 配套（液压为主，SCADA 电柜顺带）= 项目型终端 → A-DEEP-11 下放 B",
+    "batch": "INTEL-21",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

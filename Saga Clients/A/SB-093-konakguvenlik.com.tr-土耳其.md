@@ -242,9 +242,13 @@ updated: 2026-10-30
 
 - 网查（2026-10-30）：Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55 — <https://www.konakguvenlik.com.tr/y/yeni-uye-kaydi.html>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Türkiye · 1 次检索（"Konak Güvenlik" + Erkut Sevin）—— 仅命中 Erkut ：Konak Güvenlik（konakguvenlik.com.tr；法定全称未定位） · 未取 · 未核（官网 2026 快照 ok）　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

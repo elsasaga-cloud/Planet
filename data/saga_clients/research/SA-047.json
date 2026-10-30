@@ -534,6 +534,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / ：SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Sicil（号待补） · 经营中（ContactOut 2026-10 更新；Link · 成立 2007-11-28 · Mimar Sinan Mah. Çavuşbaşı Cad. Gündoğdu Sk., Çekmeköy / İstanbul 34782（另有 Ümran",
+    "url": "https://www.emis.com/php/company-profile/TR/Sge_Muhendislik_Elektrik_Otomasyon_Bilgi_Islem_San_Ve_Tic_Ltd_Sti_en_3345169.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

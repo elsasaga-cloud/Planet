@@ -296,13 +296,14 @@ A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/�
 | 2026-07-17 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：GSA eLibrary：52 NETWORKS, INC. · 5142 Meeting Pl, Woodbridge, VA 22193 · Contract 47QTCA22D00B3（MAS，Current Option Period End 2027-07-25，Ultimate 2042-07-25）· SAM UEI FV4KBSNE5S75 · NAICS 334111 · Small Business，SBA Certified Small Disadvantaged Business · uzair@52networks.com — <https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES>　*PI 成单户（gg）：联邦 GSA 供应商资格在手，到 2027 年有效*
+- 2026-10-30：USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA e：52 NETWORKS, INC. · UEI FV4KBSNE5S75 · CAGE 907X4 · Virginia · Active（SAM.gov 注册有效至 2027-06-1 · 成立 2018-03-12 · 5142 Meeting Pl, Woodbridge, VA 22193（SAM）；历史地址 4380 Whitmer Dr #14 / 957 Higham — <https://govtribe.com/vendors/52-networks-inc-dot-907x4>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

@@ -602,6 +602,16 @@
     "batch": "INTEL-12",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN L64200HP1987PLC007466，2025 营收：HFCL LIMITED（原 Himachal Futuristic Communications Ltd；NSE/BSE: HFCL；Gurugram / New Delhi） · CIN L64200HP1987PLC007466 · Active · 上市（NSE/BSE） · 成立 1987 · 8, Commercial Complex, Masjid Moth, Greater Kailash-II, New Delhi 110048（运营 Guru",
+    "url": "https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

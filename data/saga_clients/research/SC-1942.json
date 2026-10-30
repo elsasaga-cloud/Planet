@@ -424,6 +424,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "shop.satvision-cctv.ru：Satvision —「одна из крупнейших компаний в области производства и поставок оборудования для систем безопасности и видеонаблюдения в России」· Самара, ул. Санфировой 95, к.1 · 品牌：Satvision、SatvisionSP（项目线）、Divisat（数字/卫星接收机）、Satvision Smart Systems（VMS）；fastvideo.ru 将其列为俄罗斯本土摄像机厂商",
+    "url": "https://shop.satvision-cctv.ru/company/brands/",
+    "note": "萨马拉 CCTV 大牌（OEM 采购方）→ PoE 交换机贴 Satvision 的 30% 档",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

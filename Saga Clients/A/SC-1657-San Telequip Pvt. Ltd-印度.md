@@ -201,9 +201,13 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实：San Telequip Private Limited（santelequip.com；**CIN U32202PN1992PTC065720；ROC Pune；1992-03- · U32202PN1992PTC065720（CIN） · Active（年报 2023-03-31） · 成立 1992-03-04 · Pune, Maharashtra（注册地址见 MCA） — <https://www.zaubacorp.com/SAN-TELEQUIP-PRIVATE-LIMITED-U32202PN1992PTC065720>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

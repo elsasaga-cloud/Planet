@@ -38,8 +38,8 @@
    "role": "Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核",
  "notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -171,6 +171,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）"
+  },
+  {
+   "batch": "A-DEEP-11",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）",
+   "reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Infotec（巴西，无域名）：不可核"
   }
  ],
  "ab_final": {
@@ -387,7 +395,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-11",
+  "verdict2_reason": "Infotec（巴西，无域名）：不可核"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -399,6 +410,26 @@
     "url": "",
     "note": "",
     "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156：Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda（**CNPJ 05.590.805/0001-56（总部 · CNPJ 05.590.805/0001-56（分支 0002-37） · ATIVA（Simples） · 成立 2003-03-26 · São José - SC, Brazil（分支 Florianópolis - SC）",
+    "url": "https://casadosdados.com.br/solucao/cnpj/infotec-comercio-de-equipamentos-e-sistemas-de-seguranca-ltda-05590805000156",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "未得：Infotec Comércio de Equipamentos e Sistemas（巴西，无域名）网查无法锁定主体",
+    "url": "",
+    "note": "不可核 → A-DEEP-11 下放 B",
+    "batch": "INTEL-21",
     "found": false,
     "added": "2026-10-30"
    }

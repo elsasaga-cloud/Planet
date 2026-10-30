@@ -225,9 +225,13 @@ updated: 2026-10-30
 - 网查（2026-10-30）：FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-millio… — <https://www.fiberoptics4sale.com/pages/about-us>
 - 网查（2026-10-30）：Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001 — <https://www.linkedin.com/company/fiber-optics-for-sale-co->
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi：Fiber Optics For Sale Co.（FOSCO Connect；Pleasanton / Livermore, CA） · 未取（CA SoS 需名称检索） · Active（网店 + eBay 在售） · 成立 2003-08-04 · 269 Mavis Drive, Pleasanton, CA 94566（仓 Livermore；旧址 Fremont 42660 Christy St /  — <https://www.fiberoptics4sale.com/pages/about-us>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

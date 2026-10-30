@@ -474,6 +474,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’：Nelly’s Security LLC（nellyssecurity.com；Broken Arrow, Oklahoma）— 2008 年 Sean Nelson 创办的商用级 · OK LLC（SoS 备案号未取）；BBB 列为 Rackmount Solut · Active（站点在线；股权已变更 — 待核） · 成立 2008-01-01 · 501 N Aspen Ave, Broken Arrow, OK 74012",
+    "url": "https://www.bbb.org/us/ok/broken-arrow/profile/surveillance-equipment/nellys-security-a-division-of-rackmount-solutions-1025-38020648",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

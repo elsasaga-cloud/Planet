@@ -864,6 +864,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人：VILINK COMMUNICATIONS, INC.（Vi-Link） · California corporation（实体号待补） · 经营中但明显收缩（Brea 门店 YP 标 CLOSED；D · 成立 1993（Linke · 450 Goddard, Irvine, CA 92618（现）；2913 Saturn St Ste J, Brea, CA 92821（旧）；5160 Av",
+    "url": "https://www.linkedin.com/company/vilink-communications",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

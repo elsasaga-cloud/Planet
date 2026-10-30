@@ -262,9 +262,13 @@ updated: 2026-10-30
 | 2026-08-28 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-08-28 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：Sunbiz（BROADSTAR COMMERCIAL COMMUNICATIONS LLC；L1：BroadStar Commercial Communications LLC（BroadStar；broadstar.com；West Palm Beach, Florida；S · FL Sunbiz L14000110165（FEI 47-1348982）；旧 · Active · 成立 2014-07-11 · 3965 Investment Ln, West Palm Beach, FL 33404 — <https://www.broadstar.com/about-us/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

@@ -256,13 +256,14 @@ A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；
 | 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：KRS-online：Bitstream Sp. z o.o. · Mełgiewska 7 lok. 9, 20-209 Lublin · NIP 9462508588 · REGON 060184269 · KRS 0000266288 · PKD 26.30.Z Produkcja sprzętu (tele)komunikacyjnego · 决策人 Dariusz Pietrzyk；EMIS：成立 2006-10-20，2021 年 40 人；Aplikuj：BitStream Sp. z o.o（KRS 0001010572，spółka akcyjna，2023-01-02 登记） — <https://www.krs-online.com.pl/firma/1764805-bitstream-sp-z-o-o>　*卢布林（不是研究档写的 Opole）数据传输设备制造商，40 人；2023 年疑改制为股份公司 → 扩张信号；OEM 伙伴对位*
+- 2026-10-30：Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像）：BITSTREAM SPÓŁKA AKCYJNA（原 Bitstream Sp. z o.o.，KRS 0000266288） · KRS 0001010572（S.A.，2023-01-02）· 旧 KRS 0 · Aktywna · 最近登记第 21 号 2026-08-1 · 成立 Sp. z o.o. · ul. Mełgiewska 7/9, 20-209 Lublin — <https://rejestr.io/krs/1010572/bitstream>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

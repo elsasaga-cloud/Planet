@@ -57,6 +57,22 @@ DEMOTE = {
 }
 
 
+DEMOTE11 = {  # A-DEEP-11（T29-U144 2026-10-30）：第一遍收口
+    'SB-175': 'MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛',
+    'SB-451': 'e-Saudi：14 人、年销 ≈$1.4M 小型 SI/贸易 → 微型',
+    'SB-059': 'Avanca：新加坡 1–10 人工业网络分销 → 微型',
+    'SB-1102': 'Viễn Thông Giá Tốt：2020 年成立的低价小经销/施工商 → 微型',
+    'SB-226': 'Hanchang Infotech：4–10 人、自牌 RFOINT 进口商 → 微型',
+    'SB-267': 'Bio-Cognitive：新加坡小型安防安装商、网页停在 2012 → 微型',
+    'SB-367': 'MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端',
+    'SB-982': 'MCSS：PLANET/UniFi 渠道但 9–10 人 → 微型（韩国 B1 重点）',
+    'SB-031': 'OM Telecom：利马 2–10 人项目型 → 微型',
+    'SB-056': 'Net Work Business Solutions（nbs.ee）：网查无法锁定主体 → 不可核',
+    'SA-061': 'RYMTECH：官方登记 Micro 的网络安全服务商、自述不卖硬件 → 微型 + 不对位',
+    'SB-1137': 'Infotec（巴西，无域名）：不可核',
+    'SB-183': 'Onyx（乌干达，无域名）：不可核',
+    'SB-110': 'iTKATI：坎帕拉 6–10 人 IT 小公司 → 微型',
+}
 DEMOTE10 = {  # A-DEEP-10（T29-U143 2026-10-30）：俄语区网查
     'SA-035': 'ТД Фарадей Электроникс：6 人、年销 ≈$1.1M 的电源贸易公司 → 微型',
     'SA-064': 'ОПТА：一人招投标贸易公司（年销 ≈$250K）→ 个人（回信最勤，B1 重点；Simon 标「比较重要」留备注）',
@@ -114,8 +130,8 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     cnt = Counter()
     rows = []
-    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()) + list(DEMOTE8.items()) + list(DEMOTE9.items()) + list(DEMOTE10.items()):
-        batch = 'A-DEEP-10' if c in DEMOTE10 else 'A-DEEP-09' if c in DEMOTE9 else 'A-DEEP-08' if c in DEMOTE8 else 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
+    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()) + list(DEMOTE8.items()) + list(DEMOTE9.items()) + list(DEMOTE10.items()) + list(DEMOTE11.items()):
+        batch = 'A-DEEP-11' if c in DEMOTE11 else 'A-DEEP-10' if c in DEMOTE10 else 'A-DEEP-09' if c in DEMOTE9 else 'A-DEEP-08' if c in DEMOTE8 else 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
         p = os.path.join(RESEARCH, c + '.json')
         if not os.path.exists(p):
             cnt['no_research'] += 1

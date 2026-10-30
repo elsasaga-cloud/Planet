@@ -262,13 +262,17 @@ updated: 2026-10-30
 | 2026-08-05 | 去 | A | WiFi 7 Ready Access Switch |  |
 | 2026-09-16 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：reportaziende / aziendeeasy：TRANS AUDIO VIDEO S.R.L. · P.IVA 01675270613 · Caserta（Viale Melvin Jones 12）· Data Iscrizione 1987-06-18 · Dipendenti 20–49（RocketReach 28）· Fatturato 2022 €22.3M → 2023 €23.7M → **2024 €17.96M（−24.2%）** · Utile 2024 €33.8K（margine 0.2%）· ATECO 46.43.3；「distribution company operating into Broadcast, Cinema, Pro Foto/Video and high-end CCTV」 — <https://www.reportaziende.it/trans_audio_video_srl_ce_01675270613>　*采购线索：营收下滑 24%、利润见底 → 在找降本货源；高端 CCTV 分销线 → PoE 交换机配套*
+
+**登记**
+
+- 2026-10-30：Italia · Registro Imprese 镜像（ufficiocamerale / reportaziende：TRANS AUDIO VIDEO S.R.L.（TAV Group） · P.IVA / C.F. 01675270613 · REA CE-116878 · Attiva（经营中） · 成立 1987-06-18 · Viale Melvin Jones 12, 81100 Caserta (CE) — <https://www.ufficiocamerale.it/4733/trans-audio-video-srl>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

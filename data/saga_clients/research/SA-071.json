@@ -497,6 +497,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）：Sur-Link Technology Bolivia · （登记状态不可免费核） · 成立 — · Av. Guapay Nro. 2675 esq. Calle 10（Canal Cotoca, entre 2do y 3er anillo）, Santa ",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Facebook / boliviayp：Sur-Link Technology Bolivia · Av. Guapay #2675 esq. Calle 10, Santa Cruz de la Sierra · +591 3 3477677 / 74927328 · Emiranda@surlink-tech.com ·「Distribuidor mayorista de tecnología: Cat6a cat6 cat5e, fibra óptica SM/MM, ferretería ADSS, racks」· 覆盖 La Paz / Cochabamba / Santa Cruz 等 9 省",
+    "url": "https://www.boliviayp.com/company/64839/SUR_LINK_TECHNOLOGY_BOLIVIA",
+    "note": "圣克鲁斯布线/光纤批发分销（全国覆盖）；KP E. Miranda",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

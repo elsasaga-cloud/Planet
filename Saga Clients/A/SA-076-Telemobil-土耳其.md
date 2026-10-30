@@ -209,9 +209,13 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 |---|---|---|---|---|
 | 2025 | 表 | 表 | Simon 备注/兴趣栏｜可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期 ； 网站打不开 可重 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Türkiye · EMIS / Bloomberg 摘要 + 官网 + LinkedIn + kariyer.net ：TELEMOBİL BİLGİ İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（TBI） · İstanbul Ticaret Sicil（号待补） · 经营中（2025-11 仍在招聘；EMIS 2025-11  · 成立 2005-01-14 · Çilehane Yolu Cd. Çamlıca Evleri Sitesi No:13/3–4, Küçük Çamlıca, 34696 Üsküdar  — <https://www.emis.com/php/company-profile/TR/Telemobil_Bilgi_Iletisim_Hizmetleri_AS_en_3350443.html>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 
@@ -233,7 +237,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-076/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |

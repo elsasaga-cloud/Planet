@@ -264,9 +264,13 @@ updated: 2026-10-30
 | 2026-09-24 | 去 | A | Managed PoE Switches |  |
 | 2026-09-24 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：X 账号 @VintronInfo 自述「Vintron Smartvision Pvt. Ltd：VINTRON SMARTVISION PVT. LTD.（vintronsmartvision.com；New Delhi；关联上市公司 Vintron Informatics  · Vintron Smartvision Pvt Ltd CIN 未取；上市关联体 · Active（私营运营体） · 成立 未取（上市体 199 · New Delhi（上市体注册地新德里） — <https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

@@ -184,13 +184,14 @@ updated: 2026-10-30
 
 **故事线**：土耳其·ISP/运营商；登记线索：TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd: Fiberix İletişim H。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424XGGM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：Google Play 开发者信息：FIBERIX ILETISIM HIZMETLERI LIMITED SIRKETI · Gazi Mahallesi Zübeyde Hanım Bulvarı No:74-A, Şehitkamil 27001 Gaziantep · +90 850 333 27 00 · destek@fiberix.com.tr；自有客户 App（合同/账单/故障） — <https://play.google.com/store/apps/details?id=co.fiberix_oim_app.android&hl=en_US>
+- 2026-10-30：TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd：Fiberix İletişim Hizmetleri Ltd. Şti.（fiberix.com.tr；加济安泰普 Şehitkamil）— BTK 授权基础设施与互联网服务商、 · RIPE LIR tr.fiberixinternet；AS205768；MER · Active · 成立 2017 前后（AS · Zübeyde Hanım Bulvarı No:74/A, Şehitkamil, 27060 Gaziantep — <https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **人事变动**
 

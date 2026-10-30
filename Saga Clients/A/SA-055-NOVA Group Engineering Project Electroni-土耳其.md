@@ -273,9 +273,13 @@ updated: 2026-10-30
 | 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-10-06 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Türkiye · 官网 TSE 服务站清单 PDF（2024-08，含登记全称 + 进口商身份）+ ZoomInfo ：NOVA GRUP MÜHENDİSLİK PROJE ELEKTRİK ELEKTRONİK İLETİŞİM SİSTEMLERİ İNŞAAT VE TEKSTİL SANA · Ankara Ticaret Sicil（号待补）· TSE 服务站清单（TS  · 经营中（官网 2025-12；ZoomInfo 2023–2 · 成立 2002（官网自述） · Aşağı Öveçler Mah. 1332 Cad. No:8/1-3-5-7, Çankaya / Ankara — <https://www.novacom.com.tr/wp-content/uploads/2024/08/NOVA-TS-10956-SERVIS-LISTESI.pdf>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

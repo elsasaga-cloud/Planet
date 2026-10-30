@@ -271,9 +271,13 @@ A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度
 | 2026-08-13 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+：HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（品牌 Snexus Networks） · İstanbul Ticaret Sicil（号待补） · 经营中（官网博客 2026-04 / 2026-06 更新） · 成立 待补（LinkedI · Turgut Özal Bulvarı No:2 A6 No:145, Çekmeköy / İstanbul（合同页）；Sultançiftliği Mah. — <https://www.snexus.com.tr/en/s%C3%B6zle%C5%9Fme>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

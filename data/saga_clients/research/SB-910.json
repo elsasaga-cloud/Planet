@@ -464,6 +464,16 @@
     "batch": "INTEL-09",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，20：ETIC TELECOM · SIREN 380927475 · SIRET 38092747500026（总 · Active（A） · 成立 1991-01-01 · 405 Rue Lavoisier, 38330 Montbonnot-Saint-Martin（2022-10 起）；旧址 ZIRST 13 Chemin d",
+    "url": "https://recherche-entreprises.api.gouv.fr/search?q=ETIC%20TELECOM&per_page=1",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

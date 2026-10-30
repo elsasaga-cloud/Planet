@@ -326,13 +326,14 @@ A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 1
 | 2026-06-22 | 来 | R | Thank you for reaching out.（回 Simon 固件 7.5 发布通知） |  |
 | 2026-09-21 | 去 | S | Re: Optional Marvell Chipset Solutions | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：globaldatabase / sgpgrid / SignalHire：RESONANT NETWORKS PTE. LTD. · UEN 201316122M · 2013-06-14 起 · 81 Ubi Avenue 4 #09-28 UB. One, Singapore 408830 · +65 6871 4128 · 11–50 人 · Optical Fibre, DWDM, Cloud Interconnect, Data Centre Network · 运营 Singapore + Malaysia · 关联 APEIRO NETWORKS PTE. LTD. — <https://sgpgrid.com/company/resonant-networks-pte-ltd-ID0000>　*PI 成单户：新加坡 DC/光网络集成商（马来西亚有团队）*
+- 2026-10-30：SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14：RESONANT NETWORKS PTE. LTD.（R~Nets；Ubi, Singapore） · UEN 202005761Z · Live Company · 成立 2020-02-20 · 81 Ubi Avenue 4 #09-28, UB.One, Singapore 408830 — <https://www.resonantnetworks.com/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **KP**
 

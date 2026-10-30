@@ -547,6 +547,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · SAM.gov 联邦供应商登记（CAGE / DUNS，经 cage.report 镜像，记录更新 2026：SIMREX CORPORATION · CAGE 1WEC8 · DUNS 087787573 · 注册地 Delawa · SAM 登记 Active（2026-05-06 续期，到期 · 成立 业务始于 1996- · 1223 William St, Buffalo, NY 14206（制造与服务设施）",
+    "url": "https://cage.report/DUNS/087787573",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

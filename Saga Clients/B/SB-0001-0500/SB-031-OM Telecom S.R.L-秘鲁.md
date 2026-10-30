@@ -1,18 +1,18 @@
 # OM Telecom S.R.L.
 **官方名称（调研核实）**：OM Telecom S.R.L.（RUC 20600792858，Lima，秘鲁；om-telecom.com）
 
-> **评级 A**　|　秘鲁　|　档案编号 `SB-031`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　秘鲁　|　档案编号 `SB-031`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；WA ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 微型（7 人））
+> **P 池并入（B 档，等级不动）：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：○ P 池正式（P 正式候选，B 档并池 · 等级不动）：真回 ✔ + 对位 ✔ + 坐实 ✔；WA ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 微型（7 人））
 >
 > **类型**：电信设备经销商（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-11-29 → 2025-10-06）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-031
-rating: A
+rating: B
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
+rating_research: B  # A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型
 name_official: "OM Telecom S.R.L.（RUC 20600792858，Lima，秘鲁；om-telecom.com）"
 score: 69
 country: 秘鲁
@@ -36,10 +36,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：秘鲁利马的工业电信集成商 OM Telecom S.R.L.（2015-11 成立，2–10 人；为能源自动化、矿业、油气、工业提供光网络、载波、SDH/PDH 复用、远动保护、IP 电话、CCTV、结构化布线等设计与实施；登记为秘鲁政府供应商 RNP）。联系人 Clyver Ore M. / Sales Manager（clyver.ore@om-telecom.com，+51 989 144 163，WA 已加）：2023-11 问「L3 industrial managed switch with PoE?」、2024-03 要「price and model list」；表内「客户找光猫 + 工业 MC」；18 次推送 1 次实质回复。需求与 Saga 工业线高度对口 → B 25%（拉美非主攻区）。（调研 2026-10-21；表内兴趣：客户找光猫+工业MC）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/秘鲁；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/秘鲁；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2024-03-15：price and model list
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-448XGGGPM(L3) — 其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC；按主表（研究档 saga_fit）
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — —
 
@@ -133,7 +133,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Clyver Ore M.（Sales Manager（研究档 KP；WA 已加；2023-11 问 L3 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 工业 L2 管理 + STC-4424GCPM $165 L2+ + STC-110XGE $65 一口价；工业 L3 不供如实说；西语备注 — 秘鲁常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 利马（第 122 批 官方登记核实 2026-10-29））clyver.ore@om-telecom.com +51 989 144 163（WA 已加）〔用户 Clients 表〕
 - **KP**：Joel Ore（CFO（connectamericas 2026-10-29 吻合）（第 122 批 官方登记核实 2026-10-29）） 〔connectamericas.com〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 A）——A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：OM Telecom：利马 2–10 人项目型 → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 
@@ -217,9 +217,14 @@ WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 | 2023.11.29 | 表 | 表 | 发了商业POE价格册｜L3 industrial managed switchw with POE? |  |
 | 2024.3.15 | 表 | 表 | 发了L3管理poE型号给他｜price and model list |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 2：OM TELECOM S.R.L.（om-telecom.com；**SUNAT 镜像 universidadperu：RUC 20600792858；Activo / Habid · RUC 20600792858 · Activo / Habido（SUNAT 镜像） · 成立 2015-11-02 · Av. Ramón Castilla 1120 Int. 503A, Santiago de Surco, Lima, Peru（办公 Calle Rocca  — <https://www.universidadperu.com/empresas/om-telecom.php>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：universidadperu / LinkedIn / PAR：OM TELECOM S.R.L. · RUC 20600792858 · inicio 2015-11-02 · Santiago de Surco, Lima（Av. Ramón Castilla 1120 Int. 503A）· 2–10 empleados · 能源/矿业/变电站自动化电信方案（光纤、载波、IP 电话、CCTV、SDH/PDH）· 国家供应商登记 · 运营区域 CO/EC/PE/BO/CL/AR/PY/BR — <https://pe.linkedin.com/company/omtelecomperu>　*2–10 人项目型 → A-DEEP-11 下放 B*
 
 **GitHub/技术足迹**
 
@@ -229,7 +234,7 @@ WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-031/`；本节随档案重渲染刷新，实时看日志。
 
@@ -282,7 +287,7 @@ WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-448XGGGPM(L3) 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -309,7 +314,7 @@ WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -345,11 +350,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 69）；人工/调研定级 → B
 
 ---
 

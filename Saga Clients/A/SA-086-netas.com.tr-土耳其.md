@@ -289,7 +289,7 @@ updated: 2026-10-30
 | 2026-08-12 | 来 | A | Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
 | 2026-08-12 | 来 | R | Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 10 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 11 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -300,6 +300,10 @@ updated: 2026-10-30
 - 2026-10-30：cnbce 财报摘要：Hasılat 1.719.059.796 TL · Brüt Kar 125.156.133 TL · Sürdürülen Faaliyetler Dönem Zararı -83.668.798 TL · Çalışan 1403 · Kuruluş 31/03/1967 — <https://www.cnbce.com/borsa/hisseler/netas-netas-telekomunikasyon-as>　*期间未标，按页面最新季报理解；亏损中*
 - 2026-10-30：CEO 致辞：「Netaş olarak ana hissedarımız ZTE ile olan ortaklığımızın gücü …」；2017-07 起 ZTE Cooperatief U.A. 子公司；重点：Savunma ve Havacılık（AS9100 认证）、Yerli Üretim ve Ar-Ge（yerli bulut sunucu、DC güç、lityum batarya、mikrodalga）、Kazakistan 集成项目出口、2026 年 5G 普及预期 — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*采购线索②：「yerli üretim（本土制造）」是其叙事主线——对我们意味着：白牌/部件级供货更贴合，而非品牌成品；哈萨克斯坦项目 = 俄语区二级市场线索*
 - 2026-10-30：年报 Sayılarla Netaş：2025 yıl sonu çalışan sayısı 1.264（yaş ortalaması 36，%29 kadın）；dağıtım ve servis ağı 81 il；cinsiyete dayalı ücret oranı %94,4（全文 PDF 已排进运行器文档队列，tedarik / satın alma / yatırım 关键词窗口下一轮入库） — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*全文抽取由日跑 intel_docs 完成（data/saga_clients/intel_fetch_queue.json）*
+
+**登记**
+
+- 2026-10-30：Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（：Netaş Telekomünikasyon A.Ş.（BIST: NETAS） · KAP 公司 ID 1041 · BIST 代码 NETAS · 实缴资本 64 · 上市公司，正常披露；2024 与 2025 两年无利润分配（ · 成立 1967（北电 No · İstanbul（Pendik 园区） — <https://kap.org.tr/tr/sirket-finansal-bilgileri/1041-netas-telekomunikasyon-a-s>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **KP**
 

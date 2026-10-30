@@ -184,13 +184,14 @@ WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+�
 
 **故事线**：土耳其·分销商；登记线索：TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology: Bilge Güvenlik Sis。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：官网 Kurumsal：Bilge Güvenlik ve Teknoloji A.Ş.，2003 年成立，İstanbul / Ankara / İzmir 三地分支，电子安防系统集成商 — <https://www.bilgeguvenlik.com/tr/kurumsal>
+- 2026-10-30：TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（Bilge Security；bilgeguvenlik.com / bilgetech.c · A.Ş.（İstanbul 商事登记 2018-02-08；MERSİS 未取） · Active（2026 EMIS 更新） · 成立 2018-02-08 · Örnek Mah. Dr. Suphi Ezgi Sok. No:6, 34704 Ataşehir / İstanbul（另 Ankara / İzmir） — <https://www.bilgeguvenlik.com/en/about>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

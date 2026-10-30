@@ -290,13 +290,15 @@ updated: 2026-10-30
 | 2026-07-10 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
 | 2026-08-26 | 去 | A | Saga Marvell AC5 Series |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30（查过未得）：未得：网查「Go Green IT Ltd gogreenit.net」命中的是 Doncaster 的 Go Green Ltd（运输/太阳能，270 人）——非本户；本户公司号 07614771 已在登记库（UK Companies House），申报历史已纳入 watch　*PI 成单户；身份以 Companies House 07614771 为准*
+- 2026-10-30：UK Companies House：GO GREEN IT LTD · 07614771 · Active · 成立 2011-04-26 · 222 Warwick Avenue, Derby DE23 6HP（住宅街道地址 = 家庭办公，不是仓库 / 写字楼） — <https://find-and-update.company-information.service.gov.uk/company/07614771>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：（无新增）GO GREEN IT LTD 07614771：Companies House 在登记库 + 申报历史已 watch　*PI 成单户*
 
 **GitHub/技术足迹**
 

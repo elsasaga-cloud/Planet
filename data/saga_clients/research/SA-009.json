@@ -510,6 +510,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · find.com.tr（登记摘要 + 经营范围 2007-11-09 修订）+ EMIS（成立日，2：KOPTEK BİLGİSAYAR VE İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Odası 会员（Ticaret Sicil  · 经营中（EMIS 2026-03 更新；官网在线） · 成立 2006-02-07 · Gayrettepe Mah. Fuat Sarp Sok. No:5/1, Balmumcu, Beşiktaş / İstanbul（官网 İletişim",
+    "url": "https://www.find.com.tr/Company/koptekbilgisayarveiletisimsistemlerisanayiveticaretlimitedsirketi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

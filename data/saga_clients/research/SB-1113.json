@@ -388,6 +388,16 @@
     "batch": "INTEL-15",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：tradeindia（Fastball；GST 07AJJPR5445G1ZX；Proprieto：Fastball（Fastball Telecom & Networking；fastball.in；**个体经营 Rishi Kumar Bansal；GSTIN 07AJJPR · GSTIN 07AJJPR5445G1ZX · Active · 成立 2016（GST 2 · A-47/A, Gali No. 4, Main Shukra Bazar Road, Ashok Nagar, Delhi 110093",
+    "url": "https://www.indiamart.com/fastball/profile.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

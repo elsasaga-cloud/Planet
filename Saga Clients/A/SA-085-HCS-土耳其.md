@@ -188,9 +188,13 @@ updated: 2026-10-30
 
 **故事线**：土耳其·OEM 品牌商；登记坐实：Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + : HCS KABLOLAMA SİST。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424DGGPM-280W；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + ：HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ · İstanbul Ticaret Sicil No 12401448 · LEI · 经营中（LEI ISSUED；官网 / LinkedIn 活 · 成立 2000-11-22 · İkitelli OSB Mah. 8. Cadde Boypaş Blok No:3A, Başakşehir, İstanbul 34490 — <https://www.lei-lookup.com/record/7890008F3LXUBMYF0N25/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

@@ -450,6 +450,16 @@
     "batch": "INTEL-12",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GE · US SAM 镜像 1 页（opengovus.com/sam-entity/J9LKEG5JR7D6）：UE：DELTA CONSULTING LLC（dc.ge；Tbilisi, Georgia） · SAM UEI J9LKEG5JR7D6 · CAGE SJFH4（格鲁吉亚登记 · Active（公司）；SAM 注册 Expired 2022 · 成立 2014-01-08 · 72 O. Oniashvili Str., Tbilisi 0160, Georgia",
+    "url": "https://opengovus.com/sam-entity/J9LKEG5JR7D6",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

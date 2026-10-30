@@ -249,13 +249,14 @@ updated: 2026-10-30
 | 2026-08-18 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-23 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：PRO-4-PRO：Abetechs GmbH: GRUNDIG Security · Steinhof 39, 40699 Erkrath · +49 211 53806832 · www.grundig-security.com；GRUNDIG 品牌授权经营的视频安防（IP/TVI 摄像机、录像机、VMS powered by C-WERK） — <https://pro-4-pro.com/de/firma/30582-abetechs-gmbh-grundig-security.html>　*品牌授权商（非 Grundig 集团）；PoE 交换机是其配套品类*
+- 2026-10-30：Deutschland · Handelsregister（Northdata 免费页：登记时间线 / GF 变更 / ：Abetechs GmbH（GRUNDIG Security 独家许可方） · Amtsgericht Wuppertal HRB 35197（2024-11- · Aktiv（2026-09-14 最新登记变更） · 成立 2017-12-15 · Steinhof 39, D-40699 Erkrath — <https://www.northdata.de/Abetechs%20GmbH,%20Erkrath>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **人事变动**
 

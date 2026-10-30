@@ -408,6 +408,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETE：EPE RETELEM SPA（ex-SONATITE；retelem-dz.com；**signalhire 名录：54, Rue Omar Benaissa, Bab El O · 未取（RC / NIF 1 查未得） · 营业中（国企；官网 + 名录） · 成立 1971（SONAT · 54, Rue Omar Benaissa, Bab El Oued, Alger, Algeria",
+    "url": "https://www.signalhire.com/companies/epe-retelem-spa",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "algeriayp / SignalHire / RocketReach：EPE RETELEM SPA（ex-SONATITE）· 54 Rue Omar Benaissa, Alger · established 2008（历史 50+ 年）· 200–500 employees（RocketReach 59 可见）· est. revenue $10M–50M · 业务：telephony IP/hybrid, télécommunications, sécurité industrielle, réception satellitaire · CEO Benchelef Kamel（+213 555 050 850）· Project Director Mustapha Mehessem",
+    "url": "https://www.signalhire.com/companies/epe-retelem-spa",
+    "note": "阿尔及利亚国有电信/安防集成商（200–500 人）→ 国企采购走招标，留 A 观察",
+    "batch": "INTEL-21",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

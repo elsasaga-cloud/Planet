@@ -223,9 +223,14 @@ updated: 2026-10-30
 | 2026-08-26 | 来 | R | Request 1 – Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module… Molex MiniFit-JR for power, JST for alarm… |  |
 | 2026-08-31 | 来 | R | [image0.jpeg] Sent（回 Simon 08-30「a copy of the revised PI in USD」） |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：加拿大 · 联邦 / 省登记可查但研究档无法定名与省份线索；本行为「无登记源」记录（据第 79 批研究档）：James Clendenan Systems Ltd. · （登记状态不可免费核） · 成立 — · —　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：Alignable / Infobel / controlready.ca：James Clendenan Systems Ltd. · launched 2012-09 · North Vancouver（1528 Bowser Ave V7P 2Y3；Control Ready：1127 15th Street West）· Owner James Clendenan（Computer Engineer；ex Pixar Canada、Sophos、HootSuite、Olympic Broadcasting Service）· 服务：managed networks（$15/device/month）、ISP/SMB 网络设计、Wi-Fi、Fixed Wireless、Fiber；品牌 Control Ready（SCOUT 移动办公箱、BARK 移动报警、POST 数字标牌） — <https://www.controlready.ca/about>　*PI 成单户（活跃）：一人工程公司 + 自牌移动设备 → 复购在其项目节奏*
 
 **GitHub/技术足迹**
 
@@ -272,7 +277,7 @@ updated: 2026-10-30
 | [controlready_scout](https://www.controlready.ca/scout) | html | HTTP 200 | 2026-10-23T02:54:23Z | 1423 字符；首行：SCOUT: Smart Connection Operations United Toolkit — Control Ready |
 | [controlready_about](https://www.controlready.ca/about) | html | HTTP 200 | 2026-10-23T02:54:23Z | 2264 字符；首行：About — Control Ready |
 | [jcs_home](https://www.clendenan.ca/) | html | ConnectionError: HTTPConnectionPool(host='clendenan.ca', por | 2026-10-23T02:54:23Z | 老域名（2026-10-23 02:40Z 沙箱侧抓取失败，待运行器核实）；2026-10-23 首轮 https://clendenan.ca/ 连接失败，改 www + htt |
-| [auto_home](https://clendenan.ca/) | html | ConnectionError: HTTPSConnectionPool(host='clendenan.ca', po | - | 官网首页 |
+| [auto_home](https://clendenan.ca/) | html | ConnectionError: HTTPSConnectionPool(host='clendenan.ca', po | - | 官网首页（T27 快照状态 timeout） |
 
 - **人工定期看（登录墙，不自动抓）**：LinkedIn 个人页：James Clendenan（Queen's 计算机工程；前 Pixar Canada / Sophos / HootSuite / OBS）；Alignable 商家页（反爬 429，人工看）: https://www.alignable.com/north-vancouver-bc/james-clendenan-systems-ltd
 

@@ -253,13 +253,21 @@ updated: 2026-10-30
 | 2026-09-09 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-09 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；T：Conexión de Redes de Centro América（conexionderedes.com；**官网：San Salvador, El Salvador；+50 · 未取（NIT 1 查未得） · 营业中（官网 2026） · 成立 未取 · San Salvador, El Salvador（街道未取；+503 2262-1049） — <https://www.conexionderedes.com/servicios>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：conexionderedes.com in:email；"conexionderedes.com" in:readme in:description；conexionderedes.com type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：conexionderedes.com：Conexión de Redes（San Salvador；+503 2262-1049；WhatsApp +503 7553-2289；gerencia@conexionderedes.com）· 服务：Redes XGPON/FTTx、Fibra Óptica FTTH、POLAN 智能楼宇、IPTV、Data Center、LTE、微波 IP、PoE 照明咨询 · 网店含 switches/routers/FTTH/XGPON — <https://www.conexionderedes.com/servicios>　*中美洲电信设备供应 + 集成（网店 + 咨询）；规模未见*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

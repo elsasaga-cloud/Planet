@@ -296,9 +296,13 @@ updated: 2026-10-30
 | 2026-08-15 | 来 | A | RE: 400GB Switches｜Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and will get back to you… |  |
 | 2026-09-07 | 去 | A | Re: 400GB Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：UK Companies House：ITM SYSTEMS LIMITED · 07747218 · Active · 成立 2011-08-22 · North Wing, Broadway Court, Peterborough PE1 1RP（与官网一致） — <https://find-and-update.company-information.service.gov.uk/company/07747218>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

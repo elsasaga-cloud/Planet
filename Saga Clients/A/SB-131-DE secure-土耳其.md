@@ -192,9 +192,13 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TR · 1 次检索：desecuretechnology.com Hakkımızda（Desecure grubun：Desecure Technology（Desecure 集团安防技术公司；desecuretechnology.com；总部伊斯坦布尔 Vadistanbul，运营与技术中心代尼 · 技术公司法定名 / MERSİS 未取（部分坐实）；集团保安公司 Desecur · Active（2026-10 新闻） · 成立 集团 2008（Aİ · Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No:89, 34396 Sarıyer / İst — <https://desecuretechnology.com/kurumsal/hakkimizda/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **展会/活动**
 

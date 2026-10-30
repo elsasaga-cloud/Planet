@@ -613,6 +613,16 @@
     "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）：Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Business Soluti · （登记状态不可免费核） · 成立 2014（官网时间线 · 7687 King Fahad Branch Road, Al Murabba Dist., Unit 147, Riyadh 12612",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

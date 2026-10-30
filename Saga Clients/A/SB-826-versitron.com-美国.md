@@ -266,9 +266,13 @@ updated: 2026-10-30
 | 2026-03-11 | 去 | S | Re: 10G Enterprise SFP Switch |  |
 | 2026-03-11 | 来 | S | Automatic reply: 10G Enterprise SFP Switch｜Hello: I hope all is well. I will be out of the office until 03/12/26, and will reply to any messages when … |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 10 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 11 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人：VERSITRON, INC. · DUNS 837605443（CAGE 在册）；Delaware 公司（Bloo · Active（2025-07 仍发新闻稿；NAVAIR 小企 · 成立 1958 创立（品牌 · 83 Albe Drive Suite C, Newark, DE 19702 — <https://cage.report/DUNS/837605443>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **新闻/招标**
 

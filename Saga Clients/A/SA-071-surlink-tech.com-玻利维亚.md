@@ -236,9 +236,14 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2025-07-03 | 去 | R |  |  |
 | 2025.7.2 | 表 | 表 | 群发了16电｜全系列电口信息 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）：Sur-Link Technology Bolivia · （登记状态不可免费核） · 成立 — · Av. Guapay Nro. 2675 esq. Calle 10（Canal Cotoca, entre 2do y 3er anillo）, Santa 　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30：Facebook / boliviayp：Sur-Link Technology Bolivia · Av. Guapay #2675 esq. Calle 10, Santa Cruz de la Sierra · +591 3 3477677 / 74927328 · Emiranda@surlink-tech.com ·「Distribuidor mayorista de tecnología: Cat6a cat6 cat5e, fibra óptica SM/MM, ferretería ADSS, racks」· 覆盖 La Paz / Cochabamba / Santa Cruz 等 9 省 — <https://www.boliviayp.com/company/64839/SUR_LINK_TECHNOLOGY_BOLIVIA>　*圣克鲁斯布线/光纤批发分销（全国覆盖）；KP E. Miranda*
 
 **GitHub/技术足迹**
 
@@ -266,7 +271,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-071/`；本节随档案重渲染刷新，实时看日志。
 

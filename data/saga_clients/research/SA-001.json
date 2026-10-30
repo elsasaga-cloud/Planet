@@ -670,6 +670,16 @@
     "batch": "INTEL-17",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究：Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae） · （登记状态不可免费核） · 成立 — · UAE（Dubai，网店 + 门店）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -195,9 +195,14 @@ updated: 2026-10-30
 | 2025-10-10 | 去 | A | 10G Enterprise SFP Switch | $280 |
 | 2026-09-14 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：ZM · 1 次检索：obmacsystems.com（founded on February 13th 2007；Te：Obmac Systems（obmacsystems.com；**官网：2007-02-13 成立，ICT / 电气 / 机械项目与采购（恩多拉起家，现卢萨卡）；创始人 / CEO · 未取（PACRA 号 1 查未得） · 营业中（官网 + 领英） · 成立 2007-02-13 · 未取（Lusaka, Zambia；起家 Ndola） — <http://obmacsystems.com/>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-30（查过未得）：（未查）Obmac Systems（赞比亚，无域名）：PI 成单户（gg），按成单保留 A1　*PI*
 
 **GitHub/技术足迹**
 

@@ -748,6 +748,16 @@
     "batch": "INTEL-08",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人：VERSITRON, INC. · DUNS 837605443（CAGE 在册）；Delaware 公司（Bloo · Active（2025-07 仍发新闻稿；NAVAIR 小企 · 成立 1958 创立（品牌 · 83 Albe Drive Suite C, Newark, DE 19702",
+    "url": "https://cage.report/DUNS/837605443",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

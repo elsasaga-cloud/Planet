@@ -476,6 +476,16 @@
     "batch": "INTEL-13",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "印度 · 个体 / 合伙企业不入 MCA；GST 查询需完整 GSTIN；本行为「无登记源」记录（据第 79 批研究档）：Sundar Techno Solutions（STS） · （登记状态不可免费核） · 成立 2019（GST 注 · Bengaluru, Karnataka, India",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

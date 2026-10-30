@@ -903,6 +903,16 @@
     "batch": "INTEL-16",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14：RESONANT NETWORKS PTE. LTD.（R~Nets；Ubi, Singapore） · UEN 202005761Z · Live Company · 成立 2020-02-20 · 81 Ubi Avenue 4 #09-28, UB.One, Singapore 408830",
+    "url": "https://www.resonantnetworks.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

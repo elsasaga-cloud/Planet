@@ -206,9 +206,13 @@ updated: 2026-10-30
 | 2025-04-09 | 去 | R |  |  |
 | 2025.4.9 | 表 | 表 | 群发了22迷你｜have Routers with 1GE and 4 FE ports? |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, ：International Technology Exchanger (ITE)（ite.net.pk；**2004 年创立；卡拉奇 The Forum, Suite 611, 6 · 未取（SECP / NTN 1 查未得） · 营业中（官网 + 企业库） · 成立 2004 · The Forum, Suite 611, 6th Floor, Clifton, Karachi 75600, Pakistan — <https://ite.net.pk/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

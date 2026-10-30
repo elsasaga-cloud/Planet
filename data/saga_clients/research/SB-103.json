@@ -483,6 +483,16 @@
     "batch": "INTEL-09",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Deutschland · Handelsregister（Northdata 免费页：登记时间线 / GF 变更 / ：Abetechs GmbH（GRUNDIG Security 独家许可方） · Amtsgericht Wuppertal HRB 35197（2024-11- · Aktiv（2026-09-14 最新登记变更） · 成立 2017-12-15 · Steinhof 39, D-40699 Erkrath",
+    "url": "https://www.northdata.de/Abetechs%20GmbH,%20Erkrath",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -242,9 +242,13 @@ updated: 2026-10-30
 | 2026-08-25 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-28 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：BBB（Diversified Material Specialists, Inc.；别名 DMS：DMSI International = Diversified Material Specialists, Inc.（dmsimfg.com；North Venice, FL）— · FL Corporation（Sunbiz 文件号未取；BBB 法定名 Dive · Active（2025 扩产报道） · 成立 1996-07-05 · 105 Triple Diamond Blvd, Unit 101, North Venice, FL 34275 — <https://www.bbb.org/us/fl/north-venice/profile/fiber-optics/diversified-material-specialists-inc-0653-90109063>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 
