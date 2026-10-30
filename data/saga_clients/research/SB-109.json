@@ -416,6 +416,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：International Technology Exchanger (ITE) · Lahore（Block G4/737 Khokhar Chowk, Johar Town）· established 2004 · 20 employees · LAN/WAN, network security, unified communications · partnerships Cisco, Fortinet, HPE · 客群 corporate / industrial / government；员工 Rashid Zia（Senior Network Engineer）、Muhammad Sulehri（Sales Executive，2006 至今）",
+    "url": "https://www.zoominfo.com/pic/international-technology-exchanger/429968141",
+    "note": "拉合尔 20 人 SI（思科/飞塔渠道）",
+    "batch": "INTEL-15",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

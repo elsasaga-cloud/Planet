@@ -256,15 +256,19 @@ updated: 2026-10-30
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-18 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Datanyze / ZoomInfo / IndiaMART：Apollo Infoways Pvt. Ltd. · G-149, G-Block, Sector 63, Noida · Founded 2009 · 28 employees（IndiaMART 26–50）· Revenue $6M（IndiaMART 年营业额 ₹5–25 Cr）· Founder & CEO Ravi Prakash · 自称「biggest Manufacturer of CCTV Camera, Security Alarm System」+ routers / switches / wireless APs（WatchDog 品牌 = mywatchdog.in，SC-1371 同一公司） — <https://www.datanyze.com/companies/apollo-infoways-pvt/425988672>　*WatchDog 品牌主体；SC-1371 作为同一公司的副档降 B（A-DEEP-06），跟进只走 SB-641*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：apolloinfoways.in in:email；"apolloinfoways.in" in:readme in:description；apolloinfoways.in type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

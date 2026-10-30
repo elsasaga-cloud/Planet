@@ -550,6 +550,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "automationsystem.in / Facebook：Automation Systems and Solution · Delhi（T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj）· incorporated 2007 · ISO 9001:2015 · 工业自动化制造/经销：传感器、GSM 路由器、Manage/Unmanage Ethernet Switch、FO converter、SFP；代理 Banner, Relpol, Profichip, EKS, Teltonika, Procon",
+    "url": "http://automationsystem.in/",
+    "note": "德里工业自动化分销（含工业交换机品类）；规模未见，联系邮箱为 gmail",
+    "batch": "INTEL-15",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

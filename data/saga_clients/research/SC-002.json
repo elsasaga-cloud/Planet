@@ -17,8 +17,8 @@
    "date": "2026-10-21"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intelligent Technologies（沙特，中资同行：制造 + 分销）→ 同行",
  "notes": "c_sub=同行/中资贸易商。",
  "researched_at": "2026-10-21",
  "mail_review": {
@@ -92,6 +92,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）"
+  },
+  {
+   "batch": "A-DEEP-06",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
+   "reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intelligent Technologies（沙特，中资同行：制造 + 分销）→ 同行"
   }
  ],
  "a_deep": {
@@ -287,7 +295,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-06",
+  "verdict2_reason": "Intelligent Technologies（沙特，中资同行：制造 + 分销）→ 同行"
  },
  "intel": {
   "as_of": "2026-10-30",

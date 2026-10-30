@@ -216,15 +216,19 @@ updated: 2026-10-30
 | 2024.4.22 | 表 | 表 | 发了工业MC信息｜price 证书 |  |
 | 57 | 表 | 表 | 4 8 16口工业PoE｜EN50155 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Crunchbase / IndiaMART / TradeIndia：Nivox Technologies · Bangalore（No.59, 5th Cross, Urbam 560086）· Registered 2011 · 51–100（Crunchbase）· 「manufacturer and supplier of rugged fiber optic products」· 自牌 Iveonet（光纤配线）+ Unmanaged / Managed / PoE Industrial Ethernet Switches、Media Converters、Video over Fiber · Founders Hemanth Kumar（Director）、Kavitha D.（Director & CEO） — <https://www.crunchbase.com/organization/nivox-technologies>　*班加罗尔光纤产品制造 + 工业交换机贴牌 → OEM 30% 档*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：nivoxtech.com in:email；"nivoxtech.com" in:readme in:description；nivoxtech.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

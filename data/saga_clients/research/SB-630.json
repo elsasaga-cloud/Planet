@@ -32,8 +32,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Core IT Solutions：孟买合伙制小 SI，11–25 人、营业额 ₹1.5–5 Cr → 微型",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -261,6 +261,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）"
+  },
+  {
+   "batch": "A-DEEP-07",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
+   "reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Core IT Solutions：孟买合伙制小 SI，11–25 人、营业额 ₹1.5–5 Cr → 微型"
   }
  ],
  "a_deep": {
@@ -403,7 +411,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-07",
+  "verdict2_reason": "Core IT Solutions：孟买合伙制小 SI，11–25 人、营业额 ₹1.5–5 Cr → 微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -416,6 +427,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IndiaMART / Glassdoor：Core IT Solutions（CITS）· Mumbai（Sayba Palace, Mill Road, Kurla）· Partnership Firm 2010 · 11–25 人 · Annual Turnover ₹1.5–5 Cr · CEO Santosh（Khargotre）· 合伙人 Imran Usman Khan、Sarwar Alam Ansari · 在售 Techroutes Network Switch、网络安全、AMC",
+    "url": "https://www.indiamart.com/coreitsolutionsmumbai/profile.html",
+    "note": "孟买小型 SI（营业额 ≈$0.2–0.6M）→ A-DEEP-07 下放 B",
+    "batch": "INTEL-15",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

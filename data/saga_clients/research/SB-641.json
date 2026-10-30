@@ -502,6 +502,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Datanyze / ZoomInfo / IndiaMART：Apollo Infoways Pvt. Ltd. · G-149, G-Block, Sector 63, Noida · Founded 2009 · 28 employees（IndiaMART 26–50）· Revenue $6M（IndiaMART 年营业额 ₹5–25 Cr）· Founder & CEO Ravi Prakash · 自称「biggest Manufacturer of CCTV Camera, Security Alarm System」+ routers / switches / wireless APs（WatchDog 品牌 = mywatchdog.in，SC-1371 同一公司）",
+    "url": "https://www.datanyze.com/companies/apollo-infoways-pvt/425988672",
+    "note": "WatchDog 品牌主体；SC-1371 作为同一公司的副档降 B（A-DEEP-06），跟进只走 SB-641",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -255,15 +255,19 @@ A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价�
 | 2026-03-12 | 去 | A | OEM Core Switching Solution |  |
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**人事变动**
+
+- 2026-10-30：Indeed Pakistan（2026-02）：MT-LINK TECHNOLOGIES CO.（Karachi）在招 Channel Sales Executive（「Develop and manage channel partnerships with ISPs and ICT vendors · Drive B2B sales」）、Network Technician（pre-sales & post-sales technical support for our networking products）、Digital Marketing & Graphic Designer（Meta/Google Ads） — <https://pk.indeed.com/q-mt-jobs.html>　*2026 年在扩渠道销售 + 技术支持 → 自牌网络产品线在起量；ISP 渠道是其目标*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：mt-link.com in:email；"mt-link.com" in:readme in:description；mt-link.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、领英公司页、KP、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

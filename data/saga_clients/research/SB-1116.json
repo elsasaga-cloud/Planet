@@ -240,6 +240,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo / D&B / RocketReach：LITECH PAKISTAN (PRIVATE) LIMITED · Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad · 501–1,000 employees（ZoomInfo）· Key Principal / Director Operations Bilal Asad（Lahore）· 办公点 Lahore / Islamabad / Doha",
+    "url": "https://www.zoominfo.com/c/litech-pakistan/557123995",
+    "note": "华为渠道的电信基建承包商（OSP），人数量级 500+（现场施工队）",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo「recently hired」：Muhammad Azam — General Manager Technical（Joined 2025-02-18）；Hassan Cheema — Manager Business Development / Project Manager OSP（Joined 2025-01-31）",
+    "url": "https://www.zoominfo.com/c/litech-pakistan/557123995",
+    "note": "2025 新技术总经理 = 设备选型新对口",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

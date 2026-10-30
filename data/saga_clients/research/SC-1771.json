@@ -389,6 +389,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Glassdoor / IndiaMART：Telexcell Information Systems（Telexcell Information System Ltd.，GST 07AAACT2423K1ZH）· New Delhi（Modi Tower, Nehru Place）· founded 1987（Glassdoor 写 1993）· 26–50（IndiaMART）/ 51–200（Glassdoor）· 网络与安防基础设施系统集成（高校项目如 Central University of Haryana）；Glassdoor 评论提到发薪不及时",
+    "url": "https://www.glassdoor.co.in/Overview/Working-at-Telexcell-Information-Systems-EI_IE532780.11,40.htm",
+    "note": "德里中型 SI；现金流评价一般 → 前 T/T",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

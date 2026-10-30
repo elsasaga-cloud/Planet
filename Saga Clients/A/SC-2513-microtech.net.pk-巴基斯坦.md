@@ -160,13 +160,17 @@ updated: 2026-10-30
 | 2026-05-11 | 来 | R | Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg） |  |
 | 2026-10-22 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：microtech.net.pk in:email；"microtech.net.pk" in:readme in:description；microtech.net.pk type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：microtech.net.pk：Microtech Inc（est. 1997）· Suite 503, Progressive Plaza, Beaumont Road, Civil Lines, Karachi · 「Pakistan’s authorized distributor for Ubiquiti, MikroTik, Huawei eKit」+ V-SOL, Ruijie, ZKTeco, IMOU · 「transformed ourselves from System Integrators to Distributors」· 分支 Karachi / Lahore / Islamabad · 博客 2026-04 仍更新 — <https://microtech.net.pk/contact/>　*巴基斯坦全国性网络分销商（MikroTik/Ubiquiti 渠道）→ 交换机白牌线对位，分销 20% 档*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

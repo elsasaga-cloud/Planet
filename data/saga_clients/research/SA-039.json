@@ -419,6 +419,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "Indeed Pakistan（2026-02）：MT-LINK TECHNOLOGIES CO.（Karachi）在招 Channel Sales Executive（「Develop and manage channel partnerships with ISPs and ICT vendors · Drive B2B sales」）、Network Technician（pre-sales & post-sales technical support for our networking products）、Digital Marketing & Graphic Designer（Meta/Google Ads）",
+    "url": "https://pk.indeed.com/q-mt-jobs.html",
+    "note": "2026 年在扩渠道销售 + 技术支持 → 自牌网络产品线在起量；ISP 渠道是其目标",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

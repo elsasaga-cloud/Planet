@@ -33,8 +33,8 @@
    "role": "NAT tech doo（LinkedIn 自述；贝尔格莱德；法人待证）= 收件人 / 拍板人（第 112 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人",
  "notes": "典型「自助式回复」断点（Simon 2024 的做法）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -161,6 +161,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）"
+  },
+  {
+   "batch": "A-DEEP-06",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
+   "reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人"
   }
  ],
  "a_deep": {
@@ -361,7 +369,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-06",
+  "verdict2_reason": "Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人"
  },
  "intel": {
   "as_of": "2026-10-30",

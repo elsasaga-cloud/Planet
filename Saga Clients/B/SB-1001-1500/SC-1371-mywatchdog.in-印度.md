@@ -1,7 +1,7 @@
 # mywatchdog.in
 **官方名称（调研核实）**：WatchDog = Apollo Infoways Pvt. Ltd.
 
-> **评级 A**　|　印度　|　档案编号 `SC-1371`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　印度　|　档案编号 `SC-1371`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ★）：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理 + 工业线）　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、q33_hold
 >
@@ -9,10 +9,10 @@
 
 ```yaml structured_profile
 code: SC-1371
-rating: A
+rating: B
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：WatchDog（mywatchdog.in）= Apollo
 name_official: "WatchDog = Apollo Infoways Pvt. Ltd."
 score: 11
 country: 印度
@@ -37,10 +37,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：C 池三闸捞出（★ 正式）：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理…（调研 2026-10-29；表内兴趣：AOA Hrui 丰润达的都有）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09））；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：WatchDog（mywatchdog.in）= Apollo Infoways 同一公司 → 副档归 B，跟进只走 SB-641）；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 53、PoE 25 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
 - **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
 
@@ -116,7 +116,7 @@ updated: 2026-10-30
 - **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sma…**
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@mywatchdog.in 〔〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）
+- **调研后定级**：B（原自动 C）——A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：WatchDog（mywatchdog.in）= Apollo Infoways 同一公司 → 副档归 B，跟进只走 SB-641
 - 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
 LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
@@ -273,7 +273,7 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -300,7 +300,7 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ 丰润达 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -318,7 +318,7 @@ We have been in touch before about PoE and industrial switches; instead of a cat
 
 We supply a Marvell-based industrial DIN-rail L2 managed switch, 8x Gigabit PoE+ plus 2 SFP (240 W) - model STI-288GPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $85.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
-One question: Which switch model are you buying most often right now, and roughly how many units a month?
+One question: Are PoE / industrial switches something you still source today, or has that line been dropped?
 
 If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
 
@@ -339,11 +339,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 11）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 11）；人工/调研定级 → B
 
 ---
 

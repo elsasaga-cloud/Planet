@@ -51,8 +51,8 @@
    "source": "https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -283,6 +283,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
+  },
+  {
+   "batch": "A-DEEP-07",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+   "reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄"
   }
  ],
  "a_deep": {
@@ -481,7 +489,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-07",
+  "verdict2_reason": "AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -494,6 +505,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Facebook / ZoomInfo / X：AGS PLUS（agsplus.in）· Ghaziabad（Major Asharam Road, Sihani Rd, Ghukna）· 「Manufactur for Surveillance and Entrance Automation」· +91 7290005897 · 社媒 2023-10 起 · 营收 <$5M",
+    "url": "https://www.zoominfo.com/c/agsagsplus/1327107504",
+    "note": "加济阿巴德小型监控/门禁贴牌商，规模无证 → A-DEEP-07 下放 B",
+    "batch": "INTEL-15",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

@@ -1,18 +1,18 @@
 # devray.in
 **官方名称（调研核实）**：DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies（印度 Noida；Make-in-India OEM）
 
-> **评级 A**　|　印度　|　档案编号 `SB-1138`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　印度　|　档案编号 `SB-1138`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **P 池并入（A 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 对位 未知 → 观察；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 中型（100+ 人））
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 对位 未知 → 观察；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 未知 · 登记 ✔ · 体量 中型（100+ 人））
 >
 > **类型**：印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1138
-rating: A
+rating: B
 rating_auto: C
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册
 name_official: "DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies（印度 Noida；Make-in-India OEM）"
 score: -4
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：Elsa 邮箱 2025-12 → 2026-03 三个线程 12 封（来 5 去 7），全部是 Managing Director Yogendra Rajput 具名：2025-12-02 要完整资料 + 问公司在哪；2026-01-16/20 对 CENTEC「OEM Core Switching」追问「有无 8 GB RAM / 16 GB Flash 的 L3 机型？要 datasheet + 价格；能否从中国以外的产地提货？」——Elsa 只答了「We are based in China」+ 附件，RAM/Flash 与价格没答；2026-03-31「Are you ODM?」→ Elsa「OEM/ODM 都做」→「share data sheets along with the costing, we are interested in SKD」→ Elsa 只给链接 + 「SKD is fine with us」，costing 没给。两处欠答。（调研 2026-10-25；表内兴趣：基本都是联科的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424XGGPM-280W（24 PoE + 4×10G，L2+）/ STC-28DGGPM（8 PoE + 2×2.5G SFP，L2+） — OEM 30% 档；SKD 套件价按年量另议（CKD/SKD 只对量）；锚价：STC-424XGGPM-280W $180（群发现价，㉕ ②；Elsa Bcc 命中表无此户，未见 $170）/ STC-28DGGPM $87.4（30% 档）；CENTEC L3 不报价（内存指标不符，先说清）
 - **第一问（只问一个）**：Yogendra - for an SKD programme, what yearly quantity per model would you commit to?
@@ -146,7 +146,7 @@ updated: 2026-10-30
 - **类型**：印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）
 - **KP**：Yogendra Kumar Rajput（Founder / Managing Director（CISA & CISM）；DevRay IT Solutions Pvt Ltd + MapleCloud Tech Services Pvt Ltd 两家董事（MCA）= 拍板人 / 收件人；Elsa 线程 12 封具名追问 CENTEC L3（第 114 批 官方登记核实 2026-10-28））yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in +91-9739995151（信尾；对外材料不写电话）〔Elsa 邮箱 2026-01-16 签名〕
 - **KP**：Neha Jain（Director DevRay IT Solutions Private Limited（MCA）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）
+- **调研后定级**：B（原自动 C）——A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 （建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
 
@@ -213,9 +213,13 @@ updated: 2026-10-30
 | 2026-03-31 | 去 | R |  |  |
 | 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Scribd（MCA 摘录）：DEVRAY IT SOLUTIONS PRIVATE LIMITED · CIN U62013UP2024PTC204532 · incorporated 2024-06-13（Kanpur）· authorized & paid-up capital Rs 1,00,000 · Directors Yogendra Kumar Rajput, Neha Jain；官网：Noida Sector 63 办公，产品 DevGate NGFW / Router / SD-WAN / Industrial Switches / Data Center Switches；关联 Maplecloud Technologies（Greater Noida，Yogendra Rajput Managing Partner，IndiaMART 在售「DevRay Netwo — <https://www.devray.in/>　*2024-06 新注册、实缴 1 万卢比的贴牌品牌 → A-DEEP-06 下放 B（B1 观察：ODM 需求真实但主体太新太小）*
 
 **GitHub/技术足迹**
 
@@ -296,7 +300,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB） 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -323,7 +327,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -363,11 +367,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -4）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -4）；人工/调研定级 → B
 
 ---
 

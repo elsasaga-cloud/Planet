@@ -431,6 +431,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn / ZoomInfo：San Telequip Pvt. Ltd. · Pune（Baner Road，Deron Heights 504/505）· Founded 1991 · 11–50 employees · Revenue $7.5M · ISO 9001:2015 · 25,000+ installations；自研接口转换器 / 工业终端服务器 / 协议网关 / 无线转换器 + Networking & Surveillance Solutions；近期帖：IOCL Kandla–Gorakhpur ~3,000 km LPG 管线项目",
+    "url": "https://www.linkedin.com/company/san-telequip-p-ltd.-",
+    "note": "浦那工业数据通信 OEM（三十年），油气/电力/楼宇渠道 → 工业交换机 OEM 配套位",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

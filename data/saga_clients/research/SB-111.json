@@ -340,6 +340,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Crunchbase / IndiaMART / TradeIndia：Nivox Technologies · Bangalore（No.59, 5th Cross, Urbam 560086）· Registered 2011 · 51–100（Crunchbase）· 「manufacturer and supplier of rugged fiber optic products」· 自牌 Iveonet（光纤配线）+ Unmanaged / Managed / PoE Industrial Ethernet Switches、Media Converters、Video over Fiber · Founders Hemanth Kumar（Director）、Kavitha D.（Director & CEO）",
+    "url": "https://www.crunchbase.com/organization/nivox-technologies",
+    "note": "班加罗尔光纤产品制造 + 工业交换机贴牌 → OEM 30% 档",
+    "batch": "INTEL-15",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

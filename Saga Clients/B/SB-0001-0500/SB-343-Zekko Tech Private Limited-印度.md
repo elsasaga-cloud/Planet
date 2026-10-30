@@ -1,18 +1,18 @@
 # Zekko Tech Private Limited
 **官方名称（调研核实）**：Zekko Tech Private Limited（孟买）
 
-> **评级 A**　|　印度　|　档案编号 `SB-343`　|　优先级 ★★★　|　状态：WhatsApp 已加·未回复
+> **评级 B**　|　印度　|　档案编号 `SB-343`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
-> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 微型（4 人））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 微型（4 人））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-343
-rating: A
+rating: B
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方
+rating_research: B  # A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Zekko Tech：4 人、实缴 ₹1 lakh → 微型
 name_official: "Zekko Tech Private Limited（孟买）"
 score: 44
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。（调研 2026-10-21；表内兴趣：工业级/SFP）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单））；自动分级 B：+10 谈到样品/测样；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Zekko Tech：4 人、实缴 ₹1 lakh → 微型）；自动分级 B：+10 谈到样品/测样；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-14 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.
@@ -147,7 +147,7 @@ updated: 2026-10-30
 - **KP**：Yashraj Sharma（Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28））yashraj@zekko.co.in +91 75060 52047〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Santosh Singh（Manager（研究档；与前董事 Seema Santosh Singh 关联待证）= 抄（第 114 批 官方登记核实 2026-10-28））santosh@zekko.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Chandrasekaran Iyer（Whole-Time Director（MCA；DIN 06879733）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）
+- **调研后定级**：B（原自动 B）——A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Zekko Tech：4 人、实缴 ₹1 lakh → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -215,9 +215,13 @@ updated: 2026-10-30
 | 2026-09-24 | 去 | A | Managed PoE Switches |  |
 | 2026-09-24 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：thecompanycheck / Tofler：Zekko Tech Private Limited · CIN U74999MH2016PTC285972 · incorporated 2016-09-16 · Navi Mumbai（Turbhe Industrial Park）· authorized & paid-up ₹1.00 lac · Employee Count 4 · Directors Chandrasekaran Iyer, Anjana Maju, Valli Malaichamy · mchamy@zekko.co.in — <https://www.thecompanycheck.com/company/zekko-tech-private-limited/U74999MH2016PTC285972>　*4 人、实缴 1 万卢比 → A-DEEP-07 下放 B*
 
 **GitHub/技术足迹**
 
@@ -297,7 +301,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -324,7 +328,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -360,11 +364,11 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）
 
 ---
 

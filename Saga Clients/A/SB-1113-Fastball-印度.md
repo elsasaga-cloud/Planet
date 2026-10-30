@@ -201,9 +201,13 @@ updated: 2026-10-30
 | 2023-12-13 | 去 | R |  |  |
 | 2024-01-15 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IndiaMART：Fastball · Established 2021 · Proprietorship · CEO Rishi Kumar Bansal · Upto 10 People · GST 2021 · Trader/Retailer of fiber splicers, joint enclosures, patch panels, PLC splitters；官网：Fastball Building, Unit A-61, Jhilmil Industrial Area, Delhi 110095 · Sales +91-9871 753 979 — <https://www.indiamart.com/fastball/profile.html>　*PI 成单户（gg）：德里光纤工具/配件贸易（≤10 人，个体）——A1 按成单保留*
 
 **GitHub/技术足迹**
 

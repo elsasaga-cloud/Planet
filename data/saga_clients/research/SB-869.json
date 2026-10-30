@@ -319,6 +319,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "Tendata（2025-09-15 核验）：FUTURIST PVT. LTD.（Islamabad，House No. 524, Double Road, I-10/4）「importing … from 11 suppliers across China」；Jamals：电信线缆/光纤/测试仪/UPS/太阳能/CCTV/网络 + 电信规划承包",
+    "url": "https://www.tendata.com/en/supplier/futurist-pvt-ltd-PAKI21deee967283195299660619e5e4c79f.html",
+    "note": "有中国进口记录（11 家供应商）= 「有进口经验者」；伊斯兰堡电信工程 + 贸易",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

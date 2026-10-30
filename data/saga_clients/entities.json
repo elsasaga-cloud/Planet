@@ -30541,6 +30541,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "人事变动",
+"date": "2026-10-30",
+"quote": "Indeed Pakistan（2026-02）：MT-LINK TECHNOLOGIES CO.（Karachi）在招 Channel Sales Executive（「Develop and manage channel partnerships with ISPs and ICT vendors · Drive B2B sales」）、Network Technician（pre-sales & post-sales technical support for our networking products）、Digital Marketing & Graphic Designer（Meta/Google Ads）",
+"url": "https://pk.indeed.com/q-mt-jobs.html",
+"note": "2026 年在扩渠道销售 + 技术支持 → 自牌网络产品线在起量；ISP 渠道是其目标",
+"batch": "INTEL-14",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -40560,7 +40570,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SA-054",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-054",
 "name_official": "Softnetworks Inc.（Whippany, NJ，美国）",
@@ -40630,8 +40640,8 @@
 "source": "https://www.zoominfo.com/p/Neal-Cennamo/81956627"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
+"grade_override": "B",
+"override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Softnetworks（美国二手/翻新网络设备经销商）→ 品类不对位",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
 "researched_at": "2026-10-21",
 "deep": {
@@ -40899,6 +40909,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）"
+},
+{
+"batch": "A-DEEP-06",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
+"reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Softnetworks（美国二手/翻新网络设备经销商）→ 品类不对位"
 }
 ],
 "a_deep": {
@@ -41001,7 +41019,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-06",
+"verdict2_reason": "Softnetworks（美国二手/翻新网络设备经销商）→ 品类不对位"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -47661,6 +47682,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "ZoomInfo / Tracxn：Areca Embedded Systems Pvt Ltd · Hyderabad（Plot 5B, Phase V, IDA Cherlapally）· ROC Hyderabad · Paid Up ₹4.65 Cr · 23 employees（ZoomInfo）/ 95（Tracxn EPFO 2024-02，波动大）· 岗位含 Senior RAMS and Validation Engineer、Embedded Firmware Engineer、Supply Chain Manager Kishore Guturi；2025-05 / 09 / 10 持续入职",
+"url": "https://www.zoominfo.com/c/areca-embedded-systems-pvt-ltd/426946019",
+"note": "嵌入式系统设备商（RAMS 岗位暗示轨道信号领域——守界核对：若主业轨交则不追）；有供应链经理可直接对接",
+"batch": "INTEL-15",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -148997,6 +149028,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "ZoomInfo：International Technology Exchanger (ITE) · Lahore（Block G4/737 Khokhar Chowk, Johar Town）· established 2004 · 20 employees · LAN/WAN, network security, unified communications · partnerships Cisco, Fortinet, HPE · 客群 corporate / industrial / government；员工 Rashid Zia（Senior Network Engineer）、Muhammad Sulehri（Sales Executive，2006 至今）",
+"url": "https://www.zoominfo.com/pic/international-technology-exchanger/429968141",
+"note": "拉合尔 20 人 SI（思科/飞塔渠道）",
+"batch": "INTEL-15",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -157154,6 +157195,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Crunchbase / IndiaMART / TradeIndia：Nivox Technologies · Bangalore（No.59, 5th Cross, Urbam 560086）· Registered 2011 · 51–100（Crunchbase）· 「manufacturer and supplier of rugged fiber optic products」· 自牌 Iveonet（光纤配线）+ Unmanaged / Managed / PoE Industrial Ethernet Switches、Media Converters、Video over Fiber · Founders Hemanth Kumar（Director）、Kavitha D.（Director & CEO）",
+"url": "https://www.crunchbase.com/organization/nivox-technologies",
+"note": "班加罗尔光纤产品制造 + 工业交换机贴牌 → OEM 30% 档",
+"batch": "INTEL-15",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -158528,6 +158579,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IndiaMART：Fastball · Established 2021 · Proprietorship · CEO Rishi Kumar Bansal · Upto 10 People · GST 2021 · Trader/Retailer of fiber splicers, joint enclosures, patch panels, PLC splitters；官网：Fastball Building, Unit A-61, Jhilmil Industrial Area, Delhi 110095 · Sales +91-9871 753 979",
+"url": "https://www.indiamart.com/fastball/profile.html",
+"note": "PI 成单户（gg）：德里光纤工具/配件贸易（≤10 人，个体）——A1 按成单保留",
+"batch": "INTEL-15",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -159775,6 +159836,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "ZoomInfo / D&B / RocketReach：LITECH PAKISTAN (PRIVATE) LIMITED · Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad · 501–1,000 employees（ZoomInfo）· Key Principal / Director Operations Bilal Asad（Lahore）· 办公点 Lahore / Islamabad / Doha",
+"url": "https://www.zoominfo.com/c/litech-pakistan/557123995",
+"note": "华为渠道的电信基建承包商（OSP），人数量级 500+（现场施工队）",
+"batch": "INTEL-14",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "人事变动",
+"date": "2026-10-30",
+"quote": "ZoomInfo「recently hired」：Muhammad Azam — General Manager Technical（Joined 2025-02-18）；Hassan Cheema — Manager Business Development / Project Manager OSP（Joined 2025-01-31）",
+"url": "https://www.zoominfo.com/c/litech-pakistan/557123995",
+"note": "2025 新技术总经理 = 设备选型新对口",
+"batch": "INTEL-14",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -166562,7 +166643,7 @@
 "c_sub": "",
 "status": "已推送 14 次·未回复",
 "code": "SB-1132",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-1132",
 "name_official": "Aleksandar Nedić（塞尔维亚；gmail；「expand our business in networking」）",
@@ -166598,8 +166679,8 @@
 "role": "NAT tech doo（LinkedIn 自述；贝尔格莱德；法人待证）= 收件人 / 拍板人（第 112 批 官方登记核实 2026-10-28）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
+"grade_override": "B",
+"override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人",
 "notes": "典型「自助式回复」断点（Simon 2024 的做法）。",
 "deep": {
 "done_at": "2026-10-24",
@@ -166726,6 +166807,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）"
+},
+{
+"batch": "A-DEEP-06",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
+"reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人"
 }
 ],
 "a_deep": {
@@ -166926,7 +167015,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-06",
+"verdict2_reason": "Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -169902,7 +169994,7 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-1138",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-1138",
 "name_official": "DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies（印度 Noida；Make-in-India OEM）",
@@ -169929,8 +170021,8 @@
 "source": "https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）",
+"grade_override": "B",
+"override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）",
 "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
 "deep": {
 "done_at": "2026-10-25",
@@ -170087,6 +170179,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）"
+},
+{
+"batch": "A-DEEP-06",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）",
+"reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）"
 }
 ],
 "snap_thicken": {
@@ -170327,7 +170427,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-06",
+"verdict2_reason": "DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -170340,6 +170443,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Scribd（MCA 摘录）：DEVRAY IT SOLUTIONS PRIVATE LIMITED · CIN U62013UP2024PTC204532 · incorporated 2024-06-13（Kanpur）· authorized & paid-up capital Rs 1,00,000 · Directors Yogendra Kumar Rajput, Neha Jain；官网：Noida Sector 63 办公，产品 DevGate NGFW / Router / SD-WAN / Industrial Switches / Data Center Switches；关联 Maplecloud Technologies（Greater Noida，Yogendra Rajput Managing Partner，IndiaMART 在售「DevRay Netwo",
+"url": "https://www.devray.in/",
+"note": "2024-06 新注册、实缴 1 万卢比的贴牌品牌 → A-DEEP-06 下放 B（B1 观察：ODM 需求真实但主体太新太小）",
+"batch": "INTEL-14",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -195688,7 +195801,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-166",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-166",
 "name_official": "Crown Security Solutions（卡塔尔；表内名）",
@@ -195717,8 +195830,8 @@
 "role": "Chief Technology Officer（RocketReach 2026-10-29；Crown Group 2012 起；仅 WA）= 收件人 — WA 一页纸 + 规格书：分销 20% B、STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名 — 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈、CRA 不声称（第 122 批 官方登记核实 2026-10-29）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Crown Security Solutions（卡塔尔，无域名无官网）→ 不可核",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -195826,6 +195939,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-06",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Crown Security Solutions（卡塔尔，无域名无官网）→ 不可核"
 }
 ],
 "a_deep": {
@@ -195898,7 +196019,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-06",
+"verdict2_reason": "Crown Security Solutions（卡塔尔，无域名无官网）→ 不可核"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -197030,7 +197154,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-169",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-169",
 "name_official": "AGS Plus / Xexagon（印度；Vinod Tyagi、Gunjan）",
@@ -197084,8 +197208,8 @@
 "source": "https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+"grade_override": "B",
+"override_reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄",
 "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -197316,6 +197440,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
+},
+{
+"batch": "A-DEEP-07",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+"reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄"
 }
 ],
 "a_deep": {
@@ -197514,7 +197646,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-07",
+"verdict2_reason": "AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -197527,6 +197662,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Facebook / ZoomInfo / X：AGS PLUS（agsplus.in）· Ghaziabad（Major Asharam Road, Sihani Rd, Ghukna）· 「Manufactur for Surveillance and Entrance Automation」· +91 7290005897 · 社媒 2023-10 起 · 营收 <$5M",
+"url": "https://www.zoominfo.com/c/agsagsplus/1327107504",
+"note": "加济阿巴德小型监控/门禁贴牌商，规模无证 → A-DEEP-07 下放 B",
+"batch": "INTEL-15",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -231955,7 +232100,7 @@
 "gaps": []
 },
 "next_move": {
-"when": "现在（WhatsApp 接着 2026-10-28 的问题答）",
+"when": "随 Simon（他本人在 WhatsApp 上与 Shantanu 聊着；Simon 2026-10-30：不用管 → Agent 不插手、只记录）",
 "channel": "WhatsApp +91 98211 96123（Shantanu）",
 "action": "接着他 2026-10-28 问的产品：给对应型号规格 + 一口价（OEM 30% 档：CENTEC ≥35% / Marvell L3 ≥25%），只问一个问题（量 / 哪个项目）；首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调",
 "one_question": "Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?",
@@ -274691,7 +274836,7 @@
 "c_sub": "",
 "status": "WhatsApp 已加·未回复",
 "code": "SB-343",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-343",
 "name_official": "Zekko Tech Private Limited（孟买）",
@@ -274741,8 +274886,8 @@
 "source": "https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）",
+"grade_override": "B",
+"override_reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Zekko Tech：4 人、实缴 ₹1 lakh → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -274920,6 +275065,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）"
+},
+{
+"batch": "A-DEEP-07",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）",
+"reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Zekko Tech：4 人、实缴 ₹1 lakh → 微型"
 }
 ],
 "snap_thicken": {
@@ -275088,7 +275241,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-07",
+"verdict2_reason": "Zekko Tech：4 人、实缴 ₹1 lakh → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -275101,6 +275257,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "thecompanycheck / Tofler：Zekko Tech Private Limited · CIN U74999MH2016PTC285972 · incorporated 2016-09-16 · Navi Mumbai（Turbhe Industrial Park）· authorized & paid-up ₹1.00 lac · Employee Count 4 · Directors Chandrasekaran Iyer, Anjana Maju, Valli Malaichamy · mchamy@zekko.co.in",
+"url": "https://www.thecompanycheck.com/company/zekko-tech-private-limited/U74999MH2016PTC285972",
+"note": "4 人、实缴 1 万卢比 → A-DEEP-07 下放 B",
+"batch": "INTEL-15",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -323409,6 +323575,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "automationsystem.in / Facebook：Automation Systems and Solution · Delhi（T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj）· incorporated 2007 · ISO 9001:2015 · 工业自动化制造/经销：传感器、GSM 路由器、Manage/Unmanage Ethernet Switch、FO converter、SFP；代理 Banner, Relpol, Profichip, EKS, Teltonika, Procon",
+"url": "http://automationsystem.in/",
+"note": "德里工业自动化分销（含工业交换机品类）；规模未见，联系邮箱为 gmail",
+"batch": "INTEL-15",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -401672,7 +401848,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-630",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-630",
 "name_official": "Core IT Solutions (CITS)（Mumbai）",
@@ -401707,8 +401883,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
+"grade_override": "B",
+"override_reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Core IT Solutions：孟买合伙制小 SI，11–25 人、营业额 ₹1.5–5 Cr → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -401936,6 +402112,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）"
+},
+{
+"batch": "A-DEEP-07",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
+"reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Core IT Solutions：孟买合伙制小 SI，11–25 人、营业额 ₹1.5–5 Cr → 微型"
 }
 ],
 "a_deep": {
@@ -402078,7 +402262,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-07",
+"verdict2_reason": "Core IT Solutions：孟买合伙制小 SI，11–25 人、营业额 ₹1.5–5 Cr → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -402091,6 +402278,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "IndiaMART / Glassdoor：Core IT Solutions（CITS）· Mumbai（Sayba Palace, Mill Road, Kurla）· Partnership Firm 2010 · 11–25 人 · Annual Turnover ₹1.5–5 Cr · CEO Santosh（Khargotre）· 合伙人 Imran Usman Khan、Sarwar Alam Ansari · 在售 Techroutes Network Switch、网络安全、AMC",
+"url": "https://www.indiamart.com/coreitsolutionsmumbai/profile.html",
+"note": "孟买小型 SI（营业额 ≈$0.2–0.6M）→ A-DEEP-07 下放 B",
+"batch": "INTEL-15",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -406230,6 +406427,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Datanyze / ZoomInfo / IndiaMART：Apollo Infoways Pvt. Ltd. · G-149, G-Block, Sector 63, Noida · Founded 2009 · 28 employees（IndiaMART 26–50）· Revenue $6M（IndiaMART 年营业额 ₹5–25 Cr）· Founder & CEO Ravi Prakash · 自称「biggest Manufacturer of CCTV Camera, Security Alarm System」+ routers / switches / wireless APs（WatchDog 品牌 = mywatchdog.in，SC-1371 同一公司）",
+"url": "https://www.datanyze.com/companies/apollo-infoways-pvt/425988672",
+"note": "WatchDog 品牌主体；SC-1371 作为同一公司的副档降 B（A-DEEP-06），跟进只走 SB-641",
+"batch": "INTEL-14",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -497439,6 +497646,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "Tendata（2025-09-15 核验）：FUTURIST PVT. LTD.（Islamabad，House No. 524, Double Road, I-10/4）「importing … from 11 suppliers across China」；Jamals：电信线缆/光纤/测试仪/UPS/太阳能/CCTV/网络 + 电信规划承包",
+"url": "https://www.tendata.com/en/supplier/futurist-pvt-ltd-PAKI21deee967283195299660619e5e4c79f.html",
+"note": "有中国进口记录（11 家供应商）= 「有进口经验者」；伊斯兰堡电信工程 + 贸易",
+"batch": "INTEL-14",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -553557,7 +553774,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SC-002",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SC-002",
 "name_official": "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）",
@@ -553577,8 +553794,8 @@
 "date": "2026-10-21"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
+"grade_override": "B",
+"override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intelligent Technologies（沙特，中资同行：制造 + 分销）→ 同行",
 "notes": "c_sub=同行/中资贸易商。",
 "researched_at": "2026-10-21",
 "mail_review": {
@@ -553652,6 +553869,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）"
+},
+{
+"batch": "A-DEEP-06",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
+"reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intelligent Technologies（沙特，中资同行：制造 + 分销）→ 同行"
 }
 ],
 "a_deep": {
@@ -553847,7 +554072,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-06",
+"verdict2_reason": "Intelligent Technologies（沙特，中资同行：制造 + 分销）→ 同行"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -559794,7 +560022,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SC-023",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SC-023",
 "name_official": "Central Gospel School（加纳）",
@@ -559822,8 +560050,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 2 条 / 研究档 0 条（S；2024-06→2024-06）",
+"grade_override": "B",
+"override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻",
 "notes": "（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -559864,6 +560092,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 2 条 / 研究档 0 条（S；2024-06→2024-06）"
+},
+{
+"batch": "A-DEEP-06",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 2 条 / 研究档 0 条（S；2024-06→2024-06）",
+"reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻"
 }
 ],
 "mail_review": {
@@ -560012,7 +560248,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-06",
+"verdict2_reason": "Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -643755,7 +643994,7 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SC-1371",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SC-1371",
 "name_official": "WatchDog = Apollo Infoways Pvt. Ltd.",
@@ -643799,8 +644038,8 @@
 "phone": ""
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
+"grade_override": "B",
+"override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：WatchDog（mywatchdog.in）= Apollo Infoways 同一公司 → 副档归 B，跟进只走 SB-641",
 "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
 "override_history": [
 {
@@ -643826,6 +644065,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）"
+},
+{
+"batch": "A-DEEP-06",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
+"reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：WatchDog（mywatchdog.in）= Apollo Infoways 同一公司 → 副档归 B，跟进只走 SB-641"
 }
 ],
 "lt_review": {
@@ -644165,7 +644412,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-06",
+"verdict2_reason": "WatchDog（mywatchdog.in）= Apollo Infoways 同一公司 → 副档归 B，跟进只走 SB-641"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -691334,6 +691584,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn / ZoomInfo：San Telequip Pvt. Ltd. · Pune（Baner Road，Deron Heights 504/505）· Founded 1991 · 11–50 employees · Revenue $7.5M · ISO 9001:2015 · 25,000+ installations；自研接口转换器 / 工业终端服务器 / 协议网关 / 无线转换器 + Networking & Surveillance Solutions；近期帖：IOCL Kandla–Gorakhpur ~3,000 km LPG 管线项目",
+"url": "https://www.linkedin.com/company/san-telequip-p-ltd.-",
+"note": "浦那工业数据通信 OEM（三十年），油气/电力/楼宇渠道 → 工业交换机 OEM 配套位",
+"batch": "INTEL-14",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -711409,6 +711669,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Glassdoor / IndiaMART：Telexcell Information Systems（Telexcell Information System Ltd.，GST 07AAACT2423K1ZH）· New Delhi（Modi Tower, Nehru Place）· founded 1987（Glassdoor 写 1993）· 26–50（IndiaMART）/ 51–200（Glassdoor）· 网络与安防基础设施系统集成（高校项目如 Central University of Haryana）；Glassdoor 评论提到发薪不及时",
+"url": "https://www.glassdoor.co.in/Overview/Working-at-Telexcell-Information-Systems-EI_IE532780.11,40.htm",
+"note": "德里中型 SI；现金流评价一般 → 前 T/T",
+"batch": "INTEL-14",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -838402,6 +838672,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "microtech.net.pk：Microtech Inc（est. 1997）· Suite 503, Progressive Plaza, Beaumont Road, Civil Lines, Karachi · 「Pakistan’s authorized distributor for Ubiquiti, MikroTik, Huawei eKit」+ V-SOL, Ruijie, ZKTeco, IMOU · 「transformed ourselves from System Integrators to Distributors」· 分支 Karachi / Lahore / Islamabad · 博客 2026-04 仍更新",
+"url": "https://microtech.net.pk/contact/",
+"note": "巴基斯坦全国性网络分销商（MikroTik/Ubiquiti 渠道）→ 交换机白牌线对位，分销 20% 档",
+"batch": "INTEL-14",
+"found": true,
 "added": "2026-10-30"
 }
 ]

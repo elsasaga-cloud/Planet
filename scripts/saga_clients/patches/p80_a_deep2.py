@@ -57,6 +57,20 @@ DEMOTE = {
 }
 
 
+DEMOTE7 = {  # A-DEEP-07（T29-U143 2026-10-30）：南亚网查
+    'SB-343': 'Zekko Tech：4 人、实缴 ₹1 lakh → 微型',
+    'SB-169': 'AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄',
+    'SB-630': 'Core IT Solutions：孟买合伙制小 SI，11–25 人、营业额 ₹1.5–5 Cr → 微型',
+}
+DEMOTE6 = {  # A-DEEP-06（T29-U143 2026-10-30）：规则直判 + 南亚网查
+    'SB-1132': 'Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人',
+    'SC-023': 'Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻',
+    'SB-166': 'Crown Security Solutions（卡塔尔，无域名无官网）→ 不可核',
+    'SC-002': 'Intelligent Technologies（沙特，中资同行：制造 + 分销）→ 同行',
+    'SA-054': 'Softnetworks（美国二手/翻新网络设备经销商）→ 品类不对位',
+    'SC-1371': 'WatchDog（mywatchdog.in）= Apollo Infoways 同一公司 → 副档归 B，跟进只走 SB-641',
+    'SB-1138': 'DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）',
+}
 DEMOTE5 = {  # A-DEEP-05（T29-U142 2026-10-30）
     'SB-134': 'Кассаба Системс ЕООД：独资微型 IT 服务公司（住宅地址，资本 2,556 €）→ 微型',
     'SB-256': 'TVprzemyslowa.pl Karol Nowak：个体工商户形式的 CCTV 分销（Eneo 波兰独家留 B1 跟）→ 个人',
@@ -82,8 +96,8 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     cnt = Counter()
     rows = []
-    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()):
-        batch = 'A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH))
+    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()):
+        batch = 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
         p = os.path.join(RESEARCH, c + '.json')
         if not os.path.exists(p):
             cnt['no_research'] += 1

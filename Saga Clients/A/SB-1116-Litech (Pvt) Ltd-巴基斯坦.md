@@ -180,15 +180,23 @@ updated: 2026-10-30
 |---|---|---|---|---|
 | 2024-03-09 | 来 | R | Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance stat… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：ZoomInfo / D&B / RocketReach：LITECH PAKISTAN (PRIVATE) LIMITED · Layallpur Regency Plaza, 949-Mall Road, New Civil Lines, Faisalabad · 501–1,000 employees（ZoomInfo）· Key Principal / Director Operations Bilal Asad（Lahore）· 办公点 Lahore / Islamabad / Doha — <https://www.zoominfo.com/c/litech-pakistan/557123995>　*华为渠道的电信基建承包商（OSP），人数量级 500+（现场施工队）*
+
+**人事变动**
+
+- 2026-10-30：ZoomInfo「recently hired」：Muhammad Azam — General Manager Technical（Joined 2025-02-18）；Hassan Cheema — Manager Business Development / Project Manager OSP（Joined 2025-01-31） — <https://www.zoominfo.com/c/litech-pakistan/557123995>　*2025 新技术总经理 = 设备选型新对口*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：litech.com.pk in:email；"litech.com.pk" in:readme in:description；Litech  Pvt  Ltd type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -201,15 +201,19 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn / ZoomInfo：San Telequip Pvt. Ltd. · Pune（Baner Road，Deron Heights 504/505）· Founded 1991 · 11–50 employees · Revenue $7.5M · ISO 9001:2015 · 25,000+ installations；自研接口转换器 / 工业终端服务器 / 协议网关 / 无线转换器 + Networking & Surveillance Solutions；近期帖：IOCL Kandla–Gorakhpur ~3,000 km LPG 管线项目 — <https://www.linkedin.com/company/san-telequip-p-ltd.->　*浦那工业数据通信 OEM（三十年），油气/电力/楼宇渠道 → 工业交换机 OEM 配套位*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：santelequip.com in:email；"santelequip.com" in:readme in:description；San Telequip Pvt. Ltd. type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

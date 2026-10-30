@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 2 条 / 研究档 0 条（S；2024-06→2024-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -67,6 +67,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 2 条 / 研究档 0 条（S；2024-06→2024-06）"
+  },
+  {
+   "batch": "A-DEEP-06",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 2 条 / 研究档 0 条（S；2024-06→2024-06）",
+   "reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻"
   }
  ],
  "mail_review": {
@@ -215,7 +223,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-06",
+  "verdict2_reason": "Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻"
  },
  "intel": {
   "as_of": "2026-10-30",

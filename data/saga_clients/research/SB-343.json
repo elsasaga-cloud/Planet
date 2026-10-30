@@ -47,8 +47,8 @@
    "source": "https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Zekko Tech：4 人、实缴 ₹1 lakh → 微型",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -226,6 +226,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）"
+  },
+  {
+   "batch": "A-DEEP-07",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）",
+   "reason": "A-DEEP-07 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Zekko Tech：4 人、实缴 ₹1 lakh → 微型"
   }
  ],
  "snap_thicken": {
@@ -394,7 +402,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-07",
+  "verdict2_reason": "Zekko Tech：4 人、实缴 ₹1 lakh → 微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -407,6 +418,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "thecompanycheck / Tofler：Zekko Tech Private Limited · CIN U74999MH2016PTC285972 · incorporated 2016-09-16 · Navi Mumbai（Turbhe Industrial Park）· authorized & paid-up ₹1.00 lac · Employee Count 4 · Directors Chandrasekaran Iyer, Anjana Maju, Valli Malaichamy · mchamy@zekko.co.in",
+    "url": "https://www.thecompanycheck.com/company/zekko-tech-private-limited/U74999MH2016PTC285972",
+    "note": "4 人、实缴 1 万卢比 → A-DEEP-07 下放 B",
+    "batch": "INTEL-15",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

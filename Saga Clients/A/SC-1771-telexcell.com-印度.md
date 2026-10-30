@@ -166,15 +166,19 @@ updated: 2026-10-30
 | 2026-07-29 | 去 | R |  |  |
 | 2026-09-16 | 来 | A | Re: 32 Port 400GB DC Switch｜Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Glassdoor / IndiaMART：Telexcell Information Systems（Telexcell Information System Ltd.，GST 07AAACT2423K1ZH）· New Delhi（Modi Tower, Nehru Place）· founded 1987（Glassdoor 写 1993）· 26–50（IndiaMART）/ 51–200（Glassdoor）· 网络与安防基础设施系统集成（高校项目如 Central University of Haryana）；Glassdoor 评论提到发薪不及时 — <https://www.glassdoor.co.in/Overview/Working-at-Telexcell-Information-Systems-EI_IE532780.11,40.htm>　*德里中型 SI；现金流评价一般 → 前 T/T*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：telexcell.com in:email；"telexcell.com" in:readme in:description；telexcell.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

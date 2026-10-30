@@ -235,13 +235,17 @@ updated: 2026-10-30
 | 2025-04-22 | 去 | R |  |  |
 | 2025.4.10 | 表 | 表 | 群发了2光4PoE｜ds |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：automationsystem.in in:email；"automationsystem.in" in:readme in:description；automationsystem.in type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：automationsystem.in / Facebook：Automation Systems and Solution · Delhi（T-12, 3rd Floor, Pankaj Central Market, I.P. Extension, Patparganj）· incorporated 2007 · ISO 9001:2015 · 工业自动化制造/经销：传感器、GSM 路由器、Manage/Unmanage Ethernet Switch、FO converter、SFP；代理 Banner, Relpol, Profichip, EKS, Teltonika, Procon — <http://automationsystem.in/>　*德里工业自动化分销（含工业交换机品类）；规模未见，联系邮箱为 gmail*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

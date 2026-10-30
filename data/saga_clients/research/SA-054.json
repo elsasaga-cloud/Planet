@@ -67,8 +67,8 @@
    "source": "https://www.zoominfo.com/p/Neal-Cennamo/81956627"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Softnetworks（美国二手/翻新网络设备经销商）→ 品类不对位",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -336,6 +336,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）"
+  },
+  {
+   "batch": "A-DEEP-06",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
+   "reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Softnetworks（美国二手/翻新网络设备经销商）→ 品类不对位"
   }
  ],
  "a_deep": {
@@ -438,7 +446,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-06",
+  "verdict2_reason": "Softnetworks（美国二手/翻新网络设备经销商）→ 品类不对位"
  },
  "intel": {
   "as_of": "2026-10-30",

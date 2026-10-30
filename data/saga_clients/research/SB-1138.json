@@ -24,8 +24,8 @@
    "source": "https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
  "deep": {
   "done_at": "2026-10-25",
@@ -182,6 +182,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）"
+  },
+  {
+   "batch": "A-DEEP-06",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）",
+   "reason": "A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）"
   }
  ],
  "snap_thicken": {
@@ -422,7 +430,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-06",
+  "verdict2_reason": "DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察）"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -435,6 +446,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Scribd（MCA 摘录）：DEVRAY IT SOLUTIONS PRIVATE LIMITED · CIN U62013UP2024PTC204532 · incorporated 2024-06-13（Kanpur）· authorized & paid-up capital Rs 1,00,000 · Directors Yogendra Kumar Rajput, Neha Jain；官网：Noida Sector 63 办公，产品 DevGate NGFW / Router / SD-WAN / Industrial Switches / Data Center Switches；关联 Maplecloud Technologies（Greater Noida，Yogendra Rajput Managing Partner，IndiaMART 在售「DevRay Netwo",
+    "url": "https://www.devray.in/",
+    "note": "2024-06 新注册、实缴 1 万卢比的贴牌品牌 → A-DEEP-06 下放 B（B1 观察：ODM 需求真实但主体太新太小）",
+    "batch": "INTEL-14",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

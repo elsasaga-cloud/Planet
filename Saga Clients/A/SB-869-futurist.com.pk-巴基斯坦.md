@@ -218,13 +218,17 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 |  | 表 | 表 | 发了2光4小壳信息｜price |  |
 |  | 表 | 表 | 发了几个mini工业交换机图｜will check |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：futurist.com.pk in:email；"futurist.com.pk" in:readme in:description；futurist.com.pk type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：Tendata（2025-09-15 核验）：FUTURIST PVT. LTD.（Islamabad，House No. 524, Double Road, I-10/4）「importing … from 11 suppliers across China」；Jamals：电信线缆/光纤/测试仪/UPS/太阳能/CCTV/网络 + 电信规划承包 — <https://www.tendata.com/en/supplier/futurist-pvt-ltd-PAKI21deee967283195299660619e5e4c79f.html>　*有中国进口记录（11 家供应商）= 「有进口经验者」；伊斯兰堡电信工程 + 贸易*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

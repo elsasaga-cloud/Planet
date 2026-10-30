@@ -288,6 +288,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "microtech.net.pk：Microtech Inc（est. 1997）· Suite 503, Progressive Plaza, Beaumont Road, Civil Lines, Karachi · 「Pakistan’s authorized distributor for Ubiquiti, MikroTik, Huawei eKit」+ V-SOL, Ruijie, ZKTeco, IMOU · 「transformed ourselves from System Integrators to Distributors」· 分支 Karachi / Lahore / Islamabad · 博客 2026-04 仍更新",
+    "url": "https://microtech.net.pk/contact/",
+    "note": "巴基斯坦全国性网络分销商（MikroTik/Ubiquiti 渠道）→ 交换机白牌线对位，分销 20% 档",
+    "batch": "INTEL-14",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

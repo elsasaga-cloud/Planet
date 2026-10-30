@@ -378,6 +378,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IndiaMART：Fastball · Established 2021 · Proprietorship · CEO Rishi Kumar Bansal · Upto 10 People · GST 2021 · Trader/Retailer of fiber splicers, joint enclosures, patch panels, PLC splitters；官网：Fastball Building, Unit A-61, Jhilmil Industrial Area, Delhi 110095 · Sales +91-9871 753 979",
+    "url": "https://www.indiamart.com/fastball/profile.html",
+    "note": "PI 成单户（gg）：德里光纤工具/配件贸易（≤10 人，个体）——A1 按成单保留",
+    "batch": "INTEL-15",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

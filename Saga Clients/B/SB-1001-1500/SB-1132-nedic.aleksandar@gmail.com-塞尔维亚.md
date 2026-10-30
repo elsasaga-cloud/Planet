@@ -1,15 +1,15 @@
 # nedic.aleksandar@gmail.com
 **官方名称（调研核实）**：Aleksandar Nedić（塞尔维亚；gmail；「expand our business in networking」）
 
-> **评级 A**　|　塞尔维亚　|　档案编号 `SB-1132`　|　优先级 ★★★　|　状态：已推送 14 次·未回复
+> **评级 B**　|　塞尔维亚　|　档案编号 `SB-1132`　|　优先级 ★★　|　状态：已推送 14 次·未回复
 >
 > **类型**：塞尔维亚小型集成/经销（拓展网络业务）（推断）　|　**历史关系**：推送 14 次（2024-05-15 → 2025-10-06）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1132
-rating: A
+rating: B
 rating_auto: C
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Aleksandar Nedić（塞尔维亚 gmail 个人）
 name_official: "Aleksandar Nedić（塞尔维亚；gmail；「expand our business in networking」）"
 score: 8
 country: 塞尔维亚
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S 邮箱 2024-05-16 两封来信：要产品目录、想订几台测试；再问价表与 MOQ。Simon 两次都让他自己去 Profile 第 13 页的 Google Drive 链接看（「We do not have a standard catalog」「MoQ is 2 pieces」）→ 无回；2026-09-15 推 16 口 DIN PoE 无回。（调研 2026-10-24；表内兴趣：PoE 工商业都用 工业为主）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05））；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人）；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-05-15 → 2025-10-06）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99） — 已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%；STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 列表价 $99 → 25% 档 $84.1；STI-054GP 列表价 $42.9 → 老表 $39（非管理工业线 SmartByte 成本表是 2024 的，档位价 $32.5 不可靠；Simon 2026-04 给 SB-164 报 $33）
 - **第一问（只问一个）**：Aleksandar — in 2024 you asked for a catalog and test units and I sent you links instead of prices; here they are: 8-PoE + 2 SFP industrial $137.5, 8-PoE + 4 SFP desktop $99, 4-PoE + 1 GE industrial $42.9 USD EXW, single units OK. Which one would you test first?
@@ -140,7 +140,7 @@ updated: 2026-10-30
   > Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business in networking.
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-05-16）
 - **KP**：Aleksandar Nedić（NAT tech doo（LinkedIn 自述；贝尔格莱德；法人待证）= 收件人 / 拍板人（第 112 批 官方登记核实 2026-10-28））nedic.aleksandar@gmail.com 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）
+- **调研后定级**：B（原自动 C）——A-DEEP-06 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Aleksandar Nedić（塞尔维亚 gmail 个人）→ 个人
 - 备注：典型「自助式回复」断点（Simon 2024 的做法）。
 
 ### 加厚挖掘（2026-10-24 · 邮件证据）
@@ -287,7 +287,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 先问他要哪一类（工业 PoE 最可能：2024-05 原线程是 Industrial PoE Switch）；STI-154GP / STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -314,7 +314,7 @@ updated: 2026-10-30
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -354,11 +354,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 8）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 8）；人工/调研定级 → B
 
 ---
 

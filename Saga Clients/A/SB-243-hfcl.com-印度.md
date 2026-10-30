@@ -40,7 +40,7 @@ updated: 2026-10-30
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W；Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?
 - **最大未知**：年走量与现供应商
-- **下一步**：现在（WhatsApp 接着 2026-10-28 的问题答） WhatsApp +91 98211 96123（Shantanu） 接着他 2026-10-28 问的产品：给对应型号规格 + 一口价（OEM 30% 档：CENTEC ≥35% / Marvell L3 ≥25%），只问一个问题（量 / 哪个项目）；首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调
+- **下一步**：随 Simon（他本人在 WhatsApp 上与 Shantanu 聊着；Simon 2026-10-30：不用管 → Agent 不插手、只记录） WhatsApp +91 98211 96123（Shantanu） 接着他 2026-10-28 问的产品：给对应型号规格 + 一口价（OEM 30% 档：CENTEC ≥35% / Marvell L3 ≥25%），只问一个问题（量 / 哪个项目）；首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
@@ -51,7 +51,7 @@ updated: 2026-10-30
 - **对方真实需求（有据）**：自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W
 - **断点 / 为什么停在这里**：MII 60% 本地含量（印度公共采购口径）——Saga 无印度产能；只有 SKD/伙伴组装一条路，且偏离 C1「接口层」
 - **Saga 现在该推什么**：P1 **STI-288GPM**（30% 档，Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170））——自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W
-- **下一步（具体）**：现在（WhatsApp 接着 2026-10-28 的问题答）　WhatsApp +91 98211 96123（Shantanu）　接着他 2026-10-28 问的产品：给对应型号规格 + 一口价（OEM 30% 档：CENTEC ≥35% / Marvell L3 ≥25%），只问一个问题（量 / 哪个项目）；首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调
+- **下一步（具体）**：随 Simon（他本人在 WhatsApp 上与 Shantanu 聊着；Simon 2026-10-30：不用管 → Agent 不插手、只记录）　WhatsApp +91 98211 96123（Shantanu）　接着他 2026-10-28 问的产品：给对应型号规格 + 一口价（OEM 30% 档：CENTEC ≥35% / Marvell L3 ≥25%），只问一个问题（量 / 哪个项目）；首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调
   - 第一问（只问一个）：Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -102,10 +102,9 @@ updated: 2026-10-30
 
 - `hfcl.com` → Microsoft 365（MX：hfcl-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（印度 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
+**假日避让（印度 · 按下一步「2026-10」窗口 2026-10-30→2026-10-31）：**
 
-- 法定假日：11-08 Diwali —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
+- 窗口内无该国法定假日
 
 **公司底数 · 第 91 批（IN · 1 次检索：thecompanycheck（CIN L64200HP1987PLC007466，2025 营收 ₹3,856 cr 口径、净资产 ₹3,963 cr、2,336 名员工；MD Mahendra Nahata）+ FY25 年报 / Q4 电话会（合并营收 ₹4,065 cr vs FY24 ₹4,465 cr，EBITDA ₹507 cr，PBT ₹217 cr；Q4 FY25 净亏 ₹81.4 cr）+ NSE 2026-04-30 投资者简报（FY26 营收 ₹4,949 cr，EBITDA ₹826.75 cr / 16.7%）+ 2026-10-20 新闻（Q2 FY27 营收 ₹2,541.79 cr、净利 ₹394 cr，同比 5 倍 = 创纪录）+ Q1 FY25 简报（电信 96% / 国防 2% / 铁路 2%；订单簿 ₹6,776 cr），2026-10-27 查；https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466）：**
 
