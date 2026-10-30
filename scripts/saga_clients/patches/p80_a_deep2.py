@@ -57,6 +57,10 @@ DEMOTE = {
 }
 
 
+DEMOTE5 = {  # A-DEEP-05（T29-U142 2026-10-30）
+    'SB-134': 'Кассаба Системс ЕООД：独资微型 IT 服务公司（住宅地址，资本 2,556 €）→ 微型',
+    'SB-256': 'TVprzemyslowa.pl Karol Nowak：个体工商户形式的 CCTV 分销（Eneo 波兰独家留 B1 跟）→ 个人',
+}
 DEMOTE4 = {  # A-DEEP-04（T29-U141 2026-10-30）：欧洲/俄区网查后的个体户 / 微型
     'SA-034': 'RFOG POLAND Tomasz Paszkowski：个体工商户形式的一人批发商 → 个人',
     'SB-599': 'Симанитрон：莫斯科主体 4–5 人、2022 收入 −45% 转亏（萨拉托夫生产子公司另计）→ 微型 + 俄区二级',
@@ -78,8 +82,8 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     cnt = Counter()
     rows = []
-    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()):
-        batch = 'A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)
+    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()):
+        batch = 'A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH))
         p = os.path.join(RESEARCH, c + '.json')
         if not os.path.exists(p):
             cnt['no_research'] += 1

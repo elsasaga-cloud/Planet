@@ -400,6 +400,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "goyellow / Kompass / wlw：ISIMKO GmbH · Guhrower Straße 5, 03044 Cottbus · Amtsgericht Cottbus HRB 472 · USt-IdNr. DE138775376 · Gründungsjahr 1990 · Geschäftsführer Wolfgang Noack, Ralph Hannemann, Diego Noack · Mitarbeiter 50–99（wlw）/ 100–249（Kompass）· Kapital 250.001 EUR · Zertifikate BHE, DIN 14675, ISO 9001 · 业务：Informationstechnik, Sicherheitstechnik, Medientechnik, Kommunikationstechnik（Fert",
+    "url": "https://www.goyellow.de/home/elektriker-isimko-gmbh-cottbus--grpbv9.html",
+    "note": "勃兰登堡 50–249 人的 IT/安防/通信系统集成商，三位 GF 可直接写信（Noack 家族 + Hannemann）",
+    "batch": "INTEL-12",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 160 / B 1309 / C 3178
+> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 158 / B 1311 / C 3178
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -19,7 +19,7 @@
 | 区域 | A | B | C | 合计 |
 |---|---|---|---|---|
 | 北美 | 22 | 174 | 289 | 485 |
-| 欧洲 | 35 | 440 | 522 | 997 |
+| 欧洲 | 33 | 442 | 522 | 997 |
 | 土耳其 | 16 | 119 | 72 | 207 |
 | 中东 | 13 | 67 | 246 | 326 |
 | 亚太 | 23 | 233 | 696 | 952 |
@@ -30,7 +30,7 @@
 | 乌克兰 | 0 | 0 | 55 | 55 |
 | 中国大陆 | 0 | 0 | 17 | 17 |
 | 未知 | 0 | 2 | 51 | 53 |
-| **合计** | 160 | 1309 | 3178 | 4647 |
+| **合计** | 158 | 1311 | 3178 | 4647 |
 
 状态分布：名单内 2011；已推送 1239；WhatsApp 526；用户判定不行 444；有回复 229；发不过去 83；历史合作 80；成交过 20；回复暂无需求 15
 
@@ -38,7 +38,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 ## 调研覆盖（A 候选逐家网页核实）
 
-- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 436 / 调研后降 C 280。
+- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 438 / 调研后降 C 280。
 - 降级口径：≥14 次推送 0 回复（即便面谈/OEM 意向）→ B 并标「回复即升 A」；核心需求在 Saga 线外（IP67、M12、HDMI 延长器、仅 SFP/DWDM、400G）→ B；已停业 / 休眠壳公司 / 疑似同行 / 军工守界 / TKH 等集团子公司 → C；中国直采的纯比价客户 → B。
 - B/C 级未逐家网页核实（量级 4,500+），分级依据为用户表信号 + 规则；任一 B 升 A 前先补一份 research JSON。
 
@@ -59,7 +59,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 目录结构：A 平铺；B / C 每 500 户一个子目录（`B/SB-0001-0500/`、`B/SB-0501-1000/`、`B/SB-1001-1500/` …，GitHub 网页一个目录只显示前 1,000 个文件），编号连号，看编号就知道在哪个子目录；各级 `_索引.md` 的链接直达文件。
 
-### A 级（160）— `Saga Clients/A/`
+### A 级（158）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -159,7 +159,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-122 | Tera Technologies and Engineering Ltd | 坦桑尼亚 | 系统集成/工程商 | 有回复·跟进中 | 57 | 已 | [SB-122-Tera Technologies and Engineering Ltd-坦桑尼亚.md](A/SB-122-Tera%20Technologies%20and%20Engineering%20Ltd-坦桑尼亚.md) |
 | SB-131 | DE secure | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 55 | 已 | [SB-131-DE secure-土耳其.md](A/SB-131-DE%20secure-土耳其.md) |
 | SB-132 | F.A.S.T | 土耳其 | 工业自动化/IoT 方案商 | 名单内·未触达 | 55 | 已 | [SB-132-F.A.S.T-土耳其.md](A/SB-132-F.A.S.T-土耳其.md) |
-| SB-134 | Kassaba Systems | 保加利亚 | 系统集成/工程商 | 已推送 15 次·未回复 | 55 | 已 | [SB-134-Kassaba Systems-保加利亚.md](A/SB-134-Kassaba%20Systems-保加利亚.md) |
 | SB-143 | broadstar.com | 美国 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 55 | 已 | [SB-143-broadstar.com-美国.md](A/SB-143-broadstar.com-美国.md) |
 | SB-144 | bsdnetworks.com | 加拿大 | 品牌商/贴牌需求（OEM/ODM） | 已推送 16 次·未回复 | 55 | 已 | [SB-144-bsdnetworks.com-加拿大.md](A/SB-144-bsdnetworks.com-加拿大.md) |
 | SB-160 | linx-com.com | 英国 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 54 | 已 | [SB-160-linx-com.com-英国.md](A/SB-160-linx-com.com-英国.md) |
@@ -177,7 +176,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-243 | hfcl.com | 印度 | 印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复） | 已推送 1 次·未回复 | 49 | 已 | [SB-243-hfcl.com-印度.md](A/SB-243-hfcl.com-印度.md) |
 | SB-248 | nellyssecurity.com | 美国 | 安防集成/经销 | 已推送 9 次·未回复 | 49 | 已 | [SB-248-nellyssecurity.com-美国.md](A/SB-248-nellyssecurity.com-美国.md) |
 | SB-255 | switchtek | 英国 | 分销商/经销商 | 已推送 17 次·未回复 | 49 | 已 | [SB-255-switchtek-英国.md](A/SB-255-switchtek-英国.md) |
-| SB-256 | tvprzemyslowa.pl | 波兰 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 49 | 已 | [SB-256-tvprzemyslowa.pl-波兰.md](A/SB-256-tvprzemyslowa.pl-波兰.md) |
 | SB-267 | bio-cognitive.com | 新加坡 | 安防集成/经销 | 有回复·跟进中 | 48 | 已 | [SB-267-bio-cognitive.com-新加坡.md](A/SB-267-bio-cognitive.com-新加坡.md) |
 | SB-274 | fiberix.com.tr | 土耳其 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 48 | 已 | [SB-274-fiberix.com.tr-土耳其.md](A/SB-274-fiberix.com.tr-土耳其.md) |
 | SB-315 | stc-vietnam.com | 越南 | 分销商/经销商 | 有回复·跟进中 | 46 | 已 | [SB-315-stc-vietnam.com-越南.md](A/SB-315-stc-vietnam.com-越南.md) |
@@ -224,9 +222,9 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SC-2904 | firsttech.co.za | 南非 | 经销/集成（类型待核） | 用户判定不行 | -51 | 已 | [SC-2904-firsttech.co.za-南非.md](A/SC-2904-firsttech.co.za-南非.md) |
 | SC-371 | Visiotech | 西班牙 | OEM（闸 2 判定 · 30% 档） | 历史合作·维护（非 Saga 成单） | 22 | 已 | [SC-371-Visiotech-西班牙.md](A/SC-371-Visiotech-西班牙.md) |
 
-### B 级（1309）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
+### B 级（1311）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
 
-全部 1309 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1311 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
 ### C 级（3178）— `Saga Clients/C/`（子目录 `SC-0001-0500/` / `SC-0501-1000/` / `SC-1001-1500/` / `SC-1501-2000/` / `SC-2001-2500/` / `SC-2501-3000/` / `SC-3001-3500/`）
 

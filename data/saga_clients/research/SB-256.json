@@ -54,8 +54,8 @@
    "source": "https://rejestr.io/krs/817374"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-05 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：TVprzemyslowa.pl Karol Nowak：个体工商户形式的 CCTV 分销（Eneo 波兰独家留 B1 跟）→ 个人",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -220,6 +220,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）"
+  },
+  {
+   "batch": "A-DEEP-05",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）",
+   "reason": "A-DEEP-05 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：TVprzemyslowa.pl Karol Nowak：个体工商户形式的 CCTV 分销（Eneo 波兰独家留 B1 跟）→ 个人"
   }
  ],
  "snap_thicken": {
@@ -448,7 +456,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-05",
+  "verdict2_reason": "TVprzemyslowa.pl Karol Nowak：个体工商户形式的 CCTV 分销（Eneo 波兰独家留 B1 跟）→ 个人"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -461,6 +472,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "aleo / GoWork：TVPRZEMYSLOWA.PL KAROL NOWAK · ul. Kórnicka 30, 61-141 Poznań · NIP 7822376077 · REGON 300661519 · Indywidualna działalność gospodarcza（2007-09-24 起）· 「wyłączny dystrybutor marki Eneo w Polsce」；伙伴 Milestone, Axis, Axxon, Flir, Mobotix, Sony, BCS, Dahua, Hikvision, Evos, Neovo, Camsat, Videotec, Mobeye；另有 S.C. Karol Nowak Lidia Nowak（NIP 7822563253）",
+    "url": "https://aleo.com/pl/firma/tvprzemyslowapl-poznan",
+    "note": "个体工商户形式的 CCTV 分销（Eneo 波兰独家）→ A-DEEP-05 下放 B（Eneo 独家这一点留给 B1 跟进）",
+    "batch": "INTEL-12",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

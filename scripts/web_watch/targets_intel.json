@@ -1701,9 +1701,9 @@
   {
    "code": "SB-134",
    "name": "Kassaba Systems",
-   "grade": "A",
+   "grade": "B",
    "country": "保加利亚",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2082,9 +2082,9 @@
   {
    "code": "SB-256",
    "name": "tvprzemyslowa.pl",
-   "grade": "A",
+   "grade": "B",
    "country": "波兰",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",

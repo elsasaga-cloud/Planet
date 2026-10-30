@@ -420,6 +420,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "未得：网查「Top Italia / topsicurezza.com」命中多家同名 Top Security S.r.l.（Grugliasco 12 人 / Muggia 15 人 / Ospitaletto 清算中），均无法与 topsicurezza.com 对应",
+    "url": "",
+    "note": "1 查未得即停；下轮用官网 Partita IVA 再核",
+    "batch": "INTEL-12",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

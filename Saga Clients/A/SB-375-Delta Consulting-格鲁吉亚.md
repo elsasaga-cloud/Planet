@@ -254,15 +254,19 @@ updated: 2026-10-30
 | 2026-05-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：dc.ge / RocketReach：Delta Consulting LLC（დელტა კონსალტინგი）· Tbilisi ·「one of the leading IT system integrator company in Georgia, cooperating with … IBM, Lenovo, Cisco, Dell, Stulz, Juniper Networks, Ruckus」· 面向企业与政府 · CEO George Jaliashvili · RocketReach 仅 4 人可见 — <https://www.dc.ge/about-us-eng>　*PI 成单户（gg）：第比利斯政企 IT 集成商，Cisco/Juniper 渠道；规模按公开信息偏小，CEO 直联*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：dc.ge in:email；"dc.ge" in:readme in:description；Delta Consulting type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

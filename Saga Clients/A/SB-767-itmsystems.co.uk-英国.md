@@ -296,15 +296,19 @@ updated: 2026-10-30
 | 2026-08-15 | 来 | A | RE: 400GB Switches｜Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and will get back to you… |  |
 | 2026-09-07 | 去 | A | Re: 400GB Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Tracxn：iTM Systems · Peterborough · founded 2010 · 11–50 employees（2024-07）；ZoomInfo 描述：digital video surveillance solutions … IP cameras, access control, facial recognition, LPR；「also serves as an original equipment manufacturer and integrates systems in-house … network of installers」（ZoomInfo 的「201–500 / $63.5M」与另一条「51–200 / $19.8M」互相矛盾，不采） — <https://tracxn.com/d/companies/itm-systems/__sQLG_1qEEY0x0aGUE_iGcikoWS5BdtXbehAI93w1oOU>　*英国 OEM + 集成 + 安装商网络的监控方案商；规模按 11–50 采信*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：itmsystems.co.uk in:email；"itmsystems.co.uk" in:readme in:description；itmsystems.co.uk type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

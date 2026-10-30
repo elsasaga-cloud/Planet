@@ -640,6 +640,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Tracxn：iTM Systems · Peterborough · founded 2010 · 11–50 employees（2024-07）；ZoomInfo 描述：digital video surveillance solutions … IP cameras, access control, facial recognition, LPR；「also serves as an original equipment manufacturer and integrates systems in-house … network of installers」（ZoomInfo 的「201–500 / $63.5M」与另一条「51–200 / $19.8M」互相矛盾，不采）",
+    "url": "https://tracxn.com/d/companies/itm-systems/__sQLG_1qEEY0x0aGUE_iGcikoWS5BdtXbehAI93w1oOU",
+    "note": "英国 OEM + 集成 + 安装商网络的监控方案商；规模按 11–50 采信",
+    "batch": "INTEL-12",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

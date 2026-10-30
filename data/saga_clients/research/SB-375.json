@@ -440,6 +440,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "dc.ge / RocketReach：Delta Consulting LLC（დელტა კონსალტინგი）· Tbilisi ·「one of the leading IT system integrator company in Georgia, cooperating with … IBM, Lenovo, Cisco, Dell, Stulz, Juniper Networks, Ruckus」· 面向企业与政府 · CEO George Jaliashvili · RocketReach 仅 4 人可见",
+    "url": "https://www.dc.ge/about-us-eng",
+    "note": "PI 成单户（gg）：第比利斯政企 IT 集成商，Cisco/Juniper 渠道；规模按公开信息偏小，CEO 直联",
+    "batch": "INTEL-12",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

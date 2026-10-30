@@ -42,9 +42,9 @@
  "kp": [
   {
    "name": "Shantanu Rana",
-   "title": "有回复（采购 / 产品线人员，职务待核）—— 公司 = **HFCL Ltd 上市光缆 + 电信设备商（FY26 营收 ₹4,949 cr；自有 IO 品牌交换机 / AP = 同行；国防 + 铁路 = 守界）→ 判定不追；仅在其问 ODM / 白牌时报 CENTEC ≥35% / Marvell L3 ≥25%，否则 when=不动**（第 91 批 官方登记核实 2026-10-27）",
+   "title": "有回复（采购 / 产品线人员，职务待核）—— 公司 = **HFCL Ltd 上市光缆 + 电信设备商（FY26 营收 ₹4,949 cr；自有 IO 品牌交换机 / AP = 同行；国防 + 铁路 = 守界）→ 判定不追；仅在其问 ODM / 白牌时报 CENTEC ≥35% / Marvell L3 ≥25%，否则 when=不动**（第 91 批 官方登记核实 2026-10-27）；**2026-10-28（约）仍在向 Simon 问产品（WhatsApp）**——活跃对话中，Simon 2026-10-30 定「保留 A」",
    "email": "shantanu.kumar@hfcl.com",
-   "phone": "",
+   "phone": "+91 98211 96123（WhatsApp，Simon 2026-10-30 给）",
    "source": "用户表"
   },
   {
@@ -56,7 +56,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-04）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-04）；Simon 2026-10-30 裁定保留 A（K8：上市中型集团自为 OEM 采购方；Shantanu 2026-10-28 仍在问产品）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -127,10 +127,12 @@
    "gaps": []
   },
   "next_move": {
-   "when": "2026-11（Simon 先定 MII 口径）",
-   "channel": "WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档",
-   "action": "首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调",
-   "one_question": "Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?"
+   "when": "现在（WhatsApp 接着 2026-10-28 的问题答）",
+   "channel": "WhatsApp +91 98211 96123（Shantanu）",
+   "action": "接着他 2026-10-28 问的产品：给对应型号规格 + 一口价（OEM 30% 档：CENTEC ≥35% / Marvell L3 ≥25%），只问一个问题（量 / 哪个项目）；首封前知悉：Elsa 已 1:1 去信 3 轮（2026-04-03→2026-08-04，客户回过信（2026-01-08、2026-01-08、2026-04-05、2026-04-05、2026-04-06、2026-04-06））（第 74 批(m)）；一句话定调",
+   "one_question": "Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?",
+   "when_prev": "2026-11（Simon 先定 MII 口径）",
+   "channel_prev": "WhatsApp（Simon，对方 2026-04-06 要求）+ Elsa 邮箱存档"
   },
   "facts": [
    {
@@ -263,6 +265,14 @@
     "quote": "HFCL - Leading Provider of Telecom and Networking Solutions — HFCL is a global leader in delivering innovative telecom and networking solutions, offering cutting-edge products and services for connectivity, communication, and digital transformation. Explore our range of solutions designed to drive b",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://www.hfcl.com/"
+   },
+   {
+    "date": "2026-10-28（约）",
+    "dir": "Simon",
+    "who": "Simon（WhatsApp 对话，T29-U142 转述）",
+    "quote": "「前 2 天那个人还问我产品呢 — Shantanu HFCL +91 98211 96123」",
+    "why": "HFCL 采购/产品线人员 Shantanu 主动问产品 → 对话活跃；Simon 裁定 HFCL 保留 A",
+    "k": "对话全记录 2026-10-30 T29-U142"
    }
   ],
   "proof_gaps": [
@@ -580,6 +590,16 @@
     "url": "https://www.hfcl.com/wp-content/uploads/2025/08/HFCL_INC_Financial%20Statements_FY2024-25.pdf",
     "note": "美国子公司刚起量、净资产为负 → 美国市场扩张期",
     "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "KP Shantanu（HFCL）WhatsApp +91 98211 96123；2026-10-28（约）主动问产品（Simon 口述）",
+    "url": "",
+    "note": "Simon 2026-10-30：HFCL 保留 A；上市中型集团自己是 OEM 采购方，不按「巨头子公司」算（K8）",
+    "batch": "INTEL-12",
     "found": true,
     "added": "2026-10-30"
    }
