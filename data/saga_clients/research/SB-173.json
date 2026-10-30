@@ -434,5 +434,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Inaxsys Security Systems · 1,687 followers · Security and Investigations · 11–50 employees（21 on LinkedIn）· Montréal, Québec（Saint-Léonard）· Founded 2004 · Specialties incl. POE network switches；distributor, developer and supplier of open architecture VMS, Access Control/Alarm, Megapixel IP camera and POE networking",
+    "url": "https://ca.linkedin.com/company/inaxsys",
+    "note": "",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Mark McRae — President；Alain Boisvert — VP International Sales & Product Development；Richard Foo — Sales Manager, Western Region；Juan Campos — Sales Manager, Central Region",
+    "url": "https://ca.linkedin.com/company/inaxsys",
+    "note": "Boisvert 管产品开发 = OEM 交换机规格对口人",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "LinkedIn 2026-09（Pipl Systems）：到访 Inaxsys 蒙特利尔拍 20 余年公司纪录片，提到 Mark McRae、Alain Boisvert、Muhammad Rahim；「grown into a manufacturer and distributor serving partners across Canada and the United States」",
+    "url": "https://www.linkedin.com/in/mohammad-zamanpournpour-81907936/",
+    "note": "",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

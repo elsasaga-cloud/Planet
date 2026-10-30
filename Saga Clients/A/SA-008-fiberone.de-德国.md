@@ -377,6 +377,16 @@ A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联�
 | 2026-10-15 | 来 | S | Re: Saga Marvell AC5 Series Fully Ready｜Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with … |  |
 | 2026-10-17 | 去 | S | Re: Saga Marvell AC5 Series Fully Ready |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：fiberone.de in:email；"fiberone.de" in:readme in:description；fiberone.de type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 成交记录（PI 包 · 自动汇总）
 
 - **Simon 的标签**（PI 包文件夹名）：**活跃**　|　收款：Xtransfer　|　买方抬头：NYNEX satellite OHG

@@ -286,6 +286,16 @@ A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌�
 | 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：megnet.co.uk in:email；"megnet.co.uk" in:readme in:description；megnet.co.uk type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 22 / 来 4）　|　**期间**：2024-12-23 → 2026-09-08　|　**最后去信**：2026-09-08

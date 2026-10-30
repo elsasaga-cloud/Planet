@@ -289,7 +289,7 @@ updated: 2026-10-30
 | 2026-08-12 | 来 | A | Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
 | 2026-08-12 | 来 | R | Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 6 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -307,7 +307,11 @@ updated: 2026-10-30
 
 - 2026-10-30：2026-08-07 Dijital Haber：Zhi Ling 被任命为 Yönetim Kurulu Üyesi、Başkanı 和 Kurumsal Yönetim Komitesi Üyesi — <https://www.dijitalhaber.com.tr/yonetim-kurulu-ceo-genel-mudur-atamalari/netas-yonetim-kurulu-baskanligi-gorevine-zhi-ling-getirildi-38870>
 
-待挖：领英公司页、KP、展会/活动、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：netas.com.tr in:email；"netas.com.tr" in:readme in:description；netas.com.tr type:org
+
+待挖：领英公司页、KP、展会/活动（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

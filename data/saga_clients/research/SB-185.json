@@ -247,5 +247,30 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti. · BT Hizmetleri ve BT Danışmanlığı · 2–10 çalışan · İstanbul Sancaktepe",
+    "url": "https://tr.linkedin.com/company/zeytek-bi%CC%87li%CC%87%C5%9Fi%CC%87m-ve-teknoloji%CC%87-%C3%BCr%C3%BCnleri%CC%87-san-ti%CC%87c-ltd-%C5%9Fti%CC%87",
+    "note": "",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：Mehmet Zeytinli — Genel Koordinatör（+90 216 755 72 33）；此前 Gunko Endüstriyel Sistemler Türkiye Satış Müdürü，亦曾任职 Asimetrik Metal / Asrack Kabinet、Dat Telekom、Legrand Group；RocketReach：Kamuran İpek（Sales Assistant）、Sinem Doğan（Bookkeeping），共 5 人",
+    "url": "https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670",
+    "note": "老板出身工业系统/机柜/Legrand 渠道，懂机柜与布线 → 工业交换机 + 机架 PoE 都能谈",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -198,6 +198,20 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金 |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：D&B：ONSIS ELEKTRIK ELEKTRONIK GUVENLIK SISTEMLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI · Ankara · Building Equipment Contractors · Key Principal Esef Taskiran — <https://www.dnb.com/business-directory/company-profiles/onsis-elektrik-elektronik-guvenlik-sistemleri-insaat-sanayi-ve-ticaret-limited-sirketi.0fc7751a528ed7eb618cb09f47a7e656>
+
+**KP**
+
+- 2026-10-30：RocketReach：Esef Taşkıran — Genel Müdür；Filiz Gündoğan — Muhasebe；Esra Çal — Accountant；公司约 6 人（Datanyze 页写 359 人 / $28.2M 明显失真，不采） — <https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f>　*安卡拉小型安防/弱电承包商*
+
+待挖：年报/财务、领英公司页、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T08:41:09Z

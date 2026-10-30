@@ -560,5 +560,20 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：impakt.com.pl in:email；\"impakt.com.pl\" in:readme in:description；impakt.com.pl type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

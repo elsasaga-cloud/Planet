@@ -197,6 +197,20 @@ updated: 2026-10-30
 |---|---|---|---|---|
 | 2025 | 表 | 表 | Simon 备注/兴趣栏｜没做过多交谈，要了名片和彩页 ； 9053566 23548 已加 902167557233 |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：Zeytek Bilişim ve Teknoloji Ürünleri San. Tic. Ltd. Şti. · BT Hizmetleri ve BT Danışmanlığı · 2–10 çalışan · İstanbul Sancaktepe — <https://tr.linkedin.com/company/zeytek-bi%CC%87li%CC%87%C5%9Fi%CC%87m-ve-teknoloji%CC%87-%C3%BCr%C3%BCnleri%CC%87-san-ti%CC%87c-ltd-%C5%9Fti%CC%87>
+
+**KP**
+
+- 2026-10-30：ZoomInfo：Mehmet Zeytinli — Genel Koordinatör（+90 216 755 72 33）；此前 Gunko Endüstriyel Sistemler Türkiye Satış Müdürü，亦曾任职 Asimetrik Metal / Asrack Kabinet、Dat Telekom、Legrand Group；RocketReach：Kamuran İpek（Sales Assistant）、Sinem Doğan（Bookkeeping），共 5 人 — <https://www.zoominfo.com/p/Mehmet-Zeytinli/-1518915670>　*老板出身工业系统/机柜/Legrand 渠道，懂机柜与布线 → 工业交换机 + 机架 PoE 都能谈*
+
+待挖：年报/财务、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z

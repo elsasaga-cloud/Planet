@@ -258,6 +258,16 @@ WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 | 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-02 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：dios-industries.com in:email；"dios-industries.com" in:readme in:description；DIOS ULTRA HD VIDEO SECURITY SYSTEMS type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 26 / 来 2）　|　**期间**：2024-07-05 → 2026-09-02　|　**最后去信**：2026-09-02

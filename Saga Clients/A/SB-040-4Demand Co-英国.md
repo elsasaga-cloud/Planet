@@ -240,6 +240,16 @@ WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上
 | 2024.8.10 | 表 | 表 | 10G MC｜问了2光4 |  |
 | 2026-03-27 | 去 | A | Marvell Managed Commercial Switches |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：4demand.co.uk in:email；"4demand.co.uk" in:readme in:description；4Demand Co type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：2 封（去 2 / 来 0）　|　**期间**：2024-11-20 → 2026-03-27　|　**最后去信**：2026-03-27

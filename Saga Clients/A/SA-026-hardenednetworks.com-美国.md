@@ -269,6 +269,16 @@ A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌�
 | 2026-01-16 | 去 | A | Re: Marvell Alleycat5 Solution |  |
 | 2026-02-12 | 去 | A | Updated Ethernet Switches Links |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：hardenednetworks.com in:email；"hardenednetworks.com" in:readme in:description；hardenednetworks.com type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 21 / 来 8）　|　**期间**：2024-05-07 → 2026-02-12　|　**最后去信**：2026-02-12

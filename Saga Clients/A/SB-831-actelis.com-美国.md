@@ -273,6 +273,21 @@ updated: 2026-10-30
 | 827 | 表 | 表 | 28bt｜有需求会说的 |  |
 | 929 | 表 | 表 | 群发了18 2.5G｜可能有用 |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：10-K FY2025（SEC，2026-03）：Revenues $3,671K（2024：$7,760K）· Gross profit $1,218K · GAAP net loss $(8,261)K（2024：$(4,374)K）· R&D $2,638K · S&M $2,866K；收入下滑归因于 2024 年两年期软件服务续约与 Washington D.C. 大单 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*上市公司（NASDAQ: ASNS）；亏损扩大、现金紧张、Nasdaq 最低股价风险（StockTitan 摘要）→ 账期要紧、单量小*
+- 2026-10-30：stockanalysis：Q2 2026 revenue $1.13M（+20.3%）· TTM $4.10M（−22%）· FY2025 revenue by geography：North America $2.31M 62.8% / EMEA $1.14M 31.0% / APAC $228K 6.2% · Employees 37 — <https://stockanalysis.com/stocks/asns/revenue/>
+
+**人事变动**
+
+- 2026-10-30：10-K：As of December 31, 2025 approximately 51 employees and contractors, of which 39 full-time（13 sales & marketing / 20 R&D-engineering-operations / 6 G&A）；34 in Israel, 15 in the U.S., 1 Europe, 1 Asia — <https://www.stocktitan.net/sec-filings/ASNS/10-k-actelis-networks-inc-files-annual-report-86520770001d.html>　*美国 15 人中含 VP Sales Casey Hurley（我方联系人）*
+
+待挖：领英公司页、KP、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：37 封（去 30 / 来 7）　|　**期间**：2024-06-21 → 2026-09-08　|　**最后去信**：2026-09-08

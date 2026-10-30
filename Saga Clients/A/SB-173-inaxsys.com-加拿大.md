@@ -229,6 +229,24 @@ updated: 2026-10-30
 | 2026-08-17 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-04 | 去 | A | 16 Port Industrial PoE Switch |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：Inaxsys Security Systems · 1,687 followers · Security and Investigations · 11–50 employees（21 on LinkedIn）· Montréal, Québec（Saint-Léonard）· Founded 2004 · Specialties incl. POE network switches；distributor, developer and supplier of open architecture VMS, Access Control/Alarm, Megapixel IP camera and POE networking — <https://ca.linkedin.com/company/inaxsys>
+
+**KP**
+
+- 2026-10-30：LinkedIn：Mark McRae — President；Alain Boisvert — VP International Sales & Product Development；Richard Foo — Sales Manager, Western Region；Juan Campos — Sales Manager, Central Region — <https://ca.linkedin.com/company/inaxsys>　*Boisvert 管产品开发 = OEM 交换机规格对口人*
+
+**新闻/招标**
+
+- 2026-10-30：LinkedIn 2026-09（Pipl Systems）：到访 Inaxsys 蒙特利尔拍 20 余年公司纪录片，提到 Mark McRae、Alain Boisvert、Muhammad Rahim；「grown into a manufacturer and distributor serving partners across Canada and the United States」 — <https://www.linkedin.com/in/mohammad-zamanpournpour-81907936/>
+
+待挖：年报/财务、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 20 / 来 6）　|　**期间**：2024-06-17 → 2026-09-04　|　**最后去信**：2026-09-04

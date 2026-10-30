@@ -405,5 +405,20 @@
   ],
   "web_facts": [],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：smart-protect.nrw in:email；\"smart-protect.nrw\" in:readme in:description；Smart-Protect type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

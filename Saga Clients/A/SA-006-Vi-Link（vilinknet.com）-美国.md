@@ -327,6 +327,24 @@ A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 
 | 2026-09-25 | 来 | R | Thank you - It looks good. I will take a look at the switch. What would be our cost? |  |
 | 2026-09-27 | 去 | R |  |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Crunchbase：Vilink Communications · Irvine, California · 11–50 · manufacturer of fiber optic digital transmission products · sales@vi-link.net · LinkedIn company/vilink-communications；NeverBounce：450 Goddard, Irvine 92618，约 25 名员工 — <https://www.crunchbase.com/organization/vilink-communications>
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：vilinknet.com in:email；"vilinknet.com" in:readme in:description；Vi-Link vilinknet.com type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：ProcessRegister：Vilink Communications, Inc.（Contact Robin Sun；旧址 2913 Saturn St. Brea CA）：产品线 analog/uncompressed/IP video over fiber、enterprise networks、ITS、media converter、video conferencing；NeverBounce 简介：unmanned vehicles / intelligent traffic systems / military applications；optical multiplexers；unmanaged industrial Ethernet switches — <https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm>　*PI 成单户；有自牌非管理工业交换机线 → 管理型/PoE 是补位；军用应用守界只谈 ITS/企业*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 成交记录（PI 包 · 自动汇总）
 
 - **Simon 的标签**（PI 包文件夹名）：**可发展**　|　买方抬头：Vi-Link, Inc.

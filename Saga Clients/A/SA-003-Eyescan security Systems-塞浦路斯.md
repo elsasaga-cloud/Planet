@@ -243,7 +243,7 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 - 网查（2026-10-30）：EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300 — <https://www.dnb.com/business-directory/company-profiles/eyescan-private-security-services-ltd.1ac629ee0e4fa28c2eb3603b85b97c55>
 - 网查（2026-10-30）：2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems — <https://eyescan.com.cy/about-us/>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -255,7 +255,11 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 
 - 2026-10-30：2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems — <https://eyescan.com.cy/about-us/>　*A-DEEP-01 网查镜像*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：eyescan.com.cy in:email；"eyescan.com.cy" in:readme in:description；Eyescan security Systems type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

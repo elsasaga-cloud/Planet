@@ -476,5 +476,30 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：LatMedia/front-end-task — Это тестовое задания для front-end разработчиков（★0，最近推送 2021-03-29）",
+    "url": "https://github.com/LatMedia/front-end-task",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：LatMedia/web-desing-task — Тестовое задания для потенциальных дизайнеров（★0，最近推送 2021-03-29）",
+    "url": "https://github.com/LatMedia/web-desing-task",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

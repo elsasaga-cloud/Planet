@@ -524,6 +524,16 @@
     "batch": "INTEL-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：sge.com.tr in:email；\"sge.com.tr\" in:readme in:description；sge.com.tr type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

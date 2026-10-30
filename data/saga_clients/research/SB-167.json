@@ -257,5 +257,30 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "D&B：ONSIS ELEKTRIK ELEKTRONIK GUVENLIK SISTEMLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI · Ankara · Building Equipment Contractors · Key Principal Esef Taskiran",
+    "url": "https://www.dnb.com/business-directory/company-profiles/onsis-elektrik-elektronik-guvenlik-sistemleri-insaat-sanayi-ve-ticaret-limited-sirketi.0fc7751a528ed7eb618cb09f47a7e656",
+    "note": "",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "RocketReach：Esef Taşkıran — Genel Müdür；Filiz Gündoğan — Muhasebe；Esra Çal — Accountant；公司约 6 人（Datanyze 页写 359 人 / $28.2M 明显失真，不采）",
+    "url": "https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f",
+    "note": "安卡拉小型安防/弱电承包商",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

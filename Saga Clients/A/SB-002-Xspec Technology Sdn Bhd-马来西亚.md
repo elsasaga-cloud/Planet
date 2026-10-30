@@ -247,6 +247,16 @@ updated: 2026-10-30
 | 2024-11-18 | 来 | R | 用户表跟进：推「引流机型」→ 对方「passive poe only」 |  |
 | 2024.6.14 | 表 | 表 | 发了商业poE 228信息｜24 port passive poe  后续成单 |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：xspectechnology.com in:email；"xspectechnology.com" in:readme in:description；Xspec Technology Sdn Bhd type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 成交记录（PI 包 · 自动汇总）
 
 - **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：XSPec Hospitech Sdn Bhd

@@ -188,7 +188,7 @@ updated: 2026-10-30
 
 **故事线**：土耳其·OEM 品牌商；登记坐实：Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + : HCS KABLOLAMA SİST。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424DGGPM-280W；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -196,11 +196,15 @@ updated: 2026-10-30
 
 - 2026-10-30：LinkedIn：HCS Kablolama Sistemleri · 867 takipçi · Bilgisayar Ağları Ürünleri · 51–200 çalışan · İstanbul Başakşehir · Kuruluş 2000；土耳其 + 海外经销商网络；近期帖：HCS DataLight SLT 室外单模光缆 — <https://tr.linkedin.com/company/hcskablolamasistemleri>
 
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：hescs.com in:email；"hescs.com" in:readme in:description
+
 **供应商/品牌关系**
 
 - 2026-10-30：GelecekBT 经销页：HCS 为土耳其本土全球品牌，铜缆 CAT6/6A/7 + 光纤 + MTP/MPO + 数据中心布线方案；Phy-FiXX 物理层管理平台 — <https://gelecekbt.com/hcs>　*自牌布线品牌、无有源设备线 → 「HCS 牌 PoE 交换机」OEM 切口*
 
-待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

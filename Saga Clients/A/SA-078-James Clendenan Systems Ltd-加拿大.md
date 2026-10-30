@@ -223,6 +223,16 @@ updated: 2026-10-30
 | 2026-08-26 | 来 | R | Request 1 – Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module… Molex MiniFit-JR for power, JST for alarm… |  |
 | 2026-08-31 | 来 | R | [image0.jpeg] Sent（回 Simon 08-30「a copy of the revised PI in USD」） |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：clendenan.ca in:email；"clendenan.ca" in:readme in:description；James Clendenan Systems Ltd. type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 成交记录（PI 包 · 自动汇总）
 
 - **Simon 的标签**（PI 包文件夹名）：**活跃**　|　收款：Xtransfer　|　轻度绑定　|　买方抬头：James Clendenan Systems Ltd.

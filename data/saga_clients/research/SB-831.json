@@ -525,5 +525,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "10-K FY2025（SEC，2026-03）：Revenues $3,671K（2024：$7,760K）· Gross profit $1,218K · GAAP net loss $(8,261)K（2024：$(4,374)K）· R&D $2,638K · S&M $2,866K；收入下滑归因于 2024 年两年期软件服务续约与 Washington D.C. 大单",
+    "url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+    "note": "上市公司（NASDAQ: ASNS）；亏损扩大、现金紧张、Nasdaq 最低股价风险（StockTitan 摘要）→ 账期要紧、单量小",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "10-K：As of December 31, 2025 approximately 51 employees and contractors, of which 39 full-time（13 sales & marketing / 20 R&D-engineering-operations / 6 G&A）；34 in Israel, 15 in the U.S., 1 Europe, 1 Asia",
+    "url": "https://www.stocktitan.net/sec-filings/ASNS/10-k-actelis-networks-inc-files-annual-report-86520770001d.html",
+    "note": "美国 15 人中含 VP Sales Casey Hurley（我方联系人）",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "stockanalysis：Q2 2026 revenue $1.13M（+20.3%）· TTM $4.10M（−22%）· FY2025 revenue by geography：North America $2.31M 62.8% / EMEA $1.14M 31.0% / APAC $228K 6.2% · Employees 37",
+    "url": "https://stockanalysis.com/stocks/asns/revenue/",
+    "note": "",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

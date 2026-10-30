@@ -209,7 +209,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 |---|---|---|---|---|
 | 2025 | 表 | 表 | Simon 备注/兴趣栏｜可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期 ； 网站打不开 可重 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -225,7 +225,11 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 - 2026-10-30：ZoomInfo：data center construction, electrical and mechanical contracting, automation solutions；clientele education / healthcare / construction — <https://www.zoominfo.com/c/tbi---telemobil/372637611>
 
-待挖：年报/财务、KP、展会/活动、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：tbi.com.tr in:email；"tbi.com.tr" in:readme in:description；Telemobil type:org
+
+待挖：年报/财务、KP、展会/活动（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

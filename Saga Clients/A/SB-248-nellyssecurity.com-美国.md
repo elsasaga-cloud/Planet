@@ -265,6 +265,24 @@ updated: 2026-10-30
 | 2026-07-30 | 去 | A | WiFi 7 Ready Access Switch |  |
 | 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Indeed：Nelly's Security LLC · CEO Sean Nelson · 11 to 50 · Revenue $1M–$5M · 5807 S Garnett Rd Suite E, Tulsa OK；2008 年 Claremore 车库起家，2010 转新品，2015 迁现址 — <https://www.indeed.com/cmp/Nelly's-Security-LLC-1>
+
+**人事变动**
+
+- 2026-10-30：PitchBook：Nelly's Security · Year Founded 2008 · Status Acquired/Merged · Latest Deal Type Buyout/LBO · Employees 19 · Corporate Office 501 North Aspen Avenue, Broken Arrow, OK 74012 — <https://pitchbook.com/profiles/company/302313-43>　*已被收购（LBO）→ 采购决策链可能变化，下次信里问「still the right contact?」*
+
+**供应商/品牌关系**
+
+- 2026-10-30：LeadIQ：Nelly's Security（Broken Arrow, OK；≈20 人）面向安防经销商批发：video surveillance, access control, alarm panels, home automation, PoE switches, networking tools；主营品牌 Uniview, L-Series, ZKTeco, Akuvox, 2GIG, Qolsys, PDK；含 NDAA-compliant 选项；经销商计划含 branding program — <https://leadiq.com/c/nellys-security/5a1dac702300005c00a1b363>　*L-Series 疑为自有标 → PoE 交换机贴标口子；对方重视 NDAA 合规（我方信里不提 NDAA，只给规格）*
+
+待挖：年报/财务、KP、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 27 / 来 6）　|　**期间**：2024-05-10 → 2026-08-31　|　**最后去信**：2026-08-31

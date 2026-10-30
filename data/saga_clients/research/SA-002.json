@@ -514,5 +514,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：SIMREX Corporation · Wireless Services · Buffalo, New York（1223 William St）· 5 employees on LinkedIn（Shari Tona — Administration Manager）；ZoomInfo：Manufacturing / Telecommunication Equipment · 11–50 · $5.9M · founded 1996 · Frank Neuperger General Manager",
+    "url": "https://www.linkedin.com/company/simrex-corporation",
+    "note": "",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：Frank Neuperger — General Manager, SIMREX（我方既有 KP，职务核实）",
+    "url": "https://www.zoominfo.com/c/simrex-corp/77234480",
+    "note": "",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：simrex.com in:email；\"simrex.com\" in:readme in:description；simrex.com type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -971,5 +971,1065 @@
 "\"elitteamsecurity.com\" in:readme in:description",
 "Elite Team Security Ltd type:org"
 ]
+},
+"SA-076": {
+"code": "SA-076",
+"name": "Telemobil",
+"domains": [
+"tbi.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"tbi.com.tr in:email",
+"\"tbi.com.tr\" in:readme in:description",
+"Telemobil type:org"
+]
+},
+"SA-077": {
+"code": "SA-077",
+"name": "Angora Networks",
+"domains": [
+"angoranetworks.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "anwHub",
+"url": "https://github.com/anwHub"
+}
+],
+"repos": [],
+"queries": [
+"angoranetworks.com in:email",
+"\"angoranetworks.com\" in:readme in:description",
+"Angora Networks type:org"
+]
+},
+"SA-078": {
+"code": "SA-078",
+"name": "James Clendenan Systems Ltd.",
+"domains": [
+"clendenan.ca"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"clendenan.ca in:email",
+"\"clendenan.ca\" in:readme in:description",
+"James Clendenan Systems Ltd. type:org"
+]
+},
+"SA-079": {
+"code": "SA-079",
+"name": "Biz-Ethics Ltd.（BEL Networks）",
+"domains": [
+"belnetworks.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"belnetworks.com in:email",
+"\"belnetworks.com\" in:readme in:description",
+"Biz-Ethics Ltd. BEL Networks type:org"
+]
+},
+"SA-080": {
+"code": "SA-080",
+"name": "PBA Forever Technology Co., Ltd.",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"PBA Forever Technology Co.  Ltd. type:org"
+]
+},
+"SA-082": {
+"code": "SA-082",
+"name": "ISIMKO GmbH,Guhrower Straße",
+"domains": [
+"isimko.de"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"isimko.de in:email",
+"\"isimko.de\" in:readme in:description",
+"ISIMKO GmbH Guhrower Straße type:org"
+]
+},
+"SA-085": {
+"code": "SA-085",
+"name": "HCS",
+"domains": [
+"hescs.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"hescs.com in:email",
+"\"hescs.com\" in:readme in:description"
+]
+},
+"SA-086": {
+"code": "SA-086",
+"name": "netas.com.tr",
+"domains": [
+"netas.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "sercan5534/GioDH",
+"url": "https://github.com/sercan5534/GioDH",
+"desc": "",
+"stars": 0,
+"pushed": "2016-09-01"
+},
+{
+"full_name": "rasimavci/sdk-test",
+"url": "https://github.com/rasimavci/sdk-test",
+"desc": "",
+"stars": 0,
+"pushed": "2020-06-08"
+}
+],
+"queries": [
+"netas.com.tr in:email",
+"\"netas.com.tr\" in:readme in:description",
+"netas.com.tr type:org"
+]
+},
+"SA-090": {
+"code": "SA-090",
+"name": "WizardsInc Sdn Bhd",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"WizardsInc Sdn Bhd type:org"
+]
+},
+"SB-001": {
+"code": "SB-001",
+"name": "resonantnetworks.com",
+"domains": [
+"resonantnetworks.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"resonantnetworks.com in:email",
+"\"resonantnetworks.com\" in:readme in:description",
+"resonantnetworks.com type:org"
+]
+},
+"SB-002": {
+"code": "SB-002",
+"name": "Xspec Technology Sdn Bhd",
+"domains": [
+"xspectechnology.com",
+"xspec.com.my"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"xspectechnology.com in:email",
+"\"xspectechnology.com\" in:readme in:description",
+"Xspec Technology Sdn Bhd type:org"
+]
+},
+"SB-003": {
+"code": "SB-003",
+"name": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
+"domains": [
+"rio-krsk.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"rio-krsk.ru in:email",
+"\"rio-krsk.ru\" in:readme in:description",
+"Rio-Import LLC ООО  РИО-ИМПОРТ type:org"
+]
+},
+"SB-006": {
+"code": "SB-006",
+"name": "unitedcontrolengg.com",
+"domains": [
+"unitedcontrolengg.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"unitedcontrolengg.com in:email",
+"\"unitedcontrolengg.com\" in:readme in:description",
+"unitedcontrolengg.com type:org"
+]
+},
+"SB-010": {
+"code": "SB-010",
+"name": "americanfibertek.com",
+"domains": [
+"americanfibertek.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"americanfibertek.com in:email",
+"\"americanfibertek.com\" in:readme in:description",
+"americanfibertek.com type:org"
+]
+},
+"SB-018": {
+"code": "SB-018",
+"name": "Smart-Protect",
+"domains": [
+"smart-protect.nrw",
+"walker-security.systems"
+],
+"users": [],
+"orgs": [
+{
+"login": "smart-protection",
+"url": "https://github.com/smart-protection"
+},
+{
+"login": "smart-protection-archived",
+"url": "https://github.com/smart-protection-archived"
+}
+],
+"repos": [],
+"queries": [
+"smart-protect.nrw in:email",
+"\"smart-protect.nrw\" in:readme in:description",
+"Smart-Protect type:org"
+]
+},
+"SB-020": {
+"code": "SB-020",
+"name": "52networks.com",
+"domains": [
+"52networks.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"52networks.com in:email",
+"\"52networks.com\" in:readme in:description",
+"52networks.com type:org"
+]
+},
+"SB-022": {
+"code": "SB-022",
+"name": "Desk Technologies",
+"domains": [
+"desk-sicherheit.de"
+],
+"users": [],
+"orgs": [
+{
+"login": "Deskangle-Studios",
+"url": "https://github.com/Deskangle-Studios"
+},
+{
+"login": "desktop-ng",
+"url": "https://github.com/desktop-ng"
+},
+{
+"login": "Desk-Technologies",
+"url": "https://github.com/Desk-Technologies"
+},
+{
+"login": "Desklay-Technologies",
+"url": "https://github.com/Desklay-Technologies"
+},
+{
+"login": "orgcorith",
+"url": "https://github.com/orgcorith"
+}
+],
+"repos": [],
+"queries": [
+"desk-sicherheit.de in:email",
+"\"desk-sicherheit.de\" in:readme in:description",
+"Desk Technologies type:org"
+]
+},
+"SB-027": {
+"code": "SB-027",
+"name": "VoIPDistri",
+"domains": [
+"voipdistri.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"voipdistri.com in:email",
+"\"voipdistri.com\" in:readme in:description",
+"VoIPDistri type:org"
+]
+},
+"SB-031": {
+"code": "SB-031",
+"name": "OM Telecom S.R.L.",
+"domains": [
+"om-telecom.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"om-telecom.com in:email",
+"\"om-telecom.com\" in:readme in:description",
+"OM Telecom S.R.L. type:org"
+]
+},
+"SB-038": {
+"code": "SB-038",
+"name": "tricomp.com.pl",
+"domains": [
+"tricomp.com.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"tricomp.com.pl in:email",
+"\"tricomp.com.pl\" in:readme in:description",
+"tricomp.com.pl type:org"
+]
+},
+"SB-040": {
+"code": "SB-040",
+"name": "4Demand Co",
+"domains": [
+"4demand.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"4demand.co.uk in:email",
+"\"4demand.co.uk\" in:readme in:description",
+"4Demand Co type:org"
+]
+},
+"SB-043": {
+"code": "SB-043",
+"name": "Euro Technology",
+"domains": [
+"eurotechnology.ae",
+"netontechnologies.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "EurostarDigital",
+"url": "https://github.com/EurostarDigital"
+},
+{
+"login": "european-epc-competence-center",
+"url": "https://github.com/european-epc-competence-center"
+},
+{
+"login": "eurodyn",
+"url": "https://github.com/eurodyn"
+},
+{
+"login": "eurolink",
+"url": "https://github.com/eurolink"
+},
+{
+"login": "EurofficeGroup",
+"url": "https://github.com/EurofficeGroup"
+}
+],
+"repos": [],
+"queries": [
+"eurotechnology.ae in:email",
+"\"eurotechnology.ae\" in:readme in:description",
+"Euro Technology type:org"
+]
+},
+"SB-047": {
+"code": "SB-047",
+"name": "topica.mn",
+"domains": [
+"topica.mn"
+],
+"users": [],
+"orgs": [
+{
+"login": "topica-mn",
+"url": "https://github.com/topica-mn"
+}
+],
+"repos": [],
+"queries": [
+"topica.mn in:email",
+"\"topica.mn\" in:readme in:description",
+"topica.mn type:org"
+]
+},
+"SB-053": {
+"code": "SB-053",
+"name": "onnettechnologies.com",
+"domains": [
+"onnettechnologies.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"onnettechnologies.com in:email",
+"\"onnettechnologies.com\" in:readme in:description",
+"onnettechnologies.com type:org"
+]
+},
+"SB-055": {
+"code": "SB-055",
+"name": "DIOS ULTRA HD VIDEO SECURITY SYSTEMS",
+"domains": [
+"dios-industries.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"dios-industries.com in:email",
+"\"dios-industries.com\" in:readme in:description",
+"DIOS ULTRA HD VIDEO SECURITY SYSTEMS type:org"
+]
+},
+"SB-056": {
+"code": "SB-056",
+"name": "Net Work Business Solutions",
+"domains": [
+"nbs.ee"
+],
+"users": [],
+"orgs": [
+{
+"login": "Net-Buddies",
+"url": "https://github.com/Net-Buddies"
+}
+],
+"repos": [],
+"queries": [
+"nbs.ee in:email",
+"\"nbs.ee\" in:readme in:description",
+"Net Work Business Solutions type:org"
+]
+},
+"SB-057": {
+"code": "SB-057",
+"name": "Rfcom",
+"domains": [
+"rfcom.gr"
+],
+"users": [],
+"orgs": [
+{
+"login": "rfcomputing",
+"url": "https://github.com/rfcomputing"
+}
+],
+"repos": [],
+"queries": [
+"rfcom.gr in:email",
+"\"rfcom.gr\" in:readme in:description",
+"Rfcom type:org"
+]
+},
+"SB-059": {
+"code": "SB-059",
+"name": "avanca.com.sg",
+"domains": [
+"avanca.com.sg"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"avanca.com.sg in:email",
+"\"avanca.com.sg\" in:readme in:description",
+"avanca.com.sg type:org"
+]
+},
+"SB-063": {
+"code": "SB-063",
+"name": "Avesta",
+"domains": [
+"avestatek.co.uk"
+],
+"users": [],
+"orgs": [
+{
+"login": "avesta-hq",
+"url": "https://github.com/avesta-hq"
+},
+{
+"login": "Multimedia-Avesta",
+"url": "https://github.com/Multimedia-Avesta"
+},
+{
+"login": "Avesta-Company",
+"url": "https://github.com/Avesta-Company"
+},
+{
+"login": "AvestaLang",
+"url": "https://github.com/AvestaLang"
+},
+{
+"login": "abisteco",
+"url": "https://github.com/abisteco"
+}
+],
+"repos": [],
+"queries": [
+"avestatek.co.uk in:email",
+"\"avestatek.co.uk\" in:readme in:description",
+"Avesta type:org"
+]
+},
+"SB-071": {
+"code": "SB-071",
+"name": "nkstech.net",
+"domains": [
+"nkstech.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"nkstech.net in:email",
+"\"nkstech.net\" in:readme in:description",
+"nkstech.net type:org"
+]
+},
+"SB-074": {
+"code": "SB-074",
+"name": "Bilge SECURITY SYSTEMS",
+"domains": [
+"bilgeguvenlik.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bilgeguvenlik.com in:email",
+"\"bilgeguvenlik.com\" in:readme in:description",
+"Bilge SECURITY SYSTEMS type:org"
+]
+},
+"SB-077": {
+"code": "SB-077",
+"name": "Liveye",
+"domains": [
+"liveye.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "LivEye-GmbH",
+"url": "https://github.com/LivEye-GmbH"
+},
+{
+"login": "liveyet",
+"url": "https://github.com/liveyet"
+}
+],
+"repos": [],
+"queries": [
+"liveye.com in:email",
+"\"liveye.com\" in:readme in:description",
+"Liveye type:org"
+]
+},
+"SB-079": {
+"code": "SB-079",
+"name": "cansisteknoloji.com",
+"domains": [
+"cansisteknoloji.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"cansisteknoloji.com in:email",
+"\"cansisteknoloji.com\" in:readme in:description",
+"cansisteknoloji.com type:org"
+]
+},
+"SB-085": {
+"code": "SB-085",
+"name": "DIGI Group",
+"domains": [
+"thorfiber.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "DigitalNatureGroup",
+"url": "https://github.com/DigitalNatureGroup"
+},
+{
+"login": "digitalmethodsinitiative",
+"url": "https://github.com/digitalmethodsinitiative"
+},
+{
+"login": "digitopvn",
+"url": "https://github.com/digitopvn"
+},
+{
+"login": "digitalinteraction",
+"url": "https://github.com/digitalinteraction"
+},
+{
+"login": "diging",
+"url": "https://github.com/diging"
+}
+],
+"repos": [],
+"queries": [
+"thorfiber.com in:email",
+"\"thorfiber.com\" in:readme in:description",
+"DIGI Group type:org"
+]
+},
+"SB-093": {
+"code": "SB-093",
+"name": "konakguvenlik.com.tr",
+"domains": [
+"konakguvenlik.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"konakguvenlik.com.tr in:email",
+"\"konakguvenlik.com.tr\" in:readme in:description",
+"konakguvenlik.com.tr type:org"
+]
+},
+"SB-1026": {
+"code": "SB-1026",
+"name": "epygi.com",
+"domains": [
+"epygi.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "SevereCloud/arti",
+"url": "https://github.com/SevereCloud/arti",
+"desc": "arti with snowflake, obfs4proxy and webtunnel",
+"stars": 4,
+"pushed": "2026-10-26"
+},
+{
+"full_name": "ja7ad/snowflake",
+"url": "https://github.com/ja7ad/snowflake",
+"desc": "Snowflake module",
+"stars": 0,
+"pushed": "2023-03-07"
+},
+{
+"full_name": "leon0625/myip",
+"url": "https://github.com/leon0625/myip",
+"desc": "使用stun协议，查询自己的公网IPv4地址",
+"stars": 0,
+"pushed": "2025-11-21"
+},
+{
+"full_name": "ppijbb/Active_WebRTC_STUN_Servers",
+"url": "https://github.com/ppijbb/Active_WebRTC_STUN_Servers",
+"desc": "사용 가능한 stun 서버 목록",
+"stars": 0,
+"pushed": "2023-01-30"
+},
+{
+"full_name": "Soji-lion/snowflake_staging_test",
+"url": "https://github.com/Soji-lion/snowflake_staging_test",
+"desc": "",
+"stars": 0,
+"pushed": "2026-10-16"
+}
+],
+"queries": [
+"epygi.com in:email",
+"\"epygi.com\" in:readme in:description",
+"epygi.com type:org"
+]
+},
+"SB-103": {
+"code": "SB-103",
+"name": "Grundig",
+"domains": [
+"grundig-security.com",
+"abetechs.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "GRUNDIG-Business-Systems-GmbH-Co-KG",
+"url": "https://github.com/GRUNDIG-Business-Systems-GmbH-Co-KG"
+},
+{
+"login": "grundig41",
+"url": "https://github.com/grundig41"
+},
+{
+"login": "grundig-akademie",
+"url": "https://github.com/grundig-akademie"
+},
+{
+"login": "grundigegryndere",
+"url": "https://github.com/grundigegryndere"
+},
+{
+"login": "Grundigt",
+"url": "https://github.com/Grundigt"
+}
+],
+"repos": [],
+"queries": [
+"grundig-security.com in:email",
+"\"grundig-security.com\" in:readme in:description",
+"Grundig type:org"
+]
+},
+"SB-1031": {
+"code": "SB-1031",
+"name": "findcontrols.com",
+"domains": [
+"findcontrols.com",
+"ralakde.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"findcontrols.com in:email",
+"\"findcontrols.com\" in:readme in:description",
+"findcontrols.com type:org"
+]
+},
+"SB-104": {
+"code": "SB-104",
+"name": "STS Italia S.r.l.",
+"domains": [
+"stsitalia.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"stsitalia.com in:email",
+"\"stsitalia.com\" in:readme in:description",
+"STS Italia S.r.l. type:org"
+]
+},
+"SB-109": {
+"code": "SB-109",
+"name": "ite.net.pk",
+"domains": [
+"ite.net.pk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ite.net.pk in:email",
+"\"ite.net.pk\" in:readme in:description",
+"ite.net.pk type:org"
+]
+},
+"SB-110": {
+"code": "SB-110",
+"name": "itkati.com",
+"domains": [
+"itkati.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"itkati.com in:email",
+"\"itkati.com\" in:readme in:description",
+"itkati.com type:org"
+]
+},
+"SB-1102": {
+"code": "SB-1102",
+"name": "vienthonggiatot.com",
+"domains": [
+"vienthonggiatot.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"vienthonggiatot.com in:email",
+"\"vienthonggiatot.com\" in:readme in:description",
+"vienthonggiatot.com type:org"
+]
+},
+"SB-111": {
+"code": "SB-111",
+"name": "nivoxtech.com",
+"domains": [
+"nivoxtech.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"nivoxtech.com in:email",
+"\"nivoxtech.com\" in:readme in:description",
+"nivoxtech.com type:org"
+]
+},
+"SB-1113": {
+"code": "SB-1113",
+"name": "Fastball",
+"domains": [
+"fastball.in"
+],
+"users": [],
+"orgs": [
+{
+"login": "fastball-projects",
+"url": "https://github.com/fastball-projects"
+}
+],
+"repos": [
+{
+"full_name": "jbgo/fastball",
+"url": "https://github.com/jbgo/fastball",
+"desc": "The safest, fastest way to build and deploy dynamic applications.",
+"stars": 4,
+"pushed": "2015-10-12"
+},
+{
+"full_name": "byeongjokim/Automatic-Baseball-Commentary-Generation-Using-DeepLearning",
+"url": "https://github.com/byeongjokim/Automatic-Baseball-Commentary-Generation-Using-DeepLearning",
+"desc": "Automatic Baseball Commentary Generation Using Deep Learning (SAC 2020)",
+"stars": 21,
+"pushed": "2019-12-06"
+},
+{
+"full_name": "ASillyNeko/BT",
+"url": "https://github.com/ASillyNeko/BT",
+"desc": "",
+"stars": 0,
+"pushed": "2025-08-01"
+},
+{
+"full_name": "sumner2799/baseball-puzzles",
+"url": "https://github.com/sumner2799/baseball-puzzles",
+"desc": "Data-driven research in response to questions I have about the game of baseball",
+"stars": 0,
+"pushed": "2025-06-07"
+},
+{
+"full_name": "sofiaespinoza3918/orioles-data-project",
+"url": "https://github.com/sofiaespinoza3918/orioles-data-project",
+"desc": "Data pipeline and analytics system using MLB Stats API to ingest, store, and analyze pitch-level data (2024–2025 seasons",
+"stars": 0,
+"pushed": "2026-04-06"
+},
+{
+"full_name": "j0urney0/Baseball_project2",
+"url": "https://github.com/j0urney0/Baseball_project2",
+"desc": "",
+"stars": 0,
+"pushed": "2025-07-02"
+},
+{
+"full_name": "jeanlucjackson/strikezone_arcade_project",
+"url": "https://github.com/jeanlucjackson/strikezone_arcade_project",
+"desc": "StrikeZone Arcade — a command line baseball game from the perspective of a pitcher on the mound.",
+"stars": 0,
+"pushed": "2026-09-06"
+},
+{
+"full_name": "sc47006/Pitch_Recognition_Scores",
+"url": "https://github.com/sc47006/Pitch_Recognition_Scores",
+"desc": "Pitch Recognition and Aggressiveness Scores For MLB Hitters",
+"stars": 0,
+"pushed": "2021-10-26"
+},
+{
+"full_name": "sahil-luthra/dataviz-jterm-2020",
+"url": "https://github.com/sahil-luthra/dataviz-jterm-2020",
+"desc": "",
+"stars": 0,
+"pushed": "2023-08-22"
+},
+{
+"full_name": "mattludwig6/Pitching-Control-Metric",
+"url": "https://github.com/mattludwig6/Pitching-Control-Metric",
+"desc": "Generating distribution estimates and control metrics for mlb pitchers",
+"stars": 0,
+"pushed": "2025-06-11"
+}
+],
+"queries": [
+"fastball.in in:email",
+"\"fastball.in\" in:readme in:description",
+"Fastball type:org"
+]
+},
+"SB-1114": {
+"code": "SB-1114",
+"name": "Fikes Media",
+"domains": [
+"fikesmedia.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "cfikes/TexasFreedomRadio-WebApp",
+"url": "https://github.com/cfikes/TexasFreedomRadio-WebApp",
+"desc": "HTML5 Mobile Application",
+"stars": 1,
+"pushed": "2014-05-27"
+},
+{
+"full_name": "cfikes/TexasFreedomRadio",
+"url": "https://github.com/cfikes/TexasFreedomRadio",
+"desc": "Texas Freedom Radio",
+"stars": 0,
+"pushed": "2015-07-01"
+},
+{
+"full_name": "FikesMedia/Open-Roster-SFTP-AD-Sync-Tool",
+"url": "https://github.com/FikesMedia/Open-Roster-SFTP-AD-Sync-Tool",
+"desc": "Sync from OpenRoster students.csv export located on SFTP to AD",
+"stars": 0,
+"pushed": "2022-08-24"
+}
+],
+"queries": [
+"fikesmedia.com in:email",
+"\"fikesmedia.com\" in:readme in:description",
+"Fikes Media type:org"
+]
+},
+"SB-1115": {
+"code": "SB-1115",
+"name": "Milliseconds Evolution Limited",
+"domains": [
+"millievolution.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"millievolution.com in:email",
+"\"millievolution.com\" in:readme in:description",
+"Milliseconds Evolution Limited type:org"
+]
+},
+"SB-1116": {
+"code": "SB-1116",
+"name": "Litech (Pvt) Ltd",
+"domains": [
+"litech.com.pk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"litech.com.pk in:email",
+"\"litech.com.pk\" in:readme in:description",
+"Litech  Pvt  Ltd type:org"
+]
+},
+"SB-1120": {
+"code": "SB-1120",
+"name": "Obmac systems 可以推一下",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"Obmac systems 可以推一下 type:org"
+]
+},
+"SB-1122": {
+"code": "SB-1122",
+"name": "comtinu.ru",
+"domains": [
+"comtinu.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"comtinu.ru in:email",
+"\"comtinu.ru\" in:readme in:description",
+"comtinu.ru type:org"
+]
+},
+"SB-1132": {
+"code": "SB-1132",
+"name": "nedic.aleksandar@gmail.com",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"nedic.aleksandar gmail.com type:org"
+]
+},
+"SB-1134": {
+"code": "SB-1134",
+"name": "conexionderedes.com",
+"domains": [
+"conexionderedes.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"conexionderedes.com in:email",
+"\"conexionderedes.com\" in:readme in:description",
+"conexionderedes.com type:org"
+]
+},
+"SB-1135": {
+"code": "SB-1135",
+"name": "raisecom.su",
+"domains": [
+"raisecom.su"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"raisecom.su in:email",
+"\"raisecom.su\" in:readme in:description",
+"raisecom.su type:org"
+]
 }
 }

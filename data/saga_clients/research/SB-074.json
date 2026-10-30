@@ -219,5 +219,40 @@
   "timeline": [],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş · 135 followers · Security Systems Services · 11–50 employees · İstanbul · Founded 2004；业务 CCTV、Zayıf Akım、Yapısal Kablolama、Trafik Yönetim",
+    "url": "https://www.linkedin.com/company/bilge-g%C3%BCvenlik-sistemleri-teknoloji-a-%C5%9F/",
+    "note": "",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "官网 Kurumsal：Bilge Güvenlik ve Teknoloji A.Ş.，2003 年成立，İstanbul / Ankara / İzmir 三地分支，电子安防系统集成商",
+    "url": "https://www.bilgeguvenlik.com/tr/kurumsal",
+    "note": "",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "LinkedIn 1 个月前帖：「Güneydoğu Avrupa yılın en iyi partneri Bilge Teknoloji. #milestone #MDXistanbul #BestChannelPartneroftheYear」——获某厂商东南欧年度最佳渠道伙伴",
+    "url": "https://www.linkedin.com/company/bilge-g%C3%BCvenlik-sistemleri-teknoloji-a-%C5%9F/",
+    "note": "厂商未在摘要中标出（标签 MDXistanbul）；说明其在某主流品牌渠道体系内",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

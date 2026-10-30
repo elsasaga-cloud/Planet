@@ -268,6 +268,24 @@ A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其�
 | 2026-07-21 | 去 | S | Re: 24 Port 10G SFP+ Switch | $120 / $130 / $1500 / $209 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：SIMREX Corporation · Wireless Services · Buffalo, New York（1223 William St）· 5 employees on LinkedIn（Shari Tona — Administration Manager）；ZoomInfo：Manufacturing / Telecommunication Equipment · 11–50 · $5.9M · founded 1996 · Frank Neuperger General Manager — <https://www.linkedin.com/company/simrex-corporation>
+
+**KP**
+
+- 2026-10-30：ZoomInfo：Frank Neuperger — General Manager, SIMREX（我方既有 KP，职务核实） — <https://www.zoominfo.com/c/simrex-corp/77234480>
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：simrex.com in:email；"simrex.com" in:readme in:description；simrex.com type:org
+
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：32 封（去 25 / 来 7）　|　**期间**：2024-12-04 → 2026-09-08　|　**最后去信**：2026-09-08

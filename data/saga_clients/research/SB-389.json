@@ -239,5 +239,30 @@
   "timeline": [],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "官网：HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ，BTK 授权 ISP；地址 Binbaşı Reşatbey Mah. 351 Sok. Şükrü Ölçer İş Merkezi No:2 Gaziemir / İzmir；客服 0850 840 98 83",
+    "url": "https://hiperonline.com.tr/eskisehir-metro-ethernet-internet",
+    "note": "总部在伊兹密尔 Gaziemir，Eskişehir 是自建光纤 + Airfiber 无线的重点城市",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "官网：Eskişehir 自建 fiber + kablosuz（Airfiber 100 Mbps）；81 il 通过批发线路提供 fiber / VDSL；企业 Metro Ethernet 最高 10.000 Mbps；GigaHiper 1000 Mbps 套餐",
+    "url": "https://hiperonline.com.tr/eskisehir-internet",
+    "note": "ISP 自建网 → 接入/汇聚交换机、SFP 需求真实",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

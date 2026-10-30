@@ -184,6 +184,24 @@ WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+�
 
 **故事线**：土耳其·分销商；登记线索：TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology: Bilge Güvenlik Sis。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：官网 Kurumsal：Bilge Güvenlik ve Teknoloji A.Ş.，2003 年成立，İstanbul / Ankara / İzmir 三地分支，电子安防系统集成商 — <https://www.bilgeguvenlik.com/tr/kurumsal>
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：Bilge Güvenlik Sistemleri ve Teknoloji A.Ş · 135 followers · Security Systems Services · 11–50 employees · İstanbul · Founded 2004；业务 CCTV、Zayıf Akım、Yapısal Kablolama、Trafik Yönetim — <https://www.linkedin.com/company/bilge-g%C3%BCvenlik-sistemleri-teknoloji-a-%C5%9F/>
+
+**新闻/招标**
+
+- 2026-10-30：LinkedIn 1 个月前帖：「Güneydoğu Avrupa yılın en iyi partneri Bilge Teknoloji. #milestone #MDXistanbul #BestChannelPartneroftheYear」——获某厂商东南欧年度最佳渠道伙伴 — <https://www.linkedin.com/company/bilge-g%C3%BCvenlik-sistemleri-teknoloji-a-%C5%9F/>　*厂商未在摘要中标出（标签 MDXistanbul）；说明其在某主流品牌渠道体系内*
+
+待挖：年报/财务、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：A 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z

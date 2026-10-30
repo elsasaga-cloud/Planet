@@ -831,5 +831,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Crunchbase：Vilink Communications · Irvine, California · 11–50 · manufacturer of fiber optic digital transmission products · sales@vi-link.net · LinkedIn company/vilink-communications；NeverBounce：450 Goddard, Irvine 92618，约 25 名员工",
+    "url": "https://www.crunchbase.com/organization/vilink-communications",
+    "note": "",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "ProcessRegister：Vilink Communications, Inc.（Contact Robin Sun；旧址 2913 Saturn St. Brea CA）：产品线 analog/uncompressed/IP video over fiber、enterprise networks、ITS、media converter、video conferencing；NeverBounce 简介：unmanned vehicles / intelligent traffic systems / military applications；optical multiplexers；unmanaged industrial Ethernet switches",
+    "url": "https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm",
+    "note": "PI 成单户；有自牌非管理工业交换机线 → 管理型/PoE 是补位；军用应用守界只谈 ITS/企业",
+    "batch": "INTEL-03",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：vilinknet.com in:email；\"vilinknet.com\" in:readme in:description；Vi-Link vilinknet.com type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

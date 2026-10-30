@@ -434,7 +434,7 @@ A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Tele
 | 2026-08-17 | 去 | R |  |  |
 | 2026-10-03 | 来 | R | Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same … |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -450,11 +450,15 @@ A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Tele
 
 - 2026-10-30：ICT Media 2023-06：Levent KILIÇ：「Biz kendi satışlarımızı kendi markamız ile yapıyoruz ama yeterli sayıda, büyüklükte projeler olduğu zaman OEM ürünlerde üretebiliyoruz」；Teknokent’e geçtik，yazılım tarafı büyüyor — <https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir>　*自牌为主、也接 OEM；SD-WAN / 软件方向*
 
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：angoranetworks.com in:email；"angoranetworks.com" in:readme in:description；Angora Networks type:org（同名无关组织/仓库已剔除）
+
 **供应商/品牌关系**
 
 - 2026-10-30：官网：Turkey’s network equipment manufacturer；2023-12 Data Diode 支持 ModBUS/OPC；2021-06 PacketFence NAC 集成；Turkish Cyber Security Cluster 成员 — <https://www.angoranetworks.com/?lang=en>　*本地化制造叙事（yerli）→ Saga 只做零部件级/白牌供货，不抢其品牌*
 
-待挖：年报/财务、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+待挖：年报/财务、人事变动、展会/活动（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

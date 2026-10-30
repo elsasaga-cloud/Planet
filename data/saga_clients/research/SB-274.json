@@ -246,5 +246,40 @@
   "timeline": [],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Google Play 开发者信息：FIBERIX ILETISIM HIZMETLERI LIMITED SIRKETI · Gazi Mahallesi Zübeyde Hanım Bulvarı No:74-A, Şehitkamil 27001 Gaziantep · +90 850 333 27 00 · destek@fiberix.com.tr；自有客户 App（合同/账单/故障）",
+    "url": "https://play.google.com/store/apps/details?id=co.fiberix_oim_app.android&hl=en_US",
+    "note": "",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "论坛/社区",
+    "date": "2026-10-30",
+    "quote": "Şikayetvar：Fiberix internet müşteri hizmetleri 31 şikayet——Şahinbey / Şehitkamil 用户投诉频繁断网、100 Mbps 12 月合约 410 TL/月、2025-05 安装费争议",
+    "url": "https://www.sikayetvar.com/fiberix/internet/musteri-hizmetleri",
+    "note": "居民 FTTH 运营商，网络稳定性被投诉 → 汇聚/接入交换机升级是切口",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "elemanonline：Fiberix İletişim Hizmetleri Ltd. Şti.（Gaziantep，İnternet Servis Sağlayıcısı）在招聘平台有雇主档案",
+    "url": "https://www.elemanonline.com.tr/firma/fiberix-iletisim-hizmetleri-ltd-sti/519b526100000a4600000a46",
+    "note": "",
+    "batch": "INTEL-02",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

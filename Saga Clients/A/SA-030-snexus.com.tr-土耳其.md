@@ -271,7 +271,7 @@ A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度
 | 2026-08-13 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -283,11 +283,15 @@ A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度
 
 - 2026-10-30：LinkedIn：Erdem Timur Koca — SNEXUS NETWORKS，15+ 年 IT 销售/BD；ZyXEL Certified Network Professional（Switch/Security/Wireless）、EnGenius Network Associate；帖子：「ISN-GS2300-10FP Industrial is one of our top-selling industrial switches」 — <https://www.linkedin.com/in/erdem-timur-koca-01565b63/>　*前 ZyXEL/EnGenius 渠道背景；工业 10 口 PoE 是其畅销款 → STI-288DGGPM 对位*
 
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：snexus.com.tr in:email；"snexus.com.tr" in:readme in:description；snexus.com.tr type:org
+
 **供应商/品牌关系**
 
 - 2026-10-30：官网产品线：Plug & Play Megabit/Gigabit PoE Series · Managed Gigabit · Managed 10G · Fiber Backbone Switches · Industrial Switches · Modules（自有品牌 Snexus） — <https://www.snexus.com.tr/en>　*自牌全系交换机 → OEM 30% 档，白牌来源可替换*
 
-待挖：年报/财务、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -289,6 +289,16 @@ WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 | 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-25 | 去 | A | Managed PoE Switches |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：eurotechnology.ae in:email；"eurotechnology.ae" in:readme in:description；Euro Technology type:org（同名无关组织/仓库已剔除）
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 36 / 来 2）　|　**期间**：2024-06-16 → 2026-09-25　|　**最后去信**：2026-09-25
