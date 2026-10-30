@@ -280,9 +280,13 @@ A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在�
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 | 927 | 表 | 表 | 154｜price and moq |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：energyplusystems.cl：Energy Plus Systems · RUT 76762149-3 · 6 ½ Oriente #270, Viña del Mar · +56 9 9218 8218 · Ventas Ling Fuentes · ventas@energyplusystems.cl · 产品线：Cables mineros, Variadores de frecuencia, Partidores suaves, **Switch Industriales**, IoT, Telcom Networking, Transformadores · 「experiencia por más de 15 años」 — <https://energyplusystems.cl/>　*智利矿业/工业技术供应商，目录里已有工业交换机品类；销售对口 Ling Fuentes*
 
 **GitHub/技术足迹**
 

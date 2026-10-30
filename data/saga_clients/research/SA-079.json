@@ -465,6 +465,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ng-check：BIZ-ETHICS LIMITED · RC 401375 · registered 2001-01-23, Ikeja · 30/31 Otigba Street, Computer Village, Ikeja, Lagos · Directors Okafor Chidi Ogonna, Mbata Valentine, Mbata Livinus, Odiachi Evelyn, Mbata Evelyn, Mbata Uchechukwu Samuel；ngcontacts：「Sales of Computers, Networking (Wired/Wireless) Equipments, Surveillance & Access Control Systems and Power-Conditioning Equipment」",
+    "url": "https://ng-check.com/biz-ethics-limited/938121.html",
+    "note": "PI 成单户（BEL Networks 自牌 BNSC-）：拉各斯电脑城（Computer Village）网络设备经销，Mbata 家族企业",
+    "batch": "INTEL-19",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

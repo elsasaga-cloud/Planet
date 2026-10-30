@@ -57,6 +57,14 @@ DEMOTE = {
 }
 
 
+DEMOTE10 = {  # A-DEEP-10（T29-U143 2026-10-30）：俄语区网查
+    'SA-035': 'ТД Фарадей Электроникс：6 人、年销 ≈$1.1M 的电源贸易公司 → 微型',
+    'SA-064': 'ОПТА：一人招投标贸易公司（年销 ≈$250K）→ 个人（回信最勤，B1 重点；Simon 标「比较重要」留备注）',
+    'SB-1122': 'Комтиню：3 人、收入 −85% 转亏 → 微型',
+    'SB-487': 'НПО Телеком：主业为执法部门合法监听（ОРМ/СОРМ）通信设备 → 守界 + 制裁风险',
+    'SA-067': 'Latmedia Group：实为塔什干数字营销代理 → 品类不对位',
+    'SB-1135': 'DEALER / raisecom.su：主体不可核 + Simon 此前判「不行」',
+}
 DEMOTE9 = {  # A-DEEP-09（T29-U143 2026-10-30）：中东/欧洲网查
     'SC-097': '3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界',
     'SB-924': 'Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办',
@@ -106,8 +114,8 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     cnt = Counter()
     rows = []
-    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()) + list(DEMOTE8.items()) + list(DEMOTE9.items()):
-        batch = 'A-DEEP-09' if c in DEMOTE9 else 'A-DEEP-08' if c in DEMOTE8 else 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
+    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()) + list(DEMOTE8.items()) + list(DEMOTE9.items()) + list(DEMOTE10.items()):
+        batch = 'A-DEEP-10' if c in DEMOTE10 else 'A-DEEP-09' if c in DEMOTE9 else 'A-DEEP-08' if c in DEMOTE8 else 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
         p = os.path.join(RESEARCH, c + '.json')
         if not os.path.exists(p):
             cnt['no_research'] += 1

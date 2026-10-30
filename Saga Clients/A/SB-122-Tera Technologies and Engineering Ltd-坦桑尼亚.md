@@ -219,15 +219,19 @@ updated: 2026-10-30
 | 2025.2.20 | 表 | 表 | 工业16 24口出货图｜可能会用到 |  |
 | 923 | 表 | 表 | 18 2.5G｜是PoE吗？ |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：contactout / aihitdata / arounddeal：Tera Technologies and Engineering Limited · Plot 2283, Block H, Tarangire Street, Africana Drive, P.O. Box 31257, Dar es Salaam · Founded 2011 · 11–50（32 可见）· est. revenue $3.8M · 「Service Provider in Telecommunications, ICT, Power and Security Systems solutions」 — <https://contactout.com/company/Tera-Technologies-and-Engineering-Limited-82148>　*达累斯萨拉姆 ICT/电信/安防集成商（≈32 人）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：teratech.co.tz in:email；"teratech.co.tz" in:readme in:description；Tera Technologies and Engineering Ltd type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

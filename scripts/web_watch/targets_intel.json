@@ -2,8 +2,8 @@
  "_comment": "A 类挖底 watch 源（intel_targets.py 离线生成，幂等；与 targets.json / targets_auto.json 合并，源 id 以 intel_ 开头）",
  "generated": "2026-10-30",
  "stats": {
-  "news_en": 150,
-  "news_local": 70,
+  "news_en": 144,
+  "news_local": 69,
   "edgar": 1,
   "ch": 6,
   "ir": 4,
@@ -201,9 +201,9 @@
   {
    "code": "SA-014",
    "name": "impulsecctv.com",
-   "grade": "A",
+   "grade": "B",
    "country": "新加坡",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -480,9 +480,9 @@
   {
    "code": "SA-035",
    "name": "td-fe.com",
-   "grade": "A",
+   "grade": "B",
    "country": "俄罗斯",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -658,21 +658,6 @@
    ]
   },
   {
-   "code": "SA-054",
-   "name": "softnetworks.net",
-   "grade": "A",
-   "country": "美国",
-   "layer": "A",
-   "sources": [
-    {
-     "id": "intel_news_en",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Softnetworks%22&hl=en-US&gl=US&ceid=US:en",
-     "note": "Google News 英文：「Softnetworks」（精确短语；同名误报看标题再用）"
-    }
-   ]
-  },
-  {
    "code": "SA-055",
    "name": "NOVA Group Engineering Project Electronic Co LTD",
    "grade": "A",
@@ -756,9 +741,9 @@
   {
    "code": "SA-064",
    "name": "optat.ru",
-   "grade": "A",
+   "grade": "B",
    "country": "俄罗斯",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -777,9 +762,9 @@
   {
    "code": "SA-067",
    "name": "Latmedia Group, LLC",
-   "grade": "A",
+   "grade": "B",
    "country": "乌兹别克斯坦",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -855,9 +840,9 @@
   {
    "code": "SA-074",
    "name": "Elite Team Security Ltd",
-   "grade": "A",
+   "grade": "B",
    "country": "保加利亚",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -1155,9 +1140,9 @@
   {
    "code": "SB-038",
    "name": "tricomp.com.pl",
-   "grade": "A",
+   "grade": "B",
    "country": "波兰",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -1500,9 +1485,9 @@
   {
    "code": "SB-1122",
    "name": "comtinu.ru",
-   "grade": "A",
+   "grade": "B",
    "country": "俄罗斯",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -1515,27 +1500,6 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Comtinu%22&hl=ru&gl=RU&ceid=RU:ru",
      "note": "Google News 本地语种（RU）：「Comtinu」"
-    }
-   ]
-  },
-  {
-   "code": "SB-1132",
-   "name": "nedic.aleksandar@gmail.com",
-   "grade": "A",
-   "country": "塞尔维亚",
-   "layer": "A",
-   "sources": [
-    {
-     "id": "intel_news_en",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Aleksandar%20Nedi%C4%87%22&hl=en-US&gl=US&ceid=US:en",
-     "note": "Google News 英文：「Aleksandar Nedić」（精确短语；同名误报看标题再用）"
-    },
-    {
-     "id": "intel_news_sr",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Aleksandar%20Nedi%C4%87%22&hl=sr&gl=RS&ceid=RS:sr",
-     "note": "Google News 本地语种（RS）：「Aleksandar Nedić」"
     }
    ]
   },
@@ -1557,9 +1521,9 @@
   {
    "code": "SB-1135",
    "name": "raisecom.su",
-   "grade": "A",
+   "grade": "B",
    "country": "俄罗斯",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -1614,9 +1578,9 @@
   {
    "code": "SB-1138",
    "name": "devray.in",
-   "grade": "A",
+   "grade": "B",
    "country": "印度",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -1855,21 +1819,6 @@
    ]
   },
   {
-   "code": "SB-166",
-   "name": "Crown Security Solutions",
-   "grade": "A",
-   "country": "卡塔尔",
-   "layer": "A",
-   "sources": [
-    {
-     "id": "intel_news_en",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Crown%20Security%20Solutions%20W.L.L%22&hl=en-US&gl=US&ceid=US:en",
-     "note": "Google News 英文：「Crown Security Solutions W.L.L」（精确短语；同名误报看标题再用）"
-    }
-   ]
-  },
-  {
    "code": "SB-167",
    "name": "ONSIS ELEKTRONIK",
    "grade": "B",
@@ -1893,9 +1842,9 @@
   {
    "code": "SB-169",
    "name": "agsplus.in",
-   "grade": "A",
+   "grade": "B",
    "country": "印度",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2190,9 +2139,9 @@
   {
    "code": "SB-342",
    "name": "Sure Transport",
-   "grade": "A",
+   "grade": "B",
    "country": "英国",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2382,9 +2331,9 @@
   {
    "code": "SB-487",
    "name": "npotelecom.ru",
-   "grade": "A",
+   "grade": "B",
    "country": "俄罗斯",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2460,9 +2409,9 @@
   {
    "code": "SB-630",
    "name": "CORE IT SOLUTIONS",
-   "grade": "A",
+   "grade": "B",
    "country": "印度",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2604,9 +2553,9 @@
   {
    "code": "SB-924",
    "name": "Intracom Middle East FZ-LLC",
-   "grade": "A",
+   "grade": "B",
    "country": "阿联酋",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2632,62 +2581,17 @@
    ]
   },
   {
-   "code": "SC-002",
-   "name": "Intelligent",
-   "grade": "A",
-   "country": "沙特阿拉伯",
-   "layer": "A",
-   "sources": [
-    {
-     "id": "intel_news_en",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Intelligent%20Technologies%20Traders%22&hl=en-US&gl=US&ceid=US:en",
-     "note": "Google News 英文：「Intelligent Technologies Traders」（精确短语；同名误报看标题再用）"
-    }
-   ]
-  },
-  {
-   "code": "SC-023",
-   "name": "Central Gospel School",
-   "grade": "A",
-   "country": "加纳",
-   "layer": "A",
-   "sources": [
-    {
-     "id": "intel_news_en",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Central%20Gospel%20School%22&hl=en-US&gl=US&ceid=US:en",
-     "note": "Google News 英文：「Central Gospel School」（精确短语；同名误报看标题再用）"
-    }
-   ]
-  },
-  {
    "code": "SC-097",
    "name": "Three Lines Company",
-   "grade": "A",
+   "grade": "B",
    "country": "沙特阿拉伯",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%223Lines%20Advanced%20Technologies%20Company%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「3Lines Advanced Technologies Company」（精确短语；同名误报看标题再用）"
-    }
-   ]
-  },
-  {
-   "code": "SC-1371",
-   "name": "mywatchdog.in",
-   "grade": "A",
-   "country": "印度",
-   "layer": "A",
-   "sources": [
-    {
-     "id": "intel_news_en",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22WatchDog%20%3D%20Apollo%20Infoways%22&hl=en-US&gl=US&ceid=US:en",
-     "note": "Google News 英文：「WatchDog = Apollo Infoways」（精确短语；同名误报看标题再用）"
     }
    ]
   },

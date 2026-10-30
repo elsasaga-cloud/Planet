@@ -352,6 +352,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "contactout / aihitdata / arounddeal：Tera Technologies and Engineering Limited · Plot 2283, Block H, Tarangire Street, Africana Drive, P.O. Box 31257, Dar es Salaam · Founded 2011 · 11–50（32 可见）· est. revenue $3.8M · 「Service Provider in Telecommunications, ICT, Power and Security Systems solutions」",
+    "url": "https://contactout.com/company/Tera-Technologies-and-Engineering-Limited-82148",
+    "note": "达累斯萨拉姆 ICT/电信/安防集成商（≈32 人）",
+    "batch": "INTEL-19",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

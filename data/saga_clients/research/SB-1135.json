@@ -46,8 +46,8 @@
    "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DEALER / raisecom.su：主体不可核 + Simon 此前判「不行」",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#1。\n最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -180,6 +180,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06）"
+  },
+  {
+   "batch": "A-DEEP-10",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06）",
+   "reason": "A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：DEALER / raisecom.su：主体不可核 + Simon 此前判「不行」"
   }
  ],
  "snap_thicken": {
@@ -419,7 +427,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-10",
+  "verdict2_reason": "DEALER / raisecom.su：主体不可核 + Simon 此前判「不行」"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -432,6 +443,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "СПАРК / rusprofile：圣彼得堡有两家「ООО ДИЛЕР」——ИНН 7842169106（保险代理，清算人 Косолапова Е.А.）与 ИНН 7840448665（2011 年，非专业批发，6 起仲裁 / 3 起执行）；均无法与 raisecom.su 对应",
+    "url": "https://spark-interfax.ru/sankt-peterburg-tsentralny/ooo-diler-inn-7840448665-ogrn-1117847101844-bbe7c6edc505415f876646fac17d3275",
+    "note": "主体不可核 + Simon 此前已判「不行」→ A-DEEP-10 下放 B",
+    "batch": "INTEL-19",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

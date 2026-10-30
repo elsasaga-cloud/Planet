@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 142 / B 1327 / C 3178
+> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 136 / B 1333 / C 3178
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -23,14 +23,14 @@
 | 土耳其 | 16 | 119 | 72 | 207 |
 | 中东 | 9 | 71 | 246 | 326 |
 | 亚太 | 22 | 234 | 696 | 952 |
-| 俄语区 | 12 | 94 | 398 | 504 |
+| 俄语区 | 6 | 100 | 398 | 504 |
 | 南亚 | 19 | 95 | 346 | 460 |
 | 拉美 | 7 | 31 | 212 | 250 |
 | 非洲 | 7 | 60 | 274 | 341 |
 | 乌克兰 | 0 | 0 | 55 | 55 |
 | 中国大陆 | 0 | 0 | 17 | 17 |
 | 未知 | 0 | 2 | 51 | 53 |
-| **合计** | 142 | 1327 | 3178 | 4647 |
+| **合计** | 136 | 1333 | 3178 | 4647 |
 
 状态分布：名单内 2011；已推送 1239；WhatsApp 526；用户判定不行 444；有回复 229；发不过去 83；历史合作 80；成交过 20；回复暂无需求 15
 
@@ -38,7 +38,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 ## 调研覆盖（A 候选逐家网页核实）
 
-- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 454 / 调研后降 C 280。
+- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 460 / 调研后降 C 280。
 - 降级口径：≥14 次推送 0 回复（即便面谈/OEM 意向）→ B 并标「回复即升 A」；核心需求在 Saga 线外（IP67、M12、HDMI 延长器、仅 SFP/DWDM、400G）→ B；已停业 / 休眠壳公司 / 疑似同行 / 军工守界 / TKH 等集团子公司 → C；中国直采的纯比价客户 → B。
 - B/C 级未逐家网页核实（量级 4,500+），分级依据为用户表信号 + 规则；任一 B 升 A 前先补一份 research JSON。
 
@@ -59,7 +59,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 目录结构：A 平铺；B / C 每 500 户一个子目录（`B/SB-0001-0500/`、`B/SB-0501-1000/`、`B/SB-1001-1500/` …，GitHub 网页一个目录只显示前 1,000 个文件），编号连号，看编号就知道在哪个子目录；各级 `_索引.md` 的链接直达文件。
 
-### A 级（142）— `Saga Clients/A/`
+### A 级（136）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -87,7 +87,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SA-031 | Truong Son Solutions | 越南 | 分销商/电商（工业交换机垂直） | 有回复·跟进中 | 67 | 已 | [SA-031-Truong Son Solutions-越南.md](A/SA-031-Truong%20Son%20Solutions-越南.md) |
 | SA-032 | sundartechno.com | 印度 | 方案商/自有品牌贴牌（成交客户） | 成交过·可发展（Simon） | 82 | 已 | [SA-032-sundartechno.com-印度.md](A/SA-032-sundartechno.com-印度.md) |
 | SA-033 | bluewarrior.com | 美国 | 品牌商（白牌贴牌，OEM 目标） | 有回复·跟进中 | 81 | 已 | [SA-033-bluewarrior.com-美国.md](A/SA-033-bluewarrior.com-美国.md) |
-| SA-035 | td-fe.com | 俄罗斯 | 品牌商/贸易公司（电源主业，工业交换机为配套） | 有回复·跟进中 | 81 | 已 | [SA-035-td-fe.com-俄罗斯.md](A/SA-035-td-fe.com-俄罗斯.md) |
 | SA-039 | mt-link.com | 巴基斯坦 | 品牌商（中国白牌贴牌，ODM 买家） | 有回复·跟进中 | 79 | 已 | [SA-039-mt-link.com-巴基斯坦.md](A/SA-039-mt-link.com-巴基斯坦.md) |
 | SA-042 | antronix.com | 美国 | 品牌制造商（拓展以太网交换机产品线，OEM 目标） | 有回复·跟进中 | 76 | 已 | [SA-042-antronix.com-美国.md](A/SA-042-antronix.com-美国.md) |
 | SA-043 | direktronik.se | 瑞典 | 分销商/进口商（自有品牌 + 多品牌） | 有回复·跟进中 | 76 | 已 | [SA-043-direktronik.se-瑞典.md](A/SA-043-direktronik.se-瑞典.md) |
@@ -102,9 +101,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SA-060 | gofiberx.com | 美国 | ISP/运营商（终端用户） | 有回复·跟进中 | 70 | 已 | [SA-060-gofiberx.com-美国.md](A/SA-060-gofiberx.com-美国.md) |
 | SA-061 | RYMTECH EAS | 巴拉圭 | 系统集成/工程商 | 有回复·跟进中 | 69 | 已 | [SA-061-RYMTECH EAS-巴拉圭.md](A/SA-061-RYMTECH%20EAS-巴拉圭.md) |
 | SA-063 | Areca Embedded Systems Pvt Ltd | 印度 | 系统集成/设备商 | 有回复·跟进中 | 67 | 已 | [SA-063-Areca Embedded Systems Pvt Ltd-印度.md](A/SA-063-Areca%20Embedded%20Systems%20Pvt%20Ltd-印度.md) |
-| SA-064 | optat.ru | 俄罗斯 | 招投标供货商/贸易商 | 有回复·跟进中 | 67 | 已 | [SA-064-optat.ru-俄罗斯.md](A/SA-064-optat.ru-俄罗斯.md) |
 | SA-066 | ccs-msk.ru | 俄罗斯 | 分销商（企业网络 + 工业以太网） | 有回复·跟进中 | 65 | 已 | [SA-066-ccs-msk.ru-俄罗斯.md](A/SA-066-ccs-msk.ru-俄罗斯.md) |
-| SA-067 | Latmedia Group, LLC | 乌兹别克斯坦 | IT 集成/贸易商 | 名单内·未触达 | 63 | 已 | [SA-067-Latmedia Group, LLC-乌兹别克斯坦.md](A/SA-067-Latmedia%20Group,%20LLC-乌兹别克斯坦.md) |
 | SA-070 | Top Italia | 意大利 | 经销/集成商 | 已推送 14 次·未回复 | 61 | 已 | [SA-070-Top Italia-意大利.md](A/SA-070-Top%20Italia-意大利.md) |
 | SA-071 | surlink-tech.com | 玻利维亚 | 批发分销商（布线/光纤/网络） | 有回复·跟进中 | 61 | 已 | [SA-071-surlink-tech.com-玻利维亚.md](A/SA-071-surlink-tech.com-玻利维亚.md) |
 | SA-072 | trans audio video group | 意大利 | AV/安防集成商 | 已推送 14 次·未回复 | 61 | 已 | [SA-072-trans audio video group-意大利.md](A/SA-072-trans%20audio%20video%20group-意大利.md) |
@@ -144,9 +141,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-1115 | Milliseconds Evolution Limited | 英国 | 网络集成/MikroTik 顾问（拟经销） | 名单内·未触达 | 46 | 已 | [SB-1115-Milliseconds Evolution Limited-英国.md](A/SB-1115-Milliseconds%20Evolution%20Limited-英国.md) |
 | SB-1116 | Litech (Pvt) Ltd | 巴基斯坦 | 系统集成/项目承包（华为渠道） | 名单内·未触达 | 31 | 已 | [SB-1116-Litech (Pvt) Ltd-巴基斯坦.md](A/SB-1116-Litech%20(Pvt)%20Ltd-巴基斯坦.md) |
 | SB-1120 | Obmac systems 可以推一下 | 赞比亚 | 系统集成/工程商 | 成交过·已凉（Simon: gg） | 18 | 已 | [SB-1120-Obmac systems 可以推一下-赞比亚.md](A/SB-1120-Obmac%20systems%20可以推一下-赞比亚.md) |
-| SB-1122 | comtinu.ru | 俄罗斯 | 俄罗斯网络项目商（25G/100G 项目） | 名单内·未触达 | 17 | 已 | [SB-1122-comtinu.ru-俄罗斯.md](A/SB-1122-comtinu.ru-俄罗斯.md) |
 | SB-1134 | conexionderedes.com | 萨尔瓦多 | 中美洲网络集成/分销商（为其客户转发方案） | 已推送 13 次·未回复 | 7 | 已 | [SB-1134-conexionderedes.com-萨尔瓦多.md](A/SB-1134-conexionderedes.com-萨尔瓦多.md) |
-| SB-1135 | raisecom.su | 俄罗斯 | 俄罗斯经销/项目商（Raisecom 代理） | 历史合作·维护（非 Saga 成单） | 5 | 已 | [SB-1135-raisecom.su-俄罗斯.md](A/SB-1135-raisecom.su-俄罗斯.md) |
 | SB-1136 | fiberoptics4sale.com | 美国 | 线上零售/分销（光纤配件多品牌） | 已推送 8 次·未回复 | 2 | 已 | [SB-1136-fiberoptics4sale.com-美国.md](A/SB-1136-fiberoptics4sale.com-美国.md) |
 | SB-1137 | Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda. | 巴西 | 巴西安防设备经销（CCTV） | 名单内·未触达 | -2 | 已 | [SB-1137-Infotec Comercio de Equipamentos e Siste-巴西.md](A/SB-1137-Infotec%20Comercio%20de%20Equipamentos%20e%20Siste-巴西.md) |
 | SB-119 | wirestar.net | 美国 | 经销/集成（类型待核） | 有回复·跟进中 | 58 | 已 | [SB-119-wirestar.net-美国.md](A/SB-119-wirestar.net-美国.md) |
@@ -181,7 +176,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-447 | automationsystem.in | 印度 | 经销/集成（类型待核） | 有回复·跟进中 | 41 | 已 | [SB-447-automationsystem.in-印度.md](A/SB-447-automationsystem.in-印度.md) |
 | SB-451 | e-saudi.net | 沙特阿拉伯 | IT/网络贸易商（沙特，有回复，业务待核） | 已推送 1 次·未回复 | 41 | 已 | [SB-451-e-saudi.net-沙特阿拉伯.md](A/SB-451-e-saudi.net-沙特阿拉伯.md) |
 | SB-485 | n-itus.com | 韩国 | 经销/集成（类型待核） | 有回复·跟进中 | 40 | 已 | [SB-485-n-itus.com-韩国.md](A/SB-485-n-itus.com-韩国.md) |
-| SB-487 | npotelecom.ru | 俄罗斯 | 电信设备企业（俄罗斯，有回复，用户标重要） | 已推送 17 次·未回复 | 40 | 已 | [SB-487-npotelecom.ru-俄罗斯.md](A/SB-487-npotelecom.ru-俄罗斯.md) |
 | SB-529 | dmsimfg.com | 美国 | 网络配件品牌商（美国，自有标 MC；官网待核） | 已推送 19 次·未回复 | 38 | 已 | [SB-529-dmsimfg.com-美国.md](A/SB-529-dmsimfg.com-美国.md) |
 | SB-542 | lanopia.de | 德国 | 经销/集成（类型待核） | 已推送 8 次·未回复 | 38 | 已 | [SB-542-lanopia.de-德国.md](A/SB-542-lanopia.de-德国.md) |
 | SB-641 | apolloinfoways.in | 印度 | 印度网络品牌商（自有 WatchDog 型号，中国 ODM 采购） | 名单内·未触达 | 34 | 已 | [SB-641-apolloinfoways.in-印度.md](A/SB-641-apolloinfoways.in-印度.md) |
@@ -206,9 +200,9 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SC-2904 | firsttech.co.za | 南非 | 经销/集成（类型待核） | 用户判定不行 | -51 | 已 | [SC-2904-firsttech.co.za-南非.md](A/SC-2904-firsttech.co.za-南非.md) |
 | SC-371 | Visiotech | 西班牙 | OEM（闸 2 判定 · 30% 档） | 历史合作·维护（非 Saga 成单） | 22 | 已 | [SC-371-Visiotech-西班牙.md](A/SC-371-Visiotech-西班牙.md) |
 
-### B 级（1327）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
+### B 级（1333）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
 
-全部 1327 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1333 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
 ### C 级（3178）— `Saga Clients/C/`（子目录 `SC-0001-0500/` / `SC-0501-1000/` / `SC-1001-1500/` / `SC-1501-2000/` / `SC-2001-2500/` / `SC-2501-3000/` / `SC-3001-3500/`）
 

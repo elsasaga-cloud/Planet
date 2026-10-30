@@ -39,8 +39,8 @@
    "source": "data/gmail_a|gmail_s/messages/<year>/<month>.jsonl"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Комтиню：3 人、收入 −85% 转亏 → 微型",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -182,6 +182,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12）"
+  },
+  {
+   "batch": "A-DEEP-10",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12）",
+   "reason": "A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Комтиню：3 人、收入 −85% 转亏 → 微型"
   }
  ],
  "snap_thicken": {
@@ -437,7 +445,10 @@
    }
   ],
   "web_facts": [],
-  "manual": true
+  "manual": true,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-10",
+  "verdict2_reason": "Комтиню：3 人、收入 −85% 转亏 → 微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -450,6 +461,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "checko / saby：ООО «КОМТИНЮ» · ИНН 7725777573 · ОГРН 1127747244514（2012-12-13）· Москва · Генеральный директор Авидон Елена Александровна · Выручка 29,4 млн руб.（−85%）· Чистая прибыль −1,1 млн · Капитал 27,5 млн（−41%）· ССЧ 2025：3 человека · участие в торгах 49",
+    "url": "https://checko.ru/company/komtinyu-1127747244514",
+    "note": "3 人、收入暴跌 85% 的贸易公司却谈 25G/100G DC 项目 → 体量不支撑，A-DEEP-10 下放 B",
+    "batch": "INTEL-19",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

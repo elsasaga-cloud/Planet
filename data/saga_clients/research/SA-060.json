@@ -507,6 +507,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "RocketReach / ZoomInfo：FiberX（FiberX LLC）· Puerto Rico · Founded 2016 · 34 employees · Revenue $5.6M · CEO Iván Rivera（我方 KP）· Director Network Engineering Edwuar Morillo（我方 KP）· CTO Jean Melendez · Operations Manager Yeraldine Acevedo · Senior Sales Engineer Hector Boschetti · OSP Design Supervisor Jesus Teran",
+    "url": "https://www.zoominfo.com/c/fiberx/556679757",
+    "note": "波多黎各 FTTH 运营商（34 人、$5.6M）；两位 KP 均核实在职",
+    "batch": "INTEL-19",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

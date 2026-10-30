@@ -1,18 +1,18 @@
 # comtinu.ru
 **官方名称（调研核实）**：Comtinu（俄罗斯；KP Yaroslav, yb@comtinu.ru）
 
-> **评级 A**　|　俄罗斯　|　档案编号 `SB-1122`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　俄罗斯　|　档案编号 `SB-1122`　|　优先级 ★★　|　状态：名单内·未触达
 >
-> **P 池并入（A 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 MC/SFP → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 MC/SFP · 登记 未坐实 · 体量 未知）　|　标签：prepay、ru_payment
+> **P 池并入（B 档，等级不动）：☆ P 池 · 观察档（试单 / 回访后转正或退回 C）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 未坐实对位 MC/SFP → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA — · 对位 MC/SFP · 登记 未坐实 · 体量 未知）　|　标签：prepay、ru_payment
 >
 > **类型**：俄罗斯网络项目商（25G/100G 项目）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DC线索　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1122
-rating: A
+rating: B
 rating_auto: C
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Комтиню：3 人、收入 −85% 转亏 → 微型
 name_official: "Comtinu（俄罗斯；KP Yaroslav, yb@comtinu.ru）"
 score: 17
 country: 俄罗斯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S/A 邮箱 2024-05 起 20 余封；两次真互动都指向高速/数据中心：2024-05-17「Do you have 48x25G + 8x100G and 32x40/100G switches?」（Simon 答「not available… coming soon… can help design」）；2025-12-03 先说没有相关项目，Alan 追问「do you sometimes use data center switches? 100G/10G」后答「Yes, we have 100-25G projects. What is your company website?」——Alan 回「still focusing on access switches… It will be CENTEC based」，没给网站、没给 CENTEC 型号与价（而 2025-01-06 已群发过 8C48XF）。此后只有 2026-03 Product Link 与 2026-08 $170 推送。（调研 2026-10-24；表内兴趣：SFP 机架设备(类似WDM)）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12））；自动分级 C：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Комтиню：3 人、收入 −85% 转亏 → 微型）；自动分级 C：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-8C48DX-HSI（48×25G + 8×100G）；STH-32C-HSI（32×100G） — 需求台账 #13：他是仓内最早（2024-05）明确要 48×25G+8×100G 的人；对俄付款问题在他回信后再谈（RMB via CN agent）｜已发资料（勿重发）：8C48XF.png(2025-01-06)、Product Link_2026Q2(2026-03-12)｜档位说明（原 tier 字段文字「集成商/项目 25%；CENTEC 底线 ≥35% 并行」移此）：集成商/项目 25%；CENTEC 底线 ≥35% 并行；2026 Q2：8C48DX $4,800 / 32C $6,000 / 2C6QX $1,200 EXW
 - **第一问（只问一个）**：Yaroslav — in May 2024 you asked for 48x25G + 8x100G and 32x100G; both exist now on our CENTEC-based line (STH-8C48DX-HSI $4,800, STH-32C-HSI $6,000 USD EXW, 2026 Q2 list). When is the 100/25G project you mentioned in December due, and how many units?
@@ -145,7 +145,7 @@ updated: 2026-10-30
   > For now, we are still focusing on access switches. It will be CENTEC based=a famous Chinese chip… Please let me know if this is acceptable to you.
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2025-12-03）
 - **KP**：Yaroslav（）yb@comtinu.ru 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12）
+- **调研后定级**：B（原自动 C）——A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Комтиню：3 人、收入 −85% 转亏 → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。
 
@@ -217,15 +217,19 @@ updated: 2026-10-30
 | 2026-03-12 | 去 | A | Re: Booster PoE Switch |  |
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：checko / saby：ООО «КОМТИНЮ» · ИНН 7725777573 · ОГРН 1127747244514（2012-12-13）· Москва · Генеральный директор Авидон Елена Александровна · Выручка 29,4 млн руб.（−85%）· Чистая прибыль −1,1 млн · Капитал 27,5 млн（−41%）· ССЧ 2025：3 человека · участие в торгах 49 — <https://checko.ru/company/komtinyu-1127747244514>　*3 人、收入暴跌 85% 的贸易公司却谈 25G/100G DC 项目 → 体量不支撑，A-DEEP-10 下放 B*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：comtinu.ru in:email；"comtinu.ru" in:readme in:description；comtinu.ru type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -305,7 +309,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH-32C-HSI（32×100G，$6,000） 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -332,7 +336,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -373,11 +377,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 17）；人工/调研定级 → B
 
 ---
 

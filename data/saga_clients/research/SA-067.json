@@ -52,8 +52,8 @@
    "source": "S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Latmedia Group：实为塔什干数字营销代理 → 品类不对位",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -283,6 +283,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11）"
+  },
+  {
+   "batch": "A-DEEP-10",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11）",
+   "reason": "A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Latmedia Group：实为塔什干数字营销代理 → 品类不对位"
   }
  ],
  "a_deep": {
@@ -475,7 +483,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-10",
+  "verdict2_reason": "Latmedia Group：实为塔什干数字营销代理 → 品类不对位"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -497,6 +508,16 @@
     "url": "https://github.com/LatMedia/web-desing-task",
     "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
     "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "orginfo.uz / yellowpages.uz / afisha.uz：\"LATMEDIA GROUP\" MChJ · ИНН 304474713 · 2016-12-14 · Toshkent, Mirzo Ulug‘bek tumani, Muminova ko‘chasi 1/3-8 · Руководитель / 100% учредитель Pak Maksim Anatolevich · 业务：Digital 广告代理（SEO / SMM / 网站推广）",
+    "url": "https://orginfo.uz/organization/79a3a199eafc/",
+    "note": "实为数字营销代理（GitHub 招聘测试仓亦印证），非网络设备渠道 → A-DEEP-10 下放 B（品类不对位）",
+    "batch": "INTEL-19",
     "found": true,
     "added": "2026-10-30"
    }
