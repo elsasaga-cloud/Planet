@@ -14291,6 +14291,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "rusprofile / saby / gz-spb：ООО «Битбук» · ИНН 6623126845 · ОГРН 1186658033220（2018-04-24）· Свердловская обл., г. Нижний Тагил（ул. Юности 47А，1）· Директор Татарников Андрей Александрович · 2025 年收入 64 млн руб. · Субъект малого предпринимательства · 2020-07 起在圣彼得堡政府采购平台注册为供应商 · www.bitbuk.ru · +7(343)537-87-87",
+"url": "https://www.gz-spb.ru/gzSuppliers/ViewSupplier/15399",
+"note": "PI 成单户：下塔吉尔小型分销商（条码为主 + 网络 PoE），年收入约 64M RUB、做政府采购；主 OKVED 登记为不动产出租（经营多元）",
+"batch": "INTEL-11",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -96472,6 +96482,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "rfcom.gr：「Η RFCOM αποτελεί μία αμιγώς ελληνική και ταχέως αναπτυσσόμενη εισαγωγική εταιρεία, εξειδικευμένη στα συστήματα ασφαλείας」；代理以色列 Risco Group 报警系统；xo.gr：RFCOM.GR · 301 Lagkada Street, 561 23 Ampelokipi Thessaloniki · +30 2310 257337",
+"url": "https://rfcom.gr/el/etaireia",
+"note": "塞萨洛尼基安防进口商（Risco 希腊代理）→ PoE 交换机作为安防配套的分销对位",
+"batch": "INTEL-11",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -238564,6 +238584,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "companycheck（Companies House）：SWITCHTEC LIMITED · 01613368 · Incorporated 12 February 1982 · Active - Accounts Filed · SIC 46520 Wholesale of electronic and telecommunications equipment and parts · Brooms Road, Stone, Staffordshire ST15 0SH · Directors 8；2020-07 Switchtec Components Limited 名下一项 charge 未清",
+"url": "https://companycheck.co.uk/company/01613368/SWITCHTEC-LIMITED/companies-house-data",
+"note": "1982 年起的英国工业元器件专业分销（UK franchisee for world-wide manufacturers）；研究档「11–50 人」核实为 13–15 人",
+"batch": "INTEL-11",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "LinkedIn / contactout：Switchtec Ltd · Stone, Staffordshire · 2,353 followers · 11–50（13 on LinkedIn）· Founded 1982 · Owner Bob Lyons · National Wholesale Manager Nick Morgan · Area Sales Managers Mark Burton（North，兼技术）、Chris Hibbert（North & Scotland）、Sean Campbell（South, Wholesale）、Mark Stevens · Warehouse Manager Graham Donohoe；contactout 估营收 $7.3M",
+"url": "https://contactout.com/company/Switchtec-Ltd-66643",
+"note": "Simon 备注其「分销爱尔兰和英国，主要处理 Ethernet switch、Kyland」；老板 Bob Lyons 是决策人，区域销售网络现成",
+"batch": "INTEL-11",
+"found": true,
 "added": "2026-10-30"
 }
 ]

@@ -261,15 +261,23 @@ updated: 2026-10-30
 | 2026-07-14 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-20 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：companycheck（Companies House）：SWITCHTEC LIMITED · 01613368 · Incorporated 12 February 1982 · Active - Accounts Filed · SIC 46520 Wholesale of electronic and telecommunications equipment and parts · Brooms Road, Stone, Staffordshire ST15 0SH · Directors 8；2020-07 Switchtec Components Limited 名下一项 charge 未清 — <https://companycheck.co.uk/company/01613368/SWITCHTEC-LIMITED/companies-house-data>　*1982 年起的英国工业元器件专业分销（UK franchisee for world-wide manufacturers）；研究档「11–50 人」核实为 13–15 人*
+
+**KP**
+
+- 2026-10-30：LinkedIn / contactout：Switchtec Ltd · Stone, Staffordshire · 2,353 followers · 11–50（13 on LinkedIn）· Founded 1982 · Owner Bob Lyons · National Wholesale Manager Nick Morgan · Area Sales Managers Mark Burton（North，兼技术）、Chris Hibbert（North & Scotland）、Sean Campbell（South, Wholesale）、Mark Stevens · Warehouse Manager Graham Donohoe；contactout 估营收 $7.3M — <https://contactout.com/company/Switchtec-Ltd-66643>　*Simon 备注其「分销爱尔兰和英国，主要处理 Ethernet switch、Kyland」；老板 Bob Lyons 是决策人，区域销售网络现成*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：switchtec.com in:email；"switchtec.com" in:readme in:description；switchtek type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、领英公司页、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

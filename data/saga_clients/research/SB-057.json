@@ -425,6 +425,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "rfcom.gr：「Η RFCOM αποτελεί μία αμιγώς ελληνική και ταχέως αναπτυσσόμενη εισαγωγική εταιρεία, εξειδικευμένη στα συστήματα ασφαλείας」；代理以色列 Risco Group 报警系统；xo.gr：RFCOM.GR · 301 Lagkada Street, 561 23 Ampelokipi Thessaloniki · +30 2310 257337",
+    "url": "https://rfcom.gr/el/etaireia",
+    "note": "塞萨洛尼基安防进口商（Risco 希腊代理）→ PoE 交换机作为安防配套的分销对位",
+    "batch": "INTEL-11",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }
