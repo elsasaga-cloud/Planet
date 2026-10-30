@@ -519,6 +519,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Datanyze / RocketReach / ZoomInfo：Linxcom UK Ltd · Leicester（3 Oakland Rd LE2 6AN）/ Daventry（Unit 3 Stephenson Close NN11 8RF）· Founded 2010 · 13–16 employees · Revenue $4.4–7M · Managing Director Mohamed Okba · Director Craig Blake（Queensland）· Director, Projects Jim Freeman · Technical & Sales Manager Aneesah Fataar（Johannesburg）· BDM Africa Zaid Mayat",
+    "url": "https://www.datanyze.com/companies/linxcom-uk-ltd/354198590",
+    "note": "英国电信设备品牌/分销，销售团队布在南非/澳洲 → 面向非洲出口的渠道；MD Okba 是决策人",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -251,15 +251,23 @@ WA 季度触达。
 | 2026-09-23 | 去 | A | Managed PoE Switches |  |
 | 2026-09-23 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：Validatis（Unternehmensregister，Jahresabschluss 2025 vom 20.05.2026）：LivEye GmbH · Amtsgericht Wittlich HRB 44506 · EUID DET2408V.HRB44506 · Bilanzsumme 37,9 Mio. € · Eigenkapital −22 Tsd. €（Eigenkapitalquote −0,1 %）· 2025 年平均 101 名员工 · WZ 46 Großhandel；DDW：Umsatz 3,5 Mio. €（估，偏低）· Inhaber/GF Marc Thurn · Europa-Allee 27, 54343 Föhren — <https://www.validatis.de/unternehmen/liveye-gmbh-3022d228-ce61-41c3-b0dc-5f89ce48b5e2/>　*采购线索：101 人、资产 3,790 万欧但净资产为负 → 靠股东/PE 融资扩张；设备采购活跃但要注意账期*
+
+**人事变动**
+
+- 2026-10-30：Dealroom：LivEye GmbH 2018 年成立（品牌 2012 年由 Marc Thurn 注册，起于风电场安防）；Carsten Simons 加入共同领导；**2022-08 NORD Holding 收购多数股权**；从集成商转为自研硬件/软件制造商（移动监控塔 LivEye PRO / ONE、FIREGUARD 火情早期探测）；在波兰、瑞士、奥地利设子公司 — <https://app.dealroom.co/companies/liveye_gmbh>　*PE 控股 + 自研监控塔 → 塔内交换机/PoE 是明确的 OEM 配套位；决策人 Thurn / Simons*
 
 **GitHub/技术足迹**
 
 - 2026-10-30：GitHub 组织（按公司名，疑似）：LivEye-GmbH — <https://github.com/LivEye-GmbH>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

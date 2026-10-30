@@ -406,6 +406,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "未得：网查「ccs-msk.ru」只命中同名「МСК」等无关公司；需以域名 whois / 官网 реквизиты 再核",
+    "url": "",
+    "note": "1 查未得即停",
+    "batch": "INTEL-10",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

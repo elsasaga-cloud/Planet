@@ -6,7 +6,7 @@
   "news_local": 70,
   "edgar": 1,
   "ch": 6,
-  "ir": 3,
+  "ir": 4,
   "github": 2,
   "careers": 2,
   "skipped_news": 25
@@ -459,9 +459,9 @@
   {
    "code": "SA-034",
    "name": "rfog.pl",
-   "grade": "A",
+   "grade": "B",
    "country": "波兰",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2035,6 +2035,21 @@
    ]
   },
   {
+   "code": "SB-243",
+   "name": "hfcl.com",
+   "grade": "A",
+   "country": "印度",
+   "layer": "A",
+   "sources": [
+    {
+     "id": "intel_ir_news",
+     "kind": "html",
+     "url": "https://www.hfcl.com/insights/news",
+     "note": "HFCL 新闻稿列表（季报 UFR / 订单 / 任免）"
+    }
+   ]
+  },
+  {
    "code": "SB-248",
    "name": "nellyssecurity.com",
    "grade": "A",
@@ -2424,9 +2439,9 @@
   {
    "code": "SB-599",
    "name": "symanitron.ru",
-   "grade": "A",
+   "grade": "B",
    "country": "俄罗斯",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",

@@ -450,6 +450,26 @@
     "batch": "INTEL-GH-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "Validatis（Unternehmensregister，Jahresabschluss 2025 vom 20.05.2026）：LivEye GmbH · Amtsgericht Wittlich HRB 44506 · EUID DET2408V.HRB44506 · Bilanzsumme 37,9 Mio. € · Eigenkapital −22 Tsd. €（Eigenkapitalquote −0,1 %）· 2025 年平均 101 名员工 · WZ 46 Großhandel；DDW：Umsatz 3,5 Mio. €（估，偏低）· Inhaber/GF Marc Thurn · Europa-Allee 27, 54343 Föhren",
+    "url": "https://www.validatis.de/unternehmen/liveye-gmbh-3022d228-ce61-41c3-b0dc-5f89ce48b5e2/",
+    "note": "采购线索：101 人、资产 3,790 万欧但净资产为负 → 靠股东/PE 融资扩张；设备采购活跃但要注意账期",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "Dealroom：LivEye GmbH 2018 年成立（品牌 2012 年由 Marc Thurn 注册，起于风电场安防）；Carsten Simons 加入共同领导；**2022-08 NORD Holding 收购多数股权**；从集成商转为自研硬件/软件制造商（移动监控塔 LivEye PRO / ONE、FIREGUARD 火情早期探测）；在波兰、瑞士、奥地利设子公司",
+    "url": "https://app.dealroom.co/companies/liveye_gmbh",
+    "note": "PE 控股 + 自研监控塔 → 塔内交换机/PoE 是明确的 OEM 配套位；决策人 Thurn / Simons",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -716,6 +716,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "未得：网查「Go Green IT Ltd gogreenit.net」命中的是 Doncaster 的 Go Green Ltd（运输/太阳能，270 人）——非本户；本户公司号 07614771 已在登记库（UK Companies House），申报历史已纳入 watch",
+    "url": "",
+    "note": "PI 成单户；身份以 Companies House 07614771 为准",
+    "batch": "INTEL-10",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

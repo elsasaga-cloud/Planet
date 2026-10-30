@@ -35,6 +35,9 @@ MANUAL = {
         {'id': 'intel_edgar', 'kind': 'rss', 'url': 'https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001141284&type=&dateb=&owner=include&count=40&output=atom', 'note': 'SEC EDGAR 全部申报 Atom（10-K / 10-Q / 8-K；8-K = 任免 / 大单 / 融资）'},
         {'id': 'intel_ir_filings', 'kind': 'html', 'url': 'https://ir.actelis.com/sec-filings/all-sec-filings', 'note': 'IR 申报列表页'},
     ],
+    'SB-243': [  # HFCL (NSE: HFCL)
+        {'id': 'intel_ir_news', 'kind': 'html', 'url': 'https://www.hfcl.com/insights/news', 'note': 'HFCL 新闻稿列表（季报 UFR / 订单 / 任免）'},
+    ],
     'SA-086': [  # Netaş (BIST: NETAS)
         {'id': 'intel_ir_reports', 'kind': 'html', 'url': 'https://netas.com.tr/tr/yatirimci-iliskileri/faaliyet-raporlari', 'note': '年报列表页（新年报 PDF 出现在此；URL 以快照为准，失败则改 IR 首页）'},
         {'id': 'intel_ir_home', 'kind': 'html', 'url': 'https://netas.com.tr/tr/yatirimci-iliskileri', 'note': '投资者关系首页（KAP 公告摘要 / 财报日历）'},

@@ -248,15 +248,20 @@ updated: 2026-10-30
 | 2026-04-05 | 去 | R |  |  |
 | 2026-04-06 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：HFCL 新闻稿（UFR Q4FY2024-25）：FY25 standalone Revenue ₹3795.22 Crores · EBITDA ₹475.79 Cr · PBT ₹241.43 Cr · PAT ₹194.75 Cr；Q4FY25 Revenue ₹800.72 Cr（Q-o-Q −20.87%，Y-o-Y −39.62%），Q4 standalone EBITDA −27.20 Cr、PAT −72.59 Cr；H1FY25 revenue ₹2251.85 Cr（+6.89% YoY） — <https://www.hfcl.com/insights/news/press-release-on-ufr-q4fy2024-25-both-on-standalone-and-consolidated-basis>　*采购线索：印度上市电信制造集团（自有 IO 标交换机，OEM 采购户）；FY25 Q4 急转亏损 → 采购收紧期；年报季报每季 NSE 公告（已排 watch）*
+- 2026-10-30：HFCL Inc.（美国子公司）FY2024-25 财报：Revenue $6,621,648（FY24：$1,149,000）· Cost of Sales $5,098,500 · 2025-03-31 working capital $(356,929)、net worth $(25,319) — <https://www.hfcl.com/wp-content/uploads/2025/08/HFCL_INC_Financial%20Statements_FY2024-25.pdf>　*美国子公司刚起量、净资产为负 → 美国市场扩张期*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：hfcl.com in:email；"hfcl.com" in:readme in:description；hfcl.com type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

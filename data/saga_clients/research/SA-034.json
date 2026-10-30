@@ -276,10 +276,18 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-04",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-04 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RFOG POLAND Tomasz Paszkowski：个体工商户形式的一人批发商 → 个人"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-04 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RFOG POLAND Tomasz Paszkowski：个体工商户形式的一人批发商 → 个人",
  "a_deep": {
   "batch": "A-DEEP-01",
   "date": "2026-10-30",
@@ -469,7 +477,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-04",
+  "verdict2_reason": "RFOG POLAND Tomasz Paszkowski：个体工商户形式的一人批发商 → 个人"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -482,6 +493,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "monitorfirm / 官网：RFOG POLAND Tomasz Paszkowski · ul. Starogrodzka 1/2, 72-300 Gryfice · NIP 8571157213 · REGON 811833063 · 成立 2011-02-22 · 主业 Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego；产品：光纤器件、SFP/GBIC、媒体转换器、复用器、WDM/DWDM、CATV 光传输、门禁/生物识别",
+    "url": "https://www.rfog.pl/rfog,9,kontakt",
+    "note": "个体工商户（一人公司）形式的批发商 → A-DEEP-04 下放 B",
+    "batch": "INTEL-10",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

@@ -1,18 +1,18 @@
 # rfog.pl
 **官方名称（调研核实）**：RFoG（rfog.pl, Poland）
 
-> **评级 A**　|　波兰　|　档案编号 `SA-034`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　波兰　|　档案编号 `SA-034`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 4/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 个体经营（老板 + 数人）；）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 4/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 个体经营（老板 + 数人）；）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
 >
 > **类型**：分销商（自有型号贴牌）（推断）　|　**历史关系**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-12-15 → 2025-10-10）　|　**所在清单**：A优质名单(PL)、AI评估(PL)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-034
-rating: A
+rating: B
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-04 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RFOG POLAND Tomasz Paszkowski：个
 name_official: "RFoG（rfog.pl, Poland）"
 score: 81
 country: 波兰
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波兰光通信设备分销商：光纤 MC（含 10G）、PoE 交换机/MC、WDM/DWDM、光纤跳线与配件；同时销售 PLANET、MOXA，并以自有 RF- 型号前缀贴牌 N-Net 工业 PoE 交换机（型号后缀 -NNT）。用户表：A 优质名单(PL)，1 次回复，19 次跟进；联系人 Tomasz Paszkowski；备注「在和 N-Net 合作工业 FS」。（调研 2026-10-21；表内兴趣：MC 3GSDI CVI  很多国内供应商 VC(复杂的） 工业FS（小壳））
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-04 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RFOG POLAND Tomasz Paszkowski：个体工商户形式的一人批发商 → 个人）；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 19 次（2023-12-15 → 2025-10-10）；最近一次客户回复：2024-03-28：有点兴趣 让发资料
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 RF-GP2803PGM — 已打开的主题（1/17 封有打开记录）：「90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-25 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-12)、Product Link_2026Q3(2026-07-10)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For RF-GP2803PGM, what landed cost and lead time does N-Net give you today?
@@ -150,7 +150,7 @@ updated: 2026-10-30
   > RF-GP2408PGM-INDU-POE-NNT to 6-portowy przełącznik przemysłowy PoE, który obsługuje do 4 * 10/100/1000M portów PoE, 1 * 10/100/1000M port uplink i 2 * 1000M SFP
   > 来源：https://www.rfog.pl/produkt,3330,przemyslowy-zarzadzalny-przelacznik-switch-gigabit-2xsfp-1000m-4xeth-10-100-1000m-30w-poe-rf-gp2408pgm-indu-poe-nnt（抓取 2026-10-21）
 - **KP**：Tomasz Paszkowski（业主（CEIDG 个体经营 RFOG POLAND TOMASZ PASZKOWSKI，2011-02-22；NIP 8571157213 · REGON 811833063）= 老板 = 联系人；兼 ARiMR 动物标识政府供应商（第 85 批 官方登记核实 2026-10-27））tomasz.paszkowski@rfog.pl +48 602 794 466（官网）〔Clients/A/DONE/PL.xlsx〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 A）——A-DEEP-04 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：RFOG POLAND Tomasz Paszkowski：个体工商户形式的一人批发商 → 个人
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-GP2803PGM ≈ STI-288DGGPM（8GE PoE + 2SFP 工业网管），20% 分销 / 贴牌 30%；MC 对位 STI-110GE。
 
@@ -263,9 +263,13 @@ A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-
 | 2026-08-20 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-25 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：monitorfirm / 官网：RFOG POLAND Tomasz Paszkowski · ul. Starogrodzka 1/2, 72-300 Gryfice · NIP 8571157213 · REGON 811833063 · 成立 2011-02-22 · 主业 Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego；产品：光纤器件、SFP/GBIC、媒体转换器、复用器、WDM/DWDM、CATV 光传输、门禁/生物识别 — <https://www.rfog.pl/rfog,9,kontakt>　*个体工商户（一人公司）形式的批发商 → A-DEEP-04 下放 B*
 
 **GitHub/技术足迹**
 
@@ -353,7 +357,7 @@ A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -380,7 +384,7 @@ A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -415,11 +419,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 81）；人工/调研定级 → B
 
 ---
 

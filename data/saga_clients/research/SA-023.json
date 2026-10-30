@@ -493,6 +493,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "bizraport：FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0001095976 · NIP 7542916466 · REGON 160150149 · ul. Św. Jacka 2, 45-073 Opole · 收入 10 241 580 zł（2025）/ 7 242 043 zł（2024）· 净利 1 833 945 zł · 股本 100 000 zł · PKD 27.31.Z 光缆生产 / 27.32.Z；董事会 Anna Joanna Frydel、Jarosław Krzysztof Cisowski、Krzysztof Marek Smugowski、Piotr Frydel",
+    "url": "https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia",
+    "note": "奥波莱光纤分销/制造商，收入一年 +41%、净利率 18% → 现金好、在扩张；自有 logo 采购户",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

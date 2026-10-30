@@ -256,15 +256,23 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：TELTRONIX - BRITICOM · Northampton · 1,978 followers · 11–50 employees（17 on LinkedIn）· Partnership · Founded 2004 ·「Certified & High-Quality Copper & Fibre Optic Passive Structured Cabling - Approved By Telecom Operators & Data Centres」· Specialties FTTH, GPON, Data Centre；contactout：24 人，HQ 7 Premier Court, Northampton NN3 6LF — <https://uk.linkedin.com/company/teltronix>
+
+**KP**
+
+- 2026-10-30：contactout / LinkedIn / ZoomInfo：Justin Niles — Sales Director；Emil Etibarov — Sales Director, Country（2019 至今）；Mohamed Ben Abeda — International Sales Manager；Salim Diakhite — Regional Sales Manager, Africa French Speaking；Paul Green — Product Engineering Manager；Cedric Monnet — Procurement / Sourcing Specialist — <https://contactout.com/company/TELTRONIX-BRITICOM-40818>　*有专职采购 Sourcing Specialist（Cedric Monnet）和产品工程经理 → 无源布线品牌扩有源品类的对口人*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：briticom.net in:email；"briticom.net" in:readme in:description；TELTRONIX   BRITICOM type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

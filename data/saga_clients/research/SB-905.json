@@ -502,6 +502,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：TELTRONIX - BRITICOM · Northampton · 1,978 followers · 11–50 employees（17 on LinkedIn）· Partnership · Founded 2004 ·「Certified & High-Quality Copper & Fibre Optic Passive Structured Cabling - Approved By Telecom Operators & Data Centres」· Specialties FTTH, GPON, Data Centre；contactout：24 人，HQ 7 Premier Court, Northampton NN3 6LF",
+    "url": "https://uk.linkedin.com/company/teltronix",
+    "note": "",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "contactout / LinkedIn / ZoomInfo：Justin Niles — Sales Director；Emil Etibarov — Sales Director, Country（2019 至今）；Mohamed Ben Abeda — International Sales Manager；Salim Diakhite — Regional Sales Manager, Africa French Speaking；Paul Green — Product Engineering Manager；Cedric Monnet — Procurement / Sourcing Specialist",
+    "url": "https://contactout.com/company/TELTRONIX-BRITICOM-40818",
+    "note": "有专职采购 Sourcing Specialist（Cedric Monnet）和产品工程经理 → 无源布线品牌扩有源品类的对口人",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

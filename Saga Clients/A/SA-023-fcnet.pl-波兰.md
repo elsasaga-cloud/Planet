@@ -252,15 +252,19 @@ A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28D
 | 2026-09-28 | 去 | A | Managed PoE Switches |  |
 | 418 | 表 | 表 | 10gmc｜price |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：bizraport：FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0001095976 · NIP 7542916466 · REGON 160150149 · ul. Św. Jacka 2, 45-073 Opole · 收入 10 241 580 zł（2025）/ 7 242 043 zł（2024）· 净利 1 833 945 zł · 股本 100 000 zł · PKD 27.31.Z 光缆生产 / 27.32.Z；董事会 Anna Joanna Frydel、Jarosław Krzysztof Cisowski、Krzysztof Marek Smugowski、Piotr Frydel — <https://www.bizraport.pl/krs/0001095976/fcnet-spolka-z-ograniczona-odpowiedzialnoscia>　*奥波莱光纤分销/制造商，收入一年 +41%、净利率 18% → 现金好、在扩张；自有 logo 采购户*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：fcnet.pl in:email；"fcnet.pl" in:readme in:description；fcnet.pl type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

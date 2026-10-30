@@ -562,6 +562,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "HFCL 新闻稿（UFR Q4FY2024-25）：FY25 standalone Revenue ₹3795.22 Crores · EBITDA ₹475.79 Cr · PBT ₹241.43 Cr · PAT ₹194.75 Cr；Q4FY25 Revenue ₹800.72 Cr（Q-o-Q −20.87%，Y-o-Y −39.62%），Q4 standalone EBITDA −27.20 Cr、PAT −72.59 Cr；H1FY25 revenue ₹2251.85 Cr（+6.89% YoY）",
+    "url": "https://www.hfcl.com/insights/news/press-release-on-ufr-q4fy2024-25-both-on-standalone-and-consolidated-basis",
+    "note": "采购线索：印度上市电信制造集团（自有 IO 标交换机，OEM 采购户）；FY25 Q4 急转亏损 → 采购收紧期；年报季报每季 NSE 公告（已排 watch）",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "HFCL Inc.（美国子公司）FY2024-25 财报：Revenue $6,621,648（FY24：$1,149,000）· Cost of Sales $5,098,500 · 2025-03-31 working capital $(356,929)、net worth $(25,319)",
+    "url": "https://www.hfcl.com/wp-content/uploads/2025/08/HFCL_INC_Financial%20Statements_FY2024-25.pdf",
+    "note": "美国子公司刚起量、净资产为负 → 美国市场扩张期",
+    "batch": "INTEL-10",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }
