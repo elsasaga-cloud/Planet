@@ -420,6 +420,36 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "Visiotech 招聘页（2025-04）：「VISIOTECH es el mayor distribuidor europeo de material de seguridad electrónica, AV y redes, con una facturación total aproximada de 140M de euros, más de 330 empleados y presencia comercial en la gran mayoría de los países de Europa Occidental, con la sede principal ubicada en Madrid」（2024 初版本：130M€ / 300+ 人）",
+    "url": "https://empleo.visiotechsecurity.com/jobs/comercial-interno-canal-retail",
+    "note": "欧洲最大安防/AV/网络分销商之一，一年营收 +10M€；网络品类在其主营里 → 分销 20% 档的头部目标",
+    "batch": "INTEL-06",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "LinkedIn Jobs：Delegado Comercial (norte de España) — 向 Director Comercial 汇报，负责 País Vasco 区域经销商/集成商/安装商渠道；Comercial Interno canal retail（Madrid，混合办公）",
+    "url": "https://es.linkedin.com/jobs/view/delegado-comercial-norte-de-espa%C3%B1a-at-visiotech-3801952271",
+    "note": "持续扩销售团队 = 增长期",
+    "batch": "INTEL-06",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "KonaEquity：Visiotech · Torrejón de Ardoz, Madrid · founded 2007 · 263 employees（2024-12 估）· distributes to companies in more than 10 countries · LinkedIn company/visiotech · X @visiotech_es",
+    "url": "https://www.konaequity.com/company/visiotech-10402389140/",
+    "note": "",
+    "batch": "INTEL-06",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

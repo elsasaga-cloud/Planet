@@ -228,15 +228,23 @@ updated: 2026-10-30
 | 2026-08-28 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-10-01 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：Elektrotechnická asociace ČR 会员档：EMOS spol. s r. o. · Lipnická 2844, 750 02 Přerov · Zaměstnanců 290 · Obrat 2 115 mil. CZK；「V roce 2020 přesáhl konsolidovaný obrat holdingu EMOS 2,3 mld. CZK. V roce 2022 se společnosti EMOS staly součástí nadnárodní francouzské skupiny Legrand」 — <https://www.electroindustry.cz/clenska-zakladna/clenske-organizace/detail/921>　*采购线索：2022 年起是 Legrand 集团成员（38,200 人）→ 采购可能走集团框架；要不要按「巨头子公司」降 B 请 Simon 定（K7）；EMIS：2025 年 250–499 人，2024 净销售 +5.01%*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：emos.cz in:email；"emos.cz" in:readme in:description；EMOS type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：EMIS / 协会档：自有品牌 EMOS——baterie, světelné zdroje a svítidla, prodlužovací přívody, svítilny, antény, multimetry, zvonky（家用电气为主）；子公司 SK / PL / SI / HU，出口覆盖 CEE — <https://www.emis.com/php/company-profile/CZ/Emos_Spol_S_RO_en_1420136.html>　*消费电气品牌商，网络产品不是主线 → 交换机只可能作为自牌配件品类进入；对位低*
+
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

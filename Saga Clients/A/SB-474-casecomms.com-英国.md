@@ -291,13 +291,21 @@ updated: 2026-10-30
 | 2026-08-27 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Endole（Companies House 数据）：Case Communications Limited · 03913540 · incorporated 26 January 2000 · Active · Micro（Turnover under £1M，Balance sheet under £500,000，Under 10 employees；2025-03-31 账目：Employees 3）· North’s Estate, Old Oxford Road, Piddington, High Wycombe HP14 3BE · Founder/PSC Andrew Thomas Saoulis — <https://open.endole.co.uk/insight/company/03913540-case-communications-limited>　*实际是 3 人微型公司（ZoomInfo「51–200 / $17.5M」失真，不采）；已加 Companies House 申报监控*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：casecomms.com in:email；"casecomms.com" in:readme in:description；casecomms.com type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：1stdirectory：「Case Communications specialise in the design, development and manufacturer of ‘Street Hardened’ / Rugged communications products … Rugged Ethernet Switches – Fan less DC Powered, rugged 10 port Switches operating from -40C to +80C using X-Ring technology … 2 Gigabit combo / Mini GBIC SFP ports. SNMP managed」；ISO 9001；人员 Jan Corbett — Marketing Manager；VAT GB776 7485 65 — <https://1stdirectory.co.uk/companies/case-communications-ltd/>　*自牌加固交换机（10 口 X-Ring）明显是白牌贴标 → 直接 ODM 对位 STI-288DGGPM 一类；3 人公司量小但英国主攻区*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

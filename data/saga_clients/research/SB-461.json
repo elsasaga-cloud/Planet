@@ -393,6 +393,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "Elektrotechnická asociace ČR 会员档：EMOS spol. s r. o. · Lipnická 2844, 750 02 Přerov · Zaměstnanců 290 · Obrat 2 115 mil. CZK；「V roce 2020 přesáhl konsolidovaný obrat holdingu EMOS 2,3 mld. CZK. V roce 2022 se společnosti EMOS staly součástí nadnárodní francouzské skupiny Legrand」",
+    "url": "https://www.electroindustry.cz/clenska-zakladna/clenske-organizace/detail/921",
+    "note": "采购线索：2022 年起是 Legrand 集团成员（38,200 人）→ 采购可能走集团框架；要不要按「巨头子公司」降 B 请 Simon 定（K7）；EMIS：2025 年 250–499 人，2024 净销售 +5.01%",
+    "batch": "INTEL-06",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "EMIS / 协会档：自有品牌 EMOS——baterie, světelné zdroje a svítidla, prodlužovací přívody, svítilny, antény, multimetry, zvonky（家用电气为主）；子公司 SK / PL / SI / HU，出口覆盖 CEE",
+    "url": "https://www.emis.com/php/company-profile/CZ/Emos_Spol_S_RO_en_1420136.html",
+    "note": "消费电气品牌商，网络产品不是主线 → 交换机只可能作为自牌配件品类进入；对位低",
+    "batch": "INTEL-06",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -199,15 +199,27 @@ updated: 2026-10-30
 | 2024 | 表 | 表 | Simon 备注/兴趣栏｜需要30W PoE injector / from: 阿里巴巴RFQ |  |
 | 2024-12-10 | 去 | S | Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Direktronik（瑞典经销商）产品 PDF 的合规声明：Manufacturer PROXEET LIMITED · Cyprus, Paphos, 61 Neofytou Nikolaidi, Yiannis court, office 201, 8011 · +357-25100999 · info@proxeet.com；产品 iBlock Essential 便携中跨 PoE 注入器 — <https://www.direktronik.se/globalassets/_product-images--pdf/2.-kommunikation-datacenter/2.1-stromforsorjning/06.-power-over-ethernet-poe-90/poe-injektor-med-batteridrift.pdf>　*已有北欧经销渠道（Direktronik）*
+
+**KP**
+
+- 2026-10-30：RocketReach：Aleksei Kizriakov — Chief Executive Officer, ProXeet（Limassol；НГТУ 航空工程 1995–98；曾任 Daxinet、AlphaNet (Superdatch Ltd)、NEW Ltd）；Alexey Vasilenko — Lead Embedded Software Developer（Larnaca） — <https://rocketreach.co/aleksei-kizriakov-email_793836745>　*俄语背景工程师创业公司；嵌入式软件负责人在 = 能谈 SDK/OS 层*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：proxeet.com in:email；"proxeet.com" in:readme in:description；PROXEET LIMITED type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：Chiprian（Proxeet 新品牌）：「L3 switches with non-blocking architecture … Designed and assembled in Cyprus by Proxeet Ltd.」—— 10G 上联（S10G02）、24 电口（E01G24）、PoE af/at/bt 最高 90 W、Passive PoE 24/48 V、「your choice of open-source or proprietary OS」、802.1Qbb PFC、10G-KR — <https://chiprian.com/mobile>　*在塞浦路斯组装 L3 交换机 + 可选开源 OS → 主板/整机 ODM 候选（CENTEC/Marvell 方案正对位）；被动 PoE 24V 是其 ISP 客群需求*
+
+待挖：年报/财务、领英公司页、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

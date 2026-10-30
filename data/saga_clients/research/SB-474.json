@@ -530,6 +530,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Endole（Companies House 数据）：Case Communications Limited · 03913540 · incorporated 26 January 2000 · Active · Micro（Turnover under £1M，Balance sheet under £500,000，Under 10 employees；2025-03-31 账目：Employees 3）· North’s Estate, Old Oxford Road, Piddington, High Wycombe HP14 3BE · Founder/PSC Andrew Thomas Saoulis",
+    "url": "https://open.endole.co.uk/insight/company/03913540-case-communications-limited",
+    "note": "实际是 3 人微型公司（ZoomInfo「51–200 / $17.5M」失真，不采）；已加 Companies House 申报监控",
+    "batch": "INTEL-06",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "1stdirectory：「Case Communications specialise in the design, development and manufacturer of ‘Street Hardened’ / Rugged communications products … Rugged Ethernet Switches – Fan less DC Powered, rugged 10 port Switches operating from -40C to +80C using X-Ring technology … 2 Gigabit combo / Mini GBIC SFP ports. SNMP managed」；ISO 9001；人员 Jan Corbett — Marketing Manager；VAT GB776 7485 65",
+    "url": "https://1stdirectory.co.uk/companies/case-communications-ltd/",
+    "note": "自牌加固交换机（10 口 X-Ring）明显是白牌贴标 → 直接 ODM 对位 STI-288DGGPM 一类；3 人公司量小但英国主攻区",
+    "batch": "INTEL-06",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

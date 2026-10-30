@@ -95,6 +95,8 @@ def main():
             srcs.append({'id': 'intel_ch_filings', 'kind': 'html', 'url': f"https://find-and-update.company-information.service.gov.uk/company/{reg['number']}/filing-history", 'note': f"Companies House 申报历史（{reg.get('name', '')} {reg['number']}）：新账目 / 任免 / 地址变更"})
             st['ch'] += 1
         for s in MANUAL.get(c, []):
+            if any(x['id'] == s['id'] for x in srcs):
+                continue
             srcs.append(dict(s))
             st['edgar' if 'edgar' in s['id'] else 'ir'] += 1
         for x in ((rs.get('intel') or {}).get('items') or []):

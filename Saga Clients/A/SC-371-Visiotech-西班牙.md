@@ -256,15 +256,27 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-30 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：Visiotech 招聘页（2025-04）：「VISIOTECH es el mayor distribuidor europeo de material de seguridad electrónica, AV y redes, con una facturación total aproximada de 140M de euros, más de 330 empleados y presencia comercial en la gran mayoría de los países de Europa Occidental, con la sede principal ubicada en Madrid」（2024 初版本：130M€ / 300+ 人） — <https://empleo.visiotechsecurity.com/jobs/comercial-interno-canal-retail>　*欧洲最大安防/AV/网络分销商之一，一年营收 +10M€；网络品类在其主营里 → 分销 20% 档的头部目标*
+
+**领英公司页**
+
+- 2026-10-30：KonaEquity：Visiotech · Torrejón de Ardoz, Madrid · founded 2007 · 263 employees（2024-12 估）· distributes to companies in more than 10 countries · LinkedIn company/visiotech · X @visiotech_es — <https://www.konaequity.com/company/visiotech-10402389140/>
+
+**人事变动**
+
+- 2026-10-30：LinkedIn Jobs：Delegado Comercial (norte de España) — 向 Director Comercial 汇报，负责 País Vasco 区域经销商/集成商/安装商渠道；Comercial Interno canal retail（Madrid，混合办公） — <https://es.linkedin.com/jobs/view/delegado-comercial-norte-de-espa%C3%B1a-at-visiotech-3801952271>　*持续扩销售团队 = 增长期*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：visiotechsecurity.com in:email；"visiotechsecurity.com" in:readme in:description；Visiotech type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：KP、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
