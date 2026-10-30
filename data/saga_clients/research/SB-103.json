@@ -463,6 +463,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "XING：Yalcin Demirak — Head of Sales, Abetechs GmbH (GRUNDIG Security)，2017-09 → **2025-09 离任**（「Herstellung und Vertrieb von Sicherheitstechnischen Produkten. IP Cameras, TVI Cameras, NVR’s, DVR’s …」）；Dirk Reinders — Sales Manager（2018-06 至今，Erkrath）",
+    "url": "https://www.xing.com/profile/Yalcin_Demirak",
+    "note": "销售负责人 2025-09 换人 → 下次信先问新的采购/产品负责人是谁",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PRO-4-PRO：Abetechs GmbH: GRUNDIG Security · Steinhof 39, 40699 Erkrath · +49 211 53806832 · www.grundig-security.com；GRUNDIG 品牌授权经营的视频安防（IP/TVI 摄像机、录像机、VMS powered by C-WERK）",
+    "url": "https://pro-4-pro.com/de/firma/30582-abetechs-gmbh-grundig-security.html",
+    "note": "品牌授权商（非 Grundig 集团）；PoE 交换机是其配套品类",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

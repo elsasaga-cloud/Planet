@@ -57,6 +57,14 @@ DEMOTE = {
 }
 
 
+DEMOTE3 = {  # A-DEEP-03（T29-U141 2026-10-30）：土耳其收尾网查后的微型 / 不可核
+    'SB-140': 'AG Bilgisayar：博德鲁姆本地电脑维修 + 监控安装小店 → 微型',
+    'SB-153': 'Sinerjik：sinerjik.net 无可核官网，网查未得 → 身份不可核',
+    'SB-225': 'Shnrise / CESS Güvenlik：同一经营者两块牌子的小型安装商 → 微型',
+    'SB-388': 'FH Güvenlik：2025-02 新注册的小型弱电集成商 → 微型（观察一年）',
+}
+
+
 def main():
     manual = set()
     p_m = os.path.join(SD, '人工定级.csv')
@@ -66,7 +74,8 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     cnt = Counter()
     rows = []
-    for c, why in DEMOTE.items():
+    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()):
+        batch = 'A-DEEP-03' if c in DEMOTE3 else BATCH
         p = os.path.join(RESEARCH, c + '.json')
         if not os.path.exists(p):
             cnt['no_research'] += 1
@@ -78,16 +87,16 @@ def main():
             cnt['manual_skip'] += 1
             continue
         rs = json.load(open(p, encoding='utf-8'))
-        reason = f'{BATCH} {DATE} 「不是极为 OK 的就 B」（Simon）→ 下放 B：{why}'
+        reason = f'{batch} {DATE} 「不是极为 OK 的就 B」（Simon）→ 下放 B：{why}'
         hist = rs.setdefault('override_history', [])
-        if not any(h.get('batch') == BATCH for h in hist):
-            hist.append({'batch': BATCH, 'date': DATE, 'from_override': rs.get('grade_override'), 'to': 'B', 'prev_reason': rs.get('override_reason') or '', 'reason': reason})
-            rows.append([c, ents.get(c, {}).get('name', ''), ents.get(c, {}).get('country', ''), ents.get(c, {}).get('grade', ''), 'B', BATCH, DATE, reason[:200]])
+        if not any(h.get('batch') == batch for h in hist):
+            hist.append({'batch': batch, 'date': DATE, 'from_override': rs.get('grade_override'), 'to': 'B', 'prev_reason': rs.get('override_reason') or '', 'reason': reason})
+            rows.append([c, ents.get(c, {}).get('name', ''), ents.get(c, {}).get('country', ''), ents.get(c, {}).get('grade', ''), 'B', batch, DATE, reason[:200]])
         rs['grade_override'] = 'B'
         rs['override_reason'] = reason[:600]
         ad = rs.setdefault('a_deep', {})
         ad['verdict2'] = '下放B'
-        ad['verdict2_batch'] = BATCH
+        ad['verdict2_batch'] = batch
         ad['verdict2_reason'] = why
         json.dump(rs, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         cnt['下放B'] += 1

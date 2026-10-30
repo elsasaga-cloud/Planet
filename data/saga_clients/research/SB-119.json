@@ -420,6 +420,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "RocketReach / ZoomInfo / D&B：WireStar Networks（WireStar, Inc.）· College Station, Texas（4156 State Highway 6 S）· President Kyle Leissner（2005 至今；Texas A&M BBA/MS）· 42 employees · Revenue $5.1M · unified communications, data and internet connectivity, television",
+    "url": "https://rocketreach.co/wirestar-networks-profile_b40e3dbaffe3b8fd",
+    "note": "德州区域 ISP/电信，总裁本人是我方 KP",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -547,6 +547,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "Crunchbase：Data Connect Enterprise Inc · Olney, Maryland · 11–50 ·「A wide variety of products previously manufactured under the ctek, relcomm, synxcom, telenetics, and other names have been purchased by Data Connect, including intellectual property, manufacturing, and/or licencing rights」；GlobalSpec：parent of DSL Warehouse, ClickITDirect；地址 3405 Olandwood Ct, Olney MD 20832 · 301.924.7400",
+    "url": "https://www.crunchbase.com/organization/data-connect-enterprise",
+    "note": "收购多家老牌工业调制解调器/延长器品牌的 IP → 自牌工业网络设备商，交换机外采贴牌对位",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

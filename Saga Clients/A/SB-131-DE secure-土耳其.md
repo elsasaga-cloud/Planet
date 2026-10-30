@@ -192,15 +192,23 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**展会/活动**
+
+- 2026-10-30：Desecure Technology 官网：「Visit us at our booth from November 7-9, 2024, at TÜYAP … Solar Storage Istanbul 2024」—— 展示能源设施物理安防、远程监控、MAS（Mobile Alarm Stand）；Enerji Rehberi：亦参加 TÜREK 等能源展，23 şehirde aktif saha operasyonu — <https://desecuretechnology.com/en/solar-storage/>　*全国性私人安保 + 技术公司，主攻光伏/风电场安防（户外远程监控 = 工业 PoE 交换机场景）；每年 11 月 Solar Storage Istanbul*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：desecuretechnology.com in:email；"desecuretechnology.com" in:readme in:description；DE secure type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：Deviser 2025-06：Desecure——Alarm izleme merkezi, geçiş kontrol, video analiz, plaka tanıma ve kamera sistemleri「tam entegre güvenlik altyapısı」；自研移动产品 MIA（Mobil İzleme Aracı）/ MID（Mobil İzleme Direği）/ MAS — <https://deviser.tech/2025/06/27/en-iyi-ozel-guvenlik-sirketi-desecure-ile-guvendesiniz/>　*自有移动监控产品 = 需要紧凑工业交换机/光口（MID 移动监控杆）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、新闻/招标（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

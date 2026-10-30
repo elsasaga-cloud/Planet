@@ -249,15 +249,23 @@ updated: 2026-10-30
 | 2026-08-18 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-23 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：PRO-4-PRO：Abetechs GmbH: GRUNDIG Security · Steinhof 39, 40699 Erkrath · +49 211 53806832 · www.grundig-security.com；GRUNDIG 品牌授权经营的视频安防（IP/TVI 摄像机、录像机、VMS powered by C-WERK） — <https://pro-4-pro.com/de/firma/30582-abetechs-gmbh-grundig-security.html>　*品牌授权商（非 Grundig 集团）；PoE 交换机是其配套品类*
+
+**人事变动**
+
+- 2026-10-30：XING：Yalcin Demirak — Head of Sales, Abetechs GmbH (GRUNDIG Security)，2017-09 → **2025-09 离任**（「Herstellung und Vertrieb von Sicherheitstechnischen Produkten. IP Cameras, TVI Cameras, NVR’s, DVR’s …」）；Dirk Reinders — Sales Manager（2018-06 至今，Erkrath） — <https://www.xing.com/profile/Yalcin_Demirak>　*销售负责人 2025-09 换人 → 下次信先问新的采购/产品负责人是谁*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：grundig-security.com in:email；"grundig-security.com" in:readme in:description；Grundig type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、领英公司页、KP、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

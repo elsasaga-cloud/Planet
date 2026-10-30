@@ -1,15 +1,15 @@
 # sinerjik
 **官方名称（调研核实）**：Sinerjik（sinerjik.net，TR；官网未检索到）
 
-> **评级 A**　|　土耳其　|　档案编号 `SB-153`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　土耳其　|　档案编号 `SB-153`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Evelyn　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-153
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Sinerjik：sinerjik.net 无可核官网，网查未
 name_official: "Sinerjik（sinerjik.net，TR；官网未检索到）"
 score: 55
 country: 土耳其
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：ISAF 记录：Ufuk Gökalp（ufuk@sinerjik.net）——问了 PoE splitter（一个输入、两个输出），我方推了 5 口 PoE 延长器，客户想要小的那种；无后续跟进。域名 sinerjik.net 无搜索结果 → 仅表内信息。需求为 PoE 分离/延长类配件：Saga 价格表无 splitter / 延长器 / injector SKU（见 Q-32）→ 待核型；可替代方案为 DIN 4 口 PoE 小机（需外接电源）。（调研 2026-10-21；表内兴趣：问了POE Splitter  一个输入 两个输出   推了5口POE延长器， 想要小的那种）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Sinerjik：sinerjik.net 无可核官网，网查未得 → 身份不可核）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 待核型：PoE splitter / 5 口 PoE 延长器不在价格表（Q-32）；最近替代 STI-054GP（DIN 4 PoE + 1 上联，$32.5，需 48 V 供电）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ufuk Bey, 1 giriş 2 çıkışlı PoE splitter şu an listemizde yok; en yakın çözüm 48 V beslemeli DIN ray 4 PoE + 1 uplink mini switch (32,5 USD EXW) — sahada harici güç imkânı var mı, yoksa tamamen PoE beslemeli bir cihaz mı şart?
@@ -116,7 +116,7 @@ updated: 2026-10-30
   > 问了POE Splitter  一个输入 两个输出   推了5口POE延长器， 想要小的那种 / Ufuk GOKALP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ufuk Gökalp（（ISAF 名片；职务待核））ufuk@sinerjik.net（用户表） —〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 B）——A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Sinerjik：sinerjik.net 无可核官网，网查未得 → 身份不可核
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -175,9 +175,13 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜问了POE Splitter  一个输入 两个输出   推了5口POE延长器， 想要小的那种 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30（查过未得）：未得：网查「sinerjik.net / Sinerjik / Ufuk Gökalp」只命中同名 SinerjiNet Bilişim A.Ş.、Sinerji BT 等无关公司；sinerjik.net 无可核官网　*1 查未得即停；身份不可核 → A-DEEP-03 下放 B*
 
 **GitHub/技术足迹**
 
@@ -240,7 +244,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -267,7 +271,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -305,11 +309,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
 
 ---
 

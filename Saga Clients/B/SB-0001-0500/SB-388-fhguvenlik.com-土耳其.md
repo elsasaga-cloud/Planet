@@ -1,15 +1,15 @@
 # fhguvenlik.com
 **官方名称（调研核实）**：FH Güvenlik Sistemleri ve Bilişim San. Tic. Ltd. Şti.（İstanbul Beşiktaş / Perpa, TR；fhguvenlik.com）
 
-> **评级 A**　|　土耳其　|　档案编号 `SB-388`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　土耳其　|　档案编号 `SB-388`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Evelyn　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-388
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电
+rating_research: B  # A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：FH Güvenlik：2025-02 新注册的小型弱电集成商
 name_official: "FH Güvenlik Sistemleri ve Bilişim San. Tic. Ltd. Şti.（İstanbul Beşiktaş / Perpa, TR；fhguvenlik.com）"
 score: 43
 country: 土耳其
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔的弱电/安防工程公司 FH Güvenlik（法人 2025-02-13 新设，团队自述 15 年以上经验；CCTV（模拟/AHD/IP）、火灾报警、报警、自动化等弱电集成；总部 Sinan Paşa Mah. Süleyman Seba Cad. No:6 Beşiktaş，技术办公室 Perpa B Blok Kat:11 No:1730 Şişli；0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）。ISAF 记录：Hasti F. Göller（hasti@fhguvenlik.com）——要工业级交换机；无后续跟进。守界：火灾报警主系统不供，仅网络层。（调研 2026-10-21；表内兴趣：工业级交换机）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：FH Güvenlik：2025-02 新注册的小型弱电集成商 → 微型（观察一年））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?
@@ -124,7 +124,7 @@ updated: 2026-10-30
   > 工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hasti F. Göller（研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28））hasti@fhguvenlik.com（用户表） +90 534 594 63 61（公司）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）
+- **调研后定级**：B（原自动 B）——A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：FH Güvenlik：2025-02 新注册的小型弱电集成商 → 微型（观察一年）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -180,9 +180,13 @@ updated: 2026-10-30
 
 **故事线**：土耳其·集成商/安装商；登记线索：TR · 1 次检索：find.com.tr（FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SAN: FH GÜVENLİK SİSTEM。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-288GP；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：find.com.tr：FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ · Kuruluş 13 Şubat 2025 · NACE 631108 · Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4 Beşiktaş/İstanbul；官网：「2025 yılında İstanbul’da kurulmuş … 15 yılı aşkın tecrübe」；技术办公室 Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli — <https://www.find.com.tr/Company/fhguvenliksistemlerivebilisimsanayiticaretlimitedsirketi>　*2025 年 2 月新注册的小型弱电集成商 → A-DEEP-03 下放 B（观察一年）*
 
 **GitHub/技术足迹**
 
@@ -248,7 +252,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -275,7 +279,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -313,11 +317,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）
 
 ---
 

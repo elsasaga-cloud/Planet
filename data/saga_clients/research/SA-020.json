@@ -539,6 +539,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KRS-online：Bitstream Sp. z o.o. · Mełgiewska 7 lok. 9, 20-209 Lublin · NIP 9462508588 · REGON 060184269 · KRS 0000266288 · PKD 26.30.Z Produkcja sprzętu (tele)komunikacyjnego · 决策人 Dariusz Pietrzyk；EMIS：成立 2006-10-20，2021 年 40 人；Aplikuj：BitStream Sp. z o.o（KRS 0001010572，spółka akcyjna，2023-01-02 登记）",
+    "url": "https://www.krs-online.com.pl/firma/1764805-bitstream-sp-z-o-o",
+    "note": "卢布林（不是研究档写的 Opole）数据传输设备制造商，40 人；2023 年疑改制为股份公司 → 扩张信号；OEM 伙伴对位",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

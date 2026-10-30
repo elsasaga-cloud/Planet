@@ -233,15 +233,19 @@ updated: 2026-10-30
 | 2026-03-11 | 去 | A | OEM Core Switching Solution |  |
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：RocketReach / ZoomInfo / D&B：WireStar Networks（WireStar, Inc.）· College Station, Texas（4156 State Highway 6 S）· President Kyle Leissner（2005 至今；Texas A&M BBA/MS）· 42 employees · Revenue $5.1M · unified communications, data and internet connectivity, television — <https://rocketreach.co/wirestar-networks-profile_b40e3dbaffe3b8fd>　*德州区域 ISP/电信，总裁本人是我方 KP*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：wirestar.net in:email；"wirestar.net" in:readme in:description；wirestar.net type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

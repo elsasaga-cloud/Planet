@@ -273,15 +273,19 @@ updated: 2026-10-30
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-28 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：bizraport（KRS 0000585900）：IMPAKT S.A. · 股本 60 761 002 PLN · 收入 152 188 554 zł（2025）/ 149 208 335 zł（2024）· 净利 8 624 996 zł · 雇员 112（2025，2023 年 107）；LinkedIn：Mosina, Wielkopolska · 1997 年 · 51–200 · 自有品牌 Genesis, Lanberg, Natec, Fury, Armac, Audictus · 6,800 SKU · 产品销往 40 国 — <https://www.bizraport.pl/krs/0000585900/impakt-spolka-akcyjna>　*采购线索：Lanberg 是其网络品牌（交换机/线缆）→ 自牌交换机 OEM 直接对位；年销 ≈1.5 亿 PLN、112 人、仍在增员*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：impakt.com.pl in:email；"impakt.com.pl" in:readme in:description；impakt.com.pl type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -591,6 +591,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Prospeo / RocketReach：CXR Larus（美国 San Jose 分部，+1 408-573-2700）· Telecommunications · 11–20 employees · 年营收估 $1.6M · VP of Sales Bruce Bartley · 另有 Shanghai Manager Gary Lv、Molde（NO）Web Developer",
+    "url": "https://prospeo.io/c/cxr-larus",
+    "note": "查到的是 CXR 集团美国侧（CXR Larus）；法国主体 CXR（Abondant）规模待另查；集团整体偏小",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -1,6 +1,6 @@
 # Saga Clients — Saga 历史客户全量档案（A / B / C）
 
-> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 166 / B 1303 / C 3178
+> 生成：2026-10-30　|　来源：`Clients/`（Simon 上传到 main 的 137 个文件：6,246 行线索 + 20,819 条跟进记录）　|　归并后 **4647 个客户**：A 162 / B 1307 / C 3178
 >
 > 流水线：`scripts/saga_clients/extract.py`（逐表逐行抽取）→ `build.py`（归并重复 + 规则分级 + 人工定级/调研覆盖）→ `render.py`（本目录）。**MD 不手改**：改 `data/saga_clients/人工定级.csv` 或 `research/<编号>.json` 后重跑。
 
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 | 北美 | 22 | 174 | 289 | 485 |
 | 欧洲 | 36 | 439 | 522 | 997 |
-| 土耳其 | 20 | 115 | 72 | 207 |
+| 土耳其 | 16 | 119 | 72 | 207 |
 | 中东 | 13 | 67 | 246 | 326 |
 | 亚太 | 23 | 233 | 696 | 952 |
 | 俄语区 | 13 | 93 | 398 | 504 |
@@ -30,7 +30,7 @@
 | 乌克兰 | 0 | 0 | 55 | 55 |
 | 中国大陆 | 0 | 0 | 17 | 17 |
 | 未知 | 0 | 2 | 51 | 53 |
-| **合计** | 166 | 1303 | 3178 | 4647 |
+| **合计** | 162 | 1307 | 3178 | 4647 |
 
 状态分布：名单内 2011；已推送 1239；WhatsApp 526；用户判定不行 444；有回复 229；发不过去 83；历史合作 80；成交过 20；回复暂无需求 15
 
@@ -38,7 +38,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 ## 调研覆盖（A 候选逐家网页核实）
 
-- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 430 / 调研后降 C 280。
+- 自动评级曾为 A 的候选 **全部** 做了网页核实：1756 家（`data/saga_clients/research/`，每家含引文 + URL + 日期）；维持 A 880 / 调研后降 B 434 / 调研后降 C 280。
 - 降级口径：≥14 次推送 0 回复（即便面谈/OEM 意向）→ B 并标「回复即升 A」；核心需求在 Saga 线外（IP67、M12、HDMI 延长器、仅 SFP/DWDM、400G）→ B；已停业 / 休眠壳公司 / 疑似同行 / 军工守界 / TKH 等集团子公司 → C；中国直采的纯比价客户 → B。
 - B/C 级未逐家网页核实（量级 4,500+），分级依据为用户表信号 + 规则；任一 B 升 A 前先补一份 research JSON。
 
@@ -59,7 +59,7 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 
 目录结构：A 平铺；B / C 每 500 户一个子目录（`B/SB-0001-0500/`、`B/SB-0501-1000/`、`B/SB-1001-1500/` …，GitHub 网页一个目录只显示前 1,000 个文件），编号连号，看编号就知道在哪个子目录；各级 `_索引.md` 的链接直达文件。
 
-### A 级（166）— `Saga Clients/A/`
+### A 级（162）— `Saga Clients/A/`
 
 | 编号 | 公司 | 国家 | 类型 | 状态 | 分数 | 调研 | 档案 |
 |---|---|---|---|---|---|---|---|
@@ -161,10 +161,8 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-131 | DE secure | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 55 | 已 | [SB-131-DE secure-土耳其.md](A/SB-131-DE%20secure-土耳其.md) |
 | SB-132 | F.A.S.T | 土耳其 | 工业自动化/IoT 方案商 | 名单内·未触达 | 55 | 已 | [SB-132-F.A.S.T-土耳其.md](A/SB-132-F.A.S.T-土耳其.md) |
 | SB-134 | Kassaba Systems | 保加利亚 | 系统集成/工程商 | 已推送 15 次·未回复 | 55 | 已 | [SB-134-Kassaba Systems-保加利亚.md](A/SB-134-Kassaba%20Systems-保加利亚.md) |
-| SB-140 | ag-bilgisayar.com | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 55 | 已 | [SB-140-ag-bilgisayar.com-土耳其.md](A/SB-140-ag-bilgisayar.com-土耳其.md) |
 | SB-143 | broadstar.com | 美国 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 55 | 已 | [SB-143-broadstar.com-美国.md](A/SB-143-broadstar.com-美国.md) |
 | SB-144 | bsdnetworks.com | 加拿大 | 品牌商/贴牌需求（OEM/ODM） | 已推送 16 次·未回复 | 55 | 已 | [SB-144-bsdnetworks.com-加拿大.md](A/SB-144-bsdnetworks.com-加拿大.md) |
-| SB-153 | sinerjik | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 55 | 已 | [SB-153-sinerjik-土耳其.md](A/SB-153-sinerjik-土耳其.md) |
 | SB-160 | linx-com.com | 英国 | 经销/集成（类型待核） | WhatsApp 已加·未回复 | 54 | 已 | [SB-160-linx-com.com-英国.md](A/SB-160-linx-com.com-英国.md) |
 | SB-163 | skeo.ru | 俄罗斯 | 经销/集成（类型待核） | 有回复·跟进中 | 54 | 已 | [SB-163-skeo.ru-俄罗斯.md](A/SB-163-skeo.ru-俄罗斯.md) |
 | SB-164 | unea-x.com | 日本 | IT/工业产品贸易商（日本，工业 switch 现国内货） | 已推送 2 次·未回复 | 54 | 已 | [SB-164-unea-x.com-日本.md](A/SB-164-unea-x.com-日本.md) |
@@ -176,7 +174,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-189 | vintronsmartvision.com | 印度 | 印度 CCTV 制造商（自有 PoE 交换机线，OEM/SKD 采购） | 名单内·未触达 | 52 | 已 | [SB-189-vintronsmartvision.com-印度.md](A/SB-189-vintronsmartvision.com-印度.md) |
 | SB-193 | Dema Vertriebs GmbH | 德国 | 经销/集成（类型待核） | 有回复·跟进中 | 51 | 已 | [SB-193-Dema Vertriebs GmbH-德国.md](A/SB-193-Dema%20Vertriebs%20GmbH-德国.md) |
 | SB-201 | Elsi | 意大利 | 安防集成/经销 | 已推送 14 次·未回复 | 50 | 已 | [SB-201-Elsi-意大利.md](A/SB-201-Elsi-意大利.md) |
-| SB-225 | CESS Govalik | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 49 | 已 | [SB-225-CESS Govalik-土耳其.md](A/SB-225-CESS%20Govalik-土耳其.md) |
 | SB-226 | HANCHANG Infotech CO.,LTD | 韩国 | 韩国网络品牌商（自有标商用 FS，现 Volktek） | 已推送 2 次·未回复 | 49 | 已 | [SB-226-HANCHANG Infotech CO.,LTD-韩国.md](A/SB-226-HANCHANG%20Infotech%20CO.,LTD-韩国.md) |
 | SB-243 | hfcl.com | 印度 | 印度上市电信制造集团（IO 自有标交换机，OEM 采购；有回复） | 已推送 1 次·未回复 | 49 | 已 | [SB-243-hfcl.com-印度.md](A/SB-243-hfcl.com-印度.md) |
 | SB-248 | nellyssecurity.com | 美国 | 安防集成/经销 | 已推送 9 次·未回复 | 49 | 已 | [SB-248-nellyssecurity.com-美国.md](A/SB-248-nellyssecurity.com-美国.md) |
@@ -192,7 +189,6 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SB-359 | larch-networks.com | 以色列 | 网络软硬件方案商 + 自有品牌工业交换机（中国 ODM 采购） | 名单内·未触达 | 44 | 已 | [SB-359-larch-networks.com-以色列.md](A/SB-359-larch-networks.com-以色列.md) |
 | SB-367 | thuyluc.com | 越南 | 经销/集成（类型待核） | 有回复·跟进中 | 44 | 已 | [SB-367-thuyluc.com-越南.md](A/SB-367-thuyluc.com-越南.md) |
 | SB-375 | Delta Consulting | 格鲁吉亚 | 经销/集成（类型待核） | 成交过·已凉（Simon: gg） | 93 | 已 | [SB-375-Delta Consulting-格鲁吉亚.md](A/SB-375-Delta%20Consulting-格鲁吉亚.md) |
-| SB-388 | fhguvenlik.com | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 43 | 已 | [SB-388-fhguvenlik.com-土耳其.md](A/SB-388-fhguvenlik.com-土耳其.md) |
 | SB-389 | hiperonline.com | 土耳其 | 经销/集成（类型待核） | 名单内·未触达 | 43 | 已 | [SB-389-hiperonline.com-土耳其.md](A/SB-389-hiperonline.com-土耳其.md) |
 | SB-392 | makrosisas.com.tr | 土耳其 | 系统集成/工程商 | 名单内·未触达 | 43 | 已 | [SB-392-makrosisas.com.tr-土耳其.md](A/SB-392-makrosisas.com.tr-土耳其.md) |
 | SB-447 | automationsystem.in | 印度 | 经销/集成（类型待核） | 有回复·跟进中 | 41 | 已 | [SB-447-automationsystem.in-印度.md](A/SB-447-automationsystem.in-印度.md) |
@@ -230,9 +226,9 @@ C 级细分：群发冷名单无回应 1025；用户判定不行/不相关 485�
 | SC-2904 | firsttech.co.za | 南非 | 经销/集成（类型待核） | 用户判定不行 | -51 | 已 | [SC-2904-firsttech.co.za-南非.md](A/SC-2904-firsttech.co.za-南非.md) |
 | SC-371 | Visiotech | 西班牙 | OEM（闸 2 判定 · 30% 档） | 历史合作·维护（非 Saga 成单） | 22 | 已 | [SC-371-Visiotech-西班牙.md](A/SC-371-Visiotech-西班牙.md) |
 
-### B 级（1303）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
+### B 级（1307）— `Saga Clients/B/`（子目录 `SB-0001-0500/` / `SB-0501-1000/` / `SB-1001-1500/` / `SB-1501-2000/` / `SB-2001-2500/` / `SB-2501-3000/` / `SB-3001-3500/`）
 
-全部 1303 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
+全部 1307 个档案见 `Saga Clients/B/_索引.md`（编号 / 公司 / 国家 / 状态 / 分数 / 文件名）。
 
 ### C 级（3178）— `Saga Clients/C/`（子目录 `SC-0001-0500/` / `SC-0501-1000/` / `SC-1001-1500/` / `SC-1501-2000/` / `SC-2001-2500/` / `SC-2501-3000/` / `SC-3001-3500/`）
 

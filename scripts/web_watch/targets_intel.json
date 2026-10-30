@@ -2,8 +2,8 @@
  "_comment": "A 类挖底 watch 源（intel_targets.py 离线生成，幂等；与 targets.json / targets_auto.json 合并，源 id 以 intel_ 开头）",
  "generated": "2026-10-30",
  "stats": {
-  "news_en": 151,
-  "news_local": 71,
+  "news_en": 150,
+  "news_local": 70,
   "edgar": 1,
   "ch": 6,
   "ir": 3,
@@ -1722,9 +1722,9 @@
   {
    "code": "SB-140",
    "name": "ag-bilgisayar.com",
-   "grade": "A",
+   "grade": "B",
    "country": "土耳其",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -1788,27 +1788,6 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Klasnet%20%C4%B0leti%C5%9Fim%20ve%20G%C3%BCvenlik%22&hl=tr&gl=TR&ceid=TR:tr",
      "note": "Google News 本地语种（TR）：「Klasnet İletişim ve Güvenlik」"
-    }
-   ]
-  },
-  {
-   "code": "SB-153",
-   "name": "sinerjik",
-   "grade": "A",
-   "country": "土耳其",
-   "layer": "A",
-   "sources": [
-    {
-     "id": "intel_news_en",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Sinerjik%22&hl=en-US&gl=US&ceid=US:en",
-     "note": "Google News 英文：「Sinerjik」（精确短语；同名误报看标题再用）"
-    },
-    {
-     "id": "intel_news_tr",
-     "kind": "rss",
-     "url": "https://news.google.com/rss/search?q=%22Sinerjik%22&hl=tr&gl=TR&ceid=TR:tr",
-     "note": "Google News 本地语种（TR）：「Sinerjik」"
     }
    ]
   },
@@ -2016,9 +1995,9 @@
   {
    "code": "SB-225",
    "name": "CESS Govalik",
-   "grade": "A",
+   "grade": "B",
    "country": "土耳其",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",
@@ -2253,9 +2232,9 @@
   {
    "code": "SB-388",
    "name": "fhguvenlik.com",
-   "grade": "A",
+   "grade": "B",
    "country": "土耳其",
-   "layer": "A",
+   "layer": "B",
    "sources": [
     {
      "id": "intel_news_en",

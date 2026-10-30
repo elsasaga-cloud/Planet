@@ -369,6 +369,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Datanyze / ZoomInfo：BroadStar · 3965 Investment Ln Ste A5, West Palm Beach, FL 33404 · CEO Tyler Bell（2009 至今）· Revenue $18.9M · 70 employees（ZoomInfo 51–200）· Founded 2004 · (561) 472-5022；CFO Howard Bernstein；Senior NOC Engineer Francisco Petazzi",
+    "url": "https://www.datanyze.com/companies/broadstar/33904157",
+    "note": "佛州 FTTH/MDU 运营商，70 人 $19M——接入/汇聚交换机、SFP 的真实买家；NOC 工程师是技术对口",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

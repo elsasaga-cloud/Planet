@@ -251,6 +251,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "展会/活动",
+    "date": "2026-10-30",
+    "quote": "Desecure Technology 官网：「Visit us at our booth from November 7-9, 2024, at TÜYAP … Solar Storage Istanbul 2024」—— 展示能源设施物理安防、远程监控、MAS（Mobile Alarm Stand）；Enerji Rehberi：亦参加 TÜREK 等能源展，23 şehirde aktif saha operasyonu",
+    "url": "https://desecuretechnology.com/en/solar-storage/",
+    "note": "全国性私人安保 + 技术公司，主攻光伏/风电场安防（户外远程监控 = 工业 PoE 交换机场景）；每年 11 月 Solar Storage Istanbul",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "Deviser 2025-06：Desecure——Alarm izleme merkezi, geçiş kontrol, video analiz, plaka tanıma ve kamera sistemleri「tam entegre güvenlik altyapısı」；自研移动产品 MIA（Mobil İzleme Aracı）/ MID（Mobil İzleme Direği）/ MAS",
+    "url": "https://deviser.tech/2025/06/27/en-iyi-ozel-guvenlik-sirketi-desecure-ile-guvendesiniz/",
+    "note": "自有移动监控产品 = 需要紧凑工业交换机/光口（MID 移动监控杆）",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

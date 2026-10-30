@@ -255,15 +255,19 @@ A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度�
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-28 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：proff.se / hitta.se：Direktronik Aktiebolag · org.nr 556281-9663 · Registreringsår 1986 · Nynäshamn（Konsul Johnsons väg 15）· Bokslut 2024-03：Omsättning 130 548 Tkr（−8.1%）· Resultat efter finansnetto 23 742 Tkr · Anställda 26（bolagsfakta：28，+1 vs 2023）· SNI 46521 Partihandel med elektronikkomponenter；经营范围含 import, tillverkning och försäljning av datakomponenter — <https://proff.se/befattningshavare/direktronik-aktiebolag/-/-/5562819663/>　*瑞典老牌进口分销商，年销 ≈1.3 亿瑞典克朗、利润率 ≈18%（现金充裕）；已在卖 Proxeet 的 PoE 注入器 → 自牌/多品牌采购老手*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：direktronik.se in:email；"direktronik.se" in:readme in:description；direktronik.se type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -290,7 +294,7 @@ A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+548 −0 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-043/`；本节随档案重渲染刷新，实时看日志。
 

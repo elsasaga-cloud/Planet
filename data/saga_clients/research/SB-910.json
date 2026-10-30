@@ -454,6 +454,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "Le Figaro Entreprises / Xerfi / polesocietes：ETIC TELECOM · SIREN 380927475 · SAS · 创立 1991 · Montbonnot-Saint-Martin（Isère）· 10–19 salariés · CA：2 498 k€（03/2020）→ 4 964 k€（03/2021）→ 6 644 k€（03/2022）→ 6 M€（2023）→ **3 930 958 €（exercice clos 31/03/2025，résultat net 321 866 €）** · Délai de paiement fournisseur 106 jours（2023）",
+    "url": "https://entreprises.lefigaro.fr/etic-telecom-38/entreprise-380927475",
+    "note": "采购线索：工业路由器/远程访问设备制造商，营收两年腰斩（6.6M→3.9M€）；对供应商付款周期 106 天 → 合作要前 T/T",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -263,15 +263,19 @@ updated: 2026-10-30
 | 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：Le Figaro Entreprises / Xerfi / polesocietes：ETIC TELECOM · SIREN 380927475 · SAS · 创立 1991 · Montbonnot-Saint-Martin（Isère）· 10–19 salariés · CA：2 498 k€（03/2020）→ 4 964 k€（03/2021）→ 6 644 k€（03/2022）→ 6 M€（2023）→ **3 930 958 €（exercice clos 31/03/2025，résultat net 321 866 €）** · Délai de paiement fournisseur 106 jours（2023） — <https://entreprises.lefigaro.fr/etic-telecom-38/entreprise-380927475>　*采购线索：工业路由器/远程访问设备制造商，营收两年腰斩（6.6M→3.9M€）；对供应商付款周期 106 天 → 合作要前 T/T*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：etictelecom.com in:email；"etictelecom.com" in:readme in:description；etictelecom.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

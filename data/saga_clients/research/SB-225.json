@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Shnrise / CESS Güvenlik：同一经营者两块牌子的小型安装商 → 微型",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -137,6 +137,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-03",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Shnrise / CESS Güvenlik：同一经营者两块牌子的小型安装商 → 微型"
   }
  ],
  "ab_final": {
@@ -205,7 +213,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-03",
+  "verdict2_reason": "Shnrise / CESS Güvenlik：同一经营者两块牌子的小型安装商 → 微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -218,6 +229,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Shnrise Güvenlik Sistemleri（shnrise.com.tr，İstanbul；0850 840 68 01）：kamera, alarm, plaka okuma（LPR/ANPR）, PDKS, network altyapı；同一经营者另有 CESS Güvenlik Sistemleri（cessguvenlik.com：kamera / alarm / PDKS / network altyapı / yangın ihbar）",
+    "url": "https://www.shnrise.com.tr/tr/hizmet/plaka-okuma-sistemleri-25",
+    "note": "两块牌子的小型安装商 → A-DEEP-03 下放 B",
+    "batch": "INTEL-09",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

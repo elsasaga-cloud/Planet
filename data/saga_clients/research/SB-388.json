@@ -39,8 +39,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：FH Güvenlik：2025-02 新注册的小型弱电集成商 → 微型（观察一年）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -155,6 +155,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）"
+  },
+  {
+   "batch": "A-DEEP-03",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）",
+   "reason": "A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：FH Güvenlik：2025-02 新注册的小型弱电集成商 → 微型（观察一年）"
   }
  ],
  "snap_thicken": {
@@ -228,7 +236,10 @@
   "prices_out": [],
   "timeline": [],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-03",
+  "verdict2_reason": "FH Güvenlik：2025-02 新注册的小型弱电集成商 → 微型（观察一年）"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -241,6 +252,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "find.com.tr：FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ · Kuruluş 13 Şubat 2025 · NACE 631108 · Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4 Beşiktaş/İstanbul；官网：「2025 yılında İstanbul’da kurulmuş … 15 yılı aşkın tecrübe」；技术办公室 Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli",
+    "url": "https://www.find.com.tr/Company/fhguvenliksistemlerivebilisimsanayiticaretlimitedsirketi",
+    "note": "2025 年 2 月新注册的小型弱电集成商 → A-DEEP-03 下放 B（观察一年）",
+    "batch": "INTEL-09",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

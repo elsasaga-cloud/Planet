@@ -573,6 +573,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "bizraport（KRS 0000585900）：IMPAKT S.A. · 股本 60 761 002 PLN · 收入 152 188 554 zł（2025）/ 149 208 335 zł（2024）· 净利 8 624 996 zł · 雇员 112（2025，2023 年 107）；LinkedIn：Mosina, Wielkopolska · 1997 年 · 51–200 · 自有品牌 Genesis, Lanberg, Natec, Fury, Armac, Audictus · 6,800 SKU · 产品销往 40 国",
+    "url": "https://www.bizraport.pl/krs/0000585900/impakt-spolka-akcyjna",
+    "note": "采购线索：Lanberg 是其网络品牌（交换机/线缆）→ 自牌交换机 OEM 直接对位；年销 ≈1.5 亿 PLN、112 人、仍在增员",
+    "batch": "INTEL-09",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

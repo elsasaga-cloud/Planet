@@ -1,15 +1,15 @@
 # ag-bilgisayar.com
 **官方名称（调研核实）**：AG Bilgisayar（A&G Bilgisayar，Bodrum/Muğla, TR；ag-bilgisayar.com）
 
-> **评级 A**　|　土耳其　|　档案编号 `SB-140`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　土耳其　|　档案编号 `SB-140`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：ISAF2025展会、表:Evelyn　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-140
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：AG Bilgisayar：博德鲁姆本地电脑维修 + 监控安装
 name_official: "AG Bilgisayar（A&G Bilgisayar，Bodrum/Muğla, TR；ag-bilgisayar.com）"
 score: 55
 country: 土耳其
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其博德鲁姆的小型 IT/安防服务商 AG Bilgisayar（Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29 Bodrum；+90 546 609 99 06；10+ 年经验；业务：IP/模拟监控、防盗/火灾报警、门禁/考勤、停车闸机自动化、服务器与 PC 供应/维修）。ISAF 记录：Aycan Çam——要 bypass，问千兆 2 光 8 带 PoE 带管理带 bypass 价格，不需要 10G，拿了彩页；无后续跟进。（调研 2026-10-21；表内兴趣：要bypass, 问了千兆2光8带POE带管理带bypass价格 不需要10G  拿了彩页）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：AG Bilgisayar：博德鲁姆本地电脑维修 + 监控安装小店 → 微型）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 安装商 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$137.5）作标准答复；带光 bypass 用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP，$194.3，Saga 暂无对应型号）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Aycan Bey, sorduğunuz gigabit 2 SFP + 8 PoE yönetilebilir endüstriyel switch 137,5 USD EXW; fiber bypass'lı sürüm 4 SFP'li gövdede 194,3 USD — bariyer/otopark projenizde bypass şart mı, yoksa standart sürüm yeterli mi?
@@ -124,7 +124,7 @@ updated: 2026-10-30
   > 要bypass, 问了千兆2光8带POE带管理带bypass价格 不需要10G  拿了彩页
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Aycan Çam（研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28））info@ag-bilgisayar.com（用户表） +90 546 609 99 06（公司）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 B）——A-DEEP-03 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：AG Bilgisayar：博德鲁姆本地电脑维修 + 监控安装小店 → 微型
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -188,9 +188,13 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜要bypass, 问了千兆2光8带POE带管理带bypass价格 不需要10G  拿了彩页 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：官网 / turgutreisrehberi：AG Bilgisayar · Yokuşbaşı Mah. Külcü Sok. Şeref Konday İşhanı No:29, 48400 Bodrum/Muğla · 0546 609 99 06；「10 yılı aşkın deneyimi」；业务：Bodrum güvenlik kamerası, ağ kurulumu, geçiş sistemleri, sunucu kurulumu, teknik servis（兼电脑维修） — <https://ag-bilgisayar.com/>　*博德鲁姆本地电脑维修 + 监控安装小店 → 微型，A-DEEP-03 下放 B*
 
 **GitHub/技术足迹**
 
@@ -255,7 +259,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -282,7 +286,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -320,11 +324,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
 
 ---
 

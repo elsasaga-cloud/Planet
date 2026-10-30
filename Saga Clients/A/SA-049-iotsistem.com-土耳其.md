@@ -293,9 +293,13 @@ updated: 2026-10-30
 | 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-18 | 去 | A | Re: 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：all.biz / 官网：Bosgem Otomasyon Ltd. Şti. · 旧址 Şerif Ali Mah. Yunus Sok. No:35/27 Y.Dudullu；现址 Cevizli Mah. Bağdat Cad. Çoşkunlar Sok. Dragos Center No:16-18/11 Maltepe/İstanbul · 0216 466 1 440 · info@bosgem.com；iotsistem.com 版权「2025 © BOSGEM OTOMASYON」 — <https://www.bosgem.com/bize-ulasin/>　*法定主体 Bosgem Otomasyon Ltd. Şti.（研究档原「法定全称待补」已补）；网店 2025 年仍在维护*
 
 **GitHub/技术足迹**
 
