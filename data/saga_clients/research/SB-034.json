@@ -39,8 +39,8 @@
    "role": "经营者（2025-03 回 Interested；2025-05 要 5 电口具体信息）= 收件人 — 一页纸一次：集成商 25% B small、直接报 STC-228GP（8 PoE + 2 SFP）+ 5 口 STI-054GP（4 PoE + 1 GE）按主表现价、MOQ 1、付费样机、预付 100%、小额快递 DAP— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "B",
- "override_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n邮件一次性给 STI-244GP/5 口型号资料即可。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -149,5 +149,28 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-03-18] interested ในวันที่ อ. 18 มี.ค. 2025 10:00 Alan from Saga Telecom < a.sagatelecom@gmail.com> เขียนว่า: ‖ [A 2025-05-14] ราคาเท่าไหร่? ขอบคุณครับ ขอแสดงความนับถือ พงศ์นันท์ รื่นบุญ (ปีเตอร์) มือถือ : 08-0069-1918, 06-2217-9229 E-ma ‖ 表 2025.3.18: 28PoE→Interested ‖ 研 2025-03-18 พงษ์อนันต์（泰国）: interested（回 Alan 2025-03-18「8 Port Industrial PoE Switch」）"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）"
+  }
+ ]
 }

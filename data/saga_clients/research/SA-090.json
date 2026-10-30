@@ -90,7 +90,7 @@
   "models": "NDR-240-48、STI-21616GP、STI-21616GPM、STI-288GP、STI-288GPM、STI-G2-MD、STI-G20-SD"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "channels": {
   "公开动态平台（监控中，T29-U18）": "官网 wizardsinc.co（WordPress，RSS ?feed=rss2）；10times 展会评论（CEO Raja Kumaran 2026-07 参观 LED Light Malaysia）；GitHub 用户 WizardsInc-Maintenance（归属未证实）"
  },
@@ -283,5 +283,28 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·可发展",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·可发展",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  }
+ ]
 }

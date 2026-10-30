@@ -12,7 +12,7 @@ code: SA-016
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # 核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 name_official: "ООО «БитБук» / BitBook LLC（Нижний Тагил, Russia）"
 score: 90
 country: 俄罗斯
@@ -30,13 +30,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯下塔吉尔的条码/自动化设备开发商、生产商与分销商（2018 年注册，自称 15+ 年经验），自有品牌产品在俄罗斯与中国工厂生产，官网有「网络 PoE 设备」类目并招募经销商。用户表：WhatsApp 已加，兴趣商业 2 光 8 管理 PoE / FS 等杂类目，无跟进记录、无回复。（调研 2026-10-22；表内兴趣：商业2光8管理POE；FS 一些很杂的类目）
-- **为什么是 A 级**：**调研后定级 A**（核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：PRT-SF-1110P（= STC-128GFP 百兆 8 PoE + 2 GE/SFP，Priorat 贴牌，$22）补货；三款测试机 PRT-SG-1428PM（STC-4424GCPM $130）/ PRT-SG-1424M（STC-424GM $92）/ PRT-SG-1208PMI（STI-288GPM $72）转批量 — 毛利复盘：2023 小单 24.3%，2025-07 130 台 14.2%（含挂耳返工+运费 1,809，备忘「后续慢慢拿回来」）——下一单把挂耳/包装写进 PI 项｜档位说明（原 tier 字段文字「OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）」移此）：OEM 30% 档名义；实际按 2025-07 绑定价（USD，货代走账）；2025-07-31 PI STSC20250731004 成交价：PRT-SF-1110P $22 ×100（含 Priorat logo 不加价）、PRT-SG-1428PM $130、PRT-SG-1424M $92、PRT-SG-1208PMI $72（各 ×10，中性测试）；该单毛利 14.2%（含挂耳返工 ¥1,309 + 运费）。下一批同型号按原价不动（Simon U28 绑定价）；管理型已切 AC5——STC-4424GCPM 的 AC5 对应款按主表重核再报，别沿用 $130 当默认
 - **第一问（只问一个）**：Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) do — ready to brand them for the next batch together with a PRT-SF-1110P refill? Tooling and label files are on file, no extra charge.
@@ -167,7 +167,7 @@ updated: 2026-10-29
   > Нижний Тагил, ул. Юности, 47А, стр. 1 … +7 (3435) 37-87-87
   > 来源：https://bitbuk.ru/blog/（抓取 2026-10-23）
 - **KP**：Андрей Александрович Татарников（Andrey Tatarnikov）（Директор + 100% учредитель（ЕГРЮЛ，2018-04-24 起）= 老板 = 一人公司；登记主业不动产出租、住宅地址；2025 营收 64 млн ₽（第 84 批 官方登记核实 2026-10-27））info@bitbuk.ru +7 (3435) 37-87-87〔https://bitbuk.ru/kontakty/〕
-- **调研后定级**：A（原自动 A）——核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
 
@@ -350,12 +350,12 @@ Andrey, how did the three Priorat test units (PRT-SG-1428PM / 1424M / 1208PMI) d
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 90）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 90）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

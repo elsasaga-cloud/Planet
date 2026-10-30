@@ -26,8 +26,8 @@
    "role": "Chief Technology Officer（RocketReach 2026-10-29；Crown Group 2012 起；仅 WA）= 收件人 — WA 一页纸 + 规格书：分销 20% B、STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名 — 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈、CRA 不声称（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -105,5 +105,28 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 106: dac→cpse展会"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  }
+ ]
 }

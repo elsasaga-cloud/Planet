@@ -54,7 +54,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -169,6 +169,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
   }
  ],
  "lt_review": {
@@ -190,5 +198,18 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024.3.18: 发了2光8PoE管理→price"
  }
 }

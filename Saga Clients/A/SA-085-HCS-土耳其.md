@@ -12,7 +12,7 @@ code: SA-085
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cih
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布
 name_official: "HCS Kablolama Sistemleri San. ve Tic. A.Ş.（HES Cabling Systems，İstanbul Başakşehir, TR；hescs.com；HES Hacılar Elektrik 集团）"
 score: 43
 country: 土耳其
@@ -30,13 +30,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：HCS Kablolama Sistemleri（HES Cabling Systems）：土耳其最大电缆制造商 HES Hacılar Elektrik 为本地 LAN 市场创立的结构化布线品牌（2000-11-22 成立；51–200 人；铜缆/光缆布线系统、CPR 认证；İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a Başakşehir；+90 212 438 25 75；info@hescs.com）。ISAF 记录：Cihat Tunçbilek（Product & Product Development Manager，2015 年起在 HCS）——找商业级 PoE 交换机，问是否带 L2/L3；无后续跟进。品牌方补有源产品 → OEM 30%。（调研 2026-10-21；表内兴趣：找商业级POE交换机 问是否带L2/L3）
-- **为什么是 A 级**：**调研后定级 A**（B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进）；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号） — 布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3；锚价：STC-424DGGPM-280W $145.7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
@@ -78,10 +78,9 @@ updated: 2026-10-29
 
 - `hescs.com` → Microsoft 365（MX：hescs-com.mail.protection.outlook.com、hescs-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 84 批（Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + Netser 品牌页 + LinkedIn + Türk Metal 工会新闻，2026-10-27 查；https://www.lei-lookup.com/record/7890008F3LXUBMYF0N25/）：**
 
@@ -136,7 +135,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Cihat Tunçbilek（采购 / 销售经办，**非老板**；HCS 为 HES Hacılar Elektrik 集团（Kayseri）旗下 A.Ş.，董事长 Yusuf Öksüzömer；İstanbul Ticaret Sicil 12401448，LEI 7890008F3LXUBMYF0N25（第 84 批 官方登记核实 2026-10-27））ctuncbilek@hescs.com（用户表） +90 212 438 25 75（公司）〔https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179〕
 - **KP**：Fatma Sancar（Regional Sales Manager（名录公开））— —〔https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399〕
-- **调研后定级**：A（原自动 B）——B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -302,12 +301,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -51,8 +51,8 @@
    "source": "https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -253,5 +253,28 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-06-04] Share the price. What’s App.. Number +919810561477 Regards Vinod Tyagi www.agsplus.in <http://www.agsplus.in/> ‖ 表 2025.6.4: 24poe→price ‖ 研 2025-06-04 Vinod Tyagi（AGS Plus）: Share the price. What's App.. Number +91 98105 61477"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
+  }
+ ]
 }

@@ -1,0 +1,2550 @@
+<!doctype html><html lang="zh"><head><meta charset="utf-8"><title>A 级终评 2026-10-30</title><style>body{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;max-width:1500px;margin:24px auto;padding:0 16px;line-height:1.5}table{border-collapse:collapse;font-size:12.5px}td,th{border:1px solid #ccc;padding:3px 6px;vertical-align:top}th{background:#f3f3f3;position:sticky;top:0}tr:nth-child(even){background:#fafafa}blockquote{color:#555;border-left:3px solid #ccc;padding-left:10px}</style></head><body><h1>A 级终评（成单 + 回信沟通 + 极贴合）· 2026-10-30</h1>
+<blockquote>
+<p>对应 T29-U136（Simon 2026-10-30）。本页由 <code>scripts/saga_clients/ab_final/report.py</code> 从 <code>data/saga_clients/A类终评_2026-10-30.json</code> 渲染；名单不手写。</p>
+</blockquote>
+<h2>0. 我对你规则的理解（先复述，再干活）</h2>
+<ol>
+<li><strong>A 的主力军 = 成单客户 + 有过回信沟通的客户。</strong> 回信证据三箱都挖：Alan 邮箱（<code>A Replied 09.04</code> + Alan Takeout 全量来信，最重）、S 邮箱（Takeout 全量来信 + 你表内的跟进记录，极重）、Elsa 邮箱（<code>E Replied</code> + 连接器来信，次之；Elsa 名单多在非欧美）。</li>
+<li><strong>再加一层：大池里极贴合 Saga 产品线 / 想法 / 相关跟进的户</strong>（没回过信也可以进 A），由我用 Saga 的理解 + 研究档去挑，但要逐户写理由。</li>
+<li><strong>先把 A 筛出来，B 的事之后再说</strong>——本轮只动 A（进 A / 出 A），B/C 之间只做「有实质回复的 C 捞到 B」（你 U128 的第 ② 条），其余 B/C 不动。</li>
+<li>「回信」我按<strong>实质</strong>认：问价 / 要样 / 要规格 / 报数量 / 谈项目 / 约谈 / 提 OEM 才算；自动回复、工单确认、休假、卖家反过来推销、只一句 thanks 不算；最后一句是硬性婉拒（not interested / 有自己的方案 / 不是我们市场）不进 A。</li>
+<li>守界（乌/伊/叙）、巨头、台湾品牌商（老规矩最高 B）、中国大陆、永久 pass、没有任何联系路径的，即使回过信也不进 A。</li>
+</ol>
+<h2>1. 结果一览</h2>
+<table>
+<thead>
+<tr>
+<th>项</th>
+<th>数</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A 终评总数</td>
+<td><strong>224</strong>（评定前 A = 169）</td>
+</tr>
+<tr>
+<td>A1 成单</td>
+<td>33（PI 包 19 + 核定成单 14）</td>
+</tr>
+<tr>
+<td>A2 回信沟通</td>
+<td>162（证据来源箱：Alan 48 / S 61 / Elsa 23 户，一户可多箱；仅表内/研究档 43）</td>
+</tr>
+<tr>
+<td>A3 极贴合（无回信）</td>
+<td>29</td>
+</tr>
+<tr>
+<td>进 A：B→A / C→A</td>
+<td>65 / 22</td>
+</tr>
+<tr>
+<td>出 A：A→B</td>
+<td>32（§4 列给你否决）</td>
+</tr>
+<tr>
+<td>C 捞到 B（有实质回复但不够 A）</td>
+<td>15</td>
+</tr>
+<tr>
+<td>人工定级保留</td>
+<td>SB-061（你定的 B，不动）</td>
+</tr>
+<tr>
+<td>A 分区</td>
+<td>欧洲 43、北美 38、南亚 34、亚太 31、非洲 18、俄语区 17、土耳其 17、中东 16、拉美 9、未知 1</td>
+</tr>
+</tbody>
+</table>
+<p><strong>邮箱体量（证明 Alan/S 的跟进量）：</strong> Alan 箱发 2025 年 11,363 / 2026 年 8,517 封，收真人+自动 641 封；S 箱发 2024 年 8,714 / 2025 年 1,312 / 2026 年 935 封，收 2,617 封。回信档案共 637 户有信号，其中实质回复（R+）267 户。</p>
+<h2>2. 五个旋钮（默认已执行；你一句话可翻）</h2>
+<table>
+<thead>
+<tr>
+<th>旋钮</th>
+<th>默认</th>
+<th>影响</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>K1 非主攻区（美加/欧洲/土以外）只有 1 句 price/catalog 的户</td>
+<td>不进 A，捞到/留 B</td>
+<td>约 40 户（§5）</td>
+</tr>
+<tr>
+<td>K2 评定前是 A、但无成单无回信也不在贴合名单</td>
+<td>降 B</td>
+<td>SA-041、SA-069、SB-017、SB-325 等（§4）</td>
+</tr>
+<tr>
+<td>K3 只有薄回复（thanks / ok / 稍后谈）的旧 A</td>
+<td>降 B</td>
+<td>SA-038、SA-057、SB-015、SB-306、SB-499（§4）</td>
+</tr>
+<tr>
+<td>K4 台湾品牌商回过信（alfa、EDIMAX、Winsonic、Lilin、AD-NET、Tailyn、AirLive）</td>
+<td>按老规矩最高 B</td>
+<td>若你想做台系 OEM 可翻成 A</td>
+</tr>
+<tr>
+<td>K5 gg 8 户（你标「凉了」的成单）</td>
+<td>按「成单即 A」进 A1</td>
+<td>SB-375/1113/1120/006/003/002/001/020；你要的话一键退 B</td>
+</tr>
+</tbody>
+</table>
+<h2>3.1 A1 成单（33 户）</h2>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>公司</th>
+<th>国家</th>
+<th>前</th>
+<th>依据</th>
+<th>证据摘录</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SA-001</td>
+<td>asteldigicom.com</td>
+<td>阿联酋</td>
+<td>A</td>
+<td>PI包·可发展</td>
+<td>[S 2025-12-01] Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you. ‖ [S 2025-12-01] Hi Alan, Hello Si…</td>
+</tr>
+<tr>
+<td>SB-011</td>
+<td>greentechme.net</td>
+<td>阿联酋</td>
+<td>A</td>
+<td>核定成单·成单客户（greentechme，用户表）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-080</td>
+<td>PBA Forever Technology Co., …</td>
+<td>泰国</td>
+<td>A</td>
+<td>PI包·活跃</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-090</td>
+<td>WizardsInc Sdn Bhd</td>
+<td>马来西亚</td>
+<td>A</td>
+<td>PI包·可发展</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-001</td>
+<td>resonantnetworks.com</td>
+<td>新加坡</td>
+<td>B</td>
+<td>PI包·gg</td>
+<td>[S 2025-11-11] Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price ‖ [S 2026-06-22] Hi Simo…</td>
+</tr>
+<tr>
+<td>SB-002</td>
+<td>Xspec Technology Sdn Bhd</td>
+<td>马来西亚</td>
+<td>B</td>
+<td>PI包·gg</td>
+<td>[S 2024-06-18] Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simo ‖ [S 2024-06-18] Hi Simo…</td>
+</tr>
+<tr>
+<td>SA-016</td>
+<td>BitBook LLC</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>PI包·可发展</td>
+<td>‖ 研 2024-02-11 Andrey（WhatsApp 截图，PI 包「售后问题_1/2.png」）: need New firmware for managed switch, 2/11/2024. Old one is not work correct wit</td>
+</tr>
+<tr>
+<td>SB-003</td>
+<td>Rio-Import LLC（ООО «РИО-ИМПО…</td>
+<td>俄罗斯</td>
+<td>B</td>
+<td>核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）</td>
+<td>‖ 表 2024.5.16: 发了2层2光8poE→成单电口设备</td>
+</tr>
+<tr>
+<td>SB-320</td>
+<td>353311@mail.ru</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>核定成单·成单客户（Kryukov，用户再筛选表）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-375</td>
+<td>Delta Consulting</td>
+<td>格鲁吉亚</td>
+<td>B</td>
+<td>PI包·gg</td>
+<td>‖ 表 1119: 引流机型→small 8 port high poe ‖ 研 2023-07-24 George（需求.docx / requirement_solution.docx）: 8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48…</td>
+</tr>
+<tr>
+<td>SB-976</td>
+<td>dauren.boltaev@mail.ru</td>
+<td>乌兹别克斯坦</td>
+<td>A</td>
+<td>核定成单·成交 2 次（Boltaev，俄语区名单）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-006</td>
+<td>Vi-Link（vilinknet.com）</td>
+<td>美国</td>
+<td>A</td>
+<td>PI包·可发展</td>
+<td>[S 2024-12-03] On 2024-12-03 06:49, Simon wrote: It looks good - Thanks Thu ‖ [S 2025-05-09] On 2025-03-27 08:00, Simon from Saga Telecom wrote: Hi Si…</td>
+</tr>
+<tr>
+<td>SA-018</td>
+<td>Sewell</td>
+<td>美国</td>
+<td>A</td>
+<td>核定成单·PoE 电源常下单（Sewell，复购型）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-022</td>
+<td>Addon Computer Products</td>
+<td>美国</td>
+<td>A</td>
+<td>核定成单·6 台 MC 样品（Addon）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-078</td>
+<td>James Clendenan Systems Ltd.</td>
+<td>加拿大</td>
+<td>A</td>
+<td>PI包·活跃</td>
+<td>‖ 研 2026-08-26 James（长期需求.docx）: Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual p / 2026-08-31 James Clendenan: [imag…</td>
+</tr>
+<tr>
+<td>SB-020</td>
+<td>52networks.com</td>
+<td>美国</td>
+<td>B</td>
+<td>PI包·gg</td>
+<td>[A 2025-07-23] Thank you for the update. I will receive it by next week, right? <em>Regards,</em> <em>John Davis</em> <em>Director Sales</em>* ／／* ‖ [A 2025-07-24] Thanks …</td>
+</tr>
+<tr>
+<td>SA-032</td>
+<td>sundartechno.com</td>
+<td>印度</td>
+<td>A</td>
+<td>PI包·可发展</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-006</td>
+<td>unitedcontrolengg.com</td>
+<td>印度</td>
+<td>B</td>
+<td>PI包·gg</td>
+<td>‖ 表 2024.8.13: 问需求→基本只需要电口 不要光</td>
+</tr>
+<tr>
+<td>SB-013</td>
+<td>synchcom.com.pk</td>
+<td>巴基斯坦</td>
+<td>A</td>
+<td>核定成单·样品单 MC 25km + 8 口网管 PCB（Synchcom）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-1113</td>
+<td>Fastball</td>
+<td>印度</td>
+<td>B</td>
+<td>PI包·gg</td>
+<td>‖ 研 2023-10-09 Rishi（FTTH需求.docx）: Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall &amp; Rack moun</td>
+</tr>
+<tr>
+<td>SA-077</td>
+<td>Angora Networks</td>
+<td>土耳其</td>
+<td>A</td>
+<td>PI包·活跃</td>
+<td>‖ 研 2026-07-31 Levent Kılıç（SAGA Enterprise L3 Recommendation Report, 6 页）: Angora Networks views SAGA Telecom as our foundational manufacturing part…</td>
+</tr>
+<tr>
+<td>SA-086</td>
+<td>netas.com.tr</td>
+<td>土耳其</td>
+<td>A</td>
+<td>PI包·活跃</td>
+<td>[A 2026-08-12] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafında ‖ [A 2026-08-12] [cid:im…</td>
+</tr>
+<tr>
+<td>SC-259</td>
+<td>Sami CEUIK</td>
+<td>土耳其</td>
+<td>B</td>
+<td>核定成单·ISAF 2025 现场购 1 台（CEUIK）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-004</td>
+<td>Boecek Sec</td>
+<td>德国</td>
+<td>A</td>
+<td>核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-007</td>
+<td>gogreenit.net</td>
+<td>英国</td>
+<td>A</td>
+<td>PI包·可发展</td>
+<td>[A 2026-03-19] Hi Alan, Thanks for the reply. Ah, that's a shame. So, for the PoE issues: Last year PoE was working fine for  ‖ [A 2026-04-27] Hi Alan…</td>
+</tr>
+<tr>
+<td>SA-008</td>
+<td>fiberone.de</td>
+<td>德国</td>
+<td>A</td>
+<td>PI包·活跃</td>
+<td>[S 2026-10-06] Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG R ‖ [S 2026-10-15] Hello S…</td>
+</tr>
+<tr>
+<td>SB-005</td>
+<td>rovez.sk</td>
+<td>斯洛伐克</td>
+<td>A</td>
+<td>核定成单·工业 PoE FS 样品单（Rovez）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-009</td>
+<td>sicurmax.com</td>
+<td>意大利</td>
+<td>A</td>
+<td>核定成单·成单（Sicurmax，用户表）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-1115</td>
+<td>Milliseconds Evolution Limit…</td>
+<td>英国</td>
+<td>A</td>
+<td>核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）</td>
+<td>‖ 研 2026-09-29 Iyiola Folayan（Milliseconds Evolution Ltd，伦敦）: Are you able to share your product catalog with me? Do you have distributors in  / 2026…</td>
+</tr>
+<tr>
+<td>SB-241</td>
+<td>gluszek.tomasz@gmail.com</td>
+<td>爱尔兰</td>
+<td>A</td>
+<td>核定成单·2 个 90W PoE 注入器样品（Głuszek）</td>
+<td>‖ 表 1213: 提了Levent→just need : outdoor 48v poe switch or DC POE injec</td>
+</tr>
+<tr>
+<td>SB-441</td>
+<td>Metal Union</td>
+<td>波兰</td>
+<td>A</td>
+<td>核定成单·€50 光模块 + 转换器（Metal Union，微单）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-079</td>
+<td>Biz-Ethics Ltd.（BEL Networks…</td>
+<td>尼日利亚</td>
+<td>A</td>
+<td>PI包·活跃</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-1120</td>
+<td>Obmac systems 可以推一下</td>
+<td>赞比亚</td>
+<td>B</td>
+<td>PI包·gg</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>3.2 A2 回信沟通（162 户）</h2>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>公司</th>
+<th>国家</th>
+<th>前</th>
+<th>依据</th>
+<th>证据摘录</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SA-027</td>
+<td>Al Salami Trading L.L.C</td>
+<td>阿联酋</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）</td>
+<td>[A 2025-06-16] Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here i ‖ 表 2025.6.2: 22mini→DS …</td>
+</tr>
+<tr>
+<td>SA-048</td>
+<td>ekhalas.com</td>
+<td>沙特阿拉伯</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）</td>
+<td>‖ 表 1022: 154→想测样 ‖ 研 2024-10-22 Inam Ahmed（Data Center Division Manager）: Please send me a sample to test</td>
+</tr>
+<tr>
+<td>SA-051</td>
+<td>Tecpro Solutions</td>
+<td>阿联酋</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 1025: 8电口→最近来中国</td>
+</tr>
+<tr>
+<td>SB-043</td>
+<td>Euro Technology</td>
+<td>阿联酋</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08）</td>
+<td>[S 2024-07-07] Yes, interested <em>Thanks and Regards,</em> *[image: https://docs.google.com/uc?export=download&amp;id=1pbWl-BfC7hF5q-Te ‖ [S 2024-08-14] hi What…</td>
+</tr>
+<tr>
+<td>SB-053</td>
+<td>onnettechnologies.com</td>
+<td>阿联酋</td>
+<td>A</td>
+<td>真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08）</td>
+<td>[A 2026-07-15] Hi Please share datasheets and prices for 4-8-16 ports industrial switch 1. L2 and l3 2. 30W PoE 3. BT PoE 4.  ‖ [A 2026-08-10] Hi Alan…</td>
+</tr>
+<tr>
+<td>SB-166</td>
+<td>Crown Security Solutions</td>
+<td>卡塔尔</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 106: dac→cpse展会</td>
+</tr>
+<tr>
+<td>SB-175</td>
+<td>mbtc.com.sa</td>
+<td>沙特阿拉伯</td>
+<td>B</td>
+<td>真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）</td>
+<td>[S 2023-06-19] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at ‖ [S 2023-06-19] Dear si…</td>
+</tr>
+<tr>
+<td>SB-359</td>
+<td>larch-networks.com</td>
+<td>以色列</td>
+<td>A</td>
+<td>真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07）</td>
+<td>[A 2026-06-03] Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would ‖ [A 2026-07-02] Dear Al…</td>
+</tr>
+<tr>
+<td>SB-451</td>
+<td>e-saudi.net</td>
+<td>沙特阿拉伯</td>
+<td>A</td>
+<td>真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）</td>
+<td>[S 2024-10-15] Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regar ‖ [A 2025-04-28] Dear Al…</td>
+</tr>
+<tr>
+<td>SB-696</td>
+<td>aironix.co.il</td>
+<td>以色列</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2026-08→2026-08）</td>
+<td>[A 2026-08-13] Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year. ‖ [A 2026-08-15] Thank you, my customer buying targe…</td>
+</tr>
+<tr>
+<td>SB-924</td>
+<td>Intracom Middle East FZ-LLC</td>
+<td>阿联酋</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）</td>
+<td>[S 2024-10-09] Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for t ‖ 研 2024-10-09 Mohammad …</td>
+</tr>
+<tr>
+<td>SC-001</td>
+<td>sslcom.com</td>
+<td>以色列</td>
+<td>C</td>
+<td>真回信 1 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2024-09）</td>
+<td>[S 2024-09-09] 8 POE 130 W ? Shimon Lazarovitch CEO SSL Communication &amp; Security Official representative of SILVUS in Israel  ‖ 表 2024.9.9: 8电口→130W??</td>
+</tr>
+<tr>
+<td>SC-002</td>
+<td>Intelligent</td>
+<td>沙特阿拉伯</td>
+<td>C</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）</td>
+<td>[A 2025-07-22] Kindly share your price list ‖ 表 2025.7.22: 28BT→Price ‖ 研 2025-07-22 Ank（intelligent.hk）: Kindly share your price list</td>
+</tr>
+<tr>
+<td>SC-097</td>
+<td>Three Lines Company</td>
+<td>沙特阿拉伯</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）</td>
+<td>[E 2025-05-07] Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / I ‖ [E 2025-05-12] Hello T…</td>
+</tr>
+<tr>
+<td>SA-010</td>
+<td>NEXTU EZ-NET</td>
+<td>韩国</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-02→2025-05）</td>
+<td>[A 2025-03-04] hi. thank you for yr product information and quotation. as we checked yr spec and quotation, yr price is highe ‖ [A 2025-05-26] Hi, tha…</td>
+</tr>
+<tr>
+<td>SA-014</td>
+<td>impulsecctv.com</td>
+<td>新加坡</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）</td>
+<td>[E 2026-01-07] pls share your company website and your address...  ‖ 表 2026.1.7: CENTEC→INFO</td>
+</tr>
+<tr>
+<td>SA-028</td>
+<td>entasource.co.th</td>
+<td>泰国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）</td>
+<td>[A 2025-06-16] Good afternoon Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or n ‖ 表 2025.6.16: PoE→2+24非…</td>
+</tr>
+<tr>
+<td>SA-029</td>
+<td>gtwave.co.kr</td>
+<td>韩国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2025-04）</td>
+<td>[A 2025-04-15] Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park ‖ 表 2025.4.15: Marvell Ch→Company Inf…</td>
+</tr>
+<tr>
+<td>SA-031</td>
+<td>Truong Son Solutions</td>
+<td>越南</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2026-07）</td>
+<td>[A 2025-12-19] Dear Sir, Pls share me your price list for OEM/ODM. *CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠNTrụ sở : **Ph ‖ [A 2026-07-15] dear, P…</td>
+</tr>
+<tr>
+<td>SA-053</td>
+<td>infrateq.id</td>
+<td>印度尼西亚</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）</td>
+<td>[S 2024-07-04] Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing ‖ [S 2024-07-04] Hello S…</td>
+</tr>
+<tr>
+<td>SA-068</td>
+<td>Pt.ras otomasi indonesia</td>
+<td>印度尼西亚</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 1022: 电口→price</td>
+</tr>
+<tr>
+<td>SB-034</td>
+<td>TJ Computer</td>
+<td>泰国</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）</td>
+<td>[A 2025-03-18] interested ในวันที่ อ. 18 มี.ค. 2025 10:00 Alan from Saga Telecom &lt; a.sagatelecom@gmail.com&gt; เขียนว่า: ‖ [A 2025-05-14] ราคาเท่าไหร่? ข…</td>
+</tr>
+<tr>
+<td>SB-047</td>
+<td>topica.mn</td>
+<td>蒙古国</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）</td>
+<td>[E 2025-10-30] Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar ‖ 表 2025.11.6: 24PoE→需要1…</td>
+</tr>
+<tr>
+<td>SB-059</td>
+<td>avanca.com.sg</td>
+<td>新加坡</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-06] Pls confirm it is industrial grade? Get Outlook for iOS<a href="https://aka.ms/o0ukef">https://aka.ms/o0ukef</a> ‖ [S 2024-11-06] Hi Could you send me datasheet ? Thanks…</td>
+</tr>
+<tr>
+<td>SB-070</td>
+<td>neowine</td>
+<td>韩国</td>
+<td>C</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）</td>
+<td>[S 2025-01-31] ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#115;&#97;&#103;&#97;&#116;&#101;&#108;&#101;&#99;&#111;&#109;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#115;&#46;&#115;&#97;&#103;&#97;&#116;&#101;&#108;&#101;&#99;&#111;&#109;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>님이 작성: ‖ 表 1.31: 48口→sample ‖ 研 2025-01-31 Jo…</td>
+</tr>
+<tr>
+<td>SB-071</td>
+<td>nkstech.net</td>
+<td>菲律宾</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-06] Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23  ‖ 研 2024-11-06 Steven Fu…</td>
+</tr>
+<tr>
+<td>SB-1102</td>
+<td>vienthonggiatot.com</td>
+<td>越南</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-03] What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#115;&#97;&#103;&#97;&#116;&#101;&#108;&#101;&#99;&#111;&#109;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#115;&#46;&#115;&#97;&#103;&#97;&#116;&#101;&#108;&#101;&#99;&#111;&#109;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a> đã viết: ‖ 表 113: 群发28poe→price ‖ 研 2024-11-03 vienthon…</td>
+</tr>
+<tr>
+<td>SB-164</td>
+<td>unea-x.com</td>
+<td>日本</td>
+<td>A</td>
+<td>真回信 10 封 / 表内 0 条 / 研究档 7 条（A；2026-04→2026-05）</td>
+<td>[A 2026-05-06] Hi. Alan I have a few additional questions. ① MEANWELL products are expensive, so we need a Plan B. Regarding  ‖ [A 2026-05-08] Dear Al…</td>
+</tr>
+<tr>
+<td>SB-179</td>
+<td>CRISPY CREPES</td>
+<td>印度尼西亚</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 430: marvell商业组→用锐捷</td>
+</tr>
+<tr>
+<td>SB-226</td>
+<td>HANCHANG Infotech CO.,LTD</td>
+<td>韩国</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）</td>
+<td>[A 2025-02-04] ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ [A 2026-01-16] ﻿thank you for informations~ please g…</td>
+</tr>
+<tr>
+<td>SB-227</td>
+<td>NKF wireless internet and se…</td>
+<td>菲律宾</td>
+<td>C</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）</td>
+<td>[S 2025-01-15] sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks ‖ 表 1.5: 群发了22mini→sample? ‖ 研 2025-01-1…</td>
+</tr>
+<tr>
+<td>SB-267</td>
+<td>bio-cognitive.com</td>
+<td>新加坡</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）</td>
+<td>[A 2025-07-07] Yes alan gigabit switch with gigabit uplink. Best Regards, Amy Hoi (Ms) 许婉颖 HP: +65 8796 7877 Bio-Cognitive So ‖ [A 2025-07-07] HI Alan…</td>
+</tr>
+<tr>
+<td>SB-315</td>
+<td>stc-vietnam.com</td>
+<td>越南</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 1210: Mini→price</td>
+</tr>
+<tr>
+<td>SB-367</td>
+<td>thuyluc.com</td>
+<td>越南</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）</td>
+<td>[S 2024-06-21] Please quote me 10pcs. <em>Mr. Ly Thanh Ha (Lee Thanh Ha)</em> Project Manager MTS JSC VAT Code 0101892941 No. 166, T ‖ 研 2024-06-21 chuyengia…</td>
+</tr>
+<tr>
+<td>SB-412</td>
+<td>InterConnectivity Computer S…</td>
+<td>菲律宾</td>
+<td>C</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.2.29: 发了工业MC信息→谈了DIP拨码功能</td>
+</tr>
+<tr>
+<td>SB-485</td>
+<td>n-itus.com</td>
+<td>韩国</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）</td>
+<td>[A 2025-11-13] Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We ar ‖ 表 2025.11.13: 升压→Price…</td>
+</tr>
+<tr>
+<td>SB-510</td>
+<td>pongpanot.k@hotmail.com</td>
+<td>泰国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-07→2024-07）</td>
+<td>[S 2024-07-04] Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 se ‖ 表 2024.6.21: 发了几个商业交换机…</td>
+</tr>
+<tr>
+<td>SB-982</td>
+<td>mcss.co.kr</td>
+<td>韩国</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）</td>
+<td></td>
+</tr>
+<tr>
+<td>SC-1904</td>
+<td>optimal.com.ph</td>
+<td>菲律宾</td>
+<td>C</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）</td>
+<td>[E 2025-12-11] Good day! May I ask if you use Viber or WhatsApp? It would be easier for us to discuss your requirements there</td>
+</tr>
+<tr>
+<td>SA-035</td>
+<td>td-fe.com</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>真回信 16 封 / 表内 6 条 / 研究档 8 条（S；2023-12→2025-01）</td>
+<td>[S 2024-12-12] Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Ale ‖ [S 2025-01-03] Dear, S…</td>
+</tr>
+<tr>
+<td>SA-036</td>
+<td>svn-video.ru</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01）</td>
+<td>[A 2026-01-04] Hi, send me please your pricelists with POE switches and accessories ‖ 表 2025.8.28: 24PoE→Price List ‖ 研 2026-01-04 SVN 销售部: send me pl…</td>
+</tr>
+<tr>
+<td>SA-064</td>
+<td>optat.ru</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 18 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 718: bypass→Whatsapp</td>
+</tr>
+<tr>
+<td>SA-066</td>
+<td>ccs-msk.ru</td>
+<td>俄罗斯</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）</td>
+<td>[E 2026-01-26] Hello! Can you provide Brocade switches? Best regards, Pavel Karpov +7-495-926-86-95 &lt;mailto:pkarpov@ccs-msk.r ‖ 表 2026.1.23: CENTEC→Ca…</td>
+</tr>
+<tr>
+<td>SA-067</td>
+<td>Latmedia Group, LLC</td>
+<td>乌兹别克斯坦</td>
+<td>A</td>
+<td>真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）</td>
+<td>[A 2025-10-10] Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget fo ‖ [A 2025-11-24] Hello, …</td>
+</tr>
+<tr>
+<td>SB-1122</td>
+<td>comtinu.ru</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）</td>
+<td>[A 2025-12-03] Yes, we have 100-25G projects What is your company website? ‖ [A 2025-12-03] Hi Alan, Thank you for update. We are not having appropria…</td>
+</tr>
+<tr>
+<td>SB-1135</td>
+<td>raisecom.su</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）</td>
+<td>[S 2024-06-20] you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm ‖ [S 2024-06-20] Hi, Simon! Unfortun…</td>
+</tr>
+<tr>
+<td>SB-163</td>
+<td>skeo.ru</td>
+<td>俄罗斯</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）</td>
+<td>[S 2024-09-06] What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, "Simon" &lt;s.sagatelecom@ ‖ [S 2024-09-06] Hi. Yes…</td>
+</tr>
+<tr>
+<td>SB-297</td>
+<td>Chisinau, Ion Creanga 66, Ch…</td>
+<td>摩尔多瓦</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.4.28: 发了商业POE 12→问了4+2百兆千兆100个的价格</td>
+</tr>
+<tr>
+<td>SB-487</td>
+<td>npotelecom.ru</td>
+<td>俄罗斯</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）</td>
+<td>[S 2024-06-05] Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 91 ‖ [A 2026-05-12] Hello, …</td>
+</tr>
+<tr>
+<td>SC-1942</td>
+<td>satvision-cctv.ru</td>
+<td>俄罗斯</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）</td>
+<td>[S 2024-06-28] Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru ‖ 表 2024.6.12: 4光24导轨式→standard poe有嘛？</td>
+</tr>
+<tr>
+<td>SA-002</td>
+<td>simrex.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 5 封 / 表内 1 条 / 研究档 3 条（S；2024-12→2026-07）</td>
+<td>[S 2024-12-12] Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP et ‖ [S 2026-07-20] Simon ,…</td>
+</tr>
+<tr>
+<td>SA-021</td>
+<td>optiviewusa.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）</td>
+<td>[S 2024-10-29] Simon Also, provide us with the prices for both models Thank you! <a href="https://optiviewusa.com/">https://optiviewusa.com/</a> ----------------- ‖ [S 2024-10-29] Hi Simo…</td>
+</tr>
+<tr>
+<td>SA-025</td>
+<td>Avenger Security（getsecurity…</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）</td>
+<td>‖ 表 2025.9.8: 24PoE→Price ‖ 研 2025-06-12 Brandon（Avenger Security，brandonwadams@gmail.com）: Alan, Hope all is well, Can you send me the pricing, Let …</td>
+</tr>
+<tr>
+<td>SA-026</td>
+<td>hardenednetworks.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）</td>
+<td>[A 2025-03-03] We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened ‖ [A 2025-04-28] Do you …</td>
+</tr>
+<tr>
+<td>SA-033</td>
+<td>bluewarrior.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）</td>
+<td>[S 2024-05-28] What is the price? ‖ [S 2024-05-28] Picture and description do not match ‖ 表 2024.5.28: 发了2光8BT信息→price ‖ 研 2024-05-28 sales@bluewarrio…</td>
+</tr>
+<tr>
+<td>SA-042</td>
+<td>antronix.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 6 封 / 表内 1 条 / 研究档 2 条（AS；2024-01→2025-08）</td>
+<td>[A 2025-08-09] Thank you. Yes, please send manual as well... ‖ [A 2025-08-11] No worries. Thank you ‖ 表 2025.8.9: 商业24光Combo→INFO ‖ 研 2024-04-19 Peter…</td>
+</tr>
+<tr>
+<td>SA-054</td>
+<td>softnetworks.net</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）</td>
+<td>[E 2025-04-29] I never buy Unmanaged.  ‖ [E 2025-05-13] What is the price for this one? Thank you. Neal Cennamo Softnetworks.net 201-688-3750  ‖ 表 202…</td>
+</tr>
+<tr>
+<td>SA-058</td>
+<td>alphanetcom.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）</td>
+<td>[A 2025-04-07] Yes that is correct. Do you have any product like this? Thanks ‖ [A 2025-09-26] Hi Alan, How much do they cost? Regards, Nate ‖ 表 2025.…</td>
+</tr>
+<tr>
+<td>SA-059</td>
+<td>data-connect.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-08→2024-08）</td>
+<td>[S 2024-08-24] Hi Simon, Yes, I would like to learn more about your 10G media converter. Can you send me a price list and I w ‖ 表 2024.8.24: 群发了10G MC…</td>
+</tr>
+<tr>
+<td>SA-060</td>
+<td>gofiberx.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）</td>
+<td>[A 2026-06-05] Support MPLS with H3C? [cid:image001.png@01DCF4E6.42B89240] ‖ [A 2026-06-08] Hi, Price for this one STH-2C24XFSFI Needs to be DC And wi…</td>
+</tr>
+<tr>
+<td>SB-010</td>
+<td>americanfibertek.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-22] Do you have it in PoE++ as well? Send pricing for both. ‖ 表 1123: 28poe→有bt型号吗？ ‖ 研 2024-11-22 Tim Orselli: Do you have it in PoE++ as …</td>
+</tr>
+<tr>
+<td>SB-061</td>
+<td>megatelindustries.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-26] Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries C ‖ 研 2024-11-26 Zack Yu（V…</td>
+</tr>
+<tr>
+<td>SB-085</td>
+<td>DIGI Group</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）</td>
+<td>[S 2025-06-28] We species with video over IP , we must have IGMP protocol, it is mandatory. Do you have any products which su ‖ [S 2025-11-28] Thank y…</td>
+</tr>
+<tr>
+<td>SB-1026</td>
+<td>epygi.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）</td>
+<td>[S 2024-12-04] Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a manag ‖ [S 2024-12-05] Simon: …</td>
+</tr>
+<tr>
+<td>SB-1114</td>
+<td>Fikes Media</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）</td>
+<td>‖ 研 2026-10-03 Christopher Fikes: This actually does have my interest. What levels of customization are offered? I</td>
+</tr>
+<tr>
+<td>SB-1136</td>
+<td>fiberoptics4sale.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）</td>
+<td>[A 2025-07-23] HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2 ‖ 研 2025-07-23 Fosco Sal…</td>
+</tr>
+<tr>
+<td>SB-119</td>
+<td>wirestar.net</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-06→2025-04）</td>
+<td>[S 2024-06-18] Is this Poe? Sincerely, Kyle Leissner President &amp; Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (97 ‖ [A 2025-04-01] Alan, T…</td>
+</tr>
+<tr>
+<td>SB-144</td>
+<td>bsdnetworks.com</td>
+<td>加拿大</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-03→2026-03）</td>
+<td>[A 2026-03-30] Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? ‖ 研 2026-03-30 Robert: d…</td>
+</tr>
+<tr>
+<td>SB-477</td>
+<td>eminnovate.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）</td>
+<td>[E 2025-06-29] Very interesting Any rear facing port switches? Sent from my iPhone ‖ 表 2025.6.29: 群发了48口→interested ‖ 研 2025-06-29 Michael（eminnovate.…</td>
+</tr>
+<tr>
+<td>SB-701</td>
+<td>chk999@outlook.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）</td>
+<td>[S 2024-10-30] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third ‖ 表 1030: 群发10gweb→支持htt…</td>
+</tr>
+<tr>
+<td>SB-787</td>
+<td>tccomm.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）</td>
+<td>[S 2024-10-30] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third ‖ 研 2024-10-30 chk999@ou…</td>
+</tr>
+<tr>
+<td>SB-826</td>
+<td>versitron.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10）</td>
+<td>[S 2025-10-30] Hello Simon: Thank you for this information, I will keep it for future reference. What is the status of the st ‖ [S 2025-10-31] Hello S…</td>
+</tr>
+<tr>
+<td>SB-831</td>
+<td>actelis.com</td>
+<td>美国</td>
+<td>A</td>
+<td>真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）</td>
+<td>[S 2025-10-29] Do you have a spec sheet on this unit and a user manual? Best Regards, P. Casey Hurley VP Sales - Strategic Ac ‖ [S 2026-03-02] Thank y…</td>
+</tr>
+<tr>
+<td>SB-984</td>
+<td>olsontech.com</td>
+<td>美国</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）</td>
+<td>[A 2025-08-08] Thanks.. I’d be interested in the pricing… Thanks Peter ‖ [A 2025-08-09] Thank you. Yes, please send manual as well...</td>
+</tr>
+<tr>
+<td>SC-2150</td>
+<td>milo64@telus.net</td>
+<td>加拿大</td>
+<td>C</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2025-05）</td>
+<td>[A 2025-05-27] Hi Allan, Can you send me the specs and pricing please? Thanks On Tue, May 27, 2025 at 6:21 AM Alan from Saga</td>
+</tr>
+<tr>
+<td>SC-3133</td>
+<td>federalcable.net</td>
+<td>美国</td>
+<td>C</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）</td>
+<td>[S 2024-09-26] Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-</td>
+</tr>
+<tr>
+<td>SA-039</td>
+<td>mt-link.com</td>
+<td>巴基斯坦</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.2.27: 发了24光combo→price</td>
+</tr>
+<tr>
+<td>SA-063</td>
+<td>Areca Embedded Systems Pvt L…</td>
+<td>印度</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 1118: 引流机型→BIS</td>
+</tr>
+<tr>
+<td>SB-109</td>
+<td>ite.net.pk</td>
+<td>巴基斯坦</td>
+<td>B</td>
+<td>真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）</td>
+<td>[E 2025-04-09] Pls share any reference Sent from my iPhone ‖ [E 2025-04-09] Hi Do you have Routers with 1GE and 4 FE ports Sent from my iPhone ‖ 表 202…</td>
+</tr>
+<tr>
+<td>SB-111</td>
+<td>nivoxtech.com</td>
+<td>印度</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 57: 4 8 16口工业P→EN50155</td>
+</tr>
+<tr>
+<td>SB-1116</td>
+<td>Litech (Pvt) Ltd</td>
+<td>巴基斯坦</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）</td>
+<td>‖ 研 2024-03-09 Hassan Cheema: Attached herewith are the technical specifications of different Access/Aggregati</td>
+</tr>
+<tr>
+<td>SB-1138</td>
+<td>devray.in</td>
+<td>印度</td>
+<td>A</td>
+<td>真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）</td>
+<td>[E 2026-03-31] Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. Thanks &amp; Regar ‖ [E 2026-03-31] Are you…</td>
+</tr>
+<tr>
+<td>SB-169</td>
+<td>agsplus.in</td>
+<td>印度</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）</td>
+<td>[E 2025-06-04] Share the price. What’s App.. Number +919810561477 Regards Vinod Tyagi www.agsplus.in <a href="http://www.agsplus.in/">http://www.agsplus.in/</a> ‖ 表 2025.6.4: 24poe→pric…</td>
+</tr>
+<tr>
+<td>SB-189</td>
+<td>vintronsmartvision.com</td>
+<td>印度</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 3 条（E；2026-02→2026-04）</td>
+<td>[E 2026-03-12] Hi Elsa, thank you for your email. Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switc ‖ [E 2026-04-27] Dear El…</td>
+</tr>
+<tr>
+<td>SB-243</td>
+<td>hfcl.com</td>
+<td>印度</td>
+<td>A</td>
+<td>真回信 6 封 / 表内 1 条 / 研究档 3 条（E；2026-01→2026-04）</td>
+<td>[E 2026-04-05] Noted.. if it is imported to India in latest, can we have the PO for reference and the proof of selling. Thank ‖ [E 2026-04-06] Can you…</td>
+</tr>
+<tr>
+<td>SB-341</td>
+<td>SMART SECURITY SYSTEMS</td>
+<td>印度</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）</td>
+<td>‖ 表 2025.7.20: 28poe→price ‖ 研 2025-07-26 Rk Ahir（Smart Security Systems）: SEND ME PRICE DETAILS WITH BROCHER AND ADVANTAGE PLEASE</td>
+</tr>
+<tr>
+<td>SB-447</td>
+<td>automationsystem.in</td>
+<td>印度</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）</td>
+<td>[E 2025-04-10] Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE  ‖ 表 2025.4.10: 群发了2光4PoE…</td>
+</tr>
+<tr>
+<td>SB-450</td>
+<td>comtech.net.pk</td>
+<td>巴基斯坦</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2022.8.11: 发了8路高清图 阿里→问了其他的产品 提供不了</td>
+</tr>
+<tr>
+<td>SB-583</td>
+<td>usman2c@hotmail.com</td>
+<td>巴基斯坦</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 510: 4 8 16口工业P→L2 managed</td>
+</tr>
+<tr>
+<td>SB-630</td>
+<td>CORE IT SOLUTIONS</td>
+<td>印度</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）</td>
+<td>[E 2025-06-17] Price pls  ‖ 表 2025.6.17: 群发了10G MC→price ‖ 研 2025-06-17 Core IT Solutions（Mumbai）: Price pls</td>
+</tr>
+<tr>
+<td>SB-641</td>
+<td>apolloinfoways.in</td>
+<td>印度</td>
+<td>A</td>
+<td>真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12）</td>
+<td>[S 2025-01-06] Pls share the Datasheet for this. Ravi ‖ [E 2025-12-08] How about Console port and management ports. Ravi ‖ 研 2024-11-03 ravi@apolloinf…</td>
+</tr>
+<tr>
+<td>SB-692</td>
+<td>Anda Telecom</td>
+<td>印度</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-08）</td>
+<td>[E 2026-08-04] Hi Elsa, Thanks for your support ,we will check and update you soon , You have mentioned some Not supported fe ‖ [E 2026-08-04] Hi, Fir…</td>
+</tr>
+<tr>
+<td>SB-869</td>
+<td>futurist.com.pk</td>
+<td>巴基斯坦</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 : 发了几个mini工业→will check</td>
+</tr>
+<tr>
+<td>SB-872</td>
+<td>israr_awan@hotmail.com</td>
+<td>巴基斯坦</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2023.6.15: 发了bypass图 →有用</td>
+</tr>
+<tr>
+<td>SC-1056</td>
+<td>cloudinfotech.co.in</td>
+<td>印度</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-29] Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal ‖ [S 2024-11-29] Hi Simon, Share the best price. --</td>
+</tr>
+<tr>
+<td>SC-1200</td>
+<td>futurepointt.com</td>
+<td>巴基斯坦</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）</td>
+<td>[S 2024-10-03] Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 I ‖ [S 2024-10-07] No upda…</td>
+</tr>
+<tr>
+<td>SC-1371</td>
+<td>mywatchdog.in</td>
+<td>印度</td>
+<td>B</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）</td>
+<td>[S 2024-09-18] I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ ‖ [S 2024-09-19] Will this also support 30V and 55V too?…</td>
+</tr>
+<tr>
+<td>SC-1399</td>
+<td>team5tech.com</td>
+<td>印度</td>
+<td>C</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-06] Hi Team, Please suggest model along with price. Specification Specification Name Bid Requirement/ Specificatio ‖ [S 2024-11-06] Dear Te…</td>
+</tr>
+<tr>
+<td>SC-1657</td>
+<td>San Telequip Pvt. Ltd.</td>
+<td>印度</td>
+<td>B</td>
+<td>真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）</td>
+<td>[S 2025-01-09] Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to h ‖ [S 2025-01-09] Hey Sim…</td>
+</tr>
+<tr>
+<td>SC-1715</td>
+<td>onsite.pk</td>
+<td>巴基斯坦</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）</td>
+<td>[S 2024-10-03] Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 I ‖ [S 2024-10-07] No upda…</td>
+</tr>
+<tr>
+<td>SC-1771</td>
+<td>telexcell.com</td>
+<td>印度</td>
+<td>C</td>
+<td>真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09）</td>
+<td>[A 2026-07-29] Hi Alan, I hope this message finds you well. we are currently seeking support for the following requirements.  ‖ [A 2026-09-16] Cisco i…</td>
+</tr>
+<tr>
+<td>SC-2513</td>
+<td>microtech.net.pk</td>
+<td>巴基斯坦</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）</td>
+<td>[E 2025-06-04] Dear Elsa, These Product Are Not Available. Regards,  ‖ [E 2026-05-11] Dear Elsa, Please Find The Attachment. Regards.  ‖ 研 2026-05-11 …</td>
+</tr>
+<tr>
+<td>SC-3149</td>
+<td>starcom.com.pk</td>
+<td>巴基斯坦</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（E；2026-02→2026-02）</td>
+<td>[E 2026-02-26] Hi Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business ‖ 研 2026-02-26 Asghar Al…</td>
+</tr>
+<tr>
+<td>SC-3203</td>
+<td>jteemsolutions.com</td>
+<td>斯里兰卡</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）</td>
+<td>[S 2024-12-05] please send me the spec sheet and price ‖ [S 2025-01-04] Yes, I am interested. +94718095631 please contact me</td>
+</tr>
+<tr>
+<td>SC-324</td>
+<td>enercore.co.in</td>
+<td>印度</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）</td>
+<td>[S 2024-05-14] Price for 4 Port? Best Regards, Sandeep ‖ [S 2024-05-16] Do you have units available in India? Best Regards, Sandeep</td>
+</tr>
+<tr>
+<td>SA-047</td>
+<td>sge.com.tr</td>
+<td>土耳其</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）</td>
+<td>[A 2025-12-01] Can you send to me the price list of your products? İyi çalışmalar dilerim ‖ 表 2025.12.1: 升压→INFO ‖ 研 2025-12-01 Murat Gül（Electrical E…</td>
+</tr>
+<tr>
+<td>SA-049</td>
+<td>iotsistem.com</td>
+<td>土耳其</td>
+<td>A</td>
+<td>真回信 21 封 / 表内 0 条 / 研究档 12 条（AS；2024-05→2026-09）</td>
+<td>[A 2026-09-02] Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R ‖ [A 2026-09-17] Hi Friend, good day, Could you tell me …</td>
+</tr>
+<tr>
+<td>SB-093</td>
+<td>konakguvenlik.com.tr</td>
+<td>土耳其</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）</td>
+<td>[S 2024-06-26] Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network ‖ 研 2024-06-26 satis@kon…</td>
+</tr>
+<tr>
+<td>SA-045</td>
+<td>energyplusystems.cl</td>
+<td>智利</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-09→2024-09）</td>
+<td>[S 2024-09-27] Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas  ‖ 表 927: 154→price and m…</td>
+</tr>
+<tr>
+<td>SA-061</td>
+<td>RYMTECH EAS</td>
+<td>巴拉圭</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 1.2: mini→问了高速的 后续没进展了</td>
+</tr>
+<tr>
+<td>SA-071</td>
+<td>surlink-tech.com</td>
+<td>玻利维亚</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）</td>
+<td>[E 2025-07-02] Dear friend Can you please let me know: * Switch 10 100 non manageable poe * Switch 10 100 100 non manageable  ‖ 表 2025.7.2: 群发了16电→全系列…</td>
+</tr>
+<tr>
+<td>SB-031</td>
+<td>OM Telecom S.R.L.</td>
+<td>秘鲁</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.3.15: 发了L3管理poE型→price and model list</td>
+</tr>
+<tr>
+<td>SB-1134</td>
+<td>conexionderedes.com</td>
+<td>萨尔瓦多</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 3 条（A；2025-05→2026-01）</td>
+<td>[A 2026-01-19] Dear Alan: Interesting solution. Please send the technical information so we can share it with our clients. Re ‖ [A 2026-01-20] Dear Al…</td>
+</tr>
+<tr>
+<td>SB-1137</td>
+<td>Infotec Comercio de Equipame…</td>
+<td>巴西</td>
+<td>A</td>
+<td>真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）</td>
+<td>[S 2024-06-25] Ola Simon, como estas? Gracias por tu e-mail. Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24 ‖ [S 2024-11-19] Good af…</td>
+</tr>
+<tr>
+<td>SB-771</td>
+<td>lanprosa.com</td>
+<td>哥斯达黎加</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-06→2026-06）</td>
+<td>[A 2026-06-30] Can you please share price and point of you have router products and cloud management Answer back to web@lanpr ‖ 研 2026-06-30 Samanta N…</td>
+</tr>
+<tr>
+<td>SC-190</td>
+<td>Crontr Technology</td>
+<td>厄瓜多尔</td>
+<td>C</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）</td>
+<td>[E 2025-06-03] Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10  ‖ [E 2025-11-18] Hi, I j…</td>
+</tr>
+<tr>
+<td>SC-584</td>
+<td>nambasoftware.com.br</td>
+<td>巴西</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）</td>
+<td>[E 2026-05-05] Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -&gt; compras@nambasoftware.com.br Tha ‖ [E 2026-08-04] Boa tar…</td>
+</tr>
+<tr>
+<td>SB-1139</td>
+<td>arnoldomohr@gmail.com</td>
+<td>未填</td>
+<td>A</td>
+<td>真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）</td>
+<td>[A 2026-03-10] Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I ha ‖ [A 2026-03-11] Hi Alan…</td>
+</tr>
+<tr>
+<td>SA-003</td>
+<td>Eyescan security Systems</td>
+<td>塞浦路斯</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-011</td>
+<td>CXR</td>
+<td>法国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-05→2024-05）</td>
+<td>[S 2024-05-30] Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards ‖ 表 2024.5.30: 发了10G MC信息→datasheet ‖ 研 2024-05-…</td>
+</tr>
+<tr>
+<td>SA-015</td>
+<td>megnet.co.uk</td>
+<td>英国</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2025-01→2025-12）</td>
+<td>[S 2025-12-01] Hi Simon, Its a commercial grade model. Attached the Data sheet for your reference. Thanks and Regards Nasim C ‖ [S 2025-12-01] Hi Team…</td>
+</tr>
+<tr>
+<td>SA-020</td>
+<td>bitstream.pl</td>
+<td>波兰</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-01→2025-01）</td>
+<td>[A 2025-01-30] What is the price? -- Pozdrawiam, <em>Katarzyna Surowiec</em>Asystentka Zarządu <em>Phone</em> +48 81 743 86 43 <em>Web</em> www.bi ‖ 表 2025.1.30: 28BT→INFO…</td>
+</tr>
+<tr>
+<td>SA-023</td>
+<td>fcnet.pl</td>
+<td>波兰</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）</td>
+<td>[A 2025-04-18] And the price is ? Pozdrawiam / Best regards FCNET sp. z o.o. ／ ul. Św. Jacka 2 45-073 Opole t: +48 775-418-47 ‖ [A 2025-04-22] We have…</td>
+</tr>
+<tr>
+<td>SA-034</td>
+<td>rfog.pl</td>
+<td>波兰</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.3.28: 发了10G MC信息→有点兴趣 让发资料</td>
+</tr>
+<tr>
+<td>SA-043</td>
+<td>direktronik.se</td>
+<td>瑞典</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）</td>
+<td>[A 2025-11-11] Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell w ‖ 表 2025.11.11: 升压→认证INF…</td>
+</tr>
+<tr>
+<td>SA-050</td>
+<td>impakt.com.pl</td>
+<td>波兰</td>
+<td>A</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-09→2025-10）</td>
+<td>[A 2025-09-29] Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marv ‖ [A 2025-10-03] [cid:im…</td>
+</tr>
+<tr>
+<td>SA-074</td>
+<td>Elite Team Security Ltd</td>
+<td>保加利亚</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）</td>
+<td>[A 2025-12-04] <em>Hi,</em> Thank you for your message and the detailed overview. We are definitely interested in exploring your Mar ‖ [A 2025-12-17] <em>Hi,</em> Y…</td>
+</tr>
+<tr>
+<td>SB-018</td>
+<td>Smart-Protect</td>
+<td>德国</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-05→2025-06）</td>
+<td>[A 2025-05-13] Hi thank you for you‘re offer We would like a free switch for Testing, we need to replace a lot of switches an ‖ [A 2025-06-10] Hello ,…</td>
+</tr>
+<tr>
+<td>SB-038</td>
+<td>tricomp.com.pl</td>
+<td>波兰</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 418: marvell系列商→info</td>
+</tr>
+<tr>
+<td>SB-040</td>
+<td>4Demand Co</td>
+<td>英国</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.8.10: 10G MC→问了2光4</td>
+</tr>
+<tr>
+<td>SB-055</td>
+<td>DIOS ULTRA HD VIDEO SECURITY…</td>
+<td>荷兰</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）</td>
+<td>[A 2025-03-05] Dear Alan, thank u, where can i find prices? Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS In ‖ [A 2025-03-05] Dear Al…</td>
+</tr>
+<tr>
+<td>SB-056</td>
+<td>Net Work Business Solutions</td>
+<td>爱沙尼亚</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2025.2.27: 工业16 24口出货→有工业mini pc？</td>
+</tr>
+<tr>
+<td>SB-057</td>
+<td>Rfcom</td>
+<td>希腊</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 93: bypass→22mini/email</td>
+</tr>
+<tr>
+<td>SB-104</td>
+<td>STS Italia S.r.l.</td>
+<td>意大利</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）</td>
+<td>[S 2024-11-20] €..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<a href="http://www.stsitalia.com/">http://www.stsitalia.com/</a> Le informazioni con ‖ 表 1120: 群发了48口→欧元价格</td>
+</tr>
+<tr>
+<td>SB-1132</td>
+<td>nedic.aleksandar@gmail.com</td>
+<td>塞尔维亚</td>
+<td>B</td>
+<td>真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）</td>
+<td>[S 2024-05-16] Thank you for fast reply, Is there a price list and MOQ on your equipment? We have some peaces of equipment we ‖ [S 2024-05-16] Hi Simo…</td>
+</tr>
+<tr>
+<td>SB-118</td>
+<td>genrov.com</td>
+<td>英国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-06→2024-06）</td>
+<td>[S 2024-06-16] Hi Simon You could email the data sheet/manual Regards Mike ‖ 表 2024.6.16: 发了2光4小壳信息→DS  24号问feedback无回复 ‖ 研 2024-06-16 mike@genrov.com…</td>
+</tr>
+<tr>
+<td>SB-130</td>
+<td>Bonmag International</td>
+<td>罗马尼亚</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 92: bypass→可能有用 price</td>
+</tr>
+<tr>
+<td>SB-160</td>
+<td>linx-com.com</td>
+<td>英国</td>
+<td>A</td>
+<td>真回信 4 封 / 表内 1 条 / 研究档 3 条（A；2025-03→2025-04）</td>
+<td>[A 2025-04-22] Kindly explain us what is the differences between what you offered and the attached data sheets? Kind regards, ‖ [A 2025-04-28] Can you…</td>
+</tr>
+<tr>
+<td>SB-193</td>
+<td>Dema Vertriebs GmbH</td>
+<td>德国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06）</td>
+<td>[A 2025-06-10] Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quant ‖ 表 2025.7.10: 16电→MOQ  …</td>
+</tr>
+<tr>
+<td>SB-224</td>
+<td>Arsenal TV</td>
+<td>罗马尼亚</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 529: 洪瑞商业PoE组合图→price</td>
+</tr>
+<tr>
+<td>SB-246</td>
+<td>isnetworks.pl</td>
+<td>波兰</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02）</td>
+<td>[A 2026-02-09] Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par.  ‖ 研 2026-02-09 Marek Kub…</td>
+</tr>
+<tr>
+<td>SB-474</td>
+<td>casecomms.com</td>
+<td>英国</td>
+<td>A</td>
+<td>真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02）</td>
+<td>[A 2025-02-08] Thank you Alan ‖ [A 2025-02-08] Thank you Alan I guess this is based on the Marvell chipset. It does seem quite expensive we have layer…</td>
+</tr>
+<tr>
+<td>SB-767</td>
+<td>itmsystems.co.uk</td>
+<td>英国</td>
+<td>A</td>
+<td>真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）</td>
+<td>[A 2026-07-02] Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve ‖ [A 2026-08-15] Hi Alan,…</td>
+</tr>
+<tr>
+<td>SB-901</td>
+<td>Hersnet Ltd</td>
+<td>匈牙利</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.3.15: 发了2光8商业POE→有兴趣 让发资料</td>
+</tr>
+<tr>
+<td>SB-905</td>
+<td>TELTRONIX ／ BRITICOM</td>
+<td>英国</td>
+<td>A</td>
+<td>真回信 3 封 / 表内 1 条 / 研究档 5 条（A；2025-07→2025-10）</td>
+<td>[A 2025-07-07] Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? Best Rega ‖ [A 2025-10-31] It will…</td>
+</tr>
+<tr>
+<td>SB-910</td>
+<td>etictelecom.com</td>
+<td>法国</td>
+<td>A</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）</td>
+<td>[S 2024-05-22] Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles. ‖ 表 2024.5.22: 发了4光24导轨式信→10 50 100个的价格 ‖ 研 2024-05-22 Charl…</td>
+</tr>
+<tr>
+<td>SC-007</td>
+<td>bornelectronics.com</td>
+<td>英国</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-11→2025-05）</td>
+<td>[S 2024-11-17] Hi, Do u have 48 Port 10G switches ? ‖ [A 2025-05-18] Do you have chaise and stackable switches?? ‖ 表 2024.11.15: 48口→48 port 10g  也问了s…</td>
+</tr>
+<tr>
+<td>SA-005</td>
+<td>Taurus Vision</td>
+<td>南非</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.8.13: 4 8口工业FS→price list</td>
+</tr>
+<tr>
+<td>SB-110</td>
+<td>itkati.com</td>
+<td>乌干达</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.3.18: 发了2光8PoE管理→price</td>
+</tr>
+<tr>
+<td>SB-116</td>
+<td>Pyramid Enterprises</td>
+<td>津巴布韦</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 6.12: →主动问了一个项目 100对千兆WDM MC</td>
+</tr>
+<tr>
+<td>SB-122</td>
+<td>Tera Technologies and Engine…</td>
+<td>坦桑尼亚</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2025.2.20: 工业16 24口出货→可能会用到</td>
+</tr>
+<tr>
+<td>SB-183</td>
+<td>Onyx Technology Solutions Li…</td>
+<td>乌干达</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 926: 2.5G ether→price list</td>
+</tr>
+<tr>
+<td>SB-222</td>
+<td>（未具名）</td>
+<td>赞比亚</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 8 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 4.7: 问需求→已经分享给相关的人了</td>
+</tr>
+<tr>
+<td>SB-331</td>
+<td>retelem-dz.com</td>
+<td>阿尔及利亚</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 103: dac→email</td>
+</tr>
+<tr>
+<td>SB-339</td>
+<td>OMEGATEC SARL</td>
+<td>喀麦隆</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 106: dac→12光L3</td>
+</tr>
+<tr>
+<td>SB-340</td>
+<td>ROCKBIOS Limited</td>
+<td>加纳</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 2024.2.27: 发了24光combo→price</td>
+</tr>
+<tr>
+<td>SB-373</td>
+<td>（未具名）</td>
+<td>尼日利亚</td>
+<td>A</td>
+<td>真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 618: 洪瑞商业PoE组合图→千兆8口pOE价格</td>
+</tr>
+<tr>
+<td>SB-580</td>
+<td>nsavyumwamip@gmail.com</td>
+<td>布隆迪</td>
+<td>B</td>
+<td>真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）</td>
+<td>‖ 表 1011: 2.5g/10g n→price</td>
+</tr>
+<tr>
+<td>SB-865</td>
+<td>dbjcontrad@hotmail.com</td>
+<td>赞比亚</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）</td>
+<td>[E 2025-10-05] Dear Elsa, Thank you for reaching out and sharing information about the 24-port Marvell-based managed SFP swit ‖ 表 2025.10.5: DAC→price…</td>
+</tr>
+<tr>
+<td>SB-896</td>
+<td>wafulamusine@gmail.com</td>
+<td>肯尼亚</td>
+<td>B</td>
+<td>真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）</td>
+<td>[E 2025-04-16] Am good .... Am interested  ‖ 表 422: 芯片→interested ‖ 研 2025-04-16 Musine（肯尼亚，个人 gmail）: Am good .... Am interested</td>
+</tr>
+<tr>
+<td>SC-1623</td>
+<td>shopfiber.co.za</td>
+<td>南非</td>
+<td>C</td>
+<td>真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）</td>
+<td>[S 2024-10-16] Thank you Simon. ‖ [S 2024-10-16] Hi Simon. Pricing for 10 units? ‖ 表 1016: 154→10pcs price</td>
+</tr>
+<tr>
+<td>SC-2904</td>
+<td>firsttech.co.za</td>
+<td>南非</td>
+<td>C</td>
+<td>真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）</td>
+<td>[S 2024-08-16] Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offer ‖ [S 2024-08-16] Hi Simo…</td>
+</tr>
+</tbody>
+</table>
+<h2>3.3 A3 极贴合（无回信）（29 户）</h2>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>公司</th>
+<th>国家</th>
+<th>前</th>
+<th>依据</th>
+<th>证据摘录</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SA-012</td>
+<td>widen.co.th</td>
+<td>泰国</td>
+<td>A</td>
+<td>贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-949</td>
+<td>ksm.com.au</td>
+<td>澳大利亚</td>
+<td>A</td>
+<td>贴合·澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-599</td>
+<td>symanitron.ru</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-143</td>
+<td>broadstar.com</td>
+<td>美国</td>
+<td>A</td>
+<td>贴合·美国 BroadStar：AON 社区光纤 ISP，48×SFP 全光汇聚对位 STC-448XGGMO</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-173</td>
+<td>inaxsys.com</td>
+<td>加拿大</td>
+<td>A</td>
+<td>贴合·加拿大安防品牌商，交换机由 HRUI 代工贴标 → 直接对位 Saga OEM（Q-33 标记：按不碰同行客户规则仅观察）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-248</td>
+<td>nellyssecurity.com</td>
+<td>美国</td>
+<td>A</td>
+<td>贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）</td>
+<td>‖ 研 2024-06-04 customerservice@nellyssecurity.com: How would you rate the support you received here at Nelly's?｜##- Please type you / 2024-07-08 cust…</td>
+</tr>
+<tr>
+<td>SB-356</td>
+<td>infinicoreinc.com</td>
+<td>美国</td>
+<td>A</td>
+<td>贴合·美国 InfiniCore：网络分流/可视化厂商，Bypass/TAP 配套（需 SmartByte 回退）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-529</td>
+<td>dmsimfg.com</td>
+<td>美国</td>
+<td>A</td>
+<td>贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-970</td>
+<td>EION Inc</td>
+<td>加拿大</td>
+<td>A</td>
+<td>贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-988</td>
+<td>Infinity Hardware</td>
+<td>美国</td>
+<td>A</td>
+<td>贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-343</td>
+<td>Zekko Tech Private Limited</td>
+<td>印度</td>
+<td>A</td>
+<td>贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-009</td>
+<td>coptek.com.tr</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-030</td>
+<td>snexus.com.tr</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-055</td>
+<td>NOVA Group Engineering Proje…</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-085</td>
+<td>HCS</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-074</td>
+<td>Bilge SECURITY SYSTEMS</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-132</td>
+<td>F.A.S.T</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·ISAF 2025：伊斯坦布尔工厂自动化分销商（Meanwell/PLC），工业 PoE 对位（土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-167</td>
+<td>ONSIS ELEKTRONIK</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·ISAF 2025 当面谈到样品；安卡拉安防承包商（土耳其主战场）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-274</td>
+<td>fiberix.com.tr</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·Simon 表内亲记：加济安泰普光纤 ISP（AS205768），全光汇聚对位（土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-388</td>
+<td>fhguvenlik.com</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-389</td>
+<td>hiperonline.com</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-392</td>
+<td>makrosisas.com.tr</td>
+<td>土耳其</td>
+<td>A</td>
+<td>贴合·ISAF 2025 当面（Evelyn）：i-PRO 土耳其 Premium 分销商（土耳其）</td>
+<td></td>
+</tr>
+<tr>
+<td>SA-082</td>
+<td>ISIMKO GmbH,Guhrower Straße</td>
+<td>德国</td>
+<td>A</td>
+<td>贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-077</td>
+<td>Liveye</td>
+<td>德国</td>
+<td>A</td>
+<td>贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-103</td>
+<td>Grundig</td>
+<td>德国</td>
+<td>A</td>
+<td>贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-1031</td>
+<td>findcontrols.com</td>
+<td>英国</td>
+<td>A</td>
+<td>贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-256</td>
+<td>tvprzemyslowa.pl</td>
+<td>波兰</td>
+<td>A</td>
+<td>贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-542</td>
+<td>lanopia.de</td>
+<td>德国</td>
+<td>A</td>
+<td>贴合·德国 lanopia：光纤/铜缆增值分销，poe 247 / industrial 126 词频（对位）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-1117</td>
+<td>Switchcom Distribution (Pty)…</td>
+<td>南非</td>
+<td>A</td>
+<td>贴合·南非 Switchcom：网络设备分销商，两次把 Saga 当买家 → 需换话术（对位分销）</td>
+<td>‖ 研 2024-12-12 Kevin Maphanga（Account Manager, Switchcom）: Please see the attached sales quote above on what we can offer and stock is avai</td>
+</tr>
+</tbody>
+</table>
+<h2>4. 出 A（A→B，32 户）——请扫一眼，要留的指名</h2>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>公司</th>
+<th>国家</th>
+<th>原因</th>
+<th>证据摘录</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SA-013</td>
+<td>alfa.com.tw</td>
+<td>台湾</td>
+<td>排除：台湾品牌商 INH 最高 B</td>
+<td>[S 2024-08-15] Hello, Simon Please provide your company information. And what’s the price for non-PoE and PoE model. Tha…</td>
+</tr>
+<tr>
+<td>SA-017</td>
+<td>parallaxdigital.co.uk</td>
+<td>英国</td>
+<td>最后一句婉拒：pass（Cisco $124）</td>
+<td>[S 2024-06-03] Hi there I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will h…</td>
+</tr>
+<tr>
+<td>SA-019</td>
+<td>allnet.de</td>
+<td>德国</td>
+<td>最后一句婉拒：has own SFP solution</td>
+<td>[A 2025-07-10] Hallo Alan, sorry we have our solution with SFP Slots and Managed Versions. Thanks Gerhard ‖ 表 2025.7.9: …</td>
+</tr>
+<tr>
+<td>SA-037</td>
+<td>aeconnect.co.in</td>
+<td>印度</td>
+<td>最后一句婉拒：主要用 RTL 国内成熟产品</td>
+<td>‖ 表 2025.2.26: 工业16 24口出货→主要用RTL 有较为成熟的产品了 国内的</td>
+</tr>
+<tr>
+<td>SA-038</td>
+<td>dncsolutions.co.in</td>
+<td>印度</td>
+<td>只有薄回复（K3）</td>
+<td>‖ 表 1209: 引流→1211: 22迷你</td>
+</tr>
+<tr>
+<td>SA-041</td>
+<td>lightoptics.pl</td>
+<td>波兰</td>
+<td>无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）</td>
+<td>‖ 表 2022.12.9: 发了2光10电图 价→read</td>
+</tr>
+<tr>
+<td>SA-044</td>
+<td>dymec.com</td>
+<td>美国</td>
+<td>最后一句婉拒：not our market</td>
+<td>[A 2025-05-28] need a better description please... On Wed, May 28, 2025 at 1:21 PM Alan from Saga Telecom &lt; a.sagateleco…</td>
+</tr>
+<tr>
+<td>SA-057</td>
+<td>Born SPb LLC</td>
+<td>俄罗斯</td>
+<td>只有薄回复（K3）</td>
+<td>‖ 表 621: 工业非管理组合图→用switches</td>
+</tr>
+<tr>
+<td>SA-062</td>
+<td>ipns-uae.com</td>
+<td>阿联酋</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 研 2026-08-12 Jomini Midhun（Sales Coordinator）: Could you please confirm whether you are looking for a BORN COMMERCIAL…</td>
+</tr>
+<tr>
+<td>SA-069</td>
+<td>bptehno.ru</td>
+<td>俄罗斯</td>
+<td>无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）</td>
+<td>‖ 表 2024.4.16: 发了5 8 16电口→ok</td>
+</tr>
+<tr>
+<td>SB-004</td>
+<td>fhn-na.com</td>
+<td>美国</td>
+<td>排除：巨头</td>
+<td>‖ 表 2023.8.29: →Full FE 2+4</td>
+</tr>
+<tr>
+<td>SB-015</td>
+<td>suministros-industriales.es</td>
+<td>西班牙</td>
+<td>只有薄回复（K3）</td>
+<td>‖ 表 2023.12.15: 群发工业电源价格册→问问价近期会不会变化</td>
+</tr>
+<tr>
+<td>SB-017</td>
+<td>Securitytec</td>
+<td>英国</td>
+<td>无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-058</td>
+<td>SABMARtv</td>
+<td>波兰</td>
+<td>老成单·品类/年代不符·HDMI 光端机样品（波兰）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-069</td>
+<td>mutexsystemsltd.com</td>
+<td>巴基斯坦</td>
+<td>老成单·品类/年代不符·早年百兆/非管理（巴基斯坦，无互动）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-083</td>
+<td>MERIT LILIN ENT. CO., LTD.</td>
+<td>台湾</td>
+<td>排除：台湾品牌商 INH 最高 B</td>
+<td>[A 2025-02-20] Hi, May I ask which country you are from? I will forward this to the responsible sales representative. Al…</td>
+</tr>
+<tr>
+<td>SB-084</td>
+<td>AD-NET TECHNOLOGY CO., LTD.</td>
+<td>台湾</td>
+<td>排除：台湾品牌商 INH 最高 B</td>
+<td>[A 2025-09-17] Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port …</td>
+</tr>
+<tr>
+<td>SB-086</td>
+<td>TAILYN</td>
+<td>台湾</td>
+<td>排除：台湾品牌商 INH 最高 B</td>
+<td>[A 2026-04-02] Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC…</td>
+</tr>
+<tr>
+<td>SB-1054</td>
+<td>luxritesecurity.com</td>
+<td>英国</td>
+<td>只有自动回复/非买家回复：</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-1103</td>
+<td>ara.com.bd</td>
+<td>孟加拉国</td>
+<td>只有自动回复/非买家回复：表内仅 thanks</td>
+<td>‖ 表 2023.2.15: 发了商业POE图 价→thanks</td>
+</tr>
+<tr>
+<td>SB-1121</td>
+<td>technetix.com</td>
+<td>英国</td>
+<td>排除：巨头</td>
+<td>[A 2025-04-22] Hello Alan, Thanks for the info. Some questions, * Do you have a data sheet you send to me please * What …</td>
+</tr>
+<tr>
+<td>SB-205</td>
+<td>barox.de</td>
+<td>德国</td>
+<td>无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）</td>
+<td>[S 2024-05-02] Amazing Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device ‖ […</td>
+</tr>
+<tr>
+<td>SB-306</td>
+<td>Digital systems</td>
+<td>印度</td>
+<td>只有薄回复（K3）</td>
+<td>‖ 表 1118: 引流机型→Hi</td>
+</tr>
+<tr>
+<td>SB-325</td>
+<td>Hamed electronics LLC</td>
+<td>阿联酋</td>
+<td>无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-366</td>
+<td>th-it.com</td>
+<td>马来西亚</td>
+<td>最后一句婉拒：no need</td>
+<td>[S 2024-07-29] sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Ren…</td>
+</tr>
+<tr>
+<td>SB-462</td>
+<td>Eter biometric technologies …</td>
+<td>意大利</td>
+<td>只有自动回复/非买家回复：转发通知（意）</td>
+<td>[A 2025-05-29] Sarò fuori sede fino al 29/05/2025 compreso, con accesso limitato all’email. Per urgenze tecniche scriver…</td>
+</tr>
+<tr>
+<td>SB-497</td>
+<td>Cong Ty TNHH CONG NGHE QUANG…</td>
+<td>越南</td>
+<td>只有自动回复/非买家回复：Gmail 表情反应</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-499</td>
+<td>b.medvedev11@mail.ru</td>
+<td>吉尔吉斯斯坦</td>
+<td>只有薄回复（K3）</td>
+<td>‖ 表 924: dac→interesting</td>
+</tr>
+<tr>
+<td>SB-728</td>
+<td>Fast-Track Systems &amp; Service…</td>
+<td>新加坡</td>
+<td>老成单·品类/年代不符·2020 光猫 8 个（新加坡）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-737</td>
+<td>UGUR IMRE</td>
+<td>土耳其</td>
+<td>排除：无联系路径（无邮箱无 WA）</td>
+<td></td>
+</tr>
+<tr>
+<td>SB-827</td>
+<td>GOIP Global Services Pvt Ltd</td>
+<td>印度</td>
+<td>只有自动回复/非买家回复：工单登记提示</td>
+<td>[S 2024-10-24] Hi Simon, It is Semi manage or manage Switch, Kindly share Price for this switch. If you are available on…</td>
+</tr>
+<tr>
+<td>SB-933</td>
+<td>airlive.com</td>
+<td>台湾</td>
+<td>排除：台湾品牌商 INH 最高 B</td>
+<td>[S 2024-01-02] Whats you company url Is those ce certificate? J ‖ 研 2024-01-02 john.lai@airlive.com: Whats you company u…</td>
+</tr>
+</tbody>
+</table>
+<h2>5. C 捞到 B（15 户）+ 非主攻区薄回复留 B（K1）</h2>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>公司</th>
+<th>国家</th>
+<th>原因</th>
+<th>证据摘录</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SB-016</td>
+<td>Richard Jackson</td>
+<td>坦桑尼亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.2.28: 发了2光8POE管理→问了catalog/2023.3.20</td>
+</tr>
+<tr>
+<td>SB-080</td>
+<td>cyber-tec.net</td>
+<td>伊拉克</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.3.15: 发了工业MC系列信息→price 含电源嘛？ 电源价格</td>
+</tr>
+<tr>
+<td>SB-1110</td>
+<td>amineachoura21@gmail.com</td>
+<td>阿尔及利亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2023.9.13: 发了WDM手册和网页→WDM information</td>
+</tr>
+<tr>
+<td>SB-897</td>
+<td>wellspeter8@gmail.com</td>
+<td>肯尼亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 4.7: 发了洪瑞商业交换机图→price list</td>
+</tr>
+<tr>
+<td>SC-023</td>
+<td>Central Gospel School</td>
+<td>加纳</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[S 2024-06-23] Weĺl noted.How much is the Cif Price Tema,Ghana. ‖ 表 912: 2.5G Ether→暂时没需求</td>
+</tr>
+<tr>
+<td>SC-039</td>
+<td>atwtechnology.com</td>
+<td>台湾</td>
+<td>排除：台湾品牌商 INH 最高 B</td>
+<td>[E 2026-04-29] Hi, The following is simple specification for a access switch. Do you have the same product? Please send …</td>
+</tr>
+<tr>
+<td>SC-1167</td>
+<td>vmo broadband pvt ltd</td>
+<td>印度</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[E 2025-09-30] interested tel me price and cli command reference 8287122132</td>
+</tr>
+<tr>
+<td>SC-1176</td>
+<td>PT Omni Cakrawala Komunikasi</td>
+<td>印度尼西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[E 2025-12-10] Dear all, Thank you for the product information you sent us. Good luck to you. Best regards, Dewaris Pand…</td>
+</tr>
+<tr>
+<td>SC-1812</td>
+<td>ns-t.ru</td>
+<td>俄罗斯</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[S 2024-06-20] Hi Simon. Can you send me your full price list and catalog?</td>
+</tr>
+<tr>
+<td>SC-2012</td>
+<td>VEMAX TECHNOLOGY SDN.BHD</td>
+<td>马来西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[S 2024-12-29] Can you send your company profile?</td>
+</tr>
+<tr>
+<td>SC-2075</td>
+<td>shajahan007@gmail.com</td>
+<td>沙特阿拉伯</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[E 2025-11-06] Wr r u from dear yes i need 16 port Sent from My iPhone  ‖ [E 2026-04-03] price for 16 port poe and 24 po…</td>
+</tr>
+<tr>
+<td>SC-2766</td>
+<td>saikooperu@gmail.com</td>
+<td>秘鲁</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[S 2024-08-16] What is the price? El vie, 16 de ago de 2024, 9:01 a. m., Simon <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#46;&#115;&#97;&#103;&#97;&#116;&#101;&#108;&#101;&#99;&#111;&#109;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#115;&#46;&#115;&#97;&#103;&#97;&#116;&#101;&#108;&#101;&#99;&#111;&#109;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a> escribió:</td>
+</tr>
+<tr>
+<td>SC-3073</td>
+<td>bandasonkelly@gmail.com</td>
+<td>津巴布韦</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[E 2026-08-19] How much per pc</td>
+</tr>
+<tr>
+<td>SC-368</td>
+<td>Itmax system sdn bhd</td>
+<td>马来西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[S 2024-06-05] Hi Simon, Thanks for the info. I am interested in the switch you introduced. First, I will need to know. …</td>
+</tr>
+<tr>
+<td>SC-619</td>
+<td>hdcabling.co.za</td>
+<td>南非</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[S 2024-07-18] Price Regards Johan Thiart HDCabling Centurion Manager johan@hdcabling.co.za https://www.hdcabling.co.za …</td>
+</tr>
+<tr>
+<td>SA-052</td>
+<td>bsn-system.com</td>
+<td>印度尼西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.5.19: 发了几个mini工业→之前的项目没拿到</td>
+</tr>
+<tr>
+<td>SB-029</td>
+<td>ETRADINGKOREA Co., Ltd</td>
+<td>韩国</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[A 2025-06-30] Hi, How are you? Can I see your web site? (주)이트레이딩코리아 대표이사 우성영 (010-6215-7314 드림 ‖ 表 2025.6.30: Alarm→INF…</td>
+</tr>
+<tr>
+<td>SB-032</td>
+<td>PIOLINK</td>
+<td>韩国</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[A 2025-02-18] Hi Alan, Thank you for your email. Could we talk via WeChat? My WeChat account is "jayden092" Best Regard…</td>
+</tr>
+<tr>
+<td>SB-035</td>
+<td>Thimphu Techpark</td>
+<td>不丹</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.4.19: 发了10G MC信息→传输距离是多少？</td>
+</tr>
+<tr>
+<td>SB-042</td>
+<td>regalsecurity.co.za</td>
+<td>南非</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 研 2024-10-17 Josephine Davis（Sales Support）: Morning Simon Please find the Attached Quote（K8 document Quotation-25992…</td>
+</tr>
+<tr>
+<td>SB-045</td>
+<td>advancedigital.co.in</td>
+<td>印度</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.9.9: 10G MC→thanks</td>
+</tr>
+<tr>
+<td>SB-052</td>
+<td>excellent data communication…</td>
+<td>马来西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.4.28: 发了2光4小壳信息→问了样品</td>
+</tr>
+<tr>
+<td>SB-060</td>
+<td>bargas.ru</td>
+<td>俄罗斯</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>[S 2024-12-18] Hello! How yes this is kruto ---------------- Кому: info@donvision.ru (info@donvision.ru); Тема: Mini Ind…</td>
+</tr>
+<tr>
+<td>SB-1104</td>
+<td>Agility Elektrotekniks Pvt L…</td>
+<td>印度</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2023.8.15: 发了bypass系列→有用</td>
+</tr>
+<tr>
+<td>SB-114</td>
+<td>swift.net.pk</td>
+<td>巴基斯坦</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.5.19: 发了几个mini工业→商业交换机的price list</td>
+</tr>
+<tr>
+<td>SB-141</td>
+<td>agilenetworks.com</td>
+<td>菲律宾</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.8.14: 10G MC→单多模价格一样吗？</td>
+</tr>
+<tr>
+<td>SB-142</td>
+<td>airpo.co.id</td>
+<td>印度尼西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.4.24: 发了10GMC信息→主要用千兆的</td>
+</tr>
+<tr>
+<td>SB-168</td>
+<td>WIMEX TECHNOLOGIES</td>
+<td>毛里塔尼亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.1.13: 发了2光4产品信息→price</td>
+</tr>
+<tr>
+<td>SB-190</td>
+<td>A Hamson Middle East FZE</td>
+<td>阿联酋</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 916: 2.5G Ether→问一下他客户是否需要</td>
+</tr>
+<tr>
+<td>SB-194</td>
+<td>SRI ANNAI BUSINESS ASSOCIATE…</td>
+<td>印度</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.4.24: 发了2层2光8poE→price 报了75</td>
+</tr>
+<tr>
+<td>SB-203</td>
+<td>PT. Suryatama</td>
+<td>印度尼西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.4.22: 发了2层2光8POE→4光16电 2层管理</td>
+</tr>
+<tr>
+<td>SB-239</td>
+<td>empicstar.com</td>
+<td>尼日利亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.3.28: 发了商业POE 12→price</td>
+</tr>
+<tr>
+<td>SB-251</td>
+<td>pixcom.ae</td>
+<td>阿联酋</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.3.15: 发了2光8商业POE→multicast support switch</td>
+</tr>
+<tr>
+<td>SB-324</td>
+<td>Elhem Trading Co., Sal</td>
+<td>黎巴嫩</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.6.17: 发了几个商业交换机图→近期可能会有需求</td>
+</tr>
+<tr>
+<td>SB-327</td>
+<td>Techno Tower</td>
+<td>黎巴嫩</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.4.17: 发了商业POE 12→pls me the price for 8 16 &amp; 24</td>
+</tr>
+<tr>
+<td>SB-337</td>
+<td>Kimberley telecommunications</td>
+<td>肯尼亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.7.17: passive po→price</td>
+</tr>
+<tr>
+<td>SB-414</td>
+<td>Rolins</td>
+<td>印度尼西亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 621: 工业非管理组合图→12-24 sfp switch ready?</td>
+</tr>
+<tr>
+<td>SB-421</td>
+<td>distribolutions.com</td>
+<td>阿联酋</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2021.10.10: 发了价格 问要多少个→要100G的</td>
+</tr>
+<tr>
+<td>SB-586</td>
+<td>Matrix vision systems</td>
+<td>肯尼亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 2024.3.28: 发了商业POE 12→有用 需要和team沟通一下是否拿样</td>
+</tr>
+<tr>
+<td>SB-950</td>
+<td>line-net</td>
+<td>格鲁吉亚</td>
+<td>非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）</td>
+<td>‖ 表 513: 4 8 16口工业P→price 嫌贵</td>
+</tr>
+</tbody>
+</table>
+<h2>6. 老成单但品类/年代不符（不进 A，留 B）+ 你亲判「不行」的成单</h2>
+<table>
+<thead>
+<tr>
+<th>编号</th>
+<th>公司</th>
+<th>国家</th>
+<th>现等级</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SB-030</td>
+<td>Medias-Com'S</td>
+<td>瑞士</td>
+<td>B</td>
+<td>老成单·品类/年代不符·2020 MC 样品（瑞士，之后 0 跟进）</td>
+</tr>
+<tr>
+<td>SB-058</td>
+<td>SABMARtv</td>
+<td>波兰</td>
+<td>B</td>
+<td>老成单·品类/年代不符·HDMI 光端机样品（波兰）</td>
+</tr>
+<tr>
+<td>SB-069</td>
+<td>mutexsystemsltd.com</td>
+<td>巴基斯坦</td>
+<td>B</td>
+<td>老成单·品类/年代不符·早年百兆/非管理（巴基斯坦，无互动）</td>
+</tr>
+<tr>
+<td>SB-125</td>
+<td>Anfiris, lda</td>
+<td>安哥拉</td>
+<td>B</td>
+<td>老成单·品类/年代不符·2019 8 口样品（安哥拉）</td>
+</tr>
+<tr>
+<td>SB-155</td>
+<td>JguyTech</td>
+<td>法国</td>
+<td>B</td>
+<td>老成单·品类/年代不符·OM4301 延长器 1 对（法国）</td>
+</tr>
+<tr>
+<td>SB-463</td>
+<td>Groupe Penda Telecoms</td>
+<td>塞内加尔</td>
+<td>B</td>
+<td>老成单·品类/年代不符·2019 SFP 样品（塞内加尔）</td>
+</tr>
+<tr>
+<td>SB-728</td>
+<td>Fast-Track Systems &amp; Service…</td>
+<td>新加坡</td>
+<td>B</td>
+<td>老成单·品类/年代不符·2020 光猫 8 个（新加坡）</td>
+</tr>
+<tr>
+<td>SB-1135</td>
+<td>raisecom.su</td>
+<td>俄罗斯</td>
+<td>A</td>
+<td>表内成单但 Simon 判不行</td>
+</tr>
+<tr>
+<td>SC-1173</td>
+<td>JEVASO S.L. DPTO. ELECTRONIC…</td>
+<td>西班牙</td>
+<td>B</td>
+<td>表内成单但 Simon 判不行</td>
+</tr>
+</tbody>
+</table>
+<h2>7. 机制与文件</h2>
+<ul>
+<li>规则落地：研究档 <code>grade_override</code> A/B + <code>override_reason</code> + <code>override_history</code>（batch <code>AB-FINAL-01</code>）+ <code>ab_final</code> 块（档次/理由/证据）；<code>人工定级.csv</code> 仍最高优先（只有 SB-061）。</li>
+<li>证据：<code>data/saga_clients/回信档案_2026-10-30.json/.csv</code>（637 户逐封分类）；决定：<code>data/saga_clients/A类终评_2026-10-30.json/.csv</code>；脚本 <code>scripts/saga_clients/ab_final/{reply_dossier,a_select,report}.py</code> + <code>patches/p78_a_final.py</code>（幂等）。</li>
+<li>22 户从未调研的 C 户因回信进 A/B，已用回信证据建最小研究档（公司底数走「新入库即查」，下一轮补）。</li>
+<li><code>客户主表.csv</code> 的「成交=是」100 户里 80 户是备注正则命中（含买了同行、2010–13 老产品线、光端机/HDMI），不等于 Saga 成单；本轮 A1 只认 PI 包 + 逐户核定的 14 户。</li>
+</ul></body></html>

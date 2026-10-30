@@ -67,8 +67,8 @@
    "source": "https://www.zoominfo.com/p/Neal-Cennamo/81956627"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -306,5 +306,28 @@
   "url": "https://softnetworks.net/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-04-29] I never buy Unmanaged.  ‖ [E 2025-05-13] What is the price for this one? Thank you. Neal Cennamo Softnetworks.net 201-688-3750  ‖ 表 2025.4.30: 24poe→不用非管理的"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）"
+  }
+ ]
 }

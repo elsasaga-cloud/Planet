@@ -201,5 +201,30 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024.8.13: 4 8口工业FS→price list"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
 }

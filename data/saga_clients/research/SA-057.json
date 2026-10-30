@@ -68,8 +68,8 @@
    "source": "https://www.rusprofile.ru/id/2395878"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n5 次实质回复 = 真实互动，品类（MC/FS）对位 STI-110GE / 工业 FS。俄罗斯非主攻区且收款路径需核（T/T 受限时走第三方/人民币结算，报价前确认）。P1：STI-110GE 介质转换器 + STI-288GP 非管理工业 PoE，分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -253,5 +253,28 @@
   "url": "https://born-shop.ru/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "只有薄回复（K3）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "Rw",
+  "evidence": " ‖ 表 621: 工业非管理组合图→用switches"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3）"
+  }
+ ]
 }

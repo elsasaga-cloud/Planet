@@ -32,8 +32,8 @@
    "source": "https://www.sgpbusiness.com/company/Fast-track-Systems-Service-Pte-Ltd"
   }
  ],
- "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·2020 光猫 8 个（新加坡）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -164,6 +164,27 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·2020 光猫 8 个（新加坡）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "老成单·品类/年代不符·2020 光猫 8 个（新加坡）",
+  "excl": "",
+  "deal": "老成单·品类/年代不符·2020 光猫 8 个（新加坡）",
+  "reply_class": "none",
+  "evidence": ""
+ }
 }

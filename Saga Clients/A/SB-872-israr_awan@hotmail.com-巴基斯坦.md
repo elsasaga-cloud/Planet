@@ -12,7 +12,7 @@ code: SB-872
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "（巴基斯坦 · Ahmad Awan，hotmail）"
 score: 29
 country: 巴基斯坦
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴基斯坦个人/小公司买家 Ahmad Awan（hotmail，WA 已加）。2021 年问 E1 光纤 modem（Saga 不做），回「we use LAN/Ethernet to fiber」= 实际用以太网光纤收发器；2023 问价格是否更新、对 bypass 图回「有用」；22 次推送 3 次实质回复，互动尚可。→ B 25%，以 MC/工业小机切入。（调研 2026-10-21；表内兴趣：很早之前问了E1 fiber modem）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 22 次（2021-10-25 → 2025-10-06）；最近一次客户回复：2023-06-15：有用
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 「LAN/Ethernet to fiber」→ 工业千兆收发器 STI-110GE 起手；bypass 需求对应 SmartByte LT-IS6312GP-4GX8GT-FBP（Saga 无自有型号，报价需标注）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -112,7 +112,7 @@ updated: 2026-10-29
   > 很早之前问了E1 fiber modem；2021.10.25 发了单模光猫图 → we use LAN/Ethernet to fiber；2023.2.7 → 没进口证/价格更新了吗？；2023.6.15 发了bypass图 → 有用
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ahmad Awan（买家本人（hotmail；WA +92 321 507 5737 已加；需求 E1 modem / bypass / MC 均不在产品线；3 次实质回复）— 不动，不发（WA 来询按分销 20% 报 STI-154GP 替代 MC 场景）（第 118 批 官方登记核实 2026-10-28））israr_awan@hotmail.com +92 321 507 5737（WA 已加）〔用户 Clients 表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -271,12 +271,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

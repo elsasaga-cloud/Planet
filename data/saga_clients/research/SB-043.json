@@ -68,7 +68,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -190,6 +190,14 @@
    "to": "A",
    "prev_reason": "41 次跟进仅 4 次'要资料'式回复，无询价；中东非主攻区；客户群含军方/政府（守界）→ 慢跟，只做商业/银行/医疗项目。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08）"
   }
  ],
  "snap_thicken": {
@@ -218,5 +226,18 @@
   "url": "https://www.netontechnologies.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-07-07] Yes, interested *Thanks and Regards,* *[image: https://docs.google.com/uc?export=download&id=1pbWl-BfC7hF5q-Te ‖ [S 2024-08-14] hi Whats the pricing. ‖ 表 2024.8.14: 工业154→interested ‖ 研 2024-07-07 Chandra（NetOn）: Yes, interested"
  }
 }

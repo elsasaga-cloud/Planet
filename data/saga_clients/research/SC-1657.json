@@ -38,8 +38,8 @@
    "phone": ""
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选；闸 1：印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠…",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -49,6 +49,14 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选；闸 1：印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠…"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选；闸 1：印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠…",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）"
   }
  ],
  "lt_review": {
@@ -175,5 +183,18 @@
   "url": "https://santelequip.com/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2025-01-09] Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to h ‖ [S 2025-01-09] Hey Simon, I want to Know about 8*100 Unmanged Switch without SFP, Pls Share Revised Regards Chetan"
  }
 }

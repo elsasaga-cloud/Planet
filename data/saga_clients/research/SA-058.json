@@ -60,8 +60,8 @@
    "source": "https://www.alphanetcom.com/（Contact 区块）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -256,5 +256,28 @@
   "url": "https://alphanetcom.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-04-07] Yes that is correct. Do you have any product like this? Thanks ‖ [A 2025-09-26] Hi Alan, How much do they cost? Regards, Nate ‖ 表 2025.9.27: Dual AC→Price ‖ 研 2025-04-07 nate.cline@alphanetcom.com: Yes that is correct. Do you have any product like this? Thanks / 2025-09-26 Nate: How much do they cost?"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）"
+  }
+ ]
 }

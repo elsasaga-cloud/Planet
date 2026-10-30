@@ -41,8 +41,8 @@
    "phone": ""
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sm…；闸 1：印度 Mywatchdog（mywatchdog.in；工业交换机页 AOA / 洪瑞 / 丰润达都有 = 多牌进口 + 洪瑞现供）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优…",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -52,6 +52,14 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sm…；闸 1：印度 Mywatchdog（mywatchdog.in；工业交换机页 AOA / 洪瑞 / 丰润达都有 = 多牌进口 + 洪瑞现供）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优…"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sm…；闸 1：印度 Mywatchdog（mywatchdog.in；工业交换机页 AOA / 洪瑞 / 丰润达都有 = 多牌进口 + 洪瑞现供）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优…",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）"
   }
  ],
  "lt_review": {
@@ -180,5 +188,18 @@
   "url": "https://mywatchdog.in/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-09-18] I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ ‖ [S 2024-09-19] Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​"
  }
 }

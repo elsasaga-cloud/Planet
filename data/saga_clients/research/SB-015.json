@@ -30,8 +30,8 @@
    "source": "https://www.iberinform.es/empresa/1753516/suministros-industriales-mp4"
   }
  ],
- "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
@@ -134,6 +134,14 @@
    "to": "A",
    "prev_reason": "品类不符（工业 MRO/自动化配件商，无网络产品线），仅 1 次回复后 18 次推送无果；S 重点名单身份保留在档，若用户坚持可在 人工定级.csv 改回 A。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3）"
   }
  ],
  "snap_thicken": {
@@ -158,5 +166,18 @@
   "url": "https://suministros-industriales.es/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "只有薄回复（K3）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "Rw",
+  "evidence": " ‖ 表 2023.12.15: 群发工业电源价格册→问问价近期会不会变化"
  }
 }

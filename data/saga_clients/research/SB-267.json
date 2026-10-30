@@ -35,8 +35,8 @@
    "role": "名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -143,7 +143,16 @@
   "note": "新加坡 IT/OT + 物理安防融合服务商 Bio-Cognitive：来信问 4 口 PoE+1 上联 / 8 口 PoE 价格 → 具体需求 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:38:34Z"
@@ -172,5 +181,18 @@
   "url": "https://www.bio-cognitive.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-07-07] Yes alan gigabit switch with gigabit uplink. Best Regards, Amy Hoi (Ms) 许婉颖 HP: +65 8796 7877 Bio-Cognitive So ‖ [A 2025-07-07] HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mo ‖ 表 2025.7.7: PoE→问了一个型号 ‖ 研 2025-07-07 Amy Hoi: Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink"
  }
 }

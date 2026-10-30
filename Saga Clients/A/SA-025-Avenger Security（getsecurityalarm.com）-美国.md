@@ -12,6 +12,7 @@ code: SA-025
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
 name_official: "Avenger Security / Security Tekton（Austin & Hutto, Texas）"
 score: 84
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。（调研 2026-10-21；表内兴趣：商业PoE；2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcur）
-- **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 2 次（2025-06-12 → 2025-09-08）；最近一次客户回复：2025-09-08：Price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP — 他点名的就是 STI-244GP 这档；安装商 25%；太阳能站点 → 强调 44–57V 宽压 + 过流/DIP；STI-244GP $35 EXW（Alan 2025-09-09 已报；主表 25% 档 $36.6、列表 $49.5——沿用 $35）；STI-0160GE 16 口 DIN 千兆非管理 $100（Alan 2025-05-28 对加拿大 SC-2150 实报；SA-010 2025-02 $105；规则 ㉕ 非管理工业线不用档位价 $95.3）；备选 STI-054GP（4 PoE + 1 GE）$39 更省；群发里他已看到的价：2026-08-10 $170（24 Port PoE Managed = STC-424XGGPM-280W，现价轮 $180）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Brandon — picking up your September note on the solar sites: STI-244GP (2 SFP + 4 GbE PoE, 44–57 V DC, DIP, −40 to +75 °C) is $35 EXW; 2 pcs by DHL to Austin lands in about a week — how many solar/off-grid sites are you fitting this season, and shall I send two for the next one?
@@ -97,7 +98,7 @@ updated: 2026-10-29
 - `getsecurityalarm.com` → 主机商 cPanel 类邮箱（MX：mx.getsecurityalarm.com.cust.b.hostedemail.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-11 Veterans Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -158,6 +159,7 @@ updated: 2026-10-29
   > 来源：https://securitytekton.com/pages/access-control-service（抓取 2026-10-21）
 - **KP**：—（总机 → 实际收件人 = Owner Brandon Walter Adams（TX 登记 0800828533，2007-05；微型报警装机商）（第 85 批 官方登记核实 2026-10-27））info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
 - **KP**：Brandon Walter Adams（Founder / Owner（2004 创立，官网 About））—（未公开） +1 512-610-2698（公司）〔https://securitytekton.com/pages/about-us〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
 
@@ -364,12 +366,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 84）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

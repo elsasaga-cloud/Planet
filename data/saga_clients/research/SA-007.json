@@ -69,7 +69,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
@@ -466,5 +466,28 @@
   "url": "https://gogreenit.net/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·可发展",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·可发展",
+  "reply_class": "R+",
+  "evidence": "[A 2026-03-19] Hi Alan, Thanks for the reply. Ah, that's a shame. So, for the PoE issues: Last year PoE was working fine for  ‖ [A 2026-04-27] Hi Alan! ‖ 表 2025.6.10: 28bt→有兴趣 ‖ 研 2026-03-19 Chris: Last year PoE was working fine for all devices. The switch has been off for a co / 2026-04-27 Chris Clemson: No, the voltage is never lower than 53V recently (see attached output from Grafa"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  }
+ ]
 }

@@ -232,10 +232,18 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）"
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）",
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:20:25Z"
@@ -271,5 +279,18 @@
   "url": "https://sge.com.tr/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-12-01] Can you send to me the price list of your products? İyi çalışmalar dilerim ‖ 表 2025.12.1: 升压→INFO ‖ 研 2025-12-01 Murat Gül（Electrical Engineer）: Can you send to me the price list of your products? / 2025-12-01 muratg@sge.com.tr: RE: Booster PoE Switch｜Can you send to me the price list of your products?     İ"
  }
 }

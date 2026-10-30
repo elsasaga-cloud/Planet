@@ -44,8 +44,8 @@
    "phone": ""
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon；闸 1：俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -55,6 +55,14 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon；闸 1：俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon；闸 1：俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）"
   }
  ],
  "lt_review": {
@@ -190,5 +198,18 @@
   "url": "https://satvision-cctv.ru/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-06-28] Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru ‖ 表 2024.6.12: 4光24导轨式→standard poe有嘛？"
  }
 }

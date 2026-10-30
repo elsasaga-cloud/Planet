@@ -75,8 +75,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -241,5 +241,28 @@
   "url": "https://www.tecprosolutions.com/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 1025: 8电口→最近来中国"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）"
+  }
+ ]
 }

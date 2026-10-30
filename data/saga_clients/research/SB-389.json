@@ -47,7 +47,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -146,6 +146,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）"
   }
  ],
  "snap_thicken": {
@@ -168,5 +176,18 @@
   "note": "hiperonline.com 快照为 HugeDomains「for sale」页，DNS 2026-10-29 MX NoAnswer / A = NameBright 停放 IP → eskisehir@hiperonline.com 邮件路径已断；公司在营（BTK 授权 ISP，官网 hiperonline.com.tr）+ ISAF 名片 + WhatsApp 已加 → A 不动，路径 = WhatsApp / .com.tr 域；.com 地址不再发",
   "why": ""
  },
- "website_status_prev": "在线"
+ "website_status_prev": "在线",
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "none",
+  "evidence": ""
+ }
 }

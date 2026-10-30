@@ -12,7 +12,7 @@ code: SB-071
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 name_official: "Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）"
 score: 61
 country: 菲律宾
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。（调研 2026-10-21；表内兴趣：买了迈威的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-01 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-05-01；Simon 实报就是 $65）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -152,7 +152,7 @@ updated: 2026-10-29
   > 买了迈威的 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mark Delapaz（NKS 员工（ZoomInfo 公开；职务待核）= 收件人 — 一页纸一次：集成商 25% B、已外采 Maiwe 的变电站自动化集成商 → STI-288DGGPM / STI-488DGGPM + STI-280GE 一口价 + 付费样机；不声称 IEC 61850 / 电力认证；电力项目按单核 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））— +632 8913 1347（公司）〔https://www.zoominfo.com/p/Mark-Delapaz/-1345711402〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 一封'迈威对位 STI 工业线'邮件。
 
@@ -331,12 +331,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

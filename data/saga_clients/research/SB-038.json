@@ -39,7 +39,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -208,6 +208,14 @@
    "to": "A",
    "prev_reason": "小型工程咨询公司，交换机只是项目配套；1 次回复后 14 次推送无回复 → 慢跟（波兰在主攻区，故不降 C）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -234,5 +242,18 @@
   "url": "https://tricomp.com.pl/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 418: marvell系列商→info"
  }
 }

@@ -12,6 +12,7 @@ code: SA-067
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 
 name_official: "LATMEDIA GROUP LLC（ООО Latmedia group，塔什干，乌兹别克斯坦）"
 score: 63
 country: 乌兹别克斯坦
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：乌兹别克斯坦 IT 公司，2025 年通过自建站询盘 L2+/L3 商业级交换机，留有手机号；至今 0 次跟进（尚未回复过该询盘）。（调研 2026-10-21；表内兴趣：L2+/L3商业级）
-- **为什么是 A 级**：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/乌兹别克斯坦；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11））；自动分级 A：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/乌兹别克斯坦；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 — 需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）｜对外统一口径（#2/#14）：2025-07～10 Alan 先说源码「almost impossible」再转介第三方 Joey 做 CKD/SKD/源码——转介可以，但 Saga 不背书、不参与；档案保持「停止群发」；不报价；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：（无）
@@ -92,7 +93,7 @@ updated: 2026-10-29
 
 - `latmedia.uz` → Hostinger / Titan（MX：mx1.hostinger.com、mx2.hostinger.com）。主机商附带邮箱（Hostinger / Titan）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（乌兹别克斯坦 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（乌兹别克斯坦 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -156,6 +157,7 @@ updated: 2026-10-29
   > 来源：https://2gis.uz/tashkent/firm/70000001036910454（抓取 2026-10-21）
 - **KP**：Пак Максим（Maksim Pak）（CEO LATMEDIA（官网 About））info@latmedia.uz（公司公开） +998 90 115 51 00（公司 Telegram）〔https://latmedia.uz/about/〕
 - **KP**：Vladimir Xe（Co-founder, Latmedia（邮件签名））vladimir.xe@latmedia.uz 〔S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。
 
@@ -344,12 +346,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 63）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 63）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

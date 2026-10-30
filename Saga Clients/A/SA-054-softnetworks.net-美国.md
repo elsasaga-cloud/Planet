@@ -12,6 +12,7 @@ code: SA-054
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Softnetworks Inc.（Whippany, NJ，美国）"
 score: 73
 country: 美国
@@ -29,13 +30,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国新泽西二手/翻新网络设备经销商 + IT 维修（Chromebook/Apple），2012 年注册，11–50 人（Datanyze 18 人），主营 Cisco/Juniper/Aruba 翻新件，产品目录含 'Industrial Switches'；联系人 Neal Cennamo 为副总裁，E 已回复 1 次。（调研 2026-10-21；表内兴趣：工业FS Cisco产品）
-- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-30 → 2025-10-01）；最近一次客户回复：2025-04-30：不用非管理的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM-2BT（90W 款） — 翻新 Cisco 工业机的新品补充 → 8 口 PoE 管理 DIN（90W 款）给他一个价位更低的新机选项；价格基准是翻新机，先问再报；自家实报 STI-288DGGPM-2BT $140/pc（Elsa 2025-05-14，老汇率）→ 再触写 $154 时点明 FX 7.2→6.7；换人再触锚价 STI-288DGGPM-2BT $154 EXW（2026-06 PDF 上限 $154（档位 157.8–171 超上限；SB-160 500 台项目实报 $130）；第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-21 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-21；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Did the May 2025 quote for the 90W managed PoE unit (STI-288DGGPM-2BT at $140) land anywhere near your refurb price points — and what would? Today it is $154 USD EXW (MOQ 1, 15-day validity; the RMB has moved from 7.2 to 6.7 since).
@@ -162,6 +163,7 @@ updated: 2026-10-29
   > 来源：https://softnetworks.net/about-us/（抓取 2025-10-12）
 - **KP**：Neal Cennamo（Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27））nealc@softnetworks.net +1 201-636-7188（官网）〔用户 Clients 表 + Datanyze/官网〕
 - **KP**：Neal Cennamo（Vice President（2014 至今）= 采购拍板人；老板 / 成员待核（NJ LLC 不公开成员）；Softnetworks LLC 2011 年 NJ 注册，EIN 46-1347043，18 人，K-12 学区投标常客（Red Bank BOE 等）（第 85 批 官方登记核实 2026-10-27））nealc@softnetworks.net（用户表原值） +1 201-636-7188（公司总机）〔https://www.zoominfo.com/p/Neal-Cennamo/81956627〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。
 
@@ -341,12 +343,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

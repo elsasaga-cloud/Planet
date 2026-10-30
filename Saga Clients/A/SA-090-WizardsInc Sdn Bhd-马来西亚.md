@@ -12,7 +12,7 @@ code: SA-090
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # PI 包成单客户，Simon 标签 可发展 → A
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 name_official: "WIZARDSINC SDN BHD"
 score: 62
 country: 马来西亚
@@ -30,13 +30,13 @@ price_tier: 20%
 research: done
 site_snapshot: timeout  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：吉隆坡 ICT/门禁/CCTV 集成商 WizardsInc Sdn Bhd（Technology Park Malaysia 孵化器；CEO Raja Kumaran）：2026-08 一单 RMB 10,500 / 42 件（STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源），PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封；曾被留在 Elsa 群发 Bcc（成单后仍收 $170 群发稿）。（调研 2026-10-22；表内兴趣：产品线比较像）
-- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP / STI-21616GPM（已测）→ 项目批量 — 刚成交、毛利好、项目型；按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
@@ -91,7 +91,7 @@ updated: 2026-10-29
 
 - `live.com.my` → Microsoft 365（MX：apc.olc.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（马来西亚 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（马来西亚 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 窗口内无该国法定假日
 
@@ -147,7 +147,7 @@ updated: 2026-10-29
   > 来源：https://10times.com/malaysia-sign-ledneon-technology-exhibition（抓取 2026-10-23）
 - **KP**：Raja King（单据联系人） 〔PI.zip 单据〕
 - **KP**：Raja Kumaran（单据联系人）rajaking@outlook.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
 
 
@@ -298,12 +298,12 @@ Raja — how did the 16-port managed vs unmanaged units behave in the test ring,
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

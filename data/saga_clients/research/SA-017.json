@@ -241,5 +241,30 @@
   "url": "https://parallaxdigital.co.uk/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "最后一句婉拒：pass（Cisco $124）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R±",
+  "evidence": "[S 2024-06-03] Hi there I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have t ‖ [S 2024-10-24] Simon Thanks for the info Customers usually want one or the other and not a combo We sell desktop and rack for ‖ 表 78: 22mini→A ‖ 研 2024-06-03 Jeff Ferrier（Director）: I have a large number of cisco 52 port gigabit layer 3 switches that cost me $12 / 2024-10"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：pass（Cisco $124）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：pass（Cisco $124）"
 }

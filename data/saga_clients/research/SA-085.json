@@ -63,7 +63,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -162,5 +162,28 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "B→A：土耳其最大电缆厂 HES Hacılar Elektrik 旗下结构化布线品牌 HCS（2000 年成立，51–200 人），产品与产品开发经理 Cihat Tunçbilek 在 ISAF 直接询商用 PoE 交换机并问 L2/L3——品牌方为布线产品线补有源交换机的典型 OEM 入口，可赢且值得长期跟进",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位）"
+  }
+ ]
 }

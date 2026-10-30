@@ -12,7 +12,7 @@ code: SB-1139
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
 name_official: "Arnoldo Beltetón Mohr（Solution Architect / Project Manager；gmail；国别未填，姓氏 Beltetón 常见于危地马拉——待证）"
 score: -18
 country: 未填
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：A 邮箱 2025-04 起 8 轮群发；2026-01-15 对「OEM Core Switching Solution」真回：CENTEC「could be a great alternative in our market」，2 月有高端交换机项目；2026-03-10 带客户需求来：若干台 Cisco C9300L-48P-4X 等价物（48×1G PoE+ + 4×10G SFP+），要堆叠（StackWise-320，8 台 / 320 Gbps）；Alan 03-11 二选一（无堆叠→STC-448XGGPM；要堆叠→CENTEC STH-2QX4DX48GP-HSI，附 STH1G Series.pdf），03-12 给出堆叠参数（最多 8 台、360 Gbps、2×40G+4×25G 光口堆叠、链/环）并问数量 → 至今无回（7 个月）。（调研 2026-10-24；表内兴趣：—）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 C：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-3 区域 未知/未填
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03））；自动分级 C：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-3 区域 未知/未填
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2QX4DX48GP-HSI（48×PoE++ 90W + 4×25G + 2×40G，双热插拔 1200W，堆叠 ≤8）；预算紧则 STH-2QX4DX48GP-SFI（PoE+ 30W，单电源） — 对外统一口径（#1）：接入 AC5 不堆叠；可堆叠 48 口 PoE 只能是 CENTEC STH1G（ST 许可，≤8 台）——这户是仓内把 STH1G 谈到参数层面的唯一客户｜已发资料（勿重发）：STH1G Series.pdf、Vastlake/STOS 链接（2026-03-11/12）｜档位说明（原 tier 字段文字「OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行」移此）：OEM 30%（方案商 / 私标）——CENTEC 底线 ≥35% 并行；他见过的实价：STC-2224GFP-24V $90（2024-11-24 样品价）；仓内无 STH1G 价；CENTEC 线已有价仅 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW（2026 Q2）
 - **第一问（只问一个）**：Arnoldo — is the C9300L-48P-4X replacement still open, and roughly how many units (8-unit stacks × how many sites)? With that I can give you the EXW price for STH-2QX4DX48GP-HSI rather than a datasheet.
@@ -152,7 +152,7 @@ updated: 2026-10-29
   > max 8 units… 360Gbps… 2*40G and 4*25G… chain and ring… what is the quantity you need?
   > 来源：gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）（抓取 2026-03-12）
 - **KP**：Arnoldo Beltetón Mohr（Solution Architect（研究档 KP；2026-01-15 真回 CENTEC「great alternative in our market」；2026-03-10 带 C9300L-48P-4X 等价 8 台堆叠需求）= 收件人 — 一页纸 + 补答：STH1G 48×1G PoE+ + 4×10G SFP+ 堆叠 按主表报 + 堆叠带宽 / PoE 预算 / 交期如实 + 付费样机；FOB 深圳；一句话问国别 （第 122 批 官方登记核实 2026-10-29））arnoldomohr@gmail.com 〔gmail_a data/gmail_a/messages/2026/2026-01.jsonl / 2026-03.jsonl（线程 OEM Core Switching Solution）〕
-- **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）
 - 备注：国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-826 Versitron，只发未回）。
 
 ### 加厚挖掘（2026-10-24 · 仅邮件证据 · 无域名）
@@ -310,12 +310,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -18）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -18）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

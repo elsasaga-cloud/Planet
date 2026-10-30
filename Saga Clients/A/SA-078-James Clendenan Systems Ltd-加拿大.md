@@ -11,7 +11,7 @@ code: SA-078
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 name_official: "James Clendenan Systems Ltd."
 score: 98
 country: 加拿大
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: timeout  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-078.json（调研 2026-10-22；表内兴趣：工业 PoE 管理交换机（STI-21616DGGPM 裸板贴牌 SW-3200-16GP-2SM/2SX）、商用 10G 管理（STC-424XGGM）、STI-488XGGPM）
-- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2026
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM / STI-21616XGGPM（在购系列，AC5）｜他 8/26 问的 mGig PoE：CENTEC STH-8DX24VP-HSI（24×2.5/5G PoE++ + 8×25G/10G，双 CRPS）/ STH-2C24XP-HSI（24×10G mGig PoE++ + 2×100G），见 `docs/reference/CENTEC_产品表与报价锚_2026-10-24.md`；价/现货 → Simon（Q-56）｜便宜路径：Realtek STC-624XGDGPM（6×10G SFP + 24×2.5G PoE bt 400W，L3 网管，$396 EXW，单电源，`data/hrui_STC对照表.csv`）——双电源 + PWM 风扇只有 CENTEC — OEM 品牌商档（装进自己的产品）；每一次固件/机械适配都是替换成本（C4/C5）｜毛利复盘：21.7% → 29.3%，正常区间；第四单（2026-09 12 × $335）成本表未更新；第 4 单 $335/台（2026-08-30 PI 为准）；复购沿用；2026-06-22 报价单 STS-20260622-001：裸板 STI-21616DGGPM-PCB $230 / 无壳整机 $240（含 MQTT + LLDP-MED 定制），运费 UPS $180 + 银行 $25 = $1,605——他的 ODM 形态是买板装自己的壳
 - **第一问（只问一个）**：For the MQTT setup, what exactly does SCOUT need from the switch side — periodic port/PoE status publish, or alarms only? (And on the power-board rework: which of the four requests is a must-have for the next batch?)
@@ -164,7 +164,7 @@ updated: 2026-10-29
   > 加拿大 James　轻度绑定 = 前期客户投入了较大精力，产品也没啥问题
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：James Clendenan（单据联系人）james@clendenan.ca 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
  ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）
 
@@ -336,12 +336,12 @@ For the MQTT setup, what exactly does SCOUT need from the switch side — period
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 98）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 98）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

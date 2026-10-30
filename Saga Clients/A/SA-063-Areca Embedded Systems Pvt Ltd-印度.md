@@ -12,6 +12,7 @@ code: SA-063
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 
 name_official: "Areca Embedded Systems Private Limited（Hyderabad, India；前身 Aster Electrosoft Pvt. Ltd.）"
 score: 67
 country: 印度
@@ -29,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度嵌入式/网络系统公司，WA 在线，4 次回复、13 次跟进，规格明确：8 光 8 电管理型、非 PoE、L2 与 L3 都要、SC 与 SFP 光口都要。（调研 2026-10-21；表内兴趣：8光8电带管理    不要POE L2 L3 SC和SFP光都要）
-- **为什么是 A 级**：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 13 次（2024-01-17 → 2025-06-21）；最近一次客户回复：2024-11-18：BIS
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM 类 — 8 光 8 电管理（L2/L3 分档）→ 先确认应用与温度范围再定机壳/固件档；—
 - **第一问（只问一个）**：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
@@ -93,7 +94,7 @@ updated: 2026-10-29
 
 - `areca.in` → Microsoft 365（MX：areca-in.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
@@ -151,6 +152,7 @@ updated: 2026-10-29
   > 来源：https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +91 90000 50555（WA）〔用户 Clients 表〕
 - **KP**：Rashmi Jain（Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人；2026-04-24 新增董事 Nilesh Bastimal Jain；Gutta Venkata Kumari（2015 起）2026 名单疑已卸任（第 83 批 官方登记核实 2026-10-27）） 〔https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。
 
@@ -320,12 +322,12 @@ Hi, Simon from Saga Telecom. On the 8-SFP + 8-RJ45 managed unit, non-PoE, L2 and
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 67）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 67）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

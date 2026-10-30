@@ -1,0 +1,116 @@
+{
+ "code": "SC-2904",
+ "name_official": "firsttech.co.za",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "南非客户（firsttech.co.za）：AB-FINAL-01 以回信证据建档——真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: Passive PoE Switch｜Hi Simon, Thank you for the clarification and for considering us as a potential partner. I apprec",
+   "quote": "Re: Passive PoE Switch｜Hi Simon, Thank you for the clarification and for considering us as a potential partner. I appreciate your offer; however, we are unable to purchase or represent products that are unbranded or come from manufacturers not part of our established local supply chain. There are a ",
+   "url": "fc10d9fa6d583071",
+   "date": "2024-08-16"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: Passive PoE Switch｜Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, ",
+   "quote": "Re: Passive PoE Switch｜Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offering these switches for sale to us, or are you looking to purchase similar switches from us? (There is no brand attached to any of the offerings on the spec sheet share",
+   "url": "db1f6f30c0f48d20",
+   "date": "2024-08-16"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, th",
+   "quote": "Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's specifications look promising, especially for non-PoE IP cameras and wireless radio equipment. However, we currently cannot receive samples fo",
+   "url": "40e70b0706c53fbb",
+   "date": "2024-08-16"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-01 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2024-08-16",
+    "dir": "来",
+    "who": "elberts@firsttech.co.za",
+    "quote": "Re: Passive PoE Switch｜Hi Simon, Thank you for the clarification and for considering us as a potential partner. I appreciate your offer; however, we are unable to purchase or represent products that are unbranded or come from manufacturers not part of our established local supply chain. There are a ",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "fc10d9fa6d583071"
+   },
+   {
+    "date": "2024-08-16",
+    "dir": "来",
+    "who": "elberts@firsttech.co.za",
+    "quote": "Re: Passive PoE Switch｜Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offering these switches for sale to us, or are you looking to purchase similar switches from us? (There is no brand attached to any of the offerings on the spec sheet share",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "db1f6f30c0f48d20"
+   },
+   {
+    "date": "2024-08-16",
+    "dir": "来",
+    "who": "elberts@firsttech.co.za",
+    "quote": "Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's specifications look promising, especially for non-PoE IP cameras and wireless radio equipment. However, we currently cannot receive samples fo",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "40e70b0706c53fbb"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-01 建档"
+  },
+  "situation": "南非；2024-08-16 最后一次来信/回复：Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 por",
+  "need": "[S 2024-08-16] Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offer ‖ [S 2024-08-16] Hi Simon, Thank y",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-08-16] Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offer ‖ [S 2024-08-16] Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope y"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）"
+}

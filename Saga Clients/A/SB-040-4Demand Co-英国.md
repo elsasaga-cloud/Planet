@@ -12,7 +12,7 @@ code: SB-040
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
 name_official: "4Demand Ltd（英国公司号 14564199，伦敦；迪拜采购联系人）"
 score: 67
 country: 英国
@@ -32,13 +32,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。（调研 2026-10-21；表内兴趣：Cisco SFP-10G-LR 25个）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2024-04-28 → 2025-10-27）；最近一次客户回复：2024-11-19：1120email发了28poe
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
@@ -82,7 +82,7 @@ updated: 2026-10-29
 
 - `4demand.co.uk` → 北欧主机商邮箱（MX：mx1.pub.mailpod11-cph3.one.com、mx2.pub.mailpod11-cph3.one.com、mx3.pub.mailpod11-cph3.one.com、mx4.pub.mailpod11-cph3.one.com）。主机商附带邮箱（北欧主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（英国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（英国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -143,7 +143,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mr. Ari（采购（表内；WhatsApp +971 已加 → 海湾一线）= 收件人（第 102 批 官方登记核实 2026-10-28））procurement@4demand.co.uk +971 55 964 5463（WA 已加）〔用户 Clients 表〕
 - **KP**：Mohsen Tavakoli Zaniani（Director / PSC 75–100%（*1992-02；British；Companies House 14564199，2022-12-30 起）= 拍板人（抄送 / 点名）（第 102 批 官方登记核实 2026-10-28）） 〔Companies House（经 Endole）〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）
@@ -343,12 +343,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 67）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 67）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

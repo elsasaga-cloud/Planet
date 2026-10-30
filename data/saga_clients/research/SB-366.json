@@ -47,8 +47,8 @@
    "role": "表内联系人 Lee（职务待核；商业 PoE 需求记录）= 收件人 — 一页纸一次：集成商 25% B small、AP 供电 STC-028GP / STC-2216GP / 2224GP 一口价 + MOQ 1 + 付费样机 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：no need",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -246,6 +246,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：no need"
   }
  ],
  "snap_thicken": {
@@ -273,5 +281,18 @@
   "url": "https://www.th-it.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "最后一句婉拒：no need",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R±",
+  "evidence": "[S 2024-07-29] sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental S ‖ [S 2024-09-09] Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,R ‖ 研 2024-07-29 inquiry@th-it.com: sorry, no need. Greetings. Hope this email finds you well. Thank you and best re / 2026-09-08 Mr. Lee Te Hua（Ren"
  }
 }

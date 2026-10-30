@@ -12,6 +12,7 @@ code: SA-055
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安
 name_official: "Nova Grup Mühendislik（Novacom Technology，安卡拉/伊斯坦布尔，2002 年）"
 score: 72
 country: 土耳其
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其弱电/安防进口批发商（CCTV、卫星、报警、数据/光纤、消防、对讲），2002 年创立，安卡拉总部 + 伊斯坦布尔办公室，约 27–35 人，营收估 780 万–1,690 万美元；ISAF 2025 参展商，CEO Ali Pekyürek + 项目经理当面交流，已有商用交换机供应商（新桥/ONV），欲扩展工业线并询 OEM。（调研 2026-10-21；表内兴趣：参展商，商业级的已经有合作的供应商了。 准备扩展工业级的，问能OEM吗，  CEO和product manager来的， Evelyn加了Ali的 Wechat.；参展商，商业级的已经有合作的供应商了。准备扩展工业级的，问能OEM吗， CE）
-- **为什么是 A 级**：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其））；自动分级 A：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 4 次（2025-09-29 → 2025-10-29）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — NVC 商用 PoE 已有（新桥/ONV）→ ISAF 谈的工业线：8 PoE + 2 SFP 管理 DIN + 4+1 紧凑款贴 NVC 标；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-10 $65（10G media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which ONV/Xinqiao industrial PoE SKU is your volume item, and what would make you add a Marvell second source?
@@ -93,10 +94,9 @@ updated: 2026-10-29
 - `novacom.com.tr` → 土耳其主机商邮箱（MX：mx1.alastyr.com、mx2.alastyr.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `nova-grup.com` → 土耳其主机商邮箱（MX：mx1.alastyr.com、mx2.alastyr.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 85 批（Türkiye · 官网 TSE 服务站清单 PDF（2024-08，含登记全称 + 进口商身份）+ ZoomInfo / RocketReach 人员 + Facebook 公司页 + 官网 İletişim（2025-12），2026-10-27 查；https://www.novacom.com.tr/wp-content/uploads/2024/08/NOVA-TS-10956-SERVIS-LISTESI.pdf）：**
 
@@ -175,6 +175,7 @@ updated: 2026-10-29
   > 来源：https://www.novacom.com.tr/urun/nvc-hif2422gbl-c-poe-switch（抓取 2025-06-20）
 - **KP**：Ali Pekyürek（**非 Genel Müdür**（用户记录「CEO」待修正）：Genel Müdür 为 Cem Aytaç；Ali Pekyürek 为管理层 / 股东待核；Nova Grup Mühendislik（Ankara 2002）= 进口商 + 自有品牌 Novacom + 4 城门店 + TSE 服务站，35–36 人（第 85 批 官方登记核实 2026-10-27））ali@nova-grup.com +90 533 715 9226（用户记录）〔用户 Clients 表（ISAF 2025 现场）〕
 - **KP**：Cem Aytaç（Genel Müdür（总经理；官网 TSE 服务站清单 / ZoomInfo）= 拍板人（第 85 批 官方登记核实 2026-10-27）） 〔https://www.zoominfo.com/c/nova-grup/1319836017〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。
 
@@ -378,12 +379,12 @@ Mr. Pekyurek, Simon from Saga Telecom - ISAF follow-up on the industrial line. T
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 72）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 72）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

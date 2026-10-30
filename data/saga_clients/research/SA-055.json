@@ -70,8 +70,8 @@
    "source": "https://www.zoominfo.com/c/nova-grup/1319836017"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -285,5 +285,28 @@
   "url": "https://www.novacom.com.tr/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）"
+  }
+ ]
 }

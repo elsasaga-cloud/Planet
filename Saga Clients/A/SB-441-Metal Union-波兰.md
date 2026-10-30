@@ -12,7 +12,7 @@ code: SB-441
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·€50 光模块 + 转换器（Meta
 name_official: "Metal Union（波兰；邮箱 pro.onet.pl；电话 +48 34 Częstochowa 区号）"
 score: 41
 country: 波兰
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波兰 Częstochowa 一带（+48 34）的金属加工/工业企业 Metal Union（onet 企业邮箱）：已成交——购买 2 个光模块 + 1 个光电转换器 €50；WhatsApp 加不上；无跟进记录。工业终端小客户，复购路径为车间光纤链路。（调研 2026-10-21；表内兴趣：买了2个模块+1个MC 50Euros）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-3 WhatsApp 加不上；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+8 区域 欧洲/波兰；-10 来源为 2010–2015 年展会且无后续记录
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·€50 光模块 + 转换器（Metal Union，微单））；自动分级 B：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-3 WhatsApp 加不上；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+8 区域 欧洲/波兰；-10 来源为 2010–2015 年展会且无后续记录
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-240GE — 工业终端 25% 档：车间加几条光纤落点 → 非管理 DIN 4 GE + 2 SFP STI-240GE（$29.1 @25%，与钩子句一致；第 74 批(r) 2026-10-25 由 STI-280DGGM $130.8 改——小机加工厂用不上 L2+ 2.5G）；备选 8 GE + 2 SFP 非管理 STI-280GE $48.6；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-05 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-01；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Following the two SFP modules and media converter you bought, if the shop floor needs more fibre drops a DIN-rail 4-port gigabit switch with 2 SFP is $29.1 EXW; how many machines are you linking?
@@ -79,7 +79,7 @@ updated: 2026-10-29
 
 - `pro.onet.pl` → 自建 / 同域名邮件服务器（MX：mx.poczta.onet.pl）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 
-**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（波兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -119,7 +119,7 @@ updated: 2026-10-29
 - **【用户表】购买 2 个模块 + 1 个 MC，€50（成交）；WhatsApp 加不上**
   > 买了2个模块+1个MC 50Euros … 4834/3661300 加不上
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·€50 光模块 + 转换器（Metal Union，微单）
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息（已成交））
@@ -267,12 +267,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

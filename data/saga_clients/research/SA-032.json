@@ -220,7 +220,7 @@
   "models": "STI-0160GE"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "watch": {
   "as_of": "2026-10-23",
   "github_watch": [],
@@ -356,5 +356,28 @@
   "url": "https://sundartechno.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·可发展",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·可发展",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  }
+ ]
 }

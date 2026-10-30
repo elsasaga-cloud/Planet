@@ -8,7 +8,7 @@
 code: SB-767
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档
 score: 32
 country: 英国
 region: 欧洲
@@ -26,13 +26,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国 ITM Systems（网络安全、视频监控与分析、IT 基础设施设计、网络；表内「Utepo 的工业 FS」；KP Steve「深度沟通中」，由 info@itmsystems.net 回复）；群发 16 次，有回复（深度沟通中）。（调研 2026-10-21；表内兴趣：Utepo的工业FS）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-15 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC 400G 32×QSFP112 DC 交换机（已报价规格不变） — 集成商 25% 档；DC 线是 Hohunet 批次搭车（Q-50 默认），有货才卖，不囤｜已发资料（勿重发）：Download Link_Alan(2025-11-11)、Product Link_2026Q2(2026-02-03)；已发单据：Quotation_2026.03.20(2026-03-20)、Quotation_2026.03.23(2026-03-23)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2）：2025-11-26 Alan 说「SDK/API is part of our TTC services (…SDK/Source Code)」与对 Netaş 的「source code NEVER」矛盾——以后统一「不开放源码/SDK，接口 = SNMP(含客户 OID)+CLI+Web」；若 Steve 再提 SDK，直接给这条边界；已报 $107,675（6 台 + 模块，2026-03 快照）；重报须按 Hohunet 当期批次价重算，不沿用；历史报价（邮件原话 2026-02-28，老汇率）：STH-32C-HSI 32×100G $6,000/pc（MA License, PeakNetX）；STH-32QC-HSI 32×400G $16,000/pc（SerdesX）；STH-64QC-HSI 64×400G 邮件写 "3200USD/PC"（明显少一位，应为 $32,000 级，重报前核对）；800G 当时无价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-10 $220（48 port managed switch）；**进价对照（HohuNet 报价单 2026-02-28：S8532-EI = STH-32QC-HSI 90,000 RMB；S8564-EI 180,000）：$16,000 → 毛利 @7 19.6% / @6.69 15.9%（未含 DHL $850）；64QC 按同比例 ≈ $32,000（证实 3200 是笔误）；35% 地板 $20,700 / $41,400 @6.69（CENTEC 锚表 §5.2）**；群发里他已看到的价（续，第 66 批全量复核）：2024-06-13 $65（10G Media Converter）、2025-02-28 $240（24 Port Fiber Switch）、2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is the 400G project still on your customer's 2026 plan, or should we park it until their next budget cycle?
@@ -200,7 +200,7 @@ updated: 2026-10-29
   > Utepo的工业FS；Steve / 深度沟通中；info@itmsystems.net 这个邮箱回复的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Steve（）info@itmsystems.net 〔用户表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -410,12 +410,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

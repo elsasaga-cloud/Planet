@@ -39,7 +39,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）",
  "notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -155,6 +155,27 @@
    "to": "A",
    "prev_reason": "两轮主动要价（2024-06、2024-11），规格明确（CCTV 用 8+2/16+2/24+2 PoE）；巴西非主攻 → B 慢慢跟进。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-06-25] Ola Simon, como estas? Gracias por tu e-mail. Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24 ‖ [S 2024-11-19] Good afternoon Simon, how are you? Can you send me your price list with the 4-8-16 and 24 door models? *Best r ‖ 研 2024-06-25 Fabian Alonzo: Todos los modelos 8, 16 y 24 puertas tienen los soportes para Rack 19\"? Tu tiene / 2024-11-19 Fabian Alonzo: Can you"
+ }
 }

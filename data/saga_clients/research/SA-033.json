@@ -243,10 +243,18 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）"
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）",
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:20:09Z"
@@ -273,5 +281,18 @@
   "url": "https://bluewarrior.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-05-28] What is the price? ‖ [S 2024-05-28] Picture and description do not match ‖ 表 2024.5.28: 发了2光8BT信息→price ‖ 研 2024-05-28 sales@bluewarrior.com: What is the price?"
  }
 }

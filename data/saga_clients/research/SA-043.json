@@ -241,10 +241,18 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）"
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:20:21Z"
@@ -274,5 +282,18 @@
   "url": "https://www.direktronik.se/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-11-11] Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell w ‖ 表 2025.11.11: 升压→认证INFO ‖ 研 2025-11-11 info@direktronik.se（合规）: we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH "
  }
 }

@@ -39,8 +39,8 @@
    "source": "https://www.fiberoptics4sale.com/"
   }
  ],
- "grade_override": "B",
- "override_reason": "第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。 ｜ 国别更正为「美国」（country_fix）：Fiber Optics For Sale Co. 在加州 Pleasanton / Livermore（官网 / BBB），用户表「CA」= California 误作加拿大（第 90 批 / Q-65 2026-10-27）",
  "deep": {
   "done_at": "2026-10-24",
@@ -182,5 +182,28 @@
   "url": "https://www.fiberoptics4sale.com",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-07-23] HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2 ‖ 研 2025-07-23 Fosco Sales（Grace，sales@fo4sale.com）: HI Alan, Please send me more info about your product line, pricing and your webs"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）"
+  }
+ ]
 }

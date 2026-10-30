@@ -73,8 +73,8 @@
   "tier": 20,
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
- "grade_override": "B",
- "override_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
  "channels": {
   "公开动态平台（监控中，T29-U18）": "官网 fastball.in（WordPress，RSS）；IndiaMART 店铺 indiamart.com/fastball（产品上新最勤）；TradeIndia 店铺；Rishi Kumar Bansal（CEO/业主，个体 GST 07AJJPR5445G1ZX，2021）"
  },
@@ -236,5 +236,28 @@
   "url": "https://fastball.in/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "PI包·gg",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·gg",
+  "reply_class": "none",
+  "evidence": " ‖ 研 2023-10-09 Rishi（FTTH需求.docx）: Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall & Rack moun"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 gg：gg（已凉）→ B（成交过·慢慢跟进）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  }
+ ]
 }

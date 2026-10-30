@@ -11,7 +11,7 @@ code: SB-451
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 
 score: 41
 country: 沙特阿拉伯
 region: 中东
@@ -29,13 +29,13 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。（调研 2026-10-21；表内兴趣：Catalog）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-04-28 → 2025-04-28）；最近一次客户回复：2025-04-28：Info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
@@ -148,7 +148,7 @@ updated: 2026-10-29
   > Catalog；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Saeed Mohammed（Operation Manager / Business Development Manager（RocketReach，2005 至今；表内 1 次跟进有回复 要 Catalog）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机、opener 引其要 Catalog — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28））saeed@e-saudi.net +966 55 068 6619（2024-02→06 签名 Mobile）〔用户表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
@@ -327,12 +327,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

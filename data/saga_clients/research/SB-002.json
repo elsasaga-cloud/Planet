@@ -82,8 +82,8 @@
    "source": "https://www.intron.ru/en/about-us/agents/"
   }
  ],
- "grade_override": "B",
- "override_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
@@ -305,5 +305,28 @@
   "url": "https://xspectechnology.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "PI包·gg",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·gg",
+  "reply_class": "R+",
+  "evidence": "[S 2024-06-18] Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simo ‖ [S 2024-06-18] Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jala ‖ 表 1118: 引流机型→passive poe only ‖ 研 2024-06-18 Sugito: Can we pay via Bank TT, as we dont do paypal payment here. / 2024-07-05 XSPec Hospitech Sdn"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  }
+ ]
 }

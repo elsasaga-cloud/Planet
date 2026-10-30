@@ -12,7 +12,7 @@ code: SB-343
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方
 name_official: "Zekko Tech Private Limited（孟买）"
 score: 44
 country: 印度
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。（调研 2026-10-21；表内兴趣：工业级/SFP）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来）；自动分级 B：+10 谈到样品/测样；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单））；自动分级 B：+10 谈到样品/测样；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-14 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.
@@ -88,7 +88,7 @@ updated: 2026-10-29
 
 - `zekko.co.in` → 自建 / 同域名邮件服务器（MX：mail.zekko.co.in）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 
-**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
@@ -147,7 +147,7 @@ updated: 2026-10-29
 - **KP**：Yashraj Sharma（Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28））yashraj@zekko.co.in +91 75060 52047〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Santosh Singh（Manager（研究档；与前董事 Seema Santosh Singh 关联待证）= 抄（第 114 批 官方登记核实 2026-10-28））santosh@zekko.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Chandrasekaran Iyer（Whole-Time Director（MCA；DIN 06879733）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -323,12 +323,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

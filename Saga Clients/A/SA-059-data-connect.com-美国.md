@@ -12,6 +12,7 @@ code: SA-059
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Data Connect Enterprise, Inc.（Maryland，美国）"
 score: 70
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国连接性产品制造/库存商（马里兰、新泽西、加州设施），自有 DCE 品牌媒体转换器、串口/光纤转换器、工业调制解调器，收购了 Ctek/Relcomm/Synxcom/Telenetics 等品牌知识产权；面向数据/语音/网络/SCADA；用户记录 1 次回复、16 次跟进，兴趣工业 FS/MC/串口。（调研 2026-10-21；表内兴趣：工业FS MC 串口  卖很多牌子的产品）
-- **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-08→2024-08））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 16 次（2024-08-24 → 2025-10-31）；最近一次客户回复：2024-08-24：price 有兴趣
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE MC 对位表 — 换渠道。已打开的主题（1/27 封有打开记录）：「10G media converter」(2024-08-24) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-11 $300（48 Port PoE Managed Switch）、2026-10-02 $180（24 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-24 $65（10G Media Converter）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which of the DCE media-converter SKUs is sourced in Asia today, and what would a second source need to match? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
@@ -185,6 +186,7 @@ updated: 2026-10-29
   > 来源：https://www.data-connect.com/dce_dt_gmc.htm（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +1 888-492-6526〔用户 Clients 表 + 官网〕
 - **KP**：Barry G. Patton（Founder / President & CEO / Resident Agent（1989 至今）= 老板；Patton Electronics 创始人家族的兄弟；SCADA 线销售 Michael Spellerberg、SMB 线 Daniel Rowe（第 84 批 官方登记核实 2026-10-27）） 〔https://govtribe.com/vendors/data-connect-enterprise-inc-dot-0mr56〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-08→2024-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 自有品牌 DCE 的 MC/工业产品线明显为 ODM 来源 → Saga 以 STI-110GE 介质转换器 + STI 工业 FS 做 OEM 补充 SKU，价阶 30%（品牌/OEM）。美国主攻区。1 次回复后 16 次推送无果 → 换角度（给 DCE 现有 MC 型号的对位表与样品）。
 
@@ -400,12 +402,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -90,8 +90,8 @@
    "source": "https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -274,5 +274,28 @@
   "url": "https://www.dc.ge/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "PI包·gg",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·gg",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 1119: 引流机型→small 8 port high poe ‖ 研 2023-07-24 George（需求.docx / requirement_solution.docx）: 8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  }
+ ]
 }

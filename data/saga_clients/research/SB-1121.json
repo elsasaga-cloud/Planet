@@ -39,8 +39,8 @@
    "source": "data/gmail_a/messages/<year>/<month>.jsonl"
   }
  ],
- "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：巨头",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n巨头规则（INH：体量不匹配）→ C 不动；但这是仓内少有的英国品牌商 VP 两次具名提问，按 Q-55「巨头例外档」处理：档案齐全，只允许一封收尾信（把 2026-01-22 的 REST 承诺交代清楚），不进群发。flags.wa_failed=1（WhatsApp 加不上）。｜第 77 批：C→B（见 override_reason）；收尾信不变，2026-11 发。",
  "deep": {
   "done_at": "2026-10-24",
@@ -182,6 +182,14 @@
    "to": "A",
    "prev_reason": "2026-10-25 第 77 批（T29-U56 Simon「值得捞的处理一下」）：C → B。理由：英国品牌商 VP Product Management 两次具名提问（2025-04 定制/芯片；2026-01 2.5G/供电/REST/样机），Alan 2026-01-22 的答复含一个未兑现承诺（REST/JSON Q2）——欠一封收尾信；《背景信息》把 OEM 品牌商排第一。原 C 来自 INH 体量规则（-45 巨头/品牌厂商），Simon 备注「加不上 比较专业」。B = 慢慢跟进：仍只发 Q-55 规定的那一封收尾信，不进群发。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：巨头"
   }
  ],
  "snap_thicken": {
@@ -203,5 +211,18 @@
   "url": "https://technetix.com/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "排除：巨头",
+  "excl": "巨头",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-04-22] Hello Alan, Thanks for the info. Some questions, * Do you have a data sheet you send to me please * What Marve ‖ [A 2026-01-21] Hello Alan, Thanks for the info. Are the 10G SFP+ ports able to run at 2.5Gbps? What the max power that can be ‖ 表 2026.1.21: CENTEC→问了一些问题 ‖ 研 2025-04-22 Mark Basham（VP Product Management, Fiber Access）: Do you have a data sheet… What Marvell chip is in th"
  }
 }

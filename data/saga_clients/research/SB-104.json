@@ -60,8 +60,8 @@
    "source": "用户表"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -160,7 +160,16 @@
   "note": "STS Italia（Arcore，1984 起安防 / 特种设施集成商）：回复 1 次 + WA 已加，要光纤传输资料 → 真人往来 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA ✔，展会 —，绑定 轻度触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:23:19Z",
@@ -171,5 +180,18 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-11-20] €..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni con ‖ 表 1120: 群发了48口→欧元价格"
  }
 }

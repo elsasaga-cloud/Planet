@@ -288,5 +288,30 @@
   "url": "https://megnet.co.uk/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2025-01→2025-12）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2025-12-01] Hi Simon, Its a commercial grade model. Attached the Data sheet for your reference. Thanks and Regards Nasim C ‖ [S 2025-12-01] Hi Team, Please share your best price, lead time, and warranty details for the following unit: HT2500-PSE-BT60 ‖ 表 1.16: 48口→5个商业24 48口 ‖ 研 2025-01-16 Jitendra: Item 1 - Level 2 access switch 24 ports Gigabit PoE+… minimum 2 ports UpLink 10G / 2025-12-01 Na"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2025-01→2025-12）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2025-01→2025-12）"
 }

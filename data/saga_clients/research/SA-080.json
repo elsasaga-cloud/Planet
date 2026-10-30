@@ -116,7 +116,7 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "channels": {
   "公开动态平台（监控中，T29-U18）": "官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com"
  },
@@ -261,5 +261,28 @@
    "邮件 0 封；证据全部来自 Drive PI 包（6 张 PI + 采购/销售合同 + 入账记录）；WhatsApp 聊天记录不在库"
   ],
   "breakpoint": "3–6 个月一单、每单 1–5 台（上次 2026-07-06），三年绑定价未动、毛利 9–13%；渠道只有 WhatsApp（pbacctv.com 官网/套餐页至今无 Saga 型号）；AC3→AC5 平台切换只影响管理型（STI-42424DGGPM）——断点 = 下一单时点未知 + 价格无上调空间（全量审计 2026-10-25 U57 补）"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·活跃",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·活跃",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  }
+ ]
 }

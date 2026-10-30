@@ -12,7 +12,7 @@ code: SB-005
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·工业 PoE FS 样品单（Rove
 name_official: "ROVEZ, s.r.o.（Trnava, Slovakia）"
 score: 109
 country: 斯洛伐克
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：斯洛伐克特尔纳瓦的安防/CCTV 集成商（1993 年起，1997 年注册），主打 AVIGILON 摄像系统，3–4 名员工，营收 €50–100 万。用户表：展会上拿了目录，成样品单（PoE 工业 FS），13 次推送无回复。（调研 2026-10-21；表内兴趣：展会上直接拿目录   成样品单 PoE工业FS）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/斯洛伐克；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·工业 PoE FS 样品单（Rovez））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/斯洛伐克；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 13 次（2024-04-30 → 2025-10-06）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — Avigilon 安装商：STC-28DGGPM（8 PoE+ 30W 全口 + 2 SFP）/ STC-424DGGPM-280W；户外柜 STI-288DGGPM；集成商 25% 档；换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-11 $65（10G Media Converter）、2024-12-16 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For Avigilon PTZ and multisensor heads the per-port 30 W budget matters; the Marvell-based 8- and 24-port PoE+ managed switches hold full 802.3at on every port, EXW, and I can send the test report from the sample batch. Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
@@ -157,7 +157,7 @@ updated: 2026-10-29
   > ROVEZ, s.r.o. - Predaj, montáž a servis a kamerovej techniky a bezpečnostných systémov … Sídlo: Ul. 9. mája 49, 917 00 Trnava IČO: 36225801 … IČ DPH: SK2020163277
   > 来源：https://www.azet.sk/firma/32427/rovez-s-r-o/（抓取 2026-10-21）
 - **KP**：Marián Ondrejíček（联系人（konateľ / 股东身份待 FinStat 登记页确认）；ROVEZ, s.r.o. 1997-12-22、3–4 人、2025 营收 €646,579（+28%）净利 €192,182（30%）、负债率 7%（第 86 批 官方登记核实 2026-10-27））rovez@rovez.sk +421 905 617 471〔https://www.dnb.com/business-directory/company-profiles/rovez-sro.5b2132d62801505d075735db36808cde ; https://www.rovez.sk/〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·工业 PoE FS 样品单（Rovez）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
 
@@ -357,12 +357,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 109）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 109）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "C",
- "override_reason": "学校终端用户、非渠道（与 SC-028 同口径）；来询时被动报价即可",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -37,5 +37,67 @@
   "tier": 25,
   "why": "被动：若再询，24 口 PoE → STC-424DGGPM-280W。"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "C",
+  "reason": "",
+  "why_not": "非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-06-23] Weĺl noted.How much is the Cif Price Tema,Ghana. ‖ 表 912: 2.5G Ether→暂时没需求"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "学校终端用户、非渠道（与 SC-028 同口径）；来询时被动报价即可",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
+  }
+ ],
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2024-06-23",
+    "dir": "来",
+    "who": "samuelkbunyan51@gmail.com",
+    "quote": "Fwd: PoE managed switch｜Weĺl noted.How much is the Cif Price Tema,Ghana.",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "19bc261396c06bf2"
+   },
+   {
+    "date": "912",
+    "dir": "Simon",
+    "who": "用户表（Simon 跟进记录）",
+    "quote": "推「2.5G Ethernet」→ 对方「暂时没需求」",
+    "why": "表内客户回复（neg）",
+    "k": "Clients/ 表格"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-01 建档"
+  },
+  "situation": "加纳；912 最后一次来信/回复：推「2.5G Ethernet」→ 对方「暂时没需求」",
+  "need": "[S 2024-06-23] Weĺl noted.How much is the Cif Price Tema,Ghana. ‖ 表 912: 2.5G Ether→暂时没需求",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ }
 }

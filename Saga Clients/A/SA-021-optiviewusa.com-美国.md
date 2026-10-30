@@ -12,6 +12,7 @@ code: SA-021
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Optiview, Inc.（Jacksonville, FL）"
 score: 88
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国佛州杰克逊维尔的 CCTV 批发分销商/品牌商（1999 年成立，11–50 人，营收约 $5.3M），25,000 平方英尺仓库 600+ SKU，面向安装商/经销商/集成商直至财富 500 强客户，产品自行测试并定制（自有品牌），类目含 NDAA 合规摄像机、NVR/DVR、Networking/PoE、太阳能监控。用户表：S 重点，兴趣 VC/HDMI/FS/商业 PoE/光模块，1 次实质回复，邮件中有详细联系信息。（调研 2026-10-21；表内兴趣：VC HDMI FS 商业POE 光模块）
-- **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-02 → 2025-12-29）；最近一次客户回复：2024-10-30：4 8口price ds
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（4 口）/ STI-288DGGPM 或非管理 8 口（按价格主表） — J2：补一封三件套。已打开的主题（2/24 封有打开记录）：「Re: Industrial PoE Switch」(2024-10-30)、「24 Port 10G SFP+ Switch」(2026-07-20) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-244GP(2024-10-30)、STI-154GP(2024-10-30)、STI-288GP(2024-10-30)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)；已发单据：Quotation(2024-10-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 30% 自有标档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $220（48 port managed switch）、2024-11-15 $300（Re: Industrial PoE Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；STI-288DGGPM $137.5 封顶保留；他 2026-09-08 收过 24 口 $170 群发——若谈到 STC-424XGGPM-280W 写 $180 并点明；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；STI-154GP 文本价 $47（来源不明，任何价表无此数）→ $40.8（30% 档，主表；列表价 51.7）
 - **第一问（只问一个）**：For your private-label PoE line, is the 4-port or the 8-port DIN unit the volume SKU, and what landed cost do you need to switch source?
@@ -188,6 +189,7 @@ updated: 2026-10-29
   > 来源：https://optiviewusa.com/product/ovpoe12v-8-4-160-m/（抓取 2026-06-11）
 - **KP**：Stephen Lebowitz（President（BBB 登记管理层）= 老板；Optiview 为 Florida 公司（2000-01-21 注册），另用 5 个零售别名 + 经销商门户（第 84 批 官方登记核实 2026-10-27））sales@optiviewusa.com（Crunchbase 公开） +1 904-805-1581〔https://www.zoominfo.com/c/optiview-inc/344525981 ; https://www.crunchbase.com/organization/optiview-d25f〕
 - **KP**：Silvia Flores（来信署名人（职务未在邮件署名里出现）；地址 2026-07-20 永久退信（550 5.1.1 Address not found）→ 已离职/停用，改问 purchasing@ 接替人）silvia.flores@optiviewusa.com 〔S/A 邮箱来信 2024-10-29 来信 2 封（第 72 批从邮件表头补）〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（8 口商业 PoE，安防主力）→ STC-424DGGPM-280W；注意 NDAA：交换机不在 NDAA 889 覆盖范围（摄像机/视频设备为主），但避免华为海思方案表述，强调 Marvell。
@@ -409,12 +411,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

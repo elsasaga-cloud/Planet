@@ -9,7 +9,7 @@
 code: SB-074
 rating: A
 rating_auto: A
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交
 name_official: "Bilge Security Systems（土耳其；ISAF 2025）"
 score: 60
 country: 土耳其
@@ -27,13 +27,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其安防公司，ISAF 2025 现场：不懂英文，拿了彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进。（调研 2026-10-21；表内兴趣：不懂英文， 拿了彩页， 说了要POE SWITCH；不懂英文， 拿了彩页  说了要PoE SWITCH）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场））；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?
@@ -78,10 +78,9 @@ updated: 2026-10-29
 - `bilgeguvenlik.com` → SpamExperts 网关（主机商附带）（MX：filter10.antispamcloud.com、filter20.antispamcloud.com、filter30.antispamcloud.com、filter40.antispamcloud.com）。主机商附带邮箱（SpamExperts 网关（主机商附带））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `hotmail.com` → Microsoft 365（MX：hotmail-com.olc.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 105 批（TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology；established 2003；HQ İstanbul，Ankara / İzmir 分支；Örnek Mah. Dr. Suphi Ezgi Sok. No:6 Ataşehir；+90 216 291 12 12；satis@bilgeguvenlik.com）+ bilgetech.com（Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.；2004 起；CCTV / 弱电 / 布线 / 交通管理）+ EMIS（Bilge Guvenlik Sistemleri Ve Teknoloji Anonim Sirketi；Incorporation 2018-02-08；34704）+ LinkedIn（11–50；2004）+ RocketReach（前身 Bilge Elektronik Güvenlik ve Bilgisayar Sistemleri Tic. Ltd. Şti.；1998；$5.7M；9 人）+ D&B（法定名同址）；MERSİS 未取，2026-10-28 查；https://www.bilgeguvenlik.com/en/about）：**
 
@@ -124,7 +123,7 @@ updated: 2026-10-29
   > 不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +90 532 120 2931（WA）〔用户 Clients 表（ISAF 2025）〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。
 
@@ -287,12 +286,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 60）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 60）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

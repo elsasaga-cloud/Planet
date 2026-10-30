@@ -38,8 +38,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：cyber-tec.net（伊拉克）：域名不可达（快照失败），百兆收发器一次询价后无路径 → C 储备；对方来信即回 B；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
  "notes": "WA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -143,6 +143,27 @@
    "to": "C",
    "prev_reason": "伊拉克非主攻区（收款/物流风险），1 次回复后 18 次无果 → 慢跟。",
    "reason": "cyber-tec.net（伊拉克）：域名不可达（快照失败），百兆收发器一次询价后无路径 → C 储备；对方来信即回 B"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：cyber-tec.net（伊拉克）：域名不可达（快照失败），百兆收发器一次询价后无路径 → C 储备；对方来信即回 B；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "C",
+  "reason": "",
+  "why_not": "非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024.3.15: 发了工业MC系列信息→price 含电源嘛？ 电源价格"
+ }
 }

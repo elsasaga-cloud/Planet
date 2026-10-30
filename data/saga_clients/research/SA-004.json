@@ -183,6 +183,30 @@
   "note": "boecek.de 官网两次快照（10-21 / 10-29）为 STRATO「Domain reserved」占位页，但 DNS 2026-10-29 16:2xZ MX smtpin.rzone.de（STRATO 邮箱）/ A / NS 正常 → 域名未死、邮箱路径未断；邮件 15 封 0 打开仍是老问题 → A 不动（Simon 表内「样品购买 + 型号问价」），发信前核地址 / 问 Simon 有无别的联系方式",
   "why": ""
  },
- "override_history": [],
- "website_status_prev": "未核实（公开搜索未检索到 boecek.de 相关页面）"
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）"
+  }
+ ],
+ "website_status_prev": "未核实（公开搜索未检索到 boecek.de 相关页面）",
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）",
+  "why_not": "",
+  "excl": "",
+  "deal": "核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）"
 }

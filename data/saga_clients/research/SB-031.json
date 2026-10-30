@@ -66,8 +66,8 @@
    "source": "connectamericas.com"
   }
  ],
- "grade_override": "B",
- "override_reason": "南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -169,5 +169,28 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024.3.15: 发了L3管理poE型→price and model list"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  }
+ ]
 }

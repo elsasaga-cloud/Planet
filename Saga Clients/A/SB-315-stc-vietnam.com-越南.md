@@ -12,7 +12,7 @@ code: SB-315
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 
 name_official: "Công ty TNHH TM DV Song Thành Công (STC Vietnam)"
 score: 46
 country: 越南
@@ -30,13 +30,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：越南工业自动化元器件贸易商（Song Thành Công / STC Vietnam），代理 NSD 编码器、Logika、**Moxa**、E2S、Enerdoor、Advantech 等数十品牌，有报价部 pricing@；表内 Moxa 分销商，需求工业光纤交换机 / 串口 MC，2024 年多次要价格与官网，「主要是工业品」。（调研 2026-10-21；表内兴趣：MoXa的分销商  工业FS 串口 MC）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 9 次（问价/要资料/问型号等）；-6 E 冷名单（按国家群发）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 9 次（问价/要资料/问型号等）；-6 E 冷名单（按国家群发）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 9 次；WhatsApp 已加；推送 12 次（2023-12-15 → 2025-01-03）；最近一次客户回复：2024-12-10：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-244GP — 其第一次问价对象 2 光 4 小壳 → Saga STI-244GP（$35.2/36.6/38.1）；2 光 16 电 → STI-21616GP；分销 20% 档。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -127,7 +127,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mr. Linh（采购（研究档；表内注 MaiWe；2024 多次要价）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM / STI-488DGGPM / STI-154GP 一口价 + 3 年保 + MOQ 1 + 付费样机、串口 MC 不做明说、不点名 Moxa / Maiwe — 越南常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、MIC 不声称（第 119 批 官方登记核实 2026-10-28））linh@songthanhcong.com +84 374 133 044〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Mr. Đức（Sales（研究档）= 抄送（第 119 批 官方登记核实 2026-10-28））duc@stc-vietnam.com +84 379 720 873〔https://stc-vietnam.com/〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -319,12 +319,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 46）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

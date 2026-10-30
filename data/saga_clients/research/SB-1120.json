@@ -61,8 +61,8 @@
   "profit_rmb": 23118.35,
   "models": "STC-4248XGGCM、STI-244GP、STI-SFP1G-SMD20-1310LC"
  },
- "grade_override": "B",
- "override_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
  "channels": {
   "公开动态平台（监控中，T29-U18）": "官网 obmacsystems.com（模板站，无更新）；LinkedIn 员工 Francis Chamyolo（1K followers，2026 发光伏 EPC 项目）；ZICTA 注册经销商名单；Yandex 地图条目 Parliament Road / Makishi Road 3061"
  },
@@ -170,5 +170,28 @@
   "hq": "未取（Lusaka, Zambia；起家 Ndola）（第 121 批 官方登记核实 2026-10-29）",
   "size": "微型（约 7 人；营收约 $2.6M，datanyze）（第 121 批 官方登记核实 2026-10-29）",
   "other": "第 121 批：★ 已成单（2024-01 $9,350，PI 包「gg」= Simon 定级难复购）+ 创始人 CEO 为 KP；ICT / 电气 / 机械项目承包与采购，转向太阳能 EPC → **复购一页纸一次（预付 100%）；B 保留，回信即升 A 候选**；部分坐实（官网成立日 + 领英 CEO）（第 121 批 官方登记核实 2026-10-29）"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "PI包·gg",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·gg",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "PI 包成单客户（2024-01 一单 265 台 USD 9,350，Simon 成本表利润 RMB 23,118；Simon 标签 gg）→ 至少 B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  }
+ ]
 }

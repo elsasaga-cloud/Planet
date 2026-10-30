@@ -8,7 +8,7 @@
 code: SB-226
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 score: 49
 country: 韩国
 region: 亚太
@@ -26,13 +26,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 5
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国 HANCHANG Infotech（hcin4.com / rfoint.com；表内「Volktek 的；会英文 PoE switch；自己的 logo 主要是商业 FS，别人在卖他们家的」；KP Peter Youn（Director，070-4306-9494 / 82-10-5336-2982）、Park）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：Volktek的；会英文 POE switch；自己的logo 主要是商业FS  别人在卖他们家的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-10-16 → 2025-10-30）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 + STC-424XGGPM — 品牌商 + 主动要价。已打开的主题（4/42 封有打开记录）：「24 Port Fiber Switch」(2025-02-04)、「Optional Marvell Chipset Solutions」(2025-12-08)、「Re: OEM Core Switching Solution」(2026-01-19)、「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-22)、Performance of PeakNetX Platform_EN_V3(2026-01-19)、STH25G Series(2026-01-19)、Saga Software Function List_EN_V2.4(2026-01-19)、Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180；他 2024 收过 $300 / $240 群发，48 口与汇聚款别高于那两个数无解释；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 EXW; is the first project 10G/25G aggregation or 100G core?
@@ -91,7 +91,7 @@ updated: 2026-10-29
 - `rfoint.com` → 无 MX（只有 A 记录 203.245.12.101/183.111.139.232/210.114.23.167）。无 MX 记录：收信只能靠 A 记录兜底，多数邮件服务器不接 → 这个域的地址大概率退信，先走该户别的渠道（WhatsApp / 平台 / 别的域）
 - 其他域名仍活：`hcin4.com` → 只用这些域的地址
 
-**假日避让（韩国 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（韩国 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 窗口内无该国法定假日
 
@@ -153,7 +153,7 @@ updated: 2026-10-29
 - **KP**：Peter Youn（Director, (주)한창인포텍 HANCHANG Infotech（公司对外邮箱 = KP 邮箱；会英文）= 收件人；대표이사 배성훈 = 拍板人（第 115 批 官方登记核实 2026-10-28））jryoun74@hcin4.com 〔用户表〕
 - **KP**：Park（HANCHANG Infotech 研究档联系人 = 抄送（第 115 批 官方登记核实 2026-10-28））parkhj4003@hcin4.com 〔用户表〕
 - **KP**：배성훈 Bae Seong-hoon（대표이사 (주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com 회사개요）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://hcin4.com/default/01/02.php〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -351,12 +351,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 5 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

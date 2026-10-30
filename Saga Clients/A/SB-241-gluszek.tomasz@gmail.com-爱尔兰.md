@@ -12,7 +12,7 @@ code: SB-241
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2 个 90W PoE 注入器样品（
 name_official: "（未具名）爱尔兰 · gluszek.tomasz@gmail.com（Tomasz Głuszek，+353 83）"
 score: 49
 country: 爱尔兰
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：爱尔兰的波兰裔安装商/个体 Tomasz Głuszek（Gmail）：购买 2 个工业 90W PoE 注入器样品（成样品单）；2010 年起使用阿里国际站；WhatsApp 已加，3 次实质回复、5 次跟进。已成交小客户。（调研 2026-10-21；表内兴趣：2个工业90W PoE injector样品 2010年使用国际站）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/爱尔兰；+2 最近活动 2024
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2 个 90W PoE 注入器样品（Głuszek））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/爱尔兰；+2 最近活动 2024
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 5 次（2024-04-28 → 2024-12-13）；最近一次客户回复：2024-12-13：just need : outdoor 48v poe switch or DC POE injectors. Nothing else
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 终端 25% 档：STC-28DGGPM（$84.1）；需 90W bt 口时核 SmartByte bt 机型（待核）；首触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Did the two 90 W injectors run the PTZ cameras as expected? If the next site needs several high-power ports, I can quote a PoE++ switch instead of stacking injectors — how many 60–90 W devices per cabinet? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
@@ -78,7 +78,7 @@ updated: 2026-10-29
 
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（爱尔兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（爱尔兰 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -118,7 +118,7 @@ updated: 2026-10-29
 - **【用户表】2 个工业 90W PoE 注入器样品成单；2010 年起用国际站；WhatsApp 已加；3 次回复**
   > 2个工业90W PoE injector样品 2010年使用国际站
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2 个 90W PoE 注入器样品（Głuszek）
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息（已成交））
@@ -258,12 +258,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

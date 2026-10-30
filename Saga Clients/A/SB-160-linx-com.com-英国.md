@@ -12,7 +12,7 @@ code: SB-160
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 
 name_official: "Linxcom Ltd（Linxcom UK，Leicester；Co. 07157746；linx-com.com）"
 score: 54
 country: 英国
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国莱斯特的光纤/铜缆结构化布线品牌商 Linxcom UK（2010-02 注册；6–16 人、$4.4M 营收口径；远东物流仓、英国短期光纤生产、英格兰/南非/中国办公室；60+ 国；产品：光纤无源件与光缆、有源件含 OEO 介质转换器、可管理交换机、SFP/QSFP；提供 OEM 定制服务；25 年质保）。展会记录：联系人 Hussain Alqahtani，关注 MC / SFP / FS 周边产品；WhatsApp 已加；1 次跟进。自有品牌有源件买家 → OEM 30%。（调研 2026-10-21；表内兴趣：MC SFP FS 周边产品）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 3 条（A；2025-03→2025-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 1 次（2025-03-17 → 2025-03-17）；最近一次客户回复：2025-03-17：没成
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算 — 英国分销 + 500 台 RFQ + 采购经理直联｜已发资料（勿重发）：PL(2025-03-17)、STI-42424XGGPM(2025-03-17)、STI-288DGGPM-2BT(2025-03-17)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation(2025-03-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；历史锚：STI-288DGGPM-2BT $130 ×400 / STI-42424XGGPM(L3) $430 ×100（2025-03-17 报价单，$95,000 合计，老汇率）；现列表 $154 / $517 → 500 台量级 Simon 自定 volume tier，但别低于 Marvell ≥25% 底线；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-11 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.
@@ -109,7 +109,7 @@ updated: 2026-10-29
 
 - `linx-com.com` → Microsoft 365（MX：linxcom-com01b.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（英国 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（英国 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 窗口内无该国法定假日
 
@@ -168,7 +168,7 @@ updated: 2026-10-29
   > MC SFP FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hussain Alqahtani（Purchasing and Product Development Manager（邮件签名）；**非董事**，拍板人是唯一董事 Mohamed Abdelhamid Okba（法国籍，2011-07 起）（第 82 批 Companies House 核实 2026-10-27））hussain.alqahtani@linx-com.com 〔S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 3 条（A；2025-03→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -363,12 +363,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

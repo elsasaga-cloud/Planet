@@ -62,7 +62,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -184,6 +184,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）"
   }
  ],
  "snap_thicken": {
@@ -192,5 +200,18 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "auto",
+  "evidence": ""
  }
 }

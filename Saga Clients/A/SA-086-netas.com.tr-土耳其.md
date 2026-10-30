@@ -12,7 +12,7 @@ code: SA-086
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # 规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 name_official: "Netaş Telekomünikasyon A.Ş.（İstanbul, TR；netas.com.tr；BIST: NETAS）"
 score: 90
 country: 土耳其
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其电信设备与系统集成上市公司 Netaş（1967 年成立，1993 年上市；2025 年末员工 1,264 人、年均 1,368 人；ZTE Cooperatief U.A. 持股 48.05%，Türk Silahlı Kuvvetleri Güçlendirme Vakfı 持股 15%，其余流通；总经理 Sinan Dumlu；业务：电信运营商网络产品、本土基站、系统集成）。Saga 自建站询盘：Ender Bulut 询 OM6X2424(2)-PSE-GW（型号疑为他牌 PoE 交换机/网关）；无跟进。按规则归 C（资料保留）。（调研 2026-10-22；表内兴趣：—）
-- **为什么是 A 级**：**调研后定级 A**（规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5 — 集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）｜毛利复盘：首单 23.8%（3 × STI-488DGGPM-2BT 成本 872，DAP 运费 270）——正常｜CENTEC STOS V2.4 功能表（2026/Q2，sha b07db6026b63a527）：PIM-SM/DM、RIPng、PBR、IP SLA、BFD、VRRP 均 ◯（MS/MA 许可）——Ender 2026-02 要的四样在 CENTEC 线上全有，卡的只是 0~40℃（他 2026-02-27 已点名）；信里把这层说出来，让他自己判断机柜是否控温；成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此
 - **第一问（只问一个）**：Does your end customer's multicast design actually require PIM-DM, or would PIM-SM (now available in firmware 7.5 via CLI) be sufficient for the vehicle network?
@@ -210,7 +210,7 @@ updated: 2026-10-29
 - **KP**：Burak Ozdemir（单据联系人）buozdemir@netas.com.tr 〔PI.zip 单据〕
 - **KP**：Özlem Şahin (Uçak)（Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核））ozlem.ucak@netas.com.tr 〔A 邮箱 2026-01 来信表头〕
 - **KP**：Netaş Compliance（合规部）（2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购））compliance@netas.com.tr 〔A 邮箱 2026-02-09→08-12 来信表头〕
-- **调研后定级**：A（原自动 A）——规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -408,12 +408,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 90）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

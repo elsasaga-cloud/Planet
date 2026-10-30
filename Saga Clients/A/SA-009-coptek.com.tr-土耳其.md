@@ -12,6 +12,7 @@ code: SA-009
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台
 name_official: "Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti.（İstanbul）"
 score: 110
 country: 土耳其
@@ -30,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其伊斯坦布尔网络设备分销商（2006 年注册），自 2010 年起为中国 DCN（神州数码网络）交换机的土耳其分销商，官网称 2020 年起在土运行 DCN 设备超 10,000 台，产品线：核心/数据中心/L2/L3/PoE 交换机。用户表：2026 年自建站询盘「IM-FS280GW 100 台」（工业光纤交换机），兴趣 SFP/MC/商业 FS，也卖 ONV 工业 FS。（调研 2026-10-21；表内兴趣：SFP MC 商业FS  也有ONV的工业FS）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 2 次（2025-09-29 → 2025-10-28）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM 对位 IM-FS280GW — 已打开的主题（1/17 封有打开记录）：「Industrial PoE Switch」(2025-10-28) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-10-06 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-05)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-06 $65（10G fiber media converter）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）；第 76 批(c)：土耳其语整稿改英文（无「不懂英文」证据，两年邮件往来皆英文；信稿对位改为非 PoE STI-280DGGM $121（㉕ 封顶）+ PoE STI-288DGGPM $137.5）
 - **第一问（只问一个）**：Is the 100-unit industrial fiber-switch requirement (2×SFP + 8×GE) still open, and what spec sheet did the other vendor win on?
@@ -169,6 +170,7 @@ updated: 2026-10-29
   > S4600-10P-P-SI Bakır Portlar · 10 adet 10/100/1000Base-T POE/POE+ … SFP/Mini GBIC Yuva · 2*SFP … ITU G.8032 Ring özelliği 50ms altında hat koruması
   > 来源：http://www.coptek.com.tr/S4600-10P-P-SI.html（抓取 2026-10-21）
 - **KP**：—（总机（Koptek Ltd. Şti. İstanbul 2006-02-07 成立；自有品牌交换机；Ltd. Şti. 高管不免费公开 → 下一轮 Ticaret Sicil Gazetesi）（第 85 批 官方登记核实 2026-10-27））info@coptek.com.tr +90 212 275 79 53〔https://www.coptek.com.tr/CS6570.html〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询盘）：P1 = STI 工业光纤交换机（按其 IM-FS280GW 规格对位 2 光 8 电），报 25% 档并给阶梯价。
 
@@ -372,12 +374,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 110）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 110）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

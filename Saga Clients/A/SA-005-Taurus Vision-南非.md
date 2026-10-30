@@ -12,6 +12,7 @@ code: SA-005
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "Taurus Vision（Pretoria, South Africa）"
 score: 67
 country: 南非
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：南非比勒陀利亚的 CCTV 视频监控管理方案商/集成商（1–10 人，营收 <$5M），官网招募合作伙伴（sales@taurusvision.com）。用户表：3 次实质回复，已加 WhatsApp，21 次推送。（调研 2026-10-21；表内兴趣：2015年使用国际站 27 - 123292951 没尝试加）
-- **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）；最近一次客户回复：2024-08-13：price list
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — VMS 项目的机柜 8/16 口 PoE 小批量 → 8 口 L2+（2.5G 光上联）先报，户外柜配 4+1 DIN；WhatsApp 户不塞价；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
@@ -81,7 +82,7 @@ updated: 2026-10-29
 
 - `taurusvision.com` → 主机商 cPanel 类邮箱（MX：mail.taurusvision.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-04 Local Government Elections —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -146,6 +147,7 @@ updated: 2026-10-29
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 口径）） +27 86 188 2266（总机）〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com））—（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱） —〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
 - **KP**：Cordea Bezuidenhout（Administrative Assistant（ZoomInfo））—（未公开） —〔https://www.zoominfo.com/pic/taurus-vision/348010963〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。
 
@@ -332,12 +334,12 @@ Hi, Simon from Saga Telecom. For the camera closets in your VMS projects, the tw
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 67）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 67）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

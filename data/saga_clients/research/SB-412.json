@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型网络工程商（Ronald Dumaguing）：需求百兆单纤 20 km MC（Saga 百兆 MC 不供）+ 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -120,6 +120,27 @@
    "to": "C",
    "prev_reason": "",
    "reason": "菲律宾小型网络工程商（Ronald Dumaguing）：需求百兆单纤 20 km MC（Saga 百兆 MC 不供）+ 微型 → C 储备"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "A",
+   "prev_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型网络工程商（Ronald Dumaguing）：需求百兆单纤 20 km MC（Saga 百兆 MC 不供）+ 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024.2.29: 发了工业MC信息→谈了DIP拨码功能"
+ }
 }

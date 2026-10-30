@@ -54,8 +54,8 @@
    "source": "https://www.vres.gr/rfcom-connecting-the-future"
   }
  ],
- "grade_override": "B",
- "override_reason": "2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -156,7 +156,16 @@
   "note": "桌面复核（研究档类型 + 对位首推）：经销/集成商；切入：网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:22:24Z"
@@ -185,5 +194,18 @@
   "url": "https://rfcom.gr/en",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 93: bypass→22mini/email"
  }
 }

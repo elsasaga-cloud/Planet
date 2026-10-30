@@ -231,5 +231,30 @@
   "url": "http://www.widen.co.th/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）"
 }

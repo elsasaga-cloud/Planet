@@ -12,6 +12,7 @@ code: SA-051
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
 name_official: "Tecpro Solutions Co. L.L.C.（迪拜，2004 年成立）"
 score: 73
 country: 阿联酋
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。（调研 2026-10-21；表内兴趣：HDMI converter 网站：看到了switch  电缆类目）
-- **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）；最近一次客户回复：2024-10-25：最近来中国
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — ELV 项目 PoE（他问过 HDMI 转换器，不做）→ 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 两款 EXW，带 CE 文件；—；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.
@@ -81,7 +82,7 @@ updated: 2026-10-29
 
 - `tecprosolutions.com` → Microsoft 365（MX：tecprosolutions-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -155,6 +156,7 @@ updated: 2026-10-29
   > 来源：https://www.protenders.com/companies/tecpro-solutions-llc（抓取 2026-10-21）
 - **KP**：Mohammed Rafi（Executive Director） +971 50 4489928（用户记录 WA）〔用户 Clients 表 + LinkedIn 职务〕
 - **KP**：MD Shereef（（用户记录））shereef@tecprosolutions.com 〔用户 Clients 表〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
@@ -359,12 +361,12 @@ Rafi, Simon from Saga Telecom. We do not build HDMI converters, so no news there
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 73）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 73）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

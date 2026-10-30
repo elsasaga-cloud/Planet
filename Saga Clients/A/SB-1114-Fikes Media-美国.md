@@ -11,7 +11,7 @@ code: SB-1114
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
 name_official: "Fikes Media"
 score: 58
 country: 美国
@@ -30,13 +30,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国小公司（Owner Christopher Fikes，电话区号 409 = 德州 Beaumont 一带），2026-10-03 回复群发表示有兴趣，关心 OEM 定制层级与控制器 API 集成；Simon 10-04 发完整 OEM 清单 + MIB + 规格书 + CLI/Web 手册并反问控制器架构，10-19 追问样品，客户未回。S 邮箱 4 封。（调研 2026-10-22；表内兴趣：24 口 PoE L2+（STC-424XGGPM-280W）的 OEM 定制 + 控制器 API 集成（REST/SNMP/CLI 待明确））
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来）；自动分级 B：+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→））；自动分级 B：+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 美国 + 主动；$180（2026-10 对同类客户报价）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起群发现价 = 对 Fikes 报的价，一致；2026-06-22 PDF 的 $198 从未发出，后续沿用 $180（口径 #20）
 - **第一问（只问一个）**：Christopher — straight answer on integration: SNMP v2/v3 + scriptable SSH/CLI + MQTT status publish (firmware 7.5) today, no REST/cloud controller. Which controller/NMS are you pairing it with — then I can confirm what it can poll/set before we ship 2 samples.
@@ -80,7 +80,7 @@ updated: 2026-10-29
 
 - `fikesmedia.com` → Google Workspace（MX：ASPMX.L.GOOGLE.com、ALT2.ASPMX.L.GOOGLE.com、ALT1.ASPMX.L.GOOGLE.com、ALT3.ASPMX.L.GOOGLE.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-11 Veterans Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -135,7 +135,7 @@ updated: 2026-10-29
   > It's about function, not vendors. … Datacenter Networking: High speed throughput, top of rack connectivity, VXLAN, or a custom solution. … Network Consulting … /mikrotik-consulting
   > 来源：https://www.fikesmedia.com/（抓取 2026-10-29）
 - **KP**：Christopher Fikes（Owner（2007–；同时任 Evadale ISD 信息技术主任 2018– + 兼职教授）= 一人副业老板（第 94 批 官方登记核实 2026-10-28））cfikes@fikesmedia.com 409.877.4220〔S 邮箱签名〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
 LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP/CLI/Web，无云控制器 REST API——下一封应直说 SNMP + CLI 自动化可做、REST/云控不做，别吊着。
@@ -299,12 +299,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

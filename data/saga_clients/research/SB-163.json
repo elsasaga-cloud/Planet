@@ -55,8 +55,8 @@
    "source": "https://www.companium.ru/id/1147847171185-skeo"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -219,5 +219,28 @@
   "url": "https://skeo.ru/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-09-06] What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, \"Simon\" <s.sagatelecom@ ‖ [S 2024-09-06] Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение ------ ‖ 表 1119: 引流机型→有需求会说的 ‖ 研 2024-09-06 Nikolay: What is the price for them? And how do you want to send them to us?"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）"
+  }
+ ]
 }

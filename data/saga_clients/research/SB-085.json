@@ -49,7 +49,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -216,6 +216,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）"
   }
  ],
  "snap_thicken": {
@@ -246,5 +254,18 @@
   "url": "https://thorbroadcast.com",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2025-06-28] We species with video over IP , we must have IGMP protocol, it is mandatory. Do you have any products which su ‖ [S 2025-11-28] Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM S ‖ 表 625: 24PoE→想OEM ‖ 研 2025-06-28 Stan: We species with video over IP , we must have IGMP protocol, it is mandatory. / 2025-11-28 stan@thorfiber."
  }
 }

@@ -12,6 +12,7 @@ code: SA-003
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
 name_official: "Eyescan Private Security Services Ltd（EYESCAN Security Systems）"
 score: 133
 country: 塞浦路斯
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。（调研 2026-10-21；表内兴趣：工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM但会考虑）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 6 次（2025-03-18 → 2025-10-08）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?
@@ -81,7 +82,7 @@ updated: 2026-10-29
 
 - `eyescan.com.cy` → Microsoft 365（MX：eyescan-com-cy.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（塞浦路斯 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（塞浦路斯 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -143,6 +144,7 @@ updated: 2026-10-29
   > Our Products: Intruder Alarms · CCTV · Fire Detection · Access Control · Video Door Entry · Integrated Solutions · Nurse Call Systems · Voice Evac · Telematics · Smart Building Automation · Evacuation Products
   > 来源：https://eyescan.com.cy/products/（抓取 2026-10-21）
 - **KP**：—（总机）info@eyescan.com.cy +357 25 333 300〔https://eyescan.com.cy/〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。
 
@@ -339,12 +341,12 @@ Hi, Simon from Saga Telecom. The two 24-port PoE configs you asked about, curren
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 133）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 133）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

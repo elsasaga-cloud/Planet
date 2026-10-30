@@ -54,8 +54,8 @@
    "role": "Director（研究档）= 抄送（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：neowine（韩国）：研究档「潜在代理（非本行业）」，唯一动作是 48 口索样后无下文 → 非本行业 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）",
  "notes": "不再主动推送；对方主动来再谈。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -157,6 +157,27 @@
    "to": "C",
    "prev_reason": "非本行业、不懂产品的'代理意向'，韩国非主攻区，26 次推送无果 → 慢跟。",
    "reason": "neowine（韩国）：研究档「潜在代理（非本行业）」，唯一动作是 48 口索样后无下文 → 非本行业 → C 储备"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "A",
+   "prev_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：neowine（韩国）：研究档「潜在代理（非本行业）」，唯一动作是 48 口索样后无下文 → 非本行业 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2025-01-31] ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성: ‖ 表 1.31: 48口→sample ‖ 研 2025-01-31 John（Neowine）: ok i need sample"
+ }
 }

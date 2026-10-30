@@ -8,7 +8,7 @@
 code: SB-1117
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·南非 Switchcom：网络设备分销商
 name_official: "Switchcom Distribution (Pty) Ltd"
 score: 31
 country: 南非
@@ -27,13 +27,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：南非网络设备分销商（销售台 sales@ + 客户经理 Kevin Maphanga）。Simon 2024-07 推 10G 媒体转换器、2024-12 推 52 口 L2+ PoE，对方两次都把 Saga 当买家：自动回复「Kevin received your request…」并于 2024-12-12 发来其自家报价单 Quotation QU509692.PDF——没有进入采购对话。S 邮箱 10 封（2024-07-07 → 2024-12-12）。（调研 2026-10-22；表内兴趣：Simon 推过 10G 媒体转换器（2024-07）、52 口 L2+ PoE（2024-12）；对方两次都以「销售报价」回应（把 Saga 当买家））
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来）；自动分级 B：+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+2 最近活动 2024
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·南非 Switchcom：网络设备分销商，两次把 Saga 当买家 → 需换话术（对位分销））；自动分级 B：+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -120,7 +120,7 @@ updated: 2026-10-29
   > Switchcom Distribution is a dynamic and innovative ICT distributor founded in 2015 … Wireless, Networking, VoIP, Surveillance and Fibre sectors … sales, distribution, technical support and financing for resellers, installers, ISPs, WISPs and end users. Our product portfolio consists of top international brands such as Cambium Networks, Hikvision, MikroTik, Ubiquiti and more.
   > 来源：https://www.switchcom.co.za/（抓取 2026-10-29）
 - **KP**：Kevin Maphanga（Account Manager（销售侧，非采购；研究档）— 一页纸一次收件 sales@ Attn: Procurement / Product Manager、抄 Kevin：分销 20% B、渠道 / 贴标角度 STC-2224GP / STC-4424GCPM / STI-154GP 一口价 + MOQ 1 + 付费样机 — 南非常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 约堡、ICASA / NRCS 不声称（第 120 批 官方登记核实 2026-10-29））kevin@switchcom.co.za +27 (0)10 007 2555〔S 邮箱签名〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·南非 Switchcom：网络设备分销商，两次把 Saga 当买家 → 需换话术（对位分销）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
 LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 分销商的采购/品类经理才是对的人；现有联系人是销售。南非不在 Planet 仓重点区域，但 Saga Clients 全域覆盖：慢慢跟，换「渠道/贴牌」角度找品类负责人再发。
@@ -298,12 +298,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

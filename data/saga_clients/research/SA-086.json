@@ -103,7 +103,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -631,5 +631,28 @@
   "url": "https://netas.com.tr/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·活跃",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·活跃",
+  "reply_class": "R+",
+  "evidence": "[A 2026-08-12] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafında ‖ [A 2026-08-12] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafında ‖ 研 2026-03-02 Ender Bulut: We have left one STI-488DGGGPM-2BT sample with our customer for basic testing… I / 2026-08-12 compliance@netas.com.tr（"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  }
+ ]
 }

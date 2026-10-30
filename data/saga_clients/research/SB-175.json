@@ -41,8 +41,8 @@
    "role": "E&I / Telecom lead（研究档 Wasi Akthar；AAM Industrial 项目组）— 不动（第 119 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -149,5 +149,28 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2023-06-19] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at ‖ [S 2023-06-19] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at ‖ 表 2024.1.18: 发了2光4相关信息→有用但现在没需求 ‖ 研 2023-06-19 ei-telcomlead@aamindustrial.com: Dear Sir, Greetings from AAM! Please provide your technical quot"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）"
+  }
+ ]
 }

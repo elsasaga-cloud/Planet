@@ -46,8 +46,8 @@
    "source": "https://checko.ru/company/npo-telekom-1021801507694"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -172,5 +172,27 @@
   "note": "官网快照两次失败（2026-10-21 / 2026-10-29：超时），但 DNS 2026-10-29 16:2xZ 复查 npotelecom.ru MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
   "why": ""
  },
- "override_history": []
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）"
+  }
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-06-05] Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 91 ‖ [A 2026-05-12] Hello, What city is your factory located in? Do you produce switches based on Microchip and Centec chips? С ув ‖ 表 2024.6.5: 发了2光2小壳信息→芯片是啥 ‖ 研 2024-06-05 afonin@npotelecom.ru: Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил "
+ }
 }

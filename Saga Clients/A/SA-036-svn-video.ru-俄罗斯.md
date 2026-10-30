@@ -12,6 +12,7 @@ code: SA-036
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "SVN（svn-video.ru，ИП Криволуцкая Ю.В., Kaluga, Russia）"
 score: 80
 country: 俄罗斯
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业PoE 自己的型号）
-- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-28 → 2025-08-28）；最近一次客户回复：2025-08-28：Price List
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI 同源 8 口 PoE（`hrui_STC对照表`） — 一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
@@ -161,6 +162,7 @@ updated: 2026-10-29
   > 8-800-600-72-59 - 8-903-636-46-70 - svnshop@yandex.ru , zakaz@svn-video.ru - 248000, г. Калуга, ул. Марата, 5
   > 来源：https://svn-video.ru/catalog（抓取 2026-10-21）
 - **KP**：ИП Криволуцкая Юлия Викторовна（订单邮箱 → 法律主体为 ИП（个体企业家）Криволуцкая Юлия Викторовна = 老板本人；ОГРНИП 318402700048713 · ИНН 402910363642，2018-08-02 登记，ОКВЭД 46.43（第 85 批 官方登记核实 2026-10-27））zakaz@svn-video.ru +7 903 810 33 33〔https://svn-video.ru/contact-us〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。
 
@@ -364,12 +366,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 80）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 80）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,7 +12,7 @@ code: SB-179
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
 name_official: "（表内名 CRISPY CREPES，印度尼西亚；Ade Tj）"
 score: 52
 country: 印度尼西亚
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印尼客户 Ade Tj（已加微信），问 SFP 兼容性、工业 MC 反馈、要工业 16/24 口机 datasheet；2025-04 回复「用锐捷」（Ruijie 为现用品牌）。表内公司名「CRISPY CREPES」疑为个人微信名/误录，主体待核。（调研 2026-10-21；表内兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 16 次（2023-11-04 → 2025-10-09）；最近一次客户回复：2025-04-30：用锐捷
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 其索要 datasheet 的工业 16/24 口机 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；SFP 模块 Saga 价目无（Q-32）。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -115,7 +115,7 @@ updated: 2026-10-29
   > 兴趣：SFP收发器 我们的SFP兼容别的品牌SFP吗；回复：datasheet；用锐捷
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ade Tj（）adren_tj@yahoo.com +62 812 2212 3997〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -266,12 +266,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

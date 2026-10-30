@@ -12,6 +12,7 @@ code: SA-026
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 
 name_official: "Hardened Networks / ITS Express（hardenednetworks.com · expresssupply.net，US）"
 score: 84
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国交通 ITS 领域的自有品牌加固交换机供应商（HN-8012-24 V3、HN-AIS-8300、80 系列 V3：L3 OSPF/BGP、4×USFP+ 10G、ESFP 2.5G 等），与 ITS Express 同一体系；产品页 2026-07 仍在更新。用户表：3 次实质回复，兴趣工业 FS / 工业 MC / Bypass，用自己的 logo。（调研 2026-10-21；表内兴趣：工业FS 工业MC Bypass  自己的logo）
-- **为什么是 A 级**：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；推送 10 次（2024-05-07 → 2025-03-03）；最近一次客户回复：2025-03-03：只用博通方案
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC 全 L3：他 2024-05-09 要的「1U full L3，24 铜 + 8 光 + QSFP+ 上联」= STH-2QX4DX24GE-HSI（24×1G + 4×25G SFP28 + 2×40G QSFP+，OSPF/BGP/MPLS/VXLAN，双热插拔 PSU；仓内无价 Q-54）；10G 汇聚另有 STH-2C24XF-HSI（2026-06 对 FiberX 报 $1,250 含 MA 许可；群发 $1,500）——仅当 Mark 对 Broadcom 松口 — C 层：不为单一客户开第四条芯片线；只问一次「Broadcom 是否写进客户规格」。已打开的主题（16/21 封有打开记录）：「Re: 48 Port SFP Switch」(2025-02-10)、「Marvell Alleycat5 Solution」(2025-03-03)、「Re: Marvell Alleycat5 Solution」(2025-04-28)、「Marvell Industrial Alert System」(2025-12-29) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1｜已发资料（勿重发）：DIN Power Adapter(2024-07-30)、Marvell Based CLI Manual(2025-01-27)、Marvell Based Web Manual(2025-01-27)、STC-448XGGPM(2025-01-27)、STC-4816XGCGM(2025-01-28)、Product Link_2026Q2(2026-02-12)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜需求台账 #13/#1：2024-05 的「不可用」现在可用（STH1G），一句话补上；价按 Q-54「按数量报」；CENTEC 线按 ≥35% 底线（E1）与 30% 表价取高者
 - **第一问（只问一个）**：Mark — in May 2024 you asked for a 1U full-L3 unit with 24 copper + fiber + QSFP+ uplinks and I had nothing; today that is STH-2QX4DX24GE-HSI on our CENTEC line (24×1G + 4×25G SFP28 + 2×40G QSFP+, OSPF/BGP/MPLS). Is Broadcom written into your customers' ITS specs, or would it qualify if it clears your lab test?
@@ -170,6 +171,7 @@ updated: 2026-10-29
   > 来源：https://expresssupply.us/hn8012-24plus/（抓取 2026-10-21）
 - **KP**：Mark V. Schulting（President（Florida 登记管理层）= 老板 = 联系人；Secretary Carmen Schulting（家族）；法人 Express Supply Inc（FL 2006），品牌 Hardened Networks = ITS Express（2008）；Florida DOT APL 在册供应商（第 85 批 官方登记核实 2026-10-27））mark@expresssupply.net；mschulting@expresssupply.net（2025-02-05 来信用此地址） 〔S/A 邮箱来信 2024-05-09 → 2025-04-28 来信 7 封（另一地址 mschulting@expresssupply.net 2025-02-05）（第 72 批从邮件表头补）；A 邮箱 2025-02 来信表头〕
 - **KP**：Carmen Schulting（Secretary（Florida 登记；家族）（第 85 批 官方登记核实 2026-10-27）） 〔https://www.corporationwiki.com/Florida/Tampa/mark-v-schulting/〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌）：P1 = STI-488XGGPM（工业 L2+ 8 PoE + 4×10G）对位其 HN 系列入门款，30% OEM 档；Bypass 需求需向 SmartByte 确认有无 bypass 款（无则如实说明）。
 
@@ -370,12 +372,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

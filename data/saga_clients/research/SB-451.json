@@ -34,7 +34,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -225,6 +225,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）"
   }
  ],
  "snap_thicken": {
@@ -246,5 +254,18 @@
   "verdict_date": "2026-10-29",
   "note": "e-saudi.net 快照两次 http_error，但 DNS 2026-10-29 MX Google / A 209.17.116.163 正常 → 站点反爬 / 非死域，邮箱路径在 → A 不动",
   "why": ""
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-10-15] Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regar ‖ [A 2025-04-28] Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime ‖ 表 2025.4.28: 商业PoE→Info ‖ 研 2024-10-15 Saeed: Yes indeed we need a sample and datasheet if you can provide us. / 2025-04-28 saeed@e-saudi.net: D"
  }
 }

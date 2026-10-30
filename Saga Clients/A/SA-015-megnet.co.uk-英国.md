@@ -12,6 +12,7 @@ code: SA-015
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 
 name_official: "Megnet Limited（London）"
 score: 94
 country: 英国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国伦敦的兼容光模块/网络配件分销商（2003 年起，11–50 人），自有品牌 Chimera（MSA 兼容光模块、DAC/AOC、MC、交换机），供应全球经销商、分销商和制造商，宣称可触达 400 万+ 产品。用户表：S 重点，自己的品牌、有人卖他们的，MC/SFP/AOC 等较多，1 次实质回复。（调研 2026-10-21；表内兴趣：自己的品牌 有人卖他们的 MC SFP AOC等较多）
-- **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2025-01→2025-12））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 13 次（2025-02-19 → 2025-12-29）；最近一次客户回复：1.16：5个商业24 48口
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W / STC-448XGGPM（24/48 PoE+ + 10G 上联，Voice VLAN since 7.4.0） — J2：功能缺口已闭合是最硬的复活理由；一句话即可。已打开的主题（8/22 封有打开记录）：「24 Port Fiber Switch」(2025-08-27)、「Re: Price and lead time」(2025-12-01)、「Re: Price and lead time」(2025-12-02)、「Firmware 7.5 L2+ Feature Update」(2026-06-22) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2025-01-18)、Marvell Based CLI Manual(2025-01-18)、Marvell Based Web Manual(2025-01-18)、Saga Software Function List-release 7.(2025-03-19)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 20% 分销档（若贴 Chimera 标 → 30%）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（他 2026-09-08 收到的群发是 $170，信里点明）；STC-448XGGPM 由列表价 $369 改为 20% 档 $335.4（第 66 批全量复核发现他其实收过 2025-01-16 的 $300 轮——信里已加一句「老汇率」说明；Simon 愿意的话可按 $300 兑现，毛利 7%）。$170 若 Simon 愿意兑现，毛利只剩 12.6%；群发里他已看到的价（续，第 66 批全量复核）：2025-01-16 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Voice VLAN is now in firmware 7.4+/7.5 on the AC5 24/48-port PoE+ models — is that tender (or a similar one) still open?
@@ -179,6 +180,7 @@ updated: 2026-10-29
 - **KP**：Jitendra Sain（Assistant Manager - Operations（邮件签名））jitendra@megnet.co.uk 〔S/A 邮箱来信 2025-01-16 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Nasim Chaudhari（来信署名人（职务未在邮件署名里出现））nasim@megnet.co.uk 〔S/A 邮箱来信 2025-12-01 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Omar Ismat Miqdadi（唯一在任董事（2003-11 起）—— 实际拍板人；邮箱待核（现有入口 info@ / sales@）（第 82 批 Companies House 核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/04748999/officers〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2025-01→2025-12）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌）→ 带入 STC-28DGGPM/424 系列；30% OEM 档。
 
@@ -402,12 +404,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 94）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

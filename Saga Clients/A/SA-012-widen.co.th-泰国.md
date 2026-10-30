@@ -12,6 +12,7 @@ code: SA-012
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交
 name_official: "WIDEN Co., Ltd.（Nonthaburi, Thailand）"
 score: 97
 country: 泰国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。（调研 2026-10-21；表内兴趣：FS MC VC 都是自己的标 无源产品）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 18 次（2024-04-30 → 2025-10-15）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC / 光口交换机贴牌（WIDEN）→ 千兆 SFP 转换器 + 8 PoE DIN 两款 WIDEN 包装；锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
@@ -142,6 +143,7 @@ updated: 2026-10-29
   > WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท
   > 来源：https://www.telepart.net/（抓取 2026-10-21）
 - **KP**：Thawat（负责人（官网公开直邮））thawat@widen.co.th +66 81-285-4599 / 02-149-3922〔http://www.widen.co.th/〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。
@@ -356,12 +358,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 97）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 97）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,7 +12,7 @@ code: SB-331
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "EPE RETELEM SPA（ex-SONATITE）"
 score: 45
 country: 阿尔及利亚
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。（调研 2026-10-21；表内兴趣：工业交换机）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/阿尔及利亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/阿尔及利亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 16 次（2024-04-28 → 2025-10-03）；最近一次客户回复：2025-10-03：email
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?
@@ -80,7 +80,7 @@ updated: 2026-10-29
 
 - `retelem-dz.com` → 同域名 MX → 托管在 oct-xpd1.xyz（MX：retelem-dz.com）。主机商附带邮箱（同域名 MX → 托管在 oct-xpd1.xyz）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（阿尔及利亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（阿尔及利亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-01 Revolution Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -147,7 +147,7 @@ updated: 2026-10-29
   > 回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hichem Akchiche（联系人（研究档 KP；WA 已加；2024 要工业交换机 datasheet、对 2 光 8 PoE 有兴趣）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29））hichem.akchiche@retelem-dz.com +213 770 760 449〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -352,12 +352,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 45）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 45）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

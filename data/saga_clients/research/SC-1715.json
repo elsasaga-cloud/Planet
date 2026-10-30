@@ -1,0 +1,101 @@
+{
+ "code": "SC-1715",
+ "name_official": "onsite.pk",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "巴基斯坦客户（onsite.pk）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "RE: PoE Switch｜Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Laye",
+   "quote": "RE: PoE Switch｜Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP or ERPS, RSTP, MSTP * NAT, NQA, BFD and ACL * Static Routing * IPsec, VPN * QoS * GE0 and GE1 support POE++, Other 6GEs support PoE+ Minimum pow",
+   "url": "e1f4c51aca81b3b8",
+   "date": "2024-10-03"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "RE: PoE Switch｜No update yet !!!",
+   "quote": "RE: PoE Switch｜No update yet !!!",
+   "url": "61dbcfd98520142a",
+   "date": "2024-10-07"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-01 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2024-10-03",
+    "dir": "来",
+    "who": "javed.hashmi@futurepointt.com",
+    "quote": "RE: PoE Switch｜Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP or ERPS, RSTP, MSTP * NAT, NQA, BFD and ACL * Static Routing * IPsec, VPN * QoS * GE0 and GE1 support POE++, Other 6GEs support PoE+ Minimum pow",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "e1f4c51aca81b3b8"
+   },
+   {
+    "date": "2024-10-07",
+    "dir": "来",
+    "who": "javed.hashmi@futurepointt.com",
+    "quote": "RE: PoE Switch｜No update yet !!!",
+    "why": "S 邮箱 真人来信（thin）",
+    "k": "61dbcfd98520142a"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-01 建档"
+  },
+  "situation": "巴基斯坦；2024-10-07 最后一次来信/回复：RE: PoE Switch｜No update yet !!!",
+  "need": "[S 2024-10-03] Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 I ‖ [S 2024-10-07] No update yet !!!",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-10-03] Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 I ‖ [S 2024-10-07] No update yet !!!"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+}

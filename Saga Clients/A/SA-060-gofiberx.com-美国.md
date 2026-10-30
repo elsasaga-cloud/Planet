@@ -12,6 +12,7 @@ code: SA-060
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
 name_official: "FiberX LLC / FIBERX Inc.（Guaynabo & Caguas，波多黎各，美国属地）"
 score: 70
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波多黎各光纤 ISP/运营商（2016 年创立，11–50 人，营收约 560 万美元，AS6208，自有光纤与无线网络，覆盖波多黎各/哥伦比亚/美国），提供互联网、Metro Ethernet、FTTH/FTTB、机房托管；用户记录：在 bypass 2 光 10 电帖子下询价，1 次回复、20 次跟进。（调研 2026-10-21；表内兴趣：bypass 2光10电的帖子下问价格）
-- **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-04-03 → 2025-10-28）；最近一次客户回复：2025-01-02：price info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C24XF-HSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价） — J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1 最近一封去信是 2026-09-25 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STI-4168XGGCM-U(2025-01-03)、Saga Software Function List-release 7.(2025-03-20)、Product Link_2026Q2(2026-02-26)、Saga Software Function List_EN_V2.4(2026-06-06)、Performance of VastLakes Platform_EN_3(2026-06-06)、XLite Series(2026-06-06)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-01 $240（24 Port Fiber Switch）；**进价对照（Drive 价格比对 2026-03-01：STH-2C24XF-HSI = HohuNet S5624XH-2Z-EI 7,300 RMB）：$1,250 → 毛利 @7 16.6% / @6.69 12.7%，低于 Marvell 25% 线更低于 CENTEC 35% 线；同款 2026-07-20 群发 $1,500（27–30%）、35% 地板 $1,680 @6.69 → 再报 FiberX 不低于 $1,500 并说明是含 MA 的现行表价（见 CENTEC 锚表 §5.2）**；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?
@@ -90,9 +91,9 @@ updated: 2026-10-29
 - **同国同档参照（US，25% 档、主推线「CENTEC 数据中心」，共 2 户有动静，列前 3）**：SA-058 alphanetcom.com（A，同档：1:1 报过 1 次）；SB-119 wirestar.net（B，同档同线：1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
-## 进口记录（公开海关数据 · 第 80 批 · 2026-10-29）
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-30）
 
-> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-29。
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-30。
 
 - **总量**：海运提单 **31 票**（02/2020-08/2026）；最近一票 **08/21/2026**；ImportYeti 估算海运费累计 $305 (3% coverage)（不是货值）。[公司页](https://www.importyeti.com/company/fiberx)（synced 10/21/2026）
 - **中国占比**：中国供应商 4 家（Qingdao Powtech / Hefei Lasun / Aimit Shenzhen / Shanghai Wanbao），全是光缆与 FTTH 线路五金，没有交换机
@@ -200,6 +201,7 @@ updated: 2026-10-29
   > 来源：https://ispreports.org/internet-service-providers/fiber-x-availability/（抓取 2026-09-03）
 - **KP**：Iván Rivera（Presidente y CEO（创始人）= 老板 = 联系人；FiberX LLC（Puerto Rico 2016/17，ISP + 数据中心，PeeringDB fac 14857，~34 人）（第 85 批 官方登记核实 2026-10-27））irivera@fiberx.net 〔S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）〕
 - **KP**：Edwuar Morillo（同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核））emorillo@fiberx.net 〔A 邮箱邮件表头（10 封）〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
 
@@ -416,12 +418,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

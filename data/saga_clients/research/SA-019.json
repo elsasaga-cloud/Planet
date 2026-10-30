@@ -298,5 +298,30 @@
   "url": "https://www.allnet.de/de/allnet-brand/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "最后一句婉拒：has own SFP solution",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R-",
+  "evidence": "[A 2025-07-10] Hallo Alan, sorry we have our solution with SFP Slots and Managed Versions. Thanks Gerhard ‖ 表 2025.7.9: 16电→自己有型号了 ‖ 研 2025-07-10 Gerhard Zerwes: sorry we have our solution with SFP Slots and Managed Versions. / 2025-07-10 zerwes@allnet.de: AW: 16 Port Ethernet Switch｜Hallo Alan,  sorry we have our solution with SFP Slo"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：has own SFP solution"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：has own SFP solution"
 }

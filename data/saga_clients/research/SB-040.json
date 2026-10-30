@@ -69,7 +69,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\nWA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）",
  "researched_at": "2026-10-21",
  "deep": {
@@ -197,6 +197,14 @@
    "to": "A",
    "prev_reason": "需求为 Cisco 原厂光模块（Saga 不供原厂件，光模块亦非主线）；中东非主攻区 → 慢跟。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -223,5 +231,18 @@
   "url": "https://www.4demand.co.uk/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024.8.10: 10G MC→问了2光4"
  }
 }

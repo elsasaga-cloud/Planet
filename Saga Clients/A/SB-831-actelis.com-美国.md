@@ -12,7 +12,7 @@ code: SB-831
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 
 name_official: "Actelis Networks, Inc.（NASDAQ: ASNS；actelis.com）"
 score: 30
 country: 美国
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国上市公司（NASDAQ: ASNS，1998 年成立，Fremont/Sunnyvale CA，51–200 人）：**混合光纤-铜缆**以太网接入设备（MetaLIGHT ML600/ML620/ML640Ex/ML684D、GigaLine GL800/GL900）、硬化 L2 光纤交换机与汇聚设备、网管与「cyber-hardened」安全；目标市场为联邦/州/地方政府、ITS、**军方、公用事业、铁路**、电信与园区。制造商兼潜在竞争者，且政府/军方导向意味着原产地与 TAA 门槛。用户表：S 重点，1 次实质回复，15 次跟进。（调研 2026-10-21；表内兴趣：工业FS 外壳比较独特；用的Edimax的工业FS）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名）；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 1 次；+25 在 Simon 的 S 重点名单；-60 用户已归入「不行及不太相关的」；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03））；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 1 次；+25 在 Simon 的 S 重点名单；-60 用户已归入「不行及不太相关的」；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 2 次；回复暂无需求 1 次；推送 15 次（2025-02-08 → 2025-12-30）；最近一次客户回复：1.4：info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4248XGGCM / 24 口 SFP 汇聚（2025-10 已给规格书） — 上市品牌商 + VP 直联 + 七次回复｜已发资料（勿重发）：STC-4168XGGCM(2025-01-04)、Marvell Based CLI Manual(2025-01-04)、Marvell Based Web Manual(2025-01-04)、Saga Software Function List-release 7.(2025-03-28)、STI-42424XGGPM-4BT(2025-04-29)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；再触价 STI-42424XGGPM-4BT(L3) $550（= L3 档 2026-06 PDF 上限，30% 档算出 $563.5 超上限取上限；2025-04 实报 $500 是老汇率 7.2 下的 25% 档，信里只用汇率解释涨幅，不提 6 月调价；第 73 批 2026-10-24 复核——L2+ 款上限 $456.5 不适用，他要的是 L3）；30% 档算出 $466 超上限故取上限；低于 2025-04 实报 $500 可直接写；第 73 批 2026-10-24 改掉信稿里编造的「$550 / PCB-RAM 涨价」）；$500 STI-42424XGGPM-4BT（2025-04）；汇聚款按 OEM 30% 档；历史报价（邮件原话，老汇率）：2025-04-29 STI-42424XGGPM-4BT 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-12 $300（48 Port PoE Managed Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）｜2025-04 报过 $500（STI-42424XGGPM-4BT L3）；2026-10 主表 $550 EXW——信里按主表更新并解释；群发里他已看到的价（续，第 66 批全量复核）：2025-01-03 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Casey — after your team reviewed the 24-port SFP aggregation spec and manual last October, was there a specific gap (features, certification, price) that kept it off the list?
@@ -113,7 +113,7 @@ updated: 2026-10-29
 
 - `actelis.com` → Microsoft 365（MX：actelis-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-11 Veterans Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -169,7 +169,7 @@ updated: 2026-10-29
 - **KP**：Casey Hurley（VP Sales – Strategic Accounts（卖方高管，非采购）；Actelis FY2025 营收 $3.7M（−53%）净亏 $8.3M、累计亏损 $56.2M（2026-06）、**持续经营存疑 + Nasdaq 退市通知**；采购 / 运营在以色列（34 人）（第 86 批 官方登记核实 2026-10-27））pchurley@actelis.com 〔S/A 邮箱来信 2024-09-26 → 2026-03-02 来信 6 封（第 72 批从邮件表头补）〕
 - **KP**：Michal Winkler（来信署名人（职务未在邮件署名里出现））michalw@actelis.com 〔S/A 邮箱来信 2025-01-03 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Tuvia Barlev（Chairman & CEO（创始人；SEC 10-K）（第 86 批 官方登记核实 2026-10-27）） 〔https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -389,12 +389,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 30）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

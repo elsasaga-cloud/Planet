@@ -42,8 +42,8 @@
    "source": "https://www.indiamart.com/automation-systems-solution/profile.html"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -275,7 +275,16 @@
   "note": "德里工业自动化元器件分销商（工业网络设备在售，从 ONV + 台湾品牌进货）：回复 1 次 → 进口中国同类 ✔ 对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未触达→轻度））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:41:26Z"
@@ -308,5 +317,18 @@
   "url": "https://automationsystem.in/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-04-10] Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE  ‖ 表 2025.4.10: 群发了2光4PoE→ds ‖ 研 2025-04-10 Azad Khan（Automation Systems and Solution）: Thanks First, we need datasheet"
  }
 }

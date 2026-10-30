@@ -31,8 +31,8 @@
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "台湾厂商（同行）；c_sub=同行/台湾厂商",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：排除：台湾品牌商 INH 最高 B",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -113,5 +113,28 @@
   ],
   "proof_gaps": [],
   "draft_en": null
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "C",
+  "reason": "",
+  "why_not": "排除：台湾品牌商 INH 最高 B",
+  "excl": "台湾品牌商 INH 最高 B",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2026-04-29] Hi, The following is simple specification for a access switch. Do you have the same product? Please send the d"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "台湾厂商（同行）；c_sub=同行/台湾厂商",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：排除：台湾品牌商 INH 最高 B"
+  }
+ ]
 }

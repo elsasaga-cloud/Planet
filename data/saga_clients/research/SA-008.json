@@ -271,7 +271,7 @@
   "mail_update_2026-10-22": "第 6 单：20 × STC-4168XGGCM @2,015 RMB（$300 / €265.2），EUR 付款 2026-10-15，投产 2026-10-17，客户要求 SmartByte 原名与 OID"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "next_steps": [
   "本单闭环：固件版本/OID 56166/SmartByte 型号字符串确认 → SN+MAC 清单 → 测试报告 → 尺寸重量 → 追踪号 → 到货后问 LibreNMS 识别",
   "补 CENTEC 报价欠账（2026-01-20 他要的 datasheets + pricing）",
@@ -810,5 +810,28 @@
   "url": "https://fiberone.de/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·活跃",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·活跃",
+  "reply_class": "R+",
+  "evidence": "[S 2026-10-06] Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG R ‖ [S 2026-10-15] Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with  ‖ 表 2024.11.9: 群发了48口引流管理→非PoE, 全光，100G ‖ 研 2026-10-06 Frederik Kriewitz（NYNEX）: can you share your euro bank account please? / 2026-10-15 Frederi"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 活跃 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  }
+ ]
 }

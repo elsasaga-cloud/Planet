@@ -9,7 +9,7 @@
 code: SB-248
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：
 name_official: "Nelly's Security（美国）"
 score: 49
 country: 美国
@@ -28,13 +28,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国商用级安防设备电商（CCTV、门禁、入侵报警；Uniview、Hanwha、ZKTeco、TP-Link、Ubiquiti；camera 280 / poe 180 / switch 75），Technical Operations Officer Ryan O'Daniel、Sales Cole Cattaneo；表内「PoE switch 摄像头安防；用的是 ONV 的设备」；群发 9 次无回复。（调研 2026-10-21；表内兴趣：PoE switch 摄像头，安防；PoE switch 摄像头，安防 用的是ONV的设备）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-04-02 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/27 封有打开记录）：「24 port poe switch」(2024-07-04)、「PoE switch」(2024-08-06)、「8 Port Industrial PoE Switch」(2025-04-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -173,7 +173,7 @@ updated: 2026-10-29
 - **KP**：Ryan O'Daniel（Technical Operations Officer（2010 起；选型人）= 收件人（第 102 批 官方登记核实 2026-10-28））rodaniel@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Cole Cattaneo（Sales（官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28））customerservice@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Sean Nelson（创始人（2008；另营自有 PoE 交换机品牌 IPCamPower）= 贴标线点名对象（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -381,12 +381,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

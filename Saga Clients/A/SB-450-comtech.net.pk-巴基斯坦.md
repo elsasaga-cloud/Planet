@@ -12,7 +12,7 @@ code: SB-450
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
 name_official: "Comtech Associates（Karachi, Pakistan；comtech.net.pk；Cisco/Fortinet 合作伙伴、D-Link 分销伙伴）"
 score: 41
 country: 巴基斯坦
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：卡拉奇 IT 基础设施集成商 Comtech Associates（2010 年成立；11–50 人；Cisco 认证合作伙伴（4 个徽章）、Fortinet 授权伙伴、D-Link 分销伙伴（交换机、Wi-Fi、监控）；网络、网络安全、数据中心、托管服务、定制软件；四地办公（Karachi/Lahore/Islamabad/Quetta）；客户含银行、电信、医疗、教育、工业与地产（CCTV/IoT）；Head Office Khadim Avenue Karachi / NASTP Shahrah-e-Faisal；+92 21 3440 4440；marketing@comtech.net.pk；ZoomInfo 电话 +92 335 287 6148 = 用户表 WhatsApp 号）。用户表（外贸邦）：闭路电视/安全；40 次跟进无回复；WhatsApp 已加。（调研 2026-10-21；表内兴趣：闭路电视 安全 网站：没啥特别相关的东西）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+5 有可核实的公司网站/域名；-8 无邮箱，仅电话/WhatsApp；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 40 次（2021-03-18 → 2025-10-06）；最近一次客户回复：2022-08-11：问了其他的产品 提供不了
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，280 W，$140.1）作 CCTV/IoT 接入层；8 口 STC-28DGGPM（$84.1）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate projects where Cisco is over-spec: 24× GbE PoE+ (280 W) + 4× SFP L2+ at $140.1 EXW, 8-port at $84.1, neutral packing — would a single evaluation unit be useful for your next site?
@@ -144,7 +144,7 @@ updated: 2026-10-29
 - **KP**：（姓名未记录；WA 号 +92 335 287 6148）（（待核））marketing@comtech.net.pk（官网公开） +92 335 287 6148（用户表 WA = ZoomInfo 公司电话）〔https://www.zoominfo.com/c/comtech/470605669〕
 - **KP**：Muhammad Farooq Zaheer（CEO = 老板 —— 公司 = **Cisco 巴基斯坦「Partner of the Year 2026」+ Fortinet 伙伴（50–100 人）→ 判定：只在银行 / 政府标里要「非 Cisco 接入层」时有机会；一封抄 Rehan Shaikh，无回即停**（第 91 批 官方登记核实 2026-10-27）） 〔https://comtech.net.pk/〕
 - **KP**：Rehan Shaikh（Co-Founder / Director of Sales = 销售拍板（抄送）；COO Abdul Rehman Zaheer（家族）；Head of Solutions Muhammad Irfan Ghauri（2026-01）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.issuewire.com/comtech-associates-joins-cisco-partner-summit-2026-as-a-cisco-partner-1879935322008449〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -344,12 +344,12 @@ Hello Comtech team, for the CCTV/IoT layer of your industrial and real-estate pr
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 41）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

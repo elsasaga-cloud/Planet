@@ -12,7 +12,7 @@ code: SA-079
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 name_official: "Biz - Ethics Ltd."
 score: 84
 country: 尼日利亚
@@ -30,13 +30,13 @@ price_tier: 20%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：已成单 12 个单号（2024-09-08 → 2026-08-30，RMB 单据合计 ≈101k，货代走账）；SmartByte + HRUI + Hohunet 三家都采购过；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-079.json（调研 2026-10-22；表内兴趣：商用 PoE 管理交换机（STC-28GPM / STC-424DGGPM / STC-228GP）、10G 管理（STC-4168XGGCM / STC-424XGGM）、CENTEC 10G（STH-2C24XF-SFI）、贴牌 BNS）
-- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/尼日利亚；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/尼日利亚；+5 最近活动 2026
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：BNSC-28GPM（= HRUI ZX-AFGM-82NS，Realtek 线）稳定补货；BNSC-424DGGPM（= SmartByte LT-S8328GP-4GX24GT-S）零星；Netstream 线 STC-424XGGPM-280W + STH-2C24XF-SFI 待复购 — 12 单、两套自有品牌、三条供应线都买过；WhatsApp 直达；毛利低但复购稳｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）；绑定价（人民币，EXW 工厂直发到他的广州仓）：BNSC-28GPM ¥408（进 ¥355.1 → 13.0%）；BNSC-424DGGPM ¥946（进 ¥765 → 19.1%）；Netstream-42410G280W ¥1,100；BNSC-4168XGGCM ¥2,250；Netstream-24X100G-SFI（STH-2C24XF-SFI）¥7,500（2025-11）。下一批 BNSC-28GPM 按 ¥408 不动（Simon U28 绑定价）；若要回到 Realtek 20% 底线需 ¥444——这是 Simon 的决定，不在信里提；历史：2025-03 HRUI 进价 ¥335 时同一 ¥408 的毛利是 17.9%，上游 2026 涨到 ¥355.1 后变 13.0%——下次 HRUI 再涨就只能动价
 - **第一问（只问一个）**：Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 24X100G cores running: any plan to add 25G/100G ports or more 10G-uplink PoE for that network?
@@ -165,7 +165,7 @@ updated: 2026-10-29
   > 尼日利亚 Mbata　轻度绑定=转账啥的都OK
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Valentine Mbata（单据联系人）info@belnetworks.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
 
 
@@ -324,12 +324,12 @@ Valentine, next BNSC-28GPM batch — same 12 pcs? And how are the two Netstream 
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 84）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

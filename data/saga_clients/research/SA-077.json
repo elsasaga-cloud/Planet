@@ -14,7 +14,7 @@
  ],
  "country_fix": "Turkey",
  "grade_override": "A",
- "override_reason": "成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "evidence": [
   {
    "kind": "Gmail 往来（S 邮箱）",
@@ -1203,5 +1203,28 @@
   "url": "https://www.angoranetworks.com/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·活跃",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·活跃",
+  "reply_class": "R+",
+  "evidence": " ‖ 研 2026-07-31 Levent Kılıç（SAGA Enterprise L3 Recommendation Report, 6 页）: Angora Networks views SAGA Telecom as our foundational manufacturing partner… fo / 2026-10-03 Levent（微信，10-02 19:56）→ Simon（10-03 00:19）: Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with "
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  }
+ ]
 }

@@ -26,8 +26,8 @@
    "role": "联系人（研究档 KP；2022 起与 e. 账号来往）— 不动：需求 Cisco 兼容交换机 + 10G DAC（不供）+ 无公司 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -139,5 +139,28 @@
    "body": "Hi Kennedy,\n\nIn October 2025 I sent you the STC-4168XGGCM datasheet (Marvell-based L2+ aggregation: 24× 1G SFP + 8 combo + 4× 10G SFP+, dual AC) with shipping to Zambia at $105 by FedEx door-to-door and a 3–5 working-day lead time, and did not hear back.\n\nThe price in the mail you answered was $280 USD EXW; for one sample unit today it is $300 USD EXW (the RMB has moved from 7.2 to 6.7 since), 15-day validity, MOQ 1.\n\nOne question before anything else: your earlier interest was Cisco switches and DAC cables, which we do not supply. Is this 24-SFP unit for a project of your own (which site, how many units), or are you looking for Cisco-compatible parts?\n\nBest regards,\nElsa\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-25"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-10-05] Dear Elsa, Thank you for reaching out and sharing information about the 24-port Marvell-based managed SFP swit ‖ 表 2025.10.5: DAC→price info ‖ 研 2025-10-05 dbjcontrad（赞比亚）: could you kindly provide us with the datasheet for this switch? Additionally, we"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）"
+  }
+ ]
 }

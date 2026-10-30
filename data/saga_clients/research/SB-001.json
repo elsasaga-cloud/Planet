@@ -611,5 +611,30 @@
   "url": "https://resonantnetworks.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "PI包·gg",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·gg",
+  "reply_class": "R+",
+  "evidence": "[S 2025-11-11] Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price ‖ [S 2026-06-22] Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks | M: +65 9734 0606 | W: ww ‖ 表 1024: 154→useful ‖ 研 2025-07-28 Hairomee: the customer expressed concerns about our pricing being slightly on the high sid / 2025-11-11 Au Wai"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
 }

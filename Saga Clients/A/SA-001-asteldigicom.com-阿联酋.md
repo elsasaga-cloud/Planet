@@ -12,7 +12,7 @@ code: SA-001
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # PI 包成单客户，Simon 标签 可发展 → A
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 name_official: "Astel Digicom（asteldigicom.com，关联 AVSS Group）"
 score: 164
 country: 阿联酋
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。（调研 2026-10-22；表内兴趣：ONV的工业FS  有工业电源 https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.htm）
-- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 可发展 → A）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）；最近一次客户回复：2025-01-06：profile
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付 — 成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转｜毛利复盘：一单 22.3%（STI-110GE 162 / STI-140GE 185 / HDR-15-24 60）——正常偏低，PayPal 5% 另计；STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-07-28 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）；**1,000 台时的 PSU 锚**：Saga 自家 DIN 电源表（`Extra Info/Price/Price List_DIN Power Adapter.xls`）STI-PA-20W-24V0.83A 1~49 台 $11 / 50~100 $10 / 101~300 $9 / 301~500 $8 / **501~1000 $7**（塑壳 DIN，CE/RoHS/UKCA/UL）——比样品时按 MEAN WELL HDR-15-24 报的 $10 便宜 30%，标书重报时用这个档；要金属壳 48V 则 STI-PA-75W-48V 501~1000 $14
 - **第一问（只问一个）**：Sanjay — did the STI-140GE + HDR-15-24 samples pass the tender's spec/sample approval, and if the 1,000-pc supply is still on the table, what target unit price and delivery window are they asking for?
@@ -115,7 +115,7 @@ updated: 2026-10-29
 - `avssgroup.com` → Microsoft 365（MX：avssgroup-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 - `eim.ae` → Etisalat / du 邮箱（阿联酋）（MX：fmhimail01.emirates.net.ae、fmkimail01.emirates.net.ae）。主机商附带邮箱（Etisalat / du 邮箱（阿联酋））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（阿联酋 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（阿联酋 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 窗口内无该国法定假日
 
@@ -191,7 +191,7 @@ updated: 2026-10-29
   > Astel Digicom Electronics LLC employs 8 employees. The Astel Digicom Electronics LLC management team includes Sanjay Singla (General Manger), Yash Shahani …
   > 来源：https://rocketreach.co/astel-digicom-electronics-llc-management_b41a35eeff64aa38（抓取 2026-10-23）
 - **KP**：Sanjay Singla（General Manager）asteldigicom@eim.ae; navsim@eim.ae 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 可发展 → A
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。
 
@@ -446,12 +446,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 164）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

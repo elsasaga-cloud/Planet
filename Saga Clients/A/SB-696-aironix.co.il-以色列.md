@@ -11,7 +11,7 @@ code: SB-696
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 score: 33
 country: 以色列
 region: 中东
@@ -29,13 +29,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：以色列 Aironix（工业/无线网络产品分销；表内「工业 FS O-ring 的」「可以尝试多跟进一下」；KP Yair Turjeman（Chief Executive Officer）、Eytan Birenzwige（Vice President Operations））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS O-ring的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2026-08→2026-08））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-04 → 2025-10-27）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版） — 数量 + 目标价 + 距今 2 个月 最近一封去信是 2026-10-07 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)、STC-024GE-D(2026-08-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Yair — $60 USD EXW stands (quoted 2026-08-15) for the rack version STC-024GE-U; shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?
@@ -83,7 +83,7 @@ updated: 2026-10-29
 
 - `aironix.co.il` → Microsoft 365（MX：aironix-co-il.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（以色列 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（以色列 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 窗口内无该国法定假日
 
@@ -144,7 +144,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Yair Turjeman（）yair@aironix.co.il WhatsApp +972 54 831 8384（2026-08-15 他自己写「WhatsApp +972548318384」）〔用户表〕
 - **KP**：Eytan Birenzwige（）info@aironix.co.il 〔用户表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2026-08→2026-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -337,12 +337,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

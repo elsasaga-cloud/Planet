@@ -12,6 +12,7 @@ code: SA-010
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 
 name_official: "(주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXTU，Seoul）"
 score: 103
 country: 韩国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国首尔网络/数码周边分销商（2004 年成立），自有品牌 NEXTU / NEXTLINK 约 1,000 个 SKU，网络产品线齐全：L2/L3/安防/90W/网管/非网管 PoE 交换机、工业 PoE、10G 工业 S-RING、政府采购业务；代表 김우경。用户表：Secon 2023 参展商，去过深圳，三次到访谈 bypass/2.5G/10G/波分，MC 与工业 FS 想用自己牌子，联系人 Roadman Kim。（调研 2026-10-21；表内兴趣：知道bypass，后面又来了一次，2.5G/10G带bypass，最后一天再来了一次，问了波分传输设备，bypass；MC 工业FS 用自己的牌子 光模块 商业POE 产品介绍做的很棒）
-- **为什么是 A 级**：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-02→2025-05））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 25 次（2024-05-09 → 2025-10-24）；最近一次客户回复：2025-05-20：问了价格
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Bypass：LT-IS6312G-4GX8GT-FBP / -2FBP（Saga 无对应型号，沿用 SmartByte 名；CNY 1,160 / 1,460 → $225.4 / $283.7 @30%，汇率 6.69 快照 2026-10-17）；16 口 PoE：STI-21616DGGPM（LT-IS6318GP-2GX16GT，CNY 1,340 → $260.4 @30%） — J4：只追 bypass 一条线（差异品），16 口价格战不追。已打开的主题（6/35 封有打开记录）：「Re: 16 Port Ethernet Switch」(2025-03-05)、「Re: 16 Port Ethernet Switch」(2025-04-07)、「Managed Optical Bypass Switch」(2025-05-20)、「Re: Managed Optical Bypass Switch」(2025-05-26) → 读者兴趣偏「其他」；当前 P1 属「旁路/Booster」，下一封按「其他」给，不按 P1 最近一封去信是 2026-09-23 A 邮箱 16 口 DIN PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STI-0160GE(2025-02-21)、STI-21616GP(2025-02-21)、Saga Software Function List-release 7.(2025-04-29)、STI-488XGGPM2B-2BT(2025-05-26)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation(2025-02-21)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#12）：2025-03-05 Alan 说「prices are high… we are filtering our clients」只对 eznet 说过一次，不再用；涨价说明统一「PCB/RAM + 汇率」；历史锚：STI-0160GE $105 / STI-21616GP $185（2025-02-21 报价单，EXW）；bypass 款 $225.4 / $283.7 / $242.0 USD EXW（2026-10-17 快照，15 天有效）；群发里他已看到的价（续）：2026-08-12 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）（㉕ 封顶：STI-21616DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Did the 2×2 bypass requirement from May 2025 turn into a project, and is Marvell still acceptable on the NEXTU industrial line?
@@ -165,6 +166,7 @@ updated: 2026-10-29
   > 来源：https://ez-net.co.kr/sub/sub01_01.php?cat_no=149（抓取 2026-10-21）
 - **KP**：Roadman Kim（展会名片联系人（用户表）） +82 2-715-3889 / +82 10-2503-1288〔Clients/A/DONE/KR.xlsx〕
 - **KP**：김우경（Kim Woo-kyung）（대표이사（CEO / 创始人）= 老板 = 联系人；(주)이지넷유비쿼터스 2006-04-04 法人登记（2004 开业），사업자 106-86-42660，44 人，2024 营收 251.6 억원（≈ $18M）、品牌 NEXT 约 1,000 SKU（第 85 批 官方登记核实 2026-10-27））marketing@ez-net.co.kr +82 2-715-0372〔https://nextu.kr/article/q-a/6/12691〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-02→2025-05）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（顶级 OEM 目标）：自有品牌全系交换机 + 三次主动到访 + 明确 bypass/10G 需求；P1 改 STI-488XGGPM（工业 10G 上联）或 bypass 型号（如 SmartByte 有 bypass 款需标注），走 30% OEM 档。
 
@@ -399,12 +401,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 103）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 103）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

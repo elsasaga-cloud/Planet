@@ -9,7 +9,7 @@
 code: SB-144
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 name_official: "BSD Networks（加拿大）"
 score: 55
 country: 加拿大
@@ -28,13 +28,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：加拿大光纤网络产品品牌 / 分销（switch 110 / poe 83 / sfp 82 / industrial 46），Robert；表内「SFP MC 工业 FS 光猫，自己的 logo 但产品来源比较杂；光路 10G MC（注意外壳）」；群发 16 次无回复。自有 logo → OEM 30%。（调研 2026-10-21；表内兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-03→2026-03））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-09 → 2025-10-17）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM — 加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；再触锚价 STC-424XGGPM-280W $180（群发现价；8 月他见过 $170，信里点明；第 72 批 2026-10-24）；按主表；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity; the $170 you saw in August was the launch price).
@@ -149,7 +149,7 @@ updated: 2026-10-29
   > 兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Robert Lichtenstein（）robert@bsdnetworks.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-03→2026-03）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -355,12 +355,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

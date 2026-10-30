@@ -35,8 +35,8 @@
    "source": "https://walker-security.systems/impressum"
   }
  ],
- "grade_override": "B",
- "override_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-05→2025-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
@@ -162,7 +162,16 @@
   "note": "桌面复核（研究档类型 + 对位首推）：安防安装商（微型）；切入：安装商 25% 档：STC-28DGGPM（$84.1）替代 Dahua PFS 8 口管理机；16 口 STI-21616GP；Ajax/Jablotron 报警主机旁的小 PoE 用 STI-144GP；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 未绑定））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "微型安装商（UG，单人决策但单量极小），仅一次礼节性回复；B 慢跟即可。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-05→2025-06）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:21:04Z"
@@ -183,5 +192,18 @@
   "url": "https://walker-security.systems/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-05→2025-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-05-13] Hi thank you for you‘re offer We would like a free switch for Testing, we need to replace a lot of switches an ‖ [A 2025-06-10] Hello , Are the switches manageable ? Mit freundlichen Grüßen [图:image001.jpg] [图:image002.png] +49 2153 909 7 ‖ 表 2025.5.13: 48口→想测样 ‖ 研 2025-05-13 Andrew Walker（CEO）: We would like a free switch for Testing, we need to replace a lot of switches an / 2025-"
  }
 }

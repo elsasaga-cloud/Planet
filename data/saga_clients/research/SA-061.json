@@ -45,8 +45,8 @@
    "source": "https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -195,5 +195,28 @@
   ],
   "batch": "LT-T03",
   "last_ok": "2026-10-29"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 1.2: mini→问了高速的 后续没进展了"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  }
+ ]
 }

@@ -12,7 +12,7 @@ code: SB-053
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
 name_official: "Onnet Technologies & Innovations LLC (OTAI)"
 score: 63
 country: 阿联酋
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿联酋阿治曼 **本土电信产品制造商**（2012 年，11–50 人，TDRA 认证）：运营商级长距无线、**大功率工业 PoE 交换机 / PoE 延长器**、室外 UPS、太阳能通信系统、CCTV 杆 / 智慧灯杆、「Magic Box」一体化 PoE 箱；负责人 Piyush Shah。表内 Saurabh「老说价格高、了解中国市场价、与中国供应商长期合作」，2025-04 问 Bypass 工业机「用常见的几个型号」= 自有品牌 OEM 采购方。（调研 2026-10-21；表内兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-04-25 → 2025-04-25）；最近一次客户回复：2025-04-25：用常见的几个型号
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which of your six configurations is this year's volume SKU, so we quote that one first?
@@ -85,7 +85,7 @@ updated: 2026-10-29
 
 - `onnettechnologies.com` → Google Workspace（MX：ASPMX.L.GOOGLE.com、ALT1.ASPMX.L.GOOGLE.com、ALT2.ASPMX.L.GOOGLE.com、ALT3.ASPMX.L.GOOGLE.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -147,7 +147,7 @@ updated: 2026-10-29
 - **KP**：Saurabh Pachchigar（）saurabh@onnettechnologies.com +971 50 559 4409〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Piyush S. Shah（）piyush@onnettechnologies.com +971 50 184 2443〔https://www.linkedin.com/in/piyushsshah/〕
 - **KP**：Dipali Pachchigar（Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27）） 〔https://ae.linkedin.com/company/otaillc〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 只在有尾货/促销时触达；不做长期投入。
@@ -329,12 +329,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

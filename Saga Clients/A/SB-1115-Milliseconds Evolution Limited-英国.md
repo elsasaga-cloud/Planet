@@ -11,7 +11,7 @@ code: SB-1115
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样
 name_official: "Milliseconds Evolution Limited"
 score: 46
 country: 英国
@@ -30,13 +30,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。（调研 2026-10-22；表内兴趣：STC-424XGGPM-280W 24 口 PoE L2+（$180/PC）；先 2 台样品测试，再谈英国经销/分销）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销））；自动分级 B：+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W $180 — 英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17；$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）；**$535 = 2 × $180 + FedEx $150 + 银行费 $25（DAP 伦敦，不含英国 VAT/关税）**；样品款抵首单（他 10-17 原话）
 - **第一问（只问一个）**：Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready.
@@ -154,7 +154,7 @@ updated: 2026-10-29
   > 来源：https://millievolution.com/（抓取 2026-10-29）
 - **KP**：Iyiola Folayan（Director + **唯一 PSC（持股 50–75% + 任免董事权，2025-10-24 通知）** = 控股人 = 联系人；公司仍是 2025-10 新壳（虚拟地址）→ 付费样品 + 100% 预付不变（第 87 批 官方登记核实 2026-10-27））ifolayan@millievolution.com 〔S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list〕
 - **KP**：Aderonke Folayan（Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/16807798/officers〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：deep/facts。
 LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。
@@ -307,12 +307,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

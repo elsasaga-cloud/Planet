@@ -346,5 +346,30 @@
   "url": "https://www.alfa.com.tw/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "排除：台湾品牌商 INH 最高 B",
+  "excl": "台湾品牌商 INH 最高 B",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-08-15] Hello, Simon Please provide your company information. And what’s the price for non-PoE and PoE model. Thank yo ‖ [S 2025-07-28] Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8 ‖ 表 2024.8.15: 1光8 2.5G→price   company info ‖ 研 2025-07-28 sandy_chien@alfa.com.tw: Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B"
 }

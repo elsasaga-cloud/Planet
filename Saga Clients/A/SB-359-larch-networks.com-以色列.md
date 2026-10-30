@@ -8,7 +8,7 @@
 code: SB-359
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档
 score: 44
 country: 以色列
 region: 中东
@@ -26,13 +26,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：以色列 Larch Networks（定制网络软硬件开发：系统工程 / SONiC（Hardware-Accelerated BFD+）；自有品牌工业交换机 LN-1508G(P)-4XGF-I(-M)（8 GE/PoE + 4×10G SFP+ 工业）、LN-2308GP-2GE-I，16×PoE / 48×PoE 工业页；表内「DCN / 中科德能的工业 FS」= 现由中国 ODM 供货；KP Alexander Cheskis、Andrey Zarudniy；参展 Electronica India 2026）；表内无跟进记录。（调研 2026-10-21；表内兴趣：dcn 工业FS 中科德能的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295） — C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单。已打开的主题（21/24 封有打开记录）：「Re: Supported SONiC for Saga Ethernet 」(2026-05-27)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-03)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-05)、「Re: Request for DX1518/DX1548 Chips」(2026-07-02) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1｜对外统一口径（#2/#12）：2026-03-31 Alan 反问「Do you require Marvell SDK/BSP support」暗示可给 BSP——Saga 不提供 SDK/BSP，对 Larch（SONiC/白盒）只谈整机或 PCBA；2026-05-27「AC5 整线 +$15（内存涨价）」是对外涨价基准；$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd
 - **第一问（只问一个）**：Andrey — the 2-channel bypass PoE unit you priced in December ($295): is a paid evaluation sample still useful for your customer, or has that requirement closed?
@@ -102,7 +102,7 @@ updated: 2026-10-29
 
 - `larch-networks.com` → Google Workspace（MX：aspmx.l.google.com、alt1.asmpx.l.google.com、alt2.asmpx.l.google.com、alt3.asmpx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（以色列 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（以色列 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -161,7 +161,7 @@ updated: 2026-10-29
 - **KP**：Andrey Zarudniy（）azarudniy@larch-networks.com 〔用户表〕
 - **KP**：Oksana Loy（来信署名人（职务未在邮件署名里出现））oksana@larch-networks.com 〔S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）〕
 - **KP**：Eddie Preskovsky（联合创始人（Tracxn 记为 co-CEO）—— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://www.larch-networks.com/〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -358,12 +358,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

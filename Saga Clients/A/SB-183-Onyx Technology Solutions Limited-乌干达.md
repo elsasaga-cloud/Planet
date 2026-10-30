@@ -12,7 +12,7 @@ code: SB-183
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
 name_official: "Onyx Technology Solutions Limited（乌干达）"
 score: 52
 country: 乌干达
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：乌干达 WISP / 网络集成商（Steven Ntengo），用 Cambium Force 200/190 无线，需求工业 PoE 注入器（Saga 价目无，Q-32）；2024 年问工业交换机价格、48 口 / 228 价格，对 154（1 SFP + 1 GE + 4 PoE 工业）有兴趣，要价目表。（调研 2026-10-21；表内兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/乌干达；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/乌干达；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 15 次（2024-04-29 → 2025-10-06）；最近一次客户回复：2024-09-26：price list
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 其明确感兴趣的「154」= Saga STI-154GP（1 SFP + 1 GE 上行 + 4 PoE 工业，$37.7/39.2/40.8），可直接给 Cambium Force 供电（802.3at/bt 需核）。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -115,7 +115,7 @@ updated: 2026-10-29
   > 兴趣：工业POE injector 用于cambium radios like force 200 and 190 etc；回复：对154有兴趣；price list
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Steven Ntengo（联系人（研究档 KP；对 154 有兴趣、要价目）= 收件人 — 一页纸一次：集成商 25% B、STI-154GP / STI-054GP 塔站供电 + STC-228GP $33 一口价 + MOQ 1；注入器不供明说 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29））onyxtechnologysolutionsltd@gmail.com +256 704 803 724〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -268,12 +268,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,6 +12,7 @@ code: SA-002
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
 name_official: "SIMREX Corporation（Buffalo, NY）"
 score: 88
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国纽约州 Buffalo 的工业无线数据通信设备制造商（1996 年成立，11–50 人，收入 $1–4.9M），品牌 ARIA Wireless / GLB Electronics / SIMREX；产品线含 DataMover 无线电台与 **DataMover 加固型管理交换机 MS-5 / MS-5GS / MSG-8E4S**（贴自有品牌的工业交换机）；行业：航空、轨道、能源、水务、交通 ITS。已成单。（调研 2026-10-21；表内兴趣：switch）
-- **为什么是 A 级**：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 3 条（S；2024-12→2026-07））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 11 次（2025-02-08 → 2025-11-28）；最近一次客户回复：1.3：L3管理 后续未下单
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Simon 2026-07-21 已报的 130 USD Marvell 24 口（附件 STC-424XGGM.docx + Saga Feature List 7.5.x + Dual AC.jpg，即 STC-424XGGM 24 GE + 4×10G SFP+ L2+，对标 CRS326-24G-2S+RM）+ OID/MIB 清单（PI 包里有 NMS-MIB-7.4.7 OID 文件，德国 Frederik 用过） — J6：把「能不能进你的 NMS」变成可测问题，先给 OID 列表再谈价｜已发资料（勿重发）：A copy of reply(2024-12-06)、L3 PoE(2024-12-13)、Saga Software Function List-release 7.(2025-03-28)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)、STC-424XGGM(2026-07-21)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；130 USD/PC 单 AC（2026-07-21 报价；复核汇率与 30% 档）；历史报价（邮件原话，老汇率）：2024-12-05 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-04-28 $300（48 Port PoE Managed Switch）、2025-08-27 $240（24 Port Fiber Switch）、2025-10-30 $280（10G Enterprise SFP Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；2026-07-21 Simon 已报 **STC-424XGGM 单 AC $130**（对标 CRS326-24G-2S+RM $209 MSRP / 他的 OEM 成本 $90–120 是 6/12 口 MT）——再谈只能守 $130，不再往下（主表 LT-S8328XG-4XS24GT-S CNY 710 → $127.4 / $132.7 / $138.0，上限 $143：$130 ≈ 分销档，已是底）
 - **第一问（只问一个）**：Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discovery + port stats, I can send the OID list first.
@@ -99,9 +100,9 @@ updated: 2026-10-29
 - **同国同档参照（US，30% 档，共 8 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SB-826 versitron.com（B，同档：回过 20 次（最近 2025-10-31），1:1 报过 4 次）；SB-085 DIGI Group（B，同档：回过 3 次（最近 2025-11-28），1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
-## 进口记录（公开海关数据 · 第 80 批 · 2026-10-29）
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-30）
 
-> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-29。
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-30。
 
 - **查无**：ImportYeti 公司页没有此户（company/simrex 404；web_search no indexed page）。美国海运提单库查不到 → 要么走空运/快递（小批量交换机常态），要么以其他法人名报关
 - 查无 ≠ 不进口：可能用别的报关主体名、走空运 / 快递、或申请了舱单保密（ImportYeti FAQ）。
@@ -170,6 +171,7 @@ updated: 2026-10-29
   > DATAMOVER MS-5GS - Hardened Gigabit Managed Switch Supported by SIMREX CRMS NMS … Five 10/100/1000 Mbit/s … DATAMOVER MSG-8E4S - Hardened Gigabit Managed Switch … Eight 10/100/1000 Mbit/s … Supports 802.3af/at devices if the 48-57VDC input is used. Max current 450mA per port
   > 来源：https://www.simrex.com/site/apps/traffic.htm（抓取 2026-10-21）
 - **KP**：Frank Neuperger（General Manager；SAM.gov 登记联系人（CAGE 1WEC8 / DUNS 087787573，Delaware 公司，S-Corp，Woman Owned Business，业务始于 1996-01-18，SAM 续期至 2027-05-04）（第 83 批 官方登记核实 2026-10-27））frank@simrex.com +1 716-206-0174（总机）〔https://rocketreach.co/frank-neuperger-email_64101596 ; https://cage.report/DUNS/087787573；S 邮箱 2024-12 来信表头 4 封〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 3 条（S；2024-12→2026-07）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 级确认：自有品牌加固交换机 = 最优 OEM 客户类型；注意其应用含轨道/ITS，Saga 无 EN50155，只按 DIN 工业 L2+ 对位。
 
@@ -361,12 +363,12 @@ Did the 130-USD Marvell unit get a lab slot? If your NMS only needs SNMP discove
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

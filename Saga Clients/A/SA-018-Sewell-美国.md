@@ -12,6 +12,7 @@ code: SA-018
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PoE 电源常下单（Sewell，复
 name_official: "Sewell Development Corp.（Sewell Direct, Orem, Utah）"
 score: 88
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国犹他州 Orem 的消费类 AV 连接产品公司（1983 年成立，自有品牌 Silverback/Deadbolt/Salt Labs 等，直营 + Amazon/Newegg 销售），规模口径 17–200 人、营收 $1–10M 不等。用户表：买 PoE 电源、常下单（成交客户）。（调研 2026-10-21；表内兴趣：买PoE电源/常下单）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PoE 电源常下单（Sewell，复购型））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；推送 9 次（2025-04-03 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：PoE 注入器 + STC-28DGGPM — 已打开的主题（3/20 封有打开记录）：「90W PoE Managed Switch」(2025-04-02)、「10G Media Converter」(2025-05-01)、「Managed Optical Bypass Switch」(2025-10-13) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；锚价：STC-024GP $22.3（洪瑞进价 +30%，Q-47）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-01 $65（10G Media Converter）、2025-07-07 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Next to the Raven injector line, a 5-port gigabit PoE switch at the price point you already buy PoE power at tends to be the easiest add-on SKU for an Amazon listing, so I am sending the 4+1 unit first. Would a 4-PoE + 2-uplink gigabit desktop unit be worth a listing test next to the Raven injectors? Reference: STC-024GP at $22.3 USD EXW (MOQ 1, 15-day validity).
@@ -181,6 +182,7 @@ updated: 2026-10-29
   > 来源：https://www.amazon.com/Sewell-Injector-IEEE802-3af-Power-Supply/dp/B005582ICU（抓取 2026-10-21）
 - **KP**：David Sewell（CEO（BBB 口径）） +1 801-356-3823〔https://www.bbb.org/utah/business-reviews/computer-hardware/sewell-development-corp-in-orem-ut-15000003〕
 - **KP**：Preston Wily（President（Utah 登记；Owner David Sewell 为登记代理人 = 研究档 KP）；Sewell Development Corp 1034201-0142，1989-05-11；CAGE 38UZ7（2021 过期）（第 84 批 官方登记核实 2026-10-27）） 〔https://opencorporates.com/companies/us_ut/1034201-0142〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PoE 电源常下单（Sewell，复购型）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 确认（成交 + 复购）：维护为主，顺带推 PoE 注入器/小 PoE 交换机作为其 AV 线配套；美国区注意 FCC 标识与中性包装。
 
@@ -394,12 +396,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

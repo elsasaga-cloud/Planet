@@ -250,5 +250,30 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-04-18] And the price is ? Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-47 ‖ [A 2025-04-22] We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o. ‖ 表 418: 10gmc→price ‖ 研 2025-04-22 FCNET: We have much better price for this product from different supplier. / 2025-04-22 info@fcnet.pl: Re: 10G"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）"
 }

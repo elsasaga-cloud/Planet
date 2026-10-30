@@ -12,7 +12,7 @@ code: SB-013
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·样品单 MC 25km + 8 口网
 name_official: "SYNCHCOM (Pvt) Ltd（Islamabad, Pakistan）"
 score: 87
 country: 巴基斯坦
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴基斯坦伊斯兰堡的系统集成商/分销商（2005 年成立；11–50 人 ZoomInfo / 101–200 人 businesslist 口径），面向电信运营商、政府、国防、能源、油气、自动化；LigoWave 巴基斯坦分销商；产品线含 MC、工业自动化网络、结构化布线。用户表：WhatsApp 已加（2 个号），成样品单（MC 双纤 25km + 8 口网管交换机「只要 PCB 板子」），8 次推送无回复。（调研 2026-10-21；表内兴趣：问MC Dual Fiber FE/GE 25km SM；8口网管交换机，只要PCB板子   成样品单）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·样品单 MC 25km + 8 口网管 PCB（Synchcom））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 8 次（2025-02-22 → 2025-06-21）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM — 集成 25% 档：STC-28GPM（2 SFP + 8 GE PoE L2 管理，Saga Realtek 线列表 $62.2）对应「8 口网管交换机」；MC STI-110GE（$23.4，配 25 km SFP 另询）；裸板供货待核；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$74.0；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port managed switch as a finished unit (2× SFP + 8× GbE PoE, $74.0 EXW) or discuss board-level supply for your own enclosure — which route fits your current telecom/energy projects?
@@ -77,7 +77,7 @@ updated: 2026-10-29
 
 - `synchcom.com.pk` → 同域名 MX → 托管在 is.cc（MX：mail.synchcom.com.pk）。主机商附带邮箱（同域名 MX → 托管在 is.cc）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（巴基斯坦 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（巴基斯坦 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-09 Iqbal Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -134,7 +134,7 @@ updated: 2026-10-29
 - **KP**：Asif（asif@）（销售负责人（Facebook 公开）= 联系人；拍板 = Senior MD Muhammad Babar —— 公司 **自己替 LigoWave / Dinstar 办过 PTA 型号核准（2016、2017）= 有进口 + 认证经验** → 分销 20% 24 口管理型 + 室外 PoE，PTA 他们，100% 预付或 LC（第 91 批 官方登记核实 2026-10-27））asif@synchcom.com.pk +92 332 5933665（WhatsApp 已加）〔https://www.facebook.com/SYNCHCOM.PRIVATE.LIMITED/〕
 - **KP**：Muhammad Babar（Senior Managing Director（RocketReach）= 拍板人（抄送）（第 91 批 官方登记核实 2026-10-27）） 〔https://synchcom.com.pk/about-us/〕
 - **KP**：Muhammad Mehmood（Director（2001 起；兼 Sina Institute of Networks 创始人）（第 91 批 官方登记核实 2026-10-27）） 〔https://synchcom.com.pk/about-us/〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·样品单 MC 25km + 8 口网管 PCB（Synchcom）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
 
@@ -305,12 +305,12 @@ Asif, after the MC and 8-port managed PCB samples: we can now supply the 8-port 
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 87）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 87）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

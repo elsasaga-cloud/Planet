@@ -25,8 +25,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：肯尼亚个人 Gmail 安装 / 转售商 Peter Weru：需求百兆单纤 50 对（Saga 百兆 MC 不供）+ 无主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -129,6 +129,27 @@
    "to": "C",
    "prev_reason": "",
    "reason": "肯尼亚个人 Gmail 安装 / 转售商 Peter Weru：需求百兆单纤 50 对（Saga 百兆 MC 不供）+ 无主体 → C 储备"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：肯尼亚个人 Gmail 安装 / 转售商 Peter Weru：需求百兆单纤 50 对（Saga 百兆 MC 不供）+ 无主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "C",
+  "reason": "",
+  "why_not": "非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 4.7: 发了洪瑞商业交换机图→price list"
+ }
 }

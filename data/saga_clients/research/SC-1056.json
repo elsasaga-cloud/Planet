@@ -1,0 +1,101 @@
+{
+ "code": "SC-1056",
+ "name_official": "cloudinfotech.co.in",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "印度客户（cloudinfotech.co.in）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: 8 Port Industrial PoE Switch｜Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal",
+   "quote": "Re: 8 Port Industrial PoE Switch｜Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal",
+   "url": "d69f19128185f945",
+   "date": "2024-11-29"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. --",
+   "quote": "Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. --",
+   "url": "a61788166240b801",
+   "date": "2024-11-29"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-01 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2024-11-29",
+    "dir": "来",
+    "who": "info@cloudinfotech.co.in",
+    "quote": "Re: 8 Port Industrial PoE Switch｜Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "d69f19128185f945"
+   },
+   {
+    "date": "2024-11-29",
+    "dir": "来",
+    "who": "info@cloudinfotech.co.in",
+    "quote": "Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. --",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "a61788166240b801"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-01 建档"
+  },
+  "situation": "印度；2024-11-29 最后一次来信/回复：Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. --",
+  "need": "[S 2024-11-29] Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal ‖ [S 2024-11-29] Hi Simon, Share the best price. --",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-11-29] Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal ‖ [S 2024-11-29] Hi Simon, Share the best price. --"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
+}

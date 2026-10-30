@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -170,6 +170,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）"
   }
  ],
  "snap_thicken": {
@@ -178,5 +186,18 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-02-04] ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ [A 2026-01-16] ﻿thank you for informations~ please give about price~ thank you! ‖ 研 2025-02-04 jryoun74@hcin4.com: ﻿thank you for infromations... please attach datasheet and website... thank you! / 2026-01-16 Peter (jryoun74): thank you for informations~ please give about price~"
  }
 }

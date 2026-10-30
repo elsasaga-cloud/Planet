@@ -83,7 +83,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
@@ -286,5 +286,28 @@
   "url": "https://bitbuk.ru/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·可发展",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·可发展",
+  "reply_class": "R+",
+  "evidence": " ‖ 研 2024-02-11 Andrey（WhatsApp 截图，PI 包「售后问题_1/2.png」）: need New firmware for managed switch, 2/11/2024. Old one is not work correct wit"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "核心业务是条码设备，网络 PoE 只是配套类目；至今无任何回复/跟进记录（仅 WhatsApp 加上）。B 慢跟：按自有品牌贴牌切入（他们已在中国贴牌生产）。；PI 包成单客户，Simon 标签 可发展 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  }
+ ]
 }

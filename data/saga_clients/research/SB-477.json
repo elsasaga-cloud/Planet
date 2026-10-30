@@ -24,8 +24,8 @@
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -191,7 +191,16 @@
   "note": "eminnovate.com（美国，表内「基本都是 PLANET 的」）：回复 1 次、2 次跟进；公开检索未坐实但有邮件路径 → 留 B 待坐实（未坐实 + 有路径 ≠ 打回）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未发信→轻度））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:41:53Z"
@@ -209,5 +218,18 @@
   "url": "https://www.eminnovate.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-06-29] Very interesting Any rear facing port switches? Sent from my iPhone ‖ 表 2025.6.29: 群发了48口→interested ‖ 研 2025-06-29 Michael（eminnovate.com）: Very interesting Any rear facing port switches?"
  }
 }

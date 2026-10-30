@@ -8,7 +8,7 @@
 code: SB-173
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代
 score: 53
 country: 加拿大
 region: 北美
@@ -26,13 +26,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：加拿大 Inaxsys Security Systems（安防系统品牌/分销：Inaxsys 摄像机、Arkiv VMS、录像机、服务器工作站、电源，Ajax；表内「有一部分是自己的；HRUI（洪瑞）的，贴了自己的牌子」；KP Mark McRae（President）、Alain Boisvert（VP International Sales & Product Development））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：有一部分是自己的；洪瑞的 贴了自己的牌子）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代工贴标 → 直接对位 Saga OEM（Q-33 标记：按不碰同行客户规则仅观察））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-20 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -139,7 +139,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Alain Boisvert（）sales@inaxsys.com 〔用户表〕
 - **KP**：Mark McRae（President（inaxsys.com 2024 新闻；ex-Paradox / ADT）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代工贴标 → 直接对位 Saga OEM（Q-33 标记：按不碰同行客户规则仅观察）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -339,12 +339,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

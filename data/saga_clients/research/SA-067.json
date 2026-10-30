@@ -52,8 +52,8 @@
    "source": "S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -253,5 +253,28 @@
   "url": "https://latmedia.uz/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-10-10] Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget fo ‖ [A 2025-11-24] Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) --------- ‖ 研 2025-10-10 Vladimir Xe: we signed a memorandum with our partner… Could you please share Joey's contact / 2025-11-24 Vladimir Xe: No, this is n"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）"
+  }
+ ]
 }

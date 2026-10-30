@@ -12,7 +12,7 @@ code: SB-692
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 name_official: "Anda Telecom Private Limited（诺伊达）"
 score: 33
 country: 印度
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度诺伊达（+91 120）电信级光纤产品公司：自有 **ATMIS-** 系列管理 / 工业接入交换机（ATMIS-6208PI = 2 SFP + 8 PoE 工业、6216PI、6408PI、402G）、PDH / E1 转换、光复用器、MC、VoIP；表内 Director Harish Gupta「已有回复」，对台式 EDFA 很有兴趣（画了应用图），从 ONV 与其他国内厂采购，也买 AOA（光模块）。自有型号 = 贴牌 → OEM 30%。（调研 2026-10-21；表内兴趣：对EDFA台式很有兴趣 画了一个应用图；从ONV买 也有其他国内的 也买AOA的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+18 在「已回复」名单（A/E Replied）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-08））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+18 在「已回复」名单（A/E Replied）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 4 次（2025-02-14 → 2025-10-02）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 对位 ATMIS-6208PI → STI-288GPM 贴 ATMIS 标（OEM 30%）；6216PI → STI-21616GP；6408PI → STI-488GP。已打开的主题（1/9 封有打开记录）：「10G media converter」(2024-08-08) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜需求台账 #1（2026-10-24 改正）：「Stacking is mandatory」的正确答法不是只说没有——AC5 没有，但 CENTEC STH1G（STH-2QX4DX48GP，≤8 台）有；信里两层都说；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-27 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-08 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 3 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Subhash — on stacking: our Marvell access units do not stack (redundancy there is ERPS G.8032 + 10G uplinks). Where stacking is mandatory we have the CENTEC-based STH-2QX4DX48GP, 48×1G PoE++ + 4×25G + 2×40G, stacking up to 8 units as one logical switch. Is stacking a tender clause in your projects, and at what port count?
@@ -155,7 +155,7 @@ updated: 2026-10-29
 - **KP**：Harish Gupta（）harish@andatelecom.com +91 93502 57173〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Subhash（）subhash@andatelecom.com +91 99686 50294〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Neelam Gupta（Director（DIN 02122908，2004-12-13 起）= 配偶合伙（第 91 批 官方登记核实 2026-10-27）） 〔https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -363,12 +363,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

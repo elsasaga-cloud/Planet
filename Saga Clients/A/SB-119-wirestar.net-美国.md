@@ -12,7 +12,7 @@ code: SB-119
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "WireStar, Inc.（WireStar Networks，wirestar.net，College Station, TX）"
 score: 58
 country: 美国
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德州 College Station 的区域 ISP/CLEC 与 **MDU（多户住宅）/HOA 托管 WiFi 服务商**（2005 年创业、2007-12 注册；创始人 Kyle Leissner；11–50 人 / RocketReach 42 人、营收 $5.1M）：为「全国数百个多户住宅物业」提供最高 1 Gig 互联网（光纤、固定无线、有线、EoC、DSL）、WiFi 部署、语音、电视、安防门禁、托管 IT 与综合布线；SAM 登记 UEI PU66QHF8L5F6（可承接政府业务）。用户表：1 次实质回复，1 次跟进。（调研 2026-10-21；表内兴趣：在找PoE交换机）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+22 实质回复 1 次；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-06→2025-04））；自动分级 B：+22 实质回复 1 次；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-01 → 2025-04-01）；最近一次客户回复：2025-04-01：XVLAN or MPLS?
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC（VXLAN/EVPN/MPLS） — 美国运营商 + 创始人直联 + 明确技术需求。已打开的主题（5/24 封有打开记录）：「Re: 48 port managed switch」(2024-06-19)、「2.5G Web Managed Switch」(2024-09-27)、「Marvell Alleycat5 Solution」(2025-04-01)、「Re: Marvell Alleycat5 Solution」(2025-04-02) → 读者兴趣偏「其他」；当前 P1 属「DC 核心/CENTEC」，下一封按「其他」给，不按 P1｜已发资料（勿重发）：STC-448XGGPM(2024-06-19)、Saga Software Function List-release 7.(2025-04-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜CENTEC STOS V2.4：无 NETCONF/RESTCONF/OpenFlow；有「RPC-API management」◯ + SNMP v1/v2c/v3 公私 MIB + Zero-configuration deployment——Kyle 若再提 NETCONF，答「no NETCONF; RPC-API + SNMP/CLI」，不答「有 API」四个字；按 CENTEC 底线；历史报价（邮件原话，老汇率）：2024-06-19 310usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-16 $65（Re: 48 port managed switch）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-18 $220（48 port managed switch）、2025-09-22 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Kyle — our CENTEC-based line does VXLAN/EVPN and MPLS (no proprietary controller; standard CLI/SNMP); which role would you test first, a 10G/25G aggregation or a 100G spine?
@@ -106,7 +106,7 @@ updated: 2026-10-29
 
 - `wirestar.net` → Microsoft 365（MX：wirestar-net.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-11 Veterans Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -162,7 +162,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kyle Leissner（Founder / Owner / President & CEO（SAM.gov 登记官员 PRESIDENT，UEI PU66QHF8L5F6；Aggie 100 「Founder, Owner, President」；Texas A&M BBA + MS MIS）= **老板 = 联系人**；公司 = 德州学生公寓 MDU 批量 Wi-Fi ISP + 布线商，20–50 人、$5M 级（第 87 批 官方登记核实 2026-10-27））kyle@wirestar.net（2024-06-18 本人来信「Is this Poe?」；署名 President & Founder，Direct (979) 721-9100） 979-721-9000（公司）〔https://wirestar.net/about/；S 邮箱来信表头〕
 - **KP**：Logan Roy（Director of Business Development（官网 leadership；BBB 管理层）（第 87 批 官方登记核实 2026-10-27）） 〔https://wirestar.net/our-story/〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-06→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档）
 
@@ -342,12 +342,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 58）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

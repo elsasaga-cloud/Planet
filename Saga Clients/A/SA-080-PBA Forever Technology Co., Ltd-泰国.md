@@ -12,7 +12,7 @@ code: SA-080
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 name_official: "PBA Forever Technology CO., LTD."
 score: 66
 country: 泰国
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：已成单 6 个单号（2024-10-14 → 2026-07-06，RMB 单据合计 ≈37k，货代走账）；Simon 标签：活跃 · 货代走账 · 轻度绑定；详见 research/SA-080.json（调研 2026-10-22；表内兴趣：工业 PoE 管理交换机（STI-21616DGGPM / STI-21616GP / STI-42424DGGPM）、商用 2.5G/10G 非管理（STC-xxXGDGE/XGWE 系列）、STC-80XGO）
-- **为什么是 A 级**：**调研后定级 A**（PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 亚太/泰国；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 亚太/泰国；+5 最近活动 2026
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP（主力复购，¥1,050）；STI-42424DGGPM（汇聚，¥2,200）；Realtek 10G 桌面/光纤小机（STC-15XGDGE ¥238 / STC-80XGO ¥539 / STC-108XGDGP ¥413 / STC-18XGDGPW ¥462） — 6 单、三年、两条供应线都买过；WhatsApp 直达；小额高频、毛利最薄｜档位说明（原 tier 字段文字「RMB 货代走账（不走 USD 三档）」移此）：RMB 货代走账（不走 USD 三档）；绑定价（人民币，三年没动）：STI-21616GP ¥1,050（进 ¥952 → 9.3%，含运费 8.4%）；STI-21616DGGPM ¥1,460（进 ¥1,272 → 12.9%）；STI-42424DGGPM ¥2,200（进 ¥1,912 → 13.1%）；-U ¥2,400（进 ¥2,100 → 12.5%）；Realtek 10G 线 ≈16–17%。下一批按原价不动（Simon U28 绑定价）；若要回到底线：STI-21616GP Marvell 25% → ¥1,269——Simon 的决定，信里不提
 - **第一问（只问一个）**：Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigger project this time? (Managed models now ship on the AC5 platform; unmanaged STI-21616GP unchanged.)
@@ -152,7 +152,7 @@ updated: 2026-10-29
   > 泰国 Peeranun　轻度绑定 = 网站已经宣传Saga型号比较久了
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Peeranun Ratannabuajan（CEO）pomnong9@gmail.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 
 ### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
 
@@ -292,12 +292,12 @@ Khun Peeranun, when is the next STI-21616GP batch — still 2–3 pcs, or a bigg
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 66）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 66）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

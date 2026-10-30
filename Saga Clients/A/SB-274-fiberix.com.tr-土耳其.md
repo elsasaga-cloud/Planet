@@ -9,7 +9,7 @@
 code: SB-274
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 I
 name_official: "Fiberix İletişim Hizmetleri Ltd. Şti.（Gaziantep, TR；fiberix.com.tr；BTK 授权 ISP，AS205768）"
 score: 48
 country: 土耳其
@@ -27,13 +27,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其加济安泰普的本地光纤 ISP Fiberix（BTK 授权基础设施与互联网服务商；RIPE 成员 AS205768（1,024 IPv4，2017 年分配）；Gazi Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil；+90 850 333 27 00；info@fiberix.com.tr；规模口径 1–20 至 51–200 不一；套餐 20–35 Mbps 家庭宽带；联系人 Zafer Yılmaz（RIPE 联系 zafery@））。ISAF 记录：Karasu——在广州有合作伙伴，最主要找商业级交换机与 SFP 收发器，PoE 不常用；WhatsApp 已加；无后续跟进。运营商终端用户，小型 → B 25%。（调研 2026-10-21；表内兴趣：在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用；在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  PoE不常用）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 ISP（AS205768），全光汇聚对位（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7；L3 档 $280.3——第 74 批(r) 更正：$132.7 是 L2+ 档价，不是 L3）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L2+ switch EXW 132,7 USD (L3 sürümü 280,3 USD), yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?
@@ -77,10 +77,9 @@ updated: 2026-10-29
 
 - `fiberix.com.tr` → SpamExperts 网关（主机商附带）（MX：filter10.antispamcloud.com、filter20.antispamcloud.com、filter30.antispamcloud.com、filter40.antispamcloud.com）。主机商附带邮箱（SpamExperts 网关（主机商附带））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 106 批（TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd. Şti.；Sarıgüllük Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil / Gaziantep；BTK tarafından Alt yapı ve İnternet Servis sağlayıcı olarak yetkilendirilmiştir）+ RIPE NCC 会员名录（FIBERIX ILETISIM HIZMETLERI LTD. STI.；27060 Gaziantep）+ bgp.tools（AS205768 registered 2017-06-08；1 IPv4 prefix；#107 eyeballs TR）+ Google Play 开发者（FIBERIX ILETISIM HIZMETLERI LIMITED SIRKETI；Gazi Mah. Zübeyde Hanım Bulvarı No:74-A；+90 850 333 27 00；info@ / destek@）+ eleman.net 招聘（Satış Temsilcisi ×10），2026-10-28 查；https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/）：**
 
@@ -130,7 +129,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Karasu（用户表联系人（抄送）（第 106 批 官方登记核实 2026-10-28））karasu@fiberix.com.tr（用户表） +90 554 154 0100（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Zafer Yılmaz（RIPE 管理联系人（网络负责人推定）= 收件人（第 106 批 官方登记核实 2026-10-28））zafery@fiberix.com.tr（RIPE 公开） +90 342 215 16 93〔https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 ISP（AS205768），全光汇聚对位（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -291,12 +290,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 48）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

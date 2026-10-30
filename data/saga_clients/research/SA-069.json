@@ -61,8 +61,8 @@
    "source": "用户 Clients 表 + 官网"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n5 次回复 + WA + 老合作关系线索；品类从视频光端机向 IP/PoE 迁移是其天然需求。俄罗斯收款路径需核。P1：STI-110GE 介质转换器 + STC-28DGGPM 商用 PoE（分销 20%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -224,5 +224,28 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R0",
+  "evidence": " ‖ 表 2024.4.16: 发了5 8 16电口→ok"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）"
+  }
+ ]
 }

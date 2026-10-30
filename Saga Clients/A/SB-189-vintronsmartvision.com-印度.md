@@ -8,7 +8,7 @@
 code: SB-189
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 score: 52
 country: 印度
 region: 南亚
@@ -26,13 +26,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。（调研 2026-10-21；表内兴趣：PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（E；2026-02→2026-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源；Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-16 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-16；Simon 实报就是 $65）；2025-06-10 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-10；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 3 轮 2025-09-27→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Vadim — the two test units we priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?
@@ -176,7 +176,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Varun Gupta（）varun@vintronsmartvision.com 〔用户表〕
 - **KP**：Raj Kumar Gupta（上市关联体董事长（家族长；上市体 2025-12 更名 Reganto Enterprises Ltd 并转向建筑 / 航空 = 安防业务已沉到私营体）—— 不联系（第 91 批 官方登记核实 2026-10-27）） 〔https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（E；2026-02→2026-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -383,12 +383,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 52）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,6 +12,7 @@ code: SA-031
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Trường Sơn Solutions Co., Ltd.（Công ty TNHH Giải pháp và Xây lắp Trường Sơn, HCMC, Vietnam）"
 score: 67
 country: 越南
@@ -30,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 6
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：胡志明市的工业交换机专营分销商（2019 年注册，登记员工 5 人；另有河内办公室），分销 ONV 工业 PoE 交换机、Advantech EKI、韩国 GTWave（主打 Non-China/NDAA）、三星/HUNT 摄像机；域名 switchcongnghiep = 「工业交换机」。用户表：A 已回复 1 次，17 次跟进；兴趣 OEM/ODM、MC/FS/机架/工业 FS、ONV 全线引进；多家 AI 评 30%–80%。（调研 2026-10-21；表内兴趣：OEM/ODM；MC FS 机架 工业FS 很多牌子的 销售平台；商业POE 工业FS等；ONV产品的全线引进；MaiWe）
-- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2026-07））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-05-10 → 2025-12-15）；最近一次客户回复：2025-12-15：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STH-8C24DX-HSI / STH-2C24XE-HSI（2026-07 报价 2,200 / 1,700 USD） — J5：只问项目，不发 PoE。已打开的主题（5/29 封有打开记录）：「Re: Marvell Industrial Alert System」(2025-12-19)、「Updated Ethernet Switches Links」(2026-02-16)、「Re: Saga Q3 Product Links」(2026-07-15)、「Saga Q3 Product Links」(2026-07-15) → 读者兴趣偏「工业」；与 P1 同类，继续 最近一封去信是 2026-09-24 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：DIN Power Adapter(2024-08-06)、Download Link_Alan(2025-12-19)、Product Link_2026Q2(2026-02-16)、Saga Feature List_7.5.x_L2+(2026-06-24)、Product Link_2026Q3(2026-07-15)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；按 CENTEC ≥35% 底线复核；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-13 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-04 $65（10G Media Converter）、2025-08-11 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Did the July RFQ (2× 24×10G/25G + 2× 24×10GBASE-T) close with another vendor, or is it still open?
@@ -164,6 +165,7 @@ updated: 2026-10-29
   > IPS31004PF Switch PoE công nghiệp 4 Port 4,159,500₫ … 4 Port RJ45 tốc độ 10/100M … 1 Port Uplink quang SC
   > 来源：https://truongsonsolutions.vn/san-pham/ips31004pf-switch-poe-cong-nghiep-4-cong-1-sfp/（抓取 2020-06-23）
 - **KP**：—（总机/销售（官网））info@truongsonsolutions.com +84 909 490 007〔https://truongsonsolutions.vn/lien-he/〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2026-07）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放），但规模小（5 人）；P1 = STI-288DGGPM 对位 ONV IPS33xx 系列，20% 分销档；注意它同时在推 Non-China 线，报价不提产地。
 
@@ -397,12 +399,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 A，分数 67）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 6 行原始记录归并；自动评级 A，分数 67）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -56,8 +56,8 @@
    "role": "收件箱（回信署名 Bayar；2025-11 点名「需要 16 port 的」，欠答）= 收件人 — 一页纸：分销 20% B、STC-2216GP $63–76 / 16 口管理版 按主表 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在售品牌不点名 — 蒙古常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 乌兰巴托（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "B",
- "override_reason": "蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -327,5 +327,28 @@
   "url": "https://topica.mn/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-10-30] Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar ‖ 表 2025.11.6: 24PoE→需要16 port的 ‖ 研 2025-10-30 A.Bayar（Topica LLC）: May we have your price list, MOQ , Warranty information?"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）"
+  }
+ ]
 }

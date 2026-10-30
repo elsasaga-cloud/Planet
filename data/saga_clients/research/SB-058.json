@@ -52,8 +52,8 @@
    "source": "http://www.sabmar.tv/"
   }
  ],
- "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·HDMI 光端机样品（波兰）",
  "notes": "若其视频项目需 PoE 交换机再报；不主动投入。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -162,6 +162,27 @@
    "to": "A",
    "prev_reason": "成交品类为 HDMI 光端机（Saga 三供应商不覆盖），交换机需求未见；成交记录使其不降 C，B 待机。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·HDMI 光端机样品（波兰）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "老成单·品类/年代不符·HDMI 光端机样品（波兰）",
+  "excl": "",
+  "deal": "老成单·品类/年代不符·HDMI 光端机样品（波兰）",
+  "reply_class": "none",
+  "evidence": ""
+ }
 }

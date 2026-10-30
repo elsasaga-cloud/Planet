@@ -1,0 +1,116 @@
+{
+ "code": "SC-190",
+ "name_official": "Crontr Technology",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "厄瓜多尔客户（cronte.net）：AB-FINAL-01 以回信证据建档——真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "NEW SUPPLYER｜Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet ",
+   "quote": "NEW SUPPLYER｜Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term business. Please send me your catalog and a price list with the MOQ that includes the best-selling products in Latin America. We are looking for a manu",
+   "url": "19727cfcb1e984cb",
+   "date": "2025-05-31"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: NEW SUPPLYER｜Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s)",
+   "quote": "Re: NEW SUPPLYER｜Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Telecom ( e.sagatelecom@gmail.com) escribió:",
+   "url": "197367f9a4935b24",
+   "date": "2025-06-03"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la",
+   "quote": "Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras ( depcomprascronte@gmail.com) escribió:",
+   "url": "19a991c7310d4c44",
+   "date": "2025-11-18"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-01 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2025-05-31",
+    "dir": "来",
+    "who": "depcompras@cronte.net",
+    "quote": "NEW SUPPLYER｜Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term business. Please send me your catalog and a price list with the MOQ that includes the best-selling products in Latin America. We are looking for a manu",
+    "why": "Elsa 邮箱 真人来信（pos）",
+    "k": "19727cfcb1e984cb"
+   },
+   {
+    "date": "2025-06-03",
+    "dir": "来",
+    "who": "depcomprascronte@gmail.com",
+    "quote": "Re: NEW SUPPLYER｜Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Telecom ( e.sagatelecom@gmail.com) escribió:",
+    "why": "Elsa 邮箱 真人来信（pos）",
+    "k": "197367f9a4935b24"
+   },
+   {
+    "date": "2025-11-18",
+    "dir": "来",
+    "who": "depcomprascronte@gmail.com",
+    "quote": "Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras ( depcomprascronte@gmail.com) escribió:",
+    "why": "Elsa 邮箱 真人来信（thin）",
+    "k": "19a991c7310d4c44"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-01 建档"
+  },
+  "situation": "厄瓜多尔；2025-11-18 最后一次来信/回复：Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, ple",
+  "need": "[E 2025-06-03] Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10  ‖ [E 2025-11-18] Hi, I just wrote ",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-06-03] Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10  ‖ [E 2025-11-18] Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）"
+}

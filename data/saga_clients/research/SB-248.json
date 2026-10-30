@@ -54,7 +54,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -189,6 +189,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）"
   }
  ],
  "snap_thicken": {
@@ -220,5 +228,18 @@
   "url": "https://nellyssecurity.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "auto",
+  "evidence": " ‖ 研 2024-06-04 customerservice@nellyssecurity.com: How would you rate the support you received here at Nelly's?｜##- Please type you / 2024-07-08 customerservice@nellyssecurity.com: How would you rate the support you received here at Nelly's?｜##- Please type you"
  }
 }

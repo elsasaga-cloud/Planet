@@ -49,8 +49,8 @@
    "role": "General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "B",
- "override_reason": "在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -167,5 +167,28 @@
   "url": "https://avanca.com.sg/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-11-06] Pls confirm it is industrial grade? Get Outlook for iOS<https://aka.ms/o0ukef> ‖ [S 2024-11-06] Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23  ‖ 表 116: 群发10gmc→info"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "在售 Red Lion（高价美系工业线）本可做性价比替代，但 1 次回复后 10 次推送无果且已停滞 1 年 → 慢跟。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
+  }
+ ]
 }

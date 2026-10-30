@@ -211,5 +211,30 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-06-16] Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here i ‖ 表 2025.6.2: 22mini→DS ‖ 研 2025-06-16 Reyann Salazar Brosoto: Do you have datasheet for below industrial switch? And do you have any showroom  / 2025-06-16 reyann@alsalami.com: RE: Industrial PoE Switch｜Dear Mr. Alan,     Do you have datasheet for below ind"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）"
 }

@@ -26,8 +26,8 @@
    "role": "业主（小型 WISP）= 收件人 — 一页纸一次：集成商 25% B、2026-01 索样 → STI-154GP / STC-228GP 付费样机一口价 + 运费；PON 不供明说 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -216,6 +216,27 @@
    "to": "C",
    "prev_reason": "",
    "reason": "菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "A",
+   "prev_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：菲律宾小型 WISP（Joemar Baquiran）要 PON 产品 + 免费测试：PON 非 Saga 品类 + 微型 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2025-01-15] sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks ‖ 表 1.5: 群发了22mini→sample? ‖ 研 2025-01-15 joemar.baquiran@gmail.com: sir, can you possibly send me an item for testing? Looking forward to hearing fr"
+ }
 }

@@ -12,7 +12,7 @@ code: SB-043
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 
 name_official: "Euro Technology（阿布扎比，阿联酋）"
 score: 65
 country: 阿联酋
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。（调研 2026-10-21；表内兴趣：资料）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08））；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 41 次（2024-01-24 → 2025-12-30）；最近一次客户回复：2024-08-14：interested
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（按现价重算） — WA 季度一句话即可。已打开的主题（4/36 封有打开记录）：「10G fiber media converter」(2024-07-07)、「Re: 10G fiber media converter」(2024-07-08)、「Re: 10G fiber media converter」(2024-08-14)、「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-07 $65（10g fiber media converter）、2025-08-27 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
@@ -97,7 +97,7 @@ updated: 2026-10-29
 - `eurotechnology.ae` → Etisalat / du 邮箱（阿联酋）（MX：imailv.emirates.net.ae、imailv2.emirates.net.ae）。主机商附带邮箱（Etisalat / du 邮箱（阿联酋））：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `netontechnologies.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -166,7 +166,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（）info@eurotechnology.net（公开） +971 2 6417222 / +971 50 751 4160（WA）〔用户 Clients 表 + 官网〕
 - **KP**：M. Maarouf（表内具名邮箱（姓名职务待核；WA +971 50 751 4160 在线；41 次里回 4 次要资料）= 收件人 — 一页纸一次：集成商 25% B small、只给他要过的「资料」= CCTV PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM 一口价、付费样机、MOQ 1、DAP 阿布扎比、WA 发链接— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））m.maarouf@eurotechnology.ae 〔Clients 表邮箱（entities）〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 
@@ -397,12 +397,12 @@ Chandra, Simon from Saga Telecom. You asked the price of the 4-port DIN PoE in 2
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 65）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

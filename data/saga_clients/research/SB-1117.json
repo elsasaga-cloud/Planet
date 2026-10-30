@@ -61,7 +61,7 @@
   "why": "分销商 → 20% 档；走量口型 24 口 PoE"
  },
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·南非 Switchcom：网络设备分销商，两次把 Saga 当买家 → 需换话术（对位分销）",
  "mail_review": {
   "binding": {
    "level": "轻度触达（4 封：2 封 Switchcom 工单 + Kevin 2024-12 反向发来 Switchcom 报价单（把 Saga 当买家）+ elberts@firsttech 2024-08「cannot receive samples」；Elsa 箱：`to:switchcom.co.za` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 6 / 来 4）（第 74 批(n)））",
@@ -135,6 +135,14 @@
    "to": "A",
    "prev_reason": "有邮箱、是真实分销商、双向往来，但对话方向反了且无采购人 → B（低优先）",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·南非 Switchcom：网络设备分销商，两次把 Saga 当买家 → 需换话术（对位分销）"
   }
  ],
  "deep": {
@@ -178,5 +186,18 @@
   "url": "https://www.switchcom.co.za/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·南非 Switchcom：网络设备分销商，两次把 Saga 当买家 → 需换话术（对位分销）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 研 2024-12-12 Kevin Maphanga（Account Manager, Switchcom）: Please see the attached sales quote above on what we can offer and stock is avai"
  }
 }

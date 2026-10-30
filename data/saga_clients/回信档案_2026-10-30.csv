@@ -1,0 +1,638 @@
+﻿编号,公司,国家,现等级,PI标签,成交标记,真人来信,自动回复,pos,neg,表内回复,首次,最近,最后一句,软婉拒,回信结论,邮箱,最近三句
+SA-001,asteldigicom.com,阿联酋,A,可发展,是,14,0,15,0,2,2024-06-29,2025-12-01,pos,,R+,AS,"[A 2025-12-01 pos] Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have bee ‖ [S 2025-12-01 pos] Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you. ‖ [S 2025-12-01 pos] Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have bee"
+SA-002,simrex.com,美国,A,,,5,2,4,0,1,2024-12-04,2026-07-20,pos,,R+,S,"[S 2024-12-06 weak] Simon, I had an email outage one morning. Link to your company web page? Do you work for Saga Telecom? Can we use 56V with any of the products. This allows 40W  ‖ [S 2024-12-12 weak] Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP etc. Frank Frank Neuperger Simrex Corporation, www.s ‖ [S 2026-07-20 pos] Simon , we currently use Mikrotik. We like the scripting and the powerful features. Our value added is the custom scripting and product validity certificate. We"
+SA-003,Eyescan security Systems,塞浦路斯,A,,是,0,0,0,0,0,,,,,none,,
+SA-004,Boecek Sec,德国,A,,是,0,0,0,0,0,,,,,none,,
+SA-005,Taurus Vision,南非,A,,,0,0,2,0,3,,,pos,,R+,,
+SA-006,Vi-Link（vilinknet.com）,美国,A,可发展,是,11,0,9,0,3,2024-11-13,2025-05-09,pos,,R+,S,"[S 2024-11-21 weak] On 2024-11-21 04:47, Simon wrote: Hi Simon, They look good Attached is the Visio file for the logos Thu ‖ [S 2024-12-03 thin] On 2024-12-03 06:49, Simon wrote: It looks good - Thanks Thu ‖ [S 2025-05-09 pos] On 2025-03-27 08:00, Simon from Saga Telecom wrote: Hi Simon, Can you send me the full price list of your products? Thank you"
+SA-007,gogreenit.net,英国,A,可发展,是,16,1,7,1,1,2025-06-10,2026-04-27,thin,,R+,A,"[A 2026-01-25 thin] Hi Alan! Happy New Year to you too! ‖ [A 2026-03-19 pos] Hi Alan, Thanks for the reply. Ah, that's a shame. So, for the PoE issues: Last year PoE was working fine for all devices. The switch has been off for a couple  ‖ [A 2026-04-27 thin] Hi Alan!"
+SA-008,fiberone.de,德国,A,活跃,是,43,2,36,0,1,2024-11-15,2026-10-15,pos,,R+,S,"[S 2026-09-29 pos] Hello Simon, can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany. Please also share pa ‖ [S 2026-10-06 pos] Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darmstadt Tel.: +49 6151 ‖ [S 2026-10-15 pos] Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make "
+SA-009,coptek.com.tr,土耳其,A,,是,0,0,0,0,0,,,,,none,,
+SA-010,NEXTU EZ-NET,韩国,A,,,3,0,5,0,2,2025-02-21,2025-05-26,pos,是,R+,A,"[A 2025-02-21 pos] hi, than you for yr information. there is no uplink port and unmanaged? pls let me know a quotation for this model. thanks br roadman,kim Hi, Kim, How are you?  ‖ [A 2025-03-04 pos] hi. thank you for yr product information and quotation. as we checked yr spec and quotation, yr price is higher but yr spec is lower. 1. we think 16 port indust ‖ [A 2025-05-26 pos] Hi, thank you for yr product information. pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 ? and do you have un"
+SA-011,CXR,法国,A,,,1,0,2,0,1,2024-05-30,2024-05-30,pos,,R+,S,"[S 2024-05-30 pos] Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards"
+SA-012,widen.co.th,泰国,A,,是,0,0,0,0,0,,,,,none,,
+SA-013,alfa.com.tw,台湾,A,,,2,0,2,0,1,2024-08-15,2025-07-28,weak,,R+,S,"[S 2024-08-15 pos] Hello, Simon Please provide your company information. And what’s the price for non-PoE and PoE model. Thank you Johnson ALFA NETWORK Inc. Web: <https://urldefen ‖ [S 2025-07-28 weak] Thanks With Best Regards, SANDY CHIEN 誠釱科技股份有限公司 台北市114內湖區瑞光路106號4樓之1 TEL: (02)2796-8477 # 332 FAX: (02)2796-8478 Web: www.alfa.com.tw <https://apc01.safelinks."
+SA-014,impulsecctv.com,新加坡,B,,,1,0,2,0,1,2026-01-07,2026-01-07,pos,,R+,E,[E 2026-01-07 pos] pls share your company website and your address... 
+SA-015,megnet.co.uk,英国,A,,,3,1,4,0,1,2025-01-16,2025-12-01,pos,,R+,S,"[S 2025-01-16 pos] Hi, Can you please give me a compatible switch for the requirements below? Item 1 - Level 2 access switch 24 ports Gigabit PoE+ (10/100/1000 base T) + minimum 2 ‖ [S 2025-12-01 pos] Hi Simon, Its a commercial grade model. Attached the Data sheet for your reference. Thanks and Regards Nasim Chaudhari Operations Manager. [signatureImage] Our  ‖ [S 2025-12-01 pos] Hi Team, Please share your best price, lead time, and warranty details for the following unit: HT2500-PSE-BT60 – 60W PoE++ Single-Port Injector This will be a t"
+SA-016,BitBook LLC,俄罗斯,A,可发展,是,0,0,0,0,0,,,,,none,,
+SA-017,parallaxdigital.co.uk,英国,A,,,2,0,2,2,16,2024-06-03,2024-10-24,weak,,R+,S,[S 2024-06-03 neg] Hi there I have a large number of cisco 52 port gigabit layer 3 switches that cost me $124 each so will have to pass on your kind offer for now Jeff Jeff Ferrie ‖ [S 2024-10-24 weak] Simon Thanks for the info Customers usually want one or the other and not a combo We sell desktop and rack for both Jeff Jeff Ferrier Director [image] ………………………
+SA-018,Sewell,美国,A,,是,0,0,0,0,0,,,,,none,,
+SA-019,allnet.de,德国,A,,,1,2,1,1,1,2025-07-10,2025-07-10,neg,,R±,A,"[A 2025-07-10 neg] Hallo Alan, sorry we have our solution with SFP Slots and Managed Versions. Thanks Gerhard"
+SA-020,bitstream.pl,波兰,A,,,1,1,2,0,1,2025-01-30,2025-01-30,pos,,R+,A,"[A 2025-01-30 pos] What is the price? -- Pozdrawiam, *Katarzyna Surowiec*Asystentka Zarządu *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@bitstream.pl Mełgiews"
+SA-021,optiviewusa.com,美国,A,,,2,0,3,0,1,2024-10-29,2024-10-29,pos,,R+,S,"[S 2024-10-29 pos] Simon Also, provide us with the prices for both models Thank you! <https://optiviewusa.com/> ------------------------------ <https://facebook.com/OptiviewUSA/>  ‖ [S 2024-10-29 pos] Hi Simon, Thank you for your email offering an Industrial PoE Switch. Could you please send me the specifications (data sheet) for both the 4-port and 8-port ve"
+SA-022,Addon Computer Products,美国,A,,是,0,0,0,0,0,,,,,none,,
+SA-023,fcnet.pl,波兰,A,,,2,0,3,0,1,2025-04-18,2025-04-22,pos,,R+,A,[A 2025-04-18 pos] And the price is ? Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 | e-mail info@fcnet.pl NIP: 7542916466 | REGON:  ‖ [A 2025-04-22 pos] We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475
+SA-024,Cable Distribution Services,澳大利亚,B,,,0,0,0,0,0,,,,,none,,
+SA-025,Avenger Security（getsecurityalarm.com）,美国,A,,,0,0,2,0,2,,,pos,,R+,,
+SA-026,hardenednetworks.com,美国,A,,,8,0,8,1,3,2024-05-09,2025-04-28,pos,,R+,AS,"[S 2025-02-05 pos] Do you have any Broadcom based layer 3 switches ? ‖ [A 2025-03-03 weak] We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened Networks / ITS Express Switches and Advanced Imag ‖ [A 2025-04-28 pos] Do you have broadcom based solution?"
+SA-027,Al Salami Trading L.L.C,阿联酋,A,,,1,0,2,0,1,2025-06-16,2025-06-16,pos,,R+,A,"[A 2025-06-16 pos] Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best Regards, Reyann Salazar Brosoto Secu"
+SA-028,entasource.co.th,泰国,A,,,1,0,2,0,1,2025-06-16,2025-06-16,pos,,R+,A,[A 2025-06-16 pos] Good afternoon Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or not? Rack mount switch. Input 48 VDC If you have pl
+SA-029,gtwave.co.kr,韩国,A,,,1,0,2,0,1,2025-04-15,2025-04-15,pos,,R+,A,"[A 2025-04-15 pos] Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park"
+SA-031,Truong Son Solutions,越南,A,,,2,0,3,0,1,2025-12-19,2026-07-15,pos,,R+,A,"[A 2025-12-19 pos] Dear Sir, Pls share me your price list for OEM/ODM. *CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠNTrụ sở : **Phòng 702A, Lầu 7, Tòa nhà Centre Point, 106 Nguyễn  ‖ [A 2026-07-15 pos] dear, Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28 Best Regards, Vào Thứ 4, 15 thg 7, 2026 vào lúc 12:01 Alan from Sa"
+SA-032,sundartechno.com,印度,A,可发展,是,0,0,0,0,0,,,,,none,,
+SA-033,bluewarrior.com,美国,B,,,2,1,2,0,1,2024-05-28,2024-05-28,thin,,R+,S,[S 2024-05-28 pos] What is the price? ‖ [S 2024-05-28 thin] Picture and description do not match
+SA-034,rfog.pl,波兰,A,,,0,0,1,0,1,,,pos,,R+,,
+SA-035,td-fe.com,俄罗斯,A,,,16,0,12,2,6,2023-12-15,2025-01-03,pos,是,R+,S,"[S 2024-05-21 pos] Dear, Simon ! Thank you for your offer, but price is really high. We have a supplier with much better prices. With the best wishes, Alexander Rudnev Executive d ‖ [S 2024-12-12 pos] Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Alexander Rudnev Executive director of TH Faraday Ele ‖ [S 2025-01-03 pos] Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. www.td-fe.com <ht"
+SA-036,svn-video.ru,俄罗斯,A,,,1,0,2,0,1,2026-01-04,2026-01-04,pos,,R+,A,"[A 2026-01-04 pos] Hi, send me please your pricelists with POE switches and accessories"
+SA-037,aeconnect.co.in,印度,A,,,0,0,2,1,3,,,neg,,R±,,
+SA-038,dncsolutions.co.in,印度,A,,,0,0,0,0,1,,,weak,,Rw,,
+SA-039,mt-link.com,巴基斯坦,A,,,0,0,2,0,2,,,pos,,R+,,
+SA-040,success-network.co.th,泰国,B,,,1,0,0,0,1,2025-09-12,2025-09-12,thin,,R0,A,[A 2025-09-12 thin] Thanks for information
+SA-041,lightoptics.pl,波兰,A,,,0,0,0,0,3,,,thin,,R0,,
+SA-042,antronix.com,美国,A,,,6,0,5,0,1,2024-01-20,2025-08-11,thin,,R+,AS,"[A 2025-08-08 pos] Thanks.. I’d be interested in the pricing… Thanks Peter ‖ [A 2025-08-09 pos] Thank you. Yes, please send manual as well... ‖ [A 2025-08-11 thin] No worries. Thank you"
+SA-043,direktronik.se,瑞典,B,,,1,3,2,0,1,2025-11-11,2025-11-11,pos,,R+,A,"[A 2025-11-11 pos] Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. Therefore, we need to gather the nec"
+SA-044,dymec.com,美国,A,,,4,4,0,2,1,2024-07-30,2025-09-22,neg,,R±,AS,"[S 2024-08-23 thin] Thank you, I will let you know. ‖ [A 2025-05-28 weak] need a better description please... On Wed, May 28, 2025 at 1:21 PM Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote: ‖ [A 2025-09-22 neg] not our market...sorry On Mon, Sep 22, 2025 at 11:21 AM Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:"
+SA-045,energyplusystems.cl,智利,A,,,1,0,2,0,1,2024-09-27,2024-09-27,pos,,R+,S,[S 2024-09-27 pos] Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel +56992188218 El vie
+SA-046,ipcampower.com,美国,B,,,1,0,2,0,1,2025-08-21,2025-08-21,pos,,R+,A,"[A 2025-08-21 pos] Hello there, We require TAA Compliant and UL Listed switches. If you have this, please let me know. Thanks, Sean Nelson IPCAMPOWER.com <https://ipcampower.com/c"
+SA-047,sge.com.tr,土耳其,B,,,1,0,2,0,1,2025-12-01,2025-12-01,pos,,R+,A,[A 2025-12-01 pos] Can you send to me the price list of your products? İyi çalışmalar dilerim
+SA-048,ekhalas.com,沙特阿拉伯,A,,,0,10,1,0,1,,,pos,,R+,,
+SA-049,iotsistem.com,土耳其,A,,,21,0,17,1,0,2024-05-03,2026-09-17,pos,是,R+,AS,"[A 2026-08-21 thin] Hi Firend, You are exactly right ,Pls coudl you help to provide Reliable cheaper one? Thank you Berk B.R ‖ [A 2026-09-02 pos] Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R ‖ [A 2026-09-17 pos] Hi Friend, good day, Could you tell me to price and datasheet? Thank you, Very Best Regards, Iot Team"
+SA-050,impakt.com.pl,波兰,A,,,2,0,3,0,1,2025-09-29,2025-10-03,pos,是,R+,A,"[A 2025-09-29 pos] Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marvell based industrial PoE switch for you. Port: 2*G ‖ [A 2025-10-03 pos] [cid:image001.png@01DC3465.BD049E50] We looking for devices like this &#128521; with CE power supply Prices ? MOQ ? Best regards, Łukasz Gąsiewicz PRODUCT DEVEL"
+SA-051,Tecpro Solutions,阿联酋,A,,,0,0,3,0,4,,,pos,,R+,,
+SA-052,bsn-system.com,印度尼西亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SA-053,infrateq.id,印度尼西亚,A,,,2,0,3,0,6,2024-07-04,2024-07-04,pos,,R+,S,"[S 2024-07-04 thin] Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing problems with my main email. Thanks. ‖ [S 2024-07-04 pos] Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divatel.co.id. Thanks & Best Regards, Ism"
+SA-054,softnetworks.net,美国,A,,,2,0,3,0,1,2025-04-29,2025-05-13,pos,,R+,E,[E 2025-04-29 pos] I never buy Unmanaged.  ‖ [E 2025-05-13 pos] What is the price for this one? Thank you. Neal Cennamo Softnetworks.net 201-688-3750 
+SA-057,Born SPb LLC,俄罗斯,A,,,0,0,0,1,5,,,weak,,Rw,,
+SA-058,alphanetcom.com,美国,A,,,4,0,5,0,1,2024-08-24,2025-09-26,pos,,R+,AS,"[A 2025-04-04 pos] Hi Alan, Thanks for the email today and I’ve been staying busy with my projects in San Antonio. I like the Managed Switch below, but I’m looking for a 10 Gig Et ‖ [A 2025-04-07 pos] Yes that is correct. Do you have any product like this? Thanks ‖ [A 2025-09-26 pos] Hi Alan, How much do they cost? Regards, Nate"
+SA-059,data-connect.com,美国,A,,,1,0,2,0,1,2024-08-24,2024-08-24,pos,,R+,S,"[S 2024-08-24 pos] Hi Simon, Yes, I would like to learn more about your 10G media converter. Can you send me a price list and I want to ask if I can buy from you in Large Order an"
+SA-060,gofiberx.com,美国,A,,,5,0,4,0,1,2025-01-03,2026-06-08,pos,,R+,AS,"[S 2025-01-03 pos] Hi, Couple of questions to you. Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v? [cid:image001.png@01 ‖ [A 2026-06-05 thin] Support MPLS with H3C? [cid:image001.png@01DCF4E6.42B89240] ‖ [A 2026-06-08 pos] Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F50]"
+SA-061,RYMTECH EAS,巴拉圭,A,,,0,0,2,0,3,,,pos,,R+,,
+SA-062,ipns-uae.com,阿联酋,A,,,0,1,0,0,0,,,,,auto,,
+SA-063,Areca Embedded Systems Pvt Ltd,印度,A,,,0,0,3,0,6,,,pos,,R+,,
+SA-064,optat.ru,俄罗斯,A,,,0,0,17,0,18,,,pos,,R+,,
+SA-066,ccs-msk.ru,俄罗斯,B,,,1,0,1,0,1,2026-01-26,2026-01-26,pos,,R+,E,"[E 2026-01-26 pos] Hello! Can you provide Brocade switches? Best regards, Pavel Karpov +7-495-926-86-95 <mailto:pkarpov@ccs-msk.ru> pkarpov@ccs-msk.ru <http://www.ccs-msk.ru/> <ht"
+SA-067,"Latmedia Group, LLC",乌兹别克斯坦,A,,,6,1,4,0,0,2025-07-24,2025-11-24,pos,是,R+,A,"[A 2025-09-16 thin] Dear Alan, I sent it to my CTO. We will back soon with response. ---------------------------- Best Regards Vladimir Xe Co-founder Latmedia Group, LLC Mobile Pho ‖ [A 2025-10-10 pos] Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget for investors. Could you please share Joey’s contact ‖ [A 2025-11-24 pos] Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) ---------------------------- Best Regards Vladimir Xe Co-fo"
+SA-068,Pt.ras otomasi indonesia,印度尼西亚,A,,,0,0,4,0,7,,,pos,,R+,,
+SA-069,bptehno.ru,俄罗斯,A,,,0,0,0,0,5,,,thin,,R0,,
+SA-071,surlink-tech.com,玻利维亚,B,,,1,0,1,0,1,2025-07-02,2025-07-02,pos,,R+,E,[E 2025-07-02 pos] Dear friend Can you please let me know: * Switch 10 100 non manageable poe * Switch 10 100 100 non manageable poe 5 ports 8 ports 16 ports 24 ports Must be with
+SA-073,vicomsecurity.com,印度,B,,,0,0,0,2,2,,,neg,,R-,,
+SA-074,Elite Team Security Ltd,保加利亚,B,,,2,0,3,0,1,2025-12-04,2025-12-17,pos,,R+,A,"[A 2025-12-04 pos] *Hi,* Thank you for your message and the detailed overview. We are definitely interested in exploring your Marvell AC3 and AC5 solutions, especially considering ‖ [A 2025-12-17 pos] *Hi,* Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply, but overall, the prices are rather high. Best r"
+SA-077,Angora Networks,土耳其,A,活跃,是,0,0,0,0,0,,,,,none,,
+SA-078,James Clendenan Systems Ltd.,加拿大,A,活跃,是,0,0,0,0,0,,,,,none,,
+SA-079,Biz-Ethics Ltd.（BEL Networks）,尼日利亚,A,活跃,是,0,0,0,0,0,,,,,none,,
+SA-080,"PBA Forever Technology Co., Ltd.",泰国,A,活跃,是,0,0,0,0,0,,,,,none,,
+SA-086,netas.com.tr,土耳其,A,活跃,是,35,0,30,1,0,2025-10-13,2026-08-12,pos,,R+,A,"[A 2026-05-05 pos] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının ‖ [A 2026-08-12 pos] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının ‖ [A 2026-08-12 pos] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının"
+SA-090,WizardsInc Sdn Bhd,马来西亚,A,可发展,是,0,0,0,0,0,,,,,none,,
+SB-001,resonantnetworks.com,新加坡,B,gg,是,36,0,22,2,3,2024-07-02,2026-06-22,weak,是,R+,S,"[S 2025-07-28 pos] Hello Simon, I hope you had a good weekend. Following our meeting last week, the customer expressed concerns about our pricing being slightly on the high side.  ‖ [S 2025-11-11 pos] Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you). We can fight them at all. Best regards ‖ [S 2026-06-22 weak] Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantnetworks"
+SB-002,Xspec Technology Sdn Bhd,马来西亚,B,gg,是,4,0,5,0,2,2024-06-14,2024-06-18,pos,,R+,S,"[S 2024-06-14 pos] Hi Simon I am looking for PASSIVE POE 24 port Switch. Do you have ? Regards ‖ [S 2024-06-18 pos] Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simon wrote: ‖ [S 2024-06-18 pos] Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 476"
+SB-003,Rio-Import LLC（ООО «РИО-ИМПОРТ»）,俄罗斯,B,gg,是,0,0,1,0,2,,,weak,,R+,,
+SB-004,fhn-na.com,美国,A,,,0,0,0,0,1,,,weak,,Rw,,
+SB-005,rovez.sk,斯洛伐克,A,,是,0,0,0,0,0,,,,,none,,
+SB-006,unitedcontrolengg.com,印度,B,gg,是,0,0,1,0,3,,,pos,,R+,,
+SB-007,LLC DEUTSCHE IMPORT,乌克兰,C,,,0,0,2,0,3,,,pos,,R+,,
+SB-008,Abdulaziz Al Jowasem,沙特阿拉伯,B,,是,0,0,1,2,3,,,neg,,R±,,
+SB-009,sicurmax.com,意大利,A,,是,0,0,0,0,0,,,,,none,,
+SB-010,americanfibertek.com,美国,A,,,1,0,2,0,1,2024-11-22,2024-11-22,pos,,R+,S,[S 2024-11-22 pos] Do you have it in PoE++ as well? Send pricing for both.
+SB-011,greentechme.net,阿联酋,A,,是,0,0,0,0,0,,,,,none,,
+SB-012,xcam.cz,捷克,B,,是,0,0,0,0,0,,,,,none,,
+SB-013,synchcom.com.pk,巴基斯坦,A,,是,0,0,0,0,0,,,,,none,,
+SB-014,"ITS, S.L.-S.B.T.",西班牙,B,,是,0,0,0,0,0,,,,,none,,
+SB-015,suministros-industriales.es,西班牙,A,,,0,0,0,0,1,,,weak,,Rw,,
+SB-016,Richard Jackson,坦桑尼亚,C,,,0,0,1,0,1,,,pos,,R+,,
+SB-017,Securitytec,英国,A,,是,0,0,0,0,0,,,,,none,,
+SB-018,Smart-Protect,德国,B,,,2,1,3,0,1,2025-05-13,2025-06-10,pos,,R+,A,"[A 2025-05-13 pos] Hi thank you for you‘re offer We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our quality standard we  ‖ [A 2025-06-10 pos] Hello , Are the switches manageable ? Mit freundlichen Grüßen [图:image001.jpg] [图:image002.png] +49 2153 909 77 40 | +49 177 322 42 15 [图:image003.png] invoice@"
+SB-020,52networks.com,美国,B,gg,是,14,0,8,0,0,2025-07-11,2025-07-24,thin,,R+,A,"[A 2025-07-23 weak] some time yes, it depends *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networks.com <leo.marcus@52networks.com>* *Direct: +(1) ‖ [A 2025-07-23 weak] Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networks.com <le ‖ [A 2025-07-24 thin] Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:"
+SB-021,LOOP TELECOM,法国,B,,,2,0,2,1,1,2025-11-28,2025-12-04,neg,,R±,A,"[A 2025-11-28 pos] Hi Alan, Do you mean that you can power feed the switch at 12V and this support PoE? Pleas send me your brochure. Thanks Best regards/Cordialement Eric PIAGET V ‖ [A 2025-12-04 neg] Hi Alan, No need now, just for information . Thanks Best regards/Cordialement Eric PIAGET V.P. Marketing Sales EMEA & India LOOP TELECOM Mobile +33(0)6 67 67 10"
+SB-023,itk.co.th,泰国,B,,是,0,0,0,0,0,,,,,none,,
+SB-028,fibotelecom.ru,俄罗斯,B,,是,0,0,0,0,0,,,,,none,,
+SB-029,"ETRADINGKOREA Co., Ltd",韩国,B,,,1,0,1,0,1,2025-06-30,2025-06-30,thin,,R+,A,"[A 2025-06-30 thin] Hi, How are you? Can I see your web site? (주)이트레이딩코리아 대표이사 우성영 (010-6215-7314 드림"
+SB-030,Medias-Com'S,瑞士,B,,是,0,0,0,0,0,,,,,none,,
+SB-031,OM Telecom S.R.L.,秘鲁,B,,,0,0,2,0,2,,,pos,,R+,,
+SB-032,PIOLINK,韩国,B,,,1,0,1,0,1,2025-02-18,2025-02-18,thin,,R+,A,"[A 2025-02-18 thin] Hi Alan, Thank you for your email. Could we talk via WeChat? My WeChat account is ""jayden092"" Best Regards, Jayden 2025년 2월 18일 (화) 오전 10:01, Alan from Saga Tel"
+SB-033,Marvel ITCS Bahrain,巴林,B,,,0,0,0,0,2,,,thin,,R0,,
+SB-034,TJ Computer,泰国,B,,,2,0,1,0,1,2025-03-18,2025-05-14,thin,,R+,A,"[A 2025-03-18 pos] interested ในวันที่ อ. 18 มี.ค. 2025 10:00 Alan from Saga Telecom < a.sagatelecom@gmail.com> เขียนว่า: ‖ [A 2025-05-14 thin] ราคาเท่าไหร่? ขอบคุณครับ ขอแสดงความนับถือ พงศ์นันท์ รื่นบุญ (ปีเตอร์) มือถือ : 08-0069-1918, 06-2217-9229 E-mail : tjcomputercctv@tj2003.net <tjcomputercctv@tj2"
+SB-035,Thimphu Techpark,不丹,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-037,pulsar.kz,哈萨克斯坦,B,,是,0,0,0,0,0,,,,,none,,
+SB-038,tricomp.com.pl,波兰,A,,,0,0,1,7,9,,,pos,,R+,,
+SB-039,zelax.ru,俄罗斯,B,,是,0,0,0,0,0,,,,,none,,
+SB-040,4Demand Co,英国,A,,,0,0,1,0,1,,,pos,,R+,,
+SB-042,regalsecurity.co.za,南非,B,,,0,15,0,0,0,,,,,auto,,
+SB-043,Euro Technology,阿联酋,A,,,2,0,2,0,4,2024-07-07,2024-08-14,thin,,R+,S,"[S 2024-07-07 pos] Yes, interested *Thanks and Regards,* *[image: https://docs.google.com/uc?export=download&id=1pbWl-BfC7hF5q-TeztXf-CpKu0e3Cjk3&revid=0B_t9uW74DQTMM0p2UldHVk1HTD ‖ [S 2024-08-14 thin] hi Whats the pricing."
+SB-044,Win-Tech Alliance Ltd,印度,B,,,0,0,1,2,3,,,pos,,R+,,
+SB-045,advancedigital.co.in,印度,B,,,0,0,1,2,5,,,thin,,R+,,
+SB-046,domoticalia.es,西班牙,B,,是,0,0,0,0,0,,,,,none,,
+SB-047,topica.mn,蒙古国,B,,,1,0,2,0,1,2025-10-30,2025-10-30,pos,,R+,E,"[E 2025-10-30 pos] Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar Topica LLC Chingeltei district 1-r khoroo, Buildi"
+SB-048,Almaks Security SystemsGospodara,塞尔维亚,B,,是,0,0,0,0,0,,,,,none,,
+SB-049,MULTILINK (PVT) LTD,津巴布韦,B,,是,0,0,0,0,0,,,,,none,,
+SB-050,PT. ANUGERAH,印度尼西亚,B,,是,0,0,0,0,0,,,,,none,,
+SB-051,Prestige Satellites Communications S.A.C.,美国,B,,是,0,0,0,0,0,,,,,none,,
+SB-052,excellent data communications,马来西亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-053,onnettechnologies.com,阿联酋,A,,,5,0,3,2,1,2025-04-25,2026-08-10,neg,,R±,A,"[A 2025-04-25 pos] Currently we use 4 Models 4G PoE Ethernet ( BT -60 W) + 2 SFP port managed 8G PoE Ethernet ( AT -30 W) + 2 SFP port managed 8G PoE Ethernet ( AT -30 W) + 4 SFP  ‖ [A 2026-07-15 pos] Hi Please share datasheets and prices for 4-8-16 ports industrial switch 1. L2 and l3 2. 30W PoE 3. BT PoE 4. With booster PoE ( 10-48 V in and POE 30 W out ) R ‖ [A 2026-08-10 neg] Hi Alan, We only use below configurations 1. 4 POE +2 Uplink with Booster ( 10-30 V DC In PoE Out ) 2. 4G PoE + 2 /1 Gig Uplink + 1/2 SFP Uplink with watch dog "
+SB-054,testronix.ph,菲律宾,B,,是,0,0,0,0,0,,,,,none,,
+SB-055,DIOS ULTRA HD VIDEO SECURITY SYSTEMS,荷兰,B,,,2,0,3,0,1,2025-03-05,2025-03-05,pos,,R+,A,"[A 2025-03-05 pos] Dear Alan, thank u, where can i find prices? Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-industries.com 06-46853228 DI ‖ [A 2025-03-05 pos] Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-industries.com 06-46853228"
+SB-056,Net Work Business Solutions,爱沙尼亚,B,,,0,0,1,0,3,,,weak,,R+,,
+SB-057,Rfcom,希腊,B,,,0,0,1,0,3,,,weak,,R+,,
+SB-058,SABMARtv,波兰,A,,是,0,0,0,0,0,,,,,none,,
+SB-059,avanca.com.sg,新加坡,B,,,2,0,2,0,1,2024-11-06,2024-11-06,pos,,R+,S,"[S 2024-11-06 weak] Pls confirm it is industrial grade? Get Outlook for iOS<https://aka.ms/o0ukef> ‖ [S 2024-11-06 pos] Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, Singapore 536209 Te"
+SB-060,bargas.ru,俄罗斯,B,,,1,0,1,0,1,2024-12-18,2024-12-18,pos,,R+,S,"[S 2024-12-18 pos] Hello! How yes this is kruto ---------------- Кому: info@donvision.ru (info@donvision.ru); Тема: Mini Industrial PoE Switch; 18.12.2024, 12:00, ""Simon"" <s.sagat"
+SB-061,megatelindustries.com,美国,B,,,1,0,1,0,0,2024-11-26,2024-11-26,pos,,R+,S,"[S 2024-11-26 pos] Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries Corp. 664 Wagner Court North Wales, PA 19454, USA T"
+SB-062,Aarya ITES Pvt. Ltd.,印度,B,,,0,0,2,0,2,,,pos,,R+,,
+SB-064,amitytechnologies.co.in,印度,B,,是,0,0,0,0,0,,,,,none,,
+SB-065,ayk.com.pk,巴基斯坦,B,,是,0,0,0,0,0,,,,,none,,
+SB-066,comtec.com.vn,越南,B,,是,0,0,0,0,0,,,,,none,,
+SB-067,crec.com.ph,菲律宾,B,,是,0,0,0,0,0,,,,,none,,
+SB-068,ict-integrators.com,巴基斯坦,B,,是,0,0,0,0,0,,,,,none,,
+SB-069,mutexsystemsltd.com,巴基斯坦,A,,是,0,0,0,0,0,,,,,none,,
+SB-070,neowine,韩国,C,,,1,0,2,0,1,2025-01-31,2025-01-31,pos,,R+,S,"[S 2025-01-31 pos] ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성:"
+SB-071,nkstech.net,菲律宾,A,,是,1,0,1,0,0,2024-11-06,2024-11-06,pos,,R+,S,"[S 2024-11-06 pos] Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, Singapore 536209 Te"
+SB-072,technosys.co.in,印度,B,,是,0,0,0,0,0,,,,,none,,
+SB-080,cyber-tec.net,伊拉克,C,,,0,0,1,0,1,,,pos,,R+,,
+SB-083,"MERIT LILIN ENT. CO., LTD.",台湾,A,,,1,0,1,0,2,2025-02-20,2025-02-20,thin,,R+,A,"[A 2025-02-20 thin] Hi, May I ask which country you are from? I will forward this to the responsible sales representative. Alan from Saga Telecom 於 2025.02.20 14:30 寫到："
+SB-084,"AD-NET TECHNOLOGY CO., LTD.",台湾,A,,,1,0,1,0,1,2025-09-17,2025-09-17,pos,,R+,A,"[A 2025-09-17 pos] Hi Alan, Thanks for your email. Do you have M12 type switch for railway system ? If yes, we need 16-Port Industrial M12 Gigabit (16*10/100/1000Tx M12 Connectors"
+SB-085,DIGI Group,美国,A,,,3,0,5,0,2,2025-06-26,2025-11-28,pos,,R+,S,"[S 2025-06-26 pos] Hello Simon, Thank you for your informations . We might be interesting to OEM those switches and add them to our offer and catalog. Could you please email me be ‖ [S 2025-06-28 pos] We species with video over IP , we must have IGMP protocol, it is mandatory. Do you have any products which supports it ? If so please send me the info and data ‖ [S 2025-11-28 pos] Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@gmail.com> "
+SB-086,TAILYN,台湾,A,,,4,0,3,0,1,2025-07-10,2026-08-11,pos,,R+,A,"[A 2025-07-10 pos] Hi Alan, Could you mail us the details of Marvell Industrial Alert System? Best regards, Gary [cid:image001.png@01DBF1A3.E0233A90] T +886-3-3222201 # 6501 F +88 ‖ [A 2026-04-02 weak] Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC2A7.356B3E60] T +886-3-3222201 # 6501 F +886-3-3222563  ‖ [A 2026-08-11 pos] Thanks Alan and I don’t have requirement so far. Best Regards, Gary"
+SB-087,ASSMANN ASIA,台湾,B,,,1,0,1,0,1,2025-12-15,2025-12-15,pos,,R+,A,"[A 2025-12-15 pos] Dear Alan, Do you offer Input and Output devices also? Or only Industrial switch Please send me more product information. i.A. Kent Wang Team Manager | Product "
+SB-088,EDIMAX,台湾,B,,,2,0,2,0,1,2025-07-09,2025-07-09,pos,,R+,A,"[A 2025-07-09 thin] Hi Alan, Thanks for your information. We will study your list and feedback to you soon. Regards, Jesse Chen ‖ [A 2025-07-09 pos] Hi Alan, Can you send product catalogue and price list for my reference ? Regards, Jesse Chen"
+SB-089,"Winsonic Electronics Co., Ltd.",台湾,B,,,2,0,3,0,1,2025-03-19,2025-11-24,pos,,R+,A,"[A 2025-03-19 pos] Dear Alan, Yes, I am insterested in the Marvell solution. We are doing networking Switch, Router and Gateway. Except Marvell, could you do Qualcomm, MTK or Real ‖ [A 2025-11-24 pos] Dear Alan, Coule you provide detial spec and price list? Best Regards., Rex Lin Winsonic Electronics Co., Ltd. www.ewinsonic.com<http://www.ewinsonic.com>"
+SB-093,konakguvenlik.com.tr,土耳其,B,,,1,0,1,0,0,2024-06-26,2024-06-26,pos,,R+,S,"[S 2024-06-26 pos] Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21, 14 Haziran 2024, S"
+SB-1019,connectixcablingsystems.com,英国,B,,,0,1,0,0,0,,,,,auto,,
+SB-102,Denso Electronics Ltd,赞比亚,B,,,0,0,0,0,2,,,thin,,R0,,
+SB-1025,elfon.com.pl,波兰,B,,,0,1,0,0,0,,,,,auto,,
+SB-1026,epygi.com,美国,B,,,2,4,2,0,0,2024-12-04,2024-12-05,pos,,R+,S,"[S 2024-12-04 pos] Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If so, what operating system? What is m ‖ [S 2024-12-05 pos] Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fank Frank Neuperger S"
+SB-103,Grundig,德国,A,,,0,1,0,0,0,,,,,auto,,
+SB-1030,fibertronics.com,美国,B,,,0,1,0,0,0,,,,,auto,,
+SB-104,STS Italia S.r.l.,意大利,B,,,1,0,2,0,1,2024-11-20,2024-11-20,pos,,R+,S,[S 2024-11-20 pos] €..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni contenute in questo messaggio sono strettamente riser
+SB-1047,kamsys.pl,波兰,B,,,1,0,0,0,0,2025-10-05,2025-10-05,weak,,Rw,S,"[S 2025-10-05 weak] Dzień dobry, Do 24 lipca przebywam na urlopie. W pilnych sprawach proszę o kontakt pod adresem piotr@kamsys.pl <mailto:piotr@kamsys.pl> . Wiadomość nie została "
+SB-1052,lan.hu,匈牙利,B,,,0,1,0,0,0,,,,,auto,,
+SB-1054,luxritesecurity.com,英国,A,,,0,2,0,0,0,,,,,auto,,
+SB-1062,odoo.com,卡塔尔,B,,,0,12,0,0,0,,,,,auto,,
+SB-1070,safeguard.se,瑞典,B,,,0,2,0,0,0,,,,,auto,,
+SB-109,ite.net.pk,巴基斯坦,B,,,3,0,4,0,1,2025-04-09,2025-04-09,pos,,R+,E,[E 2025-04-09 pos] Required Specifications: Routing Capabilities: * IP SLA (Service Level Agreement Monitoring) * GRE Tunneling * PPPoE (Point-to-Point Protocol over Ethernet) * B ‖ [E 2025-04-09 pos] Pls share any reference Sent from my iPhone ‖ [E 2025-04-09 pos] Hi Do you have Routers with 1GE and 4 FE ports Sent from my iPhone
+SB-1097,yatun.cz,捷克,B,,,0,1,0,0,0,,,,,auto,,
+SB-110,itkati.com,乌干达,A,,,0,0,3,0,3,,,pos,,R+,,
+SB-1100,IT Broadcast & Cyber Security Infra System,印度尼西亚,B,,,0,1,0,0,2,,,thin,,Rw,,
+SB-1101,powerlogic1965@gmail.com,巴基斯坦,C,,,1,1,2,0,1,2024-05-24,2024-05-24,pos,,R+,S,[S 2024-05-24 pos] hello good morning thankyou for the email . please send me your website i want to see what product you are making very best regard waseem zafar
+SB-1102,vienthonggiatot.com,越南,B,,,1,0,2,0,1,2024-11-03,2024-11-03,pos,,R+,S,"[S 2024-11-03 pos] What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:"
+SB-1103,ara.com.bd,孟加拉国,A,,,0,0,0,0,1,,,thin,,R0,,
+SB-1104,Agility Elektrotekniks Pvt Ltd,印度,B,,,0,0,1,0,2,,,thin,,R+,,
+SB-1105,Suraj Katte,印度,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-1106,Ruhan Farook,印度,C,,,0,0,1,0,1,,,pos,,R+,,
+SB-1107,Surya Namberdar,印度,C,,,0,0,1,0,1,,,pos,,R+,,
+SB-1108,Sunmars Enterprises,巴基斯坦,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-1109,mulugetawendosen@gmail.com,埃塞俄比亚,B,,,0,0,0,0,0,,,,,none,,
+SB-111,nivoxtech.com,印度,A,,,0,0,2,1,3,,,pos,,R+,,
+SB-1110,amineachoura21@gmail.com,阿尔及利亚,C,,,0,0,1,0,1,,,pos,,R+,,
+SB-1111,（未具名）,西班牙,C,,,0,0,0,0,1,,,thin,,R0,,
+SB-1112,（未具名）,台湾,C,,,0,0,1,0,1,,,pos,,R+,,
+SB-1113,Fastball,印度,B,gg,是,0,0,0,0,0,,,,,none,,
+SB-1120,Obmac systems 可以推一下,赞比亚,B,gg,是,0,0,0,0,0,,,,,none,,
+SB-1121,technetix.com,英国,A,,,2,0,4,0,2,2025-04-22,2026-01-21,pos,,R+,A,"[A 2025-04-22 pos] Hello Alan, Thanks for the info. Some questions, * Do you have a data sheet you send to me please * What Marvell chip is in the switch? * Can you do custom desi ‖ [A 2026-01-21 pos] Hello Alan, Thanks for the info. Are the 10G SFP+ ports able to run at 2.5Gbps? What the max power that can be drawn by the SFP+ ports? Is there a management in"
+SB-1122,comtinu.ru,俄罗斯,A,,,3,0,3,0,0,2024-05-17,2025-12-03,pos,,R+,AS,"[S 2024-05-17 pos] Hi Simon, Do you have 48x25G + 8x100G and 32x40/100G switches? Regards Yaroslav ‖ [A 2025-12-03 pos] Yes, we have 100-25G projects What is your company website? ‖ [A 2025-12-03 pos] Hi Alan, Thank you for update. We are not having appropriate projects so far that will include such switches. Best regards Yaroslav"
+SB-1125,globall.ca,加拿大,B,,,0,1,0,0,0,,,,,auto,,
+SB-113,regionprof.ru,俄罗斯,B,,是,0,0,0,0,0,,,,,none,,
+SB-1130,cnstech.gr,希腊,B,,,1,0,0,0,0,2026-05-20,2026-05-20,weak,,Rw,A,"[A 2026-05-20 weak] Hello Alan, you got our attention. Tell us more"
+SB-1132,nedic.aleksandar@gmail.com,塞尔维亚,B,,,2,0,2,0,0,2024-05-16,2024-05-16,pos,,R+,S,"[S 2024-05-16 pos] Thank you for fast reply, Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our bus ‖ [S 2024-05-16 pos] Hi Simon, We would be interested i ordering somw products for testing. Can you provide a catalog of your products?"
+SB-1134,conexionderedes.com,萨尔瓦多,A,,,3,0,3,0,0,2025-05-28,2026-01-20,pos,,R+,A,"[A 2025-05-28 pos] Dear Alan: Thank you for your email, and I apologize for not responding until now, but I was out of the country and had a lot of emails when I returned. I'd lik ‖ [A 2026-01-19 pos] Dear Alan: Interesting solution. Please send the technical information so we can share it with our clients. Regards, Antonio Alberto Guadron Gerente General *CO ‖ [A 2026-01-20 pos] Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback. Regards, Anto"
+SB-1135,raisecom.su,俄罗斯,A,,是,5,0,4,0,0,2024-05-07,2024-06-20,pos,,R+,S,"[S 2024-06-20 pos] ok, thanks. We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable? ‖ [S 2024-06-20 weak] you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm ‖ [S 2024-06-20 pos] Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-T"
+SB-1136,fiberoptics4sale.com,美国,B,,,1,0,1,0,0,2025-07-23,2025-07-23,pos,,R+,A,"[A 2025-07-23 pos] HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga Telecom < a.sagatele"
+SB-1137,Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda.,巴西,A,,,4,0,1,0,0,2024-06-25,2024-11-19,pos,,R+,S,"[S 2024-06-25 weak] Los modelos que te mencione en el email anterior precisan tener 2 puertas SFP Saludos, *Fabian Alonzo* 51 98144-0559 ‖ [S 2024-06-25 weak] Ola Simon, como estas? Gracias por tu e-mail. Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aqui en el mercado *Fa ‖ [S 2024-11-19 pos] Good afternoon Simon, how are you? Can you send me your price list with the 4-8-16 and 24 door models? *Best regards,* *Fabian Alonzo* 51 98144-0559 Em ter., 19"
+SB-1138,devray.in,印度,A,,,5,0,5,0,0,2025-12-02,2026-03-31,pos,,R+,E,"[E 2026-01-20 pos] Dear Team, Thank you. Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed dat ‖ [E 2026-03-31 pos] Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. Thanks & Regards Yogendra Rajput +91-9739995151  ‖ [E 2026-03-31 pos] Are you ODM ? "
+SB-1139,arnoldomohr@gmail.com,未填,A,,,5,0,5,0,0,2024-11-23,2026-03-11,pos,,R+,AS,"[A 2026-01-19 pos] Dear Alan, Thank you for the information. These switches seem very comprehensive and powerful. I'm interested in learning more about CENTEC, as I have a project ‖ [A 2026-03-10 pos] Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I have a client who's requesting several switches simi ‖ [A 2026-03-11 pos] Hi Alan, Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stacking up to 8 units using StackWise-320 technology. It"
+SB-114,swift.net.pk,巴基斯坦,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-115,PT. Catur Citra Wisesa,印度尼西亚,B,,,0,0,0,0,0,,,,,none,,
+SB-116,Pyramid Enterprises,津巴布韦,B,,,0,0,2,3,7,,,pos,,R+,,
+SB-117,Softline Technology,科威特,B,,,0,0,1,0,2,,,thin,,R+,,
+SB-118,genrov.com,英国,A,,,1,0,2,0,1,2024-06-16,2024-06-16,pos,,R+,S,[S 2024-06-16 pos] Hi Simon You could email the data sheet/manual Regards Mike
+SB-119,wirestar.net,美国,A,,,2,1,1,0,1,2024-06-18,2025-04-01,pos,,R+,AS,"[S 2024-06-18 weak] Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks 1902 Pinon Dr STE E  ‖ [A 2025-04-01 pos] Alan, This is interesting. Does it have VXLAN support or MPLS support? Any controller? [image: Image] Sincerely, *Kyle* *Leissner* *President & Founder* [image:"
+SB-120,Pronet Connectivity (Pvt) Ltd.,巴基斯坦,B,,,0,0,1,3,4,,,neg,,R±,,
+SB-122,Tera Technologies and Engineering Ltd,坦桑尼亚,A,,,0,0,1,0,3,,,thin,,R+,,
+SB-124,telconet.net,厄瓜多尔,B,,是,0,0,0,0,0,,,,,none,,
+SB-125,"Anfiris, lda",安哥拉,B,,是,0,0,0,0,0,,,,,none,,
+SB-130,Bonmag International,罗马尼亚,B,,,0,0,1,1,2,,,pos,,R+,,
+SB-141,agilenetworks.com,菲律宾,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-142,airpo.co.id,印度尼西亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-144,bsdnetworks.com,加拿大,A,,,1,1,1,0,0,2026-03-30,2026-03-30,pos,,R+,A,"[A 2026-03-30 pos] Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? Specifically, do you manufacture your own product"
+SB-152,pulsar.pl,波兰,B,,,0,6,0,0,0,,,,,auto,,
+SB-154,wire.tech,英国,B,,,0,1,0,0,0,,,,,auto,,
+SB-155,JguyTech,法国,B,,是,0,0,0,0,0,,,,,none,,
+SB-160,linx-com.com,英国,A,,,4,2,4,0,1,2025-03-18,2025-04-28,pos,是,R+,A,"[A 2025-03-18 pos] I believe there is a mistake, are you sure of the pictures in the quote? The 28port is the first item, and the Industrial one is the 2nd item, so what is the co ‖ [A 2025-04-22 pos] Kindly explain us what is the differences between what you offered and the attached data sheets? Kind regards, Hussain Alqahtani Purchasing and Product Developm ‖ [A 2025-04-28 pos] Can you make this 2 items for outdoor use? If you have a solution kindly send us the updated offer with the data sheet. Kind regards, Hussain Alqahtani Purchasi"
+SB-163,skeo.ru,俄罗斯,B,,,2,0,2,1,2,2024-09-06,2024-09-06,pos,,R+,S,"[S 2024-09-06 pos] What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, ""Simon"" <s.sagatelecom@gmail.com>: Hi, Nikolay, Thanks for your interest. ‖ [S 2024-09-06 pos] Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение -------- Тема: 8 port unmanaged switch Дата: Thu, 5 Sep "
+SB-164,unea-x.com,日本,A,,,10,0,10,0,0,2026-04-22,2026-05-08,pos,,R+,A,"[A 2026-05-05 pos] Hi. Alan san Thank you for your message. Are the labels on your 4-port products in English or Chinese? We would prefer samples with English labels. Could you pr ‖ [A 2026-05-06 pos] Hi. Alan I have a few additional questions. ① MEANWELL products are expensive, so we need a Plan B. Regarding power supplies, we currently use a 48V/2A model wi ‖ [A 2026-05-08 pos] Dear Alan. Thank you for your email. Has the power supply you suggested already obtained PSE certification? Please confirm this. Best regards. UNEAX Inoue 2026年"
+SB-166,Crown Security Solutions,卡塔尔,B,,,0,0,2,0,2,,,pos,,R+,,
+SB-168,WIMEX TECHNOLOGIES,毛里塔尼亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-169,agsplus.in,印度,B,,,1,0,2,0,1,2025-06-04,2025-06-04,pos,,R+,E,[E 2025-06-04 pos] Share the price. What’s App.. Number +919810561477 Regards Vinod Tyagi www.agsplus.in <http://www.agsplus.in/>
+SB-171,comtek-de.com,德国,C,,,0,0,0,1,1,,,neg,,R-,,
+SB-172,consteel-electronics.com,波兰,B,,,0,13,0,0,0,,,,,auto,,
+SB-173,inaxsys.com,加拿大,A,,,0,6,0,0,0,,,,,auto,,
+SB-175,mbtc.com.sa,沙特阿拉伯,B,,,3,0,3,1,1,2023-06-19,2023-06-19,pos,,R+,S,"[S 2023-06-19 pos] Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&I- Telecom Lead AAM Industrial EST Mobi ‖ [S 2023-06-19 pos] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes. Best Regar ‖ [S 2023-06-19 pos] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes. Best Regar"
+SB-179,CRISPY CREPES,印度尼西亚,A,,,0,0,3,0,4,,,thin,,R+,,
+SB-182,NETBOWL PTY LTD,博茨瓦纳,B,,,0,0,1,1,2,,,neg,,R±,,
+SB-183,Onyx Technology Solutions Limited,乌干达,A,,,0,0,3,0,4,,,pos,,R+,,
+SB-189,vintronsmartvision.com,印度,A,,,3,0,3,0,0,2026-02-06,2026-04-27,pos,,R+,E,"[E 2026-02-06 pos] Hi Elsa, Thanks for your below email. Please share brochure with technical sheet to do further analysis. Thanks and Regards Rahul Kansal +91-9999550780  ‖ [E 2026-03-12 pos] Hi Elsa, thank you for your email. Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples ‖ [E 2026-04-27 pos] Dear Elsa Can you send price list for viewing? Best regards, Leann whatsapp : +886911967663 www.airlink-ilife.com AirLink iLife Inc. / Taiwan "
+SB-190,A Hamson Middle East FZE,阿联酋,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-191,Astkom,俄罗斯,B,,,0,0,0,5,8,,,neg,,R±,,
+SB-192,Core and Clad,巴林,B,,是,0,0,0,0,0,,,,,none,,
+SB-193,Dema Vertriebs GmbH,德国,A,,,1,0,2,0,1,2025-06-10,2025-06-10,pos,,R+,A,"[A 2025-06-10 pos] Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and 24 switc"
+SB-194,SRI ANNAI BUSINESS ASSOCIATES,印度,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-196,extradigital.eu,立陶宛,B,,,3,0,1,1,1,2024-08-13,2024-08-13,weak,,R+,S,"[S 2024-08-13 pos] We have our brand which Chinese making, but we looking for security something new from Europe, so thank you when. 😉 Pagarbiai, Austėja Matulaitytė UAB 'EURODIGI ‖ [S 2024-08-13 weak] We selling Dahua and Hikvision, but in Lithuania and Europe nobody anymore want a China products for security due to regulations ☹ Pagarbiai, Austėja Matulaityt ‖ [S 2024-08-13 weak] Hi, If your products made in China we are not intrested, if in europe we can talk. Pagarbiai, Austėja Matulaitytė UAB 'EURODIGITAL' Savanorių pr. 235, LT-50184,"
+SB-203,PT. Suryatama,印度尼西亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-204,aaagroup.pk,巴基斯坦,C,,,0,0,0,1,2,,,thin,,R-,,
+SB-205,barox.de,德国,A,,,3,0,0,0,0,2024-05-02,2024-05-03,thin,,R0,S,[S 2024-05-02 thin] Ooohh that’s sounds great Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device ‖ [S 2024-05-02 thin] Amazing Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device ‖ [S 2024-05-03 thin] None whatsoever! Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device
+SB-209,denwaip.com,美国,B,,,1,0,0,0,0,2024-12-12,2024-12-12,weak,,Rw,S,"[S 2024-12-12 weak] Estimado, Nos complace informarle que su caso número 3204 ha sido resuelto y se encuentra Completado. Esperamos que el problema haya sido solucionado a su satis"
+SB-212,fti-optronic.com,俄罗斯,B,,,0,0,0,0,1,,,thin,,R0,,
+SB-218,nag.ru,俄罗斯,B,,,1,0,0,0,1,2025-10-01,2025-10-01,thin,,R0,A,[A 2025-10-01 thin] ? ?
+SB-221,tyconsystems.com,美国,B,,,0,1,0,0,0,,,,,auto,,
+SB-222,（未具名）,赞比亚,A,,,0,0,1,3,8,,,weak,,R+,,
+SB-224,Arsenal TV,罗马尼亚,B,,,0,0,2,0,2,,,pos,,R+,,
+SB-226,"HANCHANG Infotech CO.,LTD",韩国,A,,,2,0,2,0,0,2025-02-04,2026-01-16,pos,,R+,A,[A 2025-02-04 pos] ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ [A 2026-01-16 pos] ﻿thank you for informations~ please give about price~ thank you!
+SB-227,NKF wireless internet and services,菲律宾,C,,,1,0,2,0,1,2025-01-15,2025-01-15,pos,,R+,S,"[S 2025-01-15 pos] sir, can you possibly send me an item for testing? Looking forward to hearing from you. thanks"
+SB-229,TESCOM COMPANY LIMITED,坦桑尼亚,B,,,1,0,0,0,0,2025-10-01,2025-10-01,weak,,Rw,E,[E 2025-10-01 weak] Hello team you have only 24 port and how many types of switch you have Sent from Outlook for Android 
+SB-236,congtyminhphuoc.vn,越南,B,,是,0,0,0,0,0,,,,,none,,
+SB-238,digimax.it,意大利,B,,,0,1,0,0,0,,,,,auto,,
+SB-239,empicstar.com,尼日利亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-241,gluszek.tomasz@gmail.com,爱尔兰,A,,,0,0,3,0,3,,,pos,,R+,,
+SB-243,hfcl.com,印度,A,,,6,0,4,0,1,2026-01-08,2026-04-06,pos,,R+,E,"[E 2026-04-05 pos] Pls share.. Thanks And Regards Shantanu Rana DGM– Key Strategic Accounts Contact No. +91 98211 96123 ‖ [E 2026-04-05 weak] Noted.. if it is imported to India in latest, can we have the PO for reference and the proof of selling. Thanks And Regards Shantanu Rana DGM– Key Strategic Acc ‖ [E 2026-04-06 pos] Can you text me on wats app Thanks And Regards Shantanu Rana DGM– Key Strategic Accounts Contact No. +91 98211 96123"
+SB-246,isnetworks.pl,波兰,A,,,1,0,1,0,0,2026-02-09,2026-02-09,pos,,R+,A,"[A 2026-02-09 pos] Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). Regards, Marek Kubas ……………………………… IS NE"
+SB-248,nellyssecurity.com,美国,A,,,0,6,0,0,0,,,,,auto,,
+SB-249,netbergtw.com,台湾,B,,,2,0,1,0,1,2025-05-20,2025-05-20,weak,,R+,A,"[A 2025-05-20 weak] And you are limited to Marvell. You definitely should explore Broadcom-based switches. Broadcom has a way better SW support. ‖ [A 2025-05-20 weak] Hi Alan, We have great cooperation potential! We are making Broadcom Trident3 and Trident4-based switches. All systems support SONiC, Ubuntu, and custom solutio"
+SB-251,pixcom.ae,阿联酋,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-252,platinumcctv.com,美国,B,,,0,1,0,0,0,,,,,auto,,
+SB-255,switchtek,英国,B,,,0,1,0,0,0,,,,,auto,,
+SB-267,bio-cognitive.com,新加坡,B,,,2,0,2,0,1,2025-07-07,2025-07-07,pos,,R+,A,"[A 2025-07-07 weak] Yes alan gigabit switch with gigabit uplink. Best Regards, Amy Hoi (Ms) 许婉颖 HP: +65 8796 7877 Bio-Cognitive Solutions Pte Ltd Sent from Outlook for Android<http ‖ [A 2025-07-07 pos] HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mobile number will be replaced with 87967877, do upd"
+SB-279,marlexconexion.com,西班牙,B,,,0,1,0,0,0,,,,,auto,,
+SB-296,BHS Telecom 视频比较多一些,阿联酋,B,,,0,0,0,0,1,,,thin,,R0,,
+SB-297,"Chisinau, Ion Creanga 66, Chisinau, Chisinau, Republic of Moldova, 2064",摩尔多瓦,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-299,ayezeegroup.com,巴基斯坦,B,,,0,0,0,4,5,,,neg,,R-,,
+SB-306,Digital systems,印度,A,,,0,0,0,0,3,,,thin,,Rw,,
+SB-312,fibercomtelecoms.com,菲律宾,B,,是,0,0,0,0,0,,,,,none,,
+SB-313,intellcom.net,格鲁吉亚,B,,,1,0,0,0,1,2025-06-12,2025-06-12,weak,,Rw,A,"[A 2025-06-12 weak] ---- Hello, How can i help you? პატივისცემით, -- მარიამი შელია მომხმარებელთან ურთიერთობის მენეჯერი +995 32 298 98 49 (537) [w̲w̲w̲.i̲n̲t̲e̲l̲l̲c̲o̲m̲.n̲e̲t̲](ht"
+SB-314,rspotsolutions.com,菲律宾,B,,是,0,0,0,0,0,,,,,none,,
+SB-315,stc-vietnam.com,越南,A,,,0,0,5,0,9,,,pos,,R+,,
+SB-316,swl.co.nz,新西兰,B,,,0,1,0,0,0,,,,,auto,,
+SB-320,353311@mail.ru,俄罗斯,A,,是,0,0,0,0,0,,,,,none,,
+SB-324,"Elhem Trading Co., Sal",黎巴嫩,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-325,Hamed electronics LLC,阿联酋,A,,是,0,0,0,0,0,,,,,none,,
+SB-327,Techno Tower,黎巴嫩,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-331,retelem-dz.com,阿尔及利亚,A,,,0,0,2,0,3,,,thin,,R+,,
+SB-334,DG enterprises,尼泊尔,B,,,0,0,0,0,0,,,,,none,,
+SB-335,Golden hub nepl pvt.ltd,尼泊尔,B,,,0,0,0,0,0,,,,,none,,
+SB-337,Kimberley telecommunications,肯尼亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-339,OMEGATEC SARL,喀麦隆,B,,,0,0,2,0,2,,,pos,,R+,,
+SB-340,ROCKBIOS Limited,加纳,B,,,0,0,2,0,2,,,pos,,R+,,
+SB-341,SMART SECURITY SYSTEMS,印度,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-355,gaotek.com,加拿大,B,,,0,1,0,0,0,,,,,auto,,
+SB-357,infonet-tech.com,印度,B,,,1,0,1,0,1,2024-06-22,2024-06-22,weak,,R+,S,"[S 2024-06-22 weak] Hi You have reached Vilson Chalissery at InfoNet Technology. I will be away on vacation until July 2, 2024. I will respond to your email when I come back. For s"
+SB-359,larch-networks.com,以色列,A,,,13,1,11,0,0,2025-05-22,2026-07-02,pos,,R+,A,"[A 2026-06-02 thin] Hi Alan, Would you be available to meet with us on June 10 or 11? What time would be convenient for you? Thanks in advance, BR, Oksana Loi. On Wed, May 27, 2026 ‖ [A 2026-06-03 pos] Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short online meeting to discuss ‖ [A 2026-07-02 pos] Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX1518/DX1548 chips (any variant is acceptable)"
+SB-361,luckyjoint.com.sg,新加坡,B,,,0,1,0,0,0,,,,,auto,,
+SB-364,nitrotelmanufacturing.com,美国,B,,,0,3,0,0,0,,,,,auto,,
+SB-366,th-it.com,马来西亚,A,,,2,0,0,1,0,2024-07-29,2024-09-09,weak,是,Rw,S,"[S 2024-07-29 neg] sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Office tel: 016 ‖ [S 2024-09-09 weak] Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Office t"
+SB-367,thuyluc.com,越南,B,,,1,0,1,0,0,2024-06-21,2024-06-21,pos,,R+,S,"[S 2024-06-21 pos] Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Thanh Tri District, Ha"
+SB-373,（未具名）,尼日利亚,A,,,0,0,6,0,7,,,pos,,R+,,
+SB-375,Delta Consulting,格鲁吉亚,B,gg,是,0,0,1,0,1,,,pos,,R+,,
+SB-382,akoe.yusuf@gmail.com,印度尼西亚,B,,,0,0,0,0,0,,,,,none,,
+SB-401,securasound.co.uk,英国,B,,,0,2,0,0,0,,,,,auto,,
+SB-412,InterConnectivity Computer Solutions,菲律宾,C,,,0,0,1,0,2,,,weak,,R+,,
+SB-414,Rolins,印度尼西亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-421,distribolutions.com,阿联酋,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-430,pro-tek.pro,俄罗斯,B,,是,0,0,0,0,0,,,,,none,,
+SB-431,protekna.com,意大利,B,,,0,1,0,0,0,,,,,auto,,
+SB-433,rister.com,西班牙,B,,,0,1,0,0,0,,,,,auto,,
+SB-438,CTCU,台湾,B,,,2,0,2,0,0,2025-10-23,2026-01-13,pos,,R+,A,"[A 2025-10-23 pos] *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Thursday, October 23, 2025 2:20 PM *To:* marketing@ctcu.com; sales ‖ [A 2026-01-13 pos] Eddy FYI *From:* sales2@ctcu.com.tw <sales2@ctcu.com.tw> *On Behalf Of *Alan from Saga Telecom *Sent:* Tuesday, January 13, 2026 12:40 PM *To:* marketing@ctcu.c"
+SB-441,Metal Union,波兰,A,,是,0,0,0,0,0,,,,,none,,
+SB-443,Spring Network,南非,B,,,0,0,0,1,3,,,weak,,Rw,,
+SB-447,automationsystem.in,印度,B,,,1,0,2,0,1,2025-04-10,2025-04-10,pos,,R+,E,"[E 2025-04-10 pos] Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE 交换机 2×GE SFP + 4×GE PoE，120W，PoE watchdog，250 m，DI"
+SB-450,comtech.net.pk,巴基斯坦,A,,,0,0,2,0,4,,,pos,,R+,,
+SB-451,e-saudi.net,沙特阿拉伯,A,,,9,1,6,0,1,2024-02-26,2025-04-28,pos,,R+,AS,"[S 2024-07-23 pos] Hi Simon, Hope my email finds you in the best health. I have this request from one of our existing customers, they are looking for an alternative, I wonder if y ‖ [S 2024-10-15 pos] Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regards, Saeed ‖ [A 2025-04-28 pos] Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime, to better understand the scenario it will be a p"
+SB-456,pancakumala.co.id,印度尼西亚,B,,,1,0,0,0,0,2025-10-07,2025-10-07,weak,,Rw,E,"[E 2025-10-07 weak] -- Best Regards, Dian for Johandi Halim ===================== PT. PANCA KUMALA JAYA IPTV & Data, Security Solution Ruko Golden Green No.8 Jl. Panjang (Arteri Ke"
+SB-461,EMOS,捷克,B,,,0,1,0,0,0,,,,,auto,,
+SB-462,Eter biometric technologies Srl,意大利,A,,,2,3,2,0,0,2025-05-29,2026-08-05,pos,,R+,A,"[A 2025-05-29 pos] Sarò fuori sede fino al 29/05/2025 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecnico@eter.it oppure per esigenze commerci ‖ [A 2026-08-05 pos] Sarò fuori sede fino al 3/7/2026 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a ufficiotecnico@eter.it oppure per esigenze commercial"
+SB-463,Groupe Penda Telecoms,塞内加尔,B,,是,0,0,0,0,0,,,,,none,,
+SB-474,casecomms.com,英国,A,,,5,0,3,0,1,2024-05-09,2025-02-08,pos,,R+,AS,"[A 2025-02-07 pos] Hello Alan Thank you for your mail can you let me know the unit price of this switch, and MoQ to have it customised pleas. Best regards Andy ‖ [A 2025-02-08 thin] Thank you Alan ‖ [A 2025-02-08 pos] Thank you Alan I guess this is based on the Marvell chipset. It does seem quite expensive we have layer 3 switches for a lot less. Best regards Andy"
+SB-476,computerwayne@gmail.com,美国,B,,,0,0,0,0,0,,,,,none,,
+SB-477,eminnovate.com,美国,B,,,1,0,1,0,1,2025-06-29,2025-06-29,pos,,R+,E,[E 2025-06-29 pos] Very interesting Any rear facing port switches? Sent from my iPhone
+SB-483,melbyefiber.com,挪威,B,,,0,2,0,0,0,,,,,auto,,
+SB-485,n-itus.com,韩国,B,,,1,0,2,0,1,2025-11-13,2025-11-13,pos,,R+,A,"[A 2025-11-13 pos] Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea. Director / "
+SB-487,npotelecom.ru,俄罗斯,B,,,2,0,3,0,1,2024-06-05,2026-05-12,pos,,R+,AS,"[S 2024-06-05 pos] Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikhail Afonin ‖ [A 2026-05-12 pos] Hello, What city is your factory located in? Do you produce switches based on Microchip and Centec chips? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 85"
+SB-497,Cong Ty TNHH CONG NGHE QUANG LAM,越南,A,,,0,1,0,0,0,,,,,auto,,
+SB-499,b.medvedev11@mail.ru,吉尔吉斯斯坦,A,,,0,0,0,0,3,,,thin,,Rw,,
+SB-510,pongpanot.k@hotmail.com,泰国,A,,,1,0,2,0,1,2024-07-04,2024-07-04,pos,,R+,S,"[S 2024-07-04 pos] Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 sets for Tunnel project in Bangkok. Rdgs, Pongpanot"
+SB-517,Ernesto Guevara,尼加拉瓜,B,,,0,0,0,0,1,,,thin,,R0,,
+SB-518,Info Systems Lahore,巴基斯坦,B,,,0,0,1,1,3,,,neg,,R±,,
+SB-522,adilec.com,西班牙,B,,,0,1,0,0,0,,,,,auto,,
+SB-529,dmsimfg.com,美国,A,,,0,3,0,0,0,,,,,auto,,
+SB-530,dss-kuwait.com,科威特,B,,,0,1,0,0,0,,,,,auto,,
+SB-531,dynamode.co.uk,英国,B,,,0,2,0,0,0,,,,,auto,,
+SB-542,lanopia.de,德国,A,,,0,15,0,0,0,,,,,auto,,
+SB-555,tacel.ca,加拿大,B,,,0,1,0,0,0,,,,,auto,,
+SB-558,uniformatic.fr,法国,B,,,0,1,0,0,0,,,,,auto,,
+SB-568,Tien Phong CP,越南,B,,,0,0,0,0,0,,,,,none,,
+SB-574,lanberg.pl,波兰,B,,,0,1,0,0,0,,,,,auto,,
+SB-578,niaar.net,阿联酋,B,,,0,0,0,1,1,,,neg,,R-,,
+SB-580,nsavyumwamip@gmail.com,布隆迪,B,,,0,0,2,0,2,,,pos,,R+,,
+SB-583,usman2c@hotmail.com,巴基斯坦,A,,,0,0,6,0,6,,,pos,,R+,,
+SB-586,Matrix vision systems,肯尼亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-587,Truetech Security Solutions,加纳,B,,,0,0,0,1,1,,,neg,,R-,,
+SB-595,mpcl.in,印度,B,,是,0,0,0,0,0,,,,,none,,
+SB-598,solway.co.kr,韩国,B,,,1,0,0,1,0,2026-02-06,2026-02-06,neg,,R-,A,"[A 2026-02-06 neg] Hi Alan, Thank you for your email. I have a request regarding your product lineup. Do you carry Copper Bypass equipment as well? Could you please provide me wit"
+SB-599,symanitron.ru,俄罗斯,A,,,0,2,0,0,0,,,,,auto,,
+SB-603,Arp,泰国,B,,,0,0,0,1,1,,,neg,,R-,,
+SB-608,Marlen Sadybekov,哈萨克斯坦,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-610,ahmadariyanto105@gmail.com,印度尼西亚,C,,,0,0,0,0,0,,,,,none,,
+SB-624,ubwh.com.au,澳大利亚,B,,,1,0,0,0,0,2025-06-20,2025-06-20,thin,,R0,A,[A 2025-06-20 thin] The email address 'store@ubwh.com.au' is obsolete and no longer monitored. Please re-send your email to: cs@ubwh.com.au
+SB-630,CORE IT SOLUTIONS,印度,B,,,1,0,2,0,1,2025-06-17,2025-06-17,pos,,R+,E,[E 2025-06-17 pos] Price pls 
+SB-639,T3K Technology Co Ltd,缅甸,B,,,0,0,0,1,1,,,neg,,R-,,
+SB-641,apolloinfoways.in,印度,A,,,6,0,3,0,0,2024-09-16,2025-12-08,thin,,R+,ES,[S 2024-11-03 pos] Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ ‖ [S 2025-01-06 pos] Pls share the Datasheet for this. Ravi ‖ [E 2025-12-08 thin] How about Console port and management ports. Ravi
+SB-654,davantel.com,西班牙,B,,,0,2,0,0,0,,,,,auto,,
+SB-662,hssl.us,美国,B,,,0,1,0,0,0,,,,,auto,,
+SB-672,netshieldsa.com,南非,B,,,1,0,0,0,0,2026-03-23,2026-03-23,weak,,Rw,A,"[A 2026-03-23 weak] Hi, Please give me indication of pricing on all your switches? Regards Inus"
+SB-685,techsouq.com,阿联酋,B,,,1,0,0,0,1,2024-09-08,2024-09-08,weak,,Rw,S,"[S 2024-09-08 weak] Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirates Tel. No."
+SB-692,Anda Telecom,印度,A,,,3,0,2,0,0,2025-06-17,2026-08-04,pos,,R+,E,"[E 2025-06-17 pos] Dear Nitin/Subhash Please reply. With Kind Regards : Harish Gupta Director ANDA Telecom Pvt. Ltd. (An ISO 27001:2022 Company) (RoHS, FCC and CE Complied Company ‖ [E 2026-08-04 thin] Hi Elsa, Thanks for your support ,we will check and update you soon , You have mentioned some Not supported features ( no a days Stacking is mandatory) Regards  ‖ [E 2026-08-04 pos] Hi, First share us data sheet for the same Regards Subhash "
+SB-694,Le Reveil,加拿大,B,,,2,0,1,2,1,2024-06-17,2024-06-24,pos,,R+,S,"[S 2024-06-17 neg] No thanks... any SFP/SFP+ switches only? No need for copper... ‖ [S 2024-06-24 pos] Not really, looking for SFP+ ports with ventilation front to back."
+SB-696,aironix.co.il,以色列,A,,,2,0,2,0,0,2026-08-13,2026-08-15,pos,,R+,A,"[A 2026-08-13 pos] Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year. ‖ [A 2026-08-15 pos] Thank you, my customer buying target price is 150usd each Br - Yair Br - Yair Mobile/WhatsApp +972548318384"
+SB-701,chk999@outlook.com,美国,B,,,1,0,2,0,1,2024-10-30,2024-10-30,pos,,R+,S,"[S 2024-10-30 pos] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan"
+SB-722,Aptvel global technologies,阿联酋,B,,,0,1,0,0,0,,,,,auto,,
+SB-728,Fast-Track Systems & Services Pte Ltd,新加坡,A,,是,0,0,0,0,0,,,,,none,,
+SB-731,JTS TELECOM,加拿大,C,,,2,0,2,1,1,2024-07-30,2025-11-21,neg,,R±,AS,"[S 2024-07-30 pos] Hi Yea I’m interested Could you send me a quote ‖ [A 2025-11-21 neg] No, but thank you."
+SB-752,enika.cz,捷克,B,,,0,1,0,0,0,,,,,auto,,
+SB-758,fossfibreoptics.com,挪威,B,,,1,0,1,0,0,2025-06-20,2025-06-20,pos,,R+,A,"[A 2025-06-20 pos] Hei Alan from Saga, Du mottar denne e-posten fordi vi har registrert personopplysninger om deg i vårt system, og vil informere deg om våre retningslinjer for pe"
+SB-760,galaxysecurity.com,加拿大,B,,,0,2,0,0,0,,,,,auto,,
+SB-764,ifotec.com,法国,B,,,0,1,0,0,0,,,,,auto,,
+SB-767,itmsystems.co.uk,英国,A,,,22,1,16,1,0,2025-11-11,2026-08-15,pos,,R+,A,"[A 2026-05-19 pos] Hi Alan, I hope you are well. In the 50 switches is there a plan for 800GB or just the one you quoted us? Kind regards Steve ‖ [A 2026-07-02 thin] Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve ‖ [A 2026-08-15 pos] Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and will get back to you. Kind regards Steve"
+SB-770,lanode.com,英国,B,,,0,1,0,0,0,,,,,auto,,
+SB-771,lanprosa.com,哥斯达黎加,B,,,1,0,1,0,0,2026-06-30,2026-06-30,pos,,R+,A,"[A 2026-06-30 pos] Can you please share price and point of you have router products and cloud management Answer back to web@lanprosa.com El El jue, 25 jun 2026 a la(s) 1:30 p. m.,"
+SB-772,mencom.com,美国,B,,,0,3,0,0,0,,,,,auto,,
+SB-775,patton.com,美国,B,,,1,1,1,0,0,2025-02-03,2025-02-03,pos,是,R+,A,"[A 2025-02-03 pos] Hello Alan, I was able to review with our support team on your needs for a switch. The closest model we have is the FP2024E however it does not support DI/DO/RS"
+SB-776,prolink2u.com,新加坡,B,,,0,2,0,0,0,,,,,auto,,
+SB-784,sklep-bcs.pl,波兰,B,,,0,4,0,0,0,,,,,auto,,
+SB-786,sstamenov91@gmail.com,保加利亚,C,,,0,0,0,1,2,,,thin,,R-,,
+SB-787,tccomm.com,美国,B,,,1,0,1,0,0,2024-10-30,2024-10-30,pos,,R+,S,"[S 2024-10-30 pos] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Best Regards. Chavan"
+SB-792,weltronproducts.com,美国,B,,,0,1,0,0,0,,,,,auto,,
+SB-810,enssecurity.com,美国,B,,,0,1,0,0,0,,,,,auto,,
+SB-818,mdirphanmdirphan151@gmail.com,沙特阿拉伯,B,,,0,0,0,0,0,,,,,none,,
+SB-826,versitron.com,美国,A,,,20,1,20,0,0,2023-11-09,2025-10-31,pos,是,R+,S,"[S 2025-10-15 pos] Hello Simon: I hope all is well. Any news on this? Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gmassott@ver ‖ [S 2025-10-30 pos] Hello Simon: Thank you for this information, I will keep it for future reference. What is the status of the stacking switches that we had been discussing? Regar ‖ [S 2025-10-31 pos] Hello Simon: We are trying to offer stacking as an alternative to Cisco. Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.c"
+SB-827,GOIP Global Services Pvt Ltd,印度,A,,,1,6,1,0,0,2024-10-24,2024-10-24,pos,,R+,S,"[S 2024-10-24 pos] Hi Simon, It is Semi manage or manage Switch, Kindly share Price for this switch. If you are available on Skype or WhatsApp lets connect. I am on WhatsApp at +9"
+SB-829,Optimus,俄罗斯,B,,,0,2,0,0,0,,,,,auto,,
+SB-830,Usman,巴基斯坦,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-831,actelis.com,美国,A,,,7,0,8,1,3,2024-09-26,2026-03-02,pos,是,R+,S,"[S 2025-08-27 pos] Simon, Thank you. We will keep you in mind for future projects. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 73 ‖ [S 2025-10-29 pos] Do you have a spec sheet on this unit and a user manual? Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1 ‖ [S 2026-03-02 pos] Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2544 Sky"
+SB-833,comtime-com.de,德国,B,,,0,1,0,0,0,,,,,auto,,
+SB-835,fiberopticsupply.com,美国,B,,,0,2,0,0,0,,,,,auto,,
+SB-839,ilucoltd.com,台湾,B,,,1,0,1,0,0,2024-10-25,2024-10-25,pos,,R+,S,"[S 2024-10-25 pos] Hello, Simon Do you have flat Gigabit 8-p PoE web smart or L2? Regard Styven Tseng styven@ilucoltd.com styvent@gmail.com iLu CO., Ltd. No.105, Lujiang St., Luzh"
+SB-857,airpro.in,印度,B,,,0,10,0,0,0,,,,,auto,,
+SB-865,dbjcontrad@hotmail.com,赞比亚,B,,,1,0,2,0,1,2025-10-05,2025-10-05,pos,,R+,E,"[E 2025-10-05 pos] Dear Elsa, Thank you for reaching out and sharing information about the 24-port Marvell-based managed SFP switch. It sounds like an impressive piece of equipmen"
+SB-869,futurist.com.pk,巴基斯坦,A,,,0,0,2,0,4,,,thin,,R+,,
+SB-870,hunter-cctv.ru,俄罗斯,B,,,0,6,0,0,0,,,,,auto,,
+SB-872,israr_awan@hotmail.com,巴基斯坦,A,,,0,0,1,0,3,,,thin,,R+,,
+SB-883,phuongdung.com,越南,B,,,0,2,0,0,0,,,,,auto,,
+SB-888,stordis.com,德国,B,,,0,1,0,0,0,,,,,auto,,
+SB-896,wafulamusine@gmail.com,肯尼亚,B,,,1,0,1,0,1,2025-04-16,2025-04-16,pos,,R+,E,[E 2025-04-16 pos] Am good .... Am interested 
+SB-897,wellspeter8@gmail.com,肯尼亚,C,,,0,0,1,0,1,,,pos,,R+,,
+SB-901,Hersnet Ltd,匈牙利,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-905,TELTRONIX | BRITICOM,英国,A,,,3,0,4,0,1,2025-07-06,2025-10-31,pos,,R+,A,"[A 2025-07-06 pos] Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg ‖ [A 2025-07-07 pos] Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 18 ‖ [A 2025-10-31 pos] It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C.DDEAD2E0]"
+SB-910,etictelecom.com,法国,A,,,1,0,2,0,1,2024-05-22,2024-05-22,pos,,R+,S,"[S 2024-05-22 pos] Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles."
+SB-924,Intracom Middle East FZ-LLC,阿联酋,B,,,1,1,1,0,0,2024-10-09,2024-10-09,pos,,R+,S,"[S 2024-10-09 pos] Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. Best Regards, Mohammad Ya"
+SB-925,"MIRAE SIGNAL CO.,LTD",韩国,B,,,1,0,0,0,0,2025-03-06,2025-03-06,thin,,R0,S,"[S 2025-03-06 thin] 안녕하십니까. 귀사의 성장과 번영을 기원합니다. 미래시그널이 오는 3월 19일부터 3일간 개최되는 SECON 2025 보안전시회에 참가하게 되어 기쁜 마음으로 안내드립니다. 본 전시는 킨텍스 제1전시장 3홀~5홀에서 열리며, 저희는 네트워크 스위치, Bypass 스위치, 무선 브리지를 "
+SB-933,airlive.com,台湾,A,,,1,0,1,0,0,2024-01-02,2024-01-02,pos,,R+,S,[S 2024-01-02 pos] Whats you company url Is those ce certificate? J
+SB-936,altronics.com.au,澳大利亚,B,,,1,0,0,0,0,2026-04-20,2026-04-20,thin,,R0,A,"[A 2026-04-20 thin] Hi Alan, Thank you, not at this time. Regards Dean"
+SB-949,ksm.com.au,澳大利亚,A,,,0,15,0,0,0,,,,,auto,,
+SB-950,line-net,格鲁吉亚,B,,,0,0,1,0,1,,,pos,,R+,,
+SB-976,dauren.boltaev@mail.ru,乌兹别克斯坦,A,,是,0,0,0,0,0,,,,,none,,
+SB-981,l-com.com,美国,B,,,0,6,0,0,0,,,,,auto,,
+SB-982,mcss.co.kr,韩国,B,,,0,1,0,0,0,,,,,auto,,
+SB-984,olsontech.com,美国,B,,,2,1,2,0,0,2025-08-08,2025-08-09,pos,,R+,A,"[A 2025-08-08 pos] Thanks.. I’d be interested in the pricing… Thanks Peter ‖ [A 2025-08-09 pos] Thank you. Yes, please send manual as well..."
+SC-001,sslcom.com,以色列,C,,,1,0,2,0,3,2024-09-09,2024-09-09,weak,,R+,S,[S 2024-09-09 weak] 8 POE 130 W ? Shimon Lazarovitch CEO SSL Communication & Security Official representative of SILVUS in Israel [cid:image001.jpg@01DB02D0.FD2B7B60] Office: +972 
+SC-002,Intelligent,沙特阿拉伯,C,,,1,0,2,0,1,2025-07-22,2025-07-22,pos,,R+,A,[A 2025-07-22 pos] Kindly share your price list
+SC-003,westwardsales.com,美国,C,,,2,0,2,1,1,2025-10-13,2025-10-13,pos,,R+,E,"[E 2025-10-13 neg] We are not interested in purchasing this product. Please take us off your emailing list. <https://westwardsales.com/> *WestwardSales.com <https://westwardsales. ‖ [E 2025-10-13 pos] Hi Elsa, Thank you for your inquiry. Could you please check if there is a model number on the switch in the picture you provided? Also, could you let me know th"
+SC-004,murrinc.com,美国,C,,,1,0,2,0,1,2025-06-02,2025-06-02,pos,,R+,A,"[A 2025-06-02 pos] Alan, I see your 16 port Gigabit switch and I raise you an entire offering of network technology. Can I interest you quoting anything? What's the saga of Saga? "
+SC-005,act-connectivity.com,荷兰,C,,,3,0,3,0,1,2024-07-01,2024-09-24,pos,,R+,S,[S 2024-07-01 pos] Thanks for reaching out to Intronics. We understand that you want to get in touch with our purchasing and product development department. They can not respond o ‖ [S 2024-07-25 pos] Thanks for reaching out to Intronics. We understand that you want to get in touch with our purchasing and product development department. They can not respond o ‖ [S 2024-09-24 pos] Thanks for reaching out to Intronics. We understand that you want to get in touch with our purchasing and product development department. They can not respond o
+SC-007,bornelectronics.com,英国,C,,,2,0,2,0,1,2024-11-17,2025-05-18,pos,,R+,AS,"[S 2024-11-17 weak] Hi, Do u have 48 Port 10G switches ? ‖ [A 2025-05-18 pos] Do you have chaise and stackable switches??"
+SC-009,landatel.com,西班牙,C,,,1,0,0,0,1,2025-11-13,2025-11-13,weak,,Rw,A,"[A 2025-11-13 weak] Buenos días Alan, Nos puede decir cuál es su consulta por favor? Gracias, un saludo None [1] Mar Fontanilla* Compras y Logística Landatel Comunicaciones c/ Ceni"
+SC-011,xn--80ah4a5a.xn--p1ai,俄罗斯,C,,是,0,0,0,0,0,,,,,none,,
+SC-013,bina-machine.com,伊朗,C,,,0,0,5,3,9,,,neg,,R±,,
+SC-019,Sepehr Modj Co.,伊朗,C,,,0,0,2,1,3,,,neg,,R±,,
+SC-020,3MediaLab Srl,意大利,C,,是,0,0,0,0,0,,,,,none,,
+SC-023,Central Gospel School,加纳,C,,,1,0,1,1,1,2024-06-23,2024-06-23,pos,,R+,S,"[S 2024-06-23 pos] Weĺl noted.How much is the Cif Price Tema,Ghana."
+SC-024,rayvarz.com,伊朗,C,,,0,0,1,0,1,,,pos,,R+,,
+SC-039,atwtechnology.com,台湾,C,,,1,0,1,0,0,2026-04-29,2026-04-29,pos,,R+,E,"[E 2026-04-29 pos] Hi, The following is simple specification for a access switch. Do you have the same product? Please send the data sheet, quotation and L/T. Thanks switches for "
+SC-040,compuspare.co.za,南非,C,,,0,0,1,1,2,,,neg,,R±,,
+SC-041,Pelpaco company,伊朗,C,,,0,0,1,0,1,,,pos,,R+,,
+SC-044,Inland Revenue Department,尼泊尔,C,,,0,0,0,0,1,,,thin,,R0,,
+SC-062,milpower.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-064,ustc-corp.com,法国,C,,,0,1,0,0,0,,,,,auto,,
+SC-067,eltexcm.ru,俄罗斯,C,,,3,0,1,2,0,2025-06-26,2025-10-02,neg,,R±,A,"[A 2025-06-26 pos] Hi! We are not the manufacturer of the equipment, we are the official dealer. The offer is no longer relevant. Have a nice day! -- Сутоцких Илья Элтекс Коммуник ‖ [A 2025-10-02 neg] The answer is no. Don't waste our time or your own. С уважением, Дмитрий Козлов Менеджер проектов Элтекс Коммуникации | eltexcm.ru <https://eltexcm.ru/?utm_sour ‖ [A 2025-10-02 neg] Good afternoon, thank you. We only sell our own equipment. -- С уважением, Дмитрий Козлов Менеджер проектов Элтекс Коммуникации | eltexcm.ru: https://crm.eltexc"
+SC-090,nvtphybridge.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-095,Afcon Control & Automation Ltd.,以色列,C,,,0,1,0,0,0,,,,,auto,,
+SC-097,Three Lines Company,沙特阿拉伯,C,,,2,0,2,0,0,2025-05-07,2025-05-12,pos,,R+,E,"[E 2025-05-07 pos] Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specifications / Quantity 1 Spar ‖ [E 2025-05-12 pos] Hello Team, Kindly find the following details for your reference. Specifications / Quantity SFP (10G) Multi Mode – 10G-SFPP-SR – 20 SFP (10G) Single Mode – 10G-"
+SC-1000,zkteco.com,俄罗斯,C,,,0,1,0,0,0,,,,,auto,,
+SC-1001,zscom.ru,俄罗斯,C,,,1,0,0,0,0,2024-10-19,2024-10-19,thin,,R0,S,"[S 2024-10-19 thin] Здравствуйте, Simon. Здравствуйте, Это АВТООТВЕТЧИК. Мы работаем с 10.00 до 18.00 по Новосибирскому времени (до 14.00 по Московскому). У нас на сайте актуальная"
+SC-1005,NetEon (M) Sdn Bhd,马来西亚,C,,,1,0,1,0,0,2024-07-10,2024-07-10,pos,,R+,S,"[S 2024-07-10 pos] Hi Simon, Good day!! Thank you for reaching out!! We do provide industrial grade PoE switches, can I know your application and required qty? For the sample test"
+SC-1056,cloudinfotech.co.in,印度,C,,,2,0,2,0,0,2024-11-29,2024-11-29,pos,,R+,S,"[S 2024-11-29 pos] Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal ‖ [S 2024-11-29 pos] Hi Simon, Share the best price. --"
+SC-1117,syscom.mx,墨西哥,B,,,1,0,0,0,0,2025-09-17,2025-09-17,thin,,R0,A,"[A 2025-09-17 thin] Hola, buenas tardes. ¿En que le podemos apoyar? Quedo atenta a sus comentarios. Saludos cordiales 😃"
+SC-1137,CCTV premieter protection,伊朗,C,,,0,0,0,1,1,,,neg,,R-,,
+SC-1165,serveredge.com,澳大利亚,C,,,0,3,0,0,0,,,,,auto,,
+SC-1167,vmo broadband pvt ltd,印度,C,,,1,0,1,0,0,2025-09-30,2025-09-30,pos,,R+,E,[E 2025-09-30 pos] interested tel me price and cli command reference 8287122132 
+SC-1173,JEVASO S.L. DPTO. ELECTRONICA,西班牙,B,,是,0,0,0,0,0,,,,,none,,
+SC-1176,PT Omni Cakrawala Komunikasi,印度尼西亚,C,,,1,0,1,0,0,2025-12-10,2025-12-10,pos,,R+,E,"[E 2025-12-10 pos] Dear all, Thank you for the product information you sent us. Good luck to you. Best regards, Dewaris Pandapotan Siregar PT Omni Cakrawala Komunikasi Ruko Golden"
+SC-1188,baltesa.lt,立陶宛,C,,,0,4,0,0,0,,,,,auto,,
+SC-1200,futurepointt.com,巴基斯坦,C,,,2,0,1,0,0,2024-10-03,2024-10-07,thin,是,R+,S,"[S 2024-10-03 pos] Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP or ERPS, RSTP, MSTP ‖ [S 2024-10-07 thin] No update yet !!!"
+SC-1224,techgates.lk,斯里兰卡,C,,,0,19,0,0,0,,,,,auto,,
+SC-1226,texim-europe.com,欧洲（国别未填）,C,,,0,7,0,0,0,,,,,auto,,
+SC-1229,viz.nimish2017@gmail.com,印度,C,,,0,0,0,5,5,,,neg,,R-,,
+SC-1242,Off BEAT Bt,匈牙利,C,,是,0,0,0,0,0,,,,,none,,
+SC-1263,emilink.ru,俄罗斯,C,,,0,1,0,0,0,,,,,auto,,
+SC-1267,fiberway.sa,沙特阿拉伯,C,,,1,1,1,0,0,2024-01-18,2024-01-18,pos,,R+,S,[S 2024-01-18 pos] Fluke Test Services For Network & Fiber Cables‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+SC-1274,msy.com.au,澳大利亚,C,,,0,1,0,0,0,,,,,auto,,
+SC-1276,multitradepac.com,马来西亚,C,,,1,0,0,1,0,2024-07-29,2024-07-29,neg,,R-,S,"[S 2024-07-29 neg] sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental Sales Manager Mobile no: 019-2626812Office tel: 016"
+SC-129,inotec.digital,德国,C,,,1,0,0,1,0,2025-01-20,2025-01-20,neg,,R-,S,"[S 2025-01-20 neg] Hello Simon, Currently we have changed the company strategy and producing own Softwear Apps only. Thus we have no demand for equipments. Thank you. MfG / BR Chr"
+SC-1308,Dhaka Network,孟加拉国,C,,,1,0,0,0,0,2026-02-14,2026-02-14,thin,,R0,E,[E 2026-02-14 thin] Where your contact number? 
+SC-1316,actcorp.in,印度,C,,,0,4,0,0,0,,,,,auto,,
+SC-1332,dbg.co.za,南非,B,,,1,2,1,0,0,2023-11-21,2023-11-21,pos,,R+,S,"[S 2023-11-21 pos] Good day, Enclosed find attached quote on the only items we do and view the products on our website. A quote does not reserve stock. Thank you, Have a nice day."
+SC-1343,eurotechindia.com,印度,C,,,10,0,0,0,0,2024-06-26,2026-02-05,thin,,R0,ES,[S 2025-01-09 thin]  ‖ [E 2025-06-03 thin]  ‖ [E 2026-02-05 thin] 
+SC-1365,masibus.com,印度,B,,,1,0,0,0,0,2024-11-14,2024-11-14,thin,,R0,S,"[S 2024-11-14 thin] Dear Sales Team, FYA, thanks. Regards, Josephine OPINA Executive - Administration Masibus Automation And Instrumentation FZC. E-mail: Josephine.Opina@masibus.co"
+SC-1370,multybyte.com,印度,C,,,1,0,0,0,0,2025-03-04,2025-03-04,weak,,Rw,E,[E 2025-03-04 weak] Good [引文：Elsa 2025-03-03 12:01 推销工业 PoE 交换机]
+SC-1371,mywatchdog.in,印度,B,,,3,0,1,0,0,2024-09-16,2024-09-19,thin,,R+,S,"[S 2024-09-16 pos] Is this managed or unmanaged. Regards Ravi ‖ [S 2024-09-18 weak] I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ ‖ [S 2024-09-19 thin] Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​"
+SC-1393,setko.uz,乌兹别克斯坦,B,,是,0,0,0,0,0,,,,,none,,
+SC-1399,team5tech.com,印度,C,,,3,0,3,0,0,2024-11-03,2024-11-06,pos,,R+,S,"[S 2024-11-03 pos] Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ ‖ [S 2024-11-06 pos] Hi Team, Please suggest model along with price. Specification Specification Name Bid Requirement/ Specification Type of Switch Managed, Web Managed Technology P ‖ [S 2024-11-06 pos] Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity. We would require Authorization letter and Make in In"
+SC-1428,climax oilfield equipment,阿联酋,C,,,0,0,0,0,2,,,thin,,Rw,,
+SC-1446,lojacctv.com,葡萄牙,B,,,1,0,0,0,1,2024-11-04,2024-11-04,weak,,Rw,S,"[S 2024-11-04 weak] Hi! Thanks for the email. Where do you ship from? What are the warranty conditions? Thanks, David David Salvador geral@lojacctv.com +351 935538441 <+35193553844"
+SC-1468,BBC United Kingdom,英国,C,,,0,2,0,0,0,,,,,auto,,
+SC-1476,WIDEATEK,印度尼西亚,C,,是,0,0,0,0,0,,,,,none,,
+SC-1490,digisys.fr,法国,C,,,0,2,0,0,0,,,,,auto,,
+SC-1493,duxbury.co.za,南非,B,,,0,3,0,0,0,,,,,auto,,
+SC-1509,konnect-market.ru,俄罗斯,C,,,0,7,0,0,0,,,,,auto,,
+SC-151,"JSC ""COTTAGE""",俄罗斯,C,,,2,0,1,1,1,2024-06-20,2025-03-01,neg,,R±,AS,"[S 2024-06-20 pos] Thank you very much for the offer. A good switchboard. And what is its price? And also what is the cost of delivery to Samara? ‖ [A 2025-03-01 neg] Hey, Mr. Alan. I'm not in the CCTV business at the moment. My friends ask from time to time and I supply them with equipment from a local supplier as an old fri"
+SC-153,annke.com,美国,C,,,0,24,0,0,0,,,,,auto,,
+SC-1539,smalleyesecuritysystems.in,印度,C,,,0,0,0,1,1,,,neg,,R-,,
+SC-1623,shopfiber.co.za,南非,C,,,2,0,2,0,1,2024-10-16,2024-10-16,pos,,R+,S,[S 2024-10-16 thin] Thank you Simon. ‖ [S 2024-10-16 pos] Hi Simon. Pricing for 10 units?
+SC-1625,simarksupplies.com,马耳他,C,,,0,1,0,0,0,,,,,auto,,
+SC-1626,sklep.pl,波兰,C,,,0,1,0,0,0,,,,,auto,,
+SC-164,sonicwall.com,美国,C,,,1,8,0,0,0,2024-11-04,2024-11-04,weak,,Rw,S,[S 2024-11-04 weak] Thank you for contacting Sales Support. Your case 44676963 has been resolved and closed. Subject: 24 Port Passive PoE Switch If resolved - Do not reply to this 
+SC-1657,San Telequip Pvt. Ltd.,印度,B,,,5,0,5,0,0,2024-07-04,2025-01-09,pos,,R+,S,"[S 2025-01-06 pos] Can you share me details for 8 Port Unmanged Switch along with its Unit Price ‖ [S 2025-01-09 pos] Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to have sample for Testing. Regards Chetan Kamdi ‖ [S 2025-01-09 pos] Hey Simon, I want to Know about 8*100 Unmanged Switch without SFP, Pls Share Revised Regards Chetan"
+SC-1682,ESINSA,危地马拉,C,,,0,2,0,0,0,,,,,auto,,
+SC-1685,PKE Electronics AG,匈牙利,C,,,0,1,0,0,0,,,,,auto,,
+SC-1709,mpl.ch,智利,C,,,0,3,0,0,0,,,,,auto,,
+SC-1715,onsite.pk,巴基斯坦,C,,,2,0,1,0,0,2024-10-03,2024-10-07,thin,是,R+,S,"[S 2024-10-03 pos] Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP or ERPS, RSTP, MSTP ‖ [S 2024-10-07 thin] No update yet !!!"
+SC-1726,unilinkcommunication.com,肯尼亚,C,,,1,0,0,0,0,2024-12-19,2024-12-19,weak,,Rw,S,"[S 2024-12-19 weak] Good day, This is RSL email address Regards Contact Center Consultant Revenue Services Lesotho Tel (w): +266 52215911/80022009 Web Address: http://www.rsl.org.l"
+SC-1743,anniepalatoni@gmail.com,津巴布韦,C,,,1,0,0,0,0,2025-04-12,2025-04-12,weak,,Rw,S,"[S 2025-04-12 weak] Good day, Kindly send your best offer for the inquiry attached. Your quick response will be highly appreciated. Best Regards, Marjory Simons."
+SC-1771,telexcell.com,印度,C,,,5,0,2,0,0,2026-05-16,2026-09-16,pos,,R+,A,"[A 2026-07-29 weak] Hi Alan, Please find attached the RFP for compliance Regards, Tarun Jain Lalwani Director Sales TELEXCELL INFRANET SOLUTIONS PRIVATE LTD. M: 91-8828269065 M: 91 ‖ [A 2026-07-29 pos] Hi Alan, I hope this message finds you well. we are currently seeking support for the following requirements. 1) 8 Port + 2 SFP1G/10G L2+ Managed POE Switch wit ‖ [A 2026-09-16 pos] Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each"
+SC-1795,bbcpl.in,印度,B,,,1,0,1,0,0,2025-11-19,2025-11-19,pos,,R+,E,"[E 2025-11-19 pos] Dear Sir, Please check the attached datasheet and price. If the product matches your requirement, kindly share the quantity and basic details. Model :-IGS-5225-"
+SC-1797,cohesiveglobal.com,印度,B,,,0,9,0,0,0,,,,,auto,,
+SC-1798,colbits.com.co,哥伦比亚,C,,,0,0,1,0,1,,,pos,,R+,,
+SC-1804,indraheera.com,印度,B,,,1,0,0,0,0,2024-05-20,2024-05-20,weak,,Rw,S,"[S 2024-05-20 weak] Dear Sir, We hereby inform you that the email ID associated with Indra Heera Group has been changed. The new email ID is (admin@indraheera.org) We kindly reques"
+SC-1812,ns-t.ru,俄罗斯,C,,,1,0,1,0,0,2024-06-20,2024-06-20,pos,,R+,S,[S 2024-06-20 pos] Hi Simon. Can you send me your full price list and catalog?
+SC-1833,SOMMER CABLE,德国,C,,,0,1,0,0,0,,,,,auto,,
+SC-189,LLT doo,克罗地亚,C,,,1,0,0,0,0,2026-01-15,2026-01-15,thin,,R0,E,[E 2026-01-15 thin] Hello Please tell about BGP Best wishes Ildar Salimov 
+SC-190,Crontr Technology,厄瓜多尔,C,,,3,0,2,0,0,2025-05-31,2025-11-18,thin,,R+,E,"[E 2025-05-31 pos] Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term business. Please send me ‖ [E 2025-06-03 pos] Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Telecom ( e.sagatelecom@gmail ‖ [E 2025-11-18 thin] Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras ( depcomprascronte@gmail.com"
+SC-1904,optimal.com.ph,菲律宾,C,,,1,0,1,0,0,2025-12-11,2025-12-11,pos,,R+,E,[E 2025-12-11 pos] Good day! May I ask if you use Viber or WhatsApp? It would be easier for us to discuss your requirements there. Thank you.
+SC-1909,smartnet.co.zm,赞比亚,C,,,0,1,0,0,0,,,,,auto,,
+SC-194,myynti@farnell.com,法国,C,,,1,0,1,0,0,2025-10-23,2025-10-23,pos,,R+,A,"[A 2025-10-23 pos] Dear Alan, Good morning. Unfortunately, we do not carry the exact part number you requested. However, please find below a couple of suitable alternatives for yo"
+SC-1942,satvision-cctv.ru,俄罗斯,B,,,1,0,1,0,1,2024-06-28,2024-06-28,weak,,R+,S,[S 2024-06-28 weak] Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru
+SC-1951,KVC Industrial Supplies Sdn Bhd,马来西亚,C,,,0,4,0,0,0,,,,,auto,,
+SC-1962,beward.ru,俄罗斯,C,,,0,1,0,0,0,,,,,auto,,
+SC-1986,Alfred Kwame,加纳,C,,,0,0,0,1,1,,,neg,,R-,,
+SC-1988,EBSA INVESTMENT LIMITED,赞比亚,C,,,2,0,0,0,0,2024-10-26,2025-01-02,thin,,R0,S,"[S 2024-10-26 thin] Do you deal in Antaira brand? ‖ [S 2025-01-02 thin] Good day, We are currently using Antaira. Are you able to supply that?"
+SC-201,Bahrain telecommunacation company,巴林,C,,,0,0,0,0,2,,,thin,,R0,,
+SC-2011,StarHub,新加坡,C,,,0,3,0,0,0,,,,,auto,,
+SC-2012,VEMAX TECHNOLOGY SDN.BHD,马来西亚,C,,,1,0,1,0,0,2024-12-29,2024-12-29,pos,,R+,S,[S 2024-12-29 pos] Can you send your company profile?
+SC-204,dcnglobal.com,中国大陆,C,,是,1,0,1,0,0,2024-12-19,2024-12-19,pos,,R+,S,[S 2024-12-19 pos] Hello Simon 下午好，我是神州数码海外OEM的业务人员，您可以叫我Ray。 感谢咨询我们相关业务，关于回复，请查看如下蓝色字体。另外我的微信号是18518199860，如果您有其他任何问题，还请随时沟通，谢谢！ Thanks and best regards Ray Song ————————————————
+SC-2058,VSL VIETNAM,越南,C,,是,0,0,0,0,0,,,,,none,,
+SC-2066,ethoswitch.com,美国,B,,是,0,0,0,0,0,,,,,none,,
+SC-2075,shajahan007@gmail.com,沙特阿拉伯,C,,,2,0,1,0,0,2025-11-06,2026-04-03,pos,,R+,E,[E 2025-11-06 thin] Wr r u from dear yes i need 16 port Sent from My iPhone  ‖ [E 2026-04-03 pos] price for 16 port poe and 24 port poe Sent from My iPhone 
+SC-208,firesecurityproducts.com,澳大利亚,C,,,0,8,0,0,0,,,,,auto,,
+SC-2085,Vision Technologies Company ltd,卢旺达,C,,,0,1,0,0,0,,,,,auto,,
+SC-2091,dseitalia.it,意大利,C,,,0,1,0,0,0,,,,,auto,,
+SC-2106,Optimal Cable Services,澳大利亚,B,,是,0,0,0,0,0,,,,,none,,
+SC-2107,QT System Solutions Sdn BHd,越南,C,,是,0,0,0,0,0,,,,,none,,
+SC-215,deltaww.com,美国,C,,,0,3,0,0,0,,,,,auto,,
+SC-2150,milo64@telus.net,加拿大,C,,,1,0,1,0,0,2025-05-27,2025-05-27,pos,,R+,A,"[A 2025-05-27 pos] Hi Allan, Can you send me the specs and pricing please? Thanks On Tue, May 27, 2025 at 6:21 AM Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:"
+SC-216,diamondsystems.com,美国,C,,,0,2,0,0,0,,,,,auto,,
+SC-217,harting.com,捷克,C,,,0,6,0,0,0,,,,,auto,,
+SC-2236,Allison Tec USA,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-2249,jupitersystems.co.in,印度,C,,是,0,0,0,0,0,,,,,none,,
+SC-2255,poetexas.com,美国,B,,,2,2,1,1,0,2024-01-09,2024-05-07,neg,是,R±,S,"[S 2024-01-09 pos] Simon, We already have a managed 24 port PoE injector that we design and have manufactured, but I will pass this information to our CEO for future review. Thank ‖ [S 2024-05-07 neg] We already make this kind of switch but thank you. We are not interested."
+SC-2262,1st-embedded.com,德国,B,,,1,0,0,1,0,2025-01-20,2025-01-20,neg,,R-,S,"[S 2025-01-20 neg] Hello Simon, Currently we have changed the company strategy and producing own Softwear Apps only. Thus we have no demand for equipments. Thank you. MfG / BR Chr"
+SC-2322,terrabyt.com,沙特阿拉伯,C,,,1,1,0,0,0,2024-09-08,2024-09-08,weak,,Rw,S,"[S 2024-09-08 weak] Looks good. With best regards, Ahmad Pervez, Techsouq Computers L.L.C. Bayan Business Center, Dubai Investments Park First, Dubai, United Arab Emirates Tel. No."
+SC-2324,valeryvladimir@gmail.com,摩尔多瓦,C,,,0,0,0,1,1,,,neg,,R-,,
+SC-234,artisantg.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-2344,DENSELIGHT SEMICONDUCTORS PTE LTD,新加坡,C,,是,0,0,0,0,0,,,,,none,,
+SC-2361,Electro Research Ltd,肯尼亚,C,,是,0,0,0,0,0,,,,,none,,
+SC-2365,MediaChoice Group,荷兰,C,,,0,0,1,0,3,,,thin,,R+,,
+SC-2368,Radio ZP30,巴拉圭,C,,是,0,0,0,0,0,,,,,none,,
+SC-238,dustin.fi,芬兰,C,,,0,1,0,0,0,,,,,auto,,
+SC-2387,Microcomms Networking Solutions W.L.L.,巴林,C,,是,0,0,0,0,0,,,,,none,,
+SC-239,elfa.se,瑞典,C,,,0,1,0,0,0,,,,,auto,,
+SC-2397,drosibai.lv,拉脱维亚,C,,,1,0,0,0,0,2025-12-08,2025-12-08,thin,,R0,A,"[A 2025-12-08 thin] Hello, Please don’t send e-mails if we have not asked you or agreed about it!"
+SC-2399,nexans.com,法国,C,,,0,2,0,0,0,,,,,auto,,
+SC-2401,sae-net.com,伊朗,C,,,2,0,1,0,1,2024-11-12,2025-10-01,thin,,R+,S,"[S 2024-11-12 weak] dear simon, tanx for your offer first 300 usd is not competitive, second pls give me details of the switch and compatibility. regards farhad ‖ [S 2025-10-01 thin] hello pls come to watsapp to speak about our needs. 00989129537860 regards farhad On Tue, Sep 30, 2025 at 9:25 AM Simon from Saga Telecom < s.sagatelecom@gmail."
+SC-242,intelbras.com,巴西,C,,,0,1,0,0,0,,,,,auto,,
+SC-2423,Viettel Burundi,布隆迪,C,,,0,0,0,2,2,,,neg,,R-,,
+SC-2425,axis.com,瑞典,C,,,0,3,0,0,0,,,,,auto,,
+SC-2429,epcom.net,美国,B,,,3,0,0,0,0,2026-05-19,2026-05-20,thin,,R0,A,"[A 2026-05-19 thin] Hello! This is Celeste from Epcom. Who do I have the pleasure with? How may I assist you today? . Best Regards, ‖ [A 2026-05-20 thin] Thank you, Please resend all info to our purchasing department to purchasing@epcom.net Best Regards, ‖ [A 2026-05-20 thin] Sure, Which country are you contactis us from? Best Regards,"
+SC-2431,kajubia@gmail.com,乌干达,C,,,1,0,0,0,0,2024-08-08,2024-08-08,thin,,R0,S,[S 2024-08-08 thin] 9
+SC-2436,lezdco@gmail.com,伊朗,C,,,1,0,0,0,0,2026-05-15,2026-05-15,thin,,R0,E,[E 2026-05-15 thin] This is very wonderful Pls infor me more 
+SC-2445,Graybar Electric Supply,加拿大,C,,,0,2,0,0,0,,,,,auto,,
+SC-2446,Jotas comunicaciones S. R. L.,秘鲁,C,,,0,0,0,1,1,,,neg,,R-,,
+SC-2482,PCCW,香港,C,,是,0,12,0,0,0,,,,,auto,,
+SC-2485,Trust Security company limited,乌干达,C,,,0,0,1,0,1,,,pos,,R+,,
+SC-2495,powertec.com.au,澳大利亚,C,,,0,4,0,0,0,,,,,auto,,
+SC-2513,microtech.net.pk,巴基斯坦,C,,,2,0,0,0,0,2025-06-04,2026-05-11,weak,,Rw,E,"[E 2025-06-04 thin] Dear Elsa, These Product Are Not Available. Regards,  ‖ [E 2026-05-11 weak] Dear Elsa, Please Find The Attachment. Regards. "
+SC-2516,novuscctv.com,波兰,B,,,0,1,0,0,0,,,,,auto,,
+SC-2517,rakersautomation.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-2535,aartech.ca,加拿大,C,,,0,1,0,0,0,,,,,auto,,
+SC-2542,gridconnect.com,美国,B,,,0,1,0,0,0,,,,,auto,,
+SC-255,mmorteza735@yahoo.com,伊朗,C,,,0,0,1,0,3,,,thin,,R+,,
+SC-2552,radiusinfratel.com,印度,C,,是,0,0,0,0,0,,,,,none,,
+SC-256,spearheadgroup.pk,巴基斯坦,C,,,0,0,1,0,1,,,pos,,R+,,
+SC-258,intellinetsolutions.com,中国大陆,C,,,4,0,4,1,2,2024-09-25,2025-04-01,pos,,R+,S,"[S 2024-09-25 pos] Dear Simon: Can you quote your top 10 sales items to us for review? Best Regards Archie Archie Liu | Category Management 刘家騏 | 采购經理 IC Intracom | Representative ‖ [S 2024-10-11 neg] Dear Simon: Sorry, after checking, out team is not interested. Best Regards Archie Archie Liu | Category Management 刘家騏 | 采购經理 IC Intracom | Representative Offi ‖ [S 2025-04-01 pos] Dear Simon: May I have your company profile and quotation of best 5 sales items for reference? Best Regards Archie Archie Liu | Category Management 刘家騏 | 采购經理 I"
+SC-259,Sami CEUIK,土耳其,B,,是,0,0,0,0,0,,,,,none,,
+SC-2598,digital-watchdog.com,美国,B,,,0,4,0,0,0,,,,,auto,,
+SC-2608,mayflex.com,英国,B,,,0,11,0,0,0,,,,,auto,,
+SC-262,supermicro.com,美国,C,,,3,1,4,0,1,2025-09-18,2025-09-23,pos,,R+,A,"[A 2025-09-18 pos] Hi Alan Do you have something which can survive under -34 to 74 degrees which can survive inside outdoor cabinet? Looking forward to your feedback. Elizabeth ‖ [A 2025-09-18 pos] Hi Alan, May I know the input power and temperature specification? Any compliance for outdoor use? Warm Regards, Michael Chao 408-817-0345 ‖ [A 2025-09-23 pos] Hi Alan, Do you have “ 3X 10/100/1000M Ethernet Ports, 802.3at PoE with Microfit Connector“ ? Can you tell me more about Saga Telecom ? What kind of certificati"
+SC-2628,justinmwangi100@gmail.com,肯尼亚,C,,,2,0,0,0,0,2024-08-08,2024-10-26,thin,,R0,S,[S 2024-08-08 thin] 9 ‖ [S 2024-10-26 thin] Do you deal in Antaira brand?
+SC-2657,lynnelec.com,美国,B,,,0,1,0,0,2,,,thin,,R0,,
+SC-2680,Ronaldo Cutterman,菲律宾,C,,是,0,0,0,0,0,,,,,none,,
+SC-2682,bicomsi.com.mx,墨西哥,C,,,0,13,0,0,0,,,,,auto,,
+SC-2691,Motorola Solutions,埃及,C,,,0,2,0,0,0,,,,,auto,,
+SC-2709,delameta.com,印度尼西亚,C,,是,0,0,0,0,0,,,,,none,,
+SC-2712,fibrolan.com,以色列,C,,,0,3,0,0,0,,,,,auto,,
+SC-2766,saikooperu@gmail.com,秘鲁,C,,,1,0,1,0,0,2024-08-16,2024-08-16,pos,,R+,S,"[S 2024-08-16 pos] What is the price? El vie, 16 de ago de 2024, 9:01 a. m., Simon <s.sagatelecom@gmail.com> escribió:"
+SC-2820,technica-engineering.com,德国,C,,,0,1,0,0,0,,,,,auto,,
+SC-2839,neousys-tech.com,台湾,B,,,0,1,0,0,0,,,,,auto,,
+SC-286,electroon.com,沙特阿拉伯,C,,,1,0,0,0,0,2024-01-29,2024-01-29,weak,是,Rw,S,[S 2024-01-29 weak] Rates are too high. Are they negotiable? Thanks & Regards Sanjay Kothari CEO | +91 9090-060680 / +971 585 785 985 www.alphabridge.tech<http://www.alphabridge.te
+SC-2861,hasnetict.com,坦桑尼亚,C,,,0,2,0,0,0,,,,,auto,,
+SC-2863,info@avito.ru,俄罗斯,C,,,0,1,0,0,0,,,,,auto,,
+SC-2896,"TOO ""Carat-Prognoz""",哈萨克斯坦,C,,是,0,0,0,0,0,,,,,none,,
+SC-2904,firsttech.co.za,南非,C,,,3,0,3,0,0,2024-08-16,2024-08-16,pos,是,R+,S,"[S 2024-08-16 pos] Hi Simon, Thank you for the clarification and for considering us as a potential partner. I appreciate your offer; however, we are unable to purchase or represen ‖ [S 2024-08-16 pos] Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offering these switches for sale to us, or are you look ‖ [S 2024-08-16 pos] Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's specifications look promi"
+SC-2908,vedinfoservices.com,印度,C,,,0,2,0,0,0,,,,,auto,,
+SC-2931,pixel global av,未填,C,,,0,2,0,0,0,,,,,auto,,
+SC-2940,dhmentllc.com,加拿大,C,,,0,2,0,0,0,,,,,auto,,
+SC-2949,puretechsecurity.co.uk,英国,C,,,0,1,0,0,0,,,,,auto,,
+SC-296,lsipro@hanmail.net,韩国,C,,是,0,0,0,0,0,,,,,none,,
+SC-2971,sbjlink.com,台湾,C,,,1,0,0,1,0,2025-07-10,2025-07-10,neg,,R-,A,"[A 2025-07-10 neg] Hi Please stop sending us your product information. We can tell the products you sent is not manufactured by Saga Telecom. Thanks, ---- On Thu, 10 Jul 2025 11:4"
+SC-2992,avation.com.au,澳大利亚,C,,,1,1,1,0,0,2024-07-23,2024-07-23,pos,,R+,S,"[S 2024-07-23 pos] HI Simon, Thank you for your enquiry, can you please advise what state you are in so that I can get the correct person to help you out? Thank you, Nicole Herber"
+SC-3019,zaram.com,韩国,C,,,0,1,0,0,0,,,,,auto,,
+SC-3020,Comnet Europe,英国,C,,,0,4,0,0,0,,,,,auto,,
+SC-3025,tekeir.com,爱尔兰,C,,,0,3,0,0,0,,,,,auto,,
+SC-3027,DELTA,俄罗斯,C,,,0,2,0,0,0,,,,,auto,,
+SC-304,pbtech.com,新西兰,C,,,0,12,0,0,0,,,,,auto,,
+SC-3055,hubnetix.com,英国,C,,,0,1,0,0,0,,,,,auto,,
+SC-3056,icpdatatec.com,英国,C,,,0,2,0,0,0,,,,,auto,,
+SC-3058,nearcomnet.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-3073,bandasonkelly@gmail.com,津巴布韦,C,,,1,0,1,0,0,2026-08-19,2026-08-19,pos,,R+,E,[E 2026-08-19 pos] How much per pc 
+SC-3075,us.com,美国,C,,,1,0,0,0,0,2024-10-09,2024-10-09,thin,,R0,S,"[S 2024-10-09 thin] ATENCIÓN: Este correo electrónico se está enviando desde una cuenta de alumno de la UCV. Si te están solicitando claves o cualquier otra información personal, p"
+SC-3103,datacom.com.br,巴西,C,,,0,2,0,0,0,,,,,auto,,
+SC-3118,telran.co.il,以色列,C,,,0,2,0,0,0,,,,,auto,,
+SC-3133,federalcable.net,美国,C,,,1,0,1,0,0,2024-09-26,2024-09-26,pos,,R+,S,"[S 2024-09-26 pos] Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2544 Skype "
+SC-3149,starcom.com.pk,巴基斯坦,B,,,1,0,1,0,0,2026-02-26,2026-02-26,pos,,R+,E,[E 2026-02-26 pos] Hi Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business with Gmail email senders. Thanks for understandin
+SC-3151,eugeniobongo@gmail.com,安哥拉,C,,,2,0,0,0,0,2024-08-02,2025-01-15,thin,,Rw,S,"[S 2024-08-02 weak] Thanks Simon, I got your message and if I need this device I'll let you know A sexta, 2/08/2024, 09:40, Simon <s.sagatelecom@gmail.com> escreveu: ‖ [S 2025-01-15 thin] Good product A quarta, 15/01/2025, 14:01, Simon <s.sagatelecom@gmail.com> escreveu:"
+SC-3197,rbs-telecom.com,以色列,C,,,0,1,0,0,0,,,,,auto,,
+SC-3203,jteemsolutions.com,斯里兰卡,C,,,2,0,2,0,0,2024-12-05,2025-01-04,pos,,R+,S,"[S 2024-12-05 pos] please send me the spec sheet and price ‖ [S 2025-01-04 pos] Yes, I am interested. +94718095631 please contact me"
+SC-3206,AXIS Communications AB (Worldwide Net Limited),尼日利亚,C,,是,0,0,0,0,0,,,,,none,,
+SC-324,enercore.co.in,印度,C,,,2,0,2,0,0,2024-05-14,2024-05-16,pos,,R+,S,"[S 2024-05-14 pos] Price for 4 Port? Best Regards, Sandeep ‖ [S 2024-05-16 pos] Do you have units available in India? Best Regards, Sandeep"
+SC-3241,se.com,德国,C,,,0,3,0,0,0,,,,,auto,,
+SC-3302,niveoprofessional.com,荷兰,B,,,0,1,0,0,0,,,,,auto,,
+SC-3307,currentoptronics@gmail.com,印度,C,,,0,1,0,0,0,,,,,auto,,
+SC-3314,Advanced Technology Company KSC,科威特,C,,,0,1,0,0,0,,,,,auto,,
+SC-3330,（未具名）,台湾,C,,,0,0,0,2,2,,,neg,,R-,,
+SC-3408,（未具名）,印度,C,,是,0,0,0,0,0,,,,,none,,
+SC-3419,DIGIDIS（Abdellah）,未填,C,,,1,0,1,0,0,2025-06-18,2025-06-18,pos,,R+,E,"[E 2025-06-18 pos] hi dear could you please send me your catalogue product thank you Le 18/06/2025 à 09:40, Elsa from Saga Telecom a écrit :"
+SC-343,optilinknetwork.com,印度,B,,,0,21,0,0,0,,,,,auto,,
+SC-345,pine-networks.com,法国,B,,,0,1,0,0,0,,,,,auto,,
+SC-368,Itmax system sdn bhd,马来西亚,C,,,1,0,1,0,0,2024-06-05,2024-06-05,pos,,R+,S,"[S 2024-06-05 pos] Hi Simon, Thanks for the info. I am interested in the switch you introduced. First, I will need to know. Do you have any local support in Malaysia? If yes, plea"
+SC-371,Visiotech,西班牙,B,,是,0,0,0,0,0,,,,,none,,
+SC-378,fortinet.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-385,Computer Point,印度,C,,是,0,0,0,0,0,,,,,none,,
+SC-397,alloy.com.au,澳大利亚,B,,,0,1,0,0,0,,,,,auto,,
+SC-408,etentech.com,台湾,C,,,0,1,0,0,0,,,,,auto,,
+SC-411,go4fiber.com,香港,C,,,0,2,0,0,0,,,,,auto,,
+SC-416,lantechcom.tw,台湾,C,,,0,3,0,0,0,,,,,auto,,
+SC-424,rad.com,澳大利亚,C,,,0,3,0,0,0,,,,,auto,,
+SC-494,idv.tw,台湾,C,,,1,0,0,0,0,2025-04-11,2025-04-11,weak,,Rw,E,"[E 2025-04-11 weak] Dear Elsa, Hi, thank you so much for your latest RFQ. We will check and get back to you shortly. Have a nice day Best Regards Amber Hu C.C. Josh Tsai Sin Yu Tec"
+SC-501,jstt.com.tw,台湾,C,,,0,2,0,0,0,,,,,auto,,
+SC-503,lutze.com,美国,B,,,0,4,0,0,0,,,,,auto,,
+SC-506,muilti tarding company of industrial equipment,赞比亚,C,,,0,0,0,1,1,,,neg,,R-,,
+SC-516,ple.com.au,澳大利亚,C,,,0,1,0,0,0,,,,,auto,,
+SC-518,prolabs.com,美国,C,,,0,2,0,0,0,,,,,auto,,
+SC-525,snappernet.co.nz,新西兰,C,,,0,1,0,0,0,,,,,auto,,
+SC-526,solid-run.com,以色列,C,,,0,1,0,0,0,,,,,auto,,
+SC-550,British Telecom P,英国,C,,,1,0,0,0,1,2024-07-09,2024-07-09,thin,,R0,S,"[S 2024-07-09 thin] Hi Simon, Thanks for the info.. Kind Regards, Derrick Lewis Data Centre Professional Dynamic Infrastructure T: +44 331 625 3151 M: +44 7918 756329 [cid:image001"
+SC-562,balticnetworks.com,美国,B,,,0,3,0,0,8,,,thin,,R0,,
+SC-566,convergint.com,美国,C,,,0,0,1,0,1,,,pos,,R+,,
+SC-584,nambasoftware.com.br,巴西,C,,,2,0,1,0,0,2026-05-05,2026-08-04,pos,,R+,E,"[E 2026-05-05 weak] Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter., 5 de mai. de 2026 às 12:40, Elsa from ‖ [E 2026-08-04 pos] Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom < e.sagatelecom@gmail.com> escreveu:"
+SC-588,projectgroup.ge,格鲁吉亚,C,,,0,0,0,1,1,,,neg,,R-,,
+SC-591,r-stahl.com,德国,C,,,10,0,10,0,0,2023-11-02,2025-01-19,pos,,R+,S,"[S 2024-07-03 pos] Dear Sir or Madam, thank you very much for your inquiry and your interest in our products. In order to find the right contact person for you please, please filt ‖ [S 2024-08-14 pos] Dear Sir or Madam, thank you very much for your inquiry and your interest in our products. In order to find the right contact person for you please, please filt ‖ [S 2025-01-19 pos] Dear Sir or Madam, thank you very much for your inquiry and your interest in our products. In order to find the right contact person for you please, please filt"
+SC-619,hdcabling.co.za,南非,C,,,1,0,1,0,0,2024-07-18,2024-07-18,pos,,R+,S,[S 2024-07-18 pos] Price Regards Johan Thiart HDCabling Centurion Manager johan@hdcabling.co.za https://www.hdcabling.co.za Tel : 012 653 6234 / 012 653 6829
+SC-622,iacontrol.co.za,南非,B,,,1,0,1,0,0,2025-11-05,2025-11-05,pos,,R+,A,"[A 2025-11-05 pos] Good day Alan, we can only offer you the : IGS-4215-8UP4X. Will you please check on that and see that, would be suitable for you please? *Dear Customers:* *Plea"
+SC-634,newtechindustries.com,美国,B,,,0,1,0,0,0,,,,,auto,,
+SC-650,telecamera.ru,俄罗斯,C,,,0,40,0,0,0,,,,,auto,,
+SC-661,ALAMAN,叙利亚,C,,是,0,1,0,0,0,,,,,auto,,
+SC-667,H1 Telecom,克罗地亚,C,,是,0,0,0,0,0,,,,,none,,
+SC-682,Trueno Group LLC,俄罗斯,C,,,1,0,0,0,0,2026-03-23,2026-03-23,weak,,Rw,A,"[A 2026-03-23 weak] Hi! We chatting on Mane in China. Need 2 DSS Synology with 25 SSD per 1 dss. -- C уважением, Качалов Виталий. Руководитель отдела продаж ООО ""Труено Групп"""
+SC-701,angareyon.ru,俄罗斯,C,,,1,0,1,0,0,2024-12-16,2024-12-16,pos,,R+,S,"[S 2024-12-16 pos] Здравствуйте, Ваше письмо получено. В ближайшее время с Вами свяжется ответственный сотрудник. Письмо создано автоматически, отвечать на него не нужно. С уважен"
+SC-720,bbrc.ru,俄罗斯,C,,,0,3,0,0,0,,,,,auto,,
+SC-733,cablingplus.com,加拿大,C,,,0,2,0,0,0,,,,,auto,,
+SC-734,cabur.it,意大利,C,,,0,2,0,0,0,,,,,auto,,
+SC-740,chipdip.ru,俄罗斯,C,,,11,0,11,0,0,2023-12-15,2025-02-09,pos,,R+,AS,"[S 2024-09-12 pos] Здравствуйте. Ваше сообщение успешно доставлено. Мы постараемся обработать его в течение рабочего дня (в Сб и Вс у менеджеров выходной, а скорость ответа зависи ‖ [S 2024-10-17 pos] Здравствуйте. Ваше сообщение успешно доставлено. Мы постараемся обработать его в течение рабочего дня (в Сб и Вс у менеджеров выходной, а скорость ответа зависи ‖ [A 2025-02-09 pos] Здравствуйте. Ваше сообщение успешно доставлено. Мы постараемся обработать его в течение рабочего дня (в Сб и Вс у менеджеров выходной, а скорость ответа зависи"
+SC-748,consystem.it,意大利,C,,,0,1,0,0,0,,,,,auto,,
+SC-759,distrelec.it,意大利,C,,,0,1,0,0,0,,,,,auto,,
+SC-822,intelek.cz,捷克,C,,,0,1,0,0,0,,,,,auto,,
+SC-837,king-led.it,意大利,C,,,0,2,0,0,0,,,,,auto,,
+SC-868,murrelektronik.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-882,nnz-ipc.ru,俄罗斯,C,,,0,2,0,0,0,,,,,auto,,
+SC-898,plexonics.com,印度,B,,,0,1,0,0,0,,,,,auto,,
+SC-918,redalertdataandtelecoms.com,英国,C,,,0,1,0,0,0,,,,,auto,,
+SC-922,rspsupply.com,美国,C,,,0,1,0,0,0,,,,,auto,,
+SC-925,sarcitalia.it,意大利,B,,,1,0,0,0,0,2024-12-30,2024-12-30,weak,,Rw,S,[S 2024-12-30 weak] COMUNICAZIONE CHIUSURA NATALIZIA 2024 I nostri uffici saranno chiusi per Festività Natalizie dal 23/12/2024 al 06/01/2025 compresi. Le normali attività riprende
+SC-927,satro-paladin.com,俄罗斯,C,,,3,0,0,0,0,2023-11-30,2024-02-05,thin,,R0,S,"[S 2023-11-30 thin] Добрый день! Ваша заявка принята и ей присвоен ID Заявки - 218836. При переписке по данной заявке используйте ответ на наши письма, сохраняя в теме письма ID За ‖ [S 2023-12-26 thin] Добрый день! Ваша заявка принята и ей присвоен ID Заявки - 222696. При переписке по данной заявке используйте ответ на наши письма, сохраняя в теме письма ID За ‖ [S 2024-02-05 thin] Добрый день! Ваша заявка принята и ей присвоен ID Заявки - 230132. При переписке по данной заявке используйте ответ на наши письма, сохраняя в теме письма ID За"
+SC-968,triple-s.no,挪威,C,,,13,13,13,0,0,2023-11-28,2025-01-16,pos,,R+,S,"[S 2024-10-24 pos] Vi takker for din henvendelse ""8 Port 2.5G Switch"". Vi har registrert denne med følgende saksnummer: Saksnummer: 189235 Henvendelsen din vil bli behandlet fortl ‖ [S 2024-11-22 pos] Vi takker for din henvendelse ""48 Port PoE Managed Switch"". Vi har registrert denne med følgende saksnummer: Saksnummer: 190803 Henvendelsen din vil bli behandl ‖ [S 2025-01-16 pos] Vi takker for din henvendelse ""16 Port PoE Managed Switch"". Vi har registrert denne med følgende saksnummer: Saksnummer: 193453 Henvendelsen din vil bli behandl"
+SC-981,vialight.ru,俄罗斯,C,,,1,0,0,0,0,2024-08-20,2024-08-20,thin,,R0,S,[S 2024-08-20 thin] Здравствуйте! Спасибо за ваше сообщение. Я отсутствую на рабочем месте c 19.08.24 по 30.08.24 включительно. Данное письмо перенаправлено моему руководителю Гроз
+SC-990,wasko.pl,波兰,C,,,0,3,0,0,0,,,,,auto,,

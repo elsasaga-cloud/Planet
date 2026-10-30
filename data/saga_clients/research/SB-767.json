@@ -49,7 +49,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -367,6 +367,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）"
   }
  ],
  "snap_thicken": {
@@ -388,5 +396,18 @@
   "url": "https://www.itmsystems.co.uk/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2026-07-02] Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve ‖ [A 2026-08-15] Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and ‖ 研 2026-05-19 Steve: In the 50 switches is there a plan for 800GB or just the one you quoted us? / 2026-08-15 Steve: I have update the Senior Mana"
  }
 }

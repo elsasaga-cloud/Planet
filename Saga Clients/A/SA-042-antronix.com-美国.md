@@ -12,6 +12,7 @@ code: SA-042
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 
 name_official: "Antronix, Inc.（Cranbury, New Jersey, USA）"
 score: 76
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：新泽西的有线宽带射频设备设计制造商（1980 年创立，约 33 人，营收口径 $4.3M），产品：multi-tap、光节点、放大器、无源器件，面向北美有线运营商；2023 年起强调光纤方案（与 Teleste 合资 Intercept）。用户表：A 已回复 1 次，联系人 Peter Tarquinio / Jim Taxdahl（VP Sales），问 L2/L3 10G、2.5G/10G 商业交换机。（调研 2026-10-21；表内兴趣：商业switch L2 L3 10G 问了2.5G 10G类产品）
-- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 2 条（AS；2024-01→2025-08））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-09 → 2025-08-09）；最近一次客户回复：2025-08-09：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM（4×10G + 16 SFP + 8 combo，L2+）/ L3 版——2025-08 已报 225/310 USD — 一句话确认停点即可；不重复发规格。已打开的主题（13/30 封有打开记录）：「Re: 2.5G PoE switch」(2024-07-16)、「Re: 24 Port Fiber Switch」(2025-08-09)、「Re: 24 Port Fiber Switch」(2025-08-11)、「Re: 24 Port Fiber Switch」(2025-08-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1｜已发资料（勿重发）：L3(2025-08-09)、L2+(2025-08-09)、Marvell Based CLI Manual(2025-08-11)、Marvell Based Web Manual(2025-08-11)、Saga Software Function List_7.3, 7.4, (2025-08-11)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；按 30% OEM 档复核 2025 报价；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $220（Re: 2.5G PoE switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-06-25 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：After the 24-SFP manuals last August, what stopped the evaluation — US stock, or product fit for the MDU plan?
@@ -188,6 +189,7 @@ updated: 2026-10-29
   > 来源：https://www.cbinsights.com/company/antronix（抓取 2024-09-23）
 - **KP**：Jim Taxdahl（VP Sales（非买方、非股东）；Antronix 为 NJ 公司（1980-03-12），Tang 家族持有：Danny Tang（2016 年故）→ 子 Neil Tang CEO/CTO；2018 与 Teleste 合资（第 84 批 官方登记核实 2026-10-27））jimtaxdahl@antronix.com +1 609-860-0160（总机）〔https://antronix.com/about-antronix/〕
 - **KP**：Peter Tarquinio（联系人（用户表））petertarquinio@antronix.com 〔Clients/A Replied 09.04.xlsx〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 2 条（AS；2024-01→2025-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC-424XGGPM-280W（24×2.5G PoE + 10G 上联）或 STC-448XGGM(L3)，30% OEM 档；运营商 MDU 场景强调 Marvell 方案与 L3 功能。
 
@@ -379,12 +381,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 76）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

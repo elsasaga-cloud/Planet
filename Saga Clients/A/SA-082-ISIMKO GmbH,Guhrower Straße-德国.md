@@ -12,7 +12,7 @@ code: SA-082
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商
 name_official: "ISIMKO GmbH（Cottbus, DE；isimko.de；HRB 472 Cottbus）"
 score: 54
 country: 德国
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国 Cottbus 的家族制中型系统集成商 ISIMKO GmbH（Informations-, Sicherheits-, Medien- und Kommunikationstechnik；1990 年成立，前身 G. Fleischhauer Ingenieurbüro Cottbus，2017 年更名；HRB 472；注册资本 €200,000；120+ 名员工含 16 名学徒；Cottbus / Berlin / Dresden / Schwarze Pumpe 四地；总经理 Ralph Hannemann、Diego Noack，股东含 Wolfgang/Falk Noack）：信息技术、安防技术、媒体技术、通信技术项目规划与实施，专长工业高品质铜缆与光纤网络，客户为工业、中型企业与公共部门（Lausitz 能源/工业区，LAUBAG 渊源）。Saga 自建站询盘：1 台 12 光 12 电（询盘人 r.hannemann = 总经理）；WhatsApp 已加；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：1台12光12电）
-- **为什么是 A 级**：**调研后定级 A**（A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。）；自动分级 B：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus））；自动分级 B：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-25 → 2025-09-15）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGGM（8 GE + 8 SFP + 4×10G）/ STC-4168XGGCM（16 SFP + 8 Combo） — 总经理亲自问 12 光 12 电 → 工业光纤汇聚；两款就近对位，hook 已带 25% 档价；锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180
 - **第一问（只问一个）**：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
@@ -153,7 +153,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ralph Hannemann（Geschäftsführer（Impressum 公开；Saga 自建站询盘人））r.hannemann@isimko.de（用户表） +49 355 78015-0 / +49 163 96 77284（用户表，WhatsApp 已加）〔https://www.isimko.de/impressum/〕
 - **KP**：Diego Noack（Geschäftsführer（Impressum 公开））—（未公开） +49 355 78015-0〔https://www.isimko.de/impressum/〕
-- **调研后定级**：A（原自动 B）——A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -350,12 +350,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 54）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -26,8 +26,8 @@
    "role": "联系人（研究档 KP）— 不动：需求 WDM（不供）+ 无公司 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "C",
- "override_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：阿尔及利亚个人 Gmail（LinkedIn 来源）要 WDM 资料：Saga 无 WDM + 无主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -131,6 +131,27 @@
    "to": "C",
    "prev_reason": "",
    "reason": "阿尔及利亚个人 Gmail（LinkedIn 来源）要 WDM 资料：Saga 无 WDM + 无主体 → C 储备"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "B",
+   "prev_reason": "Q-76 LT-R05S 2026-10-29 复核打回 C 储备：阿尔及利亚个人 Gmail（LinkedIn 来源）要 WDM 资料：Saga 无 WDM + 无主体 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "C",
+  "reason": "",
+  "why_not": "非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023.9.13: 发了WDM手册和网页→WDM information"
+ }
 }

@@ -12,7 +12,7 @@ code: SB-869
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
 name_official: "Futurist (Pvt) Ltd."
 score: 29
 country: 巴基斯坦
@@ -30,13 +30,13 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯兰堡网络工程承包商 / 通信设备经销商（2011 年成立，CEO Aqeel Abbas，联系人 Tajamal Ishaq），Yokogawa / OPNET / Furukawa 关联，Volza 记录 128 票进口（47 家供应商，中国 + 美国）；多次就 2 光 8 电管理 PoE、2 光 4 小壳、mini 工业机问价，表示工业电源「可搭配工业交换机」，最初兴趣为光猫（ONU，Saga 无）。（调研 2026-10-21；表内兴趣：光猫）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 5 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；-10 最近活动 2019（陈旧）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 5 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；-10 最近活动 2019（陈旧）
 - **历史互动**：实质回复 5 次；WhatsApp 已加；推送 18 次（? → ?）；最近一次客户回复：：发了右图 应该是天博通信的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其最明确的问价对象 = 2 光 8 电管理 PoE，对应 Saga STC-28DGGPM；工业 4/8 口 PoE 备选 STI-144GP / STI-288GP 与竞品对价。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -127,7 +127,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Tajamal Ishaq（Manager（研究档；多次问 2 光 8 电管理 PoE / 2 光 4 小壳 / mini 工业机价格）= 收件人 — 一页纸一次：分销 20% B、STI-288DGGPM $137 / STI-154GP / STI-054GP mini + 工业电源搭配说明、一口价 + MOQ 1 + 付费样机、光猫不做明说 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））tajamal@futurist.com.pk +92 333 519 9946〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Aqeel Abbas（CEO（研究档；邮箱未取）= 抄送抬头（第 118 批 官方登记核实 2026-10-28）） 〔https://rocketreach.co/aqeel-abbas-email_44568110〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
@@ -313,12 +313,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 29）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

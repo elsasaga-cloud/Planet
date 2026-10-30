@@ -1,0 +1,116 @@
+{
+ "code": "SC-1623",
+ "name_official": "shopfiber.co.za",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "南非客户（shopfiber.co.za）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: Industrial PoE Switch｜Thank you Simon.",
+   "quote": "Re: Industrial PoE Switch｜Thank you Simon.",
+   "url": "f80fb2a8ca1e5bc1",
+   "date": "2024-10-16"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "Re: Industrial PoE Switch｜Hi Simon. Pricing for 10 units?",
+   "quote": "Re: Industrial PoE Switch｜Hi Simon. Pricing for 10 units?",
+   "url": "d2c625ad58b93ffd",
+   "date": "2024-10-16"
+  },
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "推「154」→ 对方「10pcs price」",
+   "quote": "推「154」→ 对方「10pcs price」",
+   "url": "Clients/ 表格",
+   "date": "1016"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-01 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2024-10-16",
+    "dir": "来",
+    "who": "info@southernelements.co.za",
+    "quote": "Re: Industrial PoE Switch｜Thank you Simon.",
+    "why": "S 邮箱 真人来信（thin）",
+    "k": "f80fb2a8ca1e5bc1"
+   },
+   {
+    "date": "2024-10-16",
+    "dir": "来",
+    "who": "info@southernelements.co.za",
+    "quote": "Re: Industrial PoE Switch｜Hi Simon. Pricing for 10 units?",
+    "why": "S 邮箱 真人来信（pos）",
+    "k": "d2c625ad58b93ffd"
+   },
+   {
+    "date": "1016",
+    "dir": "Simon",
+    "who": "用户表（Simon 跟进记录）",
+    "quote": "推「154」→ 对方「10pcs price」",
+    "why": "表内客户回复（pos）",
+    "k": "Clients/ 表格"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-01 建档"
+  },
+  "situation": "南非；1016 最后一次来信/回复：推「154」→ 对方「10pcs price」",
+  "need": "[S 2024-10-16] Thank you Simon. ‖ [S 2024-10-16] Hi Simon. Pricing for 10 units? ‖ 表 1016: 154→10pcs price",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-10-16] Thank you Simon. ‖ [S 2024-10-16] Hi Simon. Pricing for 10 units? ‖ 表 1016: 154→10pcs price"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）"
+}

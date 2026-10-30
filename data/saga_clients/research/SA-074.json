@@ -69,8 +69,8 @@
    "source": "https://papagal.bg/eik/202351530/4f70"
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -232,6 +232,14 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）"
   }
  ],
  "snap_thicken": {
@@ -261,5 +269,18 @@
   "url": "https://elitteamsecurity.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-12-04] *Hi,* Thank you for your message and the detailed overview. We are definitely interested in exploring your Mar ‖ [A 2025-12-17] *Hi,* Yes, I reviewed the information — there are quite a few useful and interesting points that we could appl ‖ 表 2025.12.4: Marvell Ch→Interested 但 嫌价格贵 ‖ 研 2025-12-17 Lachezar: there are quite a few useful and interesting points that we could apply, but "
  }
 }

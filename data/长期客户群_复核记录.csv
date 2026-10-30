@@ -1284,3 +1284,136 @@ SB-993,abigo4u.com,荷兰,B,B,LT-R10,2026-10-29,官网快照两次失败（2026-
 PB-068,MARCOM S.r.l.,意大利,B,B,LT-R10,2026-10-29,官网快照两次失败（快照 http_error ×2（10-21 / 10-29）= Cloudflare 反爬），DNS 2026-10-29 16:2xZ 复查 marcomweb.it MX alt2/alt3/alt4.aspmx.l.google.com；A 104.21.43.15 / 172.67.215.215（Cloudflare）；NS kia/kip.ns.cloudflare.com → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据
 PB-084,VoIPDistri.com (VOIP.world),德国,B,B,LT-R10,2026-10-29,官网快照两次失败（快照 http_error ×2 = SafeLine WAF「Client Verifying」（表内早已记录）），DNS 2026-10-29 16:2xZ 复查 voip.world MX mx01/mx02.mxgate.org；A 185.226.241.97；NS ns.udag.org/net/de → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据
 PB-086,Technical Reality Limited,英国,B,B,LT-R10,2026-10-29,官网快照两次失败（快照 unreachable ×2 = 站点屏蔽机器抓取（表内早已「Failed to fetch」）），DNS 2026-10-29 16:2xZ 复查 technicalreality.co.uk MX technicalreality-co-uk.mail.protection.outlook.com；A 无（仅 www）；NS ns59/ns60.domaincontrol.com → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据
+SB-001,resonantnetworks.com,新加坡,B,A,AB-FINAL-01,2026-10-30,PI包·gg
+SB-002,Xspec Technology Sdn Bhd,马来西亚,B,A,AB-FINAL-01,2026-10-30,PI包·gg
+SB-003,Rio-Import LLC（ООО «РИО-ИМПОРТ»）,俄罗斯,B,A,AB-FINAL-01,2026-10-30,核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）
+SB-006,unitedcontrolengg.com,印度,B,A,AB-FINAL-01,2026-10-30,PI包·gg
+SB-020,52networks.com,美国,B,A,AB-FINAL-01,2026-10-30,PI包·gg
+SB-1113,Fastball,印度,B,A,AB-FINAL-01,2026-10-30,PI包·gg
+SB-1120,Obmac systems 可以推一下,赞比亚,B,A,AB-FINAL-01,2026-10-30,PI包·gg
+SB-375,Delta Consulting,格鲁吉亚,B,A,AB-FINAL-01,2026-10-30,PI包·gg
+SC-259,Sami CEUIK,土耳其,B,A,AB-FINAL-01,2026-10-30,核定成单·ISAF 2025 现场购 1 台（CEUIK）
+SA-014,impulsecctv.com,新加坡,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）
+SA-033,bluewarrior.com,美国,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）
+SA-043,direktronik.se,瑞典,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）
+SA-047,sge.com.tr,土耳其,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）
+SA-066,ccs-msk.ru,俄罗斯,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）
+SA-071,surlink-tech.com,玻利维亚,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）
+SA-074,Elite Team Security Ltd,保加利亚,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）
+SB-018,Smart-Protect,德国,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-05→2025-06）
+SB-031,OM Telecom S.R.L.,秘鲁,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-034,TJ Computer,泰国,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）
+SB-047,topica.mn,蒙古国,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）
+SB-055,DIOS ULTRA HD VIDEO SECURITY SYSTEMS,荷兰,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）
+SB-056,Net Work Business Solutions,爱沙尼亚,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+SB-057,Rfcom,希腊,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+SB-059,avanca.com.sg,新加坡,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
+SB-070,neowine,韩国,C,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）
+SB-093,konakguvenlik.com.tr,土耳其,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）
+SB-1026,epygi.com,美国,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）
+SB-104,STS Italia S.r.l.,意大利,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
+SB-109,ite.net.pk,巴基斯坦,B,A,AB-FINAL-01,2026-10-30,真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）
+SB-1102,vienthonggiatot.com,越南,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）
+SB-1116,Litech (Pvt) Ltd,巴基斯坦,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）
+SB-1132,nedic.aleksandar@gmail.com,塞尔维亚,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）
+SB-1136,fiberoptics4sale.com,美国,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）
+SB-116,Pyramid Enterprises,津巴布韦,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）
+SB-130,Bonmag International,罗马尼亚,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-163,skeo.ru,俄罗斯,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）
+SB-166,Crown Security Solutions,卡塔尔,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-169,agsplus.in,印度,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）
+SB-175,mbtc.com.sa,沙特阿拉伯,B,A,AB-FINAL-01,2026-10-30,真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）
+SB-224,Arsenal TV,罗马尼亚,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-227,NKF wireless internet and services,菲律宾,C,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）
+SB-267,bio-cognitive.com,新加坡,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）
+SB-297,"Chisinau, Ion Creanga 66, Chisinau, Chisinau, Republic of Moldova, 2064",摩尔多瓦,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+SB-339,OMEGATEC SARL,喀麦隆,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-340,ROCKBIOS Limited,加纳,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-341,SMART SECURITY SYSTEMS,印度,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）
+SB-367,thuyluc.com,越南,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）
+SB-412,InterConnectivity Computer Solutions,菲律宾,C,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-447,automationsystem.in,印度,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）
+SB-477,eminnovate.com,美国,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）
+SB-485,n-itus.com,韩国,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）
+SB-487,npotelecom.ru,俄罗斯,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）
+SB-580,nsavyumwamip@gmail.com,布隆迪,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+SB-630,CORE IT SOLUTIONS,印度,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）
+SB-701,chk999@outlook.com,美国,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）
+SB-771,lanprosa.com,哥斯达黎加,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-06→2026-06）
+SB-787,tccomm.com,美国,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）
+SB-865,dbjcontrad@hotmail.com,赞比亚,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）
+SB-896,wafulamusine@gmail.com,肯尼亚,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）
+SB-901,Hersnet Ltd,匈牙利,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+SB-924,Intracom Middle East FZ-LLC,阿联酋,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）
+SB-982,mcss.co.kr,韩国,B,A,AB-FINAL-01,2026-10-30,真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）
+SB-984,olsontech.com,美国,B,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）
+SC-001,sslcom.com,以色列,C,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2024-09）
+SC-002,Intelligent,沙特阿拉伯,C,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）
+SC-007,bornelectronics.com,英国,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-11→2025-05）
+SC-097,Three Lines Company,沙特阿拉伯,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）
+SC-1056,cloudinfotech.co.in,印度,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）
+SC-1200,futurepointt.com,巴基斯坦,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）
+SC-1371,mywatchdog.in,印度,B,A,AB-FINAL-01,2026-10-30,真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）
+SC-1399,team5tech.com,印度,C,A,AB-FINAL-01,2026-10-30,真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）
+SC-1623,shopfiber.co.za,南非,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）
+SC-1657,San Telequip Pvt. Ltd.,印度,B,A,AB-FINAL-01,2026-10-30,真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）
+SC-1715,onsite.pk,巴基斯坦,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）
+SC-1771,telexcell.com,印度,C,A,AB-FINAL-01,2026-10-30,真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09）
+SC-190,Crontr Technology,厄瓜多尔,C,A,AB-FINAL-01,2026-10-30,真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）
+SC-1904,optimal.com.ph,菲律宾,C,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）
+SC-1942,satvision-cctv.ru,俄罗斯,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）
+SC-2150,milo64@telus.net,加拿大,C,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2025-05）
+SC-2513,microtech.net.pk,巴基斯坦,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）
+SC-2904,firsttech.co.za,南非,C,A,AB-FINAL-01,2026-10-30,真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）
+SC-3133,federalcable.net,美国,C,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）
+SC-3149,starcom.com.pk,巴基斯坦,B,A,AB-FINAL-01,2026-10-30,真回信 1 封 / 表内 0 条 / 研究档 1 条（E；2026-02→2026-02）
+SC-3203,jteemsolutions.com,斯里兰卡,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）
+SC-324,enercore.co.in,印度,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）
+SC-584,nambasoftware.com.br,巴西,C,A,AB-FINAL-01,2026-10-30,真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）
+SA-013,alfa.com.tw,台湾,A,B,AB-FINAL-01,2026-10-30,排除：台湾品牌商 INH 最高 B
+SA-017,parallaxdigital.co.uk,英国,A,B,AB-FINAL-01,2026-10-30,最后一句婉拒：pass（Cisco $124）
+SA-019,allnet.de,德国,A,B,AB-FINAL-01,2026-10-30,最后一句婉拒：has own SFP solution
+SA-037,aeconnect.co.in,印度,A,B,AB-FINAL-01,2026-10-30,最后一句婉拒：主要用 RTL 国内成熟产品
+SA-038,dncsolutions.co.in,印度,A,B,AB-FINAL-01,2026-10-30,只有薄回复（K3）
+SA-041,lightoptics.pl,波兰,A,B,AB-FINAL-01,2026-10-30,无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）
+SA-044,dymec.com,美国,A,B,AB-FINAL-01,2026-10-30,最后一句婉拒：not our market
+SA-057,Born SPb LLC,俄罗斯,A,B,AB-FINAL-01,2026-10-30,只有薄回复（K3）
+SA-062,ipns-uae.com,阿联酋,A,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SA-069,bptehno.ru,俄罗斯,A,B,AB-FINAL-01,2026-10-30,无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）
+SB-004,fhn-na.com,美国,A,B,AB-FINAL-01,2026-10-30,排除：巨头
+SB-015,suministros-industriales.es,西班牙,A,B,AB-FINAL-01,2026-10-30,只有薄回复（K3）
+SB-016,Richard Jackson,坦桑尼亚,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SB-017,Securitytec,英国,A,B,AB-FINAL-01,2026-10-30,无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）
+SB-058,SABMARtv,波兰,A,B,AB-FINAL-01,2026-10-30,老成单·品类/年代不符·HDMI 光端机样品（波兰）
+SB-069,mutexsystemsltd.com,巴基斯坦,A,B,AB-FINAL-01,2026-10-30,老成单·品类/年代不符·早年百兆/非管理（巴基斯坦，无互动）
+SB-080,cyber-tec.net,伊拉克,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SB-083,"MERIT LILIN ENT. CO., LTD.",台湾,A,B,AB-FINAL-01,2026-10-30,排除：台湾品牌商 INH 最高 B
+SB-084,"AD-NET TECHNOLOGY CO., LTD.",台湾,A,B,AB-FINAL-01,2026-10-30,排除：台湾品牌商 INH 最高 B
+SB-086,TAILYN,台湾,A,B,AB-FINAL-01,2026-10-30,排除：台湾品牌商 INH 最高 B
+SB-1054,luxritesecurity.com,英国,A,B,AB-FINAL-01,2026-10-30,只有自动回复/非买家回复：
+SB-1103,ara.com.bd,孟加拉国,A,B,AB-FINAL-01,2026-10-30,只有自动回复/非买家回复：表内仅 thanks
+SB-1110,amineachoura21@gmail.com,阿尔及利亚,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SB-1121,technetix.com,英国,A,B,AB-FINAL-01,2026-10-30,排除：巨头
+SB-205,barox.de,德国,A,B,AB-FINAL-01,2026-10-30,无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）
+SB-306,Digital systems,印度,A,B,AB-FINAL-01,2026-10-30,只有薄回复（K3）
+SB-325,Hamed electronics LLC,阿联酋,A,B,AB-FINAL-01,2026-10-30,无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）
+SB-366,th-it.com,马来西亚,A,B,AB-FINAL-01,2026-10-30,最后一句婉拒：no need
+SB-462,Eter biometric technologies Srl,意大利,A,B,AB-FINAL-01,2026-10-30,只有自动回复/非买家回复：转发通知（意）
+SB-497,Cong Ty TNHH CONG NGHE QUANG LAM,越南,A,B,AB-FINAL-01,2026-10-30,只有自动回复/非买家回复：Gmail 表情反应
+SB-499,b.medvedev11@mail.ru,吉尔吉斯斯坦,A,B,AB-FINAL-01,2026-10-30,只有薄回复（K3）
+SB-728,Fast-Track Systems & Services Pte Ltd,新加坡,A,B,AB-FINAL-01,2026-10-30,老成单·品类/年代不符·2020 光猫 8 个（新加坡）
+SB-737,UGUR IMRE,土耳其,A,B,AB-FINAL-01,2026-10-30,排除：无联系路径（无邮箱无 WA）
+SB-827,GOIP Global Services Pvt Ltd,印度,A,B,AB-FINAL-01,2026-10-30,只有自动回复/非买家回复：工单登记提示
+SB-897,wellspeter8@gmail.com,肯尼亚,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SB-933,airlive.com,台湾,A,B,AB-FINAL-01,2026-10-30,排除：台湾品牌商 INH 最高 B
+SC-023,Central Gospel School,加纳,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-039,atwtechnology.com,台湾,C,B,AB-FINAL-01,2026-10-30,排除：台湾品牌商 INH 最高 B
+SC-1167,vmo broadband pvt ltd,印度,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-1176,PT Omni Cakrawala Komunikasi,印度尼西亚,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-1812,ns-t.ru,俄罗斯,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-2012,VEMAX TECHNOLOGY SDN.BHD,马来西亚,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-2075,shajahan007@gmail.com,沙特阿拉伯,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-2766,saikooperu@gmail.com,秘鲁,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-3073,bandasonkelly@gmail.com,津巴布韦,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-368,Itmax system sdn bhd,马来西亚,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）
+SC-619,hdcabling.co.za,南非,C,B,AB-FINAL-01,2026-10-30,非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）

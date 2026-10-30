@@ -8,7 +8,7 @@
 code: SB-599
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自
 score: 36
 country: 俄罗斯
 region: 俄语区
@@ -26,13 +26,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯 SYMANITRON（symanitron.ru / s-avt.ru；「俄罗斯工业网络与电信设备制造商」+ 合同制造：PoE 交换机 SWMP-82GC-AT、SWDGP-22（24V）；表内「工业 FS（带光开关）、SFP、工业 MC，自己的 logo」；KP Massov（地推），回执来自 koe@s-avt.ru）；群发 18 次无回复。（调研 2026-10-21；表内兴趣：工业FS（带光开关） SFP 工业MC    自己的logo）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-02 → 2025-10-31）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/27 封有打开记录）：「Marvell Industrial Alert System」(2025-07-17)、「Optional Marvell Chipset Solutions」(2025-12-04) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-23)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-19 $65（10G media converter）、2024-08-21 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）；第 76 批(c)：俄语整稿改英文（无语言障碍证据；按 INH 规则对客户用英文）
 - **第一问（只问一个）**：Do you consider third-party platforms for your line, or build everything in-house?
@@ -150,7 +150,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Massov（Symanitron 研究档 KP（地推；massov@）= 收件人（第 113 批 官方登记核实 2026-10-28））massov@symanitron.ru 〔用户表〕
 - **KP**：Колбасенко Ольга Евгеньевна（Генеральный директор ООО НПП «Симанитрон-Электроника»（saby）= 拍板人（第 113 批 官方登记核实 2026-10-28）） 〔https://saby.ru/profile/6454141571-645201001〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -369,12 +369,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 36）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 36）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

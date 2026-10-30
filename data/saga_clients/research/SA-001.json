@@ -173,7 +173,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "mail_review": {
   "binding": {
    "level": "轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon；Elsa 箱：`to:asteldigicom.com OR to:asteldigicom.ae` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 38 / 来 14）（第 74 批(g)））",
@@ -399,5 +399,28 @@
   "url": "https://asteldigicom.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·可发展",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·可发展",
+  "reply_class": "R+",
+  "evidence": "[S 2025-12-01] Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you. ‖ [S 2025-12-01] Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the g ‖ 表 1.6: 24poe→profile ‖ 研 2025-11-27 Sanjay: I need two samples of this model with Power Supply… I shall pay by Paypal. You n / 2025-12-01 Sanjay: We have "
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  }
+ ]
 }

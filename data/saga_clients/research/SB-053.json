@@ -74,7 +74,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n只在有尾货/促销时触达；不做长期投入。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -210,6 +210,14 @@
    "to": "A",
    "prev_reason": "纯价格导向且已有中国直采渠道，Saga 贸易商加价结构无优势；中东非主攻区 → 慢跟。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08）"
   }
  ],
  "snap_thicken": {
@@ -222,5 +230,18 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2026-07-15] Hi Please share datasheets and prices for 4-8-16 ports industrial switch 1. L2 and l3 2. 30W PoE 3. BT PoE 4.  ‖ [A 2026-08-10] Hi Alan, We only use below configurations 1. 4 POE +2 Uplink with Booster ( 10-30 V DC In PoE Out ) 2. 4G PoE  ‖ 表 2025.4.25: Bypass→用常见的几个型号 ‖ 研 2026-07-15 Saurabh: Please share datasheets and prices for 4-8-16 ports industrial switch 1. L2 and  / 2026-08-"
  }
 }

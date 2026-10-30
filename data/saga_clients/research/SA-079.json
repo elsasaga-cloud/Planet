@@ -158,7 +158,7 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "channels": {
   "公开动态平台（监控中，T29-U18）": "⚠ belnetworks.com 已不在客户手中：2026-10-23 为 1st Domains（新西兰）停放页；RDAP 显示该域名 2024-08-16 被重新注册（eNom，NS 1stdomains.net.nz），到期 2027-08-16。公开动态平台：无（LinkedIn/Facebook 公司页未检索到）；唯一可靠通道 = WhatsApp +234 702 918 6461"
  },
@@ -327,5 +327,28 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·活跃",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·活跃",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  }
+ ]
 }

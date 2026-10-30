@@ -12,6 +12,7 @@ code: SA-068
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 
 name_official: "PT. RAS Otomasi Indonesia（雅加达/坦格朗，印尼）"
 score: 63
 country: 印度尼西亚
@@ -29,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。（调研 2026-10-21；表内兴趣：工业品  din POE比较多 主要是做项目）
-- **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-09-11 → 2025-10-09）；最近一次客户回复：2024-10-22：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 自动化/CCTV 盘柜里的 DIN PoE 位 → 8 PoE + 2 SFP 管理 + 4+1 紧凑款，双 DC 输入；—
 - **第一问（只问一个）**：For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
@@ -82,7 +83,7 @@ updated: 2026-10-29
 - `ras-otomasi.id` → 同域名 MX → 托管在 rumahweb.net（MX：ras-otomasi.id）。主机商附带邮箱（同域名 MX → 托管在 rumahweb.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -141,6 +142,7 @@ updated: 2026-10-29
   > Update : 11 November 2025 … RAS Otomasi Indonesia | Tangerang | sudarso@ras-otomasi.id
   > 来源：https://trimaxindo.co.id/local-partners/（抓取 2025-11-13）
 - **KP**：Sudarso（姓氏/职务未公开）（Trimaxindo 本地伙伴名录联系人）sudarso@ras-otomasi.id +62 21 2784-6419（公司）〔https://trimaxindo.co.id/local-partners/〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
 
@@ -317,12 +319,12 @@ Hi, Simon from Saga Telecom. For the DIN-rail PoE positions in your automation a
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,7 +12,7 @@ code: SB-167
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面谈到样品；安卡拉
 name_official: "Onsis Elektrik Elektronik Güvenlik Sistemleri İnşaat San. ve Tic. Ltd. Şti.（Ankara Çankaya, TR；onsis.com.tr）"
 score: 53
 country: 土耳其
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：安卡拉的电气/电子安防承包商 Onsis（1992 年起业、2015-03 现法人；Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28 Çankaya；+90 312 435 67 53；总经理 Esef Taşkıran；1–24 人；业务：CCTV、火灾探测、考勤、防盗报警、卫星/对讲；自述大部分业务为政府招标与私人住宅项目）。ISAF 记录：Ady 加了 WhatsApp，问 2 光 8 带 PoE 带网管带 bypass 价格，报了 $105，要 L2；最后一天来要样品但身上没现金；邮箱 esef@onsis.com.tr（= 总经理）。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来）；自动分级 B：+10 谈到样品/测样；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面谈到样品；安卡拉安防承包商（土耳其主战场））；自动分级 B：+10 谈到样品/测样；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 项目 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+ 管理，$137.5；现场锚点 $105 为样品特价）；带 bypass 需用 SmartByte LT-IS6312GP-4GX8GT-FBP（8 PoE + 4 SFP + 1 路光 bypass，$194.3，Saga 暂无对应型号）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir endüstriyel switch'i 1 adet numune olarak 105 USD'ye (fuar fiyatı) gönderebilirim, bypass'lı sürüm ayrı fiyatlandırılır; numune için Ankara adresi ve PayPal/havale tercihinizi yazar mısınız?
@@ -132,7 +132,7 @@ updated: 2026-10-29
   > Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Esef Taşkıran（Genel Müdür / Key Principal（D&B）= **老板 = 联系人**（Ltd. Şti. 股东名单付费未取）；1992 创业、2015-03-03 改组 Ltd.、1–24 人；展会 + WhatsApp 户（问 2 光 8 电 PoE 网管 bypass → $105 → 要 L2 + 样品）（第 87 批 官方登记核实 2026-10-27））esef@onsis.com.tr（用户表） +90 312 435 67 53〔https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面谈到样品；安卡拉安防承包商（土耳其主战场）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -285,12 +285,12 @@ Esef Bey, ISAF'ta istediğiniz numune: 2 SFP + 8 port PoE L2 yönetilebilir end�
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 53）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

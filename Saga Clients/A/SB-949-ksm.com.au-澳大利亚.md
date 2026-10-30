@@ -8,7 +8,7 @@
 code: SB-949
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源
 score: 27
 country: 澳大利亚
 region: 亚太
@@ -26,13 +26,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。（调研 2026-10-21；表内兴趣：工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
 - **历史互动**：推送 22 次（2024-04-30 → 2025-10-20）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -145,7 +145,7 @@ updated: 2026-10-29
   > 工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kevin（Director（官网署名「Kevin - Director」；22 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、STI-288DGGPM $137 / STI-488DGGPM $147 / STI-154GP 宽温 + 3 年保 + MOQ 1 + 付费样机、与现供应商同级比价 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））kevin@ksm.com.au 〔用户表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
@@ -356,12 +356,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

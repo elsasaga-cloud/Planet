@@ -32,8 +32,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "C",
- "override_reason": "守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
  "notes": "（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回",
  "deep": {
   "done_at": "2026-10-21",
@@ -96,5 +96,28 @@
   ],
   "proof_gaps": [],
   "draft_en": null
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[E 2025-05-07] Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / I ‖ [E 2025-05-12] Hello Team, Kindly find the following details for your reference. Specifications / Quantity SFP (10G) Multi Mo"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "A",
+   "prev_reason": "守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）"
+  }
+ ]
 }

@@ -12,7 +12,7 @@ code: SB-010
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "American Fibertek, Inc.（AFI, St. Petersburg, FL）"
 score: 88
 country: 美国
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国佛州安防光传输设备制造商（1984 年成立，11–50 人，营收 $8–11M 口径），主打「Manufactured in America / BAA 合规」，并提供一整套「sourced TAA compliant」产品（以太网交换机、光纤交换机、MC、视频/数据/音频光端机）。2020 年被 Donna Poulos 收购。用户表：S 重点，兴趣 SFP/工业电源/大口 FS/MC/多功能 VC，1 次实质回复。（调研 2026-10-21；表内兴趣：SFP 工业电源 大口FS MC 多功能VC）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名）；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-04-30 → 2025-12-30）；最近一次客户回复：2024-11-23：有bt型号吗？
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（4/25 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-22)、「Re: 8 Port Industrial PoE Switch」(2024-11-23)、「90W PoE Managed Switch」(2025-02-07)、「Marvell Alleycat5 Solution」(2025-04-01) → 读者兴趣偏「工业」；与 P1 同类，继续；他见过的实报（2024-11-23 报价单）：STI-288GP $60；STI-288DGGPM-2BT 单上写 $60（疑漏改，正常锚 $110——再报时按 $110 并点明）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-25 $65（10g fiber media converter）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -163,7 +163,7 @@ updated: 2026-10-29
   > 来源：https://www.surveillance-video.com/network-mx-6p-poe-2hp.html（抓取 2026-10-21）
 - **KP**：Donna Poulos（President & Owner（2020-03 via Sunny-Z Inc. 整体收购，女性所有；公开路线「American made / 规避 foreign elements」→ 与进口中国交换机冲突）（第 86 批 官方登记核实 2026-10-27））sales@americanfibertek.com（官网公开） +1 800-323-0660〔https://www.americanfibertek.com/ ; https://www.zoominfo.com/c/american-fibertek-inc/1736750〕
 - **KP**：Tim Orselli（来信署名人（职务未在邮件署名里出现））tim.orselli@americanfibertek.com 〔S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 A）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A4 Simon 点名
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。
 
@@ -379,12 +379,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 88）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -11,7 +11,7 @@ code: SB-641
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 
 score: 34
 country: 印度
 region: 南亚
@@ -29,13 +29,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：买丰润达的商业PoE 工业FS AOA的  8 PORT ROUTER WIRED）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12））；自动分级 B：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Passive PoE(2024-09-17)、L2 Web Manual(2024-09-18)、STC-208GPM-AUTO(2024-09-18)、STI-154GP(2024-11-04)、STC-4168XGGCM(2025-01-06)、Marvell Based CLI Manual(2025-01-06)、Marvell Based Web Manual(2025-01-06)；已发单据：Quotation(2024-11-04)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-06 $240（24 Port Fiber Switch）、2026-05-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?
@@ -175,7 +175,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ravi Prakash（Founder / CEO / Director Apollo Infoways Private Limited（MCA 董事 2014-02-03–）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））ravi@apolloinfoways.in 〔用户表〕
 - **KP**：Ivy Prakash（Director（MCA；2014-02-03–）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -362,12 +362,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

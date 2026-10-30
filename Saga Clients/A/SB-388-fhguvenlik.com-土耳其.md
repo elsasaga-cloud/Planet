@@ -9,7 +9,7 @@
 code: SB-388
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电
 name_official: "FH Güvenlik Sistemleri ve Bilişim San. Tic. Ltd. Şti.（İstanbul Beşiktaş / Perpa, TR；fhguvenlik.com）"
 score: 43
 country: 土耳其
@@ -27,13 +27,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔的弱电/安防工程公司 FH Güvenlik（法人 2025-02-13 新设，团队自述 15 年以上经验；CCTV（模拟/AHD/IP）、火灾报警、报警、自动化等弱电集成；总部 Sinan Paşa Mah. Süleyman Seba Cad. No:6 Beşiktaş，技术办公室 Perpa B Blok Kat:11 No:1730 Şişli；0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）。ISAF 记录：Hasti F. Göller（hasti@fhguvenlik.com）——要工业级交换机；无后续跟进。守界：火灾报警主系统不供，仅网络层。（调研 2026-10-21；表内兴趣：工业级交换机）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?
@@ -77,10 +77,9 @@ updated: 2026-10-29
 
 - `fhguvenlik.com` → 其他主机商邮箱（mail.srv09.aysima.net）（MX：mail.srv09.aysima.net、mailbackup.srv09.aysima.net）。主机商附带邮箱（mail.srv09.aysima.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 106 批（TR · 1 次检索：find.com.tr（FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ；LİMİTED ŞİRKET；Kuruluş 13 Şubat 2025 Perşembe；NACE 631108；Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4 Beşiktaş 34022）+ 官网（FH Güvenlik, 2025 yılında İstanbul’da kurulmuş；Merkez Beşiktaş；Teknik Ofis Perpa Ticaret Merkezi B Blok Kat:11 No:1730 Şişli；网络基础设施 / CCTV / 报警 / 自动化），2026-10-28 查；https://www.find.com.tr/Company/fhguvenliksistemlerivebilisimsanayiticaretlimitedsirketi）：**
 
@@ -125,7 +124,7 @@ updated: 2026-10-29
   > 工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hasti F. Göller（研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28））hasti@fhguvenlik.com（用户表） +90 534 594 63 61（公司）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -289,12 +288,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

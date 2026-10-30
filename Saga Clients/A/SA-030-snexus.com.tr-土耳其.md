@@ -12,6 +12,7 @@ code: SA-030
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/
 name_official: "Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）"
 score: 83
 country: 土耳其
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp， 商业级POE交换机 说之前联系过， 最后一天走的时候问有没有商业级8光8  推了工业级 报了115usd, 想让我们当礼物送给他；商业FS 工业FS 自己的logo 价格不是很高 正常水平）
-- **为什么是 A 级**：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其））；自动分级 A：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGM 类 24+4（对位 SN-GS2300-28F） — 已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-16 $65（10G Media Converter）、2024-10-28 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?
@@ -96,10 +97,9 @@ updated: 2026-10-29
 
 - `snexus.com.tr` → Google Workspace（MX：aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com、alt3.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 85 批（Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+ Dağıtıcılar 页 + LinkedIn（Erdem Timur Koca）+ Facebook，2026-10-27 查；https://www.snexus.com.tr/en/s%C3%B6zle%C5%9Fme）：**
 
@@ -177,6 +177,7 @@ updated: 2026-10-29
   > 来源：https://www.snexus.com.tr/en/endustriyel-switchler（抓取 2026-10-21）
 - **KP**：—（总机 → 法人为 HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy），品牌 Snexus Networks；品牌负责人 Erdem Timur Koca（第 85 批 官方登记核实 2026-10-27））info@snexus.com.tr +90 216 606 4445（webrate 登记）〔https://www.snexus.com.tr/en/iletisim〕
 - **KP**：Erdem Timur Koca（Snexus 品牌负责人（LinkedIn；官网销售合同卖方 = Hemmah Group）= 拍板人（第 85 批 官方登记核实 2026-10-27）） 〔https://www.snexus.com.tr/en/sözleşme〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。
 
@@ -376,12 +377,12 @@ Ady, Simon from Saga Telecom (ISAF). Your SN-GS2300-10FP slot: 8 x Gigabit PoE+ 
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 83）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 A，分数 83）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,7 +12,7 @@ code: SB-583
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 
 name_official: "（巴基斯坦 · Usman，hotmail/gmail）"
 score: 37
 country: 巴基斯坦
@@ -31,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴基斯坦小型贸易/工程买家 Usman（hotmail + gmail，WA 已加）。2023-08 问 2 光 8 管理 50/100 台价格，之后对 2 光 4 小壳、24 光 combo、工业 mini 均要「best price in RMB」，2025-05 对 4/8/16 口工业 PoE 回「L2 managed」；20 次推送 6 次实质回复——互动最多但始终压价、要人民币价。→ B 20%（贸易商），人民币报价需用户决定。（调研 2026-10-21；表内兴趣：问了2光8管理 RMB price）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-08-29 → 2025-06-21）；最近一次客户回复：2025-05-10：L2 managed
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 首问「2 光 8 管理 50/100 台」→ 8 PoE + 2 SFP L2+ 管理（$80.7 @20%）；工业 L2 管理需求用 STI-288GPM。已打开的主题（2/2 封有打开记录）：「Information」(2024-11-11)、「Re: Information」(2024-11-11) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Marvell Based CLI Manual(2024-11-11)、Marvell Based Web Manual(2024-11-11)、STC-448DGGM(2024-11-11)、STI-4480DGGM-U(2024-11-11)；已发单据：Quotation(2024-11-11)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STC-28DGGPM $80.7 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：You asked for L2-managed industrial PoE in 4/8/16-port sizes and for 50–100 pcs pricing on the 8-port + 2 SFP managed switch — I can quote USD EXW at the 100-pc tier; is RMB settlement via a Chinese forwarder what you need? Reference: STC-28DGGPM at $80.7 USD EXW (MOQ 1, 15-day validity).
@@ -118,7 +118,7 @@ updated: 2026-10-29
   > 2023.8.29 → 问了2光8管理价格 50/100个；2024.2.28 → 问了2光4小壳的价格；2024.4.16/5.15 → best price in RMB；510 4 8 16口工业PoE → L2 managed
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Usman（买家本人（hotmail / gmail；WA +92 331 471 3140 已加；6 次实质回复、一律要 RMB 最低价）— 不另发一页纸：来询即按 USD 一口价 分销 20% 预付 100% FOB 深圳 回；RMB 报价 / 私账口径待 Simon — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））usman2c@hotmail.com +92 331 471 3140（WA 已加）〔用户 Clients 表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -287,12 +287,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 37）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

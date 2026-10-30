@@ -12,7 +12,7 @@ code: SB-103
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 
 name_official: "Abetechs GmbH（GRUNDIG Security 品牌独家被许可人；Erkrath/Düsseldorf, DE；grundig-security.com）"
 score: 59
 country: 德国
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国 Erkrath（杜塞尔多夫旁）的 GRUNDIG Security 品牌独家被许可人 Abetechs GmbH（HRB 82264 Düsseldorf / 官网载 HRB 35197 Wuppertal；注册资本 €800,000；总经理 Ludwig Bergschneider、Yalcin Demirak；LinkedIn 11–50 人，2010 年成立）：以 GRUNDIG 品牌在全球分销专业视频安防（IP 摄像机、热成像、NVR、C-WERK VMS、工业监视器），SMART 产品线标榜 NDAA 合规，并已新增 4/8/16 口 NDAA 合规智能管理 PoE 交换机（250 m PoE、4 kV 浪涌；经销商料号 VGR-GU-HW-ACSW08D）。典型品牌 OEM 买家——Saga 可作其交换机第二来源。用户表：WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：从UTEPO买商业级交换机，也去了EWIND摊位，推荐工业级POE产品就可以了）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -156,7 +156,7 @@ updated: 2026-10-29
 - **KP**：Ludwig Bergschneider（Geschäftsführer 2017-12-15 → **2026-09-14 卸任**（Handelsregister；2024-06 起登记名 Hans Ludwig Bergschneider）= 已非拍板人；现任 GF Kagan Kandemir（2026-09-14 起）、Prokurist Janek Brock（第 86 批 官方登记核实 2026-10-27））—（未公开） +49 211 5380 680〔https://grundig-security.com/contacts/imprint/〕
 - **KP**：Yalcin Demirak（登记网络中出现（Eschweiler；股东 / 前任职务待核）（第 86 批 官方登记核实 2026-10-27））—（未公开） +49 211 5380 680〔https://web2.cylex.de/firma-home/abetechs-gmbh--grundig-security--12606852.html〕
 - **KP**：Kagan Kandemir（Geschäftsführer（2026-09-14 起，Düsseldorf）= 现任唯一 GF / 拍板人（第 86 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/Abetechs%20GmbH,%20Erkrath〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -364,12 +364,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

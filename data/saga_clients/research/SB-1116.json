@@ -33,8 +33,8 @@
   "tier": 25,
   "why": "项目集成商 → 25% 档；汇聚层 L3 口型先用工业 L3 顶上，商用 48 口 L3 另议"
  },
- "grade_override": "B",
- "override_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
  "mail_review": {
   "binding": {
    "level": "轻度触达→未答 RFQ（2024-03-09 Hassan Cheema 发来接入/汇聚交换机 + 路由器技术规格 RFQ；S 邮箱 out 0——仓库无回复记录；Elsa 箱：`to:litech.com.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
@@ -139,5 +139,28 @@
   "url": "https://litech.com.pk/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 研 2024-03-09 Hassan Cheema: Attached herewith are the technical specifications of different Access/Aggregati"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）"
+  }
+ ]
 }

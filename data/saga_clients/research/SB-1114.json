@@ -58,7 +58,7 @@
   "why": "明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%"
  },
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
  "mail_review": {
   "binding": {
    "level": "轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回；Elsa 箱：`to:fikesmedia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 1）（第 74 批(h)））",
@@ -146,6 +146,14 @@
    "to": "A",
    "prev_reason": "具名 Owner 实质回复 + OEM 意向，但规模小、API 诉求未必能满足、追问未回 → B",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）"
   }
  ],
  "deep": {
@@ -178,5 +186,18 @@
   "url": "https://www.fikesmedia.com/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 研 2026-10-03 Christopher Fikes: This actually does have my interest. What levels of customization are offered? I"
  }
 }

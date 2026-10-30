@@ -246,5 +246,30 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2024-10-29] Simon Also, provide us with the prices for both models Thank you! <https://optiviewusa.com/> ----------------- ‖ [S 2024-10-29] Hi Simon, Thank you for your email offering an Industrial PoE Switch. Could you please send me the specificati ‖ 表 1030: 154→4 8口price ds ‖ 研 2024-10-29 Silvia Flores（Purchasing Agent）: Could you please send me the specifications (data sheet) for both the 4"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）"
 }

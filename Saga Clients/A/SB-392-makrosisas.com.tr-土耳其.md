@@ -9,7 +9,7 @@
 code: SB-392
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）
 name_official: "Makro Sistem（Makrosis A.Ş.，İstanbul Şişli, TR；makrosisas.com.tr；i-PRO/Panasonic 土耳其 Premium 分销商）"
 score: 43
 country: 土耳其
@@ -27,13 +27,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔 Şişli 的安防分销商 Makro Sistem（i-PRO（原 Panasonic Security）土耳其 Premium 分销商；11–50 人；营收口径 $9.1M；Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；+90 212 272 47 92；info@makrosisas.com.tr；产品含 Edge AI 摄像机、NVR、消防探测、网络设备）。ISAF 记录：Mustafa Demirel——有一些工程需要工业级交换机；现场报价 2 光 10 电带网管带 PoE $130、12 光 12 电带网管 $150，要求双清包税（DDP）运输；拍了合照；无后续跟进。（调研 2026-10-21；表内兴趣：有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照；有一些工程需要用工业级交换机，  报了2光10电带网管带POE 130USD, 12光12电带网）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）：i-PRO 土耳其 Premium 分销商（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$137.5 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期；首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli).
@@ -77,10 +77,9 @@ updated: 2026-10-29
 
 - `makrosisas.com.tr` → 同域名 MX → 托管在 artiyedi.com（MX：mail.makrosisas.com.tr）。主机商附带邮箱（同域名 MX → 托管在 artiyedi.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 106 批（TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ；TEK PAY SAHİPLİ ANONİM ŞİRKET；Kuruluş 13 Kasım 2023 Pazartesi；Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 İç Kapı No:26 Şişli；经营范围含电子安防设备进出口 / 分销；股本字段为模板占位不采）+ 官网 Hakkımızda / Contact（Makro Sistem Dış Tic. A.Ş.；i-PRO Türkiye Premium Distribütörü；info@makrosisas.com.tr；+90 212 272 47 92）+ ZoomInfo（11–50；Engin Ertürk Yönetici；Sinan Tüten IT）+ kariyer.net 招聘（2023-12 Satış Elemanı），2026-10-28 查；https://www.find.com.tr/Company/makrosistemdisticaretanonimsirketi）：**
 
@@ -128,7 +127,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mustafa Demirel（研究档 KP（用户表）= 收件人（抄 info@ 点名 Engin Ertürk）（第 106 批 官方登记核实 2026-10-28））m.demirel@makrosisas.com.tr（用户表） +90 212 272 47 92（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Engin Ertürk（Yönetici（管理者；ZoomInfo）= 拍板人（第 106 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/pic/makro-sistem/1340413263〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）：i-PRO 土耳其 Premium 分销商（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -293,12 +292,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

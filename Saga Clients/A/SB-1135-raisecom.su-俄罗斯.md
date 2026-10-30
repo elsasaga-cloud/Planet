@@ -12,7 +12,7 @@ code: SB-1135
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
 name_official: "DEALER Co Ltd（raisecom.su，圣彼得堡；Raisecom 俄罗斯经销；KP Dmitry Deikun、Kovzur Max – Technical manager）"
 score: 5
 country: 俄罗斯
@@ -31,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S 邮箱 2024-05/06 两轮项目询价：05-07 Kovzur 要 CLI 手册（给了，候选 STI-480XGGM，18W）；06-20 Dmitry：「lost several projects」后给新小项目——L3 机架工业机 24×SFP + 8 Combo + 4×10G 双 AC（1 台）+ L2 DIN 2×SFP+8×PoE 240W；Simon 报 STI-4168XGGCM-U $550 / STI-288DGGPM $120；Dmitry 又问 L3 商用 8–12 SFP+ + 12–24 GE → Simon「没有正好的，近似 Realtek 6×10G+24×2.5G L2+」→ 无回。（调研 2026-10-24；表内兴趣：—）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域））；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06））；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM（L3）$413；STI-4168XGGCM-U $511.5 / (L3) $605；STI-288DGGPM $137.5 — 已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%；2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5；**第 63 批基准统一（规则 ㉕）**：STC-4168XGGCM 由列表价 $413 改为 25% 档 $392.4；他没收过 $240/$280 群发；工业 -U 两档 $511.5 / $605 = 列表价 ≤ 档位价，封顶保留
 - **第一问（只问一个）**：Dmitry — in June 2024 I had nothing for your "L3 commercial, 8-12 SFP+ and 12-24 GE" request; today we do: 4 x 10G SFP+ + 16 x 1G SFP + 8 x combo, L3, $413 USD EXW. Do you have a project this winter where it fits?
@@ -150,7 +150,7 @@ updated: 2026-10-29
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-06-20）
 - **KP**：Dmitry (Дейкун Дмитрий Александрович) Deikun（）ddmitry@raisecom.su 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **KP**：Kovzur Max（）mk@raisecom.su +7 812 764 28 85（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
-- **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
 最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。
 
@@ -316,12 +316,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 5）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 5）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

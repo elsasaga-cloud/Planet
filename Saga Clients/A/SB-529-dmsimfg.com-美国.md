@@ -8,7 +8,7 @@
 code: SB-529
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周
 score: 38
 country: 美国
 region: 北美
@@ -26,13 +26,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国 DMSI Manufacturing（官网快照为空页；表内「自己的 logo MC 周边产品」；KP Dustin Hall、Randy Harris（Director, Data Center & Broadband Sales）、Iylin Flock（General Manager）；备注 info@）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：自己的logo MC 周边产品）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2024-05-02 → 2025-10-28）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/30 封有打开记录）：「48 Port PoE Managed Switch」(2024-11-21)、「Managed Optical Bypass Switch」(2025-04-23) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Software Function List-release 7.(2025-03-21)、Product Link_2026Q2(2026-02-26)、Saga Feature List_7.5.x_L2+(2026-06-27)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；—；群发里他已看到的价（续）：2026-07-27 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-21 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Do you resell switches alongside your DC hardware, or only source them for your own builds?
@@ -152,7 +152,7 @@ updated: 2026-10-29
 - **KP**：Dustin Hall（研究档 KP（职务未核）= 抄送（第 102 批 官方登记核实 2026-10-28））dustin@dmsimfg.com 〔用户表〕
 - **KP**：Iylin Flock（研究档写 General Manager（姓名 / 邮箱对应待核）（第 102 批 官方登记核实 2026-10-28））evan@dmsimfg.com 〔用户表〕
 - **KP**：Jeneth D’Alonzo（President & CEO（Tampa Bay Business Journal 2025-05）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -356,12 +356,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 38）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

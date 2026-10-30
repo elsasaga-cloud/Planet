@@ -291,5 +291,30 @@
   "url": "https://www.dymec.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "最后一句婉拒：not our market",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R-",
+  "evidence": "[A 2025-05-28] need a better description please... On Wed, May 28, 2025 at 1:21 PM Alan from Saga Telecom < a.sagatelecom@gma ‖ [A 2025-09-22] not our market...sorry On Mon, Sep 22, 2025 at 11:21 AM Alan from Saga Telecom < a.sagatelecom@gmail.com> wrot ‖ 表 2025.9.23: Dual AC→Not out market ‖ 研 2025-05-28 Thom Sherer: need a better description please... / 2025-09-22 Thom Sherer: not our market...s"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：not our market"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：最后一句婉拒：not our market"
 }

@@ -12,7 +12,7 @@ code: SB-389
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP
 name_official: "Hiperonline İletişim Hizmetleri San. Tic. Ltd. Şti.（Eskişehir, TR；hiperonline.com.tr；区域 ISP）"
 score: 43
 country: 土耳其
@@ -30,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：埃斯基谢希尔的区域互联网服务商 Hiperonline（BTK 授权 ISP；在 Eskişehir 自建光纤（HiperFiber，最高 1000 Mbps）与无线 airfiber 接入网，其他地区借用主导运营商网络覆盖 81 省；企业 Metro Ethernet 最高 10 Gbps；0850 840 98 83；经销商体系）。ISAF 记录：eskisehir@hiperonline.com——Ady 加了 WhatsApp，一直在看多口交换机，不会英文；无后续跟进。ISP 自用：接入/汇聚多口交换机（24/48 口 + 10G 上联）、无线基站供电 PoE。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp  一直在看多口交换机， 不会英文）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 运营商自用 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7）作接入汇聚；L3 版 STC-424XGGM(L3)（$280.3）；48 口 STC-448XGGM(L3)（$485.8）；基站 PoE STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 4×10G SFP+ L2+ EXW 132,7 USD, L3 sürümü 280,3 USD, 48 port L3 485,8 USD — erişim katmanı için VLAN/QinQ ve IGMP yeterli mi, yoksa OSPF gereken L3 mi arıyorsunuz?
@@ -131,7 +131,7 @@ updated: 2026-10-29
   > Ady加了WhatsApp  一直在看多口交换机， 不会英文 / @hiperonline.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（姓名未记录；Eskişehir 办公室）（Eskişehir 分部信箱（.com 已死 → **公司活着，官网 / 邮箱在 hiperonline.com.tr**；Q-64 死域名单移出）—— 下一封写 info@ / teknik@ @hiperonline.com.tr 问 Teknik Müdür（第 90 批 官方登记核实 2026-10-27））eskisehir@hiperonline.com（用户表） 0850 840 98 83（公司）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
@@ -279,12 +279,12 @@ Merhaba, ISAF'ta incelediğiniz çok portlu switch'ler için: 24 port gigabit + 
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 43）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

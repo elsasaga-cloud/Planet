@@ -12,7 +12,7 @@ code: SB-826
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档
 name_official: "Versitron, Inc.（美国特拉华）"
 score: 31
 country: 美国
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国铜转光连接方案设计制造商（数据 / 语音 / 视频；switch 646 / sfp 416 / poe 368 / media converter 197 / industrial 180），Greg Massott；表内「Stacking」（堆叠交换机需求，Saga 无堆叠）；无跟进。制造商 → OEM 30%（MC / 工业 PoE 贴牌）。（调研 2026-10-21；表内兴趣：Stacking）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX — 美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf｜第 56 批：MACsec 有证（STOS V2.4「MacSec(802.1AE) ◯」，BigFlow 平台除外，STH1G 是 VastLakes 可用）；10G 铜口改为指同族 STH-2QX4DX8XP40DP-HSI（堆叠待证）；他见过的实报：2023-11-09 首版整表（424XGGM $130 / 448XGGPM $394 / 28GPM $63…）；2024-08-14 STI-222GP $36 / 266FP $39 / 088GP $40；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?
@@ -117,9 +117,9 @@ updated: 2026-10-29
 - **同国同档参照（US，30% 档，共 8 户有动静，列前 3）**：SB-831 actelis.com（B，同档：回过 6 次（最近 2026-03-02），1:1 报过 1 次）；SA-002 simrex.com（A，同档：回过 4 次（最近 2026-07-20），1:1 报过 2 次）；SB-085 DIGI Group（B，同档：回过 3 次（最近 2025-11-28），1:1 报过 1 次）。用法：他们回过 / 买过的型号与价位就是这个国家这一档的「已验证组合」，写信时按同一组合起手；**信里不点名其他客户**。
 - **日历窗口**：对方：2026-11-26 感恩节（周四–周日四天基本停摆）；2026-12-24 圣诞–元旦（12-24 → 01-04 多数公司半停） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
 
-## 进口记录（公开海关数据 · 第 80 批 · 2026-10-29）
+## 进口记录（公开海关数据 · 第 80 批 · 2026-10-30）
 
-> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-29。
+> 来源：ImportYeti 整理的 **美国海关（CBP）海运提单**，2015-01 起；只覆盖海运到美国港口的货，**空运 / 快递 / 陆运看不见，欧洲 / 土耳其 / 加拿大按公司查不到**。美国提单**没有货值**，只有到港日 / 发货人 / 重量 / 件数 / 品名 / 估算海运费——所以「金额」一栏给不出，量只能用重量与箱数估。查询日 2026-10-30。
 
 - **查无**：ImportYeti 公司页没有此户（company/versitron 404；company/versitron-inc 404）。美国海运提单库查不到 → 要么走空运/快递（小批量交换机常态），要么以其他法人名报关
 - 查无 ≠ 不进口：可能用别的报关主体名、走空运 / 快递、或申请了舱单保密（ImportYeti FAQ）。
@@ -132,7 +132,7 @@ updated: 2026-10-29
 
 - `versitron.com` → Microsoft 365（MX：versitron-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（美国 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-11 Veterans Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -188,7 +188,7 @@ updated: 2026-10-29
   > 来源：（S 邮箱 thr 1844786008444924799，2026-03-11T08:24Z；Versitron 最后一封 2025-10-31）（抓取 2026-10-22）
 - **KP**：Greg Massott（）gmassott@versitron.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Richard W. Tull（President（cage.report 现任负责人；新闻稿署名 R. W. Tull）= 老板 / 拍板人；邮箱来自 2026-03-11 OOO 自动回复（k=4ac602505b7d8db3），从未发过（第 86 批 官方登记核实 2026-10-27））rwtull@versitron.com 〔https://cage.report/DUNS/837605443〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）
 
@@ -384,12 +384,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 31）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

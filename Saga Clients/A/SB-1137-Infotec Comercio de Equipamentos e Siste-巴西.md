@@ -12,7 +12,7 @@ code: SB-1137
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 
 name_official: "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）"
 score: -2
 country: 巴西
@@ -31,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S 邮箱 2024-06-25 三封来信：要 8+2 / 16+2 / 24+2 PoE 的型号与价（「lo más usado aquí」）、确认 19" 机架、问有无 VPN 设备；Simon 当日给报价单 + 规格书，答机架 OK / 无 VPN；2024-11-19 再要 4/8/16/24 口工业非管理价表 → 给了。此后无回。（调研 2026-10-24；表内兴趣：买的MC和机架 公司做: VC Switch和MC  工程）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-4 区域 拉美/巴西
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11））；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-4 区域 拉美/巴西
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级 — 已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)｜档位说明（原 tier 字段文字「经销 20%」移此）：经销 20%；2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it.
@@ -138,7 +138,7 @@ updated: 2026-10-29
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-11-19）
 - **KP**：Fabian Alonzo（联系人（研究档；2024-06 / 2024-11 两次主动要价）= 收件人 — 一页纸一次：分销 20% B、以 2024-06 报价为开场再报 STC-028GP / STC-2216GP / STC-2224GP 现价 + STI-280GE 工业非管理 + MOQ 1；葡语备注；回信 → 升 A 候选 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））transivideo@gmail.com 51 98144-0559（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **KP**：Ema Ines Rodriguez Rodriguez（Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29））admin@infotecsistemas.com.br 〔〕
-- **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）
 - 备注：西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。
 
 ### 加厚挖掘（2026-10-24 · 邮件证据）
@@ -288,12 +288,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -2）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

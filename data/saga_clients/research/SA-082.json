@@ -61,7 +61,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -189,5 +189,28 @@
   "url": "https://www.isimko.de/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "none",
+  "evidence": ""
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）"
+  }
+ ]
 }

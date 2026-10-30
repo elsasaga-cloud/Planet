@@ -47,7 +47,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#1。\n最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -164,6 +164,14 @@
    "to": "A",
    "prev_reason": "两位具名 KP、三个带规格的项目询价、我们已报价两款；俄罗斯次要市场 → B 慢慢跟进（自动 C 系无后续回复评分）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）"
   }
  ],
  "snap_thicken": {
@@ -174,5 +182,18 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "表内成单但 Simon 判不行",
+  "reply_class": "R+",
+  "evidence": "[S 2024-06-20] you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm ‖ [S 2024-06-20] Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable indust ‖ 研 2024-06-20 Dmitry Deikun: Unfortunately, we lost several projects. Now we have small project: L3 rack-moun / 2024-06-20 Dmitry Deikun: We have one more pr"
  }
 }

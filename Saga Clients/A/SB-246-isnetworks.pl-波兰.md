@@ -8,7 +8,7 @@
 code: SB-246
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 score: 49
 country: 波兰
 region: 欧洲
@@ -26,13 +26,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波兰 IS Networks（计算机网络设计、组装与服务公司，兼售产品：工业以太网交换机、交换机、工业转换器、光纤、CCTV 43；表内「工业 FS / MC / SFP，用了 nnet 的」；KP Marek（marek@is-net.pl））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 用了nnet的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-31 → 2025-10-21）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C6QX-HSI / STH-2QX4XF48GP-HSI — CENTEC 对口 + 主动要价 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-02-09)、Product Link_2026Q3(2026-07-16)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；信里只给这 3 个有价型号，10G 系列写「按项目报」；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Marek — three CENTEC SKUs are priced (32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW, 2026 Q2); which layer are you sizing, 10G/25G aggregation or 100G spine?
@@ -89,7 +89,7 @@ updated: 2026-10-29
 - `isnetworks.pl` → 同域名 MX → 托管在 calserver.eu（MX：mail.isnetworks.pl）。主机商附带邮箱（同域名 MX → 托管在 calserver.eu）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `is-net.pl` → 同域名 MX → 托管在 calserver.eu（MX：mail.is-net.pl）。主机商附带邮箱（同域名 MX → 托管在 calserver.eu）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（波兰 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（波兰 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -151,7 +151,7 @@ updated: 2026-10-29
   > 工业FS MC SFP；用了nnet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Marek Kubas（）marek@is-net.pl 〔用户表〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -360,12 +360,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

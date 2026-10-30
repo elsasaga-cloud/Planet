@@ -116,7 +116,7 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "risks": [
   "【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
  ],
@@ -348,5 +348,28 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·活跃",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·活跃",
+  "reply_class": "R+",
+  "evidence": " ‖ 研 2026-08-26 James（长期需求.docx）: Do you have any plans for a 2.5g or mgig poe+ switch? Managed, L2 or L2+. Dual p / 2026-08-31 James Clendenan: [image0.jpeg] Sent（回 Simon 08-30「a copy of the revised PI in USD」）"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  }
+ ]
 }

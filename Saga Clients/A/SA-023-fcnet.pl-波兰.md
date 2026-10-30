@@ -12,6 +12,7 @@ code: SA-023
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "FCNet Future Communication Networks / FCNET Sp. z o.o.（Opole, Poland）"
 score: 85
 country: 波兰
@@ -30,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: http_error  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波兰奥波莱的网络无源/有源元件分销商与进口商（原合伙制，2024 年改有限公司），Fluke Networks 波兰分销商，提供网络设计、外包、IP 电话；营收约 1,020 万 PLN。用户表：1 次实质回复，兴趣「自己的 logo」。（调研 2026-10-21；表内兴趣：自己的logo）
-- **为什么是 A 级**：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 7 次（2025-02-04 → 2025-09-16）；最近一次客户回复：2025-04-18：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（管理型 PoE，差异品） — 换品类问一次。已打开的主题（5/24 封有打开记录）：「Re: 10G Media Converter」(2025-04-18)、「Re: 10G Media Converter」(2025-04-22)、「10G Enterprise SFP Switch」(2025-10-10)、「Marvell Industrial Alert System」(2025-12-31) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「PoE 接入」，下一封按「10G 汇聚/L3」给，不按 P1；换人再触锚价 STC-424DGGPM-280W $134.5 EXW（主表档位（PDF 上限 $165；SB-070 2025-02 实报 $150）；第 72 批 2026-10-24）；按 20% 分销档；历史报价（邮件原话，老汇率）：2025-04-18 65usd；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-18 $65（10G Media Converter）、2025-06-19 $300（48 Port PoE Managed Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For managed PoE switches (not MC), who is your current source and what is the gap you would switch for? Reference: STC-424DGGPM-280W at $134.5 USD EXW (MOQ 1, 15-day validity).
@@ -161,6 +162,7 @@ updated: 2026-10-29
   > 来源：https://www.fcnet.pl/o-firmie（抓取 2026-10-21）
 - **KP**：—（总机）info@fcnet.pl +48 77 541 84 75〔https://www.fcnet.pl/o-firmie〕
 - **KP**：Piotr Frydel / Jarosław Cisowski / Krzysztof Smugowski / A. J. Frydel（管理委员会 4 名成员 = 4 名各 25% 股东（KRS 0001095976）；任一人可单独签 ≤100,000 PLN，超过需两人联签（第 83 批 官方登记核实 2026-10-27）） 〔https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0001095976?rejestr=P&format=json〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 确认：欧洲中型分销商 + 自有 logo 意向 + 已回复；P1 = STC-28DGGPM / STC-424DGGPM-280W 贴牌，20% 分销档（贴牌另议 30%）。
@@ -362,12 +364,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 85）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 85）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

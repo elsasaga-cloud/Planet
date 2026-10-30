@@ -9,7 +9,7 @@
 code: SB-988
 rating: A
 rating_auto: B
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware
 name_official: "Infinity Hardware（Go Get International LLC dba，High Point NC, US；infinityhardware.us / .com）"
 score: 25
 country: 美国
@@ -28,13 +28,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国北卡 High Point 的 IT 硬件转售商 Infinity Hardware（Go Get International LLC 经营，EIN 85-3229984；2020 年成立；2–10 人；新品与翻新服务器、存储、网络设备（Cisco 等）、IP 电话、监控摄像；服务本地与国际客户；+1 336 944 6904；info@/sales@infinityhardware.us；3975 Netherstone Ln, High Point NC 27265）。用户表：贸易公司、做 Cisco 工业交换机，2020 年起用阿里国际站；WhatsApp 已加；无跟进。转售商 → 分销 20%。（调研 2026-10-21；表内兴趣：贸易公司/Cisco工业交换机 2020年使用国际站）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡）；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-288DGGPM — 分销 20% 档：STI-288DGGPM（DIN 8 GE PoE+ 2 SFP L2+ 管理，−40~+75 ℃，$137.5）作 Cisco IE 系列的中性替代；非管理 STI-288GP（$57.4）；FCC 有、UL 无需提前说明；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）、2024-08-14 $65（10G Media Converter）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-17；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For your industrial line next to Cisco IE: DIN-rail 8× GbE PoE+ (240 W) + 2× SFP L2+ managed, −40 to +75 °C, FCC/CE, neutral packing, $137.5 EXW at 20-unit tier — would you like one evaluation unit shipped to High Point first?
@@ -87,7 +87,7 @@ updated: 2026-10-29
 
 - `infinityhardware.us` → 主机商 cPanel 类邮箱（MX：mx10.antispam.mailspamprotection.com、mx20.antispam.mailspamprotection.com、mx30.antispam.mailspamprotection.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（美国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-11 Veterans Day；11-26 Thanksgiving Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【商业季】11-23→11-30：感恩节周 + 黑五 / 网一：11-26 法定、11-27 实际放假；零售 / 电商类客户整周最忙，别推销
@@ -140,7 +140,7 @@ updated: 2026-10-29
   > 贸易公司/Cisco工业交换机 2020年使用国际站 / 1 33694 46904 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Purchase Manager（姓名待核）（公域 —— 家庭式微型转售 + BPO 混业（Go Get International LLC dba）：一页纸即止（第 98 批 官方登记核实 2026-10-28））sales@infinityhardware.us（公开） +1 336 944 6904（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档）
 
@@ -309,12 +309,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

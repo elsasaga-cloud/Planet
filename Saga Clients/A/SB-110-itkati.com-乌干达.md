@@ -12,7 +12,7 @@ code: SB-110
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "iTKATI UG Ltd（ITKATI Uganda，Kampala；itkati.com）"
 score: 59
 country: 乌干达
@@ -30,13 +30,13 @@ price_tier: 30%
 research: done
 site_snapshot: unreachable  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：乌干达坎帕拉的小型 IT/网络/安防集成商 iTKATI UG Ltd（2009 年起、2018 年登记；6–10 人；企业网络、CCTV、Starlink、云与托管、VoIP/对讲、软件；地址 Plot 965 Kyadondo/Makindye；care@itkati.com，+256 393 225 713）。表内联系人 Bob（technical@itkati.com，+256 704 575 328，WA 已加）：对价格 OK、想拿样并**贴自有标**，2024-02 要 4/8/16/24/64 口价格，2024-03 再问价；18 次推送 1 次实质回复。贴标 = OEM 档 30% → B（东非非主攻区，但意向明确）。（调研 2026-10-21；表内兴趣：对价格OK 想拿样 贴标）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/乌干达；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/乌干达；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2024-01-20 → 2025-10-06）；最近一次客户回复：2024-03-18：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 要全系列价 + 贴标 → 以 8 PoE + 2 SFP L2+ 起手做样机，OEM 30% 档；中性包装 + 丝印其 logo，MOQ 按型号另议；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -127,7 +127,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Bob（技术 / 采购（研究档 KP；WA 已加；价格 OK、要样、要自有标）= 收件人 — 一页纸一次：贴标 OEM 30% B、STC-028GP $28 / STC-228GP $33 / STC-2216GP 贴标 + 贴标 MOQ + 付费样机；小量先按集成商 25% 中性包装 — 乌干达常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 坎帕拉、UCC 不声称（第 122 批 官方登记核实 2026-10-29））technical@itkati.com +256 704 575 328（WA 已加）〔用户 Clients 表〕
 - **KP**：Sarah Basemera（Company manager（yellow.ug 2026-10-29；无公开邮箱）（第 122 批 官方登记核实 2026-10-29）） +256 785 284 579〔yellow.ug〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档）
@@ -303,12 +303,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

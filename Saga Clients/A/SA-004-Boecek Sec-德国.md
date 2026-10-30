@@ -12,6 +12,7 @@ code: SA-004
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后
 name_official: "Boecek Sec（boecek.de，用户表原值）"
 score: 131
 country: 德国
@@ -36,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国安防客户（用户表：买了 5 电口样品，需要一起买工业电源，问了 2 款 2.5G 价格，对机架式工业管理交换机有兴趣，需要支持…）。网页搜索未找到该域名的公开页面，公司规模/类型待用户侧确认。（调研 2026-10-21；表内兴趣：买了5电口样品，需要一起买工业电源，也问了拿的2款2.5G网的价格，对机架式工业管理有兴趣，需要能支持CLI管理，知道Aliexpress, 比较在意运费和进口税，展会结束时一直在扫货）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 7 次（2025-04-14 → 2025-11-05）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM（8 口管理 DIN）+ STI-144GP（4+1 PoE） — 展会扫货后拿了 5 口工业样机 + DIN 电源 → 顺位是 8 口管理 DIN 与 4+1 PoE；他在意运费/关税 → 只报 EXW；锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
@@ -141,6 +142,7 @@ updated: 2026-10-30
 - **【核查】boecek.de 不可访问；无公开页面**
   > Failed to fetch page (HTTP 500)
   > 来源：https://boecek.de/（抓取 2026-10-21）
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 级维持：有样品购买 + 具体型号问价（用户一手证据）；网页无法核实不扣分，但「最大未知」= 公司实体与规模。

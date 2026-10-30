@@ -28,7 +28,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -126,6 +126,14 @@
    "to": "A",
    "prev_reason": "需求泛（'要 PoE switch'）、语言障碍、无后续互动 → B 慢跟（土耳其在主攻区故保留）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场）"
   }
  ],
  "snap_thicken": {
@@ -149,5 +157,18 @@
   "url": "https://www.bilgeguvenlik.com/tr",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A3",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "none",
+  "evidence": ""
  }
 }

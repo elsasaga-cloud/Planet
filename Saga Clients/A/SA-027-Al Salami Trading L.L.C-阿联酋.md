@@ -12,6 +12,7 @@ code: SA-027
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Al Salami Trading L.L.C.（AST, Dubai, UAE）"
 score: 83
 country: 阿联酋
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: timeout  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：迪拜老牌电子安防集成商（1989 年创立，Al Salami 集团成员，11–50 人），业务为报警、监控、音视频安防系统的设计、集成、安装与维护。用户表：A 已回复 + 询盘流水，自官网询盘 2 台工业千兆 1 光 4 电。（调研 2026-10-21；表内兴趣：2个工业千兆1光4）
-- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-06-02 → 2025-06-02）；最近一次客户回复：2025-06-02：DS
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 不主动。已打开的主题（3/14 封有打开记录）：「Industrial PoE Switch」(2025-03-25)、「Re: Industrial PoE Switch」(2025-06-16)、「Re: Industrial PoE Switch」(2025-07-03) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-06 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -141,6 +142,7 @@ updated: 2026-10-29
 - **KP**：—（总机（官网公开））alsalami@emirates.net.ae +971 4 265 0333〔https://www.alsalami.com/〕
 - **KP**：Rashid Al Salami（Chairman / Founder（官网 About））—（未公开） +971 4 265 0333（公司）〔https://www.alsalami.com/about-us/〕
 - **KP**：Reyann Salazar Brosoto（来信署名人（职务未在邮件署名里出现））reyann@alsalami.com +971 52 905 6975（2025-06-16 签名 Mob）〔S/A 邮箱来信 2025-06-16 来信 1 封（第 72 批从邮件表头补）〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。
@@ -334,12 +336,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 83）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 83）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

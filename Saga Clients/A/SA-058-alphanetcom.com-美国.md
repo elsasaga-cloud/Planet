@@ -12,6 +12,7 @@ code: SA-058
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 
 name_official: "Alpha Net Communications（San Antonio, TX，美国，1986 年起）"
 score: 70
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国得州圣安东尼奥的结构化布线承包商/小型集成商（1986 年起，1–10 人），服务 1–500 人规模的组织，提供布线、光纤安装、电话系统、无线、摄像、门禁；在售 HPE/Extreme 交换机、Panduit/Hubbell/ICC 布线；A 已回复 1 次（群发 US 表）。（调研 2026-10-21；表内兴趣：工业switch 分销商；有比较多的供应商 产品面广 Networking      switch）
-- **为什么是 A 级**：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-09-27 → 2025-09-27）；最近一次客户回复：2025-09-27：Price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-84XGWE（4×10G SFP + 8×10G mGig 铜，网管，$204 EXW，`data/hrui_STC对照表.csv`）= 他 2025-04 原话的规格；备选 STC-08XGE 8×10G 铜非管理 $181.5；Realtek 线对美国客户开 → Simon 定（Q-52；SB-001 2024-08 已卖过同系列） — U29 教训：先 grep 仓库——8×10G 电口在 HRUI 线就有。已打开的主题（8/21 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2025-04-08)、「10G Enterprise SFP Switch」(2025-09-26)、「Re: 10G Enterprise SFP Switch」(2025-09-27)、「Updated Ethernet Switches Links」(2026-03-30) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续｜已发资料（勿重发）：STC-110XGE(2024-08-25)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；$181.5 USD EXW（对外价表，报前按快照日期重核 15 天有效）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-04 $300（48 Port PoE Managed Switch）、2025-09-26 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-29 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-29；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For your San Antonio projects, is the 8 x 10G copper + 4 x 10G SFP+ web-managed unit ($204 USD EXW) enough, or do you need CLI/SNMP management on it?
@@ -168,6 +169,7 @@ updated: 2026-10-29
   > Extreme Networks Gigabit Switch HP ProCurve Gigabit Switch Service Design and Installation
   > 来源：https://www.alphanetcom.com/san-antonio-structured-cabling.html（抓取 2026-10-21）
 - **KP**：Nathan "Nate" Cline（President（2013 起）/ Yelp 店主 = 老板（第二代；创始人 Thomas J. Cline 1986 创立、2012 退休）（第 84 批 官方登记核实 2026-10-27））nate.cline@alphanetcom.com +1 210-654-0653〔https://www.alphanetcom.com/（Contact 区块）〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。
 
@@ -368,12 +370,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 70）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

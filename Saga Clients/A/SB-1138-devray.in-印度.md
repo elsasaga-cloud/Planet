@@ -12,7 +12,7 @@ code: SB-1138
 rating: A
 rating_auto: C
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
 name_official: "DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies（印度 Noida；Make-in-India OEM）"
 score: -4
 country: 印度
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：Elsa 邮箱 2025-12 → 2026-03 三个线程 12 封（来 5 去 7），全部是 Managing Director Yogendra Rajput 具名：2025-12-02 要完整资料 + 问公司在哪；2026-01-16/20 对 CENTEC「OEM Core Switching」追问「有无 8 GB RAM / 16 GB Flash 的 L3 机型？要 datasheet + 价格；能否从中国以外的产地提货？」——Elsa 只答了「We are based in China」+ 附件，RAM/Flash 与价格没答；2026-03-31「Are you ODM?」→ Elsa「OEM/ODM 都做」→「share data sheets along with the costing, we are interested in SKD」→ Elsa 只给链接 + 「SKD is fine with us」，costing 没给。两处欠答。（调研 2026-10-25；表内兴趣：基本都是联科的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424XGGPM-280W（24 PoE + 4×10G，L2+）/ STC-28DGGPM（8 PoE + 2×2.5G SFP，L2+） — OEM 30% 档；SKD 套件价按年量另议（CKD/SKD 只对量）；锚价：STC-424XGGPM-280W $180（群发现价，㉕ ②；Elsa Bcc 命中表无此户，未见 $170）/ STC-28DGGPM $87.4（30% 档）；CENTEC L3 不报价（内存指标不符，先说清）
 - **第一问（只问一个）**：Yogendra - for an SKD programme, what yearly quantity per model would you commit to?
@@ -96,7 +96,7 @@ updated: 2026-10-29
 - `devray.in` → 同域名 MX → 托管在 maplecloudtechnologies.com（MX：mail.devray.in）。主机商附带邮箱（同域名 MX → 托管在 maplecloudtechnologies.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `maplecloudtechnologies.com` → 主机商 cPanel 类邮箱（MX：mail.maplecloudtechnologies.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（印度 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（印度 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-08 Diwali —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
@@ -146,7 +146,7 @@ updated: 2026-10-29
 - **类型**：印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）
 - **KP**：Yogendra Kumar Rajput（Founder / Managing Director（CISA & CISM）；DevRay IT Solutions Pvt Ltd + MapleCloud Tech Services Pvt Ltd 两家董事（MCA）= 拍板人 / 收件人；Elsa 线程 12 封具名追问 CENTEC L3（第 114 批 官方登记核实 2026-10-28））yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in +91-9739995151（信尾；对外材料不写电话）〔Elsa 邮箱 2026-01-16 签名〕
 - **KP**：Neha Jain（Director DevRay IT Solutions Private Limited（MCA）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532〕
-- **调研后定级**：A（原自动 C）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 （建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
 
@@ -320,12 +320,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -4）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -4）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

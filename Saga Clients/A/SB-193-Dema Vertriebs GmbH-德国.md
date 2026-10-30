@@ -12,7 +12,7 @@ code: SB-193
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "DEMA Vertriebs-GmbH（dema-vertrieb.com / dema-handel.net，Untermünkheim-Übrigshausen, DE）"
 score: 51
 country: 德国
@@ -31,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国巴符州 Untermünkheim 的**五金/园艺/农用/车间用品**进口与电商集团公司（HRB 571318 Stuttgart；1963 年登记；注册资本 €800k；德国 100–249 人，集团含 Stabilo Fachmärkte 连锁 >1,200 人、>€300M 营收；自有品牌 DEMA / Fix Aktiv / Denner Edition；CEO Ulrich Abendschein）。品类与 PoE/工业交换机无关，且属大型集团——行业外 + 规模大。用户表：1 次实质回复，1 次跟进。（调研 2026-10-21；表内兴趣：两个公司名字，找PoE交换机，可以推荐工业级的）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌）；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-10 → 2025-07-10）；最近一次客户回复：2025-07-10：MOQ  8/24口的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-080GE（8 口千兆 DIN 非管理）/ STI-0240GE（24 口千兆 DIN 非管理，按单生产）/ STI-088GP（8 口 PoE） — 进口商 / 电商 20% 档；自有品牌贴标不加价（logo 免费，彩盒 200 套起）；锚价：STI-080GE $31.4（主表 20% 档；他 2025-06 见过 $32.5，现价更低）/ STI-0240GE $130（㉕ ① 自家 2025-06-10 报价单原价，主表无此型号）/ STI-088GP $42.2（20% 档；他见过 $43.5）；他见过的实报（2025-06-10 整表）：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（5 口 $22.5~32.5）；历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Markus - is the switch for your own-brand range in the Stabilo stores and web shops, or for an installation of your own?
@@ -144,7 +144,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ulrich Abendschein（Geschäftsführer（2006 起；同时任 STABILO Fachmarkt 连锁多家公司 GF）= 拍板人；研究档原无具名 KP → 对表信抬头 z. Hd. Herrn Abendschein（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
 - **KP**：Günther Denner（Prokurist（Kupferzell；自有品牌「Denner Edition」）= 采购 / 经营层第二签字人（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。
 
@@ -330,12 +330,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,6 +12,7 @@ code: SA-053
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 
 name_official: "PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）"
 score: 73
 country: 印度尼西亚
@@ -30,13 +31,13 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。（调研 2026-10-21；表内兴趣：洪瑞的工业FS）
-- **为什么是 A 级**：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07））；自动分级 A：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）；最近一次客户回复：2025-01-03：hi
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / HRUI 工业款（研究档 P1） — 以 WeChat 为准。已打开的主题（2/2 封有打开记录）：「industrial poe switch」(2024-07-03)、「Re: industrial poe switch」(2024-07-04) → 读者兴趣偏「工业」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.
@@ -94,7 +95,7 @@ updated: 2026-10-29
 - `infrateq.id` → 同域名 MX → 托管在 upcloud.host（MX：mail.infrateq.id）。主机商附带邮箱（同域名 MX → 托管在 upcloud.host）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `divatel.co.id` → Google Workspace（MX：aspmx.l.google.com、aspmx.l.google.com、alt1.aspmx.l.google.com、alt2.aspmx.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（印度尼西亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -159,6 +160,7 @@ updated: 2026-10-29
 - **KP**：Ismed Sitepu（CEO & Founder）ismed@divatel.co.id +62 852-8940-4589（WA，官网与用户记录一致）〔用户 Clients 表 + LinkedIn + 官网〕
 - **KP**：Ismed Sitepu（Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址）sales@divatel.id（公司公开） +62 852-8940-4589（网站公开 WA）〔https://www.linkedin.com/in/ismedsitepu/〕
 - **KP**：Bagus Widiyanto（Sales（infrateq.com 公开））— +62 812-9989-0595〔https://infrateq.com/156-industrial-poe-switch〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。
 
@@ -339,12 +341,12 @@ Pak Ismed, Simon from Saga Telecom. Next to the HR600-AFG-822S on infrateq.com, 
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 73）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

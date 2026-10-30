@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）",
  "notes": "国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-826 Versitron，只发未回）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -207,6 +207,27 @@
    "to": "A",
    "prev_reason": "5 封实质来信（2026-01 ×2、03 ×3），带终端客户具体型号（C9300L-48P-4X 等价 + 堆叠）进入 CENTEC STH1G 选型，停在「数量？」；gmail 地址导致自动 C，按证据升 B（慢慢跟进）。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）"
   }
- ]
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2026-03-10] Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I ha ‖ [A 2026-03-11] Hi Alan, Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stackin ‖ 研 2026-03-10 Arnoldo（Solution Architect）: I have a client who's requesting several switches similar to the Cisco C9300L-48 / 2026-03-11 Arnoldo:"
+ }
 }

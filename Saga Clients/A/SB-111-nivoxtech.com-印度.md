@@ -12,7 +12,7 @@ code: SB-111
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "Nivox Technologies（Bengaluru）"
 score: 59
 country: 印度
@@ -30,13 +30,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。（调研 2026-10-21；表内兴趣：网站上介绍比较具体）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 13 次（2024-04-22 → 2025-06-21）；最近一次客户回复：57：EN50155
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
@@ -79,7 +79,7 @@ updated: 2026-10-29
 
 - `nivoxtech.com` → Microsoft 365（MX：nivoxtech-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
@@ -133,7 +133,7 @@ updated: 2026-10-29
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hemanth Kumar（Director / 合伙人 Nivox Technologies（kompass / dnb）= 拍板人 / 收件人；2024–2025 多次问价（含 EN 50155）（第 114 批 官方登记核实 2026-10-28））hemanth@nivoxtech.com +91 98455 04242〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Kavitha D.（Director & CEO / 合伙人（crunchbase / kompass）（第 114 批 官方登记核实 2026-10-28）） 〔https://in.kompass.com/c/nivox-technologies/in433614/〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -309,12 +309,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 59）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

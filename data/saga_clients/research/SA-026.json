@@ -294,5 +294,30 @@
   "url": "https://hardenednetworks.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-03-03] We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened ‖ [A 2025-04-28] Do you have broadcom based solution? ‖ 表 2025.3.3: 芯片→只用博通方案 ‖ 研 2025-03-03 mark@expresssupply.net: We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschult / 2025-04-28 Mark: Do you have broadcom based solution?"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）"
 }

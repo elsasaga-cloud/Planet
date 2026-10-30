@@ -358,5 +358,30 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "PI包·gg",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·gg",
+  "reply_class": "R+",
+  "evidence": "[A 2025-07-23] Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* ‖ [A 2025-07-24] Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote: ‖ 研 2025-07-18 John Davis: I just made the payment / 2025-07-22 sales@52networks.com: Any update on this order? On Fri, 18 Jul 2025 at 17:24, Alan from Saga Teleco"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
 }

@@ -40,7 +40,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -166,6 +166,14 @@
    "to": "A",
    "prev_reason": "两次具名真互动均为 25G/100G 数据中心需求（Simon：DC 交换机客户优先）；2025-12 明说「we have 100-25G projects」后被我们一句「still focusing on access」放掉；俄罗斯为次要市场，按 B 慢慢跟进。",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）"
   }
  ],
  "snap_thicken": {
@@ -198,5 +206,18 @@
   "url": "https://www.comtinu.ru/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-12-03] Yes, we have 100-25G projects What is your company website? ‖ [A 2025-12-03] Hi Alan, Thank you for update. We are not having appropriate projects so far that will include such switches.  ‖ 研 2025-12-03 Yaroslav: We are not having appropriate projects so far that will include such switches.（对 / 2025-12-03 Yaroslav: Yes, we have 100-25G projects What is your company website?"
  }
 }

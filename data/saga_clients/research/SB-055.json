@@ -45,8 +45,8 @@
    "source": "S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": "B",
- "override_reason": "欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nWA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -161,7 +161,16 @@
   "note": "桌面复核（研究档类型 + 对位首推）：安防集成/经销商；切入：自进口安装商：STC-28DGGPM（全口 30W 配 4K 摄像）为主、STC-424DGGPM-280W 为多摄像点；25% 档（自进口亦可按 20% 谈量）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA ✔，展会 —，绑定 未绑定））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:22:15Z",
@@ -188,5 +197,18 @@
   "url": "https://dios-industries.com/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2025-03-05] Dear Alan, thank u, where can i find prices? Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS In ‖ [A 2025-03-05] Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS ‖ 表 2025.3.5: 28poe→price ‖ 研 2025-03-05 Jacco Slob（CEO）: please sent me pricelist. / 2025-03-05 Jacco: thank u, where can i find prices?"
  }
 }

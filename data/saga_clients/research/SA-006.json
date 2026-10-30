@@ -194,7 +194,7 @@
   "models": "Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM"
  },
  "grade_override": "A",
- "override_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "mail_review": {
   "as_of": "2026-10-24",
   "situation": "Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。",
@@ -589,5 +589,28 @@
   "url": "https://vilink.us/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "PI包·可发展",
+  "why_not": "",
+  "excl": "",
+  "deal": "PI包·可发展",
+  "reply_class": "R+",
+  "evidence": "[S 2024-12-03] On 2024-12-03 06:49, Simon wrote: It looks good - Thanks Thu ‖ [S 2025-05-09] On 2025-03-27 08:00, Simon from Saga Telecom wrote: Hi Simon, Can you send me the full price list of your prod ‖ 表 1113: 10gmc→下单了 ‖ 研 2026-09-14 Thu Pham（Vi-Link，thupvilink16@gmail.com）: 1. Vi-Link = Arial - B ; Fiber Optic Communications = Segoe UL Light ; Model = S / 2026-09-25 Thu Pham: Thank you - It "
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "PI 包成单客户，Simon 标签 可发展 → A",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  }
+ ]
 }

@@ -73,8 +73,8 @@
    "source": "A 邮箱邮件表头（10 封）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -247,5 +247,28 @@
   "url": "https://gofiberx.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[A 2026-06-05] Support MPLS with H3C? [cid:image001.png@01DCF4E6.42B89240] ‖ [A 2026-06-08] Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F ‖ 表 1.2: 24fiber→price info ‖ 研 2025-01-03 Ivan: You don't have that one rackmount? Not din rail? What it's the OS? / 2026-06-08 Ivan: Price for this one STH-2C24XFSFI Needs to be DC And with the M"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）"
+  }
+ ]
 }

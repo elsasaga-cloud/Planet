@@ -228,5 +228,30 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
- }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A1",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）",
+  "why_not": "",
+  "excl": "",
+  "deal": "核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024.5.16: 发了2层2光8poE→成单电口设备"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）"
+  }
+ ],
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）"
 }

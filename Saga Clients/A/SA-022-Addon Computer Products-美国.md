@@ -12,6 +12,7 @@ code: SA-022
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·6 台 MC 样品（Addon）
 name_official: "AddOn Networks / Add-On Computer Peripherals（Tustin/Irvine, CA）"
 score: 86
 country: 美国
@@ -30,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国加州的兼容光模块与高速线缆独立制造商（1999 年起），自称全球最大独立光模块制造商，250+ 员工，产品线含 MC（含 10G、串口转光纤）、复用器、光纤配件；在自有实验室编码/测试。用户表：买了 6 台 MC 样品，嫌交期长；联系人 Matt McCormick（matt@addoncomputer.com，用户表原值），WhatsApp 已加。（调研 2026-10-21；表内兴趣：MC 很多家的/有光路的；买了6台样品MC 嫌交期长）
-- **为什么是 A 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·6 台 MC 样品（Addon））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 18 次（2025-04-03 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC 自有品牌线补源、交期敏感 → 先拿最常用的千兆 SFP 转换器压交期；锚价：STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-02 $65（10G Media Converter）、2025-05-29 $300（48 Port PoE Managed Switch）、2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：On the ADD-GMC-SFP class gigabit converter we can now commit a firm 10–15 day lead time from order for the first 200 units, which was the point that stalled things after the six samples. Is the gigabit SFP converter still sourced externally, and shall I hold that lead time with a current EXW quote? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
@@ -179,6 +180,7 @@ updated: 2026-10-29
 - **KP**：Matt McCormick（CEO（经营者，非所有者）；AddOn Networks = ADD-ON COMPUTER PERIPHERALS, LLC（California LLC 2002-12-26，前身 Inc. 2000），Patton 家族所有（President Jimmy Patton）；NY OGS 合同 PM69867；EIN 05-0549009（第 84 批 官方登记核实 2026-10-27））matt@addoncomputer.com +1 949-735-4119（WhatsApp 已加）〔Clients/A/DONE/US.xlsx〕
 - **KP**：Anthony Giunta（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））anthony.giunta@addonnetworks.com 〔A 邮箱发件表头〕
 - **KP**：Tyler Griffey（收件人（A 邮箱 2026 年 5 封群发的收件地址；从未回信；职务未核））tyler.griffey@addonnetworks.com 〔A 邮箱发件表头〕
+- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·6 台 MC 样品（Addon）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期——下次跟进直接给「常备库存型号 + 10–15 天交期承诺」。体量大于 Saga 常规客户，但 MC 贴牌决策链短。P1 = STI-110GE（MC）。
 
@@ -408,12 +410,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 86）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 86）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

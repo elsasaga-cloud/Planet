@@ -63,7 +63,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名",
+ "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -243,6 +243,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名"
+  },
+  {
+   "batch": "AB-FINAL-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名",
+   "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）"
   }
  ],
  "snap_thicken": {
@@ -276,5 +284,18 @@
   "url": "https://actelis.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-01",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "A",
+  "reason": "真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": "[S 2025-10-29] Do you have a spec sheet on this unit and a user manual? Best Regards, P. Casey Hurley VP Sales - Strategic Ac ‖ [S 2026-03-02] Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-4 ‖ 表 1.4: 24fiber→info ‖ 研 2025-10-29 Casey: Do you have a spec sheet on this unit and a user manual? / 2026-03-02 pchurley@actelis.com: Thank you…"
  }
 }

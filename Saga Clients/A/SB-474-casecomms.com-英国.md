@@ -12,7 +12,7 @@ code: SB-474
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对
+rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
 name_official: "Case Communications Ltd（casecomms.com；邮箱域 case.uk.com）"
 score: 40
 country: 英国
@@ -31,13 +31,13 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 4
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国 High Wycombe 的工业/「street-hardened」网络品牌商（1970 年起；1988 Dowty-Case、1993 Cray，后独立）：自有品牌工业交换机 PIGE-4T-2S-G / PIGE-8T-2S-G（8 PoE + 2 SFP）/ PIGE-10T-4S-G / PIGE-16T-4S-G / PIXE-12T-4SX-G（8 PoE + 4 GE + 4×10G）/ R2-8TxP-24S-4SX-G（2021-12）、新 R3 10G L3 机；另有工业路由器、MC、延长器、网管平台。「在英国设计开发，通过合作伙伴全球销售」；市场含油气、公用事业、铁路、机场、智慧城市、交通与 M.O.D.。规模口径不一（LinkedIn 51–200 / ContactOut 1–10）。用户表：1 次实质回复，20 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：工业FS 工业MC 自己的logo SFP ONV的；商业PoE CCTV为主 很多配件；商业POE CCTV为主 很多配件）
-- **为什么是 A 级**：**调研后定级 A**（Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-04-01 → 2025-10-27）；最近一次客户回复：2025-02-07：MoQ 能否定制
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列或 10G 工业汇聚（新品类） — 品牌商直联；2027-Q1 新品类锚价：STI-488XGGPM $171.9（25% 档）/ STH-2C24XF-HSI $1,500（CENTEC 群发价；第 72 批 2026-10-24）；按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have? Reference: STI-488XGGPM at $171.9 / STH-2C24XF-HSI at $1,500 USD EXW (MOQ 1, 15-day validity).
@@ -179,7 +179,7 @@ updated: 2026-10-29
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Andy（Andrew Thomas Saoulis）（Director / 老板 —— Andrew Thomas Saoulis，唯一在任董事，2000 年创办，1950 年生（第 82 批 Companies House 核实 2026-10-27））andys@case.uk.com 〔S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 B）——Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）
+- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -411,12 +411,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 4 行原始记录归并；自动评级 B，分数 40）；人工/调研定级 → A
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
