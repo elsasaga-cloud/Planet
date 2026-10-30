@@ -170,6 +170,16 @@ updated: 2026-10-30
 | 2026-09-04 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-09-29 | 去 | A | Managed PoE Switches |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：intelligent.hk in:email；"intelligent.hk" in:readme in:description；Intelligent type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：33 封（去 32 / 来 1）　|　**期间**：2024-07-09 → 2026-09-29　|　**最后去信**：2026-09-29
@@ -192,6 +202,15 @@ updated: 2026-10-30
 | Marvell Managed Commercial Switches | 2026-03-23 | 2026-03-23 | 0 | 1 | 1 |
 | OEM Core Switching Solution | 2026-01-30 | 2026-01-30 | 0 | 1 | 1 |
 | …共 30 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-002/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://intelligent.hk/) | html | 待首轮 | — | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

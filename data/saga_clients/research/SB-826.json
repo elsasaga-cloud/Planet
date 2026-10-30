@@ -645,5 +645,90 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch — Buy Versitron SF70460M Managed Industrial Switch（★0，最近推送 2025-07-28）",
+    "url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA- — Buy Versitron SF70460M Managed Industrial Switch USA （★0，最近推送 2025-07-28）",
+    "url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA-",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch- — Buy Versitron SF70460M Managed Industrial Switch （★0，最近推送 2025-07-28）",
+    "url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP- — Buy Versitron 4-Port Managed Industrial Ethernet Switch with SFP （★0，最近推送 2025-07-28）",
+    "url": "https://github.com/Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP-",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking — Buy single fiber media converters for single-mode and multimode fiber networks. Solutions with SC, ST, and LC connectors（★0，最近推送 2026-01-30）",
+    "url": "https://github.com/Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-4-port-switch — Buy Versitron 4 port switch（★0，最近推送 2025-07-29）",
+    "url": "https://github.com/Versitron/Versitron-4-port-switch",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-VDAU1664 — Buy Versitron VDAU1664（★0，最近推送 2025-07-30）",
+    "url": "https://github.com/Versitron/Versitron-VDAU1664",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online — Buy Versitron M82XXD Fiber Optic Modem Online（★0，最近推送 2025-07-30）",
+    "url": "https://github.com/Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -221,6 +221,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2026-07-02 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-19 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：satvision-cctv.ru in:email；"satvision-cctv.ru" in:readme in:description；satvision-cctv.ru type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 25 / 来 1）　|　**期间**：2024-06-12 → 2026-08-19　|　**最后去信**：2026-08-19
@@ -246,13 +256,18 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：6 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1942/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://satvision-cctv.ru/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 11513 字符；首行：Satvision - системы видеонаблюдения |
+| [sitemap](https://satvision-cctv.ru/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 88 条） |
+| [news_1](https://satvision-cctv.ru/base/blog/tekhnologii/) | html | 待首轮 | — | 导航「Публикации」 |
+| [news_2](https://satvision-cctv.ru/marketing/case-studies-partners/) | html | 待首轮 | — | 导航「Кейсы партнеров」 |
+| [vk](https://vk.com/club77890303) | html | 待首轮 | — | VK 公开社区页 |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCgZEVoZLZ2vIok5CYJcNogA) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCgZEVoZLZ2vIok5CYJcNogA |
 
 ## 联系方式（已有 · 原值照录）
 

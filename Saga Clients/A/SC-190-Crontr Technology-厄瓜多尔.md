@@ -154,7 +154,7 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917 — <https://www.dnb.com/business-directory/company-profiles/cronte-technology-sa.c6417fdaa4e01fc9532a13c4f67bbbfe>
 - 网查（2026-10-30）：Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net — <https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -166,7 +166,11 @@ updated: 2026-10-30
 
 - 2026-10-30：Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net — <https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology>　*A-DEEP-01 网查镜像*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：cronte.net in:email；"cronte.net" in:readme in:description；Crontr Technology type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -184,6 +188,15 @@ updated: 2026-10-30
 | Passive poe switch | 2024-08-27 | 2024-08-27 | 0 | 1 | 1 |
 | Unmanaged switch | 2024-08-01 | 2024-08-01 | 0 | 1 | 1 |
 | Industrial poe managed switch | 2024-07-09 | 2024-07-09 | 0 | 1 | 1 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-190/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://cronte.net/) | html | 待首轮 | — | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

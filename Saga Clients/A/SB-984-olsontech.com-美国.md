@@ -237,7 +237,7 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 9… — <http://www.olsontech.com/>
 - 网查（2026-10-30）：Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active — <https://www.crunchbase.com/organization/olson-technology>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -249,7 +249,11 @@ updated: 2026-10-30
 
 - 2026-10-30：Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 95346 · sales@olsontech.com — <http://www.olsontech.com/>　*A-DEEP-01 网查镜像*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：olsontech.com in:email；"olsontech.com" in:readme in:description；olsontech.com type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -275,7 +279,7 @@ updated: 2026-10-30
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 sitemap：新增 7 条： feed； feed； link-budgets-5； intro-to-fiber-optics-6； optical-fiber-wavelength-band
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-984/`；本节随档案重渲染刷新，实时看日志。
 

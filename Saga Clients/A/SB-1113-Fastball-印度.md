@@ -201,6 +201,16 @@ updated: 2026-10-30
 | 2023-12-13 | 去 | R |  |  |
 | 2024-01-15 | 去 | R |  |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：fastball.in in:email；"fastball.in" in:readme in:description；Fastball type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 成交记录（PI 包 · 自动汇总）
 
 - **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：Fastball
@@ -233,7 +243,7 @@ updated: 2026-10-30
 | [home](https://fastball.in/) | html | HTTP 200 | 2026-10-28T08:44:48Z | 9609 字符；首行：Fastball |
 | [indiamart](https://www.indiamart.com/fastball/) | html | HTTP 429 | 2026-10-23T03:05:43Z | IndiaMART 店铺（有 FBC-204GP 4 口工业交换机 = 贴我方 STC-204GP 同款命名；20 口千兆光纤交换机） |
 
-- **人工定期看（登录墙，不自动抓）**：TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021；站点无 RSS（/feed/ 404、?feed=rss2 返回 HTML）: https://fastball.in/
+- **人工定期看（登录墙，不自动抓）**：TradeIndia 店铺；GST 07AJJPR5445G1ZX，个体 proprietorship 2021；站点无 RSS（/feed/ 404、?feed=rss2 返回 HTML）: https://fastball.in/；WhatsApp: https://wa.me/919355075075?text=Hi%20there!%20I%20am%20interested%20in%20your%20services.
 
 ## 联系方式（已有 · 原值照录）
 

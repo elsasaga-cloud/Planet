@@ -151,6 +151,29 @@ updated: 2026-10-30
 
 **故事线**：沙特阿拉伯·ISP/运营商；研究档法定名：3Lines Advanced Technologies Company（利雅得）。往来 —→2025-05-12：我方去信 0 封（A 0 / S 0），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-05-07 E: Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specificatio ‖ 2025-05-12 E: Hello Team, Kindly find the f。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30：GitHub 仓库提及域名：Abdul-Rafay-ASE/3lines-wds-2026 — 3lines WDS 2026 Presentation（★0，最近推送 2026-03-05） — <https://github.com/Abdul-Rafay-ASE/3lines-wds-2026>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-097/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.3lines.com.sa/en) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://www.3lines.com.sa/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 84 条） |
+| [news_1](https://www.3lines.com.sa/en/news) | html | 待首轮 | — | 导航「Newsroom」 |
+
+- **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/3lines
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`ismail@3lines.com.sa`〔企业邮箱；来源：用户表原值〕

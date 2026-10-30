@@ -322,6 +322,16 @@
     "batch": "A-DEEP-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：nambasoftware.com.br in:email；\"nambasoftware.com.br\" in:readme in:description；nambasoftware.com.br type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
    }
   ]
  }

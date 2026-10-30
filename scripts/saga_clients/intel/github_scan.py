@@ -93,11 +93,14 @@ def main():
             if it:
                 it['items'] = [x for x in it['items'] if x.get('batch') != 'INTEL-GH-01']
             # 人工判噪（看过 URL 确认与本户无关）
-            NOISE = {'SA-063': 'repos', 'SB-018': 'orgs', 'SA-070': 'orgs', 'SA-010': 'repos', 'SA-020': 'repos', 'SA-086': 'repos', 'SB-022': 'orgs'}
-            if NOISE.get(c) == 'repos':
+            NOISE = {'SA-063': 'repos', 'SB-018': 'orgs', 'SA-070': 'orgs', 'SA-010': 'repos', 'SA-020': 'repos', 'SA-086': 'repos', 'SB-022': 'orgs',
+                     'SB-103': 'orgs', 'SB-1113': 'both', 'SB-360': 'orgs', 'SB-375': 'orgs', 'SB-461': 'repos', 'SC-002': 'orgs', 'SC-371': 'orgs'}
+            NOISE_LOGIN = {'liveyet', 'grundig41', 'Grundigt', 'grundigegryndere', 'grundig-akademie'}
+            if NOISE.get(c) in ('repos', 'both'):
                 rec = dict(rec, repos=[])
-            if NOISE.get(c) == 'orgs':
+            if NOISE.get(c) in ('orgs', 'both'):
                 rec = dict(rec, orgs=[])
+            rec = dict(rec, orgs=[o for o in rec['orgs'] if o['login'] not in NOISE_LOGIN])
             hits = [(f"GitHub 用户（邮箱域 {rec['domains'][0] if rec['domains'] else ''}）：{u['login']}", u['url']) for u in rec['users']] + \
                    [(f"GitHub 组织（按公司名，疑似）：{o['login']}", o['url']) for o in rec['orgs'] if plausible(o['login'])] + \
                    [(f"GitHub 仓库提及域名：{r['full_name']} — {r['desc']}（★{r['stars']}，最近推送 {r['pushed']}）", r['url']) for r in rec['repos'] if plausible(r['full_name'] + ' ' + r['desc']) or (root and root in (r['desc'] or '').lower())]

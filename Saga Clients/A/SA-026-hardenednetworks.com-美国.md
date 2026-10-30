@@ -269,15 +269,23 @@ A 确认（美国自有品牌工业交换机 + 3 次实质回复 + 明确贴牌�
 | 2026-01-16 | 去 | A | Re: Marvell Alleycat5 Solution |  |
 | 2026-02-12 | 去 | A | Updated Ethernet Switches Links |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**新闻/招标**
+
+- 2026-10-30：官网首页（2026-06-26 抓取日期）：「Hardened Networks switches have been specifically engineered to handle … 8k multi-cast, high bandwidth video applications」；渠道：Express Supply（expresssupply.us/hardened-networks） — <https://hardenednetworks.com/>　*8K 组播视频 = 交通摄像头骨干；经销商 Express Supply 可作第二触点*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：hardenednetworks.com in:email；"hardenednetworks.com" in:readme in:description；hardenednetworks.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：官网 Products：Hardened Networks / ITS Express Ethernet Switches —— 80 Series V3：HN-8004-16（Full Layer 3 OSPF/PIM/VRRP/BGP，4×USFP+ 1G/2.5G/10G，16×铜口，192 GB 背板）；HN-8042（Base L3，2×USFP+，2×ESFP，8×铜口，SHA-256，FIPS-197）；HN-MC-1000 媒体转换器；HN-3488 / HN-3416 已 EOL；「All ITS Express/Hardened Networks switches are on the Florida Approved Products List (APL)」 — <https://hardenednetworks.com/products/>　*自有品牌 ITS 加固交换机全系（有白牌来源）；2026-06/07 页面仍在更新 = 活跃；佛州 DOT APL 门槛 → 我们做其下一代机型的 ODM 候选，规格对位 2.5G/10G 上联 + L3*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

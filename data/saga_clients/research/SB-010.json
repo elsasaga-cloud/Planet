@@ -454,6 +454,36 @@
   "as_of": "2026-10-30",
   "items": [
    {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：American Fibertek Inc. · 131 followers · Computers and Electronics Manufacturing · 11–50 employees（12 on LinkedIn）· Headquarters St Petersburg, Florida · Founded 1984；「manufactured in America … meeting all BAA compliance requirements … also offers a full array of sourced TAA compliant products」；产品含 Ethernet switches and fiber switches",
+    "url": "https://www.linkedin.com/company/american-fibertek",
+    "note": "总部已在佛州圣彼得堡（研究档旧址 Edison NJ 需更新）；外采线要求 TAA 合规 → 中国产地不合规，只能走非 TAA 的商业线或海外产地；信里不提 TAA",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：Donna Poulos — President（我方 KP 核实）；LinkedIn：Matt Poulos — Vice President, Operations & Strategy；Aaron Parise — Engineer；Ana L Rodriguez — Production expediter supervisor；ZoomInfo 营收估计 $8.4M",
+    "url": "https://www.zoominfo.com/c/american-fibertek-inc/1736750",
+    "note": "Poulos 家族企业；运营 VP 管外采",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "Cience：「American Fibertek has hundreds of replacement products for IFS, Interlogix and Comnet」",
+    "url": "https://www.cience.com/company/american-fibertek/-5146488774677515066",
+    "note": "定位 = IFS/Interlogix/ComNet 替代品供应商 → 其外采目录正是我们 MC/光口交换机的位置",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
     "kind": "GitHub/技术足迹",
     "date": "2026-10-30",
     "quote": "未得：americanfibertek.com in:email；\"americanfibertek.com\" in:readme in:description；americanfibertek.com type:org",

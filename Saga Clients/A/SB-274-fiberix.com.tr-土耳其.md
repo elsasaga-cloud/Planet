@@ -184,7 +184,7 @@ updated: 2026-10-30
 
 **故事线**：土耳其·ISP/运营商；登记线索：TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd: Fiberix İletişim H。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424XGGM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -196,11 +196,15 @@ updated: 2026-10-30
 
 - 2026-10-30：elemanonline：Fiberix İletişim Hizmetleri Ltd. Şti.（Gaziantep，İnternet Servis Sağlayıcısı）在招聘平台有雇主档案 — <https://www.elemanonline.com.tr/firma/fiberix-iletisim-hizmetleri-ltd-sti/519b526100000a4600000a46>
 
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：fiberix.com.tr in:email；"fiberix.com.tr" in:readme in:description；fiberix.com.tr type:org
+
 **论坛/社区**
 
 - 2026-10-30：Şikayetvar：Fiberix internet müşteri hizmetleri 31 şikayet——Şahinbey / Şehitkamil 用户投诉频繁断网、100 Mbps 12 月合约 410 TL/月、2025-05 安装费争议 — <https://www.sikayetvar.com/fiberix/internet/musteri-hizmetleri>　*居民 FTTH 运营商，网络稳定性被投诉 → 汇聚/接入交换机升级是切口*
 
-待挖：年报/财务、领英公司页、KP、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+待挖：年报/财务、领英公司页、KP、展会/活动、新闻/招标（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

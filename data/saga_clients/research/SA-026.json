@@ -543,6 +543,26 @@
   "as_of": "2026-10-30",
   "items": [
    {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "官网 Products：Hardened Networks / ITS Express Ethernet Switches —— 80 Series V3：HN-8004-16（Full Layer 3 OSPF/PIM/VRRP/BGP，4×USFP+ 1G/2.5G/10G，16×铜口，192 GB 背板）；HN-8042（Base L3，2×USFP+，2×ESFP，8×铜口，SHA-256，FIPS-197）；HN-MC-1000 媒体转换器；HN-3488 / HN-3416 已 EOL；「All ITS Express/Hardened Networks switches are on the Florida Approved Products List (APL)」",
+    "url": "https://hardenednetworks.com/products/",
+    "note": "自有品牌 ITS 加固交换机全系（有白牌来源）；2026-06/07 页面仍在更新 = 活跃；佛州 DOT APL 门槛 → 我们做其下一代机型的 ODM 候选，规格对位 2.5G/10G 上联 + L3",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "官网首页（2026-06-26 抓取日期）：「Hardened Networks switches have been specifically engineered to handle … 8k multi-cast, high bandwidth video applications」；渠道：Express Supply（expresssupply.us/hardened-networks）",
+    "url": "https://hardenednetworks.com/",
+    "note": "8K 组播视频 = 交通摄像头骨干；经销商 Express Supply 可作第二触点",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
     "kind": "GitHub/技术足迹",
     "date": "2026-10-30",
     "quote": "未得：hardenednetworks.com in:email；\"hardenednetworks.com\" in:readme in:description；hardenednetworks.com type:org",

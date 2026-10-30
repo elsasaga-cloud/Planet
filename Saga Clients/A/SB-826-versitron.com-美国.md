@@ -266,6 +266,23 @@ updated: 2026-10-30
 | 2026-03-11 | 去 | S | Re: 10G Enterprise SFP Switch |  |
 | 2026-03-11 | 来 | S | Automatic reply: 10G Enterprise SFP Switch｜Hello: I hope all is well. I will be out of the office until 03/12/26, and will reply to any messages when … |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 8 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch — Buy Versitron SF70460M Managed Industrial Switch（★0，最近推送 2025-07-28） — <https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA- — Buy Versitron SF70460M Managed Industrial Switch USA （★0，最近推送 2025-07-28） — <https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA->　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch- — Buy Versitron SF70460M Managed Industrial Switch （★0，最近推送 2025-07-28） — <https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch->　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP- — Buy Versitron 4-Port Managed Industrial Ethernet Switch with SFP （★0，最近推送 2025-07-28） — <https://github.com/Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP->　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking — Buy single fiber media converters for single-mode and multimode fiber networks. Solutions with SC, ST, and LC connectors（★0，最近推送 2026-01-30） — <https://github.com/Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-4-port-switch — Buy Versitron 4 port switch（★0，最近推送 2025-07-29） — <https://github.com/Versitron/Versitron-4-port-switch>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-VDAU1664 — Buy Versitron VDAU1664（★0，最近推送 2025-07-30） — <https://github.com/Versitron/Versitron-VDAU1664>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+- 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online — Buy Versitron M82XXD Fiber Optic Modem Online（★0，最近推送 2025-07-30） — <https://github.com/Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：50 封（去 29 / 来 21）　|　**期间**：2023-11-09 → 2026-03-11　|　**最后去信**：2026-03-11

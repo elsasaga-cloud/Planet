@@ -252,6 +252,16 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2026-08-19 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-08-19 | 去 | R |  |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：optiwatchgroup.com in:email；"optiwatchgroup.com" in:readme in:description；optiwatch monitoring solution type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-06-13 → 2026-08-19　|　**最后去信**：2026-08-19
@@ -277,13 +287,17 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-151/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://optiwatchgroup.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 11519 字符；首行：Remote Monitoring Solutions \| Construction Site Security \| Optiwatch Limited |
+| [news_1](https://optiwatchgroup.com/resources/blog/blog.html) | html | 待首轮 | — | 导航「Blog」 |
+| [news_2](https://optiwatchgroup.com/resources/projects/projects.html) | html | 待首轮 | — | 导航「Projects」 |
+
+- **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/optiwatch/；LinkedIn: https://www.linkedin.com/company/optiwatchlimited；X/Twitter: https://twitter.com/optiwatch
 
 ## 联系方式（已有 · 原值照录）
 

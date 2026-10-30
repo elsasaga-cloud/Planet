@@ -209,7 +209,7 @@ updated: 2026-10-30
 
 - 网查（2026-10-30）：Walter Arnoldo Belteton Mohr — Consultor de diseño de soluciones en Smart Cities de Centroamérica · Guatemala（LinkedIn「其他人还看过」侧栏，2026-10-30） — <https://gt.linkedin.com/in/jorge-mondal-chew-86329256>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -217,7 +217,11 @@ updated: 2026-10-30
 
 - 2026-10-30：Walter Arnoldo Belteton Mohr — Consultor de diseño de soluciones en Smart Cities de Centroamérica · Guatemala（LinkedIn「其他人还看过」侧栏，2026-10-30） — <https://gt.linkedin.com/in/jorge-mondal-chew-86329256>　*A-DEEP-01 网查镜像*
 
-待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：arnoldomohr gmail.com type:org
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

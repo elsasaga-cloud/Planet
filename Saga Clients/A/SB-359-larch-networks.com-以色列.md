@@ -252,6 +252,16 @@ updated: 2026-10-30
 | 2026-07-02 | 去 | A | Re: Request for DX1518/DX1548 Chips |  |
 | 2026-07-02 | 来 | A | Request for DX1518/DX1548 Chips｜Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX151… |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：larch-networks.com in:email；"larch-networks.com" in:readme in:description；larch-networks.com type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：38 封（去 24 / 来 14）　|　**期间**：2025-05-21 → 2026-07-02　|　**最后去信**：2026-07-02

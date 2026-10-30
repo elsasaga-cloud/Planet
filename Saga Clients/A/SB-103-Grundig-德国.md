@@ -249,6 +249,16 @@ updated: 2026-10-30
 | 2026-08-18 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-23 | 去 | A | Managed PoE Switches |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：grundig-security.com in:email；"grundig-security.com" in:readme in:description；Grundig type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：16 封（去 15 / 来 1）　|　**期间**：2025-04-14 → 2026-09-23　|　**最后去信**：2026-09-23

@@ -437,5 +437,20 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 组织（按公司名，疑似）：LivEye-GmbH",
+    "url": "https://github.com/LivEye-GmbH",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

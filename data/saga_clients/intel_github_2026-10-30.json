@@ -2031,5 +2031,1978 @@
 "\"raisecom.su\" in:readme in:description",
 "raisecom.su type:org"
 ]
+},
+"SB-1136": {
+"code": "SB-1136",
+"name": "fiberoptics4sale.com",
+"domains": [
+"fiberoptics4sale.com",
+"fo4sale.com",
+"foscoconnect.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "JamesBurnsBacon/5GWirelessSignalProcessing-Sionna-TensorFlow",
+"url": "https://github.com/JamesBurnsBacon/5GWirelessSignalProcessing-Sionna-TensorFlow",
+"desc": "AI simulated analysis of why cell phone service fails in large crowds",
+"stars": 0,
+"pushed": "2024-09-20"
+}
+],
+"queries": [
+"fiberoptics4sale.com in:email",
+"\"fiberoptics4sale.com\" in:readme in:description",
+"fiberoptics4sale.com type:org"
+]
+},
+"SB-1137": {
+"code": "SB-1137",
+"name": "Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda.",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"Infotec Comercio de Equipamentos e Siste type:org"
+]
+},
+"SB-1138": {
+"code": "SB-1138",
+"name": "devray.in",
+"domains": [
+"devray.in",
+"maplecloudtechnologies.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "tanishabisht0707/tanishabisht0707",
+"url": "https://github.com/tanishabisht0707/tanishabisht0707",
+"desc": "Config files for my GitHub profile.",
+"stars": 0,
+"pushed": "2026-02-25"
+}
+],
+"queries": [
+"devray.in in:email",
+"\"devray.in\" in:readme in:description",
+"devray.in type:org"
+]
+},
+"SB-1139": {
+"code": "SB-1139",
+"name": "arnoldomohr@gmail.com",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"arnoldomohr gmail.com type:org"
+]
+},
+"SB-119": {
+"code": "SB-119",
+"name": "wirestar.net",
+"domains": [
+"wirestar.net"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "kobysb/signature-generator-entra",
+"url": "https://github.com/kobysb/signature-generator-entra",
+"desc": "Email signature generator using Graph API to get data",
+"stars": 0,
+"pushed": "2026-08-27"
+}
+],
+"queries": [
+"wirestar.net in:email",
+"\"wirestar.net\" in:readme in:description",
+"wirestar.net type:org"
+]
+},
+"SB-122": {
+"code": "SB-122",
+"name": "Tera Technologies and Engineering Ltd",
+"domains": [
+"teratech.co.tz"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"teratech.co.tz in:email",
+"\"teratech.co.tz\" in:readme in:description",
+"Tera Technologies and Engineering Ltd type:org"
+]
+},
+"SB-129": {
+"code": "SB-129",
+"name": "Addon Technology Ltd",
+"domains": [
+"addon-tech.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "Vizucom",
+"url": "https://github.com/Vizucom"
+}
+],
+"repos": [
+{
+"full_name": "Ivan2navI/rtl8812ae",
+"url": "https://github.com/Ivan2navI/rtl8812ae",
+"desc": "Drivers for RTL8812AE & Proxmox problems ...",
+"stars": 0,
+"pushed": "2023-05-01"
+}
+],
+"queries": [
+"addon-tech.com in:email",
+"\"addon-tech.com\" in:readme in:description",
+"Addon Technology Ltd type:org"
+]
+},
+"SB-130": {
+"code": "SB-130",
+"name": "Bonmag International",
+"domains": [
+"omnisecurity.ro"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"omnisecurity.ro in:email",
+"\"omnisecurity.ro\" in:readme in:description",
+"Bonmag International type:org"
+]
+},
+"SB-131": {
+"code": "SB-131",
+"name": "DE secure",
+"domains": [
+"desecuretechnology.com",
+"desecure.com.tr"
+],
+"users": [],
+"orgs": [
+{
+"login": "deltachat",
+"url": "https://github.com/deltachat"
+},
+{
+"login": "Securepoint",
+"url": "https://github.com/Securepoint"
+},
+{
+"login": "delta-kim",
+"url": "https://github.com/delta-kim"
+},
+{
+"login": "cryptoecc",
+"url": "https://github.com/cryptoecc"
+},
+{
+"login": "dessertlab",
+"url": "https://github.com/dessertlab"
+}
+],
+"repos": [],
+"queries": [
+"desecuretechnology.com in:email",
+"\"desecuretechnology.com\" in:readme in:description",
+"DE secure type:org"
+]
+},
+"SB-132": {
+"code": "SB-132",
+"name": "F.A.S.T",
+"domains": [
+"fasttr.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "F-A-S-T-Project",
+"url": "https://github.com/F-A-S-T-Project"
+},
+{
+"login": "F-A-S-T-Support",
+"url": "https://github.com/F-A-S-T-Support"
+},
+{
+"login": "F-A-S-T-Support-BV",
+"url": "https://github.com/F-A-S-T-Support-BV"
+}
+],
+"repos": [],
+"queries": [
+"fasttr.com in:email",
+"\"fasttr.com\" in:readme in:description",
+"F.A.S.T type:org"
+]
+},
+"SB-134": {
+"code": "SB-134",
+"name": "Kassaba Systems",
+"domains": [
+"kassabasystems.com",
+"kassaba.bg"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"kassabasystems.com in:email",
+"\"kassabasystems.com\" in:readme in:description",
+"Kassaba Systems type:org"
+]
+},
+"SB-137": {
+"code": "SB-137",
+"name": "ORAL GUVENLIK",
+"domains": [
+"oralcompanies.com",
+"oralguvenlik.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"oralcompanies.com in:email",
+"\"oralcompanies.com\" in:readme in:description",
+"ORAL GUVENLIK type:org"
+]
+},
+"SB-140": {
+"code": "SB-140",
+"name": "ag-bilgisayar.com",
+"domains": [
+"ag-bilgisayar.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ag-bilgisayar.com in:email",
+"\"ag-bilgisayar.com\" in:readme in:description",
+"ag-bilgisayar.com type:org"
+]
+},
+"SB-143": {
+"code": "SB-143",
+"name": "broadstar.com",
+"domains": [
+"broadstar.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"broadstar.com in:email",
+"\"broadstar.com\" in:readme in:description",
+"broadstar.com type:org"
+]
+},
+"SB-144": {
+"code": "SB-144",
+"name": "bsdnetworks.com",
+"domains": [
+"bsdnetworks.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bsdnetworks.com in:email",
+"\"bsdnetworks.com\" in:readme in:description",
+"bsdnetworks.com type:org"
+]
+},
+"SB-149": {
+"code": "SB-149",
+"name": "klasnet.com.tr",
+"domains": [
+"klasnet.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"klasnet.com.tr in:email",
+"\"klasnet.com.tr\" in:readme in:description",
+"klasnet.com.tr type:org"
+]
+},
+"SB-151": {
+"code": "SB-151",
+"name": "optiwatch monitoring solution",
+"domains": [
+"optiwatchgroup.com",
+"optimumgroupcompanies.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"optiwatchgroup.com in:email",
+"\"optiwatchgroup.com\" in:readme in:description",
+"optiwatch monitoring solution type:org"
+]
+},
+"SB-153": {
+"code": "SB-153",
+"name": "sinerjik",
+"domains": [
+"sinerjik.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"sinerjik.net in:email",
+"\"sinerjik.net\" in:readme in:description",
+"sinerjik type:org"
+]
+},
+"SB-160": {
+"code": "SB-160",
+"name": "linx-com.com",
+"domains": [
+"linx-com.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"linx-com.com in:email",
+"\"linx-com.com\" in:readme in:description",
+"linx-com.com type:org"
+]
+},
+"SB-163": {
+"code": "SB-163",
+"name": "skeo.ru",
+"domains": [
+"skeo.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"skeo.ru in:email",
+"\"skeo.ru\" in:readme in:description",
+"skeo.ru type:org"
+]
+},
+"SB-164": {
+"code": "SB-164",
+"name": "unea-x.com",
+"domains": [
+"unea-x.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"unea-x.com in:email",
+"\"unea-x.com\" in:readme in:description",
+"unea-x.com type:org"
+]
+},
+"SB-166": {
+"code": "SB-166",
+"name": "Crown Security Solutions",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"Crown Security Solutions type:org"
+]
+},
+"SB-167": {
+"code": "SB-167",
+"name": "ONSIS ELEKTRONIK",
+"domains": [
+"onsis.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"onsis.com.tr in:email",
+"\"onsis.com.tr\" in:readme in:description",
+"ONSIS ELEKTRONIK type:org"
+]
+},
+"SB-169": {
+"code": "SB-169",
+"name": "agsplus.in",
+"domains": [
+"agsplus.in",
+"xexagon.co.in",
+"imimg.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"agsplus.in in:email",
+"\"agsplus.in\" in:readme in:description",
+"agsplus.in type:org"
+]
+},
+"SB-173": {
+"code": "SB-173",
+"name": "inaxsys.com",
+"domains": [
+"inaxsys.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"inaxsys.com in:email",
+"\"inaxsys.com\" in:readme in:description",
+"inaxsys.com type:org"
+]
+},
+"SB-175": {
+"code": "SB-175",
+"name": "mbtc.com.sa",
+"domains": [
+"mbtc.com.sa",
+"aamindustrial.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"mbtc.com.sa in:email",
+"\"mbtc.com.sa\" in:readme in:description",
+"mbtc.com.sa type:org"
+]
+},
+"SB-183": {
+"code": "SB-183",
+"name": "Onyx Technology Solutions Limited",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"Onyx Technology Solutions Limited type:org"
+]
+},
+"SB-185": {
+"code": "SB-185",
+"name": "Zeytek",
+"domains": [
+"zeytek.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"zeytek.com.tr in:email",
+"\"zeytek.com.tr\" in:readme in:description",
+"Zeytek type:org"
+]
+},
+"SB-189": {
+"code": "SB-189",
+"name": "vintronsmartvision.com",
+"domains": [
+"vintronsmartvision.com",
+"quippro.kz",
+"airlinkwifi.net",
+"airlink-ilife.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"vintronsmartvision.com in:email",
+"\"vintronsmartvision.com\" in:readme in:description",
+"vintronsmartvision.com type:org"
+]
+},
+"SB-193": {
+"code": "SB-193",
+"name": "Dema Vertriebs GmbH",
+"domains": [
+"dema-vertrieb.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"dema-vertrieb.com in:email",
+"\"dema-vertrieb.com\" in:readme in:description",
+"Dema Vertriebs GmbH type:org"
+]
+},
+"SB-201": {
+"code": "SB-201",
+"name": "Elsi",
+"domains": [
+"elsikr.it"
+],
+"users": [],
+"orgs": [
+{
+"login": "elsioantunes",
+"url": "https://github.com/elsioantunes"
+},
+{
+"login": "ElsiKora",
+"url": "https://github.com/ElsiKora"
+},
+{
+"login": "Elsin",
+"url": "https://github.com/Elsin"
+},
+{
+"login": "elsight",
+"url": "https://github.com/elsight"
+},
+{
+"login": "ElsiddigAhmed",
+"url": "https://github.com/ElsiddigAhmed"
+}
+],
+"repos": [],
+"queries": [
+"elsikr.it in:email",
+"\"elsikr.it\" in:readme in:description",
+"Elsi type:org"
+]
+},
+"SB-225": {
+"code": "SB-225",
+"name": "CESS Govalik",
+"domains": [
+"shnrise.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"shnrise.com in:email",
+"\"shnrise.com\" in:readme in:description",
+"CESS Govalik type:org"
+]
+},
+"SB-226": {
+"code": "SB-226",
+"name": "HANCHANG Infotech CO.,LTD",
+"domains": [
+"hcin4.com",
+"rfoint.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"hcin4.com in:email",
+"\"hcin4.com\" in:readme in:description",
+"HANCHANG Infotech CO. LTD type:org"
+]
+},
+"SB-243": {
+"code": "SB-243",
+"name": "hfcl.com",
+"domains": [
+"hfcl.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "Soumyojyotisaha/VIT-Resources",
+"url": "https://github.com/Soumyojyotisaha/VIT-Resources",
+"desc": "Placement Data 2023-2024",
+"stars": 0,
+"pushed": "2024-08-28"
+}
+],
+"queries": [
+"hfcl.com in:email",
+"\"hfcl.com\" in:readme in:description",
+"hfcl.com type:org"
+]
+},
+"SB-246": {
+"code": "SB-246",
+"name": "isnetworks.pl",
+"domains": [
+"isnetworks.pl",
+"is-net.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"isnetworks.pl in:email",
+"\"isnetworks.pl\" in:readme in:description",
+"isnetworks.pl type:org"
+]
+},
+"SB-248": {
+"code": "SB-248",
+"name": "nellyssecurity.com",
+"domains": [
+"nellyssecurity.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "tjcarlsoeckerd/CapstoneClass",
+"url": "https://github.com/tjcarlsoeckerd/CapstoneClass",
+"desc": "",
+"stars": 0,
+"pushed": "2018-02-19"
+}
+],
+"queries": [
+"nellyssecurity.com in:email",
+"\"nellyssecurity.com\" in:readme in:description",
+"nellyssecurity.com type:org"
+]
+},
+"SB-255": {
+"code": "SB-255",
+"name": "switchtek",
+"domains": [
+"switchtec.com",
+"switchtec.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"switchtec.com in:email",
+"\"switchtec.com\" in:readme in:description",
+"switchtek type:org"
+]
+},
+"SB-256": {
+"code": "SB-256",
+"name": "tvprzemyslowa.pl",
+"domains": [
+"tvprzemyslowa.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"tvprzemyslowa.pl in:email",
+"\"tvprzemyslowa.pl\" in:readme in:description",
+"tvprzemyslowa.pl type:org"
+]
+},
+"SB-267": {
+"code": "SB-267",
+"name": "bio-cognitive.com",
+"domains": [
+"bio-cognitive.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bio-cognitive.com in:email",
+"\"bio-cognitive.com\" in:readme in:description",
+"bio-cognitive.com type:org"
+]
+},
+"SB-274": {
+"code": "SB-274",
+"name": "fiberix.com.tr",
+"domains": [
+"fiberix.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"fiberix.com.tr in:email",
+"\"fiberix.com.tr\" in:readme in:description",
+"fiberix.com.tr type:org"
+]
+},
+"SB-315": {
+"code": "SB-315",
+"name": "stc-vietnam.com",
+"domains": [
+"stc-vietnam.com",
+"songthanhcong.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"stc-vietnam.com in:email",
+"\"stc-vietnam.com\" in:readme in:description",
+"stc-vietnam.com type:org"
+]
+},
+"SB-326": {
+"code": "SB-326",
+"name": "PROXEET LIMITED",
+"domains": [
+"proxeet.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"proxeet.com in:email",
+"\"proxeet.com\" in:readme in:description",
+"PROXEET LIMITED type:org"
+]
+},
+"SB-331": {
+"code": "SB-331",
+"name": "retelem-dz.com",
+"domains": [
+"retelem-dz.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"retelem-dz.com in:email",
+"\"retelem-dz.com\" in:readme in:description",
+"retelem-dz.com type:org"
+]
+},
+"SB-342": {
+"code": "SB-342",
+"name": "Sure Transport",
+"domains": [
+"suretransport.co.uk",
+"sure24.co.uk"
+],
+"users": [],
+"orgs": [
+{
+"login": "SureCorp",
+"url": "https://github.com/SureCorp"
+}
+],
+"repos": [],
+"queries": [
+"suretransport.co.uk in:email",
+"\"suretransport.co.uk\" in:readme in:description",
+"Sure Transport type:org"
+]
+},
+"SB-343": {
+"code": "SB-343",
+"name": "Zekko Tech Private Limited",
+"domains": [
+"zekko.co.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"zekko.co.in in:email",
+"\"zekko.co.in\" in:readme in:description",
+"Zekko Tech Private Limited type:org"
+]
+},
+"SB-359": {
+"code": "SB-359",
+"name": "larch-networks.com",
+"domains": [
+"larch-networks.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"larch-networks.com in:email",
+"\"larch-networks.com\" in:readme in:description",
+"larch-networks.com type:org"
+]
+},
+"SB-360": {
+"code": "SB-360",
+"name": "longtek",
+"domains": [
+"longtek.co.uk"
+],
+"users": [],
+"orgs": [
+{
+"login": "longtek-shao",
+"url": "https://github.com/longtek-shao"
+},
+{
+"login": "longtek-codeaza",
+"url": "https://github.com/longtek-codeaza"
+}
+],
+"repos": [],
+"queries": [
+"longtek.co.uk in:email",
+"\"longtek.co.uk\" in:readme in:description",
+"longtek type:org"
+]
+},
+"SB-367": {
+"code": "SB-367",
+"name": "thuyluc.com",
+"domains": [
+"thuyluc.com",
+"vnn.vn"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"thuyluc.com in:email",
+"\"thuyluc.com\" in:readme in:description",
+"thuyluc.com type:org"
+]
+},
+"SB-375": {
+"code": "SB-375",
+"name": "Delta Consulting",
+"domains": [
+"dc.ge"
+],
+"users": [],
+"orgs": [
+{
+"login": "DeltaSystems",
+"url": "https://github.com/DeltaSystems"
+},
+{
+"login": "DeltaConsultingAS",
+"url": "https://github.com/DeltaConsultingAS"
+},
+{
+"login": "Delta-Infotek",
+"url": "https://github.com/Delta-Infotek"
+},
+{
+"login": "DeltaConsultingCode",
+"url": "https://github.com/DeltaConsultingCode"
+},
+{
+"login": "deltaconsultingllc",
+"url": "https://github.com/deltaconsultingllc"
+}
+],
+"repos": [
+{
+"full_name": "ahmedlabib-eng/LDO-OTA-Design",
+"url": "https://github.com/ahmedlabib-eng/LDO-OTA-Design",
+"desc": "",
+"stars": 0,
+"pushed": "2026-01-31"
+},
+{
+"full_name": "Adham-M-elsadiq/two-stage-miller-ota",
+"url": "https://github.com/Adham-M-elsadiq/two-stage-miller-ota",
+"desc": "",
+"stars": 0,
+"pushed": "2026-09-12"
+},
+{
+"full_name": "Jesuschamorro54/DynamoAccessLayers",
+"url": "https://github.com/Jesuschamorro54/DynamoAccessLayers",
+"desc": "",
+"stars": 0,
+"pushed": "2025-12-18"
+},
+{
+"full_name": "chicago-joe/NASDAQ-ITCH-5.0-VWAP-PARSER",
+"url": "https://github.com/chicago-joe/NASDAQ-ITCH-5.0-VWAP-PARSER",
+"desc": "",
+"stars": 3,
+"pushed": "2022-09-16"
+},
+{
+"full_name": "jpmouracodex/football-mle",
+"url": "https://github.com/jpmouracodex/football-mle",
+"desc": "Football 2026 World Cup and leagues predictor based on the Dixon-Coles model.",
+"stars": 3,
+"pushed": "2026-09-03"
+},
+{
+"full_name": "juandwt/Topas",
+"url": "https://github.com/juandwt/Topas",
+"desc": "Topas' course ",
+"stars": 0,
+"pushed": "2024-11-18"
+},
+{
+"full_name": "eng-ahmedyaser/Two-Stage-Miller-OTA",
+"url": "https://github.com/eng-ahmedyaser/Two-Stage-Miller-OTA",
+"desc": "Design of Two-Stage Miller OTA in 180-nm CMOS usingCadence Virtuoso, focusing on stability and high-gain performance.",
+"stars": 0,
+"pushed": "2026-08-27"
+},
+{
+"full_name": "FMNSSun/rndstring",
+"url": "https://github.com/FMNSSun/rndstring",
+"desc": "Library to generate API tokens.",
+"stars": 0,
+"pushed": "2018-07-02"
+},
+{
+"full_name": "flying-bug/elemoni",
+"url": "https://github.com/flying-bug/elemoni",
+"desc": "No",
+"stars": 0,
+"pushed": "2026-10-24"
+},
+{
+"full_name": "sihawikhalid/openlut-sky130-ota-guide",
+"url": "https://github.com/sihawikhalid/openlut-sky130-ota-guide",
+"desc": "A multi-part guide to sizing 5T OTAs in SKY130 using the interactive Open-LUT web app. Translate target specs (Gain, GBW",
+"stars": 0,
+"pushed": "2026-10-28"
+}
+],
+"queries": [
+"dc.ge in:email",
+"\"dc.ge\" in:readme in:description",
+"Delta Consulting type:org"
+]
+},
+"SB-388": {
+"code": "SB-388",
+"name": "fhguvenlik.com",
+"domains": [
+"fhguvenlik.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"fhguvenlik.com in:email",
+"\"fhguvenlik.com\" in:readme in:description",
+"fhguvenlik.com type:org"
+]
+},
+"SB-389": {
+"code": "SB-389",
+"name": "hiperonline.com",
+"domains": [
+"hiperonline.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"hiperonline.com in:email",
+"\"hiperonline.com\" in:readme in:description",
+"hiperonline.com type:org"
+]
+},
+"SB-392": {
+"code": "SB-392",
+"name": "makrosisas.com.tr",
+"domains": [
+"makrosisas.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"makrosisas.com.tr in:email",
+"\"makrosisas.com.tr\" in:readme in:description",
+"makrosisas.com.tr type:org"
+]
+},
+"SB-447": {
+"code": "SB-447",
+"name": "automationsystem.in",
+"domains": [
+"automationsystem.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"automationsystem.in in:email",
+"\"automationsystem.in\" in:readme in:description",
+"automationsystem.in type:org"
+]
+},
+"SB-451": {
+"code": "SB-451",
+"name": "e-saudi.net",
+"domains": [
+"e-saudi.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"e-saudi.net in:email",
+"\"e-saudi.net\" in:readme in:description",
+"e-saudi.net type:org"
+]
+},
+"SB-461": {
+"code": "SB-461",
+"name": "EMOS",
+"domains": [
+"emos.cz",
+"emos.eu"
+],
+"users": [],
+"orgs": [
+{
+"login": "emosp",
+"url": "https://github.com/emosp"
+},
+{
+"login": "EmoSenseTeam",
+"url": "https://github.com/EmoSenseTeam"
+},
+{
+"login": "EMoshU",
+"url": "https://github.com/EMoshU"
+},
+{
+"login": "emoshield",
+"url": "https://github.com/emoshield"
+},
+{
+"login": "EmoSense",
+"url": "https://github.com/EmoSense"
+}
+],
+"repos": [
+{
+"full_name": "DXFNT/emos-ads-audit",
+"url": "https://github.com/DXFNT/emos-ads-audit",
+"desc": "EMOS.cz Multi-trh AI Ads Audit Deep (CZ, SK, PL, HU, SI) - Dexfinity",
+"stars": 0,
+"pushed": "2026-04-29"
+},
+{
+"full_name": "martinjansa/arduino_emos_sockets_controller",
+"url": "https://github.com/martinjansa/arduino_emos_sockets_controller",
+"desc": "Arduino controls EMOS sockets via 433 MHz radio communication.",
+"stars": 1,
+"pushed": "2018-04-02"
+},
+{
+"full_name": "lubomir-sach/alexa_top_sites_cz",
+"url": "https://github.com/lubomir-sach/alexa_top_sites_cz",
+"desc": "",
+"stars": 5,
+"pushed": "2015-05-15"
+}
+],
+"queries": [
+"emos.cz in:email",
+"\"emos.cz\" in:readme in:description",
+"EMOS type:org"
+]
+},
+"SB-474": {
+"code": "SB-474",
+"name": "casecomms.com",
+"domains": [
+"casecomms.com",
+"uk.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"casecomms.com in:email",
+"\"casecomms.com\" in:readme in:description",
+"casecomms.com type:org"
+]
+},
+"SB-485": {
+"code": "SB-485",
+"name": "n-itus.com",
+"domains": [
+"n-itus.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"n-itus.com in:email",
+"\"n-itus.com\" in:readme in:description",
+"n-itus.com type:org"
+]
+},
+"SB-487": {
+"code": "SB-487",
+"name": "npotelecom.ru",
+"domains": [
+"npotelecom.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"npotelecom.ru in:email",
+"\"npotelecom.ru\" in:readme in:description",
+"npotelecom.ru type:org"
+]
+},
+"SB-529": {
+"code": "SB-529",
+"name": "dmsimfg.com",
+"domains": [
+"dmsimfg.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"dmsimfg.com in:email",
+"\"dmsimfg.com\" in:readme in:description",
+"dmsimfg.com type:org"
+]
+},
+"SB-542": {
+"code": "SB-542",
+"name": "lanopia.de",
+"domains": [
+"lanopia.de"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"lanopia.de in:email",
+"\"lanopia.de\" in:readme in:description",
+"lanopia.de type:org"
+]
+},
+"SB-599": {
+"code": "SB-599",
+"name": "symanitron.ru",
+"domains": [
+"symanitron.ru",
+"s-avt.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"symanitron.ru in:email",
+"\"symanitron.ru\" in:readme in:description",
+"symanitron.ru type:org"
+]
+},
+"SB-630": {
+"code": "SB-630",
+"name": "CORE IT SOLUTIONS",
+"domains": [
+"citsindia.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "PixelCore-IT-Solutions",
+"url": "https://github.com/PixelCore-IT-Solutions"
+},
+{
+"login": "CoregenX",
+"url": "https://github.com/CoregenX"
+},
+{
+"login": "Truinc",
+"url": "https://github.com/Truinc"
+},
+{
+"login": "dacoreit-dev",
+"url": "https://github.com/dacoreit-dev"
+},
+{
+"login": "coretexits",
+"url": "https://github.com/coretexits"
+}
+],
+"repos": [],
+"queries": [
+"citsindia.com in:email",
+"\"citsindia.com\" in:readme in:description",
+"CORE IT SOLUTIONS type:org"
+]
+},
+"SB-641": {
+"code": "SB-641",
+"name": "apolloinfoways.in",
+"domains": [
+"apolloinfoways.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"apolloinfoways.in in:email",
+"\"apolloinfoways.in\" in:readme in:description",
+"apolloinfoways.in type:org"
+]
+},
+"SB-692": {
+"code": "SB-692",
+"name": "Anda Telecom",
+"domains": [
+"andatelecom.com",
+"andatelecomindia.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"andatelecom.com in:email",
+"\"andatelecom.com\" in:readme in:description",
+"Anda Telecom type:org"
+]
+},
+"SB-696": {
+"code": "SB-696",
+"name": "aironix.co.il",
+"domains": [
+"aironix.co.il"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"aironix.co.il in:email",
+"\"aironix.co.il\" in:readme in:description",
+"aironix.co.il type:org"
+]
+},
+"SB-767": {
+"code": "SB-767",
+"name": "itmsystems.co.uk",
+"domains": [
+"itmsystems.co.uk",
+"itmsystems.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"itmsystems.co.uk in:email",
+"\"itmsystems.co.uk\" in:readme in:description",
+"itmsystems.co.uk type:org"
+]
+},
+"SB-787": {
+"code": "SB-787",
+"name": "tccomm.com",
+"domains": [
+"tccomm.com",
+"novaca.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"tccomm.com in:email",
+"\"tccomm.com\" in:readme in:description",
+"tccomm.com type:org"
+]
+},
+"SB-826": {
+"code": "SB-826",
+"name": "versitron.com",
+"domains": [
+"versitron.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "Versitron/Versitron-SF70460M-Managed-Industrial-Switch",
+"url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch",
+"desc": "Buy Versitron SF70460M Managed Industrial Switch",
+"stars": 0,
+"pushed": "2025-07-28"
+},
+{
+"full_name": "Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA-",
+"url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA-",
+"desc": "Buy Versitron SF70460M Managed Industrial Switch USA ",
+"stars": 0,
+"pushed": "2025-07-28"
+},
+{
+"full_name": "Versitron/Versitron-SF70460M-Managed-Industrial-Switch-",
+"url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-",
+"desc": "Buy Versitron SF70460M Managed Industrial Switch ",
+"stars": 0,
+"pushed": "2025-07-28"
+},
+{
+"full_name": "Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP-",
+"url": "https://github.com/Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP-",
+"desc": "Buy Versitron 4-Port Managed Industrial Ethernet Switch with SFP ",
+"stars": 0,
+"pushed": "2025-07-28"
+},
+{
+"full_name": "Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking",
+"url": "https://github.com/Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking",
+"desc": "Buy single fiber media converters for single-mode and multimode fiber networks. Solutions with SC, ST, and LC connectors",
+"stars": 0,
+"pushed": "2026-01-30"
+},
+{
+"full_name": "Versitron/Versitron-4-port-switch",
+"url": "https://github.com/Versitron/Versitron-4-port-switch",
+"desc": "Buy Versitron 4 port switch",
+"stars": 0,
+"pushed": "2025-07-29"
+},
+{
+"full_name": "Versitron/Versitron-VDAU1664",
+"url": "https://github.com/Versitron/Versitron-VDAU1664",
+"desc": "Buy Versitron VDAU1664",
+"stars": 0,
+"pushed": "2025-07-30"
+},
+{
+"full_name": "Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online",
+"url": "https://github.com/Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online",
+"desc": "Buy Versitron M82XXD Fiber Optic Modem Online",
+"stars": 0,
+"pushed": "2025-07-30"
+},
+{
+"full_name": "Versitron/Versitron-4-channel-video-multiplexer",
+"url": "https://github.com/Versitron/Versitron-4-channel-video-multiplexer",
+"desc": "Buy Versitron 4 channel video multiplexer",
+"stars": 0,
+"pushed": "2025-07-29"
+},
+{
+"full_name": "Versitron/Versitron-20-Port-Managed-PoE-Switch-with-SFP-Uplink",
+"url": "https://github.com/Versitron/Versitron-20-Port-Managed-PoE-Switch-with-SFP-Uplink",
+"desc": "Buy Versitron 20-Port Managed PoE+ Switch with SFP Uplink ",
+"stars": 0,
+"pushed": "2025-07-29"
+}
+],
+"queries": [
+"versitron.com in:email",
+"\"versitron.com\" in:readme in:description",
+"versitron.com type:org"
+]
+},
+"SB-831": {
+"code": "SB-831",
+"name": "actelis.com",
+"domains": [
+"actelis.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "actelis/actelis-accessory-selector",
+"url": "https://github.com/actelis/actelis-accessory-selector",
+"desc": "",
+"stars": 0,
+"pushed": "2026-10-08"
+}
+],
+"queries": [
+"actelis.com in:email",
+"\"actelis.com\" in:readme in:description",
+"actelis.com type:org"
+]
+},
+"SB-869": {
+"code": "SB-869",
+"name": "futurist.com.pk",
+"domains": [
+"futurist.com.pk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"futurist.com.pk in:email",
+"\"futurist.com.pk\" in:readme in:description",
+"futurist.com.pk type:org"
+]
+},
+"SB-905": {
+"code": "SB-905",
+"name": "TELTRONIX | BRITICOM",
+"domains": [
+"briticom.net",
+"teltronix.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"briticom.net in:email",
+"\"briticom.net\" in:readme in:description",
+"TELTRONIX   BRITICOM type:org"
+]
+},
+"SB-910": {
+"code": "SB-910",
+"name": "etictelecom.com",
+"domains": [
+"etictelecom.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"etictelecom.com in:email",
+"\"etictelecom.com\" in:readme in:description",
+"etictelecom.com type:org"
+]
+},
+"SB-924": {
+"code": "SB-924",
+"name": "Intracom Middle East FZ-LLC",
+"domains": [
+"intracom-telecom.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "intracom-telecom-sdn/nstat",
+"url": "https://github.com/intracom-telecom-sdn/nstat",
+"desc": "Network Stress-Test Automation Toolkit",
+"stars": 13,
+"pushed": "2017-10-28"
+},
+{
+"full_name": "dangtrinhnt/DynamicSFCDemo",
+"url": "https://github.com/dangtrinhnt/DynamicSFCDemo",
+"desc": "Dynamic SFC Demo at OpenStack Summit 2018 Vancouver",
+"stars": 5,
+"pushed": "2018-06-04"
+},
+{
+"full_name": "epu-ntua/sphinx-risk-assesment",
+"url": "https://github.com/epu-ntua/sphinx-risk-assesment",
+"desc": "",
+"stars": 0,
+"pushed": "2023-09-27"
+},
+{
+"full_name": "extremexp-HORIZON/vis-api",
+"url": "https://github.com/extremexp-HORIZON/vis-api",
+"desc": "",
+"stars": 3,
+"pushed": "2026-06-04"
+},
+{
+"full_name": "5GZORRO/Smart-Resource-and-Service-Discovery-application",
+"url": "https://github.com/5GZORRO/Smart-Resource-and-Service-Discovery-application",
+"desc": "API for Smart Resource and Service Discovery application",
+"stars": 0,
+"pushed": "2022-12-01"
+},
+{
+"full_name": "extremexp-HORIZON/ddm_client",
+"url": "https://github.com/extremexp-HORIZON/ddm_client",
+"desc": "Python SDK for interacting with the Decentralized Data Management (DDM)",
+"stars": 0,
+"pushed": "2026-02-04"
+},
+{
+"full_name": "epu-ntua/sphinx-attack-simulator",
+"url": "https://github.com/epu-ntua/sphinx-attack-simulator",
+"desc": "",
+"stars": 0,
+"pushed": "2023-09-27"
+},
+{
+"full_name": "ntheol/extremexp-explmodule",
+"url": "https://github.com/ntheol/extremexp-explmodule",
+"desc": "",
+"stars": 0,
+"pushed": "2024-10-08"
+},
+{
+"full_name": "PanosGidarakos/VisApiTest",
+"url": "https://github.com/PanosGidarakos/VisApiTest",
+"desc": "",
+"stars": 0,
+"pushed": "2024-05-20"
+},
+{
+"full_name": "extremexp-HORIZON/extremeXP_experimentCards",
+"url": "https://github.com/extremexp-HORIZON/extremeXP_experimentCards",
+"desc": "",
+"stars": 0,
+"pushed": "2026-02-27"
+}
+],
+"queries": [
+"intracom-telecom.com in:email",
+"\"intracom-telecom.com\" in:readme in:description",
+"Intracom Middle East FZ-LLC type:org"
+]
+},
+"SB-949": {
+"code": "SB-949",
+"name": "ksm.com.au",
+"domains": [
+"ksm.com.au"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ksm.com.au in:email",
+"\"ksm.com.au\" in:readme in:description",
+"ksm.com.au type:org"
+]
+},
+"SB-970": {
+"code": "SB-970",
+"name": "EION Inc",
+"domains": [
+"eion.com"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "Churng/MarTech_Resume",
+"url": "https://github.com/Churng/MarTech_Resume",
+"desc": "MarTech Resume",
+"stars": 0,
+"pushed": "2022-11-14"
+},
+{
+"full_name": "kencc/hexbmi",
+"url": "https://github.com/kencc/hexbmi",
+"desc": "",
+"stars": 0,
+"pushed": "2023-01-07"
+}
+],
+"queries": [
+"eion.com in:email",
+"\"eion.com\" in:readme in:description",
+"EION Inc type:org"
+]
+},
+"SB-982": {
+"code": "SB-982",
+"name": "mcss.co.kr",
+"domains": [
+"mcss.co.kr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"mcss.co.kr in:email",
+"\"mcss.co.kr\" in:readme in:description",
+"mcss.co.kr type:org"
+]
+},
+"SB-984": {
+"code": "SB-984",
+"name": "olsontech.com",
+"domains": [
+"olsontech.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"olsontech.com in:email",
+"\"olsontech.com\" in:readme in:description",
+"olsontech.com type:org"
+]
+},
+"SB-988": {
+"code": "SB-988",
+"name": "Infinity Hardware",
+"domains": [
+"infinityhardware.us"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"infinityhardware.us in:email",
+"\"infinityhardware.us\" in:readme in:description",
+"Infinity Hardware type:org"
+]
+},
+"SC-002": {
+"code": "SC-002",
+"name": "Intelligent",
+"domains": [
+"intelligent.hk"
+],
+"users": [],
+"orgs": [
+{
+"login": "Intelligent-Internet",
+"url": "https://github.com/Intelligent-Internet"
+},
+{
+"login": "intelligent-control-lab",
+"url": "https://github.com/intelligent-control-lab"
+},
+{
+"login": "IntelligentRoboticsLabs",
+"url": "https://github.com/IntelligentRoboticsLabs"
+},
+{
+"login": "Intelligent-Computing-Lab-Panda",
+"url": "https://github.com/Intelligent-Computing-Lab-Panda"
+},
+{
+"login": "Intelligent-Quads",
+"url": "https://github.com/Intelligent-Quads"
+}
+],
+"repos": [],
+"queries": [
+"intelligent.hk in:email",
+"\"intelligent.hk\" in:readme in:description",
+"Intelligent type:org"
+]
+},
+"SC-023": {
+"code": "SC-023",
+"name": "Central Gospel School",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"Central Gospel School type:org"
+]
+},
+"SC-097": {
+"code": "SC-097",
+"name": "Three Lines Company",
+"domains": [
+"3lines.com.sa"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "OsmanX5/ThreeLinesPackages",
+"url": "https://github.com/OsmanX5/ThreeLinesPackages",
+"desc": "",
+"stars": 0,
+"pushed": "2025-07-17"
+},
+{
+"full_name": "Abdul-Rafay-ASE/3lines-wds-2026",
+"url": "https://github.com/Abdul-Rafay-ASE/3lines-wds-2026",
+"desc": "3lines WDS 2026 Presentation",
+"stars": 0,
+"pushed": "2026-03-05"
+},
+{
+"full_name": "RihanAlqahtani/Sourcing-Command-Center",
+"url": "https://github.com/RihanAlqahtani/Sourcing-Command-Center",
+"desc": "",
+"stars": 0,
+"pushed": "2026-05-06"
+}
+],
+"queries": [
+"3lines.com.sa in:email",
+"\"3lines.com.sa\" in:readme in:description",
+"Three Lines Company type:org"
+]
+},
+"SC-1056": {
+"code": "SC-1056",
+"name": "cloudinfotech.co.in",
+"domains": [
+"cloudinfotech.co.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"cloudinfotech.co.in in:email",
+"\"cloudinfotech.co.in\" in:readme in:description",
+"cloudinfotech.co.in type:org"
+]
+},
+"SC-1200": {
+"code": "SC-1200",
+"name": "futurepointt.com",
+"domains": [
+"futurepointt.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"futurepointt.com in:email",
+"\"futurepointt.com\" in:readme in:description",
+"futurepointt.com type:org"
+]
+},
+"SC-1371": {
+"code": "SC-1371",
+"name": "mywatchdog.in",
+"domains": [
+"mywatchdog.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"mywatchdog.in in:email",
+"\"mywatchdog.in\" in:readme in:description",
+"mywatchdog.in type:org"
+]
+},
+"SC-1399": {
+"code": "SC-1399",
+"name": "team5tech.com",
+"domains": [
+"team5tech.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"team5tech.com in:email",
+"\"team5tech.com\" in:readme in:description",
+"team5tech.com type:org"
+]
+},
+"SC-1623": {
+"code": "SC-1623",
+"name": "shopfiber.co.za",
+"domains": [
+"shopfiber.co.za",
+"southernelements.co.za"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"shopfiber.co.za in:email",
+"\"shopfiber.co.za\" in:readme in:description",
+"shopfiber.co.za type:org"
+]
+},
+"SC-1657": {
+"code": "SC-1657",
+"name": "San Telequip Pvt. Ltd.",
+"domains": [
+"santelequip.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"santelequip.com in:email",
+"\"santelequip.com\" in:readme in:description",
+"San Telequip Pvt. Ltd. type:org"
+]
+},
+"SC-1771": {
+"code": "SC-1771",
+"name": "telexcell.com",
+"domains": [
+"telexcell.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"telexcell.com in:email",
+"\"telexcell.com\" in:readme in:description",
+"telexcell.com type:org"
+]
+},
+"SC-190": {
+"code": "SC-190",
+"name": "Crontr Technology",
+"domains": [
+"cronte.net",
+"cronte.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"cronte.net in:email",
+"\"cronte.net\" in:readme in:description",
+"Crontr Technology type:org"
+]
+},
+"SC-1904": {
+"code": "SC-1904",
+"name": "optimal.com.ph",
+"domains": [
+"optimal.com.ph"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"optimal.com.ph in:email",
+"\"optimal.com.ph\" in:readme in:description",
+"optimal.com.ph type:org"
+]
+},
+"SC-1942": {
+"code": "SC-1942",
+"name": "satvision-cctv.ru",
+"domains": [
+"satvision-cctv.ru",
+"satv.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"satvision-cctv.ru in:email",
+"\"satvision-cctv.ru\" in:readme in:description",
+"satvision-cctv.ru type:org"
+]
+},
+"SC-2513": {
+"code": "SC-2513",
+"name": "microtech.net.pk",
+"domains": [
+"microtech.net.pk",
+"hugebestvs.live"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"microtech.net.pk in:email",
+"\"microtech.net.pk\" in:readme in:description",
+"microtech.net.pk type:org"
+]
+},
+"SC-2802": {
+"code": "SC-2802",
+"name": "Euro Security Solutions Ltd",
+"domains": [
+"eurosecuritysolutions.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"eurosecuritysolutions.co.uk in:email",
+"\"eurosecuritysolutions.co.uk\" in:readme in:description",
+"Euro Security Solutions Ltd type:org"
+]
+},
+"SC-2904": {
+"code": "SC-2904",
+"name": "firsttech.co.za",
+"domains": [
+"firsttech.co.za"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"firsttech.co.za in:email",
+"\"firsttech.co.za\" in:readme in:description",
+"firsttech.co.za type:org"
+]
+},
+"SC-371": {
+"code": "SC-371",
+"name": "Visiotech",
+"domains": [
+"visiotechsecurity.com",
+"safirecctv.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "VisioTech",
+"url": "https://github.com/VisioTech"
+},
+{
+"login": "VisioTechLab",
+"url": "https://github.com/VisioTechLab"
+},
+{
+"login": "visiotech-cloud",
+"url": "https://github.com/visiotech-cloud"
+},
+{
+"login": "visiotech-fi",
+"url": "https://github.com/visiotech-fi"
+},
+{
+"login": "visio-tech",
+"url": "https://github.com/visio-tech"
+}
+],
+"repos": [
+{
+"full_name": "Fatlindd/ecommerce_scraper",
+"url": "https://github.com/Fatlindd/ecommerce_scraper",
+"desc": "",
+"stars": 0,
+"pushed": "2025-06-09"
+},
+{
+"full_name": "JosueCristhoper/jarvis-api-project",
+"url": "https://github.com/JosueCristhoper/jarvis-api-project",
+"desc": "Soluciones en Python: Implementación de algoritmos, consultas SQL y navegación de satélites en tiempo real mediante el c",
+"stars": 0,
+"pushed": "2026-03-29"
+}
+],
+"queries": [
+"visiotechsecurity.com in:email",
+"\"visiotechsecurity.com\" in:readme in:description",
+"Visiotech type:org"
+]
+},
+"SC-584": {
+"code": "SC-584",
+"name": "nambasoftware.com.br",
+"domains": [
+"nambasoftware.com.br"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"nambasoftware.com.br in:email",
+"\"nambasoftware.com.br\" in:readme in:description",
+"nambasoftware.com.br type:org"
+]
 }
 }

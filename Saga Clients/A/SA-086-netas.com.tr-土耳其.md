@@ -289,7 +289,7 @@ updated: 2026-10-30
 | 2026-08-12 | 来 | A | Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
 | 2026-08-12 | 来 | R | Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 6 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 10 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -298,6 +298,12 @@ updated: 2026-10-30
 - 2026-10-30：2025 Faaliyet Raporu：2025 yıl sonu itibarıyla çalışan sayısı 1.264；800’e yakın uzman kadro，81 ili kapsayan dağıtım ve servis ağı — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*上市公司年报 PDF（2026-03 发布）；可逐年追*
 - 2026-10-30：PitchBook：As of 31-Dec-2025 trailing 12-month revenue $304M · Employees 1,264 · founded 1967 · Public（BIST: NETAS，1993-03-03 上市） — <https://pitchbook.com/profiles/company/58001-86>
 - 2026-10-30：cnbce 财报摘要：Hasılat 1.719.059.796 TL · Brüt Kar 125.156.133 TL · Sürdürülen Faaliyetler Dönem Zararı -83.668.798 TL · Çalışan 1403 · Kuruluş 31/03/1967 — <https://www.cnbce.com/borsa/hisseler/netas-netas-telekomunikasyon-as>　*期间未标，按页面最新季报理解；亏损中*
+- 2026-10-30：CEO 致辞：「Netaş olarak ana hissedarımız ZTE ile olan ortaklığımızın gücü …」；2017-07 起 ZTE Cooperatief U.A. 子公司；重点：Savunma ve Havacılık（AS9100 认证）、Yerli Üretim ve Ar-Ge（yerli bulut sunucu、DC güç、lityum batarya、mikrodalga）、Kazakistan 集成项目出口、2026 年 5G 普及预期 — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*采购线索②：「yerli üretim（本土制造）」是其叙事主线——对我们意味着：白牌/部件级供货更贴合，而非品牌成品；哈萨克斯坦项目 = 俄语区二级市场线索*
+- 2026-10-30：年报 Sayılarla Netaş：2025 yıl sonu çalışan sayısı 1.264（yaş ortalaması 36，%29 kadın）；dağıtım ve servis ağı 81 il；cinsiyete dayalı ücret oranı %94,4（全文 PDF 已排进运行器文档队列，tedarik / satın alma / yatırım 关键词窗口下一轮入库） — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*全文抽取由日跑 intel_docs 完成（data/saga_clients/intel_fetch_queue.json）*
+
+**KP**
+
+- 2026-10-30：2025 Faaliyet Raporu · Üst Yönetim Ekibi：Sinan Dumlu — CEO, İcra Kurulu Başkanı；Börgehan Köksal — Kurumsal İşler；Burhan Metin / Levent Mutlu — Kamu ve Savunma；Selda Parın — Kurumsal İş Birimi GM；Gülden Erşan — İK；Zeynep Boz — Mali İşler；Ersin Öztürk — Ar-Ge GM；Koray Otyam — BDH GM；Mei Bowen — Operasyon（YK üyesi）；Dr. Xi Guang Qing — Teknoloji — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*高管名单（2025 年报）；运营与技术两席是 ZTE 派驻；我方 PI 对接人 Ender Bulut / Burak Ozdemir 在采购/项目层，不在此名单*
 
 **人事变动**
 
@@ -311,7 +317,11 @@ updated: 2026-10-30
 
 - 2026-10-30（查过未得）：未得：netas.com.tr in:email；"netas.com.tr" in:readme in:description；netas.com.tr type:org
 
-待挖：领英公司页、KP、展会/活动（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：年报 Şirket Profili：三大业务线——Bilgi Teknolojileri（sistem entegrasyonu：veri merkezleri, ağ ve iletişim altyapıları, sunucu ve depolama …「Geniş iş ortağı ve teknoloji üreticisi ekosistemiyle, çoklu üretici ortamlarında」）、İletişim Teknolojileri（Orhanlı tesislerinde yerli üretim：baz istasyonları, mikrodalga, rectifier, lityum iyon akü, DC güç, sunucu）、Mobil（nubia）；BDH 子公司做运维 — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*采购线索①：SI 业务线是多厂商生态，网络设备按项目外采 → Saga 的口子在「项目配套交换机」；制造线是 ZTE 技术 + 本土组装，不是我们的位置*
+
+待挖：领英公司页、展会/活动（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 
@@ -342,7 +352,7 @@ updated: 2026-10-30
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：成单精选层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：成单精选层　|　**自动源**：7 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-086/`；本节随档案重渲染刷新，实时看日志。
 
@@ -351,9 +361,12 @@ updated: 2026-10-30
 | [media_center](https://netas.com.tr/medya-merkezi) | html | HTTP 200 | 2026-10-23T03:05:43Z | 3241 字符；首行：Kariyer |
 | [home](https://netas.com.tr/) | html | HTTP 200 | 2026-10-23T02:54:23Z | 6603 字符；首行：NETAŞ - Bilgi ve İletişim Teknolojileri |
 | [kap_search](https://www.kap.org.tr/tr/sirket-bilgileri/ozet/1061-netas-telekomunikasyon-a-s) | html | HTTP 200 | 2026-10-23T02:54:23Z | 1980 字符；首行：KAP |
+| [auto_sitemap](https://netas.com.tr/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 478 条） |
+| [auto_news_1](https://netas.com.tr/blog) | html | 待首轮 | — | 导航「Blog」 |
+| [auto_youtube](https://www.youtube.com/@NetasTR) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
 | [feed_auto](https://netas.com.tr/feed) | rss | HTTP 200 | 2026-10-23T04:20:51Z | 10 条；最新：Sat, 15 Aug 2026 09:00:45 Netaş, 2026’nın ilk yarısında gelirlerini ve kârlılığını |
 
-- **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/netas（员工 2,000+；KP Ender Bulut / Burak Ozdemir 个人页用 web 搜索看动态）；https://www.hurriyet.com.tr/haberleri/netas（媒体聚合）
+- **人工定期看（登录墙，不自动抓）**：https://www.linkedin.com/company/netas（员工 2,000+；KP Ender Bulut / Burak Ozdemir 个人页用 web 搜索看动态）；https://www.hurriyet.com.tr/haberleri/netas（媒体聚合）；Facebook: https://www.facebook.com/netastr/；X/Twitter: https://x.com/netastr；Instagram: https://www.instagram.com/netastr/；LinkedIn: https://www.linkedin.com/company/netastr/；Facebook: https://www.facebook.com/NetasTR；X/Twitter: https://twitter.com/netastr
 
 ## 联系方式（已有 · 原值照录）
 

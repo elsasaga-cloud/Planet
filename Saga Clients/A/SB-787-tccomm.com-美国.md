@@ -267,6 +267,24 @@ updated: 2026-10-30
 | 2026-08-13 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-09 | 去 | A | 16 Port Industrial PoE Switch |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：TC Communications · 591 followers · Irvine, CA · 51–200 employees（47 on LinkedIn）· Founded 1991 ·「Integrating legacy devices onto modern networks. Made in the USA since 1991」· Specialties：Teleprotection, ITS, Carrier Ethernet, Power Utilities, Public Safety, Freight/Passenger Rail, Military Communications, SCADA；近 3 天帖：JumboSwitch TDM over Ethernet/IP 白皮书 — <https://www.linkedin.com/company/tccomm>　*美国本土制造叙事 + 铁路/军方客群（守界只谈电力/ITS/SCADA）；入门工业交换机可 OEM 是研究档既有判断*
+
+**KP**
+
+- 2026-10-30：LinkedIn / explorium：Steve Cragg — Vice President Sales Marketing（我方 KP 核实）；Ted Langford — Marketing and Sales Director；Ben Huai — Assistant Manager, Engineering；Scott Browder — Regional Sales Manager；Dean Maravilla — Account Manager；地址 17881 Cartwright Road, Irvine CA 92614；营收 $5–10M，≈54 人 — <https://www.explorium.ai/manufacturing/companies/tc-communications>
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：tccomm.com in:email；"tccomm.com" in:readme in:description；tccomm.com type:org
+
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：44 封（去 43 / 来 1）　|　**期间**：2024-06-19 → 2026-09-09　|　**最后去信**：2026-09-09
@@ -292,7 +310,7 @@ updated: 2026-10-30
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 sitemap：新增 400 条： BECOL； Serial-Over-T1-E1-Multiplexer； TDM-over-IP-Jumboswitch； Fiber； Network-Co
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-787/`；本节随档案重渲染刷新，实时看日志。
 

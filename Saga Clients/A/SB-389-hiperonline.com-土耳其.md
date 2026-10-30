@@ -186,7 +186,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 **故事线**：土耳其·ISP/运营商；登记坐实：TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgele: HİPERONLİNE İLETİŞ。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424XGGM；路径：MX 未确认；最近来信 无。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -194,11 +194,15 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 - 2026-10-30：官网：HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ，BTK 授权 ISP；地址 Binbaşı Reşatbey Mah. 351 Sok. Şükrü Ölçer İş Merkezi No:2 Gaziemir / İzmir；客服 0850 840 98 83 — <https://hiperonline.com.tr/eskisehir-metro-ethernet-internet>　*总部在伊兹密尔 Gaziemir，Eskişehir 是自建光纤 + Airfiber 无线的重点城市*
 
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：hiperonline.com in:email；"hiperonline.com" in:readme in:description；hiperonline.com type:org
+
 **供应商/品牌关系**
 
 - 2026-10-30：官网：Eskişehir 自建 fiber + kablosuz（Airfiber 100 Mbps）；81 il 通过批发线路提供 fiber / VDSL；企业 Metro Ethernet 最高 10.000 Mbps；GigaHiper 1000 Mbps 套餐 — <https://hiperonline.com.tr/eskisehir-internet>　*ISP 自建网 → 接入/汇聚交换机、SFP 需求真实*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

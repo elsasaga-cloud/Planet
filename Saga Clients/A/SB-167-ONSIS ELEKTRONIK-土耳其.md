@@ -198,7 +198,7 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -210,7 +210,11 @@ updated: 2026-10-30
 
 - 2026-10-30：RocketReach：Esef Taşkıran — Genel Müdür；Filiz Gündoğan — Muhasebe；Esra Çal — Accountant；公司约 6 人（Datanyze 页写 359 人 / $28.2M 明显失真，不采） — <https://rocketreach.co/onsis-elektrik-elektronik-guvenlik-sitemleri-management_b73b6c95c7ea033f>　*安卡拉小型安防/弱电承包商*
 
-待挖：年报/财务、领英公司页、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：onsis.com.tr in:email；"onsis.com.tr" in:readme in:description；ONSIS ELEKTRONIK type:org
+
+待挖：年报/财务、领英公司页、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

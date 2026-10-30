@@ -921,6 +921,46 @@
     "added": "2026-10-30"
    },
    {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "2025 Faaliyet Raporu · Üst Yönetim Ekibi：Sinan Dumlu — CEO, İcra Kurulu Başkanı；Börgehan Köksal — Kurumsal İşler；Burhan Metin / Levent Mutlu — Kamu ve Savunma；Selda Parın — Kurumsal İş Birimi GM；Gülden Erşan — İK；Zeynep Boz — Mali İşler；Ersin Öztürk — Ar-Ge GM；Koray Otyam — BDH GM；Mei Bowen — Operasyon（YK üyesi）；Dr. Xi Guang Qing — Teknoloji",
+    "url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+    "note": "高管名单（2025 年报）；运营与技术两席是 ZTE 派驻；我方 PI 对接人 Ender Bulut / Burak Ozdemir 在采购/项目层，不在此名单",
+    "batch": "INTEL-04",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "年报 Şirket Profili：三大业务线——Bilgi Teknolojileri（sistem entegrasyonu：veri merkezleri, ağ ve iletişim altyapıları, sunucu ve depolama …「Geniş iş ortağı ve teknoloji üreticisi ekosistemiyle, çoklu üretici ortamlarında」）、İletişim Teknolojileri（Orhanlı tesislerinde yerli üretim：baz istasyonları, mikrodalga, rectifier, lityum iyon akü, DC güç, sunucu）、Mobil（nubia）；BDH 子公司做运维",
+    "url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+    "note": "采购线索①：SI 业务线是多厂商生态，网络设备按项目外采 → Saga 的口子在「项目配套交换机」；制造线是 ZTE 技术 + 本土组装，不是我们的位置",
+    "batch": "INTEL-04",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "CEO 致辞：「Netaş olarak ana hissedarımız ZTE ile olan ortaklığımızın gücü …」；2017-07 起 ZTE Cooperatief U.A. 子公司；重点：Savunma ve Havacılık（AS9100 认证）、Yerli Üretim ve Ar-Ge（yerli bulut sunucu、DC güç、lityum batarya、mikrodalga）、Kazakistan 集成项目出口、2026 年 5G 普及预期",
+    "url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+    "note": "采购线索②：「yerli üretim（本土制造）」是其叙事主线——对我们意味着：白牌/部件级供货更贴合，而非品牌成品；哈萨克斯坦项目 = 俄语区二级市场线索",
+    "batch": "INTEL-04",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "年报 Sayılarla Netaş：2025 yıl sonu çalışan sayısı 1.264（yaş ortalaması 36，%29 kadın）；dağıtım ve servis ağı 81 il；cinsiyete dayalı ücret oranı %94,4（全文 PDF 已排进运行器文档队列，tedarik / satın alma / yatırım 关键词窗口下一轮入库）",
+    "url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+    "note": "全文抽取由日跑 intel_docs 完成（data/saga_clients/intel_fetch_queue.json）",
+    "batch": "INTEL-04",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
     "kind": "GitHub/技术足迹",
     "date": "2026-10-30",
     "quote": "未得：netas.com.tr in:email；\"netas.com.tr\" in:readme in:description；netas.com.tr type:org",

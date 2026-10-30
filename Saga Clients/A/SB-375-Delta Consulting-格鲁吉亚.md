@@ -254,6 +254,16 @@ updated: 2026-10-30
 | 2026-05-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
 | 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：dc.ge in:email；"dc.ge" in:readme in:description；Delta Consulting type:org（同名无关组织/仓库已剔除）
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 成交记录（PI 包 · 自动汇总）
 
 - **Simon 的标签**（PI 包文件夹名）：**gg**　|　买方抬头：DELTA CONSULTING LLC

@@ -20822,6 +20822,26 @@
 "as_of": "2026-10-30",
 "items": [
 {
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "官网 Products：Hardened Networks / ITS Express Ethernet Switches —— 80 Series V3：HN-8004-16（Full Layer 3 OSPF/PIM/VRRP/BGP，4×USFP+ 1G/2.5G/10G，16×铜口，192 GB 背板）；HN-8042（Base L3，2×USFP+，2×ESFP，8×铜口，SHA-256，FIPS-197）；HN-MC-1000 媒体转换器；HN-3488 / HN-3416 已 EOL；「All ITS Express/Hardened Networks switches are on the Florida Approved Products List (APL)」",
+"url": "https://hardenednetworks.com/products/",
+"note": "自有品牌 ITS 加固交换机全系（有白牌来源）；2026-06/07 页面仍在更新 = 活跃；佛州 DOT APL 门槛 → 我们做其下一代机型的 ODM 候选，规格对位 2.5G/10G 上联 + L3",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "官网首页（2026-06-26 抓取日期）：「Hardened Networks switches have been specifically engineered to handle … 8k multi-cast, high bandwidth video applications」；渠道：Express Supply（expresssupply.us/hardened-networks）",
+"url": "https://hardenednetworks.com/",
+"note": "8K 组播视频 = 交通摄像头骨干；经销商 Express Supply 可作第二触点",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
+{
 "kind": "GitHub/技术足迹",
 "date": "2026-10-30",
 "quote": "未得：hardenednetworks.com in:email；\"hardenednetworks.com\" in:readme in:description；hardenednetworks.com type:org",
@@ -62658,6 +62678,46 @@
 "added": "2026-10-30"
 },
 {
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "2025 Faaliyet Raporu · Üst Yönetim Ekibi：Sinan Dumlu — CEO, İcra Kurulu Başkanı；Börgehan Köksal — Kurumsal İşler；Burhan Metin / Levent Mutlu — Kamu ve Savunma；Selda Parın — Kurumsal İş Birimi GM；Gülden Erşan — İK；Zeynep Boz — Mali İşler；Ersin Öztürk — Ar-Ge GM；Koray Otyam — BDH GM；Mei Bowen — Operasyon（YK üyesi）；Dr. Xi Guang Qing — Teknoloji",
+"url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+"note": "高管名单（2025 年报）；运营与技术两席是 ZTE 派驻；我方 PI 对接人 Ender Bulut / Burak Ozdemir 在采购/项目层，不在此名单",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "年报 Şirket Profili：三大业务线——Bilgi Teknolojileri（sistem entegrasyonu：veri merkezleri, ağ ve iletişim altyapıları, sunucu ve depolama …「Geniş iş ortağı ve teknoloji üreticisi ekosistemiyle, çoklu üretici ortamlarında」）、İletişim Teknolojileri（Orhanlı tesislerinde yerli üretim：baz istasyonları, mikrodalga, rectifier, lityum iyon akü, DC güç, sunucu）、Mobil（nubia）；BDH 子公司做运维",
+"url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+"note": "采购线索①：SI 业务线是多厂商生态，网络设备按项目外采 → Saga 的口子在「项目配套交换机」；制造线是 ZTE 技术 + 本土组装，不是我们的位置",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "CEO 致辞：「Netaş olarak ana hissedarımız ZTE ile olan ortaklığımızın gücü …」；2017-07 起 ZTE Cooperatief U.A. 子公司；重点：Savunma ve Havacılık（AS9100 认证）、Yerli Üretim ve Ar-Ge（yerli bulut sunucu、DC güç、lityum batarya、mikrodalga）、Kazakistan 集成项目出口、2026 年 5G 普及预期",
+"url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+"note": "采购线索②：「yerli üretim（本土制造）」是其叙事主线——对我们意味着：白牌/部件级供货更贴合，而非品牌成品；哈萨克斯坦项目 = 俄语区二级市场线索",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "年报 Sayılarla Netaş：2025 yıl sonu çalışan sayısı 1.264（yaş ortalaması 36，%29 kadın）；dağıtım ve servis ağı 81 il；cinsiyete dayalı ücret oranı %94,4（全文 PDF 已排进运行器文档队列，tedarik / satın alma / yatırım 关键词窗口下一轮入库）",
+"url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+"note": "全文抽取由日跑 intel_docs 完成（data/saga_clients/intel_fetch_queue.json）",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
 "kind": "GitHub/技术足迹",
 "date": "2026-10-30",
 "quote": "未得：netas.com.tr in:email；\"netas.com.tr\" in:readme in:description；netas.com.tr type:org",
@@ -71255,6 +71315,36 @@
 "intel": {
 "as_of": "2026-10-30",
 "items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn：American Fibertek Inc. · 131 followers · Computers and Electronics Manufacturing · 11–50 employees（12 on LinkedIn）· Headquarters St Petersburg, Florida · Founded 1984；「manufactured in America … meeting all BAA compliance requirements … also offers a full array of sourced TAA compliant products」；产品含 Ethernet switches and fiber switches",
+"url": "https://www.linkedin.com/company/american-fibertek",
+"note": "总部已在佛州圣彼得堡（研究档旧址 Edison NJ 需更新）；外采线要求 TAA 合规 → 中国产地不合规，只能走非 TAA 的商业线或海外产地；信里不提 TAA",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "ZoomInfo：Donna Poulos — President（我方 KP 核实）；LinkedIn：Matt Poulos — Vice President, Operations & Strategy；Aaron Parise — Engineer；Ana L Rodriguez — Production expediter supervisor；ZoomInfo 营收估计 $8.4M",
+"url": "https://www.zoominfo.com/c/american-fibertek-inc/1736750",
+"note": "Poulos 家族企业；运营 VP 管外采",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "Cience：「American Fibertek has hundreds of replacement products for IFS, Interlogix and Comnet」",
+"url": "https://www.cience.com/company/american-fibertek/-5146488774677515066",
+"note": "定位 = IFS/Interlogix/ComNet 替代品供应商 → 其外采目录正是我们 MC/光口交换机的位置",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
 {
 "kind": "GitHub/技术足迹",
 "date": "2026-10-30",
@@ -99686,6 +99776,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：avestatek.co.uk in:email；\"avestatek.co.uk\" in:readme in:description；Avesta type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -102962,6 +103067,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：nkstech.net in:email；\"nkstech.net\" in:readme in:description；nkstech.net type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -104060,6 +104180,16 @@
 "note": "厂商未在摘要中标出（标签 MDXistanbul）；说明其在某主流品牌渠道体系内",
 "batch": "INTEL-02",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：bilgeguvenlik.com in:email；\"bilgeguvenlik.com\" in:readme in:description；Bilge SECURITY SYSTEMS type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -105602,6 +105732,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 组织（按公司名，疑似）：LivEye-GmbH",
+"url": "https://github.com/LivEye-GmbH",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -106374,6 +106519,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：cansisteknoloji.com in:email；\"cansisteknoloji.com\" in:readme in:description；cansisteknoloji.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -109498,6 +109658,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：thorfiber.com in:email；\"thorfiber.com\" in:readme in:description；DIGI Group type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -112962,6 +113137,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：konakguvenlik.com.tr in:email；\"konakguvenlik.com.tr\" in:readme in:description；konakguvenlik.com.tr type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -125224,6 +125409,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：epygi.com in:email；\"epygi.com\" in:readme in:description；epygi.com type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -127033,6 +127233,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：grundig-security.com in:email；\"grundig-security.com\" in:readme in:description；Grundig type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -127724,6 +127939,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：findcontrols.com in:email；\"findcontrols.com\" in:readme in:description；findcontrols.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -130756,6 +130986,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：stsitalia.com in:email；\"stsitalia.com\" in:readme in:description；STS Italia S.r.l. type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -148222,6 +148467,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：ite.net.pk in:email；\"ite.net.pk\" in:readme in:description；ite.net.pk type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -151786,6 +152046,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：itkati.com in:email；\"itkati.com\" in:readme in:description；itkati.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -153048,6 +153323,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：vienthonggiatot.com in:email；\"vienthonggiatot.com\" in:readme in:description；vienthonggiatot.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -156334,6 +156624,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：nivoxtech.com in:email；\"nivoxtech.com\" in:readme in:description；nivoxtech.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -157693,6 +157998,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：fastball.in in:email；\"fastball.in\" in:readme in:description；Fastball type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -158091,6 +158411,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：FikesMedia/Open-Roster-SFTP-AD-Sync-Tool — Sync from OpenRoster students.csv export located on SFTP to AD（★0，最近推送 2022-08-24）",
+"url": "https://github.com/FikesMedia/Open-Roster-SFTP-AD-Sync-Tool",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -158534,6 +158869,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：millievolution.com in:email；\"millievolution.com\" in:readme in:description；Milliseconds Evolution Limited type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -158885,6 +159235,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：litech.com.pk in:email；\"litech.com.pk\" in:readme in:description；Litech  Pvt  Ltd type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -160754,6 +161119,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：Obmac systems 可以推一下 type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -161667,6 +162047,21 @@
 ],
 "web_facts": [],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：comtinu.ru in:email；\"comtinu.ru\" in:readme in:description；comtinu.ru type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -166004,6 +166399,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：nedic.aleksandar gmail.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -167056,6 +167466,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：conexionderedes.com in:email；\"conexionderedes.com\" in:readme in:description；conexionderedes.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -167580,6 +168005,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：raisecom.su in:email；\"raisecom.su\" in:readme in:description；raisecom.su type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -168304,6 +168744,16 @@
 "batch": "A-DEEP-01",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：fiberoptics4sale.com in:email；\"fiberoptics4sale.com\" in:readme in:description；fiberoptics4sale.com type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -168799,6 +169249,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：Infotec Comercio de Equipamentos e Siste type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -169335,6 +169800,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：devray.in in:email；\"devray.in\" in:readme in:description；devray.in type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -169899,6 +170379,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：arnoldomohr gmail.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -172939,6 +173429,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：wirestar.net in:email；\"wirestar.net\" in:readme in:description；wirestar.net type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -174280,6 +174785,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：teratech.co.tz in:email；\"teratech.co.tz\" in:readme in:description；Tera Technologies and Engineering Ltd type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -176972,6 +177492,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：addon-tech.com in:email；\"addon-tech.com\" in:readme in:description；Addon Technology Ltd type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -177756,6 +178291,16 @@
 "batch": "A-DEEP-01",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：omnisecurity.ro in:email；\"omnisecurity.ro\" in:readme in:description；Bonmag International type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -178139,6 +178684,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：desecuretechnology.com in:email；\"desecuretechnology.com\" in:readme in:description；DE secure type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -178604,6 +179164,16 @@
 "note": "",
 "batch": "INTEL-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：fasttr.com in:email；\"fasttr.com\" in:readme in:description；F.A.S.T type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -179708,6 +180278,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：kassabasystems.com in:email；\"kassabasystems.com\" in:readme in:description；Kassaba Systems type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -180656,6 +181241,16 @@
 "note": "",
 "batch": "INTEL-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：oralcompanies.com in:email；\"oralcompanies.com\" in:readme in:description；ORAL GUVENLIK type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -181687,6 +182282,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：ag-bilgisayar.com in:email；\"ag-bilgisayar.com\" in:readme in:description；ag-bilgisayar.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -183337,6 +183947,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：broadstar.com in:email；\"broadstar.com\" in:readme in:description；broadstar.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -184122,6 +184747,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：bsdnetworks.com in:email；\"bsdnetworks.com\" in:readme in:description；bsdnetworks.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -186371,6 +187006,31 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "官网：KLASNET İLETİŞİM VE GÜVENLİK · Üçevler Mah. Dumlupınar Cad. 120 A Nilüfer/BURSA · info@klasnet.com.tr · +90 224 443 55 27 · GSM +90 546 546 37 43；「Sektördeki 14 yıllık tecrübemizin verdiği güven ile 2021 yılında ticari faaliyetlerimize başlamış bulunmaktayız」；业务 Fiber Optik Kablolama / Kamera / Network / Güvenlik / Zayıf Akım 交钥匙项目",
+"url": "https://klasnet.com.tr/",
+"note": "2021 年成立的布尔萨小型弱电/光纤布线承包商（创始人 14 年行业经验）；注意不要与 Şanlıurfa 的 klassnet.com.tr 网吧混淆",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：klasnet.com.tr in:email；\"klasnet.com.tr\" in:readme in:description；klasnet.com.tr type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -187638,6 +188298,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：optiwatchgroup.com in:email；\"optiwatchgroup.com\" in:readme in:description；optiwatch monitoring solution type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -188530,6 +189205,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：sinerjik.net in:email；\"sinerjik.net\" in:readme in:description；sinerjik type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -191446,6 +192136,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：linx-com.com in:email；\"linx-com.com\" in:readme in:description；linx-com.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -192939,6 +193644,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：skeo.ru in:email；\"skeo.ru\" in:readme in:description；skeo.ru type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -193690,6 +194410,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：unea-x.com in:email；\"unea-x.com\" in:readme in:description；unea-x.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -194457,6 +195192,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：Crown Security Solutions type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -194870,6 +195620,16 @@
 "note": "安卡拉小型安防/弱电承包商",
 "batch": "INTEL-02",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：onsis.com.tr in:email；\"onsis.com.tr\" in:readme in:description；ONSIS ELEKTRONIK type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -196037,6 +196797,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：agsplus.in in:email；\"agsplus.in\" in:readme in:description；agsplus.in type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -198016,6 +198791,16 @@
 "batch": "INTEL-03",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：inaxsys.com in:email；\"inaxsys.com\" in:readme in:description；inaxsys.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -199227,6 +200012,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：mbtc.com.sa in:email；\"mbtc.com.sa\" in:readme in:description；mbtc.com.sa type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -202701,6 +203501,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：Onyx Technology Solutions Limited type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -203474,6 +204289,16 @@
 "note": "老板出身工业系统/机柜/Legrand 渠道，懂机柜与布线 → 工业交换机 + 机架 PoE 都能谈",
 "batch": "INTEL-02",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：zeytek.com.tr in:email；\"zeytek.com.tr\" in:readme in:description；Zeytek type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -205422,6 +206247,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：vintronsmartvision.com in:email；\"vintronsmartvision.com\" in:readme in:description；vintronsmartvision.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -207314,6 +208154,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：dema-vertrieb.com in:email；\"dema-vertrieb.com\" in:readme in:description；Dema Vertriebs GmbH type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -210747,6 +211602,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：elsikr.it in:email；\"elsikr.it\" in:readme in:description；Elsi type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -222304,6 +223169,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：shnrise.com in:email；\"shnrise.com\" in:readme in:description；CESS Govalik type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -222983,6 +223863,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：hcin4.com in:email；\"hcin4.com\" in:readme in:description；HANCHANG Infotech CO. LTD type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -230722,6 +231617,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：hfcl.com in:email；\"hfcl.com\" in:readme in:description；hfcl.com type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -232316,6 +233226,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：isnetworks.pl in:email；\"isnetworks.pl\" in:readme in:description；isnetworks.pl type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -233497,6 +234422,16 @@
 "note": "已被收购（LBO）→ 采购决策链可能变化，下次信里问「still the right contact?」",
 "batch": "INTEL-03",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：nellyssecurity.com in:email；\"nellyssecurity.com\" in:readme in:description；nellyssecurity.com type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -236937,6 +237872,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：switchtec.com in:email；\"switchtec.com\" in:readme in:description；switchtek type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -237634,6 +238584,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：tvprzemyslowa.pl in:email；\"tvprzemyslowa.pl\" in:readme in:description；tvprzemyslowa.pl type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -241849,6 +242814,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：bio-cognitive.com in:email；\"bio-cognitive.com\" in:readme in:description；bio-cognitive.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -244452,6 +245432,16 @@
 "note": "",
 "batch": "INTEL-02",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：fiberix.com.tr in:email；\"fiberix.com.tr\" in:readme in:description；fiberix.com.tr type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -260624,6 +261614,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：stc-vietnam.com in:email；\"stc-vietnam.com\" in:readme in:description；stc-vietnam.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -264698,6 +265703,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：proxeet.com in:email；\"proxeet.com\" in:readme in:description；PROXEET LIMITED type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -267182,6 +268202,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：retelem-dz.com in:email；\"retelem-dz.com\" in:readme in:description；retelem-dz.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -272636,6 +273671,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：suretransport.co.uk in:email；\"suretransport.co.uk\" in:readme in:description；Sure Transport type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -273157,6 +274207,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：zekko.co.in in:email；\"zekko.co.in\" in:readme in:description；Zekko Tech Private Limited type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -282226,6 +283291,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：larch-networks.com in:email；\"larch-networks.com\" in:readme in:description；larch-networks.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -282961,6 +284041,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：longtek.co.uk in:email；\"longtek.co.uk\" in:readme in:description；longtek type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -286635,6 +287730,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：thuyluc.com in:email；\"thuyluc.com\" in:readme in:description；thuyluc.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -290579,6 +291689,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：dc.ge in:email；\"dc.ge\" in:readme in:description；Delta Consulting type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -295747,6 +296872,21 @@
 "timeline": [],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：fhguvenlik.com in:email；\"fhguvenlik.com\" in:readme in:description；fhguvenlik.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -296139,6 +297279,16 @@
 "note": "ISP 自建网 → 接入/汇聚交换机、SFP 需求真实",
 "batch": "INTEL-02",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：hiperonline.com in:email；\"hiperonline.com\" in:readme in:description；hiperonline.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -297604,6 +298754,16 @@
 "note": "",
 "batch": "INTEL-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：makrosisas.com.tr in:email；\"makrosisas.com.tr\" in:readme in:description；makrosisas.com.tr type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -321313,6 +322473,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：automationsystem.in in:email；\"automationsystem.in\" in:readme in:description；automationsystem.in type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -323768,6 +324943,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：e-saudi.net in:email；\"e-saudi.net\" in:readme in:description；e-saudi.net type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -327880,6 +329070,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：emos.cz in:email；\"emos.cz\" in:readme in:description；EMOS type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -332915,6 +334120,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：casecomms.com in:email；\"casecomms.com\" in:readme in:description；casecomms.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -337202,6 +338422,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：n-itus.com in:email；\"n-itus.com\" in:readme in:description；n-itus.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -338315,6 +339550,21 @@
 ],
 "web_facts": [],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：npotelecom.ru in:email；\"npotelecom.ru\" in:readme in:description；npotelecom.ru type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -357560,6 +358810,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：dmsimfg.com in:email；\"dmsimfg.com\" in:readme in:description；dmsimfg.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -363814,6 +365079,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：lanopia.de in:email；\"lanopia.de\" in:readme in:description；lanopia.de type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -387319,6 +388599,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：symanitron.ru in:email；\"symanitron.ru\" in:readme in:description；symanitron.ru type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -399757,6 +401052,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：citsindia.com in:email；\"citsindia.com\" in:readme in:description；CORE IT SOLUTIONS type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -403881,6 +405191,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：apolloinfoways.in in:email；\"apolloinfoways.in\" in:readme in:description；apolloinfoways.in type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -421103,6 +422428,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：andatelecom.com in:email；\"andatelecom.com\" in:readme in:description；Anda Telecom type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -422682,6 +424022,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：aironix.co.il in:email；\"aironix.co.il\" in:readme in:description；aironix.co.il type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -452727,6 +454082,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：itmsystems.co.uk in:email；\"itmsystems.co.uk\" in:readme in:description；itmsystems.co.uk type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -462531,6 +463901,41 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn：TC Communications · 591 followers · Irvine, CA · 51–200 employees（47 on LinkedIn）· Founded 1991 ·「Integrating legacy devices onto modern networks. Made in the USA since 1991」· Specialties：Teleprotection, ITS, Carrier Ethernet, Power Utilities, Public Safety, Freight/Passenger Rail, Military Communications, SCADA；近 3 天帖：JumboSwitch TDM over Ethernet/IP 白皮书",
+"url": "https://www.linkedin.com/company/tccomm",
+"note": "美国本土制造叙事 + 铁路/军方客群（守界只谈电力/ITS/SCADA）；入门工业交换机可 OEM 是研究档既有判断",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "LinkedIn / explorium：Steve Cragg — Vice President Sales Marketing（我方 KP 核实）；Ted Langford — Marketing and Sales Director；Ben Huai — Assistant Manager, Engineering；Scott Browder — Regional Sales Manager；Dean Maravilla — Account Manager；地址 17881 Cartwright Road, Irvine CA 92614；营收 $5–10M，≈54 人",
+"url": "https://www.explorium.ai/manufacturing/companies/tc-communications",
+"note": "",
+"batch": "INTEL-05",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：tccomm.com in:email；\"tccomm.com\" in:readme in:description；tccomm.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -475926,6 +477331,91 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch — Buy Versitron SF70460M Managed Industrial Switch（★0，最近推送 2025-07-28）",
+"url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA- — Buy Versitron SF70460M Managed Industrial Switch USA （★0，最近推送 2025-07-28）",
+"url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-USA-",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-SF70460M-Managed-Industrial-Switch- — Buy Versitron SF70460M Managed Industrial Switch （★0，最近推送 2025-07-28）",
+"url": "https://github.com/Versitron/Versitron-SF70460M-Managed-Industrial-Switch-",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP- — Buy Versitron 4-Port Managed Industrial Ethernet Switch with SFP （★0，最近推送 2025-07-28）",
+"url": "https://github.com/Versitron/Versitron-4-Port-Managed-Industrial-Ethernet-Switch-with-SFP-",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking — Buy single fiber media converters for single-mode and multimode fiber networks. Solutions with SC, ST, and LC connectors（★0，最近推送 2026-01-30）",
+"url": "https://github.com/Versitron/Versitron-Single-Fiber-Media-Converter-for-Flexible-Fiber-Networking",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-4-port-switch — Buy Versitron 4 port switch（★0，最近推送 2025-07-29）",
+"url": "https://github.com/Versitron/Versitron-4-port-switch",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-VDAU1664 — Buy Versitron VDAU1664（★0，最近推送 2025-07-30）",
+"url": "https://github.com/Versitron/Versitron-VDAU1664",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online — Buy Versitron M82XXD Fiber Optic Modem Online（★0，最近推送 2025-07-30）",
+"url": "https://github.com/Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -478821,6 +480311,76 @@
 "url": "https://stockanalysis.com/stocks/asns/revenue/",
 "note": "",
 "batch": "INTEL-03",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "10-K Item 1：「Recent increase and creation of new tariffs by the Trump Administration is not likely to affect the Company significantly, since the Company manufactures its products in Israel and Taiwan, and the procurement of raw material is done directly to these countries.」",
+"url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+"note": "采购线索①：制造在以色列 + 台湾，原料直采这两地——不在中国制造；换中国货源 = 动其「cyber-hardened / FIPS / DoW」叙事，阻力大。Casey Hurley 回「Maybe…」符合此结构",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "10-K Item 1：「Over the past years, we entered into several large multi-year contracts with ITS, military, airports, and more … the worldwide airport technology provider, a provider of energy services to a major European city …, the city of San Jose, California and Northern Ireland railways.」",
+"url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+"note": "采购线索②：多年期合同（ITS / 军方 / 机场 / 北爱铁路 / 圣何塞市）——其采购是项目制、长周期",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "10-K Item 1：「We also have many non-exclusive third-party distributors, resellers and system integrators and partners around the world, located in the U.S., Canada, Philippines, Germany, Italy, Spain, Scandinavian countries, Greece, Netherlands, Japan and India.」；竞品自述「Cisco, Rad, Nokia, Siemens, Belden and others」",
+"url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+"note": "渠道结构 + 自认竞品；Saga 不是其竞品也不是其供应商类型（铜缆/混合光纤接入）——只能做其项目里的配套 PoE/工业交换机",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "人事变动",
+"date": "2026-10-30",
+"quote": "10-K Item 1：「During 2025, we upgraded our capabilities in Federal and Military sales and marketing by hiring a Chief Revenue Officer, Americas and a Director of Federal sales, both veterans of those markets … new strategy through the US Department of War Programs of Record (PoR)」",
+"url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+"note": "2025 新聘 CRO Americas + Director of Federal Sales；方向 = 美国国防「Programs of Record」——守界：Saga 不碰军方线，只谈 ITS / MDU / 市政",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "10-K Item 1：市场与资金面：「In 2024, we launched our MDU program, which was further expanded in 2025 …」「BEAD Program provides $42.45 billion … approximately $28 billion were ear-marked」；证书：FIPS 140-2 → 2026-02 部署 140-3；JITC 互操作认证；产品 UL / EN / VCCI / CISPR / ICES 认证",
+"url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+"note": "采购线索③：增长押注 MDU（多住户楼宇）+ BEAD 补贴项目；认证门槛高（UL/FIPS）——Saga 产品无 UL，不对位其核心产品，只可能配套",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "10-K 融资事件（Recent Developments）：2025-07 私募 ~$1M（$6.15/股 + 认股权证）；2025-09-27 White Lion 股权购买协议 + PIPE ~$850K（$2.125/股）；2025-12-17 公开发行 ~$5M（$0.80/股）；2025-11-18 1:10 反向拆股",
+"url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+"note": "一年三轮融资 + 反向拆股 → 现金紧、付款能力要盯；小额样品单可做，账期不放",
+"batch": "INTEL-04",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：actelis/actelis-accessory-selector — （★0，最近推送 2026-10-08）",
+"url": "https://github.com/actelis/actelis-accessory-selector",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
 "found": true,
 "added": "2026-10-30"
 }
@@ -494765,6 +496325,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：futurist.com.pk in:email；\"futurist.com.pk\" in:readme in:description；futurist.com.pk type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -508234,6 +509809,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：briticom.net in:email；\"briticom.net\" in:readme in:description；TELTRONIX   BRITICOM type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -510457,6 +512047,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：etictelecom.com in:email；\"etictelecom.com\" in:readme in:description；etictelecom.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -516452,6 +518057,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：intracom-telecom-sdn/nstat — Network Stress-Test Automation Toolkit（★13，最近推送 2017-10-28）",
+"url": "https://github.com/intracom-telecom-sdn/nstat",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 },
 "country_table": "希腊"
@@ -528855,6 +530475,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：ksm.com.au in:email；\"ksm.com.au\" in:readme in:description；ksm.com.au type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -538844,6 +540479,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：eion.com in:email；\"eion.com\" in:readme in:description；EION Inc type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -543833,6 +545483,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：mcss.co.kr in:email；\"mcss.co.kr\" in:readme in:description；mcss.co.kr type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -544885,6 +546550,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：olsontech.com in:email；\"olsontech.com\" in:readme in:description；olsontech.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -546449,6 +548124,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：infinityhardware.us in:email；\"infinityhardware.us\" in:readme in:description；Infinity Hardware type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -550996,6 +552686,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：intelligent.hk in:email；\"intelligent.hk\" in:readme in:description；Intelligent type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -557146,6 +558851,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：Central Gospel School type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -576024,6 +577744,21 @@
 "timeline": [],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "GitHub 仓库提及域名：Abdul-Rafay-ASE/3lines-wds-2026 — 3lines WDS 2026 Presentation（★0，最近推送 2026-03-05）",
+"url": "https://github.com/Abdul-Rafay-ASE/3lines-wds-2026",
+"note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+"batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -587865,6 +589600,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：cloudinfotech.co.in in:email；\"cloudinfotech.co.in\" in:readme in:description；cloudinfotech.co.in type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -613114,6 +614859,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：futurepointt.com in:email；\"futurepointt.com\" in:readme in:description；futurepointt.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -641249,6 +643004,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：mywatchdog.in in:email；\"mywatchdog.in\" in:readme in:description；mywatchdog.in type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -645285,6 +647055,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：team5tech.com in:email；\"team5tech.com\" in:readme in:description；team5tech.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -682466,6 +684246,16 @@
 "batch": "A-DEEP-01",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：shopfiber.co.za in:email；\"shopfiber.co.za\" in:readme in:description；shopfiber.co.za type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -688358,6 +690148,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：santelequip.com in:email；\"santelequip.com\" in:readme in:description；San Telequip Pvt. Ltd. type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -708419,6 +710224,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：telexcell.com in:email；\"telexcell.com\" in:readme in:description；telexcell.com type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -730691,6 +732511,16 @@
 "batch": "A-DEEP-01",
 "found": true,
 "added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：cronte.net in:email；\"cronte.net\" in:readme in:description；Crontr Technology type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -731696,6 +733526,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：optimal.com.ph in:email；\"optimal.com.ph\" in:readme in:description；optimal.com.ph type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -738489,6 +740329,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：satvision-cctv.ru in:email；\"satvision-cctv.ru\" in:readme in:description；satvision-cctv.ru type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -835362,6 +837217,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：microtech.net.pk in:email；\"microtech.net.pk\" in:readme in:description；microtech.net.pk type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -885071,6 +886941,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：eurosecuritysolutions.co.uk in:email；\"eurosecuritysolutions.co.uk\" in:readme in:description；Euro Security Solutions Ltd type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -903370,6 +905255,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：firsttech.co.za in:email；\"firsttech.co.za\" in:readme in:description；firsttech.co.za type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]
@@ -984286,6 +986181,21 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：visiotechsecurity.com in:email；\"visiotechsecurity.com\" in:readme in:description；Visiotech type:org（同名无关组织/仓库已剔除）",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -1024188,6 +1026098,16 @@
 "note": "A-DEEP-01 网查镜像",
 "batch": "A-DEEP-01",
 "found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "GitHub/技术足迹",
+"date": "2026-10-30",
+"quote": "未得：nambasoftware.com.br in:email；\"nambasoftware.com.br\" in:readme in:description；nambasoftware.com.br type:org",
+"url": "",
+"note": "",
+"batch": "INTEL-GH-01",
+"found": false,
 "added": "2026-10-30"
 }
 ]

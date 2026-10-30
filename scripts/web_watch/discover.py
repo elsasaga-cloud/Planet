@@ -148,6 +148,12 @@ def build(grades, pool=True):
             if (u and (u in seen or u in cur_urls)) or (lg and (lg in seen or lg in cur_logins)):
                 return
             seen.add(u or lg)
+            ids = {x['id'] for x in sources}
+            if src['id'] in ids:                       # 同类源多个（如两个 Telegram 频道）→ id 加序号，保证客户内唯一（2026-10-30）
+                k = 2
+                while f"{src['id']}_{k}" in ids:
+                    k += 1
+                src = dict(src, id=f"{src['id']}_{k}")
             sources.append(src)
             stats['sources'] += 1
             stats['kinds'][src['kind']] = stats['kinds'].get(src['kind'], 0) + 1

@@ -270,15 +270,27 @@ INH 红线：TAA/UL；本客户是典型 TAA 冲突案例。
 | 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：American Fibertek Inc. · 131 followers · Computers and Electronics Manufacturing · 11–50 employees（12 on LinkedIn）· Headquarters St Petersburg, Florida · Founded 1984；「manufactured in America … meeting all BAA compliance requirements … also offers a full array of sourced TAA compliant products」；产品含 Ethernet switches and fiber switches — <https://www.linkedin.com/company/american-fibertek>　*总部已在佛州圣彼得堡（研究档旧址 Edison NJ 需更新）；外采线要求 TAA 合规 → 中国产地不合规，只能走非 TAA 的商业线或海外产地；信里不提 TAA*
+
+**KP**
+
+- 2026-10-30：ZoomInfo：Donna Poulos — President（我方 KP 核实）；LinkedIn：Matt Poulos — Vice President, Operations & Strategy；Aaron Parise — Engineer；Ana L Rodriguez — Production expediter supervisor；ZoomInfo 营收估计 $8.4M — <https://www.zoominfo.com/c/american-fibertek-inc/1736750>　*Poulos 家族企业；运营 VP 管外采*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：americanfibertek.com in:email；"americanfibertek.com" in:readme in:description；americanfibertek.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：Cience：「American Fibertek has hundreds of replacement products for IFS, Interlogix and Comnet」 — <https://www.cience.com/company/american-fibertek/-5146488774677515066>　*定位 = IFS/Interlogix/ComNet 替代品供应商 → 其外采目录正是我们 MC/光口交换机的位置*
+
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -1,0 +1,64 @@
+[
+ {
+  "code": "SA-086",
+  "url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+  "label": "Netas_Faaliyet_Raporu_2025",
+  "kind": "pdf",
+  "keywords": [
+   "tedarik",
+   "satın alma",
+   "satınalma",
+   "yatırım harcama",
+   "sermaye harcama",
+   "ağ altyapı",
+   "switch",
+   "anahtar",
+   "ZTE",
+   "bayi",
+   "distribütör",
+   "müşteri",
+   "Türk Telekom",
+   "Turkcell",
+   "savunma",
+   "veri merkezi",
+   "5G",
+   "personel",
+   "çalışan sayısı",
+   "istihdam"
+  ],
+  "refresh_days": 365
+ },
+ {
+  "code": "SB-831",
+  "url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+  "label": "Actelis_10-K_FY2025",
+  "kind": "html",
+  "keywords": [
+   "supplier",
+   "manufactur",
+   "contract manufacturer",
+   "Taiwan",
+   "capital expenditure",
+   "inventory",
+   "purchase commitment",
+   "backlog",
+   "distributor",
+   "going concern",
+   "Chief Revenue Officer",
+   "hired",
+   "tariff",
+   "component"
+  ],
+  "refresh_days": 365
+ },
+ {
+  "code": "SB-831",
+  "url": "https://www.sec.gov/Archives/edgar/data/1141284/000101376225001251/0001013762-25-001251-index.htm",
+  "label": "Actelis_10-K_FY2024_index",
+  "kind": "html",
+  "keywords": [
+   "10-K"
+  ],
+  "refresh_days": 3650
+ }
+]

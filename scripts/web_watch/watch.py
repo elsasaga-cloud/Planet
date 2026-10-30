@@ -36,6 +36,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.abspath(os.path.join(HERE, '..', '..'))
 CFG = os.path.join(HERE, 'targets.json')
 CFG_AUTO = os.path.join(HERE, 'targets_auto.json')
+CFG_INTEL = os.path.join(HERE, 'targets_intel.json')      # T29-U139：A 类挖底 watch 源（intel_targets.py 生成）
+INTEL_QUEUE = os.path.join(ROOT, 'data', 'saga_clients', 'intel_fetch_queue.json')
+INTEL_DOCS = os.path.join(ROOT, 'data', 'saga_clients', 'intel_docs')
 OUT = os.path.join(ROOT, 'data', 'customer_watch')
 STATE = os.path.join(OUT, 'state.json')
 SNAP = os.path.join(OUT, 'snapshots')
@@ -591,6 +594,27 @@ def load_config(layers):
             c['layer'] = c.get('grade') or 'B'
             c['label'] = f"{c['layer']} 级"
         out.append(c)
+    # T29-U139：A 类挖底 watch 源（新闻 RSS / EDGAR / Companies House / IR / GitHub 组织 / 招聘页）并入对应客户；没有的客户按 A 层新建
+    intel = load_json(CFG_INTEL, {'customers': []})
+    idx = {c['code']: c for c in out}
+    for c in intel.get('customers', []):
+        if c['code'] in idx:
+            tgt = idx[c['code']]
+            have = {s.get('url') or s.get('login') for s in tgt['sources']}
+            for sx in c['sources']:
+                if (sx.get('url') or sx.get('login')) not in have:
+                    tgt['sources'].append(dict(sx))
+            if tgt.get('layer') == 'B':      # 终评后升 A 的户：按 A 层处理
+                tgt['layer'] = 'A'
+                tgt['label'] = 'A 级'
+        else:
+            c = dict(c)
+            c['sources'] = [dict(x) for x in c['sources']]
+            c['manual'] = list(c.get('manual', []))
+            c['layer'] = 'A'
+            c['label'] = 'A 级（intel）'
+            out.append(c)
+            idx[c['code']] = c
     return [c for c in out if c['layer'] in layers]
 
 
@@ -779,6 +803,68 @@ def snapshot_thicken():
         print('snapshot_thicken failed:', e)
 
 
+def intel_docs():
+    """T29-U139：A 类挖底 · 文档抓取队列（年报 PDF / 10-K / 招股书等大文件）。沙箱无外网，只有运行器能下；
+    队列 data/saga_clients/intel_fetch_queue.json：[{code, url, label, kind: pdf|html, keywords[], done, sha1, fetched_at, refresh_days}]
+    产出 data/saga_clients/intel_docs/<code>/<slug>.txt（全文，上限 1.5 MB）+ <slug>.hits.json（关键词命中窗口，供 ingest_watch.py 入 intel「年报/财务·采购线索」）。
+    已完成且未到 refresh_days 的不重抓；失败写 error 不阻断。"""
+    q = load_json(INTEL_QUEUE, [])
+    if not q or requests is None:
+        return
+    try:
+        subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', 'pdfminer.six'], cwd=ROOT, check=False, timeout=300)
+    except Exception as e:
+        print('pip pdfminer failed:', e)
+    now = _dt.datetime.now(_dt.timezone.utc)
+    n_ok = 0
+    for it in q:
+        try:
+            if it.get('done') and it.get('fetched_at'):
+                age = (now - _dt.datetime.fromisoformat(it['fetched_at'].replace('Z', '+00:00'))).days
+                if age < int(it.get('refresh_days') or 180):
+                    continue
+            r = requests.get(it['url'], headers={'User-Agent': BROWSER_UA, 'Accept': '*/*'}, timeout=120)
+            r.raise_for_status()
+            raw = r.content[:40_000_000]
+            sha = hashlib.sha1(raw).hexdigest()
+            slug = re.sub(r'[^\w.-]+', '_', it.get('label') or os.path.basename(it['url']))[:80]
+            d = os.path.join(INTEL_DOCS, it['code'])
+            os.makedirs(d, exist_ok=True)
+            if it.get('kind') == 'pdf' or it['url'].lower().endswith('.pdf') or r.headers.get('Content-Type', '').startswith('application/pdf'):
+                tmp = os.path.join(d, slug + '.pdf')
+                with open(tmp, 'wb') as f:
+                    f.write(raw)
+                try:
+                    from pdfminer.high_level import extract_text
+                    text = extract_text(tmp) or ''
+                except Exception as e:
+                    text = f'[pdf extract failed: {e}]'
+                os.remove(tmp)      # 不把 PDF 二进制进仓库，只留文本
+            else:
+                text = html_to_text(raw.decode(r.encoding or 'utf-8', errors='replace'))
+            text = re.sub(r'[ \t]+', ' ', text)
+            text = re.sub(r'\n{3,}', '\n\n', text)[:1_500_000]
+            with open(os.path.join(d, slug + '.txt'), 'w', encoding='utf-8') as f:
+                f.write(f"# {it['code']} · {it.get('label', '')} · {it['url']} · fetched {TS} · sha1 {sha} · chars {len(text)}\n")
+                f.write(text)
+            hits = []
+            low = text.lower()
+            for kw in it.get('keywords') or []:
+                for m in list(re.finditer(re.escape(kw.lower()), low))[:12]:
+                    a, b = max(0, m.start() - 220), min(len(text), m.end() + 320)
+                    hits.append({'kw': kw, 'pos': m.start(), 'excerpt': text[a:b].replace('\n', ' ')})
+            with open(os.path.join(d, slug + '.hits.json'), 'w', encoding='utf-8') as f:
+                json.dump({'code': it['code'], 'label': it.get('label'), 'url': it['url'], 'fetched_at': TS, 'sha1': sha, 'chars': len(text), 'hits': hits}, f, ensure_ascii=False, indent=1)
+            it.update({'done': True, 'sha1': sha, 'fetched_at': TS, 'chars': len(text), 'hits': len(hits), 'error': ''})
+            n_ok += 1
+        except Exception as e:
+            it['error'] = str(e)[:200]
+            it['fetched_at'] = TS
+        time.sleep(1.5)
+    save_json(INTEL_QUEUE, q)
+    print(f'intel_docs: {n_ok} fetched of {len(q)} queued')
+
+
 def git_commit(msg):
     if not os.environ.get('GITHUB_ACTIONS'):
         print('not in GitHub Actions → skip commit')
@@ -801,7 +887,7 @@ def git_commit(msg):
     sh('git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
     sh('git', 'add', '-A', os.path.relpath(OUT, ROOT))
     sh('git', 'add', '-A', 'data/saga_clients/site_snapshots')  # T29-U131：巡检后补抓的官网快照一起提交
-    for extra in ('data/saga_clients/research', 'data/external_clients/research', 'data/客户名单_Planet渠道_2026-10.csv'):  # LT-T03 快照加厚落点
+    for extra in ('data/saga_clients/research', 'data/external_clients/research', 'data/客户名单_Planet渠道_2026-10.csv', 'data/saga_clients/intel_docs', 'data/saga_clients/intel_fetch_queue.json'):  # LT-T03 快照加厚落点 + T29-U139 挖底文档
         sh('git', 'add', '-A', extra)
     for f in glob.glob(os.path.join(ROOT, 'data', '长期客户群_快照*.csv')):
         sh('git', 'add', '-A', os.path.relpath(f, ROOT))
@@ -908,6 +994,11 @@ def main(argv=None):
     if os.environ.get('GITHUB_ACTIONS') and not args.no_snapshot:
         snapshot_missing(time.time() - t0)
         snapshot_thicken()
+    if os.environ.get('GITHUB_ACTIONS') or os.environ.get('INTEL_DOCS_LOCAL'):
+        try:
+            intel_docs()
+        except Exception as e:
+            print('intel_docs failed:', e)
     if not args.no_commit:
         # 提交信息里按「源」计数（只数顶层条目，不数缩进的 diff 明细行；2026-10-23 07:03Z 修：此前把明细行也算进去，06:51Z 轮显示 55 实为 11 个源）
         n_top = {k: sum(1 for x in v if not x.startswith((' ', '###'))) for k, v in changes_by_layer.items()}

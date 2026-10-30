@@ -273,7 +273,7 @@ updated: 2026-10-30
 | 827 | 表 | 表 | 28bt｜有需求会说的 |  |
 | 929 | 表 | 表 | 群发了18 2.5G｜可能有用 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 10 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -281,12 +281,25 @@ updated: 2026-10-30
 
 - 2026-10-30：10-K FY2025（SEC，2026-03）：Revenues $3,671K（2024：$7,760K）· Gross profit $1,218K · GAAP net loss $(8,261)K（2024：$(4,374)K）· R&D $2,638K · S&M $2,866K；收入下滑归因于 2024 年两年期软件服务续约与 Washington D.C. 大单 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*上市公司（NASDAQ: ASNS）；亏损扩大、现金紧张、Nasdaq 最低股价风险（StockTitan 摘要）→ 账期要紧、单量小*
 - 2026-10-30：stockanalysis：Q2 2026 revenue $1.13M（+20.3%）· TTM $4.10M（−22%）· FY2025 revenue by geography：North America $2.31M 62.8% / EMEA $1.14M 31.0% / APAC $228K 6.2% · Employees 37 — <https://stockanalysis.com/stocks/asns/revenue/>
+- 2026-10-30：10-K Item 1：「Over the past years, we entered into several large multi-year contracts with ITS, military, airports, and more … the worldwide airport technology provider, a provider of energy services to a major European city …, the city of San Jose, California and Northern Ireland railways.」 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*采购线索②：多年期合同（ITS / 军方 / 机场 / 北爱铁路 / 圣何塞市）——其采购是项目制、长周期*
+- 2026-10-30：10-K Item 1：市场与资金面：「In 2024, we launched our MDU program, which was further expanded in 2025 …」「BEAD Program provides $42.45 billion … approximately $28 billion were ear-marked」；证书：FIPS 140-2 → 2026-02 部署 140-3；JITC 互操作认证；产品 UL / EN / VCCI / CISPR / ICES 认证 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*采购线索③：增长押注 MDU（多住户楼宇）+ BEAD 补贴项目；认证门槛高（UL/FIPS）——Saga 产品无 UL，不对位其核心产品，只可能配套*
+- 2026-10-30：10-K 融资事件（Recent Developments）：2025-07 私募 ~$1M（$6.15/股 + 认股权证）；2025-09-27 White Lion 股权购买协议 + PIPE ~$850K（$2.125/股）；2025-12-17 公开发行 ~$5M（$0.80/股）；2025-11-18 1:10 反向拆股 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*一年三轮融资 + 反向拆股 → 现金紧、付款能力要盯；小额样品单可做，账期不放*
 
 **人事变动**
 
 - 2026-10-30：10-K：As of December 31, 2025 approximately 51 employees and contractors, of which 39 full-time（13 sales & marketing / 20 R&D-engineering-operations / 6 G&A）；34 in Israel, 15 in the U.S., 1 Europe, 1 Asia — <https://www.stocktitan.net/sec-filings/ASNS/10-k-actelis-networks-inc-files-annual-report-86520770001d.html>　*美国 15 人中含 VP Sales Casey Hurley（我方联系人）*
+- 2026-10-30：10-K Item 1：「During 2025, we upgraded our capabilities in Federal and Military sales and marketing by hiring a Chief Revenue Officer, Americas and a Director of Federal sales, both veterans of those markets … new strategy through the US Department of War Programs of Record (PoR)」 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*2025 新聘 CRO Americas + Director of Federal Sales；方向 = 美国国防「Programs of Record」——守界：Saga 不碰军方线，只谈 ITS / MDU / 市政*
 
-待挖：领英公司页、KP、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30：GitHub 仓库提及域名：actelis/actelis-accessory-selector — （★0，最近推送 2026-10-08） — <https://github.com/actelis/actelis-accessory-selector>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+
+**供应商/品牌关系**
+
+- 2026-10-30：10-K Item 1：「Recent increase and creation of new tariffs by the Trump Administration is not likely to affect the Company significantly, since the Company manufactures its products in Israel and Taiwan, and the procurement of raw material is done directly to these countries.」 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*采购线索①：制造在以色列 + 台湾，原料直采这两地——不在中国制造；换中国货源 = 动其「cyber-hardened / FIPS / DoW」叙事，阻力大。Casey Hurley 回「Maybe…」符合此结构*
+- 2026-10-30：10-K Item 1：「We also have many non-exclusive third-party distributors, resellers and system integrators and partners around the world, located in the U.S., Canada, Philippines, Germany, Italy, Spain, Scandinavian countries, Greece, Netherlands, Japan and India.」；竞品自述「Cisco, Rad, Nokia, Siemens, Belden and others」 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*渠道结构 + 自认竞品；Saga 不是其竞品也不是其供应商类型（铜缆/混合光纤接入）——只能做其项目里的配套 PoE/工业交换机*
+
+待挖：领英公司页、KP、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

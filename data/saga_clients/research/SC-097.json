@@ -175,5 +175,20 @@
   "timeline": [],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：Abdul-Rafay-ASE/3lines-wds-2026 — 3lines WDS 2026 Presentation（★0，最近推送 2026-03-05）",
+    "url": "https://github.com/Abdul-Rafay-ASE/3lines-wds-2026",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

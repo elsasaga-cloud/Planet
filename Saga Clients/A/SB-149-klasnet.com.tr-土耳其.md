@@ -190,9 +190,23 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣 |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：官网：KLASNET İLETİŞİM VE GÜVENLİK · Üçevler Mah. Dumlupınar Cad. 120 A Nilüfer/BURSA · info@klasnet.com.tr · +90 224 443 55 27 · GSM +90 546 546 37 43；「Sektördeki 14 yıllık tecrübemizin verdiği güven ile 2021 yılında ticari faaliyetlerimize başlamış bulunmaktayız」；业务 Fiber Optik Kablolama / Kamera / Network / Güvenlik / Zayıf Akım 交钥匙项目 — <https://klasnet.com.tr/>　*2021 年成立的布尔萨小型弱电/光纤布线承包商（创始人 14 年行业经验）；注意不要与 Şanlıurfa 的 klassnet.com.tr 网吧混淆*
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：klasnet.com.tr in:email；"klasnet.com.tr" in:readme in:description；klasnet.com.tr type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-149/`；本节随档案重渲染刷新，实时看日志。
 

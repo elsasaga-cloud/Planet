@@ -233,6 +233,16 @@ updated: 2026-10-30
 | 2026-03-11 | 去 | A | OEM Core Switching Solution |  |
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：wirestar.net in:email；"wirestar.net" in:readme in:description；wirestar.net type:org（同名无关组织/仓库已剔除）
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 24 / 来 3）　|　**期间**：2024-04-24 → 2026-08-10　|　**最后去信**：2026-08-10

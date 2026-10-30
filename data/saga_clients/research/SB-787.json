@@ -420,5 +420,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：TC Communications · 591 followers · Irvine, CA · 51–200 employees（47 on LinkedIn）· Founded 1991 ·「Integrating legacy devices onto modern networks. Made in the USA since 1991」· Specialties：Teleprotection, ITS, Carrier Ethernet, Power Utilities, Public Safety, Freight/Passenger Rail, Military Communications, SCADA；近 3 天帖：JumboSwitch TDM over Ethernet/IP 白皮书",
+    "url": "https://www.linkedin.com/company/tccomm",
+    "note": "美国本土制造叙事 + 铁路/军方客群（守界只谈电力/ITS/SCADA）；入门工业交换机可 OEM 是研究档既有判断",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "LinkedIn / explorium：Steve Cragg — Vice President Sales Marketing（我方 KP 核实）；Ted Langford — Marketing and Sales Director；Ben Huai — Assistant Manager, Engineering；Scott Browder — Regional Sales Manager；Dean Maravilla — Account Manager；地址 17881 Cartwright Road, Irvine CA 92614；营收 $5–10M，≈54 人",
+    "url": "https://www.explorium.ai/manufacturing/companies/tc-communications",
+    "note": "",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：tccomm.com in:email；\"tccomm.com\" in:readme in:description；tccomm.com type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

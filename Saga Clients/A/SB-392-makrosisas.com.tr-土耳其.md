@@ -186,7 +186,7 @@ updated: 2026-10-30
 
 **故事线**：土耳其·分销商；登记线索：TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKE: MAKRO SİSTEM DIŞ T。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -194,11 +194,15 @@ updated: 2026-10-30
 
 - 2026-10-30：官网联系：Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26 Şişli / İSTANBUL · +90 212 272 47 92 · info@makrosisas.com.tr — <https://makrosisas.com.tr/contact.html>
 
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：makrosisas.com.tr in:email；"makrosisas.com.tr" in:readme in:description；makrosisas.com.tr type:org
+
 **供应商/品牌关系**
 
 - 2026-10-30：官网：Makro Sistem Dış Tic. A.Ş. — i-PRO（原 Panasonic Security Systems）Türkiye Premium Distribütörü；Edge AI 摄像机 250+ 型号、NVR、CCTV、火灾探测 — <https://makrosisas.com.tr/>　*高端摄像机分销 → 配套 PoE 交换机（STC 系列）*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

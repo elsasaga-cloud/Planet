@@ -251,7 +251,7 @@ updated: 2026-10-30
 - 网查（2026-10-30）：BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613 — <https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html>
 - 网查（2026-10-30）：BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner — <https://www.zoominfo.com/c/bsd-networks/10489097>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -263,7 +263,11 @@ updated: 2026-10-30
 
 - 2026-10-30：BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613 — <https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html>　*A-DEEP-01 网查镜像*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：bsdnetworks.com in:email；"bsdnetworks.com" in:readme in:description；bsdnetworks.com type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

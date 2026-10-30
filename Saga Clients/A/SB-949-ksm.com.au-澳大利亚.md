@@ -249,6 +249,16 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
 | 2026-09-04 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：ksm.com.au in:email；"ksm.com.au" in:readme in:description；ksm.com.au type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：47 封（去 32 / 来 15）　|　**期间**：2024-04-29 → 2026-09-04　|　**最后去信**：2026-09-04
@@ -280,7 +290,7 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://ksm.com.au/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 1729 字符；首行：KSM Solutions |
+| [home](https://www.ksm.com.au/) | html | HTTP 200 | 2026-10-29T08:41:09Z | 1729 字符；首行：KSM Solutions |
 
 ## 联系方式（已有 · 原值照录）
 

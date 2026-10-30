@@ -229,7 +229,7 @@ updated: 2026-10-30
 | 2026-08-17 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-04 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -245,7 +245,11 @@ updated: 2026-10-30
 
 - 2026-10-30：LinkedIn 2026-09（Pipl Systems）：到访 Inaxsys 蒙特利尔拍 20 余年公司纪录片，提到 Mark McRae、Alain Boisvert、Muhammad Rahim；「grown into a manufacturer and distributor serving partners across Canada and the United States」 — <https://www.linkedin.com/in/mohammad-zamanpournpour-81907936/>
 
-待挖：年报/财务、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：inaxsys.com in:email；"inaxsys.com" in:readme in:description；inaxsys.com type:org
+
+待挖：年报/财务、人事变动、展会/活动（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

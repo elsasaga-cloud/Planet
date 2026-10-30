@@ -227,6 +227,16 @@ updated: 2026-10-30
 | 2025-01-10 | 去 | S | 8 Port Industrial PoE Switch |  |
 | 2025-03-19 | 去 | A | 8 Port Industrial PoE Switch |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：nkstech.net in:email；"nkstech.net" in:readme in:description；nkstech.net type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：5 封（去 4 / 来 1）　|　**期间**：2024-11-06 → 2025-03-19　|　**最后去信**：2025-03-19

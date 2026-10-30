@@ -147,7 +147,7 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore — <https://www.zoominfo.com/c/future-point-technologies/460620478>
 - 网查（2026-10-30）：Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi — <https://pk.linkedin.com/company/future-point-technologies>
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -159,7 +159,11 @@ updated: 2026-10-30
 
 - 2026-10-30：Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi — <https://pk.linkedin.com/company/future-point-technologies>　*A-DEEP-01 网查镜像*
 
-待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：futurepointt.com in:email；"futurepointt.com" in:readme in:description；futurepointt.com type:org
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -175,6 +179,15 @@ updated: 2026-10-30
 | Mini Industrial PoE Switch | 2025-01-06 | 2025-01-06 | 0 | 1 | 1 |
 | 48 Port PoE Managed Switch | 2024-12-13 | 2024-12-13 | 0 | 1 | 1 |
 | PoE Switch | 2024-08-28 | 2024-10-08 | 2 | 2 | 4 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1200/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://futurepointt.com/) | html | 待首轮 | — | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 

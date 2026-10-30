@@ -513,5 +513,20 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "GitHub 仓库提及域名：intracom-telecom-sdn/nstat — Network Stress-Test Automation Toolkit（★13，最近推送 2017-10-28）",
+    "url": "https://github.com/intracom-telecom-sdn/nstat",
+    "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
+    "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

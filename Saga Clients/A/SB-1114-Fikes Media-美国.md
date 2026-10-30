@@ -198,6 +198,16 @@ API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP
 | 2026-10-03 | 来 | R | This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller inte… |  |
 | 2026-10-04 | 去 | R |  |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30：GitHub 仓库提及域名：FikesMedia/Open-Roster-SFTP-AD-Sync-Tool — Sync from OpenRoster students.csv export located on SFTP to AD（★0，最近推送 2022-08-24） — <https://github.com/FikesMedia/Open-Roster-SFTP-AD-Sync-Tool>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：4 封（去 3 / 来 1）　|　**期间**：2026-10-03 → 2026-10-19　|　**最后去信**：2026-10-19
@@ -216,7 +226,7 @@ API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://fikesmedia.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2761 字符；首行：Home |
+| [home](https://www.fikesmedia.com/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 2761 字符；首行：Home |
 
 ## 联系方式（已有 · 原值照录）
 

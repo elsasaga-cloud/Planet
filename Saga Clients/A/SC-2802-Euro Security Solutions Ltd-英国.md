@@ -172,6 +172,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2023 | 表 | 表 | Simon 备注/兴趣栏｜对产品不是很懂，但是很在意AC/DC输入，也问了VC怎么用，需要full info，想拿样 ； 44 7830 323 788 |  |
 | 2025-04-11 | 去 | A | 8 Port Industrial PoE Switch |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**GitHub/技术足迹**
+
+- 2026-10-30（查过未得）：未得：eurosecuritysolutions.co.uk in:email；"eurosecuritysolutions.co.uk" in:readme in:description；Euro Security Solutions Ltd type:org
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-04-11 → 2025-04-11　|　**最后去信**：2025-04-11
@@ -184,13 +194,13 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-2802/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://eurosecuritysolutions.co.uk/) | html | HTTP 404 | 2026-10-29T15:11:51Z | 官网首页 |
+| [home](https://eurosecuritysolutions.co.uk/) | html | HTTP 404 | 2026-10-29T15:11:51Z | 官网首页（T27 快照状态 http_error） |
 
 ## 联系方式（已有 · 原值照录）
 

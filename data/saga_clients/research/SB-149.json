@@ -238,5 +238,30 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "官网：KLASNET İLETİŞİM VE GÜVENLİK · Üçevler Mah. Dumlupınar Cad. 120 A Nilüfer/BURSA · info@klasnet.com.tr · +90 224 443 55 27 · GSM +90 546 546 37 43；「Sektördeki 14 yıllık tecrübemizin verdiği güven ile 2021 yılında ticari faaliyetlerimize başlamış bulunmaktayız」；业务 Fiber Optik Kablolama / Kamera / Network / Güvenlik / Zayıf Akım 交钥匙项目",
+    "url": "https://klasnet.com.tr/",
+    "note": "2021 年成立的布尔萨小型弱电/光纤布线承包商（创始人 14 年行业经验）；注意不要与 Şanlıurfa 的 klassnet.com.tr 网吧混淆",
+    "batch": "INTEL-05",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "GitHub/技术足迹",
+    "date": "2026-10-30",
+    "quote": "未得：klasnet.com.tr in:email；\"klasnet.com.tr\" in:readme in:description；klasnet.com.tr type:org",
+    "url": "",
+    "note": "",
+    "batch": "INTEL-GH-01",
+    "found": false,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }
