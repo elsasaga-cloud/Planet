@@ -513,6 +513,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Crustdata（2026-09）：Antronix · Cranbury, New Jersey（440 Forsgate Drive）· 33 employees · founded 1980 · Privately Held · headcount growth 0.0% YoY；compworth 估营收 $10.7M（41 人）；Cience：$5–10M，11–50",
+    "url": "https://profiles.crustdata.com/company/antronix",
+    "note": "",
+    "batch": "INTEL-07",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "Crustdata Leadership：Neil Tang — President/CEO；Jim Taxdahl — Vice President of Sales（我方 KP）；Juan Bravo — Vice President of Sales；Andre Coulombe — VP Sales, Canadian Division；Jonathan Rigby — Director International Business Development；Cience：Ted Brown — Sales Executive",
+    "url": "https://profiles.crustdata.com/company/antronix",
+    "note": "CATV 无源/有源器件制造商（Olson Technology 是其加州分部 SB-984）；拓以太网交换机线的 OEM 目标——找 CEO Neil Tang / 国际 BD Rigby",
+    "batch": "INTEL-07",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

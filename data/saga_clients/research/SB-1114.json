@@ -57,8 +57,8 @@
   "tier": 30,
   "why": "明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%"
  },
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Fikes Media：1 人副业 → 个人",
  "mail_review": {
   "binding": {
    "level": "轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回；Elsa 箱：`to:fikesmedia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 1）（第 74 批(h)））",
@@ -162,6 +162,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）"
+  },
+  {
+   "batch": "A-DEEP-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+   "reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Fikes Media：1 人副业 → 个人"
   }
  ],
  "deep": {
@@ -271,7 +279,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-02",
+  "verdict2_reason": "Fikes Media：1 人副业 → 个人"
  },
  "intel": {
   "as_of": "2026-10-30",

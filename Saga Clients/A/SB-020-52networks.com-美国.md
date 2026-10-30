@@ -296,15 +296,23 @@ A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/�
 | 2026-07-17 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：GSA eLibrary：52 NETWORKS, INC. · 5142 Meeting Pl, Woodbridge, VA 22193 · Contract 47QTCA22D00B3（MAS，Current Option Period End 2027-07-25，Ultimate 2042-07-25）· SAM UEI FV4KBSNE5S75 · NAICS 334111 · Small Business，SBA Certified Small Disadvantaged Business · uzair@52networks.com — <https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES>　*PI 成单户（gg）：联邦 GSA 供应商资格在手，到 2027 年有效*
+
+**新闻/招标**
+
+- 2026-10-30：HigherGov：Delivery Order 47QTCA22D00B3-W912LA25FA053 worth up to $29,270 awarded to 52 Networks on 2025-09-24 by California National Guard（MAS；Small Business Total set aside；NAICS 334111；PSC 7125；3 bids received） — <https://www.highergov.com/contract/47QTCA22D00B3-W912LA25FA053/>　*2025-09 仍在拿政府小单 → 公司活着、还在投标；我们的产品进其政府单要看产地要求，先做商业单*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：52networks.com in:email；"52networks.com" in:readme in:description；52networks.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

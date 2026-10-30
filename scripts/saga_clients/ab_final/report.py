@@ -49,7 +49,7 @@ def main():
     L.append('5. **B/C 之间只做一件事**：有实质回复的 C 捞到 B（U128 ②）；其余 B/C 不动。\n')
     L.append('## 1. 结果一览\n')
     L.append('| 项 | 数 |\n|---|---|')
-    L.append(f'| **A 终评 = {len(finalA)}**（上一版 224；评定前 169） | A1 Saga 成单 {len(by_tier["A1"])} / A2 实质回信 {len(by_tier["A2"])} / A3 极贴合 {len(by_tier["A3"])} |')
+    L.append(f'| **A 终评 = {len(finalA)}**（评定前 169 → 终评 224 → 核验 203 → 「极为 OK」{len(finalA)}） | A1 Saga 成单 {len(by_tier["A1"])} / A2 实质回信 {len(by_tier["A2"])} / A3 极贴合 {len(by_tier["A3"])} |')
     L.append(f'| 深挖核验候选 | {len(deep)} 户 → 留 A {sum(1 for o in deep.values() if o["verdict"] == "留A")} / 下放 B {len(demoted)}（§4）；SB-061 按人工定级留 B |')
     L.append(f'| A2 证据来源箱 | Alan {boxes["A"]} / S {boxes["S"]} / Elsa {boxes["E"]} 户（一户可多箱）；仅表内 / 研究档 {boxes["R"]} |')
     L.append(f'| 非 Saga 成单澄清 | {len(not_saga)} 户不再按成单计（§6）；老成单品类不符 {len(old_deal)} 户留 B |')
@@ -77,6 +77,19 @@ def main():
     for c, o in sorted(demoted, key=lambda kv: (kv[1]['region'], kv[0])):
         why = (o['gaps'][-1] if o['gaps'] and o['gaps'][-1].startswith('人工终判') else ('否决：' + '、'.join(o['veto']) if o['veto'] else '缺口：' + '、'.join(o['gaps'])))
         L.append(f"| {c} | {cell(o['name'], 26)} | {cell(o['country'], 8)} | {o['grade_now']} | {cell(why.replace('人工终判：', ''), 170)} | {cell((o.get('ident') or ['', ''])[0] + ' / ' + o.get('role', '') + ' / ' + (o.get('path') or ['', ''])[0], 40)} |")
+    L.append('')
+    # A-DEEP-02「不是极为 OK 的就 B」
+    d2 = []
+    for c, e in ents.items():
+        rs = e.get('research') or {}
+        for h in rs.get('override_history') or []:
+            if h.get('batch') == 'A-DEEP-02':
+                d2.append((c, e, (rs.get('a_deep') or {}).get('verdict2_reason') or h.get('reason', '')))
+    L.append(f'## 4b. 「不是极为 OK 的就 B」第二轮下放（A-DEEP-02，{len(d2)} 户；Simon 2026-10-30 定口径）——要捞回的指名\n')
+    L.append('口径：PI 成单不动；个人 / 微型（≤10 人或 <£1M 级）且无进行中项目、结构性采购障碍（只买美国/TAA 产地、自有海外制造、国防/铁路主业）、巨头集团子公司、非主攻区 + 互动薄 → B（研究档与情报全保留，B1 重点普通跟）。\n')
+    L.append('| 编号 | 公司 | 国家 | 原因 |\n|---|---|---|---|')
+    for c, e, why in sorted(d2, key=lambda x: (x[1]['region'], x[0])):
+        L.append(f"| {c} | {cell(e['name'], 26)} | {cell(e['country'], 8)} | {cell(why, 150)} |")
     L.append('')
     L.append(f'## 5. 出 A（评定前 A → B，{len(outA)} 户；非 Saga 成单澄清 / 婉拒 / 巨头 / 台湾 / 仅自动回复 / 无证据）\n')
     L.append('| 编号 | 公司 | 国家 | 原因 | 证据摘录 |\n|---|---|---|---|---|')

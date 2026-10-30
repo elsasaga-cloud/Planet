@@ -275,15 +275,23 @@ A 确认（美国品牌商 + VP 级直联 + 明确 2.5G/10G 需求）：P1 = STC
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Crustdata（2026-09）：Antronix · Cranbury, New Jersey（440 Forsgate Drive）· 33 employees · founded 1980 · Privately Held · headcount growth 0.0% YoY；compworth 估营收 $10.7M（41 人）；Cience：$5–10M，11–50 — <https://profiles.crustdata.com/company/antronix>
+
+**KP**
+
+- 2026-10-30：Crustdata Leadership：Neil Tang — President/CEO；Jim Taxdahl — Vice President of Sales（我方 KP）；Juan Bravo — Vice President of Sales；Andre Coulombe — VP Sales, Canadian Division；Jonathan Rigby — Director International Business Development；Cience：Ted Brown — Sales Executive — <https://profiles.crustdata.com/company/antronix>　*CATV 无源/有源器件制造商（Olson Technology 是其加州分部 SB-984）；拓以太网交换机线的 OEM 目标——找 CEO Neil Tang / 国际 BD Rigby*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：antronix.com in:email；"antronix.com" in:readme in:description；antronix.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -69,8 +69,8 @@
    "source": "S/A 邮箱来信 2024-11-22 来信 1 封（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：American Fibertek：Made in America / BAA + 外采线要求 TAA 合规（中国产地不合规）→ 结构性障碍",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nINH 红线：TAA/UL；本客户是典型 TAA 冲突案例。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -208,6 +208,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
+  },
+  {
+   "batch": "A-DEEP-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+   "reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：American Fibertek：Made in America / BAA + 外采线要求 TAA 合规（中国产地不合规）→ 结构性障碍"
   }
  ],
  "snap_thicken": {
@@ -448,7 +456,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-02",
+  "verdict2_reason": "American Fibertek：Made in America / BAA + 外采线要求 TAA 合规（中国产地不合规）→ 结构性障碍"
  },
  "intel": {
   "as_of": "2026-10-30",

@@ -83,8 +83,8 @@
    "source": "https://infrateq.com/156-industrial-poe-switch"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：infrateq.id：2–10 人、非主攻区 → 微型 + 非主攻",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\nA 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -267,6 +267,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07）"
+  },
+  {
+   "batch": "A-DEEP-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07）",
+   "reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：infrateq.id：2–10 人、非主攻区 → 微型 + 非主攻"
   }
  ],
  "a_deep": {
@@ -460,7 +468,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-02",
+  "verdict2_reason": "infrateq.id：2–10 人、非主攻区 → 微型 + 非主攻"
  },
  "intel": {
   "as_of": "2026-10-30",

@@ -74,9 +74,10 @@ def main():
     customers = []
     st = {'news_en': 0, 'news_local': 0, 'edgar': 0, 'ch': 0, 'ir': 0, 'github': 0, 'careers': 0, 'skipped_news': 0}
     for c, e in sorted(ents.items()):
-        if e.get('grade') != 'A':
-            continue
         rs = e.get('research') or {}
+        dug = any(str(x.get('batch', '')).startswith('INTEL') and x.get('found') for x in ((rs.get('intel') or {}).get('items') or []))
+        if e.get('grade') != 'A' and not (e.get('grade') == 'B' and dug):
+            continue  # A 户全部 + 挖过情报后下放 B 的户（如 Actelis EDGAR）继续 watch
         srcs = []
         nm = news_name(e, rs)
         if nm:
@@ -112,7 +113,7 @@ def main():
                 st['careers'] += 1
                 break
         if srcs:
-            customers.append({'code': c, 'name': e.get('name'), 'grade': 'A', 'country': e.get('country'), 'layer': 'A', 'sources': srcs})
+            customers.append({'code': c, 'name': e.get('name'), 'grade': e.get('grade'), 'country': e.get('country'), 'layer': 'A' if e.get('grade') == 'A' else 'B', 'sources': srcs})
     cfg = {'_comment': 'A 类挖底 watch 源（intel_targets.py 离线生成，幂等；与 targets.json / targets_auto.json 合并，源 id 以 intel_ 开头）', 'generated': '2026-10-30', 'stats': st, 'customers': customers}
     json.dump(cfg, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print('targets_intel: customers', len(customers), st)

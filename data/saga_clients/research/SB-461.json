@@ -48,8 +48,8 @@
    "source": "https://rejstrik.penize.cz/19014104-emos-spol-s-r-o"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：EMOS（捷克，290 人）2022 年起为 Legrand 集团成员 → 巨头子公司，Simon 2026-10-30 定 B",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -190,6 +190,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：EMOS（捷克，290 人）2022 年起为 Legrand 集团成员 → 巨头子公司，Simon 2026-10-30 定 B"
   }
  ],
  "a_deep": {
@@ -379,7 +387,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-02",
+  "verdict2_reason": "EMOS（捷克，290 人）2022 年起为 Legrand 集团成员 → 巨头子公司，Simon 2026-10-30 定 B"
  },
  "intel": {
   "as_of": "2026-10-30",

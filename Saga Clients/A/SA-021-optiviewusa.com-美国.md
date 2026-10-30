@@ -301,15 +301,23 @@ A 确认：美国 CCTV 批发商 + 自有品牌 + S 重点；P1 = STC-28DGGPM（
 | 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：RocketReach：Optiview · Jacksonville, Florida（5211 Fairmont Street）· Revenue $5.3M（2025）· 17 employees · Founded 1999 · President Stephen Lebowitz；ZoomInfo：<25 人 — <https://rocketreach.co/optiview-profile_b44dcabbfd1f98a9>
+
+**KP**
+
+- 2026-10-30：SignalHire / RocketReach：Stephen Lebowitz — President（18 年）；Gary Bibeau — Director of Sales and Business Development；Georgia Fishel — Director of Marketing and Purchasing（采购）；Jaime Baas — Product Testing and Development Engineer；Zach Roth — Account Manager — <https://www.signalhire.com/companies/optiview-inc/employees>　*Georgia Fishel 管采购 + 市场 = OEM 采购对口；Jaime Baas 做产品测试 = 样机对口*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：optiviewusa.com in:email；"optiviewusa.com" in:readme in:description；optiviewusa.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

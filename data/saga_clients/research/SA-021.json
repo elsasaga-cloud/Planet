@@ -493,6 +493,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "RocketReach：Optiview · Jacksonville, Florida（5211 Fairmont Street）· Revenue $5.3M（2025）· 17 employees · Founded 1999 · President Stephen Lebowitz；ZoomInfo：<25 人",
+    "url": "https://rocketreach.co/optiview-profile_b44dcabbfd1f98a9",
+    "note": "",
+    "batch": "INTEL-07",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "SignalHire / RocketReach：Stephen Lebowitz — President（18 年）；Gary Bibeau — Director of Sales and Business Development；Georgia Fishel — Director of Marketing and Purchasing（采购）；Jaime Baas — Product Testing and Development Engineer；Zach Roth — Account Manager",
+    "url": "https://www.signalhire.com/companies/optiview-inc/employees",
+    "note": "Georgia Fishel 管采购 + 市场 = OEM 采购对口；Jaime Baas 做产品测试 = 样机对口",
+    "batch": "INTEL-07",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

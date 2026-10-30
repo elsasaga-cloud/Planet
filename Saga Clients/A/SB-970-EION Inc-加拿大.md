@@ -225,15 +225,23 @@ updated: 2026-10-30
 | 2026-03-04 | 去 | A | Updated Ethernet Switches Links |  |
 | 2026-03-04 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：ZoomInfo：EION · Canada · Computer Equipment & Peripherals / Manufacturing / Telecommunications · 51–200 Employees · Revenue $21.8M · founded 2001 · Kalai Kalaichelvan President；highperformr：555 Legget Drive, Suite 720, Ottawa · Total employees 58 — <https://www.zoominfo.com/c/eion-inc/12567474>
+
+**KP**
+
+- 2026-10-30：highperformr（2025-04 领导层）：Dr. Kalai S. Kalaichelvan — President & CEO；Saf Assadi — Founder & CTO（我方 KP）；Sumit Kumar — VP Engineering；Manny Mistry — VP Sales & Business Development — <https://www.highperformr.ai/company/eion>　*无线宽带设备制造商（企业/农村宽带/公共安全/智慧城市/工业 IoT）→ 配套工业 PoE 交换机 OEM；CTO Assadi 是产品决策人*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：eion.com in:email；"eion.com" in:readme in:description；EION Inc type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

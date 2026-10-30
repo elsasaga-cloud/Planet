@@ -56,8 +56,8 @@
    "role": "Solution Architect（研究档 KP；2026-01-15 真回 CENTEC「great alternative in our market」；2026-03-10 带 C9300L-48P-4X 等价 8 台堆叠需求）= 收件人 — 一页纸 + 补答：STH1G 48×1G PoE+ + 4×10G SFP+ 堆叠 按主表报 + 堆叠带宽 / PoE 预算 / 交期如实 + 付费样机；FOB 深圳；一句话问国别 （第 122 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（AS；2024-11→2026-03）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Arnoldo Beltetón Mohr：危地马拉个人方案顾问（项目型）→ 个人 + 非主攻",
  "notes": "国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-826 Versitron，只发未回）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -231,6 +231,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（AS；2024-11→2026-03）"
+  },
+  {
+   "batch": "A-DEEP-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（AS；2024-11→2026-03）",
+   "reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Arnoldo Beltetón Mohr：危地马拉个人方案顾问（项目型）→ 个人 + 非主攻"
   }
  ],
  "ab_final": {
@@ -458,7 +466,10 @@
     "date": "2026-10-30"
    }
   ],
-  "manual": true
+  "manual": true,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-02",
+  "verdict2_reason": "Arnoldo Beltetón Mohr：危地马拉个人方案顾问（项目型）→ 个人 + 非主攻"
  },
  "country_fix": "危地马拉",
  "intel": {

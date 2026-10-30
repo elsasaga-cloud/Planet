@@ -382,6 +382,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LeadIQ（2026-06）：Epygi Technologies LLC ≈26 employees across Europe & North America；HQ Altamonte Springs, Florida（销售/市场/制造）；R&D 在 Yerevan, Armenia；2000 年成立的 IP PBX / 网关 / ecQX 云服务厂商，40 国有销售支持；theorg：CEO Mario Cuello（我方 KP），SW director Levon Harutyunyan",
+    "url": "https://leadiq.com/c/epygi-technologies-llc/5a1d89ff24000024006359d3",
+    "note": "总部已从 Plano TX 迁至佛州（研究档地址需更新）；PBX 厂商配套 PoE 交换机 = 典型 OEM 捆绑",
+    "batch": "INTEL-07",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

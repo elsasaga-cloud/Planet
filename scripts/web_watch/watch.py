@@ -604,15 +604,15 @@ def load_config(layers):
             for sx in c['sources']:
                 if (sx.get('url') or sx.get('login')) not in have:
                     tgt['sources'].append(dict(sx))
-            if tgt.get('layer') == 'B':      # 终评后升 A 的户：按 A 层处理
+            if tgt.get('layer') == 'B' and c.get('layer') == 'A':      # 终评后升 A 的户：按 A 层处理
                 tgt['layer'] = 'A'
                 tgt['label'] = 'A 级'
         else:
             c = dict(c)
             c['sources'] = [dict(x) for x in c['sources']]
             c['manual'] = list(c.get('manual', []))
-            c['layer'] = 'A'
-            c['label'] = 'A 级（intel）'
+            c['layer'] = c.get('layer') or 'A'
+            c['label'] = f"{c['layer']} 级（intel）"
             out.append(c)
             idx[c['code']] = c
     return [c for c in out if c['layer'] in layers]

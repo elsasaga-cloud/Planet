@@ -414,6 +414,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：EION · Canada · Computer Equipment & Peripherals / Manufacturing / Telecommunications · 51–200 Employees · Revenue $21.8M · founded 2001 · Kalai Kalaichelvan President；highperformr：555 Legget Drive, Suite 720, Ottawa · Total employees 58",
+    "url": "https://www.zoominfo.com/c/eion-inc/12567474",
+    "note": "",
+    "batch": "INTEL-07",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "highperformr（2025-04 领导层）：Dr. Kalai S. Kalaichelvan — President & CEO；Saf Assadi — Founder & CTO（我方 KP）；Sumit Kumar — VP Engineering；Manny Mistry — VP Sales & Business Development",
+    "url": "https://www.highperformr.ai/company/eion",
+    "note": "无线宽带设备制造商（企业/农村宽带/公共安全/智慧城市/工业 IoT）→ 配套工业 PoE 交换机 OEM；CTO Assadi 是产品决策人",
+    "batch": "INTEL-07",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

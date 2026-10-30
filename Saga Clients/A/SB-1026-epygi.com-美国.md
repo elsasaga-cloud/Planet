@@ -223,15 +223,19 @@ updated: 2026-10-30
 | 2024-12-05 | 去 | S | Re: Industrial PoE Switch |  |
 | 2025-04-06 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LeadIQ（2026-06）：Epygi Technologies LLC ≈26 employees across Europe & North America；HQ Altamonte Springs, Florida（销售/市场/制造）；R&D 在 Yerevan, Armenia；2000 年成立的 IP PBX / 网关 / ecQX 云服务厂商，40 国有销售支持；theorg：CEO Mario Cuello（我方 KP），SW director Levon Harutyunyan — <https://leadiq.com/c/epygi-technologies-llc/5a1d89ff24000024006359d3>　*总部已从 Plano TX 迁至佛州（研究档地址需更新）；PBX 厂商配套 PoE 交换机 = 典型 OEM 捆绑*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：epygi.com in:email；"epygi.com" in:readme in:description；epygi.com type:org（同名无关组织/仓库已剔除）
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
