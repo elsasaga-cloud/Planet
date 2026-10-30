@@ -456,6 +456,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "sundartechno.com：SUNDAR TECHNO SOLUTIONS, INDIA（Bangalore；WA/MOB +91-9482081014；sales@sundartechno.com）产品线：Industrial Ethernet Unmanaged / Lite Managed / Managed Switches、DNV GL / Railway / Substation Certified Switches、10Gbps Core Switch、4G LTE Router、PoE、工业 PC/IIoT 网关、PLC/HMI/SCADA、传感器；「Make in India approach」",
+    "url": "https://sundartechno.com/",
+    "note": "PI 成单户：自牌 STS 工业交换机全系在售（含我们供的机型可能性）→ 持续 OEM；注意其页面标「Railway / Substation Certified」是其叙事，我们只供商用/工业线",
+    "batch": "INTEL-13",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "官网博客高频更新：2026-04-29「Firewall Suppliers in India」（STS 4/6 口无风扇防火墙硬件，pfSense/OPNsense/Sophos）、2026-05-16「Oil, Gas & Petrochemical Industrial Automation Solutions」（industrial Layer 3 switches、industrial PoE switches、redundant ring）",
+    "url": "https://sundartechno.com/2026/05/16/oil-gas-petrochemical-industrial-automation-india/",
+    "note": "2026 年仍在做 SEO 内容营销 → 活跃；油气/管线是其目标行业（工业环网 + PoE）",
+    "batch": "INTEL-13",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

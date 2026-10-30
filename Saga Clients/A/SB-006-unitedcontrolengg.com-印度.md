@@ -250,15 +250,19 @@ A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/
 | 2024.5.27 | 表 | 表 | 问测试结果｜will check |  |
 | 2024.8.13 | 表 | 表 | 问需求｜基本只需要电口 不要光 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Crunchbase / RocketReach：United Control Engineers India Pvt. Ltd. · Greater Noida（Plot No. 218, Udyog Kendra 1, Ecotech 3）· Founded 2001 · 28 employees · Revenue $15.2M（2025）· Office@unitedcontrolengg.com · +91 9311150492；「distributor of Industrial Automation & Switchgears products along with panel building & System Integration … Authorized Channel partner of Delta, ABB, Eldon, BCH, Phoenix, Polyc — <https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa>　*PI 成单户：大诺伊达工业自动化分销 + 盘柜集成，28 人 $15M；Delta/ABB/Schneider 渠道 → 工业交换机随盘柜走量*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：unitedcontrolengg.com in:email；"unitedcontrolengg.com" in:readme in:description；unitedcontrolengg.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

@@ -665,6 +665,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "RocketReach：Vintron Informatics Ltd. · F-90/1 A, Okhla Industrial Area Phase-1, New Delhi 110020 · Founded 1991 · 74 employees · Revenue $19.3M（2025）· +91 11 4374 0000；ZoomInfo：Director & CEO Varun Gupta；clodura：CCTV camera, DVR, video door phones, smart TV box, video conferencing；区域销售经理多人（Vijay Gundecha、Raghvendra Singh）",
+    "url": "https://rocketreach.co/vintron-informatics-ltd-profile_b5f6c9a9f42e8ef3",
+    "note": "德里 CCTV 制造商（自有 PoE 交换机线）：74 人 $19M，CEO Varun Gupta 可直联；OEM 30% 档",
+    "batch": "INTEL-13",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

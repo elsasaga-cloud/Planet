@@ -25243,6 +25243,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "sundartechno.com：SUNDAR TECHNO SOLUTIONS, INDIA（Bangalore；WA/MOB +91-9482081014；sales@sundartechno.com）产品线：Industrial Ethernet Unmanaged / Lite Managed / Managed Switches、DNV GL / Railway / Substation Certified Switches、10Gbps Core Switch、4G LTE Router、PoE、工业 PC/IIoT 网关、PLC/HMI/SCADA、传感器；「Make in India approach」",
+"url": "https://sundartechno.com/",
+"note": "PI 成单户：自牌 STS 工业交换机全系在售（含我们供的机型可能性）→ 持续 OEM；注意其页面标「Railway / Substation Certified」是其叙事，我们只供商用/工业线",
+"batch": "INTEL-13",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "官网博客高频更新：2026-04-29「Firewall Suppliers in India」（STS 4/6 口无风扇防火墙硬件，pfSense/OPNsense/Sophos）、2026-05-16「Oil, Gas & Petrochemical Industrial Automation Solutions」（industrial Layer 3 switches、industrial PoE switches、redundant ring）",
+"url": "https://sundartechno.com/2026/05/16/oil-gas-petrochemical-industrial-automation-india/",
+"note": "2026 年仍在做 SEO 内容营销 → 活跃；油气/管线是其目标行业（工业环网 + PoE）",
+"batch": "INTEL-13",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -69167,6 +69187,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Crunchbase / RocketReach：United Control Engineers India Pvt. Ltd. · Greater Noida（Plot No. 218, Udyog Kendra 1, Ecotech 3）· Founded 2001 · 28 employees · Revenue $15.2M（2025）· Office@unitedcontrolengg.com · +91 9311150492；「distributor of Industrial Automation & Switchgears products along with panel building & System Integration … Authorized Channel partner of Delta, ABB, Eldon, BCH, Phoenix, Polyc",
+"url": "https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa",
+"note": "PI 成单户：大诺伊达工业自动化分销 + 盘柜集成，28 人 $15M；Delta/ABB/Schneider 渠道 → 工业交换机随盘柜走量",
+"batch": "INTEL-13",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -206958,6 +206988,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "RocketReach：Vintron Informatics Ltd. · F-90/1 A, Okhla Industrial Area Phase-1, New Delhi 110020 · Founded 1991 · 74 employees · Revenue $19.3M（2025）· +91 11 4374 0000；ZoomInfo：Director & CEO Varun Gupta；clodura：CCTV camera, DVR, video door phones, smart TV box, video conferencing；区域销售经理多人（Vijay Gundecha、Raghvendra Singh）",
+"url": "https://rocketreach.co/vintron-informatics-ltd-profile_b5f6c9a9f42e8ef3",
+"note": "德里 CCTV 制造商（自有 PoE 交换机线）：74 人 $19M，CEO Varun Gupta 可直联；OEM 30% 档",
+"batch": "INTEL-13",
+"found": true,
 "added": "2026-10-30"
 }
 ]

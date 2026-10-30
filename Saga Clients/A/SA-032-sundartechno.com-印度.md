@@ -259,15 +259,23 @@ A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需�
 |---|---|---|---|---|
 | 2024-06-27 | 去 | S | Industrial network switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**新闻/招标**
+
+- 2026-10-30：官网博客高频更新：2026-04-29「Firewall Suppliers in India」（STS 4/6 口无风扇防火墙硬件，pfSense/OPNsense/Sophos）、2026-05-16「Oil, Gas & Petrochemical Industrial Automation Solutions」（industrial Layer 3 switches、industrial PoE switches、redundant ring） — <https://sundartechno.com/2026/05/16/oil-gas-petrochemical-industrial-automation-india/>　*2026 年仍在做 SEO 内容营销 → 活跃；油气/管线是其目标行业（工业环网 + PoE）*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：sundartechno.com in:email；"sundartechno.com" in:readme in:description；sundartechno.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：sundartechno.com：SUNDAR TECHNO SOLUTIONS, INDIA（Bangalore；WA/MOB +91-9482081014；sales@sundartechno.com）产品线：Industrial Ethernet Unmanaged / Lite Managed / Managed Switches、DNV GL / Railway / Substation Certified Switches、10Gbps Core Switch、4G LTE Router、PoE、工业 PC/IIoT 网关、PLC/HMI/SCADA、传感器；「Make in India approach」 — <https://sundartechno.com/>　*PI 成单户：自牌 STS 工业交换机全系在售（含我们供的机型可能性）→ 持续 OEM；注意其页面标「Railway / Substation Certified」是其叙事，我们只供商用/工业线*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

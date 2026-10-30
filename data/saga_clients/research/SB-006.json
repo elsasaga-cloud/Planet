@@ -480,6 +480,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Crunchbase / RocketReach：United Control Engineers India Pvt. Ltd. · Greater Noida（Plot No. 218, Udyog Kendra 1, Ecotech 3）· Founded 2001 · 28 employees · Revenue $15.2M（2025）· Office@unitedcontrolengg.com · +91 9311150492；「distributor of Industrial Automation & Switchgears products along with panel building & System Integration … Authorized Channel partner of Delta, ABB, Eldon, BCH, Phoenix, Polyc",
+    "url": "https://rocketreach.co/united-control-engineers-india-pvt-ltd-profile_b7dc2582c0cb47fa",
+    "note": "PI 成单户：大诺伊达工业自动化分销 + 盘柜集成，28 人 $15M；Delta/ABB/Schneider 渠道 → 工业交换机随盘柜走量",
+    "batch": "INTEL-13",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }
