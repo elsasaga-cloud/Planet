@@ -1,7 +1,7 @@
 # Three Lines Company
 **官方名称（调研核实）**：3Lines Advanced Technologies Company（利雅得）
 
-> **评级 A**　|　沙特阿拉伯　|　档案编号 `SC-097`　|　优先级 ★★★　|　状态：WhatsApp 已加·未回复
+> **评级 B**　|　沙特阿拉伯　|　档案编号 `SC-097`　|　优先级 ★★　|　状态：WhatsApp 已加·未回复
 >
 > **C 池筛选：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 1 · 2026-10-30）：A 级终评捞出（AB-FINAL-01）→ A：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）｜原：沙特「愿景 2030」军民服务本地化公司（AS9110 航空维修），要堆叠交换机 + 光模块 MC「其实需要其他品牌」→ 军工守界；活着　|　标签：dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
@@ -9,10 +9,10 @@
 
 ```yaml structured_profile
 code: SC-097
-rating: A
+rating: B
 rating_auto: B
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）
 name_official: "3Lines Advanced Technologies Company（利雅得）"
 score: 37
 country: 沙特阿拉伯
@@ -36,10 +36,10 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特 2019 年成立的「愿景 2030」军民服务本地化公司（供应链与技术服务，AS9110/AS9120 航空维修资质，地面保障设备、电子诊断维修车间），采购 Eng. Mohamed Ismail 要堆叠交换机 + 整套配件、光模块 / MC，「其实是需要其他品牌的」；军工属性 → 守界降 C。（调研 2026-10-21；表内兴趣：堆叠switch+整套配件；光模块 MC  其实是需要其他品牌的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05））；自动分级 B：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界）；自动分级 B：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 5 次（2023-02-28 → 2025-10-02）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 守界（军工）；且要的是他牌堆叠；None
-- **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
 - **下一步**：不动 — 首封前知悉：Elsa 2025-12-29 单发过「Marvell Industrial Alert System」（未见回复（Elsa 箱 Replied 标签无））；不动：守界（军工）+ 指定他牌
 
@@ -96,7 +96,7 @@ updated: 2026-10-30
   > 兴趣：堆叠switch+整套配件;光模块 MC 其实是需要其他品牌的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Eng. Mohamed Ismail（）ismail@3lines.com.sa +966 56 974 7353〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）
+- **调研后定级**：B（原自动 B）——A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界
 - 备注：（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（身份判断 → 军工守界降 C））
@@ -151,9 +151,13 @@ updated: 2026-10-30
 
 **故事线**：沙特阿拉伯·ISP/运营商；研究档法定名：3Lines Advanced Technologies Company（利雅得）。往来 —→2025-05-12：我方去信 0 封（A 0 / S 0），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-05-07 E: Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specificatio ‖ 2025-05-12 E: Hello Team, Kindly find the f。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：ZoomInfo / ai3lines：Three Lines（3Lines Advanced Technologies）· King Abdullah Rd Fl 4, Riyadh · Aerospace & Defense · 51–200 · $5.4M · 「first licensed Saudi company specializing in the supply of aircraft spare parts, ground support equipment, and simulators … civil and military aircraft」· 另设 AI Division（sovereign AI） — <https://www.zoominfo.com/c/three-lines/547055702>　*航空国防 MRO 主业 → 守界，A-DEEP-09 下放 B*
 
 **GitHub/技术足迹**
 
@@ -221,7 +225,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -248,7 +252,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -268,11 +272,11 @@ updated: 2026-10-30
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
 
 ---
 

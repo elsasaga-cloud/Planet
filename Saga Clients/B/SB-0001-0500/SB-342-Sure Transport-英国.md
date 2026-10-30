@@ -1,15 +1,15 @@
 # Sure Transport
 **官方名称（调研核实）**：SURE24 Ltd / SURE Transport（SURE Solutions），Bingham/Nottingham, UK；sure24.co.uk / suretransport.co.uk
 
-> **评级 A**　|　英国　|　档案编号 `SB-342`　|　优先级 ★★★　|　状态：已推送 18 次·未回复
+> **评级 B**　|　英国　|　档案编号 `SB-342`　|　优先级 ★★　|　状态：已推送 18 次·未回复
 >
 > **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 18 次（2024-05-09 → 2025-10-24）　|　**所在清单**：A优质名单(UK)、AI评估(UK)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-342
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：SURE Transport / SURE24：车载 CCTV
 name_official: "SURE24 Ltd / SURE Transport（SURE Solutions），Bingham/Nottingham, UK；sure24.co.uk / suretransport.co.uk"
 score: 44
 country: 英国
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国诺丁汉的车载 CCTV 供应商（SURE24 1992 年成立，11–50 人；姐妹公司 SURE Transport/SURE Solutions 专供 Tier 1/2 巴士运营商：Go-Ahead 全英 5,000 辆巴士车载 CCTV 支持合同、Lothian、West Coast Motors；产品 Timespace V400、自有品牌 SUREMDVR 系列（E-mark E11、DC 8–36 V、4G/GPS）、车队追踪云、全国汽车电工安装网络；客户还含警察、货车、HGV、应急服务）。展会记录：需求与斯洛文尼亚客户相似——基本只要 5/8 口、偶尔 PoE、不要 10/12/16 口，看了实物图和 E-mark 证书；联系人 Callum（callum@sure24.co.uk）；18 次跟进 0 回复。车载（非轨道）DC 供电小交换机 → STI 系列对口。（调研 2026-10-21；表内兴趣：需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公司信息）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
 - **历史互动**：推送 18 次（2024-05-09 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — OEM/自有品牌 30% 档：STI-050GE（DIN 迷你 5 GE 非管理，DC 12–36 V 正合巴士 24 V 车电，−40~+75 ℃，$18.5）/ STI-080GE（8 口，DC 12–58 V，$34.0）作车载基础交换；偶尔 PoE 用 STI-054GP（4 PoE + 1 上联，DC 44–57 V 需升压，$33.8）；需随附 E-mark 证书。已打开的主题（1/27 封有打开记录）：「10G Media Converter」(2024-12-04) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-04 $65（10G Media Converter）、2025-10-01 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Callum, for the bus kits: the mini 5-port gigabit DIN switch (12–36 V DC, −40 to +75 °C, UKCA/CE/RoHS; no E-mark) is $18.5 EXW and the 8-port $34.0, with a 4-port PoE variant at $33.8 for IP cameras; how many vehicles per month are you fitting with IP cameras now?
@@ -157,7 +157,7 @@ updated: 2026-10-30
   > 需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Stephanie Lorraine Kirton（Director / Finance Director（2023-11-23 任；Companies House 04863038）= 现任董事中任期最长者；另两位董事 Louis Max Fitzsimmons / Edwyn Owen Thomas 2025-06-29 新任 = 换手期（邮箱未公开 → sales@ 点名）（第 94 批 官方登记核实 2026-10-28）） 〔https://find-and-update.company-information.service.gov.uk/company/04863038/officers〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+- **调研后定级**：B（原自动 B）——A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -261,13 +261,17 @@ updated: 2026-10-30
 | 2026-08-21 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-08-21 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：suretransport.co.uk in:email；"suretransport.co.uk" in:readme in:description；Sure Transport type:org（同名无关组织/仓库已剔除）
+
+**供应商/品牌关系**
+
+- 2026-10-30：Crunchbase / LinkedIn：SURE Transport（sister of SURE24 Ltd，Bingham, Nottinghamshire，1992，11–50）· 「supplies and installs vehicle CCTV equipment for bus, coach, and van fleets」· SURE24：CCTV specialists，links with Police Technical Support Units, Government Agencies, Private Investigators（covert） — <https://www.crunchbase.com/organization/sure-transport>　*车载 CCTV（需 E-mark）+ 警务/隐蔽监控 → 品类与守界双重不对位，A-DEEP-09 下放 B*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
@@ -350,7 +354,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-050GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -377,7 +381,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -413,11 +417,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 44）
 
 ---
 

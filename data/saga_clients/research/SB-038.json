@@ -38,8 +38,8 @@
    "source": "D&B / gowork / Crunchbase"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Tricomp：华沙小型 IT/电信维修服务公司，股本 5 万 PLN → 微型",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -224,6 +224,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-09",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Tricomp：华沙小型 IT/电信维修服务公司，股本 5 万 PLN → 微型"
   }
  ],
  "snap_thicken": {
@@ -439,7 +447,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-09",
+  "verdict2_reason": "Tricomp：华沙小型 IT/电信维修服务公司，股本 5 万 PLN → 微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -452,6 +463,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GoWork / pkt.pl：「TRICOMP」Sp. z o.o. · Al. Prymasa Tysiąclecia 78A, 01-424 Warszawa · KRS 0000121281 · NIP 5222477449 · REGON 016022377 · 2002 · 股本 50 000 zł · PKD 95.11.Z / 95.12.Z（电脑与电信设备维修）· contactpl@tricomp.com.pl",
+    "url": "https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy",
+    "note": "华沙小型 IT/电信维修服务公司（股本 5 万 PLN）→ A-DEEP-09 下放 B",
+    "batch": "INTEL-18",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

@@ -69,8 +69,8 @@
    "source": "https://papagal.bg/eik/202351530/4f70"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Elite Team Security：弗拉察保安公司 12 人、年营业额 25 万欧 → 终端/微型",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -248,6 +248,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）"
+  },
+  {
+   "batch": "A-DEEP-09",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）",
+   "reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Elite Team Security：弗拉察保安公司 12 人、年营业额 25 万欧 → 终端/微型"
   }
  ],
  "snap_thicken": {
@@ -478,7 +486,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-09",
+  "verdict2_reason": "Elite Team Security：弗拉察保安公司 12 人、年营业额 25 万欧 → 终端/微型"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -491,6 +502,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "papagal.bg / finansi.bg：ЕЛИТ - ТИМ - СЕКЮРИТИ ООД（ELITE TEAM SECURITY）· ЕИК 202351530 · 2012-12-07 · Враца, ж.к. Река Лева, ул. Остри връх 1 · 12 служители（2021）· оборот 248 999 €（2020）· 管理人 Радка Иванова / Тихомир Иванов · 业务：физическа охрана + СОТ + видеонаблюдение",
+    "url": "https://papagal.bg/eik/202351530/4f70",
+    "note": "保安公司（12 人、年营业额 25 万欧）兼装监控 → 终端/微型，A-DEEP-09 下放 B",
+    "batch": "INTEL-18",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

@@ -422,6 +422,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "implisense / D&B：LANOPIA GmbH · Amtsgericht München HRB 143448 · 2002-05-09 · Euphemiaweg 20a / Gewerbepark 23, 85250 Altomünster · Stammkapital €25,000 · Wholesale of electronic and telecommunications equipment（Datenkommunikationsprodukte）· Small enterprise（1–24）· GF Martina Ochmann，Partner Paul Ochmann",
+    "url": "https://app.implisense.com/en/companies/lanopia-gmbh-altomuenster--DEIDEIEX1021",
+    "note": "巴伐利亚家族式数据通信批发商（小型）",
+    "batch": "INTEL-18",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

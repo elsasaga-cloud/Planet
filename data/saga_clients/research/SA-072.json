@@ -457,6 +457,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "reportaziende / aziendeeasy：TRANS AUDIO VIDEO S.R.L. · P.IVA 01675270613 · Caserta（Viale Melvin Jones 12）· Data Iscrizione 1987-06-18 · Dipendenti 20–49（RocketReach 28）· Fatturato 2022 €22.3M → 2023 €23.7M → **2024 €17.96M（−24.2%）** · Utile 2024 €33.8K（margine 0.2%）· ATECO 46.43.3；「distribution company operating into Broadcast, Cinema, Pro Foto/Video and high-end CCTV」",
+    "url": "https://www.reportaziende.it/trans_audio_video_srl_ce_01675270613",
+    "note": "采购线索：营收下滑 24%、利润见底 → 在找降本货源；高端 CCTV 分销线 → PoE 交换机配套",
+    "batch": "INTEL-18",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

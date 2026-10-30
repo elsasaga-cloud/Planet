@@ -58,8 +58,8 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/04863038/officers"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -230,6 +230,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-09",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位"
   }
  ],
  "a_deep": {
@@ -416,7 +424,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-09",
+  "verdict2_reason": "SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -429,6 +440,16 @@
     "note": "",
     "batch": "INTEL-GH-01",
     "found": false,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "Crunchbase / LinkedIn：SURE Transport（sister of SURE24 Ltd，Bingham, Nottinghamshire，1992，11–50）· 「supplies and installs vehicle CCTV equipment for bus, coach, and van fleets」· SURE24：CCTV specialists，links with Police Technical Support Units, Government Agencies, Private Investigators（covert）",
+    "url": "https://www.crunchbase.com/organization/sure-transport",
+    "note": "车载 CCTV（需 E-mark）+ 警务/隐蔽监控 → 品类与守界双重不对位，A-DEEP-09 下放 B",
+    "batch": "INTEL-18",
+    "found": true,
     "added": "2026-10-30"
    }
   ]

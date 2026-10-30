@@ -439,6 +439,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "online-handelsregister / cylex：DEMA Vertriebs-GmbH · Amtsgericht Stuttgart HRB 571318 · Gründung 1963-01-17 · Im Tobel 4, 74547 Untermünkheim · Kapital €800,000 · USt-IdNr. DE146279485 · WZ Elektroinstallationsmaterial (Großhandel), Industriemaschinen (Großhandel) · 07944 981010",
+    "url": "https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/571318/DEMA-Vertriebs-GmbH",
+    "note": "1963 年起的电气安装材料/工业设备批发商（资本 80 万欧）→ 交换机为电气批发品类扩展",
+    "batch": "INTEL-18",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

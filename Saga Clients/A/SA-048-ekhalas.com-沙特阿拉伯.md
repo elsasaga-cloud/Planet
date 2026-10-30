@@ -292,15 +292,19 @@ updated: 2026-10-30
 | 2026-09-22 | 来 | A | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we … |  |
 | 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：alrajhitel.com / Crunchbase：Al Rajhi Telecom Company · Riyadh（7687 King Fahad Branch Road, Al Murabba）· Established 2014 as a subsidiary of Al Rajhi Building & Construction · 501–1,000 employees · ICT infrastructure / MEP / ELV / cybersecurity / data center & power · 10,000+ customers · showrooms Riyadh, Al Khobar, Jeddah · e-commerce ekhalas.com（2025-11 发文）· 目标「leading IT wholesale distributor in — <https://www.alrajhitel.com/about-us/>　*沙特大集团（Al Rajhi）旗下 ICT 集成 + 分销 + 电商（500–1,000 人）——自身是分销方，按 K8 留 A；采购走正式供应商注册*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：ekhalas.com in:email；"ekhalas.com" in:readme in:description；ekhalas.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

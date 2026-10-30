@@ -603,6 +603,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "alrajhitel.com / Crunchbase：Al Rajhi Telecom Company · Riyadh（7687 King Fahad Branch Road, Al Murabba）· Established 2014 as a subsidiary of Al Rajhi Building & Construction · 501–1,000 employees · ICT infrastructure / MEP / ELV / cybersecurity / data center & power · 10,000+ customers · showrooms Riyadh, Al Khobar, Jeddah · e-commerce ekhalas.com（2025-11 发文）· 目标「leading IT wholesale distributor in",
+    "url": "https://www.alrajhitel.com/about-us/",
+    "note": "沙特大集团（Al Rajhi）旗下 ICT 集成 + 分销 + 电商（500–1,000 人）——自身是分销方，按 K8 留 A；采购走正式供应商注册",
+    "batch": "INTEL-18",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

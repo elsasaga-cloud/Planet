@@ -69,8 +69,8 @@
    "source": "S 邮箱来信表头"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -320,6 +320,14 @@
    "to": "A",
    "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "A-DEEP-09",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+   "reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办"
   }
  ],
  "a_deep": {
@@ -512,7 +520,10 @@
    }
   ],
   "web_facts": [],
-  "manual": false
+  "manual": false,
+  "verdict2": "下放B",
+  "verdict2_batch": "A-DEEP-09",
+  "verdict2_reason": "Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办"
  },
  "intel": {
   "as_of": "2026-10-30",
@@ -524,6 +535,16 @@
     "url": "https://github.com/intracom-telecom-sdn/nstat",
     "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
     "batch": "INTEL-GH-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo / powrbot：INTRACOM Middle East（Intracom Middle East FZE/FZ-LLC）· Dubai, Bldg 3 Ofc 204 · 1–10 employees（Office Manager Oumou Keltoum、Engineer Mohammad Yaacoub、HR Director Sulaiman Rawther）· 母公司 Intracom Telecom（希腊电信系统厂商）",
+    "url": "https://www.zoominfo.com/c/intracom-middle-east/369307611",
+    "note": "母公司项目办公室（2–10 人），采购在雅典总部 → A-DEEP-09 下放 B",
+    "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
    }

@@ -21631,6 +21631,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn / contactout / SignalHire：Al Salami Trading L.L.C.（AST）· founded 1989 by chairman Rashid Al Salami（Al Salami Group of Companies）· Dubai, Al Quds Street, Binsougat Building Office 8 · 11–50（13–19 可见）· electronic security & surveillance design/integration/installation · GM Nazeeh Naeem · 042650333",
+"url": "https://www.linkedin.com/company/al-salami-trading-establishment/",
+"note": "迪拜老牌家族集团下的安防集成公司（≈15 人）；GM 直联",
+"batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -36590,6 +36600,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "alrajhitel.com / Crunchbase：Al Rajhi Telecom Company · Riyadh（7687 King Fahad Branch Road, Al Murabba）· Established 2014 as a subsidiary of Al Rajhi Building & Construction · 501–1,000 employees · ICT infrastructure / MEP / ELV / cybersecurity / data center & power · 10,000+ customers · showrooms Riyadh, Al Khobar, Jeddah · e-commerce ekhalas.com（2025-11 发文）· 目标「leading IT wholesale distributor in",
+"url": "https://www.alrajhitel.com/about-us/",
+"note": "沙特大集团（Al Rajhi）旗下 ICT 集成 + 分销 + 电商（500–1,000 人）——自身是分销方，按 K8 留 A；采购走正式供应商注册",
+"batch": "INTEL-18",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -53998,6 +54018,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "reportaziende / aziendeeasy：TRANS AUDIO VIDEO S.R.L. · P.IVA 01675270613 · Caserta（Viale Melvin Jones 12）· Data Iscrizione 1987-06-18 · Dipendenti 20–49（RocketReach 28）· Fatturato 2022 €22.3M → 2023 €23.7M → **2024 €17.96M（−24.2%）** · Utile 2024 €33.8K（margine 0.2%）· ATECO 46.43.3；「distribution company operating into Broadcast, Cinema, Pro Foto/Video and high-end CCTV」",
+"url": "https://www.reportaziende.it/trans_audio_video_srl_ce_01675270613",
+"note": "采购线索：营收下滑 24%、利润见底 → 在找降本货源；高端 CCTV 分销线 → PoE 交换机配套",
+"batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -54733,7 +54763,7 @@
 "c_sub": "",
 "status": "回复暂无需求",
 "code": "SA-074",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-074",
 "name_official": "Elite Team Security OOD（Елит-Тим-Секюрити，弗拉察 Vratsa，保加利亚）",
@@ -54805,8 +54835,8 @@
 "source": "https://papagal.bg/eik/202351530/4f70"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）",
+"grade_override": "B",
+"override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Elite Team Security：弗拉察保安公司 12 人、年营业额 25 万欧 → 终端/微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。",
 "researched_at": "2026-10-21",
 "deep": {
@@ -54984,6 +55014,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）"
+},
+{
+"batch": "A-DEEP-09",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）",
+"reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Elite Team Security：弗拉察保安公司 12 人、年营业额 25 万欧 → 终端/微型"
 }
 ],
 "snap_thicken": {
@@ -55214,7 +55252,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-09",
+"verdict2_reason": "Elite Team Security：弗拉察保安公司 12 人、年营业额 25 万欧 → 终端/微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -55227,6 +55268,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "papagal.bg / finansi.bg：ЕЛИТ - ТИМ - СЕКЮРИТИ ООД（ELITE TEAM SECURITY）· ЕИК 202351530 · 2012-12-07 · Враца, ж.к. Река Лева, ул. Остри връх 1 · 12 служители（2021）· оборот 248 999 €（2020）· 管理人 Радка Иванова / Тихомир Иванов · 业务：физическа охрана + СОТ + видеонаблюдение",
+"url": "https://papagal.bg/eik/202351530/4f70",
+"note": "保安公司（12 人、年营业额 25 万欧）兼装监控 → 终端/微型，A-DEEP-09 下放 B",
+"batch": "INTEL-18",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -85878,7 +85929,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SB-038",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-038",
 "name_official": "Tricomp Sp. z o.o.（华沙，波兰，2002 年）",
@@ -85919,8 +85970,8 @@
 "source": "D&B / gowork / Crunchbase"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Tricomp：华沙小型 IT/电信维修服务公司，股本 5 万 PLN → 微型",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
 "researched_at": "2026-10-21",
 "deep": {
@@ -86105,6 +86156,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-09",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Tricomp：华沙小型 IT/电信维修服务公司，股本 5 万 PLN → 微型"
 }
 ],
 "snap_thicken": {
@@ -86320,7 +86379,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-09",
+"verdict2_reason": "Tricomp：华沙小型 IT/电信维修服务公司，股本 5 万 PLN → 微型"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -86333,6 +86395,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "GoWork / pkt.pl：「TRICOMP」Sp. z o.o. · Al. Prymasa Tysiąclecia 78A, 01-424 Warszawa · KRS 0000121281 · NIP 5222477449 · REGON 016022377 · 2002 · 股本 50 000 zł · PKD 95.11.Z / 95.12.Z（电脑与电信设备维修）· contactpl@tricomp.com.pl",
+"url": "https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy",
+"note": "华沙小型 IT/电信维修服务公司（股本 5 万 PLN）→ A-DEEP-09 下放 B",
+"batch": "INTEL-18",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -89862,6 +89934,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "2GIS / ReachUAE：Euro Technology（Euro Technology Civil Company）· 136 Al Zajil Street, Mezzanine Office 4, Al Danah, Abu Dhabi · Safety and security systems · Fax 026417333；RocketReach 另有「EURO® Technology Group」（interactiveeuro.co.uk，$7M / 9 人 / 1998）——是否同一主体未确认",
+"url": "https://2gis.ae/dubai/firm/70000001038659183",
+"note": "阿布扎比安防集成商；规模按研究档 ≈9 人 / ≈$7M 采信（待官网核）",
+"batch": "INTEL-18",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -131697,6 +131779,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "ufficiocamerale：STS ITALIA S.R.L. · P.IVA 00865310247 · Via Spinelli 134, 20862 Arcore (MB) · REA 1490600 · Data Iscrizione 1984-05-11 · Dipendenti 73（2026）· Fatturato €7,973,181（2024）· Utile €438,664 · ATECO 432102 Installazione di cablaggi per telecomunicazioni e altre reti · PEC stsitaliasrl@pec.telemar.it；RocketReach：Security and Investigations，Silvio Stefani — Commerciale",
+"url": "https://www.ufficiocamerale.it/4755/sts-italia-srl",
+"note": "米兰北郊 73 人安防/布线安装集成商，年销 €8M、盈利 → 集成 25% 档",
+"batch": "INTEL-18",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -209202,6 +209294,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "online-handelsregister / cylex：DEMA Vertriebs-GmbH · Amtsgericht Stuttgart HRB 571318 · Gründung 1963-01-17 · Im Tobel 4, 74547 Untermünkheim · Kapital €800,000 · USt-IdNr. DE146279485 · WZ Elektroinstallationsmaterial (Großhandel), Industriemaschinen (Großhandel) · 07944 981010",
+"url": "https://www.online-handelsregister.de/handelsregisterauszug/bw/Stuttgart/HRB/571318/DEMA-Vertriebs-GmbH",
+"note": "1963 年起的电气安装材料/工业设备批发商（资本 80 万欧）→ 交换机为电气批发品类扩展",
+"batch": "INTEL-18",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -274429,7 +274531,7 @@
 "c_sub": "",
 "status": "已推送 18 次·未回复",
 "code": "SB-342",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-342",
 "name_official": "SURE24 Ltd / SURE Transport（SURE Solutions），Bingham/Nottingham, UK；sure24.co.uk / suretransport.co.uk",
@@ -274490,8 +274592,8 @@
 "source": "https://find-and-update.company-information.service.gov.uk/company/04863038/officers"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+"grade_override": "B",
+"override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
 "deep": {
 "done_at": "2026-10-21",
@@ -274662,6 +274764,14 @@
 "to": "A",
 "prev_reason": "",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+},
+{
+"batch": "A-DEEP-09",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+"reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位"
 }
 ],
 "a_deep": {
@@ -274848,7 +274958,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-09",
+"verdict2_reason": "SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -274861,6 +274974,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "Crunchbase / LinkedIn：SURE Transport（sister of SURE24 Ltd，Bingham, Nottinghamshire，1992，11–50）· 「supplies and installs vehicle CCTV equipment for bus, coach, and van fleets」· SURE24：CCTV specialists，links with Police Technical Support Units, Government Agencies, Private Investigators（covert）",
+"url": "https://www.crunchbase.com/organization/sure-transport",
+"note": "车载 CCTV（需 E-mark）+ 警务/隐蔽监控 → 品类与守界双重不对位，A-DEEP-09 下放 B",
+"batch": "INTEL-18",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -366434,6 +366557,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "implisense / D&B：LANOPIA GmbH · Amtsgericht München HRB 143448 · 2002-05-09 · Euphemiaweg 20a / Gewerbepark 23, 85250 Altomünster · Stammkapital €25,000 · Wholesale of electronic and telecommunications equipment（Datenkommunikationsprodukte）· Small enterprise（1–24）· GF Martina Ochmann，Partner Paul Ochmann",
+"url": "https://app.implisense.com/en/companies/lanopia-gmbh-altomuenster--DEIDEIEX1021",
+"note": "巴伐利亚家族式数据通信批发商（小型）",
+"batch": "INTEL-18",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -519050,7 +519183,7 @@
 "c_sub": "",
 "status": "名单内·未触达",
 "code": "SB-924",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SB-924",
 "name_official": "",
@@ -519122,8 +519255,8 @@
 "source": "S 邮箱来信表头"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+"grade_override": "B",
+"override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办",
 "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
 "deep": {
 "done_at": "2026-10-21",
@@ -519373,6 +519506,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+},
+{
+"batch": "A-DEEP-09",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+"reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办"
 }
 ],
 "a_deep": {
@@ -519565,7 +519706,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-09",
+"verdict2_reason": "Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -519577,6 +519721,16 @@
 "url": "https://github.com/intracom-telecom-sdn/nstat",
 "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
 "batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "ZoomInfo / powrbot：INTRACOM Middle East（Intracom Middle East FZE/FZ-LLC）· Dubai, Bldg 3 Ofc 204 · 1–10 employees（Office Manager Oumou Keltoum、Engineer Mohammad Yaacoub、HR Director Sulaiman Rawther）· 母公司 Intracom Telecom（希腊电信系统厂商）",
+"url": "https://www.zoominfo.com/c/intracom-middle-east/369307611",
+"note": "母公司项目办公室（2–10 人），采购在雅典总部 → A-DEEP-09 下放 B",
+"batch": "INTEL-18",
 "found": true,
 "added": "2026-10-30"
 }
@@ -579138,7 +579292,7 @@
 "c_sub": "",
 "status": "WhatsApp 已加·未回复",
 "code": "SC-097",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SC-097",
 "name_official": "3Lines Advanced Technologies Company（利雅得）",
@@ -579173,8 +579327,8 @@
 "source": "（本地 Clients/ 表格，无公开 URL）"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
+"grade_override": "B",
+"override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界",
 "notes": "（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回",
 "deep": {
 "done_at": "2026-10-21",
@@ -579267,6 +579421,14 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）"
+},
+{
+"batch": "A-DEEP-09",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
+"reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界"
 }
 ],
 "a_deep": {
@@ -579315,7 +579477,10 @@
 "prices_out": [],
 "timeline": [],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-09",
+"verdict2_reason": "3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -579327,6 +579492,16 @@
 "url": "https://github.com/Abdul-Rafay-ASE/3lines-wds-2026",
 "note": "匿名 API 检索；组织名同名有误配可能，看 URL 再用",
 "batch": "INTEL-GH-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "ZoomInfo / ai3lines：Three Lines（3Lines Advanced Technologies）· King Abdullah Rd Fl 4, Riyadh · Aerospace & Defense · 51–200 · $5.4M · 「first licensed Saudi company specializing in the supply of aircraft spare parts, ground support equipment, and simulators … civil and military aircraft」· 另设 AI Division（sovereign AI）",
+"url": "https://www.zoominfo.com/c/three-lines/547055702",
+"note": "航空国防 MRO 主业 → 守界，A-DEEP-09 下放 B",
+"batch": "INTEL-18",
 "found": true,
 "added": "2026-10-30"
 }

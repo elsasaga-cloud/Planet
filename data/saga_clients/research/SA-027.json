@@ -443,6 +443,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn / contactout / SignalHire：Al Salami Trading L.L.C.（AST）· founded 1989 by chairman Rashid Al Salami（Al Salami Group of Companies）· Dubai, Al Quds Street, Binsougat Building Office 8 · 11–50（13–19 可见）· electronic security & surveillance design/integration/installation · GM Nazeeh Naeem · 042650333",
+    "url": "https://www.linkedin.com/company/al-salami-trading-establishment/",
+    "note": "迪拜老牌家族集团下的安防集成公司（≈15 人）；GM 直联",
+    "batch": "INTEL-18",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

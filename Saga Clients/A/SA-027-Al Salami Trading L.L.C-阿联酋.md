@@ -224,15 +224,19 @@ A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走
 | 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn / contactout / SignalHire：Al Salami Trading L.L.C.（AST）· founded 1989 by chairman Rashid Al Salami（Al Salami Group of Companies）· Dubai, Al Quds Street, Binsougat Building Office 8 · 11–50（13–19 可见）· electronic security & surveillance design/integration/installation · GM Nazeeh Naeem · 042650333 — <https://www.linkedin.com/company/al-salami-trading-establishment/>　*迪拜老牌家族集团下的安防集成公司（≈15 人）；GM 直联*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：alsalami.com in:email；"alsalami.com" in:readme in:description；Al Salami Trading L.L.C type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

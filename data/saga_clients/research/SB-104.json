@@ -397,6 +397,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "ufficiocamerale：STS ITALIA S.R.L. · P.IVA 00865310247 · Via Spinelli 134, 20862 Arcore (MB) · REA 1490600 · Data Iscrizione 1984-05-11 · Dipendenti 73（2026）· Fatturato €7,973,181（2024）· Utile €438,664 · ATECO 432102 Installazione di cablaggi per telecomunicazioni e altre reti · PEC stsitaliasrl@pec.telemar.it；RocketReach：Security and Investigations，Silvio Stefani — Commerciale",
+    "url": "https://www.ufficiocamerale.it/4755/sts-italia-srl",
+    "note": "米兰北郊 73 人安防/布线安装集成商，年销 €8M、盈利 → 集成 25% 档",
+    "batch": "INTEL-18",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

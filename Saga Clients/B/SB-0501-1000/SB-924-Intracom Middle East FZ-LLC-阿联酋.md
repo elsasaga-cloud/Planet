@@ -1,14 +1,14 @@
 # Intracom Middle East FZ-LLC
 
-> **评级 A**　|　阿联酋　|　档案编号 `SB-924`　|　优先级 ★★★　|　状态：名单内·未触达
+> **评级 B**　|　阿联酋　|　档案编号 `SB-924`　|　优先级 ★★　|　状态：名单内·未触达
 >
 > **类型**：电信系统厂商中东项目公司（项目采购 PoE，体量大）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(EU)·DONE、群发(筛选后质量一般的_群发)、表:马来西亚　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-924
-rating: A
+rating: B
 rating_auto: B
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: B  # A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intracom Middle East：希腊 Intraco
 score: 27
 country: 阿联酋
 country_table: 希腊  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：Intracom Telecom（希腊电信系统厂商；本条目为 Intracom Middle East FZ-LLC，迪拜 Internet City；无线接入 WiBAS、光纤、关键基础设施安防、AI 运营方案；表内「Telecom / PoE Switch」；KP Roberto Grassi（Procurement Manager，rgrassi@）、Sergio Kodama（Senior Director BD）、Mohammad Yaacoub（Projects Manager））；表内无跟进记录。（调研 2026-10-21；表内兴趣：Telecom；POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10））；自动分级 B：+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办）；自动分级 B：+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — 项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity).
@@ -165,7 +165,7 @@ updated: 2026-10-30
 - **KP**：Roberto Grassi（）rgrassi@intracom-telecom.com 〔用户表〕
 - **KP**：Sergio Kodama（）skodama@intracom-telecom.com 〔用户表〕
 - **KP**：Mohammad Yaacoub（）mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07） +971 50 654 5766（2024-10-09 签名 m:）〔S 邮箱来信表头〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）
+- **调研后定级**：B（原自动 B）——A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -243,9 +243,13 @@ updated: 2026-10-30
 | 2026-07-31 | 去 | A | WiFi 7 Ready Access Switch |  |
 | 2026-09-15 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：ZoomInfo / powrbot：INTRACOM Middle East（Intracom Middle East FZE/FZ-LLC）· Dubai, Bldg 3 Ofc 204 · 1–10 employees（Office Manager Oumou Keltoum、Engineer Mohammad Yaacoub、HR Director Sulaiman Rawther）· 母公司 Intracom Telecom（希腊电信系统厂商） — <https://www.zoominfo.com/c/intracom-middle-east/369307611>　*母公司项目办公室（2–10 人），采购在雅典总部 → A-DEEP-09 下放 B*
 
 **GitHub/技术足迹**
 
@@ -338,7 +342,7 @@ updated: 2026-10-30
 - **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -365,7 +369,7 @@ updated: 2026-10-30
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
 | 采购量/预算 | ❓ 未确认 |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -403,11 +407,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）；人工/调研定级 → A
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 27）
 
 ---
 

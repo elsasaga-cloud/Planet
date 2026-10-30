@@ -57,6 +57,13 @@ DEMOTE = {
 }
 
 
+DEMOTE9 = {  # A-DEEP-09（T29-U143 2026-10-30）：中东/欧洲网查
+    'SC-097': '3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界',
+    'SB-924': 'Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办',
+    'SB-038': 'Tricomp：华沙小型 IT/电信维修服务公司，股本 5 万 PLN → 微型',
+    'SB-342': 'SURE Transport / SURE24：车载 CCTV（E-mark）+ 警务隐蔽监控 → 品类与守界不对位',
+    'SA-074': 'Elite Team Security：弗拉察保安公司 12 人、年营业额 25 万欧 → 终端/微型',
+}
 DEMOTE8 = {  # A-DEEP-08（T29-U143 2026-10-30）：亚太网查
     'SA-014': 'Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清',
 }
@@ -99,8 +106,8 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     cnt = Counter()
     rows = []
-    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()) + list(DEMOTE8.items()):
-        batch = 'A-DEEP-08' if c in DEMOTE8 else 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
+    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()) + list(DEMOTE8.items()) + list(DEMOTE9.items()):
+        batch = 'A-DEEP-09' if c in DEMOTE9 else 'A-DEEP-08' if c in DEMOTE8 else 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
         p = os.path.join(RESEARCH, c + '.json')
         if not os.path.exists(p):
             cnt['no_research'] += 1

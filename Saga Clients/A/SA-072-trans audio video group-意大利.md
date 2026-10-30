@@ -262,15 +262,19 @@ updated: 2026-10-30
 | 2026-08-05 | 去 | A | WiFi 7 Ready Access Switch |  |
 | 2026-09-16 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：reportaziende / aziendeeasy：TRANS AUDIO VIDEO S.R.L. · P.IVA 01675270613 · Caserta（Viale Melvin Jones 12）· Data Iscrizione 1987-06-18 · Dipendenti 20–49（RocketReach 28）· Fatturato 2022 €22.3M → 2023 €23.7M → **2024 €17.96M（−24.2%）** · Utile 2024 €33.8K（margine 0.2%）· ATECO 46.43.3；「distribution company operating into Broadcast, Cinema, Pro Foto/Video and high-end CCTV」 — <https://www.reportaziende.it/trans_audio_video_srl_ce_01675270613>　*采购线索：营收下滑 24%、利润见底 → 在找降本货源；高端 CCTV 分销线 → PoE 交换机配套*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：transaudiovideo.com in:email；"transaudiovideo.com" in:readme in:description；trans audio video group type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -297,7 +301,7 @@ updated: 2026-10-30
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-072/`；本节随档案重渲染刷新，实时看日志。
 
