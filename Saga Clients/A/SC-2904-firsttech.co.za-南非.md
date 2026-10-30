@@ -145,6 +145,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers — <https://www.zoominfo.com/c/first-technology-ltd/353641354>
 - 网查（2026-10-30）：First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services — <https://za.linkedin.com/company/first-technology>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers — <https://www.zoominfo.com/c/first-technology-ltd/353641354>　*A-DEEP-01 网查镜像*
+
+**领英公司页**
+
+- 2026-10-30：First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services — <https://za.linkedin.com/company/first-technology>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：5 封（去 2 / 来 3）　|　**期间**：2024-08-16 → 2024-08-16　|　**最后去信**：2024-08-16

@@ -501,5 +501,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "官网/FB：Nova Grup Mühendislik 2002 年成立，Zayıf Akım（弱电）进口 + 批发：Kamera, Alarm, Data, Fiber, Uydu, Yangın, İnterkom；自有品牌 NOVACOM；办公点 İzmir / İstanbul / Ankara / Şanlıurfa / London UK；LinkedIn company/novagrup",
+    "url": "https://www.facebook.com/esmakdd/",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Erdal Özcan — Satış Müdürü, Nova Grup Mühendislik（Ankara，2023-08 至今；电气电子工程师）",
+    "url": "https://www.linkedin.com/in/erdal-%C3%B6zcan-7904a862/",
+    "note": "安卡拉销售经理，2023 新入职",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "官网 Hakkımızda：NOVACOM markası altında sunduğu ürünler；Uydu ve CCTV 为主的弱电全品类",
+    "url": "https://www.novacom.com.tr/hakkimizda",
+    "note": "自牌弱电 → PoE 交换机贴 NOVACOM 的 OEM 口子",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

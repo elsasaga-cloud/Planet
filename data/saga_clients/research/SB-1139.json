@@ -460,5 +460,20 @@
   ],
   "manual": true
  },
- "country_fix": "危地马拉"
+ "country_fix": "危地马拉",
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Walter Arnoldo Belteton Mohr — Consultor de diseño de soluciones en Smart Cities de Centroamérica · Guatemala（LinkedIn「其他人还看过」侧栏，2026-10-30）",
+    "url": "https://gt.linkedin.com/in/jorge-mondal-chew-86329256",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
+ }
 }

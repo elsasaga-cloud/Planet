@@ -866,5 +866,60 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "2025 Faaliyet Raporu：2025 yıl sonu itibarıyla çalışan sayısı 1.264；800’e yakın uzman kadro，81 ili kapsayan dağıtım ve servis ağı",
+    "url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+    "note": "上市公司年报 PDF（2026-03 发布）；可逐年追",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "PitchBook：As of 31-Dec-2025 trailing 12-month revenue $304M · Employees 1,264 · founded 1967 · Public（BIST: NETAS，1993-03-03 上市）",
+    "url": "https://pitchbook.com/profiles/company/58001-86",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "年报/财务",
+    "date": "2026-10-30",
+    "quote": "cnbce 财报摘要：Hasılat 1.719.059.796 TL · Brüt Kar 125.156.133 TL · Sürdürülen Faaliyetler Dönem Zararı -83.668.798 TL · Çalışan 1403 · Kuruluş 31/03/1967",
+    "url": "https://www.cnbce.com/borsa/hisseler/netas-netas-telekomunikasyon-as",
+    "note": "期间未标，按页面最新季报理解；亏损中",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "2026-07-31 KAP 特别公告：Yönetim Kurulu Başkanı Aiguang Peng görevinden ayrıldı；yerine ZTE Avrupa Başkanı Zhi Ling atandı（首个股东大会追认）",
+    "url": "https://www.yatirimx.com.tr/sirket-haberleri/netasta-yonetim-degisikligi-baskanlik-koltugu-el-degistirdi/22749",
+    "note": "母公司 ZTE 派任；Saga 在 Netaş 的采购关系不受影响但要知道板子上是 ZTE 的人",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "2026-08-07 Dijital Haber：Zhi Ling 被任命为 Yönetim Kurulu Üyesi、Başkanı 和 Kurumsal Yönetim Komitesi Üyesi",
+    "url": "https://www.dijitalhaber.com.tr/yonetim-kurulu-ceo-genel-mudur-atamalari/netas-yonetim-kurulu-baskanligi-gorevine-zhi-ling-getirildi-38870",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

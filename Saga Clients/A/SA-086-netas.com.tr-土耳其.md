@@ -289,6 +289,26 @@ updated: 2026-10-30
 | 2026-08-12 | 来 | A | Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
 | 2026-08-12 | 来 | R | Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与… |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 5 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**年报/财务**
+
+- 2026-10-30：2025 Faaliyet Raporu：2025 yıl sonu itibarıyla çalışan sayısı 1.264；800’e yakın uzman kadro，81 ili kapsayan dağıtım ve servis ağı — <https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf>　*上市公司年报 PDF（2026-03 发布）；可逐年追*
+- 2026-10-30：PitchBook：As of 31-Dec-2025 trailing 12-month revenue $304M · Employees 1,264 · founded 1967 · Public（BIST: NETAS，1993-03-03 上市） — <https://pitchbook.com/profiles/company/58001-86>
+- 2026-10-30：cnbce 财报摘要：Hasılat 1.719.059.796 TL · Brüt Kar 125.156.133 TL · Sürdürülen Faaliyetler Dönem Zararı -83.668.798 TL · Çalışan 1403 · Kuruluş 31/03/1967 — <https://www.cnbce.com/borsa/hisseler/netas-netas-telekomunikasyon-as>　*期间未标，按页面最新季报理解；亏损中*
+
+**人事变动**
+
+- 2026-10-30：2026-07-31 KAP 特别公告：Yönetim Kurulu Başkanı Aiguang Peng görevinden ayrıldı；yerine ZTE Avrupa Başkanı Zhi Ling atandı（首个股东大会追认） — <https://www.yatirimx.com.tr/sirket-haberleri/netasta-yonetim-degisikligi-baskanlik-koltugu-el-degistirdi/22749>　*母公司 ZTE 派任；Saga 在 Netaş 的采购关系不受影响但要知道板子上是 ZTE 的人*
+
+**新闻/招标**
+
+- 2026-10-30：2026-08-07 Dijital Haber：Zhi Ling 被任命为 Yönetim Kurulu Üyesi、Başkanı 和 Kurumsal Yönetim Komitesi Üyesi — <https://www.dijitalhaber.com.tr/yonetim-kurulu-ceo-genel-mudur-atamalari/netas-yonetim-kurulu-baskanligi-gorevine-zhi-ling-getirildi-38870>
+
+待挖：领英公司页、KP、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 成交记录（PI 包 · 自动汇总）
 
 - **Simon 的标签**（PI 包文件夹名）：**活跃**　|　收款：Xtransfer　|　轻度绑定　|　买方抬头：NETAŞ Telekomünikasyon A.Ş.

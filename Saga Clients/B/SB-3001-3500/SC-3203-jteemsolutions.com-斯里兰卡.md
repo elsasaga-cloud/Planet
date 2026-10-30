@@ -155,6 +155,17 @@ updated: 2026-10-30
 - 网查（2026-10-30）：J Teem Solutions … provider of fiber optic network solutions in Sri Lanka … Kurunegala — <https://www.jteem.lk/fiber-solutions/>
 - 网查（2026-10-30）：security alarm systems … Hikvision and Dahua … Kurunegala, Sri Lanka — <https://www.jteem.lk/security-alarm-systems/>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**新闻/招标**
+
+- 2026-10-30：J Teem Solutions … provider of fiber optic network solutions in Sri Lanka … Kurunegala — <https://www.jteem.lk/fiber-solutions/>　*A-DEEP-01 网查镜像*
+- 2026-10-30：security alarm systems … Hikvision and Dahua … Kurunegala, Sri Lanka — <https://www.jteem.lk/security-alarm-systems/>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 11 / 来 2）　|　**期间**：2024-06-30 → 2025-03-31　|　**最后去信**：2025-03-31

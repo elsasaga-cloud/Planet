@@ -147,6 +147,17 @@ updated: 2026-10-30
 - 网查（2026-10-30）：TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore — <https://tracxn.com/d/companies/team5technologies/__aS7cUwVKzhQ3tmBMip3dZUf234SJFESf71EGtkKK3XE>
 - 网查（2026-10-30）：data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP — <https://www.zoominfo.com/c/team5-technologies-pvt-ltd/371376403>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore — <https://tracxn.com/d/companies/team5technologies/__aS7cUwVKzhQ3tmBMip3dZUf234SJFESf71EGtkKK3XE>　*A-DEEP-01 网查镜像*
+- 2026-10-30：data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP — <https://www.zoominfo.com/c/team5-technologies-pvt-ltd/371376403>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：6 封（去 3 / 来 3）　|　**期间**：2024-11-03 → 2026-10-20　|　**最后去信**：2026-10-20

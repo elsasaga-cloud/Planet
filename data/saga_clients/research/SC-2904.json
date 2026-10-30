@@ -258,5 +258,30 @@
    }
   ],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers",
+    "url": "https://www.zoominfo.com/c/first-technology-ltd/353641354",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services",
+    "url": "https://za.linkedin.com/company/first-technology",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

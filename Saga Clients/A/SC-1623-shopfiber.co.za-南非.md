@@ -164,6 +164,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za — <https://southernelements.co.za/>
 - 网查（2026-10-30）：Southern Elements · 249 followers · fiber optic networks in Southern Africa — <https://za.linkedin.com/company/southernelements>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Southern Elements · 249 followers · fiber optic networks in Southern Africa — <https://za.linkedin.com/company/southernelements>　*A-DEEP-01 网查镜像*
+
+**新闻/招标**
+
+- 2026-10-30：Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za — <https://southernelements.co.za/>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：10 封（去 8 / 来 2）　|　**期间**：2024-06-28 → 2026-01-07　|　**最后去信**：2026-01-07

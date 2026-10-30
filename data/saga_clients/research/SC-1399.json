@@ -271,5 +271,30 @@
    }
   ],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore",
+    "url": "https://tracxn.com/d/companies/team5technologies/__aS7cUwVKzhQ3tmBMip3dZUf234SJFESf71EGtkKK3XE",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP",
+    "url": "https://www.zoominfo.com/c/team5-technologies-pvt-ltd/371376403",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

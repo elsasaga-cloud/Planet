@@ -279,5 +279,50 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Crunchbase：FAST（Fabrika Aygıtları Sistem Teknolojisi A.Ş.）· Istanbul · 11–50 · distributor of AC speed control devices, CNC control units, and power sources；LinkedIn company/fasttr",
+    "url": "https://www.crunchbase.com/organization/fabrika-ayg%C4%B1tlar%C4%B1-sistem-teknolojisi",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "LinkedIn 活动标签：#meanwell #shihlin #renu #texcomputer #suncarve #inverter #hcfa — 代理 Mean Well 电源、Shihlin 变频、RENU PLC/HMI、Texcomputer CNC",
+    "url": "https://www.linkedin.com/in/%C3%B6mer-aydin-2a465b62/",
+    "note": "工业自动化分销，Mean Well 电源 + 工业交换机是自然搭配",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "论坛/社区",
+    "date": "2026-10-30",
+    "quote": "自营论坛 www.fasttr.com/forum（Şener Üstbaş 在 LinkedIn 反复引流）",
+    "url": "https://www.linkedin.com/in/g%C3%B6knur-mekatronik-352077186/",
+    "note": "可在其论坛看客户问什么",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Şener Üstbaş — F.A.S.T.（活跃发帖人，RENU PLC/HMI 推广）",
+    "url": "https://www.linkedin.com/in/g%C3%B6knur-mekatronik-352077186/",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

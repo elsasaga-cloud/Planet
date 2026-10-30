@@ -419,5 +419,20 @@
    }
   ],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55",
+    "url": "https://www.konakguvenlik.com.tr/y/yeni-uye-kaydi.html",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

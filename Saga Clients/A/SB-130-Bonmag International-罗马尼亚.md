@@ -238,6 +238,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity — <https://www.romanian-companies.eu/bonmag-international-srl-37299107/>
 - 网查（2026-10-30）：OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro — <https://www.facebook.com/Omnisec/>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity — <https://www.romanian-companies.eu/bonmag-international-srl-37299107/>　*A-DEEP-01 网查镜像*
+
+**新闻/招标**
+
+- 2026-10-30：OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro — <https://www.facebook.com/Omnisec/>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：4 封（去 4 / 来 0）　|　**期间**：2026-05-19 → 2026-09-03　|　**最后去信**：2026-09-03

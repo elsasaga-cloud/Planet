@@ -240,6 +240,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799 — <https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e>
 - 网查（2026-10-30）：Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori — <http://www.elsikr.it/chi-siamo.html>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799 — <https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e>　*A-DEEP-01 网查镜像*
+
+**新闻/招标**
+
+- 2026-10-30：Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori — <http://www.elsikr.it/chi-siamo.html>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-07-09 → 2026-09-16　|　**最后去信**：2026-09-16

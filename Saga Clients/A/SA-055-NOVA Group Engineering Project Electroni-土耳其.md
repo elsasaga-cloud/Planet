@@ -273,6 +273,24 @@ updated: 2026-10-30
 | 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-10-06 | 去 | A | Managed PoE Switches |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：官网/FB：Nova Grup Mühendislik 2002 年成立，Zayıf Akım（弱电）进口 + 批发：Kamera, Alarm, Data, Fiber, Uydu, Yangın, İnterkom；自有品牌 NOVACOM；办公点 İzmir / İstanbul / Ankara / Şanlıurfa / London UK；LinkedIn company/novagrup — <https://www.facebook.com/esmakdd/>
+
+**KP**
+
+- 2026-10-30：LinkedIn：Erdal Özcan — Satış Müdürü, Nova Grup Mühendislik（Ankara，2023-08 至今；电气电子工程师） — <https://www.linkedin.com/in/erdal-%C3%B6zcan-7904a862/>　*安卡拉销售经理，2023 新入职*
+
+**供应商/品牌关系**
+
+- 2026-10-30：官网 Hakkımızda：NOVACOM markası altında sunduğu ürünler；Uydu ve CCTV 为主的弱电全品类 — <https://www.novacom.com.tr/hakkimizda>　*自牌弱电 → PoE 交换机贴 NOVACOM 的 OEM 口子*
+
+待挖：年报/财务、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：24 封（去 24 / 来 0）　|　**期间**：2024-06-14 → 2026-10-06　|　**最后去信**：2026-10-06

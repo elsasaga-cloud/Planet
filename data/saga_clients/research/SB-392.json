@@ -238,5 +238,30 @@
   "timeline": [],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "官网：Makro Sistem Dış Tic. A.Ş. — i-PRO（原 Panasonic Security Systems）Türkiye Premium Distribütörü；Edge AI 摄像机 250+ 型号、NVR、CCTV、火灾探测",
+    "url": "https://makrosisas.com.tr/",
+    "note": "高端摄像机分销 → 配套 PoE 交换机（STC 系列）",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "官网联系：Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26 Şişli / İSTANBUL · +90 212 272 47 92 · info@makrosisas.com.tr",
+    "url": "https://makrosisas.com.tr/contact.html",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

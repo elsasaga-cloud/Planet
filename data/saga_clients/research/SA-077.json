@@ -1439,5 +1439,50 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Angora Networks · 2.110 takipçi · Bilgi Teknolojisi ve Hizmetleri · 11–50 çalışan · Genel Merkez Ankara · Kuruluş 2016 · Uzmanlık IT Network, Network Switch, Network Management",
+    "url": "https://tr.linkedin.com/company/angora-networks",
+    "note": "总部是安卡拉（研究档原写 İstanbul 商号，以 LinkedIn 为准核对）",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "LinkedIn 员工：Mehmet Yasin Koru — Hardware Design Lead；Ufuk Gökçe — Sales manager & Business Development Manager；Levent KILIÇ — Technology Evangelist and Consultant / Business Advisor（ICT Media 2023 称其 Genel Müdür）",
+    "url": "https://tr.linkedin.com/company/angora-networks",
+    "note": "硬件设计负责人 = OEM/贴牌谈规格的人",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "ICT Media 2023-06：Levent KILIÇ：「Biz kendi satışlarımızı kendi markamız ile yapıyoruz ama yeterli sayıda, büyüklükte projeler olduğu zaman OEM ürünlerde üretebiliyoruz」；Teknokent’e geçtik，yazılım tarafı büyüyor",
+    "url": "https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir",
+    "note": "自牌为主、也接 OEM；SD-WAN / 软件方向",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "官网：Turkey’s network equipment manufacturer；2023-12 Data Diode 支持 ModBUS/OPC；2021-06 PacketFence NAC 集成；Turkish Cyber Security Cluster 成员",
+    "url": "https://www.angoranetworks.com/?lang=en",
+    "note": "本地化制造叙事（yerli）→ Saga 只做零部件级/白牌供货，不抢其品牌",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

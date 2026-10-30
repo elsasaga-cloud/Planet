@@ -159,6 +159,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Cloud InfoTech … telecom and networking solutions … Trader - Wholesaler/Distributor · Company CEO Rajiv Goyal · 51 to 100 People · Annual Turnover 25 - 100 Cr · GST 09AAHCC3784F1ZG — <https://www.cloud-infotech.co.in/profile.html>
 - 网查（2026-10-30）：CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active — <https://www.zaubacorp.com/CLOUD-INFOTECH-PRIVATE-LIMITED-U74999UP2018PTC100481>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active — <https://www.zaubacorp.com/CLOUD-INFOTECH-PRIVATE-LIMITED-U74999UP2018PTC100481>　*A-DEEP-01 网查镜像*
+
+**新闻/招标**
+
+- 2026-10-30：Cloud InfoTech … telecom and networking solutions … Trader - Wholesaler/Distributor · Company CEO Rajiv Goyal · 51 to 100 People · Annual Turnover 25 - 100 Cr · GST 09AAHCC3784F1ZG — <https://www.cloud-infotech.co.in/profile.html>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：16 封（去 14 / 来 2）　|　**期间**：2024-06-20 → 2026-09-21　|　**最后去信**：2026-09-21

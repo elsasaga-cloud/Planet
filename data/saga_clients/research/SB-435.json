@@ -432,5 +432,20 @@
    }
   ],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "Saucon Technologies … mobile resource management solutions … primary focus being in the motor coach sector … GPS tracking, engine telemetry … mobile Wi-Fi connectivity, on-board video recording · 2455 Baglyos Circle Bethlehem PA",
+    "url": "https://www.saucontds.com/careers",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

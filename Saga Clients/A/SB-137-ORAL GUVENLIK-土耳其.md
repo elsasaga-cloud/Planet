@@ -193,6 +193,20 @@ updated: 2026-10-30
 |---|---|---|---|---|
 |  | 表 | 表 | Simon 备注/兴趣栏｜问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了 |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：官网：Oral Companies 1982 年起在 Kuzey Kıbrıs（北塞浦路斯）经营：Oral Güvenlik Sistemleri / Oral Alüminyum / Oral Çelik Yapı / Oral Fotoğrafçılık …；RocketReach：Oral Güvenlik Sistemleri 6 名员工 — <https://www.oralcompanies.com/>　*实际在北塞浦路斯，不是土耳其本土；家族集团下的小安防公司*
+
+**KP**
+
+- 2026-10-30：AeroLeads：Metin Oral — Business Owner, Oral Companies；Muhammad Azeem — Manager, Oral Güvenlik Sistemleri；RocketReach：Mevlüt Önal — Computer Technician — <https://aeroleads.com/c/oralguvenliksistemleri>
+
+待挖：年报/财务、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z

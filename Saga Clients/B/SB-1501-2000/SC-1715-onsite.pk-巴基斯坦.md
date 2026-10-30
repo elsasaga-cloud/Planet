@@ -151,6 +151,16 @@ updated: 2026-10-30
 
 - 网查（2026-10-30）：ONSITE Cyber Security Solutions provider in Pakistan · Lahore（onsite.com.pk，与 onsite.pk 关系未确认） — <https://www.onsite.com.pk/contact.html>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**新闻/招标**
+
+- 2026-10-30：ONSITE Cyber Security Solutions provider in Pakistan · Lahore（onsite.com.pk，与 onsite.pk 关系未确认） — <https://www.onsite.com.pk/contact.html>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：10 封（去 8 / 来 2）　|　**期间**：2024-06-29 → 2025-02-14　|　**最后去信**：2025-02-14

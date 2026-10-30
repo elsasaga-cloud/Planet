@@ -457,5 +457,30 @@
    }
   ],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300",
+    "url": "https://www.dnb.com/business-directory/company-profiles/eyescan-private-security-services-ltd.1ac629ee0e4fa28c2eb3603b85b97c55",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems",
+    "url": "https://eyescan.com.cy/about-us/",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

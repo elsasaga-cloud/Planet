@@ -232,5 +232,30 @@
   "timeline": [],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：HCS Kablolama Sistemleri · 867 takipçi · Bilgisayar Ağları Ürünleri · 51–200 çalışan · İstanbul Başakşehir · Kuruluş 2000；土耳其 + 海外经销商网络；近期帖：HCS DataLight SLT 室外单模光缆",
+    "url": "https://tr.linkedin.com/company/hcskablolamasistemleri",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "GelecekBT 经销页：HCS 为土耳其本土全球品牌，铜缆 CAT6/6A/7 + 光纤 + MTP/MPO + 数据中心布线方案；Phy-FiXX 物理层管理平台",
+    "url": "https://gelecekbt.com/hcs",
+    "note": "自牌布线品牌、无有源设备线 → 「HCS 牌 PoE 交换机」OEM 切口",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

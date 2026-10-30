@@ -2700,6 +2700,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "EYESCAN PRIVATE SECURITY SERVICES LTD · 65 Michail Zavou, Agios Athanasios, Limassol 4107 · Director Erodotos Stylianou · Director and Secretary Marinos Charalampous · 1-24 employees · +357-25333300",
+"url": "https://www.dnb.com/business-directory/company-profiles/eyescan-private-security-services-ltd.1ac629ee0e4fa28c2eb3603b85b97c55",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "2001 Company Formation · 2007 one of the major players in the Cyprus market · 2015 reached 2 million dollars in turnover · We design, sell, install, integrate, and maintain security systems",
+"url": "https://eyescan.com.cy/about-us/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -8211,6 +8236,41 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "官网 Hakkımızda：2010 年起 DCN（Digital China Network）土耳其分销商，2020 年在土运行设备超 10,000 台；2020 年起 ONV Technologies 分销商（工业与室内交换机）",
+"url": "http://www.coptek.com.tr/hakkimizda.html",
+"note": "ONV = 深圳白牌工业交换机厂 → 同源竞争；Saga 卖点只能是 Marvell/CENTEC 方案与交期",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "展会/活动",
+"date": "2026-10-30",
+"quote": "2018 DCN Distribütörler Toplantısı, Bali — 公司代表作行业分享（官网照片说明）",
+"url": "http://www.coptek.com.tr/hakkimizda.html",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "firmatlas：Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti. · Gayrettepe Mah. Fuatsarp Sok. Mutlu Apt. No:4/3 Balmumcu / İstanbul · 212 275 79 53",
+"url": "https://www.firmatlas.com/koptek-bilgisayar-ve-iletisim-sistemleri-san-ve-tic-ltd-sti/",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -23035,6 +23095,41 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Lusha：SNEXUS NETWORKS · Istanbul · Computer Networking Products · 11–50 employees；产品线 Switches / Industrial Switches / PtP bridges for CCTV / Access Points",
+"url": "https://www.lusha.com/business/5c6520780ede2087/",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "LinkedIn：Erdem Timur Koca — SNEXUS NETWORKS，15+ 年 IT 销售/BD；ZyXEL Certified Network Professional（Switch/Security/Wireless）、EnGenius Network Associate；帖子：「ISN-GS2300-10FP Industrial is one of our top-selling industrial switches」",
+"url": "https://www.linkedin.com/in/erdem-timur-koca-01565b63/",
+"note": "前 ZyXEL/EnGenius 渠道背景；工业 10 口 PoE 是其畅销款 → STI-288DGGPM 对位",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "官网产品线：Plug & Play Megabit/Gigabit PoE Series · Managed Gigabit · Managed 10G · Fiber Backbone Switches · Industrial Switches · Modules（自有品牌 Snexus）",
+"url": "https://www.snexus.com.tr/en",
+"note": "自牌全系交换机 → OEM 30% 档，白牌来源可替换",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -34637,6 +34732,51 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn：SGE Muhendislik · 1.042 takipçi · Endüstriyel Otomasyon · 11–50 çalışan · Istanbul · Kuruluş 2007 · Scada Automation SAS, Relays and RTU’s, Test and Measurement, Energy Meters",
+"url": "https://tr.linkedin.com/company/sge-muhendislik",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "网店在售工业以太网交换机 MIGE2205G（5×1G DIN 导轨非管理，DC9-60V / AC85-264V 版，交期 5 周）",
+"url": "https://shop.sge.com.tr/urundetay-mige2205g-5x1gbit-layer2-switch-295-2883.html",
+"note": "在转售他家工业交换机且交期 5 周 → Saga STI-144GP/288 系列可比交期",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "展会/活动",
+"date": "2026-10-30",
+"quote": "Facebook：2024-06-05～08 WIN Otomasyon Fuarı 参展（zenon SCADA + CET 电能分析仪）",
+"url": "https://www.facebook.com/SgeMuhendislik",
+"note": "每年 6 月 WIN Eurasia（Istanbul）",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "人事变动",
+"date": "2026-10-30",
+"quote": "LinkedIn 近 3 月招聘：TEST VE ÖLÇÜ ALETLERİ SATIŞ MÜHENDİSİ（İstanbul Anadolu yakası）",
+"url": "https://tr.linkedin.com/company/sge-muhendislik",
+"note": "在扩销售团队",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -40758,6 +40898,41 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "官网/FB：Nova Grup Mühendislik 2002 年成立，Zayıf Akım（弱电）进口 + 批发：Kamera, Alarm, Data, Fiber, Uydu, Yangın, İnterkom；自有品牌 NOVACOM；办公点 İzmir / İstanbul / Ankara / Şanlıurfa / London UK；LinkedIn company/novagrup",
+"url": "https://www.facebook.com/esmakdd/",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "LinkedIn：Erdal Özcan — Satış Müdürü, Nova Grup Mühendislik（Ankara，2023-08 至今；电气电子工程师）",
+"url": "https://www.linkedin.com/in/erdal-%C3%B6zcan-7904a862/",
+"note": "安卡拉销售经理，2023 新入职",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "官网 Hakkımızda：NOVACOM markası altında sunduğu ürünler；Uydu ve CCTV 为主的弱电全品类",
+"url": "https://www.novacom.com.tr/hakkimizda",
+"note": "自牌弱电 → PoE 交换机贴 NOVACOM 的 OEM 口子",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -54635,6 +54810,41 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn：TBI - Telemobil · 1.402 takipçi · BT Hizmetleri ve BT Danışmanlığı · 51–200 çalışan（97 çalışan LinkedIn 可见）· ISTANBUL Üsküdar · Kuruluş 2005；业务：BT Sistem Entegrasyonu / Elektrik Taahhüt / Bina Yönetim, Otomasyon ve Zayıf Akım",
+"url": "https://tr.linkedin.com/company/tbitelemobil",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "人事变动",
+"date": "2026-10-30",
+"quote": "kariyer.net 2025-11-12：招聘 İnşaat Teknikeri（Hatay：Antakya / İskenderun / Arsuz）；公司档：Bilişim, Elektrik & Elektronik Proje Taahhüt, Elektronik Güvenlik Sistemleri, İnşaat · 50–74 Çalışan",
+"url": "https://www.kariyer.net/is-ilani/telemobil-bilgi-iletisim-hizmetleri-san-ve-tic-insaat-teknikeri-4299443",
+"note": "哈塔伊（震后重建）有项目",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "ZoomInfo：data center construction, electrical and mechanical contracting, automation solutions；clientele education / healthcare / construction",
+"url": "https://www.zoominfo.com/c/tbi---telemobil/372637611",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -56226,6 +56436,51 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn：Angora Networks · 2.110 takipçi · Bilgi Teknolojisi ve Hizmetleri · 11–50 çalışan · Genel Merkez Ankara · Kuruluş 2016 · Uzmanlık IT Network, Network Switch, Network Management",
+"url": "https://tr.linkedin.com/company/angora-networks",
+"note": "总部是安卡拉（研究档原写 İstanbul 商号，以 LinkedIn 为准核对）",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "LinkedIn 员工：Mehmet Yasin Koru — Hardware Design Lead；Ufuk Gökçe — Sales manager & Business Development Manager；Levent KILIÇ — Technology Evangelist and Consultant / Business Advisor（ICT Media 2023 称其 Genel Müdür）",
+"url": "https://tr.linkedin.com/company/angora-networks",
+"note": "硬件设计负责人 = OEM/贴牌谈规格的人",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "ICT Media 2023-06：Levent KILIÇ：「Biz kendi satışlarımızı kendi markamız ile yapıyoruz ama yeterli sayıda, büyüklükte projeler olduğu zaman OEM ürünlerde üretebiliyoruz」；Teknokent’e geçtik，yazılım tarafı büyüyor",
+"url": "https://ictmedia.com.tr/haber/yerli-bir-ureticiye-verilebilecek-en-buyuk-destek-onun-urunlerini-kullanmaktir",
+"note": "自牌为主、也接 OEM；SD-WAN / 软件方向",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "官网：Turkey’s network equipment manufacturer；2023-12 Data Diode 支持 ModBUS/OPC；2021-06 PacketFence NAC 集成；Turkish Cyber Security Cluster 成员",
+"url": "https://www.angoranetworks.com/?lang=en",
+"note": "本地化制造叙事（yerli）→ Saga 只做零部件级/白牌供货，不抢其品牌",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -60391,6 +60646,31 @@
 "timeline": [],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "LinkedIn：HCS Kablolama Sistemleri · 867 takipçi · Bilgisayar Ağları Ürünleri · 51–200 çalışan · İstanbul Başakşehir · Kuruluş 2000；土耳其 + 海外经销商网络；近期帖：HCS DataLight SLT 室外单模光缆",
+"url": "https://tr.linkedin.com/company/hcskablolamasistemleri",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "GelecekBT 经销页：HCS 为土耳其本土全球品牌，铜缆 CAT6/6A/7 + 光纤 + MTP/MPO + 数据中心布线方案；Phy-FiXX 物理层管理平台",
+"url": "https://gelecekbt.com/hcs",
+"note": "自牌布线品牌、无有源设备线 → 「HCS 牌 PoE 交换机」OEM 切口",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -61383,6 +61663,61 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "2025 Faaliyet Raporu：2025 yıl sonu itibarıyla çalışan sayısı 1.264；800’e yakın uzman kadro，81 ili kapsayan dağıtım ve servis ağı",
+"url": "https://netas.com.tr/docs/tr/faaliyet_raporlari/2025/Netas%20Faaliyet%20Raporu%202025.pdf",
+"note": "上市公司年报 PDF（2026-03 发布）；可逐年追",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "PitchBook：As of 31-Dec-2025 trailing 12-month revenue $304M · Employees 1,264 · founded 1967 · Public（BIST: NETAS，1993-03-03 上市）",
+"url": "https://pitchbook.com/profiles/company/58001-86",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "cnbce 财报摘要：Hasılat 1.719.059.796 TL · Brüt Kar 125.156.133 TL · Sürdürülen Faaliyetler Dönem Zararı -83.668.798 TL · Çalışan 1403 · Kuruluş 31/03/1967",
+"url": "https://www.cnbce.com/borsa/hisseler/netas-netas-telekomunikasyon-as",
+"note": "期间未标，按页面最新季报理解；亏损中",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "人事变动",
+"date": "2026-10-30",
+"quote": "2026-07-31 KAP 特别公告：Yönetim Kurulu Başkanı Aiguang Peng görevinden ayrıldı；yerine ZTE Avrupa Başkanı Zhi Ling atandı（首个股东大会追认）",
+"url": "https://www.yatirimx.com.tr/sirket-haberleri/netasta-yonetim-degisikligi-baskanlik-koltugu-el-degistirdi/22749",
+"note": "母公司 ZTE 派任；Saga 在 Netaş 的采购关系不受影响但要知道板子上是 ZTE 的人",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "2026-08-07 Dijital Haber：Zhi Ling 被任命为 Yönetim Kurulu Üyesi、Başkanı 和 Kurumsal Yönetim Komitesi Üyesi",
+"url": "https://www.dijitalhaber.com.tr/yonetim-kurulu-ceo-genel-mudur-atamalari/netas-yonetim-kurulu-baskanligi-gorevine-zhi-ling-getirildi-38870",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -111330,6 +111665,21 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Unvan: Konak Güv.Sis.Dan.Hiz.Eğtm.Elktr.Kmp.Mlz.Teks.İnş.San.VeTicaret Ltd. Şti. · Adres: Kahramanmaraş / Türkiye · satis@konakguvenlik.com.tr · +90 344 221 55 55",
+"url": "https://www.konakguvenlik.com.tr/y/yeni-uye-kaydi.html",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -166646,6 +166996,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-million dollar annual sales · 269 Mavis Drive Pleasanton, CA",
+"url": "https://www.fiberoptics4sale.com/pages/about-us",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001",
+"url": "https://www.linkedin.com/company/fiber-optics-for-sale-co-",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 },
 "country_table": "加拿大"
@@ -168227,7 +168602,22 @@
 ],
 "manual": true
 },
-"country_fix": "危地马拉"
+"country_fix": "危地马拉",
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Walter Arnoldo Belteton Mohr — Consultor de diseño de soluciones en Smart Cities de Centroamérica · Guatemala（LinkedIn「其他人还看过」侧栏，2026-10-30）",
+"url": "https://gt.linkedin.com/in/jorge-mondal-chew-86329256",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
+}
 },
 "country_table": "未填"
 },
@@ -176058,6 +176448,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity",
+"url": "https://www.romanian-companies.eu/bonmag-international-srl-37299107/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro",
+"url": "https://www.facebook.com/Omnisec/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -176862,6 +177277,51 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Crunchbase：FAST（Fabrika Aygıtları Sistem Teknolojisi A.Ş.）· Istanbul · 11–50 · distributor of AC speed control devices, CNC control units, and power sources；LinkedIn company/fasttr",
+"url": "https://www.crunchbase.com/organization/fabrika-ayg%C4%B1tlar%C4%B1-sistem-teknolojisi",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "LinkedIn 活动标签：#meanwell #shihlin #renu #texcomputer #suncarve #inverter #hcfa — 代理 Mean Well 电源、Shihlin 变频、RENU PLC/HMI、Texcomputer CNC",
+"url": "https://www.linkedin.com/in/%C3%B6mer-aydin-2a465b62/",
+"note": "工业自动化分销，Mean Well 电源 + 工业交换机是自然搭配",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "论坛/社区",
+"date": "2026-10-30",
+"quote": "自营论坛 www.fasttr.com/forum（Şener Üstbaş 在 LinkedIn 反复引流）",
+"url": "https://www.linkedin.com/in/g%C3%B6knur-mekatronik-352077186/",
+"note": "可在其论坛看客户问什么",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "LinkedIn：Şener Üstbaş — F.A.S.T.（活跃发帖人，RENU PLC/HMI 推广）",
+"url": "https://www.linkedin.com/in/g%C3%B6knur-mekatronik-352077186/",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -178889,6 +179349,31 @@
 ],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "官网：Oral Companies 1982 年起在 Kuzey Kıbrıs（北塞浦路斯）经营：Oral Güvenlik Sistemleri / Oral Alüminyum / Oral Çelik Yapı / Oral Fotoğrafçılık …；RocketReach：Oral Güvenlik Sistemleri 6 名员工",
+"url": "https://www.oralcompanies.com/",
+"note": "实际在北塞浦路斯，不是土耳其本土；家族集团下的小安防公司",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "AeroLeads：Metin Oral — Business Owner, Oral Companies；Muhammad Azeem — Manager, Oral Güvenlik Sistemleri；RocketReach：Mevlüt Önal — Computer Technician",
+"url": "https://aeroleads.com/c/oralguvenliksistemleri",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -182330,6 +182815,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "BSD Networks is a leading brand of Networking and Fiber Optic products sold in Canada and the USA for its parent company, BSD International Marketing · 520 Applewood Cres, Concord, ON · 905-669-6613",
+"url": "https://www.yellowpages.ca/bus/Ontario/Concord/BSD-International-Marketing/3763995.html",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "BSD Networks · Manufacturing · Telecommunication Equipment · 11-50 Employees · Robert Lichtenstein Owner",
+"url": "https://www.zoominfo.com/c/bsd-networks/10489097",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -208845,6 +209355,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "El.si. Srl · Via Enzo Ferrari, Crotone (KR) · 17 dipendenti · fatturato 3.9 M € · piccola impresa · foundingDate 1985 · P.IVA 01536710799",
+"url": "https://atoka.io/public/it/azienda/elsi-srl/0bb316a1912e",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Da 35 anni siamo leader in tutta la Calabria, Basilicata e Puglia, nella distribuzione di prodotti e servizi nei settori … Sicurezza (Antifurto, Videosorveglianza e Antincendio) … accompagnare installatori",
+"url": "http://www.elsikr.it/chi-siamo.html",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -295582,6 +296117,31 @@
 "timeline": [],
 "web_facts": [],
 "manual": false
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "官网：Makro Sistem Dış Tic. A.Ş. — i-PRO（原 Panasonic Security Systems）Türkiye Premium Distribütörü；Edge AI 摄像机 250+ 型号、NVR、CCTV、火灾探测",
+"url": "https://makrosisas.com.tr/",
+"note": "高端摄像机分销 → 配套 PoE 交换机（STC 系列）",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "官网联系：Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 Kat:7 Daire:26 Şişli / İSTANBUL · +90 212 272 47 92 · info@makrosisas.com.tr",
+"url": "https://makrosisas.com.tr/contact.html",
+"note": "",
+"batch": "INTEL-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -313275,6 +313835,21 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Saucon Technologies … mobile resource management solutions … primary focus being in the motor coach sector … GPS tracking, engine telemetry … mobile Wi-Fi connectivity, on-board video recording · 2455 Baglyos Circle Bethlehem PA",
+"url": "https://www.saucontds.com/careers",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -332226,6 +332801,21 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Eminnovate — IT services, Data Engineering, BI … Headquartered in India（与 eminnovate.com 是否同一主体未确认）",
+"url": "https://eminnovate.co/about-us/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -542773,6 +543363,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Antronix of California (Olson Technology Division) designs and manufactures electronic and fiber optic products for CATV, L-Band, FTTH, Headend Processing, CCTV … and OEM clients · 24926 Highway 108, Mi-Wuk Village, CA 95346 · sales@olsontech.com",
+"url": "http://www.olsontech.com/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Olson Technology, Inc. · Mi Wuk Village, California · 11-50 · Active",
+"url": "https://www.crunchbase.com/organization/olson-technology",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -585728,6 +586343,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Cloud InfoTech … telecom and networking solutions … Trader - Wholesaler/Distributor · Company CEO Rajiv Goyal · 51 to 100 People · Annual Turnover 25 - 100 Cr · GST 09AAHCC3784F1ZG",
+"url": "https://www.cloud-infotech.co.in/profile.html",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active",
+"url": "https://www.zaubacorp.com/CLOUD-INFOTECH-PRIVATE-LIMITED-U74999UP2018PTC100481",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -610952,6 +611592,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore",
+"url": "https://www.zoominfo.com/c/future-point-technologies/460620478",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi",
+"url": "https://pk.linkedin.com/company/future-point-technologies",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -643098,6 +643763,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore",
+"url": "https://tracxn.com/d/companies/team5technologies/__aS7cUwVKzhQ3tmBMip3dZUf234SJFESf71EGtkKK3XE",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP",
+"url": "https://www.zoominfo.com/c/team5-technologies-pvt-ltd/371376403",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -680253,6 +680943,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za",
+"url": "https://southernelements.co.za/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "Southern Elements · 249 followers · fiber optic networks in Southern Africa",
+"url": "https://za.linkedin.com/company/southernelements",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -696662,6 +697377,21 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "ONSITE Cyber Security Solutions provider in Pakistan · Lahore（onsite.com.pk，与 onsite.pk 关系未确认）",
+"url": "https://www.onsite.com.pk/contact.html",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -728438,6 +729168,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917",
+"url": "https://www.dnb.com/business-directory/company-profiles/cronte-technology-sa.c6417fdaa4e01fc9532a13c4f67bbbfe",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net",
+"url": "https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -729419,6 +730174,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Optimal Systems Distribution, Inc. — Printers, Barcode Scanners, UPS, Wireless Network · 13 Banner St. Pasig City · marketing@optimal.com.ph · +63 286315578",
+"url": "https://www.facebook.com/optimalsystemsph/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Optimal Systems Distribution · Philippines · 201-500 Employees · Revenue $19.3 Million",
+"url": "https://www.zoominfo.com/c/optimal-systems-distribution-inc/457685843",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -901068,6 +901848,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers",
+"url": "https://www.zoominfo.com/c/first-technology-ltd/353641354",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services",
+"url": "https://za.linkedin.com/company/first-technology",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -948516,6 +949321,31 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "J Teem Solutions … provider of fiber optic network solutions in Sri Lanka … Kurunegala",
+"url": "https://www.jteem.lk/fiber-solutions/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "security alarm systems … Hikvision and Dahua … Kurunegala, Sri Lanka",
+"url": "https://www.jteem.lk/security-alarm-systems/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },
@@ -1021846,6 +1022676,21 @@
 }
 ],
 "manual": true
+},
+"intel": {
+"as_of": "2026-10-30",
+"items": [
+{
+"kind": "新闻/招标",
+"date": "2026-10-30",
+"quote": "Namba Software — Especialistas em cibersegurança, cloud computing, infraestrutura híbrida e soluções inteligentes",
+"url": "https://www.nambasoftware.com.br/",
+"note": "A-DEEP-01 网查镜像",
+"batch": "A-DEEP-01",
+"found": true,
+"added": "2026-10-30"
+}
+]
 }
 }
 },

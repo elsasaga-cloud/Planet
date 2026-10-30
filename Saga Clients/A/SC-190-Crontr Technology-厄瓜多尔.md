@@ -154,6 +154,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917 — <https://www.dnb.com/business-directory/company-profiles/cronte-technology-sa.c6417fdaa4e01fc9532a13c4f67bbbfe>
 - 网查（2026-10-30）：Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net — <https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917 — <https://www.dnb.com/business-directory/company-profiles/cronte-technology-sa.c6417fdaa4e01fc9532a13c4f67bbbfe>　*A-DEEP-01 网查镜像*
+
+**新闻/招标**
+
+- 2026-10-30：Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net — <https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：8 封（去 8 / 来 0）　|　**期间**：2024-07-09 → 2025-01-09　|　**最后去信**：2025-01-09

@@ -245,5 +245,30 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "官网：Oral Companies 1982 年起在 Kuzey Kıbrıs（北塞浦路斯）经营：Oral Güvenlik Sistemleri / Oral Alüminyum / Oral Çelik Yapı / Oral Fotoğrafçılık …；RocketReach：Oral Güvenlik Sistemleri 6 名员工",
+    "url": "https://www.oralcompanies.com/",
+    "note": "实际在北塞浦路斯，不是土耳其本土；家族集团下的小安防公司",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "AeroLeads：Metin Oral — Business Owner, Oral Companies；Muhammad Azeem — Manager, Oral Güvenlik Sistemleri；RocketReach：Mevlüt Önal — Computer Technician",
+    "url": "https://aeroleads.com/c/oralguvenliksistemleri",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

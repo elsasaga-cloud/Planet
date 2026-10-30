@@ -257,5 +257,30 @@
    }
   ],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore",
+    "url": "https://www.zoominfo.com/c/future-point-technologies/460620478",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi",
+    "url": "https://pk.linkedin.com/company/future-point-technologies",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

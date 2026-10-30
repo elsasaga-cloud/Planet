@@ -225,6 +225,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-millio… — <https://www.fiberoptics4sale.com/pages/about-us>
 - 网查（2026-10-30）：Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001 — <https://www.linkedin.com/company/fiber-optics-for-sale-co->
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Fiber Optics For Sale Co. · Computer Networking · 11-50 employees · Fremont, CA · Founded 2001 — <https://www.linkedin.com/company/fiber-optics-for-sale-co->　*A-DEEP-01 网查镜像*
+
+**新闻/招标**
+
+- 2026-10-30：FOSCO Connect (Fiber Optics For Sale Co.) was founded in 2001 by fiber optic networking expert Colin Yao … one of the largest stocking distributors of fiber optic datacom and telecom networking products with multi-million dollar annual sales · 269 Mavis Drive Pleasanton, CA — <https://www.fiberoptics4sale.com/pages/about-us>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、KP、人事变动、展会/活动、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：11 封（去 10 / 来 1）　|　**期间**：2025-01-13 → 2025-11-19　|　**最后去信**：2025-11-19

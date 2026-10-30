@@ -265,5 +265,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：TBI - Telemobil · 1.402 takipçi · BT Hizmetleri ve BT Danışmanlığı · 51–200 çalışan（97 çalışan LinkedIn 可见）· ISTANBUL Üsküdar · Kuruluş 2005；业务：BT Sistem Entegrasyonu / Elektrik Taahhüt / Bina Yönetim, Otomasyon ve Zayıf Akım",
+    "url": "https://tr.linkedin.com/company/tbitelemobil",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "kariyer.net 2025-11-12：招聘 İnşaat Teknikeri（Hatay：Antakya / İskenderun / Arsuz）；公司档：Bilişim, Elektrik & Elektronik Proje Taahhüt, Elektronik Güvenlik Sistemleri, İnşaat · 50–74 Çalışan",
+    "url": "https://www.kariyer.net/is-ilani/telemobil-bilgi-iletisim-hizmetleri-san-ve-tic-insaat-teknikeri-4299443",
+    "note": "哈塔伊（震后重建）有项目",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：data center construction, electrical and mechanical contracting, automation solutions；clientele education / healthcare / construction",
+    "url": "https://www.zoominfo.com/c/tbi---telemobil/372637611",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

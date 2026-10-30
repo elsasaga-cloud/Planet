@@ -1,0 +1,975 @@
+{
+"SA-001": {
+"code": "SA-001",
+"name": "asteldigicom.com",
+"domains": [
+"asteldigicom.com",
+"asteldigicom.ae",
+"avssgroup.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"asteldigicom.com in:email",
+"\"asteldigicom.com\" in:readme in:description",
+"asteldigicom.com type:org"
+]
+},
+"SA-002": {
+"code": "SA-002",
+"name": "simrex.com",
+"domains": [
+"simrex.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"simrex.com in:email",
+"\"simrex.com\" in:readme in:description",
+"simrex.com type:org"
+]
+},
+"SA-003": {
+"code": "SA-003",
+"name": "Eyescan security Systems",
+"domains": [
+"eyescan.com.cy"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"eyescan.com.cy in:email",
+"\"eyescan.com.cy\" in:readme in:description",
+"Eyescan security Systems type:org"
+]
+},
+"SA-004": {
+"code": "SA-004",
+"name": "Boecek Sec",
+"domains": [
+"boecek.de"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"boecek.de in:email",
+"\"boecek.de\" in:readme in:description",
+"Boecek Sec type:org"
+]
+},
+"SA-005": {
+"code": "SA-005",
+"name": "Taurus Vision",
+"domains": [
+"taurusvision.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"taurusvision.com in:email",
+"\"taurusvision.com\" in:readme in:description",
+"Taurus Vision type:org"
+]
+},
+"SA-006": {
+"code": "SA-006",
+"name": "Vi-Link（vilinknet.com）",
+"domains": [
+"vilinknet.com",
+"vi-link.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"vilinknet.com in:email",
+"\"vilinknet.com\" in:readme in:description",
+"Vi-Link vilinknet.com type:org"
+]
+},
+"SA-007": {
+"code": "SA-007",
+"name": "gogreenit.net",
+"domains": [
+"gogreenit.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"gogreenit.net in:email",
+"\"gogreenit.net\" in:readme in:description",
+"gogreenit.net type:org"
+]
+},
+"SA-008": {
+"code": "SA-008",
+"name": "fiberone.de",
+"domains": [
+"fiberone.de",
+"nynex.de"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"fiberone.de in:email",
+"\"fiberone.de\" in:readme in:description",
+"fiberone.de type:org"
+]
+},
+"SA-009": {
+"code": "SA-009",
+"name": "coptek.com.tr",
+"domains": [
+"coptek.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"coptek.com.tr in:email",
+"\"coptek.com.tr\" in:readme in:description",
+"coptek.com.tr type:org"
+]
+},
+"SA-010": {
+"code": "SA-010",
+"name": "NEXTU EZ-NET",
+"domains": [
+"ez-net.co.kr"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "saidijongo/Modbus_RS485_RPi_BLDCmotor",
+"url": "https://github.com/saidijongo/Modbus_RS485_RPi_BLDCmotor",
+"desc": "Using RS485 serial communication for BLDC motor control in the raspberry pi",
+"stars": 0,
+"pushed": "2024-05-28"
+},
+{
+"full_name": "EmmettHwang/bt_dongle",
+"url": "https://github.com/EmmettHwang/bt_dongle",
+"desc": "NEXT-204BT동글드라이버",
+"stars": 0,
+"pushed": "2026-05-20"
+}
+],
+"queries": [
+"ez-net.co.kr in:email",
+"\"ez-net.co.kr\" in:readme in:description",
+"NEXTU EZ-NET type:org"
+]
+},
+"SA-011": {
+"code": "SA-011",
+"name": "CXR",
+"domains": [
+"cxr.com",
+"cxr.fr"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "tta13/msc-deep-learning",
+"url": "https://github.com/tta13/msc-deep-learning",
+"desc": "Deep Learning project",
+"stars": 0,
+"pushed": "2024-12-23"
+}
+],
+"queries": [
+"cxr.com in:email",
+"\"cxr.com\" in:readme in:description"
+]
+},
+"SA-012": {
+"code": "SA-012",
+"name": "widen.co.th",
+"domains": [
+"widen.co.th"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"widen.co.th in:email",
+"\"widen.co.th\" in:readme in:description",
+"widen.co.th type:org"
+]
+},
+"SA-014": {
+"code": "SA-014",
+"name": "impulsecctv.com",
+"domains": [
+"impulsecctv.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"impulsecctv.com in:email",
+"\"impulsecctv.com\" in:readme in:description",
+"impulsecctv.com type:org"
+]
+},
+"SA-015": {
+"code": "SA-015",
+"name": "megnet.co.uk",
+"domains": [
+"megnet.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"megnet.co.uk in:email",
+"\"megnet.co.uk\" in:readme in:description",
+"megnet.co.uk type:org"
+]
+},
+"SA-016": {
+"code": "SA-016",
+"name": "BitBook LLC",
+"domains": [
+"bitbuk.ru",
+"bitbook.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bitbuk.ru in:email",
+"\"bitbuk.ru\" in:readme in:description",
+"BitBook LLC type:org"
+]
+},
+"SA-020": {
+"code": "SA-020",
+"name": "bitstream.pl",
+"domains": [
+"bitstream.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "BUILDS-/Drawbot",
+"url": "https://github.com/BUILDS-/Drawbot",
+"desc": "",
+"stars": 2,
+"pushed": "2011-03-24"
+},
+{
+"full_name": "xeeohaib/anti-jamming",
+"url": "https://github.com/xeeohaib/anti-jamming",
+"desc": "",
+"stars": 0,
+"pushed": "2026-03-04"
+},
+{
+"full_name": "sunipkm/protostar-kria-linux",
+"url": "https://github.com/sunipkm/protostar-kria-linux",
+"desc": "",
+"stars": 0,
+"pushed": "2026-06-11"
+},
+{
+"full_name": "WindRiverLinux25/xilinx-gen-machine-conf",
+"url": "https://github.com/WindRiverLinux25/xilinx-gen-machine-conf",
+"desc": "WRLinux LTS23 Base - xilinx-gen-machine-conf",
+"stars": 0,
+"pushed": "2026-10-08"
+},
+{
+"full_name": "jiangjm20/PetalinuxCode",
+"url": "https://github.com/jiangjm20/PetalinuxCode",
+"desc": "",
+"stars": 0,
+"pushed": "2024-06-05"
+},
+{
+"full_name": "jiangjm20/cpu-code",
+"url": "https://github.com/jiangjm20/cpu-code",
+"desc": "",
+"stars": 0,
+"pushed": "2024-05-14"
+},
+{
+"full_name": "cyclonicalperson/vlsi_projekat",
+"url": "https://github.com/cyclonicalperson/vlsi_projekat",
+"desc": "Projekat za Projektovanje VLSI sistema",
+"stars": 0,
+"pushed": "2026-06-27"
+},
+{
+"full_name": "lambert52851/xilinx-zc702-2022.1",
+"url": "https://github.com/lambert52851/xilinx-zc702-2022.1",
+"desc": "bsp(petalinux)",
+"stars": 0,
+"pushed": "2022-12-13"
+},
+{
+"full_name": "ACEamword/ECE532-Waste-Sorting-Project",
+"url": "https://github.com/ACEamword/ECE532-Waste-Sorting-Project",
+"desc": "This is the project for UoftT ECE532 team project, we are aiming to create a Public Automated Waste Sorting System aka P",
+"stars": 0,
+"pushed": "2026-04-07"
+},
+{
+"full_name": "RoMartino/AXI-HDC-Accelerator",
+"url": "https://github.com/RoMartino/AXI-HDC-Accelerator",
+"desc": "A General-Purpose, AXI4-compliant Hyperdimensional Computing (HDC) Accelerator IP for Xilinx Zynq SoCs. Features scalabl",
+"stars": 1,
+"pushed": "2026-01-26"
+}
+],
+"queries": [
+"bitstream.pl in:email",
+"\"bitstream.pl\" in:readme in:description",
+"bitstream.pl type:org"
+]
+},
+"SA-021": {
+"code": "SA-021",
+"name": "optiviewusa.com",
+"domains": [
+"optiviewusa.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"optiviewusa.com in:email",
+"\"optiviewusa.com\" in:readme in:description",
+"optiviewusa.com type:org"
+]
+},
+"SA-023": {
+"code": "SA-023",
+"name": "fcnet.pl",
+"domains": [
+"fcnet.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"fcnet.pl in:email",
+"\"fcnet.pl\" in:readme in:description",
+"fcnet.pl type:org"
+]
+},
+"SA-025": {
+"code": "SA-025",
+"name": "Avenger Security（getsecurityalarm.com）",
+"domains": [
+"getsecurityalarm.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"getsecurityalarm.com in:email",
+"\"getsecurityalarm.com\" in:readme in:description",
+"Avenger Security getsecurityalarm.com type:org"
+]
+},
+"SA-026": {
+"code": "SA-026",
+"name": "hardenednetworks.com",
+"domains": [
+"hardenednetworks.com",
+"expresssupply.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"hardenednetworks.com in:email",
+"\"hardenednetworks.com\" in:readme in:description",
+"hardenednetworks.com type:org"
+]
+},
+"SA-027": {
+"code": "SA-027",
+"name": "Al Salami Trading L.L.C",
+"domains": [
+"alsalami.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"alsalami.com in:email",
+"\"alsalami.com\" in:readme in:description",
+"Al Salami Trading L.L.C type:org"
+]
+},
+"SA-028": {
+"code": "SA-028",
+"name": "entasource.co.th",
+"domains": [
+"entasource.co.th"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"entasource.co.th in:email",
+"\"entasource.co.th\" in:readme in:description",
+"entasource.co.th type:org"
+]
+},
+"SA-029": {
+"code": "SA-029",
+"name": "gtwave.co.kr",
+"domains": [
+"gtwave.co.kr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"gtwave.co.kr in:email",
+"\"gtwave.co.kr\" in:readme in:description",
+"gtwave.co.kr type:org"
+]
+},
+"SA-030": {
+"code": "SA-030",
+"name": "snexus.com.tr",
+"domains": [
+"snexus.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"snexus.com.tr in:email",
+"\"snexus.com.tr\" in:readme in:description",
+"snexus.com.tr type:org"
+]
+},
+"SA-031": {
+"code": "SA-031",
+"name": "Truong Son Solutions",
+"domains": [
+"truongsonsolutions.vn",
+"truongsonsolutions.com",
+"switchcongnghiep.com",
+"switchcongnghiep.vn"
+],
+"users": [],
+"orgs": [
+{
+"login": "tsxai",
+"url": "https://github.com/tsxai"
+}
+],
+"repos": [],
+"queries": [
+"truongsonsolutions.vn in:email",
+"\"truongsonsolutions.vn\" in:readme in:description",
+"Truong Son Solutions type:org"
+]
+},
+"SA-032": {
+"code": "SA-032",
+"name": "sundartechno.com",
+"domains": [
+"sundartechno.com",
+"embeddedaautomation.org"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"sundartechno.com in:email",
+"\"sundartechno.com\" in:readme in:description",
+"sundartechno.com type:org"
+]
+},
+"SA-033": {
+"code": "SA-033",
+"name": "bluewarrior.com",
+"domains": [
+"bluewarrior.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bluewarrior.com in:email",
+"\"bluewarrior.com\" in:readme in:description",
+"bluewarrior.com type:org"
+]
+},
+"SA-034": {
+"code": "SA-034",
+"name": "rfog.pl",
+"domains": [
+"rfog.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"rfog.pl in:email",
+"\"rfog.pl\" in:readme in:description",
+"rfog.pl type:org"
+]
+},
+"SA-035": {
+"code": "SA-035",
+"name": "td-fe.com",
+"domains": [
+"td-fe.com",
+"td-fe.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"td-fe.com in:email",
+"\"td-fe.com\" in:readme in:description",
+"td-fe.com type:org"
+]
+},
+"SA-036": {
+"code": "SA-036",
+"name": "svn-video.ru",
+"domains": [
+"svn-video.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"svn-video.ru in:email",
+"\"svn-video.ru\" in:readme in:description",
+"svn-video.ru type:org"
+]
+},
+"SA-039": {
+"code": "SA-039",
+"name": "mt-link.com",
+"domains": [
+"mt-link.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"mt-link.com in:email",
+"\"mt-link.com\" in:readme in:description",
+"mt-link.com type:org"
+]
+},
+"SA-042": {
+"code": "SA-042",
+"name": "antronix.com",
+"domains": [
+"antronix.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"antronix.com in:email",
+"\"antronix.com\" in:readme in:description",
+"antronix.com type:org"
+]
+},
+"SA-043": {
+"code": "SA-043",
+"name": "direktronik.se",
+"domains": [
+"direktronik.se"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"direktronik.se in:email",
+"\"direktronik.se\" in:readme in:description",
+"direktronik.se type:org"
+]
+},
+"SA-045": {
+"code": "SA-045",
+"name": "energyplusystems.cl",
+"domains": [
+"energyplusystems.cl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"energyplusystems.cl in:email",
+"\"energyplusystems.cl\" in:readme in:description",
+"energyplusystems.cl type:org"
+]
+},
+"SA-047": {
+"code": "SA-047",
+"name": "sge.com.tr",
+"domains": [
+"sge.com.tr"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"sge.com.tr in:email",
+"\"sge.com.tr\" in:readme in:description",
+"sge.com.tr type:org"
+]
+},
+"SA-048": {
+"code": "SA-048",
+"name": "ekhalas.com",
+"domains": [
+"ekhalas.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ekhalas.com in:email",
+"\"ekhalas.com\" in:readme in:description",
+"ekhalas.com type:org"
+]
+},
+"SA-049": {
+"code": "SA-049",
+"name": "iotsistem.com",
+"domains": [
+"iotsistem.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"iotsistem.com in:email",
+"\"iotsistem.com\" in:readme in:description",
+"iotsistem.com type:org"
+]
+},
+"SA-050": {
+"code": "SA-050",
+"name": "impakt.com.pl",
+"domains": [
+"impakt.com.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"impakt.com.pl in:email",
+"\"impakt.com.pl\" in:readme in:description",
+"impakt.com.pl type:org"
+]
+},
+"SA-051": {
+"code": "SA-051",
+"name": "Tecpro Solutions",
+"domains": [
+"tecprosolutions.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"tecprosolutions.com in:email",
+"\"tecprosolutions.com\" in:readme in:description",
+"Tecpro Solutions type:org"
+]
+},
+"SA-053": {
+"code": "SA-053",
+"name": "infrateq.id",
+"domains": [
+"infrateq.id",
+"divatel.co.id"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"infrateq.id in:email",
+"\"infrateq.id\" in:readme in:description",
+"infrateq.id type:org"
+]
+},
+"SA-054": {
+"code": "SA-054",
+"name": "softnetworks.net",
+"domains": [
+"softnetworks.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"softnetworks.net in:email",
+"\"softnetworks.net\" in:readme in:description",
+"softnetworks.net type:org"
+]
+},
+"SA-055": {
+"code": "SA-055",
+"name": "NOVA Group Engineering Project Electronic Co LTD",
+"domains": [
+"novacom.com.tr",
+"nova-grup.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"novacom.com.tr in:email",
+"\"novacom.com.tr\" in:readme in:description",
+"NOVA Group Engineering Project Electroni type:org"
+]
+},
+"SA-058": {
+"code": "SA-058",
+"name": "alphanetcom.com",
+"domains": [
+"alphanetcom.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"alphanetcom.com in:email",
+"\"alphanetcom.com\" in:readme in:description",
+"alphanetcom.com type:org"
+]
+},
+"SA-059": {
+"code": "SA-059",
+"name": "data-connect.com",
+"domains": [
+"data-connect.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"data-connect.com in:email",
+"\"data-connect.com\" in:readme in:description",
+"data-connect.com type:org"
+]
+},
+"SA-060": {
+"code": "SA-060",
+"name": "gofiberx.com",
+"domains": [
+"gofiberx.com",
+"fiberx.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"gofiberx.com in:email",
+"\"gofiberx.com\" in:readme in:description",
+"gofiberx.com type:org"
+]
+},
+"SA-061": {
+"code": "SA-061",
+"name": "RYMTECH EAS",
+"domains": [
+"rym-tech.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"rym-tech.net in:email",
+"\"rym-tech.net\" in:readme in:description",
+"RYMTECH EAS type:org"
+]
+},
+"SA-063": {
+"code": "SA-063",
+"name": "Areca Embedded Systems Pvt Ltd",
+"domains": [
+"areca.in"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "bugtamer/areca-backup-native",
+"url": "https://github.com/bugtamer/areca-backup-native",
+"desc": "Areca Backup native launchers for modern operative systems",
+"stars": 0,
+"pushed": "2025-05-06"
+},
+{
+"full_name": "borgessc/icinga2",
+"url": "https://github.com/borgessc/icinga2",
+"desc": "",
+"stars": 0,
+"pushed": "2016-06-16"
+}
+],
+"queries": [
+"areca.in in:email",
+"\"areca.in\" in:readme in:description",
+"Areca Embedded Systems Pvt Ltd type:org"
+]
+},
+"SA-064": {
+"code": "SA-064",
+"name": "optat.ru",
+"domains": [
+"optat.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"optat.ru in:email",
+"\"optat.ru\" in:readme in:description",
+"optat.ru type:org"
+]
+},
+"SA-066": {
+"code": "SA-066",
+"name": "ccs-msk.ru",
+"domains": [
+"ccs-msk.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ccs-msk.ru in:email",
+"\"ccs-msk.ru\" in:readme in:description",
+"ccs-msk.ru type:org"
+]
+},
+"SA-067": {
+"code": "SA-067",
+"name": "Latmedia Group, LLC",
+"domains": [
+"latmedia.uz"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "LatMedia/front-end-task",
+"url": "https://github.com/LatMedia/front-end-task",
+"desc": "Это тестовое задания для front-end разработчиков",
+"stars": 0,
+"pushed": "2021-03-29"
+},
+{
+"full_name": "LatMedia/web-desing-task",
+"url": "https://github.com/LatMedia/web-desing-task",
+"desc": "Тестовое задания для потенциальных дизайнеров",
+"stars": 0,
+"pushed": "2021-03-29"
+}
+],
+"queries": [
+"latmedia.uz in:email",
+"\"latmedia.uz\" in:readme in:description",
+"Latmedia Group  LLC type:org"
+]
+},
+"SA-068": {
+"code": "SA-068",
+"name": "Pt.ras otomasi indonesia",
+"domains": [
+"ras-otomasi.id"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ras-otomasi.id in:email",
+"\"ras-otomasi.id\" in:readme in:description",
+"Pt.ras otomasi indonesia type:org"
+]
+},
+"SA-070": {
+"code": "SA-070",
+"name": "Top Italia",
+"domains": [
+"topsicurezza.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "TopDealsItalia",
+"url": "https://github.com/TopDealsItalia"
+}
+],
+"repos": [],
+"queries": [
+"topsicurezza.com in:email",
+"\"topsicurezza.com\" in:readme in:description",
+"Top Italia type:org"
+]
+},
+"SA-071": {
+"code": "SA-071",
+"name": "surlink-tech.com",
+"domains": [
+"surlink-tech.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"surlink-tech.com in:email",
+"\"surlink-tech.com\" in:readme in:description",
+"surlink-tech.com type:org"
+]
+},
+"SA-072": {
+"code": "SA-072",
+"name": "trans audio video group",
+"domains": [
+"transaudiovideo.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"transaudiovideo.com in:email",
+"\"transaudiovideo.com\" in:readme in:description",
+"trans audio video group type:org"
+]
+},
+"SA-074": {
+"code": "SA-074",
+"name": "Elite Team Security Ltd",
+"domains": [
+"elitteamsecurity.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"elitteamsecurity.com in:email",
+"\"elitteamsecurity.com\" in:readme in:description",
+"Elite Team Security Ltd type:org"
+]
+}
+}

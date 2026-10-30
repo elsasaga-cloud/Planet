@@ -1711,6 +1711,31 @@ def render_one(ent):
             lines.append(f"- 网查（{wf.get('date', '')}）：{cell(wf.get('quote', ''), 220)} — <{wf.get('url', '')}>")
         if ad.get('web_facts'):
             lines.append('')
+    intel = ((ent.get('research') or {}).get('intel') or {}).get('items') or []
+    if intel:
+        KINDS = ['年报/财务', '登记', '领英公司页', 'KP', '人事变动', '展会/活动', '新闻/招标', 'GitHub/技术足迹', '社媒', '供应商/品牌关系', '论坛/社区', '官网变化']
+        CORE = ['年报/财务', '领英公司页', 'KP', '人事变动', '展会/活动', '新闻/招标', 'GitHub/技术足迹']
+        touched = {x['kind'] for x in intel}
+        lines.append(f"## 商业情报·挖底（A 类 · 截至 {max(x.get('added', '') for x in intel)} · {len(intel)} 条）")
+        lines.append('')
+        lines.append('> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。')
+        lines.append('')
+        for k in KINDS:
+            xs = [x for x in intel if x['kind'] == k]
+            if not xs:
+                continue
+            lines.append(f'**{k}**')
+            lines.append('')
+            for x in xs:
+                tag = '' if x.get('found', True) else '（查过未得）'
+                u = f" — <{x['url']}>" if x.get('url') else ''
+                nt = f"　*{cell(x['note'], 160)}*" if x.get('note') else ''
+                lines.append(f"- {x.get('date', '')}{tag}：{cell(x.get('quote', ''), 400)}{u}{nt}")
+            lines.append('')
+        gaps = [k for k in CORE if k not in touched]
+        if gaps:
+            lines.append(f"待挖：{'、'.join(gaps)}（下一轮）")
+            lines.append('')
     if ent.get('pi'):
         lines.append('## 成交记录（PI 包 · 自动汇总）')
         lines.append('')

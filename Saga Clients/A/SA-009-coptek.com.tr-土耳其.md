@@ -258,6 +258,24 @@ A 确认（土耳其重点区 + 已在卖中国交换机 + 100 台工业 FS 询�
 | 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-10-06 | 去 | A | Managed PoE Switches |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：firmatlas：Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti. · Gayrettepe Mah. Fuatsarp Sok. Mutlu Apt. No:4/3 Balmumcu / İstanbul · 212 275 79 53 — <https://www.firmatlas.com/koptek-bilgisayar-ve-iletisim-sistemleri-san-ve-tic-ltd-sti/>
+
+**展会/活动**
+
+- 2026-10-30：2018 DCN Distribütörler Toplantısı, Bali — 公司代表作行业分享（官网照片说明） — <http://www.coptek.com.tr/hakkimizda.html>
+
+**供应商/品牌关系**
+
+- 2026-10-30：官网 Hakkımızda：2010 年起 DCN（Digital China Network）土耳其分销商，2020 年在土运行设备超 10,000 台；2020 年起 ONV Technologies 分销商（工业与室内交换机） — <http://www.coptek.com.tr/hakkimizda.html>　*ONV = 深圳白牌工业交换机厂 → 同源竞争；Saga 卖点只能是 Marvell/CENTEC 方案与交期*
+
+待挖：年报/财务、领英公司页、KP、人事变动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-07-08 → 2026-10-06　|　**最后去信**：2026-10-06

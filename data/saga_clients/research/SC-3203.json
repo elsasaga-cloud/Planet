@@ -332,5 +332,30 @@
    }
   ],
   "manual": true
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "J Teem Solutions … provider of fiber optic network solutions in Sri Lanka … Kurunegala",
+    "url": "https://www.jteem.lk/fiber-solutions/",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "security alarm systems … Hikvision and Dahua … Kurunegala, Sri Lanka",
+    "url": "https://www.jteem.lk/security-alarm-systems/",
+    "note": "A-DEEP-01 网查镜像",
+    "batch": "A-DEEP-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

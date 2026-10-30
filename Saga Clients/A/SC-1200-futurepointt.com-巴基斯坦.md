@@ -147,6 +147,20 @@ updated: 2026-10-30
 - 网查（2026-10-30）：Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore — <https://www.zoominfo.com/c/future-point-technologies/460620478>
 - 网查（2026-10-30）：Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi — <https://pk.linkedin.com/company/future-point-technologies>
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore — <https://www.zoominfo.com/c/future-point-technologies/460620478>　*A-DEEP-01 网查镜像*
+
+**领英公司页**
+
+- 2026-10-30：Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi — <https://pk.linkedin.com/company/future-point-technologies>　*A-DEEP-01 网查镜像*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：7 封（去 5 / 来 2）　|　**期间**：2024-10-03 → 2025-03-31　|　**最后去信**：2025-03-31

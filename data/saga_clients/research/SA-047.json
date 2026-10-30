@@ -481,5 +481,50 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：SGE Muhendislik · 1.042 takipçi · Endüstriyel Otomasyon · 11–50 çalışan · Istanbul · Kuruluş 2007 · Scada Automation SAS, Relays and RTU’s, Test and Measurement, Energy Meters",
+    "url": "https://tr.linkedin.com/company/sge-muhendislik",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "网店在售工业以太网交换机 MIGE2205G（5×1G DIN 导轨非管理，DC9-60V / AC85-264V 版，交期 5 周）",
+    "url": "https://shop.sge.com.tr/urundetay-mige2205g-5x1gbit-layer2-switch-295-2883.html",
+    "note": "在转售他家工业交换机且交期 5 周 → Saga STI-144GP/288 系列可比交期",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "展会/活动",
+    "date": "2026-10-30",
+    "quote": "Facebook：2024-06-05～08 WIN Otomasyon Fuarı 参展（zenon SCADA + CET 电能分析仪）",
+    "url": "https://www.facebook.com/SgeMuhendislik",
+    "note": "每年 6 月 WIN Eurasia（Istanbul）",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "人事变动",
+    "date": "2026-10-30",
+    "quote": "LinkedIn 近 3 月招聘：TEST VE ÖLÇÜ ALETLERİ SATIŞ MÜHENDİSİ（İstanbul Anadolu yakası）",
+    "url": "https://tr.linkedin.com/company/sge-muhendislik",
+    "note": "在扩销售团队",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

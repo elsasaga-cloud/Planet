@@ -467,5 +467,40 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "官网 Hakkımızda：2010 年起 DCN（Digital China Network）土耳其分销商，2020 年在土运行设备超 10,000 台；2020 年起 ONV Technologies 分销商（工业与室内交换机）",
+    "url": "http://www.coptek.com.tr/hakkimizda.html",
+    "note": "ONV = 深圳白牌工业交换机厂 → 同源竞争；Saga 卖点只能是 Marvell/CENTEC 方案与交期",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "展会/活动",
+    "date": "2026-10-30",
+    "quote": "2018 DCN Distribütörler Toplantısı, Bali — 公司代表作行业分享（官网照片说明）",
+    "url": "http://www.coptek.com.tr/hakkimizda.html",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "firmatlas：Koptek Bilgisayar ve İletişim Sistemleri San. ve Tic. Ltd. Şti. · Gayrettepe Mah. Fuatsarp Sok. Mutlu Apt. No:4/3 Balmumcu / İstanbul · 212 275 79 53",
+    "url": "https://www.firmatlas.com/koptek-bilgisayar-ve-iletisim-sistemleri-san-ve-tic-ltd-sti/",
+    "note": "",
+    "batch": "INTEL-01",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

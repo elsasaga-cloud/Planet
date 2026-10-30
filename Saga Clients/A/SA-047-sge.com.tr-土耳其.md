@@ -238,6 +238,28 @@ A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转�
 | 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：SGE Muhendislik · 1.042 takipçi · Endüstriyel Otomasyon · 11–50 çalışan · Istanbul · Kuruluş 2007 · Scada Automation SAS, Relays and RTU’s, Test and Measurement, Energy Meters — <https://tr.linkedin.com/company/sge-muhendislik>
+
+**人事变动**
+
+- 2026-10-30：LinkedIn 近 3 月招聘：TEST VE ÖLÇÜ ALETLERİ SATIŞ MÜHENDİSİ（İstanbul Anadolu yakası） — <https://tr.linkedin.com/company/sge-muhendislik>　*在扩销售团队*
+
+**展会/活动**
+
+- 2026-10-30：Facebook：2024-06-05～08 WIN Otomasyon Fuarı 参展（zenon SCADA + CET 电能分析仪） — <https://www.facebook.com/SgeMuhendislik>　*每年 6 月 WIN Eurasia（Istanbul）*
+
+**供应商/品牌关系**
+
+- 2026-10-30：网店在售工业以太网交换机 MIGE2205G（5×1G DIN 导轨非管理，DC9-60V / AC85-264V 版，交期 5 周） — <https://shop.sge.com.tr/urundetay-mige2205g-5x1gbit-layer2-switch-295-2883.html>　*在转售他家工业交换机且交期 5 周 → Saga STI-144GP/288 系列可比交期*
+
+待挖：年报/财务、KP、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：10 封（去 9 / 来 1）　|　**期间**：2025-09-30 → 2026-09-07　|　**最后去信**：2026-09-07
