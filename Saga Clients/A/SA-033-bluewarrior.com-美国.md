@@ -280,13 +280,18 @@ A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW721
 | 2026-08-20 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：bluewarrior.com in:email；"bluewarrior.com" in:readme in:description；bluewarrior.com type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：官网（页面日期 2021-11）：「Blue Warrior is rugged industrial Ethernet – built for harsh environments」；「DYMEC helps utility providers ensure the safety and security …」；应用：电信（数据中心到山顶基站）、水务/污水处理（冗余以太网 + VLAN + 冗余供电/上联）、农村电信 Q-Guard 激光雷达周界 — <https://bluewarrior.com/solutions/water-waste-treatment/>　*BlueWARRIOR 与 DYMEC 同站共述 → 同一体系的加固工业交换机品牌（白牌来源）；官网内容 2021 后未更新，需核活性*
+- 2026-10-30：Trafsig（交通信号分销商）产品页：「The BlueWARRIOR BlueKey™ System consists of robust locks, encrypted “intelligent” keys, and state-of-the-art web-based system software」 — <https://www.trafsig.com/products>　*已有 ITS 渠道（Trafsig）在卖其产品*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
@@ -315,7 +320,7 @@ A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW721
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：A 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-033/`；本节随档案重渲染刷新，实时看日志。
 

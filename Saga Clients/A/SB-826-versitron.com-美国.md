@@ -266,9 +266,13 @@ updated: 2026-10-30
 | 2026-03-11 | 去 | S | Re: 10G Enterprise SFP Switch |  |
 | 2026-03-11 | 来 | S | Automatic reply: 10G Enterprise SFP Switch｜Hello: I hope all is well. I will be out of the office until 03/12/26, and will reply to any messages when … |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 8 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 10 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**新闻/招标**
+
+- 2026-10-30：ACCESSWIRE 2025-01-07（Newark, Delaware）：「Enhancing AV Over IP Efficiency: Best Practices for Network Infrastructure」—— R.W. Tull, President of Versitron：「The right network switches and media converters are critical for seamless AV delivery」；联系人 Greg Massott sales@versitron.com — <https://www.itnewsonline.com/news/Enhancing-AV-Over-IP-Efficiency-Best-Practices-for-Network-Infrastructure/27317>　*总裁 R.W. Tull（我方 KP Richard W. Tull 核实）；2025 年仍在发 AV over IP 方向稿 + GitHub 产品页 SEO → 活跃推广中*
 
 **GitHub/技术足迹**
 
@@ -281,7 +285,11 @@ updated: 2026-10-30
 - 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-VDAU1664 — Buy Versitron VDAU1664（★0，最近推送 2025-07-30） — <https://github.com/Versitron/Versitron-VDAU1664>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
 - 2026-10-30：GitHub 仓库提及域名：Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online — Buy Versitron M82XXD Fiber Optic Modem Online（★0，最近推送 2025-07-30） — <https://github.com/Versitron/Versitron-M82XXD-Fiber-Optic-Modem-Online>　*匿名 API 检索；组织名同名有误配可能，看 URL 再用*
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+**供应商/品牌关系**
+
+- 2026-10-30：Ultimate Guide for Security Professionals：VERSITRON, Inc. · 83 Albe Dr Ste C, Newark, DE 19702 · Contact Greg Massott · 302-894-0699；「In 1958, VERSITRON established itself as the first and trusted source of fiber optic technology」；产品：Fiber Optic Modems、Transceivers、MicroModems、Media Converters（10/100、10/100/1000）、Ethernet Switches（5, 6, 8, 16, 24 port, Modular）、Fiber Optic Video Transmission — <https://ultimateguideforsecurityprofessionals.com/Listing/Company/47908>　*1958 年起的光纤品牌，交换机/MC 全系外采贴牌 → OEM 30%；Greg Massott 20 封往来是我方最活跃的美国品牌商对话*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -541,6 +541,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "LinkedIn：Megnet Limited · 5,083 followers · London · 11–50 employees（37 on LinkedIn）· Founded 2003 ·「Leading Global Distributor of OEM Compatible Networking Products and Solutions」· 自有品牌 Chimera（compatible transceivers 1G–400G，「produced in partnership with leading ISO compliant industry manufacturers」）· Specialties 含 switches, media converters, DAC/AOC",
+    "url": "https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions",
+    "note": "兼容光模块品牌商 = 中国 ODM 采购老手；交换机是其品类扩展口；每周有 LinkedIn 更新",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "Prospeo：Megnet Limited · Mortlake Business Centre, 20 Mortlake High Street, London SW14 8JN · 21–50 · Key Contact Anna Penez — Global Account Director",
+    "url": "https://prospeo.io/c/megnet-limited",
+    "note": "",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

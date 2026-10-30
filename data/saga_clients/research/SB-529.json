@@ -413,6 +413,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "Crunchbase：DMSI International（DIVERSIFIED MATERIAL SPECIALISTS, INC.）· Venice, Florida · 51–100 · 光纤连接产品制造（fiber hardware, optic cable, converters, splitters）· OEM & Contract Manufacturing（component-level products in-house，global manufacturing capabilities）· +1 941 244 0935 · info@dmsimfg.com",
+    "url": "https://www.crunchbase.com/organization/dmsi-international",
+    "note": "自有制造 + 代工能力的光纤连接厂商；MC/交换机是其外采补位 → OEM 30% 对位",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：Jeneth D’Alonzo — Chief Executive Officer；同事 Dustin Hall（我方 KP）、Brandon Woodward、Jeff D’Alonzo；官网：Randy Harris — Director, Data Center & Broadband Sales（828-320-7632，Randy.Harris@dmsimfg.com；我方 KP）；产品线 MMC / MDC（VSFF 连接器）、MTP、OMNIA、IllumiCore+",
+    "url": "https://www.zoominfo.com/p/Jeneth-Dalonzo/1489666208",
+    "note": "",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

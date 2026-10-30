@@ -286,15 +286,23 @@ A 确认：Chimera 品牌需要 MC/交换机货源；P1 = STI-110GE（MC 贴牌�
 | 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
 | 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：LinkedIn：Megnet Limited · 5,083 followers · London · 11–50 employees（37 on LinkedIn）· Founded 2003 ·「Leading Global Distributor of OEM Compatible Networking Products and Solutions」· 自有品牌 Chimera（compatible transceivers 1G–400G，「produced in partnership with leading ISO compliant industry manufacturers」）· Specialties 含 switches, media converters, DAC/AOC — <https://uk.linkedin.com/company/megnet-limited-specialist-global-supplier-of-compatible-network-solutions>　*兼容光模块品牌商 = 中国 ODM 采购老手；交换机是其品类扩展口；每周有 LinkedIn 更新*
+
+**KP**
+
+- 2026-10-30：Prospeo：Megnet Limited · Mortlake Business Centre, 20 Mortlake High Street, London SW14 8JN · 21–50 · Key Contact Anna Penez — Global Account Director — <https://prospeo.io/c/megnet-limited>
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：megnet.co.uk in:email；"megnet.co.uk" in:readme in:description；megnet.co.uk type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

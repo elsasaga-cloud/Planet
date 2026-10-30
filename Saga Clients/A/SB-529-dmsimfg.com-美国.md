@@ -242,15 +242,23 @@ updated: 2026-10-30
 | 2026-08-25 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-28 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：Crunchbase：DMSI International（DIVERSIFIED MATERIAL SPECIALISTS, INC.）· Venice, Florida · 51–100 · 光纤连接产品制造（fiber hardware, optic cable, converters, splitters）· OEM & Contract Manufacturing（component-level products in-house，global manufacturing capabilities）· +1 941 244 0935 · info@dmsimfg.com — <https://www.crunchbase.com/organization/dmsi-international>　*自有制造 + 代工能力的光纤连接厂商；MC/交换机是其外采补位 → OEM 30% 对位*
+
+**KP**
+
+- 2026-10-30：ZoomInfo：Jeneth D’Alonzo — Chief Executive Officer；同事 Dustin Hall（我方 KP）、Brandon Woodward、Jeff D’Alonzo；官网：Randy Harris — Director, Data Center & Broadband Sales（828-320-7632，Randy.Harris@dmsimfg.com；我方 KP）；产品线 MMC / MDC（VSFF 连接器）、MTP、OMNIA、IllumiCore+ — <https://www.zoominfo.com/p/Jeneth-Dalonzo/1489666208>
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：dmsimfg.com in:email；"dmsimfg.com" in:readme in:description；dmsimfg.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

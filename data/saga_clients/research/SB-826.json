@@ -728,6 +728,26 @@
     "batch": "INTEL-GH-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "Ultimate Guide for Security Professionals：VERSITRON, Inc. · 83 Albe Dr Ste C, Newark, DE 19702 · Contact Greg Massott · 302-894-0699；「In 1958, VERSITRON established itself as the first and trusted source of fiber optic technology」；产品：Fiber Optic Modems、Transceivers、MicroModems、Media Converters（10/100、10/100/1000）、Ethernet Switches（5, 6, 8, 16, 24 port, Modular）、Fiber Optic Video Transmission",
+    "url": "https://ultimateguideforsecurityprofessionals.com/Listing/Company/47908",
+    "note": "1958 年起的光纤品牌，交换机/MC 全系外采贴牌 → OEM 30%；Greg Massott 20 封往来是我方最活跃的美国品牌商对话",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "新闻/招标",
+    "date": "2026-10-30",
+    "quote": "ACCESSWIRE 2025-01-07（Newark, Delaware）：「Enhancing AV Over IP Efficiency: Best Practices for Network Infrastructure」—— R.W. Tull, President of Versitron：「The right network switches and media converters are critical for seamless AV delivery」；联系人 Greg Massott sales@versitron.com",
+    "url": "https://www.itnewsonline.com/news/Enhancing-AV-Over-IP-Efficiency-Best-Practices-for-Network-Infrastructure/27317",
+    "note": "总裁 R.W. Tull（我方 KP Richard W. Tull 核实）；2025 年仍在发 AV over IP 方向稿 + GitHub 产品页 SEO → 活跃推广中",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

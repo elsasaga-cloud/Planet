@@ -509,6 +509,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "官网（页面日期 2021-11）：「Blue Warrior is rugged industrial Ethernet – built for harsh environments」；「DYMEC helps utility providers ensure the safety and security …」；应用：电信（数据中心到山顶基站）、水务/污水处理（冗余以太网 + VLAN + 冗余供电/上联）、农村电信 Q-Guard 激光雷达周界",
+    "url": "https://bluewarrior.com/solutions/water-waste-treatment/",
+    "note": "BlueWARRIOR 与 DYMEC 同站共述 → 同一体系的加固工业交换机品牌（白牌来源）；官网内容 2021 后未更新，需核活性",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "Trafsig（交通信号分销商）产品页：「The BlueWARRIOR BlueKey™ System consists of robust locks, encrypted “intelligent” keys, and state-of-the-art web-based system software」",
+    "url": "https://www.trafsig.com/products",
+    "note": "已有 ITS 渠道（Trafsig）在卖其产品",
+    "batch": "INTEL-08",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }
