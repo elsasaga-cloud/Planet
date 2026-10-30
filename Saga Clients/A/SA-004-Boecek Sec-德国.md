@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: parked_or_empty  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -41,18 +41,18 @@ updated: 2026-10-29
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM（8 口管理 DIN）+ STI-144GP（4+1 PoE） — 展会扫货后拿了 5 口工业样机 + DIN 电源 → 顺位是 8 口管理 DIN 与 4+1 PoE；他在意运费/关税 → 只报 EXW；锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：官网当前状态异常（停放/空站（疑停业或仅占位））——公司是否仍在运营待核
-- **下一步**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问） A 邮箱 → boecek@（先核地址是否有效；无具名 KP） 一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
+- **下一步**：随时（WhatsApp 一句真人问候，Simon 本人；不必等 2027-Q1 换人） WhatsApp（Simon 手机已加 +49 172 5368536；Simon 本人发）→ 要规格书 / 报价时再用邮件 boecek@ 作附件通道（该址 15 封 0 开，先在 WhatsApp 里确认收件地址） 一问（WhatsApp：埃森展买的 5 口样机用得怎样 + 8 口管理 DIN / 4+1 PoE 要不要样价）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
 
 ## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
 
 > 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SA-004` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
 
 - **绑定等级：未绑定（邮件 15 封 0 回、Opened 0；用户表「样品购买 + 型号问价」无 PI/邮件痕迹；Elsa 箱：`to:.de` 穷举 29 条（2026-10-25，锚批 Bcc 头已读）未见 boecek.de → Elsa 箱从未发过本户，往来只在 S/A 箱（去 15 / 来 0）（第 74 批(f)））** ｜ 类型：德国安防（boecek.de，实体不可核） ｜ 筛子：0（邮件层无人工回复） ｜ 停点：邮件从未被打开 ｜ 复活：核实实体后再定 ｜ 通路：DE ｜ 节奏：不主动 ｜ 证据：邮件：去信 15 封（2025-04-14 → 2026-09-23），来信 0；Opened 标签 0 次；收件人 boecek@boecek.de
-- **现状一句话**：15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。
+- **现状一句话**：15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。 2026-10-30 Simon 确认有其 WhatsApp（+49 172 5368536）→ 触达路径不缺，缺的是一次真人问候；成交过（埃森展 2024 现场买 5 电口样机）故等级 A 不变。
 - **对方真实需求（有据）**：5 口工业样机之后的 8 口管理 DIN / 4+1 PoE（用户表）
 - **断点 / 为什么停在这里**：触达无效 + 证据缺失。
 - **Saga 现在该推什么**：P1 **STI-288GPM（8 口管理 DIN）+ STI-144GP（4+1 PoE）**（25% 档，锚价：STI-288GPM $82.2（25% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-09 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch））——展会扫货后拿了 5 口工业样机 + DIN 电源 → 顺位是 8 口管理 DIN 与 4+1 PoE；他在意运费/关税 → 只报 EXW
-- **下一步（具体）**：2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）　A 邮箱 → boecek@（先核地址是否有效；无具名 KP）　一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
+- **下一步（具体）**：随时（WhatsApp 一句真人问候，Simon 本人；不必等 2027-Q1 换人）　WhatsApp（Simon 手机已加 +49 172 5368536；Simon 本人发）→ 要规格书 / 报价时再用邮件 boecek@ 作附件通道（该址 15 封 0 开，先在 WhatsApp 里确认收件地址）　一问（WhatsApp：埃森展买的 5 口样机用得怎样 + 8 口管理 DIN / 4+1 PoE 要不要样价）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）
   - 第一问（只问一个）：Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).
 
 | 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
@@ -63,6 +63,7 @@ updated: 2026-10-29
 | 2026-09-23 | 去 | Saga（Alan） | 「Managed PoE Switches」——最后一封群发，仍是 boecek@ 公用地址 | 同一地址打了 17 个月；换人（找具名采购）比再发更有用 | `7c09d3b669698238` |
 | 2026-09-23 | 去 | A 箱（Alan） | Managed PoE Switches | 最近一封去信（邮箱索引；去信共 15 封） | `7c09d3b669698238` |
 | 2026-10-29 | 查 | Agent 复核 LT-R10 | DNS 2026-10-29 16:2xZ：boecek.de MX smtpin.rzone.de.；A 217.160.0.167；NS docks02.rzone.de. / shades02.rzone.de. | 长期客户群复核证据（非邮件事实，不计真回） | `` |
+| 2026-10-30 | Simon | Simon | 49 172 5368536 有他的WhatsApp | Simon 2026-10-30 确认 WhatsApp：路径 = WhatsApp（+49 172 5368536，客户主表「电话」同号；Simon 手机已加）；官网 boecek.de 为 STRATO 占位、邮件 15 封 0 开 → 邮件只作附件通道 | `` |
 
 - **还缺的证据（等 A 邮箱 / Extra Info）**：用户表「样品购买」无 PI；邮件 0 打开
 
@@ -331,12 +332,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-12**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 131）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 131）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

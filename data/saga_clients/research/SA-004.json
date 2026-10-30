@@ -73,9 +73,10 @@
    "revive": "核实实体后再定",
    "lane": "DE",
    "cadence": "不主动",
-   "evidence": "邮件：去信 15 封（2025-04-14 → 2026-09-23），来信 0；Opened 标签 0 次；收件人 boecek@boecek.de"
+   "evidence": "邮件：去信 15 封（2025-04-14 → 2026-09-23），来信 0；Opened 标签 0 次；收件人 boecek@boecek.de",
+   "note_2026_10_30": "Simon 手机 WhatsApp 已加（+49 172 5368536）；展会成交过 → 实际绑定高于「邮件 0 回」口径"
   },
-  "situation": "15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。",
+  "situation": "15 封邮件 0 打开 = 地址可能不活；用户表的样品购买在 PI 包里找不到。 2026-10-30 Simon 确认有其 WhatsApp（+49 172 5368536）→ 触达路径不缺，缺的是一次真人问候；成交过（埃森展 2024 现场买 5 电口样机）故等级 A 不变。",
   "need": "5 口工业样机之后的 8 口管理 DIN / 4+1 PoE（用户表）",
   "breakpoint": "触达无效 + 证据缺失。",
   "saga_now": {
@@ -87,10 +88,12 @@
    "gaps": []
   },
   "next_move": {
-   "when": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）",
-   "channel": "A 邮箱 → boecek@（先核地址是否有效；无具名 KP）",
-   "action": "一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
-   "one_question": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity)."
+   "when": "随时（WhatsApp 一句真人问候，Simon 本人；不必等 2027-Q1 换人）",
+   "channel": "WhatsApp（Simon 手机已加 +49 172 5368536；Simon 本人发）→ 要规格书 / 报价时再用邮件 boecek@ 作附件通道（该址 15 封 0 开，先在 WhatsApp 里确认收件地址）",
+   "action": "一问（WhatsApp：埃森展买的 5 口样机用得怎样 + 8 口管理 DIN / 4+1 PoE 要不要样价）；一问（研究档 email_hook + 价锚）；邮件 0 回的 A 级户按「换人」节奏，不加频（第 75 批(o) 2026-10-25：英文信稿已写 `draft_en`（2027-Q1 用；换人/一问口径）；钩子「CLI」不写——未核实）（第 76 批(e) 2026-10-25：薄档补时间线——邮箱索引去/来信 + 报价史 + Elsa 群发命中）（全量审计 2026-10-25 U57：署名对齐渠道邮箱）",
+   "one_question": "Since you took the 5-port industrial samples with the DIN power supply, the natural next step is the 8-port managed DIN unit with CLI and the 4+1 PoE version, both quoted EXW so the freight and import-duty side is transparent. Are the 5-port samples still in service, and is the 8-port managed DIN unit worth a current quote? Reference: STI-288GPM at $82.2 USD EXW (MOQ 1, 15-day validity).",
+   "channel_prev": "A 邮箱 → boecek@（先核地址是否有效；无具名 KP）",
+   "when_prev": "2027-Q1（换人；A 级但邮件 0 回，用研究档 email_hook 一问）"
   },
   "facts": [
    {
@@ -139,6 +142,14 @@
     "who": "Agent 复核 LT-R10",
     "quote": "DNS 2026-10-29 16:2xZ：boecek.de MX smtpin.rzone.de.；A 217.160.0.167；NS docks02.rzone.de. / shades02.rzone.de.",
     "why": "长期客户群复核证据（非邮件事实，不计真回）",
+    "url": ""
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "Simon",
+    "who": "Simon",
+    "quote": "49 172 5368536 有他的WhatsApp",
+    "why": "Simon 2026-10-30 确认 WhatsApp：路径 = WhatsApp（+49 172 5368536，客户主表「电话」同号；Simon 手机已加）；官网 boecek.de 为 STRATO 占位、邮件 15 封 0 开 → 邮件只作附件通道",
     "url": ""
    }
   ],
