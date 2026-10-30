@@ -61,7 +61,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -168,6 +168,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
   }
  ],
  "snap_thicken": {
@@ -183,15 +191,198 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
   "evidence": "[S 2024-11-20] €..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni con ‖ 表 1120: 群发了48口→欧元价格"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Italia · Registro Imprese 镜像（ufficiocamerale / companyreport: STS ITALIA S.R.L.（Arcore MB；原 Vicenza） · P.IVA / C.F. 00865310247 · REA MB 149060 · Attiva（2024 年报已交；无 protesti） · 1984-03-16"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "网络"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1120",
+    "表",
+    "群发了48口→欧元价格"
+   ],
+   [
+    "2024-11-20",
+    "S",
+    "€..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni contenute in questo messaggio son"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-11-20（23 月前）"
+  ],
+  "size": "73 人（2026 登记）/ 82（atoka）；2024 fatturato €7,973,181、utile €438,664、人工成本 €3,227,856；2023 €8.0M / 2022 €7.0M（第 87 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "意大利·集成商/安装商；登记坐实：Italia · Registro Imprese 镜像（ufficiocamerale / companyreport: STS ITALIA S.R.L.（。往来 1120→2026-10-08：我方去信 18 封（A 16 / S 2），对方真人来信 1 封 + 表内/备注 1 条；对方问过：1120 表: 群发了48口→欧元价格 ‖ 2024-11-20 S: €..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni contenute in questo messaggio son。我方报过：$280。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok + WA；最近来信 2024-11-20（23 月前）。",
+  "n_out": 18,
+  "n_in": 1,
+  "last_in": "2024-11-20",
+  "last_out": "2026-10-08",
+  "prices_out": [
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1410de063f995653"
+   },
+   {
+    "date": "2025-10-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "70af1ff17c2cf50f"
+   },
+   {
+    "date": "2025-11-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "241f02b28ce4a5a9"
+   },
+   {
+    "date": "2025-12-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "1c41a8462915b666"
+   },
+   {
+    "date": "2026-01-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "daf90427d91fb920"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "09f342c205fa69c6"
+   },
+   {
+    "date": "2026-03-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "e8b0b08eb6e73e63"
+   },
+   {
+    "date": "2026-05-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7bfa5287bd235038"
+   },
+   {
+    "date": "2026-06-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "7adb75a5955bc941"
+   },
+   {
+    "date": "2026-08-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f2b73ebab73c103a"
+   },
+   {
+    "date": "2026-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "acd533fed067f18f"
+   },
+   {
+    "date": "2026-10-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "863d0727f8ec7105"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

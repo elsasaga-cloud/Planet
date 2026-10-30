@@ -234,7 +234,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -242,8 +242,8 @@
   "why_not": "",
   "excl": "",
   "deal": "",
-  "reply_class": "none",
-  "evidence": ""
+  "reply_class": "R+",
+  "evidence": " ‖ 表 : Simon 备注/兴→FS MC VC 都是自己的标 无源产品 ； 展会问了：交换机，HDMI光端机 ； 展会问了：交换机"
  },
  "override_history": [
   {
@@ -253,8 +253,212 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记线索",
+   "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS） · （登记状态不可免费核）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "fiber",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→FS MC VC 都是自己的标 无源产品 ； 展会问了：交换机，HDMI光端机 ； 展会问了：交换机，HDMI光端机 / 早期ai: 50% A\n泰国通信设备品"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "未见人数（中小分销商）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "泰国·OEM 品牌商；登记线索：泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: WIDEN Co., Ltd.（Widen 。往来 —→2026-09-28：我方去信 27 封（A 20 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过： 表: Simon 备注/兴趣栏→FS MC VC 都是自己的标 无源产品 ； 展会问了：交换机，HDMI光端机 ； 展会问了：交换机，HDMI光端机 / 早期ai: 50% A\n泰国通信设备品。我方报过：$170 / $240 / $280 / $300 / $6000。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 27,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "170",
+   "240",
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "627b1aa8fc0f119e"
+   },
+   {
+    "date": "2025-11-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "52f1744e976776e1"
+   },
+   {
+    "date": "2025-12-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "6af638faf9430ecb"
+   },
+   {
+    "date": "2026-01-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "a908cda221488a0c"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "50a9b605dd3a56fe"
+   },
+   {
+    "date": "2026-03-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "5b1ff72438e13b5d"
+   },
+   {
+    "date": "2026-04-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "37f5b712004f8d80"
+   },
+   {
+    "date": "2026-05-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ad1567c4ca94b715"
+   },
+   {
+    "date": "2026-06-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "3320072a7dd87937"
+   },
+   {
+    "date": "2026-07-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "5be66cb8b4bc7c63"
+   },
+   {
+    "date": "2026-08-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "3cac21c7c0830ce7"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "f68e0de76ea765a6"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

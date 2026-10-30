@@ -1,11 +1,11 @@
 # fibotelecom.ru
 **官方名称（调研核实）**：FIBO-TELECOM（fibotelecom.ru，Russia；光通信产品分销商，自有品牌 FIBO / FT-）
 
-> **评级 B**　|　俄罗斯　|　档案编号 `SB-028`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　俄罗斯　|　档案编号 `SB-028`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 MC/SFP；命中 2/6（成单/样品 ✔ · 真回 — · WA — · 对位 MC/SFP · 登记 ✔ · 体量 小型）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay、ru_payment
 >
-> **类型**：运营商/光传输采购（待补证）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：DWDM线索、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：运营商/光传输采购（待补证）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：DWDM线索、在用同行产品　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-028
@@ -20,7 +20,7 @@ region: 俄语区
 website: fibotelecom.ru
 type: 运营商/光传输采购（待补证）
 tier_tags: ["DWDM线索", "在用同行产品"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -31,14 +31,14 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯光通信产品分销商 FIBO-TELECOM（8 (800) 550-22-45；自有品牌 FIBO 兼容 SFP（FT-S1-C…CWDM 等）、PoE 交换机 FT-S118FP-2T1S（8 FE PoE + 2 GE + 1 SFP）4,841 ₽、FT-S1116FP-2T1S 11,133 ₽；DK 系列管理交换机：DK2110M-8T2S（Marvell，L2 8 GE + 2 SFP）21,424 ₽、DK2110R-8T2S（Realtek）16,664 ₽、DK2110M-24T4S（Marvell）27,614 ₽、DK2310R-24T4X（L3 Realtek 24 GE + 4 SFP+）42,850 ₽（含 VAT）；媒体转换器、DWDM）。用户表（MIPS 2024；DWDM CENTEC 线索）：采购 Anastasia Roshchupkina；买过飞宇的产品；兴趣光模块 PON、SFP、MC；备注链接其交换机目录。自有品牌 + Marvell/Realtek 双线与 Saga 完全同构 → OEM 30%（贴 FIBO 牌）。（调研 2026-10-21；表内兴趣：光模块 PON；SFP MC(光路的)  DPtek客户   后边链接）
-- **为什么是 B 级**：**调研后定级 B**（DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+2 最近活动 2024
-- **历史互动**：成交/下单过
+- **为什么是 B 级**：**调研后定级 B**（DWDM 品类非 Saga 主线（三供应商中仅 Hohunet 有 10G+/DC 线，无 DWDM 整机），俄罗斯非主攻区，且 0 互动 → 不具备 A 的'可追溯需求+可赢'条件，降 B 待机。）；自动分级 A：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+10 用户二筛：在用 Utepo/ONV/Ewind 等同行产品（贴牌切入口）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+2 最近活动 2024
+- **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — OEM 30% 档：STC-28DGGPM（Marvell 2 SFP + 8 GE PoE+ L2+，$87.4）对位 DK2110M-8T2S 的 PoE 版；Realtek 线 STC-28GPM（$62.2）对位 DK2110R；L3 STC-424XGGM(L3)（$291.5）对位 DK2310R-24T4X；Realtek 线按 HRUI 2026-09-30 进价 +30% 现算（Q-47 默认，不用 Drive 旧表价）：STC-28GPM $62.2→$77.0；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $220（48 port managed switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-21 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Анастасия, по вашей линейке DK: мы делаем те же платформы — Marvell L2+ 2 SFP + 8 GbE PoE+ под маркой FIBO 87,4 USD EXW, Realtek L2 версия 77,0 USD, L3 24 GbE + 4×10G 291,5 USD, прошивка с вашим логотипом. Какую модель DK вы сейчас закупаете в наибольшем объёме?
 - **最大未知**：年走量与现供应商
@@ -89,7 +89,7 @@ updated: 2026-10-29
 
 - `fibotelecom.ru` → Yandex 360（MX：mx.yandex.net）。俄语区云邮箱（Yandex 360）：Gmail 投递正常，但制裁环境下美元汇路和 PayPal 常走不通 → 报价前先问付款银行 / 币种，T/T 以外别承诺
 
-**假日避让（俄罗斯 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（俄罗斯 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-04 Unity Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -272,7 +272,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -280,7 +280,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-28DGGPM 按 30% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -301,7 +301,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -315,7 +315,7 @@ updated: 2026-10-29
 ```text
 Hi Anastasia,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as your FIBO DK DK2110M-8T2S at a lower landed cost, and we can ship it with neutral packaging. Current price: $87.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
@@ -342,12 +342,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 71）；人工/调研定级 → B
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 71）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

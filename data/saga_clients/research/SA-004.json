@@ -191,22 +191,217 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
   }
  ],
  "website_status_prev": "未核实（公开搜索未检索到 boecek.de 相关页面）",
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A1",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
-  "deal": "核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）",
-  "reply_class": "none",
-  "evidence": ""
+  "deal": "备注成单（非 Saga，本职公司时期）·5 电口样品（Boecek，埃森展后，WhatsApp 在联）",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024: Simon 备注/兴→买了5电口样品，需要一起买工业电源，也问了拿的2款2.5G网的价格，对机架式工业管理有兴趣，需要能支"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·5 电口样品（Boecek，埃森展后，WhatsApp 在联）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "DE · 1 次检索未命中（boeck-technology.de / sicherheitstechnik-bock.: Boecek Sec（boecek.de；用户表原值；德国）— 1 次检索未命中该域名的任何公开页面（同名 boeck GmbH Leipheim HRB 15 · 未知（域名无公开页）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-144GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024",
+    "表",
+    "Simon 备注/兴趣栏→买了5电口样品，需要一起买工业电源，也问了拿的2款2.5G网的价格，对机架式工业管理有兴趣，需要能支持CLI管理，知道Aliexpress, 比较在意运费和进口"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "未知",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "德国·分销商；登记线索：DE · 1 次检索未命中（boeck-technology.de / sicherheitstechnik-bock.: Boecek Sec（boecek.。往来 2024→2026-09-23：我方去信 15 封（A 15 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024 表: Simon 备注/兴趣栏→买了5电口样品，需要一起买工业电源，也问了拿的2款2.5G网的价格，对机架式工业管理有兴趣，需要能支持CLI管理，知道Aliexpress, 比较在意运费和进口。我方报过：$170 / $280 / $300。对位：STI-144GP；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 15,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-23",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bdd28cfa0d588d4c"
+   },
+   {
+    "date": "2025-09-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ba975ecf1f36ee09"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "f5bee0258f4e00bc"
+   },
+   {
+    "date": "2025-11-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e33689d8544d61b7"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "355c12b136027ac5"
+   },
+   {
+    "date": "2026-01-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "75b3f3243ba02ed4"
+   },
+   {
+    "date": "2026-03-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "ec1d44a6dea70ef9"
+   },
+   {
+    "date": "2026-05-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "e88d88fb00a8c145"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "35099bd9be4e5fd7"
+   },
+   {
+    "date": "2026-07-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "ba336924ea0fbf81"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "3711c54c803677ad"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "7c09d3b669698238"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

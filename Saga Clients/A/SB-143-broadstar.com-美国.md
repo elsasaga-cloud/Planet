@@ -12,7 +12,7 @@ code: SB-143
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 BroadStar：AON 社区光
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 BroadStar：AON 社区光
 name_official: "BroadStar, Inc.（BroadStar Communications，broadstar.com，West Palm Beach, FL）"
 score: 55
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：佛州西棕榈滩的社区型「bulk」光纤 ISP/电视/VoIP 运营商（1994 年成立，51–200 人，营收 $18.9M 口径）：为 HOA、公寓、公寓楼协会、养老社区、酒店提供 FTTH，**采用 AON（有源光网络）——每户一对专属光纤到中心机房**，最高 5 Gig（2 Gig 为最常见 bulk 档，52 个社区中 24 个）；持续改造社区（2024 Tuscany of Palm Beach、2025 Jupiter Lakes Villas）。AON 架构 = 每个社区机房需要大量 SFP 端口 L3 汇聚交换机——与 Saga 全光 L3 机型强相关。用户表：WhatsApp 已加，23 次跟进 0 回复。（调研 2026-10-21；表内兴趣：对2.5G/10G有兴趣 工业级）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 BroadStar：AON 社区光纤 ISP，48×SFP 全光汇聚对位 STC-448XGGMO）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 BroadStar：AON 社区光纤 ISP，48×SFP 全光汇聚对位 STC-448XGGMO）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 23 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 23 次（2023-08-16 → 2025-10-31）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGMO — 运营商自用 25% 档：STC-448XGGMO（48×1G SFP + 4×10G SFP+，L3，全光）为 AON 社区机房汇聚机；小社区 STC-4168XGGCM；非 PoE 接入 STC-424XGGM；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For an AON build where every unit gets its own fibre pair, a 48-port all-SFP L3 switch with 4×10G SFP+ uplinks at $654 EXW per unit changes the per-community cost; one question: do your community headends require UL-listed switches, or is FCC sufficient?
@@ -165,7 +165,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Tyler Bell（CEO = 拍板人（抄送）（第 105 批 官方登记核实 2026-10-28）） 〔https://www.linkedin.com/company/broadstar-communications〕
 - **KP**：Douglas Bell（President & Owner（The BroadStar Companies）（第 105 批 官方登记核实 2026-10-28）） 〔https://www.broadstar.com/douglas-bell/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 BroadStar：AON 社区光纤 ISP，48×SFP 全光汇聚对位 STC-448XGGMO
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 BroadStar：AON 社区光纤 ISP，48×SFP 全光汇聚对位 STC-448XGGMO
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -233,6 +233,34 @@ updated: 2026-10-30
 | 2025-10-31 | 1031 | solar |  | Whatsapp |  | US.xlsx#256 |
 | ? | 75 | 4 8 16口工业FS |  | Whatsapp |  | US.xlsx#256 |
 | ? | 92 | bypass |  | Whatsapp |  | US.xlsx#256 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | US · 1 次检索：Sunbiz（BROADSTAR COMMERCIAL COMMUNICATIONS LLC；L1: BroadStar Commercial Communications LLC（BroadStar；broadstar. · FL Sunbiz L14000110165（FEI 47-13489… |
+| ② 角色 / 对位 | ISP/运营商 | 对位词：ethernet fiber sfp switch 交换机 光纤 网络；P1 STC-448XGGMO |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：美国·ISP/运营商；登记坐实：US · 1 次检索：Sunbiz（BROADSTAR COMMERCIAL COMMUNICATIONS LLC；L1: BroadStar Commerci。往来 2026-03-09→2026-08-28：我方去信 8 封（A 7 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280。对位：STC-448XGGMO；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-03-09 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-13 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-05-06 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-16 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-08 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-29 | 去 | A | WiFi 7 Ready Access Switch |  |
+| 2026-08-28 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-28 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

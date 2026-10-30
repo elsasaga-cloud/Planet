@@ -361,16 +361,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "PI包·gg",
   "why_not": "",
   "excl": "",
   "deal": "PI包·gg",
   "reply_class": "R+",
-  "evidence": "[A 2025-07-23] Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* ‖ [A 2025-07-24] Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote: ‖ 研 2025-07-18 John Davis: I just made the payment / 2025-07-22 sales@52networks.com: Any update on this order? On Fri, 18 Jul 2025 at 17:24, Alan from Saga Teleco"
+  "evidence": "[A 2025-07-23] Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* ‖ [A 2025-07-24] Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote: ‖ 研 2025-07-11 John Davis（附件 Xerox Scan_07102025162250.pdf）: GSA Advantage 页：UNMANAGED HARDENED GIGABIT ETHERNET POE+ SWITCH · Transition Net / 2025-07-12 John（52 "
  },
  "override_history": [
   {
@@ -380,8 +380,230 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA e: 52 NETWORKS, INC. · UEI FV4KBSNE5S75 · CAGE 907X4 · Virginia · Active（SAM.gov 注册有效至 2027-06-1 · 2018-03-12"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STI-110GE",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-07-18",
+    "A",
+    "Hi Alan, I just made the payment. Thank you *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networks.com <leo"
+   ],
+   [
+    "2025-07-18",
+    "A",
+    "Okay I will make the payment today. On Fri, 18 Jul 2025 at 12:19, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:"
+   ],
+   [
+    "2025-07-18",
+    "A",
+    "With Power Supply. Send me a paypal link, and how soon I can get it? On Fri, 18 Jul 2025 at 06:10, Alan from Saga Telecom < a.sagatelecom@gm"
+   ],
+   [
+    "2025-07-22",
+    "A",
+    "Any update on this order? On Fri, 18 Jul 2025 at 17:24, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:"
+   ],
+   [
+    "2025-07-23",
+    "A",
+    "Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sale"
+   ],
+   [
+    "2025-07-23",
+    "A",
+    "some time yes, it depends *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networks.com <leo.marcus@52networks"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-07-24（15 月前）"
+  ],
+  "size": "1–10；SAM 自报营收 $0–1M（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·分销商；登记坐实：USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA e: 52 NETWORKS, INC. 。往来 2025-01-17→2026-08-14：我方去信 25 封（A 23 / S 1），对方真人来信 14 封 + 表内/备注 0 条；对方问过：2025-07-18 A: With Power Supply. Send me a paypal link, and how soon I can get it? On Fri, 18 Jul 2025 at 06:10, Alan from Saga Telecom < a.sagatelecom@gm ‖ 2025-07-22 A: Any update on this order? On 。我方报过：$12 / $40 / $58 / $98 / $170 / $240。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-07-24（15 月前）。",
+  "n_out": 25,
+  "n_in": 14,
+  "last_in": "2025-07-24",
+  "last_out": "2026-08-14",
+  "prices_out": [
+   "12",
+   "40",
+   "58",
+   "98",
+   "170",
+   "240"
+  ],
+  "timeline": [
+   {
+    "date": "2025-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "66b4b7dfa63f556c"
+   },
+   {
+    "date": "2025-07-23",
+    "dir": "in",
+    "box": "A",
+    "from": "sales@52networks.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ||* 52 Networks Inc. *Email: sales@52networks.com <le",
+    "prices": [],
+    "bulk": false,
+    "k": "4c795d0602544325"
+   },
+   {
+    "date": "2025-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3b51c9a34e2f070c"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "in",
+    "box": "A",
+    "from": "sales@52networks.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+    "prices": [],
+    "bulk": false,
+    "k": "3e1537243520fa28"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "73fb7a30e65cf123"
+   },
+   {
+    "date": "2025-09-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d1554bcbf1840d8d"
+   },
+   {
+    "date": "2025-11-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "497ae8eb612774f6"
+   },
+   {
+    "date": "2026-01-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "10c872f7a5886fdf"
+   },
+   {
+    "date": "2026-02-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "New Product Links",
+    "gist": "New Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "83e294d20ad5fdbf"
+   },
+   {
+    "date": "2026-05-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7481e38590891a23"
+   },
+   {
+    "date": "2026-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "a8f6c109e3225978"
+   },
+   {
+    "date": "2026-08-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9fc5dd871aabe856"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

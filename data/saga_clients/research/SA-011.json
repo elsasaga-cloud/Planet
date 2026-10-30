@@ -346,16 +346,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-05→2024-05）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-05-30] Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards ‖ 表 2024.5.30: 发了10G MC信息→datasheet ‖ 研 2024-05-30 Marco Di Valerio（COO）: please could you send data sheet please / 2024-05-30 marco.divalerio@cxr.fr: Re: 10g media converter｜Hi Simon,  Thanks, please could you send data sheet plea"
+  "evidence": "[S 2024-05-30] Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards ‖ 表 2024.5.30: 发了10G MC信息→datasheet"
  },
  "override_history": [
   {
@@ -365,8 +365,218 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-05→2024-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-05→2024-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-05→2024-05）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）: CXR ANDERSON JACOBSON（SAS） · SIREN 785754706（总部 SIRET 78575470600139） · Active（etat_administratif A；IN · 1983-04-10"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-05-30",
+    "S",
+    "Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards"
+   ],
+   [
+    "2024.5.30",
+    "表",
+    "发了10G MC信息→datasheet"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-05-30（29 月前）"
+  ],
+  "size": "20–49（INSEE 2024 员工档 12）（第 83 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "法国·OEM 品牌商；登记坐实：France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）: CXR ANDERSON JACOBS。往来 2024-05-30→2026-09-08：我方去信 26 封（A 0 / S 26），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-05-30 S: Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards ‖ 2024.5.30 表: 发了10G MC信息→datasheet。我方报过：$65 / $170 / $240 / $280 / $300 / $1500。对位：STI-288DGGPM；路径：企业邮箱；最近来信 2024-05-30（29 月前）。",
+  "n_out": 26,
+  "n_in": 1,
+  "last_in": "2024-05-30",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "1500"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "L3 Managed Switch",
+    "gist": "L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d968b391d1f6ed2e"
+   },
+   {
+    "date": "2025-07-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4f8a46eeb6c57ca3"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "327a21504f3b8ee9"
+   },
+   {
+    "date": "2025-09-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "505d7237bf81a551"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "a93909c35addd96e"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7032f713bb960ab9"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "142ffc867b82f50c"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "e4f0489ab151512c"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "e86e1ce143e962f7"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "95a3d82e76ee8e39"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port 10G SFP+ Switch",
+    "gist": "24 Port 10G SFP+ Switch",
+    "prices": [
+     "1500"
+    ],
+    "bulk": false,
+    "k": "00f989b452b62e8b"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "31c3846e3e090787"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

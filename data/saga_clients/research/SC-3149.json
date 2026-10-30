@@ -17,8 +17,8 @@
    "source": "Elsa 邮箱 2026-02-26"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（E；2026-02→2026-02）",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
  "deep": {
   "done_at": "2026-10-25",
@@ -117,6 +117,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 巴基斯坦 · 集成 25% + 预付 100%：Starcom Technologies (Pvt) Ltd（Karachi Saddar；2004；22–32 人；$5.3M；CEO Asghar Ali）部分坐实（SECP 未取）；2026-02 真人回「请用公司域名邮箱发」✔ Raisecom 采购 ✔ 对位 ✔ 决策人具名 ✔ → P 池候选（用 sagatele.com 域名重发）；闸 1：巴基斯坦 Starcom（starcom.com.pk / starcom.net.pk；switch + 安防，从 Raisecom 买一些产品；OTN 方案商；2026-02-26 真人回「Please send us email f…",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（E；2026-02→2026-02）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（E；2026-02→2026-02）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
   }
  ],
  "lt_review": {
@@ -152,15 +160,15 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A2",
-  "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（E；2026-02→2026-02）",
-  "why_not": "",
+  "batch": "AB-FINAL-02",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2026-02-26] Hi Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business ‖ 研 2026-02-26 Asghar Ali（Starcom Technologies）: Please send us email from your company Email domain. Like SAGA web site. Not fro"
+  "evidence": "[E 2026-02-26] Hi Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business"
  }
 }

@@ -32,9 +32,9 @@ DATE = '2026-10-30'
 OUT_CSV = os.path.join(SD, f'A类终评_{DATE}.csv')
 OUT_JSON = os.path.join(SD, f'A类终评_{DATE}.json')
 
-# ---- 人工核定：Saga 时代真实成单 / 样品单（PI 包之外；来源 = 用户表备注 + 研究档，见各户 research.summary）
-DEAL_CURATED = {
-    'SB-003': 'PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）', 'SA-004': '5 电口样品（Boecek，埃森展后，WhatsApp 在联）', 'SA-018': 'PoE 电源常下单（Sewell，复购型）', 'SA-022': '6 台 MC 样品（Addon）',
+# ---- 2026-10-30 Simon 澄清：Saga 成交客户只有 PI 包 20 户；下面这些「备注成单/样品单」是 Simon 本职公司时期的单，不算 Saga 成交（保留作历史互动线索，不进 A1）
+DEAL_NOT_SAGA = {
+    'SA-004': '5 电口样品（Boecek，埃森展后，WhatsApp 在联）', 'SA-018': 'PoE 电源常下单（Sewell，复购型）', 'SA-022': '6 台 MC 样品（Addon）',
     'SB-005': '工业 PoE FS 样品单（Rovez）', 'SB-009': '成单（Sicurmax，用户表）', 'SB-011': '成单客户（greentechme，用户表）', 'SB-013': '样品单 MC 25km + 8 口网管 PCB（Synchcom）',
     'SB-241': '2 个 90W PoE 注入器样品（Głuszek）', 'SB-320': '成单客户（Kryukov，用户再筛选表）', 'SB-441': '€50 光模块 + 转换器（Metal Union，微单）',
     'SB-976': '成交 2 次（Boltaev，俄语区名单）', 'SB-1115': '2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）', 'SC-259': 'ISAF 2025 现场购 1 台（CEUIK）',
@@ -71,9 +71,7 @@ FIT_CURATED = {
     'SB-256': '波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）',
     'SB-248': '美国 Nelly\'s Security：安防电商 switch 75 SKU（同类替代对位）',
     'SB-542': '德国 lanopia：光纤/铜缆增值分销，poe 247 / industrial 126 词频（对位）',
-    'SB-356': '美国 InfiniCore：网络分流/可视化厂商，Bypass/TAP 配套（需 SmartByte 回退）',
     'SB-988': '美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡',
-    'SB-1117': '南非 Switchcom：网络设备分销商，两次把 Saga 当买家 → 需换话术（对位分销）',
     'SB-949': '澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位）',
     'SB-343': '印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）',
     'SB-1031': '英国 Ralakde：工业自动化备件贸易（工业交换机配套）',
@@ -110,8 +108,8 @@ def load():
     return ents, dossier, sieve, research
 
 
-def research_inbound(rs):
-    """研究档 mail_review.facts 中 dir=来 的来信（U130/U131 人工抄录）→ (date, who, quote)。"""
+def research_inbound(rs, seen_keys=(), seen_texts=()):
+    """研究档 mail_review.facts 中 dir=来 的来信（U130/U131 人工抄录）→ (date, who, quote, cls)；与回信档案同一封（k 相同或正文重合）的去重。"""
     out = []
     ROBOT = re.compile(r'机器人|自动|postmaster|mailer|noreply|no-reply|用户表|Simon 跟进', re.I)
     AUTOQ = re.compile(r'^(?:automatic reply|thank you for contacting|thank you for your email, please select|we have received|your message|the email address .* is obsolete|（gmail emoji|.*couldn.t be delivered)', re.I)
@@ -120,8 +118,13 @@ def research_inbound(rs):
             who, q = str(f.get('who', '')), str(f.get('quote', ''))
             if ROBOT.search(who) or AUTOQ.search(q.strip()):
                 continue
+            if f.get('k') and f.get('k') in seen_keys:
+                continue
             subj, _, txt = q.partition('｜')
-            cls = classify_msg(subj if _ else '', (txt or q).strip(), who, who)
+            body = (txt or q).strip()
+            if any(t and (t[:40] in body or body[:40] in t) for t in seen_texts):
+                continue
+            cls = classify_msg(subj if _ else '', body, who, who)
             if cls not in ('pos', 'weak', 'neg'):
                 continue
             out.append((str(f.get('date', '')), who, q[:200], cls))
@@ -134,15 +137,17 @@ def main():
     pi_codes = {}
     for k, v in pi_map.items():
         code = v.get('code') if isinstance(v, dict) else v
+        if code == '旧B-1335':
+            code = 'SB-003'  # rio-import 并入 SB-003（2026-10-24 归并）
         if code in ents:
-            pi_codes[code] = (ents[code].get('pi') or {}).get('simon', '')
+            pi_codes[code] = (ents[code].get('pi') or {}).get('simon', '') or '成单'
     tbl = {r['档案编号']: r for r in csv.DictReader(open(os.path.join(SD, '客户主表.csv'), encoding='utf-8-sig'))}
     rows = []
     for c, e in ents.items():
         rs = research.get(c) or {}
         d = dossier.get(c)
         rc = d['reply_class'] if d else 'none'
-        rin = research_inbound(rs)
+        rin = research_inbound(rs, {m['k'] for m in (d['msgs'] if d else [])}, [m['excerpt'] for m in (d['msgs'] if d else []) if m['cls'] != 'auto'])
         if c in MANUAL['not_reply'] and rc not in ('none',):
             rc = 'auto'
             rin = []
@@ -157,8 +162,8 @@ def main():
         deal = ''
         if c in pi_codes:
             deal = f'PI包·{pi_codes[c] or "成单"}'
-        elif c in DEAL_CURATED:
-            deal = '核定成单·' + DEAL_CURATED[c]
+        elif c in DEAL_NOT_SAGA:
+            deal = '备注成单（非 Saga，本职公司时期）·' + DEAL_NOT_SAGA[c]
         elif c in DEAL_OLD:
             deal = '老成单·品类/年代不符·' + DEAL_OLD[c]
         elif c in DEAL_SIMON_NO:
@@ -175,6 +180,8 @@ def main():
             excl.append('中国大陆')
         if rs.get('q33_hold') or '代理商客户' in ' '.join(e.get('tags') or []):
             excl.append('Q-33 代理商客户')
+        if re.search(r'国铁|铁路|轨交|railway|dzelzceļš|军工|tactical|军方|战术', str(rs.get('type', '')) + ' ' + str(e.get('name', ''))) and c not in pi_codes:
+            excl.append('守界行业（轨交/军工）')  # 只看主业（type / 名称），summary 里提到军工项目的不算（如 SA-049 只谈自动化/商用）
         if not (e.get('emails') or []) and not (e.get('flags') or {}).get('wa_added') and c not in pi_codes:
             excl.append('无联系路径（无邮箱无 WA）')
         sv = (sieve.get(c) or {}).get('verdict')
@@ -192,7 +199,7 @@ def main():
                 thin_far = True
         grade_now = e.get('grade')
         tier, reason = '', ''
-        if deal.startswith('PI包') or deal.startswith('核定成单'):
+        if deal.startswith('PI包'):
             tier = 'A1'
             reason = deal
             if '永久 pass' in excl:
@@ -230,7 +237,7 @@ def main():
             elif deal.startswith('老成单'):
                 why_not = deal
             elif deal:
-                why_not = deal
+                why_not = deal + '（Simon 2026-10-30：非 Saga 成交）'
             elif grade_now == 'A':
                 why_not = '无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）'
         ev = ''

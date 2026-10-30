@@ -8,7 +8,7 @@
 code: SB-949
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源
 score: 27
 country: 澳大利亚
 region: 亚太
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：澳大利亚 KSM（ksm.com.au：工业 MC「很多外壳 有像国内的」、常总的工业 FS、商业 FS、SFP；产品页 industrial-grade-managed-l2-ethernet-switch-l2t4m；KP Kevin（质量高）；官网 unreachable）；群发 22 次无回复。（调研 2026-10-21；表内兴趣：工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/澳大利亚；+5 最近活动 2025；-16 推送 22 次无任何回复（聋名单）
 - **历史互动**：推送 22 次（2024-04-30 → 2025-10-20）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（1/32 封有打开记录）：「Industrial PoE Switch」(2025-08-12) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-25 $65（10G fiber media converter）、2024-11-22 $300（48 Port PoE Managed Switch）、2024-12-23 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -145,7 +145,7 @@ updated: 2026-10-30
   > 工业MC 很多外壳 有像国内的 常总的工业FS 商业FS SFP
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Kevin（Director（官网署名「Kevin - Director」；22 次跟进无回复）= 拍板人 / 收件人 — 一页纸一次（最后一次）：分销 20% B small、STI-288DGGPM $137 / STI-488DGGPM $147 / STI-154GP 宽温 + 3 年保 + MOQ 1 + 付费样机、与现供应商同级比价 — 澳洲常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、RCM 不声称（DAP 买方清关）（第 118 批 官方登记核实 2026-10-28））kevin@ksm.com.au 〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·澳大利亚 KSM：工业网络经销，国内货源在供（同类替代对位）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
@@ -216,6 +216,38 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 2025-10-20 | 1020 | 10gmc |  | A |  | AU.xlsx#5 |
 | ? | 77 | 4 24 |  | A |  | AU.xlsx#5 |
 | ? | 99 | 28poe |  | A |  | AU.xlsx#5 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | AU · 1 次检索：ksm.com.au/terms-conditions（KSM Australia Pty Ltd: KSM Australia Pty Ltd / KSM Solutions 网店（ksm.com.au；**ABN 98 · ABN 98 071 589 690 · 营业中（官网 2026；AB… |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber industrial media converter poe sfp switch 工业；P1 STI-280GE |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-07-19（27 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：澳大利亚·分销商；登记坐实：AU · 1 次检索：ksm.com.au/terms-conditions（KSM Australia Pty Ltd: KSM Australia Pty 。往来 2024-04-29→2026-09-04：我方去信 32 封（A 24 / S 8），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $170 / $240 / $280 / $300。对位：STI-280GE；路径：企业邮箱；最近来信 2024-07-19（27 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-11-10 | 去 | A | Booster PoE Switch |  |
+| 2025-11-27 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-18 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-08 | 去 | A | OEM Core Switching Solution |  |
+| 2026-01-29 | 去 | A | Managed Optical Bypass Switch |  |
+| 2026-03-16 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-08 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-05-04 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-29 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-24 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-09-04 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

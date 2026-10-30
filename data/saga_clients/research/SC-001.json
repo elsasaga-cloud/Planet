@@ -35,8 +35,8 @@
    "date": "2026-10-21"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2024-09）",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：排除：守界行业（轨交/军工）",
  "notes": "用户如认为以色列项目配套值得主动跟，可在 人工定级.csv 改回 A。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -113,13 +113,13 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A2",
-  "target": "A",
-  "grade_before": "C",
-  "reason": "真回信 1 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2024-09）",
-  "why_not": "",
-  "excl": "",
+  "batch": "AB-FINAL-02",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "排除：守界行业（轨交/军工）",
+  "excl": "守界行业（轨交/军工）",
   "deal": "",
   "reply_class": "R+",
   "evidence": "[S 2024-09-09] 8 POE 130 W ? Shimon Lazarovitch CEO SSL Communication & Security Official representative of SILVUS in Israel  ‖ 表 2024.9.9: 8电口→130W??"
@@ -132,6 +132,14 @@
    "to": "A",
    "prev_reason": "守界：SSL（sslcom.com）为以色列无线/战术通信方案商，代理 SILVUS、Microhard 等战术电台，案例含 Indian Army Communication、SILVUS Tactical Solutions——主业军用通信（INH 规则：军用不供）；历史成交仅为 240 W/24 V 电源类",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2024-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2024-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：排除：守界行业（轨交/军工）"
   }
  ]
 }

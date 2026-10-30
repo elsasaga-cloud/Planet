@@ -12,7 +12,7 @@ code: SB-077
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商
 name_official: "LivEye GmbH（Föhren/Trier, Rheinland-Pfalz, DE；liveye.com；移动视频监控塔制造与服务商）"
 score: 60
 country: 德国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国 Föhren 的移动视频监控塔制造商与全服务安防商（2018/2019 年成立，创办人 Marc Thurn；2022-09 Nord Holding 收购 70%；总经理 Carsten Simons，2025-10 增任 Markus Diederichs；约 95–130 人，D-A-CH + 波兰 5 个站点；2024 年在 Badem 自建生产基地；LinkedIn 51–200）：LivEye PRO 2.0 / PRO SOLAR / ONE+ / LIGHT+ / FALCON / DOCU 系列视频塔 2,000+ 套在市、自营 24/7 监控中心、德国服务器；客户从工商业、建筑工地到电厂/关键基础设施（守界：KRITIS 项目不供）。每台视频塔内需 1 台宽温 DC 供电 PoE 交换机——Saga STI 系列可作配套件。用户记录：展会交流对方仅附和；WhatsApp 已加，7 次跟进 0 回复。（调研 2026-10-21；表内兴趣：给他说了工商POE交换机，他没说太多，一直附和着回答，名片里面显示是安防产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位））；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位））；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 7 次（2025-04-11 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — OEM/配套 30% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，DC 44–57 V，−40~+75 ℃，$36.9）作视频塔标准件；多摄像塔 STI-288DGGPM（$137.5）；2.5G/10G 回传塔 STI-480XGGM。已打开的主题（1/15 封有打开记录）：「16 Port Ethernet Switch」(2025-07-14) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-18 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：For the camera tower BOM, a DIN-rail 4-port gigabit PoE switch with SFP uplink, 44–57 V DC input and −40 to +75 °C rating is $36.9 EXW in volume — what PoE budget per tower do your PRO SOLAR units allow?
@@ -157,7 +157,7 @@ updated: 2026-10-30
   > 来源：https://de.linkedin.com/company/liveye-gmbh（抓取 2026-10-21）
 - **KP**：Carsten Simons（Geschäftsführer（2021-03 登记单独代表权；创始人型）= 老板（第 93 批 官方登记核实 2026-10-28））info@liveye.com（公司公开） —〔https://git-sicherheit.de/de/business-partner/liveye-gmbh/〕
 - **KP**：Markus Diederichs（Geschäftsführer（**2025-09 起**，与 Carsten Simons 共同；前 BDO Cyber Security；主推「自研 / 德国制造 / 主权」；HRB 44506 Wittlich）= 新拍板人（第 93 批 官方登记核实 2026-10-28））—（未公开） —〔https://www.dersicherheitsdienst.de/news/565-liveye-beruft-markus-diederichs-in-die-geschaeftsfuehrung〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 WA 季度触达。
 
@@ -218,6 +218,38 @@ WA 季度触达。
 | ? | 59 | bypass |  | A |  | DE 1.22.xlsx#102 |
 | ? | 69 | 22迷你 |  | A |  | DE 1.22.xlsx#102 |
 | ? | 95 | 24poe |  | A |  | DE 1.22.xlsx#102 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittli: LivEye GmbH（HRB 44506 Wittlich；Föhren）— 移动视频监控塔制造商 · HRB 44506（Amtsgericht Wittlich）；USt-IdNr · Ak… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din poe 交换机；P1 STI-144GP |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | ≈95 人、5 地点（DACH + 波兰）；营收 €4–21M 区间 |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：德国·集成商/安装商；登记坐实：DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittli: LivEye GmbH（HRB 44。往来 2025-04-11→2026-09-23：我方去信 16 封（A 15 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280。对位：STI-144GP；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-05 | 去 | A | Industrial PoE Switch |  |
+| 2025-10-06 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-04 | 去 | A | Booster PoE Switch |  |
+| 2025-12-17 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-23 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-27 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-05-04 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-02 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-08 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-08-18 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-23 | 去 | A | Managed PoE Switches |  |
+| 2026-09-23 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

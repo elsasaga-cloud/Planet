@@ -42,8 +42,8 @@
    "source": "官网 + 用户 Clients 表"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-11→2025-05）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Born Electronics Limited（英国 2019 年注册，Companies House 最新账目「休眠」；官网挂 BI 系列白牌工业交换机）：疑为国产工业交换机品牌的英国前台 → 同行/卖家，不进 A",
  "notes": "不投入；若对方以采购身份主动来再核实经营实体。",
  "researched_at": "2026-10-21",
  "mail_review": {
@@ -98,16 +98,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-11→2025-05）",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-11→2025-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-11-17] Hi, Do u have 48 Port 10G switches ? ‖ [A 2025-05-18] Do you have chaise and stackable switches?? ‖ 表 2024.11.15: 48口→48 port 10g  也问了stacking ‖ 研 2024-11-17 info@bornelectronics.com: Do u have 48 Port 10G switches ? / 2025-05-18 info@bornelectronics.com: Do you have chaise and stackable switches??"
+  "evidence": "[S 2024-11-17] Hi, Do u have 48 Port 10G switches ? ‖ [A 2025-05-18] Do you have chaise and stackable switches?? ‖ 表 2024.11.15: 48口→48 port 10g  也问了stacking"
  },
  "override_history": [
   {
@@ -117,6 +117,221 @@
    "to": "A",
    "prev_reason": "公司账目为休眠（无实际经营），产品站为国产白牌工业交换机型号目录，更像同行品牌的英国壳/前台而非渠道买家；1 次回复（2024）后无后续。c_sub=疑似同行/休眠公司。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-11→2025-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-11→2025-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-11→2025-05）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-11→2025-05）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Born Electronics Limited（英国 2019 年注册，Companies House 最新账目「休眠」；官网挂 BI 系列白牌工业交换机）：疑为国产工业交换机品牌的英国前台 → 同行/卖家，不进 A"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "Born Electronics Limited（英国，公司号 12222108）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "din",
+   "poe",
+   "sfp",
+   "交换机",
+   "工业"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-11-17",
+    "S",
+    "Hi, Do u have 48 Port 10G switches ?"
+   ],
+   [
+    "2024.11.15",
+    "表",
+    "48口→48 port 10g  也问了stacking"
+   ],
+   [
+    "2025-05-18",
+    "A",
+    "Do you have chaise and stackable switches??"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-05-18（17 月前）"
+  ],
+  "size": "微型（休眠账目）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "人工终判：Born Electronics Limited（英国 2019 年注册，Companies House 最新账目「休眠」；官网挂 BI 系列白牌工业交换机）：疑为国产工业交换机品牌的英国前台 → 同行/卖家，不进 A"
+  ],
+  "story": "英国；研究档法定名：Born Electronics Limited（英国，公司号 12222108）。往来 2024-07-10→2026-08-10：我方去信 20 封（A 13 / S 7），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2024-11-17 S: Hi, Do u have 48 Port 10G switches ? ‖ 2024.11.15 表: 48口→48 port 10g  也问了stacking ‖ 2025-05-18 A: Do you have chaise and stackable switches??。我方报过：$65 / $170 / $280 / $300。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-05-18（17 月前）。",
+  "n_out": 20,
+  "n_in": 2,
+  "last_in": "2025-05-18",
+  "last_out": "2026-08-10",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Software Function List",
+    "gist": "Marvell Software Function List",
+    "prices": [],
+    "bulk": false,
+    "k": "d95b3c0931625486"
+   },
+   {
+    "date": "2025-05-18",
+    "dir": "in",
+    "box": "A",
+    "from": "info@bornelectronics.com",
+    "subj": "RE: Marvell Software Function List",
+    "gist": "Do you have chaise and stackable switches??",
+    "prices": [],
+    "bulk": false,
+    "k": "12ebdab48d371a59"
+   },
+   {
+    "date": "2025-05-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Software Function List",
+    "gist": "Re: Marvell Software Function List",
+    "prices": [],
+    "bulk": false,
+    "k": "06813c60a4154b0e"
+   },
+   {
+    "date": "2025-07-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8b2b5d63c47951db"
+   },
+   {
+    "date": "2025-08-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "8ef4482d2f074f41"
+   },
+   {
+    "date": "2025-09-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "L3 Managed Switch",
+    "gist": "L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "764010f6d7d008dd"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "60d521dbe5be17ab"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "56232f4f57159870"
+   },
+   {
+    "date": "2025-11-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "79558e9b94e95086"
+   },
+   {
+    "date": "2025-12-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "c0eb1f430ff8ff02"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "8fc17d80a3a88bd4"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "85d8279b20e41da9"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

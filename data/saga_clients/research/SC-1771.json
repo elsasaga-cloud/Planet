@@ -20,7 +20,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（A；2026-05→2026-09）",
  "notes": "（建档：T29-U42 第 15 批，由 A 邮箱附件 RFP 触发；C 级人工定级不改，建议 Simon 复核升 B）",
  "deep": {
   "done_at": "2026-10-24",
@@ -135,16 +135,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
-  "reason": "真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09）",
+  "grade_before": "A",
+  "reason": "真回信 5 封 / 表内 0 条 / 研究档 1 条（A；2026-05→2026-09）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-07-29] Hi Alan, I hope this message finds you well. we are currently seeking support for the following requirements.  ‖ [A 2026-09-16] Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each ‖ 研 2026-07-29 Tarun（附件 Switch 8 x Gig + 2x SFP RFP.xlsx / 24 Port + 4 SFP POE Switch.xlsx）: 8 口：Fixed ports 8*10/100/1000M + 2*1G/2.5G/10G SFP+ · 56Gbps · Fan less · Power  /"
+  "evidence": "[A 2026-07-29] Hi Alan, I hope this message finds you well. we are currently seeking support for the following requirements.  ‖ [A 2026-09-16] Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each ‖ 研 2026-05-18 Tarun Jain Lalwani（Director Sales）: List of Saga switches support (ERPS) Ethernet Ring Protection Switching (version / 2026-07-29 Tarun（附件 Switch 8 x Gig + 2x S"
  },
  "override_history": [
   {
@@ -154,6 +154,227 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（A；2026-05→2026-09）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "TELEXCELL INFRANET SOLUTIONS PRIVATE LTD."
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "sfp",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM / STC-424XGGPM-280W / STI-41616XGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-05-18",
+    "A",
+    "*Hi Alan,* *List of Saga switches support (ERPS)Ethernet Ring Protection Switching (version ERPSv1 & ERPSv2) also called ITU -T G.8032/ Y.13"
+   ],
+   [
+    "2026-07-29",
+    "A",
+    "Hi Alan, I hope this message finds you well. we are currently seeking support for the following requirements. 1) 8 Port + 2 SFP1G/10G L2+ Ma"
+   ],
+   [
+    "2026-07-29",
+    "A",
+    "Hi Alan, Please find attached the RFP for compliance Regards, Tarun Jain Lalwani Director Sales TELEXCELL INFRANET SOLUTIONS PRIVATE LTD. M:"
+   ],
+   [
+    "2026-07-29",
+    "R",
+    "we are currently seeking support for the following requirements. 1) 8 Port + 2 SFP 1G/10G L2+ Managed POE Switch with DC & AC Power -100 2) "
+   ],
+   [
+    "2026-09-16",
+    "A",
+    "Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each"
+   ],
+   [
+    "2026-09-16",
+    "R",
+    "Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2026-09-16（1 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "印度·分销商；研究档法定名：TELEXCELL INFRANET SOLUTIONS PRIVATE LTD.。往来 2025-04-09→2026-09-16：我方去信 9 封（A 8 / S 0），对方真人来信 5 封 + 表内/备注 0 条；对方问过：2026-07-29 A: Hi Alan, Please find attached the RFP for compliance Regards, Tarun Jain Lalwani Director Sales TELEXCELL INFRANET SOLUTIONS PRIVATE LTD. M: ‖ 2026-07-29 R: we are currently seeking supp。我方报过：$170 / $240 / $280 / $6000。对位：STC-28DGGPM / STC-424XGGPM-280W / STI-41616XGGPM；路径：企业邮箱 MX ok + WA；最近来信 2026-09-16（1 月前）。",
+  "n_out": 9,
+  "n_in": 5,
+  "last_in": "2026-09-16",
+  "last_out": "2026-07-29",
+  "prices_out": [
+   "170",
+   "240",
+   "280",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2026-05-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "834d861fee3e26b5"
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c5a42bea38627e11"
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "in",
+    "box": "A",
+    "from": "tarun@telexcell.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "*Hi Alan,* *List of Saga switches support (ERPS)Ethernet Ring Protection Switching (version ERPSv1 & ERPSv2) also called ITU -T G.8032/ Y.1344.* *Regards,* *Tar",
+    "prices": [],
+    "bulk": false,
+    "k": "95dd92cd99e3013f"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3b847576e3209d12"
+   },
+   {
+    "date": "2026-06-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "c87f7a2633efea39"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port PoE Managed Switch",
+    "gist": "Re: 24 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4d09c2041cf236e1"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "in",
+    "box": "A",
+    "from": "tarun@telexcell.com",
+    "subj": "Re: 24 Port PoE Managed Switch",
+    "gist": "Hi Alan, Please find attached the RFP for compliance Regards, Tarun Jain Lalwani Director Sales TELEXCELL INFRANET SOLUTIONS PRIVATE LTD. M: 91-8828269065 M: 91",
+    "prices": [],
+    "bulk": false,
+    "k": "f8121c4c539be168"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "in",
+    "box": "A",
+    "from": "tarun@telexcell.com",
+    "subj": "Re: 24 Port PoE Managed Switch",
+    "gist": "Hi Alan, I hope this message finds you well. we are currently seeking support for the following requirements. 1) 8 Port + 2 SFP1G/10G L2+ Managed POE Switch wit",
+    "prices": [],
+    "bulk": false,
+    "k": "f7cdc1bb7a0ca792"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "fad28a2c01e1e90b"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "in",
+    "box": "R",
+    "from": "Tarun（附件 Switch 8 x Gig + 2x SFP RFP.xls",
+    "subj": "",
+    "gist": "8 口：Fixed ports 8*10/100/1000M + 2*1G/2.5G/10G SFP+ · 56Gbps · Fan less · Power Supply DC: -32V~-78V · PoE Budget ≤120W · 0~50℃ · 4K VLAN/QinQ/GVRP/LLDP/ERPS 合规",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a att sha（见 attachments/text）"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan",
+    "subj": "",
+    "gist": "1) fine, but just single AC input, without DC input 2) fine, support single or dual AC input, without DC input 3) fine, but just dual DC input, without AC input",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 2026-07-29"
+   },
+   {
+    "date": "2026-09-16",
+    "dir": "in",
+    "box": "A",
+    "from": "jmkl@telexcell.com",
+    "subj": "Re: 32 Port 400GB DC Switch",
+    "gist": "Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each",
+    "prices": [],
+    "bulk": false,
+    "k": "0b7d537c94de77e1"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

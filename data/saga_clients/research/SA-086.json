@@ -103,7 +103,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -634,7 +634,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -643,7 +643,7 @@
   "excl": "",
   "deal": "PI包·活跃",
   "reply_class": "R+",
-  "evidence": "[A 2026-08-12] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafında ‖ [A 2026-08-12] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafında ‖ 研 2026-03-02 Ender Bulut: We have left one STI-488DGGGPM-2BT sample with our customer for basic testing… I / 2026-08-12 compliance@netas.com.tr（"
+  "evidence": "[A 2026-08-12] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafında ‖ [A 2026-08-12] [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafında ‖ 研 2026-02-09 Netaş 合规部群发（ZTE Chief Export Compliance Officer letter，EN/TR）: \"Dear Business Partner, ZTE believes that export compliance is of cr"
  },
  "override_history": [
   {
@@ -653,6 +653,218 @@
    "to": "A",
    "prev_reason": "规模大 + 守界：BIST 上市电信设备/系统集成巨头（1967 年成立；约 1,264–1,403 名员工；ZTE 持股 48.05%、土耳其武装部队基金会持股 15%）——集团级采购、ZTE 供应链关联且军方基金会股东，超出 Saga 可赢范围；PI 包成单客户，Simon 标签 活跃 → A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（: Netaş Telekomünikasyon A.Ş.（BIST: NETAS） · KAP 公司 ID 1041 · BIST 代码 NETAS · 实缴资本 64 · 上市公司，正常披露；2024 与 2025 两年无利润分配（ · 1967（北电 No"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "poe",
+   "交换机",
+   "网络"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2026-03-02",
+    "A",
+    "Thank you, Alan, for all your support. We have left one STI-488DGGGPM-2BT sample with our customer for basic testing. However, as I mentione"
+   ],
+   [
+    "2026-03-02",
+    "A",
+    "[cid:image001.png@01DCAA50.B01739D0] Sayın İş Ortağımız, 2025 Yılı İhracat Kontrolü Uyum Yönetimi Taahhüt Beyanı ile 2025 Yılı İhracat Kontr"
+   ],
+   [
+    "2026-05-05",
+    "A",
+    "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletme"
+   ],
+   [
+    "2026-05-05",
+    "A",
+    "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletme"
+   ],
+   [
+    "2026-08-12",
+    "A",
+    "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletme"
+   ],
+   [
+    "2026-08-12",
+    "A",
+    "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletme"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2026-08-12（2 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "土耳其·集成商/安装商；登记坐实：Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（: Netaş Telekomünika。往来 2025-10-13→2026-08-12：我方去信 43 封（A 32 / S 0），对方真人来信 35 封 + 表内/备注 0 条；对方问过：2026-05-05 A: [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletme ‖ 2026-05-05 A: [cid:image001.png@01DCDC99.83。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2026-08-12（2 月前）。",
+  "n_out": 43,
+  "n_in": 35,
+  "last_in": "2026-08-12",
+  "last_out": "2026-07-17",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2026-02-27",
+    "dir": "in",
+    "box": "A",
+    "from": "ebulut@netas.com.tr",
+    "subj": "RE: Industrial L2/L3 Managed Switches",
+    "gist": "Hi Alan, For the CENTEC-based solutions, the operating temperature range (0°C to 40°C) does not seem enough for our needs. Our requirement is -40°C to +71°C. Ev",
+    "prices": [],
+    "bulk": false,
+    "k": "bbdc059bf34b2fbc"
+   },
+   {
+    "date": "2026-02-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Industrial L2/L3 Managed Switches",
+    "gist": "Re: Industrial L2/L3 Managed Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "7adbcd07a050e85a"
+   },
+   {
+    "date": "2026-02-27",
+    "dir": "in",
+    "box": "A",
+    "from": "ebulut@netas.com.tr",
+    "subj": "RE: Industrial L2/L3 Managed Switches",
+    "gist": "Hi Alan, Our customer’s requirements mainly focus on integrating different networks within a container installed on a vehicle. However, high traffic bandwidth d",
+    "prices": [],
+    "bulk": false,
+    "k": "a7fc18b7d75d9cab"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Industrial L2/L3 Managed Switches",
+    "gist": "Re: Industrial L2/L3 Managed Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "812cebfaec6cbb12"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "in",
+    "box": "A",
+    "from": "ebulut@netas.com.tr",
+    "subj": "RE: Industrial L2/L3 Managed Switches",
+    "gist": "Thank you, Alan, for all your support. We have left one STI-488DGGGPM-2BT sample with our customer for basic testing. However, as I mentioned before, their main",
+    "prices": [],
+    "bulk": false,
+    "k": "2b615482de0608a5"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "in",
+    "box": "A",
+    "from": "compliance@netas.com.tr",
+    "subj": "Netaş İhracat Uyum Politikası ve Yönetim Taahhüdü / Netaş Export Compliance Poli",
+    "gist": "[cid:image001.png@01DCAA50.B01739D0] Sayın İş Ortağımız, 2025 Yılı İhracat Kontrolü Uyum Yönetimi Taahhüt Beyanı ile 2025 Yılı İhracat Kontrolü Uyum Politikası’",
+    "prices": [],
+    "bulk": false,
+    "k": "b6f20f4139ffb488"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "in",
+    "box": "A",
+    "from": "compliance@netas.com.tr",
+    "subj": "Q1/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q1/2026 Let",
+    "gist": "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının",
+    "prices": [],
+    "bulk": false,
+    "k": "5a03c24cbbeb8ee5"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "in",
+    "box": "A",
+    "from": "compliance@netas.com.tr",
+    "subj": "Q1/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q1/2026 Let",
+    "gist": "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının",
+    "prices": [],
+    "bulk": false,
+    "k": "687ce30d519ee3ee"
+   },
+   {
+    "date": "2026-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Industrial L2/L3 Managed Switches",
+    "gist": "Re: Industrial L2/L3 Managed Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "a323d408b374a3d1"
+   },
+   {
+    "date": "2026-08-12",
+    "dir": "in",
+    "box": "A",
+    "from": "compliance@netas.com.tr",
+    "subj": "Q2/2026 Baş İhracat Uyum Yöneticisinden Tüm İş Ortaklarına Mektup - Q2/2026 Lett",
+    "gist": "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının",
+    "prices": [],
+    "bulk": false,
+    "k": "4faf64dafc69b9ed"
+   },
+   {
+    "date": "2026-08-12",
+    "dir": "in",
+    "box": "A",
+    "from": "compliance@netas.com.tr",
+    "subj": "Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let",
+    "gist": "[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletmekten ve 2026 yılının",
+    "prices": [],
+    "bulk": false,
+    "k": "2a47ba3b4819e20e"
+   },
+   {
+    "date": "2026-08-12",
+    "dir": "in",
+    "box": "R",
+    "from": "compliance@netas.com.tr（季度群发）",
+    "subj": "",
+    "gist": "Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与管理承诺》均发到 A",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 2026-02-09 / 2026-03-02 / 2026-05-05 / 2026-08-12"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -69,7 +69,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
@@ -469,7 +469,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -478,7 +478,7 @@
   "excl": "",
   "deal": "PI包·可发展",
   "reply_class": "R+",
-  "evidence": "[A 2026-03-19] Hi Alan, Thanks for the reply. Ah, that's a shame. So, for the PoE issues: Last year PoE was working fine for  ‖ [A 2026-04-27] Hi Alan! ‖ 表 2025.6.10: 28bt→有兴趣 ‖ 研 2026-03-19 Chris: Last year PoE was working fine for all devices. The switch has been off for a co / 2026-04-27 Chris Clemson: No, the voltage is never lower than 53V recently (see attached output from Grafa"
+  "evidence": "[A 2026-03-19] Hi Alan, Thanks for the reply. Ah, that's a shame. So, for the PoE issues: Last year PoE was working fine for  ‖ [A 2026-04-27] Hi Alan! ‖ 表 2025.6.10: 28bt→有兴趣 ‖ 研 2026-01-25 Chris Clemson: It seems stable, but is out of action at the moment due to the lack of solar pow / 2026-04-27 Chris Clemson: No, the voltage is never lower than 53V recently (see attached output from Grafa"
  },
  "override_history": [
   {
@@ -488,6 +488,220 @@
    "to": "A",
    "prev_reason": "小型 IT 服务公司，一次性项目需求（90W bt 工业 PoE），无渠道属性与复购逻辑；B 慢跟。；PI 包成单客户，Simon 标签 可发展 → A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "UK Companies House: GO GREEN IT LTD · 07614771 · Active · 2011-04-26"
+  ],
+  "role": "终端用户",
+  "fit_words": [
+   "ethernet",
+   "poe",
+   "switch",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-42424XGGPM-4BT",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-08-22",
+    "A",
+    "Hi Alan, Thank you for the quick reply. If it's only $20 difference, then yes, I might as well go for the 24port version. You mentioned the "
+   ],
+   [
+    "2025-08-22",
+    "A",
+    "Hi Alan, Thank you for the quote, and apologies for the delay in getting back to you. My requirements have changed slightly - how much diffe"
+   ],
+   [
+    "2025-09-08",
+    "A",
+    "Hello Alan, We have received the switch today, and it looks in good order. I have started configuring it, and it looks good so far. Best wis"
+   ],
+   [
+    "2025-10-15",
+    "A",
+    "On 14/10/2025 14:40, Alan from Saga Telecom wrote: Hi Alan, Apologies for the delay in replying. I have configured the switch ready to swap "
+   ],
+   [
+    "2025-11-23",
+    "A",
+    "Hi Alan, Apologies for the delay - I have managed to add it today. The good news is that is supports 10mbps properly - which my Linovision s"
+   ],
+   [
+    "2026-03-19",
+    "A",
+    "Hi Alan, Thanks for the reply. Ah, that's a shame. So, for the PoE issues: Last year PoE was working fine for all devices. The switch has be"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-04-27（6 月前）"
+  ],
+  "size": "<25 人；<$5M（NeverBounce 口径）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "英国·终端用户；登记坐实：UK Companies House: GO GREEN IT LTD · 07614771 · Active · 2011-04-26。往来 2025-06-10→2026-08-26：我方去信 36 封（A 26 / S 0），对方真人来信 16 封 + 表内/备注 1 条；对方问过：2025-09-08 A: Hello Alan, We have received the switch today, and it looks in good order. I have started configuring it, and it looks good so far. Best wis ‖ 2025-10-15 A: On 14/10/2025 14:40, Alan fro。我方报过：$20 / $480 / $500。对位：STI-42424XGGPM-4BT；路径：企业邮箱 MX ok；最近来信 2026-04-27（6 月前）。",
+  "n_out": 36,
+  "n_in": 16,
+  "last_in": "2026-04-27",
+  "last_out": "2026-08-26",
+  "prices_out": [
+   "20",
+   "480",
+   "500"
+  ],
+  "timeline": [
+   {
+    "date": "2026-01-25",
+    "dir": "in",
+    "box": "A",
+    "from": "info@gogreenit.net",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Hi Alan! Happy New Year to you too!",
+    "prices": [],
+    "bulk": false,
+    "k": "5b252d09cbb6c00e"
+   },
+   {
+    "date": "2026-02-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Re: 90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6d9d38e0fac66ae0"
+   },
+   {
+    "date": "2026-03-13",
+    "dir": "in",
+    "box": "A",
+    "from": "info@gogreenit.net",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Hi Alan! I hope you are well? I have a bug/feature request for the switch. When I ssh in from a modern Linux OS, the terminal is being detected as \"xterm-256col",
+    "prices": [],
+    "bulk": false,
+    "k": "20cf814dcb5e8197"
+   },
+   {
+    "date": "2026-03-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Re: 90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3e66face8ebfe535"
+   },
+   {
+    "date": "2026-03-19",
+    "dir": "in",
+    "box": "A",
+    "from": "info@gogreenit.net",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Hi Alan, Thanks for the reply. Ah, that's a shame. So, for the PoE issues: Last year PoE was working fine for all devices. The switch has been off for a couple ",
+    "prices": [],
+    "bulk": false,
+    "k": "81bc7f06346f18b0"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Re: 90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8efe39e126d60195"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan → Chris Clemson",
+    "subj": "",
+    "gist": "we think it might be one of the 2 main reasons, probably reason 2. 1. Our PoE PCB board is faulty… not very likely. 2. Something is wrong with the power system…",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 2026-03-23 Re: 90W PoE Managed Switch"
+   },
+   {
+    "date": "2026-04-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Re: 90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0fb371903afbfce2"
+   },
+   {
+    "date": "2026-04-27",
+    "dir": "in",
+    "box": "A",
+    "from": "info@gogreenit.net",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Hi Alan!",
+    "prices": [],
+    "bulk": false,
+    "k": "8fe45173752623d6"
+   },
+   {
+    "date": "2026-05-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 90W PoE Managed Switch",
+    "gist": "Re: 90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8e5c0fd872880806"
+   },
+   {
+    "date": "2026-07-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "74f5b9590b098b4c"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Marvell AC5 Series",
+    "gist": "Saga Marvell AC5 Series",
+    "prices": [],
+    "bulk": false,
+    "k": "ca0722a4a04a665b"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

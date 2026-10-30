@@ -52,7 +52,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -256,10 +256,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
   "why_not": "",
   "excl": "",
@@ -275,6 +275,212 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "IN · 1 次检索：xexagon.co.in（Xexagon Odhav Ahmedabad；GST No. 24B: AGS Plus（agsplus.in 占位页；KP Vinod Tyagi +91 98105（德里号段）；sales@agsplus.in）+ 关联 Xex · Active（Xexagon）；AGS Plus 站点占位"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-06-04",
+    "E",
+    "Share the price. What’s App.. Number +919810561477 Regards Vinod Tyagi www.agsplus.in <http://www.agsplus.in/>"
+   ],
+   [
+    "2025-06-04",
+    "R",
+    "Share the price. What's App.. Number +91 98105 61477"
+   ],
+   [
+    "2025.6.4",
+    "表",
+    "24poe→price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-06-04（16 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "印度·分销商；登记线索：IN · 1 次检索：xexagon.co.in（Xexagon Odhav Ahmedabad；GST No. 24B: AGS Plus（agsplus.i。往来 2024-07-04→2026-09-08：我方去信 16 封（A 0 / S 12），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-04 E: Share the price. What’s App.. Number +919810561477 Regards Vinod Tyagi www.agsplus.in <http://www.agsplus.in/> ‖ 2025-06-04 R: Share the price. What's App.. Number +91 98105 61477 ‖ 2025。我方报过：$65 / $240 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-06-04（16 月前）。",
+  "n_out": 16,
+  "n_in": 1,
+  "last_in": "2025-06-04",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "65",
+   "240",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-10-18",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Passive PoE Switch",
+    "gist": "24 Port Passive PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7b63d8309914ba59"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Power Converter",
+    "gist": "Power Converter",
+    "prices": [],
+    "bulk": false,
+    "k": "b74d8fc353965089"
+   },
+   {
+    "date": "2024-12-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "0ab0d9fe4c2c7c82"
+   },
+   {
+    "date": "2024-12-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "aa24082617e483fe"
+   },
+   {
+    "date": "2024-12-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "253d4bfa6666bf63"
+   },
+   {
+    "date": "2024-12-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "31ce4d7847bf4ad7"
+   },
+   {
+    "date": "2024-12-30",
+    "dir": "out",
+    "box": "R",
+    "from": "S 群发",
+    "subj": "",
+    "gist": "10G media converter、48 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-06-04",
+    "dir": "in",
+    "box": "R",
+    "from": "Vinod Tyagi（AGS Plus）",
+    "subj": "",
+    "gist": "Share the price. What's App.. Number +91 98105 61477",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-06-06",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Please see attached file and check the full information.（附 Download Link_Alan.pdf）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19743ee9ad289a26"
+   },
+   {
+    "date": "2025.6.4",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "24poe",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-02-06",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（To 直收：本户是「印度-6 安防分销（锚 gunjan@xex",
+    "subj": "",
+    "gist": "OEM Core Switching Solution — I am introducing our CENTEC-based core and aggregation switches. 1, A cost-effective alternative to Cisco or Huawei models 2, Mult",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+    "subj": "",
+    "gist": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ gunjan@xexagon.co.in（截至 2026-10-24 无回复）",
+    "prices": [],
+    "bulk": false,
+    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

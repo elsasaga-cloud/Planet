@@ -53,7 +53,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -256,16 +256,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）",
+  "reason": "真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-10-10] Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget fo ‖ [A 2025-11-24] Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) --------- ‖ 研 2025-10-10 Vladimir Xe: we signed a memorandum with our partner… Could you please share Joey's contact / 2025-11-24 Vladimir Xe: No, this is n"
+  "evidence": "[A 2025-10-10] Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget fo ‖ [A 2025-11-24] Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) ---------"
  },
  "override_history": [
   {
@@ -275,6 +275,206 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "乌兹别克 · orginfo.uz 本轮未测试（下一轮）；本行为「无登记源」记录（据第 79 批研究档）: LATMEDIA GROUP ООО · （登记状态不可免费核）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "交换机"
+  ],
+  "p1": "STC-448XGGM(L3)",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-07-24",
+    "A",
+    "Dear Alan Unfortunately, these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be "
+   ],
+   [
+    "2025-09-14",
+    "A",
+    "Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe Latmedia Group LLC 14 сент."
+   ],
+   [
+    "2025-10-10",
+    "A",
+    "Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget for investors. Could you please "
+   ],
+   [
+    "2025-11-24",
+    "A",
+    "Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) ---------------------------- Best Regar"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-11-24（11 月前）"
+  ],
+  "size": "≈19（ZoomInfo 口径，待核）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "乌兹别克斯坦·分销商；登记线索：乌兹别克 · orginfo.uz 本轮未测试（下一轮）；本行为「无登记源」记录（据第 79 批研究档）: LATMEDIA GROUP ООО · （登记状态。往来 2025-07-21→2026-10-07：我方去信 10 封（A 10 / S 0），对方真人来信 6 封 + 表内/备注 0 条；对方问过：2025-07-24 A: Dear Alan Unfortunately, these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be  ‖ 2025-09-14 A: Hi Alan, Yes the project stil。我方报过：$170。对位：STC-448XGGM(L3)；路径：企业邮箱 MX ok；最近来信 2025-11-24（11 月前）。",
+  "n_out": 10,
+  "n_in": 6,
+  "last_in": "2025-11-24",
+  "last_out": "2026-10-07",
+  "prices_out": [
+   "170"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-14",
+    "dir": "in",
+    "box": "A",
+    "from": "vladimir.xe@latmedia.uz",
+    "subj": "Re: OEM and SDK for National product",
+    "gist": "Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe Latmedia Group LLC 14 сент. 2025 г., в 12:16, A",
+    "prices": [],
+    "bulk": false,
+    "k": "f494577cfa227b40"
+   },
+   {
+    "date": "2025-09-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM and SDK for National product",
+    "gist": "Re: OEM and SDK for National product",
+    "prices": [],
+    "bulk": false,
+    "k": "07a60d7088eb8b13"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM and SDK for National product",
+    "gist": "Re: OEM and SDK for National product",
+    "prices": [],
+    "bulk": false,
+    "k": "8883a9bf7dc2bf69"
+   },
+   {
+    "date": "2025-09-16",
+    "dir": "in",
+    "box": "A",
+    "from": "vladimir.xe@latmedia.uz",
+    "subj": "Re: OEM and SDK for National product",
+    "gist": "Dear Alan, I sent it to my CTO. We will back soon with response. ---------------------------- Best Regards Vladimir Xe Co-founder Latmedia Group, LLC Mobile Pho",
+    "prices": [],
+    "bulk": false,
+    "k": "4c0f3bf7e1566ac4"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "in",
+    "box": "A",
+    "from": "vladimir.xe@latmedia.uz",
+    "subj": "Re: OEM and SDK for National product",
+    "gist": "Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget for investors. Could you please share Joey’s contact",
+    "prices": [],
+    "bulk": false,
+    "k": "510e36cd41433a95"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM and SDK for National product",
+    "gist": "Re: OEM and SDK for National product",
+    "prices": [],
+    "bulk": false,
+    "k": "3cdc9c1b300ef132"
+   },
+   {
+    "date": "2025-10-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM and SDK for National product",
+    "gist": "Re: OEM and SDK for National product",
+    "prices": [],
+    "bulk": false,
+    "k": "ec562f7f61d4010c"
+   },
+   {
+    "date": "2025-11-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a1f4558ac6c309cf"
+   },
+   {
+    "date": "2025-11-24",
+    "dir": "in",
+    "box": "A",
+    "from": "vladimir.xe@latmedia.uz",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) ---------------------------- Best Regards Vladimir Xe Co-fo",
+    "prices": [],
+    "bulk": false,
+    "k": "67798dac43496efa"
+   },
+   {
+    "date": "2026-07-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "d413eadc950a8608"
+   },
+   {
+    "date": "2026-08-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "a4e9324d00c233b5"
+   },
+   {
+    "date": "2026-10-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "9ca8616708ba5ff0"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -614,16 +614,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "PI包·gg",
   "why_not": "",
   "excl": "",
   "deal": "PI包·gg",
   "reply_class": "R+",
-  "evidence": "[S 2025-11-11] Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price ‖ [S 2026-06-22] Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks | M: +65 9734 0606 | W: ww ‖ 表 1024: 154→useful ‖ 研 2025-07-28 Hairomee: the customer expressed concerns about our pricing being slightly on the high sid / 2025-11-11 Au Wai"
+  "evidence": "[S 2025-11-11] Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price ‖ [S 2026-06-22] Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks | M: +65 9734 0606 | W: ww ‖ 表 1024: 154→useful ‖ 研 2024-08-30 Andrea Chew（Resonant Networks）: 回传签署版「Zhengzhou Saga Telecom.pdf」（Re: PO | SGP250051 10G MultiGig switch） / 20"
  },
  "override_history": [
   {
@@ -633,8 +633,242 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14: RESONANT NETWORKS PTE. LTD.（R~Nets；Ubi, Singapore） · UEN 202005761Z · Live Company · 2020-02-20"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "network",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤",
+   "网络"
+  ],
+  "p1": "STC-448XGGM(L3)",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-04-08",
+    "S",
+    "Hi Simon, We are bundling the IP camera with the switch. Hence need to buy the IP camera for them to test first. Best regards, Wai Choon, Au"
+   ],
+   [
+    "2025-07-08",
+    "R",
+    "Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this month. Till t"
+   ],
+   [
+    "2025-07-08",
+    "S",
+    "Hi Simon, Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this mon"
+   ],
+   [
+    "2025-07-28",
+    "S",
+    "Hello Simon, I hope you had a good weekend. Following our meeting last week, the customer expressed concerns about our pricing being slightl"
+   ],
+   [
+    "2025-11-11",
+    "S",
+    "Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you). We can fight them "
+   ],
+   [
+    "2026-06-22",
+    "S",
+    "Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks | M: +65 9734 0606 | W: www.resonantnetworks.com<http://"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-06-22（4 月前）"
+  ],
+  "size": "11（2025-03 ACRA 变更：3 → 11）/ 10–50",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "新加坡·集成商/安装商；登记坐实：SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14: RESONANT NETWORKS 。往来 1024→2026-09-21：我方去信 46 封（A 0 / S 43），对方真人来信 36 封 + 表内/备注 3 条；对方问过：2025-07-08 S: Hi Simon, Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this mon ‖ 2025-07-28 S: Hello Simon, I hope you had a。我方报过：$50 / $100 / $140 / $145 / $168 / $170。对位：STC-448XGGM(L3)；路径：企业邮箱 MX ok；最近来信 2026-06-22（4 月前）。",
+  "n_out": 46,
+  "n_in": 36,
+  "last_in": "2026-06-22",
+  "last_out": "2026-09-21",
+  "prices_out": [
+   "50",
+   "100",
+   "140",
+   "145",
+   "168",
+   "170"
+  ],
+  "timeline": [
+   {
+    "date": "2025-07-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 10G MultiGig Price",
+    "gist": "Re: 10G MultiGig Price",
+    "prices": [],
+    "bulk": false,
+    "k": "89b29f23d66894f2"
+   },
+   {
+    "date": "2025-07-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 10G MultiGig Price",
+    "gist": "Re: 10G MultiGig Price",
+    "prices": [],
+    "bulk": false,
+    "k": "34c54aad81473dd9"
+   },
+   {
+    "date": "2025-07-08",
+    "dir": "in",
+    "box": "S",
+    "from": "hairomee@resonantnetworks.com",
+    "subj": "RE: 10G MultiGig Price",
+    "gist": "Hi Simon, Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this month. Till then please",
+    "prices": [],
+    "bulk": false,
+    "k": "ce309a03337e8ab8"
+   },
+   {
+    "date": "2025-07-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 10G MultiGig Price",
+    "gist": "Re: 10G MultiGig Price",
+    "prices": [
+     "172",
+     "178",
+     "182",
+     "185"
+    ],
+    "bulk": false,
+    "k": "f7a668d6ff8fbc71"
+   },
+   {
+    "date": "2025-07-28",
+    "dir": "in",
+    "box": "S",
+    "from": "hairomee@resonantnetworks.com",
+    "subj": "RE: 10G MultiGig Price",
+    "gist": "Hello Simon, I hope you had a good weekend. Following our meeting last week, the customer expressed concerns about our pricing being slightly on the high side. ",
+    "prices": [],
+    "bulk": false,
+    "k": "2c2282af0677f30a"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "in",
+    "box": "S",
+    "from": "auwc@resonantnetworks.com",
+    "subj": "Re: 10G MultiGig Price",
+    "gist": "Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you). We can fight them at all. Best regards",
+    "prices": [],
+    "bulk": false,
+    "k": "c277ca62ea0df0da"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 10G MultiGig Price",
+    "gist": "Re: 10G MultiGig Price",
+    "prices": [
+     "172",
+     "178",
+     "182",
+     "185"
+    ],
+    "bulk": false,
+    "k": "2a9e01bbf56c736f"
+   },
+   {
+    "date": "2025-11-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 10G MultiGig Price",
+    "gist": "Re: 10G MultiGig Price",
+    "prices": [
+     "100",
+     "210"
+    ],
+    "bulk": false,
+    "k": "b26aafe834fa3423"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "New Product Links",
+    "gist": "New Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "11afd93f6e5345a0"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "in",
+    "box": "S",
+    "from": "auwc@resonantnetworks.com",
+    "subj": "Re: Optional Marvell Chipset Solutions",
+    "gist": "Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks | M: +65 9734 0606 | W: www.resonantnetworks.com<http://www.resonantnetworks",
+    "prices": [],
+    "bulk": false,
+    "k": "8481f7580addd6d7"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "in",
+    "box": "R",
+    "from": "Au Wai Choon（Resonant Networks）",
+    "subj": "",
+    "gist": "Thank you for reaching out.（回 Simon 固件 7.5 发布通知）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 8481f7580addd6d7"
+   },
+   {
+    "date": "2026-09-21",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Optional Marvell Chipset Solutions",
+    "gist": "Re: Optional Marvell Chipset Solutions",
+    "prices": [
+     "180"
+    ],
+    "bulk": false,
+    "k": "059803e2ac308b24"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

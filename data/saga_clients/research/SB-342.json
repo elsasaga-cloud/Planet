@@ -58,8 +58,8 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/04863038/officers"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -208,5 +208,214 @@
   "url": "https://suretransport.co.uk/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "GB · Companies House 总览（web_search 片段）+ officers 页 fetch_pag: SURE24 LIMITED（04863038；Bingham, Nottinghamshire） · 04863038 · Active · 2003-08-11"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "poe",
+   "switch",
+   "交换机",
+   "网络"
+  ],
+  "p1": "STI-050GE",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "29 人；总资产 £2.11M / 负债 £1.33M（Endole；Small）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "英国·OEM 品牌商；登记坐实：GB · Companies House 总览（web_search 片段）+ officers 页 fetch_pag: SURE24 LIMITED（048。往来 2023→2026-08-21：我方去信 28 封（A 20 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公。我方报过：$65 / $170 / $280。对位：STI-050GE；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 28,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-21",
+  "prices_out": [
+   "65",
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "277fb4aabb636ec0"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "6a834fa725c9ff96"
+   },
+   {
+    "date": "2026-01-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "d7164df65dadfe0e"
+   },
+   {
+    "date": "2026-02-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "80f646004a39f979"
+   },
+   {
+    "date": "2026-03-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "ca4bb446fdbba85c"
+   },
+   {
+    "date": "2026-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "8b86a257a21fd37f"
+   },
+   {
+    "date": "2026-04-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "71cefe72ea98ac2d"
+   },
+   {
+    "date": "2026-05-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "92890a31a8e6b3db"
+   },
+   {
+    "date": "2026-06-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "25a7823cb9d93733"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "5d915a5c63a0cc62"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "35527f8452c179e1"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

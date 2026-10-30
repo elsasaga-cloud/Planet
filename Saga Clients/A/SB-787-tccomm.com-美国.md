@@ -8,7 +8,7 @@
 code: SB-787
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 score: 32
 country: 美国
 region: 北美
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国加州 TC Communications（光纤通信与工业以太网产品设计制造商：复用器、DIN 工业交换机、JumboSwitch；行业：公用事业 / 公共安全 / 政府 / 轨道 / 航空；表内「工业 FS / MC / 光猫，Switch 协议类产品」；KP Steve Cragg（stevec@）、Larry（novaca.com）、Fredrick Chow）；群发 19 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC 光猫；Switch 协议类产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-16 推送 19 次无任何回复（聋名单）
 - **历史互动**：推送 19 次（2025-02-20 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/43 封有打开记录）：「10G Ethernet Web Managed Switch」(2024-10-30)、「10G Media Converter」(2024-11-26)、「Managed Optical Bypass Switch」(2025-07-08)、「Mini Industrial PoE Switch」(2025-08-05) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-19 $220（48 port managed switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-11-26 $65（10G Media Converter）、2025-02-19 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -162,7 +162,7 @@ updated: 2026-10-30
 - **KP**：Steve Cragg（Vice President Sales & Marketing（TC Communications, Inc.）= **产品线扩充决策人本人 = 收件人**（第 102 批 官方登记核实 2026-10-28））stevec@tccomm.com 〔用户表〕
 - **KP**：Fredrick Chow（研究档 KP（职务未核）（第 102 批 官方登记核实 2026-10-28）） 〔用户表〕
 - **KP**：Kai Liang（President & CEO / 创办人（1991）= 拍板人（点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -234,6 +234,38 @@ updated: 2026-10-30
 | ? | 95 | 28poe |  | A |  | US.xlsx#45 |
 | ? | 79 | bypass |  | A |  | US.xlsx#265 |
 | ? | 92 | alarm |  | A |  | US.xlsx#265 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | US · 1 次检索：官网 35 周年页（1991-12 TC Communications, Inc. 成立于 Yor: TC Communications, Inc.（tccomm.com / JumboSwitch.com；Irvine, California）— 1991-1 · Active（2026 年 3… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber industrial media converter network sfp switch；P1 STI-288GPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-10-30 S: Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Be |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-10-30（24 月前） |
+| ⑤ 规模 | ≥小型 | 11–200 人 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·OEM 品牌商；登记线索：US · 1 次检索：官网 35 周年页（1991-12 TC Communications, Inc. 成立于 Yor: TC Communications,。往来 2024-06-19→2026-09-09：我方去信 43 封（A 35 / S 8），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-10-30 S: Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Be。我方报过：$65 / $170 / $220 / $280 / $300。对位：STI-288GPM；路径：企业邮箱 MX ok；最近来信 2024-10-30（24 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-01-13 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-04 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-09 | 去 | A | Managed Optical Bypass Switch |  |
+| 2026-03-10 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-12 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-01 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-27 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-22 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-23 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-16 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-13 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-09 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

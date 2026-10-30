@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -184,6 +184,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -211,7 +219,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -221,5 +229,171 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 103: dac→email"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETE: EPE RETELEM SPA（ex-SONATITE；retelem-dz.com；**signalhire 名录：54, Rue Omar Benaissa · 营业中（国企；官网 + 名录）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "industrial",
+   "poe",
+   "switch",
+   "交换机",
+   "光纤",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024.4.28",
+    "表",
+    "发了工业交换机图→Datasheet"
+   ],
+   [
+    "2024.8.14",
+    "表",
+    "4 8口工业PoE→对2光8PoE有兴趣"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "阿尔及利亚·集成商/安装商；登记线索：DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETE: EPE RETELEM SPA（ex。往来 103→2026-09-02：我方去信 6 封（A 5 / S 1），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.4.28 表: 发了工业交换机图→Datasheet ‖ 2024.8.14 表: 4 8口工业PoE→对2光8PoE有兴趣。我方报过：$170 / $280 / $6000。对位：STI-288GP；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 6,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-02",
+  "prices_out": [
+   "170",
+   "280",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "103",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "dac",
+    "gist": "email",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "CCTV poe switch",
+    "gist": "CCTV poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3c9bf8dc07fbb8fe"
+   },
+   {
+    "date": "2024.4.28",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了工业交换机图",
+    "gist": "Datasheet",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.14",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业PoE",
+    "gist": "对2光8PoE有兴趣",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-10-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "cc82f780987fdf75"
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d7759904acd1f97f"
+   },
+   {
+    "date": "2026-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "0ecabf4bb76a6c39"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "ea28a09e8bf1be39"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9b03d013262ccc80"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

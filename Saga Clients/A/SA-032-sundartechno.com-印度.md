@@ -12,7 +12,7 @@ code: SA-032
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 name_official: "Sundar Techno Solutions（STS, Bangalore, India）"
 score: 82
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：班加罗尔的工业自动化/嵌入式计算方案商与「Make in India」制造商（2019 年 GST 注册，独资，2–10/11–25 人，年营业额 5–25 千万卢比口径不一），自有 STS 品牌工业交换机（IndiaMART 列 STS-5000-UM-ES）、面板 PC、KVM；合作 IBASE、Volktek（台湾）；客户含国防、航天、铁路、智慧城市。用户表：CEO Manoj Kumar N 2023-06 成单（2×2 bypass 工业 FS 100 台需求），WhatsApp 已加；此后无跟进记录（陈旧）。（调研 2026-10-22；表内兴趣：工业FS 中科德能的；2*2 bypass 100个）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 Saga 成单（PI 包）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-0160GE（继续）；顺带 STI-288DGGPM 管理型升级问一句 — 已成交三次｜毛利复盘：STI-0160GE 四单成本 512 不变，每台收款 665 → 642 → 613 → 587，毛利 23% → 12.7%——是汇率（7.2→6.7）吃掉的，不是让利；下次询价按 6.69 重报（约 +7%），说「PCB/RAM + 汇率」；STI-0160GE $87（2025-10 成交价，成本 512 RMB ≈ $76.5 @6.69 → 毛利约 14%，低于 25% 底线——下单时按现价表复核）
 - **第一问（只问一个）**：Next batch of STI-0160GE — same 2–5 pcs, or is any site asking for a managed (VLAN/ring) version this time?
@@ -178,7 +178,7 @@ updated: 2026-10-30
   > 来源：https://www.linkedin.com/in/manoj-kumar-n-b4ba7a32/（抓取 2026-10-23）
 - **KP**：Manoj Kumar N（Founder & CEO（成单联系人））sales@sundartechno.com +91 94820 81014（WhatsApp 已加）〔https://sundartechno.com/〕
 - **KP**：Manoj Kumar（CEO）sales@sundartechno.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需重新激活；守界：其国防/铁路项目不报 EN50155/军规，仅供标准工业款；P1 = STI-288DGGPM（bypass 款需向 SmartByte 确认），30% OEM 档。
 
@@ -237,6 +237,27 @@ A 维持（已成交 + CEO 直联 + 自有品牌），但 2023 年后沉寂需�
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 印度 · 个体 / 合伙企业不入 MCA；GST 查询需完整 GSTIN；本行为「无登记源」记录（据第 79 批研究档）: Sundar Techno Solutions（STS） · （登记状态不可免费核） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber industrial media converter network poe switch 交换机；P1 STI-288DGGPM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | 2–10 / 11–25（口径不一） |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：印度·OEM 品牌商；登记线索：印度 · 个体 / 合伙企业不入 MCA；GST 查询需完整 GSTIN；本行为「无登记源」记录（据第 79 批研究档）: Sundar Techno Solu。往来 2024-06-27→2024-06-27：我方去信 1 封（A 0 / S 1），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-06-27 | 去 | S | Industrial network switch |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

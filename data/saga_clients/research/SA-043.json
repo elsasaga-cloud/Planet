@@ -249,10 +249,18 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）",
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:20:21Z"
@@ -285,15 +293,212 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-11-11] Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell w ‖ 表 2025.11.11: 升压→认证INFO ‖ 研 2025-11-11 info@direktronik.se（合规）: we kindly request… EN 18031 declaration… CE certification RoHS compliance REACH "
+  "evidence": "[A 2025-11-11] Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell w ‖ 表 2025.11.11: 升压→认证INFO"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / : DIREKTRONIK AKTIEBOLAG（Direktronik AB） · Org.nr 556281-9663 · VAT SE556281966301  · Aktiv（经营中） · 1986-09-11"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-11-11",
+    "A",
+    "Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. Therefore, we ne"
+   ],
+   [
+    "2025.11.11",
+    "表",
+    "升压→认证INFO"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-11-11（11 月前）"
+  ],
+  "size": "28（2025）；营收 133.0 MSEK（FY 2025-03）（第 84 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "瑞典·OEM 品牌商；登记坐实：Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / : DIREKTRONIK AKTIEB。往来 2024-07-04→2026-09-28：我方去信 21 封（A 13 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-11-11 A: Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. Therefore, we ne ‖ 2025.11.11 表: 升压→认证INFO。我方报过：$170 / $180 / $220 / $240 / $280。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-11-11（11 月前）。",
+  "n_out": 21,
+  "n_in": 1,
+  "last_in": "2025-11-11",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "170",
+   "180",
+   "220",
+   "240",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f42d86c9b016482c"
+   },
+   {
+    "date": "2025-10-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "0cc32a0974c56341"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "in",
+    "box": "A",
+    "from": "info@direktronik.se",
+    "subj": "RE: Booster PoE Switch",
+    "gist": "Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. Therefore, we need to gather the nec",
+    "prices": [],
+    "bulk": false,
+    "k": "cda0898220404dd0"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "99b2f83a81af5bfa"
+   },
+   {
+    "date": "2025-11-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a72460754524b4c8"
+   },
+   {
+    "date": "2025-12-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d69d71aab444aaa5"
+   },
+   {
+    "date": "2025.11.11",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "升压",
+    "gist": "认证INFO",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "43bbdc36834eab0d"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "28bc1da7ba3f6637"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "b51aa727d041c692"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "dcd69f56f0dac2a4"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "180"
+    ],
+    "bulk": false,
+    "k": "6a03768b154dbe10"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

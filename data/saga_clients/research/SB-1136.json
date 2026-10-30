@@ -40,7 +40,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-07）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。 ｜ 国别更正为「美国」（country_fix）：Fiber Optics For Sale Co. 在加州 Pleasanton / Livermore（官网 / BBB），用户表「CA」= California 误作加拿大（第 90 批 / Q-65 2026-10-27）",
  "deep": {
   "done_at": "2026-10-24",
@@ -185,16 +185,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-07-23] HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2 ‖ 研 2025-07-23 Fosco Sales（Grace，sales@fo4sale.com）: HI Alan, Please send me more info about your product line, pricing and your webs"
+  "evidence": "[A 2025-07-23] HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2"
  },
  "override_history": [
   {
@@ -204,6 +204,201 @@
    "to": "A",
    "prev_reason": "第 71 批(i)：北美主攻区 + 真人要价（2025-07-23）——C 不成立；按 B 慢慢跟进。表内「疑国内公司海外站」留作风险，不影响报价。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-07）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi: Fiber Optics For Sale Co.（FOSCO Connect；Pleasanton / Livermore, CA） · Active（网店 + eBay 在售）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-0160GE",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-07-23",
+    "A",
+    "HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga "
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-07-23（15 月前）"
+  ],
+  "size": "11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·分销商；登记线索：US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi: Fiber Optics For S。往来 2025-01-13→2025-11-19：我方去信 13 封（A 9 / S 1），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2025-07-23 A: HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga 。我方报过：$280 / $300。对位：STI-0160GE；路径：企业邮箱 MX ok；最近来信 2025-07-23（15 月前）。",
+  "n_out": 13,
+  "n_in": 1,
+  "last_in": "2025-07-23",
+  "last_out": "2025-11-19",
+  "prices_out": [
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-05-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "5a99a9ea022282cb"
+   },
+   {
+    "date": "2025-06-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c7e3b7e816452117"
+   },
+   {
+    "date": "2025-07-23",
+    "dir": "in",
+    "box": "A",
+    "from": "sales@fo4sale.com",
+    "subj": "Re: 16 Port Ethernet Switch",
+    "gist": "HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga Telecom < a.sagatele",
+    "prices": [],
+    "bulk": true,
+    "k": "cb73165c3eeea9fa"
+   },
+   {
+    "date": "2025-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "dc6e01c13b4335a9"
+   },
+   {
+    "date": "2025-07-23",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga（Alan，群发）",
+    "subj": "",
+    "gist": "There is a 16-port Din Gigabit Ethernet switch for you. It is good for vehicle network and industrial automation. Model choice 1. 5 Port/8 Port/24 Port 2. 10/10",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a（thr of cb73165c3eeea9fa）"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 16 Port Ethernet Switch",
+    "gist": "Re: 16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a03d325cd72aad7c"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga（Alan）",
+    "subj": "",
+    "gist": "Hi, Grace, Please see attached download links for full info.（附 Download Link_Alan.pdf）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a a03d325cd72aad7c"
+   },
+   {
+    "date": "2025-08-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2dbe7b958999a21f"
+   },
+   {
+    "date": "2025-09-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ccf3841f6f306580"
+   },
+   {
+    "date": "2025-10-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "917dae8064969d5d"
+   },
+   {
+    "date": "2025-11-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "be2437526c76e72f"
+   },
+   {
+    "date": "2025-11-19",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga（Alan，群发 → sales@foscoconnect.com）",
+    "subj": "",
+    "gist": "（2025-08-26 Mini DIN / 09-19 光旁路 / 10-15 10G SFP / 11-19 四封群发，均无回）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 2dbe7b958999a21f / ccf3841f6f306580 / 917dae8064969d5d"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

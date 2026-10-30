@@ -12,7 +12,7 @@ code: SA-090
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 name_official: "WIZARDSINC SDN BHD"
 score: 62
 country: 马来西亚
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：吉隆坡 ICT/门禁/CCTV 集成商 WizardsInc Sdn Bhd（Technology Park Malaysia 孵化器；CEO Raja Kumaran）：2026-08 一单 RMB 10,500 / 42 件（STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源），PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封；曾被留在 Elsa 群发 Bcc（成单后仍收 $170 群发稿）。（调研 2026-10-22；表内兴趣：产品线比较像）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 Saga 成单（PI 包）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP / STI-21616GPM（已测）→ 项目批量 — 刚成交、毛利好、项目型；按 2026-08 成交价（RMB）；项目批量时复核；成交价（RMB，2026-08-21）：STI-288GPM ¥550、STI-21616GP ¥1,140、STI-21616GPM ¥1,550、NDR-240-48 ¥270、工业 SFP ¥50；进价见 P20260821-01（整单毛利 18.8%，整机 16–17%）——项目批量时整机按 Marvell 25% 档重核（STI-21616GP ¥1,269 / STI-21616GPM ¥1,707），光模块可让；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Raja — how did the 16-port managed vs unmanaged units behave in the test ring, and when does the project batch get sized?
@@ -147,7 +147,7 @@ updated: 2026-10-30
   > 来源：https://10times.com/malaysia-sign-ledneon-technology-exhibition（抓取 2026-10-23）
 - **KP**：Raja King（单据联系人） 〔PI.zip 单据〕
 - **KP**：Raja Kumaran（单据联系人）rajaking@outlook.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
 
 
@@ -173,6 +173,27 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 马来西亚 · SSM e-Info 付费；本行为「无登记源」记录（据第 79 批研究档）: WizardsInc Sdn Bhd · （登记状态不可免费核） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：工业；P1 待定 |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 免费邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：马来西亚·集成商/安装商；登记线索：马来西亚 · SSM e-Info 付费；本行为「无登记源」记录（据第 79 批研究档）: WizardsInc Sdn Bhd · （登记状态不可免费核）。往来 2025-04-11→2025-04-11：我方去信 1 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：待定；路径：免费邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-04-11 | 去 | R |  |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

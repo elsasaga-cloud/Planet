@@ -75,10 +75,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
   "why_not": "",
   "excl": "",
@@ -94,8 +94,220 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：enercore.co.in：2024-05 两句（4 口价格 / 印度有无现货）后无回，身份与规模未坐实；印度名单留 B"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）"
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：enercore.co.in：2024-05 两句（4 口价格 / 印度有无现货）后无回，身份与规模未坐实；印度名单留 B",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "IN · 1 次检索：tofler / thecompanycheck / filesure 同名 Enercore S: Enercore（enercore.co.in；**1 查仅得 Enercore Solutions Private Limited（CIN U62013HR2 · 未坐实"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-05-14",
+    "S",
+    "Price for 4 Port? Best Regards, Sandeep"
+   ],
+   [
+    "2024-05-16",
+    "S",
+    "Do you have units available in India? Best Regards, Sandeep"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-05-16（29 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "路径弱",
+   "规模未知",
+   "人工终判：enercore.co.in：2024-05 两句（4 口价格 / 印度有无现货）后无回，身份与规模未坐实；印度名单留 B"
+  ],
+  "story": "印度；登记线索：IN · 1 次检索：tofler / thecompanycheck / filesure 同名 Enercore S: Enercore（enercore.。往来 2024-05-14→2026-09-21：我方去信 19 封（A 6 / S 13），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-05-14 S: Price for 4 Port? Best Regards, Sandeep ‖ 2024-05-16 S: Do you have units available in India? Best Regards, Sandeep。我方报过：$35 / $65 / $170 / $220 / $240 / $280。对位：待定；路径：企业邮箱；最近来信 2024-05-16（29 月前）。",
+  "n_out": 19,
+  "n_in": 2,
+  "last_in": "2024-05-16",
+  "last_out": "2026-09-21",
+  "prices_out": [
+   "35",
+   "65",
+   "170",
+   "220",
+   "240",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2024-09-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini poe switch",
+    "gist": "Mini poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5c966cc1276a3892"
+   },
+   {
+    "date": "2024-10-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Ethernet Switch",
+    "gist": "8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b62bd58f174c6b76"
+   },
+   {
+    "date": "2024-11-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "aabce14705d795cc"
+   },
+   {
+    "date": "2024-12-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f1aef73f7f4508f2"
+   },
+   {
+    "date": "2024-12-26",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "b5a9369319c6ef39"
+   },
+   {
+    "date": "2025-01-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port PoE Managed Switch",
+    "gist": "16 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b2b377ad705a2658"
+   },
+   {
+    "date": "2025-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "2070b8c2d4292880"
+   },
+   {
+    "date": "2026-05-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "3f67c0635f24f80f"
+   },
+   {
+    "date": "2026-06-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6ce3140fd89d6efa"
+   },
+   {
+    "date": "2026-07-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "1a5a99972a947422"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "1d3c8410d108a0e3"
+   },
+   {
+    "date": "2026-09-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c6c2dca996b5ef1a"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

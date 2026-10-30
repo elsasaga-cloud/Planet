@@ -56,8 +56,8 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/04256748/officers"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -187,5 +187,218 @@
   "url": "https://addon-tech.com/browse/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→香港出生但一直在英国，会说一些广东话，对产品比较了解，让我做一个presentation,问了一些问"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "GB · 研究档已有公司号 04256748 → Companies House overview + officers: Addon Technology Ltd（addon-tech.co.uk；North London） · 04256748 · Active · 2001-07-23"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "network",
+   "poe",
+   "switch",
+   "交换机",
+   "网络"
+  ],
+  "p1": "STC-028GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→香港出生但一直在英国，会说一些广东话，对产品比较了解，让我做一个presentation,问了一些问题，之前处理过类似的产品线\n从网站看还是比较相关的 ； 网站"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型（估 2–10 人）；SIC 62090（第 92 批 官方登记核实 2026-10-28）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "英国·OEM 品牌商；登记坐实：GB · 研究档已有公司号 04256748 → Companies House overview + officers: Addon Technology L。往来 2023→2026-08-19：我方去信 28 封（A 19 / S 8），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→香港出生但一直在英国，会说一些广东话，对产品比较了解，让我做一个presentation,问了一些问题，之前处理过类似的产品线\n从网站看还是比较相关的 ； 网站。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-028GP；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 28,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-19",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2fa8f79eb5073e16"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "e573e9f2c251dc61"
+   },
+   {
+    "date": "2026-01-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "eb904d211189f21a"
+   },
+   {
+    "date": "2026-01-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ee45e5350c428ede"
+   },
+   {
+    "date": "2026-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "27d036371c93db69"
+   },
+   {
+    "date": "2026-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "970c09b6365384ae"
+   },
+   {
+    "date": "2026-04-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b77b532662079758"
+   },
+   {
+    "date": "2026-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "4f38134369bf21a2"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9fce3a2ddf662e27"
+   },
+   {
+    "date": "2026-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "8ef8a73a0fe4beee"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "f6ba377572887e78"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

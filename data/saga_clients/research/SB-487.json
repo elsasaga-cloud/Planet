@@ -47,7 +47,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2026-05）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -180,19 +180,227 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2026-05）"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2026-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-05] Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 91 ‖ [A 2026-05-12] Hello, What city is your factory located in? Do you produce switches based on Microchip and Centec chips? С ув ‖ 表 2024.6.5: 发了2光2小壳信息→芯片是啥 ‖ 研 2024-06-05 afonin@npotelecom.ru: Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил "
+  "evidence": "[S 2024-06-05] Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 91 ‖ [A 2026-05-12] Hello, What city is your factory located in? Do you produce switches based on Microchip and Centec chips? С ув ‖ 表 2024.6.5: 发了2光2小壳信息→芯片是啥"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Россия · ЕГРЮЛ / ФНС 镜像（checko / companies.rbc / list-org / : ЗАО НПО «Телеком»（Научно-производственное объединение «Телек · ОГРН 1021801507694（2002-11-21）· ИНН 1833 · Действующая（1991 年起经营；ЗАО 形式） · 1991（经营）/ "
+  ],
+  "role": "未知",
+  "fit_words": [
+   "switch"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-06-05",
+    "S",
+    "Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikh"
+   ],
+   [
+    "2024.6.5",
+    "表",
+    "发了2光2小壳信息→芯片是啥"
+   ],
+   [
+    "2026-05-12",
+    "A",
+    "Hello, What city is your factory located in? Do you produce switches based on Microchip and Centec chips? С уважением, Михаил Афонин 8 /3412"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-05-12（5 月前）"
+  ],
+  "size": "64 人（list-org）；2025 выручка 670.1 млн ₽、чистая прибыль 280.2 млн、капитал 215 млн；2024 выручка 501.0 млн / прибыль 177.0 млн；2017 → 2025 +447%；招标 456 / 中标 372（第 87 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "人工终判：НПО Телеком（俄罗斯电信设备企业；KP Mikhail Afonin）：2024-06 问芯片、2026-05 问工厂所在城市 / 是否做 Microchip、CENTEC 方案——持续两年有问必答"
+  ],
+  "story": "俄罗斯；登记坐实：Россия · ЕГРЮЛ / ФНС 镜像（checko / companies.rbc / list-org / : ЗАО НПО «Телеком»（。往来 2024-06-05→2026-08-17：我方去信 26 封（A 16 / S 10），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2024-06-05 S: Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikh ‖ 2024.6.5 表: 发了2光2小壳信息→芯片是啥 ‖ 2026-05-12 A: 。我方报过：$170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-05-12（5 月前）。",
+  "n_out": 26,
+  "n_in": 2,
+  "last_in": "2026-05-12",
+  "last_out": "2026-08-17",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "2109fc90db923f79"
+   },
+   {
+    "date": "2025-10-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f2ee1ae4ade635cb"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9bd345d37846ad7f"
+   },
+   {
+    "date": "2026-01-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "b39194d6d0f7b5fa"
+   },
+   {
+    "date": "2026-03-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "7192f13ce6daee00"
+   },
+   {
+    "date": "2026-04-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "02b715c1434b76e6"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "1cd9da012ffb911d"
+   },
+   {
+    "date": "2026-05-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "3c59867d902a0b69"
+   },
+   {
+    "date": "2026-05-12",
+    "dir": "in",
+    "box": "A",
+    "from": "afonin@npotelecom.ru",
+    "subj": "RE: 10G Enterprise SFP Switch",
+    "gist": "Hello, What city is your factory located in? Do you produce switches based on Microchip and Centec chips? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 85",
+    "prices": [],
+    "bulk": false,
+    "k": "f954ab2b523be0e6"
+   },
+   {
+    "date": "2026-05-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "ee1e42d8ec6ffca5"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "b810cf5d26ae01c4"
+   },
+   {
+    "date": "2026-08-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "ded16f5a5b39c110"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

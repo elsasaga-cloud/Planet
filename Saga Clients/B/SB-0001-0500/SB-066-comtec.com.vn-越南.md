@@ -1,11 +1,11 @@
 # comtec.com.vn
 **官方名称（调研核实）**：Công ty TNHH Công Nghệ và Truyền Thông COMTEC（Hà Nội, Vietnam；comtec.com.vn；电信设备/光纤配件批发）
 
-> **评级 B**　|　越南　|　档案编号 `SB-066`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　越南　|　档案编号 `SB-066`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 MC/SFP；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 MC/SFP · 登记 ✔ · 体量 中小）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
 >
-> **类型**：经销商（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销商（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-066
@@ -20,7 +20,7 @@ region: 亚太
 website: comtec.com.vn
 type: 经销商
 tier_tags: ["群发(VN/VN)"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -31,14 +31,14 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：河内电信设备与元器件批发商 COMTEC（1998-11-09 成立，25+ 年；长期为 Viettel、MobiFone、VNPT 供货；产品：电信电源、测试仪表（OTDR）、光模块、光缆配件、ADSS 挂件、熔接机、能源产品；总部 GoldSeason 47 Nguyễn Tuân（旧址 Duy Tân / Nguyễn Chí Thanh），胡志明分公司；+84 24 3773 4926；info@comtec.com.vn；副总经理 Cao Bá Duy）。用户表（富通天下外贸数据）：「从 BTON 买了很多」= 从同行大量进口（SFP 模块等），非 Saga 成交；群发无互动。运营商供应链批发商 → 分销 20%。（调研 2026-10-21；表内兴趣：SFP模块）
-- **为什么是 B 级**：**调研后定级 B**（品类为光模块（非主线）、无互动、越南非主攻区 → B。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南
-- **历史互动**：成交/下单过
+- **为什么是 B 级**：**调研后定级 B**（品类为光模块（非主线）、无互动、越南非主攻区 → B。）；自动分级 A：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 群发批次名单；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南
+- **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE 非管理，$30.8）与 MC STI-110GE（$22.4）作光模块配套品；SFP 待 Q-32；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-03 $65（10G Media Converter）
 - **第一问（只问一个）**：Anh Duy, alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 - **最大未知**：年走量与现供应商
@@ -85,7 +85,7 @@ updated: 2026-10-29
 
 - `comtec.com.vn` → Google Workspace（MX：ASPMX.L.GOOGLE.COM、ALT1.ASPMX.L.GOOGLE.COM、ALT2.ASPMX.L.GOOGLE.COM、ALT3.ASPMX.L.GOOGLE.COM）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（越南 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（越南 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-24 Vietnam Cultural Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -237,7 +237,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-228GP）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -245,7 +245,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -266,7 +266,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -280,7 +280,7 @@ updated: 2026-10-29
 ```text
 Hi Cao,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Alongside the optical modules COMTEC imports: 2× SFP + 8× PoE switches at $33.2 EXW and industrial gigabit media converters at $22.4, neutral packing — which SFP types (1G/10G, km) do your Viettel/VNPT projects consume most, so I can pair a module quote?
 
 We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
@@ -303,12 +303,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 61）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

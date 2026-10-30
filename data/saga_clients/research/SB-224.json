@@ -17,8 +17,8 @@
   }
  ],
  "kp": [],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Arsenal TV（罗马尼亚 Gmail，电视/视频机构）：2 次回复后 14 次无果，无网站可核",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -130,19 +130,133 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Arsenal TV（罗马尼亚 Gmail，电视/视频机构）：2 次回复后 14 次无果，无网站可核"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 529: 洪瑞商业PoE组合图→price"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "RO · 1 次检索（Gmail 户 1 查即停）：结果全部为 Arsenal F.C. 官方频道 Arsenal TV: 「Arsenal TV」（罗马尼亚；Gmail moisenicolae22@ + +40 7664；WhatsApp / WeChat 已加，2 次实质回复后 · 未取"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-05-29",
+    "R",
+    "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「price」"
+   ],
+   [
+    "529",
+    "表",
+    "洪瑞商业PoE组合图→price"
+   ],
+   [
+    "912",
+    "表",
+    "48工业poe→有兴趣 以及24V poe"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok + WA；最近来信 2025-05-29（17 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "对位不明",
+   "规模未知",
+   "人工终判：Arsenal TV（罗马尼亚 Gmail，电视/视频机构）：2 次回复后 14 次无果，无网站可核"
+  ],
+  "story": "罗马尼亚；登记线索：RO · 1 次检索（Gmail 户 1 查即停）：结果全部为 Arsenal F.C. 官方频道 Arsenal TV: 「Arsenal TV」（罗马尼亚；。往来 2024-09-12→2025-05-29：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2025-05-29 R: 用户表跟进：推「洪瑞商业PoE组合图」→ 对方「price」 ‖ 529 表: 洪瑞商业PoE组合图→price ‖ 912 表: 48工业poe→有兴趣 以及24V poe。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-28DGGPM；路径：免费邮箱 MX ok + WA；最近来信 2025-05-29（17 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2025-05-29",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-09-12",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「48工业poe」→ 对方「有兴趣 以及24V poe」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 912"
+   },
+   {
+    "date": "2025-05-29",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「price」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.11 529"
+   },
+   {
+    "date": "529",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "洪瑞商业PoE组合图",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "912",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "48工业poe",
+    "gist": "有兴趣 以及24V poe",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

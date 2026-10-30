@@ -1,0 +1,286 @@
+{
+ "code": "SC-665",
+ "name_official": "Civitas systems Srl",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "罗马尼亚客户（civitasgroup.ro）：AB-FINAL-02 以回信证据建档——真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "推「Simon 备注/兴趣栏」→ 对方「问了WDM，感觉不是很懂\n拿了catalog, 质量一般」",
+   "quote": "推「Simon 备注/兴趣栏」→ 对方「问了WDM，感觉不是很懂\n拿了catalog, 质量一般」",
+   "url": "Clients/ 表格",
+   "date": "2023"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-02 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2023",
+    "dir": "Simon",
+    "who": "用户表（Simon 跟进记录）",
+    "quote": "推「Simon 备注/兴趣栏」→ 对方「问了WDM，感觉不是很懂\n拿了catalog, 质量一般」",
+    "why": "表内客户回复（pos）",
+    "k": "Clients/ 表格"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-02 建档"
+  },
+  "situation": "罗马尼亚；2023 最后一次来信/回复：推「Simon 备注/兴趣栏」→ 对方「问了WDM，感觉不是很懂\n拿了catalog, 质量一般」",
+  "need": " ‖ 表 2023: Simon 备注/兴→问了WDM，感觉不是很懂\n拿了catalog, 质量一般",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→问了WDM，感觉不是很懂\n拿了catalog, 质量一般"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Civitas Systems Srl（罗马尼亚）：2023 备注一句问价后 24 封去信 0 回；身份/角色未坐实",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "Civitas systems Srl"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→问了WDM，感觉不是很懂\n拿了catalog, 质量一般"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "对位不明",
+   "路径弱",
+   "规模未知",
+   "人工终判：Civitas Systems Srl（罗马尼亚）：2023 备注一句问价后 24 封去信 0 回；身份/角色未坐实"
+  ],
+  "story": "罗马尼亚；研究档法定名：Civitas systems Srl。往来 2023→2026-09-02：我方去信 24 封（A 16 / S 8），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→问了WDM，感觉不是很懂\n拿了catalog, 质量一般。我方报过：$65 / $170 / $240 / $280 / $300 / $6000。对位：待定；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 24,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-02",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "38b81354c6f23bbf"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "a69aa457a897c484"
+   },
+   {
+    "date": "2025-11-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4d0c21df64ecf00c"
+   },
+   {
+    "date": "2025-12-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "19a458d7ffac3b0d"
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "49ecdb4d00354f79"
+   },
+   {
+    "date": "2026-02-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "344fb9f1ab7588ac"
+   },
+   {
+    "date": "2026-03-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "9d31126985b371b3"
+   },
+   {
+    "date": "2026-04-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cafaa836b003bd30"
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "57cb58e5ba35bbed"
+   },
+   {
+    "date": "2026-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "3a49ffa243e14866"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "96f55a97214ad1b7"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "8a01ab1d5cb78002"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
+}

@@ -86,7 +86,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -367,7 +367,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -386,6 +386,209 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）: Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Busin · （登记状态不可免费核）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "1022",
+    "表",
+    "154→想测样"
+   ],
+   [
+    "2024-10-22",
+    "R",
+    "Please send me a sample to test"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-09-22（1 月前）"
+  ],
+  "size": "501–1,000（LinkedIn，3,078 followers）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "沙特阿拉伯·分销商；登记线索：沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）: Al Rajhi Telecom Company（Al。往来 1022→2026-09-22：我方去信 27 封（A 20 / S 6），对方真人来信 0 封 + 表内/备注 1 条；对方问过：1022 表: 154→想测样 ‖ 2024-10-22 R: Please send me a sample to test。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2026-09-22（1 月前）。",
+  "n_out": 27,
+  "n_in": 0,
+  "last_in": "2026-09-22",
+  "last_out": "2026-09-22",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "05aec2578f986c1b"
+   },
+   {
+    "date": "2025-12-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "9efd688822a29f7d"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c4114ef43022e804"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "2636b24e6f8511da"
+   },
+   {
+    "date": "2026-04-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "83726eb19dd08319"
+   },
+   {
+    "date": "2026-04-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "141d5e333a4126c5"
+   },
+   {
+    "date": "2026-05-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "f0cc92278c1e685f"
+   },
+   {
+    "date": "2026-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2813118b16f0e946"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "b6a9440c4b40673c"
+   },
+   {
+    "date": "2026-08-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "c010de0144059cd4"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "in",
+    "box": "A",
+    "from": "info@ekhalas.com",
+    "subj": "Thank you for contacting us!Dear",
+    "gist": "Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we want to assure you that we are working on f",
+    "prices": [],
+    "bulk": false,
+    "k": "3b9a30d69e46d2e7"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5a95d0e149d90de0"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

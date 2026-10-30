@@ -61,7 +61,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -192,7 +192,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -211,6 +211,181 @@
    "to": "A",
    "prev_reason": "A 三条件齐备：① 可追溯真实需求——总经理 Ralph Hannemann 本人通过 Saga 自建站询价「1 台 12 光 12 电」；② 直接具名联系人（GF，r.hannemann@isimko.de）；③ 可赢规模——120 人家族企业、专精工业铜缆/光纤网络的系统集成商（非巨头）。WhatsApp 已加。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费: ISIMKO GmbH（原 G. Fleischhauer Ingenieur-Büro Cottbus GmbH →  · Amtsgericht Cottbus HRB 472 · EUID DEG11 · 在册，年报按期公告（2024 年报 2026-01-19 公 · 1990-09-28"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "光纤",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-488DGGGM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "德国·集成商/安装商；登记坐实：Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费: ISIMKO GmbH（原 G. F。往来 2025-03-25→2026-09-30：我方去信 11 封（A 10 / S 1），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$180。对位：STI-488DGGGM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 11,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-30",
+  "prices_out": [
+   "180"
+  ],
+  "timeline": [
+   {
+    "date": "2025-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "L3 Managed Switch",
+    "gist": "L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6f9bc4626c7cfdef"
+   },
+   {
+    "date": "2025-05-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "a0b9cb152de8b15f"
+   },
+   {
+    "date": "2025-06-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "705842b8e8cb1811"
+   },
+   {
+    "date": "2025-07-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f151c7b9c02f5e92"
+   },
+   {
+    "date": "2025-08-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "34997caa371f7926"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6f5e548fed128a3d"
+   },
+   {
+    "date": "2025-11-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "be1db61193cbed85"
+   },
+   {
+    "date": "2025-12-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "11135032c9b35c1d"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "8819c224c950f563"
+   },
+   {
+    "date": "2026-03-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "d74b831095f99b6b"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "180"
+    ],
+    "bulk": false,
+    "k": "6d2437354be82f93"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

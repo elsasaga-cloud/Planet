@@ -17,8 +17,8 @@
   }
  ],
  "kp": [],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2 个 90W PoE 注入器样品（Głuszek）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：爱尔兰 Gmail 个体 Tomasz Głuszek（2010 起用阿里国际站的小安装商/个体）：表内 2024 问 PoE / 要户外 48V PoE 交换机，WhatsApp 已加；注入器样品是本职公司时期的单；个人主体 → B",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -138,19 +138,157 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2 个 90W PoE 注入器样品（Głuszek）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2 个 90W PoE 注入器样品（Głuszek）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：爱尔兰 Gmail 个体 Tomasz Głuszek（2010 起用阿里国际站的小安装商/个体）：表内 2024 问 PoE / 要户外 48V PoE 交换机，WhatsApp 已加；注入器样品是本职公司时期的单；个人主体 → B"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A1",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "核定成单·2 个 90W PoE 注入器样品（Głuszek）",
+  "reason": "真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
-  "deal": "核定成单·2 个 90W PoE 注入器样品（Głuszek）",
+  "deal": "备注成单（非 Saga，本职公司时期）·2 个 90W PoE 注入器样品（Głuszek）",
   "reply_class": "R+",
   "evidence": " ‖ 表 1213: 提了Levent→just need : outdoor 48v poe switch or DC POE injec"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（仅表内信息）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "poe",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "1213",
+    "表",
+    "提了Levent→just need : outdoor 48v poe switch or DC POE injectors. Nothing else"
+   ],
+   [
+    "2024.4.28",
+    "表",
+    "发了10G MC信息→问了poE  推了2光8BT型号 问了价格"
+   ],
+   [
+    "2024.5.18",
+    "表",
+    "发了几个mini工业交换机→主要是需要PoE 必须要有线上店铺"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok + WA；最近来信 2024-12-13（22 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "规模未知",
+   "人工终判：爱尔兰 Gmail 个体 Tomasz Głuszek（2010 起用阿里国际站的小安装商/个体）：表内 2024 问 PoE / 要户外 48V PoE 交换机，WhatsApp 已加；注入器样品是本职公司时期的单；个人主体 → B"
+  ],
+  "story": "爱尔兰·集成商/安装商；未坐实：无域名（仅表内信息）。往来 1213→2024-12-13：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：1213 表: 提了Levent→just need : outdoor 48v poe switch or DC POE injectors. Nothing else ‖ 2024.4.28 表: 发了10G MC信息→问了poE  推了2光8BT型号 问了价格 ‖ 2024.5.18 表: 发了几个mini工业交换机→主要是需要PoE 必须要有线上店铺。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-28DGGPM；路径：免费邮箱 MX ok + WA；最近来信 2024-12-13（22 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2024-12-13",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "1213",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "提了Levent",
+    "gist": "just need : outdoor 48v poe switch or DC POE injectors. Nothing else",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-04-28",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了10G MC信息」→ 对方「问了poE  推了2光8BT型号 问了价格」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 2024.4.28"
+   },
+   {
+    "date": "2024-05-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了几个mini工业交换机」→ 对方「主要是需要PoE 必须要有线上店铺」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 2024.5.18"
+   },
+   {
+    "date": "2024-12-13",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「提了Levent」→ 对方「just need : outdoor 48v poe switch or DC POE injectors. Nothing else」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.71 1213"
+   },
+   {
+    "date": "2024.4.28",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了10G MC信息",
+    "gist": "问了poE  推了2光8BT型号 问了价格",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.18",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个mini工业交换机",
+    "gist": "主要是需要PoE 必须要有线上店铺",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

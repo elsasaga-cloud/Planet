@@ -62,7 +62,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -192,6 +192,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 DMSI：自有 logo MC 周边（OEM 对位）"
   }
  ],
  "snap_thicken": {
@@ -203,7 +211,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -213,5 +221,184 @@
   "deal": "",
   "reply_class": "auto",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：BBB（Diversified Material Specialists, Inc.；别名 DMS: DMSI International = Diversified Material Specialists, Inc.（dmsimfg.com；North Ve · Active（2025 扩产报道）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "网络"
+  ],
+  "p1": "STI-110GE",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-01-02（21 月前）"
+  ],
+  "size": "51–200 人（63）；$18.5M（第三方）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据"
+  ],
+  "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：BBB（Diversified Material Specialists, Inc.；别名 DMS: DMSI International。往来 2024-05-02→2026-09-28：我方去信 30 封（A 22 / S 8），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280 / $300。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-01-02（21 月前）。",
+  "n_out": 30,
+  "n_in": 0,
+  "last_in": "2025-01-02",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-12-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "efeff6f13a448653"
+   },
+   {
+    "date": "2026-01-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "036d660f689cfab2"
+   },
+   {
+    "date": "2026-01-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cc70459d871aa334"
+   },
+   {
+    "date": "2026-02-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "42ce8597c1b4fb3e"
+   },
+   {
+    "date": "2026-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "1388363794fa108d"
+   },
+   {
+    "date": "2026-04-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "eab8c02f9b06ae11"
+   },
+   {
+    "date": "2026-05-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "db94375829be6611"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4973ad03d6463365"
+   },
+   {
+    "date": "2026-06-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "58c03979a698b83a"
+   },
+   {
+    "date": "2026-07-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e8b3ceb90eae69e4"
+   },
+   {
+    "date": "2026-08-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "1cc8d684c81360da"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "10091d622fd77f9a"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

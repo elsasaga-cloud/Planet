@@ -22,8 +22,8 @@
    "role": "WA（2024–2025 五次回复：芯片 / 价目 / 2.5G / MCU）— WA 一页纸一次：集成商 25% B、STC-028GP $28 / STC-228GP $33 一口价 + MOQ 1；2.5G 等 SB-263 口径不报；一句话问公司名 — 尼日利亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 拉各斯、SON / NCC 不声称（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -126,11 +126,27 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -140,5 +156,172 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 618: 洪瑞商业PoE组合图→千兆8口pOE价格"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（仅表内信息）"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024.6.26",
+    "表",
+    "发了几个商业交换机图→chip?"
+   ],
+   [
+    "2024.7.24",
+    "表",
+    "passive poe手册→price list"
+   ],
+   [
+    "2024.8.21",
+    "表",
+    "4 8口工业poE→prices"
+   ],
+   [
+    "2025.2.20",
+    "表",
+    "工业16 24口出货图→需求不太多"
+   ],
+   [
+    "618",
+    "表",
+    "洪瑞商业PoE组合图→千兆8口pOE价格"
+   ],
+   [
+    "914",
+    "表",
+    "2.5G Ethernet→啥是2.5g"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ? + WA；最近来信 2025-06-18（16 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知"
+  ],
+  "story": "尼日利亚；未坐实：无域名（仅表内信息）。往来 1118→2025-06-18：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 7 条；对方问过：2024.8.21 表: 4 8口工业poE→prices ‖ 2025.2.20 表: 工业16 24口出货图→需求不太多 ‖ 618 表: 洪瑞商业PoE组合图→千兆8口pOE价格 ‖ 914 表: 2.5G Ethernet→啥是2.5g。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-28DGGPM；路径：免费邮箱 MX ? + WA；最近来信 2025-06-18（16 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2025-06-18",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "1118",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "引流机型",
+    "gist": "MCU processor",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.6.26",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个商业交换机图",
+    "gist": "chip?",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.7.24",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "passive poe手册",
+    "gist": "price list",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.21",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业poE",
+    "gist": "prices",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-02-20",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「工业16 24口出货图」→ 对方「需求不太多」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.23 2025.2.20"
+   },
+   {
+    "date": "2025-06-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「洪瑞商业PoE组合图」→ 对方「千兆8口pOE价格」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.23 618"
+   },
+   {
+    "date": "2025.2.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "工业16 24口出货图",
+    "gist": "需求不太多",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "618",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "洪瑞商业PoE组合图",
+    "gist": "千兆8口pOE价格",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "914",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "2.5G Ethernet",
+    "gist": "啥是2.5g",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

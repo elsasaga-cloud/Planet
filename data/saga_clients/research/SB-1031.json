@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -185,6 +185,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）"
   }
  ],
  "snap_thicken": {
@@ -226,7 +234,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -236,5 +244,68 @@
   "deal": "",
   "reply_class": "none",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "GB · 1 次检索：Companies House 09757591（RALAKDE LTD；2015-09-02 注: RALAKDE LTD（findcontrols.com / ralakde.co.uk；Stoke-on-Trent） · Companies House 09757591（关联 11435782 / 1 · Active（2025-11 新设控股公司 = 重组中） · 2015-09-02"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "industrial",
+   "switch",
+   "工业"
+  ],
+  "p1": "STI-144GP",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型（1 名股东）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "英国·分销商；登记坐实：GB · 1 次检索：Companies House 09757591（RALAKDE LTD；2015-09-02 注: RALAKDE LTD（findco。往来 2024-06-22→2025-03-30：我方去信 2 封（A 0 / S 1），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-144GP；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2025-03-30",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "CCTV poe switch",
+    "gist": "CCTV poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8a95edcd42abafd9"
+   },
+   {
+    "date": "2025-03-30",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To sales@luxritesecurity.com",
+    "subj": "",
+    "gist": "8 Port Industrial PoE Switch — This is a Marvell based unmanaged 8 Port Gigabit PoE switch. 1. 30W per port for outdoor IP cameras 2. Support 250-meter PoE dist",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

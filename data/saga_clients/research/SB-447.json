@@ -43,7 +43,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -283,6 +283,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）"
   }
  ],
  "snap_thicken": {
@@ -320,15 +328,214 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2025-04-10] Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE  ‖ 表 2025.4.10: 群发了2光4PoE→ds ‖ 研 2025-04-10 Azad Khan（Automation Systems and Solution）: Thanks First, we need datasheet"
+  "evidence": "[E 2025-04-10] Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE  ‖ 表 2025.4.10: 群发了2光4PoE→ds"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RA: Automation Systems & Solution（automationsystem.in；**个体经营；GST · GSTIN 07AOCPK7395A1Z0 · Active · 2007"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "industrial",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STI-244GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-04-10",
+    "E",
+    "Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE 交换机 2×GE SFP + 4×GE PoE，120W，P"
+   ],
+   [
+    "2025-04-10",
+    "R",
+    "Thanks First, we need datasheet"
+   ],
+   [
+    "2025.4.10",
+    "表",
+    "群发了2光4PoE→ds"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2025-04-10（18 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "印度·分销商；登记坐实：IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RA: Automation Systems。往来 2024-06-14→2025-04-22：我方去信 17 封（A 0 / S 13），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-04-10 E: Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE 交换机 2×GE SFP + 4×GE PoE，120W，P ‖ 2025-04-10 R: Thanks First, we need datashe。我方报过：$65 / $300。对位：STI-244GP；路径：免费邮箱 MX ok；最近来信 2025-04-10（18 月前）。",
+  "n_out": 17,
+  "n_in": 1,
+  "last_in": "2025-04-10",
+  "last_out": "2025-04-22",
+  "prices_out": [
+   "65",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-10-01",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Passive PoE Switch",
+    "gist": "24 Port Passive PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a3016615df9d9c33"
+   },
+   {
+    "date": "2024-10-21",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Ethernet Switch",
+    "gist": "8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f72236cf83aa65ef"
+   },
+   {
+    "date": "2024-11-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "33cabda9dc30dfd8"
+   },
+   {
+    "date": "2024-11-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "22d33431b25b7cf6"
+   },
+   {
+    "date": "2024-12-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "4344cb7679b56f09"
+   },
+   {
+    "date": "2024-12-31",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a1d98f9020c329e2"
+   },
+   {
+    "date": "2024-12-31",
+    "dir": "out",
+    "box": "R",
+    "from": "S 群发",
+    "subj": "",
+    "gist": "10G media converter、Web managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-04-10",
+    "dir": "in",
+    "box": "R",
+    "from": "Azad Khan（Automation Systems and Solutio",
+    "subj": "",
+    "gist": "Thanks First, we need datasheet",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-04-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "1, Price: 35usd/pc STI-244GP: industrial PoE Switch 2*Gigabit SFP+4*10/100/1000M RJ45, POE af/at, 120W, Unmanaged… -40℃ to 75℃, Din mounted, Without SFP Transce",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 1961f90afa90cc6c"
+   },
+   {
+    "date": "2025-04-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To support@sislinfotech.com，",
+    "subj": "",
+    "gist": "Industrial PoE Switch — This is a Marvell based industrial PoE switch for you. Port: 2*Gigabit SFP+4*Gigabit PoE Feature: 120W budget, PoE watchdog, 250-meter p",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-04-22",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Any feedback about our product and offer? Do you need some samples for testing?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 1965c7cf423f243a"
+   },
+   {
+    "date": "2025.4.10",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "群发了2光4PoE",
+    "gist": "ds",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

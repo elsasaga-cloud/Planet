@@ -56,7 +56,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 0 条（S；2024-09→2024-09）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -222,16 +222,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 2 条 / 研究档 0 条（S；2024-09→2024-09）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-09-06] What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, \"Simon\" <s.sagatelecom@ ‖ [S 2024-09-06] Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение ------ ‖ 表 1119: 引流机型→有需求会说的 ‖ 研 2024-09-06 Nikolay: What is the price for them? And how do you want to send them to us?"
+  "evidence": "[S 2024-09-06] What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, \"Simon\" <s.sagatelecom@ ‖ [S 2024-09-06] Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение ------ ‖ 表 1119: 引流机型→有需求会说的"
  },
  "override_history": [
   {
@@ -241,6 +241,204 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 0 条（S；2024-09→2024-09）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Россия · ЕГРЮЛ 镜像（companium / rusprofile 2026-09-16 更新 / com: ООО «СКЕО»（品牌 SKEO，skeo.ru） · ОГРН 1147847171185 · ИНН 7810990736 · КП · Действующее（2026-09-16 核） · 2014-05-14"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "sfp",
+   "交换机",
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-09-06",
+    "S",
+    "Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение -------- Тема: 8 port unmanaged swit"
+   ],
+   [
+    "2024-09-06",
+    "S",
+    "What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, \"Simon\" <s.sagatelecom@gmail.com>: Hi, Nikolay, Thank"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）"
+  ],
+  "size": "3（ССЧ）；营收 2023 102.5 → 2024 75.6 → 2025 100.7 млн ₽（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "俄罗斯·OEM 品牌商；登记坐实：Россия · ЕГРЮЛ 镜像（companium / rusprofile 2026-09-16 更新 / com: ООО «СКЕО»（品牌 SKEO。往来 1119→2026-07-02：我方去信 8 封（A 3 / S 5），对方真人来信 2 封 + 表内/备注 2 条；对方问过：2024-09-06 S: Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение -------- Тема: 8 port unmanaged swit ‖ 2024-09-06 S: What is the price for them? A。我方报过：$33 / $65 / $280。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）。",
+  "n_out": 8,
+  "n_in": 2,
+  "last_in": "2024-11-19",
+  "last_out": "2026-07-02",
+  "prices_out": [
+   "33",
+   "65",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2024-07-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "51bcfc210f80fb4f"
+   },
+   {
+    "date": "2024-08-10",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial Network Switch",
+    "gist": "Industrial Network Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5ee949318c6090af"
+   },
+   {
+    "date": "2024-09-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 port unmanaged switch",
+    "gist": "8 port unmanaged switch",
+    "prices": [],
+    "bulk": false,
+    "k": "09aa429b0c51fb87"
+   },
+   {
+    "date": "2024-09-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 port unmanaged switch",
+    "gist": "Re: 8 port unmanaged switch",
+    "prices": [
+     "33"
+    ],
+    "bulk": false,
+    "k": "8884a81a60ecbdb4"
+   },
+   {
+    "date": "2024-09-06",
+    "dir": "in",
+    "box": "S",
+    "from": "npa@skeo.ru",
+    "subj": "Re: 8 port unmanaged switch",
+    "gist": "What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, \"Simon\" <s.sagatelecom@gmail.com>: Hi, Nikolay, Thanks for your interest.",
+    "prices": [],
+    "bulk": false,
+    "k": "01bcd6732964d044"
+   },
+   {
+    "date": "2024-09-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 port unmanaged switch",
+    "gist": "Re: 8 port unmanaged switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ba1598925e30939a"
+   },
+   {
+    "date": "2024-09-06",
+    "dir": "in",
+    "box": "S",
+    "from": "npa@skeo.ru",
+    "subj": "Fwd: 8 port unmanaged switch",
+    "gist": "Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение -------- Тема: 8 port unmanaged switch Дата: Thu, 5 Sep ",
+    "prices": [],
+    "bulk": false,
+    "k": "46b6696538cc7288"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 微信）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「有需求会说的」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.13 1119"
+   },
+   {
+    "date": "2024.9.5",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "8电口",
+    "gist": "有兴趣",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-04-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6ef045e6421a409d"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "db8cb4db3bd61653"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "369b0fe0b3af2557"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

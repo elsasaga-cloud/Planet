@@ -25,8 +25,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：巴基斯坦 hotmail 个人 Ahmad Awan：2021–2023 问 E1 光 MC / 进口证；非 Saga 品类 + 个人",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -121,11 +121,27 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：巴基斯坦 hotmail 个人 Ahmad Awan：2021–2023 问 E1 光 MC / 进口证；非 Saga 品类 + 个人"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -134,6 +150,94 @@
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": " ‖ 表 2023.6.15: 发了bypass图 →有用"
+  "evidence": " ‖ 表 : Simon 备注/兴→很早之前问了E1 fiber modem ； 9232150 75737\n已加"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（免费邮箱/仅电话）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "光纤",
+   "工业"
+  ],
+  "p1": "STI-110GE",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→很早之前问了E1 fiber modem ； 9232150 75737\n已加"
+   ],
+   [
+    "2023.2.7",
+    "表",
+    "发了CCTV热品excel→没进口证/价格更新了吗？"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "路径弱",
+   "规模未知",
+   "人工终判：巴基斯坦 hotmail 个人 Ahmad Awan：2021–2023 问 E1 光 MC / 进口证；非 Saga 品类 + 个人"
+  ],
+  "story": "巴基斯坦；未坐实：无域名（免费邮箱/仅电话）。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过： 表: Simon 备注/兴趣栏→很早之前问了E1 fiber modem ； 9232150 75737\n已加 ‖ 2023.2.7 表: 发了CCTV热品excel→没进口证/价格更新了吗？。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STI-110GE；路径：免费邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "很早之前问了E1 fiber modem ； 9232150 75737\n已加",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2023.2.7",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了CCTV热品excel",
+    "gist": "没进口证/价格更新了吗？",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2023.6.15",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了bypass图 DS ali链接",
+    "gist": "有用",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

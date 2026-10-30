@@ -14,7 +14,7 @@
  ],
  "country_fix": "Turkey",
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "evidence": [
   {
    "kind": "Gmail 往来（S 邮箱）",
@@ -1206,7 +1206,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -1225,6 +1225,219 @@
    "to": "A",
    "prev_reason": "成单客户：S 邮箱可证 5 批订单（2024-05 → 2025-06），含 176 台大单；在谈 Turk Telekom 千台级项目与 TronX 常规订单；两名实名 KP 直接往来。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "研究档法定名",
+   "ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.（2016-11-28 设立；NACE 62.09.02；登记地 Alacaatlı Mah. Park Cad. 47/31 Yen"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-07-14",
+    "R",
+    "Saga is our manufacturer for the industrial switches for our project… we will include 1 1G-LX module in each switch during shipment"
+   ],
+   [
+    "2025-07-24",
+    "R",
+    "We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches"
+   ],
+   [
+    "2025-07-29",
+    "R",
+    "We have a request for a NATO project… [SRS-284] 1 x RJ45 10/100/1000 Base-T [SRS-285] 1 x SFP slot [SRS-286] 9k Jumbo [SRS-289] LFP…"
+   ],
+   [
+    "2026-03-05",
+    "R",
+    "CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat"
+   ],
+   [
+    "2026-07-31",
+    "R",
+    "Angora Networks views SAGA Telecom as our foundational manufacturing partner… four requirements for a true enterprise L3 tier: Stacking / US"
+   ],
+   [
+    "2026-10-03",
+    "R",
+    "Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-10-03（0 月前）"
+  ],
+  "size": "未核（本档案不含网页调研）；按订单规模与项目体量判断为中型集成商",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "土耳其·OEM 品牌商；研究档法定名：ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.（2016-11-28 设立；NACE 62.09.0。往来 2024-04-28→2026-10-03：我方去信 24 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2025-07-29 R: We have a request for a NATO project… [SRS-284] 1 x RJ45 10/100/1000 Base-T [SRS-285] 1 x SFP slot [SRS-286] 9k Jumbo [SRS-289] LFP… ‖ 2026-03-05 R: CONFIDENTIAL… Turkish Police… buy one。我方报过：2025-07-15  $220.0；2025-07-14  $220.0；2025-09-04  $220.0。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-10-03（0 月前）。",
+  "n_out": 24,
+  "n_in": 0,
+  "last_in": "2026-10-03",
+  "last_out": "2026-08-17",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025-07-11",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Levent（PI STSC20250711007）",
+    "subj": "",
+    "gist": "STI-288DGGPM → 买方型号 **TT-2208-PG** ×10 @$125 = $1,250（Marvell AC5，L2+，240W，Regular PVC mask；\"With Turk Telekom Branding\"；MAC 98:06:37:A5:00:19~22；Serial 2505220",
+    "prices": [],
+    "bulk": false,
+    "k": "S 邮箱附件 `STSC20250711007.pdf`（k=96c80f372a603572）"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "in",
+    "box": "R",
+    "from": "Taylan Esen（技术）",
+    "subj": "",
+    "gist": "We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our management p",
+    "prices": [],
+    "bulk": false,
+    "k": "eb90a8d5a460add9"
+   },
+   {
+    "date": "2025-07-24",
+    "dir": "in",
+    "box": "R",
+    "from": "Taylan Esen",
+    "subj": "",
+    "gist": "We are working to fully integrate TT switches into the new management system. Can you please help me with SNMP v3 config. Also we need a full configuration guid",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 2025-07-24 TT switch administration guide"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "in",
+    "box": "R",
+    "from": "Taylan Esen",
+    "subj": "",
+    "gist": "You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem",
+    "prices": [],
+    "bulk": false,
+    "k": "14e8b46bf6477893"
+   },
+   {
+    "date": "2025-11-03",
+    "dir": "in",
+    "box": "R",
+    "from": "Taylan Esen（附 Gaziantep_HighLevel_Networ",
+    "subj": "",
+    "gist": "终端 = **Gaziantep 市政路口监控网**（\"the most EU funded municipality in the whole Europe\"）：全 L2，每个路口站点 = 摄像头（VLAN 340）+ 路口控制服务器（VLAN 350）+ 管理 VLAN 330，经光纤或无线 radiolink →",
+    "prices": [],
+    "bulk": false,
+    "k": "S 邮箱附件 k=295ade16061bab0c / 78cc16b2cb62bcb4 / 1f3a36658e0378a8；邮件 2025-11-02 10:40Z、11-03 11:39Z"
+   },
+   {
+    "date": "2025-11-07",
+    "dir": "in",
+    "box": "R",
+    "from": "Taylan Esen",
+    "subj": "",
+    "gist": "big thanks for the support today… what I have seen so far does not make me think that we have a hardware issue",
+    "prices": [],
+    "bulk": false,
+    "k": "d948115bd556b921"
+   },
+   {
+    "date": "2026-03-05",
+    "dir": "in",
+    "box": "R",
+    "from": "Levent Kılıç",
+    "subj": "",
+    "gist": "CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat",
+    "prices": [],
+    "bulk": false,
+    "k": "c6da478f3e47457d"
+   },
+   {
+    "date": "2026-07-07",
+    "dir": "in",
+    "box": "R",
+    "from": "Taylan Esen",
+    "subj": "",
+    "gist": "the same customer would like to have an updated version… This comes from their security assurance team",
+    "prices": [],
+    "bulk": false,
+    "k": "397660b870629deb"
+   },
+   {
+    "date": "2026-07-08",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon",
+    "subj": "",
+    "gist": "That order was based on AC3 chip. We are now fully transitioning to AC5 chip. So AC3 models will NOT be available anymore… I sent it to Levent on WeChat",
+    "prices": [],
+    "bulk": false,
+    "k": "1ecdcf634c06d0fa"
+   },
+   {
+    "date": "2026-07-31",
+    "dir": "in",
+    "box": "R",
+    "from": "Levent Kılıç（SAGA Enterprise L3 Recommen",
+    "subj": "",
+    "gist": "Angora Networks views SAGA Telecom as our foundational manufacturing partner… four requirements for a true enterprise L3 tier: Stacking / USB port / OOB managem",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹 7_土耳其_Levent（未见邮件原件，可能走微信）"
+   },
+   {
+    "date": "2026-08-17",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon（Reply on \"SAGA Enterprise L3 Recom",
+    "subj": "",
+    "gist": "our Marvell solutions have fully shifted from AC3 series to AC5 series… lite-hotfix-7.3.13 is the last version… Our positioning is clearly on Marvell L2+ soluti",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹 7_土耳其_Levent"
+   },
+   {
+    "date": "2026-10-03",
+    "dir": "in",
+    "box": "R",
+    "from": "Levent（微信，10-02 19:56）→ Simon（10-03 00:1",
+    "subj": "",
+    "gist": "Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same box → Simo",
+    "prices": [],
+    "bulk": false,
+    "k": "wechat_ocr"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -12,7 +12,7 @@ code: SA-045
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Energy Plus Systems（Viña del Mar, Chile）"
 score: 76
 country: 智利
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：智利比尼亚德尔马的矿业/工业技术供应商（团队 15+ 年经验）：变频器、软启动、矿用电缆与接插件、变压器、PLC、传感器、工业交换机与通信、光纤/机柜/UTP、IoT、光伏套件。用户表：S 重点名单，1 次实质回复，18 次跟进；兴趣工业 FS（中科德能款）；联系人 Ling。（调研 2026-10-21；表内兴趣：工业FS 中科德能的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-09→2024-09））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/智利；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-09→2024-09））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/智利；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 18 次（2024-05-30 → 2025-12-29）；最近一次客户回复：2024-09-27：price and moq
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP — 不主动。已打开的主题（6/25 封有打开记录）：「Re: Industrial PoE Switch」(2024-09-28)、「Re: Industrial PoE Switch」(2024-10-08)、「Re: Industrial PoE Switch」(2024-10-23)、「24 Port Fiber Switch」(2025-08-28) → 读者兴趣偏「工业」；与 P1 同类，继续；历史报价（邮件原话，老汇率）：2024-09-28 STI-154GP 38usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-19 $65（10G media converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-28 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -168,7 +168,7 @@ updated: 2026-10-30
   > 来源：https://energyplusystems.cl/（抓取 2026-10-21）
 - **KP**：Ling（用户表）（联系人）ventas@energyplusystems.cl +56 9 9218 8218〔https://energyplusystems.cl/sistemas-fotovoltaicos/〕
 - **KP**：Ling Fuentes（Ventas（销售，官网公开））ventas@energyplusystems.cl +56 9 9218 8218〔https://energyplusystems.cl/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-09→2024-09）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-09→2024-09）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在重点区、单量小；P1 = STI-288DGGPM（矿业宽温、冗余电源），25% 集成商档。
 
@@ -247,6 +247,38 @@ A 维持（S 重点 + 已回复 + 矿业工业交换机场景）；拉美不在�
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#21 |
 | 2025-11-28 | 1128 | solar |  | S |  | S 09.08.xlsx#21 |
 | 2025-12-29 | 1229 | taiwan |  | S |  | S 09.08.xlsx#21 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试；本行为「无登记源」记录（据第 : Energyplus Systems（energyplusystems.cl） · （登记状态不可免费核） |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet industrial network poe sfp switch 交换机 光纤；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-09-27 S: Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel ‖ 927 表: 154→price and moq |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-09-27（25 月前） |
+| ⑤ 规模 | ≥小型 | 未见人数（小型） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：智利·分销商；登记线索：智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试；本行为「无登记源」记录（据第 : Energyplus Systems。往来 2024-06-26→2026-09-08：我方去信 25 封（A 1 / S 24），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-09-27 S: Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel ‖ 927 表: 154→price and moq。我方报过：$38 / $65 / $170 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱；最近来信 2024-09-27（25 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-28 | 去 | S | Industrial PoE Switch |  |
+| 2025-08-28 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-09-30 | 去 | S | Mini Industrial PoE Switch |  |
+| 2025-10-29 | 去 | S | 10G Enterprise SFP Switch | $280 |
+| 2025-11-27 | 去 | S | Booster PoE Switch |  |
+| 2025-12-29 | 去 | S | Optional Marvell Chipset Solutions |  |
+| 2026-01-29 | 去 | S | OEM Core Switching Solution |  |
+| 2026-03-03 | 去 | S | Updated Ethernet Switches Links |  |
+| 2026-06-22 | 去 | S | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
+| 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
+| 927 | 表 | 表 | 154｜price and moq |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

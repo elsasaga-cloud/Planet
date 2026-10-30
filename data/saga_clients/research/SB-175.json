@@ -42,7 +42,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -152,16 +152,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）",
+  "grade_before": "A",
+  "reason": "真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2023-06-19] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at ‖ [S 2023-06-19] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at ‖ 表 2024.1.18: 发了2光4相关信息→有用但现在没需求 ‖ 研 2023-06-19 ei-telcomlead@aamindustrial.com: Dear Sir, Greetings from AAM! Please provide your technical quot"
+  "evidence": "[S 2023-06-19] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at ‖ [S 2023-06-19] Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the at ‖ 表 : Simon 备注/兴→做项目的 问了几个产品 ； 9665720 12594 已加 ； 9665720 12594 已加\n"
  },
  "override_history": [
   {
@@ -171,6 +171,202 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracti: M. Al-Barghash Trading & Contracting Company (MBTC)（mbtc.com.sa；**1976 年成立；100%  · 营业中（名录）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "industrial",
+   "工业"
+  ],
+  "p1": "STI-244GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→做项目的 问了几个产品 ； 9665720 12594 已加 ； 9665720 12594 已加\nWasi Akthar\nei-telcomlead@aami"
+   ],
+   [
+    "2023-06-19",
+    "S",
+    "Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&I- Telecom Lead AAM"
+   ],
+   [
+    "2023-06-19",
+    "S",
+    "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your bes"
+   ],
+   [
+    "2023-06-19",
+    "S",
+    "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your bes"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 2024-01-18（33 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "沙特阿拉伯·分销商；登记线索：SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracti: M. Al-Barghash Tra。往来 —→2026-09-22：我方去信 5 封（A 5 / S 0），对方真人来信 3 封 + 表内/备注 2 条；对方问过： 表: Simon 备注/兴趣栏→做项目的 问了几个产品 ； 9665720 12594 已加 ； 9665720 12594 已加\nWasi Akthar\nei-telcomlead@aami ‖ 2023-06-19 S: Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical item。我方报过：$170 / $280。对位：STI-244GP；路径：企业邮箱 + WA；最近来信 2024-01-18（33 月前）。",
+  "n_out": 5,
+  "n_in": 3,
+  "last_in": "2024-01-18",
+  "last_out": "2026-09-22",
+  "prices_out": [
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "做项目的 问了几个产品 ； 9665720 12594 已加 ； 9665720 12594 已加\nWasi Akthar\nei-telcomlead@aami",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2023-06-19",
+    "dir": "in",
+    "box": "S",
+    "from": "ei-telcomlead@aamindustrial.com",
+    "subj": "RFQ FOR ELECTRICAL ITEMS MCB",
+    "gist": "Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&I- Telecom Lead AAM Industrial EST Mobi",
+    "prices": [],
+    "bulk": false,
+    "k": "2ff1477327f64427"
+   },
+   {
+    "date": "2023-06-19",
+    "dir": "in",
+    "box": "S",
+    "from": "ei-telcomlead@aamindustrial.com",
+    "subj": "RFQ for telecom items",
+    "gist": "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes. Best Regar",
+    "prices": [],
+    "bulk": false,
+    "k": "0c993be0c8b28c1b"
+   },
+   {
+    "date": "2023-06-19",
+    "dir": "in",
+    "box": "S",
+    "from": "ei-telcomlead@aamindustrial.com",
+    "subj": "RFQ for telecom items",
+    "gist": "Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & provide your best quotes. Best Regar",
+    "prices": [],
+    "bulk": false,
+    "k": "67ff85adf25b0aff"
+   },
+   {
+    "date": "2024-01-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2光4相关信息」→ 对方「有用但现在没需求」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.13 2024.1.18"
+   },
+   {
+    "date": "2024.1.18",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光4相关信息",
+    "gist": "有用但现在没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-05-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "6899768afc7a45cc"
+   },
+   {
+    "date": "2026-06-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5f1d744ef879dea9"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "8e760ccc83514bc6"
+   },
+   {
+    "date": "2026-08-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "b0737c4c7e695a90"
+   },
+   {
+    "date": "2026-09-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b63c8c27929aeeca"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

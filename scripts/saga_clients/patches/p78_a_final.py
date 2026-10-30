@@ -13,13 +13,15 @@ import csv
 import importlib.util
 import json
 import os
+import re
 from collections import Counter
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
 SD = os.path.join(ROOT, 'data', 'saga_clients')
 RESEARCH = os.path.join(SD, 'research')
 DATE = '2026-10-30'
-BATCH = 'AB-FINAL-01'
+import sys
+BATCH = sys.argv[1] if len(sys.argv) > 1 else 'AB-FINAL-01'
 LOG = os.path.join(ROOT, 'data', '长期客户群_复核记录.csv')
 
 
@@ -30,6 +32,17 @@ def load_sieve_mod():
     return m
 
 
+def iso_date(x):
+    x = str(x or '').strip()
+    m = re.match(r'^(20\d\d)[.\-/](\d{1,2})[.\-/](\d{1,2})$', x)
+    if m:
+        return f'{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}'
+    m = re.match(r'^(20\d\d)[.\-/](\d{1,2})$', x)
+    if m:
+        return f'{m.group(1)}-{int(m.group(2)):02d}'
+    return x if re.match(r'^20\d\d', x) else ''
+
+
 def build_mail_review(e, r, d):
     facts = []
     for m in d.get('msgs') or []:
@@ -37,7 +50,7 @@ def build_mail_review(e, r, d):
             continue
         facts.append({'date': m['date'], 'dir': '来', 'who': m['from'], 'quote': (m['subj'] + '｜' + m['excerpt'])[:300], 'why': f"{ {'S': 'S 邮箱', 'A': 'Alan 邮箱', 'E': 'Elsa 邮箱'}.get(m['box'], m['box']) } 真人来信（{m['cls']}）", 'k': m['k']})
     for t in d.get('tbl_replies') or []:
-        facts.append({'date': t['date'], 'dir': 'Simon', 'who': '用户表（Simon 跟进记录）', 'quote': f"推「{t['content']}」→ 对方「{t['reply']}」", 'why': f"表内客户回复（{t['kind']}）", 'k': 'Clients/ 表格'})
+        facts.append({'date': iso_date(t['date']) or DATE, 'dir': 'Simon', 'who': '用户表（Simon 跟进记录）', 'quote': f"推「{t['content']}」→ 对方「{t['reply']}」", 'why': f"表内客户回复（{t['kind']}）", 'k': 'Clients/ 表格'})
     return facts, {'as_of': DATE, 'facts': facts,
                    'binding': {'level': '轻度触达（有来信/表内回复，见 facts；无成单）', 'note': f'{BATCH} 建档'},
                    'situation': f"{e.get('country') or ''}；{(facts[-1]['date'] if facts else '')} 最后一次来信/回复：{(facts[-1]['quote'][:80] if facts else '—')}",
@@ -59,7 +72,7 @@ def ensure_card(code, r, ents, dossier):
             continue
         facts.append({'date': m['date'], 'dir': '来', 'who': m['from'], 'quote': (m['subj'] + '｜' + m['excerpt'])[:300], 'why': f"{ {'S': 'S 邮箱', 'A': 'Alan 邮箱', 'E': 'Elsa 邮箱'}.get(m['box'], m['box']) } 真人来信（{m['cls']}）", 'k': m['k']})
     for t in d.get('tbl_replies') or []:
-        facts.append({'date': t['date'], 'dir': 'Simon', 'who': '用户表（Simon 跟进记录）', 'quote': f"推「{t['content']}」→ 对方「{t['reply']}」", 'why': f"表内客户回复（{t['kind']}）", 'k': 'Clients/ 表格'})
+        facts.append({'date': iso_date(t['date']) or DATE, 'dir': 'Simon', 'who': '用户表（Simon 跟进记录）', 'quote': f"推「{t['content']}」→ 对方「{t['reply']}」", 'why': f"表内客户回复（{t['kind']}）", 'k': 'Clients/ 表格'})
     card = {'code': code, 'name_official': e.get('name') or '', 'researched_at': DATE, 'website_status': '待快照',
             'summary': f"{e.get('country') or ''}客户（{', '.join((e.get('domains') or [])[:1]) or '无域名'}）：{BATCH} 以回信证据建档——{r['reason'] or r['why_not']}。公司底数未查（新入库即查排队）。",
             'type': '', 'size': '', 'brands_seen': [], 'evidence': [{'kind': '邮箱来信/用户表', 'claim': f['quote'][:120], 'quote': f['quote'], 'url': f.get('k', ''), 'date': f['date']} for f in facts[:6]],

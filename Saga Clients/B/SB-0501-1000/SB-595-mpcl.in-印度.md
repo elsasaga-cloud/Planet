@@ -1,9 +1,9 @@
 # mpcl.in
 **官方名称（调研核实）**：MPCL（mpcl.in，India；邮箱退信）
 
-> **评级 B**　|　印度　|　档案编号 `SB-595`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　印度　|　档案编号 `SB-595`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(富通天下)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-595
@@ -16,7 +16,7 @@ region: 南亚
 website: mpcl.in
 type: 经销/集成（类型待核）
 tier_tags: ["群发(富通天下)"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -26,14 +26,14 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度公司 MPCL（mpcl.in；chetan@mpcl.in，群发退信「发不过去」）。用户表（富通天下外贸数据）：买了商业 PoE 交换机（从同行进口），非 Saga 成交。邮箱不可达 → 需从官网重新找联系方式；主体待核。（调研 2026-10-21；表内兴趣：买了商业POE）
-- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
-- **历史互动**：成交/下单过
+- **为什么是 B 级**：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 默认 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）；非管理 STC-228GP（$30.8）；24 口 STC-424DGGPM-280W（$140.1）；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hello MPCL team, for the commercial PoE switches you import: 2× SFP + 8× PoE unmanaged at $34.6 USD EXW, 8-PoE + 2 SFP L2+ managed at $84.1, 24-port PoE 280 W L2+ at $140.1 (MOQ 1, 15-day validity) — which configuration do you buy most?
 - **最大未知**：年走量与现供应商
@@ -73,7 +73,7 @@ updated: 2026-10-29
 
 - `mpcl.in` → Barracuda 网关（MX：d303705.a.ess.de.barracudanetworks.com、d303705.b.ess.de.barracudanetworks.com）。企业级邮件网关（Barracuda 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
 
-**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（印度 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-08 Diwali；11-24 Guru Nanak's Birthday —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 - 【宗教】11-08→11-10：排灯节 Diwali（11-08 周日）：11-09/11-10 多数公司放假，整周慢
@@ -209,7 +209,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -217,7 +217,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：南亚：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -238,7 +238,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -252,7 +252,7 @@ updated: 2026-10-29
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
@@ -279,12 +279,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 36）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

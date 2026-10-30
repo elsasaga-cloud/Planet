@@ -26,8 +26,8 @@
    "role": "联系人（研究档 KP；2022 起与 e. 账号来往）— 不动：需求 Cisco 兼容交换机 + 10G DAC（不供）+ 无公司 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：赞比亚 hotmail 个人 dbjcontrad：2025-10 Elsa 群发回「price info」；个人 + 非主攻区",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -142,16 +142,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2025-10-05] Dear Elsa, Thank you for reaching out and sharing information about the 24-port Marvell-based managed SFP swit ‖ 表 2025.10.5: DAC→price info ‖ 研 2025-10-05 dbjcontrad（赞比亚）: could you kindly provide us with the datasheet for this switch? Additionally, we"
+  "evidence": "[E 2025-10-05] Dear Elsa, Thank you for reaching out and sharing information about the 24-port Marvell-based managed SFP swit ‖ 表 2025.10.5: DAC→price info"
  },
  "override_history": [
   {
@@ -161,6 +161,212 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：赞比亚 hotmail 个人 dbjcontrad：2025-10 Elsa 群发回「price info」；个人 + 非主攻区"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "交换机"
+  ],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-10-05",
+    "E",
+    "Dear Elsa, Thank you for reaching out and sharing information about the 24-port Marvell-based managed SFP switch. It sounds like an impressi"
+   ],
+   [
+    "2025-10-05",
+    "R",
+    "could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire…"
+   ],
+   [
+    "2025.10.5",
+    "表",
+    "DAC→price info"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2025-10-05（12 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "规模未知",
+   "人工终判：赞比亚 hotmail 个人 dbjcontrad：2025-10 Elsa 群发回「price info」；个人 + 非主攻区"
+  ],
+  "story": "赞比亚·集成商/安装商；未坐实：无域名。往来 2024-06-14→2025-10-08：我方去信 12 封（A 0 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-10-05 E: Dear Elsa, Thank you for reaching out and sharing information about the 24-port Marvell-based managed SFP switch. It sounds like an impressi ‖ 2025-10-05 R: could you kindly provide us w。我方报过：$65 / $220。对位：待定；路径：免费邮箱 MX ok；最近来信 2025-10-05（12 月前）。",
+  "n_out": 12,
+  "n_in": 1,
+  "last_in": "2025-10-05",
+  "last_out": "2025-10-08",
+  "prices_out": [
+   "65",
+   "220"
+  ],
+  "timeline": [
+   {
+    "date": "2024-08-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial network switch",
+    "gist": "Industrial network switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bccef2cd7682bc47"
+   },
+   {
+    "date": "2024-08-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Commercial poe switch",
+    "gist": "Commercial poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2f5e8c67de1ff35f"
+   },
+   {
+    "date": "2024-10-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "100G Data Center Switch",
+    "gist": "100G Data Center Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "383ec3bfacc287ce"
+   },
+   {
+    "date": "2024-11-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a2a7e71b38a22dbc"
+   },
+   {
+    "date": "2024-12-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "990dfd5a59da41b6"
+   },
+   {
+    "date": "2024-12-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "68bb1bbf198bb958"
+   },
+   {
+    "date": "2024-12-30",
+    "dir": "out",
+    "box": "R",
+    "from": "S 群发",
+    "subj": "",
+    "gist": "48 port managed switch、10G media converter",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-05-02",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（To 直收：本户是「CH/KE/TR/IL 散户」批次的锚，其余",
+    "subj": "",
+    "gist": "Commercial PoE Switch — This is about our commercial PoE switches for your CCTV security projects. 1, 4/8/16/24 port PoE 2, 120W/240W/300W/400W budget 3, Manage",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-10-05",
+    "dir": "in",
+    "box": "R",
+    "from": "dbjcontrad（赞比亚）",
+    "subj": "",
+    "gist": "could you kindly provide us with the datasheet for this switch? Additionally, we would like to inquire…",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-10-05",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "1, please see attached datasheet. 2, it is 6Kg/piece, we just sold a piece of sample to a German client. Shipping cost to Zambia is 105usd by FedEx(door-to-door",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 199b4b24a25586f7"
+   },
+   {
+    "date": "2025-10-08",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Any feedback about our model and offer? Do you need to order?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 199c34fb78d515e2"
+   },
+   {
+    "date": "2025.10.5",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "DAC",
+    "gist": "price info",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

@@ -1,11 +1,11 @@
 # Anfiris, lda
 **官方名称（调研核实）**：Anfiris, Lda（安哥拉；Gmail；无域名）
 
-> **评级 B**　|　安哥拉　|　档案编号 `SB-125`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　安哥拉　|　档案编号 `SB-125`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 微型（推定））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(杂)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-125
@@ -19,7 +19,7 @@ region: 非洲
 website: none
 type: 经销/集成（类型待核）
 tier_tags: ["群发(杂)"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -29,14 +29,14 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：用户表：Anfiris, Lda（安哥拉；Carlos da Silva；repintalimitada@gmail.com）——8 口 network switch 成样品单；无后续跟进。无域名/公开资料 → 仅表内信息；已成样品单说明付款通畅；非洲非主攻区 → 被动跟进。（调研 2026-10-21；表内兴趣：8口network switch   成样品单）
-- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/安哥拉
-- **历史互动**：成交/下单过
+- **为什么是 B 级**：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+10 谈到样品/测样；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-6 区域 非洲/安哥拉
+- **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-08GE — 默认 25% 档：STC-08GE（8 GE 非管理桌面，Saga Realtek 线列表 $10.5）= 样品同口型；PoE 版 STC-028GP（$24.2）；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volume and the 8-port PoE version $26.2 — how many would your next project in Angola need?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
@@ -74,7 +74,7 @@ updated: 2026-10-29
 
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（安哥拉 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（安哥拉 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
 
 - 法定假日：11-02 All Souls' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -180,7 +180,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-08GE），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-08GE）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-08GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -188,7 +188,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-08GE 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -209,7 +209,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -237,12 +237,12 @@ Carlos, following your 8-port switch sample: the same unit is $10.5 EXW in volum
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 56）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 56）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

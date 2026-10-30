@@ -12,7 +12,7 @@ code: SA-082
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商
 name_official: "ISIMKO GmbH（Cottbus, DE；isimko.de；HRB 472 Cottbus）"
 score: 54
 country: 德国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国 Cottbus 的家族制中型系统集成商 ISIMKO GmbH（Informations-, Sicherheits-, Medien- und Kommunikationstechnik；1990 年成立，前身 G. Fleischhauer Ingenieurbüro Cottbus，2017 年更名；HRB 472；注册资本 €200,000；120+ 名员工含 16 名学徒；Cottbus / Berlin / Dresden / Schwarze Pumpe 四地；总经理 Ralph Hannemann、Diego Noack，股东含 Wolfgang/Falk Noack）：信息技术、安防技术、媒体技术、通信技术项目规划与实施，专长工业高品质铜缆与光纤网络，客户为工业、中型企业与公共部门（Lausitz 能源/工业区，LAUBAG 渊源）。Saga 自建站询盘：1 台 12 光 12 电（询盘人 r.hannemann = 总经理）；WhatsApp 已加；6 次跟进 0 回复。（调研 2026-10-21；表内兴趣：1台12光12电）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus））；自动分级 B：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus））；自动分级 B：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 6 次（2025-03-25 → 2025-09-15）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGGM（8 GE + 8 SFP + 4×10G）/ STC-4168XGGCM（16 SFP + 8 Combo） — 总经理亲自问 12 光 12 电 → 工业光纤汇聚；两款就近对位，hook 已带 25% 档价；锚价：STI-488DGGGM $332.6 / STC-4168XGGCM $392.4（25% 档，hook 已含）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-09-30 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180
 - **第一问（只问一个）**：Herr Hannemann, zu Ihrer Anfrage „12 × Glasfaser / 12 × Kupfer": das nächstliegende Industriegerät ist 8 × SFP + 4 × 10G SFP+ und 8 × RJ45 (DIN, −40 bis +75 °C, $332.6 EXW); alternativ ein 19"-Gerät mit 16 SFP + 8 Combo-Ports ($392.4) — welche Variante passt zum Schaltschrank?
@@ -153,7 +153,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ralph Hannemann（Geschäftsführer（Impressum 公开；Saga 自建站询盘人））r.hannemann@isimko.de（用户表） +49 355 78015-0 / +49 163 96 77284（用户表，WhatsApp 已加）〔https://www.isimko.de/impressum/〕
 - **KP**：Diego Noack（Geschäftsführer（Impressum 公开））—（未公开） +49 355 78015-0〔https://www.isimko.de/impressum/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 ISIMKO：家族制中型系统集成商（1990 起，Cottbus）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -203,6 +203,37 @@ updated: 2026-10-30
 | ? | 64 | bypass |  | A |  | DE 1.22.xlsx#42 |
 | ? | 73 | 28bt |  | A |  | DE 1.22.xlsx#42 |
 | ? | 84 | 16电 |  | A |  | DE 1.22.xlsx#42 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费: ISIMKO GmbH（原 G. Fleischhauer Ingenieur-Büro Cottbus GmbH →  · Amtsgericht Cottbus HRB 472 · EUID … |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din 光纤 工业 网络；P1 STI-488DGGGM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：德国·集成商/安装商；登记坐实：Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费: ISIMKO GmbH（原 G. F。往来 2025-03-25→2026-09-30：我方去信 11 封（A 10 / S 1），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$180。对位：STI-488DGGGM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-03-25 | 去 | A | L3 Managed Switch |  |
+| 2025-05-06 | 去 | A | Marvell Alleycat5 Solution |  |
+| 2025-06-04 | 去 | A | Managed Optical Bypass Switch |  |
+| 2025-07-03 | 去 | A | 90W PoE Managed Switch |  |
+| 2025-08-04 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-09-15 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-11-17 | 去 | A | Booster PoE Switch |  |
+| 2025-12-19 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-20 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-09 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-09-30 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

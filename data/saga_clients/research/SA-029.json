@@ -253,16 +253,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2025-04）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-04-15] Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park ‖ 表 2025.4.15: Marvell Ch→Company Info ‖ 研 2025-04-15 Moonsoo Park: Let me know your company name and send me catalogue. / 2025-04-15 master@gtwave.co.kr: RE: Marvell Software Function List｜Thank you for your information.     Let me kn"
+  "evidence": "[A 2025-04-15] Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park ‖ 表 2025.4.15: Marvell Ch→Company Info"
  },
  "override_history": [
   {
@@ -272,8 +272,214 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2025-04）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2025-04）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2025-04）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "대한민국 · bizno 사업자 名錄（業種 / 代表姓）+ 官網（地址 / 認證 / 2 年保固）+ 매거진한경（20: (주)지티웨이브 GTWAVE Co., Ltd. · 사업자등록번호 待補（bizno 條目存在，號碼未顯示） · 경영중（官網在線；2026-03 入選富川產業振興院 창업도 · 2001（研究檔 /"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "fiber",
+   "industrial",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-04-15",
+    "A",
+    "Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park"
+   ],
+   [
+    "2025.4.15",
+    "表",
+    "Marvell Chip→Company Info"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-04-15（18 月前）"
+  ],
+  "size": "11–50",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "韩国·OEM 品牌商；登记坐实：대한민국 · bizno 사업자 名錄（業種 / 代表姓）+ 官網（地址 / 認證 / 2 年保固）+ 매거진한경（20: (주)지티웨이브 GTWAVE Co。往来 2024-06-17→2026-09-07：我方去信 28 封（A 21 / S 7），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-04-15 A: Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park ‖ 2025.4.15 表: Marvell Chip→Company Info。我方报过：$65 / $170 / $220 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-04-15（18 月前）。",
+  "n_out": 28,
+  "n_in": 1,
+  "last_in": "2025-04-15",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "65",
+   "170",
+   "220",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "ec46f307cda26d4c"
+   },
+   {
+    "date": "2025-09-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0af6fa3682f1a53b"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "1174b4e3d6623cdd"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ba98c2496951cee0"
+   },
+   {
+    "date": "2025-12-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "f1ef71660e7addff"
+   },
+   {
+    "date": "2025-12-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "190d430b1f563ae4"
+   },
+   {
+    "date": "2025.4.15",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Marvell Chip",
+    "gist": "Company Info",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-01-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "2af691feb9cc2972"
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "24df0eddb45904d3"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "4bfa9ae5e00a4728"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "0ac70c2bb5fd5ad6"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f39c5b2143564be5"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

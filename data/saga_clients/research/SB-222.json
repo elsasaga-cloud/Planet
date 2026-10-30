@@ -22,8 +22,8 @@
    "role": "WA +260 97…（5 次实质回复；2026-06 问价）— WA 一页纸一次：集成商 25% B、STI-054GP / STI-154GP / STI-280GE $46.6 一口价 + MOQ 1 + 付费样机；同时一句话问公司名 / 邮箱 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 8 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -169,19 +169,226 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 8 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 8 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 0 封 / 表内 8 条 / 研究档 0 条（；→）",
+  "reason": "真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": " ‖ 表 4.7: 问需求→已经分享给相关的人了"
+  "evidence": " ‖ 表 : Simon 备注/兴→对2.5G/10G有兴趣 不过有供应商 也问了周边产品 ； 260 96 188 4678 已加"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（仅表内信息）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "工业"
+  ],
+  "p1": "STC-424XGGM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→对2.5G/10G有兴趣 不过有供应商 也问了周边产品 ； 260 96 188 4678 已加"
+   ],
+   [
+    "1118",
+    "表",
+    "引流机型→问是否有分销商"
+   ],
+   [
+    "2024.5.16",
+    "表",
+    "发了几个mini工业交换机图→近期可能有需求"
+   ],
+   [
+    "4.7",
+    "表",
+    "问需求→已经分享给相关的人了"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ? + WA；最近来信 2025-04-07（18 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "规模未知"
+  ],
+  "story": "赞比亚·分销商；未坐实：无域名（仅表内信息）。往来 —→2025-04-07：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 9 条；对方问过： 表: Simon 备注/兴趣栏→对2.5G/10G有兴趣 不过有供应商 也问了周边产品 ； 260 96 188 4678 已加 ‖ 1118 表: 引流机型→问是否有分销商 ‖ 2024.5.16 表: 发了几个mini工业交换机图→近期可能有需求 ‖ 4.7 表: 问需求→已经分享给相关的人了。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-424XGGM；路径：免费邮箱 MX ? + WA；最近来信 2025-04-07（18 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2025-04-07",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2023.12.22",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了工业电源价格册",
+    "gist": "will check",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-01-20",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2光4相关信息」→ 对方「暂时没需求」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2024.1.20"
+   },
+   {
+    "date": "2024-04-17",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了商业PoE 128信息」→ 对方「暂时没需求」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2024.4.17"
+   },
+   {
+    "date": "2024-11-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「问是否有分销商」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 1118"
+   },
+   {
+    "date": "2024.1.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光4相关信息",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.2.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了24光combo出货信息",
+    "gist": "有兴趣 稍后谈",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.4.17",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了商业PoE 128信息",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个mini工业交换机图",
+    "gist": "近期可能有需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-01-02",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「10gmc」→ 对方「沟通了分销」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 1.2"
+   },
+   {
+    "date": "2025-02-20",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「问分销相关的」→ 对方「发了链接」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 2025.2.20"
+   },
+   {
+    "date": "2025-04-07",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「问需求」→ 对方「已经分享给相关的人了」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.22 4.7"
+   },
+   {
+    "date": "4.7",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "问需求",
+    "gist": "已经分享给相关的人了",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

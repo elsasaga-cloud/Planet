@@ -18,7 +18,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
  "notes": "c_sub=同行/中资贸易商。",
  "researched_at": "2026-10-21",
  "mail_review": {
@@ -65,16 +65,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-07-22] Kindly share your price list ‖ 表 2025.7.22: 28BT→Price ‖ 研 2025-07-22 Ank（intelligent.hk）: Kindly share your price list"
+  "evidence": "[A 2025-07-22] Kindly share your price list ‖ 表 2025.7.22: 28BT→Price"
  },
  "override_history": [
   {
@@ -84,6 +84,209 @@
    "to": "A",
    "prev_reason": "中资/港资同行（自称自有 PoE 交换机工厂），联系电话为 +86 大陆号，沙特只是其 MEA 网点；非目标客户（同行/中国大陆规则）。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "交换机",
+   "光纤"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-07-22",
+    "A",
+    "Kindly share your price list"
+   ],
+   [
+    "2025.7.22",
+    "表",
+    "28BT→Price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-07-22（15 月前）"
+  ],
+  "size": "未披露",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "沙特阿拉伯·分销商；研究档法定名：Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）。往来 2024-07-09→2026-09-29：我方去信 32 封（A 24 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-07-22 A: Kindly share your price list ‖ 2025.7.22 表: 28BT→Price。我方报过：$65 / $170 / $240 / $280 / $300 / $6000。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-07-22（15 月前）。",
+  "n_out": 32,
+  "n_in": 1,
+  "last_in": "2025-07-22",
+  "last_out": "2026-09-29",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2026-01-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "25f93478bf277823"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "31092df77ae52527"
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "aa5d84f0d41d61bb"
+   },
+   {
+    "date": "2026-04-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "778ca874800b9504"
+   },
+   {
+    "date": "2026-04-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "5c05bf3feefd58ee"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e364df4846d41a1d"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "90cbc08efbc9272f"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "9790daf252174737"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "586cc18843dea568"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "a5538a34b62f2176"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "85fbab900c91e4f7"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "a6ef1f3e6e5d9e93"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

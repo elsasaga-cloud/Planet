@@ -12,7 +12,7 @@ code: SB-001
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 name_official: "Resonant Networks Pte. Ltd.（Singapore）"
 score: 130
 country: 新加坡
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：新加坡光网络工程公司（2013 年起运营，现公司 2020 年注册，11–50 人，约 $3M 营收），为数据中心/电信/云运营商做光网络设计与部署（海缆 SLTE：ADC、AAE-1），2025 年主营业务代码改为「供应数据中心网络系统与专业服务」。用户表：买过光纤周边（MPO 等），也能用到交换机。（调研 2026-10-22；表内兴趣：光（多是周边的 如MPO等） 也能用到交换机）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 Saga 成单（PI 包）；+30 实质回复 3 次（问价/要资料/问型号等）；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 3 次；推送 7 次（2024-03-11 → 2024-12-11）；最近一次客户回复：2024-10-24：useful
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：Realtek/HRUI 多千兆机已经卖过他 1 台（STC-08XGWE $185，PO SGP250051 2024-08）；2026-10 对外价 STC-05XGWE 5×10G 网管 $138 / STC-08XGWE $193 / STC-08XGE 非管理 $181.5 / STC-18XGDGE 1×10G + 8×2.5G $50.1（`data/hrui_STC对照表.csv`）——比 2024 报的 $145/$200/$170 还高，ISP 价格敏感无解，不推；等有 ≤$100 多千兆方案再触达 — C3：ISP 千台级是「拼命单」且价格主导｜毛利复盘：一单 22.6%（ZX-SWTGW2C80N 成本 1,040，代采）——正常；不报价（当前线做不到 $100）；历史报价（邮件原话，老汇率）：2024-07-21 STC-08XGE 170usd / 200usd；2024-07-03 ；2024-07-02 STC-18XGDGE 50usd；2024-08-21 185usd；2024-09 客户复述的 Saga 报价：5 口管理 $145 / 8 口管理 $200 / 8 口非管理 $170（STC-08XGWE 演示机 $185）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-11 $300（48 Port PoE Managed Switch）
 - **第一问（只问一个）**：（有低价方案时）Is the ISP's multi-gig access refresh still open for 2027, and what is the target unit cost this time?
@@ -227,7 +227,7 @@ updated: 2026-10-30
 - **KP**：Andrea Chew（来信署名人（职务未在邮件署名里出现））andreachewyy@resonantnetworks.com +65 9188 0860（2024-08 签名 M:）〔S/A 邮箱来信 2024-08-21 → 08-30 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Bernard Song（来信署名人（职务未在邮件署名里出现））bernardsongyw@resonantnetworks.com 〔S/A 邮箱来信 2024-09-06 来信 2 封（第 72 批从邮件表头补）〕
 - **KP**：Hairomee（来信署名人（职务未在邮件署名里出现））hairomee@resonantnetworks.com 〔S/A 邮箱来信 2025-07-08 → 07-28 来信 2 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 10G/25G（STH 系列）与 STC L3 48 口，而非 PoE 接入。
 
@@ -293,6 +293,38 @@ A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 1
 | 2024-08-21 | 2024.8.21 |  | 想下一个样品 后续下单 | Email |  | Singapore 3.3.xlsx#3 |
 | 2024-10-24 | 1024 | 154 | useful | Email |  | Singapore 3.3.xlsx#3 |
 | 2024-12-11 | 1211 | 48口 |  | Email |  | Singapore 3.3.xlsx#3 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14: RESONANT NETWORKS PTE. LTD.（R~Nets；Ubi, Singapore） · UEN 202005761Z · Live Company · 2020-02-20 |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet network sfp switch 交换机 光纤 网络；P1 STC-448XGGM(L3) |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-07-28 S: Hello Simon, I hope you had a good weekend. Following our meeting last week, the customer expressed concerns about our pricing being slightl ‖ 2025-11-11 S: Hi Simon, Unfortunately we lost to TP-Link. Their… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-06-22（4 月前） |
+| ⑤ 规模 | ≥小型 | 11（2025-03 ACRA 变更：3 → 11）/ 10–50 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：新加坡·集成商/安装商；登记坐实：SG · 既有调研建档（研究档：UEN 202005761Z，2020-02-20 注册，前身实体 2013-06-14: RESONANT NETWORKS 。往来 1024→2026-09-21：我方去信 46 封（A 0 / S 43），对方真人来信 36 封 + 表内/备注 3 条；对方问过：2025-07-08 S: Hi Simon, Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expected this mon ‖ 2025-07-28 S: Hello Simon, I hope you had a。我方报过：$50 / $100 / $140 / $145 / $168 / $170。对位：STC-448XGGM(L3)；路径：企业邮箱 MX ok；最近来信 2026-06-22（4 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-07 | 去 | S | Re: 10G MultiGig Price |  |
+| 2025-07-08 | 去 | S | Re: 10G MultiGig Price |  |
+| 2025-07-08 | 来 | S | RE: 10G MultiGig Price｜Hi Simon, Sincere apologies as the customer's evaluation took longer than anticipated.. Hopefully, the requirement will be expe… |  |
+| 2025-07-28 | 去 | S | Re: 10G MultiGig Price | $172 / $178 / $182 / $185 |
+| 2025-07-28 | 来 | S | RE: 10G MultiGig Price｜Hello Simon, I hope you had a good weekend. Following our meeting last week, the customer expressed concerns about our pricing … |  |
+| 2025-11-11 | 来 | S | Re: 10G MultiGig Price｜Hi Simon, Unfortunately we lost to TP-Link. Their price is much lower than our costs (about half the buy price from you). We ca… |  |
+| 2025-11-11 | 去 | S | Re: 10G MultiGig Price | $172 / $178 / $182 / $185 |
+| 2025-11-12 | 去 | S | Re: 10G MultiGig Price | $100 / $210 |
+| 2026-02-03 | 去 | S | New Product Links |  |
+| 2026-06-22 | 来 | S | Re: Optional Marvell Chipset Solutions｜Hi Simon, Thank you for reaching out. Best regards, Wai Choon, Au Resonant Networks ／ M: +65 9734 0606 ／ W: www… |  |
+| 2026-06-22 | 来 | R | Thank you for reaching out.（回 Simon 固件 7.5 发布通知） |  |
+| 2026-09-21 | 去 | S | Re: Optional Marvell Chipset Solutions | $180 |
 
 ## 成交记录（PI 包 · 自动汇总）
 

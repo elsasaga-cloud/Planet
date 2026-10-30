@@ -240,10 +240,18 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B5 四主区+对位（冷）；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）",
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:20:25Z"
@@ -282,15 +290,196 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-12-01] Can you send to me the price list of your products? İyi çalışmalar dilerim ‖ 表 2025.12.1: 升压→INFO ‖ 研 2025-12-01 Murat Gül（Electrical Engineer）: Can you send to me the price list of your products? / 2025-12-01 muratg@sge.com.tr: RE: Booster PoE Switch｜Can you send to me the price list of your products?     İ"
+  "evidence": "[A 2025-12-01] Can you send to me the price list of your products? İyi çalışmalar dilerim ‖ 表 2025.12.1: 升压→INFO"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / : SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SANAYİ VE TİC · İstanbul Ticaret Sicil（号待补） · 经营中（ContactOut 2026-10 更新；Link · 2007-11-28"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "network",
+   "poe",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-144GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-12-01",
+    "A",
+    "Can you send to me the price list of your products? İyi çalışmalar dilerim"
+   ],
+   [
+    "2025.12.1",
+    "表",
+    "升压→INFO"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-12-01（10 月前）"
+  ],
+  "size": "16（EMIS 2025）（第 84 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "土耳其·分销商；登记坐实：Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / : SGE MÜHENDİSLİK EL。往来 2025-09-30→2026-09-07：我方去信 9 封（A 9 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-12-01 A: Can you send to me the price list of your products? İyi çalışmalar dilerim ‖ 2025.12.1 表: 升压→INFO。我方报过：$170 / $280。对位：STI-144GP；路径：企业邮箱 MX ok；最近来信 2025-12-01（10 月前）。",
+  "n_out": 9,
+  "n_in": 1,
+  "last_in": "2025-12-01",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "498c4e83f7633cf9"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "38f712438efd638e"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "in",
+    "box": "A",
+    "from": "muratg@sge.com.tr",
+    "subj": "RE: Booster PoE Switch",
+    "gist": "Can you send to me the price list of your products? İyi çalışmalar dilerim",
+    "prices": [],
+    "bulk": true,
+    "k": "d6656fb30ed9002e"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f54845c1604a86bd"
+   },
+   {
+    "date": "2025-12-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0c862411c12313aa"
+   },
+   {
+    "date": "2025.12.1",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "升压",
+    "gist": "INFO",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-01-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "173cafe7bc7ccc15"
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "8dfb7d36105fae82"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "6cc5eee12b35f91b"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "fcd43fa901caf942"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "193a64fe5f2fb9e4"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

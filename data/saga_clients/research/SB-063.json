@@ -63,8 +63,8 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/07964960/officers"
   }
  ],
- "grade_override": "B",
- "override_reason": "英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n重启用 WhatsApp/电话（有手机号），直接给 2 光 24 电非管理 PoE 的 MOQ 1、OEM 30% 价与交期。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -195,5 +195,215 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→拿了珊姐的联系方式，只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司\n问了2光24电的特点，我"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "英国主攻区 + 面对面 + OEM 意向，但承诺发需求后 17 次推送 0 回复 → 降 B 慢跟；一旦回复立即升 A。",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "GB · Companies House officers 页（07964960）：3 officers / 2 res: AVESTA (MANCHESTER) LTD（07964960；HiLook 授权分销） · 07964960 · Active · 2012-02-24"
+  ],
+  "role": "OEM 品牌商/分销商",
+  "fit_words": [
+   "poe",
+   "sfp",
+   "交换机"
+  ],
+  "p1": "STC-2024GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→拿了珊姐的联系方式，只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司\n问了2光24电的特点，我给他介绍了3个\n1，混合速率，也可以全千兆\n2，extend"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型（1–9 人）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "英国·OEM 品牌商/分销商；登记坐实：GB · Companies House officers 页（07964960）：3 officers / 2 res: AVESTA (MANCHESTER。往来 2023→2026-08-21：我方去信 29 封（A 20 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→拿了珊姐的联系方式，只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司\n问了2光24电的特点，我给他介绍了3个\n1，混合速率，也可以全千兆\n2，extend。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-2024GP；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 29,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-21",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ec7c37a395fb27be"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "70d0e1f009b8c6c5"
+   },
+   {
+    "date": "2026-01-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "cfe4b22234471361"
+   },
+   {
+    "date": "2026-02-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a6595bb47faf9465"
+   },
+   {
+    "date": "2026-03-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "a3500ea90710fef1"
+   },
+   {
+    "date": "2026-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "fbe3103abdee9be7"
+   },
+   {
+    "date": "2026-04-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6b9285f319c91c93"
+   },
+   {
+    "date": "2026-05-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "561559cba0ae6fb4"
+   },
+   {
+    "date": "2026-06-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6b68d31ae4340fea"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "a36d404fa8b74ddc"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "5472888e09cc30f9"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "Industrial PoE Switch、10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -1,11 +1,11 @@
 # MULTILINK (PVT) LTD
 **官方名称（调研核实）**：Multilink (Pvt) Ltd → SECURICO Electronic Division（Harare, Zimbabwe；securico.co.zw）
 
-> **评级 B**　|　津巴布韦　|　档案编号 `SB-049`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　津巴布韦　|　档案编号 `SB-049`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；⚠ 巨头 / 集团（长线）；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 大型（集团 4,300+））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、giant、prepay
 >
-> **类型**：经销/集成商（推断）　|　**历史关系**：成交/下单过；推送 1 次（2025-10-07 → 2025-10-07）　|　**所在清单**：E冷名单(津巴布韦)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成商（推断）　|　**历史关系**：推送 1 次（2025-10-07 → 2025-10-07）　|　**所在清单**：E冷名单(津巴布韦)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-049
@@ -20,7 +20,7 @@ region: 非洲
 website: securico.co.zw
 type: 经销/集成商
 tier_tags: ["E冷名单(津巴布韦)"]
-deal: yes
+deal: no
 replies: 0
 followups: 1
 first_contact: 2025-10-07
@@ -31,14 +31,14 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：津巴布韦最大安保服务商 SECURICO（DDNS Security Operations (Pvt) Ltd，1998 年创立，4,300+ 员工，ISO 9001/45001/14001；2008 年收购电子安防公司 Multi-Link (Pvt) Ltd 并并入为电子安防事业部，津巴布韦第二大电子安防系统商，与南非/中国/印度有合作；Ebenezer House, 10 Millwood Road, Workington, Harare；+263 242 621 956/7；info@securico.co.zw）。用户表：2011–2013 年多次成交（8V1D / 16V1D / 18 路机架光端机，2013 年买过 FS）；E 冷名单 1 次跟进 0 回复。老客户 + 电子安防事业部 → CCTV 网络化复购。（调研 2026-10-21；表内兴趣：8V1D 16V1D 18机架  11 13年 13年买了FS 很多种类的）
-- **为什么是 B 级**：**调研后定级 B**（老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/津巴布韦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
-- **历史互动**：成交/下单过；推送 1 次（2025-10-07 → 2025-10-07）
+- **为什么是 B 级**：**调研后定级 B**（老成交客户（2011–2013）但沉寂 12 年、非洲非主攻区、冷名单无回复 → B 待机。）；自动分级 A：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/津巴布韦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **历史互动**：推送 1 次（2025-10-07 → 2025-10-07）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）替代当年光端机做 IP CCTV 接入；工业 STI-288GP（$59.8）；24 口 STC-424DGGPM-280W（$140.1）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-20 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-07 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-07 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-07；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-03 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-03；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 - **最大未知**：年走量与现供应商
@@ -98,7 +98,7 @@ updated: 2026-10-29
 
 - `securico.co.zw` → Microsoft 365（MX：securico-co-zw.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（津巴布韦 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（津巴布韦 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -266,7 +266,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -274,7 +274,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：非洲：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -295,7 +295,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ FS |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -309,7 +309,7 @@ updated: 2026-10-29
 ```text
 Hi Samuel,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
+Over the past months you had a few product mails from us - most recently "16 Port Industrial PoE Switch" on 14 September 2026 - and there was no reason to answer a mass mail. This one is specific. Hello Securico electronic-security team, you bought our 8/16-channel video converters and fibre switches in 2011–2013; today's equivalent for IP CCTV is a 2× SFP + 8× GbE PoE+ L2+ switch at $84.1 EXW (24-port 280 W at $140.1) — who now handles equipment purchasing for the electronic division?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
@@ -332,12 +332,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

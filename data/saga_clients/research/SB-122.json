@@ -70,7 +70,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -193,6 +193,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -204,7 +212,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -214,5 +222,122 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 2025.2.20: 工业16 24口出货→可能会用到"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineerin: Tera Technologies and Engineering Limited（teratech.co.tz / t · Certificate of Incorporation No. 85715（公 · 营业中（官网 + 中标记录） · 2011-09-09"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "industrial",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-21616GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1.8",
+    "表",
+    "marvell系列组合图→Are they Giga Ethernet Switches"
+   ],
+   [
+    "923",
+    "表",
+    "18 2.5G→是PoE吗？"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 2024-06-20（28 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "坦桑尼亚·集成商/安装商；登记坐实：TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineerin: Tera Technologies 。往来 1.8→2024-09-23：我方去信 2 封（A 0 / S 2），对方真人来信 0 封 + 表内/备注 3 条；对方问过：1.8 表: marvell系列组合图→Are they Giga Ethernet Switches ‖ 923 表: 18 2.5G→是PoE吗？。我方报过：未见报价数字。对位：STI-21616GP；路径：免费邮箱 + WA；最近来信 2024-06-20（28 月前）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "2024-06-20",
+  "last_out": "2024-09-23",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "1.8",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "marvell系列组合图",
+    "gist": "Are they Giga Ethernet Switches",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial Fiber Switch",
+    "gist": "Industrial Fiber Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "37cc899291dd09a0"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.34 2024.6.20"
+   },
+   {
+    "date": "2024-09-23",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port 2.5G Switch",
+    "gist": "8 Port 2.5G Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6b19ed7c3c6eefd0"
+   },
+   {
+    "date": "2025.2.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "工业16 24口出货图",
+    "gist": "可能会用到",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "923",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "18 2.5G",
+    "gist": "是PoE吗？",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

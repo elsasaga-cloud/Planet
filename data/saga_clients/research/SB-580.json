@@ -25,8 +25,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -107,10 +107,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
@@ -126,6 +126,96 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（免费邮箱/仅电话）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "poe",
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1011",
+    "表",
+    "2.5g/10g network→price"
+   ],
+   [
+    "2024.3.14",
+    "表",
+    "发了商业PoE2光8管理出货信息→price"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "布隆迪；未坐实：无域名（免费邮箱/仅电话）。往来 1011→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：1011 表: 2.5g/10g network→price ‖ 2024.3.14 表: 发了商业PoE2光8管理出货信息→price。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-28DGGPM；路径：免费邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "1011",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "2.5g/10g network",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.3.14",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了商业PoE2光8管理出货信息",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

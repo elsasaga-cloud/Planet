@@ -12,7 +12,7 @@ code: SB-018
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect.nrw，Nettetal, Germany）"
 score: 78
 country: 德国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国 Nettetal/Mönchengladbach 的微型安防安装商（UG，2018 年注册，注册资本 6,000 €），Dahua / Jablotron / Ajax 认证安装商，业务：报警、视频监控、门禁、Smart Security、电话系统；CEO Andrew Walker。用户表：A 已回复 1 次（告知更名），「没交流太多，说了做 video system」。（调研 2026-10-21；表内兴趣：没交流太多 说了做video system）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-05→2025-06））；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-05→2025-06））；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-05-13 → 2025-05-13）；最近一次客户回复：2025-05-13：想测样
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM 类 8 口 PoE 管理型付样价（按 25% 集成档） — 来信再答，不主动。已打开的主题（6/14 封有打开记录）：「Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-06-10)、「Re: Industrial PoE Switch」(2025-09-09)、「24 Port PoE Managed Switch」(2026-08-11) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；按规则；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-13 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -134,7 +134,7 @@ updated: 2026-10-30
   > Gründungsdatum 13.09.2018 · Aktiv · Register Amtsgericht Krefeld HRB 20953 … Kapital 6.000,00 €
   > 来源：https://openregister.de/company/DE-HRB-R3306-95644（抓取 2026-10-21）
 - **KP**：Andrew Walker（Geschäftsführer（2020-02-17 起，接替创始人 Oktay Zuki）= 老板 = 联系人；UG €6,000、7 年 5 次迁址、2025-03 更名 Walker Security Systems UG；Prokuristin Nina Jasmin Walker（配偶）（第 86 批 官方登记核实 2026-10-27））info@walker-security.systems +49 177 322 4215〔https://walker-security.systems/impressum〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-05→2025-06）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-05→2025-06）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
 
@@ -180,6 +180,38 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-05-13 | 2025.5.13 | 48口 | 想测样 | A |  | A Replied 09.04.xlsx#3 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Deutschland · Handelsregister（Northdata 免费页：登记时间线 / 更名 / 迁址 : Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Com · Amtsgericht Krefeld HRB 20953（2025-… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-05-13 A: Hi thank you for you‘re offer We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our  ‖ 2025-06-10 A: Hello , Are the switches manageable ? Mit freundl… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-06-10（16 月前） |
+| ⑤ 规模 | 个人/微型 | 微型（夫妻 2 人管理）（第 86 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：对位不明；人工终判：Walker Security Systems UG（德国 Nettetal 微型安防安装商，Dahua/Jablotron/Ajax 认证）：2025-05 想要测试样机「need to replace a lot of switches」、2025-06 问是否可管理——主攻区 + 真需求 |
+
+**故事线**：德国·集成商/安装商；登记坐实：Deutschland · Handelsregister（Northdata 免费页：登记时间线 / 更名 / 迁址 : Walker Security Sy。往来 2025-04-15→2026-09-07：我方去信 15 封（A 14 / S 0），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-05-13 A: Hi thank you for you‘re offer We would like a free switch for Testing, we need to replace a lot of switches an if your switches confirm our  ‖ 2025-06-10 A: Hello , Are the switches mana。我方报过：$170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-06-10（16 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-10 | 去 | A | Industrial PoE Switch |  |
+| 2025-06-10 | 去 | R |  |  |
+| 2025-07-15 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-09-09 | 去 | A | Re: Industrial PoE Switch |  |
+| 2025-10-06 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-05 | 去 | A | Booster PoE Switch |  |
+| 2025-12-17 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.5.13 | 表 | 表 | 48口｜想测样 |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

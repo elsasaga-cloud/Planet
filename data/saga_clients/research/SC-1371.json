@@ -42,7 +42,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -60,6 +60,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sm…；闸 1：印度 Mywatchdog（mywatchdog.in；工业交换机页 AOA / 洪瑞 / 丰润达都有 = 多牌进口 + 洪瑞现供）：进口中国同类 ✔ 对位 ✔ Simon 点名印度；未触达 → 闸 2 查底数（zaubacorp）；低优…",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）"
   }
  ],
  "lt_review": {
@@ -191,15 +199,214 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
   "evidence": "[S 2024-09-18] I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ ‖ [S 2024-09-19] Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-D: WatchDog = Apollo Infoways Pvt. Ltd.（mywatchdog.in；**官网：H-102, Sector-63, Noida, · 营业中（官网 2025）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288GPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-09-16",
+    "S",
+    "Is this managed or unmanaged. Regards Ravi"
+   ],
+   [
+    "2024-09-18",
+    "S",
+    "I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-09-19（25 月前）"
+  ],
+  "size": "中型（4 城办事处；全线产品）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "印度·OEM 品牌商；登记线索：IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-D: WatchDog = Apollo 。往来 2024-06-28→2024-12-27：我方去信 14 封（A 0 / S 14），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2024-09-16 S: Is this managed or unmanaged. Regards Ravi ‖ 2024-09-18 S: I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​。我方报过：$65 / $110 / $300。对位：STI-288GPM；路径：企业邮箱；最近来信 2024-09-19（25 月前）。",
+  "n_out": 14,
+  "n_in": 3,
+  "last_in": "2024-09-19",
+  "last_out": "2024-12-27",
+  "prices_out": [
+   "65",
+   "110",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-08-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 port poe managed switch",
+    "gist": "48 port poe managed switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "454540e9512e4cd8"
+   },
+   {
+    "date": "2024-09-16",
+    "dir": "in",
+    "box": "S",
+    "from": "ravi@apolloinfoways.in",
+    "subj": "Re: 24V/48V PoE Switch",
+    "gist": "Is this managed or unmanaged. Regards Ravi",
+    "prices": [],
+    "bulk": false,
+    "k": "87e3b8ad670eab84"
+   },
+   {
+    "date": "2024-09-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24V/48V PoE Switch",
+    "gist": "24V/48V PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f16c886d7f83b958"
+   },
+   {
+    "date": "2024-09-17",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 24V/48V PoE Switch",
+    "gist": "Re: 24V/48V PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "aaa8302b05c3aaa5"
+   },
+   {
+    "date": "2024-09-18",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 24V/48V PoE Switch",
+    "gist": "Re: 24V/48V PoE Switch",
+    "prices": [
+     "110"
+    ],
+    "bulk": false,
+    "k": "f38de7254a2ba19a"
+   },
+   {
+    "date": "2024-09-18",
+    "dir": "in",
+    "box": "S",
+    "from": "ravi@apolloinfoways.in",
+    "subj": "Re: 24V/48V PoE Switch",
+    "gist": "I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​",
+    "prices": [],
+    "bulk": false,
+    "k": "e3fdaaebc77d14ee"
+   },
+   {
+    "date": "2024-09-19",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 24V/48V PoE Switch",
+    "gist": "Re: 24V/48V PoE Switch",
+    "prices": [
+     "110"
+    ],
+    "bulk": false,
+    "k": "91db6b10021f1d1e"
+   },
+   {
+    "date": "2024-09-19",
+    "dir": "in",
+    "box": "S",
+    "from": "ravi@apolloinfoways.in",
+    "subj": "Re: 24V/48V PoE Switch",
+    "gist": "Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​",
+    "prices": [],
+    "bulk": false,
+    "k": "48e1b99fa850f527"
+   },
+   {
+    "date": "2024-10-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Media Converter",
+    "gist": "10G Media Converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "6e50c1ccbe78fbb9"
+   },
+   {
+    "date": "2024-11-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Power Converter",
+    "gist": "Power Converter",
+    "prices": [],
+    "bulk": false,
+    "k": "fd96c08562b1c337"
+   },
+   {
+    "date": "2024-12-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "86136989ccda7771"
+   },
+   {
+    "date": "2024-12-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5655cff74a7ef1b5"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -34,7 +34,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -233,6 +233,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）"
   }
  ],
  "snap_thicken": {
@@ -257,15 +265,225 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）",
+  "reason": "真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-10-15] Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regar ‖ [A 2025-04-28] Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime ‖ 表 2025.4.28: 商业PoE→Info ‖ 研 2024-10-15 Saeed: Yes indeed we need a sample and datasheet if you can provide us. / 2025-04-28 saeed@e-saudi.net: D"
+  "evidence": "[S 2024-10-15] Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regar ‖ [A 2025-04-28] Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime ‖ 表 2025.4.28: 商业PoE→Info"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "SA · 1 次检索：rocketreach.co/e-saudi-electronic-saudi-network-p: (e-Saudi) Electronic Saudi Network（e-saudi.net / e-saudi.net.sa；**2001 年成立；利雅得 A · 营业中（企业库）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-07-17",
+    "S",
+    "Dear Simon, I am sharing this info with our engineering department. Let me check and revert back to you. Regards, Saeed Mohammed Commercial "
+   ],
+   [
+    "2024-07-23",
+    "S",
+    "Dear Simon, Thank you for your quick reply. I highly appreciate that. Regards, Saeed Mohammed Commercial Business Development and Operation "
+   ],
+   [
+    "2024-07-23",
+    "S",
+    "Hi Simon, Hope my email finds you in the best health. I have this request from one of our existing customers, they are looking for an altern"
+   ],
+   [
+    "2024-10-15",
+    "S",
+    "Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regards, Saeed"
+   ],
+   [
+    "2025-04-28",
+    "A",
+    "Dear Alan, I have shared It with our sales department. We will check if we can accommodate it. In the meantime, to better understand the sce"
+   ],
+   [
+    "2025.4.28",
+    "表",
+    "商业PoE→Info"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-04-28（18 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "沙特阿拉伯·分销商；登记线索：SA · 1 次检索：rocketreach.co/e-saudi-electronic-saudi-network-p: (e-Saudi) Electron。往来 2024-02-25→2026-09-08：我方去信 34 封（A 16 / S 18），对方真人来信 9 封 + 表内/备注 1 条；对方问过：2024-07-23 S: Hi Simon, Hope my email finds you in the best health. I have this request from one of our existing customers, they are looking for an altern ‖ 2024-10-15 S: Hi Simon, I am good no compla。我方报过：$50 / $65 / $170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-04-28（18 月前）。",
+  "n_out": 34,
+  "n_in": 9,
+  "last_in": "2025-04-28",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "50",
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9f3f63d3bd73b9a0"
+   },
+   {
+    "date": "2025-07-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "eebe5164ffc37068"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "95a55c9cdca704a0"
+   },
+   {
+    "date": "2025-09-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "668e97227c8bf597"
+   },
+   {
+    "date": "2025-10-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port PoE Managed Switch",
+    "gist": "16 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1d61c3ede25a2a74"
+   },
+   {
+    "date": "2025-11-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "41fe060fabc53f13"
+   },
+   {
+    "date": "2025-12-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "b61e00299076e219"
+   },
+   {
+    "date": "2025.4.28",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "商业PoE",
+    "gist": "Info",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "81b977b1cfe9a6f3"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "1ba6634f199801e8"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "7b8826a67ff420f8"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cfff348ae6a38563"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -190,15 +190,212 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-11-26] Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries C ‖ 研 2024-11-26 Zack Yu（VP Sales）: Do you have a data sheet for this converter?"
+  "evidence": "[S 2024-11-26] Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries C ‖ 表 : Simon 备注/兴→有自己的logo 大多数还是CTCU的  工业FS MC POE SFP ； 有ONV的设备 htt"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：官网 About（Founded in 1994, Megatel Industries corp: Megatel Industries Corporation（megatelindustries.com；North Wales, PA）— 1991/1994 · Active（站点在线）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-11-26",
+    "S",
+    "Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries Corp. 664 Wagner Court North Wa"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-11-26（23 月前）"
+  ],
+  "size": "3 人；$0.4–2M",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：官网 About（Founded in 1994, Megatel Industries corp: Megatel Industries。往来 —→2026-09-08：我方去信 25 封（A 0 / S 24），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-11-26 S: Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries Corp. 664 Wagner Court North Wa。我方报过：$65 / $170 / $240 / $280 / $300 / $1500。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2024-11-26（23 月前）。",
+  "n_out": 25,
+  "n_in": 1,
+  "last_in": "2024-11-26",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "1500"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "54d7319eb2186b6d"
+   },
+   {
+    "date": "2025-07-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d1ffdfacb5f56183"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "10aafcf6a813c4f2"
+   },
+   {
+    "date": "2025-09-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "7599aa81d785d45e"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "37d3945f537b64d7"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4d47b90a529fd698"
+   },
+   {
+    "date": "2025-12-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "8ca9756b02c32770"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "db4a0bab98889470"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "5cca87a4a5bdf08f"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "c45626c1bca0c5a4"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port 10G SFP+ Switch",
+    "gist": "24 Port 10G SFP+ Switch",
+    "prices": [
+     "1500"
+    ],
+    "bulk": false,
+    "k": "fe47c9f2bfe46fe2"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "7740ac2cd15a82bb"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

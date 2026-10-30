@@ -8,7 +8,7 @@
 code: SB-093
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 score: 63
 country: 土耳其
 region: 土耳其
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其 Konak Güvenlik（安防电商：报警、摄像机、OPAX PoE 交换机 OPAX-2427 / OPAX-1619 / OPAX-0810；表内「洪瑞（HRUI）、丰润达的商业 PoE」；KP Erkut Sevin（+90 531…））；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：洪瑞 丰润达的商业POE）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025；封顶 B：无任何互动证据（未回复/未询盘/未见面），A 级须有互动
 - **历史互动**：推送 2 次（2025-09-30 → 2025-10-29）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（5/21 封有打开记录）：「Re: L2 managed switch」(2024-06-26)、「24 port poe switch」(2024-06-30)、「Re: L2 managed switch」(2024-07-12)、「Industrial PoE Switch」(2024-10-03) → 读者兴趣主题类别不明（看原主题）；口径修正：他要 AT-FS750/28 等价（24 FE + 2 GE Combo + 2 SFP WebSmart 非 PoE），不是 4424GCPM；群发已见 STC-448XGGM $220（2024-06-14）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-14 $220（L2 managed switch）、2024-08-10 $65（Re: L2 managed switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）、2026-06-19 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -155,7 +155,7 @@ updated: 2026-10-30
   > 洪瑞 丰润达的商业POE
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Erkut Sevin（）satis@konakguvenlik.com.tr 〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -206,6 +206,38 @@ updated: 2026-10-30
 |---|---|---|---|---|---|---|
 | 2025-09-30 | 2025.9.30 | dac |  | A |  | 土耳其客户 3.10.xlsx#52 |
 | 2025-10-29 | 1029 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#52 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026-10-27） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet poe sfp switch 交换机；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-06-26 S: Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21 |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-06-26（28 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+
+**故事线**：土耳其·集成商/安装商；研究档法定名：Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026。往来 2024-06-14→2026-10-06：我方去信 23 封（A 12 / S 9），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-06-26 S: Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21。我方报过：$65 / $170 / $220 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱；最近来信 2024-06-26（28 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-30 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-29 | 去 | A | Industrial PoE Switch |  |
+| 2025-12-01 | 去 | A | Booster PoE Switch |  |
+| 2026-01-05 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-02-03 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-09 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-06 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-05-14 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-19 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-21 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-10-06 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

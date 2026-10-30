@@ -12,7 +12,7 @@ code: SA-060
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 2 条 / 研究档 
 name_official: "FiberX LLC / FIBERX Inc.（Guaynabo & Caguas，波多黎各，美国属地）"
 score: 70
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波多黎各光纤 ISP/运营商（2016 年创立，11–50 人，营收约 560 万美元，AS6208，自有光纤与无线网络，覆盖波多黎各/哥伦比亚/美国），提供互联网、Metro Ethernet、FTTH/FTTB、机房托管；用户记录：在 bypass 2 光 10 电帖子下询价，1 次回复、20 次跟进。（调研 2026-10-21；表内兴趣：bypass 2光10电的帖子下问价格）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 2 条 / 研究档 0 条（AS；2025-01→2026-06））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-04-03 → 2025-10-28）；最近一次客户回复：2025-01-02：price info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C24XF-HSI（CENTEC 24×10G + 2×100G，DC，MA 许可）1,250 USD（2026-06-08 报价） — J5：只问项目窗口，不再发无关 PoE 群发（他收的 4 封都是 PoE）。已打开的主题（5/36 封有打开记录）：「Re: 24 Port Fiber Switch」(2025-01-03)、「10G L3 Managed Switch」(2026-06-05)、「Re: 10G L3 Managed Switch」(2026-06-06)、「Re: 10G L3 Managed Switch」(2026-06-08) → 读者兴趣偏「10G 汇聚/L3」；当前 P1 属「DC 核心/CENTEC」，下一封按「10G 汇聚/L3」给，不按 P1 最近一封去信是 2026-09-25 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STI-4168XGGCM-U(2025-01-03)、Saga Software Function List-release 7.(2025-03-20)、Product Link_2026Q2(2026-02-26)、Saga Software Function List_EN_V2.4(2026-06-06)、Performance of VastLakes Platform_EN_3(2026-06-06)、XLite Series(2026-06-06)、Saga Feature List_7.5.x_L2+(2026-06-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；1,250 USD EXW 不含光模块（2026-06 报价；复核 CENTEC ≥35% 底线）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）、2025-01-01 $240（24 Port Fiber Switch）；**进价对照（Drive 价格比对 2026-03-01：STH-2C24XF-HSI = HohuNet S5624XH-2Z-EI 7,300 RMB）：$1,250 → 毛利 @7 16.6% / @6.69 12.7%，低于 Marvell 25% 线更低于 CENTEC 35% 线；同款 2026-07-20 群发 $1,500（27–30%）、35% 地板 $1,680 @6.69 → 再报 FiberX 不低于 $1,500 并说明是含 MA 的现行表价（见 CENTEC 锚表 §5.2）**；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-22 $65（10g fiber media converter）、2025-10-08 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Did the 1,250-USD DC + MA-license quote reach the H3C MPLS project, and is a test slot still open this year?
@@ -201,7 +201,7 @@ updated: 2026-10-30
   > 来源：https://ispreports.org/internet-service-providers/fiber-x-availability/（抓取 2026-09-03）
 - **KP**：Iván Rivera（Presidente y CEO（创始人）= 老板 = 联系人；FiberX LLC（Puerto Rico 2016/17，ISP + 数据中心，PeeringDB fac 14857，~34 人）（第 85 批 官方登记核实 2026-10-27））irivera@fiberx.net 〔S/A 邮箱来信 2025-01-03 → 2026-06-08 来信 5 封（第 72 批从邮件表头补）〕
 - **KP**：Edwuar Morillo（同串收件人 / 发信人（A 邮箱表头 8 封署名 Edwuar Morillo；职务未核））emorillo@fiberx.net 〔A 邮箱邮件表头（10 封）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 2 条 / 研究档 0 条（AS；2025-01→2026-06）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。
 
@@ -273,6 +273,38 @@ updated: 2026-10-30
 | 2025-09-12 | 912 | 24poe |  | A |  | US.xlsx#201 |
 | 2025-10-08 | 108 | dac |  | A |  | US.xlsx#201 |
 | 2025-10-28 | 1028 | solar |  | A |  | US.xlsx#201 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + Pe: FIBERX LLC（gofiberx.com / fiberx.net；关联 OSNet Wireless） · Puerto Rico LLC（波多黎各国务院登记号待补） · 经营中（2025… |
+| ② 角色 / 对位 | ISP/运营商 | 对位词：ethernet fiber 光纤 网络；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-01-03 S: Hi, Couple of questions to you. Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v?  ‖ 2025-01-03 S: You don’t have that one rackmount? Not din rail? … |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-06-08（4 月前） |
+| ⑤ 规模 | ≥小型 | ~34（第 85 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·ISP/运营商；登记坐实：USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + Pe: FIBERX LLC（gofiber。往来 —→2026-09-25：我方去信 36 封（A 24 / S 12），对方真人来信 5 封 + 表内/备注 2 条；对方问过：2025-01-03 S: Do you have the datasheet of that last one? [cid:image001.png@01DB5D82.18985650] ‖ 2025-01-03 S: Hi, Couple of questions to you. Do you have one of those small factors with at least 8 po。我方报过：$65 / $170 / $240 / $280 / $300 / $1250。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-06-08（4 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-03-17 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-08 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-01 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-05 | 来 | A | RE: 10G L3 Managed Switch｜Support MPLS with H3C? [cid:image001.png@01DCF4E6.42B89240] |  |
+| 2026-06-05 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-06 | 去 | A | Re: 10G L3 Managed Switch |  |
+| 2026-06-08 | 去 | A | Re: 10G L3 Managed Switch | $1250 |
+| 2026-06-08 | 来 | A | RE: 10G L3 Managed Switch｜Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F50] |  |
+| 2026-06-29 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-25 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-25 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

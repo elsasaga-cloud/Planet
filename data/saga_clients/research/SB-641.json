@@ -58,7 +58,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（ES；2024-09→2025-12）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -222,6 +222,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（ES；2024-09→2025-12）"
   }
  ],
  "snap_thicken": {
@@ -253,15 +261,233 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12）",
+  "reason": "真回信 6 封 / 表内 0 条 / 研究档 0 条（ES；2024-09→2025-12）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2025-01-06] Pls share the Datasheet for this. Ravi ‖ [E 2025-12-08] How about Console port and management ports. Ravi ‖ 研 2024-11-03 ravi@apolloinfoways.in: Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ / 2025-01-06 ravi@apolloinfoways.in: Pls share the Datasheet for this. Ravi ________________________________"
+  "evidence": "[S 2025-01-06] Pls share the Datasheet for this. Ravi ‖ [E 2025-12-08] How about Console port and management ports. Ravi"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the leg: Apollo Infoways Private Limited（WatchDog 品牌；apolloinfoways.i · CIN U72900DL2014PTC264342 · Active · 2014-02-03"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-09-16",
+    "S",
+    "Is this managed or unmanaged. Regards Ravi"
+   ],
+   [
+    "2024-09-18",
+    "S",
+    "I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​"
+   ],
+   [
+    "2024-11-03",
+    "S",
+    "Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​"
+   ],
+   [
+    "2025-01-06",
+    "S",
+    "Pls share the Datasheet for this. Ravi"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-12-08（10 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "印度·OEM 品牌商；登记坐实：IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the leg: Apollo Infoways Pr。往来 2024-06-29→2026-09-18：我方去信 18 封（A 6 / S 12），对方真人来信 6 封 + 表内/备注 0 条；对方问过：2024-09-16 S: Is this managed or unmanaged. Regards Ravi ‖ 2024-09-18 S: I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ ‖ 2024-11-03 S: Is it managed or unmanaged switc。我方报过：$65 / $110 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-12-08（10 月前）。",
+  "n_out": 18,
+  "n_in": 6,
+  "last_in": "2025-12-08",
+  "last_out": "2026-09-18",
+  "prices_out": [
+   "65",
+   "110",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-11-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Re: Industrial PoE Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "42e515a23e616c0d"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b813b5f2dd8d8595"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Re: 24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "1852c439d25a7120"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "in",
+    "box": "S",
+    "from": "ravi@apolloinfoways.in",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Pls share the Datasheet for this. Ravi",
+    "prices": [],
+    "bulk": false,
+    "k": "79e45ea6c45d68d9"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "b1744001a4b4df71"
+   },
+   {
+    "date": "2025-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "209a8ddb9d0ebed1"
+   },
+   {
+    "date": "2025-12-08",
+    "dir": "in",
+    "box": "R",
+    "from": "Ravi（Apollo Infoways）",
+    "subj": "",
+    "gist": "How about Console port and management ports.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2026-05-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "313964d448bd6e1a"
+   },
+   {
+    "date": "2026-06-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "9abad5bdd2dc8ff3"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "8cdbd615ba35afe7"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "ee3c7e9927cbeaf3"
+   },
+   {
+    "date": "2026-09-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bbe5b112d1d2f87a"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

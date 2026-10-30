@@ -69,8 +69,8 @@
    "source": "https://companiesregistry.cy/company-details/proxeet-limited-437925/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -184,5 +184,97 @@
   "url": "https://proxeet.com/products/injector/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024: Simon 备注/兴→需要30W PoE injector / from: 阿里巴巴RFQ"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "CY · 1 次检索：i-cyprus（PROXEET LIMITED；ΗΕ 437925；Private Limite: PROXEET LIMITED（proxeet.com / portablepoe.com / chiprian.com · ΗΕ 437925 · Active（Registrar of Companies） · 2022-08-31"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "poe",
+   "交换机",
+   "网络"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024",
+    "表",
+    "Simon 备注/兴趣栏→需要30W PoE injector / from: 阿里巴巴RFQ"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "塞浦路斯·OEM 品牌商；登记坐实：CY · 1 次检索：i-cyprus（PROXEET LIMITED；ΗΕ 437925；Private Limite: PROXEET LIMITED（pr。往来 2024→2024-12-10：我方去信 1 封（A 0 / S 1），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024 表: Simon 备注/兴趣栏→需要30W PoE injector / from: 阿里巴巴RFQ。我方报过：未见报价数字。对位：待定；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 1,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2024-12-10",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "需要30W PoE injector / from: 阿里巴巴RFQ",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-12-10",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "00931d895a87b06d"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

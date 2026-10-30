@@ -41,10 +41,39 @@ TBL_THIN = re.compile(r'^\s*(?:thanks?(?: for (?:the )?info(?:rmation)?)?|thank 
 TBL_POS = re.compile(r'price|价格|报价|报了|catalog|目录|价格册|sample|样品|样机|测样|spec|规格|datasheet|\bds\b|info|资料|moq|quantity|数量|项目|project|型号|model|问了|要|需要|need|certif|证书|距离|poe|port|\d+\s*口|光|管理|managed|l2|l3|10g|2\.5g|sfp|oem|odm|需求|下单|order|invoice|website|profile|company|联系方式|wechat|微信|whatsapp|skype|meeting|visit|来中国|展会|bis|en50155|cli|https|multicast|stack|chip|芯片|router|pon|100g|电源|power', re.I)
 
 
-def classify_tbl(reply):
+# Simon 备注/兴趣栏里记录的对方动作（展会当面 / WhatsApp 聊的内容）：有明确「对方问/要/谈」动词才算实质沟通
+NOTE_POS = re.compile(r'问了|要了|问价|问价格|要价格|要报价|要资料|要目录|要价格册|想测样|要样|想拿样|想下单|要下单|想买|谈了|聊了|见面|面谈|当面|展会上(?:问|说|要|谈)|WhatsApp.{0,6}(?:问|聊|谈)|主动(?:联系|问|找)|发来(?:询盘|需求|规格)|给了(?:需求|规格|数量)|报了(?:数量|需求)|需要\d+|要\d+\s*(?:台|个|套|pcs)')
+NOTE_NEG = re.compile(r'没需求|没有需求|不需要|不感兴趣|不做了|拉黑|不行|不相关|已经有了|有自己的|买了别家|不回|不理')
+
+
+def classify_note(text):
+    t = str(text or '')
+    if not t.strip():
+        return ''
+    if NOTE_NEG.search(t) and not NOTE_POS.search(t):
+        return 'neg'
+    if NOTE_POS.search(t):
+        return 'pos'
+    return ''
+
+
+OFFLINE = re.compile(r'\bAHD\b|HDMI|\bDVR\b|\bNVR\b|camera|摄像|光猫|\bONU\b|GPON|EPON|\bOLT\b|光端机|\bSDI\b|视频光端|\bVC\b|KVM|对讲|门禁|报警|cable\b|线缆|跳线|patch cord|机柜|rack\b|UPS|电池|solar|太阳能', re.I)
+
+
+def year_of(date_str):
+    m = re.search(r'(20\d\d)', str(date_str or ''))
+    return int(m.group(1)) if m else None
+
+
+def classify_tbl(reply, content='', date=''):
     r = str(reply or '').strip()
     if not r or TBL_NOT.search(r):
         return 'not'
+    y = year_of(date)
+    if y and y < 2022:
+        return 'not'  # Saga 之前年代（本职公司时期）的互动，不计 Saga 回信
+    if OFFLINE.search(r + ' ' + str(content or '')) and not re.search(r'switch|交换机|poe|sfp|\bmc\b|光纤收发|转换器|converter|工业|industrial', r + ' ' + str(content or ''), re.I):
+        return 'not'  # 问的是 Saga 产品线外的东西
     if TBL_NEG.search(r):
         return 'neg'
     if TBL_THIN.match(r):
@@ -139,7 +168,8 @@ def main():
         cls = classify_msg(m['subject'], t, em, '')
         msgs[code].append({'box': 'E', 'k': m['id'], 'date': d_iso, 'from': em, 'subj': m['subject'][:100], 'cls': cls, 'soft_neg': bool(NEG_SOFT.search(t[:1200])), 'bulk': False, 'excerpt': t[:300], 'att': []})
     out = {}
-    codes = set(msgs) | {c for c, e in ents.items() if e.get('reply_sub') or e.get('reply_neg') or e.get('pi') or tbl[c]['成交'] == '是'}
+    codes = set(msgs) | {c for c, e in ents.items() if e.get('reply_sub') or e.get('reply_neg') or e.get('pi') or tbl[c]['成交'] == '是' or tbl[c].get('备注提及成交(非Saga)') == '是'
+                         or classify_note(' '.join([str(x) for x in (e.get('interests') or [])] + [str(x) for x in (e.get('remarks') or [])]))}
     for c in sorted(codes):
         e = ents[c]
         L = sorted(msgs.get(c, []), key=lambda r: r['date'])
@@ -147,10 +177,17 @@ def main():
         fu = []
         for f in e.get('followups') or []:
             if f.get('reply'):
-                k = classify_tbl(f.get('reply'))
+                k = classify_tbl(f.get('reply'), f.get('content'), f.get('date'))
                 if k == 'not':
                     continue
                 fu.append({'date': f.get('date', ''), 'content': str(f.get('content', ''))[:40], 'reply': str(f.get('reply', ''))[:80], 'kind': k})
+        # Simon 备注/兴趣（展会当面 / WhatsApp 聊过的内容）
+        note_txt = ' ； '.join([str(x) for x in (e.get('interests') or [])] + [str(x) for x in (e.get('remarks') or [])])
+        nk = classify_note(note_txt)
+        yrs = [str(y) for y in (e.get('years') or []) if str(y).isdigit()]
+        ny = max(yrs) if yrs else ''
+        if nk and not (ny and int(ny) < 2022) and not (OFFLINE.search(note_txt) and not re.search(r'switch|交换机|poe|sfp|\bmc\b|光纤收发|转换器|converter|工业|industrial|2\.5G|10G', note_txt, re.I)):
+            fu.append({'date': ny, 'content': 'Simon 备注/兴趣栏', 'reply': note_txt[:80], 'kind': nk})
         signals = [r['cls'] for r in human] + [f['kind'] for f in fu]
         last = human[-1]['cls'] if human else (signals[-1] if signals else '')
         if 'pos' in signals:

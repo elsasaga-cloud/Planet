@@ -12,7 +12,7 @@ code: SB-175
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 
 name_official: "M. Al Barghash Trading & Contracting Co. (MBTC)（沙特东部省）"
 score: 53
 country: 沙特阿拉伯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特东部省 1976 年成立的 100% 沙资贸易与承包公司（关联 AAM Industrial，ei-telcomlead@ 邮箱 = 电气仪表 / 电信项目组），项目型采购；表内 Project Manager Prabhu Manickam 与 Wasi Akthar，2024-01 对 2 光 4 工业机「有用但现在没需求」，WhatsApp 24 次跟进无实质回复。（调研 2026-10-21；表内兴趣：做项目的 问了几个产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06））；自动分级 B：+6 有互动但表示暂无需求/已有供应商 1 次；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06））；自动分级 B：+6 有互动但表示暂无需求/已有供应商 1 次；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 24 次（2023-11-04 → 2025-10-27）；最近一次客户回复：2024-01-18：有用但现在没需求
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-12 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -137,7 +137,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Prabhu Manickam（Project Manager（研究档；2024-01「有用但现在没需求」；WA 24×0）— 不动，不发（第 119 批 官方登记核实 2026-10-28））prabhu@mbtc.com.sa +966 57 201 2594〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Wasi Akthar（E&I / Telecom lead（研究档 Wasi Akthar；AAM Industrial 项目组）— 不动（第 119 批 官方登记核实 2026-10-28））ei-telcomlead@aamindustrial.com 0572012594（2023-06-19 签名；与用户表记在 Prabhu 名下的 +966 57 201 2594 同号——同一手机，谁在用待核）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 2 条（S；2023-06→2023-06）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2023-06→2023-06）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -199,6 +199,37 @@ updated: 2026-10-30
 | 2025-09-24 | 924 | dac |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#13 |
 | 2025-10-27 | 1027 | mini |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#13 |
 | ? | 55 | 4 8 16口工业POE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#13 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracti: M. Al-Barghash Trading & Contracting Company (MBTC)（mbtc.com.sa；**1976 年成立；100%  · 营业中（名录） |
+| ② 角色 / 对位 | 分销商 | 对位词：industrial 工业；P1 STI-244GP |
+| ③ 需求证据 | 泛（问价/要目录） | 2023-06-19 S: Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&I- Telecom Lead AAM ‖ 2023-06-19 S: Dear sir, Greetings from AAM! Please provide your… |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2024-01-18（33 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+
+**故事线**：沙特阿拉伯·分销商；登记线索：SA · 1 次检索：protenders.com（M. Al-Barghash Trading & Contracti: M. Al-Barghash Tra。往来 —→2026-09-22：我方去信 5 封（A 5 / S 0），对方真人来信 3 封 + 表内/备注 2 条；对方问过： 表: Simon 备注/兴趣栏→做项目的 问了几个产品 ； 9665720 12594 已加 ； 9665720 12594 已加 Wasi Akthar ei-telcomlead@aami ‖ 2023-06-19 S: Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical item。我方报过：$170 / $280。对位：STI-244GP；路径：企业邮箱 + WA；最近来信 2024-01-18（33 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+|  | 表 | 表 | Simon 备注/兴趣栏｜做项目的 问了几个产品 ； 9665720 12594 已加 ； 9665720 12594 已加 Wasi Akthar ei-telcomlead@aami |  |
+| 2023-06-19 | 来 | S | RFQ FOR ELECTRICAL ITEMS MCB｜Dear Sir, Greetings from AAM! Please provide your technical quotes for electrical items ASAP Best Regards, Wasi Akthar E&… |  |
+| 2023-06-19 | 来 | S | RFQ for telecom items｜Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & prov… |  |
+| 2023-06-19 | 来 | S | RFQ for telecom items｜Dear sir, Greetings from AAM! Please provide your techno quotes for telecom materials ASAP. Please find the attached file & prov… |  |
+| 2024-01-18 | 来 | R | 用户表跟进：推「发了2光4相关信息」→ 对方「有用但现在没需求」 |  |
+| 2024.1.18 | 表 | 表 | 发了2光4相关信息｜有用但现在没需求 |  |
+| 2026-05-12 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-09 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-02 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

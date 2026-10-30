@@ -52,6 +52,22 @@
     "quote": "Re: 8 Port Industrial PoE Switch｜Yes, I am interested. +94718095631 please contact me",
     "why": "S 邮箱 真人来信（pos）",
     "k": "5439150450137b8c"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "J Teem Solutions … provider of fiber optic network solutions in Sri Lanka … Kurunegala",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.jteem.lk/fiber-solutions/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "security alarm systems … Hikvision and Dahua … Kurunegala, Sri Lanka",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.jteem.lk/security-alarm-systems/"
    }
   ],
   "binding": {
@@ -75,10 +91,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）",
   "why_not": "",
   "excl": "",
@@ -94,8 +110,227 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：J Teem Solutions（斯里兰卡 Kurunegala 小型电信/安防/光纤安装商，Hikvision/Dahua）：2024-12/2025-01 两封（要 spec+price、「I am interested」）后无下文；非主攻区小安装商 → B"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）"
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：J Teem Solutions（斯里兰卡 Kurunegala 小型电信/安防/光纤安装商，Hikvision/Dahua）：2024-12/2025-01 两封（要 spec+price、「I am interested」）后无下文；非主攻区小安装商 → B",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-12-05",
+    "S",
+    "please send me the spec sheet and price"
+   ],
+   [
+    "2025-01-04",
+    "S",
+    "Yes, I am interested. +94718095631 please contact me"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2025-01-04（21 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "规模未知",
+   "人工终判：J Teem Solutions（斯里兰卡 Kurunegala 小型电信/安防/光纤安装商，Hikvision/Dahua）：2024-12/2025-01 两封（要 spec+price、「I am interested」）后无下文；非主攻区小安装商 → B"
+  ],
+  "story": "斯里兰卡·集成商/安装商；未坐实：待快照。往来 2024-06-30→2025-03-31：我方去信 11 封（A 2 / S 9），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-12-05 S: please send me the spec sheet and price ‖ 2025-01-04 S: Yes, I am interested. +94718095631 please contact me。我方报过：$34 / $220 / $300。对位：待定；路径：免费邮箱 MX ok；最近来信 2025-01-04（21 月前）。",
+  "n_out": 11,
+  "n_in": 2,
+  "last_in": "2025-01-04",
+  "last_out": "2025-03-31",
+  "prices_out": [
+   "34",
+   "220",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-07-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 port managed switch",
+    "gist": "48 port managed switch",
+    "prices": [
+     "220"
+    ],
+    "bulk": false,
+    "k": "8b4cb93c6b3ea507"
+   },
+   {
+    "date": "2024-08-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G switch",
+    "gist": "2.5G switch",
+    "prices": [],
+    "bulk": false,
+    "k": "280f05afa0b2d665"
+   },
+   {
+    "date": "2024-09-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G Web Managed Switch",
+    "gist": "2.5G Web Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "251d16b21a0ec2dd"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Passive PoE Switch",
+    "gist": "24 Port Passive PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4bf86b9be63fa387"
+   },
+   {
+    "date": "2024-12-04",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "43a157b9528c61fc"
+   },
+   {
+    "date": "2024-12-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Mini Industrial PoE Switch",
+    "gist": "Re: Mini Industrial PoE Switch",
+    "prices": [
+     "34"
+    ],
+    "bulk": false,
+    "k": "16f7e9226d3288da"
+   },
+   {
+    "date": "2024-12-05",
+    "dir": "in",
+    "box": "S",
+    "from": "nimanthasampath@gmail.com",
+    "subj": "Re: Mini Industrial PoE Switch",
+    "gist": "please send me the spec sheet and price",
+    "prices": [],
+    "bulk": false,
+    "k": "6d07741b9335d2c5"
+   },
+   {
+    "date": "2024-12-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Mini Industrial PoE Switch",
+    "gist": "Re: Mini Industrial PoE Switch",
+    "prices": [
+     "34"
+    ],
+    "bulk": false,
+    "k": "0387b135f150484e"
+   },
+   {
+    "date": "2025-01-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "96f6fceaf208fe5e"
+   },
+   {
+    "date": "2025-01-04",
+    "dir": "in",
+    "box": "S",
+    "from": "nimanthasampath@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Yes, I am interested. +94718095631 please contact me",
+    "prices": [],
+    "bulk": false,
+    "k": "5439150450137b8c"
+   },
+   {
+    "date": "2025-02-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "f265270d1d768718"
+   },
+   {
+    "date": "2025-03-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "f633dcc566c06c4d"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.jteem.lk/fiber-solutions/",
+    "quote": "J Teem Solutions … provider of fiber optic network solutions in Sri Lanka … Kurunegala",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.jteem.lk/security-alarm-systems/",
+    "quote": "security alarm systems … Hikvision and Dahua … Kurunegala, Sri Lanka",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

@@ -231,14 +231,14 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
-  "grade_before": "B",
-  "reason": "核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）",
+  "grade_before": "A",
+  "reason": "PI包·gg",
   "why_not": "",
   "excl": "",
-  "deal": "核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）",
+  "deal": "PI包·gg",
   "reply_class": "R+",
   "evidence": " ‖ 表 2024.5.16: 发了2层2光8poE→成单电口设备"
  },
@@ -250,8 +250,121 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·PI 包补录行 rio-import（旧 B-1335 并入；成单客户，俄罗斯）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "Россия · ЕГРЮЛ 镜像（oxycom.biz 迷你摘录 2012 + companies.rbc 现任总经理: ООО «РИО-ИМПОРТ»（RIO Group，Красноярск） · ОГРН 1092468006047 · ИНН 2460214069 · КП · Действующее（官网在线） · 2009-02-19"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024.2.21",
+    "表",
+    "发了2光4小壳相关信息→想测样，价格 模块暂不确定单双纤"
+   ],
+   [
+    "2024.5.16",
+    "表",
+    "发了2层2光8poE管理信息→成单电口设备"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 2024-05-16（29 月前）"
+  ],
+  "size": "小型；营收 38.13 млн ₽（最近一期）（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "俄罗斯·分销商；登记坐实：Россия · ЕГРЮЛ 镜像（oxycom.biz 迷你摘录 2012 + companies.rbc 现任总经理: ООО «РИО-ИМПОРТ»（R。往来 2024-02-21→2024-05-22：我方去信 1 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2024.2.21 表: 发了2光4小壳相关信息→想测样，价格 模块暂不确定单双纤 ‖ 2024.5.16 表: 发了2层2光8poE管理信息→成单电口设备。我方报过：未见报价数字。对位：STI-288DGGPM；路径：免费邮箱 + WA；最近来信 2024-05-16（29 月前）。",
+  "n_out": 1,
+  "n_in": 0,
+  "last_in": "2024-05-16",
+  "last_out": "2024-05-22",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-02-21",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Email）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2光4小壳相关信息」→ 对方「想测样，价格 模块暂不确定单双纤」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.2.21"
+   },
+   {
+    "date": "2024-05-16",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Email）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2层2光8poE管理信息」→ 对方「成单电口设备」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/优质俄罗斯客户 2.9.xlsx no.7 2024.5.16"
+   },
+   {
+    "date": "2024-05-22",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Igor Popov（Quotation，EXW Russia）",
+    "subj": "",
+    "gist": "STI-050GE (5×GE, DIP, DC12~58V, -40~75℃, DIN, w/o PSU) 2 pcs × $24; STI-080GE (8×GE) 2 pcs × $31 = $110, \"Sample Testing\". Price validity 15 days; leadtime 4~7 ",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `8_俄罗斯_Igor_gg/Quotation.xls`"
+   },
+   {
+    "date": "2024.2.21",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光4小壳相关信息",
+    "gist": "想测样，价格 模块暂不确定单双纤",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2层2光8poE管理信息",
+    "gist": "成单电口设备",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

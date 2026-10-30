@@ -287,16 +287,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2026-01→2026-01）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-01-04] Hi, send me please your pricelists with POE switches and accessories ‖ 表 2025.8.28: 24PoE→Price List ‖ 研 2026-01-04 SVN 销售部: send me please your pricelists with POE switches and accessories / 2026-01-04 zakaz@svn-video.ru: Re: Industrial PoE Switch｜Hi, send me please your pricelists with POE switches a"
+  "evidence": "[A 2026-01-04] Hi, send me please your pricelists with POE switches and accessories ‖ 表 2025.8.28: 24PoE→Price List"
  },
  "override_history": [
   {
@@ -306,8 +306,211 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2026-01→2026-01）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2026-01→2026-01）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Россия · ЕГРИП（companium 镜像）+ 官网 реквизиты 页（ИНН / ОГРНИП 自报: ИП КРИВОЛУЦКАЯ Юлия Викторовна（商号 SVN · svn-video.ru） · ОГРНИП 318402700048713 · ИНН 40291036364 · Действует（经营中；官网在线） · 2018-08-02"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "poe",
+   "交换机"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-08-28",
+    "R",
+    "用户表跟进：推「24PoE」→ 对方「Price List」"
+   ],
+   [
+    "2025.8.28",
+    "表",
+    "24PoE→Price List"
+   ],
+   [
+    "2026-01-04",
+    "A",
+    "Hi, send me please your pricelists with POE switches and accessories"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-01-04（9 月前）"
+  ],
+  "size": "1–5（第 85 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "俄罗斯·OEM 品牌商；登记坐实：Россия · ЕГРИП（companium 镜像）+ 官网 реквизиты 页（ИНН / ОГРНИП 自报: ИП КРИВОЛУЦКАЯ Юли。往来 2024-06-19→2026-09-07：我方去信 22 封（A 14 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-08-28 R: 用户表跟进：推「24PoE」→ 对方「Price List」 ‖ 2025.8.28 表: 24PoE→Price List ‖ 2026-01-04 A: Hi, send me please your pricelists with POE switches and accessories。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-04（9 月前）。",
+  "n_out": 22,
+  "n_in": 1,
+  "last_in": "2026-01-04",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-08-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bf1d91513f76a09f"
+   },
+   {
+    "date": "2025-08-28",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 A）",
+    "subj": "",
+    "gist": "用户表跟进：推「24PoE」→ 对方「Price List」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A Replied 09.04.xlsx no.48 2025.8.28"
+   },
+   {
+    "date": "2025-10-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "f931829b6750dd2c"
+   },
+   {
+    "date": "2025-11-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "234b97cc040bb98f"
+   },
+   {
+    "date": "2025-12-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "ad04256f63b6542b"
+   },
+   {
+    "date": "2025.8.28",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "24PoE",
+    "gist": "Price List",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-01-04",
+    "dir": "in",
+    "box": "A",
+    "from": "zakaz@svn-video.ru",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Hi, send me please your pricelists with POE switches and accessories",
+    "prices": [],
+    "bulk": false,
+    "k": "e5396399dcef3822"
+   },
+   {
+    "date": "2026-01-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Re: Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e972f525788b212d"
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "48bd60e16dc35759"
+   },
+   {
+    "date": "2026-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "80cfa3f388210b9f"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e39865805e2c55d8"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cd90acab1f8de2bf"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

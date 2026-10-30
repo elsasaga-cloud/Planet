@@ -12,7 +12,7 @@ code: SA-077
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 name_official: "Angora Networks Bilişim Teknoloji Tic. San. A.Ş.（安卡拉）"
 score: 108
 country: 土耳其
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其安卡拉的网络系统集成商，面向 Turk Telekom、土耳其警察等公共/运营商客户投标，自有品牌 ANW-（Angora）与 2025-04 起的新品牌 TronX。Saga **已成单客户**：2024-05 样品（Levent 询 2×STC-424XGGPM + 2×STC-28DGGPM；实发 2×STC-28DGGPM + 1×STC-424XGGPM + 1×STC-448XGGPM = $1,265，贴 ANW-3108-PG / 3124-PX / 3148-PX 名）→ 2024-10 7 台（5×ANW-2116-PG 定制 16 口 + 2×ANW-1108-V 工业）→ 2025-03 **176 台 ANW-2116-PG 大单**（尾款 $37,174，2025-03-07 发运）→ 2025-05 7 台商用 L2+（STSC20250228007）+ 13 台（3×ANW-2248-PX + 10×ANW-2224-PX）→ 2025-06 6 台 STI-288DGGPM 演示机。在谈：Turk Telekom 智能站点大项目（曾报 5,000 台 STI-288DGGPM，后说首批 2,000 台/60 天）、TronX 常规订单、CENTEC 数据中心交换机 ODM（48×25G+8×100G 报 $4,600）、2026 土耳其警察 RfP（最低价机型）。S 邮箱 33 线程 316 封（来 144 / 去 172），2024-04-28 → 2026-07-08。（调研 2026-10-22；表内兴趣：商用 L2+/L3 交换机（24/48 口 + 10G）、工业 PoE 交换机（8/16 口）、CENTEC 数据中心交换机、贴牌（ANW-/TronX/Turk Telekom））
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 Saga 成单（PI 包）；+10 谈到样品/测样；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2026
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM-2BT / STI-288DGGPM（AC5，TT 工业机主力）；STC-424XGGPM / STC-448XGGPM（ANW/TronX 24/48 口）；CENTEC STH-8C48DX-HSI（48×25G+8×100G）作 L3/核心选项 — Angora 自己写的报告把 Saga 称为 foundational manufacturing partner，并提出 co-investment / volume-commitment——这是全库唯一一家主动要「共同投资产品路线」的客户。Saga 的回答是战略性的（Marvell L2+ + CENTEC L3），不是敷衍；现在的任务是把 CENTEC 选项变成一台 Angora 手里的测试机，而不是再讨论 Marvell 堆叠。 已打开的主题：全部为双向真人往来，不适用群发打开率规则。｜对外统一口径（#1/#3）：2025-02-11 Simon 给 Angora 的「NAT/Cloud/TSN/MPLS/Stack/SD-WAN 长期不做」= Saga 的 L3 边界基准版；对其他客户（Versitron）说过「stacking available」属口径漂移，对 Angora 不改口｜内部《成本统计.xlsx》六单毛利率：STSC20240508007 23.6% · 2024-10/11 三单合计 34.4% · STSC20250117007（178 台 ANW-2116-PG，成本 1,490/台，运费 22,426 RMB）15.9% · STSC20250507007 18.7% · STSC20250526007 34.5% · STSC20250619007（STI-288DGGPM 成本 712）29.8%——大单毛利被运费和低价压到 16%，低于 Marvell ≥25% 底线；10-03 报的 875 RMB 若成本仍 712 则约 18.6%，Simon 已明说「我们这边消化材料涨价」，属有意为之的绑定价｜毛利复盘：小批 23.6% / 34.4% / 18.7% / 34.5% / 29.8%，176 台大单 15.9%（运费 22,426）；88 台新单 875 RMB 属绑定价；历史成交（PI 原文）：STI-288DGGPM 125 USD（TronX 清单 2024-11）、176 台 ANW-2116-PG 项目（STSC20250117007）、STC-424DGGPM-280W 180 / STC-448XGGPM 335 USD（TronX FOB 2024-11）、工业机 385 台项目 105 USD/pc（2024-09 PI）、CENTEC 48×25G+8×100G 4,800→4,600 USD（2025-03）、SFP 1G $5 / 10G $8–10 / 25G $20 / 40G $33 / 100G $42；Levent 2026-07 自述 Saga 街价 STC-424XGGPM $340 / STC-448XGGPM $530。运费一览表：Saga 对 Angora 运费按「收费利润率 >30%」加价（均价 10–12 USD/kg，STSC20250117007 收 $4,000 实付 ¥22,426）。；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $143.45（That is, 151*0.95=143.45usd/pc as final ）、2024-11-28 $151（1. Unit price: 150usd(device)+1usd(conso）、2025-01-16 $10000（1, We got your initial payment 10,000Usd）、2025-03-03 $37174（*The balance amount is 37174 USD.*）、2025-03-18 $4800（4800USD/pc）、2025-03-19 $4600（The best we can do is 4600USD/pc for now）｜2026-10-03 微信最新报价（RMB）：STI-288DGGPM 875 RMB/台 + Meanwell 240W 原装电源 250 RMB/台（88 台，同包装）；按 6.71 ≈ $130 + $37｜DC 机型锚：2025-03-18 报 8C48DX $4,800 → 对方目标 <$4,000 → 03-19 底价 $4,600「测试通过后再议」；2026 Q2 表仍 $4,800；**CENTEC 进价对照（价格比对 2026-03-01：STH-8C48DX-HSI = S7548N-8Z 28,000 RMB）：$4,800 → 16.7% / 12.8%（@7 / @6.69），底价 $4,600 → 13.0% / 9.0%，Angora 目标 <$4,000 = 进价线以下；下次 Angora 再提 DC 机，$4,600 是底，不能再让（CENTEC 锚表 §5.2）**；量价锚（2024-12-03 报价单）：STC-448XGGPM L2+ 150 台 $360 / L3 $560；工业非管理 STI-050GE 100 台 $27、STI-110GE 100 台 $23（按 Planet IGS-500T / IGT-805AT 替代报）
 - **第一问（只问一个）**：Levent, quick one on the 88 × STI-288DGGPM + 240W Meanwell PSU (quoted Oct 3, 875 + 250 RMB): when do you expect the PO and deposit? I will block the production slot the day it lands — same ANW label format and packing box as the last order, no questions needed.
@@ -346,7 +346,7 @@ updated: 2026-10-30
 - **KP**：Taylan Esen（技术负责人（RFP 功能、SNMP/固件、MAC/SN、客户 NMS））tesen@angoranetworks.com 〔gmail:s.sagatelecom thread 1797555182457944562〕
 - **KP**：Levent Kilic（单据联系人）levent.kilic@angoranetworks.com; lkilic@angoranetworks.com 〔PI.zip 单据〕
 - **KP**：Mr. Mustafa Calik（单据联系人）mustafa.calik@tronx.com.tr 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Telekom、NATO 项目（2025-07 媒体转换器询价，合作方已放弃）——属公共部门/运营商，Saga 以 Angora 为客户、不直接对公共部门，沿用 Simon 既有做法。PI 包入库后用发票级数据补「订单明细」。
 
@@ -401,6 +401,38 @@ A 级（成单）。边界提示：其终端客户为土耳其警察、Turk Tele
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.（2016-11-28 设立；NACE 62.09.02；登记地 Alacaatlı Mah. Park Cad. 47/31 Yen |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber industrial network poe sfp switch 交换机；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-03-05 R: CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat ‖ 2026-07-31 R: Angora Networks views SAGA Telecom as our foundational manufacturing partner… four … |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-10-03（0 月前） |
+| ⑤ 规模 | ≥小型 | 未核（本档案不含网页调研）；按订单规模与项目体量判断为中型集成商 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：土耳其·OEM 品牌商；研究档法定名：ANGORA NETWORKS BİLİŞİM TEKNOLOJİ TİCARET SANAYİ A.Ş.（2016-11-28 设立；NACE 62.09.0。往来 2024-04-28→2026-10-03：我方去信 24 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2025-07-29 R: We have a request for a NATO project… [SRS-284] 1 x RJ45 10/100/1000 Base-T [SRS-285] 1 x SFP slot [SRS-286] 9k Jumbo [SRS-289] LFP… ‖ 2026-03-05 R: CONFIDENTIAL… Turkish Police… buy one。我方报过：2025-07-15  $220.0；2025-07-14  $220.0；2025-09-04  $220.0。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-10-03（0 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-11 | 去 | R |  |  |
+| 2025-07-24 | 来 | R | We are going to write a new management system specifically for Turk Telekom, to monitor switches, cameras… We'll also integrate all switches to our ma… |  |
+| 2025-07-24 | 来 | R | We are working to fully integrate TT switches into the new management system. Can you please help me with SNMP v3 config. Also we need a full configur… |  |
+| 2025-10-31 | 来 | R | You remember we sold 170 of them, and customer deployed more than 60. They now have some strange problem |  |
+| 2025-11-03 | 来 | R | 终端 = **Gaziantep 市政路口监控网**（"the most EU funded municipality in the whole Europe"）：全 L2，每个路口站点 = 摄像头（VLAN 340）+ 路口控制服务器（VLAN 350）+ 管理 VLAN 330，经光纤或无线 r… |  |
+| 2025-11-07 | 来 | R | big thanks for the support today… what I have seen so far does not make me think that we have a hardware issue |  |
+| 2026-03-05 | 来 | R | CONFIDENTIAL… Turkish Police… buy one year's worth of equipment in 1 RfP… very price sensitive, cut throat |  |
+| 2026-07-07 | 来 | R | the same customer would like to have an updated version… This comes from their security assurance team |  |
+| 2026-07-08 | 去 | R |  |  |
+| 2026-07-31 | 来 | R | Angora Networks views SAGA Telecom as our foundational manufacturing partner… four requirements for a true enterprise L3 tier: Stacking / USB port / O… |  |
+| 2026-08-17 | 去 | R |  |  |
+| 2026-10-03 | 来 | R | Levent: We expect an order for 88 pieces of L2+ industrial 8-port together with 48V power supply. Can you please share a pricing for this in the same … |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

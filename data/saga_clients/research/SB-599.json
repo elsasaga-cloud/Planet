@@ -54,7 +54,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -196,6 +196,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·俄罗斯 SYMANITRON：工业网络自有品牌 + 合同制造（OEM 对位，俄语区）"
   }
  ],
  "snap_thicken": {
@@ -235,7 +243,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -245,5 +253,192 @@
   "deal": "",
   "reply_class": "auto",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "RU · 1 次检索：saby.ru（ООО «НПП \"Симанитрон-Электроника\"» ИНН 64: ООО НПП «Симанитрон-Электроника»（symanitron.ru / s-avt.ru；ИН · ИНН 6454141571 / ОГРН 1146454002595 · Действующая · 2014-06-30"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "poe",
+   "sfp",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288GPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-09-10（25 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "俄罗斯·OEM 品牌商；登记坐实：RU · 1 次检索：saby.ru（ООО «НПП \"Симанитрон-Электроника\"» ИНН 64: ООО НПП «Симанитро。往来 2024-06-24→2026-08-24：我方去信 27 封（A 15 / S 12），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $170 / $280 / $300。对位：STI-288GPM；路径：企业邮箱；最近来信 2024-09-10（25 月前）。",
+  "n_out": 27,
+  "n_in": 0,
+  "last_in": "2024-09-10",
+  "last_out": "2026-08-24",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "32ea100968e119de"
+   },
+   {
+    "date": "2025-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "e6f2885a78f365b7"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1e085def79c40197"
+   },
+   {
+    "date": "2025-09-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "d943966a13f6b53e"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ad5cce07ae3d40b3"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "92645153eca16ed4"
+   },
+   {
+    "date": "2026-01-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "875f85847adfa909"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "f8f3143f4134ae43"
+   },
+   {
+    "date": "2026-04-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9414934a85e3d189"
+   },
+   {
+    "date": "2026-05-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "55a730da1d8222bc"
+   },
+   {
+    "date": "2026-07-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "75c46203fc64fcfa"
+   },
+   {
+    "date": "2026-08-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "c313f931d33bd3fd"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

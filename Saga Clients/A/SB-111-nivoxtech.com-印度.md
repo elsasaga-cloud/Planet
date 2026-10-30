@@ -12,7 +12,7 @@ code: SB-111
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "Nivox Technologies（Bengaluru）"
 score: 59
 country: 印度
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：班加罗尔工业以太网 / 坚固光纤产品供应商（合伙企业，≤10 人 IndiaMART；Crunchbase 51–100 存疑），**Lantech（台湾）印度分销**（工业 PoE 4–16 口、管理 8/16/24 口），自有品牌 IVEONET（光配线、网线），站内邮箱含 info@lantechcom.tw；总监 Hemanth Kumar 2024 年要工业 MC 价格与证书，2025-05 问 **EN50155**（铁路认证，Saga 无 → 守界）。表内注「Atop 的工业 MC」。（调研 2026-10-21；表内兴趣：网站上介绍比较具体）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 13 次（2024-04-22 → 2025-06-21）；最近一次客户回复：57：EN50155
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 其最初询价对象 = 工业 MC（要证书）→ Saga STI-110GE（$22.4/23.4/24.3，CE/FCC/RoHS）贴 IVEONET 品牌，OEM 30% 档；工业 PoE 备选 STI-288GP；EN50155 需求不接。；首触锚价 STI-110GE $26.5 EXW（最近实报 SA-001 2025-11-27 $26.5（㉕）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hemanth, for the IVEONET line — our DIN-rail gigabit media converter (−40~75 ℃, CE/FCC/RoHS, no EN50155) can carry your brand from 1 pc; which fibre option do you move most, SFP slot or fixed SC 20 km? Reference: STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
@@ -133,7 +133,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hemanth Kumar（Director / 合伙人 Nivox Technologies（kompass / dnb）= 拍板人 / 收件人；2024–2025 多次问价（含 EN 50155）（第 114 批 官方登记核实 2026-10-28））hemanth@nivoxtech.com +91 98455 04242〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Kavitha D.（Director & CEO / 合伙人（crunchbase / kompass）（第 114 批 官方登记核实 2026-10-28）） 〔https://in.kompass.com/c/nivox-technologies/in433614/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -191,6 +191,30 @@ updated: 2026-10-30
 | 2025-02-26 | 2025.2.26 | 工业16 24口出货图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#63 |
 | 2025-06-21 | 621 | 工业非管理组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#63 |
 | ? | 57 | 4 8 16口工业PoE | EN50155 | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#63 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：indiamart（Nivox Technologies；Partnership；GST 29AA: Nivox Technologies（nivoxtech.com / iveonet.com；**合伙企业；GSTIN  · GSTIN 29AAIFN5171H1ZZ / IEC 0711010… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber industrial poe 交换机 光纤 工业；P1 STI-110GE |
+| ③ 需求证据 | 泛（问价/要目录） | 2024.4.22 表: 发了工业MC信息→price 证书 ‖ 57 表: 4 8 16口工业PoE→EN50155 |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-10-22（24 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：印度·OEM 品牌商；登记坐实：IN · 1 次检索：indiamart（Nivox Technologies；Partnership；GST 29AA: Nivox Technologies。往来 1022→2024-10-22：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.4.22 表: 发了工业MC信息→price 证书 ‖ 57 表: 4 8 16口工业PoE→EN50155。我方报过：未见报价数字。对位：STI-110GE；路径：企业邮箱 MX ok + WA；最近来信 2024-10-22（24 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 1022 | 表 | 表 | 电口｜有需求时会说 |  |
+| 2024-10-22 | 来 | R | 用户表跟进：推「电口」→ 对方「有需求时会说」 |  |
+| 2024.4.22 | 表 | 表 | 发了工业MC信息｜price 证书 |  |
+| 57 | 表 | 表 | 4 8 16口工业PoE｜EN50155 |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

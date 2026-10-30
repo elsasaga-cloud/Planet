@@ -69,7 +69,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\nWA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -202,6 +202,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 Liveye：移动视频监控塔制造商（工业 PoE 整机对位）"
   }
  ],
  "snap_thicken": {
@@ -238,7 +246,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -248,5 +256,186 @@
   "deal": "",
   "reply_class": "none",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittli: LivEye GmbH（HRB 44506 Wittlich；Föhren）— 移动视频监控塔制造商 · HRB 44506（Amtsgericht Wittlich）；USt-IdNr · Aktiv · 2018（Indee"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "poe",
+   "交换机"
+  ],
+  "p1": "STI-144GP",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "≈95 人、5 地点（DACH + 波兰）；营收 €4–21M 区间",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "德国·集成商/安装商；登记坐实：DE · 1 次检索：liveye.com Impressum（HRB 44506 Amtsgericht Wittli: LivEye GmbH（HRB 44。往来 2025-04-11→2026-09-23：我方去信 16 封（A 15 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280。对位：STI-144GP；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 16,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-23",
+  "prices_out": [
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "754b45e1eddfc5bc"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "f10d21c8656b6a1d"
+   },
+   {
+    "date": "2025-11-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "662d3f3e0b3358fb"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "a7741d5ecd3ccfb1"
+   },
+   {
+    "date": "2026-01-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "16862f5209191c8c"
+   },
+   {
+    "date": "2026-03-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "a08373f3ee792c70"
+   },
+   {
+    "date": "2026-05-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "39c663c94c573c94"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ee2c0bdbaa929b09"
+   },
+   {
+    "date": "2026-07-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "d9fb9785124c9288"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "cc85e22bd69cfb95"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "e9d6cad1b5da85cc"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "out",
+    "box": "R",
+    "from": "A 群发",
+    "subj": "",
+    "gist": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

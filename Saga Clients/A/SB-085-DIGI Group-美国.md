@@ -12,7 +12,7 @@ code: SB-085
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 
 name_official: "Thor Fiber / Thor Broadcast（thorfiber.com · thorbroadcast.com；用户表名「DIGI Group」，联系人 Stan）"
 score: 83
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国加州 Torrance 的光纤传输/广播设备品牌商（2006 年起，LinkedIn 51–200 人），自有品牌销售光端机、以太网光纤延长器（F-GET-TRS-POE+ 千兆单纤 PoE+ 30W）、IP 二线延长器（H-IP-TP-TX/RX 500 m PoE）、机箱等——产品形态为 OEM 贴牌型。用户表：S 重点，2 次实质回复 + WhatsApp + 样品记录，22 次跟进。（调研 2026-10-21；表内兴趣：Polish, buy from PLANET, interested in VC with Audio + 10bit video, quoted $90 but want to buy samples at $20-1v1d）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11））；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+10 谈到样品/测样；+25 在 Simon 的 S 重点名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：需求品类不在 Saga 主线
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2025-06→2025-11））；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+10 谈到样品/测样；+25 在 Simon 的 S 重点名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；+5 跟进表最近平台标记 S；封顶 B：需求品类不在 Saga 主线
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 22 次（2024-01-25 → 2025-11-27）；最近一次客户回复：2025-06-25：想OEM
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGBPM / STI-288DGGPM / STI-42424XGGPM 管理型 OEM 价表 — 品牌商 + 明确 OEM 意向 + 美国｜已发资料（勿重发）：Download Link_Simon(2025-06-26)、STI-488XGGBPM(2025-12-01)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；IGMP 标注；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-18 $65（10G fiber media converter）、2024-12-11 $300（48 Port PoE Managed Switch）、2025-01-06 $240（24 Port Fiber Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：修掉「$137 EXW.5」「$423 EXW.5」排版错；三价均为列表价封顶（30% 档 $151.6 / $427.5 / $524.7 更高）
 - **第一问（只问一个）**：Stan — here is the OEM price table for all managed industrial models with IGMP v2/v3 snooping + querier; which two SKUs would you want to brand first for the catalog?
@@ -181,7 +181,7 @@ updated: 2026-10-30
   > （用户表字段：实质回复 2 / WA / 样品 / 跟进 22）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Stan (Slawomir) Sochur（CEO / CFO / Secretary / Director（California SOS 四职一人 = Slawomir Sochur）= 老板 = 联系人；Thor Fiber, Inc. CA 4095985（2017-12-26；业务 2011 / 2007 起）（第 86 批 官方登记核实 2026-10-27））stan@thorfiber.com 〔S/A 邮箱来信 2025-06-26 → 11-28 来信 3 封（显示名 Thor Fiber）（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2025-06→2025-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -258,6 +258,38 @@ updated: 2026-10-30
 | 2025-09-27 | 927 | 28poe |  | S |  | S 09.08.xlsx#6 |
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#6 |
 | 2025-11-27 | 1127 | solar |  | S |  | S 09.08.xlsx#6 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | USA · California Secretary of State 登记（bizprofile 镜像，2025-07: THOR FIBER, INC.（dba Thor Broadcast） · California SOS 文件号 4095985（General Corpo · Active（2025-07） … |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber industrial media converter poe sfp switch；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-06-28 S: We species with video over IP , we must have IGMP protocol, it is mandatory. Do you have any products which supports it ? If so please send  ‖ 2025-11-28 S: Thank you for your email How much is that ? pleas… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-11-28（11 月前） |
+| ⑤ 规模 | 个人/微型 | 1–10 实际（LinkedIn 51–200 不可信）；营收估 $0.4–4M 区间（第 86 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·OEM 品牌商；登记坐实：USA · California Secretary of State 登记（bizprofile 镜像，2025-07: THOR FIBER, INC.（d。往来 2024-01-25→2026-09-08：我方去信 23 封（A 0 / S 23），对方真人来信 3 封 + 表内/备注 2 条；对方问过：2025-06-26 S: Hello Simon, Thank you for your informations . We might be interesting to OEM those switches and add them to our offer and catalog. Could yo ‖ 2025-06-28 S: We species with video over IP。我方报过：$65 / $170 / $215 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-11-28（11 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-08-05 | 去 | S | Re: Industrial PoE Switch |  |
+| 2025-09-29 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-10-29 | 去 | S | 10G Enterprise SFP Switch | $280 |
+| 2025-11-27 | 去 | S | Booster PoE Switch |  |
+| 2025-11-28 | 来 | S | Re: Booster PoE Switch｜Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Te… |  |
+| 2025-12-01 | 去 | S | Re: Booster PoE Switch | $215 |
+| 2026-01-29 | 去 | S | OEM Core Switching Solution |  |
+| 2026-03-02 | 去 | S | Updated Ethernet Switches Links |  |
+| 2026-06-22 | 去 | S | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
+| 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
+| 625 | 表 | 表 | 24PoE｜想OEM |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

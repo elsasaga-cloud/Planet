@@ -1,0 +1,269 @@
+{
+ "code": "SC-1491",
+ "name_official": "distri-x.nl",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "荷兰客户（distri-x.nl）：AB-FINAL-02 以回信证据建档——真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "推「Simon 备注/兴趣栏」→ 对方「工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304\n(Mobile)」",
+   "quote": "推「Simon 备注/兴趣栏」→ 对方「工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304\n(Mobile)」",
+   "url": "Clients/ 表格",
+   "date": "2026-10-30"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-02 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2026-10-30",
+    "dir": "Simon",
+    "who": "用户表（Simon 跟进记录）",
+    "quote": "推「Simon 备注/兴趣栏」→ 对方「工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304\n(Mobile)」",
+    "why": "表内客户回复（pos）",
+    "k": "Clients/ 表格"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-02 建档"
+  },
+  "situation": "荷兰；2026-10-30 最后一次来信/回复：推「Simon 备注/兴趣栏」→ 对方「工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304",
+  "need": " ‖ 表 : Simon 备注/兴→工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 ",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 : Simon 备注/兴→工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 "
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304\n(Mobile)"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "荷兰；未坐实：待快照。往来 —→2026-10-19：我方去信 10 封（A 4 / S 6），对方真人来信 0 封 + 表内/备注 1 条；对方问过： 表: Simon 备注/兴趣栏→工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304\n(Mobile)。我方报过：$65 / $180 / $6000。对位：待定；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 10,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-10-19",
+  "prices_out": [
+   "65",
+   "180",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304\n(Mobile)",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 port managed switch",
+    "gist": "24 port managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c8fd7e1f4653b6e6"
+   },
+   {
+    "date": "2024-07-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "PoE managed switch",
+    "gist": "PoE managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d3f03da181fb3930"
+   },
+   {
+    "date": "2024-08-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "b47a19c3c5a94852"
+   },
+   {
+    "date": "2024-09-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Ethernet Switch",
+    "gist": "8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0a3f3c2a216ae77c"
+   },
+   {
+    "date": "2024-10-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5d9c9b72d9383143"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "99fb7001e9be7a07"
+   },
+   {
+    "date": "2026-06-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "a9aef17c5ae381e0"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1ae7f589220982c7"
+   },
+   {
+    "date": "2026-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "71c9454ea29022b4"
+   },
+   {
+    "date": "2026-10-19",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "180"
+    ],
+    "bulk": false,
+    "k": "7a7db5004413d835"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
+}

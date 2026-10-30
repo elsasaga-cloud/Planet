@@ -8,7 +8,7 @@
 code: SB-246
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 score: 49
 country: 波兰
 region: 欧洲
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波兰 IS Networks（计算机网络设计、组装与服务公司，兼售产品：工业以太网交换机、交换机、工业转换器、光纤、CCTV 43；表内「工业 FS / MC / SFP，用了 nnet 的」；KP Marek（marek@is-net.pl））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS MC SFP 用了nnet的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2026-02→2026-02））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-01-31 → 2025-10-21）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-2C6QX-HSI / STH-2QX4XF48GP-HSI — CENTEC 对口 + 主动要价 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-02-09)、Product Link_2026Q3(2026-07-16)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；信里只给这 3 个有价型号，10G 系列写「按项目报」；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-28 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-21 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Marek — three CENTEC SKUs are priced (32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW, 2026 Q2); which layer are you sizing, 10G/25G aggregation or 100G spine?
@@ -151,7 +151,7 @@ updated: 2026-10-30
   > 工业FS MC SFP；用了nnet的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Marek Kubas（）marek@is-net.pl 〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2026-02→2026-02）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -210,6 +210,38 @@ updated: 2026-10-30
 | 2025-10-21 | 1021 | dac |  | A |  | PL 2.6.xlsx#41 |
 | ? | 73 | 28poe |  | A |  | PL 2.6.xlsx#41 |
 | ? | 85 | 22mini |  | A |  | PL 2.6.xlsx#41 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Polska · CEIDG 镜像（krs-online：NIP / REGON / PKD / 成立年 / 决策人）+: IS NETWORKS Marek Kubas（个体工商户 / jednoosobowa działalność） · NIP 8130069738 · REGON 690005253（CEIDG… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet fiber industrial media converter network poe sfp switch；P1 STI-288GPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2026-02-09 A: Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). Regards, Marek Kuba |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-02-09（8 月前） |
+| ⑤ 规模 | 个人/微型 | 微型（个体户 + 少量雇员）（第 88 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：波兰·集成商/安装商；登记坐实：Polska · CEIDG 镜像（krs-online：NIP / REGON / PKD / 成立年 / 决策人）+: IS NETWORKS Marek 。往来 2024-08-30→2026-09-28：我方去信 22 封（A 17 / S 5），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2026-02-09 A: Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). Regards, Marek Kuba。我方报过：$170 / $280 / $300。对位：STI-288GPM；路径：企业邮箱 MX ok；最近来信 2026-02-09（8 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-10-21 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-21 | 去 | A | Booster PoE Switch |  |
+| 2025-12-31 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-02-06 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-09 | 去 | A | Re: OEM Core Switching Solution |  |
+| 2026-02-09 | 来 | A | RE: OEM Core Switching Solution｜Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices… |  |
+| 2026-04-01 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-05-07 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-09 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-16 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-26 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-28 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

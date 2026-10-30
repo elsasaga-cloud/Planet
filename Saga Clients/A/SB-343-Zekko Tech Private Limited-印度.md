@@ -12,7 +12,7 @@ code: SB-343
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方
 name_official: "Zekko Tech Private Limited（孟买）"
 score: 44
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度孟买（+91 91360）企业 / 电信 IT 与自动化方案商（站内 telecom 27、industrial 22、automation 18），Manager Yashraj Sharma / Santosh Singh；需求工业级 / SFP；WA 无实质回复。（调研 2026-10-21；表内兴趣：工业级/SFP）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单））；自动分级 B：+10 谈到样品/测样；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单））；自动分级 B：+10 谈到样品/测样；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 工业级需求 → STI-288GPM（$82.2 @25%）；SFP 不供（Q-32）。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-14 $280（10G Enterprise SFP Switch）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-15 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-15；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Yashraj, for the industrial requirement — DIN-rail managed 8-PoE + 2-SFP (Marvell, ERPS, −40~75 ℃) at $82 EXW; is it for a telecom shelter or a plant network? I'll match the port count to it.
@@ -147,7 +147,7 @@ updated: 2026-10-30
 - **KP**：Yashraj Sharma（Manager（研究档）= 收件人（第 114 批 官方登记核实 2026-10-28））yashraj@zekko.co.in +91 75060 52047〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Santosh Singh（Manager（研究档；与前董事 Seema Santosh Singh 关联待证）= 抄（第 114 批 官方登记核实 2026-10-28））santosh@zekko.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Chandrasekaran Iyer（Whole-Time Director（MCA；DIN 06879733）= 拍板人（不直接收件）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·印度 Zekko：电信 IT 与自动化方案商（工业 PoE 对位，印度名单）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -187,6 +187,33 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：zaubacorp（ZEKKO TECH PRIVATE LIMITED CIN U74999MH: Zekko Tech Private Limited（zekko.co.in；CIN U74999MH2016PTC28 · CIN U74999MH2016PTC285972 · Active … |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet fiber industrial media converter network poe sfp switch；P1 STI-288GPM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：印度·集成商/安装商；登记坐实：IN · 1 次检索：zaubacorp（ZEKKO TECH PRIVATE LIMITED CIN U74999MH: Zekko Tech Private。往来 2025-04-09→2026-09-24：我方去信 7 封（A 6 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280 / $6000。对位：STI-288GPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-04-09 | 去 | A | 16 Port Ethernet Switch |  |
+| 2026-05-14 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-18 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-29 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-02 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-24 | 去 | A | Managed PoE Switches |  |
+| 2026-09-24 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

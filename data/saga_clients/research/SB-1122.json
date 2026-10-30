@@ -40,7 +40,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n俄罗斯付款：T/T USD 受限，口径里的「RMB via CN agent」是可行路径——信里不展开，对方问再说。他 2024-05 问的 48×25G+8×100G 正是 STH-8C48DX-HSI（$4,800 EXW）；32×100G = STH-32C-HSI（$6,000）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -174,6 +174,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12）"
   }
  ],
  "snap_thicken": {
@@ -209,15 +217,226 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 3 封 / 表内 0 条 / 研究档 3 条（AS；2024-05→2025-12）",
+  "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（AS；2024-05→2025-12）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-12-03] Yes, we have 100-25G projects What is your company website? ‖ [A 2025-12-03] Hi Alan, Thank you for update. We are not having appropriate projects so far that will include such switches.  ‖ 研 2025-12-03 Yaroslav: We are not having appropriate projects so far that will include such switches.（对 / 2025-12-03 Yaroslav: Yes, we have 100-25G projects What is your company website?"
+  "evidence": "[A 2025-12-03] Yes, we have 100-25G projects What is your company website? ‖ [A 2025-12-03] Hi Alan, Thank you for update. We are not having appropriate projects so far that will include such switches. "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "Comtinu（comtinu.ru；法人名未定位 —— ЕГРЮЛ 镜像无关联，官网快照 timeout）（第 87 批 官方登记核实 2026-10-27）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "sfp",
+   "switch",
+   "网络"
+  ],
+  "p1": "STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH-32C-HSI（32×100G，$6,000）",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-05-17",
+    "S",
+    "Hi Simon, Do you have 48x25G + 8x100G and 32x40/100G switches? Regards Yaroslav"
+   ],
+   [
+    "2025-12-03",
+    "A",
+    "Hi Alan, Thank you for update. We are not having appropriate projects so far that will include such switches. Best regards Yaroslav"
+   ],
+   [
+    "2025-12-03",
+    "A",
+    "Yes, we have 100-25G projects What is your company website?"
+   ],
+   [
+    "2025-12-03",
+    "R",
+    "We are not having appropriate projects so far that will include such switches.（对 Booster PoE 推送）"
+   ],
+   [
+    "2025-12-03",
+    "R",
+    "Yes, we have 100-25G projects What is your company website?"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-12-03（10 月前）"
+  ],
+  "size": "（未核）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "人工终判：Comtinu（俄罗斯；25G/100G 数据中心项目商）：2024-05 问 48×25G+8×100G / 32×100G，2025-12 三封往来（有 100/25G 项目，问公司网站）——DC 交换机优先客群"
+  ],
+  "story": "俄罗斯；研究档法定名：Comtinu（comtinu.ru；法人名未定位 —— ЕГРЮЛ 镜像无关联，官网快照 timeout）（第 87 批 官方登记核实 2026-10-27）。往来 2024-05-17→2026-08-10：我方去信 21 封（A 9 / S 11），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2025-12-03 A: Hi Alan, Thank you for update. We are not having appropriate projects so far that will include such switches. Best regards Yaroslav ‖ 2025-12-03 A: Yes, we have 100-25G projects What is 。我方报过：$170 / $220 / $240 / $280。对位：STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH-32C-HSI（32×100G，$6,000）；路径：企业邮箱 MX ok；最近来信 2025-12-03（10 月前）。",
+  "n_out": 21,
+  "n_in": 3,
+  "last_in": "2025-12-03",
+  "last_out": "2026-08-10",
+  "prices_out": [
+   "170",
+   "220",
+   "240",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-02-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "d2314ebd160508b7"
+   },
+   {
+    "date": "2025-04-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "098c8a3f06c9fb2b"
+   },
+   {
+    "date": "2025-05-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial Network Switch",
+    "gist": "Commercial Network Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "06d87f8b90b160e5"
+   },
+   {
+    "date": "2025-08-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5e79514ec503936f"
+   },
+   {
+    "date": "2025-10-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "50bce657a21136f2"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ab80a5ba76bf58ba"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "in",
+    "box": "A",
+    "from": "yb@comtinu.ru",
+    "subj": "RE: Booster PoE Switch",
+    "gist": "Yes, we have 100-25G projects What is your company website?",
+    "prices": [],
+    "bulk": false,
+    "k": "6871be783c1e00ae"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bd009c7f5d4b47f3"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "in",
+    "box": "A",
+    "from": "yb@comtinu.ru",
+    "subj": "RE: Booster PoE Switch",
+    "gist": "Hi Alan, Thank you for update. We are not having appropriate projects so far that will include such switches. Best regards Yaroslav",
+    "prices": [],
+    "bulk": true,
+    "k": "5f1de8d3315a365c"
+   },
+   {
+    "date": "2025-12-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a883399d53fb0127"
+   },
+   {
+    "date": "2026-03-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0e53cf03ef1552e8"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "71d0ecf98f61b2fd"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

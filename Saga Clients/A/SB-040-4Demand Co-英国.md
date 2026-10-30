@@ -12,7 +12,7 @@ code: SB-040
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
 name_official: "4Demand Ltd（英国公司号 14564199，伦敦；迪拜采购联系人）"
 score: 67
 country: 英国
@@ -38,7 +38,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：4Demand Ltd：2022-12 在伦敦注册的微型控股/贸易公司（<10 人，营业额 <£1M；董事 Mohsen Tavakoli Zaniani；自述由波斯湾地区多家企业合并而来，业务含 IT 服务、CCTV/报警、设备供应与进出口、Shopify API）。表内联系人 Mr. Ari（procurement@4demand.co.uk，+971 55 964 5463，WA 已加，迪拜）：2024-04 询 Cisco SFP-10G-LR ×25，2024-08 问 2 光 4，2025-11 收到 28 PoE 报价；18 次推送 1 次实质回复。贸易型买家 → B 20%。（调研 2026-10-21；表内兴趣：Cisco SFP-10G-LR 25个）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2024-04-28 → 2025-10-27）；最近一次客户回复：2024-11-19：1120email发了28poe
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 其问过 2 光 4 / 收过 28 PoE 报价 → 8 PoE + 2 SFP L2+ 起手；贸易商 20% 档；光模块另询；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Following the 8-port PoE quote we sent last November — if the Dubai project is still open, I can hold that price for 15 days and add the 2 SFP + 4 PoE compact model you asked about earlier; which quantity should I price?
@@ -143,7 +143,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mr. Ari（采购（表内；WhatsApp +971 已加 → 海湾一线）= 收件人（第 102 批 官方登记核实 2026-10-28））procurement@4demand.co.uk +971 55 964 5463（WA 已加）〔用户 Clients 表〕
 - **KP**：Mohsen Tavakoli Zaniani（Director / PSC 75–100%（*1992-02；British；Companies House 14564199，2022-12-30 起）= 拍板人（抄送 / 点名）（第 102 批 官方登记核实 2026-10-28）） 〔Companies House（经 Endole）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）
@@ -215,6 +215,30 @@ WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上
 | 2025-09-24 | 924 | dac |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#21 |
 | 2025-10-27 | 1027 | solar |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#21 |
 | ? | 52 | 4 8 16口工业POE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#21 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | GB · 1 次检索：Companies House 14564199（4DEMAND LTD；Active；Priva: 4DEMAND LTD（4demand.co.uk；London N3）— 2022-12-30 注册的微型 IT /  · Companies House 14564199 · Active（C… |
+| ② 角色 / 对位 | 分销商 | 对位词：din poe sfp；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024.8.10 表: 10G MC→问了2光4 |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前） |
+| ⑤ 规模 | 个人/微型 | 微型（<10 人；营业额 <£1M） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：英国·分销商；登记坐实：GB · 1 次检索：Companies House 14564199（4DEMAND LTD；Active；Priva: 4DEMAND LTD（4deman。往来 2024-11-19→2026-03-27：我方去信 2 封（A 1 / S 1），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024.8.10 表: 10G MC→问了2光4。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-11-19 | 来 | R | 用户表跟进：推「引流机型」→ 对方「1120email发了28poe」 |  |
+| 2024-11-20 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024.8.10 | 表 | 表 | 10G MC｜问了2光4 |  |
+| 2026-03-27 | 去 | A | Marvell Managed Commercial Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -12,7 +12,7 @@ code: SA-074
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Elite Team Security OOD（Елит-Тим-Секюрити，弗拉察 Vratsa，保加利亚）"
 score: 60
 country: 保加利亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：保加利亚持牌安保公司（全国性财产保护许可，10+ 年），运营本地区最大的监控报警中心之一，实时监看 3,000+ 摄像头，提供 IP 视频监控方案；22 名员工（2022），销售额 €0–2M；A 渠道已回复：4/8 口 PoE、CCTV 为主、要 price list 与完整资料、项目较多，WA 已加。（调研 2026-10-21；表内兴趣：4 8口PoE，CCTV 监控较多，光少一些/发price list, full info, 想专业一些，有比较多的项目）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12））；自动分级 A：+6 有互动但表示暂无需求/已有供应商 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12））；自动分级 A：+6 有互动但表示暂无需求/已有供应商 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/保加利亚；+5 最近活动 2025
 - **历史互动**：回复暂无需求 1 次；WhatsApp 已加；推送 1 次（2025-12-04 → 2025-12-04）；最近一次客户回复：2025-12-04：Interested 但 嫌价格贵
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 口 PoE 商用）；若 Simon 开 Realtek 线则 HRUI 对位 — 一句话问其现供价位段，不再发链接。已打开的主题（4/14 封有打开记录）：「Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-04)、「Re: Optional Marvell Chipset Solutions」(2025-12-15)、「Re: Optional Marvell Chipset Solutions」(2025-12-18) → 读者兴趣偏「其他」；当前 P1 属「PoE 接入」，下一封按「其他」给，不按 P1；换人再触锚价 STC-28DGGPM $84.1 EXW（主表档位（PDF 上限 $99）；第 72 批 2026-10-24）；按 25% 集成档；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-30 $300（48 Port PoE Managed Switch）、2025-10-03 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：What landed price per 8-port PoE switch do you pay today, so we can tell you honestly whether Marvell fits? Reference: STC-28DGGPM at $84.1 USD EXW (MOQ 1, 15-day validity).
@@ -153,7 +153,7 @@ updated: 2026-10-30
   > 来源：https://elitteamsecurity.com/2022/11/（抓取 2022-11）
 - **KP**：（见 Clients 表联系人）（） +359 879 377 573（WA；与公司公开号码一致）〔用户 Clients 表 + AxxonSoft 页〕
 - **KP**：Радка Ангелова Иванова（Управител（2020-03-19 起）= 签字人；股东 „ВЪЛК - 80“ ЕООД 34% / Д. Конецовска 33% / Т. Иванова 33%（2024-06-04 起，股权 4 次易手）；МВР 私人保安许可 № 288 З/02-770（2023-01-10）（第 84 批 官方登记核实 2026-10-27）） 〔https://papagal.bg/eik/202351530/4f70〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-12→2025-12）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 已回复 + 具体需求（4/8 口 PoE，CCTV 项目多）+ 3,000 路摄像头存量 = 稳定小批量复购源；保加利亚虽为非主动开发小国，但为入站回复，按 A 跟。P1：STC-28DGGPM（8 口 PoE）+ STI-244GP（4 口），项目价阶 25%。
 
@@ -207,6 +207,38 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-12-04 | 2025.12.4 | Marvell Chip | Interested 但 嫌价格贵 | A |  | A Replied 09.04.xlsx#34 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | България · Търговски регистър 镜像（papagal.bg / finansi.bg / u: „ЕЛИТ - ТИМ - СЕКЮРИТИ“ ООД（ELITE TEAM SECURITY OOD） · ЕИК 202351530 · ДДС BG202351530（2014-04- · … |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：poe；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-12-04 A: *Hi,* Thank you for your message and the detailed overview. We are definitely interested in exploring your Marvell AC3 and AC5 solutions, es ‖ 2025-12-17 A: *Hi,* Yes, I reviewed the information — there are… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-12-17（10 月前） |
+| ⑤ 规模 | ≥小型 | 12（2021）/ 22（2022） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：保加利亚·集成商/安装商；登记坐实：България · Търговски регистър 镜像（papagal.bg / finansi.bg / u: „ЕЛИТ - ТИМ - СЕКЮ。往来 2025-02-26→2026-09-07：我方去信 14 封（A 14 / S 0），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-12-04 A: *Hi,* Thank you for your message and the detailed overview. We are definitely interested in exploring your Marvell AC3 and AC5 solutions, es ‖ 2025-12-17 A: *Hi,* Yes, I reviewed the inf。我方报过：$170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-12-17（10 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-11-07 | 去 | A | Booster PoE Switch |  |
+| 2025-12-04 | 去 | A | Re: Optional Marvell Chipset Solutions |  |
+| 2025-12-04 | 来 | A | Re: Optional Marvell Chipset Solutions｜*Hi,* Thank you for your message and the detailed overview. We are definitely interested in exploring your Marv… |  |
+| 2025-12-04 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-15 | 去 | A | Re: Optional Marvell Chipset Solutions |  |
+| 2025-12-17 | 来 | A | Re: Optional Marvell Chipset Solutions｜*Hi,* Yes, I reviewed the information — there are quite a few useful and interesting points that we could apply… |  |
+| 2025-12-18 | 去 | A | Re: Optional Marvell Chipset Solutions |  |
+| 2025.12.4 | 表 | 表 | Marvell Chip｜Interested 但 嫌价格贵 |  |
+| 2026-03-30 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

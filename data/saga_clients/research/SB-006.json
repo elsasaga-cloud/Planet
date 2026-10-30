@@ -319,10 +319,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "PI包·gg",
   "why_not": "",
   "excl": "",
@@ -338,8 +338,134 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立: UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（Greater Noida · CIN U17302UP2019PTC115938 · GST 09AACCU4 · Active · 2019-04-18"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "industrial",
+   "network",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-144GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024.4.16",
+    "表",
+    "发了工业MC信息→成单5 8电口"
+   ],
+   [
+    "2024.8.13",
+    "表",
+    "问需求→基本只需要电口 不要光"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 2024-08-13（26 月前）"
+  ],
+  "size": "26–50 人；自报营业额 ₹25–100 cr（≈$3–12M）（第 91 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "印度·分销商；登记坐实：IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立: UNITED CONTROL ENG。往来 2024-04-16→2024-08-13：我方去信 1 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.4.16 表: 发了工业MC信息→成单5 8电口 ‖ 2024.8.13 表: 问需求→基本只需要电口 不要光。我方报过：未见报价数字。对位：STI-144GP；路径：免费邮箱 + WA；最近来信 2024-08-13（26 月前）。",
+  "n_out": 1,
+  "n_in": 0,
+  "last_in": "2024-08-13",
+  "last_out": "2024-04-16",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-04-16",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga 内部（订单要求.docx，STSC20240416005）",
+    "subj": "",
+    "gist": "使用发的说明书并作相应折叠；放置挂耳；产品标签请使用下述样式；箱标…需要贴2张，另外一张是STI-080FE，相当于是一个小箱子混装了2个型号4个设备",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 5_Rajesh"
+   },
+   {
+    "date": "2024-05-27",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「问测试结果」→ 对方「will check」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.5.27"
+   },
+   {
+    "date": "2024-08-13",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「问需求」→ 对方「基本只需要电口 不要光」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.73 2024.8.13"
+   },
+   {
+    "date": "2024.4.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了工业MC信息",
+    "gist": "成单5 8电口",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "问测试结果",
+    "gist": "will check",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.13",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "问需求",
+    "gist": "基本只需要电口 不要光",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

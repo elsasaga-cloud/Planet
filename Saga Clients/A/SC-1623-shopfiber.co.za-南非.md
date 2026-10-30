@@ -11,7 +11,7 @@ code: SC-1623
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "shopfiber.co.za"
 score: 7
 country: 南非
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：南非客户（shopfiber.co.za）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）。公司底数未查（新入库即查排队）。（调研 2026-10-30；表内兴趣：Smartbye的10GMC SFP 很多配件）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10））；自动分级 C：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-40 备注含 不再跟进/Spam/骗子 等；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10））；自动分级 C：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-40 备注含 不再跟进/Spam/骗子 等；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 9 次（2024-06-28 → 2025-02-22）；最近一次客户回复：2024-10-16：10pcs price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-30）**：— — ；他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -59,6 +59,8 @@ updated: 2026-10-30
 | 2024-10-16 | 来 | info@southernelements.co.za | Re: Industrial PoE Switch｜Thank you Simon. | S 邮箱 真人来信（thin） | `f80fb2a8ca1e5bc1` |
 | 2024-10-16 | 来 | info@southernelements.co.za | Re: Industrial PoE Switch｜Hi Simon. Pricing for 10 units? | S 邮箱 真人来信（pos） | `d2c625ad58b93ffd` |
 | 1016 | Simon | 用户表（Simon 跟进记录） | 推「154」→ 对方「10pcs price」 | 表内客户回复（pos） | `Clients/ 表格` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Southern Elements · 249 followers · fiber optic networks in Southern Africa | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -101,7 +103,7 @@ updated: 2026-10-30
 - **【邮箱来信/用户表】推「154」→ 对方「10pcs price」**
   > 推「154」→ 对方「10pcs price」
   > 来源：Clients/ 表格（抓取 1016）
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）
 - 备注：（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）
 
 ### 加厚挖掘（2026-10-30 · AB-FINAL-01 回信建档）
@@ -127,6 +129,40 @@ updated: 2026-10-30
 | 2025-02-10 | 2025.2.10 | 28poe |  | E |  | South Africa 2.5.xlsx#39 |
 | 2025-02-22 | 2025.2.22 | 工业16 24口出货图 |  | Whatsapp |  | South Africa 2.5.xlsx#39 |
 | ? |  | 未跟进 |  |  |  | South Africa 2.5.xlsx#39 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 未坐实 | 待快照 |
+| ② 角色 / 对位 | 未知 | 对位词：fiber；P1 待定 |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 1016 表: 154→10pcs price ‖ 2024-10-16 S: Hi Simon. Pricing for 10 units? |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-10-16（24 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：身份未坐实；角色未知；规模未知；人工终判：Southern Elements（南非；光纤产品供应商，自营网店 shopfiber.co.za，含有源设备，全非洲发货）：2024-10 问 10 台价格——光纤渠道对位（SFP / MC / 光口交换机），非主攻区薄 A |
+
+**故事线**：南非；未坐实：待快照。往来 1016→2026-01-07：我方去信 8 封（A 1 / S 7），对方真人来信 2 封 + 表内/备注 1 条；对方问过：1016 表: 154→10pcs price ‖ 2024-10-16 S: Hi Simon. Pricing for 10 units?。我方报过：$37 / $300。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2024-10-16（24 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 1016 | 表 | 表 | 154｜10pcs price |  |
+| 2024-06-28 | 去 | S | 24 port poe switch |  |
+| 2024-07-24 | 去 | S | 2.5G network switch |  |
+| 2024-08-21 | 去 | S | Industrial switch |  |
+| 2024-10-16 | 来 | S | Re: Industrial PoE Switch｜Thank you Simon. |  |
+| 2024-10-16 | 去 | S | Re: Industrial PoE Switch | $37 |
+| 2024-10-16 | 来 | S | Re: Industrial PoE Switch｜Hi Simon. Pricing for 10 units? |  |
+| 2024-10-16 | 去 | S | Industrial PoE Switch |  |
+| 2024-11-15 | 去 | S | Re: Industrial PoE Switch | $300 / $37 |
+| 2024-12-11 | 去 | S | 2.5G Web Managed Switch |  |
+| 2026-01-07 | 去 | A | OEM Core Switching Solution |  |
+
+- 网查（2026-10-30）：Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za — <https://southernelements.co.za/>
+- 网查（2026-10-30）：Southern Elements · 249 followers · fiber optic networks in Southern Africa — <https://za.linkedin.com/company/southernelements>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

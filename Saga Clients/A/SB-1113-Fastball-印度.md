@@ -11,7 +11,7 @@ code: SB-1113
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 name_official: "Fastball"
 score: 77
 country: 印度
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：已成单 1 次（STSC20231009002，2023-10-09）；Simon 文件夹标签 gg（已凉）；详见 research/SB-1113.json（调研 2026-10-22；表内兴趣：商用 PoE 交换机（2023-10 一单 80 台，USD 260 样品级））
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 Saga 成单（PI 包）；+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：成交/下单过
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — —｜毛利复盘：首单 23.4%（80 台 @19.75 成本）——正常；STC-204GP $24.2（洪瑞 2026-09-30 进价 135 CNY +20%，Q-47 默认；Drive 旧表 $20.4 不用）；—
 - **第一问（只问一个）**：Rishi — your IndiaMART page lists a "4 Port Industrial Ethernet Switch FBC-204GP", which matches our STC-204GP (4 × PoE + 2 × SFP). Is it a live stock item for you, or a listing from the 2023 catalogue? If live, the current price is STC-204GP $24.2 USD EXW (MOQ 1, 15-day validity) and I can quote 20/50-pc tiers; if not, I will leave you alone.
@@ -135,7 +135,7 @@ updated: 2026-10-30
   > Importer · Exclusively Import by FASTBALL in India … Distributor · Available in Mumbai, Telangana, Kolkata, Delhi, Lucknow
   > 来源：https://www.splicingmachines.com/fiber-optic-splicing-machine.html（抓取 2026-10-23）
 - **KP**：Rishi Kumar Bansal（Proprietor / CEO Fastball（GST 07AJJPR5445G1ZX）— 成单 1 次后 gg（第 114 批 官方登记核实 2026-10-28））office@fastball.in 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。
 
 
@@ -175,6 +175,31 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：tradeindia（Fastball；GST 07AJJPR5445G1ZX；Proprieto: Fastball（Fastball Telecom & Networking；fastball.in；**个体经营 Ri · GSTIN 07AJJPR5445G1ZX · Active · 20… |
+| ② 角色 / 对位 | 分销商 | 对位词：fiber industrial poe sfp switch；P1 待定 |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2023-10-09（36 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：印度·分销商；登记坐实：IN · 1 次检索：tradeindia（Fastball；GST 07AJJPR5445G1ZX；Proprieto: Fastball（Fastball 。往来 2023-09-20→2024-01-15：我方去信 3 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：待定；路径：企业邮箱；最近来信 2023-10-09（36 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2023-09-20 | 来 | R | Please consider this mail as our official acknowledgement regarding Indian market capturing of Saga Telecom product range… Please share the authorised… |  |
+| 2023-09-20 | 去 | R |  |  |
+| 2023-10-09 | 来 | R | Patch cords / Pigtails / FTTH boxes / Home distribution boxes / Wall & Rack mount LIU / Splitters (LGX cassettes, ABS boxes) / Sleeves / VFL / Power m… |  |
+| 2023-12-13 | 去 | R |  |  |
+| 2024-01-15 | 去 | R |  |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

@@ -53,8 +53,8 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/05227994/officers"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -174,5 +174,213 @@
   "url": "https://longtek.co.uk/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→用工业级较少，感觉也不是很懂，对8口24口商业有兴趣问了价格 ； 020 8805 0002\n077"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "UK · Companies House（官方）公司页 + officers 页: LONGTEK ELECTRONICS EUROPE LTD · 05227994 · Active（账目至 2025-03-31 已报；确认声明  · 2004-09-10"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "industrial"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→用工业级较少，感觉也不是很懂，对8口24口商业有兴趣问了价格 ； 020 8805 0002\n07710 491 440 M"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型（夫妻 2 人：1 董事 + 1 秘书）（第 87 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "英国·集成商/安装商；登记坐实：UK · Companies House（官方）公司页 + officers 页: LONGTEK ELECTRONICS EUROPE LTD · 05227。往来 2023→2026-08-19：我方去信 29 封（A 20 / S 8），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→用工业级较少，感觉也不是很懂，对8口24口商业有兴趣问了价格 ； 020 8805 0002\n07710 491 440 M。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 29,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-19",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ecf4cab2625b083d"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "6de41c8f5c3fff6a"
+   },
+   {
+    "date": "2026-01-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "d60a5a1b3198f1cc"
+   },
+   {
+    "date": "2026-02-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "349498a470db975a"
+   },
+   {
+    "date": "2026-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "c6845f4e1299ef50"
+   },
+   {
+    "date": "2026-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "9148fc643e17a95f"
+   },
+   {
+    "date": "2026-04-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2ed196a003936030"
+   },
+   {
+    "date": "2026-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "366d92df8e943a10"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "43d94dbcac39da95"
+   },
+   {
+    "date": "2026-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "25e4552e82b1c2a7"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "c553a0ff754e4a1b"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "8 Port Industrial PoE Switch、Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

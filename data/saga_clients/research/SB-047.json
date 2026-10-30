@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -330,16 +330,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2025-10-30] Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar ‖ 表 2025.11.6: 24PoE→需要16 port的 ‖ 研 2025-10-30 A.Bayar（Topica LLC）: May we have your price list, MOQ , Warranty information?"
+  "evidence": "[E 2025-10-30] Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar ‖ 表 2025.11.6: 24PoE→需要16 port的"
  },
  "override_history": [
   {
@@ -349,6 +349,127 @@
    "to": "A",
    "prev_reason": "蒙古国非主攻区、市场体量小，仅 1 次回复 → 慢跟。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC e: Topica LLC（Топика ХХК；topica.mn；**devex：2005 年由电子 / IT 工程师创立；Chingeltei District · 营业中（名录 + 网店）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "网络"
+  ],
+  "p1": "STC-2216GPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-10-30",
+    "E",
+    "Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar Topica LLC Chingeltei distric"
+   ],
+   [
+    "2025-10-30",
+    "R",
+    "May we have your price list, MOQ , Warranty information?"
+   ],
+   [
+    "2025.11.6",
+    "表",
+    "24PoE→需要16 port的"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-10-30（12 月前）"
+  ],
+  "size": "待补证",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "蒙古国·分销商；登记线索：MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC e: Topica LLC（Топика 。往来 2025-02-24→2025-12-29：我方去信 3 封（A 0 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-10-30 E: Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar Topica LLC Chingeltei distric ‖ 2025-10-30 R: May we have your price list, 。我方报过：未见报价数字。对位：STC-2216GPM；路径：企业邮箱 MX ok；最近来信 2025-10-30（12 月前）。",
+  "n_out": 3,
+  "n_in": 1,
+  "last_in": "2025-10-30",
+  "last_out": "2025-12-29",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025-02-24",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To info@golfautomation.co.in",
+    "subj": "",
+    "gist": "10G Media Converter（Elsa 群发第 1/14 轮；本户在 Bcc，锚 To info@golfautomation.co.in；正文价 65usd/pc，第 74 批(p) 读稿 msg 19501dcc2221e96f）",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "in",
+    "box": "R",
+    "from": "A.Bayar（Topica LLC）",
+    "subj": "",
+    "gist": "May we have your price list, MOQ , Warranty information?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "1, please see attached download link. 2, I am also attaching a datasheet, you can find plenty of useful information in it.（附 Download Link_Alan.pdf + STI-244GP.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19a38c06fc7947d2"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（To info@topica.mn，直接收件非 BCC）",
+    "subj": "",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_campaign"
+   },
+   {
+    "date": "2025.11.6",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "24PoE",
+    "gist": "需要16 port的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

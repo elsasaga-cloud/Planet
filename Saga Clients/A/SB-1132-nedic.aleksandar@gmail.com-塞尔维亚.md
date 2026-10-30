@@ -9,7 +9,7 @@
 code: SB-1132
 rating: A
 rating_auto: C
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 name_official: "Aleksandar Nedić（塞尔维亚；gmail；「expand our business in networking」）"
 score: 8
 country: 塞尔维亚
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S 邮箱 2024-05-16 两封来信：要产品目录、想订几台测试；再问价表与 MOQ。Simon 两次都让他自己去 Profile 第 13 页的 Google Drive 链接看（「We do not have a standard catalog」「MoQ is 2 pieces」）→ 无回；2026-09-15 推 16 口 DIN PoE 无回。（调研 2026-10-24；表内兴趣：PoE 工商业都用 工业为主）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05））；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05））；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-15 只有免费邮箱、无公司名无网站（个人买家特征）；+8 区域 欧洲/塞尔维亚；+5 最近活动 2025；-10 推送 14 次无任何回复（聋名单）
 - **历史互动**：推送 14 次（2024-05-15 → 2025-10-06）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：工业 PoE 三款：STI-154GP（4 PoE+1 SFP+1 GE）/ STI-288DGGPM（8 PoE + 2×2.5G SFP，$137.5）/ STC-28DGGPM（$99） — 已发资料（勿重发）：PROFILE + 价表照片(2024-05-16)｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%；STC-28DGGPM $99；STI-288DGGPM $137.5；STI-054GP $42.9（主表 @6.69）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 列表价 $99 → 25% 档 $84.1；STI-054GP 列表价 $42.9 → 老表 $39（非管理工业线 SmartByte 成本表是 2024 的，档位价 $32.5 不可靠；Simon 2026-04 给 SB-164 报 $33）
 - **第一问（只问一个）**：Aleksandar — in 2024 you asked for a catalog and test units and I sent you links instead of prices; here they are: 8-PoE + 2 SFP industrial $137.5, 8-PoE + 4 SFP desktop $99, 4-PoE + 1 GE industrial $42.9 USD EXW, single units OK. Which one would you test first?
@@ -140,7 +140,7 @@ updated: 2026-10-30
   > Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business in networking.
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-05-16）
 - **KP**：Aleksandar Nedić（NAT tech doo（LinkedIn 自述；贝尔格莱德；法人待证）= 收件人 / 拍板人（第 112 批 官方登记核实 2026-10-28））nedic.aleksandar@gmail.com 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）
 - 备注：典型「自助式回复」断点（Simon 2024 的做法）。
 
 ### 加厚挖掘（2026-10-24 · 邮件证据）
@@ -181,6 +181,38 @@ updated: 2026-10-30
 | 2025-07-25 | 725 | 28bt |  | A |  | 其他优质欧洲客户 2.26.xlsx#57 |
 | 2025-10-06 | 106 | dac |  | A |  | 其他优质欧洲客户 2.26.xlsx#57 |
 | ? | 93 | 24poe |  | A |  | 其他优质欧洲客户 2.26.xlsx#57 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | RS · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Aleksandar Nedić — NAT te: Aleksandar Nedić（Gmail；塞尔维亚）— LinkedIn 同名「Founder and owner of NAT tech doo, Bel · 未取 |
+| ② 角色 / 对位 | 分销商 | 对位词：din poe 网络；P1 先问他要哪一类（工业 PoE 最可能：2024-05 原线程是 Industrial PoE Switch）；STI-154GP / STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-05-16 R: We would be interested i ordering somw products for testing. Can you provide a catalog of your products? ‖ 2024-05-16 S: Hi Simon, We would be interested i ordering somw products for testing. Can you provid… |
+| ④ 路径 | 弱 | 免费邮箱；最近来信 2024-05-16（29 月前） |
+| ⑤ 规模 | ≥小型 | （未核） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：塞尔维亚·分销商；登记线索：RS · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Aleksandar Nedić — NAT te: Aleksandar Nedić（G。往来 2024-05-16→2026-09-15：我方去信 28 封（A 16 / S 11），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-05-16 R: Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business  ‖ 2024-05-16 R: We would be interested i orde。我方报过：$280 / $300 / $6000。对位：先问他要哪一类（工业 PoE 最可能：2024-05 原线程是 Industrial PoE Switch）；STI-154GP / STI-288DGGPM；路径：免费邮箱；最近来信 2024-05-16（29 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-03 | 去 | A | Industrial PoE Switch |  |
+| 2025-10-06 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-10 | 去 | A | Booster PoE Switch |  |
+| 2025-12-05 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2026-01-16 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-16 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-20 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-15 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-27 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-18 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-31 | 去 | A | WiFi 7 Ready Access Switch |  |
+| 2026-09-15 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

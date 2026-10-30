@@ -12,7 +12,7 @@ code: SB-043
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 
 name_official: "Euro Technology（阿布扎比，阿联酋）"
 score: 65
 country: 阿联酋
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿布扎比安防系统集成商（CCTV、门禁、报警、门闸、PA、消防报警；品牌 Paradox/CAME/Deister/Virdi/CDVI），约 9 人、营收估 700 万美元，另有伊拉克业务；客户群自述含军方、VVIP 宫殿、银行、医疗、政府；WA 在线，41 次跟进中 4 次回复（索要资料）。（调研 2026-10-21；表内兴趣：资料）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08））；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 0 条（S；2024-07→2024-08））；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 41 次（2024-01-24 → 2025-12-30）；最近一次客户回复：2024-08-14：interested
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（按现价重算） — WA 季度一句话即可。已打开的主题（4/36 封有打开记录）：「10G fiber media converter」(2024-07-07)、「Re: 10G fiber media converter」(2024-07-08)、「Re: 10G fiber media converter」(2024-08-14)、「Optional Marvell Chipset Solutions」(2025-11-17) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-20 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-07-07 $65（10g fiber media converter）、2025-08-27 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Any live CCTV site this quarter where a 4-port DIN PoE (38 USD class) would fit?
@@ -166,7 +166,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（）info@eurotechnology.net（公开） +971 2 6417222 / +971 50 751 4160（WA）〔用户 Clients 表 + 官网〕
 - **KP**：M. Maarouf（表内具名邮箱（姓名职务待核；WA +971 50 751 4160 在线；41 次里回 4 次要资料）= 收件人 — 一页纸一次：集成商 25% B small、只给他要过的「资料」= CCTV PoE 阶梯 STC-028GP / 228GP / 2216GP / 2224GP + STC-4424GCPM 一口价、付费样机、MOQ 1、DAP 阿布扎比、WA 发链接— 阿联酋常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 迪拜（买方清关）、TDRA / ESMA 不声称（第 117 批 官方登记核实 2026-10-28））m.maarouf@eurotechnology.ae 〔Clients 表邮箱（entities）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 1 条（S；2024-07→2024-08）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 4 条 / 研究档 0 条（S；2024-07→2024-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 
@@ -256,6 +256,38 @@ WA 维持；有项目时报 STC-424DGGPM-280W（项目 25%）。
 | 2025-11-28 | 1128 | solar |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#9 |
 | 2025-12-30 | 1230 | 4 8 16口工业PoE |  |  |  | 阿联酋 沙特阿拉伯  2.3.xlsx#9 |
 | ? | 52 | 4 8 16口工业PoE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#9 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | AE · 1 次检索：yellowpages-uae.com（Euro Technology；M 4, Ruby Sal: Euro Technology（eurotechnology.ae / eurotechnology.net；**阿布扎比 M4 Ruby Saloon Bld · 营业中（名录 + WA 在线） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：fiber；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-07-07 S: Yes, interested *Thanks and Regards,* *[image: https://docs.google.com/uc?export=download&id=1pbWl-BfC7hF5q-TeztXf-CpKu0e3Cjk3&revid=0B_t9uW ‖ 2024.5.17 表: 发了mini工业交换机图→2光8PoE管理带电源 |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2024-08-14（26 月前） |
+| ⑤ 规模 | ≥小型 | 小型（≈9 人，≈$7M） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：阿联酋·集成商/安装商；登记线索：AE · 1 次检索：yellowpages-uae.com（Euro Technology；M 4, Ruby Sal: Euro Technology（eu。往来 2024-05-17→2026-09-25：我方去信 36 封（A 25 / S 11），对方真人来信 2 封 + 表内/备注 4 条；对方问过：2024-07-07 S: Yes, interested *Thanks and Regards,* *[image: https://docs.google.com/uc?export=download&id=1pbWl-BfC7hF5q-TeztXf-CpKu0e3Cjk3&revid=0B_t9uW ‖ 2024.5.17 表: 发了mini工业交换机图→2光8PoE管理带电源。我方报过：$38 / $65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2024-08-14（26 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-04-23 | 去 | A | Industrial PoE Switch |  |
+| 2026-04-24 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-12 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-12 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-09 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-10 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-02 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-16 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-09-25 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

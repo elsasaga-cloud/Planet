@@ -12,7 +12,7 @@ code: SB-059
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Avanca Technologies Pte Ltd（新加坡）"
 score: 62
 country: 新加坡
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：新加坡工业通信分销商：工业 4G/5G 路由（R5020、M1200）、工业管理 / 非管理交换机、PoE、光纤 MC（Red Lion N-Tron NT24K 等），GM Steven Fu；表内兴趣 Red Lion 工业 FS，2025-11 对 10G MC 群发回复 info。（调研 2026-10-21；表内兴趣：redlion的工业FS）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+2 最近活动 2024
 - **历史互动**：实质回复 1 次；推送 11 次（2024-02-04 → 2024-10-17）；最近一次客户回复：116：info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无（缺口） — 有货再说。已打开的主题（2/23 封有打开记录）：「Re: 10G Media Converter」(2024-11-06)、「Re: 10G Media Converter」(2024-11-15) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-17 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -144,7 +144,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表邮件签名）（） 〔用户 Clients 表〕
 - **KP**：Steven Fu（General Manager & Managing Director（LinkedIn：2024-01 起 GM & MD，2015 入职；2025-11 对 10G MC 群发回 info）= 拍板人 / 收件人 — 一页纸一次：分销 20% B（升 A 候选）、宽温 STI-154GP / 288DGGPM / 488DGGPM / 0240GE + STC-110XGE 一口价、3 年保、付费样机— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））steven@avanca.com.sg +65 6242 5108〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 重启一封：Red Lion 工业 PoE 对位 STI-288DGGPM 价差。
 
@@ -204,6 +204,38 @@ updated: 2026-10-30
 | ? | 69 | 芯片 |  | A |  | Singapore 3.3.xlsx#18 |
 | ? | 78 | bypass |  | A |  | Singapore 3.3.xlsx#18 |
 | ? | 87 | 24poe |  | A |  | Singapore 3.3.xlsx#18 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | SG · 1 次检索：sgpbusiness（AVANCA TECHNOLOGIES PTE. LTD.；UEN 200: Avanca Technologies Pte. Ltd.（avanca.com.sg；**UEN 200207710N · UEN 200207710N · Live Company · 200… |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber industrial media converter network poe sfp switch；P1 STI-288GPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 116 表: 群发10gmc→info ‖ 2024-11-06 S: Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, ‖ 2024-11-06 S: Pls confirm it is industria… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-11-06（23 月前） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：新加坡·分销商；登记坐实：SG · 1 次检索：sgpbusiness（AVANCA TECHNOLOGIES PTE. LTD.；UEN 200: Avanca Technologie。往来 116→2026-09-21：我方去信 23 封（A 19 / S 4），对方真人来信 2 封 + 表内/备注 1 条；对方问过：116 表: 群发10gmc→info ‖ 2024-11-06 S: Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, ‖ 2024-11-06 S: Pls con。我方报过：$65 / $170 / $280。对位：STI-288GPM；路径：企业邮箱 MX ok；最近来信 2024-11-06（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-10-17 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-20 | 去 | A | Booster PoE Switch |  |
+| 2025-12-23 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-23 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-02 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-19 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-10 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-14 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-11 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-17 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-21 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

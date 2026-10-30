@@ -12,7 +12,7 @@ code: SC-2513
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 name_official: "Microtech Inc（巴基斯坦卡拉奇；Noman Asghar）"
 score: -23
 country: 巴基斯坦
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：Elsa 邮箱两线程 5 封：2025-06-04 对「10G Media Converter」回「These Product Are Not Available」（把我们当买家）；2026-05-11 对「10G Enterprise SFP Switch」回「Please find the attachment」= 他们自己的报价单 S10616：MikroTik CRS326-24S-2Q+RM PKR 165,500（≈US$590，另 18% 税）——反向对标，线程里无 Elsa 回复 = 我方欠答。用户表「用户判定不行」。（调研 2026-10-25；表内兴趣：工业FS PoE 周边产品 有洪瑞的商业PoE V-sol的；洪瑞的商业POE）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05））；自动分级 C：+18 在「已回复」名单（A/E Replied）；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05））；自动分级 C：+18 在「已回复」名单（A/E Replied）；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 3 次（2025-06-03 → 2025-10-02）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STH-2C24XF-HSI — CENTEC 按项目锚价；此处只为说清不是同级，不求成交；锚价：STH-2C24XF-HSI $1,500（2026-07-20 群发价；SA-060 实报 $1,250 含 MA 不外推）；24×1G SFP 机（群发原机）$280 他已见
 - **第一问（只问一个）**：Noman - was the CRS326 quoted for an ISP aggregation ring or an enterprise core?
@@ -100,7 +100,7 @@ updated: 2026-10-30
 - **是谁**：Elsa 邮箱两线程 5 封：2025-06-04 对「10G Media Converter」回「These Product Are Not Available」（把我们当买家）；2026-05-11 对「10G Enterprise SFP Switch」回「Please find the attachment」= 他们自己的报价单 S10616：MikroTik CRS326-24S-2Q+RM PKR 165,500（≈US$590，另 18% 税）——反向对标，线程里无 Elsa 回复 = 我方欠答。用户表「用户判定不行」。
 - **类型**：巴基斯坦 IT 分销/集成（MikroTik 渠道）
 - **KP**：Noman Asghar（）info@microtech.net.pk / sales@microtech.net.pk 〔Elsa 邮箱〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）
 - 备注：（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
 
 ### 加厚挖掘（2026-10-25 · 仅 Elsa 邮箱证据）
@@ -131,6 +131,34 @@ updated: 2026-10-30
 | 2025-06-03 | 2025.6.3 | 群发了10GMC |  | E |  | E Replied 2026.08.04.xlsx#6 |
 | 2025-06-21 | 621 | 28PoE |  | E |  | E Replied 2026.08.04.xlsx#6 |
 | 2025-10-02 | 102 | dac |  | E |  | E Replied 2026.08.04.xlsx#6 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | Microtech Inc |
+| ② 角色 / 对位 | 分销商 | 对位词：media converter sfp switch；P1 STH-2C24XF-HSI（24×10G SFP+ + 2×100G） |
+| ③ 需求证据 | 泛（问价/要目录） | 2026-05-11 E: Dear Elsa, Please Find The Attachment. Regards.  ‖ 2026-05-11 R: Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg） |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-05-11（5 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：巴基斯坦·分销商；研究档法定名：Microtech Inc。往来 2024-07-02→2026-10-22：我方去信 6 封（A 0 / S 6），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2026-05-11 E: Dear Elsa, Please Find The Attachment. Regards.  ‖ 2026-05-11 R: Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg）。我方报过：$180 / $220。对位：STH-2C24XF-HSI（24×10G SFP+ + 2×100G）；路径：企业邮箱 MX ok；最近来信 2026-05-11（5 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-07-02 | 去 | S | 48 port managed switch | $220 |
+| 2024-08-01 | 去 | S | Industrial poe switch |  |
+| 2024-08-27 | 去 | S | Web managed switch |  |
+| 2024-10-14 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-11-07 | 去 | S | Mini Industrial PoE Switch |  |
+| 2025-06-04 | 来 | R | Dear Elsa, These Product Are Not Available. |  |
+| 2026-05-11 | 来 | R | Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg） |  |
+| 2026-10-22 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

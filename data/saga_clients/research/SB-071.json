@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n一封'迈威对位 STI 工业线'邮件。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -250,6 +250,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
   }
  ],
  "snap_thicken": {
@@ -279,15 +287,123 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-11-06] Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23  ‖ 研 2024-11-06 Steven Fu（Avanca，抄送 NKS）: Could you send me datasheet ?"
+  "evidence": "[S 2024-11-06] Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYST: Nayon Kontrol Systems（NKS；nkstech.net；**No. 4 Illinois St., Brgy. Silangan, Dist · 营业中（官网 + 企业库）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "fiber",
+   "industrial",
+   "switch",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-11-06",
+    "S",
+    "Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07,"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-11-06（23 月前）"
+  ],
+  "size": "待补证",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "菲律宾·分销商；登记线索：PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYST: Nayon Kontrol Syst。往来 2024-11-06→2025-03-19：我方去信 4 封（A 1 / S 3），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-11-06 S: Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07,。我方报过：$65 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2024-11-06（23 月前）。",
+  "n_out": 4,
+  "n_in": 1,
+  "last_in": "2024-11-06",
+  "last_out": "2025-03-19",
+  "prices_out": [
+   "65",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-11-06",
+    "dir": "in",
+    "box": "S",
+    "from": "steven@avanca.com.sg",
+    "subj": "Re: 10G Media Converter",
+    "gist": "Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, Singapore 536209 Te",
+    "prices": [],
+    "bulk": false,
+    "k": "d691da1b4d887acd"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Media Converter",
+    "gist": "10G Media Converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "1871f3a8b3e2be4e"
+   },
+   {
+    "date": "2024-12-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "1c00094188aa0650"
+   },
+   {
+    "date": "2025-01-10",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e1effafce819be00"
+   },
+   {
+    "date": "2025-03-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8696cddf9066f35d"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

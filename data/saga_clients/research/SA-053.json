@@ -84,7 +84,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\nA 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -240,16 +240,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）",
+  "reason": "真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-07-04] Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing ‖ [S 2024-07-04] Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list  ‖ 表 1.3: 迷你→hi ‖ 研 2024-07-04 Ismed S（CEO）: Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalo"
+  "evidence": "[S 2024-07-04] Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing ‖ [S 2024-07-04] Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list  ‖ 表 1.3: 迷你→hi"
  },
  "override_history": [
   {
@@ -259,6 +259,207 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. Divatel Pratama · （登记状态不可免费核）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "industrial",
+   "poe",
+   "switch",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1023",
+    "表",
+    "2.5g/10g network→price"
+   ],
+   [
+    "1118",
+    "表",
+    "引流机型→IP67 switch"
+   ],
+   [
+    "2024-07-04",
+    "S",
+    "Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divatel.co.id. Thanks"
+   ],
+   [
+    "2024.7.3",
+    "表",
+    "工业154→price and catalog"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-01-03（21 月前）"
+  ],
+  "size": "2–10（LinkedIn）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "印度尼西亚·分销商；登记线索：印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. Divatel Pratama · （登记状态不。往来 1.3→2025-01-03：我方去信 2 封（A 0 / S 2），对方真人来信 2 封 + 表内/备注 6 条；对方问过：1023 表: 2.5g/10g network→price ‖ 1118 表: 引流机型→IP67 switch ‖ 2024-07-04 S: Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divatel。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-01-03（21 月前）。",
+  "n_out": 2,
+  "n_in": 2,
+  "last_in": "2025-01-03",
+  "last_out": "2024-07-04",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "1118",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "引流机型",
+    "gist": "IP67 switch",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "1211",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "电口",
+    "gist": "hi",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-07-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "industrial poe switch",
+    "gist": "industrial poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2f2f22761fa340e3"
+   },
+   {
+    "date": "2024-07-04",
+    "dir": "in",
+    "box": "S",
+    "from": "ismed@divatel.co.id",
+    "subj": "Re: industrial poe switch",
+    "gist": "Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing problems with my main email. Thanks.",
+    "prices": [],
+    "bulk": false,
+    "k": "7648ab2452628580"
+   },
+   {
+    "date": "2024-07-04",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: industrial poe switch",
+    "gist": "Re: industrial poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ad13f76074d6ed39"
+   },
+   {
+    "date": "2024-07-04",
+    "dir": "in",
+    "box": "S",
+    "from": "ismed@divatel.co.id",
+    "subj": "Re: industrial poe switch",
+    "gist": "Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divatel.co.id. Thanks & Best Regards, Ism",
+    "prices": [],
+    "bulk": false,
+    "k": "6f6c394625650200"
+   },
+   {
+    "date": "2024-09-26",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 微信）",
+    "subj": "",
+    "gist": "用户表跟进：推「48口工业poe」→ 对方「hi」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 926"
+   },
+   {
+    "date": "2024-11-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 微信）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「IP67 switch」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1118"
+   },
+   {
+    "date": "2024-12-11",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 微信）",
+    "subj": "",
+    "gist": "用户表跟进：推「电口」→ 对方「hi」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1211"
+   },
+   {
+    "date": "2024.7.3",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "工业154",
+    "gist": "price and catalog",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-01-03",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 微信）",
+    "subj": "",
+    "gist": "用户表跟进：推「迷你」→ 对方「hi」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.7 1.3"
+   },
+   {
+    "date": "926",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "48口工业poe",
+    "gist": "hi",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

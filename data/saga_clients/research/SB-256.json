@@ -55,7 +55,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -212,6 +212,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·波兰 tvprzemyslowa：CCTV 网店/分销，在售 Hik/Dahua PoE（同类替代对位）"
   }
  ],
  "snap_thicken": {
@@ -245,7 +253,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -255,5 +263,191 @@
   "deal": "",
   "reply_class": "none",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "PL · 1 次检索：imsig.pl（KRS 0000817374，REGON 385013197，NIP 78228: UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.（原 TVprzemyslowa sp. z o.o · KRS 0000817374 · NIP 7822874326 · REGON  · Aktywna · 2019-12-05"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "估 5–15 人（第 90 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "波兰·分销商；登记坐实：PL · 1 次检索：imsig.pl（KRS 0000817374，REGON 385013197，NIP 78228: UNIFORCE TVPRZEMYS。往来 2025-02-27→2026-09-28：我方去信 18 封（A 16 / S 1），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 18,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "526f102c7a716703"
+   },
+   {
+    "date": "2025-10-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "388bf662967d0357"
+   },
+   {
+    "date": "2025-11-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "87ee7cef40b0a143"
+   },
+   {
+    "date": "2025-12-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "6a848c66c2223f35"
+   },
+   {
+    "date": "2026-02-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "bde99114fd64cec9"
+   },
+   {
+    "date": "2026-04-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "12e8bca328d926b4"
+   },
+   {
+    "date": "2026-05-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "3111ab7a75566762"
+   },
+   {
+    "date": "2026-06-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4a35b72b15f8009a"
+   },
+   {
+    "date": "2026-07-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "c1089ee972407170"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "8077686dc8a5d30a"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "d939d8dfaaa63480"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "10G Enterprise SFP Switch、Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

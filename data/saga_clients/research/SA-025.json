@@ -265,7 +265,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -284,8 +284,204 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · BBB 登记（成立 / 注册 / 别名 / 管理层）+ Texas 执照（官网公示 B12519 / B03: AVENGER SECURITY SERVICES, INC.（别名 Central Security / GetSec · Texas Filing No. 0800828533 · Texas Priv · 经营中（Yelp 2026-09、LinkedIn 2026 · 业务始于 2005-"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "industrial",
+   "network",
+   "poe"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025.6.12",
+    "表",
+    "16电→Price"
+   ],
+   [
+    "2025.9.8",
+    "表",
+    "24PoE→Price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-09-09（13 月前）"
+  ],
+  "size": "1–5（第 85 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·集成商/安装商；登记坐实：USA · BBB 登记（成立 / 注册 / 别名 / 管理层）+ Texas 执照（官网公示 B12519 / B03: AVENGER SECURITY S。往来 2025-01-23→2026-09-08：我方去信 17 封（A 14 / S 1），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2025.6.12 表: 16电→Price ‖ 2025.9.8 表: 24PoE→Price。我方报过：$170 / $280。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-09-09（13 月前）。",
+  "n_out": 17,
+  "n_in": 0,
+  "last_in": "2025-09-09",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-09",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga（Alan）",
+    "subj": "",
+    "gist": "1, yes, it is 3A max for input current. For over-current protection, its bigger than this… DIP is also an interesting function. 2, it will be shipped from China",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 2c55cbead61c8075"
+   },
+   {
+    "date": "2025-10-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "acfe2f716835a57d"
+   },
+   {
+    "date": "2025-10-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f9b26f64c1181e0b"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "319e0892ab2e8d32"
+   },
+   {
+    "date": "2025-12-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "6e9364180e10f57d"
+   },
+   {
+    "date": "2025-12-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "81e4ad252fba3933"
+   },
+   {
+    "date": "2025.6.12",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "16电",
+    "gist": "Price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025.9.8",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "24PoE",
+    "gist": "Price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "8b7c6ddec8093f76"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "9a1279cb0d52a4d1"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "7197890f83fbd5d5"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6e9f92f37518753f"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

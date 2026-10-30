@@ -12,7 +12,7 @@ code: SB-485
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "N-ITUS Co., Ltd.（n-itus.com，韩国）"
 score: 40
 country: 韩国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国网络设备公司 N-ITUS（Director Peter 邮箱退信，另一联系人 yhahn@），兴趣商用以太网交换机，表内「质量一般」，2025-11 对升压 PoE 群发回复「Price and ODM」→ 有 ODM 意向（升压款 Saga 价目无，Q-32）。（调研 2026-10-21；表内兴趣：Ethernet Switch；商业switch）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-13 → 2025-11-13）；最近一次客户回复：2025-11-13：Price and ODM
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28GPM / STC-424XGGPM + ODM 一页 — 韩国 ISP 渠道 + Director。已打开的主题（6/13 封有打开记录）：「Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-13)、「Re: Booster PoE Switch」(2025-11-25)、「Re: Booster PoE Switch」(2025-12-11) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-11-13)、Product Link_2026Q2(2026-03-30)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：三款由列表价改为 30% 档（$87.4 / $89.4）与群发现价（$180）；列表价 $99 / $198 / $110 只做上限；群发里他已看到的价（续，第 66 批全量复核）：2024-08-29 $65（10G Media Converter）、2025-10-13 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-08 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-08；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Peter — attached: price bands for PoE / non-PoE access switches and our one-page ODM scope (logo, model name, GUI, packaging, MOQ 50); which ISP account would be the first fit?
@@ -141,7 +141,7 @@ updated: 2026-10-30
 - **KP**：Y. H. Ahn（N-iTUS 研究档 KP（2025-11 回「Price and ODM」）= 收件人；대표 장세봉 = 拍板人（第 115 批 官方登记核实 2026-10-28））yhahn@n-itus.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Peter（Director（邮箱退信 → 地址失效、不再发）（第 115 批 官方登记核实 2026-10-28））peter01@n-itus.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：장세봉 Jang Se-bong（대표이사 엔아이투스(주) N-iTUS Co., Ltd.（bizno / catch）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://bizno.net/article/1198600900〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
@@ -183,6 +183,38 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-11-13 | 2025.11.13 | 升压 | Price and ODM | A |  | A Replied 09.04.xlsx#28 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | KR · 1 次检索：bizno（엔아이투스(주) N-iTUS Co., Ltd.；유선 통신장비 제조업；주요제품 : 엔아이투스(주) N-iTUS Co., Ltd.（n-itus.com；**사업자등록번호 119-86-00900  · 사업자등록번호 119-86-00900 / 법인등록번호 11011… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：poe 交换机 网络；P1 待定 |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-11-13 A: Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs i ‖ 2025.11.13 表: 升压→Price and ODM |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-11-13（11 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：韩国·OEM 品牌商；登记坐实：KR · 1 次检索：bizno（엔아이투스(주) N-iTUS Co., Ltd.；유선 통신장비 제조업；주요제품 : 엔아이투스(주) N-iTUS Co。往来 2024-06-28→2026-03-30：我方去信 14 封（A 8 / S 5），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-11-13 A: Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs i ‖ 2025.11.13 表: 升压→Price and ODM。我方报过：$65 / $280 / $300。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-11-13（11 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-12-04 | 去 | S | 8 Port Ethernet Switch |  |
+| 2025-04-02 | 去 | R |  |  |
+| 2025-09-19 | 去 | A | Industrial PoE Switch |  |
+| 2025-10-13 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-30 | 去 | A | Booster PoE Switch |  |
+| 2025-11-13 | 去 | A | Re: Booster PoE Switch |  |
+| 2025-11-13 | 来 | A | RE: Booster PoE Switch｜Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major suppl… |  |
+| 2025-11-13 | 去 | A | Booster PoE Switch |  |
+| 2025-11-25 | 去 | A | Re: Booster PoE Switch |  |
+| 2025-12-11 | 去 | A | Re: Booster PoE Switch |  |
+| 2025.11.13 | 表 | 表 | 升压｜Price and ODM |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

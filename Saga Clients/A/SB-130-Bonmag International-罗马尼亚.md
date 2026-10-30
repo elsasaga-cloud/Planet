@@ -12,7 +12,7 @@ code: SB-130
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
 name_official: "BONMAG INTERNATIONAL SRL（品牌 OmniSecurity，omnisecurity.ro）"
 score: 55
 country: 罗马尼亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：罗马尼亚 Dâmbovița 县 Voinești 的小型安防/自动化安装商（CUI 37299107，J15/334/2017，2017 年成立；统计口径为批发 CAEN 4690），品牌 OmniSecurity：IP 视频监控（Full HD–5K）、门禁考勤、道闸/门自动化、对讲、电气与弱电安装。用户表：A 优质名单（其他欧洲），2 次实质回复 + WhatsApp，21 次跟进；联系人 Bogdan（bogdan@omnisecurity.ro）。（调研 2026-10-21；表内兴趣：TA310-GE/850nm 视频监控 DVR NVR 无线报警等）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/罗马尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 21 次（2023-02-07 → 2025-10-06）；最近一次客户回复：92：可能有用 price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商自用：STC-28DGGPM 8 PoE+ + 2 SFP 管理机为主，16 口位 STI-21616GP；集成商 25% 档；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the 4K and 5K camera sites you install, the 8-port PoE+ managed switch gives 30 W on every port plus 2 SFP uplinks; if a project is coming up I can quote EXW with 15-day validity.
@@ -140,7 +140,7 @@ updated: 2026-10-30
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Bogdan（姓未公开）（业主（推定；1 人公司）= 收件人（第 110 批 官方登记核实 2026-10-28））bogdan@omnisecurity.ro +40 723 64 94 49（公司公开号）〔用户表 + https://www.omnisecurity.ro/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -205,6 +205,33 @@ updated: 2026-10-30
 | 2025-10-06 | 106 | dac |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#58 |
 | ? | 204.2.28 | 发了2光4小壳相关信息 |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#58 |
 | ? | 92 | bypass | 可能有用 price | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#58 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991: BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；omnisecurity.ro； · CUI 37299107；J15/334/2017 · Activă … |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：industrial；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 92 表: bypass→可能有用 price |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2023-02-07（44 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+
+**故事线**：罗马尼亚·集成商/安装商；登记坐实：RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991: BONMAG INTERNATION。往来 2023-02-07→2026-09-03：我方去信 4 封（A 4 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：92 表: bypass→可能有用 price。我方报过：$170 / $6000。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2023-02-07（44 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2023-02-07 | 来 | R | 用户表跟进：推「发了2光10电图 价格 没发规格书」→ 对方「要便宜的/洪瑞的就行 4/8 poe+2 lan」 |  |
+| 2023.2.7 | 表 | 表 | 发了2光10电图 价格 没发规格书｜要便宜的/洪瑞的就行 4/8 poe+2 lan |  |
+| 2026-05-19 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-15 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-03 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 92 | 表 | 表 | bypass｜可能有用 price |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

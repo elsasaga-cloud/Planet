@@ -25,8 +25,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-07→2024-07）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：泰国 hotmail 个人 Pongpanot（项目型，2024-07 给过 2+4/2+8 工业 PoE 需求）：无公司主体，非主攻区",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -142,19 +142,233 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-07→2024-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-07→2024-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2024-07）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2024-07）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：泰国 hotmail 个人 Pongpanot（项目型，2024-07 给过 2+4/2+8 工业 PoE 需求）：无公司主体，非主攻区"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-07→2024-07）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2024-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-07-04] Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 se ‖ 表 2024.6.21: 发了几个商业交换机图→问了一个项目 需求：工业2+4PoE  2+8 ‖ 研 2024-07-04 Pongpanot: I am looking for 16 sets for Tunnel project in Bangkok."
+  "evidence": "[S 2024-07-04] Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 se ‖ 表 2024.6.21: 发了几个商业交换机图→问了一个项目 需求：工业2+4PoE  2+8"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（免费邮箱/仅电话）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "poe",
+   "工业"
+  ],
+  "p1": "STI-288GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-07-04",
+    "S",
+    "Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 sets for Tunnel project in Bangk"
+   ],
+   [
+    "2024.6.21",
+    "表",
+    "发了几个商业交换机图→问了一个项目 需求：工业2+4PoE  2+8"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 2024-07-04（27 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "路径弱",
+   "规模未知",
+   "人工终判：泰国 hotmail 个人 Pongpanot（项目型，2024-07 给过 2+4/2+8 工业 PoE 需求）：无公司主体，非主攻区"
+  ],
+  "story": "泰国；未坐实：无域名（免费邮箱/仅电话）。往来 2024-05-16→2026-09-28：我方去信 28 封（A 19 / S 9），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-07-04 S: Good morning Simon, Do you have any product to comply requirement as diagram attached ? I am looking for 16 sets for Tunnel project in Bangk ‖ 2024.6.21 表: 发了几个商业交换机图→问了一个项目 需求：工业2+4PoE 。我方报过：$170 / $280 / $300 / $6000。对位：STI-288GP；路径：免费邮箱 + WA；最近来信 2024-07-04（27 月前）。",
+  "n_out": 28,
+  "n_in": 1,
+  "last_in": "2024-07-04",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "170",
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "08c3de5ad7f9760b"
+   },
+   {
+    "date": "2025-11-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6243d0a1cb315ac1"
+   },
+   {
+    "date": "2025-12-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "a96d2704211a7404"
+   },
+   {
+    "date": "2026-01-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "9be313a118258020"
+   },
+   {
+    "date": "2026-02-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "8ae82ac077182c6a"
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "1414c4c3c1cd942c"
+   },
+   {
+    "date": "2026-04-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f81d412b7f9a3538"
+   },
+   {
+    "date": "2026-05-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6a997c2d5b0d3ff0"
+   },
+   {
+    "date": "2026-06-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "03e980733261878e"
+   },
+   {
+    "date": "2026-07-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e75b4e78b77b19db"
+   },
+   {
+    "date": "2026-08-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "936a08f440a2064c"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "96a02f69418f0abc"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

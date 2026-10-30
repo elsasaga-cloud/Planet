@@ -67,7 +67,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -172,10 +172,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
@@ -191,6 +191,88 @@
    "to": "A",
    "prev_reason": "南美非主攻区；需求一半（ONU）Saga 不供，另一半工业 MC 为低客单价；2 次回复后 16 次推送无果 → 慢跟。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 2: OM TELECOM S.R.L.（om-telecom.com；**SUNAT 镜像 universidadperu： · RUC 20600792858 · Activo / Habido（SUNAT 镜像） · 2015-11-02"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "industrial",
+   "poe",
+   "switch",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-448XGGGPM(L3)",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2023.11.29",
+    "表",
+    "发了商业POE价格册→L3 industrial managed switchw with POE?"
+   ],
+   [
+    "2024.3.15",
+    "表",
+    "发了L3管理poE型号给他→price and model list"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "待补证",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "秘鲁·分销商；登记坐实：PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 2: OM TELECOM S.R.L.（。往来 2023.11.29→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2023.11.29 表: 发了商业POE价格册→L3 industrial managed switchw with POE? ‖ 2024.3.15 表: 发了L3管理poE型号给他→price and model list。我方报过：未见报价数字。对位：STI-448XGGGPM(L3)；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2023.11.29",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了商业POE价格册",
+    "gist": "L3 industrial managed switchw with POE?",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.3.15",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了L3管理poE型号给他",
+    "gist": "price and model list",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

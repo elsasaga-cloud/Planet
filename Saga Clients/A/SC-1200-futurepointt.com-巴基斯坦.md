@@ -11,7 +11,7 @@ code: SC-1200
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 name_official: "futurepointt.com"
 score: 13
 country: 巴基斯坦
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴基斯坦客户（futurepointt.com）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）。公司底数未查（新入库即查排队）。（调研 2026-10-30；表内兴趣：商业级非PoE 管理）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10））；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10））；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 1 次（2025-10-13 → 2025-10-13）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-30）**：— — ；他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -58,6 +58,8 @@ updated: 2026-10-30
 |---|---|---|---|---|---|
 | 2024-10-03 | 来 | javed.hashmi@futurepointt.com | RE: PoE Switch｜Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP or ERPS, RSTP, MSTP * NAT, NQA, BFD and ACL * Static Routing * IPsec, VPN * QoS * GE0 and GE1 support POE++, Other 6GEs support PoE+ Minimum pow | S 邮箱 真人来信（pos） | `e1f4c51aca81b3b8` |
 | 2024-10-07 | 来 | javed.hashmi@futurepointt.com | RE: PoE Switch｜No update yet !!! | S 邮箱 真人来信（thin） | `61dbcfd98520142a` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -96,7 +98,7 @@ updated: 2026-10-30
 - **【邮箱来信/用户表】RE: PoE Switch｜No update yet !!!**
   > RE: PoE Switch｜No update yet !!!
   > 来源：61dbcfd98520142a（抓取 2024-10-07）
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）
 - 备注：（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）
 
 ### 加厚挖掘（2026-10-30 · AB-FINAL-01 回信建档）
@@ -114,6 +116,36 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-13 | 2025.10.13 | dac |  | E |  | 巴基斯坦.xlsx#7 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 未坐实 | 待快照 |
+| ② 角色 / 对位 | 未知 | 对位词：；P1 待定 |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-10-03 S: Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-10-07（24 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：身份未坐实；角色未知；规模未知；人工终判：Future Point Technologies（拉合尔；2015 年成立 IT 系统集成商，51–200 人，Cisco / Palo Alto 渠道伙伴）：2024-10 来信要 300 台 CLI 管理 L2 工业无风扇（ERPS）——标书型大单，有需求再接 |
+
+**故事线**：巴基斯坦；未坐实：待快照。往来 2024-10-03→2025-03-31：我方去信 5 封（A 2 / S 3），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-10-03 S: Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP。我方报过：$300。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2024-10-07（24 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-10-03 | 来 | S | RE: PoE Switch｜Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model … |  |
+| 2024-10-07 | 来 | S | RE: PoE Switch｜No update yet !!! |  |
+| 2024-10-08 | 去 | S | Re: PoE Switch |  |
+| 2024-12-13 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2025-01-06 | 去 | S | Mini Industrial PoE Switch |  |
+| 2025-02-26 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-03-31 | 去 | A | Marvell Alleycat5 Solution |  |
+
+- 网查（2026-10-30）：Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore — <https://www.zoominfo.com/c/future-point-technologies/460620478>
+- 网查（2026-10-30）：Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi — <https://pk.linkedin.com/company/future-point-technologies>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

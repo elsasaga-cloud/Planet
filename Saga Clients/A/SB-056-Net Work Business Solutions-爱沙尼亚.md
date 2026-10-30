@@ -9,7 +9,7 @@
 code: SB-056
 rating: A
 rating_auto: A
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "Net Work Business Solutions（爱沙尼亚）"
 score: 62
 country: 爱沙尼亚
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：爱沙尼亚网络业务方案公司，WA 在线，3 次回复、19 次跟进，内容为一般性信息交流。（调研 2026-10-21；表内兴趣：general information network business solutions）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱沙尼亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/爱沙尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 19 次（2024-01-23 → 2025-10-02）；最近一次客户回复：2025-02-27：有工业mini pc？
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — ISP 楼栋接入：STC-424XGGM（24×GE + 4×10G SFP+，L2+，非 PoE）为楼道机；楼间汇聚 STC-448XGGM(L3)；8 口小楼 STC-28DGGM；运营商自用 25% 档；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：For the new buildings you are connecting on Paekaare and Punane, a 24-port gigabit L2+ switch with 4×10G SFP+ uplinks is $132.7 EXW per unit; how many risers are planned for the next phase?
@@ -142,7 +142,7 @@ updated: 2026-10-30
   > 来源：https://www.nbs.ee/（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +372 515 1032（WA）〔用户 Clients 表〕
 - **KP**：Dmitri Simonov（受益人（inforegister，2018-09-20 起）= WA 联系人（推定）（第 111 批 官方登记核实 2026-10-28）） 〔https://www.inforegister.ee/11338038-NETWORK-BUSINESS-SOLUTIONS-OU〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 WA 维持；有具体项目再报价。
 
@@ -202,6 +202,32 @@ WA 维持；有具体项目再报价。
 | 2025-07-22 | 722 | marvell商业组合图 |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#4 |
 | 2025-10-02 | 102 | dac |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#4 |
 | ? | 93 | bypass |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#4 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；R: NETWORK BUSINESS SOLUTIONS OÜ（原 Osaühing Angelmont 2007-01-0 · registrikood 11338038 · Registrisse… |
+| ② 角色 / 对位 | ISP/运营商 | 对位词：poe 光纤 网络；P1 STC-424XGGM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024.8.13 表: 4 8口工业PoE→可能需要10个 在用teltonika的 ‖ 2025.2.27 表: 工业16 24口出货图→有工业mini pc？ |
+| ④ 路径 | 活 | 企业邮箱 MX ? + WA；最近来信 2025-02-27（20 月前） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：爱沙尼亚·ISP/运营商；登记坐实：EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；R: NETWORK BUSINESS S。往来 2024-01-23→2025-02-27：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.8.13 表: 4 8口工业PoE→可能需要10个 在用teltonika的 ‖ 2025.2.27 表: 工业16 24口出货图→有工业mini pc？。我方报过：未见报价数字。对位：STC-424XGGM；路径：企业邮箱 MX ? + WA；最近来信 2025-02-27（20 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-01-23 | 来 | R | 用户表跟进：推「发了工业电源最新价格册」→ 对方「will check」 |  |
+| 2024-08-13 | 来 | R | 用户表跟进：推「4 8口工业PoE」→ 对方「可能需要10个 在用teltonika的」 |  |
+| 2024.1.23 | 表 | 表 | 发了工业电源最新价格册｜will check |  |
+| 2024.8.13 | 表 | 表 | 4 8口工业PoE｜可能需要10个 在用teltonika的 |  |
+| 2025-02-27 | 来 | R | 用户表跟进：推「工业16 24口出货图」→ 对方「有工业mini pc？」 |  |
+| 2025.2.27 | 表 | 表 | 工业16 24口出货图｜有工业mini pc？ |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

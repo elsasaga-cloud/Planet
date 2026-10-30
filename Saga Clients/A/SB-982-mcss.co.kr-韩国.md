@@ -8,7 +8,7 @@
 code: SB-982
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
 score: 26
 country: 韩国
 region: 亚太
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国 ICT 集成商 MCS Solution（엠씨에스솔루션：网络集成 / 云 / IoT / IT 外包；站内商城在售 PLANET IGS-6325-8UP2S2X 工业 L3 PoE、PLANET GS-4210-8P2S、UniFi USW-16/24/48-PoE、Teltonika RUT976；表内「基本都是 UniFi 的 switch」）；表内无跟进记录。（调研 2026-10-21；表内兴趣：基本都是unifi的switch）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM（8 PoE + 2 SFP L2+，OEM 30% 档）；STC-424XGGPM-280W（群发价 $180）；STI-288GPM（DIN 8 PoE + 2 SFP，$85.5） — 已打开的主题（2/26 封有打开记录）：「Industrial PoE Switch」(2025-08-11)、「Re: Fw: OEM Core Switching Solution」(2026-02-05) → 读者兴趣偏「工业」；与 P1 同类，继续；OEM 档 30%：STC-28DGGPM $87.4；STC-424XGGPM-280W $180（现价轮群发，他 2026-08-10 见过 $170）；STI-288GPM $85.5；贴牌软件免费、PVC 丝印收费（MOQ 300）、彩盒 $2.5/套 200 起（商务条款速查 §11）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-29 $300（48 port switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-06-24 $240（24 Port Fiber Switch）、2025-09-25 $280（10G Enterprise SFP Switch）、2025-10-16 $65（10G Media Converter）
 - **第一问（只问一个）**：Eugene — answering your January question properly this time: white-label is available on every switch we ship — your logo, model name, MAC range, login IP and SNMP OID at no charge, from 1 unit; front-panel PVC overlay is tooled per batch (MOQ 300); colour box $2.5/set from 200. Reference prices (USD EXW, 15-day validity): 8-PoE + 2 SFP L2+ managed STC-28DGGPM $87.4, 24-PoE + 4×10G L2+ STC-424XGGPM-280W $180 (August mail said $170; that round closed in September), DIN-rail 8-PoE + 2 SFP managed STI-288GPM $85.5. KC certification stays on your side. Which model would you white-label first?
@@ -136,7 +136,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：노현진（MCSS support@）（MCS Solution 研究档 KP（support@）= 收件人（抄 sales@）；대표이사 이일우 = 拍板人（第 115 批 官方登记核实 2026-10-28））support@mcss.co.kr 〔S/A 邮箱来信 2026-01-16 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：이일우 Lee Il-woo（대표이사 (주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr 页脚 / jobkorea）= 拍板人（第 115 批 官方登记核实 2026-10-28））sales@mcss.co.kr 〔https://www.mcss.co.kr/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -189,6 +189,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | KR · 1 次检索：mcss.co.kr 页脚（(주)엠씨에스솔루션；대표이사 이일우；사업자등록번호 106-86-: (주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr；**사업자등록번호 106-8 · 사업자등록번호 106-86-25768 / 통신판매업 2017-서… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet industrial media converter poe sfp switch 交换机 工业；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-01-16 R: Could you please send us a list of products and related materials that support your OEM / white-label services (such as branding and model n |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-01-16（9 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：韩国·集成商/安装商；登记坐实：KR · 1 次检索：mcss.co.kr 页脚（(주)엠씨에스솔루션；대표이사 이일우；사업자등록번호 106-86-: (주)엠씨에스솔루션 MCS Sol。往来 2024-06-28→2026-08-10：我方去信 26 封（A 19 / S 7），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2026-01-16 R: Could you please send us a list of products and related materials that support your OEM / white-label services (such as branding and model n。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-16（9 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-16 | 去 | A | L3 Managed Switch |  |
+| 2025-08-11 | 去 | A | Industrial PoE Switch |  |
+| 2025-09-02 | 去 | A | 90W PoE Managed Switch |  |
+| 2025-09-25 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-16 | 去 | A | 10G Media Converter | $65 |
+| 2025-11-03 | 去 | A | Booster PoE Switch |  |
+| 2025-12-04 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-22 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-15 | 去 | A | OEM Core Switching Solution |  |
+| 2026-01-16 | 来 | A | Re: Fw: OEM Core Switching Solution｜Hello Alan, Thank you for the email. Could you please send us a list of products and related materials that suppor… |  |
+| 2026-02-05 | 去 | A | Re: Fw: OEM Core Switching Solution |  |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

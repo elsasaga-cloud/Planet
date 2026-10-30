@@ -319,7 +319,8 @@ def parse_row(r):
         'wa_added': '已加' in text_all,
         'wa_failed': '加不上' in text_all or '加不了' in text_all,
         'stop': any(w in text_all for w in STOP_WORDS),
-        'deal': has_deal(text_all),
+        'deal_note': has_deal(text_all),  # 备注/跟进表提及成交——多为 Simon 本职公司时期的单，非 Saga 成单（Simon 2026-10-30：Saga 成交客户只有 PI 包 20 户）
+        'deal': False,  # 仅 PI 包（data/pi_orders）置 1
         'sample': bool(SAMPLE_RE.search(text_all)),
         'big': any(w in text_all for w in BIG_WORDS),
         'giant': any(d in GIANT_DOMAINS for d in domains + email_domains) or any(g.lower() in (name or '').lower() for g in GIANT_NAMES if len(g) > 3),
@@ -922,9 +923,11 @@ def classify(ent):
         s += v
         rs.append(f'{"+" if v >= 0 else ""}{v} {why}')
 
-    deal = fl.get('deal') or ent['deal_in_fu'] or any('成单' in f for f in ent['froms'])
-    if deal:
-        add(50, '有成单/下单/买过记录（用户备注或跟进表）')
+    deal = fl.get('deal') or fl.get('deal_note') or ent['deal_in_fu'] or any('成单' in f for f in ent['froms'])
+    if fl.get('deal'):
+        add(50, 'Saga 成单（PI 包）')
+    elif deal:
+        add(50, '备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）')
     if ent['reply_sub'] >= 2:
         add(30, f'实质回复 {ent["reply_sub"]} 次（问价/要资料/问型号等）')
     elif ent['reply_sub'] == 1:
@@ -1115,8 +1118,10 @@ def classify(ent):
         else:
             c_sub = '综合分低'
     # 状态
-    if deal:
+    if fl.get('deal'):
         status = '成交过·维护'
+    elif deal:
+        status = '历史合作·维护（非 Saga 成单）'
     elif ent['reply_sub']:
         status = '有回复·跟进中'
     elif ent['reply_neg']:
@@ -1136,7 +1141,7 @@ def classify(ent):
 
 # ----------------------------------------------------------------- 输出
 MASTER_COLS = ['档案编号', '评级', '自动评级', '人工定级', '分数', '公司名', '国家', '区域', '网站/域名', '企业邮箱', '全部邮箱', '电话',
-               '联系人', '来源(From)', '兴趣', '用户标签(所在清单)', '状态', 'C级细分', '成交', '实质回复次数', '推送次数', '首次跟进',
+               '联系人', '来源(From)', '兴趣', '用户标签(所在清单)', '状态', 'C级细分', '成交', '备注提及成交(非Saga)', '实质回复次数', '推送次数', '首次跟进',
                '最后跟进', 'AI评估', '评级依据', '来源行数', '来源定位']
 
 
@@ -1161,7 +1166,7 @@ def write_master(entities):
                 '网站/域名': ' | '.join(e['domains']), '企业邮箱': ' | '.join(e['corp_emails']), '全部邮箱': ' | '.join(e['emails']),
                 '电话': ' | '.join(e['phones']), '联系人': ' | '.join(e['persons']), '来源(From)': ' | '.join(e['froms']),
                 '兴趣': ' | '.join(e['interests']).replace('\n', ' '), '用户标签(所在清单)': ' | '.join(e['tags']), '状态': e['status'],
-                'C级细分': e['c_sub'], '成交': '是' if (e['flags'].get('deal') or e['deal_in_fu']) else '',
+                'C级细分': e['c_sub'], '成交': '是' if e['flags'].get('deal') else '', '备注提及成交(非Saga)': '是' if (e['flags'].get('deal_note') or e['deal_in_fu']) else '',
                 '实质回复次数': e['reply_sub'], '推送次数': e['fu_count'], '首次跟进': e['fu_first'], '最后跟进': e['fu_last'], 'AI评估': ai,
                 '评级依据': '；'.join(e['reasons']), '来源行数': len(e['sources']),
                 '来源定位': ' | '.join(f"{s['file'].replace('Clients/', '')}#{s['sheet']}:{s['row']}" for s in e['sources']),
@@ -1187,7 +1192,7 @@ def write_merge_log(entities, merge_edges):
     lines += ['', f'## 冲突：同一客户既在正向名单又在「不行及不太相关的」（{len(conflicts)} 个）', '',
               '| 编号 | 最终等级 | 公司 | 国家 | 所在清单 | 处理 |', '|---|---|---|---|---|---|']
     for e in conflicts:
-        deal = e['flags'].get('deal') or e['deal_in_fu']
+        deal = e['flags'].get('deal') or e['flags'].get('deal_note') or e['deal_in_fu']
         how = '有成交/实质回复 → 按互动定级，保留「不行」标签供人工复核' if (deal or e['reply_sub']) else '无实质互动 → 按用户判定归 C'
         lines.append(f"| {e['code']} | {e['grade']} | {e['name']} | {e['country']} | {'、'.join(e['tags'])} | {how} |")
     with open(os.path.join(DATA, '重复客户归并记录.md'), 'w', encoding='utf-8') as f:

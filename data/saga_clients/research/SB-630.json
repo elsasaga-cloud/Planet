@@ -33,7 +33,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -234,16 +234,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2025-06-17] Price pls  ‖ 表 2025.6.17: 群发了10G MC→price ‖ 研 2025-06-17 Core IT Solutions（Mumbai）: Price pls"
+  "evidence": "[E 2025-06-17] Price pls  ‖ 表 2025.6.17: 群发了10G MC→price"
  },
  "override_history": [
   {
@@ -253,6 +253,156 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "IN · 1 次检索：zaubacorp（CORE IT SOLUTIONS PRIVATE LIMITED CIN U: Core IT Solutions（CITS；citsindia.com；孟买 IT 服务商：应用 / ERP、备份、云 · 未证（同名 CIN U72100MH2005PTC153203 已 Strike · 未证（同名法人 Strike Off） · 未取"
+  ],
+  "role": "ISP/运营商",
+  "fit_words": [
+   "din",
+   "network",
+   "sfp",
+   "switch",
+   "交换机",
+   "网络"
+  ],
+  "p1": "STI-110GE",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-06-17",
+    "E",
+    "Price pls "
+   ],
+   [
+    "2025-06-17",
+    "R",
+    "Price pls"
+   ],
+   [
+    "2025.6.17",
+    "表",
+    "群发了10G MC→price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-06-17（16 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "印度·ISP/运营商；登记坐实：IN · 1 次检索：zaubacorp（CORE IT SOLUTIONS PRIVATE LIMITED CIN U: Core IT Solutions（。往来 2024-06-15→2025-06-17：我方去信 5 封（A 0 / S 3），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-17 E: Price pls  ‖ 2025-06-17 R: Price pls ‖ 2025.6.17 表: 群发了10G MC→price。我方报过：$65 / $220。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-06-17（16 月前）。",
+  "n_out": 5,
+  "n_in": 1,
+  "last_in": "2025-06-17",
+  "last_out": "2025-06-17",
+  "prices_out": [
+   "65",
+   "220"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "797446656b91ccbf"
+   },
+   {
+    "date": "2024-07-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "f6df2b7549361ec0"
+   },
+   {
+    "date": "2024-08-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 port switch",
+    "gist": "48 port switch",
+    "prices": [
+     "220"
+    ],
+    "bulk": false,
+    "k": "c6311924e69facb9"
+   },
+   {
+    "date": "2024-08-09",
+    "dir": "out",
+    "box": "R",
+    "from": "S 群发",
+    "subj": "",
+    "gist": "Industrial PoE Switch、10G media converter",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2025-06-17",
+    "dir": "in",
+    "box": "R",
+    "from": "Core IT Solutions（Mumbai）",
+    "subj": "",
+    "gist": "Price pls",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-06-17",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Price: 65usd/pc, 1*10G SFP+1*100M/1G/2.5G/10G Ethernet, unmanaged, non-PoE, DC5~12V input, with power adapter. Please see attached datasheet.（附 STC-110XGE.pdf）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 1977c84d867d3059"
+   },
+   {
+    "date": "2025.6.17",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "群发了10G MC",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

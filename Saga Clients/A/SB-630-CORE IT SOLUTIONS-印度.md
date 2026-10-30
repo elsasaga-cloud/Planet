@@ -12,7 +12,7 @@ code: SB-630
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Core IT Solutions (CITS)（Mumbai）"
 score: 34
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：孟买 IT 服务商（应用开发 / ERP、备份、云、FMS/AMC、托管、ISP 服务、网络架构、安全），需求 SFP / MC / switch / router；2025-06 对 10G MC 群发回复 price；表内 Sarwar 邮箱退信（发不过去），仅 info@。（调研 2026-10-21；表内兴趣：SFP, MC, switch, router）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-17 → 2025-10-02）；最近一次客户回复：2025-06-17：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-110GE — MC 需求 → STI-110GE 起手；10G MC 按 SmartByte 型号另询并注明。；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-07-06 $65（10G Media Converter）、2024-08-09 $220（48 port switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-17 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-06-17；Simon 实报就是 $65）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Elsa quoted the 10G media converter STC-110XGE at $65 USD EXW in June 2025 (unchanged on the 2026-10 table); how many units and which fibre (SM/MM, distance)?
@@ -142,7 +142,7 @@ updated: 2026-10-30
   > 兴趣：SFP, MC, switch, router；回复：price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Sarwar（）info@citsindia.com +91 99876 76431〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -188,6 +188,33 @@ updated: 2026-10-30
 |---|---|---|---|---|---|---|
 | 2025-06-17 | 2025.6.17 | 群发了10G MC | price | E |  | E Replied 2026.08.04.xlsx#8 |
 | 2025-10-02 | 102 | dac |  | E |  | E Replied 2026.08.04.xlsx#8 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：zaubacorp（CORE IT SOLUTIONS PRIVATE LIMITED CIN U: Core IT Solutions（CITS；citsindia.com；孟买 IT 服务商：应用 / ERP、备份、云 · 未证（同名 CIN U72100MH2005PTC153203 已 S… |
+| ② 角色 / 对位 | ISP/运营商 | 对位词：din network sfp switch 交换机 网络；P1 STI-110GE |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-06-17 E: Price pls  ‖ 2025-06-17 R: Price pls ‖ 2025.6.17 表: 群发了10G MC→price |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-06-17（16 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：印度·ISP/运营商；登记坐实：IN · 1 次检索：zaubacorp（CORE IT SOLUTIONS PRIVATE LIMITED CIN U: Core IT Solutions（。往来 2024-06-15→2025-06-17：我方去信 5 封（A 0 / S 3），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-17 E: Price pls  ‖ 2025-06-17 R: Price pls ‖ 2025.6.17 表: 群发了10G MC→price。我方报过：$65 / $220。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-06-17（16 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-06-15 | 去 | S | Industrial PoE Switch |  |
+| 2024-07-06 | 去 | S | 10G media converter | $65 |
+| 2024-08-09 | 去 | S | 48 port switch | $220 |
+| 2024-08-09 | 去 | R |  |  |
+| 2025-06-17 | 来 | R | Price pls |  |
+| 2025-06-17 | 去 | R |  |  |
+| 2025.6.17 | 表 | 表 | 群发了10G MC｜price |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

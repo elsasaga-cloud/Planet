@@ -63,7 +63,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2026-03）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -251,6 +251,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 7 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2026-03）"
   }
  ],
  "snap_thicken": {
@@ -287,15 +295,235 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 7 封 / 表内 3 条 / 研究档 6 条（S；2024-09→2026-03）",
+  "reason": "真回信 7 封 / 表内 3 条 / 研究档 0 条（S；2024-09→2026-03）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2025-10-29] Do you have a spec sheet on this unit and a user manual? Best Regards, P. Casey Hurley VP Sales - Strategic Ac ‖ [S 2026-03-02] Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-4 ‖ 表 1.4: 24fiber→info ‖ 研 2025-10-29 Casey: Do you have a spec sheet on this unit and a user manual? / 2026-03-02 pchurley@actelis.com: Thank you…"
+  "evidence": "[S 2025-10-29] Do you have a spec sheet on this unit and a user manual? Best Regards, P. Casey Hurley VP Sales - Strategic Ac ‖ [S 2026-03-02] Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-4 ‖ 表 1.4: 24fiber→info"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · SEC EDGAR（CIK 1141284：10-K FY2025 2026-03-18、8-K 业绩稿、1: ACTELIS NETWORKS, INC.（NASDAQ / OTC: ASNS） · SEC CIK 1141284 · 上市代码 ASNS（2026 年收到 Nas · Active · **持续经营存疑（going concer · 1998（Delaw"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-01-03",
+    "S",
+    "Hi Simon Thank you for approaching us. Can you please share a data sheet of the switch ? Thanks Michal Winkler Sent from my iPhone"
+   ],
+   [
+    "2025-01-04",
+    "S",
+    "Simon, Thank you for the information. Let us review. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-74"
+   ],
+   [
+    "2025-04-28",
+    "S",
+    "How much are they? Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical "
+   ],
+   [
+    "2025-08-27",
+    "S",
+    "Simon, Thank you. We will keep you in mind for future projects. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks"
+   ],
+   [
+    "2025-10-29",
+    "S",
+    "Do you have a spec sheet on this unit and a user manual? Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-47"
+   ],
+   [
+    "2026-03-02",
+    "S",
+    "Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support "
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-03-02（7 月前）"
+  ],
+  "size": "51 含承包商（39 全职；以色列 34 / 美国 15）；FY2025 营收 $3.7M、净亏 $8.3M；2026-H1 营收 $2.1M（+26%）（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记坐实：USA · SEC EDGAR（CIK 1141284：10-K FY2025 2026-03-18、8-K 业绩稿、1: ACTELIS NETWORKS, 。往来 1.4→2026-09-08：我方去信 30 封（A 0 / S 30），对方真人来信 7 封 + 表内/备注 3 条；对方问过：2025-04-28 S: How much are they? Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical  ‖ 2025-08-27 S: Simon, Thank you. We will kee。我方报过：$65 / $170 / $240 / $280 / $300 / $500。对位：待定；路径：企业邮箱 MX ok；最近来信 2026-03-02（7 月前）。",
+  "n_out": 30,
+  "n_in": 7,
+  "last_in": "2026-03-02",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "500"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "66cd110af00d07de"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: [External]10G Enterprise SFP Switch",
+    "gist": "Re: [External]10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "997c8dd215505696"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "55ee68d72f699802"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "051f5087fac235d9"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "34a9d7ec5a6e5914"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "in",
+    "box": "S",
+    "from": "pchurley@actelis.com",
+    "subj": "RE: [External]Updated Ethernet Switches Links",
+    "gist": "Thank you… Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2544 Sky",
+    "prices": [],
+    "bulk": false,
+    "k": "840ce51782b3829d"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "34047442105245f3"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "64711e074593c993"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port 10G SFP+ Switch",
+    "gist": "24 Port 10G SFP+ Switch",
+    "prices": [
+     "1500"
+    ],
+    "bulk": false,
+    "k": "97e0e4e6c6f79be4"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "27f7ce96fbbe2419"
+   },
+   {
+    "date": "827",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "28bt",
+    "gist": "有需求会说的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "929",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "群发了18 2.5G",
+    "gist": "可能有用",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

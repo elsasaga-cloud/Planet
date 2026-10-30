@@ -12,7 +12,7 @@ code: SB-267
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Bio-Cognitive Pte Ltd（新加坡）"
 score: 48
 country: 新加坡
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：新加坡 IT/OT 与物理安防融合服务商：评估、生物识别门禁、监控集成、7×24 监控，大量 SCADA / ISA-62443 / 工业设施安全内容；表内 Amy Hoi「可以多跟进一下」，需求 16 电口 PoE，2025-07 问了一个具体型号。（调研 2026-10-21；表内兴趣：16电 VC 安防   网站：CCTV）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-07-07 → 2025-07-07）；最近一次客户回复：2025-07-07：问了一个型号
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP / STC-028GP — 已打开的主题（5/21 封有打开记录）：「Re: Commercial PoE Switch」(2025-07-07)、「Re: Commercial PoE Switch」(2025-08-06)、「24 Port Fiber Switch」(2025-09-09)、「10G Enterprise SFP Switch」(2025-10-10) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-15)；已发单据：Quotation(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；复述 2025-07-07 自报价（㉕①）：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5；现按 HRUI 2026-09-30 进价 +25% 为 $21.5 / $25.2 / $26.2 / $34.6——除 228GP 外都比旧报价高，是否对老询价户提价是 Simon 的事（Q-47 默认不主动提价）；历史锚：STC-024GP $19 / STC-204GP $21 / STC-028GP $24.5 / STC-228GP $36.5（2025-07-07 报价单，EXW）；现按 HRUI 对照表列表价重报；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-02 $300（48 Port PoE Managed Switch）、2025-09-09 $240（24 Port Fiber Switch）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Amy — did the July quote (4-PoE + 1 uplink $19 / 2-SFP + 4-PoE $21 / 8-PoE + 2 uplink $24.5 / 8-PoE + 2 SFP $36.5 USD EXW, 2025 snapshot) fit the access-control job, or did the count change? If live, I re-confirm the same day.
@@ -131,7 +131,7 @@ updated: 2026-10-30
   > 兴趣：16电 VC 安防 网站：CCTV；回复：问了一个型号
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Amy Hoi（名录登记联系人（manufacturerss：Contact Person Ms. Amy Hoi；2025-07 问过 16 电口具体型号）= 收件人 — 一页纸一次：集成商 25% B small、直接答 16 电口 = STC-2216GP（+ STC-2224GP 带 SFP）、MOQ 1、付费样机、预付 100%— 新加坡常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、IMDA 不声称（第 117 批 官方登记核实 2026-10-28））amyhoi@bio-cognitive.com +65 9656 8498〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -182,6 +182,38 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-07-07 | 2025.7.7 | PoE | 问了一个型号 | A |  | A Replied 09.04.xlsx#10 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | SG · 1 次检索：recordowl（BIO-COGNITIVE SOLUTIONS PTE. LTD.；UEN 2: Bio-Cognitive Solutions Pte. Ltd.（bio-cognitive.com；**UEN 20 · UEN 200807513Z · Live Company（年报记录停… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：industrial poe switch 工业；P1 STI-21616GP |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-07-07 A: HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mobile number will be replaced w ‖ 2025-07-07 A: Yes alan gigabit switch with gigabit uplink. Best… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-07-07（15 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：新加坡·集成商/安装商；登记坐实：SG · 1 次检索：recordowl（BIO-COGNITIVE SOLUTIONS PTE. LTD.；UEN 2: Bio-Cognitive Solu。往来 2024-06-18→2026-09-04：我方去信 22 封（A 16 / S 5），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-07-07 A: HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mobile number will be replaced w ‖ 2025-07-07 A: Yes alan gigabit switch with 。我方报过：$170 / $240 / $280 / $300。对位：STI-21616GP；路径：企业邮箱 MX ok + WA；最近来信 2025-07-07（15 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-07 | 去 | A | Commercial PoE Switch |  |
+| 2025-07-07 | 去 | R |  |  |
+| 2025-08-06 | 去 | A | Re: Commercial PoE Switch |  |
+| 2025-09-09 | 去 | A | 24 Port Fiber Switch | $240 |
+| 2025-10-10 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-17 | 去 | A | Booster PoE Switch |  |
+| 2025-12-19 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.7.7 | 表 | 表 | PoE｜问了一个型号 |  |
+| 2026-03-31 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-15 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-04 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

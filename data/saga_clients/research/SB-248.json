@@ -54,7 +54,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -197,6 +197,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）"
   }
  ],
  "snap_thicken": {
@@ -231,7 +239,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -240,6 +248,188 @@
   "excl": "",
   "deal": "",
   "reply_class": "auto",
-  "evidence": " ‖ 研 2024-06-04 customerservice@nellyssecurity.com: How would you rate the support you received here at Nelly's?｜##- Please type you / 2024-07-08 customerservice@nellyssecurity.com: How would you rate the support you received here at Nelly's?｜##- Please type you"
+  "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’: Nelly’s Security LLC（nellyssecurity.com；Broken Arrow, Oklahoma）— 2008 年 Sean Nel · Active（站点在线；股权已变更 — 待核）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-07-08（27 月前）"
+  ],
+  "size": "15–25 人；$3.5M（第三方）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "美国·集成商/安装商；登记线索：US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’: Nelly’s Security L。往来 2024-05-10→2026-08-31：我方去信 27 封（A 20 / S 7），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱；最近来信 2024-07-08（27 月前）。",
+  "n_out": 27,
+  "n_in": 0,
+  "last_in": "2024-07-08",
+  "last_out": "2026-08-31",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f55849bc3c0bf258"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "b2200c3c8fafcd57"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0b58cb46df588894"
+   },
+   {
+    "date": "2026-02-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "542b6f297b0003f0"
+   },
+   {
+    "date": "2026-03-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "c1b10eae9b326cba"
+   },
+   {
+    "date": "2026-03-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "910b52ae94d8d07c"
+   },
+   {
+    "date": "2026-04-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d8e70c139e3b5306"
+   },
+   {
+    "date": "2026-05-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "1d8b14358cf4559d"
+   },
+   {
+    "date": "2026-06-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "37045b129d077b8b"
+   },
+   {
+    "date": "2026-07-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "e950c848b0e27963"
+   },
+   {
+    "date": "2026-07-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7a19246752cbffcb"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9fceab76406d21da"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -11,7 +11,7 @@ code: SB-243
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 
 score: 49
 country: 印度
 region: 南亚
@@ -35,7 +35,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度 HFCL（上市电信/光纤制造集团：光缆（fiber 250）、FTTH、数据中心、IO 网络品牌——24 口 L3 PoE/非 PoE 管理交换机产品页；表内「工业 FS 自己的 logo」，**有回复，回复里有详细联系方式**；KP Shantanu Rana（shantanu.kumar@）、iosales@）。（调研 2026-10-21；表内兴趣：工业FS 自己的logo）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 3 条（E；2026-01→2026-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：推送 1 次（2025-01-08 → 2025-01-08）；最近一次客户回复：2025-01-08：MII
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GPM — 自有 IO 标工业 FS → 工业管理 8 PoE + 2 SFP STI-288GPM（$85.5 @30%）/ L3 工业 STI-448XGGGPM(L3)（$384.8）贴 IO 标；商用 24 口 L3 位 STC-424XGGPM-280W；Elsa 2026-04-05 报 $35/pc（2 SFP + 4 PoE 非管理 120W）——低于 STI-244GP 列表价 $49.5；下次按 `$49.5 USD EXW（2026-10-17 快照，15 天有效）` 或 Simon 对 HFCL 的量价另定；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-13 $65（10G media converter）、2024-11-19 $300（48 Port PoE Managed Switch）、2024-12-16 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Shantanu — on MII: SKD kits assembled by an Indian partner is the only route we can support (no Saga plant in India); which HFCL programme is this for, and what local-content percentage does that tender actually score?
@@ -157,7 +157,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Shantanu Rana（）shantanu.kumar@hfcl.com 〔用户表〕
 - **KP**：Mahendra Nahata（发起人 / Managing Director（上市公司；不直接联系）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.thecompanycheck.com/company/hfcl-limited/L64200HP1987PLC007466〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 3 条（E；2026-01→2026-04）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -215,6 +215,38 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-01-08 | 2025.1.8 | CENTEC | MII | E |  | E Replied 2026.08.04.xlsx#23 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：thecompanycheck（CIN L64200HP1987PLC007466，2025 营收: HFCL LIMITED（原 Himachal Futuristic Communications Ltd；NSE/BS · CIN L64200HP1987PLC007466 · Active … |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber industrial network poe switch 交换机；P1 STI-288GPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-04-05 E: Noted.. if it is imported to India in latest, can we have the PO for reference and the proof of selling. Thanks And Regards Shantanu Rana DG ‖ 2026-04-05 E: Pls share.. Thanks And Regards Shantanu Rana DGM–… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-04-06（6 月前） |
+| ⑤ 规模 | ≥小型 | 2,336 人；FY25 合并营收 ₹4,065 cr、EBITDA ₹507 cr；FY26 ₹4,949 cr；Q2 FY27 单季 ₹2,542 cr / 净利 ₹394 cr 创纪录（第 91… |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：印度·OEM 品牌商；登记坐实：IN · 1 次检索：thecompanycheck（CIN L64200HP1987PLC007466，2025 营收: HFCL LIMITED（原 Him。往来 2024-06-17→2026-04-06：我方去信 14 封（A 1 / S 8），对方真人来信 6 封 + 表内/备注 1 条；对方问过：2026-04-03 R: Manufacturing country- Price- Model number IPR- Kindly share details ‖ 2026-04-05 E: Noted.. if it is imported to India in latest, can we have the PO for reference and the proof of selli。我方报过：$65 / $240 / $300。对位：STI-288GPM；路径：企业邮箱 MX ok；最近来信 2026-04-06（6 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-10-23 | 去 | S | Industrial PoE Switch |  |
+| 2024-11-19 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2024-12-16 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-01-03 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-03-03 | 去 | A | Marvell Alleycat5 Solution |  |
+| 2025.1.8 | 表 | 表 | CENTEC｜MII |  |
+| 2026-01-08 | 来 | R | How we will handle MII 60 percent. … Pls guide how we will achieve MII and share Datasheet also. |  |
+| 2026-01-08 | 去 | R |  |  |
+| 2026-01-08 | 去 | R |  |  |
+| 2026-04-05 | 去 | R |  |  |
+| 2026-04-05 | 去 | R |  |  |
+| 2026-04-06 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -63,7 +63,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 2 条（S；2023-11→2025-10）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）",
  "deep": {
   "done_at": "2026-10-21",
@@ -371,6 +371,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 2 条（S；2023-11→2025-10）"
   }
  ],
  "snap_thicken": {
@@ -411,15 +419,231 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10）",
+  "reason": "真回信 20 封 / 表内 0 条 / 研究档 2 条（S；2023-11→2025-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2025-10-30] Hello Simon: Thank you for this information, I will keep it for future reference. What is the status of the st ‖ [S 2025-10-31] Hello Simon: We are trying to offer stacking as an alternative to Cisco. Regards, Greg Massott | P: 302.894.06 ‖ 研 2025-08-27 Greg Massott（Versitron）: What is the price of this unit?（L3 管理 24 口 DIN PoE，370W） / 2025-10-31 Greg: We are trying to offer stackin"
+  "evidence": "[S 2025-10-30] Hello Simon: Thank you for this information, I will keep it for future reference. What is the status of the st ‖ [S 2025-10-31] Hello Simon: We are trying to offer stacking as an alternative to Cisco. Regards, Greg Massott | P: 302.894.06 ‖ 研 2025-06-23 Greg Massott: （06-11 / 06-18 / 06-23 三封同文）I'm following up to see if you have been able to suc / 2025-08-27 Greg Massott（Versitron）"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人: VERSITRON, INC. · DUNS 837605443（CAGE 在册）；Delaware 公司（Bloo · Active（2025-07 仍发新闻稿；NAVAIR 小企 · 1958 创立（品牌"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-110GE",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-08-27",
+    "R",
+    "What is the price of this unit?（L3 管理 24 口 DIN PoE，370W）"
+   ],
+   [
+    "2025-08-27",
+    "S",
+    "Hello Simon: I am well, thank you. I hope the same for you. What is the price of this unit? Regards, Greg Massott | P: 302.894.0699 Ext. 20 "
+   ],
+   [
+    "2025-08-28",
+    "S",
+    "Hello Simon: Thank you for this information. Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailt"
+   ],
+   [
+    "2025-10-15",
+    "S",
+    "Hello Simon: I hope all is well. Any news on this? Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com"
+   ],
+   [
+    "2025-10-30",
+    "S",
+    "Hello Simon: Thank you for this information, I will keep it for future reference. What is the status of the stacking switches that we had be"
+   ],
+   [
+    "2025-10-31",
+    "S",
+    "Hello Simon: We are trying to offer stacking as an alternative to Cisco. Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | "
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-03-11（7 月前）"
+  ],
+  "size": "2–10 实际；营收 $2–5M（自报 EC21；第三方 $21–30M 不可信）（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记坐实：USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人: VERSITRON, INC. · 。往来 2023-11-09→2026-03-11：我方去信 31 封（A 0 / S 29），对方真人来信 20 封 + 表内/备注 0 条；对方问过：2025-08-28 S: Hello Simon: Thank you for this information. Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailt ‖ 2025-10-15 S: Hello Simon: I hope all is we。我方报过：$75 / $240 / $280 / $300 / $375 / $500。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2026-03-11（7 月前）。",
+  "n_out": 31,
+  "n_in": 20,
+  "last_in": "2026-03-11",
+  "last_out": "2026-03-11",
+  "prices_out": [
+   "75",
+   "240",
+   "280",
+   "300",
+   "375",
+   "500"
+  ],
+  "timeline": [
+   {
+    "date": "2025-08-27",
+    "dir": "in",
+    "box": "S",
+    "from": "gmassott@versitron.com",
+    "subj": "Re: L3 Managed Switch",
+    "gist": "Hello Simon: I am well, thank you. I hope the same for you. What is the price of this unit? Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | g",
+    "prices": [],
+    "bulk": false,
+    "k": "f6115f259e0a5e6b"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "L3 Managed Switch",
+    "gist": "L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9438212070be5e4c"
+   },
+   {
+    "date": "2025-08-28",
+    "dir": "in",
+    "box": "S",
+    "from": "gmassott@versitron.com",
+    "subj": "Re: L3 Managed Switch",
+    "gist": "Hello Simon: Thank you for this information. Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gmassott@versitron",
+    "prices": [],
+    "bulk": false,
+    "k": "8ee77c8b9bd24d1c"
+   },
+   {
+    "date": "2025-08-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: L3 Managed Switch",
+    "gist": "Re: L3 Managed Switch",
+    "prices": [
+     "500"
+    ],
+    "bulk": false,
+    "k": "d9911e2b978f6965"
+   },
+   {
+    "date": "2025-10-15",
+    "dir": "in",
+    "box": "S",
+    "from": "gmassott@versitron.com",
+    "subj": "Re: 48 Port PoE Managed Switch",
+    "gist": "Hello Simon: I hope all is well. Any news on this? Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.com<mailto:gmassott@ver",
+    "prices": [],
+    "bulk": false,
+    "k": "08fe828b2a31d85b"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "in",
+    "box": "S",
+    "from": "gmassott@versitron.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Hello Simon: Thank you for this information, I will keep it for future reference. What is the status of the stacking switches that we had been discussing? Regar",
+    "prices": [],
+    "bulk": false,
+    "k": "e97d49af1e93423b"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c63ae0d8d2f14dae"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "in",
+    "box": "S",
+    "from": "gmassott@versitron.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Hello Simon: We are trying to offer stacking as an alternative to Cisco. Regards, Greg Massott | P: 302.894.0699 Ext. 20 |F: 302.894.0624 | gmassott@versitron.c",
+    "prices": [],
+    "bulk": false,
+    "k": "401b90aaadcce218"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "973470596a08bd2e"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1bbfd460d096719a"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3cab7e50e48fea36"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "in",
+    "box": "S",
+    "from": "gmassott@versitron.com",
+    "subj": "Automatic reply: 10G Enterprise SFP Switch",
+    "gist": "Hello: I hope all is well. I will be out of the office until 03/12/26, and will reply to any messages when I return. Should you require immediate assistance, pl",
+    "prices": [],
+    "bulk": true,
+    "k": "4ac602505b7d8db3"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

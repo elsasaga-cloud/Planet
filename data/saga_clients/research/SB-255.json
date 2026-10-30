@@ -78,8 +78,8 @@
    "source": "https://find-and-update.company-information.service.gov.uk/company/01613368/officers"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -219,5 +219,216 @@
   "url": "https://www.switchtec.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→分销爱尔兰和英国，问了非管理和管理 主要处理Ethernet switch ； Kyland ； 4"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "GB · 1 次检索：Companies House 01613368（SWITCHTEC LIMITED；1982-0: SWITCHTEC LIMITED（switchtec.com；Stone, Staffordshire）— 1982  · Companies House 01613368（关联 02612994 / 0 · Active（2026-05 申请扩建） · 1982-02-12"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-280DGGM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→分销爱尔兰和英国，问了非管理和管理 主要处理Ethernet switch ； Kyland ； 44 0 1785 818600"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "11–50 人",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "英国·分销商；登记坐实：GB · 1 次检索：Companies House 01613368（SWITCHTEC LIMITED；1982-0: SWITCHTEC LIMITED（。往来 2023→2026-08-20：我方去信 29 封（A 20 / S 8），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→分销爱尔兰和英国，问了非管理和管理 主要处理Ethernet switch ； Kyland ； 44 0 1785 818600。我方报过：$65 / $170 / $280 / $300。对位：STI-280DGGM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 29,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-20",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "46d6bb3b3a7b8f20"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6af6ad7f5860cc77"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "e27e3ffd5cbfa826"
+   },
+   {
+    "date": "2026-01-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c7ed964adb3fd9a1"
+   },
+   {
+    "date": "2026-02-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f16b4fd2bd8f427f"
+   },
+   {
+    "date": "2026-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "6049641db27349f8"
+   },
+   {
+    "date": "2026-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "0013924afad54203"
+   },
+   {
+    "date": "2026-04-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "204e69bbbc3139ef"
+   },
+   {
+    "date": "2026-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "065941a779ac7a8e"
+   },
+   {
+    "date": "2026-06-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fb44e3c690cc4b64"
+   },
+   {
+    "date": "2026-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "a417db6032f5c9f4"
+   },
+   {
+    "date": "2026-08-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9279104311676c03"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

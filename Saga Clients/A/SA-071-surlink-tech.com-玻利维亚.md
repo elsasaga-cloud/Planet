@@ -12,7 +12,7 @@ code: SA-071
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Sur-Link Technology（圣克鲁斯，玻利维亚）"
 score: 61
 country: 玻利维亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：玻利维亚圣克鲁斯的技术产品批发分销商（布线 Cat6/Cat6a、光纤 SM/MM、ADSS 五金、机柜；Corning 玻利维亚分销商），官网列出销售团队邮箱/手机；E 渠道已回复，需求 550 只 90 W 工业 PoE 注入器（2017 年起用阿里国际站）。（调研 2026-10-21；表内兴趣：550个90W 工业PoE injector 2017年使用国际站）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/玻利维亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/玻利维亚；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-07-02 → 2025-10-01）；最近一次客户回复：2025-07-02：全系列电口信息
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：HRUI/Realtek 非管理 PoE 全口数（Simon 决定是否开线） — 他要的是 550 只 90W 注入器（非 Saga 品类）+ 南美批发价位 → 只有 HRUI/Realtek 非管理 PoE 线能对位，是否开线 Simon 定；在此之前不主动；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-28 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-01→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -156,7 +156,7 @@ updated: 2026-10-30
 - **KP**：Mauricio Eguez（Ventas — Corning / Nexans / Cat5e-6A）ventas05@surlink-tech.com +591 74951389〔https://www.surlink-tech.com/〕
 - **KP**：Daniel Menacho（Ventas — 结构化布线 / BASOR 桥架 / Toten 机柜）kmenacho@surlink-tech.com +591 63338212〔http://www.surlink-tech.com/empresa.php〕
 - **KP**：Silvia Salas（Ventas Fibra Óptica — ADSS / 五金）ssalas@surlink-tech.com +591 63486474〔https://www.surlink-tech.com/contacto.php〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 550 只 90 W 注入器为明确量化需求且已回复；分销商身份可带后续 PoE 交换机。南美非主攻区但无需额外投入。先向 SmartByte 核实是否有 90 W（802.3bt）注入器及价格；若无，用 STC-28DGGPM（bt 版本核对）替代方案报价，分销价阶 20%。
@@ -204,6 +204,37 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 |---|---|---|---|---|---|---|
 | 2025-07-02 | 2025.7.2 | 群发了16电 | 全系列电口信息 | E |  | E Replied 2026.08.04.xlsx#11 |
 | 2025-10-01 | 101 | dac |  | E |  | E Replied 2026.08.04.xlsx#11 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）: Sur-Link Technology Bolivia · （登记状态不可免费核） |
+| ② 角色 / 对位 | 分销商 | 对位词：poe 光纤 工业 网络；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-07-02 E: Dear friend Can you please let me know: * Switch 10 100 non manageable poe * Switch 10 100 100 non manageable poe 5 ports 8 ports 16 ports 2 ‖ 2025.7.2 表: 群发了16电→全系列电口信息 |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-07-02（15 月前） |
+| ⑤ 规模 | ≥小型 | 小型（待补证） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：玻利维亚·分销商；登记线索：玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）: Sur-Link Technology B。往来 2024-06-28→2025-07-03：我方去信 10 封（A 0 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-07-02 E: Dear friend Can you please let me know: * Switch 10 100 non manageable poe * Switch 10 100 100 non manageable poe 5 ports 8 ports 16 ports 2 ‖ 2025.7.2 表: 群发了16电→全系列电口信息。我方报过：$65 / $220。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-07-02（15 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-06-28 | 去 | S | 48 port managed switch | $220 |
+| 2024-07-25 | 去 | S | PoE Switch |  |
+| 2024-08-22 | 去 | S | 10G media converter | $65 |
+| 2024-09-26 | 去 | S | 90W PoE Managed Switch |  |
+| 2024-11-06 | 去 | S | Industrial PoE Switch |  |
+| 2024-11-29 | 去 | S | 8 Port Ethernet Switch |  |
+| 2024-12-19 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-01-10 | 去 | S | Mini Industrial PoE Switch |  |
+| 2025-07-02 | 去 | R |  |  |
+| 2025-07-03 | 去 | R |  |  |
+| 2025.7.2 | 表 | 表 | 群发了16电｜全系列电口信息 |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

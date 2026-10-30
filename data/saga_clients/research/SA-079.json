@@ -158,7 +158,7 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "channels": {
   "公开动态平台（监控中，T29-U18）": "⚠ belnetworks.com 已不在客户手中：2026-10-23 为 1st Domains（新西兰）停放页；RDAP 显示该域名 2024-08-16 被重新注册（eNom，NS 1stdomains.net.nz），到期 2027-08-16。公开动态平台：无（LinkedIn/Facebook 公司页未检索到）；唯一可靠通道 = WhatsApp +234 702 918 6461"
  },
@@ -330,7 +330,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -349,6 +349,108 @@
    "to": "A",
    "prev_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记线索",
+   "尼日利亚 · CAC 公开查询仅返回名称 / RC 号，需登录；本行为「无登记源」记录（据第 79 批研究档）: Biz-Ethics Ltd.（BEL Networks） · （登记状态不可免费核）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "网络"
+  ],
+  "p1": "",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "尼日利亚·OEM 品牌商；登记线索：尼日利亚 · CAC 公开查询仅返回名称 / RC 号，需登录；本行为「无登记源」记录（据第 79 批研究档）: Biz-Ethics Ltd.（BEL Net。往来 2024-09-09→2026-08-30：我方去信 5 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：待定；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 5,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-30",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-09-09",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga 内部（Design.docx，1st order 包装盒设计）",
+    "subj": "",
+    "gist": "一共是3个包装盒…315x215x85mm: BNSC-228GP；312*262*84mm: BNSC-28GPM；525*390*95mm: BNSC-424DGGPM…所有文字暂使用 Times New Roman…设计好以后需发给客户确认",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 12_Mbata"
+   },
+   {
+    "date": "2025-11-23",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STEC20251123012（Elsa 开，Buyer: Bi",
+    "subj": "",
+    "gist": "STC-424XGGPM-280W → Netstream-42410G280W ×8 @¥1,100；STC-4168XGGCM → BNSC-4168XGGCM ×1 @¥2,250（L3 managed）；STH-2C24XF-SFI → Netstream-24X100G-SFI ×2 @¥7,500（2×10",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹 12_Mbata 9th_order STEC20251123012.xls"
+   },
+   {
+    "date": "2026-06-18",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STEC20260618012（第 10 单，Elsa 开）",
+    "subj": "",
+    "gist": "STC-28GPM → BNSC-28GPM ×5 @¥408 = ¥2,040，\"Netstream Brand Customized Packing Box\"；Production Time 1 Month；Warranty 1 year；收货地址 广州市越秀区瑶台西街89号(美泰城)A2038档 亨瑞 13503",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `12_尼日利亚_Mbata/10th order/STEC20260618012.xls`"
+   },
+   {
+    "date": "2026-07-18",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STEC20260718012（第 11 单）+ 采购合同（HR",
+    "subj": "",
+    "gist": "BNSC-28GPM ×2 @¥408 = ¥816；采购 ZX-AFGM-82NS ×2 @¥355.1 = ¥710.2（同 7 条定制备注）。",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `11th order/STEC20260718012.xls` + `采购合同_STEC20260718012.xls`"
+   },
+   {
+    "date": "2026-08-30",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STEC20260830012（第 12 单）",
+    "subj": "",
+    "gist": "STC-28GPM → BNSC-28GPM ×12 @¥408；STC-424DGGPM → BNSC-424DGDPM ×1 @¥946；TOTAL 13 件 ¥5,842；T/T in advance, Full",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹 12_Mbata STEC20260830012.xls"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

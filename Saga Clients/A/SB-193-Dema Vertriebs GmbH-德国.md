@@ -12,7 +12,7 @@ code: SB-193
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "DEMA Vertriebs-GmbH（dema-vertrieb.com / dema-handel.net，Untermünkheim-Übrigshausen, DE）"
 score: 51
 country: 德国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国巴符州 Untermünkheim 的**五金/园艺/农用/车间用品**进口与电商集团公司（HRB 571318 Stuttgart；1963 年登记；注册资本 €800k；德国 100–249 人，集团含 Stabilo Fachmärkte 连锁 >1,200 人、>€300M 营收；自有品牌 DEMA / Fix Aktiv / Denner Edition；CEO Ulrich Abendschein）。品类与 PoE/工业交换机无关，且属大型集团——行业外 + 规模大。用户表：1 次实质回复，1 次跟进。（调研 2026-10-21；表内兴趣：两个公司名字，找PoE交换机，可以推荐工业级的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-10 → 2025-07-10）；最近一次客户回复：2025-07-10：MOQ  8/24口的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-080GE（8 口千兆 DIN 非管理）/ STI-0240GE（24 口千兆 DIN 非管理，按单生产）/ STI-088GP（8 口 PoE） — 进口商 / 电商 20% 档；自有品牌贴标不加价（logo 免费，彩盒 200 套起）；锚价：STI-080GE $31.4（主表 20% 档；他 2025-06 见过 $32.5，现价更低）/ STI-0240GE $130（㉕ ① 自家 2025-06-10 报价单原价，主表无此型号）/ STI-088GP $42.2（20% 档；他见过 $43.5）；他见过的实报（2025-06-10 整表）：STI-080GE $32.5 / 088GP $43.5 / 0160GE $94.5 / 01616GP $125 / 0240GE $130（5 口 $22.5~32.5）；历史锚见 2025-06-10 报价单；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`；群发里他已看到的价（续，第 66 批全量复核）：2025-05-12 $300（48 Port PoE Managed Switch）、2025-10-06 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Markus - is the switch for your own-brand range in the Stabilo stores and web shops, or for an installation of your own?
@@ -144,7 +144,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ulrich Abendschein（Geschäftsführer（2006 起；同时任 STABILO Fachmarkt 连锁多家公司 GF）= 拍板人；研究档原无具名 KP → 对表信抬头 z. Hd. Herrn Abendschein（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
 - **KP**：Günther Denner（Prokurist（Kupferzell；自有品牌「Denner Edition」）= 采购 / 经营层第二签字人（第 88 批 官方登记核实 2026-10-27）） 〔https://www.northdata.de/DEMA%20Vertriebs-GmbH,%20Unterm%C3%BCnkheim〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。
 
@@ -190,6 +190,38 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-07-10 | 2025.7.10 | 16电 | MOQ  8/24口的 | A |  | A Replied 09.04.xlsx#2 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF /: DEMA Vertriebs-GmbH（Untermünkheim；STABILO 建材连锁同系） · Amtsgericht Stuttgart HRB 571318 · EUID  · Akt… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：poe 交换机 工业；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-06-10 A: Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price fo ‖ 2025-06-10 R: Thank you very much for thinking of me. Yes, that… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-06-10（16 月前） |
+| ⑤ 规模 | ≥小型 | Bilanzsumme €29.8M（2024-12-31）；2021-07 州补贴 €742,684；= STABILO 五金建材连锁集团的采购 / 批发公司（同址 Hohenloher Elekt… |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：德国·OEM 品牌商；登记坐实：Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF /: DEMA Vertriebs-Gmb。往来 2025-04-14→2026-03-30：我方去信 12 封（A 10 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-10 A: Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price fo ‖ 2025-06-10 R: Thank you very much for think。我方报过：$280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-06-10（16 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-09 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-06-10 | 去 | A | Re: 16 Port Ethernet Switch |  |
+| 2025-06-10 | 来 | A | AW: 16 Port Ethernet Switch｜Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and wh… |  |
+| 2025-06-10 | 去 | R |  |  |
+| 2025-06-10 | 去 | R |  |  |
+| 2025-07-15 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-09-05 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-10-06 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-05 | 去 | A | Booster PoE Switch |  |
+| 2025-12-17 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.7.10 | 表 | 表 | 16电｜MOQ  8/24口的 |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

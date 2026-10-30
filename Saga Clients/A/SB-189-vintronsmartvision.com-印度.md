@@ -8,7 +8,7 @@
 code: SB-189
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 score: 52
 country: 印度
 region: 南亚
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度德里 Vintron（1991 年起的印度 CCTV 制造商：摄像机 / PoE 交换机 / 电源，CE/FCC/BIS 认证，另有 EMS 代工服务；自有 PoE 型号 VS-POE-42065 / 82096 / 42078，品类页 gold / network / ultra / premium PoE switches；表内「PoE switch CCTV 为主、PoE 管理型、数据中心类产品，从 10Gtek 买东西」；KP Varun Gupta（Director，varun@）；回复里有详细联系方式 +91 98181 22003）。（调研 2026-10-21；表内兴趣：PoE switch CCTV为主 DVR NVR；POE managed switch；数据中心类产品 从10G tek买东西；周边产品比较多）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（E；2026-02→2026-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2026-02→2026-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 自有 VS-POE-82096（8 PoE 96W）等非管理线 + 表内「PoE 管理型」需求 → 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$87.4 @30%）贴 Vintron 标；非管理位 HRUI STC-028GP（$24.2）；已从 10Gtek 外采 = 接受中国货源；Quip Pro（Vadim）自家实报：STH-8C48DX-HSI $5,000、STH-2C24XF-HSI $1,350（Elsa 2026-03-13，MOQ 1，「RAM/磁盘涨价只按型号报」）——同人再触按这两价，不按 Q2 表；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-26 $300（48 port poe managed switch）、2024-11-11 $300（48 Port PoE Managed Switch）、2024-12-01 $300（48 Port PoE Managed Switch）、2024-12-05 $300（48 Port PoE Managed Switch）、2024-12-31 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-29 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-07 $65（10G Media Converter）、2026-05-14 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-04-16 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-04-16；Simon 实报就是 $65）；2025-06-10 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-10；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 3 轮 2025-09-27→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Vadim — the two test units we priced in March (STH-8C48DX-HSI USD 5,000; STH-2C24XF-HSI USD 1,350, MOQ 1, EXW) still stand subject to confirmation at order time; which capacity is the first project, and is the sample for a telecom or a data-centre site?
@@ -176,7 +176,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Varun Gupta（）varun@vintronsmartvision.com 〔用户表〕
 - **KP**：Raj Kumar Gupta（上市关联体董事长（家族长；上市体 2025-12 更名 Reganto Enterprises Ltd 并转向建筑 / 航空 = 安防业务已沉到私营体）—— 不联系（第 91 批 官方登记核实 2026-10-27）） 〔https://www.marketscreener.com/quote/stock/VINTRON-INFORMATICS-LIMIT-20704747/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（E；2026-02→2026-04）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2026-02→2026-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -231,6 +231,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | IN · 1 次检索：X 账号 @VintronInfo 自述「Vintron Smartvision Pvt. Ltd: VINTRON SMARTVISION PVT. LTD.（vintronsmartvision.com；New Delhi；关联上市公司 Vintron In · Active（私营运营体） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet industrial media converter network poe switch 交换机；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-03-12 R: Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ and for a test samples. ‖ 2026-04-27 E: Dear Elsa Can you send price list for viewing? Best regards, Le… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-04-27（6 月前） |
+| ⑤ 规模 | ≥小型 | CCTV 运营体估 50–200 人；上市关联体 FY25 营收 ₹623 cr（+258%）、净利 ₹47.9 cr（含贸易 / 新业务）（第 91 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：印度·OEM 品牌商；登记线索：IN · 1 次检索：X 账号 @VintronInfo 自述「Vintron Smartvision Pvt. Ltd: VINTRON SMARTVISIO。往来 2024-07-03→2026-09-24：我方去信 29 封（A 6 / S 18），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2026-03-12 E: Hi Elsa, thank you for your email. Please share your models for 10Gbs / 25Gbs / 100Gbs / 400Gbs / 800Gbs switches And also prices for MOQ an ‖ 2026-03-12 R: Please share your models for 。我方报过：$65 / $170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-04-27（6 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-04-09 | 去 | A | Industrial PoE Switch |  |
+| 2026-02-06 | 来 | R | Please share brochure with technical sheet to do further analysis. |  |
+| 2026-02-06 | 去 | R |  |  |
+| 2026-02-12 | 去 | R |  |  |
+| 2026-03-13 | 去 | R |  |  |
+| 2026-04-29 | 去 | R |  |  |
+| 2026-05-14 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-17 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-29 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-02 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-24 | 去 | A | Managed PoE Switches |  |
+| 2026-09-24 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

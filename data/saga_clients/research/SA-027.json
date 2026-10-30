@@ -214,16 +214,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-06-16] Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here i ‖ 表 2025.6.2: 22mini→DS ‖ 研 2025-06-16 Reyann Salazar Brosoto: Do you have datasheet for below industrial switch? And do you have any showroom  / 2025-06-16 reyann@alsalami.com: RE: Industrial PoE Switch｜Dear Mr. Alan,     Do you have datasheet for below ind"
+  "evidence": "[A 2025-06-16] Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here i ‖ 表 2025.6.2: 22mini→DS"
  },
  "override_history": [
   {
@@ -233,8 +233,202 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE） · （登记状态不可免费核）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "工业"
+  ],
+  "p1": "STI-144GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-06-16",
+    "A",
+    "Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best Regards, Reyann "
+   ],
+   [
+    "2025.6.2",
+    "表",
+    "22mini→DS"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-06-16（16 月前）"
+  ],
+  "size": "10–19（Kompass）/ 11–50（LinkedIn，2,183 followers）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "阿联酋·集成商/安装商；登记线索：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Al Salami Trading 。往来 2025-03-25→2026-09-07：我方去信 14 封（A 14 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-16 A: Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best Regards, Reyann  ‖ 2025.6.2 表: 22mini→DS。我方报过：$170 / $280 / $300。对位：STI-144GP；路径：企业邮箱 MX ok + WA；最近来信 2025-06-16（16 月前）。",
+  "n_out": 14,
+  "n_in": 1,
+  "last_in": "2025-06-16",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-16",
+    "dir": "in",
+    "box": "A",
+    "from": "reyann@alsalami.com",
+    "subj": "RE: Industrial PoE Switch",
+    "gist": "Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best Regards, Reyann Salazar Brosoto Secu",
+    "prices": [],
+    "bulk": false,
+    "k": "a81a527303ac3a8d"
+   },
+   {
+    "date": "2025-07-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Re: Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fc1996c5626c5c37"
+   },
+   {
+    "date": "2025-08-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e71fc38890b91218"
+   },
+   {
+    "date": "2025-09-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial PoE Switch",
+    "gist": "Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7cd4ec9e1f8ace37"
+   },
+   {
+    "date": "2025-10-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "68580008a4a67fa9"
+   },
+   {
+    "date": "2025-11-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f342e0ff6922adb1"
+   },
+   {
+    "date": "2025-12-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "854a74657b0c9648"
+   },
+   {
+    "date": "2025.6.2",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "22mini",
+    "gist": "DS",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "7a9b064d7f4c97c6"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "a58f2512893000b3"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "c4faed10a09b8f21"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0168ce7da6b5c635"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -12,7 +12,7 @@ code: SB-1137
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 
 name_official: "Infotec Comércio de Equipamentos e Sistemas de Segurança Ltda.（巴西；KP Fabian Alonzo，transivideo@gmail.com）"
 score: -2
 country: 巴西
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S 邮箱 2024-06-25 三封来信：要 8+2 / 16+2 / 24+2 PoE 的型号与价（「lo más usado aquí」）、确认 19" 机架、问有无 VPN 设备；Simon 当日给报价单 + 规格书，答机架 OK / 无 VPN；2024-11-19 再要 4/8/16/24 口工业非管理价表 → 给了。此后无回。（调研 2026-10-24；表内兴趣：买的MC和机架 公司做: VC Switch和MC  工程）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11））；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-4 区域 拉美/巴西
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11））；自动分级 C：-6 E 冷名单（按国家群发）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；-4 区域 拉美/巴西
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM $99 / STC-424DGGPM-280W $165 / 工业非管理 STI-154GP 级 — 已发资料（勿重发）：报价单 + 规格书(2024-06-25)、工业非管理价表(2024-11-20)｜档位说明（原 tier 字段文字「经销 20%」移此）：经销 20%；2024 报价单（老汇率 7.2，仓内未解析逐项）；再报按 2026-10 表；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-07；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Fabian — for the 8+2 / 16+2 / 24+2 PoE models you priced twice in 2024: what yearly volume and landed target price would make it work in Brazil? I will tell you honestly whether we can meet it.
@@ -138,7 +138,7 @@ updated: 2026-10-30
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-11-19）
 - **KP**：Fabian Alonzo（联系人（研究档；2024-06 / 2024-11 两次主动要价）= 收件人 — 一页纸一次：分销 20% B、以 2024-06 报价为开场再报 STC-028GP / STC-2216GP / STC-2224GP 现价 + STI-280GE 工业非管理 + MOQ 1；葡语备注；回信 → 升 A 候选 — 巴西常规：英文稿（可附葡语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（进口税自理）、Anatel 不声称（第 120 批 官方登记核实 2026-10-29））transivideo@gmail.com 51 98144-0559（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **KP**：Ema Ines Rodriguez Rodriguez（Sócia-Administradora（casadosdados 2026-10-29；2009-08-13 入股；登记邮箱）（第 120 批 官方登记核实 2026-10-29））admin@infotecsistemas.com.br 〔〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）
 - 备注：西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。
 
 ### 加厚挖掘（2026-10-24 · 邮件证据）
@@ -162,6 +162,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156: Infotec Comércio de Equipamentos e Sistemas de Segurança Ltd · CNPJ 05.590.805/0001-56（分支 0002-37）… |
+| ② 角色 / 对位 | 分销商 | 对位词：poe 工业；P1 STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165） |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-06-25 S: Ola Simon, como estas? Gracias por tu e-mail. Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aq ‖ 2024-11-19 R: Can you send me your price list with the 4-8-16 a… |
+| ④ 路径 | 活 | 免费邮箱 MX ok；最近来信 2024-11-19（23 月前） |
+| ⑤ 规模 | ≥小型 | （未核） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：巴西·分销商；登记坐实：BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156: Infotec Comércio d。往来 2024-06-19→2025-09-18：我方去信 17 封（A 5 / S 11），对方真人来信 4 封 + 表内/备注 0 条；对方问过：2024-06-25 S: Los modelos que te mencione en el email anterior precisan tener 2 puertas SFP Saludos, *Fabian Alonzo* 51 98144-0559 ‖ 2024-06-25 S: Ola Simon, como estas? Gracias por tu e-mail. Puedes 。我方报过：$65 / $220 / $240 / $300。对位：STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165）；路径：免费邮箱 MX ok；最近来信 2024-11-19（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-09-30 | 去 | S | Industrial PoE Switch |  |
+| 2024-10-23 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-11-19 | 来 | S | Re: Mini Industrial PoE Switch｜Good afternoon Simon, how are you? Can you send me your price list with the 4-8-16 and 24 door models? *Best regards,* … |  |
+| 2024-11-19 | 去 | S | Mini Industrial PoE Switch |  |
+| 2024-11-20 | 去 | S | Re: Mini Industrial PoE Switch |  |
+| 2024-12-11 | 去 | S | 16 Port Ethernet Switch |  |
+| 2025-01-06 | 去 | S | Industrial PoE Switch |  |
+| 2025-03-14 | 去 | A | Marvell Alleycat5 Solution |  |
+| 2025-06-19 | 去 | A | 48 Port PoE Managed Switch | $300 |
+| 2025-07-17 | 去 | A | Marvell Industrial Alert System |  |
+| 2025-08-26 | 去 | A | 24 Port Fiber Switch | $240 |
+| 2025-09-18 | 去 | A | 90W PoE Managed Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

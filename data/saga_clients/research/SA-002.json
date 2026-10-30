@@ -261,16 +261,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 5 封 / 表内 1 条 / 研究档 3 条（S；2024-12→2026-07）",
+  "reason": "真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-12→2026-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-12-12] Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP et ‖ [S 2026-07-20] Simon , we currently use Mikrotik. We like the scripting and the powerful features. Our value added is the cus ‖ 表 1.3: 24poe→L3管理 后续未下单 ‖ 研 2024-12-12 frank@simrex.com: Simon, I will see what I can learn from your web site. Do any of your POE switch / 2026"
+  "evidence": "[S 2024-12-12] Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP et ‖ [S 2026-07-20] Simon , we currently use Mikrotik. We like the scripting and the powerful features. Our value added is the cus ‖ 表 1.3: 24poe→L3管理 后续未下单"
  },
  "override_history": [
   {
@@ -280,8 +280,239 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 3 条（S；2024-12→2026-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 3 条（S；2024-12→2026-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-12→2026-07）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 3 条（S；2024-12→2026-07）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-12→2026-07）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · SAM.gov 联邦供应商登记（CAGE / DUNS，经 cage.report 镜像，记录更新 2026: SIMREX CORPORATION · CAGE 1WEC8 · DUNS 087787573 · 注册地 Delawa · SAM 登记 Active（2026-05-06 续期，到期 · 业务始于 1996-"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "network",
+   "poe",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1.3",
+    "表",
+    "24poe→L3管理 后续未下单"
+   ],
+   [
+    "2024-12-04",
+    "S",
+    "Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If so, what operati"
+   ],
+   [
+    "2024-12-05",
+    "S",
+    "Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fa"
+   ],
+   [
+    "2024-12-06",
+    "S",
+    "Simon, I had an email outage one morning. Link to your company web page? Do you work for Saga Telecom? Can we use 56V with any of the produc"
+   ],
+   [
+    "2024-12-12",
+    "S",
+    "Simon, I will see what I can learn from your web site. Do any of your POE switches have layer 3? VLAN, IGMP etc. Frank Frank Neuperger Simre"
+   ],
+   [
+    "2026-07-20",
+    "S",
+    "Simon , we currently use Mikrotik. We like the scripting and the powerful features. Our value added is the custom scripting and product vali"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-07-20（3 月前）"
+  ],
+  "size": "11–50",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记坐实：USA · SAM.gov 联邦供应商登记（CAGE / DUNS，经 cage.report 镜像，记录更新 2026: SIMREX CORPORATION。往来 1.3→2026-09-08：我方去信 25 封（A 0 / S 25），对方真人来信 5 封 + 表内/备注 1 条；对方问过：2024-12-05 S: Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fa ‖ 2024-12-06 S: Simon, I had an email outage 。我方报过：$38 / $120 / $130 / $170 / $209 / $240。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-07-20（3 月前）。",
+  "n_out": 25,
+  "n_in": 5,
+  "last_in": "2026-07-20",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "38",
+   "120",
+   "130",
+   "170",
+   "209",
+   "240"
+  ],
+  "timeline": [
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "64ef9b106ddf943c"
+   },
+   {
+    "date": "2025-09-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f14437d524e840ed"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "959981a7454f2b8d"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4fb5d1ac0c341685"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "2de7d9bf76852929"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "a70907a717a29241"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "7b5c70cfbecd9bdc"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "ca9f1c33fe309b07"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "in",
+    "box": "S",
+    "from": "frank@simrex.com",
+    "subj": "RE: 24 Port 10G SFP+ Switch",
+    "gist": "Simon , we currently use Mikrotik. We like the scripting and the powerful features. Our value added is the custom scripting and product validity certificate. We",
+    "prices": [],
+    "bulk": false,
+    "k": "5ad38241fd821cfe"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port 10G SFP+ Switch",
+    "gist": "24 Port 10G SFP+ Switch",
+    "prices": [
+     "1500"
+    ],
+    "bulk": false,
+    "k": "e44ed147f5c2bbb7"
+   },
+   {
+    "date": "2026-07-21",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port 10G SFP+ Switch",
+    "gist": "Re: 24 Port 10G SFP+ Switch",
+    "prices": [
+     "120",
+     "130",
+     "1500",
+     "209"
+    ],
+    "bulk": false,
+    "k": "06610cfbde4173c3"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "935007727c3ea96f"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

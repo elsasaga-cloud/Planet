@@ -68,7 +68,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n美国主攻区、VP 直接回复。但其商业模式是 Cisco 等翻新件（低价竞争逻辑），新白牌工业/PoE 交换机可作为其'新品补充线'；需要 FCC 文件，不承诺 UL/TAA。P1：STI-288DGGPM（工业交换机类目对位）或 STC-28DGGPM 入门 PoE，分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -309,7 +309,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -328,6 +328,116 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-05）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · NJ 学区供应商报告（Red Bank BOE OPRA PDF，含税号）+ NJASA 会员名录（2017: SOFTNETWORKS LLC（softnetworks.net） · New Jersey LLC（NJ 实体号待补）· 联邦税号 46-134704 · 经营中（官网 2025-12、Yelp 2026-05 更新 · 2011（Linke"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "fiber",
+   "industrial",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-04-29",
+    "E",
+    "I never buy Unmanaged. "
+   ],
+   [
+    "2025-05-13",
+    "E",
+    "What is the price for this one? Thank you. Neal Cennamo Softnetworks.net 201-688-3750 "
+   ],
+   [
+    "2025.4.30",
+    "表",
+    "24poe→不用非管理的"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-05-13（17 月前）"
+  ],
+  "size": "18（第 85 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·分销商；登记坐实：USA · NJ 学区供应商报告（Red Bank BOE OPRA PDF，含税号）+ NJASA 会员名录（2017: SOFTNETWORKS LLC（s。往来 2025-04-06→2025-05-14：我方去信 3 封（A 0 / S 0），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-04-29 E: I never buy Unmanaged.  ‖ 2025-05-13 E: What is the price for this one? Thank you. Neal Cennamo Softnetworks.net 201-688-3750  ‖ 2025.4.30 表: 24poe→不用非管理的。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-05-13（17 月前）。",
+  "n_out": 3,
+  "n_in": 2,
+  "last_in": "2025-05-13",
+  "last_out": "2025-05-14",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025-04-06",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To info@allisontecusa.com，US",
+    "subj": "",
+    "gist": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm outp",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-04-30",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "We got managed series. Please see attached a typical model, it is a lengthy datasheet with plenty of information, take your time.（附 STI-288DGGPM.pdf；Elsa 给这封加了星",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19684d7bc9571faf"
+   },
+   {
+    "date": "2025-05-14",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "1, STI-288DGGPM-2BT: 140usd/pc 2*100M/1G/2.5G SFP+8*10/100/1000M PoE, L2+ Managed 6*PoE af/at+2*PoE af/at/bt, 240W budget, Din Rail, Redundant DC44V~57V Input, ",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 196ccf655de0046f"
+   },
+   {
+    "date": "2025.4.30",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "24poe",
+    "gist": "不用非管理的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

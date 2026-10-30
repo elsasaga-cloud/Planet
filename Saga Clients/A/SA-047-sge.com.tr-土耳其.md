@@ -12,7 +12,7 @@ code: SA-047
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "SGE Mühendislik Elektrik Otomasyon Bilgi İşlem San. ve Tic. Ltd. Şti.（Istanbul, Türkiye）"
 score: 76
 country: 土耳其
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔的电气工程/能源自动化公司（2007 年成立，16 人），Sprecher Automation、Elspec 等测量/保护产品的土耳其分销商，销往中东/俄罗斯/突厥语国家/非洲；网店「工业网络产品」类目在售中国产工业 PoE 交换机（CIEN3206GP-2GF-4GTPOE 14,159 TL、CIEN2208-4F，交期 5 周，5 年保）。用户表：A 已回复 1 次，联系人 Murat Gül（Electrical Engineer）/ Okan S.；兴趣工业控制，「迈威的」。（调研 2026-10-21；表内兴趣：工业控制  迈威的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-12-01 → 2025-12-01）；最近一次客户回复：2025-12-01：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-288DGGPM 对位 CIEN3206GP — TR 主攻 + 已回复 = 写第二封。已打开的主题（2/9 封有打开记录）：「Booster PoE Switch」(2025-12-01)、「Re: Booster PoE Switch」(2025-12-02) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续｜已发资料（勿重发）：Download Link_Alan(2025-12-02)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25%；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45；STI-288DGGPM $137.5 / STI-21616DGGPM $242 = 列表价封顶（25% 档更高）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-30 $280（10G Enterprise SFP Switch）；第 76 批(b)：STI-244GP「老表 $45」高于主表 25% 档 $36.6 与历史实报 $35–40，文本改 $36.6
 - **第一问（只问一个）**：For the industrial PoE units you resell today, is a 10–15-day lead time (vs ~5 weeks) worth a sample on one SKU?
@@ -144,7 +144,7 @@ updated: 2026-10-30
   > 来源：https://sge.com.tr/kategori-endustriyel-ethernet-switch-poe-switch-297.html（抓取 2026-10-21）
 - **KP**：Murat Gül（Teknik Müdür（技术总监，2009-11 起；YTÜ 电气工程）= 技术拍板、非老板；CEO Özgür Ünver；公司 2007-11-28 成立、16 人（2025）、2024 销售额 −9.5% / 资产 +23.5%（第 84 批 官方登记核实 2026-10-27））muratg@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
 - **KP**：Okan S.（联系人（用户表））okans@sge.com.tr 〔Clients/A Replied 09.04.xlsx〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2025-12）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2025-12）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转销中东/中亚）：对位 CIEN3206GP ≈ STI-244GP/STI-288DGGPM，25% 档；主打 10–15 天交期（对比其 5 周）与 5 年保修对齐问题需向 SmartByte 确认。
 
@@ -206,6 +206,37 @@ A 确认（土耳其重点区 + 已回复 + 网店在售中国工业 PoE + 转�
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-12-01 | 2025.12.1 | 升压 | INFO | A |  | A Replied 09.04.xlsx#30 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / : SGE MÜHENDİSLİK ELEKTRİK OTOMASYON BİLGİ İŞLEM SANAYİ VE TİC · İstanbul Ticaret Sicil（号待补） · 经营中（C… |
+| ② 角色 / 对位 | 分销商 | 对位词：din ethernet fiber network poe switch 交换机 工业；P1 STI-144GP |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-12-01 A: Can you send to me the price list of your products? İyi çalışmalar dilerim ‖ 2025.12.1 表: 升压→INFO |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-12-01（10 月前） |
+| ⑤ 规模 | ≥小型 | 16（EMIS 2025）（第 84 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：土耳其·分销商；登记坐实：Türkiye · EMIS 摘要（含 2024 财务走势、2025 员工数）+ 官网 + LinkedIn（公司 / : SGE MÜHENDİSLİK EL。往来 2025-09-30→2026-09-07：我方去信 9 封（A 9 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-12-01 A: Can you send to me the price list of your products? İyi çalışmalar dilerim ‖ 2025.12.1 表: 升压→INFO。我方报过：$170 / $280。对位：STI-144GP；路径：企业邮箱 MX ok；最近来信 2025-12-01（10 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-30 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-29 | 去 | A | Industrial PoE Switch |  |
+| 2025-12-01 | 来 | A | RE: Booster PoE Switch｜Can you send to me the price list of your products? İyi çalışmalar dilerim |  |
+| 2025-12-01 | 去 | A | Booster PoE Switch |  |
+| 2025-12-02 | 去 | A | Re: Booster PoE Switch |  |
+| 2025.12.1 | 表 | 表 | 升压｜INFO |  |
+| 2026-01-05 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-03-30 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-07-20 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

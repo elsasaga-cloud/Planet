@@ -47,7 +47,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -154,6 +154,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·LT-R10 留A：埃斯基谢希尔 ISP HiperFiber，自建光纤网（土耳其）"
   }
  ],
  "snap_thicken": {
@@ -179,7 +187,7 @@
  "website_status_prev": "在线",
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -189,5 +197,47 @@
   "deal": "",
   "reply_class": "none",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgele: HİPERONLİNE İLETİŞİM HİZMETLERİ SANAYİ TİCARET LİMİTED ŞİRKE · Vergi No 3330751186（Gaziemir Vergi Daire · Aktif（官网 .com.tr 在线；**.com 域已死 · 2014（官网）"
+  ],
+  "role": "ISP/运营商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "poe",
+   "交换机",
+   "光纤",
+   "网络"
+  ],
+  "p1": "STC-424XGGM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "MX 未确认；最近来信 无"
+  ],
+  "size": "小型 ISP（估 10–30 人；数千用户级）（第 90 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "土耳其·ISP/运营商；登记坐实：TR · 1 次检索：官网 iletişim（商号 / 税号 3330751186 Gaziemir）+ belgele: HİPERONLİNE İLETİŞ。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424XGGM；路径：MX 未确认；最近来信 无。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [],
+  "web_facts": [],
+  "manual": false
  }
 }

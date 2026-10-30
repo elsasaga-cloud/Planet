@@ -173,7 +173,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "mail_review": {
   "binding": {
    "level": "轻度绑定（1 张 PayPal 样品单 $166，2025-11-27：STI-110GE ×2 + STI-140GE ×2 + Meanwell HDR-15-24 ×4，为 1,000 台迪拜标书打样；2025-12-01 付款后邮件静默，后续在 WeChat/Simon；Elsa 箱：`to:asteldigicom.com OR to:asteldigicom.ae` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 38 / 来 14）（第 74 批(g)））",
@@ -402,7 +402,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -411,7 +411,7 @@
   "excl": "",
   "deal": "PI包·可发展",
   "reply_class": "R+",
-  "evidence": "[S 2025-12-01] Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you. ‖ [S 2025-12-01] Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the g ‖ 表 1.6: 24poe→profile ‖ 研 2025-11-27 Sanjay: I need two samples of this model with Power Supply… I shall pay by Paypal. You n / 2025-12-01 Sanjay: We have "
+  "evidence": "[S 2025-12-01] Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you. ‖ [S 2025-12-01] Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the g ‖ 表 1.6: 24poe→profile"
  },
  "override_history": [
   {
@@ -421,6 +421,231 @@
    "to": "A",
    "prev_reason": "PI 包成单客户，Simon 标签 可发展 → A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记线索",
+   "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae） · （登记状态不可免费核）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-11-27",
+    "A",
+    "Hello AlanI need two samples of this model with Power Supply. Pls advise if you can arrange it. In addition to this if you have a model with"
+   ],
+   [
+    "2025-11-27",
+    "A",
+    "Hi AlanHow can I reach on wechat for faster communication. Many a times I am nit in office and some respinse is rrquired urgently.ThanksSanj"
+   ],
+   [
+    "2025-11-27",
+    "A",
+    "Hi AlanYes this is the right model.Pls include 2 pcs of this model including Meanwell PSU.Total 4 pcs of MC and 4 PSU.Pls add charge for shi"
+   ],
+   [
+    "2025-12-01",
+    "A",
+    "Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shi"
+   ],
+   [
+    "2025-12-01",
+    "S",
+    "Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shi"
+   ],
+   [
+    "2025-12-01",
+    "S",
+    "Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you."
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-12-01（10 月前）"
+  ],
+  "size": "未见规模数据（网店型中小经销商）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "阿联酋·分销商；登记线索：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Astel Digicom（aste。往来 1.6→2025-12-01：我方去信 39 封（A 16 / S 22），对方真人来信 14 封 + 表内/备注 2 条；对方问过：2025-11-27 A: Hi AlanYes this is the right model.Pls include 2 pcs of this model including Meanwell PSU.Total 4 pcs of MC and 4 PSU.Pls add charge for shi ‖ 2025-12-01 A: Hi Alan, Hello Simon We have 。我方报过：$10 / $26 / $30 / $65 / $110 / $125。对位：STI-288DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-12-01（10 月前）。",
+  "n_out": 39,
+  "n_in": 14,
+  "last_in": "2025-12-01",
+  "last_out": "2025-12-01",
+  "prices_out": [
+   "10",
+   "26",
+   "30",
+   "65",
+   "110",
+   "125"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "ccb8973fe01fa794"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5ec435ffe9b9305e"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "in",
+    "box": "A",
+    "from": "navsim@eim.ae",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Hi AlanYes this is the right model.Pls include 2 pcs of this model including Meanwell PSU.Total 4 pcs of MC and 4 PSU.Pls add charge for shipping.Pls confirm bo",
+    "prices": [],
+    "bulk": false,
+    "k": "7e2d1f9604767feb"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "in",
+    "box": "A",
+    "from": "navsim@eim.ae",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Hi AlanHow can I reach on wechat for faster communication. Many a times I am nit in office and some respinse is rrquired urgently.ThanksSanjay",
+    "prices": [],
+    "bulk": false,
+    "k": "aed6e79cfa3c3280"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [
+     "10",
+     "30"
+    ],
+    "bulk": false,
+    "k": "b53baeddd2a29ecf"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "in",
+    "box": "A",
+    "from": "navsim@eim.ae",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Hello AlanI need two samples of this model with Power Supply. Pls advise if you can arrange it. In addition to this if you have a model with 1xRJ45, I shall als",
+    "prices": [],
+    "bulk": false,
+    "k": "05f51c687ba38b88"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "49c6c8a454135388"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STAG20251127018（Alan）",
+    "subj": "",
+    "gist": "Buyer: ASTEL DIGICOM Electronics LLC（Sanjay Singla, GM；navsim@eim.ae / asteldigicom@eim.ae）Payment Term: T/T in advance, EXW；Shipping Address: Client's forwarde",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a att STAG20251127018.pdf"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: FW: 10G Enterprise SFP Switch",
+    "gist": "Re: FW: 10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "65729c2384f57e35"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "in",
+    "box": "A",
+    "from": "navsim@eim.ae",
+    "subj": "FW: 10G Enterprise SFP Switch",
+    "gist": "Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have bee",
+    "prices": [],
+    "bulk": false,
+    "k": "0cc642cb3b5505fb"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "in",
+    "box": "S",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: FW: 10G Enterprise SFP Switch",
+    "gist": "Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you.",
+    "prices": [],
+    "bulk": true,
+    "k": "65729c2384f57e35"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "in",
+    "box": "S",
+    "from": "navsim@eim.ae",
+    "subj": "FW: 10G Enterprise SFP Switch",
+    "gist": "Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shipping marks have bee",
+    "prices": [],
+    "bulk": false,
+    "k": "0cc642cb3b5505fb"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

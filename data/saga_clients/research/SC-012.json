@@ -17,8 +17,8 @@
   }
  ],
  "kp": [],
- "grade_override": "C",
- "override_reason": "守界 + 区域外：拉脱维亚国铁（国有）安保子公司——铁路/公共部门项目不供；拉脱维亚亦属非主动开拓小国；联系人亦称进口麻烦、价格会高",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：LDZ Apsardze（拉脱维亚国铁安保子公司，国有）：轨交 + 国有守界 → 维持 C（资料保留）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -47,5 +47,256 @@
   "tier": 25,
   "why": "不推进（守界）"
  },
- "email_hook": "（不主动发送）"
+ "email_hook": "（不主动发送）",
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2024",
+    "dir": "Simon",
+    "who": "用户表（Simon 跟进记录）",
+    "quote": "推「Simon 备注/兴趣栏」→ 对方「对管理交换机有兴趣，知道M12交换机，问了工业级管理交换机价格 问是否有欧洲分公司，他们进口有点麻烦，价格会很高 ； 371 2953 1666 加不上」",
+    "why": "表内客户回复（pos）",
+    "k": "Clients/ 表格"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-02 建档"
+  },
+  "situation": "拉脱维亚；2024 最后一次来信/回复：推「Simon 备注/兴趣栏」→ 对方「对管理交换机有兴趣，知道M12交换机，问了工业级管理交换机价格 问是否有欧洲分公司，他们进口有点麻烦，价格会很高 ； 3",
+  "need": " ‖ 表 2024: Simon 备注/兴→对管理交换机有兴趣，知道M12交换机，问了工业级管理交换机价格 问是否有欧洲分公司，他们进口有点麻烦",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "C",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024: Simon 备注/兴→对管理交换机有兴趣，知道M12交换机，问了工业级管理交换机价格 问是否有欧洲分公司，他们进口有点麻烦"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "C",
+   "to": "A",
+   "prev_reason": "守界 + 区域外：拉脱维亚国铁（国有）安保子公司——铁路/公共部门项目不供；拉脱维亚亦属非主动开拓小国；联系人亦称进口麻烦、价格会高",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：LDZ Apsardze（拉脱维亚国铁安保子公司，国有）：轨交 + 国有守界 → 维持 C（资料保留）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "LDZ Apsardze（Latvijas dzelzceļš 集团）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "交换机",
+   "工业"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024",
+    "表",
+    "Simon 备注/兴趣栏→对管理交换机有兴趣，知道M12交换机，问了工业级管理交换机价格 问是否有欧洲分公司，他们进口有点麻烦，价格会很高 ； 371 2953 1666 加不上"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "路径弱",
+   "规模未知",
+   "人工终判：LDZ Apsardze（拉脱维亚国铁安保子公司，国有）：轨交 + 国有守界 → 维持 C（资料保留）"
+  ],
+  "story": "拉脱维亚；研究档法定名：LDZ Apsardze（Latvijas dzelzceļš 集团）。往来 2024→2026-09-14：我方去信 16 封（A 16 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024 表: Simon 备注/兴趣栏→对管理交换机有兴趣，知道M12交换机，问了工业级管理交换机价格 问是否有欧洲分公司，他们进口有点麻烦，价格会很高 ； 371 2953 1666 加不上。我方报过：$170 / $280 / $6000。对位：待定；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 16,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-14",
+  "prices_out": [
+   "170",
+   "280",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9bb2386e01f6fbaf"
+   },
+   {
+    "date": "2025-10-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "103d3d29241a7160"
+   },
+   {
+    "date": "2025-11-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bdfe9a5f38eb7367"
+   },
+   {
+    "date": "2025-12-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "f32c727761bb452f"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "778f619ba63c4f78"
+   },
+   {
+    "date": "2026-02-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "0c85db3a2a87337e"
+   },
+   {
+    "date": "2026-03-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "07b5fdd95ab3b48d"
+   },
+   {
+    "date": "2026-04-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4d0f52384065c62d"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "542609d5e2e64989"
+   },
+   {
+    "date": "2026-06-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "0ab7553b5e12cbf2"
+   },
+   {
+    "date": "2026-07-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "3ed3c6a845c04606"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3ff49312dc1b4b06"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

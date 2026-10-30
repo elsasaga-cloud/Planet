@@ -12,7 +12,7 @@ code: SB-169
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "AGS Plus / Xexagon（印度；Vinod Tyagi、Gunjan）"
 score: 53
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度 CCTV / 网络经销（agsplus.in 占位页，关联 xexagon.co.in），表内：主要 CCTV，用新桥商用 PoE，工业 FS 用 opstar，有 E-wind 产品；Vinod Tyagi / Gunjan；2025-06 对 24 PoE 回复 price。（调研 2026-10-21；表内兴趣：主要是CCTV 新桥的商业PoE；工业FS 周边产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 2 次（2025-06-04 → 2025-10-02）；最近一次客户回复：2025-06-04：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 24 PoE 询价 → STC-424DGGPM-280W（$134.5/140.1/145.7）；经销 20%。已打开的主题（3/12 封有打开记录）：「Unmanaged switch」(2024-08-23)、「industrial poe switch」(2024-09-04)、「48 Port PoE Managed Switch」(2024-12-02) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-09 $65（10G media converter）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-02 $300（48 Port PoE Managed Switch）、2024-12-30 $240（24 Port Fiber Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-04→2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Vinod — you asked for prices last June (and left your WhatsApp number); we sent the download links but no price. The 8-PoE + 2-SFP industrial managed unit is $137.5 USD EXW; is the requirement still there?
@@ -151,7 +151,7 @@ updated: 2026-10-30
 - **KP**：Vinod Tyagi（AGS Plus 研究档 KP（+91 98105 德里号段；2025-06 对 24 PoE 回「price」）= 收件人（第 114 批 官方登记核实 2026-10-28））sales@agsplus.in +91 98105 61477〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Gunjan（Xexagon 研究档 KP = 抄（第 114 批 官方登记核实 2026-10-28））gunjan@xexagon.co.in 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Tusharkumar Rajeshbhai Patel（CEO / Director Xexagon Hi-Tech Private Limited（tofler / xexagon.co.in）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
@@ -194,6 +194,38 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 |---|---|---|---|---|---|---|
 | 2025-06-04 | 2025.6.4 | 24poe | price | E |  | E Replied 2026.08.04.xlsx#7 |
 | 2025-10-02 | 102 | dac |  | E |  | E Replied 2026.08.04.xlsx#7 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | IN · 1 次检索：xexagon.co.in（Xexagon Odhav Ahmedabad；GST No. 24B: AGS Plus（agsplus.in 占位页；KP Vinod Tyagi +91 98105（德里号段）；sales@agsplus.in）+ 关联 Xex · Active（Xexagon）… |
+| ② 角色 / 对位 | 分销商 | 对位词：poe 交换机 工业 网络；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-06-04 E: Share the price. What’s App.. Number +919810561477 Regards Vinod Tyagi www.agsplus.in <http://www.agsplus.in/> ‖ 2025-06-04 R: Share the price. What's App.. Number +91 98105 61477 ‖ 2025.6.4 表: 24poe→price |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-06-04（16 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：印度·分销商；登记线索：IN · 1 次检索：xexagon.co.in（Xexagon Odhav Ahmedabad；GST No. 24B: AGS Plus（agsplus.i。往来 2024-07-04→2026-09-08：我方去信 16 封（A 0 / S 12），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-04 E: Share the price. What’s App.. Number +919810561477 Regards Vinod Tyagi www.agsplus.in <http://www.agsplus.in/> ‖ 2025-06-04 R: Share the price. What's App.. Number +91 98105 61477 ‖ 2025。我方报过：$65 / $240 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-06-04（16 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-10-18 | 去 | S | 24 Port Passive PoE Switch |  |
+| 2024-10-22 | 去 | S | Power Converter |  |
+| 2024-12-02 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2024-12-02 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2024-12-30 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-12-30 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2024-12-30 | 去 | R |  |  |
+| 2025-06-04 | 来 | R | Share the price. What's App.. Number +91 98105 61477 |  |
+| 2025-06-06 | 去 | R |  |  |
+| 2025.6.4 | 表 | 表 | 24poe｜price |  |
+| 2026-02-06 | 去 | R |  |  |
+| 2026-09-08 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

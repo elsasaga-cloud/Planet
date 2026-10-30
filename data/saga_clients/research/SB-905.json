@@ -70,7 +70,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 5 条（A；2025-07→2025-10）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-07→2025-10）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
  "deep": {
   "done_at": "2026-10-21",
@@ -242,6 +242,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 5 条（A；2025-07→2025-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 5 条（A；2025-07→2025-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-07→2025-10）"
   }
  ],
  "snap_thicken": {
@@ -257,15 +265,229 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 3 封 / 表内 1 条 / 研究档 5 条（A；2025-07→2025-10）",
+  "reason": "真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-07→2025-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-07-07] Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? Best Rega ‖ [A 2025-10-31] It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 ‖ 表 2025.7.7: 16电→Price 电源 ‖ 研 2025-07-07 Wadii: Can you please add the cost of AC and the cost of DC charger next to each quoted / 2025-10-31 wad"
+  "evidence": "[A 2025-07-07] Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? Best Rega ‖ [A 2025-10-31] It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 ‖ 表 2026: Simon 备注/兴→有自己的logo 有的没有 光猫\nONV Upeto的工业FS 机架 FS等 ； 机架 MC FS  ‖ 研 2024-09-03 Wadii: I'm looking for 20 switches for a project… 24 port… "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "UK Companies House: TELTRONIX HOLDINGS LTD（品牌 Briticom™） · 12455268 · Active（officers 页在列，无解散标记） · 2020-02-11"
+  ],
+  "role": "OEM 品牌商/分销商",
+  "fit_words": [
+   "din",
+   "交换机",
+   "光纤",
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-09-02",
+    "R",
+    "What's the price of this switch?（回 Simon 群发「8 port poe switch」）"
+   ],
+   [
+    "2024-09-03",
+    "R",
+    "I'm looking for 20 switches for a project… 24 port… POE -04 ports Giga Ethernet -02 redundant power supply modules -04 SFP LH module… stack "
+   ],
+   [
+    "2025-07-06",
+    "A",
+    "Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 1"
+   ],
+   [
+    "2025-07-07",
+    "A",
+    "Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? Best Regards Wadii TELTRONIX | BRITICOM"
+   ],
+   [
+    "2025-10-31",
+    "A",
+    "It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jp"
+   ],
+   [
+    "2025.7.7",
+    "表",
+    "16电→Price 电源"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-10-31（12 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "英国·OEM 品牌商/分销商；登记坐实：UK Companies House: TELTRONIX HOLDINGS LTD（品牌 Briticom™） · 12455268 · Active（off。往来 2024-07-08→2026-09-07：我方去信 24 封（A 17 / S 4），对方真人来信 3 封 + 表内/备注 2 条；对方问过：2025-07-06 A: Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 1 ‖ 2025-07-07 A: Can you please add the cost o。我方报过：$15 / $25 / $40 / $170 / $220 / $280。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-10-31（12 月前）。",
+  "n_out": 24,
+  "n_in": 3,
+  "last_in": "2025-10-31",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "15",
+   "25",
+   "40",
+   "170",
+   "220",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "e61b7331517a1410"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "771ef3fe09c9079b"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "886f44b034a334a7"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "in",
+    "box": "A",
+    "from": "wadii@teltronix.net",
+    "subj": "RE: Booster PoE Switch",
+    "gist": "It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C.DDEAD2E0]",
+    "prices": [],
+    "bulk": true,
+    "k": "f22fe1c8ed3e3766"
+   },
+   {
+    "date": "2025-11-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "990a06fe286d1a60"
+   },
+   {
+    "date": "2025-12-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "abc3c903724ebb70"
+   },
+   {
+    "date": "2025.7.7",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "16电",
+    "gist": "Price 电源",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "有自己的logo 有的没有 光猫\nONV Upeto的工业FS 机架 FS等 ； 机架 MC FS 工业FS  自己的logo 外壳种类比较多 ； 2024-0",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "dda48b7b5a5f7527"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "c977e441a07f7ab9"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "8778f2884dbeab03"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3fa54d38cd7b4c22"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

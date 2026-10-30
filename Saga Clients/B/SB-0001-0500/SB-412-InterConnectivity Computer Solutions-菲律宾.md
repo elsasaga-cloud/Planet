@@ -1,0 +1,294 @@
+# InterConnectivity Computer Solutions
+**官方名称（调研核实）**：InterConnectivity Computer Solutions（菲律宾；表内名）
+
+> **评级 B**　|　菲律宾　|　档案编号 `SB-412`　|　优先级 ★★　|　状态：有回复·跟进中
+>
+> **P 池并入（B 档，等级不动）：☆ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-FINAL-01 · 2026-10-30 · 下次巡检 2026-12-28）：A 级终评捞出（AB-FINAL-01）→ A：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）｜原：复核打回（LT-R05S）：菲律宾小型网络工程商（Ronald Dumaguing）：需求百兆单纤 20 km MC（Saga 百兆 MC 不供）+ 微型 → C 储备｜原：☆ P 池观察（P 观察候选，B 档并池 · 等级不动）：真回 ✔ 但 微型未坐实对位 未知 → 观察；命中 1/6（成单/样品 — · 真回 ✔ · WA ✔ · 对位 未知 · 登记 未坐实 · 体量 微型）　|　标签：prepay
+>
+> **类型**：系统集成/工程商（推断）　|　**历史关系**：实质回复 2 次；WhatsApp 已加；推送 17 次（2024-02-09 → 2025-10-09）　|　**所在清单**：WA跟进　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SB-412
+rating: B
+rating_auto: B
+sieve: pool  # 闸 3 AB1 2026-10-30
+rating_research: B  # A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知
+name_official: "InterConnectivity Computer Solutions（菲律宾；表内名）"
+score: 42
+country: 菲律宾
+region: 亚太
+website: none
+type: 系统集成/工程商
+tier_tags: ["WA跟进"]
+deal: no
+replies: 2
+followups: 17
+first_contact: 2024-02-09
+last_contact: 2025-10-09
+p1: STI-110FE
+price_tier: 25%
+research: done
+site_snapshot: none
+sources: 1
+updated: 2026-10-30
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。（调研 2026-10-21；表内兴趣：20.11.2 百兆小外电单纤20公里）
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；-8 无邮箱，仅电话/WhatsApp；+0 区域 亚太/菲律宾；+5 最近活动 2025
+- **历史互动**：实质回复 2 次；WhatsApp 已加；推送 17 次（2024-02-09 → 2025-10-09）；最近一次客户回复：2024-02-29：谈了DIP拨码功能
+- **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110FE — 百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。；按主表（研究档 saga_fit）
+- **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
+- **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
+- **下一步**：不动 — —
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-24）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SB-412` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-24。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未发信（S/A 邮箱均无往来；来源：用户表「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」）；Elsa 箱无可查地址（仓内无此户任何邮箱/域名——用户表/WhatsApp/展会名片户，`from:e.sagatelecom to:` 无从下手；Elsa 群发是否碰过他无法判定，不写「未触达」）（第 74 批(o)）** ｜ 类型：— ｜ 筛子：—（未入筛） ｜ 停点：从未触达 ｜ 复活：不动（非主攻区；J5：有证据再动） ｜ 通路：菲律宾 非主攻 ｜ 节奏：不动 ｜ 证据：gmail_digest：out 0；用户表：「兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能」；研究档 risks：无邮箱；需求偏低价 MC
+- **现状一句话**：菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。
+- **对方真实需求（有据）**：百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。
+- **断点 / 为什么停在这里**：无邮箱；需求偏低价 MC
+- **Saga 现在该推什么**：P1 **STI-110FE**（25% 档，按主表（研究档 saga_fit））——百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。
+- **下一步（具体）**：不动　—　—
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-21 | 用户表 | Simon | 兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能 | 表内备注 | `用户表` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无邮件往来；用户表状态「有回复·跟进中」与三邮箱证据矛盾：S/A 邮箱为「未发信」，Elsa 邮箱全量真人来信（Replied 67 封 + 非 Replied 9 封，第 73 批按邮箱/域名逐户比对）亦无此户 → 这条「回复/已加」发生在邮件之外（WhatsApp/平台私信），证据在 Simon 手机；邮件侧不要据此加码
+
+## 多维画像（数据推导 · 第 79 批 · 2026-10-27）
+
+> 只用仓库里已有的证据机械推导（S/A 邮箱索引、报价史、PI 包、官网快照摘要、GitHub 公开资料），每条带数字 / 日期 / 消息 key；没有信号的维度不写。**不替代上面的「针对性复盘」**，只是多几把尺子：什么时候发、发什么、找谁、还有哪一类没碰。重算：`python3 scripts/saga_clients/dims.py` 后重渲染。
+
+- **日历窗口**：对方：2026-12-24 圣诞–元旦（12-24 → 01-02） ｜ 我方春节停产：2027-02-06 春节，SmartByte / HRUI 工厂约 01-30 → 02-20 停工；要赶年前出货须 **2027-01-10 前下单**（4–7 个工作日交期 + 年前物流拥堵）。
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**假日避让：** 下一步为「不动」，不排发信，略。
+
+**公司底数 · 第 120 批（0 查（无邮箱 / 域名）；2026-10-29，2026-10-29 查；）：**
+
+- 法定名 / 登记号：InterConnectivity Computer Solutions（**无邮箱 / 无域名 → 0 查**）— 菲律宾小型网络工程商 Ronald Dumaguing；需求 100M 单纤 20 km MC + 长距 PoE（MC 不供） · 0 查 · 状态 **未知** · 成立 — · 个体 / 微型
+- 行业码 / 经营范围：网络工程（菲律宾）
+- 注册地址：未取
+- 规模档：微型
+- 账目：未取；—
+- 高管：Ronald Dumaguing — 业主（研究档 KP；无邮箱）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **产品不对位（百兆单纤 MC）+ 无邮箱 → 不动（B 保留；WA 来询按集成商 25% 报 STI-154GP / STC-228GP + 预付 100%）**— 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉（买方清关；NTC 不声称）
+- 备注：不动（产品不对位 + 无邮箱）；0 查。
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | InterConnectivity Computer Solutions | 事实（用户表） |
+| 国家 | 菲律宾 | 事实（用户表）|
+| 网站/域名 | — | 事实（用户表 URL/邮箱域名） |
+| 类型 | 系统集成/工程商 | 推断（据兴趣/备注关键词） |
+| 联系人 | Ronald Dumaguing | 事实（用户表） |
+| 来源（From） | RFQ | 事实（用户表） |
+| 兴趣（Interested in） | 20.11.2<br>百兆小外电单纤20公里 | 事实（用户表） |
+| 用户备注（Remark） | 63998593 5820 已加 | 事实（用户表） |
+| 所在清单 | WA跟进 | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | — | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-21）**　网站状态：无域名（仅表内信息）
+- **是谁**：菲律宾小型网络工程商（Ronald Dumaguing），2020 年起接触，需求 = 百兆单纤 20 km 小外电收发器，2024 年问 PoE 传输距离、谈 DIP 拨码功能；无邮箱。
+- **【用户表】兴趣：百兆小外电单纤 20 公里（2020-11）；2024-02 问 PoE 距离；谈工业 MC DIP 拨码**
+  > 兴趣：20.11.2 百兆小外电单纤20公里；回复：Poe distance；谈了DIP拨码功能
+  > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
+- **KP**：Ronald Dumaguing（） +63 998 593 5820〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：B（原自动 B）——A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知
+- 备注：（无首轮调研；由 deepen.py 建档）
+
+### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | 未取（InterConnectivity Computer Solutions；无邮箱 / 域名 → 0 查） |
+| 总部/地址 | 菲律宾（表内） |
+| 其他 | 仅 WhatsApp；第 120 批：0 查；需求百兆单纤 MC（不供）+ 无邮箱 → **不动（B 保留）** — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29） |
+
+- **业务线**：网络 / 光纤接入工程（推断）
+- **触达通道（公开）**：role: 工程商 / 安装商；region: 菲律宾
+- **近况信号**：
+  - 明确型号级需求：100M 单纤 20 km MC + PoE 距离（长距 PoE）
+- **风险/边界**：无邮箱；需求偏低价 MC
+- **Saga 对位结论**：P1 STI-110FE（25% 档）——百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。
+- **邮件切入句（英文）**：（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）
+
+## 在卖/在用品牌 → Saga 对位
+
+（备注未提及具体品牌）
+
+## 历史跟进记录（原表照录）
+
+合并自 1 张跟进表，共 17 条（原值照录，日期已按年份递推补全）：
+
+| 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
+|---|---|---|---|---|---|---|
+| 2024-02-09 | 2024.2.9 | 发了2光4相关信息 | Poe distance | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-02-29 | 2024.2.29 | 发了工业MC信息 | 谈了DIP拨码功能 | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-03-21 | 2024.3.21 | 发了128商业poe信息 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-04-17 | 2024.4.17 | 发了10G MC信息 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-05-19 | 2024.5.19 | 发了几个mini工业交换机 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-06-20 | 2024.6.20 | 发了几个商业交换机图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-07-16 | 2024.7.16 | passive poe手册 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-08-14 | 2024.8.14 | 4 8口工业PoE |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-09-26 | 926 | 2.5G ethernet |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-10-22 | 1022 | 电口 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-11-18 | 1118 | 引流机型 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2024-12-10 | 1210 | Mini |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2025-02-10 | 2025.2.10 | marvell商业系列 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2025-03-18 | 3.18 | 工业16 24口出货图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2025-04-30 | 430 | 10gmc |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2025-06-17 | 617 | 洪瑞商业POE组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+| 2025-10-09 | 109 | dac |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#18 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**下放B**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 未坐实 | 无域名（仅表内信息） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：poe 光纤 网络；P1 STI-110FE |
+| ③ 需求证据 | 泛（问价/要目录） | 2024.2.29 表: 发了工业MC信息→谈了DIP拨码功能 ‖ 2024.2.9 表: 发了2光4相关信息→Poe distance |
+| ④ 路径 | 弱 | 无邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：身份未坐实；路径弱；规模未知 |
+
+**故事线**：菲律宾·集成商/安装商；未坐实：无域名（仅表内信息）。往来 2024.2.29→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2024.2.29 表: 发了工业MC信息→谈了DIP拨码功能 ‖ 2024.2.9 表: 发了2光4相关信息→Poe distance。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STI-110FE；路径：无邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024.2.29 | 表 | 表 | 发了工业MC信息｜谈了DIP拨码功能 |  |
+| 2024.2.9 | 表 | 表 | 发了2光4相关信息｜Poe distance |  |
+
+## 联系方式（已有 · 原值照录）
+
+- 电话：`+639985935820`〔WhatsApp 已加；原值见来源表〕
+- 联系人（原值）：Ronald Dumaguing
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Ronald Dumaguing | — | +63 998 593 5820 | 调研核实（公开页） | （本地 Clients/ 表格，无公开 URL） |
+
+- **通道建议**：首选 WhatsApp 短消息（已加），邮件只做正式报价；无邮箱：只能电话 / WhatsApp / 官网表单
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户只有 1 行原始记录。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| Whatsapp_S跟进 2026.08.04.xlsx#总表:19 | 18 | InterConnectivity Computer Solutions | 菲律宾 | Ronald Dumaguing | RFQ | 20.11.2<br>百兆小外电单纤20公里 |  | 63998593 5820 已加 | 17 条 |
+
+## 产品决策（Saga · 单一决策口径）
+
+| 优先级 | 型号 | 场景 | 价格（USD EXW 快照） | 选它的原因 |
+|---|---|---|---|---|
+| **P1** | STI-110FE | 深挖对位：百兆单纤 20 km 外置电源收发器 → Saga 工业 STI-110FE（$19.7/20.6/21.4）；商用桌面 mini MC Saga 价目无，需按 SmartByte 型号报并注明。 | $20.6 USD EXW（25% 档，SmartByte LT-IMC30F-E 110 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | 深挖对位；档位 25%（系统集成/工程商） |
+| 备选2 | STC-28DGGPM | 8 口 PoE + 2 SFP L2+ 小接入 | $84.1 USD EXW（25% 档，SmartByte LT-S8310GP-2GX8GT 450 CNY × 1.25 ÷ 6.69，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选3 | STI-288DGGPM | 工业 L2+ 8 PoE + 2×2.5G SFP | $137.5 USD EXW（㉕ 封顶：25% 档 $145.7 高于 2026-06 Saga 列表价 $137.5，按列表价；SmartByte LT-IS6310GP-2GX8GT 780 CNY，汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+| 备选4 | STC-424XGGPM-280W | 24 PoE + 4×10G 上联 | $180 USD EXW（㉕ ② 群发现价（群发价台账），25% 档公式为 $188.7——同一客户随时可能收到 Alan 的群发，信稿不高于群发价；汇率快照 2026-10-17，15 天有效，报价前核价） | P1 之后的台阶，不进首触 |
+
+- **口径纪律**：价格 = SmartByte CNY × (1+档位) ÷ 汇率；档位：分销/电商 20%、集成/项目 25%、OEM/ODM 30%；商用线无 802.3bt、无云管理；证书只有 CE/RoHS/FCC/REACH/UKCA（无 UL）。
+
+## 跟进建议
+
+> 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110FE），备选型不进首触。
+
+- **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-110FE 一条规格链接；只问一个问题。
+- **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
+- **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
+- **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
+
+## SWOT
+
+- **S**：有 2 次实质回复（对方认识我们）；WhatsApp 直达
+- **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
+- **O**：P1 STI-110FE 按 25% 档报价，做现供应商的第二货源
+- **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ❓ 表内兴趣不含交换机关键词 |
+| 决策人识别 | ✅ |
+| 触达通道 | ✅ WhatsApp 已加 |
+| 现用/在卖交换品牌 | ❓ 未知 |
+| 采购量/预算 | ❓ 未确认（有回复但未报量） |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 公司网站（表内无域名，无法核实是否仍在运营）
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+**主题**：STI-110FE - industrial mini Fast Ethernet media converter (neutral label)
+
+```text
+Hi Ronald,
+
+Picking up our earlier exchange about PoE / industrial switches. For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?
+
+We supply an industrial mini Fast Ethernet media converter (1 fiber + 1 copper) - model STI-110FE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $20.6 USD EXW (price snapshot 2026-10-17, valid 15 days).
+
+If useful, one unit at the unit price for a 30-day side-by-side test. If not a fit, one line and I close the loop.
+
+Best regards,
+Saga Telecom - PoE / industrial switch OEM-ODM supplier (neutral packing available)
+https://sagatele.com/
+```
+
+> 研究档备注（未并入正文）：（无邮箱；WhatsApp：For your 100M single-fibre 20 km links we have a DIN-rail/desktop MC with DIP-switch options — want the datasheet and a 1-pc sample price?）
+
+> 发送前检查：① 不出现「Made in China」或原产地；② 不承诺未实测指标（PoE 功率/温宽）；③ 落款换成发件人姓名；④ 一次只问一个问题；⑤ 价格为 USD EXW 快照，过窗先核价；⑥ 只用表内/公开原值邮箱，不猜地址；⑦ 发出后在「新跟进记录」补一行并告知日期。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+
+## 变更日志
+
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
+
+---
+
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

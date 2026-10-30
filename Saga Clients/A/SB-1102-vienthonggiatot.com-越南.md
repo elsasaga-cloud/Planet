@@ -12,7 +12,7 @@ code: SB-1102
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Viễn Thông Giá Tốt（vienthonggiatot.com）"
 score: 21
 country: 越南
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：越南网络设备电商 + 弱电施工（光纤布线、Wi-Fi、监控安装），站内按品牌分类卖 Switch PLANET / TP-Link / Cisco / **SWITCH POE HRUI（正品）** / 工业交换机；型号页含 HRUI HR900-AF-82N、HR901-AF-1621GS、PLANET GS-4210-48T4S、TP-Link T1600G-28TS；表内注「很多国内的牌子 有洪瑞的」，2025-11 群发 2+8 PoE 回复 price。（调研 2026-10-21；表内兴趣：很多国内的牌子 有洪瑞的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11））；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；托底 B：有实质回复的客户至少 B
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；托底 B：有实质回复的客户至少 B
 - **历史互动**：实质回复 1 次；推送 4 次（? → ?）；最近一次客户回复：113：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（3/5 封有打开记录）：「8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-03)、「Re: 8 Port Industrial PoE Switch」(2024-11-15) → 读者兴趣偏「工业」；与 P1 同类，继续；他见过的实报（2024-11-03）：STI-288GP $60；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -132,7 +132,7 @@ updated: 2026-10-30
   > 兴趣：很多国内的牌子 有洪瑞的；回复：price
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nguyễn Văn Đông（法人代表（masothue 0109246393）— 不动（Q-33 待定）（第 119 批 官方登记核实 2026-10-28）） 〔masothue.com/0109246393〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -193,6 +193,35 @@ updated: 2026-10-30
 | ? | 1114 | 48口 |  | Email |  | VN.xlsx#160 |
 | ? | 1212 | 22mini |  | Email |  | VN.xlsx#160 |
 | ? | 1.6 | 16电 |  | Email |  | VN.xlsx#160 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | VN · 1 次检索：masothue.com/0109246393（CÔNG TY TNHH VIỄN THÔNG G: CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT / GOOD PRICE TELECOMMUNICATI · MST 0109246393 · Đang hoạt động（营业中… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet fiber industrial media converter poe sfp switch 交换机；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 113 表: 群发28poe→price ‖ 2024-11-03 S: What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết: |
+| ④ 路径 | 活 | 免费邮箱 MX ok；最近来信 2024-11-03（23 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：越南·集成商/安装商；登记坐实：VN · 1 次检索：masothue.com/0109246393（CÔNG TY TNHH VIỄN THÔNG G: CÔNG TY TNHH VIỄN 。往来 113→2026-09-10：我方去信 7 封（A 0 / S 5），对方真人来信 1 封 + 表内/备注 1 条；对方问过：113 表: 群发28poe→price ‖ 2024-11-03 S: What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:。我方报过：$300。对位：STC-28DGGPM；路径：免费邮箱 MX ok；最近来信 2024-11-03（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 113 | 表 | 表 | 群发28poe｜price |  |
+| 2024-11-03 | 去 | S | Re: 8 Port Industrial PoE Switch |  |
+| 2024-11-03 | 来 | S | Re: 8 Port Industrial PoE Switch｜What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết: |  |
+| 2024-11-03 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-11-03 | 去 | R |  |  |
+| 2024-11-15 | 去 | S | Re: 8 Port Industrial PoE Switch | $300 |
+| 2024-12-12 | 去 | S | Mini Industrial PoE Switch |  |
+| 2025-01-06 | 去 | S | 16 Port Ethernet Switch |  |
+| 2026-09-10 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

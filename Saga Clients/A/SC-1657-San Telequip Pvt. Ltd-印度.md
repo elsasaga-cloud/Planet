@@ -12,7 +12,7 @@ code: SC-1657
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
 name_official: "San Telequip Private Limited"
 score: 6
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：C 池三闸捞出（○ 正式）：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选（调研 2026-10-29；表内兴趣：Profibus Connectors 主动问了5 8电口的价格）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01））；自动分级 C：+12 备注记录了对方问价/要资料/见面等互动；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2025-01））；自动分级 C：+12 备注记录了对方问价/要资料/见面等互动；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 273、PoE 27 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STI-288GPM）；
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -125,7 +125,7 @@ updated: 2026-10-30
 - **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选**
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））cgkamdi@gmail.com 〔〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2025-01）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
 LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
@@ -168,6 +168,38 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实: San Telequip Private Limited（santelequip.com；**CIN U32202PN1 · U32202PN1992PTC065720（CIN） · Active… |
+| ② 角色 / 对位 | 分销商 | 对位词：din ethernet industrial media converter poe switch 工业；P1 STI-288GPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-01-06 S: Can you share me details for 8 Port Unmanged Switch along with its Unit Price ‖ 2025-01-09 S: Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to hav… |
+| ④ 路径 | 活 | 免费邮箱 MX ok；最近来信 2025-01-09（21 月前） |
+| ⑤ 规模 | ≥小型 | 小型（≈ 32 人） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：印度·分销商；登记坐实：IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实: San Telequip Priva。往来 —→2026-09-21：我方去信 18 封（A 8 / S 10），对方真人来信 5 封 + 表内/备注 1 条；对方问过：2024-11-29 S: What is the price? ‖ 2025-01-06 S: Can you share me details for 8 Port Unmanged Switch along with its Unit Price ‖ 2025-01-09 S: Can you Arrange Sample for This Model for Testing Purpose。我方报过：$65 / $170 / $280。对位：STI-288GPM；路径：免费邮箱 MX ok；最近来信 2025-01-09（21 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-01-06 | 来 | S | Re: Industrial PoE Switch｜Can you share me details for 8 Port Unmanged Switch along with its Unit Price |  |
+| 2025-01-09 | 去 | S | Re: 8 Port Ethernet Switch |  |
+| 2025-01-09 | 来 | S | Re: 8 Port Ethernet Switch｜Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to have sample fo… |  |
+| 2025-01-09 | 来 | S | Re: 8 Port Ethernet Switch｜Hey Simon, I want to Know about 8*100 Unmanged Switch without SFP, Pls Share Revised Regards Chetan |  |
+| 2025-03-03 | 去 | A | Marvell Alleycat5 Solution |  |
+| 2025-05-08 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-06-16 | 去 | A | Managed Optical Bypass Switch |  |
+| 2026-05-01 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-16 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-24 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

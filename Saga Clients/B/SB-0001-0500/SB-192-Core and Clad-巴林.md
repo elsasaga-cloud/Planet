@@ -1,11 +1,11 @@
 # Core and Clad
 **官方名称（调研核实）**：Core and Clad（Bahrain；Gmail；无域名）
 
-> **评级 B**　|　巴林　|　档案编号 `SB-192`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　巴林　|　档案编号 `SB-192`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 MC/SFP；命中 1/6（成单/样品 ✔ · 真回 — · WA — · 对位 MC/SFP · 登记 未坐实 · 体量 小型（推定））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）　|　**所在清单**：E冷名单(巴林)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成/工程商（推断）　|　**历史关系**：推送 1 次（2025-10-08 → 2025-10-08）　|　**所在清单**：E冷名单(巴林)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-192
@@ -19,7 +19,7 @@ region: 中东
 website: none
 type: 系统集成/工程商
 tier_tags: ["E冷名单(巴林)"]
-deal: yes
+deal: no
 replies: 0
 followups: 1
 first_contact: 2025-10-08
@@ -30,14 +30,14 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：用户表（Intersec 2011）：Core and Clad（巴林；Ebrahim Y. Alsada，采购；core.and.clad@gmail.com）——2011 年买过 2 次收发器（光纤收发器/媒体转换器）；E 冷名单 1 次跟进 0 回复。公司名「Core and Clad」（纤芯与包层）= 光纤领域贸易/工程商；无域名 → 仅表内信息；老客户。（调研 2026-10-21；表内兴趣：2011年买过2次收发器）
-- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+3 区域 中东/巴林；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
-- **历史互动**：成交/下单过；推送 1 次（2025-10-08 → 2025-10-08）
+- **为什么是 B 级**：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 E 冷名单（按国家群发）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+0 仅免费邮箱；+3 区域 中东/巴林；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **历史互动**：推送 1 次（2025-10-08 → 2025-10-08）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — 默认 25% 档：STI-110GE（工业千兆光纤收发器/MC，$23.4）= 当年品类升级；2 SFP 交换机 STC-228GP（$30.8）。已打开的主题（1/12 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06) → 读者兴趣偏「2.5G」；当前 P1 属「10G 汇聚/L3」，下一封按「2.5G」给，不按 P1；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-08-06 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-27 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-27；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-08→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Ebrahim, you bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
@@ -84,7 +84,7 @@ updated: 2026-10-29
 
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（巴林 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（巴林 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -215,7 +215,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-110GE），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-110GE）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-110GE 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -223,7 +223,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：中东：物流/收款/汇率摩擦高于主攻区；没有可靠直达通道
 - **O**：P1 STI-110GE 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -244,7 +244,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -259,7 +259,7 @@ updated: 2026-10-29
 ```text
 Hi Ebrahim,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. You bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 6 August 2026 - and there was no reason to answer a mass mail. This one is specific. You bought fibre media converters from us twice in 2011; the current industrial gigabit model is $23.4 EXW (SFP slot, −40/+75 °C) — are you still supplying fibre links in Bahrain, and in what monthly volume?
 
 We supply an industrial mini Gigabit media converter (1 fiber + 1 copper) - model STI-110GE - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $23.4 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
@@ -282,12 +282,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 51）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -55,8 +55,8 @@
    "source": "https://www.crunchbase.com/organization/optiwatch"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -181,5 +181,218 @@
   "url": "https://optiwatchgroup.com/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→need PoE switch，千兆，需要报价单 问了PoE距离，重交期，希望2周内基本都能交货 ；"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "UK · Companies House（官方）公司页 + officers 页: OPTIWATCH LTD（Optiwatch Group） · 09595034 · Active（账目至 2025-05-31 已报；确认声明  · 2015-05-18"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "industrial",
+   "poe",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→need PoE switch，千兆，需要报价单 问了PoE距离，重交期，希望2周内基本都能交货 ； 44 20 8443 0077\n44 791 632 23"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型（1 名董事；小微账目）（第 87 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "英国·集成商/安装商；登记坐实：UK · Companies House（官方）公司页 + officers 页: OPTIWATCH LTD（Optiwatch Group） · 09595。往来 2023→2026-08-19：我方去信 29 封（A 20 / S 8），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→need PoE switch，千兆，需要报价单 问了PoE距离，重交期，希望2周内基本都能交货 ； 44 20 8443 0077\n44 791 632 23。我方报过：$65 / $170 / $220 / $240 / $280。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 29,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-19",
+  "prices_out": [
+   "65",
+   "170",
+   "220",
+   "240",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-11-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c230485708d3464c"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "95b58dade6b4c785"
+   },
+   {
+    "date": "2026-01-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "efab9f19cf6fe4cb"
+   },
+   {
+    "date": "2026-01-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5b3cfae5582f3a0e"
+   },
+   {
+    "date": "2026-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "c6bb42c96c089f37"
+   },
+   {
+    "date": "2026-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "db19f1f24a0fb6ce"
+   },
+   {
+    "date": "2026-04-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5087d76b374a15f3"
+   },
+   {
+    "date": "2026-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "3c1dca46058b4ecb"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b2da34780063c865"
+   },
+   {
+    "date": "2026-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "96727ad298ff912d"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "a251d3737c356fa0"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "Managed Optical Bypass Switch、Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

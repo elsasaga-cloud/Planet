@@ -53,7 +53,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -222,7 +222,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -241,6 +241,201 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings : ARECA EMBEDDED SYSTEMS PRIVATE LIMITED · CIN U72200TG2007PTC053397 · RoC Hyderaba · Active · 最近 AGM 2024-09-30（Tof · 2007-03-29"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "industrial",
+   "poe",
+   "sfp",
+   "光纤",
+   "网络"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1118",
+    "表",
+    "引流机型→BIS"
+   ],
+   [
+    "2024.1.17",
+    "表",
+    "发了2光4相关信息→问了8光8 L3管理"
+   ],
+   [
+    "2024.6.17",
+    "表",
+    "发了48口引流信息→问了MPLS"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前）"
+  ],
+  "size": "待补证",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "印度·集成商/安装商；登记坐实：India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings : ARECA EMBEDDED SYS。往来 1118→2024-11-18：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 6 条；对方问过：1118 表: 引流机型→BIS ‖ 2024.1.17 表: 发了2光4相关信息→问了8光8 L3管理 ‖ 2024.6.17 表: 发了48口引流信息→问了MPLS。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2024-11-18",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "1118",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "引流机型",
+    "gist": "BIS",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-01-17",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2光4相关信息」→ 对方「问了8光8 L3管理」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.17"
+   },
+   {
+    "date": "2024-01-20",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了规格书和管理手册」→ 对方「will check」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.1.20"
+   },
+   {
+    "date": "2024-02-27",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2光16电信息」→ 对方「用不到」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.2.27"
+   },
+   {
+    "date": "2024-06-17",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了48口引流信息」→ 对方「问了MPLS」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.6.17"
+   },
+   {
+    "date": "2024-07-15",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「3个2光8PoE」→ 对方「will check」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 2024.7.15"
+   },
+   {
+    "date": "2024-11-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「BIS」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.66 1118"
+   },
+   {
+    "date": "2024.1.17",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光4相关信息",
+    "gist": "问了8光8 L3管理",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.1.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了规格书和管理手册",
+    "gist": "will check",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.2.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光16电信息",
+    "gist": "用不到",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.6.17",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了48口引流信息",
+    "gist": "问了MPLS",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.7.15",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "3个2光8PoE",
+    "gist": "will check",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

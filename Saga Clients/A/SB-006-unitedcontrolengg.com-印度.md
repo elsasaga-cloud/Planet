@@ -12,7 +12,7 @@ code: SB-006
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 name_official: "United Control Engineers India Pvt. Ltd.（Greater Noida）"
 score: 107
 country: 印度
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度大诺伊达的工业自动化产品分销商/系统集成商（2001 年起，11–50 人，营收 $10–15M 口径），Delta/ABB/Phoenix Contact/nVent Hoffman/Schneider 等授权渠道，产品类目含工业路由器、SMPS、VFD。用户表：3 次实质回复，WhatsApp 已加，兴趣 5/8 口非管理工业 FS。（调研 2026-10-22；表内兴趣：5/8非管理工业FS）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 Saga 成单（PI 包）；+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 3 次；WhatsApp 已加；推送 10 次（2023-12-09 → 2025-02-26）；最近一次客户回复：2024-08-13：基本只需要电口 不要光
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE / STI-080GE（千兆版）+ MOQ 阶梯 — 样机在手｜毛利复盘：一单 39.6%（STI-050FE/080FE，PayPal）——高毛利一单客；按主表 20% 分销档
 - **第一问（只问一个）**：Rajesh — did the STI-050FE/080FE samples go into any panel, and would a 20/50-pc price ladder on the gigabit versions change the picture?
@@ -151,7 +151,7 @@ updated: 2026-10-30
 - **KP**：Rajesh（单据联系人）accounts@unitedcontrolengg.com 〔PI.zip 单据〕
 - **KP**：Pramendra Singh Chaudhary（Director / CEO（DIN 02074072，2019-04-18 起；注册邮箱 chaudhary@unitedcontrolengg.com）= **老板 = 联系人** → 工业 DIN 交换机（STI-054GP / STI-154GP / STI-110GE 宽压）集成 25%，BIS 他们（第 91 批 官方登记核实 2026-10-27））chaudhary@unitedcontrolengg.com 〔https://www.zaubacorp.com/UNITED-CONTROL-ENGINEERS-INDIA-PRIVATE-LIMITED-U17302UP2019PTC115938〕
 - **KP**：Sumit Agrawal（Director（DIN 02074121，2019-04-18 起）= 合伙人（抄送）（第 91 批 官方登记核实 2026-10-27）） 〔https://www.tofler.in/united-control-engineers-india-private-limited/company/U17302UP2019PTC115938〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/288GP）的天然渠道；印度区价格敏感，报 20% 分销档并给 MOQ 阶梯。
 
@@ -223,6 +223,32 @@ A 确认：工业自动化分销商是 STI 非管理工业交换机（STI-244GP/
 | 2024-08-13 | 2024.8.13 | 问需求 | 基本只需要电口 不要光 | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#73 |
 | 2024-11-11 | 1111 | 问需求 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#73 |
 | 2025-02-26 | 2025.2.26 | 问需求 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#73 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立: UNITED CONTROL ENGINEERS INDIA PRIVATE LIMITED（Greater Noida · CIN U17302UP2019PTC115938 · GST 09A… |
+| ② 角色 / 对位 | 分销商 | 对位词：industrial network switch 交换机 工业；P1 STI-144GP |
+| ③ 需求证据 | 泛（问价/要目录） | 2024.4.16 表: 发了工业MC信息→成单5 8电口 ‖ 2024.8.13 表: 问需求→基本只需要电口 不要光 |
+| ④ 路径 | 弱 | 免费邮箱 + WA；最近来信 2024-08-13（26 月前） |
+| ⑤ 规模 | ≥小型 | 26–50 人；自报营业额 ₹25–100 cr（≈$3–12M）（第 91 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：印度·分销商；登记坐实：IN · 1 次检索：zaubacorp（CIN U17302UP2019PTC115938，2019-04-18 成立: UNITED CONTROL ENG。往来 2024-04-16→2024-08-13：我方去信 1 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.4.16 表: 发了工业MC信息→成单5 8电口 ‖ 2024.8.13 表: 问需求→基本只需要电口 不要光。我方报过：未见报价数字。对位：STI-144GP；路径：免费邮箱 + WA；最近来信 2024-08-13（26 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-04-16 | 去 | R |  |  |
+| 2024-05-27 | 来 | R | 用户表跟进：推「问测试结果」→ 对方「will check」 |  |
+| 2024-08-13 | 来 | R | 用户表跟进：推「问需求」→ 对方「基本只需要电口 不要光」 |  |
+| 2024.4.16 | 表 | 表 | 发了工业MC信息｜成单5 8电口 |  |
+| 2024.5.27 | 表 | 表 | 问测试结果｜will check |  |
+| 2024.8.13 | 表 | 表 | 问需求｜基本只需要电口 不要光 |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

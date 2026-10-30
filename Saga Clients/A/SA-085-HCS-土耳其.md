@@ -12,7 +12,7 @@ code: SA-085
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布
 name_official: "HCS Kablolama Sistemleri San. ve Tic. A.Ş.（HES Cabling Systems，İstanbul Başakşehir, TR；hescs.com；HES Hacılar Elektrik 集团）"
 score: 43
 country: 土耳其
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：HCS Kablolama Sistemleri（HES Cabling Systems）：土耳其最大电缆制造商 HES Hacılar Elektrik 为本地 LAN 市场创立的结构化布线品牌（2000-11-22 成立；51–200 人；铜缆/光缆布线系统、CPR 认证；İkitelli OSB Mah. 8. Cad. BOYPAŞ Blok No:3a Başakşehir；+90 212 438 25 75；info@hescs.com）。ISAF 记录：Cihat Tunçbilek（Product & Product Development Manager，2015 年起在 HCS）——找商业级 PoE 交换机，问是否带 L2/L3；无后续跟进。品牌方补有源产品 → OEM 30%。（调研 2026-10-21；表内兴趣：找商业级POE交换机 问是否带L2/L3）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（HCS 贴牌）/ 商用 L3 24+4（LT-S8528XG-4XS24GT，Saga 暂无型号） — 布线品牌补交换机线 → OEM 贴 HCS 标；产品开发经理在 ISAF 问 L2/L3；锚价：STC-424DGGPM-280W $145.7（OEM 30% 档）/ 商用 L3 24+4（SmartByte LT-S8528XG-4XS24GT，无 Saga 型号）291.5（30% 档；此前误标 25% 档并杜撰型号 STC-424XGGM(L3)，第 76 批(b) 改）（第 72 批 2026-10-24）；—
 - **第一问（只问一个）**：Cihat Bey, ISAF'ta sorduğunuz L2/L3 sorusunun cevabı: 24 port PoE+ (280 W) + 4 SFP L2+ model HCS etiketiyle EXW 145,7 USD, 24 port + 4×10G L3 model 291,5 USD; HCS kablolama ürün gamına eklemek için önce hangi model için numune isterseniz hazırlayayım?
@@ -135,7 +135,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Cihat Tunçbilek（采购 / 销售经办，**非老板**；HCS 为 HES Hacılar Elektrik 集团（Kayseri）旗下 A.Ş.，董事长 Yusuf Öksüzömer；İstanbul Ticaret Sicil 12401448，LEI 7890008F3LXUBMYF0N25（第 84 批 官方登记核实 2026-10-27））ctuncbilek@hescs.com（用户表） +90 212 438 25 75（公司）〔https://www.zoominfo.com/p/Cihat-Tunc%CC%A7bilek/8077892179〕
 - **KP**：Fatma Sancar（Regional Sales Manager（名录公开））— —〔https://rocketreach.co/hcs-kablolama-sistemleri-profile_b43b5d3ac190e399〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：HES 旗下结构化布线品牌 HCS（土耳其，自有品牌 OEM 对位）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -172,6 +172,21 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + : HCS KABLOLAMA SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ · İstanbul Ticaret Sicil No 12401448 · L… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：poe 交换机 网络；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | 51–200；Kayseri 工厂 30,000 m²（第 84 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：土耳其·OEM 品牌商；登记坐实：Türkiye · LEI 登记（GLEIF 镜像 lei-lookup）+ EMIS / D&B 摘要 + 官网 + : HCS KABLOLAMA SİST。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424DGGPM-280W；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

@@ -253,16 +253,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-04-18] And the price is ? Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-47 ‖ [A 2025-04-22] We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o. ‖ 表 418: 10gmc→price ‖ 研 2025-04-22 FCNET: We have much better price for this product from different supplier. / 2025-04-22 info@fcnet.pl: Re: 10G"
+  "evidence": "[A 2025-04-18] And the price is ? Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-47 ‖ [A 2025-04-22] We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o. ‖ 表 418: 10gmc→price"
  },
  "override_history": [
   {
@@ -272,8 +272,213 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 4 条（A；2025-04→2025-04）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Poland · KRS 官方 API（api-krs.ms.gov.pl，现行摘录 2026-06-11 状态）+ 财: FCNET SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0001095976 · NIP 7542916466 · REGON  · Active · VAT 状态 Czynny（增值税在册）· · 2007-10-01"
+  ],
+  "role": "OEM 品牌商/分销商",
+  "fit_words": [
+   "network",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-04-18",
+    "A",
+    "And the price is ? Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 | e-mail info@fcnet.pl NIP: "
+   ],
+   [
+    "2025-04-22",
+    "A",
+    "We have much better price for this product from different supplier. Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opol"
+   ],
+   [
+    "418",
+    "表",
+    "10gmc→price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-04-22（18 月前）"
+  ],
+  "size": "营收 10.2M PLN、资产 6.2M PLN（bizraport）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "波兰·OEM 品牌商/分销商；登记坐实：Poland · KRS 官方 API（api-krs.ms.gov.pl，现行摘录 2026-06-11 状态）+ 财: FCNET SPÓŁKA Z OGR。往来 2025-02-04→2026-09-28：我方去信 24 封（A 24 / S 0），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-04-18 A: And the price is ? Pozdrawiam / Best regards FCNET sp. z o.o. | ul. Św. Jacka 2 45-073 Opole t: +48 775-418-475 | e-mail info@fcnet.pl NIP:  ‖ 2025-04-22 A: We have much better price for。我方报过：$65 / $170 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-04-22（18 月前）。",
+  "n_out": 24,
+  "n_in": 2,
+  "last_in": "2025-04-22",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "592752a2ca45ae69"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "84cd4e89474a7427"
+   },
+   {
+    "date": "2025-11-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bcb1f97008b3a1a6"
+   },
+   {
+    "date": "2025-12-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "80d8493bb76879e3"
+   },
+   {
+    "date": "2026-02-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "8bfc543757877608"
+   },
+   {
+    "date": "2026-04-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "c7f95397af42590f"
+   },
+   {
+    "date": "2026-05-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "344e642bac90cae6"
+   },
+   {
+    "date": "2026-06-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1e6d5221cc245d28"
+   },
+   {
+    "date": "2026-07-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "78c3bacbb5ffdf34"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "fb2625bf5229add3"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "03690d2c8c5731ec"
+   },
+   {
+    "date": "418",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "10gmc",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

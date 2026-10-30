@@ -12,7 +12,7 @@ code: SB-163
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 
 name_official: "ООО «СКЕО» (SKEO)"
 score: 54
 country: 俄罗斯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯圣彼得堡 / 莫斯科 / 顿河畔罗斯托夫光通信设备制造商与供应商：CWDM/DWDM 复用器、光模块 SFP/SFP+/XFP/QSFP/CFP（自有 SKEO 品牌，5 年保）、媒体转换器、熔接机、测试仪、网络设备；面向运营商、ISP、政府通信部门；与 Juniper/Cisco 有直接合作。表内 Account Manager Nikolay Podoroga，2024-09 对 8 电口「有兴趣」。光模块 / MC = 同行（自有品牌），交换机 = 缺口。（调研 2026-10-21；表内兴趣：主要是光模块 有一部分MC 有光路的；WDM配件较多）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09））；自动分级 B：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 0 条（S；2024-09→2024-09））；自动分级 B：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 1 次；WhatsApp 已加；推送 14 次（2024-07-12 → 2025-10-31）；最近一次客户回复：2024-11-19：有需求会说的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-080GE — 已打开的主题（1/8 封有打开记录）：「Re: 8 port unmanaged switch」(2024-09-06) → 读者兴趣主题类别不明（看原主题）；$33（2024-09）；历史报价（邮件原话，老汇率）：2024-09-06 STI-080GE 33usd；群发里他已看到的价（续，第 66 批全量复核）：2024-07-11 $65（10G Media Converter）、2026-05-11 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -157,7 +157,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Nikolay Podoroga（）npa@skeo.ru +7 903 486 5077〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Деркач Алексей Александрович（Генеральный директор（2021-11-19 起）+ 10% 股东 = 拍板人（第 86 批 官方登记核实 2026-10-27）） 〔https://www.companium.ru/id/1147847171185-skeo〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 1 条（S；2024-09→2024-09）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 2 条 / 研究档 0 条（S；2024-09→2024-09）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -227,6 +227,38 @@ updated: 2026-10-30
 | 2025-06-21 | 621 | 工业非管理组合图 |  | 微信 |  | 优质俄罗斯客户 2.9.xlsx#13 |
 | 2025-08-28 | 828 | 电口 |  | 微信 |  | 优质俄罗斯客户 2.9.xlsx#13 |
 | 2025-10-31 | 1031 | dac |  | 微信 |  | 优质俄罗斯客户 2.9.xlsx#13 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Россия · ЕГРЮЛ 镜像（companium / rusprofile 2026-09-16 更新 / com: ООО «СКЕО»（品牌 SKEO，skeo.ru） · ОГРН 1147847171185 · ИНН 7810990736 · КП · Действующее（2026-09-16 核）… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：sfp 交换机 网络；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-09-06 S: Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение -------- Тема: 8 port unmanaged swit ‖ 2024-09-06 S: What is the price for them? And how do you want t… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前） |
+| ⑤ 规模 | ≥小型 | 3（ССЧ）；营收 2023 102.5 → 2024 75.6 → 2025 100.7 млн ₽（第 86 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：俄罗斯·OEM 品牌商；登记坐实：Россия · ЕГРЮЛ 镜像（companium / rusprofile 2026-09-16 更新 / com: ООО «СКЕО»（品牌 SKEO。往来 1119→2026-07-02：我方去信 8 封（A 3 / S 5），对方真人来信 2 封 + 表内/备注 2 条；对方问过：2024-09-06 S: Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение -------- Тема: 8 port unmanaged swit ‖ 2024-09-06 S: What is the price for them? A。我方报过：$33 / $65 / $280。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-07-11 | 去 | S | 10G media converter | $65 |
+| 2024-08-10 | 去 | S | Industrial Network Switch |  |
+| 2024-09-05 | 去 | S | 8 port unmanaged switch |  |
+| 2024-09-06 | 去 | S | Re: 8 port unmanaged switch | $33 |
+| 2024-09-06 | 来 | S | Re: 8 port unmanaged switch｜What is the price for them? And how do you want to send them to us? 06.09.2024, 10:43, "Simon" <s.sagatelecom@gmail.com>: … |  |
+| 2024-09-06 | 去 | S | Re: 8 port unmanaged switch |  |
+| 2024-09-06 | 来 | S | Fwd: 8 port unmanaged switch｜Hi. Yes, can you send it to the test, we'll see what else you have? -------- Перенаправленное сообщение -------- Тема: 8 … |  |
+| 2024-11-19 | 来 | R | 用户表跟进：推「引流机型」→ 对方「有需求会说的」 |  |
+| 2024.9.5 | 表 | 表 | 8电口｜有兴趣 |  |
+| 2026-04-21 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-11 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-07-02 | 去 | A | Saga Q3 Product Links |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

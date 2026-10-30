@@ -11,7 +11,7 @@ code: SC-1399
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 name_official: "team5tech.com"
 score: 11
 country: 印度
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度客户（team5tech.com）：AB-FINAL-01 以回信证据建档——真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）。公司底数未查（新入库即查排队）。（调研 2026-10-30；表内兴趣：从10G tek买东西）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-30）**：— — ；他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -59,6 +59,8 @@ updated: 2026-10-30
 | 2024-11-03 | 来 | ravi@apolloinfoways.in | Re: Industrial PoE Switch｜Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ | S 邮箱 真人来信（pos） | `fa79557f8a8ef2a4` |
 | 2024-11-06 | 来 | padmavathi.p@team5tech.com | Industrial Ethernet Switch｜Hi Team, Please suggest model along with price. Specification Specification Name Bid Requirement/ Specification Type of Switch Managed, Web Managed Technology PoE, PoE+ Number of 1G Copper Ports 8 Multi-Gigabit Support No Redundant Power supply ( from day one) Not Availabl | S 邮箱 真人来信（pos） | `d3f31b1880f318f5` |
 | 2024-11-06 | 来 | aruna.bj@team5tech.com | RE: Industrial PoE Switch from SagaTelecom｜Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity. We would require Authorization letter and Make in India certificate to participate in the same. Qty is 20 and 15 No’s respectively. Thanks & Regards, | S 邮箱 真人来信（pos） | `e7137160517a2eba` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -101,7 +103,7 @@ updated: 2026-10-30
 - **【邮箱来信/用户表】RE: Industrial PoE Switch from SagaTelecom｜Dear Team, Please share the model and price details for attached specificatio**
   > RE: Industrial PoE Switch from SagaTelecom｜Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity. We would require Authorization letter and Make in India certificate to participate in the same. Qty is 20 and 15 No’s respectively. Thanks & Regards,
   > 来源：e7137160517a2eba（抓取 2024-11-06）
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）
 - 备注：（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）
 
 ### 加厚挖掘（2026-10-30 · AB-FINAL-01 回信建档）
@@ -115,6 +117,35 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 未坐实 | 待快照 |
+| ② 角色 / 对位 | 未知 | 对位词：；P1 待定 |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-11-03 S: Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ ‖ 2024-11-06 S: Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity. We wou… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-11-06（23 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：身份未坐实；角色未知；规模未知；人工终判：Team5 Technologies Pvt Ltd（班加罗尔；CIN U51909KA2016PTC096739；FY2025 营收 $3.56M；数据中心自动化 / 5G 测试 / 串口控制台 / iPDU，政企投标）：2024-11 按政府标书规格要型号 + 价格 + 授权书——DC/投标型，印度名单 |
+
+**故事线**：印度；未坐实：待快照。往来 2024-11-03→2026-10-20：我方去信 3 封（A 0 / S 3），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2024-11-03 S: Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ ‖ 2024-11-06 S: Dear Team, Please share the model and price details for attached specification. This is for a 。我方报过：$180。对位：待定；路径：企业邮箱 MX ok；最近来信 2024-11-06（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-11-03 | 来 | S | Re: Industrial PoE Switch｜Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ |  |
+| 2024-11-03 | 去 | S | Industrial PoE Switch |  |
+| 2024-11-06 | 去 | S | Re: Industrial Ethernet Switch |  |
+| 2024-11-06 | 来 | S | Industrial Ethernet Switch｜Hi Team, Please suggest model along with price. Specification Specification Name Bid Requirement/ Specification Type of Swi… |  |
+| 2024-11-06 | 来 | S | RE: Industrial PoE Switch from SagaTelecom｜Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity.… |  |
+| 2026-10-20 | 去 | S | 24 Port PoE Managed Switch | $180 |
+
+- 网查（2026-10-30）：TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore — <https://tracxn.com/d/companies/team5technologies/__aS7cUwVKzhQ3tmBMip3dZUf234SJFESf71EGtkKK3XE>
+- 网查（2026-10-30）：data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP — <https://www.zoominfo.com/c/team5-technologies-pvt-ltd/371376403>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

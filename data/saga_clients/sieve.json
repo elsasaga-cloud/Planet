@@ -3,16 +3,16 @@
   "updated": "2026-10-30",
   "rules": "docs/C池三闸筛选_方案_2026-10-29.md §2 · A/B 并池 docs/AB并池方案_草案_2026-10-29.md §5",
   "counts": {
-   "pool": 401,
+   "pool": 439,
    "pool_watch": 192,
-   "keep_C": 2979,
+   "keep_C": 2941,
    "pass_final": 219
   },
   "n": 3791,
   "counts_C": {
-   "pool": 202,
+   "pool": 240,
    "pass_final": 219,
-   "keep_C": 2967,
+   "keep_C": 2929,
    "pool_watch": 30
   },
   "n_C": 3418,
@@ -6126,13 +6126,15 @@
   ]
  },
  "SC-012": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "拉脱维亚国铁安保子公司（国有 + 铁路守界），对工业管理交换机有兴趣、6 推 0 回、WA 加不上；留档",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：拉脱维亚国铁安保子公司（国有 + 铁路守界），对工业管理交换机有兴趣、6 推 0 回、WA 加不上；留档",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-01"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-01"
  },
  "SC-013": {
   "verdict": "keep_C",
@@ -8753,16 +8755,18 @@
   "batch": "G1-04"
  },
  "SC-114": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "Siklu（2024 并入 Ceragon 上市公司）毫米波设备厂，仅 marketing@，问过 10G 工业 MC 未成 → 巨头 / 厂商，不 pass",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：Siklu（2024 并入 Ceragon 上市公司）毫米波设备厂，仅 marketing@，问过 10G 工业 MC 未成 → 巨头 / 厂商，不 pass",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-01",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-01"
  },
  "SC-1140": {
   "verdict": "keep_C",
@@ -9074,16 +9078,18 @@
   "lt_prev_batch": "G1-36"
  },
  "SC-1168": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "德国；表分 品类不符（VC/DWDM/CCTV ；兴趣：找optical converter, 问价格 网站：主要是视频 音频类的 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：德国；表分 品类不符（VC/DWDM/CCTV ；兴趣：找optical converter, 问价格 网站：主要是视频 音频类的 → 需求 / 主业为 Saga 不供品类（光端机 / WDM / bypass / 无源 / 板级 / 软件 / 服务）；留 C",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-05",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-05"
  },
  "SC-1169": {
   "verdict": "keep_C",
@@ -9181,15 +9187,17 @@
   "lt_prev_batch": "G1-04"
  },
  "SC-1177": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 2,
   "rule": "G2",
-  "reason": "印度 Projexon：projexon.com 官网直取 = 国际商务咨询 / 企业培训公司（Oil & Gas 培训，客户 NNPC）≠ 表内 CCTV 公司 → 域名错配；Vignesh 真实公司待 WA 追问 → 回 C（印度先例 ✔ 决策人 ✔ WA 可达 ✔）；不是 pass",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：印度 Projexon：projexon.com 官网直取 = 国际商务咨询 / 企业培训公司（Oil & Gas 培训，客户 NNPC）≠ 表内 CCTV 公司 → 域名错配；Vignesh 真实公司待 WA 追问 → 回 C（印度先例 ✔ 决策人 ✔ WA 可达 ✔）；不是 pass",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G2-136",
+  "batch": "AB-FINAL-02",
   "g1_batch": "G1-36",
-  "g1_reason": "印度 Projexon（projexon.com 域正常；主要 CCTV，WhatsApp 问了 L2 / L3 交换机 ✔；R. Vignesh Director 具名 ✔；两手机）：印度点名国 ✔ 对位 ✔ 决策人 ✔ WA 可达 ✔（§5 ≥4 条）→ 闸 2 查底数（MCA 镜像）后 WA 一页纸（STC-2224GP $86 / STC-4424GCPM $165）"
+  "g1_reason": "印度 Projexon（projexon.com 域正常；主要 CCTV，WhatsApp 问了 L2 / L3 交换机 ✔；R. Vignesh Director 具名 ✔；两手机）：印度点名国 ✔ 对位 ✔ 决策人 ✔ WA 可达 ✔（§5 ≥4 条）→ 闸 2 查底数（MCA 镜像）后 WA 一页纸（STC-2224GP $86 / STC-4424GCPM $165）",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G2-136"
  },
  "SC-1178": {
   "verdict": "keep_C",
@@ -10697,16 +10705,18 @@
   "batch": "G1-04"
  },
  "SC-1309": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "韩国 Elftech（elftech.co.kr；展会问 3800 系列、相干模块、200G QSFP-DD 价格 / Tunable；网站有 WDM 设备）：本职线互动 → 留 C + dayjob_fit",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：韩国 Elftech（elftech.co.kr；展会问 3800 系列、相干模块、200G QSFP-DD 价格 / Tunable；网站有 WDM 设备）：本职线互动 → 留 C + dayjob_fit",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-22",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-22"
  },
  "SC-131": {
   "verdict": "keep_C",
@@ -11386,17 +11396,19 @@
   ]
  },
  "SC-1366": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 2,
   "rule": "G2",
-  "reason": "闸 2 回 C（真意向例外）：Mayenet 1 查仅近名 Mazenet → 未坐实；想拿样 ✔ → 回 C 储备 + 单次样品报价例外（STC-228GP 样机 + 运费 预付 100%），回信即补查法人｜G2R-01：复查 1 查仍只返回 Mazenet（Coimbatore 培训公司）→ Mayenet 法人未取 → 留 C（样品例外保留）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：闸 2 回 C（真意向例外）：Mayenet 1 查仅近名 Mazenet → 未坐实；想拿样 ✔ → 回 C 储备 + 单次样品报价例外（STC-228GP 样机 + 运费 预付 100%），回信即补查法人｜G2R-01：复查 1 查仍只返回 Mazenet（Coimbatore 培训公司）→ Mayenet 法人未取 → 留 C（样品例外保留）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G2-130",
+  "batch": "AB-FINAL-02",
   "g1_batch": "G1-23",
   "g1_reason": "印度 Mayenet Solutions（mayenetsolutions.com 域 nxdomain；mayenet.com 正常；「不太要工业级，要商业级全千兆不要混合速率，想拿样」）：真意向 + 样品 ✔ 对位 ✔（STC-2224GP 全千兆）Simon 点名印度 → 闸 2 查底数 + 换 mayenet.com 地址；低优先",
   "facts": [],
-  "recheck": "G2R-01"
+  "recheck": "G2R-01",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G2-130"
  },
  "SC-1367": {
   "verdict": "keep_C",
@@ -12611,13 +12623,15 @@
   ]
  },
  "SC-1469": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "韩国 Defense MICE Institute（kdmi.kr；T.H. Lee Director；naver；只要了名片；45 推 0 回；Simon「可以尝试多跟进」）：国防展会机构 = 守界（军工）+ 零回应 → 留 C（不 pass）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：韩国 Defense MICE Institute（kdmi.kr；T.H. Lee Director；naver；只要了名片；45 推 0 回；Simon「可以尝试多跟进」）：国防展会机构 = 守界（军工）+ 零回应 → 留 C（不 pass）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-37"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-37"
  },
  "SC-147": {
   "verdict": "keep_C",
@@ -12860,13 +12874,15 @@
   ]
  },
  "SC-1491": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "荷兰 Distri-X（问工业 PoE 带 NAT = L3 功能，Saga 工业线无；表内标不再跟进 / Spam 为我方备注）→ 不刚性；留 C",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：荷兰 Distri-X（问工业 PoE 带 NAT = L3 功能，Saga 工业线无；表内标不再跟进 / Spam 为我方备注）→ 不刚性；留 C",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-05"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-05"
  },
  "SC-1492": {
   "verdict": "pool",
@@ -13004,13 +13020,15 @@
   "batch": "G1-25"
  },
  "SC-1504": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "巴基斯坦；WA 已加；兴趣：问了2光4电 管理 后来没成；跟进 14 次无回复 → 区域外冷线索，但 WA 路径在 → 不刚性；留 C 储备",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：巴基斯坦；WA 已加；兴趣：问了2光4电 管理 后来没成；跟进 14 次无回复 → 区域外冷线索，但 WA 路径在 → 不刚性；留 C 储备",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-04"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-04"
  },
  "SC-1505": {
   "verdict": "keep_C",
@@ -16920,16 +16938,18 @@
   "batch": "G1-28"
  },
  "SC-1841": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "阿根廷 CNCA（cnca.com.ar；谈过 100G / 200G 点对点 100 km 2 芯非相干低价方案 + 1.6T 一体式 + 上下波，6COM 客户用信泰）：DWDM 真互动 = 本职线 → 留 C + dayjob_fit（交换机线零需求）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：阿根廷 CNCA（cnca.com.ar；谈过 100G / 200G 点对点 100 km 2 芯非相干低价方案 + 1.6T 一体式 + 上下波，6COM 客户用信泰）：DWDM 真互动 = 本职线 → 留 C + dayjob_fit（交换机线零需求）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-28",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-28"
  },
  "SC-1842": {
   "verdict": "pass_final",
@@ -16981,13 +17001,15 @@
   "batch": "G1-28"
  },
  "SC-1847": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "阿联酋 Ansar Abbas（yahoo ×2；问了商业 PoE 合作 + 无源产品；「长期不看信息」；5 推）：个人 + 无公司 → 留 C",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：阿联酋 Ansar Abbas（yahoo ×2；问了商业 PoE 合作 + 无源产品；「长期不看信息」；5 推）：个人 + 无公司 → 留 C",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-38"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-38"
  },
  "SC-1848": {
   "verdict": "keep_C",
@@ -17065,13 +17087,15 @@
   ]
  },
  "SC-1853": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "美国；WA 已加；兴趣：要价格册 18年使用国际站 → 冷名单无回应，WA 路径在 → 不刚性；留 C 储备",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：美国；WA 已加；兴趣：要价格册 18年使用国际站 → 冷名单无回应，WA 路径在 → 不刚性；留 C 储备",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-04"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-04"
  },
  "SC-1854": {
   "verdict": "keep_C",
@@ -17212,16 +17236,18 @@
   ]
  },
  "SC-1863": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "Saleh AL-Marjabi（software engineer；gmail；表内「马来西亚」，+968 = 阿曼 → 国别待核；懂 WDM，同事问 2 光 4 PoE，拍了 2 光 4 管理小壳，看了 SFP）：展会个人 + 无公司 → 留 C 储备 + dayjob_fit",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：Saleh AL-Marjabi（software engineer；gmail；表内「马来西亚」，+968 = 阿曼 → 国别待核；懂 WDM，同事问 2 光 4 PoE，拍了 2 光 4 管理小壳，看了 SFP）：展会个人 + 无公司 → 留 C 储备 + dayjob_fit",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-38",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-38"
  },
  "SC-1864": {
   "verdict": "keep_C",
@@ -17561,13 +17587,15 @@
   "batch": "G1-01"
  },
  "SC-1890": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "法国；WA 已加；兴趣：对14机架 MC有兴趣 问了价格 → 冷名单无回应，WA 路径在 → 不刚性；留 C 储备",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：法国；WA 已加；兴趣：对14机架 MC有兴趣 问了价格 → 冷名单无回应，WA 路径在 → 不刚性；留 C 储备",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-04"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-04"
  },
  "SC-1891": {
   "verdict": "keep_C",
@@ -19463,16 +19491,18 @@
   ]
  },
  "SC-2052": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 Nadhimentera Engineering（Shamsul Kamal director；gmail；做 CCTV / IP，着重问 SFP 多模 + 1×9 模块）：光模块本职线 + 马来西亚无先例 → 留 C + dayjob_fit",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 Nadhimentera Engineering（Shamsul Kamal director；gmail；做 CCTV / IP，着重问 SFP 多模 + 1×9 模块）：光模块本职线 + 马来西亚无先例 → 留 C + dayjob_fit",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-40",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-40"
  },
  "SC-2053": {
   "verdict": "keep_C",
@@ -20647,13 +20677,15 @@
   "batch": "G1-40"
  },
  "SC-2153": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "南非 Ronald Msimango（gmail；用 PoE 比较多，问了 DIN PoE）：南非先例在但个人无公司 → 留 C 储备（坐实公司后看）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：南非 Ronald Msimango（gmail；用 PoE 比较多，问了 DIN PoE）：南非先例在但个人无公司 → 留 C 储备（坐实公司后看）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-40"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-40"
  },
  "SC-2154": {
   "verdict": "pool",
@@ -21290,13 +21322,15 @@
   ]
  },
  "SC-2210": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "越南 Nguyen（nguyendinhhuanhd@gmail.com；要了价格册 / 中文报价，「商业品需求大」）：需求 ✔ 但无公司 / 无域名 → 留 C 储备（来询即报，坐实公司后转候选）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：越南 Nguyen（nguyendinhhuanhd@gmail.com；要了价格册 / 中文报价，「商业品需求大」）：需求 ✔ 但无公司 / 无域名 → 留 C 储备（来询即报，坐实公司后转候选）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-40"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-40"
  },
  "SC-2211": {
   "verdict": "keep_C",
@@ -21362,16 +21396,18 @@
   ]
  },
  "SC-2217": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "印度 Shinho India（shinhoindia.com no_mx；A.V. Venkat，gmail；问台式 EDFA，名片 PON / OTDR 类）：PON / OTDR / EDFA 本职线 → 留 C + dayjob_fit",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：印度 Shinho India（shinhoindia.com no_mx；A.V. Venkat，gmail；问台式 EDFA，名片 PON / OTDR 类）：PON / OTDR / EDFA 本职线 → 留 C + dayjob_fit",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-40",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-40"
  },
  "SC-2218": {
   "verdict": "pass_final",
@@ -25502,13 +25538,15 @@
   "batch": "G1-43"
  },
  "SC-2575": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "尼日利亚；WA 已加；兴趣：在多功能的帖子下评论的 要价格和规格书 → 冷名单无回应，WA 路径在 → 不刚性；留 C 储备",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：尼日利亚；WA 已加；兴趣：在多功能的帖子下评论的 要价格和规格书 → 冷名单无回应，WA 路径在 → 不刚性；留 C 储备",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-04"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-04"
  },
  "SC-2576": {
   "verdict": "keep_C",
@@ -26280,16 +26318,18 @@
   "batch": "G1-44"
  },
  "SC-2637": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 Orient Telecoms：用 Adva DWDM、Raisecom 工业机，着重问 L2 管理交换机 → 对位但 Simon 判不行、区域次级；留 C；DWDM 本职可参考",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 Orient Telecoms：用 Adva DWDM、Raisecom 工业机，着重问 L2 管理交换机 → 对位但 Simon 判不行、区域次级；留 C；DWDM 本职可参考",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-04",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-04"
  },
  "SC-2638": {
   "verdict": "keep_C",
@@ -26810,16 +26850,18 @@
   "date": "2026-10-29"
  },
  "SC-2684": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "匈牙利；WA 已加；兴趣：optical converter 的价格 来过两次 对SDI有兴趣 问价格；邮件曾退信 → Simon 曾判不行；WA 路径在、无刚性 pass 证据 → 留 C（不主动碰）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：匈牙利；WA 已加；兴趣：optical converter 的价格 来过两次 对SDI有兴趣 问价格；邮件曾退信 → Simon 曾判不行；WA 路径在、无刚性 pass 证据 → 留 C（不主动碰）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-04",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-04"
  },
  "SC-2685": {
   "verdict": "keep_C",
@@ -28370,13 +28412,15 @@
   ]
  },
  "SC-2813": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "意大利 SIO S.p.A.（展会：Ubiquiti 用户、要 Passive PoE 输入；名片 Enrico Butera；退信）→ Passive PoE 不供 + 退信；留 C",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：意大利 SIO S.p.A.（展会：Ubiquiti 用户、要 Passive PoE 输入；名片 Enrico Butera；退信）→ Passive PoE 不供 + 退信；留 C",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-07"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-07"
  },
  "SC-2814": {
   "verdict": "keep_C",
@@ -28485,16 +28529,18 @@
   ]
  },
  "SC-2823": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "俄罗斯 ST Space Technology（商业 PoE / CCTV 自有 logo，WeChat LudaAppel）→ 俄区；退信但 WeChat 在；Simon 判不行",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：俄罗斯 ST Space Technology（商业 PoE / CCTV 自有 logo，WeChat LudaAppel）→ 俄区；退信但 WeChat 在；Simon 判不行",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-02",
+  "batch": "AB-FINAL-02",
   "tags": [
    "oem_target"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-02"
  },
  "SC-2824": {
   "verdict": "keep_C",
@@ -28782,13 +28828,15 @@
   ]
  },
  "SC-2846": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "韩国 DEONET（denot.co.kr nxdomain；退信；attn KIM YEONG MAN；问 PoE 芯片 / GPON / EPON；9 推）：域名疑拼错（deonet）+ 有人名 → 非刚性 → 留 C 待巡检（找正确域名后可转候选）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：韩国 DEONET（denot.co.kr nxdomain；退信；attn KIM YEONG MAN；问 PoE 芯片 / GPON / EPON；9 推）：域名疑拼错（deonet）+ 有人名 → 非刚性 → 留 C 待巡检（找正确域名后可转候选）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-32"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-32"
  },
  "SC-2847": {
   "verdict": "keep_C",
@@ -28909,13 +28957,15 @@
   "batch": "G1-45"
  },
  "SC-2857": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "澳大利亚 Tropical Computers Cairns（tropicalcompaters.com.au nxdomain 疑拼错；退信；问 VC / switch；手机 +61 4477 90936）：电话路径在 → 留 C 待巡检",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：澳大利亚 Tropical Computers Cairns（tropicalcompaters.com.au nxdomain 疑拼错；退信；问 VC / switch；手机 +61 4477 90936）：电话路径在 → 留 C 待巡检",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-32"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-32"
  },
  "SC-2858": {
   "verdict": "pass_final",
@@ -29485,13 +29535,15 @@
   "batch": "G1-04"
  },
  "SC-291": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 FGSS（fgss.asia；展会「需要报价单」）：有互动但四主区外、无进口证据；未触达 → 留 C（储备）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 FGSS（fgss.asia；展会「需要报价单」）：有互动但四主区外、无进口证据；未触达 → 留 C（储备）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-12"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-12"
  },
  "SC-2910": {
   "verdict": "pass_final",
@@ -30630,16 +30682,18 @@
   "batch": "G1-33"
  },
  "SC-3007": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 KS IT Solutions（ks-itsolutions.com 域正常；退信；懂 WDM、问 CWDM 是否无源；地址 i-City Selangor；igbal@ 具名；手机在表；1 推）：本职线 WDM → 留 C + dayjob_fit；退信待巡检（手机路径在）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 KS IT Solutions（ks-itsolutions.com 域正常；退信；懂 WDM、问 CWDM 是否无源；地址 i-City Selangor；igbal@ 具名；手机在表；1 推）：本职线 WDM → 留 C + dayjob_fit；退信待巡检（手机路径在）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-33",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-33"
  },
  "SC-3008": {
   "verdict": "pass_final",
@@ -30844,13 +30898,15 @@
   "date": "2026-10-29"
  },
  "SC-3026": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "喀麦隆 Norbert Ndongo（gmail；「有需求会说」，问了 catalog；WA 还没尝试加）：个人 + 无先例 → 留 C",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：喀麦隆 Norbert Ndongo（gmail；「有需求会说」，问了 catalog；WA 还没尝试加）：个人 + 无先例 → 留 C",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-46"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-46"
  },
  "SC-3027": {
   "verdict": "keep_C",
@@ -32795,16 +32851,18 @@
   "lt_prev_batch": "G1-47"
  },
  "SC-3204": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "西班牙；WA 已加；兴趣：问了GE SFP 网站主要是无源接头 有MC → Simon 曾判不行；WA 路径在、无刚性 pass 证据 → 留 C（不主动碰）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：西班牙；WA 已加；兴趣：问了GE SFP 网站主要是无源接头 有MC → Simon 曾判不行；WA 路径在、无刚性 pass 证据 → 留 C（不主动碰）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-04",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-04"
  },
  "SC-3205": {
   "verdict": "keep_C",
@@ -33297,16 +33355,18 @@
   "batch": "G1-47"
  },
  "SC-3249": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "埃及 Telecom Egypt（te.eg；Dr. Amr Mohamed Refaat，gmail ×2，领英电话；主动问 DWDM / general information）：巨头运营商 + DWDM 本职线 → 留 C 巨头 + dayjob_fit",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：埃及 Telecom Egypt（te.eg；Dr. Amr Mohamed Refaat，gmail ×2，领英电话；主动问 DWDM / general information）：巨头运营商 + DWDM 本职线 → 留 C 巨头 + dayjob_fit",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-47",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-47"
  },
  "SC-325": {
   "verdict": "keep_C",
@@ -35862,13 +35922,15 @@
   ]
  },
  "SC-432": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 CabNet Systems (M) Sdn. Bhd.（cabnet.asia；只用工业交换机、需 90W PoE、会中文）：PoE BT 90W Saga 不供 + 四主区外；未触达 → 留 C（储备）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 CabNet Systems (M) Sdn. Bhd.（cabnet.asia；只用工业交换机、需 90W PoE、会中文）：PoE BT 90W Saga 不供 + 四主区外；未触达 → 留 C（储备）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-14"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-14"
  },
  "SC-433": {
   "verdict": "keep_C",
@@ -35931,16 +35993,18 @@
   ]
  },
  "SC-439": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚；表分 群发冷名单无回应；兴趣：注重谈了CCTV应用 1+2+8商业POE，有时会用到，客户拍了照片 公司地址：A-5-10，Emp → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚；表分 群发冷名单无回应；兴趣：注重谈了CCTV应用 1+2+8商业POE，有时会用到，客户拍了照片 公司地址：A-5-10，Emp → 群发冷名单无回应，企业邮箱域正常 → 不刚性；留 C 储备",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-14",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-14"
  },
  "SC-440": {
   "verdict": "pool",
@@ -38392,16 +38456,18 @@
   ]
  },
  "SC-665": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "罗马尼亚 Civitas Systems Srl（civitasgroup.ro；问过 WDM、拿了 catalog、感觉不太懂）：WDM = 本职线；15 推 0 回 → 留 C + dayjob_fit",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：罗马尼亚 Civitas Systems Srl（civitasgroup.ro；问过 WDM、拿了 catalog、感觉不太懂）：WDM = 本职线；15 推 0 回 → 留 C + dayjob_fit",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-09",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-09"
  },
  "SC-666": {
   "verdict": "keep_C",
@@ -38481,13 +38547,15 @@
   ]
  },
  "SC-672": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "阿联酋 Ministry of Interior RAK Police（Haja Mohideen Rizmy；gmail；工业交换机问网管）：警务 / 政府 = 守界（不做不 pass）→ 留 C",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：阿联酋 Ministry of Interior RAK Police（Haja Mohideen Rizmy；gmail；工业交换机问网管）：警务 / 政府 = 守界（不做不 pass）→ 留 C",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-36"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-36"
  },
  "SC-673": {
   "verdict": "keep_C",
@@ -38517,13 +38585,15 @@
   "batch": "G1-16"
  },
  "SC-676": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 Puncak Niaga Holdings（水务集团；只用 Cisco 想找其他牌子，AP 多，问 PoE + 网管；Muhammad Azhari；gmail；手机）：巨头终端用户 → 不 pass → 留 C（来询被动报价）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 Puncak Niaga Holdings（水务集团；只用 Cisco 想找其他牌子，AP 多，问 PoE + 网管；Muhammad Azhari；gmail；手机）：巨头终端用户 → 不 pass → 留 C（来询被动报价）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-36"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-36"
  },
  "SC-677": {
   "verdict": "keep_C",
@@ -38553,22 +38623,26 @@
   ]
  },
  "SC-679": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 SPECTRUM（security 公司；展会谈了 CCTV 应用图 + 商业 PoE 1+2+8；Datuk Dr William Stevenson；icloud；手机）：展会接触 ✔ 对位 ✔ 但免费邮箱 + 马来西亚无先例 → 留 C 储备（一页纸一次后看）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 SPECTRUM（security 公司；展会谈了 CCTV 应用图 + 商业 PoE 1+2+8；Datuk Dr William Stevenson；icloud；手机）：展会接触 ✔ 对位 ✔ 但免费邮箱 + 马来西亚无先例 → 留 C 储备（一页纸一次后看）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-36"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-36"
  },
  "SC-680": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "马来西亚 SUREN Smart Electrical（旁边展位谈了很久；IP networking / CCTV；问 MC + 千兆 1+2+16 PoE 价格；Sathees Manager；gmail；手机）：展会接触 ✔ 具体需求 ✔ 决策人 ✔ 但免费邮箱 + 马来西亚无先例 → 留 C 储备（一页纸一次后看，有回应即转候选）",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）｜原：马来西亚 SUREN Smart Electrical（旁边展位谈了很久；IP networking / CCTV；问 MC + 千兆 1+2+16 PoE 价格；Sathees Manager；gmail；手机）：展会接触 ✔ 具体需求 ✔ 决策人 ✔ 但免费邮箱 + 马来西亚无先例 → 留 C 储备（一页纸一次后看，有回应即转候选）",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-36"
+  "batch": "AB-FINAL-02",
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-36"
  },
  "SC-681": {
   "verdict": "keep_C",
@@ -40204,16 +40278,18 @@
   "batch": "G1-10"
  },
  "SC-838": {
-  "verdict": "keep_C",
+  "verdict": "pool",
   "gate": 1,
   "rule": "G1",
-  "reason": "美国 Koscom Cable（koscomcable.com / cdc.ua；Sergii Kushnarov Founder；gmail；问 2 光 4 管理 bypass 怎么用；8 推 0 回）：bypass 本职线 + 乌克兰关联 → 留 C + dayjob_fit",
-  "date": "2026-10-29",
+  "reason": "A 级终评捞出（AB-FINAL-02）→ A：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）｜原：美国 Koscom Cable（koscomcable.com / cdc.ua；Sergii Kushnarov Founder；gmail；问 2 光 4 管理 bypass 怎么用；8 推 0 回）：bypass 本职线 + 乌克兰关联 → 留 C + dayjob_fit",
+  "date": "2026-10-30",
   "manual": true,
-  "batch": "G1-36",
+  "batch": "AB-FINAL-02",
   "tags": [
    "dayjob_fit"
-  ]
+  ],
+  "lt_prev_verdict": "keep_C",
+  "lt_prev_batch": "G1-36"
  },
  "SC-839": {
   "verdict": "keep_C",

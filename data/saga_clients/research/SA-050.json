@@ -81,7 +81,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-09→2025-10）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-09→2025-10）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -334,16 +334,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-09→2025-10）",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-09→2025-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-09-29] Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marv ‖ [A 2025-10-03] [cid:image001.png@01DC3465.BD049E50] We looking for devices like this &#128521; with CE power supply Prices ?  ‖ 表 2025.9.16: 24PoE→INFO ‖ 研 2025-09-29 Łukasz Gąsiewicz（Product Development Manager）: I cooworking with Bartosz pls send me you actual offer / 2"
+  "evidence": "[A 2025-09-29] Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marv ‖ [A 2025-10-03] [cid:image001.png@01DC3465.BD049E50] We looking for devices like this &#128521; with CE power supply Prices ?  ‖ 表 2025.9.16: 24PoE→INFO"
  },
  "override_history": [
   {
@@ -353,6 +353,212 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-09→2025-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-09→2025-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-09→2025-10）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Poland · KRS（rejestr.io / bizraport.pl / okredo 镜像，财报来自 KRS : IMPAKT SPÓŁKA AKCYJNA · KRS 0000585900 · NIP 7831720485 · REGON  · Czynny（活跃）· 最近登记第 43 号 2025-07 · 2015-11-13"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "poe",
+   "交换机",
+   "网络"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-09-29",
+    "A",
+    "Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marvell based industrial PoE switc"
+   ],
+   [
+    "2025-10-03",
+    "A",
+    "[cid:image001.png@01DC3465.BD049E50] We looking for devices like this &#128521; with CE power supply Prices ? MOQ ? Best regards, Łukasz Gąs"
+   ],
+   [
+    "2025.9.16",
+    "表",
+    "24PoE→INFO"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-10-03（12 月前）"
+  ],
+  "size": ">150",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "波兰·OEM 品牌商；登记坐实：Poland · KRS（rejestr.io / bizraport.pl / okredo 镜像，财报来自 KRS : IMPAKT SPÓŁKA AKCY。往来 2024-06-15→2026-09-28：我方去信 33 封（A 23 / S 7），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-09-29 A: Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marvell based industrial PoE switc ‖ 2025-10-03 A: [cid:image001.png@01DC3465.BD。我方报过：$13 / $65 / $170 / $220 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-10-03（12 月前）。",
+  "n_out": 33,
+  "n_in": 2,
+  "last_in": "2025-10-03",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "13",
+   "65",
+   "170",
+   "220",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025.9.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "24PoE",
+    "gist": "INFO",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-02-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "61cff604160f8752"
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "fc0db7896f64dde8"
+   },
+   {
+    "date": "2026-04-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "6eab7dccc1341ada"
+   },
+   {
+    "date": "2026-05-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "e4602f407a08d6f5"
+   },
+   {
+    "date": "2026-06-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "27f674d60e39f94b"
+   },
+   {
+    "date": "2026-07-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "044b5158a066a746"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "0395f7b8c3a1eead"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "0dc9bd5919cfea6c"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "20b554c10f88b764"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c70f1d12407368e7"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "a3a70f7cb2577eb2"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -246,7 +246,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -265,8 +265,146 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "巴基斯坦 · SECP 公司查询需交互验证码；本行为「无登记源」记录（据第 79 批研究档）: MT-Link Technologies Co. · （登记状态不可免费核）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-02-27",
+    "R",
+    "用户表跟进：推「发了24光combo型号」→ 对方「price」"
+   ],
+   [
+    "2024.1.18",
+    "表",
+    "发了2光4相关信息→16口POE 后续问了很多信息"
+   ],
+   [
+    "2024.2.27",
+    "表",
+    "发了24光combo型号→price"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 2024-02-27（32 月前）"
+  ],
+  "size": "未见人数（中小）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "巴基斯坦·OEM 品牌商；登记线索：巴基斯坦 · SECP 公司查询需交互验证码；本行为「无登记源」记录（据第 79 批研究档）: MT-Link Technologies Co. · （登记状态。往来 2024-01-18→2026-08-10：我方去信 2 封（A 2 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2024-02-27 R: 用户表跟进：推「发了24光combo型号」→ 对方「price」 ‖ 2024.1.18 表: 发了2光4相关信息→16口POE 后续问了很多信息 ‖ 2024.2.27 表: 发了24光combo型号→price。我方报过：$170。对位：STC-424DGGPM-280W；路径：企业邮箱 + WA；最近来信 2024-02-27（32 月前）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "2024-02-27",
+  "last_out": "2026-08-10",
+  "prices_out": [
+   "170"
+  ],
+  "timeline": [
+   {
+    "date": "2024-01-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2光4相关信息」→ 对方「16口POE 后续问了很多信息」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.1.18"
+   },
+   {
+    "date": "2024-02-27",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 WhatsApp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了24光combo型号」→ 对方「price」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.88 2024.2.27"
+   },
+   {
+    "date": "2024.1.18",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光4相关信息",
+    "gist": "16口POE 后续问了很多信息",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.2.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了24光combo型号",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "61345c495835cf03"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e46a56a1a0754324"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

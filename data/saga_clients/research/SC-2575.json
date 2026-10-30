@@ -1,0 +1,86 @@
+{
+ "code": "SC-2575",
+ "name_official": "kbmahe@gmail.com",
+ "researched_at": "2026-10-30",
+ "website_status": "待快照",
+ "summary": "尼日利亚客户（无域名）：AB-FINAL-02 以回信证据建档——非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）。公司底数未查（新入库即查排队）。",
+ "type": "",
+ "size": "",
+ "brands_seen": [],
+ "evidence": [
+  {
+   "kind": "邮箱来信/用户表",
+   "claim": "推「Simon 备注/兴趣栏」→ 对方「在多功能的帖子下评论的 \n要价格和规格书 ； 234803610 8717\n已加」",
+   "quote": "推「Simon 备注/兴趣栏」→ 对方「在多功能的帖子下评论的 \n要价格和规格书 ； 234803610 8717\n已加」",
+   "url": "Clients/ 表格",
+   "date": "2026-10-30"
+  }
+ ],
+ "kp": [],
+ "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "deep": {
+  "done_at": "2026-10-30",
+  "level": "AB-FINAL-02 回信建档"
+ },
+ "saga_fit": {
+  "p1": null,
+  "tier": 25,
+  "why": "待调研后给对位机型"
+ },
+ "mail_review": {
+  "as_of": "2026-10-30",
+  "facts": [
+   {
+    "date": "2026-10-30",
+    "dir": "Simon",
+    "who": "用户表（Simon 跟进记录）",
+    "quote": "推「Simon 备注/兴趣栏」→ 对方「在多功能的帖子下评论的 \n要价格和规格书 ； 234803610 8717\n已加」",
+    "why": "表内客户回复（pos）",
+    "k": "Clients/ 表格"
+   }
+  ],
+  "binding": {
+   "level": "轻度触达（有来信/表内回复，见 facts；无成单）",
+   "note": "AB-FINAL-02 建档"
+  },
+  "situation": "尼日利亚；2026-10-30 最后一次来信/回复：推「Simon 备注/兴趣栏」→ 对方「在多功能的帖子下评论的 \n要价格和规格书 ； 234803610 8717\n已加」",
+  "need": " ‖ 表 : Simon 备注/兴→在多功能的帖子下评论的 \n要价格和规格书 ； 234803610 8717\n已加",
+  "breakpoint": "来信后无成单；公司底数未查，不知对方身份/体量",
+  "saga_now": {
+   "p1": "—",
+   "tier": 25,
+   "price": "他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价"
+  },
+  "next_move": {
+   "when": "待公司底数",
+   "channel": "email",
+   "action": "先查公司底数（新入库即查）再按上次话题续谈",
+   "one_question": ""
+  }
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "",
+  "target": "B",
+  "grade_before": "C",
+  "reason": "",
+  "why_not": "非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 : Simon 备注/兴→在多功能的帖子下评论的 \n要价格和规格书 ； 234803610 8717\n已加"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "B",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
+  }
+ ],
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
+}

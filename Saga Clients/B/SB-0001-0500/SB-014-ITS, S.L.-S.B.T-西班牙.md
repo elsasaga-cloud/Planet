@@ -1,11 +1,11 @@
 # ITS, S.L.-S.B.T.
 **官方名称（调研核实）**：ITS, S.L. – S.B.T.（intecseg.com，Spain；实体待核）
 
-> **评级 B**　|　西班牙　|　档案编号 `SB-014`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　西班牙　|　档案编号 `SB-014`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 ✔ · 体量 小微（0–10 人））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）
 >
-> **类型**：待核实（疑似安防/电信安装商）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加；推送 20 次（2023-11-08 → 2025-10-06）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：待核实（疑似安防/电信安装商）（推断）　|　**历史关系**：WhatsApp 已加；推送 20 次（2023-11-08 → 2025-10-06）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-014
@@ -20,7 +20,7 @@ region: 欧洲
 website: intecseg.com
 type: 待核实（疑似安防/电信安装商）
 tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE"]
-deal: yes
+deal: no
 replies: 0
 followups: 20
 first_contact: 2023-11-08
@@ -31,14 +31,14 @@ price_tier: 25%
 research: done
 site_snapshot: http_error  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：用户表：西班牙「ITS, S.L.-S.B.T.」联系人 Vicente Jimenez（vicente.jimenez@intecseg.com，+34 616 913 800，WhatsApp 已加），兴趣工业交换机；20 次推送 0 回复。公开检索无法确认该域名对应公司，疑似已停用域名或小型安防/电信安装商。（调研 2026-10-21；表内兴趣：工业交换机）
-- **为什么是 B 级**：**调研后定级 B**（实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
-- **历史互动**：成交/下单过；WhatsApp 已加；推送 20 次（2023-11-08 → 2025-10-06）
+- **为什么是 B 级**：**调研后定级 B**（实体无法核实 + 20 次推送零回复；保留 WhatsApp 渠道慢跟，若其回复再补调研。）；自动分级 A：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；+5 最近活动 2025；-16 推送 20 次无任何回复（聋名单）
+- **历史互动**：WhatsApp 已加；推送 20 次（2023-11-08 → 2025-10-06）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商自用：STC-28DGGPM（8 PoE + 2 SFP）为主，STC-424DGGPM-280W 为大项目；集成商 25% 档；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
 - **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
@@ -78,7 +78,7 @@ updated: 2026-10-29
 
 - `intecseg.com` → 其他主机商邮箱（mx.serviciodecorreo.es）（MX：mx.serviciodecorreo.es）。主机商附带邮箱（mx.serviciodecorreo.es）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（西班牙 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（西班牙 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 窗口内无该国法定假日
 
@@ -260,7 +260,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -268,7 +268,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付；WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
+- **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：已推送 20 次无回复，邮件通道疲劳
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源；规模（调研）：未知
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -289,7 +289,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -304,7 +304,7 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 ```text
 Hi Vicente,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option. Since the last order, the 8-port PoE+ managed switch now ships with the 2 SFP uplinks as standard; if you have a CCTV job coming up in Menorca or Mallorca I can hold EXW pricing for 15 days.
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
@@ -329,12 +329,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）；人工/调研定级 → B
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 82）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

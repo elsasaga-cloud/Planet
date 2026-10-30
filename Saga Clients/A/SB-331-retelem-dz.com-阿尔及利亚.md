@@ -12,7 +12,7 @@ code: SB-331
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "EPE RETELEM SPA（ex-SONATITE）"
 score: 45
 country: 阿尔及利亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿尔及利亚国有经济公共企业（EPE SPA，1971 年成立，ELEC EL DJAZAIR 控股子公司，14 个分支），关键数字基础设施集成商：LAN/WAN、光纤、数据中心、SCADA、视频监控、PABX；联系人 Hichem Akchiche 2024 年要工业交换机 datasheet，对 2 光 8 PoE 有兴趣；官网出现 Ubiquiti。（调研 2026-10-21；表内兴趣：工业交换机）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/阿尔及利亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/阿尔及利亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 16 次（2024-04-28 → 2025-10-03）；最近一次客户回复：2025-10-03：email
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 其明确兴趣 = 2 光 8 电工业 PoE → Saga STI-288GP（$57.4/59.8/62.2）；管理版 STI-288GPM 备选。；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Hichem, en 2024 vous aviez demandé la fiche du switch industriel 8 PoE + 2 SFP — pour vos projets SCADA / fibre, souhaitez-vous la version managée (VLAN, ring) ou non managée pour un échantillon d'une pièce ?
@@ -147,7 +147,7 @@ updated: 2026-10-30
   > 回复：Datasheet；Email发了商业PoE 228信息；对2光8PoE有兴趣；email
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hichem Akchiche（联系人（研究档 KP；WA 已加；2024 要工业交换机 datasheet、对 2 光 8 PoE 有兴趣）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 L2 管理 / STI-288GPM $78.9 非管理 一口价 + MOQ 1 + 付费样机；关键基础设施按单核；法语备注 — 阿尔及利亚常规：英文稿（法语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳（第 123 批 官方登记核实 2026-10-29））hichem.akchiche@retelem-dz.com +213 770 760 449〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -215,6 +215,35 @@ updated: 2026-10-30
 | 2025-07-26 | 726 | 24 48口商业图 |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#10 |
 | 2025-10-03 | 103 | dac | email | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#10 |
 | ? | 93 | bypass |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#10 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETE: EPE RETELEM SPA（ex-SONATITE；retelem-dz.com；**signalhire 名录：54, Rue Omar Benaissa · 营业中（国企；官网 + 名录） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：industrial poe switch 交换机 光纤 工业 网络；P1 STI-288GP |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024.4.28 表: 发了工业交换机图→Datasheet ‖ 2024.8.14 表: 4 8口工业PoE→对2光8PoE有兴趣 |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+
+**故事线**：阿尔及利亚·集成商/安装商；登记线索：DZ · 1 次检索：signalhire.com/companies/epe-retelem-spa（EPE RETE: EPE RETELEM SPA（ex。往来 103→2026-09-02：我方去信 6 封（A 5 / S 1），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.4.28 表: 发了工业交换机图→Datasheet ‖ 2024.8.14 表: 4 8口工业PoE→对2光8PoE有兴趣。我方报过：$170 / $280 / $6000。对位：STI-288GP；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 103 | 表 | 表 | dac｜email |  |
+| 2024-06-20 | 去 | S | CCTV poe switch |  |
+| 2024.4.28 | 表 | 表 | 发了工业交换机图｜Datasheet |  |
+| 2024.8.14 | 表 | 表 | 4 8口工业PoE｜对2光8PoE有兴趣 |  |
+| 2025-10-03 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-18 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-10 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-02 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

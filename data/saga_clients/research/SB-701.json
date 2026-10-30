@@ -25,8 +25,8 @@
    "source": "S/A 邮箱来信 2024-10-30 来信 1 封（私人邮箱）（第 72 批从邮件表头补）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：美国 outlook 个人 chk999：2024-10 一句问 https；无公司主体",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -130,16 +130,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-10-30] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third ‖ 表 1030: 群发10gweb→支持https吗 ‖ 研 2024-10-30 Chavan: Does it have the https… and can we store third party https certificates ? / 2024-10-30 chk999@outlook.com: Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but ht"
+  "evidence": "[S 2024-10-30] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third ‖ 表 1030: 群发10gweb→支持https吗"
  },
  "override_history": [
   {
@@ -149,6 +149,214 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-10→2024-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：美国 outlook 个人 chk999：2024-10 一句问 https；无公司主体"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（仅表内信息）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "poe",
+   "工业"
+  ],
+  "p1": "STI-288GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1030",
+    "表",
+    "群发10gweb→支持https吗"
+   ],
+   [
+    "2024-10-30",
+    "S",
+    "Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Be"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2024-10-30（24 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：美国 outlook 个人 chk999：2024-10 一句问 https；无公司主体"
+  ],
+  "story": "美国；未坐实：无域名（仅表内信息）。往来 1030→2026-08-31：我方去信 25 封（A 20 / S 5），对方真人来信 1 封 + 表内/备注 1 条；对方问过：1030 表: 群发10gweb→支持https吗 ‖ 2024-10-30 S: Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Be。我方报过：$170 / $280 / $300。对位：STI-288GP；路径：免费邮箱 MX ok；最近来信 2024-10-30（24 月前）。",
+  "n_out": 25,
+  "n_in": 1,
+  "last_in": "2024-10-30",
+  "last_out": "2026-08-31",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "784ad63101c53975"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "344636742b7e20ef"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7205478407de39a7"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ecaf39c1f7863b83"
+   },
+   {
+    "date": "2026-03-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "746265b40e837967"
+   },
+   {
+    "date": "2026-03-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "0cca82767178568a"
+   },
+   {
+    "date": "2026-04-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9251892009c75098"
+   },
+   {
+    "date": "2026-05-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "044c2c35d9709d12"
+   },
+   {
+    "date": "2026-06-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d6f4010efac9f3b1"
+   },
+   {
+    "date": "2026-07-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "d89868e61a9505ef"
+   },
+   {
+    "date": "2026-07-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e7a9251c6200d5c6"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "7ab052e13938468c"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

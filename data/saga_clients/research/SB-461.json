@@ -48,8 +48,8 @@
    "source": "https://rejstrik.penize.cz/19014104-emos-spol-s-r-o"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -168,5 +168,217 @@
   "url": "https://www.emos.cz/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→问了商业POE，要小尺寸，介绍了4口的那个\n问了价格，不用工业级，拍了展位照片 ； 420 581 "
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "CZ · 1 次检索：rejstrik.penize.cz（EMOS spol. s r.o.；Šířava 295/1: EMOS spol. s r.o.（emos.cz / emos.eu；普热罗夫 Přerov I-Město Šířa · IČO 19014104；DIČ CZ19014104；C 1167 KS Os · Aktivní（Legrand 子公司） · 1991-07-18"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "工业",
+   "网络"
+  ],
+  "p1": "STC-024GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→问了商业POE，要小尺寸，介绍了4口的那个\n问了价格，不用工业级，拍了展位照片 ； 420 581 261 203\n420 581 261 172\n420 72"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-12-06（22 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "捷克·分销商；登记坐实：CZ · 1 次检索：rejstrik.penize.cz（EMOS spol. s r.o.；Šířava 295/1: EMOS spol. s r.o.（。往来 2023→2026-10-01：我方去信 25 封（A 18 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→问了商业POE，要小尺寸，介绍了4口的那个\n问了价格，不用工业级，拍了展位照片 ； 420 581 261 203\n420 581 261 172\n420 72。我方报过：$65 / $170 / $280 / $300 / $6000。对位：STC-024GP；路径：企业邮箱 MX ok；最近来信 2024-12-06（22 月前）。",
+  "n_out": 25,
+  "n_in": 0,
+  "last_in": "2024-12-06",
+  "last_out": "2026-10-01",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "3e37c11ec8ef5acf"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8a3069958544ee81"
+   },
+   {
+    "date": "2025-12-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "fadfe1feb17a65a8"
+   },
+   {
+    "date": "2026-01-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "1a2b6f876dafece8"
+   },
+   {
+    "date": "2026-02-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b70e928ab19802d9"
+   },
+   {
+    "date": "2026-03-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "33b3ce586fe0140c"
+   },
+   {
+    "date": "2026-04-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5bfbb37cf1b7971e"
+   },
+   {
+    "date": "2026-05-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5d4d3080542b93aa"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "bf870234e6610a52"
+   },
+   {
+    "date": "2026-07-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "1c54c3382045a1e3"
+   },
+   {
+    "date": "2026-08-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "587837460cbfb66a"
+   },
+   {
+    "date": "2026-10-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "ae1ca47711d41952"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

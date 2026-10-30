@@ -39,8 +39,8 @@
    "role": "经营者（2025-03 回 Interested；2025-05 要 5 电口具体信息）= 收件人 — 一页纸一次：集成商 25% B small、直接报 STC-228GP（8 PoE + 2 SFP）+ 5 口 STI-054GP（4 PoE + 1 GE）按主表现价、MOQ 1、付费样机、预付 100%、小额快递 DAP— 泰国常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、NBTC 不声称（第 117 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：身份未坐实",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n邮件一次性给 STI-244GP/5 口型号资料即可。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -152,10 +152,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）",
   "why_not": "",
   "excl": "",
@@ -171,6 +171,213 @@
    "to": "A",
    "prev_reason": "微型经销商、5 口非管理交换机客单价极低、WA 不通 → 慢跟。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-03→2025-05）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：身份未坐实"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "快照失败（tj2003.net：域名不可达（DNS/连接失败），2026-10-29，第 2 次）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-03-18",
+    "A",
+    "interested ในวันที่ อ. 18 มี.ค. 2025 10:00 Alan from Saga Telecom < a.sagatelecom@gmail.com> เขียนว่า:"
+   ],
+   [
+    "2025-03-18",
+    "R",
+    "interested（回 Alan 2025-03-18「8 Port Industrial PoE Switch」）"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-05-14（17 月前）"
+  ],
+  "size": "微型（待补证）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "身份未坐实"
+  ],
+  "story": "泰国·分销商；未坐实：快照失败（tj2003.net：域名不可达（DNS/连接失败），2026-10-29，第 2 次）。往来 2025-02-12→2026-09-07：我方去信 19 封（A 17 / S 1），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-03-18 A: interested ในวันที่ อ. 18 มี.ค. 2025 10:00 Alan from Saga Telecom < a.sagatelecom@gmail.com> เขียนว่า: ‖ 2025-03-18 R: interested（回 Alan 2025-03-18「8 Port Industrial PoE Switch」）。我方报过：$170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-05-14（17 月前）。",
+  "n_out": 19,
+  "n_in": 2,
+  "last_in": "2025-05-14",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial PoE Switch",
+    "gist": "Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1836c0d8f492dffc"
+   },
+   {
+    "date": "2025-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "84c0115306cd3bb9"
+   },
+   {
+    "date": "2025-08-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "bc314f45ca950f89"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a220f12fb479cf40"
+   },
+   {
+    "date": "2025-10-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "489c4be3fc8fe3f2"
+   },
+   {
+    "date": "2025-11-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c1170fa0094d41cf"
+   },
+   {
+    "date": "2025-12-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "56dac83530328d06"
+   },
+   {
+    "date": "2025.3.18",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "28PoE",
+    "gist": "Interested",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "bdad6c81aeb4f0bf"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "1e8863fd37ada96a"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "dba2bddb20e36445"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "eb41ac40fea7bcd4"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

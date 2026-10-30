@@ -1,11 +1,11 @@
 # setko.uz
 **官方名称（调研核实）**：SETKO ООО — 「Умный Дом」
 
-> **评级 B**　|　乌兹别克斯坦　|　档案编号 `SC-1393`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　乌兹别克斯坦　|　档案编号 `SC-1393`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径　|　标签：q33_hold
 >
-> **类型**：分销（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：A优质名单(俄语国家)、AI评估(俄语国家)·DONE、用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-1393
@@ -20,7 +20,7 @@ region: 俄语区
 website: setko.uz
 type: 分销（闸 2 判定 · 20% 档）
 tier_tags: ["A优质名单(俄语国家)", "AI评估(俄语国家)·DONE", "用户判定不行"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -31,14 +31,14 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：C 池三闸捞出（○ 正式）：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径（调研 2026-10-29；表内兴趣：18 19年买了洪瑞一些POE switch 主要是CCTV类产品；CCTV）
-- **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径；闸 1：乌兹别克斯坦 setko.uz：2018/19 买过洪瑞 PoE 交换机（CCTV 类）；成单 + 对位 ✔；退信但域名 MX 正常 → 闸 2 查底数 + 找新地址）；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/乌兹别克斯坦
-- **历史互动**：成交/下单过
+- **为什么是 B 级**：**调研后定级 B**（Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 成单回访 · 分销 20% / 集成 25%：SETKO ООО（塔什干；Panasonic / Siemens / Samsung 企业通信官方供应商 + 安防 / 网络；top.uz 公开 nikolay@setko.uz）部分坐实（ИНН 未取）；成单 ✔ 对位 ✔ 坐实 ✔ → P 池候选（退信 → 改发 nikolay@）；Q-33 口径；闸 1：乌兹别克斯坦 setko.uz：2018/19 买过洪瑞 PoE 交换机（CCTV 类）；成单 + 对位 ✔；退信但域名 MX 正常 → 闸 2 查底数 + 找新地址）；自动分级 C：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/乌兹别克斯坦
+- **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-228GP — 默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）；
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
@@ -248,7 +248,7 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-228GP）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -256,7 +256,7 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源；对位其在用/在卖的 洪瑞：涨价、断货或交期拉长时切入；规模（调研）：小型（推定）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
@@ -277,7 +277,7 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ 洪瑞 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -291,7 +291,7 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+We have been in touch before about PoE and industrial switches; instead of a catalogue, here is one concrete option.
 
 We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
@@ -316,12 +316,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 11）；人工/调研定级 → B
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 C，分数 11）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

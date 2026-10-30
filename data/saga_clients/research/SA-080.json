@@ -116,7 +116,7 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "channels": {
   "公开动态平台（监控中，T29-U18）": "官网 pbacctv.com（泰文 CCTV 安装商站：Hikvision 套餐价、电源/UPS 类目，持续上新）；LINE peeranun8336；电话 098-265-6972 / 086-544-2684 / 02-050-0699；pomnong9@gmail.com"
  },
@@ -264,7 +264,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -283,6 +283,139 @@
    "to": "A",
    "prev_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记线索",
+   "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: PBA Forever Technology Co., Ltd. · （登记状态不可免费核）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [],
+  "p1": "",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "免费邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "泰国·集成商/安装商；登记线索：泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: PBA Forever Technology。往来 2024-10-12→2026-07-06：我方去信 8 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：待定；路径：免费邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 8,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-07-06",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-10-12",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → PBA（整线报价表《2.5g 10g network switc",
+    "subj": "",
+    "gist": "23 款 Realtek 2.5G/10G 商用机两列价：列表 USD/RMB 与 BEST OFFER USD/RMB——STC-15XGDGE $36→$34（¥252→¥238）、18XGDGE $48→$46、216XGDGE $175→$168、224XGDGE $196→$190、80XGO $80→$77",
+    "prices": [],
+    "bulk": false,
+    "k": "data/pi_2026-10/text/…13_泰国_Peeranun…Copy_of_Reply_on_Copy_of_2.5g_10g_network_switch_121024_new.xls"
+   },
+   {
+    "date": "2024-10-14",
+    "dir": "out",
+    "box": "R",
+    "from": "HRUI → Saga（交期价格确认_2024.10.14.xlsx，1st o",
+    "subj": "",
+    "gist": "ZX-SWTG015AS ×3 ¥200 / ZX-SWTG018AS ×3 ¥270 / ZX-SWTG1216AS ¥980 / ZX-SWTG1224AS ¥1,100（「有最开始不带风扇的裸机…新的外壳 11-8 到」）/ ZX-SWTG1C8F ×2 ¥450 / ZX900-AFG-SWTG015ANS ×",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 13_Peeranun"
+   },
+   {
+    "date": "2024-10-14",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STSC20241014013（第 1 单，Simon 开，RM",
+    "subj": "",
+    "gist": "21 台 ¥13,083，全部 \"Sample Testing\"：STC-15XGDGE ×3 @¥238、STC-18XGDGE ×3 @¥322、STC-216XGDGE ×1 @¥1,176、STC-224XGDGE ×1 @¥1,330、STC-80XGO ×2 @¥539、STC-114XGDGP ×3 @¥",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/1st order/STSC20241014013.xls`"
+   },
+   {
+    "date": "2025-01-16",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STSC20250116013（第 2 单）+ 凌特销售合同 P",
+    "subj": "",
+    "gist": "STI-21616GP ×2 @¥1,050（Unmanaged）、STI-21616DGGPM ×2 @¥1,460、STI-42424DGGPM ×1 @¥2,200、STI-42424DGGPM-U ×1 @¥2,400（Marvell Chip；不含电源，带 Console 线）= 6 台 ¥9,620；进货（",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/2nd order/STSC20250116013.xls` + `郑州仨戛…P20250220-01_未税8460RMB.doc`"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STSC20250827013（第 3 单）+ P2025090",
+    "subj": "",
+    "gist": "STI-21616GP ×2 @¥1,050 \"Exactly the same as last order STSC20250116013\" = ¥2,100；进货 LT-IS6018GP-2GX16GT ×2 @¥952 = ¥1,904（DC44-57V 供电）。",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/3rd order/STSC20250827013.xls` + `P20250909-01_未税1904RMB.doc`"
+   },
+   {
+    "date": "2025-09-24",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STSC20250924013（第 4 单，Neutral）",
+    "subj": "",
+    "gist": "STC-15XGDGE ×5 @¥238、STC-80XGO ×5 @¥539、STC-108XGDGP ×5 @¥413、STC-18XGDGPW ×3 @¥462 = 18 台 ¥7,336（Realtek 10G 线复购，单价与首单相同）。",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/4th order/STSC20250924013.xls`"
+   },
+   {
+    "date": "2025-12-12",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STSC20251212013（第 5 单）+ P2025121",
+    "subj": "",
+    "gist": "STI-42424DGGPM ×1 @¥2,200；进货 LT-IS6328GP-4GX24GT ¥1,912 + 运费 ¥13。",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/5th order/STSC20251212013.xls` + `P20251215-01_未税1912RMB.doc`"
+   },
+   {
+    "date": "2026-07-06",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga PI STSC20260706013（第 6 单）+ P2026072",
+    "subj": "",
+    "gist": "STI-21616GP ×3 @¥1,050 \"Exactly the same as last order STSC20250827013\" = ¥3,150；进货 ×3 @¥952 + 运费 ¥28 = ¥2,884。",
+    "prices": [],
+    "bulk": false,
+    "k": "PI 包 `13_泰国_Peeranun_活跃_货代走账_轻度绑定/STSC20260706013.xls` + `P20260723-01_未税2884RMB.doc`"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

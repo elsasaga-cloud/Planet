@@ -12,7 +12,7 @@ code: SA-051
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 
 name_official: "Tecpro Solutions Co. L.L.C.（迪拜，2004 年成立）"
 score: 73
 country: 阿联酋
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿联酋 IT + ELV 系统集成商（IT 基础设施、智能楼宇、安防、BMS），2004 年创立，迪拜/阿布扎比/艾因/印度科钦设办公室，11–50 人；用户记录 3 次回复并已加 WhatsApp（Rafi），询过 HDMI 转换器。（调研 2026-10-21；表内兴趣：HDMI converter 网站：看到了switch  电缆类目）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 23 次（2023-11-29 → 2025-10-27）；最近一次客户回复：2024-10-25：最近来中国
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — ELV 项目 PoE（他问过 HDMI 转换器，不做）→ 24 口 PoE+ 管理 + 8 口 PoE+ 2 SFP 两款 EXW，带 CE 文件；—；群发里他已看到的价（续）：2026-07-24 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-04-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：We do not build HDMI converters, but for the camera and ELV closets in your projects the Marvell-based 24-port PoE+ managed switch and the 8-port PoE+ 2 SFP unit are the two I can quote EXW with CE files.
@@ -156,7 +156,7 @@ updated: 2026-10-30
   > 来源：https://www.protenders.com/companies/tecpro-solutions-llc（抓取 2026-10-21）
 - **KP**：Mohammed Rafi（Executive Director） +971 50 4489928（用户记录 WA）〔用户 Clients 表 + LinkedIn 职务〕
 - **KP**：MD Shereef（（用户记录））shereef@tecprosolutions.com 〔用户 Clients 表〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。
@@ -235,6 +235,38 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2025-09-24 | 924 | dac |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#38 |
 | 2025-10-27 | 1027 | mini |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#38 |
 | ? | 52 | 4 8 16口工业POE |  | Whatsapp |  | 阿联酋 沙特阿拉伯  2.3.xlsx#38 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Tecpro Solutions Co. L.L.C.（TPS） · （登记状态不可免费核） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din industrial switch；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-08-17 R: 用户表跟进：推「passive poe手册」→ 对方「price」 ‖ 2024.6.18 表: 发了几个商业交换机图→需要工业级的 ‖ 2024.8.17 表: passive poe手册→price |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-10-25（24 月前） |
+| ⑤ 规模 | 个人/微型 | 51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：阿联酋·集成商/安装商；登记线索：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Tecpro Solutions C。往来 1025→2026-10-01：我方去信 8 封（A 8 / S 0），对方真人来信 0 封 + 表内/备注 4 条；对方问过：1025 表: 8电口→最近来中国 ‖ 2024-08-17 R: 用户表跟进：推「passive poe手册」→ 对方「price」 ‖ 2024.6.18 表: 发了几个商业交换机图→需要工业级的 ‖ 2024.8.17 表: passive poe手册→price。我方报过：$170 / $280。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok + WA；最近来信 2024-10-25（24 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-10-25 | 来 | R | 用户表跟进：推「8电口」→ 对方「最近来中国」 |  |
+| 2024.5.16 | 表 | 表 | 发了mini工业交换机图片｜ok |  |
+| 2024.6.18 | 表 | 表 | 发了几个商业交换机图｜需要工业级的 |  |
+| 2024.8.17 | 表 | 表 | passive poe手册｜price |  |
+| 2026-03-23 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-21 | 去 | A | Industrial PoE Switch |  |
+| 2026-04-29 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-27 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-23 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-24 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-20 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-10-01 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

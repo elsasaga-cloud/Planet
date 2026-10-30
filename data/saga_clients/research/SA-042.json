@@ -251,16 +251,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 6 封 / 表内 1 条 / 研究档 2 条（AS；2024-01→2025-08）",
+  "reason": "真回信 6 封 / 表内 2 条 / 研究档 0 条（AS；2024-01→2025-08）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-08-09] Thank you. Yes, please send manual as well... ‖ [A 2025-08-11] No worries. Thank you ‖ 表 2025.8.9: 商业24光Combo→INFO ‖ 研 2024-04-19 Peter: Do you have any of the 4168 in USA? Can I get a sample or do you have one online / 2025-08-08 Peter: Thanks.. I'd be interested in the pricing…"
+  "evidence": "[A 2025-08-09] Thank you. Yes, please send manual as well... ‖ [A 2025-08-11] No worries. Thank you ‖ 表 : Simon 备注/兴→商业switch L2 L3 10G\n问了2.5G 10G类产品"
  },
  "override_history": [
   {
@@ -270,8 +270,235 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 2 条（AS；2024-01→2025-08）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 2 条（AS；2024-01→2025-08）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 2 条 / 研究档 0 条（AS；2024-01→2025-08）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 1 条 / 研究档 2 条（AS；2024-01→2025-08）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 2 条 / 研究档 0 条（AS；2024-01→2025-08）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · 新泽西州公司（Bloomberg / D&B / Buzzfile 登记摘要）+ 官网 About（2026: ANTRONIX, INC. · New Jersey corporation（州登记号待补） · 经营中、私人持有（官网 2026-10「still priv · 1980-03-12"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "交换机",
+   "光纤"
+  ],
+  "p1": "STC-424XGGPM-280W",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→商业switch L2 L3 10G\n问了2.5G 10G类产品"
+   ],
+   [
+    "2024-01-20",
+    "S",
+    "Thank you. Can you send me your full catalog; or switches routers with more than 2 SFP ports. Or more than 2 sfp+ ports. I need 1G SFP and 2"
+   ],
+   [
+    "2024-04-19",
+    "S",
+    "Do you have any of the 4168 in USA? Can I get a sample or do you have one online for me to initially investigate? Thanks Peter"
+   ],
+   [
+    "2025-08-08",
+    "A",
+    "Thanks.. I’d be interested in the pricing… Thanks Peter"
+   ],
+   [
+    "2025-08-09",
+    "A",
+    "Thank you. Yes, please send manual as well..."
+   ],
+   [
+    "2025.8.9",
+    "表",
+    "商业24光Combo→INFO"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-08-11（14 月前）"
+  ],
+  "size": "30–34（Cranbury）（第 84 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记坐实：USA · 新泽西州公司（Bloomberg / D&B / Buzzfile 登记摘要）+ 官网 About（2026: ANTRONIX, INC. · N。往来 —→2026-09-07：我方去信 30 封（A 7 / S 23），对方真人来信 6 封 + 表内/备注 2 条；对方问过：2024-04-19 S: Do you have any of the 4168 in USA? Can I get a sample or do you have one online for me to initially investigate? Thanks Peter ‖ 2025-08-08 A: Thanks.. I’d be interested in the pricing… 。我方报过：$170 / $220 / $225 / $240 / $300 / $310。对位：STC-424XGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-08-11（14 月前）。",
+  "n_out": 30,
+  "n_in": 6,
+  "last_in": "2025-08-11",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "170",
+   "220",
+   "225",
+   "240",
+   "300",
+   "310"
+  ],
+  "timeline": [
+   {
+    "date": "2025-08-08",
+    "dir": "in",
+    "box": "A",
+    "from": "petertarquinio@antronix.com",
+    "subj": "RE: 24 Port Fiber Switch",
+    "gist": "Thanks.. I’d be interested in the pricing… Thanks Peter",
+    "prices": [],
+    "bulk": false,
+    "k": "42afe1e39f3c25e0"
+   },
+   {
+    "date": "2025-08-09",
+    "dir": "in",
+    "box": "A",
+    "from": "petertarquinio@antronix.com",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Thank you. Yes, please send manual as well...",
+    "prices": [],
+    "bulk": true,
+    "k": "b64dad136b4bdc24"
+   },
+   {
+    "date": "2025-08-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Re: 24 Port Fiber Switch",
+    "prices": [
+     "225",
+     "240",
+     "310"
+    ],
+    "bulk": false,
+    "k": "7533abba594ebc6d"
+   },
+   {
+    "date": "2025-08-11",
+    "dir": "in",
+    "box": "A",
+    "from": "petertarquinio@antronix.com",
+    "subj": "RE: 24 Port Fiber Switch",
+    "gist": "No worries. Thank you",
+    "prices": [],
+    "bulk": true,
+    "k": "dfc4ee1cd58c07be"
+   },
+   {
+    "date": "2025-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Re: 24 Port Fiber Switch",
+    "prices": [
+     "225",
+     "240",
+     "310"
+    ],
+    "bulk": false,
+    "k": "b9a76e92cd84f2bd"
+   },
+   {
+    "date": "2025-08-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Re: 24 Port Fiber Switch",
+    "prices": [
+     "225",
+     "310"
+    ],
+    "bulk": false,
+    "k": "f304f8fc45be4ede"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "L3 Managed Switch",
+    "gist": "L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b3848549ab9e97c5"
+   },
+   {
+    "date": "2025.8.9",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "商业24光Combo",
+    "gist": "INFO",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "a04bae8301389192"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "d6c898bfe09e796f"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "a486f4afbb35be91"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "13d4f0d125a79110"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

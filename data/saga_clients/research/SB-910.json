@@ -51,7 +51,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -189,6 +189,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A4 Simon 点名",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）"
   }
  ],
  "snap_thicken": {
@@ -225,15 +233,213 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-05-22] Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles. ‖ 表 2024.5.22: 发了4光24导轨式信→10 50 100个的价格 ‖ 研 2024-05-22 Charles Chaussonnier: What is the price DDP for 10, 50, 100 units?"
+  "evidence": "[S 2024-05-22] Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles. ‖ 表 2024.5.22: 发了4光24导轨式信→10 50 100个的价格"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，20: ETIC TELECOM · SIREN 380927475 · SIRET 38092747500026（总 · Active（A） · 1991-01-01"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "poe",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-05-22",
+    "S",
+    "Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles."
+   ],
+   [
+    "2024.5.22",
+    "表",
+    "发了4光24导轨式信息→10 50 100个的价格"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-05-22（29 月前）"
+  ],
+  "size": "20–49（员工档 12，2024）；2024 营收 €3,930,958 / 净利 €321,866（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "法国·OEM 品牌商；登记坐实：France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，20: ETIC TELECOM · SIR。往来 2024-05-22→2026-09-08：我方去信 26 封（A 0 / S 26），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-05-22 S: Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles. ‖ 2024.5.22 表: 发了4光24导轨式信息→10 50 100个的价格。我方报过：$65 / $170 / $240 / $280 / $300 / $1500。对位：STI-288DGGPM；路径：企业邮箱；最近来信 2024-05-22（29 月前）。",
+  "n_out": 26,
+  "n_in": 1,
+  "last_in": "2024-05-22",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "1500"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "28424a758e342314"
+   },
+   {
+    "date": "2025-07-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9d210e7c3812f596"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2059b1741c958812"
+   },
+   {
+    "date": "2025-09-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6589a599da3c563e"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "d743477f3e331ade"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e224f82b95ad85c2"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "ff1c8a405064d20c"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "cfc32f8ff07cedd6"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "d3627a62132a3679"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "b0561bf9923cd22b"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port 10G SFP+ Switch",
+    "gist": "24 Port 10G SFP+ Switch",
+    "prices": [
+     "1500"
+    ],
+    "bulk": false,
+    "k": "8093def8e5ae3cea"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "4f6cb988e33104e2"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

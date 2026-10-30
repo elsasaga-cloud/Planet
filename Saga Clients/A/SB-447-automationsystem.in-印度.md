@@ -12,7 +12,7 @@ code: SB-447
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Automation Systems and Solution（Delhi）"
 score: 41
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德里工业自动化元器件分销商（工业网络设备、GSM 调制解调器、数据采集、机器安全、传感器、SMPS、浪涌保护；Teltonika），有自有编号 IND-D-M-FG-0402-N 等工业交换机（DIN 管理型 4/8/10 口），表内「从 ONV 买，几个台湾品牌」，Azad Khan 2025-04 对 2 光 4 PoE 回复要 DS。（调研 2026-10-21；表内兴趣：从ONV买 几个台湾品牌）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-10 → 2025-10-02）；最近一次客户回复：2025-04-10：ds
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-244GP — 其索 DS 的 2 光 4 PoE = Saga STI-244GP（$35.2/36.6/38.1，对位其 IND-D-M-FG-0402）；经销 20%。；自家实报 STI-244GP $35/pc（Elsa 2025-04-10，老汇率）→ 信稿写 $45 并点明 FX 7.2→6.7；按主表（研究档 saga_fit）；**第 63 批基准统一（规则 ㉕）**：STI-244GP 列表价 $49.5 → 老表 $45（非管理工业线成本表陈旧，档位价 $35.2 不可靠）；STI-244GPM 列表价 $77 → 20% 档 $64.6；群发里他已看到的价（续，第 66 批全量复核）：2024-06-14 $65（10G Media Converter）、2024-11-11 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-06-21 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-21；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Azad — Elsa quoted the STI-244GP at $35 in April 2025 (today $45 USD EXW, managed STI-244GPM $64.6); is it for a specific automation site, or stock next to your ONV units?
@@ -143,7 +143,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Azad Khan（GST 登记人 / 合伙经营 Automation Systems & Solution（indiamart）= 收件人；2025-04 对 2 光 4 PoE 回复要 DS（第 114 批 官方登记核实 2026-10-28））infoautomation18@gmail.com +91 99584 28786〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：R.K. (Rakesh Kumar) Sharma（CEO Automation Systems & Solution（indiamart / tatanexarc）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.indiamart.com/automation-systems-solution/profile.html〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -202,6 +202,38 @@ updated: 2026-10-30
 | 2025-05-12 | 512 | 16电 |  | E |  | E Replied 2026.08.04.xlsx#1 |
 | 2025-06-21 | 621 | 48口 |  | E |  | E Replied 2026.08.04.xlsx#1 |
 | 2025-10-02 | 102 | dac |  | E |  | E Replied 2026.08.04.xlsx#1 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RA: Automation Systems & Solution（automationsystem.in；**个体经营；GST · GSTIN 07AOCPK7395A1Z0 · Active · 20… |
+| ② 角色 / 对位 | 分销商 | 对位词：din ethernet fiber industrial poe sfp switch 交换机；P1 STI-244GP |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-04-10 E: Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE 交换机 2×GE SFP + 4×GE PoE，120W，P ‖ 2025-04-10 R: Thanks First, we need datasheet ‖ 2025.4.10 表: 群发… |
+| ④ 路径 | 活 | 免费邮箱 MX ok；最近来信 2025-04-10（18 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：印度·分销商；登记坐实：IN · 1 次检索：tatanexarc（Automation Systems And Solution；Mr. RA: Automation Systems。往来 2024-06-14→2025-04-22：我方去信 17 封（A 0 / S 13），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-04-10 E: Thanks First, we need datasheet Best regards AZAD KHAN 9958428786 [引文：Elsa 2025-04-10 11:30 推销 Marvell 工业 PoE 交换机 2×GE SFP + 4×GE PoE，120W，P ‖ 2025-04-10 R: Thanks First, we need datashe。我方报过：$65 / $300。对位：STI-244GP；路径：免费邮箱 MX ok；最近来信 2025-04-10（18 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-10-01 | 去 | S | 24 Port Passive PoE Switch |  |
+| 2024-10-21 | 去 | S | 8 Port Ethernet Switch |  |
+| 2024-11-11 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2024-11-12 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-12-27 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2024-12-31 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-12-31 | 去 | R |  |  |
+| 2025-04-10 | 来 | R | Thanks First, we need datasheet |  |
+| 2025-04-10 | 去 | R |  |  |
+| 2025-04-10 | 去 | R |  |  |
+| 2025-04-22 | 去 | R |  |  |
+| 2025.4.10 | 表 | 表 | 群发了2光4PoE｜ds |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

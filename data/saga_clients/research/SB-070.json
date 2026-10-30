@@ -54,8 +54,8 @@
    "role": "Director（研究档）= 抄送（第 116 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Neowine（韩国 fabless 芯片公司，想做代理但不懂网络产品）：行业外，2025-01 索样后无下文",
  "notes": "不再主动推送；对方主动来再谈。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -165,19 +165,225 @@
    "to": "A",
    "prev_reason": "Q-76 LT-R04 2026-10-29 复核打回 C 储备：neowine（韩国）：研究档「潜在代理（非本行业）」，唯一动作是 48 口索样后无下文 → 非本行业 → C 储备；c_sub=储备·复核打回 ；回信 / 询价即回 B",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2025-01→2025-01）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2025-01→2025-01）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Neowine（韩国 fabless 芯片公司，想做代理但不懂网络产品）：行业外，2025-01 索样后无下文"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2025-01→2025-01）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2025-01→2025-01）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2025-01-31] ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성: ‖ 表 1.31: 48口→sample ‖ 研 2025-01-31 John（Neowine）: ok i need sample"
+  "evidence": "[S 2025-01-31] ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성: ‖ 表 1.31: 48口→sample"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "KR · 1 次检索：jobkorea（㈜네오와인；사원수 20명；벤처기업；설립일 2002.06.04；자본금 5억: ㈜네오와인 Neowine Co., Ltd.（neowine.com；**设立 2002-06-04；대표 이효승 Lee Hyo-seung（= KP Jo · 营业中"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "网络"
+  ],
+  "p1": "STC-448DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "1.31",
+    "表",
+    "48口→sample"
+   ],
+   [
+    "2025-01-31",
+    "S",
+    "ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성:"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-01-31（21 月前）"
+  ],
+  "size": "待补证",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "人工终判：Neowine（韩国 fabless 芯片公司，想做代理但不懂网络产品）：行业外，2025-01 索样后无下文"
+  ],
+  "story": "韩国；登记线索：KR · 1 次检索：jobkorea（㈜네오와인；사원수 20명；벤처기업；설립일 2002.06.04；자본금 5억: ㈜네오와인 Neowine Co.,。往来 1.31→2026-03-09：我方去信 21 封（A 16 / S 5），对方真人来信 1 封 + 表内/备注 1 条；对方问过：1.31 表: 48口→sample ‖ 2025-01-31 S: ok i need sample 2025년 1월 31일 (금) 10:01, Simon from Saga Telecom <s.sagatelecom@gmail.com>님이 작성:。我方报过：$65 / $150 / $280 / $300。对位：STC-448DGGPM；路径：企业邮箱 MX ok；最近来信 2025-01-31（21 月前）。",
+  "n_out": 21,
+  "n_in": 1,
+  "last_in": "2025-01-31",
+  "last_out": "2026-03-09",
+  "prices_out": [
+   "65",
+   "150",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Networking Solutions",
+    "gist": "Marvell Networking Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "02687f9245f7e49f"
+   },
+   {
+    "date": "2025-06-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "15ad8acef0fab870"
+   },
+   {
+    "date": "2025-07-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port PoE Managed Switch",
+    "gist": "16 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5b1e3aa168e2970c"
+   },
+   {
+    "date": "2025-08-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial PoE Switch",
+    "gist": "Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4f00475d6578a117"
+   },
+   {
+    "date": "2025-09-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b4d8f3a2bc74494e"
+   },
+   {
+    "date": "2025-09-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "5aa6f17d6dfce618"
+   },
+   {
+    "date": "2025-10-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Media Converter",
+    "gist": "10G Media Converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "150c099c86c2e3f3"
+   },
+   {
+    "date": "2025-11-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cb83f0f1c3b080b7"
+   },
+   {
+    "date": "2025-12-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "223c26d3069154c9"
+   },
+   {
+    "date": "2025-12-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "3f07e69dc2671f85"
+   },
+   {
+    "date": "2026-02-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c414edc75ca0547a"
+   },
+   {
+    "date": "2026-03-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "576038f50eada826"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

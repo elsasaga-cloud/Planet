@@ -24,8 +24,8 @@
   }
  ],
  "kp": [],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：eminnovate.com 身份不可核（同名印度 IT 公司 eminnovate.co 与网络设备无关；1 查未得即停），仅 2025-06 一句「Any rear facing port switches?」",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -170,6 +170,14 @@
     "quote": "HOME | EM Innovations",
     "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
     "url": "https://www.eminnovate.com/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Eminnovate — IT services, Data Engineering, BI … Headquartered in India（与 eminnovate.com 是否同一主体未确认）",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://eminnovate.co/about-us/"
    }
   ],
   "proof_gaps": [
@@ -199,6 +207,22 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：eminnovate.com 身份不可核（同名印度 IT 公司 eminnovate.co 与网络设备无关；1 查未得即停），仅 2025-06 一句「Any rear facing port switches?」"
   }
  ],
  "snap_thicken": {
@@ -221,15 +245,117 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-06→2025-06）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-06→2025-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2025-06-29] Very interesting Any rear facing port switches? Sent from my iPhone ‖ 表 2025.6.29: 群发了48口→interested ‖ 研 2025-06-29 Michael（eminnovate.com）: Very interesting Any rear facing port switches?"
+  "evidence": "[E 2025-06-29] Very interesting Any rear facing port switches? Sent from my iPhone ‖ 表 2025.6.29: 群发了48口→interested"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索未命中（prospectoo Eminnovate eminnovate.co 印度 ≠ 本户，不采: eminnovate.com（用户表：美国；公司名未核）— 1 次检索仅命中印度浦那 Eminnovate（eminnovate.co；IT 服务 / 全渠道平 · 未知"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-06-29",
+    "E",
+    "Very interesting Any rear facing port switches? Sent from my iPhone"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-06-29（16 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "规模未知",
+   "人工终判：eminnovate.com 身份不可核（同名印度 IT 公司 eminnovate.co 与网络设备无关；1 查未得即停），仅 2025-06 一句「Any rear facing port switches?」"
+  ],
+  "story": "美国；登记线索：US · 1 次检索未命中（prospectoo Eminnovate eminnovate.co 印度 ≠ 本户，不采: eminnovate.com（用户表。往来 2025-04-05→2025-06-30：我方去信 2 封（A 0 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-29 E: Very interesting Any rear facing port switches? Sent from my iPhone。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-06-29（16 月前）。",
+  "n_out": 2,
+  "n_in": 1,
+  "last_in": "2025-06-29",
+  "last_out": "2025-06-30",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025-04-05",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To sales@solimedia.net，US-3 ",
+    "subj": "",
+    "gist": "Marvell Alleycat5 Solution — We are doing Marvell Alleycat5 chip for tailored networking solutions. 1, Support Web GUI change(Logo, model name, MAC, SN, SNMP, O",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-06-29",
+    "dir": "in",
+    "box": "R",
+    "from": "Michael（eminnovate.com）",
+    "subj": "",
+    "gist": "Very interesting Any rear facing port switches?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-06-30",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Sorry, it is not available on our list. On the market, there are some models available, but not many. Please check attached our Marvell based software feature l",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 197c0bbcf58da83a"
+   },
+   {
+    "date": "2025.6.29",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "群发了48口",
+    "gist": "interested",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://eminnovate.co/about-us/",
+    "quote": "Eminnovate — IT services, Data Engineering, BI … Headquartered in India（与 eminnovate.com 是否同一主体未确认）",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
  }
 }

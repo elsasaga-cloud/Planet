@@ -1,11 +1,11 @@
 # pro-tek.pro
 **官方名称（调研核实）**：Компания «МОДУЛЬ»（module-ltd.ru / pro-tek.pro，St. Petersburg, Russia；电信设备供应与集成）
 
-> **评级 B**　|　俄罗斯　|　档案编号 `SB-430`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　俄罗斯　|　档案编号 `SB-430`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 3/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✔ 交换机 · 登记 ✔ · 体量 小型）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay、ru_payment
 >
-> **类型**：安防集成/经销（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：群发(Russia)、群发(谷歌)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防集成/经销（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：群发(Russia)、群发(谷歌)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-430
@@ -19,7 +19,7 @@ region: 俄语区
 website: pro-tek.pro
 type: 安防集成/经销
 tier_tags: ["群发(Russia)", "群发(谷歌)"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -29,14 +29,14 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：圣彼得堡电信设备供应商/集成商 «Модуль»（供应 GPON、以太网交换机（Eltex MES 系列、PLANET MGSD-10080F 等）、VoIP 网关、MSAN、Softswitch/IMS；项目案例：圣彼得堡田径学院局域网、ГУ МВД（内务部总局）、Пирогов 国家医疗外科中心；pro-tek.pro 为其订货站 zakaz@pro-tek.pro）。用户表：SFP、MC、商用 Switch（TP-Link 为主也有其他品牌）、CCTV networking；一封邮件发不过去（bounce）。在售 PLANET 与 Eltex → Saga 同口型低价替代；内务部项目 → 守界按个案。（调研 2026-10-21；表内兴趣：SFP MC 商业Switch  TPlink为主 也有其他的牌子；SFP switch等  发不过去；switch CCTV networking等）
-- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
-- **历史互动**：成交/下单过
+- **为什么是 B 级**：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 群发批次名单；-25 邮件发不过去且无 WhatsApp 通道；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
+- **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424DGGPM-280W — 集成 25% 档：STC-424DGGPM-280W（24 GE PoE+ 4 SFP L2+，$140.1）对位 Eltex MES2124P；8 口 STC-28GPM（$62.2）；10G 上联 STC-424XGGM（$132.7）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-08-26 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 2 轮 2026-08-21→2026-08-26；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Are PoE / industrial switches something you still source today, or has that line been dropped?
 - **最大未知**：年走量与现供应商
@@ -231,7 +231,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -239,7 +239,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -260,7 +260,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -274,7 +274,7 @@ updated: 2026-10-29
 ```text
 Hello,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail.
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 26 August 2026 - and there was no reason to answer a mass mail. This one is specific.
 
 We supply a Marvell-based 24-port Gigabit PoE+ L2+ managed switch (280 W PoE budget, 4 uplinks) - model STC-424DGGPM-280W - that fits the same slot as your PLANET MGSD-10080F at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $140.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 
@@ -301,12 +301,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

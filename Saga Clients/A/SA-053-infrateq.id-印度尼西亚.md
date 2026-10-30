@@ -12,7 +12,7 @@ code: SA-053
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 
 name_official: "PT Divatel Pratama（Infrateq.com 电商 / divatel.co.id，雅加达，2001 年）"
 score: 73
 country: 印度尼西亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印尼雅加达 VoIP/PA 系统/联络中心/CCTV/工业网络解决方案商与分销商（2001 年，KOMINFO 持牌），CEO Ismed Sitepu 直接沟通（6 次回复、WA 在线），询过洪瑞（HRUI）工业 FS；LinkedIn 列'Offgrid CCTV Surveillance / Solar Panel Switch'等业务。（调研 2026-10-21；表内兴趣：洪瑞的工业FS）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07））；自动分级 A：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07））；自动分级 A：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 13 次（2024-05-11 → 2025-10-09）；最近一次客户回复：2025-01-03：hi
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / HRUI 工业款（研究档 P1） — 以 WeChat 为准。已打开的主题（2/2 封有打开记录）：「industrial poe switch」(2024-07-03)、「Re: industrial poe switch」(2024-07-04) → 读者兴趣偏「工业」；与 P1 同类，继续；—
 - **第一问（只问一个）**：Next to the HR600-AFG-822S you list on infrateq.com, the Marvell-based 8-port PoE+ 2-SFP managed DIN switch gives you a higher-tier SKU in InfrateQ packing at EXW cost; I can send the side-by-side spec sheet.
@@ -160,7 +160,7 @@ updated: 2026-10-30
 - **KP**：Ismed Sitepu（CEO & Founder）ismed@divatel.co.id +62 852-8940-4589（WA，官网与用户记录一致）〔用户 Clients 表 + LinkedIn + 官网〕
 - **KP**：Ismed Sitepu（Founder & CEO（2001 至今）；地址 2026-10-21 退信（554 5.7.1 Message not delivered）→ 先找替代地址）sales@divatel.id（公司公开） +62 852-8940-4589（网站公开 WA）〔https://www.linkedin.com/in/ismedsitepu/〕
 - **KP**：Bagus Widiyanto（Sales（infrateq.com 公开））— +62 812-9989-0595〔https://infrateq.com/156-industrial-poe-switch〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 1 条（S；2024-07→2024-07）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 6 条 / 研究档 0 条（S；2024-07→2024-07）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工业 FS'组合。离网/太阳能 CCTV 场景 → 工业 DC 供电 PoE 交换机（STI 工业线/HRUI STH 工业款）。P1：STI-288DGGPM 或 HRUI 对位 STH 工业 FS 机型（按 data/hrui_STC对照表.csv 核对），项目价阶 25%。
 
@@ -221,6 +221,38 @@ A 级中少见的'CEO 直接、6 次回复、WA 在线、需求对位 HRUI 工�
 | 2025-04-30 | 430 | marvell商业组合图 |  | 微信 |  | Whatsapp_S跟进 2026.08.04.xlsx#7 |
 | 2025-06-21 | 621 | 工业非管理组合图 |  | 微信 |  | Whatsapp_S跟进 2026.08.04.xlsx#7 |
 | 2025-10-09 | 109 | dac |  | 微信 |  | Whatsapp_S跟进 2026.08.04.xlsx#7 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. Divatel Pratama · （登记状态不可免费核） |
+| ② 角色 / 对位 | 分销商 | 对位词：din industrial poe switch 工业 网络；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 1118 表: 引流机型→IP67 switch ‖ 2024-07-04 S: Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divatel.co.id. Thanks ‖ 2024.7.3 表: 工业154→price and catalog |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-01-03（21 月前） |
+| ⑤ 规模 | ≥小型 | 2–10（LinkedIn） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：印度尼西亚·分销商；登记线索：印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. Divatel Pratama · （登记状态不。往来 1.3→2025-01-03：我方去信 2 封（A 0 / S 2），对方真人来信 2 封 + 表内/备注 6 条；对方问过：1023 表: 2.5g/10g network→price ‖ 1118 表: 引流机型→IP67 switch ‖ 2024-07-04 S: Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divatel。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-01-03（21 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 1118 | 表 | 表 | 引流机型｜IP67 switch |  |
+| 1211 | 表 | 表 | 电口｜hi |  |
+| 2024-07-03 | 去 | S | industrial poe switch |  |
+| 2024-07-04 | 来 | S | Re: industrial poe switch｜Hello Simon, You can send the email with cc to info@divatel.co.id and ismedst@gmail.com in case you are facing problems with… |  |
+| 2024-07-04 | 去 | S | Re: industrial poe switch |  |
+| 2024-07-04 | 来 | S | Re: industrial poe switch｜Hello Simon, Kindly chat me on wechat ismedsitepu, WA +6285289404589. Please also send catalog and price list to ismed@divat… |  |
+| 2024-09-26 | 来 | R | 用户表跟进：推「48口工业poe」→ 对方「hi」 |  |
+| 2024-11-18 | 来 | R | 用户表跟进：推「引流机型」→ 对方「IP67 switch」 |  |
+| 2024-12-11 | 来 | R | 用户表跟进：推「电口」→ 对方「hi」 |  |
+| 2024.7.3 | 表 | 表 | 工业154｜price and catalog |  |
+| 2025-01-03 | 来 | R | 用户表跟进：推「迷你」→ 对方「hi」 |  |
+| 926 | 表 | 表 | 48口工业poe｜hi |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

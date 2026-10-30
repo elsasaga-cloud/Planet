@@ -336,16 +336,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-09→2024-09）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-09→2024-09）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-09-27] Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas  ‖ 表 927: 154→price and moq ‖ 研 2024-09-27 Ling Fuentes: Can you please give me the price and minimum quantity? / 2024-09-27 ventas@energyplusystems.cl: Re: Industrial PoE Switch｜Hi Simon Can you please give me the price and minimum "
+  "evidence": "[S 2024-09-27] Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas  ‖ 表 927: 154→price and moq"
  },
  "override_history": [
   {
@@ -355,8 +355,218 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-09→2024-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-09→2024-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-09→2024-09）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-09→2024-09）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-09→2024-09）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试；本行为「无登记源」记录（据第 : Energyplus Systems（energyplusystems.cl） · （登记状态不可免费核）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-09-27",
+    "S",
+    "Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel"
+   ],
+   [
+    "927",
+    "表",
+    "154→price and moq"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-09-27（25 月前）"
+  ],
+  "size": "未见人数（小型）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "智利·分销商；登记线索：智利 · 无统一公开登记（SII 仅 RUT 校验），mercantil.com 未测试；本行为「无登记源」记录（据第 : Energyplus Systems。往来 2024-06-26→2026-09-08：我方去信 25 封（A 1 / S 24），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-09-27 S: Hi Simon Can you please give me the price and minimum quantity? Thank you Ling Fuentes F. Ingeniero de Ventas ventas@energyplusystems.cl Cel ‖ 927 表: 154→price and moq。我方报过：$38 / $65 / $170 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱；最近来信 2024-09-27（25 月前）。",
+  "n_out": 25,
+  "n_in": 1,
+  "last_in": "2024-09-27",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "38",
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-07-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "23ee3a6c76ab8c6a"
+   },
+   {
+    "date": "2025-08-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "5285f4f822d9a47d"
+   },
+   {
+    "date": "2025-09-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bb8e326988711b97"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "6da1fa692fe34306"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "af28968cae4de30c"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "d73a0cd9132ca0ec"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "b25c923d3507f3f3"
+   },
+   {
+    "date": "2026-03-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "cedb9435810de02a"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "d5e474126eb32856"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port 10G SFP+ Switch",
+    "gist": "24 Port 10G SFP+ Switch",
+    "prices": [
+     "1500"
+    ],
+    "bulk": false,
+    "k": "fd1a9009a3a0c59d"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "7ea24f4303e4aeb1"
+   },
+   {
+    "date": "927",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "154",
+    "gist": "price and moq",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

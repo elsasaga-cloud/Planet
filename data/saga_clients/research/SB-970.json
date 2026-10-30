@@ -70,7 +70,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -187,6 +187,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求"
   }
  ],
  "snap_thicken": {
@@ -198,7 +206,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -208,5 +216,190 @@
   "deal": "",
   "reply_class": "none",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、: EION Inc.（d/b/a EION Wireless；集团 PomeGran Inc.） · 联邦公司 3921174 · Business Number 870048014 · Active / Actif · 2001-07-16"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "network",
+   "poe",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "≈40 人（2009）；LinkedIn 51–200；高管 CEO Kalaichelvan / CTO Assadi / VP Eng Sumit Kumar / VP Sales Mistry（第 89 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "加拿大·集成商/安装商；登记坐实：CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、: EION Inc.（d/b/a EI。往来 2024-06-17→2026-03-04：我方去信 19 封（A 10 / S 8），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $220 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 19,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-03-04",
+  "prices_out": [
+   "65",
+   "220",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-01-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "9f782e4f7aee21e3"
+   },
+   {
+    "date": "2025-05-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial PoE Switch",
+    "gist": "Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "42b353c4b7abcf93"
+   },
+   {
+    "date": "2025-06-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "61890235b36f93f6"
+   },
+   {
+    "date": "2025-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d0794e7d4b8bf722"
+   },
+   {
+    "date": "2025-08-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3371b72d5fe0708f"
+   },
+   {
+    "date": "2025-09-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "4c542b98e78c69fe"
+   },
+   {
+    "date": "2025-10-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "06b4ae3154f62435"
+   },
+   {
+    "date": "2025-11-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b92d470be12f19da"
+   },
+   {
+    "date": "2025-12-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "8c72d41ed732b389"
+   },
+   {
+    "date": "2026-01-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "12bb3baae7fc5fc1"
+   },
+   {
+    "date": "2026-03-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "329d30eb2cc59521"
+   },
+   {
+    "date": "2026-03-04",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "Mini Industrial PoE Switch、Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

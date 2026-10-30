@@ -67,6 +67,22 @@
     "quote": "Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's specifications look promising, especially for non-PoE IP cameras and wireless radio equipment. However, we currently cannot receive samples fo",
     "why": "S 邮箱 真人来信（pos）",
     "k": "40e70b0706c53fbb"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.zoominfo.com/c/first-technology-ltd/353641354"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://za.linkedin.com/company/first-technology"
    }
   ],
   "binding": {
@@ -90,10 +106,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）",
   "why_not": "",
   "excl": "",
@@ -109,8 +125,138 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-08-16",
+    "S",
+    "Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's speci"
+   ],
+   [
+    "2024-08-16",
+    "S",
+    "Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offering these switches for sale to"
+   ],
+   [
+    "2024-08-16",
+    "S",
+    "Hi Simon, Thank you for the clarification and for considering us as a potential partner. I appreciate your offer; however, we are unable to "
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-08-16（26 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "对位不明",
+   "路径弱",
+   "规模未知",
+   "人工终判：First Technology（南非 Midrand；1983 年起的 IT 集成集团，1,001–5,000 人，营收 $413M；网络/存储/云）：2024-08 三封来信确认我方角色与 24 口 Passive PoE 规格——大型集成商渠道，需走正式采购；非主攻区"
+  ],
+  "story": "南非；未坐实：待快照。往来 2024-08-16→2024-08-16：我方去信 2 封（A 0 / S 2），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2024-08-16 S: Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's speci ‖ 2024-08-16 S: Hi Simon, Thank you for the a。我方报过：未见报价数字。对位：待定；路径：企业邮箱；最近来信 2024-08-16（26 月前）。",
+  "n_out": 2,
+  "n_in": 3,
+  "last_in": "2024-08-16",
+  "last_out": "2024-08-16",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-08-16",
+    "dir": "in",
+    "box": "S",
+    "from": "elberts@firsttech.co.za",
+    "subj": "Re: Passive PoE Switch",
+    "gist": "Hi Simon, Thank you for the clarification and for considering us as a potential partner. I appreciate your offer; however, we are unable to purchase or represen",
+    "prices": [],
+    "bulk": false,
+    "k": "fc10d9fa6d583071"
+   },
+   {
+    "date": "2024-08-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Passive PoE Switch",
+    "gist": "Re: Passive PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e83c290ce8326c31"
+   },
+   {
+    "date": "2024-08-16",
+    "dir": "in",
+    "box": "S",
+    "from": "elberts@firsttech.co.za",
+    "subj": "Re: Passive PoE Switch",
+    "gist": "Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offering these switches for sale to us, or are you look",
+    "prices": [],
+    "bulk": false,
+    "k": "db1f6f30c0f48d20"
+   },
+   {
+    "date": "2024-08-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Passive PoE Switch",
+    "gist": "Re: Passive PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e77088202a4a82b4"
+   },
+   {
+    "date": "2024-08-16",
+    "dir": "in",
+    "box": "S",
+    "from": "elberts@firsttech.co.za",
+    "subj": "Re: Passive PoE Switch",
+    "gist": "Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's specifications look promi",
+    "prices": [],
+    "bulk": false,
+    "k": "40e70b0706c53fbb"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.zoominfo.com/c/first-technology-ltd/353641354",
+    "quote": "First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://za.linkedin.com/company/first-technology",
+    "quote": "First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

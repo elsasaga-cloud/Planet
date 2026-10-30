@@ -211,16 +211,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": ""
+  "evidence": " ‖ 表 2023: Simon 备注/兴→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级"
  },
  "override_history": [
   {
@@ -230,8 +230,204 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Eyescan Private Security Services Ltd · （登记状态不可免费核）"
+  ],
+  "role": "OEM 品牌商/分销商",
+  "fit_words": [
+   "din",
+   "poe",
+   "工业"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "11–50（LinkedIn）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "塞浦路斯·OEM 品牌商/分销商；登记线索：塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Eyescan Private Security Serv。往来 2023→2026-09-14：我方去信 16 封（A 16 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM。我方报过：$170 / $280 / $300 / $6000。对位：STC-424DGGPM-280W；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 16,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-14",
+  "prices_out": [
+   "170",
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ff65e6404c266cda"
+   },
+   {
+    "date": "2025-10-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "8bf14bb47315e433"
+   },
+   {
+    "date": "2025-11-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "eab5a69bbfae71ca"
+   },
+   {
+    "date": "2025-12-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "21d78adf137f76eb"
+   },
+   {
+    "date": "2026-01-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "276cac1b9356eef5"
+   },
+   {
+    "date": "2026-02-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "e3b7847d3b77ddda"
+   },
+   {
+    "date": "2026-03-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "dc32c852c33e9081"
+   },
+   {
+    "date": "2026-04-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "87f1bb4f4fc28d68"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "58717336f4b7ac03"
+   },
+   {
+    "date": "2026-06-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "81f5c0338dd432f4"
+   },
+   {
+    "date": "2026-07-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "c77bc422c5ff12bb"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f6c64abd03bd5dab"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

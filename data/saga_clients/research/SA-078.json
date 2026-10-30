@@ -116,7 +116,7 @@
   "why": "成单客户，按实际成交型号续单；贴牌/裸板需求按 OEM 30% 档单独核价"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "risks": [
   "【2026-10-22 第二遍复盘】S 邮箱全库 13,583 封里唯一的 UL 需求来自本户（UL listed 52–57 VDC 250–300 W PSU，2024-06）；Simon 2023-12 曾向 Mencom 问 UL DIN 电源 → 跟进时可直接给 MEAN WELL UL 版电源型号 + 价格（Drive《SmartByte》有 MEAN WELL 价目表），交换机本体不承诺 UL。"
  ],
@@ -351,7 +351,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -370,6 +370,165 @@
    "to": "A",
    "prev_reason": "PI 包成单客户，Simon 标签 活跃：活跃/可发展 → A（值得长期跟进）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记线索",
+   "加拿大 · 联邦 / 省登记可查但研究档无法定名与省份线索；本行为「无登记源」记录（据第 79 批研究档）: James Clendenan Systems Ltd. · （登记状态不可免费核）"
+  ],
+  "role": "OEM 品牌商/集成商/安装商",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2026-08-26",
+    "R",
+    "Request 1 – Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module… Molex MiniFit-JR for power, JST"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-08-31（2 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "加拿大·OEM 品牌商/集成商/安装商；登记线索：加拿大 · 联邦 / 省登记可查但研究档无法定名与省份线索；本行为「无登记源」记录（据第 79 批研究档）: James Clendenan Systems L。往来 2024-06-27→2026-08-31：我方去信 4 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2026-08-26 R: Request 1 – Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module… Molex MiniFit-JR for power, JST。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok；最近来信 2026-08-31（2 月前）。",
+  "n_out": 4,
+  "n_in": 0,
+  "last_in": "2026-08-31",
+  "last_out": "2026-08-26",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-06-27",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → James（Invoice.pdf）",
+    "subj": "",
+    "gist": "Thanks for your information on LinkedIn. Please see attached invoice… I am now working on the UL listed PSU. 52~57VDC output. 250W~300W power",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s（clendenan.ca 19 封，jsonl client 字段为空，按域名重扫）"
+   },
+   {
+    "date": "2024-06-28",
+    "dir": "in",
+    "box": "R",
+    "from": "James Clendenan",
+    "subj": "",
+    "gist": "Please let me know what kind of software customizations we can do together for these. I'll likely want to do a few changes to the firmware",
+    "prices": [],
+    "bulk": false,
+    "k": "e248bc0c33c534e6"
+   },
+   {
+    "date": "2024-12-18",
+    "dir": "in",
+    "box": "R",
+    "from": "James Clendenan",
+    "subj": "",
+    "gist": "Working with my mech eng to confirm placement is still identical to what we have designed for",
+    "prices": [],
+    "bulk": false,
+    "k": "51d9acb9ee095737"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → James Clendenan（Quotation STS-20",
+    "subj": "",
+    "gist": "STI-21616DGGPM-PCB (customer P/N SW-3200-16GP-2SM; PCB ONLY, AC5, no optics/PSU/enclosure, \"Support mqtt and lldp-med\") × 4 @ $230 = $920; STI-21616DGGPM standa",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive Extra Info `Quotation__STS-20260622-001.xls`"
+   },
+   {
+    "date": "2026-07-21",
+    "dir": "in",
+    "box": "R",
+    "from": "James Clendenan",
+    "subj": "",
+    "gist": "Will test the ac5 update tomorrow and then we can work on the mqtt setup",
+    "prices": [],
+    "bulk": false,
+    "k": "aa61c45fc8e5eb33"
+   },
+   {
+    "date": "2026-08-06",
+    "dir": "in",
+    "box": "R",
+    "from": "James Clendenan",
+    "subj": "",
+    "gist": "Can you send me this again? I missed getting it before it expired.（AC5 固件 WeTransfer 链接过期）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 9efe5d1b1132a14a"
+   },
+   {
+    "date": "2026-08-07",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon（S 邮箱）",
+    "subj": "",
+    "gist": "It is 2 BINs: 1. AC3 version: lite-hotfix-7.3.13 — This is final, there will not be any updates, just maintenance and support. We are doing AC5 version now. 2. ",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 3e84bddd5a4fd519"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon",
+    "subj": "",
+    "gist": "Please check below WeTransfer link for the AC5 BIN info… attached quotation with new part number",
+    "prices": [],
+    "bulk": false,
+    "k": "ba36e2ca75bc3155"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "in",
+    "box": "R",
+    "from": "James（JCSL-Custom_power_pcb.docx）",
+    "subj": "",
+    "gist": "Request 1 – Modify the Power PSU circuit board to have power and alarm contacts exit the BACK of the module… Molex MiniFit-JR for power, JST for alarm. Request ",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 10_James"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "in",
+    "box": "R",
+    "from": "James Clendenan",
+    "subj": "",
+    "gist": "[image0.jpeg] Sent（回 Simon 08-30「a copy of the revised PI in USD」）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 3287d81fe10e8f5f"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

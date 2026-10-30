@@ -11,7 +11,7 @@ code: SB-641
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 
 score: 34
 country: 印度
 region: 南亚
@@ -35,7 +35,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度 Apollo Infoways / WatchDog（企业网络品牌「WatchDog」：交换机 / 路由 / 无线 / 服务器 / 防火墙 / SFP，自有型号 WD6822-24X6H / WD6822-48X6H / WD5890；表内「买丰润达的商业 PoE，工业 FS 是 AOA 的，8 PORT ROUTER WIRED」；KP Ravi Prakash（Founder & CEO，ravi@））；表内无跟进记录。（调研 2026-10-21；表内兴趣：买丰润达的商业PoE 工业FS AOA的  8 PORT ROUTER WIRED）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12））；自动分级 B：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（ES；2024-09→2025-12））；自动分级 B：+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（8/18 封有打开记录）：「Re: Industrial PoE Switch」(2024-11-15)、「Mini Industrial PoE Switch」(2024-12-12)、「24 Port Fiber Switch」(2025-01-06)、「Re: 24 Port Fiber Switch」(2025-01-06) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续｜已发资料（勿重发）：Passive PoE(2024-09-17)、L2 Web Manual(2024-09-18)、STC-208GPM-AUTO(2024-09-18)、STI-154GP(2024-11-04)、STC-4168XGGCM(2025-01-06)、Marvell Based CLI Manual(2025-01-06)、Marvell Based Web Manual(2025-01-06)；已发单据：Quotation(2024-11-04)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；$110（2024-09）；历史报价（邮件原话，老汇率）：2024-09-18 110usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-22 $65（10G media converter）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-06 $240（24 Port Fiber Switch）、2026-05-01 $280（10G Enterprise SFP Switch）、2026-06-15 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Ravi — the booster-PoE managed unit has an RJ45 console port and in-band management (web/CLI/SNMP); no dedicated out-of-band management port. Does your spec need OOB?
@@ -175,7 +175,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ravi Prakash（Founder / CEO / Director Apollo Infoways Private Limited（MCA 董事 2014-02-03–）= 拍板人 / 收件人（第 114 批 官方登记核实 2026-10-28））ravi@apolloinfoways.in 〔用户表〕
 - **KP**：Ivy Prakash（Director（MCA；2014-02-03–）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.zaubacorp.com/APOLLO-INFOWAYS-PRIVATE-LIMITED-U72900DL2014PTC264342〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 3 条（ES；2024-09→2025-12）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（ES；2024-09→2025-12）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -223,6 +223,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the leg: Apollo Infoways Private Limited（WatchDog 品牌；apolloinfoways.i · CIN U72900DL2014PTC264342 · Active … |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet industrial network poe sfp switch 交换机 工业；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-09-18 S: I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ ‖ 2024-11-03 S: Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ ‖ 2025-01-06 S: Pls share the Datas… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-12-08（10 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：印度·OEM 品牌商；登记坐实：IN · 1 次检索：tracxn（APOLLO INFOWAYS PRIVATE LIMITED is the leg: Apollo Infoways Pr。往来 2024-06-29→2026-09-18：我方去信 18 封（A 6 / S 12），对方真人来信 6 封 + 表内/备注 0 条；对方问过：2024-09-16 S: Is this managed or unmanaged. Regards Ravi ‖ 2024-09-18 S: I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ ‖ 2024-11-03 S: Is it managed or unmanaged switc。我方报过：$65 / $110 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-12-08（10 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-11-15 | 去 | S | Re: Industrial PoE Switch | $300 |
+| 2024-12-12 | 去 | S | Mini Industrial PoE Switch |  |
+| 2025-01-06 | 去 | S | Re: 24 Port Fiber Switch | $240 |
+| 2025-01-06 | 来 | S | Re: 24 Port Fiber Switch｜Pls share the Datasheet for this. Ravi |  |
+| 2025-01-06 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-03-03 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-12-08 | 来 | R | How about Console port and management ports. |  |
+| 2026-05-01 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-15 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-18 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

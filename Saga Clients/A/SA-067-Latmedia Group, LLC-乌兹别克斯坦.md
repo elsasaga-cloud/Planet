@@ -12,7 +12,7 @@ code: SA-067
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 
 name_official: "LATMEDIA GROUP LLC（ООО Latmedia group，塔什干，乌兹别克斯坦）"
 score: 63
 country: 乌兹别克斯坦
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：乌兹别克斯坦 IT 公司，2025 年通过自建站询盘 L2+/L3 商业级交换机，留有手机号；至今 0 次跟进（尚未回复过该询盘）。（调研 2026-10-21；表内兴趣：L2+/L3商业级）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11））；自动分级 A：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/乌兹别克斯坦；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11））；自动分级 A：+12 主动询盘（阿里巴巴/自建站/转介）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/乌兹别克斯坦；+5 最近活动 2025
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 — 需求与 Saga 路线正交；继续群发只会制造噪音。已打开的主题（7/10 封有打开记录）：「Re: OEM and SDK for National product」(2025-09-15)、「Re: OEM and SDK for National product」(2025-10-10)、「Re: OEM and SDK for National product」(2025-10-11)、「Booster PoE Switch」(2025-11-21) → 读者兴趣主题类别不明（看原主题）｜对外统一口径（#2/#14）：2025-07～10 Alan 先说源码「almost impossible」再转介第三方 Joey 做 CKD/SKD/源码——转介可以，但 Saga 不背书、不参与；档案保持「停止群发」；不报价；群发里他已看到的价（续）：2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：（无）
@@ -157,7 +157,7 @@ updated: 2026-10-30
   > 来源：https://2gis.uz/tashkent/firm/70000001036910454（抓取 2026-10-21）
 - **KP**：Пак Максим（Maksim Pak）（CEO LATMEDIA（官网 About））info@latmedia.uz（公司公开） +998 90 115 51 00（公司 Telegram）〔https://latmedia.uz/about/〕
 - **KP**：Vladimir Xe（Co-founder, Latmedia（邮件签名））vladimir.xe@latmedia.uz 〔S/A 邮箱来信 2025-07-21 → 11-24 来信 7 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 4 条（A；2025-07→2025-11）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 6 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 唯一一条'入站 L3 询盘却从未被跟进'的 A 级线索：先补发首封回复（L2+ STC-424DGGPM-280W / L3 STC-448XGGM(L3)，项目 25%），一轮后按回应重定级。俄语区非主攻，不额外投入。 ｜ T27 用户更正（2026-10-21）：该询盘已由 a.sagatelecom@gmail 邮箱跟进过（表内未记录）；跟进往来待用户导出 A 邮箱后补入。
 
@@ -206,6 +206,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 乌兹别克 · orginfo.uz 本轮未测试（下一轮）；本行为「无登记源」记录（据第 79 批研究档）: LATMEDIA GROUP ООО · （登记状态不可免费核） |
+| ② 角色 / 对位 | 分销商 | 对位词：交换机；P1 STC-448XGGM(L3) |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-09-14 A: Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe Latmedia Group LLC 14 сент. ‖ 2025-10-10 A: Hello Alan, Yeah, it could be great, cause we sig… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-11-24（11 月前） |
+| ⑤ 规模 | ≥小型 | ≈19（ZoomInfo 口径，待核） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：乌兹别克斯坦·分销商；登记线索：乌兹别克 · orginfo.uz 本轮未测试（下一轮）；本行为「无登记源」记录（据第 79 批研究档）: LATMEDIA GROUP ООО · （登记状态。往来 2025-07-21→2026-10-07：我方去信 10 封（A 10 / S 0），对方真人来信 6 封 + 表内/备注 0 条；对方问过：2025-07-24 A: Dear Alan Unfortunately, these requirements are mandated by our government. Without access to the SDK, source code, and API, we will not be  ‖ 2025-09-14 A: Hi Alan, Yes the project stil。我方报过：$170。对位：STC-448XGGM(L3)；路径：企业邮箱 MX ok；最近来信 2025-11-24（11 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-14 | 来 | A | Re: OEM and SDK for National product｜Hi Alan, Yes the project still available. I will send it to CTO and back with response. Best regards Vladimir Xe … |  |
+| 2025-09-14 | 去 | A | Re: OEM and SDK for National product |  |
+| 2025-09-15 | 去 | A | Re: OEM and SDK for National product |  |
+| 2025-09-16 | 来 | A | Re: OEM and SDK for National product｜Dear Alan, I sent it to my CTO. We will back soon with response. ---------------------------- Best Regards Vladim… |  |
+| 2025-10-10 | 来 | A | Re: OEM and SDK for National product｜Hello Alan, Yeah, it could be great, cause we signed a memorandum with our partner and preparing the budget for i… |  |
+| 2025-10-10 | 去 | A | Re: OEM and SDK for National product |  |
+| 2025-10-11 | 去 | A | Re: OEM and SDK for National product |  |
+| 2025-11-21 | 去 | A | Booster PoE Switch |  |
+| 2025-11-24 | 来 | A | Re: Booster PoE Switch｜Hello, All is good, thanks. How are you? No, this is not interesting for us. Thank you for interest) --------------------------… |  |
+| 2026-07-09 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-06 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-10-07 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

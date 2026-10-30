@@ -65,8 +65,8 @@
    "source": "https://www.videostar.it/it/chi-siamo.html"
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n重启用电话（固话在册）+ 一封'ONV 对位表'：12 光 12 电机型（核价）+ Marvell 芯片/电源规格答复。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -200,6 +200,14 @@
    "to": "B",
    "prev_reason": "A 三条件：① 可追溯需求——在采 ONV（Saga 直接可替代的同类中国品牌）且嫌价高，展会问 12 光 12 电/芯片/电源，提问专业；② 直接具名联系人——官网公开 Direttore Commerciale Alfredo Timpanaro（alfredo.timpanaro@topsicurezza.com）与 Responsabile Import Tommaso Daniele（import@）；③ 可赢规模——西西里进口商、自有品牌 Videostar（OEM 贴牌买家），非巨头。",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -208,5 +216,196 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→从ONV买，质量比较满意，但是价格有时觉得高\n问了多光口的12光12电，也问了wifi相关的，提供不"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Italy · Registro Imprese 公开摘要（ufficiocamerale.it / fatturato: TOP ITALIA S.R.L. · P.IVA / C.F. 04592850871 · REA CT-306496 · Attiva · 2008-05-08"
+  ],
+  "role": "分销商",
+  "fit_words": [],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→从ONV买，质量比较满意，但是价格有时觉得高\n问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业 ； 39 095 471"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "5–6（2026）（第 83 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "意大利·分销商；登记坐实：Italy · Registro Imprese 公开摘要（ufficiocamerale.it / fatturato: TOP ITALIA S.R.L. 。往来 2023→2026-09-17：我方去信 23 封（A 16 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→从ONV买，质量比较满意，但是价格有时觉得高\n问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业 ； 39 095 471。我方报过：$280 / $300。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 23,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-17",
+  "prices_out": [
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a789f1b473543a1e"
+   },
+   {
+    "date": "2025-10-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "27a0cc7727468c19"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "698b80496729066a"
+   },
+   {
+    "date": "2025-12-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "1e04b7e0582ab7a7"
+   },
+   {
+    "date": "2026-01-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "135d99ec3e73b150"
+   },
+   {
+    "date": "2026-03-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "b06f7c95e21556fa"
+   },
+   {
+    "date": "2026-03-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "e1708b81b006ad94"
+   },
+   {
+    "date": "2026-04-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cf808610a40cf0a2"
+   },
+   {
+    "date": "2026-06-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ce8a3a184d7ee401"
+   },
+   {
+    "date": "2026-07-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "6451ca1c358a7fdd"
+   },
+   {
+    "date": "2026-08-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b12838f3e0bf53ba"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f09564c6c1e0c215"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

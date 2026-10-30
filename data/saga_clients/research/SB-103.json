@@ -77,7 +77,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -217,6 +217,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 GRUNDIG Security 品牌独家被许可人 Abetechs（自有品牌 OEM 对位）"
   }
  ],
  "snap_thicken": {
@@ -249,7 +257,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -259,5 +267,188 @@
   "deal": "",
   "reply_class": "auto",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "Deutschland · Handelsregister（Northdata 免费页：登记时间线 / GF 变更 / : Abetechs GmbH（GRUNDIG Security 独家许可方） · Amtsgericht Wuppertal HRB 35197（2024-11- · Aktiv（2026-09-14 最新登记变更） · 2017-12-15"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "poe",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）"
+  ],
+  "size": "11–50；资产负债表总额 €1,061,495（2025-12-31）（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "无需求证据"
+  ],
+  "story": "德国·OEM 品牌商；登记坐实：Deutschland · Handelsregister（Northdata 免费页：登记时间线 / GF 变更 / : Abetechs GmbH（GRUN。往来 2025-04-14→2026-09-23：我方去信 15 封（A 15 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）。",
+  "n_out": 15,
+  "n_in": 0,
+  "last_in": "2025-05-12",
+  "last_out": "2026-09-23",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2943b63f1b7e55a5"
+   },
+   {
+    "date": "2025-09-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fdbae80a9aee61fb"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c882ae58607e9533"
+   },
+   {
+    "date": "2025-11-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "293b99a2d30e0702"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "780a5458605d8bd3"
+   },
+   {
+    "date": "2026-01-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "fdb1b14b18cc208b"
+   },
+   {
+    "date": "2026-03-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "7260ab60a6aeba66"
+   },
+   {
+    "date": "2026-05-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "d0d463e788177953"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "288a7794c289daa7"
+   },
+   {
+    "date": "2026-07-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "3e3ad984ac905c6d"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "47d25779c7dc7fed"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "77209253d2cccd6c"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

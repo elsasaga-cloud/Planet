@@ -47,7 +47,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#1。\n最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -172,6 +172,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06）"
   }
  ],
  "snap_thicken": {
@@ -185,15 +193,232 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）",
+  "reason": "真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06）",
   "why_not": "",
   "excl": "",
   "deal": "表内成单但 Simon 判不行",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-20] you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm ‖ [S 2024-06-20] Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable indust ‖ 研 2024-06-20 Dmitry Deikun: Unfortunately, we lost several projects. Now we have small project: L3 rack-moun / 2024-06-20 Dmitry Deikun: We have one more pr"
+  "evidence": "[S 2024-06-20] you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm ‖ [S 2024-06-20] Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable indust"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Россия · ЕГРЮЛ 镜像（companies.rbc / rusprofile / saby / spark-: ООО «ДИЛЕР»（DEALER Co Ltd；raisecom.su / dealer.su） · ОГРН 1117847101844 · ИНН 7840448665 · КП · Действующая（2011-03-22 起；2026- · 2011-03-22"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "poe",
+   "sfp",
+   "工业"
+  ],
+  "p1": "STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-05-07",
+    "S",
+    "Hello, Simon. Thanks - we will examine it. Пожалуйста дайте мне знать, если Вам понадобится помощь. - С уважением, Ковцур Максим. Kovzur Max"
+   ],
+   [
+    "2024-06-20",
+    "R",
+    "Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1"
+   ],
+   [
+    "2024-06-20",
+    "R",
+    "We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?"
+   ],
+   [
+    "2024-06-20",
+    "S",
+    "Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP"
+   ],
+   [
+    "2024-06-20",
+    "S",
+    "ok, thanks. We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?"
+   ],
+   [
+    "2024-06-20",
+    "S",
+    "you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 2024-06-20（28 月前）"
+  ],
+  "size": "5（ССЧ）；2023 выручка 141.7 млн ₽ / прибыль 27.9 млн；2025 выручка 25 млн ₽（第 87 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "俄罗斯·分销商；登记坐实：Россия · ЕГРЮЛ 镜像（companies.rbc / rusprofile / saby / spark-: ООО «ДИЛЕР»（DEALER。往来 2024-05-07→2024-06-20：我方去信 9 封（A 0 / S 7），对方真人来信 5 封 + 表内/备注 0 条；对方问过：2024-06-20 R: We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable? ‖ 2024-06-20 S: Hi, Simon! Unfortunately, we lost several 。我方报过：$120 / $220 / $550。对位：STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605；路径：企业邮箱 + WA；最近来信 2024-06-20（28 月前）。",
+  "n_out": 9,
+  "n_in": 5,
+  "last_in": "2024-06-20",
+  "last_out": "2024-06-20",
+  "prices_out": [
+   "120",
+   "220",
+   "550"
+  ],
+  "timeline": [
+   {
+    "date": "2024-05-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: L2 managed switch",
+    "gist": "Re: L2 managed switch",
+    "prices": [
+     "220"
+    ],
+    "bulk": false,
+    "k": "1489289b3aad4e69"
+   },
+   {
+    "date": "2024-05-07",
+    "dir": "in",
+    "box": "S",
+    "from": "mk@raisecom.su",
+    "subj": "Re: L2 managed switch",
+    "gist": "Hello, Simon. Can you send us command line guide for this switch? Пожалуйста дайте мне знать, если Вам понадобится помощь. - С уважением, Ковцур Максим. Kovzur ",
+    "prices": [],
+    "bulk": false,
+    "k": "5ab84f3513a48ef7"
+   },
+   {
+    "date": "2024-05-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "L2 managed switch",
+    "gist": "L2 managed switch",
+    "prices": [
+     "220"
+    ],
+    "bulk": false,
+    "k": "0427d9e1c3995272"
+   },
+   {
+    "date": "2024-05-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: L2 managed switch",
+    "gist": "Re: L2 managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "47eb5add811ddc52"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: L2 managed switch",
+    "gist": "Re: L2 managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4dc8c3b789722006"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "in",
+    "box": "S",
+    "from": "ddmitry@raisecom.su",
+    "subj": "Re: L2 managed switch",
+    "gist": "ok, thanks. We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable?",
+    "prices": [],
+    "bulk": false,
+    "k": "cabe68f409387cd0"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: L2 managed switch",
+    "gist": "Re: L2 managed switch",
+    "prices": [
+     "120",
+     "550"
+    ],
+    "bulk": false,
+    "k": "bb432329099d7ca5"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "in",
+    "box": "S",
+    "from": "ddmitry@raisecom.su",
+    "subj": "Re: L2 managed switch",
+    "gist": "you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm",
+    "prices": [],
+    "bulk": false,
+    "k": "a082cfd18681a333"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: L2 managed switch",
+    "gist": "Re: L2 managed switch",
+    "prices": [
+     "120",
+     "550"
+    ],
+    "bulk": false,
+    "k": "e0abfb3db9cff89e"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "in",
+    "box": "S",
+    "from": "ddmitry@raisecom.su",
+    "subj": "Re: L2 managed switch",
+    "gist": "Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP 8*10/100/1000BASE-T",
+    "prices": [],
+    "bulk": false,
+    "k": "018449b22dc51791"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon",
+    "subj": "",
+    "gist": "Item 1: STI-4168XGGCM-U 550usd/pc… L3 Managed, Non-PoE, 1U Rack, AC100V~240V DUAL input, Marvell Chip; Item 2: STI-288DGGPM 120usd/pc 2*100M/1G/2.5G SFP+8*10/10",
+    "prices": [],
+    "bulk": false,
+    "k": "quote"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon",
+    "subj": "",
+    "gist": "Sorry, we do not have a model that is exactly good for it. A close model is Realtek chip, 6*10G SFP+24*2.5G Ethernet, L2+",
+    "prices": [],
+    "bulk": false,
+    "k": "reply"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

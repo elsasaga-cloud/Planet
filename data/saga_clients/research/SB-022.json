@@ -59,8 +59,8 @@
    "source": "https://desk-sicherheit.de/news/physische-penetrationstest"
   }
  ],
- "grade_override": "B",
- "override_reason": "核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n若未来需求转为室内/机柜工业 PoE（IP30/IP40 DIN 导轨），可用 STI-288DGGPM 重启；不要承诺 IP67。待补证：公司注册与规模。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -185,5 +185,216 @@
   "url": "https://desk-sicherheit.de/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024: Simon 备注/兴→和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "核心需求 IP67 户外机 —— Saga 三家供应商均无 IP67 产品线（Saga 不做 IP67）；且报价后 0 回复/7 次推送。警务项目属公共安全边缘 → 守界慢跟。",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "DE · 1 次检索：shop.desk-sicherheit.de/impressum（DESK SICHERHEIT: Desk Sicherheit GmbH（desk-sicherheit.de；Karlsruhe）— 微型安保 / 安 · Amtsgericht Mannheim HRB 717686 · Active · 2013-06-28"
+  ],
+  "role": "OEM 品牌商/集成商/安装商",
+  "fit_words": [
+   "din",
+   "poe",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024",
+    "表",
+    "Simon 备注/兴趣栏→和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67 ； 49 173 15"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "德国·OEM 品牌商/集成商/安装商；登记坐实：DE · 1 次检索：shop.desk-sicherheit.de/impressum（DESK SICHERHEIT: Desk Sicherheit Gm。往来 2024→2026-09-24：我方去信 16 封（A 15 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024 表: Simon 备注/兴趣栏→和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67 ； 49 173 15。我方报过：$170 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 16,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-24",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7a2ebcbc4ce1b12e"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "59f38b65cb9cec15"
+   },
+   {
+    "date": "2025-11-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "432682787c1a9801"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "3e2f2899531f4f38"
+   },
+   {
+    "date": "2026-01-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "32b35cce189dbfb6"
+   },
+   {
+    "date": "2026-03-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "70a3f6cc21feeb40"
+   },
+   {
+    "date": "2026-05-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "0d4cf7027b3946f3"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "de2dbcd286628e74"
+   },
+   {
+    "date": "2026-07-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "46260b39b2549573"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e73860c1554b3bfe"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "df754a93fc58eca3"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "out",
+    "box": "R",
+    "from": "A 群发",
+    "subj": "",
+    "gist": "10G Enterprise SFP Switch、8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

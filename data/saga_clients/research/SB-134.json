@@ -47,8 +47,8 @@
    "source": "https://papagal.bg/eik/131403477/a657"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -151,5 +151,217 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2023: Simon 备注/兴→2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resol"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "BG · 1 次检索：papagal.bg（КАССАБА СИСТЕМС ООД；ЕИК 131403477；Акти: КАССАБА СИСТЕМС ООД（Kassaba Systems Ltd.；原 ЕООД；kassabasyste · ЕИК 131403477 · Активен · 2005-03-25"
+  ],
+  "role": "分销商",
+  "fit_words": [],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resolution, 给他们介绍了2V2D2A和2光10电，问了Po"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "保加利亚·分销商；登记坐实：BG · 1 次检索：papagal.bg（КАССАБА СИСТЕМС ООД；ЕИК 131403477；Акти: КАССАБА СИСТЕМС ОО。往来 2023→2026-09-02：我方去信 24 封（A 16 / S 8），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resolution, 给他们介绍了2V2D2A和2光10电，问了Po。我方报过：$65 / $170 / $220 / $240 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 24,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-02",
+  "prices_out": [
+   "65",
+   "170",
+   "220",
+   "240",
+   "280",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c0614b38071d40fd"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "0fb2d4d4adee13f0"
+   },
+   {
+    "date": "2025-11-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b4c6a1a515f563c0"
+   },
+   {
+    "date": "2025-12-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "de09e0858f5773d4"
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c7eaabcc93e948a4"
+   },
+   {
+    "date": "2026-02-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "1ad1d006a92907bd"
+   },
+   {
+    "date": "2026-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "2198e18a01e525b8"
+   },
+   {
+    "date": "2026-04-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1b96a9b08d632d41"
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5528da4083f9f498"
+   },
+   {
+    "date": "2026-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "81dfd3c06edb00a1"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "74372a13cc8834cd"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "d8c593a41c4b1c3a"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

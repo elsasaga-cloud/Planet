@@ -1,11 +1,11 @@
 # Fast-Track Systems & Services Pte Ltd
 **官方名称（调研核实）**：Fast-Track Systems & Services Pte Ltd（Singapore；UEN 200002876C；楼宇工程设计与顾问）
 
-> **评级 B**　|　新加坡　|　档案编号 `SB-728`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　新加坡　|　档案编号 `SB-728`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 ✘ 光端机等（日职线）；命中 3/6（成单/样品 ✔ · 真回 ✔ · WA ✔ · 对位 ✘ 光端机等（日职线） · 登记 ✔ · 体量 微型（1–10 人））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Singapore　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(筛选后质量一般的_群发)、表:Singapore　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-728
@@ -20,7 +20,7 @@ region: 亚太
 website: none
 type: 经销/集成（类型待核）
 tier_tags: ["群发(筛选后质量一般的_群发)", "表:Singapore"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -36,8 +36,8 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：新加坡楼宇工程公司 Fast-Track Systems & Services Pte Ltd（2000-04-05 注册，豁免私人公司；主业「General building engineering design and consultancy services」；注册地址 113 Eunos Avenue 3 #04-18 Gordon Industrial Building；电话 +65 6749 6390 / +65 9761 1286（= 用户表 WhatsApp 号））。用户表：Alan Tan（alan_ftss@yahoo.com.sg）——2020-03 询盘，光猫 8 个成样品单；WhatsApp 已加；无后续。光猫（ONU）不在 Saga 产品线 → 对位楼宇弱电交换机。（调研 2026-10-21；表内兴趣：光猫 8个  成样品单）
-- **为什么是 B 级**：**调研后定级 B**（AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·2020 光猫 8 个（新加坡））；自动分级 B：+50 有成单/下单/买过记录（用户备注或跟进表）；+10 谈到样品/测样；-6 群发批次名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+3 区域 亚太/新加坡；-10 最近活动 2020（陈旧）
-- **历史互动**：成交/下单过；WhatsApp 已加
+- **为什么是 B 级**：**调研后定级 B**（AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·2020 光猫 8 个（新加坡））；自动分级 B：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+10 谈到样品/测样；-6 群发批次名单；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+3 区域 亚太/新加坡；-10 最近活动 2020（陈旧）
+- **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 项目 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作楼宇弱电接入；24 口 STC-424DGGPM-280W（$140.1）；ONU 需另寻货源（不在价格表）；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-09 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-09；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-02；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Alan, since the ONU sample order in 2020 we have focused on switches: 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW, 24-port PoE 280 W at $140.1 — do your current building projects need PoE switches for CCTV/Wi-Fi, and in what quantity?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
@@ -191,7 +191,7 @@ updated: 2026-10-30
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -199,7 +199,7 @@ updated: 2026-10-30
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付；WhatsApp 直达
+- **S**：WhatsApp 直达
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -220,7 +220,7 @@ updated: 2026-10-30
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）

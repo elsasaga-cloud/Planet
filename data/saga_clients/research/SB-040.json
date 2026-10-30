@@ -69,7 +69,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\nWA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上联机型；无回应即停。 ｜ 国别更正为「英国」（country_fix）：研究档已核 4DEMAND LTD（Companies House 14564199，伦敦地址）；表内「阿联酋」来自 +971 联系人手机（Q-65 国别机检 2026-10-27）",
  "researched_at": "2026-10-21",
  "deep": {
@@ -205,6 +205,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -234,7 +242,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -244,5 +252,92 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 2024.8.10: 10G MC→问了2光4"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "GB · 1 次检索：Companies House 14564199（4DEMAND LTD；Active；Priva: 4DEMAND LTD（4demand.co.uk；London N3）— 2022-12-30 注册的微型 IT /  · Companies House 14564199 · Active（CS01 2025-01-03） · 2022-12-30"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "poe",
+   "sfp"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024.8.10",
+    "表",
+    "10G MC→问了2光4"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）"
+  ],
+  "size": "微型（<10 人；营业额 <£1M）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "英国·分销商；登记坐实：GB · 1 次检索：Companies House 14564199（4DEMAND LTD；Active；Priva: 4DEMAND LTD（4deman。往来 2024-11-19→2026-03-27：我方去信 2 封（A 1 / S 1），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024.8.10 表: 10G MC→问了2光4。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "2024-11-19",
+  "last_out": "2026-03-27",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-11-19",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「1120email发了28poe」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.21 1119"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "256a98e0aef1d3e5"
+   },
+   {
+    "date": "2024.8.10",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "10G MC",
+    "gist": "问了2光4",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "4f1136f3a5106e9c"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

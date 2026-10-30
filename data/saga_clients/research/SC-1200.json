@@ -52,6 +52,22 @@
     "quote": "RE: PoE Switch｜No update yet !!!",
     "why": "S 邮箱 真人来信（thin）",
     "k": "61dbcfd98520142a"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.zoominfo.com/c/future-point-technologies/460620478"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://pk.linkedin.com/company/future-point-technologies"
    }
   ],
   "binding": {
@@ -75,10 +91,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
   "why_not": "",
   "excl": "",
@@ -94,8 +110,152 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-10-03",
+    "S",
+    "Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-10-07（24 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：Future Point Technologies（拉合尔；2015 年成立 IT 系统集成商，51–200 人，Cisco / Palo Alto 渠道伙伴）：2024-10 来信要 300 台 CLI 管理 L2 工业无风扇（ERPS）——标书型大单，有需求再接"
+  ],
+  "story": "巴基斯坦；未坐实：待快照。往来 2024-10-03→2025-03-31：我方去信 5 封（A 2 / S 3），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-10-03 S: Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP。我方报过：$300。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2024-10-07（24 月前）。",
+  "n_out": 5,
+  "n_in": 2,
+  "last_in": "2024-10-07",
+  "last_out": "2025-03-31",
+  "prices_out": [
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-10-03",
+    "dir": "in",
+    "box": "S",
+    "from": "javed.hashmi@futurepointt.com",
+    "subj": "RE: PoE Switch",
+    "gist": "Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP or ERPS, RSTP, MSTP",
+    "prices": [],
+    "bulk": false,
+    "k": "e1f4c51aca81b3b8"
+   },
+   {
+    "date": "2024-10-07",
+    "dir": "in",
+    "box": "S",
+    "from": "javed.hashmi@futurepointt.com",
+    "subj": "RE: PoE Switch",
+    "gist": "No update yet !!!",
+    "prices": [],
+    "bulk": false,
+    "k": "61dbcfd98520142a"
+   },
+   {
+    "date": "2024-10-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: PoE Switch",
+    "gist": "Re: PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "60dbbcfadb64d1a4"
+   },
+   {
+    "date": "2024-12-13",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "7b4202cb06886b25"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "05a47aed8b0a1fb4"
+   },
+   {
+    "date": "2025-02-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "13d41c1ecc0ab866"
+   },
+   {
+    "date": "2025-03-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "b026c9e14dcea358"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.zoominfo.com/c/future-point-technologies/460620478",
+    "quote": "Future Point is a prominent IT System Integrator based in Pakistan, established in 2015 … certified channel partner for Cisco and PaloAlto · 51-200 Employees · 60-D III Model Town, Lahore",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://pk.linkedin.com/company/future-point-technologies",
+    "quote": "Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

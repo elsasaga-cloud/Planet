@@ -31,8 +31,8 @@
   }
  ],
  "kp": [],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·ISAF 2025 现场购 1 台（CEUIK）",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：排除：无联系路径（无邮箱无 WA）",
  "notes": "LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -50,6 +50,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 成单户 · 回访（集成商 25%）：Sami Çeuik 展会买 1 台样机 $100 + 问 500 台 2 光 8 PoE 网管价 + 政府项目；无公司名 → 0 查；§5 有关系户 ≥2 条（成单 + 主区 + 对位）→ P 池候选；**请 Simon / Evelyn 补公司名**（微信）；闸 1：土耳其 Sami Çeuik（ISAF）：用光网视交换机、政府项目、问 500 台 2 光 8 PoE 网管价、最后一天买了 1 台 2 光 10 电 PoE 样机 $100、Evelyn 加了微信 → 土耳其主区 + 成单 + 对位 ✔…",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·ISAF 2025 现场购 1 台（CEUIK）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·ISAF 2025 现场购 1 台（CEUIK）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：排除：无联系路径（无邮箱无 WA）"
   }
  ],
  "lt_review": {
@@ -139,14 +147,14 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A1",
-  "target": "A",
-  "grade_before": "B",
-  "reason": "核定成单·ISAF 2025 现场购 1 台（CEUIK）",
-  "why_not": "",
+  "batch": "AB-FINAL-02",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "排除：无联系路径（无邮箱无 WA）",
   "excl": "无联系路径（无邮箱无 WA）",
-  "deal": "核定成单·ISAF 2025 现场购 1 台（CEUIK）",
+  "deal": "备注成单（非 Saga，本职公司时期）·ISAF 2025 现场购 1 台（CEUIK）",
   "reply_class": "none",
   "evidence": ""
  }

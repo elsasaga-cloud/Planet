@@ -53,8 +53,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -179,7 +179,16 @@
   "note": "宾州客运巴士车载远程信息方案商 Saucon（1997 起）：问过技术问题、Elsa 1:1 单发 9 次 → 终端有互动 ✔ 美国 → 留 B（群发）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:41:09Z"
@@ -202,5 +211,203 @@
   "url": "https://www.saucontds.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2022: Simon 备注/兴→问了一些技术问题"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：Buzzfile（Saucon Technologies, Inc.；Year Founded 1: Saucon Technologies, Inc.（saucontech.com / saucontds.com；Bethlehem, PA）— 客运巴士车载远 · Active（2026-07 新产品发布）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "switch",
+   "交换机"
+  ],
+  "p1": "STI-054GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2022",
+    "表",
+    "Simon 备注/兴趣栏→问了一些技术问题"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "28–42 人；$10–15M",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：Buzzfile（Saucon Technologies, Inc.；Year Founded 1: Saucon Technologie。往来 2022→2026-09-11：我方去信 23 封（A 21 / S 1），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2022 表: Simon 备注/兴趣栏→问了一些技术问题。我方报过：$170 / $240 / $280 / $300。对位：STI-054GP；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 23,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-11",
+  "prices_out": [
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-12-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "b76d40ad180ea43d"
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "5957c490aeff2feb"
+   },
+   {
+    "date": "2026-02-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "204c3d36fa254468"
+   },
+   {
+    "date": "2026-03-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "908634f561385c66"
+   },
+   {
+    "date": "2026-04-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "8e6b87a6a494db0a"
+   },
+   {
+    "date": "2026-04-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c5f28f9a5d44930f"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "43e12858691f8f1a"
+   },
+   {
+    "date": "2026-06-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "121968c988b154af"
+   },
+   {
+    "date": "2026-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "3a39bad873177486"
+   },
+   {
+    "date": "2026-08-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "1aea9c43c79a12a0"
+   },
+   {
+    "date": "2026-09-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "17eca1e56b29cd5a"
+   },
+   {
+    "date": "2026-09-11",
+    "dir": "out",
+    "box": "R",
+    "from": "A/S 群发",
+    "subj": "",
+    "gist": "Managed Optical Bypass Switch、10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

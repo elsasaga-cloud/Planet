@@ -12,7 +12,7 @@ code: SA-033
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "BlueWARRIOR（bluewarrior.com, USA）"
 score: 81
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国自有品牌工业以太网供应商：BW 系列机架/DIN 网管与非网管工业交换机、工业 bypass 交换机、工业 MC，官网明码标价（BW2026 26 口 $308、BW3020G $662、BW7212G $500），宣称 UL Class 1 Div 2、Tesla 工厂案例；用户表判断「几乎全线武汉迈威」贴牌。用户表：A 优质名单(US)，1 次回复，18 次跟进；AI 评 40% A。（调研 2026-10-21；表内兴趣：工业FS 机架式 bypass MC 几乎全线武汉迈威）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 18 次（2024-05-08 → 2025-10-28）；最近一次客户回复：2024-05-28：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：并入 SA-044 的那一封（STI-480XGGM $163.2 @30%） — 去重。已打开的主题（4/29 封有打开记录）：「Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-05-28)、「Re: Industrial poe managed switch」(2024-07-01)、「10G L3 Managed Switch」(2026-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续；同 SA-044；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-14 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -166,7 +166,7 @@ updated: 2026-10-30
   > Surge Protected with Relay Contact / (Ground / Bonding) ( DC 48-52 Volts). $987.80 View Product - BW7212GP-4GT-8GTPOE - 24 Port - (Layer 2 Managed) - Temperature Hardened
   > 来源：https://bluewarrior.com/product-category/industrial-poe-switches/（抓取 2026-10-21）
 - **KP**：Thomas West（= SA-044 DYMEC President Thomas West 本人 → 两户并一线；BlueWARRIOR 疑为 Kyland-USA, LLC 的第二品牌（法人待核）（第 84 批 官方登记核实 2026-10-27））sales@bluewarrior.com 〔Clients/A/DONE/US.xlsx〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW7212G-4GF-8GT ≈ STI-488DGGM 类（8GE+4SFP 工业网管），30% OEM 档；切入点 = 迈威替代/补充 SKU + Marvell 方案 + 10–15 天交期；不承诺 UL/C1D2。
 
@@ -247,6 +247,38 @@ A 确认（美国自有品牌 + 全线中国白牌 + 已回复）：对位 BW721
 | 2025-09-11 | 911 | 28poe |  | A |  | US.xlsx#191 |
 | 2025-10-08 | 108 | dac |  | A |  | US.xlsx#191 |
 | 2025-10-28 | 1028 | solar |  | A |  | US.xlsx#191 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | USA · 由 SA-044 DYMEC 的登记类来源交叉推定（LinkedIn：Thomas West = DYMEC: BlueWARRIOR（bluewarrior.com；法人待核，疑为 Kyland-USA, LLC / DYMEC 团队的第二品牌） · 官网在线（2026-01 价格更新） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber industrial media converter network poe sfp；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-05-28 S: What is the price? ‖ 2024.5.28 表: 发了2光8BT信息→price |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-03-19（19 月前） |
+| ⑤ 规模 | ≥小型 | 未见人数（小型品牌） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·OEM 品牌商；登记线索：USA · 由 SA-044 DYMEC 的登记类来源交叉推定（LinkedIn：Thomas West = DYMEC: BlueWARRIOR（bluewa。往来 2024-05-28→2026-09-17：我方去信 29 封（A 22 / S 7），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2024-05-28 S: What is the price? ‖ 2024.5.28 表: 发了2光8BT信息→price。我方报过：$140 / $170 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-03-19（19 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-12-11 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2026-01-06 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-20 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-16 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-16 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-06 | 去 | A | Industrial PoE Switch |  |
+| 2026-04-30 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-29 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-25 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-21 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-20 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

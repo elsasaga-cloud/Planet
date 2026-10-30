@@ -11,7 +11,7 @@ code: SB-696
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 score: 33
 country: 以色列
 region: 中东
@@ -35,7 +35,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：以色列 Aironix（工业/无线网络产品分销；表内「工业 FS O-ring 的」「可以尝试多跟进一下」；KP Yair Turjeman（Chief Executive Officer）、Eytan Birenzwige（Vice President Operations））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：工业FS O-ring的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2026-08→2026-08））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2026-08→2026-08））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-03-04 → 2025-10-27）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-024GE-U（24×GE 非管理、机架型，Saga 列表价 $48.4；Alan 2026-08-15 发的是桌面型 STC-024GE-D.docx，列表价 $42.9——AT-GS910/24 为 1U 机架机，应改发 -U 版） — 数量 + 目标价 + 距今 2 个月 最近一封去信是 2026-10-07 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-04-02)、Product Link_2026Q3(2026-07-13)、STC-024GE-D(2026-08-15)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；$60 USD EXW（Alan 2026-08-15 报，附件 STC-024GE-D.docx）；HRUI 对照表列表价 STC-024GE-D $42.9 / STC-024GE-U $48.4 → $60 可立住；客户采购目标 $150 为其买价；300 台/年档由 Simon 在列表价之上自定（此前 $58/$54 为臆造，已撤）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-29 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Yair — $60 USD EXW stands (quoted 2026-08-15) for the rack version STC-024GE-U; shall I prepare a 2-pc sample invoice, or the 47-pc proforma directly?
@@ -144,7 +144,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Yair Turjeman（）yair@aironix.co.il WhatsApp +972 54 831 8384（2026-08-15 他自己写「WhatsApp +972548318384」）〔用户表〕
 - **KP**：Eytan Birenzwige（）info@aironix.co.il 〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2026-08→2026-08）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2026-08→2026-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -192,6 +192,38 @@ updated: 2026-10-30
 | 2025-09-29 | 929 | dac |  | A |  | Israel  2.2.xlsx#7 |
 | 2025-10-27 | 1027 | 16电 |  | A |  | Israel  2.2.xlsx#7 |
 | ? | 1.7 | 22mini |  | Email |  | Israel  2.2.xlsx#7 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IL · רשם החברות 镜像（israeli-companies / obudget / b2bhint：ח.פ: AIRONIX SYSTEMS LTD（איירוניקס מערכות בע"מ） · ח.פ. 515461101 · פעילה（在营；2020 快照「最近提交年报 2019」→ · 201… |
+| ② 角色 / 对位 | 分销商 | 对位词：工业 网络；P1 STI-280GE |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-08-13 A: Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year. ‖ 2026-08-15 A: Thank you, my customer buying target price is 150usd each Br - Yair Br - Yair Mobile/WhatsApp +972548318384 |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-08-15（2 月前） |
+| ⑤ 规模 | 个人/微型 | 微型（经营者 Yair + 销售 Shiri Amzaleg；工业网络分销）（第 89 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：以色列·分销商；登记坐实：IL · רשם החברות 镜像（israeli-companies / obudget / b2bhint：ח.פ: AIRONIX SYSTEMS LT。往来 2025-01-09→2026-10-07：我方去信 21 封（A 20 / S 1），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2026-08-13 A: Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year. ‖ 2026-08-15 A: Thank you, my customer buying target price is 150usd each Br - Yair Br - Yair Mobile/Wh。我方报过：$60 / $150 / $170 / $280。对位：STI-280GE；路径：企业邮箱 MX ok；最近来信 2026-08-15（2 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-03-18 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-02 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-05-06 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-08 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-13 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-13 | 来 | A | RE: 24 Port PoE Managed Switch｜Can you Offer an equivalent product to Allied AT-GS910-24, 47 pcs, 300 pcs a year. |  |
+| 2026-08-13 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-15 | 去 | A | Re: 24 Port PoE Managed Switch | $150 / $60 |
+| 2026-08-15 | 来 | A | Re: 24 Port PoE Managed Switch｜Thank you, my customer buying target price is 150usd each Br - Yair Br - Yair Mobile/WhatsApp +972548318384 |  |
+| 2026-08-15 | 去 | A | Re: 24 Port PoE Managed Switch | $170 |
+| 2026-09-18 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-10-07 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

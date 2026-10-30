@@ -8,7 +8,7 @@
 code: SB-984
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 score: 26
 country: 美国
 region: 北美
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国 OlsonTech（光纤设备：EDFA、Laser Plus 光发射机（1310/1550 nm）、EdgePON、edgeswitch；OEM/集成商导向；表内「MC WDM 模块 光产品」）；群发 11 次无回复。（调研 2026-10-21；表内兴趣：MC WDM模块 光产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 11 次无任何回复（聋名单）
 - **历史互动**：推送 11 次（2025-02-28 → 2025-10-24）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（2/15 封有打开记录）：「24 Port Fiber Switch」(2025-08-08)、「Re: 24 Port Fiber Switch」(2025-08-09) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；历史报价（邮件原话，老汇率）：2025-08-09 225usd / 310usd；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $240（24 Port Fiber Switch）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -140,7 +140,7 @@ updated: 2026-10-30
   > MC WDM模块 光产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Thomas R. Olson（Owner-President（1985 起；现 Antronix of California – Olson Technology Division）= 收件人（经 sales@）（第 103 批 官方登记核实 2026-10-28）） 〔http://www.olsontech.com/company.html〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -199,6 +199,38 @@ updated: 2026-10-30
 | ? | 1.23 | 52 |  | Email |  | US.xlsx#135 |
 | ? | 89 | 24fiber |  | A |  | US.xlsx#135 |
 | ? | 98 | 22mini |  | A |  | US.xlsx#135 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | US · 1 次检索：官网 company.html（「Antronix of California, (Olson T: Olson Technology, Inc.（现「Antronix of California（Olson Technology Division）」；olso · Active（已并入 Antr… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber network sfp switch 光纤；P1 STI-110GE |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-08-08 A: Thanks.. I’d be interested in the pricing… Thanks Peter ‖ 2025-08-09 A: Thank you. Yes, please send manual as well... |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-08-09（14 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：美国·OEM 品牌商；登记线索：US · 1 次检索：官网 company.html（「Antronix of California, (Olson T: Olson Technology, 。往来 2025-01-23→2026-02-12：我方去信 15 封（A 14 / S 1），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-08-08 A: Thanks.. I’d be interested in the pricing… Thanks Peter ‖ 2025-08-09 A: Thank you. Yes, please send manual as well...。我方报过：$225 / $240 / $280 / $310。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-08-09（14 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-08-08 | 来 | A | RE: 24 Port Fiber Switch｜Thanks.. I’d be interested in the pricing… Thanks Peter |  |
+| 2025-08-08 | 去 | A | 24 Port Fiber Switch | $240 |
+| 2025-08-09 | 来 | A | Re: 24 Port Fiber Switch｜Thank you. Yes, please send manual as well... |  |
+| 2025-08-09 | 去 | A | Re: 24 Port Fiber Switch | $225 / $240 / $310 |
+| 2025-09-08 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-10-02 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-24 | 去 | A | 90W PoE Managed Switch |  |
+| 2025-11-13 | 去 | A | Booster PoE Switch |  |
+| 2025-12-09 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-26 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-16 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-12 | 去 | A | Updated Ethernet Switches Links |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

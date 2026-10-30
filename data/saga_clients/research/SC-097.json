@@ -33,7 +33,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
  "notes": "（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回",
  "deep": {
   "done_at": "2026-10-21",
@@ -99,10 +99,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
   "why_not": "",
   "excl": "",
@@ -118,6 +118,62 @@
    "to": "A",
    "prev_reason": "守界：军事服务本地化公司（军工 / 国防客户），且需求为其他品牌堆叠交换机",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "3Lines Advanced Technologies Company（利雅得）"
+  ],
+  "role": "ISP/运营商",
+  "fit_words": [
+   "industrial",
+   "交换机"
+  ],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-05-07",
+    "E",
+    "Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specificatio"
+   ],
+   [
+    "2025-05-12",
+    "E",
+    "Hello Team, Kindly find the following details for your reference. Specifications / Quantity SFP (10G) Multi Mode – 10G-SFPP-SR – 20 SFP (10G"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "沙特阿拉伯·ISP/运营商；研究档法定名：3Lines Advanced Technologies Company（利雅得）。往来 —→2025-05-12：我方去信 0 封（A 0 / S 0），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-05-07 E: Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specificatio ‖ 2025-05-12 E: Hello Team, Kindly find the f。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）。",
+  "n_out": 0,
+  "n_in": 2,
+  "last_in": "2025-05-12",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [],
+  "web_facts": [],
+  "manual": false
+ }
 }

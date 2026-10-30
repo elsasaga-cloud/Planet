@@ -12,7 +12,7 @@ code: SB-057
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "Rfcom（塞萨洛尼基，希腊）"
 score: 62
 country: 希腊
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：希腊塞萨洛尼基通信产品公司，WA 在线，2 次回复、19 次跟进；取过目录、一般性回复。（调研 2026-10-21；表内兴趣：take catalog general reply）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-8 部分邮箱发不过去（有 WhatsApp 兜底）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 19 次（2024-01-25 → 2025-10-03）；最近一次客户回复：93：22mini/email
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 网店/分销 20% 档：STC-28DGGPM 上架 PoE SWITCH 类目；16 口 STI-21616GP；24 口 STC-424DGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-09-02 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-03 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：For the PoE SWITCH category on rfcom.gr, the Marvell-based 8-port PoE+ 2-SFP managed unit is $80.7 EXW; would you like one unit to photograph and list before a stock order?
@@ -153,7 +153,7 @@ updated: 2026-10-30
   > ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ "RFCOM" Εμπόριο (Εξοπλισμός Ασφαλείας) … Λαγκαδά 301, 56430, Σταυρούπολη , Θεσσαλονίκη
   > 来源：https://www.findbiz.gr/el/company-page/param/name/11002358-xygkakis-konstantinos-rfcom（抓取 2026-10-21）
 - **KP**：Konstantinos Xygkakis（Ξυγκάκης Κωνσταντίνος）（Διαχειριστής / 业主（findbiz；Ο.Ε. 合伙；WA 在线）= 拍板人 / 收件人（第 109 批 官方登记核实 2026-10-28））info@rfcom.gr（公司公开） +30 2310 257337〔https://www.vres.gr/rfcom-connecting-the-future〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 WA 季度触达。
 
@@ -216,6 +216,38 @@ WA 季度触达。
 | 2025-07-26 | 726 | 24 48口商业图 |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#8 |
 | 2025-10-03 | 103 | dac | email | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#8 |
 | ? | 93 | bypass | 22mini/email | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#8 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | GR · 1 次检索：findbiz.gr（ΞΥΓΚΑΚΗΣ, ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ., Ο.Ε.；Εμπορ: ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ. Ο.Ε.「RFCOM」（Xygkakis Konstantinos Il. O.E.；rfcom.gr；塞萨 · Active |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber industrial poe sfp switch 交换机 网络；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024.2.25 表: 发了2光4小壳信息→economic cost 4+2 Poe switch 100M 60w ‖ 93 表: bypass→22mini/email |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2024-02-25（32 月前） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：希腊·分销商；登记线索：GR · 1 次检索：findbiz.gr（ΞΥΓΚΑΚΗΣ, ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ., Ο.Ε.；Εμπορ: ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙ。往来 103→2026-09-02：我方去信 11 封（A 10 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.2.25 表: 发了2光4小壳信息→economic cost 4+2 Poe switch 100M 60w ‖ 93 表: bypass→22mini/email。我方报过：$170 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2024-02-25（32 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-04 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-10-03 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-13 | 去 | A | Booster PoE Switch |  |
+| 2025-12-11 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2026-01-16 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-13 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-05-18 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-10 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-09 | 去 | A | Saga Q3 Product Links |  |
+| 2026-09-02 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-02 | 去 | R |  |  |
+| 93 | 表 | 表 | bypass｜22mini/email |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -61,7 +61,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 10 封 / 表内 0 条 / 研究档 7 条（A；2026-04→2026-05）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 10 封 / 表内 0 条 / 研究档 1 条（A；2026-04→2026-05）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -330,6 +330,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 10 封 / 表内 0 条 / 研究档 7 条（A；2026-04→2026-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 10 封 / 表内 0 条 / 研究档 7 条（A；2026-04→2026-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 10 封 / 表内 0 条 / 研究档 1 条（A；2026-04→2026-05）"
   }
  ],
  "snap_thicken": {
@@ -357,15 +365,223 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 10 封 / 表内 0 条 / 研究档 7 条（A；2026-04→2026-05）",
+  "reason": "真回信 10 封 / 表内 0 条 / 研究档 1 条（A；2026-04→2026-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-05-06] Hi. Alan I have a few additional questions. ① MEANWELL products are expensive, so we need a Plan B. Regarding  ‖ [A 2026-05-08] Dear Alan. Thank you for your email. Has the power supply you suggested already obtained PSE certification? Pl ‖ 研 2026-05-06 井上: MEANWELL products are expensive, so we need a Plan B… 48V/2A model with a purcha / 2026-05-08 Inoue（UNEAX）: Has the power suppl"
+  "evidence": "[A 2026-05-06] Hi. Alan I have a few additional questions. ① MEANWELL products are expensive, so we need a Plan B. Regarding  ‖ [A 2026-05-08] Dear Alan. Thank you for your email. Has the power supply you suggested already obtained PSE certification? Pl ‖ 研 2026-05-05 UNEAX Inoue（附件 Requirements.xlsx，17 问）: 1 Certification FCC, RoHS · 2 Can we obtain the necessary certifications for sal"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "JP · 1 次检索：helloboss.com/corp/6021001077094（UNEAX株式会社；法人番号 6: UNEAX 株式会社（unea-x.com；**法人番号 6021001077094；設立 2022-10-04；本店  · 法人番号 6021001077094 · 营业中（登記 2022-10；官网在） · 2022-10-04"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "switch",
+   "工业"
+  ],
+  "p1": "STI-280GE",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-05-04",
+    "A",
+    "Hi.Alan Thank you for providing the certification status. Regarding the purchase of your products, is it possible to purchase “Made in China"
+   ],
+   [
+    "2026-05-05",
+    "A",
+    "Hi. Alan Thank you for your email. Please find our questions below. We appreciate your cooperation. UNEAX Inoue 2026年5月05日(火) 15:16 Alan fro"
+   ],
+   [
+    "2026-05-05",
+    "A",
+    "Hi. Alan san Thank you for your message. Are the labels on your 4-port products in English or Chinese? We would prefer samples with English "
+   ],
+   [
+    "2026-05-05",
+    "R",
+    "1 Certification FCC, RoHS · 2 Can we obtain the necessary certifications for sale in Japan under our company name? · 3 label translated into"
+   ],
+   [
+    "2026-05-06",
+    "A",
+    "Hi. Alan I have a few additional questions. ① MEANWELL products are expensive, so we need a Plan B. Regarding power supplies, we currently u"
+   ],
+   [
+    "2026-05-08",
+    "A",
+    "Dear Alan. Thank you for your email. Has the power supply you suggested already obtained PSE certification? Please confirm this. Best regard"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-05-08（5 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "日本·分销商；登记坐实：JP · 1 次检索：helloboss.com/corp/6021001077094（UNEAX株式会社；法人番号 6: UNEAX 株式会社（unea-x.。往来 2025-04-03→2026-09-14：我方去信 22 封（A 18 / S 0），对方真人来信 10 封 + 表内/备注 0 条；对方问过：2026-05-05 A: Hi. Alan san Thank you for your message. Are the labels on your 4-port products in English or Chinese? We would prefer samples with English  ‖ 2026-05-05 R: 1 Certification FCC, RoHS · 2。我方报过：$31 / $33 / $34.5 / $120 / $127 / $128。对位：STI-280GE；路径：企业邮箱 MX ok；最近来信 2026-05-08（5 月前）。",
+  "n_out": 22,
+  "n_in": 10,
+  "last_in": "2026-05-08",
+  "last_out": "2026-09-14",
+  "prices_out": [
+   "31",
+   "33",
+   "34.5",
+   "120",
+   "127",
+   "128"
+  ],
+  "timeline": [
+   {
+    "date": "2026-05-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Re: Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "060308a26a9998c0"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "in",
+    "box": "A",
+    "from": "inoue.mari@unea-x.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Hi. Alan Thank you for your email. Please find our questions below. We appreciate your cooperation. UNEAX Inoue 2026年5月05日(火) 15:16 Alan from Saga Telecom &lt;a",
+    "prices": [],
+    "bulk": true,
+    "k": "422b5322c81df9f6"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Re: Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "8676d6e4c032986e"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "in",
+    "box": "A",
+    "from": "inoue.mari@unea-x.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Hi. Alan san Thank you for your message. Are the labels on your 4-port products in English or Chinese? We would prefer samples with English labels. Could you pr",
+    "prices": [],
+    "bulk": true,
+    "k": "c68e65e3805d855f"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "in",
+    "box": "R",
+    "from": "UNEAX Inoue（附件 Requirements.xlsx，17 问）",
+    "subj": "",
+    "gist": "1 Certification FCC, RoHS · 2 Can we obtain the necessary certifications for sale in Japan under our company name? · 3 label translated into Japanese? · 5–7 log",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a att 2026-05-05"
+   },
+   {
+    "date": "2026-05-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Re: Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "5baf0e8e96978608"
+   },
+   {
+    "date": "2026-05-06",
+    "dir": "in",
+    "box": "A",
+    "from": "inoue.mari@unea-x.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Hi. Alan I have a few additional questions. ① MEANWELL products are expensive, so we need a Plan B. Regarding power supplies, we currently use a 48V/2A model wi",
+    "prices": [],
+    "bulk": true,
+    "k": "d591c419c309c81c"
+   },
+   {
+    "date": "2026-05-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Re: Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "3ee1098f834e6f04"
+   },
+   {
+    "date": "2026-05-08",
+    "dir": "in",
+    "box": "A",
+    "from": "inoue.mari@unea-x.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Dear Alan. Thank you for your email. Has the power supply you suggested already obtained PSE certification? Please confirm this. Best regards. UNEAX Inoue 2026年",
+    "prices": [],
+    "bulk": false,
+    "k": "439b458dff0aafe1"
+   },
+   {
+    "date": "2026-05-08",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga（Alan）",
+    "subj": "",
+    "gist": "Yes, they all are PSE-certified, desktop type, NOT DIN type. I checked why MEANWELL is not issuing PSE certification for DIN models (NDR-120 series and NDR-240 ",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 2026-05-08T08:35 → inoue.mari@unea-x.com"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Managed Commercial Switches",
+    "gist": "Re: Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "18fcdc87f4ccf5a9"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga（Alan）",
+    "subj": "",
+    "gist": "This is our 16-port DIN PoE switch featuring 1. 2*1G SFP slots with PoE af/at capability, 240W budget 2. Support PoE watchdog and 250-meter PoE 3. Ideal in CCTV",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 2026-09-14T01:30 → inoue.mari@unea-x.com"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

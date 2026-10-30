@@ -49,7 +49,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -162,6 +162,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Infinity Hardware：IT 硬件转售（新品 + 翻新），北卡"
   }
  ],
  "snap_thicken": {
@@ -173,7 +181,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -183,5 +191,140 @@
   "deal": "",
   "reply_class": "none",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：infinityhardware.com Terms（Supplier Go Get Intern: Go Get International LLC（dba Infinity Hardware；infinityhardware.us；High Point, N · 在营（SAM 未完成注册）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "2–10 人",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "美国·分销商；登记线索：US · 1 次检索：infinityhardware.com Terms（Supplier Go Get Intern: Go Get Internation。往来 2024-06-22→2026-08-17：我方去信 8 封（A 0 / S 6），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $220。对位：STI-288DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 8,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-08-17",
+  "prices_out": [
+   "65",
+   "220"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 port managed switch",
+    "gist": "48 port managed switch",
+    "prices": [
+     "220"
+    ],
+    "bulk": false,
+    "k": "4d4a1fa7c8cedf2c"
+   },
+   {
+    "date": "2024-07-17",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G Ethernet Switch",
+    "gist": "2.5G Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "47312c210378ceb8"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "fa1c2f6ad705aeae"
+   },
+   {
+    "date": "2024-09-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Power Converter",
+    "gist": "Power Converter",
+    "prices": [],
+    "bulk": false,
+    "k": "fd48ea3009a0d3de"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5c619c4f102f3413"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24V/48V PoE Switch",
+    "gist": "24V/48V PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b23b86c79d87bb19"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "out",
+    "box": "R",
+    "from": "S 群发",
+    "subj": "",
+    "gist": "48 port managed switch、2.5G Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   },
+   {
+    "date": "2026-08-17",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To eletrotecnicasoares@bol.c",
+    "subj": "",
+    "gist": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

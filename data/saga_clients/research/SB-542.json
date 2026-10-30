@@ -42,7 +42,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 lanopia：光纤/铜缆增值分销，poe 247 / industrial 126 词频（对位）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 lanopia：光纤/铜缆增值分销，poe 247 / industrial 126 词频（对位）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -184,6 +184,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 lanopia：光纤/铜缆增值分销，poe 247 / industrial 126 词频（对位）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 lanopia：光纤/铜缆增值分销，poe 247 / industrial 126 词频（对位）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·德国 lanopia：光纤/铜缆增值分销，poe 247 / industrial 126 词频（对位）"
   }
  ],
  "snap_thicken": {
@@ -206,7 +214,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -216,5 +224,190 @@
   "deal": "",
   "reply_class": "auto",
   "evidence": ""
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "DE · 1 次检索：companyhouse.de（LANOPIA GmbH；Euphemiaweg 20 A 852: LANOPIA GmbH（lanopia.de；巴伐利亚 Altomünster；Amtsgericht München · HRB 143448（Amtsgericht München） · Active · 2002-07-05"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-288GPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-04-15（30 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "德国·分销商；登记坐实：DE · 1 次检索：companyhouse.de（LANOPIA GmbH；Euphemiaweg 20 A 852: LANOPIA GmbH（lanop。往来 2023-11-02→2026-09-23：我方去信 18 封（A 18 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280。对位：STI-288GPM；路径：企业邮箱；最近来信 2024-04-15（30 月前）。",
+  "n_out": 18,
+  "n_in": 0,
+  "last_in": "2024-04-15",
+  "last_out": "2026-09-23",
+  "prices_out": [
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bbde7e5565fee3b4"
+   },
+   {
+    "date": "2025-11-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "04478b38dc68b288"
+   },
+   {
+    "date": "2025-12-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "0a5ad83c47f739a5"
+   },
+   {
+    "date": "2026-01-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "76da4025e3d5a03e"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "04abbfe6e94171a6"
+   },
+   {
+    "date": "2026-03-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "e14d4b77fa87fe43"
+   },
+   {
+    "date": "2026-05-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c4ff9e0514607b5d"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d9124be6471752a0"
+   },
+   {
+    "date": "2026-07-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "f34bada8d6752a41"
+   },
+   {
+    "date": "2026-08-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "b208940ce826d335"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "in",
+    "box": "A",
+    "from": "info@lanopia.de",
+    "subj": "Ihr email an Lanopia GmbH",
+    "gist": "Vielen Dank fuer Ihr Email und das Interesse an unseren Lanopia Produkten und Dienstleistungen. Unser Kundendienst oder unser technisches Support Team wird Sie ",
+    "prices": [],
+    "bulk": true,
+    "k": "13ba27424bd3e77f"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "9c7e166425737891"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

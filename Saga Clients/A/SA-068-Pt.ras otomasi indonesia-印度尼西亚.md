@@ -12,7 +12,7 @@ code: SA-068
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 
 name_official: "PT. RAS Otomasi Indonesia（雅加达/坦格朗，印尼）"
 score: 63
 country: 印度尼西亚
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印尼工业自动化与 MEP 承包商/系统集成商（PLC/HMI/SCADA 控制系统、MEP、安防 CCTV/门禁/消防、水处理、IT/电信基础设施；码头辅助系统、环境监测、智慧停车等方案），11–50 人、营收 <500 万美元；WA 在线，20 次跟进中 6 次回复，需求以工业 DIN 导轨 PoE 为主、项目制。（调研 2026-10-21；表内兴趣：工业品  din POE比较多 主要是做项目）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 6 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/印度尼西亚；+5 最近活动 2025
 - **历史互动**：实质回复 6 次；WhatsApp 已加；推送 20 次（2023-09-11 → 2025-10-09）；最近一次客户回复：2024-10-22：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 自动化/CCTV 盘柜里的 DIN PoE 位 → 8 PoE + 2 SFP 管理 + 4+1 紧凑款，双 DC 输入；—
 - **第一问（只问一个）**：For the DIN-rail PoE positions in your automation and CCTV panels, the Marvell-based 8-port gigabit PoE + 2 SFP managed unit and the 4+1 compact model are the two I am quoting EXW, both with dual DC input.
@@ -142,7 +142,7 @@ updated: 2026-10-30
   > Update : 11 November 2025 … RAS Otomasi Indonesia | Tangerang | sudarso@ras-otomasi.id
   > 来源：https://trimaxindo.co.id/local-partners/（抓取 2025-11-13）
 - **KP**：Sudarso（姓氏/职务未公开）（Trimaxindo 本地伙伴名录联系人）sudarso@ras-otomasi.id +62 21 2784-6419（公司）〔https://trimaxindo.co.id/local-partners/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。
 
@@ -213,6 +213,38 @@ updated: 2026-10-30
 | 2025-04-30 | 430 | marvell商业组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#10 |
 | 2025-06-21 | 621 | 工业非管理组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#10 |
 | 2025-10-09 | 109 | dac |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#10 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. RAS Otomasi Indonesia · （登记状态不可免费核） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din fiber poe 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-10-22 R: 用户表跟进：推「电口」→ 对方「price」 ‖ 2024.3.21 表: 发了company profile→thanks, 问了brochure ‖ 2024.5.15 表: 发了几个工业mini图→nice 问了价格 |
+| ④ 路径 | 活 | 免费邮箱 MX ok + WA；最近来信 2024-10-22（24 月前） |
+| ⑤ 规模 | 个人/微型 | 11–50（ZoomInfo） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：印度尼西亚·集成商/安装商；登记线索：印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. RAS Otomasi Indonesia · 。往来 1022→2024-10-22：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 7 条；对方问过：2023.9.11 表: 发了商业POE组合图→thanks, 问了brochure ‖ 2024-10-22 R: 用户表跟进：推「电口」→ 对方「price」 ‖ 2024.3.21 表: 发了company profile→thanks, 问了brochure ‖ 2024.5.15 表: 发了几个工业mini图→nice 问了价格。我方报过：未见报价数字。对位：STI-288DGGPM；路径：免费邮箱 MX ok + WA；最近来信 2024-10-22（24 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2023-09-11 | 来 | R | 用户表跟进：推「发了商业POE组合图」→ 对方「thanks, 问了brochure」 |  |
+| 2023.12.9 | 表 | 表 | 发了导轨电源信息｜nice |  |
+| 2023.9.11 | 表 | 表 | 发了商业POE组合图｜thanks, 问了brochure |  |
+| 2024-03-21 | 来 | R | 用户表跟进：推「发了company profile」→ 对方「thanks, 问了brochure」 |  |
+| 2024-05-15 | 来 | R | 用户表跟进：推「发了几个工业mini图」→ 对方「nice 问了价格」 |  |
+| 2024-08-13 | 来 | R | 用户表跟进：推「4 8口工业FS」→ 对方「yes」 |  |
+| 2024-09-26 | 来 | R | 用户表跟进：推「2.5G ethernet」→ 对方「yes」 |  |
+| 2024-10-22 | 来 | R | 用户表跟进：推「电口」→ 对方「price」 |  |
+| 2024.3.21 | 表 | 表 | 发了company profile｜thanks, 问了brochure |  |
+| 2024.5.15 | 表 | 表 | 发了几个工业mini图｜nice 问了价格 |  |
+| 2024.8.13 | 表 | 表 | 4 8口工业FS｜yes |  |
+| 926 | 表 | 表 | 2.5G ethernet｜yes |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

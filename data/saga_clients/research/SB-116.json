@@ -26,8 +26,8 @@
    "role": "联系人（研究档 KP）— 不动：需求 10G 光模块（不供）+ 多次「暂时没需求」 — 津巴布韦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 哈拉雷（第 122 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Pyramid Enterprises（津巴布韦，无域名）：2025 主动问 100 对千兆 WDM MC 项目——WDM 非 Saga 线；非主攻区",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -117,10 +117,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
@@ -136,6 +136,173 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Pyramid Enterprises（津巴布韦，无域名）：2025 主动问 100 对千兆 WDM MC 项目——WDM 非 Saga 线；非主攻区"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（gmail；仅表内信息）"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "poe",
+   "工业"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "3.3",
+    "表",
+    "→主动问了一个项目 只能提供一个MC"
+   ],
+   [
+    "6.12",
+    "表",
+    "→主动问了一个项目 100对千兆WDM MC"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok + WA；最近来信 2025-06-12（16 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：Pyramid Enterprises（津巴布韦，无域名）：2025 主动问 100 对千兆 WDM MC 项目——WDM 非 Saga 线；非主攻区"
+  ],
+  "story": "津巴布韦；未坐实：无域名（gmail；仅表内信息）。往来 2024.4.28→2025-06-12：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 7 条；对方问过：3.3 表: →主动问了一个项目 只能提供一个MC ‖ 6.12 表: →主动问了一个项目 100对千兆WDM MC。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：待定；路径：免费邮箱 MX ok + WA；最近来信 2025-06-12（16 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2025-06-12",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024.4.28",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了10G MC信息",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.7.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "passive poe手册",
+    "gist": "thanks",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.14",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业PoE",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-03-03",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「—」→ 对方「主动问了一个项目 只能提供一个MC」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.26 3.3"
+   },
+   {
+    "date": "2025-06-12",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「—」→ 对方「主动问了一个项目 100对千兆WDM MC」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.26 6.12"
+   },
+   {
+    "date": "2025.2.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "工业16 24口出货图",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "3.3",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "",
+    "gist": "主动问了一个项目 只能提供一个MC",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "6.12",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "",
+    "gist": "主动问了一个项目 100对千兆WDM MC",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "926",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "2.5G ethernet",
+    "gist": "thanks",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

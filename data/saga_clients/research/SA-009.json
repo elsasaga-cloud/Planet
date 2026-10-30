@@ -250,7 +250,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -269,8 +269,203 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·DCN 土耳其分销商（2010 起，万台在网）：同类国产交换机渠道（土耳其）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "Türkiye · find.com.tr（登记摘要 + 经营范围 2007-11-09 修订）+ EMIS（成立日，2: KOPTEK BİLGİSAYAR VE İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET L · İstanbul Ticaret Odası 会员（Ticaret Sicil  · 经营中（EMIS 2026-03 更新；官网在线） · 2006-02-07"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "fiber",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "未见人数；自述在土装机 10,000+ 台 DCN",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "土耳其·分销商；登记坐实：Türkiye · find.com.tr（登记摘要 + 经营范围 2007-11-09 修订）+ EMIS（成立日，2: KOPTEK BİLGİSAYAR 。往来 2024-07-08→2026-10-06：我方去信 18 封（A 12 / S 5），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $170 / $280。对位：STI-288DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 18,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-10-06",
+  "prices_out": [
+   "65",
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "f1beea1a3f4507fc"
+   },
+   {
+    "date": "2025-10-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "04dd529092533295"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "abe391dcf863f3a5"
+   },
+   {
+    "date": "2026-01-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "c459d873eea1ce7d"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "4046aa784e7616fa"
+   },
+   {
+    "date": "2026-03-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "8578d32272579a4d"
+   },
+   {
+    "date": "2026-04-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "26205d43a802a09f"
+   },
+   {
+    "date": "2026-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "d706a60d6f4ac5fc"
+   },
+   {
+    "date": "2026-06-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "307ac02c6a321052"
+   },
+   {
+    "date": "2026-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "6a5f155df2dcce97"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9bee2f0150574ce7"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "4b0c0b0ee729c222"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

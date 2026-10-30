@@ -302,7 +302,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -321,8 +321,202 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+: HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（品牌 Snexus · İstanbul Ticaret Sicil（号待补） · 经营中（官网博客 2026-04 / 2026-06 更新） · 待补（LinkedI"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "fiber",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "未见人数（小型）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "土耳其·OEM 品牌商；登记坐实：Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+: HEMMAH GROUP BİLİŞ。往来 2024-06-24→2026-09-17：我方去信 18 封（A 11 / S 6），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 18,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-17",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-11-21",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d906042688fda949"
+   },
+   {
+    "date": "2025-09-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "698780e6d358c574"
+   },
+   {
+    "date": "2025-10-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f0a70bed399e79be"
+   },
+   {
+    "date": "2025-11-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7386567b0f7ec1c7"
+   },
+   {
+    "date": "2025-12-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "827814e0aeb1f4f7"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "23bf8575885c8f94"
+   },
+   {
+    "date": "2026-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "3692ef6d940ac6b3"
+   },
+   {
+    "date": "2026-03-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "e3067afdcaaa8a99"
+   },
+   {
+    "date": "2026-06-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "109a9cac2593d84d"
+   },
+   {
+    "date": "2026-07-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "cbb19a92ec365d03"
+   },
+   {
+    "date": "2026-08-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "5c79ffffc51eec37"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6c17e8b243d49a3c"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

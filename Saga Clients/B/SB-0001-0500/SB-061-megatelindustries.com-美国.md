@@ -28,7 +28,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -239,6 +239,38 @@ updated: 2026-10-29
 | 2025-10-30 | 1030 | dac |  | S |  | S 09.08.xlsx#12 |
 | 2025-11-28 | 1128 | solar |  | S |  | S 09.08.xlsx#12 |
 
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | US · 1 次检索：官网 About（Founded in 1994, Megatel Industries corp: Megatel Industries Corporation（megatelindustries.com；North Wales, PA）— 1991/1994 · Active（站点在线） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber industrial media converter network poe sfp switch；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-11-26 S: Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries Corp. 664 Wagner Court North Wa |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-11-26（23 月前） |
+| ⑤ 规模 | ≥小型 | 3 人；$0.4–2M |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·OEM 品牌商；登记线索：US · 1 次检索：官网 About（Founded in 1994, Megatel Industries corp: Megatel Industries。往来 —→2026-09-08：我方去信 25 封（A 0 / S 24），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-11-26 S: Do you have a data sheet for this converter? Thanks for your business! Zack Yu – VP Sales Megatel Industries Corp. 664 Wagner Court North Wa。我方报过：$65 / $170 / $240 / $280 / $300 / $1500。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2024-11-26（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-25 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2025-07-29 | 去 | S | 16 Port Ethernet Switch |  |
+| 2025-08-27 | 去 | S | Industrial PoE Switch |  |
+| 2025-09-29 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-10-30 | 去 | S | 10G Enterprise SFP Switch | $280 |
+| 2025-11-27 | 去 | S | Booster PoE Switch |  |
+| 2025-12-30 | 去 | S | Optional Marvell Chipset Solutions |  |
+| 2026-01-29 | 去 | S | OEM Core Switching Solution |  |
+| 2026-03-02 | 去 | S | Updated Ethernet Switches Links |  |
+| 2026-06-22 | 去 | S | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
+| 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：25 封（去 24 / 来 1）　|　**期间**：2024-06-18 → 2026-09-08　|　**最后去信**：2026-09-08
@@ -379,12 +411,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 62）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

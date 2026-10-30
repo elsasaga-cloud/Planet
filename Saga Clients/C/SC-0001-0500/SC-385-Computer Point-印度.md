@@ -1,10 +1,10 @@
 # Computer Point
 
-> **评级 C**　|　印度　|　档案编号 `SC-385`　|　优先级 —　|　状态：成交过·维护
+> **评级 C**　|　印度　|　档案编号 `SC-385`　|　优先级 —　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：印度 Computer Point：成单 HDMI units（Saga 不供）→ 产品外；留 C
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(IN)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-385
@@ -17,7 +17,7 @@ region: 南亚
 website: computerpoint.co.in
 type: 经销/集成（类型待核）
 tier_tags: ["AI评估(IN)·DONE"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -28,14 +28,14 @@ price_tier: 20%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度的经销/集成（类型待核）；兴趣/在卖：HDMI units
-- **为什么是 C 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；C 级细分：品类不符（VC/DWDM/CCTV 等）
-- **历史互动**：成交/下单过
+- **为什么是 C 级**：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；C 级细分：品类不符（VC/DWDM/CCTV 等）
+- **历史互动**：名单内·无互动记录
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（VC/光端机：Saga 不做（可只推交换机））
 - **最大未知**：网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
@@ -118,7 +118,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ⚠️ 仅免费邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -144,8 +144,8 @@ updated: 2026-10-29
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 21）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 21）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -12,7 +12,7 @@ code: SA-061
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "RYMTECH E.A.S.（商号 RYMTECH TACTICAL CYBEROPS；RYMTECH CYBERSECURITY LLC；亚松森，巴拉圭）"
 score: 69
 country: 巴拉圭
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴拉圭集成/工程商（World Trade Center 亚松森办公地址），WA 在线，3 次回复、18 次跟进，明确需求 2 台 12 光 12 电交换机。（调研 2026-10-21；表内兴趣：2个12光12电 '+5959857 48567 已加）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴拉圭；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴拉圭；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 18 次（2023-12-09 → 2025-10-06）；最近一次客户回复：2025-01-02：问了高速的 后续没进展了
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：SmartByte 12 光 12 电 — 12 光 12 电 ×2（SOC 机柜或客户现场未定，L3 与否未定）→ 先确认部署与 L3 再报，不报通用价；—
 - **第一问（只问一个）**：For the two 12-SFP + 12-RJ45 units, could you confirm the deployment (your own SOC rack or a client site) and whether you need L3 features, so I quote the right build rather than a generic one?
@@ -135,7 +135,7 @@ updated: 2026-10-30
   > Rymtech E.A.S Avenida Aviadores Del Chaco 2050 World Trade Center, Torre 3, Piso 14 Asuncion Asuncion 1890
   > 来源：https://www.nsnlookup.com/cage/py（抓取 2026-10-16）
 - **KP**：Ruslan Osorio Guerra（股东 / 负责人（政府采购登记；FIRST 2024 演讲人））—（未公开） —〔https://www.contrataciones.gov.py/proveedor/rymtech-e-a-s.html〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。
@@ -198,6 +198,34 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 2025-05-24 | 524 | bypass |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#52 |
 | 2025-06-25 | 625 | 发了4 8 16口工业PoE图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#52 |
 | 2025-10-06 | 106 | dac |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#52 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAm: RYMTECH E.A.S. · RUC 80125463-9 · 美国 CAGE 代码持有（名录） · Activo（政府采购登记在册） · 2015（Conne |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：交换机 网络；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 1.2 表: mini→问了高速的 后续没进展了 ‖ 1011 表: 2.5g/10g network→有兴趣 让发资料 ‖ 2024.2.9 表: 发工业电源最新的价格册→I will check |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-01-02（21 月前） |
+| ⑤ 规模 | ≥小型 | Micro（政府采购登记）/ 50（ConnectAmericas 自报） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：巴拉圭·集成商/安装商；登记坐实：Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAm: RYMTECH E.A.S. · R。往来 1.2→2025-01-02：我方去信 2 封（A 0 / S 2），对方真人来信 0 封 + 表内/备注 3 条；对方问过：1.2 表: mini→问了高速的 后续没进展了 ‖ 1011 表: 2.5g/10g network→有兴趣 让发资料 ‖ 2024.2.9 表: 发工业电源最新的价格册→I will check。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2025-01-02（21 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 1.2 | 表 | 表 | mini｜问了高速的 后续没进展了 |  |
+| 1011 | 表 | 表 | 2.5g/10g network｜有兴趣 让发资料 |  |
+| 2024-02-09 | 来 | R | 用户表跟进：推「发工业电源最新的价格册」→ 对方「I will check」 |  |
+| 2024-09-09 | 去 | S | Mini industrial switch |  |
+| 2024-10-11 | 去 | S | 2.5G/10G network switch |  |
+| 2024-10-11 | 来 | R | 用户表跟进：推「2.5g/10g network」→ 对方「有兴趣 让发资料」 |  |
+| 2024.2.9 | 表 | 表 | 发工业电源最新的价格册｜I will check |  |
+| 2025-01-02 | 来 | R | 用户表跟进：推「mini」→ 对方「问了高速的 后续没进展了」 |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

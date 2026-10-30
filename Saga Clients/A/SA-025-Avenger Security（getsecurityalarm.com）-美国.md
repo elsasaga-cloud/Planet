@@ -12,7 +12,7 @@ code: SA-025
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
 name_official: "Avenger Security / Security Tekton（Austin & Hutto, Texas）"
 score: 84
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德州奥斯汀的员工持股安防监控服务商（商业/住宅报警、消防报警、门禁、云视频监控、UL 中心站监控），服务奥斯汀/休斯敦/达拉斯/圣安东尼奥，<$5M 营收。用户表：A 已回复，2 次实质回复，兴趣商业 PoE，电话 (512) 563-5361。（调研 2026-10-21；表内兴趣：商业PoE；2025-06-12 要 16 口 DIN 千兆交换机价；2025-09-09 要 STI-244GP 价与发货地（「used this PoE in solar configurations, like the overcur）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；推送 2 次（2025-06-12 → 2025-09-08）；最近一次客户回复：2025-09-08：Price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP — 他点名的就是 STI-244GP 这档；安装商 25%；太阳能站点 → 强调 44–57V 宽压 + 过流/DIP；STI-244GP $35 EXW（Alan 2025-09-09 已报；主表 25% 档 $36.6、列表 $49.5——沿用 $35）；STI-0160GE 16 口 DIN 千兆非管理 $100（Alan 2025-05-28 对加拿大 SC-2150 实报；SA-010 2025-02 $105；规则 ㉕ 非管理工业线不用档位价 $95.3）；备选 STI-054GP（4 PoE + 1 GE）$39 更省；群发里他已看到的价：2026-08-10 $170（24 Port PoE Managed = STC-424XGGPM-280W，现价轮 $180）、2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Brandon — picking up your September note on the solar sites: STI-244GP (2 SFP + 4 GbE PoE, 44–57 V DC, DIP, −40 to +75 °C) is $35 EXW; 2 pcs by DHL to Austin lands in about a week — how many solar/off-grid sites are you fitting this season, and shall I send two for the next one?
@@ -159,7 +159,7 @@ updated: 2026-10-30
   > 来源：https://securitytekton.com/pages/access-control-service（抓取 2026-10-21）
 - **KP**：—（总机 → 实际收件人 = Owner Brandon Walter Adams（TX 登记 0800828533，2007-05；微型报警装机商）（第 85 批 官方登记核实 2026-10-27））info@getsecurityalarm.com +1 512-563-5361〔https://securitytekton.com/pages/about-us〕
 - **KP**：Brandon Walter Adams（Founder / Owner（2004 创立，官网 About））—（未公开） +1 512-610-2698（公司）〔https://securitytekton.com/pages/about-us〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 2 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装项目用 8/16 口 PoE）；P1 = STC-28DGGPM，25% 集成商档；注意 UL：仅报 CE/FCC（Saga 无 UL）。
 
@@ -216,6 +216,38 @@ A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装�
 |---|---|---|---|---|---|---|
 | 2025-06-12 | 2025.6.12 | 16电 | Price | A |  | A Replied 09.04.xlsx#5 |
 | 2025-09-08 | 2025.9.8 | 24PoE | Price | A |  | A Replied 09.04.xlsx#5 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | USA · BBB 登记（成立 / 注册 / 别名 / 管理层）+ Texas 执照（官网公示 B12519 / B03: AVENGER SECURITY SERVICES, INC.（别名 Central Security / GetSec · Texas Filing No. 0800828533 · Texas… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din industrial network poe；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2025.6.12 表: 16电→Price ‖ 2025.9.8 表: 24PoE→Price |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-09-09（13 月前） |
+| ⑤ 规模 | 个人/微型 | 1–5（第 85 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·集成商/安装商；登记坐实：USA · BBB 登记（成立 / 注册 / 别名 / 管理层）+ Texas 执照（官网公示 B12519 / B03: AVENGER SECURITY S。往来 2025-01-23→2026-09-08：我方去信 17 封（A 14 / S 1），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2025.6.12 表: 16电→Price ‖ 2025.9.8 表: 24PoE→Price。我方报过：$170 / $280。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-09-09（13 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-09 | 去 | R |  |  |
+| 2025-10-02 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-24 | 去 | A | 90W PoE Managed Switch |  |
+| 2025-11-13 | 去 | A | Booster PoE Switch |  |
+| 2025-12-09 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-26 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.6.12 | 表 | 表 | 16电｜Price |  |
+| 2025.9.8 | 表 | 表 | 24PoE｜Price |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-08 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

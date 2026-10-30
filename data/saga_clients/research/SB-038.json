@@ -39,7 +39,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -216,6 +216,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -245,7 +253,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -255,5 +263,182 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 418: marvell系列商→info"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Polska · KRS（krs-pobierz / aleo 镜像）: „TRICOMP” SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0000121281 · NIP 5222477449 · REGON  · Aktywna（KRS 最近变更 2025-04-14） · 2002-07-04"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "418",
+    "表",
+    "marvell系列商业图→info"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-04-18（18 月前）"
+  ],
+  "size": "小型（1–24 人，D&B 估算）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "波兰·集成商/安装商；登记坐实：Polska · KRS（krs-pobierz / aleo 镜像）: „TRICOMP” SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIAL。往来 1022→2026-09-25：我方去信 4 封（A 3 / S 0），对方真人来信 0 封 + 表内/备注 9 条；对方问过：418 表: marvell系列商业图→info。我方报过：$170。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok + WA；最近来信 2025-04-18（18 月前）。",
+  "n_out": 4,
+  "n_in": 0,
+  "last_in": "2025-04-18",
+  "last_out": "2026-09-25",
+  "prices_out": [
+   "170"
+  ],
+  "timeline": [
+   {
+    "date": "2024.2.9",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了电口系列相关信息",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.15",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个工业mini图",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.13",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "passive poe手册",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-02-22",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「工业 16 24口出货图」→ 对方「暂时没需求」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/PL 2.6.xlsx no.14 2025.2.22"
+   },
+   {
+    "date": "2025-04-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「marvell系列商业图」→ 对方「info」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/PL 2.6.xlsx no.14 418"
+   },
+   {
+    "date": "2025.2.22",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "工业 16 24口出货图",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "f0c1a74458183937"
+   },
+   {
+    "date": "2026-08-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e3d6d2a102ae8829"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "4e4572307e396eed"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "out",
+    "box": "R",
+    "from": "A 群发",
+    "subj": "",
+    "gist": "Saga Q3 Product Links、24 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   },
+   {
+    "date": "418",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "marvell系列商业图",
+    "gist": "info",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "926",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业PoE",
+    "gist": "暂时没需求",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

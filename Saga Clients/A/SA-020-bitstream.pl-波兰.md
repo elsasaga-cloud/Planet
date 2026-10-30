@@ -12,7 +12,7 @@ code: SA-020
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "BitStream S.A.（Lublin, Poland）"
 score: 88
 country: 波兰
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波兰卢布林的工业网络与时间同步设备制造商（15+ 年，2023 年改制股份公司），自研自产：Hyperion 系列工业以太网交换机（DIN/机架、PoE、L2/L3、PRP/HSR 冗余）、MC、接口转换器、PTP/NTP 时间服务器、加密路由器；出口西欧/北欧/北美/南美/澳洲，政府出口名录公开联系人 mbeczek@bitstream.pl。用户表：A 已回复，自己的牌子，工业 FS/SFP/MC 及其他产品，有人卖他们的，回复中有详细联系方式。（调研 2026-10-21；表内兴趣：自己的牌子 工业FS SFP MC 一些其他产品 有人卖他们的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-01→2025-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-01→2025-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-01-30 → 2025-01-30）；最近一次客户回复：2025-01-30：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-244GP / STI-110GE（非管理工业 / MC） — 换到非核心 SKU 问一次。已打开的主题（5/20 封有打开记录）：「90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-01-30)、「Re: 90W PoE Managed Switch」(2025-03-20)、「Re: 90W PoE Managed Switch」(2025-04-21) → 读者兴趣偏「PoE 接入」；当前 P1 属「10G 汇聚/L3」，下一封按「PoE 接入」给，不按 P1；换人再触锚价 STI-244GP $35 EXW（最近实报 $35（㉕）；第 72 批 2026-10-24）；按 30%；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-22 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-17 $65（10G Media Converter）、2025-10-10 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which part of the BitStream catalogue is bought-in today (unmanaged DIN, MC, SFP), and would an externally sourced unmanaged DIN line (and a Marvell L2+ managed tier above it) be considered? Reference: STI-244GP at $35 USD EXW (MOQ 1, 15-day validity).
@@ -163,7 +163,7 @@ updated: 2026-10-30
 - **KP**：M. Beczek（mbeczek@）（出口/商务联系人（官方名录公开））mbeczek@bitstream.pl +48 691 161 866〔https://www.trade.gov.pl/en/polish-companies/bitstream-spolka-akcyjna〕
 - **KP**：Katarzyna Surowiec（来信署名人（职务未在邮件署名里出现））ksurowiec@bitstream.pl 〔S/A 邮箱来信 2025-01-30 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Dariusz Pietrzyk（Prezes Zarządu（从 Sp. z o.o. 时代起的当家人）（第 83 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/1010572/bitstream〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-01→2025-01）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-01→2025-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；切入点 = 其非核心 SKU（非管理工业交换机、MC、SFP）贴牌，30% 档；避免与其自研 PRP/HSR 高端线正面竞争。
 
@@ -223,6 +223,38 @@ A 确认：欧洲工业网络品牌商，已回复并给了详细联系方式；
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-01-30 | 2025.1.30 | 28BT | INFO | A |  | A Replied 09.04.xlsx#37 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像）: BITSTREAM SPÓŁKA AKCYJNA（原 Bitstream Sp. z o.o.，KRS 00002662 · KRS 0001010572（S.A.，2023-01-02）· 旧 KRS 0… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet poe sfp 交换机 工业 网络；P1 STC-424XGGPM-280W |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-01-30 A: What is the price? -- Pozdrawiam, *Katarzyna Surowiec*Asystentka Zarządu *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@b ‖ 2025.1.30 表: 28BT→INFO |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-08-11（2 月前） |
+| ⑤ 规模 | ≥小型 | 小型（trade.gov.pl） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：波兰·OEM 品牌商；登记坐实：Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像）: BITSTREAM SPÓŁKA AKCYJN。往来 2024-06-24→2026-09-07：我方去信 20 封（A 14 / S 6），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-01-30 A: What is the price? -- Pozdrawiam, *Katarzyna Surowiec*Asystentka Zarządu *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@b ‖ 2025.1.30 表: 28BT→INFO。我方报过：$65 / $140 / $170 / $280 / $300。对位：STC-424XGGPM-280W；路径：企业邮箱 MX ok；最近来信 2026-08-11（2 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-05-26 | 去 | A | Marvell Alleycat5 Solution |  |
+| 2025-07-03 | 去 | A | Marvell Industrial Alert System |  |
+| 2025-08-05 | 去 | A | Industrial PoE Switch |  |
+| 2025-09-15 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-10-10 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-20 | 去 | A | Booster PoE Switch |  |
+| 2025-12-23 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.1.30 | 表 | 表 | 28BT｜INFO |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 来 | A | Nieobecność Re: 24 Port PoE Managed Switch｜W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na … |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

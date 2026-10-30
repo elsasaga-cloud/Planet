@@ -12,7 +12,7 @@ code: SB-002
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 name_official: "XSPEC Technology Sdn. Bhd.（Subang Jaya, Malaysia）"
 score: 123
 country: 马来西亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：马来西亚制造商代表/分销商（2005 年注册），代理 NDT 检测、军警安防、医疗、生物实验室设备，覆盖马/印尼/新加坡；联系人 Sugito Wibawa。用户表：对交换机/PoE 交换机有兴趣，WhatsApp 跟进，有成单记录。（调研 2026-10-22；表内兴趣：对交换机，POE交换机有兴趣 Skype: sugitowibawa 公司地址：No. 8, Jalan Industri USJ 1/8Taman Perindustrian USJ 147600 Subang Jaya, Selango）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 Saga 成单（PI 包）；+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/马来西亚；+2 最近活动 2024
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 3 次（2024-06-14 → 2024-12-10）；最近一次客户回复：2024-11-18：passive poe only
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无主动动作 — B 慢跟｜毛利复盘：22.2% → 30.2%（S2800P-24F-2TS 成本 500）——正常；历史报价（邮件原话，老汇率）：2024-06-17 90usd
 - **第一问（只问一个）**：Sugito, following our earlier exchange on PoE switches: for your security/lab projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW (24-port 280 W at $140.1), neutral packing — is there a current tender where I can quote a specific quantity?
@@ -163,7 +163,7 @@ updated: 2026-10-30
   > MALAYSIA XSPec Technology Sdn Bhd Sugito Wibawa … W: xspectechnology.com
   > 来源：https://converus.com/find-a-partner/（抓取 2026-09-23）
 - **KP**：Sugito Wibawa（Managing Director（abc-gcc 名录；研究档 KP；WA 在联；表内有成单记录）= 拍板人 / 收件人 — 复购一页纸：分销 20% B（升 A 候选 ★）、上次成交型号续单价 + STI-288DGGPM / STC-2224GP 一口价 + MOQ 1；WA 为主 — 马来西亚常规：英文稿、20 / 25 / 30 + T/T 预付 + FOB 深圳、SIRIM 不声称（第 119 批 官方登记核实 2026-10-28））sugito@xspec.com.my +60 3 8023 1161〔https://www.intron.ru/en/about-us/agents/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 
 
@@ -214,6 +214,38 @@ updated: 2026-10-30
 | 2024-06-14 | 2024.6.14 | 发了商业poE 228信息 | 24 port passive poe  后续成单 | Email |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
 | 2024-11-18 | 1118 | 引流机型 | passive poe only | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
 | 2024-12-10 | 1210 | 问需求 推了迷你 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#122 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (2: Xspec Technology Sdn Bhd（xspec.com.my；**SSM 200501018493 (70 · SSM 200501018493 (700608-K) · 营业中（登… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：industrial poe 交换机；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-06-18 S: Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simon wrote: ‖ 2024-07-05 R: LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前） |
+| ⑤ 规模 | ≥小型 | 未见人数；经营 20+ 年 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：马来西亚·OEM 品牌商；登记坐实：MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (2: Xspec Technology S。往来 1118→2024-11-18：我方去信 7 封（A 0 / S 6），对方真人来信 4 封 + 表内/备注 2 条；对方问过：2024-06-18 S: Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jalan Industri USJ 1/8, Taman Peri ‖ 2024-06-18 S: Hi Simon Can we pay via Bank 。我方报过：$90。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-06-14 | 去 | S | Re: PoE Switch |  |
+| 2024-06-14 | 来 | S | Re: PoE Switch｜Hi Simon I am looking for PASSIVE POE 24 port Switch. Do you have ? Regards |  |
+| 2024-06-14 | 去 | S | PoE Switch |  |
+| 2024-06-17 | 去 | S | Re: Re: PoE Switch | $90 |
+| 2024-06-18 | 去 | S | Re: Re: PoE Switch |  |
+| 2024-06-18 | 来 | S | Re: Re: PoE Switch｜Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simon wrote: |  |
+| 2024-06-18 | 去 | S | Re: Re: PoE Switch | $90 |
+| 2024-06-18 | 来 | S | Re: Re: PoE Switch｜Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jalan Industri USJ 1/8, T… |  |
+| 2024-06-18 | 去 | R |  |  |
+| 2024-06-21 | 去 | S | Re: Re: PoE Switch |  |
+| 2024-11-18 | 来 | R | 用户表跟进：推「引流机型」→ 对方「passive poe only」 |  |
+| 2024.6.14 | 表 | 表 | 发了商业poE 228信息｜24 port passive poe  后续成单 |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

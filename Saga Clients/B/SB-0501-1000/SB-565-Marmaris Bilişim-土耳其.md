@@ -12,6 +12,7 @@ code: SB-565
 rating: B
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
+rating_research: B  # A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Marmaris Bilişim（土耳其，不会英文，拿别家产品册问 PoE 
 name_official: "Marmaris Bilişim（Marmaris/Muğla, TR；无域名、无邮箱，仅 WhatsApp）"
 score: 37
 country: 土耳其
@@ -29,13 +30,13 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：ISAF 记录：Marmaris Bilişim（+90 533 358 54 80，WhatsApp 已加）——不会英文，说 fiber out，拿别的公司的产品册问了 PoE splitter、PON；无邮箱/域名；无跟进。马尔马里斯本地 IT 店；所询 PoE 分离器与 PON 非 Saga 主线（价格表无 splitter/PON）→ 仅表内信息，B 托底。（调研 2026-10-21；表内兴趣：不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon；不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon）
-- **为什么是 B 级**：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Marmaris Bilişim（土耳其，不会英文，拿别家产品册问 PoE splitter / PON）：品类不对位、无域名）；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 默认 25% 档：STC-228GP（2 SFP + 8 GE PoE，列表 $30.8）配光纤接入；MC STI-110GE（$23.4）；PoE splitter / PON 不供；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$34.6；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?
@@ -111,6 +112,7 @@ updated: 2026-10-29
   > 不会英文， 说fiber out, 拿别的公司的产品册问了PoE splitter, pon / 0 533 358 5480 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（Marmaris Bilişim 店主，姓名待核）（—）— +90 533 358 54 80（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
+- **调研后定级**：B（原自动 B）——A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Marmaris Bilişim（土耳其，不会英文，拿别家产品册问 PoE splitter / PON）：品类不对位、无域名
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -137,6 +139,27 @@ updated: 2026-10-29
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**下放B**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | TR · 1 次检索（顺带命中）：şikayetvar 结构化数据（Marmaris Bilişim，Sarıana M: Marmaris Bilişim（Marmaris Wifi；Marmaris / Muğla） · Aktif（域 marmarisbilisim.com.tr |
+| ② 角色 / 对位 | 未知 | 对位词：fiber poe 网络；P1 STC-228GP |
+| ③ 需求证据 | 泛（问价/要目录） | 2025 表: Simon 备注/兴趣栏→不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po |
+| ④ 路径 | 弱 | 无邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 个人/微型 | 微型（1–5 人）（第 91 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：角色未知；路径弱；人工终判：Marmaris Bilişim（土耳其，不会英文，拿别家产品册问 PoE splitter / PON）：品类不对位、无域名 |
+
+**故事线**：土耳其；登记线索：TR · 1 次检索（顺带命中）：şikayetvar 结构化数据（Marmaris Bilişim，Sarıana M: Marmaris Bilişim（M。往来 2025→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2025 表: Simon 备注/兴趣栏→不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-228GP；路径：无邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025 | 表 | 表 | Simon 备注/兴趣栏｜不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po |  |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -234,12 +257,12 @@ Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fib
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

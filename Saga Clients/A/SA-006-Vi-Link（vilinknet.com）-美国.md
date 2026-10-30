@@ -12,7 +12,7 @@ code: SA-006
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 name_official: "Vilink Communications, Inc.（Vi-Link, Irvine/Brea, CA）"
 score: 150
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国加州光纤数字传输产品制造商（1993 年成立，1–10/11–50 人口径不一，营收约 $11–12M 口径），自有品牌 Vi-Link：视频光端机、光复用器、工业以太网交换机、工业光纤收发器（交通控制应用）。用户表：S 重点名单，兴趣 光猫/3G-SDI/VC/SFP/DAC/MC，1 次实质回复。（调研 2026-10-22；表内兴趣：光猫 3G SDI VC SFP模块 DAC MC；OEM 贴牌复购（2024-04 L3 光口机、2024-11 媒体转换器、2026-09 10 台 MC1000SC03）；2026-09-25 问 24 口 PoE「our cost」）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 Saga 成单（PI 包）；+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2026；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 19 次（2023-12-09 → 2025-12-08）；最近一次客户回复：2024-11-13：下单了
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W — 对方刚主动问价，且是能自己贴牌卖的美国品牌商 → 20% 档（经销/贴牌转售）；首单按 1–2 台样机 + OEM 丝印走，和他过去三单一样的节奏｜毛利复盘：三单 3.8% / 11.4% / 8.4%，利润合计 750 RMB——丝印固定费 + 运费摊在 4–10 台上；以后丝印单收一次性费（2024-11 收过 $50）或 MOQ 20 台，否则只维持不追；Simon 已口头报 1300 RMB/台（≈$194 USD EXW @6.69）；仓内 20% 档为 $181.2（CNY 1010 ×1.2 ÷6.69，2026-10-17 快照）→ 以 Simon 口头价为准，邮件里写 USD $194 EXW 并注明 15 天有效；历史报价（邮件原话，老汇率）：2024-11-16 ；2024-11-14 ；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2026-07-20 $1500（24 Port 10G SFP+ Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-13 $65（10G Media Converter）、2025-10-30 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Is this 24-port PoE switch for your own Vi-Link label (same OEM printing as the converters), or for a specific end-customer project?
@@ -220,7 +220,7 @@ updated: 2026-10-30
   > 来源：https://vilink.us/product/im28/（抓取 2026-10-23）
 - **KP**：Robin Sun（联系人（ProcessRegister 名录口径））sales@vilinknet.com（产品 PDF 页脚公开） +1 714-312-0654〔https://www.processregister.com/Vilink_Communications_Inc/Supplier/sid161883.htm ; https://vilink.us/wp-content/uploads/2024/08/MC12.pdf〕
 - **KP**：Thu Pham（Owner（商会名录 / D&B 联系人 / 2018 OCTA 投标联系人）= 老板 = 联系人；公司已收缩至微型（Brea 关店、D&B 1 人），现址 450 Goddard Irvine（第 84 批 官方登记核实 2026-10-27））thupvilink16@gmail.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 应改为 STI 工业系列（非 PoE 商用）。
 
@@ -294,6 +294,38 @@ A 确认：美国自有品牌工业交换机/MC 厂商 = 最佳 OEM 对象；P1 
 | 2025-08-28 | 828 | 28bt |  | S |  | S 09.08.xlsx#13 |
 | 2025-10-30 | 1030 | dac |  | S |  | S 09.08.xlsx#13 |
 | 2025-12-08 | 128 | solar |  | S |  | S 09.08.xlsx#13 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人: VILINK COMMUNICATIONS, INC.（Vi-Link） · California corporation（实体号待补） · 经营中但明显收缩（Brea 门店 YP 标 CLOSE… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber industrial sfp switch 交换机 光纤 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-08-19 R: I am looking for 10 pcs of 10/100M Fast Ethernet SM SC connectors. Please see the attached information（MC100SC03.pdf） ‖ 2026-08-21 R: Thanks for the quote. Can you explain the function of the DIP switches? … |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-09-25（1 月前） |
+| ⑤ 规模 | ≥小型 | 1–数人（D&B 1 人；第三方营收估值不可信）（第 84 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·OEM 品牌商；登记坐实：USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人: VILINK COMMUNICATI。往来 1113→2026-09-27：我方去信 31 封（A 0 / S 25），对方真人来信 11 封 + 表内/备注 3 条；对方问过：2025-05-09 S: On 2025-03-27 08:00, Simon from Saga Telecom wrote: Hi Simon, Can you send me the full price list of your products? Thank you ‖ 2026-08-19 R: I am looking for 10 pcs of 10/100M Fast Ethe。我方报过：$50 / $65 / $75 / $280 / $1500。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-09-25（1 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-08-20 | 来 | R | Yes, it is [a confirmed order]. Can you let me know the cost and time? |  |
+| 2026-08-21 | 来 | R | Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter. |  |
+| 2026-08-22 | 去 | R |  |  |
+| 2026-09-01 | 来 | R | My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03. |  |
+| 2026-09-02 | 来 | R | Attached is the silkscreen for MC1000SC03. Can you send me the new PI |  |
+| 2026-09-03 | 来 | R | Here is the T/T payment. Can you send me the user manual? |  |
+| 2026-09-08 | 来 | R | This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters. |  |
+| 2026-09-14 | 来 | R | 1. Vi-Link = Arial - B ; Fiber Optic Communications = Segoe UL Light ; Model = Segoe UL… 2. Can your converter auto-negotiate at 10/100/1000M speeds o… |  |
+| 2026-09-21 | 来 | R | Yes, it looks good. Thank you |  |
+| 2026-09-24 | 去 | R |  |  |
+| 2026-09-25 | 来 | R | Thank you - It looks good. I will take a look at the switch. What would be our cost? |  |
+| 2026-09-27 | 去 | R |  |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

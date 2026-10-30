@@ -34,7 +34,7 @@
   "why": "项目集成商 → 25% 档；汇聚层 L3 口型先用工业 L3 顶上，商用 48 口 L3 另议"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
  "mail_review": {
   "binding": {
    "level": "轻度触达→未答 RFQ（2024-03-09 Hassan Cheema 发来接入/汇聚交换机 + 路由器技术规格 RFQ；S 邮箱 out 0——仓库无回复记录；Elsa 箱：`to:litech.com.pk` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → 三箱（S/A/E）均未发（第 74 批(n)））",
@@ -142,10 +142,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
   "why_not": "",
   "excl": "",
@@ -161,6 +161,71 @@
    "to": "A",
    "prev_reason": "具名 BD 经理 + 真实 RFQ，但年代久、规格对标华为（部分做不了）、未回 → B",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, L: LITECH Pakistan (Private) Limited（litech.com.pk；**2018 年设立（母公司 Litech Sdn Bhd 马来 · 营业中（官网 + D&B）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "交换机"
+  ],
+  "p1": "STI-41616XGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-03-09",
+    "R",
+    "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compl"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-03-09（31 月前）"
+  ],
+  "size": "中（有 BD 经理、项目制）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "巴基斯坦·集成商/安装商；登记线索：PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, L: LITECH Pakistan (P。往来 2024-03-09→2024-03-09：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2024-03-09 R: Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compl。我方报过：未见报价数字。对位：STI-41616XGGPM；路径：企业邮箱；最近来信 2024-03-09（31 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2024-03-09",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-03-09",
+    "dir": "in",
+    "box": "R",
+    "from": "Hassan Cheema",
+    "subj": "",
+    "gist": "Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement.",
+    "prices": [],
+    "bulk": false,
+    "k": "7203d72a927b7030"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

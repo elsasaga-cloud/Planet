@@ -9,7 +9,7 @@
 code: SB-074
 rating: A
 rating_auto: A
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交
 name_official: "Bilge Security Systems（土耳其；ISAF 2025）"
 score: 60
 country: 土耳其
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其安防公司，ISAF 2025 现场：不懂英文，拿了彩页，表示要 PoE 交换机；WA 已加，尚无邮件跟进。（调研 2026-10-21；表内兴趣：不懂英文， 拿了彩页， 说了要POE SWITCH；不懂英文， 拿了彩页  说了要PoE SWITCH）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场））；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场））；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — 安装商 25% 档：STC-28DGGPM（$84.1）；低价位 Realtek 线 STC-028GP（$24.2）；WhatsApp 用土耳其语图片报价；Realtek 线按 HRUI 2026-09-30 进价 +25% 现算（Q-47 默认，不用 Drive 旧表价）：STC-208GP $24.2→$26.2；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：ISAF'ta görüştüğümüz PoE switch için: 8 port gigabit PoE+ yönetilebilir, 2 SFP, $84.1 EXW; yönetilemeyen 8 port PoE $26.2. Kaç kamera için planlıyorsunuz?
@@ -123,7 +123,7 @@ updated: 2026-10-30
   > 不懂英文， 拿了彩页， 说了要POE SWITCH；90 53212 02931 已加（用户 Clients 表摘录）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +90 532 120 2931（WA）〔用户 Clients 表（ISAF 2025）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：要 PoE 交换机，拿了彩页，WA 已加（土耳其主战场）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+价格，一次。
 
@@ -168,6 +168,21 @@ WA 用土耳其语模板（机器翻译）发 STC-28DGGPM / STC-21616GP 图片+�
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology: Bilge Güvenlik Sistemleri ve Teknoloji A.Ş.（Bilge Security；bilgeguvenlik.com / b · Active（2026 EMI… |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber poe switch 交换机；P1 STC-28DGGPM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：土耳其·分销商；登记线索：TR · 1 次检索：官网 About / İletişim（Bilge Security and Technology: Bilge Güvenlik Sis。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

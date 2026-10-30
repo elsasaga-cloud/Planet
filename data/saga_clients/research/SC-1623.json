@@ -67,6 +67,22 @@
     "quote": "推「154」→ 对方「10pcs price」",
     "why": "表内客户回复（pos）",
     "k": "Clients/ 表格"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://southernelements.co.za/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Southern Elements · 249 followers · fiber optic networks in Southern Africa",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://za.linkedin.com/company/southernelements"
    }
   ],
   "binding": {
@@ -90,10 +106,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）",
   "why_not": "",
   "excl": "",
@@ -109,8 +125,207 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（S；2024-10→2024-10）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "fiber"
+  ],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "1016",
+    "表",
+    "154→10pcs price"
+   ],
+   [
+    "2024-10-16",
+    "S",
+    "Hi Simon. Pricing for 10 units?"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-10-16（24 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：Southern Elements（南非；光纤产品供应商，自营网店 shopfiber.co.za，含有源设备，全非洲发货）：2024-10 问 10 台价格——光纤渠道对位（SFP / MC / 光口交换机），非主攻区薄 A"
+  ],
+  "story": "南非；未坐实：待快照。往来 1016→2026-01-07：我方去信 8 封（A 1 / S 7），对方真人来信 2 封 + 表内/备注 1 条；对方问过：1016 表: 154→10pcs price ‖ 2024-10-16 S: Hi Simon. Pricing for 10 units?。我方报过：$37 / $300。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2024-10-16（24 月前）。",
+  "n_out": 8,
+  "n_in": 2,
+  "last_in": "2024-10-16",
+  "last_out": "2026-01-07",
+  "prices_out": [
+   "37",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "1016",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "154",
+    "gist": "10pcs price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-06-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 port poe switch",
+    "gist": "24 port poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "09e1347ea6eda5ce"
+   },
+   {
+    "date": "2024-07-24",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G network switch",
+    "gist": "2.5G network switch",
+    "prices": [],
+    "bulk": false,
+    "k": "93b32eb7ffcab853"
+   },
+   {
+    "date": "2024-08-21",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial switch",
+    "gist": "Industrial switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d9fbf7aca877443a"
+   },
+   {
+    "date": "2024-10-16",
+    "dir": "in",
+    "box": "S",
+    "from": "info@southernelements.co.za",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Thank you Simon.",
+    "prices": [],
+    "bulk": false,
+    "k": "f80fb2a8ca1e5bc1"
+   },
+   {
+    "date": "2024-10-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Re: Industrial PoE Switch",
+    "prices": [
+     "37"
+    ],
+    "bulk": false,
+    "k": "1e54f5394e19a0cc"
+   },
+   {
+    "date": "2024-10-16",
+    "dir": "in",
+    "box": "S",
+    "from": "info@southernelements.co.za",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Hi Simon. Pricing for 10 units?",
+    "prices": [],
+    "bulk": false,
+    "k": "d2c625ad58b93ffd"
+   },
+   {
+    "date": "2024-10-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "21eff2b1b0d16f2b"
+   },
+   {
+    "date": "2024-11-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Re: Industrial PoE Switch",
+    "prices": [
+     "300",
+     "37"
+    ],
+    "bulk": false,
+    "k": "2bd0abccc0add715"
+   },
+   {
+    "date": "2024-12-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G Web Managed Switch",
+    "gist": "2.5G Web Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "52725b40442e6332"
+   },
+   {
+    "date": "2026-01-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "544df6d312ff0a3e"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://southernelements.co.za/",
+    "quote": "Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://za.linkedin.com/company/southernelements",
+    "quote": "Southern Elements · 249 followers · fiber optic networks in Southern Africa",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

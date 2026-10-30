@@ -12,7 +12,7 @@ code: SA-029
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "GTWAVE Co., Ltd.（(주)지티웨이브, Seongnam, Korea）"
 score: 83
 country: 韩国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国板桥的自有品牌网络/无线设备商（2001 年成立，11–50 人）：智能 PoE 交换机、工业 PoE 交换机、PoE 注入器/延长器、户外/工业 AP（KCMVP/CC 认证联动，可用于军用无线）、无线 CCTV、无人机图传、天线；有 CB/CE/ISO 认证。用户表：A 已回复，兴趣自己的 logo、工业 FS、FS PoE，提到海思方案。（调研 2026-10-21；表内兴趣：自己的logo 工业FS FS PoE 海思的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2025-04））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-04-15 → 2025-04-15）；最近一次客户回复：2025-04-15：Company Info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 保活。已打开的主题（3/28 封有打开记录）：「Marvell Software Function List」(2025-04-15)、「Re: Marvell Software Function List」(2025-04-16)、「Optional Marvell Chipset Solutions」(2025-12-02) → 读者兴趣偏「价格/目录」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-17 $65（10G media converter）、2024-07-17 $220（10G managed switch）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-07-24 $300（48 Port PoE Managed Switch）、2025-09-01 $240（24 Port Fiber Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is the GTWAVE PoE switch line bought-in today, and which model is the volume one? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
@@ -152,7 +152,7 @@ updated: 2026-10-30
   > iG8P-2SMB | Web관리, 8PoE Gbps, 2SFP, 지능형 PoE, consol 1, Ring 구성(ERPS, EAPS) | iG8P-2SB | non managed, 8PoE Gbps, 2 SFP … iG8P-4SMB | Web관리, 8PoE Gbps, 4SFP … DNS8-2SM | Web관리, Ring 구성(ERPS, EAPS), 8GE + 2SFP
   > 来源：https://oemfile.informamarkets-info.com/FileUpload/2025SEC_39523/20250116080429651.pdf（抓取 2025-01-16）
 - **KP**：Moonsoo Park（대표이사 박문수（bizno 名录代表 + 研究档联系人同名）= 老板 = 联系人；(주)지티웨이브 有线通信设备制造业，판교；2026-03 入选富川产业振兴院 창업도약패키지（第 85 批 官方登记核实 2026-10-27））master@gtwave.co.kr +82 31 707 4670〔https://www.ec21.com/product-details/PoE-Network-Switch-8Port-PoE--11968346.html〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2025-04）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注意其部分 AP 用于军用无线——Saga 只供交换机硬件，守界不碰军品项目；P1 = STI-288DGGPM 工业 PoE，30% OEM 档。
 
@@ -212,6 +212,38 @@ A 确认（韩国自有品牌 PoE 交换机 + 已回复 + 明确贴牌）；注�
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-04-15 | 2025.4.15 | Marvell Chip | Company Info | A |  | A Replied 09.04.xlsx#43 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | 대한민국 · bizno 사업자 名錄（業種 / 代表姓）+ 官網（地址 / 認證 / 2 年保固）+ 매거진한경（20: (주)지티웨이브 GTWAVE Co., Ltd. · 사업자등록번호 待補（bizno 條目存在，號碼未顯示） · 경영중（官網在線；2026-03 入選富川產業振興院 창업도 · 2001（研… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：fiber industrial poe sfp switch 交换机 工业 网络；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-04-15 A: Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park ‖ 2025.4.15 表: Marvell Chip→Company Info |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-04-15（18 月前） |
+| ⑤ 规模 | 个人/微型 | 11–50 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：韩国·OEM 品牌商；登记坐实：대한민국 · bizno 사업자 名錄（業種 / 代表姓）+ 官網（地址 / 認證 / 2 年保固）+ 매거진한경（20: (주)지티웨이브 GTWAVE Co。往来 2024-06-17→2026-09-07：我方去信 28 封（A 21 / S 7），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-04-15 A: Thank you for your information. Let me know your company name and send me catalogue. Moonsoo,Park ‖ 2025.4.15 表: Marvell Chip→Company Info。我方报过：$65 / $170 / $220 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-04-15（18 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-01 | 去 | A | 24 Port Fiber Switch | $240 |
+| 2025-09-22 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-10-09 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-30 | 去 | A | Booster PoE Switch |  |
+| 2025-12-02 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-15 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.4.15 | 表 | 表 | Marvell Chip｜Company Info |  |
+| 2026-01-05 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

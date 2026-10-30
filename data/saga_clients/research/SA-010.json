@@ -285,16 +285,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-02→2025-05）",
+  "reason": "真回信 3 封 / 表内 3 条 / 研究档 0 条（A；2025-02→2025-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-03-04] hi. thank you for yr product information and quotation. as we checked yr spec and quotation, yr price is highe ‖ [A 2025-05-26] Hi, thank you for yr product information. pls let me know a quotation with bypass function for 4*4. do you hav ‖ 表 2025.5.20: Bypass→问了价格 ‖ 研 2025-03-04 Roadman Kim: yr price is higher but yr spec is lower. 1. we think 16 port industrial poe swit / 2025-05-"
+  "evidence": "[A 2025-03-04] hi. thank you for yr product information and quotation. as we checked yr spec and quotation, yr price is highe ‖ [A 2025-05-26] Hi, thank you for yr product information. pls let me know a quotation with bypass function for 4*4. do you hav ‖ 表 2023: Simon 备注/兴→知道bypass，后面又来了一次，2.5G/10G带bypass，最后一天再来了一次，问了波分传输设"
  },
  "override_history": [
   {
@@ -304,8 +304,233 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-02→2025-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-02→2025-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 3 条 / 研究档 0 条（A；2025-02→2025-05）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-02→2025-05）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 3 条 / 研究档 0 条（A；2025-02→2025-05）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "대한민국 · 사업자등록 공시（nextu.kr 商城資訊頁）+ KODATA / NICE 企業資訊（cookiede: (주)이지넷유비쿼터스 EZ-NET Ubiquitous Co., Ltd.（品牌 NEXT / NEXTU） · 사업자등록번호 106-86-42660 · 법인번호 110111-3**** · 경영중（2026 招聘 / 商城在線） · 2006-04-04"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "poe",
+   "交换机",
+   "光纤",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-02-21",
+    "A",
+    "hi, than you for yr information. there is no uplink port and unmanaged? pls let me know a quotation for this model. thanks br roadman,kim Hi"
+   ],
+   [
+    "2025-02-21",
+    "R",
+    "there is no uplink port and unmanaged? pls let me know a quotation for this model.（回 Alan 推的 16 口 DIN 千兆非管理机）"
+   ],
+   [
+    "2025-03-04",
+    "A",
+    "hi. thank you for yr product information and quotation. as we checked yr spec and quotation, yr price is higher but yr spec is lower. 1. we "
+   ],
+   [
+    "2025-05-26",
+    "A",
+    "Hi, thank you for yr product information. pls let me know a quotation with bypass function for 4*4. do you have also bypass switch with 2*2 "
+   ],
+   [
+    "2025.2.19",
+    "表",
+    "16电→INFO"
+   ],
+   [
+    "2025.5.20",
+    "表",
+    "Bypass→问了价格"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-05-26（17 月前）"
+  ],
+  "size": "43–44（국민연금 2026）；2024 营收 251.6 억원（第 85 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "韩国·OEM 品牌商；登记坐实：대한민국 · 사업자등록 공시（nextu.kr 商城資訊頁）+ KODATA / NICE 企業資訊（cookiede: (주)이지넷유비쿼터스 EZ-NET。往来 2023→2026-09-23：我方去信 36 封（A 28 / S 7），对方真人来信 3 封 + 表内/备注 3 条；对方问过：2025-03-04 A: hi. thank you for yr product information and quotation. as we checked yr spec and quotation, yr price is higher but yr spec is lower. 1. we  ‖ 2025-05-26 A: Hi, thank you for yr product 。我方报过：$65 / $95 / $170 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-05-26（17 月前）。",
+  "n_out": 36,
+  "n_in": 3,
+  "last_in": "2025-05-26",
+  "last_out": "2026-09-23",
+  "prices_out": [
+   "65",
+   "95",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025.5.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Bypass",
+    "gist": "问了价格",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "eedbbca9eecac4e3"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c44e55fb8980bf0a"
+   },
+   {
+    "date": "2026-05-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ffbeaca36a999454"
+   },
+   {
+    "date": "2026-06-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "040261c32de45374"
+   },
+   {
+    "date": "2026-07-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "b2a8f251cfe53f16"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "602d2267248ff39e"
+   },
+   {
+    "date": "2026-08-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3b8e78fa2353c22c"
+   },
+   {
+    "date": "2026-08-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "eb4683b977c1ba8d"
+   },
+   {
+    "date": "2026-08-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "13fc365d12ec7e9c"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e08e38ed2b6adff5"
+   },
+   {
+    "date": "2026-09-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fa43974551949ace"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -12,7 +12,7 @@ code: SB-1134
 rating: A
 rating_auto: C
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 name_official: "Conexión de Redes de Centro América（萨尔瓦多；KP Antonio Alberto Guadron, Gerente General）"
 score: 7
 country: 萨尔瓦多
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：A 邮箱 24 去 3 来；总经理 Antonio 三次真回：2025-05-28 要旁路交换机更多资料（给 STI-488XGGPM2B-2BT）；2026-01-19 对 CENTEC「OEM Core Switching Solution」说「Interesting solution. Please send the technical information so we can share it with our clients」→ Alan 01-20 发 PeakNetX V3.1 + Function List V2.4 + STH25G；01-20 回「Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback」→ feedback 从未到；2026-09-09 推 16 口 DIN PoE 无回。（调研 2026-10-24；表内兴趣：AOA的工业FS 商业PoE SFP模块）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（A；2025-05→2026-01））；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/萨尔瓦多；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-01））；自动分级 C：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/萨尔瓦多；+5 最近活动 2025；-10 推送 13 次无任何回复（聋名单）
 - **历史互动**：推送 13 次（2024-07-04 → 2025-10-07）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH-8C48DX-HSI（48×25G + 8×100G，$4,800 EXW）/ STH25G 系列（已发 pptx） — 已发资料（勿重发）：STI-488XGGPM2B-2BT.pdf + Optical Bypass Switch.jpg(2025-05-31)、PeakNetX V3.1 / Function List V2.4 / STH25G(2026-01-20)、16 port PoE.png(2026-09-09)；下一封只接 DC 话题｜档位说明（原 tier 字段文字「集成商 25%」移此）：集成商 25%；CENTEC 2026 Q2：8C48DX $4,800 / 2C6QX $1,200 / 32C $6,000 EXW
 - **第一问（只问一个）**：Antonio — in January you were taking the CENTEC material to a data-center client and promised some feedback: did they decide, and if the 25G/100G core is still open, would a 48×25G + 8×100G unit at $4,800 EXW be in their range?
@@ -159,7 +159,7 @@ updated: 2026-10-30
   > Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback.
   > 来源：data/gmail_a/messages/<year>/<month>.jsonl（抓取 2026-01-20）
 - **KP**：Antonio Alberto Guadron（Gerente General（官网 gerencia@ 吻合；研究档 KP；三次真回）= 收件人 — 一页纸 + 规格书：STH-8C48DX-HSI $4,800 / STH-2C24XF-HSI $1,500 CENTEC + 接入 STC-424XGGPM-280W $198 / STC-4424GCPM $165 + 付费样机；西语备注 — 拉美常规：英文稿（西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29））gerencia@conexionderedes.com 〔data/gmail_a/messages/<year>/<month>.jsonl〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（A；2025-05→2026-01）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-01）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。
 西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。
 
@@ -220,6 +220,38 @@ updated: 2026-10-30
 | 2025-07-29 | 729 | 24poe |  | A |  | 其他优质欧洲客户 2.26.xlsx#81 |
 | 2025-10-07 | 107 | dac |  | A |  | 其他优质欧洲客户 2.26.xlsx#81 |
 | ? | 93 | 28bt |  | A |  | 其他优质欧洲客户 2.26.xlsx#81 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；T: Conexión de Redes de Centro América（conexionderedes.com；**官网：San Salvador, El Sa · 营业中（官网 2026） |
+| ② 角色 / 对位 | 分销商 | 对位词：industrial switch 交换机 网络；P1 CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198 |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-05-28 A: Dear Alan: Thank you for your email, and I apologize for not responding until now, but I was out of the country and had a lot of emails when ‖ 2026-01-19 A: Dear Alan: Interesting solution. Please send the … |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-01-20（9 月前） |
+| ⑤ 规模 | ≥小型 | （未核） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：萨尔瓦多·分销商；登记线索：SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；T: Conexión de Redes 。往来 2024-08-05→2026-09-09：我方去信 26 封（A 18 / S 6），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2025-05-28 A: Dear Alan: Thank you for your email, and I apologize for not responding until now, but I was out of the country and had a lot of emails when ‖ 2026-01-19 A: Dear Alan: Interesting soluti。我方报过：$65 / $170 / $240 / $280 / $6000。对位：CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198；路径：企业邮箱 MX ok；最近来信 2026-01-20（9 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-01-19 | 去 | A | OEM Core Switching Solution |  |
+| 2026-01-20 | 来 | A | Re: OEM Core Switching Solution｜Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client. I'll l… |  |
+| 2026-01-20 | 去 | A | Re: OEM Core Switching Solution |  |
+| 2026-01-20 | 去 | R |  |  |
+| 2026-02-16 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-17 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-08 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-20 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-16 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-24 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-09 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-09-09 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -56,7 +56,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）｜第 77 批：C→B（见 override_reason）；2026-11 回 2025-06-10 原线程补答「数量」+ 现价 + 自有品牌贴标一句。",
  "deep": {
   "done_at": "2026-10-21",
@@ -186,6 +186,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）"
   }
  ],
  "snap_thicken": {
@@ -218,15 +226,205 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-06→2025-06）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-06-10] Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quant ‖ 表 2025.7.10: 16电→MOQ  8/24口的 ‖ 研 2025-06-10 Markus Geck（Dema Vertriebs GmbH，德国）: Thank you very much for thinking of me. Yes, that is very interesting. What are "
+  "evidence": "[A 2025-06-10] Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quant ‖ 表 2025.7.10: 16电→MOQ  8/24口的"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF /: DEMA Vertriebs-GmbH（Untermünkheim；STABILO 建材连锁同系） · Amtsgericht Stuttgart HRB 571318 · EUID  · Aktiv（2024 年报 2026-02-10 公示；20 · 1963-01-17"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "poe",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-06-10",
+    "A",
+    "Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price fo"
+   ],
+   [
+    "2025-06-10",
+    "R",
+    "Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and "
+   ],
+   [
+    "2025.7.10",
+    "表",
+    "16电→MOQ  8/24口的"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-06-10（16 月前）"
+  ],
+  "size": "Bilanzsumme €29.8M（2024-12-31）；2021-07 州补贴 €742,684；= STABILO 五金建材连锁集团的采购 / 批发公司（同址 Hohenloher Elektrogroßhandel GmbH）（第 88 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "德国·OEM 品牌商；登记坐实：Deutschland · Handelsregister（Northdata 免费页：HRB / LEI / GF /: DEMA Vertriebs-Gmb。往来 2025-04-14→2026-03-30：我方去信 12 封（A 10 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-10 A: Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price fo ‖ 2025-06-10 R: Thank you very much for think。我方报过：$280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-06-10（16 月前）。",
+  "n_out": 12,
+  "n_in": 1,
+  "last_in": "2025-06-10",
+  "last_out": "2026-03-30",
+  "prices_out": [
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a4e426264e8d5279"
+   },
+   {
+    "date": "2025-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 16 Port Ethernet Switch",
+    "gist": "Re: 16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "869ab8494c880aed"
+   },
+   {
+    "date": "2025-06-10",
+    "dir": "in",
+    "box": "A",
+    "from": "m.geck@dema-vertrieb.com",
+    "subj": "AW: 16 Port Ethernet Switch",
+    "gist": "Hello Alan, Thank you very much for thinking of me. Yes, that is very interesting. What are the purchase quantities and what is the price for the 8 and 24 switc",
+    "prices": [],
+    "bulk": false,
+    "k": "29941328229f4d08"
+   },
+   {
+    "date": "2025-06-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan（Quotation_Copper Switch.pdf，Buyer D",
+    "subj": "",
+    "gist": "STI-050FE $22.5；STI-054FP $30；STI-050GE $25；STI-054GP $32.5；STI-080FE $25.5；STI-088FP $36.5（全铜口非管理工业系列，validity 15 days）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a att 2025-06-10"
+   },
+   {
+    "date": "2025-06-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan → Markus Geck（Re: 16 Port Ethernet ",
+    "subj": "",
+    "gist": "全铜口工业非管理整表（Buyer: Dema Vertriebs GmbH）：STI-050FE $22.5 / 054FP $30 / 050GE $25 / 054GP $32.5 / 080FE $25.5 / 088FP $36.5 / **080GE $32.5 / 088GP $43.5 / 0160GE ",
+    "prices": [],
+    "bulk": false,
+    "k": "k=869ab8494c880aed（A 邮箱 2025-06-10 06:44Z）；附件 sha=9ffabb9a4b4a3787"
+   },
+   {
+    "date": "2025-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b25cca984efd3c46"
+   },
+   {
+    "date": "2025-09-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b3730df4b27c04e1"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "3f5c1fb2acd77eba"
+   },
+   {
+    "date": "2025-11-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "546455e380b630e9"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "b2b27d5d581ef3fc"
+   },
+   {
+    "date": "2025.7.10",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "16电",
+    "gist": "MOQ  8/24口的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "abe1761042016976"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

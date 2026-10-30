@@ -74,7 +74,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 2 条 / 研究档 0 条（AS；2025-01→2026-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n运营商终端用户，需求为带 bypass 的 2 光 10 电工业交换机（接入/塔站场景），美国关税与 FCC 适用。P1：STI 工业系列 2 光 10 电管理型（bypass 功能需向 SmartByte 核实是否支持，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -250,16 +250,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）",
+  "reason": "真回信 5 封 / 表内 2 条 / 研究档 0 条（AS；2025-01→2026-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-06-05] Support MPLS with H3C? [cid:image001.png@01DCF4E6.42B89240] ‖ [A 2026-06-08] Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F ‖ 表 1.2: 24fiber→price info ‖ 研 2025-01-03 Ivan: You don't have that one rackmount? Not din rail? What it's the OS? / 2026-06-08 Ivan: Price for this one STH-2C24XFSFI Needs to be DC And with the M"
+  "evidence": "[A 2026-06-05] Support MPLS with H3C? [cid:image001.png@01DCF4E6.42B89240] ‖ [A 2026-06-08] Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F ‖ 表 : Simon 备注/兴→bypass 2光10电的帖子下问价格"
  },
  "override_history": [
   {
@@ -269,6 +269,230 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（AS；2025-01→2026-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 2 条 / 研究档 0 条（AS；2025-01→2026-06）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + Pe: FIBERX LLC（gofiberx.com / fiberx.net；关联 OSNet Wireless） · Puerto Rico LLC（波多黎各国务院登记号待补） · 经营中（2025-09 自办 FiberX Expo；202 · 2016（Linke"
+  ],
+  "role": "ISP/运营商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "光纤",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→bypass 2光10电的帖子下问价格"
+   ],
+   [
+    "1.2",
+    "表",
+    "24fiber→price info"
+   ],
+   [
+    "2025-01-03",
+    "S",
+    "Do you have the datasheet of that last one? [cid:image001.png@01DB5D82.18985650]"
+   ],
+   [
+    "2025-01-03",
+    "S",
+    "Hi, Couple of questions to you. Do you have one of those small factors with at least 8 port SFP+ and 8 Port 1Giga Ethernet? DC Power – 48v? "
+   ],
+   [
+    "2025-01-03",
+    "S",
+    "You don’t have that one rackmount? Not din rail? What it’s the OS? [cid:image001.png@01DB5D7F.B0454100]"
+   ],
+   [
+    "2026-06-08",
+    "A",
+    "Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F50]"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-06-08（4 月前）"
+  ],
+  "size": "~34（第 85 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·ISP/运营商；登记坐实：USA (Puerto Rico) · 官网 About / 联系 / 名片页（2025）+ LinkedIn + Pe: FIBERX LLC（gofiber。往来 —→2026-09-25：我方去信 36 封（A 24 / S 12），对方真人来信 5 封 + 表内/备注 2 条；对方问过：2025-01-03 S: Do you have the datasheet of that last one? [cid:image001.png@01DB5D82.18985650] ‖ 2025-01-03 S: Hi, Couple of questions to you. Do you have one of those small factors with at least 8 po。我方报过：$65 / $170 / $240 / $280 / $300 / $1250。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-06-08（4 月前）。",
+  "n_out": 36,
+  "n_in": 5,
+  "last_in": "2026-06-08",
+  "last_out": "2026-09-25",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "1250"
+  ],
+  "timeline": [
+   {
+    "date": "2026-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "c1c0efb52d3909ad"
+   },
+   {
+    "date": "2026-04-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7d184e40072d3d28"
+   },
+   {
+    "date": "2026-05-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "8febf87962dc90a8"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "in",
+    "box": "A",
+    "from": "irivera@fiberx.net",
+    "subj": "RE: 10G L3 Managed Switch",
+    "gist": "Support MPLS with H3C? [cid:image001.png@01DCF4E6.42B89240]",
+    "prices": [],
+    "bulk": false,
+    "k": "553ba9ad1fef0430"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ff4d6f5f48f20508"
+   },
+   {
+    "date": "2026-06-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G L3 Managed Switch",
+    "gist": "Re: 10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fb4ac2e43c85e3c8"
+   },
+   {
+    "date": "2026-06-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G L3 Managed Switch",
+    "gist": "Re: 10G L3 Managed Switch",
+    "prices": [
+     "1250"
+    ],
+    "bulk": false,
+    "k": "5d26574728e757e2"
+   },
+   {
+    "date": "2026-06-08",
+    "dir": "in",
+    "box": "A",
+    "from": "irivera@fiberx.net",
+    "subj": "RE: 10G L3 Managed Switch",
+    "gist": "Hi, Price for this one STH-2C24XFSFI Needs to be DC And with the MA License. [cid:image001.png@01DCF71A.E1A01F50]",
+    "prices": [],
+    "bulk": true,
+    "k": "894de4474cf06741"
+   },
+   {
+    "date": "2026-06-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "8ad57371d942a213"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "b83032224883d302"
+   },
+   {
+    "date": "2026-08-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "951b6d676122d0b9"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "27427b29b669225a"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

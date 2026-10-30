@@ -67,6 +67,22 @@
     "quote": "RE: Industrial PoE Switch from SagaTelecom｜Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity. We would require Authorization letter and Make in India certificate to participate in the same. Qty is 20 and 15 No’s respectively. Thanks & Regards,",
     "why": "S 邮箱 真人来信（pos）",
     "k": "e7137160517a2eba"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://tracxn.com/d/companies/team5technologies/__aS7cUwVKzhQ3tmBMip3dZUf234SJFESf71EGtkKK3XE"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.zoominfo.com/c/team5-technologies-pvt-ltd/371376403"
    }
   ],
   "binding": {
@@ -90,10 +106,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
   "why_not": "",
   "excl": "",
@@ -109,8 +125,151 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-11-03",
+    "S",
+    "Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​"
+   ],
+   [
+    "2024-11-06",
+    "S",
+    "Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity. We would require Authorization l"
+   ],
+   [
+    "2024-11-06",
+    "S",
+    "Hi Team, Please suggest model along with price. Specification Specification Name Bid Requirement/ Specification Type of Switch Managed, Web "
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-11-06（23 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：Team5 Technologies Pvt Ltd（班加罗尔；CIN U51909KA2016PTC096739；FY2025 营收 $3.56M；数据中心自动化 / 5G 测试 / 串口控制台 / iPDU，政企投标）：2024-11 按政府标书规格要型号 + 价格 + 授权书——DC/投标型，印度名单"
+  ],
+  "story": "印度；未坐实：待快照。往来 2024-11-03→2026-10-20：我方去信 3 封（A 0 / S 3），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2024-11-03 S: Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​ ‖ 2024-11-06 S: Dear Team, Please share the model and price details for attached specification. This is for a 。我方报过：$180。对位：待定；路径：企业邮箱 MX ok；最近来信 2024-11-06（23 月前）。",
+  "n_out": 3,
+  "n_in": 3,
+  "last_in": "2024-11-06",
+  "last_out": "2026-10-20",
+  "prices_out": [
+   "180"
+  ],
+  "timeline": [
+   {
+    "date": "2024-11-03",
+    "dir": "in",
+    "box": "S",
+    "from": "ravi@apolloinfoways.in",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Is it managed or unmanaged switch? Regards Ravi ⁣Get BlueMail for Android ​",
+    "prices": [],
+    "bulk": false,
+    "k": "fa79557f8a8ef2a4"
+   },
+   {
+    "date": "2024-11-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8eeec3b7e0f1855b"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Industrial Ethernet Switch",
+    "gist": "Re: Industrial Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e80ca03d375be7d4"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "in",
+    "box": "S",
+    "from": "padmavathi.p@team5tech.com",
+    "subj": "Industrial Ethernet Switch",
+    "gist": "Hi Team, Please suggest model along with price. Specification Specification Name Bid Requirement/ Specification Type of Switch Managed, Web Managed Technology P",
+    "prices": [],
+    "bulk": false,
+    "k": "d3f31b1880f318f5"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "in",
+    "box": "S",
+    "from": "aruna.bj@team5tech.com",
+    "subj": "RE: Industrial PoE Switch from SagaTelecom",
+    "gist": "Dear Team, Please share the model and price details for attached specification. This is for a Govt. Entity. We would require Authorization letter and Make in In",
+    "prices": [],
+    "bulk": false,
+    "k": "e7137160517a2eba"
+   },
+   {
+    "date": "2026-10-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "180"
+    ],
+    "bulk": false,
+    "k": "fe6da839f7eeb338"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://tracxn.com/d/companies/team5technologies/__aS7cUwVKzhQ3tmBMip3dZUf234SJFESf71EGtkKK3XE",
+    "quote": "TEAM5 TECHNOLOGIES PRIVATE LIMITED CIN: U51909KA2016PTC096739, Active · Sep 26, 2016 · $3.56M (As on Mar 31, 2025) · 63 OVH Road, Basavanagudi, Bangalore",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/team5-technologies-pvt-ltd/371376403",
+    "quote": "data center automation, 5G testing and measurement, and cloud security … Traffic Generators, Serial Console, iPDU, IoT, and PTP",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

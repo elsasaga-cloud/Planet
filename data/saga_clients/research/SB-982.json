@@ -56,7 +56,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -229,10 +229,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
@@ -248,6 +248,208 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "KR · 1 次检索：mcss.co.kr 页脚（(주)엠씨에스솔루션；대표이사 이일우；사업자등록번호 106-86-: (주)엠씨에스솔루션 MCS Solution Co., Ltd.（mcss.co.kr；**사업자등록번호 106-8 · 사업자등록번호 106-86-25768 / 통신판매업 2017-서울금천-1 · 营业中（商城在线） · 2004-01-30"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-01-16",
+    "R",
+    "Could you please send us a list of products and related materials that support your OEM / white-label services (such as branding and model n"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-01-16（9 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "韩国·集成商/安装商；登记坐实：KR · 1 次检索：mcss.co.kr 页脚（(주)엠씨에스솔루션；대표이사 이일우；사업자등록번호 106-86-: (주)엠씨에스솔루션 MCS Sol。往来 2024-06-28→2026-08-10：我方去信 26 封（A 19 / S 7），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2026-01-16 R: Could you please send us a list of products and related materials that support your OEM / white-label services (such as branding and model n。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-16（9 月前）。",
+  "n_out": 26,
+  "n_in": 0,
+  "last_in": "2026-01-16",
+  "last_out": "2026-08-10",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-07-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "L3 Managed Switch",
+    "gist": "L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1642ec69dfbdc031"
+   },
+   {
+    "date": "2025-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4313de1c6350d31f"
+   },
+   {
+    "date": "2025-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "df890e8eecad61cb"
+   },
+   {
+    "date": "2025-09-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "417f2d17f2f45e3c"
+   },
+   {
+    "date": "2025-10-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Media Converter",
+    "gist": "10G Media Converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "78f7c66e511266d0"
+   },
+   {
+    "date": "2025-11-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "57b83a23194c2229"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "ea63336e0c8f1f39"
+   },
+   {
+    "date": "2025-12-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "eb02f6f2b5ab3136"
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "f1ee4d0379a3451b"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "in",
+    "box": "A",
+    "from": "support@mcss.co.kr",
+    "subj": "Re: Fw: OEM Core Switching Solution",
+    "gist": "Hello Alan, Thank you for the email. Could you please send us a list of products and related materials that support your OEM / white-label services (such as bra",
+    "prices": [],
+    "bulk": true,
+    "k": "4d792eebebf6a404"
+   },
+   {
+    "date": "2026-02-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Fw: OEM Core Switching Solution",
+    "gist": "Re: Fw: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "497037e504e55533"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9553f6bbb4d341c8"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

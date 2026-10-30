@@ -52,7 +52,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\nWA 维持；有具体项目再报价。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -168,10 +168,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
@@ -187,6 +187,128 @@
    "to": "A",
    "prev_reason": "爱沙尼亚为非主动开发小国，互动停留在一般信息、无具体需求 → 慢跟。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；R: NETWORK BUSINESS SOLUTIONS OÜ（原 Osaühing Angelmont 2007-01-0 · registrikood 11338038 · Registrisse kantud（休眠：VAT 注销 2 · 2007-01-09"
+  ],
+  "role": "ISP/运营商",
+  "fit_words": [
+   "poe",
+   "光纤",
+   "网络"
+  ],
+  "p1": "STC-424XGGM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024.8.13",
+    "表",
+    "4 8口工业PoE→可能需要10个 在用teltonika的"
+   ],
+   [
+    "2025.2.27",
+    "表",
+    "工业16 24口出货图→有工业mini pc？"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ? + WA；最近来信 2025-02-27（20 月前）"
+  ],
+  "size": "待补证",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "爱沙尼亚·ISP/运营商；登记坐实：EE · 1 次检索：e-krediidiinfo.ee（NETWORK BUSINESS SOLUTIONS OÜ；R: NETWORK BUSINESS S。往来 2024-01-23→2025-02-27：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.8.13 表: 4 8口工业PoE→可能需要10个 在用teltonika的 ‖ 2025.2.27 表: 工业16 24口出货图→有工业mini pc？。我方报过：未见报价数字。对位：STC-424XGGM；路径：企业邮箱 MX ? + WA；最近来信 2025-02-27（20 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2025-02-27",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-01-23",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了工业电源最新价格册」→ 对方「will check」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2024.1.23"
+   },
+   {
+    "date": "2024-08-13",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「4 8口工业PoE」→ 对方「可能需要10个 在用teltonika的」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2024.8.13"
+   },
+   {
+    "date": "2024.1.23",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了工业电源最新价格册",
+    "gist": "will check",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.13",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业PoE",
+    "gist": "可能需要10个 在用teltonika的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-02-27",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「工业16 24口出货图」→ 对方「有工业mini pc？」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.4 2025.2.27"
+   },
+   {
+    "date": "2025.2.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "工业16 24口出货图",
+    "gist": "有工业mini pc？",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

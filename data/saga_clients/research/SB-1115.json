@@ -83,7 +83,7 @@
   "why": "MikroTik 顾问做项目 + 拟经销：先按经销 20% 档（$180 已是 20% 档价），项目成交后再定；样品 2 台口径已定"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 2 条（R；→）",
  "mail_review": {
   "binding": {
    "level": "轻度绑定→样品 PI 未付（2026-09-29 起 4 封实质来信：要目录、问 UK 分销 → 「project by project」+ 愿买样 → 10-17 给地址、Simon 开 2 台 STC-424XGGPM-280W $180 的样品发票 → 同日「unable to make the payment now… when I have a project」；Elsa 箱：`to:millievolution.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 5 / 来 4）（第 74 批(j)））",
@@ -191,6 +191,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 2 条（R；→）"
   }
  ],
  "deep": {
@@ -211,15 +219,105 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A1",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）",
+  "reason": "真回信 0 封 / 表内 0 条 / 研究档 2 条（R；→）",
   "why_not": "",
   "excl": "",
-  "deal": "核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）",
+  "deal": "备注成单（非 Saga，本职公司时期）·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）",
   "reply_class": "R+",
   "evidence": " ‖ 研 2026-09-29 Iyiola Folayan（Milliseconds Evolution Ltd，伦敦）: Are you able to share your product catalog with me? Do you have distributors in  / 2026-10-17 Iyiola Folayan: Thanks for the invoice. Unfortunately I am unable to make the payment now. I can"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "UK · Companies House（官方）公司页 + officers 页: MILLISECONDS EVOLUTION LIMITED · 16807798 · Active · 2025-10-24"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "网络"
+  ],
+  "p1": "STC-424XGGPM-280W",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-09-29",
+    "R",
+    "Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30) "
+   ],
+   [
+    "2026-10-17",
+    "R",
+    "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of th"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-10-17（0 月前）"
+  ],
+  "size": "初创微型（3 董事）（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "英国·分销商；登记坐实：UK · Companies House（官方）公司页 + officers 页: MILLISECONDS EVOLUTION LIMITED · 16807。往来 2026-09-29→2026-10-17：我方去信 2 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2026-09-29 R: Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30)  ‖ 2026-10-17 R: Thanks for the invoice. Unfor。我方报过：2026-10-19 STC-424XGGPM-280W $180.0；2026-10-17 STC-424XGGPM-280W $180.0；2026-10-03 STC-424XGGPM-280W $180.0。对位：STC-424XGGPM-280W；路径：企业邮箱 MX ok；最近来信 2026-10-17（0 月前）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "2026-10-17",
+  "last_out": "2026-10-17",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2026-09-29",
+    "dir": "in",
+    "box": "R",
+    "from": "Iyiola Folayan（Milliseconds Evolution Lt",
+    "subj": "",
+    "gist": "Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30) For now, I just work",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s（millievolution.com，jsonl client 字段为空，按域名重扫）"
+   },
+   {
+    "date": "2026-10-03",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon",
+    "subj": "",
+    "gist": "evaluation units are provided at a partner price, and the sample cost will be credited toward your first commercial order… STC-424XGGPM-280W(180USD/PC) would be",
+    "prices": [],
+    "bulk": false,
+    "k": "5a52d22fbd2a46da"
+   },
+   {
+    "date": "2026-10-17",
+    "dir": "in",
+    "box": "R",
+    "from": "Iyiola Folayan",
+    "subj": "",
+    "gist": "Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost.",
+    "prices": [],
+    "bulk": false,
+    "k": "d90558425d8bf645"
+   },
+   {
+    "date": "2026-10-17",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Iyiola Folayan（Milliseconds Evol",
+    "subj": "",
+    "gist": "Quotation STSC-20261017-001, Incoterm DAP: STC-424XGGPM-280W × 2 @ $180 = $360; Freight $150 (about 10 kg volume weight to UK by FedEx air, door-to-door, 4~6 ca",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive Extra Info `Quotation__STSC-20261017-001.xlsx` + `Quotation__PL_STSC-20261017-001.xlsx`"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

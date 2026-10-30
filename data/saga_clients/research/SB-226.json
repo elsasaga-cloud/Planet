@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -178,6 +178,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A5 自有品牌+对位+真人往来",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）"
   }
  ],
  "snap_thicken": {
@@ -189,15 +197,211 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）",
+  "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-02-04] ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ [A 2026-01-16] ﻿thank you for informations~ please give about price~ thank you! ‖ 研 2025-02-04 jryoun74@hcin4.com: ﻿thank you for infromations... please attach datasheet and website... thank you! / 2026-01-16 Peter (jryoun74): thank you for informations~ please give about price~"
+  "evidence": "[A 2025-02-04] ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ [A 2026-01-16] ﻿thank you for informations~ please give about price~ thank you!"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 201: (주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com / rfoint.com  · 사업자등록번호 106-86-81310 / 통신판매업 00960 · 营业中（官网 + 商城在线） · 2011-09-06"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "poe",
+   "switch",
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-02-04",
+    "A",
+    "﻿thank you for infromations... please attach datasheet and website... thank you!"
+   ],
+   [
+    "2026-01-16",
+    "A",
+    "﻿thank you for informations~ please give about price~ thank you!"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-01-16（9 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "韩国·OEM 品牌商；登记坐实：KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 201: (주)한창인포텍 HANCHANG 。往来 2024-06-24→2026-09-10：我方去信 42 封（A 34 / S 8），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-02-04 A: ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ 2026-01-16 A: ﻿thank you for informations~ please give about price~ thank you!。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-16（9 月前）。",
+  "n_out": 42,
+  "n_in": 2,
+  "last_in": "2026-01-16",
+  "last_out": "2026-09-10",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2026-02-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "578b74680959383f"
+   },
+   {
+    "date": "2026-03-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "5a31864c874d4d61"
+   },
+   {
+    "date": "2026-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "3931b05a5d69bc18"
+   },
+   {
+    "date": "2026-04-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "2ba7f805ab9dfd55"
+   },
+   {
+    "date": "2026-04-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0080a2285037521b"
+   },
+   {
+    "date": "2026-05-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "54340388a8c5facd"
+   },
+   {
+    "date": "2026-06-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2d6bc37cb84828fb"
+   },
+   {
+    "date": "2026-06-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "ddfeeba506157e86"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "7a2d4b2f4507b060"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "68bfe02edafd6ebe"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "fb474c5df74a9fc9"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "353614bd588140d4"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

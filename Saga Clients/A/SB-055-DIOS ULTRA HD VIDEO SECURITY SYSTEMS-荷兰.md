@@ -12,7 +12,7 @@ code: SB-055
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "DIOS Ultra HD Video Security（荷兰）"
 score: 62
 country: 荷兰
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：荷兰超高清视频安防公司，WA 在线，1 次回复、16 次跟进。（调研 2026-10-21；表内兴趣：公司业务：Ultra HD Video）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-03→2025-03））；自动分级 A：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/荷兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 16 次（2024-05-10 → 2025-10-06）；最近一次客户回复：2025-03-05：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM / STI-288DGGPM — 一句话带问题，不再发价表。已打开的主题（2/26 封有打开记录）：「8 Port Industrial PoE Switch」(2025-03-05)、「Re: 8 Port Industrial PoE Switch」(2025-03-05) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Price List_Marvell Industrial Unmanage(2025-03-05)、Price List_Marvell Industrial Managed (2025-03-05)、Product Link_2026Q2(2026-02-16)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25% 集成档；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-04 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STC-28DGGPM 由列表价 $99 改为 25% 档 $84.1；STI-288DGGPM $137.5 = 列表价封顶（25% 档 $145.7 更高）；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-06 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：From the two price lists last March, did any model reach a shortlist — and if not, was it price, PSU, or lead time?
@@ -160,7 +160,7 @@ updated: 2026-10-30
   > De vennootschap onder firma Dios Industries is gevestigd op Rugstraat 64 te ST. WILLEBRORD … kvk nummer 76083926 … Bij Dios Industries zijn tussen de 2 en 5 personen werkzaam.
   > 来源：https://www.oozo.nl/bedrijven/rucphen/sint-willebrord/sint-willebrord/1825632/dios-industries（抓取 2026-10-21）
 - **KP**：Jacco (Jacob) Slob（CEO + 经个人控股 Kiyi Holding B.V.（KvK 59106808）任 Epic Europe B.V. 唯一 bestuurder（2013-10-29 起）= **老板 = 联系人**；2025-03 本人两封要价表，我们给了两份后无下文 = 价表没对上需求（他卖监控配套 PoE）（第 88 批 官方登记核实 2026-10-27））j.slob@dios-industries.com +31 6 4685 3228（2025-03-05 签名 m 06-46853228）〔S/A 邮箱来信 2025-03-05 来信 2 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-03→2025-03）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
@@ -225,6 +225,38 @@ WA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。
 | ? | 55 | bypass |  | A |  | 其他优质欧洲客户 2.26.xlsx#45 |
 | ? | 62 | alarm |  | A |  | 其他优质欧洲客户 2.26.xlsx#45 |
 | ? | 92 | 4 24 |  | A |  | 其他优质欧洲客户 2.26.xlsx#45 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Nederland · KvK Handelsregister 镜像（drimble / transfirm / bed: Epic Europe B.V.（商号 DIOS / DIOS Industries / DIOS Ultra HD S · KvK 59111380 · vestigingsnr 0000284… |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet switch；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-03-05 A: Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-indust ‖ 2025-03-05 A: Dear Alan, thank u, where can i find prices? Met … |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-03-05（19 月前） |
+| ⑤ 规模 | ≥小型 | 5–9 人（de10beste / KvK 人数档）；年报存档记录至 2021 账年（第 88 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：荷兰·分销商；登记坐实：Nederland · KvK Handelsregister 镜像（drimble / transfirm / bed: Epic Europe B.V.（商。往来 2024-07-05→2026-09-02：我方去信 26 封（A 18 / S 8），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-03-05 A: Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-indust ‖ 2025-03-05 A: Dear Alan, thank u, where can。我方报过：$170 / $280 / $300 / $6000。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-03-05（19 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-10-06 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-10 | 去 | A | Booster PoE Switch |  |
+| 2025-12-05 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025.3.5 | 表 | 表 | 28poe｜price |  |
+| 2026-01-15 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-16 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-17 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-07 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-19 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-10 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-02 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

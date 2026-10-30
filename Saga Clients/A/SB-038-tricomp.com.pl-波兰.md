@@ -12,7 +12,7 @@ code: SB-038
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 
 name_official: "Tricomp Sp. z o.o.（华沙，波兰，2002 年）"
 score: 68
 country: 波兰
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：华沙 IT/电信咨询与实施公司（2002 年注册；咨询、设计、监理、布线与电信方案实施、软硬件方案、项目管理），D&B 估 1–24 人（LinkedIn 自报 51–200，口径不一），总裁 James Francis Ofwona；1 次回复后 14 次推送无回复。（调研 2026-10-21；表内兴趣：电信 安装布线）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→））；自动分级 A：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 7 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→））；自动分级 A：+22 实质回复 1 次；+6 有互动但表示暂无需求/已有供应商 7 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；回复暂无需求 7 次；WhatsApp 已加；推送 15 次（2023-12-09 → 2025-05-23）；最近一次客户回复：2025-04-18：info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 集成商 25% 档：STC-424DGGPM-280W（24 PoE+ 4 SFP，$140.1）作楼宇布线项目接入；小点位 STC-28DGGPM；10G 上联 STC-424XGGPM-280W；按主表（研究档 saga_fit）；群发里他已看到的价（续）：2026-08-20 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：James — last year you still had stock; any PoE or 10G project in Warsaw this spring where a second source would help? If not, I will check back after summer.
@@ -149,7 +149,7 @@ updated: 2026-10-30
   > Data rejestracji: 04.07.2002… Kapitał zakładowy: 50 000 zł… James Francis Ofwona Prezes Zarządu
   > 来源：https://www.gowork.pl/tricomp-sp.-z-o.o.,29703/dane-kontaktowe-firmy（抓取 2026-10-21）
 - **KP**：James Francis Ofwona（Prezes Zarządu（59 岁）+ **98 / 100 股** = 老板 = 联系人；代表方式 = 董事 + Prokurent（Grażyna Piekus）联签（第 86 批 官方登记核实 2026-10-27））contact@tricomp.com.pl（公开总机邮箱） +48 607 498 206〔D&B / gowork / Crunchbase〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 重启只在其有项目时：一封'项目用 PoE 交换机 + 快交期'单问邮件（STC-424DGGPM-280W，项目 25%）。
 
@@ -205,6 +205,38 @@ updated: 2026-10-30
 | 2025-05-23 | 523 | 发了最新的links |  | Whatsapp |  | PL 2.6.xlsx#14 |
 | ? | 72 | 问需求 |  | Whatsapp |  | PL 2.6.xlsx#14 |
 | ? |  | 未跟进 |  |  |  | PL 2.6.xlsx#14 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Polska · KRS（krs-pobierz / aleo 镜像）: „TRICOMP” SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0000121281 · NIP 5222477449 · REGON  · Aktywna（KRS 最近变更 2025-04-14）… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 泛（问价/要目录） | 418 表: marvell系列商业图→info |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-04-18（18 月前） |
+| ⑤ 规模 | ≥小型 | 小型（1–24 人，D&B 估算） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：波兰·集成商/安装商；登记坐实：Polska · KRS（krs-pobierz / aleo 镜像）: „TRICOMP” SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIAL。往来 1022→2026-09-25：我方去信 4 封（A 3 / S 0），对方真人来信 0 封 + 表内/备注 9 条；对方问过：418 表: marvell系列商业图→info。我方报过：$170。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok + WA；最近来信 2025-04-18（18 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024.2.9 | 表 | 表 | 发了电口系列相关信息｜暂时没需求 |  |
+| 2024.5.15 | 表 | 表 | 发了几个工业mini图｜暂时没需求 |  |
+| 2024.8.13 | 表 | 表 | passive poe手册｜暂时没需求 |  |
+| 2025-02-22 | 来 | R | 用户表跟进：推「工业 16 24口出货图」→ 对方「暂时没需求」 |  |
+| 2025-04-18 | 来 | R | 用户表跟进：推「marvell系列商业图」→ 对方「info」 |  |
+| 2025.2.22 | 表 | 表 | 工业 16 24口出货图｜暂时没需求 |  |
+| 2026-07-15 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-20 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-25 | 去 | A | Managed PoE Switches |  |
+| 2026-09-25 | 去 | R |  |  |
+| 418 | 表 | 表 | marvell系列商业图｜info |  |
+| 926 | 表 | 表 | 4 8口工业PoE｜暂时没需求 |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

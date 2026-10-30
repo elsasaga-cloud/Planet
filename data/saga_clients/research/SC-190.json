@@ -67,6 +67,22 @@
     "quote": "Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras ( depcomprascronte@gmail.com) escribió:",
     "why": "Elsa 邮箱 真人来信（thin）",
     "k": "19a991c7310d4c44"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.dnb.com/business-directory/company-profiles/cronte-technology-sa.c6417fdaa4e01fc9532a13c4f67bbbfe"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology"
    }
   ],
   "binding": {
@@ -90,10 +106,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）",
   "why_not": "",
   "excl": "",
@@ -109,8 +125,204 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "Crontr Technology"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-05-31",
+    "E",
+    "Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term busi"
+   ],
+   [
+    "2025-06-03",
+    "E",
+    "Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Telecom ("
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-11-18（11 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "对位不明",
+   "规模未知",
+   "人工终判：Cronte Technology S.A.（基多；进口商 + 分销商，基多/昆卡/瓜亚基尔三地；法定代表 Luis Alberto Moreta Flores）：Elsa 报价后 2025-06「会看报价」、2025-11 主动转 WhatsApp 续谈——分销商坐实 + 仍在谈"
+  ],
+  "story": "厄瓜多尔；研究档法定名：Crontr Technology。往来 2024-07-09→2025-11-18：我方去信 8 封（A 0 / S 8），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2025-05-31 E: Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term busi ‖ 2025-06-03 E: Hi Elsa, Thanks for your answ。我方报过：$240 / $300。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-11-18（11 月前）。",
+  "n_out": 8,
+  "n_in": 3,
+  "last_in": "2025-11-18",
+  "last_out": "2025-01-09",
+  "prices_out": [
+   "240",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-07-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial poe managed switch",
+    "gist": "Industrial poe managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b3873ea235b08f8e"
+   },
+   {
+    "date": "2024-08-01",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Unmanaged switch",
+    "gist": "Unmanaged switch",
+    "prices": [],
+    "bulk": false,
+    "k": "61833414791c901b"
+   },
+   {
+    "date": "2024-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Passive poe switch",
+    "gist": "Passive poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "03cff881c8027334"
+   },
+   {
+    "date": "2024-09-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24V/48V PoE Switch",
+    "gist": "24V/48V PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d70f95f8926b2af4"
+   },
+   {
+    "date": "2024-11-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Ethernet Switch",
+    "gist": "8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8f1d44d89e36f001"
+   },
+   {
+    "date": "2024-12-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "2ecabd0efb656c17"
+   },
+   {
+    "date": "2024-12-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "e4d94830caf31187"
+   },
+   {
+    "date": "2025-01-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "32435df715ea9780"
+   },
+   {
+    "date": "2025-05-31",
+    "dir": "in",
+    "box": "R",
+    "from": "depcompras@cronte.net",
+    "subj": "",
+    "gist": "NEW SUPPLYER｜Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term business. P",
+    "prices": [],
+    "bulk": false,
+    "k": "19727cfcb1e984cb"
+   },
+   {
+    "date": "2025-06-03",
+    "dir": "in",
+    "box": "R",
+    "from": "depcomprascronte@gmail.com",
+    "subj": "",
+    "gist": "Re: NEW SUPPLYER｜Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Telecom ( e.",
+    "prices": [],
+    "bulk": false,
+    "k": "197367f9a4935b24"
+   },
+   {
+    "date": "2025-11-18",
+    "dir": "in",
+    "box": "R",
+    "from": "depcomprascronte@gmail.com",
+    "subj": "",
+    "gist": "Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras ( depcompra",
+    "prices": [],
+    "bulk": false,
+    "k": "19a991c7310d4c44"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.dnb.com/business-directory/company-profiles/cronte-technology-sa.c6417fdaa4e01fc9532a13c4f67bbbfe",
+    "quote": "Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology",
+    "quote": "Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

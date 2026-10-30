@@ -43,7 +43,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（A；2025-05→2026-01）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-01）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\n西语区（萨尔瓦多）；信件英文流畅。feedback 未到 = 典型「转发给客户后沉默」。",
  "deep": {
   "done_at": "2026-10-24",
@@ -176,6 +176,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（A；2025-05→2026-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 3 条（A；2025-05→2026-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-01）"
   }
  ],
  "snap_thicken": {
@@ -207,15 +215,211 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 3 封 / 表内 0 条 / 研究档 3 条（A；2025-05→2026-01）",
+  "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-01）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-01-19] Dear Alan: Interesting solution. Please send the technical information so we can share it with our clients. Re ‖ [A 2026-01-20] Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client ‖ 研 2026-01-19 Antonio: Interesting solution. Please send the technical information so we can share it w / 2026-01-20 Antonio: Thank you for your "
+  "evidence": "[A 2026-01-19] Dear Alan: Interesting solution. Please send the technical information so we can share it with our clients. Re ‖ [A 2026-01-20] Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；T: Conexión de Redes de Centro América（conexionderedes.com；**官网：San Salvador, El Sa · 营业中（官网 2026）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "industrial",
+   "switch",
+   "交换机",
+   "网络"
+  ],
+  "p1": "CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-05-28",
+    "A",
+    "Dear Alan: Thank you for your email, and I apologize for not responding until now, but I was out of the country and had a lot of emails when"
+   ],
+   [
+    "2026-01-19",
+    "A",
+    "Dear Alan: Interesting solution. Please send the technical information so we can share it with our clients. Regards, Antonio Alberto Guadron"
+   ],
+   [
+    "2026-01-20",
+    "A",
+    "Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client. I'll leave you with some fee"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-01-20（9 月前）"
+  ],
+  "size": "（未核）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "萨尔瓦多·分销商；登记线索：SV · 1 次检索：conexionderedes.com/servicios（Conexion de Redes；T: Conexión de Redes 。往来 2024-08-05→2026-09-09：我方去信 26 封（A 18 / S 6），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2025-05-28 A: Dear Alan: Thank you for your email, and I apologize for not responding until now, but I was out of the country and had a lot of emails when ‖ 2026-01-19 A: Dear Alan: Interesting soluti。我方报过：$65 / $170 / $240 / $280 / $6000。对位：CENTEC STH25G（已发）/ STH-8C48DX-HSI $4,800 EXW；接入 STC-424XGGPM $198；路径：企业邮箱 MX ok；最近来信 2026-01-20（9 月前）。",
+  "n_out": 26,
+  "n_in": 3,
+  "last_in": "2026-01-20",
+  "last_out": "2026-09-09",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2026-01-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "07cd6b534aa3dbb8"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "in",
+    "box": "A",
+    "from": "gerencia@conexionderedes.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Dear Alan: Good day, Thank you for your support and for processing the information with the Data Center client. I'll leave you with some feedback. Regards, Anto",
+    "prices": [],
+    "bulk": false,
+    "k": "d7fe7ed18432cbb9"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "e89c511aef90dcf9"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan",
+    "subj": "",
+    "gist": "Please check attached information and let me know.（附 8C48XF.png、Performance of PeakNetX Platform_EN_V3.1.pptx、Saga Software Function List_EN_V2.4.pptx、STH25G Se",
+    "prices": [],
+    "bulk": false,
+    "k": "reply"
+   },
+   {
+    "date": "2026-02-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "0e27c2b304678071"
+   },
+   {
+    "date": "2026-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "14dc19f6b4531d0a"
+   },
+   {
+    "date": "2026-04-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "87a5d2f153af6aa6"
+   },
+   {
+    "date": "2026-05-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "78d6ca72fbfa80a8"
+   },
+   {
+    "date": "2026-06-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "007d7ff9cf1ab2b7"
+   },
+   {
+    "date": "2026-07-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9816a18af6ba097f"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cf0b2fffabaacb89"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan",
+    "subj": "",
+    "gist": "This is our 16-port DIN PoE switch… Do you need some units for testing?",
+    "prices": [],
+    "bulk": false,
+    "k": "push"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

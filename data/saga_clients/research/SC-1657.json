@@ -39,7 +39,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2025-01）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -57,6 +57,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 印度 · 工业自动化渠道 25%：San Telequip Private Limited（Pune；CIN U32202PN1992PTC065720；1992；≈ 32 人；董事 Gokhale / Joshi）坐实；印度先例 ✔ 工业渠道对位 ✔ 主动问 5 / 8 电口价 ✔ → P 池候选；闸 1：印度 San Telequip Pvt. Ltd.（santelequip.com 正常；Chetan Kamdi，gmail；Profibus Connectors 商，主动问了 5 / 8 电口的价格 ✔）：印度先例 ✔ 工业自动化渠…",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2025-01）"
   }
  ],
  "lt_review": {
@@ -186,15 +194,229 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-07→2025-01）",
+  "grade_before": "A",
+  "reason": "真回信 5 封 / 表内 1 条 / 研究档 0 条（S；2024-07→2025-01）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2025-01-09] Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to h ‖ [S 2025-01-09] Hey Simon, I want to Know about 8*100 Unmanged Switch without SFP, Pls Share Revised Regards Chetan"
+  "evidence": "[S 2025-01-09] Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to h ‖ [S 2025-01-09] Hey Simon, I want to Know about 8*100 Unmanged Switch without SFP, Pls Share Revised Regards Chetan ‖ 表 : Simon 备注/兴→Profibus Connectors\n主动问了5 8电口的价格"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实: San Telequip Private Limited（santelequip.com；**CIN U32202PN1 · U32202PN1992PTC065720（CIN） · Active（年报 2023-03-31） · 1992-03-04"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "industrial",
+   "media converter",
+   "poe",
+   "switch",
+   "工业"
+  ],
+  "p1": "STI-288GPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→Profibus Connectors\n主动问了5 8电口的价格"
+   ],
+   [
+    "2024-07-04",
+    "S",
+    "What is the Price for the same?"
+   ],
+   [
+    "2024-11-29",
+    "S",
+    "What is the price?"
+   ],
+   [
+    "2025-01-06",
+    "S",
+    "Can you share me details for 8 Port Unmanged Switch along with its Unit Price"
+   ],
+   [
+    "2025-01-09",
+    "S",
+    "Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to have sample for Testing. Regard"
+   ],
+   [
+    "2025-01-09",
+    "S",
+    "Hey Simon, I want to Know about 8*100 Unmanged Switch without SFP, Pls Share Revised Regards Chetan"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2025-01-09（21 月前）"
+  ],
+  "size": "小型（≈ 32 人）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "印度·分销商；登记坐实：IN · 1 次检索：zaubacorp（CIN / 董事 / NIC）+ thecompanycheck（成立 / 实: San Telequip Priva。往来 —→2026-09-21：我方去信 18 封（A 8 / S 10），对方真人来信 5 封 + 表内/备注 1 条；对方问过：2024-11-29 S: What is the price? ‖ 2025-01-06 S: Can you share me details for 8 Port Unmanged Switch along with its Unit Price ‖ 2025-01-09 S: Can you Arrange Sample for This Model for Testing Purpose。我方报过：$65 / $170 / $280。对位：STI-288GPM；路径：免费邮箱 MX ok；最近来信 2025-01-09（21 月前）。",
+  "n_out": 18,
+  "n_in": 5,
+  "last_in": "2025-01-09",
+  "last_out": "2026-09-21",
+  "prices_out": [
+   "65",
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-01-06",
+    "dir": "in",
+    "box": "S",
+    "from": "cgkamdi@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Can you share me details for 8 Port Unmanged Switch along with its Unit Price",
+    "prices": [],
+    "bulk": false,
+    "k": "16d8bc153fe9de94"
+   },
+   {
+    "date": "2025-01-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Ethernet Switch",
+    "gist": "Re: 8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "96dd6befb13ab337"
+   },
+   {
+    "date": "2025-01-09",
+    "dir": "in",
+    "box": "S",
+    "from": "cgkamdi@gmail.com",
+    "subj": "Re: 8 Port Ethernet Switch",
+    "gist": "Can you Arrange Sample for This Model for Testing Purpose. I have good Requirment for this model and want to have sample for Testing. Regards Chetan Kamdi",
+    "prices": [],
+    "bulk": false,
+    "k": "4439e74fe7a3d49a"
+   },
+   {
+    "date": "2025-01-09",
+    "dir": "in",
+    "box": "S",
+    "from": "cgkamdi@gmail.com",
+    "subj": "Re: 8 Port Ethernet Switch",
+    "gist": "Hey Simon, I want to Know about 8*100 Unmanged Switch without SFP, Pls Share Revised Regards Chetan",
+    "prices": [],
+    "bulk": false,
+    "k": "ff2ae66b9cd1c3cf"
+   },
+   {
+    "date": "2025-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "7c44092137176e17"
+   },
+   {
+    "date": "2025-05-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3669b679fbe6240c"
+   },
+   {
+    "date": "2025-06-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fe7481229842a721"
+   },
+   {
+    "date": "2026-05-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "9b9412c28ddb664b"
+   },
+   {
+    "date": "2026-06-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "87aa18081296768f"
+   },
+   {
+    "date": "2026-07-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "468817ef23aa0281"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "a5259dceedb816fc"
+   },
+   {
+    "date": "2026-09-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b9db13bc4ff68cb5"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

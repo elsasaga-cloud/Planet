@@ -61,7 +61,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 0 条（AS；2024-08→2025-09）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n美国主攻区、集成商、已回复。用户记录称其'工业 switch 分销商、供应商多、产品面广'——官网显示更偏布线承包+项目集成。P1：STC-424DGGPM-280W（摄像/门禁项目 24 口 PoE），项目价阶 25%；需 FCC 文件，不承诺 UL。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -259,16 +259,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）",
+  "reason": "真回信 4 封 / 表内 1 条 / 研究档 0 条（AS；2024-08→2025-09）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-04-07] Yes that is correct. Do you have any product like this? Thanks ‖ [A 2025-09-26] Hi Alan, How much do they cost? Regards, Nate ‖ 表 2025.9.27: Dual AC→Price ‖ 研 2025-04-07 nate.cline@alphanetcom.com: Yes that is correct. Do you have any product like this? Thanks / 2025-09-26 Nate: How much do they cost?"
+  "evidence": "[A 2025-04-07] Yes that is correct. Do you have any product like this? Thanks ‖ [A 2025-09-26] Hi Alan, How much do they cost? Regards, Nate ‖ 表 2025.9.27: Dual AC→Price"
  },
  "override_history": [
   {
@@ -278,6 +278,225 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 4 条（AS；2024-08→2025-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 0 条（AS；2024-08→2025-09）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · 官网 About / 联系页 + ZoomInfo / LeadIQ / Yelp（店主信息）+ Human: Alpha Net Communications（San Antonio, TX；法人形式待核） · 得州实体（SOS 登记号待补） · 经营中（官网 2026、ProvenExpert 2026- · 1986（创始人 T"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "network",
+   "poe",
+   "switch",
+   "交换机",
+   "光纤"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-08-24",
+    "S",
+    "Hi Simon, Yes, I would like to learn more about your 10G media converter. Can you send me a price list and I want to ask if I can buy from y"
+   ],
+   [
+    "2025-04-04",
+    "A",
+    "Hi Alan, Thanks for the email today and I’ve been staying busy with my projects in San Antonio. I like the Managed Switch below, but I’m loo"
+   ],
+   [
+    "2025-04-07",
+    "A",
+    "Yes that is correct. Do you have any product like this? Thanks"
+   ],
+   [
+    "2025-09-26",
+    "A",
+    "Hi Alan, How much do they cost? Regards, Nate"
+   ],
+   [
+    "2025.9.27",
+    "表",
+    "Dual AC→Price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-09-26（13 月前）"
+  ],
+  "size": "2–10（第 84 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·集成商/安装商；登记坐实：USA · 官网 About / 联系页 + ZoomInfo / LeadIQ / Yelp（店主信息）+ Human: Alpha Net Communic。往来 2024-08-24→2026-09-07：我方去信 22 封（A 18 / S 3），对方真人来信 4 封 + 表内/备注 1 条；对方问过：2025-04-04 A: Hi Alan, Thanks for the email today and I’ve been staying busy with my projects in San Antonio. I like the Managed Switch below, but I’m loo ‖ 2025-04-07 A: Yes that is correct. Do you h。我方报过：$65 / $170 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-09-26（13 月前）。",
+  "n_out": 22,
+  "n_in": 4,
+  "last_in": "2025-09-26",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-26",
+    "dir": "in",
+    "box": "A",
+    "from": "nate.cline@alphanetcom.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Hi Alan, How much do they cost? Regards, Nate",
+    "prices": [],
+    "bulk": false,
+    "k": "1a6a105db1142c5f"
+   },
+   {
+    "date": "2025-09-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "511fd9aa0078e9c0"
+   },
+   {
+    "date": "2025-09-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 10G Enterprise SFP Switch",
+    "gist": "Re: 10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "75205f906d867c11"
+   },
+   {
+    "date": "2025-10-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d7ac0cdb0b259f8c"
+   },
+   {
+    "date": "2025-11-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cc95b1f68519647b"
+   },
+   {
+    "date": "2025-12-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "7f619d224425849c"
+   },
+   {
+    "date": "2025-12-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "11036620e99d8f78"
+   },
+   {
+    "date": "2025.9.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Dual AC",
+    "gist": "Price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "fb4549e3ffe6f6e8"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "b83a23bcb9729666"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "689549fae32ac371"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b62d0c7f7a3dfda0"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -76,7 +76,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n3 次回复 + WA 在线 + 高管级联系人；集成商身份与 ELV 项目用 PoE 交换机高度相关，虽历史询盘为 HDMI 转换器（Saga 不做）。中东非主攻区但可直接转为项目报价。P1：STC-424DGGPM-280W（楼宇安防 24 口 PoE），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -244,7 +244,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -263,6 +263,213 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Tecpro Solutions Co. L.L.C.（TPS） · （登记状态不可免费核）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "industrial",
+   "switch"
+  ],
+  "p1": "STC-424DGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1025",
+    "表",
+    "8电口→最近来中国"
+   ],
+   [
+    "2024-08-17",
+    "R",
+    "用户表跟进：推「passive poe手册」→ 对方「price」"
+   ],
+   [
+    "2024.6.18",
+    "表",
+    "发了几个商业交换机图→需要工业级的"
+   ],
+   [
+    "2024.8.17",
+    "表",
+    "passive poe手册→price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-10-25（24 月前）"
+  ],
+  "size": "51–100（Prospeo；LinkedIn 11–50；Crunchbase 101–250）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "阿联酋·集成商/安装商；登记线索：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Tecpro Solutions C。往来 1025→2026-10-01：我方去信 8 封（A 8 / S 0），对方真人来信 0 封 + 表内/备注 4 条；对方问过：1025 表: 8电口→最近来中国 ‖ 2024-08-17 R: 用户表跟进：推「passive poe手册」→ 对方「price」 ‖ 2024.6.18 表: 发了几个商业交换机图→需要工业级的 ‖ 2024.8.17 表: passive poe手册→price。我方报过：$170 / $280。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok + WA；最近来信 2024-10-25（24 月前）。",
+  "n_out": 8,
+  "n_in": 0,
+  "last_in": "2024-10-25",
+  "last_out": "2026-10-01",
+  "prices_out": [
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2024-10-25",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「8电口」→ 对方「最近来中国」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/阿联酋 沙特阿拉伯  2.3.xlsx no.38 1025"
+   },
+   {
+    "date": "2024.5.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了mini工业交换机图片",
+    "gist": "ok",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.6.18",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个商业交换机图",
+    "gist": "需要工业级的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.17",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "passive poe手册",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "f1f7125b31387504"
+   },
+   {
+    "date": "2026-04-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "625d535adb7cd035"
+   },
+   {
+    "date": "2026-04-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "bebc32ced90dc88c"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "48f3fb5e3e8002fd"
+   },
+   {
+    "date": "2026-06-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "b9b553815de065d0"
+   },
+   {
+    "date": "2026-07-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "f1b575b2a4230d80"
+   },
+   {
+    "date": "2026-08-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e11dd6c264c382d7"
+   },
+   {
+    "date": "2026-10-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "8ca7747a611e7925"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

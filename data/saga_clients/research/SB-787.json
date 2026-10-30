@@ -61,7 +61,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -202,16 +202,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-10-30] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third ‖ 研 2024-10-30 chk999@outlook.com: Re: 10G Ethernet Web Managed Switch｜Hi, Does it have the https (not http, but ht"
+  "evidence": "[S 2024-10-30] Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third"
  },
  "override_history": [
   {
@@ -221,6 +221,204 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：官网 35 周年页（1991-12 TC Communications, Inc. 成立于 Yor: TC Communications, Inc.（tccomm.com / JumboSwitch.com；Irvine, California）— 1991-1 · Active（2026 年 35 周年）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-288GPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-10-30",
+    "S",
+    "Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Be"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-10-30（24 月前）"
+  ],
+  "size": "11–200 人",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：官网 35 周年页（1991-12 TC Communications, Inc. 成立于 Yor: TC Communications,。往来 2024-06-19→2026-09-09：我方去信 43 封（A 35 / S 8），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-10-30 S: Hi, Does it have the https (not http, but https with s at the end http secure protocol) and can we store third party https certificates ? Be。我方报过：$65 / $170 / $220 / $280 / $300。对位：STI-288GPM；路径：企业邮箱 MX ok；最近来信 2024-10-30（24 月前）。",
+  "n_out": 43,
+  "n_in": 1,
+  "last_in": "2024-10-30",
+  "last_out": "2026-09-09",
+  "prices_out": [
+   "65",
+   "170",
+   "220",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2026-01-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "5ecb41c18a3f19db"
+   },
+   {
+    "date": "2026-02-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "87361f024b3a5605"
+   },
+   {
+    "date": "2026-02-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "381bd7103b6eb2aa"
+   },
+   {
+    "date": "2026-03-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "f195ff08e34f377e"
+   },
+   {
+    "date": "2026-03-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "5f822b4b9714b69e"
+   },
+   {
+    "date": "2026-04-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "00cf4902056cee49"
+   },
+   {
+    "date": "2026-04-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "840cdba8d08cd0e1"
+   },
+   {
+    "date": "2026-05-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a02d1c8afd526fc0"
+   },
+   {
+    "date": "2026-06-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "6755525f2db2aeec"
+   },
+   {
+    "date": "2026-07-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "72469adda5465d2b"
+   },
+   {
+    "date": "2026-08-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "f7d36a6b159e41ed"
+   },
+   {
+    "date": "2026-09-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "81ea8a5561a68212"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -51,7 +51,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -182,16 +182,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-26] Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network ‖ 研 2024-06-26 satis@konakguvenlik.com.tr: Hello, Do you have a product with the features in the description? Thank you Erk"
+  "evidence": "[S 2024-06-26] Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network"
  },
  "override_history": [
   {
@@ -201,6 +201,208 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026-10-27）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-06-26",
+    "S",
+    "Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-06-26（28 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "土耳其·集成商/安装商；研究档法定名：Konak Güvenlik（konakguvenlik.com.tr；法定全称 / Ticaret Sicil 未定位）（第 88 批 官方登记核实 2026。往来 2024-06-14→2026-10-06：我方去信 23 封（A 12 / S 9），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-06-26 S: Hello, Do you have a product with the features in the description? Thank you Erkut Sevin +905315637721 network-switches-AT-FS750-28-30 15:21。我方报过：$65 / $170 / $220 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱；最近来信 2024-06-26（28 月前）。",
+  "n_out": 23,
+  "n_in": 1,
+  "last_in": "2024-06-26",
+  "last_out": "2026-10-06",
+  "prices_out": [
+   "65",
+   "170",
+   "220",
+   "280",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "42c0002f1bd0e3b1"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "aaa97551bedd6087"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7c711dd86f970411"
+   },
+   {
+    "date": "2026-01-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "ebd9d67768a5de56"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "ed5ee95a21385cb5"
+   },
+   {
+    "date": "2026-03-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "4f6f37c9d72093bf"
+   },
+   {
+    "date": "2026-04-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "d9beef549aebd6fa"
+   },
+   {
+    "date": "2026-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "230ea70aafba13ec"
+   },
+   {
+    "date": "2026-06-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "ee647955f5169b90"
+   },
+   {
+    "date": "2026-07-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "21764b4328b67bb6"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "111a5eb3b18835a2"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "57252fda15e0ac9a"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

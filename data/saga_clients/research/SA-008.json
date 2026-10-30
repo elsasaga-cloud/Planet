@@ -271,7 +271,7 @@
   "mail_update_2026-10-22": "第 6 单：20 × STC-4168XGGCM @2,015 RMB（$300 / €265.2），EUR 付款 2026-10-15，投产 2026-10-17，客户要求 SmartByte 原名与 OID"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
  "next_steps": [
   "本单闭环：固件版本/OID 56166/SmartByte 型号字符串确认 → SN+MAC 清单 → 测试报告 → 尺寸重量 → 追踪号 → 到货后问 LibreNMS 识别",
   "补 CENTEC 报价欠账（2026-01-20 他要的 datasheets + pricing）",
@@ -813,7 +813,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -822,7 +822,7 @@
   "excl": "",
   "deal": "PI包·活跃",
   "reply_class": "R+",
-  "evidence": "[S 2026-10-06] Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG R ‖ [S 2026-10-15] Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with  ‖ 表 2024.11.9: 群发了48口引流管理→非PoE, 全光，100G ‖ 研 2026-10-06 Frederik Kriewitz（NYNEX）: can you share your euro bank account please? / 2026-10-15 Frederi"
+  "evidence": "[S 2026-10-06] Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG R ‖ [S 2026-10-15] Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with  ‖ 表 2024.11.9: 群发了48口引流管理→非PoE, 全光，100G"
  },
  "override_history": [
   {
@@ -832,6 +832,227 @@
    "to": "A",
    "prev_reason": "PI 包成单客户，Simon 标签 活跃 → A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darms: NYNEX satellite OHG（品牌 fiberONE） · Amtsgericht Darmstadt HRA 84829 · EUID D · 在册（Northdata 无注销 / 破产事件；最近事件 2 · 2012-11-27"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "sfp",
+   "光纤",
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-12-17",
+    "S",
+    "Hello Simon, can you double check the firmware file you sent, while it has another checksum compared to the previously one you sent when ins"
+   ],
+   [
+    "2026-01-20",
+    "S",
+    "Hello Simon, � I haven’t head back any problems with the 24 port 1G testing, I assume everything is good there. To clarify: For the 230pcs p"
+   ],
+   [
+    "2026-09-29",
+    "S",
+    "Hello Simon, can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany. "
+   ],
+   [
+    "2026-09-29",
+    "S",
+    "Hello Simon, we would like to pay in Euro. Can you add a euro amount to the invoice? Due to the price increase I'll have to get 3 more compa"
+   ],
+   [
+    "2026-10-06",
+    "S",
+    "Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darm"
+   ],
+   [
+    "2026-10-15",
+    "S",
+    "Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product nam"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-10-15（0 月前）"
+  ],
+  "size": "11–50（LinkedIn）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "德国·OEM 品牌商；登记坐实：Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darms: NYNEX satellite OH。往来 2024-11-09→2026-10-17：我方去信 69 封（A 0 / S 59），对方真人来信 43 封 + 表内/备注 1 条；对方问过：2026-09-29 S: Hello Simon, can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany.  ‖ 2026-09-29 S: Hello Simon, we would like to。我方报过：$25 / $30 / $35 / $120 / $150 / $180。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-10-15（0 月前）。",
+  "n_out": 69,
+  "n_in": 43,
+  "last_in": "2026-10-15",
+  "last_out": "2026-10-17",
+  "prices_out": [
+   "25",
+   "30",
+   "35",
+   "120",
+   "150",
+   "180"
+  ],
+  "timeline": [
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Alleycat5 Solution",
+    "gist": "Re: Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "0f0fbe815b9ef1af"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Saga Marvell AC5 Series Fully Ready",
+    "gist": "Saga Marvell AC5 Series Fully Ready",
+    "prices": [],
+    "bulk": false,
+    "k": "bf1a3e1e9ab85d63"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "in",
+    "box": "S",
+    "from": "f.kriewitz@nynex.de",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Hello Simon, we would like to pay in Euro. Can you add a euro amount to the invoice? Due to the price increase I'll have to get 3 more comparison quotes form ot",
+    "prices": [],
+    "bulk": false,
+    "k": "637b710ddb45d5f6"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Re: Saga Marvell AC5 Series Fully Ready",
+    "prices": [],
+    "bulk": false,
+    "k": "38d19aa9fadaae82"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "in",
+    "box": "S",
+    "from": "f.kriewitz@nynex.de",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Hello Simon, can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany. Please also share pa",
+    "prices": [],
+    "bulk": false,
+    "k": "afced0c9af361141"
+   },
+   {
+    "date": "2026-09-29",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Frederik",
+    "subj": "",
+    "gist": "due to the increasing material costs (mainly PCBs and RAMs), the unit price goes up. And the exchange rate is not good, USD/RMB = 1:6.71… please let me know if ",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 2026-09-29 Re: Saga Marvell AC5 Series Fully Ready"
+   },
+   {
+    "date": "2026-09-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Re: Saga Marvell AC5 Series Fully Ready",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "074a700ad4b10bf7"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Re: Saga Marvell AC5 Series Fully Ready",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "f22b10e3250c3f3c"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "in",
+    "box": "S",
+    "from": "f.kriewitz@nynex.de",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG Robert-Bosch-Str. 20 64293 Darmstadt Tel.: +49 6151",
+    "prices": [],
+    "bulk": false,
+    "k": "da67a500ff9a25f8"
+   },
+   {
+    "date": "2026-10-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Re: Saga Marvell AC5 Series Fully Ready",
+    "prices": [],
+    "bulk": false,
+    "k": "81f8fe275f461480"
+   },
+   {
+    "date": "2026-10-15",
+    "dir": "in",
+    "box": "S",
+    "from": "f.kriewitz@nynex.de",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with original SmartByte product names/IDs. Please make ",
+    "prices": [],
+    "bulk": false,
+    "k": "60ac95de9259a792"
+   },
+   {
+    "date": "2026-10-17",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Saga Marvell AC5 Series Fully Ready",
+    "gist": "Re: Saga Marvell AC5 Series Fully Ready",
+    "prices": [],
+    "bulk": false,
+    "k": "95b7153bc20857f6"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

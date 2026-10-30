@@ -1,18 +1,18 @@
 # widen.co.th
 **官方名称（调研核实）**：WIDEN Co., Ltd.（Nonthaburi, Thailand）
 
-> **评级 A**　|　泰国　|　档案编号 `SA-012`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　泰国　|　档案编号 `SA-012`　|　优先级 ★★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；成单 / 样品 ✔；命中 2/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 —）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）、prepay
 >
-> **类型**：分销商/品牌商（光纤产品自有 logo，OEM 采购）（推断）　|　**历史关系**：成交/下单过；推送 18 次（2024-04-30 → 2025-10-15）　|　**所在清单**：A优质名单(Thailand)、AI评估(TH)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：分销商/品牌商（光纤产品自有 logo，OEM 采购）（推断）　|　**历史关系**：推送 18 次（2024-04-30 → 2025-10-15）　|　**所在清单**：A优质名单(Thailand)、AI评估(TH)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-012
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交
 name_official: "WIDEN Co., Ltd.（Nonthaburi, Thailand）"
 score: 97
 country: 泰国
@@ -20,7 +20,7 @@ region: 亚太
 website: widen.co.th
 type: 分销商/品牌商（光纤产品自有 logo，OEM 采购）
 tier_tags: ["A优质名单(Thailand)", "AI评估(TH)·DONE"]
-deal: yes
+deal: no
 replies: 0
 followups: 18
 first_contact: 2024-04-30
@@ -37,8 +37,8 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：泰国暖武里的光纤产品进口分销商（Fiber Optic 全线：跳线、适配器、接头盒、MC、视频光端机、光纤交换机、FTTx、CATV），官网公开 info@/thawat@ 邮箱与 LINE。用户表：FS/MC/VC 都用自己的标（自有 logo），CommunicAsia 展会上问了交换机/HDMI 光端机，联系人 Thawat，早期 AI 评 50% A。（调研 2026-10-21；表内兴趣：FS MC VC 都是自己的标 无源产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
-- **历史互动**：成交/下单过；推送 18 次（2024-04-30 → 2025-10-15）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位））；自动分级 A：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/泰国；+5 最近活动 2025；-16 推送 18 次无任何回复（聋名单）
+- **历史互动**：推送 18 次（2024-04-30 → 2025-10-15）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE — MC / 光口交换机贴牌（WIDEN）→ 千兆 SFP 转换器 + 8 PoE DIN 两款 WIDEN 包装；锚价：STI-288GP $60 / STI-110GE $26.5（最近实报）（第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-12-17 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-03 $240（24 Port Fiber Switch）、2025-10-15 $280（10G Enterprise SFP Switch）、2026-06-26 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Your WIDEN industrial PoE converters are still 10/100 on the 4- and 8-port versions, so the gigabit 8-port DIN unit with two SFP uplinks in WIDEN packing is the obvious next SKU, and I can quote it together with the gigabit SFP converter you already brand. Shall I quote the gigabit 8-port PoE DIN unit with 2 SFP in WIDEN packing together with the gigabit SFP converter you already brand? Reference: STI-288GP at $60 / STI-110GE at $26.5 USD EXW (MOQ 1, 15-day validity).
 - **最大未知**：年走量与现供应商
@@ -143,7 +143,7 @@ updated: 2026-10-30
   > WIDEN SFP Gigabit Ethernet Media Converter · WIDEN Optic Media Converter with POE · WIDEN Rack mountable Chassis … WIDEN Fiber Optic Industrial WDM Media Converter 10/100 8 Port RJ45 PoE · … 10/100/1000 2 Port RJ45 PoE · WIDEN Fiber Optic PoE Extender W-PoEEx 1,950.00 บาท
   > 来源：https://www.telepart.net/（抓取 2026-10-21）
 - **KP**：Thawat（负责人（官网公开直邮））thawat@widen.co.th +66 81-285-4599 / 02-149-3922〔http://www.widen.co.th/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·CommunicAsia 展会当面问了交换机/HDMI 光端机；FS/MC/VC 自有 logo（泰国，OEM 对位）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴牌；P1 = STI-110GE（MC）或 STC-28DGGPM 光口款，30% 档；泰国区可提 LINE 跟进。
@@ -219,6 +219,38 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 | 2025-09-12 | 912 | 22mini |  | A |  | Thailand 2.27.xlsx#34 |
 | 2025-10-15 | 1015 | DAC |  | A |  | Thailand 2.27.xlsx#34 |
 
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: WIDEN Co., Ltd.（Widen Trading / WIDEN NETWORK SOLUTIONS） · （登记状态不可免费核） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：fiber media converter network poe sfp switch 交换机 光纤；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） |  表: Simon 备注/兴趣栏→FS MC VC 都是自己的标 无源产品 ； 展会问了：交换机，HDMI光端机 ； 展会问了：交换机，HDMI光端机 / 早期ai: 50% A 泰国通信设备品 |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | 未见人数（中小分销商） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：泰国·OEM 品牌商；登记线索：泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: WIDEN Co., Ltd.（Widen 。往来 —→2026-09-28：我方去信 27 封（A 20 / S 7），对方真人来信 0 封 + 表内/备注 1 条；对方问过： 表: Simon 备注/兴趣栏→FS MC VC 都是自己的标 无源产品 ； 展会问了：交换机，HDMI光端机 ； 展会问了：交换机，HDMI光端机 / 早期ai: 50% A 泰国通信设备品。我方报过：$170 / $240 / $280 / $300 / $6000。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-10-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-19 | 去 | A | Booster PoE Switch |  |
+| 2025-12-24 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-26 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-02 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-20 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-15 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-26 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-26 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-28 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-24 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-28 | 去 | A | Managed PoE Switches |  |
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：27 封（去 27 / 来 0）　|　**期间**：2024-06-24 → 2026-09-28　|　**最后去信**：2026-09-28
@@ -292,7 +324,7 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -300,7 +332,7 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付；自有品牌/贴牌需求 = 现成 OEM 客户
+- **S**：自有品牌/贴牌需求 = 现成 OEM 客户
 - **W**：已推送 18 次无回复，邮件通道疲劳
 - **O**：P1 STI-288DGGPM 按 30% 档报价，做现供应商的第二货源；贴牌 + 定制 UI/型号 → 30% 档与长期绑定；规模（调研）：未见人数（中小分销商）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -321,7 +353,7 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ Marvell, FS |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）

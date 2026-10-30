@@ -45,8 +45,8 @@
    "source": "https://sicurmax.com/azienda"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·成单（Sicurmax，用户表）",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：排除：守界行业（轨交/军工）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-21",
  "deep": {
@@ -159,6 +159,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A1 复购/绑定≥中度；A2 成单/样品/PI+真人往来",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·成单（Sicurmax，用户表）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·成单（Sicurmax，用户表）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：排除：守界行业（轨交/军工）"
   }
  ],
  "snap_thicken": {
@@ -190,14 +198,14 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A1",
-  "target": "A",
+  "batch": "AB-FINAL-02",
+  "tier": "",
+  "target": "B",
   "grade_before": "A",
-  "reason": "核定成单·成单（Sicurmax，用户表）",
-  "why_not": "",
-  "excl": "",
-  "deal": "核定成单·成单（Sicurmax，用户表）",
+  "reason": "",
+  "why_not": "排除：守界行业（轨交/军工）",
+  "excl": "守界行业（轨交/军工）",
+  "deal": "备注成单（非 Saga，本职公司时期）·成单（Sicurmax，用户表）",
   "reply_class": "none",
   "evidence": ""
  }

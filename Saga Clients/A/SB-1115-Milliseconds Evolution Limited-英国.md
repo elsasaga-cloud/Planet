@@ -11,7 +11,7 @@ code: SB-1115
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
 name_official: "Milliseconds Evolution Limited"
 score: 46
 country: 英国
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国伦敦新公司（MikroTik 认证顾问 Iyiola Folayan，20 年 MikroTik 经验），2026-09 群发回复后主动提出做 Saga 英国经销；2026-10-17 已开 2 台 STC-424XGGPM-280W 样品形式发票（$180/台，样品款抵首单），客户当日回复暂无项目、等有项目再付款。S 邮箱 9 封（2026-09-28 → 10-19）。（调研 2026-10-22；表内兴趣：STC-424XGGPM-280W 24 口 PoE L2+（$180/PC）；先 2 台样品测试，再谈英国经销/分销）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销））；自动分级 B：+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 2 条（R；→））；自动分级 B：+10 谈到样品/测样；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM-280W $180 — 英国 + 愿意测试 + 技术背景｜MikroTik 认证顾问 20 年（他自述）→ 他迟早问 Frank（SA-002 2026-07-20）同一个问题「你们比 MT 多什么」：别比 RouterOS 脚本/API（我们没有），只说三件真事——OEM 贴牌与定制 GUI、24-PoE + 4×10G 上联 $180 的价位、工业 DIN -40~75 全系；口径 #17；$180（2026-10 报价，样品款抵首单）；**价表版本**：STC-424XGGPM-280W：$180 = 2026-09-21 起 Alan 每天群发的现价（也是他样机 PI 的价）；2026-06-22 PDF 的 $198 从未发给任何客户——批量报价就按 $180 起谈，别提 $198（口径 #20）；**$535 = 2 × $180 + FedEx $150 + 银行费 $25（DAP 伦敦，不含英国 VAT/关税）**；样品款抵首单（他 10-17 原话）
 - **第一问（只问一个）**：Iyiola — did a project come through? The 2-pc evaluation PI stands (credited against your first order) whenever you are ready.
@@ -154,7 +154,7 @@ updated: 2026-10-30
   > 来源：https://millievolution.com/（抓取 2026-10-29）
 - **KP**：Iyiola Folayan（Director + **唯一 PSC（持股 50–75% + 任免董事权，2025-10-24 通知）** = 控股人 = 联系人；公司仍是 2025-10 新壳（虚拟地址）→ 付费样品 + 100% 预付不变（第 87 批 官方登记核实 2026-10-27））ifolayan@millievolution.com 〔S 邮箱签名 + Simon 10-03 信中提到 MikroTik consultant list〕
 - **KP**：Aderonke Folayan（Director（2025-10-24 起；Wakefield）= 家属 / 共同股东（第 86 批 官方登记核实 2026-10-27）） 〔https://find-and-update.company-information.service.gov.uk/company/16807798/officers〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：核定成单·2026-10-17 已开 2 台样品 PI（Milliseconds，主动提出做英国经销）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 2 条（R；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：deep/facts。
 LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 128 City Road EC1V 2NX 是伦敦常见的虚拟注册地址（公司可能无实体仓）；「经销」意向要在首单之后再谈。下一步：不催；等客户项目来时把样品 PI 换成正式单。
@@ -184,6 +184,30 @@ LT-T02 官网实查（2026-10-29）：见 evidence「LT-T02 官网实查」。
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | UK · Companies House（官方）公司页 + officers 页: MILLISECONDS EVOLUTION LIMITED · 16807798 · Active · 2025-10-24 |
+| ② 角色 / 对位 | 分销商 | 对位词：网络；P1 STC-424XGGPM-280W |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-09-29 R: Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30)  ‖ 2026-10-17 R: Thanks for the invoice. Unfortunately I am unable… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-10-17（0 月前） |
+| ⑤ 规模 | 个人/微型 | 初创微型（3 董事）（第 86 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：英国·分销商；登记坐实：UK · Companies House（官方）公司页 + officers 页: MILLISECONDS EVOLUTION LIMITED · 16807。往来 2026-09-29→2026-10-17：我方去信 2 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2026-09-29 R: Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30)  ‖ 2026-10-17 R: Thanks for the invoice. Unfor。我方报过：2026-10-19 STC-424XGGPM-280W $180.0；2026-10-17 STC-424XGGPM-280W $180.0；2026-10-03 STC-424XGGPM-280W $180.0。对位：STC-424XGGPM-280W；路径：企业邮箱 MX ok；最近来信 2026-10-17（0 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-09-29 | 来 | R | Are you able to share your product catalog with me? Do you have distributors in the UK? Can we work as your distributor in the UK?… (09-30) For now, I… |  |
+| 2026-10-03 | 去 | R |  |  |
+| 2026-10-17 | 来 | R | Thanks for the invoice. Unfortunately I am unable to make the payment now. I can only proceed when I have a project that can take care of the cost. |  |
+| 2026-10-17 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

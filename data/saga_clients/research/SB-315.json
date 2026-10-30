@@ -46,7 +46,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -209,6 +209,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 9 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -244,7 +252,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -254,5 +262,210 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 1210: Mini→price"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "VN · 1 次检索：masothue.com/0309279999（CÔNG TY TNHH THƯƠNG MẠI D: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SONG THÀNH CÔNG（STC Vietnam； · MST 0309279999 · Đang hoạt động（营业中） · 2009"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "switch",
+   "交换机",
+   "光纤",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-244GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-12-10",
+    "R",
+    "用户表跟进：推「Mini」→ 对方「price」"
+   ],
+   [
+    "2024.1.10",
+    "表",
+    "发了2光4小壳信息→价格 官网"
+   ],
+   [
+    "2024.2.27",
+    "表",
+    "发了2光16电信息→价格 官网"
+   ],
+   [
+    "2024.5.18",
+    "表",
+    "发了几个mini工业交换机→价格"
+   ],
+   [
+    "2024.6.20",
+    "表",
+    "发了几个商业交换机图→主要是工业品"
+   ],
+   [
+    "2024.7.16",
+    "表",
+    "发了电口图→hi thanks"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-12-10（22 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "越南·分销商；登记坐实：VN · 1 次检索：masothue.com/0309279999（CÔNG TY TNHH THƯƠNG MẠI D: CÔNG TY TNHH THƯƠN。往来 1022→2026-09-10：我方去信 1 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 9 条；对方问过：2024.2.27 表: 发了2光16电信息→价格 官网 ‖ 2024.5.18 表: 发了几个mini工业交换机→价格 ‖ 2024.6.20 表: 发了几个商业交换机图→主要是工业品 ‖ 2024.7.16 表: 发了电口图→hi thanks。我方报过：未见报价数字。对位：STI-244GP；路径：企业邮箱 MX ok + WA；最近来信 2024-12-10（22 月前）。",
+  "n_out": 1,
+  "n_in": 0,
+  "last_in": "2024-12-10",
+  "last_out": "2026-09-10",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-07-16",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了电口图」→ 对方「hi thanks」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.7.16"
+   },
+   {
+    "date": "2024-08-14",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「4 8口工业PoE」→ 对方「noted」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 2024.8.14"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「电口」→ 对方「noted」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1022"
+   },
+   {
+    "date": "2024-11-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「industrial grade?」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1118"
+   },
+   {
+    "date": "2024-12-10",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「Mini」→ 对方「price」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/E/群发/VN 09.09 09.10/VN.xlsx no.161 1210"
+   },
+   {
+    "date": "2024.1.10",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光4小壳信息",
+    "gist": "价格 官网",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.2.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光16电信息",
+    "gist": "价格 官网",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.18",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个mini工业交换机",
+    "gist": "价格",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.6.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个商业交换机图",
+    "gist": "主要是工业品",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.7.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了电口图",
+    "gist": "hi thanks",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.14",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业PoE",
+    "gist": "noted",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmai",
+    "subj": "",
+    "gist": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

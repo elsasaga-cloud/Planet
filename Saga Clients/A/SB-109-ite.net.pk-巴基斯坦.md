@@ -12,7 +12,7 @@ code: SB-109
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 
 name_official: "International Technology Exchanger (ITE)（Karachi）"
 score: 59
 country: 巴基斯坦
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：卡拉奇 IT 方案商（20+ 年，Cisco / Fortinet / Huawei / Ubiquiti / Juniper），Faisal Javed；2025-04 对 2 光 2 电 mini 群发反问「有 1 GE + 4 FE 路由器吗」（Saga 无路由器）。（调研 2026-10-21；表内兴趣：switch）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 4 次（2025-04-09 → 2025-10-02）；最近一次客户回复：2025-04-09：have Routers with 1GE and 4 FE ports?
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 交换机兴趣 → STC-28DGGPM 起手（经销 20%）；路由器不供。；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-02→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -132,7 +132,7 @@ updated: 2026-10-30
   > 回复：have Routers with 1GE and 4 FE ports?
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Faisal Javed（Director（ZoomInfo；2025-04 回信问 1 GE + 4 FE 路由器）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、路由器不做明说、接入 STC-4424GCPM $165 / STC-2224GP $86 / STC-228GP $33 一口价、MOQ 1 + 付费样机 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））faisal@ite.net.pk +92 21 3459 8598〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -180,6 +180,31 @@ updated: 2026-10-30
 | 2025-05-12 | 512 | 28poe |  | E |  | E Replied 2026.08.04.xlsx#5 |
 | 2025-06-21 | 621 | 16电 |  | E |  | E Replied 2026.08.04.xlsx#5 |
 | 2025-10-02 | 102 | dac |  | E |  | E Replied 2026.08.04.xlsx#5 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, : International Technology Exchanger (ITE)（ite.net.pk；**2004 年创立；卡拉奇 The Forum, Su · 营业中（官网 + 企业库） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：industrial 网络；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-04-09 E: Pls share any reference Sent from my iPhone ‖ 2025-04-09 E: Required Specifications: Routing Capabilities: * IP SLA (Service Level Agreement Monitoring) * GRE Tunneling * PPPoE (Point-to-Point Protoco ‖ 202… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-04-09（18 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：巴基斯坦·集成商/安装商；登记线索：PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, : International Tech。往来 2025-04-09→2025-04-09：我方去信 3 封（A 0 / S 0），对方真人来信 3 封 + 表内/备注 1 条；对方问过：2025-04-09 E: Hi Do you have Routers with 1GE and 4 FE ports Sent from my iPhone ‖ 2025-04-09 E: Pls share any reference Sent from my iPhone ‖ 2025-04-09 E: Required Specifications: Routing Capabiliti。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-04-09（18 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-04-09 | 来 | R | Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels |  |
+| 2025-04-09 | 去 | R |  |  |
+| 2025-04-09 | 去 | R |  |  |
+| 2025-04-09 | 去 | R |  |  |
+| 2025.4.9 | 表 | 表 | 群发了22迷你｜have Routers with 1GE and 4 FE ports? |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

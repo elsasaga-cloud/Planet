@@ -12,7 +12,7 @@ code: SA-049
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档
 name_official: "IoT Sistem（Bosgem，USR IoT 土耳其官方分销）"
 score: 75
 country: 土耳其
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其 IoT/工业通讯产品网店，自称 USR IoT 土耳其官方分销商（Bosgem）；在售 MLB-E 系列工业以太网交换机（可管理 28 口、14 口；非管理 5/8 口；DIN 导轨、双电源 12–58VDC），面向自动化与军工项目。（调研 2026-10-21；表内兴趣：工业FS 好多都是Mlis MLB型号）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 12 条（AS；2024-05→2026-09））；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 4 条（AS；2024-05→2026-09））；自动分级 A：+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 用户分档 1类；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推 Marvell；若 Simon 允许，用 HRUI 线 DIN 导轨 8 口 10/100+2 SC（价见 `价格主表_HRUI.csv`）一次报清，不再来回 — C3：继续用 Marvell 报价是「拼命单」；要么换线一次报清，要么停止投入。已打开的主题（29/40 封有打开记录）：「Re: 24 Port PoE Managed Switch」(2026-08-20)、「Re: 24 Port PoE Managed Switch」(2026-09-03)、「16 Port Industrial PoE Switch」(2026-09-17)、「Re: 16 Port Industrial PoE Switch」(2026-09-18) → 读者兴趣偏「工业」；与 P1 同类，继续｜对外统一口径（#9/#12）：2026-08-20「We also accept Lira payment」是对土耳其老客户的特例口径，按当日汇率；涨价说明统一「PCB/RAM + 汇率」；HRUI 线对应型号 CNY ×1.2 ÷ 汇率快照（如 Simon 不愿动 Realtek 线则不报）；历史报价（邮件原话，老汇率）：2026-06-09 STI-288GPM 90USD；2026-08-17 340USD；2024-05-29 STI-050GE STI-050GE 18usd；2024-05-03 STI-050GE 25usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-06-24 $220（Re: Industrial network switch）；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：（若 Simon 同意换线）Would an 8-port 10/100 + 2×SC DIN unmanaged unit at about $48 EXW (STI-180FE, 8×FE + 1×SC/FX; the 2×SC variant to be confirmed) close this, or is PoE still required?
@@ -200,7 +200,7 @@ updated: 2026-10-30
   > MLB-E4204-28-F · MLB-E4204-28-G-F · MLB E4202-10-F · MLB E4202-10-GF
   > 来源：https://www.iotsistem.com/urun-kategori/ethernet-switch/yonetilebilir-switch/（抓取 2026-10-21）
 - **KP**：Berk（已回复联系人 = 大概率老板（微型公司，Bosgem Otomasyon / IoT Sistem，İstanbul Maltepe 2010；USR IoT 土耳其分销 + 自有 BOSGEM 品牌；法定全称待补）（第 85 批 官方登记核实 2026-10-27））info@iotsistem.com 〔用户 Clients 表〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 12 条（AS；2024-05→2026-09）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 4 条（AS；2024-05→2026-09）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。
 
@@ -260,6 +260,38 @@ updated: 2026-10-30
 |---|---|---|---|---|---|---|
 | 2025-09-25 | 2025.9.25 | dac |  | A |  | 土耳其客户 3.10.xlsx#1 |
 | 2025-10-23 | 1023 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#1 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Türkiye · 官网 Hakkımızda（iotsistem.com / bosgem.com / bosgem.: Bosgem Otomasyon（商号 IoT Sistem / iotsistem.com；法定全称待补） · İstanbul Ticaret Sicil（号待补；法定名含 Bosgem O … |
+| ② 角色 / 对位 | 分销商 | 对位词：din ethernet fiber poe sfp switch 交换机 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-09-02 A: Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R ‖ 2026-09-17 A: Hi Friend, good day, Could you tell me to price and datasheet? Thank you, Very Best Regards, Iot Team ‖ 2026-09… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-09-17（1 月前） |
+| ⑤ 规模 | 个人/微型 | 微型（1–5）（第 85 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：土耳其·分销商；登记坐实：Türkiye · 官网 Hakkımızda（iotsistem.com / bosgem.com / bosgem.: Bosgem Otomasyon（商。往来 2024-05-02→2026-09-18：我方去信 42 封（A 29 / S 11），对方真人来信 21 封 + 表内/备注 0 条；对方问过：2026-08-18 R: For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE ‖ 2026-09-02 A: Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R ‖ 2026-09-17 A: Hi F。我方报过：$18 / $25 / $65 / $90 / $120 / $170。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-09-17（1 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-08-17 | 来 | A | Re: 24 Port PoE Managed Switch｜Hi Friend, Good day Devices looks pretty, Could you tell me special price for me? Thank you Berk B.R Alan from Saga Tel… |  |
+| 2026-08-18 | 来 | A | RE: 24 Port PoE Managed Switch｜Hi Alan, Good day, This is huge expensive friend, We expect to low from last offer (pls check attach price.jpg) Sorry f… |  |
+| 2026-08-18 | 来 | R | For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE |  |
+| 2026-08-20 | 去 | A | Re: 24 Port PoE Managed Switch | $340 |
+| 2026-08-21 | 来 | A | RE: 24 Port PoE Managed Switch｜Hi Firend, You are exactly right ,Pls coudl you help to provide Reliable cheaper one? Thank you Berk B.R |  |
+| 2026-08-21 | 来 | R | You are exactly right, Pls could you help to provide Reliable cheaper one? |  |
+| 2026-09-02 | 来 | A | RE: 24 Port PoE Managed Switch｜Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R |  |
+| 2026-09-02 | 来 | R | Is there any feed back? Do you have solution_? |  |
+| 2026-09-03 | 去 | A | Re: 24 Port PoE Managed Switch | $120 |
+| 2026-09-17 | 来 | A | RE: 16 Port Industrial PoE Switch｜Hi Friend, good day, Could you tell me to price and datasheet? Thank you, Very Best Regards, Iot Team |  |
+| 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-09-18 | 去 | A | Re: 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

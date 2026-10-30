@@ -11,7 +11,7 @@ code: SB-451
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 
 score: 41
 country: 沙特阿拉伯
 region: 中东
@@ -35,7 +35,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特阿拉伯 e-saudi.net（KP Saeed Mohammed；表内「Catalog」、有回复、「邮件中有详细的联系信息」；官网 http_error，业务范围待核）；表内 1 次跟进，有回复。（调研 2026-10-21；表内兴趣：Catalog）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：推送 1 次（2025-04-28 → 2025-04-28）；最近一次客户回复：2025-04-28：Info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（15/34 封有打开记录）：「Re: Industrial poe switch」(2024-10-15)、「48 Port PoE Managed Switch」(2024-12-12)、「Commercial PoE Switch」(2025-04-28)、「Re: Commercial PoE Switch」(2025-04-28) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-12 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Saeed — did the 2.5G/10G sample ever get budget approval, or should I stop sending updates?
@@ -148,7 +148,7 @@ updated: 2026-10-30
   > Catalog；邮件中有详细的联系信息
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Saeed Mohammed（Operation Manager / Business Development Manager（RocketReach，2005 至今；表内 1 次跟进有回复 要 Catalog）= 拍板人 / 收件人 — 一页纸一次：集成商 25% B、远端站点 STI-154GP / STI-288DGGPM 宽温 + 机房 STC-4424GCPM 一口价 + 3 年保 + MOQ 1 + 付费样机、opener 引其要 Catalog — 沙特常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP、SASO / SABER 不声称（第 119 批 官方登记核实 2026-10-28））saeed@e-saudi.net +966 55 068 6619（2024-02→06 签名 Mobile）〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 4 条（AS；2024-02→2025-04）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 9 封 / 表内 1 条 / 研究档 0 条（AS；2024-02→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
@@ -191,6 +191,38 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-04-28 | 2025.4.28 | 商业PoE | Info | A |  | A Replied 09.04.xlsx#45 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | SA · 1 次检索：rocketreach.co/e-saudi-electronic-saudi-network-p: (e-Saudi) Electronic Saudi Network（e-saudi.net / e-saudi.net.sa；**2001 年成立；利雅得 A · 营业中（企业库） |
+| ② 角色 / 对位 | 分销商 | 对位词：网络；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-10-15 S: Hi Simon, I am good no complain so far. Yes indeed we need a sample and datasheet if you can provide us. Regards, Saeed ‖ 2025-04-28 A: Dear Alan, I have shared It with our sales department. We will check i… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-04-28（18 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：沙特阿拉伯·分销商；登记线索：SA · 1 次检索：rocketreach.co/e-saudi-electronic-saudi-network-p: (e-Saudi) Electron。往来 2024-02-25→2026-09-08：我方去信 34 封（A 16 / S 18），对方真人来信 9 封 + 表内/备注 1 条；对方问过：2024-07-23 S: Hi Simon, Hope my email finds you in the best health. I have this request from one of our existing customers, they are looking for an altern ‖ 2024-10-15 S: Hi Simon, I am good no compla。我方报过：$50 / $65 / $170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-04-28（18 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-24 | 去 | A | Managed Optical Bypass Switch |  |
+| 2025-07-21 | 去 | A | Industrial PoE Switch |  |
+| 2025-08-27 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-09-23 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-23 | 去 | A | 16 Port PoE Managed Switch |  |
+| 2025-11-18 | 去 | A | Booster PoE Switch |  |
+| 2025-12-19 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.4.28 | 表 | 表 | 商业PoE｜Info |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-15 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-08 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

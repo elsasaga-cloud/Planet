@@ -283,16 +283,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-06-16] Good afternoon Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or n ‖ 表 2025.6.16: PoE→2+24非管理 ‖ 研 2025-06-16 Janejira N.: Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercia / 2025-06-16 sale@entasource.co.th: Re: Commercial PoE Switch｜Good afternoon  Do you have 24*10/100/1000Mbps ports w"
+  "evidence": "[A 2025-06-16] Good afternoon Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or n ‖ 表 2025.6.16: PoE→2+24非管理"
  },
  "override_history": [
   {
@@ -302,8 +302,210 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: ENTA SOURCE Co., Ltd.（เอ็นต้าซอร์ส） · （登记状态不可免费核）"
+  ],
+  "role": "OEM 品牌商/分销商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-06-16",
+    "A",
+    "Good afternoon Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or not? Rack mount switch. Input 4"
+   ],
+   [
+    "2025.6.16",
+    "表",
+    "PoE→2+24非管理"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-06-16（16 月前）"
+  ],
+  "size": "未见人数（中小）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "泰国·OEM 品牌商/分销商；登记线索：泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）: ENTA SOURCE Co., Ltd.（。往来 2024-07-05→2026-09-07：我方去信 21 封（A 15 / S 6），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-16 A: Good afternoon Do you have 24*10/100/1000Mbps ports with 2 Ports SFP Uplink unmanaged commercial switches or not? Rack mount switch. Input 4 ‖ 2025.6.16 表: PoE→2+24非管理。我方报过：$65 / $170 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-06-16（16 月前）。",
+  "n_out": 21,
+  "n_in": 1,
+  "last_in": "2025-06-16",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial PoE Switch",
+    "gist": "Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e87c44d4bd94488d"
+   },
+   {
+    "date": "2025-07-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial Network Switch",
+    "gist": "Commercial Network Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "858f9ff1fb62b0c5"
+   },
+   {
+    "date": "2025-08-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "55b3af23855f31cd"
+   },
+   {
+    "date": "2025-09-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "92be1eb20f549ae9"
+   },
+   {
+    "date": "2025-10-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "b5ccdf5e9010beae"
+   },
+   {
+    "date": "2025-11-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "442e1b4e679f27f0"
+   },
+   {
+    "date": "2025-12-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "c1b66c132ad14f33"
+   },
+   {
+    "date": "2025.6.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "PoE",
+    "gist": "2+24非管理",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "ec942669767712f4"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "7ef4c91ede34af26"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "64ba04f434e6486c"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d4a52432d6b65a0e"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

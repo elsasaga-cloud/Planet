@@ -53,8 +53,8 @@
    "source": "https://uk.globaldatabase.com/company/genrov-ltd；S 邮箱来信表头"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-06→2024-06）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Genrov Ltd（英国一人 ROV 技术服务公司）：交换机需求是 ROV 项目一次性配套，2024-06 要过 DS 后无回；无复购土壤",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -161,6 +161,22 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-06→2024-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-06→2024-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Genrov Ltd（英国一人 ROV 技术服务公司）：交换机需求是 ROV 项目一次性配套，2024-06 要过 DS 后无回；无复购土壤"
   }
  ],
  "snap_thicken": {
@@ -187,15 +203,209 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-06→2024-06）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-16] Hi Simon You could email the data sheet/manual Regards Mike ‖ 表 2024.6.16: 发了2光4小壳信息→DS  24号问feedback无回复 ‖ 研 2024-06-16 mike@genrov.com: Hi Simon You could email the data sheet/manual Regards Mike"
+  "evidence": "[S 2024-06-16] Hi Simon You could email the data sheet/manual Regards Mike ‖ 表 2024.6.16: 发了2光4小壳信息→DS  24号问feedback无回复"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "UK Companies House: GENROV LTD · 06899120 · Active · 2009-05-07"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "交换机",
+   "光纤",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-06-16",
+    "S",
+    "Hi Simon You could email the data sheet/manual Regards Mike"
+   ],
+   [
+    "2024.6.16",
+    "表",
+    "发了2光4小壳信息→DS  24号问feedback无回复"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-06-16（28 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "路径弱",
+   "规模未知",
+   "人工终判：Genrov Ltd（英国一人 ROV 技术服务公司）：交换机需求是 ROV 项目一次性配套，2024-06 要过 DS 后无回；无复购土壤"
+  ],
+  "story": "英国；登记坐实：UK Companies House: GENROV LTD · 06899120 · Active · 2009-05-07。往来 2024-06-16→2026-03-11：我方去信 24 封（A 13 / S 10），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-06-16 S: Hi Simon You could email the data sheet/manual Regards Mike ‖ 2024.6.16 表: 发了2光4小壳信息→DS  24号问feedback无回复。我方报过：$65 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱；最近来信 2024-06-16（28 月前）。",
+  "n_out": 24,
+  "n_in": 1,
+  "last_in": "2024-06-16",
+  "last_out": "2026-03-11",
+  "prices_out": [
+   "65",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-04-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port PoE Managed Switch",
+    "gist": "16 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cd5ed1fb5a4d8d89"
+   },
+   {
+    "date": "2025-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ed01f49ab74e3566"
+   },
+   {
+    "date": "2025-07-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "7d633438d8fa8ae4"
+   },
+   {
+    "date": "2025-08-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "aba7ce0bde4c48bf"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "3daef03a111f3b81"
+   },
+   {
+    "date": "2025-10-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "d220dc816490e280"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "650c01da6a97b52a"
+   },
+   {
+    "date": "2025-11-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "5732b781d8df36d8"
+   },
+   {
+    "date": "2025-12-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "c768edd9749fdf8f"
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "0cdd54b37e36653f"
+   },
+   {
+    "date": "2026-02-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "0bfabc9c35f19b68"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "c8e3283386643803"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

@@ -60,16 +60,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2025-05）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-05→2025-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-05-27] Hi Allan, Can you send me the specs and pricing please? Thanks On Tue, May 27, 2025 at 6:21 AM Alan from Saga "
+  "evidence": "[A 2025-05-27] Hi Allan, Can you send me the specs and pricing please? Thanks On Tue, May 27, 2025 at 6:21 AM Alan from Saga  ‖ 表 : Simon 备注/兴→问了光缆检测和MC ； 604 828 1458 (Work)"
  },
  "override_history": [
   {
@@ -79,8 +79,215 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2025-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2025-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-05→2025-05）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-05→2025-05）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：加拿大 telus.net 个人 milo64：2025-05 一句要 specs & pricing；无公司主体"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2025-05）"
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：加拿大 telus.net 个人 milo64：2025-05 一句要 specs & pricing；无公司主体",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→问了光缆检测和MC ； 604 828 1458 (Work)"
+   ],
+   [
+    "2025-05-27",
+    "A",
+    "Hi Allan, Can you send me the specs and pricing please? Thanks On Tue, May 27, 2025 at 6:21 AM Alan from Saga Telecom < a.sagatelecom@gmail."
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-05-27（17 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：加拿大 telus.net 个人 milo64：2025-05 一句要 specs & pricing；无公司主体"
+  ],
+  "story": "加拿大；未坐实：待快照。往来 —→2026-03-05：我方去信 11 封（A 11 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过： 表: Simon 备注/兴趣栏→问了光缆检测和MC ； 604 828 1458 (Work) ‖ 2025-05-27 A: Hi Allan, Can you send me the specs and pricing please? Thanks On Tue, May 27, 2025 at 6:21 AM Alan from Saga Telecom < a.sagatelecom@g。我方报过：$100 / $280 / $300。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-05-27（17 月前）。",
+  "n_out": 11,
+  "n_in": 1,
+  "last_in": "2025-05-27",
+  "last_out": "2026-03-05",
+  "prices_out": [
+   "100",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-05-27",
+    "dir": "in",
+    "box": "A",
+    "from": "milo64@telus.net",
+    "subj": "Re: 16 Port Ethernet Switch",
+    "gist": "Hi Allan, Can you send me the specs and pricing please? Thanks On Tue, May 27, 2025 at 6:21 AM Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote:",
+    "prices": [],
+    "bulk": true,
+    "k": "cd77fa22dca192d5"
+   },
+   {
+    "date": "2025-05-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "59309c23dd7e757a"
+   },
+   {
+    "date": "2025-05-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 16 Port Ethernet Switch",
+    "gist": "Re: 16 Port Ethernet Switch",
+    "prices": [
+     "100"
+    ],
+    "bulk": false,
+    "k": "a9a1ec4092100a22"
+   },
+   {
+    "date": "2025-06-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "b4a698a608fd1fd2"
+   },
+   {
+    "date": "2025-07-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial PoE Switch",
+    "gist": "Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e753833f0253d2e8"
+   },
+   {
+    "date": "2025-08-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3e11d3e03b4136fe"
+   },
+   {
+    "date": "2025-09-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "7cef6eed80a8d82d"
+   },
+   {
+    "date": "2025-10-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7fa676cb3d08f929"
+   },
+   {
+    "date": "2025-11-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7c29ff7526cde936"
+   },
+   {
+    "date": "2026-01-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "f418c8ff149686a1"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "0d7cd3f7afa6120d"
+   },
+   {
+    "date": "2026-03-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "ae09d1eb1020de29"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

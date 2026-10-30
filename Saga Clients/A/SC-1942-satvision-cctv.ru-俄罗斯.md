@@ -12,7 +12,7 @@ code: SC-1942
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Satvision"
 score: 0
 country: 俄罗斯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：C 池三闸捞出（★ 正式）：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon（调研 2026-10-29；表内兴趣：主要是CCTV  好几种外壳 自己的型号 有hasivo的；发不过去）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06））；自动分级 C：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06））；自动分级 C：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；-60 用户已归入「不行及不太相关的」；-25 邮件发不过去且无 WhatsApp 通道；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 15 次（2024-06-12 → 2025-10-23）；最近一次客户回复：2024-06-12：standard poe有嘛？
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STC-424XGGPM-280W — 官网快照对位：PoE 词频 13、监控 1 → 24 口 PoE L2+ 走量款（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -127,7 +127,7 @@ updated: 2026-10-30
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））m.yakushev@satv.ru 〔〕
 - **KP**：—（表内邮箱（公开 / 总机））satvision@satv.ru 〔〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。
 LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
@@ -188,6 +188,38 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2025-08-25 | 825 | 24poe |  | A |  | 优质俄罗斯客户 2.9.xlsx#16 |
 | 2025-09-24 | 924 | dac |  | A |  | 优质俄罗斯客户 2.9.xlsx#16 |
 | 2025-10-23 | 1023 | 28bt |  | A |  | 优质俄罗斯客户 2.9.xlsx#16 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | RU · 1 次检索：satvision-cctv.ru 首页（地址 / 分部 / 客户）+ /company/（品牌定: Satvision（satvision-cctv.ru / satvision.pro；**官网：视频监控设备自有商标 20+ 年；中央办公室 Самара,  · 营业中（官网在线） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：poe sfp；P1 STC-424XGGPM-280W |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-06-28 S: Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru ‖ 2024.6.12 表: 4光24导轨式→standard poe有嘛？ |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-06-28（28 月前） |
+| ⑤ 规模 | ≥小型 | 中型（12 分部） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：俄罗斯·OEM 品牌商；登记线索：RU · 1 次检索：satvision-cctv.ru 首页（地址 / 分部 / 客户）+ /company/（品牌定: Satvision（satvisio。往来 2024-06-12→2026-08-19：我方去信 25 封（A 15 / S 10），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-06-28 S: Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru ‖ 2024.6.12 表: 4光24导轨式→standard poe有嘛？。我方报过：$65 / $170 / $280 / $300。对位：STC-424XGGPM-280W；路径：企业邮箱；最近来信 2024-06-28（28 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-11 | 去 | A | Marvell Industrial Alert System |  |
+| 2025-07-11 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-08-25 | 去 | A | Industrial PoE Switch |  |
+| 2025-09-24 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-23 | 去 | A | 90W PoE Managed Switch |  |
+| 2025-12-04 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2026-01-09 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-13 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-21 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-11 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-07-02 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-19 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

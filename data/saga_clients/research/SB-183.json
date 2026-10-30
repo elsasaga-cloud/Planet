@@ -29,7 +29,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -141,11 +141,19 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 4 条 / 研究档 0 条（；→）"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -155,5 +163,144 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 926: 2.5G ether→price list"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "UG · 1 次检索：onyxtechnologysolutionsltd.com（Onyx Technology So: Onyx Technology Solutions Ltd（onyxtechnologysolutionsltd.com；**官网：Room S.11 Nath · 营业中（官网 2025）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "poe",
+   "sfp",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-154GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-04-29",
+    "R",
+    "用户表跟进：推「发了工业交换机图」→ 对方「price  product info」"
+   ],
+   [
+    "2024-06-20",
+    "R",
+    "用户表跟进：推「发了几个商业交换机图」→ 对方「price for 48 port,228」"
+   ],
+   [
+    "2024.4.29",
+    "表",
+    "发了工业交换机图→price  product info"
+   ],
+   [
+    "2024.6.20",
+    "表",
+    "发了几个商业交换机图→price for 48 port,228"
+   ],
+   [
+    "2024.8.14",
+    "表",
+    "4 8口工业PoE→对154有兴趣"
+   ],
+   [
+    "926",
+    "表",
+    "2.5G ethernet→price list"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 2024-06-20（28 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "乌干达·集成商/安装商；登记线索：UG · 1 次检索：onyxtechnologysolutionsltd.com（Onyx Technology So: Onyx Technology So。往来 2024-04-29→2024-06-20：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 4 条；对方问过：2024.4.29 表: 发了工业交换机图→price  product info ‖ 2024.6.20 表: 发了几个商业交换机图→price for 48 port,228 ‖ 2024.8.14 表: 4 8口工业PoE→对154有兴趣 ‖ 926 表: 2.5G ethernet→price list。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STI-154GP；路径：免费邮箱 + WA；最近来信 2024-06-20（28 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2024-06-20",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-04-29",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了工业交换机图」→ 对方「price  product info」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.4.29"
+   },
+   {
+    "date": "2024-06-20",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了几个商业交换机图」→ 对方「price for 48 port,228」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.28 2024.6.20"
+   },
+   {
+    "date": "2024.4.29",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了工业交换机图",
+    "gist": "price  product info",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.6.20",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个商业交换机图",
+    "gist": "price for 48 port,228",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.14",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业PoE",
+    "gist": "对154有兴趣",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "926",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "2.5G ethernet",
+    "gist": "price list",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

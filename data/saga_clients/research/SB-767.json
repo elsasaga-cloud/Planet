@@ -49,7 +49,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 0 条（A；2025-11→2026-08）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -375,6 +375,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 22 封 / 表内 0 条 / 研究档 0 条（A；2025-11→2026-08）"
   }
  ],
  "snap_thicken": {
@@ -399,15 +407,225 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 22 封 / 表内 0 条 / 研究档 11 条（A；2025-11→2026-08）",
+  "reason": "真回信 22 封 / 表内 0 条 / 研究档 0 条（A；2025-11→2026-08）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-07-02] Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve ‖ [A 2026-08-15] Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and ‖ 研 2026-05-19 Steve: In the 50 switches is there a plan for 800GB or just the one you quoted us? / 2026-08-15 Steve: I have update the Senior Mana"
+  "evidence": "[A 2026-07-02] Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve ‖ [A 2026-08-15] Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and ‖ 研 2026-02-16 客户（附件 Network products from Juniper.txt）: QFX5200-32C-AFO ×4 · MX204-HW-BASE ×2 · S-MX-4C-A1-C1-P ×2 · QSFP-100G-ER4 ×12 ·"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "UK Companies House: ITM SYSTEMS LIMITED · 07747218 · Active · 2011-08-22"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "network",
+   "switch",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2026-04-23",
+    "A",
+    "Hi Steve, We just corrected their design and it is up to them to validate the solution and send us the PI to buy the units for them. Kind re"
+   ],
+   [
+    "2026-05-11",
+    "A",
+    "Alan, Thank you for your reply. Is possible to tell us when in July you are expecting the products please? Do you the quantity that you will"
+   ],
+   [
+    "2026-05-11",
+    "A",
+    "Hi Alan, I hope you are well do you still have in stock the products that you gave us from the previous quotation? If not when can you have "
+   ],
+   [
+    "2026-05-19",
+    "A",
+    "Hi Alan, Everything is almost done we are slowing things because we know that the switches are not ready, it the moment we are testing with "
+   ],
+   [
+    "2026-05-19",
+    "A",
+    "Hi Alan, I hope you are well. In the 50 switches is there a plan for 800GB or just the one you quoted us? Kind regards Steve"
+   ],
+   [
+    "2026-08-15",
+    "A",
+    "Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and will get back to you. Kind re"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-08-15（2 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "英国·集成商/安装商；登记坐实：UK Companies House: ITM SYSTEMS LIMITED · 07747218 · Active · 2011-08-22。往来 2024-06-13→2026-09-07：我方去信 47 封（A 33 / S 9），对方真人来信 22 封 + 表内/备注 0 条；对方问过：2026-05-11 A: Hi Alan, I hope you are well do you still have in stock the products that you gave us from the previous quotation? If not when can you have  ‖ 2026-05-19 A: Hi Alan, Everything is almost。我方报过：$65 / $220 / $240 / $280 / $3200 / $6000。对位：STI-288GP；路径：企业邮箱 MX ok；最近来信 2026-08-15（2 月前）。",
+  "n_out": 47,
+  "n_in": 22,
+  "last_in": "2026-08-15",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "65",
+   "220",
+   "240",
+   "280",
+   "3200",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2026-05-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 400GB Switches",
+    "gist": "Re: 400GB Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "f88da275e2c9a9fb"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "in",
+    "box": "A",
+    "from": "info@itmsystems.net",
+    "subj": "Re: 400GB Switches",
+    "gist": "Hi Alan, Everything is almost done we are slowing things because we know that the switches are not ready, it the moment we are testing with them the Firewalls t",
+    "prices": [],
+    "bulk": false,
+    "k": "c59e4367bd0deb77"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 400GB Switches",
+    "gist": "Re: 400GB Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "1e024ea6201088a3"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "in",
+    "box": "A",
+    "from": "info@itmsystems.net",
+    "subj": "Re: 400GB Switches",
+    "gist": "Alan, This is just our team who are wondering if they can test the 800GB before start promoting it. Kind regards Steve",
+    "prices": [],
+    "bulk": false,
+    "k": "8573be90c3a3157e"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 400GB Switches",
+    "gist": "Re: 400GB Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "3564c121efd63d80"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "in",
+    "box": "A",
+    "from": "info@itmsystems.net",
+    "subj": "Re: 400GB Switches",
+    "gist": "Hi Alan, I hope you are well. In the 50 switches is there a plan for 800GB or just the one you quoted us? Kind regards Steve",
+    "prices": [],
+    "bulk": false,
+    "k": "77fc79297576e203"
+   },
+   {
+    "date": "2026-07-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 400GB Switches",
+    "gist": "Re: 400GB Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "d9ba0a95da426502"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 400GB Switches",
+    "gist": "Re: 400GB Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "825fc90343e5b430"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "in",
+    "box": "A",
+    "from": "info@itmsystems.net",
+    "subj": "Re: 400GB Switches",
+    "gist": "Hi Alan, Thank you again for updating us. Do you think the goods will be ready in 3 weeks? Kind regards Steve",
+    "prices": [],
+    "bulk": false,
+    "k": "49a17ee1feaa5e14"
+   },
+   {
+    "date": "2026-08-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 400GB Switches",
+    "gist": "Re: 400GB Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "140d7d5efe818d7e"
+   },
+   {
+    "date": "2026-08-15",
+    "dir": "in",
+    "box": "A",
+    "from": "info@itmsystems.net",
+    "subj": "RE: 400GB Switches",
+    "gist": "Hi Alan, Thank you again for updating us. I have update the Senior Manager about the availability of goods and will get back to you. Kind regards Steve",
+    "prices": [],
+    "bulk": false,
+    "k": "87738057b3f134de"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 400GB Switches",
+    "gist": "Re: 400GB Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "4f96f1b391f5822c"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

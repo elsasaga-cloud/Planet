@@ -8,7 +8,7 @@
 code: SB-226
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 score: 49
 country: 韩国
 region: 亚太
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：韩国 HANCHANG Infotech（hcin4.com / rfoint.com；表内「Volktek 的；会英文 PoE switch；自己的 logo 主要是商业 FS，别人在卖他们家的」；KP Peter Youn（Director，070-4306-9494 / 82-10-5336-2982）、Park）；表内 2 次跟进无回复。（调研 2026-10-21；表内兴趣：Volktek的；会英文 POE switch；自己的logo 主要是商业FS  别人在卖他们家的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+0 数据中心交换机线索（Hohunet/CENTEC 线）；-6 群发批次名单；+4 AI/Claude 评估 B；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/韩国；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-10-16 → 2025-10-30）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 + STC-424XGGPM — 品牌商 + 主动要价。已打开的主题（4/42 封有打开记录）：「24 Port Fiber Switch」(2025-02-04)、「Optional Marvell Chipset Solutions」(2025-12-08)、「Re: OEM Core Switching Solution」(2026-01-19)、「Industrial PoE Switch」(2026-04-23) → 读者兴趣偏「MC/光电」；与 P1 同类，继续｜已发资料（勿重发）：Saga Software Function List_7.3, 7.4, (2025-10-22)、Performance of PeakNetX Platform_EN_V3(2026-01-19)、STH25G Series(2026-01-19)、Saga Software Function List_EN_V2.4(2026-01-19)、Product Link_2026Q2(2026-02-17)、Saga Feature List_7.5.x_L2+(2026-06-30)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；2026Q2 CENTEC 价表（仓库 data/extra_info_2026-10 …390ae5ed.json，xlrd 32 行）只有 3 行有价：STH-32C-HSI $6,000 / STH-2C6QX-HSI $1,200 / STH-8C48DX-HSI $4,800；STH-2C12XF12XE / 2C24XE / 2C24XF / 14C4DX / 4C48DX / 8C24DX 与整段 STH10G 为空行 → 对 10G 汇聚的报价仓库无价，Alan 2026-02「still finalizing」对 10G 系列并非过时；接入款 STC-424XGGPM-280W 按主表 Saga 列表价 $198（@6.69，2026-10-17）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G fiber media converter）、2024-11-25 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180；他 2024 收过 $300 / $240 群发，48 口与汇聚款别高于那两个数无解释；群发里他已看到的价（续）：2026-07-23 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-26 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Peter — CENTEC 32C $6,000 / 2C6QX $1,200 / 8C48DX $4,800 EXW (2026 Q2) and the 24-port 10G-uplink access at $198 EXW; is the first project 10G/25G aggregation or 100G core?
@@ -153,7 +153,7 @@ updated: 2026-10-30
 - **KP**：Peter Youn（Director, (주)한창인포텍 HANCHANG Infotech（公司对外邮箱 = KP 邮箱；会英文）= 收件人；대표이사 배성훈 = 拍板人（第 115 批 官方登记核实 2026-10-28））jryoun74@hcin4.com 〔用户表〕
 - **KP**：Park（HANCHANG Infotech 研究档联系人 = 抄送（第 115 批 官方登记核实 2026-10-28））parkhj4003@hcin4.com 〔用户表〕
 - **KP**：배성훈 Bae Seong-hoon（대표이사 (주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com 회사개요）= 拍板人（第 115 批 官方登记核实 2026-10-28）） 〔https://hcin4.com/default/01/02.php〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（A；2025-02→2026-01）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-02→2026-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -194,6 +194,38 @@ updated: 2026-10-30
 |---|---|---|---|---|---|---|
 | 2025-10-16 | 2025.10.16 | dac |  | A |  | KR.xlsx#26 |
 | 2025-10-30 | 1030 | solar |  | A |  | KR.xlsx#26 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 201: (주)한창인포텍 HANCHANG Infotech Co., Ltd.（hcin4.com / rfoint.com  · 사업자등록번호 106-86-81310 / 통신판매업 00960 … |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：poe switch 网络；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-02-04 A: ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ 2026-01-16 A: ﻿thank you for informations~ please give about price~ thank you! |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-01-16（9 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：韩国·OEM 品牌商；登记坐实：KR · 1 次检索：hcin4.com/default/01/02（(주)한창인포텍；대표이사 배성훈；설립일 201: (주)한창인포텍 HANCHANG 。往来 2024-06-24→2026-09-10：我方去信 42 封（A 34 / S 8），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-02-04 A: ﻿thank you for infromations... please attach datasheet and website... thank you! ‖ 2026-01-16 A: ﻿thank you for informations~ please give about price~ thank you!。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-16（9 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-02-17 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-12 | 去 | A | Re: OEM Core Switching Solution |  |
+| 2026-03-17 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-02 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-23 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-08 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-30 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-23 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-19 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-10 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

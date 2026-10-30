@@ -70,7 +70,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -293,16 +293,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-10-09] Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for t ‖ 研 2024-10-09 Mohammad Yaacoub: Before we request for a sample, I would like to understand from you what is the "
+  "evidence": "[S 2024-10-09] Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for t"
  },
  "override_history": [
   {
@@ -312,6 +312,206 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONIC: INTRACOM MIDDLE EAST FZE（Dubai；Intracom Telecom 100% 股东）/ INTRACOM TELECOM（Paian · Active"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "network",
+   "poe",
+   "switch",
+   "光纤"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-10-09",
+    "S",
+    "Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. Best "
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-10-09（24 月前）"
+  ],
+  "size": "1,071（tracxn 2026-05）← 约 1,600（2024-07 官方）= 收缩期（第 91 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "阿联酋·集成商/安装商；登记线索：GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONIC: INTRACOM MIDDLE EA。往来 2024-07-10→2026-09-15：我方去信 14 封（A 4 / S 9），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-10-09 S: Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. Best 。我方报过：$34 / $65 / $300 / $6000。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2024-10-09（24 月前）。",
+  "n_out": 14,
+  "n_in": 1,
+  "last_in": "2024-10-09",
+  "last_out": "2026-09-15",
+  "prices_out": [
+   "34",
+   "65",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2024-10-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Mini Industrial PoE Switch",
+    "gist": "Re: Mini Industrial PoE Switch",
+    "prices": [
+     "34"
+    ],
+    "bulk": false,
+    "k": "815888411fd50a1b"
+   },
+   {
+    "date": "2024-10-09",
+    "dir": "in",
+    "box": "S",
+    "from": "mohammad.yaacoub@intracom-telecom.com",
+    "subj": "RE: Mini Industrial PoE Switch",
+    "gist": "Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. Best Regards, Mohammad Ya",
+    "prices": [],
+    "bulk": false,
+    "k": "d05d6d8f07683799"
+   },
+   {
+    "date": "2024-10-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2ce10676d64f2b6a"
+   },
+   {
+    "date": "2024-10-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Mini Industrial PoE Switch",
+    "gist": "Re: Mini Industrial PoE Switch",
+    "prices": [
+     "34"
+    ],
+    "bulk": false,
+    "k": "1959d267e00d0824"
+   },
+   {
+    "date": "2024-11-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "764c4a033b6f4315"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c238dbbc6c5d8158"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d259a5788680d602"
+   },
+   {
+    "date": "2025-04-11",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To sofyan@mutiara-teknologi.",
+    "subj": "",
+    "gist": "16 Port Ethernet Switch（Elsa 群发第 1/9 轮；本户在 Bcc，锚 To sofyan@mutiara-teknologi.com.my）",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "34fe55b7e231f0fb"
+   },
+   {
+    "date": "2026-06-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "bc914a155c50a63b"
+   },
+   {
+    "date": "2026-07-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "35646e0326f1fff3"
+   },
+   {
+    "date": "2026-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e9a5c8c2ceaf660b"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

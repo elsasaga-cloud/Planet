@@ -12,7 +12,7 @@ code: SA-014
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）"
 score: 94
 country: 新加坡
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。（调研 2026-10-21；表内兴趣：ONV的工业FS；工业FS 音频视听设备 ONV的工业FS  他们的logo）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2026
 - **历史互动**：实质回复 1 次；推送 5 次（2025-02-21 → 2026-01-07）；最近一次客户回复：2026-01-07：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
@@ -160,7 +160,7 @@ updated: 2026-10-30
   > Impulse IGS Series: … 4-10 Gigabit PoE ports with IEEE 802.3af/at compliance - Dual DC power input … Operating temperature: -40°C to 75°C … Impulse 6-Port Gigabit PoE Switch (IMP-IGS-1G06CG) … Impulse 10-Port Gigabit PoE Switch (IMP-IGS-1G10CP)
   > 来源：https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/（抓取 2026-01-30）
 - **KP**：—（总机邮箱）info@impulsecctv.com +1 778-508-3514（温哥华，ZoomInfo）〔https://impulsecctv.com/about-us/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。
 
@@ -225,6 +225,38 @@ A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确�
 | 2025-10-17 | 1017 | dac |  | A |  | Singapore 3.3.xlsx#23 |
 | 2026-01-07 | 2026.1.7 | CENTEC | INFO | E |  | E Replied 2026.08.04.xlsx#13 |
 | ? | 88 | 48口 |  | A |  | Singapore 3.3.xlsx#23 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 新加坡 · ACRA BizFile 基本档 $5.50 付费；本行为「无登记源」记录（据第 79 批研究档）: Impulse Networks / Impulse CCTV · （登记状态不可免费核） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：industrial network poe switch 交换机 工业 网络；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2026-01-07 E: pls share your company website and your address...  ‖ 2026.1.7 表: CENTEC→INFO |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-01-07（9 月前） |
+| ⑤ 规模 | ≥小型 | 51–200 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：新加坡·OEM 品牌商；登记线索：新加坡 · ACRA BizFile 基本档 $5.50 付费；本行为「无登记源」记录（据第 79 批研究档）: Impulse Networks / Impu。往来 2024-07-08→2026-09-21：我方去信 22 封（A 15 / S 6），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2026-01-07 E: pls share your company website and your address...  ‖ 2026.1.7 表: CENTEC→INFO。我方报过：$65 / $170 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-07（9 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-12-25 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-08 | 去 | R |  |  |
+| 2026-01-26 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-03 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-19 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-10 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-14 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-12 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-17 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-21 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026.1.7 | 表 | 表 | CENTEC｜INFO |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

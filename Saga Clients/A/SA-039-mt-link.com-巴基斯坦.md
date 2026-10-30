@@ -12,7 +12,7 @@ code: SA-039
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
 name_official: "MT-Link Technologies Co.（Karachi, Pakistan）"
 score: 79
 country: 巴基斯坦
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：卡拉奇的自有品牌网络设备商（自称巴基斯坦首家本土网络品牌）：WiFi 路由、XPON ONU、OLT、8/16/24 口千兆与 PoE 交换机、10G/25G/100G L3 交换机（产品页明示源自上海博达 BDCOM）；有零售电商 mtlinkpakistan.com。用户表：WhatsApp 跟进 + DC 线索，2 次实质回复，20 次跟进；兴趣 MC / FS / 无线 AP，用自己的 logo，备注「应该是 BDCOM 的，质量看着一般」。（调研 2026-10-21；表内兴趣：应该是BDCOM的；MC FS 无线AP 自己的logo  质量看着一般）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+0 数据中心交换机线索（Hohunet/CENTEC 线）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 20 次（2023-10-19 → 2025-06-26）；最近一次客户回复：2024-02-27：price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W（MT- 贴牌）+ STC-28DGGPM — 其 PoE 线仍是百兆 24 口 MT-SW1024PE → 千兆 PoE 管理型是空位；自己 logo；锚价：STC-424DGGPM-280W $145.7 / STC-28DGGPM $87.4（30% 档）（第 72 批 2026-10-24）；—；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：Your MT-SW1024PE is still a fast-Ethernet PoE unit, so a Marvell-based 24-port gigabit PoE+ managed switch with 4 SFP under an MT- part number is the gap I would fill first, with the 8-port PoE+ 2 SFP model alongside. Would the 24-port be the first SKU to sample under an MT- part number? Reference: STC-424DGGPM-280W at $145.7 / STC-28DGGPM at $87.4 USD EXW (MOQ 1, 15-day validity).
@@ -151,7 +151,7 @@ updated: 2026-10-30
   > MT-SG2912 10G L3-Lite Stackable Switch … Based on the new high-performance hardware and the BDROS platform … price 88000.00 PKR
   > 来源：https://mtlinkpakistan.com/products/mt-sg2912f（抓取 2026-10-21）
 - **KP**：—（总机（WhatsApp 已加））info@mt-link.com +92 317 9995719〔https://www.facebook.com/mtlinkpakistan/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价格极敏感；P1 = STC-424DGGM/STC-28DGGPM 贴牌 30%，突出 Marvell 方案对 BDCOM 入门款的稳定性差异；AP 不做。
 
@@ -228,6 +228,32 @@ A 维持（自有品牌 + 2 次实质回复 + 全线中国白牌），南亚价�
 | 2025-04-03 | 4.3 | 工业16 24口出货图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#88 |
 | 2025-06-26 | 626 | 洪瑞商业PoE组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#88 |
 | ? | 52 | 4 8 16工业PoE |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#88 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 巴基斯坦 · SECP 公司查询需交互验证码；本行为「无登记源」记录（据第 79 批研究档）: MT-Link Technologies Co. · （登记状态不可免费核） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber media converter network poe sfp switch 交换机；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-02-27 R: 用户表跟进：推「发了24光combo型号」→ 对方「price」 ‖ 2024.1.18 表: 发了2光4相关信息→16口POE 后续问了很多信息 ‖ 2024.2.27 表: 发了24光combo型号→price |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2024-02-27（32 月前） |
+| ⑤ 规模 | ≥小型 | 未见人数（中小） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：巴基斯坦·OEM 品牌商；登记线索：巴基斯坦 · SECP 公司查询需交互验证码；本行为「无登记源」记录（据第 79 批研究档）: MT-Link Technologies Co. · （登记状态。往来 2024-01-18→2026-08-10：我方去信 2 封（A 2 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2024-02-27 R: 用户表跟进：推「发了24光combo型号」→ 对方「price」 ‖ 2024.1.18 表: 发了2光4相关信息→16口POE 后续问了很多信息 ‖ 2024.2.27 表: 发了24光combo型号→price。我方报过：$170。对位：STC-424DGGPM-280W；路径：企业邮箱 + WA；最近来信 2024-02-27（32 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-01-18 | 来 | R | 用户表跟进：推「发了2光4相关信息」→ 对方「16口POE 后续问了很多信息」 |  |
+| 2024-02-27 | 来 | R | 用户表跟进：推「发了24光combo型号」→ 对方「price」 |  |
+| 2024.1.18 | 表 | 表 | 发了2光4相关信息｜16口POE 后续问了很多信息 |  |
+| 2024.2.27 | 表 | 表 | 发了24光combo型号｜price |  |
+| 2026-03-12 | 去 | A | OEM Core Switching Solution |  |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

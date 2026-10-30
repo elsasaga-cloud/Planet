@@ -11,7 +11,7 @@ code: SC-2904
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 name_official: "firsttech.co.za"
 score: -51
 country: 南非
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：南非客户（firsttech.co.za）：AB-FINAL-01 以回信证据建档——真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）。公司底数未查（新入库即查排队）。（调研 2026-10-30；表内兴趣：27-117904414 还没尝试加）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08））；自动分级 C：-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08））；自动分级 C：-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-30）**：— — ；他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -59,6 +59,8 @@ updated: 2026-10-30
 | 2024-08-16 | 来 | elberts@firsttech.co.za | Re: Passive PoE Switch｜Hi Simon, Thank you for the clarification and for considering us as a potential partner. I appreciate your offer; however, we are unable to purchase or represent products that are unbranded or come from manufacturers not part of our established local supply chain. There are a  | S 邮箱 真人来信（pos） | `fc10d9fa6d583071` |
 | 2024-08-16 | 来 | elberts@firsttech.co.za | Re: Passive PoE Switch｜Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offering these switches for sale to us, or are you looking to purchase similar switches from us? (There is no brand attached to any of the offerings on the spec sheet share | S 邮箱 真人来信（pos） | `db1f6f30c0f48d20` |
 | 2024-08-16 | 来 | elberts@firsttech.co.za | Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's specifications look promising, especially for non-PoE IP cameras and wireless radio equipment. However, we currently cannot receive samples fo | S 邮箱 真人来信（pos） | `40e70b0706c53fbb` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -100,7 +102,7 @@ updated: 2026-10-30
 - **【邮箱来信/用户表】Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, th**
   > Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's specifications look promising, especially for non-PoE IP cameras and wireless radio equipment. However, we currently cannot receive samples fo
   > 来源：40e70b0706c53fbb（抓取 2024-08-16）
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）
 - 备注：（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）
 
 ### 加厚挖掘（2026-10-30 · AB-FINAL-01 回信建档）
@@ -114,6 +116,34 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 未坐实 | 待快照 |
+| ② 角色 / 对位 | 未知 | 对位词：；P1 待定 |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-08-16 S: Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's speci ‖ 2024-08-16 S: Hi Simon, Thank you for the attached spec sheets.… |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-08-16（26 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：身份未坐实；角色未知；对位不明；路径弱；规模未知；人工终判：First Technology（南非 Midrand；1983 年起的 IT 集成集团，1,001–5,000 人，营收 $413M；网络/存储/云）：2024-08 三封来信确认我方角色与 24 口 Passive PoE 规格——大型集成商渠道，需走正式采购；非主攻区 |
+
+**故事线**：南非；未坐实：待快照。往来 2024-08-16→2024-08-16：我方去信 2 封（A 0 / S 2），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2024-08-16 S: Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The switch's speci ‖ 2024-08-16 S: Hi Simon, Thank you for the a。我方报过：未见报价数字。对位：待定；路径：企业邮箱；最近来信 2024-08-16（26 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-08-16 | 来 | S | Re: Passive PoE Switch｜Hi Simon, Thank you for the clarification and for considering us as a potential partner. I appreciate your offer; however, we a… |  |
+| 2024-08-16 | 去 | S | Re: Passive PoE Switch |  |
+| 2024-08-16 | 来 | S | Re: Passive PoE Switch｜Hi Simon, Thank you for the attached spec sheets. I appreciate the information. Just to clarify, are you offering these switche… |  |
+| 2024-08-16 | 去 | S | Re: Passive PoE Switch |  |
+| 2024-08-16 | 来 | S | Re: Passive PoE Switch｜Hi Simon, Thank you for sharing the details of the 24 port passive PoE switch. I’m doing well, thanks—I hope you are too. The s… |  |
+
+- 网查（2026-10-30）：First Technology, established in 1983 … IT integration group within South Africa · 1K - 5K Employees · Revenue $413.2 Million · CEO Johan de Villiers — <https://www.zoominfo.com/c/first-technology-ltd/353641354>
+- 网查（2026-10-30）：First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services — <https://za.linkedin.com/company/first-technology>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

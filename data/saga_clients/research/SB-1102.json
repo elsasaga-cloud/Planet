@@ -55,7 +55,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -200,6 +200,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）"
   }
  ],
  "snap_thicken": {
@@ -232,15 +240,173 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-11→2024-11）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-11-03] What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết: ‖ 表 113: 群发28poe→price ‖ 研 2024-11-03 vienthonggiatotvn@gmail.com: What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> "
+  "evidence": "[S 2024-11-03] What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết: ‖ 表 113: 群发28poe→price"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "VN · 1 次检索：masothue.com/0109246393（CÔNG TY TNHH VIỄN THÔNG G: CÔNG TY TNHH VIỄN THÔNG GIÁ TỐT / GOOD PRICE TELECOMMUNICATI · MST 0109246393 · Đang hoạt động（营业中） · 2020-07-01"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "113",
+    "表",
+    "群发28poe→price"
+   ],
+   [
+    "2024-11-03",
+    "S",
+    "What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2024-11-03（23 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "越南·集成商/安装商；登记坐实：VN · 1 次检索：masothue.com/0109246393（CÔNG TY TNHH VIỄN THÔNG G: CÔNG TY TNHH VIỄN 。往来 113→2026-09-10：我方去信 7 封（A 0 / S 5），对方真人来信 1 封 + 表内/备注 1 条；对方问过：113 表: 群发28poe→price ‖ 2024-11-03 S: What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:。我方报过：$300。对位：STC-28DGGPM；路径：免费邮箱 MX ok；最近来信 2024-11-03（23 月前）。",
+  "n_out": 7,
+  "n_in": 1,
+  "last_in": "2024-11-03",
+  "last_out": "2026-09-10",
+  "prices_out": [
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "113",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "群发28poe",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-11-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f891987faadfbf05"
+   },
+   {
+    "date": "2024-11-03",
+    "dir": "in",
+    "box": "S",
+    "from": "vienthonggiatotvn@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "What is the price? Vào 14:41 CN, 3 thg 11, 2024 Simon <s.sagatelecom@gmail.com> đã viết:",
+    "prices": [],
+    "bulk": false,
+    "k": "cd4b791c86455683"
+   },
+   {
+    "date": "2024-11-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2f24ae1151aeda66"
+   },
+   {
+    "date": "2024-11-03",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon（Quotation.pdf）",
+    "subj": "",
+    "gist": "「What is the price?」的回复 = 报价单：STI-288GP（2×GE SFP + 8×GE PoE af/at 240W，非管理）$60，validity 15 d，4~7 wd，warranty 3 years。",
+    "prices": [],
+    "bulk": false,
+    "k": "S 邮箱附件 `Quotation.pdf` sha=b6e6158b418183d8（2024-11-03）"
+   },
+   {
+    "date": "2024-11-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "ffae7c0ecce7bd70"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f3e4c9509ae73f02"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d0610e237d785f33"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmai",
+    "subj": "",
+    "gist": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

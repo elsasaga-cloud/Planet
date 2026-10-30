@@ -63,7 +63,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n6 次回复 + WA + 工业 DIN PoE 项目需求 = 对位 STI 工业线的典型集成商。印尼非主攻区但无需额外投入。P1：STI-288DGGPM（DIN 导轨 8 电 2 光管理 PoE），项目价阶 25%；SCADA 场景可加 ERPS 环网机型。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -235,7 +235,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -254,6 +254,210 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. RAS Otomasi Indonesia · （登记状态不可免费核）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "fiber",
+   "poe",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1022",
+    "表",
+    "电口→price"
+   ],
+   [
+    "2023.9.11",
+    "表",
+    "发了商业POE组合图→thanks, 问了brochure"
+   ],
+   [
+    "2024-10-22",
+    "R",
+    "用户表跟进：推「电口」→ 对方「price」"
+   ],
+   [
+    "2024.3.21",
+    "表",
+    "发了company profile→thanks, 问了brochure"
+   ],
+   [
+    "2024.5.15",
+    "表",
+    "发了几个工业mini图→nice 问了价格"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok + WA；最近来信 2024-10-22（24 月前）"
+  ],
+  "size": "11–50（ZoomInfo）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "印度尼西亚·集成商/安装商；登记线索：印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）: PT. RAS Otomasi Indonesia · 。往来 1022→2024-10-22：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 7 条；对方问过：2023.9.11 表: 发了商业POE组合图→thanks, 问了brochure ‖ 2024-10-22 R: 用户表跟进：推「电口」→ 对方「price」 ‖ 2024.3.21 表: 发了company profile→thanks, 问了brochure ‖ 2024.5.15 表: 发了几个工业mini图→nice 问了价格。我方报过：未见报价数字。对位：STI-288DGGPM；路径：免费邮箱 MX ok + WA；最近来信 2024-10-22（24 月前）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "2024-10-22",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2023-09-11",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了商业POE组合图」→ 对方「thanks, 问了brochure」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2023.9.11"
+   },
+   {
+    "date": "2023.12.9",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了导轨电源信息",
+    "gist": "nice",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2023.9.11",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了商业POE组合图",
+    "gist": "thanks, 问了brochure",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-03-21",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了company profile」→ 对方「thanks, 问了brochure」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2024.3.21"
+   },
+   {
+    "date": "2024-05-15",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了几个工业mini图」→ 对方「nice 问了价格」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2024.5.15"
+   },
+   {
+    "date": "2024-08-13",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「4 8口工业FS」→ 对方「yes」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 2024.8.13"
+   },
+   {
+    "date": "2024-09-26",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「2.5G ethernet」→ 对方「yes」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 926"
+   },
+   {
+    "date": "2024-10-22",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「电口」→ 对方「price」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.10 1022"
+   },
+   {
+    "date": "2024.3.21",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了company profile",
+    "gist": "thanks, 问了brochure",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.15",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个工业mini图",
+    "gist": "nice 问了价格",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.8.13",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8口工业FS",
+    "gist": "yes",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "926",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "2.5G ethernet",
+    "gist": "yes",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

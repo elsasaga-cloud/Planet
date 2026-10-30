@@ -12,7 +12,7 @@ code: SB-104
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "STS Italia S.r.l.（stsitalia.com，Arcore MB；勿与 sts-italia.it 传感器公司混淆）"
 score: 59
 country: 意大利
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：意大利 Arcore（Monza-Brianza）的安防与特种设施集成商（1984 年起，LinkedIn 51–200 人；C.F./P.I. 00865310247，REA 1490600）：火灾探测 IRAI、防盗、排烟 EFC、视频监控、门禁、控制室、车牌识别、无人机巡检；客户含企业、协会与公共行政。用户表：A 优质名单（Italy），1 次实质回复，8 次跟进；联系人 Eros Stefani、Andrea Rongoni。（调研 2026-10-21；表内兴趣：fiber optic transmission information, live in milano）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 B：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+2 最近活动 2024
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 B：+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/意大利；+2 最近活动 2024
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 8 次（2024-02-04 → 2024-10-13）；最近一次客户回复：1120：欧元价格
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM — 意大利分销。已打开的主题（2/18 封有打开记录）：「Re: 48 Port PoE Managed Switch」(2024-11-20)、「10G Enterprise SFP Switch」(2025-10-14) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续 最近一封去信是 2026-10-08 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：STC-448XGGPM(2024-11-20)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-25)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；€280（2024-11）；**第 63 批基准统一（规则 ㉕）**：STC-448XGGPM 由列表价 $369 改为 20% 档 $335.4（2024–25 群发 $300 他没收过；$300 是老汇率价，现在毛利只有 7%）；群发里他已看到的价（续，第 66 批全量复核）：2025-10-14 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Eros — was the 48-port PoE for a specific site in 2024, and is the 2026 unit (10G uplinks, 440W) worth a fresh quote?
@@ -151,7 +151,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Eros Stefani（联系人 · 姓氏 = 创始家族 Stefani（atoka 成员表首位 Silvio Stefani）→ 推定家族第二代 / 管理层；公司 73–82 人、2024 营收 €7,973,181、净利 €438,664 —— 比研究档「小安防店」大得多（第 87 批 官方登记核实 2026-10-27））eros.stefani@stsitalia.com —〔用户表〕
 - **KP**：Andrea Rongoni（采购 / 技术经办（不在登记成员表）（第 87 批 官方登记核实 2026-10-27））andrea.rongoni@stsitalia.com —〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档）
@@ -199,6 +199,38 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | ? | 1212 | 24poe |  | Email |  | Italy 3.2.xlsx#38 |
 | ? | 77 | 16电 |  | A |  | Italy 3.2.xlsx#38 |
 | ? | 88 | 22迷你 |  | A |  | Italy 3.2.xlsx#38 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Italia · Registro Imprese 镜像（ufficiocamerale / companyreport: STS ITALIA S.R.L.（Arcore MB；原 Vicenza） · P.IVA / C.F. 00865310247 · REA MB 149060 · Attiva（2024 年报… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din 网络；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 泛（问价/要目录） | 1120 表: 群发了48口→欧元价格 ‖ 2024-11-20 S: €..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni contenute in questo messaggio son |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-11-20（23 月前） |
+| ⑤ 规模 | ≥小型 | 73 人（2026 登记）/ 82（atoka）；2024 fatturato €7,973,181、utile €438,664、人工成本 €3,227,856；2023 €8.0M / 2022 … |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：意大利·集成商/安装商；登记坐实：Italia · Registro Imprese 镜像（ufficiocamerale / companyreport: STS ITALIA S.R.L.（。往来 1120→2026-10-08：我方去信 18 封（A 16 / S 2），对方真人来信 1 封 + 表内/备注 1 条；对方问过：1120 表: 群发了48口→欧元价格 ‖ 2024-11-20 S: €..? Eros Stefani STS Italia S.r.l. Web Site: www.stsitalia.com<http://www.stsitalia.com/> Le informazioni contenute in questo messaggio son。我方报过：$280。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok + WA；最近来信 2024-11-20（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-11 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-10-14 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-24 | 去 | A | Booster PoE Switch |  |
+| 2025-12-26 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-27 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-02 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-26 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-05-29 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-25 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-08-03 | 去 | A | WiFi 7 Ready Access Switch |  |
+| 2026-09-15 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-10-08 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

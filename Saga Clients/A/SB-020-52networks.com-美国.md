@@ -12,7 +12,7 @@ code: SB-020
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 name_official: "52 Networks, Inc.（Woodbridge, Virginia, USA）"
 score: 77
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：弗吉尼亚的小型网络线缆与配件经销商（2018 年成立，1–10 人，年收入 <$1M），SBA 认证小型弱势企业，持 GSA 合同（47QTCA22D00B3），代理 C2G、Tripp Lite、Transition、Perle、StarTech，供货商业与政府客户；类目含光纤跳线、MC、交换机。用户表：A 优质名单(US)，备注「已成单」；兴趣 MC / SFP / 无源产品。（调研 2026-10-22；表内兴趣：MC SFP 无源产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 Saga 成单（PI 包）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+2 兴趣仅 MC/SFP/配件（边缘品类）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025
 - **历史互动**：成交/下单过；推送 7 次（2025-02-22 → 2025-09-17）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP（他 2025-07 买的同款，$58 EXW 2025-07-12 口径；含 MEAN WELL NDR-240-48 $98）；如他要管理型：STI-288DGGPM $137.5 列表 — 转售商 20% 档；GSA MAS 合同在手 = 有联邦采购通道，值得每季度一问但不值得多花时间（C3）｜已发资料（勿重发）：STI-288GP(2025-07-12)、Product Link_2026Q2(2026-02-04)、Product Link_2026Q3(2026-07-17)；已发单据：STSC20250718016(2025-07-18)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）｜毛利复盘：一单 47.9%（STI-288GP 成本 322 + 2 × NDR-240-48，收 1,910）——高毛利一单客，不主动降价；STI-288GP $58（2025-07-12，老汇率）；现按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STI-288GP 以 HRUI 对照表为准，NDR-240-48 $40 不变；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-01-17 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：John — the two STI-288GP samples from July 2025: did they go into a commercial/state project, or were they meant for your GSA listing? If GSA, I should tell you honestly that our units are made in China (not TAA-compliant), so let's talk about where else you could use them.
@@ -202,7 +202,7 @@ updated: 2026-10-30
 - **KP**：Uzair（GSA 登记联系人）（GSA 登记联系人 = 业主（SAM.gov 自证少数族裔 / 印度裔所有，1–10 人，营收 <$1M）= 老板 = 联系人；52 Networks, Inc.（VA 2018-03-12；UEI FV4KBSNE5S75 · CAGE 907X4；GSA MAS 47QTCA22D00B3 至 2027-07）（第 86 批 官方登记核实 2026-10-27））uzair@52networks.com +1 571-402-8369〔https://www.gsaelibrary.gsa.gov/ElibMain/home.do/contractorInfo.do?contractNumber=47QTCA22D00B3&contractorName=52+NETWORKS,+INC.&executeQuery=YES〕
 - **KP**：—（销售邮箱（用户表））sales@52networks.com +1 757-799-1359〔https://52networks.com/contact-us/〕
 - **KP**：John Davis（单据联系人）sales@52networks.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/联邦渠道受 TAA 约束——中国产品只报商业客户用途，不做 GSA 目录承诺；P1 = STI-110GE（MC）复购，20% 经销档。
 
@@ -263,6 +263,38 @@ A 维持（已成交 + 美国 + 名字明确）但体量小；守界：其 GSA/�
 | 2025-09-17 | 917 | 问测样feedback |  | A |  | US.xlsx#78 |
 | ? | 1.18 | 24fiber |  | Email |  | US.xlsx#78 |
 | ? | 67 | PoE |  | A |  | US.xlsx#78 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA e: 52 NETWORKS, INC. · UEI FV4KBSNE5S75 · CAGE 907X4 · Virginia · Active（SAM.gov 注册有效至 2027-06-1 · 20… |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber media converter network poe sfp switch 交换机；P1 STI-110GE |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-07-22 A: Any update on this order? On Fri, 18 Jul 2025 at 17:24, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote: ‖ 2025-07-23 A: Thank you for the update. I will receive it by next week, right? *Regards,* *… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-07-24（15 月前） |
+| ⑤ 规模 | 个人/微型 | 1–10；SAM 自报营收 $0–1M（第 86 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·分销商；登记坐实：USA · SAM.gov 登记（govtribe / g2xchange / sweetspot 镜像）+ GSA e: 52 NETWORKS, INC. 。往来 2025-01-17→2026-08-14：我方去信 25 封（A 23 / S 1），对方真人来信 14 封 + 表内/备注 0 条；对方问过：2025-07-18 A: With Power Supply. Send me a paypal link, and how soon I can get it? On Fri, 18 Jul 2025 at 06:10, Alan from Saga Telecom < a.sagatelecom@gm ‖ 2025-07-22 A: Any update on this order? On 。我方报过：$12 / $40 / $58 / $98 / $170 / $240。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-07-24（15 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-23 | 去 | A | Re: 8 Port Industrial PoE Switch |  |
+| 2025-07-23 | 来 | A | Re: 8 Port Industrial PoE Switch｜Thank you for the update. I will receive it by next week, right? *Regards,* *John Davis* *Director Sales** ／／* 52 Net… |  |
+| 2025-07-23 | 去 | A | Re: 8 Port Industrial PoE Switch |  |
+| 2025-07-24 | 来 | A | Re: 8 Port Industrial PoE Switch｜Thanks On Thu, 24 Jul 2025 at 08:08, Alan from Saga Telecom < a.sagatelecom@gmail.com> wrote: |  |
+| 2025-07-24 | 去 | A | Re: 8 Port Industrial PoE Switch |  |
+| 2025-09-17 | 去 | A | Re: 8 Port Industrial PoE Switch |  |
+| 2025-11-10 | 去 | A | Booster PoE Switch |  |
+| 2026-01-14 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-04 | 去 | A | New Product Links |  |
+| 2026-05-22 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-17 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 成交记录（PI 包 · 自动汇总）
 

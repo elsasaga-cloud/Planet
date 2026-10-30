@@ -360,16 +360,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 16 封 / 表内 6 条 / 研究档 8 条（S；2023-12→2025-01）",
+  "reason": "真回信 16 封 / 表内 6 条 / 研究档 0 条（S；2023-12→2025-01）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-12-12] Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Ale ‖ [S 2025-01-03] Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive directo ‖ 表 1211: 28bt→info ‖ 研 2024-12-12 Alexander: Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. / 2025-01-03 Alexander: Thank"
+  "evidence": "[S 2024-12-12] Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Ale ‖ [S 2025-01-03] Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive directo ‖ 表 1211: 28bt→info"
  },
  "override_history": [
   {
@@ -379,8 +379,229 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 8 条（S；2023-12→2025-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 8 条（S；2023-12→2025-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 0 条（S；2023-12→2025-01）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 8 条（S；2023-12→2025-01）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 0 条（S；2023-12→2025-01）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Россия · ЕГРЮЛ 镜像（saby / spark-interfax 摘要）+ 官网 О компании（商: ООО «ТОРГОВЫЙ ДОМ «ФАРАДЕЙ ЭЛЕКТРОНИКС»（TH Faraday Electroni · ОГРН 1167847053934 · ИНН 7820046904 · КП · Действует（经营中） · 2016-01-14"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "industrial",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-05-21",
+    "S",
+    "Dear, Simon ! Thank you, but we don't looking for hi-end solutions, but for reliable, functioanal solution with reasonable price interesting"
+   ],
+   [
+    "2024-05-21",
+    "S",
+    "Dear, Simon ! We use Realtek. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. www.td-fe.com <http:/"
+   ],
+   [
+    "2024-12-12",
+    "S",
+    "Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Alexander Rudnev Executive direct"
+   ],
+   [
+    "2024.2.27",
+    "表",
+    "发了2光4小壳信息→谈了一个3层交换机"
+   ],
+   [
+    "2024.4.17",
+    "表",
+    "发了24光combo工业级的→只要导轨式的"
+   ],
+   [
+    "2025-01-03",
+    "S",
+    "Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Lt"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-01-03（21 月前）"
+  ],
+  "size": "6（第 84 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "俄罗斯·OEM 品牌商；登记坐实：Россия · ЕГРЮЛ 镜像（saby / spark-interfax 摘要）+ 官网 О компании（商: ООО «ТОРГОВЫЙ ДОМ 。往来 1211→2026-07-02：我方去信 29 封（A 2 / S 27），对方真人来信 16 封 + 表内/备注 6 条；对方问过：2024-12-12 S: Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Alexander Rudnev Executive direct ‖ 2024.2.27 表: 发了2光4小壳信息→谈了一个3层交换机 ‖ 2024.4.1。我方报过：$23 / $40 / $130 / $135 / $280 / $310。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-01-03（21 月前）。",
+  "n_out": 29,
+  "n_in": 16,
+  "last_in": "2025-01-03",
+  "last_out": "2026-07-02",
+  "prices_out": [
+   "23",
+   "40",
+   "130",
+   "135",
+   "280",
+   "310"
+  ],
+  "timeline": [
+   {
+    "date": "2024-12-12",
+    "dir": "in",
+    "box": "S",
+    "from": "air@td-fe.ru",
+    "subj": "RE: Din power supply",
+    "gist": "Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Alexander Rudnev Executive director of TH Faraday Ele",
+    "prices": [],
+    "bulk": false,
+    "k": "c4b08a47d73f023f"
+   },
+   {
+    "date": "2024-12-31",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Din power supply",
+    "gist": "Re: Din power supply",
+    "prices": [],
+    "bulk": false,
+    "k": "0aa2058287eb9003"
+   },
+   {
+    "date": "2024.2.27",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光4小壳信息",
+    "gist": "谈了一个3层交换机",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.3.18",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了24光combo信息",
+    "gist": "只用工业级的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.4.17",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了24光combo工业级的",
+    "gist": "只要导轨式的",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了4光24电导轨式信息",
+    "gist": "贵",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-01-03",
+    "dir": "in",
+    "box": "S",
+    "from": "air@td-fe.ru",
+    "subj": "RE: Din power supply",
+    "gist": "Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electronics Ltd. www.td-fe.com <ht",
+    "prices": [],
+    "bulk": false,
+    "k": "7cb3dfcf81666a75"
+   },
+   {
+    "date": "2025-06-10",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Din power supply",
+    "gist": "Re: Din power supply",
+    "prices": [],
+    "bulk": false,
+    "k": "a6d469c42a46ec4b"
+   },
+   {
+    "date": "2025-12-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Din power supply",
+    "gist": "Re: Din power supply",
+    "prices": [],
+    "bulk": false,
+    "k": "e46d34979ec9dbbf"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "e73ed58f4e96e29b"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "16bc28959fcd8a67"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "a4901bbf9467c094"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

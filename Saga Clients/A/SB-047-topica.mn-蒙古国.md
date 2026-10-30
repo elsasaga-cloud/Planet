@@ -12,7 +12,7 @@ code: SB-047
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Topica LLC（Топика，蒙古国）"
 score: 65
 country: 蒙古国
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：乌兰巴托网络 / 电气设备网店 + 分销（MikroTik、Cisco、Milesight、Schneider、ZKTeco、Ruijie、D-Link、Huawei；SFP 词频 158、10G 83、PoE 40；热点配置服务），需求 MC / SFP / 交换机「很多外壳」，2025-11 对 24 PoE 回复「需要 16 port 的」。（调研 2026-10-21；表内兴趣：MC SFP switch 很多外壳）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/蒙古国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/蒙古国；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-06 → 2025-11-06）；最近一次客户回复：2025-11-06：需要16 port的
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-2216GPM — 16 口 PoE 需求 → HRUI 列表 STC-2216GPM（$137.5）；上联 10G 版 STC-2416XGGPM 待核；经销 20%。；STC-2216GPM $141.7（HRUI 2026-09-30 进价 790 CNY +20%，Q-47 默认；Drive 旧表 $137.5）；STC-28DGGPM $80.7 @20%；STC-424XGGPM-280W $180（现价轮群发）；按主表（研究档 saga_fit）；群发里他已看到的价：2026-08-04 Elsa「24 Port PoE Managed Switch」$170（To info@topica.mn）→ 信稿 $180 已点明汇率；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-24 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-02-24；Simon 实报就是 $65）；2025-06-09 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-06-09；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-07-09 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-07-09；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）；2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-09-26→2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Bayar — MOQ 1 pc; warranty 1 yr commercial / 3 yrs industrial; 16-port PoE managed STC-2216GPM $141.7, 8-port PoE L2+ STC-28DGGPM $80.7, 24-port PoE L2+ STC-424XGGPM-280W $180 USD EXW (our 4-August mail said $170; yuan 7.2→6.7 since). Which media-converter / switch brand do you carry in Mongolia today, so I can map the equivalent models?
@@ -145,7 +145,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表〕
 - **KP**：（未具名）（收件箱（回信署名 Bayar；2025-11 点名「需要 16 port 的」，欠答）= 收件人 — 一页纸：分销 20% B、STC-2216GP $63–76 / 16 口管理版 按主表 / STC-2224GP $86 一口价 + MOQ 1 + 付费样机；在售品牌不点名 — 蒙古常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 乌兰巴托（第 123 批 官方登记核实 2026-10-29））info@topica.mn +976 7555 4488〔https://topica.mn/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（E；2025-10→2025-10）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-10→2025-10）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 回复其邮件时给 STI-110GE + STC-28DGGPM 两款（分销 20%），之后按季度触达。
 
@@ -195,6 +195,31 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-11-06 | 2025.11.6 | 24PoE | 需要16 port的 | E |  | E Replied 2026.08.04.xlsx#19 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC e: Topica LLC（Топика ХХК；topica.mn；**devex：2005 年由电子 / IT 工程师创立；Chingeltei District · 营业中（名录 + 网店） |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber media converter poe sfp switch 交换机 网络；P1 STC-2216GPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-10-30 E: Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar Topica LLC Chingeltei distric ‖ 2025-10-30 R: May we have your price list, MOQ , Warranty infor… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-10-30（12 月前） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：蒙古国·分销商；登记线索：MN · 1 次检索：devex.com/organizations/topica-40614（Topica LLC e: Topica LLC（Топика 。往来 2025-02-24→2025-12-29：我方去信 3 封（A 0 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-10-30 E: Hello, Thank you for your mail. May we have your price list, MOQ , Warranty information? Best regards, A.Bayar Topica LLC Chingeltei distric ‖ 2025-10-30 R: May we have your price list, 。我方报过：未见报价数字。对位：STC-2216GPM；路径：企业邮箱 MX ok；最近来信 2025-10-30（12 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-02-24 | 去 | R |  |  |
+| 2025-10-30 | 来 | R | May we have your price list, MOQ , Warranty information? |  |
+| 2025-10-31 | 去 | R |  |  |
+| 2025-12-29 | 去 | R |  |  |
+| 2025.11.6 | 表 | 表 | 24PoE｜需要16 port的 |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

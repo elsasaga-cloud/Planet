@@ -12,7 +12,7 @@ code: SA-066
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "CCS（ccs-msk.ru，莫斯科；Microsens/Lenovo 官方合作伙伴、Sumitomo 分销商）"
 score: 65
 country: 俄罗斯
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：莫斯科 IT/电信设备分销商（十余年），Microsens 与 Lenovo 官方合作伙伴、日本住友分销商；供应有源/无源网络设备、服务器与存储、工业以太网、FTTO/Smart Office、SAS/Infiniband 等线缆及定制产品；自有/白牌 SFP 目录（SFP-WDM 系列）；E 渠道 2026 年回复（最新互动）。（调研 2026-10-21；表内兴趣：工业FS SFP AOC MC 很多牌子的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2026；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2026；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：实质回复 1 次；推送 1 次（2026-01-23 → 2026-01-23）；最近一次客户回复：2026-01-23：Can you provide Brocade switches?
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI 工业线（替代 Microsens） — 替代 Microsens 的工业线 → 8+2 管理 DIN + 4+1 紧凑款；Brocade 原厂货不做，信里不提；锚价：STI-288GPM $78.9（20% 档）/ STI-054GP $32.5（第 72 批 2026-10-24）；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the industrial and FTTO positions where a Microsens unit is now hard to source, the Marvell-based 8-port gigabit PoE + 2 SFP managed DIN switch and the 4+1 compact model are the two EXW prices I am sending. Is the Microsens replacement still open? Reference: STI-288GPM at $78.9 / STI-054GP at $32.5 USD EXW (MOQ 1, 15-day validity).
@@ -147,7 +147,7 @@ updated: 2026-10-30
   > Наши телефоны: (495) 926-86-95, (963) 763-88-43 e-mail: sales@ccs-msk.ru Наш адрес: 107589, г. Москва, ул. Красноярская д.1, корп. 1
   > 来源：https://www.ccs-msk.ru/contacts（抓取 2026-10-21）
 - **KP**：（见 Clients 表回复签名）（） 〔用户 Clients 表（'回复里有详细联系方式'）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 2026 年最新回复 + 分销商身份 + 已卖白牌 SFP 与 Microsens 工业交换机（高价德系）→ Saga 的 STI 工业线可作其'性价比替代'补充。俄罗斯收款路径需核。P1：STI-288DGGPM（对位 Microsens 工业 PoE），分销价阶 20%。
 
@@ -204,6 +204,29 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2026-01-23 | 2026.1.23 | CENTEC | Can you provide Brocade switches? | E |  | E Replied 2026.08.04.xlsx#25 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | RU · 1 次检索：官网 О компании（официальный партнёр MICROSENS и LEN: CCS（ccs-msk.ru；莫斯科 107589 ул. Красноярская д.1 корп.1）— 十余年的 IT / 电信设备分销商：MICROS · Active（官网在线；202… |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber industrial poe sfp switch 光纤 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2026-01-26 E: Hello! Can you provide Brocade switches? Best regards, Pavel Karpov +7-495-926-86-95 <mailto:pkarpov@ccs-msk.ru> pkarpov@ccs-msk.ru <http:// ‖ 2026.1.23 表: CENTEC→Can you provide Brocade switches? |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-01-26（9 月前） |
+| ⑤ 规模 | ≥小型 | 中小型（待补证） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：俄罗斯·分销商；登记线索：RU · 1 次检索：官网 О компании（официальный партнёр MICROSENS и LEN: CCS（ccs-msk.ru；莫斯科。往来 2025-07-14→2026-01-30：我方去信 2 封（A 0 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2026-01-26 E: Hello! Can you provide Brocade switches? Best regards, Pavel Karpov +7-495-926-86-95 <mailto:pkarpov@ccs-msk.ru> pkarpov@ccs-msk.ru <http:// ‖ 2026.1.23 表: CENTEC→Can you provide Brocade。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-26（9 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-14 | 去 | R |  |  |
+| 2026-01-30 | 去 | R |  |  |
+| 2026.1.23 | 表 | 表 | CENTEC｜Can you provide Brocade switches? |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

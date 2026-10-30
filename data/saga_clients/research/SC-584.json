@@ -52,6 +52,14 @@
     "quote": "Re: 24 Port PoE Managed Switch｜Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom < e.sagatelecom@gmail.com> escreveu:",
     "why": "Elsa 邮箱 真人来信（pos）",
     "k": "19fcd84bde53ac7b"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Namba Software — Especialistas em cibersegurança, cloud computing, infraestrutura híbrida e soluções inteligentes",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.nambasoftware.com.br/"
    }
   ],
   "binding": {
@@ -75,10 +83,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）",
   "why_not": "",
   "excl": "",
@@ -94,8 +102,212 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2026-05-05",
+    "E",
+    "Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter., 5 de mai. de 2026"
+   ],
+   [
+    "2026-08-04",
+    "E",
+    "Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom < e.sagatelecom@gmail.com> escreveu:"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2026-08-04（2 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "对位不明",
+   "规模未知",
+   "人工终判：Namba Software（巴西；网络安全 / 云 / 混合基础设施方案商）：采购部 compras@ 2026-08「quero testar 1 pc」要测 1 台——样品级需求、2026 年活跃；拉美非主攻，薄 A"
+  ],
+  "story": "巴西；未坐实：待快照。往来 2024-08-12→2026-08-04：我方去信 12 封（A 6 / S 6），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2026-05-05 E: Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter., 5 de mai. de 2026 ‖ 2026-08-04 E: Boa tarde, quero testar 1 pc.。我方报过：$65 / $240 / $300。对位：待定；路径：免费邮箱 MX ok；最近来信 2026-08-04（2 月前）。",
+  "n_out": 12,
+  "n_in": 2,
+  "last_in": "2026-08-04",
+  "last_out": "2025-09-18",
+  "prices_out": [
+   "65",
+   "240",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-10-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G Web Managed Switch",
+    "gist": "2.5G Web Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1fc08ecec0348b41"
+   },
+   {
+    "date": "2024-11-14",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0709b598f990905e"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3e126095ac3dce34"
+   },
+   {
+    "date": "2025-01-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "a163a56d09766e9c"
+   },
+   {
+    "date": "2025-02-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f239bcd1d612157d"
+   },
+   {
+    "date": "2025-03-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c107689aa5c8415f"
+   },
+   {
+    "date": "2025-06-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "571e24a53ee76daa"
+   },
+   {
+    "date": "2025-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bd6bfe34226a6d27"
+   },
+   {
+    "date": "2025-08-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "716624c76c6b7ac3"
+   },
+   {
+    "date": "2025-09-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8604449075fe4f42"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "in",
+    "box": "R",
+    "from": "hitojp76@gmail.com",
+    "subj": "",
+    "gist": "Re: 10G Enterprise SFP Switch｜Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter., 5 de ma",
+    "prices": [],
+    "bulk": false,
+    "k": "19dfafa8f6fbf726"
+   },
+   {
+    "date": "2026-08-04",
+    "dir": "in",
+    "box": "R",
+    "from": "hitojp76@gmail.com",
+    "subj": "",
+    "gist": "Re: 24 Port PoE Managed Switch｜Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom < e.sagatelecom@gmail.com> escreveu:",
+    "prices": [],
+    "bulk": false,
+    "k": "19fcd84bde53ac7b"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.nambasoftware.com.br/",
+    "quote": "Namba Software — Especialistas em cibersegurança, cloud computing, infraestrutura híbrida e soluções inteligentes",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

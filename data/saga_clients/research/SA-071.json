@@ -95,7 +95,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n550 只 90 W 注入器为明确量化需求且已回复；分销商身份可带后续 PoE 交换机。南美非主攻区但无需额外投入。先向 SmartByte 核实是否有 90 W（802.3bt）注入器及价格；若无，用 STC-28DGGPM（bt 版本核对）替代方案报价，分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -274,6 +274,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）"
   }
  ],
  "snap_thicken": {
@@ -289,15 +297,192 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2025-07→2025-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
   "evidence": "[E 2025-07-02] Dear friend Can you please let me know: * Switch 10 100 non manageable poe * Switch 10 100 100 non manageable  ‖ 表 2025.7.2: 群发了16电→全系列电口信息"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）: Sur-Link Technology Bolivia · （登记状态不可免费核）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "光纤",
+   "工业",
+   "网络"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-07-02",
+    "E",
+    "Dear friend Can you please let me know: * Switch 10 100 non manageable poe * Switch 10 100 100 non manageable poe 5 ports 8 ports 16 ports 2"
+   ],
+   [
+    "2025.7.2",
+    "表",
+    "群发了16电→全系列电口信息"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-07-02（15 月前）"
+  ],
+  "size": "小型（待补证）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "玻利维亚·分销商；登记线索：玻利维亚 · SEPREC（原 Fundempresa）需付费证书；本行为「无登记源」记录（据第 79 批研究档）: Sur-Link Technology B。往来 2024-06-28→2025-07-03：我方去信 10 封（A 0 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-07-02 E: Dear friend Can you please let me know: * Switch 10 100 non manageable poe * Switch 10 100 100 non manageable poe 5 ports 8 ports 16 ports 2 ‖ 2025.7.2 表: 群发了16电→全系列电口信息。我方报过：$65 / $220。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-07-02（15 月前）。",
+  "n_out": 10,
+  "n_in": 1,
+  "last_in": "2025-07-02",
+  "last_out": "2025-07-03",
+  "prices_out": [
+   "65",
+   "220"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 port managed switch",
+    "gist": "48 port managed switch",
+    "prices": [
+     "220"
+    ],
+    "bulk": false,
+    "k": "316f44fd7347db4e"
+   },
+   {
+    "date": "2024-07-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "PoE Switch",
+    "gist": "PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2d494ce095295103"
+   },
+   {
+    "date": "2024-08-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "76ecfbf55a0061c3"
+   },
+   {
+    "date": "2024-09-26",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "aa5facdca40abb16"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "dfa7ba0ddc8d24b2"
+   },
+   {
+    "date": "2024-11-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Ethernet Switch",
+    "gist": "8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "adab9a6a84643385"
+   },
+   {
+    "date": "2024-12-19",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b0c9c708480c9b3d"
+   },
+   {
+    "date": "2025-01-10",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f43e60e7cc5b4222"
+   },
+   {
+    "date": "2025-07-02",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To businesswise1@hotmail.com",
+    "subj": "",
+    "gist": "16 Port Ethernet Switch — （头部未取正文；见 Elsa 箱）",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-07-03",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Please see attached quotation including 1, prices 2, photos 3, packing info. It is about unit price. If you are doing a bulk purchase, lets discuss the final pr",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 197cf9203e1b9d65"
+   },
+   {
+    "date": "2025.7.2",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "群发了16电",
+    "gist": "全系列电口信息",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

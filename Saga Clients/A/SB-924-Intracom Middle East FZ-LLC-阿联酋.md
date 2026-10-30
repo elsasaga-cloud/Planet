@@ -8,7 +8,7 @@
 code: SB-924
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 score: 27
 country: 阿联酋
 country_table: 希腊  # 表内原填；调研纠正为 阿联酋（research JSON country_fix）
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：Intracom Telecom（希腊电信系统厂商；本条目为 Intracom Middle East FZ-LLC，迪拜 Internet City；无线接入 WiBAS、光纤、关键基础设施安防、AI 运营方案；表内「Telecom / PoE Switch」；KP Roberto Grassi（Procurement Manager，rgrassi@）、Sergio Kodama（Senior Director BD）、Mohammad Yaacoub（Projects Manager））；表内无跟进记录。（调研 2026-10-21；表内兴趣：Telecom；POE Switch 公司地址：P.O. Box 500517, Dubai lnternet City, Bldg.3, Ofce 204, Dubai, UAE）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10））；自动分级 B：+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10））；自动分级 B：+2 在 AI 客户评估名单；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/希腊
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-222GP — 项目体量。已打开的主题（5/13 封有打开记录）：「Industrial poe switch」(2024-08-07)、「Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-09)、「Re: Mini Industrial PoE Switch」(2024-10-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：STI-222GP(2024-10-09)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；再触锚价 STI-222GP $34（沿用 2024-10 对他的实报，规则㉕ 自报优先；第 72 批 2026-10-24）；$34（2024-10）；历史报价（邮件原话，老汇率）：2024-10-09 STI-222GP 34usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-15 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-09-03 $65（10G Media Converter）、2026-06-18 $16000（32 Port 400GB DC Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-04 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 1 轮 2025-05-04；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）；2025-10-06 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-06；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Mohammad — was the 2-SFP + 2-PoE DIN unit for a wireless backhaul site rollout, and is that project still open in 2027? Reference: STI-222GP at $34 USD EXW (as quoted Oct-2024; MOQ 1, 15-day validity).
@@ -165,7 +165,7 @@ updated: 2026-10-30
 - **KP**：Roberto Grassi（）rgrassi@intracom-telecom.com 〔用户表〕
 - **KP**：Sergio Kodama（）skodama@intracom-telecom.com 〔用户表〕
 - **KP**：Mohammad Yaacoub（）mohammad.yaacoub@intracom-telecom.com（2024-10-09）；myaacoub@intracom-telecom.com（2024-08-07） +971 50 654 5766（2024-10-09 签名 m:）〔S 邮箱来信表头〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-10→2024-10）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -210,6 +210,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONIC: INTRACOM MIDDLE EAST FZE（Dubai；Intracom Telecom 100% 股东）/ INTRACOM TELECOM（Paian · Active |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet fiber industrial network poe switch 光纤；P1 STC-28DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-10-09 S: Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. Best  |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-10-09（24 月前） |
+| ⑤ 规模 | ≥小型 | 1,071（tracxn 2026-05）← 约 1,600（2024-07 官方）= 收缩期（第 91 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：阿联酋·集成商/安装商；登记线索：GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONIC: INTRACOM MIDDLE EA。往来 2024-07-10→2026-09-15：我方去信 14 封（A 4 / S 9），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-10-09 S: Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below kind of switch. Best 。我方报过：$34 / $65 / $300 / $6000。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2024-10-09（24 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-10-09 | 去 | S | Re: Mini Industrial PoE Switch | $34 |
+| 2024-10-09 | 来 | S | RE: Mini Industrial PoE Switch｜Hello Simon, Before we request for a sample, I would like to understand from you what is the price level for the below … |  |
+| 2024-10-09 | 去 | S | Mini Industrial PoE Switch |  |
+| 2024-10-15 | 去 | S | Re: Mini Industrial PoE Switch | $34 |
+| 2024-11-15 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2024-12-12 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-01-06 | 去 | S | 16 Port Ethernet Switch |  |
+| 2025-04-11 | 去 | R |  |  |
+| 2026-05-27 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-18 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-31 | 去 | A | WiFi 7 Ready Access Switch |  |
+| 2026-09-15 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

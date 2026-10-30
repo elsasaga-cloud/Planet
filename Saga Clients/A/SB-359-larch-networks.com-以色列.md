@@ -8,7 +8,7 @@
 code: SB-359
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档
 score: 44
 country: 以色列
 region: 中东
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：以色列 Larch Networks（定制网络软硬件开发：系统工程 / SONiC（Hardware-Accelerated BFD+）；自有品牌工业交换机 LN-1508G(P)-4XGF-I(-M)（8 GE/PoE + 4×10G SFP+ 工业）、LN-2308GP-2GE-I，16×PoE / 48×PoE 工业页；表内「DCN / 中科德能的工业 FS」= 现由中国 ODM 供货；KP Alexander Cheskis、Andrey Zarudniy；参展 Electronica India 2026）；表内无跟进记录。（调研 2026-10-21；表内兴趣：dcn 工业FS 中科德能的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-07））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/以色列
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488XGGPM-2BT（4×10G SFP+ + 8×GE PoE，2 通道光旁路，L2+，-40~75℃；2025-12-09 报 $295） — C10/C11：这户的价值是**情报**（他们知道谁在做 8,000 台项目、SONiC 市场动向），不是订单。已打开的主题（21/24 封有打开记录）：「Re: Supported SONiC for Saga Ethernet 」(2026-05-27)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-03)、「Re: Supported SONiC for Saga Ethernet 」(2026-06-05)、「Re: Request for DX1518/DX1548 Chips」(2026-07-02) → 读者兴趣偏「旁路/Booster」；当前 P1 属「10G 汇聚/L3」，下一封按「旁路/Booster」给，不按 P1｜对外统一口径（#2/#12）：2026-03-31 Alan 反问「Do you require Marvell SDK/BSP support」暗示可给 BSP——Saga 不提供 SDK/BSP，对 Larch（SONiC/白盒）只谈整机或 PCBA；2026-05-27「AC5 整线 +$15（内存涨价）」是对外涨价基准；$295 USD EXW（2025-12-09 口径）；现以 `列表价 USD EXW（2026-10-17 快照，15 天有效）` 重报，bypass -2FBP 档 $283.7 @30% 为主表锚；历史报价（邮件原话，老汇率）：2025-12-09 STI-488XGGPM-2BT 295usd；2025-12-01 STI-488XGGBPM 215usd
 - **第一问（只问一个）**：Andrey — the 2-channel bypass PoE unit you priced in December ($295): is a paid evaluation sample still useful for your customer, or has that requirement closed?
@@ -161,7 +161,7 @@ updated: 2026-10-30
 - **KP**：Andrey Zarudniy（）azarudniy@larch-networks.com 〔用户表〕
 - **KP**：Oksana Loy（来信署名人（职务未在邮件署名里出现））oksana@larch-networks.com 〔S/A 邮箱来信 2026-06-02 → 07-02 来信 3 封（第 72 批从邮件表头补）〕
 - **KP**：Eddie Preskovsky（联合创始人（Tracxn 记为 co-CEO）—— 抄送（第 90 批 官方登记核实 2026-10-27）） 〔https://www.larch-networks.com/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-07）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
 
@@ -219,6 +219,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | IL · 1 次检索：官网 team / at-a-glance（2009 成立，联合创始人 CEO Alexander: Larch Networks Ltd.（原 Niram Systems；Rosh HaAyin, Israel） · Active（2025-08 新闻） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet industrial network poe sfp switch 交换机 工业；P1 STI-488XGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-05-25 A: Hi Alan, Thanks for the candid reply — fully understood on the CENTEC track for high-speed. Let me flip the question. On the Marvell side, w ‖ 2026-06-03 A: Hi Alan, The exhibition is going very well, and w… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-07-02（3 月前） |
+| ⑤ 规模 | 个人/微型 | 11–50（LinkedIn）；开发办公室 Kyiv（第 90 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：以色列·OEM 品牌商；登记线索：IL · 1 次检索：官网 team / at-a-glance（2009 成立，联合创始人 CEO Alexander: Larch Networks Ltd。往来 2025-05-21→2026-07-02：我方去信 25 封（A 24 / S 0），对方真人来信 13 封 + 表内/备注 0 条；对方问过：2026-05-22 A: Dear Alan, I hope you are doing well. You shared your updated Ethernet switch product links with us earlier this year, and I wanted to recon ‖ 2026-05-25 A: Hi Alan, Thanks for the candi。我方报过：$15 / $215 / $250 / $275 / $280 / $285。对位：STI-488XGGPM；路径：企业邮箱 MX ok；最近来信 2026-07-02（3 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-05-22 | 来 | A | Supported SONiC for Saga Ethernet Switches ／ COMPUTEX｜Dear Alan, I hope you are doing well. You shared your updated Ethernet switch product links with… |  |
+| 2026-05-25 | 去 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX |  |
+| 2026-05-25 | 来 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX｜Hi Alan, Thanks for the candid reply — fully understood on the CENTEC track for high-speed. … |  |
+| 2026-05-25 | 去 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX |  |
+| 2026-05-26 | 来 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX｜Hi Alan, Thanks — this is very useful context on the AC3 to AC5 transition and the L2+/L3, 1… |  |
+| 2026-05-27 | 去 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX | $15 |
+| 2026-06-02 | 来 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX｜Hi Alan, Would you be available to meet with us on June 10 or 11? What time would be conveni… |  |
+| 2026-06-03 | 来 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX｜Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned… |  |
+| 2026-06-03 | 去 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX |  |
+| 2026-06-05 | 去 | A | Re: Supported SONiC for Saga Ethernet Switches ／ COMPUTEX |  |
+| 2026-07-02 | 去 | A | Re: Request for DX1518/DX1548 Chips |  |
+| 2026-07-02 | 来 | A | Request for DX1518/DX1548 Chips｜Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX151… |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

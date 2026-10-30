@@ -8,7 +8,7 @@
 code: SB-173
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代
 score: 53
 country: 加拿大
 region: 北美
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：加拿大 Inaxsys Security Systems（安防系统品牌/分销：Inaxsys 摄像机、Arkiv VMS、录像机、服务器工作站、电源，Ajax；表内「有一部分是自己的；HRUI（洪瑞）的，贴了自己的牌子」；KP Mark McRae（President）、Alain Boisvert（VP International Sales & Product Development））；群发 8 次无回复。（调研 2026-10-21；表内兴趣：有一部分是自己的；洪瑞的 贴了自己的牌子）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代工贴标 → 直接对位 Saga OEM（Q-33 标记：按不碰同行客户规则仅观察））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代工贴标 → 直接对位 Saga OEM（Q-33 标记：按不碰同行客户规则仅观察））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-20 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — —；—；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-26 $300（48 Port PoE Managed Switch）、2025-10-15 $280（10G Enterprise SFP Switch）（㉕ ②：STC-424XGGPM-280W / STC-448XGGPM 文本价改为群发现价 $180 / $335；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -139,7 +139,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Alain Boisvert（）sales@inaxsys.com 〔用户表〕
 - **KP**：Mark McRae（President（inaxsys.com 2024 新闻；ex-Paradox / ADT）— Q-33 不跟（第 112 批 官方登记核实 2026-10-28）） 〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代工贴标 → 直接对位 Saga OEM（Q-33 标记：按不碰同行客户规则仅观察）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大安防品牌商，交换机由 HRUI 代工贴标 → 直接对位 Saga OEM（Q-33 标记：按不碰同行客户规则仅观察）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -196,6 +196,38 @@ updated: 2026-10-30
 | 2025-10-16 | 1016 | dac |  | A |  | Canada 3.5.xlsx#5 |
 | ? | 1.13 | 52 |  | Email |  | Canada 3.5.xlsx#5 |
 | ? | 57 | 芯片 |  | A |  | Canada 3.5.xlsx#5 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | CA · 1 次检索：inaxsys.com 新闻 2024-10（Inaxsys Security Systems I: Inaxsys Security Systems Inc.（inaxsys.com；11685 Avenue Philippe-Panneton, Montré · Active |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet poe sfp switch 交换机；P1 STC-28DGGPM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-01-13（21 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；规模未知 |
+
+**故事线**：加拿大·OEM 品牌商；登记线索：CA · 1 次检索：inaxsys.com 新闻 2024-10（Inaxsys Security Systems I: Inaxsys Security S。往来 2024-06-17→2026-09-04：我方去信 20 封（A 19 / S 1），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-01-13（21 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-11-19 | 去 | A | Booster PoE Switch |  |
+| 2025-12-31 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-23 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-03 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-30 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-16 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-11 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-08 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-02 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-03 | 去 | A | WiFi 7 Ready Access Switch |  |
+| 2026-08-17 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-04 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

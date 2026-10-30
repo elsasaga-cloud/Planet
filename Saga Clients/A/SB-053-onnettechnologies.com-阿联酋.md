@@ -12,7 +12,7 @@ code: SB-053
 rating: A
 rating_auto: A
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
 name_official: "Onnet Technologies & Innovations LLC (OTAI)"
 score: 63
 country: 阿联酋
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿联酋阿治曼 **本土电信产品制造商**（2012 年，11–50 人，TDRA 认证）：运营商级长距无线、**大功率工业 PoE 交换机 / PoE 延长器**、室外 UPS、太阳能通信系统、CCTV 杆 / 智慧灯杆、「Magic Box」一体化 PoE 箱；负责人 Piyush Shah。表内 Saurabh「老说价格高、了解中国市场价、与中国供应商长期合作」，2025-04 问 Bypass 工业机「用常见的几个型号」= 自有品牌 OEM 采购方。（调研 2026-10-21；表内兴趣：老说价格高 比较了解中国市场价 和中国供应商长期合作）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2026-08））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-04-25 → 2025-04-25）；最近一次客户回复：2025-04-25：用常见的几个型号
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：（若 Simon 改口径）STI-154GP / STI-288DGGPM / STI-21616DGGPM + Booster PoE 款对位表，一次给 — Simon 口径优先；证据只用于将来复议。已打开的主题（4/7 封有打开记录）：「Managed Optical Bypass Switch」(2025-04-25)、「Re: Managed Optical Bypass Switch」(2025-04-25)、「Saga Q3 Product Links」(2026-07-15)、「24 Port PoE Managed Switch」(2026-08-10) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；按 30% OEM 档；预期被砍价；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which of your six configurations is this year's volume SKU, so we quote that one first?
@@ -147,7 +147,7 @@ updated: 2026-10-30
 - **KP**：Saurabh Pachchigar（）saurabh@onnettechnologies.com +971 50 559 4409〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Piyush S. Shah（）piyush@onnettechnologies.com +971 50 184 2443〔https://www.linkedin.com/in/piyushsshah/〕
 - **KP**：Dipali Pachchigar（Director（contactout / RocketReach）= 法定代表 / 家族（第 91 批 官方登记核实 2026-10-27）） 〔https://ae.linkedin.com/company/otaillc〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 2 条（A；2025-04→2026-08）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（A；2025-04→2026-08）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 只在有尾货/促销时触达；不做长期投入。
@@ -194,6 +194,38 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-04-25 | 2025.4.25 | Bypass | 用常见的几个型号 | A |  | A Replied 09.04.xlsx#44 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | AE · 1 次检索：LinkedIn 公司页（2012 成立，11–50 人，Ajman；自称电信产品制造商：无线传输: ONNET TECHNOLOGIES & INNOVATIONS LLC（OTAI；Ajman Industrial Area 1） · Active |
+| ② 角色 / 对位 | 分销商 | 对位词：poe 交换机 工业；P1 STI-288DGGPM-2BT |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-04-25 A: Currently we use 4 Models 4G PoE Ethernet ( BT -60 W) + 2 SFP port managed 8G PoE Ethernet ( AT -30 W) + 2 SFP port managed 8G PoE Ethernet  ‖ 2025.4.25 表: Bypass→用常见的几个型号 ‖ 2026-07-15 A: Hi Please share da… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2026-08-10（2 月前） |
+| ⑤ 规模 | 个人/微型 | 6–50（contactout 6 / LinkedIn 11–50）；营收估 $1–10M（量级）（第 91 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：阿联酋·分销商；登记线索：AE · 1 次检索：LinkedIn 公司页（2012 成立，11–50 人，Ajman；自称电信产品制造商：无线传输: ONNET TECHNOLOGIES。往来 2025-03-26→2026-09-08：我方去信 7 封（A 7 / S 0），对方真人来信 5 封 + 表内/备注 1 条；对方问过：2025-04-25 A: Currently we use 4 Models 4G PoE Ethernet ( BT -60 W) + 2 SFP port managed 8G PoE Ethernet ( AT -30 W) + 2 SFP port managed 8G PoE Ethernet  ‖ 2025.4.25 表: Bypass→用常见的几个型号 ‖ 2026-07-15 A。我方报过：$170。对位：STI-288DGGPM-2BT；路径：企业邮箱 MX ok + WA；最近来信 2026-08-10（2 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-04-25 | 来 | A | RE: Managed Optical Bypass Switch｜Profile: About us>Factory Information>google link ???? |  |
+| 2025-04-25 | 来 | A | RE: Managed Optical Bypass Switch｜Dear Alan 1. Lets not jump on assumptions . 2. We are in business of manufacturing High end wireless 3. We only work… |  |
+| 2025-04-25 | 去 | A | Re: Managed Optical Bypass Switch |  |
+| 2025-04-25 | 来 | A | RE: Managed Optical Bypass Switch｜Currently we use 4 Models 4G PoE Ethernet ( BT -60 W) + 2 SFP port managed 8G PoE Ethernet ( AT -30 W) + 2 SFP port … |  |
+| 2025-04-25 | 去 | A | Managed Optical Bypass Switch |  |
+| 2025.4.25 | 表 | 表 | Bypass｜用常见的几个型号 |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-15 | 来 | A | RE: Saga Q3 Product Links｜Hi Please share datasheets and prices for 4-8-16 ports industrial switch 1. L2 and l3 2. 30W PoE 3. BT PoE 4. With booster P… |  |
+| 2026-07-15 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-10 | 来 | A | RE: 24 Port PoE Managed Switch｜Hi Alan, We only use below configurations 1. 4 POE +2 Uplink with Booster ( 10-30 V DC In PoE Out ) 2. 4G PoE + 2 /1 Gi… |  |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-08 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

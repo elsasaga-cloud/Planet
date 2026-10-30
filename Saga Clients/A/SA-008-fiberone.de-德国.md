@@ -12,7 +12,7 @@ code: SA-008
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 name_official: "fiberONE（NYNEX satellite OHG, Darmstadt）"
 score: 112
 country: 德国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：德国达姆施塔特的光纤接入运营商品牌（NYNEX satellite OHG 旗下，11–50 人，2015 年起），在法兰克福/莱茵美因地区自建 FTTB/FTTH 网络（10G 对称），为楼宇提供千兆接入；B2B 提供专线、波长、楼宇网络。用户表：兴趣 SFP/MC 周边并要「自己的 logo」（贴牌），1 次实质回复，邮件中有详细联系方式。（调研 2026-10-22；表内兴趣：SFP MC 周边产品 自己的logo）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 Saga 成单（PI 包）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/德国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 1 次；推送 2 次（2024-11-09 → 2025-05-29）；最近一次客户回复：2024-11-09：非PoE, 全光，100G
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM（在产第 6 单） — 唯一较深绑定客户，每一单都在加深（OID/MIB/固件进入他们的 LibreNMS/Oxidized 运维体系）；价值 = 长期现金流 + 工程背书 最近一封去信 2026-10-17「收到款、在生产」——下一封 = 发货通知 + SmartByte 名称/OID 资料，不是推销｜已发资料（勿重发）：SWITCH-MIBS-release-7.3.0(2025-03-25)、NMS-MIB(2025-03-25)、Saga Software Function List_7.3, 7.4, (2025-06-23)、Product Link_2026Q2(2026-02-03)、Technical Sales White Paper(2026-04-30)、Saga Feature List_7.5.x_L2+(2026-06-22)、JPMorgan Chase Bank N.A., Hong Kong Br(2026-10-06)；已发单据：PL_STSC-20260929-001(2026-09-29)、STSC-20260929-001(2026-09-29)、STSC-20260930-001(2026-09-30)、STSC20261006015(2026-10-06)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#4）：2024-11-15「completely self-developed」与 2026-02-03「CENTEC chips & SDK, software handled by our team」都已说出口，NYNEX 合规部门 2025-03 追问后由 Peter 解释过——不主动翻案，新材料一律用「Engineering-led trade & customization」；涨价说明统一「PCB/RAM + 汇率，AC5 约 +$15」｜毛利复盘：三单 29.6% → 26.9% → 11.4%（2026-10 20 台，成本 1,700 + 运费 5,000，收款 44,000）——绑定价极限；下一单报价回到 6.69 汇率 + 运费实报；他见过的实报：2024-11-15 双电源版 STC-424XGGM $300 / 448XGGM $500 / 4168XGGCM $400 / 448XGGMO $660（含双 AC 物料与模具费）；2024-12-12 STC-110XGE $75 / $70@100 / $65@500；第 6 单 20 台 @2,015 RMB 基数（S 邮箱 2026-09/10）；下一单报价按 SmartByte 当期价 ×1.3 ÷ 汇率快照——OEM 品牌商档（他们以 fiberONE 名义部署）；历史报价（邮件原话，老汇率）：2024-11-21 265usd / 35usd；2024-11-20 230usd；2024-11-19 300usd / 260usd；2025-09-15 265usd；**价表版本**：STC-4168XGGCM：群发 2025-09→2026-05 是 $280（1,696 封），NYNEX 2026-09/10 实付 $300 → $265.2（20 台量价）；2026-06-22 PDF 的 $413 从未发出，复购价以最近 PI 为准（口径 #20）
 - **第一问（只问一个）**：Is the 2×10G + 4×2.5G lite-managed media converter (1,000 initial / 2,000 per year) still on your FTTH roadmap for 2027?
@@ -281,7 +281,7 @@ updated: 2026-10-30
   > 来源：Extra Info.zip 根目录《客户绑定情况分析.docx》（data/extra_info_2026-10/text/Extra_Info__客户绑定情况分析.docx__6d196b92.json）（抓取 2026-10-22）
 - **KP**：Frederik Kriewitz（Systems Engineer / 网络负责人（成单联系人）；**非合伙人**——NYNEX satellite OHG（Amtsgericht Darmstadt HRA 84829）两名无限责任合伙人为创始人 Gunter Frank / Andreas Buxbaum（第 83 批 官方登记核实 2026-10-27））f.kriewitz@nynex.de +49 6151 50074-009〔https://ipinfo.io/AS200519/178.17.236.0/23 + 用户表〕
 - **KP**：Gunter Frank（创始人/合伙人（1999/2000 创立）） 〔https://nynex.de/company/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联）与贴牌 MC/SFP；P1 改 STC-448XGGPM 或 STC-424XGGPM-280W（10G 上联）。
 【2026-10-22 复盘补】NYNEX 2025-03 的 SNMP/MIB 合规追问是「工程型缓冲层」的真实考题：欧洲客户会用 snmpwalk 核 OID 归属。Saga 应自己申请一个 IANA PEN（免费、在线表单、约 1–2 周）并要求 SmartByte 在 Saga 版固件里只保留 Saga PEN 下的私有 MIB；给 NYNEX/德国客户的 OEM 说明要能回答「OEM 数据是固件内写死还是独立配置分区」。对应 Q-35。 ｜ 针对性加厚 2026-10-22（S 邮箱 2026-09/10 第 6 单，T29-U13 ②） ｜ 【Simon 2026-10-22 口径】NYNEX 由 Peter 技术跟进、只能在 Saga 下单；宣传 SmartByte 品牌是合作约定 → 之前「Saga 自申 PEN」建议作废。维护计划见 docs/成单客户_NYNEX_维护计划_2026-10-22.md ｜ 【2026-10-22T15:48Z】GitHub 监控上线（宪法第九条）：scripts/github_watch/watch.py，每轮必跑，变化见 data/github_watch/变化日志.md
@@ -344,6 +344,38 @@ A 维持：运营商持续采购楼宇接入交换机（48 口/L2+/2.5G 上联�
 |---|---|---|---|---|---|---|
 | 2024-11-09 | 2024.11.9 | 群发了48口引流管理 | 非PoE, 全光，100G | Email |  | 其他优质欧洲客户 2.26.xlsx#12 |
 | 2025-05-29 | 2025.5.29 | alarm |  | S |  | 其他优质欧洲客户 2.26.xlsx#12 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darms: NYNEX satellite OHG（品牌 fiberONE） · Amtsgericht Darmstadt HRA 84829 · EUID D · 在册（Northdata 无注销 / 破… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber sfp 光纤 网络；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2026-09-29 S: Hello Simon, we would like to pay in Euro. Can you add a euro amount to the invoice? Due to the price increase I'll have to get 3 more compa ‖ 2026-10-06 S: Hello Simon, can you share your euro bank account… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-10-15（0 月前） |
+| ⑤ 规模 | 个人/微型 | 11–50（LinkedIn） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：德国·OEM 品牌商；登记坐实：Germany · Handelsregister 摘要（Northdata 免费页，Amtsgericht Darms: NYNEX satellite OH。往来 2024-11-09→2026-10-17：我方去信 69 封（A 0 / S 59），对方真人来信 43 封 + 表内/备注 1 条；对方问过：2026-09-29 S: Hello Simon, can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) including shipping to Germany.  ‖ 2026-09-29 S: Hello Simon, we would like to。我方报过：$25 / $30 / $35 / $120 / $150 / $180。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-10-15（0 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-06-22 | 去 | S | Re: Marvell Alleycat5 Solution |  |
+| 2026-08-26 | 去 | S | Saga Marvell AC5 Series Fully Ready |  |
+| 2026-09-29 | 来 | S | Re: Saga Marvell AC5 Series Fully Ready｜Hello Simon, we would like to pay in Euro. Can you add a euro amount to the invoice? Due to the price increase… |  |
+| 2026-09-29 | 去 | S | Re: Saga Marvell AC5 Series Fully Ready |  |
+| 2026-09-29 | 来 | S | Re: Saga Marvell AC5 Series Fully Ready｜Hello Simon, can you please share a quote for 20 x STC-4168XGGCM switches (dual AC PSUs, same as last order) i… |  |
+| 2026-09-29 | 去 | R |  |  |
+| 2026-09-30 | 去 | S | Re: Saga Marvell AC5 Series Fully Ready | $300 |
+| 2026-10-06 | 去 | S | Re: Saga Marvell AC5 Series Fully Ready | $300 |
+| 2026-10-06 | 来 | S | Re: Saga Marvell AC5 Series Fully Ready｜Hello Simon, can you share your euro bank account please? Best Regards Frederik Kriewitz NYNEX satellite OHG R… |  |
+| 2026-10-15 | 去 | S | Re: Saga Marvell AC5 Series Fully Ready |  |
+| 2026-10-15 | 来 | S | Re: Saga Marvell AC5 Series Fully Ready｜Hello Simon, payment has been made (see attachment). One additional note: We would pfeffere to have them with … |  |
+| 2026-10-17 | 去 | S | Re: Saga Marvell AC5 Series Fully Ready |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

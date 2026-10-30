@@ -9,7 +9,7 @@
 code: SB-388
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电
 name_official: "FH Güvenlik Sistemleri ve Bilişim San. Tic. Ltd. Şti.（İstanbul Beşiktaş / Perpa, TR；fhguvenlik.com）"
 score: 43
 country: 土耳其
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔的弱电/安防工程公司 FH Güvenlik（法人 2025-02-13 新设，团队自述 15 年以上经验；CCTV（模拟/AHD/IP）、火灾报警、报警、自动化等弱电集成；总部 Sinan Paşa Mah. Süleyman Seba Cad. No:6 Beşiktaş，技术办公室 Perpa B Blok Kat:11 No:1730 Şişli；0534 594 63 61 / 0534 484 98 11；info@fhguvenlik.com）。ISAF 记录：Hasti F. Göller（hasti@fhguvenlik.com）——要工业级交换机；无后续跟进。守界：火灾报警主系统不供，仅网络层。（调研 2026-10-21；表内兴趣：工业级交换机）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288GP — 工程 25% 档：STI-288GP（DIN 8 GE PoE+ 2 SFP，$59.8）对应「工业级交换机」；机房侧 STC-28DGGPM（$84.1）；管理型工业 STI-288GPM（$82.2）；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Hasti Hanım, ISAF'ta sorduğunuz endüstriyel switch: DIN ray 8 port PoE+ + 2 SFP, −40/+75 °C, EXW 59,8 USD (L2 yönetilebilir 82,2 USD) — IP kamera projelerinizde saha dolabı başına kaç kamera bağlıyorsunuz, 8 port yeterli mi?
@@ -124,7 +124,7 @@ updated: 2026-10-30
   > 工业级交换机 / Hasti F. GOLLER / hasti@fhguvenlik.com
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hasti F. Göller（研究档 KP（用户表）= 收件人（第 106 批 官方登记核实 2026-10-28））hasti@fhguvenlik.com（用户表） +90 534 594 63 61（公司）〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面：伊斯坦布尔弱电/安防工程，需求 PoE（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -164,6 +164,21 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | TR · 1 次检索：find.com.tr（FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SAN: FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ（fhguvenlik.com； · Active |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：交换机 工业 网络；P1 STI-288GP |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：土耳其·集成商/安装商；登记线索：TR · 1 次检索：find.com.tr（FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SAN: FH GÜVENLİK SİSTEM。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-288GP；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

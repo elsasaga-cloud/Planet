@@ -1,18 +1,18 @@
 # Eyescan security Systems
 **官方名称（调研核实）**：Eyescan Private Security Services Ltd（EYESCAN Security Systems）
 
-> **评级 A**　|　塞浦路斯　|　档案编号 `SA-003`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　塞浦路斯　|　档案编号 `SA-003`　|　优先级 ★★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；成单 / 样品 ✔；命中 3/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 11–50（LinkedIn）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
 >
-> **类型**：安防集成/经销（兼分销）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加；推送 6 次（2025-03-18 → 2025-10-08）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：安防集成/经销（兼分销）（推断）　|　**历史关系**：WhatsApp 已加；推送 6 次（2025-03-18 → 2025-10-08）　|　**所在清单**：A优质名单(其他优质欧洲客户)、AI评估(EU)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-003
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
 name_official: "Eyescan Private Security Services Ltd（EYESCAN Security Systems）"
 score: 133
 country: 塞浦路斯
@@ -20,7 +20,7 @@ region: 欧洲
 website: eyescan.com.cy
 type: 安防集成/经销（兼分销）
 tier_tags: ["A优质名单(其他优质欧洲客户)", "AI评估(EU)·DONE"]
-deal: yes
+deal: no
 replies: 0
 followups: 6
 first_contact: 2025-03-18
@@ -37,8 +37,8 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：塞浦路斯利马索尔安防集成商 + 分销商（2001 年成立，11–50 人，LinkedIn 专长含 Distribution；ZKTeco、Eocortex 列为其集成/分销伙伴），业务：IP CCTV、门禁、报警、监控中心。用户备注：要了工业品价格表，特别问了 4 光 24 电价格，也问了 2 光 24 商业级。（调研 2026-10-21；表内兴趣：工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM但会考虑）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+5 最近活动 2025
-- **历史互动**：成交/下单过；WhatsApp 已加；推送 6 次（2025-03-18 → 2025-10-08）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→））；自动分级 A：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；+12 备注记录了对方问价/要资料/见面等互动；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/塞浦路斯；+5 最近活动 2025
+- **历史互动**：WhatsApp 已加；推送 6 次（2025-03-18 → 2025-10-08）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGPM-280W — 已打开的主题（1/16 封有打开记录）：「Mini Industrial PoE Switch」(2025-05-29) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-07-28 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-03-19 $300（48 Port PoE Managed Switch）、2025-10-08 $280（10G Enterprise SFP Switch）、2026-06-17 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Which of the two 24-port configs (4×SFP / 2×SFP) did the price land for, and is the project still live?
 - **最大未知**：年走量与现供应商
@@ -144,7 +144,7 @@ updated: 2026-10-30
   > Our Products: Intruder Alarms · CCTV · Fire Detection · Access Control · Video Door Entry · Integrated Solutions · Nurse Call Systems · Voice Evac · Telematics · Smart Building Automation · Evacuation Products
   > 来源：https://eyescan.com.cy/products/（抓取 2026-10-21）
 - **KP**：—（总机）info@eyescan.com.cy +357 25 333 300〔https://eyescan.com.cy/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+分销双身份，欧盟小国但决策快；P1 建议 STC-424DGGPM-280W（24 电 PoE）+ 备选 STI-4240DGGM。
 
@@ -205,6 +205,38 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 | 2025-07-30 | 730 | 28bt |  | A |  | 其他优质欧洲客户 2.26.xlsx#103 |
 | 2025-10-08 | 108 | dac |  | A |  | 其他优质欧洲客户 2.26.xlsx#103 |
 | ? | 94 | 24poe |  | A |  | 其他优质欧洲客户 2.26.xlsx#103 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Eyescan Private Security Services Ltd · （登记状态不可免费核） |
+| ② 角色 / 对位 | OEM 品牌商/分销商 | 对位词：din poe 工业；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2023 表: Simon 备注/兴趣栏→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 个人/微型 | 11–50（LinkedIn） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：塞浦路斯·OEM 品牌商/分销商；登记线索：塞浦路斯 · 公司注册处查询为 JS 交互，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Eyescan Private Security Serv。往来 2023→2026-09-14：我方去信 16 封（A 16 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2023 表: Simon 备注/兴趣栏→工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM。我方报过：$170 / $280 / $300 / $6000。对位：STC-424DGGPM-280W；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-04 | 去 | A | Industrial PoE Switch |  |
+| 2025-10-08 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-11 | 去 | A | Booster PoE Switch |  |
+| 2025-12-09 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2026-01-19 | 去 | A | OEM Core Switching Solution |  |
+| 2026-02-17 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-19 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-13 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-25 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-17 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-28 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-14 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -285,7 +317,7 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-424DGGPM-280W），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-424DGGPM-280W）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-424DGGPM-280W 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -293,7 +325,7 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付；WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
+- **S**：WhatsApp 直达；欧洲主攻区，复购与口碑可外溢
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-424DGGPM-280W 按 25% 档报价，做现供应商的第二货源；规模（调研）：11–50 人（LinkedIn）；营收约 $1M（RocketReach/Infobel）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -314,7 +346,7 @@ A 级确认：有具体型号问价（4 光 24 电 / 2 光 24），安防集成+
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）

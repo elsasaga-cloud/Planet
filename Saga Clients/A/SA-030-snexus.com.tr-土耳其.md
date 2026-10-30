@@ -12,7 +12,7 @@ code: SA-030
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/
 name_official: "Snexus Networks（İstanbul, Türkiye；另设新加坡 Sim Lim 联络点）"
 score: 83
 country: 土耳其
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔的自有品牌交换机商：SN-ES1300（百兆 PoE）、SN-GS1300/2300（千兆 24+4SFP 网管）、SN-XGS5300（10G 系列）、光纤骨干 SFP 交换机、PoE 电源，官网直接挂美元价（如 SN-ES1300-10P $115、SN-XGS5300-28F $1,130），承诺 2 年换新保修。用户表：ISAF2025 展会客户（Ady 加了 WhatsApp），要 8 光 8 电商业级，报过 $115 的工业款，想要免费样品当礼物，之后 0 回复。（调研 2026-10-21；表内兴趣：Ady加了WhatsApp， 商业级POE交换机 说之前联系过， 最后一天走的时候问有没有商业级8光8  推了工业级 报了115usd, 想让我们当礼物送给他；商业FS 工业FS 自己的logo 价格不是很高 正常水平）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其））；自动分级 A：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其））；自动分级 A：+12 ISAF 2025 展会面对面名片；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：推送 2 次（2025-09-25 → 2025-10-23）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424DGGM 类 24+4（对位 SN-GS2300-28F） — 已打开的主题（1/17 封有打开记录）：「Booster PoE Switch」(2025-11-26) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-13 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-16 $65（10G Media Converter）、2024-10-28 $300（48 Port PoE Managed Switch）、2025-09-25 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：If the sample is paid but credited against a 20-pc first batch, does SN-GS2300-28F dual-sourcing go ahead?
@@ -177,7 +177,7 @@ updated: 2026-10-30
   > 来源：https://www.snexus.com.tr/en/endustriyel-switchler（抓取 2026-10-21）
 - **KP**：—（总机 → 法人为 HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（Çekmeköy），品牌 Snexus Networks；品牌负责人 Erdem Timur Koca（第 85 批 官方登记核实 2026-10-27））info@snexus.com.tr +90 216 606 4445（webrate 登记）〔https://www.snexus.com.tr/en/iletisim〕
 - **KP**：Erdem Timur Koca（Snexus 品牌负责人（LinkedIn；官网销售合同卖方 = Hemmah Group）= 拍板人（第 85 批 官方登记核实 2026-10-27）） 〔https://www.snexus.com.tr/en/sözleşme〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·伊斯坦布尔自有品牌交换机商 SN-ES/GS/XGS 全线白牌采购（OEM 30% 对位，土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度价格敏感且索要免费样品；对位：其 SN-GS2300-28F（24+4SFP 网管）≈ STC-424DGGM；8 光 8 电商业级需向 SmartByte 确认有无对应款（无则如实说明并推 STC-28DGGPM 变体）。贴牌 30%，样品按价付费、批量返还样品费。
 
@@ -238,6 +238,38 @@ A 确认（土耳其自有品牌 + 展会面谈 + WhatsApp 在手），但极度
 |---|---|---|---|---|---|---|
 | 2025-09-25 | 2025.9.25 | dac |  | A |  | 土耳其客户 3.10.xlsx#3 |
 | 2025-10-23 | 1023 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#3 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+: HEMMAH GROUP BİLİŞİM VE MİMARLIK TİCARET LTD. ŞTİ.（品牌 Snexus · İstanbul Ticaret Sicil（号待补） · 经营中（官… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：fiber network poe sfp switch 交换机 光纤 工业；P1 STC-28DGGPM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | 未见人数（小型） |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：土耳其·OEM 品牌商；登记坐实：Türkiye · 官网销售合同页（卖方法定名 + 地址）+ 域名 WHOIS（注册人 = Hemmah Group）+: HEMMAH GROUP BİLİŞ。往来 2024-06-24→2026-09-17：我方去信 18 封（A 11 / S 6），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-11-21 | 去 | S | Industrial PoE Switch |  |
+| 2025-09-25 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-23 | 去 | A | Industrial PoE Switch |  |
+| 2025-11-26 | 去 | A | Booster PoE Switch |  |
+| 2025-12-31 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-29 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-03 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-25 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-06-11 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-14 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-13 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

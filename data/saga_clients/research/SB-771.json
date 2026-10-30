@@ -38,8 +38,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-06→2026-06）",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 国别更正为「哥斯达黎加」（country_fix）：Lanprosa S.A. 为哥斯达黎加圣何塞公司（官网 / LinkedIn / CPIC），用户表记美国（第 90 批 / Q-65 2026-10-27）",
  "deep": {
   "done_at": "2026-10-21",
@@ -158,16 +158,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A2",
-  "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-06→2026-06）",
-  "why_not": "",
+  "batch": "AB-FINAL-02",
+  "tier": "",
+  "target": "B",
+  "grade_before": "A",
+  "reason": "",
+  "why_not": "非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-06-30] Can you please share price and point of you have router products and cloud management Answer back to web@lanpr ‖ 研 2026-06-30 Samanta Navarro: Can you please share price and point of you have router products and cloud manag"
+  "evidence": "[A 2026-06-30] Can you please share price and point of you have router products and cloud management Answer back to web@lanpr"
  },
  "override_history": [
   {
@@ -177,6 +177,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-06→2026-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-06→2026-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
   }
  ]
 }

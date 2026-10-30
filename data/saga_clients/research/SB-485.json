@@ -48,7 +48,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -201,16 +201,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-11-13] Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We ar ‖ 表 2025.11.13: 升压→Price and ODM ‖ 研 2025-11-13 Peter: Let me have the price range for poe switch and non poe switches and ODM proposal"
+  "evidence": "[A 2025-11-13] Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We ar ‖ 表 2025.11.13: 升压→Price and ODM"
  },
  "override_history": [
   {
@@ -220,6 +220,202 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "KR · 1 次检索：bizno（엔아이투스(주) N-iTUS Co., Ltd.；유선 통신장비 제조업；주요제품 : 엔아이투스(주) N-iTUS Co., Ltd.（n-itus.com；**사업자등록번호 119-86-00900  · 사업자등록번호 119-86-00900 / 법인등록번호 110111-373 · 계속사업자（Active） · 2007-08-14"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "poe",
+   "交换机",
+   "网络"
+  ],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-11-13",
+    "A",
+    "Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs i"
+   ],
+   [
+    "2025.11.13",
+    "表",
+    "升压→Price and ODM"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-11-13（11 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "韩国·OEM 品牌商；登记坐实：KR · 1 次检索：bizno（엔아이투스(주) N-iTUS Co., Ltd.；유선 통신장비 제조업；주요제품 : 엔아이투스(주) N-iTUS Co。往来 2024-06-28→2026-03-30：我方去信 14 封（A 8 / S 5），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-11-13 A: Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs i ‖ 2025.11.13 表: 升压→Price and ODM。我方报过：$65 / $280 / $300。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-11-13（11 月前）。",
+  "n_out": 14,
+  "n_in": 1,
+  "last_in": "2025-11-13",
+  "last_out": "2026-03-30",
+  "prices_out": [
+   "65",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-12-04",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Ethernet Switch",
+    "gist": "8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "85d1d07d87d57fec"
+   },
+   {
+    "date": "2025-04-02",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To wisali0708@gmail.com）",
+    "subj": "",
+    "gist": "16 Port Ethernet Switch（Elsa 群发第 1/6 轮；本户在 Bcc，锚 To wisali0708@gmail.com）",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025-09-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9af7cf12b844b728"
+   },
+   {
+    "date": "2025-10-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c0a74d27e7664a85"
+   },
+   {
+    "date": "2025-10-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "dc5987f2ea8ecbb6"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d5a07aad76ff2c53"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "in",
+    "box": "A",
+    "from": "peter01@n-itus.com",
+    "subj": "RE: Booster PoE Switch",
+    "gist": "Hi, Alan, Let me have the price range for poe switch and non poe switches and ODM proposal to us please. We are the major supplier to ISPs in Korea. Director / ",
+    "prices": [],
+    "bulk": true,
+    "k": "57253159a4b7a064"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4bfa50aff03f1f0c"
+   },
+   {
+    "date": "2025-11-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e216de5e78780fc0"
+   },
+   {
+    "date": "2025-12-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "1704546832652ac3"
+   },
+   {
+    "date": "2025.11.13",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "升压",
+    "gist": "Price and ODM",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "47c7c9c2ae31cef1"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -11,7 +11,7 @@ code: SC-584
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 name_official: "nambasoftware.com.br"
 score: 19
 country: 巴西
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴西客户（nambasoftware.com.br）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）。公司底数未查（新入库即查排队）。（调研 2026-10-30；表内兴趣：用Cisco较多 做项目的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08））；自动分级 C：+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08））；自动分级 C：+18 在「已回复」名单（A/E Replied）；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/巴西
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-30）**：— — ；他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -58,6 +58,7 @@ updated: 2026-10-30
 |---|---|---|---|---|---|
 | 2026-05-05 | 来 | hitojp76@gmail.com | Re: 10G Enterprise SFP Switch｜Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter., 5 de mai. de 2026 às 12:40, Elsa from Saga Telecom < e.sagatelecom@gmail.com> escreveu: | Elsa 邮箱 真人来信（weak） | `19dfafa8f6fbf726` |
 | 2026-08-04 | 来 | hitojp76@gmail.com | Re: 24 Port PoE Managed Switch｜Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom < e.sagatelecom@gmail.com> escreveu: | Elsa 邮箱 真人来信（pos） | `19fcd84bde53ac7b` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Namba Software — Especialistas em cibersegurança, cloud computing, infraestrutura híbrida e soluções inteligentes | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -97,7 +98,7 @@ updated: 2026-10-30
 - **【邮箱来信/用户表】Re: 24 Port PoE Managed Switch｜Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom**
   > Re: 24 Port PoE Managed Switch｜Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom < e.sagatelecom@gmail.com> escreveu:
   > 来源：19fcd84bde53ac7b（抓取 2026-08-04）
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）
 - 备注：（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）
 
 ### 加厚挖掘（2026-10-30 · AB-FINAL-01 回信建档）
@@ -113,6 +114,40 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 未坐实 | 待快照 |
+| ② 角色 / 对位 | 未知 | 对位词：；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 2026-05-05 E: Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter., 5 de mai. de 2026 ‖ 2026-08-04 E: Boa tarde, quero testar 1 pc. Em ter., 4 de ago. … |
+| ④ 路径 | 活 | 免费邮箱 MX ok；最近来信 2026-08-04（2 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：身份未坐实；角色未知；对位不明；规模未知；人工终判：Namba Software（巴西；网络安全 / 云 / 混合基础设施方案商）：采购部 compras@ 2026-08「quero testar 1 pc」要测 1 台——样品级需求、2026 年活跃；拉美非主攻，薄 A |
+
+**故事线**：巴西；未坐实：待快照。往来 2024-08-12→2026-08-04：我方去信 12 封（A 6 / S 6），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2026-05-05 E: Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter., 5 de mai. de 2026 ‖ 2026-08-04 E: Boa tarde, quero testar 1 pc.。我方报过：$65 / $240 / $300。对位：待定；路径：免费邮箱 MX ok；最近来信 2026-08-04（2 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-10-15 | 去 | S | 2.5G Web Managed Switch |  |
+| 2024-11-14 | 去 | S | Industrial PoE Switch |  |
+| 2024-12-12 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-01-08 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-02-17 | 去 | A | 90W PoE Managed Switch |  |
+| 2025-03-14 | 去 | A | Marvell Alleycat5 Solution |  |
+| 2025-06-19 | 去 | A | 48 Port PoE Managed Switch | $300 |
+| 2025-07-17 | 去 | A | Managed Optical Bypass Switch |  |
+| 2025-08-26 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-09-18 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-05 | 来 | R | Re: 10G Enterprise SFP Switch｜Hello Elsa, How are you? I’m fine. Switch picture? My email Namba Software -> compras@nambasoftware.com.br Thanks Em ter… |  |
+| 2026-08-04 | 来 | R | Re: 24 Port PoE Managed Switch｜Boa tarde, quero testar 1 pc. Em ter., 4 de ago. de 2026 às 12:59, Elsa from Saga Telecom < e.sagatelecom@gmail.com> es… |  |
+
+- 网查（2026-10-30）：Namba Software — Especialistas em cibersegurança, cloud computing, infraestrutura híbrida e soluções inteligentes — <https://www.nambasoftware.com.br/>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

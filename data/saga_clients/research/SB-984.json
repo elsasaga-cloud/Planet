@@ -46,7 +46,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -167,10 +167,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）",
   "why_not": "",
   "excl": "",
@@ -186,6 +186,212 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（A；2025-08→2025-08）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：官网 company.html（「Antronix of California, (Olson T: Olson Technology, Inc.（现「Antronix of California（Olson Technology Division）」；olso · Active（已并入 Antronix 体系）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "network",
+   "sfp",
+   "switch",
+   "光纤"
+  ],
+  "p1": "STI-110GE",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-08-08",
+    "A",
+    "Thanks.. I’d be interested in the pricing… Thanks Peter"
+   ],
+   [
+    "2025-08-09",
+    "A",
+    "Thank you. Yes, please send manual as well..."
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-08-09（14 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：官网 company.html（「Antronix of California, (Olson T: Olson Technology, 。往来 2025-01-23→2026-02-12：我方去信 15 封（A 14 / S 1），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-08-08 A: Thanks.. I’d be interested in the pricing… Thanks Peter ‖ 2025-08-09 A: Thank you. Yes, please send manual as well...。我方报过：$225 / $240 / $280 / $310。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2025-08-09（14 月前）。",
+  "n_out": 15,
+  "n_in": 2,
+  "last_in": "2025-08-09",
+  "last_out": "2026-02-12",
+  "prices_out": [
+   "225",
+   "240",
+   "280",
+   "310"
+  ],
+  "timeline": [
+   {
+    "date": "2025-08-08",
+    "dir": "in",
+    "box": "A",
+    "from": "petertarquinio@antronix.com",
+    "subj": "RE: 24 Port Fiber Switch",
+    "gist": "Thanks.. I’d be interested in the pricing… Thanks Peter",
+    "prices": [],
+    "bulk": false,
+    "k": "42afe1e39f3c25e0"
+   },
+   {
+    "date": "2025-08-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "b8594a3f0922d5e8"
+   },
+   {
+    "date": "2025-08-09",
+    "dir": "in",
+    "box": "A",
+    "from": "petertarquinio@antronix.com",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Thank you. Yes, please send manual as well...",
+    "prices": [],
+    "bulk": true,
+    "k": "b64dad136b4bdc24"
+   },
+   {
+    "date": "2025-08-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port Fiber Switch",
+    "gist": "Re: 24 Port Fiber Switch",
+    "prices": [
+     "225",
+     "240",
+     "310"
+    ],
+    "bulk": false,
+    "k": "7533abba594ebc6d"
+   },
+   {
+    "date": "2025-09-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3e853ce32238a19b"
+   },
+   {
+    "date": "2025-10-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "3aac8394f6b008e7"
+   },
+   {
+    "date": "2025-10-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7e0992be9d86b2bc"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "d387fd35614bf83e"
+   },
+   {
+    "date": "2025-12-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "aa190ef0373d29b0"
+   },
+   {
+    "date": "2025-12-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "c858575843220653"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c2feabae4c3fda02"
+   },
+   {
+    "date": "2026-02-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "4403254a37a344df"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

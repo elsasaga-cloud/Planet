@@ -12,7 +12,7 @@ code: SB-1120
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 name_official: "Obmac Systems"
 score: 18
 country: 赞比亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：卢萨卡 ICT + 机电承包商 Obmac Systems（Pythias Kachepa，Gmail 私箱）：2024-01-17 一单 $9,350 / 265 件（STC-4248XGGCM ×15 @295 + STI-244GP ×50 @36 + 工业 SFP ×200 @7.5 + FedEx 1,600），PI 包「gg」；2026 起转向 11 MWp 光伏 EPC，网络设备为项目配套；之后 2025 年 9 封群发 0 回，Elsa 2026-09-14 单发 1 封未回。（调研 2026-10-22；表内兴趣：主做项目的   VC VoIP optical networks）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；-6 区域 非洲/赞比亚；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 C：+50 Saga 成单（PI 包）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+0 仅免费邮箱；-6 区域 非洲/赞比亚；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：成交/下单过；WhatsApp 已加；推送 8 次（2025-02-13 → 2025-10-10）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不推；若其 ICT 项目再来，按 2024 清单复购 — 已成交一单大单｜毛利复盘：一单 34.5%，利润 23,118 RMB（机架设备 15 + 2光4工业 PoE 50 + 光模块 200）——全库第二大利润单，C 级只因无复购；按主表
 - **第一问（只问一个）**：Pythias — are the 2024 STC-4248XGGCM/STI-244GP units still in service, and does the 11 MWp solar EPC need ring-capable industrial switches for SCADA?
@@ -131,7 +131,7 @@ updated: 2026-10-30
   > We are delivering the project with our corporate partner, Valinor Investment Limited, with construction undertaken by SANY International (Zambia) … installed capacity of 11MWp (10MWac)
   > 来源：https://www.linkedin.com/in/francis-chamyolo-3903ba8b/（抓取 2026-10-23）
 - **KP**：Pythias Kachepa（Founder / CEO / Managing Director（官网 + 领英 2026-10-29 吻合；2024-01 订单单据联系人）= 收件人 — 复购一页纸一次：STC-4248 系列复购价 + STI-154GP / STI-288DGGPM $137 太阳能 EPC 配套 DIN 机 + MOQ 1 — 赞比亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 卢萨卡、ZABS 不声称（第 121 批 官方登记核实 2026-10-29））pythiask@gmail.com 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 
 ### 加厚挖掘（2026-10-23 · 公开平台核查（T29-U18，针对性：只核活跃平台与触达通道））
 
@@ -164,6 +164,36 @@ updated: 2026-10-30
 | ? | 64 | PoE |  | A |  | 赞比亚.xlsx#2 |
 | ? | 72 | 16电 |  | A |  | 赞比亚.xlsx#2 |
 | ? | 84 | 22迷你 |  | A |  | 赞比亚.xlsx#2 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | ZM · 1 次检索：obmacsystems.com（founded on February 13th 2007；Te: Obmac Systems（obmacsystems.com；**官网：2007-02-13 成立，ICT / 电气 / 机械项目与采购（恩多拉起家，现卢萨卡） · 营业中（官网 + 领英） |
+| ② 角色 / 对位 | 未知 | 对位词：sfp 工业 网络；P1 待定 |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 免费邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：角色未知；无需求证据；路径弱；规模未知 |
+
+**故事线**：赞比亚；登记线索：ZM · 1 次检索：obmacsystems.com（founded on February 13th 2007；Te: Obmac Systems（obma。往来 2025-02-13→2026-09-14：我方去信 10 封（A 9 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$240 / $280 / $300。对位：待定；路径：免费邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-02-13 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-02-26 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-03-27 | 去 | A | 48 Port PoE Managed Switch | $300 |
+| 2025-05-05 | 去 | A | Industrial PoE Switch |  |
+| 2025-06-04 | 去 | A | Commercial PoE Switch |  |
+| 2025-07-02 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-08-04 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-09-10 | 去 | A | 24 Port Fiber Switch | $240 |
+| 2025-10-10 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-09-14 | 去 | R |  |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

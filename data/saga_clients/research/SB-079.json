@@ -47,8 +47,8 @@
    "source": "https://guvenliksistemleri.net/konya-sehrindeki-guvenlik-sistemleri-fi"
   }
  ],
- "grade_override": "B",
- "override_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nWA 一次性跟进 12 光 12 电报价有效期；成交则按零星小单处理。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -141,5 +141,82 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2025: Simon 备注/兴→问12光12电带POE 带网管  问了价格 报价150usd ； 问12光12电带PoE 带网管  "
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "微型零售安装店，单机需求（已报 $150 未回）；土耳其主攻区故保留 B 慢跟。",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "TR · 1 次检索：ASKON Konya 会员页（CANSİS TEKNOLOJİ；AHMET CAN；İzzetb: Cansis Teknoloji（Can-Sis Güvenlik ve Bilgisayar Sistemleri；cansisteknoloji.com；科 · Active（2026-03 经销商会议）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "poe"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025",
+    "表",
+    "Simon 备注/兴趣栏→问12光12电带POE 带网管  问了价格 报价150usd ； 问12光12电带PoE 带网管  问了价格 报价150usd ； 0541 541 0010 "
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "土耳其·集成商/安装商；登记线索：TR · 1 次检索：ASKON Konya 会员页（CANSİS TEKNOLOJİ；AHMET CAN；İzzetb: Cansis Teknoloji（C。往来 2025→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2025 表: Simon 备注/兴趣栏→问12光12电带POE 带网管  问了价格 报价150usd ； 问12光12电带PoE 带网管  问了价格 报价150usd ； 0541 541 0010 。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "问12光12电带POE 带网管  问了价格 报价150usd ； 问12光12电带PoE 带网管  问了价格 报价150usd ； 0541 541 0010 ",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -12,7 +12,7 @@ code: SB-166
 rating: A
 rating_auto: B
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
 name_official: "Crown Security Solutions（卡塔尔；表内名）"
 score: 53
 country: 卡塔尔
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：卡塔尔安防分销商（Cudy 分销），Mohamed Safeer 提出 200 台工业 5 电口需求，2025-02 要工业 16/24 口 datasheet，2025-10 在 CPSE 展会沟通；无邮箱。（调研 2026-10-21；表内兴趣：200个工业5电口 Cudy的分销商）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+3 区域 中东/卡塔尔；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；-8 无邮箱，仅电话/WhatsApp；+3 区域 中东/卡塔尔；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 15 次（2024-04-28 → 2025-10-06）；最近一次客户回复：2025-10-06：cpse展会
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-050GE — 200 台工业 5 电口 → Saga STI-050GE（$17.0/17.8/18.5，列表 $34.1）；16/24 口 datasheet 对应 STI-21616GP / STI-4240DGGM。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -108,7 +108,7 @@ updated: 2026-10-30
   > 兴趣：200个工业5电口 Cudy的分销商；回复：Datasheet；cpse展会
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mohamed Safeer（Chief Technology Officer（RocketReach 2026-10-29；Crown Group 2012 起；仅 WA）= 收件人 — WA 一页纸 + 规格书：分销 20% B、STI-054GP / STI-280GE $46.6 ×200 阶梯一口价 + 工业 16 / 24 口 STI-0240GE $130 规格书 + 付费样机；Cudy 不点名 — 卡塔尔常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 多哈、CRA 不声称（第 122 批 官方登记核实 2026-10-29）） +974 3362 7118〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
 - 备注：（无首轮调研；由 deepen.py 建档）
 
 ### 加厚挖掘（2026-10-21 · 无域名 · 仅表内信息）
@@ -154,6 +154,28 @@ updated: 2026-10-30
 | 2025-06-26 | 626 | bypasss |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#118 |
 | 2025-10-06 | 106 | dac | cpse展会 | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#118 |
 | ? | 52 | 4 8 16口工业PoE |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#118 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | QA · 1 次检索：rocketreach.co/mohamed-safeer-email_25509741（Chie: Crown Security Solutions W.L.L.（卡塔尔；Crown Group；**RocketReach：Mohamed Safeer = C · 营业中（展会 2025-10 … |
+| ② 角色 / 对位 | 分销商 | 对位词：工业 网络；P1 STI-050GE |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 106 表: dac→cpse展会 ‖ 2025.2.21 表: 工业16 24口出货图→Datasheet |
+| ④ 路径 | 弱 | 无邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+
+**故事线**：卡塔尔·分销商；登记线索：QA · 1 次检索：rocketreach.co/mohamed-safeer-email_25509741（Chie: Crown Security Sol。往来 106→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：106 表: dac→cpse展会 ‖ 2025.2.21 表: 工业16 24口出货图→Datasheet。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STI-050GE；路径：无邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 106 | 表 | 表 | dac｜cpse展会 |  |
+| 2025.2.21 | 表 | 表 | 工业16 24口出货图｜Datasheet |  |
 
 ## 联系方式（已有 · 原值照录）
 

@@ -194,7 +194,7 @@
   "models": "Fiber Media Converter、STC-110FE、STC-110XGE、STC-14DUR、STC-4168XGGCM"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
  "mail_review": {
   "as_of": "2026-10-24",
   "situation": "Vi-Link 是 S 邮箱里最稳定的**美国 OEM 复购客户**：2024-04 一台 L3 光口交换机（STC-4168XGGCM，$452，印 Vi-Link logo）→ 2024-11 五台 10G/1G 媒体转换器 OEM（MC10G / MC1400，$530）→ 2026-09 十台千兆媒体转换器 OEM（MC1000SC03 = LT-MC80G-SC20，$165，T/T 已付、DHL 8604097423 已发）。联系人 Thu Pham 每次都亲自对丝印、字体、PI；单量小（1–10 台）但三次全部成交、零拖欠。2026-09-24 Simon 顺手推了 STC-424XGGPM-280W（1200 RMB/台），Thu 09-25 回「It looks good. I will take a look at the switch. What would be our cost?」，Simon 09-27 只回了「1300RMB/PC」——**一个正在等报价细节的商用 PoE 交换机机会，停在这里 25 天**。",
@@ -592,7 +592,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
   "grade_before": "A",
@@ -611,6 +611,225 @@
    "to": "A",
    "prev_reason": "PI 包成单客户，Simon 标签 可发展 → A",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人: VILINK COMMUNICATIONS, INC.（Vi-Link） · California corporation（实体号待补） · 经营中但明显收缩（Brea 门店 YP 标 CLOSED；D · 1993（Linke"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-12-04",
+    "R",
+    "They are OK, please send them（10G 媒体转换器 OEM 样品）"
+   ],
+   [
+    "2025-05-09",
+    "R",
+    "Can you send me the full price list of your products?"
+   ],
+   [
+    "2025-05-09",
+    "S",
+    "On 2025-03-27 08:00, Simon from Saga Telecom wrote: Hi Simon, Can you send me the full price list of your products? Thank you"
+   ],
+   [
+    "2026-08-19",
+    "R",
+    "I am looking for 10 pcs of 10/100M Fast Ethernet SM SC connectors. Please see the attached information（MC100SC03.pdf）"
+   ],
+   [
+    "2026-08-21",
+    "R",
+    "Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter."
+   ],
+   [
+    "2026-09-08",
+    "R",
+    "This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove thos"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-09-25（1 月前）"
+  ],
+  "size": "1–数人（D&B 1 人；第三方营收估值不可信）（第 84 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记坐实：USA · 加州公司（D&B / ZoomInfo / LinkedIn / 商会名录摘要）+ OCTA 公共招标投标人: VILINK COMMUNICATI。往来 1113→2026-09-27：我方去信 31 封（A 0 / S 25），对方真人来信 11 封 + 表内/备注 3 条；对方问过：2025-05-09 S: On 2025-03-27 08:00, Simon from Saga Telecom wrote: Hi Simon, Can you send me the full price list of your products? Thank you ‖ 2026-08-19 R: I am looking for 10 pcs of 10/100M Fast Ethe。我方报过：$50 / $65 / $75 / $280 / $1500。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-09-25（1 月前）。",
+  "n_out": 31,
+  "n_in": 11,
+  "last_in": "2026-09-25",
+  "last_out": "2026-09-27",
+  "prices_out": [
+   "50",
+   "65",
+   "75",
+   "280",
+   "1500"
+  ],
+  "timeline": [
+   {
+    "date": "2026-08-20",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham",
+    "subj": "",
+    "gist": "Yes, it is [a confirmed order]. Can you let me know the cost and time?",
+    "prices": [],
+    "bulk": false,
+    "k": "ef4bc37cb17aebbf"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "subj": "",
+    "gist": "Thanks for the quote. Can you explain the function of the DIP switches? I haven't seen this type of Media Converter.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s f3802ab4ac196997"
+   },
+   {
+    "date": "2026-08-22",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon（S 邮箱）",
+    "subj": "",
+    "gist": "It is an ON / OFF dialing function… A similar example is Lantronix SGETF series: SW1 Remote Fiber Fault Detect / SW2 Symmetric Pause / SW3 Asymmetric Pause / SW",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s d813f53529c41717"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham",
+    "subj": "",
+    "gist": "My customer didn't like the DIP switches. Do you have 10/100/1000M converters without DIP switches? Our part number is MC1000SC03.",
+    "prices": [],
+    "bulk": false,
+    "k": "8422e68589333f40"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "subj": "",
+    "gist": "Attached is the silkscreen for MC1000SC03. Can you send me the new PI",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s d9d43c891cfc6622"
+   },
+   {
+    "date": "2026-09-03",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham",
+    "subj": "",
+    "gist": "Here is the T/T payment. Can you send me the user manual?",
+    "prices": [],
+    "bulk": false,
+    "k": "32504609055f4294"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham",
+    "subj": "",
+    "gist": "This does not look good. It will look like I use some one products, and it will be off the OEM purposed. Can you fine the way to remove those letters.",
+    "prices": [],
+    "bulk": false,
+    "k": "2b79994c6f5315f7"
+   },
+   {
+    "date": "2026-09-14",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "subj": "",
+    "gist": "1. Vi-Link = Arial - B ; Fiber Optic Communications = Segoe UL Light ; Model = Segoe UL… 2. Can your converter auto-negotiate at 10/100/1000M speeds on the copp",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 70aed6db373006bd"
+   },
+   {
+    "date": "2026-09-21",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham（Vi-Link，thupvilink16@gmail.com）",
+    "subj": "",
+    "gist": "Yes, it looks good. Thank you",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s 473fef5b3fe4d820"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Thu",
+    "subj": "",
+    "gist": "Are you interested in commercial Ethernet switches? I am recommending a popular model. 1200 RMB/PC（附 STC-424XGGPM-280W.docx）",
+    "prices": [],
+    "bulk": false,
+    "k": "6d28c798fba082a8"
+   },
+   {
+    "date": "2026-09-25",
+    "dir": "in",
+    "box": "R",
+    "from": "Thu Pham",
+    "subj": "",
+    "gist": "Thank you - It looks good. I will take a look at the switch. What would be our cost?",
+    "prices": [],
+    "bulk": false,
+    "k": "0ff9007ca6a811e5"
+   },
+   {
+    "date": "2026-09-27",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Thu",
+    "subj": "",
+    "gist": "DHL / 8604097423  1300RMB/PC",
+    "prices": [],
+    "bulk": false,
+    "k": "1da8981202e67e90"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

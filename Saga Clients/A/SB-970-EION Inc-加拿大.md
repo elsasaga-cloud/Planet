@@ -9,7 +9,7 @@
 code: SB-970
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165
 name_official: "EION Inc.（EION Wireless 事业部，eionwireless.com / eion.com，Ottawa-Kanata, ON）"
 score: 26
 country: 加拿大
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：加拿大渥太华的私营无线宽带/4G LTE 系统供应商（2001 年成立；2011 年收购 Aviat Networks 的 WiMAX 业务；51–200 人口径，营收 $20.9M；印度设全球客户支持中心；165+ 渠道伙伴；CEO Dr. Kalai Kalaichelvan）：面向 Tier-1 运营商、ISP、企业、政府、油气、国防与安防行业的点对多点无线接入与 CPE。基站侧/回传汇聚需要工业级 PoE/10G 交换机（为 CPE/AP 供电）——OEM 或配套机会。用户表：WhatsApp 已加，8 次跟进 0 回复。（调研 2026-10-21；表内兴趣：1000M单纤双向收发器）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求）；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 兴趣仅 MC/SFP/配件（边缘品类）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：WhatsApp 已加；推送 8 次（2025-02-27 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — OEM/配套 30% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP，−40~+75 ℃）作基站侧供电/汇聚配件；10G 回传 STI-448XGGGPM；仅民用运营商/企业线。已打开的主题（6/18 封有打开记录）：「100G Data Center Switch」(2024-09-11)、「8 Port 2.5G Switch」(2024-10-08)、「Industrial PoE Switch」(2024-11-12)、「Mini Industrial PoE Switch」(2024-12-10) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-04)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-01-16 $240（24 Port Fiber Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-17 $220（48 port managed switch）、2024-08-16 $65（10G Media Converter）、2025-06-25 $300（48 Port PoE Managed Switch）、2025-09-23 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For the tower and rooftop cabinets behind your LTE base stations, a −40 to +75 °C DIN 8-port PoE+ switch with 2 SFP uplinks (EION label possible) powers CPE and cameras from one box; would your channel partners want it on the price list? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
@@ -147,7 +147,7 @@ updated: 2026-10-30
 - **KP**：Kalai Kalaichelvan（Dr.）（Founder, President & CEO（联邦公司 3921174，2001-07-16；母公司 PomeGran Inc. 含 3 家 ISP）—— 不直接写，抄送（第 89 批 官方登记核实 2026-10-27））—（未公开） +1 613-271-4400（公司）〔https://www.crunchbase.com/organization/eion-wireless〕
 - **KP**：Saf Assadi（CTO = 无线基站 / 工业 PoE 选型人 → 写他（STI 工业系列 -40℃）（第 89 批 官方登记核实 2026-10-27）） 〔https://www.federalcorporation.ca/corporation/3921174〕
 - **KP**：Manny Mistry（VP Sales = ISP 接入侧 24 口管理型选型人 → 写他；研究档原收件 harshul@ 非决策人（第 89 批 官方登记核实 2026-10-27）） 〔https://www.federalcorporation.ca/corporation/3921174〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·加拿大 EION：无线宽带系统商，165+ 渠道，配套交换机需求
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep。
 （无首轮调研；由 deepen.py 建档）
 
@@ -192,6 +192,38 @@ updated: 2026-10-30
 | 2025-09-23 | 923 | dac |  | A |  | Canada 3.5.xlsx#13 |
 | 2025-10-16 | 1016 | 28poe |  | A |  | Canada 3.5.xlsx#13 |
 | ? | 1.16 | 24fiber |  | Email |  | Canada 3.5.xlsx#13 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、: EION Inc.（d/b/a EION Wireless；集团 PomeGran Inc.） · 联邦公司 3921174 · Business Number 870048014 · Activ… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：network poe 交换机 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | ≈40 人（2009）；LinkedIn 51–200；高管 CEO Kalaichelvan / CTO Assadi / VP Eng Sumit Kumar / VP Sales Mistry（… |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：加拿大·集成商/安装商；登记坐实：CA · Corporations Canada 联邦登记镜像（federalcorporation.ca：编号、BN、: EION Inc.（d/b/a EI。往来 2024-06-17→2026-03-04：我方去信 19 封（A 10 / S 8），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $220 / $240 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-01-16 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-05-15 | 去 | A | Commercial PoE Switch |  |
+| 2025-06-25 | 去 | A | 48 Port PoE Managed Switch | $300 |
+| 2025-07-23 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-08-27 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-09-23 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-16 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-11-20 | 去 | A | Booster PoE Switch |  |
+| 2025-12-31 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-28 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-04 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-04 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

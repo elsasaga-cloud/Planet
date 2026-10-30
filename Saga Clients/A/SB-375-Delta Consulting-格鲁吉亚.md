@@ -12,7 +12,7 @@ code: SB-375
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 name_official: "Delta Consulting LLC（დელტა კონსალტინგი）"
 score: 93
 country: 格鲁吉亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：第比利斯领先 IT 系统集成商（2014 年成立，约 30 人，营收约 $2M；CEO/合伙人 George Jaliashvili，商务总监 Daviti Giorgadze），伙伴 Cisco / Dell / Juniper / F5 / Cambium / Teltonika / Dahua / Ruckus，有 CCTV 业务线，服务企业与政府机构；表内：从新桥拿货（给看过 CI，价格约为 Saga 一半），懂 WDM，对 1 光 4 / 2 光 4 小壳有兴趣，2025-11 要「small 8 port high PoE」。（调研 2026-10-22；表内兴趣：从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，可能会需要1光8管理 另外说了24V PoE,不是很确定是不要是要非标PoE）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg）；自动分级 A：+50 Saga 成单（PI 包）；+22 实质回复 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/格鲁吉亚；+5 最近活动 2025
 - **历史互动**：成交/下单过；实质回复 1 次；WhatsApp 已加；推送 14 次（2024-03-01 → 2025-05-29）；最近一次客户回复：2024-11-19：small 8 port high poe
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 CENTEC 汇聚（10G/25G） — J5：换赛道一次｜毛利复盘：首单 26.5%（STC-028GFP 115 / STC-128GFP 120）——正常；按 CENTEC ≥35% 底线；群发里他已看到的价（续）：2026-09-01 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2026-05-15 $280（10G Enterprise SFP Switch）（㉕ 封顶：STI-288DGGPM-2BT 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：George — for the enterprise/government core & aggregation you deploy on Cisco/Juniper, would a CENTEC-based L3 (VXLAN/EVPN) at roughly half the TCO be worth one lab unit?
@@ -163,7 +163,7 @@ updated: 2026-10-30
   > 来源：https://www.ripe.net/membership/member-support/list-of-members/ge/dc/（抓取 2026-10-23）
 - **KP**：George Jaliashvili（CEO / Partner（US SAM 镜像 E-Business / Government POC 同名 = 核实）= **老板 = 联系人**；公司 2020-07 → 2022-07 曾注册美国 SAM（UEI J9LKEG5JR7D6 / CAGE SJFH4；NAICS 541512 + 423690 电子设备批发）= 做过美援 / 国际招标项目，之后未续（第 91 批 官方登记核实 2026-10-27））george@dc.ge +995 577 578 811〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Daviti Giorgadze（）sales@dc.ge +995 32 205 0055〔https://www.dnb.com/business-directory/company-profiles.delta_consulting_llc.7aa4533b0489d16fd5b3bd6748034f92.html〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -227,6 +227,32 @@ updated: 2026-10-30
 | 2025-03-13 | 313 | 工业非管理组合图 |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#6 |
 | 2025-05-13 | 513 | 4 8 16口工业PoE |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#6 |
 | 2025-05-29 | 529 | 洪瑞商业PoE |  | Whatsapp |  | 其他优质欧洲客户 2.26.xlsx#6 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-07-14；**同名陷阱：Delta Consulting LLC Oxford |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：din poe switch 网络；P1 STI-288DGGPM-2BT |
+| ③ 需求证据 | 泛（问价/要目录） | 1119 表: 引流机型→small 8 port high poe ‖ 2023 表: Simon 备注/兴趣栏→从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣， |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前） |
+| ⑤ 规模 | ≥小型 | 小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：格鲁吉亚·集成商/安装商；研究档法定名：DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-。往来 1119→2026-09-01：我方去信 2 封（A 2 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：1119 表: 引流机型→small 8 port high poe ‖ 2023 表: Simon 备注/兴趣栏→从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，。我方报过：$170 / $280。对位：STI-288DGGPM-2BT；路径：企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 1119 | 表 | 表 | 引流机型｜small 8 port high poe |  |
+| 2023 | 表 | 表 | Simon 备注/兴趣栏｜从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣， |  |
+| 2023-07-24 | 来 | R | 8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另外是大货单…数量2500个，以ZX901-AF-821GNS为基础来改来报价：板子加看门狗、不带电源及电源线改用逆变器、导轨安装、接线头改、… |  |
+| 2024-11-19 | 来 | R | 用户表跟进：推「引流机型」→ 对方「small 8 port high poe」 |  |
+| 2026-05-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 成交记录（PI 包 · 自动汇总）
 

@@ -55,7 +55,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\nWA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -164,6 +164,14 @@
    "to": "A",
    "prev_reason": "2 次一般性回复、无具体需求、17 次推送无果 → 慢跟（希腊在欧洲区故保留 B）。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -197,15 +205,212 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 93: bypass→22mini/email"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "GR · 1 次检索：findbiz.gr（ΞΥΓΚΑΚΗΣ, ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ., Ο.Ε.；Εμπορ: ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ. Ο.Ε.「RFCOM」（Xygkakis Konstantinos Il. O.E.；rfcom.gr；塞萨 · Active"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024.2.25",
+    "表",
+    "发了2光4小壳信息→economic cost 4+2 Poe switch 100M 60w"
+   ],
+   [
+    "93",
+    "表",
+    "bypass→22mini/email"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 2024-02-25（32 月前）"
+  ],
+  "size": "待补证",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "希腊·分销商；登记线索：GR · 1 次检索：findbiz.gr（ΞΥΓΚΑΚΗΣ, ΚΩΝΣΤΑΝΤΙΝΟΣ ΗΛ., Ο.Ε.；Εμπορ: ΞΥΓΚΑΚΗΣ ΚΩΝΣΤΑΝΤΙ。往来 103→2026-09-02：我方去信 11 封（A 10 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2024.2.25 表: 发了2光4小壳信息→economic cost 4+2 Poe switch 100M 60w ‖ 93 表: bypass→22mini/email。我方报过：$170 / $280 / $6000。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2024-02-25（32 月前）。",
+  "n_out": 11,
+  "n_in": 0,
+  "last_in": "2024-02-25",
+  "last_out": "2026-09-02",
+  "prices_out": [
+   "170",
+   "280",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8b10f2c8eb763be7"
+   },
+   {
+    "date": "2025-10-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "ce8098a225e7c336"
+   },
+   {
+    "date": "2025-11-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9cc8f91ae09b653f"
+   },
+   {
+    "date": "2025-12-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "9d02d741c59471b8"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "650e6632c699f7ba"
+   },
+   {
+    "date": "2026-02-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "411f4405e07c9b5e"
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b4af60f38e76fc6b"
+   },
+   {
+    "date": "2026-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "86210ca230abd996"
+   },
+   {
+    "date": "2026-07-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "74eff0009fab6cac"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "4b5667e9a7b7ba0a"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "R",
+    "from": "A 群发",
+    "subj": "",
+    "gist": "Mini Industrial PoE Switch、10G Enterprise SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   },
+   {
+    "date": "93",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "bypass",
+    "gist": "22mini/email",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Marmaris Bilişim（土耳其，不会英文，拿别家产品册问 PoE splitter / PON）：品类不对位、无域名",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -103,5 +103,94 @@
    "body": "Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fiber hatlarınız için 2 SFP + 8 port PoE switch 34,6 USD ve endüstriyel medya çevirici 23,4 USD EXW sunabiliriz — ilgilenir misiniz?"
   },
   "as_of": "2026-10-24"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2025: Simon 备注/兴→不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Marmaris Bilişim（土耳其，不会英文，拿别家产品册问 PoE splitter / PON）：品类不对位、无域名"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "TR · 1 次检索（顺带命中）：şikayetvar 结构化数据（Marmaris Bilişim，Sarıana M: Marmaris Bilişim（Marmaris Wifi；Marmaris / Muğla） · Aktif（域 marmarisbilisim.com.tr"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "fiber",
+   "poe",
+   "网络"
+  ],
+  "p1": "STC-228GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025",
+    "表",
+    "Simon 备注/兴趣栏→不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po"
+   ]
+  ],
+  "path": [
+   "弱",
+   "无邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型（1–5 人）（第 91 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "角色未知",
+   "路径弱",
+   "人工终判：Marmaris Bilişim（土耳其，不会英文，拿别家产品册问 PoE splitter / PON）：品类不对位、无域名"
+  ],
+  "story": "土耳其；登记线索：TR · 1 次检索（顺带命中）：şikayetvar 结构化数据（Marmaris Bilişim，Sarıana M: Marmaris Bilişim（M。往来 2025→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2025 表: Simon 备注/兴趣栏→不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-228GP；路径：无邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": true
  }
 }

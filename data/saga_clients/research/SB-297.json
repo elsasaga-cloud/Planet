@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：摩尔多瓦 Chisinau 联系人：无域名/公司主体，表内 1 次问 4+2 百兆千兆 100 个价格；不可核",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -113,10 +113,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
@@ -132,6 +132,141 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：摩尔多瓦 Chisinau 联系人：无域名/公司主体，表内 1 次问 4+2 百兆千兆 100 个价格；不可核"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（gmail；仅表内信息）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "poe"
+  ],
+  "p1": "STC-028GFP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024.4.28",
+    "表",
+    "发了商业POE 128信息→问了4+2百兆千兆100个的价格"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "路径弱",
+   "规模未知",
+   "人工终判：摩尔多瓦 Chisinau 联系人：无域名/公司主体，表内 1 次问 4+2 百兆千兆 100 个价格；不可核"
+  ],
+  "story": "摩尔多瓦·集成商/安装商；未坐实：无域名（gmail；仅表内信息）。往来 2024.4.28→2026-09-02：我方去信 5 封（A 4 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024.4.28 表: 发了商业POE 128信息→问了4+2百兆千兆100个的价格。我方报过：$170 / $6000。对位：STC-028GFP；路径：免费邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 5,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-02",
+  "prices_out": [
+   "170",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2024.4.28",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了商业POE 128信息",
+    "gist": "问了4+2百兆千兆100个的价格",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "649241ac9545ce11"
+   },
+   {
+    "date": "2026-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "9b8fc5250c6e4d52"
+   },
+   {
+    "date": "2026-07-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "ffe75c65c2dcd7e4"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "1844455c10a719fb"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "R",
+    "from": "A 群发",
+    "subj": "",
+    "gist": "10G L3 Managed Switch、32 Port 400GB DC Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

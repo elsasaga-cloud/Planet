@@ -12,7 +12,7 @@ code: SA-027
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Al Salami Trading L.L.C.（AST, Dubai, UAE）"
 score: 83
 country: 阿联酋
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：迪拜老牌电子安防集成商（1989 年创立，Al Salami 集团成员，11–50 人），业务为报警、监控、音视频安防系统的设计、集成、安装与维护。用户表：A 已回复 + 询盘流水，自官网询盘 2 台工业千兆 1 光 4 电。（调研 2026-10-21；表内兴趣：2个工业千兆1光4）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 主动询盘（阿里巴巴/自建站/转介）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 1 次（2025-06-02 → 2025-06-02）；最近一次客户回复：2025-06-02：DS
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-144GP — 不主动。已打开的主题（3/14 封有打开记录）：「Industrial PoE Switch」(2025-03-25)、「Re: Industrial PoE Switch」(2025-06-16)、「Re: Industrial PoE Switch」(2025-07-03) → 读者兴趣偏「工业」；与 P1 同类，继续；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-05-06 $300（48 Port PoE Managed Switch）、2025-10-27 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -142,7 +142,7 @@ updated: 2026-10-30
 - **KP**：—（总机（官网公开））alsalami@emirates.net.ae +971 4 265 0333〔https://www.alsalami.com/〕
 - **KP**：Rashid Al Salami（Chairman / Founder（官网 About））—（未公开） +971 4 265 0333（公司）〔https://www.alsalami.com/about-us/〕
 - **KP**：Reyann Salazar Brosoto（来信署名人（职务未在邮件署名里出现））reyann@alsalami.com +971 52 905 6975（2025-06-16 签名 Mob）〔S/A 邮箱来信 2025-06-16 来信 1 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-06→2025-06）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-06→2025-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走项目复购逻辑；P1 = STI-144GP（1 光 4 电工业千兆，若价格表无则按 SmartByte 型号标注），25% 集成商档，MOQ 1 可直接成交。
@@ -191,6 +191,38 @@ A 维持（主动询盘 + 已回复 + 中东集成商），首单仅 2 台，走
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-06-02 | 2025.6.2 | 22mini | DS | A |  | A Replied 09.04.xlsx#7 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Al Salami Trading L.L.C.（AST；原 Al Salami Trading Establishment, ASTE） · （登记状态不可免费核） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：工业；P1 STI-144GP |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-06-16 A: Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best Regards, Reyann  ‖ 2025.6.2 表: 22mini→DS |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-06-16（16 月前） |
+| ⑤ 规模 | 个人/微型 | 10–19（Kompass）/ 11–50（LinkedIn，2,183 followers） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：阿联酋·集成商/安装商；登记线索：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Al Salami Trading 。往来 2025-03-25→2026-09-07：我方去信 14 封（A 14 / S 0），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-06-16 A: Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best Regards, Reyann  ‖ 2025.6.2 表: 22mini→DS。我方报过：$170 / $280 / $300。对位：STI-144GP；路径：企业邮箱 MX ok + WA；最近来信 2025-06-16（16 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-16 | 来 | A | RE: Industrial PoE Switch｜Dear Mr. Alan, Do you have datasheet for below industrial switch? And do you have any showroom location here in Dubai? Best … |  |
+| 2025-07-03 | 去 | A | Re: Industrial PoE Switch |  |
+| 2025-08-04 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-09-09 | 去 | A | Commercial PoE Switch |  |
+| 2025-10-27 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-25 | 去 | A | Booster PoE Switch |  |
+| 2025-12-26 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.6.2 | 表 | 表 | 22mini｜DS |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-15 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -46,7 +46,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n规格明确（12 光 12 电，2 台）、3 次回复、WA 在线 → 可追溯真实需求且小单可成；南美非主攻区但不需额外投入。P1：SmartByte 12 光 12 电管理型（按 docs/smartbyte/products 核对 24 口 combo 机型，报价前核价），项目价阶 25%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -198,7 +198,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -217,6 +217,154 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAm: RYMTECH E.A.S. · RUC 80125463-9 · 美国 CAGE 代码持有（名录） · Activo（政府采购登记在册） · 2015（Conne"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "交换机",
+   "网络"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1.2",
+    "表",
+    "mini→问了高速的 后续没进展了"
+   ],
+   [
+    "1011",
+    "表",
+    "2.5g/10g network→有兴趣 让发资料"
+   ],
+   [
+    "2024.2.9",
+    "表",
+    "发工业电源最新的价格册→I will check"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-01-02（21 月前）"
+  ],
+  "size": "Micro（政府采购登记）/ 50（ConnectAmericas 自报）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "巴拉圭·集成商/安装商；登记坐实：Paraguay · 政府采购平台 DNCP 供应商登记 + SET（RUC）+ CAGE 名录 + ConnectAm: RYMTECH E.A.S. · R。往来 1.2→2025-01-02：我方去信 2 封（A 0 / S 2），对方真人来信 0 封 + 表内/备注 3 条；对方问过：1.2 表: mini→问了高速的 后续没进展了 ‖ 1011 表: 2.5g/10g network→有兴趣 让发资料 ‖ 2024.2.9 表: 发工业电源最新的价格册→I will check。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2025-01-02（21 月前）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "2025-01-02",
+  "last_out": "2024-10-11",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "1.2",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "mini",
+    "gist": "问了高速的 后续没进展了",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "1011",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "2.5g/10g network",
+    "gist": "有兴趣 让发资料",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-02-09",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发工业电源最新的价格册」→ 对方「I will check」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 2024.2.9"
+   },
+   {
+    "date": "2024-09-09",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini industrial switch",
+    "gist": "Mini industrial switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ac4dacf4a3e987e2"
+   },
+   {
+    "date": "2024-10-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G/10G network switch",
+    "gist": "2.5G/10G network switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ff2fdd83c9098338"
+   },
+   {
+    "date": "2024-10-11",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「2.5g/10g network」→ 对方「有兴趣 让发资料」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1011"
+   },
+   {
+    "date": "2024.2.9",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发工业电源最新的价格册",
+    "gist": "I will check",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2025-01-02",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「mini」→ 对方「问了高速的 后续没进展了」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.52 1.2"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -12,7 +12,7 @@ code: SB-367
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 name_official: "Công ty Cổ Phần MTS（thuyluc.com，越南液压公司）"
 score: 44
 country: 越南
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：越南 MTS 股份公司，主业液压（软管、阀、泵、油缸、滤芯），非网络行业；表内联系人 Lee 曾询 2 光 6 电非管理非 PoE SC 20 km（未成）。行业外偶发需求，保留 B 低优先。（调研 2026-10-21；表内兴趣：2光6电非管理非POE SC 20km 没成）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06））；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06））；自动分级 B：+22 实质回复 1 次；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/越南；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；WhatsApp 已加；推送 12 次（2024-02-27 → 2025-01-07）；最近一次客户回复：2024-06-20：Email发了2光6小壳信息
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（5/11 封有打开记录）：「Re: 8 port fiber switch」(2024-06-22)、「Re: 8 port fiber switch」(2024-06-25)、「Re: 8 port fiber switch」(2024-07-18)、「48 Port PoE Managed Switch」(2024-12-19) → 读者兴趣偏「MC/光电」；与 P1 同类，继续；他见过的实报（2024-06-22）：STI-260FE $35 / STI-266FP $40（10 台档）；—；群发里他已看到的价（续）：2026-10-20 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续，第 66 批全量复核）：2024-10-25 $65（10G Media Converter）、2024-12-19 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-10；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -127,7 +127,7 @@ updated: 2026-10-30
   > 兴趣：2光6电非管理非POE SC 20km 没成
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ly Thanh Ha (Lee Thanh Ha)（表内联系人 Lee（液压公司；偶发询 2 光 6 电）— 不动，不发（第 119 批 官方登记核实 2026-10-28））hydraulics@vnn.vn；chuyengiathuykhi@gmail.com（2024-06 来信地址） +84 912 336 758〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -181,6 +181,38 @@ updated: 2026-10-30
 | 2024-12-05 | 125 | 22Mini |  | Email |  | VN.xlsx#162 |
 | 2024-12-18 | 1218 | 48口 |  | Email |  | VN.xlsx#162 |
 | 2025-01-07 | 1.7 | 24 |  | Email |  | VN.xlsx#162 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc t: CÔNG TY CỔ PHẦN MTS / MTS JSC（thuyluc.com；**MST 0101892941；发 · MST 0101892941 · 营业中 · 2006-03-20 |
+| ② 角色 / 对位 | 分销商 | 对位词：poe 网络；P1 STI-280GE |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-06-21 S: Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Th |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2024-06-21（28 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+
+**故事线**：越南·分销商；登记坐实：VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc t: CÔNG TY CỔ PHẦN MT。往来 2024-06-21→2026-10-20：我方去信 13 封（A 0 / S 11），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-06-21 S: Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Th。我方报过：$65 / $180 / $300。对位：STI-280GE；路径：企业邮箱 + WA；最近来信 2024-06-21（28 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-06-22 | 去 | S | Re: 8 port fiber switch |  |
+| 2024-06-22 | 去 | R |  |  |
+| 2024-06-25 | 去 | S | Re: 8 port fiber switch |  |
+| 2024-07-18 | 去 | S | Re: 8 port fiber switch |  |
+| 2024-08-15 | 去 | S | 8 port poe switch |  |
+| 2024-09-16 | 去 | S | 8 Port Ethernet Switch |  |
+| 2024-10-25 | 去 | S | 10G Media Converter | $65 |
+| 2024-12-05 | 去 | S | Mini Industrial PoE Switch |  |
+| 2024-12-19 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2025-01-07 | 去 | S | Industrial PoE Switch |  |
+| 2026-09-10 | 去 | R |  |  |
+| 2026-10-20 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

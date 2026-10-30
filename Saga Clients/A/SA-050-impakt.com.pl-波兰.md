@@ -12,7 +12,7 @@ code: SA-050
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 name_official: "Impakt S.A.（Mosina，波兰；自有品牌 Genesis / Lanberg / Natec / Fury / Armac / Audictus）"
 score: 74
 country: 波兰
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：波兰 IT 硬件'制造商+分销商'，自有品牌组合含网络品牌 Lanberg；>150 员工，2025 年营收 1.52 亿 PLN（约 3,500 万欧元），3,500+ 自有品牌 SKU，销往 40+ 国；联系人为 Product Dev Manager，曾就'一个定制品'回复。（调研 2026-10-21；表内兴趣：一个定制品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-09→2025-10））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-09→2025-10））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；-6 群发批次名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/波兰；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 8 次（2025-04-04 → 2025-10-21）；最近一次客户回复：2025-09-16：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-110GE 类 1G SFP MC（CE 电源版）+ STC-28DGGPM 8 口 PoE 对位表 — J2：波兰次重点 + 自有品牌 + 决策人在手 = 少数值得写第二封的户。已打开的主题（5/30 封有打开记录）：「Industrial PoE Switch」(2025-09-16)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-09-29)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-03)、「Re: FW: [EXTERNAL] Industrial PoE Swit」(2025-10-15) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1 最近一封去信是 2026-09-28 A 邮箱 AC5 管理 PoE 模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Download Link_Alan(2025-09-29)、STC-110GE(2025-10-03)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-16)、Saga Feature List_7.5.x_L2+(2026-07-20)；7.5 Feature List 与 2026Q3 链接都已给过 → 下一封不能再是资料推送，只能是针对其需求的一句话/一个问题；Elsa 2025-09-25 实报 STC-4168XGGCM 双 AC $280（= 群发价，≈ 进价，Łukasz 未接）；按 30% 自有标档（MC 13 USD 为 2025-10 报价，需按现价表重算）；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-08-05 $65（10G media converter）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-06-15 $220（48 port managed switch）、2025-05-26 $300（48 Port PoE Managed Switch）、2025-10-21 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-25 $300（48 Port PoE Managed Switch = STC-448XGGPM，Elsa 箱 2 轮 2025-04-28→2025-05-25；现表 $335.4@20%、Drive 老表 $335——同款写 $335 要先说 2025 群发是 $300、汇率 7.2→6.7）
 - **第一问（只问一个）**：Is the Lanberg media-converter refresh still planned for 2027, and would a CE-PSU 1G SFP MC at the 13-USD class go into it?
@@ -180,7 +180,7 @@ updated: 2026-10-30
 - **KP**：Łukasz Gąsiewicz（Product Dev Manager）lukasz.gasiewicz@impakt.com.pl 〔用户 Clients 表（已回复）〕
 - **KP**：Bartosz Krawczyk（（用户记录））bartosz.krawczyk@impakt.com.pl 〔用户 Clients 表〕
 - **KP**：Marcin Chojnacki（Prezes Zarządu（董事长 / CEO）—— 只签框架；日常对接 product@ 的产品经理（第 83 批 官方登记核实 2026-10-27）） 〔https://rejestr.io/krs/585900/impakt〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-09→2025-10）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-09→2025-10）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 体量偏大但不在巨头名单，且是典型'自有品牌找中国工厂贴牌'模型：Lanberg 品牌有交换机/PoE/机柜线 → Saga 以 SmartByte Marvell 管理型/PoE 机型做 Lanberg 的 OEM 补充 SKU 最对路。KP 为产品开发经理（决策链正确）。价阶 30%（OEM）；需准备神秘包装/无 logo + CE/RoHS/REACH 文件。注意其直接找工厂的可能 → 强调 MOQ 1、10–15 天交期、混 SKU 小批量。
 
@@ -240,6 +240,38 @@ updated: 2026-10-30
 | 2025-10-21 | 1021 | dac |  | A |  | PL 2.6.xlsx#34 |
 | ? | 74 | 16电 |  | A |  | PL 2.6.xlsx#34 |
 | ? | 86 | 22mini |  | A |  | PL 2.6.xlsx#34 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Poland · KRS（rejestr.io / bizraport.pl / okredo 镜像，财报来自 KRS : IMPAKT SPÓŁKA AKCYJNA · KRS 0000585900 · NIP 7831720485 · REGON  · Czynny（活跃）· 最近登记第 43 号 2025-07 … |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：poe 交换机 网络；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-09-29 A: Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marvell based industrial PoE switc ‖ 2025-10-03 A: [cid:image001.png@01DC3465.BD049E50] We looking f… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-10-03（12 月前） |
+| ⑤ 规模 | ≥小型 | >150 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：波兰·OEM 品牌商；登记坐实：Poland · KRS（rejestr.io / bizraport.pl / okredo 镜像，财报来自 KRS : IMPAKT SPÓŁKA AKCY。往来 2024-06-15→2026-09-28：我方去信 33 封（A 23 / S 7），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-09-29 A: Hi &#128521; I cooworking with Bartosz pls send me you actual offer „ Hi, Bartosz, How are you? This is a Marvell based industrial PoE switc ‖ 2025-10-03 A: [cid:image001.png@01DC3465.BD。我方报过：$13 / $65 / $170 / $220 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-10-03（12 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025.9.16 | 表 | 表 | 24PoE｜INFO |  |
+| 2026-02-06 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-01 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-05-07 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-09 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-16 | 去 | A | Saga Q3 Product Links |  |
+| 2026-07-20 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-21 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-09-28 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

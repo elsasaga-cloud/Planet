@@ -34,7 +34,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
  "notes": "典型「自助式回复」断点（Simon 2024 的做法）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -134,16 +134,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-05-16] Thank you for fast reply, Is there a price list and MOQ on your equipment? We have some peaces of equipment we ‖ [S 2024-05-16] Hi Simon, We would be interested i ordering somw products for testing. Can you provide a catalog of your produ ‖ 研 2024-05-16 Aleksandar Nedić: We would be interested i ordering somw products for testing. Can you provide a c / 2024-05-16 Aleksandar Nedić: I"
+  "evidence": "[S 2024-05-16] Thank you for fast reply, Is there a price list and MOQ on your equipment? We have some peaces of equipment we ‖ [S 2024-05-16] Hi Simon, We would be interested i ordering somw products for testing. Can you provide a catalog of your produ"
  },
  "override_history": [
   {
@@ -153,6 +153,214 @@
    "to": "A",
    "prev_reason": "欧洲（塞尔维亚）、两封主动来信、明确想买测试样机；断点在我们（让客户自己去 Drive 翻）；B 慢慢跟进。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 2 条（S；2024-05→2024-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-05）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "RS · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Aleksandar Nedić — NAT te: Aleksandar Nedić（Gmail；塞尔维亚）— LinkedIn 同名「Founder and owner of NAT tech doo, Bel · 未取"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "poe",
+   "网络"
+  ],
+  "p1": "先问他要哪一类（工业 PoE 最可能：2024-05 原线程是 Industrial PoE Switch）；STI-154GP / STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-05-16",
+    "R",
+    "Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business "
+   ],
+   [
+    "2024-05-16",
+    "R",
+    "We would be interested i ordering somw products for testing. Can you provide a catalog of your products?"
+   ],
+   [
+    "2024-05-16",
+    "S",
+    "Hi Simon, We would be interested i ordering somw products for testing. Can you provide a catalog of your products?"
+   ],
+   [
+    "2024-05-16",
+    "S",
+    "Thank you for fast reply, Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looki"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱；最近来信 2024-05-16（29 月前）"
+  ],
+  "size": "（未核）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "塞尔维亚·分销商；登记线索：RS · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Aleksandar Nedić — NAT te: Aleksandar Nedić（G。往来 2024-05-16→2026-09-15：我方去信 28 封（A 16 / S 11），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-05-16 R: Is there a price list and MOQ on your equipment? We have some peaces of equipment we are looking for. We are looking to expand our business  ‖ 2024-05-16 R: We would be interested i orde。我方报过：$280 / $300 / $6000。对位：先问他要哪一类（工业 PoE 最可能：2024-05 原线程是 Industrial PoE Switch）；STI-154GP / STI-288DGGPM；路径：免费邮箱；最近来信 2024-05-16（29 月前）。",
+  "n_out": 28,
+  "n_in": 2,
+  "last_in": "2024-05-16",
+  "last_out": "2026-09-15",
+  "prices_out": [
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "28d4d174d936e4f1"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "1d735d2aa7174d7e"
+   },
+   {
+    "date": "2025-11-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ab084c5f71de61c2"
+   },
+   {
+    "date": "2025-12-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "ca18d0160c356864"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "fcfe6e1e5be663f2"
+   },
+   {
+    "date": "2026-02-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "72f818a2a2844927"
+   },
+   {
+    "date": "2026-03-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "a961d3c1d7f171b5"
+   },
+   {
+    "date": "2026-04-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5f68b0080f5de55d"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b27859329c5793cf"
+   },
+   {
+    "date": "2026-06-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "546d76b50652b52e"
+   },
+   {
+    "date": "2026-07-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "WiFi 7 Ready Access Switch",
+    "gist": "WiFi 7 Ready Access Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "835ea0c093ff61b0"
+   },
+   {
+    "date": "2026-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "93ed1481a43783e3"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

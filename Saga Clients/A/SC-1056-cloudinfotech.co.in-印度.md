@@ -11,7 +11,7 @@ code: SC-1056
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 name_official: "cloudinfotech.co.in"
 score: 15
 country: 印度
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度客户（cloudinfotech.co.in）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）。公司底数未查（新入库即查排队）。（调研 2026-10-30；表内兴趣：百通）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 C：+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 C：+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-30）**：— — ；他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -58,6 +58,8 @@ updated: 2026-10-30
 |---|---|---|---|---|---|
 | 2024-11-29 | 来 | info@cloudinfotech.co.in | Re: 8 Port Industrial PoE Switch｜Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal | S 邮箱 真人来信（pos） | `d69f19128185f945` |
 | 2024-11-29 | 来 | info@cloudinfotech.co.in | Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. -- | S 邮箱 真人来信（pos） | `a61788166240b801` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Cloud InfoTech … telecom and networking solutions … Trader - Wholesaler/Distributor · Company CEO Rajiv Goyal · 51 to 100 People · Annual Turnover 25 - 100 Cr · GST 09AAHCC3784F1ZG | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -107,7 +109,7 @@ updated: 2026-10-30
 - **【邮箱来信/用户表】Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. --**
   > Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. --
   > 来源：a61788166240b801（抓取 2024-11-29）
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）
 - 备注：（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）
 
 ### 加厚挖掘（2026-10-30 · AB-FINAL-01 回信建档）
@@ -121,6 +123,41 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 未坐实 | 待快照 |
+| ② 角色 / 对位 | 未知 | 对位词：din；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-11-29 S: Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal ‖ 2024-11-29 S: Hi Simon, Share the best price. -- |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-11-29（23 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：身份未坐实；角色未知；规模未知；人工终判：Cloud Infotech Private Limited（诺伊达；CIN U74999UP2018PTC100481；电信/网络分销商，51–100 人，年营业额 25–100 千万卢比；服务 ISP / SMB / 安防）：回信人 Rajiv Goyal 就是 CEO/董事，2024-11 要全系工业交换机 + 最优价 |
+
+**故事线**：印度；未坐实：待快照。往来 2024-06-20→2026-09-21：我方去信 14 封（A 5 / S 9），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-11-29 S: Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal ‖ 2024-11-29 S: Hi Simon, Share the best price. --。我方报过：$65 / $170 / $280。对位：待定；路径：企业邮箱 MX ok；最近来信 2024-11-29（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-11-29 | 去 | S | Re: 8 Port Industrial PoE Switch |  |
+| 2024-11-29 | 来 | S | Re: 8 Port Industrial PoE Switch｜Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal |  |
+| 2024-11-29 | 去 | S | Re: 8 Port Industrial PoE Switch |  |
+| 2024-11-29 | 来 | S | Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. -- |  |
+| 2024-11-29 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-12-12 | 去 | S | Re: 8 Port Industrial PoE Switch |  |
+| 2025-01-06 | 去 | S | 16 Port Ethernet Switch |  |
+| 2026-05-01 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-16 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-24 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-01 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
+
+- 网查（2026-10-30）：Cloud InfoTech … telecom and networking solutions … Trader - Wholesaler/Distributor · Company CEO Rajiv Goyal · 51 to 100 People · Annual Turnover 25 - 100 Cr · GST 09AAHCC3784F1ZG — <https://www.cloud-infotech.co.in/profile.html>
+- 网查（2026-10-30）：CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active — <https://www.zaubacorp.com/CLOUD-INFOTECH-PRIVATE-LIMITED-U74999UP2018PTC100481>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

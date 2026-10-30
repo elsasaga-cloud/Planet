@@ -302,16 +302,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-01→2025-01）",
+  "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-01→2025-01）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-01-30] What is the price? -- Pozdrawiam, *Katarzyna Surowiec*Asystentka Zarządu *Phone* +48 81 743 86 43 *Web* www.bi ‖ 表 2025.1.30: 28BT→INFO ‖ 研 2025-01-30 Katarzyna Surowiec: What is the price? / 2025-01-30 ksurowiec@bitstream.pl: Re: 90W PoE Managed Switch｜What is the price?  -- Pozdrawiam,    *Katarzyna Suro"
+  "evidence": "[A 2025-01-30] What is the price? -- Pozdrawiam, *Katarzyna Surowiec*Asystentka Zarządu *Phone* +48 81 743 86 43 *Web* www.bi ‖ 表 2025.1.30: 28BT→INFO"
  },
  "override_history": [
   {
@@ -321,8 +321,210 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-01→2025-01）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-01→2025-01）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-01→2025-01）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2025-01→2025-01）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-01→2025-01）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像）: BITSTREAM SPÓŁKA AKCYJNA（原 Bitstream Sp. z o.o.，KRS 00002662 · KRS 0001010572（S.A.，2023-01-02）· 旧 KRS 0 · Aktywna · 最近登记第 21 号 2026-08-1 · Sp. z o.o."
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "poe",
+   "sfp",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STC-424XGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-01-30",
+    "A",
+    "What is the price? -- Pozdrawiam, *Katarzyna Surowiec*Asystentka Zarządu *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@b"
+   ],
+   [
+    "2025.1.30",
+    "表",
+    "28BT→INFO"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-08-11（2 月前）"
+  ],
+  "size": "小型（trade.gov.pl）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "波兰·OEM 品牌商；登记坐实：Poland · KRS（rejestr.io / imsig.pl / krs-pobierz.pl 镜像）: BITSTREAM SPÓŁKA AKCYJN。往来 2024-06-24→2026-09-07：我方去信 20 封（A 14 / S 6），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-01-30 A: What is the price? -- Pozdrawiam, *Katarzyna Surowiec*Asystentka Zarządu *Phone* +48 81 743 86 43 *Web* www.bitstream.pl *Email* ksurowiec@b ‖ 2025.1.30 表: 28BT→INFO。我方报过：$65 / $140 / $170 / $280 / $300。对位：STC-424XGGPM-280W；路径：企业邮箱 MX ok；最近来信 2026-08-11（2 月前）。",
+  "n_out": 20,
+  "n_in": 1,
+  "last_in": "2026-08-11",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "65",
+   "140",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-05-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "3d693e8677cc626a"
+   },
+   {
+    "date": "2025-07-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "ecc70bbdabb37ae2"
+   },
+   {
+    "date": "2025-08-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e543915770793398"
+   },
+   {
+    "date": "2025-09-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8bccd8e45ee6a206"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "9e4607a42378ce99"
+   },
+   {
+    "date": "2025-11-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "71ba1deef91a5cb4"
+   },
+   {
+    "date": "2025-12-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "973cd1df39b78827"
+   },
+   {
+    "date": "2025.1.30",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "28BT",
+    "gist": "INFO",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "527bb0d44ae0b8f4"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "in",
+    "box": "A",
+    "from": "ahyz@bitstream.pl",
+    "subj": "Nieobecność Re: 24 Port PoE Managed Switch",
+    "gist": "W dniach 07-21.08.2026 jestem na urlopie. W sprawach pilnych proszę kontaktować się z Tomaszem Jargieło na adres mailowy tjargielo@bitstream.pl -- Z poważaniem,",
+    "prices": [],
+    "bulk": true,
+    "k": "97cffda9f4680ebc"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "b4986125c629481d"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "559de04d8706b132"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

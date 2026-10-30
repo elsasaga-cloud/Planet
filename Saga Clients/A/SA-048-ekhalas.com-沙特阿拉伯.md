@@ -12,7 +12,7 @@ code: SA-048
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 
 name_official: "Al Rajhi Telecom Company / Silkroad Business Solutions（eKhalas 电商平台）"
 score: 75
 country: 沙特阿拉伯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特利雅得电信承包商（2005 年起）+ ICT 系统集成（2015 年起）+ 自营 B2B 电商 ekhalas.com；自称全沙特 3,000+ 客户，并有自有品牌进入零售；平台卖 Vivotek PoE 交换机、TP-Link Omada、华为 eKit、Dahua 等。（调研 2026-10-21；表内兴趣：工业FS 用的OTS的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→））；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→））；自动分级 A：+22 实质回复 1 次；+10 谈到样品/测样；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-10-22：想测样
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-154GP（1 SFP + 1 GE 上联 + 4 PoE，120W，非管理）——2024 报 36 USD，现价按 `价格主表` 20/25/30 规则重算后再报 — 一次性修正收件人 + 一句话，成本≈0；中东非主攻，不追加。已打开的主题（1/26 封有打开记录）：「Industrial PoE Switch」(2024-10-22) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1｜已发资料（勿重发）：Saga Feature List_7.5.x_L2+(2026-07-02)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 25% 集成档，格式 `$xx USD EXW（快照日期，15 天有效）`；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-24 $65（10G media converter）、2024-12-12 $300（48 Port PoE Managed Switch）；**第 63 批基准统一（规则 ㉕）**：STI-154GP 列表价 $51.7 → 老表 $47（非管理工业线）；群发里他已看到的价（续）：2026-08-14 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-02-27 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）；STI-154GP 文本价 $47（任何价表无此数）→ $39.2（25% 档，主表）+ 对他 2024 实报 $36 的汇率说明
 - **第一问（只问一个）**：Your 2024 sample request for the 4-port industrial PoE (STI-154GP, 36 USD then) — still relevant for a current site, or has the need moved to 8/16 ports?
@@ -183,7 +183,7 @@ updated: 2026-10-30
   > Company size: 501-1,000 employees … Specialties: Cyber Security, Low Current, Telecommunication … CCTV, Public Address System, Access Control System, IPTV, Fire Alarm System, Data Passive System, Cisco Premium Partners
   > 来源：https://www.linkedin.com/company/alrajhitel/（抓取 2026-10-21）
 - **KP**：Inam（（用户记录联系人））info@ekhalas.com +966 11 4221089〔用户 Clients 表 + 官网联系页〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 1 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 有 1 次实质回复；工业 FS 在用 OTS（用户记录）。集成+电商双身份、且做自有品牌 → 可谈 OEM 贴牌或平台铺货。中东非主攻区但客户规模与贴牌意愿值得长期跟。P1 建议 STI-288DGGPM（工业 PoE 对位 OTS），电商/分销价阶 20%；若走自有品牌 30%。
 
@@ -259,6 +259,38 @@ updated: 2026-10-30
 | 2025-08-27 | 827 | 24poe |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#14 |
 | 2025-09-23 | 923 | dac |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#14 |
 | 2025-10-23 | 1023 | 2 16 |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#14 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）: Al Rajhi Telecom Company（Al Rajhi Building & Construction 子公司）；关联 Silkroad Busin · （登记状态不可免费核） |
+| ② 角色 / 对位 | 分销商 | 对位词：din ethernet fiber media converter network poe sfp switch；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 1022 表: 154→想测样 ‖ 2024-10-22 R: Please send me a sample to test |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-09-22（1 月前） |
+| ⑤ 规模 | ≥小型 | 501–1,000（LinkedIn，3,078 followers） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：沙特阿拉伯·分销商；登记线索：沙特 · 商业登记（CR）仅 Wathq 付费 API；本行为「无登记源」记录（据第 79 批研究档）: Al Rajhi Telecom Company（Al。往来 1022→2026-09-22：我方去信 27 封（A 20 / S 6），对方真人来信 0 封 + 表内/备注 1 条；对方问过：1022 表: 154→想测样 ‖ 2024-10-22 R: Please send me a sample to test。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱 MX ok；最近来信 2026-09-22（1 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-11-18 | 去 | A | Booster PoE Switch |  |
+| 2025-12-19 | 去 | A | Marvell Industrial Alert System |  |
+| 2026-01-29 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-23 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-08 | 去 | A | Industrial PoE Switch |  |
+| 2026-04-24 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-12 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-10 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-02 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-08-14 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-22 | 来 | A | Thank you for contacting us!Dear｜Thank you for reaching out to us regarding your query. We appreciate you taking the time to contact our team, and we … |  |
+| 2026-09-22 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

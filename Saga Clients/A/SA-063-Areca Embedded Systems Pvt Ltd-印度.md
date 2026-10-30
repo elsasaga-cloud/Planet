@@ -12,7 +12,7 @@ code: SA-063
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 
 name_official: "Areca Embedded Systems Private Limited（Hyderabad, India；前身 Aster Electrosoft Pvt. Ltd.）"
 score: 67
 country: 印度
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：印度嵌入式/网络系统公司，WA 在线，4 次回复、13 次跟进，规格明确：8 光 8 电管理型、非 PoE、L2 与 L3 都要、SC 与 SFP 光口都要。（调研 2026-10-21；表内兴趣：8光8电带管理    不要POE L2 L3 SC和SFP光都要）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 4 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度；+5 最近活动 2025
 - **历史互动**：实质回复 4 次；WhatsApp 已加；推送 13 次（2024-01-17 → 2025-06-21）；最近一次客户回复：2024-11-18：BIS
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-448XGGPM 类 — 8 光 8 电管理（L2/L3 分档）→ 先确认应用与温度范围再定机壳/固件档；—
 - **第一问（只问一个）**：Before I confirm the 8-SFP + 8-RJ45 managed L2/L3 unit, could you tell me the end application and ambient range, so I quote the right housing and firmware build rather than a generic one?
@@ -152,7 +152,7 @@ updated: 2026-10-30
   > 来源：https://www.thecompanycheck.com/company/areca-embedded-systems-private-limited/U72200TG2007PTC053397（抓取 2026-10-21）
 - **KP**：（见 Clients 表联系人）（） +91 90000 50555（WA）〔用户 Clients 表〕
 - **KP**：Rashmi Jain（Director 兼股东（DIN 01336337，2018-03-20 起）= 现任实控人；2026-04-24 新增董事 Nilesh Bastimal Jain；Gutta Venkata Kumari（2015 起）2026 名单疑已卸任（第 83 批 官方登记核实 2026-10-27）） 〔https://www.falconebiz.com/company/ARECA-EMBEDDED-SYSTEMS-PRIVATE-LIMITED-U72200TG2007PTC053397〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 规格细到光口类型（SC/SFP）与 L2/L3 分档 = 真实项目选型；4 次回复、WA 在线。印度非主攻区但无需额外投入。P1：SmartByte 8 光 8 电管理型（L2）+ STC-448XGGM(L3) 类 L3 选项（按 docs/smartbyte/products 核对 8F8T 型号与 SC 口可选，报价前核价），项目价阶 25%。
 
@@ -215,6 +215,38 @@ updated: 2026-10-30
 | 2024-10-22 | 1022 | 电口 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#66 |
 | 2024-11-18 | 1118 | 引流机型 | BIS | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#66 |
 | 2025-06-21 | 621 | 工业非管理组合图 |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#66 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings : ARECA EMBEDDED SYSTEMS PRIVATE LIMITED · CIN U72200TG2007PTC053397 · RoC Hyderaba · Active · 最近 AG… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：industrial poe sfp 光纤 网络；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 1118 表: 引流机型→BIS ‖ 2024.1.17 表: 发了2光4相关信息→问了8光8 L3管理 ‖ 2024.6.17 表: 发了48口引流信息→问了MPLS |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：印度·集成商/安装商；登记坐实：India · MCA 公司登记（Zauba / Tofler / FalconEbiz / IndiaFilings : ARECA EMBEDDED SYS。往来 1118→2024-11-18：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 6 条；对方问过：1118 表: 引流机型→BIS ‖ 2024.1.17 表: 发了2光4相关信息→问了8光8 L3管理 ‖ 2024.6.17 表: 发了48口引流信息→问了MPLS。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 1118 | 表 | 表 | 引流机型｜BIS |  |
+| 2024-01-17 | 来 | R | 用户表跟进：推「发了2光4相关信息」→ 对方「问了8光8 L3管理」 |  |
+| 2024-01-20 | 来 | R | 用户表跟进：推「发了规格书和管理手册」→ 对方「will check」 |  |
+| 2024-02-27 | 来 | R | 用户表跟进：推「发了2光16电信息」→ 对方「用不到」 |  |
+| 2024-06-17 | 来 | R | 用户表跟进：推「发了48口引流信息」→ 对方「问了MPLS」 |  |
+| 2024-07-15 | 来 | R | 用户表跟进：推「3个2光8PoE」→ 对方「will check」 |  |
+| 2024-11-18 | 来 | R | 用户表跟进：推「引流机型」→ 对方「BIS」 |  |
+| 2024.1.17 | 表 | 表 | 发了2光4相关信息｜问了8光8 L3管理 |  |
+| 2024.1.20 | 表 | 表 | 发了规格书和管理手册｜will check |  |
+| 2024.2.27 | 表 | 表 | 发了2光16电信息｜用不到 |  |
+| 2024.6.17 | 表 | 表 | 发了48口引流信息｜问了MPLS |  |
+| 2024.7.15 | 表 | 表 | 3个2光8PoE｜will check |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

@@ -57,7 +57,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（AS；2024-11→2026-03）",
  "notes": "国别未填：信中「our market」未点名；姓氏 Beltetón 多见于危地马拉（待证）。非欧美土主攻，但是仓内唯一一个把 STH1G（CENTEC 48×1G PoE 堆叠线）谈到参数层面的客户（另一个是 SB-826 Versitron，只发未回）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -187,6 +187,14 @@
     "quote": "Yes, let's do CENTEC solution… we will focus on STH-2QX4DX48GP-HSI. About stacking: 1. max 8 units; 2. bandwidth max 360Gbps, uplinks 2*40G and 4*25G; 3. fiber uplinks for stacking; 4. both chain and ring… what is the quantity you need?",
     "why": "对表完成但没给价——断点",
     "k": "offer"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Walter Arnoldo Belteton Mohr — Consultor de diseño de soluciones en Smart Cities de Centroamérica · Guatemala（LinkedIn「其他人还看过」侧栏，2026-10-30）",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://gt.linkedin.com/in/jorge-mondal-chew-86329256"
    }
   ],
   "proof_gaps": [
@@ -215,19 +223,242 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（AS；2024-11→2026-03）"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 5 封 / 表内 0 条 / 研究档 5 条（AS；2024-11→2026-03）",
+  "reason": "真回信 5 封 / 表内 0 条 / 研究档 1 条（AS；2024-11→2026-03）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-03-10] Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I ha ‖ [A 2026-03-11] Hi Alan, Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stackin ‖ 研 2026-03-10 Arnoldo（Solution Architect）: I have a client who's requesting several switches similar to the Cisco C9300L-48 / 2026-03-11 Arnoldo:"
- }
+  "evidence": "[A 2026-03-10] Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I ha ‖ [A 2026-03-11] Hi Alan, Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stackin ‖ 研 2024-11-23 Arnoldo（arnoldomohr@gmail.com，S 邮箱）: 「Yes I need some samples for testing, can you send to me?」（回 11-15 的 24 口被动 PoE "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（gmail）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "poe",
+   "sfp",
+   "switch",
+   "交换机"
+  ],
+  "p1": "STH-2QX4DX48GP-HSI（CENTEC STH1G，48×PoE++ + 4×25G + 2×40G，堆叠 ≤8）",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-01-19",
+    "A",
+    "Dear Alan, Thank you for the information. These switches seem very comprehensive and powerful. I'm interested in learning more about CENTEC,"
+   ],
+   [
+    "2026-01-19",
+    "R",
+    "I'm interested in learning more about CENTEC, as I have a project in February that requires high-end switches"
+   ],
+   [
+    "2026-03-10",
+    "A",
+    "Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I have a client who's requesting s"
+   ],
+   [
+    "2026-03-10",
+    "R",
+    "I have a client who's requesting several switches similar to the Cisco C9300L-48P-4X… 48x1G PoE+ Base-T/4x10G SFP+/Network Essentials. I'd l"
+   ],
+   [
+    "2026-03-11",
+    "A",
+    "Hi Alan, Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stacking up to 8 units using StackWis"
+   ],
+   [
+    "2026-03-11",
+    "R",
+    "Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stacking up to 8 units using StackWise-320 tec"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2026-03-11（7 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "规模未知",
+   "人工终判：危地马拉 Smart Cities 方案设计顾问 Walter Arnoldo Beltetón Mohr：2026-03 带客户需求来（Cisco C9300L-48P-4X 等价、48×1G PoE+ + 4×10G、要堆叠），CENTEC 对位；项目型但需求具体、2026 年活跃"
+  ],
+  "story": "危地马拉·集成商/安装商；未坐实：无域名（gmail）。往来 2024-06-16→2026-03-12：我方去信 23 封（A 13 / S 8），对方真人来信 5 封 + 表内/备注 0 条；对方问过：2026-03-10 A: Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I have a client who's requesting s ‖ 2026-03-10 R: I have a client who's request。我方报过：$90 / $280。对位：STH-2QX4DX48GP-HSI（CENTEC STH1G，48×PoE++ + 4×25G + 2×40G，堆叠 ≤8）；路径：免费邮箱 MX ok；最近来信 2026-03-11（7 月前）。",
+  "n_out": 23,
+  "n_in": 5,
+  "last_in": "2026-03-11",
+  "last_out": "2026-03-12",
+  "prices_out": [
+   "90",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2025-12-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "35a0710ad302e370"
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "in",
+    "box": "A",
+    "from": "arnoldomohr@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Hello Alan, it's a pleasure to meet you. The OEM switch proposal looks very interesting. I think it would be worthwhile to learn more about CENTEC, as it could ",
+    "prices": [],
+    "bulk": false,
+    "k": "18de922f68733d3c"
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "6282af7ab08d1842"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "7cc4bd1b427ec9fe"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "5662c95e60d03389"
+   },
+   {
+    "date": "2026-01-19",
+    "dir": "in",
+    "box": "A",
+    "from": "arnoldomohr@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Dear Alan, Thank you for the information. These switches seem very comprehensive and powerful. I'm interested in learning more about CENTEC, as I have a project",
+    "prices": [],
+    "bulk": false,
+    "k": "11c6c7d0fcfdee80"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "3cdaac8feadc37e3"
+   },
+   {
+    "date": "2026-03-10",
+    "dir": "in",
+    "box": "A",
+    "from": "arnoldomohr@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Hi Alan, It's great to hear from you again. I'm interested in learning more about the switches you offer. I have a client who's requesting several switches simi",
+    "prices": [],
+    "bulk": false,
+    "k": "b6bb7a6bb3d6a058"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "in",
+    "box": "A",
+    "from": "arnoldomohr@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Hi Alan, Yes, my client needs stacking, since the c9300l-48P-4X is a fixed-uplink switch that supports stacking up to 8 units using StackWise-320 technology. It",
+    "prices": [],
+    "bulk": false,
+    "k": "82dece0babf0d83f"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "a800b32f5791ff41"
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan",
+    "subj": "",
+    "gist": "Need to know if your client needs \"stacking\" feature. This is important. If no, let's just do Marvell solution. STC-448XGGPM, 10G L3 with PoE. If yes, we need t",
+    "prices": [],
+    "bulk": false,
+    "k": "offer"
+   },
+   {
+    "date": "2026-03-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "c532353d6d1be39d"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://gt.linkedin.com/in/jorge-mondal-chew-86329256",
+    "quote": "Walter Arnoldo Belteton Mohr — Consultor de diseño de soluciones en Smart Cities de Centroamérica · Guatemala（LinkedIn「其他人还看过」侧栏，2026-10-30）",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ },
+ "country_fix": "危地马拉"
 }

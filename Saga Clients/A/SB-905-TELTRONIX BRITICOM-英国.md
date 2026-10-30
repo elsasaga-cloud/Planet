@@ -12,7 +12,7 @@ code: SB-905
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 
 name_official: "Briticom™ — Teltronix Holdings Ltd（briticom.net，Northampton, UK）"
 score: 28
 country: 英国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国北安普顿的**无源**布线制造商/品牌（Briticom 为 Teltronix Holdings Ltd 品牌；团队始于 2004，控股公司 2020-02 注册，公司号 12455268，VAT GB419036114；11–50 人；2017 年底换新管理层走国际化）：铜缆系统、光纤无源产品（FTTx/GPON）、机柜与机箱，面向数据中心、FTTx/电信、广播、智能家居；有「授权分销商 / 认证安装商」计划，2025-10 参展 GITEX Dubai。目录为纯无源——有源交换机是产品线空白。用户表：1 次实质回复，1 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：有自己的logo 有的没有 光猫 ONV Upeto的工业FS 机架 FS等；机架 MC FS 工业FS  自己的logo 外壳种类比较多；2024-09-03 项目 RFQ：20 台 24 口 PoE 千兆 + 4 GE 上联 + 2 冗）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 5 条（A；2025-07→2025-10））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-07→2025-10））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2026
 - **历史互动**：实质回复 1 次；推送 1 次（2025-07-07 → 2025-07-07）；最近一次客户回复：2025-07-07：Price 电源
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM（双电源版若有）+ SFP 模块 — 英国经销 + 6 次回复｜已发资料（勿重发）：Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation_Copper Switch(2025-07-07)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按主表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-07-08 $220（48 port managed switch）；**第 63 批基准统一（规则 ㉕）**：STC-424XGGPM-280W 由列表价 $198 改为群发现价 $180（2026-09-21 起每天 40–70 封在发，不能比群发贵）；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Wadii — the 20-unit 24-port PoE project from Sept 2024: did it close, and do your current projects still require dual PSU and stacking, or would 10G uplinks + ERPS do?
@@ -178,7 +178,7 @@ updated: 2026-10-30
   > What's the price of this switch? … Can you show us a drawing of a network where this product will fit/install??
   > 来源：data/gmail_s/messages/2024/2024-09.jsonl、2024-10.jsonl（wadii@teltronix.net，+44 1604 434 186）（抓取 2024-10-02）
 - **KP**：Wadii Kherfani（Director / 老板 —— Teltronix Holdings Ltd 两名董事之一（另一位 Anna Kherfani，同姓）；2011–2018 曾任 Linxcom Ltd（SB-160）董事（第 82 批 Companies House 核实 2026-10-27））wadii@teltronix.net 〔S/A 邮箱来信 2025-07-06 → 10-31 来信 3 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 5 条（A；2025-07→2025-10）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-07→2025-10）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#2。
 LT-T03 官网快照加厚（2026-10-21）：fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）
@@ -223,6 +223,38 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-07-07 | 2025.7.7 | 16电 | Price 电源 | A |  | A Replied 09.04.xlsx#11 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | UK Companies House: TELTRONIX HOLDINGS LTD（品牌 Briticom™） · 12455268 · Active（officers 页在列，无解散标记） · 2020-02-11 |
+| ② 角色 / 对位 | OEM 品牌商/分销商 | 对位词：din 交换机 光纤 网络；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-07-07 A: Can you please add the cost of AC and the cost of DC charger next to each quoted line on your table? Best Regards Wadii TELTRONIX ／ BRITICOM ‖ 2025-10-31 A: It will be great to have an idea of this switch A… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-10-31（12 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：英国·OEM 品牌商/分销商；登记坐实：UK Companies House: TELTRONIX HOLDINGS LTD（品牌 Briticom™） · 12455268 · Active（off。往来 2024-07-08→2026-09-07：我方去信 24 封（A 17 / S 4），对方真人来信 3 封 + 表内/备注 2 条；对方问过：2025-07-06 A: Thank you Alan, Can you please advise the cost of the below industrial PoE switch Best Regards Wadii TELTRONIX ／ BRITICOM T.: +44 1604 434 1 ‖ 2025-07-07 A: Can you please add the cost o。我方报过：$15 / $25 / $40 / $170 / $220 / $280。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-10-31（12 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-15 | 去 | A | Marvell Industrial Alert System |  |
+| 2025-10-09 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-30 | 去 | A | Booster PoE Switch |  |
+| 2025-10-31 | 来 | A | RE: Booster PoE Switch｜It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX ／ BRITICOM T.: +44 1604 434 186 [ci… |  |
+| 2025-11-19 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-15 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.7.7 | 表 | 表 | 16电｜Price 电源 |  |
+| 2026 | 表 | 表 | Simon 备注/兴趣栏｜有自己的logo 有的没有 光猫 ONV Upeto的工业FS 机架 FS等 ； 机架 MC FS 工业FS  自己的logo 外壳种类比较多 ； 2024-0 |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

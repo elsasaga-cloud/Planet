@@ -12,7 +12,7 @@ code: SA-035
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档
 name_official: "ООО «ТД «Фарадей Электроникс»（TH Faraday Electronics Ltd., td-fe.ru, St. Petersburg, Russia）"
 score: 81
 country: 俄罗斯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：圣彼得堡的 FARADAY 品牌工业电源制造/贸易公司：DIN 导轨开关电源 12–480W（EAC/CE/RoHS，3 年保），面向自动化系统，经 sintsec 等安防分销商销售。用户表：A 优质名单(优质俄罗斯客户)，5 次实质回复，12 次跟进；兴趣工业电源（只要导轨式）、ONV 工业 FS、PoE 配件；联系人 Alexander Rudnev（director）；AI 评 40% B。（调研 2026-10-21；表内兴趣：工业电源  只要导轨式的 ONV工业FS  POE配件比较多）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 8 条（S；2023-12→2025-01））；自动分级 A：+30 实质回复 5 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 0 条（S；2023-12→2025-01））；自动分级 A：+30 实质回复 5 次（问价/要资料/问型号等）；+6 有互动但表示暂无需求/已有供应商 1 次；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 5 次；回复暂无需求 1 次；推送 12 次（2023-12-15 → 2025-12-07）；最近一次客户回复：2024-12-11：info
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：不再推 Marvell 10G；他要的「DIN 8 口 L3 管理 PoE、Realtek 价位」在 Saga 自己的 Realtek 工业线上有对位：STI-488XGGPM-2BT（L3，4×10G SFP+ + 8×GE PoE 6 af/at + 2 bt 360W，2025-04 表 $170 EXW）/ L2 款 STI-288GPM-2BT $110（`docs/reference/价格表_Realtek工业线_Saga对外_2025.md`；watchdog 列表未写，待核；再报按当日汇率重核）。是否对俄开这条线——Simon 定 — C3：对 Realtek 用户继续报 Marvell 是拼命单；要么换线一次报清，要么停。已打开的主题（18/29 封有打开记录）：「Re: Din power supply」(2024-12-12)、「Re: Din power supply」(2024-12-31)、「Re: Din power supply」(2025-06-10)、「Updated Ethernet Switches Links」(2026-02-03) → 读者兴趣偏「工业」；当前 P1 属「10G 汇聚/L3」，下一封按「工业」给，不按 P1；HRUI 线 CNY ×1.2 ÷ 6.69（快照 2026-10-17，15 天有效）；Marvell 线不再让价；历史报价（邮件原话，老汇率）：2024-02-27 STI-244GP 40usd；2024-04-18 135usd；2024-05-20 360usd / 130usd；2024-12-12 1USD；群发里他已看到的价（续，第 66 批全量复核）：2026-05-11 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Is an 8-port L2-managed DIN PoE unit with watchdog at Realtek-level pricing still what you need, or has your current supplier covered it?
@@ -194,7 +194,7 @@ updated: 2026-10-30
   > Общий бюджет питания PoE — 240 Вт … Поддержка стандартов IEEE 802.3af/at … Крепление на DIN-рейку … Защита IP40 и грозозащита
   > 来源：https://www.ami-com.ru/catalog/f-802/（抓取 2026-10-21）
 - **KP**：Alexander Rudnev（Учредитель（股东之一）= 拍板人之一；总经理 2023-11-10 起为 Твердохлеб Татьяна Владимировна（签字人）；另一股东 Авраменко Е. Е.；6 人、营收 98 млн ₽；商标 TD-FE®（马德里 2019）（第 84 批 官方登记核实 2026-10-27））air@td-fe.ru +7 812 953 13 59（官网总机）〔Clients/A/DONE/优质俄罗斯客户 2.9.xlsx〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 8 条（S；2023-12→2025-01）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 16 封 / 表内 6 条 / 研究档 0 条（S；2023-12→2025-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不做电源，只接工业 FS/PoE 配套——P1 = STI-288DGGPM（48V DIN 供电与其 FARADAY 电源天然配套），25% 档；俄罗斯收款走 T/T 需提前确认通道。
 
@@ -265,6 +265,38 @@ A 维持（5 次实质回复 + 总监直联 + 已卖 ONV 工业 FS）：Saga 不
 | 2025-06-10 | 2025.6.10 | alarm |  | S |  | 优质俄罗斯客户 2.9.xlsx#14 |
 | 2025-12-07 | 2025.12.7 | solar |  | S |  | 优质俄罗斯客户 2.9.xlsx#14 |
 | ? |  | 用的witek/hasivo的 基本不用跟了 |  |  |  | 优质俄罗斯客户 2.9.xlsx#14 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Россия · ЕГРЮЛ 镜像（saby / spark-interfax 摘要）+ 官网 О компании（商: ООО «ТОРГОВЫЙ ДОМ «ФАРАДЕЙ ЭЛЕКТРОНИКС»（TH Faraday Electroni · ОГРН 1167847053934 · ИНН 7820046904… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din industrial poe sfp switch 交换机 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024.2.27 表: 发了2光4小壳信息→谈了一个3层交换机 ‖ 2024.4.17 表: 发了24光combo工业级的→只要导轨式的 ‖ 2025-01-03 S: Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive director of TH Faraday Electron… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-01-03（21 月前） |
+| ⑤ 规模 | ≥小型 | 6（第 84 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：俄罗斯·OEM 品牌商；登记坐实：Россия · ЕГРЮЛ 镜像（saby / spark-interfax 摘要）+ 官网 О компании（商: ООО «ТОРГОВЫЙ ДОМ 。往来 1211→2026-07-02：我方去信 29 封（A 2 / S 27），对方真人来信 16 封 + 表内/备注 6 条；对方问过：2024-12-12 S: Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Alexander Rudnev Executive direct ‖ 2024.2.27 表: 发了2光4小壳信息→谈了一个3层交换机 ‖ 2024.4.1。我方报过：$23 / $40 / $130 / $135 / $280 / $310。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-01-03（21 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-12-12 | 来 | S | RE: Din power supply｜Dear, Simon ! Yes, it useful for us. Send full datasheet, pls. And EXW price in RMB. With the best wishes, Alexander Rudnev Execu… |  |
+| 2024-12-31 | 去 | S | Re: Din power supply |  |
+| 2024.2.27 | 表 | 表 | 发了2光4小壳信息｜谈了一个3层交换机 |  |
+| 2024.3.18 | 表 | 表 | 发了24光combo信息｜只用工业级的 |  |
+| 2024.4.17 | 表 | 表 | 发了24光combo工业级的｜只要导轨式的 |  |
+| 2024.5.16 | 表 | 表 | 发了4光24电导轨式信息｜贵 |  |
+| 2025-01-03 | 来 | S | RE: Din power supply｜Dear, Simon! Thank you, but your prices are too high. With the best wishes, Alexander Rudnev Executive director of TH Faraday Ele… |  |
+| 2025-06-10 | 去 | S | Re: Din power supply |  |
+| 2025-12-07 | 去 | S | Re: Din power supply |  |
+| 2026-02-03 | 去 | S | Updated Ethernet Switches Links |  |
+| 2026-05-11 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-07-02 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

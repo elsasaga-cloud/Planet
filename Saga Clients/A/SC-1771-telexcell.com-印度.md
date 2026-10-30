@@ -12,7 +12,7 @@ code: SC-1771
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
 name_official: "Telexcell Infranet Solutions Pvt. Ltd.（印度孟买）"
 score: 4
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：A 邮箱 2026-05 → 09 实质往来 13 封：Tarun Jain Lalwani（Director Sales）2026-07-29 发正式 RFP（8 口 ×100 / 24 口 ×20 / 16 口工业 ×100，均要 AC+DC 双电、L2+ PoE、1G/10G SFP+），Alan 当日回规格书但拒报价（「prices after reviewing… PCBs soaring」），之后无下文；2026-09-16 同司 jmkl 又问 Cisco IP 话机 200 台/型 → 贸易商特征。（调研 2026-10-24；表内兴趣：MC FS 光纤 网络）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（A；2026-05→2026-09））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：8 口 → STC-28DGGPM（2.5G 上联，$99 列表；10G 上联版另询）；24 口 → STC-424XGGPM-280W（$198 列表，PoE 280W 低于其 400W 要求 → 可报 STC-424DGGPM-440W $220）；16 口工业 → STI-21616XGGPM（$324.5 列表，L2+）或 STI-41616XGGPM（$495，L3） — 已发资料（勿重发）：Product Link_2026Q2(2026-05-17)、STC-28DGGPM(2026-07-29)、Saga Feature List_7.5.x_L2+(2026-07-29)、STC-424XGGPM-280W(2026-07-29)、STI-42424XGGPM-U(2026-07-29)、STI-41616XGGPM(2026-07-29)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 `列表价 USD EXW（2026-10-17 快照，15 天有效）`：STC-28DGGPM $99 / STC-424DGGPM-440W $220 / STI-21616XGGPM $324.5；集成商 25% 档；-48V DC 版加价待 HRUI 确认后另报；**第 63 批基准统一（规则 ㉕）**：按 25% 档：STC-28DGGPM $99 → $84.1、STI-21616XGGPM $324.5 → $310.2；STC-424DGGPM-440W $220 = 列表价封顶（25% 档 $224.2 更高）
 - **第一问（只问一个）**：Tarun — is the July RFP (100 × 8-port, 20 × 24-port, 100 × 16-port industrial PoE) still open? Budget prices: 8-port L2+ PoE $99, 24-port 4×10G PoE 440W $220, 16-port industrial 4×10G PoE $324.5 USD EXW; the −48V DC input version is a project build — which site is this for?
@@ -109,7 +109,7 @@ updated: 2026-10-30
 - **类型**：印度系统集成/贸易商
 - **在卖/在用品牌**：Cisco
 - **KP**：Tarun Jain Lalwani（）tarun@telexcell.com +91-8828269065 / +91-9322037477〔A 邮箱签名 2026-05-16〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（A；2026-05→2026-09）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（A；2026-05→2026-09）
 - 备注：（建档：T29-U42 第 15 批，由 A 邮箱附件 RFP 触发；C 级人工定级不改，建议 Simon 复核升 B）
 
 ### 加厚挖掘（2026-10-24 · 仅邮件证据）
@@ -133,6 +133,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | TELEXCELL INFRANET SOLUTIONS PRIVATE LTD. |
+| ② 角色 / 对位 | 分销商 | 对位词：poe sfp 工业；P1 STC-28DGGPM / STC-424XGGPM-280W / STI-41616XGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-07-29 R: we are currently seeking support for the following requirements. 1) 8 Port + 2 SFP 1G/10G L2+ Managed POE Switch with DC & AC Power -100 2)  ‖ 2026-09-16 A: Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2026-09-16（1 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：印度·分销商；研究档法定名：TELEXCELL INFRANET SOLUTIONS PRIVATE LTD.。往来 2025-04-09→2026-09-16：我方去信 9 封（A 8 / S 0），对方真人来信 5 封 + 表内/备注 0 条；对方问过：2026-07-29 A: Hi Alan, Please find attached the RFP for compliance Regards, Tarun Jain Lalwani Director Sales TELEXCELL INFRANET SOLUTIONS PRIVATE LTD. M: ‖ 2026-07-29 R: we are currently seeking supp。我方报过：$170 / $240 / $280 / $6000。对位：STC-28DGGPM / STC-424XGGPM-280W / STI-41616XGGPM；路径：企业邮箱 MX ok + WA；最近来信 2026-09-16（1 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-05-17 | 去 | A | Re: 10G Enterprise SFP Switch | $280 |
+| 2026-05-18 | 去 | A | Re: 10G Enterprise SFP Switch |  |
+| 2026-05-18 | 来 | A | Re: 10G Enterprise SFP Switch｜*Hi Alan,* *List of Saga switches support (ERPS)Ethernet Ring Protection Switching (version ERPSv1 & ERPSv2) also called… |  |
+| 2026-05-19 | 去 | A | Re: 10G Enterprise SFP Switch |  |
+| 2026-06-18 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-29 | 去 | A | Re: 24 Port PoE Managed Switch |  |
+| 2026-07-29 | 来 | A | Re: 24 Port PoE Managed Switch｜Hi Alan, Please find attached the RFP for compliance Regards, Tarun Jain Lalwani Director Sales TELEXCELL INFRANET SOLU… |  |
+| 2026-07-29 | 来 | A | Re: 24 Port PoE Managed Switch｜Hi Alan, I hope this message finds you well. we are currently seeking support for the following requirements. 1) 8 Port… |  |
+| 2026-07-29 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-07-29 | 来 | R | 8 口：Fixed ports 8*10/100/1000M + 2*1G/2.5G/10G SFP+ · 56Gbps · Fan less · Power Supply DC: -32V~-78V · PoE Budget ≤120W · 0~50℃ · 4K VLAN/QinQ/GVRP/LL… |  |
+| 2026-07-29 | 去 | R |  |  |
+| 2026-09-16 | 来 | A | Re: 32 Port 400GB DC Switch｜Cisco ip phone Cp 7821 Cp 8811 Cp 8841 Cp 8845 Cp 8851 Cp 8861 All 200 units each |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -47,8 +47,8 @@
    "source": "https://ca.ltddir.com/INFINICORE/"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 InfiniCore：网络分流/可视化厂商，Bypass/TAP 配套（需 SmartByte 回退）",
+ "grade_override": "B",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 国别由表内「加拿大」更正为「美国」（country_fix，依据见加厚块）",
  "deep": {
   "done_at": "2026-10-21",
@@ -169,6 +169,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 InfiniCore：网络分流/可视化厂商，Bypass/TAP 配套（需 SmartByte 回退）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 InfiniCore：网络分流/可视化厂商，Bypass/TAP 配套（需 SmartByte 回退）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）"
   }
  ],
  "snap_thicken": {
@@ -200,12 +208,12 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A3",
-  "target": "A",
+  "batch": "AB-FINAL-02",
+  "tier": "",
+  "target": "B",
   "grade_before": "A",
-  "reason": "贴合·美国 InfiniCore：网络分流/可视化厂商，Bypass/TAP 配套（需 SmartByte 回退）",
-  "why_not": "",
+  "reason": "",
+  "why_not": "无成单 / 无回信 / 未入贴合名单（K2 可指名留 A）",
   "excl": "",
   "deal": "",
   "reply_class": "none",

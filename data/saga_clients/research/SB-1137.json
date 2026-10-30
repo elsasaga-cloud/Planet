@@ -39,7 +39,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）",
  "notes": "西/葡语混写；要价都给了，没成——价格或进口门槛（巴西关税高）。",
  "deep": {
   "done_at": "2026-10-24",
@@ -163,19 +163,230 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 4 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-11）",
+  "reason": "真回信 4 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-25] Ola Simon, como estas? Gracias por tu e-mail. Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24 ‖ [S 2024-11-19] Good afternoon Simon, how are you? Can you send me your price list with the 4-8-16 and 24 door models? *Best r ‖ 研 2024-06-25 Fabian Alonzo: Todos los modelos 8, 16 y 24 puertas tienen los soportes para Rack 19\"? Tu tiene / 2024-11-19 Fabian Alonzo: Can you"
+  "evidence": "[S 2024-06-25] Ola Simon, como estas? Gracias por tu e-mail. Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24 ‖ [S 2024-11-19] Good afternoon Simon, how are you? Can you send me your price list with the 4-8-16 and 24 door models? *Best r"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156: Infotec Comércio de Equipamentos e Sistemas de Segurança Ltd · CNPJ 05.590.805/0001-56（分支 0002-37） · ATIVA（Simples） · 2003-03-26"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165）",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-06-25",
+    "S",
+    "Buenas tardes Simon. Gracias por su pronta respuesta. Todos los modelos 8, 16 y 24 puertas tienen los soportes para Rack 19\"? Tu tienes algu"
+   ],
+   [
+    "2024-06-25",
+    "S",
+    "Los modelos que te mencione en el email anterior precisan tener 2 puertas SFP Saludos, *Fabian Alonzo* 51 98144-0559"
+   ],
+   [
+    "2024-06-25",
+    "S",
+    "Ola Simon, como estas? Gracias por tu e-mail. Puedes enviarme modelos y valores de switchs 8+2 Poe 16+2 PoE 24+2 Poe Esto es lo mas usado aq"
+   ],
+   [
+    "2024-11-19",
+    "R",
+    "Can you send me your price list with the 4-8-16 and 24 door models?"
+   ],
+   [
+    "2024-11-19",
+    "S",
+    "Good afternoon Simon, how are you? Can you send me your price list with the 4-8-16 and 24 door models? *Best regards,* *Fabian Alonzo* 51 98"
+   ]
+  ],
+  "path": [
+   "活",
+   "免费邮箱 MX ok；最近来信 2024-11-19（23 月前）"
+  ],
+  "size": "（未核）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "巴西·分销商；登记坐实：BR · 1 次检索：casadosdados.com.br/solucao/cnpj/…-05590805000156: Infotec Comércio d。往来 2024-06-19→2025-09-18：我方去信 17 封（A 5 / S 11），对方真人来信 4 封 + 表内/备注 0 条；对方问过：2024-06-25 S: Los modelos que te mencione en el email anterior precisan tener 2 puertas SFP Saludos, *Fabian Alonzo* 51 98144-0559 ‖ 2024-06-25 S: Ola Simon, como estas? Gracias por tu e-mail. Puedes 。我方报过：$65 / $220 / $240 / $300。对位：STC-28DGGPM（8 PoE + 4 SFP，$99）/ STC-424DGGPM-280W（24 PoE + 4×2.5G SFP，$165）；路径：免费邮箱 MX ok；最近来信 2024-11-19（23 月前）。",
+  "n_out": 17,
+  "n_in": 4,
+  "last_in": "2024-11-19",
+  "last_out": "2025-09-18",
+  "prices_out": [
+   "65",
+   "220",
+   "240",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-09-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a0125d93e8463315"
+   },
+   {
+    "date": "2024-10-23",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7b935d381a12a078"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "in",
+    "box": "S",
+    "from": "transivideo@gmail.com",
+    "subj": "Re: Mini Industrial PoE Switch",
+    "gist": "Good afternoon Simon, how are you? Can you send me your price list with the 4-8-16 and 24 door models? *Best regards,* *Fabian Alonzo* 51 98144-0559 Em ter., 19",
+    "prices": [],
+    "bulk": false,
+    "k": "8580d6baad022a6e"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5867d3a97b2e854b"
+   },
+   {
+    "date": "2024-11-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Mini Industrial PoE Switch",
+    "gist": "Re: Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f02f65b1e31a43e0"
+   },
+   {
+    "date": "2024-12-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "73647d3edac54851"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "707955affdea1b2a"
+   },
+   {
+    "date": "2025-03-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "0b06140e3a34b7c2"
+   },
+   {
+    "date": "2025-06-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "19b71bc9fd972797"
+   },
+   {
+    "date": "2025-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "b4c5118ede067d9d"
+   },
+   {
+    "date": "2025-08-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "729c78392e4be8d5"
+   },
+   {
+    "date": "2025-09-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5c351f52256c3a05"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -40,7 +40,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -161,6 +161,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -185,15 +193,145 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 92: bypass→可能有用 price"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991: BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；omnisecurity.ro； · CUI 37299107；J15/334/2017 · Activă · 2017-03-29"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "industrial"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "92",
+    "表",
+    "bypass→可能有用 price"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 2023-02-07（44 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "罗马尼亚·集成商/安装商；登记坐实：RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991: BONMAG INTERNATION。往来 2023-02-07→2026-09-03：我方去信 4 封（A 4 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：92 表: bypass→可能有用 price。我方报过：$170 / $6000。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2023-02-07（44 月前）。",
+  "n_out": 4,
+  "n_in": 0,
+  "last_in": "2023-02-07",
+  "last_out": "2026-09-03",
+  "prices_out": [
+   "170",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2023-02-07",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「发了2光10电图 价格 没发规格书」→ 对方「要便宜的/洪瑞的就行 4/8 poe+2 lan」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.58 2023.2.7"
+   },
+   {
+    "date": "2023.2.7",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光10电图 价格 没发规格书",
+    "gist": "要便宜的/洪瑞的就行 4/8 poe+2 lan",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "be024285d613f4ff"
+   },
+   {
+    "date": "2026-06-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "07b282914f2a72f1"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "017c8068098aaf78"
+   },
+   {
+    "date": "2026-09-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "01924ad21696408d"
+   },
+   {
+    "date": "92",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "bypass",
+    "gist": "可能有用 price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -262,16 +262,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2026-07）",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2026-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-12-19] Dear Sir, Pls share me your price list for OEM/ODM. *CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠNTrụ sở : **Ph ‖ [A 2026-07-15] dear, Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28 Best Regards, Vào  ‖ 表 2025.12.15: Alarm→INFO ‖ 研 2025-12-19 Truong Son: Pls share me your price list for OEM/ODM. / 2026-07-15 Truong Son: Pls quote me model STH-8C"
+  "evidence": "[A 2025-12-19] Dear Sir, Pls share me your price list for OEM/ODM. *CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠNTrụ sở : **Ph ‖ [A 2026-07-15] dear, Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28 Best Regards, Vào  ‖ 表 2025.12.15: Alarm→INFO"
  },
  "override_history": [
   {
@@ -281,8 +281,220 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2026-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2026-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2026-07）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-12→2026-07）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-12→2026-07）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "越南 · 国家企业登记门户需越文名交互查询，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Công ty TNHH Giải pháp và Xây lắp Trường Sơn（Truong Son Solutions Co., Ltd.） · （登记状态不可免费核）"
+  ],
+  "role": "OEM 品牌商/分销商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-144GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-12-19",
+    "A",
+    "Dear Sir, Pls share me your price list for OEM/ODM. *CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠNTrụ sở : **Phòng 702A, Lầu 7, Tòa nhà Centr"
+   ],
+   [
+    "2025.12.15",
+    "表",
+    "Alarm→INFO"
+   ],
+   [
+    "2026-07-15",
+    "A",
+    "dear, Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28 Best Regards, Vào Thứ 4, 15 thg 7, 2026 vào lú"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-07-15（3 月前）"
+  ],
+  "size": "5（登记）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "越南·OEM 品牌商/分销商；登记线索：越南 · 国家企业登记门户需越文名交互查询，无镜像；本行为「无登记源」记录（据第 79 批研究档）: Công ty TNHH Giải pháp và Xây。往来 2024-07-08→2026-09-24：我方去信 30 封（A 24 / S 5），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-12-19 A: Dear Sir, Pls share me your price list for OEM/ODM. *CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠNTrụ sở : **Phòng 702A, Lầu 7, Tòa nhà Centr ‖ 2025.12.15 表: Alarm→INFO ‖ 2026-07-15 A: de。我方报过：$65 / $170 / $240 / $280 / $300 / $1700。对位：STI-144GP；路径：企业邮箱 MX ok；最近来信 2026-07-15（3 月前）。",
+  "n_out": 30,
+  "n_in": 2,
+  "last_in": "2026-07-15",
+  "last_out": "2026-09-24",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "1700"
+  ],
+  "timeline": [
+   {
+    "date": "2026-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "0b6aec63c5170e8b"
+   },
+   {
+    "date": "2026-04-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7f9258ff5a2320e9"
+   },
+   {
+    "date": "2026-05-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "69a21ce92ee79b6e"
+   },
+   {
+    "date": "2026-06-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "163b43476f6ce94d"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Saga Q3 Product Links",
+    "gist": "Re: Saga Q3 Product Links",
+    "prices": [
+     "1700",
+     "2200"
+    ],
+    "bulk": false,
+    "k": "8ef6fe719128cb52"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "in",
+    "box": "A",
+    "from": "info@truongsonsolutions.com",
+    "subj": "Re: Saga Q3 Product Links",
+    "gist": "dear, Pls quote me model STH-8C24XF-HSI and (2pcs) and 2pcs 24 x 10G Base-T, 2 x 100GQSFP28 Best Regards, Vào Thứ 4, 15 thg 7, 2026 vào lúc 12:01 Alan from Sa",
+    "prices": [],
+    "bulk": false,
+    "k": "43477f95c8d2e436"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "ac100536f14eb003"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "25224e930b4094d0"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "ed60aaf9f8a4e03b"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4e2d429afa342e79"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To inbox.vienthonghanoi@gmai",
+    "subj": "",
+    "gist": "24 Port PoE Managed Switch — Marvell AC5 L2+ 24 PoE af/at + 10G uplinks, OEM/Web GUI; Price: 170USD/PC",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "5723edafb5b2bde6"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

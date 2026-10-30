@@ -1,11 +1,11 @@
 # rspotsolutions.com
 **官方名称（调研核实）**：R-Spot Solutions（rspotsolutions.com，Philippines；布线/CCTV 供应）
 
-> **评级 B**　|　菲律宾　|　档案编号 `SB-314`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　菲律宾　|　档案编号 `SB-314`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✘ 光端机等（日职线）；命中 1/6（成单/样品 ✔ · 真回 — · WA — · 对位 ✘ 光端机等（日职线） · 登记 未坐实 · 体量 小型）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、dayjob_fit（光端机 / DWDM / 光模块 —— Simon 本职公司可用，不 pass）、prepay
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）　|　**所在清单**：E冷名单(菲律宾)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：推送 1 次（2025-10-09 → 2025-10-09）　|　**所在清单**：E冷名单(菲律宾)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-314
@@ -19,7 +19,7 @@ region: 亚太
 website: rspotsolutions.com
 type: 经销/集成（类型待核）
 tier_tags: ["E冷名单(菲律宾)"]
-deal: yes
+deal: no
 replies: 0
 followups: 1
 first_contact: 2025-10-09
@@ -30,14 +30,14 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：菲律宾布线/CCTV 供应商 R-Spot Solutions（用户表注：Cabling、CCTV 等，从中国买很多；vismin@rspotsolutions.com = 米沙鄢-棉兰老（VisMin）区域邮箱）。用户表（富通天下外贸数据）：「从 holink 买了 HDMI 类产品」，非 Saga 成交；E 冷名单 1 次跟进 0 回复。CCTV/布线供应商 → PoE 交换机走量。（调研 2026-10-21；表内兴趣：从holink买了HDMI类产品）
-- **为什么是 B 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
-- **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
+- **为什么是 B 级**：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 E 冷名单（按国家群发）；-15 兴趣只在 Saga 不做的品类（VC/光端机/DWDM/OTDR/CCTV/云管理等）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **历史互动**：推送 1 次（2025-10-09 → 2025-10-09）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-228GP — 分销 20% 档：STC-228GP（2 SFP + 8 GE PoE，$30.8）；16 口 STC-2016GP（$88.0）；HDMI 延长类不在 Saga 线；Realtek 线按 HRUI 2026-09-30 进价 +20% 现算（Q-47 默认，不用 Drive 旧表价）：STC-228GP $30.8→$33.2；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-01 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-05-01；Simon 实报就是 $65）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 - **最大未知**：年走量与现供应商
@@ -89,7 +89,7 @@ updated: 2026-10-29
 
 - `rspotsolutions.com` → 其他主机商邮箱（mx1.privateemail.com）（MX：mx1.privateemail.com、mx2.privateemail.com）。主机商附带邮箱（mx1.privateemail.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
 
 - 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -241,7 +241,7 @@ updated: 2026-10-29
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-228GP），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-228GP）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-228GP 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；20% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -249,7 +249,7 @@ updated: 2026-10-29
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STC-228GP 按 20% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -270,7 +270,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -284,7 +284,7 @@ updated: 2026-10-29
 ```text
 Hi Juner,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
+Over the past months you had a few product mails from us - most recently "24 Port PoE Managed Switch" on 6 August 2026 - and there was no reason to answer a mass mail. This one is specific. Hello R-Spot team, for your CCTV and cabling customers: 2× SFP + 8× PoE switches at $33.2 EXW, 16-port PoE at $88.0, neutral packing, MOQ 1 — which port count sells best in VisMin so I can quote a first lot?
 
 We supply an 8-port Gigabit PoE switch with 2 SFP and 2 copper uplinks (unmanaged, 120 W, PoE watchdog) - model STC-228GP - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $33.2 USD EXW (valid 15 days).
 
@@ -307,12 +307,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 46）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

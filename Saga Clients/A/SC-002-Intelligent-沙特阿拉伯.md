@@ -12,7 +12,7 @@ code: SC-002
 rating: A
 rating_auto: A
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）"
 score: 83
 country: 沙特阿拉伯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：香港注册（2013）的中资 IT 配件制造+分销商，自称在中国/台湾/印度有工厂生产 PoE 交换机、CCTV、光纤设备、4G 路由器，办公室遍布香港、中国、迪拜、孟加拉、新加坡，覆盖 SAARC/APAC/MEA。用户表登记为沙特，电话是 +86 大陆手机号。（调研 2026-10-21；表内兴趣：商业级交换机）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 19 次（2024-06-12 → 2025-10-24）；最近一次客户回复：2025-07-22：Price
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 剔除群发；—；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-12-06 $300（48 Port PoE Managed Switch）、2024-12-24 $240（24 Port Fiber Switch）、2025-09-23 $280（10G Enterprise SFP Switch）、2025-10-24 $65（10G Media Converter）、2026-06-22 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -104,7 +104,7 @@ updated: 2026-10-30
 - **【官网】自有工厂生产 PoE 交换机等——属同行而非客户**
   > We are proud manufacturers of global brands and have a state-of-the-art, technology-driven manufacturing units in China, Taiwan & India where we manufacture various types of hi-tech devices such as POE Switches, CCTV Cameras & DVR/NVR, Fiber Optical devices, 4G Routers. … Headquartered in Hong Kong, Intelligent Technologies Traders Ltd. was established in 2013.
   > 来源：https://www.intelligent.hk/（抓取 2026-10-21）
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）
 - 备注：c_sub=同行/中资贸易商。
 
 
@@ -137,6 +137,38 @@ updated: 2026-10-30
 | 2025-08-27 | 827 | 22mini |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#26 |
 | 2025-09-23 | 923 | dac |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#26 |
 | 2025-10-24 | 1024 | 10gmc |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#26 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai） |
+| ② 角色 / 对位 | 分销商 | 对位词：poe 交换机 光纤；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-07-22 A: Kindly share your price list ‖ 2025.7.22 表: 28BT→Price |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-07-22（15 月前） |
+| ⑤ 规模 | ≥小型 | 未披露 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：沙特阿拉伯·分销商；研究档法定名：Intelligent Technologies Traders Ltd.（intelligent.hk, HK/China/Dubai）。往来 2024-07-09→2026-09-29：我方去信 32 封（A 24 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-07-22 A: Kindly share your price list ‖ 2025.7.22 表: 28BT→Price。我方报过：$65 / $170 / $240 / $280 / $300 / $6000。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-07-22（15 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-01-30 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-23 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-10 | 去 | A | Industrial PoE Switch |  |
+| 2026-04-28 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-25 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-22 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-19 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-04 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-09-29 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

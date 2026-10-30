@@ -91,7 +91,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -277,16 +277,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "PI包·gg",
   "why_not": "",
   "excl": "",
   "deal": "PI包·gg",
   "reply_class": "R+",
-  "evidence": " ‖ 表 1119: 引流机型→small 8 port high poe ‖ 研 2023-07-24 George（需求.docx / requirement_solution.docx）: 8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另"
+  "evidence": " ‖ 表 2023: Simon 备注/兴→从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是 ‖ 研 2023-07-24 George（需求.docx / requirement_solution.docx）: 8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另"
  },
  "override_history": [
   {
@@ -296,6 +296,136 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "研究档法定名",
+   "DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-07-14；**同名陷阱：Delta Consulting LLC Oxford"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "din",
+   "poe",
+   "switch",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM-2BT",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1119",
+    "表",
+    "引流机型→small 8 port high poe"
+   ],
+   [
+    "2023",
+    "表",
+    "Simon 备注/兴趣栏→从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）"
+  ],
+  "size": "小型（估 10–30 人）（第 91 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "格鲁吉亚·集成商/安装商；研究档法定名：DELTA CONSULTING LLC（შპს；Tbilisi；SAM UEI J9LKEG5JR7D6 / CAGE SJFH4，Expired 2022-。往来 1119→2026-09-01：我方去信 2 封（A 2 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：1119 表: 引流机型→small 8 port high poe ‖ 2023 表: Simon 备注/兴趣栏→从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，。我方报过：$170 / $280。对位：STI-288DGGPM-2BT；路径：企业邮箱 MX ok + WA；最近来信 2024-11-19（23 月前）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "2024-11-19",
+  "last_out": "2026-09-01",
+  "prices_out": [
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "1119",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "引流机型",
+    "gist": "small 8 port high poe",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2023",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2023-07-24",
+    "dir": "in",
+    "box": "R",
+    "from": "George（需求.docx / requirement_solution.do",
+    "subj": "",
+    "gist": "8个百兆+1个千兆SFP…要有POE看门狗，强制要求…可支持导轨安装…不放电源，放一个DC 24V升48V逆变器…共分为2个单子，1个是样品单（客户已付款），另外是大货单…数量2500个，以ZX901-AF-821GNS为基础来改来报价：板子加看门狗、不带电源及电源线改用逆变器、导轨安装、接线头改、后面板大改",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 1_George"
+   },
+   {
+    "date": "2024-11-19",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「small 8 port high poe」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/A/DONE/其他优质欧洲客户 2.26.xlsx no.6 1119"
+   },
+   {
+    "date": "2026-05-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "bc4aac4de02440a8"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "c3cd22fd6af847aa"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

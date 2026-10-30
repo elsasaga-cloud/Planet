@@ -12,7 +12,7 @@ code: SB-474
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 
 name_official: "Case Communications Ltd（casecomms.com；邮箱域 case.uk.com）"
 score: 40
 country: 英国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国 High Wycombe 的工业/「street-hardened」网络品牌商（1970 年起；1988 Dowty-Case、1993 Cray，后独立）：自有品牌工业交换机 PIGE-4T-2S-G / PIGE-8T-2S-G（8 PoE + 2 SFP）/ PIGE-10T-4S-G / PIGE-16T-4S-G / PIXE-12T-4SX-G（8 PoE + 4 GE + 4×10G）/ R2-8TxP-24S-4SX-G（2021-12）、新 R3 10G L3 机；另有工业路由器、MC、延长器、网管平台。「在英国设计开发，通过合作伙伴全球销售」；市场含油气、公用事业、铁路、机场、智慧城市、交通与 M.O.D.。规模口径不一（LinkedIn 51–200 / ContactOut 1–10）。用户表：1 次实质回复，20 次跟进，自有品牌标记。（调研 2026-10-21；表内兴趣：工业FS 工业MC 自己的logo SFP ONV的；商业PoE CCTV为主 很多配件；商业POE CCTV为主 很多配件）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（AS；2024-05→2025-02））；自动分级 B：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；-60 用户已归入「不行及不太相关的」；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 20 次（2024-04-01 → 2025-10-27）；最近一次客户回复：2025-02-07：MoQ 能否定制
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列或 10G 工业汇聚（新品类） — 品牌商直联；2027-Q1 新品类锚价：STI-488XGGPM $171.9（25% 档）/ STH-2C24XF-HSI $1,500（CENTEC 群发价；第 72 批 2026-10-24）；按主表；历史报价（邮件原话，老汇率）：2025-02-08 500usd；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $65（10G Media Converter）、2024-11-07 $300（48 Port PoE Managed Switch）、2024-12-20 $240（24 Port Fiber Switch）、2025-09-29 $280（10G Enterprise SFP Switch）、2026-06-11 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Andy — for your industrial range, is there any 10G-uplink or L3 aggregation gap where a Marvell/CENTEC unit under your brand would fill a hole rather than duplicate what you have? Reference: STI-488XGGPM at $171.9 / STH-2C24XF-HSI at $1,500 USD EXW (MOQ 1, 15-day validity).
@@ -179,7 +179,7 @@ updated: 2026-10-30
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Andy（Andrew Thomas Saoulis）（Director / 老板 —— Andrew Thomas Saoulis，唯一在任董事，2000 年创办，1950 年生（第 82 批 Companies House 核实 2026-10-27））andys@case.uk.com 〔S/A 邮箱来信 2024-05-09 → 2025-02-08 来信 5 封（无署名全名）（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（AS；2024-05→2025-02）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -258,6 +258,38 @@ updated: 2026-10-30
 | 2025-10-27 | 1027 | 28bt |  | A |  | UK.xlsx#94 |
 | ? | 71 | alarm |  | A |  | UK.xlsx#94 |
 | ? | 87 | 16电 |  | A |  | UK.xlsx#94 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | UK Companies House: CASE COMMUNICATIONS LIMITED · 03913540 · Active · 2000-01-26 |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber industrial media converter network poe sfp；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-02-07 A: Hello Alan Thank you for your mail can you let me know the unit price of this switch, and MoQ to have it customised pleas. Best regards Andy ‖ 2025-02-08 A: Thank you Alan I guess this is based on the Marve… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-02-08（20 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：英国·OEM 品牌商；登记坐实：UK Companies House: CASE COMMUNICATIONS LIMITED · 03913540 · Active · 2000-01-26。往来 2024-05-09→2026-09-07：我方去信 53 封（A 36 / S 16），对方真人来信 5 封 + 表内/备注 1 条；对方问过：2024-05-09 S: Hi Simon Thank you for your mail but we already have such a switch Best regards Andy ‖ 2025-02-07 A: Hello Alan Thank you for your mail can you let me know the unit price of this switch,。我方报过：$65 / $170 / $240 / $280 / $300 / $500。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-02-08（20 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-02-03 | 去 | A | Managed Optical Bypass Switch |  |
+| 2026-03-10 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-03 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-27 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-18 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-06-11 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-17 | 去 | A | Saga Q3 Product Links |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-27 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -36,7 +36,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -151,6 +151,14 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）"
   }
  ],
  "snap_thicken": {
@@ -184,15 +192,214 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（A；2025-07→2025-07）",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-07→2025-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-07-07] Yes alan gigabit switch with gigabit uplink. Best Regards, Amy Hoi (Ms) 许婉颖 HP: +65 8796 7877 Bio-Cognitive So ‖ [A 2025-07-07] HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mo ‖ 表 2025.7.7: PoE→问了一个型号 ‖ 研 2025-07-07 Amy Hoi: Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink"
+  "evidence": "[A 2025-07-07] Yes alan gigabit switch with gigabit uplink. Best Regards, Amy Hoi (Ms) 许婉颖 HP: +65 8796 7877 Bio-Cognitive So ‖ [A 2025-07-07] HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mo ‖ 表 2025.7.7: PoE→问了一个型号"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "SG · 1 次检索：recordowl（BIO-COGNITIVE SOLUTIONS PTE. LTD.；UEN 2: Bio-Cognitive Solutions Pte. Ltd.（bio-cognitive.com；**UEN 20 · UEN 200807513Z · Live Company（年报记录停于 2012 → 待核） · 2008-04-17"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "industrial",
+   "poe",
+   "switch",
+   "工业"
+  ],
+  "p1": "STI-21616GP",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-07-07",
+    "A",
+    "HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mobile number will be replaced w"
+   ],
+   [
+    "2025-07-07",
+    "A",
+    "Yes alan gigabit switch with gigabit uplink. Best Regards, Amy Hoi (Ms) 许婉颖 HP: +65 8796 7877 Bio-Cognitive Solutions Pte Ltd Sent from Outl"
+   ],
+   [
+    "2025.7.7",
+    "表",
+    "PoE→问了一个型号"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-07-07（15 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "新加坡·集成商/安装商；登记坐实：SG · 1 次检索：recordowl（BIO-COGNITIVE SOLUTIONS PTE. LTD.；UEN 2: Bio-Cognitive Solu。往来 2024-06-18→2026-09-04：我方去信 22 封（A 16 / S 5），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-07-07 A: HI Alan Please advise the price of 4-port POE plus 1 uplink and 8 port POE with 1 uplink switches? Note: My mobile number will be replaced w ‖ 2025-07-07 A: Yes alan gigabit switch with 。我方报过：$170 / $240 / $280 / $300。对位：STI-21616GP；路径：企业邮箱 MX ok + WA；最近来信 2025-07-07（15 月前）。",
+  "n_out": 22,
+  "n_in": 2,
+  "last_in": "2025-07-07",
+  "last_out": "2026-09-04",
+  "prices_out": [
+   "170",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-07-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Commercial PoE Switch",
+    "gist": "Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f8f2f2f444ad4e1a"
+   },
+   {
+    "date": "2025-07-07",
+    "dir": "out",
+    "box": "R",
+    "from": "Alan（Quotation.pdf，Buyer Bio-Cognitive S",
+    "subj": "",
+    "gist": "STC-024GP 2 GE 上联 + 4 GE PoE 60W $19.0；STC-204GP 2 SFP + 4 PoE $21.0；STC-028GP 2 GE + 8 PoE 120W $24.5；STC-228GP 2 SFP + 2 GE + 8 PoE 120W Watchdog $36.5；validi",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a att 2025-07-07"
+   },
+   {
+    "date": "2025-08-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Commercial PoE Switch",
+    "gist": "Re: Commercial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f66064b1b1e4e590"
+   },
+   {
+    "date": "2025-09-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port Fiber Switch",
+    "gist": "24 Port Fiber Switch",
+    "prices": [
+     "240"
+    ],
+    "bulk": false,
+    "k": "b6167cf5ddca4d64"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "4961a8b9f1eead8f"
+   },
+   {
+    "date": "2025-11-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "114c06e31ac1d3dd"
+   },
+   {
+    "date": "2025-12-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "69c9dd9eea187b62"
+   },
+   {
+    "date": "2025.7.7",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "PoE",
+    "gist": "问了一个型号",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "bdda29896ff45d40"
+   },
+   {
+    "date": "2026-07-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "7588a0a5ec1cb01b"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "e686653b906d681d"
+   },
+   {
+    "date": "2026-09-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fe745b402d5d72c4"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

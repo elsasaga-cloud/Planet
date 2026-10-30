@@ -297,16 +297,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）",
+  "reason": "真回信 8 封 / 表内 3 条 / 研究档 0 条（AS；2024-05→2025-04）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-03-03] We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened ‖ [A 2025-04-28] Do you have broadcom based solution? ‖ 表 2025.3.3: 芯片→只用博通方案 ‖ 研 2025-03-03 mark@expresssupply.net: We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschult / 2025-04-28 Mark: Do you have broadcom based solution?"
+  "evidence": "[A 2025-03-03] We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened ‖ [A 2025-04-28] Do you have broadcom based solution? ‖ 表 2025.3.3: 芯片→只用博通方案"
  },
  "override_history": [
   {
@@ -316,8 +316,227 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 0 条（AS；2024-05→2025-04）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 5 条（AS；2024-05→2025-04）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 8 封 / 表内 3 条 / 研究档 0 条（AS；2024-05→2025-04）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · Florida 公司（corporationwiki 摘要）+ FDOT 州采购合同 PDF（DOT-ITB: EXPRESS SUPPLY, INC.（品牌 Hardened Networks = ITS Express；关联 I · Florida corporation（Express Supply, Inc. · 两家公司均 Active（corporationwiki）； · Express Su"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-01-27",
+    "S",
+    "it appears you have a 12 fiber 24 copper. Can you send me a spec sheet on this one -- With kind regards, Mark Express Supply Inc. 407-497-86"
+   ],
+   [
+    "2025-01-28",
+    "S",
+    "Do you have all 10 gig fiber 1g/2.5g/10g I am interested in buying in bulk -- With kind regards, Mark Express Supply Inc. 407-497-8614 Harde"
+   ],
+   [
+    "2025-02-05",
+    "S",
+    "Do you have any Broadcom based layer 3 switches ?"
+   ],
+   [
+    "2025-02-05",
+    "S",
+    "I need a broadcom chipset"
+   ],
+   [
+    "2025-03-03",
+    "A",
+    "We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened Networks / ITS Express Switch"
+   ],
+   [
+    "2025-04-28",
+    "A",
+    "Do you have broadcom based solution?"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-04-28（18 月前）"
+  ],
+  "size": "未见人数（专业小品牌）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记坐实：USA · Florida 公司（corporationwiki 摘要）+ FDOT 州采购合同 PDF（DOT-ITB: EXPRESS SUPPLY, IN。往来 1218→2026-02-12：我方去信 21 封（A 5 / S 16），对方真人来信 8 封 + 表内/备注 3 条；对方问过：2025-02-05 S: Do you have any Broadcom based layer 3 switches ? ‖ 2025-02-05 S: I need a broadcom chipset ‖ 2025-03-03 A: We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschu。我方报过：$1000 / $4000。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-04-28（18 月前）。",
+  "n_out": 21,
+  "n_in": 8,
+  "last_in": "2025-04-28",
+  "last_out": "2026-02-12",
+  "prices_out": [
+   "1000",
+   "4000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-02-05",
+    "dir": "in",
+    "box": "S",
+    "from": "mark@expresssupply.net",
+    "subj": "Re: 48 Port SFP Switch",
+    "gist": "I need a broadcom chipset",
+    "prices": [],
+    "bulk": false,
+    "k": "5f00be3e081f8769"
+   },
+   {
+    "date": "2025-02-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 48 Port SFP Switch",
+    "gist": "Re: 48 Port SFP Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fde83e85b7b7a1f9"
+   },
+   {
+    "date": "2025-02-05",
+    "dir": "in",
+    "box": "S",
+    "from": "mschulting@expresssupply.net",
+    "subj": "Re: 48 Port SFP Switch",
+    "gist": "Do you have any Broadcom based layer 3 switches ?",
+    "prices": [],
+    "bulk": false,
+    "k": "77292929c533730c"
+   },
+   {
+    "date": "2025-02-10",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 48 Port SFP Switch",
+    "gist": "Re: 48 Port SFP Switch",
+    "prices": [
+     "1000",
+     "4000"
+    ],
+    "bulk": false,
+    "k": "eb80eea25e1a3bb5"
+   },
+   {
+    "date": "2025-03-03",
+    "dir": "in",
+    "box": "A",
+    "from": "mark@expresssupply.net",
+    "subj": "Re: Marvell Alleycat5 Solution",
+    "gist": "We use Broadcom With Kind Regards, Mark Express Supply Inc. 407-497-8614 mschulting@expresssupply.net Hardened Networks / ITS Express Switches and Advanced Imag",
+    "prices": [],
+    "bulk": true,
+    "k": "c7ad8300f3fcf7eb"
+   },
+   {
+    "date": "2025-03-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "e6d8c2ef74098ad1"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Alleycat5 Solution",
+    "gist": "Re: Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "e8d9d485eebf828f"
+   },
+   {
+    "date": "2025-04-28",
+    "dir": "in",
+    "box": "A",
+    "from": "mark@expresssupply.net",
+    "subj": "Re: Marvell Alleycat5 Solution",
+    "gist": "Do you have broadcom based solution?",
+    "prices": [],
+    "bulk": true,
+    "k": "898769c94b9fc197"
+   },
+   {
+    "date": "2025-12-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "a075cd0fca4cd48b"
+   },
+   {
+    "date": "2025.3.3",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "芯片",
+    "gist": "只用博通方案",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Marvell Alleycat5 Solution",
+    "gist": "Re: Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "231c410bdb6b62d3"
+   },
+   {
+    "date": "2026-02-12",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "e9709693f3cd893b"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

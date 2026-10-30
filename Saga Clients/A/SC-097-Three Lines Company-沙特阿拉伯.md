@@ -12,7 +12,7 @@ code: SC-097
 rating: A
 rating_auto: B
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 name_official: "3Lines Advanced Technologies Company（利雅得）"
 score: 37
 country: 沙特阿拉伯
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：沙特 2019 年成立的「愿景 2030」军民服务本地化公司（供应链与技术服务，AS9110/AS9120 航空维修资质，地面保障设备、电子诊断维修车间），采购 Eng. Mohamed Ismail 要堆叠交换机 + 整套配件、光模块 / MC，「其实是需要其他品牌的」；军工属性 → 守界降 C。（调研 2026-10-21；表内兴趣：堆叠switch+整套配件；光模块 MC  其实是需要其他品牌的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05））；自动分级 B：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05））；自动分级 B：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；-3 WhatsApp 加不上；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/沙特阿拉伯；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
 - **历史互动**：WhatsApp 已加；推送 5 次（2023-02-28 → 2025-10-02）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 守界（军工）；且要的是他牌堆叠；None
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -96,7 +96,7 @@ updated: 2026-10-30
   > 兴趣：堆叠switch+整套配件;光模块 MC 其实是需要其他品牌的
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Eng. Mohamed Ismail（）ismail@3lines.com.sa +966 56 974 7353〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-05）
 - 备注：（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回
 
 ### 加厚挖掘（2026-10-21 · B 级加厚 v1（身份判断 → 军工守界降 C））
@@ -135,6 +135,21 @@ updated: 2026-10-30
 | 2023-09-01 | 2023.9.1 | 发了小壳系列价格宣传册 |  | Simon邮箱 |  | 自建站 最早一批.xlsx#62 |
 | 2025-06-21 | 2025.6.21 | 48口 |  | E |  | E Replied 2026.08.04.xlsx#4 |
 | 2025-10-02 | 102 | dac |  | E |  | E Replied 2026.08.04.xlsx#4 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | 3Lines Advanced Technologies Company（利雅得） |
+| ② 角色 / 对位 | ISP/运营商 | 对位词：industrial 交换机；P1 待定 |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-05-07 E: Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specificatio ‖ 2025-05-12 E: Hello Team, Kindly find the following details for… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：沙特阿拉伯·ISP/运营商；研究档法定名：3Lines Advanced Technologies Company（利雅得）。往来 —→2025-05-12：我方去信 0 封（A 0 / S 0），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-05-07 E: Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specificatio ‖ 2025-05-12 E: Hello Team, Kindly find the f。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）。
 
 ## 联系方式（已有 · 原值照录）
 

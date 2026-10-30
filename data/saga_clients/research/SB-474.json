@@ -56,7 +56,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（AS；2024-05→2025-02）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -255,6 +255,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来；A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 1 条 / 研究档 0 条（AS；2024-05→2025-02）"
   }
  ],
  "snap_thicken": {
@@ -289,15 +297,225 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 5 封 / 表内 1 条 / 研究档 1 条（AS；2024-05→2025-02）",
+  "reason": "真回信 5 封 / 表内 1 条 / 研究档 0 条（AS；2024-05→2025-02）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-02-08] Thank you Alan ‖ [A 2025-02-08] Thank you Alan I guess this is based on the Marvell chipset. It does seem quite expensive we have layer 3 swit ‖ 表 2025.2.7: 22迷你→MoQ 能否定制 ‖ 研 2025-02-07 Andy: can you let me know the unit price of this switch, and MoQ to have it customised / 2025-02-08 Andy: It does seem quite expensive we have layer 3 switches for a lot less."
+  "evidence": "[A 2025-02-08] Thank you Alan ‖ [A 2025-02-08] Thank you Alan I guess this is based on the Marvell chipset. It does seem quite expensive we have layer 3 swit ‖ 表 2025.2.7: 22迷你→MoQ 能否定制"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "UK Companies House: CASE COMMUNICATIONS LIMITED · 03913540 · Active · 2000-01-26"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-05-09",
+    "S",
+    "Hi Simon Thank you for your mail but we already have such a switch Best regards Andy"
+   ],
+   [
+    "2025-02-07",
+    "A",
+    "Hello Alan Thank you for your mail can you let me know the unit price of this switch, and MoQ to have it customised pleas. Best regards Andy"
+   ],
+   [
+    "2025-02-08",
+    "A",
+    "Thank you Alan I guess this is based on the Marvell chipset. It does seem quite expensive we have layer 3 switches for a lot less. Best rega"
+   ],
+   [
+    "2025.2.7",
+    "表",
+    "22迷你→MoQ 能否定制"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-02-08（20 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "英国·OEM 品牌商；登记坐实：UK Companies House: CASE COMMUNICATIONS LIMITED · 03913540 · Active · 2000-01-26。往来 2024-05-09→2026-09-07：我方去信 53 封（A 36 / S 16），对方真人来信 5 封 + 表内/备注 1 条；对方问过：2024-05-09 S: Hi Simon Thank you for your mail but we already have such a switch Best regards Andy ‖ 2025-02-07 A: Hello Alan Thank you for your mail can you let me know the unit price of this switch,。我方报过：$65 / $170 / $240 / $280 / $300 / $500。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-02-08（20 月前）。",
+  "n_out": 53,
+  "n_in": 5,
+  "last_in": "2025-02-08",
+  "last_out": "2026-09-07",
+  "prices_out": [
+   "65",
+   "170",
+   "240",
+   "280",
+   "300",
+   "500"
+  ],
+  "timeline": [
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "70eb943dfa0dd262"
+   },
+   {
+    "date": "2026-03-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "aebd87c9a628abe5"
+   },
+   {
+    "date": "2026-03-30",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "e3b17ecc02f69549"
+   },
+   {
+    "date": "2026-04-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "8ce19b6ffd1a3ba8"
+   },
+   {
+    "date": "2026-04-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "448a9c3b76ca1ef9"
+   },
+   {
+    "date": "2026-05-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f7d718d0e5b6dc05"
+   },
+   {
+    "date": "2026-06-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "9426ef577ace1e5d"
+   },
+   {
+    "date": "2026-07-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "993fc6924cc7a023"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "968321368f9779b1"
+   },
+   {
+    "date": "2026-08-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "53b8a8f5ab730f31"
+   },
+   {
+    "date": "2026-08-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "4384d2fea24d4113"
+   },
+   {
+    "date": "2026-09-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "53f3ed4d154ea652"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -9,7 +9,7 @@
 code: SB-274
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 I
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 I
 name_official: "Fiberix İletişim Hizmetleri Ltd. Şti.（Gaziantep, TR；fiberix.com.tr；BTK 授权 ISP，AS205768）"
 score: 48
 country: 土耳其
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其加济安泰普的本地光纤 ISP Fiberix（BTK 授权基础设施与互联网服务商；RIPE 成员 AS205768（1,024 IPv4，2017 年分配）；Gazi Mah. Zübeyde Hanım Bulvarı No:74/A Şehitkamil；+90 850 333 27 00；info@fiberix.com.tr；规模口径 1–20 至 51–200 不一；套餐 20–35 Mbps 家庭宽带；联系人 Zafer Yılmaz（RIPE 联系 zafery@））。ISAF 记录：Karasu——在广州有合作伙伴，最主要找商业级交换机与 SFP 收发器，PoE 不常用；WhatsApp 已加；无后续跟进。运营商终端用户，小型 → B 25%。（调研 2026-10-21；表内兴趣：在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  POE不常用；在广州有合作伙伴 最主要找商业级交换机 SFP Transceiver  PoE不常用）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 ISP（AS205768），全光汇聚对位（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 ISP（AS205768），全光汇聚对位（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGM — 运营商终端 25% 档：STC-424XGGM（24 GE + 4×10G SFP+ L2+，$132.7；L3 档 $280.3——第 74 批(r) 更正：$132.7 是 L2+ 档价，不是 L3）作小 ISP 汇聚；接入 STC-28GM（Realtek 线 2 SFP + 8 GE L2 管理，列表 $50.6）；SFP 模块随单报；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Karasu Bey, Gaziantep ağınız için 24 port gigabit + 4×10G SFP+ L2+ switch EXW 132,7 USD (L3 sürümü 280,3 USD), yanında 1G/10G SFP modülleri de aynı faturada; Guangzhou'daki tedarikçinizin fiyatıyla karşılaştırmanız için teknik föyü göndereyim mi?
@@ -129,7 +129,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Karasu（用户表联系人（抄送）（第 106 批 官方登记核实 2026-10-28））karasu@fiberix.com.tr（用户表） +90 554 154 0100（用户表，WhatsApp 已加）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Zafer Yılmaz（RIPE 管理联系人（网络负责人推定）= 收件人（第 106 批 官方登记核实 2026-10-28））zafery@fiberix.com.tr（RIPE 公开） +90 342 215 16 93〔https://www.ripe.net/membership/member-support/list-of-members/tr/fiberixinternet/〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 ISP（AS205768），全光汇聚对位（土耳其）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·Simon 表内亲记：加济安泰普光纤 ISP（AS205768），全光汇聚对位（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -168,6 +168,21 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd: Fiberix İletişim Hizmetleri Ltd. Şti.（fiberix.com.tr；加济安泰普 Şehitkamil）— BTK 授权基础 · Active |
+| ② 角色 / 对位 | ISP/运营商 | 对位词：ethernet fiber poe sfp 交换机 光纤；P1 STC-424XGGM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：土耳其·ISP/运营商；登记线索：TR · 1 次检索：官网 İletişim（Ünvan Fiberix İletişim Hizmetleri Ltd: Fiberix İletişim H。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STC-424XGGM；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

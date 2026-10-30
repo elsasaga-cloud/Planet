@@ -1,18 +1,18 @@
 # nkstech.net
 **官方名称（调研核实）**：Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）
 
-> **评级 A**　|　菲律宾　|　档案编号 `SB-071`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　菲律宾　|　档案编号 `SB-071`　|　优先级 ★★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 未知；命中 2/6（成单/样品 ✔ · 真回 — · WA — · 对位 未知 · 登记 未坐实 · 体量 中小型）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
 >
-> **类型**：经销/集成商（推断）　|　**历史关系**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）　|　**所在清单**：E冷名单(菲律宾)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成商（推断）　|　**历史关系**：推送 1 次（2025-10-09 → 2025-10-09）　|　**所在清单**：E冷名单(菲律宾)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-071
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 name_official: "Nayon Kontrol Systems (NKS)（Quezon City, Philippines；nkstech.net / nks.ph；电力 SCADA 自动化集成商）"
 score: 61
 country: 菲律宾
@@ -20,7 +20,7 @@ region: 亚太
 website: nkstech.net
 type: 经销/集成商
 tier_tags: ["E冷名单(菲律宾)"]
-deal: yes
+deal: no
 replies: 0
 followups: 1
 first_contact: 2025-10-09
@@ -37,8 +37,8 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：菲律宾电力 SCADA/自动化集成商 Nayon Kontrol Systems（1996 年成立；为电力公司做 SCADA、变电站自动化、RTU（GE-Harris D20）；客户 NGCP、Meralco、First Gen、DMCI、Citicore、Global Business Power、Manila Water、Palau Public Utilities；常被 ABB/Siemens/Alstom 咨询；43–60 人；No. 4 Illinois St., Brgy. Silangan, Cubao, Quezon City；+632 8913 1347；info@nks.ph）。用户表（富通天下外贸数据）：「买了迈威的」= 从迈威采购工业交换机（变电站网络），非 Saga 成交；E 冷名单 1 次跟进 0 回复。变电站/电力 = 关键基础设施 → 按个案守界（民用电力自动化可做）。（调研 2026-10-21；表内兴趣：买了迈威的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11））；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
-- **历史互动**：成交/下单过；推送 1 次（2025-10-09 → 2025-10-09）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11））；自动分级 A：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 E 冷名单（按国家群发）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 亚太/菲律宾；+5 最近活动 2025；-3 跟进表最近平台标记 E（已降为群发）
+- **历史互动**：推送 1 次（2025-10-09 → 2025-10-09）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：无 — 不投入。已打开的主题（2/4 封有打开记录）：「10G Media Converter」(2024-11-06)、「48 Port PoE Managed Switch」(2024-12-03) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；—；群发里他已看到的价（续，第 66 批全量复核）：2024-11-06 $65（10G Media Converter）、2024-12-03 $300（48 Port PoE Managed Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-05-01 $65（10G Media Converter = 10G 媒体转换器，Elsa 箱 1 轮 2025-05-01；Simon 实报就是 $65）；2026-05-05 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 2 轮 2025-10-09→2026-05-05；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-06 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-06；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
 - **最大未知**：采购/产品负责人姓名（表内只有公司级邮箱）
@@ -152,7 +152,7 @@ updated: 2026-10-30
   > 买了迈威的 / 富通天下
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mark Delapaz（NKS 员工（ZoomInfo 公开；职务待核）= 收件人 — 一页纸一次：集成商 25% B、已外采 Maiwe 的变电站自动化集成商 → STI-288DGGPM / STI-488DGGPM + STI-280GE 一口价 + 付费样机；不声称 IEC 61850 / 电力认证；电力项目按单核 — 菲律宾常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 马尼拉、NTC 不声称（第 120 批 官方登记核实 2026-10-29））— +632 8913 1347（公司）〔https://www.zoominfo.com/p/Mark-Delapaz/-1345711402〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-11→2024-11）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 一封'迈威对位 STI 工业线'邮件。
 
@@ -201,6 +201,31 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-09 | 2025.10.9 | dac |  | E |  | 菲律宾.xlsx#14 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYST: Nayon Kontrol Systems（NKS；nkstech.net；**No. 4 Illinois St., Brgy. Silangan, Dist · 营业中（官网 + 企业库） |
+| ② 角色 / 对位 | 分销商 | 对位词：fiber industrial switch 交换机 工业 网络；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-11-06 S: Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07, |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-11-06（23 月前） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：菲律宾·分销商；登记线索：PH · 1 次检索：aihitdata.com/company/01B1B037（NAYON KONTROL SYST: Nayon Kontrol Syst。往来 2024-11-06→2025-03-19：我方去信 4 封（A 1 / S 3），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-11-06 S: Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial Road #07-06/07,。我方报过：$65 / $300。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2024-11-06（23 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-11-06 | 来 | S | Re: 10G Media Converter｜Hi Could you send me datasheet ? Thanks and best regards Steven Fu Avanca Technologies Pte Ltd -Since 2002 23 New Industrial R… |  |
+| 2024-11-06 | 去 | S | 10G Media Converter | $65 |
+| 2024-12-03 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2025-01-10 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-03-19 | 去 | A | 8 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -264,7 +289,7 @@ updated: 2026-10-30
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STI-288DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STI-288DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -272,7 +297,7 @@ updated: 2026-10-30
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付
+- **S**：名单内已有联系记录，不是零起点
 - **W**：Saga 无 UL / bt（商用线）/ 云管理，若对方招标要求这些即出局
 - **O**：P1 STI-288DGGPM 按 25% 档报价，做现供应商的第二货源；对位其在用/在卖的 迈威：涨价、断货或交期拉长时切入；规模（调研）：待补证
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；现有品牌分销协议可能限制同品类采购；汇率与海运波动吃掉 20–30% 的价差
@@ -293,7 +318,7 @@ updated: 2026-10-30
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ 迈威 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -308,7 +333,7 @@ updated: 2026-10-30
 ```text
 Hi Mark,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $137.5), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?
+Picking up our earlier exchange about PoE / industrial switches. Hello NKS team, for SCADA networks where IEC 61850-3 certification is not mandated (solar plants, remote RTUs): DIN-rail 2× SFP + 8× GbE L2+ switches with ERPS at $71.0 EXW (PoE+ version $137.5), −40/+75 °C — which of your current projects use Maiwe-class switches so I can quote a like-for-like?
 
 We supply a Marvell-based industrial DIN-rail L2+ managed switch, 8x Gigabit PoE+ plus 2x 2.5G SFP - model STI-288DGGPM - that fits the same slot as the Maiwe class you work with at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $137.5 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

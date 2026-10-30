@@ -65,8 +65,8 @@
    "source": "用户 Clients 表 + Impressum"
   }
  ],
- "grade_override": "B",
- "override_reason": "画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n重启角度：'E-link 同类 DIN 工业 PoE 的补充 SKU + Teltonika 路由配套 PoE 供电'，P1 STI-288DGGPM（分销 20%）；一次单问邮件 + 电话。Impressum 邮箱 communication@voip.world 与用户记录 communication@voipdistri.com 同主体。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -182,5 +182,215 @@
   "note": "官网快照两次失败（2026-10-21 / 2026-10-29：超时），但 DNS 2026-10-29 16:2xZ 复查 voipdistri.com MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
   "why": ""
  },
- "override_history": []
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "B",
+   "to": "A",
+   "prev_reason": "画像极对路（德国、已进口 E-link 工业交换机、服务工业客户），但 7 次推送 0 回复；且其询问点（I/O 模块、找分销）Saga 不供 → 转为慢跟、换角度重启。",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 2024: Simon 备注/兴→买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "DE · 1 次检索：firmenwissen / Creditreform（Rechtsform Gewerbebet: Mathias Gottensträter VoIPDistri.com（voipdistri.com；Halle (W · 无 HRB（个体工商 Gewerbebetrieb）；USt-IdNr. DE8 · Aktiv（官网 / 电商在线，2020 起 Kleinan · ≈2003–2010"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024",
+    "表",
+    "Simon 备注/兴趣栏→买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商 ； 49 5201 730030"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "微型（1 人 + 兼职）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "德国·分销商；登记坐实：DE · 1 次检索：firmenwissen / Creditreform（Rechtsform Gewerbebet: Mathias Gottensträ。往来 2024→2026-09-24：我方去信 16 封（A 15 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过：2024 表: Simon 备注/兴趣栏→买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商 ； 49 5201 730030。我方报过：$170 / $280 / $300。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 16,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-09-24",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-09-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "273ba33b9010a5f7"
+   },
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "67dbdecc15c754e6"
+   },
+   {
+    "date": "2025-11-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7946ab3b52d6babd"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "605b1bfc4ec48ebc"
+   },
+   {
+    "date": "2026-01-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "fdc1900ce6f19b5d"
+   },
+   {
+    "date": "2026-03-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "32e3f528aad2654b"
+   },
+   {
+    "date": "2026-05-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "7844bec7716a4d16"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "ec68c3c56990ea4f"
+   },
+   {
+    "date": "2026-07-08",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "9d1131c7d790b69d"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "aaa3a0564e615c5d"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "2b19a3813057aef7"
+   },
+   {
+    "date": "2026-09-24",
+    "dir": "out",
+    "box": "R",
+    "from": "A 群发",
+    "subj": "",
+    "gist": "10G Enterprise SFP Switch、90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_digest"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

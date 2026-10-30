@@ -58,7 +58,7 @@
   "why": "明确问 OEM 定制 → OEM/ODM 30% 档；若只是自用/项目则 25%"
  },
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
  "mail_review": {
   "binding": {
    "level": "轻度触达（2026-10-03 一封实质来信「This actually does have my interest. What levels of customization… api availability for controller integration」；Simon 10-04 长回 + 10-19 催样，均无回；Elsa 箱：`to:fikesmedia.com` 逐户查 0（2026-10-25，complete，To/Bcc 同查） → Elsa 箱从未发过本户，往来只在 S/A 箱（去 3 / 来 1）（第 74 批(h)））",
@@ -154,6 +154,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A5 自有品牌+对位+真人往来",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）"
   }
  ],
  "deep": {
@@ -189,7 +197,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
@@ -199,5 +207,70 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 研 2026-10-03 Christopher Fikes: This actually does have my interest. What levels of customization are offered? I"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：Tracxn（2007 年 Christopher Fikes 创立；Silsbee；未融资）+ : FikesMedia LLC（fikesmedia.com；Silsbee TX） · 官网在线（2026）；登记状态存疑（镜像 inactive）"
+  ],
+  "role": "OEM 品牌商/集成商/安装商",
+  "fit_words": [
+   "fiber",
+   "switch",
+   "网络"
+  ],
+  "p1": "STC-424XGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2026-10-03",
+    "R",
+    "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for contr"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-10-03（0 月前）"
+  ],
+  "size": "1 人（副业）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商/集成商/安装商；登记线索：US · 1 次检索：Tracxn（2007 年 Christopher Fikes 创立；Silsbee；未融资）+ : FikesMedia LLC（fik。往来 2026-10-03→2026-10-04：我方去信 1 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2026-10-03 R: This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for contr。我方报过：2026-10-19  $180.0；2026-10-04  $180.0；2026-10-03  $180.0。对位：STC-424XGGPM-280W；路径：企业邮箱 MX ok；最近来信 2026-10-03（0 月前）。",
+  "n_out": 1,
+  "n_in": 0,
+  "last_in": "2026-10-03",
+  "last_out": "2026-10-04",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2026-10-03",
+    "dir": "in",
+    "box": "R",
+    "from": "Christopher Fikes",
+    "subj": "",
+    "gist": "This actually does have my interest. What levels of customization are offered? I would be interested if there was api availability for controller integration.",
+    "prices": [],
+    "bulk": false,
+    "k": "af638fab0ab5ad29"
+   },
+   {
+    "date": "2026-10-04",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Christopher Fikes",
+    "subj": "",
+    "gist": "1. Customization: logo / Packaging / PVC mask / label / model name / SN / manual / default IP / SNMP OID / Web GUI language… firmware customization subject to t",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_s（fikesmedia.com，jsonl client 字段为空，按域名重扫）"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

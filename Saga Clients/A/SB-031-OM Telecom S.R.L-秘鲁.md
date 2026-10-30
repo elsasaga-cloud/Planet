@@ -12,7 +12,7 @@ code: SB-031
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 
 name_official: "OM Telecom S.R.L.（RUC 20600792858，Lima，秘鲁；om-telecom.com）"
 score: 69
 country: 秘鲁
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：秘鲁利马的工业电信集成商 OM Telecom S.R.L.（2015-11 成立，2–10 人；为能源自动化、矿业、油气、工业提供光网络、载波、SDH/PDH 复用、远动保护、IP 电话、CCTV、结构化布线等设计与实施；登记为秘鲁政府供应商 RNP）。联系人 Clyver Ore M. / Sales Manager（clyver.ore@om-telecom.com，+51 989 144 163，WA 已加）：2023-11 问「L3 industrial managed switch with PoE?」、2024-03 要「price and model list」；表内「客户找光猫 + 工业 MC」；18 次推送 1 次实质回复。需求与 Saga 工业线高度对口 → B 25%（拉美非主攻区）。（调研 2026-10-21；表内兴趣：客户找光猫+工业MC）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/秘鲁；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 2 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/秘鲁；+5 最近活动 2025
 - **历史互动**：实质回复 2 次；WhatsApp 已加；推送 18 次（2023-11-29 → 2025-10-06）；最近一次客户回复：2024-03-15：price and model list
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-448XGGGPM(L3) — 其问「L3 工业管理 PoE」→ STI-448XGGGPM(L3)（8 GE PoE + 4 SFP + 4×10G SFP+，DIN）；走量配 STI-288DGGPM（L2+）与 STI-110GE 工业 MC；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -133,7 +133,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Clyver Ore M.（Sales Manager（研究档 KP；WA 已加；2023-11 问 L3 工业）= 收件人 — 一页纸一次：集成商 25% B、STI-288DGGPM $137 / STI-488DGGPM $147 工业 L2 管理 + STC-4424GCPM $165 L2+ + STC-110XGE $65 一口价；工业 L3 不供如实说；西语备注 — 秘鲁常规：英文稿（可附西语备注）、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 利马（第 122 批 官方登记核实 2026-10-29））clyver.ore@om-telecom.com +51 989 144 163（WA 已加）〔用户 Clients 表〕
 - **KP**：Joel Ore（CFO（connectamericas 2026-10-29 吻合）（第 122 批 官方登记核实 2026-10-29）） 〔connectamericas.com〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 2 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 
@@ -194,6 +194,28 @@ WA 一次性报 STI-110GE 工业 MC（分销 20%），不做 ONU。
 | 2025-05-24 | 524 | 4 8 16口工业PoE |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#48 |
 | 2025-06-25 | 625 | bypass |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#48 |
 | 2025-10-06 | 106 | dac |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#48 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 2: OM TELECOM S.R.L.（om-telecom.com；**SUNAT 镜像 universidadperu： · RUC 20600792858 · Activo / Habido（S… |
+| ② 角色 / 对位 | 分销商 | 对位词：industrial poe switch 工业 网络；P1 STI-448XGGGPM(L3) |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2023.11.29 表: 发了商业POE价格册→L3 industrial managed switchw with POE? ‖ 2024.3.15 表: 发了L3管理poE型号给他→price and model list |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | ≥小型 | 待补证 |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：秘鲁·分销商；登记坐实：PE · 1 次检索：universidadperu.com/empresas/om-telecom.php（RUC 2: OM TELECOM S.R.L.（。往来 2023.11.29→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 2 条；对方问过：2023.11.29 表: 发了商业POE价格册→L3 industrial managed switchw with POE? ‖ 2024.3.15 表: 发了L3管理poE型号给他→price and model list。我方报过：未见报价数字。对位：STI-448XGGGPM(L3)；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2023.11.29 | 表 | 表 | 发了商业POE价格册｜L3 industrial managed switchw with POE? |  |
+| 2024.3.15 | 表 | 表 | 发了L3管理poE型号给他｜price and model list |  |
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

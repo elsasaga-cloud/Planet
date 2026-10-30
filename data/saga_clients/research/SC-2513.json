@@ -18,7 +18,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）",
  "notes": "（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
  "deep": {
   "done_at": "2026-10-25",
@@ -102,10 +102,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）",
   "why_not": "",
   "excl": "",
@@ -121,6 +121,159 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-05）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "研究档法定名",
+   "Microtech Inc"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "media converter",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STH-2C24XF-HSI（24×10G SFP+ + 2×100G）",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2026-05-11",
+    "E",
+    "Dear Elsa, Please Find The Attachment. Regards. "
+   ],
+   [
+    "2026-05-11",
+    "R",
+    "Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg）"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-05-11（5 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "巴基斯坦·分销商；研究档法定名：Microtech Inc。往来 2024-07-02→2026-10-22：我方去信 6 封（A 0 / S 6），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2026-05-11 E: Dear Elsa, Please Find The Attachment. Regards.  ‖ 2026-05-11 R: Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg）。我方报过：$180 / $220。对位：STH-2C24XF-HSI（24×10G SFP+ + 2×100G）；路径：企业邮箱 MX ok；最近来信 2026-05-11（5 月前）。",
+  "n_out": 6,
+  "n_in": 2,
+  "last_in": "2026-05-11",
+  "last_out": "2026-10-22",
+  "prices_out": [
+   "180",
+   "220"
+  ],
+  "timeline": [
+   {
+    "date": "2024-07-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 port managed switch",
+    "gist": "48 port managed switch",
+    "prices": [
+     "220"
+    ],
+    "bulk": false,
+    "k": "7378e35c40a306a4"
+   },
+   {
+    "date": "2024-08-01",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial poe switch",
+    "gist": "Industrial poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "56d7347cecb45860"
+   },
+   {
+    "date": "2024-08-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Web managed switch",
+    "gist": "Web managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "21c8e3b41ea6f664"
+   },
+   {
+    "date": "2024-10-14",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e793935acb44e044"
+   },
+   {
+    "date": "2024-11-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "463f163557899a31"
+   },
+   {
+    "date": "2025-06-04",
+    "dir": "in",
+    "box": "R",
+    "from": "Noman Asghar（Microtech Inc）",
+    "subj": "",
+    "gist": "Dear Elsa, These Product Are Not Available.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 1973b67afb1f650a"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "in",
+    "box": "R",
+    "from": "Noman Asghar（cc sales@microtech.net.pk）",
+    "subj": "",
+    "gist": "Please Find The Attachment.（附 Quotation - S10616.pdf：MikroTik CRS326-24S-2Q+RM，PKR 165,500 + 18% 税；另附我方 Dual AC.jpg）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19e15908306082b4"
+   },
+   {
+    "date": "2026-10-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "180"
+    ],
+    "bulk": false,
+    "k": "824b2af39adba7af"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

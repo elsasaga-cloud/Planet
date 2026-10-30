@@ -12,7 +12,7 @@ code: SA-086
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 name_official: "Netaş Telekomünikasyon A.Ş.（İstanbul, TR；netas.com.tr；BIST: NETAS）"
 score: 90
 country: 土耳其
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：土耳其电信设备与系统集成上市公司 Netaş（1967 年成立，1993 年上市；2025 年末员工 1,264 人、年均 1,368 人；ZTE Cooperatief U.A. 持股 48.05%，Türk Silahlı Kuvvetleri Güçlendirme Vakfı 持股 15%，其余流通；总经理 Sinan Dumlu；业务：电信运营商网络产品、本土基站、系统集成）。Saga 自建站询盘：Ender Bulut 询 OM6X2424(2)-PSE-GW（型号疑为他牌 PoE 交换机/网关）；无跟进。按规则归 C（资料保留）。（调研 2026-10-22；表内兴趣：—）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃）；自动分级 A：+50 Saga 成单（PI 包）；+12 主动询盘（阿里巴巴/自建站/转介）；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其；+5 最近活动 2025
 - **历史互动**：成交/下单过；WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-488DGGPM-2BT（在手样机）→ 若重开则 STI 系列 L3 型 + 固件 7.5 — 集成商档 25%；对方已有 Saga 供应商账号与报关记录，复购的行政成本为零（C3 顺手单）｜已发资料（勿重发）：Supplier Entry Form(English)_signed(2025-12-04)、1400-T-002 Annex 5 Defense Business Pa(2025-12-04)、CI(2026-01-23)、AWB(2026-01-23)、Warranty Certificate_STAG20251224020(2026-02-09)、Product Link_2026Q2(2026-02-09)、Saga Feature List_7.5.x_L2+(2026-07-17)；已发单据：Quotation_2025.12.09(2025-12-09)、STAG20251224020(2025-12-24)、PL_STAG20251224020(2026-01-23)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#2/#3）：Netaş 版「source code NEVER」「PIM-SM/DM/IP SLA/BFD/GR 不做」= 基准口径；7.5 的 PIM-SM（CLI）若提，注明是对 2025-10-15 的更新；CENTEC 对外不写 Stacking（Q2 价表无此项）｜毛利复盘：首单 23.8%（3 × STI-488DGGPM-2BT 成本 872，DAP 运费 270）——正常｜CENTEC STOS V2.4 功能表（2026/Q2，sha b07db6026b63a527）：PIM-SM/DM、RIPng、PBR、IP SLA、BFD、VRRP 均 ◯（MS/MA 许可）——Ender 2026-02 要的四样在 CENTEC 线上全有，卡的只是 0~40℃（他 2026-02-27 已点名）；信里把这层说出来，让他自己判断机柜是否控温；成交价 STI-488DGGPM-2BT $150/台 DAP（不含清关）+ UPS $70（2025-12-24 CI）；下次按 `列表价 $154 USD EXW（2026-10-17 快照，15 天有效）` 不低于此
 - **第一问（只问一个）**：Does your end customer's multicast design actually require PIM-DM, or would PIM-SM (now available in firmware 7.5 via CLI) be sufficient for the vehicle network?
@@ -210,7 +210,7 @@ updated: 2026-10-30
 - **KP**：Burak Ozdemir（单据联系人）buozdemir@netas.com.tr 〔PI.zip 单据〕
 - **KP**：Özlem Şahin (Uçak)（Netaş 同事，2026-01-23 / 01-27 两封来信（同串抄送/代答；职务待核））ozlem.ucak@netas.com.tr 〔A 邮箱 2026-01 来信表头〕
 - **KP**：Netaş Compliance（合规部）（2026-02→08 六封合规/供应商文件往来（供应商合规流程的发件方，非采购））compliance@netas.com.tr 〔A 邮箱 2026-02-09→08-12 来信表头〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·活跃
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -256,6 +256,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（: Netaş Telekomünikasyon A.Ş.（BIST: NETAS） · KAP 公司 ID 1041 · BIST 代码 NETAS · 实缴资本 64 · 上市公司，正常披露；20… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet fiber poe 交换机 网络；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 2026-05-05 A: [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletme ‖ 2026-08-12 A: [cid:image001.png@01DCDC99.83BD71D0] Değerli İş O… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2026-08-12（2 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：土耳其·集成商/安装商；登记坐实：Turkey · KAP 公众披露平台（kap.org.tr）+ Netaş 2025 年报 / 2025-09 季报（: Netaş Telekomünika。往来 2025-10-13→2026-08-12：我方去信 43 封（A 32 / S 0），对方真人来信 35 封 + 表内/备注 0 条；对方问过：2026-05-05 A: [cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulunan Baş İhracat Uyum Yöneticimiz tarafından kaleme alınan mektubu iletme ‖ 2026-05-05 A: [cid:image001.png@01DCDC99.83。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2026-08-12（2 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-02-27 | 来 | A | RE: Industrial L2/L3 Managed Switches｜Hi Alan, For the CENTEC-based solutions, the operating temperature range (0°C to 40°C) does not seem enough for … |  |
+| 2026-02-27 | 去 | A | Re: Industrial L2/L3 Managed Switches |  |
+| 2026-02-27 | 来 | A | RE: Industrial L2/L3 Managed Switches｜Hi Alan, Our customer’s requirements mainly focus on integrating different networks within a container installed… |  |
+| 2026-03-02 | 去 | A | Re: Industrial L2/L3 Managed Switches |  |
+| 2026-03-02 | 来 | A | RE: Industrial L2/L3 Managed Switches｜Thank you, Alan, for all your support. We have left one STI-488DGGGPM-2BT sample with our customer for basic tes… |  |
+| 2026-03-02 | 来 | A | Netaş İhracat Uyum Politikası ve Yönetim Taahhüdü / Netaş Export Compliance Poli｜[cid:image001.png@01DCAA50.B01739D0] Sayın İş Ortağımız, 2025 Yılı İh… |  |
+| 2026-05-05 | 来 | A | Q1/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q1/2026 Let｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
+| 2026-05-05 | 来 | A | Q1/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q1/2026 Let｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
+| 2026-07-17 | 去 | A | Re: Industrial L2/L3 Managed Switches |  |
+| 2026-08-12 | 来 | A | Q2/2026 Baş İhracat Uyum Yöneticisinden Tüm İş Ortaklarına Mektup - Q2/2026 Lett｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
+| 2026-08-12 | 来 | A | Q2/2026 Baş İhracat Uyum Yöneticisi'nden Tüm İş Ortaklarına Mektup - Q2/2026 Let｜[cid:image001.png@01DCDC99.83BD71D0] Değerli İş Ortağımız, Ekte bulun… |  |
+| 2026-08-12 | 来 | R | Q4/2025（02-09）、Q1/2026（05-05）、Q2/2026（08-12）三期《A Letter from Chief Export Compliance Officer to Business Partners》+ 2026-03-02《2025-2026 ZTE 出口管制合规政策与… |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

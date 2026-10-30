@@ -25,7 +25,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\n（建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）",
  "deep": {
   "done_at": "2026-10-25",
@@ -174,6 +174,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）"
   }
  ],
  "snap_thicken": {
@@ -196,15 +204,224 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）",
+  "reason": "真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2026-03-31] Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. Thanks & Regar ‖ [E 2026-03-31] Are you ODM ?  ‖ 研 2026-03-31 DevRay Sales（sales@devray.in）: Are you ODM ? / 2026-03-31 Yogendra Rajput: Ok Great, can you share me the Data sheets along with the costing and we are int"
+  "evidence": "[E 2026-03-31] Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. Thanks & Regar ‖ [E 2026-03-31] Are you ODM ? "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "IN · 1 次检索：falconebiz（DEVRAY IT SOLUTIONS PRIVATE LIMITED CI: DevRay IT Solutions Private Limited（devray.in；CIN U62013UP20 · CIN U62013UP2024PTC204532（DevRay）/ U7290 · Active · 2024-06-13"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "industrial",
+   "network",
+   "switch"
+  ],
+  "p1": "STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB）",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-01-16",
+    "E",
+    "Please share more details and where are you based at? Thanks & Regards Yogendra Rajput (CISA & CISM Certified) Managing Director Email: <mai"
+   ],
+   [
+    "2026-01-20",
+    "E",
+    "Dear Team, Thank you. Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly sh"
+   ],
+   [
+    "2026-01-20",
+    "R",
+    "Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed datas"
+   ],
+   [
+    "2026-03-31",
+    "E",
+    "Are you ODM ? "
+   ],
+   [
+    "2026-03-31",
+    "E",
+    "Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. Thanks & Regards Yogendra Rajput +91-9739995"
+   ],
+   [
+    "2026-03-31",
+    "R",
+    "Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD."
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-03-31（7 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "印度·OEM 品牌商；登记坐实：IN · 1 次检索：falconebiz（DEVRAY IT SOLUTIONS PRIVATE LIMITED CI: DevRay IT Solution。往来 2024-07-03→2026-09-17：我方去信 8 封（A 1 / S 6），对方真人来信 5 封 + 表内/备注 0 条；对方问过：2026-01-20 R: Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed datas ‖ 2026-03-31 E: Are you ODM ?  ‖ 2026-03-31 E。我方报过：$65 / $300。对位：STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB）；路径：企业邮箱 MX ok；最近来信 2026-03-31（7 月前）。",
+  "n_out": 8,
+  "n_in": 5,
+  "last_in": "2026-03-31",
+  "last_out": "2026-09-17",
+  "prices_out": [
+   "65",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-08-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "8e178e5ef509e627"
+   },
+   {
+    "date": "2024-08-26",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial poe switch",
+    "gist": "Industrial poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f229cea5e2447145"
+   },
+   {
+    "date": "2024-10-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24V/48V PoE Switch",
+    "gist": "24V/48V PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "624e36a2acbe65b2"
+   },
+   {
+    "date": "2024-12-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9bea84abce3b8df4"
+   },
+   {
+    "date": "2024-12-30",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "5ae842df81924338"
+   },
+   {
+    "date": "2025-12-02",
+    "dir": "in",
+    "box": "R",
+    "from": "Yogendra Rajput（DevRay / MapleCloud，Mana",
+    "subj": "",
+    "gist": "Can you please share the complete product details also where are you based at?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19adee352b609882"
+   },
+   {
+    "date": "2026-01-16",
+    "dir": "in",
+    "box": "R",
+    "from": "Yogendra Rajput",
+    "subj": "",
+    "gist": "Please share more details and where are you based at?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19bc7e48dfdcafea"
+   },
+   {
+    "date": "2026-01-20",
+    "dir": "in",
+    "box": "R",
+    "from": "Yogendra Rajput",
+    "subj": "",
+    "gist": "Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed datasheet along with the ",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19bdca627e3c5966"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "in",
+    "box": "R",
+    "from": "DevRay Sales（sales@devray.in）",
+    "subj": "",
+    "gist": "Are you ODM ?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19d4289f62d8abda"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "in",
+    "box": "R",
+    "from": "Yogendra Rajput",
+    "subj": "",
+    "gist": "Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19d443b73c1a908e"
+   },
+   {
+    "date": "2026-03-31",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Please check attached links for more information, It includes almost everything. SKD is fine with us. Let's talk after your review.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19d444848ab36c29"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8a367f26cb659ec9"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

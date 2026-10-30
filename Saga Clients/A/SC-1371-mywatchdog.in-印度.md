@@ -12,7 +12,7 @@ code: SC-1371
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 P1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 name_official: "WatchDog = Apollo Infoways Pvt. Ltd."
 score: 11
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：C 池三闸捞出（★ 正式）：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 SmartByte / Marvell 管理…（调研 2026-10-29；表内兴趣：AOA Hrui 丰润达的都有）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09））；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09））；自动分级 C：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-29）**：STI-288GPM — 官网快照对位：工业/自动化词频 53、PoE 25 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-10-29；原默认 STC-424XGGPM-280W）；
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -116,7 +116,7 @@ updated: 2026-10-30
 - **【长期群复核 LT-R03】桌面复核（闸 2 证据，三问成立）：★ 全线自有品牌 · OEM 30%：WatchDog = Apollo Infoways Pvt Ltd（Noida Sector-63；PoE / 工业 / DC 交换机全线自有品牌；GeM 上架；Bangalore / Dubai / Singapore 办事处）部分坐实（CIN 未取）；自有品牌全线 ✔ 对位 ✔ → P 池候选（洪瑞现供 → Q-33 口径待 Simon：默认只推 Sma…**
   > 来源：（抓取 2026-10-29）
 - **KP**：—（表内邮箱（公开 / 总机））info@mywatchdog.in 〔〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：brands_seen/site_contacts/saga_fit/deep/facts。
 LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
 （无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
@@ -159,6 +159,38 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-D: WatchDog = Apollo Infoways Pvt. Ltd.（mywatchdog.in；**官网：H-102, Sector-63, Noida, · 营业中（官网 2025） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet industrial network poe sfp switch 交换机 工业；P1 STI-288GPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-09-16 S: Is this managed or unmanaged. Regards Ravi ‖ 2024-09-18 S: I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-09-19（25 月前） |
+| ⑤ 规模 | ≥小型 | 中型（4 城办事处；全线产品） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：印度·OEM 品牌商；登记线索：IN · 1 次检索：mywatchdog.in 首页 + /contact.html（地址 / 办事处）+ 10G-D: WatchDog = Apollo 。往来 2024-06-28→2024-12-27：我方去信 14 封（A 0 / S 14），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2024-09-16 S: Is this managed or unmanaged. Regards Ravi ‖ 2024-09-18 S: I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​。我方报过：$65 / $110 / $300。对位：STI-288GPM；路径：企业邮箱；最近来信 2024-09-19（25 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-08-20 | 去 | S | 48 port poe managed switch | $300 |
+| 2024-09-16 | 来 | S | Re: 24V/48V PoE Switch｜Is this managed or unmanaged. Regards Ravi |  |
+| 2024-09-16 | 去 | S | 24V/48V PoE Switch |  |
+| 2024-09-17 | 去 | S | Re: 24V/48V PoE Switch |  |
+| 2024-09-18 | 去 | S | Re: 24V/48V PoE Switch | $110 |
+| 2024-09-18 | 来 | S | Re: 24V/48V PoE Switch｜I need manage switch for 24V/48V POE. Regards Ravi ⁣Get BlueMail for Android ​ |  |
+| 2024-09-19 | 去 | S | Re: 24V/48V PoE Switch | $110 |
+| 2024-09-19 | 来 | S | Re: 24V/48V PoE Switch｜Will this also support 30V and 55V too? Rrgards, Ravi ⁣Get BlueMail for Android ​ |  |
+| 2024-10-15 | 去 | S | 10G Media Converter | $65 |
+| 2024-11-15 | 去 | S | Power Converter |  |
+| 2024-12-09 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2024-12-27 | 去 | S | 16 Port Ethernet Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

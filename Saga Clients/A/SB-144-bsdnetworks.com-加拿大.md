@@ -9,7 +9,7 @@
 code: SB-144
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 name_official: "BSD Networks（加拿大）"
 score: 55
 country: 加拿大
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：加拿大光纤网络产品品牌 / 分销（switch 110 / poe 83 / sfp 82 / industrial 46），Robert；表内「SFP MC 工业 FS 光猫，自己的 logo 但产品来源比较杂；光路 10G MC（注意外壳）」；群发 16 次无回复。自有 logo → OEM 30%。（调研 2026-10-21；表内兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-03→2026-03））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2026-03→2026-03））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-16 推送 16 次无任何回复（聋名单）
 - **历史互动**：推送 16 次（2024-05-09 → 2025-10-17）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-424XGGPM — 加拿大承包商 + 创始人直联。已打开的主题（7/26 封有打开记录）：「8 Port Industrial PoE Switch」(2024-12-26)、「Industrial PoE Switch」(2025-10-16)、「Marvell Managed Commercial Switches」(2026-03-30)、「Re: Marvell Managed Commercial Switche」(2026-03-31) → 读者兴趣主题类别不明（看原主题）｜已发资料（勿重发）：Product Link_2026Q2(2026-03-31)、Product Link_2026Q3(2026-07-03)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；再触锚价 STC-424XGGPM-280W $180（群发现价；8 月他见过 $170，信里点明；第 72 批 2026-10-24）；按主表；群发里他已看到的价（续）：2026-08-05 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-23 $280（10G Enterprise SFP Switch）、2026-06-10 $16000（32 Port 400GB DC Switch）
 - **第一问（只问一个）**：Robert — for the multi-residential projects you bid on, which PoE access switch spec do the consultants write in, so we can match it line by line? Reference: STC-424XGGPM-280W at $180 USD EXW (MOQ 1, 15-day validity; the $170 you saw in August was the launch price).
@@ -149,7 +149,7 @@ updated: 2026-10-30
   > 兴趣：SFP MC 工业FS SFP 光猫 自己的logo 但产品来源比较杂
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Robert Lichtenstein（）robert@bsdnetworks.com 〔（本地 Clients/ 表格，无公开 URL）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-03→2026-03）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2026-03→2026-03）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -213,6 +213,38 @@ updated: 2026-10-30
 | 2025-08-28 | 828 | 22迷你 |  | A |  | Canada 3.5.xlsx#21 |
 | 2025-09-24 | 924 | dac |  | A |  | Canada 3.5.xlsx#21 |
 | 2025-10-17 | 1017 | 24poe |  | A |  | Canada 3.5.xlsx#21 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公: BSD International Marketing（品牌 BSD Networks） · 在营（官网 2026；Graybar Canada 在售 2 |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber industrial media converter network poe sfp switch；P1 STI-288GP |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-03-30 A: Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? Specifically, do you manufact |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-05-26（5 月前） |
+| ⑤ 规模 | ≥小型 | ≈19 人（ZoomInfo）（第 89 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：加拿大·OEM 品牌商；登记线索：CA · ZoomInfo / D&B（Key Principal、人数、1982 起）+ yellowpages（母公: BSD International 。往来 2024-07-02→2026-09-09：我方去信 26 封（A 19 / S 7），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2026-03-30 A: Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom? Specifically, do you manufact。我方报过：$170 / $280 / $6000。对位：STI-288GP；路径：企业邮箱 MX ok；最近来信 2026-05-26（5 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2026-01-28 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-04 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-30 | 来 | A | Re: Marvell Managed Commercial Switches｜Good morning Alan, It was nice to hear from you. Could you please provide more information about Saga Telecom?… |  |
+| 2026-03-30 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-03-31 | 去 | A | Re: Marvell Managed Commercial Switches |  |
+| 2026-05-12 | 去 | A | Re: Marvell Managed Commercial Switches | $280 |
+| 2026-05-26 | 来 | A | You have a Bid Invitation from BSD Networks｜Hello, BSD Networks is pleased to extend a formal Invitation to Bid for the construction of a new twelve-s… |  |
+| 2026-06-10 | 去 | A | 32 Port 400GB DC Switch | $6000 |
+| 2026-07-03 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-05 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-08-18 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-09 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

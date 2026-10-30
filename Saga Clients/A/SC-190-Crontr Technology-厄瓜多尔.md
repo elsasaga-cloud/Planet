@@ -11,7 +11,7 @@ code: SC-190
 rating: A
 rating_auto: C
 sieve: pool  # 闸 1 G1 2026-10-30
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 
 name_official: "Crontr Technology"
 score: 23
 country: 厄瓜多尔
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：厄瓜多尔客户（cronte.net）：AB-FINAL-01 以回信证据建档——真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）。公司底数未查（新入库即查排队）。（调研 2026-10-30；表内兴趣：Info）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11））；自动分级 C：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/厄瓜多尔
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11））；自动分级 C：+18 在「已回复」名单（A/E Replied）；-6 群发批次名单；+10 有企业邮箱；+5 有可核实的公司网站/域名；-4 区域 拉美/厄瓜多尔
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-30）**：— — ；他见过的实报：见 facts / S邮箱_报价史；同款信稿只能写现价
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -59,6 +59,8 @@ updated: 2026-10-30
 | 2025-05-31 | 来 | depcompras@cronte.net | NEW SUPPLYER｜Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term business. Please send me your catalog and a price list with the MOQ that includes the best-selling products in Latin America. We are looking for a manu | Elsa 邮箱 真人来信（pos） | `19727cfcb1e984cb` |
 | 2025-06-03 | 来 | depcomprascronte@gmail.com | Re: NEW SUPPLYER｜Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Telecom ( e.sagatelecom@gmail.com) escribió: | Elsa 邮箱 真人来信（pos） | `197367f9a4935b24` |
 | 2025-11-18 | 来 | depcomprascronte@gmail.com | Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras ( depcomprascronte@gmail.com) escribió: | Elsa 邮箱 真人来信（thin） | `19a991c7310d4c44` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917 | A 落池核验：身份/角色/规模（网页公开信息） | `` |
+| 2026-10-30 | 查 | Agent 网查 A-DEEP-01 | Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net | A 落池核验：身份/角色/规模（网页公开信息） | `` |
 
 ## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
 
@@ -103,7 +105,7 @@ updated: 2026-10-30
 - **【邮箱来信/用户表】Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la**
   > Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras ( depcomprascronte@gmail.com) escribió:
   > 来源：19a991c7310d4c44（抓取 2025-11-18）
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）
 - 备注：（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）
 
 ### 加厚挖掘（2026-10-30 · AB-FINAL-01 回信建档）
@@ -117,6 +119,40 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 研究档法定名 | Crontr Technology |
+| ② 角色 / 对位 | 未知 | 对位词：；P1 待定 |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-05-31 E: Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term busi ‖ 2025-06-03 E: Hi Elsa, Thanks for your answer, I will check you… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-11-18（11 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：角色未知；对位不明；规模未知；人工终判：Cronte Technology S.A.（基多；进口商 + 分销商，基多/昆卡/瓜亚基尔三地；法定代表 Luis Alberto Moreta Flores）：Elsa 报价后 2025-06「会看报价」、2025-11 主动转 WhatsApp 续谈——分销商坐实 + 仍在谈 |
+
+**故事线**：厄瓜多尔；研究档法定名：Crontr Technology。往来 2024-07-09→2025-11-18：我方去信 8 封（A 0 / S 8），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2025-05-31 E: Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term busi ‖ 2025-06-03 E: Hi Elsa, Thanks for your answ。我方报过：$240 / $300。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-11-18（11 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-07-09 | 去 | S | Industrial poe managed switch |  |
+| 2024-08-01 | 去 | S | Unmanaged switch |  |
+| 2024-08-27 | 去 | S | Passive poe switch |  |
+| 2024-09-30 | 去 | S | 24V/48V PoE Switch |  |
+| 2024-11-07 | 去 | S | 8 Port Ethernet Switch |  |
+| 2024-12-02 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2024-12-20 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-01-09 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-05-31 | 来 | R | NEW SUPPLYER｜Hello, I am Edgar from Cronte Technology. I would like to review your catalog to see if your products meet our needs. We like long-term b… |  |
+| 2025-06-03 | 来 | R | Re: NEW SUPPLYER｜Hi Elsa, Thanks for your answer, I will check your quote. best regards Edgar El lun, 2 jun 2025 a la(s) 12:10 a.m., Elsa from Saga Te… |  |
+| 2025-11-18 | 来 | R | Re: NEW SUPPLYER｜Hi, I just wrote to you on WhatsApp to resume negotiations, please reply there. El mar, 3 jun 2025 a la(s) 10:53 a.m., dep. compras (… |  |
+
+- 网查（2026-10-30）：Cronte Technology S.A. · Quito, Pichincha · Key Principal Moreta Flores Luis Alberto · +593-22828917 — <https://www.dnb.com/business-directory/company-profiles/cronte-technology-sa.c6417fdaa4e01fc9532a13c4f67bbbfe>
+- 网查（2026-10-30）：Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net — <https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology>
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -12,7 +12,7 @@ code: SA-011
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "CXR Networks（CXR Anderson Jacobson, Abondant, France）"
 score: 100
 country: 法国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：法国电信设备厂商（1974 年成立，曾属 EMRISE 集团），面向地方政府、国防、能源、运营商、交通市场，自有品牌工业加固交换机 SWMD-H / SWMDL-H / FOCD-H 系列（DIN 导轨 PoE+、10G 工业管理型，2026-08 仍在发新品）。用户表：S 重点，兴趣 MC/机架/工业 FS（很多设备）/周边，用自己的牌子，1 次实质回复。（2026-10-24 并入曾用编号 旧B-1340：补录时按 cxr.fr 另建的重复档）（调研 2026-10-21；表内兴趣：MC 机架 工业FS（很多设备） 周边产品  自己的牌子；10G 媒体转换器（2024-05-30 索要规格书，Simon 报 $65/pc：1×10G SFP + 1×100M/1G/2.5G/10G RJ45，非管理，DC5–12V，含）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-05→2024-05））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05））；自动分级 A：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 21 次（2024-05-03 → 2025-12-29）；最近一次客户回复：2024-05-30：datasheet
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM / STI-488XGGPM（工业 L2+） — 保活。已打开的主题（7/26 封有打开记录）：「Re: 10g media converter」(2024-07-23)、「Mini Industrial PoE Switch」(2024-12-11)、「Industrial PoE Switch」(2025-09-30)、「Updated Ethernet Switches Links」(2026-03-02) → 读者兴趣偏「10G 汇聚/L3」；与 P1 同类，继续；换人再触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-08-27 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Which CXR industrial SKUs are bought-in rather than built in Abondant, and would a Marvell L2+ DIN unit be considered? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
@@ -171,7 +171,7 @@ updated: 2026-10-30
 - **KP**：—（总机）contact@cxr.com +33 2 37 62 88 00〔https://www.etesters.com/catalog/0008F00E-1422-08DF-AABB-60B5947A8C9F/cxr-larus-corporation〕
 - **KP**：Marco Di Valerio（来信署名人（职务未在邮件署名里出现））marco.divalerio@cxr.fr 〔S/A 邮箱来信 2024-05-30 来信 1 封（第 72 批从邮件表头补）〕
 - **KP**：Carmine Oliva（Président de SAS（法定代表，1942 年生）—— 法国实体 CXR Anderson Jacobson 唯一登记高管（第 83 批 官方登记核实 2026-10-27）） 〔https://annuaire-entreprises.data.gouv.fr/entreprise/785754706〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（S；2024-05→2024-05）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其终端市场含国防，Saga 只做 ODM 供货不涉项目。P1 = STI-288DGGPM（DIN 工业 L2+ PoE）或 STI-488XGGPM，30% OEM 档。
 
@@ -251,6 +251,38 @@ A 确认（欧洲自有品牌工业交换机厂商 = OEM 目标）；注意其�
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#18 |
 | 2025-11-27 | 1127 | solar |  | S |  | S 09.08.xlsx#18 |
 | 2025-12-29 | 1229 | taiwan |  | S |  | S 09.08.xlsx#18 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）: CXR ANDERSON JACOBSON（SAS） · SIREN 785754706（总部 SIRET 78575470600139） · Active（etat_administratif A… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber industrial media converter network poe sfp；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-05-30 S: Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards ‖ 2024.5.30 表: 发了10G MC信息→datasheet |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-05-30（29 月前） |
+| ⑤ 规模 | ≥小型 | 20–49（INSEE 2024 员工档 12）（第 83 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：法国·OEM 品牌商；登记坐实：France · API Recherche d'entreprises（INSEE SIRENE + RNE，官方）: CXR ANDERSON JACOBS。往来 2024-05-30→2026-09-08：我方去信 26 封（A 0 / S 26），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-05-30 S: Hi Simon, Thanks, please could you send data sheet please Marco Di Valerio COO Regards ‖ 2024.5.30 表: 发了10G MC信息→datasheet。我方报过：$65 / $170 / $240 / $280 / $300 / $1500。对位：STI-288DGGPM；路径：企业邮箱；最近来信 2024-05-30（29 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-25 | 去 | S | L3 Managed Switch |  |
+| 2025-07-28 | 去 | S | 16 Port Ethernet Switch |  |
+| 2025-08-27 | 去 | S | 24 Port Fiber Switch | $240 |
+| 2025-09-30 | 去 | S | Industrial PoE Switch |  |
+| 2025-10-29 | 去 | S | 10G Enterprise SFP Switch | $280 |
+| 2025-11-27 | 去 | S | Booster PoE Switch |  |
+| 2025-12-29 | 去 | S | Optional Marvell Chipset Solutions |  |
+| 2026-01-29 | 去 | S | OEM Core Switching Solution |  |
+| 2026-03-02 | 去 | S | Updated Ethernet Switches Links |  |
+| 2026-06-22 | 去 | S | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
+| 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

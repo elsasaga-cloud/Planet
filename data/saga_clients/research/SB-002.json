@@ -83,7 +83,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n",
  "researched_at": "2026-10-22",
  "deep": {
@@ -308,16 +308,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A1",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "PI包·gg",
   "why_not": "",
   "excl": "",
   "deal": "PI包·gg",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-18] Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simo ‖ [S 2024-06-18] Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jala ‖ 表 1118: 引流机型→passive poe only ‖ 研 2024-06-18 Sugito: Can we pay via Bank TT, as we dont do paypal payment here. / 2024-07-05 XSPec Hospitech Sdn"
+  "evidence": "[S 2024-06-18] Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simo ‖ [S 2024-06-18] Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jala ‖ 表 1118: 引流机型→passive poe only ‖ 研 2024-07-05 XSPec Hospitech Sdn Bhd（LOA_Xspec_5_July_24.pdf）: LETTER OF AUTHORIZATION… Online Remittance Servic"
  },
  "override_history": [
   {
@@ -327,6 +327,220 @@
    "to": "A",
    "prev_reason": "成单但核心业务是 NDT/国防/医疗设备代理，交换机为项目配套，复购逻辑弱（且含军警安防，INH 守界）；放 B 慢跟、被动响应。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·gg"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A1",
+  "ident": [
+   "登记坐实",
+   "MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (2: Xspec Technology Sdn Bhd（xspec.com.my；**SSM 200501018493 (70 · SSM 200501018493 (700608-K) · 营业中（登记在 2026-10） · 2005-06-20"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "industrial",
+   "poe",
+   "交换机"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-06-14",
+    "S",
+    "Hi Simon I am looking for PASSIVE POE 24 port Switch. Do you have ? Regards"
+   ],
+   [
+    "2024-06-14",
+    "S",
+    "MUST BE PASSIVE POE Front board has 28 ports  24 x 10-100Mbps downlink PoE Ethernet Ports  2 x 10-100-1000 Mbps uplink Ethernet Ports "
+   ],
+   [
+    "2024-06-18",
+    "S",
+    "Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jalan Industri USJ 1/8, Taman Peri"
+   ],
+   [
+    "2024-06-18",
+    "S",
+    "Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simon wrote:"
+   ],
+   [
+    "2024-07-05",
+    "R",
+    "LETTER OF AUTHORIZATION… Online Remittance Services offered by Easy Pay Transfers Sdn Bhd to Xspec Hospitech Sdn Bhd… authorize… Authorized "
+   ],
+   [
+    "2024.6.14",
+    "表",
+    "发了商业poE 228信息→24 port passive poe  后续成单"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前）"
+  ],
+  "size": "未见人数；经营 20+ 年",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "马来西亚·OEM 品牌商；登记坐实：MY · 1 次检索：buy.experian.com.my（XSPEC TECHNOLOGY SDN. BHD. (2: Xspec Technology S。往来 1118→2024-11-18：我方去信 7 封（A 0 / S 6），对方真人来信 4 封 + 表内/备注 2 条；对方问过：2024-06-18 S: Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jalan Industri USJ 1/8, Taman Peri ‖ 2024-06-18 S: Hi Simon Can we pay via Bank 。我方报过：$90。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2024-11-18（23 月前）。",
+  "n_out": 7,
+  "n_in": 4,
+  "last_in": "2024-11-18",
+  "last_out": "2024-06-21",
+  "prices_out": [
+   "90"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-14",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: PoE Switch",
+    "gist": "Re: PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "35914c672c32fd53"
+   },
+   {
+    "date": "2024-06-14",
+    "dir": "in",
+    "box": "S",
+    "from": "sugito@xspec.com.my",
+    "subj": "Re: PoE Switch",
+    "gist": "Hi Simon I am looking for PASSIVE POE 24 port Switch. Do you have ? Regards",
+    "prices": [],
+    "bulk": false,
+    "k": "c4b545e745cfee3e"
+   },
+   {
+    "date": "2024-06-14",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "PoE Switch",
+    "gist": "PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "19d06fb60a0c3c75"
+   },
+   {
+    "date": "2024-06-17",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Re: PoE Switch",
+    "gist": "Re: Re: PoE Switch",
+    "prices": [
+     "90"
+    ],
+    "bulk": false,
+    "k": "eb6c2057389fafbf"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Re: PoE Switch",
+    "gist": "Re: Re: PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3c88bfd8760e162d"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "in",
+    "box": "S",
+    "from": "sugito@xspec.com.my",
+    "subj": "Re: Re: PoE Switch",
+    "gist": "Hi Simon Can we pay via Bank TT, as we dont do paypal payment here. Regards Sugito At 04:42 PM 6/18/2024, Simon wrote:",
+    "prices": [],
+    "bulk": false,
+    "k": "ca8ed8495f53d8b5"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Re: PoE Switch",
+    "gist": "Re: Re: PoE Switch",
+    "prices": [
+     "90"
+    ],
+    "bulk": false,
+    "k": "f1756d687dfd1ee3"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "in",
+    "box": "S",
+    "from": "sugito@xspec.com.my",
+    "subj": "Re: Re: PoE Switch",
+    "gist": "Hi Simon Can we order 1 unit for testing? Send us Invoice with delivery to: XSPec Hospitech Sdn Bhd No. 8 Jalan Industri USJ 1/8, Taman Perindustrian USJ 1, 476",
+    "prices": [],
+    "bulk": false,
+    "k": "10fca04e1dcc0437"
+   },
+   {
+    "date": "2024-06-18",
+    "dir": "out",
+    "box": "R",
+    "from": "Saga 内部（Client_List_待决定.xlsx，存于 Sugito 文",
+    "subj": "",
+    "gist": "马来西亚名单：multitradepac（Advantech）、KVC Industrial Supplies（朱姐转的，ATTEL 牌 MC）、NN MAJU（2020-12 询盘 4光4电 PoE managed）、richtechsolutions（拉黑了）、marugged（Moxa）、adv.com.my（L",
+    "prices": [],
+    "bulk": false,
+    "k": "Drive PI 文件夹（data/pi_2026-10/text） 9_Sugito"
+   },
+   {
+    "date": "2024-06-21",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Re: PoE Switch",
+    "gist": "Re: Re: PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c242e05df6431bc0"
+   },
+   {
+    "date": "2024-11-18",
+    "dir": "in",
+    "box": "R",
+    "from": "用户表（Simon 跟进记录；渠道 Whatsapp）",
+    "subj": "",
+    "gist": "用户表跟进：推「引流机型」→ 对方「passive poe only」",
+    "prices": [],
+    "bulk": false,
+    "k": "Clients/Whatsapp_S跟进 2026.08.04.xlsx no.122 1118"
+   },
+   {
+    "date": "2024.6.14",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了商业poE 228信息",
+    "gist": "24 port passive poe  后续成单",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

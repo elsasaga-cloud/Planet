@@ -40,7 +40,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -261,16 +261,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
+  "grade_before": "A",
+  "reason": "真回信 3 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2025-04-09] Pls share any reference Sent from my iPhone ‖ [E 2025-04-09] Hi Do you have Routers with 1GE and 4 FE ports Sent from my iPhone ‖ 表 2025.4.9: 群发了22迷你→have Routers with 1GE and 4 FE ports? ‖ 研 2025-04-09 Faisal（International Technology Exchanger，PK）: Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP,"
+  "evidence": "[E 2025-04-09] Pls share any reference Sent from my iPhone ‖ [E 2025-04-09] Hi Do you have Routers with 1GE and 4 FE ports Sent from my iPhone ‖ 表 2025.4.9: 群发了22迷你→have Routers with 1GE and 4 FE ports?"
  },
  "override_history": [
   {
@@ -280,6 +280,128 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 1 条（E；2025-04→2025-04）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 1 条 / 研究档 0 条（E；2025-04→2025-04）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, : International Technology Exchanger (ITE)（ite.net.pk；**2004 年创立；卡拉奇 The Forum, Su · 营业中（官网 + 企业库）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "industrial",
+   "网络"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2025-04-09",
+    "E",
+    "Hi Do you have Routers with 1GE and 4 FE ports Sent from my iPhone"
+   ],
+   [
+    "2025-04-09",
+    "E",
+    "Pls share any reference Sent from my iPhone"
+   ],
+   [
+    "2025-04-09",
+    "E",
+    "Required Specifications: Routing Capabilities: * IP SLA (Service Level Agreement Monitoring) * GRE Tunneling * PPPoE (Point-to-Point Protoco"
+   ],
+   [
+    "2025.4.9",
+    "表",
+    "群发了22迷你→have Routers with 1GE and 4 FE ports?"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-04-09（18 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "规模未知"
+  ],
+  "story": "巴基斯坦·集成商/安装商；登记线索：PK · 1 次检索：ite.net.pk（Founded in 2004；Trusted by Corporate, : International Tech。往来 2025-04-09→2025-04-09：我方去信 3 封（A 0 / S 0），对方真人来信 3 封 + 表内/备注 1 条；对方问过：2025-04-09 E: Hi Do you have Routers with 1GE and 4 FE ports Sent from my iPhone ‖ 2025-04-09 E: Pls share any reference Sent from my iPhone ‖ 2025-04-09 E: Required Specifications: Routing Capabiliti。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2025-04-09（18 月前）。",
+  "n_out": 3,
+  "n_in": 3,
+  "last_in": "2025-04-09",
+  "last_out": "2025-04-09",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025-04-09",
+    "dir": "in",
+    "box": "R",
+    "from": "Faisal（International Technology Exchange",
+    "subj": "",
+    "gist": "Do you have Routers with 1GE and 4 FE ports … IP SLA, GRE Tunneling, PPPoE, BGP, IPsec Tunnels",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2025-04-09",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Sorry, it is not on our list. We can help source it if this is fine with you.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 196197e0cbc6c411"
+   },
+   {
+    "date": "2025-04-09",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Is something as attached OK?（附 Info.docx）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 196199ab58b3499b"
+   },
+   {
+    "date": "2025-04-09",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To info@globalconnectsynergy",
+    "subj": "",
+    "gist": "Mini Industrial PoE Switch — （头部未取正文；见 Elsa 箱）",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   },
+   {
+    "date": "2025.4.9",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "群发了22迷你",
+    "gist": "have Routers with 1GE and 4 FE ports?",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -37,6 +37,22 @@
     "quote": "Re: Booster PoE Switch｜Good day! May I ask if you use Viber or WhatsApp? It would be easier for us to discuss your requirements there. Thank you.",
     "why": "Elsa 邮箱 真人来信（pos）",
     "k": "19b0c1473ccbb8ea"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Optimal Systems Distribution, Inc. — Printers, Barcode Scanners, UPS, Wireless Network · 13 Banner St. Pasig City · marketing@optimal.com.ph · +63 286315578",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.facebook.com/optimalsystemsph/"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Optimal Systems Distribution · Philippines · 201-500 Employees · Revenue $19.3 Million",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.zoominfo.com/c/optimal-systems-distribution-inc/457685843"
    }
   ],
   "binding": {
@@ -60,10 +76,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）",
   "why_not": "",
   "excl": "",
@@ -79,8 +95,104 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2025-12）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-12-11",
+    "E",
+    "Good day! May I ask if you use Viber or WhatsApp? It would be easier for us to discuss your requirements there. Thank you."
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-12-11（10 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：Optimal Systems Distribution, Inc.（菲律宾 Pasig；打印机/条码/UPS/无线网络分销商；ZoomInfo 201–500 人、营收 $19.3M）：2025-12 来信要转 Viber/WhatsApp 谈需求——分销商坐实 + 主动要谈"
+  ],
+  "story": "菲律宾；未坐实：待快照。往来 2025-02-11→2025-12-11：我方去信 2 封（A 2 / S 0），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2025-12-11 E: Good day! May I ask if you use Viber or WhatsApp? It would be easier for us to discuss your requirements there. Thank you.。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok；最近来信 2025-12-11（10 月前）。",
+  "n_out": 2,
+  "n_in": 1,
+  "last_in": "2025-12-11",
+  "last_out": "2025-03-17",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2025-02-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "9ef7c56f30be24a8"
+   },
+   {
+    "date": "2025-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Alleycat5 Solution",
+    "gist": "Marvell Alleycat5 Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "9cb0254d5ee2fa4e"
+   },
+   {
+    "date": "2025-12-11",
+    "dir": "in",
+    "box": "R",
+    "from": "daniela.sencio@optimal.com.ph",
+    "subj": "",
+    "gist": "Re: Booster PoE Switch｜Good day! May I ask if you use Viber or WhatsApp? It would be easier for us to discuss your requirements there. Thank you.",
+    "prices": [],
+    "bulk": false,
+    "k": "19b0c1473ccbb8ea"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.facebook.com/optimalsystemsph/",
+    "quote": "Optimal Systems Distribution, Inc. — Printers, Barcode Scanners, UPS, Wireless Network · 13 Banner St. Pasig City · marketing@optimal.com.ph · +63 286315578",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/optimal-systems-distribution-inc/457685843",
+    "quote": "Optimal Systems Distribution · Philippines · 201-500 Employees · Revenue $19.3 Million",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

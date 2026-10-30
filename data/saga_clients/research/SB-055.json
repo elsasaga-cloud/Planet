@@ -46,7 +46,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-03→2025-03）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nWA 季度触达一次（STC-28DGGPM / STC-424DGGPM-280W，项目 25%）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -169,6 +169,14 @@
    "to": "A",
    "prev_reason": "欧洲主攻区、CCTV 对位 PoE，但 1 次回复后 15 次推送无果 → 慢跟。",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-03→2025-03）"
   }
  ],
  "snap_thicken": {
@@ -200,15 +208,212 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 2 条（A；2025-03→2025-03）",
+  "grade_before": "A",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（A；2025-03→2025-03）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2025-03-05] Dear Alan, thank u, where can i find prices? Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS In ‖ [A 2025-03-05] Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS ‖ 表 2025.3.5: 28poe→price ‖ 研 2025-03-05 Jacco Slob（CEO）: please sent me pricelist. / 2025-03-05 Jacco: thank u, where can i find prices?"
+  "evidence": "[A 2025-03-05] Dear Alan, thank u, where can i find prices? Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS In ‖ [A 2025-03-05] Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS ‖ 表 2025.3.5: 28poe→price"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Nederland · KvK Handelsregister 镜像（drimble / transfirm / bed: Epic Europe B.V.（商号 DIOS / DIOS Industries / DIOS Ultra HD S · KvK 59111380 · vestigingsnr 000028430891 · Actief（年报存档记录至 2021 账年，2022 年  · 2013-10-29"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "ethernet",
+   "switch"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-03-05",
+    "A",
+    "Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-indust"
+   ],
+   [
+    "2025-03-05",
+    "A",
+    "Dear Alan, thank u, where can i find prices? Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-industrie"
+   ],
+   [
+    "2025.3.5",
+    "表",
+    "28poe→price"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-03-05（19 月前）"
+  ],
+  "size": "5–9 人（de10beste / KvK 人数档）；年报存档记录至 2021 账年（第 88 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "荷兰·分销商；登记坐实：Nederland · KvK Handelsregister 镜像（drimble / transfirm / bed: Epic Europe B.V.（商。往来 2024-07-05→2026-09-02：我方去信 26 封（A 18 / S 8），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2025-03-05 A: Dear Alan please sent me pricelist. Many thanks Met vriendelijke groet, Best regards, ing. Jacco Slob CEO DIOS Industries j.slob@dios-indust ‖ 2025-03-05 A: Dear Alan, thank u, where can。我方报过：$170 / $280 / $300 / $6000。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-03-05（19 月前）。",
+  "n_out": 26,
+  "n_in": 2,
+  "last_in": "2025-03-05",
+  "last_out": "2026-09-02",
+  "prices_out": [
+   "170",
+   "280",
+   "300",
+   "6000"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "093729ce414bccc3"
+   },
+   {
+    "date": "2025-11-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "41054e5080b96725"
+   },
+   {
+    "date": "2025-12-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "63b8150c30b662c9"
+   },
+   {
+    "date": "2025.3.5",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "28poe",
+    "gist": "price",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-01-15",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "fe6462ffda7437b6"
+   },
+   {
+    "date": "2026-02-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "7733c5e80468b62f"
+   },
+   {
+    "date": "2026-03-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "2dd2d204e33c1251"
+   },
+   {
+    "date": "2026-04-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7f27db62e5374c9f"
+   },
+   {
+    "date": "2026-05-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e959fea1efcfdb84"
+   },
+   {
+    "date": "2026-06-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "32 Port 400GB DC Switch",
+    "gist": "32 Port 400GB DC Switch",
+    "prices": [
+     "6000"
+    ],
+    "bulk": false,
+    "k": "fb59ceb9f1d01499"
+   },
+   {
+    "date": "2026-07-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "1144e90857131a52"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "036fe6feca56d8bc"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

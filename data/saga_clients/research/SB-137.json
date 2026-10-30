@@ -56,8 +56,8 @@
    "source": "https://aeroleads.com/c/oralguvenliksistemleri"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "A",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -166,5 +166,84 @@
   "url": "https://oralcompanies.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "ab_final": {
+  "date": "2026-10-30",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
+  "target": "A",
+  "grade_before": "B",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
+  "why_not": "",
+  "excl": "",
+  "deal": "",
+  "reply_class": "R+",
+  "evidence": " ‖ 表 : Simon 备注/兴→问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带"
+ },
+ "override_history": [
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": null,
+   "to": "A",
+   "prev_reason": "",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
+  }
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "TR · 1 次检索：oralcompanies.com（Oral Companies 1982 起 KKTC；旗下 O: Oral Güvenlik Sistemleri（Oral Companies 旗下；oralguvenlik.com；**北塞浦路斯（KKTC）尼科西亚 —  · Active（站点 / 招聘在线）"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "poe",
+   "工业"
+  ],
+  "p1": "STC-28GPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "土耳其·集成商/安装商；登记线索：TR · 1 次检索：oralcompanies.com（Oral Companies 1982 起 KKTC；旗下 O: Oral Güvenlik Sist。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过： 表: Simon 备注/兴趣栏→问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了。我方报过：未见报价数字。对位：STC-28GPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

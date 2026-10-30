@@ -8,7 +8,7 @@
 code: SB-487
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 
 score: 40
 country: 俄罗斯
 region: 俄语区
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。（调研 2026-10-21；表内兴趣：Switch）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2026-05））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+4 AI/Claude 评估 B；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：推送 17 次（2024-06-05 → 2025-10-23）；最近一次客户回复：2024-06-05：芯片是啥
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STH 系列 — 用户标重要 + CENTEC 对口。已打开的主题（9/26 封有打开记录）：「Power Converter」(2024-09-16)、「10G Enterprise SFP Switch」(2026-05-11)、「Re: 10G Enterprise SFP Switch」(2026-05-12)、「Re: 10G Enterprise SFP Switch」(2026-05-15) → 读者兴趣偏「工业」；与 P1 同类，继续｜已发资料（勿重发）：Product Link_2026Q2(2026-03-13)、Product Link_2026Q3(2026-07-02)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；按 CENTEC 价表；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-19 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-17 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-02-28 $240（24 Port Fiber Switch = STC-4168XGGCM 单 AC 稿，Elsa 箱 1 轮 2025-02-28；同款 2025-09 起群发 $280（双 AC 稿）——再提这款说 $280）
 - **第一问（只问一个）**：Mikhail — Zhengzhou engineering + Shenzhen partner factories; Marvell/CENTEC/Realtek, no Microchip; which platform are you evaluating, OEM label or reference design?
@@ -148,7 +148,7 @@ updated: 2026-10-30
 - **KP**：Mikhail (Афонин Михаил Владимирович) Afonin（）afonin@npotelecom.ru 〔用户表〕
 - **KP**：Rashid Abdullin（）sale@npotelecom.ru 〔用户表〕
 - **KP**：Шабутдинов Рашит Зинатулович（唯一股东（2002-12-02 起）= 所有人（不直接联系）（第 87 批 官方登记核实 2026-10-27）） 〔https://checko.ru/company/npo-telekom-1021801507694〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 2 条（AS；2024-06→2026-05）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2026-05）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。
 LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）
@@ -208,6 +208,38 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 2025-08-25 | 825 | 22迷你 |  | A |  | 优质俄罗斯客户 2.9.xlsx#8 |
 | 2025-09-24 | 924 | dac |  | A |  | 优质俄罗斯客户 2.9.xlsx#8 |
 | 2025-10-23 | 1023 | 28bt |  | A |  | 优质俄罗斯客户 2.9.xlsx#8 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Россия · ЕГРЮЛ / ФНС 镜像（checko / companies.rbc / list-org / : ЗАО НПО «Телеком»（Научно-производственное объединение «Телек · ОГРН 1021801507694（2002-11-21）· ИНН… |
+| ② 角色 / 对位 | 未知 | 对位词：switch；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-06-05 S: Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikh ‖ 2024.6.5 表: 发了2光2小壳信息→芯片是啥 ‖ 2026-05-12 A: Hello, What city is … |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-05-12（5 月前） |
+| ⑤ 规模 | ≥小型 | 64 人（list-org）；2025 выручка 670.1 млн ₽、чистая прибыль 280.2 млн、капитал 215 млн；2024 выручка 501.0 … |
+| ⑥ 否决项 | 无 | 缺口：角色未知；人工终判：НПО Телеком（俄罗斯电信设备企业；KP Mikhail Afonin）：2024-06 问芯片、2026-05 问工厂所在城市 / 是否做 Microchip、CENTEC 方案——持续两年有问必答 |
+
+**故事线**：俄罗斯；登记坐实：Россия · ЕГРЮЛ / ФНС 镜像（checko / companies.rbc / list-org / : ЗАО НПО «Телеком»（。往来 2024-06-05→2026-08-17：我方去信 26 封（A 16 / S 10），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2024-06-05 S: Hi Simon, What manufacturer is the chip inside your switch? С уважением, Михаил Афонин 8 /3412/ 57 30 31, 8 912 854 73 58 Kind regards, Mikh ‖ 2024.6.5 表: 发了2光2小壳信息→芯片是啥 ‖ 2026-05-12 A: 。我方报过：$170 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-05-12（5 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-24 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-23 | 去 | A | 90W PoE Managed Switch |  |
+| 2025-12-03 | 去 | A | Booster PoE Switch |  |
+| 2026-01-09 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-13 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-04-21 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-11 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-05-12 | 去 | A | Re: 10G Enterprise SFP Switch | $280 |
+| 2026-05-12 | 来 | A | RE: 10G Enterprise SFP Switch｜Hello, What city is your factory located in? Do you produce switches based on Microchip and Centec chips? С уважением, М… |  |
+| 2026-05-15 | 去 | A | Re: 10G Enterprise SFP Switch | $280 |
+| 2026-07-02 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-17 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

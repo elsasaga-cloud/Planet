@@ -9,7 +9,7 @@
 code: SB-1136
 rating: A
 rating_auto: C
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 
 name_official: "Fiber Optics For Sale Co.（fo4sale.com / Fosco Connect）"
 score: 2
 country: 美国
@@ -35,7 +35,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：北美线上光通信配件零售/分销（Fosco Connect；表内疑「国内公司搭建的国外网站」）。A 箱 2025-07 → 2025-11 共 9 封群发 + 1 次往来：2025-07-23 Grace 回 16 口 DIN 千兆群发「Please send me more info about your product line, pricing and your website」→ Alan 次日只回 Download Link_Alan.pdf（链接包）→ 无下文；之后 4 封群发发到 sales@foscoconnect.com，无回。（调研 2026-10-24；表内兴趣：国内公司搭建的国外网站??；MC SFP 光猫 工业FS 啥都卖 很多牌子的产品；Fiber optics）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07））；自动分级 C：+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-40 备注含 不再跟进/Spam/骗子 等；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-07））；自动分级 C：+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；-8 DWDM/光传输线索：Saga 不做 DWDM（Hohunet 线为交换机）；-40 备注含 不再跟进/Spam/骗子 等；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/加拿大；+5 最近活动 2025；-10 推送 8 次无任何回复（聋名单）
 - **历史互动**：推送 8 次（2025-02-20 → 2025-10-16）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-0160GE — 线上分销；取价 = Simon/Alan 最近实报，不用 SmartByte 成本表档位价；STI-0160GE 16 口 DIN 千兆非管理（DC 12–58V，DIP）$100 EXW（Alan 2025-05-28 对 SC-2150 实报；SA-010 2025-02 $105）；STI-080GE 8 口 $32.5、STI-050GE 5 口 $25（Simon 2025-07-07 对 SB-905 实报；$22.5 是 STI-050FE 百兆款）；PoE 版 STI-244GP $35（Alan 2025-09-09 对 SA-025）。按规则 ㉕：非管理工业线不用档位价（档位 $17.0/$31.4/$91.5/$35.2 比实报还低）；均低于 2026-06 PDF（$34.1/$55.0/$115.5/$49.5）
 - **第一问（只问一个）**：Grace — in July last year you asked for our product line, pricing and website, and I only sent a link file. Website is sagatele.com now; the DIN-rail gigabit line is 5-port $25 / 8-port $32.5 / 16-port $100 / 2 SFP + 4 PoE $35 USD EXW, 3–5 working days. Which of these would you consider listing first?
@@ -133,7 +133,7 @@ updated: 2026-10-30
   > 来源：gmail_a cb73165c3eeea9fa（抓取 2025-07-23）
 - **KP**：Grace（Fosco Sales）（）sales@fo4sale.com 〔gmail_a cb73165c3eeea9fa〕
 - **KP**：Colin Yao（创始人 / 业主（官网 + BBB「Sales Manager」= 老板亲自管销售）= **老板 = 联系人** → 光口交换机分销 20%（STI-154GP / STC-110XGE / STI-288DGGPM），FOB 深圳（第 90 批 官方登记核实 2026-10-27）） 〔https://www.fiberoptics4sale.com/〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2025-07→2025-07）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2025-07→2025-07）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 由第 71 批(i)建档（Replied 标签 × 事实表无来信 复核）。 ｜ 国别更正为「美国」（country_fix）：Fiber Optics For Sale Co. 在加州 Pleasanton / Livermore（官网 / BBB），用户表「CA」= California 误作加拿大（第 90 批 / Q-65 2026-10-27）
 
@@ -187,6 +187,38 @@ updated: 2026-10-30
 | 2025-10-16 | 1016 | dac |  | A |  | Canada 3.5.xlsx#6 |
 | ? | 1.13 | 4 24 |  | Email |  | Canada 3.5.xlsx#6 |
 | ? | 57 | 48口 |  | A |  | Canada 3.5.xlsx#6 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi: Fiber Optics For Sale Co.（FOSCO Connect；Pleasanton / Livermore, CA） · Active（网店 + eBay 在售） |
+| ② 角色 / 对位 | 分销商 | 对位词：din ethernet fiber industrial media converter poe sfp switch；P1 STI-0160GE |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-07-23 A: HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga  |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-07-23（15 月前） |
+| ⑤ 规模 | 个人/微型 | 11–50（LinkedIn）/ 12（BBB）；自述「multi-million dollar annual sales」（第 90 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·分销商；登记线索：US · 1 次检索：官网 about / help（2001 由 Colin Yao 创立；公司地址 269 Mavi: Fiber Optics For S。往来 2025-01-13→2025-11-19：我方去信 13 封（A 9 / S 1），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2025-07-23 A: HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 AM Alan from Saga 。我方报过：$280 / $300。对位：STI-0160GE；路径：企业邮箱 MX ok；最近来信 2025-07-23（15 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-05-06 | 去 | A | 48 Port PoE Managed Switch | $300 |
+| 2025-06-23 | 去 | A | Marvell Alleycat5 Solution |  |
+| 2025-07-23 | 来 | A | Re: 16 Port Ethernet Switch｜HI Alan, Please send me more info about your product line, pricing and your website. Thanks. On Wed, Jul 23, 2025 at 8:40 … |  |
+| 2025-07-23 | 去 | A | 16 Port Ethernet Switch |  |
+| 2025-07-23 | 去 | R |  |  |
+| 2025-07-24 | 去 | A | Re: 16 Port Ethernet Switch |  |
+| 2025-07-24 | 去 | R |  |  |
+| 2025-08-26 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-09-19 | 去 | A | Managed Optical Bypass Switch |  |
+| 2025-10-15 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-19 | 去 | A | Booster PoE Switch |  |
+| 2025-11-19 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

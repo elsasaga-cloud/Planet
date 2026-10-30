@@ -61,7 +61,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-06→2025-04）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2025-04）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -183,6 +183,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-06→2025-04）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-06→2025-04）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2025-04）"
   }
  ],
  "snap_thicken": {
@@ -194,15 +202,210 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 2 封 / 表内 1 条 / 研究档 1 条（AS；2024-06→2025-04）",
+  "reason": "真回信 2 封 / 表内 1 条 / 研究档 0 条（AS；2024-06→2025-04）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-18] Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (97 ‖ [A 2025-04-01] Alan, This is interesting. Does it have VXLAN support or MPLS support? Any controller? [image: Image] Sincerel ‖ 表 2025.4.1: Marvell ch→XVLAN or MPLS? ‖ 研 2024-06-18 kyle@wirestar.net: Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar."
+  "evidence": "[S 2024-06-18] Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (97 ‖ [A 2025-04-01] Alan, This is interesting. Does it have VXLAN support or MPLS support? Any controller? [image: Image] Sincerel ‖ 表 2025.4.1: Marvell ch→XVLAN or MPLS?"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "US · SAM.gov 实体登记（opengovus 镜像 UEI PU66QHF8L5F6）+ BBB 档案 + 公: WireStar, Inc.（d/b/a WireStar Networks） · SAM UEI PU66QHF8L5F6（2021-03-29 登记，2025- · Active（SAM 有效至 2026-12-02；BBB  · 2007-12-06"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "光纤",
+   "网络"
+  ],
+  "p1": "STC-424XGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-06-18",
+    "S",
+    "Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks "
+   ],
+   [
+    "2025-04-01",
+    "A",
+    "Alan, This is interesting. Does it have VXLAN support or MPLS support? Any controller? [image: Image] Sincerely, *Kyle* *Leissner* *Presiden"
+   ],
+   [
+    "2025.4.1",
+    "表",
+    "Marvell chip→XVLAN or MPLS?"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2025-04-01（18 月前）"
+  ],
+  "size": "20–50（Datanyze 18 / RocketReach 42 / LeadIQ 48）；营收 $5.1M（第三方同源估）（第 87 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·集成商/安装商；登记坐实：US · SAM.gov 实体登记（opengovus 镜像 UEI PU66QHF8L5F6）+ BBB 档案 + 公: WireStar, Inc.（d/b。往来 2024-04-24→2026-08-10：我方去信 24 封（A 15 / S 9），对方真人来信 2 封 + 表内/备注 1 条；对方问过：2024-06-18 S: Is this Poe? Sincerely, Kyle Leissner President & Founder kyle@wirestar.net Direct: (979) 721-9100 Office: (979) 721-9000 WireStar Networks  ‖ 2025-04-01 A: Alan, This is interesting. Do。我方报过：$65 / $170 / $220 / $240 / $280 / $300。对位：STC-424XGGPM-280W；路径：企业邮箱 MX ok；最近来信 2025-04-01（18 月前）。",
+  "n_out": 24,
+  "n_in": 2,
+  "last_in": "2025-04-01",
+  "last_out": "2026-08-10",
+  "prices_out": [
+   "65",
+   "170",
+   "220",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-05-29",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "d2319955ed6feb63"
+   },
+   {
+    "date": "2025-07-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "08df8958290acf57"
+   },
+   {
+    "date": "2025-07-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a2ac8741b5822247"
+   },
+   {
+    "date": "2025-09-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port PoE Managed Switch",
+    "gist": "16 Port PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "8ea4ca4d4e2656b3"
+   },
+   {
+    "date": "2025-09-22",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "f139495f6eb76874"
+   },
+   {
+    "date": "2025-10-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f33fac945f179ba0"
+   },
+   {
+    "date": "2025-10-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7a9b336f25e2c83a"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "aa22eaf260574c08"
+   },
+   {
+    "date": "2025-12-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed Optical Bypass Switch",
+    "gist": "Managed Optical Bypass Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "94f4659c788a15db"
+   },
+   {
+    "date": "2025.4.1",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Marvell chip",
+    "gist": "XVLAN or MPLS?",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2026-03-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "d73e2c4695e9bb4b"
+   },
+   {
+    "date": "2026-08-10",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "9609fe26fa809e6c"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

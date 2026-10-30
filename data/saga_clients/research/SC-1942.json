@@ -45,7 +45,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -63,6 +63,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 自有品牌 · OEM 30%：Satvision（萨马拉；自有商标 CCTV 20+ 年；全俄 12 分部；客户含 Сбербанк / РЖД；Mike Yakushev 真回）部分坐实（ИНН 未取）；真回 ✔ 自有品牌 ✔ 体量 ✔ 对位 ✔ → P 池候选；预付款 + RU 收款 / 物流路径待 Simon；闸 1：俄罗斯 Satvision（CCTV 品牌，自有 logo，Mike Yakushev 回过 1 次，15 次跟进）→ 真回 + 自有品牌；俄区收款路径待 Simon → 闸 2 查底数",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）"
   }
  ],
  "lt_review": {
@@ -201,15 +209,207 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-06→2024-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
   "evidence": "[S 2024-06-28] Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru ‖ 表 2024.6.12: 4光24导轨式→standard poe有嘛？"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "RU · 1 次检索：satvision-cctv.ru 首页（地址 / 分部 / 客户）+ /company/（品牌定: Satvision（satvision-cctv.ru / satvision.pro；**官网：视频监控设备自有商标 20+ 年；中央办公室 Самара,  · 营业中（官网在线）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "poe",
+   "sfp"
+  ],
+  "p1": "STC-424XGGPM-280W",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-06-28",
+    "S",
+    "Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru"
+   ],
+   [
+    "2024.6.12",
+    "表",
+    "4光24导轨式→standard poe有嘛？"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-06-28（28 月前）"
+  ],
+  "size": "中型（12 分部）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "路径弱"
+  ],
+  "story": "俄罗斯·OEM 品牌商；登记线索：RU · 1 次检索：satvision-cctv.ru 首页（地址 / 分部 / 客户）+ /company/（品牌定: Satvision（satvisio。往来 2024-06-12→2026-08-19：我方去信 25 封（A 15 / S 10），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-06-28 S: Hello You have standart POE switch? -- Михаил Якушев Отправлено из Почты Mail.ru ‖ 2024.6.12 表: 4光24导轨式→standard poe有嘛？。我方报过：$65 / $170 / $280 / $300。对位：STC-424XGGPM-280W；路径：企业邮箱；最近来信 2024-06-28（28 月前）。",
+  "n_out": 25,
+  "n_in": 1,
+  "last_in": "2024-06-28",
+  "last_out": "2026-08-19",
+  "prices_out": [
+   "65",
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-06-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "9d8ead1e4e7309de"
+   },
+   {
+    "date": "2025-07-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "a58caf2e36af42cc"
+   },
+   {
+    "date": "2025-08-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "aeac41010e7c7485"
+   },
+   {
+    "date": "2025-09-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "ca37eff685842160"
+   },
+   {
+    "date": "2025-10-23",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "90W PoE Managed Switch",
+    "gist": "90W PoE Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7705ab75a35d0b59"
+   },
+   {
+    "date": "2025-12-04",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Optional Marvell Chipset Solutions",
+    "gist": "Optional Marvell Chipset Solutions",
+    "prices": [],
+    "bulk": false,
+    "k": "1404189081c8cfbe"
+   },
+   {
+    "date": "2026-01-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "71571642479dca47"
+   },
+   {
+    "date": "2026-03-13",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "da47a91fe9697231"
+   },
+   {
+    "date": "2026-04-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bc55373a51aec796"
+   },
+   {
+    "date": "2026-05-11",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "30ddac3aa0366420"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "554b4db1e5aaad2d"
+   },
+   {
+    "date": "2026-08-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "0cf0b105d8a71a89"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

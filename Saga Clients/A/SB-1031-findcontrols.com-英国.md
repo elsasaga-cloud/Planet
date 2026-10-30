@@ -9,7 +9,7 @@
 code: SB-1031
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易
 name_official: "Ralakde Ltd / Ralakde Automation（Findcontrols，Stoke-on-Trent, UK；findcontrols.com · ralakde.co.uk）"
 score: 25
 country: 英国
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国斯托克的工业自动化备件贸易与维修商 Ralakde Ltd（公司号 09757591，2015-09-02 成立；Ralakde Automation Ltd 11435782（2018）；董事/PSC Deepak Gupta（ex-Radwell PLC 工程师）；业务：PLC、变频器、驱动器、HMI、电源、PCB 的新品/库存件采购与维修；网点英国、美国 Nashua NH、德国 Waldsassen、捷克 Stará Voda、印度 Pune/Siliguri；+44 1782 563377；sales@ralakde.com）。用户表：处理各种工业产品 trading，2014 年起用国际站，Director Deepak Gupta「质量一般」；WhatsApp 已加；无跟进。工业备件贸易 → 分销 20%，工业小机入门。（调研 2026-10-21；表内兴趣：处理各种工业产品 trading 2014年使用国际站）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套））；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套））；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国
 - **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STI-144GP — 分销 20% 档：STI-144GP（DIN 4 GE PoE + 1 SFP，−40~+75 ℃，$34.1）作自动化柜配套入门 SKU；8 口 STI-288GP（$57.4）；CE/UKCA 可提供；按主表（研究档 saga_fit）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：For the automation-panel side of your catalogue: DIN-rail 4× GbE PoE + 1× SFP industrial switch, −40 to +75 °C, CE/UKCA, $34.1 EXW at 20-unit tier, neutral packing — shall I send the datasheet and a sample to Stoke-on-Trent?
@@ -138,7 +138,7 @@ updated: 2026-10-30
   > 处理各种工业产品 trading 2014年使用国际站 / Deepak Gupta / Director 质量一般 / 078879 13748 已加
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Deepak Gupta（Director / PSC 75%+（Companies House 09757591；1992-06 生）= **老板 = 研究档 KP 本人**（第 97 批 官方登记核实 2026-10-28））dgupta@ralakde.co.uk（用户表） +44 7887 913748（用户表，WhatsApp 已加）〔https://open.endole.co.uk/insight/company/09757591-ralakde-ltd〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·英国 Ralakde：工业自动化备件贸易（工业交换机配套）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -185,6 +185,28 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | GB · 1 次检索：Companies House 09757591（RALAKDE LTD；2015-09-02 注: RALAKDE LTD（findcontrols.com / ralakde.co.uk；Stoke-on-Trent） · Companies House 09757591（关联 1143578… |
+| ② 角色 / 对位 | 分销商 | 对位词：din industrial switch 工业；P1 STI-144GP |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 个人/微型 | 微型（1 名股东） |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：英国·分销商；登记坐实：GB · 1 次检索：Companies House 09757591（RALAKDE LTD；2015-09-02 注: RALAKDE LTD（findco。往来 2024-06-22→2025-03-30：我方去信 2 封（A 0 / S 1），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-144GP；路径：企业邮箱 + WA；最近来信 无（仅表内/当面）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-06-22 | 去 | S | CCTV poe switch |  |
+| 2025-03-30 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

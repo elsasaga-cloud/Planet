@@ -49,7 +49,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2025-06→2025-11）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -224,6 +224,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A2 成单/样品/PI+真人往来；A3 真人往来+对位+四主区+坐实/自牌；A6 真回≥3+对位（任何区域）；A4 Simon 点名",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2025-06→2025-11）"
   }
  ],
  "snap_thicken": {
@@ -257,15 +265,230 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 3 封 / 表内 2 条 / 研究档 3 条（S；2025-06→2025-11）",
+  "reason": "真回信 3 封 / 表内 2 条 / 研究档 0 条（S；2025-06→2025-11）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2025-06-28] We species with video over IP , we must have IGMP protocol, it is mandatory. Do you have any products which su ‖ [S 2025-11-28] Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM S ‖ 表 625: 24PoE→想OEM ‖ 研 2025-06-28 Stan: We species with video over IP , we must have IGMP protocol, it is mandatory. / 2025-11-28 stan@thorfiber."
+  "evidence": "[S 2025-06-28] We species with video over IP , we must have IGMP protocol, it is mandatory. Do you have any products which su ‖ [S 2025-11-28] Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM S ‖ 表 625: 24PoE→想OEM"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "USA · California Secretary of State 登记（bizprofile 镜像，2025-07: THOR FIBER, INC.（dba Thor Broadcast） · California SOS 文件号 4095985（General Corpo · Active（2025-07） · 2017-12-26"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024.1.25",
+    "表",
+    "发了工业收发器系列→发full info"
+   ],
+   [
+    "2025-06-26",
+    "S",
+    "Hello Simon, Thank you for your informations . We might be interesting to OEM those switches and add them to our offer and catalog. Could yo"
+   ],
+   [
+    "2025-06-28",
+    "S",
+    "We species with video over IP , we must have IGMP protocol, it is mandatory. Do you have any products which supports it ? If so please send "
+   ],
+   [
+    "2025-11-28",
+    "S",
+    "Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sag"
+   ],
+   [
+    "625",
+    "表",
+    "24PoE→想OEM"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2025-11-28（11 月前）"
+  ],
+  "size": "1–10 实际（LinkedIn 51–200 不可信）；营收估 $0.4–4M 区间（第 86 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记坐实：USA · California Secretary of State 登记（bizprofile 镜像，2025-07: THOR FIBER, INC.（d。往来 2024-01-25→2026-09-08：我方去信 23 封（A 0 / S 23），对方真人来信 3 封 + 表内/备注 2 条；对方问过：2025-06-26 S: Hello Simon, Thank you for your informations . We might be interesting to OEM those switches and add them to our offer and catalog. Could yo ‖ 2025-06-28 S: We species with video over IP。我方报过：$65 / $170 / $215 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-11-28（11 月前）。",
+  "n_out": 23,
+  "n_in": 3,
+  "last_in": "2025-11-28",
+  "last_out": "2026-09-08",
+  "prices_out": [
+   "65",
+   "170",
+   "215",
+   "240",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-08-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Re: Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "96ef284f703c3b33"
+   },
+   {
+    "date": "2025-09-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "29fd8b003467de6c"
+   },
+   {
+    "date": "2025-10-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "317f38ebf153a17f"
+   },
+   {
+    "date": "2025-11-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c42c0a3e87c5474b"
+   },
+   {
+    "date": "2025-11-28",
+    "dir": "in",
+    "box": "S",
+    "from": "stan@thorfiber.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Thank you for your email How much is that ? please email me the OEM prices - On Thu, Nov 27, 2025 at 6:37 AM Simon from Saga Telecom < s.sagatelecom@gmail.com> ",
+    "prices": [],
+    "bulk": false,
+    "k": "92ccd99bae9b2cff"
+   },
+   {
+    "date": "2025-12-01",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Booster PoE Switch",
+    "gist": "Re: Booster PoE Switch",
+    "prices": [
+     "215"
+    ],
+    "bulk": false,
+    "k": "822038afc07c951e"
+   },
+   {
+    "date": "2026-01-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "8806668f9e0f8399"
+   },
+   {
+    "date": "2026-03-02",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "3e071bebd4a09300"
+   },
+   {
+    "date": "2026-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Firmware 7.5 L2+ Feature Update",
+    "gist": "Firmware 7.5 L2+ Feature Update",
+    "prices": [],
+    "bulk": false,
+    "k": "daacc88c96d4af1c"
+   },
+   {
+    "date": "2026-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port 10G SFP+ Switch",
+    "gist": "24 Port 10G SFP+ Switch",
+    "prices": [
+     "1500"
+    ],
+    "bulk": false,
+    "k": "483df5d1b7e6434e"
+   },
+   {
+    "date": "2026-09-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "49b4d22f43e3b71d"
+   },
+   {
+    "date": "625",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "24PoE",
+    "gist": "想OEM",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

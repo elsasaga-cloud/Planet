@@ -12,7 +12,7 @@ code: SB-160
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 
 name_official: "Linxcom Ltd（Linxcom UK，Leicester；Co. 07157746；linx-com.com）"
 score: 54
 country: 英国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：英国莱斯特的光纤/铜缆结构化布线品牌商 Linxcom UK（2010-02 注册；6–16 人、$4.4M 营收口径；远东物流仓、英国短期光纤生产、英格兰/南非/中国办公室；60+ 国；产品：光纤无源件与光缆、有源件含 OEO 介质转换器、可管理交换机、SFP/QSFP；提供 OEM 定制服务；25 年质保）。展会记录：联系人 Hussain Alqahtani，关注 MC / SFP / FS 周边产品；WhatsApp 已加；1 次跟进。自有品牌有源件买家 → OEM 30%。（调研 2026-10-21；表内兴趣：MC SFP FS 周边产品）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 3 条（A；2025-03→2025-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 0 条（A；2025-03→2025-04））；自动分级 B：+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/英国；+5 最近活动 2025
 - **历史互动**：WhatsApp 已加；推送 1 次（2025-03-17 → 2025-03-17）；最近一次客户回复：2025-03-17：没成
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-42424XGGPM / STI-288DGGPM-2BT 按 400/100 台重算 — 英国分销 + 500 台 RFQ + 采购经理直联｜已发资料（勿重发）：PL(2025-03-17)、STI-42424XGGPM(2025-03-17)、STI-288DGGPM-2BT(2025-03-17)、Product Link_2026Q2(2026-03-30)、Product Link_2026Q3(2026-07-20)；已发单据：Quotation(2025-03-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；历史锚：STI-288DGGPM-2BT $130 ×400 / STI-42424XGGPM(L3) $430 ×100（2025-03-17 报价单，$95,000 合计，老汇率）；现列表 $154 / $517 → 500 台量级 Simon 自定 volume tier，但别低于 Marvell ≥25% 底线；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-04-11 $300（48 Port PoE Managed Switch）、2025-10-09 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Hussain — did MOH-TA-170325 get awarded, and at roughly what unit price did the 24-port industrial PoE close? If a similar tender comes again, we can quote the 400/100 volume tier directly.
@@ -168,7 +168,7 @@ updated: 2026-10-30
   > MC SFP FS 周边产品
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Hussain Alqahtani（Purchasing and Product Development Manager（邮件签名）；**非董事**，拍板人是唯一董事 Mohamed Abdelhamid Okba（法国籍，2011-07 起）（第 82 批 Companies House 核实 2026-10-27））hussain.alqahtani@linx-com.com 〔S/A 邮箱来信 2025-03-18 → 05-15 来信 6 封（第 72 批从邮件表头补）〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 3 条（A；2025-03→2025-04）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 4 封 / 表内 1 条 / 研究档 0 条（A；2025-03→2025-04）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -218,6 +218,38 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-03-17 | 2025.3.17 | 谈了一个项目 | 没成 | A |  | A Replied 09.04.xlsx#46 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | UK Companies House: LINXCOM LIMITED · 07157746 · Active · 2010-02-15 |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din media converter sfp switch 交换机 光纤；P1 STI-110GE |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-03-18 A: The prices are too expensive. Kind regards, Hussain Alqahtani Purchasing and Product Development Manager [cid:image001.png@01DB9816.EDBC3A80 ‖ 2025-04-22 A: Kindly explain us what is the differences between… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-05-15（17 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：英国·OEM 品牌商；登记坐实：UK Companies House: LINXCOM LIMITED · 07157746 · Active · 2010-02-15。往来 2025-03-17→2026-09-07：我方去信 20 封（A 19 / S 0），对方真人来信 4 封 + 表内/备注 1 条；对方问过：2025-03-18 A: I believe there is a mistake, are you sure of the pictures in the quote? The 28port is the first item, and the Industrial one is the 2nd ite ‖ 2025-03-18 A: The prices are too expensive.。我方报过：$170 / $280 / $300。对位：STI-110GE；路径：企业邮箱 MX ok + WA；最近来信 2025-05-15（17 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-07-04 | 去 | A | Managed Optical Bypass Switch |  |
+| 2025-08-12 | 去 | A | Mini Industrial PoE Switch |  |
+| 2025-09-15 | 去 | A | 8 Port Industrial PoE Switch |  |
+| 2025-10-09 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-10-30 | 去 | A | Booster PoE Switch |  |
+| 2025-11-19 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-15 | 去 | A | Marvell Industrial Alert System |  |
+| 2025.3.17 | 表 | 表 | 谈了一个项目｜没成 |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

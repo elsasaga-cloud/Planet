@@ -52,6 +52,14 @@
     "quote": "RE: PoE Switch｜No update yet !!!",
     "why": "S 邮箱 真人来信（thin）",
     "k": "61dbcfd98520142a"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "ONSITE Cyber Security Solutions provider in Pakistan · Lahore（onsite.com.pk，与 onsite.pk 关系未确认）",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.onsite.com.pk/contact.html"
    }
   ],
   "binding": {
@@ -75,10 +83,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
   "why_not": "",
   "excl": "",
@@ -94,8 +102,192 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：onsite.pk：与 SC-1200 Future Point 同日同文（300 台 CLI 工业 L2 标书）转来，主体未坐实（网查只见 onsite.com.pk 网络安全公司，未必同一家）——并入 SC-1200 跟进，本户 B"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）"
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：onsite.pk：与 SC-1200 Future Point 同日同文（300 台 CLI 工业 L2 标书）转来，主体未坐实（网查只见 onsite.com.pk 网络安全公司，未必同一家）——并入 SC-1200 跟进，本户 B",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-10-03",
+    "S",
+    "Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-10-07（24 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "对位不明",
+   "规模未知",
+   "人工终判：onsite.pk：与 SC-1200 Future Point 同日同文（300 台 CLI 工业 L2 标书）转来，主体未坐实（网查只见 onsite.com.pk 网络安全公司，未必同一家）——并入 SC-1200 跟进，本户 B"
+  ],
+  "story": "巴基斯坦；未坐实：待快照。往来 2024-06-29→2025-02-14：我方去信 8 封（A 1 / S 7），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-10-03 S: Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP。我方报过：$65 / $300。对位：待定；路径：企业邮箱 MX ok；最近来信 2024-10-07（24 月前）。",
+  "n_out": 8,
+  "n_in": 2,
+  "last_in": "2024-10-07",
+  "last_out": "2025-02-14",
+  "prices_out": [
+   "65",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G Network Switch",
+    "gist": "2.5G Network Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "75099cc8357f60b4"
+   },
+   {
+    "date": "2024-07-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "6bcb76e9f123021c"
+   },
+   {
+    "date": "2024-08-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "PoE Switch",
+    "gist": "PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e2476b132e1c59b9"
+   },
+   {
+    "date": "2024-09-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "41a7b396fe322c32"
+   },
+   {
+    "date": "2024-10-03",
+    "dir": "in",
+    "box": "S",
+    "from": "javed.hashmi@futurepointt.com",
+    "subj": "RE: PoE Switch",
+    "gist": "Hi , We need details with following features Qty is 300 . Mandatory Requirement: * Managed CLI based Layer 2 Industrial Fan less model * SEP or ERPS, RSTP, MSTP",
+    "prices": [],
+    "bulk": false,
+    "k": "e1f4c51aca81b3b8"
+   },
+   {
+    "date": "2024-10-07",
+    "dir": "in",
+    "box": "S",
+    "from": "javed.hashmi@futurepointt.com",
+    "subj": "RE: PoE Switch",
+    "gist": "No update yet !!!",
+    "prices": [],
+    "bulk": false,
+    "k": "61dbcfd98520142a"
+   },
+   {
+    "date": "2024-10-26",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Ethernet Web Managed Switch",
+    "gist": "10G Ethernet Web Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f1bbd46452e26f98"
+   },
+   {
+    "date": "2024-11-24",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "27ed61b9caaa3f3f"
+   },
+   {
+    "date": "2024-12-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "80dd62e77d43dd59"
+   },
+   {
+    "date": "2025-02-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "de32222914ce3930"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.onsite.com.pk/contact.html",
+    "quote": "ONSITE Cyber Security Solutions provider in Pakistan · Lahore（onsite.com.pk，与 onsite.pk 关系未确认）",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

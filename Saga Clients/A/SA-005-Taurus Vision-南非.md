@@ -12,7 +12,7 @@ code: SA-005
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "Taurus Vision（Pretoria, South Africa）"
 score: 67
 country: 南非
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：南非比勒陀利亚的 CCTV 视频监控管理方案商/集成商（1–10 人，营收 <$5M），官网招募合作伙伴（sales@taurusvision.com）。用户表：3 次实质回复，已加 WhatsApp，21 次推送。（调研 2026-10-21；表内兴趣：2015年使用国际站 27 - 123292951 没尝试加）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 A：+30 实质回复 3 次（问价/要资料/问型号等）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/南非；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 21 次（2023-09-11 → 2025-11-04）；最近一次客户回复：2024-08-13：price list
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-28DGGPM — VMS 项目的机柜 8/16 口 PoE 小批量 → 8 口 L2+（2.5G 光上联）先报，户外柜配 4+1 DIN；WhatsApp 户不塞价；—；群发里他已看到的价（续）：2026-08-07 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170
 - **第一问（只问一个）**：For the camera closets in your VMS projects, the Marvell-based 8-port gigabit PoE+ managed switch with 2 SFP and the 4+1 industrial DIN unit for outdoor cabinets are the two I am quoting EXW.
@@ -147,7 +147,7 @@ updated: 2026-10-30
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 口径）） +27 86 188 2266（总机）〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
 - **KP**：Lynette Bowman（CCTV（ZoomInfo 职务标注；邮箱未公开，域 @taurusvision.com））—（未公开；用户表 sales@taurusvision… 为合作伙伴招募邮箱） —〔https://www.zoominfo.com/p/Lynette-Bowman/8666668517〕
 - **KP**：Cordea Bezuidenhout（Administrative Assistant（ZoomInfo））—（未公开） —〔https://www.zoominfo.com/pic/taurus-vision/348010963〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：以 8/16 口 PoE 小批量为主，不投入样机以外资源。
 
@@ -214,6 +214,34 @@ A 维持（3 次实质回复 + WhatsApp 在手），但规模小、非洲区：�
 | 2025-07-24 | 724 | 24 48口商业图 |  | Whatsapp |  | South Africa 2.5.xlsx#37 |
 | 2025-09-30 | 930 | dac |  | Whatsapp |  | South Africa 2.5.xlsx#37 |
 | 2025-11-04 | 114 | solar |  | Whatsapp |  | South Africa 2.5.xlsx#37 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 南非 · CIPC 需登录付费；本行为「无登记源」记录（据第 79 批研究档）: Taurus Vision（taurusvision.com） · （登记状态不可免费核） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2023.9.11 表: 发了2光4小壳图 DS→prices ‖ 2024-08-13 R: 用户表跟进：推「4 8口工业FS」→ 对方「price list」 ‖ 2024.8.13 表: 4 8口工业FS→price list |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2024-08-13（26 月前） |
+| ⑤ 规模 | 个人/微型 | 1–10（ZoomInfo） |
+| ⑥ 否决项 | 无 | 缺口：对位不明；路径弱；人工终判：Taurus Vision（比勒陀利亚 CCTV 视频管理集成商，1–10 人）：3 次实质回复 + WhatsApp 已加，2024-08 要工业 4/8 口 FS 价目——非主攻区但路径活 |
+
+**故事线**：南非·集成商/安装商；登记线索：南非 · CIPC 需登录付费；本行为「无登记源」记录（据第 79 批研究档）: Taurus Vision（taurusvision.com） · （登记状态。往来 2023-09-11→2026-10-06：我方去信 2 封（A 2 / S 0），对方真人来信 0 封 + 表内/备注 3 条；对方问过：2023.12.9 表: 发了导轨电源信息→后续运费报的太高未成单 ‖ 2023.9.11 表: 发了2光4小壳图 DS→prices ‖ 2024-08-13 R: 用户表跟进：推「4 8口工业FS」→ 对方「price list」 ‖ 2024.8.13 表: 4 8口工业FS→price list。我方报过：$170。对位：STC-28DGGPM；路径：企业邮箱 + WA；最近来信 2024-08-13（26 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2023-09-11 | 来 | R | 用户表跟进：推「发了2光4小壳图 DS」→ 对方「prices」 |  |
+| 2023-12-09 | 来 | R | 用户表跟进：推「发了导轨电源信息」→ 对方「后续运费报的太高未成单」 |  |
+| 2023.12.9 | 表 | 表 | 发了导轨电源信息｜后续运费报的太高未成单 |  |
+| 2023.9.11 | 表 | 表 | 发了2光4小壳图 DS｜prices |  |
+| 2024-08-13 | 来 | R | 用户表跟进：推「4 8口工业FS」→ 对方「price list」 |  |
+| 2024.8.13 | 表 | 表 | 4 8口工业FS｜price list |  |
+| 2026-08-07 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-10-06 | 去 | A | Managed PoE Switches |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

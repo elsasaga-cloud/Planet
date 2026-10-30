@@ -47,7 +47,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2026-02→2026-02）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -162,6 +162,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2026-02→2026-02）"
   }
  ],
  "snap_thicken": {
@@ -190,15 +198,205 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（A；2026-02→2026-02）",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（A；2026-02→2026-02）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-02-09] Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par.  ‖ 研 2026-02-09 Marek Kubas: Interesting item. I will be glad if you could send me more info about those swit"
+  "evidence": "[A 2026-02-09] Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Polska · CEIDG 镜像（krs-online：NIP / REGON / PKD / 成立年 / 决策人）+: IS NETWORKS Marek Kubas（个体工商户 / jednoosobowa działalność） · NIP 8130069738 · REGON 690005253（CEIDG 个 · Aktywna（官网 + 网店在线） · 1996"
+  ],
+  "role": "集成商/安装商",
+  "fit_words": [
+   "ethernet",
+   "fiber",
+   "industrial",
+   "media converter",
+   "network",
+   "poe",
+   "sfp",
+   "switch"
+  ],
+  "p1": "STI-288GPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2026-02-09",
+    "A",
+    "Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). Regards, Marek Kuba"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-02-09（8 月前）"
+  ],
+  "size": "微型（个体户 + 少量雇员）（第 88 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "波兰·集成商/安装商；登记坐实：Polska · CEIDG 镜像（krs-online：NIP / REGON / PKD / 成立年 / 决策人）+: IS NETWORKS Marek 。往来 2024-08-30→2026-09-28：我方去信 22 封（A 17 / S 5），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2026-02-09 A: Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). Regards, Marek Kuba。我方报过：$170 / $280 / $300。对位：STI-288GPM；路径：企业邮箱 MX ok；最近来信 2026-02-09（8 月前）。",
+  "n_out": 22,
+  "n_in": 1,
+  "last_in": "2026-02-09",
+  "last_out": "2026-09-28",
+  "prices_out": [
+   "170",
+   "280",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2025-10-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "5c8ac844b07faa37"
+   },
+   {
+    "date": "2025-11-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Booster PoE Switch",
+    "gist": "Booster PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "16767feec1615325"
+   },
+   {
+    "date": "2025-12-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "4d01c174e100b2b6"
+   },
+   {
+    "date": "2026-02-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "16cb39ff87c2b999"
+   },
+   {
+    "date": "2026-02-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: OEM Core Switching Solution",
+    "gist": "Re: OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "3a9da0e0aa327b04"
+   },
+   {
+    "date": "2026-02-09",
+    "dir": "in",
+    "box": "A",
+    "from": "marek@is-net.pl",
+    "subj": "RE: OEM Core Switching Solution",
+    "gist": "Hi Alan, Interesting item. I will be glad if you could send me more info about those switches (technical par. & prices). Regards, Marek Kubas ……………………………… IS NE",
+    "prices": [],
+    "bulk": false,
+    "k": "8d7a04b9009bd3bb"
+   },
+   {
+    "date": "2026-04-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "0d72c451f72b9310"
+   },
+   {
+    "date": "2026-05-07",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "7f4c159e0669d83b"
+   },
+   {
+    "date": "2026-06-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5efd5d159d3ac507"
+   },
+   {
+    "date": "2026-07-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "764cc6f822fca4d4"
+   },
+   {
+    "date": "2026-08-26",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "f43472ab94a1828c"
+   },
+   {
+    "date": "2026-09-28",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "e7916ac7e5b85cef"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

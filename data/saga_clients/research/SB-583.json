@@ -25,8 +25,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）",
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -131,19 +131,205 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知"
   }
  ],
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 0 封 / 表内 6 条 / 研究档 0 条（；→）",
+  "reason": "真回信 0 封 / 表内 7 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": " ‖ 表 510: 4 8 16口工业P→L2 managed"
+  "evidence": " ‖ 表 : Simon 备注/兴→问了2光8管理 RMB price ； 92 331 4713140 已加"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "无域名（免费邮箱/仅电话）"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "1111",
+    "表",
+    "引流机型→best price in RMB"
+   ],
+   [
+    "2023.8.29",
+    "表",
+    "发了商业POE组合图→问了2光8管理价格 50/100个"
+   ],
+   [
+    "2024.2.28",
+    "表",
+    "发了2光8POE管理出货信息→问了2光4小壳的价格"
+   ],
+   [
+    "2024.4.16",
+    "表",
+    "发了24光combo信息→best price in RMB"
+   ],
+   [
+    "2024.5.15",
+    "表",
+    "发了几个工业mini图→best price in RMB"
+   ],
+   [
+    "510",
+    "表",
+    "4 8 16口工业PoE→L2 managed"
+   ]
+  ],
+  "path": [
+   "弱",
+   "免费邮箱 + WA；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "巴基斯坦·分销商；未坐实：无域名（免费邮箱/仅电话）。往来 —→2024-11-11：我方去信 2 封（A 0 / S 2），对方真人来信 0 封 + 表内/备注 7 条；对方问过：2024.2.28 表: 发了2光8POE管理出货信息→问了2光4小壳的价格 ‖ 2024.4.16 表: 发了24光combo信息→best price in RMB ‖ 2024.5.15 表: 发了几个工业mini图→best price in RMB ‖ 510 表: 4 8 16口工业PoE→L2 managed。我方报过：2025-12-31  $300.0；2026-07-19  $1500.0；2026-09-28  $180.0。对位：STC-28DGGPM；路径：免费邮箱 + WA；最近来信 无（仅表内/当面）。",
+  "n_out": 2,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2024-11-11",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "问了2光8管理 RMB price ； 92 331 4713140 已加",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "1111",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "引流机型",
+    "gist": "best price in RMB",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2023.8.29",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了商业POE组合图",
+    "gist": "问了2光8管理价格 50/100个",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024-11-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Information",
+    "gist": "Re: Information",
+    "prices": [],
+    "bulk": false,
+    "k": "afd8db818531b5c8"
+   },
+   {
+    "date": "2024-11-11",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Information",
+    "gist": "Information",
+    "prices": [],
+    "bulk": false,
+    "k": "c161a1bcd3481a0d"
+   },
+   {
+    "date": "2024.2.28",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了2光8POE管理出货信息",
+    "gist": "问了2光4小壳的价格",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.4.16",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了24光combo信息",
+    "gist": "best price in RMB",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "2024.5.15",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "发了几个工业mini图",
+    "gist": "best price in RMB",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   },
+   {
+    "date": "510",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "4 8 16口工业PoE",
+    "gist": "L2 managed",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

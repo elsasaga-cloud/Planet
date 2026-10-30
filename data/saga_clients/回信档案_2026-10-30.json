@@ -355,20 +355,27 @@
 "country": "塞浦路斯",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "none",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业品price list, 特别问了4光24电的价格，对于管理方式问的比较多，也问了2光24商业级PoE能否做管理的，说国家小，买了卖给别人，基本不咋做OEM",
+"kind": "pos"
+}
+]
 },
 "SA-004": {
 "code": "SA-004",
@@ -376,20 +383,27 @@
 "country": "德国",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "none",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "买了5电口样品，需要一起买工业电源，也问了拿的2款2.5G网的价格，对机架式工业管理有兴趣，需要能支持CLI管理，知道Aliexpress, 比较在意运费和进口",
+"kind": "pos"
+}
+]
 },
 "SA-005": {
 "code": "SA-005",
@@ -1547,7 +1561,7 @@
 "country": "土耳其",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -1571,9 +1585,9 @@
 "deal_flag": false,
 "n_in_human": 3,
 "n_in_auto": 0,
-"n_pos": 5,
+"n_pos": 6,
 "n_neg": 0,
-"n_tbl_reply": 2,
+"n_tbl_reply": 3,
 "first": "2025-02-21",
 "last": "2025-05-26",
 "last_cls": "pos",
@@ -1636,6 +1650,12 @@
 "content": "Bypass",
 "reply": "问了价格",
 "kind": "pos"
+},
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "知道bypass，后面又来了一次，2.5G/10G带bypass，最后一天再来了一次，问了波分传输设备，bypass ； MC 工业FS 用自己的牌子 光模块 ",
+"kind": "pos"
 }
 ]
 },
@@ -1688,26 +1708,33 @@
 "country": "泰国",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "none",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "FS MC VC 都是自己的标 无源产品 ； 展会问了：交换机，HDMI光端机 ； 展会问了：交换机，HDMI光端机 / 早期ai: 50% A\n泰国通信设备品",
+"kind": "pos"
+}
+]
 },
 "SA-013": {
 "code": "SA-013",
 "name": "alfa.com.tw",
 "country": "台湾",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -1762,7 +1789,7 @@
 "code": "SA-014",
 "name": "impulsecctv.com",
 "country": "新加坡",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -1912,7 +1939,7 @@
 "code": "SA-017",
 "name": "parallaxdigital.co.uk",
 "country": "英国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -2063,7 +2090,7 @@
 "country": "美国",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -2082,7 +2109,7 @@
 "code": "SA-019",
 "name": "allnet.de",
 "country": "德国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -2263,7 +2290,7 @@
 "country": "美国",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -2344,17 +2371,24 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "none",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "1光4电POE工业级 看了中科德能和Ewind的 有意向，问了价格\n2015年使用国际站 ； 61(0)4055 54670 \n已加",
+"kind": "pos"
+}
+]
 },
 "SA-025": {
 "code": "SA-025",
@@ -2745,7 +2779,7 @@
 "code": "SA-033",
 "name": "bluewarrior.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -3199,7 +3233,7 @@
 "code": "SA-037",
 "name": "aeconnect.co.in",
 "country": "印度",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -3239,7 +3273,7 @@
 "code": "SA-038",
 "name": "dncsolutions.co.in",
 "country": "印度",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -3344,7 +3378,7 @@
 "code": "SA-041",
 "name": "lightoptics.pl",
 "country": "波兰",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -3389,9 +3423,9 @@
 "deal_flag": false,
 "n_in_human": 6,
 "n_in_auto": 0,
-"n_pos": 5,
+"n_pos": 6,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "2024-01-20",
 "last": "2025-08-11",
 "last_cls": "thin",
@@ -3484,6 +3518,12 @@
 "content": "商业24光Combo",
 "reply": "INFO",
 "kind": "pos"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "商业switch L2 L3 10G\n问了2.5G 10G类产品",
+"kind": "pos"
 }
 ]
 },
@@ -3491,7 +3531,7 @@
 "code": "SA-043",
 "name": "direktronik.se",
 "country": "瑞典",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -3570,7 +3610,7 @@
 "code": "SA-044",
 "name": "dymec.com",
 "country": "美国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 4,
@@ -3794,7 +3834,7 @@
 "code": "SA-047",
 "name": "sge.com.tr",
 "country": "土耳其",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -4567,7 +4607,7 @@
 "code": "SA-057",
 "name": "Born SPb LLC",
 "country": "俄罗斯",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -4748,9 +4788,9 @@
 "deal_flag": false,
 "n_in_human": 5,
 "n_in_auto": 0,
-"n_pos": 4,
+"n_pos": 5,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "2025-01-03",
 "last": "2026-06-08",
 "last_cls": "pos",
@@ -4840,6 +4880,12 @@
 "content": "24fiber",
 "reply": "price info",
 "kind": "pos"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "bypass 2光10电的帖子下问价格",
+"kind": "pos"
 }
 ]
 },
@@ -4887,19 +4933,19 @@
 "code": "SA-062",
 "name": "ipns-uae.com",
 "country": "阿联酋",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 1,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "auto",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [
 {
@@ -4917,7 +4963,14 @@
 ]
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "参展商，去了他们展位给了catalog，邀请他们来展位，来了介绍了2光10电，他着重问了alarm,说平常的交换机也带\n工业他们是从N-Net买的能看出来，商业",
+"kind": "pos"
+}
+]
 },
 "SA-063": {
 "code": "SA-063",
@@ -5111,7 +5164,7 @@
 "code": "SA-066",
 "name": "ccs-msk.ru",
 "country": "俄罗斯",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -5324,7 +5377,7 @@
 "code": "SA-069",
 "name": "bptehno.ru",
 "country": "俄罗斯",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -5372,11 +5425,39 @@
 }
 ]
 },
+"SA-070": {
+"code": "SA-070",
+"name": "Top Italia",
+"country": "意大利",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "从ONV买，质量比较满意，但是价格有时觉得高\n问了多光口的12光12电，也问了wifi相关的，提供不了，问了芯片，也问了电源，比较专业 ； 39 095 471",
+"kind": "pos"
+}
+]
+},
 "SA-071": {
 "code": "SA-071",
 "name": "surlink-tech.com",
 "country": "玻利维亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -5410,6 +5491,34 @@
 "content": "群发了16电",
 "reply": "全系列电口信息",
 "kind": "weak"
+}
+]
+},
+"SA-072": {
+"code": "SA-072",
+"name": "trans audio video group",
+"country": "意大利",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "采购过多次交换机（少量工业级，主要是商业级）希望与我们合作\n问了工业电源（朱姐说可以替他们采购）\n要详细报价单 ； 39 335 7374068",
+"kind": "pos"
 }
 ]
 },
@@ -5451,7 +5560,7 @@
 "code": "SA-074",
 "name": "Elite Team Security Ltd",
 "country": "保加利亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -5500,6 +5609,34 @@
 "date": "2025.12.4",
 "content": "Marvell Chip",
 "reply": "Interested 但 嫌价格贵",
+"kind": "pos"
+}
+]
+},
+"SA-076": {
+"code": "SA-076",
+"name": "Telemobil",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2025",
+"content": "Simon 备注/兴趣栏",
+"reply": "可重点跟进，有具体项目， 2光2电带POE, 要求发价格， 现场给客户展示了2光4电带POE, 把彩页上的2光2电给客户看了，客户问了交期 ； 网站打不开\n可重",
 "kind": "pos"
 }
 ]
@@ -6190,7 +6327,7 @@
 "code": "SB-001",
 "name": "resonantnetworks.com",
 "country": "新加坡",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 36,
@@ -6730,7 +6867,7 @@
 "code": "SB-002",
 "name": "Xspec Technology Sdn Bhd",
 "country": "马来西亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 4,
@@ -6821,7 +6958,7 @@
 "code": "SB-003",
 "name": "Rio-Import LLC（ООО «РИО-ИМПОРТ»）",
 "country": "俄罗斯",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 0,
@@ -6855,7 +6992,7 @@
 "code": "SB-004",
 "name": "fhn-na.com",
 "country": "美国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -6885,7 +7022,7 @@
 "country": "斯洛伐克",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -6904,7 +7041,7 @@
 "code": "SB-006",
 "name": "unitedcontrolengg.com",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 0,
@@ -6949,9 +7086,9 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 2,
+"n_pos": 3,
 "n_neg": 0,
-"n_tbl_reply": 3,
+"n_tbl_reply": 4,
 "first": "",
 "last": "",
 "last_cls": "pos",
@@ -6977,6 +7114,12 @@
 "content": "154",
 "reply": "想下单 后续over",
 "kind": "pos"
+},
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "之前谈了工业FS ； OEM 贴牌 NSI-/NSIM- 工业交换机样单 BO（2024-11-20） ； tel: 38(044)59 37976\n加不上 ；",
+"kind": "pos"
 }
 ]
 },
@@ -6986,7 +7129,7 @@
 "country": "沙特阿拉伯",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 1,
@@ -7026,7 +7169,7 @@
 "country": "意大利",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7090,7 +7233,7 @@
 "country": "阿联酋",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7111,7 +7254,7 @@
 "country": "捷克",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7132,7 +7275,7 @@
 "country": "巴基斯坦",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7153,7 +7296,7 @@
 "country": "西班牙",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7172,7 +7315,7 @@
 "code": "SB-015",
 "name": "suministros-industriales.es",
 "country": "西班牙",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -7200,14 +7343,14 @@
 "code": "SB-016",
 "name": "Richard Jackson",
 "country": "坦桑尼亚",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 2,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "",
 "last": "",
 "last_cls": "pos",
@@ -7221,6 +7364,12 @@
 "content": "发了2光8POE管理出货信息",
 "reply": "问了catalog/2023.3.20",
 "kind": "pos"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "主动联系问资料 说要下单 ； 255 768 043267\n已加",
+"kind": "pos"
 }
 ]
 },
@@ -7228,9 +7377,9 @@
 "code": "SB-017",
 "name": "Securitytec",
 "country": "英国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7249,7 +7398,7 @@
 "code": "SB-018",
 "name": "Smart-Protect",
 "country": "德国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -7314,11 +7463,39 @@
 }
 ]
 },
+"SB-019": {
+"code": "SB-019",
+"name": "aetektec.com",
+"country": "台湾",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "Simon之前联系过，和回复邮件的人见面后做了交谈，台湾客户\n1，有时他们需要便宜方案可以找我们拿\n2，可能会他们提供软件让我们提供硬件\n3，推了2光10电，他",
+"kind": "pos"
+}
+]
+},
 "SB-020": {
 "code": "SB-020",
 "name": "52networks.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 14,
@@ -7590,13 +7767,41 @@
 }
 ]
 },
+"SB-022": {
+"code": "SB-022",
+"name": "Desk Technologies",
+"country": "德国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "和当地警察局有联系，他们会按照项目找产品，对IP67有兴趣，配线大约需要60-80米，报价80美金一台，能否OEM，想买样品测试IP67 ； 49 173 15",
+"kind": "pos"
+}
+]
+},
 "SB-023": {
 "code": "SB-023",
 "name": "itk.co.th",
 "country": "泰国",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7611,13 +7816,41 @@
 "msgs": [],
 "tbl_replies": []
 },
+"SB-027": {
+"code": "SB-027",
+"name": "VoIPDistri",
+"country": "德国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "买Elink的一部分工业级交换机 也卖本土的品牌Teltonika 对M12交换机知道一些，问了I/O模块，以及是否有分销商 ； 49 5201 730030",
+"kind": "pos"
+}
+]
+},
 "SB-028": {
 "code": "SB-028",
 "name": "fibotelecom.ru",
 "country": "俄罗斯",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7681,7 +7914,7 @@
 "country": "瑞士",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7700,7 +7933,7 @@
 "code": "SB-031",
 "name": "OM Telecom S.R.L.",
 "country": "秘鲁",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -7811,7 +8044,7 @@
 "code": "SB-034",
 "name": "TJ Computer",
 "country": "泰国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -7898,7 +8131,7 @@
 "country": "哈萨克斯坦",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -7995,7 +8228,7 @@
 "country": "俄罗斯",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8417,7 +8650,7 @@
 "country": "西班牙",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8436,7 +8669,7 @@
 "code": "SB-047",
 "name": "topica.mn",
 "country": "蒙古国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -8479,7 +8712,7 @@
 "country": "塞尔维亚",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8500,7 +8733,7 @@
 "country": "津巴布韦",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8521,7 +8754,7 @@
 "country": "印度尼西亚",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8542,7 +8775,7 @@
 "country": "美国",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8688,7 +8921,7 @@
 "country": "菲律宾",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8707,7 +8940,7 @@
 "code": "SB-055",
 "name": "DIOS ULTRA HD VIDEO SECURITY SYSTEMS",
 "country": "荷兰",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -8760,7 +8993,7 @@
 "code": "SB-056",
 "name": "Net Work Business Solutions",
 "country": "爱沙尼亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -8800,7 +9033,7 @@
 "code": "SB-057",
 "name": "Rfcom",
 "country": "希腊",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -8840,9 +9073,9 @@
 "code": "SB-058",
 "name": "SABMARtv",
 "country": "波兰",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -8861,7 +9094,7 @@
 "code": "SB-059",
 "name": "avanca.com.sg",
 "country": "新加坡",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -8967,8 +9200,8 @@
 "n_in_human": 1,
 "n_in_auto": 0,
 "n_pos": 1,
-"n_neg": 0,
-"n_tbl_reply": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
 "first": "2024-11-26",
 "last": "2024-11-26",
 "last_cls": "pos",
@@ -8991,7 +9224,14 @@
 ]
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "有自己的logo 大多数还是CTCU的  工业FS MC POE SFP ； 有ONV的设备 https://www.megatelindustries.com",
+"kind": "neg"
+}
+]
 },
 "SB-062": {
 "code": "SB-062",
@@ -9027,13 +9267,41 @@
 }
 ]
 },
+"SB-063": {
+"code": "SB-063",
+"name": "Avesta",
+"country": "英国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "拿了珊姐的联系方式，只对非管理PoE商业有兴趣 计划7月来深圳 想参观公司\n问了2光24电的特点，我给他介绍了3个\n1，混合速率，也可以全千兆\n2，extend",
+"kind": "pos"
+}
+]
+},
 "SB-064": {
 "code": "SB-064",
 "name": "amitytechnologies.co.in",
 "country": "印度",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -9054,7 +9322,7 @@
 "country": "巴基斯坦",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -9075,7 +9343,7 @@
 "country": "越南",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -9096,7 +9364,7 @@
 "country": "菲律宾",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -9117,7 +9385,7 @@
 "country": "巴基斯坦",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -9136,9 +9404,9 @@
 "code": "SB-069",
 "name": "mutexsystemsltd.com",
 "country": "巴基斯坦",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -9157,7 +9425,7 @@
 "code": "SB-070",
 "name": "neowine",
 "country": "韩国",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -9202,7 +9470,7 @@
 "country": "菲律宾",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 1,
 "n_in_auto": 0,
 "n_pos": 1,
@@ -9239,7 +9507,7 @@
 "country": "印度",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -9254,11 +9522,39 @@
 "msgs": [],
 "tbl_replies": []
 },
+"SB-079": {
+"code": "SB-079",
+"name": "cansisteknoloji.com",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2025",
+"content": "Simon 备注/兴趣栏",
+"reply": "问12光12电带POE 带网管  问了价格 报价150usd ； 问12光12电带PoE 带网管  问了价格 报价150usd ； 0541 541 0010 ",
+"kind": "pos"
+}
+]
+},
 "SB-080": {
 "code": "SB-080",
 "name": "cyber-tec.net",
 "country": "伊拉克",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -9286,7 +9582,7 @@
 "code": "SB-083",
 "name": "MERIT LILIN ENT. CO., LTD.",
 "country": "台湾",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -9336,7 +9632,7 @@
 "code": "SB-084",
 "name": "AD-NET TECHNOLOGY CO., LTD.",
 "country": "台湾",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -9452,7 +9748,7 @@
 "code": "SB-086",
 "name": "TAILYN",
 "country": "台湾",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 4,
@@ -9698,7 +9994,7 @@
 "code": "SB-093",
 "name": "konakguvenlik.com.tr",
 "country": "土耳其",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -9836,7 +10132,7 @@
 "code": "SB-1026",
 "name": "epygi.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -9998,7 +10294,7 @@
 "code": "SB-104",
 "name": "STS Italia S.r.l.",
 "country": "意大利",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -10112,7 +10408,7 @@
 "code": "SB-1054",
 "name": "luxritesecurity.com",
 "country": "英国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -10366,11 +10662,39 @@
 ],
 "tbl_replies": []
 },
+"SB-1076": {
+"code": "SB-1076",
+"name": "simplifinetworks.com",
+"country": "肯尼亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "POE配件工业FS 有自己的logo\n多数还是卖别人的",
+"kind": "neg"
+}
+]
+},
 "SB-109": {
 "code": "SB-109",
 "name": "ite.net.pk",
 "country": "巴基斯坦",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 3,
@@ -10474,9 +10798,9 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 3,
+"n_pos": 4,
 "n_neg": 0,
-"n_tbl_reply": 3,
+"n_tbl_reply": 4,
 "first": "",
 "last": "",
 "last_cls": "pos",
@@ -10501,6 +10825,12 @@
 "date": "2024.3.18",
 "content": "发了2光8PoE管理商业出货图",
 "reply": "price",
+"kind": "pos"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "对价格OK 想拿样 贴标 ； 256 704 575328 已加",
 "kind": "pos"
 }
 ]
@@ -10611,7 +10941,7 @@
 "code": "SB-1102",
 "name": "vienthonggiatot.com",
 "country": "越南",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -10654,7 +10984,7 @@
 "code": "SB-1103",
 "name": "ara.com.bd",
 "country": "孟加拉国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -10889,7 +11219,7 @@
 "code": "SB-1110",
 "name": "amineachoura21@gmail.com",
 "country": "阿尔及利亚",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -10973,7 +11303,7 @@
 "code": "SB-1113",
 "name": "Fastball",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 0,
@@ -10994,7 +11324,7 @@
 "code": "SB-1120",
 "name": "Obmac systems 可以推一下",
 "country": "赞比亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 0,
@@ -11015,14 +11345,14 @@
 "code": "SB-1121",
 "name": "technetix.com",
 "country": "英国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
 "n_in_auto": 0,
-"n_pos": 4,
+"n_pos": 5,
 "n_neg": 0,
-"n_tbl_reply": 2,
+"n_tbl_reply": 3,
 "first": "2025-04-22",
 "last": "2026-01-21",
 "last_cls": "pos",
@@ -11072,6 +11402,12 @@
 "date": "2026.1.21",
 "content": "CENTEC",
 "reply": "问了一些问题",
+"kind": "pos"
+},
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "基本不用PoE\n要10G工业管理收发器 3层工业交换机。8/12/16个SFP+, 主做工业品，问了芯片 ； 44 7827 990840 \n加不上  比较专业",
 "kind": "pos"
 }
 ]
@@ -11180,7 +11516,7 @@
 "country": "俄罗斯",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -11236,7 +11572,7 @@
 "code": "SB-1132",
 "name": "nedic.aleksandar@gmail.com",
 "country": "塞尔维亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -11352,7 +11688,7 @@
 "country": "俄罗斯",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 5,
 "n_in_auto": 0,
 "n_pos": 4,
@@ -11432,7 +11768,7 @@
 "code": "SB-1136",
 "name": "fiberoptics4sale.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -11769,7 +12105,7 @@
 "code": "SB-116",
 "name": "Pyramid Enterprises",
 "country": "津巴布韦",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -12065,7 +12401,7 @@
 "country": "厄瓜多尔",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -12086,7 +12422,7 @@
 "country": "安哥拉",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -12101,11 +12437,39 @@
 "msgs": [],
 "tbl_replies": []
 },
+"SB-129": {
+"code": "SB-129",
+"name": "Addon Technology Ltd",
+"country": "英国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "香港出生但一直在英国，会说一些广东话，对产品比较了解，让我做一个presentation,问了一些问题，之前处理过类似的产品线\n从网站看还是比较相关的 ； 网站",
+"kind": "pos"
+}
+]
+},
 "SB-130": {
 "code": "SB-130",
 "name": "Bonmag International",
 "country": "罗马尼亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -12131,6 +12495,146 @@
 "date": "92",
 "content": "bypass",
 "reply": "可能有用 price",
+"kind": "pos"
+}
+]
+},
+"SB-131": {
+"code": "SB-131",
+"name": "DE secure",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "想要工业级8口POE交换机， 30w, 英文不是很好， 想要报价加上当地20%关税的价格",
+"kind": "pos"
+}
+]
+},
+"SB-132": {
+"code": "SB-132",
+"name": "F.A.S.T",
+"country": "土耳其",
+"grade_now": "A",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了工业级5口POE交换机  说自己也代理PLC  IO模块",
+"kind": "pos"
+}
+]
+},
+"SB-134": {
+"code": "SB-134",
+"name": "Kassaba Systems",
+"country": "保加利亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "2个人一起，CEO年纪较大，英语一般，那个小伙子会帮忙翻译，做CCTV的，懂VC系列，问了resolution, 给他们介绍了2V2D2A和2光10电，问了Po",
+"kind": "pos"
+}
+]
+},
+"SB-137": {
+"code": "SB-137",
+"name": "ORAL GUVENLIK",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了工业级POE带网管， bypas, 问了12光12电带POE网管 报价150usd  2光8电带POE管理 （Vitesse) 报价 90usd, 觉得贵了",
+"kind": "pos"
+}
+]
+},
+"SB-140": {
+"code": "SB-140",
+"name": "ag-bilgisayar.com",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "要bypass, 问了千兆2光8带POE带管理带bypass价格 不需要10G  拿了彩页",
 "kind": "pos"
 }
 ]
@@ -12239,6 +12743,62 @@
 ],
 "tbl_replies": []
 },
+"SB-149": {
+"code": "SB-149",
+"name": "klasnet.com.tr",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Evelyn 加了WhatsApp 客户问怎么成为分析商， 对MC Switch,  patch cord 感兴趣",
+"kind": "pos"
+}
+]
+},
+"SB-151": {
+"code": "SB-151",
+"name": "optiwatch monitoring solution",
+"country": "英国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "need PoE switch，千兆，需要报价单 问了PoE距离，重交期，希望2周内基本都能交货 ； 44 20 8443 0077\n44 791 632 23",
+"kind": "pos"
+}
+]
+},
 "SB-152": {
 "code": "SB-152",
 "name": "pulsar.pl",
@@ -12333,6 +12893,34 @@
 ],
 "tbl_replies": []
 },
+"SB-153": {
+"code": "SB-153",
+"name": "sinerjik",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了POE Splitter  一个输入 两个输出   推了5口POE延长器， 想要小的那种",
+"kind": "pos"
+}
+]
+},
 "SB-154": {
 "code": "SB-154",
 "name": "wire.tech",
@@ -12375,7 +12963,7 @@
 "country": "法国",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -12515,7 +13103,7 @@
 "code": "SB-163",
 "name": "skeo.ru",
 "country": "俄罗斯",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -12741,7 +13329,7 @@
 "code": "SB-166",
 "name": "Crown Security Solutions",
 "country": "卡塔尔",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -12767,6 +13355,34 @@
 "date": "106",
 "content": "dac",
 "reply": "cpse展会",
+"kind": "pos"
+}
+]
+},
+"SB-167": {
+"code": "SB-167",
+"name": "ONSIS ELEKTRONIK",
+"country": "土耳其",
+"grade_now": "A",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Ady加了WhatsApp  问2光8带POE带网管带bypass价格 报了105美金 要L2， 最后一天来的时候要样品，当时身上没有现金",
 "kind": "pos"
 }
 ]
@@ -12803,7 +13419,7 @@
 "code": "SB-169",
 "name": "agsplus.in",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -13144,14 +13760,14 @@
 "code": "SB-175",
 "name": "mbtc.com.sa",
 "country": "沙特阿拉伯",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 3,
 "n_in_auto": 0,
-"n_pos": 3,
+"n_pos": 4,
 "n_neg": 1,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "2023-06-19",
 "last": "2023-06-19",
 "last_cls": "pos",
@@ -13208,6 +13824,12 @@
 "content": "发了2光4相关信息",
 "reply": "有用但现在没需求",
 "kind": "neg"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "做项目的 问了几个产品 ； 9665720 12594 已加 ； 9665720 12594 已加\nWasi Akthar\nei-telcomlead@aami",
+"kind": "pos"
 }
 ]
 },
@@ -13333,6 +13955,34 @@
 "date": "926",
 "content": "2.5G ethernet",
 "reply": "price list",
+"kind": "pos"
+}
+]
+},
+"SB-185": {
+"code": "SB-185",
+"name": "Zeytek",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2025",
+"content": "Simon 备注/兴趣栏",
+"reply": "没做过多交谈，要了名片和彩页 ； 9053566 23548 已加\n902167557233",
 "kind": "pos"
 }
 ]
@@ -13499,7 +14149,7 @@
 "country": "巴林",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -13659,6 +14309,62 @@
 }
 ]
 },
+"SB-201": {
+"code": "SB-201",
+"name": "Elsi",
+"country": "意大利",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "主要用国内univew这家的摄像头，处理CCTV security, 问了商业PoE的price list,给他介绍了2光10电，没太多意愿说会看的 ； 096",
+"kind": "pos"
+}
+]
+},
+"SB-202": {
+"code": "SB-202",
+"name": "Engineering Group Contractors",
+"country": "黎巴嫩",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "1,谈了switch,着重问了30个switch环网\n2，问了VC，说之前用过，不过用的基本都是视频和数据，其他的功能用的少\n3，问了2光10电，基本都懂，问了",
+"kind": "pos"
+}
+]
+},
 "SB-203": {
 "code": "SB-203",
 "name": "PT. Suryatama",
@@ -13725,7 +14431,7 @@
 "code": "SB-205",
 "name": "barox.de",
 "country": "德国",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 3,
@@ -13815,6 +14521,34 @@
 ],
 "tbl_replies": []
 },
+"SB-210": {
+"code": "SB-210",
+"name": "deonet.co.kr",
+"country": "韩国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "工商业switch都有\nPOE交换机问了芯片，Gpon，Epon",
+"kind": "pos"
+}
+]
+},
 "SB-212": {
 "code": "SB-212",
 "name": "fti-optronic.com",
@@ -13843,6 +14577,34 @@
 }
 ]
 },
+"SB-213": {
+"code": "SB-213",
+"name": "kti.de",
+"country": "德国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "分销 有自己的牌子 也有别人的\nPOE MC 工业FS SFP",
+"kind": "neg"
+}
+]
+},
 "SB-218": {
 "code": "SB-218",
 "name": "nag.ru",
@@ -13852,14 +14614,14 @@
 "deal_flag": false,
 "n_in_human": 1,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "2025-10-01",
 "last": "2025-10-01",
 "last_cls": "thin",
 "soft_neg": false,
-"reply_class": "R0",
+"reply_class": "R+",
 "boxes": "A",
 "msgs": [
 {
@@ -13881,6 +14643,12 @@
 "content": "Dual AC",
 "reply": "??",
 "kind": "thin"
+},
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "switch ； 问了400G模块 也看了相干模块 ； 7-926 352 1056",
+"kind": "pos"
 }
 ]
 },
@@ -13927,12 +14695,12 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 2,
 "n_neg": 3,
-"n_tbl_reply": 8,
+"n_tbl_reply": 9,
 "first": "",
 "last": "",
-"last_cls": "weak",
+"last_cls": "pos",
 "soft_neg": false,
 "reply_class": "R+",
 "boxes": "",
@@ -13985,6 +14753,12 @@
 "content": "问需求",
 "reply": "已经分享给相关的人了",
 "kind": "weak"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "对2.5G/10G有兴趣 不过有供应商 也问了周边产品 ； 260 96 188 4678 已加",
+"kind": "pos"
 }
 ]
 },
@@ -13992,7 +14766,7 @@
 "code": "SB-224",
 "name": "Arsenal TV",
 "country": "罗马尼亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -14018,6 +14792,34 @@
 "date": "529",
 "content": "洪瑞商业PoE组合图",
 "reply": "price",
+"kind": "pos"
+}
+]
+},
+"SB-225": {
+"code": "SB-225",
+"name": "CESS Govalik",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "最主要问了收发器",
 "kind": "pos"
 }
 ]
@@ -14074,7 +14876,7 @@
 "code": "SB-227",
 "name": "NKF wireless internet and services",
 "country": "菲律宾",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -14153,7 +14955,7 @@
 "country": "越南",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -14625,14 +15427,14 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 1,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "auto",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [
 {
@@ -14648,13 +15450,20 @@
 "att": []
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "分销爱尔兰和英国，问了非管理和管理 主要处理Ethernet switch ； Kyland ； 44 0 1785 818600",
+"kind": "pos"
+}
+]
 },
 "SB-267": {
 "code": "SB-267",
 "name": "bio-cognitive.com",
 "country": "新加坡",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -14775,7 +15584,7 @@
 "code": "SB-297",
 "name": "Chisinau, Ion Creanga 66, Chisinau, Chisinau, Republic of Moldova, 2064",
 "country": "摩尔多瓦",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -14795,6 +15604,34 @@
 "date": "2024.4.28",
 "content": "发了商业POE 128信息",
 "reply": "问了4+2百兆千兆100个的价格",
+"kind": "pos"
+}
+]
+},
+"SB-298": {
+"code": "SB-298",
+"name": "VNS technologies",
+"country": "阿联酋",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "和aetek合作了5年了，工业品看了2光8管理POE\n商业看了2光24电，问了管理是2层还是3层\n会来深圳 ； 971 2 666 7757 \n加不上",
 "kind": "pos"
 }
 ]
@@ -14851,11 +15688,39 @@
 }
 ]
 },
+"SB-305": {
+"code": "SB-305",
+"name": "Bits&Byte CONSULTING PVT LTD",
+"country": "印度",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "BTON带过来的 \n问了Ring时间能否小于20ms\n2光10电不要PoE价格\n简单谈了4光10电，10G光的\n对bypass有兴趣，看了接线图\n问了100G/",
+"kind": "pos"
+}
+]
+},
 "SB-306": {
 "code": "SB-306",
 "name": "Digital systems",
 "country": "印度",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -14891,13 +15756,69 @@
 }
 ]
 },
+"SB-307": {
+"code": "SB-307",
+"name": "Saxco Marketing Sdn Bhd",
+"country": "马来西亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "主动联系 问了network switch\nsecurity products distributor ； Skype: saxco225\nAdd: No 8,",
+"kind": "pos"
+}
+]
+},
+"SB-310": {
+"code": "SB-310",
+"name": "arcanlibya.com",
+"country": "利比亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2025",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了8光8价格，要价格表，要工业级POE管理交换机， 第二个是WhatsApp ； 问了8光8价格，要价格表，要工业级PoE管理交换机 ； 218 21 712",
+"kind": "pos"
+}
+]
+},
 "SB-312": {
 "code": "SB-312",
 "name": "fibercomtelecoms.com",
 "country": "菲律宾",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -14959,7 +15880,7 @@
 "country": "菲律宾",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -15090,7 +16011,7 @@
 "country": "俄罗斯",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -15104,6 +16025,34 @@
 "boxes": "",
 "msgs": [],
 "tbl_replies": []
+},
+"SB-322": {
+"code": "SB-322",
+"name": "Blackbear TechHive",
+"country": "台湾",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "日本的，会中文，POE switch，在韩国有代理商，产品在台湾生产，问了我们是否有OEM ODM ； 日本的，会中文，POE switch，在韩国有代理商，产",
+"kind": "pos"
+}
+]
 },
 "SB-324": {
 "code": "SB-324",
@@ -15137,9 +16086,9 @@
 "code": "SB-325",
 "name": "Hamed electronics LLC",
 "country": "阿联酋",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -15153,6 +16102,34 @@
 "boxes": "",
 "msgs": [],
 "tbl_replies": []
+},
+"SB-326": {
+"code": "SB-326",
+"name": "PROXEET LIMITED",
+"country": "塞浦路斯",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "需要30W PoE injector / from: 阿里巴巴RFQ",
+"kind": "pos"
+}
+]
 },
 "SB-327": {
 "code": "SB-327",
@@ -15264,6 +16241,34 @@
 "msgs": [],
 "tbl_replies": []
 },
+"SB-336": {
+"code": "SB-336",
+"name": "INTERCOAX CO.,LTD",
+"country": "韩国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "之前联系的那个韩国买样客户\n看了产品，聊了几次，拿了catalog\n问了2+2+8，上联2个光2个网的型号 ； Simom客户，总代表4月3日从美国回韩，可详细",
+"kind": "pos"
+}
+]
+},
 "SB-337": {
 "code": "SB-337",
 "name": "Kimberley telecommunications",
@@ -15296,14 +16301,14 @@
 "code": "SB-339",
 "name": "OMEGATEC SARL",
 "country": "喀麦隆",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 2,
+"n_pos": 3,
 "n_neg": 0,
-"n_tbl_reply": 2,
+"n_tbl_reply": 3,
 "first": "",
 "last": "",
 "last_cls": "pos",
@@ -15323,6 +16328,12 @@
 "content": "dac",
 "reply": "12光L3",
 "kind": "pos"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "16 port Giga POE switch \n要价格表  Reseller ； 237 532 83301\n已加",
+"kind": "pos"
 }
 ]
 },
@@ -15330,7 +16341,7 @@
 "code": "SB-340",
 "name": "ROCKBIOS Limited",
 "country": "加纳",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -15364,7 +16375,7 @@
 "code": "SB-341",
 "name": "SMART SECURITY SYSTEMS",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -15385,6 +16396,62 @@
 "content": "28poe",
 "reply": "price",
 "kind": "pos"
+}
+]
+},
+"SB-342": {
+"code": "SB-342",
+"name": "Sure Transport",
+"country": "英国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "需求和斯洛文尼亚客户高度相似，基本只要5 8口，偶尔要PoE，基本不要10/12/16口，在电脑上给他看了实物图和E-mark证书，客户问了DS/Price/公",
+"kind": "pos"
+}
+]
+},
+"SB-344": {
+"code": "SB-344",
+"name": "amer.com",
+"country": "加拿大",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "MC SFP POE injector 自己logo\nswitch 有自己的标 也有Planet的",
+"kind": "neg"
 }
 ]
 },
@@ -15677,6 +16744,34 @@
 ],
 "tbl_replies": []
 },
+"SB-360": {
+"code": "SB-360",
+"name": "longtek",
+"country": "英国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "用工业级较少，感觉也不是很懂，对8口24口商业有兴趣问了价格 ； 020 8805 0002\n07710 491 440 M",
+"kind": "pos"
+}
+]
+},
 "SB-361": {
 "code": "SB-361",
 "name": "luckyjoint.com.sg",
@@ -15773,7 +16868,7 @@
 "code": "SB-366",
 "name": "th-it.com",
 "country": "马来西亚",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -15825,7 +16920,7 @@
 "code": "SB-367",
 "name": "thuyluc.com",
 "country": "越南",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -15925,14 +17020,14 @@
 "code": "SB-375",
 "name": "Delta Consulting",
 "country": "格鲁吉亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "gg",
 "deal_flag": true,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 2,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "",
 "last": "",
 "last_cls": "pos",
@@ -15945,6 +17040,12 @@
 "date": "1119",
 "content": "引流机型",
 "reply": "small 8 port high poe",
+"kind": "pos"
+},
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "从新桥拿货，给我看了一个CI，价格基本是对半砍的，懂WDM,问能分波多少路，对外壳质量不满意（基本是由于外边那层保护膜没撕的缘故） 对1光4 2光4小壳有兴趣，",
 "kind": "pos"
 }
 ]
@@ -16020,7 +17121,7 @@
 "code": "SB-412",
 "name": "InterConnectivity Computer Solutions",
 "country": "菲律宾",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -16087,24 +17188,17 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 0,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 0,
 "first": "",
 "last": "",
-"last_cls": "pos",
+"last_cls": "",
 "soft_neg": false,
-"reply_class": "R+",
+"reply_class": "none",
 "boxes": "",
 "msgs": [],
-"tbl_replies": [
-{
-"date": "2021.10.10",
-"content": "发了价格 问要多少个",
-"reply": "要100G的",
-"kind": "pos"
-}
-]
+"tbl_replies": []
 },
 "SB-430": {
 "code": "SB-430",
@@ -16112,7 +17206,7 @@
 "country": "俄罗斯",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -16195,6 +17289,34 @@
 ],
 "tbl_replies": []
 },
+"SB-435": {
+"code": "SB-435",
+"name": "saucontech.com",
+"country": "美国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2022",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了一些技术问题",
+"kind": "pos"
+}
+]
+},
 "SB-438": {
 "code": "SB-438",
 "name": "CTCU",
@@ -16251,7 +17373,7 @@
 "country": "波兰",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -16310,7 +17432,7 @@
 "code": "SB-447",
 "name": "automationsystem.in",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -16356,9 +17478,9 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 2,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 4,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
 "last_cls": "pos",
@@ -16367,24 +17489,6 @@
 "boxes": "",
 "msgs": [],
 "tbl_replies": [
-{
-"date": "2021.3.18",
-"content": "发了网站 VC图 问是否有用",
-"reply": "wait pls  不知道他想说啥",
-"kind": "weak"
-},
-{
-"date": "2021.4.6",
-"content": "发了POE switch价格 图",
-"reply": "回复了Ok 问能否运送到India",
-"kind": "weak"
-},
-{
-"date": "2021.8.12",
-"content": "发了mini小壳图 价格",
-"reply": "问了一个NVR 提供不了",
-"kind": "pos"
-},
 {
 "date": "2022.8.11",
 "content": "发了8路高清图 阿里链接",
@@ -16617,14 +17721,14 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 1,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "auto",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [
 {
@@ -16640,13 +17744,20 @@
 "att": []
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了商业POE，要小尺寸，介绍了4口的那个\n问了价格，不用工业级，拍了展位照片 ； 420 581 261 203\n420 581 261 172\n420 72",
+"kind": "pos"
+}
+]
 },
 "SB-462": {
 "code": "SB-462",
 "name": "Eter biometric technologies Srl",
 "country": "意大利",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -16730,7 +17841,7 @@
 "country": "塞内加尔",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -16874,7 +17985,7 @@
 "code": "SB-477",
 "name": "eminnovate.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -16961,7 +18072,7 @@
 "code": "SB-485",
 "name": "n-itus.com",
 "country": "韩国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -17004,7 +18115,7 @@
 "code": "SB-487",
 "name": "npotelecom.ru",
 "country": "俄罗斯",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -17061,19 +18172,19 @@
 "code": "SB-497",
 "name": "Cong Ty TNHH CONG NGHE QUANG LAM",
 "country": "越南",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 1,
 "n_pos": 0,
-"n_neg": 0,
-"n_tbl_reply": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "neg",
 "soft_neg": false,
-"reply_class": "auto",
+"reply_class": "R-",
 "boxes": "",
 "msgs": [
 {
@@ -17089,13 +18200,20 @@
 "att": []
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业交换机 ； AOA的工业FS比较多 有自己的logo MC VC FS 周边产品 ； 028-383 13119\n0908-50 5685 已加",
+"kind": "neg"
+}
+]
 },
 "SB-499": {
 "code": "SB-499",
 "name": "b.medvedev11@mail.ru",
 "country": "吉尔吉斯斯坦",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -17685,6 +18803,90 @@
 ],
 "tbl_replies": []
 },
+"SB-562": {
+"code": "SB-562",
+"name": "ALT VISION",
+"country": "俄罗斯",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业级POE switch 问了Gpon ； pavel_gorodilov\n(skype)",
+"kind": "pos"
+}
+]
+},
+"SB-564": {
+"code": "SB-564",
+"name": "Latitude",
+"country": "莫桑比克",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "WDM Switch ； 问了很多问题 / from: 阿里巴巴询盘",
+"kind": "pos"
+}
+]
+},
+"SB-565": {
+"code": "SB-565",
+"name": "Marmaris Bilişim",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2025",
+"content": "Simon 备注/兴趣栏",
+"reply": "不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po",
+"kind": "pos"
+}
+]
+},
 "SB-568": {
 "code": "SB-568",
 "name": "Tien Phong CP",
@@ -17772,7 +18974,7 @@
 "code": "SB-580",
 "name": "nsavyumwamip@gmail.com",
 "country": "布隆迪",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -17811,9 +19013,9 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 6,
+"n_pos": 7,
 "n_neg": 0,
-"n_tbl_reply": 6,
+"n_tbl_reply": 7,
 "first": "",
 "last": "",
 "last_cls": "pos",
@@ -17856,6 +19058,12 @@
 "date": "510",
 "content": "4 8 16口工业PoE",
 "reply": "L2 managed",
+"kind": "pos"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了2光8管理 RMB price ； 92 331 4713140 已加",
 "kind": "pos"
 }
 ]
@@ -17922,7 +19130,7 @@
 "country": "印度",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -18132,7 +19340,7 @@
 "code": "SB-630",
 "name": "CORE IT SOLUTIONS",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -18165,6 +19373,34 @@
 "date": "2025.6.17",
 "content": "群发了10G MC",
 "reply": "price",
+"kind": "pos"
+}
+]
+},
+"SB-637": {
+"code": "SB-637",
+"name": "NaSys Inc",
+"country": "韩国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "做项目的，需求量比较大，POE交换机，商业级和工业级要报价单，工业级2光8电网管POE，商业级16口 ； 做项目的，需求量比较大，POE交换机，商业级和工业级要",
 "kind": "pos"
 }
 ]
@@ -18626,7 +19862,7 @@
 "code": "SB-701",
 "name": "chk999@outlook.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -18674,14 +19910,14 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 1,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "auto",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [
 {
@@ -18699,15 +19935,78 @@
 ]
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "Planet 48口交换机 ； Planet 48口交换机\n交谈中问了bypass ； 971 50 839 4997 \n已加",
+"kind": "pos"
+}
+]
+},
+"SB-723": {
+"code": "SB-723",
+"name": "BİLGEN ELEKTRONİK",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Ady加了WhatsApp  问了2光8带bypass, 问了POE功率",
+"kind": "pos"
+}
+]
+},
+"SB-727": {
+"code": "SB-727",
+"name": "Fadi",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Ady加了WhatsApp , 问了收发器和交换机 英文不是很好",
+"kind": "pos"
+}
+]
 },
 "SB-728": {
 "code": "SB-728",
 "name": "Fast-Track Systems & Services Pte Ltd",
 "country": "新加坡",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -18721,6 +20020,34 @@
 "boxes": "",
 "msgs": [],
 "tbl_replies": []
+},
+"SB-729": {
+"code": "SB-729",
+"name": "Heitech Padu Berhad",
+"country": "马来西亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "对于POE很有兴趣，拿了Hisource的彩页，主要看了工业级的，问了一下电源口的接线，也看了商业级的 公司地址：HeiTech Village 2, No. ",
+"kind": "pos"
+}
+]
 },
 "SB-731": {
 "code": "SB-731",
@@ -18775,6 +20102,139 @@
 "date": "2024.7.31",
 "content": "24口passive poe",
 "reply": "price",
+"kind": "pos"
+}
+]
+},
+"SB-732": {
+"code": "SB-732",
+"name": "Maxitulin",
+"country": "马来西亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "用POE交换机比较多，对bypass有兴趣，拍了照片，对CWDM有点兴趣，问了比较多，对光端机懂一些，但基本不用，只关注IPC，做项目用一些Cisco/Arub",
+"kind": "pos"
+}
+]
+},
+"SB-733": {
+"code": "SB-733",
+"name": "Preciso Technology SDN BHD",
+"country": "马来西亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "系统集成商 IOT，会去深圳看展，拿了光路的彩页，问了工业级可以达到85度吗 公司地址：48-2, Jalan PJU 5/20DThe Strand Kota",
+"kind": "pos"
+}
+]
+},
+"SB-734": {
+"code": "SB-734",
+"name": "SIGMA RECTRIX SYSTEMS (M) SDN BHD",
+"country": "马来西亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
+"SB-737": {
+"code": "SB-737",
+"name": "UGUR IMRE",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Ady客户  分销商 不需要OEM  要工业级POE交换机  报价2光8瑞昱带POE带网管加一个内置DC48V电源70usd, 回复Not bad(微信没通过）",
+"kind": "neg"
+}
+]
+},
+"SB-738": {
+"code": "SB-738",
+"name": "Ugur Simsek Netmax",
+"country": "土耳其",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Ady加了WhatsApp  问了bypass 具体问了2光8带POE带管理价格  报价120usd",
 "kind": "pos"
 }
 ]
@@ -19288,7 +20748,7 @@
 "code": "SB-771",
 "name": "lanprosa.com",
 "country": "哥斯达黎加",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -19578,7 +21038,7 @@
 "code": "SB-787",
 "name": "tccomm.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -19609,6 +21069,62 @@
 }
 ],
 "tbl_replies": []
+},
+"SB-788": {
+"code": "SB-788",
+"name": "tss-e.com",
+"country": "沙特阿拉伯",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业级带光的交换机  SFP模块\n前一阵子问了模块和PSU那个 ； ‘T:966 5983 23625\n一直没看信息",
+"kind": "pos"
+}
+]
+},
+"SB-790": {
+"code": "SB-790",
+"name": "vulsanx.com",
+"country": "马来西亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了POE switch,在用一些有名的牌子 主要是用24 48口的 4 8口的用的比较少 公司地址：No 59-1 & 59-2 Jalan MPK了,Med",
+"kind": "pos"
+}
+]
 },
 "SB-792": {
 "code": "SB-792",
@@ -19677,6 +21193,40 @@
 }
 ],
 "tbl_replies": []
+},
+"SB-817": {
+"code": "SB-817",
+"name": "masstracktech.com",
+"country": "加纳",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 2,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024.8.17",
+"content": "4 8口工业PoE",
+"reply": "154",
+"kind": "thin"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "公司:物流运输\n聊天: 说自己是工程师 谈了MC ； 233-020-648 5957\n已加",
+"kind": "pos"
+}
+]
 },
 "SB-818": {
 "code": "SB-818",
@@ -20057,7 +21607,7 @@
 "code": "SB-827",
 "name": "GOIP Global Services Pvt Ltd",
 "country": "印度",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -20485,6 +22035,34 @@
 ],
 "tbl_replies": []
 },
+"SB-852": {
+"code": "SB-852",
+"name": "Alam Jaya Management",
+"country": "马来西亚",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "谈了1+2+8商业POE，问了OEM ； 017 3812169",
+"kind": "pos"
+}
+]
+},
 "SB-857": {
 "code": "SB-857",
 "name": "airpro.in",
@@ -20649,7 +22227,7 @@
 "code": "SB-865",
 "name": "dbjcontrad@hotmail.com",
 "country": "赞比亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -20835,23 +22413,17 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 2,
 "n_neg": 0,
 "n_tbl_reply": 3,
 "first": "",
 "last": "",
-"last_cls": "thin",
+"last_cls": "pos",
 "soft_neg": false,
 "reply_class": "R+",
 "boxes": "",
 "msgs": [],
 "tbl_replies": [
-{
-"date": "2021.10.25",
-"content": "发了单模光猫图",
-"reply": "we use LAN/Ethernet to fiber",
-"kind": "weak"
-},
 {
 "date": "2023.2.7",
 "content": "发了CCTV热品excel",
@@ -20863,6 +22435,40 @@
 "content": "发了bypass图 DS ali链接",
 "reply": "有用",
 "kind": "thin"
+},
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "很早之前问了E1 fiber modem ； 9232150 75737\n已加",
+"kind": "pos"
+}
+]
+},
+"SB-881": {
+"code": "SB-881",
+"name": "nexlar.com",
+"country": "美国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "很多牌子的 有自己的logo",
+"kind": "neg"
 }
 ]
 },
@@ -20954,7 +22560,7 @@
 "code": "SB-896",
 "name": "wafulamusine@gmail.com",
 "country": "肯尼亚",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -20995,7 +22601,7 @@
 "code": "SB-897",
 "name": "wellspeter8@gmail.com",
 "country": "肯尼亚",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -21019,11 +22625,39 @@
 }
 ]
 },
+"SB-900": {
+"code": "SB-900",
+"name": "Eleandro",
+"country": "巴西",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "主动问了GMC和商业POE价格 ； 55 54 8141-3288 已加",
+"kind": "pos"
+}
+]
+},
 "SB-901": {
 "code": "SB-901",
 "name": "Hersnet Ltd",
 "country": "匈牙利",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -21057,8 +22691,8 @@
 "n_in_human": 3,
 "n_in_auto": 0,
 "n_pos": 4,
-"n_neg": 0,
-"n_tbl_reply": 1,
+"n_neg": 1,
+"n_tbl_reply": 2,
 "first": "2025-07-06",
 "last": "2025-10-31",
 "last_cls": "pos",
@@ -21118,6 +22752,12 @@
 "content": "16电",
 "reply": "Price 电源",
 "kind": "pos"
+},
+{
+"date": "2026",
+"content": "Simon 备注/兴趣栏",
+"reply": "有自己的logo 有的没有 光猫\nONV Upeto的工业FS 机架 FS等 ； 机架 MC FS 工业FS  自己的logo 外壳种类比较多 ； 2024-0",
+"kind": "neg"
 }
 ]
 },
@@ -21168,7 +22808,7 @@
 "code": "SB-924",
 "name": "Intracom Middle East FZ-LLC",
 "country": "阿联酋",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -21250,7 +22890,7 @@
 "code": "SB-933",
 "name": "airlive.com",
 "country": "台湾",
-"grade_now": "A",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -21552,7 +23192,7 @@
 "country": "乌兹别克斯坦",
 "grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -21665,7 +23305,7 @@
 "code": "SB-982",
 "name": "mcss.co.kr",
 "country": "韩国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 0,
@@ -21699,7 +23339,7 @@
 "code": "SB-984",
 "name": "olsontech.com",
 "country": "美国",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -21757,11 +23397,39 @@
 ],
 "tbl_replies": []
 },
+"SB-991": {
+"code": "SB-991",
+"name": "Tubal",
+"country": "埃及",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "主要处理POE，对2光10电做了详细讲解，比较懂，问了一个问题，alarm port能外接EMS嘛？\nSKD可以嘛？把外壳和板子分开提供 回复说可以 客户说这样",
+"kind": "pos"
+}
+]
+},
 "SC-001": {
 "code": "SC-001",
 "name": "sslcom.com",
 "country": "以色列",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -21817,7 +23485,7 @@
 "code": "SC-002",
 "name": "Intelligent",
 "country": "沙特阿拉伯",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -22029,7 +23697,7 @@
 "code": "SC-007",
 "name": "bornelectronics.com",
 "country": "英国",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -22093,7 +23761,7 @@
 "n_in_auto": 0,
 "n_pos": 0,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 0,
 "first": "2025-11-13",
 "last": "2025-11-13",
 "last_cls": "weak",
@@ -22114,14 +23782,7 @@
 "att": []
 }
 ],
-"tbl_replies": [
-{
-"date": "2025.11.6",
-"content": "solar",
-"reply": "??",
-"kind": "thin"
-}
-]
+"tbl_replies": []
 },
 "SC-011": {
 "code": "SC-011",
@@ -22129,7 +23790,7 @@
 "country": "俄罗斯",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -22143,6 +23804,34 @@
 "boxes": "",
 "msgs": [],
 "tbl_replies": []
+},
+"SC-012": {
+"code": "SC-012",
+"name": "LDZ Apsardze",
+"country": "拉脱维亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "对管理交换机有兴趣，知道M12交换机，问了工业级管理交换机价格 问是否有欧洲分公司，他们进口有点麻烦，价格会很高 ； 371 2953 1666 加不上",
+"kind": "pos"
+}
+]
 },
 "SC-013": {
 "code": "SC-013",
@@ -22266,7 +23955,7 @@
 "country": "意大利",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -22281,18 +23970,46 @@
 "msgs": [],
 "tbl_replies": []
 },
+"SC-021": {
+"code": "SC-021",
+"name": "netpardazco.com",
+"country": "伊朗",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2025",
+"content": "Simon 备注/兴趣栏",
+"reply": "拿了彩页，没做交谈（和中科得能聊了很久） ； 拿了彩页，没做交谈\n和中科得能聊了很久 ； 98 91431 58766 已加",
+"kind": "pos"
+}
+]
+},
 "SC-023": {
 "code": "SC-023",
 "name": "Central Gospel School",
 "country": "加纳",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 2,
 "n_neg": 1,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "2024-06-23",
 "last": "2024-06-23",
 "last_cls": "pos",
@@ -22321,6 +24038,12 @@
 "content": "2.5G Ethernet",
 "reply": "暂时没需求",
 "kind": "neg"
+},
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "客户主动联系 Unifi Switch 24 POE 2个 问工业管理 price list ； 233 24 481 8563\n已加",
+"kind": "pos"
 }
 ]
 },
@@ -22356,7 +24079,7 @@
 "code": "SC-039",
 "name": "atwtechnology.com",
 "country": "台湾",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -22522,13 +24245,13 @@
 "n_in_human": 0,
 "n_in_auto": 1,
 "n_pos": 0,
-"n_neg": 0,
-"n_tbl_reply": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "neg",
 "soft_neg": false,
-"reply_class": "auto",
+"reply_class": "R-",
 "boxes": "",
 "msgs": [
 {
@@ -22544,7 +24267,14 @@
 "att": []
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "SFP poe switch DAC ； 之前的mail 不行了\ncontact@eurotechnocom.fr",
+"kind": "neg"
+}
+]
 },
 "SC-067": {
 "code": "SC-067",
@@ -22676,7 +24406,7 @@
 "code": "SC-097",
 "name": "Three Lines Company",
 "country": "沙特阿拉伯",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -22788,6 +24518,27 @@
 ],
 "tbl_replies": []
 },
+"SC-1004": {
+"code": "SC-1004",
+"name": "Ekids Eurocom",
+"country": "保加利亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-1005": {
 "code": "SC-1005",
 "name": "NetEon (M) Sdn Bhd",
@@ -22829,7 +24580,7 @@
 "code": "SC-1056",
 "name": "cloudinfotech.co.in",
 "country": "印度",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -22876,6 +24627,27 @@
 ]
 }
 ],
+"tbl_replies": []
+},
+"SC-1077": {
+"code": "SC-1077",
+"name": "harddiskdirect.com",
+"country": "美国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
 "tbl_replies": []
 },
 "SC-1117": {
@@ -22940,6 +24712,55 @@
 }
 ]
 },
+"SC-114": {
+"code": "SC-114",
+"name": "Siklu Communication",
+"country": "黎巴嫩",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了10G工业级MC　没成\n需要10G品比较多",
+"kind": "pos"
+}
+]
+},
+"SC-1148": {
+"code": "SC-1148",
+"name": "canalonce.com.uy",
+"country": "巴拉圭",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-1165": {
 "code": "SC-1165",
 "name": "serveredge.com",
@@ -23002,7 +24823,7 @@
 "code": "SC-1167",
 "name": "vmo broadband pvt ltd",
 "country": "印度",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -23032,13 +24853,41 @@
 ],
 "tbl_replies": []
 },
+"SC-1168": {
+"code": "SC-1168",
+"name": "vuetec.de",
+"country": "德国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "找optical converter, 问价格\n网站：主要是视频 音频类的",
+"kind": "pos"
+}
+]
+},
 "SC-1173": {
 "code": "SC-1173",
 "name": "JEVASO S.L. DPTO. ELECTRONICA",
 "country": "西班牙",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -23057,7 +24906,7 @@
 "code": "SC-1176",
 "name": "PT Omni Cakrawala Komunikasi",
 "country": "印度尼西亚",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -23086,6 +24935,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-1177": {
+"code": "SC-1177",
+"name": "Projexon",
+"country": "印度",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "主要是CCTV, 问了L2/L3交换机，用Whatsapp联系 ； 91-9840 116688\n91-8072 816 004",
+"kind": "pos"
+}
+]
 },
 "SC-1188": {
 "code": "SC-1188",
@@ -23161,7 +25038,7 @@
 "code": "SC-1200",
 "name": "futurepointt.com",
 "country": "巴基斯坦",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -23206,6 +25083,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-1210": {
+"code": "SC-1210",
+"name": "netlink.tw",
+"country": "台湾",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "看着像中科德能外壳\nMC switch等 ； info/sales都不行",
+"kind": "neg"
+}
+]
 },
 "SC-1224": {
 "code": "SC-1224",
@@ -23621,7 +25526,7 @@
 "country": "匈牙利",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -23855,6 +25760,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-1309": {
+"code": "SC-1309",
+"name": "Elftech Co.,Ltd.",
+"country": "韩国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了3800系列的特点，知道相干模块，问了200G QSFP DD的价格，是否Tunable\n网站上有WDM设备，不过看着不太一样 ； 82-10 6810 5",
+"kind": "pos"
+}
+]
 },
 "SC-1316": {
 "code": "SC-1316",
@@ -24166,6 +26099,34 @@
 ],
 "tbl_replies": []
 },
+"SC-1366": {
+"code": "SC-1366",
+"name": "mayenetsolutions.com",
+"country": "印度",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "不太要工业级，要商业级全千兆的不要百千兆混合速率的，想拿样",
+"kind": "pos"
+}
+]
+},
 "SC-1370": {
 "code": "SC-1370",
 "name": "multybyte.com",
@@ -24204,7 +26165,7 @@
 "code": "SC-1371",
 "name": "mywatchdog.in",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 3,
@@ -24266,7 +26227,7 @@
 "country": "乌兹别克斯坦",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -24285,7 +26246,7 @@
 "code": "SC-1399",
 "name": "team5tech.com",
 "country": "印度",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 3,
@@ -24353,28 +26314,15 @@
 "n_in_auto": 0,
 "n_pos": 0,
 "n_neg": 0,
-"n_tbl_reply": 2,
+"n_tbl_reply": 0,
 "first": "",
 "last": "",
-"last_cls": "thin",
+"last_cls": "",
 "soft_neg": false,
-"reply_class": "Rw",
+"reply_class": "none",
 "boxes": "",
 "msgs": [],
-"tbl_replies": [
-{
-"date": "2021.10.20",
-"content": "发了资料",
-"reply": "会和客户说 等回复",
-"kind": "weak"
-},
-{
-"date": "2021.11.9",
-"content": "问还要吗？",
-"reply": "看了没回复",
-"kind": "thin"
-}
-]
+"tbl_replies": []
 },
 "SC-1446": {
 "code": "SC-1446",
@@ -24465,26 +26413,61 @@
 ],
 "tbl_replies": []
 },
+"SC-1469": {
+"code": "SC-1469",
+"name": "Defense MICE Institude",
+"country": "韩国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "只要了我们的名片\n网站看着比较抽象 ； 只要了我们的名片 / attn: T.H.Lee | telephone: 82-2-521-6694 | mobile",
+"kind": "pos"
+}
+]
+},
 "SC-1476": {
 "code": "SC-1476",
 "name": "WIDEATEK",
 "country": "印度尼西亚",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "none",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "收发器\n以前在中国买过, 也问了光模块",
+"kind": "pos"
+}
+]
 },
 "SC-1490": {
 "code": "SC-1490",
@@ -24531,6 +26514,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-1491": {
+"code": "SC-1491",
+"name": "distri-x.nl",
+"country": "荷兰",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业交换机 ； 问了工业PoE带NAT ； 31 6 15907304 (Mobile) ； 31 6 15907304\n(Mobile)",
+"kind": "pos"
+}
+]
 },
 "SC-1493": {
 "code": "SC-1493",
@@ -24589,6 +26600,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-1504": {
+"code": "SC-1504",
+"name": "imrany2m@gmail.com",
+"country": "巴基斯坦",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了2光4电 管理  后来没成 ； 92-321-82 24482\n已加",
+"kind": "pos"
+}
+]
 },
 "SC-1509": {
 "code": "SC-1509",
@@ -25091,11 +27130,67 @@
 }
 ]
 },
+"SC-1575": {
+"code": "SC-1575",
+"name": "Maipu 迈普",
+"country": "中国大陆",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Evelyn加了Wechat 参展商， 有客户要工业级交换机， 用过ONV的交换机， 问了支持流量整形吗？推荐VSC交换机，报大概100多美金， 说ONV的80",
+"kind": "pos"
+}
+]
+},
+"SC-1615": {
+"code": "SC-1615",
+"name": "penguin-fiber.com",
+"country": "越南",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业FS POE等 ； 没hunter出来 sales info都不行",
+"kind": "neg"
+}
+]
+},
 "SC-1623": {
 "code": "SC-1623",
 "name": "shopfiber.co.za",
 "country": "南非",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -25352,14 +27447,14 @@
 "code": "SC-1657",
 "name": "San Telequip Pvt. Ltd.",
 "country": "印度",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 5,
 "n_in_auto": 0,
-"n_pos": 5,
+"n_pos": 6,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "2024-07-04",
 "last": "2025-01-09",
 "last_cls": "pos",
@@ -25438,7 +27533,14 @@
 ]
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Profibus Connectors\n主动问了5 8电口的价格",
+"kind": "pos"
+}
+]
 },
 "SC-1682": {
 "code": "SC-1682",
@@ -25582,7 +27684,7 @@
 "code": "SC-1715",
 "name": "onsite.pk",
 "country": "巴基斯坦",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -25702,7 +27804,7 @@
 "code": "SC-1771",
 "name": "telexcell.com",
 "country": "印度",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 5,
@@ -25787,6 +27889,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-1793": {
+"code": "SC-1793",
+"name": "axisindia.in",
+"country": "印度",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2022",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了website 2022.12.15\n在用Leonton的工业FS",
+"kind": "pos"
+}
+]
 },
 "SC-1795": {
 "code": "SC-1795",
@@ -25961,24 +28091,17 @@
 "deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 0,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 0,
 "first": "",
 "last": "",
-"last_cls": "pos",
+"last_cls": "",
 "soft_neg": false,
-"reply_class": "R+",
+"reply_class": "none",
 "boxes": "",
 "msgs": [],
-"tbl_replies": [
-{
-"date": "2021.10.8",
-"content": "发了产品价格 资料 WA上通知了",
-"reply": "需要百兆网 千兆光",
-"kind": "pos"
-}
-]
+"tbl_replies": []
 },
 "SC-1804": {
 "code": "SC-1804",
@@ -26018,7 +28141,7 @@
 "code": "SC-1812",
 "name": "ns-t.ru",
 "country": "俄罗斯",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -26084,6 +28207,139 @@
 ],
 "tbl_replies": []
 },
+"SC-1841": {
+"code": "SC-1841",
+"name": "cnca.com.ar",
+"country": "阿根廷",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "谈了100G/200G点对点的方案，大概是100KM，2芯，不需要相干方案，需要低价方案，知道信泰，嫌价格高，对于一体式1.6T的很感兴趣，也问了上下波的方案，",
+"kind": "pos"
+}
+]
+},
+"SC-1847": {
+"code": "SC-1847",
+"name": "engineeransarabbas@yahoo.com",
+"country": "阿联酋",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了商业POE的合作 ； 问了无源产品 ； 9715014 73585 M\n长期不看信息 ； 971501473585 M",
+"kind": "pos"
+}
+]
+},
+"SC-1853": {
+"code": "SC-1853",
+"name": "itezan 公司名 没查到东西",
+"country": "美国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "要价格册  18年使用国际站 ； 962 79 5550047\n已加",
+"kind": "pos"
+}
+]
+},
+"SC-1863": {
+"code": "SC-1863",
+"name": "saleh90214@gmail.com",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "懂WDM，问了支持多少波，他的 同事问了2光4POE，拍了2光4管理小壳，也看了SFP模块 ； 968 99355714",
+"kind": "pos"
+}
+]
+},
+"SC-1878": {
+"code": "SC-1878",
+"name": "Sectron",
+"country": "北马其顿",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-189": {
 "code": "SC-189",
 "name": "LLT doo",
@@ -26118,11 +28374,39 @@
 ],
 "tbl_replies": []
 },
+"SC-1890": {
+"code": "SC-1890",
+"name": "etim.benin@gmail.com",
+"country": "法国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "对14机架 MC有兴趣 问了价格 ； 229666 61187 已加",
+"kind": "pos"
+}
+]
+},
 "SC-190": {
 "code": "SC-190",
 "name": "Crontr Technology",
 "country": "厄瓜多尔",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 3,
@@ -26180,7 +28464,7 @@
 "code": "SC-1904",
 "name": "optimal.com.ph",
 "country": "菲律宾",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -26284,7 +28568,7 @@
 "code": "SC-1942",
 "name": "satvision-cctv.ru",
 "country": "俄罗斯",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -26319,6 +28603,34 @@
 "date": "2024.6.12",
 "content": "4光24导轨式",
 "reply": "standard poe有嘛？",
+"kind": "pos"
+}
+]
+},
+"SC-195": {
+"code": "SC-195",
+"name": "parman.ir",
+"country": "伊朗",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "从信泰那谈了很久出来，问了工业交换机高速交换机，在DWDM机柜那拍了照\n网站上有WDM和交换机设备 ； 98-21 4204 1000\n加不上",
 "kind": "pos"
 }
 ]
@@ -26392,6 +28704,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-1959": {
+"code": "SC-1959",
+"name": "banilists@gmail.com",
+"country": "美国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "千兆单纤小外电   后来不回复了 \n阿里上发的信息也看",
+"kind": "neg"
+}
+]
 },
 "SC-1962": {
 "code": "SC-1962",
@@ -26505,6 +28845,34 @@
 ],
 "tbl_replies": []
 },
+"SC-2008": {
+"code": "SC-2008",
+"name": "P-techno",
+"country": "中国大陆",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "需要4个工业交换机 / from: 自建站",
+"kind": "pos"
+}
+]
+},
 "SC-201": {
 "code": "SC-201",
 "name": "Bahrain telecommunacation company",
@@ -26601,7 +28969,7 @@
 "code": "SC-2012",
 "name": "VEMAX TECHNOLOGY SDN.BHD",
 "country": "马来西亚",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -26639,7 +29007,7 @@
 "country": "中国大陆",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 1,
 "n_in_auto": 0,
 "n_pos": 1,
@@ -26667,13 +29035,41 @@
 ],
 "tbl_replies": []
 },
+"SC-2052": {
+"code": "SC-2052",
+"name": "Nadhimentera Engineering",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "做CCTV/IP的，看了旁边展位的，着重问了SFP接单多模光纤，也问了1*9模块 ； 0133592446",
+"kind": "pos"
+}
+]
+},
 "SC-2058": {
 "code": "SC-2058",
 "name": "VSL VIETNAM",
 "country": "越南",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -26694,7 +29090,7 @@
 "country": "美国",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -26713,7 +29109,7 @@
 "code": "SC-2075",
 "name": "shajahan007@gmail.com",
 "country": "沙特阿拉伯",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -26947,7 +29343,7 @@
 "country": "澳大利亚",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -26968,20 +29364,27 @@
 "country": "越南",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
-"n_neg": 0,
-"n_tbl_reply": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "neg",
 "soft_neg": false,
-"reply_class": "none",
+"reply_class": "R-",
 "boxes": "",
 "msgs": [],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2022",
+"content": "Simon 备注/兴趣栏",
+"reply": "EOC 历史成单额较高\nOwner/Entrepreneur ； 6019312 0422 已加 \n似乎是拉黑了",
+"kind": "neg"
+}
+]
 },
 "SC-215": {
 "code": "SC-215",
@@ -27045,14 +29448,14 @@
 "code": "SC-2150",
 "name": "milo64@telus.net",
 "country": "加拿大",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
 "n_in_auto": 0,
-"n_pos": 1,
+"n_pos": 2,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "2025-05-27",
 "last": "2025-05-27",
 "last_cls": "pos",
@@ -27075,7 +29478,42 @@
 ]
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了光缆检测和MC ； 604 828 1458 (Work)",
+"kind": "pos"
+}
+]
+},
+"SC-2153": {
+"code": "SC-2153",
+"name": "ronaldmsimango@gmail.com",
+"country": "南非",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "用POE比较多 问了din POE",
+"kind": "pos"
+}
+]
 },
 "SC-216": {
 "code": "SC-216",
@@ -27121,6 +29559,27 @@
 "att": []
 }
 ],
+"tbl_replies": []
+},
+"SC-2164": {
+"code": "SC-2164",
+"name": "EGTECH 网站：打不开",
+"country": "埃及",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
 "tbl_replies": []
 },
 "SC-217": {
@@ -27217,6 +29676,62 @@
 ],
 "tbl_replies": []
 },
+"SC-2210": {
+"code": "SC-2210",
+"name": "nguyendinhhuanhd@gmail.com",
+"country": "越南",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "要了价格册 中文报价 \n商业品需求大",
+"kind": "pos"
+}
+]
+},
+"SC-2217": {
+"code": "SC-2217",
+"name": "Shinhoinia",
+"country": "印度",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了台式EDFA 没太理解 \n名片主要是PON类和OTDR类产品 ； 91-73581 53653",
+"kind": "pos"
+}
+]
+},
 "SC-2236": {
 "code": "SC-2236",
 "name": "Allison Tec USA",
@@ -27255,13 +29770,34 @@
 ],
 "tbl_replies": []
 },
+"SC-2242": {
+"code": "SC-2242",
+"name": "Kraft-ps",
+"country": "俄罗斯",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-2249": {
 "code": "SC-2249",
 "name": "jupitersystems.co.in",
 "country": "印度",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -27462,6 +29998,34 @@
 }
 ]
 },
+"SC-2329": {
+"code": "SC-2329",
+"name": "Degorv Systems Services Limited",
+"country": "尼日利亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "公司专门搞VC的\n后期说不需要了",
+"kind": "pos"
+}
+]
+},
 "SC-234": {
 "code": "SC-234",
 "name": "artisantg.com",
@@ -27502,7 +30066,7 @@
 "country": "新加坡",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -27523,7 +30087,7 @@
 "country": "肯尼亚",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -27584,7 +30148,7 @@
 "country": "巴拉圭",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -27639,7 +30203,7 @@
 "country": "巴林",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -27823,6 +30387,34 @@
 "date": "1112",
 "content": "48口",
 "reply": "ds",
+"kind": "pos"
+}
+]
+},
+"SC-2409": {
+"code": "SC-2409",
+"name": "Samsung",
+"country": "韩国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "POE switch 会中文，问了在韩国有没有代理商，在韩有没有客户 ； POE switch 会中文，问了在韩国有没有代理商，在韩有没有客户 / attn: ",
 "kind": "pos"
 }
 ]
@@ -28163,7 +30755,7 @@
 "country": "香港",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 12,
 "n_pos": 0,
@@ -28425,7 +31017,7 @@
 "code": "SC-2513",
 "name": "microtech.net.pk",
 "country": "巴基斯坦",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -28571,6 +31163,27 @@
 ],
 "tbl_replies": []
 },
+"SC-2541": {
+"code": "SC-2541",
+"name": "gelin.tv",
+"country": "瑞士",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-2542": {
 "code": "SC-2542",
 "name": "gridconnect.com",
@@ -28653,7 +31266,56 @@
 "country": "印度",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
+"SC-2553": {
+"code": "SC-2553",
+"name": "richtechsolutions.com.my",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "需要40G 25G等光模块 其它设备",
+"kind": "pos"
+}
+]
+},
+"SC-2554": {
+"code": "SC-2554",
+"name": "vadim.adamovich@gmail.com",
+"country": "拉脱维亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -28692,6 +31354,62 @@
 "date": "2024.8.19",
 "content": "4 8口工业PoE",
 "reply": "price",
+"kind": "pos"
+}
+]
+},
+"SC-2567": {
+"code": "SC-2567",
+"name": "doiallan@gmail.com",
+"country": "乌干达",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "百兆双纤小外电　buy it locally  \n后续跟进不回复",
+"kind": "neg"
+}
+]
+},
+"SC-2575": {
+"code": "SC-2575",
+"name": "kbmahe@gmail.com",
+"country": "尼日利亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "在多功能的帖子下评论的 \n要价格和规格书 ； 234803610 8717\n已加",
 "kind": "pos"
 }
 ]
@@ -28799,9 +31517,9 @@
 "code": "SC-259",
 "name": "Sami CEUIK",
 "country": "土耳其",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -29040,6 +31758,34 @@
 ],
 "tbl_replies": []
 },
+"SC-2616": {
+"code": "SC-2616",
+"name": "Zaid",
+"country": "未填",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了2光4MC外购板子",
+"kind": "pos"
+}
+]
+},
 "SC-262": {
 "code": "SC-262",
 "name": "supermicro.com",
@@ -29173,6 +31919,34 @@
 ],
 "tbl_replies": []
 },
+"SC-2637": {
+"code": "SC-2637",
+"name": "ORIENT TELECOMS",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "用Adva的DWDM，工业级用北京的Raisecom，着重问了L2管理交换机，问了速率有没有当地办事处等信息 公司地址：Suite 2B-25-1, 25th ",
+"kind": "pos"
+}
+]
+},
 "SC-2657": {
 "code": "SC-2657",
 "name": "lynnelec.com",
@@ -29226,7 +32000,7 @@
 "country": "菲律宾",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -29419,6 +32193,34 @@
 ],
 "tbl_replies": []
 },
+"SC-2684": {
+"code": "SC-2684",
+"name": "hirtv.net",
+"country": "匈牙利",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "optical converter 的价格\n来过两次  对SDI有兴趣 问价格 ； 36 30 852 4150\n已加",
+"kind": "pos"
+}
+]
+},
 "SC-2691": {
 "code": "SC-2691",
 "name": "Motorola Solutions",
@@ -29471,7 +32273,7 @@
 "country": "印度尼西亚",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -29554,7 +32356,7 @@
 "code": "SC-2766",
 "name": "saikooperu@gmail.com",
 "country": "秘鲁",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -29585,6 +32387,111 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-2794": {
+"code": "SC-2794",
+"name": "Dacom Advanced systems ltd",
+"country": "未填",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了商业PoE, gigabit, 4个或8个PoE\n上联口有光或者网，1个就行\n介绍了2光10电，但反馈不多，问了24VPoE，48V的也可以",
+"kind": "pos"
+}
+]
+},
+"SC-2797": {
+"code": "SC-2797",
+"name": "P Srinivas",
+"country": "印度",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
+"SC-2802": {
+"code": "SC-2802",
+"name": "Euro Security Solutions Ltd",
+"country": "英国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "对产品不是很懂，但是很在意AC/DC输入，也问了VC怎么用，需要full info，想拿样 ； 44 7830 323 788",
+"kind": "pos"
+}
+]
+},
+"SC-2813": {
+"code": "SC-2813",
+"name": "siospa.it",
+"country": "意大利",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "用ubiquiti比较多，问了POE输入电源需要Passive POE ； 用ubiquiti比较多，问了PoE输入电源需要Passive PoE，英语听着是意",
+"kind": "pos"
+}
+]
 },
 "SC-2820": {
 "code": "SC-2820",
@@ -29619,6 +32526,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-2823": {
+"code": "SC-2823",
+"name": "ST SPACE TECHNOLOGY",
+"country": "俄罗斯",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "自己的logo 商业POE CCTV为主 很多配件 有人卖他们的 ； 工业级POE，网管Switch\n问了电池供电可以吗？ ； 工业级POE，网管Switch ",
+"kind": "pos"
+}
+]
 },
 "SC-2839": {
 "code": "SC-2839",
@@ -29655,6 +32590,90 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-2844": {
+"code": "SC-2844",
+"name": "Abet parungao-LNP farm",
+"country": "菲律宾",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "直播进来的客户 ； 询盘了很多不相关的产品",
+"kind": "neg"
+}
+]
+},
+"SC-2846": {
+"code": "SC-2846",
+"name": "DEONET",
+"country": "韩国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "POE交换机，问了芯片，Gpon，Epon ； POE交换机，问了芯片，Gpon，Epon / attn: KIM YEONG MAN ； 发不过去",
+"kind": "pos"
+}
+]
+},
+"SC-2857": {
+"code": "SC-2857",
+"name": "Tropical Computers Cairns",
+"country": "澳大利亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了VC/switch,懂这方面的，反馈不是很多 ； 61 4477 90936",
+"kind": "pos"
+}
+]
 },
 "SC-286": {
 "code": "SC-286",
@@ -29772,13 +32791,13 @@
 ],
 "tbl_replies": []
 },
-"SC-2896": {
-"code": "SC-2896",
-"name": "TOO \"Carat-Prognoz\"",
-"country": "哈萨克斯坦",
+"SC-2877": {
+"code": "SC-2877",
+"name": "HeidrichVT - event technology",
+"country": "德国",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -29793,11 +32812,88 @@
 "msgs": [],
 "tbl_replies": []
 },
+"SC-2879": {
+"code": "SC-2879",
+"name": "beratung-service-thomas.de",
+"country": "德国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "做AP类产品，有自己的品牌 ； 49 176 179 78 754",
+"kind": "neg"
+}
+]
+},
+"SC-2896": {
+"code": "SC-2896",
+"name": "TOO \"Carat-Prognoz\"",
+"country": "哈萨克斯坦",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
+"SC-2899": {
+"code": "SC-2899",
+"name": "multicominc.com",
+"country": "美国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "比较杂 工业FS Video CWDM等 ； 有自己的牌子 也有别人的牌子\nMC 14机架 SFP 很多周边产品",
+"kind": "neg"
+}
+]
+},
 "SC-2904": {
 "code": "SC-2904",
 "name": "firsttech.co.za",
 "country": "南非",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 3,
@@ -29902,6 +32998,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-291": {
+"code": "SC-291",
+"name": "fgss.asia",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "需要报价单 ； 60 16 210 9545",
+"kind": "pos"
+}
+]
 },
 "SC-2931": {
 "code": "SC-2931",
@@ -30037,7 +33161,7 @@
 "country": "韩国",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -30137,6 +33261,62 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-3007": {
+"code": "SC-3007",
+"name": "ks-itsolutions.com",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "懂WDM，拍了照，问了CWDM是不是passive的 公司地址：B-01-32. First Floor Level,Central Walk l-CitySe",
+"kind": "pos"
+}
+]
+},
+"SC-3011": {
+"code": "SC-3011",
+"name": "mintusony@gmail.com",
+"country": "印度",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "想合作 MC POE 8/10口交换机 ； 91-8879 400254\n已加 似乎是拉黑了",
+"kind": "neg"
+}
+]
 },
 "SC-3019": {
 "code": "SC-3019",
@@ -30301,6 +33481,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-3026": {
+"code": "SC-3026",
+"name": "说是有需求会说的，问了catalog",
+"country": "喀麦隆",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "说是有需求会说的\n问了catalog ； 651955186 (Mobile)\n还没尝试加",
+"kind": "pos"
+}
+]
 },
 "SC-3027": {
 "code": "SC-3027",
@@ -30514,6 +33722,27 @@
 ],
 "tbl_replies": []
 },
+"SC-3048": {
+"code": "SC-3048",
+"name": "alexkessel.com",
+"country": "埃及",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-3055": {
 "code": "SC-3055",
 "name": "hubnetix.com",
@@ -30524,13 +33753,13 @@
 "n_in_human": 0,
 "n_in_auto": 1,
 "n_pos": 0,
-"n_neg": 0,
-"n_tbl_reply": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "neg",
 "soft_neg": false,
-"reply_class": "auto",
+"reply_class": "R-",
 "boxes": "",
 "msgs": [
 {
@@ -30548,7 +33777,14 @@
 ]
 }
 ],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "自己的工业FS ； 大口商业POE AHD摄像头 ； 被拉黑了",
+"kind": "neg"
+}
+]
 },
 "SC-3056": {
 "code": "SC-3056",
@@ -30632,11 +33868,32 @@
 ],
 "tbl_replies": []
 },
+"SC-3072": {
+"code": "SC-3072",
+"name": "angelorecto@gmail.com",
+"country": "菲律宾",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-3073": {
 "code": "SC-3073",
 "name": "bandasonkelly@gmail.com",
 "country": "津巴布韦",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -30698,6 +33955,27 @@
 "att": []
 }
 ],
+"tbl_replies": []
+},
+"SC-3096": {
+"code": "SC-3096",
+"name": "elianeramos@bol.com.br",
+"country": "巴西",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
 "tbl_replies": []
 },
 "SC-3103": {
@@ -30796,11 +34074,67 @@
 ],
 "tbl_replies": []
 },
+"SC-3119": {
+"code": "SC-3119",
+"name": "umarmsibtain@gmail.com",
+"country": "巴基斯坦",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "不知道处理啥WhatsApp上回复过 ； 92-346-41 11064  \n拉黑了",
+"kind": "neg"
+}
+]
+},
+"SC-3132": {
+"code": "SC-3132",
+"name": "Teczium",
+"country": "巴基斯坦",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2026",
+"content": "Simon 备注/兴趣栏",
+"reply": "EO Converter 不相关产品 / from: 阿里巴巴询盘",
+"kind": "neg"
+}
+]
+},
 "SC-3133": {
 "code": "SC-3133",
 "name": "federalcable.net",
 "country": "美国",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -30832,11 +34166,39 @@
 ],
 "tbl_replies": []
 },
+"SC-3144": {
+"code": "SC-3144",
+"name": "al fisht elect saint repairing",
+"country": "沙特阿拉伯",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "2*2 bypass 50个 ； 客户网站不相关\n说是等客户回复，后续不看消息了",
+"kind": "neg"
+}
+]
+},
 "SC-3149": {
 "code": "SC-3149",
 "name": "starcom.com.pk",
 "country": "巴基斯坦",
-"grade_now": "B",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -30916,6 +34278,55 @@
 ],
 "tbl_replies": []
 },
+"SC-3174": {
+"code": "SC-3174",
+"name": "yalito@live.com",
+"country": "玻利维亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
+"SC-3194": {
+"code": "SC-3194",
+"name": "impulse-embedded.co.uk",
+"country": "英国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "基本是一些有名的牌子的 ； 被拉黑了",
+"kind": "neg"
+}
+]
+},
 "SC-3197": {
 "code": "SC-3197",
 "name": "rbs-telecom.com",
@@ -30956,7 +34367,7 @@
 "code": "SC-3203",
 "name": "jteemsolutions.com",
 "country": "斯里兰卡",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -31002,13 +34413,62 @@
 ],
 "tbl_replies": []
 },
+"SC-3204": {
+"code": "SC-3204",
+"name": "koc.com.cn",
+"country": "西班牙",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了GE SFP  \n网站主要是无源接头 有MC ； 34-647-055045\n已加",
+"kind": "pos"
+}
+]
+},
 "SC-3206": {
 "code": "SC-3206",
 "name": "AXIS Communications AB (Worldwide Net Limited)",
 "country": "尼日利亚",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
+"SC-3218": {
+"code": "SC-3218",
+"name": "Advanced knowledge",
+"country": "法国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -31027,7 +34487,7 @@
 "code": "SC-324",
 "name": "enercore.co.in",
 "country": "印度",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -31131,6 +34591,55 @@
 ],
 "tbl_replies": []
 },
+"SC-3249": {
+"code": "SC-3249",
+"name": "te.eg",
+"country": "埃及",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "主动问DWDM ； genernal information ； 20 10017 78113\n领英上的 ； 网站感觉相关度一般 ； 网站：感觉相关度一般",
+"kind": "pos"
+}
+]
+},
+"SC-3297": {
+"code": "SC-3297",
+"name": "ARCOSTEEL (THE ARAB COMPANY FOR SPECIAL STEEL S.A.E)",
+"country": "埃及",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
 "SC-3302": {
 "code": "SC-3302",
 "name": "niveoprofessional.com",
@@ -31197,6 +34706,27 @@
 "att": []
 }
 ],
+"tbl_replies": []
+},
+"SC-3313": {
+"code": "SC-3313",
+"name": "PT.LENTERA AGUNG KENCANA",
+"country": "印度尼西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
 "tbl_replies": []
 },
 "SC-3314": {
@@ -31275,7 +34805,7 @@
 "country": "印度",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -31636,7 +35166,7 @@
 "code": "SC-368",
 "name": "Itmax system sdn bhd",
 "country": "马来西亚",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -31674,20 +35204,27 @@
 "country": "西班牙",
 "grade_now": "B",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 0,
+"n_tbl_reply": 1,
 "first": "",
 "last": "",
-"last_cls": "",
+"last_cls": "pos",
 "soft_neg": false,
-"reply_class": "none",
+"reply_class": "R+",
 "boxes": "",
 "msgs": [],
-"tbl_replies": []
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "有中科德能的\n1，分销，整个交谈比较专业，女性\n2，switch price list,商业为主工业为辅\n工业级处理的少，但是有兴趣\n3，VC系列，偶尔用ana",
+"kind": "pos"
+}
+]
 },
 "SC-378": {
 "code": "SC-378",
@@ -31729,7 +35266,7 @@
 "country": "印度",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -31977,6 +35514,118 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-429": {
+"code": "SC-429",
+"name": "（未具名）",
+"country": "韩国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Yvette加了微信,说中文，之前也有去过深圳，问了我们有什么优势，KC认证，安规认证safetykorea韩国进口需要。 工业级8个光口POE+网管交换机，1",
+"kind": "pos"
+}
+]
+},
+"SC-432": {
+"code": "SC-432",
+"name": "CabNet Systems(M) Sdn. Bhd",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "只用工业交换机，需要90W POE，会说中文 公司地址：G-02, Puchong Square, Jalan Layang-Layang 5Bandar Pu",
+"kind": "pos"
+}
+]
+},
+"SC-438": {
+"code": "SC-438",
+"name": "IHM Technology",
+"country": "土耳其",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "Ady加了WhatsApp,问bypass独立式和2光8带bypass, 要SC口， 不带管理， 不要光口",
+"kind": "pos"
+}
+]
+},
+"SC-439": {
+"code": "SC-439",
+"name": "IRnow Sdn Bhd",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "注重谈了CCTV应用 1+2+8商业POE，有时会用到，客户拍了照片 公司地址：A-5-10，Empire TowerSS16/1, 47500 Subang ",
+"kind": "pos"
+}
+]
 },
 "SC-494": {
 "code": "SC-494",
@@ -32313,14 +35962,14 @@
 "deal_flag": false,
 "n_in_human": 1,
 "n_in_auto": 0,
-"n_pos": 0,
+"n_pos": 1,
 "n_neg": 0,
-"n_tbl_reply": 1,
+"n_tbl_reply": 2,
 "first": "2024-07-09",
 "last": "2024-07-09",
 "last_cls": "thin",
 "soft_neg": false,
-"reply_class": "R0",
+"reply_class": "R+",
 "boxes": "S",
 "msgs": [
 {
@@ -32345,6 +35994,12 @@
 "content": "10G MC",
 "reply": "thanks for the info",
 "kind": "thin"
+},
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "WDM, VC, SFP都懂一些\n主要问了PoE功率和IPC结合",
+"kind": "pos"
 }
 ]
 },
@@ -32487,7 +36142,7 @@
 "code": "SC-584",
 "name": "nambasoftware.com.br",
 "country": "巴西",
-"grade_now": "C",
+"grade_now": "A",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 2,
@@ -32554,6 +36209,34 @@
 "content": "发了24光combo信息",
 "reply": "暂时没需求",
 "kind": "neg"
+}
+]
+},
+"SC-590": {
+"code": "SC-590",
+"name": "quicklert.com",
+"country": "菲律宾",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2024",
+"content": "Simon 备注/兴趣栏",
+"reply": "8/16/24口工业PoE 60W，问了4光8的价格，报了150美金，说用思科比较多 ； 微信号：HowieDay29",
+"kind": "pos"
 }
 ]
 },
@@ -32703,7 +36386,7 @@
 "code": "SC-619",
 "name": "hdcabling.co.za",
 "country": "南非",
-"grade_now": "C",
+"grade_now": "B",
 "pi": "",
 "deal_flag": false,
 "n_in_human": 1,
@@ -33313,7 +36996,7 @@
 "country": "叙利亚",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 1,
 "n_pos": 0,
@@ -33341,13 +37024,41 @@
 ],
 "tbl_replies": []
 },
+"SC-665": {
+"code": "SC-665",
+"name": "Civitas systems Srl",
+"country": "罗马尼亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了WDM，感觉不是很懂\n拿了catalog, 质量一般",
+"kind": "pos"
+}
+]
+},
 "SC-667": {
 "code": "SC-667",
 "name": "H1 Telecom",
 "country": "克罗地亚",
 "grade_now": "C",
 "pi": "",
-"deal_flag": true,
+"deal_flag": false,
 "n_in_human": 0,
 "n_in_auto": 0,
 "n_pos": 0,
@@ -33361,6 +37072,139 @@
 "boxes": "",
 "msgs": [],
 "tbl_replies": []
+},
+"SC-672": {
+"code": "SC-672",
+"name": "Ministry of interior RAK police",
+"country": "阿联酋",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业交换机 问了网管功能",
+"kind": "pos"
+}
+]
+},
+"SC-676": {
+"code": "SC-676",
+"name": "Puncak Niaga Holdings",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "只用Cisco,想找个其他牌子的供应商，AP比较多，问了POE，也问了管理（希望AP有问题时能及时看到） ； 0132504610",
+"kind": "pos"
+}
+]
+},
+"SC-678": {
+"code": "SC-678",
+"name": "QVIS",
+"country": "英国",
+"grade_now": "B",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 0,
+"n_tbl_reply": 0,
+"first": "",
+"last": "",
+"last_cls": "",
+"soft_neg": false,
+"reply_class": "none",
+"boxes": "",
+"msgs": [],
+"tbl_replies": []
+},
+"SC-679": {
+"code": "SC-679",
+"name": "SPECTRUM",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "有一个security公司，谈了CCTV应用图，商业POE1+2+8.问了一些公司的信息 ； 0193395659",
+"kind": "pos"
+}
+]
+},
+"SC-680": {
+"code": "SC-680",
+"name": "SUREN Smart Electrical",
+"country": "马来西亚",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "2023",
+"content": "Simon 备注/兴趣栏",
+"reply": "在旁边展位谈了很久商业POE，做IP networking,CCTV  问了MC价格，千兆1+2+16电POE的价格，前边的信息是sales的 另外一个人是老板",
+"kind": "pos"
+}
+]
 },
 "SC-682": {
 "code": "SC-682",
@@ -33431,6 +37275,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-702": {
+"code": "SC-702",
+"name": "angtel.ru",
+"country": "俄罗斯",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 0,
+"n_neg": 1,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "neg",
+"soft_neg": false,
+"reply_class": "R-",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "工业FS 有自己的系列编号\n有人在卖他们的",
+"kind": "neg"
+}
+]
 },
 "SC-720": {
 "code": "SC-720",
@@ -33927,6 +37799,34 @@
 }
 ],
 "tbl_replies": []
+},
+"SC-838": {
+"code": "SC-838",
+"name": "koscomcable.com",
+"country": "美国",
+"grade_now": "C",
+"pi": "",
+"deal_flag": false,
+"n_in_human": 0,
+"n_in_auto": 0,
+"n_pos": 1,
+"n_neg": 0,
+"n_tbl_reply": 1,
+"first": "",
+"last": "",
+"last_cls": "pos",
+"soft_neg": false,
+"reply_class": "R+",
+"boxes": "",
+"msgs": [],
+"tbl_replies": [
+{
+"date": "",
+"content": "Simon 备注/兴趣栏",
+"reply": "问了2光4管理Bypass怎么用",
+"kind": "pos"
+}
+]
 },
 "SC-868": {
 "code": "SC-868",

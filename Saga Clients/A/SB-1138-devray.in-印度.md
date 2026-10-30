@@ -12,7 +12,7 @@ code: SB-1138
 rating: A
 rating_auto: C
 sieve: pool_watch  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
 name_official: "DevRay IT Solutions Pvt. Ltd. / MapleCloud Technologies（印度 Noida；Make-in-India OEM）"
 score: -4
 country: 印度
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：Elsa 邮箱 2025-12 → 2026-03 三个线程 12 封（来 5 去 7），全部是 Managing Director Yogendra Rajput 具名：2025-12-02 要完整资料 + 问公司在哪；2026-01-16/20 对 CENTEC「OEM Core Switching」追问「有无 8 GB RAM / 16 GB Flash 的 L3 机型？要 datasheet + 价格；能否从中国以外的产地提货？」——Elsa 只答了「We are based in China」+ 附件，RAM/Flash 与价格没答；2026-03-31「Are you ODM?」→ Elsa「OEM/ODM 都做」→「share data sheets along with the costing, we are interested in SKD」→ Elsa 只给链接 + 「SKD is fine with us」，costing 没给。两处欠答。（调研 2026-10-25；表内兴趣：基本都是联科的）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03））；自动分级 C：+2 在 AI 客户评估名单；-15 AI/Claude 评估 C；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/印度
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-424XGGPM-280W（24 PoE + 4×10G，L2+）/ STC-28DGGPM（8 PoE + 2×2.5G SFP，L2+） — OEM 30% 档；SKD 套件价按年量另议（CKD/SKD 只对量）；锚价：STC-424XGGPM-280W $180（群发现价，㉕ ②；Elsa Bcc 命中表无此户，未见 $170）/ STC-28DGGPM $87.4（30% 档）；CENTEC L3 不报价（内存指标不符，先说清）
 - **第一问（只问一个）**：Yogendra - for an SKD programme, what yearly quantity per model would you commit to?
@@ -146,7 +146,7 @@ updated: 2026-10-30
 - **类型**：印度 Make-in-India OEM（自称 OEM for Switches / NGFW / SDWAN；ISO 27001 / CERT-In Empanelled）
 - **KP**：Yogendra Kumar Rajput（Founder / Managing Director（CISA & CISM）；DevRay IT Solutions Pvt Ltd + MapleCloud Tech Services Pvt Ltd 两家董事（MCA）= 拍板人 / 收件人；Elsa 线程 12 封具名追问 CENTEC L3（第 114 批 官方登记核实 2026-10-28））yogendra.rajput@maplecloudtechnologies.com / yogendra.rajput@devray.in +91-9739995151（信尾；对外材料不写电话）〔Elsa 邮箱 2026-01-16 签名〕
 - **KP**：Neha Jain（Director DevRay IT Solutions Private Limited（MCA）（第 114 批 官方登记核实 2026-10-28）） 〔https://www.falconebiz.com/company/DEVRAY-IT-SOLUTIONS-PRIVATE-LIMITED-U62013UP2024PTC204532〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 5 条（E；2025-12→2026-03）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（E；2025-12→2026-03）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 （建档：第 77 批 C 薄切片，T29-U56；证据全部来自 Elsa 邮箱 `data/gmail_e/text/` + `index_replied.jsonl`）
 
@@ -180,6 +180,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | IN · 1 次检索：falconebiz（DEVRAY IT SOLUTIONS PRIVATE LIMITED CI: DevRay IT Solutions Private Limited（devray.in；CIN U62013UP20 · CIN U62013UP2024PTC204532（DevRay）/ … |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：industrial network switch；P1 STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB） |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2026-03-31 E: Are you ODM ?  ‖ 2026-03-31 E: Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. Thanks & Regards Yogendra Rajput +91-9739995 ‖ 2026-03-31 R: Ok Great, can you … |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-03-31（7 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：规模未知 |
+
+**故事线**：印度·OEM 品牌商；登记坐实：IN · 1 次检索：falconebiz（DEVRAY IT SOLUTIONS PRIVATE LIMITED CI: DevRay IT Solution。往来 2024-07-03→2026-09-17：我方去信 8 封（A 1 / S 6），对方真人来信 5 封 + 表内/备注 0 条；对方问过：2026-01-20 R: Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed datas ‖ 2026-03-31 E: Are you ODM ?  ‖ 2026-03-31 E。我方报过：$65 / $300。对位：STC-424XGGPM-280W / STC-28DGGPM（商用 Marvell L2+ 线报价）；L3 大内存需求无对位（CENTEC 2 GB DRAM / 8 GB eMMC；400G 平台 4 GB）；路径：企业邮箱 MX ok；最近来信 2026-03-31（7 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-08-05 | 去 | S | 10G media converter | $65 |
+| 2024-08-26 | 去 | S | Industrial poe switch |  |
+| 2024-10-25 | 去 | S | 24V/48V PoE Switch |  |
+| 2024-12-02 | 去 | S | Mini Industrial PoE Switch |  |
+| 2024-12-30 | 去 | S | 48 Port PoE Managed Switch | $300 |
+| 2025-12-02 | 来 | R | Can you please share the complete product details also where are you based at? |  |
+| 2026-01-16 | 来 | R | Please share more details and where are you based at? |  |
+| 2026-01-20 | 来 | R | Could you please confirm whether you have an L3 Switch model with 8 GB RAM and 16 GB Flash available? If so, kindly share the detailed datasheet along… |  |
+| 2026-03-31 | 来 | R | Are you ODM ? |  |
+| 2026-03-31 | 来 | R | Ok Great, can you share me the Data sheets along with the costing and we are interested in SKD. |  |
+| 2026-03-31 | 去 | R |  |  |
+| 2026-09-17 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

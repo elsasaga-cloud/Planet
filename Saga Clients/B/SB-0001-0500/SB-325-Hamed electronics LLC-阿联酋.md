@@ -1,11 +1,11 @@
 # Hamed electronics LLC
 **官方名称（调研核实）**：Hamed Electronics LLC（Deira Dubai, UAE；hamedelectronics.com；Nasser Abdullatif Ahmed Lootah Group 弱电集成商）
 
-> **评级 B**　|　阿联酋　|　档案编号 `SB-325`　|　优先级 ★★　|　状态：成交过·维护
+> **评级 B**　|　阿联酋　|　档案编号 `SB-325`　|　优先级 ★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；对位 ✔ 交换机；命中 2/6（成单/样品 ✔ · 真回 — · WA ✔ · 对位 ✔ 交换机 · 登记 未坐实 · 体量 微型（1–10 人））　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
 >
-> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：群发(阿联酋)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：经销/集成（类型待核）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(阿联酋)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-325
@@ -20,7 +20,7 @@ region: 中东
 website: none
 type: 经销/集成（类型待核）
 tier_tags: ["群发(阿联酋)"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -37,8 +37,8 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：迪拜 Deira 的弱电系统集成商 Hamed Electronics LLC（1985 年起，Nasser Abdullatif Ahmed Lootah Group 成员；Dubai Police 认证；CCTV、SMATV、门禁、PA、中央时钟、电话系统的供货/安装/调试；客户覆盖酒店、教育、政府、医疗；1–10 人（ZoomInfo），营收 <$5M；P.O. Box 379738；04-228 1214；info@hamedelectronics.com）。用户表（Intersec 2012）：Anil P. Joseph（工程师；ZoomInfo：Project Manager）/ A.G. Varghese（director）——要 PoE 用户手册，买了 2 ch 样品；WhatsApp 已加；无后续。（调研 2026-10-21；表内兴趣：POE user manual, 2ch买了样 T 97142281214）
-- **为什么是 B 级**：**调研后定级 B**（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））；自动分级 B：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 中东/阿联酋；-10 来源为 2010–2015 年展会且无后续记录
-- **历史互动**：成交/下单过；WhatsApp 已加
+- **为什么是 B 级**：**调研后定级 B**（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））；自动分级 B：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+3 区域 中东/阿联酋；-10 来源为 2010–2015 年展会且无后续记录
+- **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：STC-28DGGPM — 集成 25% 档：STC-28DGGPM（2 SFP + 8 GE PoE+ L2+，$84.1）作 CCTV/门禁接入；24 口 STC-424DGGPM-280W（$140.1）。已打开的主题（1/1 封有打开记录）：「48 port managed switch」(2024-06-22) → 读者兴趣主题类别不明（看原主题）；按主表（研究档 saga_fit）；群发里他已看到的价（续，第 66 批全量复核）：2024-06-22 $220（48 port managed switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2025-10-03 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2025-10-03；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）
 - **第一问（只问一个）**：Anil, long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）
@@ -205,7 +205,7 @@ updated: 2026-10-30
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-28DGGPM），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-28DGGPM）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-28DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
@@ -213,7 +213,7 @@ updated: 2026-10-30
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付；WhatsApp 直达
+- **S**：WhatsApp 直达
 - **W**：中东：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-28DGGPM 按 25% 档报价，做现供应商的第二货源
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -234,7 +234,7 @@ updated: 2026-10-30
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -249,7 +249,7 @@ updated: 2026-10-30
 ```text
 Hi Anil,
 
-Thank you again for your earlier order with us - this is a short update rather than a cold mail. Long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?
+Some time ago you had a product mail from us - "10G Enterprise SFP Switch" on 3 October 2025 - and there was no reason to answer a mass mail. This one is specific. Long after the 2-channel samples: for your CCTV/access-control projects, 2× SFP + 8× GbE PoE+ L2+ managed at $84.1 EXW and 24-port PoE 280 W at $140.1, neutral packing — is there a hotel or school project this quarter where a quote would help?
 
 We supply a Marvell-based 8-port Gigabit PoE+ L2+ managed switch with 2 SFP uplinks - model STC-28DGGPM - that fits the same slot as the units you source today at a lower landed cost, and we can ship it under your own label with neutral packaging. Current price: $84.1 USD EXW (price snapshot 2026-10-17, valid 15 days).
 

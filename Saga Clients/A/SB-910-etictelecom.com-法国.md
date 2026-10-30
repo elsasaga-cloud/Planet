@@ -12,7 +12,7 @@ code: SB-910
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Etic Telecom（etictelecom.com，法国）"
 score: 28
 country: 法国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：法国工业通信设备制造商（1985 年起）：工业 VPN 路由器 IPL 系列、机器远程维护盒 RAS、SHDSL/SPE 以太网延长器 XSLAN/XELAN、VPN 集中器 SIG，以及**军规战术 SHDSL 交换机 XSMIL**（Airbus Defence & Space 选用）；市场为水务、能源、交通、城市基础设施与工业 4.0。其产品线没有常规千兆管理 PoE 交换机。用户表：S 重点，1 次实质回复，22 次跟进，**用户已判定「不行」**；联系人 Charles Chaussonnier。（调研 2026-10-21；表内兴趣：工业FS 外壳比较统一）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05））；自动分级 B：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05））；自动分级 B：+22 实质回复 1 次；+25 在 Simon 的 S 重点名单；-60 用户已归入「不行及不太相关的」；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/法国；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：实质回复 1 次；推送 22 次（2024-03-23 → 2025-12-29）；最近一次客户回复：2024-05-22：10 50 100个的价格
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-42424XGGPM 三档 DAP 价 — 法国品牌商 + 真询价｜已发资料（勿重发）：STI-4240XGGM(2024-05-22)、CLI Manual(2024-05-22)、Marvell Based Web Manual(2024-05-22)、Product Link_2026Q2(2026-03-02)、Saga Feature List_7.5.x_L2+(2026-06-22)；已发单据：Quotation(2024-05-22)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按主表 OEM 30% 档 + 百运网 DAP；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-10-24 $65（10G Media Converter）、2024-11-20 $300（48 Port PoE Managed Switch）、2025-10-29 $280（10G Enterprise SFP Switch）、2026-07-20 $1500（24 Port 10G SFP+ Switch）、2026-09-08 $170（24 Port PoE Managed Switch）；群发里他已看到的价（续，第 66 批全量复核）：2025-01-03 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Charles — here is the 10/50/100 ladder on DAP-France terms for the 24-port DIN L3 PoE; is this still a live requirement for your router bundles?
@@ -152,7 +152,7 @@ updated: 2026-10-30
   > （用户表字段）
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Charles Chaussonnier（Directeur Général（SIRENE / RNE；1966-09 生）= 联合拍板人（另一 DG Philippe Duchesne；总裁为控股公司 ETIC FINANCES 810380733）= 联系人本人就是总经理（第 86 批 官方登记核实 2026-10-27））charles.chaussonnier@etictelecom.com —〔用户表〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（S；2024-05→2024-05）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-05→2024-05）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -230,6 +230,38 @@ updated: 2026-10-30
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#17 |
 | 2025-11-27 | 1127 | solar |  | S |  | S 09.08.xlsx#17 |
 | 2025-12-29 | 1229 | taiwan |  | S |  | S 09.08.xlsx#17 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，20: ETIC TELECOM · SIREN 380927475 · SIRET 38092747500026（总 · Active（A） · 1991-01-01 |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet industrial poe switch 交换机 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-05-22 S: Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles. ‖ 2024.5.22 表: 发了4光24导轨式信息→10 50 100个的价格 |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-05-22（29 月前） |
+| ⑤ 规模 | ≥小型 | 20–49（员工档 12，2024）；2024 营收 €3,930,958 / 净利 €321,866（第 86 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：法国·OEM 品牌商；登记坐实：France · API Recherche d'entreprises（官方 SIRENE / RNE JSON，20: ETIC TELECOM · SIR。往来 2024-05-22→2026-09-08：我方去信 26 封（A 0 / S 26），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2024-05-22 S: Hello, What is the price DDP for 10, 50, 100 units? Best Regards. Charles. ‖ 2024.5.22 表: 发了4光24导轨式信息→10 50 100个的价格。我方报过：$65 / $170 / $240 / $280 / $300 / $1500。对位：STI-288DGGPM；路径：企业邮箱；最近来信 2024-05-22（29 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-06-25 | 去 | S | 16 Port Ethernet Switch |  |
+| 2025-07-28 | 去 | S | Industrial PoE Switch |  |
+| 2025-08-27 | 去 | S | 90W PoE Managed Switch |  |
+| 2025-09-29 | 去 | S | 8 Port Industrial PoE Switch |  |
+| 2025-10-29 | 去 | S | 10G Enterprise SFP Switch | $280 |
+| 2025-11-27 | 去 | S | Booster PoE Switch |  |
+| 2025-12-29 | 去 | S | Optional Marvell Chipset Solutions |  |
+| 2026-01-29 | 去 | S | OEM Core Switching Solution |  |
+| 2026-03-02 | 去 | S | Updated Ethernet Switches Links |  |
+| 2026-06-22 | 去 | S | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-20 | 去 | S | 24 Port 10G SFP+ Switch | $1500 |
+| 2026-09-08 | 去 | S | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -1,18 +1,18 @@
 # raisecom.su
 **官方名称（调研核实）**：DEALER Co Ltd（raisecom.su，圣彼得堡；Raisecom 俄罗斯经销；KP Dmitry Deikun、Kovzur Max – Technical manager）
 
-> **评级 A**　|　俄罗斯　|　档案编号 `SB-1135`　|　优先级 ★★★　|　状态：成交过·维护
+> **评级 A**　|　俄罗斯　|　档案编号 `SB-1135`　|　优先级 ★★★　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心候选，B 档并池 · 等级不动）：成单 / 样品 / PI ✔（J5 看证据不看地区）；真回 ✔；对位 未知；命中 3/6（成单/样品 ✔ · 真回 ✔ · WA ✔ · 对位 未知 · 登记 ✔ · 体量 微型（ССЧ 5 人）；参与）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay、ru_payment
 >
-> **类型**：俄罗斯经销/项目商（Raisecom 代理）（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：俄罗斯经销/项目商（Raisecom 代理）（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：用户判定不行　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SB-1135
 rating: A
 rating_auto: C
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 
 name_official: "DEALER Co Ltd（raisecom.su，圣彼得堡；Raisecom 俄罗斯经销；KP Dmitry Deikun、Kovzur Max – Technical manager）"
 score: 5
 country: 俄罗斯
@@ -20,7 +20,7 @@ region: 俄语区
 website: raisecom.su
 type: 俄罗斯经销/项目商（Raisecom 代理）
 tier_tags: ["用户判定不行"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -37,8 +37,8 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：S 邮箱 2024-05/06 两轮项目询价：05-07 Kovzur 要 CLI 手册（给了，候选 STI-480XGGM，18W）；06-20 Dmitry：「lost several projects」后给新小项目——L3 机架工业机 24×SFP + 8 Combo + 4×10G 双 AC（1 台）+ L2 DIN 2×SFP+8×PoE 240W；Simon 报 STI-4168XGGCM-U $550 / STI-288DGGPM $120；Dmitry 又问 L3 商用 8–12 SFP+ + 12–24 GE → Simon「没有正好的，近似 Realtek 6×10G+24×2.5G L2+」→ 无回。（调研 2026-10-24；表内兴趣：—）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06））；自动分级 C：+50 有成单/下单/买过记录（用户备注或跟进表）；-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
-- **历史互动**：成交/下单过；WhatsApp 已加
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06））；自动分级 C：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-60 用户已归入「不行及不太相关的」；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯
+- **历史互动**：WhatsApp 已加
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC-4168XGGCM（L3）$413；STI-4168XGGCM-U $511.5 / (L3) $605；STI-288DGGPM $137.5 — 已发资料（勿重发）：CLI 手册(2024-05-07)、STI-480XGGM 资料(2024-05-07)、Realtek 6×10G+24×2.5G 规格书(2024-06-20)；对俄付款在回信后谈｜档位说明（原 tier 字段文字「经销 25%」移此）：经销 25%；2024-06-20 报过 $550 / $120（老汇率 7.2）——再报前对表：同款 2026-10 表 $511.5（L2+）或 $605（L3）、$137.5；**第 63 批基准统一（规则 ㉕）**：STC-4168XGGCM 由列表价 $413 改为 25% 档 $392.4；他没收过 $240/$280 群发；工业 -U 两档 $511.5 / $605 = 列表价 ≤ 档位价，封顶保留
 - **第一问（只问一个）**：Dmitry — in June 2024 I had nothing for your "L3 commercial, 8-12 SFP+ and 12-24 GE" request; today we do: 4 x 10G SFP+ + 16 x 1G SFP + 8 x combo, L3, $413 USD EXW. Do you have a project this winter where it fits?
 - **最大未知**：具体需求型号（表内兴趣列为空）；官网当前状态异常（域名不可达（DNS/连接失败））——公司是否仍在运营待核
@@ -150,7 +150,7 @@ updated: 2026-10-30
   > 来源：data/gmail_a|gmail_s/messages/<year>/<month>.jsonl（抓取 2024-06-20）
 - **KP**：Dmitry (Дейкун Дмитрий Александрович) Deikun（）ddmitry@raisecom.su 〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
 - **KP**：Kovzur Max（）mk@raisecom.su +7 812 764 28 85（信尾）〔data/gmail_a|gmail_s/messages/<year>/<month>.jsonl〕
-- **调研后定级**：A（原自动 C）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 3 条（S；2024-05→2024-06）
+- **调研后定级**：A（原自动 C）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 0 条（S；2024-05→2024-06）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：fail#1。
 最后一问（L3 商用 8–12 SFP+ + 12–24 GE）当年答「没有」——现在主表有 STC-4168XGGCM（4×10G SFP+ + 16×1G SFP + 8 Combo，L3，$413）和 STC-4816XGCGM（$353），接近他要的；2024 报的 $550（STI-4168XGGCM-U）在 2026-10 主表为 $511.5（L2+）/ $605（L3）。
 
@@ -185,6 +185,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Россия · ЕГРЮЛ 镜像（companies.rbc / rusprofile / saby / spark-: ООО «ДИЛЕР»（DEALER Co Ltd；raisecom.su / dealer.su） · ОГРН 1117847101844 · ИНН 7840448665 · КП · Де… |
+| ② 角色 / 对位 | 分销商 | 对位词：din poe sfp 工业；P1 STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605 |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-06-20 S: Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*1000/1000M SFP ‖ 2024-06-20 S: ok, thanks. We have one more project. Customer ne… |
+| ④ 路径 | 弱 | 企业邮箱 + WA；最近来信 2024-06-20（28 月前） |
+| ⑤ 规模 | ≥小型 | 5（ССЧ）；2023 выручка 141.7 млн ₽ / прибыль 27.9 млн；2025 выручка 25 млн ₽（第 87 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：俄罗斯·分销商；登记坐实：Россия · ЕГРЮЛ 镜像（companies.rbc / rusprofile / saby / spark-: ООО «ДИЛЕР»（DEALER。往来 2024-05-07→2024-06-20：我方去信 9 封（A 0 / S 7），对方真人来信 5 封 + 表内/备注 0 条；对方问过：2024-06-20 R: We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anything suitable? ‖ 2024-06-20 S: Hi, Simon! Unfortunately, we lost several 。我方报过：$120 / $220 / $550。对位：STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605；路径：企业邮箱 + WA；最近来信 2024-06-20（28 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-05-07 | 去 | S | Re: L2 managed switch | $220 |
+| 2024-05-07 | 来 | S | Re: L2 managed switch｜Hello, Simon. Can you send us command line guide for this switch? Пожалуйста дайте мне знать, если Вам понадобится помощь. - С у… |  |
+| 2024-05-07 | 去 | S | L2 managed switch | $220 |
+| 2024-05-15 | 去 | S | Re: L2 managed switch |  |
+| 2024-06-20 | 去 | S | Re: L2 managed switch |  |
+| 2024-06-20 | 来 | S | Re: L2 managed switch｜ok, thanks. We have one more project. Customer need L3 Commercial Managed Switch 8-12 SFP+ and 12-24GE. AC/D Do you have anythin… |  |
+| 2024-06-20 | 去 | S | Re: L2 managed switch | $120 / $550 |
+| 2024-06-20 | 来 | S | Re: L2 managed switch｜you mean this switch? https://www.globalsources.com/Ethernet-switch/Network-Switch-1214669337p.htm |  |
+| 2024-06-20 | 去 | S | Re: L2 managed switch | $120 / $550 |
+| 2024-06-20 | 来 | S | Re: L2 managed switch｜Hi, Simon! Unfortunately, we lost several projects. Now we have small project: L3 rack-mount manageable industrial switch: 24*10… |  |
+| 2024-06-20 | 去 | R |  |  |
+| 2024-06-20 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -246,7 +278,7 @@ updated: 2026-10-30
 
 > 每次只推进一个台阶、只问一个问题；全程只推 P1（STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605），备选型不进首触。
 
-- **第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605）；只问一个问题：当前在采购的主力型号与月量。
+- **第 1 次**：换角度首触（不要再发产品图）：一句话说清 Saga 是 Marvell 方案 OEM/ODM 货源，附 STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；25% 档报价。
 - 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
@@ -254,7 +286,7 @@ updated: 2026-10-30
 
 ## SWOT
 
-- **S**：有成交史，信任与开户成本已付；WhatsApp 直达
+- **S**：WhatsApp 直达
 - **W**：俄语区：物流/收款/汇率摩擦高于主攻区
 - **O**：P1 STC-4168XGGCM（L3，4×10G SFP+ + 16×SFP + 8 Combo，$413）对他的「L3 商用 8–12 SFP+ + 12–24 GE」；工业 STI-4168XGGCM-U(L3) $605 按 25% 档报价，做现供应商的第二货源；规模（调研）：（未核）
 - **T**：深圳同行（ONV / Utepo / 迈威等）价格战；汇率与海运波动吃掉 20–30% 的价差
@@ -275,7 +307,7 @@ updated: 2026-10-30
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）

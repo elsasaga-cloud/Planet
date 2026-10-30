@@ -1,10 +1,10 @@
 # QT System Solutions Sdn BHd
 
-> **评级 C**　|　越南　|　档案编号 `SC-2107`　|　优先级 —　|　状态：成交过·维护
+> **评级 C**　|　越南　|　档案编号 `SC-2107`　|　优先级 —　|　状态：历史合作·维护（非 Saga 成单）
 >
 > **C 池筛选：留 C 储备**（闸 1 · 2026-10-29）：越南 QT System Solutions（EOC 历史成单额较高，Owner），表记「似乎是拉黑了」不确定 → 成单户不判死；Simon 若确认被拉黑则 pass
 >
-> **类型**：系统集成/工程商（推断）　|　**历史关系**：成交/下单过；WhatsApp 已加　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+> **类型**：系统集成/工程商（推断）　|　**历史关系**：WhatsApp 已加　|　**所在清单**：群发(VN/VN)　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SC-2107
@@ -17,7 +17,7 @@ region: 亚太
 website: none
 type: 系统集成/工程商
 tier_tags: ["群发(VN/VN)"]
-deal: yes
+deal: no
 replies: 0
 followups: 0
 first_contact: unknown
@@ -27,14 +27,14 @@ price_tier: 25%
 research: pending
 site_snapshot: none
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-30
 ```
 
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：越南的系统集成/工程商；兴趣/在卖：EOC 历史成单额较高 Owner/Entrepreneur
-- **为什么是 C 级**：+50 有成单/下单/买过记录（用户备注或跟进表）；-6 群发批次名单；-40 备注含 不再跟进/Spam/骗子 等；+0 仅免费邮箱；+0 区域 亚太/越南；-10 最近活动 2022（陈旧）；C 级细分：陈旧线索无互动
-- **历史互动**：成交/下单过；WhatsApp 已加
+- **为什么是 C 级**：+50 备注/跟进表提及成交或合作（多为 Simon 本职公司时期，非 Saga 成单；按历史互动计分）；-6 群发批次名单；-40 备注含 不再跟进/Spam/骗子 等；+0 仅免费邮箱；+0 区域 亚太/越南；-10 最近活动 2022（陈旧）；C 级细分：陈旧线索无互动
+- **历史互动**：WhatsApp 已加
 - **P1**：不推（C 级）；若对方主动来询，起手 STC-424DGGPM-280W（无明确兴趣记录：按 Saga 走量款起手）
 - **最大未知**：公司网站（表内无域名，无法核实是否仍在运营）；网页调研未做（公司规模/业务/在卖品牌待核）
 - **下一步**：不跟进；仅归档防重复开发
@@ -110,7 +110,7 @@ updated: 2026-10-29
 | 决策人识别 | ✅ |
 | 触达通道 | ✅ WhatsApp 已加 |
 | 现用/在卖交换品牌 | ❓ 未知 |
-| 采购量/预算 | ✅ 有成交史（量待确认） |
+| 采购量/预算 | ❓ 未确认 |
 | 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
@@ -137,8 +137,8 @@ updated: 2026-10-29
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -6）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 -6）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

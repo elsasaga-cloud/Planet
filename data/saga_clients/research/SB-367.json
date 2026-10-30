@@ -34,7 +34,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -168,16 +168,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
-  "reason": "真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
+  "grade_before": "A",
+  "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[S 2024-06-21] Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, T ‖ 研 2024-06-21 chuyengiathuykhi@gmail.com: Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC "
+  "evidence": "[S 2024-06-21] Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, T"
  },
  "override_history": [
   {
@@ -187,6 +187,201 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 1 条（S；2024-06→2024-06）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-06→2024-06）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc t: CÔNG TY CỔ PHẦN MTS / MTS JSC（thuyluc.com；**MST 0101892941；发 · MST 0101892941 · 营业中 · 2006-03-20"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "poe",
+   "网络"
+  ],
+  "p1": "STI-280GE",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2024-06-21",
+    "S",
+    "Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Th"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱 + WA；最近来信 2024-06-21（28 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "越南·分销商；登记坐实：VN · 1 次检索：thuvienphapluat.vn（CÔNG TY CỔ PHẦN MTS；Tên quốc t: CÔNG TY CỔ PHẦN MT。往来 2024-06-21→2026-10-20：我方去信 13 封（A 0 / S 11），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-06-21 S: Please quote me 10pcs. *Mr. Ly Thanh Ha (Lee Thanh Ha)* Project Manager MTS JSC VAT Code 0101892941 No. 166, Tuu Liet road, Tam Hiep Ward Th。我方报过：$65 / $180 / $300。对位：STI-280GE；路径：企业邮箱 + WA；最近来信 2024-06-21（28 月前）。",
+  "n_out": 13,
+  "n_in": 1,
+  "last_in": "2024-06-21",
+  "last_out": "2026-10-20",
+  "prices_out": [
+   "65",
+   "180",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 port fiber switch",
+    "gist": "Re: 8 port fiber switch",
+    "prices": [],
+    "bulk": false,
+    "k": "e5b364a2376ca40c"
+   },
+   {
+    "date": "2024-06-22",
+    "dir": "out",
+    "box": "R",
+    "from": "Simon → Ly Thanh Ha（Quotation.pdf）",
+    "subj": "",
+    "gist": "10 台询价的正式报价：STI-260FE（6×FE + 2×100M 光，非 PoE，非管理，DIP）$35 ×10 = $350；STI-266FP（6×FE PoE 180W + 2×100M 光）$40 ×10 = $400；合计 $750；validity 15 d；leadtime 4~7 wd；warra",
+    "prices": [],
+    "bulk": false,
+    "k": "S 邮箱附件 `Quotation.pdf` sha=191732ce6b45da58（2024-06-22）"
+   },
+   {
+    "date": "2024-06-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 port fiber switch",
+    "gist": "Re: 8 port fiber switch",
+    "prices": [],
+    "bulk": false,
+    "k": "3e587b417a968e7a"
+   },
+   {
+    "date": "2024-07-18",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 port fiber switch",
+    "gist": "Re: 8 port fiber switch",
+    "prices": [],
+    "bulk": false,
+    "k": "66569016d00dac89"
+   },
+   {
+    "date": "2024-08-15",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 port poe switch",
+    "gist": "8 port poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "deac760ed11932c3"
+   },
+   {
+    "date": "2024-09-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Ethernet Switch",
+    "gist": "8 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "011e5a006e388d6f"
+   },
+   {
+    "date": "2024-10-25",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G Media Converter",
+    "gist": "10G Media Converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "b26d6893c10b22da"
+   },
+   {
+    "date": "2024-12-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "f164163b00a5a1f1"
+   },
+   {
+    "date": "2024-12-19",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "4fb20dd5e7467b34"
+   },
+   {
+    "date": "2025-01-07",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c85121d579f08b3b"
+   },
+   {
+    "date": "2026-09-10",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa（e.sagatelecom，Gmail 连接器实时查询）",
+    "subj": "",
+    "gist": "Elsa 邮箱群发「24 Port PoE Managed Switch」→ thuyluc1973@gmail.com（截至 2026-10-24 无回复）",
+    "prices": [],
+    "bulk": false,
+    "k": "Gmail 连接器 list_messages newer_than:70d from:e.sagatelecom（2026-10-24 07:3x Z）"
+   },
+   {
+    "date": "2026-10-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "180"
+    ],
+    "bulk": false,
+    "k": "8d643dfe7a13c0b1"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

@@ -8,7 +8,7 @@
 code: SB-1116
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 
 name_official: "Litech (Pvt) Ltd"
 score: 31
 country: 巴基斯坦
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：巴基斯坦伊斯兰堡系统集成/项目承包商（华为渠道），2024-03-09 主动发来 RFQ：接入/汇聚交换机 + 路由器规格书（以华为型号为参照）要做技术符合性声明，称多个项目在管线、想长期合作。S 邮箱内未见 Simon 回复（来询未回）。（调研 2026-10-22；表内兴趣：接入/汇聚交换机 + 路由器 RFQ（客户规格以华为型号为参照，要求做技术符合性声明）；称项目在管线、想长期合作）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+2 最近活动 2024
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→））；自动分级 B：+12 备注记录了对方问价/要资料/见面等互动；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；-6 区域 南亚/巴基斯坦；+2 最近活动 2024
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STC/STH 按规格 — —；—
 - **第一问（只问一个）**：Is the 2024 switch RFQ (or a successor project) still open — port count and quantity?
@@ -117,7 +117,7 @@ updated: 2026-10-30
   > Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance statement… customer has prepared these specifications with reference to different models of Huawei Switches… number of projects are in pipe line and we want long business partnership with you（附 Access and aggregation switches specs.docx）
   > 来源：data/gmail_s/messages/2024/2024-03.jsonl（from hassancheema@litech.com.pk，主题 RFQ Switches）（抓取 2024-03-09）
 - **KP**：Hassan Ijaz Cheema（Manager Business Development（S 邮箱签名；+92 310 092 4444 = 官网电话；2024-03-09 主动 RFQ 接入 / 汇聚交换机 + 路由器，我方欠答）= 收件人 — 一页纸 + 补答：集成商 25% B（升 A 候选 ★）、接入 STC-4424GCPM $165（L2+ Marvell）/ 汇聚 10G STH-2C24XF-HSI $1,500（CENTEC）、路由器不做明说、技术符合性按我方实际规格逐条答不套华为型号、MOQ 1 + 付费样机、opener 引其 2024-03-09 RFQ 主题 — 巴基斯坦常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳、PTA 不声称（第 118 批 官方登记核实 2026-10-28））hassancheema@litech.com.pk +92 310 092 4444 / +92 51 8744109〔S 邮箱签名〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 0 条 / 研究档 1 条（R；→）
 - 备注：LT-T03 官网快照加厚（2026-10-29）：site_contacts/deep/facts。
 2.5 年前的 RFQ，先确认 Simon 当时是否在别的渠道回过；若没有，可发一封「当年没接上，现在 L2+/L3 线成熟」的短信重新开门（只对交换机部分，路由器不做）。公共项目/运营商类项目注意守界。
 
@@ -158,6 +158,27 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, L: LITECH Pakistan (Private) Limited（litech.com.pk；**2018 年设立（母公司 Litech Sdn Bhd 马来 · 营业中（官网 + D&B） |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet fiber industrial 交换机；P1 STI-41616XGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2024-03-09 R: Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compl |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-03-09（31 月前） |
+| ⑤ 规模 | ≥小型 | 中（有 BD 经理、项目制） |
+| ⑥ 否决项 | 无 | 缺口：路径弱 |
+
+**故事线**：巴基斯坦·集成商/安装商；登记线索：PK · 1 次检索：litech.com.pk/about-litech（Established in 1999, L: LITECH Pakistan (P。往来 2024-03-09→2024-03-09：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：2024-03-09 R: Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compl。我方报过：未见报价数字。对位：STI-41616XGGPM；路径：企业邮箱；最近来信 2024-03-09（31 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-03-09 | 来 | R | Attached herewith are the technical specifications of different Access/Aggregation switches and Routers for your working for technical compliance stat… |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

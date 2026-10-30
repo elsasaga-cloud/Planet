@@ -929,7 +929,7 @@ def followup_plan(ent, grade, p1, tier):
         return ('> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。\n'
                 f'> 不跟进理由：{ent["c_sub"] or "综合分低"}。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `{ent["code"]},B,理由` 后重跑即可。')
     model = p1 or 'STC-424DGGPM-280W'
-    deal = ent['flags'].get('deal') or ent['deal_in_fu']
+    deal = bool(ent['flags'].get('deal'))  # 仅 Saga PI 包成单（Simon 2026-10-30：备注里的成交多为本职公司时期，非 Saga）
     if deal:
         step1 = f'**第 1 次**：老客户回访——问上次所购型号的使用情况 + 告知 Marvell 新款（{model}）；只问一个问题：当前在采购的主力型号与月量。'
     elif ent['reply_sub']:
@@ -1083,7 +1083,7 @@ def channel_advice(ent, g):
 
 def swot(ent, g, typ, p1, tier, brands):
     rs = ent.get('research') or {}
-    deal = ent['flags'].get('deal') or ent['deal_in_fu']
+    deal = bool(ent['flags'].get('deal'))  # 仅 Saga PI 包成单（Simon 2026-10-30：备注里的成交多为本职公司时期，非 Saga）
     S, W, O, T = [], [], [], []
     if deal:
         S.append('有成交史，信任与开户成本已付')
@@ -1141,7 +1141,7 @@ def qualification(ent, g, brands):
     else:
         ch = '❌ 无'
     br = ('✅ ' + ', '.join(brands[:4])) if brands else '❓ 未知'
-    deal = ent['flags'].get('deal') or ent['deal_in_fu']
+    deal = bool(ent['flags'].get('deal'))  # 仅 Saga PI 包成单（Simon 2026-10-30：备注里的成交多为本职公司时期，非 Saga）
     vol = '✅ 有成交史（量待确认）' if deal else ('❓ 未确认（有回复但未报量）' if ent['reply_sub'] else '❓ 未确认')
     if g == 'A':
         concl = '**技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进**'
@@ -1264,7 +1264,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
                     hook = hook[0].upper() + hook[1:]
             et0 = elsa_touch(ent)
             _f0 = (((ent.get('research') or {}).get('mail_review') or {}).get('facts') or [])
-            if ent['reply_sub'] or ent['flags'].get('deal') or ent['deal_in_fu'] or any(isinstance(x, dict) and x.get('dir') == '来' for x in _f0):
+            if ent['reply_sub'] or ent['flags'].get('deal') or ent['flags'].get('deal_note') or ent['deal_in_fu'] or any(isinstance(x, dict) and x.get('dir') == '来' for x in _f0):
                 op0 = 'Picking up our earlier exchange about PoE / industrial switches.'
             elif et0:
                 op0 = (f'{"Over the past months" if et0[1] >= "2026-04-01" else "Some time ago"} you had '
@@ -1302,7 +1302,7 @@ def email_draft(ent, g, typ, p1, tier, brands, first_q):
         _m = re.search(r'锚价[：:]?\s*' + re.escape(p1) + r'\s*\$\s*([0-9][0-9,]*(?:\.[0-9]+)?)', _snp)
         if _m:
             price = f"${_m.group(1)} USD EXW (valid 15 days)"
-    deal = ent['flags'].get('deal') or ent['deal_in_fu']
+    deal = bool(ent['flags'].get('deal'))  # 仅 Saga PI 包成单（Simon 2026-10-30：备注里的成交多为本职公司时期，非 Saga）
     name = greeting_name(ent)
     hi = f'Hi {name},' if name else 'Hello,'
     if 'ISAF2025展会' in ent['tags']:
@@ -1415,6 +1415,12 @@ def next_review(g):
     return '- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。'
 
 
+def cell(x, n=None):
+    """表格单元格：去竖线/换行，可截断。"""
+    t = str(x if x is not None else '').replace('|', '／').replace('\n', ' ').replace('\r', ' ')
+    return (t[:n] + '…') if n and len(t) > n else t
+
+
 def render_one(ent):
     g = ent['grade']
     code = ent['code']
@@ -1432,7 +1438,7 @@ def render_one(ent):
     if sf.get('tier') in (20, 25, 30):
         tier = sf['tier']
     brands = brands_seen(ent)
-    deal = bool(ent['flags'].get('deal') or ent['deal_in_fu'])
+    deal = bool(ent['flags'].get('deal'))  # 仅 Saga PI 包成单
     rel = []
     if deal:
         rel.append('成交/下单过')
@@ -1674,6 +1680,37 @@ def render_one(ent):
     lines.append('')
     lines.append(fmt_followups(ent))
     lines.append('')
+    ad = (ent.get('research') or {}).get('a_deep')
+    if ad:
+        lines.append(f"## A 落池核验（{ad.get('batch', '')} · {ad.get('date', '')} · 结论：**{ad.get('verdict', '')}**）")
+        lines.append('')
+        lines.append('> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。')
+        lines.append('')
+        lines.append('| 项 | 结论 | 依据 |')
+        lines.append('|---|---|---|')
+        lines.append(f"| ① 身份 | {ad.get('ident', ['', ''])[0]} | {cell(ad.get('ident', ['', ''])[1], 160)} |")
+        lines.append(f"| ② 角色 / 对位 | {ad.get('role', '')} | 对位词：{cell(' '.join(ad.get('fit_words') or []), 80)}；P1 {ad.get('p1') or '待定'} |")
+        lines.append(f"| ③ 需求证据 | {ad.get('need', '')} | {cell(' ‖ '.join(f'{a} {b}: {t}' for a, b, t in (ad.get('asks') or [])[-3:]), 220)} |")
+        lines.append(f"| ④ 路径 | {ad.get('path', ['', ''])[0]} | {cell(ad.get('path', ['', ''])[1], 120)} |")
+        lines.append(f"| ⑤ 规模 | {ad.get('size_lv', '')} | {cell(ad.get('size', ''), 100)} |")
+        lines.append(f"| ⑥ 否决项 | {'、'.join(ad.get('veto') or []) or '无'} | 缺口：{cell('；'.join(ad.get('gaps') or []), 260) or '无'} |")
+        lines.append('')
+        lines.append(f"**故事线**：{cell(ad.get('story', ''), 700)}")
+        lines.append('')
+        tl = ad.get('timeline') or []
+        if tl:
+            lines.append('往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：')
+            lines.append('')
+            lines.append('| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |')
+            lines.append('|---|---|---|---|---|')
+            for t in tl:
+                arrow = {'in': '来', 'out': '去', 'tbl': '表'}.get(t.get('dir'), t.get('dir'))
+                lines.append(f"| {t.get('date', '')} | {arrow} | {t.get('box', '')} | {cell((t.get('subj') or '') + ('｜' if t.get('subj') and t.get('gist') and t.get('dir') != 'out' else '') + (t.get('gist') if t.get('dir') != 'out' else ''), 150)} | {cell(' / '.join('$' + x for x in (t.get('prices') or [])), 40)} |")
+            lines.append('')
+        for wf in ad.get('web_facts') or []:
+            lines.append(f"- 网查（{wf.get('date', '')}）：{cell(wf.get('quote', ''), 220)} — <{wf.get('url', '')}>")
+        if ad.get('web_facts'):
+            lines.append('')
     if ent.get('pi'):
         lines.append('## 成交记录（PI 包 · 自动汇总）')
         lines.append('')

@@ -52,6 +52,22 @@
     "quote": "Re: 8 Port Industrial PoE Switch｜Hi Simon, Share the best price. --",
     "why": "S 邮箱 真人来信（pos）",
     "k": "a61788166240b801"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "Cloud InfoTech … telecom and networking solutions … Trader - Wholesaler/Distributor · Company CEO Rajiv Goyal · 51 to 100 People · Annual Turnover 25 - 100 Cr · GST 09AAHCC3784F1ZG",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.cloud-infotech.co.in/profile.html"
+   },
+   {
+    "date": "2026-10-30",
+    "dir": "查",
+    "who": "Agent 网查 A-DEEP-01",
+    "quote": "CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active",
+    "why": "A 落池核验：身份/角色/规模（网页公开信息）",
+    "url": "https://www.zaubacorp.com/CLOUD-INFOTECH-PRIVATE-LIMITED-U74999UP2018PTC100481"
    }
   ],
   "binding": {
@@ -75,10 +91,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
   "why_not": "",
   "excl": "",
@@ -94,8 +110,220 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [
+   "din"
+  ],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-11-29",
+    "S",
+    "Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal"
+   ],
+   [
+    "2024-11-29",
+    "S",
+    "Hi Simon, Share the best price. --"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-11-29（23 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "规模未知",
+   "人工终判：Cloud Infotech Private Limited（诺伊达；CIN U74999UP2018PTC100481；电信/网络分销商，51–100 人，年营业额 25–100 千万卢比；服务 ISP / SMB / 安防）：回信人 Rajiv Goyal 就是 CEO/董事，2024-11 要全系工业交换机 + 最优价"
+  ],
+  "story": "印度；未坐实：待快照。往来 2024-06-20→2026-09-21：我方去信 14 封（A 5 / S 9），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-11-29 S: Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal ‖ 2024-11-29 S: Hi Simon, Share the best price. --。我方报过：$65 / $170 / $280。对位：待定；路径：企业邮箱 MX ok；最近来信 2024-11-29（23 月前）。",
+  "n_out": 14,
+  "n_in": 2,
+  "last_in": "2024-11-29",
+  "last_out": "2026-09-21",
+  "prices_out": [
+   "65",
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2024-11-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "7ef859a7c4be5133"
+   },
+   {
+    "date": "2024-11-29",
+    "dir": "in",
+    "box": "S",
+    "from": "info@cloudinfotech.co.in",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Hi Simon, Can you all Industrial switch range. Thanks Rajiv goyal",
+    "prices": [],
+    "bulk": false,
+    "k": "d69f19128185f945"
+   },
+   {
+    "date": "2024-11-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "76c1acb0159a3632"
+   },
+   {
+    "date": "2024-11-29",
+    "dir": "in",
+    "box": "S",
+    "from": "info@cloudinfotech.co.in",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Hi Simon, Share the best price. --",
+    "prices": [],
+    "bulk": false,
+    "k": "a61788166240b801"
+   },
+   {
+    "date": "2024-11-29",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port Industrial PoE Switch",
+    "gist": "8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "061465d2bbd485a9"
+   },
+   {
+    "date": "2024-12-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: 8 Port Industrial PoE Switch",
+    "gist": "Re: 8 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "aeb11c67dab8ab41"
+   },
+   {
+    "date": "2025-01-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "16 Port Ethernet Switch",
+    "gist": "16 Port Ethernet Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4e127b2e4c542e3e"
+   },
+   {
+    "date": "2026-05-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c25752446c50208f"
+   },
+   {
+    "date": "2026-06-16",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bb650e87248a66f2"
+   },
+   {
+    "date": "2026-07-24",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "f6bcd2eb8d6a8010"
+   },
+   {
+    "date": "2026-09-01",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "be587d3a21aa2b93"
+   },
+   {
+    "date": "2026-09-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "b2982093bd33bbb1"
+   }
+  ],
+  "web_facts": [
+   {
+    "url": "https://www.cloud-infotech.co.in/profile.html",
+    "quote": "Cloud InfoTech … telecom and networking solutions … Trader - Wholesaler/Distributor · Company CEO Rajiv Goyal · 51 to 100 People · Annual Turnover 25 - 100 Cr · GST 09AAHCC3784F1ZG",
+    "date": "2026-10-30"
+   },
+   {
+    "url": "https://www.zaubacorp.com/CLOUD-INFOTECH-PRIVATE-LIMITED-U74999UP2018PTC100481",
+    "quote": "CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active",
+    "date": "2026-10-30"
+   }
+  ],
+  "manual": true
+ }
 }

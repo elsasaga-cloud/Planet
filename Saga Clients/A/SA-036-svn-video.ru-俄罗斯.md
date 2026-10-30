@@ -12,7 +12,7 @@ code: SA-036
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "SVN（svn-video.ru，ИП Криволуцкая Ю.В., Kaluga, Russia）"
 score: 80
 country: 俄罗斯
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：俄罗斯卡卢加的视频监控网店 + 安装商（个体经营者），自有 SVN 品牌摄像机/套装，设批发栏目（Оптовикам）；用户表：A 已回复 1 次，备注「用的洪瑞（HRUI）的商业 PoE，自己的型号」——即已从 Saga 辅线供应商 HRUI 采购并贴自有型号。（调研 2026-10-21；表内兴趣：用的洪瑞的 商业PoE 自己的型号）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+0 区域 俄语区/俄罗斯；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-08-28 → 2025-08-28）；最近一次客户回复：2025-08-28：Price List
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：HRUI 同源 8 口 PoE（`hrui_STC对照表`） — 一句话问收款方式与首批量。已打开的主题（3/22 封有打开记录）：「Industrial poe switch」(2024-08-13)、「Industrial PoE Switch」(2025-08-28)、「Re: Industrial PoE Switch」(2026-01-05) → 读者兴趣偏「工业」；当前 P1 属「PoE 接入」，下一封按「工业」给，不按 P1；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-11 $65（10G Media Converter）、2024-12-09 $300（48 Port PoE Managed Switch）、2024-12-26 $240（24 Port Fiber Switch）；群发里他已看到的价（续）：2026-08-10 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-10-02 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：For a first batch, which 8-port PoE SKU and what payment route (RMB agent / T/T) works for you?
@@ -162,7 +162,7 @@ updated: 2026-10-30
   > 8-800-600-72-59 - 8-903-636-46-70 - svnshop@yandex.ru , zakaz@svn-video.ru - 248000, г. Калуга, ул. Марата, 5
   > 来源：https://svn-video.ru/catalog（抓取 2026-10-21）
 - **KP**：ИП Криволуцкая Юлия Викторовна（订单邮箱 → 法律主体为 ИП（个体企业家）Криволуцкая Юлия Викторовна = 老板本人；ОГРНИП 318402700048713 · ИНН 402910363642，2018-08-02 登记，ОКВЭД 46.43（第 85 批 官方登记核实 2026-10-27））zakaz@svn-video.ru +7 903 810 33 33〔https://svn-video.ru/contact-us〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 2 条（A；2026-01→2026-01）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2026-01→2026-01）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 STH 线（HRUI 来源）原厂同款 + 自有型号丝印直接承接；P1 = STH 对应 8 口 PoE（见 data/hrui_STC对照表.csv），20% 电商档。
 
@@ -222,6 +222,38 @@ A 维持但体量小：已在用 HRUI 商业 PoE 自有型号 → Saga 可用 ST
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-08-28 | 2025.8.28 | 24PoE | Price List | A |  | A Replied 09.04.xlsx#48 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Россия · ЕГРИП（companium 镜像）+ 官网 реквизиты 页（ИНН / ОГРНИП 自报: ИП КРИВОЛУЦКАЯ Юлия Викторовна（商号 SVN · svn-video.ru） · ОГРНИП 318402700048713 · ИНН 40291036364 ·… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet poe 交换机；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-08-28 R: 用户表跟进：推「24PoE」→ 对方「Price List」 ‖ 2025.8.28 表: 24PoE→Price List ‖ 2026-01-04 A: Hi, send me please your pricelists with POE switches and accessories |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-01-04（9 月前） |
+| ⑤ 规模 | 个人/微型 | 1–5（第 85 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：俄罗斯·OEM 品牌商；登记坐实：Россия · ЕГРИП（companium 镜像）+ 官网 реквизиты 页（ИНН / ОГРНИП 自报: ИП КРИВОЛУЦКАЯ Юли。往来 2024-06-19→2026-09-07：我方去信 22 封（A 14 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-08-28 R: 用户表跟进：推「24PoE」→ 对方「Price List」 ‖ 2025.8.28 表: 24PoE→Price List ‖ 2026-01-04 A: Hi, send me please your pricelists with POE switches and accessories。我方报过：$65 / $170 / $240 / $280 / $300。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2026-01-04（9 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-08-28 | 去 | A | Industrial PoE Switch |  |
+| 2025-08-28 | 来 | R | 用户表跟进：推「24PoE」→ 对方「Price List」 |  |
+| 2025-10-02 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-03 | 去 | A | Booster PoE Switch |  |
+| 2025-12-11 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025.8.28 | 表 | 表 | 24PoE｜Price List |  |
+| 2026-01-04 | 来 | A | Re: Industrial PoE Switch｜Hi, send me please your pricelists with POE switches and accessories |  |
+| 2026-01-05 | 去 | A | Re: Industrial PoE Switch |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-14 | 去 | A | Saga Q3 Product Links |  |
+| 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

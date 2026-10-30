@@ -71,7 +71,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n土耳其主攻区 + 展会面对面 + CEO 级 + 明确 OEM/工业线扩展意向；'新桥/ONV 在用'说明是白牌采购惯手。P1：STI-288DGGPM（工业 8 电 2 光 PoE）做其工业线首款，OEM 价阶 30%；邮件 0 回复 → 改走 WeChat（Evelyn 已加 Ali）。消防/对讲等品类不涉。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -288,7 +288,7 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A3",
   "target": "A",
   "grade_before": "A",
@@ -307,6 +307,199 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 参展商：安卡拉弱电安防进口批发商 27–35 人（土耳其）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A3",
+  "ident": [
+   "登记坐实",
+   "Türkiye · 官网 TSE 服务站清单 PDF（2024-08，含登记全称 + 进口商身份）+ ZoomInfo : NOVA GRUP MÜHENDİSLİK PROJE ELEKTRİK ELEKTRONİK İLETİŞİM SİS · Ankara Ticaret Sicil（号待补）· TSE 服务站清单（TS  · 经营中（官网 2025-12；ZoomInfo 2023–2 · 2002（官网自述）"
+  ],
+  "role": "OEM 品牌商/分销商",
+  "fit_words": [
+   "din",
+   "fiber",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "无",
+  "asks": [],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "35–36（第 85 批 官方登记核实 2026-10-27）",
+  "size_lv": "≥小型",
+  "veto": [],
+  "gaps": [
+   "无需求证据",
+   "路径弱"
+  ],
+  "story": "土耳其·OEM 品牌商/分销商；登记坐实：Türkiye · 官网 TSE 服务站清单 PDF（2024-08，含登记全称 + 进口商身份）+ ZoomInfo : NOVA GRUP MÜHENDİS。往来 2024-06-14→2026-10-06：我方去信 25 封（A 18 / S 6），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$65 / $170 / $280。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 25,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "2026-10-06",
+  "prices_out": [
+   "65",
+   "170",
+   "280"
+  ],
+  "timeline": [
+   {
+    "date": "2026-01-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "4aad4c9170e04c91"
+   },
+   {
+    "date": "2026-01-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Industrial Alert System",
+    "gist": "Marvell Industrial Alert System",
+    "prices": [],
+    "bulk": false,
+    "k": "05cd89e95b9986af"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "e2771c919a65e2e7"
+   },
+   {
+    "date": "2026-02-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "OEM Core Switching Solution",
+    "gist": "OEM Core Switching Solution",
+    "prices": [],
+    "bulk": false,
+    "k": "65e031c40090cd92"
+   },
+   {
+    "date": "2026-03-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "47850c270005946d"
+   },
+   {
+    "date": "2026-03-09",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Updated Ethernet Switches Links",
+    "gist": "Updated Ethernet Switches Links",
+    "prices": [],
+    "bulk": false,
+    "k": "cfced329c234176a"
+   },
+   {
+    "date": "2026-04-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Marvell Managed Commercial Switches",
+    "gist": "Marvell Managed Commercial Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "c2f9fd8705d82c27"
+   },
+   {
+    "date": "2026-05-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G Enterprise SFP Switch",
+    "gist": "10G Enterprise SFP Switch",
+    "prices": [
+     "280"
+    ],
+    "bulk": false,
+    "k": "c689e1bf58da4bd1"
+   },
+   {
+    "date": "2026-06-19",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "10G L3 Managed Switch",
+    "gist": "10G L3 Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "fc8672ad69f4da3e"
+   },
+   {
+    "date": "2026-07-21",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Saga Q3 Product Links",
+    "gist": "Saga Q3 Product Links",
+    "prices": [],
+    "bulk": false,
+    "k": "a43e6bf19102dcc2"
+   },
+   {
+    "date": "2026-08-31",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "24 Port PoE Managed Switch",
+    "gist": "24 Port PoE Managed Switch",
+    "prices": [
+     "170"
+    ],
+    "bulk": false,
+    "k": "463810c17150cd58"
+   },
+   {
+    "date": "2026-10-06",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Managed PoE Switches",
+    "gist": "Managed PoE Switches",
+    "prices": [],
+    "bulk": false,
+    "k": "dc7c0490ebc381fe"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

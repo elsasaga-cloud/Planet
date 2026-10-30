@@ -9,7 +9,7 @@
 code: SB-392
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）
 name_official: "Makro Sistem（Makrosis A.Ş.，İstanbul Şişli, TR；makrosisas.com.tr；i-PRO/Panasonic 土耳其 Premium 分销商）"
 score: 43
 country: 土耳其
@@ -33,7 +33,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：伊斯坦布尔 Şişli 的安防分销商 Makro Sistem（i-PRO（原 Panasonic Security）土耳其 Premium 分销商；11–50 人；营收口径 $9.1M；Kuştepe Mah. Leylak 1 Sok. Nursanlar İş Merkezi No:1 K:7 D:26；+90 212 272 47 92；info@makrosisas.com.tr；产品含 Edge AI 摄像机、NVR、消防探测、网络设备）。ISAF 记录：Mustafa Demirel——有一些工程需要工业级交换机；现场报价 2 光 10 电带网管带 PoE $130、12 光 12 电带网管 $150，要求双清包税（DDP）运输；拍了合照；无后续跟进。（调研 2026-10-21；表内兴趣：有一些工程需要用工业级交换机， 报了2光10电带网管带POE 130USD, 12光12电带网管 150USD 要双清包税的运输方式 拍了合照；有一些工程需要用工业级交换机，  报了2光10电带网管带POE 130USD, 12光12电带网）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）：i-PRO 土耳其 Premium 分销商（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）：i-PRO 土耳其 Premium 分销商（土耳其））；自动分级 B：+12 ISAF 2025 展会面对面名片；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 土耳其/土耳其
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 工程 25% 档：STI-288DGGPM（DIN 8 PoE+ 2 SFP L2+，$137.5 EXW）对应「2 光 10 电带网管带 PoE」现场价 $130（差额需 DDP 报价时与客户对表）；12 光 12 电带网管按商用 L3 STC-4248XGGCM（16 SFP + 8 Combo + 4×10G，Realtek 线列表 $297.0）回应 $150 预期；首触锚价 STI-288DGGPM $137.5 EXW（2026-06 PDF 上限 $137.5（档位 139.9–151.6 超上限；Angora/Astel 实报 $125 为成单户价）；第 72 批 2026-10-24）；按主表（研究档 saga_fit）（㉕ 封顶：STI-288DGGPM 档位价高于 2026-06 列表价，文本按列表价改；第 75 批 2026-10-25）
 - **第一问（只问一个）**：Mustafa Bey, ISAF'ta konuştuğumuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için DDP (gümrük + KDV dahil, kapıya teslim) fiyatı hazırlayabilirim; ilk proje için kaç adet ve hangi şehre teslim gerekiyor? Referans: STI-288DGGPM 137,5 USD EXW (MOQ 1, 15 gün geçerli).
@@ -127,7 +127,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mustafa Demirel（研究档 KP（用户表）= 收件人（抄 info@ 点名 Engin Ertürk）（第 106 批 官方登记核实 2026-10-28））m.demirel@makrosisas.com.tr（用户表） +90 212 272 47 92（公司）〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Engin Ertürk（Yönetici（管理者；ZoomInfo）= 拍板人（第 106 批 官方登记核实 2026-10-28）） 〔https://www.zoominfo.com/pic/makro-sistem/1340413263〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）：i-PRO 土耳其 Premium 分销商（土耳其）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025 当面（Evelyn）：i-PRO 土耳其 Premium 分销商（土耳其）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -170,6 +170,21 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKE: MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKETİ（Makrosis；makrosisas.com.tr；伊斯坦布尔 Şişli K · Active |
+| ② 角色 / 对位 | 分销商 | 对位词：poe 交换机 工业 网络；P1 STI-288DGGPM |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 无（仅表内/当面） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱；规模未知 |
+
+**故事线**：土耳其·分销商；登记线索：TR · 1 次检索：find.com.tr（MAKRO SİSTEM DIŞ TİCARET ANONİM ŞİRKE: MAKRO SİSTEM DIŞ T。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：未见报价数字。对位：STI-288DGGPM；路径：企业邮箱；最近来信 无（仅表内/当面）。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 

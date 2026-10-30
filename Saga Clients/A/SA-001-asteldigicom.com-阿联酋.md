@@ -12,7 +12,7 @@ code: SA-001
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 name_official: "Astel Digicom（asteldigicom.com，关联 AVSS Group）"
 score: 164
 country: 阿联酋
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：阿联酋线上/线下经销商，自称「House of all kinds of cables and connectors」，网店品类为线缆、连接器、网络产品；2026 年首页主推 Deye/Inverex 储能电池与太阳能产品，网络产品仍在目录内（用户备注的工业 MC/工业交换机页面）。GM Sanjay Singla 已成单。（调研 2026-10-22；表内兴趣：ONV的工业FS  有工业电源 https://asteldigicom.com/industrial-media-converters-unmanaged-full-gigabit-8-port-with-sfp-ports.-a.htm）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 有成单/下单/买过记录（用户备注或跟进表）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展）；自动分级 A：+50 Saga 成单（PI 包）；+30 实质回复 2 次（问价/要资料/问型号等）；+25 在 Simon 的 S 重点名单；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 中东/阿联酋；+5 最近活动 2025；+5 跟进表最近平台标记 S
 - **历史互动**：成交/下单过；实质回复 2 次；WhatsApp 已加；推送 36 次（2024-05-07 → 2025-11-27）；最近一次客户回复：2025-01-06：profile
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-140GE（已打样）+ HDR-15-24；若中标 1,000 台 → 走 SmartByte 下单与分批交付 — 成交 + 标书 + GM 直联 + 两年筛子已过——A 级里证据最硬的非欧美户之一｜已发资料（勿重发）：STI-PA-120W-48V2.5A(2024-06-29)、STI-244DGGPM(2024-06-29)、PROFILE(2025-01-06)、Saga Software Function List-release 7.(2025-03-26)、STI-288DGGPM(2025-04-28)、Download Link_Alan(2025-10-22)、STI-140GE(2025-11-25)；已发单据：STAG20251127018(2025-11-27)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#9）：2025-11-27 Alan 给 Sanjay 的信里写了 s.sagatelecom PayPal 地址与 152 手机号（《计划》：外发材料不带 152 号与 s. 邮箱）——已发生不追，后续材料走 a. 邮箱 + WhatsApp 跳转｜毛利复盘：一单 22.3%（STI-110GE 162 / STI-140GE 185 / HDR-15-24 60）——正常偏低，PayPal 5% 另计；STI-140GE $30 含双纤模块（2025-11 报价；成本按成本统计 185 RMB/台 ≈ $27.7 @6.69 → 毛利仅 ≈8%——1,000 台时必须按价格主表重算，Realtek/Marvell 底线 20/25%）；群发里他已看到的价（续，第 66 批全量复核）：2024-12-13 $300（48 Port PoE Managed Switch）、2025-07-28 $240（24 Port Fiber Switch）、2025-10-22 $280（10G Enterprise SFP Switch）；**1,000 台时的 PSU 锚**：Saga 自家 DIN 电源表（`Extra Info/Price/Price List_DIN Power Adapter.xls`）STI-PA-20W-24V0.83A 1~49 台 $11 / 50~100 $10 / 101~300 $9 / 301~500 $8 / **501~1000 $7**（塑壳 DIN，CE/RoHS/UKCA/UL）——比样品时按 MEAN WELL HDR-15-24 报的 $10 便宜 30%，标书重报时用这个档；要金属壳 48V 则 STI-PA-75W-48V 501~1000 $14
 - **第一问（只问一个）**：Sanjay — did the STI-140GE + HDR-15-24 samples pass the tender's spec/sample approval, and if the 1,000-pc supply is still on the table, what target unit price and delivery window are they asking for?
@@ -191,7 +191,7 @@ updated: 2026-10-30
   > Astel Digicom Electronics LLC employs 8 employees. The Astel Digicom Electronics LLC management team includes Sanjay Singla (General Manger), Yash Shahani …
   > 来源：https://rocketreach.co/astel-digicom-electronics-llc-management_b41a35eeff64aa38（抓取 2026-10-23）
 - **KP**：Sanjay Singla（General Manager）asteldigicom@eim.ae; navsim@eim.ae 〔PI.zip 单据〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A1：PI包·可发展
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 成单客户，S 重点名单；下一步按老客户回访做，主推工业 PoE 整线（替代其在卖的 ONV）。
 
@@ -286,6 +286,38 @@ updated: 2026-10-30
 | 2025-10-22 | 1022 | dac |  | A |  | 阿联酋 沙特阿拉伯  2.3.xlsx#4 |
 | 2025-10-29 | 1029 | dac |  | S |  | S 09.08.xlsx#3 |
 | 2025-11-27 | 1127 | solar |  | S |  | S 09.08.xlsx#3 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | 阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Astel Digicom（asteldigicom.com；关联 AVSS Group，用户表邮箱域 eim.ae） · （登记状态不可免费核） |
+| ② 角色 / 对位 | 分销商 | 对位词：ethernet fiber industrial media converter network poe sfp switch；P1 STI-288DGGPM |
+| ③ 需求证据 | 具体（型号/数量/项目/样品） | 2025-12-01 A: Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Shipping address and Shi ‖ 2025-12-01 S: Hi Alan, Hello Simon We have processed your payme… |
+| ④ 路径 | 活 | 企业邮箱 MX ok + WA；最近来信 2025-12-01（10 月前） |
+| ⑤ 规模 | ≥小型 | 未见规模数据（网店型中小经销商） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：阿联酋·分销商；登记线索：阿联酋 · 各酋长国 DED / 自由区登记不对外开放（仅许可证号付费核验）；本行为「无登记源」记录（据第 79 批研究: Astel Digicom（aste。往来 1.6→2025-12-01：我方去信 39 封（A 16 / S 22），对方真人来信 14 封 + 表内/备注 2 条；对方问过：2025-11-27 A: Hi AlanYes this is the right model.Pls include 2 pcs of this model including Meanwell PSU.Total 4 pcs of MC and 4 PSU.Pls add charge for shi ‖ 2025-12-01 A: Hi Alan, Hello Simon We have 。我方报过：$10 / $26 / $30 / $65 / $110 / $125。对位：STI-288DGGPM；路径：企业邮箱 MX ok + WA；最近来信 2025-12-01（10 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-11-25 | 去 | A | Re: 10G Enterprise SFP Switch | $280 |
+| 2025-11-27 | 去 | A | Re: 10G Enterprise SFP Switch |  |
+| 2025-11-27 | 来 | A | Re: 10G Enterprise SFP Switch｜Hi AlanYes this is the right model.Pls include 2 pcs of this model including Meanwell PSU.Total 4 pcs of MC and 4 PSU.Pl… |  |
+| 2025-11-27 | 来 | A | Re: 10G Enterprise SFP Switch｜Hi AlanHow can I reach on wechat for faster communication. Many a times I am nit in office and some respinse is rrquired… |  |
+| 2025-11-27 | 去 | A | Re: 10G Enterprise SFP Switch | $10 / $30 |
+| 2025-11-27 | 来 | A | Re: 10G Enterprise SFP Switch｜Hello AlanI need two samples of this model with Power Supply. Pls advise if you can arrange it. In addition to this if y… |  |
+| 2025-11-27 | 去 | S | Booster PoE Switch |  |
+| 2025-11-27 | 去 | R |  |  |
+| 2025-12-01 | 去 | A | Re: FW: 10G Enterprise SFP Switch |  |
+| 2025-12-01 | 来 | A | FW: 10G Enterprise SFP Switch｜Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Ship… |  |
+| 2025-12-01 | 来 | S | Re: FW: 10G Enterprise SFP Switch｜Hi, Sanjay, Thanks for your payment and information. We will let you know more info soon. Thank you. |  |
+| 2025-12-01 | 来 | S | FW: 10G Enterprise SFP Switch｜Hi Alan, Hello Simon We have processed your payment. Screenshot attached. Pls process our PO and arrange the goods. Ship… |  |
 
 ## 成交记录（PI 包 · 自动汇总）
 

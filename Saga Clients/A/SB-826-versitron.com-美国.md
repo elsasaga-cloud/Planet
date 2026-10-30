@@ -12,7 +12,7 @@ code: SB-826
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档
 name_official: "Versitron, Inc.（美国特拉华）"
 score: 31
 country: 美国
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国铜转光连接方案设计制造商（数据 / 语音 / 视频；switch 646 / sfp 416 / poe 368 / media converter 197 / industrial 180），Greg Massott；表内「Stacking」（堆叠交换机需求，Saga 无堆叠）；无跟进。制造商 → OEM 30%（MC / 工业 PoE 贴牌）。（调研 2026-10-21；表内兴趣：Stacking）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 2 条（S；2023-11→2025-10））；自动分级 B：+0 数据中心交换机线索（Hohunet/CENTEC 线）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：CENTEC STH1G：STH-2QX4DX48GP-HSI（48×1G PoE++ 90W + 4×25G SFP28 + 2×40G QSFP+，堆叠 ≤8 台 / 360 Gbps，链或环，双热插拔 1200W PSU）= 他要的 Catalyst 9300 级可堆叠 48 口 PoE；-SFI 为 PoE+ 30W 单电源版。汇聚/核心再配 STH-8C48DX / 2C6QX — 美国品牌商 + 三年关系 + 明确的产品线需求 = J1 第一档；只是 Saga 过去一年把牌打坏了，需要一封诚实的对表信｜已发资料（勿重发）：Marvell Based Web Manual(2024-05-16)、STC-110XGE(2024-06-18)、Passive PoE(2024-07-16)、Ordering Information(2024-08-14)、Variants(2024-08-14)、STI-42424XGGPM-4BT(2025-08-28)、STH1G Series(2026-03-11)；已发单据：Quotation(2024-08-14)；还没给过：7.5 Feature List、Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）｜对外统一口径（#1，2026-10-24 第 48 批改正）：2026-03-11 Simon 的「stacking available on all models」指的是随信附的 STH1G Series.pdf（CENTEC 48×1G PoE 线，ST 堆叠许可，≤8 台），不是 AC5——AC5 规格书明写「Stacking… NOT going to develop it in 2 or 3 years」，7.5 功能表 Stacking Management ✖。对表信要把这两层说清：接入 AC5 不堆叠；可堆叠 48 口 PoE = STH1G。Greg 自 2026-03-11 起无回（只自动回复）——他可能根本没打开那份 pdf｜第 56 批：MACsec 有证（STOS V2.4「MacSec(802.1AE) ◯」，BigFlow 平台除外，STH1G 是 VastLakes 可用）；10G 铜口改为指同族 STH-2QX4DX8XP40DP-HSI（堆叠待证）；他见过的实报：2023-11-09 首版整表（424XGGM $130 / 448XGGPM $394 / 28GPM $63…）；2024-08-14 STI-222GP $36 / 266FP $39 / 088GP $40；按 CENTEC 底线 ≥35%；先给 2 款 1U 的 OEM 报价区间而非单价；历史报价（邮件原话，老汇率）：2024-05-16 375usd / 550usd；2024-06-18 75usd；2025-08-28 500usd；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2025-10-30 $280（10G Enterprise SFP Switch）；群发里他已看到的价（续，第 66 批全量复核）：2024-11-19 $300（48 Port PoE Managed Switch）、2025-01-03 $240（24 Port Fiber Switch）
 - **第一问（只问一个）**：Greg — the stackable line exists now: STH-2QX4DX48GP-HSI, 48×1G PoE++ + 4×25G + 2×40G, stacks up to 8 units over the fiber ports (ring or chain, 360 Gbps), hot-swap PSUs, your label. Is the Cisco-alternative stackable line still on your 2027 plan, and for how many units per stack?
@@ -188,7 +188,7 @@ updated: 2026-10-30
   > 来源：（S 邮箱 thr 1844786008444924799，2026-03-11T08:24Z；Versitron 最后一封 2025-10-31）（抓取 2026-10-22）
 - **KP**：Greg Massott（）gmassott@versitron.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Richard W. Tull（President（cage.report 现任负责人；新闻稿署名 R. W. Tull）= 老板 / 拍板人；邮箱来自 2026-03-11 OOO 自动回复（k=4ac602505b7d8db3），从未发过（第 86 批 官方登记核实 2026-10-27））rwtull@versitron.com 〔https://cage.report/DUNS/837605443〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 12 条（S；2023-11→2025-10）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 20 封 / 表内 0 条 / 研究档 2 条（S；2023-11→2025-10）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 针对性加厚 2026-10-22（S 邮箱 50 封通读：三年关系、4 次报价、堆叠需求链，T29-U13 ②）
 
@@ -233,6 +233,38 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人: VERSITRON, INC. · DUNS 837605443（CAGE 在册）；Delaware 公司（Bloo · Active（2025-07 仍发新闻稿；NAVAIR 小企 · 1958… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet fiber industrial media converter network poe sfp switch；P1 STI-110GE |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-10-15 S: Hello Simon: I hope all is well. Any news on this? Regards, Greg Massott ／ P: 302.894.0699 Ext. 20 ／F: 302.894.0624 ／ gmassott@versitron.com ‖ 2025-10-30 S: Hello Simon: Thank you for this information, I wi… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2026-03-11（7 月前） |
+| ⑤ 规模 | ≥小型 | 2–10 实际；营收 $2–5M（自报 EC21；第三方 $21–30M 不可信）（第 86 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·OEM 品牌商；登记坐实：USA · NAVAIR OSBP 供应商页（官方）+ cage.report（DUNS 837605443 现任负责人: VERSITRON, INC. · 。往来 2023-11-09→2026-03-11：我方去信 31 封（A 0 / S 29），对方真人来信 20 封 + 表内/备注 0 条；对方问过：2025-08-28 S: Hello Simon: Thank you for this information. Regards, Greg Massott ／ P: 302.894.0699 Ext. 20 ／F: 302.894.0624 ／ gmassott@versitron.com<mailt ‖ 2025-10-15 S: Hello Simon: I hope all is we。我方报过：$75 / $240 / $280 / $300 / $375 / $500。对位：STI-110GE；路径：企业邮箱 MX ok；最近来信 2026-03-11（7 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-08-27 | 来 | S | Re: L3 Managed Switch｜Hello Simon: I am well, thank you. I hope the same for you. What is the price of this unit? Regards, Greg Massott ／ P: 302.894.0… |  |
+| 2025-08-27 | 去 | S | L3 Managed Switch |  |
+| 2025-08-28 | 来 | S | Re: L3 Managed Switch｜Hello Simon: Thank you for this information. Regards, Greg Massott ／ P: 302.894.0699 Ext. 20 ／F: 302.894.0624 ／ gmassott@versitr… |  |
+| 2025-08-28 | 去 | S | Re: L3 Managed Switch | $500 |
+| 2025-10-15 | 来 | S | Re: 48 Port PoE Managed Switch｜Hello Simon: I hope all is well. Any news on this? Regards, Greg Massott ／ P: 302.894.0699 Ext. 20 ／F: 302.894.0624 ／ g… |  |
+| 2025-10-30 | 来 | S | Re: 10G Enterprise SFP Switch｜Hello Simon: Thank you for this information, I will keep it for future reference. What is the status of the stacking swi… |  |
+| 2025-10-30 | 去 | S | 10G Enterprise SFP Switch | $280 |
+| 2025-10-31 | 来 | S | Re: 10G Enterprise SFP Switch｜Hello Simon: We are trying to offer stacking as an alternative to Cisco. Regards, Greg Massott ／ P: 302.894.0699 Ext. 20… |  |
+| 2025-10-31 | 去 | S | Re: 10G Enterprise SFP Switch |  |
+| 2025-11-28 | 去 | S | Booster PoE Switch |  |
+| 2026-03-11 | 去 | S | Re: 10G Enterprise SFP Switch |  |
+| 2026-03-11 | 来 | S | Automatic reply: 10G Enterprise SFP Switch｜Hello: I hope all is well. I will be out of the office until 03/12/26, and will reply to any messages when … |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

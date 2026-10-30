@@ -8,7 +8,7 @@
 code: SB-1026
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 
 score: 25
 country: 美国
 region: 北美
@@ -32,7 +32,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国 Epygi Technologies（VoIP 厂商：设计制造并全球分销 IP PBX（QX 系列）、VoIP 网关、SIP 会议服务器；辅助生活方案 EVIA；表内「工业 FS」）；表内未跟进。（调研 2026-10-21；表内兴趣：工业FS）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12））；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12））；自动分级 B：-6 群发批次名单；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国
 - **历史互动**：名单内·无互动记录
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-25）**：— — 已打开的主题（3/3 封有打开记录）：「2.5G Web Managed Switch」(2024-11-06)、「Industrial PoE Switch」(2024-12-03)、「Re: Industrial PoE Switch」(2024-12-05) → 读者兴趣偏「工业」；与 P1 同类，继续；—；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-09-08 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-09-08；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -142,7 +142,7 @@ updated: 2026-10-30
   > 工业FS
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Mario Cuello（CEO（Epygi Technologies, LLC）= 拍板人（sales@ 点名）（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）
 
@@ -192,6 +192,36 @@ updated: 2026-10-30
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；20: Epygi Technologies, LLC（原 Epygi Technologies, Ltd.；epygi.com；Altamonte Springs,  · Active（2024 新闻） |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：ethernet industrial poe switch 交换机 工业；P1 STC-28DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2024-12-04 S: Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If so, what operati ‖ 2024-12-05 S: Simon: 1. Can you answer the questions in my emai… |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2024-12-05（22 月前） |
+| ⑤ 规模 | 个人/微型 | 11–50 人；$10–50M（第三方） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：美国·OEM 品牌商；登记线索：US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；20: Epygi Technologies。往来 2024-11-06→2025-04-06：我方去信 4 封（A 0 / S 3），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-12-04 S: Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If so, what operati ‖ 2024-12-05 S: Simon: 1. Can you answer the 。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2024-12-05（22 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2024-11-06 | 去 | S | 2.5G Web Managed Switch |  |
+| 2024-11-06 | 来 | S | We received your request and will get back to you soon!｜##- Please type your reply above this line -## We received your request and will get back to y… |  |
+| 2024-11-06 | 来 | S | We received your request and will get back to you soon!｜##- Please type your reply above this line -## We received your request and will get back to y… |  |
+| 2024-12-03 | 去 | S | Industrial PoE Switch |  |
+| 2024-12-03 | 来 | S | We received your request and will get back to you soon!｜##- Please type your reply above this line -## We have received your request and will respond … |  |
+| 2024-12-03 | 来 | S | We received your request and will get back to you soon!｜##- Please type your reply above this line -## We have received your request and will respond … |  |
+| 2024-12-04 | 来 | S | RE: Industrial PoE Switch｜Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If … |  |
+| 2024-12-05 | 来 | S | RE: Industrial PoE Switch｜Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pri… |  |
+| 2024-12-05 | 去 | S | Re: Industrial PoE Switch |  |
+| 2025-04-06 | 去 | R |  |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

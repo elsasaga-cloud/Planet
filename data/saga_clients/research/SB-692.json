@@ -51,7 +51,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-08）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-06→2026-08）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -307,6 +307,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-08）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-08）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-06→2026-08）"
   }
  ],
  "snap_thicken": {
@@ -347,15 +355,198 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 3 封 / 表内 0 条 / 研究档 1 条（E；2025-06→2026-08）",
+  "reason": "真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-06→2026-08）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[E 2026-08-04] Hi Elsa, Thanks for your support ,we will check and update you soon , You have mentioned some Not supported fe ‖ [E 2026-08-04] Hi, First share us data sheet for the same Regards Subhash  ‖ 研 2026-08-04 Subhash（ANDA Telecom）: First share us data sheet for the same"
+  "evidence": "[E 2026-08-04] Hi Elsa, Thanks for your support ,we will check and update you soon , You have mentioned some Not supported fe ‖ [E 2026-08-04] Hi, First share us data sheet for the same Regards Subhash "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "IN · 1 次检索：zaubacorp（CIN U64202DL2004PTC131212，2004-12-13 成立: ANDA TELECOM PRIVATE LIMITED（New Delhi / Noida） · CIN U64202DL2004PTC131212 · Active · 2004-12-13"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "fiber",
+   "industrial",
+   "media converter",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "光纤"
+  ],
+  "p1": "STI-288GPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2025-06-17",
+    "E",
+    "Dear Nitin/Subhash Please reply. With Kind Regards : Harish Gupta Director ANDA Telecom Pvt. Ltd. (An ISO 27001:2022 Company) (RoHS, FCC and"
+   ],
+   [
+    "2026-08-04",
+    "E",
+    "Hi, First share us data sheet for the same Regards Subhash "
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok + WA；最近来信 2026-08-04（2 月前）"
+  ],
+  "size": "1–10 人（EMIS）；FY2024 营收 ₹12.81 cr（≈$1.5M，−23%）、FY2025 +22%（第 91 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "印度·OEM 品牌商；登记坐实：IN · 1 次检索：zaubacorp（CIN U64202DL2004PTC131212，2004-12-13 成立: ANDA TELECOM PRIVA。往来 2024-06-19→2026-08-04：我方去信 10 封（A 1 / S 8），对方真人来信 3 封 + 表内/备注 0 条；对方问过：2025-06-17 E: Dear Nitin/Subhash Please reply. With Kind Regards : Harish Gupta Director ANDA Telecom Pvt. Ltd. (An ISO 27001:2022 Company) (RoHS, FCC and ‖ 2026-08-04 E: Hi, First share us data sheet。我方报过：$65 / $300。对位：STI-288GPM；路径：企业邮箱 MX ok + WA；最近来信 2026-08-04（2 月前）。",
+  "n_out": 10,
+  "n_in": 3,
+  "last_in": "2026-08-04",
+  "last_out": "2026-08-04",
+  "prices_out": [
+   "65",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-19",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "PoE managed switch",
+    "gist": "PoE managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "acec45f3404c574b"
+   },
+   {
+    "date": "2024-07-12",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24V poe switch",
+    "gist": "24V poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "67f542aa6d2d0954"
+   },
+   {
+    "date": "2024-07-16",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial fiber switch",
+    "gist": "Industrial fiber switch",
+    "prices": [],
+    "bulk": false,
+    "k": "16b0ca840140ab9f"
+   },
+   {
+    "date": "2024-08-08",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "75996942f78a56bc"
+   },
+   {
+    "date": "2024-09-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24V poe switch",
+    "gist": "24V poe switch",
+    "prices": [],
+    "bulk": false,
+    "k": "6a051968847953f1"
+   },
+   {
+    "date": "2024-10-01",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Power Converter",
+    "gist": "Power Converter",
+    "prices": [],
+    "bulk": false,
+    "k": "3d2ce441a1eca612"
+   },
+   {
+    "date": "2024-11-14",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G Web Managed Switch",
+    "gist": "2.5G Web Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "17a5e9db764500ba"
+   },
+   {
+    "date": "2024-12-27",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "51626efe54a57586"
+   },
+   {
+    "date": "2025-02-14",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "62c5e09bfbe8ee07"
+   },
+   {
+    "date": "2025-06-17",
+    "dir": "in",
+    "box": "R",
+    "from": "Harish Gupta（Director, ANDA Telecom）",
+    "subj": "",
+    "gist": "Dear Nitin/Subhash Please reply.",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e"
+   },
+   {
+    "date": "2026-08-04",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa",
+    "subj": "",
+    "gist": "Please check attached datasheet.（附件 = STC-424XGGPM-280W.docx）",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_e 19fcc40506a0a404"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

@@ -56,7 +56,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 12 条（AS；2024-05→2026-09）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 4 条（AS；2024-05→2026-09）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n土耳其在主攻区；在售 MLB 工业交换机（国产白牌路线），与 STI 工业线正面对位。仅 2 次推送、Berk 曾回复（用户记录），不算耳聋。军工项目字样 → 守界：只谈自动化/商用项目。P1：STI-288DGGPM（替代 MLB 可管理 DIN 机型），分销价阶 20%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -434,16 +434,16 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 21 封 / 表内 0 条 / 研究档 12 条（AS；2024-05→2026-09）",
+  "reason": "真回信 21 封 / 表内 0 条 / 研究档 4 条（AS；2024-05→2026-09）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-09-02] Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R ‖ [A 2026-09-17] Hi Friend, good day, Could you tell me to price and datasheet? Thank you, Very Best Regards, Iot Team ‖ 研 2026-09-02 Berk（iotsistem，info@iotsistem.com）: Is there any feed back? Do you have solution_? / 2026-09-17 Berk（iotsistem，info@iotsistem.com）: Could you tell me to price and datasheet"
+  "evidence": "[A 2026-09-02] Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R ‖ [A 2026-09-17] Hi Friend, good day, Could you tell me to price and datasheet? Thank you, Very Best Regards, Iot Team ‖ 研 2026-08-21 Berk（iotsistem，info@iotsistem.com）: You are exactly right, Pls could you help to provide Reliable cheaper one? / 2026-09-02 Berk（iotsistem，info@iotsistem.com）: Is there any"
  },
  "override_history": [
   {
@@ -453,6 +453,230 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 12 条（AS；2024-05→2026-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 12 条（AS；2024-05→2026-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 21 封 / 表内 0 条 / 研究档 4 条（AS；2024-05→2026-09）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "Türkiye · 官网 Hakkımızda（iotsistem.com / bosgem.com / bosgem.: Bosgem Otomasyon（商号 IoT Sistem / iotsistem.com；法定全称待补） · İstanbul Ticaret Sicil（号待补；法定名含 Bosgem O · 经营中（bosgem.com.tr 2026-03 / 20 · 2010 年末（官网"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "ethernet",
+   "fiber",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-288DGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-08-17",
+    "A",
+    "Hi Friend, Good day Devices looks pretty, Could you tell me special price for me? Thank you Berk B.R Alan from Saga Telecom <a.sagatelecom@g"
+   ],
+   [
+    "2026-08-18",
+    "A",
+    "Hi Alan, Good day, This is huge expensive friend, We expect to low from last offer (pls check attach price.jpg) Sorry for circumsentence bec"
+   ],
+   [
+    "2026-08-18",
+    "R",
+    "For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE"
+   ],
+   [
+    "2026-09-02",
+    "A",
+    "Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R"
+   ],
+   [
+    "2026-09-17",
+    "A",
+    "Hi Friend, good day, Could you tell me to price and datasheet? Thank you, Very Best Regards, Iot Team"
+   ],
+   [
+    "2026-09-17",
+    "R",
+    "Could you tell me to price and datasheet?（16 口 DIN PoE）"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-09-17（1 月前）"
+  ],
+  "size": "微型（1–5）（第 85 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "土耳其·分销商；登记坐实：Türkiye · 官网 Hakkımızda（iotsistem.com / bosgem.com / bosgem.: Bosgem Otomasyon（商。往来 2024-05-02→2026-09-18：我方去信 42 封（A 29 / S 11），对方真人来信 21 封 + 表内/备注 0 条；对方问过：2026-08-18 R: For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE ‖ 2026-09-02 A: Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R ‖ 2026-09-17 A: Hi F。我方报过：$18 / $25 / $65 / $90 / $120 / $170。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2026-09-17（1 月前）。",
+  "n_out": 42,
+  "n_in": 21,
+  "last_in": "2026-09-17",
+  "last_out": "2026-09-18",
+  "prices_out": [
+   "18",
+   "25",
+   "65",
+   "90",
+   "120",
+   "170"
+  ],
+  "timeline": [
+   {
+    "date": "2026-08-17",
+    "dir": "in",
+    "box": "A",
+    "from": "info@iotsistem.com",
+    "subj": "Re: 24 Port PoE Managed Switch",
+    "gist": "Hi Friend, Good day Devices looks pretty, Could you tell me special price for me? Thank you Berk B.R Alan from Saga Telecom <a.sagatelecom@gmail.com> şunları ya",
+    "prices": [],
+    "bulk": false,
+    "k": "ca8eab6eec73a6fe"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "in",
+    "box": "A",
+    "from": "info@iotsistem.com",
+    "subj": "RE: 24 Port PoE Managed Switch",
+    "gist": "Hi Alan, Good day, This is huge expensive friend, We expect to low from last offer (pls check attach price.jpg) Sorry for circumsentence because of price highly",
+    "prices": [],
+    "bulk": false,
+    "k": "d88199ef36ad9a1d"
+   },
+   {
+    "date": "2026-08-18",
+    "dir": "in",
+    "box": "R",
+    "from": "Berk（附件 price.png = Alan 2026-06-08 邮件截图",
+    "subj": "",
+    "gist": "For 24 port copper, just Gigabit model, price is 120USD/PC, STI-0240GE",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a att 2026-08-18"
+   },
+   {
+    "date": "2026-08-20",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port PoE Managed Switch",
+    "gist": "Re: 24 Port PoE Managed Switch",
+    "prices": [
+     "340"
+    ],
+    "bulk": false,
+    "k": "c6123b252bbbe871"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "in",
+    "box": "A",
+    "from": "info@iotsistem.com",
+    "subj": "RE: 24 Port PoE Managed Switch",
+    "gist": "Hi Firend, You are exactly right ,Pls coudl you help to provide Reliable cheaper one? Thank you Berk B.R",
+    "prices": [],
+    "bulk": false,
+    "k": "7703e6444b479a47"
+   },
+   {
+    "date": "2026-08-21",
+    "dir": "in",
+    "box": "R",
+    "from": "Berk（iotsistem，info@iotsistem.com）",
+    "subj": "",
+    "gist": "You are exactly right, Pls could you help to provide Reliable cheaper one?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 7703e6444b479a47"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "in",
+    "box": "A",
+    "from": "info@iotsistem.com",
+    "subj": "RE: 24 Port PoE Managed Switch",
+    "gist": "Hi Friend, Is there any feed back ? Do you have solution_? Thank you, Berk B.R",
+    "prices": [],
+    "bulk": false,
+    "k": "86eb3067b4d8819b"
+   },
+   {
+    "date": "2026-09-02",
+    "dir": "in",
+    "box": "R",
+    "from": "Berk（iotsistem，info@iotsistem.com）",
+    "subj": "",
+    "gist": "Is there any feed back? Do you have solution_?",
+    "prices": [],
+    "bulk": false,
+    "k": "gmail_a 86eb3067b4d8819b"
+   },
+   {
+    "date": "2026-09-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 24 Port PoE Managed Switch",
+    "gist": "Re: 24 Port PoE Managed Switch",
+    "prices": [
+     "120"
+    ],
+    "bulk": false,
+    "k": "faed82fe02dfeb95"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "in",
+    "box": "A",
+    "from": "info@iotsistem.com",
+    "subj": "RE: 16 Port Industrial PoE Switch",
+    "gist": "Hi Friend, good day, Could you tell me to price and datasheet? Thank you, Very Best Regards, Iot Team",
+    "prices": [],
+    "bulk": false,
+    "k": "b1fd581f3292521f"
+   },
+   {
+    "date": "2026-09-17",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "16 Port Industrial PoE Switch",
+    "gist": "16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "2e3b60e878f9e046"
+   },
+   {
+    "date": "2026-09-18",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: 16 Port Industrial PoE Switch",
+    "gist": "Re: 16 Port Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "48f91a073d0f4e97"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }

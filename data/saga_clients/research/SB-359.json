@@ -71,7 +71,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-07）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -377,6 +377,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A6 真回≥3+对位（任何区域）",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 13 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-07）"
   }
  ],
  "snap_thicken": {
@@ -416,15 +424,229 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "真回信 13 封 / 表内 0 条 / 研究档 9 条（A；2025-05→2026-07）",
+  "reason": "真回信 13 封 / 表内 0 条 / 研究档 0 条（A；2025-05→2026-07）",
   "why_not": "",
   "excl": "",
   "deal": "",
   "reply_class": "R+",
-  "evidence": "[A 2026-06-03] Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would ‖ [A 2026-07-02] Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces  ‖ 研 2026-06-03 oksana@larch-networks.com: Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Al / 2026-07-02 Oksana（Lar"
+  "evidence": "[A 2026-06-03] Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would ‖ [A 2026-07-02] Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces "
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "IL · 1 次检索：官网 team / at-a-glance（2009 成立，联合创始人 CEO Alexander: Larch Networks Ltd.（原 Niram Systems；Rosh HaAyin, Israel） · Active（2025-08 新闻）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "network",
+   "poe",
+   "sfp",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STI-488XGGPM",
+  "need": "具体（型号/数量/项目/样品）",
+  "asks": [
+   [
+    "2026-03-31",
+    "A",
+    "Alan, By the word clients, do you mean the client who buys this equipment from you, or is it the factory in China that is your client? Maybe"
+   ],
+   [
+    "2026-03-31",
+    "R",
+    "By the word clients, do you mean the client who buys this equipment from you, or is it the factory in China that is your client? Maybe this "
+   ],
+   [
+    "2026-05-22",
+    "A",
+    "Dear Alan, I hope you are doing well. You shared your updated Ethernet switch product links with us earlier this year, and I wanted to recon"
+   ],
+   [
+    "2026-05-25",
+    "A",
+    "Hi Alan, Thanks for the candid reply — fully understood on the CENTEC track for high-speed. Let me flip the question. On the Marvell side, w"
+   ],
+   [
+    "2026-06-03",
+    "A",
+    "Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short onlin"
+   ],
+   [
+    "2026-07-02",
+    "A",
+    "Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX1518/DX1548 chips (any va"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2026-07-02（3 月前）"
+  ],
+  "size": "11–50（LinkedIn）；开发办公室 Kyiv（第 90 批 官方登记核实 2026-10-27）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "以色列·OEM 品牌商；登记线索：IL · 1 次检索：官网 team / at-a-glance（2009 成立，联合创始人 CEO Alexander: Larch Networks Ltd。往来 2025-05-21→2026-07-02：我方去信 25 封（A 24 / S 0），对方真人来信 13 封 + 表内/备注 0 条；对方问过：2026-05-22 A: Dear Alan, I hope you are doing well. You shared your updated Ethernet switch product links with us earlier this year, and I wanted to recon ‖ 2026-05-25 A: Hi Alan, Thanks for the candi。我方报过：$15 / $215 / $250 / $275 / $280 / $285。对位：STI-488XGGPM；路径：企业邮箱 MX ok；最近来信 2026-07-02（3 月前）。",
+  "n_out": 25,
+  "n_in": 13,
+  "last_in": "2026-07-02",
+  "last_out": "2026-07-02",
+  "prices_out": [
+   "15",
+   "215",
+   "250",
+   "275",
+   "280",
+   "285"
+  ],
+  "timeline": [
+   {
+    "date": "2026-05-22",
+    "dir": "in",
+    "box": "A",
+    "from": "alexander@larch-networks.com",
+    "subj": "Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Dear Alan, I hope you are doing well. You shared your updated Ethernet switch product links with us earlier this year, and I wanted to reconnect ahead of COMPUT",
+    "prices": [],
+    "bulk": false,
+    "k": "48f6b22ac0e2c199"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "prices": [],
+    "bulk": false,
+    "k": "3c888655608fcc01"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "in",
+    "box": "A",
+    "from": "alexander@larch-networks.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Hi Alan, Thanks for the candid reply — fully understood on the CENTEC track for high-speed. Let me flip the question. On the Marvell side, we're actively intere",
+    "prices": [],
+    "bulk": false,
+    "k": "231732b0e66a97ce"
+   },
+   {
+    "date": "2026-05-25",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "prices": [],
+    "bulk": false,
+    "k": "36ef0d39b4e679c2"
+   },
+   {
+    "date": "2026-05-26",
+    "dir": "in",
+    "box": "A",
+    "from": "alexander@larch-networks.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Hi Alan, Thanks — this is very useful context on the AC3 to AC5 transition and the L2+/L3, 1G/10G positioning. To size this properly on our side, could you plea",
+    "prices": [],
+    "bulk": false,
+    "k": "4722032cae2191bd"
+   },
+   {
+    "date": "2026-05-27",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "prices": [
+     "15"
+    ],
+    "bulk": false,
+    "k": "ddbe426f9e94bdd4"
+   },
+   {
+    "date": "2026-06-02",
+    "dir": "in",
+    "box": "A",
+    "from": "oksana@larch-networks.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Hi Alan, Would you be available to meet with us on June 10 or 11? What time would be convenient for you? Thanks in advance, BR, Oksana Loi. On Wed, May 27, 2026",
+    "prices": [],
+    "bulk": false,
+    "k": "76c0582f1181f61b"
+   },
+   {
+    "date": "2026-06-03",
+    "dir": "in",
+    "box": "A",
+    "from": "oksana@larch-networks.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Hi Alan, The exhibition is going very well, and we have a lot of visitors. As Alex mentioned earlier, we would like to arrange a short online meeting to discuss",
+    "prices": [],
+    "bulk": false,
+    "k": "ce5ef79be8ca9c8c"
+   },
+   {
+    "date": "2026-06-03",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "prices": [],
+    "bulk": false,
+    "k": "7b5efec0a7c80e6a"
+   },
+   {
+    "date": "2026-06-05",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "gist": "Re: Supported SONiC for Saga Ethernet Switches | COMPUTEX",
+    "prices": [],
+    "bulk": false,
+    "k": "d637bcde75ed85d8"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "out",
+    "box": "A",
+    "from": "a.sagatelecom@gmail.com",
+    "subj": "Re: Request for DX1518/DX1548 Chips",
+    "gist": "Re: Request for DX1518/DX1548 Chips",
+    "prices": [],
+    "bulk": false,
+    "k": "9386d851165248d5"
+   },
+   {
+    "date": "2026-07-02",
+    "dir": "in",
+    "box": "A",
+    "from": "oksana@larch-networks.com",
+    "subj": "Request for DX1518/DX1548 Chips",
+    "gist": "Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX1518/DX1548 chips (any variant is acceptable)",
+    "prices": [],
+    "bulk": false,
+    "k": "f77f97cdc39f10a5"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

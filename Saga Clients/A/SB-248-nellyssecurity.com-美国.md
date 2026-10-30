@@ -9,7 +9,7 @@
 code: SB-248
 rating: A
 rating_auto: B
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：
 name_official: "Nelly's Security（美国）"
 score: 49
 country: 美国
@@ -34,7 +34,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：美国商用级安防设备电商（CCTV、门禁、入侵报警；Uniview、Hanwha、ZKTeco、TP-Link、Ubiquiti；camera 280 / poe 180 / switch 75），Technical Operations Officer Ryan O'Daniel、Sales Cole Cattaneo；表内「PoE switch 摄像头安防；用的是 ONV 的设备」；群发 9 次无回复。（调研 2026-10-21；表内兴趣：PoE switch 摄像头，安防；PoE switch 摄像头，安防 用的是ONV的设备）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位））；自动分级 B：+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 北美/美国；+5 最近活动 2025；-10 推送 9 次无任何回复（聋名单）
 - **历史互动**：推送 9 次（2025-04-02 → 2025-11-04）
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：— — 已打开的主题（3/27 封有打开记录）：「24 port poe switch」(2024-07-04)、「PoE switch」(2024-08-06)、「8 Port Industrial PoE Switch」(2025-04-01) → 读者兴趣偏「PoE 接入」；与 P1 同类，继续；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-11-06 $300（48 Port PoE Managed Switch）；群发里他已看到的价（续）：2026-08-31 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-09-24 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Which switch model are you buying most often right now, and roughly how many units a month?
@@ -173,7 +173,7 @@ updated: 2026-10-30
 - **KP**：Ryan O'Daniel（Technical Operations Officer（2010 起；选型人）= 收件人（第 102 批 官方登记核实 2026-10-28））rodaniel@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Cole Cattaneo（Sales（官网团队页）= 抄送（第 102 批 官方登记核实 2026-10-28））customerservice@nellyssecurity.com 〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Sean Nelson（创始人（2008；另营自有 PoE 交换机品牌 IPCamPower）= 贴标线点名对象（第 102 批 官方登记核实 2026-10-28）） 〔〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·美国 Nelly's Security：安防电商 switch 75 SKU（同类替代对位）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -232,6 +232,38 @@ updated: 2026-10-30
 | ? | 52 | 48口 |  | A |  | US.xlsx#259 |
 | ? | 78 | 16电 |  | A |  | US.xlsx#259 |
 | ? | 92 | 24poe |  | A |  | US.xlsx#259 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记线索 | US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’: Nelly’s Security LLC（nellyssecurity.com；Broken Arrow, Oklahoma）— 2008 年 Sean Nel · Active（站点在线；股权已… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：ethernet network poe sfp switch；P1 STC-424DGGPM-280W |
+| ③ 需求证据 | 无 |  |
+| ④ 路径 | 弱 | 企业邮箱；最近来信 2024-07-08（27 月前） |
+| ⑤ 规模 | ≥小型 | 15–25 人；$3.5M（第三方） |
+| ⑥ 否决项 | 无 | 缺口：无需求证据；路径弱 |
+
+**故事线**：美国·集成商/安装商；登记线索：US · 1 次检索：官网 About / legacy About（2008 Sean Nelson 由 Nelly’: Nelly’s Security L。往来 2024-05-10→2026-08-31：我方去信 27 封（A 20 / S 7），对方真人来信 0 封 + 表内/备注 0 条；对方问过：—。我方报过：$170 / $280 / $300。对位：STC-424DGGPM-280W；路径：企业邮箱；最近来信 2024-07-08（27 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-11-03 | 去 | A | Booster PoE Switch |  |
+| 2025-12-01 | 去 | A | Optional Marvell Chipset Solutions |  |
+| 2025-12-17 | 去 | A | Managed Optical Bypass Switch |  |
+| 2026-02-04 | 去 | A | OEM Core Switching Solution |  |
+| 2026-03-09 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-03-19 | 去 | A | Marvell Managed Commercial Switches |  |
+| 2026-04-13 | 去 | A | Industrial PoE Switch |  |
+| 2026-05-07 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2026-06-16 | 去 | A | 10G L3 Managed Switch |  |
+| 2026-07-08 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-07-30 | 去 | A | WiFi 7 Ready Access Switch |  |
+| 2026-08-31 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

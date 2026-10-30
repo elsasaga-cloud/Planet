@@ -12,7 +12,7 @@ code: SB-122
 rating: A
 rating_auto: B
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 
 name_official: "Tera Technologies and Engineering Limited (TTEL)"
 score: 57
 country: 坦桑尼亚
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：坦桑尼亚达累斯萨拉姆电信 / ICT / 安防 / 电力承包商：2011-09-09 注册（证号 85715），CRB 一级承包商（电信、ICT、安防），35–50+ 人、达市 + 多多马三处办公室，CEO Eng. Daudi Charles；官网称 500+ 站点、微波与企业链路、工业自动化 / IoT；表内 Ramadhani Ndijuye 2024–2025 问 5 电口价目、确认千兆、对工业 16/24 口「可能会用到」。（调研 2026-10-21；表内兴趣：5电口 price list company profile）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/坦桑尼亚；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→））；自动分级 B：+30 实质回复 3 次（问价/要资料/问型号等）；+15 WhatsApp 已加并有跟进表；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+0 仅免费邮箱；+5 有可核实的公司网站/域名；-6 区域 非洲/坦桑尼亚；+5 最近活动 2025
 - **历史互动**：实质回复 3 次；WhatsApp 已加；推送 15 次（2024-04-28 → 2025-10-06）；最近一次客户回复：2025-02-20：可能会用到
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-21616GP — 其表示可能用到的工业 16/24 口 → Saga STI-21616GP（16 PoE + 2 SFP 工业，$170.4/177.5/184.6）；5 电口入门 STI-050GE 作价格锚。；按主表（研究档 saga_fit）
 - **第一问（只问一个）**：Ramadhani, in February you said the 16/24-port industrial units might fit an upcoming site — for telecom/microwave shelters do you need PoE on those ports (for radios/cameras) or plain gigabit with SFP uplinks?
@@ -138,7 +138,7 @@ updated: 2026-10-30
   > 来源：（本地 Clients/ 表格，无公开 URL）（抓取 2026-10-21）
 - **KP**：Ramadhani Ndijuye（联系人（研究档 KP；2024–2025 问 5 电口价 / 确认千兆 / 工业 16–24 口「可能会用到」）= 收件人 — 一页纸一次：集成商 25% B、STI-054GP / STI-154GP + STI-288DGGPM $137 / STC-2216GP 一口价 + MOQ 1 + 付费样机；抄 CEO 公共箱 — 坦桑尼亚常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳 或 DAP 达市、TBS / TCRA 不声称（第 122 批 官方登记核实 2026-10-29））rndijuye@gmail.com +255 769 320 545〔（本地 Clients/ 表格，无公开 URL）〕
 - **KP**：Eng. Daudi Charles（CEO & Co-Founder（官网 about 2026-10-29；ERB 注册工程师）（第 122 批 官方登记核实 2026-10-29））info@teratech.co.tz +255 754 247 576〔https://ttel.co.tz/about〕
-- **调研后定级**：A（原自动 B）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
+- **调研后定级**：A（原自动 B）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 3 条 / 研究档 0 条（；→）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：deep/facts。
 （无首轮调研；由 deepen.py 建档）
 
@@ -192,6 +192,32 @@ updated: 2026-10-30
 | 2025-06-18 | 6.18 | 4 8 16口工业PoE |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#34 |
 | 2025-07-16 | 716 | bypass |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#34 |
 | 2025-10-06 | 106 | dac |  | Whatsapp |  | Whatsapp_S跟进 2026.08.04.xlsx#34 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineerin: Tera Technologies and Engineering Limited（teratech.co.tz / t · Certificate of Incorporation No. 85… |
+| ② 角色 / 对位 | 集成商/安装商 | 对位词：industrial 工业 网络；P1 STI-21616GP |
+| ③ 需求证据 | 泛（问价/要目录） | 1.8 表: marvell系列组合图→Are they Giga Ethernet Switches ‖ 923 表: 18 2.5G→是PoE吗？ |
+| ④ 路径 | 弱 | 免费邮箱 + WA；最近来信 2024-06-20（28 月前） |
+| ⑤ 规模 | 未知 |  |
+| ⑥ 否决项 | 无 | 缺口：路径弱；规模未知 |
+
+**故事线**：坦桑尼亚·集成商/安装商；登记坐实：TZ · 1 次检索：ttel.co.tz/about（Tera Technologies and Engineerin: Tera Technologies 。往来 1.8→2024-09-23：我方去信 2 封（A 0 / S 2），对方真人来信 0 封 + 表内/备注 3 条；对方问过：1.8 表: marvell系列组合图→Are they Giga Ethernet Switches ‖ 923 表: 18 2.5G→是PoE吗？。我方报过：未见报价数字。对位：STI-21616GP；路径：免费邮箱 + WA；最近来信 2024-06-20（28 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 1.8 | 表 | 表 | marvell系列组合图｜Are they Giga Ethernet Switches |  |
+| 2024-06-20 | 去 | S | Industrial Fiber Switch |  |
+| 2024-06-20 | 来 | R | 用户表跟进：推「发了几个商业交换机图」→ 对方「Email发了2光2小壳信息」 |  |
+| 2024-09-23 | 去 | S | 8 Port 2.5G Switch |  |
+| 2025.2.20 | 表 | 表 | 工业16 24口出货图｜可能会用到 |  |
+| 923 | 表 | 表 | 18 2.5G｜是PoE吗？ |  |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

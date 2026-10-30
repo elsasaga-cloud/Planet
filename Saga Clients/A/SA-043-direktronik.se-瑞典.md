@@ -12,7 +12,7 @@ code: SA-043
 rating: A
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
 name_official: "Direktronik AB（Nynäshamn, Sweden；Lagercrantz Group 子公司）"
 score: 76
 country: 瑞典
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：斯德哥尔摩南郊的网络/数据通信硬件进口分销商（1986 年创立，2007 年起属上市集团 Lagercrantz；约 25 人，营收约 1.4 亿 SEK），自有品牌产品 + 分销，面向企业/公共部门（Svenska Kraftnät 框架协议），2026 年收购 AB Qvintus、挪威 Nexlan。用户表：A 已回复 1 次，联系人 Anders Hedin；兴趣 MC / 工业 FS / VC / SDI / SFP 及周边，「和 E-link 深度合作」。（调研 2026-10-21；表内兴趣：MC 工业FS VC SDI SFP  周边产品 和E-link深度合作）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典；+5 最近活动 2025
+- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+8 区域 欧洲/瑞典；+5 最近活动 2025
 - **历史互动**：实质回复 1 次；推送 1 次（2025-11-11 → 2025-11-11）；最近一次客户回复：2025-11-11：认证INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM（CE/RoHS/REACH 齐）+ CE DoC 文件 — J2：把停点（文件）变成一封可核对的信；EU CRA 2027 是下一道门，先记着。已打开的主题（8/21 封有打开记录）：「Booster PoE Switch」(2025-11-11)、「Re: Booster PoE Switch」(2025-11-12)、「Re: Booster PoE Switch」(2025-12-08)、「24 Port PoE Managed Switch」(2026-09-28) → 读者兴趣偏「旁路/Booster」；与 P1 同类，继续 最近一封去信是 2026-09-28 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Saga Telecom Ethernet Switch NCT240283(2025-11-12)、Saga Telecom Ethernet Switch JAT240705(2025-11-12)、Product Link_2026Q2(2026-03-30)、Saga Feature List_7.5.x_L2+(2026-07-20)；还没给过：Product Link 2026Q3（下一封可带，但只带与其需求相关的那一页）；按 20% 分销档；群发里他已看到的价（续）：2026-09-28 $180（24 Port PoE Managed Switch = STC-424XGGPM-280W，Alan 2026-09-21 起的现价轮）——同款信稿只能写 $180；群发里他已看到的价（续）：2026-08-11 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2024-08-02 $220（48 port managed switch）、2024-12-25 $240（24 Port Fiber Switch）、2025-10-07 $280（10G Enterprise SFP Switch）
 - **第一问（只问一个）**：Our wired switches are outside RED/EN 18031 scope; attached is the CE DoC (EMC/LVD) — is that sufficient for your supplier file, and who owns active-equipment sourcing?
@@ -160,7 +160,7 @@ updated: 2026-10-30
   > 来源：https://www.direktronik.se/direktronik/natverk/lan-lokalt-natverk/switchar-industriellt/industriell-poe-switch-med-12v-48v-matning/（抓取 2026-10-21）
 - **KP**：Anders Hedin（产品 / 采购经办，非董事；Direktronik AB（556281-9663，1986）为上市集团 Lagercrantz Group 100% 子公司；外聘 VD Henrik Ringstedt、董事长 Mats Rydén；财年 3 月止 2025 营收 133.0 MSEK / 28 人（第 84 批 官方登记核实 2026-10-27））anders.hedin@direktronik.se +46 8 52 400 700（总机）〔Clients/A Replied 09.04.xlsx〕
 - **KP**：Mats Backlund（收件人（A 邮箱 18 封的收件地址之一；他本人从未回信；职务未核））mats.backlund@direktronik.se 〔A 邮箱发件表头（18 封 to）〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 1 条（A；2025-11→2025-11）
+- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（A；2025-11→2025-11）
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度合作）：切入点为 E-link 以外的补充 SKU（Marvell 工业 PoE / MC）；P1 = STI-288DGGPM，20% 分销档；VC/SDI 不做。
 
@@ -222,6 +222,38 @@ A 确认（北欧成熟分销 + 已回复 + 已与中国供应商 E-link 深度�
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-11-11 | 2025.11.11 | 升压 | 认证INFO | A |  | A Replied 09.04.xlsx#27 |
+
+## A 落池核验（A-DEEP-01 · 2026-10-30 · 结论：**留A**）
+
+> Simon 规则（2026-10-30）：A = Saga 成单（PI 包 20 户）+ 有过实质回信沟通 + 极贴合；有实质回复的要深挖核验，真能落池才留 A，否则下放 B。
+
+| 项 | 结论 | 依据 |
+|---|---|---|
+| ① 身份 | 登记坐实 | Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / : DIREKTRONIK AKTIEBOLAG（Direktronik AB） · Org.nr 556281-9663 · VAT SE556281966301  · Aktiv（经营中） · 1… |
+| ② 角色 / 对位 | OEM 品牌商 | 对位词：din ethernet fiber poe sfp switch 交换机 工业；P1 STI-288DGGPM |
+| ③ 需求证据 | 泛（问价/要目录） | 2025-11-11 A: Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. Therefore, we ne ‖ 2025.11.11 表: 升压→认证INFO |
+| ④ 路径 | 活 | 企业邮箱 MX ok；最近来信 2025-11-11（11 月前） |
+| ⑤ 规模 | ≥小型 | 28（2025）；营收 133.0 MSEK（FY 2025-03）（第 84 批 官方登记核实 2026-10-27） |
+| ⑥ 否决项 | 无 | 缺口：无 |
+
+**故事线**：瑞典·OEM 品牌商；登记坐实：Sverige · Bolagsverket 登记镜像（allabolag / rating.se / hitta / : DIREKTRONIK AKTIEB。往来 2024-07-04→2026-09-28：我方去信 21 封（A 13 / S 8），对方真人来信 1 封 + 表内/备注 1 条；对方问过：2025-11-11 A: Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. Therefore, we ne ‖ 2025.11.11 表: 升压→认证INFO。我方报过：$170 / $180 / $220 / $240 / $280。对位：STI-288DGGPM；路径：企业邮箱 MX ok；最近来信 2025-11-11（11 月前）。
+
+往来时间线（末 12 条；A/S/E = 三箱，表 = Simon 跟进表，R = 研究档抄录）：
+
+| 日期 | 向 | 箱 | 主题 / 摘录 | 我方报价 |
+|---|---|---|---|---|
+| 2025-09-03 | 去 | A | Industrial PoE Switch |  |
+| 2025-10-07 | 去 | A | 10G Enterprise SFP Switch | $280 |
+| 2025-11-11 | 来 | A | RE: Booster PoE Switch｜Hi Would you please review below and reply. As you are aware, CE approval is a mandatory requirement to sell within the EU. The… |  |
+| 2025-11-11 | 去 | A | Booster PoE Switch |  |
+| 2025-11-12 | 去 | A | Re: Booster PoE Switch |  |
+| 2025-12-08 | 去 | A | Re: Booster PoE Switch |  |
+| 2025.11.11 | 表 | 表 | 升压｜认证INFO |  |
+| 2026-03-30 | 去 | A | Updated Ethernet Switches Links |  |
+| 2026-07-20 | 去 | A | Firmware 7.5 L2+ Feature Update |  |
+| 2026-08-11 | 去 | A | 24 Port PoE Managed Switch | $170 |
+| 2026-09-07 | 去 | A | 16 Port Industrial PoE Switch |  |
+| 2026-09-28 | 去 | S | 24 Port PoE Managed Switch | $180 |
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

@@ -60,10 +60,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "C",
+  "grade_before": "A",
   "reason": "真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
   "why_not": "",
   "excl": "",
@@ -79,8 +79,164 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）"
+  },
+  {
+   "batch": "A-DEEP-01",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "B",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）",
+   "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：federalcable.net = Actelis 销售 Casey Hurley 的另一地址，2024-09 回「Maybe….」；本户并入 SB-831 Actelis（A），不单独立 A"
   }
  ],
- "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 0 条 / 研究档 0 条（S；2024-09→2024-09）"
+ "grade_override": "B",
+ "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：federalcable.net = Actelis 销售 Casey Hurley 的另一地址，2024-09 回「Maybe….」；本户并入 SB-831 Actelis（A），不单独立 A",
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "下放B",
+  "tier": "A2",
+  "ident": [
+   "未坐实",
+   "待快照"
+  ],
+  "role": "未知",
+  "fit_words": [],
+  "p1": "",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-09-26",
+    "S",
+    "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 2024-09-26（25 月前）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "身份未坐实",
+   "角色未知",
+   "路径弱",
+   "规模未知",
+   "人工终判：federalcable.net = Actelis 销售 Casey Hurley 的另一地址，2024-09 回「Maybe….」；本户并入 SB-831 Actelis（A），不单独立 A"
+  ],
+  "story": "美国；未坐实：待快照。往来 2024-06-18→2024-12-22：我方去信 7 封（A 0 / S 7），对方真人来信 1 封 + 表内/备注 0 条；对方问过：2024-09-26 S: Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1。我方报过：$65 / $300。对位：待定；路径：企业邮箱；最近来信 2024-09-26（25 月前）。",
+  "n_out": 7,
+  "n_in": 1,
+  "last_in": "2024-09-26",
+  "last_out": "2024-12-22",
+  "prices_out": [
+   "65",
+   "300"
+  ],
+  "timeline": [
+   {
+    "date": "2024-06-18",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "90W POE managed switch",
+    "gist": "90W POE managed switch",
+    "prices": [],
+    "bulk": false,
+    "k": "bf830c19ac74fc08"
+   },
+   {
+    "date": "2024-07-20",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "10G media converter",
+    "gist": "10G media converter",
+    "prices": [
+     "65"
+    ],
+    "bulk": false,
+    "k": "025db49252eb396d"
+   },
+   {
+    "date": "2024-08-23",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Unmanaged Switch",
+    "gist": "Unmanaged Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4c19da223817468b"
+   },
+   {
+    "date": "2024-09-26",
+    "dir": "in",
+    "box": "S",
+    "from": "pchurley@actelis.com",
+    "subj": "RE: [External]8 Port 2.5G Switch",
+    "gist": "Maybe…. Best Regards, P. Casey Hurley VP Sales - Strategic Accounts Actelis Networks 732-477-7447 (C) 732-477-1606 (O) Technical Support - 1-866-638-2544 Skype ",
+    "prices": [],
+    "bulk": false,
+    "k": "421dd559ac7a7b63"
+   },
+   {
+    "date": "2024-09-26",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "8 Port 2.5G Switch",
+    "gist": "8 Port 2.5G Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "4c328431ccbdd79c"
+   },
+   {
+    "date": "2024-10-28",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "24 Port Passive PoE Switch",
+    "gist": "24 Port Passive PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "5dc2307cac05eaf3"
+   },
+   {
+    "date": "2024-11-24",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Mini Industrial PoE Switch",
+    "gist": "Mini Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "0ffb0ecc56484552"
+   },
+   {
+    "date": "2024-12-22",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "48 Port PoE Managed Switch",
+    "gist": "48 Port PoE Managed Switch",
+    "prices": [
+     "300"
+    ],
+    "bulk": false,
+    "k": "164418ee55bdb286"
+   }
+  ],
+  "web_facts": [],
+  "manual": true
+ }
 }

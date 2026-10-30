@@ -60,7 +60,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：伊斯坦布尔工厂自动化分销商（Meanwell/PLC），工业 PoE 对位（土耳其）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -166,6 +166,14 @@
    "to": "A",
    "prev_reason": "Q-76 LT-01 2026-10-29：B→A 核心（精华跟）：A3 真人往来+对位+四主区+坐实/自牌",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：伊斯坦布尔工厂自动化分销商（Meanwell/PLC），工业 PoE 对位（土耳其）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A3：贴合·ISAF 2025：伊斯坦布尔工厂自动化分销商（Meanwell/PLC），工业 PoE 对位（土耳其）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）"
   }
  ],
  "snap_thicken": {
@@ -202,15 +210,74 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
-  "tier": "A3",
+  "batch": "AB-FINAL-02",
+  "tier": "A2",
   "target": "A",
   "grade_before": "A",
-  "reason": "贴合·ISAF 2025：伊斯坦布尔工厂自动化分销商（Meanwell/PLC），工业 PoE 对位（土耳其）",
+  "reason": "真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
   "why_not": "",
   "excl": "",
   "deal": "",
-  "reply_class": "none",
-  "evidence": ""
+  "reply_class": "R+",
+  "evidence": " ‖ 表 : Simon 备注/兴→问了工业级5口POE交换机  说自己也代理PLC  IO模块"
+ },
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记坐实",
+   "TR · 1 次检索：官网 KVKK 页（İstanbul Ticaret Sicil Müdürlüğü 358519: Fabrika Aygıtları Sistem Teknolojisi A.Ş.（F.A.S.T.；fasttr.co · İstanbul Ticaret Sicil 358519（A.Ş.） · Active（2026-03 站点更新） · 1994"
+  ],
+  "role": "分销商",
+  "fit_words": [
+   "din",
+   "poe",
+   "交换机",
+   "工业",
+   "网络"
+  ],
+  "p1": "STI-054GP",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "",
+    "表",
+    "Simon 备注/兴趣栏→问了工业级5口POE交换机  说自己也代理PLC  IO模块"
+   ]
+  ],
+  "path": [
+   "弱",
+   "企业邮箱；最近来信 无（仅表内/当面）"
+  ],
+  "size": "",
+  "size_lv": "未知",
+  "veto": [],
+  "gaps": [
+   "路径弱",
+   "规模未知"
+  ],
+  "story": "土耳其·分销商；登记坐实：TR · 1 次检索：官网 KVKK 页（İstanbul Ticaret Sicil Müdürlüğü 358519: Fabrika Aygıtları 。往来 —→—：我方去信 0 封（A 0 / S 0），对方真人来信 0 封 + 表内/备注 1 条；对方问过： 表: Simon 备注/兴趣栏→问了工业级5口POE交换机  说自己也代理PLC  IO模块。我方报过：未见报价数字。对位：STI-054GP；路径：企业邮箱；最近来信 无（仅表内/当面）。",
+  "n_out": 0,
+  "n_in": 0,
+  "last_in": "",
+  "last_out": "",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "",
+    "dir": "tbl",
+    "box": "表",
+    "from": "",
+    "subj": "Simon 备注/兴趣栏",
+    "gist": "问了工业级5口POE交换机  说自己也代理PLC  IO模块",
+    "prices": [],
+    "bulk": false,
+    "k": ""
+   }
+  ],
+  "web_facts": [],
+  "manual": false
  }
 }

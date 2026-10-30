@@ -47,7 +47,7 @@
   }
  ],
  "grade_override": "A",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）",
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -180,10 +180,10 @@
  },
  "ab_final": {
   "date": "2026-10-30",
-  "batch": "AB-FINAL-01",
+  "batch": "AB-FINAL-02",
   "tier": "A2",
   "target": "A",
-  "grade_before": "B",
+  "grade_before": "A",
   "reason": "真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）",
   "why_not": "",
   "excl": "",
@@ -199,6 +199,175 @@
    "to": "A",
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）"
+  },
+  {
+   "batch": "AB-FINAL-02",
+   "date": "2026-10-30",
+   "from_override": "A",
+   "to": "A",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）",
+   "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2024-12）"
   }
- ]
+ ],
+ "a_deep": {
+  "batch": "A-DEEP-01",
+  "date": "2026-10-30",
+  "verdict": "留A",
+  "tier": "A2",
+  "ident": [
+   "登记线索",
+   "US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；20: Epygi Technologies, LLC（原 Epygi Technologies, Ltd.；epygi.com；Altamonte Springs,  · Active（2024 新闻）"
+  ],
+  "role": "OEM 品牌商",
+  "fit_words": [
+   "ethernet",
+   "industrial",
+   "poe",
+   "switch",
+   "交换机",
+   "工业"
+  ],
+  "p1": "STC-28DGGPM",
+  "need": "泛（问价/要目录）",
+  "asks": [
+   [
+    "2024-12-04",
+    "S",
+    "Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If so, what operati"
+   ],
+   [
+    "2024-12-05",
+    "S",
+    "Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fa"
+   ]
+  ],
+  "path": [
+   "活",
+   "企业邮箱 MX ok；最近来信 2024-12-05（22 月前）"
+  ],
+  "size": "11–50 人；$10–50M（第三方）",
+  "size_lv": "个人/微型",
+  "veto": [],
+  "gaps": [],
+  "story": "美国·OEM 品牌商；登记线索：US · 1 次检索：Epygi 支持站 About（Epygi Technologies, LLC；私有美国公司；20: Epygi Technologies。往来 2024-11-06→2025-04-06：我方去信 4 封（A 0 / S 3），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2024-12-04 S: Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If so, what operati ‖ 2024-12-05 S: Simon: 1. Can you answer the 。我方报过：未见报价数字。对位：STC-28DGGPM；路径：企业邮箱 MX ok；最近来信 2024-12-05（22 月前）。",
+  "n_out": 4,
+  "n_in": 2,
+  "last_in": "2024-12-05",
+  "last_out": "2025-04-06",
+  "prices_out": [],
+  "timeline": [
+   {
+    "date": "2024-11-06",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "2.5G Web Managed Switch",
+    "gist": "2.5G Web Managed Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "39439dc218845142"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "in",
+    "box": "S",
+    "from": "support@reolink.com",
+    "subj": "We received your request and will get back to you soon!",
+    "gist": "##- Please type your reply above this line -## We received your request and will get back to you soon! Dear Simon, Thanks for reaching out, and this is an auto-",
+    "prices": [],
+    "bulk": true,
+    "k": "4439988811b10e3c"
+   },
+   {
+    "date": "2024-11-06",
+    "dir": "in",
+    "box": "S",
+    "from": "support@reolink.com",
+    "subj": "We received your request and will get back to you soon!",
+    "gist": "##- Please type your reply above this line -## We received your request and will get back to you soon! Dear Simon, Thanks for reaching out, and this is an auto-",
+    "prices": [],
+    "bulk": true,
+    "k": "363e49103da81006"
+   },
+   {
+    "date": "2024-12-03",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Industrial PoE Switch",
+    "gist": "Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "c6d97acbe75e6497"
+   },
+   {
+    "date": "2024-12-03",
+    "dir": "in",
+    "box": "S",
+    "from": "support@reolink.com",
+    "subj": "We received your request and will get back to you soon!",
+    "gist": "##- Please type your reply above this line -## We have received your request and will respond within 1-3 days due to the peak season and high service demand. Th",
+    "prices": [],
+    "bulk": true,
+    "k": "cd45f9a6cb880f03"
+   },
+   {
+    "date": "2024-12-03",
+    "dir": "in",
+    "box": "S",
+    "from": "support@reolink.com",
+    "subj": "We received your request and will get back to you soon!",
+    "gist": "##- Please type your reply above this line -## We have received your request and will respond within 1-3 days due to the peak season and high service demand. Th",
+    "prices": [],
+    "bulk": true,
+    "k": "951e0494446a8169"
+   },
+   {
+    "date": "2024-12-04",
+    "dir": "in",
+    "box": "S",
+    "from": "frank@simrex.com",
+    "subj": "RE: Industrial PoE Switch",
+    "gist": "Simon, No large attachments please. Please send links to a data sheets or other information. . Is this a managed switch? If so, what operating system? What is m",
+    "prices": [],
+    "bulk": false,
+    "k": "95d30a86d792cc0d"
+   },
+   {
+    "date": "2024-12-05",
+    "dir": "in",
+    "box": "S",
+    "from": "frank@simrex.com",
+    "subj": "RE: Industrial PoE Switch",
+    "gist": "Simon: 1. Can you answer the questions in my email below? 2. Provide a link to data sheet?. 3. Link to your web page? 4. Pricing? Regards Fank Frank Neuperger S",
+    "prices": [],
+    "bulk": false,
+    "k": "beb1989d2b8314a0"
+   },
+   {
+    "date": "2024-12-05",
+    "dir": "out",
+    "box": "S",
+    "from": "s.sagatelecom@gmail.com",
+    "subj": "Re: Industrial PoE Switch",
+    "gist": "Re: Industrial PoE Switch",
+    "prices": [],
+    "bulk": false,
+    "k": "cabf6cfbef3a6dca"
+   },
+   {
+    "date": "2025-04-06",
+    "dir": "out",
+    "box": "R",
+    "from": "Elsa 群发（BCC；To info@allisontecusa.com，US",
+    "subj": "",
+    "gist": "16 Port PoE Managed Switch — This is a Marvell-based 16 Port PoE L2+ Managed Switch. 1, 2*1G/2.5G/10G fiber+16*1G RJ45/PoE 2, Support PoE management, alarm outp",
+    "prices": [],
+    "bulk": false,
+    "k": "elsa_bcc"
+   }
+  ],
+  "web_facts": [],
+  "manual": false
+ }
 }
