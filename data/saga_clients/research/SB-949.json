@@ -429,6 +429,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ksm.com.au：KSM Australia Pty Ltd · ABN 98 071 589 690 · Suite 18, 12 Tryon Rd, Lindfield NSW 2070 · 02 8003 3372 · 「Established in 1995, KSM Solutions is a supplier of both active and passive network products … Managed Industrial Switches L2, L2+ & L3, Industrial PoE Fibre Media Converter, SFP, PoE Switches」",
+    "url": "https://www.ksm.com.au/about-us/",
+    "note": "悉尼工业网络产品供应商（在售白牌工业 L2/L3 管理交换机 = 换源对位）",
+    "batch": "INTEL-17",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

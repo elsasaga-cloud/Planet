@@ -249,9 +249,13 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 2026-07-20 | 去 | A | Saga Q3 Product Links |  |
 | 2026-09-04 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：ksm.com.au：KSM Australia Pty Ltd · ABN 98 071 589 690 · Suite 18, 12 Tryon Rd, Lindfield NSW 2070 · 02 8003 3372 · 「Established in 1995, KSM Solutions is a supplier of both active and passive network products … Managed Industrial Switches L2, L2+ & L3, Industrial PoE Fibre Media Converter, SFP, PoE Switches」 — <https://www.ksm.com.au/about-us/>　*悉尼工业网络产品供应商（在售白牌工业 L2/L3 管理交换机 = 换源对位）*
 
 **GitHub/技术足迹**
 

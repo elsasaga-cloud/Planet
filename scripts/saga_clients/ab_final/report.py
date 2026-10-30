@@ -83,9 +83,9 @@ def main():
     for c, e in ents.items():
         rs = e.get('research') or {}
         for h in rs.get('override_history') or []:
-            if h.get('batch') in ('A-DEEP-02', 'A-DEEP-03', 'A-DEEP-04', 'A-DEEP-05', 'A-DEEP-06', 'A-DEEP-07'):
+            if h.get('batch') in ('A-DEEP-02', 'A-DEEP-03', 'A-DEEP-04', 'A-DEEP-05', 'A-DEEP-06', 'A-DEEP-07', 'A-DEEP-08'):
                 d2.append((c, e, (rs.get('a_deep') or {}).get('verdict2_reason') or h.get('reason', '')))
-    L.append(f'## 4b. 「不是极为 OK 的就 B」下放（A-DEEP-02～07，{len(d2)} 户；Simon 2026-10-30 定口径）——要捞回的指名\n')
+    L.append(f'## 4b. 「不是极为 OK 的就 B」下放（A-DEEP-02～08，{len(d2)} 户；Simon 2026-10-30 定口径）——要捞回的指名\n')
     L.append('口径：PI 成单不动；个人 / 微型（≤10 人或 <£1M 级）且无进行中项目、结构性采购障碍（只买美国/TAA 产地、自有海外制造、国防/铁路主业）、巨头集团子公司、非主攻区 + 互动薄 → B（研究档与情报全保留，B1 重点普通跟）。\n')
     L.append('| 编号 | 公司 | 国家 | 原因 |\n|---|---|---|---|')
     for c, e, why in sorted(d2, key=lambda x: (x[1]['region'], x[0])):

@@ -555,6 +555,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "展会/活动",
+    "date": "2026-10-30",
+    "quote": "MINDTCE：XSPEC TECHNOLOGY SDN BHD 为第 8 届 Malaysia International NDT Conference & Exhibition（2026-11-17～18）参展商；Contact Sugito Wibawa · sugito@xspec.com.my · +60 12 988 8086；JobStreet：11–50 人，Manufacturing Representatives，MY / ID / SG 三地；地址 No.8, Jalan Industri USJ1/8, Subang Jaya",
+    "url": "https://mindtce.com.my/companyprofile/B2611000001",
+    "note": "PI 成单户：NDT/安防制造商代表（含「Uniformed Bodies」客群 → 守界只谈民用）；每年 11 月 MINDTCE",
+    "batch": "INTEL-16",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

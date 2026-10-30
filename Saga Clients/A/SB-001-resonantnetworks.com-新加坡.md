@@ -326,15 +326,23 @@ A 级确认（成单 + 数据中心网络集成）；对位 Hohunet/CENTEC 线 1
 | 2026-06-22 | 来 | R | Thank you for reaching out.（回 Simon 固件 7.5 发布通知） |  |
 | 2026-09-21 | 去 | S | Re: Optional Marvell Chipset Solutions | $180 |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：globaldatabase / sgpgrid / SignalHire：RESONANT NETWORKS PTE. LTD. · UEN 201316122M · 2013-06-14 起 · 81 Ubi Avenue 4 #09-28 UB. One, Singapore 408830 · +65 6871 4128 · 11–50 人 · Optical Fibre, DWDM, Cloud Interconnect, Data Centre Network · 运营 Singapore + Malaysia · 关联 APEIRO NETWORKS PTE. LTD. — <https://sgpgrid.com/company/resonant-networks-pte-ltd-ID0000>　*PI 成单户：新加坡 DC/光网络集成商（马来西亚有团队）*
+
+**KP**
+
+- 2026-10-30：globaldatabase / sgpgrid：Hong Zhiwei — AVP Sales；Richard Lapitan — Team Lead OTN & DWDM Implementation；Hafiz Mohd Rizal — Solution Architect & Presales；Ts Mohd Idhamm Ibrahim — Country Manager（MY）；Jerlyn Chia — Finance Manager；Nick Su — Senior Optical Network Engineer — <https://sg.globaldatabase.com/company/resonant-networks-pte-ltd>　*AVP Sales 与预售架构师是复购对口*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：resonantnetworks.com in:email；"resonantnetworks.com" in:readme in:description；resonantnetworks.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、领英公司页、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

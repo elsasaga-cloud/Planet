@@ -883,6 +883,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "globaldatabase / sgpgrid / SignalHire：RESONANT NETWORKS PTE. LTD. · UEN 201316122M · 2013-06-14 起 · 81 Ubi Avenue 4 #09-28 UB. One, Singapore 408830 · +65 6871 4128 · 11–50 人 · Optical Fibre, DWDM, Cloud Interconnect, Data Centre Network · 运营 Singapore + Malaysia · 关联 APEIRO NETWORKS PTE. LTD.",
+    "url": "https://sgpgrid.com/company/resonant-networks-pte-ltd-ID0000",
+    "note": "PI 成单户：新加坡 DC/光网络集成商（马来西亚有团队）",
+    "batch": "INTEL-16",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "globaldatabase / sgpgrid：Hong Zhiwei — AVP Sales；Richard Lapitan — Team Lead OTN & DWDM Implementation；Hafiz Mohd Rizal — Solution Architect & Presales；Ts Mohd Idhamm Ibrahim — Country Manager（MY）；Jerlyn Chia — Finance Manager；Nick Su — Senior Optical Network Engineer",
+    "url": "https://sg.globaldatabase.com/company/resonant-networks-pte-ltd",
+    "note": "AVP Sales 与预售架构师是复购对口",
+    "batch": "INTEL-16",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

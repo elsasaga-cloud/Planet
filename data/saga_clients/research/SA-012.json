@@ -473,6 +473,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "widen.co.th：บริษัท ไวเด้น เทรดดิ้ง จำกัด（Widen Trading Co., Ltd.）· 99/223 หมู่ 5 ต.ไทรม้า อ.เมืองนนทบุรี · 02-149-3922 · thawat@widen.co.th · LINE @widencompany · 光纤产品进口分销（Patch Cord, Closure, Media Converter, Video Converter, Rack Mount）· 分支 Chiang Mai / Khon Kaen · ISO 9001:2015 · 招经销商（「ครอบครัวไวเด้น」）· 网店 shop-widen.com",
+    "url": "http://www.widen.co.th/index.php?content=about",
+    "note": "泰国光纤分销商（三地分支 + 经销网络）；KP Thawat",
+    "batch": "INTEL-16",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

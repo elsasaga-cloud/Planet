@@ -251,13 +251,17 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 | 2026-08-24 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-28 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：widen.co.th in:email；"widen.co.th" in:readme in:description；widen.co.th type:org
+
+**供应商/品牌关系**
+
+- 2026-10-30：widen.co.th：บริษัท ไวเด้น เทรดดิ้ง จำกัด（Widen Trading Co., Ltd.）· 99/223 หมู่ 5 ต.ไทรม้า อ.เมืองนนทบุรี · 02-149-3922 · thawat@widen.co.th · LINE @widencompany · 光纤产品进口分销（Patch Cord, Closure, Media Converter, Video Converter, Rack Mount）· 分支 Chiang Mai / Khon Kaen · ISO 9001:2015 · 招经销商（「ครอบครัวไวเด้น」）· 网店 shop-widen.com — <http://www.widen.co.th/index.php?content=about>　*泰国光纤分销商（三地分支 + 经销网络）；KP Thawat*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
@@ -291,7 +295,7 @@ A 确认：自有 logo 的光纤分销商，Saga MC/光纤交换机可直接贴�
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://widen.co.th/) | html | ConnectTimeout: HTTPSConnectionPool(host='widen.co.th', port | - | 官网首页（T27 快照状态 timeout） |
+| [home](http://www.widen.co.th/) | html | ConnectTimeout: HTTPSConnectionPool(host='widen.co.th', port | - | 官网首页（T27 快照状态 ok） |
 
 ## 联系方式（已有 · 原值照录）
 

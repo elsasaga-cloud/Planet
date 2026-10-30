@@ -1272,6 +1272,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "ExportersIndia：ASTEL DIGICOM ELECTRONICS LLC · Shop no 22, Baghlaf Building, Satellite Market, Dubai · Year Established 2012 · Total Employees 5–10 · Annual Revenue US$1M–2.5M · Top markets Africa 70% / Mid East 20% / Eastern Europe · Contact Sanjay Singla · 主营 Coaxial / Fiber Optic / Security Cables, Fiber Optic Equipment, Media Converters",
+"url": "https://www.exportersindia.com/ae/astel-digicom-electronics-llc/about-us.htm",
+"note": "PI 成单户：迪拜卫星市场线缆/光纤贸易商（5–10 人，年销 $1–2.5M），7 成出口非洲 → 我们的货经其转非洲",
+"batch": "INTEL-17",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -9510,6 +9520,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "年报/财务",
+"date": "2026-10-30",
+"quote": "Incruit / Saramin / JobKorea：㈜이지넷유비쿼터스（EZ-NET Ubiquitous）· 서울 용산구 새창로45길 78 진성빌딩 · 설립 2004（법인 2006-04）· 대표 김우경 · 사원수 35–44 · 자본금 5,000만원 · 매출액 2023 292억 → 2024 251.6억 → 2025 254.1억 원 · 순이익 2023 49.4억 → 2024 30.3억 → 2025 13.3억 · 자본총계 230.2억（2025）· 고용노동부 강소기업",
+"url": "https://www.incruit.com/company/1687650747",
+"note": "采购线索：年销 ≈$18M 的自牌（NEXT/NEXTU，~1,000 SKU）网络/周边品牌商，利润连续两年下滑 → 在找更便宜的 ODM 货源是合理推断；OEM 30% 档",
+"batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "JobKorea：대표자 김우경（Kim Woo-kyung）；주요사업 네트워크 및 컨트롤러 제품 제조·유통；「기업 및 관공서에는 고성능 전문 네트워크 장비를 공급」",
+"url": "https://www.jobkorea.co.kr/recruit/co_read/c/jjwpac22",
+"note": "",
+"batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -11349,6 +11379,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "widen.co.th：บริษัท ไวเด้น เทรดดิ้ง จำกัด（Widen Trading Co., Ltd.）· 99/223 หมู่ 5 ต.ไทรม้า อ.เมืองนนทบุรี · 02-149-3922 · thawat@widen.co.th · LINE @widencompany · 光纤产品进口分销（Patch Cord, Closure, Media Converter, Video Converter, Rack Mount）· 分支 Chiang Mai / Khon Kaen · ISO 9001:2015 · 招经销商（「ครอบครัวไวเด้น」）· 网店 shop-widen.com",
+"url": "http://www.widen.co.th/index.php?content=about",
+"note": "泰国光纤分销商（三地分支 + 经销网络）；KP Thawat",
+"batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -12310,7 +12350,7 @@
 "c_sub": "",
 "status": "有回复·跟进中",
 "code": "SA-014",
-"grade": "A",
+"grade": "B",
 "research": {
 "code": "SA-014",
 "name_official": "Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）",
@@ -12585,10 +12625,18 @@
 "to": "A",
 "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）",
 "reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）"
+},
+{
+"batch": "A-DEEP-08",
+"date": "2026-10-30",
+"from_override": "A",
+"to": "B",
+"prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）",
+"reason": "A-DEEP-08 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清"
 }
 ],
-"grade_override": "A",
-"override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）",
+"grade_override": "B",
+"override_reason": "A-DEEP-08 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清",
 "snap_thicken": {
 "consumed": [
 "2026-10-21T09:19:38Z"
@@ -12823,7 +12871,10 @@
 }
 ],
 "web_facts": [],
-"manual": false
+"manual": false,
+"verdict2": "下放B",
+"verdict2_batch": "A-DEEP-08",
+"verdict2_reason": "Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清"
 },
 "intel": {
 "as_of": "2026-10-30",
@@ -12836,6 +12887,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "ZoomInfo：Impulse Networks · HQ Vancouver, British Columbia · impulsecctv.com · 51–200 · $5.4M；RocketReach：Impulse CCTV · 4 employees · Gaurav Sharma — Business Development Manager（New Delhi）、Abhinav Garg — Product Specialist（Delhi）",
+"url": "https://rocketreach.co/impulse-cctv-profile_b77f830fc533f0c2",
+"note": "新加坡/温哥华/德里三地叙事、可见团队 4 人（德里）→ 主体与规模不清 → A-DEEP-08 下放 B",
+"batch": "INTEL-16",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -22842,6 +22903,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "未得：网查「지티웨이브 GTWAVE」命中 티웨이브（핀테크）/ 지웨이브（화훼）等无关公司；研究档已有 매거진한경 2 年保固报道，本轮未增",
+"url": "",
+"note": "1 查未得即停",
+"batch": "INTEL-16",
+"found": false,
+"added": "2026-10-30"
 }
 ]
 }
@@ -24616,6 +24687,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "供应商/品牌关系",
+"date": "2026-10-30",
+"quote": "switchcongnghiep.com（「Switch công nghiệp ONV Việt Nam」）：由 Truong Son Solutions Co., Ltd.（CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠN）分销 PLANET、Advantech、ONV 工业交换机 + HDLink 摄像机 · 总部 Phòng 702A, Centre Point, 106 Nguyễn Văn Trỗi, Phú Nhuận, TPHCM · 营业办 214/11 Nguyễn Oanh, Gò Vấp · Hotline 0916 799 345 · info@truongsonsolutions.com",
+"url": "https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igt-905a/",
+"note": "胡志明市工业交换机垂直分销（在卖 PLANET/Advantech/ONV = 同品类进口老手）→ 白牌换源对位",
+"batch": "INTEL-16",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -39181,6 +39262,26 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "RocketReach / contactout / provilink：Tecpro Solutions Co. L.L.C. · founded 2003 Al Ain · offices Abu Dhabi, Dubai（Khalid Bin Waleed St）, Kochi（India）· 50–72 employees · est. revenue $6.5M · IT & ELV System Integrator & Distributor（TECPRO-Project / TECPRO-Distributions / Software）",
+"url": "https://contactout.com/company/Tecpro-Solutions-Co-LLC-74911",
+"note": "",
+"batch": "INTEL-17",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "contactout / RocketReach：Mohammed Rafi — Executive Director；Ahmed Salem Alrowahi — Executive Director；Musthafa — Director Sales & Operations；Abdul Rahiman Fahadh — Sales And Purchasing Manager（采购）；Praveen Parameswaran — Sales Manager（Dubai）；Sebin Varghese — Technical Sales Account Manager ELV（Abu Dhabi）",
+"url": "https://rocketreach.co/tecpro-solution-co-llc-profile_b45d2102fc62e2d2",
+"note": "销售兼采购经理 Fahadh 是 ELV 配套交换机的采购对口",
+"batch": "INTEL-17",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -59572,6 +59673,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "dataforthai：บริษัท พีบีเอ ฟอร์เอฟเวอร์ เทคโนโลยี จำกัด（PBA FOREVER TECHNOLOGY CO., LTD.）· ทะเบียน 0115558019700 · จดทะเบียน 2015-10-01 · ทุน 5,000,000 บาท · 334 หมู่บ้านกราฟฟิคเพลส ซอย 2 ถ.เทพารักษ์ ต.บางเสาธง สมุทรปราการ 10570 · ธุรกิจ จำหน่ายและติดตั้งกล้องวงจรปิด CCTV + อุปกรณ์เครือข่าย / ไฟเบอร์ออฟติก；网店 pbacctv.com / pbashop.in.th（PBA Supply）",
+"url": "https://www.dataforthai.com/company/0115558019700/",
+"note": "PI 成单户：曼谷东郊 CCTV + 网络安装/零售商，注册资本 500 万泰铢",
+"batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -64923,6 +65034,16 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "Experian MY / CreditScan：WIZARDSINC SDN. BHD. · 201101002484 (930621-U) · incorporated 2011-01-24 · Wilayah Persekutuan · ICT solution & software/hardware, embedded system & security & communication systems, access control & CCTV；官网：Lot 1-2A Incubator 1, Technology Park Malaysia, Bukit Jalil, KL · +603 4044 4044 · info@wizardsinc.co",
+"url": "https://buy.experian.com.my/index.php/search/Malaysia-Company/930621/WIZARDSINC-SDN.-BHD.",
+"note": "PI 成单户：吉隆坡科技园 ICT/安防集成商（2011 年）",
+"batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -66059,6 +66180,26 @@
 "batch": "INTEL-GH-01",
 "found": false,
 "added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "globaldatabase / sgpgrid / SignalHire：RESONANT NETWORKS PTE. LTD. · UEN 201316122M · 2013-06-14 起 · 81 Ubi Avenue 4 #09-28 UB. One, Singapore 408830 · +65 6871 4128 · 11–50 人 · Optical Fibre, DWDM, Cloud Interconnect, Data Centre Network · 运营 Singapore + Malaysia · 关联 APEIRO NETWORKS PTE. LTD.",
+"url": "https://sgpgrid.com/company/resonant-networks-pte-ltd-ID0000",
+"note": "PI 成单户：新加坡 DC/光网络集成商（马来西亚有团队）",
+"batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
+},
+{
+"kind": "KP",
+"date": "2026-10-30",
+"quote": "globaldatabase / sgpgrid：Hong Zhiwei — AVP Sales；Richard Lapitan — Team Lead OTN & DWDM Implementation；Hafiz Mohd Rizal — Solution Architect & Presales；Ts Mohd Idhamm Ibrahim — Country Manager（MY）；Jerlyn Chia — Finance Manager；Nick Su — Senior Optical Network Engineer",
+"url": "https://sg.globaldatabase.com/company/resonant-networks-pte-ltd",
+"note": "AVP Sales 与预售架构师是复购对口",
+"batch": "INTEL-16",
+"found": true,
+"added": "2026-10-30"
 }
 ]
 }
@@ -66789,6 +66930,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "展会/活动",
+"date": "2026-10-30",
+"quote": "MINDTCE：XSPEC TECHNOLOGY SDN BHD 为第 8 届 Malaysia International NDT Conference & Exhibition（2026-11-17～18）参展商；Contact Sugito Wibawa · sugito@xspec.com.my · +60 12 988 8086；JobStreet：11–50 人，Manufacturing Representatives，MY / ID / SG 三地；地址 No.8, Jalan Industri USJ1/8, Subang Jaya",
+"url": "https://mindtce.com.my/companyprofile/B2611000001",
+"note": "PI 成单户：NDT/安防制造商代表（含「Uniformed Bodies」客群 → 守界只谈民用）；每年 11 月 MINDTCE",
+"batch": "INTEL-16",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -284351,6 +284502,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "领英公司页",
+"date": "2026-10-30",
+"quote": "ZoomInfo：Larch Networks Ltd · 11 Amal St, Rosh Ha’Ayin, Israel · 11–50 employees（C-level 6 / VP 3 / Manager 10 / 35 non-managers 可见）· Co-Founder & CEO Alexander Cheskis · CTO & Director Engineering Alexander Kaganovsky（2010 至今；ex Aricent / Flextronics Design Ukraine，Kyiv Polytechnic）· CMO Max Rassamakin · 团队含 Linux Kernel Developer（Dmitriy Zhuk，2018 至今）、Embedded Software Developer",
+"url": "https://www.zoominfo.com/c/larch-networks-ltd/355480109",
+"note": "以色列交换机软硬件公司（基辅研发）：自牌工业交换机 + 定制固件能力 → 主板/SDK 级 ODM 对位；CTO 是技术决策人",
+"batch": "INTEL-17",
+"found": true,
 "added": "2026-10-30"
 }
 ]
@@ -531835,6 +531996,16 @@
 "note": "",
 "batch": "INTEL-GH-01",
 "found": false,
+"added": "2026-10-30"
+},
+{
+"kind": "登记",
+"date": "2026-10-30",
+"quote": "ksm.com.au：KSM Australia Pty Ltd · ABN 98 071 589 690 · Suite 18, 12 Tryon Rd, Lindfield NSW 2070 · 02 8003 3372 · 「Established in 1995, KSM Solutions is a supplier of both active and passive network products … Managed Industrial Switches L2, L2+ & L3, Industrial PoE Fibre Media Converter, SFP, PoE Switches」",
+"url": "https://www.ksm.com.au/about-us/",
+"note": "悉尼工业网络产品供应商（在售白牌工业 L2/L3 管理交换机 = 换源对位）",
+"batch": "INTEL-17",
+"found": true,
 "added": "2026-10-30"
 }
 ]

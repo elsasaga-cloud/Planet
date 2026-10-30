@@ -195,9 +195,13 @@ updated: 2026-10-30
 |---|---|---|---|---|
 | 2025-04-11 | 去 | R |  |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Experian MY / CreditScan：WIZARDSINC SDN. BHD. · 201101002484 (930621-U) · incorporated 2011-01-24 · Wilayah Persekutuan · ICT solution & software/hardware, embedded system & security & communication systems, access control & CCTV；官网：Lot 1-2A Incubator 1, Technology Park Malaysia, Bukit Jalil, KL · +603 4044 4044 · info@wizardsinc.co — <https://buy.experian.com.my/index.php/search/Malaysia-Company/930621/WIZARDSINC-SDN.-BHD.>　*PI 成单户：吉隆坡科技园 ICT/安防集成商（2011 年）*
 
 **GitHub/技术足迹**
 
@@ -228,7 +232,7 @@ updated: 2026-10-30
 | [site_feed](http://wizardsinc.co/?feed=rss2) | rss | HTTP 500 | 2026-10-23T02:54:23Z | WordPress RSS |
 | [home](http://wizardsinc.co/) | html | HTTP 500 | 2026-10-23T02:54:23Z | 官网首页 |
 | [contact](http://wizardsinc.co/?page_id=40) | html | HTTP 500 | 2026-10-23T02:54:23Z | 联系页（info@/support@wizardsinc.co，热线 1-700-816-003） |
-| [auto_home](https://live.com.my/) | html | ConnectTimeout: HTTPSConnectionPool(host='live.com.my', port | - | 官网首页 |
+| [auto_home](https://live.com.my/) | html | ConnectTimeout: HTTPSConnectionPool(host='live.com.my', port | - | 官网首页（T27 快照状态 timeout） |
 
 - **人工定期看（登录墙，不自动抓）**：10times：Raja Kumaran（CEO）参观 LED Light Malaysia 2026-07（标牌/LED 方向）；GitHub 用户 WizardsInc-Maintenance（2024-02 建，0 公开仓库，2026-10-19 有活动）归属未证实
 

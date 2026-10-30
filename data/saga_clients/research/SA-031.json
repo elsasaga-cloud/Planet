@@ -509,6 +509,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-30",
+    "quote": "switchcongnghiep.com（「Switch công nghiệp ONV Việt Nam」）：由 Truong Son Solutions Co., Ltd.（CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠN）分销 PLANET、Advantech、ONV 工业交换机 + HDLink 摄像机 · 总部 Phòng 702A, Centre Point, 106 Nguyễn Văn Trỗi, Phú Nhuận, TPHCM · 营业办 214/11 Nguyễn Oanh, Gò Vấp · Hotline 0916 799 345 · info@truongsonsolutions.com",
+    "url": "https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igt-905a/",
+    "note": "胡志明市工业交换机垂直分销（在卖 PLANET/Advantech/ONV = 同品类进口老手）→ 白牌换源对位",
+    "batch": "INTEL-16",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

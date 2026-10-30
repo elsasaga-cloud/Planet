@@ -1,18 +1,18 @@
 # impulsecctv.com
 **官方名称（调研核实）**：Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）
 
-> **评级 A**　|　新加坡　|　档案编号 `SA-014`　|　优先级 ★★★　|　状态：有回复·跟进中
+> **评级 B**　|　新加坡　|　档案编号 `SA-014`　|　优先级 ★★　|　状态：有回复·跟进中
 >
-> **P 池并入（A 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 51–200）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
+> **P 池并入（B 档，等级不动）：★ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（批 AB-01 · 2026-10-29 · 下次巡检 2026-12-28）：★ P 池正式（P 核心，A 档并池 · 等级不动）：A 档默认入池（长期跟进）；真回 ✔；命中 3/6（成单/样品 — · 真回 ✔ · WA — · 对位 ✔ 交换机 · 登记 未坐实 · 体量 51–200）　|　标签：core（核心：成单 / 样品 / PI 或 A 档）、prepay
 >
 > **类型**：品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线（推断）　|　**历史关系**：实质回复 1 次；推送 5 次（2025-02-21 → 2026-01-07）　|　**所在清单**：A优质名单(Singapore)、AI评估(SG)·DONE、E已回复　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
 
 ```yaml structured_profile
 code: SA-014
-rating: A
+rating: B
 rating_auto: A
 sieve: pool  # 闸 3 AB1 2026-10-29
-rating_research: A  # AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 
+rating_research: B  # A-DEEP-08 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团
 name_official: "Impulse Networks / Impulse CCTV（Singapore HQ；Vancouver、India 等办事处）"
 score: 94
 country: 新加坡
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## SALES BRIEF（压缩模型）
 
 - **是谁**：自称工业级 CCTV 与 PoE 网络交换机的全球制造商（总部新加坡 81 Ubi Ave 4，北美总部温哥华，印度生产「Make in India」BIS 认证），产品线含网络摄像机、NVR、VMS、PoE/L3/机箱式核心交换机；51–200 人口径；通过集成商/经销商网络销售。用户表：2026 年 E 已回复，兴趣 ONV 工业 FS、工业 FS 打他们的 logo。（调研 2026-10-21；表内兴趣：ONV的工业FS；工业FS 音频视听设备 ONV的工业FS  他们的logo）
-- **为什么是 A 级**：**调研后定级 A**（AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01））；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2026
+- **为什么是 B 级**：**调研后定级 B**（A-DEEP-08 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清）；自动分级 A：+22 实质回复 1 次；+18 在「已回复」名单（A/E Replied）；+6 在 A/DONE 优质国家名单（已做过整轮推送）；+2 在 AI 客户评估名单；+15 AI/Claude 评估 A；+8 兴趣在交换机/PoE/工业/MC 等 Saga 主线；+10 有企业邮箱；+5 有可核实的公司网站/域名；+3 区域 亚太/新加坡；+5 最近活动 2026
 - **历史互动**：实质回复 1 次；推送 5 次（2025-02-21 → 2026-01-07）；最近一次客户回复：2026-01-07：INFO
 - **P1（下一步唯一主推 · 来自针对性复盘 2026-10-24）**：STI-288DGGPM — 已打开的主题（2/21 封有打开记录）：「2.5G Ethernet Switch」(2024-07-08)、「8 Port Industrial PoE Switch」(2025-02-21) → 读者兴趣偏「2.5G」；与 P1 同类，继续 最近一封去信是 2026-09-21 A 邮箱模板（在本档最后一条事实之后）——下一封必须回到真人线程、不再叠模板｜已发资料（勿重发）：Product Link_2026Q2(2026-03-03)、Product Link_2026Q3(2026-07-17)；还没给过：7.5 Feature List（下一封可带，但只带与其需求相关的那一页）；再触锚价 STI-288DGGPM $137.5（PDF 上限；30% 档 151.6 超；第 72 批 2026-10-24）；—；群发里他已看到的价（= Simon 实际在用的老表量级；信稿同款不得高于它，要高就先点明原因；2026-06 PDF 的 +10% 从未发出，别提）：2024-09-02 $65（10g media converter）；群发里他已看到的价（续）：2026-08-21 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，2026-07-22→09-08 那轮；现价轮是 $180）——同款信稿写 $180 要点明 9 月前那封是 $170；群发里他已看到的价（续，第 66 批全量复核）：2025-08-08 $300（48 Port PoE Managed Switch）、2025-10-17 $280（10G Enterprise SFP Switch）；Elsa 箱群发里他已看到的价（第 74 批(p) 逐稿读正文，稿价全程不变）：2026-05-11 $280（10G Enterprise SFP Switch = STC-4168XGGCM 双 AC，Elsa 箱 1 轮 2026-05-11；$280 仍是 Simon 在用的群发价（NYNEX 实付 $265.2）——别写主表 377–408 档）；2026-08-04 $170（24 Port PoE Managed Switch = STC-424XGGPM-280W，Elsa 箱 1 轮 2026-08-04；现价轮 $180——同款写 $180 先说 8–9 月那封是 $170）
 - **第一问（只问一个）**：Our site is now live at sagatele.com — which Impulse PoE SKU is sourced from ONV today? Reference: STI-288DGGPM at $137.5 USD EXW (MOQ 1, 15-day validity).
@@ -160,7 +160,7 @@ updated: 2026-10-30
   > Impulse IGS Series: … 4-10 Gigabit PoE ports with IEEE 802.3af/at compliance - Dual DC power input … Operating temperature: -40°C to 75°C … Impulse 6-Port Gigabit PoE Switch (IMP-IGS-1G06CG) … Impulse 10-Port Gigabit PoE Switch (IMP-IGS-1G10CP)
   > 来源：https://impulsecctv.com/blog/choosing-the-right-poe-switch-for-scalable-networks/（抓取 2026-01-30）
 - **KP**：—（总机邮箱）info@impulsecctv.com +1 778-508-3514（温哥华，ZoomInfo）〔https://impulsecctv.com/about-us/〕
-- **调研后定级**：A（原自动 A）——AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（E；2026-01→2026-01）
+- **调研后定级**：B（原自动 A）——A-DEEP-08 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清
 - 备注：LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。
 A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确要贴 logo；P1 = STI-288DGGPM（工业 PoE，对位其在用 ONV 工业 FS），30% OEM 档；注意其印度产线可能要求 SKD/CKD，先问整机。
 
@@ -258,15 +258,19 @@ A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确�
 | 2026-09-21 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026.1.7 | 表 | 表 | CENTEC｜INFO |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：ZoomInfo：Impulse Networks · HQ Vancouver, British Columbia · impulsecctv.com · 51–200 · $5.4M；RocketReach：Impulse CCTV · 4 employees · Gaurav Sharma — Business Development Manager（New Delhi）、Abhinav Garg — Product Specialist（Delhi） — <https://rocketreach.co/impulse-cctv-profile_b77f830fc533f0c2>　*新加坡/温哥华/德里三地叙事、可见团队 4 人（德里）→ 主体与规模不清 → A-DEEP-08 下放 B*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：impulsecctv.com in:email；"impulsecctv.com" in:readme in:description；impulsecctv.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -293,7 +297,7 @@ A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：A 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+15 −16 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-014/`；本节随档案重渲染刷新，实时看日志。
 
@@ -354,7 +358,7 @@ A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确�
 - **第 1 次**：接着上次对方的问题（见跟进记录最后一条客户回复）直接给答案 + STI-288DGGPM 一条规格链接；只问一个问题。
 - **第 2 次**：样机/并行测试邀约（1 台，30 天）；说明 CE/RoHS/FCC/REACH/UKCA，明说无 UL、无 bt（商用线）、无云管理。
 - **第 3 次**：贴牌/定制与批量：MOQ、交期（10–15 天）、付款（T/T 或 PayPal，50/50；定制 100% 预付）；30% 档报价。
-- 节奏：A 级 2–3 周一次，按对方时区工作日发；WhatsApp 已加的优先 WhatsApp 短消息，邮件做正式报价。
+- 节奏：B 级 4–6 周一次（慢慢跟）；只发有信息量的内容（新品/价格窗口/案例），不发纯问候。
 - **停止条件**：3 次定向触达无任何实质回复 → 降 B/C；对方书面拒绝 → C 并记原因。
 
 ## SWOT
@@ -381,7 +385,7 @@ A 确认：安防品牌自有 PoE 交换机线 + 2026 年主动回复 + 明确�
 | 触达通道 | ✅ 企业邮箱 |
 | 现用/在卖交换品牌 | ✅ ONV, FS |
 | 采购量/预算 | ❓ 未确认（有回复但未报量） |
-| 商业资格结论 | **技术上合格 / 商业上有互动证据（成交或实质回复或面谈）→ 值得长期跟进** |
+| 商业资格结论 | **技术上合格 / 商业上未合格（待实质回复）→ 慢慢跟** |
 
 ## Unknowns（待问清单 · 跟进后逐项消除）
 
@@ -417,11 +421,11 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-13**（14 天）：无回复 → 换通道再试一次；仍无 → 降 B。有任何回复 → 当即更新 research JSON 并重渲染。
+- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 94）
+- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 94）；人工/调研定级 → B
 
 ---
 

@@ -57,6 +57,9 @@ DEMOTE = {
 }
 
 
+DEMOTE8 = {  # A-DEEP-08（T29-U143 2026-10-30）：亚太网查
+    'SA-014': 'Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清',
+}
 DEMOTE7 = {  # A-DEEP-07（T29-U143 2026-10-30）：南亚网查
     'SB-343': 'Zekko Tech：4 人、实缴 ₹1 lakh → 微型',
     'SB-169': 'AGS Plus：加济阿巴德小型监控贴牌商，规模无证、社媒 2023 起 → 微型/薄',
@@ -96,8 +99,8 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     cnt = Counter()
     rows = []
-    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()):
-        batch = 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
+    for c, why in list(DEMOTE.items()) + list(DEMOTE3.items()) + list(DEMOTE4.items()) + list(DEMOTE5.items()) + list(DEMOTE6.items()) + list(DEMOTE7.items()) + list(DEMOTE8.items()):
+        batch = 'A-DEEP-08' if c in DEMOTE8 else 'A-DEEP-07' if c in DEMOTE7 else 'A-DEEP-06' if c in DEMOTE6 else ('A-DEEP-05' if c in DEMOTE5 else ('A-DEEP-04' if c in DEMOTE4 else ('A-DEEP-03' if c in DEMOTE3 else BATCH)))
         p = os.path.join(RESEARCH, c + '.json')
         if not os.path.exists(p):
             cnt['no_research'] += 1

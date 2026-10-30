@@ -484,6 +484,26 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "RocketReach / contactout / provilink：Tecpro Solutions Co. L.L.C. · founded 2003 Al Ain · offices Abu Dhabi, Dubai（Khalid Bin Waleed St）, Kochi（India）· 50–72 employees · est. revenue $6.5M · IT & ELV System Integrator & Distributor（TECPRO-Project / TECPRO-Distributions / Software）",
+    "url": "https://contactout.com/company/Tecpro-Solutions-Co-LLC-74911",
+    "note": "",
+    "batch": "INTEL-17",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-30",
+    "quote": "contactout / RocketReach：Mohammed Rafi — Executive Director；Ahmed Salem Alrowahi — Executive Director；Musthafa — Director Sales & Operations；Abdul Rahiman Fahadh — Sales And Purchasing Manager（采购）；Praveen Parameswaran — Sales Manager（Dubai）；Sebin Varghese — Technical Sales Account Manager ELV（Abu Dhabi）",
+    "url": "https://rocketreach.co/tecpro-solution-co-llc-profile_b45d2102fc62e2d2",
+    "note": "销售兼采购经理 Fahadh 是 ELV 配套交换机的采购对口",
+    "batch": "INTEL-17",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

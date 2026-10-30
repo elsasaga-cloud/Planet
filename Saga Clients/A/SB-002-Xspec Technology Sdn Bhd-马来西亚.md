@@ -247,15 +247,19 @@ updated: 2026-10-30
 | 2024-11-18 | 来 | R | 用户表跟进：推「引流机型」→ 对方「passive poe only」 |  |
 | 2024.6.14 | 表 | 表 | 发了商业poE 228信息｜24 port passive poe  后续成单 |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**展会/活动**
+
+- 2026-10-30：MINDTCE：XSPEC TECHNOLOGY SDN BHD 为第 8 届 Malaysia International NDT Conference & Exhibition（2026-11-17～18）参展商；Contact Sugito Wibawa · sugito@xspec.com.my · +60 12 988 8086；JobStreet：11–50 人，Manufacturing Representatives，MY / ID / SG 三地；地址 No.8, Jalan Industri USJ1/8, Subang Jaya — <https://mindtce.com.my/companyprofile/B2611000001>　*PI 成单户：NDT/安防制造商代表（含「Uniformed Bodies」客群 → 守界只谈民用）；每年 11 月 MINDTCE*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：xspectechnology.com in:email；"xspectechnology.com" in:readme in:description；Xspec Technology Sdn Bhd type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、领英公司页、KP、人事变动、新闻/招标（下一轮）
 
 ## 成交记录（PI 包 · 自动汇总）
 

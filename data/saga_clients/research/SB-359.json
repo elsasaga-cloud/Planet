@@ -661,6 +661,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-30",
+    "quote": "ZoomInfo：Larch Networks Ltd · 11 Amal St, Rosh Ha’Ayin, Israel · 11–50 employees（C-level 6 / VP 3 / Manager 10 / 35 non-managers 可见）· Co-Founder & CEO Alexander Cheskis · CTO & Director Engineering Alexander Kaganovsky（2010 至今；ex Aricent / Flextronics Design Ukraine，Kyiv Polytechnic）· CMO Max Rassamakin · 团队含 Linux Kernel Developer（Dmitriy Zhuk，2018 至今）、Embedded Software Developer",
+    "url": "https://www.zoominfo.com/c/larch-networks-ltd/355480109",
+    "note": "以色列交换机软硬件公司（基辅研发）：自牌工业交换机 + 定制固件能力 → 主板/SDK 级 ODM 对位；CTO 是技术决策人",
+    "batch": "INTEL-17",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }

@@ -252,15 +252,19 @@ updated: 2026-10-30
 | 2026-07-02 | 去 | A | Re: Request for DX1518/DX1548 Chips |  |
 | 2026-07-02 | 来 | A | Request for DX1518/DX1548 Chips｜Dear Alan, I hope you are doing well. We would greatly appreciate your assistance. We urgently need 10 pieces of DX151… |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**领英公司页**
+
+- 2026-10-30：ZoomInfo：Larch Networks Ltd · 11 Amal St, Rosh Ha’Ayin, Israel · 11–50 employees（C-level 6 / VP 3 / Manager 10 / 35 non-managers 可见）· Co-Founder & CEO Alexander Cheskis · CTO & Director Engineering Alexander Kaganovsky（2010 至今；ex Aricent / Flextronics Design Ukraine，Kyiv Polytechnic）· CMO Max Rassamakin · 团队含 Linux Kernel Developer（Dmitriy Zhuk，2018 至今）、Embedded Software Developer — <https://www.zoominfo.com/c/larch-networks-ltd/355480109>　*以色列交换机软硬件公司（基辅研发）：自牌工业交换机 + 定制固件能力 → 主板/SDK 级 ODM 对位；CTO 是技术决策人*
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：larch-networks.com in:email；"larch-networks.com" in:readme in:description；larch-networks.com type:org
 
-待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

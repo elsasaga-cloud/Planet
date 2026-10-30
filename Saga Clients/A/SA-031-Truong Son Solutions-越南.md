@@ -278,13 +278,17 @@ A 维持（垂直工业交换机分销 + 已回复 + 对深圳供应链开放）
 | 2026-09-10 | 去 | R |  |  |
 | 2026-09-24 | 去 | A | Managed PoE Switches |  |
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **GitHub/技术足迹**
 
 - 2026-10-30（查过未得）：未得：truongsonsolutions.vn in:email；"truongsonsolutions.vn" in:readme in:description；Truong Son Solutions type:org（同名无关组织/仓库已剔除）
+
+**供应商/品牌关系**
+
+- 2026-10-30：switchcongnghiep.com（「Switch công nghiệp ONV Việt Nam」）：由 Truong Son Solutions Co., Ltd.（CÔNG TY TNHH GIẢI PHÁP VÀ XÂY LẮP TRƯỜNG SƠN）分销 PLANET、Advantech、ONV 工业交换机 + HDLink 摄像机 · 总部 Phòng 702A, Centre Point, 106 Nguyễn Văn Trỗi, Phú Nhuận, TPHCM · 营业办 214/11 Nguyễn Oanh, Gò Vấp · Hotline 0916 799 345 · info@truongsonsolutions.com — <https://switchcongnghiep.com/san-pham/switch-cong-nghiep-planet-igt-905a/>　*胡志明市工业交换机垂直分销（在卖 PLANET/Advantech/ONV = 同品类进口老手）→ 白牌换源对位*
 
 待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标（下一轮）
 

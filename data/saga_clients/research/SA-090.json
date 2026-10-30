@@ -377,6 +377,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Experian MY / CreditScan：WIZARDSINC SDN. BHD. · 201101002484 (930621-U) · incorporated 2011-01-24 · Wilayah Persekutuan · ICT solution & software/hardware, embedded system & security & communication systems, access control & CCTV；官网：Lot 1-2A Incubator 1, Technology Park Malaysia, Bukit Jalil, KL · +603 4044 4044 · info@wizardsinc.co",
+    "url": "https://buy.experian.com.my/index.php/search/Malaysia-Company/930621/WIZARDSINC-SDN.-BHD.",
+    "note": "PI 成单户：吉隆坡科技园 ICT/安防集成商（2011 年）",
+    "batch": "INTEL-16",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  }
