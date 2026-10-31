@@ -2,14 +2,14 @@
  "_comment": "A 类挖底 watch 源（intel_targets.py 离线生成，幂等；与 targets.json / targets_auto.json 合并，源 id 以 intel_ 开头）",
  "generated": "2026-10-30",
  "stats": {
-  "news_en": 144,
-  "news_local": 69,
+  "news_en": 471,
+  "news_local": 240,
   "edgar": 1,
-  "ch": 6,
+  "ch": 8,
   "ir": 4,
   "github": 2,
-  "careers": 2,
-  "skipped_news": 25
+  "careers": 5,
+  "skipped_news": 105
  },
  "customers": [
   {
@@ -75,6 +75,21 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Boecek%20Sec%22&hl=de&gl=DE&ceid=DE:de",
      "note": "Google News 本地语种（DE）：「Boecek Sec」"
+    }
+   ]
+  },
+  {
+   "code": "SA-005",
+   "name": "Taurus Vision",
+   "grade": "B",
+   "country": "南非",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Taurus%20Vision%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Taurus Vision」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -256,6 +271,63 @@
    ]
   },
   {
+   "code": "SA-017",
+   "name": "parallaxdigital.co.uk",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Parallax%20Digital%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Parallax Digital Technologies」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_ch_filings",
+     "kind": "html",
+     "url": "https://find-and-update.company-information.service.gov.uk/company/10314407/filing-history",
+     "note": "Companies House 申报历史（PARALLAX DIGITAL TECHNOLOGIES LIMITED 10314407）：新账目 / 任免 / 地址变更"
+    }
+   ]
+  },
+  {
+   "code": "SA-018",
+   "name": "Sewell",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sewell%20Development%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Sewell Development」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SA-019",
+   "name": "allnet.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ALLNET%20%20Computersysteme%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ALLNET  Computersysteme」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ALLNET%20%20Computersysteme%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「ALLNET  Computersysteme」"
+    }
+   ]
+  },
+  {
    "code": "SA-020",
    "name": "bitstream.pl",
    "grade": "A",
@@ -292,6 +364,21 @@
    ]
   },
   {
+   "code": "SA-022",
+   "name": "Addon Computer Products",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ADD-ON%20COMPUTER%20PERIPHERALS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ADD-ON COMPUTER PERIPHERALS」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SA-023",
    "name": "fcnet.pl",
    "grade": "A",
@@ -309,6 +396,36 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22FCNet%20Future%20Communication%20Networks%22&hl=pl&gl=PL&ceid=PL:pl",
      "note": "Google News 本地语种（PL）：「FCNet Future Communication Networks」"
+    }
+   ]
+  },
+  {
+   "code": "SA-024",
+   "name": "Cable Distribution Services",
+   "grade": "B",
+   "country": "澳大利亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Cable%20Distribution%20Services%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Cable Distribution Services」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SA-025",
+   "name": "Avenger Security（getsecurityalarm.com）",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Avenger%20Security%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Avenger Security」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -499,6 +616,57 @@
    ]
   },
   {
+   "code": "SA-036",
+   "name": "svn-video.ru",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%98%D0%9F%20%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D1%83%D1%86%D0%BA%D0%B0%D1%8F%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ИП Криволуцкая Юлия Викторовна」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%98%D0%9F%20%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D1%83%D1%86%D0%BA%D0%B0%D1%8F%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「ИП Криволуцкая Юлия Викторовна」"
+    }
+   ]
+  },
+  {
+   "code": "SA-037",
+   "name": "aeconnect.co.in",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22AE%20Connect%20India%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「AE Connect India」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SA-038",
+   "name": "dncsolutions.co.in",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DNC%20Technosolutions%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DNC Technosolutions」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SA-039",
    "name": "mt-link.com",
    "grade": "A",
@@ -510,6 +678,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22MT-Link%20Technologies%20Co%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「MT-Link Technologies Co」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SA-041",
+   "name": "lightoptics.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Fibermarkt%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Fibermarkt Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Fibermarkt%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「Fibermarkt Sp. z o.o」"
     }
    ]
   },
@@ -550,6 +739,21 @@
    ]
   },
   {
+   "code": "SA-044",
+   "name": "dymec.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22KYLAND-USA%2C%20%20dba%20DYMEC%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「KYLAND-USA,  dba DYMEC」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SA-045",
    "name": "energyplusystems.cl",
    "grade": "A",
@@ -561,6 +765,21 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Energy%20Plus%20Systems%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Energy Plus Systems」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SA-046",
+   "name": "ipcampower.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IPCamPower%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IPCamPower」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -658,6 +877,42 @@
    ]
   },
   {
+   "code": "SA-053",
+   "name": "infrateq.id",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT%20Divatel%20Pratama%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PT Divatel Pratama」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT%20Divatel%20Pratama%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「PT Divatel Pratama」"
+    }
+   ]
+  },
+  {
+   "code": "SA-054",
+   "name": "softnetworks.net",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Softnetworks%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Softnetworks」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SA-055",
    "name": "NOVA Group Engineering Project Electronic Co LTD",
    "grade": "A",
@@ -675,6 +930,42 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Nova%20Grup%20M%C3%BChendislik%22&hl=tr&gl=TR&ceid=TR:tr",
      "note": "Google News 本地语种（TR）：「Nova Grup Mühendislik」"
+    }
+   ]
+  },
+  {
+   "code": "SA-057",
+   "name": "Born SPb LLC",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Born%20SPb%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Born SPb」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Born%20SPb%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「Born SPb」"
+    }
+   ]
+  },
+  {
+   "code": "SA-058",
+   "name": "alphanetcom.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Alpha%20Net%20Communications%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Alpha Net Communications」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -720,6 +1011,21 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22RYMTECH%20E.A.S%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「RYMTECH E.A.S」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SA-062",
+   "name": "ipns-uae.com",
+   "grade": "B",
+   "country": "阿联酋",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Intelligent%20Professional%20Network%20Solution%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Intelligent Professional Network Solution」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -777,6 +1083,48 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22LATMEDIA%20GROUP%22&hl=ru&gl=RU&ceid=RU:ru",
      "note": "Google News 本地语种（UZ）：「LATMEDIA GROUP」"
+    }
+   ]
+  },
+  {
+   "code": "SA-068",
+   "name": "Pt.ras otomasi indonesia",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT.%20RAS%20Otomasi%20Indonesia%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PT. RAS Otomasi Indonesia」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT.%20RAS%20Otomasi%20Indonesia%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「PT. RAS Otomasi Indonesia」"
+    }
+   ]
+  },
+  {
+   "code": "SA-069",
+   "name": "bptehno.ru",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BPTEHNO%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BPTEHNO」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BPTEHNO%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「BPTEHNO」"
     }
    ]
   },
@@ -855,6 +1203,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Elite%20Team%20Security%20OOD%22&hl=bg&gl=BG&ceid=BG:bg",
      "note": "Google News 本地语种（BG）：「Elite Team Security OOD」"
+    }
+   ]
+  },
+  {
+   "code": "SA-075",
+   "name": "Falke security",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Nuri%20Sahin%20Sicherheitsdienste%20%E2%80%9EFalke%20Security%E2%80%9C%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Nuri Sahin Sicherheitsdienste „Falke Security“」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Nuri%20Sahin%20Sicherheitsdienste%20%E2%80%9EFalke%20Security%E2%80%9C%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Nuri Sahin Sicherheitsdienste „Falke Security“」"
     }
    ]
   },
@@ -1093,6 +1462,27 @@
    ]
   },
   {
+   "code": "SB-005",
+   "name": "rovez.sk",
+   "grade": "B",
+   "country": "斯洛伐克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ROVEZ%2C%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ROVEZ, s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_sk",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ROVEZ%2C%20s.r.o%22&hl=sk&gl=SK&ceid=SK:sk",
+     "note": "Google News 本地语种（SK）：「ROVEZ, s.r.o」"
+    }
+   ]
+  },
+  {
    "code": "SB-006",
    "name": "unitedcontrolengg.com",
    "grade": "A",
@@ -1104,6 +1494,42 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22United%20Control%20Engineers%20India%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「United Control Engineers India」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-008",
+   "name": "Abdulaziz Al Jowasem",
+   "grade": "B",
+   "country": "沙特阿拉伯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Abdulaziz%20Al%20Jowasem%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Abdulaziz Al Jowasem」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-009",
+   "name": "sicurmax.com",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sicurmax%20S.n.c.%20di%20Marzari%20Massimo%20%26%20C%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Sicurmax S.n.c. di Marzari Massimo & C」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sicurmax%20S.n.c.%20di%20Marzari%20Massimo%20%26%20C%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「Sicurmax S.n.c. di Marzari Massimo & C」"
     }
    ]
   },
@@ -1123,6 +1549,249 @@
    ]
   },
   {
+   "code": "SB-011",
+   "name": "greentechme.net",
+   "grade": "B",
+   "country": "阿联酋",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Green%20Technical%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Green Technical」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-013",
+   "name": "synchcom.com.pk",
+   "grade": "B",
+   "country": "巴基斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SYNCHCOM%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SYNCHCOM」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-015",
+   "name": "suministros-industriales.es",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Suministros%20Industriales%20MP4%2C%20S.L%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Suministros Industriales MP4, S.L」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Suministros%20Industriales%20MP4%2C%20S.L%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「Suministros Industriales MP4, S.L」"
+    }
+   ]
+  },
+  {
+   "code": "SB-016",
+   "name": "Richard Jackson",
+   "grade": "B",
+   "country": "坦桑尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Richard%20Jackson%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Richard Jackson」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-017",
+   "name": "Securitytec",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Securitytec%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Securitytec」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-018",
+   "name": "Smart-Protect",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Walker%20Security%20Systems%20UG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Walker Security Systems UG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Walker%20Security%20Systems%20UG%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Walker Security Systems UG」"
+    }
+   ]
+  },
+  {
+   "code": "SB-019",
+   "name": "aetektec.com",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%E9%AB%98%E8%AD%BD%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%20AETEK%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「高譽科技股份有限公司 AETEK」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-021",
+   "name": "LOOP TELECOM",
+   "grade": "B",
+   "country": "法国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Loop%20Telecommunication%20International%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Loop Telecommunication International」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Loop%20Telecommunication%20International%22&hl=fr&gl=FR&ceid=FR:fr",
+     "note": "Google News 本地语种（FR）：「Loop Telecommunication International」"
+    }
+   ]
+  },
+  {
+   "code": "SB-022",
+   "name": "Desk Technologies",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DESK%20Sicherheit%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DESK Sicherheit」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DESK%20Sicherheit%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「DESK Sicherheit」"
+    }
+   ]
+  },
+  {
+   "code": "SB-025",
+   "name": "SIPe",
+   "grade": "B",
+   "country": "法国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SIPE%20Corse%20%E2%80%93%20Soci%C3%A9t%C3%A9%20Insulaire%20de%20Protection%20Electronique%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SIPE Corse – Société Insulaire de Protection Electronique」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SIPE%20Corse%20%E2%80%93%20Soci%C3%A9t%C3%A9%20Insulaire%20de%20Protection%20Electronique%22&hl=fr&gl=FR&ceid=FR:fr",
+     "note": "Google News 本地语种（FR）：「SIPE Corse – Société Insulaire de Protection Electronique」"
+    }
+   ]
+  },
+  {
+   "code": "SB-027",
+   "name": "VoIPDistri",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VoIPDistri.com%20%E2%80%93%20Voice%20over%20IP%20Distribution%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「VoIPDistri.com – Voice over IP Distribution」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VoIPDistri.com%20%E2%80%93%20Voice%20over%20IP%20Distribution%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「VoIPDistri.com – Voice over IP Distribution」"
+    }
+   ]
+  },
+  {
+   "code": "SB-029",
+   "name": "ETRADINGKOREA Co., Ltd",
+   "grade": "B",
+   "country": "韩国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ETRADINGKOREA%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ETRADINGKOREA Co」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ko",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ETRADINGKOREA%20Co%22&hl=ko&gl=KR&ceid=KR:ko",
+     "note": "Google News 本地语种（KR）：「ETRADINGKOREA Co」"
+    }
+   ]
+  },
+  {
+   "code": "SB-030",
+   "name": "Medias-Com'S",
+   "grade": "B",
+   "country": "瑞士",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Medias-Com%27S%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Medias-Com'S」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Medias-Com%27S%22&hl=de&gl=CH&ceid=CH:de",
+     "note": "Google News 本地语种（CH）：「Medias-Com'S」"
+    }
+   ]
+  },
+  {
    "code": "SB-031",
    "name": "OM Telecom S.R.L.",
    "grade": "B",
@@ -1134,6 +1803,21 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22OM%20Telecom%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「OM Telecom」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-035",
+   "name": "Thimphu Techpark",
+   "grade": "B",
+   "country": "不丹",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Thimphu%20Techpark%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Thimphu Techpark」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -1159,6 +1843,66 @@
    ]
   },
   {
+   "code": "SB-040",
+   "name": "4Demand Co",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%224Demand%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「4Demand」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-041",
+   "name": "Telcam Fire&securoty Ltd",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Telcam%20Fire%20%26%20Security%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Telcam Fire & Security」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-044",
+   "name": "Win-Tech Alliance Ltd",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Win-Tech%20Alliance%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Win-Tech Alliance」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-045",
+   "name": "advancedigital.co.in",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Advance%20Digital%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Advance Digital」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-047",
    "name": "topica.mn",
    "grade": "A",
@@ -1180,6 +1924,57 @@
    ]
   },
   {
+   "code": "SB-048",
+   "name": "Almaks Security SystemsGospodara",
+   "grade": "B",
+   "country": "塞尔维亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Almaks%20Security%20Systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Almaks Security Systems」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_sr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Almaks%20Security%20Systems%22&hl=sr&gl=RS&ceid=RS:sr",
+     "note": "Google News 本地语种（RS）：「Almaks Security Systems」"
+    }
+   ]
+  },
+  {
+   "code": "SB-051",
+   "name": "Prestige Satellites Communications S.A.C.",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Prestige%20Satellite%20Communications%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Prestige Satellite Communications」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-052",
+   "name": "excellent data communications",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Excellent%20Data%20Communications%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Excellent Data Communications」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-053",
    "name": "onnettechnologies.com",
    "grade": "A",
@@ -1191,6 +1986,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Onnet%20Technologies%20%26%20Innovations%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Onnet Technologies & Innovations」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-055",
+   "name": "DIOS ULTRA HD VIDEO SECURITY SYSTEMS",
+   "grade": "B",
+   "country": "荷兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DIOS%20Ultra%20HD%20Video%20Security%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DIOS Ultra HD Video Security」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_nl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DIOS%20Ultra%20HD%20Video%20Security%22&hl=nl&gl=NL&ceid=NL:nl",
+     "note": "Google News 本地语种（NL）：「DIOS Ultra HD Video Security」"
     }
    ]
   },
@@ -1231,6 +2047,27 @@
    ]
   },
   {
+   "code": "SB-058",
+   "name": "SABMARtv",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sabmartv%20Marcin%20Wypior%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Sabmartv Marcin Wypior」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sabmartv%20Marcin%20Wypior%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「Sabmartv Marcin Wypior」"
+    }
+   ]
+  },
+  {
    "code": "SB-059",
    "name": "avanca.com.sg",
    "grade": "B",
@@ -1246,6 +2083,78 @@
    ]
   },
   {
+   "code": "SB-060",
+   "name": "bargas.ru",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bargas%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Bargas」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bargas%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「Bargas」"
+    }
+   ]
+  },
+  {
+   "code": "SB-062",
+   "name": "Aarya ITES Pvt. Ltd.",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Aarya%20ITES%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Aarya ITES」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-063",
+   "name": "Avesta",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Avesta%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Avesta」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-070",
+   "name": "neowine",
+   "grade": "B",
+   "country": "韩国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Neowine%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Neowine Co」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ko",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Neowine%20Co%22&hl=ko&gl=KR&ceid=KR:ko",
+     "note": "Google News 本地语种（KR）：「Neowine Co」"
+    }
+   ]
+  },
+  {
    "code": "SB-071",
    "name": "nkstech.net",
    "grade": "A",
@@ -1257,6 +2166,33 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Nayon%20Kontrol%20Systems%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Nayon Kontrol Systems」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-073",
+   "name": "ANB rimex",
+   "grade": "B",
+   "country": "比利时",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22A.N.B.%20Rimex%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「A.N.B. Rimex」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_nl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22A.N.B.%20Rimex%22&hl=nl&gl=BE&ceid=BE:nl",
+     "note": "Google News 本地语种（BE）：「A.N.B. Rimex」"
+    },
+    {
+     "id": "intel_careers",
+     "kind": "html",
+     "url": "https://anb-rimex.be/en/about-us/jobs/",
+     "note": "官网招聘页（人事变动 / 扩张信号）"
     }
    ]
   },
@@ -1278,6 +2214,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Bilge%20G%C3%BCvenlik%20Sistemleri%20ve%20Teknoloji%22&hl=tr&gl=TR&ceid=TR:tr",
      "note": "Google News 本地语种（TR）：「Bilge Güvenlik Sistemleri ve Teknoloji」"
+    }
+   ]
+  },
+  {
+   "code": "SB-075",
+   "name": "Gmka",
+   "grade": "B",
+   "country": "希腊",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22GEMKA%20%E2%80%93%20Karydis%20Bros%20O.E%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「GEMKA – Karydis Bros O.E」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_el",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22GEMKA%20%E2%80%93%20Karydis%20Bros%20O.E%22&hl=el&gl=GR&ceid=GR:el",
+     "note": "Google News 本地语种（GR）：「GEMKA – Karydis Bros O.E」"
     }
    ]
   },
@@ -1315,6 +2272,372 @@
    ]
   },
   {
+   "code": "SB-079",
+   "name": "cansisteknoloji.com",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Cansis%20Teknoloji%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Cansis Teknoloji」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Cansis%20Teknoloji%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「Cansis Teknoloji」"
+    }
+   ]
+  },
+  {
+   "code": "SB-080",
+   "name": "cyber-tec.net",
+   "grade": "B",
+   "country": "伊拉克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Cyber%20Tec%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Cyber Tec」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-083",
+   "name": "MERIT LILIN ENT. CO., LTD.",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Merit%20LILIN%20Ent.%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Merit LILIN Ent. Co」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-084",
+   "name": "AD-NET TECHNOLOGY CO., LTD.",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22AD-NET%20Technology%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「AD-NET Technology Co」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-085",
+   "name": "DIGI Group",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Thor%20Fiber%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Thor Fiber」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-086",
+   "name": "TAILYN",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Tailyn%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Tailyn Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-087",
+   "name": "ASSMANN ASIA",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ASSMANN%20Asia%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ASSMANN Asia」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-088",
+   "name": "EDIMAX",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EDIMAX%20Technology%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「EDIMAX Technology Co」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-089",
+   "name": "Winsonic Electronics Co., Ltd.",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Winsonic%20Electronics%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Winsonic Electronics Co」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-092",
+   "name": "spacetronik.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Spacetronik%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Spacetronik Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Spacetronik%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「Spacetronik Sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1000",
+   "name": "alphaelettronica.com",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Alpha%20Elettronica%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Alpha Elettronica」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Alpha%20Elettronica%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「Alpha Elettronica」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1003",
+   "name": "aplusnet.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22aplus%20Datenkabel%20und%20Kommunikationssysteme%20%20%26%20Co.%20KG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「aplus Datenkabel und Kommunikationssysteme  & Co. KG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22aplus%20Datenkabel%20und%20Kommunikationssysteme%20%20%26%20Co.%20KG%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「aplus Datenkabel und Kommunikationssysteme  & Co. KG」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1004",
+   "name": "arpeo.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Arpeo%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Arpeo Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Arpeo%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「Arpeo Sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1011",
+   "name": "binarteknik.se",
+   "grade": "B",
+   "country": "瑞典",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bin%C3%A4r%20Teknik%20Scandinavia%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Binär Teknik Scandinavia」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_sv",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bin%C3%A4r%20Teknik%20Scandinavia%22&hl=sv&gl=SE&ceid=SE:sv",
+     "note": "Google News 本地语种（SE）：「Binär Teknik Scandinavia」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1014",
+   "name": "bluenote.ro",
+   "grade": "B",
+   "country": "罗马尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BLUENOTE%20COMMUNICATIONS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BLUENOTE COMMUNICATIONS」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ro",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BLUENOTE%20COMMUNICATIONS%22&hl=ro&gl=RO&ceid=RO:ro",
+     "note": "Google News 本地语种（RO）：「BLUENOTE COMMUNICATIONS」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1016",
+   "name": "cae-groupe.com",
+   "grade": "B",
+   "country": "法国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ADALTRA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ADALTRA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ADALTRA%22&hl=fr&gl=FR&ceid=FR:fr",
+     "note": "Google News 本地语种（FR）：「ADALTRA」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1017",
+   "name": "cellco.com.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Cellco%20Communications%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Cellco Communications Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Cellco%20Communications%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「Cellco Communications Sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1019",
+   "name": "connectixcablingsystems.com",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Connectix%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Connectix」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-1025",
+   "name": "elfon.com.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELFON%20Mi%C4%99kina%20Sp.%20K%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ELFON Miękina Sp. K」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELFON%20Mi%C4%99kina%20Sp.%20K%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「ELFON Miękina Sp. K」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1029",
+   "name": "fibersystem.com",
+   "grade": "B",
+   "country": "瑞典",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Fibersystem%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Fibersystem」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_sv",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Fibersystem%22&hl=sv&gl=SE&ceid=SE:sv",
+     "note": "Google News 本地语种（SE）：「Fibersystem」"
+    }
+   ]
+  },
+  {
    "code": "SB-103",
    "name": "Grundig",
    "grade": "A",
@@ -1332,6 +2655,21 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Abetechs%22&hl=de&gl=DE&ceid=DE:de",
      "note": "Google News 本地语种（DE）：「Abetechs」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1038",
+   "name": "icecom.is",
+   "grade": "B",
+   "country": "冰岛",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IceCom%20ehf%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IceCom ehf」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -1357,6 +2695,225 @@
    ]
   },
   {
+   "code": "SB-1044",
+   "name": "ipcctv.ch",
+   "grade": "B",
+   "country": "瑞士",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IP%20CCTV%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IP CCTV」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IP%20CCTV%22&hl=de&gl=CH&ceid=CH:de",
+     "note": "Google News 本地语种（CH）：「IP CCTV」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1047",
+   "name": "kamsys.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22KAMSYS%20Piotr%20B%C5%82o%C5%84ski%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「KAMSYS Piotr Błoński」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22KAMSYS%20Piotr%20B%C5%82o%C5%84ski%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「KAMSYS Piotr Błoński」"
+    }
+   ]
+  },
+  {
+   "code": "SB-105",
+   "name": "cenova.com.tr",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CENOVA%20B%C4%B0L%C4%B0%C5%9E%C4%B0M%20TEKNOLOJ%C4%B0LER%C4%B0%20%C4%B0TH.%20%C4%B0HR.%20ve%20T%C4%B0C.%20%20%C5%9ET%C4%B0%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC.  ŞTİ」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CENOVA%20B%C4%B0L%C4%B0%C5%9E%C4%B0M%20TEKNOLOJ%C4%B0LER%C4%B0%20%C4%B0TH.%20%C4%B0HR.%20ve%20T%C4%B0C.%20%20%C5%9ET%C4%B0%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC.  ŞTİ」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1057",
+   "name": "mondoplast.ro",
+   "grade": "B",
+   "country": "罗马尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SC%20MONDO%20PLAST%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SC MONDO PLAST」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ro",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SC%20MONDO%20PLAST%22&hl=ro&gl=RO&ceid=RO:ro",
+     "note": "Google News 本地语种（RO）：「SC MONDO PLAST」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1063",
+   "name": "pc-industriali.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22HARDWARE%20SOLUTIONS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「HARDWARE SOLUTIONS」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22HARDWARE%20SOLUTIONS%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「HARDWARE SOLUTIONS」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1067",
+   "name": "raytelsecurity.com",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Raytel%20Security%20Systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Raytel Security Systems」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-1079",
+   "name": "spesaelettrica.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SPESA%20ELETTRICA%20S.C.A.R.L%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SPESA ELETTRICA S.C.A.R.L」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SPESA%20ELETTRICA%20S.C.A.R.L%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「SPESA ELETTRICA S.C.A.R.L」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1082",
+   "name": "standardaudio.se",
+   "grade": "B",
+   "country": "瑞典",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Standard%20Audio%20Systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Standard Audio Systems」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_sv",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Standard%20Audio%20Systems%22&hl=sv&gl=SE&ceid=SE:sv",
+     "note": "Google News 本地语种（SE）：「Standard Audio Systems」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1085",
+   "name": "tayama.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TAYAMA%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TAYAMA Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TAYAMA%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「TAYAMA Sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1086",
+   "name": "teamtelecom.ro",
+   "grade": "B",
+   "country": "罗马尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TEAM%20TELECOM%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TEAM TELECOM」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ro",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TEAM%20TELECOM%22&hl=ro&gl=RO&ceid=RO:ro",
+     "note": "Google News 本地语种（RO）：「TEAM TELECOM」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1088",
+   "name": "tipteh.com",
+   "grade": "B",
+   "country": "斯洛文尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TIPTEH%20d.o.o.%2C%20zastopanje%20in%20distribucija%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TIPTEH d.o.o., zastopanje in distribucija」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-109",
    "name": "ite.net.pk",
    "grade": "A",
@@ -1372,6 +2929,78 @@
    ]
   },
   {
+   "code": "SB-1093",
+   "name": "vercoma.nl",
+   "grade": "B",
+   "country": "荷兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Vercoma%20Communicatie%20Systemen%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Vercoma Communicatie Systemen」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_nl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Vercoma%20Communicatie%20Systemen%22&hl=nl&gl=NL&ceid=NL:nl",
+     "note": "Google News 本地语种（NL）：「Vercoma Communicatie Systemen」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1094",
+   "name": "videobits.co.uk",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Leading%20Light%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Leading Light Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-1097",
+   "name": "yatun.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22YATUN%2C%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「YATUN, s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22YATUN%2C%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「YATUN, s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1099",
+   "name": "zxtech.co",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ZXTECH%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ZXTECH」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-110",
    "name": "itkati.com",
    "grade": "B",
@@ -1383,6 +3012,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22iTKATI%20UG%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「iTKATI UG」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-1100",
+   "name": "IT Broadcast & Cyber Security Infra System",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IT%20Broadcast%20%26%20Cyber%20Security%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IT Broadcast & Cyber Security」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IT%20Broadcast%20%26%20Cyber%20Security%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「IT Broadcast & Cyber Security」"
     }
    ]
   },
@@ -1404,6 +3054,66 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Vi%E1%BB%85n%20Th%C3%B4ng%20Gi%C3%A1%20T%E1%BB%91t%22&hl=vi&gl=VN&ceid=VN:vi",
      "note": "Google News 本地语种（VN）：「Viễn Thông Giá Tốt」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1104",
+   "name": "Agility Elektrotekniks Pvt Ltd",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Agility%20Elektrotekniks%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Agility Elektrotekniks」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-1105",
+   "name": "Suraj Katte",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Suraj%20Katte%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Suraj Katte」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-1108",
+   "name": "Sunmars Enterprises",
+   "grade": "B",
+   "country": "巴基斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SunMars%20Enterprises%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SunMars Enterprises」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-1110",
+   "name": "amineachoura21@gmail.com",
+   "grade": "B",
+   "country": "阿尔及利亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Amine%20Achoura%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Amine Achoura」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -1468,6 +3178,21 @@
    ]
   },
   {
+   "code": "SB-1117",
+   "name": "Switchcom Distribution (Pty) Ltd",
+   "grade": "B",
+   "country": "南非",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Switchcom%20Distribution%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Switchcom Distribution」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-1120",
    "name": "Obmac systems 可以推一下",
    "grade": "A",
@@ -1500,6 +3225,48 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Comtinu%22&hl=ru&gl=RU&ceid=RU:ru",
      "note": "Google News 本地语种（RU）：「Comtinu」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1130",
+   "name": "cnstech.gr",
+   "grade": "B",
+   "country": "希腊",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CNSTECH%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CNSTECH」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_el",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CNSTECH%22&hl=el&gl=GR&ceid=GR:el",
+     "note": "Google News 本地语种（GR）：「CNSTECH」"
+    }
+   ]
+  },
+  {
+   "code": "SB-1132",
+   "name": "nedic.aleksandar@gmail.com",
+   "grade": "B",
+   "country": "塞尔维亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Aleksandar%20Nedi%C4%87%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Aleksandar Nedić」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_sr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Aleksandar%20Nedi%C4%87%22&hl=sr&gl=RS&ceid=RS:sr",
+     "note": "Google News 本地语种（RS）：「Aleksandar Nedić」"
     }
    ]
   },
@@ -1591,6 +3358,72 @@
    ]
   },
   {
+   "code": "SB-1139",
+   "name": "arnoldomohr@gmail.com",
+   "grade": "B",
+   "country": "危地马拉",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Arnoldo%20Beltet%C3%B3n%20Mohr%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Arnoldo Beltetón Mohr」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-116",
+   "name": "Pyramid Enterprises",
+   "grade": "B",
+   "country": "津巴布韦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Pyramid%20Enterprises%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Pyramid Enterprises」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-117",
+   "name": "Softline Technology",
+   "grade": "B",
+   "country": "科威特",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Softline%20Technology%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Softline Technology」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-118",
+   "name": "genrov.com",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Genrov%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Genrov」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_ch_filings",
+     "kind": "html",
+     "url": "https://find-and-update.company-information.service.gov.uk/company/06899120/filing-history",
+     "note": "Companies House 申报历史（GENROV LTD 06899120）：新账目 / 任免 / 地址变更"
+    }
+   ]
+  },
+  {
    "code": "SB-119",
    "name": "wirestar.net",
    "grade": "A",
@@ -1606,6 +3439,21 @@
    ]
   },
   {
+   "code": "SB-120",
+   "name": "Pronet Connectivity (Pvt) Ltd.",
+   "grade": "B",
+   "country": "巴基斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Pronet%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Pronet」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-122",
    "name": "Tera Technologies and Engineering Ltd",
    "grade": "A",
@@ -1617,6 +3465,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Tera%20Technologies%20and%20Engineering%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Tera Technologies and Engineering」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-130",
+   "name": "Bonmag International",
+   "grade": "B",
+   "country": "罗马尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BONMAG%20INTERNATIONAL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BONMAG INTERNATIONAL」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ro",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BONMAG%20INTERNATIONAL%22&hl=ro&gl=RO&ceid=RO:ro",
+     "note": "Google News 本地语种（RO）：「BONMAG INTERNATIONAL」"
     }
    ]
   },
@@ -1735,6 +3604,21 @@
    ]
   },
   {
+   "code": "SB-147",
+   "name": "genieproducts.co.uk",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BIOACCESS%20SALES%20%20t%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BIOACCESS SALES  t」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-149",
    "name": "klasnet.com.tr",
    "grade": "B",
@@ -1752,6 +3636,63 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Klasnet%20%C4%B0leti%C5%9Fim%20ve%20G%C3%BCvenlik%22&hl=tr&gl=TR&ceid=TR:tr",
      "note": "Google News 本地语种（TR）：「Klasnet İletişim ve Güvenlik」"
+    }
+   ]
+  },
+  {
+   "code": "SB-151",
+   "name": "optiwatch monitoring solution",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Optiwatch%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Optiwatch」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-153",
+   "name": "sinerjik",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sinerjik%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Sinerjik」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sinerjik%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「Sinerjik」"
+    }
+   ]
+  },
+  {
+   "code": "SB-159",
+   "name": "elmospa.com",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EL.MO.%20%20a%20socio%20unico%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「EL.MO.  a socio unico」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EL.MO.%20%20a%20socio%20unico%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「EL.MO.  a socio unico」"
     }
    ]
   },
@@ -1819,6 +3760,21 @@
    ]
   },
   {
+   "code": "SB-166",
+   "name": "Crown Security Solutions",
+   "grade": "B",
+   "country": "卡塔尔",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Crown%20Security%20Solutions%20W.L.L%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Crown Security Solutions W.L.L」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-167",
    "name": "ONSIS ELEKTRONIK",
    "grade": "B",
@@ -1855,6 +3811,48 @@
    ]
   },
   {
+   "code": "SB-170",
+   "name": "balter.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Balter%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Balter」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Balter%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Balter」"
+    }
+   ]
+  },
+  {
+   "code": "SB-172",
+   "name": "consteel-electronics.com",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CONSTEEL%20Electronics%20Sp.%20z%20o.o.%20Sp.%20k%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CONSTEEL Electronics Sp. z o.o. Sp. k」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CONSTEEL%20Electronics%20Sp.%20z%20o.o.%20Sp.%20k%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「CONSTEEL Electronics Sp. z o.o. Sp. k」"
+    }
+   ]
+  },
+  {
    "code": "SB-173",
    "name": "inaxsys.com",
    "grade": "A",
@@ -1881,6 +3879,42 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22M.%20Al%20Barghash%20Trading%20%26%20Contracting%20Co%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「M. Al Barghash Trading & Contracting Co」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-179",
+   "name": "CRISPY CREPES",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CRISPY%20CREPES%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CRISPY CREPES」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CRISPY%20CREPES%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「CRISPY CREPES」"
+    }
+   ]
+  },
+  {
+   "code": "SB-182",
+   "name": "NETBOWL PTY LTD",
+   "grade": "B",
+   "country": "博茨瓦纳",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Netbowl%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Netbowl」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -1921,6 +3955,42 @@
    ]
   },
   {
+   "code": "SB-190",
+   "name": "A Hamson Middle East FZE",
+   "grade": "B",
+   "country": "阿联酋",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22A%20Hamson%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「A Hamson」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-191",
+   "name": "Astkom",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%90%D1%81%D1%82%D0%BA%D0%BE%D0%BC%C2%BB%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ООО «Астком»」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%90%D1%81%D1%82%D0%BA%D0%BE%D0%BC%C2%BB%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「ООО «Астком»」"
+    }
+   ]
+  },
+  {
    "code": "SB-193",
    "name": "Dema Vertriebs GmbH",
    "grade": "A",
@@ -1938,6 +4008,198 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22DEMA%20Vertriebs%22&hl=de&gl=DE&ceid=DE:de",
      "note": "Google News 本地语种（DE）：「DEMA Vertriebs」"
+    }
+   ]
+  },
+  {
+   "code": "SB-194",
+   "name": "SRI ANNAI BUSINESS ASSOCIATES",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Sri%20Annai%20Business%20Associates%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Sri Annai Business Associates」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-196",
+   "name": "extradigital.eu",
+   "grade": "B",
+   "country": "立陶宛",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EURODIGITAL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「EURODIGITAL」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-202",
+   "name": "Engineering Group Contractors",
+   "grade": "B",
+   "country": "黎巴嫩",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Engineering%20Group%20Contractors%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Engineering Group Contractors」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-203",
+   "name": "PT. Suryatama",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT.%20Suryatama%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PT. Suryatama」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT.%20Suryatama%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「PT. Suryatama」"
+    }
+   ]
+  },
+  {
+   "code": "SB-205",
+   "name": "barox.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Barox%20Kommunikation%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Barox Kommunikation」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Barox%20Kommunikation%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Barox Kommunikation」"
+    }
+   ]
+  },
+  {
+   "code": "SB-207",
+   "name": "ccontrols.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Contemporary%20Controls%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Contemporary Controls」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Contemporary%20Controls%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Contemporary Controls」"
+    }
+   ]
+  },
+  {
+   "code": "SB-208",
+   "name": "delock.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TRAGANT%20Handels-%20und%20Beteiligungsgesellschaft%20mbH%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TRAGANT Handels- und Beteiligungsgesellschaft mbH」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TRAGANT%20Handels-%20und%20Beteiligungsgesellschaft%20mbH%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「TRAGANT Handels- und Beteiligungsgesellschaft mbH」"
+    }
+   ]
+  },
+  {
+   "code": "SB-210",
+   "name": "deonet.co.kr",
+   "grade": "B",
+   "country": "韩国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Deonet%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Deonet Co」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ko",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Deonet%20Co%22&hl=ko&gl=KR&ceid=KR:ko",
+     "note": "Google News 本地语种（KR）：「Deonet Co」"
+    }
+   ]
+  },
+  {
+   "code": "SB-218",
+   "name": "nag.ru",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%9D%D0%90%D0%93%C2%BB%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ООО «НАГ»」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9E%D0%9E%D0%9E%20%C2%AB%D0%9D%D0%90%D0%93%C2%BB%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「ООО «НАГ»」"
+    }
+   ]
+  },
+  {
+   "code": "SB-224",
+   "name": "Arsenal TV",
+   "grade": "B",
+   "country": "罗马尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Arsenal%20TV%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Arsenal TV」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ro",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Arsenal%20TV%22&hl=ro&gl=RO&ceid=RO:ro",
+     "note": "Google News 本地语种（RO）：「Arsenal TV」"
     }
    ]
   },
@@ -1984,6 +4246,165 @@
    ]
   },
   {
+   "code": "SB-227",
+   "name": "NKF wireless internet and services",
+   "grade": "B",
+   "country": "菲律宾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22NKF%20Wireless%20Internet%20and%20Services%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「NKF Wireless Internet and Services」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-229",
+   "name": "TESCOM COMPANY LIMITED",
+   "grade": "B",
+   "country": "坦桑尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TESCOM%20Company%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TESCOM Company」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-231",
+   "name": "advance.technology",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ADVANCE%20TECHNOLOGY%20SOLUTIONS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ADVANCE TECHNOLOGY SOLUTIONS」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-232",
+   "name": "aixontec.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22AIXONTEC%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「AIXONTEC」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22AIXONTEC%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「AIXONTEC」"
+    }
+   ]
+  },
+  {
+   "code": "SB-238",
+   "name": "digimax.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DIGIMAX%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DIGIMAX」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DIGIMAX%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「DIGIMAX」"
+    }
+   ]
+  },
+  {
+   "code": "SB-239",
+   "name": "empicstar.com",
+   "grade": "B",
+   "country": "尼日利亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Empicstar%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Empicstar」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-240",
+   "name": "frogfish.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22frogfish%20surveillance%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「frogfish surveillance」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22frogfish%20surveillance%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「frogfish surveillance」"
+    }
+   ]
+  },
+  {
+   "code": "SB-241",
+   "name": "gluszek.tomasz@gmail.com",
+   "grade": "B",
+   "country": "爱尔兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Tomasz%20G%C5%82uszek%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Tomasz Głuszek」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-242",
+   "name": "grothe.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Grothe%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Grothe」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Grothe%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Grothe」"
+    }
+   ]
+  },
+  {
    "code": "SB-243",
    "name": "hfcl.com",
    "grade": "A",
@@ -1999,6 +4420,27 @@
    ]
   },
   {
+   "code": "SB-246",
+   "name": "isnetworks.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IS%20NETWORKS%20Marek%20Kubas%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IS NETWORKS Marek Kubas」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IS%20NETWORKS%20Marek%20Kubas%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「IS NETWORKS Marek Kubas」"
+    }
+   ]
+  },
+  {
    "code": "SB-248",
    "name": "nellyssecurity.com",
    "grade": "A",
@@ -2010,6 +4452,42 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Nelly%27s%20Security%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Nelly's Security」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-251",
+   "name": "pixcom.ae",
+   "grade": "B",
+   "country": "阿联酋",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Pixcom%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Pixcom Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-254",
+   "name": "sicurtecnicanapoli.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SICURTECNICA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SICURTECNICA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SICURTECNICA%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「SICURTECNICA」"
     }
    ]
   },
@@ -2050,6 +4528,63 @@
    ]
   },
   {
+   "code": "SB-257",
+   "name": "voxplus.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VOXPLUS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「VOXPLUS」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VOXPLUS%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「VOXPLUS」"
+    }
+   ]
+  },
+  {
+   "code": "SB-261",
+   "name": "RecTec servis, s.r.o.",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22RecTec%20servis%2C%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「RecTec servis, s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22RecTec%20servis%2C%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「RecTec servis, s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-264",
+   "name": "TIER1 DATA SYSTEMS LIMITED",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TIER1%20DATA%20SYSTEMS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TIER1 DATA SYSTEMS」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-267",
    "name": "bio-cognitive.com",
    "grade": "B",
@@ -2061,6 +4596,48 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Bio-Cognitive%20Pte%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Bio-Cognitive Pte」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-269",
+   "name": "contradata.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Contradata%20Milano%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Contradata Milano」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Contradata%20Milano%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「Contradata Milano」"
+    }
+   ]
+  },
+  {
+   "code": "SB-271",
+   "name": "dodicelettronica.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DODIC%20ELETTRONICA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DODIC ELETTRONICA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DODIC%20ELETTRONICA%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「DODIC ELETTRONICA」"
     }
    ]
   },
@@ -2086,6 +4663,207 @@
    ]
   },
   {
+   "code": "SB-279",
+   "name": "marlexconexion.com",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22MARLEX%20CONEXION%20SL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「MARLEX CONEXION SL」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22MARLEX%20CONEXION%20SL%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「MARLEX CONEXION SL」"
+    }
+   ]
+  },
+  {
+   "code": "SB-283",
+   "name": "oncuguvenlik.com.tr",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%C3%96NC%C3%9C%20G%C3%9CVENL%C4%B0K%20S%C4%B0STEMLER%C4%B0%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ÖNCÜ GÜVENLİK SİSTEMLERİ」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%C3%96NC%C3%9C%20G%C3%9CVENL%C4%B0K%20S%C4%B0STEMLER%C4%B0%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「ÖNCÜ GÜVENLİK SİSTEMLERİ」"
+    }
+   ]
+  },
+  {
+   "code": "SB-288",
+   "name": "secomp-international.com",
+   "grade": "B",
+   "country": "瑞士",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SECOMP%20International%20AG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SECOMP International AG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SECOMP%20International%20AG%22&hl=de&gl=CH&ceid=CH:de",
+     "note": "Google News 本地语种（CH）：「SECOMP International AG」"
+    }
+   ]
+  },
+  {
+   "code": "SB-289",
+   "name": "sisav.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SISTEMI%20AVANZATI%20ELETTRONICI%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SISTEMI AVANZATI ELETTRONICI」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SISTEMI%20AVANZATI%20ELETTRONICI%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「SISTEMI AVANZATI ELETTRONICI」"
+    }
+   ]
+  },
+  {
+   "code": "SB-295",
+   "name": "wicomsolutions.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22WI-COM%20SOLUTIONS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「WI-COM SOLUTIONS」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22WI-COM%20SOLUTIONS%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「WI-COM SOLUTIONS」"
+    }
+   ]
+  },
+  {
+   "code": "SB-297",
+   "name": "Chisinau, Ion Creanga 66, Chisinau, Chisinau, Republic of Moldova, 2064",
+   "grade": "B",
+   "country": "摩尔多瓦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Gorgos%20Cristian%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Gorgos Cristian」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-305",
+   "name": "Bits&Byte CONSULTING PVT LTD",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bits%26Byte%20Consulting%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Bits&Byte Consulting」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-307",
+   "name": "Saxco Marketing Sdn Bhd",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Saxco%20Marketing%20Sdn%20Bhd%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Saxco Marketing Sdn Bhd」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-309",
+   "name": "alternetivo.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Alternetivo%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Alternetivo s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Alternetivo%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「Alternetivo s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-310",
+   "name": "arcanlibya.com",
+   "grade": "B",
+   "country": "利比亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Arcan%20Libya%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Arcan Libya」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-313",
+   "name": "intellcom.net",
+   "grade": "B",
+   "country": "格鲁吉亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%E1%83%A8%E1%83%9E%E1%83%A1%20%E1%83%98%E1%83%9C%E1%83%A2%E1%83%94%E1%83%9A%E1%83%99%E1%83%9D%E1%83%9B%20%E1%83%AF%E1%83%92%E1%83%A3%E1%83%A4%E1%83%98%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「შპს ინტელკომ ჯგუფი」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-315",
    "name": "stc-vietnam.com",
    "grade": "A",
@@ -2107,6 +4885,78 @@
    ]
   },
   {
+   "code": "SB-317",
+   "name": "techfors.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Techfors%20CZ%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Techfors CZ s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Techfors%20CZ%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「Techfors CZ s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-320",
+   "name": "353311@mail.ru",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Vasiliy%20Kryukov%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Vasiliy Kryukov」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Vasiliy%20Kryukov%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「Vasiliy Kryukov」"
+    }
+   ]
+  },
+  {
+   "code": "SB-322",
+   "name": "Blackbear TechHive",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BlackBear%20TechHive%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BlackBear TechHive」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-324",
+   "name": "Elhem Trading Co., Sal",
+   "grade": "B",
+   "country": "黎巴嫩",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Elhem%20Trading%20Co.%20Sal%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Elhem Trading Co. Sal」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-326",
    "name": "PROXEET LIMITED",
    "grade": "A",
@@ -2122,6 +4972,21 @@
    ]
   },
   {
+   "code": "SB-327",
+   "name": "Techno Tower",
+   "grade": "B",
+   "country": "黎巴嫩",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Techno%20Tower%20Sarl%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Techno Tower Sarl」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-331",
    "name": "retelem-dz.com",
    "grade": "A",
@@ -2133,6 +4998,72 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22EPE%20RETELEM%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「EPE RETELEM」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-336",
+   "name": "INTERCOAX CO.,LTD",
+   "grade": "B",
+   "country": "韩国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22INTERCOAX%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「INTERCOAX Co」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ko",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22INTERCOAX%20Co%22&hl=ko&gl=KR&ceid=KR:ko",
+     "note": "Google News 本地语种（KR）：「INTERCOAX Co」"
+    }
+   ]
+  },
+  {
+   "code": "SB-337",
+   "name": "Kimberley telecommunications",
+   "grade": "B",
+   "country": "肯尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Kimberley%20Telecommunications%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Kimberley Telecommunications」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-339",
+   "name": "OMEGATEC SARL",
+   "grade": "B",
+   "country": "喀麦隆",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22OMEGATEC%20SARL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「OMEGATEC SARL」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-340",
+   "name": "ROCKBIOS Limited",
+   "grade": "B",
+   "country": "加纳",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ROCKBIOS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ROCKBIOS」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -2158,6 +5089,96 @@
    ]
   },
   {
+   "code": "SB-349",
+   "name": "dualcomm.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Dualcomm%20Technology%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Dualcomm Technology」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-356",
+   "name": "infinicoreinc.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Infinicore%20Incorporated%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Infinicore Incorporated」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-357",
+   "name": "infonet-tech.com",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Infonet%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Infonet」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-360",
+   "name": "longtek",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Longtek%20Electronics%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Longtek Electronics」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-364",
+   "name": "nitrotelmanufacturing.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Nitrotel%20Manufacturing%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Nitrotel Manufacturing」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-366",
+   "name": "th-it.com",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TH%20IT%20Resource%20Centre%20Sdn%20Bhd%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TH IT Resource Centre Sdn Bhd」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-367",
    "name": "thuyluc.com",
    "grade": "B",
@@ -2175,6 +5196,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22C%C3%B4ng%20ty%20C%E1%BB%95%20Ph%E1%BA%A7n%20MTS%22&hl=vi&gl=VN&ceid=VN:vi",
      "note": "Google News 本地语种（VN）：「Công ty Cổ Phần MTS」"
+    }
+   ]
+  },
+  {
+   "code": "SB-369",
+   "name": "wieland-electric.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Wieland%20Electric%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Wieland Electric」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Wieland%20Electric%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Wieland Electric」"
     }
    ]
   },
@@ -2257,6 +5299,270 @@
    ]
   },
   {
+   "code": "SB-393",
+   "name": "mapleye.com",
+   "grade": "B",
+   "country": "加拿大",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Mapleye%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Mapleye Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-394",
+   "name": "maxtel.bg",
+   "grade": "B",
+   "country": "保加利亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9C%D0%90%D0%9A%D0%A1%D0%A2%D0%95%D0%9B%20%D0%9E%D0%9E%D0%94%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「МАКСТЕЛ ООД」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_bg",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9C%D0%90%D0%9A%D0%A1%D0%A2%D0%95%D0%9B%20%D0%9E%D0%9E%D0%94%22&hl=bg&gl=BG&ceid=BG:bg",
+     "note": "Google News 本地语种（BG）：「МАКСТЕЛ ООД」"
+    },
+    {
+     "id": "intel_careers",
+     "kind": "html",
+     "url": "https://maxtel.bg/about-our-company/jobs/",
+     "note": "官网招聘页（人事变动 / 扩张信号）"
+    }
+   ]
+  },
+  {
+   "code": "SB-401",
+   "name": "securasound.co.uk",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SECURASOUND%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SECURASOUND」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-405",
+   "name": "tinycontrol.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22tinycontrol%20Marcin%20Nosek%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「tinycontrol Marcin Nosek」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22tinycontrol%20Marcin%20Nosek%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「tinycontrol Marcin Nosek」"
+    }
+   ]
+  },
+  {
+   "code": "SB-412",
+   "name": "InterConnectivity Computer Solutions",
+   "grade": "B",
+   "country": "菲律宾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22InterConnectivity%20Computer%20Solutions%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「InterConnectivity Computer Solutions」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-414",
+   "name": "Rolins",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Rolins%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Rolins」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Rolins%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「Rolins」"
+    }
+   ]
+  },
+  {
+   "code": "SB-423",
+   "name": "es-france.com",
+   "grade": "B",
+   "country": "法国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EQUIPEMENTS%20SCIENTIFIQUES%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「EQUIPEMENTS SCIENTIFIQUES」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EQUIPEMENTS%20SCIENTIFIQUES%22&hl=fr&gl=FR&ceid=FR:fr",
+     "note": "Google News 本地语种（FR）：「EQUIPEMENTS SCIENTIFIQUES」"
+    }
+   ]
+  },
+  {
+   "code": "SB-424",
+   "name": "golmar.es",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22GOLMAR%20SISTEMAS%20DE%20COMUNICACI%C3%93N%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「GOLMAR SISTEMAS DE COMUNICACIÓN」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22GOLMAR%20SISTEMAS%20DE%20COMUNICACI%C3%93N%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「GOLMAR SISTEMAS DE COMUNICACIÓN」"
+    }
+   ]
+  },
+  {
+   "code": "SB-426",
+   "name": "helmholz.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Helmholz%20%20%26%20Co.%20KG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Helmholz  & Co. KG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Helmholz%20%20%26%20Co.%20KG%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Helmholz  & Co. KG」"
+    }
+   ]
+  },
+  {
+   "code": "SB-435",
+   "name": "saucontech.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Saucon%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Saucon Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-438",
+   "name": "CTCU",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%E4%B8%BB%E5%90%91%E4%BD%8D%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%20CTC%20UNION%20TECHNOLOGIES%20CO%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「主向位科技股份有限公司 CTC UNION TECHNOLOGIES CO」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-441",
+   "name": "Metal Union",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Metal%20Union%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Metal Union」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Metal%20Union%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「Metal Union」"
+    }
+   ]
+  },
+  {
+   "code": "SB-443",
+   "name": "Spring Network",
+   "grade": "B",
+   "country": "南非",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Spring%20Network%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Spring Network」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-445",
+   "name": "aicom.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22A-LAN%20TECHNOLOGIE%20POPIO%C5%81EK%2C%20PI%C5%81AT%20SP%C3%93%C5%81KA%20KOMANDYTOWA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「A-LAN TECHNOLOGIE POPIOŁEK, PIŁAT SPÓŁKA KOMANDYTOWA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22A-LAN%20TECHNOLOGIE%20POPIO%C5%81EK%2C%20PI%C5%81AT%20SP%C3%93%C5%81KA%20KOMANDYTOWA%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「A-LAN TECHNOLOGIE POPIOŁEK, PIŁAT SPÓŁKA KOMANDYTOWA」"
+    }
+   ]
+  },
+  {
    "code": "SB-447",
    "name": "automationsystem.in",
    "grade": "A",
@@ -2268,6 +5574,78 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Automation%20Systems%20and%20Solution%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Automation Systems and Solution」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-448",
+   "name": "bettinivideo.com",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BETTINI%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BETTINI」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BETTINI%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「BETTINI」"
+    }
+   ]
+  },
+  {
+   "code": "SB-450",
+   "name": "comtech.net.pk",
+   "grade": "B",
+   "country": "巴基斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Comtech%20Associates%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Comtech Associates」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-452",
+   "name": "espuk.com",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELITE%20SECURITY%20PRODUCTS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ELITE SECURITY PRODUCTS」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-456",
+   "name": "pancakumala.co.id",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT%20Panca%20Kumala%20Jaya%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PT Panca Kumala Jaya」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT%20Panca%20Kumala%20Jaya%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「PT Panca Kumala Jaya」"
     }
    ]
   },
@@ -2293,6 +5671,69 @@
    ]
   },
   {
+   "code": "SB-462",
+   "name": "Eter biometric technologies Srl",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ETER%20BIOMETRIC%20TECHNOLOGIES%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ETER BIOMETRIC TECHNOLOGIES」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ETER%20BIOMETRIC%20TECHNOLOGIES%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「ETER BIOMETRIC TECHNOLOGIES」"
+    }
+   ]
+  },
+  {
+   "code": "SB-470",
+   "name": "asm.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ASM%20%3D%20100MEGA%20Distribution%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ASM = 100MEGA Distribution s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ASM%20%3D%20100MEGA%20Distribution%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「ASM = 100MEGA Distribution s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-472",
+   "name": "bma-networks.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BMAnetworks%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BMAnetworks」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BMAnetworks%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「BMAnetworks」"
+    }
+   ]
+  },
+  {
    "code": "SB-474",
    "name": "casecomms.com",
    "grade": "B",
@@ -2304,6 +5745,48 @@
      "kind": "html",
      "url": "https://find-and-update.company-information.service.gov.uk/company/03913540/filing-history",
      "note": "Companies House 申报历史（CASE COMMUNICATIONS LIMITED 03913540）：新账目 / 任免 / 地址变更"
+    }
+   ]
+  },
+  {
+   "code": "SB-475",
+   "name": "cctvdepo.com",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CCTVDEPO%20G%C3%BCvenlik%20Teknolojileri%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CCTVDEPO Güvenlik Teknolojileri」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CCTVDEPO%20G%C3%BCvenlik%20Teknolojileri%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「CCTVDEPO Güvenlik Teknolojileri」"
+    }
+   ]
+  },
+  {
+   "code": "SB-479",
+   "name": "ezy.hr",
+   "grade": "B",
+   "country": "克罗地亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EZY%20Infotech%20d.o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「EZY Infotech d.o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_hr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EZY%20Infotech%20d.o.o%22&hl=hr&gl=HR&ceid=HR:hr",
+     "note": "Google News 本地语种（HR）：「EZY Infotech d.o.o」"
     }
    ]
   },
@@ -2350,6 +5833,99 @@
    ]
   },
   {
+   "code": "SB-488",
+   "name": "octogate.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22OctoGate%20IT%20Security%20Systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「OctoGate IT Security Systems」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22OctoGate%20IT%20Security%20Systems%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「OctoGate IT Security Systems」"
+    }
+   ]
+  },
+  {
+   "code": "SB-489",
+   "name": "portel.com.tr",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PORTEL%20TEKNOLOJ%C4%B0%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PORTEL TEKNOLOJİ」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PORTEL%20TEKNOLOJ%C4%B0%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「PORTEL TEKNOLOJİ」"
+    }
+   ]
+  },
+  {
+   "code": "SB-493",
+   "name": "syserso.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Syserso%20Networks%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Syserso Networks」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Syserso%20Networks%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Syserso Networks」"
+    }
+   ]
+  },
+  {
+   "code": "SB-499",
+   "name": "b.medvedev11@mail.ru",
+   "grade": "B",
+   "country": "吉尔吉斯斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bogdan%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Bogdan」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-518",
+   "name": "Info Systems Lahore",
+   "grade": "B",
+   "country": "巴基斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Info%20Systems%20Lahore%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Info Systems Lahore」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-529",
    "name": "dmsimfg.com",
    "grade": "A",
@@ -2361,6 +5937,78 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Diversified%20Material%20Specialists%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Diversified Material Specialists」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-532",
+   "name": "eclipsecctv.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Eclipse%20CCTV%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Eclipse CCTV」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-534",
+   "name": "elfcams.com",
+   "grade": "B",
+   "country": "法国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELFCAM%20SARL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ELFCAM SARL」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELFCAM%20SARL%22&hl=fr&gl=FR&ceid=FR:fr",
+     "note": "Google News 本地语种（FR）：「ELFCAM SARL」"
+    }
+   ]
+  },
+  {
+   "code": "SB-535",
+   "name": "escadtrade.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ESCAD%20Trade%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ESCAD Trade s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ESCAD%20Trade%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「ESCAD Trade s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-538",
+   "name": "infinitecables.com",
+   "grade": "B",
+   "country": "加拿大",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Infinite%20Cables%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Infinite Cables」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -2386,6 +6034,267 @@
    ]
   },
   {
+   "code": "SB-547",
+   "name": "netinet.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22NETINET%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「NETINET Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22NETINET%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「NETINET Sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-554",
+   "name": "sysnettelematica.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SYSNET%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SYSNET」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SYSNET%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「SYSNET」"
+    }
+   ]
+  },
+  {
+   "code": "SB-562",
+   "name": "ALT VISION",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ALTVISION%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ALTVISION」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ALTVISION%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「ALTVISION」"
+    }
+   ]
+  },
+  {
+   "code": "SB-564",
+   "name": "Latitude",
+   "grade": "B",
+   "country": "莫桑比克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Latitude%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Latitude」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-565",
+   "name": "Marmaris Bilişim",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Marmaris%20Bili%C5%9Fim%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Marmaris Bilişim」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Marmaris%20Bili%C5%9Fim%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「Marmaris Bilişim」"
+    }
+   ]
+  },
+  {
+   "code": "SB-569",
+   "name": "cablematic.com",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CABLEMATIC%20DOS%20MIL%2C%20S.L.U%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CABLEMATIC DOS MIL, S.L.U」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CABLEMATIC%20DOS%20MIL%2C%20S.L.U%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「CABLEMATIC DOS MIL, S.L.U」"
+    }
+   ]
+  },
+  {
+   "code": "SB-574",
+   "name": "lanberg.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IMPAKT%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IMPAKT」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IMPAKT%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「IMPAKT」"
+    }
+   ]
+  },
+  {
+   "code": "SB-576",
+   "name": "matrix.es",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22MATRIX%20ELECTRONICA%20SL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「MATRIX ELECTRONICA SL」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22MATRIX%20ELECTRONICA%20SL%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「MATRIX ELECTRONICA SL」"
+    }
+   ]
+  },
+  {
+   "code": "SB-585",
+   "name": "vidos.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VIDOS%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「VIDOS Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VIDOS%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「VIDOS Sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-586",
+   "name": "Matrix vision systems",
+   "grade": "B",
+   "country": "肯尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Matrix%20Vision%20Systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Matrix Vision Systems」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-589",
+   "name": "bydemes.com",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BY%20DEMES%20SL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BY DEMES SL」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BY%20DEMES%20SL%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「BY DEMES SL」"
+    }
+   ]
+  },
+  {
+   "code": "SB-593",
+   "name": "ibdglobal.com",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SMART%20TECH%20IBD%20GLOBAL%20SOLUTIONS%20S.L.U%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SMART TECH IBD GLOBAL SOLUTIONS S.L.U」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SMART%20TECH%20IBD%20GLOBAL%20SOLUTIONS%20S.L.U%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「SMART TECH IBD GLOBAL SOLUTIONS S.L.U」"
+    }
+   ]
+  },
+  {
+   "code": "SB-594",
+   "name": "kmsoltec.com",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22KM%20SOLTEC%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「KM SOLTEC」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22KM%20SOLTEC%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「KM SOLTEC」"
+    }
+   ]
+  },
+  {
    "code": "SB-599",
    "name": "symanitron.ru",
    "grade": "B",
@@ -2407,6 +6316,105 @@
    ]
   },
   {
+   "code": "SB-601",
+   "name": "visus.pt",
+   "grade": "B",
+   "country": "葡萄牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22OPTIVISUS%2C%20LDA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「OPTIVISUS, LDA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pt",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22OPTIVISUS%2C%20LDA%22&hl=pt-PT&gl=PT&ceid=PT:pt-150",
+     "note": "Google News 本地语种（PT）：「OPTIVISUS, LDA」"
+    }
+   ]
+  },
+  {
+   "code": "SB-608",
+   "name": "Marlen Sadybekov",
+   "grade": "B",
+   "country": "哈萨克斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Marlen%20Sadybekov%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Marlen Sadybekov」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Marlen%20Sadybekov%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（KZ）：「Marlen Sadybekov」"
+    }
+   ]
+  },
+  {
+   "code": "SB-611",
+   "name": "avanis.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Avanis%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Avanis」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Avanis%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Avanis」"
+    }
+   ]
+  },
+  {
+   "code": "SB-613",
+   "name": "cozzmic.com",
+   "grade": "B",
+   "country": "加拿大",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%227546246%20Canada%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「7546246 Canada」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-625",
+   "name": "virtware.pt",
+   "grade": "B",
+   "country": "葡萄牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VIRTWARE%20%E2%80%93%20Solu%C3%A7%C3%B5es%20Integradas%20de%20Telecomunica%C3%A7%C3%B5es%2C%20Lda%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「VIRTWARE – Soluções Integradas de Telecomunicações, Lda」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pt",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VIRTWARE%20%E2%80%93%20Solu%C3%A7%C3%B5es%20Integradas%20de%20Telecomunica%C3%A7%C3%B5es%2C%20Lda%22&hl=pt-PT&gl=PT&ceid=PT:pt-150",
+     "note": "Google News 本地语种（PT）：「VIRTWARE – Soluções Integradas de Telecomunicações, Lda」"
+    }
+   ]
+  },
+  {
    "code": "SB-630",
    "name": "CORE IT SOLUTIONS",
    "grade": "B",
@@ -2418,6 +6426,27 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Core%20IT%20Solutions%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Core IT Solutions」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-637",
+   "name": "NaSys Inc",
+   "grade": "B",
+   "country": "韩国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%EB%82%98%EC%8B%9C%EC%8A%A4%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NaSys%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「나시스 주식회사 NaSys」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ko",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%EB%82%98%EC%8B%9C%EC%8A%A4%20%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%20NaSys%22&hl=ko&gl=KR&ceid=KR:ko",
+     "note": "Google News 本地语种（KR）：「나시스 주식회사 NaSys」"
     }
    ]
   },
@@ -2437,6 +6466,390 @@
    ]
   },
   {
+   "code": "SB-644",
+   "name": "art2soft.eu",
+   "grade": "B",
+   "country": "塞浦路斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22A.K.%20ART%202%20SOFT%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「A.K. ART 2 SOFT」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-664",
+   "name": "jm.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22JM%20elektronik%20Sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「JM elektronik Sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22JM%20elektronik%20Sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「JM elektronik Sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-672",
+   "name": "netshieldsa.com",
+   "grade": "B",
+   "country": "南非",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Netshield%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Netshield」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-680",
+   "name": "schrack.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Schrack%20Technik%20spol.%20s%20r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Schrack Technik spol. s r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Schrack%20Technik%20spol.%20s%20r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「Schrack Technik spol. s r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-683",
+   "name": "spectra.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Spectra%20%20%26%20Co.%20KG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Spectra  & Co. KG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Spectra%20%20%26%20Co.%20KG%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Spectra  & Co. KG」"
+    }
+   ]
+  },
+  {
+   "code": "SB-685",
+   "name": "techsouq.com",
+   "grade": "B",
+   "country": "阿联酋",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Techsouq%20Computers%20L.L.C%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Techsouq Computers L.L.C」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-692",
+   "name": "Anda Telecom",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Anda%20Telecom%20Private%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Anda Telecom Private」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-694",
+   "name": "Le Reveil",
+   "grade": "B",
+   "country": "加拿大",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Le%20Reveil%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Le Reveil」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-696",
+   "name": "aironix.co.il",
+   "grade": "B",
+   "country": "以色列",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Aironix%20Systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Aironix Systems」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-722",
+   "name": "Aptvel global technologies",
+   "grade": "B",
+   "country": "阿联酋",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Aptvel%20Global%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Aptvel Global Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-723",
+   "name": "BİLGEN ELEKTRONİK",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bilgen%20Elektronik%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Bilgen Elektronik」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bilgen%20Elektronik%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「Bilgen Elektronik」"
+    }
+   ]
+  },
+  {
+   "code": "SB-726",
+   "name": "Elettronica E Sicurezza",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELETTRONICA%20E%20SICUREZZA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ELETTRONICA E SICUREZZA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELETTRONICA%20E%20SICUREZZA%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「ELETTRONICA E SICUREZZA」"
+    }
+   ]
+  },
+  {
+   "code": "SB-728",
+   "name": "Fast-Track Systems & Services Pte Ltd",
+   "grade": "B",
+   "country": "新加坡",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Fast-Track%20Systems%20%26%20Services%20Pte%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Fast-Track Systems & Services Pte」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-729",
+   "name": "Heitech Padu Berhad",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22HeiTech%20Padu%20Berhad%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「HeiTech Padu Berhad」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-732",
+   "name": "Maxitulin",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Maxitulin%20Sdn%20Bhd%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Maxitulin Sdn Bhd」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-733",
+   "name": "Preciso Technology SDN BHD",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Preciso%20Technology%20Sdn%20Bhd%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Preciso Technology Sdn Bhd」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-738",
+   "name": "Ugur Simsek Netmax",
+   "grade": "B",
+   "country": "土耳其",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Netmax%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Netmax」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_tr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Netmax%22&hl=tr&gl=TR&ceid=TR:tr",
+     "note": "Google News 本地语种（TR）：「Netmax」"
+    }
+   ]
+  },
+  {
+   "code": "SB-741",
+   "name": "canarycom.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Canary%20Communications%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Canary Communications」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-752",
+   "name": "enika.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ENIKA.CZ%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ENIKA.CZ s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ENIKA.CZ%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「ENIKA.CZ s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SB-758",
+   "name": "fossfibreoptics.com",
+   "grade": "B",
+   "country": "挪威",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22FOSS%20FIBER%20OPTICS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「FOSS FIBER OPTICS」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_no",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22FOSS%20FIBER%20OPTICS%22&hl=no&gl=NO&ceid=NO:no",
+     "note": "Google News 本地语种（NO）：「FOSS FIBER OPTICS」"
+    }
+   ]
+  },
+  {
+   "code": "SB-761",
+   "name": "getscw.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Security%20Camera%20Warehouse%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Security Camera Warehouse」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-765",
+   "name": "inv-technology.com",
+   "grade": "B",
+   "country": "法国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IMPORT%20NETWORK%20VIDEO%20TECHNOLOGY%20%E2%80%93%20INV-TECHNOLOGIE%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IMPORT%20NETWORK%20VIDEO%20TECHNOLOGY%20%E2%80%93%20INV-TECHNOLOGIE%22&hl=fr&gl=FR&ceid=FR:fr",
+     "note": "Google News 本地语种（FR）：「IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE」"
+    }
+   ]
+  },
+  {
    "code": "SB-767",
    "name": "itmsystems.co.uk",
    "grade": "A",
@@ -2452,6 +6865,174 @@
    ]
   },
   {
+   "code": "SB-768",
+   "name": "kbvdatacom.rs",
+   "grade": "B",
+   "country": "塞尔维亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Dru%C5%A1tvo%20za%20informacione%20tehnologije%20i%20telekomunikacije%20KBV%20D%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Društvo za informacione tehnologije i telekomunikacije KBV D」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_sr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Dru%C5%A1tvo%20za%20informacione%20tehnologije%20i%20telekomunikacije%20KBV%20D%22&hl=sr&gl=RS&ceid=RS:sr",
+     "note": "Google News 本地语种（RS）：「Društvo za informacione tehnologije i telekomunikacije KBV D」"
+    }
+   ]
+  },
+  {
+   "code": "SB-771",
+   "name": "lanprosa.com",
+   "grade": "B",
+   "country": "哥斯达黎加",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Lanprosa%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Lanprosa」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-775",
+   "name": "patton.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Patton%20Electronics%20Company%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Patton Electronics Company」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-782",
+   "name": "simpleuk.com",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Simple%20Technology%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Simple Technology」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-788",
+   "name": "tss-e.com",
+   "grade": "B",
+   "country": "沙特阿拉伯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Telecom%20Special%20Solutions%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Telecom Special Solutions」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-789",
+   "name": "visarcctv.com",
+   "grade": "B",
+   "country": "立陶宛",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%E2%80%9ESAREME%E2%80%9C%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「„SAREME“」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-790",
+   "name": "vulsanx.com",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Vulsan%20X%20Sdn%20Bhd%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Vulsan X Sdn Bhd」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-791",
+   "name": "wachendorff-prozesstechnik.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Wachendorff%20Prozesstechnik%20%20%26%20Co.%20KG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Wachendorff Prozesstechnik  & Co. KG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Wachendorff%20Prozesstechnik%20%20%26%20Co.%20KG%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Wachendorff Prozesstechnik  & Co. KG」"
+    }
+   ]
+  },
+  {
+   "code": "SB-794",
+   "name": "wut.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Wiesemann%20%26%20Theis%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Wiesemann & Theis」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Wiesemann%20%26%20Theis%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「Wiesemann & Theis」"
+    }
+   ]
+  },
+  {
+   "code": "SB-817",
+   "name": "masstracktech.com",
+   "grade": "B",
+   "country": "加纳",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Masstrack%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Masstrack Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-826",
    "name": "versitron.com",
    "grade": "A",
@@ -2463,6 +7044,21 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Versitron%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Versitron」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-827",
+   "name": "GOIP Global Services Pvt Ltd",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22GO%20IP%20Global%20Services%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「GO IP Global Services」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -2494,6 +7090,114 @@
    ]
   },
   {
+   "code": "SB-833",
+   "name": "comtime-com.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22comtime%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「comtime」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22comtime%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「comtime」"
+    }
+   ]
+  },
+  {
+   "code": "SB-834",
+   "name": "eneo-security.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VIDEOR%20E.%20Hartig%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「VIDEOR E. Hartig」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VIDEOR%20E.%20Hartig%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「VIDEOR E. Hartig」"
+    }
+   ]
+  },
+  {
+   "code": "SB-839",
+   "name": "ilucoltd.com",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%E8%AD%AF%E9%BA%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%20iLu%20CO%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「譯麓有限公司 iLu CO」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-840",
+   "name": "inline-info.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22INTOS%20ELECTRONIC%20AG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「INTOS ELECTRONIC AG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22INTOS%20ELECTRONIC%20AG%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「INTOS ELECTRONIC AG」"
+    }
+   ]
+  },
+  {
+   "code": "SB-852",
+   "name": "Alam Jaya Management",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Alam%20Jaya%20Management%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Alam Jaya Management」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-865",
+   "name": "dbjcontrad@hotmail.com",
+   "grade": "B",
+   "country": "赞比亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Kennedy%20Bulaya%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Kennedy Bulaya」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-869",
    "name": "futurist.com.pk",
    "grade": "A",
@@ -2505,6 +7209,84 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Futurist%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Futurist」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-888",
+   "name": "stordis.com",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22STORDIS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「STORDIS」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22STORDIS%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「STORDIS」"
+    }
+   ]
+  },
+  {
+   "code": "SB-896",
+   "name": "wafulamusine@gmail.com",
+   "grade": "B",
+   "country": "肯尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Musine%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Musine」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-900",
+   "name": "Eleandro",
+   "grade": "B",
+   "country": "巴西",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Eleandro%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Eleandro」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pt",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Eleandro%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+     "note": "Google News 本地语种（BR）：「Eleandro」"
+    }
+   ]
+  },
+  {
+   "code": "SB-901",
+   "name": "Hersnet Ltd",
+   "grade": "B",
+   "country": "匈牙利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Hersnet%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Hersnet」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_hu",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Hersnet%22&hl=hu&gl=HU&ceid=HU:hu",
+     "note": "Google News 本地语种（HU）：「Hersnet」"
     }
    ]
   },
@@ -2530,6 +7312,27 @@
    ]
   },
   {
+   "code": "SB-907",
+   "name": "besd.nl",
+   "grade": "B",
+   "country": "荷兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22B.E.S.D.%20Benelux%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「B.E.S.D. Benelux」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_nl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22B.E.S.D.%20Benelux%22&hl=nl&gl=NL&ceid=NL:nl",
+     "note": "Google News 本地语种（NL）：「B.E.S.D. Benelux」"
+    }
+   ]
+  },
+  {
    "code": "SB-910",
    "name": "etictelecom.com",
    "grade": "A",
@@ -2551,6 +7354,21 @@
    ]
   },
   {
+   "code": "SB-913",
+   "name": "lanpro.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22LanPro%20Networks%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「LanPro Networks」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SB-924",
    "name": "Intracom Middle East FZ-LLC",
    "grade": "B",
@@ -2562,6 +7380,21 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22INTRACOM%20TELECOM%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「INTRACOM TELECOM」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-933",
+   "name": "airlive.com",
+   "grade": "B",
+   "country": "台湾",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%E9%91%AB%E5%BF%97%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%20AirLive%20Technology%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「鑫志股份有限公司 AirLive Technology」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -2581,6 +7414,123 @@
    ]
   },
   {
+   "code": "SB-950",
+   "name": "line-net",
+   "grade": "B",
+   "country": "格鲁吉亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22LineNet%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「LineNet」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-951",
+   "name": "montavue.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Montavue%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Montavue」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-975",
+   "name": "cctv-global.co.uk",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CCTV%20GLOBAL%20LONDON%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CCTV GLOBAL LONDON」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-976",
+   "name": "dauren.boltaev@mail.ru",
+   "grade": "B",
+   "country": "乌兹别克斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Dauren%20Boltayev%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Dauren Boltayev」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Dauren%20Boltayev%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（UZ）：「Dauren Boltayev」"
+    }
+   ]
+  },
+  {
+   "code": "SB-991",
+   "name": "Tubal",
+   "grade": "B",
+   "country": "埃及",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Tubal%20Egypt%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Tubal Egypt」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SB-997",
+   "name": "agmultivision.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Agmultivision%20%20Unipersonale%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Agmultivision  Unipersonale」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Agmultivision%20%20Unipersonale%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「Agmultivision  Unipersonale」"
+    }
+   ]
+  },
+  {
+   "code": "SC-023",
+   "name": "Central Gospel School",
+   "grade": "B",
+   "country": "加纳",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Central%20Gospel%20School%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Central Gospel School」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SC-097",
    "name": "Three Lines Company",
    "grade": "B",
@@ -2592,6 +7542,228 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%223Lines%20Advanced%20Technologies%20Company%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「3Lines Advanced Technologies Company」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1033",
+   "name": "Bausch Datacom",
+   "grade": "B",
+   "country": "比利时",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BAUSCH%20DATACOM%20NV%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BAUSCH DATACOM NV」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_nl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BAUSCH%20DATACOM%20NV%22&hl=nl&gl=BE&ceid=BE:nl",
+     "note": "Google News 本地语种（BE）：「BAUSCH DATACOM NV」"
+    }
+   ]
+  },
+  {
+   "code": "SC-114",
+   "name": "Siklu Communication",
+   "grade": "B",
+   "country": "黎巴嫩",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Siklu%20by%20Ceragon%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Siklu by Ceragon」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1167",
+   "name": "vmo broadband pvt ltd",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22vmo%20broadband%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「vmo broadband」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1176",
+   "name": "PT Omni Cakrawala Komunikasi",
+   "grade": "B",
+   "country": "印度尼西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT%20Omni%20Cakrawala%20Komunikasi%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PT Omni Cakrawala Komunikasi」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_id",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PT%20Omni%20Cakrawala%20Komunikasi%22&hl=id&gl=ID&ceid=ID:id",
+     "note": "Google News 本地语种（ID）：「PT Omni Cakrawala Komunikasi」"
+    }
+   ]
+  },
+  {
+   "code": "SC-1177",
+   "name": "Projexon",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Projexon%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Projexon」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1220",
+   "name": "starelec.fi",
+   "grade": "B",
+   "country": "芬兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Starelec%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Starelec」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fi",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Starelec%22&hl=fi&gl=FI&ceid=FI:fi",
+     "note": "Google News 本地语种（FI）：「Starelec」"
+    }
+   ]
+  },
+  {
+   "code": "SC-1309",
+   "name": "Elftech Co.,Ltd.",
+   "grade": "B",
+   "country": "韩国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Elftech%20Co%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Elftech Co」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ko",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Elftech%20Co%22&hl=ko&gl=KR&ceid=KR:ko",
+     "note": "Google News 本地语种（KR）：「Elftech Co」"
+    }
+   ]
+  },
+  {
+   "code": "SC-1332",
+   "name": "dbg.co.za",
+   "grade": "B",
+   "country": "南非",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DBG%20Distribution%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DBG Distribution」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1335",
+   "name": "discomp.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DISCOMP%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DISCOMP s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DISCOMP%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「DISCOMP s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SC-1371",
+   "name": "mywatchdog.in",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22WatchDog%20%3D%20Apollo%20Infoways%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「WatchDog = Apollo Infoways」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1446",
+   "name": "lojacctv.com",
+   "grade": "B",
+   "country": "葡萄牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Neur%C3%B3nio%20Digital%2C%20Unipessoal%20Lda%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Neurónio Digital, Unipessoal Lda」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pt",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Neur%C3%B3nio%20Digital%2C%20Unipessoal%20Lda%22&hl=pt-PT&gl=PT&ceid=PT:pt-150",
+     "note": "Google News 本地语种（PT）：「Neurónio Digital, Unipessoal Lda」"
+    }
+   ]
+  },
+  {
+   "code": "SC-1469",
+   "name": "Defense MICE Institude",
+   "grade": "B",
+   "country": "韩国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Defense%20MICE%20Institude%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Defense MICE Institude」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ko",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Defense%20MICE%20Institude%22&hl=ko&gl=KR&ceid=KR:ko",
+     "note": "Google News 本地语种（KR）：「Defense MICE Institude」"
     }
    ]
   },
@@ -2611,6 +7783,96 @@
    ]
   },
   {
+   "code": "SC-1675",
+   "name": "tekmodul.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22tekmodul%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「tekmodul」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22tekmodul%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「tekmodul」"
+    },
+    {
+     "id": "intel_careers",
+     "kind": "html",
+     "url": "https://www.tekmodul.de/partner-fuer-funkmodule-und-drahtlose-kommunikation/partner-fuer-funkmodule-und-drahtlose-kommunikation-stellenanzeigen/",
+     "note": "官网招聘页（人事变动 / 扩张信号）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1706",
+   "name": "itvsecurity.com",
+   "grade": "B",
+   "country": "丹麦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ITV-Security%20ApS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ITV-Security ApS」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_da",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ITV-Security%20ApS%22&hl=da&gl=DK&ceid=DK:da",
+     "note": "Google News 本地语种（DK）：「ITV-Security ApS」"
+    }
+   ]
+  },
+  {
+   "code": "SC-1713",
+   "name": "oak-integrator.lv",
+   "grade": "B",
+   "country": "拉脱维亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22OAK%20INTEGRATOR%20Products%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「OAK INTEGRATOR Products」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_lv",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22OAK%20INTEGRATOR%20Products%22&hl=lv&gl=LV&ceid=LV:lv",
+     "note": "Google News 本地语种（LV）：「OAK INTEGRATOR Products」"
+    }
+   ]
+  },
+  {
+   "code": "SC-1714",
+   "name": "omniray.ch",
+   "grade": "B",
+   "country": "瑞士",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Omni%20Ray%20AG%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Omni Ray AG」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Omni%20Ray%20AG%22&hl=de&gl=CH&ceid=CH:de",
+     "note": "Google News 本地语种（CH）：「Omni Ray AG」"
+    }
+   ]
+  },
+  {
    "code": "SC-1771",
    "name": "telexcell.com",
    "grade": "A",
@@ -2622,6 +7884,36 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Telexcell%20Infranet%20Solutions%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Telexcell Infranet Solutions」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1795",
+   "name": "bbcpl.in",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Bluboxx%20Communication%20Private%20%20%E2%80%94%20BBCPL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Bluboxx Communication Private  — BBCPL」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-1804",
+   "name": "indraheera.com",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Indra%20Heera%20Group%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Indra Heera Group」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -2668,6 +7960,102 @@
    ]
   },
   {
+   "code": "SC-2012",
+   "name": "VEMAX TECHNOLOGY SDN.BHD",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22VEMAX%20TECHNOLOGY%20SDN.BHD%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「VEMAX TECHNOLOGY SDN.BHD」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-2052",
+   "name": "Nadhimentera Engineering",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Nadhimentera%20Engineering%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Nadhimentera Engineering」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-2217",
+   "name": "Shinhoinia",
+   "grade": "B",
+   "country": "印度",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Shinhoinia%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Shinhoinia」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-2219",
+   "name": "comelitgroup.com",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22COMELIT%20GROUP%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「COMELIT GROUP」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22COMELIT%20GROUP%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「COMELIT GROUP」"
+    }
+   ]
+  },
+  {
+   "code": "SC-2255",
+   "name": "poetexas.com",
+   "grade": "B",
+   "country": "美国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PoE%20Texas%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PoE Texas」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-2372",
+   "name": "eurosatscotland.co.uk",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22EUROSAT%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「EUROSAT」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
    "code": "SC-2513",
    "name": "microtech.net.pk",
    "grade": "A",
@@ -2679,6 +8067,291 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22Microtech%22&hl=en-US&gl=US&ceid=US:en",
      "note": "Google News 英文：「Microtech」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-2516",
+   "name": "novuscctv.com",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22AAT%20SYSTEMY%20BEZPIECZE%C5%83STWA%20sp.%20z%20o.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22AAT%20SYSTEMY%20BEZPIECZE%C5%83STWA%20sp.%20z%20o.o%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o」"
+    }
+   ]
+  },
+  {
+   "code": "SC-2609",
+   "name": "partizanstore.eu",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PARTIZAN%20SECURITY%20s.r.o.%20%E2%80%94%20partizanstore.eu%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「PARTIZAN SECURITY s.r.o. — partizanstore.eu」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22PARTIZAN%20SECURITY%20s.r.o.%20%E2%80%94%20partizanstore.eu%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「PARTIZAN SECURITY s.r.o. — partizanstore.eu」"
+    }
+   ]
+  },
+  {
+   "code": "SC-2637",
+   "name": "ORIENT TELECOMS",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ORIENT%20TELECOMS%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ORIENT TELECOMS」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-2718",
+   "name": "mercasat.es",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22MERCASAT%20SL%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「MERCASAT SL」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22MERCASAT%20SL%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「MERCASAT SL」"
+    }
+   ]
+  },
+  {
+   "code": "SC-2725",
+   "name": "todotelecom.com",
+   "grade": "B",
+   "country": "西班牙",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TODO%20TELECOM%2C%20S.L%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「TODO TELECOM, S.L」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_es",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22TODO%20TELECOM%2C%20S.L%22&hl=es&gl=ES&ceid=ES:es",
+     "note": "Google News 本地语种（ES）：「TODO TELECOM, S.L」"
+    }
+   ]
+  },
+  {
+   "code": "SC-274",
+   "name": "alcadon.no",
+   "grade": "B",
+   "country": "挪威",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ALCADON%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ALCADON」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_no",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ALCADON%22&hl=no&gl=NO&ceid=NO:no",
+     "note": "Google News 本地语种（NO）：「ALCADON」"
+    }
+   ]
+  },
+  {
+   "code": "SC-2823",
+   "name": "ST SPACE TECHNOLOGY",
+   "grade": "B",
+   "country": "俄罗斯",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ST%20SPACE%20TECHNOLOGY%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ST SPACE TECHNOLOGY」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ru",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ST%20SPACE%20TECHNOLOGY%22&hl=ru&gl=RU&ceid=RU:ru",
+     "note": "Google News 本地语种（RU）：「ST SPACE TECHNOLOGY」"
+    }
+   ]
+  },
+  {
+   "code": "SC-2834",
+   "name": "Dipol",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DIPOL%20Go%C5%82aszewski%2C%20Wa%C5%9Bniowski%20Sp%C3%B3%C5%82ka%20Jawna%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「DIPOL Gołaszewski, Waśniowski Spółka Jawna」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22DIPOL%20Go%C5%82aszewski%2C%20Wa%C5%9Bniowski%20Sp%C3%B3%C5%82ka%20Jawna%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「DIPOL Gołaszewski, Waśniowski Spółka Jawna」"
+    }
+   ]
+  },
+  {
+   "code": "SC-2857",
+   "name": "Tropical Computers Cairns",
+   "grade": "B",
+   "country": "澳大利亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Tropical%20Computers%20Cairns%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Tropical Computers Cairns」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-2943",
+   "name": "extralink24.com",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Batna%20Sp.%20z%20o.o.%20%E2%80%94%20%E5%93%81%E7%89%8C%20Extralink%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Batna Sp. z o.o. — 品牌 Extralink」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Batna%20Sp.%20z%20o.o.%20%E2%80%94%20%E5%93%81%E7%89%8C%20Extralink%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「Batna Sp. z o.o. — 品牌 Extralink」"
+    }
+   ]
+  },
+  {
+   "code": "SC-3023",
+   "name": "nettrans.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22NetTrans%20Jaros%C5%82aw%20%C5%BBydek%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「NetTrans Jarosław Żydek」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22NetTrans%20Jaros%C5%82aw%20%C5%BBydek%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「NetTrans Jarosław Żydek」"
+    }
+   ]
+  },
+  {
+   "code": "SC-3026",
+   "name": "说是有需求会说的，问了catalog",
+   "grade": "B",
+   "country": "喀麦隆",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%E8%AF%B4%E6%98%AF%E6%9C%89%E9%9C%80%E6%B1%82%E4%BC%9A%E8%AF%B4%E7%9A%84%EF%BC%8C%E9%97%AE%E4%BA%86catalog%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「说是有需求会说的，问了catalog」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-3135",
+   "name": "sphinxcomputer.fr",
+   "grade": "B",
+   "country": "法国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SPHINX%20CONNECT%20FRANCE%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SPHINX CONNECT FRANCE」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_fr",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SPHINX%20CONNECT%20FRANCE%22&hl=fr&gl=FR&ceid=FR:fr",
+     "note": "Google News 本地语种（FR）：「SPHINX CONNECT FRANCE」"
+    }
+   ]
+  },
+  {
+   "code": "SC-3149",
+   "name": "starcom.com.pk",
+   "grade": "B",
+   "country": "巴基斯坦",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Starcom%20Technologies%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Starcom Technologies」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-368",
+   "name": "Itmax system sdn bhd",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Itmax%20system%20sdn%20bhd%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Itmax system sdn bhd」（精确短语；同名误报看标题再用）"
     }
    ]
   },
@@ -2700,6 +8373,294 @@
      "kind": "rss",
      "url": "https://news.google.com/rss/search?q=%22VISIOTECH%20SECURITY%20S.L%22&hl=es&gl=ES&ceid=ES:es",
      "note": "Google News 本地语种（ES）：「VISIOTECH SECURITY S.L」"
+    }
+   ]
+  },
+  {
+   "code": "SC-432",
+   "name": "CabNet Systems(M) Sdn. Bhd",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22CabNet%20Systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「CabNet Systems」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-439",
+   "name": "IRnow Sdn Bhd",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22IRnow%20Sdn%20Bhd%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「IRnow Sdn Bhd」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-575",
+   "name": "kst-bg.com",
+   "grade": "B",
+   "country": "保加利亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9A%D0%A1%D0%A2%20%D0%9E%D0%9E%D0%94%20%E2%80%94%20KST%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「КСТ ООД — KST」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_bg",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22%D0%9A%D0%A1%D0%A2%20%D0%9E%D0%9E%D0%94%20%E2%80%94%20KST%22&hl=bg&gl=BG&ceid=BG:bg",
+     "note": "Google News 本地语种（BG）：「КСТ ООД — KST」"
+    }
+   ]
+  },
+  {
+   "code": "SC-622",
+   "name": "iacontrol.co.za",
+   "grade": "B",
+   "country": "南非",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Industrial%20Automation%20and%20Control%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Industrial Automation and Control」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-656",
+   "name": "100mega.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22100MEGA%20Distribution%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「100MEGA Distribution s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22100MEGA%20Distribution%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「100MEGA Distribution s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SC-665",
+   "name": "Civitas systems Srl",
+   "grade": "B",
+   "country": "罗马尼亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Civitas%20systems%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Civitas systems」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_ro",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Civitas%20systems%22&hl=ro&gl=RO&ceid=RO:ro",
+     "note": "Google News 本地语种（RO）：「Civitas systems」"
+    }
+   ]
+  },
+  {
+   "code": "SC-671",
+   "name": "Leader Optec",
+   "grade": "B",
+   "country": "英国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22LEADER%20OPTEC%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「LEADER OPTEC」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-672",
+   "name": "Ministry of interior RAK police",
+   "grade": "B",
+   "country": "阿联酋",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Ministry%20of%20interior%20RAK%20police%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Ministry of interior RAK police」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-676",
+   "name": "Puncak Niaga Holdings",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Puncak%20Niaga%20Holdings%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Puncak Niaga Holdings」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-679",
+   "name": "SPECTRUM",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SPECTRUM%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SPECTRUM」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-680",
+   "name": "SUREN Smart Electrical",
+   "grade": "B",
+   "country": "马来西亚",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SUREN%20Smart%20Electrical%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SUREN Smart Electrical」（精确短语；同名误报看标题再用）"
+    }
+   ]
+  },
+  {
+   "code": "SC-770",
+   "name": "elmark.com.pl",
+   "grade": "B",
+   "country": "波兰",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELMARK%20AUTOMATYKA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「ELMARK AUTOMATYKA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_pl",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22ELMARK%20AUTOMATYKA%22&hl=pl&gl=PL&ceid=PL:pl",
+     "note": "Google News 本地语种（PL）：「ELMARK AUTOMATYKA」"
+    }
+   ]
+  },
+  {
+   "code": "SC-783",
+   "name": "expressalarm.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Express%20Alarm%20Czech%20s.r.o%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「Express Alarm Czech s.r.o」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22Express%20Alarm%20Czech%20s.r.o%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「Express Alarm Czech s.r.o」"
+    }
+   ]
+  },
+  {
+   "code": "SC-908",
+   "name": "prumysloveswitche.cz",
+   "grade": "B",
+   "country": "捷克",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BLUECOM%20s.r.o.%20%E2%80%94%20prumysloveswitche.cz%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「BLUECOM s.r.o. — prumysloveswitche.cz」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_cs",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22BLUECOM%20s.r.o.%20%E2%80%94%20prumysloveswitche.cz%22&hl=cs&gl=CZ&ceid=CZ:cs",
+     "note": "Google News 本地语种（CZ）：「BLUECOM s.r.o. — prumysloveswitche.cz」"
+    }
+   ]
+  },
+  {
+   "code": "SC-925",
+   "name": "sarcitalia.it",
+   "grade": "B",
+   "country": "意大利",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SARC%20ITALIA%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「SARC ITALIA」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_it",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22SARC%20ITALIA%22&hl=it&gl=IT&ceid=IT:it",
+     "note": "Google News 本地语种（IT）：「SARC ITALIA」"
+    }
+   ]
+  },
+  {
+   "code": "SC-956",
+   "name": "systerra.de",
+   "grade": "B",
+   "country": "德国",
+   "layer": "B",
+   "sources": [
+    {
+     "id": "intel_news_en",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22systerra%20computer%22&hl=en-US&gl=US&ceid=US:en",
+     "note": "Google News 英文：「systerra computer」（精确短语；同名误报看标题再用）"
+    },
+    {
+     "id": "intel_news_de",
+     "kind": "rss",
+     "url": "https://news.google.com/rss/search?q=%22systerra%20computer%22&hl=de&gl=DE&ceid=DE:de",
+     "note": "Google News 本地语种（DE）：「systerra computer」"
     }
    ]
   }

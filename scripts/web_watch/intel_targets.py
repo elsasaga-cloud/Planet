@@ -79,8 +79,9 @@ def main():
     for c, e in sorted(ents.items()):
         rs = e.get('research') or {}
         dug = any(str(x.get('batch', '')).startswith('INTEL') and x.get('found') for x in ((rs.get('intel') or {}).get('items') or []))
-        if e.get('grade') != 'A' and not (e.get('grade') == 'B' and dug):
-            continue  # A 户全部 + 挖过情报后下放 B 的户（如 Actelis EDGAR）继续 watch
+        b1 = (rs.get('b_tier') or {}).get('tier') == 'B1'
+        if e.get('grade') != 'A' and not (e.get('grade') == 'B' and (dug or b1)):
+            continue  # A 户全部 + B1 重点普通跟 + 挖过情报后下放 B 的户（如 Actelis EDGAR）继续 watch
         srcs = []
         nm = news_name(e, rs)
         if nm:
