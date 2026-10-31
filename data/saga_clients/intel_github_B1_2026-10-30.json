@@ -1223,5 +1223,35 @@
 "\"avanca.com.sg\" in:readme in:description",
 "avanca.com.sg type:org"
 ]
+},
+"SB-060": {
+"code": "SB-060",
+"name": "bargas.ru",
+"domains": [
+"bargas.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bargas.ru in:email",
+"\"bargas.ru\" in:readme in:description",
+"bargas.ru type:org"
+]
+},
+"SB-062": {
+"code": "SB-062",
+"name": "Aarya ITES Pvt. Ltd.",
+"domains": [
+"a-ites.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"a-ites.com in:email",
+"\"a-ites.com\" in:readme in:description",
+"Aarya ITES Pvt. Ltd. type:org"
+]
 }
 }
