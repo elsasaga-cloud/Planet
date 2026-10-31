@@ -165,5 +165,15 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 表 2024.3.15: 发了工业MC系列信息→price 含电源嘛？ 电源价格"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

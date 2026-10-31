@@ -29,7 +29,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -83,7 +83,7 @@ updated: 2026-10-30
 
 - `aironix.co.il` → Microsoft 365（MX：aironix-co-il.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（以色列 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
+**假日避让（以色列 · 按下一步「现在 → 两周内」窗口 2026-10-31→2026-11-14）：**
 
 - 窗口内无该国法定假日
 
@@ -224,6 +224,11 @@ updated: 2026-10-30
 | 2026-08-15 | 去 | A | Re: 24 Port PoE Managed Switch | $170 |
 | 2026-09-18 | 去 | A | 16 Port Industrial PoE Switch |  |
 | 2026-10-07 | 去 | A | Managed PoE Switches |  |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
 
@@ -379,12 +384,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 33）
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

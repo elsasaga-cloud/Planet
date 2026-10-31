@@ -152,5 +152,15 @@
   "note": "官网快照两次失败（2026-10-21 / 2026-10-29：HTTP 错误（4xx/5xx，多为反爬 / 屏蔽境外抓取）），但 DNS 2026-10-29 16:2xZ 复查 marcomweb.it MX/A/NS 正常 → 非死域、邮箱路径未断 → 留 B 不动；快照失败只记「官网不可抓」，不作打回依据（可逆：两次独立 DNS 死才复核）",
   "why": ""
  },
- "override_history": []
+ "override_history": [],
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
+ }
 }

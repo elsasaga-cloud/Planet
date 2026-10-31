@@ -31,7 +31,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -69,7 +69,7 @@ updated: 2026-10-30
 
 - `siklu.com` → Cisco Secure Email 网关（MX：mx1.hc425.c3s2.iphmx.com、mx2.hc425.c3s2.iphmx.com）。企业级邮件网关（Cisco Secure Email 网关）：链接重写 + 附件沙箱 → 像素失效、附件常被隔离，冷邮件到达率最低；这户靠回原线程 / LinkedIn / 对方来信，不靠新开线程群发
 
-**假日避让（黎巴嫩 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（黎巴嫩 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
 - 法定假日：11-22 Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -134,6 +134,11 @@ updated: 2026-10-30
 |---|---|---|---|---|---|---|
 | 2025-10-10 | 2025.10.10 | dac |  | E |  | 黎巴嫩.xlsx#1 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））；身份 法定名 · 路径 活 · 回信 R+ · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-07-17 → 2025-04-01　|　**最后去信**：2025-04-01
@@ -152,6 +157,21 @@ updated: 2026-10-30
 | Passive poe switch | 2024-09-09 | 2024-09-09 | 0 | 1 | 1 |
 | Industrial poe managed switch | 2024-08-14 | 2024-08-14 | 0 | 1 | 1 |
 | 10G fiber media converter | 2024-07-17 | 2024-07-17 | 1 | 1 | 3 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-114/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://www.ceragon.com/products/siklu-by-ceragon) | html | 待首轮 | — | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://www.ceragon.com/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 619 条） |
+| [news_1](https://www.ceragon.com/blog) | html | 待首轮 | — | 导航「Blog」 |
+| [news_2](https://www.ceragon.com/news) | html | 待首轮 | — | 导航「Press Releases」 |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCLj2pBpXDAUR2ASM8ZzxZOg) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCLj2pBpXDAUR2ASM8ZzxZOg |
+
+- **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/14470；Facebook: https://www.facebook.com/ceragonnetworks/?fref=ts&rf=111891902159901；X/Twitter: https://twitter.com/Ceragon
 
 ## 联系方式（已有 · 原值照录）
 
@@ -241,12 +261,12 @@ updated: 2026-10-30
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

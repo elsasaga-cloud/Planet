@@ -31,7 +31,7 @@ price_tier: 30%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -154,6 +154,11 @@ updated: 2026-10-30
 | 2026-03-11 | 去 | A | OEM Core Switching Solution |  |
 | 2026-08-10 | 去 | A | 24 Port PoE Managed Switch | $170 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：22 封（去 20 / 来 2）　|　**期间**：2024-07-10 → 2026-08-10　|　**最后去信**：2026-08-10
@@ -176,6 +181,15 @@ updated: 2026-10-30
 | Managed Optical Bypass Switch | 2025-04-09 | 2025-04-09 | 0 | 1 | 1 |
 | Marvell Alleycat5 Solution | 2025-03-11 | 2025-03-11 | 0 | 1 | 1 |
 | …共 18 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-007/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://bornelectronics.com/) | html | 待首轮 | — | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -283,12 +297,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

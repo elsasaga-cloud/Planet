@@ -186,5 +186,15 @@
   "proof_gaps": [],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

@@ -40,8 +40,8 @@
   }
  ],
  "kp": [],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选；闸 1：台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次…",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：同行",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -81,6 +81,14 @@
    "to": "B",
    "prev_reason": "同行/台湾厂商：COP Security（自产 CCTV/网络，OEM/ODM），非渠道客户；c_sub=同行/台湾厂商",
    "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选；闸 1：台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次…"
+  },
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 监控厂 · OEM 30%：COP Security System Corp.（新北新店；1992；$14.5M；联系人 Tony Jiang）部分坐实（統編未取）；制造商 ✔ 具名联系人 ✔ 对位 ✔ → P 池候选；闸 1：台湾 COP Security（cop-security.com；1992 起自有品牌 CCTV，表内「工业交换机 ONV 的」= 配套 PoE / 工业机外购中国品牌）：自有品牌 = OEM 对象 ✔ 进口中国同类 ✔ 对位 ✔；2 次…",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：同行"
   }
  ],
  "lt_review": {
@@ -166,5 +174,15 @@
   "url": "https://cop-security.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "否决：同行",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "官网",
+  "path": "活",
+  "reply": "none",
+  "focus": "other"
  }
 }

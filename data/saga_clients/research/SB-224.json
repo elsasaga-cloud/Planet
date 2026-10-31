@@ -258,5 +258,15 @@
   ],
   "web_facts": [],
   "manual": true
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（26-10-30 A 落池核验未过 → 下放 B：人工终判：Arsenal TV（罗马尼亚 Gmail，电视/视频机构）：2 次回复后 14 次无果，无网站可核）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

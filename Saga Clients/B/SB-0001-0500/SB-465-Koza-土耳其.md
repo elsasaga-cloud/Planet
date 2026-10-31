@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -87,10 +87,9 @@ updated: 2026-10-29
 
 - `kozaguvenlik.com.tr` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 99 批（TR · 1 次检索：官网 İletişim / Hakkımızda（Koza Güvenlik Elektronik Sistemleri San. Tic. Ltd. Şti.；Perpa Ticaret Merkezi A Blok No 808-810-940 Şişli；Koza Plaza Arel Aralığı No 8 Okmeydanı；2005 年成立；「kendi tescilli markaları + distribütörlük」）+ kobitek 会员页（2005）+ LinkedIn（11–50 人；2005）+ Teletek Electronics 官方 Distributors 页（KOZA GÜVENLİK … LTD. ŞTİ. = 土耳其分销商）+ greentechguvenlik.com.tr Grup Şirketlerimiz（Koza = 集团公司；2010 起全国经销网）+ ISAF Exclusive 2019（Kodicom IP / HD 摄像机、Teletek 报警 / 消防）+ 官网页题「Teletek Electronics Distribütörü & Dahua Türkiye Dağıtıcısı」，2026-10-28 查；https://www.kozaguvenlik.com.tr/hakkimizda）：**
 
@@ -212,6 +211,11 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|
 | 2025-09-29 | 2025.9.29 | dac |  | A |  | 土耳其客户 3.10.xlsx#45 |
 | 2025-10-28 | 1028 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#45 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -355,12 +359,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

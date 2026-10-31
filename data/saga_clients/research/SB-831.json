@@ -641,5 +641,15 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（mon）→ 下放 B：Actelis：10-K 自述在以色列 + 台湾制造、原料直采两地；FIPS/国防路线；一年三轮融资；回信只「Maybe…」→ 结构性障碍）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

@@ -345,5 +345,15 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（6-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Namba Software：巴西小型 IT 方案商，只要测 1 台 → 非主攻 + 薄）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

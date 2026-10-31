@@ -170,5 +170,15 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": "[E 2026-02-26] Hi Please send us email from your company Email domain. Like SAGA web site. Not from Gmail. We not do business"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

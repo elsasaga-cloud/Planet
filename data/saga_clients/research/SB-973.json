@@ -33,8 +33,8 @@
    "role": "未具名（域名现为无关数字市场页）— 不动：查无实体 + 国别未知 （第 122 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -136,5 +136,25 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
- }
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "身份未坐实 + 0 回复 + 官网不可用",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "other"
+ },
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用"
+  }
+ ]
 }

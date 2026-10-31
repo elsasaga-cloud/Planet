@@ -133,5 +133,15 @@
   "note": "印度 Vadodara 电气 / 自动化工程公司（Atul Tiwari）：回复 2 次，问证书、「产品对他有用」→ 真人往来 ✔ 工业线对位 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "second"
+ }
 }

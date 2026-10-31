@@ -44,8 +44,8 @@
    "phone": ""
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集成 + 分销 20%：1ST-embedded GmbH（Neu Wulmstorf 2010；CEO Sven Trommer = 表内邮箱）部分坐实（HRB 未取）；决策人直达 ✔ 进口 ISON ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：德国 1st-embedded / supersrv.de（ISON 的，少量工业电口）：德国主区 + 已进口中国工业品牌；3 推 0 回 → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：site_contacts/saga_fit/deep/facts。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
@@ -55,6 +55,14 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集成 + 分销 20%：1ST-embedded GmbH（Neu Wulmstorf 2010；CEO Sven Trommer = 表内邮箱）部分坐实（HRB 未取）；决策人直达 ✔ 进口 ISON ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：德国 1st-embedded / supersrv.de（ISON 的，少量工业电口）：德国主区 + 已进口中国工业品牌；3 推 0 回 → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决"
+  },
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集成 + 分销 20%：1ST-embedded GmbH（Neu Wulmstorf 2010；CEO Sven Trommer = 表内邮箱）部分坐实（HRB 未取）；决策人直达 ✔ 进口 ISON ✔ 主区 ✔ 对位 ✔ → P 池候选；Simon 曾判不行，可否决；闸 1：德国 1st-embedded / supersrv.de（ISON 的，少量工业电口）：德国主区 + 已进口中国工业品牌；3 推 0 回 → 闸 2 查底数，低优先；Simon 曾判不行 → 可按编号否决",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）"
   }
  ],
  "lt_review": {
@@ -204,5 +212,15 @@
   "url": "https://1st-embedded.com/en_US/",
   "date": "2026-10-29",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "最后一句硬婉拒（R-）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R-",
+  "focus": "focus"
  }
 }

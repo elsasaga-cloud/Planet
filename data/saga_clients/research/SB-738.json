@@ -104,5 +104,15 @@
    "body": "Uğur Bey, ISAF'ta sorduğunuz 2 SFP + 8 port PoE yönetilebilir endüstriyel switch için net fiyat: L2 sürümü 82,2 USD, L2+ (halka yedekli) sürümü 137,5 USD EXW; bypass gerekiyorsa 4 SFP + 8 PoE bypass'lı model 194,3 USD — projeniz için hangisi?"
   },
   "as_of": "2026-10-24"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "弱",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

@@ -105,5 +105,15 @@
   },
   "as_of": "2026-10-24"
  },
- "country_fix": "保加利亚"
+ "country_fix": "保加利亚",
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "弱",
+  "reply": "none",
+  "focus": "focus"
+ }
 }

@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,10 +76,9 @@ updated: 2026-10-29
 
 - `telkotim.com` → 其他主机商邮箱（mx001.mnic.xion.oxcs.net）（MX：mx001.mnic.xion.oxcs.net、mx002.mnic.xion.oxcs.net、mx003.mnic.xion.oxcs.net、mx004.mnic.xion.oxcs.net）。主机商附带邮箱（mx001.mnic.xion.oxcs.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 100 批（TR · 1 次检索：官网 İletişim / Hakkımızda / Çerez（Telkotim Bilişim Teknolojileri Tic. Ltd. Şti.；Çamlıca Mah. Anadolu Bulvarı Timko İşyerleri No 20 c-4, Yenimahalle / Ankara；(0312) 473 09 99；bilgi@telkotim.com；2008 年成立；铜缆 / 光缆 / 数据中心布线方案，多品牌 bayi / dağıtıcı）+ Anadolu Ajansı 2022-04-19（Telkotim Bilişim Teknolojileri Genel Müdürü Veli Uysal：2008 起从事 IT / 光纤 / 数据系统；「Türkiye’den 136 ülkeye fiber optik ürün ihracatı」报道）+ Elektrik Dünyası 2024-11（ISAF 2024 参展）+ telkotim.com.tr（TTAF 集团 2003 İstanbul 成立，六大板块；页脚 © 2026 Telkotim … Ltd. Şti. ❤ İnfonet），2026-10-28 查；https://www.telkotim.com/iletisim）：**
 
@@ -172,6 +171,11 @@ updated: 2026-10-29
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-29 | 2025.10.29 | dac |  | A |  | 土耳其客户 3.10.xlsx#61 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -302,12 +306,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

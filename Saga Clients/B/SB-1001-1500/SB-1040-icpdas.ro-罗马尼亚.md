@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,9 +75,9 @@ updated: 2026-10-29
 
 - `icpdas.ro` → 其他主机商邮箱（mx01.whmpanels.com）（MX：mx01.whmpanels.com、mx02.whmpanels.com、mx03.whmpanels.com）。主机商附带邮箱（mx01.whmpanels.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（罗马尼亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（罗马尼亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-30 Saint Andrew's Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 108 批（RO · 1 次检索：icpdas.ro 首页 / About us（Company name CHT DATA SRL；VAT ID RO 32791574；Registry of Commerce J40/8808/2020；Str. Av. Popișteanu nr. 54A Expo Business Park Clădirea 2 Etaj 2 București；0756 427 327；office@icpdas.ro）+ icpdas.com Distributors（Instruments CHT SRL, Aleea Biruintei 134A Ploiesti；+40 756 427 327；office@icpdas.ro；www.icpdas.ro），2026-10-28 查；https://icpdas.ro/en/content/6-about-us）：**
 
@@ -163,6 +163,11 @@ updated: 2026-10-29
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -279,12 +284,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

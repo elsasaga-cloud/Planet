@@ -429,5 +429,15 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

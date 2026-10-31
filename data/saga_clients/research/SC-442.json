@@ -129,5 +129,15 @@
   "done_at": "2026-10-29",
   "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
   "batch": "LT-T01"
+ },
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "弱",
+  "reply": "none",
+  "focus": "focus"
  }
 }

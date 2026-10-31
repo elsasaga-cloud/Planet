@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -141,6 +141,11 @@ updated: 2026-10-29
 
 （无跟进表记录）
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 弱 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 联系方式（已有 · 原值照录）
 
 - 电话：`+359878684007`〔电话/WhatsApp 状态未记；原值见来源表〕
@@ -235,12 +240,12 @@ Hello Toshko, following ISAF: here is the commercial PoE catalogue — 2× SFP +
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 32）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

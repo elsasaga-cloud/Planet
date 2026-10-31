@@ -161,5 +161,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

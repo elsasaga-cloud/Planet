@@ -79,8 +79,26 @@
    "to": "B",
    "prev_reason": "",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
+  },
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：路径断（无邮箱无 WA / MX 死 / 退信）"
   }
  ],
- "grade_override": "B",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：路径断（无邮箱无 WA / MX 死 / 退信）",
+ "b_tier": {
+  "tier": "C",
+  "why": "路径断（无邮箱无 WA / MX 死 / 退信）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "断",
+  "reply": "R+",
+  "focus": "second"
+ }
 }

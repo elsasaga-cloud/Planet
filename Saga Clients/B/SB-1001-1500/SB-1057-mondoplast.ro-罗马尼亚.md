@@ -24,7 +24,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,9 +75,9 @@ updated: 2026-10-29
 - `mondoplast.ro` → 自建 / 同域名邮件服务器（MX：mondoplast.ro）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 - `mondoplast.net` → 自建 / 同域名邮件服务器（MX：mondoplast.net）。自建邮件服务器：有自己的 IT（可能灰名单 → 首封延迟几小时才进箱），像素可用；读信的是技术人，参数先于价格
 
-**假日避让（罗马尼亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（罗马尼亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-30 Saint Andrew's Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 108 批（RO · 1 次检索：mondoplast.ro Contact（SC Mondo Plast SRL；Nr. Registru com. J2000000053116；CIF RO12755240；Capital Social 7.400.000 lei；Sediul Social BOCSA；Timisoara main office Industrial Park Artemis Sânandrei；Bucharest branch Bragadiru；timisoara@mondoplast.net）+ risco.ro（12755240；J2000000053116；Date of establishment February 22, 2000；CAEN 4650 / 4652）+ targetare（Locul 2 Companii din Caras-Severin CAEN 4652 2023–2024）+ gmdu（big warehouses Bucharest, Timisoara, Brasov & Gyal / Budapest；Contact Mr. Patru Ovidiu）+ hornbach GPSR 制造商信息（S.C. MONDO PLAST S.R.L. Str. Gloriei 11 Timișoara），2026-10-28 查；https://www.risco.ro/en/verifica-firma/mondo-plast-cui-12755240）：**
 
@@ -173,6 +173,11 @@ updated: 2026-10-29
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -290,12 +295,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

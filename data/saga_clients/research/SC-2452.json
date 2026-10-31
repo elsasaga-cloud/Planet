@@ -160,5 +160,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

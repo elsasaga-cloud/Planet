@@ -27,7 +27,7 @@ price_tier: 25%
 research: done
 site_snapshot: unreachable  # 2026-10-29
 sources: 3
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,10 +77,9 @@ updated: 2026-10-29
 - `voltechelektronik.com` → 域名不存在。域名已不存在（NXDOMAIN）：这个域的所有地址都退信；公司可能换了域名或关门 → 先核再发，核不到就降级
 - ⚠ 手里这些地址所在的域已收不了信：`info@voltechelektronik.com` → 作废，别再发；该户若无其他域名 / 渠道，列入降级候选
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 105 批（TR · 1 次检索：仅命中 voltechelektronik.com 占位页（Web sitemiz yapım aşamasında；Silivri；info@；WhatsApp +90 551 375 12 25）；其余结果为同名他家（Voltech L.L.C. 迪拜 / Voltsan Silivri / Voltek / Voltech Group 印度）均不采 → 未坐实（规则：1 次未命中即停），2026-10-28 查；http://www.voltechelektronik.com/）：**
 
@@ -158,6 +157,11 @@ WA 一次：STI-288DGGPM 图片+价格（项目 25%）。
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -278,12 +282,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 A，分数 60）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

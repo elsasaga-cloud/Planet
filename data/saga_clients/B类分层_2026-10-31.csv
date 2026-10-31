@@ -1,0 +1,1348 @@
+﻿编号,公司,国家,区域,分层,原因,身份,路径,回信,对位,区域档,出A,否决,类型,邮箱数,企业邮箱,WA,最近来信,官网
+SA-062,ipns-uae.com,阿联酋,中东,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,登记坐实,活,R+,True,other,True,,系统集成商（兼自有 logo 贴牌采购）,2,2,False,,http_error
+SB-008,Abdulaziz Al Jowasem,沙特阿拉伯,中东,B1,有回信（R±）,未坐实,活,R±,True,other,False,,未知（疑为个体贸易/集成）,0,0,True,,
+SB-011,greentechme.net,阿联酋,中东,B1,出 A 户（ A 级终评：降 B：备注成单（非 Saga，本职公司时期）·成单客户（greentechme，用户表）（Simon 2026-10-30：非 Saga 成交））,法定名,活,none,True,other,True,,未知（疑为太阳能/能源方案商）,1,2,True,,ok
+SB-080,cyber-tec.net,伊拉克,中东,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,IT 经销/集成商,2,1,True,,unreachable
+SB-117,Softline Technology,科威特,中东,B1,有回信（R+）,未坐实,活,R+,True,other,False,,,1,0,True,,
+SB-166,Crown Security Solutions,卡塔尔,中东,B1,有回信（R+）,法定名,活,R+,True,other,True,,,0,0,True,,
+SB-175,mbtc.com.sa,沙特阿拉伯,中东,B1,出 A 户（0-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MBTC：阿美认证大型 EPC 承包商 = 项目型终端，设备需入阿美供应商名录 → 终端/门槛）,法定名,活,R+,True,other,True,,,2,2,True,2023-06-19,ok
+SB-190,A Hamson Middle East FZE,阿联酋,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,1,True,,ok
+SB-202,Engineering Group Contractors,黎巴嫩,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,1,True,,ok
+SB-251,pixcom.ae,阿联酋,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,1,True,,ok
+SB-298,VNS technologies,阿联酋,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,2,False,,ok
+SB-324,"Elhem Trading Co., Sal",黎巴嫩,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,2,True,,ok
+SB-325,Hamed electronics LLC,阿联酋,中东,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））,法定名,活,none,True,other,True,,,1,1,True,,
+SB-327,Techno Tower,黎巴嫩,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,1,True,,http_error
+SB-451,e-saudi.net,沙特阿拉伯,中东,B1,有回信（R+）,法定名,活,R+,True,other,True,,IT/网络贸易商（沙特，有回复，业务待核）,1,1,False,2025-04-28,http_error
+SB-685,techsouq.com,阿联酋,中东,B1,有回信（Rw）,法定名,活,Rw,True,other,False,,,2,2,False,2024-09-08,http_error
+SB-696,aironix.co.il,以色列,中东,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,工业网络分销商（以色列，ORing 在供）,3,3,False,2026-08-15,ok
+SB-722,Aptvel global technologies,阿联酋,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,2,4,True,,ok
+SB-788,tss-e.com,沙特阿拉伯,中东,B1,有回信（R+）,法定名,活,R+,True,other,False,,,2,2,False,,ok
+SB-924,Intracom Middle East FZ-LLC,阿联酋,中东,B1,出 A 户（mon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办）,法定名,活,R+,True,other,True,,电信系统厂商中东项目公司（项目采购 PoE，体量大）,3,6,False,2024-10-09,ok
+SC-001,sslcom.com,以色列,中东,B1,有回信（R+）,法定名,活,R+,True,other,True,,系统集成/工程商（无线·战术通信·安全城市）,1,1,False,2024-09-09,
+SC-097,Three Lines Company,沙特阿拉伯,中东,B1,有回信（R+）,法定名,活,R+,True,other,True,,,1,1,True,2025-05-12,ok
+SC-114,Siklu Communication,黎巴嫩,中东,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,1,False,,ok
+SC-1847,engineeransarabbas@yahoo.com,阿联酋,中东,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,other,True,,,2,0,False,,
+SC-2075,shajahan007@gmail.com,沙特阿拉伯,中东,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,0,False,2026-04-03,
+SC-672,Ministry of interior RAK police,阿联酋,中东,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,0,False,,
+SA-013,alfa.com.tw,台湾,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B）,登记坐实,活,R+,True,other,True,,品牌商（台系无线网络品牌，PoE 交换机外采贴牌）,2,3,False,2025-07-28,ok
+SA-014,impulsecctv.com,新加坡,亚太,B1,出 A 户（10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Impulse CCTV：新加坡/温哥华/德里三地叙事、可见团队 4 人 → 主体与规模不清）,登记坐实,活,R+,True,other,True,,品牌商/贴牌需求（OEM/ODM）——安防品牌自有 PoE 交换机线,3,3,False,2026-01-07,ok
+SA-024,Cable Distribution Services,澳大利亚,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,分销商（工业线缆；拓展工业交换机）,2,3,True,,ok
+SA-052,bsn-system.com,印度尼西亚,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,安防/IT 集成商,2,2,True,,ok
+SA-053,infrateq.id,印度尼西亚,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,系统集成商+分销（VoIP/安防/工业网络）,2,2,True,2024-07-04,ok
+SA-068,Pt.ras otomasi indonesia,印度尼西亚,亚太,B1,出 A 户（不是极为 OK 的就 B」（Simon）→ 下放 B：PT. RAS Otomasi：非主攻区、0 封邮件回信、只 2023–24 表内备注 → 非主攻 + 薄）,登记坐实,活,R+,True,other,True,,工业自动化/MEP 系统集成商,1,1,True,,ok
+SB-019,aetektec.com,台湾,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,2,False,,ok
+SB-029,"ETRADINGKOREA Co., Ltd",韩国,亚太,B1,有回信（R+）,登记坐实,活,R+,True,second,False,,品牌商（自有 ETK 系列，疑 ODM 贴牌）+ 分销,4,4,False,2025-06-30,ok
+SB-034,TJ Computer,泰国,亚太,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：身份未坐实）,未坐实,活,R+,True,other,True,,小型经销商,2,1,False,2025-05-14,unreachable
+SB-052,excellent data communications,马来西亚,亚太,B1,有回信（R+）,未坐实,活,R+,True,other,False,,经销/集成商,1,0,True,,
+SB-059,avanca.com.sg,新加坡,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,工业产品经销商,2,2,False,2024-11-06,ok
+SB-070,neowine,韩国,亚太,B1,出 A 户（-30 A 落池核验未过 → 下放 B：人工终判：Neowine（韩国 fabless 芯片公司，想做代理但不懂网络产品）：行业外，2025-01 索样后无下文）,法定名,活,R+,False,second,True,,潜在代理（非本行业）,2,2,False,2025-01-31,ok
+SB-083,"MERIT LILIN ENT. CO., LTD.",台湾,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B）,登记坐实,活,R+,True,other,True,,,2,2,False,2025-02-20,ok
+SB-084,"AD-NET TECHNOLOGY CO., LTD.",台湾,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B）,登记坐实,活,R+,True,other,True,,,2,2,False,2025-09-17,ok
+SB-086,TAILYN,台湾,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B）,登记坐实,活,R+,True,other,True,,,6,6,False,2026-08-11,ok
+SB-087,ASSMANN ASIA,台湾,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,,1,1,False,2025-12-15,ok
+SB-088,EDIMAX,台湾,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,,4,4,False,2025-07-09,ok
+SB-089,"Winsonic Electronics Co., Ltd.",台湾,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,2,2,False,2025-11-24,ok
+SB-1100,IT Broadcast & Cyber Security Infra System,印度尼西亚,亚太,B1,有回信（Rw）,未坐实,活,Rw,True,other,False,,,1,0,False,,
+SB-1102,vienthonggiatot.com,越南,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,,1,0,False,2024-11-03,ok
+SB-141,agilenetworks.com,菲律宾,亚太,B1,有回信（R+）,未坐实,活,R+,True,other,False,,,1,2,True,,mismatch
+SB-142,airpo.co.id,印度尼西亚,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,0,True,,ok
+SB-179,CRISPY CREPES,印度尼西亚,亚太,B1,有回信（R+）,未坐实,活,R+,True,other,True,,,1,0,True,,
+SB-203,PT. Suryatama,印度尼西亚,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,0,True,,
+SB-210,deonet.co.kr,韩国,亚太,B1,有回信（R+）,登记坐实,活,R+,True,second,False,,,2,2,False,,ok
+SB-226,"HANCHANG Infotech CO.,LTD",韩国,亚太,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,韩国网络品牌商（自有标商用 FS，现 Volktek）,2,2,False,2026-01-16,ok
+SB-227,NKF wireless internet and services,菲律宾,亚太,B1,有回信（R+）,未坐实,活,R+,True,other,True,,,1,0,False,2025-01-15,
+SB-267,bio-cognitive.com,新加坡,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,,2,2,True,2025-07-07,ok
+SB-307,Saxco Marketing Sdn Bhd,马来西亚,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,2,2,False,,http_error
+SB-322,Blackbear TechHive,台湾,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,,1,6,False,,ok
+SB-336,"INTERCOAX CO.,LTD",韩国,亚太,B1,有回信（R+）,登记坐实,活,R+,True,second,False,,,3,3,False,,ok
+SB-366,th-it.com,马来西亚,亚太,B1,有回信（Rw）,法定名,活,Rw,True,other,True,,IT 设备租赁商（马来西亚）,1,1,False,2024-09-09,ok
+SB-367,thuyluc.com,越南,亚太,B1,出 A 户（A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：MTS：水电 EPC 液压/电柜配套 = 项目型终端 → 终端）,登记坐实,活,R+,True,other,True,,,3,1,True,2024-06-21,ok
+SB-412,InterConnectivity Computer Solutions,菲律宾,亚太,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,False,other,True,,,0,0,True,,
+SB-414,Rolins,印度尼西亚,亚太,B1,有回信（R+）,未坐实,活,R+,True,other,False,,,0,0,True,,
+SB-438,CTCU,台湾,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）,5,6,False,2026-01-13,ok
+SB-456,pancakumala.co.id,印度尼西亚,亚太,B1,有回信（Rw）,法定名,活,Rw,True,other,False,,,2,1,False,2025-10-07,ok
+SB-510,pongpanot.k@hotmail.com,泰国,亚太,B1,有回信（R+）,未坐实,活,R+,True,other,True,,,1,0,True,2024-07-04,
+SB-637,NaSys Inc,韩国,亚太,B1,有回信（R+）,法定名,活,R+,True,second,False,,,1,2,False,,ok
+SB-728,Fast-Track Systems & Services Pte Ltd,新加坡,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·2020 光猫 8 个（新加坡））,登记坐实,活,none,True,other,True,,,1,0,True,,
+SB-729,Heitech Padu Berhad,马来西亚,亚太,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,,1,1,False,,parked_or_empty
+SB-732,Maxitulin,马来西亚,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,3,False,,ok
+SB-733,Preciso Technology SDN BHD,马来西亚,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,1,False,,ok
+SB-790,vulsanx.com,马来西亚,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,2,False,,ok
+SB-839,ilucoltd.com,台湾,亚太,B1,有回信（R+）,法定名,活,R+,True,other,False,,台湾贸易公司（多品类，网络产品为其一）,2,3,False,2024-10-25,ok
+SB-852,Alam Jaya Management,马来西亚,亚太,B1,有回信（R+）,未坐实,活,R+,True,other,False,,,1,0,False,,
+SB-933,airlive.com,台湾,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B）,登记坐实,活,R+,True,other,True,,台湾品牌商（按「台湾厂商口径」只谈 OEM/ODM）,1,2,False,2024-01-02,ok
+SC-1176,PT Omni Cakrawala Komunikasi,印度尼西亚,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,1,True,2025-12-10,
+SC-1309,"Elftech Co.,Ltd.",韩国,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,second,True,,,1,1,False,,
+SC-1469,Defense MICE Institude,韩国,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,False,second,True,,,1,1,False,,
+SC-1863,saleh90214@gmail.com,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,other,True,,,1,0,False,,
+SC-2012,VEMAX TECHNOLOGY SDN.BHD,马来西亚,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,False,other,True,,,2,2,False,2024-12-29,
+SC-2052,Nadhimentera Engineering,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,0,False,,
+SC-2210,nguyendinhhuanhd@gmail.com,越南,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,0,False,,
+SC-2637,ORIENT TELECOMS,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,1,True,,
+SC-2857,Tropical Computers Cairns,澳大利亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,弱,R+,True,other,True,,,1,1,False,,
+SC-291,fgss.asia,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,1,False,,
+SC-3007,ks-itsolutions.com,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,2,2,False,,
+SC-368,Itmax system sdn bhd,马来西亚,亚太,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,1,True,2024-06-05,
+SC-432,CabNet Systems(M) Sdn. Bhd,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,1,False,,
+SC-439,IRnow Sdn Bhd,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,1,False,,
+SC-676,Puncak Niaga Holdings,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,0,False,,
+SC-679,SPECTRUM,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,0,False,,
+SC-680,SUREN Smart Electrical,马来西亚,亚太,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,1,0,False,,
+SA-035,td-fe.com,俄罗斯,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,品牌商/贸易公司（电源主业，工业交换机为配套）,1,2,False,2025-01-03,ok
+SA-036,svn-video.ru,俄罗斯,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,电商/安装商（自有型号贴牌）,2,1,False,2026-01-04,ok
+SA-057,Born SPb LLC,俄罗斯,俄语区,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3））,登记坐实,活,Rw,True,second,True,,多品牌贸易商/分销,1,1,True,,ok
+SA-064,optat.ru,俄罗斯,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,招投标供货商/贸易商,1,1,True,,ok
+SA-067,"Latmedia Group, LLC",乌兹别克斯坦,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,IT 集成/贸易商,1,2,False,2025-11-24,ok
+SA-069,bptehno.ru,俄罗斯,俄语区,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））,法定名,活,R0,True,second,True,,分销商（光纤传输/视频光端机）,1,1,True,,ok
+SB-060,bargas.ru,俄罗斯,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,False,,电商/销售平台,2,2,False,2024-12-18,ok
+SB-1122,comtinu.ru,俄罗斯,俄语区,B1,有回信（R+）,法定名,活,R+,True,second,True,,俄罗斯网络项目商（25G/100G 项目）,2,3,False,2025-12-03,ok
+SB-1135,raisecom.su,俄罗斯,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,俄罗斯经销/项目商（Raisecom 代理）,1,1,True,2024-06-20,unreachable
+SB-191,Astkom,俄罗斯,俄语区,B1,有回信（R±）,登记坐实,活,R±,True,second,False,,,1,0,True,,
+SB-218,nag.ru,俄罗斯,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,False,,,3,7,False,2025-10-01,ok
+SB-297,"Chisinau, Ion Creanga 66, Chisinau, Chisinau, Republic of Moldova, 2064",摩尔多瓦,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,1,0,True,,
+SB-313,intellcom.net,格鲁吉亚,俄语区,B1,有回信（Rw）,登记坐实,活,Rw,True,other,False,,分销商（IT / 安防 / 供电，格鲁吉亚）,2,3,False,2025-06-12,ok
+SB-320,353311@mail.ru,俄罗斯,俄语区,B1,出 A 户（0 A 级终评：降 B：备注成单（非 Saga，本职公司时期）·成单客户（Kryukov，用户再筛选表）（Simon 2026-10-30：非 Saga 成交））,未坐实,活,none,True,second,True,,,2,0,True,,
+SB-487,npotelecom.ru,俄罗斯,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,电信设备企业（俄罗斯，有回复，用户标重要）,2,2,False,2026-05-12,timeout
+SB-499,b.medvedev11@mail.ru,吉尔吉斯斯坦,俄语区,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3））,未坐实,活,Rw,True,other,True,,,1,0,True,,
+SB-562,ALT VISION,俄罗斯,俄语区,B1,有回信（R+）,法定名,活,R+,True,second,False,,,1,1,True,,ok
+SB-608,Marlen Sadybekov,哈萨克斯坦,俄语区,B1,有回信（R+）,未坐实,活,R+,True,second,False,,,0,0,True,,
+SB-950,line-net,格鲁吉亚,俄语区,B1,有回信（R+）,登记坐实,活,R+,True,other,False,,,1,1,True,,ok
+SB-976,dauren.boltaev@mail.ru,乌兹别克斯坦,俄语区,B1,出 A 户（ A 级终评：降 B：备注成单（非 Saga，本职公司时期）·成交 2 次（Boltaev，俄语区名单）（Simon 2026-10-30：非 Saga 成交））,未坐实,活,none,True,second,True,,,1,0,True,,
+SC-1812,ns-t.ru,俄罗斯,俄语区,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,second,True,,,2,2,False,2024-06-20,
+SC-2823,ST SPACE TECHNOLOGY,俄罗斯,俄语区,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,second,True,,,2,1,False,,
+SA-018,Sewell,美国,北美,B1,出 A 户（ A 级终评：降 B：备注成单（非 Saga，本职公司时期）·PoE 电源常下单（Sewell，复购型）（Simon 2026-10-30：非 Saga 成交））,登记坐实,活,none,True,focus,True,,品牌商/电商（消费 AV 连接；PoE 电源复购客户）,4,5,False,,ok
+SA-022,Addon Computer Products,美国,北美,B1,出 A 户（10-30 A 级终评：降 B：备注成单（非 Saga，本职公司时期）·6 台 MC 样品（Addon）（Simon 2026-10-30：非 Saga 成交））,登记坐实,活,none,True,focus,True,,品牌商/制造商（兼容光模块；MC 等外采贴牌）,4,5,True,,ok
+SA-025,Avenger Security（getsecurityalarm.com）,美国,北美,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,安防集成/安装商（小型，自装自用采购）,3,2,False,,ok
+SA-044,dymec.com,美国,北美,B1,有回信（R±）,登记坐实,活,R±,True,focus,True,,品牌商（白牌贴牌，OEM 目标）,2,2,False,2025-09-22,ok
+SA-046,ipcampower.com,美国,北美,B1,有回信（R+）,登记坐实,活,R+,True,focus,False,,品牌商/电商（中国白牌贴牌，OEM 目标）,1,2,False,2025-08-21,ok
+SA-054,softnetworks.net,美国,北美,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,二手/翻新网络设备经销商,1,2,False,2025-05-13,ok
+SA-058,alphanetcom.com,美国,北美,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,布线承包商/小型系统集成商,1,2,False,2025-09-26,ok
+SB-010,americanfibertek.com,美国,北美,B1,出 A 户（on）→ 下放 B：American Fibertek：Made in America / BAA + 外采线要求 TAA 合规（中国产地不合规）→ 结构性障碍）,登记坐实,活,R+,True,focus,True,,品牌商（美国本土制造 + TAA 外采线）,2,4,False,2024-11-22,ok
+SB-051,Prestige Satellites Communications S.A.C.,美国,北美,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,通信集成/经销商,1,2,False,,ok
+SB-085,DIGI Group,美国,北美,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,2,4,True,2025-11-28,ok
+SB-209,denwaip.com,美国,北美,B1,有回信（Rw）,登记坐实,活,Rw,True,focus,False,,IP 通信品牌商（美国/拉美，自有标 PoE）,2,2,False,2024-12-12,ok
+SB-221,tyconsystems.com,美国,北美,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,品牌商（离网供电 + PoE，自有 TP- 系列，OEM 采购）,3,4,False,,ok
+SB-349,dualcomm.com,美国,北美,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络 TAP/EoC 自有品牌商（美国，MC 为副线）,1,1,False,,ok
+SB-356,infinicoreinc.com,美国,北美,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））,登记坐实,活,none,True,focus,True,,,2,3,True,,ok
+SB-364,nitrotelmanufacturing.com,美国,北美,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,布线/网络品牌商（美国迈阿密，拉美导向；自有标 MC/FS）,2,2,False,,ok
+SB-393,mapleye.com,加拿大,北美,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,多伦多安防品牌/安装商（自有标，HiSource 代工迹象，OEM 采购）,2,3,False,,ok
+SB-435,saucontech.com,美国,北美,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,2,4,False,,ok
+SB-477,eminnovate.com,美国,北美,B1,有回信（R+）,法定名,弱,R+,False,focus,True,,,1,1,False,2025-06-29,ok
+SB-532,eclipsecctv.com,美国,北美,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,CCTV 品牌/分销商（美国）,3,3,False,,ok
+SB-538,infinitecables.com,加拿大,北美,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,北美连接产品网店（含 OEM 定制）,4,4,False,,ok
+SB-555,tacel.ca,加拿大,北美,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,ITS/交通方案集成商（加拿大，EtherWAN 在用）,3,3,False,,ok
+SB-613,cozzmic.com,加拿大,北美,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电信/安防集成商（加拿大）,3,3,False,,ok
+SB-673,nodactechnology.com,美国,北美,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防弱电分销商（美国/加勒比）,1,2,False,,ok
+SB-694,Le Reveil,加拿大,北美,B1,有回信（R+）,未坐实,活,R+,True,focus,False,,,1,0,True,2024-06-24,
+SB-701,chk999@outlook.com,美国,北美,B1,有回信（R+）,未坐实,活,R+,True,focus,True,,,1,0,False,2024-10-30,
+SB-712,maplesystems.com,美国,北美,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化品牌商（HMI/PLC 自有品牌，交换机为配套 OEM 采购）,2,3,False,,ok
+SB-741,canarycom.com,美国,北美,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,光纤 MC 品牌商（美国，现 Volktek 供货）,2,2,False,,ok
+SB-761,getscw.com,美国,北美,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,商用安防品牌商（美国，自有标 PoE）,3,3,False,,ok
+SB-775,patton.com,美国,北美,B1,有回信（R+）,法定名,活,R+,True,focus,False,,,6,6,False,2025-02-03,ok
+SB-780,signamax.com,美国,北美,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络连接产品品牌商（美国，量大）,3,3,False,,ok
+SB-787,tccomm.com,美国,北美,B1,有回信（R+）,法定名,活,R+,True,focus,True,,工业光通信制造商（自有品牌，入门工业交换机可 OEM）,3,4,False,2024-10-30,ok
+SB-831,actelis.com,美国,北美,B1,出 A 户（mon）→ 下放 B：Actelis：10-K 自述在以色列 + 台湾制造、原料直采两地；FIPS/国防路线；一年三轮融资；回信只「Maybe…」→ 结构性障碍）,登记坐实,活,R+,True,focus,True,,,2,2,False,2026-03-02,ok
+SB-913,lanpro.com,美国,北美,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络组件品牌商（美国/拉美，自有品牌 LanPro）,1,1,False,,ok
+SB-951,montavue.com,美国,北美,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,美国安防摄像系统 DTC 品牌（自有 logo PoE，OEM 采购）,1,2,False,,ok
+SC-1853,itezan 公司名 没查到东西,美国,北美,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,False,focus,True,,,1,0,True,,
+SC-2150,milo64@telus.net,加拿大,北美,B1,有回信（R+）,未坐实,活,R+,True,focus,True,,,1,0,False,2025-05-27,
+SC-2255,poetexas.com,美国,北美,B1,有回信（R±）,法定名,活,R±,True,focus,False,,OEM（闸 2 判定 · 30% 档）,4,5,False,2024-05-07,ok
+SC-3133,federalcable.net,美国,北美,B1,出 A 户（= Actelis 销售 Casey Hurley 的另一地址，2024-09 回「Maybe….」；本户并入 SB-831 Actelis（A），不单独立 A）,未坐实,活,R+,True,focus,True,,,1,1,False,2024-09-26,
+SC-838,koscomcable.com,美国,北美,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,focus,True,,,1,0,False,,
+SA-037,aeconnect.co.in,印度,南亚,B1,有回信（R±）,登记坐实,活,R±,True,second,True,,品牌商（部分进口贴牌 + 本地组装）,1,2,True,,ok
+SA-038,dncsolutions.co.in,印度,南亚,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3））,登记坐实,活,Rw,True,second,True,,品牌商（光纤配套，MC 贴牌）,1,1,True,,timeout
+SB-013,synchcom.com.pk,巴基斯坦,南亚,B1,出 A 户（注成单（非 Saga，本职公司时期）·样品单 MC 25km + 8 口网管 PCB（Synchcom）（Simon 2026-10-30：非 Saga 成交））,法定名,活,none,True,other,True,,系统集成 + 分销（电信/IT/国防）,2,2,True,,ok
+SB-035,Thimphu Techpark,不丹,南亚,B1,有回信（R+）,法定名,活,R+,True,other,False,,IT/网络经销商,2,2,True,,ok
+SB-044,Win-Tech Alliance Ltd,印度,南亚,B1,有回信（R+）,法定名,活,R+,True,second,False,,设备组装/贸易商,1,1,True,,parked_or_empty
+SB-045,advancedigital.co.in,印度,南亚,B1,有回信（R+）,法定名,活,R+,True,second,False,,贸易商,1,1,True,,parked_or_empty
+SB-062,Aarya ITES Pvt. Ltd.,印度,南亚,B1,有回信（R+）,登记坐实,活,R+,True,second,False,,安防集成/经销商,3,4,True,,ok
+SB-069,mutexsystemsltd.com,巴基斯坦,南亚,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·早年百兆/非管理（巴基斯坦，无互动））,法定名,活,none,True,other,True,,IT 公司,2,4,False,,ok
+SB-1104,Agility Elektrotekniks Pvt Ltd,印度,南亚,B1,有回信（R+）,登记坐实,活,R+,False,second,False,,,1,0,False,,
+SB-1105,Suraj Katte,印度,南亚,B1,有回信（R+）,未坐实,活,R+,True,second,False,,,0,0,True,,
+SB-1108,Sunmars Enterprises,巴基斯坦,南亚,B1,有回信（R+）,法定名,活,R+,True,other,False,,,0,0,True,,http_error
+SB-1138,devray.in,印度,南亚,B1,出 A 户（K 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察））,登记坐实,活,R+,True,second,True,,印度 Make-in-India OEM（自称 OEM for Switches,2,2,False,2026-03-31,ok
+SB-114,swift.net.pk,巴基斯坦,南亚,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,3,True,,ok
+SB-120,Pronet Connectivity (Pvt) Ltd.,巴基斯坦,南亚,B1,有回信（R±）,法定名,活,R±,True,other,False,,,1,3,True,,ok
+SB-169,agsplus.in,印度,南亚,B1,有回信（R+）,法定名,活,R+,True,second,True,,,4,4,False,2025-06-04,parked_or_empty
+SB-194,SRI ANNAI BUSINESS ASSOCIATES,印度,南亚,B1,有回信（R+）,法定名,活,R+,True,second,False,,,2,1,True,,unreachable
+SB-305,Bits&Byte CONSULTING PVT LTD,印度,南亚,B1,有回信（R+）,登记坐实,活,R+,True,second,False,,,2,3,False,,ok
+SB-306,Digital systems,印度,南亚,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3））,未坐实,活,Rw,True,second,True,,,1,0,True,,
+SB-341,SMART SECURITY SYSTEMS,印度,南亚,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,second,True,,,1,0,False,,
+SB-357,infonet-tech.com,印度,南亚,B1,有回信（R+）,法定名,活,R+,False,second,False,,,1,4,True,2024-06-22,mismatch
+SB-450,comtech.net.pk,巴基斯坦,南亚,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,0,1,True,,ok
+SB-518,Info Systems Lahore,巴基斯坦,南亚,B1,有回信（R±）,未坐实,活,R±,True,other,False,,,0,0,True,,
+SB-583,usman2c@hotmail.com,巴基斯坦,南亚,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,other,True,,,2,0,True,,
+SB-630,CORE IT SOLUTIONS,印度,南亚,B1,有回信（R+）,登记坐实,弱,R+,True,second,True,,,1,1,False,2025-06-17,ok
+SB-692,Anda Telecom,印度,南亚,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,,5,5,True,2026-08-04,ok
+SB-827,GOIP Global Services Pvt Ltd,印度,南亚,B1,有回信（R+）,登记坐实,活,R+,True,second,True,,,3,6,True,2024-10-24,ok
+SB-830,Usman,巴基斯坦,南亚,B1,有回信（R+）,未坐实,活,R+,True,other,False,,,0,0,True,,
+SB-872,israr_awan@hotmail.com,巴基斯坦,南亚,B1,有回信（R+）,未坐实,活,R+,False,other,True,,,1,0,True,,
+SC-1167,vmo broadband pvt ltd,印度,南亚,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,second,True,,,1,0,False,2025-09-30,
+SC-1177,Projexon,印度,南亚,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,second,True,,,1,0,False,,
+SC-1366,mayenetsolutions.com,印度,南亚,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,second,True,,,1,1,False,,
+SC-1371,mywatchdog.in,印度,南亚,B1,出 A 户（」（Simon）→ 下放 B：WatchDog（mywatchdog.in）= Apollo Infoways 同一公司 → 副档归 B，跟进只走 SB-641）,法定名,活,R+,True,second,True,,OEM（闸 2 判定 · 30% 档）,1,1,False,2024-09-19,ok
+SC-1504,imrany2m@gmail.com,巴基斯坦,南亚,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,other,True,,,1,0,True,,
+SC-1715,onsite.pk,巴基斯坦,南亚,B1,出 A 户（300 台 CLI 工业 L2 标书）转来，主体未坐实（网查只见 onsite.com.pk 网络安全公司，未必同一家）——并入 SC-1200 跟进，本户 B）,未坐实,活,R+,False,other,True,,,1,1,False,2024-10-07,
+SC-1793,axisindia.in,印度,南亚,B1,有回信（R+）,法定名,活,R+,True,second,False,,工业分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-1795,bbcpl.in,印度,南亚,B1,有回信（R+）,法定名,活,R+,True,second,False,,工业网络分销（闸 2 判定 · 20% 档）,1,2,False,2025-11-19,ok
+SC-1804,indraheera.com,印度,南亚,B1,有回信（Rw）,法定名,活,Rw,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,2024-05-20,ok
+SC-2217,Shinhoinia,印度,南亚,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,False,second,True,,,1,0,False,,
+SC-3149,starcom.com.pk,巴基斯坦,南亚,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,巴基斯坦 IT 分销,2,4,False,2026-02-26,ok
+SC-3203,jteemsolutions.com,斯里兰卡,南亚,B1,出 A 户（ision/Dahua）：2024-12/2025-01 两封（要 spec+price、「I am interested」）后无下文；非主攻区小安装商 → B）,未坐实,活,R+,True,other,True,,,1,0,False,2025-01-04,
+SC-324,enercore.co.in,印度,南亚,B1,出 A 户（落池核验未过 → 下放 B：人工终判：enercore.co.in：2024-05 两句（4 口价格 / 印度有无现货）后无回，身份与规模未坐实；印度名单留 B）,未坐实,活,R+,True,second,True,,,1,1,False,2024-05-16,
+SB-079,cansisteknoloji.com,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,小型安防/电脑零售安装商,2,2,True,,timeout
+SB-105,cenova.com.tr,土耳其,土耳其,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,CCTV 分销商（土耳其，PoE 现 Ewind）,2,2,False,,ok
+SB-137,ORAL GUVENLIK,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,1,2,False,,ok
+SB-140,ag-bilgisayar.com,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,1,2,False,,ok
+SB-149,klasnet.com.tr,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,1,2,False,,ok
+SB-153,sinerjik,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,1,2,False,,ok
+SB-167,ONSIS ELEKTRONIK,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,1,2,False,,ok
+SB-185,Zeytek,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,1,2,True,,ok
+SB-225,CESS Govalik,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,1,1,False,,unreachable
+SB-283,oncuguvenlik.com.tr,土耳其,土耳其,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防/网络分销商 + 自有标 Sec-on（土耳其，Utepo/BDCOM 工业,2,2,False,,ok
+SB-475,cctvdepo.com,土耳其,土耳其,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防/电脑配件经销门户（土耳其，SZNT PoE）,1,6,False,,ok
+SB-489,portel.com.tr,土耳其,土耳其,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业网络部件分销商（土耳其，现三旺）,2,2,False,,ok
+SB-565,Marmaris Bilişim,土耳其,土耳其,B1,有回信（R+）,法定名,活,R+,True,focus,True,,,0,0,True,,
+SB-723,BİLGEN ELEKTRONİK,土耳其,土耳其,B1,有回信（R+）,法定名,弱,R+,True,focus,False,,,0,0,False,,
+SB-727,Fadi,土耳其,土耳其,B1,有回信（R+）,未坐实,弱,R+,True,focus,False,,,0,0,False,,
+SB-738,Ugur Simsek Netmax,土耳其,土耳其,B1,有回信（R+）,法定名,弱,R+,True,focus,False,,,0,0,False,,
+SA-061,RYMTECH EAS,巴拉圭,拉美,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,系统集成/工程商,2,1,True,,ok
+SB-031,OM Telecom S.R.L.,秘鲁,拉美,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,电信设备经销商,1,1,True,,ok
+SB-1137,Infotec Comercio de Equipamentos e Sistemas de Segurança Ltda.,巴西,拉美,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,巴西安防设备经销（CCTV）,1,0,False,2024-11-19,
+SB-1139,arnoldomohr@gmail.com,危地马拉,拉美,B1,有回信（R+）,未坐实,活,R+,True,other,True,,方案商 / 项目经理（为终端客户找 Cisco 替代）,1,0,False,2026-03-11,
+SB-771,lanprosa.com,哥斯达黎加,拉美,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,True,other,True,,,2,2,False,2026-06-30,ok
+SB-900,Eleandro,巴西,拉美,B1,有回信（R+）,未坐实,活,R+,True,other,False,,,0,0,True,,
+SC-1841,cnca.com.ar,阿根廷,拉美,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,1,False,,
+SC-2766,saikooperu@gmail.com,秘鲁,拉美,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,0,True,2024-08-16,
+SC-584,nambasoftware.com.br,巴西,拉美,B1,出 A 户（6-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Namba Software：巴西小型 IT 方案商，只要测 1 台 → 非主攻 + 薄）,未坐实,活,R+,False,other,True,,,1,0,False,2026-08-04,
+SA-017,parallaxdigital.co.uk,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,微型 OEM/ODM 品牌商（自有品牌网络设备）,2,3,False,2024-10-24,ok
+SA-019,allnet.de,德国,欧洲,B1,有回信（R±）,登记坐实,活,R±,True,focus,True,,分销商 + 自有品牌（ALLNET，OEM 采购）,1,1,False,2025-07-10,ok
+SA-034,rfog.pl,波兰,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,分销商（自有型号贴牌）,2,3,True,,ok
+SA-041,lightoptics.pl,波兰,欧洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））,登记坐实,活,R0,True,focus,True,,分销商/电商（自有品牌贴牌）,1,2,True,,ok
+SA-074,Elite Team Security Ltd,保加利亚,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,安保服务商 + 视频监控集成（终端用户/集成商）,1,2,True,2025-12-17,ok
+SA-075,Falke security,德国,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防经销/项目商,1,1,False,,ok
+SB-005,rovez.sk,斯洛伐克,欧洲,B1,出 A 户（0 A 级终评：降 B：备注成单（非 Saga，本职公司时期）·工业 PoE FS 样品单（Rovez）（Simon 2026-10-30：非 Saga 成交））,法定名,活,none,True,focus,True,,安防集成商（Avigilon 经销）,1,1,False,,ok
+SB-009,sicurmax.com,意大利,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,True,,安防集成商（含军方/NATO 场所资质）,2,2,True,,ok
+SB-015,suministros-industriales.es,西班牙,欧洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3））,登记坐实,活,Rw,True,focus,True,,工业 MRO 供应商（非网络渠道）,1,1,False,,ok
+SB-017,Securitytec,英国,欧洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））,登记坐实,活,none,True,focus,True,,安防批发商（小型）,1,2,False,,ok
+SB-018,Smart-Protect,德国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,安防安装商（微型）,1,1,False,2025-06-10,ok
+SB-021,LOOP TELECOM,法国,欧洲,B1,有回信（R±）,登记坐实,活,R±,True,focus,False,,台系品牌制造商（可能的低端 OEM 采购方）,4,4,False,2025-12-04,ok
+SB-022,Desk Technologies,德国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,安防集成/项目商,1,4,False,,ok
+SB-025,SIPe,法国,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安装商/小型集成商,1,1,False,,ok
+SB-027,VoIPDistri,德国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,网店型分销商（VoIP + 工业网络）,1,1,False,,timeout
+SB-030,Medias-Com'S,瑞士,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,小型经销商/集成商,2,2,False,,ok
+SB-038,tricomp.com.pl,波兰,欧洲,B1,有回信（R+）,登记坐实,活,R+,False,focus,True,,IT/电信工程与咨询公司,1,5,True,,ok
+SB-040,4Demand Co,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,IT 贸易商,1,2,True,,ok
+SB-041,Telcam Fire&securoty Ltd,英国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防/消防分销商,1,2,False,,ok
+SB-048,Almaks Security SystemsGospodara,塞尔维亚,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防集成/经销商,1,2,False,,ok
+SB-055,DIOS ULTRA HD VIDEO SECURITY SYSTEMS,荷兰,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,安防集成/经销商,1,2,True,2025-03-05,ok
+SB-056,Net Work Business Solutions,爱沙尼亚,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,IT/网络服务商,1,1,True,,ok
+SB-058,SABMARtv,波兰,欧洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·HDMI 光端机样品（波兰））,登记坐实,活,none,True,focus,True,,视频/广电技术经销商,1,1,True,,
+SB-063,Avesta,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,贸易商/分销,2,2,False,,ok
+SB-073,ANB rimex,比利时,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,集成/经销商,1,2,False,,ok
+SB-075,Gmka,希腊,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,集成/经销商,1,1,False,,ok
+SB-092,spacetronik.pl,波兰,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,波兰自有品牌电子商店（交换机现由 HRUI 代工 → Q-33 口径）,1,1,False,,ok
+SB-1000,alphaelettronica.com,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电子产品与配件分销商（意大利）,1,2,False,,ok
+SB-1003,aplusnet.de,德国,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络产品经销商（德国，Digitus 为主）,2,2,False,,ok
+SB-1004,arpeo.pl,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电工/线缆附件分销商（波兰，工业交换机为副线）,1,1,False,,ok
+SB-1011,binarteknik.se,瑞典,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业电子与自动化分销商（瑞典，Antaira/Planet 工业线）,1,2,False,,ok
+SB-1014,bluenote.ro,罗马尼亚,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,SCADA/IoT 集成商（罗马尼亚，现用宇航工业 FS）,1,4,False,,ok
+SB-1016,cae-groupe.com,法国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,线缆与连接方案分销商（法国，数据网络线含交换机）,1,1,False,,ok
+SB-1017,cellco.com.pl,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,光纤技术分销商（波兰，MC 为有源副线）,1,6,False,,ok
+SB-1019,connectixcablingsystems.com,英国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,结构化布线品牌商（英国，有源为副线）,4,6,False,,ok
+SB-1025,elfon.com.pl,波兰,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,楼宇对讲制造商（波兰，自有品牌，PoE 为配套）,1,6,False,,ok
+SB-1029,fibersystem.com,瑞典,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,光纤安全产品开发商（瑞典，自有品牌；MC/FS 外采）,3,3,False,,ok
+SB-1038,icecom.is,冰岛,欧洲,B1,强对位（系统集成）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,IT/通信系统集成商（冰岛）,1,3,False,,ok
+SB-1044,ipcctv.ch,瑞士,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,瑞士 CCTV 与对讲方案商/分销,1,1,False,,ok
+SB-1047,kamsys.pl,波兰,欧洲,B1,有回信（Rw）,登记坐实,活,Rw,True,focus,False,,安防网店（波兰）,3,3,False,2025-10-05,ok
+SB-1057,mondoplast.ro,罗马尼亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电信设备进口分销商（罗马尼亚）,1,4,False,,ok
+SB-1063,pc-industriali.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业 PC 制造/分销商（意大利，Advantech 工业 FS）,1,1,False,,ok
+SB-1067,raytelsecurity.com,英国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,门禁/CCTV 分销商（英国）,1,1,False,,ok
+SB-1069,reweb.it,意大利,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,IT/IoT 集成商兼工业网络分销（意大利，Perle/Advantech 在售,4,4,False,,ok
+SB-1079,spesaelettrica.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电气材料分销商（意大利，多仓）,1,1,False,,ok
+SB-1082,standardaudio.se,瑞典,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,AV/专业音频系统分销商（瑞典）,1,4,False,,ok
+SB-1085,tayama.pl,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防/电子分销网店（波兰）,1,1,False,,ok
+SB-1086,teamtelecom.ro,罗马尼亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电信设备分销/集成商（罗马尼亚，PLANET 工业线在售）,1,1,False,,ok
+SB-1088,tipteh.com,斯洛文尼亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化分销集团（Hirschmann 等）,1,6,False,,ok
+SB-1093,vercoma.nl,荷兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,对讲/门禁/CCTV 方案分销商（荷兰）,1,1,False,,ok
+SB-1094,videobits.co.uk,英国,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络产品经销（英国，站点待核）,1,1,False,,ok
+SB-1097,yatun.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,智能家居/AV 集成分销商（捷克，PLANET 等品牌在售）,1,2,False,,ok
+SB-1099,zxtech.co,英国,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,英国家用 CCTV 品牌（配套 PoE 自有标，OEM 采购）,1,1,False,,ok
+SB-1130,cnstech.gr,希腊,欧洲,B1,有回信（Rw）,法定名,活,Rw,True,focus,False,,CCTV/网络安装商（兼小批量转售）,1,1,False,2026-05-20,ok
+SB-1132,nedic.aleksandar@gmail.com,塞尔维亚,欧洲,B1,有回信（R+）,法定名,活,R+,True,focus,True,,塞尔维亚小型集成/经销（拓展网络业务）,1,0,False,2024-05-16,
+SB-118,genrov.com,英国,欧洲,B1,出 A 户（下放 B：人工终判：Genrov Ltd（英国一人 ROV 技术服务公司）：交换机需求是 ROV 项目一次性配套，2024-06 要过 DS 后无回；无复购土壤）,登记坐实,活,R+,True,focus,True,,,1,2,False,2024-06-16,ok
+SB-129,Addon Technology Ltd,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,1,2,False,,ok
+SB-130,Bonmag International,罗马尼亚,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,1,2,True,,ok
+SB-134,Kassaba Systems,保加利亚,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,2,2,False,,ok
+SB-147,genieproducts.co.uk,英国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,英国 CCTV 品牌商（商用 PoE 贴标，Ewind 代工，OEM 采购）,2,2,False,,ok
+SB-151,optiwatch monitoring solution,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,2,3,False,,ok
+SB-154,wire.tech,英国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,网络配件品牌商（英国，自有标 MC/光模块）,3,5,False,,ok
+SB-159,elmospa.com,意大利,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,意大利安防系统制造商（CCTV 配套 PoE 可贴标，OEM 采购）,3,3,False,,ok
+SB-170,balter.de,德国,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国安防自有品牌商（PoE 部分由 HRUI 供货 → Q-33 口径）,1,5,False,,ok
+SB-172,consteel-electronics.com,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,工业自动化产品分销商（波兰，3onedata 工业线）,3,3,False,,ok
+SB-196,extradigital.eu,立陶宛,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,False,,,1,1,False,2024-08-13,ok
+SB-205,barox.de,德国,欧洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））,登记坐实,活,R0,True,focus,True,,视频网络交换机品牌商（德/瑞，自有 logo，OEM 采购）,3,3,False,2024-05-03,ok
+SB-207,ccontrols.de,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,楼宇自动化品牌商（自有 CTRLink 交换机线，OEM 采购）,1,6,False,,ok
+SB-208,delock.com,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国配件品牌商（自有 logo MC/PoE 周边，OEM 采购）,1,3,False,,ok
+SB-214,level1.com,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络品牌商（LevelOne，OEM 采购；已有在供厂商）,1,3,False,,ok
+SB-215,lindy.co.uk,英国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,欧洲连接产品品牌商（自有标网络/工业交换机，OEM 采购）,3,4,False,,ok
+SB-224,Arsenal TV,罗马尼亚,欧洲,B1,出 A 户（26-10-30 A 落池核验未过 → 下放 B：人工终判：Arsenal TV（罗马尼亚 Gmail，电视/视频机构）：2 次回复后 14 次无果，无网站可核）,法定名,活,R+,False,focus,True,,,1,0,True,,
+SB-231,advance.technology,英国,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,英国兼容光模块/配件自有品牌商（MC/PoE 贴标，OEM 采购）,1,1,False,,ok
+SB-232,aixontec.com,德国,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络技术网店/自有品牌（德国，用户标「着重跟」）,2,2,False,,ok
+SB-238,digimax.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,工业电源与工业 PC 分销商（在售 Maiwe 工业交换机）,3,3,False,,ok
+SB-240,frogfish.de,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国 CCTV 品牌商（PoE 现 HRUI 贴标 → Q-33 口径）,1,2,False,,ok
+SB-241,gluszek.tomasz@gmail.com,爱尔兰,欧洲,B1,有回信（R+）,未坐实,活,R+,True,focus,True,,,1,0,True,,
+SB-242,grothe.de,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,楼宇对讲/CCTV 品牌商（Urmet 集团德国，OEM 采购）,2,3,False,,ok
+SB-246,isnetworks.pl,波兰,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,网络集成商兼产品销售（波兰）,2,2,False,2026-02-09,ok
+SB-254,sicurtecnicanapoli.it,意大利,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防经销网店（意大利，Utepo 工商业 FS 在售）,1,1,False,,ok
+SB-257,voxplus.it,意大利,欧洲,B1,强对位（系统集成）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,系统集成商（意大利，工业线用 Maiwe）,3,5,False,,ok
+SB-260,HK GmbH,德国,欧洲,B1,强对位（系统集成）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,系统集成商（德国，PoE + 光口需求）,1,2,False,,ok
+SB-261,"RecTec servis, s.r.o.",捷克,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化/回收线集成商（捷克，光模块 RFQ）,1,2,False,,ok
+SB-264,TIER1 DATA SYSTEMS LIMITED,英国,欧洲,B1,强对位（经销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,IT 硬件/备件经销商（英国，品牌货为主）,1,1,False,,ok
+SB-269,contradata.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业网络/嵌入式分销商（意大利，台湾品牌为主）,3,3,False,,ok
+SB-271,dodicelettronica.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防分销商（意大利，面向安装商）,4,4,False,,ok
+SB-279,marlexconexion.com,西班牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,网络产品分销商（西班牙，多品牌）,3,3,False,,ok
+SB-288,secomp-international.com,瑞士,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,IT/网络 B2B 分销商（瑞士，现含 HRUI → Q-33 口径）,1,1,False,,ok
+SB-289,sisav.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化产品分销商（意大利）,3,4,False,,ok
+SB-292,teslanetworks.be,比利时,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业网络/天线分销商（比利时，ORing 为主）,3,4,False,,ok
+SB-295,wicomsolutions.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,通信部件分销商（意大利，工业 FS/MC 栏目）,1,1,False,,ok
+SB-309,alternetivo.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,IT 分销商（捷克，NNET 工业 PoE 在售）,2,7,False,,ok
+SB-317,techfors.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防分销商（捷克，IFS 工业 FS 在售）,1,1,False,,ok
+SB-342,Sure Transport,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,2,2,False,,ok
+SB-360,longtek,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,1,2,False,,ok
+SB-369,wieland-electric.com,德国,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国电气连接技术制造商（自有标工业 FS，OEM 采购；体量大）,1,3,False,,ok
+SB-394,maxtel.bg,保加利亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防/通信分销商（保加利亚，工业 PoE 现 ONV）,3,3,False,,ok
+SB-401,securasound.co.uk,英国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,安防分销商（英国，PoE 现 ONV）,2,3,False,,ok
+SB-405,tinycontrol.pl,波兰,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,LAN 控制/PoE 小品牌商（波兰，自有品牌）,2,2,False,,ok
+SB-423,es-france.com,法国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,增值技术分销商（法国，ORing 工业 FS）,1,1,False,,ok
+SB-424,golmar.es,西班牙,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,楼宇对讲/安防制造商（西班牙，自有品牌，PoE 为配套）,1,1,False,,ok
+SB-425,gsginternational.com,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防技术分销商（意大利，barox/ComNet/Lantech + 自有 Eu,2,2,False,,ok
+SB-426,helmholz.de,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国工业网络品牌商（PROFINET，自有品牌）,2,2,False,,ok
+SB-432,qubix.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业网络分销商（意大利，Planet 为主）,3,3,False,,ok
+SB-437,tpole.it,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业 PC 方案分销商（意大利，Volktek 工业 FS/MC）,3,4,False,,ok
+SB-441,Metal Union,波兰,欧洲,B1,出 A 户（ B：备注成单（非 Saga，本职公司时期）·€50 光模块 + 转换器（Metal Union，微单）（Simon 2026-10-30：非 Saga 成交））,登记坐实,活,none,True,focus,True,,,1,1,False,,
+SB-445,aicom.pl,波兰,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,布线/CCTV 自有品牌批发商（波兰，用户标「着重跟」）,1,6,False,,ok
+SB-448,bettinivideo.com,意大利,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,意大利安防品牌商（GAMS NVR；PoE 现 ONV 贴标 + ComNet）,4,4,False,,ok
+SB-452,espuk.com,英国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防品牌商（英国，PoE 现 Folksafe）,3,3,False,,ok
+SB-461,EMOS,捷克,欧洲,B1,出 A 户（B」（Simon）→ 下放 B：EMOS（捷克，290 人）2022 年起为 Legrand 集团成员 → 巨头子公司，Simon 2026-10-30 定 B）,登记坐实,活,R+,True,focus,True,,,2,2,False,,ok
+SB-462,Eter biometric technologies Srl,意大利,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,门禁/消防系统集成商（意大利，bypass 需求）,2,2,False,2026-08-05,ok
+SB-470,asm.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,ICT 分销商（PLANET 捷克渠道，面向安装商/SI）,1,2,False,,ok
+SB-472,bma-networks.com,德国,欧洲,B1,强对位（系统集成）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,企业 IT 系统集成商（德国，Extreme 生态）,2,6,False,,ok
+SB-474,casecomms.com,英国,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,True,,,3,3,False,2025-02-08,ok
+SB-479,ezy.hr,克罗地亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,IT 设备分销商（克罗地亚，在售 PLANET）,3,4,False,,ok
+SB-488,octogate.de,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国 IT 安全品牌商（配套交换机贴标，现用 FS.com）,2,4,False,,ok
+SB-493,syserso.com,德国,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,ICT 集成商（德国，KRITIS/运营商，民用口径）,2,7,False,,ok
+SB-534,elfcams.com,法国,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,自有品牌网络配件电商（工厂直销定位，OEM 采购）,1,2,False,,ok
+SB-535,escadtrade.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,CCTV 分销网店（捷克，多品牌）,1,6,False,,ok
+SB-547,netinet.pl,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,IT 分销商（波兰，Intellinet 代理，用户着重）,2,5,False,,ok
+SB-554,sysnettelematica.it,意大利,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,ICT/电信集成商（意大利，工业 FS 现 CTC Union）,3,3,False,,ok
+SB-569,cablematic.com,西班牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电脑周边分销 + 自有品牌 BeMatik（OEM 采购）,1,1,False,,ok
+SB-574,lanberg.pl,波兰,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,波兰 IT 配件品牌商（Lanberg，OEM 采购；体量较大）,2,2,False,,ok
+SB-576,matrix.es,西班牙,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业电子/IoT 组件供应商（西班牙，面向集成商）,1,1,False,,ok
+SB-585,vidos.pl,波兰,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,对讲/门禁品牌商（波兰，自有标 PoE）,1,1,False,,ok
+SB-589,bydemes.com,西班牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防头部分销商（西班牙，Wi-Tek/Cudy 预算线在售；体量大）,4,7,False,,ok
+SB-593,ibdglobal.com,西班牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,专业安防分销商（西班牙，Utepo / TP-Link PoE）,3,4,False,,ok
+SB-594,kmsoltec.com,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业 PC 制造/分销（意大利，Delock 配件）,1,1,False,,ok
+SB-601,visus.pt,葡萄牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电信/CCTV 分销商（葡萄牙，Utepo 在售）,2,6,False,,ok
+SB-611,avanis.de,德国,欧洲,B1,强对位（系统集成）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,网络/WLAN 系统集成商（德国，Edgecore 在用）,3,7,False,,ok
+SB-625,virtware.pt,葡萄牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电信/布线产品分销商（葡萄牙，TP-Link 管理交换机在售）,2,2,False,,ok
+SB-644,art2soft.eu,塞浦路斯,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,无线产品分销商（塞浦路斯，500+ 经销商）,1,2,False,,ok
+SB-664,jm.pl,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业电子与自动化分销商（波兰，ICP DAS / InHand 线）,1,2,False,,ok
+SB-680,schrack.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电气材料集团分销商（捷克，自有标网络线来自台湾 ODM）,4,9,False,,ok
+SB-683,spectra.de,德国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业 PC 制造商 + 自动化分销（德国，ORing 工业线）,2,3,False,,ok
+SB-726,Elettronica E Sicurezza,意大利,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防系统分销商（意大利，PoE 延长器/EoC 询盘）,1,2,False,,ok
+SB-752,enika.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,电气/照明分销商（捷克，网络为边缘品类）,2,7,False,,ok
+SB-758,fossfibreoptics.com,挪威,欧洲,B1,有回信（R+）,登记坐实,活,R+,True,focus,False,,光纤基础设施供应商（挪威/斯洛伐克，台湾品牌有源设备在售）,3,6,False,2025-06-20,ok
+SB-765,inv-technology.com,法国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防品牌商/网店（法国科西嘉，Ruijie PoE 在售）,2,3,False,,ok
+SB-768,kbvdatacom.rs,塞尔维亚,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,电信工程/集成商（塞尔维亚，bypass 模块订单）,1,3,False,,ok
+SB-778,pyramid.lt,立陶宛,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防网店/分销（立陶宛，Longse / Hikvision）,3,4,False,,ok
+SB-782,simpleuk.com,英国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,英国兼容光模块品牌商（T Optics；交换机为配套，OEM 采购）,2,2,False,,ok
+SB-789,visarcctv.com,立陶宛,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,波罗的海安防品牌商（自有 VSS 系列 PoE，OEM 采购）,2,2,False,,ok
+SB-791,wachendorff-prozesstechnik.de,德国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化组件供应商（德国，自有+分销）,1,1,False,,ok
+SB-794,wut.de,德国,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国工业接口制造商（配套工业交换机线，OEM 采购）,1,1,False,,ok
+SB-833,comtime-com.de,德国,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,工业路由器制造商（德国，自有品牌，交换机为邻近品类）,2,3,False,,ok
+SB-834,eneo-security.com,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,CCTV 品牌商（德国，PoE 现 Utepo，用户着重）,1,1,False,,ok
+SB-840,inline-info.com,德国,欧洲,B1,强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,德国配件品牌商（InLine / Intos，OEM 采购，用户标「着重跟」）,1,1,False,,ok
+SB-888,stordis.com,德国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,开放网络分销商（德国/英国，Marvell AC5 平台）,2,7,False,,ok
+SB-901,Hersnet Ltd,匈牙利,欧洲,B1,有回信（R+）,未坐实,活,R+,True,focus,True,,,1,0,True,,
+SB-907,besd.nl,荷兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化数据通信分销商（名牌组合，含研华）,2,2,False,,ok
+SB-975,cctv-global.co.uk,英国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,安防分销商（伦敦，Hikvision/Ajax 渠道）,2,3,False,,ok
+SB-997,agmultivision.it,意大利,欧洲,B1,强对位（集成商）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,AV/多媒体集成商（意大利）,1,2,False,,ok
+SC-007,bornelectronics.com,英国,欧洲,B1,有回信（R+）,法定名,活,R+,True,focus,True,,疑似国产工业交换机品牌的英国前台/休眠壳公司,1,1,False,2025-05-18,
+SC-1033,Bausch Datacom,比利时,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,6,False,,ok
+SC-1168,vuetec.de,德国,欧洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,False,focus,True,,,1,1,False,,
+SC-1194,eldi.no,挪威,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,3,4,False,,ok
+SC-1215,router.lv,拉脱维亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-1220,starelec.fi,芬兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,2,3,False,,ok
+SC-1335,discomp.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,中型分销（闸 2 判定 · 20% 档）,3,3,False,,ok
+SC-1446,lojacctv.com,葡萄牙,欧洲,B1,有回信（Rw）,登记坐实,活,Rw,True,focus,False,,分销（闸 2 判定 · 20% 档）,2,2,False,2024-11-04,ok
+SC-1491,distri-x.nl,荷兰,欧洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,focus,True,,,2,1,False,,
+SC-1629,sominetworks.com,立陶宛,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,4,5,False,,ok
+SC-1675,tekmodul.de,德国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业通信 / 无线模块分销（Atop 经销）,2,4,False,,ok
+SC-1706,itvsecurity.com,丹麦,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SC-1713,oak-integrator.lv,拉脱维亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化分销（Mitsubishi Electric 拉脱维亚独家 + Wes,1,5,False,,ok
+SC-1714,omniray.ch,瑞士,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业自动化分销商（Moxa 分销）,1,3,False,,ok
+SC-1890,etim.benin@gmail.com,法国,欧洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,focus,True,,,1,0,True,,
+SC-2219,comelitgroup.com,意大利,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,3,False,,ok
+SC-2372,eurosatscotland.co.uk,英国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,2,2,False,,ok
+SC-2516,novuscctv.com,波兰,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,auto,True,focus,False,,OEM（闸 2 判定 · 30% 档）,3,3,False,,ok
+SC-2609,partizanstore.eu,捷克,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,自有品牌安防厂商（Partizan，2008 起，布拉格）,1,1,False,,ok
+SC-2684,hirtv.net,匈牙利,欧洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,False,focus,True,,,1,1,True,,
+SC-2718,mercasat.es,西班牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-2725,todotelecom.com,西班牙,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-274,alcadon.no,挪威,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,集团分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-2802,Euro Security Solutions Ltd,英国,欧洲,B1,有回信（R+）,登记坐实,弱,R+,True,focus,True,,集成商（闸 2 判定 · 25% 档）,1,1,False,,http_error
+SC-2813,siospa.it,意大利,欧洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,弱,R+,True,focus,True,,,1,1,False,,
+SC-2834,Dipol,波兰,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,3,4,False,,ok
+SC-2943,extralink24.com,波兰,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,3,False,,ok
+SC-3023,nettrans.pl,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,2,3,False,,ok
+SC-3135,sphinxcomputer.fr,法国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,工业分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-3204,koc.com.cn,西班牙,欧洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,focus,True,,,2,2,True,,
+SC-568,efb-elektronik.de,德国,欧洲,B1,强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,自有品牌分销商 OEM（闸 2 判定 · 30% 档）,0,1,False,,ok
+SC-575,kst-bg.com,保加利亚,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,2,2,False,,ok
+SC-656,100mega.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,大分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-665,Civitas systems Srl,罗马尼亚,欧洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,法定名,活,R+,False,focus,True,,,1,1,False,,
+SC-671,Leader Optec,英国,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,5,False,,ok
+SC-678,QVIS,英国,欧洲,B1,强对位（OEM）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-770,elmark.com.pl,波兰,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,中型工业分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-783,expressalarm.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-908,prumysloveswitche.cz,捷克,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SC-925,sarcitalia.it,意大利,欧洲,B1,有回信（Rw）,登记坐实,活,Rw,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,2,False,2024-12-30,ok
+SC-956,systerra.de,德国,欧洲,B1,强对位（分销）+ 登记坐实 + 主攻区 + 路径活,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SA-005,Taurus Vision,南非,非洲,B1,有回信（R+）,登记坐实,活,R+,True,other,True,,安防集成商（CCTV/视频管理）,1,1,True,,ok
+SB-016,Richard Jackson,坦桑尼亚,非洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,False,other,True,,,0,0,True,,
+SB-110,itkati.com,乌干达,非洲,B1,有回信（R+）,法定名,活,R+,True,other,True,,,1,1,True,,unreachable
+SB-1110,amineachoura21@gmail.com,阿尔及利亚,非洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,0,False,,
+SB-1117,Switchcom Distribution (Pty) Ltd,南非,非洲,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,登记坐实,活,none,True,other,True,,网络设备分销商（ICT 分销：无线 / 网络 / VoIP / 监控 / 光纤；,2,2,False,,ok
+SB-116,Pyramid Enterprises,津巴布韦,非洲,B1,出 A 户（人工终判：Pyramid Enterprises（津巴布韦，无域名）：2025 主动问 100 对千兆 WDM MC 项目——WDM 非 Saga 线；非主攻区）,未坐实,活,R+,True,other,True,,,1,0,True,,
+SB-168,WIMEX TECHNOLOGIES,毛里塔尼亚,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,,2,1,True,,ok
+SB-182,NETBOWL PTY LTD,博茨瓦纳,非洲,B1,有回信（R±）,未坐实,活,R±,True,other,False,,,1,0,True,,
+SB-183,Onyx Technology Solutions Limited,乌干达,非洲,B1,有回信（R+）,法定名,活,R+,True,other,True,,,1,0,True,,
+SB-222,（未具名）,赞比亚,非洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,other,True,,,0,0,True,,
+SB-229,TESCOM COMPANY LIMITED,坦桑尼亚,非洲,B1,有回信（Rw）,法定名,活,Rw,True,other,False,,,1,2,True,2025-10-01,ok
+SB-239,empicstar.com,尼日利亚,非洲,B1,有回信（R+）,官网,活,R+,True,other,False,,,1,0,True,,ok
+SB-310,arcanlibya.com,利比亚,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,1,True,,ok
+SB-337,Kimberley telecommunications,肯尼亚,非洲,B1,有回信（R+）,未坐实,活,R+,True,other,False,,,1,0,True,,
+SB-339,OMEGATEC SARL,喀麦隆,非洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,other,True,,,1,0,True,,
+SB-340,ROCKBIOS Limited,加纳,非洲,B1,有回信（R+）,未坐实,活,R+,True,other,True,,,0,0,True,,
+SB-373,（未具名）,尼日利亚,非洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,other,True,,,0,0,True,,
+SB-443,Spring Network,南非,非洲,B1,有回信（Rw）,未坐实,活,Rw,True,other,False,,,1,0,True,,
+SB-564,Latitude,莫桑比克,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,,2,1,False,,http_error
+SB-580,nsavyumwamip@gmail.com,布隆迪,非洲,B1,出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）,未坐实,活,R+,True,other,True,,,1,0,True,,
+SB-586,Matrix vision systems,肯尼亚,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,1,True,,unreachable
+SB-672,netshieldsa.com,南非,非洲,B1,有回信（Rw）,法定名,活,Rw,True,other,False,,自有品牌网络/电源产品商（南非）,2,2,False,2026-03-23,ok
+SB-817,masstracktech.com,加纳,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,2,True,,ok
+SB-865,dbjcontrad@hotmail.com,赞比亚,非洲,B1,有回信（R+）,未坐实,活,R+,True,other,True,,,1,0,False,2025-10-05,
+SB-896,wafulamusine@gmail.com,肯尼亚,非洲,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,other,True,,,1,0,True,2025-04-16,
+SB-897,wellspeter8@gmail.com,肯尼亚,非洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,other,True,,,2,0,True,,
+SB-991,Tubal,埃及,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,,1,2,False,,ok
+SC-023,Central Gospel School,加纳,非洲,B1,出 A 户（026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Central Gospel School（加纳学校，终端用户）→ 终端 + 非主攻）,法定名,活,R+,True,other,True,,,1,0,True,2024-06-23,
+SC-1332,dbg.co.za,南非,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,2023-11-21,ok
+SC-1623,shopfiber.co.za,南非,非洲,B1,出 A 户（6-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Southern Elements：南非光纤网店，一次问 10 台价 → 非主攻 + 薄）,未坐实,活,R+,True,other,True,,,1,1,True,2024-10-16,
+SC-2153,ronaldmsimango@gmail.com,南非,非洲,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,other,True,,,1,0,False,,
+SC-2575,kbmahe@gmail.com,尼日利亚,非洲,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,0,True,,
+SC-3026,说是有需求会说的，问了catalog,喀麦隆,非洲,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,法定名,活,R+,False,other,True,,,1,0,False,,
+SC-3073,bandasonkelly@gmail.com,津巴布韦,非洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,1,0,True,2026-08-19,
+SC-3249,te.eg,埃及,非洲,B1,出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,False,other,True,,,2,0,False,,
+SC-619,hdcabling.co.za,南非,非洲,B1,出 A 户（AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））,未坐实,活,R+,True,other,True,,,3,3,False,2024-07-18,
+SC-622,iacontrol.co.za,南非,非洲,B1,有回信（R+）,法定名,活,R+,True,other,False,,工业分销（闸 2 判定 · 20% 档）,7,7,False,2025-11-05,ok
+SA-065,smbit.co.il,以色列,中东,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,ICT 系统集成商（含市政智慧城市项目）,1,3,True,,ok
+SB-033,Marvel ITCS Bahrain,巴林,中东,B2,OK 但无回信/非主攻,法定名,活,R0,True,other,False,,IT 经销/集成商,1,2,True,,ok
+SB-1020,cratsol.ae,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IT 贸易商（英国/阿联酋，DAC 询盘）,1,1,False,,ok
+SB-1062,odoo.com,卡塔尔,中东,B2,OK 但无回信/非主攻,法定名,活,auto,True,other,False,,安防集成商（卡塔尔，Utepo 在用）,1,2,False,,mismatch
+SB-1073,sensoguard.com,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,周界安防系统商（美国，民用项目口径）,2,3,False,,ok
+SB-136,Metalog International DMCC,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,2,True,,ok
+SB-148,isrcorp.co.il,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,True,,ok
+SB-228,Negoh-Op,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,True,,ok
+SB-253,provision-isr.com,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,CCTV 品牌商（PoE 配套，深圳有办事处）,1,1,False,,ok
+SB-296,BHS Telecom 视频比较多一些,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,R0,True,other,False,,,1,2,True,,ok
+SB-328,advice.co.il,以色列,中东,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,电源/机房方案分销商（以色列，PLANET 工业线 + 自有 logo）,1,1,False,,ok
+SB-376,Leamratech,阿曼,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,2,True,,ok
+SB-378,Pal Wintec,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,门禁/对讲安装商（以色列，云管理需求）,1,2,False,,ok
+SB-400,safanetworks.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,网络产品经销商（阿联酋）,1,1,False,,http_error
+SB-404,teamac-arabia.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,BMS/弱电集成商（阿联酋，8 光 8 PoE 询盘）,1,5,False,,ok
+SB-421,distribolutions.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,False,,ok
+SB-464,HAMDAZTECH TECHNOLOGIES INC LLC,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,2,True,,ok
+SB-482,keme-tec.com,约旦,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,项目集成商（约旦，24 口管理 RFQ）,2,1,False,,ok
+SB-495,topnetdistribution.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,ICT 分销商（阿联酋，3onedata / Nsgate / B+B 工业线）,3,3,False,,ok
+SB-530,dss-kuwait.com,科威特,中东,B2,OK 但无回信/非主攻,法定名,活,auto,True,other,False,,安防集成商（科威特，ONV 深度合作）,6,6,False,,ok
+SB-561,zoomlinenetwork.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,分销商（IT 网络 + 安防 + 光纤，KSA/UAE）,2,2,False,,ok
+SB-577,metaworldcomputers.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IT 经销商（沙特）,1,1,False,,ok
+SB-581,sheildify.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,电商/网店（安防 + 弱电，迪拜）,1,1,False,,ok
+SB-588,WAN networking technology,伊拉克,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,True,,ok
+SB-689,tiscontrol.com,阿曼,中东,B2,OK 但无回信/非主攻,法定名,弱,none,True,other,False,,智能家居/酒店自动化品牌（阿曼，PoE 配套外采）,1,1,False,,ok
+SB-693,Bin Hilal Group,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,多元化集团采购（阿联酋，5 口 RFQ）,1,1,False,,ok
+SB-704,ethical-ltd.com,以色列,中东,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,采购服务/通信产品供应商（以色列，Perle 为主）,1,1,False,,ok
+SB-706,eworldme.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工业自动化与数据通信分销商（中东，Moxa 为主）,2,4,False,,ok
+SB-711,madalix.co.il,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工业计算分销商（以色列，工业 FS 现 Maiwe）,2,2,False,,ok
+SB-785,smartsystems.jo,约旦,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,网络集成/分销商（约旦，BDCOM 在供）,2,2,False,,ok
+SB-878,magnusgulf.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IT 分销商（阿联酋，Vivotek 工业 PoE 在售）,3,4,False,,ok
+SB-902,Magnus Infotech Dubai,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工业交换机分销商（阿联酋，实体待核）,1,0,False,,
+SB-911,itmarket.co.il,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,0,0,True,,ok
+SB-915,radwin.com,以色列,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,固定无线设备厂商（以色列，体量大；配套交换机 OEM）,2,3,False,,ok
+SB-917,torqsys.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,3,False,,ok
+SB-918,Alston Systems,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,布线系统品牌商（阿联酋，MC/FS 为配套）,2,6,False,,ok
+SB-926,Osool Coummunications,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,2,True,,ok
+SB-928,SEVEN Stars,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,True,,ok
+SB-935,alshuaibelectronics.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,True,,ok
+SB-995,acixme.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,门禁/安防集成商（阿联酋，Utepo 在用）,3,3,False,,ok
+SC-1248,avensiauae.com,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,贸易 / 集成（闸 2 判定 · 25% 档）,2,3,True,,ok
+SC-257,Al Rajhi Telecommunication (alrajhitel.com),沙特阿拉伯,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,系统集成 / 数据中心,1,4,False,,ok
+SC-577,leap-networks.ae,阿联酋,中东,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,油气 / 交通电信系统集成商（DWDM / TETRA / SDH / CCTV,2,3,False,,ok
+SA-040,success-network.co.th,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,R0,True,other,False,,分销商/系统集成（多品牌）,1,1,False,2025-09-12,ok
+SB-023,itk.co.th,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,经销商,1,1,False,,ok
+SB-050,PT. ANUGERAH,印度尼西亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,经销/集成商,1,2,False,,ok
+SB-054,testronix.ph,菲律宾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,经销商,1,2,False,,ok
+SB-066,comtec.com.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,经销商,1,1,False,,ok
+SB-067,crec.com.ph,菲律宾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,经销/集成商,1,1,False,,ok
+SB-1012,bitstreamcore.com,菲律宾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,False,,timeout
+SB-1027,everbesthk.com,香港,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,港澳品牌独家分销商（香港）,3,4,False,,ok
+SB-1035,gponnetwork.com,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,网络设备供应链/经纪商（新加坡，之前联系过）,1,4,False,,ok
+SB-1050,keydence.com,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防/布线集成商（新加坡）,1,2,False,,ok
+SB-115,PT. Catur Citra Wisesa,印度尼西亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,0,True,,
+SB-133,Gigalight Pte ltd,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,2,2,False,,ok
+SB-138,Volktek,台湾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,2,2,False,,ok
+SB-157,dci.jp,日本,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,媒体转换/工业网络产品商（日本，ORing / 光路 / CTC Union）,2,2,False,,ok
+SB-158,diatrend.com,日本,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,日本自有品牌电缆/PoE 配件厂商（OEM 采购）,4,4,False,,ok
+SB-161,mahanet-jp.com,日本,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,日本安防安装商/自有标（Utepo PoE 在售）,1,1,False,,ok
+SB-184,Vernetzen Pty Ltd,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,3,True,,ok
+SB-200,sysnetcenter.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,网络设备电商/经销 + 安装（多品牌）,1,1,False,,ok
+SB-216,ltsecurityinc.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防分销商（澳洲，LTS 线；自有型号工业 FS 由 Utepo 代工）,2,3,False,,ok
+SB-219,sieraelectronics.com,香港,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,拉美导向安防品牌商（香港注册，PoE 现 ONV 贴标）,1,1,False,,ok
+SB-220,sun-flowers.co.kr,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,CCTV 品牌商（韩国，自有标 PoE；官网待核）,1,1,False,,ok
+SB-236,congtyminhphuoc.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,0,False,,ok
+SB-312,fibercomtelecoms.com,菲律宾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,2,False,,ok
+SB-314,rspotsolutions.com,菲律宾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,False,other,False,,,1,1,False,,ok
+SB-316,swl.co.nz,新西兰,亚太,B2,OK 但无回信/非主攻,法定名,活,auto,True,other,False,,安防批发分销商（新西兰，Provision-ISR / Utepo）,3,4,False,,ok
+SB-319,viewtech.co.nz,新西兰,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防批发分销商（新西兰，多品牌）,3,3,False,,ok
+SB-329,cansol.co.kr,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,韩国工业网络品牌商（Monad，bypass 需求；官网待核）,1,1,False,,ok
+SB-330,omninet.com.vn,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,网络品牌商（新加坡/越南，自有标 Switch；官网待核）,2,2,False,,ok
+SB-345,andcorp.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,网络/光纤配件品牌商（澳大利亚，Utepo + 自有标 MC）,3,3,False,,ok
+SB-346,atz.com.sg,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,网络/安防经销商（新加坡，PoE 现 ONV）,2,2,False,,http_error
+SB-348,cloudtronics.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,澳洲网络/光模块自有品牌商（工业 PoE 贴标，OEM 采购）,3,4,False,,ok
+SB-361,luckyjoint.com.sg,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,auto,True,other,False,,电信网络工程商（新加坡，PoE 长距需求）,4,4,False,,ok
+SB-380,Yellowbox Co Pty Ltd,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,智能储物柜系统商（澳大利亚，PoE 为配套）,1,4,False,,ok
+SB-381,accessofranco.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,False,other,False,,能源智能方案商（泰国，MaiWe 工业 FS 在用）,1,1,False,,ok
+SB-383,autechcontrol.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,自动化产品分销/服务商（澳洲，Maiwe 工业 FS 在售）,2,2,False,,ok
+SB-398,osd.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,澳洲工业网络品牌商（自有 OSD 系列，OEM 采购）,2,2,False,,ok
+SB-407,winnerintertech.com,泰国,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工业网络分销商（Moxa 官方渠道）,3,4,False,,ok
+SB-440,JMP,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,2,1,False,,ok
+SB-458,satsdigital.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,网络/安防产品网店（泰国，低价导向）,1,1,False,,ok
+SB-468,"Ninh Thanh Production and Trading Co., Ltd.",越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,电信/数字化贸易商（越南，1 光 4 电 RFQ）,1,1,False,,ok
+SB-471,austec.net,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,False,,ok
+SB-480,hanyotele.com,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,韩国 MC/工业 FS 品牌商（自有 logo）,0,1,False,,ok
+SB-500,cetsingapore.com,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业网络品牌商（新加坡，自有标；官网待核）,1,1,False,,ok
+SB-502,elimopt.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,韩国网络/光传输自有品牌商（PoE 全系贴标，OEM 采购）,2,4,False,,ok
+SB-503,elprotech.com,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业无线厂商（澳大利亚，自有标工业 FS）,3,3,False,,ok
+SB-504,eltech.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,电气批发商（澳洲，少量自有 logo 交换机）,3,3,False,,ok
+SB-505,eso.co.th,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业传感器与自动化分销商（泰国）,2,3,False,,ok
+SB-506,fibertek-ap.com,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,光网络产品自有品牌商（新加坡，疑似国内货源）,1,1,False,,ok
+SB-507,fibreoptic.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,光纤方案制造商（澳大利亚，自有标 MC/交换机为配套）,3,3,False,,ok
+SB-508,gotinc.co.kr,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,韩国网络品牌商（自有标，现 G-net 海思方案）,1,1,False,,ok
+SB-509,ionetech.com,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业网络公司（韩国，8 光 8 管理询盘）,1,1,False,,http_error
+SB-511,rivershop.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,韩国配件品牌商（NEXI，OEM 采购）,1,3,False,,ok
+SB-513,starlink.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,韩国网络分销商（自有 Starlink 标，Soltech 合作）,2,2,False,,ok
+SB-515,3tel.com.sg,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防/网络产品供应商（新加坡，Utepo 工商业 FS）,2,2,False,,ok
+SB-523,aristel.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,澳洲电话/网络系统品牌商（PoE 现由 HRUI 供货 → Q-33 口径）,1,1,False,,ok
+SB-528,commfront.com,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业通信配件自有品牌网店（美国，高标价）,1,2,False,,ok
+SB-536,highlink.co.kr,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,韩国工业无线方案商（交换机现含 HRUI → Q-33 口径）,1,1,False,,ok
+SB-540,jdktech.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,澳洲工业 IoT 方案商（自有 JDK 标 PoE，OEM 采购）,1,2,False,,ok
+SB-545,mreit.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,韩国 PoE 品牌商（现 HRUI 贴标 → Q-33 口径）,1,1,False,,ok
+SB-546,ness.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,安防产品制造/分销商（澳大利亚，PoE 现 Utepo）,3,3,False,,ok
+SB-552,securevision.com.sg,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,安防系统集成商（新加坡，PoE 现由 HRUI 供货 → Q-33 口径）,3,6,False,,ok
+SB-553,sequrinet.us,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,VMS/NVR 方案商（韩国/美国，工业 FS 现 Utepo）,1,1,False,,ok
+SB-557,ubitron.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,CCTV/计算机制造商（韩国，PoE 为配套）,1,3,False,,ok
+SB-567,TGM Global Pte Ltd,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工程贸易商（新加坡，MC 机架询盘）,2,7,False,,ok
+SB-570,certech.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,布线与网络连接分销商（澳洲，Edimax 工业线）,3,3,False,,ok
+SB-579,nnc.net.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,1,True,,http_error
+SB-584,vanphatdat.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,1,True,,ok
+SB-604,Burns Precision Ag,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,精准农业设备商（澳大利亚，车载低压 PoE 需求）,1,3,False,,ok
+SB-606,HME Solutions,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,False,other,False,,矿业车队管理方案商（澳大利亚，升压 PoE 询盘）,1,1,False,,ok
+SB-609,ablelink.co.th,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,网络/安防分销商（泰国，Witek/Oring）,1,2,False,,ok
+SB-612,clouditnetwork.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,VoIP 方案商（泰国，LVswitch 在售）,1,1,False,,ok
+SB-614,focomm-cabling.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,布线与网络设备分销商（面向 SI / 工厂 / 政府项目）,1,1,False,,ok
+SB-618,jeatech.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工业电子分销商（澳洲，ORing 工业线）,3,3,False,,ok
+SB-624,ubwh.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,R0,True,other,False,,多品牌网店（澳大利亚，平台型）,1,1,False,2025-06-20,ok
+SB-628,BRIGHTNET SERVICES SDN BHD,马来西亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,系统集成商（马来西亚，企业级品牌为主）,1,2,False,,ok
+SB-633,Hoang Long Import-Export and Trading Joint Stock Company,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,越南工业网络品牌/贸易商（3onedata 合作，自有标）,3,3,False,,ok
+SB-634,Hoang Thien An Technology Trading Corp.,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,光通信产品贸易商（越南，MC 机架询盘）,2,2,False,,ok
+SB-663,hstn.co.th,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,网络/酒店系统集成分销商（泰国）,3,5,False,,ok
+SB-697,alliedasia.com.sg,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,连接产品网店/分销（新加坡，无工业级需求）,3,3,False,,ok
+SB-699,ccdact.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,澳洲网络配件自有品牌商（MC/SFP 为主，OEM 采购）,2,3,False,,ok
+SB-702,ctsystem.com,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）,1,6,False,,ok
+SB-705,eware.com.hk,香港,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,AV/UC 系统集成商（香港，PoE 为配套）,1,1,False,,ok
+SB-708,hyconext.com,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,自有品牌网络产品商（新加坡，2.5G/10G 为主）,2,3,False,,ok
+SB-710,ktinet.com.tw,台湾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,台湾品牌制造商（按「台湾厂商口径」只谈 OEM/ODM 二供）,1,1,False,,ok
+SB-714,netsecurity.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,电子安防批发分销商（澳洲，Planet/Moxa 网络线）,1,1,False,,ok
+SB-715,netsys.com.tw,台湾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,台湾网络设备厂商（自有 Netsys 品牌，台湾厂商口径）,1,2,False,,ok
+SB-716,radioparts.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,电子产品综合分销商（澳洲，含 CCTV 品类）,3,7,False,,ok
+SB-717,skyware.com.hk,香港,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IP 设备方案商（香港，工业 FS 为周边）,1,1,False,,ok
+SB-719,trioms.com,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,仪器/技术产品分销商（新加坡，工业 MC 单品）,1,1,False,,ok
+SB-734,SIGMA RECTRIX SYSTEMS (M) SDN BHD,马来西亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,2,False,,ok
+SB-736,Sun Energy Enterprise Sdn Bhd,马来西亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,1,False,,ok
+SB-746,cybron.com.my,马来西亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,True,,ok
+SB-755,fibresales.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,光纤配件品牌商（澳大利亚，自有标 MC）,1,1,False,,ok
+SB-776,prolink2u.com,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,auto,True,other,False,,消费/SMB 电子品牌商（新加坡，自有标 PoE）,1,1,False,,ok
+SB-797,Excel Engineering (SG) Pte Ltd,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工程公司（新加坡，MC 需求）,1,1,False,,unreachable
+SB-800,acelink.com.tw,台湾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,台湾网络 ODM/品牌商（台湾厂商口径二供）,1,1,False,,ok
+SB-804,bm-switch.com,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,裸金属交换机网店（台湾，数据中心向）,1,4,False,,ok
+SB-812,ethernetdirect-jp.com,台湾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）,1,1,False,,ok
+SB-813,ifocusshop.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防集成/经销（CCTV 安装为主）,1,0,False,,ok
+SB-820,prismwifi.com,台湾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,台湾企业 Wi-Fi 品牌商（配套 PoE 自有标；台湾厂商口径二供）,1,1,False,,ok
+SB-822,solidcable.com,日本,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,通信工程材料电商/批发（日本，MC 现 ONV）,1,1,False,,ok
+SB-844,oemarket.com,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,网络配件网店（澳大利亚，MC）,1,1,False,,http_error
+SB-876,lilin.vn,越南,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,CCTV 分销商（越南，自有 logo 工业交换机）,1,1,False,,ok
+SB-882,pctelecom.co.th,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,CCTV 销售安装商（泰国，Utepo 交换机）,1,1,False,,ok
+SB-883,phuongdung.com,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,auto,True,other,False,,网络产品分销/批发商（越南，ONV 在售）,1,1,False,,ok
+SB-885,riverplus.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业 IoT 分销商（泰国，Teltonika 交换机线）,3,4,False,,ok
+SB-909,daejinnetworks.com,韩国,亚太,B2,OK，待首触反馈,法定名,弱,none,True,second,False,,韩国网络方案商（CENTEC 平台交换机，邮箱待补）,0,0,False,,ok
+SB-919,"Bismon Co.,Ltd",泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,网络产品品牌商（泰国，产品线相似）,3,3,False,,ok
+SB-922,Fiberbase,韩国,亚太,B2,OK，待首触反馈,官网,活,none,True,second,False,,光通信产品分销商（韩国，MC 现 Diva）,1,1,False,,ok
+SB-923,HYESUNG TECHWIN,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业光通信设备商（韩国，bypass 需求）,3,3,False,,ok
+SB-925,"MIRAE SIGNAL CO.,LTD",韩国,亚太,B2,OK，待首触反馈,登记坐实,活,R0,True,second,False,,韩国网络品牌商（明确供应商稳定，低期望）,1,2,False,2025-03-06,ok
+SB-929,SOLTECH,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,韩国网络设备厂商（自有 SFC 标工业交换机，OEM 采购；Simon 客户）,3,5,False,,ok
+SB-931,Wave1 Pty Ltd,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,无线微波通信集成商（澳大利亚）,2,2,False,,ok
+SB-936,altronics.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,R0,True,other,False,,电子分销连锁（澳大利亚，自有标 PoE 现 Hisource）,3,3,False,2026-04-20,ok
+SB-937,anewtech.net,新加坡,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业计算与自动化分销商（新加坡，ORing 工业线）,1,1,False,,ok
+SB-938,c4line.com,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,IP 延长器制造商（韩国，PoE 交换机为配套）,3,3,False,,ok
+SB-940,cominet.co.kr,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,韩国光传输/安防设备商（自有 CMS 系列交换机）,1,2,False,,ok
+SB-943,dorani.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,安防安装 + 批发 + 自有品牌（OEM 采购）,2,3,False,,ok
+SB-945,grep.sg,新加坡,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IT/工业网络公司（新加坡）,2,2,False,,ok
+SB-946,intrising.com.tw,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,台湾工业交换机品牌商（按「台湾厂商口径」只谈 OEM/ODM 二供）,1,1,False,,ok
+SB-947,ison-tech.com,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,台湾工业网络品牌商（按「台湾厂商口径」只谈 OEM/ODM）,1,1,False,,ok
+SB-948,krysma.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工业网络配件经销商（澳大利亚，AOA）,1,1,False,,http_error
+SB-952,mse.com.tw,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,台湾 PoE 配件制造商（交换机为补线，OEM 采购）,1,2,False,,ok
+SB-953,nemon.co.kr,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,网络设备商（韩国，bypass/大口 FS 需求）,1,1,False,,ok
+SB-955,omctech.com,泰国,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,光端机/MC 供应商（泰国，多办事处）,3,3,False,,ok
+SB-956,psaproducts.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防批发分销商（澳大利亚，PoE 现 HiLook）,3,6,False,,ok
+SB-957,servo-tech.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业自动化分销商（韩国）,1,1,False,,ok
+SB-958,sieuthivienthong.com,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,电商/网店（安防 + 网络）,1,2,False,,ok
+SB-961,top-fa.com,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业自动化网店（韩国，ICP DAS 在售）,1,2,False,,ok
+SB-962,triplenet.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络公司（韩国，待核）,1,1,False,,unreachable
+SB-963,unitelco.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,光缆系统/网络产品商（韩国）,1,1,False,,ok
+SB-966,view-tel.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络/通信公司（韩国，待核）,1,1,False,,unreachable
+SB-967,ynminc.com,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,PTZ/POV 摄像机制造商（韩国，PoE 为配套）,2,3,False,,ok
+SB-968,zenithtek.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络产品公司（韩国，待核）,1,1,False,,http_error
+SB-979,iOneresources,菲律宾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,ICT 服务/集成商（菲律宾）,1,2,False,,ok
+SB-982,mcss.co.kr,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,auto,True,second,True,,系统集成 + 在线商城（PLANET / UniFi 渠道）,1,1,False,,ok
+SC-1029,xentino.com,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-1045,alfabase.co.th,泰国,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-1134,xp-networks.com,台湾,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-1191,cngsystem.com,韩国,亚太,B2,OK，待首触反馈,法定名,弱,none,True,second,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-1586,chuyendoiquang.com,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,分销（闸 2 判定 · 20% 档）,1,0,False,,ok
+SC-1605,mangcongnghiep.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业经销（闸 2 判定 · 20% 档）,1,0,False,,ok
+SC-1606,mangvienthong.com.vn,越南,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,分销（闸 2 判定 · 20% 档）,1,0,False,,ok
+SC-1638,thuananvn.com.vn,越南,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,工业自动化渠道（闸 2 判定 · 25% 档）,1,0,False,,ok
+SC-1644,vienthonghoangthach.com,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,CCTV 批零（闸 2 判定 · 20% 档）,1,0,False,,ok
+SC-1670,metsuki.com.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,CCTV 进口商 分销（闸 2 判定 · 20% 档）,2,5,False,,ok
+SC-1867,vienthonghanoi.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,分销（闸 2 判定 · 20% 档）,1,0,False,,ok
+SC-1883,anfatech.com.vn,越南,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,NAS / 网络设备分销（闸 2 判定 · 20% 档）,1,5,False,,ok
+SC-1979,switchquang.com.vn,越南,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,进口分销（闸 2 判定 · 20% 档）,1,0,False,,timeout
+SC-1983,vietlongtelecom.com,越南,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,分销（闸 2 判定 · 20% 档）,1,0,False,,ok
+SC-2106,Optimal Cable Services,澳大利亚,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,待定（闸 2 未分型；官网快照后定）,2,3,False,,ok
+SC-2587,tactio.net,香港,亚太,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,品牌商 OEM（闸 2 判定 · 30% 档）,1,1,False,,http_error
+SC-2695,everfocus.com,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,上市品牌商 OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-2839,neousys-tech.com,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,auto,True,other,False,,上櫃品牌商 OEM（闸 2 判定 · 30% 档）,2,2,False,,http_error
+SC-380,iptime.com,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,巨头品牌商 OEM（闸 2 判定 · 30% 档）,0,3,False,,ok
+SC-387,DGTAS,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,3,False,,ok
+SC-397,alloy.com.au,澳大利亚,亚太,B2,OK 但无回信/非主攻,登记坐实,活,auto,True,other,False,,OEM（闸 2 判定 · 30% 档）,3,7,False,,ok
+SC-455,ags-electronics.com,韩国,亚太,B2,OK，待首触反馈,法定名,活,none,True,second,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-465,avtech.com.tw,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-485,fxc.jp,日本,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,OEM（闸 2 判定 · 30% 档）,3,4,False,,ok
+SC-491,hisharp.com,台湾,亚太,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-493,idisglobal.com,韩国,亚太,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,2,False,,ok
+SB-028,fibotelecom.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,运营商/光传输采购（待补证）,2,2,False,,ok
+SB-037,pulsar.kz,哈萨克斯坦,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,经销商,1,2,False,,ok
+SB-039,zelax.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,设备厂商/分销,1,3,False,,ok
+SB-1064,portdepo.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络产品经销商（俄罗斯，多品牌）,2,2,False,,unreachable
+SB-107,glm.ge,格鲁吉亚,俄语区,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,False,,ok
+SB-1077,soft-tronik.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,多品牌 IT/安防分销商（俄罗斯）,1,5,False,,ok
+SB-113,regionprof.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,1,5,False,,ok
+SB-123,tdtorus.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,安防分销网店 + 自有型号商业 PoE（OEM 采购）,1,1,False,,ok
+SB-212,fti-optronic.com,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,R0,True,second,False,,,1,1,True,,unreachable
+SB-396,morekamer.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,安防经销商（俄罗斯，Utepo 在售）,1,1,False,,http_error
+SB-406,volokno.kz,哈萨克斯坦,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,光缆与电信设备贸易商（哈萨克斯坦，MikroTik 为主）,2,7,False,,ok
+SB-430,pro-tek.pro,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,2,4,False,,ok
+SB-446,amatek.su,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,安防品牌商（自有标 PoE 交换机，OEM 采购）,4,7,False,,ok
+SB-459,ssdcam.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,俄罗斯安防自有品牌批发商（PoE 贴标，OEM 采购）,2,3,False,,ok
+SB-537,htvision.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,弱,none,True,second,False,,CCTV 品牌商（俄罗斯，自有型号 PoE，邮箱退信）,1,1,False,,unreachable
+SB-597,plus-nn.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,俄罗斯 PoE 贴标商（含 HRUI → Q-33 口径；站点失效）,1,3,False,,ok
+SB-599,symanitron.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,auto,True,second,True,,俄罗斯工业网络品牌/合同制造（自有 logo，OEM 采购）,3,8,False,,ok
+SB-616,intant.kz,哈萨克斯坦,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,安防集成/分销商（哈萨克斯坦，Utepo 在售）,1,1,False,,ok
+SB-619,jmdv.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,安防/网络经销商（俄罗斯，丰润达在供，Q-33 口径）,1,1,False,,ok
+SB-620,karma-group.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,IT 系统集成/分销商（俄罗斯，DCN 在供）,1,1,False,,ok
+SB-622,market-telecom.kz,哈萨克斯坦,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,多品牌 IT/安防设备供应商（哈萨克斯坦）,1,1,False,,ok
+SB-623,smol-electro.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,电气产品制造/经销商（俄罗斯，丰润达在供，Q-33 口径）,1,2,False,,ok
+SB-627,zonagsm.su,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,地方无线上网设备商店（俄罗斯）,1,1,False,,ok
+SB-638,OPATOV 之前联系过的客户,白俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络设备网店 + 电信网络工程（白俄罗斯）,2,2,False,,ok
+SB-769,konturm.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,数据/有线电视网络集成兼设备商（俄罗斯）,1,2,False,,ok
+SB-799,"VERTEX INVADER, ТОО",哈萨克斯坦,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,1,0,True,,
+SB-807,datastream.by,白俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络与电信设备分销商（白俄罗斯）,1,2,False,,ok
+SB-814,istream.by,白俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,CCTV 销售安装商（白俄罗斯）,1,1,False,,ok
+SB-819,nabludenie.by,白俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,CCTV 销售安装商（白俄罗斯，Hikvision 为主）,1,2,False,,ok
+SB-825,t-automation.by,白俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业自动化分销商（白俄罗斯，Advantech 工业网络）,1,1,False,,ok
+SB-829,Optimus,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,auto,True,second,False,,俄罗斯 CCTV 品牌商（自有标 PoE，现丰润达）,4,4,False,,ok
+SB-837,giga-link.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络设备品牌商（俄罗斯，HRUI 在供，Q-33 口径）,1,1,False,,ok
+SB-842,kzn-gps.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络设备电商（喀山）,1,1,False,,ok
+SB-843,mir-sb.com,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,俄罗斯 CCTV 网店（SVN 自有标，PoE 现由 HRUI 供货 → Q-3,1,1,False,,ok
+SB-848,setilend.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络设备网店（俄罗斯，工业以太网/PoE 栏目）,1,2,False,,ok
+SB-849,ssd.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,俄罗斯通信建设材料制造商（MC 为边缘品类）,1,5,False,,ok
+SB-850,symway.com,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,PBX 制造商（俄罗斯，PoE 为配套）,2,2,False,,ok
+SB-851,tayle.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络设备制造/分销商（俄罗斯，实力强，Marvell 偏好，Q-33 口径）,4,7,False,,ok
+SB-863,cmd-sec.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,安防品牌商（俄罗斯，自有型号 PoE）,1,1,False,,ok
+SB-870,hunter-cctv.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,auto,True,second,False,,俄罗斯预算型 CCTV 品牌（自有 logo PoE，OEM 采购）,1,1,False,,ok
+SB-874,keno-cctv.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,俄罗斯 CCTV 品牌商（自有标 PoE，现 ONV/新桥）,1,1,False,,ok
+SB-877,ltv-cctv.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,俄罗斯安防分销商自有品牌（LTV，工业 FS 现 Hasvio）,0,5,False,,ok
+SB-884,polyvision.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,俄罗斯 CCTV 自有品牌商（PoE 贴标，OEM 采购）,1,1,False,,ok
+SB-886,sarmatt.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,俄罗斯 CCTV 品牌商（自有标 PoE 少量）,1,1,False,,ok
+SB-893,trassir.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,俄罗斯视频监控平台品牌（自有型号 PoE，OEM 采购）,1,1,False,,ok
+SB-894,video-svp.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,告警系统/交换机制造商（俄罗斯，用户标重要）,4,4,False,,ok
+SB-895,vilcom.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,IT/网络公司（俄罗斯，待核）,1,1,False,,timeout
+SB-898,xvi.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,俄罗斯安防品牌商（自有 SWP 系列 PoE，HiSource 代工迹象，OEM,1,1,False,,ok
+SB-899,摄像头公司,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,,1,2,True,,ok
+SB-939,cleverkey.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,IT 设备经销商（俄罗斯，品牌导向）,1,1,False,,ok
+SB-941,comptek.kz,哈萨克斯坦,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,IT 分销商（哈萨克斯坦，阿里 RFQ PoE 分离器）,1,1,False,,ok
+SB-964,uplinker.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,电信设备经销商（俄罗斯，自有品牌 UPLINK）,2,2,False,,ok
+SB-965,vidcom.uz,乌兹别克斯坦,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,安防系统经销商（乌兹别克斯坦，Hikvision/Dahua/H3C）,1,1,False,,ok
+SB-986,testsol.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业网络产品经销（俄罗斯，Maiwe/EtherWAN/Advantech）,1,2,False,,ok
+SC-1251,bolid.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,5,False,,ok
+SC-1280,plcsystems.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业分销（闸 2 判定 · 20% 档）,2,5,False,,ok
+SC-1393,setko.uz,乌兹别克斯坦,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,分销（闸 2 判定 · 20% 档）,2,2,False,,ok
+SC-1492,dssl.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,2,False,,ok
+SC-1613,origo-networks.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,弱,none,True,second,False,,自有品牌商 OEM（闸 2 判定 · 30% 档）,0,0,False,,ok
+SC-2111,ami-com.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,自有品牌 + 大分销 OEM（闸 2 判定 · 30% 档）,1,4,False,,ok
+SC-283,comonyx.com,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,3,False,,ok
+SC-295,inline.uz,乌兹别克斯坦,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,集成（闸 2 判定 · 25% 档）,2,2,False,,ok
+SC-299,nag.kz,哈萨克斯坦,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-302,osnovo.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,1,False,,ok
+SC-305,prosoft.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,中型工业分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-311,videoglaz.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,连锁分销（闸 2 判定 · 20% 档）,1,1,False,,http_error
+SC-323,comptek.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,大分销（闸 2 判定 · 20% 档）,1,5,False,,ok
+SC-623,industrialnets.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,工业网络设备分销（闸 2 判定 · 20% 档）,2,3,False,,ok
+SC-625,ipmatika.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,中型分销（闸 2 判定 · 20% 档）,4,9,False,,ok
+SC-670,Lansale LLC (Russia),俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,集成（闸 2 判定 · 25% 档）,1,1,False,,ok
+SC-708,armosystems.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,大分销（闸 2 判定 · 20% 档）,3,6,False,,ok
+SC-714,avant.by,白俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,安防 / 网络分销 + 自有 iFLOW 牌工业 PoE 交换机,1,6,False,,ok
+SC-722,bic-video.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,分销（闸 2 判定 · 20% 档）,4,4,False,,ok
+SC-729,brownbear.ru,俄罗斯,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,安防 / 网络设备批发（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-782,exara.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,3,False,,ok
+SC-817,infiber.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,老牌进口分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-884,novicam.ru,俄罗斯,俄语区,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,5,False,,ok
+SC-897,pixietech.uz,乌兹别克斯坦,俄语区,B2,OK，待首触反馈,法定名,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,2,False,,ok
+SA-087,norelcosafecam.com,加拿大,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,6,6,False,,ok
+SB-061,megatelindustries.com,美国,北美,B2,人工定级 B（不动）,法定名,活,R+,True,focus,False,,品牌商/网店（OEM 采购）,2,2,False,2024-11-26,ok
+SB-081,dabos.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,综合采购/分销平台（非网络专业渠道）,2,2,False,,http_error
+SB-094,maxcomcorp.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤传输设备制造商（Gxcom 工业 FS 贴标，OEM 采购）,4,4,False,,ok
+SB-096,ovisscctv.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 品牌商（加拿大，自有标 PoE；官网待核）,1,1,False,,ok
+SB-098,nexxtsolutions.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络品牌商（美国/拉美，贴牌商用 PoE）,2,2,False,,ok
+SB-099,rocstor.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,美国 IT 配件品牌（部分贴标 PoE，OEM 采购）,2,2,False,,ok
+SB-1001,altelix.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,户外机箱/天线制造商（美国，PoE 交换机为配套）,2,2,False,,ok
+SB-1013,bizsyscon.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-1024,dowtechnologies.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销商（AV / 安防 / 网络，面向集成商）,1,1,False,,ok
+SB-1028,fibersavvy.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤配件网店（美国）,1,1,False,,ok
+SB-1030,fibertronics.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,光纤组件制造商（美国，MC/交换机为配套）,1,1,False,,ok
+SB-1034,gogss.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络产品网店（美国，平台型）,1,1,False,,http_error
+SB-1048,kargor.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业 FS 需求方（美国，站点待核）,1,1,False,,ok
+SB-1059,neteon.net,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业网络与边缘计算分销商（Moxa 渠道）,1,1,False,,ok
+SB-106,citicalls.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,VoIP 网店（加拿大，兼营网络设备）,1,2,False,,ok
+SB-1075,silmarelectronics.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防分销商（美国，PoE 分销）,1,1,False,,http_error
+SB-1078,solimedia.net,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-108,gwsecurityusa.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防品牌商（自有 GW 系列，PoE 为套装配套；现用 HRUI）,2,4,False,,ok
+SB-1083,systemfabricworks.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,HPC 系统集成商（美国，品类边缘）,1,1,False,,ok
+SB-1096,westpennwire.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,线缆制造商（美国，MC/交换机为有源副线）,1,3,False,,ok
+SB-1114,Fikes Media,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,True,,IT 集成 / 网络顾问（一人公司；客群 = 地方政府 / K-12 与高校 /,1,3,False,,ok
+SB-1118,Education HMO / CSPE（educationhmo.com）,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,教育机构 / 终端用户（非渠道）,1,2,False,,ok
+SB-1125,globall.ca,加拿大,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,,2,2,False,,ok
+SB-1127,linhawstore.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-1131,marugged.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-150,nexxus.cc,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-162,optigo.net,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,楼宇 OT 网络软件商（加拿大，硬件线存疑）,1,1,False,,ok
+SB-165,yminc.ca,加拿大,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,网络/安防贸易商（加拿大，PoE 延长器 RFQ）,1,1,False,,timeout
+SB-211,een.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,云 VMS 厂商（自有标商用 PoE 周边，OEM 采购）,3,7,False,,ok
+SB-223,2mtechnology.net,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,高风险环境安防方案商/品牌（美国，UniFi 集成）,3,3,False,,ok
+SB-233,avycon.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防品牌商（北美，PoE 现 ONV）,3,3,False,,ok
+SB-252,platinumcctv.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,CCTV 网店/安装商（美国）,3,3,False,,ok
+SB-262,"Software Effect Enterprises, Inc",美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络支持产品小型经销商（美国，已询 MIB 资料）,1,1,False,,ok
+SB-278,lanmus.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-284,provowire.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,线缆/安防分销商（加拿大，PLANET/BDCOM 在售）,3,3,False,,ok
+SB-291,technosources.ca,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 网店/安装商（加拿大，BDCOM 小口交换机）,2,1,False,,ok
+SB-293,virtualprotective.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工地安防监控服务商（美国，自建设备）,1,2,False,,ok
+SB-303,watchnetinc.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,北美安防品牌商（自有 POESW 系列，OEM 采购）,3,5,False,,ok
+SB-332,simplelogin.com,美国,北美,B2,OK，待首触反馈,官网,活,none,True,focus,False,,,1,6,True,,ok
+SB-347,avcomm.us,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业网络品牌商（自有 AP 系列，OEM 采购）,2,2,False,,ok
+SB-350,edge-networks.us,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,美国工业网络自有品牌商（OEM 采购）,3,3,False,,ok
+SB-351,enetusa.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光模块/线缆品牌商（美国，MC 为副线）,4,5,False,,ok
+SB-352,fiberdyne.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,光纤产品品牌商（美国，自有标 FS/MC）,4,4,False,,http_error
+SB-353,fiberopticcableshop.com,美国,北美,B2,OK，待首触反馈,官网,活,none,True,focus,False,,光纤配件网店（美国，自有标 MC，OEM 采购）,2,2,False,,ok
+SB-354,fiberopticlink.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤网络品牌商（加拿大，自有标工业 FS/MC，高定价）,4,4,False,,http_error
+SB-355,gaotek.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,北美 IoT/测试仪器目录供应商（自有 logo 贴牌，OEM 采购）,2,2,False,,ok
+SB-362,maintechconnect.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网店 + 自有型号（OEM 采购，疑 IC Intracom 关联）,1,4,False,,ok
+SB-363,meridian-tech.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤传输系统自有品牌商（美国，OEM 采购）,2,2,False,,ok
+SB-365,robofiber.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-371,wirewerks.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,布线制造商（加拿大，自有标 MC 为副线）,3,6,False,,ok
+SB-384,canacctv.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 供应网店（加拿大）,1,1,False,,ok
+SB-387,fatwiredist.ca,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,低压/布线分销商（加拿大，Wi-Tek PoE）,2,2,False,,ok
+SB-391,inscapedata.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,4,4,False,,ok
+SB-395,mercku.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,Wi-Fi 设备品牌商（加拿大，PoE 现 HRUI）,3,3,False,,ok
+SB-399,petawise.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,Uniview 加拿大分销商（PoE 现 Itoonertech）,5,5,False,,ok
+SB-403,surveillance-video.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-408,xblue.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电话系统品牌商（美国，PoE 配套现 ONV 白牌）,4,4,False,,ok
+SB-409,xlrsecurity.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防分销 + 自有交换机品牌 Lysora（OEM 采购）,3,3,False,,ok
+SB-419,avproglobal.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,AV 品牌商（AV-over-IP 自有标交换机，OEM 采购）,1,3,False,,ok
+SB-449,bvsecurity.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防电商 + 自有 SW 系列 PoE（Utepo 代工迹象，OEM 采购）,1,2,False,,ok
+SB-466,MicroFast Technologies,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防/IT 集成商（美国，EoC 询盘）,1,1,False,,ok
+SB-484,mosonetworks.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,False,focus,False,,网络方案商（加拿大）,2,2,False,,ok
+SB-501,diteksurgeprotection.com,美国,北美,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,电涌保护制造商（自有 logo PoE 交换机线，OEM 采购）,0,0,False,,ok
+SB-519,Kyber Electronics,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工程套件小厂（美国，5 口交换机配套）,1,3,False,,ok
+SB-527,avalan.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,加油站/工业无线方案商（美国，自有标工业 PoE）,3,6,False,,ok
+SB-541,kbcnetworks.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业传输方案品牌商（自有标加固交换机线，OEM 采购）,4,8,False,,ok
+SB-544,makonetworks.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,SD-WAN/云管理方案商（自有标管理交换机线，OEM 采购）,2,3,False,,ok
+SB-548,netsys-direct.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,以太网延长设备品牌（美国销售公司，台系 NetSys 线）,1,2,False,,ok
+SB-549,poewit.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,PoE 产品品牌商（美国，自有品牌）,2,2,False,,ok
+SB-551,sanspot.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,布线网店/自有标 MC（美国）,2,2,False,,http_error
+SB-559,vipausa.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,自动化产品分销商（美国，VIPA/Yaskawa 线）,2,4,False,,ok
+SB-600,t1nexus.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,兼容光模块/线缆品牌商（美国，MC/交换机副线）,1,1,False,,ok
+SB-621,lanshack.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,2,False,,ok
+SB-662,hssl.us,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,企业 IT 目录经销商（美国，Edgecore 等）,1,5,False,,ok
+SB-682,serverblink.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT 硬件电商（多品牌）,1,1,False,,ok
+SB-713,netronicsnetworks.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,无线传输设备品牌商（美国，PoE 为配套）,1,4,False,,ok
+SB-730,ITSS Inc/,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT 方案/贸易商（美国，有国内联系方式）,1,1,False,,http_error
+SB-739,arcdyn.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,3,False,,ok
+SB-742,cctvroom.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防集成/网店（美国，Utepo 工业 FS 在售）,1,2,False,,ok
+SB-743,cleerlinefiber.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤品牌商（美国，有源配件现光路）,2,2,False,,ok
+SB-749,ecin.ca,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,开放网络集成商/分销（加拿大，数据中心为主；工业 FS 为副线）,3,3,False,,ok
+SB-750,enableit.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,2,False,,ok
+SB-751,engeniustech.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,台湾网络品牌美国公司（台湾厂商口径二供）,1,1,False,,ok
+SB-753,eu.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业网络分销商（美国/德国待核，现三旺）,1,1,False,,mismatch
+SB-754,fastercable.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,线缆供应商（美国，自有标工业电口 FS）,3,3,False,,ok
+SB-756,fluxlight.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光收发器自有品牌商（美国，MC 为副线，OEM 采购）,1,3,False,,ok
+SB-757,flyteccomputers.com,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,4,False,,ok
+SB-759,futurereadysolutions.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,集成商渠道分销商（美国，PLANET / ROBOfiber 在售）,2,2,False,,ok
+SB-760,galaxysecurity.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,安防网店/分销（美国）,3,3,False,,ok
+SB-766,invidtech.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,北美安防品牌商（PoE 部分由深圳 Centro 供货，OEM 采购）,3,3,False,,ok
+SB-772,mencom.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,工业连接器制造商（美国，自有标工业 FS/MC）,3,3,False,,http_error
+SB-773,microseven.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,美国摄像机网店（PoE 交换机现由 HRUI 供货 → Q-33 口径）,1,1,False,,ok
+SB-777,proplex.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,AV/娱乐数据分发品牌商（美国，GBS 交换机线）,1,3,False,,ok
+SB-783,sitech-bitdriver.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,美国光纤通信设备制造商（串口/MC 为主，交换机二供口径）,3,5,False,,ok
+SB-792,weltronproducts.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,美国网络基础设施自有品牌商（OEM 采购）,3,3,False,,ok
+SB-793,worldstarsecuritycameras.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 经销商（美国，PoE 现新桥）,2,2,False,,ok
+SB-795,yachtgurus.us,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,船艇用品网店（美国，工业 FS 为边缘品类）,1,1,False,,ok
+SB-801,aurcore.net,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,美国开放网络硬件品牌（工业 PoE 线可二供）,2,3,False,,ok
+SB-806,datageneral.co,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,美国自有品牌网络厂商（DG 系列交换机，OEM 采购）,1,1,False,,ok
+SB-810,enssecurity.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,大型安防分销商（美国，自有标 PoE 现 Ewind）,5,5,False,,ok
+SB-815,lendoux.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,多品牌 IT/工业设备商店（加拿大，工业 FS 现光路）,1,1,False,,parked_or_empty
+SB-823,synchronet.net,美国,北美,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,MSP/IT 服务商（美国，堆叠需求）,2,2,False,,ok
+SB-835,fiberopticsupply.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,光纤材料网店（美国，MC 为有源副线）,1,1,False,,ok
+SB-841,kohen.ca,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电子元件分销商（加拿大，Wago 工业线）,1,1,False,,ok
+SB-847,rollan.ca,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT/电信/工业方案商（加拿大）,1,2,False,,ok
+SB-853,JM Fiber Optics Inc,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,5,False,,ok
+SB-873,istccorp.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,BDCOM 美洲分销商（美国/拉美）,1,1,False,,ok
+SB-934,alibisecurity.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防品牌/分销（Alibi 自有品牌 + D-Link/TP-Link 交换机）,1,1,False,,ok
+SB-959,silarius.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电商超市 + 自有品牌（OEM 采购）,1,1,False,,ok
+SB-981,l-com.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,,5,6,False,,ok
+SB-983,nltinc.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,矿用设备制造商（加拿大，井下网络副线，MC 重复采购）,2,5,False,,ok
+SB-988,Infinity Hardware,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,True,,,2,2,True,,ok
+SB-994,accuratetechnologies.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,汽车 ECU 开发工具商（美国，交换机为配套）,1,1,False,,ok
+SB-999,algosolutions.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IP 寻呼终端厂商（加拿大，交换机非其品类）,1,1,False,,ok
+SC-1230,wantec.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,3,4,False,,ok
+SC-1297,winncom.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,http_error
+SC-1443,infinique.com,加拿大,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,unreachable
+SC-1450,nodexon.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-2066,ethoswitch.com,美国,北美,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-2418,streakwave.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,无线 / 安防 / 网络增值分销商,4,4,False,,ok
+SC-2429,epcom.net,美国,北美,B2,OK，待首触反馈,法定名,活,R0,True,focus,False,,,2,2,False,2026-05-20,ok
+SC-2542,gridconnect.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-2598,digital-watchdog.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,OEM（闸 2 判定 · 30% 档）,3,5,False,,ok
+SC-2606,logicbus.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业分销（闸 2 判定 · 20% 档）,4,4,False,,ok
+SC-2657,lynnelec.com,美国,北美,B2,OK，待首触反馈,法定名,活,R0,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,2,False,,ok
+SC-284,dcbnet.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,5,5,False,,ok
+SC-292,fiberinstrumentsales.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SC-2993,cablesnmore.com,美国,北美,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-503,lutze.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-562,balticnetworks.com,美国,北美,B2,OK，待首触反馈,法定名,活,R0,True,focus,False,,分销（闸 2 判定 · 20% 档）,2,2,False,,ok
+SC-634,newtechindustries.com,美国,北美,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,OEM（闸 2 判定 · 30% 档）,4,4,False,,ok
+SB-064,amitytechnologies.co.in,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,经销/集成商,1,1,False,,ok
+SB-065,ayk.com.pk,巴基斯坦,南亚,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,经销/集成商,1,1,False,,ok
+SB-068,ict-integrators.com,巴基斯坦,南亚,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,系统集成商,1,2,False,,ok
+SB-072,technosys.co.in,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,经销/集成商,1,1,False,,ok
+SB-1103,ara.com.bd,孟加拉国,南亚,B2,OK 但无回信/非主攻,法定名,活,R0,True,other,True,,,2,1,False,,unreachable
+SB-304,AADONA COMMUNICATION Pvt. Ltd.,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,2,2,False,,ok
+SB-308,alconlink.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,印度 CCTV 品牌商（自有 logo PoE/工业交换机，OEM 采购）,1,2,False,,ok
+SB-343,Zekko Tech Private Limited,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,True,,,2,3,True,,ok
+SB-486,ngapl.in,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业自动化集成商（印度，Atop EHG6408 询盘）,1,1,False,,ok
+SB-595,mpcl.in,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,,1,3,False,,ok
+SB-607,JTOPTICS,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,1,2,False,,ok
+SB-632,Grypen Technologies Private Limited,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,IT/安防集成商（印度，商业交换机询盘）,1,2,False,,ok
+SB-635,LMD Hitech India (P) Ltd.,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,1,1,True,,unreachable
+SB-640,Technoverse Business Solutions,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,2,2,True,,ok
+SB-652,comxus.com,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,印度工业网络品牌商（现由 Hasivo 代工，OEM 采购）,2,2,False,,ok
+SB-655,digisol.com,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,印度网络品牌商（工业线现由 HRUI/Utepo 代工 → Q-33 口径，OE,2,3,False,,ok
+SB-678,qntmnet.com,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,印度云管理网络品牌商（工业线外采中国 ODM）,2,3,False,,ok
+SB-684,technics-india.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,工业自动化分销商（印度，Advantech；有 250 台具体询价）,1,1,False,,ok
+SB-744,commandonetworks.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,1,2,False,,ok
+SB-802,baldota.co.in,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,1,6,True,,ok
+SB-824,synchsoft.com.pk,巴基斯坦,南亚,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,True,,ok
+SB-857,airpro.in,印度,南亚,B2,OK，待首触反馈,登记坐实,活,auto,True,second,False,,印度自有品牌网络厂商（OEM 采购）,3,3,False,,ok
+SB-914,mro-tek.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,印度 OEM 品牌商（Make in India，外采 ODM 整机/SKD）,3,5,False,,ok
+SB-916,skipod.lk,斯里兰卡,南亚,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,模拟器设备制造商（斯里兰卡，设备内嵌交换机 RFQ）,1,2,False,,ok
+SB-954,netstar.in,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,,1,6,True,,ok
+SC-1042,adityagroup.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,5,False,,ok
+SC-1203,lapistechnologies.in,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,网络集成商（闸 2 判定 · 25% 档）,1,1,False,,ok
+SC-1339,econtroldevices.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-1344,excellmedia.net,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,直客（闸 2 判定 · 25% 档）,1,4,False,,ok
+SC-1352,globusinfocom.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,3,4,False,,ok
+SC-1365,masibus.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,R0,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,2024-11-14,http_error
+SC-1403,triflexinfo.com,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,小集成（闸 2 判定 · 25% 档）,1,1,False,,ok
+SC-1521,nivettisystems.com,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,1,2,False,,ok
+SC-1734,Joohitha Power Systems Pvt Ltd,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,电力 EPC 集成（闸 2 判定 · 25% 档）,2,2,False,,ok
+SC-1797,cohesiveglobal.com,印度,南亚,B2,OK，待首触反馈,法定名,活,auto,True,second,False,,全国分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SC-1807,Mootek（mootek.in）,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,贴牌工业交换机 OEM（闸 2 判定 · 30% 档）,2,1,False,,ok
+SC-1871,Bay datacom solutions pvt ltd,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,网络 / 安全 / 数据中心系统集成商,1,2,False,,ok
+SC-1916,vigilworld.com,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,自有品牌安防商 OEM（闸 2 判定 · 30% 档）,1,0,False,,ok
+SC-2021,distributor,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,VAD 分销（闸 2 判定 · 20% 档）,1,3,False,,ok
+SC-2078,zebeye.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,全国品牌商 OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-2154,roundrobintech.com,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,增值分销（闸 2 判定 · 20% 档）,1,0,False,,timeout
+SC-2208,hanutechsolution.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,电商零售（闸 2 判定 · 20% 档）,2,0,False,,ok
+SC-2891,trimatrikbd.com,孟加拉国,南亚,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,孟加拉贴牌 CCTV 店 OEM（闸 2 判定 · 30% 档）,2,1,False,,ok
+SC-3198,techroutes.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,自有品牌 OEM（闸 2 判定 · 30% 档）,4,8,False,,ok
+SC-343,optilinknetwork.com,印度,南亚,B2,OK，待首触反馈,法定名,活,auto,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,3,False,,ok
+SC-413,hifocuscctv.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,none,True,second,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-463,atronic.co.in,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,方案集成（闸 2 判定 · 25% 档）,1,2,False,,ok
+SC-509,nextik.co.in,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,FTTH / 交换机制造商 OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-898,plexonics.com,印度,南亚,B2,OK，待首触反馈,登记坐实,活,auto,True,second,False,,中型分销（闸 2 判定 · 20% 档）,2,2,False,,ok
+SC-969,trueview.co.in,印度,南亚,B2,OK，待首触反馈,法定名,活,none,True,second,False,,/ IFPD / 数字标牌 OEM（闸 2 判定 · 30% 档）,3,5,False,,ok
+SA-084,Eds protection technology,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-082,voltechelektronik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,小型安防/电气安装商,1,1,True,,unreachable
+SB-097,lansan.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,土耳其网络配件制造商（自有 LNS 系列 PoE，OEM 采购）,1,1,False,,ok
+SB-100,telkolink.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT 产品分销商 + 自有标（VC 已贴标；FS/MC/SFP 多源）,1,4,False,,ok
+SB-1006,audio.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,楼宇对讲/智能家居制造商（土耳其，PoE 现 Hisource）,1,1,False,,ok
+SB-1010,bayiden.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电子综合网店（土耳其，在售 PowerMaster PoE）,1,1,False,,ok
+SB-1051,klemsan.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电气元件制造商（土耳其，自有标工业交换机现 Volktek）,1,1,False,,http_error
+SB-1056,mikrodev.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业控制与通信产品制造商（土耳其，可补工业交换机品类）,1,1,False,,ok
+SB-1119,noktaelektronik.net,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-112,opax.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,报警/安防品牌商（土耳其/波兰，OPAX 标 PoE，现 HRUI）,2,2,False,,ok
+SB-135,LABOR,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,4,False,,ok
+SB-139,acusenseteknoloji.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-174,karerguvenlik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防批发商（土耳其，自有 KR 标 PoE，OEM 采购）,1,1,False,,ok
+SB-180,FOLINE,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,True,,ok
+SB-187,pelikanbilgisayar.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,True,,http_error
+SB-268,bulutlarbilisim.com,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,IT 方案商（土耳其，核心交换机询盘超范围）,1,1,False,,http_error
+SB-273,eretekne.com,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防传输产品分销商（土耳其，XPS/ONV/Voscom）,1,1,False,,http_error
+SB-275,gelecekbt.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,3,False,,ok
+SB-276,hanelektronik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防方案商 + 自有标 PoE 系列（HiSource 代工迹象，OEM 采购）,1,1,False,,ok
+SB-280,metcom.com.tr,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,车牌识别/停车系统方案商（土耳其）,2,2,False,,ok
+SB-282,nfsteknoloji.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防分销/方案伙伴（土耳其，SURENIX 标 PoE + Utepo）,2,2,False,,ok
+SB-285,rfteknoloji.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业无线与数传方案分销（在售 3onedata 工业交换机）,1,1,False,,ok
+SB-286,rimaelektronik.com,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SB-294,viva bilgisayar,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,1,True,,parked_or_empty
+SB-301,ebatek.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,False,focus,False,,,1,3,False,,ok
+SB-302,turkuaz,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,3,False,,ok
+SB-323,D&N ELEKTRIK MUHENDISLIK,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,0,True,,
+SB-374,3s.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,2,False,,ok
+SB-377,PROVES,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,2,False,,ok
+SB-388,fhguvenlik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,True,,,1,2,False,,ok
+SB-402,sfpturkey.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,3,3,False,,ok
+SB-410,4sltd.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电气/工业网络分销商（土耳其，Red Lion 代理）,2,2,False,,ok
+SB-413,LTE ELEKTRONIK,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,4,True,,ok
+SB-422,efb-elektronik.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,德系布线/网络制造商土耳其公司（自有标网络产品，OEM 采购）,2,3,False,,ok
+SB-427,longlinenetwork.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-442,Optima Soft,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,2,False,,ok
+SB-453,gmtcontrol.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,土耳其 PLC 制造商（自有标工业 FS，现 Uotek）,2,2,False,,ok
+SB-457,pavotek.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,土耳其电子/嵌入式方案商（自有标工业 FS；仅民用口径）,4,5,False,,ok
+SB-465,Koza,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防经销商（土耳其，TRENDnet PoE）,2,3,False,,ok
+SB-467,NORTEL,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,2,True,,ok
+SB-478,eurocamguvenlik.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防进口分销商（土耳其）,2,3,False,,ok
+SB-490,radioteknoloji.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,False,focus,False,,无线通信方案商（土耳其，含国防领域 → 仅民用口径）,3,3,False,,ok
+SB-494,teleone.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,False,focus,False,,视频监控方案商（土耳其，PoE 现 Utepo）,1,1,False,,ok
+SB-496,Bora Teknoloji Dünyası Ağrı/Türkiye,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,0,True,,
+SB-566,PCG Bilgisayar LTD.STI.,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,True,,ok
+SB-572,fourline.com.tr,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-575,marbim.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,,0,0,False,,http_error
+SB-592,fotech.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT 产品增值分销商（土耳其，CTS 工业 / Black Box MC）,3,3,False,,ok
+SB-602,ANIL,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,2,False,,ok
+SB-643,arbybilgisayar.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,False,focus,False,,企业 IT 服务商（土耳其）,1,2,False,,ok
+SB-645,arthaberlesme.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,通信/安防集成商（土耳其，Karel 经销）,1,1,False,,ok
+SB-646,artsistem.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,2,False,,ok
+SB-647,arttelekom.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,统一通信/安防集成商（土耳其）,1,2,False,,ok
+SB-648,atelekom.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,弱电方案商/经销（土耳其，Hikvision 为主）,1,1,False,,ok
+SB-649,basarimuhendislik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,能源自动化集成商（土耳其，Korenix 在售；仅民用口径）,1,2,False,,ok
+SB-650,beastteknoloji.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防分销商（土耳其，Tiandy/Dahua/Hikvision）,1,1,False,,ok
+SB-651,biges.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防分销商（土耳其，自有品牌 VGuard/Bullwark）,1,1,False,,ok
+SB-656,dijitalbina.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,楼宇控制/消防系统集成商（土耳其，民用网络侧）,1,1,False,,ok
+SB-657,egesanteknoloji.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防批发商（土耳其，Hikvision/Ruijie）,1,5,False,,ok
+SB-658,ekingen.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防分销商（土耳其，Uniview/Ajax）,2,3,False,,ok
+SB-659,entpa.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电子制造商兼安防分销（土耳其，自有设计）,1,3,False,,ok
+SB-660,fonet.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT/电信基础设施集成商（土耳其，项目型）,1,4,False,,ok
+SB-665,marsateknoloji.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防/对讲分销商（土耳其）,1,3,False,,ok
+SB-666,mavialarm.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防安装商（土耳其）,1,1,False,,ok
+SB-669,mnsbilisim.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,企业网络集成商（土耳其，Ruijie/UniFi）,1,2,False,,ok
+SB-670,monkas.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防/网络网店（土耳其）,1,1,False,,ok
+SB-676,pctedarik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-677,perkotek.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,门禁/考勤系统品牌商（土耳其，PoE 为配套）,1,2,False,,ok
+SB-681,serrackkabin.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,机柜制造商兼网络产品经销（土耳其）,1,2,False,,ok
+SB-686,teknoktadestek.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,0,1,True,,ok
+SB-687,telkotim.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤/网络产品分销网店（土耳其，D-Link 在售）,1,2,False,,ok
+SB-688,teslakom.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,False,focus,False,,网络与工业网络方案商（土耳其，Lantech 在售）,1,1,False,,ok
+SB-690,troyykontrol.com,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,False,focus,False,,门禁/考勤系统商（土耳其，PoE 为配套）,1,1,False,,ok
+SB-691,vitel.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT/通信分销商（土耳其，待核）,1,1,False,,http_error
+SB-718,teksarf.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,0,False,,ok
+SB-796,Destek Elektronik Tic. Ltd.,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防电子分销商（土耳其，Hanwha 为主）,1,1,False,,ok
+SB-808,deponet.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络产品分销商（土耳其，多品牌）,1,3,False,,ok
+SB-858,areskom.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,2,False,,ok
+SB-859,baburtech.com,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电脑配件电商兼安防网络（土耳其）,2,2,False,,ok
+SB-861,bimel.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-862,cebecigrup.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤/电信设备分销商（土耳其，自有 CFC 标 PoE 线，现 ONV/国内）,2,2,False,,ok
+SB-864,dacelsolutions.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业自动化/弱电系统集成商（土耳其，Hirschmann 在用）,4,4,False,,ok
+SB-866,egemenelektronik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,True,,ok
+SB-867,erete.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络 / 安防集成与经销（EtherWAN 渠道，土耳其）,3,3,False,,ok
+SB-868,fiberden.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤产品网店（土耳其，FTTH 为主）,1,1,False,,ok
+SB-871,intenet.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电力/变电站系统集成商（土耳其，守界）,2,2,False,,ok
+SB-875,lemaxguvenlik.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 套装网店（土耳其，PoE 现新桥）,1,1,False,,ok
+SB-879,mfd.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业自动化/数字化集成商（土耳其）,1,2,False,,ok
+SB-889,teamon.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-890,technopc.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,土耳其安防/网络品牌商（工业 PoE 现 Ewind）,3,4,False,,ok
+SB-921,DIMAS TEKNOLOJI VE GUVENLIK,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,0,False,,
+SC-1009,arasvarel.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,集成商（闸 2 判定 · 25% 档）,1,2,False,,ok
+SC-1855,kirac bilisim,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,交换机，且是品牌制造商 → OEM（闸 2 判定 · 30% 档）,1,2,False,,ok
+SC-1965,entegronnetwork.com,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-2481,Okisan,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,3,3,True,,ok
+SC-2776,karel.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,巨头品牌商 OEM（闸 2 判定 · 30% 档）,0,2,False,,ok
+SC-440,Interland Network & Security,土耳其,土耳其,B2,OK，待首触反馈,登记坐实,弱,none,True,focus,False,,分销 / 集成 20–（闸 2 判定 · 25% 档）,0,0,False,,
+SC-442,MEPA Elektronik,土耳其,土耳其,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,安防集成（闸 2 判定 · 25% 档）,0,0,False,,
+SC-571,gsl.com.tr,土耳其,土耳其,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,中型工业分销（闸 2 判定 · 20% 档）,2,3,False,,ok
+SB-1089,tpnet.com.br,巴西,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,2,True,,ok
+SB-1090,tramaweb.com.br,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,待核实体（巴西，MC 自有标；站点错配）,1,2,False,,mismatch
+SB-124,telconet.net,厄瓜多尔,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,3,False,,ok
+SB-498,DTI Tecnologia Ltda,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,2,2,True,,http_error
+SB-512,solustecnologia.com,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,2,True,,ok
+SB-591,elementuengenharia.com.br,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,道路 ITS 集成商（巴西，守界备注：民用道路设施）,1,1,False,,ok
+SB-695,Leandro Roisenberg FI,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,2,2,True,,ok
+SB-703,engitel.com.mx,墨西哥,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IT 方案商（墨西哥，2 光 10 电询盘）,1,1,False,,ok
+SB-798,Getec,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,False,other,False,,,1,1,True,,http_error
+SB-920,Blue Skill Ltd,哥伦比亚,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防集成商（哥伦比亚，2 光 4 PoE ×5 询盘）,1,2,False,,ok
+SB-927,RARMX ENGINEERING SA DE CV,墨西哥,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,水处理工程公司（墨西哥，工业控制配套）,1,1,False,,ok
+SB-930,Socra Spa.,智利,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,矿业工业品分销商（智利，阿里询盘百兆 MC）,1,1,False,,ok
+SB-960,steren.com.mx,墨西哥,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,墨西哥电子零售自有品牌（PoE 现由 HRUI 供货 → Q-33 口径；体量大,1,2,False,,ok
+SB-990,Precision,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,,1,1,False,,ok
+SC-1038,TELTEX,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,大集成（闸 2 判定 · 25% 档）,1,2,False,,ok
+SC-1117,syscom.mx,墨西哥,拉美,B2,OK 但无回信/非主攻,法定名,活,R0,True,other,False,,巨头分销（闸 2 判定 · 20% 档）,1,6,False,2025-09-17,ok
+SC-1379,parks.com.br,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-1583,cartagocomex.com,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,巴西进口代理 贸易（闸 2 判定 · 20% 档）,1,1,False,,http_error
+SC-1689,abovenet.com.br,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业网络分销 / 集成（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-1691,alfacomp.net,巴西,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,工业分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-1900,konectsoluciones.com,厄瓜多尔,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,进口集成（闸 2 判定 · 25% 档）,1,2,False,,ok
+SC-2402,sisegusa.com,厄瓜多尔,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,安防 / 网络批发分销（经迈阿密进口）,3,8,False,,ok
+SC-2955,"Continental Towers Guaatemala, S.A.",危地马拉,拉美,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,终端（闸 2 判定 · 25% 档）,2,2,True,,ok
+SC-3130,tvc.mx,墨西哥,拉美,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,CCTV 大分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SB-582,smartintercom.eu,未填,未知,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,对讲/门禁分销商（欧洲，4 口工业 PoE 报价）,1,2,False,,ok
+SA-056,B&S electronics,希腊,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防批发商/进口商,1,1,True,,ok
+SA-081,4power.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,4,False,,ok
+SA-083,kyma.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,3,False,,ok
+SA-088,ute.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SA-089,lancomat.cz,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-012,xcam.cz,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防集成/安装商（小型）,1,1,False,,ok
+SB-014,"ITS, S.L.-S.B.T.",西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,待核实（疑似安防/电信安装商）,1,1,True,,http_error
+SB-024,ERSTECH,匈牙利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安装商/小型集成商,1,1,False,,http_error
+SB-026,Safe-tech CCTV systems Sweden AB,瑞典,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,CCTV 批发/安装商,1,1,True,,ok
+SB-036,inthouse.eu,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,小型贸易/项目商,1,1,False,,ok
+SB-046,domoticalia.es,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电商零售（智能家居为主）,1,3,False,,ok
+SB-076,IST surveillance,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-078,Sitis Sarl,瑞士,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,待补证,1,1,False,,ok
+SB-090,adlerss.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/网络安装商（德国，工业 FS 现 ONV）,2,2,False,,http_error
+SB-091,fingerprint-access-control.com,英国,欧洲,B2,OK，待首触反馈,官网,活,none,True,focus,False,,门禁系统制造商（英国，自有品牌，PoE 现 Utepo 系）,1,1,False,,ok
+SB-095,mtechnology.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业视频监控方案商（自有型号工业 PoE，Utepo 代工迹象，OEM 采购）,1,1,False,,ok
+SB-1002,amplicon.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,3,False,,ok
+SB-1005,asit.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SB-1007,avnordic.se,瑞典,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/网络/音响 B2B 批发商（瑞典，Wi-Tek 交换机）,1,1,False,,ok
+SB-1008,avstek.fi,芬兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,3,False,,ok
+SB-1009,batna24.com,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-101,AVICAM Ltd.,保加利亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,True,,ok
+SB-1015,br-network-shop.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-1018,coeldistribution.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SB-1021,cyberbajt.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,4,False,,ok
+SB-1022,danbit.dk,丹麦,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-1023,dipol.pt,葡萄牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-1031,findcontrols.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,True,,,2,4,True,,ok
+SB-1032,foppex.com,塞浦路斯,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光网络产品经销商（美国，Planet 工业 FS 在售）,1,1,False,,ok
+SB-1033,garmasl.com,西班牙,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-1036,grinsrl.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电气仪表安装商（意大利，网络为边缘品类）,1,1,False,,ok
+SB-1037,hightrade-international.com,法国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,采购中介/分销商（法国，24 口 PoE ×40 询盘）,2,2,False,,ok
+SB-1039,ico.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-1040,icpdas.ro,罗马尼亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-1041,intshop.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络产品网店（波兰，站点建设中）,1,1,False,,ok
+SB-1042,iotkomponenty.sk,斯洛伐克,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,小型 IoT 组件网店（USR 为主）,1,1,False,,ok
+SB-1043,ipcamerawebwinkel.nl,荷兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,IP 摄像机网店（荷兰，IT 服务公司兼营）,1,1,False,,ok
+SB-1045,itm-components.co.uk,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-1046,ivolta.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防网店（波兰，Utepo 在售）,1,4,False,,ok
+SB-1049,kdelectronics.ie,爱尔兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防/网络贸易供应商（爱尔兰，Dahua 总分销）,2,5,False,,ok
+SB-1052,lan.hu,匈牙利,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,,2,7,False,,ok
+SB-1053,lichtleiterkabel.com,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤线缆网店（德国，Planet 工业 FS）,1,2,False,,ok
+SB-1054,luxritesecurity.com,英国,欧洲,B2,OK，待首触反馈,法定名,活,auto,True,focus,True,,英国 Trade 安防分销商（Ruijie PoE）,1,2,False,,ok
+SB-1055,marcomweb.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业网络多品牌经销商（意大利）,1,1,False,,http_error
+SB-1058,multiproject.com.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,3,False,,ok
+SB-1060,norteh.com,立陶宛,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防设备跨境网店（多语言，多供应商）,1,1,False,,ok
+SB-1061,obserwuj.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,CCTV 网店（波兰，Dahua 为主）,1,1,False,,ok
+SB-1065,poznan.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/网络产品分销商兼网店（波兰）,3,5,False,,mismatch
+SB-1066,pramoninisrysys.lt,立陶宛,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,智能电网 RTU 制造商兼网店（立陶宛，工业 FS 为配套；仅民用口径）,1,3,False,,ok
+SB-1068,rbline.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-1070,safeguard.se,瑞典,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,安防安装商（瑞典，PoE 配套）,2,6,False,,ok
+SB-1071,scada-hmi.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工业 I/O 与 SCADA 软件制造商兼网店（意大利）,1,1,False,,ok
+SB-1072,securame.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,3,False,,ok
+SB-1074,setik.biz,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-1080,sphinxcomputer.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-1084,targoncavilla.com,匈牙利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工业设备供应商（匈牙利，待核）,1,6,False,,ok
+SB-1087,tehnoelectric.ro,罗马尼亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,综合电子网店（罗马尼亚，平台型）,1,1,False,,http_error
+SB-1091,triotronik.com,奥地利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-1092,unifibre.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,2,False,,ok
+SB-1095,vidom.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,LED/智能家居网店（波兰，PoE 为配套）,1,2,False,,ok
+SB-1098,zintronic.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,CCTV 网店/品牌（波兰，PoE 现 Hasivo）,1,1,False,,http_error
+SB-1121,technetix.com,英国,欧洲,B2,巨头：不追，标记,登记坐实,活,R+,True,focus,True,,OEM 品牌商（光纤/宽带接入设备）,1,1,False,2026-01-21,ok
+SB-1123,connectec.uk,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-1124,fonex.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-1126,klinger.fi,芬兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,False,focus,False,,,1,1,False,,ok
+SB-1128,losan.cz,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-1129,redcorp.com,比利时,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,3,False,,ok
+SB-1133,netram.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-121,STORM ICT,科索沃,欧洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,2,2,False,,ok
+SB-126,cablewindow.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-127,izux.es,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-128,orbitadigital.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-145,digicomm.de,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,关键基础设施通信方案商（德国，自有标工业 FS，现含 ONV）,1,2,False,,ok
+SB-146,exsys.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,网络配件品牌商（EXSYS，现 E-link 供货）,1,1,False,,http_error
+SB-152,pulsar.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,,4,8,False,,ok
+SB-155,JguyTech,法国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,0,False,,
+SB-156,cyberteam.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SB-176,oksa.co.uk,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,3,False,,ok
+SB-177,sklep-ecsystem.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,4,False,,ok
+SB-178,wisp.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-188,saf-slk.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,False,focus,False,,,1,6,True,,ok
+SB-195,bkgrupe.lt,立陶宛,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/网络集成商（立陶宛，Utepo 在用）,1,1,False,,http_error
+SB-197,intellisystem.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,2,False,,ok
+SB-198,katalita.lt,立陶宛,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-199,korekonect.com,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-206,brainboxes.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,4,False,,ok
+SB-217,microsens.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-230,adin.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SB-234,benzotronic.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/电子经销商（意大利，PoE 现 ONV）,1,1,False,,http_error
+SB-235,bositaly.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-237,dalessandris.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,暖通/光伏网店（兼售 CCTV/PoE，意大利）,1,1,False,,ok
+SB-244,innowatt.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电气/安防材料自有品牌网店（意大利，OEM 采购）,1,3,False,,ok
+SB-245,iotech-italia.net,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,True,,ok
+SB-247,jpg.lt,立陶宛,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防网店（立陶宛，丰润达 PoE 在售）,1,2,False,,ok
+SB-250,pf-electronic.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,4,False,,ok
+SB-256,tvprzemyslowa.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,True,,,1,2,True,,ok
+SB-258,Arfanet,阿尔巴尼亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/弱电方案商（阿尔巴尼亚，bypass 光交换机询盘）,2,2,False,,ok
+SB-259,Dourte,比利时,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,True,,ok
+SB-263,TECside BV,比利时,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,LED/AV 安装商（比利时，2.5G/10G 交换机 RFQ）,1,2,False,,ok
+SB-265,Vdeotronic AG,瑞士,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,视频安防/门禁方案商（瑞士）,1,2,False,,ok
+SB-266,axilogi.com,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,IT/安防多品牌网店（捷克）,3,6,False,,ok
+SB-270,damixsat.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,卫星/网络产品网店（波兰）,2,2,False,,ok
+SB-272,electronikhouse.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-277,instantbyte.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,4,False,,ok
+SB-281,multiGuide GmbH,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,停车引导系统制造商（德国，交换机为系统配套）,1,3,False,,ok
+SB-287,sea-srl.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防电子批发商（意大利）,3,3,False,,ok
+SB-290,solpakutec.com,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工业定制方案小商（意大利，ICP DAS 工业 FS）,1,1,False,,ok
+SB-311,dipolnet.cz,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-318,verdelon.com,瑞典,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业网络自有品牌商（瑞典，现 Elink ODM）,1,1,False,,ok
+SB-321,BWsystems,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,系统集成商（德国，2+8 PoE RFQ）,1,1,False,,http_error
+SB-333,yli.ro,罗马尼亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SB-358,kyolis.com,法国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,法国光纤传输制造商（自有 Kyolis 标，交换机二供口径）,3,3,False,,ok
+SB-368,welotec.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-370,wildix.com,爱沙尼亚,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,UCaaS 厂商（自有标 PoE 周边，OEM 采购；体量大）,1,1,False,,ok
+SB-372,很多UK公司在卖他们的产品,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,3,False,,ok
+SB-379,TRK solution Ltd,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防安装商（英国，工业 PoE 用户）,1,1,False,,ok
+SB-385,dtsdigitalcctv.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 分销商（英国，Utepo PoE 在售）,1,1,False,,ok
+SB-386,dvs.co.uk,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防分销商（英国，大型，Utepo 在供）,2,2,False,,http_error
+SB-390,hunters-wholesalers.co.uk,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电气/安防批发商（英国，PoE 现丰润达，Q-33 口径）,1,2,False,,ok
+SB-397,netiks.rs,塞尔维亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,网络产品商店（塞尔维亚，自有标光模块）,2,1,False,,ok
+SB-411,Floter,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,保安服务兼安防技术安装（德国）,1,2,False,,ok
+SB-415,a2s.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业自动化产品目录分销（波兰，Kyland 工业 FS）,5,5,False,,ok
+SB-416,abcv.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防网店 + 自有标交换机（波兰，Hasivo 代工迹象）,1,5,False,,ok
+SB-417,alidex.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-418,atel.com.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-420,cdr.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,7,False,,ok
+SB-428,media-konwertery.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-429,murrelektronik.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,德国自动化大厂（自有工业交换机线；用户标「着重跟」，二供口径）,1,2,False,,ok
+SB-431,protekna.com,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,,2,2,False,,ok
+SB-433,rister.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,网络产品网店（西班牙，D-Link 为主）,3,7,False,,ok
+SB-434,s-connect.es,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-436,steplockaccess.se,瑞典,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,门禁系统公司（瑞典，网管 PoE 配套）,1,1,False,,ok
+SB-439,Exxell Vision,法国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,3,True,,ok
+SB-444,Tritonsystems spol. s r.o.,斯洛伐克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,停车系统开发商（斯洛伐克，PoE 为系统配套）,1,1,False,,ok
+SB-454,leoptics.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤测试设备供应商（波兰，工业 FS 为副线）,1,1,False,,ok
+SB-455,maxlink.cz,捷克,欧洲,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,捷克网络配件品牌商（自有 logo，PoE/SFP，OEM 采购）,0,0,False,,ok
+SB-460,4G-GmbH,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,False,focus,False,,IT/网络公司（德国，Shopify 成交客户）,1,1,False,,unreachable
+SB-481,itegra.lt,立陶宛,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,安防安装商（立陶宛，PoE 现 Utepo）,1,3,False,,ok
+SB-483,melbyefiber.com,挪威,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,光纤方案供应商（北欧/英国，MC 与工业交换机为配套）,2,3,False,,ok
+SB-491,raskpreke.lt,立陶宛,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/电工网店（立陶宛，Utepo 在售）,1,2,False,,ok
+SB-492,sistel-networking.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-514,257.cz,塞尔维亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工业网络分销商（塞尔维亚，多品牌）,1,3,False,,mismatch
+SB-520,abctech.cz,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电子产品网店（捷克，MikroTik 为主）,3,3,False,,ok
+SB-521,aceonline.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,2,3,False,,ok
+SB-522,adilec.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,西班牙光纤传输品牌商（自有标 MC/FS/VC）,3,3,False,,parked_or_empty
+SB-524,armadi-rack.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,机柜制造商兼网店（意大利，Digitus/Utepo 工业 FS 在售）,2,2,False,,ok
+SB-525,atlantis-land.com,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络/安防品牌商（意大利，PoE 现 ONV）,3,3,False,,http_error
+SB-526,automationstore.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,自动化产品网店（意大利）,1,1,False,,ok
+SB-531,dynamode.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,英国自有品牌网络配件商（OEM 采购）,1,1,False,,ok
+SB-533,eks-engel.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,德国光纤系统制造商（自有 EL 系列，二供口径）,2,2,False,,ok
+SB-539,ipcomm.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,能源自动化通信方案商（德国，仅民用口径）,1,2,False,,ok
+SB-543,luetze.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,德国工业电缆/自动化集团（自有标工业 FS；用户标「重要」，二供口径）,3,3,False,,ok
+SB-550,reichelt.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,大型电子目录电商（德国，用户着重）,1,3,False,,ok
+SB-556,ubf.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-558,uniformatic.fr,法国,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,工业电源/网络经销商（法国）,1,1,False,,http_error
+SB-560,womaster.eu,西班牙,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,,1,1,False,,ok
+SB-571,energus.eu,立陶宛,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-573,integranetwork.es,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工业网络方案商/专业渠道（西班牙，Lantech 线；铁路/海事守界）,2,3,False,,ok
+SB-590,carritech.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电信设备/光模块供应商（英国，MC 为副线）,1,1,False,,ok
+SB-596,optokon.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光纤制造集团（自有 LMSW 标交换机，CTC Union 代工；军用线守界）,5,7,False,,ok
+SB-605,Elkov Elektro,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,7,False,,ok
+SB-617,ipc2u.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工业计算机供应商/制造商（德国，EMEA 多国；在售 Maiwe）,2,6,False,,ok
+SB-626,visiondynamics.de,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,电子/网络贸易商（德国，待核）,2,2,False,,ok
+SB-654,davantel.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,,3,3,False,,ok
+SB-667,mgt.bayern,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,IT/电信/电气安装商（德国）,1,1,False,,ok
+SB-674,noxel.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防网店（波兰，Dahua 为主）,1,2,False,,ok
+SB-675,pandacomdirekt.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,传输网络系统商（德国，WDM 自研；交换机为配套）,5,5,False,,ok
+SB-679,saratota.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-698,cbo-it.de,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,光模块品牌商（德国，BlueOptics，工业 FS 为副线）,1,1,False,,ok
+SB-700,cctvcamara.pt,葡萄牙,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 网店（葡萄牙，PoE 现 ONV）,1,0,False,,ok
+SB-707,goetz-automation.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,自动化工程事务所（德国，机器网络配套）,1,1,False,,ok
+SB-709,ic-intracom.bg,保加利亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,2,False,,ok
+SB-721,woodcomm.ie,爱尔兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,4,False,,ok
+SB-724,Comms Express Ltd,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,网络产品电商（英国）,2,2,False,,http_error
+SB-725,Elektronik LTD,保加利亚,欧洲,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,,0,0,False,,
+SB-740,britaniccablingproduction.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,布线/网络产品经销商（英国）,1,1,False,,http_error
+SB-745,comtrol.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,专业通信设备增值分销商（英国，Omnitron 为主）,2,6,False,,ok
+SB-747,digitclik.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,网络产品网店（意大利，站点待核）,1,2,False,,ok
+SB-748,dnaelektro.cz,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电子产品网店（捷克）,1,1,False,,ok
+SB-762,groundcontrol.com,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,卫星 IoT 设备制造商（英国，PoE 配件为配套）,2,2,False,,ok
+SB-763,idome.uk,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,英国 CCTV 网店（自有标摄像机 + 配套 PoE）,1,1,False,,ok
+SB-764,ifotec.com,法国,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,法国光纤传输制造商（自有 INET 系列，二供口径）,4,4,False,,ok
+SB-770,lanode.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,光/数据通信分销商（英国，Transition/CTC Union）,2,2,False,,mismatch
+SB-774,netwerkproducten.com,荷兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,网络产品网店（荷兰）,1,1,False,,ok
+SB-779,shop4power.nl,荷兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-781,silvernet.com,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,网络品牌商（英国，工业 FS 现光路）,3,3,False,,http_error
+SB-784,sklep-bcs.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,auto,True,focus,False,,,7,7,False,,ok
+SB-803,bestpc.bg,保加利亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电脑综合网店（保加利亚）,1,1,False,,ok
+SB-805,cctvspot.co.uk,保加利亚,欧洲,B2,OK，待首触反馈,登记坐实,弱,none,True,focus,False,,,0,0,False,,ok
+SB-809,econnet.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,0,1,False,,ok
+SB-811,esoft.fi,芬兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,0,1,False,,ok
+SB-816,lorwen.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,CCTV 自有品牌网店（意大利，OEM 采购）,0,1,False,,ok
+SB-828,LMP Lux Media Plan,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,广播光传输设备设计商（德国，交换机为配套）,1,2,False,,ok
+SB-832,alidex.es,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,1,False,,ok
+SB-836,fiberworks.no,挪威,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,4,4,False,,ok
+SB-838,gmidatabox.fr,法国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,工业网络分销商（法国，3onedata/Moxa）,1,1,False,,timeout
+SB-846,qualicam.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,CCTV 网店/安装（德国，Hikvision 为主）,1,1,False,,ok
+SB-854,NetCat SYSTEMS GmbH,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,IT 采购服务商/经销（德国，用户标「着重跟」）,1,2,False,,ok
+SB-856,Omond-Tong Consultancy Ltd,英国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电气设计/自动化咨询（英国，工业 MC 小量询盘）,1,1,False,,ok
+SB-887,stasanet.rs,塞尔维亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,0,1,False,,ok
+SB-891,techpoint-gmbh.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,False,focus,False,,零售 IT 服务商（德国）,1,1,False,,ok
+SB-906,avizio.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,弱,none,True,focus,False,,安防方案商/自有标（波兰，N-net 工业 FS 贴标；官网待核）,1,1,False,,ok
+SB-908,ctservicestore.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,个体安防安装商兼网店（意大利南部）,1,0,False,,ok
+SB-932,acceed.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,3,3,False,,ok
+SB-942,dmtrade.pl,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电子产品电商（波兰，多品类）,1,1,False,,ok
+SB-972,KN Electrologic Services Ltd,塞浦路斯,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,电气工程承包商（塞浦路斯）,1,1,False,,timeout
+SB-974,b-plus.com,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,汽车测试/数据采集技术公司（德国；车载场景守界，仅实验室网络可谈）,1,1,False,,ok
+SB-977,eltrox.cz,捷克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,安防/智能家居网店（捷克，Hasivo PoE 在售）,1,2,False,,ok
+SB-980,ipvoiceshop.nl,荷兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,VoIP 网店（荷兰，TP-Link 交换机）,1,1,False,,ok
+SB-985,qnv.com,西班牙,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,2,3,False,,ok
+SB-992,Wave electronics Ltd,塞浦路斯,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SB-993,abigo4u.com,荷兰,欧洲,B2,OK，待首触反馈,登记坐实,弱,none,True,focus,False,,MC 多品牌经销商（荷兰）,2,2,False,,http_error
+SB-996,adj.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,意大利 IT 消费/办公品牌（自有标，PoE 为边缘品类）,1,1,False,,ok
+SB-998,akistechnologies.com,立陶宛,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,排队/交通管理系统开发商（立陶宛，工业 FS 为配套）,1,1,False,,ok
+SC-1013,gemaxxnetwork.com,德国,欧洲,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-1014,gtlan.com,西班牙,欧洲,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,crash
+SC-1173,JEVASO S.L. DPTO. ELECTRONICA,西班牙,欧洲,B2,OK，待首触反馈,法定名,活,none,False,focus,False,,终端（闸 2 判定 · 25% 档）,1,1,False,,ok
+SC-1181,agendaage.hu,匈牙利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SC-161,logilink.eu,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-1881,Tss security systems,斯洛伐克,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,中型分销（闸 2 判定 · 20% 档）,2,2,False,,http_error
+SC-1935,leunig.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,弱,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,ok
+SC-2256,redfox.srl,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,集成（闸 2 判定 · 25% 档）,1,1,False,,ok
+SC-2258,townet.it,意大利,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,ok
+SC-2383,3grouterstore.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,4,False,,ok
+SC-2452,a-secur.com,西班牙,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,2,2,False,,http_error
+SC-2488,fiber24.net,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,http_error
+SC-2510,getfort.com,波兰,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SC-2608,mayflex.com,英国,欧洲,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,OEM（闸 2 判定 · 30% 档）,2,2,False,,http_error
+SC-276,assmann.pl,波兰,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,6,False,,ok
+SC-2760,tempelgroup.com,西班牙,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,中型集团分销（闸 2 判定 · 20% 档）,1,1,False,,unreachable
+SC-2941,digitx.it,意大利,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,,1,2,False,,ok
+SC-2954,videcon.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-2957,conexpro.com,捷克,欧洲,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,品牌商（ISP / 安装商全线网络配件自有品牌：PoE 交换机 / SFP / ,0,0,False,,ok
+SC-2969,metrikingdom.com,葡萄牙,欧洲,B2,OK，待首触反馈,登记坐实,弱,none,True,focus,False,,微型 IT 服务商（闸 2 判定 · 25% 档）,0,0,False,,ok
+SC-2976,blake-uk.com,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SC-3302,niveoprofessional.com,荷兰,欧洲,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,OEM（闸 2 判定 · 30% 档）,4,7,False,,ok
+SC-331,industrialcomms.com,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业分销（闸 2 判定 · 20% 档）,1,3,False,,ok
+SC-345,pine-networks.com,法国,欧洲,B2,OK，待首触反馈,法定名,活,auto,True,focus,False,,DC 集成（闸 2 判定 · 25% 档）,1,2,False,,ok
+SC-364,EasyWind GmbH,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,自用（闸 2 判定 · 25% 档）,1,2,False,,ok
+SC-427,tbkvision.com,西班牙,欧洲,B2,OK，待首触反馈,法定名,弱,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,1,False,,ok
+SC-468,bkeesti.ee,爱沙尼亚,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,集团分销（闸 2 判定 · 20% 档）,3,3,False,,http_error
+SC-490,hattelandtechnology.com,挪威,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,工业分销（闸 2 判定 · 20% 档）,2,5,False,,ok
+SC-683,VOYGAR SYSTEMS GmbH,德国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,OEM（闸 2 判定 · 30% 档）,1,2,True,,ok
+SC-700,amc-systeme.de,德国,欧洲,B2,OK，待首触反馈,登记坐实,活,none,True,focus,False,,集成（闸 2 判定 · 25% 档）,1,1,False,,ok
+SC-704,annicom.com,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,2,False,,ok
+SC-855,mastdigital.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,中型安防分销（闸 2 判定 · 20% 档）,1,1,False,,http_error
+SC-935,semaphore-systems.co.uk,英国,欧洲,B2,OK，待首触反馈,法定名,活,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,1,1,False,,http_error
+SB-042,regalsecurity.co.za,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,auto,True,other,False,,大型区域安防分销商,3,3,False,,ok
+SB-049,MULTILINK (PVT) LTD,津巴布韦,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,经销/集成商,1,1,False,,ok
+SB-102,Denso Electronics Ltd,赞比亚,非洲,B2,OK 但无回信/非主攻,法定名,活,R0,True,other,False,,,1,1,True,,ok
+SB-338,MAX protect,突尼斯,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,1,1,False,,ok
+SB-615,handsonsecurity.co.za,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,CCTV 网店/安装商（南非，Utepo 在售）,1,2,False,,ok
+SB-629,C-TECH,埃及,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,系统集成商（埃及，工业 1 光 1 电 PoE 询盘）,1,3,False,,ok
+SB-631,Gigaxysafe Technologies Ltd,尼日利亚,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,网络产品网店（尼日利亚，品牌货 RFQ）,1,1,False,,ok
+SB-636,MARZETEK (Pty) Ltd,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IT/网络方案商（南非，24/48 口 + 4×10G 需求）,1,1,False,,parked_or_empty
+SB-860,basithamitech.com,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,安防/自动化安装商（南非，Utepo 在用）,1,2,False,,ok
+SB-904,Nuthill,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,矿业/工业自动化服务商（南非，Moxa 8 口替代询盘）,1,6,False,,ok
+SB-971,IPS,埃及,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,安防/业务方案集成商（埃及）,1,2,False,,ok
+SB-978,eurobyte.co.za,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,IT/安防分销商（南非，PLANET 工业线在售）,3,4,False,,ok
+SB-987,throughput.co.za,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,,3,3,True,,ok
+SC-1283,reditron.co.za,南非,非洲,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防分销（闸 2 判定 · 20% 档）,3,6,False,,ok
+SC-1493,duxbury.co.za,南非,非洲,B2,OK 但无回信/非主攻,登记坐实,活,auto,True,other,False,,中型分销（闸 2 判定 · 20% 档）,6,11,False,,ok
+SC-1803,habari.co.tz,坦桑尼亚,非洲,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,区域 ISP 自用 直客（闸 2 判定 · 25% 档）,5,6,False,,ok
+SC-2885,LS Networks (Pty) Ltd,南非,非洲,B2,OK 但无回信/非主攻,法定名,活,none,True,other,False,,安防集成（闸 2 判定 · 25% 档）,4,5,False,,ok
+SC-298,miro.co.za,南非,非洲,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,大分销（闸 2 判定 · 20% 档）,4,5,False,,ok
+SC-382,securitywarehouse.co.za,南非,非洲,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,安防分销（闸 2 判定 · 20% 档）,2,2,False,,ok
+SC-644,scoop.co.za,南非,非洲,B2,OK 但无回信/非主攻,登记坐实,活,none,True,other,False,,批发分销（闸 2 判定 · 20% 档）,3,3,False,,http_error
+SB-192,Core and Clad,巴林,中东,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,False,,
+SB-578,niaar.net,阿联酋,中东,C,最后一句硬婉拒（R-）,法定名,活,R-,True,other,False,,,2,3,True,,ok
+SB-818,mdirphanmdirphan151@gmail.com,沙特阿拉伯,中东,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,True,,
+SC-002,Intelligent,沙特阿拉伯,中东,C,否决：同行,法定名,活,R+,True,other,True,同行,中资同行（制造+分销）,2,2,False,2025-07-22,
+SB-032,PIOLINK,韩国,亚太,C,否决：同行,登记坐实,活,R+,True,second,False,同行,品牌厂商（自研交换机）,2,1,False,2025-02-18,ok
+SB-249,netbergtw.com,台湾,亚太,C,否决：同行,登记坐实,活,R+,True,other,False,同行,数据中心白盒交换机厂商（台湾；有回复，园区接入位可谈）,2,2,False,2025-05-20,ok
+SB-382,akoe.yusuf@gmail.com,印度尼西亚,亚太,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,True,,
+SB-497,Cong Ty TNHH CONG NGHE QUANG LAM,越南,亚太,C,最后一句硬婉拒（R-）,登记坐实,活,R-,True,other,True,,,2,2,True,,ok
+SB-568,Tien Phong CP,越南,亚太,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,True,,
+SB-598,solway.co.kr,韩国,亚太,C,最后一句硬婉拒（R-）,法定名,活,R-,False,second,False,,网络设备公司（韩国，bypass 需求）,2,1,False,2026-02-06,ok
+SB-603,Arp,泰国,亚太,C,最后一句硬婉拒（R-）,未坐实,活,R-,True,other,False,,,1,0,True,,
+SB-639,T3K Technology Co Ltd,缅甸,亚太,C,最后一句硬婉拒（R-）,未坐实,活,R-,True,other,False,,,1,0,True,,
+SB-735,Steve,菲律宾,亚太,C,身份未坐实 + 0 回复 + 官网不可用,未坐实,活,none,True,other,False,,,0,0,True,,
+SB-912,jentronics,马来西亚,亚太,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,True,,
+SC-039,atwtechnology.com,台湾,亚太,C,否决：同行,官网,活,R+,True,other,True,同行,台湾工业通讯厂商（同行）,1,1,False,2026-04-29,ok
+SC-172,cop-security.com,台湾,亚太,C,否决：同行,官网,活,none,True,other,False,同行,台湾安防/网络厂商（同行）,1,1,False,,ok
+SC-185,dasannetworks.com,韩国,亚太,C,否决：同行,登记坐实,活,none,False,second,False,同行,上市网络设备集团（韩国，同行）,2,2,False,,ok
+SC-2846,DEONET,韩国,亚太,C,路径断（无邮箱无 WA / MX 死 / 退信）,法定名,断,R+,True,second,True,,,1,1,False,,
+SB-004,fhn-na.com,美国,北美,C,否决：同行,法定名,活,Rw,True,focus,True,同行,中资大厂海外分公司（终端/项目采购）,1,2,False,,ok
+SB-344,amer.com,加拿大,北美,C,最后一句硬婉拒（R-）,法定名,活,R-,True,focus,False,,北美自有品牌网络产品商（兼销 Planet，OEM 采购）,4,4,False,,ok
+SB-476,computerwayne@gmail.com,美国,北美,C,身份未坐实 + 0 回复 + 官网不可用,未坐实,活,none,True,focus,False,,,1,0,True,,
+SB-881,nexlar.com,美国,北美,C,最后一句硬婉拒（R-）,法定名,活,R-,True,focus,False,,商用安防集成商（美国休斯顿）,1,2,False,,ok
+SA-073,vicomsecurity.com,印度,南亚,C,最后一句硬婉拒（R-）,登记坐实,活,R-,True,second,False,,安防系统集成商 + 自有品牌,2,2,True,,ok
+SB-299,ayezeegroup.com,巴基斯坦,南亚,C,最后一句硬婉拒（R-）,法定名,活,R-,True,other,False,,,0,1,True,,ok
+SB-334,DG enterprises,尼泊尔,南亚,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,True,,
+SB-335,Golden hub nepl pvt.ltd,尼泊尔,南亚,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,True,,
+SB-563,Holil,土耳其,土耳其,C,身份未坐实 + 0 回复 + 官网不可用,未坐实,活,none,True,focus,False,,,0,0,True,,
+SB-737,UGUR IMRE,土耳其,土耳其,C,最后一句硬婉拒（R-）,登记坐实,弱,R-,True,focus,True,,,0,0,False,,
+SB-903,NECDET SENKACAYC,土耳其,土耳其,C,身份未坐实 + 0 回复 + 官网不可用,未坐实,活,none,True,focus,False,,,1,0,False,,
+SC-259,Sami CEUIK,土耳其,土耳其,C,路径断（无邮箱无 WA / MX 死 / 退信）,法定名,断,none,True,focus,True,,集成（闸 2 判定 · 25% 档）,0,0,False,,
+SB-517,Ernesto Guevara,尼加拉瓜,拉美,C,身份未坐实 + 0 回复 + 官网不可用,未坐实,活,R0,True,other,False,,,0,0,True,,
+SB-973,Multi Technology System,未填,未知,C,身份未坐实 + 0 回复 + 官网不可用,未坐实,活,none,True,other,False,,,1,1,False,,mismatch
+SB-213,kti.de,德国,欧洲,C,最后一句硬婉拒（R-）,登记坐实,活,R-,True,focus,False,,台湾 KTI 欧洲分销（自有品牌 + 他牌；台湾厂商口径二供）,2,3,False,,ok
+SB-944,fybera.com,保加利亚,欧洲,C,路径断（无邮箱无 WA / MX 死 / 退信）,法定名,断,none,True,focus,False,,光纤配件品牌商（比利时，自有标 MC；官网待核）,1,1,False,,unreachable
+SB-989,Julien Desbrosses,法国,欧洲,C,身份未坐实 + 0 回复 + 官网不可用,未坐实,活,none,True,focus,False,,,0,0,True,,
+SC-012,LDZ Apsardze,拉脱维亚,欧洲,C,否决：品类不对位,法定名,活,R+,True,focus,True,品类不对位,,1,1,False,,
+SC-1053,casmarglobal.com,西班牙,欧洲,C,路径断（无邮箱无 WA / MX 死 / 退信）,登记坐实,断,none,True,focus,False,,分销（闸 2 判定 · 20% 档）,0,0,False,,http_error
+SC-2262,1st-embedded.com,德国,欧洲,C,最后一句硬婉拒（R-）,法定名,活,R-,True,focus,False,,集成 + 分销（闸 2 判定 · 20% 档）,2,2,False,2025-01-20,ok
+SB-1076,simplifinetworks.com,肯尼亚,非洲,C,最后一句硬婉拒（R-）,法定名,活,R-,True,other,False,,区域总分销商（东非，少量自有 logo）,1,3,False,,ok
+SB-1109,mulugetawendosen@gmail.com,埃塞俄比亚,非洲,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,True,,
+SB-125,"Anfiris, lda",安哥拉,非洲,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,False,,
+SB-463,Groupe Penda Telecoms,塞内加尔,非洲,C,个人免费邮箱 + 身份未坐实 + 0 实质回复 + 非主攻区,未坐实,活,none,True,other,False,,,1,0,False,,
+SB-587,Truetech Security Solutions,加纳,非洲,C,最后一句硬婉拒（R-）,未坐实,活,R-,True,other,False,,,0,0,True,,

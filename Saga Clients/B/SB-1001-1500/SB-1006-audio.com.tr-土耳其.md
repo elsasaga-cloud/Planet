@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -78,10 +78,9 @@ updated: 2026-10-29
 
 - `audio.com.tr` → Microsoft 365（MX：audio-com-tr.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 98 批（TR · 1 次检索：官网 İletişim / KVKK（Audio Elektronik A.Ş；Fabrika Esenkent Mh. Barajyolu Cd. No 26, 34776 Dudullu-Ümraniye；0216 527 46 71）+ 官网 History（1979 起对讲行业；土耳其首家对讲 / 智能家居制造商；6,000 m² 工厂；ISO 9001）+ EMIS（Audio Elektronik A.S.；1988-09-20 设立；Audio and Video Equipment Manufacturing）+ Kompass（Audio Elektronik İthalat İhracat Sanayi ve Ticaret Ltd.Şti. 旧档；Registration No 103 004 9698 / Anadolu Kurumlar；1977；100–249 人）+ TÜBİTAK 名单（AUDIO ELEKTRONİK İTHALAT-İHRACAT SAN. VE TİC. AŞ；KOBİ）+ RocketReach（≈$66.9M；119 人）+ Crunchbase（101–250 人），2026-10-28 查；https://www.audio.com.tr/en/corporate/history/）：**
 
@@ -175,6 +174,11 @@ updated: 2026-10-29
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -293,12 +297,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 25）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

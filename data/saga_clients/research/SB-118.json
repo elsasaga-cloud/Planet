@@ -407,5 +407,15 @@
   ],
   "web_facts": [],
   "manual": true
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（下放 B：人工终判：Genrov Ltd（英国一人 ROV 技术服务公司）：交换机需求是 ROV 项目一次性配套，2024-06 要过 DS 后无回；无复购土壤）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

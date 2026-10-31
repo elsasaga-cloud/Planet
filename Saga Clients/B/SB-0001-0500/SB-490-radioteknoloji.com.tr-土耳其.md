@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -77,10 +77,9 @@ updated: 2026-10-29
 
 - `radioteknoloji.com.tr` → 其他主机商邮箱（mx02.postabulut.com）（MX：mx02.postabulut.com、mx02-b.postabulut.com）。主机商附带邮箱（mx02.postabulut.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 100 批（TR · 1 次检索：LinkedIn（Radio Teknoloji Hizmetleri A.Ş；2015；11–50 人；Bakırköy；「Türkiye’nin önde gelen Dış Ortam Kablosuz Distribütör ve Entegretör firması」；KGYS / EDS / Mobese / WISP / FBWA / TEDES）+ MÜSİAD Expo 参展名录（RADIO TEKNOLOJİ HİZMETLERİ A.Ş.；Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. Avrupa Residence No 8/1 A Blok Daire 10, Bakırköy）+ Facebook（+90 212 644 07 84；info@；客户 KGYS / TEDES / TSK / 边境 / 港口 / 机场 / 市政；接待国防部质保局长）+ SAHA Expo 参展页（分销商 + 系统集成商；PtP / PtMP / 室外 Wi-Fi / 车载移动通信 / 4G-5G LTE）+ 官网（InfiNet Wireless 等），2026-10-28 查；https://in.linkedin.com/company/radio-teknoloji-hizmetleri-a.%C5%9F）：**
 
@@ -188,6 +187,11 @@ updated: 2026-10-29
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-30 | 2025.10.30 | dac |  | A |  | 土耳其客户 3.10.xlsx#86 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -331,12 +335,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

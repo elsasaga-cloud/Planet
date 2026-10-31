@@ -505,5 +505,15 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（on）→ 下放 B：American Fibertek：Made in America / BAA + 外采线要求 TAA 合规（中国产地不合规）→ 结构性障碍）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

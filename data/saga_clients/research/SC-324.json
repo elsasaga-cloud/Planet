@@ -309,5 +309,15 @@
   ],
   "web_facts": [],
   "manual": true
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（落池核验未过 → 下放 B：人工终判：enercore.co.in：2024-05 两句（4 口价格 / 印度有无现货）后无回，身份与规模未坐实；印度名单留 B）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "second"
  }
 }

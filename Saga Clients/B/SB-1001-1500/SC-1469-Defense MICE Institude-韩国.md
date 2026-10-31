@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -69,7 +69,7 @@ updated: 2026-10-30
 - `kdmi.kr` → 韩国主机商 / Naver Works（MX：kr1-aspmx1.worksmobile.com、kr1-aspmx2.worksmobile.com）。中小企业云邮箱（韩国主机商 / Naver Works）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
 - `naver.com` → 韩国主机商 / Naver Works（MX：mx1.mail.naver.com、mx4.mail.naver.com、mx5.mail.naver.com、mx6.mail.naver.com）。中小企业云邮箱（韩国主机商 / Naver Works）：过滤中等、像素一般可用；这类公司邮箱通常老板或销售本人收，信要短、带型号和一口价
 
-**假日避让（韩国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（韩国 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
 - 窗口内无该国法定假日
 
@@ -160,6 +160,11 @@ updated: 2026-10-30
 | ? | 63 | pcb |  | A |  | KR.xlsx#87 |
 | ? | 93 | alarm |  | A |  | KR.xlsx#87 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））；身份 法定名 · 路径 活 · 回信 R+ · 区域档 second
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：25 封（去 25 / 来 0）　|　**期间**：2024-07-08 → 2026-03-06　|　**最后去信**：2026-03-06
@@ -181,6 +186,15 @@ updated: 2026-10-30
 | 16 Port Ethernet Switch | 2025-06-25 | 2025-06-25 | 0 | 1 | 1 |
 | Marvell Networking Solutions | 2025-06-03 | 2025-06-03 | 0 | 1 | 1 |
 | …共 25 条线程（全文见 `data/gmail_s/threads.json` / `messages/`） | | | | | |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1469/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://kdmi.kr/) | html | 待首轮 | — | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -275,12 +289,12 @@ updated: 2026-10-30
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 9）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 9）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

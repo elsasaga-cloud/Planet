@@ -25,8 +25,8 @@
    "source": "（本地 Clients/ 表格，无公开 URL）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -103,5 +103,25 @@
    "body": "Hi Necdet,\n\nWe met at ISAF 2025 in Istanbul last October - this picks up what we discussed at the booth.\n\nThe industrial PoE switches you asked for: DIN-rail 8 x Gigabit PoE+ + 2 x SFP, unmanaged, model STI-288GP - $59.8 USD EXW; 4 x PoE + 1 x SFP, model STI-144GP - $35.5 USD EXW (MOQ 1, 15-day validity, CE/RoHS).\n\nOne question: if you send me your company name and the quantity, I will issue a formal quotation - how many units is the first project?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "身份未坐实 + 0 回复 + 官网不可用",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
+ },
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用"
+  }
+ ]
 }

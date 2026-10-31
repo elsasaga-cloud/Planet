@@ -62,8 +62,8 @@
    "source": "https://www.tofler.in/vicom-security-private-limited/company/U51109WB1995PTC070096"
   }
  ],
- "grade_override": "B",
- "override_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n已开视频会 + 自有品牌 + 明确机型需求 = 可做 OEM（VICOM 贴牌）。印度非主攻区但项目体量可观。P1：4 光 24 电管理 PoE → STC-424DGGPM-280W（4 SFP 版本核对）；4 光 4 PoE 管理 → STI 工业 4 电 4 光机型（核价）；OEM 价阶 30%。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -272,6 +272,14 @@
    "to": "B",
    "prev_reason": "",
    "reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A"
+  },
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "Q-76 LT-01 2026-10-29：A→B 普通跟（核心证据不足：B2 真回/WA/有打开/展会+对位；B6 对位（冷，任何区域））；仍在长期客户群，有真人往来 / 成单即回 A",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）"
   }
  ],
  "snap_thicken": {
@@ -306,5 +314,15 @@
   "url": "https://www.vicomsecurity.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "最后一句硬婉拒（R-）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R-",
+  "focus": "second"
  }
 }

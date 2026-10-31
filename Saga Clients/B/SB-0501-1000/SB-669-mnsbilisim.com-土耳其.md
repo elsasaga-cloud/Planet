@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,10 +76,9 @@ updated: 2026-10-29
 
 - `mnsbilisim.com` → Microsoft 365（MX：mnsbilisim-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 102 批（TR · 1 次检索：mnspazar.com İletişim（MNS BİLİŞİM HİZ. SAN. TİC. LTD. ŞTİ.；Mahmut Bektaş；Mecidiyeköy Mh. Cemal Sahir Sk. Polat Mecidiyeköy İş Merkezi No 29 K:4 D:43 Şişli İstanbul；Vergi No 6220446809；Vergi Dairesi Zincirlikuyu；0 212 347 90 66；info@ / teknik@）+ EMIS（Mns Bilisim Hizmetleri San. Ve Tic. Ltd. Sti.；established 2005-07-07；İstanbul）+ ZoomInfo（Mahmut Bektaş — Founder，2005–；11–50 人；Harun Kara — Network Systems Specialist）+ 官网（Kurumsal Network Çözümleri；UniFi AP；Ruijie 6120；Ruijie 土耳其授权销售与方案伙伴）+ whois（域名 2005-04-09 创建），2026-10-28 查；https://www.mnspazar.com/iletisim）：**
 
@@ -174,6 +173,11 @@ updated: 2026-10-29
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-29 | 2025.10.29 | dac |  | A |  | 土耳其客户 3.10.xlsx#73 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -310,12 +314,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

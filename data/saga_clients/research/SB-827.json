@@ -335,5 +335,15 @@
   "deal": "",
   "reply_class": "auto",
   "evidence": "[S 2024-10-24] Hi Simon, It is Semi manage or manage Switch, Kindly share Price for this switch. If you are available on Skyp"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "second"
  }
 }

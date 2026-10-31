@@ -227,5 +227,15 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": "[A 2026-04-02] Thanks Alan. I will let you know if any model is useful to me. Best regards, Gary [cid:image001.png@01DCC2A7.3 ‖ [A 2026-08-11] Thanks Alan and I don’t have requirement so far. Best Regards, Gary ‖ 表 2025.7.9: Alarm→INFO ‖ 研 2025-07-10 garychen@tailyn.com.tw: Hi Alan, Could you mail us the details of Marvell Industrial Alert System? Best  / 2026-08-11 Gary Chen: Thanks Alan and I do"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

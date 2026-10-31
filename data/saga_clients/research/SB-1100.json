@@ -148,5 +148,15 @@
   "note": "印尼 IT / 广播 / 网络安全服务商（Firman Wahyudi）：回复 2 次，问如何购买 / 印尼有无分销 → 真人往来 ✔ 行业内 ✔ → 留 B",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 2，WA —，展会 —，绑定 未触达））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": []
+ "override_history": [],
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（Rw）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "Rw",
+  "focus": "other"
+ }
 }

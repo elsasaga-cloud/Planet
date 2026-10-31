@@ -151,5 +151,15 @@
   "url": "https://medias-coms.ch/fr/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "强对位（经销）+ 登记坐实 + 主攻区 + 路径活",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

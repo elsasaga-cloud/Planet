@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 3
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -161,6 +161,11 @@ updated: 2026-10-30
 |---|---|---|---|---|
 | 2025 | 表 | 表 | Simon 备注/兴趣栏｜不会英文， 说fiber out, 拿别的公司的产品册问了POE splitter, pon ； 不会英文， 说fiber out, 拿别的公司的产品册问了Po |  |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 联系方式（已有 · 原值照录）
 
 - 电话：`+05333585480`〔WhatsApp 已加；原值见来源表〕
@@ -257,12 +262,12 @@ Merhaba, ISAF'ta sorduğunuz PoE splitter ve PON ürünleri gamımızda yok; fib
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 3 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

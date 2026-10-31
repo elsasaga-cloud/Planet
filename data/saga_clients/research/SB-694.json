@@ -126,5 +126,15 @@
    "body": "Hi, Francois,\n\nIn June 2024 you said what you need is SFP+ ports with front-to-back ventilation, and we had nothing to offer. Now there is a CENTEC-based L3 unit: 24x 10G SFP+ + 2x 100G QSFP28, front-to-rear airflow, hot-swap PSU, VXLAN/EVPN/MPLS; indicative price around $1,250 USD EXW for the DC/MA-license version (project quote, 15 days validity).\n\nOne question: is this still relevant for your racks, and is it AC or DC power?\n\nThank you.\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

@@ -27,7 +27,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -80,10 +80,9 @@ updated: 2026-10-29
 - `optima-engineering.com` → 其他主机商邮箱（freya.veriyum.net）（MX：freya.veriyum.net）。主机商附带邮箱（freya.veriyum.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `optima.tc` → Microsoft 365（MX：optima-tc.mail.eo.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 97 批（TR · 1 次检索：optima-engineering.com/en/corporate/about-optima（2000-12 Ostim Ankara 创立；foundingDate 2000-12；founder / CEO İ. Tamer Ülgen；NACE 28.99.90；路障 / 升降柱 / 破胎器 / 闸机 / 道闸 / 滑动门驱动；2014 投资激励购 9,000 m² 地块、2015 夏建成 Başkent OSB 工厂）+ EMIS（Optima Muhendislik A.S.；2000-12-05 注册；员工 100（2026））+ TİM（2000 年机械工程师 Tamer Ülgen 在 Ostim 100 m² 创业；2017 起 18,000 m² 工厂；OAİB 会员）+ D&B（OPTIMA MUHENDISLIK ANONIM SIRKETI；No:62 Malıköy Başkent OSB 19. Cad.）+ 官网新闻（安卡拉增长最快企业奖），2026-10-28 查；https://www.optima-engineering.com/en/corporate/about-optima）：**
 
@@ -198,6 +197,11 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|
 | 2025-09-26 | 2025.9.26 | dac |  | A |  | 土耳其客户 3.10.xlsx#12 |
 | 2025-10-24 | 1024 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#12 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -349,12 +353,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

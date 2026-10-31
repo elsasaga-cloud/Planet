@@ -119,5 +119,15 @@
    "body": "How did the OM4301 extender pair perform on site? If the next job needs PoE at the far end, the 8-port gigabit PoE+ switch is $84.1 EXW and ships with the extenders in one parcel."
   },
   "as_of": "2026-10-25"
+ },
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

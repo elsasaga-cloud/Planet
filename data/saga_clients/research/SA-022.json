@@ -285,5 +285,15 @@
   }
  ],
  "grade_override": "B",
- "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：备注成单（非 Saga，本职公司时期）·6 台 MC 样品（Addon）（Simon 2026-10-30：非 Saga 成交）"
+ "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：备注成单（非 Saga，本职公司时期）·6 台 MC 样品（Addon）（Simon 2026-10-30：非 Saga 成交）",
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（10-30 A 级终评：降 B：备注成单（非 Saga，本职公司时期）·6 台 MC 样品（Addon）（Simon 2026-10-30：非 Saga 成交））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
+ }
 }

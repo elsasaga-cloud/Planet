@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,10 +85,9 @@ updated: 2026-10-29
 
 - `gmtcontrol.com` → Google Workspace（MX：smtp.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 96 批（TR · 1 次检索：gmtcontrol.com/en/about-us（GMT Endüstriyel Elektronik San. ve Tic. A.Ş.；2014 创立；土耳其第一家工业 PLC 制造商；100% 自有设计 / 本土生产；GMTCNT 注册商标；PLC / HMI / 变频 / 伺服 / 电源 / 工业通讯产品）+ /contact（Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B 34805 Beykoz；gmt@gmtcontrol.com）+ LinkedIn（51–200 人；2014；Abdullah Aydın = Project Manager）+ RocketReach（40 人；$7.9M 第三方估）+ KVKK 文本（数据控制人 A.Ş.），2026-10-28 查；https://gmtcontrol.com/en/about-us/）：**
 
@@ -208,6 +207,11 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|
 | 2025-09-25 | 2025.9.25 | dac |  | A |  | 土耳其客户 3.10.xlsx#4 |
 | 2025-10-23 | 1023 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#4 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -358,12 +362,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 41）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

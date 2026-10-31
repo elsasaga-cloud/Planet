@@ -385,5 +385,15 @@
   ],
   "web_facts": [],
   "manual": true
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（-30 A 落池核验未过 → 下放 B：人工终判：Neowine（韩国 fabless 芯片公司，想做代理但不懂网络产品）：行业外，2025-01 索样后无下文）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "second"
  }
 }

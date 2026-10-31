@@ -24,8 +24,8 @@
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：路径断（无邮箱无 WA / MX 死 / 退信）",
  "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\nLT-R09 2026-10-29 country_fix：表内「比利时」有误，官网 fybera.com 联系电话 +359 2 4214270（索非亚）→ 保加利亚。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -146,7 +146,16 @@
   "note": "fybera.com DNS 2026-10-29 16:2xZ 仍 NoNameservers（与 14:48Z LT-R09 一致，委派仍坏）；LT-R09 已据搜索摘要判在营（自有品牌 Fybera 光纤无源 / 媒转，sales@fybera.com）→ 维持留 B，下次巡检（12-28）再查委派；邮箱路径待观察",
   "why": ""
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：路径断（无邮箱无 WA / MX 死 / 退信）"
+  }
+ ],
  "country_fix": "保加利亚",
  "snap_thicken": {
   "consumed": [
@@ -158,5 +167,15 @@
    "2026-10-29"
   ],
   "batch": "LT-T03"
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "路径断（无邮箱无 WA / MX 死 / 退信）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "断",
+  "reply": "none",
+  "focus": "focus"
  }
 }

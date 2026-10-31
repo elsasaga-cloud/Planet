@@ -17,8 +17,8 @@
   }
  ],
  "kp": [],
- "grade_override": "B",
- "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：LDZ Apsardze（拉脱维亚国铁安保子公司，国有）：轨交 + 国有守界 → 维持 C（资料保留）",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：品类不对位",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -108,6 +108,14 @@
    "to": "B",
    "prev_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）",
    "reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：LDZ Apsardze（拉脱维亚国铁安保子公司，国有）：轨交 + 国有守界 → 维持 C（资料保留）"
+  },
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：LDZ Apsardze（拉脱维亚国铁安保子公司，国有）：轨交 + 国有守界 → 维持 C（资料保留）",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：品类不对位"
   }
  ],
  "a_deep": {
@@ -298,5 +306,15 @@
   ],
   "web_facts": [],
   "manual": true
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "否决：品类不对位",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

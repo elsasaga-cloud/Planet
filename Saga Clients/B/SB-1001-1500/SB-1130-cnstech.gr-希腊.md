@@ -28,7 +28,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -95,7 +95,7 @@ updated: 2026-10-29
 
 - `cnstech.gr` → 同域名 MX → 托管在 mxrouting.net（MX：_dc-mx.414595ad2eac.cnstech.gr）。主机商附带邮箱（同域名 MX → 托管在 mxrouting.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（希腊 · 按下一步「现在 → 两周内」窗口 2026-10-29→2026-11-12）：**
+**假日避让（希腊 · 按下一步「现在 → 两周内」窗口 2026-10-31→2026-11-14）：**
 
 - 窗口内无该国法定假日
 
@@ -218,6 +218,11 @@ updated: 2026-10-29
 | 2025-10-07 | 107 | dac |  | A |  | 其他优质欧洲客户 2.26.xlsx#85 |
 | ? | 94 | 28bt |  | A |  | 其他优质欧洲客户 2.26.xlsx#85 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（Rw）；身份 法定名 · 路径 活 · 回信 Rw · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：26 封（去 25 / 来 1）　|　**期间**：2024-06-15 → 2026-09-09　|　**最后去信**：2026-09-09
@@ -243,13 +248,18 @@ updated: 2026-10-29
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-1130/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://cnstech.gr/) | html | HTTP 522 | 2026-10-29T15:11:51Z | 官网首页 |
+| [home](https://www.cnstech.gr/) | html | HTTP 522 | 2026-10-29T15:11:51Z | 官网首页（T27 快照状态 ok） |
+| [sitemap](https://www.cnstech.gr/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 385 条） |
+| [news_1](https://www.cnstech.gr/portfolio/) | html | 待首轮 | — | 导航「Portfolio」 |
+| [youtube](https://www.youtube.com/@cnstech962) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+
+- **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/cnstech；Instagram: https://www.instagram.com/cnstechgr/；LinkedIn: https://www.linkedin.com/company/cnstech；X/Twitter: https://twitter.com/cnstechgr
 
 ## 联系方式（已有 · 原值照录）
 
@@ -362,12 +372,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 13）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 13）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

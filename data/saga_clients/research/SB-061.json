@@ -397,5 +397,15 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "b_tier": {
+  "tier": "B2",
+  "why": "人工定级 B（不动）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

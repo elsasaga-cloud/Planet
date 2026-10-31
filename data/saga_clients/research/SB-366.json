@@ -294,5 +294,15 @@
   "deal": "",
   "reply_class": "R±",
   "evidence": "[S 2024-07-29] sorry, no need. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,Rental S ‖ [S 2024-09-09] Thanks for the update. Greetings. Hope this email finds you well. Thank you and best regards. Mr. Lee Te Hua,R ‖ 研 2024-07-29 inquiry@th-it.com: sorry, no need. Greetings. Hope this email finds you well. Thank you and best re / 2026-09-08 Mr. Lee Te Hua（Ren"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（Rw）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "Rw",
+  "focus": "other"
  }
 }

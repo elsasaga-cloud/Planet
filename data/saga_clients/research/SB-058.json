@@ -184,5 +184,15 @@
   "deal": "老成单·品类/年代不符·HDMI 光端机样品（波兰）",
   "reply_class": "none",
   "evidence": ""
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·HDMI 光端机样品（波兰））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

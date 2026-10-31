@@ -106,5 +106,15 @@
    "body": "Hi Suraj,\n\nYou asked for our price book after the single-fibre media converter post. The converter: industrial Gigabit, 1 x RJ45 + 1 x SFP slot, DIN-rail, -40 to 75 C - model STI-110GE - $26.5 USD EXW (MOQ 1, 15-day validity); for single-fibre you fit a BiDi SFP, which you buy locally - we do not supply the optics. An 8 x Gigabit PoE+ + 2 x SFP L2+ managed switch is $84.1.\n\nOne question: which quantity range should I price - 10, 50 or more?\n\nBest regards,\nSimon\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "second"
  }
 }

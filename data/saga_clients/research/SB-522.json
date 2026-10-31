@@ -154,5 +154,15 @@
   "why": ""
  },
  "override_history": [],
- "website_status_prev": "快照失败（adilec.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）"
+ "website_status_prev": "快照失败（adilec.com：停放/空站（疑停业或仅占位），2026-10-29，第 2 次）",
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "auto",
+  "focus": "focus"
+ }
 }

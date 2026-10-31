@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -75,10 +75,9 @@ updated: 2026-10-29
 
 - `entpa.com.tr` → 其他主机商邮箱（email.entes.com.tr）（MX：email.entes.com.tr、mxbounce-1.euromsg.net、mxbounce-2.euromsg.net）。主机商附带邮箱（email.entes.com.tr）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 104 批（TR · 1 次检索：官网 Hakkımızda / Sitemap（ENTPA Elektronik Cihazlar Tic. ve Turizm A.Ş.；Y.Dudullu OSB 1.Cadde No:23 34775 Ümraniye；+90 216 314 36 44；info@ / satis@；「ENTPA bir ENTES kuruluşudur」）+ index_en（2003 年由 ENTES 股东创立；ENTES 1980 起，出口近 50 国）+ hanwhavision.eu 分销名录（ENTPA ELEKTRONİK CİHAZLAR TİCARET PAZARLAMA VE TURİZM AŞ；Dudullu OSB 1. Cad. No:23）+ EMIS（法定名；34771）+ LinkedIn（11–50；Ümraniye）+ entcam.com.tr（自有品牌 Entcam），2026-10-28 查；https://entpa.com.tr/hakkimizda_tr.asp）：**
 
@@ -171,6 +170,11 @@ updated: 2026-10-29
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-30 | 2025.10.30 | dac |  | A |  | 土耳其客户 3.10.xlsx#83 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -304,12 +308,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

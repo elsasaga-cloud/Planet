@@ -17,8 +17,8 @@
   }
  ],
  "kp": [],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -97,5 +97,25 @@
    "body": "Hi Julien,\n\nYou asked on our site about a 5-port copper switch; two options depending on where it goes:\n\n- indoor desk or shelf: 5 x Gigabit desktop switch, metal case - model STC-05GE - $6.2 USD EXW (MOQ 1, 15-day validity)\n- inside a cabinet or outdoor enclosure: DIN-rail industrial 5 x Gigabit, 12-58 V DC, -40 to 75 C - STI-050GE - $25.0\n\nBoth CE/RoHS; shipping to France is quoted on top once I know the quantity.\n\nOne question: is it going on a desk or inside a cabinet?\n\nBest regards,\nAlan\nSaga Telecom - sagatele.com"
   },
   "as_of": "2026-10-24"
- }
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "身份未坐实 + 0 回复 + 官网不可用",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
+ },
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用"
+  }
+ ]
 }

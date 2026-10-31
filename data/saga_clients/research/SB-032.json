@@ -54,8 +54,8 @@
    "source": "https://www.piolink.com/kr/company/Company-Overview.php"
   }
  ],
- "grade_override": "B",
- "override_reason": "品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：同行",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n若重启，只提 HRUI（Realtek 平台）整机 ODM 能力，不谈芯片供货。待补证：公司规模（上市信息）。",
  "researched_at": "2026-10-21",
  "deep": {
@@ -161,7 +161,16 @@
   "note": "桌面复核（研究档类型 + 对位首推）：品牌厂商（自研交换机）；切入：24 光 / 高端 L3 需求 → Saga STC-424XGGM(L3)（24 GE + 4×10G，$269.1/280.3/291.5）作 ODM 样机；全光 24 SFP 版按 SmartByte 另询。；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 1，WA —，展会 —，绑定 未绑定））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "品牌厂商、需求为芯片级（Realtek 高端芯片），Saga 是整机贸易商不供芯片；韩国非主攻区；1 次回复后 23 次推送无果。仅保留'HRUI Realtek 方案整机 ODM'一条可能 → B。",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：同行"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:21:25Z"
@@ -191,5 +200,15 @@
   "url": "https://www.piolink.com/en/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "否决：同行",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "second"
  }
 }

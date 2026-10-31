@@ -31,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -82,9 +82,9 @@ updated: 2026-10-30
 
 - `omnisecurity.ro` → 同域名 MX → 托管在 urbanofficerentals.ro（MX：omnisecurity.ro）。主机商附带邮箱（同域名 MX → 托管在 urbanofficerentals.ro）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（罗马尼亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（罗马尼亚 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 窗口内无该国法定假日
+- 法定假日：11-30 Saint Andrew's Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 110 批（RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 37299107；J15/334/2017；VOINEȘTI Str. ALDESCU Nr. 624 DÂMBOVIȚA；cifra de afaceri 333,896 RON 2024；profit 174,404 RON；1 angajat）+ risco.ro（March 29 2017；Main CAEN 4321；NACE 2025 4690；Sales 2025 100.816 euro；net profit 30.659；1 employee）+ sicap.ai（DA37570300 camere video, switch, cabluri），2026-10-28 查；https://www.risco.ro/en/verifica-firma/bonmag-international-cui-37299107）：**
 
@@ -238,6 +238,11 @@ updated: 2026-10-30
 - 网查（2026-10-30）：BONMAG INTERNATIONAL SRL · Fiscal Code 37299107 · Registry No. J15/334/2017 · established 2017 · Sat Voinesti, Dambovita · Web omnisecurity — <https://www.romanian-companies.eu/bonmag-international-srl-37299107/>
 - 网查（2026-10-30）：OMNI Security, Targoviste — Firma care se ocupa cu instalarea sistemelor de securitate si supraveghere video · office@omnisecurity.ro — <https://www.facebook.com/Omnisec/>
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
@@ -387,12 +392,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 55）
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -234,5 +234,15 @@
   "deal": "",
   "reply_class": "auto",
   "evidence": "[A 2025-05-29] Sarò fuori sede fino al 29/05/2025 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a u ‖ [A 2026-08-05] Sarò fuori sede fino al 3/7/2026 compreso, con accesso limitato all’email. Per urgenze tecniche scrivere a uff"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

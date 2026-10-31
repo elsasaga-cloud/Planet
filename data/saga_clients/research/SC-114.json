@@ -90,5 +90,15 @@
    "prev_reason": "设备厂商（Ceragon 上市公司）、仅 marketing@ 无具名联系人、需求为 10G MC（价目外）",
    "reason": "AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）"
   }
- ]
+ ],
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
+ }
 }

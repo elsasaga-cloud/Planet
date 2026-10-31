@@ -136,5 +136,15 @@
   ],
   "last_ok": "2026-10-21",
   "batch": "LT-T03"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "强对位（经销）+ 登记坐实 + 主攻区 + 路径活",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

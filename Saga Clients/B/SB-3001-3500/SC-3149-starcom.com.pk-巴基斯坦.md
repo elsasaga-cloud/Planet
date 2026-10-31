@@ -31,7 +31,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -74,7 +74,7 @@ updated: 2026-10-30
 - `starcom.com.pk` → 同域名 MX → 托管在 alwaysondns.net（MX：starcom.com.pk）。主机商附带邮箱（同域名 MX → 托管在 alwaysondns.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `starcom.net.pk` → 其他主机商邮箱（clean02.itserver.biz）（MX：clean02.itserver.biz、clean03.itserver.biz、clean04.itserver.biz、mail.starcom.net.pk）。主机商附带邮箱（clean02.itserver.biz）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（巴基斯坦 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（巴基斯坦 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
 - 法定假日：11-09 Iqbal Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -156,6 +156,11 @@ updated: 2026-10-30
 |---|---|---|---|---|---|---|
 | 2025-10-13 | 2025.10.13 | dac |  | E |  | 巴基斯坦.xlsx#4 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））；身份 法定名 · 路径 活 · 回信 R+ · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2024-07-03 → 2026-10-20　|　**最后去信**：2026-10-20
@@ -179,13 +184,14 @@ updated: 2026-10-30
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：B 级面层　|　**自动源**：3 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-3149/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://starcom.com.pk/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7149 字符；首行：Home - Starcom |
+| [home](https://starcomdigital.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 7149 字符；首行：Home - Starcom |
+| [sitemap](https://starcomdigital.com/sitemap_index.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 235 条） |
 | [feed_auto](https://starcomdigital.com/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Sun, 02 Feb 2025 05:53:10 zooma официальный сайт – Игровой автомат Sweet Bonanza С |
 
 ## 联系方式（已有 · 原值照录）
@@ -296,12 +302,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -72）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -72）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -189,6 +189,11 @@ updated: 2026-10-30
 | 2024-03-15 | 来 | R | 用户表跟进：推「发了2光8商业POE管理信息」→ 对方「有兴趣 让发资料」 |  |
 | 2024.3.15 | 表 | 表 | 发了2光8商业POE管理信息｜有兴趣 让发资料 |  |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（R+）；身份 未坐实 · 路径 活 · 回信 R+ · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`antennatechnika@gmail.com`〔免费邮箱；来源：用户表原值〕
@@ -284,12 +289,12 @@ For the HDMI KVM extension you asked about, do you need it over Cat6 (up to 70 m
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 28）
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

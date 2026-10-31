@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -86,10 +86,9 @@ updated: 2026-10-29
 - `portel.com.tr` → Microsoft 365（MX：portel-com-tr.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 - `industrialnetworkcenter.com` → 土耳其主机商邮箱（MX：mx.uzmanposta.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 100 批（TR · 1 次检索：vknsorgula（PORTEL TEKNOLOJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ；VKN 7320767976；Kuruluş 2017-05-23；VD 工作开始 2017-05-23 / 2021-01-29；Ticaret sicil 1075179；NACE 46.52.01；Yalı Mah. Kadir Sk. No 14 Kartal；电话 216 464 50 00；活跃）+ industrialnetworkcenter.com İletişim（Firma Resmi Adı PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.；Helis More Residence Kat 7 Daire 82；TL / USD / EUR 账户）+ 官网 Hakkımızda（20 年以上半导体供应经验；工业网络产品）+ 旧址 Kozyatağı-Kadıköy（隐私政策 2021）+ Tendata（2024-11：73 票进口，13 家供应商），2026-10-28 查；https://vknsorgula.net/7320767976）：**
 
@@ -205,6 +204,11 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|
 | 2025-09-26 | 2025.9.26 | dac |  | A |  | 土耳其客户 3.10.xlsx#18 |
 | 2025-10-24 | 1024 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#18 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -352,12 +356,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 40）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

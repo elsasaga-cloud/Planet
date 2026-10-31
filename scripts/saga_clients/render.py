@@ -1711,6 +1711,13 @@ def render_one(ent):
             lines.append(f"- 网查（{wf.get('date', '')}）：{cell(wf.get('quote', ''), 220)} — <{wf.get('url', '')}>")
         if ad.get('web_facts'):
             lines.append('')
+    bt = (ent.get('research') or {}).get('b_tier')
+    if bt and ent.get('grade') in ('B', 'C'):
+        lines.append(f"## B 分层（{bt.get('batch', '')} · {bt.get('date', '')}）：**{bt.get('tier', '')}**")
+        lines.append('')
+        lines.append(f"- 依据：{cell(bt.get('why', ''), 200)}；身份 {bt.get('ident', '')} · 路径 {bt.get('path', '')} · 回信 {bt.get('reply', '')} · 区域档 {bt.get('focus', '')}")
+        lines.append('- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。')
+        lines.append('')
     intel = ((ent.get('research') or {}).get('intel') or {}).get('items') or []
     if intel:
         KINDS = ['年报/财务', '登记', '领英公司页', 'KP', '人事变动', '展会/活动', '新闻/招标', 'GitHub/技术足迹', '社媒', '供应商/品牌关系', '论坛/社区', '官网变化']

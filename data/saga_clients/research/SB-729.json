@@ -208,5 +208,15 @@
   "why": ""
  },
  "override_history": [],
- "website_status_prev": "停放（secure-x.my 空；heitech.com.my 待核）"
+ "website_status_prev": "停放（secure-x.my 空；heitech.com.my 待核）",
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
+ }
 }

@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -69,7 +69,7 @@ updated: 2026-10-30
 - `yahoo.com` → Yahoo 小企业邮箱（MX：mta5.am0.yahoodns.net、mta6.am0.yahoodns.net、mta7.am0.yahoodns.net）。主机商附带邮箱（Yahoo 小企业邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（阿联酋 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
 - 窗口内无该国法定假日
 
@@ -119,6 +119,11 @@ updated: 2026-10-30
 | 2023-07-13 | 2023.7.13 | 发了bypass系列宣传册 Ali链接 |  | Simon邮箱 |  | 领英.xlsx#15 |
 | 2023-08-15 | 2023.8.15 | 发了新桥商业POE图 价格册 |  | 领英 |  | 领英.xlsx#15 |
 | 2023-09-11 | 2023.9.11 | 发了商业POE组合图 |  | 领英 |  | 领英.xlsx#15 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：出 A 户（AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））；身份 未坐实 · 路径 活 · 回信 R+ · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -222,12 +227,12 @@ updated: 2026-10-30
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 2）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 2）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

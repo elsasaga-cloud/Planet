@@ -276,5 +276,15 @@
    "prev_reason": "",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3）"
   }
- ]
+ ],
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "Rw",
+  "focus": "second"
+ }
 }

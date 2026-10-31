@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -70,7 +70,7 @@ updated: 2026-10-30
 - `jteemsolutions.com` → 同域名 MX → 托管在 hostname.localhost（MX：jteemsolutions.com）。主机商附带邮箱（同域名 MX → 托管在 hostname.localhost）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `gmail.com` → Google Workspace（MX：gmail-smtp-in.l.google.com、alt1.gmail-smtp-in.l.google.com、alt2.gmail-smtp-in.l.google.com、alt3.gmail-smtp-in.l.google.com）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（斯里兰卡 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（斯里兰卡 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
 - 法定假日：11-08 Diwali；11-24 Il Full Moon Poya Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -155,6 +155,11 @@ updated: 2026-10-30
 - 网查（2026-10-30）：J Teem Solutions … provider of fiber optic network solutions in Sri Lanka … Kurunegala — <https://www.jteem.lk/fiber-solutions/>
 - 网查（2026-10-30）：security alarm systems … Hikvision and Dahua … Kurunegala, Sri Lanka — <https://www.jteem.lk/security-alarm-systems/>
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：出 A 户（ision/Dahua）：2024-12/2025-01 两封（要 spec+price、「I am interested」）后无下文；非主攻区小安装商 → B）；身份 未坐实 · 路径 活 · 回信 R+ · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
@@ -183,6 +188,15 @@ updated: 2026-10-30
 | 2.5G switch | 2024-08-28 | 2024-08-28 | 0 | 1 | 1 |
 | 48 port managed switch | 2024-07-29 | 2024-07-29 | 0 | 1 | 1 |
 | Industrial poe switch | 2024-06-30 | 2024-06-30 | 0 | 1 | 1 |
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：尚未跑过首轮（清单已就位，等运行器基线）
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-3203/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://jteemsolutions.com/) | html | 待首轮 | — | 官网首页 |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -273,12 +287,12 @@ updated: 2026-10-30
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -78）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -78）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -26,8 +26,8 @@
    "role": "联系人（研究档 KP；WA 已加）— 不动：婉拒「暂时没需求」+ 19×0 — 亚洲常规：英文稿、20 / 25 / 30 + T/T 预付 100% + FOB 深圳；周二 / 周四 10–12 当地（第 123 批 官方登记核实 2026-10-29）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -100,5 +100,25 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
- }
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "最后一句硬婉拒（R-）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R-",
+  "focus": "other"
+ },
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）"
+  }
+ ]
 }

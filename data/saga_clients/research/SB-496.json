@@ -108,5 +108,15 @@
   ],
   "draft_en": null,
   "as_of": "2026-10-24"
+ },
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

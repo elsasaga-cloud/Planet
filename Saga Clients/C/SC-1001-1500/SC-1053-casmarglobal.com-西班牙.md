@@ -1,0 +1,241 @@
+# casmarglobal.com
+**官方名称（调研核实）**：CASMAR ELECTRONICA SA
+
+> **评级 C**　|　西班牙　|　档案编号 `SC-1053`　|　优先级 —　|　状态：名单内·未触达
+>
+> **C 池筛选：○ P 池 · 正式入池（资产池，终身跟进 + 每 2 个月巡检）**（闸 3 · 2026-10-29）：★ P 池正式入池（档位 ○）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es　|　标签：oem_target（贴牌卖交换机的渠道商 —— OEM 专项对象，留 C）
+>
+> **类型**：分销（闸 2 判定 · 20% 档）（推断）　|　**历史关系**：名单内·无互动记录　|　**所在清单**：AI评估(ES)·DONE　|　结构版本：v1（Saga Clients · 继承 profile/ 骨架 · 2026-10-21 起）
+
+```yaml structured_profile
+code: SC-1053
+rating: C
+rating_auto: C
+sieve: pool  # 闸 3 P1 2026-10-29
+rating_research: C  # B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：路径断（无邮箱无 WA / MX 死 / 退信）
+name_official: "CASMAR ELECTRONICA SA"
+score: 15
+country: 西班牙
+region: 欧洲
+website: casmarglobal.com
+type: 分销（闸 2 判定 · 20% 档）
+tier_tags: ["AI评估(ES)·DONE"]
+deal: no
+replies: 0
+followups: 0
+first_contact: unknown
+last_contact: unknown
+p1: STC-228GP
+price_tier: 20%
+research: done
+site_snapshot: http_error  # 2026-10-29
+sources: 1
+updated: 2026-10-31
+```
+
+## SALES BRIEF（压缩模型）
+
+- **是谁**：C 池三闸捞出（○ 正式）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es（调研 2026-10-29；表内兴趣：Security system supplier）
+- **为什么是 C 级**：**调研后定级 C**（B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：路径断（无邮箱无 WA / MX 死 / 退信））；自动分级 C：+2 在 AI 客户评估名单；-12 备注提示大公司/上市公司/运营商（体量不匹配）；+12 自有品牌/贴牌需求（OEM/ODM 首选客户类型）；+5 有可核实的公司网站/域名；+8 区域 欧洲/西班牙；C 级细分：无邮箱（仅电话）
+- **历史互动**：名单内·无互动记录
+- **P1**：不推（C 级）；若对方主动来询，起手 STC-228GP（深挖对位：默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档））
+- **最大未知**：官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- **下一步**：不动：LT-01 复核（待过）后再定 — 长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
+
+## 针对性复盘（邮件 / PI / Drive 证据 · 2026-10-29）
+
+> 依据：S/A 邮箱全量往来（`scripts/saga_clients/mail_dump.py SC-1053` 可复现）+ PI 包 + Drive 资料；复盘日期 2026-10-29。**这一节优先于下文自动生成的 P1 / 第一问 / 邮件样板。**
+
+- **绑定等级：未绑定（C 池捞出，仓内无往来记录）** ｜ 类型：— ｜ 筛子：— ｜ 停点：— ｜ 复活：— ｜ 通路：— ｜ 节奏：— ｜ 证据：—
+- **现状一句话**：C 池三闸捞出 → B（LT-01）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es
+- **对方真实需求（有据）**：未知（无往来；复核时从官网 / 进口数据 / 项目推断）
+- **断点 / 为什么停在这里**：无往来（从未触达或仅群发无回）
+- **Saga 现在该推什么**：P1 **STC-228GP**（% 档，价见价格主表）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+- **下一步（具体）**：不动：LT-01 复核（待过）后再定　—　长期客户群复核：确认行业内 + 对位 + 成单可能；不明朗 → 打回 C 储备
+
+| 日期 | 向 | 谁 | 原话 / 事实（节录） | 为什么重要 | 消息 key |
+|---|---|---|---|---|---|
+| 2026-10-29 | 查 | Agent 三闸（sieve.json） | ○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es | 闸 2 坐实 / 对位依据（非邮件事实，不计真回） | `` |
+| 2026-10-29 | 查 | Agent 登记底数（registry） | ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29 | 闸 2 坐实来源（URL 见 company_facts.url） | `` |
+
+- **还缺的证据（等 A 邮箱 / Extra Info）**：无往来记录；复核待补：官网业务线 / 进口数据 / 项目案例
+
+## 第 82 批 · 邮箱域体检 + 假日避让 + 公司底数（2026-10-27）
+
+> 来源：DNS MX / A 查询（`mx_check.py`）、`holidays` 包 + 手工惯例表（`holidays_cal.py` → `docs/各国假日避让_2026-11_2027-03.md`）、官方工商登记（`data/saga_clients/registry/`）、官网快照标价片段。全部可复查；没有的项不写。
+
+**邮箱域体检（DNS MX / A，2026-10-29 查）：**
+
+- `casmarglobal.com` → Microsoft 365（MX：casmarglobal-com.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
+
+**假日避让：** 下一步为「不动：LT-01 复核（待过）后再定」，不排发信，略。
+
+**公司底数 · 第 125 批（ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29，2026-10-29 查；https://www.empresia.es/empresa/casmar-electronica/）：**
+
+- 法定名 / 登记号：CASMAR ELECTRONICA SA（casmarglobal.com；**einforma / empresia：CIF A08551061；Calle Maresme 71-79, 08019 Barcelona；1979-02-02 成立；社会资本 300,010 €；2024 年 82 名员工；CNAE 8020 安防系统服务；对象「安防报警系统的商业化与制造」；审计 AOB Global；casmar@casmar.es 公开**）；表内：国际化安防分销集团、无邮箱、从未触达 · A08551061 · 状态 **ACTIVA（Registro Mercantil de Barcelona）** · 成立 1979-02-02 · S.A.
+- 行业码 / 经营范围：安防系统分销 / 制造（巴塞罗那；国际化）
+- 注册地址：Calle Maresme 71-79, 08019 Barcelona
+- 规模档：中型（82）
+- 账目：未取；—
+- 高管：（casmar@casmar.es 官网 / 名录公开总邮箱 = 首发收件人；Administrador único 姓名未取；具名采购 KP 待 LinkedIn）
+- 控制人 / 股东：未取
+- **这意味着什么：**
+  - **分销 20%：首次触达一页纸（安防 PoE 线 STC-028GP $28 / STC-228GP $33 + 工业 STI-154GP；MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；冷户 → 回声后再深挖
+- 备注：分销 20%；P 池候选 ○（冷户：对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条）；坐实。
+
+## 基本事实（事实/推断/假设分层）
+
+| 项 | 内容 | 层级 |
+|---|---|---|
+| 名称 | casmarglobal.com（取自域名，公司全名待核） | 推断 |
+| 国家 | 西班牙 | 事实（用户表）|
+| 网站/域名 | casmarglobal.com | 事实（用户表 URL/邮箱域名） |
+| 类型 | 分销（闸 2 判定 · 20% 档） | 推断（据兴趣/备注关键词） |
+| 联系人 | Montse Castro Roca / Mariluz Cejas Lopez | 事实（用户表） |
+| 来源（From） | 谷歌 | 事实（用户表） |
+| 兴趣（Interested in） | Security system supplier | 事实（用户表） |
+| 用户备注（Remark） | 早期ai: 打不开网站 \| max: 9% C<br>国际化安防分销集团倾向明显，交换机更可能只是安防配套；未见明确OEM/定制迹象<br>集团型客户供应商准入通常更严，且我司官网与认证条件不占优 \| gpt: 20% B<br>西班牙通信设备供应商，核心业务未完全确认<br>建议人工确认是否涉及网络设备分销或项目采购<br>PoE交换机、工业交换机<br>公开信息不足，无法确认交换机地位 \| gemini: 35%  B<br>西班牙与中南美知名跨国安防分销商，成立超20年，规模约100-250人，主营CCTV监控、入侵报警及PoE网络配件<br>发送CCTV PoE交换机及工业PoE产品线资料，宣传性价比补位与OEM合作潜力<br>8口/16口/24口PoE交换机、工业PoE交换机<br>安防设备分销商，交换机为CCTV配套产品（配角）；主要代理Hikvision、Dahua等黄灯品牌及主流安防巨头，供应链替换难度中等 \| claude4.5: 15%  C<br>官网信息不足，无法确认核心业务和产品线<br>建议人工介入或暂时跳过 | 事实（用户表） |
+| 所在清单 | AI评估(ES)·DONE | 事实（文件路径） |
+| 在卖/在用品牌（备注所见） | Hikvision, Dahua | 事实（用户备注）/ 推断 |
+
+## 客户调研（网页核实 · 引文 + URL + 日期）
+
+- **状态：已调研（2026-10-29）**　网站状态：快照失败（casmarglobal.com：HTTP 错误，2026-10-29，第 1 次）
+- **是谁**：C 池三闸捞出（○ 正式）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es
+- **类型**：分销（闸 2 判定 · 20% 档）
+- **规模**：中型（82）
+- **【登记底数 / 官网（闸 2 坐实）】CASMAR ELECTRONICA SA（casmarglobal.com；**einforma / empresia：CIF A08551061；Calle Maresme 71-79, 08019 Barcelona；1979-02-02 成立；社会资本 300,010 €；2024 年 82 名员工；CNAE 8020 安防系统服务；对象「安防报警系统的商业化与制造」；审计 AOB Global；casmar@casmar.es 公开**）；表内：国际化安防分销集团、**
+  > ES · 1 次检索：iberinform（A08551061；Maresme 71-79；1979）+ empresia（82 empleados 2024；capital 300.010 €；casmar@casmar.es；933406408）+ einforma；2026-10-29
+  > 来源：https://www.empresia.es/empresa/casmar-electronica/（抓取 2026-10-29）
+- **【闸 1 对位】西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP**
+  > 来源：（抓取 2026-10-29）
+- **【长期群复核 LT-R02】桌面复核（闸 2 证据充分，三问成立）：○ 分销 20%（冷户）：Casmar Electrónica SA（A08551061；Barcelona 1979；82 人；安防分销 / 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ = §5 四条 → P 池候选；从未触达 → 先发 casmar@casmar.es**
+  > 来源：（抓取 2026-10-29）
+- **调研后定级**：C（原自动 C）——B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：路径断（无邮箱无 WA / MX 死 / 退信）
+- 备注：LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。
+LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。
+（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）
+
+### 加厚挖掘（2026-10-29 · 桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓））
+
+| 公司事实 | 内容 |
+|---|---|
+| 法定名称 | CASMAR ELECTRONICA SA |
+
+- **业务线**：安防系统分销 / 制造（巴塞罗那；国际化）
+- **触达通道（公开）**：网站: https://casmarglobal.com
+- **近况信号**：
+  - 西班牙 Casmar（国际化安防分销集团，无邮箱）→ 主区 + 分销体量；未触达 → 闸 2 查底数找 KP
+  - 表内兴趣：Security system supplier
+- **风险/边界**：**分销 20%：首次触达一页纸（安防 PoE 线 STC-028GP $28 / STC-228GP $33 + 工业 STI-154GP；MOQ 1 + 付费样机）— 欧洲常规：英文稿、20 / 25 / 30 + T/T 50/50（未坐实 预付 100%）+ DAP（买方清关）或 FOB 深圳；周四 12–14 当地**；冷户 → 回声后再深挖
+- **Saga 对位结论**：P1 STC-228GP（20% 档）——默认对位（分销 · 20% 档）：分销走量起手：8 GE PoE + 2 SFP（20% 档）
+
+### 官网快照（自动摘要 · 抓取 2026-10-29 · 状态：HTTP 错误）
+
+- 尝试域名：casmarglobal.com
+  > https://casmarglobal.com/ http 403 ct=text/html; charset=utf-8
+  > https://www.casmarglobal.com/ http 403 ct=text/html; charset=utf-8
+  > http://casmarglobal.com/ http 403 ct=text/html; charset=utf-8
+- **提示**：抓取失败不代表公司不在；人工打开一次即可。
+- 数据文件：`data/saga_clients/site_snapshots/SC-1053.json`
+
+## 在卖/在用品牌 → Saga 对位
+
+| 备注所见品牌 | 含义 | Saga 切入 |
+|---|---|---|
+| Hikvision | 安防摄像头品牌 | 对方是安防集成/经销：主推 PoE 交换机配套（看门狗、长距、bt 口） |
+| Dahua | 安防摄像头品牌 | 对方是安防集成/经销：主推 PoE 交换机配套（看门狗、长距、bt 口） |
+
+## 历史跟进记录（原表照录）
+
+（无跟进表记录）
+
+## B 分层（B-PASS-01 · 2026-10-31）：**C**
+
+- 依据：路径断（无邮箱无 WA / MX 死 / 退信）；身份 登记坐实 · 路径 断 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
+## 动态监控（自动 · 网站 / 社媒 / 代码库）
+
+- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **最近变化摘要**：2026-10-29 首轮基线
+- 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1053/`；本节随档案重渲染刷新，实时看日志。
+
+| 源 | 类型 | 状态 | 最近变化 | 摘要 |
+|---|---|---|---|---|
+| [home](https://casmarglobal.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 17593 字符；首行：CASMAR \| Distribuidor de tecnologías de seguridad electrónica |
+
+## 联系方式（已有 · 原值照录）
+
+- 联系人（原值）：Montse Castro Roca / Mariluz Cejas Lopez
+- 网站/域名：casmarglobal.com
+- **邮箱纪律**：只用表内原值，不猜测、不拼接；发不过去的地址标注后保留不删。
+
+## 关键人（KP）与触达通道
+
+| 姓名 | 角色 | 联系方式 | 状态/核实度 | 来源 |
+|---|---|---|---|---|
+| Montse Castro Roca | — | — | 用户表原值 | Clients/ 表 |
+
+- **通道建议**：无邮箱：只能电话 / WhatsApp / 官网表单
+
+## 来源与归并（不漏 · 原始行定位）
+
+本客户只有 1 行原始记录。
+
+| 文件#表:行 | No. | Company（原值） | Country | Person | From | Interested in | Contact | Remark | 跟进表 |
+|---|---|---|---|---|---|---|---|---|---|
+| AI客户评估/DONE/AI客户评估_ES 09.30.xlsx#总表:20 | 19 | https://www.casmarglobal.com/es/ | 西班牙 | Montse Castro Roca<br><br>Mariluz Cejas Lopez | 谷歌 | Security system supplier |  | 早期ai: 打不开网站 \| max: 9% C<br>国际化安防分销集团倾向明显，交换机更可能只是安防配套；未见明确OEM/定制迹象<br>集团型客户供应商准入通常更严，且我司官网与认证条件不占优 \| gpt: 20% B<br>西班牙通信设备供应商，核心业务未完全确认<br>建议人工确认是否涉及网络设备分销或项目采购<br>PoE交换机、工业交换机<br>公开信息不足，无法确认交换机地位 \| gemini: 35%  B<br>西班牙与中南美知名跨国安防分销商，成立超20年，规模约100-250人，主营CCTV监控、入侵报警及PoE网络配件<br>发送CCTV PoE交换机及工业PoE产品线资料，宣传性价比补位与OEM合作潜力<br>8口/16口/24口PoE交换机、工业PoE交换机<br>安防设备分销商，交换机为CCTV配套产品（配角）；主要代理Hikvision、Dahua等黄灯品牌及主流安防巨头，供应链替换难度中等 \| claude4.5: 15%  C<br>官网信息不足，无法确认核心业务和产品线<br>建议人工介入或暂时跳过 | — |
+
+## 跟进建议
+
+> C 级不主动跟进。保留档案的意义：① 不重复开发；② 若对方主动来询再升级。
+> 不跟进理由：无邮箱（仅电话）。若用户不同意，在 `data/saga_clients/人工定级.csv` 写一行 `SC-1053,B,理由` 后重跑即可。
+
+## 触达与风险红线
+
+1. 包装、外观、说明书全部中性，不出现「Made in China」，贴客户自己的型号。
+2. 邮件只用表内原值地址；「发不过去」的地址保留并标注，不猜新地址。
+3. 不承诺 UL、EN50155、IP67、云管理；PoE 功率与工业温宽以实测为准。
+4. 乌克兰/军工/公共部门/轨道/生命安全场景守界；巨头分销与品牌厂商不投入。
+5. 同一客户在多张表出现时以本档为唯一入口，避免多人重复触达。
+
+## Qualification 清单
+
+| 门槛 | 状态 |
+|---|---|
+| 需求面成立（在卖/在用交换机或 PoE） | ✅ |
+| 决策人识别 | ✅ |
+| 触达通道 | ❌ 无 |
+| 现用/在卖交换品牌 | ✅ Hikvision, Dahua |
+| 采购量/预算 | ❓ 未确认 |
+| 商业资格结论 | **不合格（见 C 级细分）→ 不主动跟进** |
+
+## Unknowns（待问清单 · 跟进后逐项消除）
+
+- [ ] 官网当前状态异常（HTTP 错误）——公司是否仍在运营待核
+- [ ] 年走量与现供应商
+
+## 英文跟进邮件（样板 · 可直接发送）
+
+> C 级不出邮件样板（不主动跟进）。
+
+## 新跟进记录（仓库外发出后补）
+
+| 日期 | 渠道 | 对象 | 我方动作 | 对方回应 | 下一步 | 下次动作日期 |
+|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |
+
+> 历史跟进见上文「历史跟进记录（原表照录）」；新动作由用户在仓库外执行后告知日期与渠道，写入 research JSON 的 notes 后重渲染。
+
+## 下次复核
+
+- 不复核。对方主动来询 → 在 `data/saga_clients/人工定级.csv` 写一行升级后重跑。
+
+## 变更日志
+
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 15）
+
+---
+
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -217,5 +217,15 @@
   "deal": "备注成单（非 Saga，本职公司时期）·样品单 MC 25km + 8 口网管 PCB（Synchcom）",
   "reply_class": "none",
   "evidence": ""
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（注成单（非 Saga，本职公司时期）·样品单 MC 25km + 8 口网管 PCB（Synchcom）（Simon 2026-10-30：非 Saga 成交））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "none",
+  "focus": "other"
  }
 }

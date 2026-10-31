@@ -31,7 +31,7 @@ price_tier: 30%
 research: done
 site_snapshot: http_error  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -176,6 +176,11 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 | 2025-09-16 | 916 | 2 16 |  | A |  | Taiwan.xlsx#60 |
 | 2025-10-22 | 1022 | dac |  | A |  | Taiwan.xlsx#60 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK 但无回信/非主攻；身份 登记坐实 · 路径 活 · 回信 auto · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：21 封（去 20 / 来 1）　|　**期间**：2024-06-30 → 2026-09-09　|　**最后去信**：2026-09-09
@@ -207,7 +212,7 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://neousys-tech.com/) | html | HTTP 403 | 2026-10-29T15:11:51Z | 官网首页 |
+| [home](https://neousys-tech.com/) | html | HTTP 403 | 2026-10-29T15:11:51Z | 官网首页（T27 快照状态 http_error） |
 
 ## 联系方式（已有 · 原值照录）
 
@@ -320,12 +325,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -45）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 C，分数 -45）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

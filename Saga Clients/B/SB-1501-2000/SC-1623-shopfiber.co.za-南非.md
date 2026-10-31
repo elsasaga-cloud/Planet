@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: none
 sources: 1
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -71,7 +71,7 @@ updated: 2026-10-30
 - `shopfiber.co.za` → 同域名 MX → 托管在 host-ww.net（MX：shopfiber.co.za）。主机商附带邮箱（同域名 MX → 托管在 host-ww.net）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `southernelements.co.za` → Google Workspace（MX：ASPMX.L.GOOGLE.COM、ALT1.ASPMX.L.GOOGLE.COM、ALT2.ASPMX.L.GOOGLE.COM、ALT3.ASPMX.L.GOOGLE.COM）。Gmail → Gmail 同生态投递最稳；但 Gmail 图片代理会预抓像素 → 「已打开」偏高，别把 open 当成读过；三个发信箱别同一天给这个域发
 
-**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（南非 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
 - 法定假日：11-04 Local Government Elections —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -163,6 +163,11 @@ updated: 2026-10-30
 
 - 网查（2026-10-30）：Southern Elements … trusted supplier of hardware, tools and equipment for the fiber optic industry across Africa … active equipment · webstore shopfiber.co.za — <https://southernelements.co.za/>
 - 网查（2026-10-30）：Southern Elements · 249 followers · fiber optic networks in Southern Africa — <https://za.linkedin.com/company/southernelements>
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：出 A 户（6-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Southern Elements：南非光纤网店，一次问 10 台价 → 非主攻 + 薄）；身份 未坐实 · 路径 活 · 回信 R+ · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
@@ -296,12 +301,12 @@ updated: 2026-10-30
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 7）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 7）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

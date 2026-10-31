@@ -549,5 +549,15 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（mon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

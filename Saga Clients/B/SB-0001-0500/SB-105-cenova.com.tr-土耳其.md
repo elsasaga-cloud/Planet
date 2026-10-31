@@ -25,7 +25,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -84,10 +84,9 @@ updated: 2026-10-29
 
 - `cenova.com.tr` → 土耳其主机商邮箱（MX：mx-01.kurumsaleposta.com、mx-02.kurumsaleposta.com）。主机商附带邮箱（土耳其主机商邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 92 批（TR · 1 次检索：cenova.com.tr hakkımızda + üyelik sözleşmesi（法定全名、地址、Şişli VD 2060665571）+ LinkedIn 公司页（2004 / 11–50 / 18 人）+ kariyer.net（25–49 人）+ guvenliksistemleri.gen.tr（Cenova + TIANDY 相机、Wisetech 报警 土耳其分销，bayi 导向）+ perpa.com.tr 名录，2026-10-28 查；https://www.cenova.com.tr/sayfa/uyelik-sozle%C5%9Fmesi）：**
 
@@ -201,6 +200,11 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 | 2025-09-25 | 2025.9.25 | dac |  | A |  | 土耳其客户 3.10.xlsx#6 |
 | 2025-10-23 | 1023 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#6 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-06-27 → 2026-09-17　|　**最后去信**：2026-09-17
@@ -226,13 +230,18 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 home：内容变化：+1 −1 行
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SB-105/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://cenova.com.tr/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 3206 字符；首行：Cenova Bilişim Teknolojileri |
+| [news_1](https://cenova.com.tr/blog/dayzip-blog) | html | 待首轮 | — | 导航「Dayzip Blog」 |
+| [news_2](https://cenova.com.tr/blog/bizden-haberler) | html | 待首轮 | — | 导航「Bizden Haberler」 |
+| [youtube](https://www.youtube.com/user/keremdmrc) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+
+- **人工定期看（登录墙，不自动抓）**：Instagram: https://www.instagram.com/cenovaguvenlik/；Facebook: https://www.facebook.com/CenovaBT；X/Twitter: https://twitter.com/CenovaBT
 
 ## 联系方式（已有 · 原值照录）
 
@@ -341,12 +350,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 59）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

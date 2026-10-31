@@ -230,5 +230,15 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": "[S 2024-01-02] Whats you company url Is those ce certificate? J ‖ 研 2024-01-02 john.lai@airlive.com: Whats you company url Is those ce certificate? J"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：排除：台湾品牌商 INH 最高 B）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

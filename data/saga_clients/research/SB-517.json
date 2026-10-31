@@ -25,8 +25,8 @@
    "source": "用户 Clients 表"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用",
  "notes": "（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -102,5 +102,25 @@
   "draft_en": null,
   "as_of": "2026-10-24"
  },
- "country_fix": "尼加拉瓜"
+ "country_fix": "尼加拉瓜",
+ "b_tier": {
+  "tier": "C",
+  "why": "身份未坐实 + 0 回复 + 官网不可用",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R0",
+  "focus": "other"
+ },
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：身份未坐实 + 0 回复 + 官网不可用"
+  }
+ ]
 }

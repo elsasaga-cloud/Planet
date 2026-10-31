@@ -38,8 +38,8 @@
    "role": "负责人（研究档；WA 23 次无回复；2024-01「暂时没需求」）— 不动，不发（第 118 批 官方登记核实 2026-10-28）"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
@@ -153,5 +153,25 @@
   "url": "https://niaar.net/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
- }
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "最后一句硬婉拒（R-）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R-",
+  "focus": "other"
+ },
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）"
+  }
+ ]
 }

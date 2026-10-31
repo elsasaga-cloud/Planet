@@ -25,7 +25,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,10 +76,9 @@ updated: 2026-10-29
 
 - `arttelekom.com.tr` → 主机商 cPanel 类邮箱（MX：mail.epostax.com）。主机商附带邮箱（主机商 cPanel 类邮箱）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 101 批（TR · 1 次检索：官网 İletişim（Art Telekom San.Tic.Ltd.Şti.；Mutlukent Mah. Angora Bulvarı Fesleğen Sok. No 7, Beysukent-Ankara；+90 312 472 47 47；Genel Müdür Hasan BALIKÇIOĞLU；Genel Müdür Yardımcısı Murat BALIKÇIOĞLU；**Dış Ticaret Müdürü Müjde BALIKÇIOĞLU**；Satış ve Proje Direktörü Tarkan ERDOĞAN）+ arttelekom.com Contact（Genel Müdürlük Ankara + İstanbul Ofis Kartal Uprise Elit Residence；方案：公共广播 / 同传 / AV / 结构化布线与网络 / 卫星电视 / 无线 / 光纤 / KGYS）+ LinkedIn（ART TELEKOM A.Ş.；1980 Ankara；11–50；Müjde Balıkçıoğlu 另任 TECOM Mühendislik A.Ş. Director Distribution Channel）+ EMIS（Art Telekom A.S.；incorporated 2002-06-26；Çankaya Ankara 06800）+ RocketReach（11 人；1980；Müjde — International Trade Manager）；MERSİS 号未取，2026-10-28 查；https://www.arttelekom.com.tr/iletisim/art-telekom-iletisim）：**
 
@@ -175,6 +174,11 @@ updated: 2026-10-29
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-30 | 2025.10.30 | dac |  | A |  | 土耳其客户 3.10.xlsx#91 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -308,12 +312,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 34）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

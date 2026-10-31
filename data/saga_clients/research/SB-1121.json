@@ -224,5 +224,15 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": "[A 2025-04-22] Hello Alan, Thanks for the info. Some questions, * Do you have a data sheet you send to me please * What Marve ‖ [A 2026-01-21] Hello Alan, Thanks for the info. Are the 10G SFP+ ports able to run at 2.5Gbps? What the max power that can be ‖ 表 2026.1.21: CENTEC→问了一些问题 ‖ 研 2025-04-22 Mark Basham（VP Product Management, Fiber Access）: Do you have a data sheet… What Marvell chip is in th"
+ },
+ "b_tier": {
+  "tier": "B2",
+  "why": "巨头：不追，标记",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

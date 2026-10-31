@@ -31,7 +31,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -145,15 +145,26 @@ T29-U119：Simon 把国别纠偏评估权交给 Agent（2026-10-29）；仅按�
 
 （无跟进表记录）
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-1714/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://omniray.ch/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 25412 字符；首行：Omni Ray AG \| Ihr Automationspartner \| E-Shop \| Top Preise |
+| [home](https://www.omniray.ch:443/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 25412 字符；首行：Omni Ray AG \| Ihr Automationspartner \| E-Shop \| Top Preise |
+| [sitemap](https://www.omniray.ch:443/sitemap.xml) | sitemap | 待首轮 | — | 站点地图（2026-10-21 时 3512 条） |
+| [news_1](https://www.omniray.ch:443/news-1) | html | 待首轮 | — | 导航「News」 |
+| [news_2](https://www.omniray.ch:443/aktuelles/events) | html | 待首轮 | — | 导航「Events」 |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCko1wbHBtjxkADlSDuPGO2Q) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCko1wbHBtjxkADlSDuPGO2Q |
+
+- **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/5893673?trk=vsrp_companies_cluster_name&trkInfo=VSRPsearchId%3A97313311460533796262%2CVSRPtargetId%3A5893673%2CVSRPcmpt%3Acompanies_cluster；Facebook: https://www.facebook.com/pages/Omni-Ray-AG/143299605760802
 
 ## 联系方式（已有 · 原值照录）
 
@@ -261,12 +272,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 5）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 5）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

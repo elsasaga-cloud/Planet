@@ -285,5 +285,15 @@
   "deal": "",
   "reply_class": "R0",
   "evidence": "[S 2024-05-02] Amazing Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device ‖ [S 2024-05-03] None whatsoever! Kind regards Luis Coello Sales director Barox (META) +34 673836020 Sent from my mobile device"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "R0",
+  "focus": "focus"
  }
 }

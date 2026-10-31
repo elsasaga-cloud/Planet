@@ -31,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -92,9 +92,9 @@ updated: 2026-10-30
 - `testronix.com.ph` → Microsoft 365（MX：testronix-com-ph.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 - 其他域名仍活：`testronix.com.ph` → 只用这些域的地址
 
-**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-30→2026-11-29）：**
+**假日避让（菲律宾 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：11-01 All Saints' Day；11-02 All Souls' Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
+- 法定假日：11-01 All Saints' Day；11-02 All Souls' Day；11-30 Bonifacio Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
 **公司底数 · 第 120 批（PH · 1 次检索：companyhouse.ph/testronix-inc（TESTRONIX INC.；SEC Code: CS200518694）+ businesslist.ph/company/138062（Unit 415, VGP Center … 6772 Ayala Avenue, 1226, Makati City；test equipment, BER, datacom, transceiver, SFP, media converter）+ testronix.ph/contact（sales@testronix.com.ph；Globe 0966 190 3000）；2026-10-29，2026-10-29 查；https://companyhouse.ph/testronix-inc）：**
 
@@ -187,6 +187,11 @@ updated: 2026-10-30
 | 日期 | 原始时间 | 我方推送内容 | 客户回复 | 平台 | 备注 | 来源表 |
 |---|---|---|---|---|---|---|
 | 2025-10-09 | 2025.10.9 | dac |  | E |  | 菲律宾.xlsx#10 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK 但无回信/非主攻；身份 登记坐实 · 路径 活 · 回信 none · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -315,12 +320,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 A，分数 63）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

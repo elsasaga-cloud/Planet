@@ -146,5 +146,15 @@
   ],
   "web_facts": [],
   "manual": false
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：规模未知）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "focus"
  }
 }

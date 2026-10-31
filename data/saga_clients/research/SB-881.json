@@ -48,8 +48,8 @@
    "source": "https://www.nexlar.com/press-release/virtual-security-guard-services/"
   }
  ],
- "grade_override": null,
- "override_reason": "",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）",
  "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
@@ -164,7 +164,16 @@
   "note": "桌面复核（研究档类型 + 对位首推）：商用安防集成商（美国休斯顿）；切入：安防项目配套 PoE（可贴 Nexlar 标）→ 8 口 PoE+ 2 SFP L2+ STC-28DGGPM（$84.1 @25%）；24 口 STC-424DGGPM-280W（$140.1）；室外机柜位工业 STI-288GPM（$82.2）；行业内 ✔ 对位 ✔（宽留冷「不对位」系 fit 标志未回填，非真不对位）",
   "why": "宽留冷口径判「不对位冷户」（冷 / 不对位（不对位，真回 0，WA —，展会 —，绑定 Elsa 群））；抽样证明多为「对位未知」→ 留 B 待复核：确认行业内 + 对位 + 成单可能，否则打回 C 储备"
  },
- "override_history": [],
+ "override_history": [
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": null,
+   "to": "C",
+   "prev_reason": "",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：最后一句硬婉拒（R-）"
+  }
+ ],
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:49:24Z"
@@ -188,5 +197,15 @@
   "url": "https://www.nexlar.com/",
   "date": "2026-10-21",
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
+ },
+ "b_tier": {
+  "tier": "C",
+  "why": "最后一句硬婉拒（R-）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "R-",
+  "focus": "focus"
  }
 }

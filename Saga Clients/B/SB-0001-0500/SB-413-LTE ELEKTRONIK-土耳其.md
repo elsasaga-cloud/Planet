@@ -26,7 +26,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -76,10 +76,9 @@ updated: 2026-10-29
 
 - `ebcoelectronic.com` → 同域名 MX → 托管在 bluehost.com（MX：mail.ebcoelectronic.com、ebcoelectronic.com）。主机商附带邮箱（同域名 MX → 托管在 bluehost.com）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 106 批（TR · 1 次检索：官网 lte.com.tr（LTE Elektronik Sanayi ve Ticaret Ltd Şti；Mustafa Kemal Mah. 2131 Sk. Aslanlar Plaza No:24/10 Çankaya Ankara；Our companies m2mmarket.com.tr / EBCO Electronic · Hong Kong / iot.com.tr；Ebyte Turkey Distributor）+ RAKwireless 合作伙伴页（LTE Elektronik San.Tic. Ltd. Sti.；15 年经验）+ contactout（Founded 2010；1–10 人）+ automa.net（PCB 组装 / 原型 / 生产支持）+ iot.com.tr Contact（+90 312 443 03 04），2026-10-28 查；https://www.lte.com.tr/en/）：**
 
@@ -172,6 +171,11 @@ updated: 2026-10-29
 ## 历史跟进记录（原表照录）
 
 （无跟进表记录）
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
@@ -294,12 +298,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 B，分数 42）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

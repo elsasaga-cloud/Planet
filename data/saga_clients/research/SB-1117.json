@@ -207,5 +207,15 @@
   "deal": "",
   "reply_class": "R+",
   "evidence": " ‖ 研 2024-12-12 Kevin Maphanga（Account Manager, Switchcom）: Please see the attached sales quote above on what we can offer and stock is avai"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（AB-FINAL-02 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1））",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "other"
  }
 }

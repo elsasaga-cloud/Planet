@@ -208,5 +208,15 @@
   "deal": "备注成单（非 Saga，本职公司时期）·成单（Sicurmax，用户表）",
   "reply_class": "none",
   "evidence": ""
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "强对位（集成商）+ 登记坐实 + 主攻区 + 路径活",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "登记坐实",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

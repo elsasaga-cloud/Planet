@@ -304,5 +304,15 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "出 A 户（300 台 CLI 工业 L2 标书）转来，主体未坐实（网查只见 onsite.com.pk 网络安全公司，未必同一家）——并入 SC-1200 跟进，本户 B）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
  }
 }

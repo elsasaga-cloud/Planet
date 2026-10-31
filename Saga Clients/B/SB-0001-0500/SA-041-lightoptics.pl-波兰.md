@@ -31,7 +31,7 @@ price_tier: 20%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -261,6 +261,11 @@ A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对�
 | ? | 73 | 16电 |  | A |  | PL 2.6.xlsx#32 |
 | ? | 85 | alarm |  | A |  | PL 2.6.xlsx#32 |
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：无成单 / 无回信 / 未入贴合名单（K2 可指名留 A））；身份 登记坐实 · 路径 活 · 回信 R0 · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：23 封（去 23 / 来 0）　|　**期间**：2024-06-19 → 2026-09-25　|　**最后去信**：2026-09-25
@@ -286,13 +291,18 @@ A 确认（欧洲自有品牌 + 2 次实质回复 + 在售中国品牌）：对�
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：A 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
+- **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-23T04:20:51Z
 - **最近变化摘要**：2026-10-23 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SA-041/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
-| [home](https://lightoptics.pl/) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12102 字符；首行：Urządzenia światłowodowe - Postaw na Fibermarkt |
+| [home](https://fibermarkt.com/pl) | html | HTTP 200 | 2026-10-23T04:20:51Z | 12102 字符；首行：Urządzenia światłowodowe - Postaw na Fibermarkt |
+| [news_1](https://fibermarkt.com/pl/blog) | html | 待首轮 | — | 导航「BLOG」 |
+| [news_2](https://fibermarkt.com/blog) | html | 待首轮 | — | 导航「więcej >」 |
+| [youtube](https://www.youtube.com/@fibermarkt6062) | youtube_handle | 待首轮 | — | YouTube（运行器解析 channelId 后转 RSS） |
+
+- **人工定期看（登录墙，不自动抓）**：Facebook: https://www.facebook.com/fibermarkt；LinkedIn: https://www.linkedin.com/company/37852218
 
 ## 联系方式（已有 · 原值照录）
 
@@ -399,12 +409,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 A，分数 78）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

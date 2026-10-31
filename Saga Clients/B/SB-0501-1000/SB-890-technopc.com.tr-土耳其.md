@@ -25,7 +25,7 @@ price_tier: 30%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -85,10 +85,9 @@ updated: 2026-10-29
 
 - `technopc.com.tr` → Microsoft 365（MX：technopc-com-tr.mail.protection.outlook.com）。M365 对陌生发件人最严：Gmail 发过去的群发多半落「其他 / 垃圾」，Safe Links 会预取像素 → 「打开」数不可信；这户只走 1:1、首封纯文本、≤1 个链接、不带附件
 
-**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-29→2026-11-28）：**
+**假日避让（土耳其 · 按下一步「群发 / 待排期 → 未来 30 天」窗口 2026-10-31→2026-11-30）：**
 
-- 法定假日：10-29 Republic Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
-- 【法定补充】10-28→10-29：共和国日：10-28 下午半天 + 10-29 全天
+- 窗口内无该国法定假日
 
 **公司底数 · 第 97 批（TR · 1 次检索：technopc.com.tr/organizasyon-yapisi（**Mithat Yücel = Yönetim Kurulu Başkanı**，1970 生，1998 Yücel Elektronik 联合创始人，2005 主导创建 Technopc 品牌，分管行政 / 财务 / **产品管理**；Murat Yücel = 创始合伙人 / 销售市场执行合伙人，1974 生）+ SAHA İstanbul（TECHNOPC TEKNOLOJİ SAN. VE TİC. A.Ş.；品牌 2006 由 Yücel Electronics 创立；迷你 PC / 工业 PC / AIO）+ LinkedIn（51–200 人；1998；Ataşehir）+ D&B（Key Principal Coşkun Murat Yücel）+ Crunchbase（51–100 人）+ ETBİS（Anonim Şirket；KEP technopc@hs01.kep.tr）+ AA 2021（公共部门国产硬件方案），2026-10-28 查；https://technopc.com.tr/organizasyon-yapisi）：**
 
@@ -206,6 +205,11 @@ updated: 2026-10-29
 |---|---|---|---|---|---|---|
 | 2025-09-30 | 2025.9.30 | dac |  | A |  | 土耳其客户 3.10.xlsx#55 |
 | 2025-10-29 | 1029 | 24poe |  | A |  | 土耳其客户 3.10.xlsx#55 |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
@@ -356,12 +360,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 29）
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

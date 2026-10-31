@@ -26,7 +26,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -89,7 +89,7 @@ updated: 2026-10-30
 - `isnetworks.pl` → 同域名 MX → 托管在 calserver.eu（MX：mail.isnetworks.pl）。主机商附带邮箱（同域名 MX → 托管在 calserver.eu）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 - `is-net.pl` → 同域名 MX → 托管在 calserver.eu（MX：mail.is-net.pl）。主机商附带邮箱（同域名 MX → 托管在 calserver.eu）：过滤弱、几乎不丢信，但常是老板自己收、没人代读 → 短、直接、一行型号 + 价格 + 一个问题
 
-**假日避让（波兰 · 按下一步「现在 → 两周内」窗口 2026-10-30→2026-11-13）：**
+**假日避让（波兰 · 按下一步「现在 → 两周内」窗口 2026-10-31→2026-11-14）：**
 
 - 法定假日：11-01 All Saints' Day；11-11 National Independence Day —— 假日前一个工作日下午、当天、长假后第一个上午都别发
 
@@ -242,6 +242,11 @@ updated: 2026-10-30
 | 2026-07-16 | 去 | A | Saga Q3 Product Links |  |
 | 2026-08-26 | 去 | A | 24 Port PoE Managed Switch | $170 |
 | 2026-09-28 | 去 | A | Managed PoE Switches |  |
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
 
@@ -402,12 +407,12 @@ Saga Telecom - sagatele.com
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 49）
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

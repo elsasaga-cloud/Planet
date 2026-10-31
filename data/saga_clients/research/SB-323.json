@@ -103,5 +103,15 @@
    "body": "Doğan Bey, ISAF'ta bahsettiğiniz switch için: 8 port gigabit PoE + 2 SFP (yönetilmeyen) fiyatı 34,6 USD EXW, DIN ray endüstriyel sürümü 59,8 USD — elektrik projelerinizde kamera için genelde kaç port gerekiyor?"
   },
   "as_of": "2026-10-24"
+ },
+ "b_tier": {
+  "tier": "B2",
+  "why": "OK，待首触反馈",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "法定名",
+  "path": "活",
+  "reply": "none",
+  "focus": "focus"
  }
 }

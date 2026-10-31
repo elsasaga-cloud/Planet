@@ -31,8 +31,8 @@
   }
  ],
  "kp": [],
- "grade_override": "B",
- "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：排除：台湾品牌商 INH 最高 B",
+ "grade_override": "C",
+ "override_reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：同行",
  "notes": "（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
@@ -135,6 +135,24 @@
    "to": "B",
    "prev_reason": "台湾厂商（同行）；c_sub=同行/台湾厂商",
    "reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：排除：台湾品牌商 INH 最高 B"
+  },
+  {
+   "batch": "B-PASS-01",
+   "date": "2026-10-31",
+   "from_override": "B",
+   "to": "C",
+   "prev_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：排除：台湾品牌商 INH 最高 B",
+   "reason": "B-PASS-01 2026-10-31 B 池分层「不 OK 的下放 C 储备」：否决：同行"
   }
- ]
+ ],
+ "b_tier": {
+  "tier": "C",
+  "why": "否决：同行",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "官网",
+  "path": "活",
+  "reply": "R+",
+  "focus": "other"
+ }
 }

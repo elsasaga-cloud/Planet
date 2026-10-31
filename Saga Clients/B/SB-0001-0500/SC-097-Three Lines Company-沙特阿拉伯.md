@@ -30,7 +30,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-21
 sources: 2
-updated: 2026-10-30
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -150,6 +150,11 @@ updated: 2026-10-30
 | ⑥ 否决项 | 无 | 缺口：规模未知 |
 
 **故事线**：沙特阿拉伯·ISP/运营商；研究档法定名：3Lines Advanced Technologies Company（利雅得）。往来 —→2025-05-12：我方去信 0 封（A 0 / S 0），对方真人来信 2 封 + 表内/备注 0 条；对方问过：2025-05-07 E: Hello Team, I would like to request quotation for the following items: Serial No. / Category / Item / Unit / Item Description / Specificatio ‖ 2025-05-12 E: Hello Team, Kindly find the f。我方报过：未见报价数字。对位：待定；路径：企业邮箱 MX ok + WA；最近来信 2025-05-12（17 月前）。
+
+## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+
+- 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 other
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
 ## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
@@ -272,12 +277,12 @@ updated: 2026-10-30
 
 ## 下次复核
 
-- **2026-11-29**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-30：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 2 行原始记录归并；自动评级 B，分数 37）
 
 ---
 
-*建档日期：2026-10-30　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

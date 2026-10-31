@@ -31,7 +31,7 @@ price_tier: 25%
 research: done
 site_snapshot: ok  # 2026-10-29
 sources: 1
-updated: 2026-10-29
+updated: 2026-10-31
 ```
 
 ## SALES BRIEF（压缩模型）
@@ -159,6 +159,11 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 
 （无跟进表记录）
 
+## B 分层（B-PASS-01 · 2026-10-31）：**B2**
+
+- 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 auto · 区域档 focus
+- 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：4 封（去 3 / 来 1）　|　**期间**：2026-03-12 → 2026-10-19　|　**最后去信**：2026-10-19
@@ -174,14 +179,19 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
-- **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
+- **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z
 - **最近变化摘要**：2026-10-29 首轮基线
 - 规则：运行器每轮抓取 → 与上轮比对 → 变化 append-only 记入 `data/customer_watch/变化日志.md`（成单层）/ `变化日志_AB.md`（A/B 层），最新文本在 `data/customer_watch/snapshots/SC-345/`；本节随档案重渲染刷新，实时看日志。
 
 | 源 | 类型 | 状态 | 最近变化 | 摘要 |
 |---|---|---|---|---|
 | [home](https://pine-networks.com/) | html | HTTP 200 | 2026-10-29T15:11:51Z | 1937 字符；首行：Home - Pine Networks |
+| [news_1](https://pine-networks.com/blog/) | html | 待首轮 | — | 导航「Blog」 |
+| [news_2](https://pine-networks.com/actualites/) | html | 待首轮 | — | 导航「News」 |
+| [youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCRakiTKMLKwtVgLFGqEsYuQ) | rss | 待首轮 | — | YouTube 频道 https://www.youtube.com/channel/UCRakiTKMLKwtVgLFGqEsYuQ |
 | [feed_auto](https://pine-networks.com/feed/) | rss | HTTP 200 | 2026-10-29T15:11:51Z | 10 条；最新：Thu, 25 Jan 2024 15:16:09 Interoperability IP Infusion OcNOS and Cisco IOS XE |
+
+- **人工定期看（登录墙，不自动抓）**：LinkedIn: https://www.linkedin.com/company/pine-networks/
 
 ## 联系方式（已有 · 原值照录）
 
@@ -290,12 +300,12 @@ https://sagatele.com/
 
 ## 下次复核
 
-- **2026-11-28**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
+- **2026-11-30**（30 天）：只在有新品/价格窗口/案例时触达；实质回复 → 升 A。
 
 ## 变更日志
 
-- 2026-10-29：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 23）；人工/调研定级 → B
+- 2026-10-31：建档（PR-02-19 · 从 `Clients/` 1 行原始记录归并；自动评级 C，分数 23）；人工/调研定级 → B
 
 ---
 
-*建档日期：2026-10-29　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*
+*建档日期：2026-10-31　|　数据来源：`Clients/`（Simon 上传，原件只读）　|　渲染：scripts/saga_clients/render.py　|　重复归并：data/saga_clients/重复客户归并记录.md*

@@ -103,5 +103,15 @@
    "body": "Hello Fadi, following ISAF: 2× SFP + 8× PoE switch at $34.6 EXW and matching 1G SFP modules (price on request by distance) — please send your company name and the quantity so I can send a formal quote."
   },
   "as_of": "2026-10-24"
+ },
+ "b_tier": {
+  "tier": "B1",
+  "why": "有回信（R+）",
+  "batch": "B-PASS-01",
+  "date": "2026-10-31",
+  "ident": "未坐实",
+  "path": "弱",
+  "reply": "R+",
+  "focus": "focus"
  }
 }
