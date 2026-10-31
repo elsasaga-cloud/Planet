@@ -46,6 +46,7 @@ def main():
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     n = 0
     touched = set()
+    digest = {}
     for key, v in st.items():
         if '/' not in key or not isinstance(v, dict):
             continue
@@ -73,6 +74,7 @@ def main():
                 if IS.add(code, kind, q, iid if iid.startswith('http') else (v.get('url') or ''), norm_date(it.get('date')) or DATE, f'watch 源 {sid}（日跑自动发现，标题级，未逐条核读）', 'WATCH', True, rs=rs, persist=False):
                     n += 1
                     touched.add(code)
+                    digest.setdefault(code, []).append((kind, title[:120]))
                 seen.add(iid)
             cur['sources'][key] = sorted(seen)[-400:]
         elif v.get('kind') == 'github':
@@ -82,6 +84,7 @@ def main():
                 if IS.add(code, 'GitHub/技术足迹', f"仓库 {iid}：{(it.get('title') or '')[:120]}", f'https://github.com/{iid}' if '/' in iid and not iid.startswith('http') else iid, norm_date(it.get('date')) or DATE, f'watch 源 {sid}', 'WATCH', True, rs=rs, persist=False):
                     n += 1
                     touched.add(code)
+                    digest.setdefault(code, []).append(('GitHub/技术足迹', iid[:120]))
                 seen.add(iid)
             cur['sources'][key] = sorted(seen)[-400:]
         else:  # html：只在有变化时记一条摘要
@@ -91,6 +94,7 @@ def main():
                 if IS.add(code, kind, f"[{sid}] 页面有更新：{(v.get('summary') or '')[:200]}", v.get('url') or '', lc[:10], 'watch 日跑检测到变化（看快照 diff 再细读）', 'WATCH', True, rs=rs, persist=False):
                     n += 1
                     touched.add(code)
+                    digest.setdefault(code, []).append((kind, f"{sid} 页面更新：{(v.get('summary') or '')[:100]}"))
                 seen.add(lc)
                 cur['sources'][key] = sorted(seen)[-50:]
         IS.save(code, rs)
@@ -98,7 +102,27 @@ def main():
     for f in glob.glob(os.path.join(SD, 'intel_docs', '*', '*.hits.json')):
         h = json.load(open(f, encoding='utf-8'))
         code = h.get('code')
-        if code not in ents or cur['docs'].get(f) == h.get('sha1'):
+        if cur['docs'].get(f) == h.get('sha1'):
+            continue
+        if code == '*' and h.get('kw_map'):      # 展会名录：关键词 → 户
+            seen_pair = set()
+            for x in h.get('hits') or []:
+                c2 = h['kw_map'].get(x.get('kw'))
+                if not c2 or c2 not in ents or (c2, h.get('label')) in seen_pair:
+                    continue
+                rs2 = IS.load(c2)
+                if rs2 is None:
+                    continue
+                ex = re.sub(r'\s+', ' ', x.get('excerpt') or '').strip()
+                if IS.add(c2, '展会/活动', f"[疑似参展 · {h.get('fair') or h.get('label')}] 10times 参展商页出现「{x.get('kw')}」：…{ex[:240]}…", h.get('url') or '', (h.get('fetched_at') or DATE)[:10], '关键词命中（10times 页只渲染部分参展商；同名误报需人工看一眼再用）', 'WATCH-FAIR', True, rs=rs2, persist=False):
+                    n += 1
+                    touched.add(c2)
+                    digest.setdefault(c2, []).append(('展会/活动', f"疑似参展 {h.get('fair')}：「{x.get('kw')}」"))
+                IS.save(c2, rs2)
+                seen_pair.add((c2, h.get('label')))
+            cur['docs'][f] = h.get('sha1')
+            continue
+        if code not in ents:
             continue
         rs = IS.load(code)
         if rs is None:
@@ -115,12 +139,31 @@ def main():
                 n += 1
                 got += 1
                 touched.add(code)
+                digest.setdefault(code, []).append(('年报/财务', f"{h.get('label')} 关键词「{x.get('kw')}」"))
             if got >= MAX_HITS:
                 break
         IS.save(code, rs)
         cur['docs'][f] = h.get('sha1')
     json.dump(cur, open(CUR, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    print('ingest_watch: items +', n, 'households', len(touched))
+    # 变动摘要（给 Simon 看「哪些户有新动静」）
+    dp = os.path.join(ROOT, 'docs', f'A情报_变动摘要_{DATE}.md')
+    L = [f'# A 类情报 · 变动摘要（{DATE}，ingest_watch 自动）\n', f'- 本次入库 {n} 条，涉及 {len(touched)} 户；来源 = 日跑 watch（新闻 RSS / 申报 / IR / 招聘页 / GitHub）+ 运行器文档（年报全文关键词、展会名录）。标题级信息未逐条核读，用前看一眼原文。\n']
+    if digest:
+        L.append('| 编号 | 公司 | 维度 | 新动静 |')
+        L.append('|---|---|---|---|')
+        for c in sorted(digest):
+            for kind, t in digest[c][:12]:
+                L.append(f"| {c} | {str(ents[c].get('name', ''))[:24].replace('|', '／')} | {kind} | {t.replace('|', '／')} |")
+    else:
+        L.append('（本次无新动静）')
+    if os.path.exists(dp):
+        old = open(dp, encoding='utf-8').read()
+        if '## 追加' not in old:
+            old += '\n'
+        open(dp, 'a', encoding='utf-8').write('\n## 追加 ' + _dt.datetime.now(_dt.timezone.utc).strftime('%H:%MZ') + '\n\n' + '\n'.join(L[1:]) + '\n')
+    else:
+        open(dp, 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+    print('ingest_watch: items +', n, 'households', len(touched), '→', dp)
 
 
 if __name__ == '__main__':

@@ -774,7 +774,7 @@ def snapshot_missing(elapsed):
     """T29-U131：巡检后顺手补抓长期客户群（Saga + External + Planet 仓 A/B）缺失 / 失败的官网快照。
     沙箱访问不了客户网站，只有 Actions 运行器能抓；清单 = Saga entities A/B（site_snapshot.py 原生）+ data/长期客户群_补快照清单_*.json
     （External / Planet 仓）。时间预算 = 60 分钟 − 巡检已用时间（工作流上限 90 分钟），跑不完下次接着跑（已成功的不重抓）。"""
-    budget = int(60 * 60 - elapsed)
+    budget = int(min(35 * 60, 60 * 60 - elapsed))   # 2026-10-31：补快照最多 35 分钟，给加厚 + 挖底文档留时间（整体 < 90 分钟）
     if budget < 300:
         print(f'snapshot_missing: 预算不足（{budget}s）→ 跳过')
         return
@@ -828,7 +828,7 @@ def intel_docs():
             raw = r.content[:40_000_000]
             sha = hashlib.sha1(raw).hexdigest()
             slug = re.sub(r'[^\w.-]+', '_', it.get('label') or os.path.basename(it['url']))[:80]
-            d = os.path.join(INTEL_DOCS, it['code'])
+            d = os.path.join(INTEL_DOCS, it['code'] if it.get('code') and it['code'] != '*' else '_fairs')   # 展会名录等多户文档放 _fairs
             os.makedirs(d, exist_ok=True)
             if it.get('kind') == 'pdf' or it['url'].lower().endswith('.pdf') or r.headers.get('Content-Type', '').startswith('application/pdf'):
                 tmp = os.path.join(d, slug + '.pdf')
@@ -850,11 +850,11 @@ def intel_docs():
             hits = []
             low = text.lower()
             for kw in it.get('keywords') or []:
-                for m in list(re.finditer(re.escape(kw.lower()), low))[:12]:
+                for m in list(re.finditer(re.escape(kw.lower()), low))[:(3 if it.get('code') == '*' else 12)]:
                     a, b = max(0, m.start() - 220), min(len(text), m.end() + 320)
                     hits.append({'kw': kw, 'pos': m.start(), 'excerpt': text[a:b].replace('\n', ' ')})
             with open(os.path.join(d, slug + '.hits.json'), 'w', encoding='utf-8') as f:
-                json.dump({'code': it['code'], 'label': it.get('label'), 'url': it['url'], 'fetched_at': TS, 'sha1': sha, 'chars': len(text), 'hits': hits}, f, ensure_ascii=False, indent=1)
+                json.dump({'code': it['code'], 'label': it.get('label'), 'fair': it.get('fair'), 'url': it['url'], 'fetched_at': TS, 'sha1': sha, 'chars': len(text), 'hits': hits, 'kw_map': it.get('kw_map')}, f, ensure_ascii=False, indent=1)
             it.update({'done': True, 'sha1': sha, 'fetched_at': TS, 'chars': len(text), 'hits': len(hits), 'error': ''})
             n_ok += 1
         except Exception as e:
@@ -991,6 +991,10 @@ def main(argv=None):
         append_log(os.path.join(OUT, '变化日志_P.md'), 'P 级 / 资产池 · 动态监控 · 变化日志', changes_by_layer['P'], errors_by_layer['P'], n_sources['P'])
     write_status(load_config({'成单', 'A', 'B', 'P'}), state, changes_by_layer)
     print(f'{TS} customers={len(customers)} sources={sum(n_sources.values())} changed_or_flagged={tot_changes} errors={tot_err} elapsed={time.time() - t0:.0f}s')
+    # 2026-10-31：先提交巡检结果，再做耗时的补快照 / 加厚 / 文档抓取并二次提交——避免后段超时（工作流上限 90 分钟）把整轮结果一起丢掉
+    n_top = {k: sum(1 for x in v if not x.startswith((' ', '###'))) for k, v in changes_by_layer.items()}
+    if not args.no_commit:
+        git_commit(f"监控：客户动态 {TS}（成单 {n_top['成单']} / A {n_top['A']} / B {n_top['B']} / P 池 {n_top['P']} 个源有变化；抓取失败 {tot_err}；源 {sum(n_sources.values())}）")
     if os.environ.get('GITHUB_ACTIONS') and not args.no_snapshot:
         snapshot_missing(time.time() - t0)
         snapshot_thicken()
@@ -1000,9 +1004,7 @@ def main(argv=None):
         except Exception as e:
             print('intel_docs failed:', e)
     if not args.no_commit:
-        # 提交信息里按「源」计数（只数顶层条目，不数缩进的 diff 明细行；2026-10-23 07:03Z 修：此前把明细行也算进去，06:51Z 轮显示 55 实为 11 个源）
-        n_top = {k: sum(1 for x in v if not x.startswith((' ', '###'))) for k, v in changes_by_layer.items()}
-        git_commit(f"监控：客户动态 {TS}（成单 {n_top['成单']} / A {n_top['A']} / B {n_top['B']} / P 池 {n_top['P']} 个源有变化；抓取失败 {tot_err}；源 {sum(n_sources.values())}）")
+        git_commit(f"监控：补快照 / 加厚 / 挖底文档 {TS}（巡检已先行提交）")
     return 0
 
 
