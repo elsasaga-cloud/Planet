@@ -227,5 +227,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SI · 1 次检索：bizi.si（TIPTEH d.o.o., zastopanje in distribucija：TIPTEH d.o.o., zastopanje in distribucija（tipteh.si / tipteh.com；卢布尔雅那 Ulica Ivana Roba 23 · Matična številka 5935652000；DŠ SI5350938 · Aktivna · 成立 1996-03-15 · Ulica Ivana Roba 23, 1000 Ljubljana",
+    "url": "https://www.bizi.si/TIPTEH-D-O-O/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

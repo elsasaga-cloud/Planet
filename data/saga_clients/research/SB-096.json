@@ -145,5 +145,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：ovisscctv.com（46259 Warm Springs Blvd Fremont CA ：Oviss Labs Inc.（商号 OVISS CCTV；ovisscctv.com；46259 Warm Springs Blvd, Fremont, CA 94539, US · 未取（CA SoS 实体号） · Active · 成立 2004（业务） · 46259 Warm Springs Blvd, Fremont, CA 94539, USA",
+    "url": "https://www.crunchbase.com/organization/oviss",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

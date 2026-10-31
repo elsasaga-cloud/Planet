@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN / 董事 / 地址）+ tofler（PAN / 实收 /：Plexonics Technologies Limited（plexonics.com；**CIN U72900CH2011PLC033105；PAN AACCE7703P；20 · U72900CH2011PLC033105（CIN） · Active（MCA 2026） · 成立 2011-07-12 · 181/23 First Floor, Industrial Area Phase 1, Chandigarh 160002",
+    "url": "https://www.tofler.in/plexonics-technologies-limited/company/U72900CH2011PLC033105",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

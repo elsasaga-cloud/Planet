@@ -198,6 +198,20 @@ updated: 2026-10-31
 - 依据：强对位（经销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TR · 1 次检索：官网 Gizlilik（Satıcı CCTVDEPO Güvenlik Teknolojiler：CCTVDEPO Güvenlik Teknolojileri A.Ş.（cctvdepo.com；İstanbul Yenibosna / Bahçelievler + Perp · MERSİS 0203034849100015 · Ticaret Sicil  · Active（ETBİS 在册；2026-06 招聘） · 成立 2004 · Remzi Özkaya Cad. No 18, Yenibosna / İstanbul（注册）；Hürriyet Mh Güngören Sk 4b, Ba — <https://www.eticaret.gov.tr/siteprofil/CE3F46BF44034071A9956AA7132E34DF/wwwcctvdepocombayi>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**供应商/品牌关系**
+
+- 2026-10-31：LinkedIn / SignalHire / Yenibiriş：CCTV Depo Güvenlik Teknolojileri A.Ş. · Hürriyet Mh. Güngören Sk. 4B Bahçelievler, İstanbul（+ Perpa B Blok K:8 No:836）· 2004 年 · 51–200（100–200）· 「Güvenlik sektörünün ilk B2B sitesi」· 自牌 SECUZI 的制造/进口商，2022 年起进军美国等海外市场 · 0850 303 03 17 — <https://www.yenibiris.com/firma/cctvdepo-guvenlik-teknolojileri-a-s/286309>　*B2B 安防电商 + 自牌 SECUZI（出口美国）→ OEM 30% 档，回信即 A 候选*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-10-30 → 2026-10-06　|　**最后去信**：2026-10-06

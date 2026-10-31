@@ -422,6 +422,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Polska · CEIDG 镜像（krs-online：NIP / REGON / PKD / 成立年 / 决策人）+：IS NETWORKS Marek Kubas（个体工商户 / jednoosobowa działalność） · NIP 8130069738 · REGON 690005253（CEIDG 个 · Aktywna（官网 + 网店在线） · 成立 1996 · ul. Warszawska 24, 35-205 Rzeszów（喀尔巴阡山省）",
+    "url": "https://www.krs-online.com.pl/firma/1534070-is-networks",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

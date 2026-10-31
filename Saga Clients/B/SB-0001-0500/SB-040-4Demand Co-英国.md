@@ -245,9 +245,13 @@ WA 一次性告知可供兼容 SFP+（如 Saga 有渠道）并带上 STC 10G 上
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：GB · 1 次检索：Companies House 14564199（4DEMAND LTD；Active；Priva：4DEMAND LTD（4demand.co.uk；London N3）— 2022-12-30 注册的微型 IT / 贸易公司（SIC 46900 非专业批发 + 62012/6 · Companies House 14564199 · Active（CS01 2025-01-03） · 成立 2022-12-30 · 227 Nether Street, London N3 1NT（住宅 / 小办公；前址 80 Golders Green Road NW11 8LN） — <https://find-and-update.company-information.service.gov.uk/company/14564199>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

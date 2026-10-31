@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Sunbiz（NITROTEL MANUFACTURING CORP.；Florida Profi：Nitrotel Manufacturing Corp.（nitrotelmanufacturing.com；Miami / Doral, FL）— 自有品牌 Nitrotel 网 · FL Sunbiz P18000064924 · FEI 83-1401215 · ACTIVE · 成立 2018-07-27 · 10440 NW 37th Terrace, Doral, FL 33178（经营地）；登记地址 4626 SW 147 Court, Miami, FL 33",
+    "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByName",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

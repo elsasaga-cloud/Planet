@@ -240,5 +240,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn（鑫志股份有限公司 AirLive Technology Corporation；統編：鑫志股份有限公司 AirLive Technology Corporation（airlive.com；**統一編號 53110625；設立 2010-11-22；代表人 蔡伯坤（ · 統一編號 53110625 · 核准設立 / 營業中 · 成立 2010-11-22 · 新北市新店區寶橋路235巷120號7樓 / 7F, No. 120, Ln. 235, Baoqiao Rd., Xindian Dist., New Taip",
+    "url": "https://www.twincn.com/item.aspx?no=53110625",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

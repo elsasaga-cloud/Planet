@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：仅命中 dijitalbina.com Hakkımızda / EcoXpert 页（「Diji：Dijital Bina（dijitalbina.com；土耳其）— 楼宇自动化集成商（Schneider Electric EcoXpert 伙伴；Jade Bird / Esm · 未取（未坐实） · 未取（站点 2025-09 更新） · 成立 未取 · 未取（研究档：土耳其）",
+    "url": "https://dijitalbina.com/hakkimizda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -504,6 +504,16 @@
     "batch": "INTEL-10",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Polska · CEIDG 公开条目（aplikacja.ceidg.gov.pl）+ monitorfirm / G：RFOG POLAND TOMASZ PASZKOWSKI（个体经营；商号 RFoG / P.H.U. RFoG） · NIP 8571157213 · REGON 811833063 · VAT U · Aktywna（CEIDG；官网在线） · 成立 2011-02-22 · ul. Starogrodzka 1/2（名录另见 12）, 72-300 Gryfice, zachodniopomorskie",
+    "url": "https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/searchdetails.aspx?id=cc8bc4bd-72d9-4047-a1df-f1ba8be824b9",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

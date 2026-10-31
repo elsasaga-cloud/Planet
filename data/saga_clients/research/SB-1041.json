@@ -160,5 +160,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：intshop.pl 联系页（法定名 INTALL sp. z o.o.，NIP 63126792：INTALL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 noning / 网店 intshop.pl；Gliwice） · NIP 6312679269 · REGON 380028515（KRS 号未取 · Aktywna（网店在线） · 成立 2019（自述；RE · ul. Bojkowska 22, 44-100 Gliwice（Śląsk）",
+    "url": "https://intshop.pl/contact-eng.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

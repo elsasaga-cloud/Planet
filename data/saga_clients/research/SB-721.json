@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IE · 1 次检索：solocheck.ie / vision-net.ie（Wood Communications ：Wood Communications Limited（woodcomm.ie；都柏林 Unit L7 Ballymount Industrial Estate, Ballymou · CRO 226087 · Normal · 成立 1924（活动）；公 · Unit L7, Ballymount Industrial Estate, Ballymount Drive, Dublin 12, D12 FV07",
+    "url": "https://www.solocheck.ie/Irish-Company/Wood-Communications-Limited-226087",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

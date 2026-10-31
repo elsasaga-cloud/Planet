@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 02838846（1993-07-23 注册；3 Omega Ce：AMG SYSTEMS LIMITED（amgsystems.com；Biggleswade）— 英国工业以太网交换机制造商 = 同行 · Companies House 02838846 · Active · 成立 1993-07-23 · 3 Omega Centre, Stratton Business Park, Biggleswade, Bedfordshire SG18 8QB",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/02838846",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

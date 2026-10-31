@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：masothue.com/0315321631（CÔNG TY TNHH VIỄN THÔNG P：CÔNG TY TNHH VIỄN THÔNG PHƯƠNG DUNG / PHUONG DUNG TELECOM CO., LTD（phuongdung.com；**MST 03 · MST 0315321631 · Đang hoạt động（营业中） · 成立 约 2018（MST · 40/14 Tân Thành, P. Tân Phú, TP. Hồ Chí Minh, Việt Nam",
+    "url": "https://masothue.com/0315321631-cong-ty-tnhh-vien-thong-phuong-dung",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

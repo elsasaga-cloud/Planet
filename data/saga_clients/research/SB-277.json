@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：einforma（INSTANT BYTE SL；CIF B83680082；fundada 15：INSTANT BYTE SL（instantbyte.com；马德里 Leganés C/ Julio Palacios 10, Naves 1–4, Pol. Ind., 28 · CIF B83680082 · Activa · 成立 2003-07-15 · C/ Julio Palacios 10, Naves 1–4, Pol. Ind., 28914 Leganés (Madrid)",
+    "url": "https://www.einforma.com/informacion-empresa/instant-byte",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

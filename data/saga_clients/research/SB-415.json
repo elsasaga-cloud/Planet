@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索（关键词 A2S a2s.pl Maciej Łuczyński KRS）→ 返回 Polskie ：A2S（a2s.pl；波兰）— 研究档 KP Maciej Łuczyński ml@a2s.pl；**本轮 1 次检索未命中登记主体（仅见 MAJOA Sp. z o.o. 董事 · 未坐实（登记主体未取） · 站点在线（研究档快照 ok） · 成立 未取 · 波兰（门牌未取）",
+    "url": "https://a2s.pl/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

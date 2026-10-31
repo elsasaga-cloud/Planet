@@ -106,13 +106,28 @@
   "as_of": "2026-10-24"
  },
  "b_tier": {
-  "tier": "B1",
-  "why": "有回信（R+）",
-  "batch": "B-PASS-01",
+  "tier": "B2",
+  "why": "有回信（R+）；B-PASS-02 2026-10-31：Netmax（Uğur Şimşek）：无域名 → B2（不可挖）",
+  "batch": "B-PASS-02",
   "date": "2026-10-31",
   "ident": "法定名",
   "path": "弱",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：LinkedIn 公司页（2016 起企业 + 个人互联网服务，11–50 人，Çerkezköy：NETMAX TELEKOMÜNİKASYON İLETİŞİM HİZMETLERİ TİCARET LİMİTED ŞİRKETİ（Çerkezköy / Tekirdağ；I · 未取（Mersis 未命中） · Aktif · 成立 2016 · Gazi Mustafa Kemal Paşa Mah. Öztırak Cad. No:141, 59500 Çerkezköy / Tekirdağ",
+    "url": "https://www.linkedin.com/company/netmaxtr",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

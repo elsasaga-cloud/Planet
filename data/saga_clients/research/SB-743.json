@@ -155,5 +155,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：USITT / Worship Facility 新闻稿（Cleerline Technology：Cleerline Technology Group, LLC（cleerline.com / clrtec.com；Missoula, MT）— SSF 专利光纤品牌（2012， · LLC（蒙大拿；SoS 号未取） · Active（2026-05 / 2026-07 新品发布） · 成立 2012（前身 Cu · 8404 Elway Drive, Suite 2B, Missoula, MT 59808",
+    "url": "https://www.usitt.org/news/cleerline-introduces-ultra-compact-high-density-fiber-trunks",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

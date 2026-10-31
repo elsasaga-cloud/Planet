@@ -195,6 +195,16 @@ updated: 2026-10-31
 - 依据：强对位（自有品牌）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：ES · Registro Mercantil de Barcelona 镜像（einforma：CIF / 资本 / ：GOLMAR SISTEMAS DE COMUNICACIÓN, S.A. · CIF A08370314 · RM Barcelona tomo 24.484 · Activa（最近账目 2024 已存；**BORME 20 · 成立 1975-04-09 · C/ Silici 13-25, Pol. Ind. Famades, 08940 Cornellà de Llobregat (Barcelona)（旧址 V — <https://www.einforma.com/informacion-empresa/golmar-sistemas-comunicacion>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：13 封（去 13 / 来 0）　|　**期间**：2024-11-06 → 2026-02-10　|　**最后去信**：2026-02-10

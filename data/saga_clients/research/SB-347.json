@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：avcomm.us/about-us（2018 休斯顿成立；核心团队 20 年工业自动化 / 电信：AVCOMM Technologies Inc.（avcomm.us；Houston, TX） · TX SoS 档号未取（需付费 SOSDirect） · Active（H-1B 雇主、IANA PEN、官网在售） · 成立 2018（官网；Li · 333 West Loop N, Houston, TX 77024（WHOIS 住址 13907 Round Oak Ct, Houston 77059）",
+    "url": "https://www.avcomm.us/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

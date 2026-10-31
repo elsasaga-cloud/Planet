@@ -209,5 +209,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZA · 1 次检索：reditron.co.za Credit-Application PDF（Reg No / 地址：Reditron (Pty) Ltd（reditron.co.za；**信用申请表自报 registration number 2002/028391/07；9 Electron  · 2002/028391/07（Reg No.，自报） · Active（官网 2024） · 成立 2002 · 9 Electron Street, Linbro Business Park, Sandton 2090",
+    "url": "https://reditron.co.za/wp-content/uploads/2024/10/Reditron-Credit-Application-2022_Editable.pdf",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

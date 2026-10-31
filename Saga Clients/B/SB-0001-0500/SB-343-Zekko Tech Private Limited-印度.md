@@ -220,13 +220,14 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 none · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：thecompanycheck / Tofler：Zekko Tech Private Limited · CIN U74999MH2016PTC285972 · incorporated 2016-09-16 · Navi Mumbai（Turbhe Industrial Park）· authorized & paid-up ₹1.00 lac · Employee Count 4 · Directors Chandrasekaran Iyer, Anjana Maju, Valli Malaichamy · mchamy@zekko.co.in — <https://www.thecompanycheck.com/company/zekko-tech-private-limited/U74999MH2016PTC285972>　*4 人、实缴 1 万卢比 → A-DEEP-07 下放 B*
+- 2026-10-30：IN · 1 次检索：zaubacorp（ZEKKO TECH PRIVATE LIMITED CIN U74999MH：Zekko Tech Private Limited（zekko.co.in；CIN U74999MH2016PTC285972（2016-09-16；RoC Mumbai）；Un · CIN U74999MH2016PTC285972 · Active · 成立 2016-09-16 · Unit 122, 1st Floor, C-56/1, Turbhe Industrial Park, TTC Industrial Area, Turbhe — <https://www.zaubacorp.com/company/ZEKKO-TECH-PRIVATE-LIMITED/U74999MH2016PTC285972>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

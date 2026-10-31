@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：globusinfocom.com（页脚 CIN / 地址）+ /contacts + /even：Globus Infocom Limited（globusinfocom.com；**官网页脚 CIN U72100UP2001PLC126647；A-66, Sector-4,  · U72100UP2001PLC126647（CIN） · Active（官网 2025） · 成立 2001 · A-66, Sector-4, Noida, District Gautam Buddha Nagar, Uttar Pradesh 201301",
+    "url": "https://www.globusinfocom.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

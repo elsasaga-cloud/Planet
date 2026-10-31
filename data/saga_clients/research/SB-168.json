@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MR · 1 次检索：wimex.mr/wimexTechnologie/contact（55 Ilot C Zone ：Wimex Technologies（Groupe WIMEX；wimex.mr；**官网 contact：55 Ilot C, Zone Château d'Eau, BP 33 · 未取（RC / NIF 1 查未得） · 营业中（官网 + 名录） · 成立 1993 / 199 · 55 Ilot C, Zone Château d'Eau, BP 3384, Nouakchott, Mauritania",
+    "url": "https://www.wimex.mr/wimexTechnologie/contact",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

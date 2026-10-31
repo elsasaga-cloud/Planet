@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：hyesungtechwin.com/about/about2（회사연혁 2018.11.05 (：㈜혜성테크윈 HYESUNG TECHWIN Co., Ltd.（hyesungtechwin.com / hstw.net；**사업자등록번호 491-88-01315；法人设立 · 사업자등록번호 491-88-01315 · 营业中（官网在线） · 成立 2018-11-05 · 경기도 성남시 중원구 사기막골로 99, 성남센트럴비즈타워2차 B동 1508~1510호 13201",
+    "url": "http://hyesungtechwin.com/about/about2.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

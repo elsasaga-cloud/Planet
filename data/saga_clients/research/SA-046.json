@@ -269,5 +269,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · 官网 About（老板自述）+ ZoomInfo / Datanyze / RocketReach / Cr：IPCamPower（法人待核，Broken Arrow / Claremore, OK） · 俄克拉荷马州实体号待补（OK SOS 可查） · 经营中（官网 / LinkedIn 2025–2026 活跃 · 成立 2015 创立（老板 · 501 N Aspen Ave, Broken Arrow, OK 74012",
+    "url": "https://ipcampower.com/pages/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

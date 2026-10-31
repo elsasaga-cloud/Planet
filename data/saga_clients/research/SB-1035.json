@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：gponnetwork.com/contact-us（HEAD OFFICE 1660 SOUTH：GPON Network（gponnetwork.com；**自称 HEAD OFFICE 1660 South Highway 100, St Louis Park, MN 55 · 未取（法人名 / UEN 未得；身份不清） · 营业中（官网在线） · 成立 自称 2000 年起 · 400 Orchard Road #06-03, Singapore 238875（商务中心）",
+    "url": "https://gponnetwork.com/contact-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

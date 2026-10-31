@@ -44,10 +44,13 @@ def age_days(items, kind):
 
 
 def main():
+    scope = sys.argv[sys.argv.index('--scope') + 1] if '--scope' in sys.argv else 'A'
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
     rows = []
     for c, e in ents.items():
-        if e.get('grade') != 'A':
+        if scope == 'A' and e.get('grade') != 'A':
+            continue
+        if scope != 'A' and not (e.get('grade') == 'B' and ((e.get('research') or {}).get('b_tier') or {}).get('tier') == scope):
             continue
         rs = e.get('research') or {}
         items = (rs.get('intel') or {}).get('items') or []
@@ -64,7 +67,7 @@ def main():
         for kind, why, a in due[:3]:
             rows.append({'优先级': PRI.get(e.get('region'), 9), '区域': e.get('region'), '编号': c, '公司': name, '国家': e.get('country'), '维度': kind, '原因': why, '建议查询': QUERY[kind].format(name=name)})
     rows.sort(key=lambda r: (r['优先级'], r['编号'], r['维度']))
-    p = os.path.join(SD, f'A挖底_下一轮_{TODAY.isoformat()}.csv')
+    p = os.path.join(SD, f'{scope}挖底_下一轮_{TODAY.isoformat()}.csv')
     with open(p, 'w', encoding='utf-8-sig', newline='') as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()) if rows else ['编号'])
         w.writeheader()
@@ -73,13 +76,13 @@ def main():
     for r in rows:
         by.setdefault(r['维度'], 0)
         by[r['维度']] += 1
-    L = [f'# A 类挖底 · 下一轮工单（{TODAY.isoformat()}）\n',
+    L = [f'# {scope} 类挖底 · 下一轮工单（{TODAY.isoformat()}）\n',
          '> 第二遍滚动规则：日跑自动进新闻/申报/年报全文/展会名录 → 每轮会话先 `ingest_watch.py` 并入，再按本工单逐户补过期维度（阈值：年报 365 天、登记 365、领英 180、KP 180、人事 90、展会 365、GitHub 180、品牌关系 365）。本页由 `scripts/saga_clients/intel/next_round.py` 生成。\n',
          f"- 待办 {len(rows)} 项（{', '.join(f'{k} {v}' for k, v in sorted(by.items(), key=lambda kv: -kv[1]))}）；顺序：土耳其 → 北美 → 欧洲 → 俄语区 → 南亚 → 亚太 → 中东 → 非洲 → 拉美\n",
          '| 区域 | 编号 | 公司 | 维度 | 原因 | 建议查询 |', '|---|---|---|---|---|---|']
     for r in rows:
         L.append(f"| {r['区域']} | {r['编号']} | {str(r['公司']).replace('|', '／')} | {r['维度']} | {r['原因']} | {str(r['建议查询']).replace('|', '／')} |")
-    open(os.path.join(ROOT, 'docs', 'A挖底_下一轮.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
+    open(os.path.join(ROOT, 'docs', f'{scope}挖底_下一轮.md'), 'w', encoding='utf-8').write('\n'.join(L) + '\n')
     print('next_round:', len(rows), 'items', by)
 
 

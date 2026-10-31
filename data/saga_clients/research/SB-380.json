@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：buy.nsw.gov.au/supplier/profile/43702（Yellowbox C：Yellowbox Co Pty Ltd（yellowbox.app / yellowboxglobal.com；**ABN 14 634 603 697（ACN 634 段 ≈  · ABN 14 634 603 697 · 营业中（ABN 在；官网在） · 成立 约 2019（ACN · Kensington SA / NSW（门牌未取）, Australia",
+    "url": "https://buy.nsw.gov.au/supplier/profile/43702",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

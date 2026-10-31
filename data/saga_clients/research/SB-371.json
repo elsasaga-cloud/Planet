@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：wirewerks.com/en（Founded 1991；35 years；50K+ produ：Wirewerks（法定名待取：Wirewerks Inc.；wirewerks.com；19144 Cruickshank Avenue, Baie-d'Urfé (Québec · 未取（NEQ） · Active（经营中） · 成立 1991 · 19144 Cruickshank Avenue, Baie-d'Urfé, QC H9X 3P1",
+    "url": "https://wirewerks.com/en/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

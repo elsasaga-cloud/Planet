@@ -149,5 +149,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：「Advance Digital advancedigital.co.in Gujarat Sub：Advance Digital（advancedigital.co.in 已成占位页；古吉拉特 Subodh +91 94260 60606；info@）— 1 次检索无印度古吉拉 · 未取 · 站点占位 · 成立 未取 · 未取（Gujarat）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

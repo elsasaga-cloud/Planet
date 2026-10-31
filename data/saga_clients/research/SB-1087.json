@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RO · 1 次检索：targetare.ro（TEHNO ELECTRIC SRL；CUI 16179086；J200：TEHNO ELECTRIC SRL（tehnoelectric.ro；奥拉迪亚 Oradea Str. Louis Pasteur nr. 63, 410154 (Bihor)； · CUI RO16179086；J05/330/2004 · Activă · 成立 2004-02-25 · Str. Louis Pasteur nr. 63, 410154 Oradea (Bihor)",
+    "url": "https://www.risco.ro/en/verifica-firma/tehno-electric-cui-16179086",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

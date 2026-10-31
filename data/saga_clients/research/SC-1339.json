@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（CIN / 董事 / 地址）+ tofler（PAN / 营收档 / 登记邮箱：Econtrol Devices Private Limited（econtroldevices.com；**CIN U51909HR2019PTC081687；PAN AAFCE · U51909HR2019PTC081687（CIN） · Active（MCA 2026） · 成立 2019-07-29 · Plot No-A2, BPTP District-1, Block-B, Sector-81, Faridabad, Haryana 121002",
+    "url": "https://www.tofler.in/econtrol-devices-private-limited/company/U51909HR2019PTC081687",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

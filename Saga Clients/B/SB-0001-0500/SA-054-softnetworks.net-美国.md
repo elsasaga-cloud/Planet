@@ -255,9 +255,13 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · NJ 学区供应商报告（Red Bank BOE OPRA PDF，含税号）+ NJASA 会员名录（2017：SOFTNETWORKS LLC（softnetworks.net） · New Jersey LLC（NJ 实体号待补）· 联邦税号 46-134704 · 经营中（官网 2025-12、Yelp 2026-05 更新 · 成立 2011（Linke · 20 Troy Rd, Ste 4, Whippany, NJ 07981 — <https://opramachine.com/request/39368/response/70687/attach/4/01%2026%2023%20Redacted%20report.PDF.pdf>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

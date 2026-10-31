@@ -232,5 +232,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 08411023（CCTV GLOBAL LONDON LTD；2：CCTV GLOBAL LONDON LTD（cctv-global.co.uk / cctv-store.co.uk；Chobham, Surrey）— Hikvision /  · Companies House 08411023 · Active · 成立 2013-02-20 · Alpha 319, Building K, Chobham Business Centre, Chertsey Road, Chobham, Woking, ",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08411023",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

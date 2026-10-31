@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · Companies House 官方（search + /officers 页，2026-10-27 取；ov：COMTROL UK LIMITED · 09041682 · Active（同名 COMTROL GMBH 英国分支 BR · 成立 2014-05-15 · 168 Church Road, Hove, East Sussex BN3 2DL（代理地址）；「30+ 年」历史承自 Bicester 时代的 Comtro",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09041682/officers",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

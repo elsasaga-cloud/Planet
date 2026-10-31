@@ -177,9 +177,13 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：有回信（R+）；身份 登记坐实 · 路径 弱 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：GB · 1 次检索：find-and-update.company-information.service.gov.u：EURO SECURITY SOLUTIONS LIMITED（eurosecuritysolutions.co.uk；**Companies House 11094000；2 G · 11094000 · Active（2024 账目递交情况待核） · 成立 2017-12-04 · 2 Guillemot Court, Taylor Close, London SE8 5UU — <https://find-and-update.company-information.service.gov.uk/company/11094000>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

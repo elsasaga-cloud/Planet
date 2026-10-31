@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BG · 1 次检索：papagal.bg（ЕИК / 状态 / 营业额 / 管理人）+ yox.bg（18 人；地址）：КСТ ООД — KST Ltd（kst-bg.com；**papagal / yox：ЕИК 831850563；1995 年登记（LinkedIn 称 1991/93 创立） · 831850563（ЕИК） · 营业中（Активен） · 成立 1995 · бул. Сливница 357, 1336 София",
+    "url": "https://papagal.bg/eik/831850563/93d8",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

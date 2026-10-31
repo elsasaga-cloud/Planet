@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · SAM.gov 镜像 opengovus（UEI L689L2J632M7、1994-08-23 开业、S-c：Fiberdyne Labs, Inc. · SAM UEI L689L2J632M7（2001-10-04 登记；激活 20 · Active（SAM 有效；官网在线） · 成立 1992（Herki · 127 Business Park Dr, Frankfort, NY 13340（自有厂房，5S North Business Park）",
+    "url": "https://opengovus.com/sam-entity/L689L2J632M7",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 Weltron（1968 品牌起源 Model 2001 收音机）+ winstonele.：Winston International, Ltd.（Weltron® 品牌独家制造商；weltronproducts.com / winstonele.com；**Oxford · NC 公司（SoS 号未取）· CAGE 3AZP6 · DUNS 056291 · Active（站点 / 商店在线） · 成立 1980（Winst · Oxford, NC（门牌未取；研究档 / 旧地址勿按佛州处理）",
+    "url": "http://www.winstonele.com/About_us.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

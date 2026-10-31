@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：einforma（JEVASO SL B15299548；Arteixo；1991；CNAE 14：JEVASO S.L.（表内「DPTO. ELECTRONICA」；alberto@abbolli.com；**einforma：NIF B15299548；Pg. Ind. Sa · B15299548 · 营业中 · 成立 1991-01-11 · Pg. Ind. Sabón, Av. del Embalse Pa 87-B, 15142 Arteixo (A Coruña)",
+    "url": "https://www.einforma.com/informacion-empresa/jevaso",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -146,5 +146,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：videobits.co.uk 页脚（Leading Light Technologies Ltd：VideoBits（videobits.co.uk）= L2tek 的网店，运营主体 Leading Light Technologies Ltd（Lincoln）— 广播 / P · 06496207（Leading Light Technologies Ltd； · Active（站点 2025-07） · 成立 2008（06496 · Tower House, Lucy Tower Street, Lincoln LN1 1XW（注册处）",
+    "url": "https://videobits.co.uk/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

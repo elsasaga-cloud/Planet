@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RO · 1 次检索：bluenote.ro 首页 / Contact（Număr de înregistrare ON：BLUENOTE COMMUNICATIONS SA（bluenote.ro / bluevoice.ro；雅西 Iași Str. Stejar 18, Construcția  · CUI RO15146404；J22/101/2003 · Active · 成立 2003-01-22 · Str. Stejar 18, Construcția C1, 700327 Iași",
+    "url": "https://termene.ro/firma/15146404-BLUENOTE-COMMUNICATIONS-SA",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

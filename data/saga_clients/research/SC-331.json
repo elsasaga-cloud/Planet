@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：industrialcomms.com/pages/press（法人 + 地址 + Advante：Industrial Communication Products Ltd — IndustrialComms（industrialcomms.com；**官网 Press 页脚： · 未取（CH 号 1 查未得；法人名坐实） · 营业中（官网 2025 版权） · 成立 2008 · The Angel Business Centre, 1 Luton Road, Toddington, Bedfordshire LU5 6DE",
+    "url": "https://www.industrialcomms.com/pages/press",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

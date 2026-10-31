@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RU · 1 次检索：comonyx.com/company/requisites/（法人 / ИНН / ОГРН /：ООО «ОНИКС Системы Безопасности» — ComOnyx / CCTV Onyx（comonyx.com / cctvonyx.ru；**官网 Рекв · 9715421349（ИНН）/ 1227700346796（ОГРН） · 营业中（官网 2026） · 成立 2022（现法人；品 · 127018 Москва, ул. Складочная д.1 стр.1 оф.1720",
+    "url": "https://www.comonyx.com/company/requisites/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

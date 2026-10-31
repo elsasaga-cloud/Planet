@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：sequrinet.com/KR/Sequrinet/history（시큐리넷 회사연혁；2018：SEQURINET = **(주)DG-ITX（前 ㈜아이티엑스시큐리티 ITX Security，2008-03 改名；sequrinet.com / sequrinet.us； · 사업자등록번호 120-81-78820 / 통신판매업 2016-서울금천-0 · 营业中（官网在线） · 成立 ≤2007（2008 · 서울특별시 금천구 가산디지털1로 212, 코오롱디지털타워 애스턴 906호",
+    "url": "http://sequrinet.com/KR/Sequrinet/history.asp",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：krysma.com.au（Unit 6, 26 Rushdale St, Knoxfield, ：Krysma – Beyond Connectivity = Uniqmac Technologies 的品牌 / 商号（krysma.com.au；**Unit 6, 26 Ru · 未取（ABN 1 查未得；母体 Uniqmac Technologies） · 营业中（官网 2024 更新） · 成立 未取 · Unit 6, 26 Rushdale St, Knoxfield VIC 3180, Australia",
+    "url": "https://krysma.com.au/contact/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

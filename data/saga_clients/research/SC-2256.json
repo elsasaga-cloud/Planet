@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：redfox-tech.com 首页页脚（CF / REA / 资本）+ /contatti/（C：REDFOX S.R.L.（redfox-tech.com；**官网页脚：Via Pasubio 57/A, 63074 San Benedetto del Tronto (AP) · 01870630447（CF / Registro Imprese AP） · 营业中（官网 2024-12） · 成立 未取（15+ 年） · Via Pasubio 57/A, 63074 San Benedetto del Tronto (AP)",
+    "url": "https://www.redfox-tech.com/contatti/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LB · 1 次检索：lb.kompass.com/c/techno-tower-sarl/lb015188（Techn：Techno Tower SARL（technotower-lb.com；**kompass：Ground floor, Abou Karam 1 building, Jdeide · 未取（商业登记号 1 查未得） · 营业中（官网 + 名录） · 成立 1998（官网 19 · Ground floor, Abou Karam 1 Building, Jdeideh (Metn), P.O. Box 90-1776, Lebanon",
+    "url": "https://lb.kompass.com/c/techno-tower-sarl/lb015188/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

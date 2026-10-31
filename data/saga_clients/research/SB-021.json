@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "R±",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索（规则：同行制造商 1 查即停）：twincn（星通資訊股份有限公司；統一編號 22099863；上：星通資訊股份有限公司 Loop Telecommunication International, Inc.（looptelecom.com；台湾新竹科学园区新安路 8 号 6–7  · 統一編號 22099863；TWSE 3025 · 營業中（上市） · 成立 1991-12-03 · 7F, No. 8, Xin’an Rd., Hsinchu Science Park, Hsinchu 300092, Taiwan",
+    "url": "https://twincn.com/item.aspx?no=22099863",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

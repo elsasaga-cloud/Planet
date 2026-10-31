@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：ethernetdirect-tw.com/aboutus（Ethernet Direct is ：Ethernet Direct Corporation（ethernetdirect-tw.com / ethernetdirect-jp.com；**北美 GSA 核准公司：紐約 · 未取（台灣統編 / 美國實體 未得） · 营业中（官网在线） · 成立 ≥2005（「ove · 未取（台灣聯絡站；美國 NY 銷售 / CA 物流）",
+    "url": "https://www.ethernetdirect-tw.com/aboutus.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

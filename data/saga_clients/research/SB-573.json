@@ -215,5 +215,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：empresite（Integra Network And Embedded Systems Sl：INTEGRA NETWORK AND EMBEDDED SYSTEMS SL（Sociedad limitada unipersonal；商号 Integra Network；i · CIF B84961267 · Activa · 成立 2007-01-22 · C/ Fundición 4 Bis, Nave 57, 28522 Rivas-Vaciamadrid (Madrid)",
+    "url": "https://www.iberinform.es/empresa/2274551/integra-network-and-embedded-systems",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

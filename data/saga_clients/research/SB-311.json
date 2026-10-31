@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：dipolnet.cz 首页 / Firma DIPOL（Centrála Skopalova 2：DIPOL 捷克站 = TOMI CZECH, s.r.o.（dipolnet.cz；dipolnet@t-cz.com；总部 Skopalova 2991/22, 750 02  · IČO 26830370；DIČ CZ26830370 · Active · 成立 未取（捷克站运营 2 · Skopalova 2991/22, 750 02 Přerov（门店 Praha / Brno / Lipník nad Bečvou）",
+    "url": "https://www.dipolnet.cz/dipol-_tomi_czech_s_r_o_m120.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

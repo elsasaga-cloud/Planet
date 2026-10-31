@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：perpa.tv（1988 德国创立，2007 起在土耳其；Şişli Mavi Plaza 60：EFB Elektronik Ltd. Şti.（efb-elektronik.com.tr；Şişli / İstanbul）— 德国 EFB-Elektronik（TKH 集团 · MERSİS / 商会号未取（母公司 Amtsgericht Bielefeld · Active · 成立 2007（土耳其） · Halide Edip Adıvar Mah. Sultan Sok. Mavi Plaza No:22 D:11/22A, 34381 Şişli / İst",
+    "url": "https://www.efb-elektronik.com.tr/Iletisim",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

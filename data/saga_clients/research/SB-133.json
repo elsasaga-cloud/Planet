@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：itnetworks.softing.com（Regional Distributor Singa：Gigalight Pte. Ltd.（gigalight.com.sg；970 Toa Payoh North #02-04, Singapore 318992；电话 +65 6 · 未取（UEN 1 查未得） · 营业中（分销商页 + 官网在线） · 成立 未取 · 970 Toa Payoh North #02-04, Singapore 318992",
+    "url": "https://itnetworks.softing.com/asia/where-to-buy/asia-pacific/singapore-gigalight-pte-ltd/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：servo-tech.co.kr 首页 + CAD 자료실 页脚（써보테크TS(주)；자동화, P：써보테크TS(주) Servo-Tech TS Co., Ltd.（servo-tech.co.kr；**사업자등록번호 130-86-06691**；경기도 광명시 새빛공원로  · 사업자등록번호 130-86-06691 · 营业中（官网在线） · 成立 未取 · 경기도 광명시 새빛공원로 67, 광명자이타워 B동 409·410·411호 (일직동)",
+    "url": "https://www.servo-tech.co.kr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

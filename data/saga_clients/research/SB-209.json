@@ -151,5 +151,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 Company（DENWA TECHNOLOGY CORP. founded in 2002：DENWA TECHNOLOGY CORP（Denwa IP；denwaip.com；Miami / Pembroke Pines, Florida）— 2002 年起（Globa · FL Sunbiz P11000054719（DENWA TECHNOLOGY  · Active · 成立 2002（公司起源） · 1000 NW 57th Court Suite 1040, Miami, FL 33126（销售）；1931 NW 150th Ave, Pembroke P",
+    "url": "https://www.denwaip.com/en/company.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

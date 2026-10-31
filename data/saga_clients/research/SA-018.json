@@ -273,5 +273,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · 犹他州公司登记（OpenCorporates 摘要 us_ut/1034201-0142）+ BBB + S：SEWELL DEVELOPMENT CORPORATION（DBA Sewell Direct） · Utah 实体号 1034201-0142 · CAGE 38UZ7（SAM 登 · 经营中（官网 / LinkedIn 活跃）；SAM 登记已失 · 成立 1989-05-11 · 57 North 1380 West, Orem, UT 84057",
+    "url": "https://opencorporates.com/companies/us_ut/1034201-0142",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

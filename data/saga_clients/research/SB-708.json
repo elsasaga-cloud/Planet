@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：hyconext.com/18-l2-unmanaged-poe-switches（Singapo：Hyconext（hyconext.com；**Singapore HQ 128 Tanjong Pagar Road, Singapore 088535；美国办公室 1170 C · 未取（法人名 / UEN 未得） · 营业中（官网 + 招商页在线） · 成立 未取 · 128 Tanjong Pagar Road, Singapore 088535",
+    "url": "https://hyconext.com/become-a-distributor",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

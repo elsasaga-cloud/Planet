@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索未命中（sparkzont 印度 CIN 页 + Companies House 06696569 ：MicroFast Technologies / MRDS Distributers（mrdsdistributers.com；美国；酒店 / 办公 CCTV·PBX·布线 方案商 · 未取 · 未知 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

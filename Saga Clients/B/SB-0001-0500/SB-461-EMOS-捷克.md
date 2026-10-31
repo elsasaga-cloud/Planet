@@ -233,13 +233,17 @@ updated: 2026-10-31
 - 依据：出 A 户（B」（Simon）→ 下放 B：EMOS（捷克，290 人）2022 年起为 Legrand 集团成员 → 巨头子公司，Simon 2026-10-30 定 B）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **年报/财务**
 
 - 2026-10-30：Elektrotechnická asociace ČR 会员档：EMOS spol. s r. o. · Lipnická 2844, 750 02 Přerov · Zaměstnanců 290 · Obrat 2 115 mil. CZK；「V roce 2020 přesáhl konsolidovaný obrat holdingu EMOS 2,3 mld. CZK. V roce 2022 se společnosti EMOS staly součástí nadnárodní francouzské skupiny Legrand」 — <https://www.electroindustry.cz/clenska-zakladna/clenske-organizace/detail/921>　*采购线索：2022 年起是 Legrand 集团成员（38,200 人）→ 采购可能走集团框架；要不要按「巨头子公司」降 B 请 Simon 定（K7）；EMIS：2025 年 250–499 人，2024 净销售 +5.01%*
+
+**登记**
+
+- 2026-10-30：CZ · 1 次检索：rejstrik.penize.cz（EMOS spol. s r.o.；Šířava 295/1：EMOS spol. s r.o.（emos.cz / emos.eu；普热罗夫 Přerov I-Město Šířava 295/17, 750 02；IČO 19014104 · IČO 19014104；DIČ CZ19014104；C 1167 KS Os · Aktivní（Legrand 子公司） · 成立 1991-07-18 · Šířava 295/17, 750 02 Přerov I-Město — <https://rejstrik.penize.cz/19014104-emos-spol-s-r-o>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

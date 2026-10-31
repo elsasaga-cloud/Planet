@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FI · 1 次检索：starelec.fi/sivu/yritys（0549989-1；1984；Vaasa）+ yr：Starelec Oy（starelec.fi；**官网 Yritys 页：Y-tunnus 0549989-1；Kiillekuja 3, FI-65300 Vaasa；1984 · 0549989-1 · Aktiivinen · 成立 1984-06-14 · Kiillekuja 3, FI-65300 Vaasa",
+    "url": "https://starelec.fi/sivu/yritys",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

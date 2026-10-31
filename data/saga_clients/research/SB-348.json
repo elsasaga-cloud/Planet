@@ -282,5 +282,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10：CLOUDTRONICS PTY LTD（+ CLOUDTRONICS HOLDINGS PTY LTD） · ABN 46 603 072 000（CLOUDTRONICS PTY LTD； · Active（两 ABN 均 Active） · 成立 ≈2014–2015 · NSW 2100（Brookvale / Dee Why，悉尼北）",
+    "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=cloudtronics",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

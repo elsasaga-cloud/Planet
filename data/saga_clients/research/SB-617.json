@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（Industrial Personal Computer 2U GmbH：Industrial Personal Computer 2U GmbH（2024-11-15 前名 IPC2U GmbH；ipc2u.de / ipc2u.com；Langenh · HRB 201075（Amtsgericht Hannover）· LEI 52 · Aktiv（Embedded World 2026 参展） · 成立 未取（经营 25 年 · Frankenring 6, 30855 Langenhagen",
+    "url": "https://www.northdata.com/Industrial%20Personal%20Computer%202U%20GmbH,%20Langenhagen/Amtsgericht%20Hannover%20HRB%20201075",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

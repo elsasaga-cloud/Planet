@@ -231,5 +231,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 2 次检索：jobkorea（㈜솔텍；사원수 110명；설립일 1996.05.01；자본금 2억원；매출액 ：㈜솔텍 SOLTECH（soltech.co.kr；**设立 1996-05-01；대표 이동화 Lee Dong-hwa；서울 영등포구 당산로41길 11, 당산 SK V1센 · 未取（사업자등록번호 两查未得；同名塑料厂 621-81-36599 ≠） · 营业中 · 成立 1996-05-01 · 서울 영등포구 당산로41길 11, 당산 SK V1센터 1702–1704호 (당산동4가)",
+    "url": "https://www.jobkorea.co.kr/Recruit/Co_Read/C/soltech99",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

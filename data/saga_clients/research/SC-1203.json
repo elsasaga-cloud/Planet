@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（Strike Off）+ tracxn 同名 → 域名未对上；2026-10-：Lapis Technologies（lapistechnologies.in；**1 查仅得 Lapis Technologies Private Limited（CIN U74 · 未取（同名 CIN U74993KA2018PTC109130 Strike O · 未坐实（同名户 Strike Off） · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -216,5 +216,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twfile（嚮樂科技股份有限公司 INTRISING NETWORKS, INC.；統編 531：嚮樂科技股份有限公司 INTRISING NETWORKS, INC.（intrising.com.tw；**統一編號 53116727；國貿局登記 2015-06-02；代表人  · 統一編號 53116727 · 核准設立 / 營業中 · 成立 ≤2015（國貿局  · 臺北市南港區園區街3號14樓之6",
+    "url": "https://www.twfile.com/%E5%9A%AE%E6%A8%82%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/53116727",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

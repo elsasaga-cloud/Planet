@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：sea-srl.it 页脚（S. & A. S.R.L.；P.Iva/CF 01887850129：S. & A. S.R.L.（商号 S&A；sea-srl.it；总部 Varese Gallarate Via Cappuccini 58, 21013；分部 Legnano / · P.IVA / CF 01887850129；REA VA-214291 · Active · 成立 —（未取） · Via Cappuccini 58, 21013 Gallarate (VA)",
+    "url": "https://www.sea-srl.it/contatti/sedi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

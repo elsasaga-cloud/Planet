@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：marcomweb.it 首页 / Company info（MARCOM S.r.l.；via ：MARCOM S.r.l.（marcomweb.it / shop.marcomweb.it；维罗纳 Bassone Via della Metallurgia 11, 37139 · P.IVA / CF 03718740230（REA 未取） · Active · 成立 2001 · Via della Metallurgia 11, 37139 Verona (VR)",
+    "url": "https://www.marcomweb.it/en/company-info.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

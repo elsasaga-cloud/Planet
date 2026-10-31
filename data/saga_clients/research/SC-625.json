@@ -215,5 +215,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RU · 1 次检索：list-org.com/company/5438548（ИНН / ОГРН / 总经理 / 利：ООО «АЙПИМАТИКА» — Ipmatika（ipmatika.ru / .com / .kz；**list-org / zachestnyibiznes / focus · 7733678135（ИНН）/ 5087746581621（ОГРН） · 营业中（2026-07 更新） · 成立 2008-12-12 · 143440 Московская обл., г. Красногорск, пгт Путилково, тер. Гринвуд",
+    "url": "https://www.list-org.com/company/5438548",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

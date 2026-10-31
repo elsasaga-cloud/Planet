@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（SETIK S.R.L.；P.IVA 09729650961；VI：SETIK S.R.L.（setik.biz；蒙扎-布里安扎 法定 Via San Carlo Borromeo 78/B, 20811 Cesano Maderno (MB)；运 · P.IVA / CF 09729650961；REA MB-1910472 · Attiva · 成立 2017-01-09 · Via San Carlo Borromeo 78/B, 20811 Cesano Maderno (MB)（运营 Lissone）",
+    "url": "https://www.ufficiocamerale.it/5024/setik-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

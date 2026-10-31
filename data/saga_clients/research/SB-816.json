@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：lorwen.it Condizioni / 页脚（LAPOTECH S.R.L.S.；Via S：LORWEN（品牌 2013 起；运营主体 LAPOTECH S.R.L.S.，P.IVA 05082330654；lorwen.it；萨莱诺 Sarno 法定 Via Starz · P.IVA 05082330654（LAPOTECH S.R.L.S.；REA  · Active · 成立 品牌 2013 · Via Starzella 16, 84087 Sarno (SA)（仓 Via Roma 60）",
+    "url": "https://lorwen.it/chi-siamo/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

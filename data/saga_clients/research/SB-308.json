@@ -249,5 +249,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：indiafilings（ALCON WIRELESS PRIVATE LIMITED CIN U：Alcon Wireless Private Limited（AlconLink；alconlink.com；CIN U64200OR2010PTC011564（2010-02-0 · CIN U64200OR2010PTC011564 · Active（AGM 申报滞后至 2022） · 成立 2010-02-03 · Plot C-3, 1st Floor, Jayadurga Nagar, Bomikhal, Bhubaneswar 751006, Odisha",
+    "url": "https://www.indiafilings.com/search/alcon-wireless-private-limited-cin-U64200OR2010PTC011564",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -257,5 +257,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 06801342（Private limited company；：Luxrite Ltd（luxritesecurity.com；Stevenage, Hertfordshire）— Trade-only CCTV / 门禁 / 报警分销商，自有 · Companies House 06801342；VAT 未取 · Active（2026 官网在线；Charges 0） · 成立 2009-01-26 · Unit 3 Eastman Way, Pin Green Industrial Estate, Stevenage, Hertfordshire SG1 4S",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06801342",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

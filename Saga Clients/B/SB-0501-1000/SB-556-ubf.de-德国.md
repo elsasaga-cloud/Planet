@@ -196,6 +196,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：DE · 1 次检索：官网 Impressum（UBF EDV Handel und Beratung Jürgen F：UBF EDV Handel und Beratung Jürgen Fischer GmbH（ubf.de；Castrop-Rauxel，注册地 2015 迁 Mühldorf  · HRB 32518（Amtsgericht Dortmund；2015 起注册地 · Aktiv（站点在线） · 成立 1981-06-25 · Römerstr. 37, 44579 Castrop-Rauxel（经营地；注册地 Mühldorf a. Inn） — <https://www.northdata.com/UBF%20EDV%20Handel%20und%20Beratung%20J%C3%BCrgen%20Fischer%20GmbH,%20Castrop-Rauxel/Amtsgericht%20Dortmund%20HRB%2032518>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2025-02-25 → 2026-09-23　|　**最后去信**：2026-09-23

@@ -349,5 +349,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "India · MCA 登记（Zauba Corp 镜像，2024-07）：AARYA ITES PRIVATE LIMITED · CIN U72900GJ2008PTC055798 · RoC Ahmedaba · Active（最近 AGM 2023-12-30；资产负债表 · 成立 2008-12-31 · 209, Akshar Stadia, B/H Patel Avenue, Bodakdev, Ahmedabad 380054, Gujarat",
+    "url": "https://www.zaubacorp.com/AARYA-ITES-PRIVATE-LIMITED-U72900GJ2008PTC055798",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

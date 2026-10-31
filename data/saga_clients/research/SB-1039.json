@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Impressum（ICO Innovative Computer GmbH；GF Oliver ：ICO Innovative Computer GmbH（ico.de；Diez, Rheinland-Pfalz）— 1982 年起家的 IT 分销商 / 进口商 + 自产工业  · HRB 20217（Amtsgericht Montabaur） · Active · 成立 1982（个体）→  · Zuckmayerstraße 15, 65582 Diez",
+    "url": "https://www.ico.de/impressum",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

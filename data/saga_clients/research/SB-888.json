@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Legal Notice（STORDIS GmbH Ruebteile 24 72574 B：STORDIS GmbH（stordis.com；巴登-符腾堡 Bad Urach，原斯图加特；Amtsgericht Stuttgart HRB 724261）— 2007 年成 · HRB 724261（Amtsgericht Stuttgart） · Active · 成立 2007-09-18 · Rübteile 24, 72574 Bad Urach（原 Rosenwiesstr. 17, 70567 Stuttgart）；英国分公司",
+    "url": "https://stordis.com/legal-notice-impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

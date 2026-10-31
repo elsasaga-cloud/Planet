@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 2 次检索：highlink.co.kr/about-us（주식회사 하이링크；빌딩/공장 자동화 네트워크 ：주식회사 하이링크 Highlink Co., Ltd.（highlink.co.kr；**代表이사 김윤섭 Kim Yoon-seop**；경기도 광주시（464-865）；电话 · 未取（사업자등록번호 两查未得） · 营业中（官网在线） · 成立 未取 · 경기도 광주시（邮编 464-865；详细地址未取）",
+    "url": "https://www.highlink.co.kr/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

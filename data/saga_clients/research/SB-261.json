@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：fakturujzdarma（RecTec servis, s.r.o.；IČO 17957036：RecTec servis, s.r.o.（rectec.cz；布尔诺郊 Židlochovice Nádražní 92, 667 01；IČO 17957036；DIČ CZ1 · IČO 17957036；DIČ CZ17957036；C 132302 KS  · Active（可靠增值税纳税人） · 成立 2023-01-23 · Nádražní 92, 667 01 Židlochovice（Brno-venkov）",
+    "url": "https://rejstrik-firem.kurzy.cz/17957036/rectec-servis-sro/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

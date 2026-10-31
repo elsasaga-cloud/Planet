@@ -208,6 +208,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：Senao Networks 2021 年报 / 合并报表（EnGenius Technologi：EnGenius Technologies, Inc.（engeniustech.com；Costa Mesa, CA）— 台湾 Senao Networks（TWSE 3558） · CA 公司（SoS 号未取）；母公司 Senao Networks, Inc.  · Active · 成立 1999 · 1580 Scenic Ave, Costa Mesa, CA 92626（LinkedIn / 官网） — <https://static.engeniuscdn.com/wp-content/uploads/2022/08/09163213/%E7%A5%9E%E6%BA%962021Q4%E8%8B%B1%E6%96%87%E8%B2%A1%E5%A0%B1.pdf>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-01-17 → 2026-02-10　|　**最后去信**：2026-02-10

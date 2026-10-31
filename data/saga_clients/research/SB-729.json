@@ -218,5 +218,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：linkedin.com/company/heitechpaduberhad（HEITECH PA：HeiTech Padu Berhad（heitech.com.my；**Registration No. 199401024950 (310628-D)；Bursa Malays · SSM 199401024950 (310628-D) · 上市营业中（HTPADU） · 成立 1994 / 199 · HeiTech Village, Persiaran Kewajipan, USJ 1, 47600 UEP Subang Jaya, Selangor, Ma",
+    "url": "https://www.linkedin.com/company/heitechpaduberhad",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

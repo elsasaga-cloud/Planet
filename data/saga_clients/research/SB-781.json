@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UK · Companies House（官方）搜索 → 公司页 + officers 页：SILVERNET LIMITED · 05386276 · Active（账目至 2025-11-30 已报；确认声明  · 成立 2005-03-09 · 19 Presley Way, Crownhill, Milton Keynes MK8 0ES（自有办公 / 仓库，非虚拟地址）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05386276",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

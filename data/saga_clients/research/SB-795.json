@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Sunbiz（YACHT GURUS, INCORPORATED；Florida Profit C：Yacht Gurus, Incorporated（yachtgurus.us；Miami Beach, Florida；Sunbiz P17000038904 · FEI 82- · FL Sunbiz P17000038904（FEI 82-1410191） · Active · 成立 2017-05-01 · 1521 Alton Rd PMB 613, Miami Beach, FL 33139（邮箱地址）；104 SW 23rd St #13, Fort Laud",
+    "url": "https://www.bizprofile.net/fl/miami-beach/yacht-gurus-incorporated",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

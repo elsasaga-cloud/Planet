@@ -184,5 +184,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：verif.com（TBK SOLUTION FR 750660060；site tbkvisio：TBK Vision（tbkvision.com；**1 查：品牌真实（manualslib TBK NEO 4/8/16 DVR 手册 → tbkvision.com）；veri · 未取（法国 TBK SOLUTION SIREN 750660060 关联；西班 · 营网中（品牌页在线） · 成立 未取（法国关联公司  · 未取（西班牙；法国关联 Saint-Bonnet-de-Mure）",
+    "url": "https://www.verif.com/en/company/TBK-SOLUTION-68d9c05a1299230338d95049/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

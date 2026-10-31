@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网首页 / Hakkımızda（ART Haberleşme ve Güvenlik Sist：ART Haberleşme ve Güvenlik Sistemleri（arthaberlesme.com；伊斯坦布尔 Tuzla）— Karel 授权经销与服务（Kartal · 未取（商号 ART Haberleşme ve Güvenlik Sisteml · Active（站点在线） · 成立 未取 · İçmeler Mah. Aydınlı Yolu Cad. Erdoğan Sk. No:14/K2, Tuzla / İstanbul",
+    "url": "https://www.arthaberlesme.com/hakkimizda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

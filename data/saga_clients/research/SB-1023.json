@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PT · Registo Comercial 镜像（iberinform：NIPC / 法律形式 / 地址；racius：SKUA TECHNOLOGY, UNIPESSOAL LDA（商号 SKUA Tech；DIPOL Ibéria） · NIPC 508525934（Conservatória do Registo  · Ativa（2025 年报已存） · 成立 2008-03-28 · Rua da Quintã, Pavilhão 21, Frossos, 4700-023 Braga（登记地址 4700-859 São Pedro de M",
+    "url": "https://www.iberinform.pt/empresa/24256500/skua-technology-unipessoal-lda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

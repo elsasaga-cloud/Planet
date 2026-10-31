@@ -220,5 +220,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Northdata「cbo GmbH, Schliersee」（AG München HRB 93：cbo GmbH（cbo-it.de；Schliersee —— 推定匹配） · AG München HRB 93986（推定） · Aktiv · 成立 ≈1990 年代（D · Miesbacher Str. 16, 83727 Schliersee（上巴伐利亚）",
+    "url": "https://www.northdata.com/cbo%20GmbH,%20Schliersee/Amtsgericht%20M%C3%BCnchen%20HRB%2093986",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

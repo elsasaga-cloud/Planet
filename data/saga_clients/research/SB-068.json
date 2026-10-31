@@ -209,5 +209,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PK · 1 次检索：ict-integrators.com/integrators（Over 11 years；IT ：ICT Integrators（ict-integrators.com；**349-H/3, Johar Town, Lahore；+92 42 3595 1406-7 / 358 · 未取（SECP / NTN 1 查未得；LCCI 会员） · 营业中（官网 + 商会名录） · 成立 约 2007（自述  · 349-H/3, Johar Town, Lahore, Pakistan",
+    "url": "https://lcci.pk/listing/ict-integrators/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

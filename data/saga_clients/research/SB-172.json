@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：官网 Regulamin / Dział sprzedaży（CONSTEEL Electroni：CONSTEEL Electronics Sp. z o.o. Sp. k.（consteel-electronics.com；Sopot）— 2017-08-22 登记的工业自动 · KRS 0000691687 · NIP 5862321609 · REGON  · Aktywna（KRS 档案 2026-05 确认） · 成立 2017-08-22 · ul. Rzemieślnicza 17-19, 81-855 Sopot",
+    "url": "https://krs-pobierz.pl/consteel-electronics-spolka-z-ograniczona-odpowiedzialnoscia-spolka-komandytowa-i6711118",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

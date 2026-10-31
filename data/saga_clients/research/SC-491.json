@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn.com/item.aspx?no=22601576（統編 / 上櫃 / 代表人）+ ：昇銳智慧科技股份有限公司 Hi Sharp Intelligence Technology Co., Ltd.（原 昇銳電子股份有限公司；hisharp.com；**統編 2260 · 22601576（統編） · 核准設立（上櫃 3128） · 成立 1987-09-23 · 桃園市八德區長興路 673 號",
+    "url": "https://www.hisharp.com/zh-tw/governance.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

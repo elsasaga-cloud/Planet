@@ -212,5 +212,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · Registrų centras 镜像（rekvizitai.vz.lt：代码 / VAT / 股本 / 董事：UAB „SAREME“（品牌 viSar / visarcctv.com） · Įmonės kodas 110629811 · PVM LT106298113 · Veikianti（SODRA 2026-10-05：22  · 成立 1994-06-16 · Vytenio g. 46, LT-03229 Vilnius；分部 Savanorių pr. 271, Kaunas",
+    "url": "https://rekvizitai.vz.lt/en/company/sareme/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

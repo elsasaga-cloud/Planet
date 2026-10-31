@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：alidex.it 页脚（© 2025 ALIDEX - ALIDEX NETWORKS SRL ：ALIDEX NETWORKS S.R.L.（商号 ALIDEX Italia；alidex.it；研究档法定名「ALIDEX S.r.l.」应更正；洛迪 Codogno Piaz · P.IVA / CF 10924650962 · Active · 成立 ≈2019（「6 a · Piazza Novello 22, 26845 Codogno (LO)",
+    "url": "https://atoka.io/public/it/azienda/alidex-networks-srl/facc00f3dde8",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

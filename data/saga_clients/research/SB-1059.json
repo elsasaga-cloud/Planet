@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网（24+ Years Partnership | Moxa Premier Distribut：Neteon Technologies Inc（neteon.net / shopmoxa.neteon.net；North Brunswick / East Brunswick, · NJ 公司（登记号未取）· SAM UEI X3SPD5JCJD67 · CAG · Active（联邦供应商在册） · 成立 2002-08-12 · 825 Georges Road, Suite 3B, North Brunswick, NJ 08902（另 1 Tower Center Blvd STE ",
+    "url": "https://www.highergov.com/awardee/neteon-technologies-inc-12751592/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

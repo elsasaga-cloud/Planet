@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RO · 1 次检索：targetare.ro（TEAM TELECOM SRL；CUI 14306256；J20010：TEAM TELECOM SRL（teamtelecom.ro；布加勒斯特 Sector 1 str. Copilului nr. 6-12, tronson II, Intrar · CUI RO14306256；J40/9771/2001（EUID ROONRC · Activă · 成立 2001-11-21 · str. Copilului nr. 6-12, tronson II, Intrarea E, et. 1, Sector 1, 012178 Bucureș",
+    "url": "https://www.risco.ro/en/verifica-firma/team-telecom-cui-14306256",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

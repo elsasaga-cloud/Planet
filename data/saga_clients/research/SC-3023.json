@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：nettrans.pl/kontakt.html（法人 / NIP / REGON / 地址 / ：NetTrans Jarosław Żydek（nettrans.pl；**官网 Kontakt：ul. Poznańska 115, 20-731 Lublin；NIP 712- · NIP 712-239-07-96 / REGON 366956479 · 营业中（官网） · 成立 未取（REGON 2 · ul. Poznańska 115, 20-731 Lublin",
+    "url": "https://nettrans.pl/kontakt.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

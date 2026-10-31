@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：官网 Home / Contact（Garma Electrónica S.L.；Calle Oy：Garma Electrónica S.L.（garmasl.com；西班牙圣塞巴斯蒂安 Calle Oyarzun 1 Bajo, 20013 Donostia）— 20+ 年工 · CIF 未取（S.L.） · Active · 成立 未取（自述 20+  · Calle Oyarzun 1 Bajo, 20013 Donostia-San Sebastián（Gipuzkoa）",
+    "url": "https://www.garmasl.com/en/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

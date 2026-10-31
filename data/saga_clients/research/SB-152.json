@@ -208,5 +208,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：pulsar.pl（产品：工业 PoE 交换机 DIN、PoE 交换机 S64 / S108 / ：Pulsar（pulsar.pl；Siechnice）— 电源 + PoE 交换机制造商 = 同行；同名陷阱 · 法定主体号未取（pulsar.pl 的法人名 1 次检索未出现；KRS 0000 · Active（官网 / 渠道在售） · 成立 未取 · Siechnice（Wrocław 附近；街道未取）",
+    "url": "https://www.pulsar.pl/PL_1026_o-firmie",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

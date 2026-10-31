@@ -209,5 +209,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About（1997-04 成为丹佛地区首家专注通信级光纤产品的分销商；团队 Bryan H：FiberOptic Supply（fiberopticsupply.com；Denver, Colorado）— 1997-04 起（BBB 登记 1998-04-02；Corp · CO Corporation（SoS 号未取 → 部分坐实） · Active（站点在线；BBB 在册） · 成立 1997-04（BB · 2171 S Trenton Way, Suite 223, Denver, CO 80231",
+    "url": "https://fiberopticsupply.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

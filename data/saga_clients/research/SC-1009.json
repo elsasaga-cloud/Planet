@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：varelalarm.com 首页（1990 yılında kurulan Varel Alar：Varel Alarm Sistemleri Ticaret A.Ş.（varelalarm.com；**官网：1990 年创立、İstanbul Acıbadem 总部、消防 / · 未取（MERSIS 1 查未得） · 营业中（官网 2026） · 成立 1990 · E5 Karayolu Üstü Etap İş Merkezi A Blok Lavanta Sok. No:16, Acıbadem – İstanbul",
+    "url": "https://varelalarm.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

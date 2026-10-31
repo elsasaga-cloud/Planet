@@ -211,5 +211,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Northdata（AG Düsseldorf HRB 60247；GF Igor Balter ：Balter GmbH（balter.de / redshop.de；Langenfeld (Rheinland)） · AG Düsseldorf HRB 60247（USt DE263994622； · Aktiv · 成立 2006（业务）/  · Elisabeth-Selbert-Str. 19, 40764 Langenfeld (Rheinland)（+49 211 22975914）",
+    "url": "https://www.northdata.com/Balter%20GmbH,%20Langenfeld%20(Rheinland)/Amtsgericht%20D%C3%BCsseldorf%20HRB%2060247",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -202,5 +202,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Gizlilik（Satıcı CCTVDEPO Güvenlik Teknolojiler：CCTVDEPO Güvenlik Teknolojileri A.Ş.（cctvdepo.com；İstanbul Yenibosna / Bahçelievler + Perp · MERSİS 0203034849100015 · Ticaret Sicil  · Active（ETBİS 在册；2026-06 招聘） · 成立 2004 · Remzi Özkaya Cad. No 18, Yenibosna / İstanbul（注册）；Hürriyet Mh Güngören Sk 4b, Ba",
+    "url": "https://www.eticaret.gov.tr/siteprofil/CE3F46BF44034071A9956AA7132E34DF/wwwcctvdepocombayi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-31",
+    "quote": "LinkedIn / SignalHire / Yenibiriş：CCTV Depo Güvenlik Teknolojileri A.Ş. · Hürriyet Mh. Güngören Sk. 4B Bahçelievler, İstanbul（+ Perpa B Blok K:8 No:836）· 2004 年 · 51–200（100–200）· 「Güvenlik sektörünün ilk B2B sitesi」· 自牌 SECUZI 的制造/进口商，2022 年起进军美国等海外市场 · 0850 303 03 17",
+    "url": "https://www.yenibiris.com/firma/cctvdepo-guvenlik-teknolojileri-a-s/286309",
+    "note": "B2B 安防电商 + 自牌 SECUZI（出口美国）→ OEM 30% 档，回信即 A 候选",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

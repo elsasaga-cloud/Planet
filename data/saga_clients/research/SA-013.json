@@ -381,5 +381,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "台灣 · D&B 檔（負責人）+ LinkedIn / Kompass / SignalHire / ContactOu：ALFA NETWORK INC.（艾法；法定中文名 / 統一編號待補） · 統一編號待補（經濟部商工登記需中文名）· 法國 SIREN 901445445  · 經營中（官網 / LinkedIn 活躍；ContactOu · 成立 2002（Linke · 4F.-1, No.106, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan",
+    "url": "https://www.dnb.com/business-directory/company-profiles.alfa_network_inc.92c8275df8b0f94300f98ff30d74ce55.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

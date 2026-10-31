@@ -154,5 +154,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10：ANDCORP ENTERPRISES PTY. LTD.（品牌 Yamasaki IoT） · ABN 93 610 329 934（ACN 610 329 934 → 201 · Active · 成立 ≈2016（ACN  · NSW 2176（Wetherill Park，悉尼西部工业区）",
+    "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=andcorp",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

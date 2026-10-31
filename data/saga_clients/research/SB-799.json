@@ -112,5 +112,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KZ · 1 次检索：ets-tender.kz/firms/too-vertex-invader/34696（ТОО ：ТОО «VERTEX INVADER»（**БИН 181140013835；注册 2018（niac 2018-11-13 / wikicity 2018-01-13 口径不一 · БИН 181140013835 · 存续（niac 2026） · 成立 2018 · ул. Александра Пушкина 41/2, район Байқоңыр, Астана 010000, Kazakhstan",
+    "url": "https://niac.kz/181140013835",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

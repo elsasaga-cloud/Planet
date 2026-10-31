@@ -254,5 +254,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PH · 1 次检索：edge.pse.com.ph SEC Form 17-C（SEC Identification ：Citicore Renewable Energy Corporation（CREC；crec.com.ph；**SEC Reg. No. CS201807415；BIR TIN  · SEC CS201807415（TIN 010-007-383-000） · 营业中（上市；季报在） · 成立 2018（SEC 号 · 11F Rockwell Santolan Town Plaza, 276 Col. Bonny Serrano Avenue, San Juan City, ",
+    "url": "https://edge.pse.com.ph/downloadHtml.do?file_id=1777348",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

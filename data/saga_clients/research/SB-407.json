@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：「Winner Intertech Co., Ltd. Thailand เลขทะเบียน …：Winner Intertech Co., Ltd.（winnerintertech.com；泰国；**法人 1 查未得 → 未坐实**（命中 Winner Tech (Thail · 未取（法人 1 查未得） · 营业中（官网 + 参展在） · 成立 未取 · 未取（泰国）",
+    "url": "https://winnerintertech.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

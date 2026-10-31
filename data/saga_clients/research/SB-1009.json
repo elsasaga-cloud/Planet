@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：rejestr.io（BATNA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIA：Batna Sp. z o.o.（batna24.com / anteny24.pl；Częstochowa）— Ubiquiti / MikroTik 欧洲主力分销商（2001  · KRS 0001003926（Batna Sp. z o.o.）；REGON 3 · Active（2026-09 产品卡仍以 Batna sp. · 成立 2022-12-01 · ul. Olgi Boznańskiej 3E, 42-202 Częstochowa（注册）；ul. 1 Maja 23, 42-217 Częstochow",
+    "url": "https://rejestr.io/krs/1003926/batna",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

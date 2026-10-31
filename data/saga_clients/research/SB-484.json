@@ -152,5 +152,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：mosonetworks.com/contact-us（2108 N ST # 9184 Sacr：Moso Networks（原 MosoLabs；法定名待取：MosoLabs Inc.；mosonetworks.com；2108 N St #9184, Sacramento, · 未取（CA SoS 实体号） · Active · 成立 未取（MosoLab · 2108 N St #9184, Sacramento, CA 95816, USA",
+    "url": "https://www.mosonetworks.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SE · 1 次检索：allabolag（Standard Audio Systems AB；Org.nr 556203：Standard Audio Systems AB（standardaudio.se；阿兰达 Arlandastad Turbingatan 2, 195 60（Sigtuna 市 · Org.nr 556203-9726 · Aktiv · 成立 1980-02-25 · Turbingatan 2, 195 60 Arlandastad",
+    "url": "https://www.allabolag.se/foretag/standard-audio-systems-ab/arlandastad/radio-tv-programbolag/2JZHTBII5YH40",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

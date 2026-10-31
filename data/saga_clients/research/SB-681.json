@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：firmasec（SER RACK KABİN TEKNOLOJİ VE BİLİŞİM SİST：SER Rack Kabin Teknoloji ve Bilişim Sistemleri San. Tic. Ltd. Şti.（serrackkabin.com.tr；伊斯坦 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）；LANDE · Active（站点在线） · 成立 2013 · Emek Mah. Ordu Cad. Arzu Sok. No:46, 34785 Sancaktepe / İstanbul；销售处 Perpa Ticar",
+    "url": "https://www.serrackkabin.com.tr/Ser-Rack-Kabinet/Biz-Kimiz---Misyon---Vizyon",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

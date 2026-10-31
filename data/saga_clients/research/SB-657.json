@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 İletişim（Egesan Teknoloji Pazarlama İth.；Akçaa：EGESAN TEKNOLOJİ PAZARLAMA İTH. İHR. VE TİC. LTD. ŞTİ.（egesanteknoloji.com.tr；**Bodrum / M · Vergi No 3250872231（Bodrum）；MERSİS 未取（按规 · Aktif（站点在线） · 成立 2005（自述） · Akçaalan Mah. Cumhuriyet Blv. No 120/1 A Blok, 48400 Bodrum / Muğla（另址 Karabağ M",
+    "url": "https://www.egesanteknoloji.com.tr/iletisim",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

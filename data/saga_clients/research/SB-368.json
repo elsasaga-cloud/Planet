@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：welotec.com Legal notice（GF Dr. Reinhard Lülff、Jo：Welotec GmbH — a Westermo Company（welotec.com；Laer bei Münster） · AG Steinfurt HRB 3363（USt DE121631449） · Aktiv（2025-04 被 Westermo / Epe · 成立 1979-05-15 · Zum Hagenbach 7, 48366 Laer（+49 2554 9130-00）",
+    "url": "https://www.westermo.com/news-and-events/news/2025-04-03-westermo-welotec",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

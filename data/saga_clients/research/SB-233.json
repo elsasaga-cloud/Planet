@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：avyconaivo.com/contact（AVYCON HQ 16682 Millikan A：AVYCON（法定名待取：Avycon Inc.；avycon.com；16682 Millikan Ave., Irvine, CA 92606, USA）— 2012 年创立的 · 未取（CA SoS 实体号） · Active · 成立 2012 · 16682 Millikan Ave., Irvine, CA 92606, USA",
+    "url": "https://avyconaivo.com/page/?pid=contactus",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

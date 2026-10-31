@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：empresite.eleconomista.es（CIF / 形式）+ iberinform（地：MERCASAT SL（mercasat.es；**empresite / iberinform / einforma：CIF B92538883；Sociedad limitad · B92538883（CIF） · 营业中（Activa） · 成立 约 2004（22  · Calle La Boheme 22, Pol. Ind., 29006 Málaga",
+    "url": "https://www.iberinform.es/empresa/1329911/mercasat",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

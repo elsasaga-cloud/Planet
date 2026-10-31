@@ -165,5 +165,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：lendoux.com/en（Lendoux Specialized Store；data cen：Lendoux（Lendoux Group / Lendoux Specialized Store；lendoux.com；Toronto, Ontario；法定名 / 安省登记号 · 未取（安省 / 联邦登记号） · Active（站点活跃，2025 博文） · 成立 ≈2024（Link · Toronto, Ontario（街道未取）",
+    "url": "https://lendoux.com/en/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

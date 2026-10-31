@@ -298,5 +298,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：aiwa.ae（Acix Middle East；217, Business Venue Buil：ACIX Middle East（acixme.com；**#217 Business Venue Building, Oud Metha, Dubai, P.O. Box 284 · 未取（AE 牌照号 1 查未得） · 营业中（2026-05 新闻稿） · 成立 约 2010（「15 · #217 Business Venue Building, Oud Metha, Dubai, UAE (P.O. Box 28474)",
+    "url": "https://aiwa.ae/company/acix-middleeast",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

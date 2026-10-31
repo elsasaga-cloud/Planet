@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（EL.MO. S.P.A.；P.IVA 00605640283；V：EL.MO. S.p.A.（a socio unico；elmospa.com；帕多瓦 Campodarsego Via Pontarola 70, 35011；P.IVA / C · P.IVA / CF 00605640283；REA PD-126325 · Active · 成立 1976 · Via Pontarola 70, 35011 Campodarsego (PD)",
+    "url": "https://www.ufficiocamerale.it/2756/elmo-spa",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

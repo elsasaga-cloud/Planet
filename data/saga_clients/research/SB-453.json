@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：gmtcontrol.com/en/about-us（GMT Endüstriyel Elektr：GMT Endüstriyel Elektronik San. ve Tic. A.Ş.（gmtcontrol.com；Beykoz / İstanbul）— 土耳其首家国产 PL · MERSİS 未取（Ltd. Şti. → A.Ş.） · Active（官网 2026 更新） · 成立 2014 · Çubuklu Mah. Boğaziçi Cad. Boğaziçi Plaza No:6/B, 34805 Beykoz / İstanbul",
+    "url": "https://gmtcontrol.com/en/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -254,9 +254,13 @@ A 维持（美国本土集成商 + 2 次实质回复），但单量小（自装�
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · BBB 登记（成立 / 注册 / 别名 / 管理层）+ Texas 执照（官网公示 B12519 / B03：AVENGER SECURITY SERVICES, INC.（别名 Central Security / GetSecurityAlarm.com / DCS Systems,  · Texas Filing No. 0800828533 · Texas Priv · 经营中（Yelp 2026-09、LinkedIn 2026 · 成立 业务始于 2005- · 501 West Creekbend Cove, Hutto, TX 78634 — <https://www.bbb.org/us/tx/hutto/profile/security-system-monitors/avenger-security-services-inc-0825-90033586>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

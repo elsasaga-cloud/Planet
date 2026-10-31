@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：infinique.com/about-us（Since 2002；Founded in Onta：Infinique（infinique.com；**官网 about：2002 年安大略创立（Crunchbase 2001-01-01，Mississauga，11–50）；自有 · 未取（Ontario 登记 1 查未得） · 营业中（官网 2026-09） · 成立 2002（Crunc · Mississauga, Ontario（街道未取）",
+    "url": "https://infinique.com/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

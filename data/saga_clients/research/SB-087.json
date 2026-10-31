@@ -142,5 +142,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn（阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.：阿斯門亞洲有限公司 ASSMANN ELECTRONIC ASIA CO. LTD.（assmann.com.tw / assmann-asia.com；**統一編號 537336 · 統一編號 53733622 · 核准設立 / 營業中 · 成立 2012-01-31 · 臺北市內湖區新湖一路77號7樓 / 7F, No. 77, Xinhu 1st Rd., Neihu Dist., Taipei City 114757",
+    "url": "https://twincn.com/item.aspx?no=53733622",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

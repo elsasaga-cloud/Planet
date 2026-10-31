@@ -226,5 +226,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）：BSN System / Berkah Saudara Network（bsn-system.com） · （登记状态不可免费核） · 成立 2014（官网「Se · Jalan Jembatan Besi No 23 A Grogol, Kel. Angke, Kec. Tambora, Jakarta Barat 1132",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

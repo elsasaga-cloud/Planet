@@ -145,5 +145,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CY · 1 次检索：官网 About（Foppex Ltd is registered in the Republic：Foppex Ltd.（foppex.com；**尼科西亚 Strovolos，塞浦路斯 — 研究档「美国」误，country_fix 塞浦路斯**）— 2010-04 由 Akç · 塞浦路斯 Ltd.（HE 号未取 → 部分坐实）；母体 Akçaba Commu · Active（2025 站点更新） · 成立 2010-04 · Thiseos 7, Strovolos, 2042 Nicosia, Cyprus",
+    "url": "https://foppex.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

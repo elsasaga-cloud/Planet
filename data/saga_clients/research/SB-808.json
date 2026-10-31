@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Hakkımızda（Deponet Elektronik Mamulleri Sanayi：Deponet Elektronik Mamulleri Sanayi Pazarlama A.Ş.（deponet.com.tr；伊斯坦布尔 Kadıköy Kozyatağı  · MERSİS 未取（A.Ş.；EMIS 1998-03-10） · Active · 成立 1998-03-10 · Kozyatağı Mah. Kozyatağı Sok. Parlarbaşoğlu Apt. No:28B, 34742 Kadıköy / İstanbu",
+    "url": "https://deponet.com.tr/hakkimizda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -319,5 +319,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：tofler / thecompanycheck / filesure 同名 Enercore S：Enercore（enercore.co.in；**1 查仅得 Enercore Solutions Private Limited（CIN U62013HR2023PTC1131 · 未取（同名 CIN U62013HR2023PTC113183 不采） · 未坐实 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

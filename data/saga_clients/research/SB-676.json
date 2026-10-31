@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：pctedarik.com 页脚（PC TEDARİK İTHALAT İHRACAT YAZIL：PC Tedarik İthalat İhracat Yazılım Ticaret Ltd. Şti.（pctedarik.com；Pendik / İstanbul）— IT  · Ltd. Şti.（MERSİS 未取；n11 登记的 şahıs MERSİS · Active（网店 2026） · 成立 未取 · Çınardere Mah. Ankara Cad. No:43A, 34892 Pendik / İstanbul",
+    "url": "https://pctedarik.com/11/KVKK",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

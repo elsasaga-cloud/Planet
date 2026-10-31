@@ -161,5 +161,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IQ · 1 次检索：dnb.com（WAN COMPANY FOR COMPUTER NETWORK DESIGN A：WAN Company for Computer Network Design and Installation and Computer Trading Ltd.（DBA WAN · 未取（库区公司登记号 1 查未得） · 营业中（官网 + 社媒 2025） · 成立 2005-01-03 · 1st Floor, Ali Namali Building, Salim Street, Sulaymaniyah, Kurdistan Region, Ir",
+    "url": "https://www.dnb.com/business-directory/company-profiles.wan_company_for_computer_network_design_and_installation_and_computer_trading_ltd.5822f9dba5a299855fa2907040632e17.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

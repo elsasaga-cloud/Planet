@@ -242,5 +242,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FI · 1 次检索：proff.fi（Klinger Finland Oy 0195519-1；liikevaihto：KLINGER Finland Oy（klinger.fi；Kirkkonummi Masala Tinankuja 3, 02430；Y-tunnus 0195519-1）— 1 · Y-tunnus 0195519-1 · Aktiivinen · 成立 1940 · Tinankuja 3, 02430 Masala (Kirkkonummi)",
+    "url": "https://www.proff.fi/yrityksen/klinger-finland-oy/masala/koneet-ja-laitteet/0195519-1I10PO",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

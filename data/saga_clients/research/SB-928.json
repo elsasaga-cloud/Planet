@@ -153,5 +153,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：sevenstarsuae.com/locations（Seven Stars Rent A Ca：Seven Stars（sevenstarsuae.com；阿布扎比多元集团：Seven Stars Rent A Car / Auto Garage / Auto Spare P · 未取（集团多牌照；1 查未得） · 营业中（官网在） · 成立 未取 · Corporate Office: Nice Karak Refreshment Bldg, Hamdan Street, Abu Dhabi, UAE",
+    "url": "https://www.sevenstarsuae.com/locations",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

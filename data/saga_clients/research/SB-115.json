@@ -117,5 +117,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ID · 1 次检索：companieshouse.id/catur-citra-wisesa（PT. Catur Ci：PT. Catur Citra Wisesa（**companieshouse.id：登记号 182592；注册地址 Jl. Taman Harapan Baru Blok D 1 · AHU 登记号 182592（镜像） · 营业中（Active；领英在） · 成立 未取（自述 20+  · Jl. Taman Harapan Baru Blok D 10/11, RT.003/022, Pejuang, Bekasi, Indonesia",
+    "url": "https://companieshouse.id/catur-citra-wisesa",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

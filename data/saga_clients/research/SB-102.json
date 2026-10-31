@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZM · 1 次检索：densoelectronics.com（Denso Electronic Solutions, ：Denso Electronic Solutions（densoelectronics.com；**官网：Suite 02-37 Compensation House, Broad · 未取（PACRA 号 1 查未得） · 营业中（官网 2026） · 成立 1997 · Suite 02-37 Compensation House, Broadway / Moffat Roads, Ndola, Zambia",
+    "url": "https://www.densoelectronics.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

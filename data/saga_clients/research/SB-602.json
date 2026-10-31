@@ -207,5 +207,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网页脚（© 2025 ANIL TELEKOMÜNİKASYON GÜVENLİK VE BİL：Anıl Telekomünikasyon Güvenlik ve Bilişim Sistemleri San. Tic. Ltd. Şti.（aniltelekom.com；P · MERSİS 未取（1 次即停）；Perpa Adres Kodu 258883 · Active（Karel 官方分销名单在列；2025 新登记 · 成立 2002 · Perpa Ticaret Merkezi A Blok No 1440-1442-1575-1577-1579, Kat 10-11-12, Şişli / ",
+    "url": "https://www.aniltelekom.com/Default.aspx",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

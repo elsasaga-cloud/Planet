@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（Syserso Networks GmbH – an ITTC Grou：Syserso Networks GmbH（syserso.com；Hannover）— ITTC Group 旗下电信网络 / VoIP 安全 / KRITIS 方案增值分销与集 · HRB 217735（Amtsgericht Hannover）· USt-ID · Aktiv（Creditreform 最后变更 2024-1 · 成立 2019-01-29 · Ahrensburger Straße 8, 30659 Hannover",
+    "url": "https://www.syserso.com/impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

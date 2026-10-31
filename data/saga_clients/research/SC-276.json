@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：assmann.pl/en/company/contact（法人 / NIP / REGON / ：ASSMANN Distribution Sp. z o.o.（assmann.pl；**官网 Contact：Gilarska 10/1 lok.1, 03-589 Warsza · NIP 8951883569 / REGON 020543570（KRS 号未取 · 营业中（官网） · 成立 未取（旧法人 200 · Gilarska 10/1 lok.1, 03-589 Warszawa",
+    "url": "https://www.assmann.pl/en/company/contact/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

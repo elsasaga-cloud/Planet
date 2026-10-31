@@ -203,13 +203,14 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：D&B：ONSIS ELEKTRIK ELEKTRONIK GUVENLIK SISTEMLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI · Ankara · Building Equipment Contractors · Key Principal Esef Taskiran — <https://www.dnb.com/business-directory/company-profiles/onsis-elektrik-elektronik-guvenlik-sistemleri-insaat-sanayi-ve-ticaret-limited-sirketi.0fc7751a528ed7eb618cb09f47a7e656>
+- 2026-10-30：Türkiye · Ticaret Sicili 镜像（find.com.tr：法定全称 / 类型 / 成立日 / 活动：ONSİS ELEKTRİK ELEKTRONİK GÜVENLİK SİSTEMLERİ İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ · Ltd. Şti.（Ankara Ticaret Sicili；MERSİS / · Aktif（2023-07 仍在招聘技术员；D&B 在档） · 成立 1992 创业（自述 · Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara — <https://www.find.com.tr/Company/onsiselektrikelektronikguvenliksistemleriinsaatsanayiveticaretlimitedsirketi>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **KP**
 

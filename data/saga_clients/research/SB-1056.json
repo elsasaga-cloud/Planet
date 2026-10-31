@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网（2006 年 İstanbul 成立，2011 起商业化生产；PLC / RTU / 网关 ：Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.（mikrodev.com；İstanbul 注册，Gebze  · Ltd. Şti.（İstanbul / Kocaeli；MERSİS 号未取） · Active（官网 2025-09 更新） · 成立 2006 · TÜBİTAK MAM Teknoloji Serbest Bölgesi, Gebze / Kocaeli（生产）；İstanbul（注册）；英国 / 南非分",
+    "url": "https://www.mikrodev.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

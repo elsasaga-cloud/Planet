@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：LinkedIn（T1Nexus；Founded 2018；11–50；HQ 4701 Patri：T1 Nexus（T1Nexus；t1nexus.com；Fremont / Santa Clara, CA + T1Nexus UK Limited, Swindon）— OEM · CA 实体名 / SoS 号未取（CA SoS JS；英国子公司 T1Nexus · 在营（2026 展会活跃） · 成立 2018 · 47257 Fremont Blvd, Fremont, CA 94538（2025 起）；旧址 4701 Patrick Henry Dr Bldg 16, ",
+    "url": "https://t1nexus.com/contact-t1nexus/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

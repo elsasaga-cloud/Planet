@@ -241,5 +241,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PH · 1 次检索：rspotsolutions.com（RSPOT SOLUTIONS, INC.；Unit 7B-：RSPOT Solutions, Inc.（rspotsolutions.com；**官网：Unit 7B-19 Bldg. 7 Residencias de Manila, Pa · 未取（SEC 号 1 查未得） · 营业中（官网 © 2026） · 成立 未取 · Unit 7B-19 Bldg. 7, Residencias de Manila, Pandacan, Manila, Philippines",
+    "url": "https://www.rspotsolutions.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

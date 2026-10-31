@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：indiamart（Technoverse Business Solutions；Dombivli：Technoverse Business Solutions（technoversebs.com；**个体经营；GSTIN 27CWEPK3302H2ZS（2023-11-07）* · GSTIN 27CWEPK3302H2ZS · Active · 成立 2023（GST 2 · 2nd Floor, 202, Shiv Sambhav CHS, Savarkar Road, Kalyan, Dombivli, Thane 421201",
+    "url": "https://www.indiamart.com/company/70154489/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

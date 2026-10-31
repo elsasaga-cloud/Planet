@@ -218,5 +218,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（SICURMAX S.R.L.；P.IVA 02360600239：SICURMAX S.R.L.（原 SICURMAX S.n.c. di Marzari Massimo & C.；sicurmax.com；维罗纳 Bovolone Via de · P.IVA / CF 02360600239；REA VR-233884 · Active · 成立 1992-07-01 · Via del Ciclamino 7, 37051 Bovolone (VR)",
+    "url": "https://www.ufficiocamerale.it/7597/sicurmax-snc-di-marzari-massimo-c",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

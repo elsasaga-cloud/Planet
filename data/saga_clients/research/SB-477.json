@@ -370,6 +370,16 @@
     "batch": "A-DEEP-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索未命中（prospectoo Eminnovate eminnovate.co 印度 ≠ 本户，不采：eminnovate.com（用户表：美国；公司名未核）— 1 次检索仅命中印度浦那 Eminnovate（eminnovate.co；IT 服务 / 全渠道平台；CEO Amit · 未取 · 未知 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

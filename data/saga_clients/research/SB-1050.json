@@ -207,5 +207,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：sg.ltddir（KEYDENCE SYSTEMS PTE. LTD.；UEN 20101915：Keydence Systems Pte. Ltd.（keydence.com；**UEN 201019151W；注册 2010-09-09；Local Company；Live* · UEN 201019151W · Live Company · 成立 2010-09-09 · 7030 Ang Mo Kio Avenue 5 #01-62 Northstar @ AMK, Singapore 569880",
+    "url": "https://sg.ltddir.com/companies/keydence-systems-pte-ltd/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

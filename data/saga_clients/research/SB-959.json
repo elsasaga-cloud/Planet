@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：BBB（Silarius LLC；155 Water St Brooklyn NY 11201；F：Silarius LLC（silarius.com；Brooklyn NY / Clifton NJ） · NY LLC 登记号未取（NY DOS 为 JS 页） · Active（官网 / App 在线） · 成立 2019-03-25 · 1033 US Highway 46, Suite 204, Clifton, NJ 07013（登记地 Brooklyn NY）",
+    "url": "https://www.bbb.org/us/ny/brooklyn/profile/information-technology-services/silarius-llc-0121-87158748",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

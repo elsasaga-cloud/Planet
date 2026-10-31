@@ -164,5 +164,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（HK GmbH；Albert-Einstein-Str. 5, 4076：HK GmbH（hk-systeme.de；Langenfeld）— 25 年以上的消防报警 / 语音疏散 / 电声报警系统集成商（HRB 105842 Düsseldorf；GF · HRB 105842（Amtsgericht Düsseldorf）· USt- · Aktiv · 成立 未取（经营 25 年 · Albert-Einstein-Str. 5, 40764 Langenfeld",
+    "url": "https://hk-systeme.de/de/pages/impressum",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

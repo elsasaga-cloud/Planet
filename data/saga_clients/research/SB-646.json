@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：artsistem.com/hakkimizda（2004-09-04 创立；22+ 年；135 ：Art Sistem Bilgisayar ve Güvenlik Teknolojileri（artsistem.com；Küçükçekmece / İstanbul）— 5, · MERSİS 未取（Ltd. Şti.；LinkedIn 写 A.Ş. 待核） · Active · 成立 2004-09-04 · Gültepe Mah. Florya Kavşağı E-5 Yanyol Cad. 1. Bilge Sok. No:1 Art Sistem Plaza,",
+    "url": "https://www.artsistem.com/hakkimizda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

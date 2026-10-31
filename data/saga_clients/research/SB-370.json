@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "EE/IT · 1 次检索：wildix.com/about（2005 年 Steve + Dimitri Osler ：Wildix（wildix.com）— 总部 Tallinn（Wildix OÜ，VAT EE101984698）/ 运营 Trento（Wildix S.r.l.）；英国 Cov · 爱沙尼亚商业登记号未取（VAT EE101984698）；意大利 Wildix  · Active · 成立 2005（Trent · Laeva tn. 2, 10111 Tallinn, Estonia（运营：Loc. le Basse 3, 38123 Trento, Italy）",
+    "url": "https://www.wildix.com/about-wildix/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

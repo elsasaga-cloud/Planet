@@ -143,5 +143,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：3s.com.tr 首页（3S Güvenlik Sistemleri；bilgi@3S.com.：3S Güvenlik Sistemleri（3s.com.tr；伊斯坦布尔 Sultangazi Esentepe Mah. 2403/1 Sok. No:11；bilgi@3S · MERSİS 未取（A.Ş. 设立公告见 emlakkulisi） · Active · 成立 未取（A.Ş. 11 · Esentepe Mah. 2403/1 Sok. No:11, Sultangazi / İstanbul",
+    "url": "https://3s.com.tr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

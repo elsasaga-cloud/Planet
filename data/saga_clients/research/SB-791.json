@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（Wachendorff Prozesstechnik GmbH & Co：Wachendorff Prozesstechnik GmbH & Co. KG（wachendorff-prozesstechnik.de；Geisenheim / Rheing · HRA 7403（Amtsgericht Wiesbaden）· Komplem · Aktiv · 成立 1978-11-17 · Industriestraße 7, 65366 Geisenheim",
+    "url": "https://www.wachendorff.com/legal-notice/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

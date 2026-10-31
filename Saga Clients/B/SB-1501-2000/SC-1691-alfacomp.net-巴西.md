@@ -168,6 +168,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：OK 但无回信/非主攻；身份 登记坐实 · 路径 活 · 回信 none · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：BR · 1 次检索：cnpja（分支 CNPJ / 资本 / 邮箱 / CNAE）+ cnpj.biz（总部 CNPJ：Alfacomp Automação Industrial Ltda（alfacomp.ind.br / alfacomp.net；**CNPJ 04.430.358/0001-0 · 04.430.358/0001-05（CNPJ 总部） · Ativa（Receita 2025-10） · 成立 2001-05-10 · Av. Antonio Artioli, 570, Bloco Lacorno Sala 204, Swiss Park, Campinas - SP, 130 — <https://cnpja.com/en/office/04430358000296>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：12 封（去 12 / 来 0）　|　**期间**：2024-07-01 → 2025-09-18　|　**最后去信**：2025-09-18

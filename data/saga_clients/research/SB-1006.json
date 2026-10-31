@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 İletişim / KVKK（Audio Elektronik A.Ş；Fabrika E：Audio Elektronik İthalat İhracat Sanayi ve Ticaret A.Ş.（audio.com.tr；Dudullu-Ümraniye, İst · VKN 1030049698（Anadolu Kurumlar VD）；MERS · Active（2026-09 官网更新） · 成立 1988-09-20 · Esenkent Mah. Barajyolu Cad. No 26, 34776 Dudullu-Ümraniye / İstanbul（工厂 = 总部）",
+    "url": "https://www.audio.com.tr/en/corporate/history/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

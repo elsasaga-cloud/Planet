@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：cnpja（分支 CNPJ / 资本 / 邮箱 / CNAE）+ cnpj.biz（总部 CNPJ：Alfacomp Automação Industrial Ltda（alfacomp.ind.br / alfacomp.net；**CNPJ 04.430.358/0001-0 · 04.430.358/0001-05（CNPJ 总部） · Ativa（Receita 2025-10） · 成立 2001-05-10 · Av. Antonio Artioli, 570, Bloco Lacorno Sala 204, Swiss Park, Campinas - SP, 130",
+    "url": "https://cnpja.com/en/office/04430358000296",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

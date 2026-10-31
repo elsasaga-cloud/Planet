@@ -141,5 +141,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IL · 1 次检索：isrcorp.co.il（ISR Tech；Tel 02-6520570；P.O. Box 34：I.S.R. Technologies (Israel) Ltd / ISR Tech（isrcorp.co.il；**官网 + Google Play 开发者信息：5 Eliav · 未取（公司号 1 查未得） · 营业中（官网 + 应用商店 2026） · 成立 1986 · 5 Eliav Yaacov St., Jerusalem 9546205, Israel",
+    "url": "https://www.isrcorp.co.il/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -547,6 +547,16 @@
     "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONIC：INTRACOM MIDDLE EAST FZE（Dubai；Intracom Telecom 100% 股东）/ INTRACOM TELECOM（Paiania, Greece · FZE（迪拜自贸区）执照号未取；希腊 ΓΕΜΗ 未取（GEMI JS 关闭） · Active · 成立 Intracom T · Intracom Telecom: 19.7 km Markopoulou Ave., Paiania 19002, Greece；FZE: Dubai",
+    "url": "https://www.intracom-telecom.com/en/company/profile/intracom_telecom_glance.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

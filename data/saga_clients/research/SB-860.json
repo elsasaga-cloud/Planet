@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZA · 1 次检索：basithamitech.com/contact-us（BASITHAMI TRADING AN：Basithami Trading and Projects t/a Basithami Technology（basithamitech.com；**官网 contact：103 · 未取（CIPC 注册号 1 查未得） · 营业中（官网 2020 + 名录） · 成立 约 2000（自述  · 10313 c/o Pudi & Tshepe Street, Kagiso Ext 4, Mogale City, Gauteng, South Africa",
+    "url": "https://www.basithamitech.com/contact-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

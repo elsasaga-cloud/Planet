@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：triplenet.co.kr 首页页脚（트리플네트웍스(주)；홈페이지 13.12.09 공지；：트리플네트웍스(주) Triple Networks Co., Ltd.（triplenet.co.kr；**사업장번호 138-81-53140；대표 송광호 Song Kwan · 사업자등록번호 138-81-53140 · 营业中（官网停更） · 成立 未取 · 경기도 안양시 동안구 관양동 883, 에이스평촌타워 512호",
+    "url": "http://www.triplenet.co.kr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

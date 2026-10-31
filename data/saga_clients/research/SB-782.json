@@ -217,5 +217,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：RocketReach（Simple Technology (UK) Ltd.；simpleuk.：Simple Technology (UK) Ltd.（simpleuk.com；Warrington）— 1 次检索法定实体未坐实 · 未坐实（候选 CH 号均不符） · 官网在线（研究档快照 ok） · 成立 1991（第三方） · Warrington（电话区号）",
+    "url": "https://rocketreach.co/simple-technology-uk-ltd-profile_b5e08191f42e68f6",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

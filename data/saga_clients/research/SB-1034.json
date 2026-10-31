@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About（「GSS is a wholesaler of leading security：GSS / GOGSS（gogss.com；Fresh Meadows, New York + City of Industry, CA + Westbury NY + Orang · NY 公司（Global Security Solution USA Inc.  · Active（站点 2025 版权） · 成立 2015（Linke · 59-43 Fresh Meadow Lane, Fresh Meadows, NY 11365（NY 主）；15222 Stafford St, City o",
+    "url": "https://gogss.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NL · 1 次检索：shop4power.nl Bedrijf / Voorwaarden（Duisterendijk：Shop4power.nl（又名 Shop4networks.nl；eenmanszaak 个体；韦耶 Wijhe Duisterendijk 5a, 8131 RA；KvK 63 · KvK 63967588 · Active · 成立 未取（KvK 639 · Duisterendijk 5a, 8131 RA Wijhe",
+    "url": "https://shop4power.nl/bedrijf/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

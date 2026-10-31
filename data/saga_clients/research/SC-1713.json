@@ -127,5 +127,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LV · 1 次检索：oak-integrator.lv/news（更名 / 品牌线）+ tracxn（两法人 Reģ.：OAK INTEGRATOR Products SIA（oak-integrator.lv；**Reģ. Nr. 40003540103；2001-04-04；原 Beijer E · 40003540103（Products SIA）/ 40103496615（S · Active（tracxn 2025） · 成立 2001-04-04 · Mežkalna iela 5, Rīga",
+    "url": "https://tracxn.com/d/companies/oak-integrator/__O2MYpO0NTFEGt-ZrtiwTJY37PXdoWkQrf5ABZ_ov2m4",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

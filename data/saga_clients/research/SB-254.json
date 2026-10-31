@@ -212,5 +212,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（SICURTECNICA S.R.L.；P.IVA 0140099：SICURTECNICA S.R.L.（sicurtecnicanapoli.it / antifurtisicurtecnicanapoli.it；Via Campegna 13 · P.IVA 01400990634 / REA NA-307645 · Attiva · 成立 1988-07-05 · Via Campegna 135, 80124 Napoli (NA)",
+    "url": "https://www.ufficiocamerale.it/3151/sicurtecnica-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

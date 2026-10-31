@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HU · 1 次检索：opten（Erstech Technika Kft.；Adószám 13118145-2-13：Erstech Technika Kereskedelmi és Szolgáltató Kft.（erstechtechnika.hu；Pest 县 Tatárszentgyör · Adószám 13118145-2-13；Cégjegyzékszám 13- · Active · 成立 2003-09-29 · Kinizsi u. 13, 2375 Tatárszentgyörgy",
+    "url": "https://ceginfo.hu/ceg-adatlap/erstech-technika-kereskedelmi-es-szolgaltato-kft-1309108843.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

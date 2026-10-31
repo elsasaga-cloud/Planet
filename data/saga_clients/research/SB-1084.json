@@ -177,5 +177,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HU · 1 次检索：frekvent.com/kapcsolat + impresszum（Frekvent Fork：Frekvent Forklift Kft.（原 PHOENIX FORKLIFT Kft.，2023-07-12 更名；frekvent.com / targoncavilla. · Adószám 12678859-2-03；Cégjegyzékszám 03- · Active · 成立 2001-06-19 · Kisszállási út 11, 6440 Jánoshalma",
+    "url": "https://www.ceginformacio.hu/cr9310989059_EN",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -219,5 +219,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：ZoomInfo（Main Tech Connect；2001；11–50；<$5M；CTO Je：Main Tech Connect（maintechconnect.com；州未取） · 未取（州未定，SoS 不可查） · Active（网店在售） · 成立 2001（ZoomI · 未取（美国本土发货）",
+    "url": "https://www.zoominfo.com/c/main-tech-connect/1275453111",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

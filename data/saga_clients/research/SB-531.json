@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索（Companies House 关键词「Dynamode UK Ltd」）→ 仅返回 DYNOMA：Dynamode（dynamode.co.uk；英国）— 自有品牌网络 / 电脑配件品牌商（研究档：own brand；Elsa 已 1:1 去信 sales@）；**本轮 1 次 · 未坐实（登记主体 / 公司号未取） · 站点在线（研究档快照 ok） · 成立 未取 · 英国（门牌未取）",
+    "url": "https://www.dynamode.co.uk/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

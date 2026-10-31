@@ -144,5 +144,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：fingerprint-access-control.com（Borer Data Systems：Borer Data Systems Ltd（fingerprint-access-control.com / borer.co.uk；Winnersh, Berkshire）—  · Companies House 号未取（下轮可按「BORER DATA SYST · Active（官网 2026-07 更新） · 成立 ≈1980s（自述  · 4 Winnersh Fields, Gazelle Close, Winnersh, Berkshire RG41 5QS",
+    "url": "https://www.fingerprint-access-control.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

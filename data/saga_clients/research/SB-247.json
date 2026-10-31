@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvizitai.vz.lt 关键词搜索（jpg.lt 未出现；命中 Enzas 303005：jpg.lt（经营主体未坐实；立陶宛语监控 / 安防网店：IP 摄像机、Dahua PoE、16 口 PoE、Ajax、Teltonika、车牌识别；仅 info@jpg.lt）— · 未取 · 未取 · 成立 未取 · 未取",
+    "url": "https://jpg.lt/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

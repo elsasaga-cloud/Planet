@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Sunbiz（SILMAR ELECTRONICS, INC.；Florida Profit Co：Silmar Electronics, Inc.（silmarelectronics.com；Miami / Doral, Florida）— 1963-11-13 成立的美国最大 · FL Sunbiz 275645 · FEI 59-1028324 · ACTIVE · 成立 1963-11-13 · 3405 NW 113th Court, Miami (Doral), FL 33178",
+    "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/ByName",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

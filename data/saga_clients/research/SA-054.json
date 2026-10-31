@@ -463,6 +463,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · NJ 学区供应商报告（Red Bank BOE OPRA PDF，含税号）+ NJASA 会员名录（2017：SOFTNETWORKS LLC（softnetworks.net） · New Jersey LLC（NJ 实体号待补）· 联邦税号 46-134704 · 经营中（官网 2025-12、Yelp 2026-05 更新 · 成立 2011（Linke · 20 Troy Rd, Ste 4, Whippany, NJ 07981",
+    "url": "https://opramachine.com/request/39368/response/70687/attach/4/01%2026%2023%20Redacted%20report.PDF.pdf",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

@@ -234,5 +234,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 10933159（CONNECTEC LIMITED；Active：CONNECTEC LIMITED（connectec.uk；Wrexham）— 2017 年起的消防 / 安防 / 网络 / 电气全国分销商；**PLANET 授权分销商** + · Companies House 10933159 · VAT GB2774331 · Active（CS01 2026-02-17；AD01 20 · 成立 2017-08-25 · Unit 4 Wrexham Midpoint, Dolydd Road, Wrexham LL13 7AJ",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10933159",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

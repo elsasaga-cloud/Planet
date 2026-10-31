@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：extralink24.com/regulamin（KRS / NIP / REGON / 地址）：Batna Sp. z o.o. — 品牌 Extralink（extralink24.com / .eu；**官网 Regulamin：KRS 0001003926（Sąd Re · KRS 0001003926 / NIP 5732901461 · 营业中（2024–2026 赞助 / 网店） · 成立 未取（经营 20+  · ul. Boznańskiej Olgi 3E, 42-202 Częstochowa",
+    "url": "https://www.extralink24.com/regulamin/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

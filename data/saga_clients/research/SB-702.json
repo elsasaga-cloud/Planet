@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn（康聯訊科技股份有限公司 Connection Technology Systems ：康聯訊科技股份有限公司 Connection Technology Systems Inc.（CTS；ctsystem.com；**上櫃 TPEx 3672；統一編號 167445 · 統一編號 16744506 / TPEx 3672 · 上櫃 / 核准設立 / 營業中 · 成立 1998-10-06 · 新北市汐止區新台五路一段79號18樓之6",
+    "url": "https://twincn.com/item.aspx?no=16744506",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

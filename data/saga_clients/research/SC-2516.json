@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：aplikuj.pl/pracodawca/19089（KRS 0000838329；sp. z ：AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.（aat.pl / novuscctv.com；**aplikuj：KRS 0000838329（注册 2 · KRS 0000838329 · 营业中（KRS 2020 新主体存续） · 成立 1993（现主体 2 · Warszawa, Mazowieckie（街道未取）",
+    "url": "https://www.aplikuj.pl/pracodawca/19089/aat-systemy-bezpieczenstwa-sp-z-o-o/opinie",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

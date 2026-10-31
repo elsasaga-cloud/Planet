@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US→CA · 1 次检索：官网 About（leading manufacturer of Security Came：Galaxy Security Corporation（galaxysecurity.com；**加拿大安大略 Markham**，非美国）— 2006 年成立的北美 CCTV 自 · 安大略公司（登记号未取） · Active · 成立 2006 · 7755 Warden Ave, Unit 1, Markham, ON L3R 0N3, Canada（+ 1200 Aerowood Dr, Mississ",
+    "url": "https://www.galaxysecurity.com/pages/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

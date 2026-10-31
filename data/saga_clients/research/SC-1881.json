@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SK · 1 次检索：foaf.sk/36323551（Sa/10609/R；2002；Továrenská 4201/：TSS Group a. s.（tssgroup.sk；**foaf.sk / ifirmy / pracuj：IČO 36323551；DIČ 2020116505；Továre · IČO 36323551 · 营业中（登记更新 2026-10-07） · 成立 2002-04-24 · Továrenská 4201/50, 018 41 Dubnica nad Váhom",
+    "url": "https://www.foaf.sk/36323551",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

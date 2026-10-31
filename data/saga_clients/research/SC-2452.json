@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：crunchbase（Leistung S.L.U.；Movok；11-50）+ paxinasg：Leistung S.L.U.（分销品牌 A-SECUR；a-secur.com；**Crunchbase：A-SECUR 为 Leistung S.L.U. 的分销品牌，面向专业 · 未取（CIF 1 查未得；法人名 Leistung S.L.U.） · 营业中（招聘 / 官网在线） · 成立 未取（>15 年） · Anel da Lagoa 18, Pol. Ind. Veigadaña, 36415 Mos (Pontevedra)",
+    "url": "https://www.crunchbase.com/organization/a-secur",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

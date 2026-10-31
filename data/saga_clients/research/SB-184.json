@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：vernetzen.com/about-us 2026-10-08（The Global Spec：Vernetzen Pty Ltd（vernetzen.com.au / vernetzen.com；**Unit 26, 23 Ashtan Place, Banyo QLD 4 · 未取（ABN 1 查未得） · 营业中（官网 2026-10 更新） · 成立 未取 · Unit 26, 23 Ashtan Place, Banyo QLD 4014, Australia",
+    "url": "https://www.vernetzen.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

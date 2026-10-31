@@ -165,5 +165,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：LinkedIn（1998 创立；51–200 人；Şişli；20+ 年多项技术首次引入土耳其）：Biges Güvenli Hayat Teknolojileri Elektronik A.Ş.（biges.com；Şişli / İstanbul）— 1998 起的安防技术 · MERSİS 未取 · Active（2026 仍在招聘） · 成立 1998 · Piyalepaşa Bulvarı No:77 Famas Plaza B Blok, 34384 Şişli / İstanbul",
+    "url": "https://tr.linkedin.com/company/biges-as",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

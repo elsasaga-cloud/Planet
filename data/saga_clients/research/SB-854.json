@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网首页 / Kontakt（NetCat SYSTEMS GmbH；Weißdornweg 24：NetCat SYSTEMS GmbH（netcatsystems.de；北威州 Kamen）— 2003 年成立的 IT 采购 / 供应链服务商（「We supply IT」：C · 未取（GmbH；Amtsgericht Hamm 推定；部分坐实） · Active（LinkedIn 近期发帖） · 成立 2003 · Weißdornweg 24, 59174 Kamen（NRW）",
+    "url": "https://netcatsystems.de/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

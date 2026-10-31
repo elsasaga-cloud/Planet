@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：官网 Terms（「Hunters Wholesalers, a trading name of ：SSED Ltd（T/A Hunters Wholesalers；hunters-wholesalers.co.uk；Maidenhead，前址 Slough / Langley） · Companies House 04864055（SSED Ltd）；旧壳 HU · Active（站点在线；多址运营） · 成立 2003（自述；SS · Trade City, Unit 3 Martin Road, Clivemont Park, Maidenhead SL6 7DZ（另址 Unit 4A Ke",
+    "url": "https://www.hunters-wholesalers.co.uk/information/terms?language=en-gb",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

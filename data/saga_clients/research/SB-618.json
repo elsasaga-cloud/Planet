@@ -207,5 +207,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：australia247.info（Jea Technologies；1/72 Bayfield ：JEA Technologies Pty Ltd（jeatech.com.au；**2003 年成立；Unit 1, 72 Bayfield Road East, Bayswate · 未取（ABN 1 查未得） · 营业中（官网在） · 成立 2003 · Unit 1, 72 Bayfield Road East, Bayswater North VIC 3153, Australia",
+    "url": "https://www.ithistory.org/db/companies/jea-technologies",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

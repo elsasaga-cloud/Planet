@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 01091353（Private limited company；：Amplicon Liveline Limited（amplicon.com；Brighton）— 工业计算 / 数据通信 / 测控 / 安防自动化分销商（1973；Amplico · Companies House 01091353 · Active（账目至 2024-06-30 已交 2025- · 成立 1973-01-18 · Unit 11 Centenary Industrial Estate, Hollingdean Road, Brighton BN2 4AW",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01091353",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

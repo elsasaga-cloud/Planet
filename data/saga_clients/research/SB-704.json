@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IL · 1 次检索：kycisrael.com/companies/512146788/ethical-ltd（Reg：Ethical Ltd（ethical-ltd.com；**kycisrael：Registration Number 512146788；Private Limited；Acti · 公司号 512146788 · Active（年报 2025） · 成立 1995-05-10 · 33 Shmuel Tamir St., Tel Aviv 6963717, Israel",
+    "url": "https://www.kycisrael.com/companies/512146788/ethical-ltd/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

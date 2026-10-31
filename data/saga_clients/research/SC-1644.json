@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：yellowpages.vn（MST / 地址 / 电话 / 邮箱 / 成立 / 人数）+ job：Công Ty TNHH Viễn Thông Hoàng Thạch（vienthonghoangthach.com；**MST 0316813026；425 Cộng Hòa, · 0316813026（MST） · 营业中（目录 2023） · 成立 2021 · 425 Cộng Hòa, Phường 15, Quận Tân Bình, TP.HCM",
+    "url": "https://www.yellowpages.vn/lgs/1187845410/cong-ty-tnhh-vien-thong-hoang-thach.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：amc-systeme.de/impressum.html（HRB / GF / USt）+ al：AMC – Analytik & Messtechnik GmbH Chemnitz（amc-systeme.de；**Impressum：Heinrich-Lorenz-Str. · HRB 995（Amtsgericht Chemnitz） · 营业中（官网在线） · 成立 1990 · Heinrich-Lorenz-Str. 55, 09120 Chemnitz",
+    "url": "https://www.amc-systeme.de/impressum.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

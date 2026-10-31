@@ -226,5 +226,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FI · 1 次检索：kauppalehti（Avstek Oy；Y-tunnus 2721676-8；Toimiala：Avstek Oy（avstek.fi；海门林纳 Hämeenlinna Vanajantie 10a, 13110（注册地 Janakkala；PL 21, 14201 Ture · Y-tunnus 2721676-8 · Aktiivinen · 成立 2015-10-30 · Vanajantie 10a, 13110 Hämeenlinna",
+    "url": "https://www.finder.fi/Turvaj%C3%A4rjestelm%C3%A4t/Avstek+Oy/H%C3%A4meenlinna/yhteystiedot/3101598",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

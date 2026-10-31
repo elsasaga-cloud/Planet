@@ -226,5 +226,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 Executive（Chip Yodzis — Executive Chairman，亦任控：DOW Technologies = DEDC, Inc.（控股 DOW Equity Holdings, Inc.；dowtechnologies.com；Tampa, Flor · FL 公司 DEDC, Inc.（Sunbiz 文件号未取）；控股 DOW Eq · Active（2025 新聘报道） · 成立 1959（DOW E · 8603 Adamo Drive, Tampa, FL 33619",
+    "url": "https://www.dowtechnologies.com/executive",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -151,5 +151,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NL · 1 次检索：tweakers.net shopreview（Abigo4u；www.abigo4u.com；K：AbiGo4u.com — onderdeel van Arcobel Embedded Solutions BV（Cereslaan 10, 5384 VT Heesch；KvK · KvK 17140959 · Actief · 成立 未取（KvK 171 · Cereslaan 10, 5384 VT Heesch",
+    "url": "https://abigo4u.com/nl/industrial-networking/media-converter.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

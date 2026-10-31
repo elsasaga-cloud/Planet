@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：sarcitalia.it/sarc-italia-privacy-policy.php（法人 /：SARC ITALIA SRL（sarcitalia.it；**官网 privacy + registroaziende / reportaziende：P.IVA / C.F.  · 03184880361（P.IVA；REA MO-365943） · 营业中（Attiva） · 成立 未取 · Strada Albareto 503, 41122 Modena",
+    "url": "https://www.sarcitalia.it/sarc-italia-privacy-policy.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

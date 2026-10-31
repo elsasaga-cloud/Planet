@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：LinkedIn（Algo Communication Products Ltd；Founded ：Algo Communication Products Ltd.（algosolutions.com；4500 Beedie Street, Burnaby, BC V5J 5L2 · SAM UEI ZXSBJM33KYN5 / CAGE 3AC08（BC 号未取 · Active · 成立 1968 · 4500 Beedie Street, Burnaby, BC V5J 5L2",
+    "url": "https://ca.linkedin.com/company/algo-communication-products-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

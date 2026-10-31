@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 hakkımızda（2005 Gaziantep 成立、软件 + IT 服务 + 网络 /：Ebatek Bilişim Teknolojileri（Gaziantep） · 未取 · Aktif（官网 + 社媒在线） · 成立 2005（官网） · İncilipınar Mh. 36001 Nolu Sk. Emir İş Merkezi No:8/B, Şehitkamil / Gaziantep（东南",
+    "url": "https://www.ebatek.com/page.asp?s=hakkimizda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：ccontrols.de Impressum（Contemporary Controls GmbH：Contemporary Controls GmbH（ccontrols.de；Leipzig）— 美国 Contemporary Controls 欧洲子公司 = 同行 · HRB 24731（Amtsgericht Leipzig）；曾 HRB 214 · Active · 成立 2006-10（Ei · Fuggerstraße 1 B, 04158 Leipzig",
+    "url": "https://www.northdata.de/Contemporary+Controls+GmbH,+Leipzig/HRB+24731",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

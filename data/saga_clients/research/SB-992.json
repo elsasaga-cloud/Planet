@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CY · 研究档既有事实（D&B 公开：Key Principal Charalampos Charalampous；C：WAVE ELECTRONICS LIMITED · HE 19231（Department of Registrar of Comp · Active（推定；官网在线） · 成立 1983-03-15 · Cyprus（研究档）",
+    "url": "https://efiling.drcor.mcit.gov.cy/DrcorPublic/SearchForm.aspx",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

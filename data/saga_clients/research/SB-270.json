@@ -177,5 +177,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：damixsat.pl o-firmie / regulamin / polityka（FHU D：FHU DAMIX Damian Marciniak（damixsat.pl；Kościan）— 个体 SAT/RTV 网店 · NIP 6981620419 / REGON 386854875（CEIDG 个 · Aktywna（官网 2026-10 更新） · 成立 2006 · ul. Balcera 40, 64-000 Kościan（wielkopolskie）",
+    "url": "https://www.damixsat.pl/webpage/o-firmie.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

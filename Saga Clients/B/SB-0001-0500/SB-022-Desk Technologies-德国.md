@@ -241,9 +241,13 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：DE · 1 次检索：shop.desk-sicherheit.de/impressum（DESK SICHERHEIT：Desk Sicherheit GmbH（desk-sicherheit.de；Karlsruhe）— 微型安保 / 安防技术公司，GF = 研究档 KP · Amtsgericht Mannheim HRB 717686 · Active · 成立 2013-06-28 · Roonstraße 25, 76137 Karlsruhe — <https://www.northdata.com/Desk%20Sicherheit%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20717686>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

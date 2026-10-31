@@ -207,5 +207,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PK · 1 次检索：mutexsystemsltd.com/about（UK-headquartered techno：Mutex Systems Ltd（mutexsystemsltd.com；**英国总部 Ealing Cross, 85 Uxbridge Road, London W5 5BW · 未取（英国 Ltd；CH 号 1 查未取） · 营业中（官网 2025 更新） · 成立 未取 · Suite 716, 7th Floor, Park Avenue, PECHS Block 6, Shahrah-e-Faisal, Karachi, Pak",
+    "url": "https://mutexsystemsltd.com/about",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

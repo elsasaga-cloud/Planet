@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：n11 店铺 künye（Şirket Ünvanı rima elektronik bilişi：Rima Elektronik Bilişim ve Güvenlik Sistemleri San. ve Dış Tic. Ltd. Şti.（rimaelektronik.c · MERSİS 0735068165000012；VKN 7350681650 · Active（n11 / Turkcell 伙伴在列） · 成立 2010-07-15 · İstanbul（Kadıköy 侧；具体门牌官网未列；n11 店铺地址经核）",
+    "url": "https://www.n11.com/magaza/rimaelektronik",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

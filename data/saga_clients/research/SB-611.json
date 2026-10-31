@@ -217,5 +217,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（Avanis GmbH；Meisenstraße 79a, 33607 ：Avanis GmbH（avanis.de；Bielefeld，Technologiepark Meisenstraße）— 2003 年成立的有源网络设备销售与 WLAN 规划专 · HRB 37834（Amtsgericht Bielefeld）· LEI 52 · Aktiv · 成立 2003-04-22 · Meisenstraße 79a, 33607 Bielefeld",
+    "url": "https://avanis.de/impressum",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

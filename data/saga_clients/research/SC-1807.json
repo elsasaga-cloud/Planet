@@ -165,5 +165,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：linkedin（Moorthy D / 2013 / 产品线）+ indiamart moote：Mootek Technologies（mootek.in / mootek.co.in；**Chennai；GST 33AQSPM9347C1ZJ（indiamart；PAN A · 33AQSPM9347C1ZJ（GSTIN） · 营业中（indiamart 2025 / LinkedIn） · 成立 2013 · Chennai, Tamil Nadu（街道未取）",
+    "url": "https://www.mootek.co.in/industrial-ethernet-switches.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

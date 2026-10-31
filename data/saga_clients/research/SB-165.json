@@ -155,5 +155,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：canadacompanyregistry.com（YM INC. (SALES)；50 DUFF：YM Inc.（yminc.ca / ym-inc.com；50 Dufflaw Road, Toronto, ON M6A 2W1；销售实体 YM INC. (SALES) 联邦 · 联邦公司号 8228426（YM INC. (SALES)）/ BN 10526 · Active · 成立 2012-10-28 · 50 Dufflaw Road, Toronto, ON M6A 2W1",
+    "url": "https://www.canadacompanyregistry.com/companies/ym-inc-sales-4/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

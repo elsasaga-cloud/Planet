@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：aetektec.com NDAA/TAA 聲明 PDF（AETEK Inc.；6F, No. 1：高譽科技股份有限公司 AETEK Inc.（aetektec.com；6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipe · 未取（統一編號 未得） · 营业中（官网在线） · 成立 未取 · 6F, No. 192-1, Lien-Cheng Rd., Zhonghe Dist., New Taipei City 235",
+    "url": "https://www.aetektec.com/Document/Download/dbd0c9ef-c308-4de4-b579-12306817e51b",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

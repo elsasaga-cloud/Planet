@@ -143,5 +143,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网首页 / Contact（profichip USA, Inc.；980 Birmingham：profichip USA, Inc.（profichipusa.com；Alpharetta, Georgia — **国家应为美国，研究档「德国」待核 → country_fi · GA 公司（SoS 号未取）；母体 profichip GmbH（Yaskawa · Active（站点在线） · 成立 2009（第三方） · 980 Birmingham Rd. #721, Alpharetta, GA 30004（邮箱套房）",
+    "url": "https://profichipusa.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

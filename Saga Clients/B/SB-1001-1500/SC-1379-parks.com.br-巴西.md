@@ -158,6 +158,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：OK 但无回信/非主攻；身份 登记坐实 · 路径 活 · 回信 none · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：BR · 1 次检索：econodata（CNPJ / CNAE / 成立）+ informecadastral / s：Parks S.A. Comunicações Digitais（parks.com.br；**CNPJ 92.679.331/0001-18；1972-08-01 成立；S.A. · 92.679.331/0001-18（CNPJ） · Ativa（Receita 2026） · 成立 1972-08-01 · Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615 — <https://www.econodata.com.br/consulta-empresa/92679331000118-parks-sa-comunicacoes-digitais>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z

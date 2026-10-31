@@ -213,5 +213,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：indiafilings（AADONA COMMUNICATION PRIVATE LIMITED：AADONA Communication Pvt. Ltd.（aadona.com；CIN U72900CT2018PTC008600（2018-06-18；RoC Chhatti · CIN U72900CT2018PTC008600 · Active · 成立 2018-06-18 · 1st Floor, Phoenix Tech Tower, Plot 14/46, IDA Uppal, Hyderabad 500039（注册地 Raipu",
+    "url": "https://www.indiafilings.com/search/aadona-communication-private-limited-cin-U72900CT2018PTC008600",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

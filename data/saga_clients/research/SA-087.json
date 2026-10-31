@@ -238,5 +238,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Canada · Ontario 数字公司（D&B / Crunchbase 法定名）+ 官网联系 / 门店 / 招聘页：2164929 ONTARIO INC.（o/a NSI Distribution；前 Norelco SafeCam / Norelco Telecom） · Ontario Corporation No. 2164929（数字公司，200 · 经营中（官网 2026-07 更新、招聘中） · 成立 安省编号 21649 · 27 Armthorpe Rd, Brampton, ON L6T 5M4（总部 + 自提店）",
+    "url": "https://www.dnb.com/business-directory/company-profiles.2164929_ontario_inc.a0bb631466051b01118696b4707541a0.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

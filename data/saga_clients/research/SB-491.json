@@ -190,5 +190,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：raskpreke.lt/en/privacy-policy-2（E-shop Rass-secu：Rass-security systems（raskpreke.lt 网店「Rask Prekę」；维尔纽斯 Panerių g. 64, LT-03160；įmonės koda · Įmonės kodas 305706724；PVM LT10001384961 · 部分坐实（法人形式未取） · 成立 ≈2021（代码段推 · Panerių g. 64, LT-03160 Vilnius",
+    "url": "https://www.raskpreke.lt/en/privacy-policy-2",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：find.com.tr 工商镜像（ünvan / 类型 / 成立日 / 区）+ lansan.co：Lansan（lansan.com.tr；Şişli / İstanbul） · Mersis / VKN 未取 · Aktif（域在用，2019-12 设立） · 成立 2019-12-04 · Şişli / İstanbul（街道地址未取）",
+    "url": "https://www.find.com.tr/Company/lansanteknolojianonimsirketi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

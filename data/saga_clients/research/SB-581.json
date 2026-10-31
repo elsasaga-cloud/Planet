@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：townin.com（Sheildify Security Equipment Trading L：Sheildify Security Equipment Trading LLC（Shieldify；sheildify.com；**2020 年成立；Khalifa BA Bal · 未取（LLC；牌照号 1 查未得） · 营业中（官网 2025-07 更新） · 成立 2020 · Tanvi Building Office 20, Port Saeed, Deira, Dubai, UAE (P.O. Box 118467)",
+    "url": "https://townin.com/Dubai/search/business/2264/Dubai/abu-hail/22b-street-abu-hail/sheildify-security-equipment-trading-llc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

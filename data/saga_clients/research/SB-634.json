@@ -177,5 +177,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：infodoanhnghiep.com（Công Ty Cổ Phần Thương Mại Kỹ：CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN / HOANG THIEN AN TECHNOLOGY CORP（hoangt · MST 0313394377 · Đang hoạt động（营业中） · 成立 2015-08-11 · 29 Đường DD11, P. Tân Hưng Thuận, Q.12, TP. Hồ Chí Minh, Việt Nam",
+    "url": "https://infodoanhnghiep.com/thong-tin/Cong-Ty-Co-Phan-Thuong-Mai-Ky-Thuat-Hoang-Thien-an-94377.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

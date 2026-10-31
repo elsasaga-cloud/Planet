@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：perkotek.com/firma-profili（1995 起；门禁 / 考勤 / 安防 / ：Perkotek Teknoloji Dış Tic. A.Ş.（perkotek.com；Bağcılar / İstanbul）— 门禁 / 考勤制造商，3,000 经销商、出 · MERSİS 未取 · Active · 成立 2016-06-01 · Mahmutbey Mah. Ordu Cad. Perkotek Plaza No:29, 34218 Bağcılar / İstanbul",
+    "url": "https://www.perkotek.com/firma-profili",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

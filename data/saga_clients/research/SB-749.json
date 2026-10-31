@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：LinkedIn（E.C.I. NETWORKS INC.；Montreal；11-50；Foun：E.C.I. Networks Inc.（ECI Networks；ecin.ca；蒙特利尔 1405 Trans Canada Route, Dorval, QC H9P 2V9 · 未取（NEQ） · Active · 成立 1998 · 1405 Trans Canada Route, Dorval, QC H9P 2V9",
+    "url": "https://www.ecin.ca/home",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

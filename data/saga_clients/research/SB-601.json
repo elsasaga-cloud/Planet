@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PT · 1 次检索：visus.pt/politica-de-privacidade（OptiVisus, Lda.；：OPTIVISUS, LDA（商号 Visus / OptiVisus；原名 CENTRO DE OPTOMETRIA OPTIVISUS, LDA；visus.pt；里斯本 Ru · NIPC 502 752 980 · Ativa · 成立 1991-01 · Rua Capitão Ramires 17-A, R/C Esq., 1000-084 Lisboa",
+    "url": "https://www.einforma.pt/servlet/app/portal/ENTP/prod/ETIQUETA_EMPRESA_SITE/nif/502752980/website/www.visus.pt/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

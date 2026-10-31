@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：intercreditreport / Sunbiz 摘录（FIBERTRONICS, INC.；：Fibertronics, Inc.（fibertronics.com；Melbourne, Florida）— 2009-06-05 成立的美国定制光纤线缆组件制造商（MTP/M · FL Sunbiz P09000049074 · FEI 38-3801080 · Active · 成立 2009-06-05 · 2900 Dusa Drive, Melbourne, FL 32934（Bloomberg 列 3735 Peacock Dr, Melbourne, FL ",
+    "url": "https://florida.intercreditreport.com/company/fibertronics-inc-p09000049074",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

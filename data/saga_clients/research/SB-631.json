@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NG · 1 次检索：businesslist.com.ng/company/266231（Gigaxysafe Tec：Gigaxysafe Technologies Ltd（gigaxysafe.com.ng；**businesslist.com.ng / spiceworks：Suite 28F · 未取（CAC RC 号 1 查未得） · 营业中（网店 2022+） · 成立 2012 · Suite 28F, Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja, Nigeria",
+    "url": "https://www.businesslist.com.ng/company/266231/gigaxysafe-technologies-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

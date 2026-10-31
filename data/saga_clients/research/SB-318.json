@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SE · 1 次检索「Verdelon AB organisationsnummer verdelon.com alla：Verdelon（verdelon.com；研究档记瑞典；「Industrial-Grade Networking Hardware」自有品牌工业以太网 / PoE 交换机（L2  · 未取（未坐实） · 未核 · 成立 未取 · 未取（研究档：瑞典）",
+    "url": "https://verdelon.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

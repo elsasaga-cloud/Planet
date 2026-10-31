@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：yeastar.com.au/contact（Head Office: Aristel Netwo：Aristel Networks Pty Ltd（aristel.com.au；**ABN 57 095 422 450；Unit 1, 25 Howleys Road, Nott · ABN 57 095 422 450 · 营业中（ABN 在；官网在） · 成立 未取（ABN 095 · Unit 1, 25 Howleys Road, Notting Hill VIC 3168, Australia",
+    "url": "https://yeastar.com.au/contact/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

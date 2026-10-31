@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：luxmediaplan.de/contact（LMP Lux Media Plan，Sabine：LMP Lux Media Plan（luxmediaplan.de；Wiesbaden）— 广电微型相机 / 光纤组件，个体企业 · 个体企业（无 HRB；USt DE113809490） · Active · 成立 1986 · Platter Strasse 168a, 65193 Wiesbaden",
+    "url": "https://www.luxmediaplan.de/contact/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

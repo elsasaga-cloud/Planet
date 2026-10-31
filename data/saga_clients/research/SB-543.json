@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · Northdata（HRB、LEI、Siren、GF 更替、利润转移协议、商标 / 专利、2024 资产 / ：Friedrich Lütze GmbH（Amphenol 集团，2024-10 起） · Amtsgericht Stuttgart HRB 740258 · LEI 5 · Aktiv · 成立 2012-02-07 · Bruckwiesenstr. 17-19, D-71384 Weinstadt（斯图加特东）",
+    "url": "https://www.northdata.de/Friedrich%20L%C3%BCtze%20GmbH,%20Weinstadt",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

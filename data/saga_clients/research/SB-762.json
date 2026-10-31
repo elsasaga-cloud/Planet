@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Iridium 合作伙伴页（Ground Control Technologies UK Ltd（：Ground Control Technologies UK Ltd（groundcontrol.com；Churcham, Gloucestershire）— 2025-10 起 · Holdings 10888253（Ground Control Technol · Active（2025-10 被 CLS 收购） · 成立 2017-07-28 · Unit D2, Churcham Business Park, Churcham, Gloucestershire, GL2 8AX",
+    "url": "https://www.cls.fr/en/acquisition-ground-control/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

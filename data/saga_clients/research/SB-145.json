@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Northdata（AG Neuss HRB 5172；2024-09-25 合并为 AddSec：DigiComm Gesellschaft für Kommunikationssysteme mbH → AddSecure DigiComm GmbH（digicomm.de； · AG Neuss HRB 5172（合并后主体 AddSecure DigiCo · Aktiv（2024-09 吸收合并入 AddSecure  · 成立 1987 · Breite Str. 10, 40670 Meerbusch（02159 69375-0）",
+    "url": "https://www.northdata.com/DigiComm%20Gesellschaft%20f%C3%BCr%20Kommunikationssysteme%20mbH,%20Meerbusch/Amtsgericht%20Neuss%20HRB%205172",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -226,5 +226,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：xlrsecurity.com（legalName XLR Security Inc.；1 Hig：XLR Security Inc.（xlrsecurity.com；Unit 15 – 1 High Meadow Pl, Toronto (Etobicoke / North Y · 未取（登记号） · Active · 成立 2022 · Unit 15 – 1 High Meadow Pl, Toronto, ON M9L 0A3",
+    "url": "https://www.xlrsecurity.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -268,13 +268,14 @@ A 确认（欧洲分销 + 已贴牌 N-Net 工业 PoE + 已回复）：对位 RF-
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：monitorfirm / 官网：RFOG POLAND Tomasz Paszkowski · ul. Starogrodzka 1/2, 72-300 Gryfice · NIP 8571157213 · REGON 811833063 · 成立 2011-02-22 · 主业 Sprzedaż hurtowa sprzętu elektronicznego i telekomunikacyjnego；产品：光纤器件、SFP/GBIC、媒体转换器、复用器、WDM/DWDM、CATV 光传输、门禁/生物识别 — <https://www.rfog.pl/rfog,9,kontakt>　*个体工商户（一人公司）形式的批发商 → A-DEEP-04 下放 B*
+- 2026-10-30：Polska · CEIDG 公开条目（aplikacja.ceidg.gov.pl）+ monitorfirm / G：RFOG POLAND TOMASZ PASZKOWSKI（个体经营；商号 RFoG / P.H.U. RFoG） · NIP 8571157213 · REGON 811833063 · VAT U · Aktywna（CEIDG；官网在线） · 成立 2011-02-22 · ul. Starogrodzka 1/2（名录另见 12）, 72-300 Gryfice, zachodniopomorskie — <https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/searchdetails.aspx?id=cc8bc4bd-72d9-4047-a1df-f1ba8be824b9>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

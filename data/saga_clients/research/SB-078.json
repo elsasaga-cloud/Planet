@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CH · 1 次检索：moneyhouse（SITIS Sàrl；Genève；entry 04.01.2012；CH-：SITIS Sàrl（sitis.ch；日内瓦 Rue Rousseau 15, 1201；UID CHE-150.026.203；CH-660.0.018.012-4）— 201 · UID CHE-150.026.203；CH-660.0.018.012-4 · Aktiv · 成立 2012-01-04 · Rue Rousseau 15, 1201 Genève",
+    "url": "https://www.moneyhouse.ch/en/company/sitis-sarl-5661522431",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

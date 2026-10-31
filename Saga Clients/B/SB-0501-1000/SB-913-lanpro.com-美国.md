@@ -217,10 +217,21 @@ updated: 2026-10-31
 | ? | 89 | 48口 |  | A |  | US.xlsx#133 |
 | ? | 98 | 28poe |  | A |  | US.xlsx#133 |
 
-## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+## B 分层（B-PASS-02 · 2026-10-31）：**B2**
 
-- 依据：强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
+- 依据：强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活；B-PASS-02 2026-10-31：LanPro：5–9 人小品牌 → B2；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：Sunbiz 详情（P03000135286，2003-11-19，FEI 20-3029519，：LanPro Networks Inc.（原 LanPro of Miami, Inc.；Doral, FL） · FL Document P03000135286 · FEI/EIN 20-30 · Active（Sunbiz） · 成立 2003-11-19 · 1880 NW 93rd Ave, Doral, FL 33172（迈阿密机场工业区） — <https://www.lanpro.com/>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-31：ZoomInfo / Manta：LanPro Networks Inc（Lanpro of Miami）· Doral, FL · 1996 / 2012 · 1–10 employees（5–9）· Revenue <$5M（$1–2.5M）· CFO Kathryn Jechura · 网络组件品牌（拉美导向） — <https://www.zoominfo.com/c/lanpro-networks-inc/354457623>　*实为 5–9 人小品牌（研究档「量大」不成立）→ B-PASS-02 调 B2*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

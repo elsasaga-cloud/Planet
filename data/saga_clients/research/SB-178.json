@@ -246,5 +246,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：wisp.pl/info（Allnet Sp. z o.o. Sp.k.；ul. Dębowa 2：Allnet Sp. z o.o. Sp.k.（wisp.pl；Bełk k. Rybnika）— MikroTik 增值分销 + Ubiquiti 经销，家族企业 · KRS 0000379258（NIP 6423156422；REGON 2418 · Aktywna · 成立 2011-02-28 · ul. Dębowa 2A, 44-237 Bełk（Czerwionka-Leszczyny，k. Rybnika）",
+    "url": "https://wisp.pl/info/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

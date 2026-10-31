@@ -229,5 +229,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：tracxn（NEXTGEN AUTOMATION PRIVATE LIMITED CIN U31：NextGen Automation Pvt. Ltd.（NGAPL；ngapl.in / ngapl.com；CIN U31200WB2002PTC094683（2002-05- · CIN U31200WB2002PTC094683 · Active · 成立 2002-05-24 · PS PACE, Unit 102, 1st Floor, 1/1A Mahendra Roy Lane, Kolkata 700046",
+    "url": "https://www.zaubacorp.com/NEXTGEN-AUTOMATION-PRIVATE-LIMITED-U31200WB2002PTC094683",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

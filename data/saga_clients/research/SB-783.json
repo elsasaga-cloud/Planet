@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 Company（创办人曾管理 Belden 光纤新业务；1984-03 作为 Illinoi：S.I. Tech, Inc.（sitech-bitdriver.com；Batavia, IL）— 1984 年起光纤调制解调器 / 复用器 / 中继器制造商（收购 Belden · Illinois Corporation（1983-09-22；IL SoS 文 · Active（BBB 档案；站点在线） · 成立 1983-09-22 · 1101 N. Raddant Road, Batavia, IL 60510-4214（汇款 P.O. Box 609, Geneva IL）",
+    "url": "https://www.bbb.org/us/il/batavia/profile/fiber-optics/s-i-tech-0654-88092127",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：recordowl（ANEWTECH SYSTEMS PTE LTD；Registration N：Anewtech Systems Pte Ltd（anewtech.net；**UEN 199903145E（1999 年号段；ltddir 记 UEN 签发 2008-09-11 · UEN 199903145E · Live Company · 成立 1999（UEN 签 · 62 Ubi Road 1 #04-14 Oxley Bizhub 2, Singapore 408734",
+    "url": "https://recordowl.com/company/anewtech-systems-pte-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

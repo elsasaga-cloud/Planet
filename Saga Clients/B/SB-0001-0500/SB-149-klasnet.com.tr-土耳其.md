@@ -195,13 +195,14 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：官网：KLASNET İLETİŞİM VE GÜVENLİK · Üçevler Mah. Dumlupınar Cad. 120 A Nilüfer/BURSA · info@klasnet.com.tr · +90 224 443 55 27 · GSM +90 546 546 37 43；「Sektördeki 14 yıllık tecrübemizin verdiği güven ile 2021 yılında ticari faaliyetlerimize başlamış bulunmaktayız」；业务 Fiber Optik Kablolama / Kamera / Network / Güvenlik / Zayıf Akım 交钥匙项目 — <https://klasnet.com.tr/>　*2021 年成立的布尔萨小型弱电/光纤布线承包商（创始人 14 年行业经验）；注意不要与 Şanlıurfa 的 klassnet.com.tr 网吧混淆*
+- 2026-10-30：TR · 1 次检索：仅命中官网首页 / 联系页（2021 开业、14 年经验、Nilüfer 地址）；法定类型 / T：KLASNET İLETİŞİM VE GÜVENLİK（Bursa） · 未取 · Aktif（官网在线） · 成立 2021（官网：「1 · Üçevler Mah. Dumlupınar Cad. 120 A, Nilüfer / Bursa — <https://klasnet.com.tr/>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

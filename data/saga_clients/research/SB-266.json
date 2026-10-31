@@ -206,5 +206,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：finmag（Axilogi s.r.o.；IČO 10964703；DIČ CZ10964703：Axilogi s.r.o.（axilogi.com；比尔森 Plzeň – Skvrňany Daimlerova 1161/6, 301 00；IČO 10964703；DIČ · IČO 10964703；DIČ CZ10964703；C 123877（网站称 · Aktivní（统法机关缺位；2026-03 法院指定 op · 成立 2021-06-23 · Daimlerova 1161/6, 301 00 Plzeň – Skvrňany",
+    "url": "https://www.finmag.cz/obchodni-rejstrik/10964703-axilogi-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

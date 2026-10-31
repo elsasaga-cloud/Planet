@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：media-konwertery.pl Dane rejestrowe（INTER-COMP.PL：INTER-COMP.PL KOWALSKI sp. z o.o.（media-konwertery.pl；Koronowo）— 2025 新公司化的父子网店 · KRS 0001157117（NIP 5543033437；REGON 5409 · Aktywna · 成立 2025-02-25 · ul. Dworcowa 36a/9, 86-010 Koronowo",
+    "url": "https://rejestr.io/krs/1157117/inter-comp-pl-kowalski",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -212,5 +212,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NZ · 1 次检索：dnb.com（SECURITY WHOLESALE 2001 LIMITED；DBA SWL；K：Security Wholesale 2001 Limited（DBA SWL；swl.co.nz；**D&B：Key Principal Andrew Eric Jones；92 · 未取（NZBN 1 查未得；法定名 Security Wholesale 200 · 营业中（D&B + 官网） · 成立 2001（名称推定） · 922 Great South Road, Penrose, Auckland 1061, New Zealand",
+    "url": "https://www.dnb.com/business-directory/company-profiles.security_wholesale_2001_limited.ae524adacb574def950a62011c209631.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

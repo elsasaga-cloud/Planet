@@ -163,5 +163,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · LinkedIn 人物页（Ahmet Karcı：kurucu ortak / Firma Sahi：PELİKAN BİLGİSAYAR HİZMETLERİ İTHALAT İHRACAT（Pelikan Bilişim；Perpa） · Ticaret Sicili 未取（名录称 Şti.；法定全称 PELİKAN  · Aktif（官网网店在线；Perpa 商城 A 座 4 层  · 成立 2003-07 · Perpa Ticaret Merkezi A Blok Sarı Avlu K:4 No:271, Okmeydanı-Şişli / İstanbul（旧址",
+    "url": "https://www.linkedin.com/in/ahmet-karci-09743337/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

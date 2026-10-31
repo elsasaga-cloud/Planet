@@ -237,5 +237,30 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About（legalName Tycon Systems Inc.；foundingDat：Tycon Systems Inc.（DBA Tycon Power Systems；tyconsystems.com；Bluffdale, Utah）— 2008 年由 Scot · UT 公司（DBA 备案 6970120-0151）· SAM UEI V8M1 · Active（SAM 2025-12-31 激活） · 成立 2008-01-01 · 930 W 14600 S, Suite 600, Bluffdale, UT 84065",
+    "url": "https://opengovus.com/sam-entity/V8M1PCBVGN91",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "ZoomInfo / Datanyze / Tracxn：Tycon Systems · 14641 S 800 W Ste A, Bluffdale, Utah 84065 · Founded 2008 · 15–18 employees · Revenue $5.9M · 离网供电（太阳能/风能）+ PoE 转换器 + 无线桥接 · 融资 $150K",
+    "url": "https://www.zoominfo.com/c/tycon-systems-inc/346482214",
+    "note": "自牌 TP- 系列 PoE/供电产品商（15–18 人、$5.9M）→ PoE 交换机 OEM 对位",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

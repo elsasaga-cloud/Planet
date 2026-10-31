@@ -234,5 +234,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ID · 1 次检索：pt-aag.co.id/?page_id=57（Sawangan Permai, Jalan A：PT Anugerah Artha Guna（pt-aag.co.id；**官网 contact：Sawangan Permai, Jalan Anggrek Blok B5 no · 未取（NIB / NPWP 1 查未得） · 营业中（官网在） · 成立 未取 · Sawangan Permai, Jalan Anggrek Blok B5 no.2, RT.03 RW.09, Depok 16519, Indonesia",
+    "url": "https://pt-aag.co.id/?page_id=57",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

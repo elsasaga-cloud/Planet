@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About / Careers（2000 年 College Point NY 首店；201：ENS Security（原 EasternCCTV；enssecurity.com；Plainview, New York）— 2000 年 College Point NY 起 · NY 实体（法定名 / DOS 号未取 → 部分坐实） · Active（2026 站点更新） · 成立 2000 · 50 Commercial St., Plainview, NY 11803（总部）；分部 College Point NY / City of Industr",
+    "url": "https://enssecurity.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

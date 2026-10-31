@@ -161,5 +161,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CH · 1 次检索：moneyhouse.ch（MEDIAS-COM'S SA in Lens；active；Foun：MEDIAS-COM'S SA（medias-coms.ch；Place du Village 18, 1978 Lens (VS)；UID CHE-394.326.893；CH- · UID CHE-394.326.893 / CH-626.3.019.073-4 · Active · 成立 2018-11-02 · Place du Village 18, 1978 Lens (VS)",
+    "url": "https://www.moneyhouse.ch/en/company/medias-coms-sa-21311210971",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

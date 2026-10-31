@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：fiberopticcableshop.com 首页 + about（1976 年起、三次 INC：Fiber Optic Cable Shop（fiberopticcableshop.com / FiberMailbox.com；Richmond CA） · 加州登记号未取（CA SoS 为 JS 页） · Active（官网在售、2024-11 快照） · 成立 1976（业务起点； · 136 South Second Street, Richmond, CA 94804（800-777-6269 / 510-234-9090）",
+    "url": "https://www.fiberopticcableshop.com/about-fiber-optic-cable-shop.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

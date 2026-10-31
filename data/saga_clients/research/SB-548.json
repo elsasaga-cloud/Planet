@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About（Netsys-America (d/b/a www.netsys-direct.：Netsys-America, LLC（d/b/a netsys-direct.com；马里兰 Millersville）— 台湾 Netsys 网通产品在美 / 加 / 中南美  · MD LLC（SDAT 号未取） · Active（网店在线） · 成立 未取 · 8338 Veterans Highway, Suite 205A, Millersville, MD 21108（旧址 Derwood / Bowie MD）",
+    "url": "https://www.netsys-direct.com/pages/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -157,5 +157,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：econodata.com.br/consulta-empresa/54793965000108（：tpnet.com.br（**1 查三家同名、均未与域名对齐 → 未坐实**：① Timmers Tecnologia Ltda t/a「Tpnet Tecnologia」CNPJ · 未取（候选 CNPJ 54.793.965/0001-08 / 16.679.9 · 未知（候选之一 2024 新壳） · 成立 未取 · 未取（Rio de Janeiro, RJ）",
+    "url": "https://www.econodata.com.br/consulta-empresa/54793965000108-TIMMERS-TECNOLOGIA-LTDA",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

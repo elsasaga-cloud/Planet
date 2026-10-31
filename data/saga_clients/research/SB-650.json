@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 İletişim（Beast Güvenlik Teknolojileri；Merdiven：BEAST GÜVENLİK TEKNOLOJİLERİ A.Ş.（BİGİS 名录写 BEAST GÜVENLİK TEKNOLOJİ SAN. DIŞ TİCARET A.Ş. · A.Ş.（İstanbul；BİGİS 会员号 34SND561-34077；M · Active（官网 2025-10 更新） · 成立 2021 · Merdivenköy Mah. Günaydın Sok. No 4, Göztepe / Kadıköy, İstanbul",
+    "url": "https://www.beastteknoloji.com/iletisim/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

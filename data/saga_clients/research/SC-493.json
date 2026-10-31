@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：bizno.net/article/3148625786（사업자 / 법인 / 대표 / 주소 /：(주)아이디스 IDIS Co., Ltd.（Intelligent Digital Integrated Security Co., Ltd.；idisglobal.com /  · 314-86-25786（사업자등록번호）/ 160111-0302755（법인 · 계속사업자（KOSDAQ 上市） · 成立 1997-09-24 · 대전광역시 유성구 테크노3로 8-10（관평동）34012",
+    "url": "https://bizno.net/article/3148625786",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

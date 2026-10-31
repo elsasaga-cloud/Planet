@@ -172,6 +172,16 @@ Dahua 摄像头之类的
 - 依据：OK 但无回信/非主攻；身份 登记坐实 · 路径 活 · 回信 none · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：MX · 1 次检索：comxport（RFC / 法人名 / 地址 / 进出口）+ cosmos.com.mx（业务 ：TVC en Línea.com, S.A. de C.V.（tvc.mx；**RFC TVC060802NE4；Camino al Mirador No. 5216, Col.  · TVC060802NE4（RFC） · 营业中（LinkedIn / 目录 2025） · 成立 2000（RFC 序 · Camino al Mirador No. 5216, Col. Del Paseo Residencial, 64920 Monterrey, Nuevo L — <https://www.comxport.com/co/tvc_en_lineacom_sa_de_cv-mexico-350701.php>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-07-04 → 2025-03-10　|　**最后去信**：2025-03-10

@@ -164,5 +164,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：starlink.co.kr 页脚（주식회사 유비큐넷；사업자등록번호 876-81-02587；：주식회사 유비큐넷 Ubiqnet Co., Ltd.（starlink.co.kr / ubiqnet.co.kr；**사업자등록번호 876-81-02587；통신판매업신고  · 사업자등록번호 876-81-02587 / 통신판매업 2022-서울용산-1 · 营业中（商城在线） · 成立 ≈2022（通信贩卖 · 서울 용산구 청파로 113-6, 넥서스밸리 905호",
+    "url": "https://starlink.co.kr/main/page.html?pid=8",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

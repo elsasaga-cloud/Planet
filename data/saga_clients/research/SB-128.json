@@ -177,5 +177,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：orbitadigital.com Legal warning（CONEXIÓN B2B 2005：Órbita Digital = CONEXIÓN B2B 2005, S.L.（orbitadigital.com；奥维耶多 Dr. Francisco Grande Coviá · CIF B74173303 · Active · 成立 2004（网店 20 · Dr. Francisco Grande Covián 3, Bajo, 33011 Oviedo（Asturias）",
+    "url": "https://www.orbitadigital.com/en/content/4-company",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

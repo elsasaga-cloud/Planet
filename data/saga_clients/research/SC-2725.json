@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：datoscif.es（CIF / 资本 / BORME）+ todotelecom.com/co：TODO TELECOM, S.L.（todotelecom.com；**datoscif + 官网 aviso legal：CIF B53673364；Registro Merc · B53673364（CIF；RM Alicante H A-71082） · 营业中（BORME 2023） · 成立 未取（2014 前） · Pol. Ind. Juyarco 40-A, 03700 Dénia (Alicante)",
+    "url": "https://www.datoscif.es/empresa/todo-telecom-sl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

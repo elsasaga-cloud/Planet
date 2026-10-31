@@ -182,5 +182,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · SEC EDGAR 10-K FY2004（AESP 曾为纳斯达克上市，CIK 1026744）+ E.D. ：AESP, Inc.（d/b/a Advanced Electronic Support Products；品牌 Signamax；子公司 Signamax, Inc.） · Florida corporation（1983 年注册；Sunbiz 不可抓） · 在营（D&B 列 Key Principal Vyaches · 成立 1983（佛罗里达） · 999 NW 159th Dr, Miami, FL 33169-5803",
+    "url": "https://www.sec.gov/Archives/edgar/data/1026744/000095014405005291/g94284e10vk.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "ZoomInfo / Datanyze / Manta：Signamax, Inc. · 999 NW 159th Dr, Miami, FL 33169 · Founded 1983 · 51–200（Datanyze 71 / Manta 29）· Revenue $9.8M · CEO Indika Kulatunga（Manta：President Vyacheslav Stein）· 产品线 media converters, Ethernet switches, copper & fiber cabling · 面向中小安防集成商 / AV 集成商 / 布线承包商，有分销与安装商计划",
+    "url": "https://www.datanyze.com/companies/signamax/158368051",
+    "note": "迈阿密连接产品品牌（交换机/MC 全系贴牌，$10M 级）→ OEM 30% 重点",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

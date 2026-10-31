@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：rejestr.io（KRS 0000046753；NIP 6342396659；REGON 27：PF Electronic Sp. z o.o.（pf-electronic.pl；Gliwice，原 Katowice） · KRS 0000046753 · NIP 6342396659 · REGON  · Aktywna（VAT 活跃） · 成立 2001-10-15 · ul. Stanisława Konarskiego 18C, 44-100 Gliwice（+48 32 256 25 33；旧址 Katowice Bedn",
+    "url": "https://rejestr.io/krs/46753/pf-electronic",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

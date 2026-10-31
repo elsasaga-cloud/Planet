@@ -113,5 +113,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ID · 1 次检索：companieshouse.id/suryatama-mitra-sejati（PT. Sury：PT. Suryatama（**gmail；1 查仅同名异业：PT. Suryatama Mitra Sejati（登记号 1431499，2023-04-10 成立，泗水仓储区） · 未取（同名异业，未对齐） · 未知 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

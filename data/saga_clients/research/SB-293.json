@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：OpenCorporates（VIRTUAL PROTECTIVE LLC；TX 08020328：VIRTUAL PROTECTIVE LLC（virtualprotective.com；德州 New Braunfels / Spring Branch；TX SoS 08020 · TX SoS 0802032860 · In Existence · 成立 2014-07-24 · 244 FM 306, Ste. 120-604, New Braunfels, TX 78130（登记代理 4215 Richmond Ave, Spring",
+    "url": "https://opencorporates.com/companies/us_tx/0802032860",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

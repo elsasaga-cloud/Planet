@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：davantel.com 首页 / Aviso legal（DESARROLLOS AVANZAD：DESARROLLOS AVANZADOS EN TELECOMUNICACIONES, S.L.（DAVANTEL；davantel.com；巴塞罗那 C/ Pardo 8 ba · CIF B63615553 · Active · 成立 2004-10-15 · C/ Pardo 8 bajos, 08027 Barcelona",
+    "url": "https://www.iberinform.es/empresa/2029783/desarrollos-avanzados-en-telecomunicaciones",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

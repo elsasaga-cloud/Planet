@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网首页 / About（「established in 1971 and is part of ：West Penn Wire（westpennwire.com；Washington, Pennsylvania）— 1971 年 Claysville PA 创立的低压线缆制造商 · PA 实体（Belden Inc. 旗下；实体号未取） · Active（Belden 子品牌） · 成立 1971 · Washington, PA 15301（门牌未取）",
+    "url": "https://www.westpennwire.com/about.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

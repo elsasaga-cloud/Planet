@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：官网页脚 / Zasady sprzedaży（Atel Electronics Sp. z o.：ATEL ELECTRONICS Sp. z o.o.（atel.com.pl；Opole）— 光纤技术 / 工业与无线通信元件进口分销商，**ORing Industrial N · KRS 0001010225 · NIP 7543356130 · REGON  · Aktywna（KRS 变更 2026-06-30） · 成立 2023-01-02 · ul. Oleska 121, 45-231 Opole",
+    "url": "https://krs-pobierz.pl/atel-electronics-spolka-z-ograniczona-odpowiedzialnoscia-i0001010225",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

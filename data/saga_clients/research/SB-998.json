@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvizitai.vz.lt（AKIS Technologies, UAB；Registrat：AKIS Technologies, UAB（原 UAB TIPAS；akistechnologies.com；维尔纽斯 M. K. Čiurlionio g. 82, LT-03 · Įmonės kodas 120113138；PVM LT201131314 · Veikiantis · 成立 1990-12-14 · M. K. Čiurlionio g. 82, LT-03100 Vilnius",
+    "url": "https://rekvizitai.vz.lt/en/company/tipas/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

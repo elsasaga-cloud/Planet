@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：ampliz（Netsys - National Enhance Technology Corpo：National Enhance Technology Corp.（Netsys；netsys.com.tw；**1999-06 成立**；9F, No. 208, Sec. 3, · 未取（統一編號 未得） · 营业中（官网在线） · 成立 1999-06 · 9F, No. 208, Sec. 3, Datong Rd., Xizhi Dist., New Taipei City 221",
+    "url": "https://www.ampliz.com/company/netsys-national-enhance-technology-corporation/89689431",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

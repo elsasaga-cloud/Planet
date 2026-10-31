@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：eltrox.pl/i/eltrox-strona-korporacyjna-324（ELTROX：ELTROX Sp. z o.o.（eltrox.pl / getfort.com；**官网页脚：ul. Warszawska 74, 42-208 Częstochowa；NIP · KRS 0000175807；NIP 6462490527；REGON 2769 · 营业中（KRS 存续；官网 2026） · 成立 2003 · ul. Warszawska 74, 42-202 Częstochowa",
+    "url": "https://www.eltrox.pl/i/eltrox-strona-korporacyjna-324",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

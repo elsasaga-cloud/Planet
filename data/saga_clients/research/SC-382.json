@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZA · 1 次检索：securitywarehouse.co.za/support/terms-conditions/：Security Warehouse (Pty) Ltd（securitywarehouse.co.za；**官网 T&C：Reg 2003/015829/07；VAT 46001 · 2003/015829/07（Reg No.）/ VAT 4600163721 · Active（官网 2025） · 成立 2003 · 118 Theuns Street, Hennopspark, Centurion 0172",
+    "url": "https://securitywarehouse.co.za/support/terms-conditions/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

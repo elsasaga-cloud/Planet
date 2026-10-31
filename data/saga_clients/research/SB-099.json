@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：bizapedia（ROCSTOR, INC.；2002-03-07 成立；登记代理人 David：Rocstor, Inc.（rocstor.com；San Fernando CA）— 存储 / 网络配件自有品牌，老板 = 研究档 KP · CA 公司（SoS 号未取；SAM UEI K79NXW8ZGNK4） · Active（SAM 在册） · 成立 2002-03-07 · 12979 Arroyo St, 2F, San Fernando, CA 91340",
+    "url": "https://opengovus.com/sam-entity/K79NXW8ZGNK4",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

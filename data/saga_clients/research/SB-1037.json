@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR/HK · 2 次检索（首轮「High’Trade SAS SIREN」仅命中 HEIGHT TRADE FRANC：High’Trade International（hightrade-international.com；研究档记法国，实际总部 27 Hillier Street, Sheung · 未取（未坐实） · 未核 · 成立 未取 · 27 Hillier Street, Sheung Wan, Hong Kong（网站口径；研究档：法国）",
+    "url": "https://www.hightrade-international.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

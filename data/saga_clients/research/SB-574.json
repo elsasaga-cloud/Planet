@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：lanberg.eu privacy / regulamin（管理人 Impakt S.A.，ul：IMPAKT S.A.（品牌 Lanberg；Mosina / Poznań） · KRS 0000585900 · NIP 7831720485 · REGON  · Aktywna · 成立 2015（S.A.  · ul. Stanisława Lema 16, 62-050 Mosina（波兹南南）",
+    "url": "https://en.impakt.com.pl/about",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

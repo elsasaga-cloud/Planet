@@ -203,9 +203,13 @@ API/控制器集成是关键未知：Saga 线（SmartByte Marvell AC5）有 SNMP
 - 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：Tracxn（2007 年 Christopher Fikes 创立；Silsbee；未融资）+ ：FikesMedia LLC（fikesmedia.com；Silsbee TX） · TX 登记号未取（TX SoS 付费；bizstanding 镜像显示旧登记 i · 官网在线（2026）；登记状态存疑（镜像 inactive） · 成立 2007 · 105 George St, Silsbee, TX 77656 — <https://www.fikesmedia.com/about>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

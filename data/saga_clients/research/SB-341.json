@@ -270,5 +270,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 0 次检索（泛名「Smart Security Systems」+ gmail，无域名 / 城市线索）；202：Smart Security Systems（印度；Rk Ahir；rkahir65@gmail.com；无域名 / 地址）— 安防安装 / 经销，2019 起阿里国际站；商用 P · 未取 · — · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

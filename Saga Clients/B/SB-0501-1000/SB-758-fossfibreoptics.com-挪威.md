@@ -190,6 +190,16 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：NO · 1 次检索：proff.no（Foss AS Fiberoptisk Systemsalg；Org nr 93：FOSS FIBER OPTICS AS（商号 Foss AS Fiberoptisk Systemsalg；fossfibreoptics.com / foss-as.no /  · org.nr 936 010 229 · Aktivt · 成立 1984-11-02 · Dansrudveien 45, 3036 Drammen — <https://www.proff.no/selskap/foss-as-fiberoptisk-systemsalg/drammen/kabler-og-kraftledninger/IFH9Y4500OK-1>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：14 封（去 13 / 来 1）　|　**期间**：2025-06-20 → 2026-09-14　|　**最后去信**：2026-09-14

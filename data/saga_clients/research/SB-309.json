@@ -208,5 +208,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：alternetivo.cz/kontakty（Alternetivo s.r.o. Žirovn：Alternetivo s.r.o.（alternetivo.cz；布拉格 10 Záběhlice Žirovnická 2389/1a, 106 00；IČO 25098314 · IČO 25098314；DIČ CZ25098314；C 49492 MS P · Aktivní · 成立 1996/1997 · Žirovnická 2389/1a, 106 00 Praha 10 – Záběhlice",
+    "url": "https://rejstrik-firem.kurzy.cz/25098314/alternetivo-sro/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

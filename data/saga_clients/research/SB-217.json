@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：microsens.com/footer/imprint（HRA Hamm 1669；Komple：MICROSENS GmbH & Co. KG（microsens.com；Hamm）— 光纤 / 工业交换机制造商 = 同行 · Amtsgericht Hamm HRA 1669（Komplementärin · Active · 成立 1993（创立）/  · Küferstr. 16, 59067 Hamm",
+    "url": "https://www.microsens.com/footer/imprint",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

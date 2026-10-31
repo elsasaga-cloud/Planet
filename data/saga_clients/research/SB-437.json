@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale/5622（TPOLE S.R.L.；P.IVA 029783701：TPOLE S.R.L.（tpole.it；帕维亚 Portalbera Via Alcide De Gasperi 4, 27040 (PV)；**现行实体 P.IVA / CF · P.IVA / CF 02978370183；REA PV-330560（前身  · Active（2025-01 新实体承接） · 成立 2025-01-10 · Via Alcide De Gasperi 4, 27040 Portalbera (PV)",
+    "url": "https://www.ufficiocamerale.it/5622/tpole-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

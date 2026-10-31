@@ -115,5 +115,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BG · 1 次检索（名片户 1 查即停）：revenuebase / dnb / europages 保加利亚电子分销：「Elektronik LTD」（Toshko Todorov；ISAF 名片；无邮箱 / 域名 / 电话入库；Ady 加过 WhatsApp；要商用级 PoE + 目录）— 1  · 未取 · 未取 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

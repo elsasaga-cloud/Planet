@@ -209,5 +209,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（ห้างหุ้นส่วนจำกัด ซิสเน็ต เซ็นเตอร์ S：ห้างหุ้นส่วนจำกัด ซิสเน็ต เซ็นเตอร์ SYSNET CENTER LIMITED PARTNERSHIP（sysnetcenter.com；**เ · เลขทะเบียนนิติบุคคล 0133552003338（NBTC 经 · ยังดำเนินกิจการอยู่（营业中；财报连续 5 · 成立 2009-07-21 · 807/147 Moo 8, Khu Khot, Lam Luk Ka, Pathum Thani 12130",
+    "url": "https://www.dataforthai.com/company/0133552003338/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

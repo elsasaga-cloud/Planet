@@ -208,5 +208,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：官网 our-company（「Uniview 加拿大分支 / Wanglu 独家分销」）+ Un：Petawise Inc.（Petawise Technologies；Toronto / Etobicoke, ON；Uniview 加拿大独家） · 未取（Ontario 登记 JS-only） · Active · 成立 2014/2015 · 1040 Martin Grove Rd Unit 9, Toronto (Etobicoke), ON M9W 4W4（另见 190 Millway Ave,",
+    "url": "https://www.uniview.com/Partner/Find_our_partners/Partners/North_America/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

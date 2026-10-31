@@ -164,5 +164,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：lri.com.br/contato（LRI Automação Industrial；Rua M：LRI Automação Industrial = Leandro Roisenberg Firma Individual（lri.com.br；**官网 contato 自列  · CNPJ 94.574.647/0005-02（个体企业分支号 0005） · 营业中（官网 + 电商在） · 成立 未取 · Rua Maria Lopes Borba 474, Navegantes - SC 88370-340, Brazil",
+    "url": "https://www.lri.com.br/contato",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

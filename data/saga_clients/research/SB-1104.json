@@ -143,5 +143,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：tracxn（AGILITY ELEKTROTEKNIKS PRIVATE LIMITED CIN：Agility Elektrotekniks Private Limited（agility.net.in；CIN U31908UP2014PTC066111（2014-09-16 · CIN U31908UP2014PTC066111 · Active · 成立 2014-09-16 · A-10/64, Meerut Road Industrial Area, Site-III, Ghaziabad 201003, Uttar Pradesh",
+    "url": "https://www.zaubacorp.com/company/AGILITY-ELEKTROTEKNIKS-PRIVATE-LIMITED/U31908UP2014PTC066111",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

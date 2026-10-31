@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：arpeo.pl/polityka-prywatnosci（Arpeo Sp. z o.o.；ul：Arpeo Sp. z o.o.（arpeo.pl；Bielsko-Biała）— 电缆穿墙密封 / 线缆导向 / 电工配件网店，2020 新公司 · KRS 0000854041（NIP 5472220160；REGON 3867 · Aktywna · 成立 2020-08-07 · ul. prof. dr. Mieczysława Michałowicza 12, 43-300 Bielsko-Biała",
+    "url": "https://www.imsig.pl/krs/0000854041",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -218,13 +218,14 @@ updated: 2026-10-31
 - 依据：出 A 户（K 的就 B」（Simon）→ 下放 B：DevRay IT Solutions：2024-06 新注册、实缴 1 万卢比的贴牌品牌 → 太新太小（B1 观察））；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：Scribd（MCA 摘录）：DEVRAY IT SOLUTIONS PRIVATE LIMITED · CIN U62013UP2024PTC204532 · incorporated 2024-06-13（Kanpur）· authorized & paid-up capital Rs 1,00,000 · Directors Yogendra Kumar Rajput, Neha Jain；官网：Noida Sector 63 办公，产品 DevGate NGFW / Router / SD-WAN / Industrial Switches / Data Center Switches；关联 Maplecloud Technologies（Greater Noida，Yogendra Rajput Managing Partner，IndiaMART 在售「DevRay Netwo — <https://www.devray.in/>　*2024-06 新注册、实缴 1 万卢比的贴牌品牌 → A-DEEP-06 下放 B（B1 观察：ODM 需求真实但主体太新太小）*
+- 2026-10-30：IN · 1 次检索：falconebiz（DEVRAY IT SOLUTIONS PRIVATE LIMITED CI：DevRay IT Solutions Private Limited（devray.in；CIN U62013UP2024PTC204532（2024-06-13；RoC Kan · CIN U62013UP2024PTC204532（DevRay）/ U7290 · Active · 成立 2024-06-13 · Noida, Uttar Pradesh（总部；注册地址未取） — <https://www.zaubacorp.com/company/MAPLECLOUD-TECH-SERVICES-PRIVATE-LIMITED/U72900DL2018PTC338066>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

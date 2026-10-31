@@ -259,5 +259,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：maxitulin.com/contact（Maxitulin Sdn Berhad；Unit 2：Maxitulin Sdn Bhd（maxitulin.com；**MATRADE 服务名录收录（系统集成）；总部 Unit 2-1, 1st Floor, Pusat Komer · 未取（SSM 1 查未得） · 营业中（官网 + MATRADE 名录） · 成立 未取 · Unit 2-1, Pusat Komersial Koi, Jalan Puchong Batu 13 1/2, 47100 Puchong, Selango",
+    "url": "https://maxitulin.com/contact/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

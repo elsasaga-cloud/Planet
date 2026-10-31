@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 / LinkedIn（VIPA ControlsAmerica；980 Birmingham：VIPA ControlsAmerica（vipausa.com；Alpharetta, GA）— 德国 VIPA GmbH（YASKAWA 旗下）PLC / I/O / HMI  · GA 实体名 / SoS 号未取（公开名 VIPA ControlsAmeric · Active（站点在线；墨西哥线 ventas@） · 成立 1998 · 980 Birmingham Rd. Ste 721 / 825, Alpharetta, GA 30004",
+    "url": "https://www.linkedin.com/company/vipa-controls-america",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

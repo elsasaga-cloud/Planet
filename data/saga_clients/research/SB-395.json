@@ -144,5 +144,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：mercku.com/about-us（Founded in Canada's Waterloo ：Mercku Inc.（mercku.com；51 Breithaupt St, Kitchener, ON N2H（创立于 Waterloo）；2017-09 创立：Prof.  · 未取（登记号） · Active · 成立 2017-09 · 51 Breithaupt St, Kitchener, ON N2H",
+    "url": "https://www.mercku.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

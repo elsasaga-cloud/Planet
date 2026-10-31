@@ -156,5 +156,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 1 次检索：pappers.fr（GMI DATABOX；320 290 190；Active；32 RUE ：GMI DATABOX SAS（原 SARL；gmidatabox.fr；32 rue de Tournenfils, 91540 Mennecy；SIREN 320 290 19 · SIREN 320 290 190 · Active · 成立 1980-11-18 · 32 rue de Tournenfils, 91540 Mennecy",
+    "url": "https://www.pappers.fr/entreprise/gmi-databox-320290190",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

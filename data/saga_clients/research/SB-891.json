@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Northdata（Tech-Point GmbH, Stuhr；Amtsgericht Wals：Tech-Point GmbH（techpoint-gmbh.de；下萨克森 Stuhr；Amtsgericht Walsrode HRB 211027）— 零售与数字标牌行业的全 · HRB 211027（Amtsgericht Walsrode） · Active · 成立 ≈2022（更名登记 · Stuhr（下萨克森，不来梅南郊；门牌未取）",
+    "url": "https://www.northdata.com/Tech-Point%20GmbH,%20Stuhr/Amtsgericht%20Walsrode%20HRB%20211027",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

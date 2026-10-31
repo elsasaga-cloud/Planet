@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：sieuthivienthong.com.vn/gioi-thieu（Công Ty TNHH K：Siêu Thị Viễn Thông（sieuthivienthong.com；**1 查得两同名候选：.com.vn = Công ty TNHH Kỹ Thuật Viễn  · 未定（候选 MST 0312485663 / 另一同名） · 营业中（电商在） · 成立 未取 · TP. Hồ Chí Minh（Q.12 或 Tân Bình，待定）",
+    "url": "https://sieuthivienthong.com.vn/gioi-thieu/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

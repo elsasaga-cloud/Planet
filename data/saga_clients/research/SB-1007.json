@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SE · 1 次检索：allabolag（AV Nordic Hemsat AB；Org.nr 556594-9863；：AV Nordic Hemsat AB（avnordic.se；布罗斯 Borås Elinsdalsgatan 15, 504 33；org.nr 556594-9863；VAT · Org.nr 556594-9863 · Aktivt · 成立 2000-07-11 · Elinsdalsgatan 15, 504 33 Borås",
+    "url": "https://www.allabolag.se/foretag/av-nordic-hemsat-ab/bor%C3%A5s/elektronik-och-telekommunikationsutrustning/2K1TMEFI63IFR",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

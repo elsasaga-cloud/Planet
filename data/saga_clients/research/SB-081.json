@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：blog.dabos.com（DABOS, Inc.；「At DABOS we support, ：DABOS, Inc.（dabos.com / blog.dabos.com；美国，马里兰 Bethesda 一带推定）— 科研 / 实验室用品与设备采购供应商（「we suppo · 部分坐实（Inc.；州登记号未取） · Active（博客 2026-02 更新；站点在线） · 成立 未取 · 美国（Bethesda, MD 一带推定；门牌未取）",
+    "url": "https://blog.dabos.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

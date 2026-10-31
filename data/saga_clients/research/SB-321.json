@@ -152,5 +152,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 AGB（BWsystems – Hans-Georg Werner；Vertreten du：BWsystems – Hans-Georg Werner（bwsystems.de；柏林 Köpenick）— 个体经营（Einzelunternehmen，无 HRB）：IT  · Einzelunternehmen（无 HRB）；USt-ID DE137120 · Active（名录在线） · 成立 未取 · Pritstabelstraße 52A, 12557 Berlin（Köpenick）",
+    "url": "http://www.bwsystems.de/agb.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

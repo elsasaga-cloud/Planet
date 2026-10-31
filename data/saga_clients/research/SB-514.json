@@ -155,5 +155,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RS · 1 次检索：companywall.rs（ELECTRO PNEUMATIC SOLUTIONS DOO；DA：ELECTRO PNEUMATIC SOLUTIONS DOO（商号 EP Solutions；ep-solutions.rs；贝尔格莱德 Daničareva 16, 11050 · MB 21032018 / PIB 108600536 · Aktivan · 成立 2014-07-17 · Daničareva 16, 11050 Beograd (Vračar), Srbija",
+    "url": "https://www.companywall.rs/firma/electro-pneumatic-solutions-doo/MMQWGcDq",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

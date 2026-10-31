@@ -152,5 +152,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：「Sri Annai Business Associates SABA Erode sabaind：Sri Annai Business Associates（SABA；sabaindia.com 已失效；泰米尔纳德 Erode（0424）；R. Sampath Kumar +9 · 未取 · 站点失效 · 成立 未取 · Erode, Tamil Nadu（具体未取）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

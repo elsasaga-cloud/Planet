@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：rbline.pl 首页 / kontakt（RBLINE Bartosz Ryszka；ul. ：RBLINE Bartosz Ryszka（rbline.pl；Opole）— Roline（Rotronic / Secomp）波兰独家代表，CEIDG 个体户 · NIP 7542138394 / REGON 160340714（CEIDG） · Active · 成立 2010-08-01 · ul. Kępska 12, 45-130 Opole",
+    "url": "https://rbline.pl/kontakt",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

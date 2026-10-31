@@ -212,5 +212,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：rejstrik.penize.cz（XCAM CZech s.r.o.；IČO 29397839：XCAM CZech s.r.o.（xcam.cz；俄斯特拉发 Gen. Píky 3038/1a, 702 00 Ostrava – Moravská Ostrava；IČO 2 · IČO 29397839；DIČ CZ29397839 · Active · 成立 2012-02-29 · Gen. Píky 3038/1a, 702 00 Ostrava – Moravská Ostrava",
+    "url": "https://rejstrik.penize.cz/29397839-xcam-czech-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

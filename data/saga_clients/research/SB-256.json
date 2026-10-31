@@ -483,6 +483,16 @@
     "batch": "INTEL-12",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：imsig.pl（KRS 0000817374，REGON 385013197，NIP 78228：UNIFORCE TVPRZEMYSLOWA NOWAK SP.K.（原 TVprzemyslowa sp. z o.o. sp.k.；品牌 Uniforce；Poznań） · KRS 0000817374 · NIP 7822874326 · REGON  · Aktywna · 成立 2019-12-05 · ul. Kórnicka 30, 61-141 Poznań",
+    "url": "https://www.imsig.pl/krs/0000817374",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

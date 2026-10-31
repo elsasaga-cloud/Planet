@@ -263,6 +263,16 @@
     "batch": "INTEL-09",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：find.com.tr（FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SAN：FH GÜVENLİK SİSTEMLERİ VE BİLİŞİM SANAYİ TİCARET LİMİTED ŞİRKETİ（fhguvenlik.com；伊斯坦布尔 Beşi · MERSİS 未取（Ltd. Şti.；NACE 631108） · Active · 成立 2025-02-13 · Sinanpaşa Mah. Süleyman Seba Cad. No:6 İç Kapı No:4, Beşiktaş, 34022 İstanbul（技术",
+    "url": "https://www.find.com.tr/Company/fhguvenliksistemlerivebilisimsanayiticaretlimitedsirketi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

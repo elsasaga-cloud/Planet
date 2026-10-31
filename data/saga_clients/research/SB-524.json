@@ -214,5 +214,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：armadi-rack.it/chi_siamo + assistenza（M.D.W. srl；：Armadi-Rack.it（电商与品牌；运营主体 M.D.W. srl，P.IVA / CF 02766841205，REA BO-465866；法定 博洛尼亚 Piazza M · P.IVA / CF 02766841205；REA BO-465866（M.D · Active · 成立 未取 · Piazza Minghetti 4/D, 40124 Bologna（运营 Via Edmondo De Amicis 7, 40033 Casalecchi",
+    "url": "https://www.armadi-rack.it/chi_siamo",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

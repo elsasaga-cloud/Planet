@@ -208,5 +208,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FI · 1 次检索：finder.fi（eSoft Verkkokauppa；Y-tunnus 1962756-7；M：eSoft – Verkkokauppa (Tmi Erno T.)（esoft.fi；Mätästie 3 C 31, 00770 Helsinki；自提 Vantaa；Y-tu · Y-tunnus 1962756-7 · Aktiivinen · 成立 2009-10-30 · Mätästie 3 C 31, 00770 Helsinki",
+    "url": "https://www.finder.fi/Turvallisuustuotteet+turvallisuuspalvelut/eSoft+Verkkokauppa/Helsinki/yhteystiedot/2239784",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

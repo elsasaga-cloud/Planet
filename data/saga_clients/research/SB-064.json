@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：amitytechnologies.co.in（Plot No. 279 2nd Floor Vi：Amity Technologies（amitytechnologies.co.in；**合伙企业，2009-05-04 成立（Udyam：Small 2022-23）**；Plo · 未取（合伙企业；Udyam 登记） · Active · 成立 2009-05-04 · Plot 279, 2nd Floor, Vivekananda Nagar, Kukatpally, Hyderabad 500072",
+    "url": "https://amitytechnologies.co.in/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

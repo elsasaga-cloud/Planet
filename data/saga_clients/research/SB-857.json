@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：tracxn（AIRPRO TECHNOLOGY INDIA LIMITED CIN U72900：AirPro Technology India Limited（原 Airpro Technology India Private Limited，2025-04-28 转公众公司 · CIN U72900RJ2014PLC045127 · Active（SME IPO 进行中） · 成立 2014-02-17 · D-30, Gautam Marg, Nirman Nagar, Ajmer Road, Jaipur 302019",
+    "url": "https://www.zaubacorp.com/company/AIRPRO-TECHNOLOGY-INDIA-PRIVATE-LIMITED/U72900RJ2014PTC045127",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

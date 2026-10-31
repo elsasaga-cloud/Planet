@@ -215,5 +215,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IE · 1 次检索：D&B（KENNEDY O’DONOVAN ELECTRONICS LIMITED；Doing B：KENNEDY O’DONOVAN ELECTRONICS LIMITED（t/a KD Electronics / KD ELECTRONICS LTD；kdelectronic · CRO 未取（法人名 KENNEDY O’DONOVAN ELECTRONICS · Active · 成立 1994（活动） · Unit 4 Metro Business Park, Ballycurreen, Cork T12 HP60（都柏林分部 D12 W5H2）",
+    "url": "https://www.kdelectronics.ie/menu/about_us.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

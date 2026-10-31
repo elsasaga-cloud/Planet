@@ -250,9 +250,13 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：UK · Companies House（官方）公司页 + officers 页：LONGTEK ELECTRONICS EUROPE LTD · 05227994 · Active（账目至 2025-03-31 已报；确认声明  · 成立 2004-09-10 · 12 Bishops Close, Enfield EN1 3QJ（**住宅地址 = 家庭公司**） — <https://find-and-update.company-information.service.gov.uk/company/05227994>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

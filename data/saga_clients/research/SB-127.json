@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：iberinform（IZUX INGENIERIA Y SEGURIDAD SL；CIF B98：IZUX INGENIERIA Y SEGURIDAD SL（izux.es；瓦伦西亚 C/ José Chabás Bordehore 3, Bl. 4, 3º 21, 4601 · CIF B98126444 · Activa · 成立 2009-02-25 · C/ José Chabás Bordehore 3, Bl. 4, 3º 21, 46019 Valencia",
+    "url": "https://www.iberinform.es/empresa/3694807/izux-ingenieria-y-seguridad",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

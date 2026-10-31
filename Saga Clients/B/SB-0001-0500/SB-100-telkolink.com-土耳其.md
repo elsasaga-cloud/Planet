@@ -217,6 +217,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TR · 1 次检索：perpahaber / perpalife 商户名录（法定全名 + 楼层）+ telkolink：Telkolink（telkolink.com；Perpa A Blok K.5 No:295-297 Şişli）= GelecekBT 同一老板 · Mersis / VKN 未取 · Aktif（域 telkolink.com 在用，Perpa · 成立 2004（GYM B · Perpa Ticaret Merkezi A Blok K.5 No:295-297（名录另记 K:4,5,6 No:0297）Okmeydanı Şişli — <https://www.perpahaber.com/telkolink-gelecek-yonetim-merkezi/>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-06-26 → 2026-09-17　|　**最后去信**：2026-09-17

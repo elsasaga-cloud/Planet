@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：GoWork（Nazwa pełna „SABMARTV” MARCIN WYPIOR；ul. G：„SABMARTV” Marcin Wypiór（sabmar.tv；Rybnik）— 体育赛事网络直播 / 转播制作个体企业（摩托车速道赛 PPV）= 终端用户 · NIP 6421823587；REGON 273230435（CEIDG） · Active（2024 转播活跃） · 成立 1997-05-14 · ul. Gruntowa 43D, 44-270 Rybnik（旧址 Modrzewiowa 22）",
+    "url": "https://www.gowork.pl/sabmartv-marcin-wypior,25701005/dane-kontaktowe-firmy",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -1,0 +1,1227 @@
+{
+"SA-005": {
+"code": "SA-005",
+"name": "Taurus Vision",
+"domains": [
+"taurusvision.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"taurusvision.com in:email",
+"\"taurusvision.com\" in:readme in:description",
+"Taurus Vision type:org"
+]
+},
+"SA-013": {
+"code": "SA-013",
+"name": "alfa.com.tw",
+"domains": [
+"alfa.com.tw"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "aircrack-ng/rtl8188eus",
+"url": "https://github.com/aircrack-ng/rtl8188eus",
+"desc": "RealTek RTL8188eus WiFi driver with monitor mode & frame injection support",
+"stars": 1164,
+"pushed": "2025-02-03"
+},
+{
+"full_name": "n0ss/realtek-rtl88xxau-dkms",
+"url": "https://github.com/n0ss/realtek-rtl88xxau-dkms",
+"desc": "RTL8812AU / RTL8821AU and RTL8814AU drivers",
+"stars": 55,
+"pushed": "2025-01-19"
+},
+{
+"full_name": "SimplyCEO/rtl8188eus",
+"url": "https://github.com/SimplyCEO/rtl8188eus",
+"desc": "RealTek RTL8188eus wireless driver. The project provides a working device with the latest kernel versions. Additional su",
+"stars": 124,
+"pushed": "2026-10-08"
+},
+{
+"full_name": "ronnyvdbr/ronnyvdbr.github.io",
+"url": "https://github.com/ronnyvdbr/ronnyvdbr.github.io",
+"desc": "Raspberry Pi - Wifi Router Project",
+"stars": 119,
+"pushed": "2018-05-26"
+},
+{
+"full_name": "BBQ4ever/rtl8814au",
+"url": "https://github.com/BBQ4ever/rtl8814au",
+"desc": "Working drivers for RTL8814AU (AWUS 1900) on Fedora 26",
+"stars": 2,
+"pushed": "2017-08-06"
+},
+{
+"full_name": "peterpt/Alfa_Drivers",
+"url": "https://github.com/peterpt/Alfa_Drivers",
+"desc": "Alfa Networks Drivers for multiples chipsets",
+"stars": 1,
+"pushed": "2019-02-13"
+},
+{
+"full_name": "ParrotSec/realtek-rtl88xxau-dkms",
+"url": "https://github.com/ParrotSec/realtek-rtl88xxau-dkms",
+"desc": "",
+"stars": 23,
+"pushed": "2026-01-08"
+},
+{
+"full_name": "keralahacker/tp-link-v3-usb",
+"url": "https://github.com/keralahacker/tp-link-v3-usb",
+"desc": "",
+"stars": 4,
+"pushed": "2022-08-13"
+},
+{
+"full_name": "ZrutrA/Wi-Fi-deauth-2.4-and-5GHz",
+"url": "https://github.com/ZrutrA/Wi-Fi-deauth-2.4-and-5GHz",
+"desc": "Wi-Fi deauth attack 2.4 GHz and 5 Ghz",
+"stars": 2,
+"pushed": "2024-09-18"
+},
+{
+"full_name": "ToraGaming/wifi-pentest-lab",
+"url": "https://github.com/ToraGaming/wifi-pentest-lab",
+"desc": "📡 Wi-Fi 6 pentesting lab: Alfa AWUS036AXML (MT7921U) on Kali for WPA3/SAE Dragonblood analysis",
+"stars": 1,
+"pushed": "2026-06-09"
+}
+],
+"queries": [
+"alfa.com.tw in:email",
+"\"alfa.com.tw\" in:readme in:description",
+"alfa.com.tw type:org"
+]
+},
+"SA-014": {
+"code": "SA-014",
+"name": "impulsecctv.com",
+"domains": [
+"impulsecctv.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"impulsecctv.com in:email",
+"\"impulsecctv.com\" in:readme in:description",
+"impulsecctv.com type:org"
+]
+},
+"SA-017": {
+"code": "SA-017",
+"name": "parallaxdigital.co.uk",
+"domains": [
+"parallaxdigital.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"parallaxdigital.co.uk in:email",
+"\"parallaxdigital.co.uk\" in:readme in:description",
+"parallaxdigital.co.uk type:org"
+]
+},
+"SA-018": {
+"code": "SA-018",
+"name": "Sewell",
+"domains": [
+"sewelldev.com",
+"sewelldirect.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "sphinx-extensions2",
+"url": "https://github.com/sphinx-extensions2"
+},
+{
+"login": "JavaIsBad",
+"url": "https://github.com/JavaIsBad"
+},
+{
+"login": "Sewell-Academy",
+"url": "https://github.com/Sewell-Academy"
+},
+{
+"login": "Sewells",
+"url": "https://github.com/Sewells"
+},
+{
+"login": "sewell-hardware",
+"url": "https://github.com/sewell-hardware"
+}
+],
+"repos": [],
+"queries": [
+"sewelldev.com in:email",
+"\"sewelldev.com\" in:readme in:description",
+"Sewell type:org"
+]
+},
+"SA-019": {
+"code": "SA-019",
+"name": "allnet.de",
+"domains": [
+"allnet.de"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "mghomedev/iobroker.allnetipsocketoutlet4176",
+"url": "https://github.com/mghomedev/iobroker.allnetipsocketoutlet4176",
+"desc": "ioBroker Adapter for ALLNET IP Socket Outlet 4176",
+"stars": 0,
+"pushed": "2024-06-15"
+},
+{
+"full_name": "victorm-alvarez-edu/dispensador-liquidos",
+"url": "https://github.com/victorm-alvarez-edu/dispensador-liquidos",
+"desc": "Script para xestionar a dispensación de líquidos empregando un sensor de presenza",
+"stars": 0,
+"pushed": "2020-08-18"
+},
+{
+"full_name": "pradiptabasu/pbasu-IoT-Tutorials",
+"url": "https://github.com/pradiptabasu/pbasu-IoT-Tutorials",
+"desc": "",
+"stars": 3,
+"pushed": "2021-11-03"
+},
+{
+"full_name": "AlbrechtL/rtl838x-qemu",
+"url": "https://github.com/AlbrechtL/rtl838x-qemu",
+"desc": "Runs OpenWrt for Realtek RTL838x switch SoCs in an emulator. The target is the Zyxel GS1900-8 image booted unmodified.",
+"stars": 0,
+"pushed": "2026-10-09"
+}
+],
+"queries": [
+"allnet.de in:email",
+"\"allnet.de\" in:readme in:description",
+"allnet.de type:org"
+]
+},
+"SA-022": {
+"code": "SA-022",
+"name": "Addon Computer Products",
+"domains": [
+"addonnetworks.com",
+"addoncomputer.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"addonnetworks.com in:email",
+"\"addonnetworks.com\" in:readme in:description",
+"Addon Computer Products type:org"
+]
+},
+"SA-024": {
+"code": "SA-024",
+"name": "Cable Distribution Services",
+"domains": [
+"cabledistribution.com.au"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"cabledistribution.com.au in:email",
+"\"cabledistribution.com.au\" in:readme in:description",
+"Cable Distribution Services type:org"
+]
+},
+"SA-025": {
+"code": "SA-025",
+"name": "Avenger Security（getsecurityalarm.com）",
+"domains": [
+"getsecurityalarm.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"getsecurityalarm.com in:email",
+"\"getsecurityalarm.com\" in:readme in:description",
+"Avenger Security getsecurityalarm.com type:org"
+]
+},
+"SA-034": {
+"code": "SA-034",
+"name": "rfog.pl",
+"domains": [
+"rfog.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"rfog.pl in:email",
+"\"rfog.pl\" in:readme in:description",
+"rfog.pl type:org"
+]
+},
+"SA-035": {
+"code": "SA-035",
+"name": "td-fe.com",
+"domains": [
+"td-fe.com",
+"td-fe.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"td-fe.com in:email",
+"\"td-fe.com\" in:readme in:description",
+"td-fe.com type:org"
+]
+},
+"SA-036": {
+"code": "SA-036",
+"name": "svn-video.ru",
+"domains": [
+"svn-video.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"svn-video.ru in:email",
+"\"svn-video.ru\" in:readme in:description",
+"svn-video.ru type:org"
+]
+},
+"SA-037": {
+"code": "SA-037",
+"name": "aeconnect.co.in",
+"domains": [
+"aeconnect.co.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"aeconnect.co.in in:email",
+"\"aeconnect.co.in\" in:readme in:description",
+"aeconnect.co.in type:org"
+]
+},
+"SA-038": {
+"code": "SA-038",
+"name": "dncsolutions.co.in",
+"domains": [
+"dncsolutions.co.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"dncsolutions.co.in in:email",
+"\"dncsolutions.co.in\" in:readme in:description",
+"dncsolutions.co.in type:org"
+]
+},
+"SA-041": {
+"code": "SA-041",
+"name": "lightoptics.pl",
+"domains": [
+"lightoptics.pl",
+"fibermarkt.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"lightoptics.pl in:email",
+"\"lightoptics.pl\" in:readme in:description",
+"lightoptics.pl type:org"
+]
+},
+"SA-044": {
+"code": "SA-044",
+"name": "dymec.com",
+"domains": [
+"dymec.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"dymec.com in:email",
+"\"dymec.com\" in:readme in:description",
+"dymec.com type:org"
+]
+},
+"SA-046": {
+"code": "SA-046",
+"name": "ipcampower.com",
+"domains": [
+"ipcampower.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ipcampower.com in:email",
+"\"ipcampower.com\" in:readme in:description",
+"ipcampower.com type:org"
+]
+},
+"SA-052": {
+"code": "SA-052",
+"name": "bsn-system.com",
+"domains": [
+"bsn-system.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bsn-system.com in:email",
+"\"bsn-system.com\" in:readme in:description",
+"bsn-system.com type:org"
+]
+},
+"SA-053": {
+"code": "SA-053",
+"name": "infrateq.id",
+"domains": [
+"infrateq.id",
+"divatel.co.id"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"infrateq.id in:email",
+"\"infrateq.id\" in:readme in:description",
+"infrateq.id type:org"
+]
+},
+"SA-054": {
+"code": "SA-054",
+"name": "softnetworks.net",
+"domains": [
+"softnetworks.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"softnetworks.net in:email",
+"\"softnetworks.net\" in:readme in:description",
+"softnetworks.net type:org"
+]
+},
+"SA-057": {
+"code": "SA-057",
+"name": "Born SPb LLC",
+"domains": [
+"born-shop.ru",
+"born-spb.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"born-shop.ru in:email",
+"\"born-shop.ru\" in:readme in:description",
+"Born SPb LLC type:org"
+]
+},
+"SA-058": {
+"code": "SA-058",
+"name": "alphanetcom.com",
+"domains": [
+"alphanetcom.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"alphanetcom.com in:email",
+"\"alphanetcom.com\" in:readme in:description",
+"alphanetcom.com type:org"
+]
+},
+"SA-061": {
+"code": "SA-061",
+"name": "RYMTECH EAS",
+"domains": [
+"rym-tech.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"rym-tech.net in:email",
+"\"rym-tech.net\" in:readme in:description",
+"RYMTECH EAS type:org"
+]
+},
+"SA-062": {
+"code": "SA-062",
+"name": "ipns-uae.com",
+"domains": [
+"ipns-uae.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ipns-uae.com in:email",
+"\"ipns-uae.com\" in:readme in:description",
+"ipns-uae.com type:org"
+]
+},
+"SA-064": {
+"code": "SA-064",
+"name": "optat.ru",
+"domains": [
+"optat.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"optat.ru in:email",
+"\"optat.ru\" in:readme in:description",
+"optat.ru type:org"
+]
+},
+"SA-067": {
+"code": "SA-067",
+"name": "Latmedia Group, LLC",
+"domains": [
+"latmedia.uz"
+],
+"users": [],
+"orgs": [],
+"repos": [
+{
+"full_name": "LatMedia/front-end-task",
+"url": "https://github.com/LatMedia/front-end-task",
+"desc": "Это тестовое задания для front-end разработчиков",
+"stars": 0,
+"pushed": "2021-03-29"
+},
+{
+"full_name": "LatMedia/web-desing-task",
+"url": "https://github.com/LatMedia/web-desing-task",
+"desc": "Тестовое задания для потенциальных дизайнеров",
+"stars": 0,
+"pushed": "2021-03-29"
+}
+],
+"queries": [
+"latmedia.uz in:email",
+"\"latmedia.uz\" in:readme in:description",
+"Latmedia Group  LLC type:org"
+]
+},
+"SA-068": {
+"code": "SA-068",
+"name": "Pt.ras otomasi indonesia",
+"domains": [
+"ras-otomasi.id"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"ras-otomasi.id in:email",
+"\"ras-otomasi.id\" in:readme in:description",
+"Pt.ras otomasi indonesia type:org"
+]
+},
+"SA-069": {
+"code": "SA-069",
+"name": "bptehno.ru",
+"domains": [
+"bptehno.ru",
+"doteck.ru"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"bptehno.ru in:email",
+"\"bptehno.ru\" in:readme in:description",
+"bptehno.ru type:org"
+]
+},
+"SA-074": {
+"code": "SA-074",
+"name": "Elite Team Security Ltd",
+"domains": [
+"elitteamsecurity.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"elitteamsecurity.com in:email",
+"\"elitteamsecurity.com\" in:readme in:description",
+"Elite Team Security Ltd type:org"
+]
+},
+"SA-075": {
+"code": "SA-075",
+"name": "Falke security",
+"domains": [
+"falke-security.de"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"falke-security.de in:email",
+"\"falke-security.de\" in:readme in:description",
+"Falke security type:org"
+]
+},
+"SB-005": {
+"code": "SB-005",
+"name": "rovez.sk",
+"domains": [
+"rovez.sk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"rovez.sk in:email",
+"\"rovez.sk\" in:readme in:description",
+"rovez.sk type:org"
+]
+},
+"SB-008": {
+"code": "SB-008",
+"name": "Abdulaziz Al Jowasem",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"Abdulaziz Al Jowasem type:org"
+]
+},
+"SB-009": {
+"code": "SB-009",
+"name": "sicurmax.com",
+"domains": [
+"sicurmax.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"sicurmax.com in:email",
+"\"sicurmax.com\" in:readme in:description",
+"sicurmax.com type:org"
+]
+},
+"SB-010": {
+"code": "SB-010",
+"name": "americanfibertek.com",
+"domains": [
+"americanfibertek.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"americanfibertek.com in:email",
+"\"americanfibertek.com\" in:readme in:description",
+"americanfibertek.com type:org"
+]
+},
+"SB-011": {
+"code": "SB-011",
+"name": "greentechme.net",
+"domains": [
+"greentechme.net"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"greentechme.net in:email",
+"\"greentechme.net\" in:readme in:description",
+"greentechme.net type:org"
+]
+},
+"SB-013": {
+"code": "SB-013",
+"name": "synchcom.com.pk",
+"domains": [
+"synchcom.com.pk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"synchcom.com.pk in:email",
+"\"synchcom.com.pk\" in:readme in:description",
+"synchcom.com.pk type:org"
+]
+},
+"SB-015": {
+"code": "SB-015",
+"name": "suministros-industriales.es",
+"domains": [
+"suministros-industriales.es"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"suministros-industriales.es in:email",
+"\"suministros-industriales.es\" in:readme in:description",
+"suministros-industriales.es type:org"
+]
+},
+"SB-016": {
+"code": "SB-016",
+"name": "Richard Jackson",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"Richard Jackson type:org"
+]
+},
+"SB-017": {
+"code": "SB-017",
+"name": "Securitytec",
+"domains": [
+"securitytec.co.uk"
+],
+"users": [],
+"orgs": [
+{
+"login": "SecurityTechInfo",
+"url": "https://github.com/SecurityTechInfo"
+},
+{
+"login": "SecurityTech-psong",
+"url": "https://github.com/SecurityTech-psong"
+}
+],
+"repos": [],
+"queries": [
+"securitytec.co.uk in:email",
+"\"securitytec.co.uk\" in:readme in:description",
+"Securitytec type:org"
+]
+},
+"SB-018": {
+"code": "SB-018",
+"name": "Smart-Protect",
+"domains": [
+"smart-protect.nrw",
+"walker-security.systems"
+],
+"users": [],
+"orgs": [
+{
+"login": "smart-protection",
+"url": "https://github.com/smart-protection"
+},
+{
+"login": "smart-protection-archived",
+"url": "https://github.com/smart-protection-archived"
+}
+],
+"repos": [],
+"queries": [
+"smart-protect.nrw in:email",
+"\"smart-protect.nrw\" in:readme in:description",
+"Smart-Protect type:org"
+]
+},
+"SB-019": {
+"code": "SB-019",
+"name": "aetektec.com",
+"domains": [
+"aetektec.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"aetektec.com in:email",
+"\"aetektec.com\" in:readme in:description",
+"aetektec.com type:org"
+]
+},
+"SB-021": {
+"code": "SB-021",
+"name": "LOOP TELECOM",
+"domains": [
+"looptelecom.com"
+],
+"users": [],
+"orgs": [
+{
+"login": "telecom-carrier-Loop",
+"url": "https://github.com/telecom-carrier-Loop"
+}
+],
+"repos": [],
+"queries": [
+"looptelecom.com in:email",
+"\"looptelecom.com\" in:readme in:description",
+"LOOP TELECOM type:org"
+]
+},
+"SB-022": {
+"code": "SB-022",
+"name": "Desk Technologies",
+"domains": [
+"desk-sicherheit.de"
+],
+"users": [],
+"orgs": [
+{
+"login": "Deskangle-Studios",
+"url": "https://github.com/Deskangle-Studios"
+},
+{
+"login": "desktop-ng",
+"url": "https://github.com/desktop-ng"
+},
+{
+"login": "Desk-Technologies",
+"url": "https://github.com/Desk-Technologies"
+},
+{
+"login": "Desklay-Technologies",
+"url": "https://github.com/Desklay-Technologies"
+},
+{
+"login": "orgcorith",
+"url": "https://github.com/orgcorith"
+}
+],
+"repos": [],
+"queries": [
+"desk-sicherheit.de in:email",
+"\"desk-sicherheit.de\" in:readme in:description",
+"Desk Technologies type:org"
+]
+},
+"SB-025": {
+"code": "SB-025",
+"name": "SIPe",
+"domains": [
+"sipe-corse.fr"
+],
+"users": [],
+"orgs": [
+{
+"login": "sipeed",
+"url": "https://github.com/sipeed"
+},
+{
+"login": "sipe-team",
+"url": "https://github.com/sipe-team"
+},
+{
+"login": "SiPearl",
+"url": "https://github.com/SiPearl"
+},
+{
+"login": "Siperb",
+"url": "https://github.com/Siperb"
+},
+{
+"login": "sipengines",
+"url": "https://github.com/sipengines"
+}
+],
+"repos": [],
+"queries": [
+"sipe-corse.fr in:email",
+"\"sipe-corse.fr\" in:readme in:description",
+"SIPe type:org"
+]
+},
+"SB-027": {
+"code": "SB-027",
+"name": "VoIPDistri",
+"domains": [
+"voipdistri.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"voipdistri.com in:email",
+"\"voipdistri.com\" in:readme in:description",
+"VoIPDistri type:org"
+]
+},
+"SB-029": {
+"code": "SB-029",
+"name": "ETRADINGKOREA Co., Ltd",
+"domains": [
+"etradingkorea.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"etradingkorea.com in:email",
+"\"etradingkorea.com\" in:readme in:description",
+"ETRADINGKOREA Co.  Ltd type:org"
+]
+},
+"SB-030": {
+"code": "SB-030",
+"name": "Medias-Com'S",
+"domains": [
+"medias-coms.ch"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"medias-coms.ch in:email",
+"\"medias-coms.ch\" in:readme in:description",
+"Medias-Com S type:org"
+]
+},
+"SB-031": {
+"code": "SB-031",
+"name": "OM Telecom S.R.L.",
+"domains": [
+"om-telecom.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"om-telecom.com in:email",
+"\"om-telecom.com\" in:readme in:description",
+"OM Telecom S.R.L. type:org"
+]
+},
+"SB-034": {
+"code": "SB-034",
+"name": "TJ Computer",
+"domains": [
+"tj2003.net"
+],
+"users": [],
+"orgs": [
+{
+"login": "tjcsl",
+"url": "https://github.com/tjcsl"
+},
+{
+"login": "TJCSec",
+"url": "https://github.com/TJCSec"
+},
+{
+"login": "TJ-Computer-Team",
+"url": "https://github.com/TJ-Computer-Team"
+},
+{
+"login": "tjsct",
+"url": "https://github.com/tjsct"
+},
+{
+"login": "tjuscs",
+"url": "https://github.com/tjuscs"
+}
+],
+"repos": [],
+"queries": [
+"tj2003.net in:email",
+"\"tj2003.net\" in:readme in:description",
+"TJ Computer type:org"
+]
+},
+"SB-035": {
+"code": "SB-035",
+"name": "Thimphu Techpark",
+"domains": [
+"nano.bt"
+],
+"users": [],
+"orgs": [
+{
+"login": "thimphutpl",
+"url": "https://github.com/thimphutpl"
+}
+],
+"repos": [
+{
+"full_name": "sirjeannot/GamecubeBT",
+"url": "https://github.com/sirjeannot/GamecubeBT",
+"desc": "Dongle to connect a bluetooth PS3 controller to the Gamecube 🎮",
+"stars": 31,
+"pushed": "2023-03-14"
+},
+{
+"full_name": "botir2/Bluetooth-Practice-Python",
+"url": "https://github.com/botir2/Bluetooth-Practice-Python",
+"desc": "arduino nano Bt HC -06 and raspberry pi",
+"stars": 1,
+"pushed": "2019-07-08"
+},
+{
+"full_name": "roboticarg/futbolRobot",
+"url": "https://github.com/roboticarg/futbolRobot",
+"desc": "",
+"stars": 0,
+"pushed": "2021-12-17"
+},
+{
+"full_name": "VaibhavOza1997/logitech-k380-bluetooth-autoreconnect",
+"url": "https://github.com/VaibhavOza1997/logitech-k380-bluetooth-autoreconnect",
+"desc": "Auto-reconnect Logitech K380 Bluetooth keyboard on RHEL/Fedora/Linux using a simple systemd service + shell script.",
+"stars": 2,
+"pushed": "2025-09-21"
+},
+{
+"full_name": "CuriosityGym/EEZyBotArm",
+"url": "https://github.com/CuriosityGym/EEZyBotArm",
+"desc": "Glove Interface to the EEZyBotArm",
+"stars": 0,
+"pushed": "2015-12-29"
+},
+{
+"full_name": "fabio-stoppa/nano-cortex-controller",
+"url": "https://github.com/fabio-stoppa/nano-cortex-controller",
+"desc": "Experimental Nano Cortex controller using reversed engineering and Waveshare ESP32 board",
+"stars": 0,
+"pushed": "2026-10-31"
+},
+{
+"full_name": "KiloooNL/Arduino-Microscope-Camera-Switcher",
+"url": "https://github.com/KiloooNL/Arduino-Microscope-Camera-Switcher",
+"desc": "Microscope camera switcher for OBS using an Arduino Nano BT 33 BLE",
+"stars": 0,
+"pushed": "2022-11-03"
+},
+{
+"full_name": "marcelo863/Proyecto-Redes",
+"url": "https://github.com/marcelo863/Proyecto-Redes",
+"desc": "",
+"stars": 0,
+"pushed": "2022-07-21"
+},
+{
+"full_name": "CurseofPerfectDays/bt",
+"url": "https://github.com/CurseofPerfectDays/bt",
+"desc": "a script for restarting bluetooth driver in xUbuntu",
+"stars": 0,
+"pushed": "2022-08-09"
+},
+{
+"full_name": "jener0907/mca_winter_pro",
+"url": "https://github.com/jener0907/mca_winter_pro",
+"desc": "",
+"stars": 1,
+"pushed": "2025-02-27"
+}
+],
+"queries": [
+"nano.bt in:email",
+"\"nano.bt\" in:readme in:description",
+"Thimphu Techpark type:org"
+]
+},
+"SB-038": {
+"code": "SB-038",
+"name": "tricomp.com.pl",
+"domains": [
+"tricomp.com.pl"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"tricomp.com.pl in:email",
+"\"tricomp.com.pl\" in:readme in:description",
+"tricomp.com.pl type:org"
+]
+},
+"SB-040": {
+"code": "SB-040",
+"name": "4Demand Co",
+"domains": [
+"4demand.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"4demand.co.uk in:email",
+"\"4demand.co.uk\" in:readme in:description",
+"4Demand Co type:org"
+]
+},
+"SB-041": {
+"code": "SB-041",
+"name": "Telcam Fire&securoty Ltd",
+"domains": [
+"telcam.co.uk"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"telcam.co.uk in:email",
+"\"telcam.co.uk\" in:readme in:description",
+"Telcam Fire&securoty Ltd type:org"
+]
+},
+"SB-044": {
+"code": "SB-044",
+"name": "Win-Tech Alliance Ltd",
+"domains": [
+"win-alliance.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"win-alliance.com in:email",
+"\"win-alliance.com\" in:readme in:description",
+"Win-Tech Alliance Ltd type:org"
+]
+},
+"SB-045": {
+"code": "SB-045",
+"name": "advancedigital.co.in",
+"domains": [
+"advancedigital.co.in"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"advancedigital.co.in in:email",
+"\"advancedigital.co.in\" in:readme in:description",
+"advancedigital.co.in type:org"
+]
+},
+"SB-048": {
+"code": "SB-048",
+"name": "Almaks Security SystemsGospodara",
+"domains": [
+"almaks.rs"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"almaks.rs in:email",
+"\"almaks.rs\" in:readme in:description",
+"Almaks Security SystemsGospodara type:org"
+]
+},
+"SB-051": {
+"code": "SB-051",
+"name": "Prestige Satellites Communications S.A.C.",
+"domains": [
+"prestigevsat.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"prestigevsat.com in:email",
+"\"prestigevsat.com\" in:readme in:description",
+"Prestige Satellites Communications S.A.C type:org"
+]
+},
+"SB-052": {
+"code": "SB-052",
+"name": "excellent data communications",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"excellent data communications type:org"
+]
+},
+"SB-055": {
+"code": "SB-055",
+"name": "DIOS ULTRA HD VIDEO SECURITY SYSTEMS",
+"domains": [
+"dios-industries.com"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"dios-industries.com in:email",
+"\"dios-industries.com\" in:readme in:description",
+"DIOS ULTRA HD VIDEO SECURITY SYSTEMS type:org"
+]
+},
+"SB-056": {
+"code": "SB-056",
+"name": "Net Work Business Solutions",
+"domains": [
+"nbs.ee"
+],
+"users": [],
+"orgs": [
+{
+"login": "Net-Buddies",
+"url": "https://github.com/Net-Buddies"
+}
+],
+"repos": [],
+"queries": [
+"nbs.ee in:email",
+"\"nbs.ee\" in:readme in:description",
+"Net Work Business Solutions type:org"
+]
+},
+"SB-058": {
+"code": "SB-058",
+"name": "SABMARtv",
+"domains": [],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"SABMARtv type:org"
+]
+},
+"SB-059": {
+"code": "SB-059",
+"name": "avanca.com.sg",
+"domains": [
+"avanca.com.sg"
+],
+"users": [],
+"orgs": [],
+"repos": [],
+"queries": [
+"avanca.com.sg in:email",
+"\"avanca.com.sg\" in:readme in:description",
+"avanca.com.sg type:org"
+]
+}
+}

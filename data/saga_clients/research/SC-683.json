@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：voygar.de/en/support-downloads/imprint（VOYGAR SYS：VOYGAR SYSTEMS GmbH（voygar.de；**官网 Imprint：Stresemannstr 23, 10963 Berlin；030 65774162；inf · 未取（HRB 1 查未得） · 营业中（官网 2026） · 成立 未取（CVI 201 · Stresemannstr. 23, 10963 Berlin",
+    "url": "http://www.voygar.de/en/support-downloads/imprint",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

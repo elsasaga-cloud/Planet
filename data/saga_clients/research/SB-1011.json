@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SE · 1 次检索：allabolag（Binär Teknik Scandinavia AB；Org.nr 5591：Binär Teknik Scandinavia AB（binarteknik.se；马尔默 Lugna Gatan 39, 211 59；org.nr 559181-6201；V · Org.nr 559181-6201 · Aktiv · 成立 2018-11-26 · Lugna Gatan 39, 211 59 Malmö",
+    "url": "https://www.allabolag.se/5591816201/binar-teknik-scandinavia-ab",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

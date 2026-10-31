@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：bcs.pl/gb/content/24-change-of-company-name（2024-：BCS Sp. z o.o.（原 NSS Sp. z o.o.，2024-10-14 更名；bcs.pl；Warszawa）— 波兰 CCTV 自有品牌 BCS（2008 起）的品 · KRS 0000092488（NIP 5213124674；REGON 0171 · Aktywna（2024-10-14 更名） · 成立 2002-02-21 · ul. Modularna 11, 02-238 Warszawa",
+    "url": "https://rejestr.io/krs/92488/bcs",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

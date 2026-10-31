@@ -223,5 +223,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：官网页脚（Bettini S.r.l.；Milan Register of Companies n：BETTINI S.R.L.（bettinivideo.com；注册地 Via Marco Ulpio Traiano 16 Milano，运营 / 研发 / 生产 Via E.  · P.IVA / CF 11883080159；REA MI-1506925 · Active · 成立 1996-09-23 · 运营 Via E. H. Grieg 23, 21047 Saronno (VA)；注册 Via Marco Ulpio Traiano 16, 20149 M",
+    "url": "https://www.ufficiocamerale.it/9537/bettini-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

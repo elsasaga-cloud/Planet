@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：congtydoanhnghiep.com（Công Ty TNHH Công Nghệ Và T：CÔNG TY TNHH CÔNG NGHỆ VÀ TRUYỀN THÔNG COMTEC（comtec.com.vn；**MST 0100774014；成立 1998-11-09 · MST 0100774014 · 营业中（已验证 2024-11） · 成立 1998-11-09 · Số 9, ngách 45, ngõ 91 Nguyễn Chí Thanh, Láng Hạ, Đống Đa, Hà Nội, Việt Nam",
+    "url": "https://www.yellowpages.vn/lgs/720336/comtec-cong-ty-tnhh-cong-nghe---truyen-thong-comtec.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · Northdata（Handelsregister 镜像：HRB、LEI、成立、资本、GF 更替、商标 / 专：Murrelektronik GmbH · Amtsgericht Stuttgart HRB 270279 · LEI 5 · Aktiv · 成立 1975-09-24 · Grabenstr. 29, D-71570 Oppenweiler（2024-12 迁址登记）",
+    "url": "https://www.northdata.de/Murrelektronik%20GmbH,%20Oppenweiler",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · web_search 取号（Companies House 12459641；companycheck 董事 ：Britanic Cabling Production Limited（britaniccablingproduction.com；Northampton） · 12459641 · Active · 成立 2020-02-12 · 注册 7 Premier Court, Boarden Close, Moulton Park Industrial Estate, Northampton N",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12459641",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

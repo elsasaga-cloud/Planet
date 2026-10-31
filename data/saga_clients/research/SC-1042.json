@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：mool.ai/research/nse/cpplus（上市 / 规模 / 份额 / 总部）+ z：Aditya Infotech Limited — CP PLUS / Aditya Group（adityagroup.com；**NSE: CPPLUS / BSE 54446 · NSE: CPPLUS / BSE 544466（CIN 未抄） · 上市（2025 起） · 成立 1995 · A-12, Sector 4, Noida, Uttar Pradesh 201301",
+    "url": "https://mool.ai/research/nse/cpplus",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

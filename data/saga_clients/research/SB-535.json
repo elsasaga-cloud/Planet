@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：firmy.euro.cz（ESCAD Trade s.r.o.；Městský soud v P：ESCAD Trade s.r.o.（escadtrade.cz；U Továren 770/1b, 102 00 Praha 10 – Hostivař；IČO 60487283 · IČO 60487283 · Aktivní · 成立 1994-03-29 · U Továren 770/1b, 102 00 Praha 10 – Hostivař",
+    "url": "https://firmy.euro.cz/subjekt-escad-trade-s-r-o-60487283",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

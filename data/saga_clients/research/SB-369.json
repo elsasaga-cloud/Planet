@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：wieland-electric.com/en/imprint（HRB 105 Amtsgeric：Wieland Electric GmbH（wieland-electric.com；Bamberg）— 工业连接 / 自动化集团，wienet 工业交换机为代工自有品牌 · Amtsgericht Bamberg HRB 105（LEI 5299001A · Active · 成立 1910（创立）/  · Brennerstraße 10-14, 96052 Bamberg",
+    "url": "https://www.wieland-electric.com/en/imprint/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

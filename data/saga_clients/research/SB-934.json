@@ -211,5 +211,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：observint.com/News（Alibi Security … owned by pare：Alibi Security（alibisecurity.com；**美国：15505 Long Vista Drive, Suite 250, Austin, TX 78728； · 未取（Texas SoS 付费；品牌隶属 Observint Technolog · 营业中（官网 + 新闻） · 成立 约 1990（自述  · 15505 Long Vista Drive, Suite 250, Austin, TX 78728, USA",
+    "url": "https://observint.com/News/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

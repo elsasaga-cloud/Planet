@@ -160,5 +160,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：jobkorea（㈜인터코엑스；그 외 기타 전기장비 제조업；사원수 17명 2021.12.3：(주)인터코엑스 INTERCOAX Co., Ltd.（intercoax.com；**사업자등록번호 140-81-85228；设立 2014-04-17**；경기도 안양시  · 사업자등록번호 140-81-85228 · 계속사업자（Active） · 成立 2014-04-17 · 경기도 안양시 동안구 학의로 250",
+    "url": "https://www.jobkorea.co.kr/recruit/co_read/c/intercoax",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

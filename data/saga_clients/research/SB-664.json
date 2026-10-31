@@ -206,5 +206,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：bizraport / rejestr.io（KRS 0000416117；NIP 6312645：JM elektronik Sp. z o.o.（jm.pl；KRS 0000416117；Gliwice）— 元器件 / 自动化分销（ICP DAS） · KRS 0000416117 / NIP 6312645365 / REGON  · Aktywna（2025 年报已提交 2026-06） · 成立 2012-04-03 · ul. Karolinki 58, 44-100 Gliwice",
+    "url": "https://rejestr.io/krs/416117/jm-elektronik",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

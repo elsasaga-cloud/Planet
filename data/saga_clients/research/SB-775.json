@@ -186,5 +186,30 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Patton 官方 Corporate Profile PDF（Established 1984；：Patton Electronics Co.（Patton LLC；patton.com；Gaithersburg, Maryland）— 1984 年 Patton 兄弟创立的美 · Maryland C Corporation（SDAT 号未取）· SAM UE · Active（SAM 在册；2026 站点） · 成立 1984 · 7622 Rickenbacker Drive, Gaithersburg, MD 20879",
+    "url": "https://opengovus.com/sam-entity/CETFWF46TQ69",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "SignalHire / ZoomInfo：Patton, LLC（Patton Electronics Co.）· 7622 Rickenbacker Dr., Gaithersburg, MD 20882 · 1984 年 · 100–200 employees · Revenue ≈$29.9M · VoIP 网关 / SBC / 路由器 / 数据通信 · 含 Artel Video Products 事业部",
+    "url": "https://www.signalhire.com/companies/patton-electronics-co",
+    "note": "美国电信设备厂商（$30M、100–200 人）：自有 CopperLink/工业交换机线 → 可能的 OEM 外采方；回过信",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

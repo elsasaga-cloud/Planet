@@ -152,5 +152,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Australia · ABN Lookup（官方，2026-10-27 抽取）两条记录：Altronics（The Trustee for ALTRONICS UNIT TRUST，商号 Altronic Distributors；公司 ALTRONIC DISTRI · 交易主体 ABN 84 177 396 871（Fixed Unit Trust · Active（两条 ABN 均有效） · 成立 信托 ABN 200 · Perth WA 6003（174 Roe St, Northbridge）",
+    "url": "https://abr.business.gov.au/ABN/View?abn=84177396871",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：makonetworks.com/about（2000 年 Chris Massam + Simo：Mako Networks, Inc.（makonetworks.com；Elgin IL）— 云管理 PCI 网络设备商（2000 年奥克兰创立） · IL / NZ 登记号未取 · Active · 成立 2000（新西兰 Y · 1355 North McLean Blvd, Elgin, IL 60123",
+    "url": "https://makonetworks.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

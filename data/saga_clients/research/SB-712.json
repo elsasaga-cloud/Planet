@@ -191,5 +191,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：opengovwa（MAPLE SYSTEMS, INC.；WA UBI 600490742；Wa：Maple Systems, Inc.（maplesystems.com；Everett, WA）— 1983 年起的 HMI / PLC 制造商，2014 起员工持股 · Washington UBI 600490742 · Active · 成立 1983-05-25 · 808 134th St SW, Suite 120, Everett, WA 98204",
+    "url": "https://opengovwa.com/corporation/600490742",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "RocketReach / LeadIQ：Maple Systems, Inc. · 808 134th St. SW Suite 120, Everett, WA 98204 · Founded 1983 · 44–60 employees · Revenue $7.4M（LeadIQ 估 $50–100M 不采）· CEO Larry St. Peter · HMI / HMI+PLC / 工业面板 PC 品牌，兼容 AB/Schneider/Siemens",
+    "url": "https://rocketreach.co/maple-systems-inc-profile_b5e2be5ff42e6351",
+    "note": "工业自动化 HMI 品牌商（60 人）→ 配套工业交换机 OEM 口",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

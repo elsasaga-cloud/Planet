@@ -137,5 +137,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：thuvienphapluat / masothue 仅 CÔNG TY TNHH THỦY SẢ：LILIN Vietnam / Silversea HCM（lilin.vn / silverseahcm.vn；**1 查仅得同名异业（Silversea 水产 MST 4202 · 未坐实（同名异业） · 未坐实 · 成立 未取 · 未取（TP. Hồ Chí Minh）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

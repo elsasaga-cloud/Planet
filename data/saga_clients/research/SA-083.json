@@ -238,5 +238,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Italia · Registro Imprese 镜像（ufficiocamerale / fatturatoital：KYMA S.R.L.（Planet & 3onedata 意大利分销商） · P.IVA / C.F. 01612520351 · REA RE-199577 · Attiva（经营中） · 成立 1995-03-20 · Via Bernardino Zacchetti 31, 42124 Reggio Emilia（注册）；Via Masaccio 6, 42124 Reggi",
+    "url": "https://www.ufficiocamerale.it/5650/kyma-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

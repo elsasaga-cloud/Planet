@@ -234,5 +234,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（JAYANI TECHNOLOGIES LLP LLPIN AAA-6913；：Jayani Technologies LLP（JTOPTICS®；jtoptics.com；LLPIN AAA-6913（2011-11-17；RoC Mumbai）；Offic · LLPIN AAA-6913 · Active · 成立 2011-11-17 · Office 23, 3rd Floor, Building A, Gami Industrial Park, TTC MIDC, Pawane, Navi M",
+    "url": "https://www.zaubacorp.com/company/JAYANI-TECHNOLOGIES-LLP/AAA-6913",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

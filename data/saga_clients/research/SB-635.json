@@ -125,5 +125,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（LMD HITECH INDIA PRIVATE LIMITED CIN U2：LMD Hitech India Private Limited（radiantgroup.org 表内域名不可达；**CIN U29240HR2013PTC048422（2013 · CIN U29240HR2013PTC048422 · Active · 成立 2013-02-27 · Plot No. 620, Sector 8, IMT Manesar, Haryana 122052",
+    "url": "https://www.zaubacorp.com/company/LMD-HITECH-INDIA-PRIVATE-LIMITED/U29240HR2013PTC048422",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

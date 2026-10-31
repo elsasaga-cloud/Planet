@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CH · 1 次检索：help.ch（Videotronic AG Regensdorf；UID CHE-107.888：Videotronic AG（videotronic.ch；苏黎世州 Regensdorf Moosäckerstrasse 73, 8105；UID CHE-107.888.94 · UID CHE-107.888.942；CH-020.3.927.830-8 · Aktiv（2026 起 VIDEOR 控股） · 成立 1976-08-03 · Moosäckerstrasse 73, 8105 Regensdorf (ZH)",
+    "url": "https://business-monitor.ch/en/companies/197640-videotronic-ag",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -230,5 +230,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：startup-asean.org（Vulsan X；59-2 JALAN MPK 3 MEDAN：Vulsan X（vulsanx.com；**59-2, Jalan MPK 3, Medan Perdagangan Kepayang, 70200 Seremban, Nege · 未取（SSM 1 查未得） · 营业中（名录 ACTIVE） · 成立 2016-09-26 · 59-2, Jalan MPK 3, Medan Perdagangan Kepayang, 70200 Seremban, Negeri Sembilan, ",
+    "url": "https://startup-asean.org/startup-detail?Id=3a1bb4f9-e0d6-037e-0bda-3181b4fcc865",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

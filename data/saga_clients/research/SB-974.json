@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（b-plus GmbH Ulrichsberger Straße 17 ：b-plus 集团（b-plus.com；巴伐利亚 Deggendorf）— 母公司 b-plus GmbH（Amtsgericht Deggendorf HRB 1753；199 · HRB 1753（b-plus GmbH）/ HRB 5261（b-plus t · Active · 成立 1996-07-17 · Ulrichsberger Straße 17, 94469 Deggendorf（另 Regensburg / Lindau / Cham 站点）",
+    "url": "https://www.b-plus.com/de/impressum",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

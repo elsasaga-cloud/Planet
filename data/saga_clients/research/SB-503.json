@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · ABR ABN Lookup 名称检索（2 条匹配；ABN / 实体名 / 邮编；记录提取 2026-10-2：ELPRO TECHNOLOGIES PTY LTD · ABN 98 634 237 933（ACN 634 237 933 → 201 · Active · 成立 ≈2019（ACN  · QLD 4014（Nundah，布里斯班北）",
+    "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=elpro%20technologies",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

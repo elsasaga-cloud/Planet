@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Crunchbase（法定名 XBLUE Networks, LLC；Founder & Pres：XBLUE Networks, LLC（xblue.com；Phoenix AZ） · AZ / KS 登记号未取（AZ CC 为 JS 页） · Active（官网 2026-10 更新） · 成立 2005 · 20801 N. 19th Ave, Suite 2 & 3, Phoenix, AZ 85027",
+    "url": "https://www.crunchbase.com/organization/xblue-networks",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

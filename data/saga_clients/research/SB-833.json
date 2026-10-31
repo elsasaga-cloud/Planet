@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（comtime GmbH；Gutenbergring 67b, 2284：comtime GmbH（comtime-com.de；Norderstedt bei Hamburg）— 工业路由器 / M2M 调制解调器制造商「Made in Germany · Amtsgericht Kiel HRB 4574 NO；USt-IdNr. D · Active（2026-02 新任 GF） · 成立 2000（登记） · Gutenbergring 67b, 22848 Norderstedt（2025-03 迁入；旧址 Gutenbergring 22）；研发招聘地 Breme",
+    "url": "https://comtime-com.de/impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

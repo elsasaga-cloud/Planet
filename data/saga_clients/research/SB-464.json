@@ -154,5 +154,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：hamdaz.com/contact-us（UAE - HAMDAZTECH TECHNOLOGY：Hamdaz（hamdaz.com；**官网 contact：UAE = HAMDAZTECH TECHNOLOGY SERVICES LLC, PO Box 5758, Offi · UAE LLC 牌照号未取；印度 LLP CIN ACA-6304（2023-0 · 营业中（官网 + 企业库） · 成立 2023 / 202 · Office 22, 2nd Floor, Millennium Tower, Hamdan Street, Abu Dhabi, UAE",
+    "url": "https://hamdaz.com/contact-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

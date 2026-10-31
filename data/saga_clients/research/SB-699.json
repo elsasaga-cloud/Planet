@@ -219,5 +219,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：aihitdata（ABN 22 134 085 644；2008 成立，堪培拉总部；自有品牌媒体：CCD NETWORKING PTY. LTD.（Fyshwick, Canberra ACT；新域 ccd.au） · ABN 22 134 085 644 · ACN 134 085 644（≈20 · Active（新域 ccd.au 2026 在线） · 成立 2008（自述；AC · Unit 4, 10 Maryborough Street, Fyshwick, ACT 2609（旧址 Unit 13, 41-45 Tennant St）",
+    "url": "https://ccd.au/pages/contact",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

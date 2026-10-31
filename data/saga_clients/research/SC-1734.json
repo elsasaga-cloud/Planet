@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：correst（CIN / 成立 / 资本 / 地址）+ zoominfo（GridX / 业务 ：Joohitha Power Systems Private Limited — GridX（gridx.in / joohithapower.com；**CIN U74999TG · U74999TG2011PTC077260（CIN） · Active（MCA） · 成立 2011-11-04 · H.No.1-8-12/20/A/NR, 3rd Floor, Street No.8, Habsiguda, Hyderabad, Telangana 500",
+    "url": "https://correst.io/public/company/joohitha-power-systems-pvt-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -189,6 +189,20 @@ updated: 2026-10-31
 - 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：bisprofiles / Sunbiz（NODAC TECHNOLOGY, INC.；Domes：NODAC TECHNOLOGY, INC.（nodactechnology.com；Doral / Miami, Florida + Pompano Beach）— 2005-0 · FL Sunbiz P05000037533 · FEI 20-2538531 · Active · 成立 2005-03-10 · 2236 NW 82nd Ave, Doral (Miami), FL 33122；1301 W Copans Rd #A-3, Pompano Beach,  — <https://bisprofiles.com/fl/nodac-technology-p05000037533>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**供应商/品牌关系**
+
+- 2026-10-31：nodactechnology.com：Nodac Technology · 2236 NW 82 Av, Miami FL 33122 + 1301 W Copans Rd Pompano Beach + Hong Kong · since 2001 · 分销 Hikvision, ZKTeco, Ruijie, TP-Link, Wi-Tek, Dahua, Uniview, TVT, Alula · 覆盖 USA / Caribbean / Central America · **自牌 Lysora**（新品 LS2P-16MG4XS-HP 16 口 2.5G L2+ 管理 PoE）· WhatsApp +1 786 377 4190 — <https://nodactechnology.com/>　*已在用自牌 Lysora 卖 2.5G PoE 交换机 = 现成 ODM 买家 → 回信即 A 候选；香港办公室可面谈*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：11 封（去 11 / 来 0）　|　**期间**：2025-06-20 → 2026-02-09　|　**最后去信**：2026-02-09

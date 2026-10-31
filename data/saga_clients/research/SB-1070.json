@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SE · 1 次检索：allabolag（SafeGuard Sverige AB；Org.nr 559523-7867：SafeGuard Sverige AB（safeguard.se；Norsborg Fågelviksvägen 9, 145 53（Botkyrka）；org.nr 55952 · Org.nr 559523-7867 · Aktiv（2025 新设；前身破产） · 成立 2025-03-18 · Fågelviksvägen 9, 145 53 Norsborg",
+    "url": "https://www.allabolag.se/foretag/safeguard-sverige-ab/norsborg/bevakningsf%C3%B6retag/2KJ9D63I5YCZJ",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

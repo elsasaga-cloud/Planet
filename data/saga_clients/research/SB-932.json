@@ -280,5 +280,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Deutschland · Handelsregister（Northdata 免费页：登记 / GF / 资本 / 年：Acceed GmbH · Amtsgericht Düsseldorf HRB 40029 · EUID  · Aktiv（2024 年报 2026-06 公示；股东名单  · 成立 2000-12-29 · Arnoldstr. 19, D-40479 Düsseldorf",
+    "url": "https://www.northdata.de/Acceed%20GmbH,%20D%C3%BCsseldorf",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

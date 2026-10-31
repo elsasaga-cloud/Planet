@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 İletişim（Monkas Bilişim Teknolojileri A.Ş.；Çam：Monkas Bilişim Teknolojileri A.Ş.（monkas.com.tr；**安卡拉 Yenimahalle**，非伊斯坦布尔）— 安防摄像机 / 网络设备网 · A.Ş.（Ankara 商事登记；MERSİS / Vergi No 未取 →  · Active（站点在线、Instagram 活跃） · 成立 未取（域名 ≥202 · Çamlıca Mah. Anadolu Blv. Timko 1 Sok. No:20 A-5 (Tekno Bilgisayar İş Merkezi), ",
+    "url": "https://monkas.com.tr/iletisim",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

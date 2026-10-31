@@ -194,13 +194,28 @@
   "manual": true
  },
  "b_tier": {
-  "tier": "B1",
-  "why": "有回信（R+）",
-  "batch": "B-PASS-01",
+  "tier": "B2",
+  "why": "有回信（R+）；B-PASS-02 2026-10-31：Marmaris Bilişim：无域名个人 → B2（不可挖）",
+  "batch": "B-PASS-02",
   "date": "2026-10-31",
   "ident": "法定名",
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索（顺带命中）：şikayetvar 结构化数据（Marmaris Bilişim，Sarıana M：Marmaris Bilişim（Marmaris Wifi；Marmaris / Muğla） · 未取（推定 şahıs 个体） · Aktif（域 marmarisbilisim.com.tr · 成立 未取 · Sarıana Mah. Mustafa Kemal Paşa Cad. No:19, Marmaris / Muğla",
+    "url": "https://www.sikayetvar.com/marmaris-bilisim",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

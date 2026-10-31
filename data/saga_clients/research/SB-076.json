@@ -143,5 +143,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · Companies House officers 页（11228236）：1 officer / 0 resi：IST SURVEILLANCE LTD（11228236；London N5） · 11228236 · Active · 成立 2018-02-27 · Office 408, Screenworks, 22 Highbury Grove, London N5 2ER",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11228236/officers",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

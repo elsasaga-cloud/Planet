@@ -291,6 +291,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · 官网 Hakkımızda + LinkedIn 公司页（2019 成立）+ ZoomInfo / ：ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ SAN. TİC. LTD. ŞTİ. · Ltd. Şti.（İstanbul Ticaret Sicili；MERSİS · Aktif（官网 + LinkedIn 2026 更新） · 成立 2019（创始人自述 · Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（ZoomInfo 另列 Mevlana Mh. ",
+    "url": "http://zeytek.com.tr/Hakkimizda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（WI-COM SOLUTIONS S.R.L.；P.IVA 076：WI-COM SOLUTIONS S.R.L.（wicomsolutions.it；Monza e Brianza Bovisio Masciago Via Leonardo da · P.IVA / CF 07628770963；REA MB-1880777 · Active · 成立 2011-11-30 · Via Leonardo da Vinci 11, 20813 Bovisio Masciago (MB)",
+    "url": "https://www.ufficiocamerale.it/2764/wi-com-solutions-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

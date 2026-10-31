@@ -474,6 +474,16 @@
     "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Polska · KRS（krs-pobierz / aleo 镜像）：„TRICOMP” SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ · KRS 0000121281 · NIP 5222477449 · REGON  · Aktywna（KRS 最近变更 2025-04-14） · 成立 2002-07-04 · Al. Prymasa Tysiąclecia 78A, 01-424 Warszawa",
+    "url": "https://aleo.com/int/company/tricomp-spolka-z-ograniczona-odpowiedzialnoscia",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

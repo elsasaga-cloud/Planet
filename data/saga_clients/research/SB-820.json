@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：prismwifi.com/zh/company（\"PRISM\" 是由普羅通信在 2022 年所推：PRISM Wi-Fi = **普羅通信 Browan Communications Inc. 2022 年推出的企業無線品牌**（prismwifi.com；普羅通信成立 199 · 未取（普羅通信 統一編號 未得） · 营业中（品牌站在线） · 成立 1999 / 200 · 未取（普羅通信：新竹，推定）",
+    "url": "https://www.prismwifi.com/zh/company/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

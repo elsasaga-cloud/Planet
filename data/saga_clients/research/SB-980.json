@@ -149,5 +149,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NL · 1 次检索：drimble.nl（IP Voice Group Services B.V.；Grootzeil：IP Voice Group Services B.V.（网店 ipvoiceshop.nl「Powered by IP Voice Group」；Grootzeil 1, 389 · KvK 61046655 · Actief · 成立 ≈2014（KvK  · Grootzeil 1, 3891 KH Zeewolde",
+    "url": "https://drimble.nl/bedrijf/zeewolde/30181968/ip-voice-group-services-bv.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

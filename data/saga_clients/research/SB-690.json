@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：n11 店铺信息（Şirket Ünvanı Troyy Bilişim Geçiş Kontro：Troyy Bilişim Geçiş Kontrol Sistemleri Elektronik Güvenlik San. ve Tic. Ltd. Şti.（Troyy Ko · MERSİS 0859063031500011 · Vergi No 85906 · Active（站点在线；n11 店在营） · 成立 2016 · İvedik OSB Mah. 1354. Cad. Fora İş Merkezi A Blok Kat 1 No:138/100, Yenimahalle ",
+    "url": "https://www.n11.com/magaza/msec",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

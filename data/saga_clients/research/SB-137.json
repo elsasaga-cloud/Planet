@@ -289,6 +289,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：oralcompanies.com（Oral Companies 1982 起 KKTC；旗下 O：Oral Güvenlik Sistemleri（Oral Companies 旗下；oralguvenlik.com；**北塞浦路斯（KKTC）尼科西亚 — 表内归土耳其，货物经 · 未取（KKTC 公司登记不可达 → 部分坐实）；母体 Oral Companie · Active（站点 / 招聘在线） · 成立 2008（安防单元） · Lefkoşa（尼科西亚），KKTC（门牌未取；+90 392 228 33 30）",
+    "url": "https://www.oralcompanies.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

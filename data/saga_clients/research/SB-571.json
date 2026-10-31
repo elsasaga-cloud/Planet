@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvizitai.vz.lt（ENERGUS GROUP, UAB；Savanorių pr.：UAB „ENERGUS GROUP“（energus.eu / energusgroup.com；维尔纽斯 Savanorių pr. 176C, LT-03154；įmonės · Įmonės kodas 304419130；PVM LT10001125941 · Aktyvi · 成立 2016-11-02 · Savanorių pr. 176C, LT-03154 Vilnius",
+    "url": "https://rekvizitai.vz.lt/en/company/energus_group/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

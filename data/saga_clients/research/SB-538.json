@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：官网 about（2003 起、62,000 sq ft）+ opengovca / canada：Infinite Cables Inc.（DBA Phantom Cables；Markham, Ontario） · Corporations Canada 6482929 · BN 8138521 · Active · 成立 2006-01-01 · 3993 14th Avenue, Markham, ON L3R 4Z6（62,000 sq ft 办公 + 仓）",
+    "url": "https://opengovca.com/corporation/6482929",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

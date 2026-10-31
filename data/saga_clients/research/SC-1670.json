@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：yellowpages.vn（MST / 成立 / 人数 / 业务 / 地址）；2026-10-2：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（metsuki.com.vn；**MST 0304967173；2007-05- · 0304967173（MST） · 营业中（目录 2024） · 成立 2007-05-02 · 41/1F Tân Thới Nhất 1, Khu Phố 3, Phường Tân Thới Nhất, Quận 12, TP. Hồ Chí Minh",
+    "url": "https://www.yellowpages.vn/lgs/1187674716/cong-ty-tnhh-phat-trien-cong-nghe-metsuki-vietnam.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

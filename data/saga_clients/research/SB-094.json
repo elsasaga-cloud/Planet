@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 官网 about / contact + SupplierConnect 名录（地址 / 创立 2000-01：Maxcom, Inc.（Fair Oaks / Orangevale, California —— **美国**，用户表国别 CA 实为加州缩写误判） · 未取（California corporation 推定） · Active（官网 2025-08 更新） · 成立 2000-01 · 7996 California Ave Ste E, Fair Oaks, CA 95628（旧址 6105 Main Ave Ste 14, Orangeva",
+    "url": "https://www.maxcomcorp.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

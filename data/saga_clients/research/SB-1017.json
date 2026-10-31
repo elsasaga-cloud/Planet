@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：官网 Kontakt（Cellco Communications Sp. z o.o.；ul. S：Cellco Communications Sp. z o.o.（cellco.com.pl；Kobylanka k. Szczecina + Warszawa 分部）— 光纤技术 · KRS 0000213509（Szczecin）；NIP 8521826706 · Active（2026 官网更新） · 成立 2004-08-03 · ul. Szczecińska 30E, 73-108 Kobylanka（总部）；Plac Konesera 12, 03-736 Warszawa（分部）",
+    "url": "https://www.cellco.com.pl/kontakt.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

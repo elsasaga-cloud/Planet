@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 11576417（WIRE TECHNOLOGIES LIMITE：WIRE TECHNOLOGIES LIMITED（wire.tech；Cirencester）— 数据中心互连产品自有品牌（光模块 / DAC / 线缆），2026-01 并入  · Companies House 11576417（PSC Granity Poi · Active · 成立 2018-09-19 · Unit 5 Cirencester Business Estate, Esland Place, Love Lane, Cirencester, Glouce",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11576417",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

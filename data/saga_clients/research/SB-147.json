@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · web_search 取号（官网页脚「Registered in England 12058650 · VAT：Genie Products（genieproducts.co.uk；法定主体 BIOACCESS SALES LIMITED；Stevenage） · 12058650（VAT GB 325 6941 88） · Active · 成立 2019-06-19 · 注册 c/o Becktech Limited, Terminus Road, Chichester PO19 8DW（会计师地址）；营业 Caxton Poi",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12058650",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

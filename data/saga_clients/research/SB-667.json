@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：mgt.bayern Impressum（Münchner Glasfaser-Technik G：Münchner Glasfaser-Technik GmbH（mgt.bayern；Gilching bei München，2022-12 自 München Ubostr.  · HRB 244603 Amtsgericht München · USt-ID  · Active（2022-12 登记变更；站点在线） · 成立 2018-10-30 · Rudolf-Diesel-Straße 12, 82205 Gilching（旧址 Ubostr. 21, 81245 München）",
+    "url": "https://www.mgt.bayern/impressum-und-datenschutz",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

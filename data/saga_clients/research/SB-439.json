@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 1 次确认检索：societe.com（EXXELL VISION；SIREN 493 179 089；SIR：E.V. EXXELL VISION SAS（商号 EXXELL VISION；exxell.fr / exxellfix.fr；上塞纳 Boulogne-Billancourt  · SIREN 493 179 089（RCS Nanterre）；TVA FR62 · Active · 成立 2006-11-20 · 204 Allée du Forum, 92100 Boulogne-Billancourt",
+    "url": "https://www.pappers.fr/entreprise/ev-exxell-vision-493179089",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

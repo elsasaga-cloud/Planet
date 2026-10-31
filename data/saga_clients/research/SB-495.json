@@ -289,5 +289,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：topnetdistribution.com（Topnet Distribution FZCO；W：Topnet Distribution FZCO（topnet.ae / topnetdistribution.com；**Warehouse Unit K-11, Dubai A · 未取（FZCO；牌照号 1 查未得） · 营业中（官网在；3 法人集团） · 成立 未取 · Warehouse Unit K-11, Dubai Airport Free Zone, Dubai, UAE (P.O. Box 54791)",
+    "url": "https://www.topnetdistribution.com/contact-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

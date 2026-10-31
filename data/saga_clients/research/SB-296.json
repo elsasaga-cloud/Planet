@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：bhs-media.com/Contact-Us（Head Office: No.401, Bui：BHS Media / BHS Telecommunications（bhs-media.com；**官网 Contact-Us：Head Office No.401, Build · 未取（Dubai Media City 执照号 1 查未得） · 营业中（官网 + ZoomInfo） · 成立 未取 · No.401, Building No.1, Dubai Media City, Sheikh Zayed Road, Dubai, UAE",
+    "url": "http://bhs-media.com/Contact-Us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

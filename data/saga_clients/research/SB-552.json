@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：recordowl（SECUREVISION PTE. LTD.；UEN 200614644E；0：Securevision Pte. Ltd.（securevision.com.sg；**UEN 200614644E；注册 2006-10-03；Live；次业 楼宇自动化远程监 · UEN 200614644E · Live Company · 成立 2006-10-03 · 未取（新加坡；recordowl 未展示）",
+    "url": "https://recordowl.com/company/securevision-pte-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

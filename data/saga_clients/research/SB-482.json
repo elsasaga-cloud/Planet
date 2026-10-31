@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "JO · 1 次检索：keme-tec.com/about-us（KHALEEL ELECTRO MECHANICAL ：Khaleel Electro Mechanical Est.（KEME-TEC；مؤسسة خليل قطناني للكهروميكانيك；keme-tec.com；**官网 · 未取（商业登记号 1 查未得） · 营业中（官网 2023 + ZoomInfo） · 成立 2008 · Al-Hizam Street, Abu Alanda, Amman, Jordan",
+    "url": "https://keme-tec.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

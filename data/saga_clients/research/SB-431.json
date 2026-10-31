@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（PROTEKNA S.R.L.；P.IVA 03451940237：PROTEKNA S.R.L.（protekna.com / protekna.it；维罗纳 Villafranca di Verona – Dossobuono Via A. V · P.IVA / CF 03451940237；REA VR-337644 · Active · 成立 2005-01-03 · Via A. Volta 4/E, 37062 Dossobuono – Villafranca di Verona (VR)",
+    "url": "https://www.ufficiocamerale.it/5650/protekna-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

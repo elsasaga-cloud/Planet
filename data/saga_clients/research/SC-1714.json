@@ -130,5 +130,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CH · 1 次检索：northdata（CHE / LEI / 成立日 / 地址）+ kompass（资本 / 人数 ：Omni Ray AG（omniray.ch；**Schweizer Handelsregister CHE-105.959.689；LEI 967600D74EO0N5PVE22 · CHE-105.959.689 · Active（Handelsregister） · 成立 1950-08-16 · Im Schörli 5, 8600 Dübendorf",
+    "url": "https://www.northdata.com/Omni%20Ray%20AG,%20D%C3%BCbendorf/CHE-105.959.689",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

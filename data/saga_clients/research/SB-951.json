@@ -197,5 +197,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：OpenCorporates MT C1022717（Domestic LLC；Active Go：Montavue LLC（montavue.com；Missoula MT） · Montana SoS C1022717 · Active Good Standing · 成立 2016-09-19 · 5707 W Harrier Dr, Missoula, MT 59808",
+    "url": "https://opencorporates.com/companies/us_mt/C1022717",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "ZoomInfo / explorium / seamless：Montavue（LLC）· Missoula/Bozeman, Montana · Founded 2015 · 11–50（11 可见）· Revenue $1–5M（ZoomInfo $5.1M）· CEO & Founder Cody Gordon · DTC 安防摄像品牌；Wholesale Account Manager Jack Burns、Sales Manager Russ Simmons",
+    "url": "https://www.zoominfo.com/c/montavue-llc/443156558",
+    "note": "美国 DTC 安防品牌（自标 PoE 交换机配套）11 人 → OEM 小量",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

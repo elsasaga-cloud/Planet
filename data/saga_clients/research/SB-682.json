@@ -223,5 +223,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 Contact / 博客（Server Blink LLC；2024-07-24 登记地址由：Server Blink LLC（serverblink.com；Louisville, Kentucky — 登记地址为邮箱套房 PMB 5001）— 2022 年成立的 IT  · KY LLC（SoS 号未取 → 部分坐实） · Active（2026 评论活跃） · 成立 2022 · 2210 Goldsmith Lane, Ste 126-5001 (PMB), Louisville, KY 40218",
+    "url": "https://www.serverblink.com/blog/serverblinks-registered-address-has-changed/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

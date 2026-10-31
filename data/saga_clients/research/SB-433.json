@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：iberinform（RISTER TECNOLOGIA SL；CIF B67260901；mar：RISTER TECNOLOGIA SL（rister.com；Avenida Roma 97, P. BJ, 08029 Barcelona；CIF B67260901；Regi · CIF B67260901 · Activa · 成立 2018-07-16 · Avenida Roma 97, P. BJ, 08029 Barcelona",
+    "url": "https://www.iberinform.es/empresa/8097580/rister-tecnologia",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

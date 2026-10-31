@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：recordowl（3TEL INTERNATIONAL PTE. LTD.；Registrati：3Tel International Pte. Ltd.（3tel.com.sg；**UEN 201325873K；注册 2013-09-24；Local Company；Live · UEN 201325873K · Live Company（年报 2025-09-30） · 成立 2013-09-24 · 15 Yishun Industrial Street 1 #01-17 Win 5, Singapore 768091",
+    "url": "https://recordowl.com/company/3tel-international-pte-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

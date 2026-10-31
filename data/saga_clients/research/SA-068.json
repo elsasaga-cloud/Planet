@@ -483,6 +483,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）：PT. RAS Otomasi Indonesia · （登记状态不可免费核） · 成立 — · Office: Menara 165 4th Fl, Jl. TB Simatupang Kav.1, Cilandak, Jakarta Selatan 12",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

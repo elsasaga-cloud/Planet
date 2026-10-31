@@ -138,5 +138,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 2 次检索：「gotinc.co.kr 지오티 GOT Inc 산업용 PoE 스위치 사업자등록번호」→ g：（表内 gotinc.co.kr；gotsales@gotinc.co.kr；「自己的 logo，拿的 G-net 的；工业 FS PoE 海思的」）— **官网为防机器人验证页； · 未取 · 主体不明 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

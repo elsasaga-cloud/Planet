@@ -190,5 +190,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：govtribe.com/vendors/fiber-instrument-sales-inc-d：Fiber Instrument Sales, Inc.（FIS；fiberinstrumentsales.com；**GovTribe / SAM.gov：UEI H7LXDNB · UEI H7LXDNB9UAY8 / CAGE 0CKD9（NY 公司号未取） · Active（SAM.gov 至 2026-12-30） · 成立 1985 · 161 Clear Road, Oriskany, NY 13424, US",
+    "url": "https://govtribe.com/vendors/fiber-instrument-sales-inc-dot-0ckd9",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

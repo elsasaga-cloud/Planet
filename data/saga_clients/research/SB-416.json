@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：abcv.pl/dane-firmy + /pl/contact（ABC VISION - SYS：ABC VISION - SYSTEMY ZABEZPIECZEŃ Artur Bogucki（abcv.pl；Płock）— CEIDG 个体户 · NIP 7742987442 / REGON 142729969（CEIDG） · Active（网店 2026 在线） · 成立 2011 · ul. 1 Maja 12/35, 09-402 Płock",
+    "url": "https://abcv.pl/dane-firmy",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

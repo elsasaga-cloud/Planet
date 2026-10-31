@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：lanmus.com（6725 S Fry Rd, Ste 700 #108, Katy TX 7：Lanmus Networks（lanmus.com；Katy, TX 虚拟办公地址）— 自有品牌交换机壳公司（中东 / 非洲渠道，MAC OUI 2024-10）= 同行 · 美国实体未坐实（TX SoS 无同名；OUI 登记名「Lanmus Networ · 官网在线（2026-09 更新） · 成立 ≈2024（OUI  · 6725 S Fry Rd, Ste 700 #108, Katy, TX 77494（虚拟地址）",
+    "url": "https://lanmus.com/about-lanmus-networks/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

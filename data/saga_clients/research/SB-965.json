@@ -256,5 +256,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UZ · 1 次检索：goldenpages.uz/en/company/?Id=97905（VIDCOM. LTD；T：\"VIDCOM\" ООО / VIDCOM Ltd（vidcom.uz；**goldenpages.uz / pc.uz：100115 Ташкент, Чиланзарский  · ИНН 30548****（名录打码；未全） · 营业中（官网 + 名录 verified） · 成立 未取 · ул. Арнасай, кв-л Чиланзар-2, 26, Чиланзарский район, Ташкент 100115, Uzbekistan",
+    "url": "https://www.goldenpages.uz/en/company/?Id=97905",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

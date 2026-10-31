@@ -181,6 +181,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TR · 1 次检索：官网（2006 年 İstanbul 成立，2011 起商业化生产；PLC / RTU / 网关 ：Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.（mikrodev.com；İstanbul 注册，Gebze  · Ltd. Şti.（İstanbul / Kocaeli；MERSİS 号未取） · Active（官网 2025-09 更新） · 成立 2006 · TÜBİTAK MAM Teknoloji Serbest Bölgesi, Gebze / Kocaeli（生产）；İstanbul（注册）；英国 / 南非分 — <https://www.mikrodev.com/about/>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：5 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-24T07:26:33Z

@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BE · 1 次检索：companyweb（BE 0424.592.259；Rue de l’Abbaye 89 404：A.N.B. RIMEX SA（AnB-Rimex；anb-rimex.be；比利时列日 Herstal Parc Industriel des Hauts-Sarts；BCE 0 · BCE / TVA BE 0424.592.259（établissement  · Active（situation normale） · 成立 1983-07-26 · Rue de l’Abbaye 89, 4040 Herstal（Liège）",
+    "url": "https://www.companyweb.be/en/0424592259/a-n-b-rimex",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

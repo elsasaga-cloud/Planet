@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US→CA · 1 次检索：官网 About（Headquarters Netronics Communications：Netronics Communications Inc.（netronicsnetworks.com；Markham, Ontario, 加拿大 + 迪拜办公室）— 无线宽带 / · Ontario 公司号未取（Ontario 登记付费 / JS） · 在营 · 成立 1996 · 600-15 Allstate Parkway, Markham, Ontario L3R 5B4, Canada；G-12 Al Nasr Plaza, Ou",
+    "url": "https://www.netronicsnetworks.com/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

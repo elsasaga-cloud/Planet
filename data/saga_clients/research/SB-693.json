@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：binhilaltrading.ae（A Part of the Bin Hilal Holdin：Bin Hilal Group / Bin Hilal Holdings（**2005 年成立；总部 9th Street, Umm Ramool, Rashidiya, Duba · 未取（集团多 LLC；牌照号 1 查未得） · 营业中（官网 + 企业库） · 成立 2005（集团） · Bin Hilal Holding Head Office, 9th Street, Umm Ramool, Rashidiya, Dubai, UAE",
+    "url": "https://binhilaltrading.ae/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

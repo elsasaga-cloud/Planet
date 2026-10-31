@@ -211,5 +211,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：saf-slk.de/impressum（Schaltanlagenbau Förderstedt：Schaltanlagenbau Förderstedt GmbH（saf-slk.de；Seeland OT Hoym，Sachsen-Anhalt）— 低压开关柜 / 控制柜制 · Amtsgericht Stendal HRB 19446 · Active · 成立 2013-04-17 · Ascherslebener Straße 18d, 06467 Seeland OT Hoym（研究档旧址 Neue Anlage 2, 39439 Güst",
+    "url": "https://saf-slk.de/impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

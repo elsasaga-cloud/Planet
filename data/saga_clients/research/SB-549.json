@@ -164,5 +164,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：LinkedIn 公司页（Fort Lauderdale；11–50 人；Founded 2018：PoEWit Technologies Inc.（poewit.com；Fort Lauderdale FL）— 前 Pakedge 创始人的 PoE 智能家居品牌 · FL 登记号未取（Sunbiz ✗；FCC Grantee 2A24W） · Active（CEDIA 2025 展商） · 成立 2018-02 · 3301 S Andrews Ave, Suite 5, Fort Lauderdale, FL 33316",
+    "url": "https://www.linkedin.com/company/poewit",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

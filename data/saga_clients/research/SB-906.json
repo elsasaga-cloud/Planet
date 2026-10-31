@@ -146,5 +146,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 直查 ×2：avizio.pl/kontakt → 404；avizio.pl 根域名 → 302 跳转 a-：Avizio（avizio.pl）= A-LAN Technologie / AICOM 自有 CCTV 品牌 → 并线 SB-445 · = SB-445 AICOM（KRS 0000654397） · Active（a-lan.pl 2026 更新） · 成立 — 见 SB-445 · = SB-445",
+    "url": "https://a-lan.pl/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

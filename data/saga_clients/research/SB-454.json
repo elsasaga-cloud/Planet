@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：OWG / CEIDG（Leoptics Maja Matyjewicz；NIP 72518504：Leoptics（leoptics.pl；Łódź）— 光模块 / CWDM / 网络交换机波兰网店（WordPress；SPEED-CWDM 系列资料 2017）；**CEIDG · 部分坐实（CEIDG NIP 7251850432 · REGON 364507 · Active（CEIDG 在册；站点快照 ok） · 成立 2018-10-07 · ul. Rewolucji 1905 r. 18/63, 90-207 Łódź（CEIDG）",
+    "url": "https://www.owg.pl/ceidg/leoptics_maja_matyjewicz_9,74,725185,7251850432",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

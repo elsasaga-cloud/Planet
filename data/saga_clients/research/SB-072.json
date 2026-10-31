@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：knowyourgst（TECHNOSYS GSTIN 27AWZPS2792Q2ZY；Propr：TECHNOSYS（technosys.co.in / technosysglobal.com；**个体经营 Randhir Kumar Singh；GSTIN 27AWZPS27 · GSTIN 27AWZPS2792Q2ZY · Active · 成立 2010-06-05 · #104, Raven Home, Plot 36, Sector 21, Kamothe, Khandeshwar, Navi Mumbai 410209",
+    "url": "https://www.knowyourgst.com/gst-number-search/technosys-27AWZPS2792Q2ZY/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

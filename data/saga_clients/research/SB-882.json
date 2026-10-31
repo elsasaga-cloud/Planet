@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（บริษัท พี.ซี. เทเลคอม จำกัด P.C. TELE：บริษัท พี.ซี. เทเลคอม จำกัด P.C. TELECOM CO., LTD.（pctelecom.co.th；**เลขทะเบียน 0105539072 · เลขทะเบียนนิติบุคคล 0105539072803 · ยังดำเนินกิจการอยู่（营业中） · 成立 1996-07-01 · 100/215 Soi Kanchanaphisek 005, Lak Song, Bang Khae, Bangkok 10160",
+    "url": "https://www.dataforthai.com/company/0105539072803/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -219,5 +219,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HU · 1 次检索：companywall.hu Aura Trans Kft.（Rákóczi út 22 Buda：「Hersnet Ltd」（匈牙利；邮箱 antennatechnika…；手机 +36 20 946 6366）— 1 次检索：companywall.hu 显示 **info@ · 未取（Aura Trans Kft. 税号未取） · 未取 · 成立 2009（Aura  · Rákóczi út 22, Budapest（Aura Trans Kft.，待证）",
+    "url": "https://www.companywall.hu/v%C3%A1llalat/aura-trans-kft/MM9wgtCC",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

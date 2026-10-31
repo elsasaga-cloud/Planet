@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 iletişim / kurumsal / referanslar（Perpa Ticare：METCOM GÜVENLİK TEKNOLOJİLERİ A.Ş.（Şişli / İstanbul；车牌识别系统） · VKN 6190579359（Şişli） · Aktif · 成立 2017-01-04 · Perpa Ticaret Merkezi A Blok Kat:7-8 No:703-707, Şişli / İstanbul",
+    "url": "https://www.metcom.com.tr/kurumsal/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

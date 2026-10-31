@@ -200,10 +200,21 @@ updated: 2026-10-31
 | ? | 89 | 24poe |  | A |  | US.xlsx#132 |
 | ? | 98 | 2 16 |  | A |  | US.xlsx#132 |
 
-## B 分层（B-PASS-01 · 2026-10-31）：**B1**
+## B 分层（B-PASS-02 · 2026-10-31）：**B2**
 
-- 依据：强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
+- 依据：强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活；B-PASS-02 2026-10-31：Canary：4 人 + 政府/军方市场 → B2；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
+
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：bizprofile.net（CA SoS 登记：Canary Communications, I：Canary Communications, Inc.（canarycom.com；San Jose, CA）— 1987 年起的以太网连接 / 光纤媒体转换器 / 数据二极管自有 · CA SoS 1418771（General Corporation）；SAM  · Active（Good Standing；SAM 2026- · 成立 1987-09-25 · 6040 Hellyer Avenue, Suite 150, San Jose, CA 95138-1040（旧址 5884 Eden Park Place） — <https://www.bizprofile.net/ca/san-jose/canary-communications-inc>　*登记库镜像（公司底数 2026-10-27 批次）*
+- 2026-10-31：ZoomInfo / Tracxn / Lightwave：Canary Communications Inc · 6040 Hellyer Ave Ste 150, San Jose（Tracxn：Morgan Hill）· 1987 年 · 1–10（Tracxn 2026-07：4 人）· 数据二极管 / 以太网与串口转换器 / CWDM-DWDM · 市场含 government, military · Director Sales Jim McSeaton — <https://tracxn.com/d/companies/canary-communications/__TXVOO8fAzG3QoM4xiGXji5R7NciR4SM0RtwlrZSTK4U>　*4 人 + 政府/军方市场 → B-PASS-02 调 B2*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
 
 ## 邮箱往来（S 邮箱 · 自动汇总）
 

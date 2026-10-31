@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：tracxn 同名两户（Delhi 2008 / Mumbai 2022）→ 域名未对上；2026：TrueView（trueview.co.in；**1 查仅得同名：True View Technologies Private Limited（CIN U74999MR2008P · 未取（疑似 CIN U74999MR2008PTC475132 未证，不采） · 未坐实 · 成立 未取 · 未取（疑 Shakarpur, East Delhi）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

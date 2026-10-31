@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 官网 about（创始人 / 总裁 Eric Bodley；2015 初正式启动）+ CB Insights（：Future Ready Solutions（Bonita Springs, Florida；法定后缀未取 —— Sunbiz ✗） · 未取（FL Sunbiz 不可抓） · Active（官网 2026-10 更新） · 成立 2014（2015  · 24551 Production Circle, Suite 3, Bonita Springs, FL 34135（佛州西南）",
+    "url": "https://futurereadysolutions.com/about-future-ready-solutions/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

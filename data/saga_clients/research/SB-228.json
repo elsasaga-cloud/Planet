@@ -122,5 +122,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IL · 1 次检索：app.tradeatlas.com（NEGOH-OP LTD；SHABAZI ST. 10 YA：Negoh-Op Ltd（negoh-op.com；**TradeAtlas / tendata：Shabazi St. 10, Yahud 5623028, Israel；进口光 · 未取（公司号 1 查未得） · 营业中（企业库 + 进口记录） · 成立 未取 · Shabazi St. 10, Yahud 5623028, Israel",
+    "url": "https://app.tradeatlas.com/en/firms/negoh-op-ltd/5ef774402f314ab6",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

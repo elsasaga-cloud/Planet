@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · ABR 1 次检索「jdk tech」：ABN 47 601 677 329 Active（Entity Na：JDK TECHNOLOGIES PTY. LTD.（Regents Park NSW 2143） · ABN 47 601 677 329 · ACN 601 677 329（≈20 · Active（ABR 2026-10-27） · 成立 ≈2014（ACN  · Regents Park / Birrong, NSW 2143（悉尼西）",
+    "url": "https://abr.business.gov.au/ABN/View?abn=47601677329",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

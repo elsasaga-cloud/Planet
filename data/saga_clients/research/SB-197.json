@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：intellisystem.it Contacts（Intellisystem Technolog：Intellisystem Technologies S.r.l.（intellisystem.it；锡拉库萨 Via Augusto Murri 1, 96100 Siracus · P.IVA / CF 01424300893（REA 未取） · Active · 成立 2000（事务所）/ · Via Augusto Murri 1, 96100 Siracusa",
+    "url": "https://www.intellisystem.it/en/intellisystem-contact/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：econodata（CNPJ / CNAE / 成立）+ informecadastral / s：Parks S.A. Comunicações Digitais（parks.com.br；**CNPJ 92.679.331/0001-18；1972-08-01 成立；S.A. · 92.679.331/0001-18（CNPJ） · Ativa（Receita 2026） · 成立 1972-08-01 · Av. Cruzeiro 530, Distrito Industrial, Cachoeirinha RS 94930-615",
+    "url": "https://www.econodata.com.br/consulta-empresa/92679331000118-parks-sa-comunicacoes-digitais",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

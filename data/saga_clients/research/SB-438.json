@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn（主向位科技股份有限公司 CTC UNION TECHNOLOGIES CO., LT：主向位科技股份有限公司 CTC UNION TECHNOLOGIES CO., LTD.（ctcu.com.tw；**統一編號 84297462；設立 1993-07-19；代表人 · 統一編號 84297462 · 核准設立 / 營業中（曾興櫃 1926） · 成立 1993-07-19 · 臺北市內湖區洲子街60、62號8、9樓 / 9F, No. 62, Zhouzi St., Neihu Dist., Taipei City 11493",
+    "url": "https://twincn.com/item.aspx?no=84297462",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

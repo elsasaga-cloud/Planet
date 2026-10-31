@@ -235,5 +235,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT→US · 1 次检索：官网产品页 schema（BV USA LLC alternateName BV Secur：BV Security = BV USA LLC（bvsecurity.com；**美国伊利诺伊 Elk Grove Village 1951 Landmeier Rd**，研究档 · IL LLC（文件号未取） · Active · 成立 2009 · 1951 Landmeier Rd, Elk Grove Village, IL 60007",
+    "url": "https://bvsecurity.com/pages/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

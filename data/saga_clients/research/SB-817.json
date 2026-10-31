@@ -141,5 +141,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GH · 1 次检索：zoominfo.com/p/David-Akoto（Technical Manager at M：MassTrack Technologies / Masstrack（masstracktech.com，账户停用；**ZoomInfo：B33/41 Opposite Trini · 未取（RGD 号 1 查未得） · 域名停用（名录在册） · 成立 未取（KP 2013 · B33/41 Opposite Trinity Presby Church, Kwashieman, Accra, Ghana",
+    "url": "https://www.zoominfo.com/p/David-Akoto/-2106421416",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

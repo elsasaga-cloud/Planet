@@ -283,5 +283,20 @@
   "path": "活",
   "reply": "R±",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "India · MCA 公司登记（FalconEbiz / Tofler / InstaFinancials / Fil：AECONNECT INDIA PRIVATE LIMITED（AE Connect） · CIN U31200GJ2022PTC132573 · RoC Ahmedaba · Active；全部董事 DIR-3 KYC 已按时提交，无被 · 成立 2022-06-01 · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad 380052, Gujarat · MCA 邮",
+    "url": "https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

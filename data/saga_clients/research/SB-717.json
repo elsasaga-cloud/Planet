@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HK · 1 次检索：skyware.com.hk/en/contact.php（SkyWare ProTech Lim：SkyWare ProTech Limited（skyware.com.hk；**官网 contact：Room 3806A, 38/F, Cable TV Tower, 9 Ho · 未取（CR 号 1 查未得） · 营业中（官网在） · 成立 约 2001（自述） · Room 3806A, 38/F, Cable TV Tower, 9 Hoi Shing Road, Tsuen Wan, N.T., Hong Kong",
+    "url": "http://www.skyware.com.hk/en/contact.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

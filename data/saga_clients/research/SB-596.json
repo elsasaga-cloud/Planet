@@ -222,5 +222,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：官网 contact（IČO 13692283，DIČ CZ13692283，datová sch：OPTOKON, a.s.（Jihlava, CZ；optokon.pl = 波兰分部 OPTOKON Zakład Światłowodowy, Warszawa） · IČO 13692283 · DIČ CZ13692283（捷克母公司）；波兰分 · Aktivní（2026-03 仍大量招聘） · 成立 1991-01-16 · Červený Kříž 250, 586 01 Jihlava, Czech Republic（波兰：ul. Świeradowska 47, 02-662 ",
+    "url": "https://www.podnikatel.cz/rejstrik/optokon-a-s-13692283/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

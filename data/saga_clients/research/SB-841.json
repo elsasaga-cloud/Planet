@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：官网 about（1977 成立、家族史、TURCK / WAGO / IDEC 授权分销、Koz：Ko-Hen Electronics Supply Ltd.（Red Deer, Alberta） · 未取（Alberta 公司登记需付费） · Active（官网 2026） · 成立 1977（官网） · 6022 67A Street, Red Deer, AB T4P 3E8",
+    "url": "https://kohen.ca/page/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：sgpbusiness（OMNI-COMM PTE LTD；UEN 198803797H；20 O：Omni-Comm Pte Ltd（omnicomm.com.sg；表内 omninet.com.vn 为其越南侧默认页；**UEN 198803797H；注册 1988-10-2 · UEN 198803797H · Live Company · 成立 1988-10-20 · 623 Aljunied Road #06-08 Aljunied Industrial Complex, Singapore 389835",
+    "url": "https://www.sgpbusiness.com/company/Omni-comm-Pte-Ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

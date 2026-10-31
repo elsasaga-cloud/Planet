@@ -208,5 +208,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：CB Insights（AvaLAN Networks；2004；2021-04-19 被 Dov：AvaLAN Wireless Systems Incorporated（AvaLAN Networks；avalan.com；Madison / Huntsville, AL）— · Alabama / 原加州公司号未取；母公司 Dover Corporation · Active（Dover Fueling Solutions · 成立 2004（硅谷起家； · 127 Jetplex Circle, Madison, AL 35758 / Huntsville, AL；远程办公室 AZ / CO / 加拿大",
+    "url": "https://www.cbinsights.com/company/avalan-wireless",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

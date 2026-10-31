@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：ee-sh.de 能源地图（地址 / 电话 / Feddersen）+ wind-turbine-：EasyWind GmbH（easywind.org；**ee-sh.de / wind-turbine-models / bds-sh：Lecker Straße 7（Gebäu · 未取（HRB 1 查未得） · 营业中（2024 展会参展） · 成立 2008 · Lecker Straße 7, Gebäude 2c, 25917 Enge-Sande",
+    "url": "https://ee-sh.de/de/energymap/data/EasyWind-GmbH.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：inline-info.com/Rechtliches/Impressum（InLine® = I：INTOS ELECTRONIC AG（inline-info.com；Gießen）— InLine® 品牌所有者（4,500+ SKU IT 配件含交换机） · Amtsgericht Gießen HRB 4020 · Active · 成立 未取（AG） · Siemensstraße 11, 35394 Gießen",
+    "url": "https://www.inline-info.com/Rechtliches/Impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

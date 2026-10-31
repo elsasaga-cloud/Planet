@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CL · 1 次检索：socra.cl（Socra SpA；ventasweb@socra.cl；(+56) 9 797：Socra SpA（socraonline.com / socra.cl；**官网：Av. Las Condes 6770, Of. 202, Santiago 7560759；+ · 未取（RUT 1 查未得） · 营业中（官网 2026） · 成立 未取（「young  · Av. Las Condes 6770, Oficina 202, Las Condes, Santiago 7560759, Chile",
+    "url": "https://socra.cl/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

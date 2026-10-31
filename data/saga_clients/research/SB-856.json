@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 总览（08154404；4 Wentworth Way, Wood：OMOND-TONG CONSULTANCY LTD（08154404；Woodhall Spa, Lincolnshire） · 08154404 · Active · 成立 2012-07-24 · 4 Wentworth Way, Woodhall Spa, Lincolnshire, LN10 6PG（住宅地址）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/08154404",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn（統編 / 上櫃 / 董事長 / 發言人）+ alltwcompany（資本 / 工廠：宸曜科技股份有限公司 NEOUSYS TECHNOLOGY INC.（neousys-tech.com；**統編 29169532；上櫃 6922 宸曜；2010-07-14 設立 · 29169532（統編）/ 上櫃 6922 · 核准設立 · 營業中 · 成立 2010-07-14 · 新北市中和區建八路198號11樓",
+    "url": "https://www.twincn.com/item.aspx?no=29169532",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

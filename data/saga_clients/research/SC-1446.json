@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PT · 1 次检索：lojacctv.com/page/termos-e-condicoes（Neurónio Dig：Neurónio Digital, Unipessoal Lda.（lojaCCTV；lojacctv.com；**官网条款页：NIF PT517867990；Av. August · NIF 517867990 · 营业中（网店在线） · 成立 未取 · Av. Augusto Hilário Nr.5 Loja C, 2620-528 Ramada",
+    "url": "https://www.lojacctv.com/page/termos-e-condicoes",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

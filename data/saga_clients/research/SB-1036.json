@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：grinsrl.it（Grin srl C.da Mascolo s.n.c. 74020 Tor：Grin s.r.l.（grinsrl.it；塔兰托 Torricella C.da Mascolo s.n.c., 74020 (TA)；P.IVA 02710060738；RE · P.IVA 02710060738（REA 未取） · Active（站点口径） · 成立 未取 · C.da Mascolo s.n.c., 74020 Torricella (TA)",
+    "url": "http://www.grinsrl.it/?page_id=7023&lang=en",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

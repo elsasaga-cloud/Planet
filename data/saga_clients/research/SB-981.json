@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：BBB（L-com；Business Started 1982-01-01；Incorporate：L-com, LLC（L-com Global Connectivity；l-com.com；North Andover, Massachusetts）— 1982 年 Alfre · L-com, LLC（MA；SoS 号未取）；母体 Infinite Elect · Active · 成立 1983-01-02 · 50 High Street, West Mill, 3rd Floor Suite 30, North Andover, MA 01845",
+    "url": "https://www.bbb.org/us/ma/north-andover/profile/wholesale-computers/l-com-0021-10171",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

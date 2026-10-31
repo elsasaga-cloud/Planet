@@ -254,5 +254,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · 官网（eds.com.tr / edselectronic.com）+ LinkedIn + kar：EDS ELEKTRONİK DESTEK SANAYİ VE TİCARET LİMİTED ŞİRKETİ · İstanbul Ticaret Sicil（号待补）· İSO / İTO / · 经营中（2026-04 仍在招聘） · 成立 1990-02（官网 · Meclis Mah. Teraziler Cad. Hayran Sk. No:4, 34785 Sancaktepe / İstanbul",
+    "url": "https://www.edselectronic.com/about-us-5",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

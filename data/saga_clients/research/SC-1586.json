@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：masothue（MST / 地址 / 状态 / 主业）+ tratencongty；2026-1：CÔNG TY TNHH GIẢI PHÁP VIỄN THÔNG THIÊN TÂN（vienthongthientan.com / holinktech.com / chuye · 0105224649（MST） · Đang hoạt động（2025-12） · 成立 未取（MST 010 · Số nhà 45, Ngõ 50, Phố Mễ Trì Thượng, Phường Từ Liêm, Hà Nội",
+    "url": "https://masothue.com/0105224649-cong-ty-tnhh-giai-phap-vien-thong-thien-tan",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

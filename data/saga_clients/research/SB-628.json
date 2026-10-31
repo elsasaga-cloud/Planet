@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：contact.page / panpages（BrightNet Services Sdn. B：BrightNet Services Sdn Bhd（bright.net.my；**No. 20-4-10, Jalan 2/101C, Cheras Business Cent · 未取（SSM 1 查未得） · 营业中（名录） · 成立 未取 · No. 20-4-10, Jalan 2/101C, Cheras Business Centre, 56100 Kuala Lumpur, Malaysia",
+    "url": "https://www.panpages.my/listings/my740116-brightnet-services-sdn-bhd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

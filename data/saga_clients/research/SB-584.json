@@ -145,5 +145,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：vanphatdat.vn/lien-he（Văn phòng Hồ Chí Minh 26/37：Vạn Phát Đạt（vanphatdat.vn / it-support.vn；**ĐKKD 0315053647，HCMC 计投局 2018-05-17 发证；26/37/ · ĐKKD / MST 0315053647 · 营业中（官网） · 成立 2018-05-17 · 26/37/6 Đường B3, P. Tây Thạnh, Q. Tân Phú, TP. Hồ Chí Minh, Việt Nam",
+    "url": "https://vanphatdat.vn/lien-he/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

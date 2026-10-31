@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：pitchbook（1971；20 人；Sheffield）+ npif.co.uk（24 人；£：Blake UK Ltd（blake-uk.com；**PitchBook：1971 年创立，Sheffield，20 人，曾用名 Blake Aerials Limited，私募 · 未取（CH 号 1 查未得；法人名 Blake UK Ltd） · 营业中 · 成立 1971 · Sheffield, South Yorkshire",
+    "url": "https://pitchbook.com/profiles/company/179962-84",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

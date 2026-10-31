@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（UBF EDV Handel und Beratung Jürgen F：UBF EDV Handel und Beratung Jürgen Fischer GmbH（ubf.de；Castrop-Rauxel，注册地 2015 迁 Mühldorf  · HRB 32518（Amtsgericht Dortmund；2015 起注册地 · Aktiv（站点在线） · 成立 1981-06-25 · Römerstr. 37, 44579 Castrop-Rauxel（经营地；注册地 Mühldorf a. Inn）",
+    "url": "https://www.northdata.com/UBF%20EDV%20Handel%20und%20Beratung%20J%C3%BCrgen%20Fischer%20GmbH,%20Castrop-Rauxel/Amtsgericht%20Dortmund%20HRB%2032518",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

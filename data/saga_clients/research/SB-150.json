@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 第 94 批补项 1 次直查 nexxus.cc 首页（fetch_page 2026-10-28）：「Rel：Nexxus（nexxus.cc）— 直查：站活、自有标 3 口千兆 PoE · 未取（站无法人信息） · Active（2025-03 产品图更新） · 成立 未取 · 未取（站无地址；研究档 US）",
+    "url": "https://nexxus.cc/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

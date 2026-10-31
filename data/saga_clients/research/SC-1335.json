@@ -214,5 +214,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：rejstrik.penize.cz/25236792（Cvokařská 1216/8；1999：DISCOMP s.r.o.（discomp.cz；**rejstrik.penize / finance.cz：IČO 25236792；Cvokařská 1216/8, Lo · IČO 25236792 · 营业中（年检 2026-10） · 成立 1999-09-21 · Cvokařská 1216/8, Lobzy, 312 00 Plzeň",
+    "url": "https://rejstrik.penize.cz/25236792-discomp-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

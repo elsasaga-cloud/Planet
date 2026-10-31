@@ -405,6 +405,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RO · 1 次检索：termene.ro（BONMAG INTERNATIONAL S.R.L.；CUI 372991：BONMAG INTERNATIONAL S.R.L.（品牌 OmniSecurity；omnisecurity.ro；登博维察 Dâmbovița Voinești Str. A · CUI 37299107；J15/334/2017 · Activă · 成立 2017-03-29 · Str. Aldescu nr. 624, Voinești (Dâmbovița)",
+    "url": "https://www.risco.ro/en/verifica-firma/bonmag-international-cui-37299107",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

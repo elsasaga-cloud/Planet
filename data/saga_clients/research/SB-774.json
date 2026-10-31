@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NL · 1 次检索：netwerkproducten.com/service/over-ons（MP2 Netwerk：MP2 Netwerkproducten B.V.（netwerkproducten.com / mp2.nl；乌得勒支 Houten Wilgenkade 2, 3992 LL（ · KvK 62165984；BTW NL8546.95.667B01 · Actief · 成立 2014-12-23 · Wilgenkade 2, 3992 LL Houten",
+    "url": "https://www.netwerkproducten.com/service/over-ons",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

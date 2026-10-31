@@ -296,13 +296,14 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：Endole（Companies House 数据）：Case Communications Limited · 03913540 · incorporated 26 January 2000 · Active · Micro（Turnover under £1M，Balance sheet under £500,000，Under 10 employees；2025-03-31 账目：Employees 3）· North’s Estate, Old Oxford Road, Piddington, High Wycombe HP14 3BE · Founder/PSC Andrew Thomas Saoulis — <https://open.endole.co.uk/insight/company/03913540-case-communications-limited>　*实际是 3 人微型公司（ZoomInfo「51–200 / $17.5M」失真，不采）；已加 Companies House 申报监控*
+- 2026-10-30：UK Companies House：CASE COMMUNICATIONS LIMITED · 03913540 · Active · 成立 2000-01-26 · North's Estate, Old Oxford Road, Piddington, High Wycombe HP14 3BE（与官网一致） — <https://find-and-update.company-information.service.gov.uk/company/03913540>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

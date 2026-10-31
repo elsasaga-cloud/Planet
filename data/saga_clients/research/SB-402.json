@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：RocketReach（SFPTURKEY Elektronik İth. İhr. Ticare：SFPTURKEY Elektronik İthalat İhracat Ticaret Ltd. Şti.（sfpturkey.com.tr；Koşuyolu, Kadıköy, · MERSİS / 税号未取（1 次即停） · Active（2023 社媒活跃；电商平台在售） · 成立 2012（Kreas · Koşuyolu Mah., Kadıköy / İstanbul",
+    "url": "https://rocketreach.co/sfpturkey-elektronik-ith-ihr-ticaret-ltd-sti-profile_b7669894c53eb398",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

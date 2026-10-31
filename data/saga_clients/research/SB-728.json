@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 既有调研建档（ACRA 镜像已在研究档：UEN 200002876C，2000-04-05 成立，豁免私人公司：FAST-TRACK SYSTEMS & SERVICES PTE LTD（Eunos, Singapore） · UEN 200002876C · Live Company · 成立 2000-04-05 · 113 Eunos Avenue 3 #04-18, Gordon Industrial Building, Singapore 409838",
+    "url": "https://www.sgpbusiness.com/company/Fast-Track-Systems-Services-Pte-Ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

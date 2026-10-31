@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网首页 / Hakkımızda（Kuruluş Yılı 2004；Altunizade Mh：Areskom İletişim Sistemleri Tic. Ltd. Şti.（areskom.com.tr / areskom.com；伊斯坦布尔 Üsküdar）— 20 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · Active（2026 版权；Westermo 官方分销名录 · 成立 2004 · Altunizade Mah. Kısıklı Cad. No:35/1 Kat 1, Üsküdar / İstanbul（另 Ataşehir Ata 2-",
+    "url": "https://areskom.com.tr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

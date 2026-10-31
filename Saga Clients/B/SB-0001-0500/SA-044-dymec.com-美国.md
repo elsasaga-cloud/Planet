@@ -241,6 +241,20 @@ A 确认（美国自有品牌工业交换机 + 已回复）：只攻其非 TAA �
 - 依据：有回信（R±）；身份 登记坐实 · 路径 活 · 回信 R± · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · 官网 About / 联系页 + PRWeb（2015 更名公告）+ PitchBook / Tracxn（：KYLAND-USA, LLC（dba DYMEC / K-USA） · LLC（密苏里 / 得州登记号待补）· Veteran Owned Small  · 经营中（官网联系页 2026-02 更新） · 成立 Kyland-USA · 1107 SE Willow Pl, Blue Springs, MO 64014-5248（总部）；2243 N. Mason Rd Suite 402, K — <https://www.dymec.com/about/>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**KP**
+
+- 2026-10-31：dymec.com：DYMEC · 2243 N. Mason Rd, Suite 402, Katy, Texas 77449 · (816) 988-7861 · sales@dymec.com ·「Proudly Owned and Operated by Veterans」· 产品：DIN-Rail & Rack L2/L3 工业交换机、EN50155 / IEC61850-3 系列、SFP、TraffiClair AI 交通检测 · Tom West — Design & Engineering（twest@dymec.com）· Ray Renaud — VP Sales & Marketing（rrenaud@dymec.com） — <https://www.dymec.com/get-quote/>　*美国加固工业交换机品牌（白牌贴标；与 BlueWARRIOR SA-033 同体系）；EN50155 线守界只谈 ITS/电力*
+
+待挖：年报/财务、领英公司页、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：37 封（去 29 / 来 8）　|　**期间**：2024-07-01 → 2026-09-07　|　**最后去信**：2026-09-07

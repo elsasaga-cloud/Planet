@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索 + ABR 1 次（「net security wholesalers」）：ABN 94 083 ：NET SECURITY WHOLESALERS PTY LTD（DBA NetDigital Surveillance；Marleston, Adelaide SA） · ABN 94 083 730 250 · ACN 083 730 250（≈19 · Active（ABR 2026-10-27） · 成立 ≈1998（ACN  · 4 Commercial Street, Marleston, SA 5033（阿德莱德）",
+    "url": "https://abr.business.gov.au/ABN/View?abn=94083730250",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

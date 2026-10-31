@@ -177,5 +177,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：LinkedIn（Mavi Alarm Kamera ve Güvenlik Teknolojil：MaviAlarm Kamera ve Güvenlik Teknolojileri Tic. Ltd. Şti.（mavialarm.com.tr；伊斯坦布尔 Kartal）—  · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · Active（LinkedIn 近期更新） · 成立 2010 · Yakacık Çarşı Mah. Mülayim Sok. No:55, 34876 Kartal / İstanbul（另 Pendik 旧址）",
+    "url": "https://tr.linkedin.com/company/mavialarm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

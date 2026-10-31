@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Sunbiz 实体名列表（ECLIPSE CCTV INC. P20000058672 Activ：Eclipse CCTV Inc.（DBA Eclipse Security；eclipsecctv.com / eclipsesurveillance.com；Hollywood · FL Sunbiz P20000058672（Active；前身 P030000 · Active · 成立 1998（自述；现实 · 3900 N 29th Ave, Hollywood, FL 33020",
+    "url": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResults?inquiryType=EntityName&searchTerm=ECLIPSE+CCTV+INC.",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

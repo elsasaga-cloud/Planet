@@ -258,6 +258,16 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 - 依据：OK 但无回信/非主攻；身份 法定名 · 路径 活 · 回信 auto · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：ZA · 1 次检索：hsbd.co.za/supplier.aspx?acc=683（Regal Security D：Regal Security Distributors SA (Pty) Ltd（regalsecurity.co.za；**总部 26 Greenstone Place, Gre · 未取（CIPC 注册号 1 查未得） · 营业中（行业名录 2025 + 官网） · 成立 1981 · 26 Greenstone Place, Greenstone Hill, Edenvale, Gauteng, South Africa — <https://www.hsbd.co.za/supplier.aspx?acc=683>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：38 封（去 23 / 来 15）　|　**期间**：2023-11-21 → 2026-10-06　|　**最后去信**：2026-10-06

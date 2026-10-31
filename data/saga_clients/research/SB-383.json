@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：processonline.com.au（Autech Control Group Pty Ltd：Autech Control Group Pty Ltd（autechcontrol.com.au；**Unit 15, 104-106 Ferntree Gully Road,  · 未取（ABN 1 查未得） · 营业中（名录 + 社媒） · 成立 未取 · Unit 15, 104-106 Ferntree Gully Road, Oakleigh East VIC 3166, Australia",
+    "url": "https://www.processonline.com.au/directories/autech-control-group-pty-ltd-1315942775",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：wut.de Impressum（Wiesemann & Theis GmbH；Porschest：Wiesemann & Theis GmbH（wut.de；Wuppertal）— 1979 起的 Web-IO / Com-Server 制造商（W&T），50 人，二代接班 · Amtsgericht Wuppertal HRB 6377 · Active · 成立 1979 · Porschestr. 12, 42279 Wuppertal",
+    "url": "https://www.wut.de/e-wwwww-im-inde-000.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

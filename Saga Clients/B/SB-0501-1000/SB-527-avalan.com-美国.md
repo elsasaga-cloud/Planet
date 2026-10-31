@@ -210,6 +210,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：CB Insights（AvaLAN Networks；2004；2021-04-19 被 Dov：AvaLAN Wireless Systems Incorporated（AvaLAN Networks；avalan.com；Madison / Huntsville, AL）— · Alabama / 原加州公司号未取；母公司 Dover Corporation · Active（Dover Fueling Solutions · 成立 2004（硅谷起家； · 127 Jetplex Circle, Madison, AL 35758 / Huntsville, AL；远程办公室 AZ / CO / 加拿大 — <https://www.cbinsights.com/company/avalan-wireless>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：21 封（去 21 / 来 0）　|　**期间**：2025-04-04 → 2026-08-31　|　**最后去信**：2026-08-31

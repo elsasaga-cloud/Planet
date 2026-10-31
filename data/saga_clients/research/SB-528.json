@@ -217,5 +217,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：ACRA 镜像 sgpbusiness / recordowl / sgpgrid（COMMFRO：CommFront Communications Pte. Ltd.（commfront.com）— 实为新加坡公司（美国地址为 Bethesda 虚拟办公室） · ACRA UEN 201131527M · Live Company · 成立 2011-10-22 · 1 Yishun Industrial Street 1, #05-31 A'Posh BizHub, Singapore 768160（美国通讯地址 Beth",
+    "url": "https://www.sgpbusiness.com/company/Commfront-Communications-Pte-Ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

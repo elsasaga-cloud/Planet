@@ -156,5 +156,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：无同名命中（EMIS「Bulut Bilisim Teknolojileri Ltd. Sti.」：Bulutlar Bilişim（bulutlarbilisim.com；土耳其）— 1 次检索未命中（结果均为 Bulutistan / Bulut Bilişim 他司） · 未坐实 · 官网 http_error（研究档） · 成立 未取 · 土耳其（城市未取）",
+    "url": "https://www.emis.com/php/company-profile/TR/Bulut_Bilisim_Teknolojileri_Ltd_Sti_en_3729792.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

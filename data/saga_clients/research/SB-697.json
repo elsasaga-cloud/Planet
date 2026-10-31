@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：zoominfo（Allied Asia Resources Pte Ltd；55 Serango：Allied Asia Resources Pte. Ltd.（alliedasia.com.sg；55 Serangoon North Ave 4 #01-18, Singapo · 未取（UEN 1 查未得；法人名 ALLIED ASIA RESOURCES P · 营业中（网店在线） · 成立 2012 · 55 Serangoon North Ave 4 #01-18, Singapore 555859",
+    "url": "https://alliedasia.trustpass.alibaba.com/company_profile.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

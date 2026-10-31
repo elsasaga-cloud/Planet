@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：pomanda.com/company/08877091（Qvis Lighting & Secu：Qvis（qvis.co.uk；**运营主体推定 QVIS LIGHTING & SECURITY LIMITED 08877091：Live；成立 2014-02；4 Merli · 08877091（运营主体推定；壳 07568582 / 08170128） · Live / Active · 成立 2014-02（品牌 · 4 Merlin Park, Airport Service Road, Portsmouth, Hampshire, PO3 5FU",
+    "url": "https://pomanda.com/company/08877091/qvis-lighting-&-security-limited",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

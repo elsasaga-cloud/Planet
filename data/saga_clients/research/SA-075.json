@@ -235,5 +235,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Deutschland · Creditreform 企业名录（个体经营无 Handelsregister 条目）+ 官：Nuri Sahin Sicherheitsdienste „Falke Security“（个体经营） · 无 HRB（Einzelunternehmen 不入商业登记）；USt-IdNr · 经营中（官网在线，Mo–Sa 09–18） · 成立 待补（Impress · Krefelder Str. 282, 47229 Duisburg（Creditreform）；门店 Friedrich-Alfred-Straße 98, ",
+    "url": "https://www.falke-security.de/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

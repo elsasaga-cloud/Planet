@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：crunchbase（Legal Name Optigo Networks Inc.；Burnab：Optigo Networks Inc.（optigo.net；#320 – 887 Great Northern Way, Vancouver, BC V5T 4T5）— 201 · 未取（BC 登记号） · Active · 成立 2012 · #320 – 887 Great Northern Way, Vancouver, BC V5T 4T5",
+    "url": "https://www.crunchbase.com/organization/optigo-networks",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

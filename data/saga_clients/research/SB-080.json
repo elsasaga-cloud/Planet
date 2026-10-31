@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IQ · 1 次检索：「Cyber-Tec Karbala Iraq Sarmad Alwakil」→ 无相关结果（仅 ：Cyber-Tec（cyber-tec.net，域名已失效；**1 查无命中 → 未坐实**）— 伊拉克卡尔巴拉小型 IT / 网络公司；KP Sarmad Alwakil（yah · 未取（1 查无命中） · 域名失效（存续待核） · 成立 未取 · 未取（Karbala, Iraq）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

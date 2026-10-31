@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：search.sunbiz.org（PRESTIGE SATELLITE COMMUNICATIO：Prestige Satellite Communications Inc.（prestigevsat.com；**Sunbiz：Florida Profit Corporatio · FL Document No. P16000009000；EIN 81-1222 · ACTIVE（Sunbiz） · 成立 2016-01-26 · 2873 SW 14th Street, Fort Lauderdale, FL 33312, USA",
+    "url": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResultDetail?inquirytype=EntityName&directionType=Initial&searchNameOrder=PRESTIGESATELLITECOMMUNICATION+P160000090000&aggregateId=domp-p16000009000-20d41eec-a083-4d54-9313-5c26da829222",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

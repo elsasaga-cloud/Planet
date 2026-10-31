@@ -215,6 +215,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：DK · 1 次检索：krak.dk（DANBIT A/S；Aktieselskab；Registreringsdato：DANBIT A/S（Dansk Binær Teknik；danbit.dk / danbit.com；克厄 Køge Værkstedsvej 39, 4600（注册地 Bir · CVR 78788216 · Aktiv · 成立 1985-09-26 · Værkstedsvej 39, 4600 Køge — <https://www.proff.dk/firma/danbit-as/solr%C3%B8d-strand/elektronik-og-telekommunikationsudstyr-engros/1AWPDKI10MZ>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：2 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z

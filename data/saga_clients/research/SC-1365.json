@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN / 资本 / 地址 / AGM）+ tracxn（135 ：Masibus Automation And Instrumentation Private Limited（masibus.com；**CIN U32201GJ1987PTC00 · U32201GJ1987PTC009994（CIN） · Active（MCA 2026） · 成立 1987-09-21 · B-30, GIDC Electronics Estate, Sector-25, Gandhinagar, Gujarat 382042",
+    "url": "https://www.thecompanycheck.com/company/masibus-automation-and-instrumentation-private-limited/U32201GJ1987PTC009994",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

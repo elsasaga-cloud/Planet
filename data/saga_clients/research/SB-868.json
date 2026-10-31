@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 İletişim（Firma Adı NRL Teknoloji İletişim San.：NRL Teknoloji İletişim San. ve Tic. Ltd. Şti.（品牌站 Fiberden；fiberden.com；伊斯坦布尔 Bayrampaşa）— · Vergi No 6320974310（Tuna VD）；Ltd. Şti.（İ · Active（网店在营） · 成立 未取 · Yıldırım Mah. Havai Sok. No:4/B, Bayrampaşa / İstanbul",
+    "url": "http://www.fiberden.com/iletisim",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

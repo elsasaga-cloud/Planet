@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Hakkımızda（2004 yılında kurulmuş olan Arby Bil：Arby Bilgisayar San. Tic. Ltd. Şti.（arbybilgisayar.com.tr；伊斯坦布尔 Maltepe）— 2004 年成立的企业 IT 维 · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · Active（站点在线） · 成立 2004 · İdealtepe Mah. Denizciler Sk. Blumaq Plaza No:14 Kat:2 D:3, 34841 Maltepe / İsta",
+    "url": "https://www.arbybilgisayar.com.tr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

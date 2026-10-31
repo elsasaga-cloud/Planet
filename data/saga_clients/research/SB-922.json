@@ -161,5 +161,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：kofis.co.kr/ez/regis（상호 파이버베이스；대표 강민철；사업자번호 135-1：파이버베이스 Fiberbase（fiberbase.co.kr / fiberbase-net.com（(주)FB정보통신 DOTPIA）/ kofis.co.kr 光网络专门商 · 사업자번호 135-17-28243（个人事业者；法人号未取） · 营业中（商城在线） · 成立 ≤2011（通信贩卖 · 경기 용인시 기흥구 영덕동 흥덕IT밸리 컴플렉스동 516호",
+    "url": "http://kofis.co.kr/ez/regis.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

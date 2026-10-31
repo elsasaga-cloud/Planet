@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：aptvelglobal.com（5+ Years；electrical, automation,：Aptvel Global（aptvelglobal.com；**总部 204, Building 3, Arenco Offices, DIP 1, Dubai；+971 4 8 · 未取（牌照号 1 查未得） · 营业中（官网 2025） · 成立 约 2020（自述  · 204, Building 3, Arenco Offices, DIP 1, Dubai, UAE",
+    "url": "https://aptvelglobal.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

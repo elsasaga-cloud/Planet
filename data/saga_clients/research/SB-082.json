@@ -144,5 +144,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：仅命中 voltechelektronik.com 占位页（Web sitemiz yapım a：Voltech Elektronik（voltechelektronik.com；伊斯坦布尔 Silivri）— 小型电子 / 安防服务商（摄像系统、报警、电脑、电话交换机、电气电 · 未取（未坐实） · 未取（占位页） · 成立 未取 · Silivri / İstanbul（门牌未取）",
+    "url": "http://www.voltechelektronik.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

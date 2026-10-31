@@ -233,5 +233,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（VOXPLUS S.R.L.；P.IVA 05516110961；：VOXPLUS S.R.L.（voxplus.it；法定 米兰 Via Raimondo Montecuccoli 36, 20147；运营 Busto Arsizio (VA)  · P.IVA / CF 05516110961；REA MI-1828564 · Active · 成立 2007-01-24 · Via Raimondo Montecuccoli 36, 20147 Milano（运营 Via Bellaria 3, 21052 Busto Arsizi",
+    "url": "https://www.ufficiocamerale.it/8107/voxplus-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

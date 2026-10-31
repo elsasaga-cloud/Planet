@@ -158,6 +158,16 @@ updated: 2026-10-31
 - 依据：出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：老成单·品类/年代不符·2020 光猫 8 个（新加坡））；身份 登记坐实 · 路径 活 · 回信 none · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：SG · 既有调研建档（ACRA 镜像已在研究档：UEN 200002876C，2000-04-05 成立，豁免私人公司：FAST-TRACK SYSTEMS & SERVICES PTE LTD（Eunos, Singapore） · UEN 200002876C · Live Company · 成立 2000-04-05 · 113 Eunos Avenue 3 #04-18, Gordon Industrial Building, Singapore 409838 — <https://www.sgpbusiness.com/company/Fast-Track-Systems-Services-Pte-Ltd>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 联系方式（已有 · 原值照录）
 
 - 邮箱：`alan_ftss@yahoo.com.sg`〔免费邮箱；来源：用户表原值〕

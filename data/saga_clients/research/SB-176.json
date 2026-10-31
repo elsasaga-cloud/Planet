@@ -278,5 +278,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UK Companies House（搜索页）：OKSA AUTOMATION LIMITED · 13062295 · Active（搜索页无 Dissolved 标记） · 成立 2020-12-04 · Office 202, 11 Courtenay Road, East Lane Business Park, Wembley HA9 7ND（与官网一致）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/13062295",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

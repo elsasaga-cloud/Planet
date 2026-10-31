@@ -226,5 +226,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（บริษัท ไอทีเค คอนเน็คติ้ง จำกัด ITK C：บริษัท ไอทีเค คอนเน็คติ้ง จำกัด ITK CONNECTING COMPANY LIMITED（itk.co.th；**เลขทะเบียน 0205 · เลขทะเบียนนิติบุคคล 0205557021718 · ยังดำเนินกิจการอยู่（营业中） · 成立 2014-06-25 · 2/6 Rat Phatthana Rd., Rat Phatthana, Saphan Sung, Bangkok 10240",
+    "url": "https://www.dataforthai.com/company/0205557021718/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HR · 1 次检索：companywall.hr（EZY Infotech d.o.o.；OIB 7954148468：EZY Infotech d.o.o.（全称 EZY Infotech društvo s ograničenom odgovornošću za trgovinu；ezy.hr； · OIB 79541484681 / MBS 070061024 · Aktivan · 成立 2002-05-16 · Ulica Miroslava Krleže 28, 40000 Čakovec（+ Zagreb）",
+    "url": "https://www.companywall.hr/tvrtka/ezy-infotech-doo/MM17CHn0",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

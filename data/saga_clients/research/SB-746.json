@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：cybron.com.my/contact-us（CYBRON SYSTEM SDN BHD；No：Cybron System Sdn Bhd（cybron.com.my；**No 10, Jalan Alfa A, U6/A Pusat Perdagangan Subang P · 未取（SSM 1 查未得） · 营业中（官网在） · 成立 未取 · No 10, Jalan Alfa A, U6/A Pusat Perdagangan Subang Permai, 40150 Shah Alam, Sela",
+    "url": "https://www.cybron.com.my/contact-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

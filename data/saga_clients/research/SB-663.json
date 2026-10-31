@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็：บริษัท ไฮ โซลูชั่น อ๊อฟ เทคโนโลยี เน็ตเวิร์ค จำกัด HIGH SOLUTION OF TECHNOLOGY NETWORK CO. · เลขทะเบียนนิติบุคคล 0105552017802 · ยังดำเนินกิจการอยู่（营业中） · 成立 2009-02-20 · 17/14 Moo 6, Phutthamonthon Sai 5 Rd., Bang Krathuek, Sam Phran, Nakhon Pathom 7",
+    "url": "https://www.dataforthai.com/company/0105552017802/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

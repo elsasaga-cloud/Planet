@@ -165,5 +165,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：spesaelettrica.it 页脚（SPESA ELETTRICA S.C.A.R.L.；V：SPESA ELETTRICA S.C.A.R.L.（società consortile；spesaelettrica.it；米兰 Assago Viale Milanofior · P.IVA / CF 08699710961；REA MI-2042985 · Active · 成立 2014-07-28 · Viale Milanofiori Strada 4, Palazzo A5, 20057 Assago (MI)",
+    "url": "https://www.ufficiocamerale.it/4930/spesa-elettrica-societa-consortile-a-responsabilita-limitata",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

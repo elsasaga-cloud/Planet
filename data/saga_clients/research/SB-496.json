@@ -118,5 +118,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：Facebook 主页「By Bora Teknoloji Dünyası, Ağrı」（Zayı：By Bora Teknoloji Dünyası（Ağrı；Facebook 主页；无域名）— 土耳其东部阿勒的微型弱电 / 电脑 / 安防门店（Bora Erim；WhatsA · 部分坐实（Facebook 主页；无 VKN / MERSİS） · Active（主页在线） · 成立 未取 · Ağrı（门牌未取）",
+    "url": "https://www.facebook.com/ByBoraErimAgri/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

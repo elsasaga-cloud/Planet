@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Srbija · APR 镜像（companywall：成立、董事、股东比例、规模；cubepartner：营收 / 利：STASANET doo BEOGRAD-VRAČAR · MB 20967374 · PIB 108279647 · PDV 纳税人 ·  · Aktivan · 成立 2013-10-29 · Kneza Stracimira 28, 11050 Beograd (Vračar)（通讯 / 旧址 Vojvode Hrvoja 28）",
+    "url": "https://www.companywall.rs/firma/stasanet-doo/MMrzq2Z0",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

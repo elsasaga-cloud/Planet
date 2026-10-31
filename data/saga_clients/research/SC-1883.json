@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：thuvienphapluat 近名 ANPHATECH（已停业）+ 无关同名 → 域名未对上；2：Anfatech（anfatech.com.vn；**1 查仅得近名 CÔNG TY CỔ PHẦN CÔNG NGHỆ ANPHATECH（MST 0317549776；2022 · 未取（近名 MST 0317549776 不采） · 未坐实 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

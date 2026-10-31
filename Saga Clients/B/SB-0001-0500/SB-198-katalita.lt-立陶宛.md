@@ -186,6 +186,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：LT · 1 次检索：rekvizitai.vz.lt（Katalita, UAB；code 134637695；fou：Katalita, UAB（katalita.lt；考纳斯区 Neveronys Tvenkinio g. 10；įmonės kodas 134637695；PVM LT3463 · įmonės kodas 134637695；PVM LT346376917 · Veikiantis / Active · 成立 1995-12-18 · Tvenkinio g. 10, Neveronių k., LT-54478 Kauno r. sav. — <https://rekvizitai.vz.lt/en/company/katalita/>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-06-20 → 2026-09-14　|　**最后去信**：2026-09-14

@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：cablematic.com Copyright / Help（Cablematic Dos Mi：CABLEMATIC DOS MIL, S.L.U.（cablematic.com / bematik.com / Cablemarkt；巴塞罗那 Calle Santander  · CIF B62231261 · Active · 成立 2000-04-01 · Calle Santander 61, 08020 Barcelona",
+    "url": "https://www.iberinform.es/empresa/182040/cablematic-dos-mil",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

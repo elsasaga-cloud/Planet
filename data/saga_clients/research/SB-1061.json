@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：obserwuj.pl Regulamin / Kontakt（Właścicielem skle：FHU „TELSAT” s.c.（obserwuj.pl；Tarnów）— CCTV 网店（民事合伙；Dahua 为主） · NIP 9930003405（s.c.；合伙人 CEIDG 登记） · Active（Ceneo 在列；官网 timeout 偶发） · 成立 未取（1 次即停） · ul. Rolnicza 7, 33-100 Tarnów",
+    "url": "https://www.obserwuj.pl/kontakt,p1.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

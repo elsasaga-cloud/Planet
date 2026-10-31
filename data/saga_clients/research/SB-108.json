@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：BBB（LA & Silicon Valley）档案 —— 1230 Santa Anita Av：GW Security（gwsecurityusa.com；South El Monte, CA） · CA SoS 实体号未取（bizfile JS） · Active（BBB 档在用、官网在售） · 成立 2016-12-08 · 1230 Santa Anita Ave Ste A, South El Monte, CA 91733-3861（洛杉矶东）",
+    "url": "https://www.bbb.org/us/ca/south-el-monte/profile/security-equipment/gw-security-1216-892747",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

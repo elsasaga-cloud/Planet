@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RS · 1 次检索：companywall.rs（ALMAKS DOO BEOGRAD；Gospodara Vučić：ALMAKS DOO BEOGRAD（Almaks Security Systems；almaks.rs；贝尔格莱德 Vračar Gospodara Vučića 129, 11 · Матични број 06698182；ПИБ 100571552 · Aktivan · 成立 1992-06-15 · Gospodara Vučića 129, 11118 Beograd (Vračar)",
+    "url": "https://www.companywall.rs/firma/almaks-doo-beograd/MMfjjXsD",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

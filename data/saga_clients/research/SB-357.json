@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：「\"Sudesh Verma\" infonet India ONU fiber」→ 仅 zoomi：（表内 infonet-tech.com；联系人 Sudesh Verma +91 74083 98524；需求「光猫」ONU）— **域名站点为北美加油站 POS / 燃油管理软 · 未取 · 主体不明 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

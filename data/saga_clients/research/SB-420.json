@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：cdr.pl/kontakt（CDR Prosta Spółka Akcyjna；ul. Prod：CDR Prosta Spółka Akcyjna（cdr.pl；Żory）— 电子 / 网络批发，自有 CDR 标 PoE 配件；ATTE 另有其人 · KRS 0001049574（NIP 6511717587；REGON 3606 · Aktywna · 成立 2023-08-01 · ul. Produkcyjna 14, 44-240 Żory",
+    "url": "https://rejestr.io/krs/1049574/cdr",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

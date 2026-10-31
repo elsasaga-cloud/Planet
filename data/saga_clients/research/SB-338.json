@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TN · 1 次检索：max-protect.com（Max Protect – caméras, alarmes et：Max Protect（max-protect.com；**官网：哈马马特 2 家门店 — Avenue Habib Bourguiba, 8050 Hammamet / Aven · 未取（RNE 号 1 查未得） · 营业中（官网 2026） · 成立 未取 · Avenue Habib Bourguiba, 8050 Hammamet, Tunisia（第二店 Avenue Abou Dhabi, Route de N",
+    "url": "https://max-protect.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

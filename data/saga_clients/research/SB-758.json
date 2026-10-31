@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NO · 1 次检索：proff.no（Foss AS Fiberoptisk Systemsalg；Org nr 93：FOSS FIBER OPTICS AS（商号 Foss AS Fiberoptisk Systemsalg；fossfibreoptics.com / foss-as.no /  · org.nr 936 010 229 · Aktivt · 成立 1984-11-02 · Dansrudveien 45, 3036 Drammen",
+    "url": "https://www.proff.no/selskap/foss-as-fiberoptisk-systemsalg/drammen/kabler-og-kraftledninger/IFH9Y4500OK-1",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

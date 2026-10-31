@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About（established 2002；高性能系统与网络方案）+ LinkedIn（2：System Fabric Works Inc（systemfabricworks.com；Cedar Park / Austin, Texas）— 2002-04-01 成立的  · TX Corporation（SoS 文件号未取 → 部分坐实） · Active（2025-12 站点更新） · 成立 2002-04-01 · 1460 E Whitestone Blvd Suite 160, Cedar Park, TX 78613",
+    "url": "https://www.systemfabricworks.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

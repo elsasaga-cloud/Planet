@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House（ZXTECH LTD 12495813；成立 2020-03-03：ZXTECH LTD（zxtech.co / zxtechuk.com；注册地 Mayfair 虚拟办公室）— 英国家用安防摄像系统品牌（PoE NVR 套装；经 domar.co · 12495813 · Active（账目至 2025-12-31） · 成立 2020-03-03 · Berkeley Square House, Berkeley Square, Mayfair, London W1J 6BD（虚拟办公室；实际仓储未取）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/12495813",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

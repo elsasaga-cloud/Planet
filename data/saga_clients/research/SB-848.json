@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RU · 1 次检索：setilend.ru/about/setilend.ru/nashi-rekvizity（ООО：ООО «СетиЛенд»（setilend.ru；ИНН 7447215866；ОГРН 1127447013770；454001 Челябинск, пр. Победы, · ИНН 7447215866 / ОГРН 1127447013770 · Действующая（10 起强制执行） · 成立 2012-10-24 · 454001 Челябинск, пр. Победы, д. 303, корп. 2, пом. 53",
+    "url": "https://setilend.ru/about/setilend.ru/nashi-rekvizity/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

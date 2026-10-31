@@ -164,5 +164,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZA · 1 次检索：dffe.gov.za/sites/default/files/tenders/rfq000908：Marzetek (Pty) Ltd（marzetek.com；**1 查唯一命中 = 南非环境部 DFFE RFQ 000908 (24/25) 打印耗材投标收到名单第 50 位 · 未取（仅投标名单证实 (Pty) Ltd 存在） · 存续（2024/25 投标在册） · 成立 未取 · 未取",
+    "url": "https://www.dffe.gov.za/sites/default/files/tenders/rfq000908.24.25bidsreceived__printercartridges.pdf",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

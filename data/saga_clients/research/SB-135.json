@@ -150,5 +150,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：无命中（结果为 Labor Dış Ticaret Mühendislik Ltd. Şti Si：Labor Mühendislik（labormuhendislik.com.tr；土耳其）— ISAF 2025 记录：Ramazan Daş（不会英文）要工业级 PoE 交换机 · 未取（未坐实） · 未取 · 成立 未取 · 未取（研究档：土耳其）",
+    "url": "（无可用 URL；表内 info@labormuhendislik.com.tr）",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -114,5 +114,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索未命中（ZoomInfo / LinkedIn 同名人名、BİGİS 名录等均无关）→ 未坐实，按规：Dimas Teknoloji ve Güvenlik（TR；无域名，Gmail；ISAF 名片 Mustafa Yıldız，不会英文，要光收发器价格）— 1 次检索未命中任何同 · 未取 · 未知 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

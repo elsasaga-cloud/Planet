@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Imprint（AIXONTEC GmbH；general manager Ashkan G：AIXONTEC GmbH（aixontec.com；Aachen）— 网络基础设施产品开发 / 组装 / 销售（自有品牌线缆 + 工业以太网；Amazon 卖家） · Amtsgericht Aachen HRB 19851；USt-IdNr. D · Active · 成立 2015-07-21 · Freunder Weg 106, 52068 Aachen",
+    "url": "https://www.northdata.com/AIXONTEC%20GmbH,%20Aachen/HRB%2019851",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

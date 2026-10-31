@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：dmtrade.pl/pl/contact（DMTrade Mikołaj Tomaszewski：DMTrade Mikołaj Tomaszewski（dmtrade.pl；Kościan）— 电子 / CCTV / 智能家居网店 + 批发，Cudy 波兰官方分销（个体工商户 · CEIDG（NIP 6981681757；REGON 300138031） · Aktywna · 成立 2005 · ul. Wiśniowa 36, 64-000 Kościan",
+    "url": "https://www.dmtrade.pl/pl/contact.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

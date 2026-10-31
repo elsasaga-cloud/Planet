@@ -227,5 +227,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（บริษัท ริเวอร์พลัส จำกัด RIVERPLUS CO：บริษัท ริเวอร์พลัส จำกัด RIVERPLUS COMPANY LIMITED（riverplus.com；**เลขทะเบียน 012554800339 · เลขทะเบียนนิติบุคคล 0125548003398 · ยังดำเนินกิจการอยู่（营业中；财报连续 5 · 成立 2005-03-14 · 85/120-121 Moo 3, Bang Kruai-Sai Noi Rd., Bang Rak Phatthana, Bang Bua Thong, No",
+    "url": "https://data.creden.co/company/general/0125548003398",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

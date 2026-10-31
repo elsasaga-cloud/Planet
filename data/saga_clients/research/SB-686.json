@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网首页 / iletişim（地址、分店电话、sameAs → x.com/RifatYILDI：Tek Nokta Destek Güvenlik Sistemleri（İnegöl / Bursa；推定 şahıs） · 未取 · Aktif（官网 2026 在线，有分店） · 成立 未取 · Fatih Mh. Kıvırcık Sk. No:9/1, İnegöl / Bursa（旧址 Kemalpaşa Mh. Özsaraç Sk. 29/B）",
+    "url": "https://teknoktadestek.com/index.php?route=information%2Fcontact",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

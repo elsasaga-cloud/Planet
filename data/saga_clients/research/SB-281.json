@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Impressum（Multiguide GmbH, Linienstraße 1, 82041 ：multiGuide GmbH（multiguide.com；Oberhaching bei München）— 停车引导系统（Parkleitsystem：传感器 / 显示 /  · HRB 194714（Amtsgericht München） · Active（2025-08 最近变更） · 成立 2011-10-17 · Linienstraße 1, 82041 Oberhaching（慕尼黑南）",
+    "url": "https://www.multiguide.com/Impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -198,5 +198,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 ：Videcon Ltd（videcon.co.uk；**Endole：1995-07-31 成立，Active，Heckmondwike West Yorkshire，营业额 £3 · 未取（CH 号 1 查未得；法人名 Videcon Ltd 坐实） · Active · 成立 1995-07-31 · Heckmondwike, West Yorkshire WF16 0PN",
+    "url": "https://open.endole.co.uk/insight/brand/206497-videcon",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

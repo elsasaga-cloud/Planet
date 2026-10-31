@@ -227,5 +227,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：multiproject.com.pl 页脚（Multiproject Hurtownia Tel：PHU Multiproject（Multiproject Hurtownia Teletechniczna；multiproject.com.pl；Gdańsk）— 弱电 / 安 · NIP 5842509422（法律形式未核；「PHU」= 个体商号 Przeds · 部分坐实（NIP 已核；站点在线） · 成立 未取 · Gdańsk（门牌未取）",
+    "url": "https://www.multiproject.com.pl/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

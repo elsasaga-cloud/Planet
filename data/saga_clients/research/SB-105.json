@@ -182,5 +182,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：cenova.com.tr hakkımızda + üyelik sözleşmesi（法定全名：Cenova Güvenlik（cenova.com.tr；Perpa B Blok K:8 No:902-904 Şişli） · VKN 2060665571（Şişli VD） · Aktif（2024 招聘、官网 / X 活跃） · 成立 2002（业务起点； · Perpa Ticaret Merkezi Elektrokent B Blok Kat:8 No:902-903-904, Şişli / İstanbul（",
+    "url": "https://www.cenova.com.tr/sayfa/uyelik-sozle%C5%9Fmesi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "LinkedIn / Datanyze：CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.（Cenova Güvenlik）· Perpa Ticaret Merkezi B Blok Kat 8 No 902, Okmeydanı, İstanbul · 2002/2004 年起 · 11–50（16–18 人）· 「yurtdışındaki üreticiler ile distribütörlük temsilcilik anlaşmaları」· 在售 Tiandy 热成像/PTZ、Dayzip AHD；员工：Rıdvan Baydemir（销售）、Abdurrahman Erkarslan（技术主管）、Ramazan Pişkin（仓库）",
+    "url": "https://tr.linkedin.com/company/cenova-bili%C5%9Fim",
+    "note": "Perpa 安防进口分销商（Tiandy 等），16–18 人",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

@@ -177,5 +177,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RO · 1 次检索：icpdas.ro 首页 / About us（Company name CHT DATA SRL：CHT DATA SRL（icpdas.ro「ICP DAS Romania」网店；布加勒斯特 Str. Av. Popișteanu nr. 54A, Expo Business · CUI RO 32791574；J40/8808/2020 · Active · 成立 2014（CUI 3 · Str. Av. Popișteanu 54A, Expo Business Park, Clădirea 2, Et. 2, București",
+    "url": "https://icpdas.ro/en/content/6-about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

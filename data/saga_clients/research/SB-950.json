@@ -142,5 +142,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GE · 1 次检索：bia.ge/en/Company/95980（Linenet；LLC；VAT Number 40：Linenet LLC（შპს；line-net.ge；第比利斯 法定 Tamar Mepe Ave. 13, Apt. 3, 0112 Didube-Chugureti；办公 B · 识别码 404486757 · Operating · 成立 2015-02-05 · Tamar Mepe Ave. 13, Apt. 3, 0112 Tbilisi（办公 Bakhtrioni str. 30, 0194）",
+    "url": "https://www.bia.ge/en/Company/95980",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

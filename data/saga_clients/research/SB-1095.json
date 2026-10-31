@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索「Vidom sp. z o.o. KRS NIP vidom.pl」→ 仅命中 vidom.com：VIDOM（vidom.pl；LED 照明 + Grenton 智能家居网店，PoE / CCTV / WiFi 为配套）— 官方登记 1 次未命中（检索命中的 VIDOM Sys · 未坐实（vidom.pl 运营主体 NIP / KRS 未取） · 未核（站点在线 2026-10-21） · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

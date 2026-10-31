@@ -179,5 +179,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：daejinnetworks.com/en（Disruptive & Reliable Netwo：대진네트웍스 Daejin Networks（daejinnetworks.com；**设立 2021-01-18（站内另称 2021-03）；CEO 이수봉 Lee Soo-bo · 未取（사업자등록번호 未得） · 营业中（官网在线） · 成立 2021-01-18 · 서울 금천구 벚꽃로 278, SJ테크노빌 1207호 (가산동) 08511",
+    "url": "https://www.daejinnetworks.com/en",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

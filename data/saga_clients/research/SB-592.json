@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：EMIS（Fotech Fiber Optik Teknolojik Hizmetler San.：Fotech Fiber Optik Teknolojik Hizmetler San. ve Tic. Ltd. Şti.（fotech.com.tr；Ataşehir / İs · MERSİS 未取 · Active · 成立 1989-06-23 · Ataşehir Bulvarı 38. Ada Ata 3/3 Plaza Kat:5 No:51-52, 34758 Ataşehir / İstanbul",
+    "url": "https://www.emis.com/php/company-profile/TR/Fotech_Fiber_Optik_Teknolojik_Hizmetler_San_Ve_Tic_Ltd_Sti_en_3313643.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

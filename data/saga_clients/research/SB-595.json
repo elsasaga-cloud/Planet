@@ -139,5 +139,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：「mpcl.in India company Chetan MPCL networking PoE：（表内 mpcl.in；chetan@mpcl.in 群发退信）— **1 次检索只命中同名 MPCL Industries Limited（mpcl.co.in；CIN U269 · 未取 · 主体不明 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -233,5 +233,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：etradingkorea.com/sub/company/summary（(주)이트레이딩코리아：(주)이트레이딩코리아 ETRADINGKOREA Co., Ltd.（etradingkorea.com / .co.kr；**사업자등록번호 109-86-25355；设立 2 · 사업자등록번호 109-86-25355 · 营业中 · 成立 2010-09-15 · 서울특별시 영등포구 영신로 220, KnK디지털타워 1413호 (영등포동8가)",
+    "url": "https://etradingkorea.com/sub/company/summary.asp",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

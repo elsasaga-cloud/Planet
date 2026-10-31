@@ -205,5 +205,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：diteksurgeprotection.com/about（1988 年海军退伍 Robert ：DITEK Corporation（diteksurgeprotection.com；Largo FL） · FL 登记号未取（Sunbiz ✗） · Active（官网 2026-09 更新；Thomasnet · 成立 1988 · 1720 Starkey Road, Largo, FL 33771",
+    "url": "https://www.diteksurgeprotection.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

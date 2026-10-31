@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BE · 1 次检索：companyweb（Tesla Networks BV；BE 0830.294.165；Pann：Tesla Networks BV（原 BVBA；teslanetworks.be / .com；安特卫普省 Heist-op-den-Berg (Itegem) Pannenhu · BE 0830.294.165 · Actief（Normale toestand） · 成立 2010-10-06 · Pannenhuisstraat (ITE) 2, 2222 Heist-op-den-Berg",
+    "url": "https://www.companyweb.be/en/0830294165/tesla-networks",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

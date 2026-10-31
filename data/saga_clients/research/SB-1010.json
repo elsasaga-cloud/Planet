@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：bayiden.com.tr 首页 / Hakkımızda（Gevhernesibe Mah. ：Bayiden Bilgi Teknolojileri ve E-Ticaret（bayiden.com.tr「Teknolojinin Bayisi」；Kayseri）— 微型电 · MERSİS / 法律后缀未取（公开名 Bayiden Bilgi Teknol · Active（站点在线，2026） · 成立 未取（站点新；12  · Gevhernesibe Mah. Anıt Caddesi No 5, Kocasinan / Kayseri 38280",
+    "url": "https://www.bayiden.com.tr/ic/hakkimizda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

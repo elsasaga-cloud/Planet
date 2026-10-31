@@ -165,5 +165,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Bloomberg（KAR-Gor Inc；3540 Brooks Avenue NE Build：Kar-Gor, Inc.（kargor.com → 现以 CT Northwest 名义经营；Salem, Oregon）— 智能交通（ITS）产品与服务商 · Oregon 登记号未取（OR SoS 可查，本次 1 次即停） · Active（kargor.com 重定向至 CT Nort · 成立 1986-02-14 · 3540 Brooks Avenue NE, Building 2, Salem, OR 97301（通信 PO Box 54, Tillamook OR 97",
+    "url": "https://www.ct-northwest.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

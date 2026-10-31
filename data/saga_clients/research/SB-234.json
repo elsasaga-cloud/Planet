@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：benzotronic.it/privacy-policy（Benzotronic di Benz：Benzotronic di Benzoni Mauro（impresa individuale；benzotronic.it；Viale Antonio Gramsci 76 / · P.IVA 01414660397 · Attiva · 成立 1998（个体） · Viale Antonio Gramsci 76, 48121 Ravenna (RA)",
+    "url": "https://www.benzotronic.it/privacy-policy/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

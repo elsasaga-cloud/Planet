@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：官网 Kontakt / Regulamin（Noxel Sp. z o.o.；ul. Katow：Noxel Sp. z o.o.（noxel.pl；Chorzów，前址 Katowice）— 2019 年成立的电子 / 安防网店（摄像机、NVR、网络、路由器、报警、视频对讲） · KRS 0000799308 · NIP 6762569629 · REGON  · Aktywna（站点 2026-08 更新） · 成立 2019 · ul. Katowicka 16B, 41-500 Chorzów（旧址 ul. Józefowska 76, 40-145 Katowice）",
+    "url": "https://noxel.pl/regulamin/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -159,5 +159,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：matmax.es/marcas/gtlan（Razón social GOTE, S.A.；Pa：GOTE, S.A.（品牌 GTLAN；gtlan.com；**matmax 品牌页：1984 年创立、Parque Tecnológico Ronda Narciso Montu · 未取（CIF 1 查未得；法人名已坐实） · 营业中（品牌页 2024 / 官网在线） · 成立 1984 · Pque. Tecn. Rda. Narciso Monturiol 13, 46980 Paterna (Valencia)",
+    "url": "https://www.matmax.es/marcas/gtlan",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

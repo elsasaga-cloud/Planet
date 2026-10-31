@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RS · 1 次检索：companywall.rs（KBV DATACOM；ZORANA ŽUNKOVIĆA 17 sp：Društvo za informacione tehnologije i telekomunikacije KBV DATACOM d.o.o. Beograd（kbvdatac · PIB 106983968 / MB 20718749 · Aktivan · 成立 2011-03-11 · Zorana Žunkovića 17, sprat 1 i 2, 11102 Beograd (Savski Venac)",
+    "url": "https://www.companywall.rs/firma/kbv-datacom-doo-beograd/MMu9ivZ0",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

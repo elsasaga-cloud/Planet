@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KZ · 1 次检索：shop.nag.kz/article/bank（法人 / БИН / 地址 / 外币账户）+ s：ТОО «NAG KAZAKHSTAN (НАГ Казахстан)» — nag.kz（**shop.nag.kz 银行信息页 + ets-tender：БИН 1910400 · 191040001403（БИН） · 营业中（商城 2026） · 成立 2019-10（БИ · 050000 Алматы, пр. Жибек Жолы 135, 6 эт., оф. 2061",
+    "url": "https://shop.nag.kz/article/bank",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

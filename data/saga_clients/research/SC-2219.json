@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：aziende.it/comelit-group-s-p-a（01546400167；€111.6：COMELIT GROUP S.p.A.（comelitgroup.com；**aziende.it / reportaziende：P.IVA 01546400167；Via D · P.IVA 01546400167 · 营业中（2025 年报） · 成立 1985-02-01 · Via Don Basilide Arrigoni 5, 24020 Rovetta (BG)",
+    "url": "https://www.aziende.it/comelit-group-s-p-a",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

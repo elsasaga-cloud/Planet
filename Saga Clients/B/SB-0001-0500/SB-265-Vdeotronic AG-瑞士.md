@@ -193,6 +193,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：CH · 1 次检索：help.ch（Videotronic AG Regensdorf；UID CHE-107.888：Videotronic AG（videotronic.ch；苏黎世州 Regensdorf Moosäckerstrasse 73, 8105；UID CHE-107.888.94 · UID CHE-107.888.942；CH-020.3.927.830-8 · Aktiv（2026 起 VIDEOR 控股） · 成立 1976-08-03 · Moosäckerstrasse 73, 8105 Regensdorf (ZH) — <https://business-monitor.ch/en/companies/197640-videotronic-ag>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：16 封（去 16 / 来 0）　|　**期间**：2025-03-20 → 2026-09-14　|　**最后去信**：2026-09-14

@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：krs-online.com.pl（NIP / REGON / 1997）+ owg.pl（KRS：ELMARK AUTOMATYKA S.A.（elmark.com.pl；**krs-online / owg / 官网 regulamin：KRS 0000803828（S.A. · 0000803828（KRS；NIP 5252072585） · 营业中（AKTYWNY；VAT czynny） · 成立 1997（S.A.  · ul. Bukowińska 22 lok. 1B, 02-703 Warszawa",
+    "url": "https://www.owg.pl/krs-rp/elmark_automatyka_spolka_akcyjna_9,88,000080382,0000803828",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

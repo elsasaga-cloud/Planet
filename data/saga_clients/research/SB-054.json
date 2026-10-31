@@ -254,5 +254,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PH · 1 次检索：companyhouse.ph/testronix-inc（TESTRONIX INC.；SEC ：Testronix, Inc.（testronix.com.ph / testronix.ph；**SEC Code CS200518694（companyhouse.ph）→ 2 · SEC CS200518694 · 营业中（官网 2025 + SEC 在册） · 成立 2005（SEC 号 · Unit 415, VGP Center, 6772 Ayala Avenue, Makati City 1226, Philippines",
+    "url": "https://companyhouse.ph/testronix-inc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

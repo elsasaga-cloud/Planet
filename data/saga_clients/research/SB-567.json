@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：zoominfo（TGM Global Pte Ltd；10 Ubi Cres 06-92；+65：TGM Global Pte. Ltd.（global-tgm.com；50 Ubi Crescent #01-04, Singapore 408568（ZoomInfo 旧址 1 · 未取（UEN 1 查未得） · 营业中（企业库在） · 成立 2011 · 50 Ubi Crescent #01-04, Singapore 408568",
+    "url": "https://www.dnb.com/business-directory/company-profiles.tgm_global_pte_ltd.c860ade3faf60092825e5ac8d94f1321.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

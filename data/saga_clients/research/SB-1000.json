@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：官网页脚（Alpha Elettronica S.r.l.；Strada Antolini 2/A：Alpha Elettronica S.r.l.（alphaelettronica.com；帕尔马 Collecchio Strada Antolini 2/A；P.IVA 015 · P.IVA / CF 01511860346；REA PR-159233 · Active · 成立 1975 · Strada Antolini 2/A, 43044 Collecchio (PR)",
+    "url": "https://www.alphaelettronica.com/en/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

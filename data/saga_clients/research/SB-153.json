@@ -244,6 +244,16 @@
     "batch": "INTEL-09",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索未命中（ekşi sözlük / TDK 词典 / 学术 PDF 均无关）→ 未坐实，按规程不补查：Sinerjik（sinerjik.net；TR；ISAF 名片 Ufuk Gökalp）— 1 次检索仅命中词典释义（sinerjik = 协同的），无任何同名公司 → 未坐实； · 未取 · 未知 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

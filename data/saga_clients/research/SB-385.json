@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：官网 company_info（DTS Digital；95–99 Dean Road, Scar：DTS Digital（dtsdigitalcctv.co.uk；Scarborough, North Yorkshire）— 2009 年起的在线 CCTV 设备分销商（Geni · 未坐实（Scarborough 主体未取；CH 06949184 疑他户且已注销 · 站点在线（2024-05 更新） · 成立 2009（自述） · 95–99 Dean Road, Scarborough, North Yorkshire YO12 7QS",
+    "url": "https://www.dtsdigitalcctv.co.uk/company_info.asp",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

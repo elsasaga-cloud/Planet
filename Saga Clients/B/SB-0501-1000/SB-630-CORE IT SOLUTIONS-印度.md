@@ -221,13 +221,14 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 弱 · 回信 R+ · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：IndiaMART / Glassdoor：Core IT Solutions（CITS）· Mumbai（Sayba Palace, Mill Road, Kurla）· Partnership Firm 2010 · 11–25 人 · Annual Turnover ₹1.5–5 Cr · CEO Santosh（Khargotre）· 合伙人 Imran Usman Khan、Sarwar Alam Ansari · 在售 Techroutes Network Switch、网络安全、AMC — <https://www.indiamart.com/coreitsolutionsmumbai/profile.html>　*孟买小型 SI（营业额 ≈$0.2–0.6M）→ A-DEEP-07 下放 B*
+- 2026-10-30：IN · 1 次检索：zaubacorp（CORE IT SOLUTIONS PRIVATE LIMITED CIN U：Core IT Solutions（CITS；citsindia.com；孟买 IT 服务商：应用 / ERP、备份、云、FMS / AMC、ISP 服务、网络架构）— 1 次检索 · 未证（同名 CIN U72100MH2005PTC153203 已 Strike · 未证（同名法人 Strike Off） · 成立 未取 · Mumbai（具体未取） — <https://www.zaubacorp.com/company/CORE-IT-SOLUTIONS-PRIVATE-LIMITED/U72100MH2005PTC153203>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

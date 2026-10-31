@@ -417,5 +417,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UK Companies House：GENROV LTD · 06899120 · Active · 成立 2009-05-07 · Office 2 Kepier Hall, Church Street, Houghton-le-Spring DH4 4DN（与研究档一致）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/06899120",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

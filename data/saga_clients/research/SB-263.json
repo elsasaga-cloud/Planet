@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BE · 1 次检索：companyweb.be（Tecside BV；BE 0795.233.912；Kolonel ：Tecside BV（tecside.be / tecsideshop.be；Kolonel Begaultlaan 11, 3012 Leuven；ondernemingsnum · BE 0795.233.912 · Actief · 成立 2022-12-22 · Kolonel Begaultlaan 11, 3012 Leuven",
+    "url": "https://www.companyweb.be/en/0795233912/tecside",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

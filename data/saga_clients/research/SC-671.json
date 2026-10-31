@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：companycheck.co.uk（公司号 / 董事 / 状态）+ zoominfo（11–50：LEADER OPTEC LIMITED（leaderoptec.com；**companycheck：Company No 03936485；2000-02-29 注册；Acti · 03936485 · Active（账目已报） · 成立 2000-02-29 · Unit 15 Lite Linke Buildings, St. Asaph Business Park, St Asaph LL17 0LJ",
+    "url": "https://companycheck.co.uk/company/03936485/LEADER-OPTEC-LIMITED/companies-house-data",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：iberinform（MATRIX ELECTRONICA SL；CIF B79611794；CA：MATRIX ELECTRONICA SL（Sociedad limitada unipersonal；matrix.es；马德里 Calle Alejandro Sánchez  · CIF B79611794 · Activa · 成立 1990-10-18 · Calle Alejandro Sánchez 109, 28019 Madrid",
+    "url": "https://www.iberinform.es/empresa/1059395/matrix-electronica",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

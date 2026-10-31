@@ -240,6 +240,16 @@
     "batch": "INTEL-09",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：cessguvenlik.com Hakkımızda（CESS Güvenlik Sisteml：CESS Güvenlik Sistemleri（cessguvenlik.com；伊斯坦布尔；2018 起 CCTV / 报警 / 火灾 / 门禁 / 有线无线网络基础设施安装） · MERSİS 未取 · Active（官网在线） · 成立 2018 · İstanbul（具体地址未取）",
+    "url": "https://www.cessguvenlik.com/hakkimizda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

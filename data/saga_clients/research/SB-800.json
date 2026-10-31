@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：acelink.com.tw（Since its establishment in 1986；EW：Acelink Technology Co., Ltd.（acelink.com.tw；**HQ No. 278, Xinhu 1st Rd., Neihu Dist., Taip · 未取（推定隸屬 訊舟科技 22164580 集團） · 營業中（官網在線） · 成立 1986（集團口徑） · No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City（同 SB-088）",
+    "url": "https://www.acelink.com.tw/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

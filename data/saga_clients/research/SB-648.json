@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网首页（A Telekomünikasyon 2002 年成立；Siemens / Karel ：A Telekomünikasyon（atelekom.com.tr；伊斯坦布尔 Şişli Perpa）— 2002 年起的弱电产品分销商（Siemens / Panasonic · 未取（商号 A Telekomünikasyon；法定形式 / MERSİS 未 · Active（2026-09 站点更新） · 成立 2002 · Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok Kat:8 No:827",
+    "url": "https://atelekom.com.tr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

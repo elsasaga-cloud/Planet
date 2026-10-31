@@ -220,5 +220,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GR · 1 次检索：cnstech.gr 首页 / About / Contact（CNSTECH；Andritsai：CNSTECH / CNS Tech（cnstech.gr；雅典 Peristeri Andritsainis 15, 12135）— 2013 年正式成立（2007 起副业）的小 · ΑΦΜ / ΓΕΜΗ 未取（部分坐实） · Active · 成立 2013（活动 20 · Andritsainis 15, 12135 Peristeri (Attica)",
+    "url": "https://www.cnstech.gr/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

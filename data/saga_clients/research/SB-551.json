@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：sanspot.com/about-sanspot（「10 年以上」；30,000 sq ft 纽：SanSpot（sanspot.com；Hauppauge NY）— 光纤线缆 / 配线自有品牌，OptoSpan 同门 · NY 登记号未取（NY DOS 按法定名查，SanSpot 为品牌名；法定实体疑 · 官网在线（2026） · 成立 2000（第三方）/ · 125 Kennedy Dr, Suite 500, Hauppauge, NY 11788",
+    "url": "https://www.sanspot.com/about-sanspot",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

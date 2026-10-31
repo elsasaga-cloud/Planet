@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索「Atlantis-Land S.r.l. partita IVA REA」→ 仅 ATLANTIS：Atlantis-Land（atlantis-land.com；意大利网络 / 安防品牌 Atlantis，商用 PoE 现由 ONV 代工，「好多人卖他们的」；KP Massim · 未取（未坐实） · 未核（官网不可达） · 成立 未取 · 未取",
+    "url": "https://www.atlantis-land.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

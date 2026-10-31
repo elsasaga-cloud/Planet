@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（OctoGate IT Security Systems GmbH；Fr：OctoGate IT Security Systems GmbH（octogate.de / schulfirewall.de / kitawall.de；Paderborn）— · HRB 9944（Amtsgericht Paderborn）· USt-ID  · Aktiv（2026-08 站点更新） · 成立 2010-10-07 · Friedrich-List-Str. 87, 33100 Paderborn",
+    "url": "https://www.northdata.com/OctoGate%20IT%20Security%20Systems%20GmbH,%20Paderborn/HRB%209944",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

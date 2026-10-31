@@ -301,6 +301,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · Ticaret Sicili 镜像（find.com.tr：法定全称 / 类型 / 成立日 / 活动：ONSİS ELEKTRİK ELEKTRONİK GÜVENLİK SİSTEMLERİ İNŞAAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ · Ltd. Şti.（Ankara Ticaret Sicili；MERSİS / · Aktif（2023-07 仍在招聘技术员；D&B 在档） · 成立 1992 创业（自述 · Emek Mah. Kırım Cad. Saruhan Apt. No:78 B/28, 06490 Çankaya / Ankara",
+    "url": "https://www.find.com.tr/Company/onsiselektrikelektronikguvenliksistemleriinsaatsanayiveticaretlimitedsirketi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

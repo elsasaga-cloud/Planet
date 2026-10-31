@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：bizstanding / GA SoS 摘录（Mencom Corporation；Domest：Mencom Corporation（mencom.com；Oakwood, Georgia）— 1987 年 Bruce E. Mistarz 创办（伊利诺伊起家，1990 年代 · GA Domestic Profit Corporation（SoS 控制号未取 · Active（在产） · 成立 1987（伊利诺伊起 · 5750 McEver Rd, Suite A, Oakwood, GA 30566",
+    "url": "https://bizstanding.com/p/mencom+corporation-180484562",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

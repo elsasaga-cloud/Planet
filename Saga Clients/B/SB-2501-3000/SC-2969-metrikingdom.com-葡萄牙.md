@@ -150,6 +150,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 弱 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100：Metrikingdom Unipessoal Lda（metrikingdom.com；**NIF / NIPC 515518425；Rua Santa Marta N.º 43 · 515518425（NIF / NIPC） · 营业中（iberinform 2026-08） · 成立 2019-06-04 · Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa — <https://www.racius.com/metrikingdom-unipessoal-lda/>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：1 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z

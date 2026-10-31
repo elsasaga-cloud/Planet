@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NL · 1 次检索：vercoma.nl Contact / 结构化数据（Vercoma Communicatie S：Vercoma Communicatie Systemen B.V.（vercoma.nl；沃尔默费尔 Wormerveer Rosbayerweg 41, 1521 RW（站内另 · KvK 34219252；BTW NL814413146B01 · Actief · 成立 1978（活动）；B · Rosbayerweg 41, 1521 RW Wormerveer",
+    "url": "https://www.vercoma.nl/contact",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

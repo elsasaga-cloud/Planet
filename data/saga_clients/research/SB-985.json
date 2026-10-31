@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：axesor（Qnv sl；CIF B60574779；constitución 16/05/19：QNV SL（品牌 QNV Solutions；qnv.com；巴塞罗那 Santa Coloma de Cervelló Carrer Tallador 37, Recinto  · CIF B60574779 · Activa · 成立 1994-05-16 · Carrer Tallador 37, Recinto Industrial Colònia Güell, 08690 Santa Coloma de Cerv",
+    "url": "https://www.axesor.es/Informes-Empresas/723108/QNV_SL.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

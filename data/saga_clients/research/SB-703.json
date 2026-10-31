@@ -151,5 +151,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MX · 1 次检索：「\"Engitel\" engitel.com.mx S.A. de C.V.」→ engitel.：Engitel（engitel.com.mx；**1 查仅命中意大利 Engitel S.p.A.（engitel.com，米兰）→ 墨西哥本体未命中 → 未坐实**；研究档：IT · 未取（1 查未命中本体） · 营业中（研究档官网） · 成立 未取 · 未取（Mexico）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

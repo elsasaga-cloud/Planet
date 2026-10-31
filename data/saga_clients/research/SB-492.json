@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（SISTEL S.R.L.；P.IVA 01164230037；V：SISTEL S.R.L.（Sistel Networking 事业部；sistel-networking.it / sistelsrl.it；诺瓦拉省 Suno Via Nova · P.IVA / CF 01164230037；REA NO-153233 · Active · 成立 1986-05-28 · Via Novara 21, 28019 Suno (NO)",
+    "url": "https://www.ufficiocamerale.it/1662/sistel-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Sunbiz 名录（FLYTEC COMPUTERS INC；P07000099060；Activ：FLYTEC COMPUTERS INC（flyteccomputers.com；Doral / Miami, Florida；Sunbiz P07000099060 Active · FL Sunbiz P07000099060 · Active · 成立 2007 · 3655 NW 115th Ave, Doral / Miami, FL 33178",
+    "url": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResults?inquiryType=EntityName&searchTerm=FLYTEC+COMPUTERS+INC",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -188,6 +188,16 @@ updated: 2026-10-31
 - 依据：OK 但无回信/非主攻；身份 法定名 · 路径 活 · 回信 auto · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：NZ · 1 次检索：dnb.com（SECURITY WHOLESALE 2001 LIMITED；DBA SWL；K：Security Wholesale 2001 Limited（DBA SWL；swl.co.nz；**D&B：Key Principal Andrew Eric Jones；92 · 未取（NZBN 1 查未得；法定名 Security Wholesale 200 · 营业中（D&B + 官网） · 成立 2001（名称推定） · 922 Great South Road, Penrose, Auckland 1061, New Zealand — <https://www.dnb.com/business-directory/company-profiles.security_wholesale_2001_limited.ae524adacb574def950a62011c209631.html>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：11 封（去 10 / 来 1）　|　**期间**：2025-09-24 → 2026-09-15　|　**最后去信**：2026-09-15

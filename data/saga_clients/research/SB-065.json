@@ -246,5 +246,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PK · 1 次检索：omicronenergy.com/en/contact/addresses/pakistan（A：Ayk (Pvt.) Ltd.（ayk.com.pk；**总部 2nd Floor, U-Block, Trust Plaza, opposite Standard Charter · 未取（SECP / NTN 1 查未得） · 营业中（官网 + 原厂 partner 页） · 成立 1996 创立 /  · 2nd Floor, U-Block, Trust Plaza, Model Town, Gujranwala 52250, Pakistan",
+    "url": "https://ayk.com.pk/contact-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

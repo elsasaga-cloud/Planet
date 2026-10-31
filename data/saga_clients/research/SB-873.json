@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：opengovus SAM（Istc · International Security and T：International Security and Trading Corp.（ISTC Corp.；istccorp.com；Doral / Miami, Florida；SA · SAM UEI ZR9SDV9PUY65；FL Corporation（Sunb · Active（SAM 在册；2026 站点更新） · 成立 1995-02-27 · 8880 NW 18th Terrace, Doral, FL 33172",
+    "url": "https://opengovus.com/sam-entity/ZR9SDV9PUY65",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

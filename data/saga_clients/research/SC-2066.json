@@ -157,5 +157,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：ethoswitch.com（EthoSwitch LLC；NJ + CA 地址；since 20：EthoSwitch LLC（ethoswitch.com；**官网：New Jersey 总部 2400 Belmar Blvd Unit B20, Wall Township, · 未取（NJ 登记 1 查未得） · 营业中（官网 2026） · 成立 2012 · 2400 Belmar Blvd, Unit B20, Wall Township, NJ 07719, US（加州办事处 Los Angeles）",
+    "url": "https://www.ethoswitch.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

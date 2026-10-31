@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvizitai.vz.lt 搜索页「it darbai」条目（Itegra, MB；Part：Itegra, MB（mažoji bendrija 小型合伙；itegra.lt；考纳斯 Partizanų g. 21B-11, LT-49478）— rekvizitai.l · —（MB；代码未取） · 部分坐实 · 成立 — · Partizanų g. 21B-11, LT-49478 Kaunas",
+    "url": "https://rekvizitai.vz.lt/paieskos-frazes/it+darbai/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

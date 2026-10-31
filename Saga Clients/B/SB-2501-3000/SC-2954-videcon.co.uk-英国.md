@@ -165,6 +165,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：OK，待首触反馈；身份 法定名 · 路径 弱 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：GB · 1 次检索：endole 品牌页（Videcon Ltd；1995；£36.27M）+ tracxn（150 ：Videcon Ltd（videcon.co.uk；**Endole：1995-07-31 成立，Active，Heckmondwike West Yorkshire，营业额 £3 · 未取（CH 号 1 查未得；法人名 Videcon Ltd 坐实） · Active · 成立 1995-07-31 · Heckmondwike, West Yorkshire WF16 0PN — <https://open.endole.co.uk/insight/brand/206497-videcon>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：1 封（去 1 / 来 0）　|　**期间**：2025-01-24 → 2025-01-24　|　**最后去信**：2025-01-24

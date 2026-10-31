@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GE · 1 次检索：glm.ge（GLM Group - Solutions for Security and Tel：GLM GROUP LTD（glm.ge；第比利斯 Didube Akaki Tsereteli Ave. 140）— 安防与电信系统方案商 + 电商（消防报警、CCTV / NV · ს/კ 未取（GLM GROUP LTD 站脚） · Active（站点 2026） · 成立 未取 · Akaki Tsereteli Ave. 140, Tbilisi（Didube）",
+    "url": "https://glm.ge/en/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

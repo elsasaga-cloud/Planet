@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · ABR 1 次检索「lt security」：ABN 18 609 932 309 Active（Entity：LT SECURITY PTY LTD（LTS Security Australia；Peakhurst NSW 2210） · ABN 18 609 932 309 · ACN 609 932 309（≈20 · Active（ABR 2026-10-27） · 成立 ≈2015–16（A · Peakhurst / Riverwood, NSW 2210（悉尼南）",
+    "url": "https://abr.business.gov.au/ABN/View?abn=18609932309",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

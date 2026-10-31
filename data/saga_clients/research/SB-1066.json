@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvizitai.vz.lt（Elseta, UAB；code 300564737；found：UAB „Elseta“（原 UAB „PRAMONINIS RYŠYS“ 2013–2018；elseta.com；pramoninisrysys.lt 为其工业通信网店；维尔纽 · įmonės kodas 300564737；PVM LT10000335891 · Active · 成立 2006-05-02 · Liudviko Zamenhofo g. 5, LT-06332 Vilnius",
+    "url": "https://rekvizitai.vz.lt/en/company/elseta/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

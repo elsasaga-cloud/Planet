@@ -350,6 +350,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：infinityhardware.com Terms（Supplier Go Get Intern：Go Get International LLC（dba Infinity Hardware；infinityhardware.us；High Point, NC）— 微型 IT  · EIN 85-3229984；DUNS 011668947（NC SoS 号未取 · 在营（SAM 未完成注册） · 成立 2020 · 3975 Netherstone Ln, High Point, NC 27265（注册办公地 = 住宅区街道）/ 812 Parliament St, Hig",
+    "url": "https://infinityhardware.com/terms-and-conditions/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

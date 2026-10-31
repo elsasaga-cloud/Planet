@@ -270,6 +270,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 法定名 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：BBB（LA & Silicon Valley）档案 —— 1230 Santa Anita Av：GW Security（gwsecurityusa.com；South El Monte, CA） · CA SoS 实体号未取（bizfile JS） · Active（BBB 档在用、官网在售） · 成立 2016-12-08 · 1230 Santa Anita Ave Ste A, South El Monte, CA 91733-3861（洛杉矶东） — <https://www.bbb.org/us/ca/south-el-monte/profile/security-equipment/gw-security-1216-892747>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：49 封（去 49 / 来 0）　|　**期间**：2024-06-17 → 2026-08-28　|　**最后去信**：2026-08-28

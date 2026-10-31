@@ -288,5 +288,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Germany · Handelsregister + Bundesanzeiger（Northdata 免费页）：U.T.E. Electronic GmbH & Co. KG · Amtsgericht Bochum HRA 4773 · EUID DER22 · 在册，年报（仅资产负债表）按期公告，2024 年报 2026 · 成立 1997-04-11 · Friedrich-Ebert-Str. 86, D-58454 Witten（鲁尔区，2018-11 迁入）",
+    "url": "https://www.northdata.de/U.T.E.%20Electronic%20GmbH%20&%20Co.%20KG,%20Witten/Amtsgericht%20Bochum%20HRA%204773",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

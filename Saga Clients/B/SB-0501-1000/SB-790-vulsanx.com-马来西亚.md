@@ -178,6 +178,16 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：MY · 1 次检索：startup-asean.org（Vulsan X；59-2 JALAN MPK 3 MEDAN：Vulsan X（vulsanx.com；**59-2, Jalan MPK 3, Medan Perdagangan Kepayang, 70200 Seremban, Nege · 未取（SSM 1 查未得） · 营业中（名录 ACTIVE） · 成立 2016-09-26 · 59-2, Jalan MPK 3, Medan Perdagangan Kepayang, 70200 Seremban, Negeri Sembilan,  — <https://startup-asean.org/startup-detail?Id=3a1bb4f9-e0d6-037e-0bda-3181b4fcc865>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：9 封（去 9 / 来 0）　|　**期间**：2024-06-14 → 2025-01-22　|　**最后去信**：2025-01-22

@@ -222,5 +222,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：magnusgulf.com 博客页脚（Magnus Infotech Trading LLC；A：Magnus Gulf = Magnus Infotech Trading LLC（magnusgulf.com；**Al Tawhidi Building II – M4, Al · 未取（LLC；牌照号 1 查未得） · 营业中（官网 2026-04 更新） · 成立 未取 · Al Tawhidi Building II – M4, Al Mankhool Rd, Bur Dubai, Dubai, UAE",
+    "url": "https://magnusgulf.com/what-is-a-network-access-controller-nac/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

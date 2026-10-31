@@ -221,5 +221,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：moxa.eworldme.com contact（Easy World Automation L：Easy World Automation L.L.C（eWorld；eworldme.com；**2002 年成立；总部 P.O. Box 29505, Office 204,  · 未取（L.L.C；牌照号 1 查未得） · 营业中（官网 2026） · 成立 2002 · Office 204, Building 1, Emaar Business Park, Sheikh Zayed Road, Dubai, UAE (P.O.",
+    "url": "https://eworldme.com/PARTNERS/MOXA",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：nltinc.com/about-us（Founded in 1984 as a division：Northern Light Technologies（NLT；法定名待取：Northern Light Technologies Inc.；nltinc.com；533 McNi · 未取（登记号） · Active · 成立 1984（Levit · 533 McNicoll Ave., Toronto, ON M2H 2C9",
+    "url": "https://nltinc.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

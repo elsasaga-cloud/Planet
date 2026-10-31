@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（Dewitzer Straße 77H, 04425 Taucha；bu：Flöter SDT | Sicherheit, Detektei und Technik GmbH（floeter-sicherheit.de / floeter-sdt.de； · HRB 38796（Amtsgericht Leipzig） · Aktiv（2026-01 年报已公示） · 成立 2021-04-22 · Dewitzer Straße 77h, 04425 Taucha",
+    "url": "https://www.companyhouse.de/Floeter-SDT-Sicherheit-Detektei-und-Technik-GmbH-Taucha",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

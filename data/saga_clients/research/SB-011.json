@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：greentechme.net 首页 / about（法定名 **Green Technical ：GREEN TECHNICAL LLC（greentechme.net；Ajman / Dubai, UAE） · 未取（Ajman 执照不公开） · Active（官网在用） · 成立 未取 · P.O. Box 22511, Ajman；P.O. Box 238376, Dubai（UAE）",
+    "url": "https://greentechme.net/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：innowatt.it 页脚（© 2026, Innowatt GRUPPO COSOLA S.R：Innowatt = GRUPPO COSOLA S.R.L. 的自有品牌网店（innowatt.it；P.IVA 01218230777（站脚；马泰拉段位）；LinkedIn「G · P.IVA 01218230777（GRUPPO COSOLA S.R.L.；R · Active（站点 2026） · 成立 未取 · 未取（P.IVA 段位 = 马泰拉省，巴西利卡塔）",
+    "url": "https://www.innowatt.it/en/pages/about",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

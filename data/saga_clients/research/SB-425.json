@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（GSG INTERNATIONAL S.R.L.；Rea 1537：GSG INTERNATIONAL S.R.L.（gsginternational.com；米兰 Trezzano sul Naviglio Piazza San Lorenzo  · P.IVA / CF 12178170150；REA MI-1537545 · Active · 成立 1997-06-12 · Piazza San Lorenzo 48, 20090 Trezzano sul Naviglio (MI)",
+    "url": "https://www.ufficiocamerale.it/1127/gsg-international-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

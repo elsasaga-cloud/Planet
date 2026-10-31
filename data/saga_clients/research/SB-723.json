@@ -105,13 +105,28 @@
   "as_of": "2026-10-24"
  },
  "b_tier": {
-  "tier": "B1",
-  "why": "有回信（R+）",
-  "batch": "B-PASS-01",
+  "tier": "B2",
+  "why": "有回信（R+）；B-PASS-02 2026-10-31：Bilgen Elektronik：无域名 → B2（不可挖）",
+  "batch": "B-PASS-02",
   "date": "2026-10-31",
   "ident": "法定名",
   "path": "弱",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：iletisimadresleri 名录（法定全名；Osman Yılmaz Mah. 607/1：BİLGEN ELEKTRONİK GÜVENLİK SİSTEMLERİ TEKNOLOJİLERİ YAZILIM ELEKTRİK MAKİNA SAN. VE TİC. L · 未取 · Aktif · 成立 未取 · Osman Yılmaz Mah. 607/1 Sok. No:21, 41400 Gebze / Kocaeli",
+    "url": "https://www.iletisimadresleri.com/en/bilgen-elektronik-854751",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

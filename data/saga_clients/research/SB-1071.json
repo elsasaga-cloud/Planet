@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：sielcosistemi.com Company（SIELCO SISTEMI srl；Via ：SIELCO SISTEMI S.r.l.（sielcosistemi.com / scada-hmi.it；科莫 法定 Via Regina 24, 22073 Fino Mor · P.IVA / CF 02854460132；REA CO-282515 · Active · 成立 2004-12-07 · Via Regina 24, 22073 Fino Mornasco (CO)（运营 Guanzate）",
+    "url": "https://www.sielcosistemi.com/en/company",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：rejestr.io（KRS 0000181283；NIP 6792784999；REGON 35：Eltcrac System Sp. z o.o.（EC System；ecsystem.pl / sklep-ecsystem.pl；Kraków） · KRS 0000181283 · NIP 6792784999 · REGON  · Aktywna · 成立 ≈2003（KRS  · ul. Ruciana 3, 30-803 Kraków（+48 12 292 48 61）",
+    "url": "https://rejestr.io/krs/181283/eltcrac-system",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

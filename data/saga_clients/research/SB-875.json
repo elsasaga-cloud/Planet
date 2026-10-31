@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：lemaxguvenlik.com 产品页（法定全名 Ltd. Şti.）+ hakkımızda：Lemax Güvenlik ve Bilişim Sistemleri Toptan Satış Paz. İç ve Dış Tic. Ltd. Şti.（lemaxguven · Mersis / VKN 未取（电商主体为个体工商户，个人税号不记） · Aktif（官网 2026-05 博客更新） · 成立 2007–2012（ · Üsküdar Cad. 127C, Kartal / İstanbul",
+    "url": "https://www.lemaxguvenlik.com/sayfa/hakkimizda/1",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

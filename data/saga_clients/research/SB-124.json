@@ -154,5 +154,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "EC · 1 次检索：bolsadevaloresguayaquil.com/emisores/info-emisor.：TELCONET S.A.（telconet.ec；**RUC 0991327371001；法定代表人 Marion Tomislav Topic Granados（Gerente · RUC 0991327371001 · 营业中（BVG 发行人 + ARCOTEL 许可） · 成立 未取（1990 年代 · Av. Luis Orrantia SL. 21 y Av. V.H. Sicouret, Kennedy Norte, Guayaquil, Ecuador",
+    "url": "https://www.bolsadevaloresguayaquil.com/emisores/info-emisor.asp?emicodi=E.87",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

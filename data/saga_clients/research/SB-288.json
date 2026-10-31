@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CH · 1 次检索：moneyhouse（SECOMP International AG；UID CHE-112.62：SECOMP International AG（secomp-international.com；苏黎世州 Bassersdorf Grindelstrasse 6, 8303；U · UID CHE-112.622.278；CH-170.3.028.825-9（关 · Aktiv · 成立 未取（集团 1988 · Grindelstrasse 6, 8303 Bassersdorf (ZH)",
+    "url": "https://www.moneyhouse.ch/en/company/secomp-international-ag-12957629611",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

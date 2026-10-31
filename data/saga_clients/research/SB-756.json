@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：fluxlight.com/about-us（2003 年 Irving TX 创立；光互连产品：：FluxLight, Inc.（fluxlight.com；Irving / Dallas TX） · TX 登记号未取（BBB 记 Incorporated 2007-08-17） · Active（BBB 档案 + 官网在线） · 成立 2007-08-17 · 2035 Royal Ln Suite 280, Dallas, TX 75229（BBB 记 Irving）",
+    "url": "https://www.bbb.org/us/tx/irving/profile/fiber-optics/fluxlight-inc-0875-90796041",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Senao Networks 2021 年报 / 合并报表（EnGenius Technologi：EnGenius Technologies, Inc.（engeniustech.com；Costa Mesa, CA）— 台湾 Senao Networks（TWSE 3558） · CA 公司（SoS 号未取）；母公司 Senao Networks, Inc.  · Active · 成立 1999 · 1580 Scenic Ave, Costa Mesa, CA 92626（LinkedIn / 官网）",
+    "url": "https://static.engeniuscdn.com/wp-content/uploads/2022/08/09163213/%E7%A5%9E%E6%BA%962021Q4%E8%8B%B1%E6%96%87%E8%B2%A1%E5%A0%B1.pdf",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

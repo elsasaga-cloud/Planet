@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RU · 0 次独立检索（SB-851 检索中 bbnt.ru 列 GIGALINK 为 ООО «Тайле РУС»：GIGALINK（giga-link.ru）— **ООО «Тайле РУС» 的自有品牌之一（bbnt.ru：собственные бренды NIKOMAX, NIKO · 同 SB-851（ИНН 7715603560） · Действующая · 成立 2006-05-29 · 同 SB-851：127410 Москва, Алтуфьевское ш., д. 41",
+    "url": "https://bbnt.ru/company-requisites/8588",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

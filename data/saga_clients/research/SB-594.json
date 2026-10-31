@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（KM SOLTEC SOCIETA' A RESPONSABILI：KM SOLTEC S.R.L.（kmsoltec.com；自有工业 PC 品牌 Kimera Computers；Via I Maggio 4, 37040 Pressana ( · P.IVA 04466860238 / REA VR-463733 · Attiva · 成立 2017-03-20 · Via I Maggio 4, 37040 Pressana (VR)",
+    "url": "https://www.ufficiocamerale.it/6041/km-soltec-societa-a-responsabilita-limitata",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

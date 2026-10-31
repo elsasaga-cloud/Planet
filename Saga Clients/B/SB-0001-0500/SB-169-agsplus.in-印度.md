@@ -232,13 +232,14 @@ LT-T03 官网快照加厚（2026-10-21）：fail#1。
 - 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：Facebook / ZoomInfo / X：AGS PLUS（agsplus.in）· Ghaziabad（Major Asharam Road, Sihani Rd, Ghukna）· 「Manufactur for Surveillance and Entrance Automation」· +91 7290005897 · 社媒 2023-10 起 · 营收 <$5M — <https://www.zoominfo.com/c/agsagsplus/1327107504>　*加济阿巴德小型监控/门禁贴牌商，规模无证 → A-DEEP-07 下放 B*
+- 2026-10-30：IN · 1 次检索：xexagon.co.in（Xexagon Odhav Ahmedabad；GST No. 24B：AGS Plus（agsplus.in 占位页；KP Vinod Tyagi +91 98105（德里号段）；sales@agsplus.in）+ 关联 Xexagon（xexag · Xexagon：GSTIN 24BWZPP0936L1ZR / CIN U282 · Active（Xexagon）；AGS Plus 站点占位 · 成立 Xexagon 20 · Xexagon：Block A-209, Global Business Park, S.P. Ring Road, Odhav, Ahmedabad 3824 — <https://www.tofler.in/xexagon-hi-tech-private-limited/company/U28299GJ2025PTC160203>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：cacompanyregistry（INSCAPE DATA CORPORATION；CA 公司号：Inscape Data Corporation（inscapedata.com / PoEsuperstore.com；San Jose CA）— 户外 PoE 交换机 / 无线 · California SoS 2438912 · Active · 成立 2004-02-11 · 2012 Hartog Court, San Jose, CA 95131（旧址 1611 South Main Street, Milpitas）",
+    "url": "https://www.cacompanyregistry.com/Agent/DAVID+D+LIN/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

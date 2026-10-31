@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ/SK · 1 次检索：eltrox.cz/kontakty（E-commerce Group, s.r.o.；La：eltrox.cz（经营者 E-commerce Group, s.r.o.；注册地 Laca Novomeského 2630/13, 085 01 Bardejov, Slov · IČO 47589175（SK） · Aktívna · 成立 —（未取） · Laca Novomeského 2630/13, 085 01 Bardejov, Slovensko（CZ 站点）",
+    "url": "https://www.eltrox.cz/kontakty/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

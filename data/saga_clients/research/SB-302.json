@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网首页（Antalya Turkuaz Bilişim；Altındağ Mah. 166. S：Antalya Turkuaz Bilişim Teknolojileri Ltd. Şti.（antalyaturkuaz.com；安塔利亚 Muratpaşa Altındağ · MERSİS 未取 · Active（官网在线；旧址停用） · 成立 未取（自述 25+  · Altındağ Mah. 166. Sok. Doğan Apt No:24/C, Muratpaşa, Antalya",
+    "url": "http://www.antalyaturkuaz.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

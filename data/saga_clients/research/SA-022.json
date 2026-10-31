@@ -295,5 +295,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · BBB 登记摘要 + 加州实体（corporationwiki / OpenCorporates 摘要）+ ：ADD-ON COMPUTER PERIPHERALS, LLC（AddOn Networks） · California LLC（2002-12-26）；另有 Add-On Com · 经营中；纽约州 OGS 集中采购合同持有人（PM69867， · 成立 业务始于 2000- · 15773–15775 Gateway Circle, Tustin, CA 92780（单址；研究档另有 UK / Belgium 仓）",
+    "url": "https://www.bbb.org/us/ca/tustin/profile/computer-parts/add-on-computer-peripherals-llc-1126-100022963",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

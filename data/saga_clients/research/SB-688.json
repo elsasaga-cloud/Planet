@@ -209,5 +209,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网首页 / bize-ulaşın / kurumsal（2013 成立；Niagara Net：TESLAKOM BİLİŞİM VE TELEKOMÜNİKASYON A.Ş.（İstanbul + Ankara Bilkent Cyberpark；网络可视化 / SD-W · 未取（Mersis 未命中） · Aktif（官网 2026 更新） · 成立 2013 · Koçman Cd. No:54 Demirkol Plaza C Blok Kat:2, Bağcılar, İstanbul（Ankara：1606. Ca",
+    "url": "https://www.teslakom.com/kurumsal",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索（首查 0 结果、简化词重试 1 次）：ahamson.com/contact（MIDDLE EAS：A Hamson Middle East FZE（ahamson.com；**迪拜办公室 920 Burjuman Business Towers, Dubai；集团 A Hams · 未取（FZE；牌照号 1 查未得） · 营业中（官网 + IBM 目录） · 成立 集团 1985（多伦 · 920 Burjuman Business Towers, Dubai, UAE",
+    "url": "https://www.ahamson.com/contact.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

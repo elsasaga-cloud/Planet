@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（QUBIX S.P.A.；P.IVA 03575150283；VI：QUBIX S.P.A.（qubix.it；帕多瓦 Via Canada 22/A, 35127；P.IVA / CF 03575150283；REA PD-321331）— 20 · P.IVA / CF 03575150283；REA PD-321331 · Active · 成立 2001-02-01 · Via Canada 22/A, 35127 Padova",
+    "url": "https://www.ufficiocamerale.it/6588/qubix-spa",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

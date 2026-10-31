@@ -154,5 +154,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PT · 1 次检索：racius（NIF / 地址 / 成立日 / 资本）+ iberinform（CAE 62100：Metrikingdom Unipessoal Lda（metrikingdom.com；**NIF / NIPC 515518425；Rua Santa Marta N.º 43 · 515518425（NIF / NIPC） · 营业中（iberinform 2026-08） · 成立 2019-06-04 · Rua Santa Marta N.º 43Ef, 3 D, 1150-293 Lisboa",
+    "url": "https://www.racius.com/metrikingdom-unipessoal-lda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

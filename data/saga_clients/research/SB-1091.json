@@ -156,5 +156,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE→AT · 1 次检索：akademie.triotronik.com Impressum（TRIOTRONIK C：TRIOTRONIK GmbH（2026-09-16 更名自 TRIOTRONIK Computer und Netzwerktechnik GmbH；triotronik.com · FN 287460k（LG ZRS Graz）；UID ATU63017835； · Active（2026-09-16 更名；2025 年报已交 · 成立 2007-02-07 · Energiestraße 10, 8160 Weiz（Krottendorf）, Steiermark, Austria",
+    "url": "https://www.firmenatlas.com/firma/287460k",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -311,5 +311,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：cyberbajt.pl/page/29（Cyberbajt Tadeusz Nowak；ul. ：Cyberbajt Tadeusz Nowak（cyberbajt.pl；Zamość）— 波兰最早一批 MikroTik 分销商，个体工商户 · CEIDG（NIP 9221003243；REGON 950190918） · Aktywna · 成立 未取（CEIDG 起 · ul. Młyńska 27, 22-400 Zamość（研究档写 Płock 有误）",
+    "url": "https://www.cyberbajt.pl/page/29",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

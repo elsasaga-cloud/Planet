@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：LinkedIn 公司页（İntenet İletişim Teknolojileri LTD.；：İntenet İletişim Teknolojileri Ltd. Şti.（intenet.com.tr；İstanbul Esenler Giyimkent）— 1993  · Ltd. Şti.（İstanbul；MERSİS 号未取） · Active（站点 2021 内容；LinkedIn 在线） · 成立 1993 · Oruç Reis Mah. Giyimkent Sitesi, Giyimkent 2. Sokak No 56, 34237 Esenler / İstan",
+    "url": "https://tr.linkedin.com/company/intenet",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

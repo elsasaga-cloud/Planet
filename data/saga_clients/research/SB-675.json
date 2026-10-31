@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：companyhouse.de（Pan Dacom Direkt GmbH；Dreieich Pl：Pan Dacom Direkt GmbH（pandacomdirekt.de；Dreieich bei Frankfurt）— 2002 年成立的传输网络设备开发商 + 系统集成 · HRB 35050 Amtsgericht Offenbach am Main  · Active（2026-03 登记变更） · 成立 2002-10-17 · Dreieich Plaza 1B, 63303 Dreieich",
+    "url": "https://www.companyhouse.de/Pan-Dacom-Direkt-GmbH-Dreieich",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

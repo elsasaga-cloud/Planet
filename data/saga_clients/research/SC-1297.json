@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：prospeo.io/c/winncom-technologies（Solon OH；101-20：Winncom Technologies Corp（winncom.com；**Tracxn 法人：WINNCOM TECHNOLOGIES CORP（Ohio，1999-12-3 · Ohio corp（1999-12-31；号未取） · Active · 成立 1996（公司注册  · 28900 Fountain Parkway, Unit B, Solon, OH 44139, US",
+    "url": "https://tracxn.com/d/companies/winncomtechnologies/__p_BJX1mRIETKDrtejaZ620uy7lAtkDlCWGp--RK8fIw",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

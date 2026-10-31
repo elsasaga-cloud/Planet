@@ -229,5 +229,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（MRO-TEK REALTY LIMITED CIN L28112KA1984：MRO-TEK Realty Limited → UMIYA BUILDCON LIMITED（2026 更名；RoC 已同意再更名为「MRO-TEK Networks Limit · CIN L28112KA1984PLC005873 / GSTIN 29AAAC · Active（BSE 上市） · 成立 1984-12-10 · No. 6, New BEL Road, Chikkamaranahalli, Bangalore 560054",
+    "url": "https://www.zaubacorp.com/company/MRO-TEK-REALTY-LIMITED/L28112KA1984PLC005873",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

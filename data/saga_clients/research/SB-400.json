@@ -158,5 +158,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：safanetworks.com（presence in Saudi Arabia, UAE an：Safa Networks FZE-LLC（safanetworks.com；**沙迦自贸区（FZE-LLC；沙迦）；分支 UAE / 沙特 / 印度；进口数据 = 从印度进硬盘  · 未取（FZE-LLC；牌照号 1 查未得） · 营业中（官网在；内容空泛） · 成立 未取 · 未取（Sharjah, UAE）",
+    "url": "https://safanetworks.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

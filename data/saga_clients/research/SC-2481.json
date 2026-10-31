@@ -207,5 +207,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：crunchbase（Okisan Güvenlik Teknolojileri；Founded ：Okisan Güvenlik Teknolojileri San. ve Tic. A.Ş.（okisan.com；**Crunchbase：1986 年创立、Şişli İst · 未取（MERSIS 1 查未得） · 营业中（官网产品页 2026-05） · 成立 1986 · Okisan Plaza, Mahmut Şevket Paşa Mah. Odesa Bulvarı Ersan Sok. No:24, Okmeydanı ",
+    "url": "https://en.tiandy.com/projects/okisan-g-venlik-teknolojileri-san-ve-tic-a/3161.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

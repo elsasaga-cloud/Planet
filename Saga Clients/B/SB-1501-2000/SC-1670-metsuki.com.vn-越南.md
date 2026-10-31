@@ -193,6 +193,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：OK 但无回信/非主攻；身份 登记坐实 · 路径 活 · 回信 none · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：VN · 1 次检索：yellowpages.vn（MST / 成立 / 人数 / 业务 / 地址）；2026-10-2：Công Ty TNHH Phát Triển Công Nghệ Metsuki VietNam（metsuki.com.vn；**MST 0304967173；2007-05- · 0304967173（MST） · 营业中（目录 2024） · 成立 2007-05-02 · 41/1F Tân Thới Nhất 1, Khu Phố 3, Phường Tân Thới Nhất, Quận 12, TP. Hồ Chí Minh — <https://www.yellowpages.vn/lgs/1187674716/cong-ty-tnhh-phat-trien-cong-nghe-metsuki-vietnam.html>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2024-06-19 → 2025-01-02　|　**最后去信**：2025-01-02

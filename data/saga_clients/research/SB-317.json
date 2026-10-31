@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：官网 o-nas / kontakt / dodací podmínky（2012-01-02 成：Techfors CZ s.r.o.（Praha 4 – Krč） · IČO 24202908 · DIČ CZ24202908 · OR Praha · Aktivní · 成立 2012-01-02 · Na staré vinici 395/7, Krč, 140 00 Praha 4",
+    "url": "https://www.podnikatel.cz/rejstrik/techfors-cz-s-r-o-24202908/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

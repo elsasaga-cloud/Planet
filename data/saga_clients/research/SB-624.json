@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：ubwh.com.au（UBWH Australia；02 8412 8312；store@ubw：UBWH Australia = Freenet Warehouse Pty Ltd（ubwh.com.au / netonix.com.au；**ABN 79 153 180 8 · ABN 79 153 180 888 · 营业中（网店在） · 成立 未取（ABN 153 · 3 Barker Place, Bicton WA 6157, Australia",
+    "url": "https://ubwh.com.au/index.php?nfc=1&page=1",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：bbb.org（Cozzmic；Business Incorporated 7/5/2010；Bu：7546246 Canada Inc.（商号 Cozzmic / Cozzmic Communications；cozzmic.com；20 Ryan Place, Unit 3, · 联邦公司号 7546246（Corporations Canada） · Active · 成立 2010-05-07 · 20 Ryan Place, Unit 3, Brantford, ON N3S 7S1",
+    "url": "https://www.bbb.org/ca/on/brantford/profile/telecommunications/cozzmic-0107-1401089",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -235,6 +235,16 @@ A 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主�
 - 依据：出 A 户（AB-FINAL-01 2026-10-30 A 级终评：降 B：只有薄回复（K3））；身份 登记坐实 · 路径 活 · 回信 Rw · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：India · MCA 登记（Zauba Corp 镜像）：DNC TECHNOSOLUTIONS PRIVATE LIMITED · CIN U33125KL2013PTC034130 · RoC Ernakula · Active（最近 AGM 2023-12-30；资产负债表 · 成立 2013-05-20 · XVIII/127K, L&M Pallimattom Towers, Binanipuram P.O., Edayar, Ernakulam, Kerala  — <https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom　|　**邮件**：3 封（去 3 / 来 0）　|　**期间**：2024-06-19 → 2024-12-11　|　**最后去信**：2024-12-11

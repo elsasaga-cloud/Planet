@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网首页 + HizmetDetay（两处地址、业务线：Avaya IP 交换机 / 数据布线 /：Nortel İletişim（Antalya；法定类型未取） · 未取 · Aktif（官网在线） · 成立 未取（自述「uzun · Varlık Mah. Piri Reis Cad. No:19/B, Muratpaşa / Antalya（+ Yükseliş Mah. 2116 Sk.",
+    "url": "http://norteliletisim.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

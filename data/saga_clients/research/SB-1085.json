@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：rejestr.io KRS 0000430899（TAYAMA Sp. z o.o.；2012-：TAYAMA（tayama.pl；Katowice）— Prandota 家族三实体：TAYAMA Sp. z o.o. / TAYAMA Sp. z o.o. Sp.k. / T · KRS 0000430899（Sp. z o.o.）/ 0000619990（S · Active（三实体） · 成立 2012-08-24 · ul. Słoneczna 4, 40-135 Katowice",
+    "url": "https://rejestr.io/krs/430899/tayama",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

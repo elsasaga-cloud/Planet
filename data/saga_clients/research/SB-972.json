@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CY · 1 次检索：elekora.com（K.N. Electrologic Services Lim；22 Lef：K.N. ELECTROLOGIC SERVICES LIMITED（KN Electrologic Services Ltd；electrologicservices.com；2 · HE 251241 / VAT 10251241W · 未取（推定在册） · 成立 ≈2009（HE 号 · 22 Lefkosias Street, Office 103, 2018 Strovolos, Nicosia",
+    "url": "https://elekora.com/product/kn-electrologic-services-lim/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

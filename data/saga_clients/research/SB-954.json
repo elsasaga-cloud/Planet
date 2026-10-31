@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：netstar.in/home（Contact Us Infonet Technologies 1：NETSTAR（netstar.in / starpoe.com；法人 **Infonet Technologies（合伙企业；GSTIN 24AAGFI3821H1ZN（2017 · GSTIN 24AAGFI3821H1ZN / IEC AAGFI3821H · Active · 成立 1995 · Shop 19, Limbani Complex, Ambli Bopal Road, Ambli Gam, Ahmedabad 380058",
+    "url": "https://www.netstar.in/home/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

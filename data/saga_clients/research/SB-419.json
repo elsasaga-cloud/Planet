@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：avproglobal.com 新闻稿 2026-01-14（AVPro Global Holdi：AVPro Global Holdings, LLC（avproglobal.com；Sioux Falls, SD）— 自有品牌 AV 制造商（AVPro Edge / MXne · SD 登记号未取（SD SoS 可查，本次 1 次即停） · Active（Inc. 5000 2026 上榜） · 成立 2013 · Sioux Falls, SD（总部）；卫星：St. Petersburg FL / Seattle WA / Minneapolis MN / Bratisl",
+    "url": "https://www.avproglobal.com/blogs/news/avpro-global-names-matt-murray-ceo-as-founder-jeff-murray-becomes-chairman",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

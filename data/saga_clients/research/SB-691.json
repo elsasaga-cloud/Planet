@@ -148,5 +148,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Hakkımızda（1993 年起增值分销商；30 年；5,000+ 企业网络）+ 官网首：Vitel Veri İletişimi ve Telekomünikasyon Sistemleri A.Ş.（Vitel A.Ş.；vitel.com.tr；伊斯坦布尔 Kad · A.Ş.（İstanbul 商事登记；MERSİS 未取） · Active（Bilişim 500 2024 在榜） · 成立 1993-01-08 · 19 Mayıs Mah. İnönü Cad. Yıldız Sok. STFA Blokları B7 Blok No:17/1, 34736 Kadıkö",
+    "url": "https://www.vitel.com.tr/hakkimizda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

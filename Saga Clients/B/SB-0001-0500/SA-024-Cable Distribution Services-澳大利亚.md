@@ -241,6 +241,16 @@ A 确认（2 次实质回复 + 问价 + 工业分销渠道）；澳洲不在重�
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Australia · ABN Lookup（abr.business.gov.au，澳大利亚税务局官方，记录提取 20：Cable Distribution Services（CDS）— 商号；法人 = Damita Investments Pty Ltd（2025-08 起）/ 原 The Tru · ABN 99 125 638 548（Damita Investments Pt · 两个 ABN 均 Active；Damita Investm · 成立 生意自 2000-0 · 主营业地 WA 6105（Welshpool / Kewdale，珀斯）；研究档官网地址 51 Boulder Rd, Malaga WA 6090 → 近期可 — <https://abr.business.gov.au/ABN/View?abn=99125638548>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-06-21 → 2026-09-30　|　**最后去信**：2026-09-30

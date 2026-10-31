@@ -185,5 +185,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SK · 1 次检索：triton.eu/sk/kontakt（Tritonsystems s.r.o. Kopčian：Tritonsystems spol. s r.o.（triton.eu / tritonsystems.eu；品牌 ParkIS / Arena；布拉迪斯拉发 Petržalka · IČO 48060658；IČ DPH SK2120052044（关联 T R  · Aktívna · 成立 2015-03-10 · Topoľčianska 25, 851 05 Bratislava（办公 Kopčianska 9, 851 01）",
+    "url": "https://www.finstat.sk/48060658",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

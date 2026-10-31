@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · ABR ABN Lookup 名称检索结果表（ABN / 实体名 / 类型 / 邮编；记录提取 2026-10：OPTICAL SYSTEMS DESIGN PTY LTD（OSD） · ABN 83 003 020 504（ACN 003 020 504 → 198 · Active · 成立 ≈1985（ACN  · NSW 2102（Warriewood，悉尼北滩）",
+    "url": "https://abr.business.gov.au/Search/ResultsActive?SearchText=optical%20systems%20design",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

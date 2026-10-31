@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（COMMANDO NETWORKS PRIVATE LIMITED；CIN U：COMMANDO Networks Private Limited（commandonetworks.com；Navi Mumbai，印度）— 自有品牌网络硬件（深圳 / 香港 / · 印度 CIN U74999MH2015PTC261514（美国 Inc. 仅注册 · Active · 成立 2015-12-30 · Office 212-213, Building No. 2(A-3), Millennium Business Park, MIDC, Mahape, Nav",
+    "url": "https://www.zaubacorp.com/COMMANDO-NETWORKS-PRIVATE-LIMITED-U74999MH2015PTC261514",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

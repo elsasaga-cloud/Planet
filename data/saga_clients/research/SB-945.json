@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：tracxn（Grep Tech；unfunded company based in Singap：Grep Tech（Pte Ltd；grep.sg；**2012 年由 Robin Luo 创办（Founder / CEO / Managing Director = KP）** · 未取（UEN 未得；LinkedIn 法人名 Grep Tech Pte Ltd · 营业中（企业库在；官网报错） · 成立 2012 · 未取（新加坡）",
+    "url": "https://www.crunchbase.com/organization/grep-tech",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

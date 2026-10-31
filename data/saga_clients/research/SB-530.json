@@ -208,5 +208,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KW · 1 次检索：dss-kuwait.com/contactus.php（1st Floor, Office 15：Digital Security Systems Est.（DSS；dss-kuwait.com；**官网 contact：1st Floor, Office 15, Ahmad  · 未取（CR 号 1 查未得） · 营业中（官网 + 伙伴页） · 成立 未取 · 1st Floor, Office 15, Ahmad Al Jaber Street, Sharq, P.O. Box 631, Dasman 15457, ",
+    "url": "http://www.dss-kuwait.com/contactus.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

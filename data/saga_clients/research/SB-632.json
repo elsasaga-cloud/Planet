@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：grypen.in/about-us（Grypen Technologies Private Li：Grypen Technologies Private Limited（grypen.in；Plot 467/A, Mahipalpur, New Delhi 110037；inf · 未取（CIN） · Active（站点 2024） · 成立 未取 · Plot 467/A, Mahipalpur, New Delhi 110037",
+    "url": "https://grypen.in/about-us.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -150,5 +150,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BE · 1 次确认检索：companyweb（Dourte SRL；BE0684917295；Established ：Dourte SRL / BV（商号 Dourte Elektriciteit；dourte.be；佛兰芒布拉班特 Sint-Pieters-Leeuw (Ruisbroek) B · BE 0684.917.295 · Actief · 成立 2017-11-16 · Buitenplas 1 bus 15, 1601 Ruisbroek (Sint-Pieters-Leeuw)",
+    "url": "https://www.companyweb.be/en/0684917295/dourte",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

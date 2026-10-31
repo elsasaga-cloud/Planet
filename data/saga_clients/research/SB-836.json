@@ -235,5 +235,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Norge · Brønnøysundregistrene Enhetsregisteret 官方 API（enhete：FIBERWORKS AS · Org.nr 959977046 · MVA 登记 1991-03-01 · Aktiv（非破产 / 非清算；2025 年报已交） · 成立 1990-12-27 · Eikenga 11, 0579 Oslo",
+    "url": "https://data.brreg.no/enhetsregisteret/api/enheter/959977046",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

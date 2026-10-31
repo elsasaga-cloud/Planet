@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 EN About（「As the family of GD Güvenlik Sisteml：Eurocam GD Güvenlik Elektronik ve Bilişim Sistemleri San. Dış Tic. Ltd. Şti.（eurocamguvenl · Ltd. Şti.（İstanbul；MERSİS 号未取） · Active（站点 2026；b2b 站运行） · 成立 2017 · Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok 8. Kat No 91",
+    "url": "https://www.eurocamguvenlik.com.tr/en.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

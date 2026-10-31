@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · SAHA İstanbul 会员页（法定全称）+ 官网 about + Defense Here / İsta：PAVO TASARIM ÜRETİM ELEKTRONİK TİC. A.Ş.（Pavotek） · A.Ş.（İstanbul Ticaret Sicili；MERSİS 未取） · Aktif · 成立 2003（Tekno · Teknopark İstanbul, Pendik / İstanbul（研发）+ Orhanlı（生产）+ Bilişim Vadisi",
+    "url": "https://www.sahaistanbul.org.tr/en/firma/pavo-tasarim-uretim-elektronik-tic-a-s",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：securame.com 首页 / Contacte（C. Sepúlveda 161 08011：SECURAME, S.L.（原 TWISTED REALITY S.L.；securame.com；巴塞罗那 C/ Sepúlveda 161 local, 08011；CIF  · CIF B62808498 · Active · 成立 2002-03-01 · C/ Sepúlveda 161, local, 08011 Barcelona",
+    "url": "https://www.axesor.es/Informes-Empresas/2385474/SECURAME_SL.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

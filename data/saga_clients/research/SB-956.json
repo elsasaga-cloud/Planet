@@ -207,5 +207,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：psaproducts.com.au 2026-10-01（17 Millicent Street：PSA Products Pty Ltd（psaproducts.com.au；**ABN 99 076 468 703；PSA House, 17 Millicent Stree · ABN 99 076 468 703 · 营业中（ABN 在；官网 2026-10） · 成立 未取（ABN 076 · PSA House, 17 Millicent Street, Burwood VIC 3125, Australia",
+    "url": "https://www.rexelha.com.au/wp-content/uploads/2022/04/PSA-Price-change-notification-1st-May-2022.pdf",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

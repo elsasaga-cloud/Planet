@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：datalog（WA SoS 登记：VIZMA TECHNOLOGY, LLC；USWA60298：VIZMA TECHNOLOGY, LLC（d/b/a CCTVROOM / VIZMA / S-VIDIA；华盛顿州 Tacoma；WA UBI 602984088）— 2010 · WA UBI 602984088 · Active · 成立 2010-01-11 · 222 E 26th St, Ste 105, Tacoma, WA 98421",
+    "url": "http://www.datalog.co.uk/browse/detail.php/CompanyNumber/USWA602984088/CompanyName/VIZMA+TECHNOLOGY,+LLC",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

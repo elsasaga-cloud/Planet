@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PK · 1 次检索：sunmars.enic.pk（SUNMARS Enterprises；Fire Alarm & ：SUNMARS Enterprises（sunmarsent.com；**M-2, Mezzanine Floor, Raza Arcade, Main Shahrah-e-Fai · 未取（SECP / NTN 1 查未得） · 营业中（名录 + 社媒） · 成立 2006 · M-2, Mezzanine Floor, Raza Arcade, Main Shahrah-e-Faisal, PECHS, Karachi 75400, ",
+    "url": "https://www.lookup.pk/87420/sunmars-enterprises",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

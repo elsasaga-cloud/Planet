@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：norteh.com 页脚 / 结构化数据（legalName UAB Enzas；Company：UAB Enzas（经营 norteh.com「NORTEH」多语言网店 EN/IT/DE/DK；维尔纽斯 Ukmergės g. 219, LT-07152；įmonės kod · Įmonės kodas 303005607；PVM LT10000931091 · Aktyvi · 成立 ≈2013（koda · Ukmergės g. 219, LT-07152 Vilnius",
+    "url": "https://www.norteh.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

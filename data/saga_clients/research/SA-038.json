@@ -251,5 +251,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "India · MCA 登记（Zauba Corp 镜像）：DNC TECHNOSOLUTIONS PRIVATE LIMITED · CIN U33125KL2013PTC034130 · RoC Ernakula · Active（最近 AGM 2023-12-30；资产负债表 · 成立 2013-05-20 · XVIII/127K, L&M Pallimattom Towers, Binanipuram P.O., Edayar, Ernakulam, Kerala ",
+    "url": "https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

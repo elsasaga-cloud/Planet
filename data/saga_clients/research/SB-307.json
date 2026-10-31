@@ -243,5 +243,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：saxco.com.my/find-us（HQ 8, Jalan SS 4c/5, Taman R：Saxco Marketing Sdn Bhd（saxco.com.my；**1995 年本地注册；总部 8 & 10, Jalan SS 4C/5, Taman Rasa Say · 未取（SSM 1 查未得） · 营业中（官网 2025） · 成立 1995 · 8, Jalan SS 4C/5, 47301 Petaling Jaya, Selangor, Malaysia",
+    "url": "https://saxco.com.my/find-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

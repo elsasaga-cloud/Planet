@@ -224,5 +224,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HK · 1 次检索：inriskable.com/business_info/company/hk/15215848（：Everbest Technologies Limited 永佳科技有限公司（everbesthk.com；**inriskable 镜像：CR No. 334414，BR No. · CR No. 334414；BR No. 15215848 · 存续（官网 + ATEN 2026 列名） · 成立 约 1991（自述） · 14/F Wing Hang Insurance Building, 11 Wing Kut Street, Central, Hong Kong",
+    "url": "https://www.inriskable.com/business_info/company/hk/15215848",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BY · 1 次检索：datastream.by/company（ООО «Датастрим ДЕП»；220113 ：ООО «Датастрим ДЕП»（Datastream DEP；datastream.by；220113 Минск, ул. Мележа 1, комн. 1309（БЦ · УНП 100917214 · Действующее · 成立 2001-06-20 · ул. Мележа 1, комн. 1309, 220113 Минск",
+    "url": "https://datastream.by/company/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

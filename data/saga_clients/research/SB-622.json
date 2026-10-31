@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KZ · 1 次检索：market-telecom.kz/about_shop（Реквизиты ТОО «Авант：ТОО «Авантаж Маркет» Avantazh Market（market-telecom.kz；**官网 реквизиты 自列 БИН 221040045999（ · БИН 221040045999（关联 ТОО «Авантаж Маркет- · 存续（e-gov 核验 2026-10-12） · 成立 2022-10（现法 · ул. Нурсултана Назарбаева 133, НП1, Петропавловск 150000, Kazakhstan",
+    "url": "https://market-telecom.kz/about_shop",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

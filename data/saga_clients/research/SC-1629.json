@@ -209,5 +209,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：sominetworks.com/contacts（300528292；LT10000214411：UAB SOMI NETWORKS（sominetworks.com；**官网 Contacts + spec.lt / okredo：Company Code 300528292 · 300528292 · Active · 成立 2006-01-19 · Ukmergės g. 283A, LT-06313 Vilnius",
+    "url": "https://sominetworks.com/contacts/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

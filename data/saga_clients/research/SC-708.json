@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RU · 1 次检索：focus.kontur.ru（ИНН / ОГРН / 登记 / 股本 / 总经理 / 营收）+：ООО «АРМО-Системы» — ARMO Systems（armosystems.ru / armo.ru；**focus.kontur / vbr：ИНН 771528 · 7715284716（ИНН）/ 1027739174352（ОГРН） · 营业中（2026-09 更新） · 成立 2001-07-04 · 121351 Москва, ул. Молодогвардейская д.57 эт.4",
+    "url": "https://focus.kontur.ru/entity?query=1027739174352",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

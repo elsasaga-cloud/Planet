@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Türkiye · 官网（法定全称 / 销售办公室地址 / 业务）+ 研究档名片；Ltd. Şti. 登记细节不免费：FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN. VE TİC. LTD. ŞTİ. · Ticaret Sicil / Vergi No 待补 · Faal（官网在线） · 成立 待补 · Premier Kampüs, Kağıthane Gürsel, İmrahor Cd. No:29 B Blok Kat 3/302, 34400 Kağı",
+    "url": "https://foline.com.tr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

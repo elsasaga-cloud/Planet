@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：agmultivision.it 页脚 / Contattaci（Agmultivision s.：Agmultivision s.r.l.（Unipersonale；agmultivision.it / shop.agmultivision.it；米兰 Segrate Via  · P.IVA / CF 04302850963；REA MI-1739481 · Active · 成立 2004 · Via Calabria 15, 20054 Segrate (MI)",
+    "url": "https://www.agmultivision.it/en/contact-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -220,5 +220,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：BBB（Business Started 2009-09-01；Incorporated 2016：Security Camera Warehouse, Inc.（SCW；getscw.com；Asheville NC） · UEI RR46YDVKTNJ1 / CAGE 6ELB6（SAM 联邦登记） · Active（SAM 在册、INC 5000） · 成立 2016-07-26 · 11 Richland St, Asheville, NC 28806（828-483-4237）",
+    "url": "https://www.bbb.org/us/nc/asheville/profile/security-cameras/security-camera-warehouse-inc-0473-92005262",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "Inc. / LeadIQ / Glassdoor：SCW（Security Camera Warehouse）· Asheville, NC · founded 2009/2010 · CEO Matthew Nederlanden · 51–200（LeadIQ 129）· revenue $10M–25M · 专业监控设备 + 自有标 PoE",
+    "url": "https://leadiq.com/c/scw---security-technology/5a1da2162300005a0093b796",
+    "note": "美国商用安防品牌（$10–25M、100+ 人）→ OEM 30% 重点",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

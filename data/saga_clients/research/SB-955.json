@@ -133,5 +133,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（บริษัท โอเอ็มซีเทค จำกัด OMC TECH COM：OMC Tech（omctech.com；**最接近法人 บริษัท โอเอ็มซีเทค จำกัด OMC TECH COMPANY LIMITED เลขทะเบียน  · เลขทะเบียนนิติบุคคล 0105559034613（最接近法人； · ยังดำเนินกิจการอยู่（营业中） · 成立 2016-02-26 · 99/349 Chaeng Watthana Rd., Thung Song Hong, Lak Si, Bangkok 10210",
+    "url": "https://www.dataforthai.com/company/0105559034613/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 总览 / officers 片段（04359914；7 Graft：COMMS EXPRESS LIMITED（04359914；Chelmsford, Essex） · 04359914 · Active · 成立 2002-01-24 · 7 Grafton Place, Dukes Park Industrial Estate, Chelmsford, Essex, CM2 6TG",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04359914/officers",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

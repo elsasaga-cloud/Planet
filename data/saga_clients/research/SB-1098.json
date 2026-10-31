@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：rejestr.io / krs-pobierz / imsig（KRS 0000690689；N：Zintronic Sp. z o.o.（zintronic.pl；KRS 0000690689；Białystok）— 自有品牌相机 · KRS 0000690689 / NIP 9662114233 / REGON  · Aktywna（2025 年报 RDF 2026-03） · 成立 2017-08-11 · ul. Karola Modzelewskiego 2, 15-535 Białystok",
+    "url": "https://rejestr.io/krs/690689/zintronic",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

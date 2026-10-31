@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：haiuae.com（Distributed Business Solutions Trading：Distributed Business Solutions Trading FZE（Distribolutions；distribolutions.com；**法定名 DISTR · 未取（FZE；牌照号 1 查未得） · 营业中（名录在） · 成立 未取 · SIT Tower, Nadd Hessa Street, Dubai Silicon Oasis, Dubai, UAE (P.O. Box 341455)",
+    "url": "https://www.haiuae.com/company/distributed-business-solutions-trading-fze-dubai",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

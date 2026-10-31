@@ -229,5 +229,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（BITS AND BYTE IT CONSULTING PRIVATE LIM：Bits and Byte IT Consulting Pvt. Ltd.（bits&BYTE；bitsandbyte.net；CIN U72900KA2015PTC145953（ · CIN U72900KA2015PTC145953 · Active · 成立 2015-05-20 · #52, 2nd Floor, Vittal Mallya Road, Bangalore 560001",
+    "url": "https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

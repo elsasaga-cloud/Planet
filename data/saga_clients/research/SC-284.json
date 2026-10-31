@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：govtribe（UEI / CAGE / SAM 有效期 / 地址 / 1981）+ linke：Data Comm for Business, Inc. — DCB（dcbnet.com；**GovTribe / SAM.gov：UEI YX2BCLJKZ456、CAGE 0 · UEI YX2BCLJKZ456 / CAGE 0GGX7 · SAM.gov Active（至 2027-07-08） · 成立 1981 · 2949 County Road 1000 E, Dewey, IL 61840",
+    "url": "https://govtribe.com/vendors/data-comm-for-business-incorporated-0ggx7",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

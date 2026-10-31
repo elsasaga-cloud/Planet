@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR/US · 1 次检索：zoominfo.com/c/ags-electronics-inc/368409713（域：AGS Electronics（ags-electronics.com；**1 查 ZoomInfo：AGS-Electronics, 6565 Americas Pkwy NE  · 未取（国别待核） · 营业中（目录 2026） · 成立 未取 · 6565 Americas Pkwy NE Ste 200, Albuquerque, NM（ZoomInfo，待核）",
+    "url": "https://www.zoominfo.com/c/ags-electronics-inc/368409713",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

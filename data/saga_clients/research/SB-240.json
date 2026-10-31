@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索 + Northdata 1 页：官网 Impressum（HRB 35309 Amtsgerich：frogfish surveillance GmbH（Reichenbach im Vogtland, Sachsen） · HRB 35309（Amtsgericht Chemnitz）· EUID DE · Aktiv · 成立 2022-10-14 · Friedensstraße 62, 08468 Reichenbach im Vogtland",
+    "url": "https://www.northdata.de/frogfish%20surveillance%20GmbH,%20Reichenbach",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

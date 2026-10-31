@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（IOTECH-ITALIA DI L. DONATO；P.IVA ：IOTECH-ITALIA DI L. DONATO（ditta individuale；iotech-italia.net；Via Giuseppe Di Vittorio 19 · P.IVA 13362610969 / REA MI-2718540 · Attiva · 成立 2024-01-25 · Via Giuseppe Di Vittorio 19, 20097 San Donato Milanese (MI)",
+    "url": "https://www.ufficiocamerale.it/7045/iotech-italia-di-l-donato",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

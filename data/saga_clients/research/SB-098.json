@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：LinkedIn 公司页（Computer Hardware Manufacturing；201–：Nexxt Solutions（nexxtsolutions.com；Miami FL）— Intcomex 集团自有品牌 · FL / DE 登记号未取（Sunbiz ✗） · Active（LinkedIn / 官网在线） · 成立 2006（品牌；母公 · 3505 NW 107th Ave, Miami (Doral), FL 33178",
+    "url": "https://www.linkedin.com/company/nexxt-solutions",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

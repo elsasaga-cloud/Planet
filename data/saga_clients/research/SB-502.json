@@ -214,5 +214,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：elimopt.co.kr 页脚（엘림광통신；경기도 수원시 권선구 산업로 155번길 234 ：엘림광통신㈜ Elim Optical Communication Co., Ltd.（elimopt.co.kr；**사업자등록번호 123-81-89423；设立 2003-0 · 사업자등록번호 123-81-89423 · 계속사업자（Active） · 成立 2003-06-23 · 경기도 수원시 권선구 산업로155번길 234, 2동 4층 (고색동) ",
+    "url": "https://www.jobkorea.co.kr/recruit/co_read/c/elimopt",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

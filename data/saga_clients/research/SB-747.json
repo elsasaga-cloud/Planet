@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：vat-validation.com（Digitclik DI Princic Iztok；341：Digitclik di Princic Iztok（impresa individuale；digitclik.it / digitclik.com；34170 Gorizia（ · P.IVA 未取全 · 未取 · 成立 未取 · 34170 Gorizia (GO)",
+    "url": "https://vat-validation.com/YH.v_Digitclik+DI+Princic+Iztok",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RO · 1 次检索：mondoplast.ro Contact（SC Mondo Plast SRL；Nr. Regi：SC MONDO PLAST SRL（mondoplast.ro / mondoplast.net；注册地 Bocșa (Caraș-Severin)；运营总部 Timișoara · CUI RO12755240；J2000000053116（Bocșa） · Active · 成立 2000-02-22 · Str. Gloriei 11, 300562 Timișoara（注册地 Bocșa；布加勒斯特 Bragadiru）",
+    "url": "https://www.risco.ro/en/verifica-firma/mondo-plast-cui-12755240",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

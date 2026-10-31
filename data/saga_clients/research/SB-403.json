@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：BBB 类目页（Surveillance-Video.com；Accredited Busines：Surveillance-Video.com（surveillance-video.com；New York, NY 387 Canal Street）— BBB A+ 认证的安防 · 部分坐实（NY 实体；法定名 / DOS 号未取） · Active（BBB 认证在册） · 成立 未取 · 387 Canal Street, New York, NY 10013",
+    "url": "https://www.bbb.org/us/ny/manhattan/category/security-equipment",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

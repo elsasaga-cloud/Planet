@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Imprint（IPCOMM GmbH；Managing Director Artur Vo：IPCOMM GmbH（ipcomm.de；纽伦堡 — 非 Ebermannstadt）— 2004-01 成立的工业协议网关 / 变电站通信产品开发商（ipConv 网关：IEC · HRB 31759 Amtsgericht Nürnberg · USt-ID  · Active（2023 展会、2025 implisense · 成立 2004-01-05 · Walter-Bouhon-Straße 4, 90427 Nürnberg",
+    "url": "https://www.ipcomm.de/article/Impressum/en/sheet.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

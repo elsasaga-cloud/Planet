@@ -232,5 +232,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SE · 1 次检索：allabolag（Fibersystem AB；Org.nr 556605-4325；Gårds：Fibersystem AB（fibersystem.se；斯德哥尔摩 Bromma Gårdsfogdevägen 18 A/B, 168 67；org.nr 556605-43 · Org.nr 556605-4325 · Aktivt · 成立 2001-01-22 · Gårdsfogdevägen 18 A/B, 168 67 Bromma (Stockholm)",
+    "url": "https://www.allabolag.se/foretag/fibersystem-ab/bromma/datorer-och-kringutrustningar-tillverkning/2K1VV05I63ILT",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

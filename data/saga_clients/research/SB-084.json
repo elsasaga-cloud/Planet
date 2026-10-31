@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn（艾德科技有限公司 AD-NET TECHNOLOGY CO., LTD.；統編 27：艾德科技有限公司 AD-NET TECHNOLOGY CO., LTD.（ad-net.com.tw；**統一編號 27843840；設立 2005-07-14；代表人 羅惠玲** · 統一編號 27843840 · 核准設立 / 營業中 · 成立 2005-07-14 · 苗栗縣苗栗市福星里國華路210號 / No. 210, Guohua Rd., Fuxing Vil., Miaoli City 36044",
+    "url": "https://www.twincn.com/item.aspx?no=27843840",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

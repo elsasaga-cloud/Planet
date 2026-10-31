@@ -187,5 +187,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RO · 1 次检索：emag.ro 卖家页（YLI ETERNIT ACCES S.R.L.；STR. HAIDUCU：YLI ETERNIT ACCES S.R.L.（商号 YLI Control Acces；yli.ro；Str. Haiducului 3A, 400040 Cluj-Napoc · CUI 19284558 · Activă · 成立 2006 · Str. Haiducului 3A, 400040 Cluj-Napoca",
+    "url": "https://www.emag.ro/ylietegj/10825/v",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

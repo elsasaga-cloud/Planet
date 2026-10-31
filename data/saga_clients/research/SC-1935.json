@@ -191,5 +191,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：firmendatenbanken.de/unternehmen/detail/336211/le：LEUNIG GmbH（leunig.de；**firmendatenbanken.de：Sanddornweg 8b, D-53773 Hennef；HRB 1531 Siegb · HRB 1531（Siegburg）；USt DE123112391 · 营业中（名录 + 官网） · 成立 1980 · Sanddornweg 8b, 53773 Hennef, Nordrhein-Westfalen",
+    "url": "https://www.firmendatenbanken.de/unternehmen/detail/336211/leunig-gmbh.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

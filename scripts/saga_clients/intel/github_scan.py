@@ -15,7 +15,8 @@ import urllib.request
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', '..'))
 SD = os.path.join(ROOT, 'data', 'saga_clients')
 DATE = '2026-10-30'
-OUT = os.path.join(SD, f'intel_github_{DATE}.json')
+SCOPE = sys.argv[sys.argv.index('--scope') + 1] if '--scope' in sys.argv else 'A'
+OUT = os.path.join(SD, f'intel_github_{DATE}.json' if SCOPE == 'A' else f'intel_github_{SCOPE}_{DATE}.json')
 FREE = re.compile(r'^(gmail|hotmail|yahoo|outlook|live|icloud|mail|yandex|protonmail|aol|gmx|web|list|bk|inbox|rambler|163|qq|126|telus|yahoo\.com)\.', re.I)
 
 
@@ -45,7 +46,7 @@ def main():
     apply = '--apply' in sys.argv
     limit = int(sys.argv[sys.argv.index('--limit') + 1]) if '--limit' in sys.argv else 10 ** 6
     ents = {e['code']: e for e in json.load(open(os.path.join(SD, 'entities.json'), encoding='utf-8'))}
-    A = [c for c, e in ents.items() if e['grade'] == 'A']
+    A = [c for c, e in ents.items() if (e['grade'] == 'A' if SCOPE == 'A' else (e['grade'] == 'B' and ((e.get('research') or {}).get('b_tier') or {}).get('tier') == SCOPE))]
     res = json.load(open(OUT, encoding='utf-8')) if os.path.exists(OUT) else {}
     done = 0
     for c in A:

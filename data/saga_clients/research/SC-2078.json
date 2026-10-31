@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN / 资本 / GST 网络）+ companyvakil（：Zebronics India Private Limited（zebronics.com；表内 zebeye.com 退信；**CIN U30000TN1997PTC038037 · U30000TN1997PTC038037（CIN） · Active（MCA 2026） · 成立 1997-04-23 · No.118, Poonamallee High Road, Vepery, Chennai, Tamil Nadu 600084",
+    "url": "https://www.thecompanycheck.com/company/zebronics-india-private-limited/U30000TN1997PTC038037",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 2 次检索：「아이원텍 iOne Tech ionetech.com ione.kr 산업용 스위치 사업자등：（表内 ionetech.com / ione.kr；KP「CEO Kim」cjkim@ione.kr；「在找工业管理」「8 光 8 管理」阿里询盘）— **ionetech.co · 113-86-34135（ionetech.com 主体；与 KP 域 ione · 身份不清 · 成立 未取 · 서울시 구로구 구로3동 1128-4, HK-Tower 817（ionetech.com 主体）",
+    "url": "https://www.ionetech.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

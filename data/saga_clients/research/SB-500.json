@@ -144,5 +144,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：recordowl（CET ELECTRIC TECHNOLOGY PTE. LTD.；UEN 2：CET Electric Technology Pte. Ltd.（cetsingapore.com；**UEN 201523201G；注册 2015-05-15；Exempt P · UEN 201523201G · Live Company · 成立 2015-05-15 · 7 Mandai Link #05-33 Mandai Connection, Singapore 728653",
+    "url": "https://recordowl.com/company/cet-electric-technology-pte-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

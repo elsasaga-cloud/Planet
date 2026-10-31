@@ -149,5 +149,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB→AE · 1 次检索：LinkedIn（Cratsol Technology LLC - UAE；2017；11–：Cratsol Technology LLC（cratsol.ae；Dubai Business Bay）+ 英国壳 CRATSOL LTD（Newcastle upon Tyne · UAE 营业执照号未取；英国壳 Companies House 11084123 · Active（UAE 主体 2026-09 仍在；英国壳 A · 成立 2017（UAE）/ · 601 One by Omniyat / Office 605 Silver Tower, Business Bay, Dubai, UAE；英国壳 G18 A",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11084123",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

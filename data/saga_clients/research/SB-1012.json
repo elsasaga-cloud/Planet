@@ -220,5 +220,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PH · 1 次检索：「\"Bitstream Core\" Philippines bitstreamcore.com a：Bitstream Core（bitstreamcore.com；**1 查无命中（仅无关结果）→ 未坐实**）— 菲律宾网络公司，GM Engr. Lito E. Viola；需 · 未取（1 查无命中） · 未知（域名在研究档） · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：datanyze（5436 W Crenshaw St Tampa FL 33634；$38.9M：Digital Watchdog（digital-watchdog.com；**Datanyze：5436 W Crenshaw St, Tampa, FL 33634；1987  · 未取（FL Sunbiz 1 查未得） · 营业中 · 成立 1987 · 5436 W Crenshaw St, Tampa, FL 33634, US",
+    "url": "https://www.datanyze.com/companies/digital-watchdog/346701354",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

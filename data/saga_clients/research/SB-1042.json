@@ -190,5 +190,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SK · 1 次检索：iotkomponenty.sk Contact / Dodávatelia / 页脚（MCV S：MCV Systems s.r.o.（经营 iotkomponenty.sk「IOT Components」；布拉迪斯拉发 Agátová 3412/7C, 841 01；IČO  · IČO 47378352；IČ DPH SK2023841930 · Active · 成立 未取（IČO 473 · Agátová 3412/7C, 841 01 Bratislava",
+    "url": "https://www.iotkomponenty.sk/en/contact-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

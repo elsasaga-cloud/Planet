@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House（CONNECTIX LIMITED 02814569；成立 199：Connectix Limited（Connectix Cabling Systems；connectix.co.uk；Braintree, Essex）— 英国结构化布线 / 机 · 02814569 · Active（2026-03 重组：生产外移） · 成立 1993-05-04 · 500 Avenue West, Skyline 120, Great Notley, Braintree, Essex CM77 7AA",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/02814569",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

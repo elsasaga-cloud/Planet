@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 11652776（TIER1 DATA SYSTEMS LIMIT：TIER1 DATA SYSTEMS LIMITED（tier1ds.com；London W1W 商务中心）— 2018-10-31 注册的 IT 硬件 / 备件经销微型公司（S · Companies House 11652776 · VAT GB3118995 · Active（新董事 2026-07-07） · 成立 2018-10-31 · 167-169 Great Portland Street, 5th Floor, London W1W 5PF（商务中心；非实体仓）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/11652776",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 2 次检索：第 1 次「나시스 NaSys … 사업자등록번호」落空（엔시스 / 네오시스코리아 / 하나시스：나시스 주식회사 NaSys Inc.（nasys.kr；**设立 2013-01-02；대표 양승희 Yang Seung-hee**；경기도 성남시 중원구 둔촌대로457번길 · 未取（사업자등록번호 两查未得） · 营业中（官网在线） · 成立 2013-01-02 · 27, Dunchon-daero 457beon-gil, Jungwon-gu, Seongnam-si, Gyeonggi-do",
+    "url": "http://nasys.kr/web/company.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 1 次检索：societe.com（KYOLIS；SIREN 519 722 698；SIRET 519 72：KYOLIS SAS（kyolis.com；总部 2 rue de la Renaissance 92160 Antony，研发 / 工厂 / 售后 1 rue de la Ban · SIREN 519 722 698（RCS Nanterre）；TVA FR00 · Active · 成立 2010-01-22 · 2 rue de la Renaissance, 92160 Antony（工厂 1 rue de la Banque, 73000 Chambéry）",
+    "url": "https://www.societe.com/societe/kyolis-519722698.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

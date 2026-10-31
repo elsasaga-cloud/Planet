@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NO · 1 次检索：gulesider.no（924312963；2019；30 300；Tony Volden Ut：ELDI AS（eldi.no；**gulesider：org.nr 924312963；2019-12-24 登记；股本 NOK 30,300；NACE 46.640 机械设备批 · 924312963 · 营业中（MVA 登记） · 成立 2019-12-24 · Täby vei 15, 1474 Lørenskog",
+    "url": "https://www.gulesider.no/eldi+as+oslo/155035623/bedrift",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

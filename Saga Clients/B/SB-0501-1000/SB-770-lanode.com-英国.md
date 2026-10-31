@@ -213,6 +213,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 auto · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：GB · 1 次检索：Companies House 02702078（LANODE LIMITED；Active；19：LANODE LIMITED（lanode.com / lanode.co.uk；Camberley, Surrey）— 1992 年成立的网络 / 传输 / 数据通信专业分销商（ · Companies House 02702078 · Active · 成立 1992-03-31 · White Lodge, Saville Gardens, Camberley GU15 1DF（注册）；Unit 1 Phase 4, Albany Park — <https://find-and-update.company-information.service.gov.uk/company/02702078>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 27 / 来 1）　|　**期间**：2024-07-03 → 2026-09-10　|　**最后去信**：2026-09-10

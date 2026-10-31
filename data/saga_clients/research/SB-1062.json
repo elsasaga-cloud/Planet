@@ -208,5 +208,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "QA · 1 次检索：tamyeezsecurity.com（© 2012-2020 Al-Tamyeez Securi：Al-Tamyeez Security Systems Co.（tamyeezsecurity.com；表内域名误记 odoo.com；**官网 / doha.directory  · 未取（CR 号 1 查未得） · 营业中（官网 + 名录 2025） · 成立 2012 · Al-Markhiya Complex, Zone 33, P.O. Box 15394, Doha, Qatar",
+    "url": "https://www.doha.directory/al-tamyeez-security-systems/i/2157",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

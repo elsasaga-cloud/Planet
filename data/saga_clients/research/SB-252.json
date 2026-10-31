@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Yelp 自述（Established in 2003；started as online-onl：Platinum CCTV（platinumcctv.com；伊利诺伊 Warrenville；自有品牌 Platinum CCTV™）— 2003 年以网店 Ez-Toyz.co · IL 主体（号未取） · Active · 成立 2003 · 30W270 Butterfield Rd #101, Warrenville, IL 60555",
+    "url": "https://www.linkedin.com/company/platinumcctv",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

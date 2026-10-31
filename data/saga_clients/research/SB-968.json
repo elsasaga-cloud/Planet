@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：zenithtek.co.kr 首页 / company/history / company/in：(주)제니스텍 ZENITHTEK Co., Ltd.（zenithtek.co.kr；**사업자등록번호 206-81-71494；设立 2002-06**；서울특별시 성동구  · 사업자등록번호 206-81-71494 · 营业中（官网在线） · 成立 2002-06 · 서울특별시 성동구 성수일로4길 25, 서울숲코오롱디지털타워 601·602·603호 (성수동2가) 04781",
+    "url": "http://www.zenithtek.co.kr/kr/company/intro.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

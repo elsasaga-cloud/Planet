@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：krs-pobierz（KORE KONECT SPÓŁKA Z O.O.；KRS 0000898：Kore Konect Sp. z o.o.（korekonect.com；Warszawa Bartycka 22B/21A）— 2021-05-05 注册的结构化布线 / 机柜 · KRS 0000898338 · NIP 5213927829 · REGON  · Aktywna（KRS 变更 2024-08-13） · 成立 2021-05-05 · ul. Bartycka 22B/21A, 00-716 Warszawa（住宅楼）",
+    "url": "https://krs-pobierz.pl/kore-konect-spolka-z-ograniczona-odpowiedzialnoscia-i7120353",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

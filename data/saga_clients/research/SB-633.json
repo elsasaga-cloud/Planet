@@ -212,5 +212,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：trangdoanhnghiep.com（CÔNG TY CỔ PHẦN XUẤT NHẬP KH：CÔNG TY CỔ PHẦN XUẤT NHẬP KHẨU VÀ THƯƠNG MẠI HOÀNG LONG（hlc.vn；**MST 0102354061；2007 年成立；S · MST 0102354061 · 营业中（名录 2024 + 官网） · 成立 2007 · Số 9B Nguyễn Gia Thiều, P. Trần Hưng Đạo, Q. Hoàn Kiếm, Hà Nội, Việt Nam",
+    "url": "https://trangdoanhnghiep.com/cong-ty-co-phan-xuat-nhap-khau-va-thuong-mai-hoang-long/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

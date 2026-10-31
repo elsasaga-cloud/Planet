@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvizitai.vz.lt（Katalita, UAB；code 134637695；fou：Katalita, UAB（katalita.lt；考纳斯区 Neveronys Tvenkinio g. 10；įmonės kodas 134637695；PVM LT3463 · įmonės kodas 134637695；PVM LT346376917 · Veikiantis / Active · 成立 1995-12-18 · Tvenkinio g. 10, Neveronių k., LT-54478 Kauno r. sav.",
+    "url": "https://rekvizitai.vz.lt/en/company/katalita/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

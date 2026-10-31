@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PH · 1 次检索：dnb.com（IONE RESOURCES, INC.；Unit 1006 The Center：iOne Resources, Inc.（ioneresources.net；**D&B：Unit 1006 The Centerpoint Condominium, Julia  · 未取（SEC 号 1 查未得） · 营业中（官网 + 企业库） · 成立 2002（Rocke · Unit 1006 The Centerpoint Condominium, Julia Vargas Avenue cor. Garnet Road, Ort",
+    "url": "https://www.dnb.com/business-directory/company-profiles.ione_resources_inc.4dae52036adcd6cbc574241d68b0cb84.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

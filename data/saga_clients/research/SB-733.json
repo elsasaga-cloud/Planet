@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：precisotechnology.com.my/about-us（established in ：Preciso Technology Sdn Bhd（precisotechnology.com.my；**2018-06 成立；48-2, Jalan PJU 5/20D, Th · 未取（SSM 1 查未得；Volza 进口记录在） · 营业中（官网 2024） · 成立 2018-06 · 48-2, Jalan PJU 5/20D, The Strand, Kota Damansara, 47810 Petaling Jaya, Selangor",
+    "url": "https://www.precisotechnology.com.my/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

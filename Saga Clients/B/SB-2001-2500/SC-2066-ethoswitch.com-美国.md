@@ -155,6 +155,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：OK，待首触反馈；身份 法定名 · 路径 弱 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：ethoswitch.com（EthoSwitch LLC；NJ + CA 地址；since 20：EthoSwitch LLC（ethoswitch.com；**官网：New Jersey 总部 2400 Belmar Blvd Unit B20, Wall Township, · 未取（NJ 登记 1 查未得） · 营业中（官网 2026） · 成立 2012 · 2400 Belmar Blvd, Unit B20, Wall Township, NJ 07719, US（加州办事处 Los Angeles） — <https://www.ethoswitch.com/>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：14 封（去 14 / 来 0）　|　**期间**：2025-01-23 → 2026-01-16　|　**最后去信**：2026-01-16

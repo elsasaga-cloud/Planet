@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Hakkımızda / 首页 schema（legalName「Fonet Fiber O：Fonet Fiber Optik Bilgisayar Hizmetleri Ticaret Limited Şirketi（fonet.com.tr；İstanbul）— 19 · Vergi No 3880095179；MERSİS 未取 · Aktif（站点 2024 更新） · 成立 1995 · İstanbul（门牌未取）",
+    "url": "https://fonet.com.tr/hakkimizda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

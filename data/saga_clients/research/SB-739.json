@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 公司官网 + LinkedIn 公司页（2016 成立 / 2–10 人）+ ZoomInfo（Preside：Arcdyn, Inc. · NC SoS 编号未取（Inc.，Asheville） · 在营（官网在线；2024-09 飓风 Helene 曾断电断 · 成立 2016 · 43 Mildred Ave, Asheville, NC 28806（原 1370 Tunnel Rd, 28805）",
+    "url": "https://arcdyn.com/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

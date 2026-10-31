@@ -239,5 +239,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Australia · ABN Lookup（abr.business.gov.au，澳大利亚税务局官方，记录提取 20：Cable Distribution Services（CDS）— 商号；法人 = Damita Investments Pty Ltd（2025-08 起）/ 原 The Tru · ABN 99 125 638 548（Damita Investments Pt · 两个 ABN 均 Active；Damita Investm · 成立 生意自 2000-0 · 主营业地 WA 6105（Welshpool / Kewdale，珀斯）；研究档官网地址 51 Boulder Rd, Malaga WA 6090 → 近期可",
+    "url": "https://abr.business.gov.au/ABN/View?abn=99125638548",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：find-and-update.company-information.service.gov.u：EUROSAT (SCOTLAND) LIMITED（eurosatscotland.co.uk / 关联 oprema.co.uk；**Companies House SC204 · SC204360 · Active（Accounts Filed） · 成立 2000-02-28 · 30 Couper Street, Glasgow, G4 0DL",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/SC204360",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NO · 1 次检索：proff.no（org / 成立 / 股东 / 16 人）+ gulesider（营业额 85,：ALCADON AS（alcadon.no；**proff / gulesider：Org.nr 952 334 891；成立 1989-07-11 / 注册 1995-02-19 · 952 334 891 · 营业中（Foretaksregisteret） · 成立 1989-07-11 · Alfaset 1. industrivei 4, 0668 Oslo",
+    "url": "https://www.proff.no/selskap/alcadon-as/oslo/elektronikk-og-telekommunikasjonsutstyr-engros/IFQZUAZ10MZ-1",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

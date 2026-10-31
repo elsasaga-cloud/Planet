@@ -238,5 +238,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "以色列 · 公司注册处（רשם החברות）查询需交互；checkid.co.il 未测试；本行为「无登记源」记录（据：SMBIT Ltd（SMBIT.LTD） · （登记状态不可免费核） · 成立 2012 · 13 Haim Meler St / PO Box 1399, Mazkeret Batya 7680400, Israel（+972 77 600 1070；",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LV · 1 次检索：router.lv/eng/15/（SPX SIA；40003637852；Krustpils 1：SPX SIA（router.lv；**官网 About us：MikroTik 官方分销（里加 + 维尔纽斯仓）；Reg. No. 40003637852 / VAT LV400 · 40003637852 · 营业中（官网 / 网店在线） · 成立 未取 · 15 Krustpils street, Riga LV-1073",
+    "url": "https://www.router.lv/eng/15/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

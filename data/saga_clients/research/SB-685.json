@@ -161,5 +161,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：resource.geospatialworld.net（Techsouq Computers L：Techsouq Computers L.L.C.（techsouq.com；**迪拜：Bayan Business Center, Dubai Investments Park  · 未取（L.L.C.；牌照号 1 查未得） · 营业中（官网 + 企业库） · 成立 1999（自述）/  · Bayan Business Center, Dubai Investments Park 1, Dubai, UAE (P.O. Box 27570)",
+    "url": "https://resource.geospatialworld.net/company/techsouq-computers-llc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

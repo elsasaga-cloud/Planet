@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IL · 1 次检索：sensoguard.com/about（2012 年创立；以色列国防军 / 全球军方地震安防承包：SensoGuard Ltd.（sensoguard.com；Shoham / Modi'in，以色列）— 地震波周界安防，国防承包商 → 守界 · 以色列 ח.פ. 未取（israeli-companies 按名需二查，守界不追 · Active · 成立 2012 · 1 HaHaruv St, Modi'in Region Industrial Park, Shoham, Israel",
+    "url": "https://sensoguard.com/about",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

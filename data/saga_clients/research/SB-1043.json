@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NL · 1 次检索：ipcamerawebwinkel.nl 页脚 / 条款（Ipcamerawebwinkel/Ze：Zeevalk IT（h.o.d.n. Ipcamerawebwinkel；ipcamerawebwinkel.nl / zeevalk.nl；个体；Heerjansdam Nij · KvK 60651792 · Actief · 成立 ≈2014（KvK  · Nijverheidsstraat 4, 2995 AP Heerjansdam",
+    "url": "https://www.ipcamerawebwinkel.nl/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

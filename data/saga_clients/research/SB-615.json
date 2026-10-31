@@ -165,5 +165,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZA · 1 次检索：dnb.com（HANDS ON SECURITY (PTY) LTD；17 PIERNEEF B：Hands On Security (Pty) Ltd（handsonsecurity.co.za；**D&B：17 Pierneef Blvd, Shop 7, Meyerton · 未取（CIPC 注册号 1 查未得） · 营业中（名录 2026-02） · 成立 未取 · 17 Pierneef Blvd, Shop 7, Meyerton, Gauteng 1961, South Africa",
+    "url": "https://www.dnb.com/business-directory/company-profiles.hands_on_security_(pty)_ltd.2cea8d8ccfec6c5f6995d3df421911bb.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

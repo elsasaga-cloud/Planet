@@ -251,5 +251,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：marugged.com/teltonika（Mid-Atlantic Rugged System：Mid-Atlantic Rugged Systems（marugged.com；**美国马里兰：95 Monocacy Blvd, Suite B18, Frederick, M · 未取（MD 州登记 1 查未得） · 营业中（网店在） · 成立 未取 · 95 Monocacy Blvd, Suite B18, Frederick, MD 21701, USA",
+    "url": "https://marugged.com/teltonika/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

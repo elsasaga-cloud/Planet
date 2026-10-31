@@ -365,5 +365,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BE · 1 次检索：trendstop（Redcorp NV；BE 0448.875.715；Emile Ferons：REDCORP SA/NV（redcorp.com；布鲁塞尔 Saint-Gilles Rue Emile Féron 168, 1060；BCE / TVA BE 0448.87 · BCE / TVA BE 0448.875.715（原 0437.509.887 · Active · 成立 1989-05-18 · Rue Emile Féron 168, 1060 Saint-Gilles (Bruxelles)",
+    "url": "https://www.pappers.be/fr/company/redcorp-0448.875.715",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

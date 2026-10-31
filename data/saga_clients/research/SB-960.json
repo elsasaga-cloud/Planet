@@ -258,5 +258,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MX · 1 次检索：dnb.com（Electrónica Steren, S.A. de C.V.；Biólogo ：Electrónica Steren, S.A. de C.V.（steren.com.mx；**D&B / verif：Biólogo Maximino Martínez No. · 未取（RFC 不公开） · Active（verif） · 成立 未取（1956 起， · Biólogo Maximino Martínez No. 3408, Col. San Salvador Xochimanca, Azcapotzalco, ",
+    "url": "https://www.dnb.com/business-directory/company-profiles.electr%C3%B3nica_steren_sa_de_cv.d226ba7d6e837eca174c082fca0c32c6.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

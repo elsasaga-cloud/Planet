@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：LinkedIn（Radio Teknoloji Hizmetleri A.Ş；2015；11–5：Radio Teknoloji Hizmetleri A.Ş.（radioteknoloji.com.tr；İstanbul Bakırköy）— 2015 年起户外宽带无线（Pt · A.Ş.（İstanbul；MERSİS 号未取） · Active（2026 官网改版；SAHA / MÜSİAD · 成立 2015 · Ataköy 7-8-9-10. Kısım Mah. Çobançeşme E-5 Yan Yol Cad. Avrupa Residence No 8/1 ",
+    "url": "https://in.linkedin.com/company/radio-teknoloji-hizmetleri-a.%C5%9F",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

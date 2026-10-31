@@ -215,5 +215,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：ZoomInfo（Fastercable；3325 W Ali Baba Ln Ste 619, ：FasterCable（fastercable.com；Las Vegas, NV）— 电气 / 通信线缆与配件经销（Hellermann Tyton / Lutze 等；自有 E · 部分坐实（NV 实体名 / SoS 号未取） · Active（站点在线） · 成立 未取 · 3325 W Ali Baba Ln, Ste 619, Las Vegas, NV 89118",
+    "url": "https://www.zoominfo.com/pic/fastercable/104466062",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

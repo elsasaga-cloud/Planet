@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "EG · 1 次检索：dnb.com（EGYPTIAN ALUMINIUM TUBES COMPANY (TUBAL E：Egyptian Aluminium Tubes Company – Tubal Egypt（tubal-egypt.com；**D&B：9 El Zahaby Square, R · 未取（商业登记号 1 查未得） · 营业中（官网 + 出口记录） · 成立 未取 · 18 Ashmoun St. / 9 El Zahaby Square, Heliopolis, Cairo 11341, Egypt",
+    "url": "https://www.dnb.com/business-directory/company-profiles.egyptian_aluminium_tubes_company_(tubal_egypt).a3feb8608b1be15e8ac0ce4ca87e6db8.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

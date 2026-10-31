@@ -177,5 +177,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：dalessandris.it 页脚（Dales srl；Corso Giacomo Matteo：Dales srl（D'ales S.r.l.；站点 dalessandris.it「D'Alessandris Group」；Corso Giacomo Matteotti 78 · P.IVA 04273690752 · Attiva · 成立 2010 · Corso Giacomo Matteotti 78, 73054 Presicce-Acquarica (LE)",
+    "url": "https://www.dalessandris.it/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

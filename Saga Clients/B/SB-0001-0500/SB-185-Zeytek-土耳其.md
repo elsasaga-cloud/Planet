@@ -202,9 +202,13 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 4 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：Türkiye · 官网 Hakkımızda + LinkedIn 公司页（2019 成立）+ ZoomInfo / ：ZEYTEK BİLİŞİM VE TEKNOLOJİ ÜRÜNLERİ SAN. TİC. LTD. ŞTİ. · Ltd. Şti.（İstanbul Ticaret Sicili；MERSİS · Aktif（官网 + LinkedIn 2026 更新） · 成立 2019（创始人自述 · Çatalmeşe Mah. Saray Cad. No:261/A, Çekmeköy / İstanbul（ZoomInfo 另列 Mevlana Mh.  — <http://zeytek.com.tr/Hakkimizda>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **领英公司页**
 

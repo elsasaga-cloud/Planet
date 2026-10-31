@@ -190,5 +190,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：systerra.de/Impressum.htm（HRB / GF / USt）+ linked：systerra computer GmbH（systerra.de；**Impressum：Kreuzberger Ring 22, 65205 Wiesbaden；Amtsge · HRB 32770（Amtsgericht Wiesbaden） · 营业中（LinkedIn 近期更新） · 成立 未取（20+ 年） · Kreuzberger Ring 22, 65205 Wiesbaden",
+    "url": "https://www.systerra.de/Impressum.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

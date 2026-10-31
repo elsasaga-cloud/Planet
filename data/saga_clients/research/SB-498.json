@@ -133,5 +133,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：empresas.serasaexperian.com.br/consulta-gratis/DT：DTI Tecnologia Ltda - EPP（Daiken；daiken.com.br；**CNPJ 10.497.398/0001-77；Colombo/PR（库里蒂巴都会 · CNPJ 10.497.398/0001-77 · ATIVA · 成立 2008-11-12 · Colombo - PR, Brazil",
+    "url": "https://empresas.serasaexperian.com.br/consulta-gratis/DTI-TECNOLOGIA-LTDA-10497398000177",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

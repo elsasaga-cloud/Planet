@@ -147,5 +147,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 1 次检索：entreprises.lefigaro.fr（UNIFORMATIC；Siren 3339986：UNIFORMATIC SAS（uniformatic.fr；SIREN 333 998 623；SIRET 333 998 623 00073（新总部）；TVA FR433339 · SIREN 333 998 623 · Active · 成立 1985-11-18 · Rillieux-la-Pape 69140（2025-12 起；原 60 rue Louis Ampère, Z.I. des Chanoux, 93330 ",
+    "url": "https://annuaire-entreprises.data.gouv.fr/entreprise/uniformatic-333998623",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

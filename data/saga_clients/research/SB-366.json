@@ -304,5 +304,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MY · 1 次检索：th-it.com/services（TH IT RESOURCE CENTRE SDN BHD；：TH IT Resource Centre Sdn Bhd（th-it.com；**页脚姊妹公司 TH IT Networks Sdn Bhd 198301012255 (1076 · 未取（本体；姊妹 198301012255 (107648-T)） · 营业中（官网在） · 成立 姊妹 1983 · No. 130, Jalan Kapar 27/89, Seksyen 27, 40400 Shah Alam, Selangor, Malaysia",
+    "url": "https://www.th-it.com/services/stag/13449/pc-rental-kuala-lumpur-malaysia/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -445,6 +445,16 @@
     "batch": "A-DEEP-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Buzzfile（Saucon Technologies, Inc.；Year Founded 1：Saucon Technologies, Inc.（saucontech.com / saucontds.com；Bethlehem, PA）— 客运巴士车载远程信息处理（tele · 宾州公司（PA DOS 号未取；SAM 在册） · Active（2026-07 新产品发布） · 成立 1997 · Bethlehem, PA 18020（7,100 sq ft 设施）",
+    "url": "https://www.buzzfile.com/business/Saucon-Technologies,-Inc.-484-241-2500",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

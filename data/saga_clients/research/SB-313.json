@@ -197,5 +197,20 @@
   "path": "活",
   "reply": "Rw",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GE · 1 次检索：bia.ge/EN/Company/4081（Intellcom Group；LLC；VAT Nu：შპს ინტელკომ ჯგუფი / Intellcom Group LLC（intellcom.net / intellcom.ge；42 Tereverko St., 01 · 识别码 202441189 · Operating · 成立 2008-02-22 · 42 Tereverko St., 0159 Tbilisi（法定 Digomi mass. 5 Q. 9 Bldg, Apt 71）",
+    "url": "https://www.bia.ge/EN/Company/4081",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

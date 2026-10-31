@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：expressalarm.cz/dokument/kontakt/（法人 / IČ / 登记 / ：Express Alarm Czech s.r.o.（expressalarm.cz；**官网 kontakt + kurzy：IČ 26446863；DIČ CZ26446863 · 26446863（IČ；Praha C 82812） · 营业中 · 成立 2001-04-18 · Plkovská 2934/1, 193 00 Praha 9 – Horní Počernice",
+    "url": "https://www.expressalarm.cz/dokument/kontakt/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

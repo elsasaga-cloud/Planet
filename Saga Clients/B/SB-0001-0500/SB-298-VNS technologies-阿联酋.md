@@ -209,6 +209,16 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：AE · 1 次检索：vnstech.com/contact-vns（Abu Dhabi – HQ；P.O. Box 5：VNS Technologies LLC（vnstech.com；**HQ Mina Zayed, Abu Dhabi, P.O. Box 51216；+971 2 666 775 · 未取（LLC；牌照号 1 查未得） · 营业中（官网 + LinkedIn 435 关注） · 成立 2009 · Mina Zayed, Abu Dhabi, UAE (P.O. Box 51216) — <https://vnstech.com/contact-vns/>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：28 封（去 28 / 来 0）　|　**期间**：2024-07-08 → 2026-09-29　|　**最后去信**：2026-09-29

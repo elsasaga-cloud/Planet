@@ -252,9 +252,13 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：zaubacorp（CIN U64202DL2004PTC131212，2004-12-13 成立：ANDA TELECOM PRIVATE LIMITED（New Delhi / Noida） · CIN U64202DL2004PTC131212 · Active · 成立 2004-12-13 · E-36 Amar Colony, Lajpat Nagar-IV, New Delhi 110024（制造 E-38 Sector 6, Noida 2013 — <https://www.zaubacorp.com/company/ANDA-TELECOM-PRIVATE-LIMITED/U64202DL2004PTC131212>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

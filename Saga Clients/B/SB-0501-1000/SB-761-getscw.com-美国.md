@@ -250,6 +250,20 @@ updated: 2026-10-31
 - 依据：强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：BBB（Business Started 2009-09-01；Incorporated 2016：Security Camera Warehouse, Inc.（SCW；getscw.com；Asheville NC） · UEI RR46YDVKTNJ1 / CAGE 6ELB6（SAM 联邦登记） · Active（SAM 在册、INC 5000） · 成立 2016-07-26 · 11 Richland St, Asheville, NC 28806（828-483-4237） — <https://www.bbb.org/us/nc/asheville/profile/security-cameras/security-camera-warehouse-inc-0473-92005262>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-31：Inc. / LeadIQ / Glassdoor：SCW（Security Camera Warehouse）· Asheville, NC · founded 2009/2010 · CEO Matthew Nederlanden · 51–200（LeadIQ 129）· revenue $10M–25M · 专业监控设备 + 自有标 PoE — <https://leadiq.com/c/scw---security-technology/5a1da2162300005a0093b796>　*美国商用安防品牌（$10–25M、100+ 人）→ OEM 30% 重点*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：30 封（去 30 / 来 0）　|　**期间**：2024-06-24 → 2026-10-06　|　**最后去信**：2026-10-06

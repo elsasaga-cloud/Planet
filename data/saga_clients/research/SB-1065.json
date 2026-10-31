@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：shopdelta.eu About Us（Trading Company DELTA-OPTI ：DELTA-OPTI Monika Matysiak sp. z o.o.（原 DELTA-OPTI MATYSIAK sp. k.；delta.poznan.pl / shopd · KRS 0001225221 · NIP 7792602869 · REGON  · Active（2026-03 由 sp. k. 转为 sp. · 成立 sp. k. 期未取 · ul. Graniczna 10, 60-713 Poznań",
+    "url": "https://rejestr.io/krs/1225221/delta-opti-monika-matysiak",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

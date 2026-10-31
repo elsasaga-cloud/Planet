@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：teltex.com.br/en/（CNPJ / 排名 / 海外办）+ /homepage-por：Teltex Tecnologia SA（teltex.com.br；**页脚 CNPJ 73.442.360/0001-17；33 年；Rua França Pinto 1089 · 73.442.360/0001-17（CNPJ） · Ativa（官网 2026） · 成立 1993（33 年） · Rua França Pinto 1089, Vila Mariana, São Paulo SP 04016-030",
+    "url": "https://teltex.com.br/en/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

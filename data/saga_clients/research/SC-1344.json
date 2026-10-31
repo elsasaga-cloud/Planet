@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：zaubacorp（CIN / 地址 / 邮箱）+ thecompanycheck（实收 / 行业：Excell Media Private Limited（excellmedia.net；**CIN U64203TG1998PTC030014；1998-08-26 登记；ROC · U64203TG1998PTC030014（CIN） · Active（MCA 2026） · 成立 1998-08-26 · 8-2-268/N/28/A/2, Road No. 2, Banjara Hills, Hyderabad, Telangana 500034",
+    "url": "https://www.zaubacorp.com/EXCELL-MEDIA-PRIVATE-LIMITED-U64203TG1998PTC030014",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

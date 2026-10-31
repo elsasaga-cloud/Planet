@@ -150,5 +150,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SE · 1 次检索：allabolag（Safe-tech CCTV Systems SWEDEN AB；Org.nr：Safe-tech CCTV Systems SWEDEN AB（safe-tech.se；Kronoberg Markaryd Ljungbyvägen 61, 285 40；o · Org.nr 556732-8181；VAT SE556732818101 · Aktiv · 成立 2007-06-28 · Ljungbyvägen 61, 285 40 Markaryd",
+    "url": "https://www.allabolag.se/5567328181/safe-tech-cctv-systems-sweden-ab",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

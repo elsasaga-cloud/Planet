@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CH · 1 次检索：ipcctv.ch Über（IP CCTV GmbH, Marthalerstrasse 5, ：IP CCTV GmbH（ipcctv.ch；达克森 Dachsen Marthalerstrasse 5, CH-8447（苏黎世州）；UID CHE-112.152.195）— · UID CHE-112.152.195；CH-020.4.030.130-0 · Aktiv · 成立 2004 · Marthalerstrasse 5, CH-8447 Dachsen",
+    "url": "https://www.ipcctv.ch/info_ip_cctv.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

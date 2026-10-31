@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "EU · 1 次检索：「SmartIntercom smartintercom.eu Akuvox distributo：SmartIntercom（smartintercom.eu；**1 查仅 Akuvox 通用结果 → 未坐实**；.eu 域名，国别未填）— Akuvox 合作的高端门禁对讲分销 · 未取（1 查无命中） · 营业中（研究档官网 ok） · 成立 未取 · 未取（.eu）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

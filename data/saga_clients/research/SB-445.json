@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次抓取 rejestr.io/krs/654397（KRS 0000654397；NIP 67829139：A-LAN TECHNOLOGIE POPIOŁEK, PIŁAT SPÓŁKA KOMANDYTOWA（a-lan.pl / aicom；Kraków）— 波兰综合布线龙头，20 · KRS 0000654397（NIP 6782913975；REGON 3568 · Aktywna（2026-09-30 更名 / 代表权变更） · 成立 2016-12-22 · ul. Dobrego Pasterza 36A, 31-416 Kraków",
+    "url": "https://rejestr.io/krs/654397/aicom",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

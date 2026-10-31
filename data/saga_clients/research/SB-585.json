@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · rejestr.io 直页 KRS 0000857683（VIDOS SPÓŁKA Z OGRANICZONĄ：VIDOS Sp. z o.o.（vidos.pl；Sokołów / Komorów）— 补项：zarząd + 2025 财报 · KRS 0000857683 / NIP 5342626018 / REGON  · Active（VAT czynny） · 成立 2020-09-03 · Sokołowska 44, Sokołów, 05-806 Komorów（华沙西郊）",
+    "url": "https://rejestr.io/krs/857683/vidos",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

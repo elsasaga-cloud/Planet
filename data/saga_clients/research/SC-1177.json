@@ -92,5 +92,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 官网直取：projexon.com 为商务咨询公司，非该户；2026-10-29：Projexon（projexon.com；**官网直取：projexon.com = 国际商务咨询 / 企业培训公司（Corporate Strategic Consulting · 未取（域名错配，法人未明） · 未知 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

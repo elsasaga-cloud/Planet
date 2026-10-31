@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：reicheltpedia / reichelt.com Impressum（reichelt e：reichelt elektronik GmbH（原 reichelt elektronik GmbH & Co. KG，2023-08 改制；reichelt.de；Sande, · HRB 219874 Amtsgericht Oldenburg（原 HRA 2 · Active（2026-02 登记变更） · 成立 1969（GmbH  · Elektronikring 1, 26452 Sande",
+    "url": "https://www.companyhouse.de/en/Reichelt-Elektronik-GmbH-Sande",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

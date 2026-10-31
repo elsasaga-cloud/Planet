@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：bm-switch.com/about-us（This website is operated b：Bare Metal Switch（bm-switch.com）= **網脈有限公司 Netberg Ltd.（SB-249）旗下網店分部**（about-us：「operated · = 網脈有限公司 統一編號 42648064（見 SB-249） · 營業中（網店在線） · 成立 —（分部） · 桃園市中壢區西園路111之3號10樓（同 SB-249）",
+    "url": "https://bm-switch.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

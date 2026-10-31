@@ -218,5 +218,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "NZ · 1 次检索：newzealand-company.com/co/viewtech-limited（Compan：VIEWTECH LIMITED（viewtech.co.nz；**NZ Companies 镜像：Company No. 1763634；NZBN 9429034325599；I · Company No. 1763634；NZBN 9429034325599 · Registered（NZ Companies 镜像） · 成立 2006-02-01 · 97 Wordsworth Street, Sydenham, Christchurch 8023, New Zealand（注册地 Unit 4, 211 F",
+    "url": "https://newzealand-company.com/co/viewtech-limited",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

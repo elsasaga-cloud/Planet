@@ -158,5 +158,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索（关键词 Vision Dynamics ElectronX visiondynamics.de I：Vision Dynamics ElectronX（visiondynamics.de；德国）— 研究档 KP Joseph（joseph.nb@）、enquiries@；表内「之 · 未坐实（visiondynamics.de 主体未取；HRB 235057 为同 · 站点快照仅标题（研究档） · 成立 未取 · 德国（门牌未取）",
+    "url": "https://visiondynamics.de/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

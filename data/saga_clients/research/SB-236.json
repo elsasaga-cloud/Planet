@@ -145,5 +145,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：congtyminhphuoc.vn/kinh-nghiem-mua-sam（CÔNG TY TN：CÔNG TY TNHH GIẢI PHÁP CÔNG NGHỆ MINH PHƯỚC / MINH PHUOC SOLUTIONS TECHNOLOGY CO., LTD（con · MST 0313120792 · 营业中（官网） · 成立 2015-01-30 · 11/31 Nguyễn Thái Sơn, P.3, Q. Gò Vấp, TP. Hồ Chí Minh, Việt Nam",
+    "url": "https://congtyminhphuoc.vn/kinh-nghiem-mua-sam",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -253,5 +253,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · Companies House 官方（search + overview + officers，2026-10：SARATOTA LIMITED · 05424607 · Active（账目至 2025-04-30 已报；下期 20 · 成立 2005-04-14 · Unit 21 Little Ridge Industrial Estate, Ridgeway, Welwyn Garden City, Herts AL7 ",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05424607",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

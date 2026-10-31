@@ -174,5 +174,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：tracxn（MSPL LIMITED Public Limited Company incorp：MSPL Limited（baldota.co.in / mspllimited.com；CIN U13100MH1961PLC012160（1961-10-18；RoC Mumb · CIN U13100MH1961PLC012160 · Active · 成立 1961-10-18 · 117, Baldota Bhavan, Maharshi Karve Road, Mumbai 400020（运营 Hospet, Karnataka）",
+    "url": "https://tracxn.com/d/legal-entities/india/mspl-limited/__Vhd3M1W3Iy_sITld1KfSyG6dNTJsqp3A5nSOTxxO1jU",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

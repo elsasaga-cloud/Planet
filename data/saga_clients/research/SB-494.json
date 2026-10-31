@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Hakkımızda（İzmir 总部 800 m²；Ankara 区域经理处；Brickc：Teleone（Teleone Bilgi ve İletişim Hizmetleri；teleone.com.tr；İzmir Konak，Ankara 区域办）— 1999  · 部分坐实（İzmir；法律形式 / MERSİS 号未取） · Active（站点在线；DMO 供应商） · 成立 1999 · Mithatpaşa Cad. Zafer Apt. No 146 Kat 1 D 2-3, Konak / İzmir（Ankara 区域办）",
+    "url": "https://www.teleone.com.tr/hakkimizda/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

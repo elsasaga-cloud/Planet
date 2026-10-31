@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Impressum（SPHINX Computer Vertriebs-GmbH, Heinric：SPHINX Computer Vertriebs-GmbH（sphinxcomputer.de；Laudenbach bei Weinheim）— 工业通信 / 数据通信分销商（ · HRB 431843（Amtsgericht Mannheim） · Active（2020-01 章程修订） · 成立 1989-04-25 · Heinrich-Lanz-Straße 14, 69514 Laudenbach（Rhein-Neckar）",
+    "url": "https://shop.sphinxcomputer.de/Quick-Links/Impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

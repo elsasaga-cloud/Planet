@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · Obchodní rejstřík 镜像（podnikatel.cz：IČO / 资本 / C 5437 / ：Schrack Technik spol. s r.o.（奥地利 Schrack Technik GmbH 捷克子公司） · IČO 15039137 · DIČ CZ15039137 · Městský  · Aktivní · 成立 1991-08-27 · Dolnoměcholupská 1339/2, 102 00 Praha 10 – Hostivař",
+    "url": "https://www.podnikatel.cz/rejstrik/schrack-technik-spol-s-r-o-15039137/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

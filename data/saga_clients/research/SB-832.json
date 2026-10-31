@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：alidex.es/fabricantes（Alidex Iberia；Distribuidor ：Alidex Iberia（alidex.es；「Sedes en España e Italia」）— **= SB-417 ALIDEX NETWORKS S.R.L.（P.I · —（无独立西班牙法人；母体 P.IVA 10924650962 见 SB-417 · 并线 SB-417 · 成立 — · —（西班牙站；法人在 Codogno (LO), Italy）",
+    "url": "https://www.alidex.es/fabricantes",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

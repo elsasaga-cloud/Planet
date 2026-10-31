@@ -227,5 +227,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：Wikipedia（2012 年 Dean Drako（Barracuda 创始人）创立；Aust：Eagle Eye Networks, Inc.（een.com；Austin TX）— 2025-12 与 Brivo 合并 · TX / DE 登记号未取 · Active（合并入 Brivo 2025-12） · 成立 2012-07 · Austin, TX（总部；具体门牌未取）",
+    "url": "https://en.wikipedia.org/wiki/Eagle_Eye_Networks",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

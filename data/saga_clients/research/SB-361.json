@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：sg.ltddir（LUCKY JOINT CONSTRUCTION PTE. LTD.；UEN ：Lucky Joint Construction Pte. Ltd.（luckyjoint.com.sg；**UEN 198200882E；注册 1982-03-08；Exempt · UEN 198200882E · Live Company（bizSAFE Star） · 成立 1982-03-08 · 17 Tuas Avenue 3, Singapore 639414",
+    "url": "https://www.companies.sg/business/198200882E/LUCKY-JOINT-CONSTRUCTION-PTE-LTD-",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

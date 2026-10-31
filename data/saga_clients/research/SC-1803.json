@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TZ · 1 次检索：africa-internet（Cert. No. / 创立 / 牌照 / 地址）+ datace：Habari Node Limited（habari.co.tz；**Arusha，AICC Ngorongoro Wing 4F Room 403；2010 由 Afam (T) · 75466（Certificate of Incorporation） · 营业中（目录 2025） · 成立 2010 · AICC Ngorongoro Wing, 4th Floor, Room 403, Arusha",
+    "url": "https://www.africa-internet.com/en/provider/tanzania/habari-node/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

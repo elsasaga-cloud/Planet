@@ -261,5 +261,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：losan.cz/kontakty（IČO 64053580；DIČ CZ64053580；Bře：LOSAN s.r.o.（losan.cz / eshop.losan.cz；霍穆托夫 Chomutov Březenecká 4808, 430 04；IČO 64053580； · IČO 64053580；DIČ CZ64053580；C 10071 KS Ú · Aktivní · 成立 1995-12-18 · Březenecká 4808, 430 04 Chomutov",
+    "url": "https://rejstrik.penize.cz/64053580-losan-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

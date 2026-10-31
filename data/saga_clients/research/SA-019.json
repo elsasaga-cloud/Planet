@@ -333,5 +333,20 @@
   "path": "活",
   "reply": "R±",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Germany · Handelsregister + Bundesanzeiger 年报摘要（Northdata 免费：ALLNET GmbH Computersysteme · Amtsgericht München HRB 95992 · LEI 5299 · 在册，年报按期公告（2024 年报 2026-03-23 公 · 成立 1991-08-14 · Maistr. 2, D-82110 Germering（慕尼黑西郊）",
+    "url": "https://www.northdata.de/ALLNET%20GmbH%20Computersysteme,%20Germering/Amtsgericht%20M%C3%BCnchen%20HRB%2095992",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

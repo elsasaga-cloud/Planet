@@ -130,5 +130,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IL · 1 次检索：「itmarket.co.il Israel CCTV network equipment com：itmarket.co.il（**1 查无命中 → 未坐实**；仅电话 +972 52 647 7172，无邮箱）— CCTV 与网络设备供应商（表内：ONV 工业 FS / MC · 未取（1 查无命中） · 未知 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

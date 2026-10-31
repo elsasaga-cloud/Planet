@@ -210,5 +210,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：aleo.com（KRS 0000094703；NIP 6780101049；Ciepłownic：DIPOL Gołaszewski, Waśniowski Spółka Jawna（dipol.com.pl；**aleo / baza-firm：ul. Ciepłownicz · KRS 0000094703 / NIP 6780101049 · 营业中（KRS 2026 更新） · 成立 1990 · ul. Ciepłownicza 40, 31-574 Kraków",
+    "url": "https://aleo.com/int/company/dipol-golaszewski,-gwizdala,-wasniowski-spolka-jawna",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

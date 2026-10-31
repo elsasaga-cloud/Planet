@@ -135,5 +135,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：escavador.com DJSC 2019-04-01 p.2781（GETECSEG SEG：GETECSEG Segurança Eletrônica Ltda ME（getecseg.com.br；**圣卡塔琳娜州法院公报 2019-04-01 税务名单：GETECSE · CNPJ 11.641.497/0001-43 · 存续（2019 公报；状态未取） · 成立 未取 · Rua João Pessoa 1839, Velha, Blumenau - SC 89036, Brazil",
+    "url": "https://www.escavador.com/diarios/845061/DJSC/jurisdicional-das-comarcas/2019-04-01?page=2781",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

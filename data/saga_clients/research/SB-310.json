@@ -155,5 +155,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LY · 1 次检索：「Arcan Libya arcanlibya.com Tripoli」→ libyayp ARK：Arcan Libya（arcanlibya.com；**1 查仅同名 ARKAN IT Solutions（+218 91 370 6338，与研究档 +218 91 366 2 · 未取（1 查无命中） · 营业中（研究档官网 ok） · 成立 未取 · 未取（Tripoli, Libya；+218 21 712 8108）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

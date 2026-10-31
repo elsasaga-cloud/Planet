@@ -196,5 +196,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：vknsorgula（PORTEL TEKNOLOJİ SANAYİ VE TİCARET ANO：PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.（portel.com.tr / industrialnetworkcenter.com；İstanbul Ka · VKN 7320767976 · Ticaret Sicil 1075179（İ · Active（2025-12 官网更新；2024 进口 73 · 成立 2017-05-23 · Yalı Mah. Kadir Sk. No 14, Helis More Residence Kat 7 Daire 82, 34873 Kartal / İ",
+    "url": "https://vknsorgula.net/7320767976",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-31",
+    "quote": "portel.com.tr：PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş. · Yalı Mah. Kadir Sk. No:14 Helis More Residence Kat:7 D:82, Kartal / İstanbul · +90 216 464 44 50 · bilgi@industrialnetworkcenter.com ·「her türlü endüstriyel network ürünleri ve yarı iletken ürünlerin temini」；Eurotech 官网列其为土耳其分销商",
+    "url": "https://www.portel.com.tr/",
+    "note": "工业网络 + 半导体分销（Eurotech 渠道；研究档记现三旺）→ 工业交换机换源对位",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

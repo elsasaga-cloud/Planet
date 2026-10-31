@@ -210,5 +210,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（บริษัท โฟกัส ซิสเต็ม แอนด์ ดีไซน์ จำก：บริษัท โฟกัส ซิสเต็ม แอนด์ ดีไซน์ จำกัด FOCUS SYSTEM AND DESIGN COMPANY LIMITED（iFocus；ifo · เลขทะเบียนนิติบุคคล 0205549023031 · ยังดำเนินกิจการอยู่（营业中） · 成立 2006-08-24 · 149/237 9th Fl., Moo 9, Chonburi（芭提雅；门牌后段未取）",
+    "url": "https://www.dataforthai.com/company/0205549023031/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

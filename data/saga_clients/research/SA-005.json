@@ -413,6 +413,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "南非 · CIPC 需登录付费；本行为「无登记源」记录（据第 79 批研究档）：Taurus Vision（taurusvision.com） · （登记状态不可免费核） · 成立 — · 8 Malan Street, Riviera, Pretoria 0084, Gauteng, South Africa",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

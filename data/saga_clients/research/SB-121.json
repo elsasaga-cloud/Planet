@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "XK · 1 次检索：LinkedIn Alban S. Beqiri（CEO at STORM ICT LLC mem：STORM ICT L.L.C.（storm-ict.com；Rruga Tahir Zajmi (KOSOVATEX) pn, 10000 Prishtinë（登记址 Nazim · 未取（ARBK 商业编号） · Active（经营中） · 成立 2013-09 · Rruga Tahir Zajmi (KOSOVATEX) pn, 10000 Prishtinë（登记 Nazim Gafurri 203）",
+    "url": "https://www.storm-ict.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -152,5 +152,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：webvalid（4G GmbH Sendenhorst；Handelsregister Müns：4G GmbH（4g-gmbh.de；北威州 Sendenhorst；Amtsgericht Münster HRB 15069）— 2014-07-04 以 Westhoff E · HRB 15069（Amtsgericht Münster） · Active · 成立 2014-07-04 · Industrieweg 19, 48324 Sendenhorst（NRW）",
+    "url": "https://www.northdata.com/4G%20GmbH,%20Sendenhorst/Amtsgericht%20M%C3%BCnster%20HRB%2015069",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

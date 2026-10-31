@@ -190,5 +190,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "RU · 1 次检索：keno-cctv.ru/company（«KEНO» основанная в 2012 год：KENO / FOX（keno-cctv.ru / fox-cctv.ru；品牌 2012 年起；**运营方 ООО «ФКВИДЕО»**（FOX 产品文件：Волоколамс · 未取（ООО «ФКВИДЕО» ИНН） · Active · 成立 2012（品牌） · 143440 Московская обл., Путилково, тер. Гринвуд, стр. 17, эт. 1, пом. 107",
+    "url": "https://keno-cctv.ru/company/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

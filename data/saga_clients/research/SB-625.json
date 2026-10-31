@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PT · 1 次检索：Iberinform（VIRTWARE - SOLUÇÕES INTEGRADAS DE TELE：VIRTWARE – Soluções Integradas de Telecomunicações, Lda.（virtware.pt；波尔图 Vila Nova de Gaia · NIPC 506612813 · Active · 成立 2003-05-19 · Rua dos Canastreiros 394, Canidelo, 4400-404 Vila Nova de Gaia（Porto）",
+    "url": "https://www.iberinform.pt/empresa/24049432/virtware-solucoes-integradas-de-telecomunicacoes-lda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

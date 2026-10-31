@@ -217,5 +217,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：rejstrik.penize.cz（ENIKA.CZ s.r.o.；IČO 28218167 z：ENIKA.CZ s.r.o.（enika.cz / enika.eu；Vlkov 33, 509 01 Nová Paka；IČO 28218167；DIČ CZ28218167 · IČO 28218167 · Aktivní · 成立 2007-12-20 · Vlkov 33, 509 01 Nová Paka",
+    "url": "https://rejstrik.penize.cz/28218167-enika-cz-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

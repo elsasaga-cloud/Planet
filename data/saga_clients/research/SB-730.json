@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：it2ss.com 首页（2003 年创立；医疗 / 电商 / 建筑 / 安防 IT / 中美跨境：ITSS Inc.（it2ss.com；Grand Prairie TX）— Alasad 家族多元集团 · TX 登记号未取（TX SoS 付费） · Active（官网 2026 在线） · 成立 2003（自述） · 807 S. Great Southwest Pkwy, Grand Prairie, TX 75051",
+    "url": "http://it2ss.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

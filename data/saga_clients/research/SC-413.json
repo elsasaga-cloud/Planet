@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：thecompanycheck（CIN / GSTIN / 董事 / 官网 hifocuscctv：Hi-Focus Electronics India Private Limited — HiFocus CCTV（hifocuscctv.com；**CIN U51909TN20 · U51909TN2015PTC099815（CIN） · Active（MCA 2026） · 成立 2015-03-25 · No. 3 Sunkuvar Agraharam Street, Chintadripet, Chennai, Tamil Nadu 600002",
+    "url": "https://www.thecompanycheck.com/company/hifocus-electronics-india-private-limited/U51909TN2015PTC099815",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

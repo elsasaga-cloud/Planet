@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：仅命中 kyber-e.com 首页标题（Innovative engineering kits ：Kyber Electronics（kyber-e.com；美国）— 「Innovative engineering kits and tools」工程套件 / 工具小厂（研究档  · 未取（未坐实） · 未取（站点在线） · 成立 未取 · 未取（研究档：美国）",
+    "url": "https://www.kyber-e.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

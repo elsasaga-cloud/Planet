@@ -155,5 +155,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn.com/item.aspx?no=97092770（統編 / 上市 / 代表人 / ：陞泰科技股份有限公司 AV TECH CORPORATION（avtech.com.tw；**統編 97092770；上市 8072；設立 1996-06-26；實收資本 NT$8 · 97092770（統編） · 核准設立（上市 8072） · 成立 1996-06-26 · 新北市三重區中興北街 193-2 號",
+    "url": "https://twincn.com/item.aspx?no=97092770",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

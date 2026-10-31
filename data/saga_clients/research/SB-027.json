@@ -416,6 +416,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：firmenwissen / Creditreform（Rechtsform Gewerbebet：Mathias Gottensträter VoIPDistri.com（voipdistri.com；Halle (Westf.)）— 个体工商 · 无 HRB（个体工商 Gewerbebetrieb）；USt-IdNr. DE8 · Aktiv（官网 / 电商在线，2020 起 Kleinan · 成立 ≈2003–2010 · Im Hagen 3, 33790 Halle (Westfalen)（+49 5201 730030）",
+    "url": "https://www.firmenwissen.de/az/firmeneintrag/33790/4010155801/MATHIAS_GOTTENSTRAETER_VOIPDISTRI_COM.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

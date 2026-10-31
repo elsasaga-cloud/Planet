@@ -160,5 +160,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（EXSYS ITALIA - S.R.L.；P.IVA 02375：EXSYS ITALIA - S.R.L.（exsys.it；Via Belvedere 45/B, 22100 Como；P.IVA / CF 02375220130；REA C · P.IVA 02375220130 / REA CO-257326 · Attiva · 成立 1998-04-15 · Via Belvedere 45/B, 22100 Como (CO)",
+    "url": "https://www.ufficiocamerale.it/7762/exsys-italia-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（BOS ITALY S.R.L.；P.IVA 0357614024：BOS ITALY S.R.L.（原 Borinato Security S.r.l.，PEC 仍用 borinatosecurity.it；bositaly.it；Via Chi · P.IVA 03576140242 / REA VI-336327 · Attiva · 成立 2009-11-02 · Via Chiesa 22, 36044 Val Liona (VI)",
+    "url": "https://www.ufficiocamerale.it/8040/bos-italy-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

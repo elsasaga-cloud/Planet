@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：vnstech.com/contact-vns（Abu Dhabi – HQ；P.O. Box 5：VNS Technologies LLC（vnstech.com；**HQ Mina Zayed, Abu Dhabi, P.O. Box 51216；+971 2 666 775 · 未取（LLC；牌照号 1 查未得） · 营业中（官网 + LinkedIn 435 关注） · 成立 2009 · Mina Zayed, Abu Dhabi, UAE (P.O. Box 51216)",
+    "url": "https://vnstech.com/contact-vns/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

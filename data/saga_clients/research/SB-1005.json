@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：asit.it 首页（Asit SpA；P. Iva 06221270017；Sede Via G：ASIT S.p.A.（asit.it；运营总部 都灵 Mappano Via Goretta 90/F, 10079；法定 Torino Via Andrea Massena 4 · P.IVA / CF 06221270017 · Active · 成立 1992-05-12 · Via Goretta 90/F, 10079 Mappano (TO)（法定 Via Andrea Massena 44, 10128 Torino）",
+    "url": "https://www.aziende.it/asit-s-p-a",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

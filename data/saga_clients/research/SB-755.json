@@ -157,5 +157,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：fibresalesau.medium.com（FibreSales: Australia’s n：Fibresales（fibresales.com.au；墨尔本东区 03-9761-7925；**法人 / ABN 1 查未得 → 部分坐实**）— 光纤产品网店（跳线 / 尾纤 · 未取（ABN 1 查未得） · 营业中（官网重定向 + 社媒） · 成立 未取 · 未取（Melbourne VIC；03 区号）",
+    "url": "https://fibresales.com.au/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

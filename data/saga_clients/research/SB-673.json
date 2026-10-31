@@ -198,5 +198,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：bisprofiles / Sunbiz（NODAC TECHNOLOGY, INC.；Domes：NODAC TECHNOLOGY, INC.（nodactechnology.com；Doral / Miami, Florida + Pompano Beach）— 2005-0 · FL Sunbiz P05000037533 · FEI 20-2538531 · Active · 成立 2005-03-10 · 2236 NW 82nd Ave, Doral (Miami), FL 33122；1301 W Copans Rd #A-3, Pompano Beach, ",
+    "url": "https://bisprofiles.com/fl/nodac-technology-p05000037533",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "供应商/品牌关系",
+    "date": "2026-10-31",
+    "quote": "nodactechnology.com：Nodac Technology · 2236 NW 82 Av, Miami FL 33122 + 1301 W Copans Rd Pompano Beach + Hong Kong · since 2001 · 分销 Hikvision, ZKTeco, Ruijie, TP-Link, Wi-Tek, Dahua, Uniview, TVT, Alula · 覆盖 USA / Caribbean / Central America · **自牌 Lysora**（新品 LS2P-16MG4XS-HP 16 口 2.5G L2+ 管理 PoE）· WhatsApp +1 786 377 4190",
+    "url": "https://nodactechnology.com/",
+    "note": "已在用自牌 Lysora 卖 2.5G PoE 交换机 = 现成 ODM 买家 → 回信即 A 候选；香港办公室可面谈",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

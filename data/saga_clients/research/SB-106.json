@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：citicalls.com/pages/about-us（owned and operated b：WinWealth Tech Inc.（商号 citiCalls；citicalls.com；170 W Pomona Ave, Monrovia, CA 91016, USA；2 · 未取（CA SoS 实体号） · Active · 成立 2003-05（业务 · 170 W Pomona Ave, Monrovia, CA 91016, USA",
+    "url": "https://citicalls.com/pages/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

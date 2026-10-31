@@ -228,5 +228,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：ca.ltddir（INFINICORE INCORPORATED；Corporation ID ：Infinicore Incorporated（InfiniCORE；infinicoreinc.com；San Jose, California；CA Corporation I · CA Corporation ID 3278330（2010-01-20） · Active · 成立 2010-01-20 · 1754 Technology Dr STE 210, San Jose, CA 95110（登记地址 871 Coleman Ave Ste 208）",
+    "url": "https://ca.ltddir.com/INFINICORE/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

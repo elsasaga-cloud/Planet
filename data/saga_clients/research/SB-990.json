@@ -161,5 +161,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：supportprecision.com.br（Precision Solutions；CNPJ ：Precision Solutions（precisionsolutions.com.br；**支持站页脚自列 CNPJ 05.573.595/0001-98，I.E. 149.9 · CNPJ 05.573.595/0001-98 · 营业中（官网 + 支持站在） · 成立 未取（自述 20+  · Avenida Nova Independência 87, conj. 32, Brooklin Paulista, São Paulo - SP 04570",
+    "url": "https://supportprecision.com.br/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

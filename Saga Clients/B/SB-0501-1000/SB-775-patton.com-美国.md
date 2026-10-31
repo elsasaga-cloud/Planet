@@ -232,6 +232,20 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：Patton 官方 Corporate Profile PDF（Established 1984；：Patton Electronics Co.（Patton LLC；patton.com；Gaithersburg, Maryland）— 1984 年 Patton 兄弟创立的美 · Maryland C Corporation（SDAT 号未取）· SAM UE · Active（SAM 在册；2026 站点） · 成立 1984 · 7622 Rickenbacker Drive, Gaithersburg, MD 20879 — <https://opengovus.com/sam-entity/CETFWF46TQ69>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-31：SignalHire / ZoomInfo：Patton, LLC（Patton Electronics Co.）· 7622 Rickenbacker Dr., Gaithersburg, MD 20882 · 1984 年 · 100–200 employees · Revenue ≈$29.9M · VoIP 网关 / SBC / 路由器 / 数据通信 · 含 Artel Video Products 事业部 — <https://www.signalhire.com/companies/patton-electronics-co>　*美国电信设备厂商（$30M、100–200 人）：自有 CopperLink/工业交换机线 → 可能的 OEM 外采方；回过信*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：31 封（去 29 / 来 2）　|　**期间**：2024-06-26 → 2026-10-01　|　**最后去信**：2026-10-01

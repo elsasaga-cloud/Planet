@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GR · 1 次检索（规则：锁具非目标 1 查即停）：findbiz.gr（GEMKA ΑΦΟΙ ΚΑΡΥΔΗ Ο.Ε.：ΓΕΜΚΑ – Καρύδη Αφοί Ο.Ε.（GEMKA – Karydis Bros O.E.；商号 ΓΕ.Μ.ΚΑ；gmka.gr；雅典 Αιγάλεω Αγ. Παντε · ΑΦΜ 094019245 / ΓΕΜΗ 001037501000（11888. · Active（部分坐实） · 成立 1928（Ο.Ε.  · Αγ. Παντελεήμονος 8, 12241 Αιγάλεω (Αττική)",
+    "url": "https://findbiz.gr/el/company/gemka-karydis-bros-oe/601000075299",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

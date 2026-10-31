@@ -340,5 +340,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US(→CA) · 1 次检索：LinkedIn 公司页（2000 成立；11–50；总部 Markham ON；产品含：WatchNET Inc.（watchnetinc.com；Markham, Ontario —— 实为加拿大） · Ontario 公司号未取（Ontario Business Registry  · Active（LinkedIn 2026 更新、Inters · 成立 2000 · 351 Ferrier St Unit 5, Markham, Ontario L3R 5Z2, Canada",
+    "url": "https://www.linkedin.com/company/watchnet-inc-",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

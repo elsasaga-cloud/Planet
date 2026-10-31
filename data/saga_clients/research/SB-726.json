@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（ELETTRONICA E SICUREZZA SRL；P.IVA：ELETTRONICA E SICUREZZA SRL（原 Elettronica e Sicurezza snc di D. Ferrari & C.；elettronicaes · P.IVA 03518240241 / REA VI-331657 · Attiva · 成立 2009-02-12 · Via Francesco Foscari 27/29, 36016 Thiene (VI)",
+    "url": "https://www.ufficiocamerale.it/2006/elettronica-e-sicurezza-snc-di-d-ferrari-c",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

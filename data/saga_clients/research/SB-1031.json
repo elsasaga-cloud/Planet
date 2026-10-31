@@ -331,6 +331,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House 09757591（RALAKDE LTD；2015-09-02 注：RALAKDE LTD（findcontrols.com / ralakde.co.uk；Stoke-on-Trent）— 工业自动化备件贸易与维修，一人 PSC · Companies House 09757591（关联 11435782 / 1 · Active（2025-11 新设控股公司 = 重组中） · 成立 2015-09-02 · Unit 5a Victoria Road, Stoke-On-Trent ST4 2HS",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/09757591",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

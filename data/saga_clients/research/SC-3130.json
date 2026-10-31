@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "MX · 1 次检索：comxport（RFC / 法人名 / 地址 / 进出口）+ cosmos.com.mx（业务 ：TVC en Línea.com, S.A. de C.V.（tvc.mx；**RFC TVC060802NE4；Camino al Mirador No. 5216, Col.  · TVC060802NE4（RFC） · 营业中（LinkedIn / 目录 2025） · 成立 2000（RFC 序 · Camino al Mirador No. 5216, Col. Del Paseo Residencial, 64920 Monterrey, Nuevo L",
+    "url": "https://www.comxport.com/co/tvc_en_lineacom_sa_de_cv-mexico-350701.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

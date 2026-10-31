@@ -204,5 +204,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 1 次检索：manageo（IMPORT NETWORK VIDEO TECHNOLOGY - INV-TEC：IMPORT NETWORK VIDEO TECHNOLOGY – INV-TECHNOLOGIE SAS（Dynavision；inv-technology.com；上科西嘉 B · SIREN 808 965 941；TVA FR30808965941 · Active · 成立 2015-01-22 · Rainbow Strada Vecchia, 20290 Borgo（Haute-Corse）",
+    "url": "https://www.societe.com/societe/import-network-video-technology-inv-technologie-808965941.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

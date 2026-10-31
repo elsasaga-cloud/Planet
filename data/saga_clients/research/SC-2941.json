@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：digitx.it/chi_siamo.asp（法人 / P.I. / REA / 沿革 / 商标：Lastella Trade S.r.l. Società unipersonale — digitX.it（**官网 Chi siamo / Assistenza：CCIAA B · 03695681209（P.I.；REA BO-539359） · 营业中（官网 2026） · 成立 2012（Laste · Via Galliera 62, 40050 Funo di Argelato (BO)",
+    "url": "https://www.digitx.it/chi_siamo.asp",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

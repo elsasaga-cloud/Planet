@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR→TW · 2 次检索：alarmbox.jp（ＢｌａｃｋＢｅａｒ ＴｅｃｈＨｉｖｅ Ｊａｐａｎ株式会社；法人番号 ：BlackBear TechHive（blackbear-ics.com）= **台灣黑熊網路安全股份有限公司 BlackBear (Taiwan) Industrial Netw · 統一編號 83305324（TW）/ 法人番号 8010401158437（JP · 核准設立 / 營業中 · 成立 2020-11-26 · No. 146, Sec. 1, Dongxing Rd., Zhubei City, Hsinchu County 30261, Taiwan（JP：東京都港",
+    "url": "https://www.twincn.com/item.aspx?no=83305324",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

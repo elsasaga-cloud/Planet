@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：destekelektronik.com.tr 首页（Destek Elektronik；Hanw：EDS Elektronik Destek San. ve Tic. Ltd. Şti.（品牌站 Destek Elektronik；destekelektronik.com.tr · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取）；Deste · Active（Hanwha 名录 2025） · 成立 1990-02 · Meclis Mah. Teraziler Cad. Hayran Sok. No:4, 34785 Sancaktepe / İstanbul",
+    "url": "https://hanwhavision.eu/distributors/eds-elektronik-destek-sanayi-ve-ticaret-ltd-sti/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

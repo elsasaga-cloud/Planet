@@ -166,5 +166,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：pitchbook（Birmingham；1917；250；Sonepar UK）+ endole：Mayflex（mayflex.com；**PitchBook：Excel House, Junction Six Industrial Park, Electric Avenue · Mayflex Holdings Ltd 06732855（控股；运营公司号未取 · Active（Sonepar 集团） · 成立 1917（控股 20 · Excel House, Junction Six Industrial Park, Electric Avenue, Birmingham B6 7JJ",
+    "url": "https://pitchbook.com/profiles/company/65358-73",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

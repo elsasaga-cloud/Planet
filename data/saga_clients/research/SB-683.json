@@ -223,5 +223,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Creditreform（Spectra GmbH & Co. KG；Amtsgericht St：Spectra GmbH & Co. KG（spectra.de；Reutlingen）— 工业 PC 制造商 + ORing 工业交换机分销，三位股东 GF 之一 = 研究档 K · Amtsgericht Stuttgart HRA 726688（Komplem · Active（2025 两起并购） · 成立 1982（创立）/  · Mahdenstr. 3, 72768 Reutlingen（分部 Winterthur CH / Linz AT）",
+    "url": "https://firmeneintrag.creditreform.de/72768/7270311204/SPECTRA_GMBH_CO_KG",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

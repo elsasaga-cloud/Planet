@@ -188,13 +188,38 @@
   "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  },
  "b_tier": {
-  "tier": "B1",
-  "why": "强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活",
-  "batch": "B-PASS-01",
+  "tier": "B2",
+  "why": "强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活；B-PASS-02 2026-10-31：Canary：4 人 + 政府/军方市场 → B2",
+  "batch": "B-PASS-02",
   "date": "2026-10-31",
   "ident": "登记坐实",
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：bizprofile.net（CA SoS 登记：Canary Communications, I：Canary Communications, Inc.（canarycom.com；San Jose, CA）— 1987 年起的以太网连接 / 光纤媒体转换器 / 数据二极管自有 · CA SoS 1418771（General Corporation）；SAM  · Active（Good Standing；SAM 2026- · 成立 1987-09-25 · 6040 Hellyer Avenue, Suite 150, San Jose, CA 95138-1040（旧址 5884 Eden Park Place）",
+    "url": "https://www.bizprofile.net/ca/san-jose/canary-communications-inc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-31",
+    "quote": "ZoomInfo / Tracxn / Lightwave：Canary Communications Inc · 6040 Hellyer Ave Ste 150, San Jose（Tracxn：Morgan Hill）· 1987 年 · 1–10（Tracxn 2026-07：4 人）· 数据二极管 / 以太网与串口转换器 / CWDM-DWDM · 市场含 government, military · Director Sales Jim McSeaton",
+    "url": "https://tracxn.com/d/companies/canary-communications/__TXVOO8fAzG3QoM4xiGXji5R7NciR4SM0RtwlrZSTK4U",
+    "note": "4 人 + 政府/军方市场 → B-PASS-02 调 B2",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

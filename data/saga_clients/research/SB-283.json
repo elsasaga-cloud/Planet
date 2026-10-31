@@ -219,5 +219,30 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 hakkımızda / iletişim（2002 成立，1,500+ bayi，一站式安：ÖNCÜ GÜVENLİK SİSTEMLERİ A.Ş.（Kavacık / Beykoz, İstanbul；1,500+ 经销商） · VKN 6560323830（Beykoz） · Aktif · 成立 2002（业务）/  · Kavacık Mah. Fatih Sultan Mehmet Cad. Yayabeyi Sk. No:8, 34810 Beykoz / İstanbul",
+    "url": "https://www.oncuguvenlik.com.tr/tr/bilgi/hakkimizda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "领英公司页",
+    "date": "2026-10-31",
+    "quote": "LinkedIn / SignalHire / X：Öncü Güvenlik Sistemleri A.Ş. · Kavacık, İstanbul（Yaya Beyi Sokak）· 2002 年 · 51–200（100–200）· 「elektronik güvenlik sistemlerinde uluslararası markaların … ulaştırılması」· Hikvision 土耳其分销（2024-04 Hikvision MEA 毛里求斯分销商大会获奖）· 自牌 Sec-on · 集团人物 Osman Çalışkan（Öncü Group / MÜSİAD 副主席）；销售 Hakan Kırmızıgül、Çağla Battal、Banu；技术服务经理 Ali Rifat Türk",
+    "url": "https://tr.linkedin.com/company/oncuguvenliksistemleri",
+    "note": "土耳其头部安防分销商（Hikvision 获奖 + 自牌 Sec-on）→ 回信即 A 候选；B1 第一轮重点",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：asm.cz/kontakty（A S M (100MEGA Distribution s.r.o：ASM（asm.cz；= 100MEGA Distribution s.r.o. 的 ICT 安装商 / 集成商分销部门，布拉格 10 K Hrušovu 292/4, 102 0 · IČO 60707968；DIČ CZ60707968；C 15317 KS B · Aktivní · 成立 1994-05-24 · Železná 681/7, 619 00 Brno – Horní Heršpice（ASM：K Hrušovu 292/4, 102 00 Praha 10",
+    "url": "https://rejstrik.penize.cz/60707968-100mega-distribution-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

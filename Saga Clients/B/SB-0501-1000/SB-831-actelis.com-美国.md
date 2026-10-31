@@ -278,7 +278,7 @@ updated: 2026-10-31
 - 依据：出 A 户（mon）→ 下放 B：Actelis：10-K 自述在以色列 + 台湾制造、原料直采两地；FIPS/国防路线；一年三轮融资；回信只「Maybe…」→ 结构性障碍）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 10 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 11 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
@@ -289,6 +289,10 @@ updated: 2026-10-31
 - 2026-10-30：10-K Item 1：「Over the past years, we entered into several large multi-year contracts with ITS, military, airports, and more … the worldwide airport technology provider, a provider of energy services to a major European city …, the city of San Jose, California and Northern Ireland railways.」 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*采购线索②：多年期合同（ITS / 军方 / 机场 / 北爱铁路 / 圣何塞市）——其采购是项目制、长周期*
 - 2026-10-30：10-K Item 1：市场与资金面：「In 2024, we launched our MDU program, which was further expanded in 2025 …」「BEAD Program provides $42.45 billion … approximately $28 billion were ear-marked」；证书：FIPS 140-2 → 2026-02 部署 140-3；JITC 互操作认证；产品 UL / EN / VCCI / CISPR / ICES 认证 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*采购线索③：增长押注 MDU（多住户楼宇）+ BEAD 补贴项目；认证门槛高（UL/FIPS）——Saga 产品无 UL，不对位其核心产品，只可能配套*
 - 2026-10-30：10-K 融资事件（Recent Developments）：2025-07 私募 ~$1M（$6.15/股 + 认股权证）；2025-09-27 White Lion 股权购买协议 + PIPE ~$850K（$2.125/股）；2025-12-17 公开发行 ~$5M（$0.80/股）；2025-11-18 1:10 反向拆股 — <https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm>　*一年三轮融资 + 反向拆股 → 现金紧、付款能力要盯；小额样品单可做，账期不放*
+
+**登记**
+
+- 2026-10-30：USA · SEC EDGAR（CIK 1141284：10-K FY2025 2026-03-18、8-K 业绩稿、1：ACTELIS NETWORKS, INC.（NASDAQ / OTC: ASNS） · SEC CIK 1141284 · 上市代码 ASNS（2026 年收到 Nas · Active · **持续经营存疑（going concer · 成立 1998（Delaw · Fremont / Sunnyvale, California（美国）；34 名员工在以色列 — <https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **人事变动**
 

@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（SISTEMI AVANZATI ELETTRONICI SRL；：SISTEMI AVANZATI ELETTRONICI S.R.L.（商号 SisAv；sisav.it；比耶拉 Cossato Via Guglielmo Marconi 11 · P.IVA / CF 01925460022；REA BI-174039 · Active · 成立 1998 · Via Guglielmo Marconi 11/D, 13836 Cossato (BI)",
+    "url": "https://www.ufficiocamerale.it/4975/sistemi-avanzati-elettronici-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -283,5 +283,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：hdfcsky（Smartlink Holdings Q2FY26；100% owned subs：DIGISOL Systems Limited（digisol.com；Smartlink Holdings Ltd（BSE 上市）100% 子公司；孟买总部，果阿 Verna 工 · 未取（CIN；母公司 Smartlink Holdings Ltd 上市） · Active · 成立 未取（品牌 1993 · Mumbai（总部；具体地址未取）；工厂 Verna, Goa",
+    "url": "https://www.owler.com/company/digisol",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

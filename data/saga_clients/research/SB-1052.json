@@ -240,5 +240,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HU · 1 次检索：lan.hu Kapcsolat / ÁSZF（Cégjegyzékszám 01-09-1624：LAN Számítástechnikai Szolgáltató Kft.（LAN Kft.；lan.hu；布达佩斯 XV. Kolozsvár u. 7, 1155；adósz · Adószám 10678994-2-42；Cégjegyzékszám 01- · Active · 成立 1992-05-04 · Kolozsvár u. 7, 1155 Budapest",
+    "url": "https://www.companywall.hu/v%C3%A1llalat/lan-kft/MMHpGT00",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

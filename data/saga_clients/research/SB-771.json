@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CR · 1 次检索：官网首页 / sobre-nosotros / contactanos（Calle Blancos：Lanprosa S.A.（San José, Costa Rica） · 未取（Registro Nacional 需付费） · Active（官网 2026-10 更新） · 成立 2003（conta · Calle Blancos, San Francisco de Goicoechea, San José 11502, Costa Rica",
+    "url": "https://lanprosa.com/sobre-nosotros/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

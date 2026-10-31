@@ -217,5 +217,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZA · 1 次检索：switchcom.co.za/pages/our-terms-conditions（SWITCH：Switchcom Distribution (Pty) Ltd（switchcom.co.za；**官网 T&C 自列注册号 2015/334722/07；registered  · 2015/334722/07 · 营业中（官网 + 电商在） · 成立 2015 · 49 Galaxy Avenue, Linbro Business Park, Sandton 2090, Gauteng, South Africa",
+    "url": "https://www.switchcom.co.za/pages/our-terms-conditions",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

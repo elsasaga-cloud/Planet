@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：官网 contact（Unit B135-6286 203 St, Langley BC）+ ab：Canacctv（网店；Langley / Surrey, BC；法人名未取） · 未取（BC Registry 需付费 / JS） · Active（官网在线） · 成立 未取 · Unit B135-6286 203 Street, Langley, BC V2Y 3S1（运营 Surrey BC）",
+    "url": "https://canacctv.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

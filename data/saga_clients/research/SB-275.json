@@ -274,5 +274,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：gelecekbt.com/hakkimizda（2004-10-13 伊斯坦布尔创立；Perpa：GelecekBT Bilgi Teknolojileri（gelecekbt.com；Perpa / İstanbul）— 2004 起的网络 / 工业通信分销，自有品牌 Tel · MERSİS / 法律形式未取（Perpa 名录无 Ltd. 后缀 → 可能为  · Active（官网 2026 更新） · 成立 2004-10-13 · Perpa Ticaret Merkezi A Blok Kat:13 No:1990, Okmeydanı, 34384 Şişli / İstanbul",
+    "url": "https://gelecekbt.com/hakkimizda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

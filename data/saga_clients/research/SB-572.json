@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Hakkımızda（ÖZEL ELEKTRONİK；2007 年取得品牌名称权；Şükra：Özel Elektronik（FOURLINE 品牌；fourline.com.tr；Yıldırım, Bursa）— 天线 / 卫星 + CCTV / 报警批发零售（微型，自 · VKN 2360002288（Setbaşı VD；未见 Ltd. / A.Ş. · 在营（官网在线） · 成立 2007（品牌） · Şükraniye Mah. Ankara Cad. No 242, Yıldırım / Bursa",
+    "url": "https://www.fourline.com.tr/hakkimizda.asp",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

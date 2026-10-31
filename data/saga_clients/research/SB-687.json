@@ -182,5 +182,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 İletişim / Hakkımızda / Çerez（Telkotim Bilişim：Telkotim Bilişim Teknolojileri Tic. Ltd. Şti.（telkotim.com / telkotim.com.tr；Ankara Yenima · Ltd. Şti.（Ankara；MERSİS 号未取） · Active（ISAF 2024 参展；站点 2026） · 成立 2008 · Çamlıca Mahallesi Anadolu Bulvarı Timko İşyerleri No 20 c-4, Yenimahalle / Ankar",
+    "url": "https://www.telkotim.com/iletisim",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

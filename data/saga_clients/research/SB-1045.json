@@ -298,5 +298,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：Companies House（ITM COMPONENTS LIMITED 03129914；成：ITM Components Limited（itm-components.co.uk；Wimborne, Dorset）— 连接 / KVM / AV 延长小众分销商（L-Com · 03129914 · Active（2024-10 股权集中至 Michael J · 成立 1995-11-23 · 10 Whittle Road, Ferndown Industrial Estate, Wimborne, Dorset BH21 7RU",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/03129914",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

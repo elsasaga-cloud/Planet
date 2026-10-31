@@ -145,5 +145,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PT · 1 次检索：cctvcamara.pt 首页 / shop（Rua Aquiles Machado 3A 19：cctvcamara.pt（CCTVCÂMARA；Rua Aquiles Machado 3A, 1900-077 Lisboa；仅 Gmail cctvcamarageral@g · 未取（NIPC） · 未取 · 成立 未取 · Rua Aquiles Machado 3A, 1900-077 Lisboa",
+    "url": "https://cctvcamara.pt/about",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

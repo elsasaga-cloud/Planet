@@ -514,6 +514,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · California Secretary of State 登记（bizprofile 镜像，2025-07：THOR FIBER, INC.（dba Thor Broadcast） · California SOS 文件号 4095985（General Corpo · Active（2025-07） · 成立 2017-12-26 · 2421 W 205th St Ste D204, Torrance, CA 90501（运营）；1810 W 236th St, Torrance（登记 / ",
+    "url": "https://www.bizprofile.net/ca/torrance/thor-fiber-inc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（BMAnetworks GmbH；Albert-Einstein-Rin：BMAnetworks GmbH（bma-networks.com；Schwentinental bei Kiel + Hamburg-Bahrenfeld）— 2007 年起的企 · HRB 4103 KI（Amtsgericht Kiel）· LEI 52990 · Aktiv（2024 账已公示 2026-02-18） · 成立 2007-10-09 · Preetzer Chaussee 55, 24222 Schwentinental（总部）；Albert-Einstein-Ring 5, 22761 Ham",
+    "url": "https://bma-networks.com/impressum",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

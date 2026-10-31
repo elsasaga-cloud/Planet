@@ -213,5 +213,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Slovensko · FinStat（ORSR 登记 + 公开财报 2025；konateľ 页未取）：ROVEZ, s.r.o. · IČO 36225801 · DIČ 2020163277 · IČ DPH S · Aktívna（2026 员工类别已更新） · 成立 1997-12-22 · Ul. 9. mája 49, 917 00 Trnava（2007 起）",
+    "url": "https://finstat.sk/36225801",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -173,5 +173,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 1 次检索：view-tel.co.kr/bizdemo84517/company/03（사무실 경기도 성남：(주)뷰텔 VIEWTEL Co., Ltd.（view-tel.co.kr；**사업자등록번호 214-87-56744 / 법인등록번호 110111-3053511；设立 2 · 사업자등록번호 214-87-56744 / 법인등록번호 110111-305 · 营业中（DART 登记） · 成立 2004-07-21 · 경기도 성남시 중원구 둔촌대로 484, 시콕스타워 508~510호（工厂）/ 수정구 산성대로 75 제이오빌딩 A동 201호（办公室）",
+    "url": "https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=01694903",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -237,5 +237,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twincn（台林電通股份有限公司 Tailyn Technologies, Inc.；統編 12：台林電通股份有限公司 Tailyn Technologies, Inc.（tailyn.com.tw；**上櫃 TPEx 5353；統一編號 12278439；設立 1980-04 · 統一編號 12278439 / TPEx 5353 · 上櫃 / 核准設立 / 營業中 · 成立 1980-04-10 · 桃園市蘆竹區內厝里榮安路10號 / No. 10, Rungan Rd., Luzhu Dist., Taoyuan City",
+    "url": "https://twincn.com/item.aspx?no=12278439",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

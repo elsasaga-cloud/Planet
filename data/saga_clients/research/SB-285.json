@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：rfteknoloji.com.tr kurumsal（2012 年成立；法定全名 + 发票地址 ：RF Teknoloji Makine ve Otomasyon San. Tic. Ltd. Şti.（rfteknoloji.com.tr；Sefaköy / Küçükçek · Mersis / VKN 未取 · Aktif（官网在线） · 成立 2012 · Tevfik Bey Mah. Şehit Adem Tamrak Sk. No:2/5, Sefaköy / Küçükçekmece / İstanbul ",
+    "url": "https://www.rfteknoloji.com.tr/kurumsal",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

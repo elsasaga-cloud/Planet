@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：LinkedIn 公司页（LANshack；1995 进入分销与制造；1996 行业首家全电商；1：LANshack.com（Atcom Services, Inc. 旗下事业部；lanshack.com；Clark / Toms River, NJ）— 1993/1997 年起 · NJ 实体（Atcom Services, Inc. dba LANshack. · Active（Trustpilot 2026-09；站点 2 · 成立 1993（自述）/  · 155 Meadow Rd, Suite 100, Clark, NJ 07066（LinkedIn 列 Toms River, NJ）",
+    "url": "https://www.linkedin.com/company/lanshack",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "JP · 1 次检索：info.gbiz.go.jp/hojin/ichiran?hojinBango=73900010：マハネット株式会社 Mahanet Co., Ltd.（mahanet-jp.com；**gBizINFO：法人番号 7390001009301；設立 2005-02-25；本店  · 法人番号 7390001009301 · 营业中（gBiz 在册 + 官网） · 成立 2005-02-25 · 〒999-3716 山形県東根市大字蟹沢 1646-33, Japan",
+    "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=7390001009301",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

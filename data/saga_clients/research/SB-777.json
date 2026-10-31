@@ -183,5 +183,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：tmb.com Company Profile（1983 年成立，演出制作一站式供应；办公室 Lo：TMB（ProPlex 品牌；tmb.com / proplex.com；San Fernando, CA 总部 + Carlstadt NJ / London / Toronto · CA 实体法定名 / SoS 号未取（公开名 TMB / TMB Product · Active（2025 PLASA 活跃） · 成立 1983 · 527 Park Avenue, San Fernando, CA 91340（总部）；65 Commerce Road, Carlstadt, NJ 0707",
+    "url": "https://tmb.com/about/company-profile/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

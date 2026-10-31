@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：tradeindia.com/teamac-arabia-2748001（Hamriyah Fre：TEAMAC Arabia（teamac-arabia.com；**tradeindia 企业页：Hamriyah Free Zone, P.O. Box 50342, Sharj · 未取（FZ 牌照号 1 查未得） · 营业中（名录 + ZoomInfo 在职 2020– / 2 · 成立 2008 · Hamriyah Free Zone, P.O. Box 50342, Sharjah, UAE",
+    "url": "https://www.tradeindia.com/teamac-arabia-2748001/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

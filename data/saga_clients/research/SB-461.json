@@ -424,6 +424,16 @@
     "batch": "INTEL-06",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：rejstrik.penize.cz（EMOS spol. s r.o.；Šířava 295/1：EMOS spol. s r.o.（emos.cz / emos.eu；普热罗夫 Přerov I-Město Šířava 295/17, 750 02；IČO 19014104 · IČO 19014104；DIČ CZ19014104；C 1167 KS Os · Aktivní（Legrand 子公司） · 成立 1991-07-18 · Šířava 295/17, 750 02 Přerov I-Město",
+    "url": "https://rejstrik.penize.cz/19014104-emos-spol-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

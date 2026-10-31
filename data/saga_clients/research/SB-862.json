@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：magaza.cebecigrup.com Hakkımızda（1978 Cebeci Tele：Cebeci Teleteks San. ve Tic. Ltd. Şti.（Cebeci Grup；cebecigrup.com；伊斯坦布尔 Şişli Okmeydanı）—  · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · Active（2025 站点更新） · 成立 1995（Ltd.； · Halil Rıfat Paşa Mah. Yüzer Havuz Sok. No:8 D:24, 34384 Okmeydanı, Şişli / İstan",
+    "url": "https://magaza.cebecigrup.com/author/admin/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

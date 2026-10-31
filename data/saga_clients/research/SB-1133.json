@@ -234,5 +234,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Northdata（Netram Memory GmbH；Amtsgericht Wupperta：Netram Memory GmbH（netram.de；Wuppertal）— 2005 年起的内存 / 光模块 / 网络配件小型分销商（HRB 19078 Wuppertal； · HRB 19078（Amtsgericht Wuppertal）· EUID D · Aktiv · 成立 2005-03-08 · Dohlenweg 6, 42115 Wuppertal",
+    "url": "https://www.northdata.com/Netram%20Memory%20GmbH,%20Wuppertal/HRB%2019078",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

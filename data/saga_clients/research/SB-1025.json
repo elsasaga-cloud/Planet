@@ -171,5 +171,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：官网 Polityka / Regulamin / Kontakt（KRS 0000700362；：ELFON Miękina Sp. K.（原 ELFON BIS Sp. z o.o. Sp. K.；elfon.com.pl；Kraków）— 波兰楼宇对讲 / IP-SIP 可 · KRS 0000700362 · NIP 6792955142 · REGON  · Active（2026-02 迁新址；招聘区域销售经理） · 成立 2007-10-12 · ul. Półłanki 27A, 30-740 Kraków（2026-02 起）；旧址 ul. Ruciana 3 / ul. Pana Tadeusza ",
+    "url": "https://rejestr.io/krs/700362/elfon-miekina",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -324,5 +324,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "泰国 · DBD 数据仓库需泰文公司名 + 交互查询，无开放镜像；本行为「无登记源」记录（据第 79 批研究档）：Success Network and Communication Co., Ltd.（บริษัท ซัคเซส เน็ตเวิร์ค แอนด์ คอมมิวนิเคชั่น  · （登记状态不可免费核） · 成立 2011-06-24 · 12 Soi Sukhaphiban 5 Soi 5 Yaek 3, Tha Raeng, Bang Khen, Bangkok 10220（Tel 02-97",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

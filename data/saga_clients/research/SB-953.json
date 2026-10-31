@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 2 次检索：第 1 次「네몬 Nemon nemon.co.kr … 사업자등록번호」落空（주식회사 네모 4：(주)네몬 Nemon Co., Ltd.（nemon.co.kr；**设立 2016-07-01；대표 조주철 Cho Ju-cheol**；경기 수원시 영통구 법조로 25, · 未取（사업자등록번호 两查未得） · 营业中（求职站 2025 档在） · 成立 2016-07-01 · 경기 수원시 영통구 법조로 25, 광교에스케이뷰레이크타워 A동 2514호 (하동)",
+    "url": "https://www.jobkorea.co.kr/recruit/co_read/c/nemon0701",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

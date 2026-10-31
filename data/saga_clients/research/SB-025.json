@@ -160,5 +160,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 1 次检索：pappers（SIPE SOCIETE INSULAIRE DE PROTECTION ELEC：SIPE – Société Insulaire de Protection Electronique（SAS；sipe-corse.fr；科西嘉 Ajaccio Les Atel · SIREN 814 329 462；SIRET 81432946200034；T · Active · 成立 2015-10-01 · Les Ateliers de Suartello Lot 217, chemin de Suartello, 20167 Ajaccio",
+    "url": "https://www.pappers.fr/entreprise/sipe-societe-insulaire-de-protection-electronique-814329462",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -237,6 +237,16 @@ A 维持（3 次实质回复 + 自有品牌 + 200+ 经销商），风险是其�
 - 依据：有回信（R±）；身份 登记坐实 · 路径 活 · 回信 R± · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：India · MCA 公司登记（FalconEbiz / Tofler / InstaFinancials / Fil：AECONNECT INDIA PRIVATE LIMITED（AE Connect） · CIN U31200GJ2022PTC132573 · RoC Ahmedaba · Active；全部董事 DIR-3 KYC 已按时提交，无被 · 成立 2022-06-01 · F/9-10 Balaji Centre, Drive-In Road, Memnagar, Ahmedabad 380052, Gujarat · MCA 邮 — <https://www.falconebiz.com/company/AECONNECT-INDIA-PRIVATE-LIMITED-U31200GJ2022PTC132573>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 动态监控（自动 · 网站 / 社媒 / 代码库）
 
 - **监控层**：B 级面层　|　**自动源**：4 个　|　**数据截至**：2026-10-29T15:11:51Z　|　**最近变化**：2026-10-29T15:11:51Z

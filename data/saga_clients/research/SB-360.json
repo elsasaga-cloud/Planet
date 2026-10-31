@@ -406,6 +406,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "UK · Companies House（官方）公司页 + officers 页：LONGTEK ELECTRONICS EUROPE LTD · 05227994 · Active（账目至 2025-03-31 已报；确认声明  · 成立 2004-09-10 · 12 Bishops Close, Enfield EN1 3QJ（**住宅地址 = 家庭公司**）",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/05227994",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

@@ -639,6 +639,16 @@
     "batch": "INTEL-GH-01",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · SEC EDGAR（CIK 1141284：10-K FY2025 2026-03-18、8-K 业绩稿、1：ACTELIS NETWORKS, INC.（NASDAQ / OTC: ASNS） · SEC CIK 1141284 · 上市代码 ASNS（2026 年收到 Nas · Active · **持续经营存疑（going concer · 成立 1998（Delaw · Fremont / Sunnyvale, California（美国）；34 名员工在以色列",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141284/000121390026030946/ea028228701ex99-1.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

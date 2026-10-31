@@ -248,13 +248,14 @@ updated: 2026-10-31
 - 依据：出 A 户（mon）→ 下放 B：Intracom Middle East：希腊 Intracom Telecom 的迪拜项目办公室（2–10 人），采购在总部 → 项目办）；身份 法定名 · 路径 活 · 回信 R+ · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
-## 商业情报·挖底（A 类 · 截至 2026-10-30 · 2 条）
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 3 条）
 
 > 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
 
 **登记**
 
 - 2026-10-30：ZoomInfo / powrbot：INTRACOM Middle East（Intracom Middle East FZE/FZ-LLC）· Dubai, Bldg 3 Ofc 204 · 1–10 employees（Office Manager Oumou Keltoum、Engineer Mohammad Yaacoub、HR Director Sulaiman Rawther）· 母公司 Intracom Telecom（希腊电信系统厂商） — <https://www.zoominfo.com/c/intracom-middle-east/369307611>　*母公司项目办公室（2–10 人），采购在雅典总部 → A-DEEP-09 下放 B*
+- 2026-10-30：GR/AE · 1 次检索：Intracom Telecom「At a glance」（2014-12 SITRONIC：INTRACOM MIDDLE EAST FZE（Dubai；Intracom Telecom 100% 股东）/ INTRACOM TELECOM（Paiania, Greece · FZE（迪拜自贸区）执照号未取；希腊 ΓΕΜΗ 未取（GEMI JS 关闭） · Active · 成立 Intracom T · Intracom Telecom: 19.7 km Markopoulou Ave., Paiania 19002, Greece；FZE: Dubai — <https://www.intracom-telecom.com/en/company/profile/intracom_telecom_glance.htm>　*登记库镜像（公司底数 2026-10-27 批次）*
 
 **GitHub/技术足迹**
 

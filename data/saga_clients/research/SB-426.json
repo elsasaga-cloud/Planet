@@ -195,5 +195,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Deutschland · Handelsregister（Northdata 免费页：HRA / 结构 / 商标专利 ：Helmholz GmbH & Co. KG（Großenseebach；集团 Helmholz Holding GmbH） · Amtsgericht Fürth HRA 10671 · EUID DED33 · Aktiv（2024 年报 2026-02-12 公示） · 成立 2016-06-06 · Hannberger Weg 2, D-91091 Großenseebach（纽伦堡 / 埃尔朗根）",
+    "url": "https://www.northdata.de/Helmholz%20GmbH%20%26%20Co.%20KG,%20Gro%C3%9Fenseebach",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

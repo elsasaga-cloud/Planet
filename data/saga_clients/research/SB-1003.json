@@ -162,5 +162,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网 Impressum（aplus Datenkabel und Kommunikationss：aplus Datenkabel und Kommunikationssysteme GmbH & Co. KG（aplusnet.de / kabelprofi.net；Olde · Amtsgericht Oldenburg HRA 4241（KG）/ HRB  · Active · 成立 1986（业务）/  · Gerhard-Stalling-Straße 34, 26135 Oldenburg",
+    "url": "https://www.aplusnet.de/Informationen/Impressum/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

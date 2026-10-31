@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：entegronnetwork.com/urun/…（Brand: Entegron Switch：Entegron Network（entegronnetwork.com；**官网产品页自有品牌「Entegron Switch」：ENTDPS1300P-8G-1TS-BT-90 · 未取（MERSIS 1 查未得） · 营业中（官网产品页在线） · 成立 未取 · 未取（土耳其）",
+    "url": "https://www.entegronnetwork.com/urun/8-port-10-100-1000mbps-managed-poe-switch-with-2-gigabit-sfp-slots/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

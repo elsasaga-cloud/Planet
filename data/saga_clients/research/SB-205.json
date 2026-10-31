@@ -295,5 +295,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：barox.ch Impressum（Barox Kommunikation GmbH, Weil：Barox Kommunikation GmbH（barox.de；Lörrach）— 瑞士 barox Kommunikation AG 德国子公司 = 同行 · HRB 413457（Amtsgericht Freiburg；旧 HRB 34 · Active · 成立 未取（母公司 199 · Weiler Strasse 7, 79540 Lörrach",
+    "url": "https://www.northdata.com/Barox%20Kommunikation%20GmbH,%20L%C3%B6rrach/Amtsgericht%20Freiburg%20HRB%20413457",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：thuvienphapluat.vn（CÔNG TY TNHH SẢN XUẤT VÀ THƯƠN：CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI NINH THANH / NINH THANH PRODUCTION AND TRADING CO., LT · MST 0106778512 · 营业中（已发 MST） · 成立 2015-02-27 · Số 20, ngách 24, ngõ 38, đường Xuân La, Xuân Đỉnh, Hà Nội, Việt Nam",
+    "url": "https://thuvienphapluat.vn/ma-so-thue/cong-ty-tnhh-san-xuat-va-thuong-mai-ninh-thanh-mst-0106778512.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -227,5 +227,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PK · 1 次检索：synchcom.com.pk about（2005-02 依 Companies Ordinan：SYNCHCOM (PVT.) LIMITED（Islamabad I-8/4；LigoWave 巴基斯坦分销） · SECP 注册号未取 · Active · 成立 2005-02（Ro · 693 Rehman Baba Road, Sector I-8/4, Islamabad 44000",
+    "url": "https://synchcom.com.pk/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

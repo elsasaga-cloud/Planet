@@ -429,6 +429,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · Companies House officers 页（07964960）：3 officers / 2 res：AVESTA (MANCHESTER) LTD（07964960；HiLook 授权分销） · 07964960 · Active · 成立 2012-02-24 · 64 Waterloo Road, Manchester（研究档）；董事通讯地址 6 Hasper Avenue, Manchester M20 1AX",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/07964960/officers",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

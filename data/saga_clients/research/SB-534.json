@@ -217,5 +217,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 1 次检索：annuaire-entreprises.data.gouv.fr（ELFCAM；SIREN 84：ELFCAM SARL（elfcams.com；蒂埃 Thiais 6-8 rue du Travy, 94320（2025-06 起；前 Villejuif / Sartrouv · SIREN 844 111 856；TVA FR36844111856 · Active · 成立 2018-11-20 · 6-8 rue du Travy, 94320 Thiais",
+    "url": "https://www.pappers.fr/entreprise/elfcam-844111856",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：optima-engineering.com/en/corporate/about-optima（：Optima Mühendislik A.Ş.（optima-engineering.com / optima.tc；Başkent OSB, Sincan / Ankara）—  · MERSİS 未取（Ltd. Şti. → A.Ş.） · Active · 成立 2000-12-05 · Başkent Organize Sanayi Bölgesi 19. Cadde No:62, Malıköy, 06909 Sincan / Ankara",
+    "url": "https://www.optima-engineering.com/en/corporate/about-optima",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

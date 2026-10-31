@@ -172,5 +172,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网首页（「我们制造视频 / 音频 / 数据光纤传输系统」）+ LinkedIn 公司页（1990：Meridian Technologies, Inc.（Elmont, NY；光纤传输设备制造商） · 未取（NY DOS 检索 JS-only） · Active（官网 + LinkedIn 在线） · 成立 1990（Linke · Elmont, NY 11003（长岛，距纽约市 20 英里）",
+    "url": "https://www.meridian-tech.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

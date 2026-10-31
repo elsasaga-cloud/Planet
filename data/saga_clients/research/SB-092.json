@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：wyszukiwarkakrs / bizraport / aleo / gowork（KRS 0：Spacetronik Sp. z o.o.（spacetronik.pl；Kościan, wielkopolskie） · KRS 0000993625 · NIP 6981862105 · REGON  · Aktywna（VAT 活跃；KRZ 无记录；最近登记 20 · 成立 2022-09-23 · ul. Wiśniowa 36, 64-000 Kościan（波兹南以南）",
+    "url": "https://www.bizraport.pl/krs/0000993625/spacetronik-spolka-z-ograniczona-odpowiedzialnoscia",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

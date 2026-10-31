@@ -239,5 +239,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "OM · 1 次检索：om.indeed.com（Smart Home Engineer — TIS Control O：TIS Control Oman（mkseoman.com / tiscontrol.com；**1 查仅 indeed 招聘（2026-04，hr@mkseoman.com，Mu · 未取（1 查无地址 / CR） · 营业中（2026-04 招聘） · 成立 未取 · 未取（Muscat, Oman）",
+    "url": "https://om.indeed.com/q-smart-technologies-jobs.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

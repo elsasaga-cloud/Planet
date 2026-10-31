@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：adj.it 页脚（© 2025 ADJ；P.IVA e CF 04446661219；I pro：ADJ（品牌；进口与分销主体 IoT Tecnologie s.r.l.，P.IVA / CF 04446661219；adj.it；罗马 San Cesareo Via dell · P.IVA / CF 04446661219（IoT Tecnologie s. · Active · 成立 品牌 2006 · Via della Faeta 1, 00030 San Cesareo (RM)",
+    "url": "https://www.adj.it/chi-siamo/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

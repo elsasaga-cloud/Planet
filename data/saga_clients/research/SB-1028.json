@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：官网 About / Terms（「Fiber Savvy is a division of CR：Fiber Savvy = CRN Solutions, LLC dba Fiber Savvy（fibersavvy.com；Lake Elsinore, California） · CA LLC（CRN Solutions, LLC；SoS 号未取） · Active（站点在线） · 成立 1996（CRN S · 29415 Hunco Way, Suite F, Lake Elsinore, CA 92530",
+    "url": "https://www.fibersavvy.com/pages/about-fiber-savvy",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

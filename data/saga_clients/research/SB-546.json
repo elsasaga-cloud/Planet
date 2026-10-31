@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · ABR 官方（ABN Lookup 名称搜索 + ABN 详情页，2026-10-27 取；ASIC 董事付费：NESS CORPORATION PTY LIMITED（商号 Ness Security Products / Valet / Protect Direct） · ABN 28 069 984 372（ACN 069 984 372） · Active（ABN 自 2000-04-13；GST 自  · 成立 1995 前后（AC · NSW 2147（Seven Hills，悉尼西）",
+    "url": "https://abr.business.gov.au/ABN/View?abn=28069984372",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

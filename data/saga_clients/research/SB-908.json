@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：informazione-aziende（Ct Service Di Cerino Gianluc：CT Service di Cerino Gianluca（Techlu 网店 techlu.it / ctservicestore.it；坎波巴索 Viale Duca d’Ao · P.IVA 01771320700；CF CRNGLC67L29L483I · Active · 成立 未取（3–10 年） · Viale Duca d’Aosta 43, 86100 Campobasso (CB)",
+    "url": "https://www.informazione-aziende.it/Azienda_CT-SERVICE-DI-CERINO-GIANLUCA",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

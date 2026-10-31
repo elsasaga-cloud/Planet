@@ -176,5 +176,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IL · 1 次检索：dnb.com（PAL WINTEC SYSTEMS LTD；20 Hamagshimim PET：Pal Wintec Systems Ltd（palwintec.com；**D&B：20 Hamagshimim St., Petah Tikva 4934829；inter-f · 未取（公司号 1 查未得） · 营业中（官网 + 企业库） · 成立 2000 · 20 Hamagshimim St., P.O. Box 7184, Petah Tikva 4934829, Israel",
+    "url": "https://www.dnb.com/business-directory/company-profiles.pal_wintec_systems_ltd.41d48ad1a0335f9455abaa962c86bea9.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TH · 1 次检索：dataforthai（บริษัท คลาวด์ ไอที เน็ทเวิร์ค จำกัด C：บริษัท คลาวด์ ไอที เน็ทเวิร์ค จำกัด CLOUD IT NETWORK CO., LTD.（clouditnetwork.com；**เลขทะเ · เลขทะเบียนนิติบุคคล 0125554018059 · ยังดำเนินกิจการอยู่（营业中；财报连续 5 · 成立 2011-09-29 · 51/1 Mongkhon Niwet Village, Soi Ngamwongwan 48, Lat Yao, Chatuchak, Bangkok 109",
+    "url": "https://www.dataforthai.com/company/0125554018059/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

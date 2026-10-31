@@ -451,6 +451,16 @@
     "batch": "INTEL-18",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · Companies House 总览（web_search 片段）+ officers 页 fetch_pag：SURE24 LIMITED（04863038；Bingham, Nottinghamshire） · 04863038 · Active · 成立 2003-08-11 · Sure House, 2 Moorbridge Court, Moorbridge Road East, Bingham, Nottinghamshire, ",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04863038/officers",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

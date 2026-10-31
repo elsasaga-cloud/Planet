@@ -282,5 +282,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PK · 1 次检索：comtech.net.pk（CEO Muhammad Farooq ZAHEER；The Hiv：COMTECH ASSOCIATES（Pvt.）LTD（Karachi；Cisco Partner of the Year 2026 Pakistan） · SECP 注册号未取 · Active · 成立 2010（Linke · The Hive 3rd Floor, NASTP, Shahrah-e-Faisal, Karachi（另 Office 53/3 Sheet 17 Khad",
+    "url": "https://comtech.net.pk/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

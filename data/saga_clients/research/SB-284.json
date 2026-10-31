@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：provowire.com/about-provo（Established in Montreal：Provo Ltd. / Provo Ltée（provowire.com；总部 620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8；蒙特 · 未取（登记号） · Active · 成立 1958 · 620 Rowntree Dairy Rd., Woodbridge, ON L4L 5T8",
+    "url": "https://www.provowire.com/about-provo",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -226,6 +226,20 @@ updated: 2026-10-31
 - 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TR · 1 次检索：官网 hakkımızda / iletişim（2002 成立，1,500+ bayi，一站式安：ÖNCÜ GÜVENLİK SİSTEMLERİ A.Ş.（Kavacık / Beykoz, İstanbul；1,500+ 经销商） · VKN 6560323830（Beykoz） · Aktif · 成立 2002（业务）/  · Kavacık Mah. Fatih Sultan Mehmet Cad. Yayabeyi Sk. No:8, 34810 Beykoz / İstanbul — <https://www.oncuguvenlik.com.tr/tr/bilgi/hakkimizda>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-31：LinkedIn / SignalHire / X：Öncü Güvenlik Sistemleri A.Ş. · Kavacık, İstanbul（Yaya Beyi Sokak）· 2002 年 · 51–200（100–200）· 「elektronik güvenlik sistemlerinde uluslararası markaların … ulaştırılması」· Hikvision 土耳其分销（2024-04 Hikvision MEA 毛里求斯分销商大会获奖）· 自牌 Sec-on · 集团人物 Osman Çalışkan（Öncü Group / MÜSİAD 副主席）；销售 Hakan Kırmızıgül、Çağla Battal、Banu；技术服务经理 Ali Rifat Türk — <https://tr.linkedin.com/company/oncuguvenliksistemleri>　*土耳其头部安防分销商（Hikvision 获奖 + 自牌 Sec-on）→ 回信即 A 候选；B1 第一轮重点*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-07-04 → 2026-09-21　|　**最后去信**：2026-09-21

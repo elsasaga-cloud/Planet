@@ -200,5 +200,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "JP · 1 次检索：dreamnews.jp/press/0000337263（ソリッド株式会社；代表取締役社長 徳岡：ソリッド株式会社 Solid Corp.（品牌「ソリッドケーブル」solidcable.com；**PR 稿会社概要：〒541-0042 大阪府大阪市中央区今橋 2-3-16 5F · 未取（法人番号 1 查未得） · 营业中（PR 2025-12；EC 在） · 成立 未取（EC 2004 · 〒541-0042 大阪府大阪市中央区今橋 2-3-16 5F, Japan",
+    "url": "https://www.dreamnews.jp/press/0000337263",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

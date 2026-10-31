@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AE · 1 次检索：pixcom.ae（PIXCOM TECHNOLOGIES LLC is a full-servi：Pixcom Technologies LLC（pixcom.ae；**P.O. Box 252173, Dubai；+971 4 580 6222；办公室 印度 HQ / 迪拜  · 未取（LLC；牌照号 1 查未得） · 营业中（官网在） · 成立 2003 / 200 · P.O. Box 252173, Dubai, UAE（门牌未取）",
+    "url": "https://pixcom.ae/contact/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

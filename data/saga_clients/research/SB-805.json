@@ -157,5 +157,20 @@
   "path": "弱",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：cctvspot.co.uk About Us（「MB Vision Ltd.；Headquart：CCTVSpot.co.uk = **MB Vision Ltd.（保加利亚 Plovdiv）**— 2012 年起的 CCTV 设备进口 / 在线分销商（Hikvision /  · BG ЕИК / VAT 202150972 · UK VAT GB411290 · Active（站点在线） · 成立 2012（自述） · ul. Sredets 20, 4003 Plovdiv, Bulgaria（英国站无实体地址）",
+    "url": "https://cctvspot.co.uk/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

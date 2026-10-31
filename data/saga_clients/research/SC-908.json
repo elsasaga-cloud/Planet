@@ -190,5 +190,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：bluecom.cz/advantech（法人 / IČ / 登记 / 地址）+ bluecom.：BLUECOM s.r.o. — prumysloveswitche.cz（bluecom.cz；**官网 Advantech 页 / networkmanagement.cz：I · 25955993（IČ；Hradec Králové C 17530） · 营业中（官网在线） · 成立 未取 · Nerudova 1034, 537 01 Chrudim",
+    "url": "https://www.bluecom.cz/advantech",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

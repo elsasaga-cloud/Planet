@@ -217,5 +217,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：edge-networks.us/about-us（2019 创立；President & CTO：Edge Networks LLC / Edge Networks USA（edge-networks.us；Charleston, SC） · SC SoS 实体号未取 · Active（官网 / LinkedIn 2026） · 成立 2019（Linke · 412 Brandam Ln Ste 103, Charleston, SC 29492（(843) 654-9266）",
+    "url": "https://edge-networks.us/index.php/about-us",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

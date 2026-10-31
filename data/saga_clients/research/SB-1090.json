@@ -250,5 +250,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BR · 1 次检索：jusbrasil.com.br/nome/tramaweb-agencia-de-noticia：tramaweb.com.br（**域名实体 = Tramaweb Agência de Notícias Ltda，CNPJ 14.254.716/0001-20，Rua Cub · CNPJ 14.254.716/0001-20（域名实体） · ATIVA（新闻社） · 成立 2011-08-15 · Rua Cubatão 86, Conj 1007, Vila Mariana, São Paulo - SP 04013-000, Brazil",
+    "url": "https://www.econodata.com.br/consulta-empresa/14254716000120-tramaweb-agencia-de-noticias-ltda",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

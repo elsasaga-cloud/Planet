@@ -164,5 +164,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：Iberinform（GUILERA SA；CIF A08851461；CALLE RAMON L：GUILERA, S.A.（guilera.com；品牌 ADILEC = 光纤通信系统；巴塞罗那 Molins de Rei C/ Ramon Llull 8, 08750；CI · CIF A08851461 · Active · 成立 1981-07-22 · C/ Ramon Llull 8, 08750 Molins de Rei (Barcelona)",
+    "url": "https://www.iberinform.es/empresa/229493/guilera",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

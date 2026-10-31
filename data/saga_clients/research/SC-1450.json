@@ -186,5 +186,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：microlinknet.com/wp-content/uploads/2024/01/Micro：MICROLINK NETWORKS LLC / NODEXON 品牌（microlinknet.com / nodexon.com；**公司简介 PDF：独立私营、总部 Hous · 未取（TX / NY 登记 1 查未得） · 营业中（官网 2026） · 成立 1994 · 70 E Sunrise Hwy, Valley Stream, NY（ZoomInfo）/ Houston, TX（简介）",
+    "url": "https://nodexon.com/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "FR · 2 次检索（首次 Montrouge 误定位）：pappers（EQUIPEMENTS SCIENTIFIQU：EQUIPEMENTS SCIENTIFIQUES（ES France；es-france.com；Hauts-de-Seine Garches 127 rue de Buzenv · SIREN 353 579 634；SIRET 35357963400018 · Active · 成立 1990-01-26 · 127 rue de Buzenval, 92380 Garches",
+    "url": "https://www.pappers.fr/entreprise/equipements-scientifiques-353579634",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

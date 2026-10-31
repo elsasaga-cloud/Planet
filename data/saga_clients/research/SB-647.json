@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 İletişim（Art Telekom San.Tic.Ltd.Şti.；Mutluken：Art Telekom San. Tic. Ltd. Şti.（LinkedIn / EMIS 写 ART TELEKOM A.Ş.；arttelekom.com.tr；Ankar · Ltd. Şti.（官网）/ A.Ş.（LinkedIn / EMIS）并存 — · Active（官网在线；两地办公） · 成立 1980（自述）/  · Mutlukent Mah. Angora Bulvarı Fesleğen Sok. No 7, Beysukent / Çankaya, Ankara 06",
+    "url": "https://www.arttelekom.com.tr/iletisim/art-telekom-iletisim",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -214,5 +214,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：twfile（訊舟科技股份有限公司 EDIMAX TECHNOLOGY CO., LTD.；統編 ：訊舟科技股份有限公司 EDIMAX TECHNOLOGY CO., LTD.（edimax.com；**上市 TWSE 3047；統一編號 22164580；設立 1986-06- · 統一編號 22164580 / TWSE 3047 · 上市 / 核准設立 · 成立 1986-06-28 · 臺北市內湖區新湖一路278號 / No. 278, Xinhu 1st Rd., Neihu Dist., Taipei City",
+    "url": "https://www.twfile.com/item.aspx?no=22164580&sn=2461840",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

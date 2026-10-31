@@ -222,5 +222,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ZA · 1 次检索：duxbury.co.za/privacy-policy/（法人 + 注册号 + 地址）+ tel：DUXBURY TRANSMISSION EQUIPMENT (PTY) LIMITED t/a Duxbury Networking（duxbury.co.za；**官网 Pri · 2018/441897/07 · 营业中（官网 2026） · 成立 1984（现法人 2 · Block 1, Riviera Office Park, 66 Oxford Rd, Parktown, Johannesburg 2193",
+    "url": "https://www.duxbury.co.za/privacy-policy/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

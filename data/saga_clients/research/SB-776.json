@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "SG · 1 次检索：recordowl（FIDA INT'L (S) PTE LTD；UEN 199101937H；R：FIDA INT'L (S) PTE LTD = PROLiNK 品牌（prolink2u.com；**UEN 199101937H；1991 年起**；16 Kallang Pl · UEN 199101937H · Live（年报 2026-07-20 已报） · 成立 1991 · 16 Kallang Place #06-01/04, Singapore 339156",
+    "url": "https://recordowl.com/company/fida-int-l-s-pte-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

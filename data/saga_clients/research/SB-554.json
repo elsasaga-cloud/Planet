@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（SYSNET S.R.L.；P.IVA 12548250153；R：SYSNET S.R.L.（原 Sysnet Telematica S.r.l.；sysnettelematica.it / sysnetexplorer.com；Via Lore · P.IVA 12548250153 / REA MI-1565510 · Attiva · 成立 1998-07-30 · Via Lorenzo Valla 16, 20141 Milano (MI)",
+    "url": "https://www.ufficiocamerale.it/4286/sysnet-telematica-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

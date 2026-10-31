@@ -163,5 +163,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：EMIS（Klemsan Elektrik Elektronik A.S.；成立 1974-07-：KLEMSAN Elektrik Elektronik Sanayi ve Ticaret A.Ş.（klemsan.com.tr；İzmir Kemalpaşa）— 1974 年 · A.Ş.（İzmir 商会；MERSİS 号未取） · Active（2024 50 周年；2026 官网更新） · 成立 1974-07-20 · Kızılüzüm Mah. Kemalpaşa Kızılüzüm Cad. No 15, 35730 Kemalpaşa / İzmir（总部工厂）；İzm",
+    "url": "https://www.emis.com/php/company-profile/TR/Klemsan_Elektrik_Elektronik_AS_en_3358804.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

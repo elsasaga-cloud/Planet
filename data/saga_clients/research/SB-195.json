@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvizitai.vz.lt（BK grupė, UAB；Registration code ：BK grupė, UAB（Uždaroji akcinė bendrovė Baltijos kontaktų grupė；bkgrupe.lt；考纳斯 Pramonės pr. · Įmonės kodas 210599550；PVM LT105995515 · Veikiantis · 成立 1994-03-07 · Pramonės pr. 4D, LT-51329 Kaunas",
+    "url": "https://rekvizitai.vz.lt/en/company/bk_grupe/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：efb-elektronik.de UKCA 声明页（HRB / USt-ID / GF / 地址：EFB-Elektronik GmbH（efb-elektronik.de；**HRB 33008 AG Bielefeld；USt-IdNr. DE 126943218；Stri · HRB 33008（AG Bielefeld） · 营业中（2026-10 自署 UKCA 声明） · 成立 未取 · Striegauer Straße 1, 33719 Bielefeld",
+    "url": "https://www.firmendatenbanken.de/unternehmen/detail/463966/efb-elektronik-gmbh.htm",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

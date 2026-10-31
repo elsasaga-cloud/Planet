@@ -427,6 +427,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IL · רשם החברות 镜像（israeli-companies / obudget / b2bhint：ח.פ：AIRONIX SYSTEMS LTD（איירוניקס מערכות בע\"מ） · ח.פ. 515461101 · פעילה（在营；2020 快照「最近提交年报 2019」→ · 成立 2016-05-30 · Ha'Ofe St. 2, Kadima 6092000（特拉维夫以北）",
+    "url": "https://next.obudget.org/i/org/company/515461101",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

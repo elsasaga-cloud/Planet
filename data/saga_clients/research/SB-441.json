@@ -165,5 +165,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：metalunion.pl/kontakt（Metal Union sp. z o.o.；ul. ：„METAL UNION” Sp. z o.o.（metalunion.pl；Częstochowa）— 冷弯精密钢型材制造商 = 成单终端用户（€50 光模块） · KRS 0000138529（NIP 5731021083；REGON 1500 · Aktywna（2026-06-30 有变更） · 成立 1995-04-26 · ul. Żyzna 11F, 42-200 Częstochowa",
+    "url": "https://www.metalunion.pl/kontakt",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

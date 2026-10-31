@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 iletişim / kurumsal（地址 / 电话与用户表一致）+ LinkedIn İ：Viva Bilgisayar Bilgisayar & Güvenlik Sistemleri（Defne / Hatay；推定 şahıs） · 未取（Ticaret Sicil 未命中；推定个体） · Aktif（官网 2026-07 更新） · 成立 未取（LinkedI · Sümerler Mah. 16. Sk. No:16/3, Defne / Hatay（旧址 Odabaşı Mah. Atatürk Blv. 127/1,",
+    "url": "https://vivabilgisayar.net/kurumsal/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

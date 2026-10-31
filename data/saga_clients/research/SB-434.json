@@ -192,5 +192,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "ES · 1 次检索：einforma（S CONNECT S.L.；CIF B64872484；Fecha Const：S CONNECT S.L.（S-Connect；Sociedad limitada unipersonal；s-connect.es；巴塞罗那 C/ Villarroel 216 · CIF B64872484 · Activa · 成立 2008-05-07 · C/ Villarroel 216, 4º 3ª, 08036 Barcelona",
+    "url": "https://www.einforma.com/informacion-empresa/s-connect",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

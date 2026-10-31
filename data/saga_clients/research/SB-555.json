@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：companiesofcanada.com（TACEL LTD. 081582-9；Canada ：TACEL LTD.（tacel.ca；联邦公司号 081582-9，CBCA 1979-02-14；总部 1148 Bellamy Road North, Scarborough · 联邦公司号 081582-9（Corporations Canada） · Active · 成立 1979-02-14 · 1148 Bellamy Road North, Scarborough, ON M1H 1H2",
+    "url": "https://www.companiesofcanada.com/company/081582-9/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

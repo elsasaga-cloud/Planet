@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：官网 About（Raytel Security Systems Limited；Raytel H：Raytel Security Systems Limited（raytelsecurity.com；South Woodham Ferrers, Essex）— 门禁 / 门口机 · Companies House 01280393；VAT GB 394 9607 · Active · 成立 1976-10-06 · Raytel House, 1-5 Cutlers Road, South Woodham Ferrers, Chelmsford, Essex CM3 5WA",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/01280393",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

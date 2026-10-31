@@ -300,5 +300,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IE · 1 次检索（Gmail 户 1 查即停）：LinkedIn（Tomasz Gluszek — AT Netwo：Tomasz Głuszek（个人；gluszek.tomasz@gmail.com；爱尔兰 +353 83；波兰裔安装商）— LinkedIn 有同名「Tomasz Glusze · 未取（个人） · — · 成立 — · 爱尔兰（具体未取）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -187,6 +187,16 @@ updated: 2026-10-31
 - 依据：有回信（R+）；身份 登记坐实 · 路径 活 · 回信 R+ · 区域档 second
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：IN · 1 次检索：zaubacorp（BITS AND BYTE IT CONSULTING PRIVATE LIM：Bits and Byte IT Consulting Pvt. Ltd.（bits&BYTE；bitsandbyte.net；CIN U72900KA2015PTC145953（ · CIN U72900KA2015PTC145953 · Active · 成立 2015-05-20 · #52, 2nd Floor, Vittal Mallya Road, Bangalore 560001 — <https://www.zaubacorp.com/company/BITS-AND-BYTE-IT-CONSULTING-PRIVATE-LIMITED/U72900KA2015PTC145953>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2025-04-09 → 2026-09-23　|　**最后去信**：2026-09-23

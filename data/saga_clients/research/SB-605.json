@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · Obchodní rejstřík 镜像（fakturujzdarma：IČO / DIČ / 资本 / 人数：ELKOV elektro a.s. · IČO 26279690 · DIČ CZ26279690 · Krajský  · Aktivní（可靠增值税纳税人，无破产） · 成立 2002-03-04 · Kšírova 701/255, Horní Heršpice, 619 00 Brno-jih",
+    "url": "https://or.justice.cz/ias/ui/rejstrik-$firma?ico=26279690",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

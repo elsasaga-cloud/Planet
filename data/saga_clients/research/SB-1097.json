@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：finmag（YATUN, s.r.o.；IČO 28176791；DIČ CZ28176791；：YATUN, s.r.o.（yatun.cz；布拉格 10 Strašnice V Olšinách 2300/75, 100 00（展厅 Slapská 2115/1；办公 Li · IČO 28176791；DIČ CZ28176791 · Active · 成立 2007-10-30 · V Olšinách 2300/75, 100 00 Praha 10 – Strašnice",
+    "url": "https://www.finmag.cz/obchodni-rejstrik/28176791-yatun-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

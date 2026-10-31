@@ -205,6 +205,20 @@ LT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。
 - 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TR · 1 次检索：cenova.com.tr hakkımızda + üyelik sözleşmesi（法定全名：Cenova Güvenlik（cenova.com.tr；Perpa B Blok K:8 No:902-904 Şişli） · VKN 2060665571（Şişli VD） · Aktif（2024 招聘、官网 / X 活跃） · 成立 2002（业务起点； · Perpa Ticaret Merkezi Elektrokent B Blok Kat:8 No:902-903-904, Şişli / İstanbul（ — <https://www.cenova.com.tr/sayfa/uyelik-sozle%C5%9Fmesi>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-31：LinkedIn / Datanyze：CENOVA BİLİŞİM TEKNOLOJİLERİ İTH. İHR. ve TİC. LTD. ŞTİ.（Cenova Güvenlik）· Perpa Ticaret Merkezi B Blok Kat 8 No 902, Okmeydanı, İstanbul · 2002/2004 年起 · 11–50（16–18 人）· 「yurtdışındaki üreticiler ile distribütörlük temsilcilik anlaşmaları」· 在售 Tiandy 热成像/PTZ、Dayzip AHD；员工：Rıdvan Baydemir（销售）、Abdurrahman Erkarslan（技术主管）、Ramazan Pişkin（仓库） — <https://tr.linkedin.com/company/cenova-bili%C5%9Fim>　*Perpa 安防进口分销商（Tiandy 等），16–18 人*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2024-06-27 → 2026-09-17　|　**最后去信**：2026-09-17

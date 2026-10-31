@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：mangcongnghiep.vn 产品页页脚（法人名 / MST / 地址 / 热线 / 邮箱 ：CÔNG TY TNHH THƯƠNG MẠI VÀ PHÁT TRIỂN CÔNG NGHỆ TÂN TIẾN（mangcongnghiep.vn；**MST 011007905 · 0110079059（MST） · 营业中（官网 2022–） · 成立 未取（MST 011 · Nhà 6A, ngách 207/28 phố Bùi Xương Trạch, Khương Đình, Thanh Xuân, Hà Nội",
+    "url": "https://mangcongnghiep.vn/switch-mang-cong-nghiep-5-port-4-rj45-1-cong-quang-3onedata-ies215-1f/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -199,5 +199,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 1 次检索：官网（ACE Distributors Ltd；「Aerials & Cable Equipmen：Aerials & Cable Equipment Ltd（商号 ACE Distributors；aceonline.co.uk；Cheltenham）— 1983 年起天线 / · 部分坐实（法人名 Aerials & Cable Equipment Ltd；公 · Active（站点 + LinkedIn 在线） · 成立 1983 · Cheltenham, Gloucestershire（门牌未取）",
+    "url": "https://www.linkedin.com/company/aerials-&-cable-equipment-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：Impressum（BR Network Solutions GmbH, Emmericher S：BR Network Solutions GmbH（br-network-shop.de / br-network.de；Kleve）— 数据网络 / 电信 / 监控技术专业批发商 · HRB 3402（Amtsgericht Kleve） · Active（AGB 2025-09；2024 新增两名 P · 成立 2002-05-28 · Emmericher Straße 261, 47533 Kleve（下莱茵，荷兰边境）",
+    "url": "https://www.br-network-shop.de/content/2-impressum",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

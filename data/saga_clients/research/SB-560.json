@@ -170,5 +170,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "EU · 1 次检索：womaster.eu/about.php（offices in Spain (Barcelona：WoMaster Europe（womaster.eu；**官网 about：WoMaster Group 欧洲总部 Barcelona, Spain（欧洲运营 / 技术支持 /  · 未取（ES / TW 登记号 1 查未得） · 营业中（集团官网） · 成立 未取（集团 20+  · Barcelona, Spain（欧洲总部；街道未取）",
+    "url": "https://www.womaster.eu/about.php",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

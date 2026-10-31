@@ -239,5 +239,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IS · 1 次检索：官网 / english 页（1997 由 David Askelsson + Johann Si：IceCom ehf.（Garðabær, Iceland） · kennitala 540102-2440（现 ehf，2002-01-14）； · Active（Facebook / 官网在线；keldan  · 成立 1997（原主体）/ · Lyngás 10, 210 Garðabær, Iceland",
+    "url": "https://keldan.is/Fyrirtaeki/Yfirlit/5401022440",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

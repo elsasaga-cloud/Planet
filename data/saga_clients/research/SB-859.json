@@ -205,5 +205,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：T.C. Ticaret Bakanlığı ETBİS 站点档案（www.baburtech.c：BABURTECH BİLİŞİM SANAYİ VE TİCARET ANONİM ŞİRKETİ（baburtech.com；Ankara Kızılay）— 2007 年起的 · MERSİS 0128085731200001 · Vergi No 12808 · Aktif（ETBİS 在册；站点在线） · 成立 2007（Linke · Cumhuriyet Mah. Ziya Gökalp Cad. No 9/3, Kızılay, Çankaya / Ankara",
+    "url": "https://www.eticaret.gov.tr/siteprofil/DBF006896AD84356AECB2A471AD82BE2/wwwbaburtechcom",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

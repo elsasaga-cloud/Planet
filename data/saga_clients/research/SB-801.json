@@ -215,5 +215,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：bizprofile（Aurcore Technology Inc.；General Corpor：Aurcore Technology Inc.（aurcore.net；Lake Forest, California）— 2024-08-20 在加州登记（SoS 文件号 635 · CA SoS 6354007（General Corporation；2024- · Active · 成立 2024-08-20 · 20472 Crescent Bay Dr #102, Lake Forest, CA 92630（登记地址 25691 Atlantic Ocean Driv",
+    "url": "https://www.bizprofile.net/ca/lake-forest/aurcore-technology-inc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

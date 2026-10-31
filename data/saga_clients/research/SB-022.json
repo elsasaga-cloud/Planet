@@ -420,6 +420,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：shop.desk-sicherheit.de/impressum（DESK SICHERHEIT：Desk Sicherheit GmbH（desk-sicherheit.de；Karlsruhe）— 微型安保 / 安防技术公司，GF = 研究档 KP · Amtsgericht Mannheim HRB 717686 · Active · 成立 2013-06-28 · Roonstraße 25, 76137 Karlsruhe",
+    "url": "https://www.northdata.com/Desk%20Sicherheit%20GmbH,%20Karlsruhe/Amtsgericht%20Mannheim%20HRB%20717686",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

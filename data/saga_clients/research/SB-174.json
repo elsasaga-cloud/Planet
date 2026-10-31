@@ -215,5 +215,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：PESİAD（Pendik 工商协会）会员页（法定全名 + 代表 Nurbaki KARATAŞ ：Karer Güvenlik Sistemleri（karerguvenlik.com；Pendik / İstanbul） · Mersis / VKN 未取 · Aktif（PESİAD 会员、X / Facebook 活 · 成立 2006 · Yayalar Mah. Atasever Cd. No:44, Pendik / İstanbul（1000 m² 自有场地；0216 397 33 88）",
+    "url": "https://www.pesiad.org.tr/firmalar/karer-guvenlik-sistemleri-sanayi-ve-ticaret-ltd-sti",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

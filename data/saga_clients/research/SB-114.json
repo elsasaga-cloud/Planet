@@ -168,5 +168,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PK · 1 次检索：linkedin.com/in/abdul-mateen-awan-050a5a93（Swift ：Swift Solution & Services（swift.net.pk；**伊斯兰堡；业主 Abdul Mateen Awan（领英 + ICCI 会员名录）；2003 年成 · 未取（独资；登记号 1 查未得） · 营业中（商会名录 + 领英） · 成立 2003 · Islamabad, Pakistan（门牌未取）",
+    "url": "https://www.icci.pk/listing/swift-solution-services/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

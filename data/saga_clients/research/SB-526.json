@@ -151,5 +151,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale 同名命中（A.I. AUTOMAZIONE INDUSTRIALE：automationstore.it（经营主体未坐实；自动化产品网店；快照为验证等待页；仅 info@）— 1 次检索未命中（结果为同名无关 A.I. AUTOMAZIONE IN · 未取 · 未取 · 成立 未取 · 未取",
+    "url": "https://www.automationstore.it/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

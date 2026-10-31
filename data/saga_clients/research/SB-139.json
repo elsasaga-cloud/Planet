@@ -163,5 +163,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网页脚（Acusense Teknolojileri；Merdivenköy Mah. Diky：Acusense Teknoloji ve Güvenlik Sistemleri Ltd. Şti.（acusenseteknoloji.com / hikvisionsatis · Ltd. Şti.（İstanbul 商事登记；MERSİS 未取） · Active（2026 站点更新） · 成立 未取 · Merdivenköy Mah. Dikyol Sok. No:2 Business İstanbul Plaza B Blok No:179, Kadıköy",
+    "url": "https://bayifi.com/marka/hikvision",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

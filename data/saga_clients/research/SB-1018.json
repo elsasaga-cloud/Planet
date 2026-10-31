@@ -212,5 +212,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：coeldistribution.it 页脚 / Contattaci（Coel Distribu：COEL DISTRIBUTION SRL（coeldistribution.it；蒙扎-布里安扎 Muggiò Via Fratelli Bandiera 9/A, 20835（ · P.IVA / CF 11989650152；REA MB-2629252 · Active · 成立 1994（活动）/  · Via Fratelli Bandiera 9/A, 20835 Muggiò (MB)",
+    "url": "https://www.aziende.it/coel-distribution-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

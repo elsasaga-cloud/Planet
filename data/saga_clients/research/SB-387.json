@@ -196,5 +196,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：fatwiredist.ca（9325 - 63 AVENUE Edmonton Alberta ：Fatwire Distributors（Fat Wire Distribution；法定名 / 阿省登记号未取；fatwiredist.ca；9325 63 Avenue NW, · 未取（阿省登记号） · Active · 成立 2010 · 9325 63 Avenue NW, Edmonton, AB T6E 0G2",
+    "url": "https://www.fatwiredist.ca/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

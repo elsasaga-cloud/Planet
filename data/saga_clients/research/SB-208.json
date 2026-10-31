@@ -201,5 +201,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：delock.de Impressum（Tragant Handels- und Beteilig：TRAGANT Handels- und Beteiligungsgesellschaft mbH（Delock / Navilock；Berlin） · HRB 45788 B（Amtsgericht Charlottenburg）； · Active · 成立 1992（创立）/  · Beeskowdamm 13/15, 14167 Berlin",
+    "url": "https://www.northdata.com/TRAGANT%20Handels-%20und%20Beteiligungsgesellschaft%20mbH,%20Berlin/Amtsgericht%20Charlottenburg%20(Berlin)%20HRB%2045788%20B",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

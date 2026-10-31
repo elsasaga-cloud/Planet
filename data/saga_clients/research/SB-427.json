@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：官网 Hakkımızda / İletişim（Longline Bilişim Teknolo：Longline Bilişim Teknolojileri Ltd. Şti.（longline.com.tr / longlinenetwork.com；İstanbul Ba · Ltd. Şti.（İstanbul；MERSİS 号未取） · Active（官网 2025 更新） · 成立 2000 · Kartaltepe Mah. Hakan Sok. Longline Plaza No 18, 34040 Bayrampaşa / İstanbul；旧址 ",
+    "url": "https://longline.com.tr/en/products/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

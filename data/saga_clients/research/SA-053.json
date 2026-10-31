@@ -485,6 +485,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "印尼 · AHU 登记需付费，OSS/NIB 不公开；本行为「无登记源」记录（据第 79 批研究档）：PT. Divatel Pratama · （登记状态不可免费核） · 成立 2001 · Menara Kuningan 6th Floor, Jl. H.R. Rasuna Said Blok X-7 Kav.5, Jakarta Selatan ",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

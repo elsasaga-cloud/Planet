@@ -248,5 +248,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Italia · 官网页脚（C.F./P.IVA 04527921219，2026）+ Kompass（成立 / 员工档：4POWER S.R.L.（自有品牌 4Net；Planet 意大利官方分销） · C.F. / P.IVA 04527921219（REA NA 号待补） · Attiva（官网 2026 更新） · 成立 2003（Kompa · Via Paolo Borsellino 123, 80025 Casandrino (NA)",
+    "url": "https://www.4power.it/content/8-richiesta-registrazione",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

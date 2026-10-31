@@ -190,6 +190,16 @@ LT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official
 - 依据：OK 但无回信/非主攻；身份 登记坐实 · 路径 活 · 回信 none · 区域档 other
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：ZA · 1 次检索：reditron.co.za Credit-Application PDF（Reg No / 地址：Reditron (Pty) Ltd（reditron.co.za；**信用申请表自报 registration number 2002/028391/07；9 Electron  · 2002/028391/07（Reg No.，自报） · Active（官网 2024） · 成立 2002 · 9 Electron Street, Linbro Business Park, Sandton 2090 — <https://reditron.co.za/wp-content/uploads/2024/10/Reditron-Credit-Application-2022_Editable.pdf>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：18 封（去 18 / 来 0）　|　**期间**：2025-01-14 → 2026-10-02　|　**最后去信**：2026-10-02

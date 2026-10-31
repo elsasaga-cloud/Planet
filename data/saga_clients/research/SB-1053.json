@@ -180,5 +180,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：官网首页（「Seit 1996 … Netzwerkverkabelung, Glasfaserk：ServiceNet EDV-Vertrieb GmbH（店名 lichtleiterkabel.com；Niederkassel）— 1996 年起的 LWL 光缆定制 / 网络 · GmbH（Niederkassel；HRB 号未取） · Active（站点 2026-01 更新） · 成立 1996 · Provinzialstraße 40, 53859 Niederkassel",
+    "url": "https://www.wlw.com/en/company/lichtleiterkabelcom-by-servicenet-edv-vertrieb-gmbh-1805537",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

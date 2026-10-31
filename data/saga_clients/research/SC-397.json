@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "AU · 1 次检索：buy.nsw.gov.au/supplier/profile/103131（ABN）+ allo：Alloy Computer Products (Australia) Pty. Ltd.（alloy.com.au；**ABN 41 006 507 473（buy.nsw.go · 41 006 507 473（ABN） · Active（NSW 供应商库 / 官网） · 成立 未取 · 未取（Victoria，官网未抄）",
+    "url": "https://buy.nsw.gov.au/supplier/profile/103131",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

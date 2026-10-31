@@ -503,6 +503,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · PRNewswire 收购公告（2020-03-18）+ St Pete Catalyst（2020-05 ：AMERICAN FIBERTEK, INC.（AFI；母公司 Sunny-Z Inc.，St. Petersburg FL） · 法人登记号待补（原 New Jersey 公司；2020 迁 Florida — · Active（2026-05 名录更新） · 成立 1984（Somer · 745 43rd St S, St. Petersburg, FL 33711（2020 起）；原 Somerset, NJ 08873",
+    "url": "https://www.prnewswire.com/news-releases/american-fibertek-proudly-continues-35-year-history-of-manufacturing-american-products-and-mitigating-risks-of-foreign-elements-301025706.html",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

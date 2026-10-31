@@ -326,5 +326,30 @@
   "path": "活",
   "reply": "R±",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-31",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "USA · 官网 About / 联系页 + PRWeb（2015 更名公告）+ PitchBook / Tracxn（：KYLAND-USA, LLC（dba DYMEC / K-USA） · LLC（密苏里 / 得州登记号待补）· Veteran Owned Small  · 经营中（官网联系页 2026-02 更新） · 成立 Kyland-USA · 1107 SE Willow Pl, Blue Springs, MO 64014-5248（总部）；2243 N. Mason Rd Suite 402, K",
+    "url": "https://www.dymec.com/about/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   },
+   {
+    "kind": "KP",
+    "date": "2026-10-31",
+    "quote": "dymec.com：DYMEC · 2243 N. Mason Rd, Suite 402, Katy, Texas 77449 · (816) 988-7861 · sales@dymec.com ·「Proudly Owned and Operated by Veterans」· 产品：DIN-Rail & Rack L2/L3 工业交换机、EN50155 / IEC61850-3 系列、SFP、TraffiClair AI 交通检测 · Tom West — Design & Engineering（twest@dymec.com）· Ray Renaud — VP Sales & Marketing（rrenaud@dymec.com）",
+    "url": "https://www.dymec.com/get-quote/",
+    "note": "美国加固工业交换机品牌（白牌贴标；与 BlueWARRIOR SA-033 同体系）；EN50155 线守界只谈 ITS/电力",
+    "batch": "INTEL-22",
+    "found": true,
+    "added": "2026-10-31"
+   }
+  ]
  }
 }

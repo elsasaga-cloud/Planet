@@ -262,6 +262,16 @@ A 确认（已买样 + 具名 KP + 自有品牌 MC 线）；痛点是交期—�
 - 依据：出 A 户（10-30 A 级终评：降 B：备注成单（非 Saga，本职公司时期）·6 台 MC 样品（Addon）（Simon 2026-10-30：非 Saga 成交））；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：USA · BBB 登记摘要 + 加州实体（corporationwiki / OpenCorporates 摘要）+ ：ADD-ON COMPUTER PERIPHERALS, LLC（AddOn Networks） · California LLC（2002-12-26）；另有 Add-On Com · 经营中；纽约州 OGS 集中采购合同持有人（PM69867， · 成立 业务始于 2000- · 15773–15775 Gateway Circle, Tustin, CA 92780（单址；研究档另有 UK / Belgium 仓） — <https://www.bbb.org/us/ca/tustin/profile/computer-parts/add-on-computer-peripherals-llc-1126-100022963>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：33 封（去 33 / 来 0）　|　**期间**：2025-04-02 → 2026-08-31　|　**最后去信**：2026-08-31

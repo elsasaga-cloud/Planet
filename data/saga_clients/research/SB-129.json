@@ -424,6 +424,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "GB · 研究档已有公司号 04256748 → Companies House overview + officers：Addon Technology Ltd（addon-tech.co.uk；North London） · 04256748 · Active · 成立 2001-07-23 · Ground Floor, Building 3, Oakleigh Road South, North London Business Centre, Lon",
+    "url": "https://find-and-update.company-information.service.gov.uk/company/04256748",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

@@ -246,6 +246,20 @@ updated: 2026-10-31
 - 依据：强对位（品牌商）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 auto · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：US · 1 次检索：官网 About（legalName Tycon Systems Inc.；foundingDat：Tycon Systems Inc.（DBA Tycon Power Systems；tyconsystems.com；Bluffdale, Utah）— 2008 年由 Scot · UT 公司（DBA 备案 6970120-0151）· SAM UEI V8M1 · Active（SAM 2025-12-31 激活） · 成立 2008-01-01 · 930 W 14600 S, Suite 600, Bluffdale, UT 84065 — <https://opengovus.com/sam-entity/V8M1PCBVGN91>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**领英公司页**
+
+- 2026-10-31：ZoomInfo / Datanyze / Tracxn：Tycon Systems · 14641 S 800 W Ste A, Bluffdale, Utah 84065 · Founded 2008 · 15–18 employees · Revenue $5.9M · 离网供电（太阳能/风能）+ PoE 转换器 + 无线桥接 · 融资 $150K — <https://www.zoominfo.com/c/tycon-systems-inc/346482214>　*自牌 TP- 系列 PoE/供电产品商（15–18 人、$5.9M）→ PoE 交换机 OEM 对位*
+
+待挖：年报/财务、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：29 封（去 28 / 来 1）　|　**期间**：2024-05-10 → 2026-09-17　|　**最后去信**：2026-09-17

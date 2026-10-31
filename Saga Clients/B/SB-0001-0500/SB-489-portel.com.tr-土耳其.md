@@ -210,6 +210,20 @@ updated: 2026-10-31
 - 依据：强对位（分销）+ 登记坐实 + 主攻区 + 路径活；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-31 · 2 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：TR · 1 次检索：vknsorgula（PORTEL TEKNOLOJİ SANAYİ VE TİCARET ANO：PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş.（portel.com.tr / industrialnetworkcenter.com；İstanbul Ka · VKN 7320767976 · Ticaret Sicil 1075179（İ · Active（2025-12 官网更新；2024 进口 73 · 成立 2017-05-23 · Yalı Mah. Kadir Sk. No 14, Helis More Residence Kat 7 Daire 82, 34873 Kartal / İ — <https://vknsorgula.net/7320767976>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+**供应商/品牌关系**
+
+- 2026-10-31：portel.com.tr：PORTEL TEKNOLOJİ SAN. VE TİC. A.Ş. · Yalı Mah. Kadir Sk. No:14 Helis More Residence Kat:7 D:82, Kartal / İstanbul · +90 216 464 44 50 · bilgi@industrialnetworkcenter.com ·「her türlü endüstriyel network ürünleri ve yarı iletken ürünlerin temini」；Eurotech 官网列其为土耳其分销商 — <https://www.portel.com.tr/>　*工业网络 + 半导体分销（Eurotech 渠道；研究档记现三旺）→ 工业交换机换源对位*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：s.sagatelecom+a.sagatelecom　|　**邮件**：17 封（去 17 / 来 0）　|　**期间**：2024-06-17 → 2026-08-28　|　**最后去信**：2026-08-28

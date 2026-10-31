@@ -178,5 +178,20 @@
   "path": "活",
   "reply": "auto",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CA · 1 次检索：gaotek.com/about-us（GAO Group headquartered in To：GAO Tek Inc.（GAO Group；gaotek.com / gaorfid.com；加拿大办公室 1885 Clements Rd, Suites 215-218, P · 未取（登记号） · Active · 成立 2005（GAO T · 1885 Clements Rd, Suites 215-218, Pickering, ON L1W 3V4",
+    "url": "https://gaotek.com/about-us/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -179,5 +179,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "PL · 1 次检索：rejestr.io（NETINET SPÓŁKA Z O.O.；KRS 0000096977；N：NETINET Sp. z o.o.（netinet.pl；Warszawa）— 1999 年起（KRS 2002）的波兰 IT 分销商，Intellinet / Manhatta · KRS 0000096977 · NIP 1181481416 · REGON  · Aktywna（KRS 变更 2026-07-16） · 成立 2002-03-07 · ul. Arkuszowa 18, 01-934 Warszawa",
+    "url": "https://rejestr.io/krs/96977/netinet",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

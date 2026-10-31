@@ -24,7 +24,7 @@ def main():
     n = 0
     for c, v in reg.items():
         e = ents.get(c)
-        if not e or e.get('grade') != 'A':
+        if not e or e.get('grade') not in ('A', 'B'):
             continue
         src = str(v.get('source') or '')
         num = str(v.get('number') or '')

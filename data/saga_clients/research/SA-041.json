@@ -300,5 +300,20 @@
   "path": "活",
   "reply": "R0",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Polska · KRS（rejestr.io / krs-pobierz / GoWork 镜像，含 2024–202：FIBERMARKT SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ（品牌 LightOptics） · KRS 0000356815 · NIP 6772343192 · REGON  · Aktywna；KRS 最近变更 2026-06-01（KR · 成立 2010-05-19 · ul. Christo Botewa 6A, 30-798 Kraków（旧址 Śnieżna 18, 30-822 Kraków）",
+    "url": "https://rejestr.io/krs/356815/fibermarkt",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

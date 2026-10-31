@@ -184,5 +184,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：level1.com Imprint（GF Amanda (Shu-Wen) Chen；Amtsg：Digital Data Communications GmbH（level1.com / digital-data.de；Dortmund）— LevelOne 品牌 = 台资  · Amtsgericht Dortmund HRB 9821 · Active · 成立 1991-03-27 · Im Defdahl 10F, 44141 Dortmund",
+    "url": "https://www.level1.com/level1_en/imprint",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

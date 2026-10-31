@@ -429,6 +429,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Deutschland · Handelsregister（Northdata 免费页：登记时间线 / 更名 / 迁址 ：Walker Security Systems UG (haftungsbeschränkt)（原 SMART+ Communications UG / smart-protect · Amtsgericht Krefeld HRB 20953（2025-03-27 · Aktiv（2025-04-02 最新迁址登记） · 成立 2018-09-13 · Ritzbruch 22, D-41334 Nettetal（2025-03 起）；历史：Köln → Bergheim → Mönchengladbach →",
+    "url": "https://www.northdata.de/Walker%20Security%20Systems%20UG%20(haftungsbeschr%C3%A4nkt),%20Nettetal",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

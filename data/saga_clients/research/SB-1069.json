@@ -193,5 +193,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（REWEB S.R.L.；P.IVA 02026760351；VI：REWEB S.R.L.（reweb.it；雷焦艾米利亚 Via Ferruccio Ferrari 6, 42124；P.IVA 02026760351；REA RE-24493 · P.IVA / CF 02026760351；REA RE-244931 · Active · 成立 2002-12-07 · Via Ferruccio Ferrari 6, 42124 Reggio Emilia",
+    "url": "https://www.ufficiocamerale.it/9437/reweb-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

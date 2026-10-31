@@ -304,5 +304,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "Czechia · ARES 官方 API（基本 + 公共登记 VR 摘录）：LANCOMAT s.r.o. · IČO 27929795 · DIČ CZ27929795 · 商事法院卷宗 C · AKTIVNI（ROS / VR / RES / RŽP / · 成立 2007-07-16 · Poděbradská 520/24, Vysočany, 190 00 Praha 9（2026-07-23 重新登记同一地址）",
+    "url": "https://ares.gov.cz/ekonomicke-subjekty/27929795",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -272,6 +272,16 @@
     "batch": "INTEL-GH-01",
     "found": false,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：仅命中官网首页 / 联系页（2021 开业、14 年经验、Nilüfer 地址）；法定类型 / T：KLASNET İLETİŞİM VE GÜVENLİK（Bursa） · 未取 · Aktif（官网在线） · 成立 2021（官网：「1 · Üçevler Mah. Dumlupınar Cad. 120 A, Nilüfer / Bursa",
+    "url": "https://klasnet.com.tr/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

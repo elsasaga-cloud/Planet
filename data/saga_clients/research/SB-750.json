@@ -164,5 +164,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 公司官网 government / transportation 页（schema.org legalName：Enable-IT, Inc. · Nevada SoS 编号未取；GSA Schedule 合同号「来电索取」（官 · 在营（官网 2026-06 更新） · 成立 业务 1997/20 · 4616 W Sahara Ave, Las Vegas, NV 89102-3627（研究档 hq「USA」→ 已定位拉斯维加斯）",
+    "url": "https://enableit.com/government/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

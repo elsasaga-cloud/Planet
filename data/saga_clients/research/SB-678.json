@@ -260,5 +260,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：signalhire（Quantum Networks SG Pte Ltd；Ahmedabad ：Quantum Networks（qntmnet.com；印度艾哈迈达巴德总部 + 新德里 / 班加罗尔 / 金奈 / 加尔各答 / 海得拉巴团队；关联 Quantum Netwo · 未取（CIN；新加坡关联 Quantum Networks SG Pte Ltd · Active · 成立 未取 · Ahmedabad, Gujarat（具体地址未取）",
+    "url": "https://rocketreach.co/quantum-networks-management_b40c3be3ffc352b3",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：opax.com 用户协议页（法定全名「Opax Mühendislik Kamera Alarm：Opax Güvenlik Sistemleri Dış Tic. Ltd. Şti.（opax.com；İstanbul）— 研究档 KP damian@opax.pl 误归属 · Mersis / VKN 未取 · Aktif（官网在线） · 成立 2004（自述；页脚 · İstanbul（街道地址未取；客服 0 444 9890）",
+    "url": "https://www.opax.com/kullanici/hesap.aspx",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

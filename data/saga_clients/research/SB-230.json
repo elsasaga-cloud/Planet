@@ -181,5 +181,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：ufficiocamerale（ADVANCED INNOVATIONS S.R.L.；P.IVA：ADVANCED INNOVATIONS S.R.L.（ad-in.net / adin.it；Monza e Brianza Usmate Velate Via dell’Art · P.IVA / CF 04994260968；REA MB-1789621 · Active · 成立 2005-10-26 · Via dell’Artigianato 32/F, 20865 Usmate Velate (MB)",
+    "url": "https://www.ufficiocamerale.it/4361/advanced-innovations-srl",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

@@ -545,6 +545,16 @@
     "batch": "INTEL-16",
     "found": true,
     "added": "2026-10-30"
+   },
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "新加坡 · ACRA BizFile 基本档 $5.50 付费；本行为「无登记源」记录（据第 79 批研究档）：Impulse Networks / Impulse CCTV · （登记状态不可免费核） · 成立 — · Singapore（81 Ubi Ave 4）；北美 Vancouver；印度生产（BIS）",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
    }
   ]
  },

@@ -191,5 +191,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：bizprofile.net 加州 SoS 镜像（General Corporation；档号 2：Dualcomm Technology, Inc.（dualcomm.com；San Ramon / Danville, CA） · CA SoS 2772255 · Active · Good Standing（SoS / F · 成立 2005-09-12 · 注册 435 Glasgow Cir, Danville, CA 94526；邮寄 2415 San Ramon Valley Blvd #4182, San ",
+    "url": "https://www.bizprofile.net/ca/danville/dualcomm-technology-inc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

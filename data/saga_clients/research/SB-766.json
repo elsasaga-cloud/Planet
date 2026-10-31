@@ -206,5 +206,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · 1 次检索：acornbids SAM 记录（Legal name INNOVATIVE VIDEO TECH：INNOVATIVE VIDEO TECHNOLOGY, INC.（dba InVid Tech；invidtech.com；355 Oser Avenue, Hauppauge, · SAM UEI C15VFM1N1VS6 / CAGE 8N8G4（NY DOS · Active（SAM 登记 E） · 成立 2016 · 355 Oser Avenue, Hauppauge, NY 11788, USA",
+    "url": "https://app.acornbids.com/contractors/C15VFM1N1VS6/innovative-video-technology-inc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

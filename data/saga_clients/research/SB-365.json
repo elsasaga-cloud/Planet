@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "US · California SoS 镜像 bizprofile（编号 3540849、2013-01-25、CEO ：ROBOfiber, Inc. · California General Corporation 3540849（2 · Active · SoS / FTB Good standi · 成立 2013-01-25 · 3000F Danville Blvd, PMB 300, Alamo, CA 94507（旧金山湾区东；信箱地址）",
+    "url": "https://www.bizprofile.net/ca/alamo/robofiber-inc",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

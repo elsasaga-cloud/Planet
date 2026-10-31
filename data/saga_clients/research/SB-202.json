@@ -175,5 +175,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LB · 1 次检索：egc-lb.com/contact（Lebanon, Beirut, Kornich El Ma：Engineering Group Contractors (EGC)（egc-lb.com；**官网 contact：Beirut, Kornich El Mazraa, Ibn · 未取（贝鲁特商业登记号 1 查未得） · 营业中（官网 2025-09） · 成立 1988 · Borj Al Jazeera Bldg., Ibn El Asir St., Corniche El Mazraa, Beirut, Lebanon",
+    "url": "https://egc-lb.com/contact",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

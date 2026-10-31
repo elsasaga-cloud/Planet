@@ -169,5 +169,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TR · 1 次检索：find.com.tr（PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE ：PROVES BİLGİ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ（proves.com.tr；伊兹密尔 Bayraklı 设立 · MERSİS 未取（A.Ş.） · Active · 成立 2020-02-14 · Şirinkapı Mah. 1058/6 Sk. No:5 D:1, Buca / İzmir（登记 Bayraklı → Bornova 迁址）",
+    "url": "https://www.find.com.tr/Company/provesbilgiteknolojilerisanayiveticaretanonimsirketi",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

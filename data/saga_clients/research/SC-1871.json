@@ -117,5 +117,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN · 1 次检索：edgeinsights（CIN / 成立 / FY22 财务）+ signalhire（地址 /：Bay Datacom Solutions Pvt. Ltd.（baydatacom.com；**CIN U32100TG1998PTC028943；1998-02-28；Hyde · U32100TG1998PTC028943（CIN） · Active（MCA） · 成立 1998-02-28 · Road Number 92, Jubilee Hills, Hyderabad, Telangana 500096",
+    "url": "https://info.edgeinsights.in/company/Bay-Datacom-Solutions-Pvt.-Ltd./131542",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

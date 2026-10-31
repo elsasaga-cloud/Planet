@@ -143,5 +143,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KR · 2 次检索：「sun-flowers.co.kr 선플라워스 CCTV PoE 스위치 사업자등록번호」→ b：（表内 sun-flowers.co.kr；sun@sun-flowers.co.kr；「CCTV 商业 PoE 自己的 logo」「质量高」）— **官网为防机器人验证页；2 次 · 未取 · 主体不明 · 成立 未取 · 未取",
+    "url": "",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

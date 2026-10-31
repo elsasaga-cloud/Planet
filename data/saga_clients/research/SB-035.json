@@ -209,5 +209,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "BT · 1 次检索：nano.bt（one of the three fully-fledged and licens：NANO（nano.bt；**官网：不丹三家持独立国际网关牌照的 ISP 之一（DWDM / 光纤；ISP + 托管安全 + 企业 IT）；Registered Address I · 未取（公司注册号 1 查未得；持牌 ISP） · 营业中（官网 + 数据中心名录） · 成立 2017（入市） · IT Park, PO Box 633, Wangchuktaba, Babesa, Thimphu, Bhutan",
+    "url": "http://www.nano.bt/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

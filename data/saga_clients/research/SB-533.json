@@ -194,5 +194,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DE · 1 次检索：eks-engel.de/en/legal-notice（Amtsgericht Siegen H：eks Engel FOS GmbH & Co. KG（eks-engel.de；Wenden）— 光纤 / 工业以太网交换机制造商 = 同行 · Amtsgericht Siegen HRA 8091（Komplementär · Active · 成立 1931（创立）/  · Schützenstr. 2, 57482 Wenden",
+    "url": "https://www.eks-engel.de/en/legal-notice/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

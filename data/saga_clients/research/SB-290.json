@@ -202,5 +202,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IT · 1 次检索：solpakutec.com/en/imprint（Legal seat SOLPAKUTEC I：SOLPAKUTEC INDUSTRY DP（impresa individuale = Dominik Prieth 个体户，CF PRTDNK95S07I729O，1995 年 · P.IVA 03085880213；REA BZ-230913；CF PRTDN · Active · 成立 —（≈2019；未取 · Gewerbegebiet / Zona Produttiva 21, 39028 Schlanders / Silandro (BZ)",
+    "url": "https://solpakutec.com/en/imprint/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

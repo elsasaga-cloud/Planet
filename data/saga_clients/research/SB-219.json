@@ -163,5 +163,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "HK · 1 次检索：hk.linkedin.com/company/siera-electronics（565-567：Siera Electronics（sieraelectronics.com；Siera Holding Group 成员，面向拉美西语市场；**领英 / contactout：5 · 未取（CR 号 1 查未得） · 营业中（领英 2026 更新） · 成立 1995 · 565-567 Nathan Road, Unit 2201B, 22/F, Kowloon, Hong Kong",
+    "url": "https://hk.linkedin.com/company/siera-electronics",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

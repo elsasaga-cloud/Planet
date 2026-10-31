@@ -159,5 +159,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "IN / HK · 1 次检索：importgenius（Win-tech Alliance Ltd；Room 702b：Win-Tech Alliance Ltd（**香港注册贸易商：Room 702B, 7/F, Valley Centre, 80-82 Morrison Hill Road, W · 未取（HK 公司编号） · Active（2024-09 仍有出货） · 成立 未取 · Room 702B, 7/F, Valley Centre, 80-82 Morrison Hill Road, Wanchai, Hong Kong（操盘 M",
+    "url": "https://www.importgenius.com/india/suppliers/win-tech-alliance-ltd",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

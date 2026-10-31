@@ -198,5 +198,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "CZ · 1 次检索：or.justice.cz（Inthouse Systems s.r.o.；IČO 054 05 ：Inthouse Systems s.r.o.（inthouse.eu；布拉格 Grafická 769/9, Smíchov, 150 00 Praha 5；IČO 054059 · IČO 05405947；C 263202 MSPH · Active（1 aktivní živnost） · 成立 2016-09-19 · Grafická 769/9, Smíchov, 150 00 Praha 5",
+    "url": "https://rejstrik.penize.cz/05405947-inthouse-systems-s-r-o",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

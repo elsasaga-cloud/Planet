@@ -125,5 +125,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "VN · 1 次检索：hoainamgroup.com/gioi-thieu-cong-ty-tnhh-nhat-nuo：Công ty TNHH Nhất Nước (NNC)（nnc.net.vn；**MST 0101403703；2003 年成立；河内 Tòa G03 Căn 2412, Vin · MST 0101403703 · 营业中（集团页） · 成立 2003 · Tòa G03 Căn 2412, Vinhomes Greenbay, 7 Đại Lộ Thăng Long, Nam Từ Liêm, Hà Nội, V",
+    "url": "https://hoainamgroup.com/gioi-thieu-cong-ty-tnhh-nhat-nuoc/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

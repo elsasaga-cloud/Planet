@@ -188,5 +188,20 @@
   "path": "活",
   "reply": "none",
   "focus": "other"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "TW · 1 次检索：xentino.com/index.cfm?fuseaction=objects2.company：Xentino Technologies Corp.（xentino.com；**官网 Company Tax Number 54303706；9F, No 20, Zhong 1 · 54303706（統編，官网自报） · 营业中（官网 / EC21） · 成立 2013 · 9F, No 20, Zhong 1st Road, Keelung 20041",
+    "url": "https://www.xentino.com/index.cfm?fuseaction=objects2.company",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

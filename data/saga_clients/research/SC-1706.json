@@ -189,5 +189,20 @@
   "path": "活",
   "reply": "none",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "DK · 1 次检索：itvsecurity.dk 商品 / 品牌页页脚（ITV-Security ApS；CVR 38：ITV-Security ApS（itvsecurity.dk / .com；**官网页脚：CVR 38937456；Æblehaven 7, 8930 Randers NØ；电话 · CVR 38937456 · 营业中（网店在线） · 成立 未取（CVR 389 · Æblehaven 7, 8930 Randers NØ",
+    "url": "https://itvsecurity.dk/shop/8-vms-software-amp-apps/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

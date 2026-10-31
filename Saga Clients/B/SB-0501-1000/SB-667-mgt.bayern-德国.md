@@ -177,6 +177,16 @@ updated: 2026-10-31
 - 依据：OK，待首触反馈；身份 登记坐实 · 路径 活 · 回信 none · 区域档 focus
 - 节奏：B1 重点普通跟 = 分组群发每 6 周 + 一年两次点名；B2 普通跟 = 分组群发每 8 周；C 储备 = 不发、两月巡检，有动静捞回。
 
+## 商业情报·挖底（A 类 · 截至 2026-10-30 · 1 条）
+
+> 规则（Simon 2026-10-30）：A 类挖个底掉——年报 / 领英 / KP / 人事变动 / 展会 / 论坛 / GitHub …能挂上的都进仓库；一轮一轮补。未得也记，免得重复查。
+
+**登记**
+
+- 2026-10-30：DE · 1 次检索：mgt.bayern Impressum（Münchner Glasfaser-Technik G：Münchner Glasfaser-Technik GmbH（mgt.bayern；Gilching bei München，2022-12 自 München Ubostr.  · HRB 244603 Amtsgericht München · USt-ID  · Active（2022-12 登记变更；站点在线） · 成立 2018-10-30 · Rudolf-Diesel-Straße 12, 82205 Gilching（旧址 Ubostr. 21, 81245 München） — <https://www.mgt.bayern/impressum-und-datenschutz>　*登记库镜像（公司底数 2026-10-27 批次）*
+
+待挖：年报/财务、领英公司页、KP、人事变动、展会/活动、新闻/招标、GitHub/技术足迹（下一轮）
+
 ## 邮箱往来（S 邮箱 · 自动汇总）
 
 - **账号**：a.sagatelecom　|　**邮件**：6 封（去 6 / 来 0）　|　**期间**：2025-09-17 → 2026-03-06　|　**最后去信**：2026-03-06

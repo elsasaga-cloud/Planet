@@ -203,5 +203,20 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "LT · 1 次检索：rekvi.lt/en/companies/view/62317（UAB \"Eurodigital：UAB \"Eurodigital\"（e-shop ExtraDigital.eu / .lt；**rekvi.lt / taurageje.lt：Įmonės kodas 3006 · Įmonės kodas 300638881；PVM LT10000289071 · 存续（active；Sodra 2026-04 员工 13） · 成立 2007-01-29 · Žemaičių g. 31-301, LT-44175 Kaunas, Lithuania",
+    "url": "https://rekvi.lt/en/companies/view/62317",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }

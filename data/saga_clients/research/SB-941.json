@@ -167,5 +167,20 @@
   "path": "活",
   "reply": "none",
   "focus": "second"
+ },
+ "intel": {
+  "as_of": "2026-10-30",
+  "items": [
+   {
+    "kind": "登记",
+    "date": "2026-10-30",
+    "quote": "KZ · 1 次检索：zoon.kz/almaty/shops/distribyutorskaya_kompaniya_：ТОО «CompTek CA»（comptek.kz；**zoon / tel-spravochnik / facebook：г. Алматы, проспект Райымб · 未取（БИН 1 查未得） · 营业中（2024-11 活动贴） · 成立 未取 · пр. Райымбека 165А, 3 этаж, офис 6, Алматы, Kazakhstan",
+    "url": "https://zoon.kz/almaty/shops/distribyutorskaya_kompaniya_comptek_ca/",
+    "note": "登记库镜像（公司底数 2026-10-27 批次）",
+    "batch": "INTEL-20",
+    "found": true,
+    "added": "2026-10-30"
+   }
+  ]
  }
 }
