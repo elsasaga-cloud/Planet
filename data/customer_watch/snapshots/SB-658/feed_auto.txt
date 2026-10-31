@@ -1,4 +1,4 @@
-# SB-658 ekingen.com.tr · feed_auto · https://ekingen.com.tr/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-658 ekingen.com.tr · feed_auto · https://ekingen.com.tr/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Tue, 09 Jun 2026 07:04:45 +0000	EN54 Nedir?	https://ekingen.com.tr/en54-nedir/
 Tue, 09 Jun 2026 07:04:27 +0000	Usb Teknolojisi: Bağlantı Standartları	https://ekingen.com.tr/usb-teknolojisi-baglanti-standartlari/
 Tue, 09 Jun 2026 07:03:59 +0000	Hareket Sensörleri Nasıl Çalışır?	https://ekingen.com.tr/hareket-sensorleri-nasil-calisir/

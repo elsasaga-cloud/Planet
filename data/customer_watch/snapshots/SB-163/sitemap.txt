@@ -1,4 +1,4 @@
-# SB-163 skeo.ru · sitemap · https://skeo.ru/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-163 skeo.ru · sitemap · https://skeo.ru/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 	https://skeo.ru/
 2021-02-12T14:22:38+00:00	https://skeo.ru/articles
 2020-05-12T14:07:22+00:00	https://skeo.ru/articles/10g-v-odnom-volokne
@@ -152,4 +152,43 @@
 	https://skeo.ru/katalog/uplotnenie/optical-circulator
 2021-02-16T14:26:55+00:00	https://skeo.ru/news
 2020-06-03T13:10:32+00:00	https://skeo.ru/news/10-66-pbit-s-novyj-rekord-skorosti-peredachi-dannykh-po-optovoloknu
-2020-06-11T
+2020-06-11T14:13:55+00:00	https://skeo.ru/news/10-gbitc-teper-i-po-wifi
+2020-10-09T13:31:45+00:00	https://skeo.ru/news/100g-lambda-msa-zavershaet-spetsifikatsiyu-400g-na-rasstoyanie-do-10-km
+2020-06-26T13:24:56+00:00	https://skeo.ru/news/10g-epon-startuet-v-2013
+2020-06-08T09:59:09+00:00	https://skeo.ru/news/2011-11-01-10-00-22
+2020-06-17T14:08:53+00:00	https://skeo.ru/news/2gbit-s-powerline-adapter-ot-d-link
+2020-08-28T13:36:04+00:00	https://skeo.ru/news/3-vozmozhnykh-varianta-formirovaniya-setej-peredachi-dannykh-na-blizhajshie-gody-iz-za-covid
+2020-06-10T13:03:19+00:00	https://skeo.ru/news/3m-otkryvaet-napravlenie-afm-dlja-cod
+2020-06-08T10:01:56+00:00	https://skeo.ru/news/5-shagov-k-40-100-gigabit-ethernet
+2021-02-16T14:26:55+00:00	https://skeo.ru/news/5g-priblizhaetsya-i-on-usilen-optovoloknom
+2020-05-22T12:53:08+00:00	https://skeo.ru/news/5g-set-sk-telecom-neset-62000-tb-v-mesyats
+2020-06-10T14:16:14+00:00	https://skeo.ru/news/8-tbit-c-na-sahalin
+2020-08-13T14:19:38+00:00	https://skeo.ru/news/acacia-100g-modul-fiksirovannoj-dliny-volny-s-radiusom-dejstviya-120-km
+2020-11-05T13:26:24+00:00	https://skeo.ru/news/acacia-communications-vzaimodejstvuet-s-inphi-demo-400zr-cherez-raznye-dsp
+2020-10-12T14:06:52+00:00	https://skeo.ru/news/acacia-obraztsy-kogerentnogo-dwdm-modulya-100g-v-qsfp-dd
+2020-05-25T12:41:07+00:00	https://skeo.ru/news/addon-debyutiruet-premoperedatchik-qsfp28-dd-2x100g
+2020-06-26T13:14:26+00:00	https://skeo.ru/news/adtran-dobavil-podderzhku-combo-pon-v-svoej-platforme
+2020-04-28T13:51:58+00:00	https://skeo.ru/news/adtran-podpisal-sovmestnyj-proekt-razvitiya-s-orange
+2020-06-25T14:11:17+00:00	https://skeo.ru/news/adtran-rasshiril-svoyu-seriyu-otkrytykh-i-dezagregirovannykh-setevykh-elementov-sdx
+2020-06-17T14:03:17+00:00	https://skeo.ru/news/adva-dobavit-k-sdn-fizicheskij-uroven
+2021-02-08T14:13:31+00:00	https://skeo.ru/news/adva-dobavlyaet-podklyuchaemye-moduli-micromux-nano-i-micromux-quattro
+2020-06-15T13:39:48+00:00	https://skeo.ru/news/adva-pomozhet-sledit-za-setyami
+2020-05-26T13:14:53+00:00	https://skeo.ru/news/adva-predlagaet-passivnye-mnogotochechnye-opticheskie-transivery-g-metro-10g
+2020-05-19T08:39:56+00:00	https://skeo.ru/news/adva-zapustila-krupnoe-obnovlenie-programmnogo-obespecheniya
+2020-07-13T14:22:23+00:00	https://skeo.ru/news/adva-zapustila-smennyj-i-samonastraivayushchijsya-sfp-dlya-setej-dostupa
+2020-07-14T12:48:23+00:00	https://skeo.ru/news/advantech-zapuskaet-pogranichnoe-setevoe-ustrojstvo
+2020-06-04T08:26:32+00:00	https://skeo.ru/news/afl-predlagaet-panel-dvojnogo-dostupa-xpress-fiber-management
+2020-06-04T08:23:39+00:00	https://skeo.ru/news/afl-predlagaet-svarochnye-apparaty-fujikura-90-serii
+2020-06-17T13:59:50+00:00	https://skeo.ru/news/afl-vydelila-dostizheniya-v-niokr
+2020-06-16T13:48:29+00:00	https://skeo.ru/news/agilent-pomozhet-izmerit-1000-peredatchikov
+2020-05-19T08:39:52+00:00	https://skeo.ru/news/airtel-vybrala-ibm-i-red-hat-dlya-otkrytoj-gibridnoj-obolochki-seti
+2020-06-15T13:28:57+00:00	https://skeo.ru/news/alcatel-lucent-unveils-single-carrier-100g-200g-dwdm-optical-line-card
+2020-12-07T12:36:43+00:00	https://skeo.ru/news/alphabet-zapustila-v-kenii-besprovodnoj-internet-pri-pomoshchi-optovolokna-bez-volokna
+2020-06-17T13:39:46+00:00	https://skeo.ru/news/anonsirovan-universalnyj-opticheskij-ekvalajzer-le2000-tseny
+2020-06-16T14:24:23+00:00	https://skeo.ru/news/anritsu-pokazhet-test-platformu-dlya-56g
+2020-06-18T13:30:39+00:00	https://skeo.ru/news/ao-pokazala-pin-fotodiod-dlya-priema-100gbit-s
+2020-05-29T13:45:51+00:00	https://skeo.ru/news/arista-networks-anonsirovala-opticheskuyu-linejnuyu-sistemu
+2020-05-19T14:21:14+00:00	https://skeo.ru/news/arista-networks-predstavila-optsiyu-switch-abstraction-interface-sai
+2020-05-29T13:23:48+00:00	https://skeo.ru/news/aruba-air-slice-obespechivaet-prioritetnost-prilozhenij-dlya-wi-fi-6
+2020-05-29T13:25:56+00:00	https://skeo.ru/news/aruba-zapuskaet-wi-fi-servis-passpoint-dlya-mobilnykh-operatorov
+2020-06-11T13:41:12+00:00	https://skeo.ru/news

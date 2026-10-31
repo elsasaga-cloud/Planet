@@ -1,4 +1,4 @@
-# SB-427 longlinenetwork.com · feed_auto · https://www.longlinenetwork.com/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-427 longlinenetwork.com · feed_auto · https://www.longlinenetwork.com/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Thu, 04 Dec 2025 11:09:23 +0000	Longline 5 Port Gigabit Ethernet Switch | 10/100/1000 Mbps | Plastik Kasa LNG6005GS	https://www.longlinenetwork.com/urunler/longline-5-port-gigabit-ethernet-switch-10-100-1000-mbps-plastik-kasa-lng6005gs/
 Thu, 04 Dec 2025 11:04:31 +0000	Longline 5 Port Desktop Ethernet Switch | 10/100 Mbps LNG5005S	https://www.longlinenetwork.com/urunler/longline-5-port-desktop-ethernet-switch-10-100-mbps-lng5005s/
 Thu, 04 Dec 2025 10:54:51 +0000	Longline 8 Port Gigabit Ethernet Switch | 10/100/1000 Mbps | Plastik Kasa LNG6008GS	https://www.longlinenetwork.com/urunler/longline-8-port-gigabit-ethernet-switch-10-100-1000-mbps-plastik-kasa-lng6008gs/

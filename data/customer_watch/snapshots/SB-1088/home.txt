@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · home · https://tipteh.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1088 tipteh.com · home · https://tipteh.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Tipteh - your automation partner
 Search for: Search Button
 Skip to content
@@ -76,14 +76,14 @@ In Tipteh, automation is our passion and your success!
 Tipteh is a leading Distribution Sales Representative of industrial automation components, systems, and solutions. In 30 years of experience we helped more then 14.000 partners develop new competitive advantage. Our wide range of automation products and our skilled engineers will help you solve your most demanding applications.
 Be on top of industrial automation. Stay informed!
 Check out the latest news to gain experience, identify opportunities and get a competitive edge.
+Turck MARGEE Programmable Block I/O Modules
+Turck MARGEE turns compatible block I/O modules into controllers with Structured Text, Visual Studio Code, Git and web visualization.
 XDR-E DIN Rail Power Supplies MEAN WELL
 The XDR-E Series is economical power supply solution for industrial applications. Benefit from its slim design and save space inside cabinets.
 Basler 10GigE Cameras and Components for High-Speed Machine Vision
 Discover Basler ace 2 10GigE cameras with RDMA and PoE for high-speed machine vision, reduced CPU load and easier integration.
 Basler Stereo mini 3D Camera for Robotics and Logistics
 Compact Basler Stereo mini 3D camera provides reliable depth data for navigation, obstacle detection, dimensioning and warehouse automation.
-Unitronics UniLogic AI for Faster PLC Programming
-Unitronics UniLogic AI turns machine requirements into PLC logic in minutes. Generate, review and modify code faster with AI.
 More News
 Subscribe to our newsletter!
 You will receive only quality news and webinar reminders about leading automation equipment so you can crush your competition.

@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -31,74 +31,74 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Zavíráme za 5 minut
+Zavřeno · otevíráme v pondělí od
 28.10. ZAVŘENO
 Brno - Řečkovice
-Zavíráme za 35 minut
+Zavřeno · otevíráme v pondělí od
 Blansko
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Bystřice nad Pernštejnem
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Čáslav
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Česká Třebová
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Hradec Králové
-Zavíráme za 5 minut
+Zavřeno · otevíráme v pondělí od
 Hustopeče
-Zavíráme za 5 minut
+Zavřeno · otevíráme v pondělí od
 Chotěboř
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Jevíčko
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Kladno
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Kroměříž
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 23.10. od 11 hod. ZAVŘENO
 Liberec
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Pardubice
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Praha 13 - Stodůlky
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Praha 4 - Spořilov
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Praha 9 - Horní Počernice
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Prostějov
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Rychnov nad Kněžnou
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Sokolov
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Svitavy
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Šenov u Nového Jičína
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 30. 10. od 11 hod. ZAVŘENO
 Tišnov
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Trutnov
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Třebíč
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Uherské Hradiště
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Uherské Hradiště - Jaktáře
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Velké Meziříčí
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Vysoké Mýto
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Zábřeh
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Zastávka u Brna
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Zlín
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Žďár nad Sázavou
-Zavřeno · otevíráme zítra od
+Zavřeno · otevíráme v pondělí od
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
@@ -106,16 +106,16 @@ Přihlásit/registrovat účet
 AKČNÍ NABÍDKA
 ABB výprodej
 Letní výprodej
-Svítidla a světelné zdroje
-Poslední kusy
 Elektrické a ruční nařadí
 Měření a regulace
 Vytápění, klimatizace a TUV
 Domovní spínače a zásuvky
-Další kategorie
 Skříně, rozváděče a rozvodnice
 Úložné a nosné systémy
+Další kategorie
 Spínací a jistící přístroje
+Svítidla a světelné zdroje
+Poslední kusy
 Svítidla
 Exteriérová svítidla
 LED svítidla
@@ -180,8 +180,8 @@ Příslušenství k nouzovým svítidlům
 Průmyslová svítidla
 Do prostředí s nebezpečím výbuchu (Ex)
 LED průmyslová svítidla
-Žárovková svítidla
 Zářivková svítidla
+Žárovková svítidla
 Příslušenství a náhradní díly pro průmyslová svítidla
 Přenosná svítidla
 LED reflektory přenosné
@@ -313,8 +313,8 @@ Classic ABB
 Decento ABB
 Bezdrátové ovládání ABB
 Pohybová čidla ABB
-Profil 45 ABB
 Přístroje do hořlavých podkladů
+Profil 45 ABB
 Spínače a zásuvky VDT
 Spínače 3 pólové
 Zásuvky jiných systémů ABB
@@ -331,14 +331,15 @@ Hager spínače a zásuvky
 Berker WG UP IP44 Hager
 Berker Q.7 Hager
 Berker Serie Glas Hager
-Berker Serie 1930 Hager
 Berker Serie R.classic Hager
 Berker W.1 Hager
-Další kategorie
 Berker - Přístroje
+Další kategorie
 Lumina Hager
 Berker B.3 Hager
+Berker B.7 Hager
 Berker S.1 Hager
+Berker Serie 1930 Hager
 Berker R.3 Hager
 Berker R.1 Hager
 Berker Q.3 Hager
@@ -346,11 +347,10 @@ Berker Q.1 Hager
 Berker K.5 Hager
 Berker K.1 Hager
 Berker Integro Flow Hager
-Berker B.7 Hager
 Legrand spínače a zásuvky
 Living Now Legrand
-Livinglight Legrand
 Legrand Smart Home
+Livinglight Legrand
 Céliane Legrand
 Galea LIFE Legrand
 Forix
@@ -362,8 +362,8 @@ Oteo Legrand
 Plexo IP55, IP66
 Suno
 Valena Legrand
-Valena LIFE Legrand
 Valena Allure
+Valena LIFE Legrand
 Obzor spínače a zásuvky
 SEZ spínače a zásuvky
 Schneider spínače a zásuvky
@@ -454,8 +454,8 @@ Podpěry měď
 Příslušenství pro měděné hromosvody
 Svorky měď
 Další kategorie
-Zemnící tyče
 Vodiče měď
+Zemnící tyče
 Nerez
 Držáky nerez
 Jímací tyče a stříšky nerez
@@ -552,12 +552,4 @@ Kabely spirálové
 Kabely textilní
 Vodiče
 Vodiče instalační
-Autovodiče
-Vodiče speciální
-Holé vodiče
-Propojovací vodiče
-Kabelové příslušenství
-Značení vodičů kabelové příslušenství
-Ostatní kabelové příslušenství
-Kabelové vidlice
-
+A

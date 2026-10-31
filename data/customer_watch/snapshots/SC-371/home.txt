@@ -1,4 +1,4 @@
-# SC-371 Visiotech · home · https://visiotechsecurity.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-371 Visiotech · home · https://www.visiotechsecurity.com/en/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Visiotech | Security Systems Supplier
 Products IP
 Analogue CCTV
@@ -240,6 +240,11 @@ Detector testers
 Standalone Anka
 Ajax
 X-Sense
+Kilsen Central
+Detectors
+Sirens
+Modules
+Axendis
 ZKTeco Controllers
 Readers
 Standalone

@@ -1,0 +1,67 @@
+# SB-1134 conexionderedes.com · news_1 · https://www.conexionderedes.com/novedades · fetched 2026-10-31T08:34:28Z · HTTP 200
+Novedades | Conexion de Redes
+Especialistas en telecomunicaciones · Centroamérica +503 2262-1049 gerencia@conexionderedes.com
+Inicio Tienda Quiénes Somos Servicios Videos Novedades Contáctanos
+Inicio Tienda Quiénes Somos Servicios Videos Novedades Contáctanos +503 2262-1049 gerencia@conexionderedes.com
+Novedades
+Últimas noticias y productos del mundo de las telecomunicaciones
+Más reciente
+21 de agosto de 2026
+Catálogo 2026: energía solar, conectividad industrial y protección contra descargas
+Una red que se cae cuando se va la energía no es una red confiable. Un nodo remoto que sobrevive al corte eléctrico pero se quema con la primera descarga atmosférica, tampoco.
+Por eso el Catálogo 2026 de Soluciones Tecnológicas e Industriales —desarrollado junto a EcoConexión Solar— no está organizado por marcas, sino por las tres capas que sostienen una infraestructura crítica: generar energía, transportar los datos y proteger ambas cosas. Todo el equipo es de grado industrial y está certificado bajo estándares internacionales (ISO 9001, CE, FCC, UL, TUV), pensado para el clima y las condiciones eléctricas de Centroamérica.
+1. ENERGÍA SOLAR Y ALMACENAMIENTO
+Los inversores híbridos split-phase Deye (SUN-5/6/8/10/12K) manejan corriente de carga y descarga de 220 A, permiten acoplamiento AC sobre instalaciones existentes y admiten paralelo de hasta 16 unidades on-grid u off-grid. Alcanzan 97.6 % de eficiencia máxima con MPPT sobre 99 %, en chasis IP65 con pantalla táctil y protecciones integradas contra sobrecorriente, cortocircuito y sobretemperatura.
+Los paneles LONGi Hi-MO 7 (LR8-66HGD, 595–625 W) con celdas HPDC llegan a 23.1 % de eficiencia de módulo y conservan 87.40 % de su potencia después de 30 años, con bifacialidad de 80 ± 5 % que rinde especialmente bien en climas de alta radiación como el nuestro.
+Para sitios sin acometida eléctrica, los sistemas fuera de la red ZEMU serie HSM (H100SM / H200SM) integran baterías LFP de más de 3 500 ciclos en capacidades de 2.5 kWh y 5 kWh, con salida simultánea en CA y CC, operación de −15 °C a +55 °C y estanqueidad IP54. Es la solución típica para nodos de telecomunicaciones aislados, enlaces Starlink o VSAT y videovigilancia 24/7.
+2. CONECTIVIDAD LTE Y 5G DE GRADO INDUSTRIAL
+El portafolio de routers celulares industriales cubre distintos escenarios de despliegue:
+- R100 — ultra compacto, para cajeros automáticos, terminales POS y máquinas expendedoras, con VPN integrada sobre 4G/3G.
+- R200 — chasis metálico reforzado resistente a vibración y calor, ideal para telemetría y cámaras CCTV remotas (150 Mbps de bajada / 50 Mbps de subida).
+- R220 — arquitectura abierta con procesador MIPS a 580 MHz y firmware OpenWrt, para desarrollos a la medida, con Wi-Fi 802.11n.
+- R230 — doble ranura SIM activa/respaldo, RS232/RS485 y puertos de entrada/salida para máxima redundancia.
+- WL-ODU350 — CPE 5G de exterior IP67 con hasta 3.5 Gbps.
+Toda la línea R2XX conmuta de operador celular en milisegundos ante una caída de señal, de modo que el enlace no depende de una sola red.
+3. CONMUTACIÓN INDUSTRIAL CON PoE++ E INTELIGENCIA
+El mini switch industrial LNK-AIMC104GMP90 ofrece 4 puertos Gigabit más 1 puerto de fibra SFP, 20 Gbps de capacidad no bloqueante y hasta 90 W por puerto bajo IEEE 802.3af/at/bt, con presupuesto total de 240 W: suficiente para alimentar domos PTZ de seguridad térmica directamente por el cable de red. Su monitoreo tri-modal muestra voltaje, corriente, temperatura y potencia óptica desde app Android, pantalla LED en el equipo o interfaz web. Todo en un chasis de 98 × 67 × 46 mm para riel DIN, con rango de −40 °C a +75 °C.
+Cuando el switch va a la intemperie, el Xallcom X9128RP aporta carcasa hermética de aluminio de 1.5 mm, disipación pasiva sin ventiladores, certificación IP67 y topología de anillo con recuperación de red en 1 milisegundo. Está pensado para plantas solares, vigilancia perimetral SCADA, minería y puertos.
+4. PROTECCIÓN CONTRA SOBRETENSIONES
+La cuarta capa es la que menos se ve y más ahorra. El catálogo incluye una matriz de selección de dispositivos de protección (SPD) por escenario:
+- Corriente alterna: SPD de bajo voltaje certificados TUV bajo IEC 61643-11 y 61643-12.
+- Corriente continua / solar: modelos como el FV20C/3-1000PV hasta 1 000 V, bajo IEC 61643-31.
+- Alumbrado público: supresores ultra compactos integrados en luminarias LED.
+- Datos y PoE: protección dedicada para switches y cámaras, más supresores coaxiales para enlaces de transmisión.
+Todos pasan por envejecimiento ambiental acelerado y validación en laboratorio según IEC 61643-11, IEC 61643-31 y EN 62561.
+DESCARGUE EL CATÁLOGO
+El Catálogo 2026 completo está disponible en PDF al final de este artículo. Si necesita dimensionar un sistema específico —un nodo solar autónomo, un enlace LTE redundante o un esquema de protección para una planta fotovoltaica— nuestro equipo de ingeniería puede acompañarle en la selección de equipo. Escríbanos por WhatsApp o desde la página de contacto.
+Leer artículo completo 1 adjunto
+18 de febrero de 2026
+Gabinete de exteriores de montaje en poste WB-OD-E18U
+DISEÑO ROBUSTO Y PROTECCIÓN EXTERIOR
+Construcción y Resistencia IP55
+Cuerpo de acero galvanizado de 1.5mm con recubrimiento en polvo anticorrosivo e impermeable.
+Versatilidad de Montaje
+Diseñado para instalación en pared o poste mediante soportes especializados y anillos de elevación.
+Protección contra Intemperie
+Certificación IP55 que garantiza defensa total contra polvo, suciedad y materiales no corrosivos.
+Leer más
+Especialistas en equipos de telecomunicaciones. Soluciones profesionales para empresas y hogares en Centroamérica.
+Contáctanos
+Navegación
+Tienda
+Quiénes Somos
+Servicios
+Videos
+Novedades
+Contáctanos
+Contacto
+Teléfono
++503 2262-1049
+WhatsApp
++503 7553-2289
+Email
+gerencia@conexionderedes.com
+Ubicación
+San Salvador, El Salvador
+© 2026 Conexion de Redes. Todos los derechos reservados.
+Telecomunicaciones · Centroamérica

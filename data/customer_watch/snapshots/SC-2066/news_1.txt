@@ -1,0 +1,9 @@
+# SC-2066 ethoswitch.com · news_1 · https://www.ethoswitch.com/Install/Key · fetched 2026-10-31T08:34:28Z · HTTP 200
+Update License Key
+Update your license key using one of the options below:
+Enter License Key
+License Key
+*
+(e.g. FD6B09C0-2AC9-4059-AE89-F27AB9285AAF)
+Upload License File
+Key File

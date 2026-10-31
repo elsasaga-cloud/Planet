@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-10-31T08:34:28Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,16 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 48 içerik).
+Sektörden güncel haberler ve analizler ( 51 içerik).
+Sektör Haberi İşlemci Üreticilerinde Zam Dalgası Kapıda
+TSMC üretim maliyetlerini artırırken Intel işlemcilerine zam geldi. Yapay zeka talebi tüm sektörü etkiliyor.
+30 Ekim 2026
+Sektör Haberi RTX 5080 Stokları Eriyor, GPU Fiyatları Tırmanışta
+RTX 5090 üretiminin durmasıyla RTX 5080 stokları hızla tükeniyor, GPU fiyatları bir ayda belirgin şekilde yükseldi.
+30 Ekim 2026
+İnceleme Lenovo ThinkPad P1 Gen 9: Panther Lake ile güç arttı
+ThinkPad P1 Gen 9, Intel Panther Lake işlemci ve RTX PRO 2000 ekran kartıyla mobil workstation segmentinde öne çıkıyor.
+30 Ekim 2026
 Sektör Haberi Çin'de Posta Merkezinde İnsansı Robotlar İş Başında
 Çin'de dev bir posta merkezinde insansı robotlar paket taşıma ve sınıflandırma süreçlerinde görev almaya başladı.
 29 Ekim 2026
@@ -132,15 +141,6 @@ Intel, Computex 2026'da el konsollarına özel tasarlanan Arc G3 ve Arc G3 Extre
 17 Haziran 2026
 Ürün Lansmanı Colorful'dan 30. Yıla Özel RTX 5090D v2 Arcanix
 Colorful, Computex'te 30. yıl temasıyla tasarlanan iGame GeForce RTX 5090D v2 Arcanix modelini tanıttı. Beyaz-altın renk şemasıyla dikkat çeken kart, dört fanlı dev soğutucu ile geliyor.
-16 Haziran 2026
-Ürün Lansmanı Nvidia RTX Spark: RTX 5070 Güçlü İşlemci Tanıtıldı
-Nvidia, içinde RTX 5070 seviyesinde GPU barındıran ARM tabanlı yeni işlemcisi RTX Spark'ı tanıttı. TSMC 3nm, 70 milyar transistör ve 128 GB birleşik bellek.
-16 Haziran 2026
-Ürün Lansmanı ASUS ROG'dan Espor İçin 540 Hz OLED Monitör
-ASUS ROG, espor oyuncularına yönelik 540 Hz yenileme hızına sahip OLED monitörünü tanıttı. Rekor hız ve OLED kalitesini bir arada sunan model dikkat çekiyor.
-16 Haziran 2026
-Ürün Lansmanı Intel Arc G3 ile MSI Claw 8 EX yeni çıta koyuyor
-Intel'in el konsollarına özel ilk SoC'u Arc G3, MSI Claw 8 EX ile sahneye çıktı. Performans çıtası yükseliyor; ancak fiyat da buna paralel artıyor.
 16 Haziran 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

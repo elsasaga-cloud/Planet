@@ -1,0 +1,238 @@
+# SC-1691 alfacomp.net · news_1 · https://www.alfacomp.net/medidores-de-pressao · fetched 2026-10-31T08:34:28Z · HTTP 200
+Medidores de Pressão para Instrumentação Industrial | Alfacomp
+Soluções Completas em Automação Industrial
+Fale por WhatsApp
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+ESG
+Parceiros
+Trabalhe Conosco
+Automação Industrial
+Acessórios de Automação e Telemetria
+Dispositivo de proteção contra surtos para canal analógico - SS2701
+DPS seccionador e tomada - SW3300
+Dispositivo de proteção contra surtos para 4 canais analógicos - SS2702
+Iluminador de painel e indicador de porta aberta - SW3301
+Antena omni direcional em 900 MHz com base magnética - AN2405
+Isolador a relé para 4 saídas digitais - Alfacomp 2004
+Isolador a relé para 8 saídas digitais - ID2908
+Antena Omni 2.4 GHz com base magnética - TL-ANT2405C
+Ver todos
+CLP
+Pacotes de automação
+Kits de Aplicação Alfacomp
+Seletor Inteligente de CLP da Alfacomp
+CLP Haiwell Série Standard – Controlador Lógico Programável
+CLP Haiwell Série A – Controlador Lógico Programável
+CLP Haiwell A8 – Controlador Lógico Programável
+Ver todos
+Gateways IOT
+Kits de Aplicação Alfacomp
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+XBOX – Gateway IoT – Unidade remota de telemetria com IOs digitais
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+IHM
+Kits de Aplicação Alfacomp
+IHM Haiwell Série D — Linha Premium
+IHM Haiwell Série A — 7″ a 15″, SmartLink IoT Cloud
+IHM Série F - IP67
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+PC Industrial
+PC Industrial Touch Screen – Para Ambientes Industriais Exigentes – IP65
+Ver todos
+Remotas Modbus
+Módulos de Entradas e Saídas Modbus – Expansão Inteligente para sua Automação
+Ver todos
+Smartlink
+Smartlink Haiwell – Plataforma WEB SCADA e IIoT unificada
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+XBOX – Gateway IoT – Unidade remota de telemetria com IOs digitais
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+CLP Haiwell A8 – Controlador Lógico Programável
+Ver todos
+Supervisório Scada
+SCADA para a Telemetria do Saneamento com a tecnologia Plug & Play
+Kits de Aplicação Alfacomp
+S100 – Servidor Inteligente Industrial Haiwell
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+Template Supervisório Haiwell SCADA – Gratuito
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+Kits de Aplicação Alfacomp
+Comunicação Industrial
+Conversor de Protocolo
+Conversor HUB Serial Industrial Isolado RS485/RS232/RS422 – CSE485-HUB4
+Conversor HUB Serial Industrial Isolado RS485/RS232/RS422 – CSE485-HUB8
+Conversor de Protocolo Modbus RTU/ASCII para PROFINET – ALFA-PNM02
+Conversor de Protocolo Modbus RTU/ASCII para PROFIBUS-DP – ALFA-DPM01
+Conversor serial RS232 para RS485 - CS485-V
+Conversor de Protocolo CANopen para Modbus TCP – ALFA-CNM01
+Ver todos
+Gateway Serial Ethernet
+Servidor Serial & Gateway Modbus
+Gateway Modbus e Servidor Ethernet conversor RS232 e RS485 - MPORT3101R
+Ver todos
+Rádio de Comando
+Telecomando de bombeamento
+Remota de telemetria - RT304
+Remota de telemetria - RT308
+Telecomando Alfacomp - TC3172
+Ver todos
+Rádio de Dados
+Kits de Aplicação Alfacomp
+P900 – Rádio modem Spread Spectrum em 900 MHz
+RM-SX900 – Rádio modem Spread Spectrum em 900 MHz
+RM2071 – Rádio Modem 2,4 GHz Spread Spectrum
+Kit Enlace de Rádio 2,4 GHz
+RM2060 – Rádio modem Spread Spectrum em 900 MHz (EOL)
+Rádio Modem Industrial 25W XZ-DT25-Hx (Até 80 km)
+Rádio Modem Industrial 8W XZ-DT25-Mx (Até 12 km)
+Ver todos
+Rádio Lorawan
+Rádio modem LoraWan RS485 - RAK7431
+Gateway LoraWan - RAK7289
+Ver todos
+Switch Ethernet Industrial
+Switch Ethernet Industrial Gerenciável CIEN5205C-2F-2D232/485
+Switch Ethernet Industrial CIES316G (16 Portas Gigabit)
+Switch Ethernet Industrial PROFINET CIES308PN (8 Portas Gigabit)
+Switch Ethernet Industrial CIES308 (8 Portas Gigabit)
+Switch Ethernet Industrial CIES305G (5 Portas Gigabit)
+Switch Ethernet Industrial PROFINET CIES208PN (8 Portas Fast Ethernet)
+Switch EtherCAT Industrial CIES206EC (6 Portas Fast Ethernet)
+Switch Ethernet Industrial PROFINET CIES205PN (5 Portas Fast Ethernet)
+Switch Ethernet Industrial CIES205 (5 Portas Fast Ethernet)
+Switch Industrial Gerenciável 24 Portas RJ45 Fast Ethernet Layer 2 para Rack 19” – CISCOM6024
+Ver todos
+Telecomando Alfacomp - TC3172
+Instrumentação Industrial
+Medidores de Nível
+Sensor de nível 4 estágios - ID3018
+Kits de Aplicação Alfacomp
+Medidor de nível por radar para rios 80G FM – Sem display SR-FM80-SD
+Transmissor ultrassônico de nível - TUN21-R
+Transmissor ultrassônico de nível - TUN20
+Transmissor ultrassônico de nível - TUN26
+Transmissor ultrassônico de nível - TUN21-K
+TNH20 – Transmissor de nível hidrostático
+Transmissor de nível radar – FMW-80G
+Transmissor de nível hidrostático - LT1000
+Ver todos
+Medidores de Pressão
+Pressostato eletrônico ajustável - EPT4000
+Transmissor de pressão - TP20
+Ver todos
+Medidores de Vazão
+Transmissor de vazão para calha aberta - TUN2106-DR
+Medidor ultrassônico de vazão - TDS-100F1
+Medidor ultrassônico de vazão portátil - TDS-100H
+Transmissor de vazão eletromagnético - TVE20
+DTI-200H – Medidor de Vazão Ultrassônico Portátil
+Ver todos
+Segmentos e Aplicações
+Automação e Controle na Indústria da Madeira
+Automação e Controle na Indústria do Plástico
+Automação e Instrumentação Industrial para Mineração e Ferro
+Automação e Monitoramento de Energia
+Automação e Telemetria na Agroindústria
+Automação Industrial para Saneamento
+Insensibilizador de Suínos
+Telemetria para Saneamento
+Monitoramento de Nível AlfaLevel
+Soluções de Engenharia
+Consultoria para Automação Industrial
+Engenharia de Sistemas para Automação Industrial
+Insensibilizadores Eletrônicos
+Kit para insensibilizador de suínos
+Insensibilizador Eletrônico de Suínos - IE2002-S
+Insensibilizador Eletrônico de Aves - IE2001
+Registrador eletrônico para rastreabilidade da insensibilização - IE365
+Ver todos
+Painéis de Telemetria
+PT-X — Painel de Automação Industrial customizável
+Ver todos
+CLP e IHM para Fabricantes de Maquinas
+CLP e IHM para Integradores
+Materiais
+Blog
+Suporte
+Cases
+Loja Virtual
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+Políticas ESG
+Parceiros
+Trabalhe Conosco
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Blog
+Suporte
+Cases
+Cidades atendidas
+Loja Virtual
+Alfacomp
+Medidores de Pressão
+Home
+Medidores de Pressão
+Pressostato eletrônico ajustável - EPT4000
+Saiba Mais
+Transmissor de pressão - TP20
+Saiba Mais
+Reputação 5 Estrelas em Automação Industrial
+Somos referência em automação e controle industrial no Brasil. Atuamos como consultoria de engenharia, fabricantes de soluções próprias e distribuidores exclusivos Haiwell, oferecendo CLPs, IHMs e sistemas completos de automação. Unimos experiência, inovação e proximidade para elevar a eficiência, a segurança e a competitividade das indústrias em todo o país.
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+ESG
+Parceiros
+Cases
+Blog
+Contato
+Soluções Industriais
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Contato
+Unidade Porto Alegre/RS:
+Rua Cel. Dico de Barros, 67, Bairro Navegantes. CEP 90.240-090
+Porto Alegre, RS – Brasil
+Unidade Campinas/SP: Av. Antônio Artioli, 570 Sala 204. Edifício Locarno, Swiss Park.
+CEP 13049-253.
+Campinas, SP – Brasil
+Horário de Atendimento:
+Segunda a Quinta das 08h às 18h
+Sexta das 08h às 17h
+Fale por WhatsApp
+Clique para Ligar
+Procurando Medidores de Pressão para Instrumentação Industrial? Encontrei aqui Medidores de Pressão para Instrumentação Industrial. Alfacomp é Especialista em Instrumentação Industrial para Empresas.
+© Copyright 2026 DIVIA Marketing Digital. Todos os Direitos Reservados.
+Preencha para falar pelo Telefone
+FAZER LIGAÇÃO
+Preencha para falar pelo WhatsApp
+CHAMAR NO WHATSAPP
+Fechar
+Selecione o WhatsApp
+WhatsApp: (51) 3029-7161
+Fechar
+Selecione o Telefone
+Telefone: (51) 3029-7161
+Fechar
+Clique para Ligar
+Fale por WhatsApp

@@ -1,8 +1,9 @@
-# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 	https://www.tayle.ru/partner_register/
 2017-05-26	https://www.tayle.ru/videos/
 2025-02-06	https://www.tayle.ru/vendor/
 2016-11-24	https://www.tayle.ru/testpage/
+2026-10-30	https://www.tayle.ru/testing/
 2017-11-10	https://www.tayle.ru/rentarec/
 2021-09-27	https://www.tayle.ru/qsan-knowledge-base/
 2026-07-31	https://www.tayle.ru/QSAN/
@@ -243,4 +244,4 @@
 2021-01-21	https://www.tayle.ru/pubs/news/1646/
 2020-12-21	https://www.tayle.ru/pubs/interview/1800/
 2021-06-15	https://www.tayle.ru/pubs/tech_detail/1795/
-2020-12-16	https://www.tayle.ru/pubs/tech_detail
+2020-12

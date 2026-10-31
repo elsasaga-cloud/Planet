@@ -1,2 +1,8 @@
-# SA-023 fcnet.pl · home · https://fcnet.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 403
-Just a moment...
+# SA-023 fcnet.pl · home · https://fcnet.pl/ · fetched 2026-10-31T08:34:28Z · HTTP 404
+404 404
+ERROR / 404
+Nothing at this
+address.
+> GET /404
+> no route matched
+> 0 routes matched

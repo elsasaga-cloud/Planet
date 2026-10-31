@@ -1,4 +1,4 @@
-# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -362,7 +362,7 @@ New
 favorite
 favorite_border
 Network equipment MikroTik LHGGM&EG18-EA LTE Antenna + Modem, CAT18 LTE, 1x RJ45 1000Mb/s
-832.23 zł gross
+1,019.74 zł gross
 Add to basket
 New
 favorite
@@ -380,7 +380,7 @@ New
 favorite
 favorite_border
 Power supply Ubiquiti POE-24-24W-5P, PoE power supply, 24V, 1A, 24W, 5-pack
-174.71 zł gross
+214.89 zł gross
 Add to basket
 New
 favorite
@@ -403,12 +403,19 @@ Add to basket
 New
 favorite
 favorite_border
-Switches Ubiquiti Switch USW-Flex-2.5G-8-EU, 8x 2.5GbE RJ45, 1x 10GbE SFP+
-791.98 zł gross
+Switches Ubiquiti Switch USW-PRO-HD-24-POE-EU, Etherlighting, 2x 10GbE PoE++, 22x 2.5GbE PoE++, 4x 10G SFP+
+4,956.08 zł gross
 Add to basket
 On sale
 Previous
 Next
+-17.13 zł
+favorite
+favorite_border
+UPS ARMAC HOME 1000F LINE INTERACTIVE UPS, SCHUKO OUTPUT
+307.50 zł gross 324.63 zł gross
+Lowest price in 30 days: 324.63 zł gross
+Add to basket
 -141.00 zł
 favorite
 favorite_border
@@ -416,19 +423,12 @@ Ip cameras Petcube Play 2 - Pet Monitoring Camera with Laser, WiFi, 1080p
 299.00 zł gross 440.00 zł gross
 Lowest price in 30 days: 440.00 zł gross
 Add to basket
--17.13 zł
-favorite
-favorite_border
-UPS ARMAC HOME 1000F LINE INTERACTIVE UPS, SCHUKO OUTPUT
-246.80 zł gross 263.93 zł gross
-Lowest price in 30 days: 263.93 zł gross
-Add to basket
 -20.00 zł
 favorite
 favorite_border
 Flashlights Extralink EFL-1031 Odin LED Flashlight, Built-in Battery, 10W, 400lm
-19.02 zł gross 39.02 zł gross
-Lowest price in 30 days: 39.02 zł gross
+27.99 zł gross 47.99 zł gross
+Lowest price in 30 days: 47.99 zł gross
 Add to basket
 Learn how to design and optimize UniFi Wi-Fi networks
 Certified UniFi UWA Training

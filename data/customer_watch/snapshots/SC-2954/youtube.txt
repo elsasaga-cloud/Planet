@@ -1,0 +1,16 @@
+# SC-2954 videcon.co.uk · youtube · https://www.youtube.com/user/CCTVbyVidecon · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-10-08T12:11:07+00:00	UNV - Owlview	https://www.youtube.com/shorts/kD5wBwjcx1Y
+2026-08-20T16:32:20+00:00	Videcon South Golf Day 2026	https://www.youtube.com/watch?v=2XR_2aOFbCo
+2026-08-03T14:00:10+00:00	How to Set Up Audit Trail in Nx Witness | Step-by-Step Guide	https://www.youtube.com/watch?v=7DCsO92KzEA
+2026-08-03T13:50:09+00:00	How to Set Up Failover in Nx Witness | Step-by-Step Guide	https://www.youtube.com/watch?v=Urp-ZW267LE
+2026-07-09T15:39:26+00:00	Videcon Nort Golf Day 2026	https://www.youtube.com/watch?v=tPSEKcD-T4E
+2026-06-30T11:51:46+00:00	Western Digital Innovation	https://www.youtube.com/watch?v=XZJ5-LKlFVI
+2026-03-24T11:54:51+00:00	How Can Concept Pro Help Your VMS Installs	https://www.youtube.com/shorts/UFfzQZYhgc4
+2026-02-03T12:52:14+00:00	Network Optix Overview	https://www.youtube.com/watch?v=_TyHBFW9CjI
+2025-10-15T09:07:28+00:00	Uniview Tri-Guard 3.0/ OwlView+ Unboxing & Overview	https://www.youtube.com/watch?v=fn2sJbS7A8w
+2025-09-10T14:30:24+00:00	Videcon 2025	https://www.youtube.com/watch?v=01tFXQWFvGE
+2025-09-10T13:58:43+00:00	Videcon South Golf Day 2025	https://www.youtube.com/watch?v=Nr6YQ5VR5Zs
+2025-08-18T14:06:42+00:00	Uniview | HDMI Dome Camera	https://www.youtube.com/shorts/-91PRYDHdMU
+2025-08-18T14:02:34+00:00	HKC | Panel Overview	https://www.youtube.com/shorts/tv0cNPnWi2k
+2025-08-18T13:58:12+00:00	HKC | Touch Keypad	https://www.youtube.com/shorts/Ovx92KEFrQU
+2025-08-18T13:55:47+00:00	HKC | Demo Board Overview	https://www.youtube.com/shorts/p9bk60XESxM

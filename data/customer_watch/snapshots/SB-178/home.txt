@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -23,11 +23,11 @@ Dojazd
 Serwis
 Kontakt
 Kategorie
-Access Pointy (660)
+Access Pointy (658)
 Akcesoria (437)
 Akcesoria GSM/LTE (374)
 Anteny (375)
-Automatyka i Przemysł (441)
+Automatyka i Przemysł (442)
 Części serwisowe (161)
 Elektryka (13)
 Inteligentny dom (90)
@@ -39,7 +39,7 @@ Monitoring (306)
 Okablowanie (698)
 Platformy WLAN (2)
 Radiolinie (85)
-Routery (181)
+Routery (182)
 Routery ADSL (5)
 Światłowody (1706)
 Switche (681)
@@ -49,13 +49,13 @@ VoIP (78)
 Zasilanie (830)
 Zdrowie (10)
 Złącza (243)
-MikroTik (405)
+MikroTik (404)
 Solarix (139)
-Teltonika (391)
-Tenda (176)
+Teltonika (392)
+Tenda (175)
 TP-Link (479)
 Ubiquiti (792)
-♻️ Towary refurbished (3)
+♻️ Towary refurbished (2)
 Wybierz producenta
 Wybierz
 4World (1)
@@ -192,7 +192,7 @@ TechnicLan (23)
 Telcoline (98)
 Telcom (8)
 Teltonika (307)
-Tenda (223)
+Tenda (222)
 Tinycontrol (71)
 Tonze (1)
 TotoLink (23)
@@ -291,45 +291,42 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-TornadoBox 18 dBi (mmcx)
-104,55 zł z VAT
-147,60 zł
-85,00 zł netto
+Wisnetworks WIS-L5819S Sector Base Station
+257,07 zł z VAT
+719,55 zł
+209,00 zł netto
 szt
-Najniższa cena z 30 dni: 147,60 zł
-NOWOŚĆ WYPRZEDAŻ
-Grandstream HT818 v2 bramka VoIP
-503,07 zł z VAT
-626,11 zł
-409,00 zł netto
-szt
-Najniższa cena z 30 dni: 626,11 zł
-WYPRZEDAŻ
-Grandstream HT881 analogowa bramka FXO
-699,87 zł z VAT
-951,36 zł
-569,00 zł netto
-szt
-Najniższa cena z 30 dni: 951,36 zł
+Najniższa cena z 30 dni: 719,55 zł
 Zasilacz do laptopa Acer, 40W 2.1A 19V, Qoltec, (50058.40W)
 35,67 zł z VAT
 39,98 zł
 29,00 zł netto
 szt
 Najniższa cena z 30 dni: 39,98 zł
-Wisnetworks WIS-L5820S Sector Base Station
+Interline HORIZON maxi 6.1-6.5 GHz
+109,47 zł z VAT
+122,20 zł
+89,00 zł netto
+szt
+Najniższa cena z 30 dni: 122,20 zł
+Wisnetworks WIS-L520AC Sector Base Station
 479,70 zł z VAT
-719,55 zł
+805,90 zł
 390,00 zł netto
 szt
-Najniższa cena z 30 dni: 719,55 zł
-WYPRZEDAŻ
-Uchwyt kablowy KP10/10, na przewód płaski 10x10 mm
-2,34 zł z VAT
-8,61 zł
-1,90 zł netto
+Najniższa cena z 30 dni: 805,90 zł
+ExtraLink 8F Cable (FRP indoor/ outdoor)
+0,98 zł z VAT
+1,29 zł
+0,80 zł netto
 szt
-Najniższa cena z 30 dni: 8,61 zł
+Najniższa cena z 30 dni: 1,29 zł
+DishEter PRO 28 HV
+613,77 zł z VAT
+1 159,89 zł
+499,00 zł netto
+szt
+Najniższa cena z 30 dni: 1 159,89 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
@@ -384,4 +381,6 @@ Tenda CP6 obrotowa kamera do monitoringu domowego
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
-Koszty
+Koszty przesyłki:
+DHL: od 13 PLN (netto)
+FedEx: o

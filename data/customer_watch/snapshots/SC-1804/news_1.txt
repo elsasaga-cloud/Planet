@@ -1,0 +1,52 @@
+# SC-1804 indraheera.com · news_1 · https://indraheera.org/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+Articles | Indra Heera Group
+Home
+Products
+Solution
+Articles
+About Us
+Reseller
+Support
+Sign in
+Contact Us
+Home
+Products
+Solution
+Articles
+About Us
+Reseller
+Support
+Sign in
+Contact Us
+3">
+{{objBlog.t007_title}}
+{{objBlog.t001_Name }}
+{{objBlog.t007_date | date:'dd-MM-yyyy'}}
+0">
+1
+Explore
+Privacy Policy
+Terms of Service
+Disclaimer
+Refund Policy
+Shipping Policy
+Payment Policy
+Return Policy
+Follow us
+Facebook
+Twitter
+Linkedin
+Skype
+Whats App
+You Tube
+MS Teams
+Corporate Office (CO) :
+Address :Indra Heera Group, Industrial R&D, Khata No-112, Plot No-537, NH-922, Arrah, Bhojpur, Bihar-802301 (India)
+trade[at]indraheera[dot]org
++91-6182 459639
+Toll-free : 18008908761
+Registered Office (RO) :
+Address : Indra Heera Group, 116/H-6, Narayan Colony, Old Police Line, Arrah, Bhojpur, Bihar-802301 (India).
+admin[at]indraheera[dot]org
++91-6182 459639
+Toll-free : 18008908761

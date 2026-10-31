@@ -1,4 +1,4 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-10-29T15:11:51Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-10-31T08:34:28Z · HTTP 200
 29.10.2026 14:37:16	Hawke Reducer (M) 3 NPT (FM) 2 NPT SS	https://www.adeptor.no/hawke-international/476-slash-r-3n-2nss/hawke-reducer-m-3-npt-fm-2-npt-ss-exde-hawke-reducer-476
 27.10.2026 12:29:01	Hirschmann BOBCAT 8xFE, 6xTX,2xSC	https://www.adeptor.no/hirschmann/brs20-0600m2m2-10/hirschmann-bobcat-8xfe-6xtx-2xsc-brs20-0600m2m2-stczu9hhsesxxxxx
 21.10.2026 13:37:19	Bobcat Rail switch 4xSFP, 8xRJ45	https://www.adeptor.no/hirschmann/942%7e170-010/bobcat-rail-switch-4xsfp-8xrj45-brs50-00122q2q-stcy99hhsesxxxxx

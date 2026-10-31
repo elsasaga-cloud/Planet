@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · home · https://www.ecin.ca · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-749 ecin.ca · home · https://www.ecin.ca · fetched 2026-10-31T08:34:28Z · HTTP 200
 Open Networking Systems Integrator | ECIN Canada
 Skip to Content
 Open Solutions
@@ -44,6 +44,7 @@ Blogs
 Success Stories & Use Cases
 Datasheets & Whitepapers
 Videos & Demos
+Support
 About Us
 our Company
 Who We Are
@@ -61,6 +62,7 @@ Open Solutions
 Industries
 Products
 Resources
+Support
 About Us
 EN
 FR
@@ -69,13 +71,6 @@ Contac​​​​t ​​​​​​Us
 Unlock Your Network
 Break free from vendor lock-in. Seamless connectivity, proven reliability, and future-proof infrastructure.
 Discover Our Solutions
-Powering Canada's Digital Infrastructure
-Our team will be at the Global Datacenter & Cloud Expo from October 20-21, 2026 at the International Centre in Mississauga, Ontario.
-Click here to register for free!
-Reasons to attend:
-Meet leading technology companies showcasing the latest products and services across data centre infrastructure, cloud computing, AI, networking, cybersecurity, power management, cooling systems and digital transformation solutions.
-Discover proven strategies for sustainability, regulatory compliance, energy efficiency and next-generation technologies.
-Explore best practices in cybersecurity, data protection and compliance to build resilient, secure and future-ready digital infrastructure.
 All Your Networking Needs. One Shop.
 From optics to switches — everything ships from our Canadian warehouse.
 SONiC Switches

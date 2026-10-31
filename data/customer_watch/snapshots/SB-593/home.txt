@@ -1,4 +1,4 @@
-# SB-593 ibdglobal.com · home · https://www.ibdglobal.com/en · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-593 ibdglobal.com · home · https://www.ibdglobal.com/en · fetched 2026-10-31T08:34:28Z · HTTP 200
 Soluciones Profesionales de Seguridad | IBD Global
 Skip to Content
 Guest
@@ -18,7 +18,7 @@ Category
 Orders
 Tienda
 Partners
-Categorías
+Divisiones
 Intrusión
 Incendio
 Videovigilancia
@@ -35,6 +35,7 @@ IBD Academy
 IBD Services
 IBD Solutions
 Hazte cliente
+Recursos
 Login
 0
 Wishlist
@@ -56,7 +57,7 @@ OUTLET
 Explore All Categories
 Tienda
 Partners
-Categorías
+Divisiones
 Intrusión
 Incendio
 Videovigilancia
@@ -73,6 +74,7 @@ IBD Academy
 IBD Services
 IBD Solutions
 Hazte cliente
+Recursos
 My Cart
 ( 0 )
 My Wishlist

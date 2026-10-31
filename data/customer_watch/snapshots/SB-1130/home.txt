@@ -1,28 +1,110 @@
-# SB-1130 cnstech.gr · home · https://cnstech.gr/ · fetched 2026-10-29T15:11:51Z · HTTP 522
-cnstech.gr | 522: Connection timed out
-Connection timed out
-Error code 522
-Visit cloudflare.com for more information.
-2026-10-29 UTC
-You
-Browser
-Working
-Dallas
-Cloudflare
-Working
-cnstech.gr
-Host
-Error
-What happened?
-The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.
-What can I do?
-If you're a visitor of this website:
-Please try again in a few minutes.
-If you're the owner of this website:
-Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources. Additional troubleshooting information here.
-Cloudflare
-•
-Click to reveal
-172.172.157.5
-•
-Performance & security by Cloudflare
+# SB-1130 cnstech.gr · home · https://www.cnstech.gr/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+CNSTECH | Διαχειριζόμενες Υπηρεσίες IT & Συστήματα Ασφαλείας
+Menu
+Αρχική
+Υπηρεσίες
+Υποστήριξη
+Επικοινωνία
+Managed IT & Security
+Διαχειριζόμενες Υπηρεσίες Πληροφορικής για επιχειρήσεις που δεν αντέχουν downtime
+Η CNSTECH ενοποιεί IT, Ασφάλεια και Επικοινωνία σε ένα σταθερό τεχνικό οικοσύστημα με SLA, πιστοποιημένες εγκαταστάσεις και υποστήριξη που απαντά άμεσα.
+Μιλήστε με την ομάδα μας
+Δείτε τις υπηρεσίες
+EN 50131
+Certified Installers
+24/7 Monitoring
+SLA Contracts
+500+ Εγκαταστάσεις σε IT & ασφάλεια
+100+ Ενεργά συμβόλαια υποστήριξης SLA
+15+ Χρόνια τεχνικής εμπειρίας πεδίου
+Γιατί μας εμπιστεύονται
+Σημεία υπεροχής CNSTECH
+SLA
+Άμεση υποστήριξη
+Τεχνική απόκριση με προτεραιότητα στην επιχειρησιακή συνέχεια και ξεκάθαρη ενημέρωση.
+B2B
+Λύσεις επιχειρήσεων
+Υλοποιήσεις σχεδιασμένες για γραφεία, καταστήματα, πολυκαταστήματα και πολυχώρους.
+SEC
+Ασφάλεια
+Συστήματα συναγερμού, CCTV και έλεγχος πρόσβασης με βάση πιστοποιημένα πρότυπα.
+OPS
+Τεχνογνωσία
+Εξειδικευμένη ομάδα σε IT υποδομές, δίκτυα, cloud και τεχνική συντήρηση.
+Core Services
+Ολοκληρωμένες υπηρεσίες IT, ασφάλειας και επικοινωνίας
+Από managed IT έως φυσική ασφάλεια και δομημένη δικτύωση, χτίζουμε υποδομές που λειτουργούν συντονισμένα και αξιόπιστα.
+IT
+Διαχειριζόμενες Υπηρεσίες IT
+24/7 monitoring, endpoint/server management, patching, backup & disaster recovery.
+PC
+PC & Laptop Service
+Διάγνωση, αναβαθμίσεις SSD/RAM, data recovery και προληπτική συντήρηση.
+AL
+Συστήματα Ασφαλείας
+Μελέτη κινδύνου, εγκατάσταση EN 50131, αυτοματισμοί και συμβόλαια συντήρησης.
+CCTV
+Κάμερες / CCTV
+HD/IP επιτήρηση, καταγραφή συμβάντων και απομακρυσμένη προβολή με mobile app.
+AC
+Access Control
+RFID, PIN, biometrics, δικαιώματα πρόσβασης και αναφορές συμβάντων.
+INT
+Θυροτηλεοράσεις (Intercoms)
+IP/2-wire λύσεις, απομακρυσμένο άνοιγμα θυρών και ασφαλής διαχείριση εισόδου.
+NET
+Δίκτυα – Δομημένη Καλωδίωση
+LAN/Wi-Fi, firewall, VPN, VLAN, PoE και βελτιστοποίηση εταιρικής συνδεσιμότητας.
+OFF
+Μηχανές Γραφείου
+Εγκατάσταση/συντήρηση εκτυπωτών & πολυμηχανημάτων με monitoring αναλωσίμων.
+Value Proposition
+Γιατί CNSTECH για κρίσιμες υποδομές;
+Δεν παρέχουμε αποσπασματικές υπηρεσίες. Σχεδιάζουμε ένα ενιαίο περιβάλλον που συνδυάζει πληροφορική, φυσική ασφάλεια και επιχειρησιακή υποστήριξη.
+Ενιαίο σημείο ευθύνης για IT, CCTV, Access Control και Δίκτυα
+Διαφάνεια κόστους, τεχνική τεκμηρίωση και μετρήσιμα SLA
+Συνεχής πρόληψη βλαβών με monitoring και προληπτική συντήρηση
+Κλιμάκωση λύσεων ανάλογα με το μέγεθος και την πορεία της επιχείρησης
+Από τη μελέτη στην υποστήριξη
+Η διαδικασία υλοποίησης CNSTECH
+01
+Πρώτη Επαφή
+Καταγραφή αναγκών και υφιστάμενης κατάστασης υποδομών.
+02
+Αξιολόγηση
+Τεχνικός έλεγχος, risk assessment και λειτουργικές προτεραιότητες.
+03
+Πρόταση & Υλοποίηση
+Σαφές πλάνο εργασιών, παράδοση έργου και τεκμηριωμένη εγκατάσταση.
+04
+Συντήρηση & SLA
+Συνεχής τεχνική υποστήριξη, monitoring και βελτιστοποίηση λειτουργίας.
+Support / RMA
+Χρειάζεστε τεχνική υποστήριξη ή RMA;
+Η ομάδα μας αναλαμβάνει διάγνωση, απομακρυσμένη ή επιτόπια παρέμβαση και οργανωμένη διαδικασία RMA για εξοπλισμό που απαιτεί αντικατάσταση/επισκευή.
+Αίτημα Υποστήριξης
+RMA μέσω επικοινωνίας
+Επικοινωνία
+Ας σχεδιάσουμε τη νέα τεχνολογική υποδομή της επιχείρησής σας
+Πείτε μας τι θέλετε να βελτιώσετε: IT διαχείριση, ασφάλεια εγκαταστάσεων, εταιρική δικτύωση ή ολοκληρωμένη τεχνική υποστήριξη.
+Καλέστε: +30 210 5713 048
+Στείλτε email
+Υπολογιστές • Κάμερες • Δίκτυα — τεχνικές λύσεις υψηλής αξιοπιστίας για τη σύγχρονη ελληνική επιχείρηση.
+Αξιολογήστε μας στο Google
+Πλοήγηση
+Αρχική
+Υπηρεσίες
+Υποστήριξη
+Επικοινωνία
+Portfolio
+Υπηρεσίες
+Managed IT Services
+CCTV & Συστήματα Ασφαλείας
+Δίκτυα & Καλωδίωση
+Access Control / Intercoms
+Επικοινωνία
++30 210 5713 048
+[email protected]
+Ανδριτσαίνης 15, Περιστέρι 12135
+Δευτ–Παρ –
+© 2026 CNSTECH. All rights reserved. • Όροι Χρήσης • Πολιτική Απορρήτου

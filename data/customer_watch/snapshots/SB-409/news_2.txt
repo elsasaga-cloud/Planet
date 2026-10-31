@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -18,9 +18,9 @@ Power & PoE
 Petenet PoE Switches 12V Power Supplies PoE Extenders PoE Splitters Injectors
 New arrivals
 Shop All
-Uniview Dual Light 6 Camera Kit – UNV-KIT-301-P8-6T4DL-2TB
+Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
 Login for Pricing
-Uniview Dual Light 4 Camera Kit – UNV-KIT-301-P4-4T4DL-1TB
+Uniview NVR504-32E-IM – 32ch AI NVR, 4-Bay
 Login for Pricing
 New Arrivals Clearance
 Become a Dealer
@@ -111,15 +111,15 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-Uniview 5MP Analog Camera Review: Worth it in 2023?
-This review takes a deep dive into Uniview's latest release; a 5MP HD Analog ColorHunter camera with a powerful white…
-June 7, 2023
-Which is the Best Resolution for a Security Camera?
-Understanding Mega Pixels and Resolution There are a lot of options to choose from when purchasing security cameras. A common…
-January 23, 2023
-Uniview 4MP Dual Light Turret Camera Review
-Uniview's new 4MP Dual Light camera has so many features such as two-way audio and ultra motion detection. Additionally, this…
-March 8, 2023
+Guide to Installing a Wireless Elevator Camera
+Before installing a camera inside of an elevator, you need to be aware of any legal requirements in your area.…
+October 27, 2022
+Testing Uniview’s New 8MP ColorHunter Cameras
+The Uniview 8MP ColorHunter is capable of recording sharp, clear images 24/7. We put this camera to the test by…
+August 10, 2023
+Do Security Cameras Work Without Internet?
+While shopping around for a security camera, you may have noticed that a lot of them offer remote viewing functionality.…
+March 27, 2024
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account

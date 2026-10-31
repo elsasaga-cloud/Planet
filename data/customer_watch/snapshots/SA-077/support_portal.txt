@@ -1,13 +1,13 @@
-# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · support_portal · https://support.angoranetworks.com/ · fetched 2026-10-29T15:11:51Z · HTTP 522
+# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · support_portal · https://support.angoranetworks.com/ · fetched 2026-10-31T08:34:28Z · HTTP 522
 angoranetworks.com | 522: Connection timed out
 Connection timed out
 Error code 522
 Visit cloudflare.com for more information.
-2026-10-29 UTC
+2026-10-31 UTC
 You
 Browser
 Working
-Atlanta
+Minneapolis
 Cloudflare
 Working
 support.angoranetworks.com
@@ -23,6 +23,6 @@ Contact your hosting provider letting them know your web server is not completin
 Cloudflare
 •
 Click to reveal
-172.172.157.5
+20.106.21.65
 •
 Performance & security by Cloudflare

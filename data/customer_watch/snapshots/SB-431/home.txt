@@ -1,4 +1,4 @@
-# SB-431 protekna.com · home · https://www.protekna.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-431 protekna.com · home · https://www.protekna.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Protekna - Prodotti e tecnologie per l'automazione
 ita
 eng
@@ -320,6 +320,36 @@ BATTERIE
 CONNETTORI CABLATI
 Prodotti in offerta
 Offerta
+NPort W2150A-EU
+dism
+1-port wireless device server, 3-in-1, 802.11a/b/g/n WLAN EU band, 12 to 48 VDC, 0 to 55°C operating temper...
+Prezzo
+€ 367,70
+€ 280,00
+Oltre 5 pezzi:
+€ 354,10
+€ 280,00
+Offerta
+DRF-24V960W3GBA
+DELTA ELECTRONICS
+Power supply FORCE GT Series 24Vcc 40 Amp 3 x 320-575Vac (3-Phase) or 2 x 340-575Vac (2-Phase) Temperature...
+Prezzo
+€ 391,00
+€ 180,00
+Oltre 5 pezzi:
+€ 377,20
+€ 170,00
+Offerta
+EDS-2008-ELP
+MOXA
+Switch industriale non gestito 5 porte rame 10/100base(x) 12-45vdc -10 +60 C° con contenitore in plastica
+Prezzo
+€ 130,40
+€ 108,00
+Oltre 5 pezzi:
+€ 125,60
+€ 105,00
+Offerta
 NPORT 5110
 MOXA
 Server seriali - convertitori ethernet seriale - 10/100 rj45 , 1 porta rs-232 db9, 12-48vdc - 0 +55°c
@@ -348,36 +378,6 @@ Prezzo
 Oltre 5 pezzi:
 € 301,20
 € 175,00
-Offerta
-EDS-2008-ELP
-MOXA
-Switch industriale non gestito 5 porte rame 10/100base(x) 12-45vdc -10 +60 C° con contenitore in plastica
-Prezzo
-€ 130,40
-€ 108,00
-Oltre 5 pezzi:
-€ 125,60
-€ 105,00
-Offerta
-NPort W2150A-EU
-dism
-1-port wireless device server, 3-in-1, 802.11a/b/g/n WLAN EU band, 12 to 48 VDC, 0 to 55°C operating temper...
-Prezzo
-€ 367,70
-€ 280,00
-Oltre 5 pezzi:
-€ 354,10
-€ 280,00
-Offerta
-DRF-24V960W3GBA
-DELTA ELECTRONICS
-Power supply FORCE GT Series 24Vcc 40 Amp 3 x 320-575Vac (3-Phase) or 2 x 340-575Vac (2-Phase) Temperature...
-Prezzo
-€ 391,00
-€ 180,00
-Oltre 5 pezzi:
-€ 377,20
-€ 170,00
 I nostri marchi
 Hai bisogno di aiuto?
 +39 045 860 0998

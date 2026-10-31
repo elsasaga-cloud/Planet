@@ -1,0 +1,70 @@
+# XC-M090 Primation Systemtechnik GmbH & Co. KG · news_1 · https://www.primation.de/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+Blog | PRIMATION
+top of page
+Anmelden
+Start
+Warum wir?
+Produkte
+AV-Ethernet
+ProAV Network Server
+Obsero Monitoring
+Dante Domain Manager
+Sichere Fernwartung
+Ethernet
+ATEX Ethernet
+ATEX Mobile Computing
+ABS-Prüfsystem
+Industrie Software
+Automation
+Services
+Kontaktieren Sie uns
+Blog
+Mehr
+Use tab to navigate through the menu items.
+All Posts
+ATEX
+Ethernet
+Explosionsschutz
+P-Ex OTR opis
+AV-Ethernet
+Clocking
+Fernwartung
+All Posts
+Cyber Resilience Act (CRA): Was die neue EU-Sicherheitsanforderung für die AV-Medientechnik bedeutet
+Im Gegensatz zu früher, als AV-Setups isoliert betrieben wurden, werden heutige AV-Infrastrukturen oft direkt ins Unternehmensnetzwerk eingebunden und haben nicht selten dauerhafte Cloudverbindungen diverser Dienste. AV-Geräte, die mit dem Firmennetzwerk verbunden sind, stellen potenzielle Einstiegspunkte für Cyberkriminelle dar. Das kann zu Datenverlust oder Betriebsausfällen führen.
+Angelika Moser 12. Okt. 5 Min. Lesezeit
+Explosionsgefährdete Bereiche – Teil 28: Schutz von Geräten und Übertragungssystemen mit optischer Strahlung
+Eine Norm, deren letzte Fassung bereits mehr als zehn Jahre zurückliegt, rückt wieder stärker in den Fokus: DIN EN 60079-28 – Explosionsgefährdete Bereiche – Teil 28: Schutz von Geräten und Übertragungssystemen, die mit optischer Strahlung arbeiten.
+Der Grund dafür liegt auf der Hand: Die Digitalisierung macht auch vor explosionsgefährdeten Bereichen nicht halt.
+Matthias Henning 20. Sept. 6 Min. Lesezeit
+Singlemode oder Multimode? Die richtige Faser für moderne Netzwerke
+Glasfaser ist längst nicht mehr nur das Medium für Carrier und WAN-Strecken. Sie gehört heute zur Standardverkabelung von Gebäuden, Campusnetzen, Rechenzentren und zunehmend auch zu AV-over-IP-Infrastrukturen. Wer Links plant, erweitert oder Fehler analysiert, muss jedoch eine zentrale Frage sicher beantworten können:
+Ist Singlemode- oder Multimode-Faser die richtige Wahl?
+Marco Pfiffer 5. Aug. 6 Min. Lesezeit
+Die Security Guideline - Von der Systemanforderung zur Gerätekonfiguration mit nachvollziehbarem Sicherheitsniveau
+Gegen die zunehmende Bedrohung durch Cyberangriffe bietet die Norm IEC 62443 einen strukturierten Ansatz zur Bekämpfung und Minderung von Sicherheitslücken in industriellen Netzwerken.
+Um mit den eingesetzten Fernwartungsroutern konform zu sein hat die Firma MB connect line für Ihre Geräte die Security Guidelines herausgebracht.
+Angelika Moser 30. Juni 4 Min. Lesezeit
+Kontaktanfrage
+Namen eingeben
+E-Mail-Adresse eingeben
+Nachricht hier eingeben
+Absenden
+Danke für Ihre Nachricht!
+Hauptsitz:
+Bretonischer Ring 11
+85630 Grasbrunn
+​
+Tel.: +49 89 46260-0
+Fax: +49 89 46260-210
+E-Mail: info@primation.de
+Vertriebsbüro NW:
+Tannenweg 14-16
+52335 Düren
+​
+Tel.: +49 2421 6947-000
+Fax: +49 2421 6947-171
+E-Mail: info@primation.de
+Impressum Datenschutz AGB
+© 2024 PRIMATION Systemtechnik GmbH & Co. KG
+bottom of page

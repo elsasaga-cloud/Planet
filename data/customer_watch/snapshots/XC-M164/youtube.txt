@@ -1,0 +1,16 @@
+# XC-M164 TMMI, LLC（TMMI powered by GrayMatter） · youtube · https://www.youtube.com/@TmmiTV · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-10-30T14:00:38+00:00	🎃 Trick or Beep with the sensingCam SEC200 #sicksensorintelligence	https://www.youtube.com/shorts/aqTx_K7hmM8
+2026-10-27T13:00:02+00:00	How to sort chocolate variants with machine vision and AI	https://www.youtube.com/shorts/CM_ha5apdkU
+2026-10-22T12:00:01+00:00	Tutorial SICK Nova (10/12): AI Classification dStudio	https://www.youtube.com/watch?v=MJdS7kIRWpw
+2026-10-19T11:00:00+00:00	Battery Inspection Using 3D Inspection Solutions	https://www.youtube.com/watch?v=hMlDFfaXIvw
+2026-10-18T18:03:26+00:00	Tutorial Flexi Mobile / Flexi Net: Discretizer function block for value range IDs explained	https://www.youtube.com/watch?v=TGIxsGaQKtc
+2026-10-18T18:03:26+00:00	Tutorial Flexi Mobile / Flexi Net: "Encoder Data to Motion" function block explained	https://www.youtube.com/watch?v=r_vqMcoM_rI
+2026-10-18T18:03:25+00:00	Tutorial Flexi Mobile / Flexi Net: Units, value ranges and resolutions of integer values	https://www.youtube.com/watch?v=AKNevFex8cU
+2026-10-18T18:03:25+00:00	Tutorial Flexi Mobile / Flexi Net: How to configure the CAN listen mode	https://www.youtube.com/watch?v=XlhSzjpqh9E
+2026-10-18T18:03:25+00:00	Tutorial Flexi Mobile / Flexi Net: How does the "Motion" data type for safe motion monitoring work?	https://www.youtube.com/watch?v=z0Md4aGiTuI
+2026-10-16T09:59:15+00:00	Tutorial Flexi Mobile / Flexi Net: Differential Drive Kinematics function block	https://www.youtube.com/watch?v=L0HcWvfr7eM
+2026-10-13T12:00:14+00:00	How to setup the SEC200 for code reading	https://www.youtube.com/watch?v=OrH5_JUofZQ
+2026-10-08T11:00:25+00:00	Why Make 1D And 2D Code Reading Complicated? #sicksensorintelligence	https://www.youtube.com/shorts/CgQLDJuzJAw
+2026-09-29T12:00:10+00:00	Tutorial SICK Nova (9/12): 2D AI Anomaly Detection dStudio	https://www.youtube.com/watch?v=XZo6iRWoMsU
+2026-09-28T11:00:29+00:00	Tutorial Multi-camera alignment using SICK Ruler3000	https://www.youtube.com/watch?v=ODD0QHpy71M
+2026-09-22T14:00:10+00:00	Reliable 1D/2D Scanning Made Easy: sensingCam SEC200	https://www.youtube.com/shorts/FUVrLQRDXEU

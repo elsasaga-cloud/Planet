@@ -1,0 +1,295 @@
+# SC-2695 everfocus.com · news_1 · https://www.everfocus.com/news/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+News-Everfocus
+PRODUCTS
+Products
+Feature Solutions
+Intelligent Systems
+Commercial Vehicle Safety Solutions
+CCTV Surveillance
+Advanced Vision AI
+EverFocus Edge AI & Axxon One VMS
+EMS12D2 BSD Electronic Mirror (CMS)
+AI NVR Smart Security
+Driver Monitoring System
+NVIDIA Edge AI
+EAR Series | Robotic Controllers
+EAC Series | Edge AI Computing Platforms
+EAV Series | In-Vehicle Edge AI Systems
+eNVP Series | Embedded Edge AI & NVR Systems
+Qualcomm Edge AI
+Qualcomm AI Computing Platform
+Intel Embedded System
+Intel Edge Computing System
+Intelligent Transportation
+AI Accelerator Compatible Computers
+RockChip Edge AI
+RockChip AI Computing Platform
+Automation and Control
+Industrial IoT Gateway
+Programmable Automation Control
+Remote I/O
+Network Appliances
+Rackmount
+Desktop
+Network Interface Module
+SiMa Edge AI
+EAR-100T Robotic Controller with NVIDIA® Jetson Thor™ Module
+Accelerated by NVIDIA® Jetson T5000™, the EAR-100T delivers up to 2070 FP4 TFLOPS of AI compute and 128GB of memory for complex vision, localization, and sensor fusion.
+MDVR Solutions
+AI-ADAS Mobile DVR
+Mobile DVR
+AI Mirror / Camera Monitor System
+Mobile Camera
+BSIS Camera
+Analog Camera
+Software
+Management Viewer
+Accessories
+EMV1600 FHD-AI Hybrid Ｍobile DVR
+Hybrid Mobile DVR incorporates advanced AI Smart Driving Assistance features.
+Video Recorder
+Network Video Recorder (NVR)
+Digital Video Recorder (DVR / XVR)
+Cameras
+Specialty camera
+IP camera
+Analog camera
+Software
+Central Management System (CMS)
+Management Viewer
+Mobile APP
+Tools
+IRONGUARD II 16 PoE Network Video Recorder
+EverFocus IRONGUARD II 16 PoE is a 16CH, Built-in PoE, H.265, 8MP/4K NVR that can connect with sixteen(16) ONVIF 2.0 IP cameras. It also supports cloud storage, remote configuration, and video analytics in multiple languages.
+Edge AI Cameras
+Qualcomm
+NVIDIA
+Vision Embedded System
+Capture Cards
+4K HDMI M.2 Capture Cards
+12G SDI M.2 Capture Cards
+GMSL Camera
+PHX-N1000 Edge AI Camera
+Edge AI Camera with Exclusive LENSCORE Technology, NVIDIA Jetson Orin Nano™ / Orin™ NX, and Rich I/O Connectivity
+APPLICATIONS
+Applications
+Industries
+Technologies
+Railways & Transit
+Commercial Trucks & Fleets
+Buses & Coaches
+Autonomous Robotics
+Specialized Vehicles
+Traffic & Smart Cities
+Smart Retail
+Smart Manufacturing
+Education
+Government
+Enterprise & Organization
+Blind Spot Detection
+Advanced Driver Assistance Systems (ADAS)
+Industrial Fanless Design
+Video Processing and Recording
+4K UHD Video
+Wide Temperature
+Marine-Grade Stainless Steel
+SUCCESS STORIES
+SUPPORT
+FAQ
+Resource Center
+SERVICE
+Service
+NEWS & EVENTS
+CONTACT
+ABOUT
+About us
+Company Profile & Corporate Governance
+Privacy Statement
+English
+Global
+繁體中文
+台灣
+简中
+中国
+日本語
+日本
+Deutsch
+Europe
+News & Events
+Discover our latest updates and highlights
+HOME
+News
+All
+Blog
+News
+Events
+Awards
+Youtube Channel
+2026.10.29
+News
+EverFocus Partners with SiMa.ai to Expand Physical AI Portfolio for Drones and Autonomous Systems
+EverFocus (TWSE: 5484), a global leader in AI vision solutions, today announced the signing of a Memorandum of Understanding (MOU) with SiMa.ai, a U.S.-based leader in Physical AI. The collaboration will combine SiMa.ai’s purpose-built Physical AI platform, which includes co-optimized Palette™ Software Environment and Modalix™ Machine Learning System-on-Chip (MLSoC) with EverFocus’s expertise in intelligent imaging, industrial computing, hardware design, and system integration.
+2026.10.22
+News
+EverFocus IVS-50P0 Featured in Intel® Edge AI Catalog, Advancing Intelligent Transportation and Edge AI Computing
+EverFocus Electronics Corp.’s IVS-50P0 in-vehicle computer is now listed in the Intel® Edge AI Catalog as a Qualified Intel® AI Edge System. The entry features the company’s fanless platform for smart transportation, fleet management, and rugged edge computing.
+2026.09.24 - 2026.09.26
+Events
+Taiwan Expo USA 2026
+AI vision is moving beyond simply detecting what is in front of a camera.
+The next step is turning what machines see into intelligence they can use, whether that means recognizing an event, analyzing a situation, triggering a response, or enabling smarter interaction with the physical world.
+2026.09.09
+Events
+EverFocus Brings AI Vision to Intelligent Action at embedded world North America 2026
+As AI moves closer to cameras, machines, robots, and industrial systems, more intelligence is being processed where data is generated. This shift is enabling systems to move beyond sensing and detection toward real-time perception, decision-making, and action.
+2026.09.08
+News
+EverFocus Joins Arm Total Design for Physical AI to Advance Scalable Edge AI Solutions
+EverFocus has joined Arm Total Design for Physical AI, collaborating with Arm and a global ecosystem of technology partners to help accelerate the development, validation, and deployment of next-generation Physical AI solutions.
+2026.08.19 - 2026.08.22
+News
+EverFocus Showcases Physical AI for Smart Manufacturing Solutions Powered by NVIDIA Technology at Automation Taipei 2026
+Four demonstrations span perception, understanding, decision-making, and action through NVIDIA accelerated computing, edge AI vision, intelligent video analytics, and robotics
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+FAQ
+news
+support
+PRODUCTS
+APPLICATIONS
+SUCCESS STORIES
+SUPPORT
+SERVICE
+NEWS & EVENTS
+CONTACT
+ABOUT
+HQ Office
+1F., No. 134, Ln. 235, Baoqiao Rd., Xindian Dist., New Taipei City 231 , Taiwan (R.O.C.)
++886 (2) 2662-2338
++886 (2) 2662-3632
+[email protected]
+USA Office
+324 W. Blueridge Ave. Orange CA 92865
++1 (626) 844-8888
++1 (626) 844-8838
+[email protected]
+Japan Office
+7-6-4-101 Takashimadaira, Itabashi-ku, Tokyo 175-0082, Japan
++81 (3) 4363-2819
++81 (3) 4363-2790
+[email protected]
+China Office
+2F, Building A, Area A, Longquan Science and Technology Park, Tongfuyu Phase II, Henglang Community, Dalang Street, Longhua,Shenzhen 518109, Guangdong, China
++86 (755) 2765-1313
++86 (755) 2765-0337
+[email protected]
+Copyright ©
+2026
+Everfocus
+All Rights Reserved.
+Design
+by
+iBest
+Inquiry
+0
+Compare
+0
+E-NEWS SUBSCRIBE
+PRODUCTS
+Feature Solutions
+EverFocus Edge AI & Axxon One VMS
+EMS12D2 BSD Electronic Mirror (CMS)
+AI NVR Smart Security
+Driver Monitoring System
+Intelligent Systems
+NVIDIA Edge AI
+Qualcomm Edge AI
+Intel Embedded System
+RockChip Edge AI
+Automation and Control
+Network Appliances
+SiMa Edge AI
+Commercial Vehicle Safety Solutions
+MDVR Solutions
+AI Mirror / Camera Monitor System
+Mobile Camera
+Software
+Accessories
+CCTV Surveillance
+Video Recorder
+Cameras
+Software
+Advanced Vision AI
+Edge AI Cameras
+Vision Embedded System
+Capture Cards
+GMSL Camera
+APPLICATIONS
+Industries
+Railways & Transit
+Commercial Trucks & Fleets
+Buses & Coaches
+Autonomous Robotics
+Specialized Vehicles
+Traffic & Smart Cities
+Smart Retail
+Smart Manufacturing
+Education
+Government
+Enterprise & Organization
+Technologies
+Blind Spot Detection
+Advanced Driver Assistance Systems (ADAS)
+Industrial Fanless Design
+Video Processing and Recording
+4K UHD Video
+Wide Temperature
+Marine-Grade Stainless Steel
+SUCCESS STORIES
+SUPPORT
+FAQ
+Resource Center
+SERVICE
+Service
+NEWS & EVENTS
+CONTACT
+ABOUT
+Company Profile & Corporate Governance
+Privacy Statement
+Inquiry
+0
+Compare
+0
+Partner Log-in
+E-NEWS SUBSCRIBE
+Inquiry Cart
+total 0
+items
+Products
+Inquiry
+Compare
+total 0
+items
+Remove all
+Compare
+Search
+Please Enable cookies to improve your user experience

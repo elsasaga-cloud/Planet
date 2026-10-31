@@ -1,0 +1,16 @@
+# SC-623 industrialnets.ru · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCvp3awZ8329PK17HHkpFZ6Q · fetched 2026-10-31T08:34:28Z · HTTP 200
+2022-05-16T08:44:34+00:00	Пример сборки и подключения модульных ПЛК GCAN-PLC	https://www.youtube.com/watch?v=kNsHVa1WvDQ
+2021-05-20T06:33:18+00:00	Диагностика PROFIBUS. Часть 2. PROCENTEC ProfiTrace	https://www.youtube.com/watch?v=Wwfq3yJY_AY
+2021-04-27T07:05:13+00:00	Внешний вид сетевого концентратора 17030X PROCENTEC Profihub X5	https://www.youtube.com/watch?v=N9efPmqX2ow
+2021-04-19T06:53:23+00:00	Диагностика PROFIBUS. Часть 1. PROCENTEC Profihub и ComBricks	https://www.youtube.com/watch?v=f0tZ5lyM2ps
+2021-03-26T08:00:09+00:00	Внешний вид преобразователя интерфейсов (G1003) HART to Modbus компании Microcyber	https://www.youtube.com/watch?v=t8_le5emJuU
+2021-03-22T07:00:10+00:00	Руководство по обновлению прошивки для Anybus CompactCom	https://www.youtube.com/watch?v=zaZAr9X5phM
+2021-03-19T07:30:29+00:00	Внешний вид сетевого шлюза (AB7629) Anybus X-Gateway "PROFIBUS DP Master - Modbus-TCP Server/Slave"	https://www.youtube.com/watch?v=XHbcTGpI4tI
+2021-03-19T06:07:45+00:00	Внешний вид сетевого концентратора 17020R PROCENTEC Profihub B5+R	https://www.youtube.com/watch?v=Jzx3FhV1DRk
+2020-12-07T08:48:37+00:00	Руководство для начинающих. Протокол OPC UA.	https://www.youtube.com/watch?v=ygfIftrIy9s
+2020-12-01T05:08:55+00:00	Руководство для начинающих. Протокол MQTT.	https://www.youtube.com/watch?v=5xGxKKQ3p08
+2020-11-27T10:33:34+00:00	Натройка Anybus .NET Bridge. Часть 3. Настройка конфигурации ПЛК.	https://www.youtube.com/watch?v=VMcQO26GmYQ
+2020-11-27T10:23:53+00:00	Настройка Anybus .NET Bridge. Часть 2. Программирование .NET приложения.	https://www.youtube.com/watch?v=0Ht7W2xSr04
+2020-11-27T10:16:56+00:00	Настройка сетевого шлюза Anybus .NET Bridge. Часть 1. Как использовать шаблоны Excel.	https://www.youtube.com/watch?v=HP_w--u_OC0
+2020-11-25T11:03:39+00:00	Как настроить Anybus Wireless Bolt	https://www.youtube.com/watch?v=2Br1X2T9OFc
+2020-11-17T08:53:49+00:00	Как настроить Anybus Wireless Bridge II	https://www.youtube.com/watch?v=cIif0VeI0fg

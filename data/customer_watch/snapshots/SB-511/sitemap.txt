@@ -1,10 +1,10 @@
-# SB-511 rivershop.co.kr · sitemap · https://rivershop.co.kr/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-511 rivershop.co.kr · sitemap · https://rivershop.co.kr/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2025-08-22T11:36:30+09:00	https://rivershop.co.kr/
 2025-08-20T15:16:15+09:00	https://rivershop.co.kr/shopinfo/company.html
 2025-08-20T15:16:15+09:00	https://rivershop.co.kr/member/agreement.html
 2025-08-20T15:16:15+09:00	https://rivershop.co.kr/member/privacy.html
 2025-11-27T11:30:48+09:00	https://rivershop.co.kr/board/공지사항/1/
-2026-10-25T02:53:43+09:00	https://rivershop.co.kr/board/상품리뷰/4/
+2026-10-30T02:38:26+09:00	https://rivershop.co.kr/board/상품리뷰/4/
 2025-08-22T10:37:14+09:00	https://rivershop.co.kr/category/영상장비/51/
 2025-08-22T10:43:30+09:00	https://rivershop.co.kr/category/네트워크/52/
 2025-05-20T14:03:53+09:00	https://rivershop.co.kr/category/kvm-스위치/57/

@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,36 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Accessori UPS
-Modulo SMS interno per UPS THPPXXX | SMSCARDINTTHPXXX
+Unmanaged
+4Net 4N-DG04P2F: switch industriale PoE+ DIN 4 porte + 2 SFP, 65 W
 Esegui l'accesso per visualizzare i prezzi
 +
-Placche
-Placca 503 bianca per 2 keystone orizzontali | 4Net
+Fire Protect OM1
+4Net Cavo fibra Fire Protect OM1 6 fibre armato LSZH B2ca | CF62BA06LSM2
 Esegui l'accesso per visualizzare i prezzi
 +
-Bretelle Multimodali Zip Duplex 50/125 OM4
-Bretella Fibra OM4 LC-LC 1m | 4Net
+L3
+PLANET WGS-6325-8UP2X: switch industriale Layer 3 PoE++ multi-Gigabit
 Esegui l'accesso per visualizzare i prezzi
 +
-Fibra Ottica
-Tubicino di protezione per fibre loose 900 µm – giallo 2,5 mm
+10/100
+Transceiver Fibra Sfp (20Km) 100Mbps Wdm Tx-1550
 Esegui l'accesso per visualizzare i prezzi
 +
-Broadband Communication
-PLANET VC-232G: Convertitore Gigabit Ethernet over Coax
+L2/ Web Smart
+PLANET GS-4210-24PL4C: switch managed 24 porte PoE+ + 4 combo Gigabit, 650 W
 Esegui l'accesso per visualizzare i prezzi
 +
-Chassis Mount
-Media Converter Gigabit Smart 10/100/1000Base-T A Wdm 1310Nm
+10 GB
+10G Sfp+ Fiber Transceiver (Single-Mode) – 40Km ( -40 A 75°C), Ddm Supported
 Esegui l'accesso per visualizzare i prezzi
 +
-Esaurito
-Fire Protect OM2
-4Net Cavo fibra Fire Protect OM2 2 fibre armato LSZH B2ca | CF50BA02LSM2
+Categoria 5E
+Patch Cord Rj45 Utp Cat.5E 0,5M
 Esegui l'accesso per visualizzare i prezzi
 +
-Moduli Switch Modulari
-Planet CS6-S24T24S: Modulo switch 24 Gigabit + 24 SFP 1G per chassis CS-6306R
+Adattatori per inserti RJ45
+Adattattore Per Frutto Serie Ave Llife 44 4Net
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta

@@ -1,4 +1,4 @@
-# SB-793 worldstarsecuritycameras.com · home · https://worldstarsecuritycameras.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-793 worldstarsecuritycameras.com · home · https://worldstarsecuritycameras.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Wholesale Security Cameras & Installation | Worldstar
 Free Shipping on orders over $150.00, Lifetime Support & Software Upgrades Dismiss
 Skip to content
@@ -36,7 +36,7 @@ Easily manage your network with the Lysora Cloud Portal. Monitor users, configur
 Cloud Networks
 Cloud Routers
 Cloud Switches
-Could Wireless Access Point
+Cloud Wireless Access Point
 Coax Cameras
 A network firewall is a security system that is meant to manage access to a computer network.
 Coax Security Systems
@@ -103,6 +103,7 @@ Network Recorders
 Decoder
 Firewall
 VMS
+Lysora Wi-Fi 6 Access Points
 Coax
 Coax Recorders
 Coax Cameras
@@ -230,4 +231,4 @@ Access control systems can be customized to meet the unique needs of different i
 For example, a hospital may need to restrict access to certain areas such as operating rooms or patient records. An access control system can be customized to allow only authorized personnel with the necessary credentials to enter these areas. Similarly, a financial institution may require different levels of access for employees based on their roles and responsibilities. An access control system can be configured to grant appropriate levels of access based on job titles, departments, or other criteria.
 Access control systems can also help businesses comply with regulatory requirements and industry standards for data privacy and security. For instance, the Health Insurance Portability and Accountability Act (HIPAA) mandates strict guidelines for protecting patient health information. Access control systems can help healthcare providers ensure compliance by restricting access to electronic medical records (EMRs) only to authorized personnel.
 In addition, many industries have their own specific regulations that require strict controls over physical or digital assets. For example, the Payment Card Industry Data Security Standard (PCI DSS) requires merchants who accept credit card payments to implement strict controls over cardholder data. Access control systems can help merchants meet these requirements by limiting access to payment processing systems only to authorized individuals.
-Another benefit of access control systems is improved operational efficiency by streamlining access management processes and reducing the need for manual oversight. Traditional met
+Another benefit of access control systems is improved operational efficiency by streamlining access management processes and reducing the need for manu

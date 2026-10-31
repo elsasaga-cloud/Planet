@@ -1,0 +1,204 @@
+# XC-M072 КОМИКОН ООД（Comicon Ltd.） · news_2 · https://comicon.bg/en/блог/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+Блог
+Sidebar
+×
+HOME About us Виртуален тур
+Partners
+Our customers
+Contact us
+PRODUCTS LoRa wireless transfer of analog and discrete industrial signals
+Wireless industrial communication under standard IEEE 802.15.4 ZSerial industrial radiomodem 2.4 GHz for RS232/ 485/ 422
+ZPIOМ modular devices for wireless transfer of analogue, digital and serial signals
+ZCIO - custom-built controllers with Modbus communication
+ZMIO - Wireless Modbus I/O
+Wireless measurement of molten metal temperature
+RTDtoMQTT IIoT трансмитер за измерване на температура
+EnMGW EnOcean Modbus gateway
+Converters for serial interfaces RS232, RS485, RS485F, RS422, current loop ISO485DR-B industrial interface converter RS232 – RS485/422
+ISORS 422-C industrial interface converter RS232-RS485/422
+ISORSCL-XX-2 interface converter RS232/current loop
+ISORS232-1x4-B* industrial interface converter RS232-4хRS232
+REP485DR-B - industrial interface repeater RS485
+REP485DR-D - industrial interface repeater RS485/RS422
+Discontinued products
+SERVICES R&D 4F - Flying Forest Fires Fighting solution
+Information system for early detection of forest fires
+LoRa® повторител на унифицирани сигнали с управление на избора на канал
+EnOcean ZigBee Modbus TCP gateway
+Irrigation controller and soil moisture sensor
+Проект по процедура BG16RFPR001-1.001
+Engineering
+Energy monitoring and management
+Control and monitoring of remote objects
+Building management systems
+Videowall systems
+PARTNER PRODUCTS Products for industrial communication from HMS Industrial Networks ANYBUS - communication with any fieldbus or industrial Ethernet network Anybus embedded network interfaces
+Anybus wireless & infrastructure products Anybus® Wireless Bolt™
+Anybus gateways & protocol converters Anybus® communicator
+Anybus industrial network security products
+EWON - remote solutions for industrial applications Remote access gateways
+Remote data gateways
+Industrial cloud
+Data visualisation
+IXXAT - connectivity solutions
+Intesis - building automation and HVAC control Intesis network gateways
+Intesis HVAC gateways
+N-Tron Ethernet Switches
+Red Lion controllers, HMIs, Panel meters for critical applications
+Det-tronics Flame detectors
+Gas detectors
+Certified systems
+Huggenberger
+Dryad-детекция на горски пожари
+БЛОГ
+Comicon
+Search ...
+HOME
+About us
+Виртуален тур
+Partners
+Our customers
+Contact us
+PRODUCTS
+LoRa wireless transfer of analog and discrete industrial signals
+Wireless industrial communication under standard IEEE 802.15.4
+ZSerial industrial radiomodem 2.4 GHz for RS232/ 485/ 422
+ZPIOМ modular devices for wireless transfer of analogue, digital and serial signals
+ZCIO - custom-built controllers with Modbus communication
+ZMIO - Wireless Modbus I/O
+Wireless measurement of molten metal temperature
+RTDtoMQTT IIoT трансмитер за измерване на температура
+EnMGW EnOcean Modbus gateway
+Converters for serial interfaces RS232, RS485, RS485F, RS422, current loop
+ISO485DR-B industrial interface converter RS232 – RS485/422
+ISORS 422-C industrial interface converter RS232-RS485/422
+ISORSCL-XX-2 interface converter RS232/current loop
+ISORS232-1x4-B* industrial interface converter RS232-4хRS232
+REP485DR-B - industrial interface repeater RS485
+REP485DR-D - industrial interface repeater RS485/RS422
+Discontinued products
+SERVICES
+R&D
+4F - Flying Forest Fires Fighting solution
+Information system for early detection of forest fires
+LoRa® повторител на унифицирани сигнали с управление на избора на канал
+EnOcean ZigBee Modbus TCP gateway
+Irrigation controller and soil moisture sensor
+Проект по процедура BG16RFPR001-1.001
+Engineering
+Energy monitoring and management
+Control and monitoring of remote objects
+Building management systems
+Videowall systems
+PARTNER PRODUCTS
+Products for industrial communication from HMS Industrial Networks
+ANYBUS - communication with any fieldbus or industrial Ethernet network
+Anybus embedded network interfaces
+Anybus wireless & infrastructure products
+Anybus® Wireless Bolt™
+Anybus gateways & protocol converters
+Anybus® communicator
+Anybus industrial network security products
+EWON - remote solutions for industrial applications
+Remote access gateways
+Remote data gateways
+Industrial cloud
+Data visualisation
+IXXAT - connectivity solutions
+Intesis - building automation and HVAC control
+Intesis network gateways
+Intesis HVAC gateways
+N-Tron Ethernet Switches
+Red Lion controllers, HMIs, Panel meters for critical applications
+Det-tronics
+Flame detectors
+Gas detectors
+Certified systems
+Huggenberger
+Dryad-детекция на горски пожари
+БЛОГ
+Коя е най-добрата индустриална мрежа?
+Print
+Email
+По материали на Thierry Bieber, HMS Networks
+Дебатът за мрежите, в който никой не печели (и това е нормално)
+В света на индустриалната автоматизация да попиташ „Коя е най-добрата индустриална мрежа?“ е малко като да попиташ стая, пълна с италианци, коя е най-добрата паста. Ще възникнат разгорещени спорове, страстни защити, може би дори и кавга, но няма да се получи единствен отговор.
+Но все пак това е централен въпрос, особено за продуктовите мениджъри, инженерите по автоматизация и оперативните мениджъри. Индустриалните мрежи са нервната система на машините и фабриките. Изборът на грешна мрежа може да забави пускането на пазара, да усложни интеграцията или да ви обвърже с екосистемата на даден доставчик за десетилетия.
+Има ли победител? Златен стандарт? Един протокол, който да властва над всички останали?
+Read more ...
+Решения за индустриална мрежова сигурност с Anybus на HMS Networks
+Print
+Email
+Проектирани да защитават критична промишлена инфраструктура
+По материали на HMS Networks
+1. Предизвикателства пред сигурността на индустриалните мрежи
+OT (Operational technology) не е просто друга версия на IT.
+Терминът Operational technology (OT) обхваща хардуера и софтуера, с помощта на които се контролират (наблюдават и управляват) промишлени съоръжения, процеси и операции. Терминът спомага за диференцирането във функционално и технологично отношение на индустриалните системи за управление от традиционните системи за информационни технологии (ИТ).
+Според Световния икономически форум (WEF) производственият сектор се превръща в основна цел за кибератаки, причиняващи значителни престои и технологични нарушения. Това налага да се разработят по-ефективни решения за защита срещу киберзаплахи и минимизиране на въздействието им върху технологичните съоръжения и критични инфраструктури. С появата на нови регулации като NIS2 и стандарти като ISA/IEC 62443 се увеличават изискванията към промишлените предприятия за подобряване на мерките за мрежова сигурност и защита на критичните устройства.
+Качеството на ОТ мрежите, които за разлика от IT традиционно са проектирани да бъдат много по-отворени, е по-критично. Машините могат да бъдат атакувани от всички страни - заплахи могат да проникнат чрез IT през системите за контрол и наблюдение; посредством отдалечен достъп до цеха или при посещение на външно лице, свързващо се към мрежата. При несегментирани мрежи заплахата може да се разпространи бързо, заразявайки цялото предприятие и причинявайки като резултат значителни престои.
+Обикновено като препоръчителна архитектура за стратегия за защита в дълбочина се посочва моделът Purdue – за да се държат ИТ системите далеч от OT. Но той често е не само лошо приложен, а и води до отворени нива, уязвимост и възможност заразените машини бързо да разпространяват заплахите към други машини и системи в завода. Вместо да бъде ограничен, проблемът става по-голям, а възстановяването – по-дълго и по-скъпо.
+Read more ...
+Защита на съоръженията за индустриална автоматизация срещу кибератаки
+Print
+Email
+По материали на Thomas Vasen – мениджър бизнес развитие на мрежова сигурност Anybus в HMS Networks
+Все по-чести са съобщенията за кибератаки срещу индустриалния сектор. Thomas Vasen, мениджър бизнес развитие на мрежова сигурност Anybus в HMS Networks, очертава пет стратегии, които компаниите могат да използват, за да укрепят защитата си и да избегнат превръщането си в поредната жертва.
+Нарастване на броя на кибератаките
+Read more ...
+Разпоредби за киберсигурност в индустриалните среди
+Print
+Email
+По материали на Thomas Vasen, HMS Networks
+Как HMS Networks може да ви помогне да следвате разпоредбите за киберсигурност и да защитите активите си
+В предишна статия за тема киберсигурност Томас Васен, мениджър бизнес развитие на Anybus по мрежова сигурност в HMS Networks, разказва за нарастването на кибератаките срещу оборудването за индустриална автоматизация и за пет стратегии, които компаниите могат да използват, за да избегнат кибератаки и пораженията от тях. Тук г-н Васен разказва за регулациите и стандартите за киберсигурност, тяхното приложение и как човек може да се ориентира в тези промени, като същевременно се стреми да увеличава максимално непрекъснатостта на работния процес и сигурността.
+В сферата на киберсигурността има непрекъснато развитие, нововъведените стандарти и регулации водят до промяна в индустриите. В някои региони, като Европейския съюз (ЕС), се разработват задължителни нормативи; в други, като Съединените щати, насърчават промените чрез най-добри практики и насоки. Всички тези усилия имат обща цел – създаване на по-добре защитени технологични инфраструктури.
+Преглед на разпоредбите и стандартите
+Някои стандарти са свързани с информационната сигурност, която касае операциите в областта на информационните технологии (IТ), други се фокусират върху т. нар. оперативни (за контрол на производството) технологии (OT), целящи да осигурят непрекъсната работа на машини и критични инфраструктури. От решаващо значение е да се придържаме към правилния стандарт за нашата организация или продукти.
+Read more ...
+Ewon решения за IIoT
+Print
+Email
+Предлагаме на вниманието Ви статия за решенията за IIoT и отдалечен достъп, доставяни от HMS Ewon. В статията са представени пет приложения, които машиностроителите могат да внедрят днес, използвайки Ewon Flexy и Talk2M. Тези пет приложения са лесно приложими и дават път към нови бизнес възможности, като осигуряват и гъвкавост и мащабируемост за нови, по-сложни бъдещи приложения.
+Моля, кликнете върху линка:
+Ewon_for_IIoT.pdf 188.38 KB
+Статията е публикувана в брой 03-04/ 2024 г. на списание "Машиностроене и електротехника".
+Page 1 of 4
+Start
+Prev
+1
+2
+3
+4
+Next
+End
+NEWS
+600,000+ Ewon gateways connected globally
+Intesis KNX Data Secure IR Gateway for Air Conditioning Integration
+The new Anybus Communicator Modbus TCP Client – Modbus TCP Server
+Integration of IoT sensors in a system for energy monitoring
+The next generation Anybus Communicators - easy to use
+Intesis 700 Series for Protocol Translation
+Intesis series 700 Air: a new approach to HVAC control
+"4F - Flying Forest Fires Fighting" - presentation on UFO Showcase Event
+More news
+Projects
+R&D project for Flying Forest Fires Fighting (4F) solution - for monitoring before, during and after forest fires
+ASPires - R&D project about prevention and early detection of forest fires.
+R & D project for Zigbee Green Power based controller and sensor.
+R & D project for EnOcean Zigbee Modbus TCP/RTU gateway.
+Solutions for transmission of data under IEC60870-5-104 protocol to power distribution network operator.
+Energy management system for 6 plants.
+Protection and fault signalling system for steam generator.
+The solutions for your automation ideas.
+Contact us.
+Copyright © 2026 Comicon. All Rights Reserved.
+About us
+Job positions
+Weblinks reccomended
+Българска Асоциация на Електротехниката и Електрониката
+IndustryInfo.BG
+ВulgarianIndustry.bg
+Българска браншова камара по електронна промишленост и информатика
+Условия за ползване
+Политика за поверителност
+Contact us

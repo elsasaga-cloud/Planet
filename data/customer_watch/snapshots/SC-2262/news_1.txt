@@ -1,0 +1,205 @@
+# SC-2262 1st-embedded.com · news_1 · https://1st-embedded.com/en_US/blog/1 · fetched 2026-10-31T08:34:28Z · HTTP 200
+Embedded PCs/Boards,5G Router,IIoT Gateway | 1ST-embedded-Blog
+Navigationsmenü umschalten
+Home
+Products
+Blog
+Contact us
+My Cart
+Sign in
+Prev
+1
+2
+Next
+1ST-embedded Blog
+Industrial Network Security Solutions, Secure Industrial Monitoring and other News
+Important technical characteristics of 5G routers for industrial use
+What technical features of 5G routers are important for use in industry? ** *Ruggedness, 5G mobile characteristics, 3GPP standards, network slici...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— September 2026
+— 601
+Ansichten
+5G Industrial Routers – EU Compliance at a Glance
+What government regulations and certifications for 5G industrial routers are important in the EU? ** * Government regulations, standards & certific...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— July 2026
+— 1360
+Ansichten
+Mini-ITX boards: Advantages and Disadvantages of Industrial Use
+Industry requirements for Mini-ITX boards ** * Industrial features of Mini-ITX boards * The following requirements are essential:Power Supply, Ener...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— February 2026
+— 2633
+Ansichten
+Efficient Setup for 5G Outdoor Application
+Setup for 5G Outdoor Application ** * These three offer a very efficient solution for lossless 5G reception * The 5G router is integrated directly ...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— January 2026
+— 9599
+Ansichten
+Success and failure of fanless PCs in industrial applications
+The operation of fanless PCs in industrial applications ** * The success of their use depends heavily on the requirements of the application and en...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— December 2025
+— 3298
+Ansichten
+Important aspects for trouble-free use of fanless PCs
+Mind map on the most important aspects of using fanless PCs ** * Sufficient heat dissipation, good air circulation and the correct selection of temp...
+1ST-embedded GmbH, Sven Trommer
+— November 2025
+— 3880
+Ansichten
+2U Network Security Appliance and 5G Backup Route
+2U Network Security Appliance and 5G Backup Route ** * NSA with up to 32 LAN ports and * Robustel R5010 Rugged 5G Industrial Cellular Router Contact...
+1ST-embedded GmbH, Sven Trommer
+— October 2025
+— 7811
+Ansichten
+Edge AI Computers that are fast, save energy and increase data security at the same time
+4x Edge AI Computer with NVIDIA® modules and ARM® Cortex®-A78AE CPUs ** * AI performance up to 275 TOPS * Real-time data processing at edge reduces ...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— May 2025
+— 6059
+Ansichten
+Are you looking for a fanless miniPC for 24/7?
+4 Fanless mini PCs with Intel® Celeron® J6412 CPU ** * The powerful compact box PCs * Flexible installat...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— April 2024
+— 10773
+Ansichten
+A cost-efficient way to get more cellular bandwidth
+Rugged Router for secure IoT applications [1] ** * Global 5G/4G, 2x LAN, Dual SIM, 6x Antennas, IP30 * 5G and WiFi with auto-failover Contact 1ST-em...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— March 2023
+— 10168
+Ansichten
+Hopeful start to 2023!
+The past year was very challenging for all of us, but thanks to your support and cooperation we were able to remain successful even in difficu...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— January 2023
+— 8601
+Ansichten
+Are you looking for a rugged Tablet PC for harsh industrial use?
+Rugged 10" Android Industry and Outdoor Tablet [1] ** Octa-core Qualcomm® MSM8953 CPU, 1000 cd/m², MIL-STD-810G, IP68 * None [2] * strong in commun...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— May 2022
+— 10173
+Ansichten
+Successful start to 2022!
+We all look back on another turbulent year that has presented us with major challenges. We wish you relaxing holidays, health, serenity and lots of st...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— December 2021
+— 9673
+Ansichten
+Why Rugged Industrial Computer KMDA-5921-S002 is best suited
+The embedded Box-PC with 4 PCIe expansion slots [1] ** Intel® 8th/9th Gen. Coffee Lake LGA1151, 3x LAN, 8x USB, 16-bit Iso. DIO * *high performance...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— August 2021
+— 12152
+Ansichten
+Best wishes for 2021!
+* * We wish you relaxing holidays, health, serenity and a lot of strength for the challenges in 2021! We thank you for your trust and the pleasant co...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— December 2020
+— 9730
+Ansichten
+Industrial LTE router with PoE and two 4G modules
+Robuster LTE Industrie-Router***Welche Ausstattung hat der Robustel R2000 Dual Industrie-Mobilfunk-Router?* 4x PoE-Ports, 1x WAN, Dual-SI...
+1ST-embedded GmbH, Sven Trommer
+— July 2020
+— 18921
+Ansichten
+Make the best out of 2020!
+** * * We wish everyone a relaxing holiday and many happy moments in 2020, because happy people make the best of every situation! We would like t...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— December 2019
+— 10777
+Ansichten
+Are your Production Networks protected sufficiently?
+2U Network Security Appliance [1] ** *Industrial Network Security* 2U Rackmount Network Appliance with modular Hardware Concept up to 32 LAN ports, ...
+1ST-embedded GmbH, Sven Trommer
+— November 2019
+— 15518
+Ansichten
+Monitoring for production networks - more relevant than ever: for which goals and by what means?
+Monitoring in the Industry 4.0 ** Network security by monitoring of production networks Contact 1ST-embedded [1] Are you interested in ensuring ...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— April 2019
+— 12456
+Ansichten
+﻿New Year's wishes from 1ST-embedded-Team
+** We wish our customers, prospective customers and suppliers a successful and motivated 2019! Our customers get from us, among ot...
+1ST-embedded GmbH, Jelena Dronowa, Head of Digital Media
+— January 2019
+— 11765
+Ansichten
+About us
+1ST-embedded
+GmbH specializes in embedded computer systems, embedded computer boards,
+network security appliances, industrial routers and IOT gateways,
+industrial network solutions and opto-electronic components.
+Our Blogs
+1ST-embedded Blog
+Tags
+Archives
+2026
+September 1
+July 1
+February 1
+January 1
+2025
+December 1
+November 1
+October 1
+May 1
+2024
+April 1
+2023
+March 1
+January 1
+2022
+May 1
+2021
+December 1
+August 1
+2020
+December 1
+July 1
+2019
+December 1
+November 1
+April 1
+January 1
+2018
+July 1
+May 3
+1ST-embedded Products and Services
+Home
+Industrial Computer with active Cooling
+Fanless Embedded Computer
+Industrial Cellular Router
+Network Security Appliances
+Embedded Motherboards
+Industrial Ethernet Switches
+Fiberoptic Transceiver and Cables
+Rugged Industrial Tablet PCs
+Panel PC
+Industrial Monitors
+Accessories
+Contact and Informations
+Contact
+Shipping and payment Terms
+General Terms and conditions
+Privacy Statement
+Imprint
+News
++49407003550
+info@1ST-embedded.com
+1ST-embedded GmbH
+- About 1ST-embedded GmbH
+Our innovative and dedicated team specializes in computer components and systems for use in the industry.
+We are happy to advise you without obligation on the selection of a suitable system platform for your application and support you in your projects with our expertise and services.
+You as a customer are at the center of our activity with your special requirements and you determine the depth of our cooperation: from the delivery of individual boards or components through pre-qualified systems to customer-specific system solutions.
+English
+Deutsch
+Copyright © 1ST-embedded GmbH

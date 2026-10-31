@@ -1,4 +1,4 @@
-# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy
 Pn–Pt – · +48 504 500 007 info@ctr.pl
 Sklep
@@ -42,12 +42,12 @@ Zestawy monitoringu analogowego 65 Standard: AHD 32
 Ilosc kamer: 4 22
 Ilosc kamer: 8 24
 Polecane Kamery IP Zestawy gotowe
-Monitoring analogowy 968 › Monitoring analogowy
-Zobacz całą kategorię (968) →
+Monitoring analogowy 967 › Monitoring analogowy
+Zobacz całą kategorię (967) →
 Kamery analogowe (4w1 / AHD / TVI / CVI) 653 Kamery analogowe zewnetrzne 599
 Kamery analogowe wewnetrzne 79
 Kamery analogowe PTZ 47
-Rejestratory DVR/XVR 363 Hybryda: analog+IP 186
+Rejestratory DVR/XVR 362 Hybryda: analog+IP 186
 Ilosc kanalow: 16-kanalowy 105
 Ilosc kanalow: 32-kanalowy 30
 Ilosc kanalow: 4-kanalowy 87
@@ -201,7 +201,7 @@ Monitoring IP Zestawy monitoringu Monitoring analogowy Alarmy Wideodomofony i ko
 Cenniki Instalacje Kontakt Baza wiedzy
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy i akcesoria
 Kategorie
-Monitoring IP 5045 Zestawy monitoringu 196 Monitoring analogowy 968 Alarmy 625 Wideodomofony i kontrola dostepu 970 Akcesoria 2778 Marki
+Monitoring IP 5045 Zestawy monitoringu 196 Monitoring analogowy 967 Alarmy 625 Wideodomofony i kontrola dostepu 970 Akcesoria 2778 Marki
 ◆ Promocja tygodnia
 LC-CUBE PTZ
 -35%
@@ -314,7 +314,7 @@ Monitoring IP
 Zestawy monitoringu
 196 szt.
 Monitoring analogowy
-968 szt.
+967 szt.
 Alarmy
 625 szt.
 Wideodomofony i kontrola dostepu

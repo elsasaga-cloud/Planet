@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://goma.it/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-10-31T08:34:28Z · HTTP 200
 GOMA ELETTRONICA - Soluzioni Embedded per Edge Computing
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -134,16 +134,16 @@ Monitor Rugged 35
 Monitor Industriali 195
 Panel PC Industriali 144
 Monitor Rugged 35
-461 prodotti →
+462 prodotti →
 Schede e Moduli
 VME, OpenVPX, CompactPCI, COM e mezzanine: l'embedded scheda per scheda.
-Moduli Mezzanine 184
+Moduli Mezzanine 189
 MicroTCA 173
 Schede di I/O PCI e PCIe 163
-Moduli Mezzanine 184
+Moduli Mezzanine 189
 MicroTCA 173
 Schede di I/O PCI e PCIe 163
-877 prodotti →
+882 prodotti →
 Dispositivi Networking
 Switch, router e media converter per reti industriali affidabili.
 Switch Ethernet Industriali 136

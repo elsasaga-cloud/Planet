@@ -1,0 +1,102 @@
+# XC-M132 ABP Technology（ABP TECH） · news_1 · https://www.abptech.com/vendors/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+Featured Vendors Archive - ABP Technology
+Skip to content
+Home
+Featured Vendors
+Partner Store
+Partner Portal
+IPTECHVIEW
+972.831.1600
+Search ABP Technology and the Partner Store
+IP Technology & AI Integration
+Menu ☰
+Company
+Who We Are
+What We Do
+Who We Serve
+Solutions
+Phones & UC
+Video Surveillance & AI Supervision
+Wired Infrastructure
+Wireless Infrastructure
+Preconfigured Fulfillment
+Request a Quote
+AI Integrator
+AI Voice
+AI Video
+Partner Journey
+Resources
+Vendors
+Events & Training
+Press & Company News
+Vendor News
+Guides & Downloads
+Newsletter
+Support
+Blog
+Contact Us
+Become a Partner
+Featured Vendors
+These are the lines ABP Technology carries today. The roster is shorter than it used to be, and that is the point: we retired the vendors that stopped moving and kept the ones that still make sense in a market being reshaped by AI, cloud management and remote service.
+Every logo goes somewhere. The ones marked with a dot have a page of their own.
+Fanvil IP phones, gateways, door stations Yeastar UC & PBX platform IPTECHVIEW AI cloud VMS platform UNIVERSAL CAMERAS AI Cameras — Cloud Direct
+NDAA Compliant MOBOTIX Premium & TAA compliant security cameras DrayTek Routers & PoE switches Snom IP phones Yealink IP phones & video HP Poly Headsets & conferencing Cisco IP phones Grandstream Phones & UC gateways Patton VoIP gateways & extenders Teltonika LTE & 5G failover PLANET Industrial & PoE switching ISONAS IP access control Suprema Biometric access control
+Has a dedicated vendor page — worth a look.
+How we chose
+A distribution line card is easy to grow and hard to prune. Ours got pruned. We dropped vendors whose products had stopped evolving, whose support had thinned out, or whose roadmap no longer pointed anywhere our partners were going.
+What is left is a curated set: vendors with current products, a real roadmap, open standards rather than closed ecosystems, and the kind of long-term value a partner can build a business on. Fewer names, better answers — and people here who have actually deployed what they sell you.
+Become a Partner Request a quote
+Vendor News & Resources
+DrayTek Setup for Handling two Separated LANs
+More system integrators and VARs are separating LAN networks. DrayTek routers allow this with a single box. Below is a tutorial on…
+Read more →
+IPTECHVIEW: the cloud shift you already know how to sell
+Cloud PBX is to the IP phone what Cloud VMS is to the IP camera. IPTECHVIEW cloud video and AI supervision for…
+Read more →
+MOBOTIX ONE
+MOBOTIX is back...stronger than ever! MOBOTIX has done it, again! They created a superior IOT camera with truly everything you could have…
+Read more →
+DrayTek 2920 Automatic WAN Failover Configuration
+DrayTek Dual WAN routers such us the Vigor2920 have two Ethernet WAN Interfaces. The Dual WAN Ports allow you to connect to…
+Read more →
+Fanvil
+Fanvil IP phones, GA100 FXS gateways and i6 Series SIP/ONVIF door stations, from ABP Technology — Fanvil Master Distributor for North America.…
+Read more →
+Configuring VLANs in Draytek 2920n and 3200
+Draytek Vigor 2920n comes with 4 ports in the LAN, those ports are not just a plain switch, they can be configured…
+Read more →
+Grandstream UCM 62XX Series Password
+Notice: All new Grandstream UCM units will have a default admin password that is unique to each device. The old default credentials…
+Read more →
+Snom dialplan, eliminate the need for pressing the OK button
+Snom supports a simple dialplan that can be configured under
+Read more →
+Fanvil W620W – The Next-Generation Wireless Communication for a Mobile Workforce
+The Fanvil W620W Portable Wi-Fi Phone redefines professional mobility with the power of Wi-Fi 6, rugged durability, and now real time video…
+Read more →
+Draytek Vigor 2920n Automatic load balancing configuration
+The Draytek Vigor2920n is a dual wan Router that have two Ethernet WAN Interfaces and 4 Ethernet Wan ports. The Dual WAN…
+Read more →
+Posts pagination
+1
+2
+…
+11
+Next
+ABP Technology
+The IP technology partner you trust. The AI opportunity you can grow into.
+Who We Are
+What We Do
+Who We Serve
+Become a Partner
+Partner Journey
+Partner Store
+Work with Us
+Privacy Policy
+Terms of Use
+Sitemap
+Partner Access
+Partner Portal
+Partner Store
+Support
+© 2026 ABP Technology. All rights reserved.

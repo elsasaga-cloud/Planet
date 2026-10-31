@@ -1,0 +1,214 @@
+# SC-2516 novuscctv.com · news_1 · https://novuscctv.com/en/news · fetched 2026-10-31T08:34:28Z · HTTP 200
+News | NOVUS Professional solution for your security systems
+Skip to main content
+Home
+About us Cooperation
+Quality labels
+News
+Marketing Catalogs
+Press
+Video
+Advertising
+Leaflets
+Technical Support Software - archive
+Certificates - archive
+Manuals - archive
+Contact Export Department
+Technical Department
+Cameras
+We recommend
+New
+4 MPX Special Purpose IP Camera
+NVIP-4DQ-6701/PC
+8MPX IP Camera with video content analysis
+NVIP-8H-8932M/F
+New
+Dual PTZ IP Camera (Thermal/Visual)
+NVIP-5DPT-8703/30/T/25
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5H-6711/TA/7-A
+8 MPX Speed Dome IP Camera with intelligent object tracking
+NVIP-8SD-6540/25/F-II
+4 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-4H-6103/WL/LITE
+8MPX panoramic IP camera with Deep Learning-based image analysis and active deterrence
+NVIP-8PVE-4501/FWLAD
+New
+Dual PTZ IP Camera (Thermal/Visual)
+NVIP-5DPT-8703M/30/T/50
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5VE-6711/TA/7-A
+8 MPX Panoramic IP Camera with video content analysis and active deterrence
+NVIP-8PVE-6501/FWLAD
+8 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-8H-6101/WL/LITE
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5H-6711/TA/3-A
+Lenses
+We recommend
+Recorders
+We recommend
+16-channel IP Recorder
+NVR-6216-H1/LITE
+Multistandard AHD Recorder
+NHDR-6016A-H1-II
+NOVUS MANAGEMENT SYSTEM VSS IP Recorder
+NMS VSS NVR 5-4U-IV-R
+64-channel IP Recorder
+NVR-6364-H8/FR-II
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 3-R-IV
+32-channel IP Recorder
+NVR-6432-H2/F-II
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 7-R-IV
+128-channel IP Recorder
+NVR-64128-H16/FR
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 5-R-IV
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NVSO VSS CLIENT 7-R-IV-2L
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NVSO VSS CLIENT 7-T-IV-2L
+NOVUS MANAGEMENT SYSTEM VSS IP Recorder
+NMS VSS NVR X-2U-III-312TB
+Signal Transmission
+We recommend
+16-port PoE+ Managed Switch
+NVS-5116SP
+8-Port Gigabit Ethernet PoE+ Switch
+NVS-G3408SP
+Wall/ceiling mount bracket with built-in PoE switch
+NVS-4020JBD
+8-Port Ethernet PoE+ Switch for use in harsh environments.
+NVS-3408SP-EH
+New
+24-Port Gigabit Ethernet Managed PoE+ Switch
+NVS-G5424SP/400
+4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
+NVS-G3404SP-EH
+PoE Injector
+NV-8000PS/HP
+Passive video transmitter/receiver
+NVPT-414V-II
+24-Port Gigabit Ethernet PoE+ Switch
+NVS-G3424SP
+New
+8-Port Ethernet PoE+ Switch
+NVS-3408SP
+16-Port Ethernet PoE+ Switch
+NVS-3416SP
+SFP Module
+NV-02SFP/S
+Video intercoms
+Other
+We recommend
+Corner mount adapter
+NVB-SD8500CA
+Conversion adapter for wall mount, indoor/outdoor
+NVB-6082CAP
+Pole mount adapter
+NVB-SD8500PA
+Wall/ceiling mount bracket indoor
+NVB-6050JB-II/7043
+43'' 4K LCD monitor designed for continuous operation
+NVM-6043LCD-4K
+Wall/ceiling mount bracket indoor
+NVB-6050JB-II
+Conversion adapter for wall mount, indoor/outdoor
+NVB-6081CAP
+Wall/ceiling mount bracket indoor/outdoor
+NVB-8560JB
+Wall mount bracket indoor/outdoor
+NVB-SD6500JB
+Conversion adapter for wall mount, indoor/outdoor
+NVB-6083CAP
+Rack mount bracket for 4000 Series NVRs
+NVR-4000/RACK
+Input/Output alarm module
+NV-6000AL16/6
+NMS VSS
+NMS AC
+ANPR
+Home
+News
+Press
+NOVUS and Safestar – new integration opening up even more possibilities for remote monitoring
+18/09/2026
+NOVUS and Safestar – new integration opening up even more possibilities for remote monitoringWe are pleased to announce that NOVUS 6000 series devices have been integrated with the...
+Press
+NOVUS MANAGEMENT SYSTEM AC with SALTO integration
+18/09/2026
+NOVUS MANAGEMENT SYSTEM AC with SALTO integrationWith the release of NOVUS MANAGEMENT SYSTEM AC 6.06.017, we have expanded the system’s capabilities to include integration with SALTO...
+Software
+New version of NOVUS MANAGEMENT SYSTEM AC software 6.06.017
+12/08/2026
+Version 6.06.01711.08.2026 The new version 6.06.017 of the NOVUS MANAGEMENT SYSTEM AC software is now available. Access Control – SALTOAdded integration with the SALTO access...
+Software
+New version of NOVUS MANAGEMENT SYSTEM AC software 6.05.044
+16/04/2026
+Version 6.05.044 Date: 14.04.2026 r. Key changes and improvements: HID® Aero® Access ControlAdded elevator control support using HID® Aero® controllers. The function is...
+Software
+Browser-Based Video Monitoring - VSS WEB CLIENT
+23/12/2025
+New VSS WEB CLIENT Functionality for NOVUS MANAGEMENT SYSTEM VSS – Browser-Based Video MonitoringWe are introducing a new feature of the NOVUS MANAGEMENT SYSTEM VSS – VSS WEB CLIENT,...
+Press
+New AI NIGHT COLORS technology in NOVUS 6000 series cameras!
+26/08/2025
+AI NIGHT COLORS – A Colorful Night Full of Details!NOVUS 6000 series cameras are featured with the innovative AI NIGHT COLORS technology, enabling the capture of clear,...
+Products
+128-channel standalone IP recorder – NEW!
+26/08/2025
+NEW 128-CHANNEL IP RECORDER!Discover the NVR-64128-H16/FR – the most advanced standalone recorder in the NOVUS 6000 series.Engineered for high-performance video surveillance systems, it...
+Software
+The ipGO 4 App is Now Available on the App Store and Google Play
+20/06/2025
+The new ipGO 4 app - full control of NOVUS series 4000 devices at your fingertips!The ipGO 4 application enables comprehensive management of your video surveillance system from any mobile...
+Software
+The new version of the NOVUS MANAGEMENT SYSTEM AC software
+20/05/2025
+The new version 6.03.032 of the NOVUS MANAGEMENT SYSTEM AC software is now available.Below is a list of improvements and changes introduced in this version:A Device Tree tool has been added...
+Software
+New ipGO 6 App – download here!
+27/01/2025
+ipGO 6 App – Ultimate Control of NOVUS 6000 Series devices in your hands!Designed for your convenience and security in mind, ipGO 6 app is an advanced tool that provides:Live Monitoring...
+Products
+LPR FUNCTION IN THE 4000 SERIES
+26/07/2023
+The autonomous license plate recognition function enables the detection and identification of license plate characters and compares them with a database stored in the camera's memory. Depending...
+Products
+SEE MORE WITH THERMO DUAL VISION CAMERAS
+06/06/2023
+Characteristic function of cameras is THERMO DUAL VISION that enables layering a thermovisual image on a classic image. This function is helpful, e.g., in the case of monitoring industrial...
+1
+2
+3
+4
+5
+6
+7
+8
+next ›
+Cameras
+Lenses
+Recorders
+Signal transmission
+Other
+NMS
+See our channel on
+About us
+News
+Cooperation
+Quality labels
+Contact Export Department
+Technical Department
+Download materials
+Advertising
+Video
+Software - archive
+Certificates - archive
+Manuals - archive
+Copyrights AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o. • Terms of use

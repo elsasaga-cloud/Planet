@@ -1,5 +1,14 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-10-31T08:34:28Z · HTTP 200
+29.10.2026 11:00:41	Universal stolpebrakett for ADSS	https://www.alcadon.no/tilbeh%c3%b8r/167573/universal-stolpebrakett-for-adss-stolpeoppheng
+29.10.2026 10:33:16	Strekkfisk M12, øye/øye, galvanisert stå	https://www.alcadon.no/tilbeh%c3%b8r/167572/strekkfisk-m12-%c3%b8ye-%c3%b8ye-galvanisert-st%c3%a5-stolpeoppheng
 28.10.2026 12:13:10	Påbygg til DCCS datasenter renhold	https://www.alcadon.no/alcadon/dccs-iso/p%c3%a5bygg-til-dccs-datasenter-renhold-datasenter-kurs-1-timer
+27.10.2026 14:23:55	Vibrasjonsdemper PVC 14,3-19,3mm	https://www.alcadon.no/endefeste-spiral/167566/vibrasjonsdemper-pvc-14-3-19-3mm-for-adss-spiral-endefeste
+27.10.2026 14:14:41	Vibrasjonsdemper PVC 11,7-14,3mm	https://www.alcadon.no/endefeste-spiral/167565/vibrasjonsdemper-pvc-11-7-14-3mm-for-adss-spiral-endefeste
+27.10.2026 14:08:53	Vibrasjonsdemper PVC 8,3-11,7mm	https://www.alcadon.no/endefeste-spiral/167564/vibrasjonsdemper-pvc-8-3-11-7mm-for-adss-spiral-endefeste
+27.10.2026 13:47:21	Kause U-form 8-15mm	https://www.alcadon.no/tilbeh%c3%b8r/167563/kause-u-form-8-15mm-for-spiral-endefester
+27.10.2026 13:37:52	Kause c-form 8-15mm	https://www.alcadon.no/tilbeh%c3%b8r/167562/kause-c-form-8-15mm-for-spiral-endefester
+27.10.2026 13:23:01	Fiber ADSS sjakkel 13mm	https://www.alcadon.no/malico/167561/fiber-adss-sjakkel-13mm-galvanisert-st%c3%a5l-15kn
+27.10.2026 08:34:00	Fiber ADSS sjakkel 10mm	https://www.alcadon.no/malico/167560/fiber-adss-sjakkel-10mm-galvanisert-st%c3%a5l-9kn
 26.10.2026 10:57:05	FiberKabel SM Kanal G144 2km/tr	https://www.alcadon.no/fiber-mikro-g144-sm/stl-144f-12-dot-7/fiberkabel-sm-kanal-g144-2km-tr-g652d-12-7mm-eia-tia-598
 23.10.2026 15:05:46	Inno View12X Ribbon skjøtemaskin	https://www.alcadon.no/inno-instruments/view12x/inno-view12x-ribbon-skj%c3%b8temaskin-inkl-dot--v7-plus--ts-pro-fh-12r-mh-250r
 23.10.2026 09:21:03	Fluke TRC MPO SM 0,3m	https://www.alcadon.no/fluke/trc-sm-mpoapc-uu-a/fluke-trc-mpo-sm-0-3m-mpoapc-mpoapc-unpinned-unpinned-type-a
@@ -60,12 +69,4 @@
 30.04.2026 08:26:48	Raritan PDU-3P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-4917-e7v2/raritan-pdu-3p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
 30.04.2026 08:04:04	Raritan PDU-3P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-4699-e7v2/raritan-pdu-3p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
 30.04.2026 07:38:10	Raritan PDU-1P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-4161-e7/raritan-pdu-1p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
-29.04.2026 12:27:27	Raritan PDU-1P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-4057-e7/raritan-pdu-1p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
-15.04.2026 14:28:10	FTTx Single Set EZ.BOOSTER	https://www.alcadon.no/zeitler/zei100754/fttx-single-set-ez-dot-booster-for-fibere-r%c3%b8r-0-5-8-7-16-mm
-14.04.2026 10:32:59	FiberKabel SM Low Friction G02 LSZH 500m	https://www.alcadon.no/lightera/ofs24318/fiberkabel-sm-low-friction-g02-lszh-500m-g657a2-b2ca-reelex-boks-500m
-08.04.2026 13:07:33	Strips Svart 10cm 100 stk	https://www.alcadon.no/alcadon/kct102x2-dot-5-s/strips-svart-10cm-100-stk
-20.03.2026 15:43:58	SFP BIDI 1GE DDM SM 20km Generic	https://www.alcadon.no/transopto/s1g-bx20sc-53-g/sfp-bidi-1ge-ddm-sm-20km-generic-tx-rx1550-1310nm-14db-sc
-20.03.2026 15:41:10	SFP BIDI 1GE DDM SM 20km Generic	https://www.alcadon.no/transopto/s1g-bx20sc-35-g/sfp-bidi-1ge-ddm-sm-20km-generic-tx-rx1310-1550nm-14db-sc
-11.03.2026 12:13:50	Triarca Dør til skap 70cm Grønn RAL6012	https://www.alcadon.no/triarca/els-226029/triarca-d%c3%b8r-til-skap-70cm-gr%c3%b8nn-ral6012-m-trekant-l%c3%a5s-montert-til-art-dot-nr-226019
-24.02.2026 09:40:41	Fluke FiberInspector Pro Wi-Fi enabled	https://www.alcadon.no/fluke/fi2-7300-int/fluke-fiberinspector-pro-wi-fi-enabled-versiv2-main-unit--plus--inspection-camera
-23.02.2026 10:0
+29.04.2026 12:27:27	Rarit

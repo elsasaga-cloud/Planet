@@ -1,4 +1,6 @@
-# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+Thu, 29 Oct 2026 16:26:56 +0000	NuTAM	https://www.sisav.it/nutam/
+Thu, 29 Oct 2026 15:19:34 +0000	AiTRON	https://www.sisav.it/aitron/
 Mon, 05 Oct 2026 13:34:27 +0000	MAGBES	https://www.sisav.it/magbes/
 Fri, 25 Sep 2026 13:20:32 +0000	SHW9000	https://www.sisav.it/shw9000/
 Fri, 25 Sep 2026 12:48:55 +0000	SHD9000	https://www.sisav.it/shd9000/
@@ -9,5 +11,3 @@ Wed, 23 Sep 2026 08:03:19 +0000	MVC	https://www.sisav.it/mvc/
 Tue, 22 Sep 2026 12:08:15 +0000	TVP	https://www.sisav.it/tvp/
 Fri, 18 Sep 2026 12:27:59 +0000	MIC-8	https://www.sisav.it/mic-8/
 Thu, 17 Sep 2026 09:18:01 +0000	MED9000	https://www.sisav.it/med9000/
-Thu, 17 Sep 2026 08:22:00 +0000	AVC	https://www.sisav.it/avc/
-Fri, 11 Sep 2026 15:23:52 +0000	LPC	https://www.sisav.it/lpc/

@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -41,9 +41,9 @@ Szkolenia
 Porównaj ( 0 )
 Kategorie
 Producenci
-Kamery monitoringu Kamery monitoringu (647)
-Kamery IP (597) Kopułowe (246)
-Tubowe (175)
+Kamery monitoringu Kamery monitoringu (650)
+Kamery IP (600) Kopułowe (247)
+Tubowe (176)
 Kompaktowe (8)
 Obrotowe (60)
 Fisheye (12)
@@ -125,8 +125,8 @@ Licencje BCS Manager
 BCS (75)
 BCS Basic (40)
 BCS Flex (36)
-BCS Line (558)
-BCS Point (278)
+BCS Line (560)
+BCS Point (279)
 BCS Ultra (75)
 BCS Universal (116)
 BCS View (55)
@@ -137,8 +137,8 @@ KONFIGURATOR
 Konfigurator zestawów monitoringu Oferta w 5 min Skomponuj zestaw dostosowany do Twoich potrzeb. Zyskasz darmowe wsparcie techniczne i atrakcyjny rabat na całe zamówienie.
 OK
 WYPRZEDAŻ (26)
-NOWOŚCI (11)
-PROMOCJE (104)
+NOWOŚCI (14)
+PROMOCJE (103)
 Informacje
 Oprogramowanie
 Cenniki
@@ -153,31 +153,43 @@ Polecane
 Nowości
 Promocje
 Wyprzedaż
-BCS-EA48VSR8L6 BCS Universal kamera kopułowa 4w1 8Mpx mikrofon ...
-Zobacz warianty
+BCS-V-SIP2425SR10-Ai2(2) BCS View kamera obrotowa IP 4Mpx zoom ...
+Do koszyka
+3 198,00 zł
 BCS-L-EIP16FSR3L3-Ai1 kamera kopułowa IP 6Mpx NightColor mikrofon ...
 Zobacz warianty
-BCS-L-SIP4432SR15-AI2(3) BCS Line kamera PTZ IP 4Mpx SkyLight ...
-BCS-L-SIP4425SR15-AI2(3) BCS Line kamera PTZ IP 4Mpx SkyLight ...
-BCS-V-SIP2425SR10-Ai2(2) BCS View kamera obrotowa IP 4Mpx zoom ...
-BCS-L-PEIP2X4FCR2L2-Ai1 BCS Line kamera panoramiczna IP 8Mpx ...
-BCS-L-EIP112FSR3L3-Ai1 BCS Line kamera kopułowa IP 12Mpx SkyLight ...
+BCS-L-EIP16FSR3L3-Ai1-G kamera kopułowa IP 6Mpx NightColor mikrofon...
+Zobacz warianty
+BCS-L-EIP18FSR3L3-AI1 kamera kopułowa IP 8Mpx NightColor mikrofon ...
+Do koszyka
+1 924,00 zł
+BCS-L-TIP242FR3L3-TH-Ai1(0403) kamera termowizyjna IP 4Mpx detekcja...
+Do koszyka
+5 177,00 zł
+BCS-P-TIP74VSR5-ITC-0832(2) BCS Point kamera tubowa IP 4Mpx IR ...
+Do koszyka
+5 951,00 zł
 BCS-L-DIP14FSR3L3-Ai1 BCS Line kamera IP 4Mpx NightColor AI IR ...
+Do koszyka
+1 511,00 zł
+BCS-L-SIP4425SR15-AI2(3) BCS Line kamera PTZ IP 4Mpx SkyLight ...
+Do koszyka
+6 456,00 zł
 pokaż więcej
 BCS-B-SP04G02G BCS switch PoE 6 portowy (4x PoE, 2x Uplink)
-293,97 zł
+293,00 zł
 Do koszyka
 235,18 zł
 BCS-B-SP0402 BCS switch PoE 6 portowy (4x PoE)
-195,57 zł
+195,00 zł
 Do koszyka
 156,46 zł
 BCS-B-SP08G02G BCS Basic switch PoE 10 portowy (8xPoE Gigabit,...
-453,87 zł
+453,00 zł
 Do koszyka
 363,10 zł
 BCS-V-AS BCS View adapter słupowy do kamer
-281,67 zł
+281,00 zł
 Do koszyka
 197,17 zł
 BCS-MON7400B-S BCS Line wideomonitor głośnomówiący 7"
@@ -185,41 +197,41 @@ BCS-MON7400B-S BCS Line wideomonitor głośnomówiący 7"
 Do koszyka
 1 063,34 zł
 BCS-PAN-P1-N BCS Line moduł z jednym przyciskiem wywołującym
-264,45 zł
+264,00 zł
 Do koszyka
 185,12 zł
 BCS-PN14 BCS Line aluminiowa obudowa z daszkiem natynkowa
-200,49 zł
+200,00 zł
 Do koszyka
 140,34 zł
 BCS-L-SP0802G(2) BCS switch PoE 10 portowy (8x PoE 100M, 2x RJ45 ...
-779,82 zł
+779,00 zł
 Do koszyka
 545,87 zł
 pokaż więcej
-BCS-B-SP08G02G BCS Basic switch PoE 10 portowy (8xPoE Gigabit,...
-453,87 zł
+BCS-MON7400B-S BCS Line wideomonitor głośnomówiący 7"
+1 519,00 zł
 Do koszyka
-363,10 zł
-BCS-P-TIP15FSR5-Ai BCS Point kamera tubowa IP z mikrofonem 5Mpx ...
+1 063,34 zł
+BCS-MON7400W-S BCS Line wideomonitor głośnomówiący 7"
 Do koszyka
-608,00 zł
-BCS-L-DIP14FSR3-W BCS Line kamera kopułowa IP 4Mpx Wi-Fi
-826,56 zł
-Do koszyka
-578,59 zł
-BCS-P-NVR1601-4KE-III BCS Point sieciowy rejestrator 16 kanałowy ...
-Do koszyka
-626,00 zł
-BCS-B-XVR0801(2.0) BCS Basic rejestrator 8 kanałowy 5w1 do 5Mpx...
-Do koszyka
-387,00 zł
+1 519,00 zł
 BCS-P-EIP28FWR3-AI2 BCS Point kamera kopułowa 8Mpx IR 30M WDR...
 Zobacz warianty
-BCS-P-TIP25FSR4-AI2 BCS Point kamera tubowa IP 5Mpx IR 40M WDR...
+BCS-P-TIP24FSR4-AI2 BCS Point kamera tubowa IP 4Mpx IR 40M WDR...
 Zobacz warianty
-BCS-P-EIP24FSR3-AI2-G BCS Point kamera kopułowa 4Mpx IR 30M WDR...
-Zobacz warianty
+Przewód NETSET BOX UTP 5e skrętka wewnętrzna [305m]
+Do koszyka
+651,00 zł
+BCS-PAN1320B-S BCS Line Jednorodzinny panel zewnętrzny TCP IP ...
+Do koszyka
+1 100,00 zł
+BCS-L-TIP35FSR8-AI2 BCS Line kamera IP 5Mpx IR 80m WDR
+Do koszyka
+1 868,00 zł
+BCS-IP5/E-S-II BCS switch PoE do 5 kamer IP w obudowie IP55
+Do koszyka
+521,00 zł
 BCS-B-EIP12FR3-AI(2.0) kamera kopułowa IP 2Mpx mikrofon SMD BCS ...
 146,00 zł
 Do koszyka
@@ -236,6 +248,8 @@ BCS-P-EIP14FSR3L3-AI(2) BCS Point kamera kopułowa IP 4Mpx LED ...
 547,00 zł
 Do koszyka
 265,00 zł
+BCS-P-TIP25FSR4L4-Ai2(2) BCS Point kamera tubowa IP 5Mpx IR 40M ...
+Zobacz warianty
 BCS-B-EIP14FSR3(2.0) kamera kopułowa IP 4Mpx mikrofon SMD BCS ...
 207,00 zł
 Do koszyka
@@ -244,10 +258,6 @@ BCS-P-EIP24FSR3-AI2 BCS Point kamera kopułowa 4Mpx IR 30M WDR...
 Zobacz warianty
 BCS-P-TIP24FSR4-AI2 BCS Point kamera tubowa IP 4Mpx IR 40M WDR...
 Zobacz warianty
-BCS-P-NVR0401-4KE-III BCS Point sieciowy rejestrator 4 kanałowy ...
-478,00 zł
-Do koszyka
-235,00 zł
 pokaż więcej
 Aktualności
 wtorek, 19 maja 2026r. Jaka kamera do monitoringu w nocy sprawdzi się najlepiej? Test BCS NightColor

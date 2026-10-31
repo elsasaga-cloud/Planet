@@ -1,4 +1,4 @@
-# SB-461 EMOS · home · https://www.emos.cz/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-461 EMOS · home · https://www.emos.cz/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 EMOS - drobné elektro pro vás | Nakupujte výhodně | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -15,23 +15,23 @@ Prázdný
 Doprava zdarma. Na vše!
 Vyberte si kategorii
 Žárovky
-(284)
+(280)
 Svítilny a čelovky
 (111)
 LED osvětlení
-(340)
+(339)
 Reflektory
-(115)
+(108)
 Lampičky a drobné osvětlení
-(53)
+(55)
 Vánoční osvětlení
 (268)
 Meteostanice a budíky
-(38)
+(39)
 Váhy
 (14)
 Termostaty a detektory
-(48)
+(47)
 Zabezpečení domu
 (81)
 Domovní zvonky
@@ -55,7 +55,7 @@ Instalační materiál
 Elektronika pro domácí mazlíčky
 (9)
 Novinky
-(174)
+(177)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
@@ -68,27 +68,27 @@ na první nákup
 Doprava zdarma na vše
 Do objednáte, dnes odesíláme!
 96 % zboží skladem
-13 900 hodnocení, 99 % důvěra
+15 200 hodnocení, 99 % důvěra
 Využijte dnes slevu
 Naše nabídka
 Žárovky
-(284)
+(280)
 Svítilny a čelovky
 (111)
 LED osvětlení
-(340)
+(339)
 Reflektory
-(115)
+(108)
 Lampičky a drobné osvětlení
-(53)
+(55)
 Vánoční osvětlení
 (268)
 Meteostanice a budíky
-(38)
+(39)
 Váhy
 (14)
 Termostaty a detektory
-(48)
+(47)
 Zabezpečení domu
 (81)
 Domovní zvonky
@@ -114,7 +114,7 @@ Elektronika pro domácí mazlíčky
 Osvětlení na pěstování rostlin
 (5)
 Novinky
-(174)
+(177)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
@@ -122,23 +122,23 @@ Chytrá domácnost EMOS GoSmart
 Jaro / léto
 (176)
 Žárovky
-(284)
+(280)
 Svítilny a čelovky
 (111)
 LED osvětlení
-(340)
+(339)
 Reflektory
-(115)
+(108)
 Lampičky a drobné osvětlení
-(53)
+(55)
 Vánoční osvětlení
 (268)
 Meteostanice a budíky
-(38)
+(39)
 Váhy
 (14)
 Termostaty a detektory
-(48)
+(47)
 Zabezpečení domu
 (81)
 Domovní zvonky
@@ -162,7 +162,7 @@ Instalační materiál
 Elektronika pro domácí mazlíčky
 (9)
 Novinky
-(174)
+(177)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart

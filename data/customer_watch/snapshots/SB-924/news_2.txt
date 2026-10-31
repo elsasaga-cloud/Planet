@@ -1,4 +1,4 @@
-# SB-924 Intracom Middle East FZ-LLC · news_2 · https://intracom-telecom.com/corporate/newsroom/events/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-924 Intracom Middle East FZ-LLC · news_2 · https://intracom-telecom.com/corporate/newsroom/events/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Intracom Telecom - Events
 Main navigation
 Home
@@ -271,4 +271,78 @@ Water Monitoring
 Environmental Monitoring
 Lighting Management
 Smart Parking
-Buildings Resource M
+Buildings Resource Monitoring
+Industrial IoT
+PhotoVoltaic (PV) Monitoring
+Integrated EV Charging & Carport
+Products
+uiTOP™
+Smart IoT Solutions for a Sustainable Future
+Optimize energy, mobility and resource management with our cutting-edge IoT solutions. From Smart Electro-Vehicle (EV) Charging and CarPort solutions to real-time Energy, Water, and Environmental Monitoring, we help businesses and cities operate more efficiently. Enhance urban mobility with Smart Parking and improve Building Resource Management with intelligent insights. Drive efficiency, reduce costs, and build a smarter, greener tomorrow—today!
+Read More
+Customer Engagement
+Solutions
+Contact Centers
+GenAI-enabled Billing Assistant
+AI-powered enhanced Customer experience (CSI)
+Unified Communications
+Products
+Cognitiva™
+Revolutionize Customer Experience with AI-Powered, Omnichannel Solutions
+Deliver exceptional customer interactions with intelligent contact centers, AI-powered digital workforce, and unified communications solutions. Using omnichannel engagement we help businesses stay connected, responsive, and efficient. Transform the way you connect—create seamless, efficient, and memorable customer interactions today!
+Read More
+Cloud, Networking & Security
+Solutions
+Cloud
+Networking
+Cybersecurity
+Professional Services
+Unlock your business potential with our state-of-the-art Cloud, Networking and Security Solutions.
+Designed for efficiency, reliability, and scalability, Intracom Telecom solutions deliver unmatched flexibility and security—ensuring seamless uptime and fast load speeds. Our cutting-edge strategies protect your systems, networks, and data, safeguarding sensitive information while maintaining confidentiality, integrity, and availability.
+Read More
+Monetization & Business Support
+Solutions
+Converged Charging
+Policy Control
+GenAI-enabled Billing Assistant
+AI-powered enhanced Customer experience (CSI)
+Telecom Applications
+Products
+NGINius™
+Cognitiva™
+Maximize Revenue with our Monetization suite and AI enabled BSS
+Ensure advanced charging and superior customer experience with our high-performance, carrier-grade Revenue management suite enabling Services Monetization, Policy Control and advanced digital services for 4G, 5G and beyond.Gen-AI powered BSS including Agentic Billing Assistant & Customer eXperience optimization enable complex billing events and charges analysis increasing customer satisfaction and reducing churn
+Read More
+Network Operations
+Solutions
+Network & Service Assurance
+Network & Service Fulfillment
+AI-powered Network QoE
+AI-powered enhanced Customer experience (CSI)
+Telecom Applications
+Products
+ActionStreamer™
+NGINius™
+Cognitiva™
+Optimize & Elevate Your Telecom Operations
+Empower your telecom operations with smart, scalable, and future-ready solutions! From network assurance to AI–powered Customer Satisfaction we help you deliver reliability, efficiency, and an exceptional user experience. Drive extra revenue and delight your consumer and business subscribers by offering carrier-grade services over fixed and mobile networks.
+Read More
+Metering & Grid
+Solutions
+Advanced Metering Infrastructure (AMI)
+Smart Electro-Vehicle (EV) CarPort
+Smart Grid Infrastructure
+Transform Utilities with Smart, Connected, and Future-Ready Metering & Grid Solutions!
+Streamline operations and optimize resource management with next-generation metering and smart grid technologies that enhance efficiency, sustainability, and real-time control.
+Read More
+eHealth
+Solutions
+Medical Data Management
+Radiology Information Management
+Telehealth
+Revolutionize Healthcare with our advanced ICT solutions
+Empower medical professionals to deliver high-quality, accessible care anywhere, anytime. Our technology offers secure data storage, real-time monitoring, telemedicine platforms, medical images distribution, and cloud-based diagnostic tools, enhancing patient outcomes and improving operational efficiency for healthcare facilities worldwide.
+Read More
+Video Streaming
+Solutions
+Multi-screen

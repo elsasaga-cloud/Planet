@@ -1,4 +1,4 @@
-# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Blog | Desecure Technology
 İçeriğe geç 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
 444 76 49
@@ -146,4 +146,48 @@ Video yönetim sistemi (VMS), çoklu kamera sistemlerini ve üçüncü parti yaz
 -> Yazıyı oku
 Alarm ve izleme · 29 Mayıs 2024
 Gelişmiş alarm sistemleri işletmelere ne sağlar?
-Gelişmiş alarm sistemleri, hırsızlık, vandalizm ve sabotaj gibi tehditleri erken algılayan ve bir izleme merkeziyle birlikte çalıştığında olay yönetimini de üstlenen güvenlik sistemleridir. Bu yazı, gelişmiş alarm sistemlerinin sağladığı faydaları, izleme hizmetinin sisteme ne eklediğini ve sistemin kapsamını belirleyen unsurları işletme bakış açısıyla a
+Gelişmiş alarm sistemleri, hırsızlık, vandalizm ve sabotaj gibi tehditleri erken algılayan ve bir izleme merkeziyle birlikte çalıştığında olay yönetimini de üstlenen güvenlik sistemleridir. Bu yazı, gelişmiş alarm sistemlerinin sağladığı faydaları, izleme hizmetinin sisteme ne eklediğini ve sistemin kapsamını belirleyen unsurları işletme bakış açısıyla anlatır.
+-> Yazıyı oku
+Teknik sözlük · 29 Mayıs 2024
+Güvenlik teknolojileri nedir, hangi alanlarda kullanılır?
+Güvenlik teknolojileri; video gözetim, erişim kontrol, alarm ve yangın alarm sistemleri gibi tesisleri ve insanları korumak için kullanılan sistemlerin bütünüdür. Her sistem grubunda birden fazla seçenek bulunur ve doğru seçim tesisin gereksinimine bağlıdır. Bu yazı dört ana sistem grubunu ve her birindeki temel seçenekleri karşılaştırmalı olarak anlatır.
+-> Yazıyı oku
+Yeni yazılar düzenli olarak eklenir.
+Tesisinizin risk profilini birlikte çıkaralım
+Teklif Al 444 76 49
+444 76 49 ara Teklif al
+Site haritası ve künye
+Çözümler
+AI Güvenlik Teknolojileri
+Video Gözetim ve Akıllı Kamera
+Çevre Güvenliği
+Yangın Algılama ve Erken Uyarı
+IoT ve Entegrasyon
+Hizmetler ve Teknolojiler
+Alarm İzleme Merkezi
+Uzaktan Video İzleme
+Mobil Güvenlik Sistemleri
+Proaktif Teknolojiler
+Kurumsal
+Hakkımızda
+Neden Desecure
+Yaklaşımımız
+Sektörler
+Enerji ve Yenilenebilir
+Üretim ve Fabrika
+İletişim
+Teklif Al
+Kaynaklar ve Yasal
+Blog
+Sıkça Sorulan Sorular
+KVKK
+Kişisel Verilerin Korunması ve İşlenmesi Politikası
+KVKK Aydınlatma Metni
+Çerez Politikası
+İlgili Kişi Başvuru Formu
+Desecure Teknoloji A.Ş.
+Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 İstanbul
+Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 Denizli
+444 76 49 bilgi@desecuretechnology.com LinkedIn ->
+Desecure grubu şirketi. Fiziki güvenlik hizmetleri: desecure.com.tr
+Çerez tercihleri

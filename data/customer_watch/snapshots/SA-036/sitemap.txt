@@ -1,4 +1,4 @@
-# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-10-31T08:34:28Z · HTTP 200
 	https://svn-video.ru/wi-fi-oborudovanie/kabel-utp-4pr-24awg-cat5e-305m
 	https://svn-video.ru/konnektery-razemy/soedinitel-rca-papa--rca-papa-
 	https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612
@@ -20,7 +20,6 @@
 	https://svn-video.ru/ip-camery/svn-500r25hpoe
 	https://svn-video.ru/ip-camery/svn-500sbc20kpoe
 	https://svn-video.ru/ip-camery/svn-500sbc25fc
-	https://svn-video.ru/ip-camery/svn-500sl20fc
 	https://svn-video.ru/ip-camery/kupolnaya-kamera-ip-svn-500sl20kpoe-2-8mm-5mp
 	https://svn-video.ru/ip-camery/ulichnaya-kamera-ip-svn-800mb405hpoe-2-7-13-5mm-8mp
 	https://svn-video.ru/ip-camery/svn-800mbb60h
@@ -229,4 +228,4 @@
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-200sba3
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-300r4xm
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-200pl4
-	h
+	https://svn-video.ru/gotovye-komplekty-videonab

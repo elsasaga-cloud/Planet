@@ -1,4 +1,4 @@
-# SB-538 infinitecables.com · home · https://www.infinitecables.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-538 infinitecables.com · home · https://www.infinitecables.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Infinite Cables | Your Online Source for Connectivity Solutions
 Skip to content
 Home
@@ -104,7 +104,7 @@ View all
 Unloaded Patch Panels
 48-Port Keystone UTP Panel 1U w/ Cable Manager - Unloaded
 PP-48KSUM-1U
-Sale price $54.95 CAD
+Sale price $62.25 CAD
 AC Power Cords
 IEC C20 to IEC C21 Power Cable - SJT Jacket - 12AWG (250V 20A)
 PWC-123-03
@@ -124,7 +124,7 @@ Sale price From $8.25 CAD
 Unloaded Patch Panels
 1U 24-port Keystone Patch Panel - 19 inch Rack Mount - Cable Manager - Shielded - Unloaded
 PP-24KSSM-1U
-Sale price $37.95 CAD
+Sale price $43.05 CAD
 CAT6A Patch Panels
 0.5U 24-Port CAT6A Patch Panel, 19" Rackmount, 110 Punch-Down, With Cable Management
 PP-24C6A0U
@@ -132,7 +132,7 @@ Sale price $79.60 CAD
 Serial Cables
 6ft USB Type-C Male to RJ45 Male Cisco Console Cable - Light Blue
 SR-551-06
-Sale price $21.60 CAD
+Sale price $22.45 CAD
 Fiber Optic Cleaners
 Sticklers™ Fiber Optic Splice and Connector Cleaner Fluid - 10oz Pump Spray
 FO-SFOC10M

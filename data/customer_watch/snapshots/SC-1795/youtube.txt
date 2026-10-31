@@ -1,0 +1,16 @@
+# SC-1795 bbcpl.in · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCZO6P-iZFLN8CQUtb5tbnDw · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-06-13T06:36:09+00:00	LIU	https://www.youtube.com/watch?v=Tadc3LxbVBc
+2026-05-11T12:28:55+00:00	May 11, 2026	https://www.youtube.com/watch?v=CQsUK3H_VNI
+2025-06-30T06:42:31+00:00	IGSW-24040T- Industrial L2+ 20-Port 10/100/1000T + 4-Port TP/SFP Combo Managed Ethernet Switch	https://www.youtube.com/watch?v=b62jjRd2hxc
+2025-06-30T06:41:26+00:00	IGS-4215-4T2S- Industrial L2/L4 4-Port 10/100/1000T + 2-Port 100/1000X SFP Managed Switch	https://www.youtube.com/watch?v=pviIvTkFRbE
+2025-06-30T06:40:00+00:00	IGS-6325-5X1T- Industrial Layer 3 5-Port 10GBASE-X SFP+ + 1-Port 10GBASE-T Managed Ethernet Switch	https://www.youtube.com/watch?v=WU0SuKBEXR8
+2025-06-30T06:30:16+00:00	IGS-6325-4T2X- Industrial Layer 3 4-Port 2.5GBASE-T + 2-Port 10GBASE-X SFP+ Managed Ethernet Switch	https://www.youtube.com/watch?v=nddl4Eo5mYA
+2025-06-30T06:27:06+00:00	IGS-6325-16T4X- Industrial L3 16-Port 10/100/1000BASE-T + 4-Port 10GBASE-X SFP+ Managed Switch	https://www.youtube.com/watch?v=fFl6dqkFaFE
+2025-06-30T06:23:26+00:00	IXT-900-1X1T -Industrial 1-Port 10GBASE-X SFP+ + 1-Port 10GBASE-T Managed Media Converter	https://www.youtube.com/watch?v=-9aa5MEQQ3Y
+2025-06-30T06:19:41+00:00	IGS-1000-8T4X- Industrial 8-Port 10/100/1000T + 4-Port 10G SFP+ Ethernet Switch	https://www.youtube.com/watch?v=aXIfJZK__Y4
+2025-06-30T06:17:01+00:00	IGS-4215-8T4X - Industrial L2+ 8-Port 10/100/1000T + 4-Port 10G SFP+ Managed Ethernet Switch	https://www.youtube.com/watch?v=qXBcNsDkuIc
+2025-06-30T06:10:06+00:00	IGS-4215-16T2S-U- Industrial L2/L4 16-Port 10/100/1000T + 2-Port 100/1000X SFP Managed Switch	https://www.youtube.com/watch?v=Im4YC7wDDTM
+2025-06-28T11:48:41+00:00	IGS-4215-8T2S	https://www.youtube.com/watch?v=50WzQLKNwHY
+2025-06-28T11:46:31+00:00	IGS-12040MT	https://www.youtube.com/watch?v=iBc_MOSvfSQ
+2025-06-28T11:42:32+00:00	IGT-2205AT	https://www.youtube.com/watch?v=hsKIYtCKiPk
+2025-06-28T11:38:17+00:00	WGS-5225-8MT	https://www.youtube.com/watch?v=kQzH4mX3fdM

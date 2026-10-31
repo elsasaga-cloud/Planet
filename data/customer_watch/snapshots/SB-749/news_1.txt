@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · news_1 · https://www.ecin.ca/success-stories-bell-vlab · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-749 ecin.ca · news_1 · https://www.ecin.ca/success-stories-bell-vlab · fetched 2026-10-31T08:34:28Z · HTTP 200
 Success Stories - Bell vLab | E.C.I. NETWORKS INC.
 Skip to Content
 Open Solutions
@@ -44,6 +44,7 @@ Blogs
 Success Stories & Use Cases
 Datasheets & Whitepapers
 Videos & Demos
+Support
 About Us
 our Company
 Who We Are
@@ -61,6 +62,7 @@ Open Solutions
 Industries
 Products
 Resources
+Support
 About Us
 EN
 FR

@@ -1,0 +1,201 @@
+# XC-M125 Electrobit OÜ · news_1 · https://www.electrobit.ee/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+Electrobit OÜ - Tööstusautomaatika tooted ja tarkus
+Kasutame küpsiseid
+Kasutame vajalikke küpsiseid veebilehe toimimiseks ning analüüsi- ja reklaamiküpsiseid, et mõista veebilehe kasutamist ja pakkuda asjakohasemat sisu. Oma valikut saad hiljem igal ajal muuta.
+Nõustun kõikidega
+Ainult vajalikud
+Loe küpsiste kasutamise kohta
+Tooted
+Tehniline tugi Failid
+Võta ühendust
+Tingimused
+Küpsistepoliitika
+Tekst2ASCII konverter
+Blogi
+Meist Ettevõtest
+Tarnijad
+Kontaktandmed
+e-Pood
+0
+Login
+EST
+ENG (AI translation)
+RUS (перевод ИИ)
+Sisselogitud kasutaja saab vaadata toodete hindu ja lao hetkeseisu (kogust) ning esitada tellimusi otse kodulehelt.
+Meie veebipoe kasutajad saavad sisselogida ka siin.
+Registreeri kasutajaks
+Unustasid parooli? Või vajad abi?
+Sisselogimine
+Kasutajanimi:
+Parool:
+Logi sisse
+Unustasin parooli
+Sisesta veebipoe kontoga seotud e-posti aadress ja saadame uue parooli.
+E-post:
+Uus parool
+Vajan abi
+Saame kõige kiiremini aidata tööpaevadel, kui helistad 6518 140.
+Võid ka meili saata ja võtame ise ühendust: info@electrobit.ee
+Meie tooteportfell
+Meie eesmärk on pakkuda innovaatilisi lahendusi ja kaasaegseid tööstusautomaatika tooteid. Täiendame ja uuendame oma tooteportfelli pidevalt, et pakkuda uusimaid ja tõhusaimaid lahendusi.
+">
+Ajamid
+">
+Juhtimine
+">
+Robotid ja tööriistad
+">
+Vision
+">
+Tööstuslik andmeside
+">
+Turvaseadmed
+">
+Andurid ja enkooderid
+">
+Komponendid
+" > Enkoodrid ja kaldeandurid
+" > Kaitselülitid ja kontaktorid
+" > Kontrollerid
+" > Robotid
+" > Turvareleed ja Turvakontrollerid
+" > Sagedusmuundurid
+" > SMART kaamerad ja tarvikud
+" > Andurid ja tarvikud
+" > Tööstuslikud kruvikeerajad
+" > Operaatorpaneelid
+" > Tööstuslik andmeside
+" > Servoajamid
+" > Turvakardinad
+" > Toiteplokid
+" > SMART nägemisandurid
+" > EM-A PM mootorid
+" > Reduktorid
+" > Releed
+" > Turvakomponendid
+" > LiDAR Turvaskannerid
+" > Kaugsisendid ja -väljundid
+" > LiDAR-skannerid
+" > SCADA tarkvara
+" > Kaablid
+" > Nupud ja lülitid
+" > Signaaltornid ja kuplid
+" > Energiamõõtjad
+"> Kuppelsignaallambid
+"> Absoluutenkoodrid
+"> Inkrementaalenkoodrid
+"> Beijer operaatorpaneelid
+"> Mitsubishi operaatorpaneelid
+"> Switchid ja ruuterid
+"> RJ releed ja tarvikud
+"> MAPS SCADA tarkvara
+"> MR-JE servoajamid
+"> Signaaltornid
+"> Kaldeandurid (inklinomeetrid)
+"> MCB ja MCCB kaitselülitid
+"> Turvalülitid ja turvalukud
+"> FR-CS80 sagedusmuundurid
+"> Induktiivandurid
+"> FR-D800 sagedusmuundurid
+"> FnIO G kaug I/O-d
+"> MMP-T32 mootorikaitselülitid
+"> RU releed ja tarvikud
+"> MR-J4 servoajamid
+"> FR-D700 sagedusmuundurid
+"> Lineaarandurid
+"> FT2 kontrollerid
+"> Haardelülitid
+"> Fotoandurid
+"> Enkoodrite tarvikud
+"> SHDSL Võrgulaiendid
+"> S-T/N kontaktorid
+"> iQ-F (FX5U) kontrollerid
+"> RV8 releed ja tarvikud
+"> FR-E800 sagedusmuundurid
+"> MR-J5 servoajamid
+"> Fiiberoptilised fotoelektroandurid
+"> iQ-R kontrollerid
+"> MR servoajamite tarvikud
+"> FR-F800 sagedusmuundurid
+"> Tosibox
+"> Traadita võrguseadmed
+"> RF1 Mehhaanilise sidestusega releed
+"> L kontrollerid
+"> RSS pooljuhtreleed
+"> FR-F846 sagedusmuundurid
+"> Mahtuvusandurid
+"> Andmeside konverterid
+"> GX Works 3 tarkvara
+"> FR-A840 sagedusmuundurid
+"> Ultraheliandurid
+"> Andmeside tarvikud
+"> FR-AF840 jõumoodulid
+"> FR konverter - invereter sagedusmuundurid
+"> Kaugusandurid
+"> Andurite tarvikud
+"> Sagedusmuundurite tarvikud
+"> GOT Simple operaatorpaneelid
+"> Beijer X2 base HMI
+"> Mittehallatavad switchid
+"> GOT 2000 operaatorpaneelid
+"> Beijer X2 pro HMI
+"> Hallatavad switchid
+"> GT Works 3 tarkvara
+"> Beijer X2 marine HMI
+"> Ruuterid
+"> Mitsubishi operaatorpaneelide tarvikud
+"> Beijer X2 control HMI
+"> Beijer X2 extreme HMI
+"> Beijer X2 pro web HMI
+0
+Automaatikablogi: Teooria, Praktika ja Uudised
+Sagedusmuundurid •
+11 min lugemine
+Kuidas valida õige sagedusmuundur?
+Esmapilgul tundub sagedusmuunduri valimine üsna lihtne: valid õige pinge, piisava võimsuse ja sobiva hinnaga seadme. Oma igapäevatöös satun aga aeg-ajalt olukorda, kus klient on sagedusmuunduri valikuga mööda pannud. Põhjus pole tavaliselt mitte halvas seadmes, vaid selles, et olulised valikukriteeriumid on jäänud arvestamata. Vaatame koos, millele tegelikult tasub sagedusmuundurit valides tähelepanu pöörata.
+22.07.2026
+Andurid •
+11 min lugemine
+Kas kõik kruvid on paigas ja kork pudelil peal? Nutikas viis tootmisprotsessi kvaliteedi kontrollimiseks
+Fotoandurid on juba ammu olnud tootmisprotsessi juhtimise silmad – nende abil kontrollitakse, kas detail on kohal, pudel liigub liinil või pakend on õigel positsioonil. Aga tehnoloogia ei seisa paigal. Tänapäeval on lisaks klassikalistele anduritele jõudnud tootmisse ka masinõpet kasutavad vision-andurid, mis suudavad lisaks olemasolule hinnata ka seda, kas asi on tegelikult õigesti tehtud.
+07.03.2026
+Andmeside •
+5 min lugemine
+Merlin-3103 LTE mobiilside ruuter kriitilistes tööstussüsteemides: töökindlus ja turvalisus
+Pumplates, päikeseparkides ja teistes kaugjuhitavates tööstusobjektides on mobiilside sageli kogu süsteemi selgroog. Kui ühendus kaob, ei katke ainult andmevahetus – seisma võib jääda kogu protsess. Just seetõttu on oluline valida mobiilside seade, mis on loodud töötama kindlalt ka rasketes tingimustes.
+02.01.2026
+Sagedusmuundurid •
+11 min lugemine
+Sagedusmuundurite tõde: kuidas ära tunda töökindel seade ja millal tasub kahelda
+Kui otsida internetist infot teemal „kuidas valida sagedusmuundur“, räägitakse enamasti mootori võimsusest, nimivoolust, pingest ja rakendusest. Kõik need on loomulikult olulised näitajad. Aga üllatavalt harva tuleb juttu sellest, kuidas hinnata sagedusmuunduri tegelikku töökindlust. Piilume siis sagedusmuunduri sisse.
+26.12.2025
+Releed •
+10 min lugemine
+Releede valik praktikas: mida andmeleht tegelikult ütleb
+Releed on tööstusautomaatikas küll väikesed komponendid, kuid nende mõju süsteemi töökindlusele on üllatavalt suur. Kas üks visuaalselt täiesti tavaline relee võib olla põhjus, miks tootmisliin seisab või tõrked korduvad? Esmapilgul näivad paljud releed ju identsed – üks või kaks kontaktipaari, 24 VDC või 230 VAC mähis, ... Uurime lähemalt.
+15.12.2025
+Sagedusmuundurid •
+5 min lugemine
+Sagedusmuunduri vektorjuhtimine – puust ja punaseks
+Kui sagedusmuunduri valik läheb veidi tõsisemaks, tuleb üsna kiiresti jutuks vektorjuhtimine. Mõnikord jääb tunne, et see on lihtsalt järjekordne uhke termin, millega müügijutus muljet avaldada. Kas ikka on nii?
+10.12.2025
+Üldine •
+3 min lugemine
+PUR- ja PVC-kaablite erinevused: kumb valida ja millal?
+Andurite kaablite maailmas puutub sageli kokku kahe materjaliga, mis esmapilgul tunduvad üsna sarnased, kuid käituvad reaalses kasutuses väga erinevalt. PUR- ja PVC-kaablid on mõlemad laialt levinud ning mõlemal on oma kindel koht. Õige valik sõltub aga keskkonnast, kasutusviisist ja ootustest kaabli elueale.
+08.12.2025
+Üldine •
+2 min lugemine
+Blogipostitus Nr. 0: Ja saabugu Automaatikablogi
+Ühel täiesti tavalise koosoleku täiesti tavalises punktis sündis mõte, mis esmapilgul tundus pigem möödaminnes poetatud naljana: „Teeks blogi? Automaatikast? Ja kõigest sellest, mis meie igapäevaelu ümber tiirleb?“
+02.12.2025
+Electrobit OÜ
+Suur-Sõjamäe 13A
+11415, Tallinn
+Eesti / Estonia
+Registrikood: 10668940
+KMK (VAT) Nr.: EE101082723
++372 6518 140
+info@electrobit.ee
+https://www.electrobit.ee
+©2024 Electrobit OÜ - tööstusautomaatika seadmed ja tarkus

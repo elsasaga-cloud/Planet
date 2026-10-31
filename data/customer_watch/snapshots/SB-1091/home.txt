@@ -1,12 +1,653 @@
-# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-10-29T15:11:51Z · HTTP 503
-TRIOTRONIK - der Netzwerkdistributor / Wartungsarbeiten
-Wartungsarbeiten
-Unser Shop wird zurzeit mit den neuesten technischen Features aufgefrischt.
-Deine Geduld wird mit einem noch besseren Shoppingerlebnis belohnt!
-Danke für dein Verständnis.
-TRIOTRONIK Computer und Netzwerktechnik GmbH
-Energiestraße 10
-8160 Weiz
-Österreich
-Tel: +43 31 72 / 4 22 99-0
-E-Mail: office@triotronik.com
+# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+TRIOTRONIK - der Netzwerkdistributor
+Zum Hauptinhalt springen
+Zur Suche springen
+Zur Hauptnavigation springen
+ACADEMY
+DISTRIBUTION
+TECHNOLOGIES
+Login
+Menü schließen
+Ihr Konto
+Anmelden
+oder
+registrieren
+Übersicht
+Persönliches Profil
+Adressen
+Bestellungen
+Meine Ansprechpartner
+Abonnements
+Menü schließen
+SPRACHEN
+Deutsch
+English
+Warenkorb enthält 0 Positionen. Der Gesamtwert beträgt 0,00 €.
+Produkte
+Aktive Komponenten
+Transceiver
+Kupfer Verkabelung
+Glasfaser / FTTX
+Sicherheitssysteme
+Tools / Werkzeuge
+Sale
+Switche
+Fiber / SFP
+Managed
+Unmanaged
+PoE
+Industrial
+Desktop
+Router
+Mobilfunk
+Kabelgebunden
+Industrial
+Wireless
+Access Points
+Controller
+Router
+CPE / P2P WiFi
+Point to Point/Bridges
+Repeater
+Interfaces
+60 Ghz
+IoT (Lora)
+Antennen
+Antennenkabel
+Gateways / Modems
+Mobilfunk
+Kabelgebunden
+Industrial
+Medienkonverter
+Standard
+PoE
+Industrial
+Chassis
+Spezial
+GPON
+OLT
+ONT
+Zubehör
+PoE Adapter / Injector
+Netzteile
+Powerline
+Montage
+Diverses
+Antennen
+Omni-Antennen
+Richtfunk
+Sektor
+Gehäuse
+Zubehör
+Antennenstecker / Kabel
+Displays / Monitore
+Digital Signage
+Monitore
+Zubehör
+Powerline
+Datacenter Transceiver
+200G QSFP-DD / QSFP56
+10/25/40/100G Transceiver
+100G QSFP28 / SFP-DD
+40G QSFP+
+25G SFP28
+10G SFP+
+1/2G Transceiver
+2.5G SFP
+1G SFP
+100MBit SFP
+Access
+GPON
+Ethernet-DAC / AOC Kabel
+100G QSFP28 / SFP-DD
+25G SFP28
+10G SFP+
+Patchkabel
+KAT6A geschirmt
+KAT6A ungeschirmt
+KAT6 geschirmt
+KAT6 ungeschirmt
+KAT5E geschirmt
+Unkonfektioniertes Netzwerkkabel
+Installationskabel
+Kategorie 7A
+Kategorie 7
+Kategorie 6
+Keystone Systeme
+Keystone Datendosen
+Keystone Jacks
+Keystone Panele
+Zubehör
+LSA Systeme
+LSA Datendosen
+LSA Panele
+Netzwerkschränke
+Standschränke
+10" Schränke
+Serverschränke
+Wandschränke
+Zubehör
+Telekom
+Modularkabel
+Modularstecker- / Adapter
+Stromversorgung
+SCHUKO
+IEC
+Kabel & Adapter
+HDMI
+USB
+Zubehör
+Glasfaser Patchkabel
+50µ / OM5 Multimode
+50µ / OM4 Multimode
+50µ / OM3 Multimode
+50µ / OM2 Multimode
+62.5µ / OM1 Multimode
+9µ / OS2 Singlemode
+Spleissboxen
+Spleissboxen bestückt
+Zubehör
+FTTH Boxen
+Wandspleissboxen
+OTO Boxen
+HAK / BEP / HÜP
+FTTH Rohre
+Subrohre
+Mikrorohre, erdverlegbar
+Mikrorohre, flammwidrig
+Rohrverbünde
+Rohrzubehör
+Verbinder / Doppelsteckmuffen
+Endstopfen / Endkappen
+Reduziersteckmuffen / Reduktionskupplungen
+Staubschutzkappen / Abdeckkappen
+Einzelzugabdichtungen
+Rohr Reparatursatz
+Hauseinführungen
+Glasfaserkabel
+Mikrokabel
+Minikabel
+Aussenkabel
+Universalkabel
+Spleiss-/ Verbindungstechnik
+Glasfaser Muffen
+Kupplungen / Adapter
+Pigtails
+Splitter
+MTP® / MPO Produkte
+Patchkabel
+Zubehör
+Messgeräte
+OTDR
+VFL
+Werkzeuge
+Zubehör
+Videokameras
+Dome
+Bullet
+Turret
+Panorama
+Box
+Thermal
+PTZ
+Sonstige
+Spezialkameras
+Bodycams
+Explosionsgeschützt
+Korrosionsgeschützt
+Rekorder
+NVR - IP-Digital
+DVR - Analog
+Server
+Speichermedien
+Zutrittssysteme
+Terminal
+Intercom
+Steuerzentrale
+Zubehör
+Brackets
+Gehäuse
+Solarpanele
+Ersatzteile
+Software
+Garantieerweiterungen
+Glasfaser Werkzeuge
+Werkzeuge
+OTDR
+Mikroskop
+Kupfer Werkzeuge
+Werkzeuge
+Werkzeugsets
+Marken
+Distributionen
+WIREWIN
+SLIM
+LIGHTWIN
+LIGHTWIN Optics
+SICO
+Ubiquiti
+Partner / Enterprise
+Cloud Gateways
+Switching
+WiFi
+Physical Security
+Door Access
+Integrations
+Advanced Hosting
+Zubehör
+UISP 60 GHz Wireless
+UISP Wireless
+UISP Fiber
+UISP Wired
+UISP Accessory Tech
+AmpliFi
+MikroTik
+Ethernet Router
+Switche
+Wireless Systeme
+LTE/5G Produkte
+IoT Produkte
+60 GHz Produkte
+RouterBOARD
+Gehäuse
+Schnittstellen
+Zubehör
+Antennen
+SFP / QSFP
+Teltonika
+Router
+Gateways
+Switche
+Modem
+Access Points
+Embedded Systeme
+IoT Plattformen
+RMS
+Zubehör
+Omada by TP-LINK
+WiFi
+Switches
+Gateways
+Controller
+Zubehör
+VIGI Kameras
+VIGI Videorekorder
+VIGI Solar Power
+Hikvision
+IP Kameras
+PTZ Kameras
+Netzwerk Video Rekorder (NVR)
+Video Intercom
+Display / Überwachung
+Interaktive Displays
+Zubehör
+Avigilon
+Unity Kameras
+Unity Videoplattform
+Alta Kameras
+Zubehör
+Garantieerweiterungen
+Pelco
+IP Kameras
+Zubehör
+Planet
+LAN Switche
+Power over Ethernet
+Industrial Ethernet
+Medienkonverter
+Wireless LAN
+Breitbandkommunikation
+Netzwerk Peripherie
+Ruijie | Reyee
+Wireless
+Switche
+Router
+Jetting
+Einblasgeräte
+Zubehör Einblasgeräte
+Einblasgeräte
+Jonard Tools
+Glasfaser / FTTx
+Kupfer Verkabelung
+Patchbox
+PATCHBOX one
+PATCHBOX Plus+ Kassetten
+PATCHBOX 365 Kassetten
+Werkzeug & Zubehör
+Moxa
+Industrial Ethernet Switche
+Industrial Wireles AP/Bridge/Client
+Industrial Medienkonverter
+Serielle Konnektivität
+Zubehör
+Kupfer Patchkabel
+KAT6A geschirmt
+KAT6A ungeschirmt
+KAT6 geschirmt
+KAT6 ungeschirmt
+KAT5E geschirmt
+Unkonfektioniertes Netzwerkkabel
+Installationskabel
+Kategorie 7A
+Kategorie 7
+Kategorie 6A
+Kategorie 6
+Keystone Systeme
+Keystone Datendosen
+Keystone Jacks
+Keystone Panele
+Zubehör
+LSA Systeme
+LSA Panele
+LSA Datendosen
+Netzwerkschränke
+Standschränke
+Serverschränke
+Wandschränke
+10" Schränke
+Stromversorgung
+SCHUKO
+IEC
+Kabel & Adapter
+USB
+Zubehör
+Kupfer Patchkabel
+Kategorie 6A geschirmt
+Kategorie 6A ungeschirmt
+Kategorie 6 geschirmt
+Kategorie 6 ungeschirmt
+Glasfaser Patchkabel
+50µ / OM5 Multimode
+50µ / OM4 Multimode
+50µ / OM3 Multimode
+50µ / OM2 Multimode
+62.5µ / OM1 Multimode
+9µ / OS2 Singlemode
+Spleissboxen
+Spleissboxen bestückt
+Zubehör
+FTTH Boxen
+Wandspleissboxen
+OTO Boxen
+HAK / BEP / HÜP
+FTTH Rohre
+Subrohre
+Mikrorohre, erdverlegbar
+Mikrorohre, flammwidrig
+Rohrverbünde
+Rohrzubehör
+Verbinder / Doppelsteckmuffen
+Endstopfen / Endkappen
+Reduziersteckmuffen / Reduktionskupplungen
+Staubschutzkappen / Abdeckkappen
+Einzelzugabdichtungen
+Rohr Reparatursatz
+Hauseinführungen
+Glasfaserkabel
+Mikrokabel
+Minikabel
+Aussenkabel
+Universalkabel
+Spleiss-/ Verbindungstechnik
+Glasfaser Muffen
+Kupplungen / Adapter
+Pigtails
+Splitter
+MTP® / MPO Produkte
+Patchkabel
+Medienkonverter
+Standard
+Messgeräte
+OTDR
+VFL
+Werkzeuge
+Zubehör
+10/25/40/100G Transceiver
+100G QSFP28 / SFP-DD
+40G QSFP+
+25G SFP28
+10G SFP+
+1/2G Transceiver
+2.5G SFP
+1G SFP
+100MBit SFP
+InfiniBand
+200G QSFP-DD / QSFP56
+Ethernet-DAC / AOC Kabel
+100G QSFP28 / SFP-DD
+25G SFP28
+10G SFP+
+Unmanaged Switche
+Industrial
+Neuheiten
+Schulung
+Die TRIOTRONIK ACADEMY
+Tagesablauf & Schulungslocations
+Zertifizierungsschulungen
+Ubiquiti®
+UWA / UEWA
+URSCA
+UBWA
+MikroTik
+MTCNA
+MTCWE
+MTCRE
+MTCTCE
+MTCNA
+TP-Link OCNA Wireless
+Events
+Lehrlings Bootcamp
+Fiber Competence Day
+Über uns
+Service
+Login
+Menü schließen
+Ihr Konto
+Anmelden
+oder
+registrieren
+Übersicht
+Persönliches Profil
+Adressen
+Bestellungen
+Meine Ansprechpartner
+Abonnements
+Menü schließen
+Deutsch
+English
+Jetzt Kunde werden, wir beraten Sie gerne!
+Michael Windhaber
+Leitung Kundenservice
+TRIOTRONIK
+Netzwerktechnik ganzheitlich gedacht.
+Jetzt Kunde werden
+LIGTHWIN OPTICS
+SFP-Module der neuen Generation
+Mehr erfahren
+TRIOTRONIK ACADEMY
+Schulungen mit Know-how
+Jetzt buchen
+TRIOTRONIK
+Netzwerktechnik ganzheitlich gedacht.
+LIGTHWIN OPTICS
+SFP-Module der neuen Generation
+TRIOTRONIK ACADEMY
+Schulungen mit Know-how
+TRIOTRONIK - pure network
+Wir stehen für ganzheitliche Netzwerktechnik.
+Seit 1995 entwickeln
+wir eigene Produkte, vertreiben führende Marken und vermitteln praxisnahes
+Fachwissen im gesamten DACH-Raum. Unsere jahrzehntelange Erfahrung bildet die
+Grundlage für unser ganzheitliches Leistungsangebot, das die Bereiche
+Produktentwicklung, Distribution und Wissensvermittlung verbindet, um
+Unternehmen langfristig zu unterstützen und Netzwerke zukunftssicher zu machen.
+ihr Partner für Netzwerktechnik.
+Produktion und Entwicklung, Distribution und Schulungen - unser Know-how für Ihren Erfolg.
+ACADEMY
+DISTRIBUTION
+TECHNOLOGIES
+Entwicklung | Fertigung | OEM Produktion
+Mehr erfahren
+PURE SPEED
+GLASFASERKABEL, KOMPONENTEN & ANSCHLUSSTECHNIK
+LIGHTWIN ENTDECKEN
+PURE STABILITY
+Kupferkabel und Netzwerkkomponenten
+WIREWIN ENTDECKEN
+PURE PATCH
+FEINE, FLACHE & FLEXIBLE KUPFER PATCHKABEL
+SLIM ENTDECKEN
+SIMPLE CONNECT
+PLUG-AND-PLAY NETZWERKTECHNIK
+SICO entdecken
+DISTRIBUTION
+Zuverlässig | Kompetent | Lösungsorientiert
+Mehr erfahren
+ACADEMY
+Know-How | Praxis | Weiterbildung
+Mehr erfahren
+UNSERE TOP Kategorien
+UBIQUITI
+PARTNER / ENTERPRISE
+CLOUD GATEWAYS
+SWITCHING
+WIFI
+PHYSICAL SECURITY
+DOOR ACCESS
+Alle anzeigen
+KUPFER VERKABELUNG
+PATCHKABEL
+KEYSTONE SYSTEME
+INSTALLATIONSKABEL
+NETZWERKSCHRÄNKE
+LSA SYSTEME
+SLIM
+WIREWIN
+Alle anzeigen
+SLIM
+KATEGORIE 6A GESCHIRMT
+KATEGORIE 6A UNGESCHIRMT
+KATEGORIE 6 GESCHIRMT
+KATEGORIE 6 UNGESCHIRMT
+Alle anzeigen
+TRANSCEIVER
+10G SFP+
+100G QSFP28 / SFP-DD
+1G SFP
+ETHERNET-DAC / AOC KABEL
+LIGHTWIN OPTICS
+Alle anzeigen
+GLASFASER / FTTX
+GLASFASER PATCHKABEL
+SPLEISSBOXEN
+GLASFASERKABEL
+FTTH ROHRE
+MTP® / MPO PRODUKTE
+Alle anzeigen
+SICHERHEITSSYSTEME
+VIDEOKAMERAS
+REKORDER
+SPEZIALKAMERAS
+THERMAL
+INTERCOM
+HIKVISION
+AVIGILON
+Alle anzeigen
+Produkt des Monats
+Neu
+50-er Packung, KAT6A 10 Gigabit Lightpatchkabel, 0,1m, geschirmt, Ø 3,8mm, GHMT
+SLIM-LS-K6A 0.1 WT 50
+Weitere Varianten
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Patchkabel
+Kunden in über 70 Ländern
+vertrauen bereits auf die
+Produkte unserer Marken
+Mehr entdecken
+StARKE Marken Für beste Lösungen
+Neuheiten
+Neu
+Wirewin
+WIREWIN® Elite Patchkabel KAT6A, hochflexibler flammwidriger Elite Mantel, S/FTP
+PKW-ELITE-SF-K6A 2.5
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ubiquiti
+UniFi UDB-Pro 5 GHz Wireless Bridge, PoE-Out, 5+ Distanz / Uplink zu UniFi WiFi
+UDB-PRO_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+MikroTik
+hAP ax lite LTE6, 800 MHz CPU, 256MB Ram, 4x Gbit LAN, 2.4 GHz 802.11 b/g/n/ax
+HAP AX LITE LTE6 KIT_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Avigilon
+2.0 Megapixel Bullet-Kamera, WDR, LightCatcher, IR, HDSM, IP67
+2.0C-H6SL-BO1-IR_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+TP-Link
+OMADA NFR WiFi 7 Promo, OC200 + 2x EAP653 + SG2210P
+OMADA NFR KIT S
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+TP-Link
+OMADA NFR WiFi 7 Promo, OC200 + 2x EAP772 + SG2210XMP-M2 + ER707-M2
+OMADA NFR KIT L
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Hikvision
+iDS-2CD7A46G0/P-IZHS(Y)(C) - 4MP IP ANPR VR Bullet Kamera, IP67, PoE
+311316487_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Reyee
+Reyee Wi-Fi 7 BE5040 Dual-Band Ceiling Access Point, 5.011 Gbps, 2.5 Gbit Port
+RG-RAP72PRO_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Reyee
+Reyee AX6000 HD Outdoor Omni-directional Access Point, 5.95 Gbps, SFP, 2.5Gbit
+RG-RAP6260(H)_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Jetting
+V2 Glasfaserkabel Einblasmaschine, 2,4 - 16 mm Kabel, 7 - 50 mm Kanal
+V2_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Reyee
+10-Port Gigabit Smart Cloud Managed PoE Switch, 10x Gbit, 8x PoE
+RG-ES210GS-P_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ubiquiti
+5 GHz airMAX AC Sektorantenne, 21 dBi, 60°
+AM-5AC21-60_D
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+B-Ware
+Neu
+MikroTik
+Metal 52 ac mit 720MHz CPU, 64MB RAM, 2.4/5GHz 802.11a/b/g/n/ac, RouterOS L4
+RBMETALG-52SHPACN-R
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+MikroTik
+Cube 60Pro ac, 60 GHz CPE Point-to-Point & Multipoint, 802.11ay, konf. 2er Set
+CUBEG-5AC60AYPAIR
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflä

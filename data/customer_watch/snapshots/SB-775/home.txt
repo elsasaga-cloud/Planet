@@ -1,4 +1,4 @@
-# SB-775 patton.com · home · https://www.patton.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-775 patton.com · home · https://www.patton.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Patton Electronics | US Manufactured Network Equipment
 Toggle navigation
 COMPANY
@@ -104,7 +104,6 @@ EVENTS
 BLOG
 LOGIN
 Submit
-*** This website and its related services are not built on PHP, meaning they are structurally immune to the PHP2Shell vulnerabilities. No customer action is required. ***
 ×
 Login to Patton's Customer / Vendor Portal
 Your Username

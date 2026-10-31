@@ -1,4 +1,4 @@
-# SA-087 norelcosafecam.com · news_1 · https://www.nsidistribution.com/blog · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SA-087 norelcosafecam.com · news_1 · https://www.nsidistribution.com/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
 NSI | Blog
 English
 Français
@@ -215,6 +215,7 @@ Healthcare
 Brands
 Deals
 Brands
+2 Megapixel
 Akuvox
 Alula
 Arylic

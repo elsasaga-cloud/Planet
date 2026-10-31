@@ -1,4 +1,4 @@
-# SB-384 canacctv.com · home · https://canacctv.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-384 canacctv.com · home · https://canacctv.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 CANACCTV – Supply for Video Surveillance
 Skip to content
 Menu
@@ -114,9 +114,6 @@ Transmission
 VGA-102A (VGA 1080p Splitter 1 to 2)
 Read more
 Transmission
-CHE-60K (1080P HDMI/USB KVM Extender Over a CAT.5e cable up to 60 M)
-Read more
-Transmission
 CA-7073 (1080p HDMI Extender over Single Cat5/6 up to 50 meters)
 Read more
 Transmission
@@ -127,9 +124,6 @@ CA-7018 (3 in / 1 out HDMI Switch, Support 1080p and 3D + Remote)
 Read more
 CLEARANCE
 HDB-201 (Video Balun Kit for HD-TVI/CVI/AHD Up to 8mp/4K over a CAT.5e for 120 meters)
-Read more
-DATA Network
-ECA-11N-R00 (EOC- Ethernet Over Coaxial Data Converter- Pair )
 Read more
 Cameras
 XCAM-1 (1080P Wifi indoor camera with two-way audio & Remote notify function)

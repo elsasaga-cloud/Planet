@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-10-31T08:34:28Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -1173,11 +1173,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Milestone Professional Plus
-30 October
-@ SmartSD Breda (NL)
-22 January
-@ SmartSD Breda (NL)
 Akuvox Intercom Basics
 2 November
 @ SmartSD Saint-herblain (FR)
@@ -1289,6 +1284,9 @@ Axis Webinars
 Inim SmartLine
 17 December
 @ SmartSD Merchtem (BE)
+Milestone Professional Plus
+22 January
+@ SmartSD Breda (NL)
 Welcome to SmartSD
 SmartSD is a distributor of camera security, access control, and intrusion and fire detection solutions.
 SmartSD employs more than 110 security professionals and represents more than 70 A-brands.

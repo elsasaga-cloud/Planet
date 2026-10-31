@@ -1,0 +1,16 @@
+# SC-485 fxc.jp · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCSeFIJnPa22B2ovSxz_pxUQ · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-10-29T00:44:22+00:00	【2026/10/28】セキュリティと応答性能を両立！「Progress KEMP LoadMaster」WAF実践解説セミナー	https://www.youtube.com/watch?v=bAOfn9JvV5s
+2026-10-16T03:05:17+00:00	【2026/8/26】ネットワーク管理システムFSV-MGR01実践セミナー	https://www.youtube.com/watch?v=FWZDIU7FD_0
+2026-10-16T00:47:31+00:00	【2026/9/30】HCI投資の効果を最大化するロードバランサー戦略─Progress Kemp LoadMasterの実力とは？	https://www.youtube.com/watch?v=_g04sso9HBA
+2026-09-18T06:10:18+00:00	3パーツのCat6成端してみた #cat6cable #cat6 #cat6a	https://www.youtube.com/shorts/FFRx6P3DwVA
+2026-06-25T05:01:48+00:00	【2026/6/25】WAFデモ動画	https://www.youtube.com/watch?v=B1PfeM4Oxu0
+2026-06-10T09:12:44+00:00	[Interop Tokyo 2026 FXCブース]拡張インバンドLFP	https://www.youtube.com/shorts/TJ6jpO5Evkc
+2026-06-10T09:11:38+00:00	[Interop Tokyo 2026 FXCブース]メディアコンバータのDying Gasp機能	https://www.youtube.com/shorts/FotnHf8Q3-g
+2026-06-10T09:10:19+00:00	[Interop Tokyo 2026 FXCブース]メディアコンバータのリモート電源監視	https://www.youtube.com/shorts/6b1Tr99ko74
+2026-06-10T09:09:22+00:00	[Interop Tokyo 2026 FXCブース]大容量光伝送のトラフィック表示	https://www.youtube.com/shorts/R9kqgZgnDks
+2026-06-10T09:07:52+00:00	[Interop Tokyo 2026 FXCブース]ネットワーク管理システムのTACT機能（Google Chatとの連携）	https://www.youtube.com/shorts/1oxqZuVOPWs
+2026-06-10T09:06:55+00:00	[Interop Tokyo 2026 FXCブース]ネットワーク管理システムのTACT機能（パトランプとの連携）	https://www.youtube.com/shorts/G1rA5fdI8mI
+2026-04-23T06:44:52+00:00	ロングセラーから最新モデルまで。現場で選ばれるFXC PoEスイッチの「全貌」と「使いどころ」	https://www.youtube.com/watch?v=qQWaUYj0mJQ
+2025-12-03T00:42:47+00:00	サイバー攻撃をWAFの適切なルールセットで防御するロードバランサLoadMasterセミナー	https://www.youtube.com/watch?v=9MIsez0jXf0
+2025-11-25T06:02:58+00:00	InteropにおけるShownetのインフラを担うFXCの技術力とは？FXCプロフェッショナルサービスセミナー	https://www.youtube.com/watch?v=cVR18LaXyuA
+2025-11-18T07:31:02+00:00	メディアコンバータLightEdgeXchange®3000シリーズセミナー	https://www.youtube.com/watch?v=kKGeA7WdFfc

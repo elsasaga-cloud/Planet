@@ -1,4 +1,4 @@
-# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://absolon.cz/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Alarm Absolon - dodavatel bezpečnostních technologií | Absolon.cz
 ×
 Z důvodu uzavírky části ulice Šaldova v úseku od Rohanského nábřeží doporučujeme při cestě na naši pražskou pobočku využít náhradní trasu přes ulici Thámova nebo Sokolovská.
@@ -34,10 +34,10 @@ Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
 Akce
-DS-PDTT15AM-LM-WE
-Hikvision
+SC 30AH
+Dexon
 Skladem
-Venkovní AxPro bezdrátový Tri-Tech 2xPIR+MW detektor DS-PDTT15AM-LM-WE, obousměrný, 15 metrů(vějíř) a 90°(možno až 180°). 92 detekujících zón. Světelný filtr: 10000lux,PET do 40Kg. CR123A x5, -25°C až 55°C,...
+SC 30AH reentrantní reproduktor, 30 W / 100 V, 250 – 14 000 Hz, 109 dB
 Pro zobrazení ceny se přihlaste
 Akce
 EASY konektor RJ45 CAT5E UTP 8p8c na drát i licnu SXRJ45-5E-UTP-EASY
@@ -46,34 +46,10 @@ Skladem
 EASY nestíněný pass-through konektor RJ45 8p8c kategorie 5E pro vodič typu drát i licna.
 Pro zobrazení ceny se přihlaste
 Akce
-JA-156E-AN
-Jablotron
-Skladem
-Bezdrátová dotyková klávesnice s čtečkou - antracitový Jablotron JA-156E
-Pro zobrazení ceny se přihlaste
-Akce
-JA-156E
-Jablotron
-Skladem
-Bezdrátová dotyková klávesnice s čtečkou - bílý Jablotron JA-156E
-Pro zobrazení ceny se přihlaste
-Akce
-RW432P
+RWX107DT
 RISCO
 Skladem
-Sada ústředny LightSYS Air, obsahuje ústřednu v bílé barvě, 4G GSM komunikátor, bezdrátový pohybový detektor s Pet imunitou, bezdr. magnetický kontakt a čtyřtlačítkový dálkový ovladač, včetně všech baterií.
-Pro zobrazení ceny se přihlaste
-Akce
-Propojovací box XtendLan Cat 5e nestíněný
-XtendLan
-Skladem
-Narážecí propojovací box Cat 5e. Umožňuje propojit kabelové segmenty UTP beze ztráty kvality vedení. Narážecí, univerzální konektory LSA/IDC. Pro snadnější instalaci jsou zarážky barevně označeny. Rozměry...
-Pro zobrazení ceny se přihlaste
-Akce
-RWX350D
-RISCO
-Skladem
-Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
+Obousměrně komunikující venkovní bezdrátový PIR + MW detektor Risco se záclonovou charakteristikou s dosahem 12m. Napájení 1x baterie CR123A (v balení).
 Pro zobrazení ceny se přihlaste
 Akce
 JA-156E-GR
@@ -82,28 +58,53 @@ Skladem
 Bezdrátová dotyková klávesnice s čtečkou - šedý Jablotron JA-156E
 Pro zobrazení ceny se přihlaste
 Akce
-RW132I04
-RISCO
+DS-KIS202T
+Hikvision
+1 823 Kč bez DPH
+3 647 Kč bez DPH
 Skladem
-Bezdrátový expandér 4 vstupů a 4 výstupů a 16ti x10 zařízení
-Pro zobrazení ceny se přihlaste
+Analogová sestava video interkomu Hikvision pro 1 uživatele. Venkovní tablo s pinhole 1/2.7" CMOS kamerou 1920x1080, barevný LCD monitor 7" s rozlišením 800x480. Povrchová montáž, propojení venkovní stanice...
+Do košíku
 Akce
-RWX107DT
-RISCO
-Skladem
-Obousměrně komunikující venkovní bezdrátový PIR + MW detektor Risco se záclonovou charakteristikou s dosahem 12m. Napájení 1x baterie CR123A (v balení).
-Pro zobrazení ceny se přihlaste
-Akce
-JA-102KY
+JA-156E
 Jablotron
 Skladem
-Ústředna Jablotron Mercury JA-102KY s LAN komunikátorem a LTE komunikátorem Lite, v plastovém krytu se zdrojem, prostor pro Aku 2,6Ah.
+Bezdrátová dotyková klávesnice s čtečkou - bílý Jablotron JA-156E
+Pro zobrazení ceny se přihlaste
+Akce
+RWX350D
+RISCO
+Skladem
+Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
+Pro zobrazení ceny se přihlaste
+Akce
+Propojovací box XtendLan Cat 5e nestíněný
+XtendLan
+Skladem
+Narážecí propojovací box Cat 5e. Umožňuje propojit kabelové segmenty UTP beze ztráty kvality vedení. Narážecí, univerzální konektory LSA/IDC. Pro snadnější instalaci jsou zarážky barevně označeny. Rozměry...
+Pro zobrazení ceny se přihlaste
+Akce
+6701W/8
+Comelit
+Skladem
+Barevný 4,3" monitor Mini se sluchátkem a 8-mi tlačítky pro systém Comelit Simplebus včetně terminálu 1214/2C. Bílé provedení, 8 dotykových tlačítek. Rozměry: 175x160x22mm.
+Pro zobrazení ceny se přihlaste
+Akce
+GSM VT-11
+Skladem
+Deska GSM SMS modulu s externí anténou se 6 vstupy a 2x relé výstupem NO/NC, zajištění heslem, odpovídací SMS o stavu vstupů/výstupů, programovací kabel, vyžaduje adaptér 12V/0,8A
 Pro zobrazení ceny se přihlaste
 Akce
 MV-8
 Vodak
 Skladem
 MV-8 - Zkušební plyn pro optickokouřové požární hlásiče
+Pro zobrazení ceny se přihlaste
+Akce
+JA-102KY
+Jablotron
+Skladem
+Ústředna Jablotron Mercury JA-102KY s LAN komunikátorem a LTE komunikátorem Lite, v plastovém krytu se zdrojem, prostor pro Aku 2,6Ah.
 Pro zobrazení ceny se přihlaste
 dalsi
 Novinky
@@ -112,77 +113,77 @@ Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
 Novinka
-PremiumCord Napájecí adaptér 230V / 9V / 1A stejnosměrný
-PremiumCord
-Skladem
-Napájecí adaptér od výrobce PremiumCord. Vstupní napětí: 230V (50Hz), výstupní napětí: 9V DC, maximální proud: 1A, výstupní konektor: 5,5/2,1 mm, délka: 1 m.
+DS-3WR30X/EU
+Hikvision
+EU sklad, obvykle 7-10 dnů
+Dvoupásmový WiFi router od výrobce Hikvision s rychlostí až 574 Mb/s v pásmu 2.4GHz a až 2402 Mb/s v pásmu 5GHz. Přenosový výkon až 20dBm pro 2.4 GHz a až 23dBm pro 5 GHz. Router je vybaven vstupy 3× 10/100...
 Pro zobrazení ceny se přihlaste
 Novinka
-Kotva "@" pro optický kabel DROP FTTx G.657A, kulatý kabel 2-6mm
-Solarix
-Na objednání
-Kotva pro uchycení samonosného kulatého drop kabelu o průměru 2-6mm.
+DS-2CE70K0T-PTLXTS(2.8mm)
+Hikvision
+EU sklad, obvykle 7-10 dnů
+5MPx hybridní venkovní turret kamera Hikvision DS-2CE70K0T-PTLXTS s monofokálním objektivem a ohniskovou vzdáleností 2,8 mm. 0,01lux, 2960 x 1665@20fps. Digitální WDR, 2D DNR, BLC, HLC, HLS. Přísvit: Bílý...
 Pro zobrazení ceny se přihlaste
 Novinka
-SXKD-6-UTP-LSOH (305m)
-Solarix
-Na objednání
-Instalační kabel Solarix CAT6 UTP LSOH Dca-s2,d2,a1 305m/box SXKD-6-UTP-LSOH, cena je za box 305m
-Pro zobrazení ceny se přihlaste
-Novinka
-SX6632YF
+EAP653
 TP-Link
 Na objednání
-32 portový řízený Switch TP-link s 26 10Gbps SFP sloty a 6 25Gbps SFP28 sloty. Dále switch disponuje 2 RJ45 porty, 2 USB 3.0 porty a USB C konzolovým portem. SFP (10 a 25 Gbps). Napájení: 100-240 V AC....
+Stropní WiFi Access Point TP-link s přenosovou rychlostí až 574 Mbps v pásmu 2,4 GHz a 2402 Mbps v pásmu 5 GHz, Omada SDN , WiFi6,Vysílací výkon až 22 dBm, Napájení 802.3at PoE/ 12V DC/ 48V DC pasivní PoE ...
 Pro zobrazení ceny se přihlaste
 Novinka
-JB-112TH
-Jablotron
-Skladem
-Sběrnicový senzor teploty, vlhkosti a CO2 s funkcí termostatu Jablotron JB-112TH
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-2DT8C842MXG-ELWT
-Hikvision
+SK9000UB
+Comelit
 Na objednání
-8MPx IP hybridní venkovní DarkFighter 2.0 PTZ kamera Hikvision s 6-252 mm, CMOS 1/1.8", 0.0005lux, Optický zoom: 42x, 3840x2160 @25fps. 120 dB WDR, 3D DNR, BLC, HLC, EIS. Bílý LED až 100 m a IR až do 500 m....
+SimpleKey ULTRA základní černá řídící jednotka přístupového systému s Mifare čtečkou (KOMPATIBILNÍ POUZE S ČIPY SK9050).Programování pomocí mastr karty/čipu.
 Pro zobrazení ceny se přihlaste
 ColorVu 3.0 AI
 Novinka
-DS-2CD1167G3-LIU(4mm)
-Hikvision
-Na objednání
-6MPx IP ColorVu 3.0 hybridní venkovní Dome kamera Hikvision, s fixním objektivem 4 mm, úhel záběru 89° (horizontální), 0,0005Lux, 120db WDR, LED + IR až 30 m, 12V DC/PoE, -30 °C až do +60 °C, IP67, IK08.
-Pro zobrazení ceny se přihlaste
-Novinka
-AWO529S
-Pulsar
-Na objednání
-Černá skříň PULSAR pro NVR/DVR, vnější rozměry: 501x432x121 mm (v.š.h), nastavitelné držáky pro zařízení 145-345x40-100 (vertikální montáž), protisabotážní ochrana, povrchová montáž, zámek.
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-4612ZJ-WA
-Hikvision
-Na objednání
-Držák na strop Hikvision DS-4612ZJ-WA. Materiál je slitina hliníku. Držák je bílý o rozměrech 117 x 117 x 105 mm a hmotnosti 0,75 kg.
-Pro zobrazení ceny se přihlaste
-Novinka
-R Series UPS SNMP Card
+DS-2CD1027G3-LIU(2.8mm)
 Hikvision
 Skladem
-Síťová karta pro UPS podporující různé operační systémy (Windows, Mac, Linux). Nabízí rozšíření o následující funkce: vzdálené monitorování UPS prostřednictvím sítě, realizace webového uživatelského rozhraní...
+2MPx IP ColorVu 3.0 hybridní venkovní Bullet kamera Hikvision, s fixním objektivem 2.8mm, úhel záběru 106° (horizontální), 0,0005Lux, 120db WDR, LED + IR až 30m, 12V DC/PoE, -30°C až do +60°C, IP67
 Pro zobrazení ceny se přihlaste
 Novinka
-JA-154M-AN
-Jablotron
-Na objednání
-Bezdrátový magnetický detektor se dvěma univerzálními vstupy - antracitový Jablotron JA-154M. Možno připojit záplavový detektor LD-81. Náhrada za JA-150M Napájení 1x AA (LR6) alkalická baterie 1,5V. Baterie...
+RVCM11W34
+RISCO
+Skladem
+4MP VUpoint Wi-Fi Cube kamera s inteligentní detekcí osob a pohybu, IR přísvitem 8 m a obousměrným audiem. Nabízí microSD úložiště, jednoduchou instalaci a je vhodná pro domácí i kancelářský dohled.
 Pro zobrazení ceny se přihlaste
 Novinka
-C5E-315GY-3MB
+RVCM52A31
+RISCO
+Skladem
+4MP VUpoint IP bullet kamera s IR přísvitem 25 m, bílým světlem, stroboskopem a inteligentní detekcí osob i vozidel. Nabízí obousměrné audio, microSD záznam a odolnost IP67.
+Pro zobrazení ceny se přihlaste
+Novinka
+Patch kabel 9/125 E2000apc/SCapc SM OS 7m duplex SXPC-E2000/SC-APC-OS-7M-D
 Solarix
-Skladem
-Stíněný patch kabel Solarix CAT5E SFTP PVC 3m šedý snag-proof
+Na objednání
+Solarix optický patch kabel slouží pro propojení mezi aktivními komponenty či mezi pasivními komponenty, představujícími koncový bod fyzického spoje.
+Pro zobrazení ceny se přihlaste
+Novinka
+Osobní rušička signálu (20m)
+Cyber
+Na objednání
+Osobní rušička signálu (16-in-one+5G GSM) - 20m
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-2CD3146G3-LISUY(2.8mm)(eF) BLACK
+Hikvision
+Na objednání
+4MPx IP hybridní DarkFighter 2.0 venkovní Dome kamera Hikvision s fixním objektivem 2.8mm, CMOS 1/1.8, citlivost 0,0001lux, 2688x1520@25fps, H.265+/H.265/H.264+/H.264/ MJPEG, Adaptivní 130dB WDR, Přísvit LED...
+Pro zobrazení ceny se přihlaste
+Novinka
+SKR
+Comelit
+Na objednání
+Antivandal kódová klávesnice SKR s integrovanou Mifare čtečkou výrobce Comelit. Paměť na 100 kódů (délka 3-6 číslic) a 500 tagů/karet, krytí IP54, napájení 12-35VDC nebo 12-24VAC
+Pro zobrazení ceny se přihlaste
+ca černý SXKO-DROP-24-O" data-code="881674"> Novinka
+DROP1000 kabel Solarix 24vl 9/125 4,0mm LSOH E ca černý SXKO-DROP-24-O
+Solarix
+Na objednání
+Optický kabel Solarix DROP1000 s LSOH pláštěm a třídou reakce na oheň Eca 2 vlákna SM 9/125.
 Pro zobrazení ceny se přihlaste
 dalsi
 Reference

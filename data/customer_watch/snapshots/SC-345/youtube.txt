@@ -1,0 +1,16 @@
+# SC-345 pine-networks.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCRakiTKMLKwtVgLFGqEsYuQ · fetched 2026-10-31T08:34:28Z · HTTP 200
+2025-09-30T11:04:06+00:00	7 - VLAN Configuration	https://www.youtube.com/watch?v=UsH2pEHfuAs
+2025-09-30T10:33:30+00:00	6 - Link Aggregation	https://www.youtube.com/watch?v=KKrLvdT-3jc
+2025-09-30T10:10:55+00:00	5 - Configuration des interfaces	https://www.youtube.com/watch?v=pPTMPUh8h14
+2025-09-19T12:35:27+00:00	4 - Configuration de base (Hostname, Clock, NTP)	https://www.youtube.com/watch?v=TLXZ1PLHu9c
+2025-09-19T12:21:31+00:00	3 - Introduction au CLI SONiC	https://www.youtube.com/watch?v=FwxSLUKrD04
+2025-09-08T10:42:16+00:00	2 - Introduction à SONiC (Software for Open Networking in the Cloud)	https://www.youtube.com/watch?v=_0xIG6KTKoQ
+2025-09-08T10:31:54+00:00	1 - Introduction à la série SONiC Tutorials avec Mathias Melero	https://www.youtube.com/watch?v=yb2PSPfXEtA
+2024-07-23T17:05:59+00:00	IP Infusion OcNOS Tutorial 13 - Installing OcNOS using ONIE	https://www.youtube.com/watch?v=-TdQCid5M1c
+2024-05-06T17:23:38+00:00	IP Infusion OcNOS Tutorial 12 - IS-IS Configuration	https://www.youtube.com/watch?v=Il96bfF2sng
+2024-04-23T07:26:57+00:00	IP Infusion OcNOS Tutorial 11 - VPLS configuration	https://www.youtube.com/watch?v=ZdkwqLbC4m8
+2024-03-17T23:00:14+00:00	OcNOS Tutorial - 10 - MPLS VPWS Configuration	https://www.youtube.com/watch?v=RqS_e6bkAmo
+2024-03-01T08:00:35+00:00	IP Infusion OcNOS Tutorial 9 - MPLS L3VPN	https://www.youtube.com/watch?v=psLU7WYV-T0
+2024-02-12T09:58:17+00:00	IP Infusion OcNOS Tutorial 8 - Configuring Logging	https://www.youtube.com/watch?v=0Qn2Mum4rMo
+2024-01-23T12:04:22+00:00	IP Infusion OcNOS Tutorial 7 - Restoring default configuration	https://www.youtube.com/watch?v=W-L9KwIBdEA
+2024-01-07T19:23:18+00:00	Pine Networks PMO - Open / Disaggregated Network Management System	https://www.youtube.com/watch?v=_s4ElWwsBZM

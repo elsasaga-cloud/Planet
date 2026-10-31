@@ -1,4 +1,4 @@
-# SB-418 atel.com.pl · sitemap · https://www.atel.com.pl/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-418 atel.com.pl · sitemap · https://www.atel.com.pl/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 	https://www.atel.com.pl/
 	https://www.atel.com.pl/ofirmie.php
 	https://www.atel.com.pl/partnerzy_handlowi.php
@@ -127,6 +127,7 @@
 2020-11-26	https://www.atel.com.pl/produkt.php?hash=00799
 2026-01-09	https://www.atel.com.pl/produkt.php?hash=00366
 2024-07-24	https://www.atel.com.pl/produkt.php?hash=07098
+2026-10-29	https://www.atel.com.pl/produkt.php?hash=07096
 2024-07-24	https://www.atel.com.pl/produkt.php?hash=08259
 2024-07-24	https://www.atel.com.pl/produkt.php?hash=02058
 2025-03-11	https://www.atel.com.pl/produkt.php?hash=02051
@@ -216,5 +217,4 @@
 2026-09-28	https://www.atel.com.pl/produkt.php?hash=05048
 2026-08-20	https://www.atel.com.pl/produkt.php?hash=05046
 2026-08-20	https://www.atel.com.pl/produkt.php?hash=05049
-2026-08-20	https://www.atel.com.pl/produkt.php?hash=05051
 2026-08-20	https://www.atel.com.pl/pro

@@ -1,4 +1,4 @@
-# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Alternetivo | IT distributor | Switching/routing, monitoring, síťová bezpečnost, kabeláže, bezdrátové a optické sítě
 Jazyk / Language EN
 SK
@@ -113,10 +113,6 @@ Hrotovice, okr. Třebíč
 SecDay 2026
 Další školení a semináře
 Aktuality
-Top novinka
-Inventura skladu - čtvrtek až pátek 29.10.-30.10.2026
-Dovolujeme si vás informovat, že v termínu 29.10.-30.10.2026 proběhne řádná inventura našich skladových zásob. Rádi bychom vás upozornili, že z tohoto důvodu bude v těchto dnech pozastaven výdej a odesílání zboží. Ostatní oddělení nebudou dotčena a budou tedy připravena přijímat vaše dotazy, objednávky, požadavky a připomínky.
-Celý text
 16.10.2026
 Společnost Univastu kupuje zbytek Cambium Networks
 Společnost Univastu dokončila akvizici divizí ePMP, Enterprise a cnMaestro společnosti Cambium Networks. Cloud jede dál!
@@ -157,8 +153,18 @@ Pro dealery
 WatchGuard AuthPoint nyní jako nativní MFA pro Microsoft Entra ID
 Máme skvělou zprávu pro všechny organizace využívající ekosystém Microsoft! WatchGuard v rámci jarní vlny aktualizací pro rok 2026 představil zásadní rozšíření.
 Celý text
+04.05.2026
+Pro dealery
+Nový AuthPoint: Moderní vzhled a tmavý režim konečně i v MFA
+Kromě velkých technických změn pod kapotou se dubnová vlna novinek zaměřila i na to, co vidí uživatelé každý den. Mobilní aplikace WatchGuard AuthPoint (v3.0.0).
+Celý text
 Všechny aktuality
 Speciální akce
+30.10.2026
+Pro dealery
+Akce na testery Softing
+Pořiďte si tester od společnosti Softing IT Networks GmbH za fantastickou cenu!
+Celý text
 30.09.2026
 Hledáte náhradu za Cambium Networks?
 I když produktová řada cnPilot Wi-Fi nakonec asi přežije díky už skoro nečekané akvizici, stejně možná někteří zákazníci zauvažují o změně systému. Ruckus je tu proto, aby pomohl.
@@ -240,4 +246,4 @@ V čisté síťařině nenechává Zyxel nic náhodě a plně pokrývá potřeby
 SPE, neboli Single Pair Ethernet
 SPE, neboli Single Pair Ethernet, je nová technologie Ethernetu, která umožňuje přenos dat a případně napájení přes jediný pár kroucených vodičů na velkou vzdálenost. Jedná se o efektivní a nákladově úsporné řešení pro průmyslové aplikace, automatizaci budov a automobilový průmysl.
 Nové typy transceiverů pro 400Gb/s a vyšší rychlosti: kam se posouvá optika pro datacentra a DCI
-Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombinaci změn v elektrickém rozhraní (SerDes), modulaci, optické architektuře i mechanických formátech modulů. V pr
+Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombinaci změn v elektrickém rozhraní (SerDes), modulaci, optické architektuře i mechanických formátech modulů. V praxi se dnes 

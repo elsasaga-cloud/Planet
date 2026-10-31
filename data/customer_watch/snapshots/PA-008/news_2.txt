@@ -1,0 +1,82 @@
+# PA-008 Aspectis Informatikai és Biztonságtechnikai Kft. · news_2 · https://aspectis.hu/blog/megerkezett-a-milestone-xprotect-2026-r2 · fetched 2026-10-31T08:34:28Z · HTTP 200
+Megérkezett a Milestone XProtect 2026 R2
+Márkáink
+Megoldásaink
+Szolgáltatásaink
+Blog
+Referenciák
+Díjmentes konzultáció
+Kapcsolat
+További találatok
+Ügyfélkapu
+hu
+| EN
+Kérjen ajánlatot
+Kérdése van?
+Hírlevél
+Facebook
+LinkedIn
+Főoldal
+Blog
+Megérkezett a Milestone XProtect 2026 R2
+Ebook letöltés
+Aktuális e-book kiadványunk egy olyan témával foglalkozik, amelyet mi különösen fontosnak tartunk, a biztonságtechnikai rendszerek kiberbiztonsági kérdéseivel.
+Díjmentes konzultáció
+Amennyiben tanácsra van szüksége, bátran vegye igénybe díjmentes konzultációnkat!
+Márkáink
+Szolgáltatásaink
+Megérkezett a Milestone XProtect 2026 R2
+Címkék: hírek Termékek
+2026. 10. 29.
+Nagyobb átláthatóság és egyszerűbb adminisztráció
+A Milestone Systems bemutatta a Milestone XProtect 2026 R2 videómenedzsment-szoftverét (VMS), amely jelentős újításokat hoz a mindennapi biztonsági műveletek hatékonyságában és a nagyméretű rendszerek kezelésében. Az új verzió fókuszában a helyzetfelismerés gyorsítása, a rendszerbiztonság növelése és az adminisztrációs terhek csökkentése áll.
+Továbbfejlesztett térképkezelés (Maps)
+A novemberben érkező új Smart Client frissítéssel a térképek teljesen új szintre lépnek. A kamerák, riasztások és élő képek közvetlenül a földrajzi vagy alaprajzi nézeteken jelennek meg. Ezáltal az operátorok azonnali vizuális kontextust kapnak az incidensek pontos helyszínéről és a környező kamerákról, ami drasztikusan lerövidíti a reakcióidőt.
+Sticky Notes (Öntapadós jegyzetek)
+Az operátorok mostantól közvetlenül az egyes kameranézetekhez rendelhetnek digitális jegyzeteket. Ez a funkció felbecsülhetetlen segítség a műszakváltások (shift handover) zökkenőmentes lebonyolításában, a helyszínspecifikus instrukciók átadásában és a kritikus információk megosztásában anélkül, hogy az operátornak ki kellene lépnie a munkafolyamatából.
+Jogosultság-öröklődés (Permission Inheritance)
+A rendszerek növekedésével a kamerák egyenkénti jogosultságkezelése komoly adminisztrációs terhet jelentett. Az új jogosultság-öröklődés funkcióval az újonnan hozzáadott eszközök automatikusan megkapják annak a csoportnak a hozzáférési szabályait, amelybe beosztották őket. Ez minimalizálja a manuális konfigurációt és a hibalehetőségeket.
+Központosított Server Logs (Kiszolgálónaplók)
+A komplex, több szerverből álló környezetekben a naplófájlok eddig szétszórtan keletkeztek. Az XProtect 2026 R2 egyetlen felületen centralizálja az Audit (ki mit csinált), System (rendszeresemények) és Rule (szabályokhoz köthető aktivitások) logokat, jelentősen felgyorsítva a hibakeresést és a megfelelőségi (compliance) jelentések elkészítését.
+Felhőalapú távoli elérés: AXIS Cloud Access
+Az AXIS Cloud Access (ACA) integráció révén a felhasználók biztonságos felhőalapú távoli hozzáférést kapnak az AXIS-eszközökhöz. Nincs szükség bonyolult VPN-beállításokra vagy helyi hálózati konfigurációkra; az élő és rögzített videók, valamint a felhasználói jogosultságok egy egyszerű webes felületen keresztül bárhonnan menedzselhetők.
+Milestone Care és XProtect Remote Manager frissítések
+A érvényes Care Plus előfizetéssel rendelkező ügyfelek az alábbi extra menedzsment-funkciókhoz is hozzáférnek az XProtect Remote Manager (XRM) platformon keresztül:
+Többrecipienses riasztások: Egyetlen rendszerhiba-értesítés egyszerre több csapatnak, részlegnek vagy külső szervizpartnernek is kiküldhető, javítva a koordinációt.
+Patch-kezelés közvetlenül az XRM-ből : Az XProtect Update Manager funkciói integrálásra kerültek a távoli elérésű böngészős felületre, így a javítások és frissítések több helyszínen is egyetlen kattintással telepíthetők és nyomon követhetők.
+További találatok
+Márkáink
+Megoldásaink
+Szolgáltatásaink
+Blog
+Referenciák
+Díjmentes konzultáció
+Kapcsolat
+Aspectis Informatikai és Biztonságtechnikai Kft.
+Cégjegyzékszám: 01-09-722853
+Adószám: 13106261-2-42
+Bankszámla szám:
+11600006-00000000-96189610 HUF;
+11600006-00000000-96143728 EUR
+Cím: H-1158 Budapest, Késmárk u. 11-13.
+Nyitvatartás:
+Hétfő – Csütörtök: 08.00 – 17.00
+Péntek: 08.00 – 14.30
+Azonnali elérhetőségeink
+Kereskedelem:
+Telefon: +36 1 414-1023
+E-mail: sales@aspectis.hu
+Support:
+Telefon: +36 1 414-1024
+E-mail: support@aspectis.hu
+Az oldal tetejére
+Főoldal
+Rólunk
+Szolgáltatásaink
+Kapcsolat
+Jogi nyilatkozat
+Adatvédelmi tájékoztató
+Aspectis Partner Portal
+powered by:
+Copyright © 2026
+www.aspectis.hu

@@ -1,4 +1,4 @@
-# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-03-04T12:12:55+00:00	Tedarik Zincirinde Veri Görünürlüğü Nasıl Sağlanır? | AVEVA PI System	https://www.youtube.com/watch?v=IjQTQhTE9vw
 2026-02-26T12:27:30+00:00	Sürdürülebilirlik KPI'larini Nasıl Yönetirsiniz? | AVEVA PI Vision ile CO2 ve Enerji Takibi	https://www.youtube.com/watch?v=SIJrtYbkQk0
 2026-02-07T13:52:05+00:00	Endüstriyel Ağda Yüksek Bant Genişliği ve Güvenlik | Hirschmann BOBCAT Switch	https://www.youtube.com/watch?v=42gU4B_fySg

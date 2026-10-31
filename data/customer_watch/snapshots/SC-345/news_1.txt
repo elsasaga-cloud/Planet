@@ -1,0 +1,144 @@
+# SC-345 pine-networks.com · news_1 · https://pine-networks.com/blog/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+Blog | Pine Networks
+Home
+Open Networking
+Products
+Access Routers
+Aggregation Routers
+Data Center Switches
+Campus & Management Switches
+MicroPlug OLT
+Network OS
+Services
+Professional Services
+Support
+Resources
+SONiC Video Tutorials
+SONiC Configuration Guide
+OcNOS Video Tutorials
+Customer Stories
+Blog
+News
+Legal Information
+Products T&C
+Services T&C
+Privacy Policy
+Terms and Conditions
+Linkedin
+Youtube
+Search for:
+Contact us
+Blog
+Pine Networks > Blog
+Open / Disaggregated Networking Blog
+Hadi Choueiry
+January 25, 2024
+IP Infusion
+Interoperability IP Infusion OcNOS and Cisco IOS XE
+In our previous post we talked about interoperability between IP Infusion's OcNOS and Cisco IOS XR. To continue our interoperability testing, in this article, we examine how well IP...
+Continue Reading
+Hadi Choueiry
+December 28, 2023
+IP Infusion
+Interoperability IP Infusion OcNOS and Cisco IOS XR
+In our latest lab experiment, we investigate the interoperability between the IP Infusion OcNOS and Cisco IOS XR. In this exercise we test interoperability of the following protocols:...
+Continue Reading
+Hadi Choueiry
+October 25, 2023
+Technology Discussion
+Is Open / Disaggregated Networking for everyone?
+Generally, in the realm of technology and innovation, there are individuals who identify problems and devise solutions using different approaches. Then, there are the early adopters who embrace...
+Continue Reading
+Hadi Choueiry
+October 17, 2023
+Events
+Pine Networks at FRnOG 38
+Pine Networks at FRnOG 38We are thrilled to share our exciting experience at the recent FRnOG 38 , where Pine Networks joined forces with our partner, IP Infusion....
+Continue Reading
+Hadi Choueiry
+September 7, 2023
+Automation
+Ansible: Automating a Multi-vendor Network
+In this article, I continue what we started in the previous article Getting started with Ansible: Automating OcNOS configuration. In addition to automating OcNOS configuration, I will look...
+Continue Reading
+Hadi Choueiry
+July 2, 2023
+Automation
+Getting started with Ansible: Automating OcNOS configuration
+Ansible is a powerful automation tool used to streamline network management tasks. Ansible revolutionizes network management, automates routine operations, and enhances scalability. In this article, we will explore...
+Continue Reading
+Hadi Choueiry
+June 9, 2023
+Configuration Guides
+Interoperability between IP Infusion OcNOS and Cisco IOS XE
+In the ever-evolving landscape of networking technologies, the demand for flexibility, scalability, and cost-efficiency has driven the rise of disaggregated solutions. Network operators are increasingly embracing the disaggregated...
+Continue Reading
+Hadi Choueiry
+May 25, 2023
+Configuration Guides
+Setting up SONiC on GNS3
+Setting up SONiC on GNS3 In this article I will explain how to run SONiC on GNS3 so you can check out its functionalities. SONiC stands for Software...
+Continue Reading
+Hadi Choueiry
+May 8, 2023
+Configuration Guides
+Configuring MPLS L3VPN on IP Infusion OcNOS
+In this hands-on article, we will have a look at MPLS L3VPN configuration on the IP Infusion OcNOS Network Operating System. Multiprotocol Label Switching (MPLS) has become a...
+Continue Reading
+Hadi Choueiry
+April 10, 2023
+Configuration Guides
+A Beginner’s Guide to OcNOS OSPF Routing
+In this hands-on article we will explain how to configure OSPF dynamic routing protocol on the IP Infusion OcNOS Network Operating System. To set up OSPF routing between...
+Continue Reading
+Posts pagination
+1
+2
+Next
+Search Search
+Recent Posts
+Interoperability IP Infusion OcNOS and Cisco IOS XE
+Interoperability IP Infusion OcNOS and Cisco IOS XR
+Is Open / Disaggregated Networking for everyone?
+Pine Networks at FRnOG 38
+Ansible: Automating a Multi-vendor Network
+Recent Comments
+No comments to show.
+Archives
+January 2024
+December 2023
+October 2023
+September 2023
+July 2023
+June 2023
+May 2023
+April 2023
+March 2023
+Categories
+Automation
+Configuration Guides
+Events
+IP Infusion
+Technology Discussion
+Search for:
+Categories
+Automation
+Configuration Guides
+Events
+IP Infusion
+Technology Discussion
+Recent Posts
+Interoperability IP Infusion OcNOS and Cisco IOS XE
+January 25, 2024
+Interoperability IP Infusion OcNOS and Cisco IOS XR
+December 28, 2023
+Is Open / Disaggregated Networking for everyone?
+October 25, 2023
+Pine Networks at FRnOG 38
+October 17, 2023
+Ansible: Automating a Multi-vendor Network
+September 7, 2023
+Follow us
+Linkedin-in
+Youtube
+Pine Networks © 2024. All Rights Reserved

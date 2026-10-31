@@ -1,14 +1,14 @@
-# SB-521 aceonline.co.uk · sitemap · https://aceonline.co.uk/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
-2026-10-29	https://aceonline.co.uk/
-2026-10-29	https://aceonline.co.uk/sitemap.asp
-2026-10-29	https://aceonline.co.uk/terms.asp
-2026-10-29	https://aceonline.co.uk/about-us-1-w.asp
-2026-10-29	https://aceonline.co.uk/contact-us-2-w.asp
-2026-10-29	https://aceonline.co.uk/catalogue-downloads-4-w.asp
-2026-10-29	https://aceonline.co.uk/new-customer-registration-25-w.asp
-2026-10-29	https://aceonline.co.uk/online-user-registration-26-w.asp
-2026-10-29	https://aceonline.co.uk/upcoming-training-events-28-w.asp
-2026-10-29	https://aceonline.co.uk/ajax-academy-31-w.asp
+# SB-521 aceonline.co.uk · sitemap · https://aceonline.co.uk/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-10-31	https://aceonline.co.uk/
+2026-10-31	https://aceonline.co.uk/sitemap.asp
+2026-10-31	https://aceonline.co.uk/terms.asp
+2026-10-31	https://aceonline.co.uk/about-us-1-w.asp
+2026-10-31	https://aceonline.co.uk/contact-us-2-w.asp
+2026-10-31	https://aceonline.co.uk/catalogue-downloads-4-w.asp
+2026-10-31	https://aceonline.co.uk/new-customer-registration-25-w.asp
+2026-10-31	https://aceonline.co.uk/online-user-registration-26-w.asp
+2026-10-31	https://aceonline.co.uk/upcoming-training-events-28-w.asp
+2026-10-31	https://aceonline.co.uk/ajax-academy-31-w.asp
 2024-04-17	https://aceonline.co.uk/ace-44cm-zone-1-elliptical-dish-17-p.asp
 2026-05-13	https://aceonline.co.uk/blake-adaptor-bracket-kit-for-mk4-dishes-19-p.asp
 2026-10-08	https://aceonline.co.uk/televes-dinova-boss-mix-antenna-lte700-144223-21-p.asp

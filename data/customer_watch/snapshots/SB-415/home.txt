@@ -1,4 +1,4 @@
-# SB-415 a2s.pl · home · https://www.a2s.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-415 a2s.pl · home · https://www.a2s.pl/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Automatyka Przemysłowa, Elektronika Przemysłowa, Komputery i Oprogramowanie Przemysłowe - Katalog Produktów
 Moje konto
 Oferty
@@ -49,12 +49,12 @@ ZigBee Sensor ZS-10
 Wielokanałowy czujnik ZigBee z zasilaniem...
 ATC-1000
 Konwerter Ethernet TCP/IP na RS-232/422/485, CPU...
+NPEIO-4AO
+Protokół Modbus RTU, 4x AO, RS-485,
 NPE X500
 NPE X500 - Komputer przemysłowy, IoT Gateway,...
 iModCloudBOX R200
 Komputer typu RACK 1U z czterordzeniowym...
-NPEIO-4AO
-Protokół Modbus RTU, 4x AO, RS-485,
 NPEIO-4AI
 Protokół Modbus RTU, 4x AI, RS-485,
 Więcej produktów »

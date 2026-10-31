@@ -1,4 +1,4 @@
-# SA-081 4power.it · feed_auto · https://www.4power.it/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SA-081 4power.it · feed_auto · https://www.4power.it/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Mon, 12 Oct 2026 23:43:28 +0000	4Net 4N-WSG24P2F: switch PoE Web Smart 24 porte Gigabit, 2 SFP, 300 W	https://www.4power.it/4n-wsg24p2f-switch-web-smart-24p1000-poe-8023at-300w-2p1000-sfp/
 Sat, 26 Sep 2026 07:29:04 +0000	PLANET CB-QSFP100G-5M: cavo DAC QSFP28 100G da 5 m	https://www.4power.it/planet-cb-qsfp100g-5m-cavo-dac-100g/
 Sat, 26 Sep 2026 07:28:35 +0000	PLANET CB-QSFP100G-3M: cavo DAC QSFP28 100G da 3 m	https://www.4power.it/planet-cb-qsfp100g-3m-cavo-dac-100g/

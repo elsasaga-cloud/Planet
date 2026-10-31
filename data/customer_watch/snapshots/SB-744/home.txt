@@ -1,4 +1,4 @@
-# SB-744 commandonetworks.com · home · https://commandonetworks.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-744 commandonetworks.com · home · https://commandonetworks.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 COMMANDO is a technology company focused on networking hardware
 Products
 Support Downloads Tech Support Warranty
@@ -22,10 +22,10 @@ Top Selling Products
 Explore our most popular products, trusted by customers everywhere. From quality craftsmanship to unbeatable value, these are the best. Grab yours now and see why they're top sellers!
 E1000-16GP-4CF
 COMMANDO Scout E1000 16x1GbE Full PoE/PoE+, 2x1GbE+2x1G SFP, 260W, Unmanaged Switch
-E1000-24GP-4CF
-COMMANDO Scout E1000 24x1GbE Full PoE/PoE+, 2x1GbE+2x1G SFP, 450W, Unmanaged Switch
 E300-8GP-2SFP
 COMMANDO Scout E300 8x1GbE Full PoE/PoE+, 2x1G SFP, 130W, Unmanaged Switch
+E1000-24GP-4CF
+COMMANDO Scout E1000 24x1GbE Full PoE/PoE+, 2x1GbE+2x1G SFP, 450W, Unmanaged Switch
 E300-8GP-2G
 COMMANDO Scout E300 8x1GbE Full PoE/PoE+, 2x1GbE, 130W, Unmanaged Switch
 E2000-24GP-8CF

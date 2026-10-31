@@ -1,10 +1,10 @@
-# SB-291 technosources.ca · home · https://technosources.ca/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-291 technosources.ca · home · https://technosources.ca/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Human verification
 You will be redirected to
 technosources.ca
 in 10 seconds
 CONFIRMING YOU ARE HUMAN
-is 172.172.157.5
+is 20.106.21.65
 Please complete the security check
 before continuing...
 We could not verify you are human. Looks like you are a Bot

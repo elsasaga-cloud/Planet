@@ -1,4 +1,4 @@
-# SB-073 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-073 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-08-25	https://anb-rimex.be/fr/
 2022-11-20	https://anb-rimex.be/fr/nouvelles/
 2023-09-21	https://anb-rimex.be/fr/nouvelles/anb-rimex-dahua/
@@ -56,6 +56,8 @@
 2026-09-28	https://anb-rimex.be/fr/actions/promo-mai-2026-fr/
 2026-09-28	https://anb-rimex.be/fr/actions/promo-octobre-2026-fr/
 2026-09-29	https://anb-rimex.be/fr/actions/promo-octobre-2026-buy--try-fr/
+2026-10-29	https://anb-rimex.be/fr/actions/flash-promo-1/
+2026-10-29	https://anb-rimex.be/fr/actions/flash-promo-2/
 2026-06-15	https://anb-rimex.be/fr/produits/
 2026-06-15	https://anb-rimex.be/fr/produits/intrusion/
 2026-06-15	https://anb-rimex.be/fr/produits/domotique/

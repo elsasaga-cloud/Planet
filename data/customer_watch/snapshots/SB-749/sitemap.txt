@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-09-16	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -47,7 +47,7 @@
 2026-09-08	https://www.ecin.ca/demo
 2026-09-09	https://www.ecin.ca/faq
 2026-09-08	https://www.ecin.ca/fusion
-2026-10-13	https://www.ecin.ca/home
+2026-10-29	https://www.ecin.ca/home
 2026-09-08	https://www.ecin.ca/industries
 2026-10-13	https://www.ecin.ca/maestrofusion
 2026-10-06	https://www.ecin.ca/maestrovision
@@ -89,6 +89,7 @@
 2026-08-04	https://www.ecin.ca/warranty-and-returns
 2025-11-11	https://www.ecin.ca/web/login
 	https://www.ecin.ca/terms
+	https://www.ecin.ca/shop/en-sfp1g-ex-1-25g-sfp-1310nm-40km-duplex-lc-upc-smf-transceiver-4897
 	https://www.ecin.ca/shop/en-qsfp28-bxu10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1271nm-tx-1331nm-rx-8477
 	https://www.ecin.ca/shop/en-qsfp28-bxd10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1331nm-tx-1271nm-rx-8478
 	https://www.ecin.ca/shop/en-qsfp28-bxu20-100g-bidi-pam4-qsfp28-single-lambda-xcvr-20km-1291nm-tx-1311nm-rx-8693
@@ -105,6 +106,7 @@
 	https://www.ecin.ca/shop/en-sfp28-sr-10g-25g-sfp28-25g-sr-mmf-850nm-100m-lc-4817
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-ac-12-slot-mini-media-converter-rack-with-dual-ac-psu-input-ac100-240v-10740
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-dc-12-slot-mini-media-converter-rack-with-dual-dc-psu-8566
+	https://www.ecin.ca/shop/en-sfp1g-zx-1g-sfp-1550nm-80km-duplex-lc-upc-smf-transceiver-4899
 	https://www.ecin.ca/shop/en-ymtp8f-om4-1-5m-1x-mtp-8f-female-to-2x-mtp-4-fibers-female-om4-polarity-b-breakout-length-0-5m-1-5m-10230
 	https://www.ecin.ca/shop/en-ymtp8f-om4-3m-1x-mtp-8f-female-to-2x-mtp-4-fibers-female-om4-polarity-b-breakout-length-0-5m-3m-84
 	https://www.ecin.ca/shop/en-ymtp8f-om4-4m-1x-mtp-8f-female-to-2x-mtp-4-fibers-female-om4-polarity-b-breakout-length-0-5m-4m-5743
@@ -141,6 +143,4 @@
 	https://www.ecin.ca/shop/en-qdd-lr8-400gbase-lr8-qsfp-dd-xcvr-10km-smf-fiber-lc-msa-6577
 	https://www.ecin.ca/shop/en-osfp-xdr4-400gbase-xdr4-dr-osfp-finned-top-pam4-1310nm-2km-mpo-12-smf-transceiver-5716
 	https://www.ecin.ca/shop/en-qsfp40g-er4-40g-er4-qsfp-1310nm-40km-dom-duplex-lc-upc-smf-optical-transceiver-4815
-	https://www.ecin.ca/shop/en-qsfp40g-ir4-40g-ir4-plrl4-qsfp-4x10gbase-ir-lr-1310nm-2km-dom-mpo-12-apc-smf-optical-transceiver-4813
-	https://www.ecin.ca/shop/en-qsfp40g-lr4-40g-qsfp-lr4-smf-1310nm-10km-dom-duplex-lc-4814
-	
+	https://www.ecin.ca/shop/en-qsfp4

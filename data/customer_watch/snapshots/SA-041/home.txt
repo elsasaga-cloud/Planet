@@ -1,8 +1,9 @@
-# SA-041 lightoptics.pl · home · https://lightoptics.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SA-041 lightoptics.pl · home · https://fibermarkt.com/pl · fetched 2026-10-31T08:34:28Z · HTTP 200
 Urządzenia światłowodowe - Postaw na Fibermarkt
 Sklep nie będzie działał poprawnie w przypadku wyłączenia obsługi plików cookies.
 Język Język:
-.options", "triggerTarget":"#switcher-language-trigger", "closeOnMouseLeave": false, "triggerClass":"active", "parentClass":"active", "buttons":null}}'> angielski
+.options", "triggerTarget":"#switcher-language-trigger", "closeOnMouseLeave": false, "triggerClass":"active", "parentClass":"active", "buttons":null}}'>
+angielski
 niemiecki
 francuski
 hiszpański
@@ -278,8 +279,4 @@ REGULAMIN
 MAPA STRONY
 Zapisz się do Newslettera i skorzystaj z rabatu 10% dla nowego zamówienia*
 Zamawiaj wygodnie w jednym miejscu wkładki światłowodowe do switchy i serwerów dowolnego producenta. Miksuj, łącz i mieszaj tak jak tego potrzebujesz.
-Newsletter
-Zapisz się na nasz Newsletter:
-Zapisz się
-*oferta ważna dla zamówień od 250 zł.
-Nie pokazuj więcej
+Newslet

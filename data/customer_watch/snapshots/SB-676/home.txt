@@ -1,7 +1,7 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 49,86 TL
-€: 55,61 TL
+$: 49,94 TL
+€: 55,90 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -148,12 +148,12 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1136,90 TL
+1138,61 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1136,90 TL
+1138,61 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
@@ -438,13 +438,13 @@ T10 ULTRURA AKILLI SAAT
 15.00 $
 15,0000
 %50
-MONİTÖR LCD ASKI APARATI 22'' 55cm Hareketli Tek Kol UFIX-22KH
-10.00 $
-10,0000
-%50
 DVR BOX KİLİTLİ PLASTİK KASA KOMPAKT TASARIM PANO
 20.00 $
 20,0000
+%50
+MONİTÖR LCD ASKI APARATI 22'' 55cm Hareketli Tek Kol UFIX-22KH
+10.00 $
+10,0000
 İndirimli Ürünler
 Tümünü İncele
 %0
@@ -496,10 +496,6 @@ GV ADP FUJIA - unitech 12V 2A ADAPTÖR 2 AMPER TEYP FİŞLİ PLASTİK
 20+
 Sepete Ekle
 %0
-O-KAM 3037 6MP WIFI PTZ KAMERA
-2
-Sepete Ekle
-%0
 Nood The Flasher 2.0 IPL Tüy Azaltma Epilasyon Cihazı - Beyaz
 20+
 Sepete Ekle
@@ -527,26 +523,30 @@ Sepete Ekle
 O-KAM 3920 4G Solar Camera 6MP Dual Lens Alert PTZ
 5
 Sepete Ekle
+%0
+O-KAM 3012 6MP 3MP+3MP Çift Lens Wi-Fi PTZ
+20+
+Sepete Ekle
 Çok Satılanlar
+8 TB SEAGATE 3.5 EXPANSION STKP10000400 TAŞINABİLİR DİSK
 PC HD 8TB SEAGATE ST8000DM004 BARRACUDA 7200RPM 256MB SATA HARDDISK
-Hikvision DS-2CD1121G2-LIUF 2MP 2.8MM Akıllı Hibrit Işık Fixed Dome Network Kamera
+PC HD 250GB HARDDİSK SATA 3.5'' HARDDİSK
 Hikvision DS-2CD1021G2-LIUF Sabit Lens 2.8 mm Hibrit Light 2mp Ir Bullet Ip Kamera
+Hikvision DS-2CD1121G2-LIUF 2MP 2.8MM Akıllı Hibrit Işık Fixed Dome Network Kamera
 HILOOK IPC-B140HA-LUFC 4MP 2.8MM 30M COLORVU DUALLIGHT SESLI POE IP BULLET
+PC HD 500GB HARDDİSK SATA HARDDİSK
 O-KAM OK-S-335 PREMiUM4G SİRENLİ 4G 4 LENS AOV SOLAR ÇİFT PANEL BEYAZ PTZ KAMERA
 Hometech Alfa 7LM 4 Çekirdek 7 inç KUTU AÇIK
 Güneş Enerlili Kamp Lambası Ampul Solar ( K-120 )
 REOLINK P320 5MP 2.8MM ÇİFT SES METAL IP BULLET KAMERA
 Hometech Alfa 8SM 4 Çekirdek 8 inç KUTU AÇIK
-4TB WD 3.5 PURPLE SATA3 5400RPM 128MB 7/24 GUVENLIK WD44PURZ (3 YIL RESMI DIST GARANTILI)
-PC HD 12TB Seagate ST12000NM0127 Sata HARDDİSK
-EMKA ARAÇ İÇİ SÜPÜRGE + KOMPRESÖR LASTİK ŞİŞİRME
 Son Gezilen Ürünler
-REOLINK P430 8MP 2.7-13.5MM LENS (5X ZOOM) RENKLİ POE IP BULLET METAL KAMERA
-Kialed 16W 4x4 Dekoratif Çift Yönlü Aplik 1060Lm
-LA-0621 Hava Nemlendirici
-MONİTÖR LCD ASKI APARATI 19" - 27'' 50-70cm Sabit UFIX UF-22S
-LPT KABLO 1MT PARALEL ERKEK ERKEK KABLO
-CONCORD MPIA AYA 3MP OUTDOOR Wİ-Fİ IP AKMERA
+ELİTE Uzaktan Kumandalı 3 Tane Portatif Lamba Ampu ( K-80 )
+Hometech Alfa 7LM 4 Çekirdek 7 inç IPS Ekran Bluetooth WiFi Webcam Safir Mavi Android Tablet
+Interlogix Advisor Advanced Keypad ATS1135
+USB HD 1TB SEAGATE EXPANSION 2.5'' USB 3.0 (STKM1000400) + RESCUE
+Hytech HY-HDC23 2.5" USB 3.0 SATA Harddisk Kutusu Siyah
+Çift Taraflı Elbise Giysi Kazak Tüy Kıl Yün Toz Giderici Fırça - Elibise Fırçası MR-006
 Yeni Gelen Ürünler
 DAHUA 27" LM27-U200PM 1920x1080 HDMI/USB3.0 6GB/128GB ANDROID SMART MONITOR +WIFI +SPEAKER +PIVOT
 DAHUA LED POSTER İÇ ORTAM 96x192 cm P2.5 GOB TEKERLEKLİ
@@ -562,23 +562,25 @@ FORLIFE FL-1820 5W MİNSK KRİSTAL CAM SPOT
 FORLIFE FL-1822 5W PARİS KRİSTAL CAM SPOT
 Popüler Kategoriler
 Toptan PC Harddiskleri
-34 Ürün
+36 Ürün
+Toptan Harici Harddiskleri
+4 Ürün
 Toptan IP Bullet Kameraları
 28 Ürün
 Toptan Tabletler
 9 Ürün
 Toptan Ip Dome Kameraları
-29 Ürün
+30 Ürün
 Toptan Solar Kamera Sistemleri
 6 Ürün
 Toptan Küçük Ev Aletleri
 65 Ürün
 Toptan AHD Bullet Kameralar
 11 Ürün
+Toptan Speed Dome PTZ
+31 Ürün
 Toptan IP Kayıt Cihazları
 18 Ürün
-Toptan Speed Dome PTZ
-32 Ürün
 Toptan Poe Switch
 18 Ürün
 Aydınlatma Ürünleri
@@ -586,27 +588,25 @@ Aydınlatma Ürünleri
 Toptan Network Kabloları
 14 Ürün
 Toptan AHD Kayıt Cihazları
-16 Ürün
+17 Ürün
 Toptan Kamera Buatları
 21 Ürün
-Toptan AHD Dome Kameraları
-10 Ürün
 POPÜLER KATEGORİLER
 Toptan PC Harddiskleri
+Toptan Harici Harddiskleri
 Toptan IP Bullet Kameraları
 Toptan Tabletler
 Toptan Ip Dome Kameraları
 Toptan Solar Kamera Sistemleri
 Toptan Küçük Ev Aletleri
 Toptan AHD Bullet Kameralar
-Toptan IP Kayıt Cihazları
 Toptan Speed Dome PTZ
+Toptan IP Kayıt Cihazları
 Toptan Poe Switch
 Aydınlatma Ürünleri
 Toptan Network Kabloları
 Toptan AHD Kayıt Cihazları
 Toptan Kamera Buatları
-Toptan AHD Dome Kameraları
 MÜŞTERİ HİZMETLERİ
 Gizlilik ve Güvenlik
 Mesafeli Satış Sözleşmesi

@@ -1,3 +1,294 @@
-# SB-614 focomm-cabling.com · home · https://www.focomm-cabling.com/ · fetched 2026-10-29T15:11:51Z · HTTP 403
-403 Forbidden
-nginx
+# SB-614 focomm-cabling.com · home · https://www.focomm-cabling.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+Focomm Cabling | ผู้จำหน่ายสายสัญญาณคอมอุปกรณ์เครือข่ายครบวงจร
+Skip to content
+เปิดทำการ : จันทร์-ศุกร์ เวลา  – 17.30 น. (หยุดเสาร์ – อาทิตย์)
+หน้าแรก
+เกี่ยวกับเรา
+สินค้าโฟคอมม์
+Fiber Optic
+Fiber Optic Cable
+Accessories of Fiber Optic
+Data Center Cabling Product
+FTTA Cable
+FTTH Cable
+UTP
+UTP CAT6A for Data Center
+UTP CAT6 Cabling Product
+UTP CAT5E Cabling Product
+Network Cabinet
+IDC Data Center Network Cabinet
+Server/Network Cabinet
+Outdoor Cabinet
+Wall Cabinet
+Telecom Cabinet
+Accessories Rack
+Network Switch
+Manage Switch POE
+Fiber Optic Switch
+Industrial Switch
+Industrial POE Switch
+Power Supply DIN Rail
+Media Converter
+Ethernet Media Converter
+POE Ethernet Media Converter
+RS485/RS232 Media Converter
+Multimedia
+HDMI
+VDO Wall Controller
+SFP Module
+25G/40G/100G SFP Module
+10G SFP Module
+WDM SFP Module
+AOC/DAC Hight Speed Cable
+Double SFP Module
+CWDM SFP Module
+OLT/ONU
+GPON ONT
+EPON ONU
+GPON OLT
+EPON OLT
+Surge Protection
+AC Surge Protection
+DC Surge Protection
+Data Surge Protection
+Control Line Surge Protection
+Tool and Tester
+Fiber Optic Tool/Tester
+Wire Mesh / Fiber Tray
+Wire Mesh
+Fiber Cable Tray
+Solar Cable
+CCTV Pole
+IOT
+IOT Intelligent Industrial Switch
+บริการของเรา
+วิดีโอ
+Training แนะนำการใช้งาน
+Product Present แนะนำสินค้า
+ดาวน์โหลด
+บทความและข่าวสาร
+ติดต่อเรา
+Generic selectors
+Exact matches only
+ค้นหาสินค้า
+ค้นหาเนื้อหา
+Post Type Selectors
+เปิดทำการ : จันทร์-ศุกร์ เวลา  – 17.30 น. (หยุดเสาร์ – อาทิตย์)
+Focomm Fiber Optic Cable
+Fiber Optic
+Focomm Fiber Optic Cable
+ผู้นำเข้าและจัดจำหน่ายสินค้าในด้านข่ายสายสัญญาณคอมพิวเตอร์ (Network Cabling) ตอบสนองด้านเทคโนโลยีเน็ตเวิร์คและคุณภาพของสินค้าภายในประเทศ และนำเสนอโซลูชั่นใหม่ๆ พร้อมจำหน่ายสินค้า Fiber คุณภาพ เช่น Fiber Optic Cable / Accessories for Fiber Optic / Data Center Cabling Product / FTTA Cable / FTTH Cable
+ดูสินค้าทั้งหมด
+Focomm UTP Cable
+UTP
+Focomm UTP Cable
+ผู้จัดจำหน่ายสินค้า UTP Cable สายทองแดง 8 เส้นที่จับคู่บิดเกลียวกัน ไม่มีฉนวนป้องกันสัญญาณรบกวนเพิ่มเติม และใช้หัวต่อ RJ-45 เป็นหลัก เหมาะสำหรับการเชื่อมต่อเครือข่ายในบ้าน สำนักงาน และสภาพแวดล้อมที่ไม่ค่อยมีสัญญาณรบกวนสูงนัก
+ดูสินค้าทั้งหมด
+Focomm Network Cabinet
+Network Cabinet
+Focomm Network Cabinet
+ผู้จัดจำหน่ายสินค้า Network Cabinet หรือ ตู้แร็ค (Rack) ตู้สำหรับจัดเก็บและติดตั้งอุปกรณ์เครือข่าย เช่น เราเตอร์ (Router), สวิตช์ (Switch), Patch Panel, เซิร์ฟเวอร์ (Server) ขนาดเล็ก, เครื่องสำรองไฟ (UPS) และอุปกรณ์อื่นๆ ที่เกี่ยวข้องกับระบบเครือข่าย รวมถึงสายสัญญาณต่างๆ
+ดูสินค้าทั้งหมด
+Focomm PoE Switch
+Network Switch
+Focomm PoE Switch
+ผู้จัดจำหน่ายสินค้า PoE Switch หรือ Power over Ethernet Switch อุปกรณ์สวิตช์เครือข่ายที่สามารถจ่ายพลังงานไฟฟ้าไปพร้อมกับข้อมูลผ่านสายเคเบิลอีเทอร์เน็ต (LAN) ไปยังอุปกรณ์ปลายทางที่รองรับเทคโนโลยี PoE ได้ เช่น IP Audio / IP Camera / อุปกรณ์ IoT เป็นต้น
+ดูสินค้าทั้งหมด
+Focomm Media Converter
+Media Converter
+Focomm Media Converter
+ผู้จัดจำหน่ายสินค้า Ethernet Media Converter อุปกรณ์แปลงสัญญาณอีเทอร์เน็ตจากสายทองแดง (RJ45) เป็นสายใยแก้วนำแสง (Fiber Optic) และในทางกลับกัน ทำให้สามารถส่งข้อมูลได้ในระยะทางที่ไกลขึ้นและมีความเร็วสูงขึ้น เหมาะสำหรับเชื่อมต่อเครือข่ายที่อยู่ห่างไกลกัน หรือต้องการความเสถียรของสัญญาณ
+ดูสินค้าทั้งหมด
+Focomm Media Converter
+SFP Module
+Focomm SFP Module
+ผู้จัดจำหน่ายสินค้า SFP / SFP+ โมดูลสำหรับ Fiber Switch และอุปกรณ์เน็ตเวิร์ก รองรับการแปลงสัญญาณแสงแบบ Plug & Play ใช้งานร่วมกับสายไฟเบอร์ Singlemode / Multimode และ UTP
+ดูสินค้าทั้งหมด
+Focomm OLT/ONU
+OLT/ONU
+Focomm OLT/ONU
+ผู้จัดจำหน่ายสินค้า OLT (Optical Line Terminal) และ ONU (Optical Network Unit) เป็นอุปกรณ์ในระบบเครือข่ายไฟเบอร์ออปติก (Fiber Optic) ที่เรียกว่า GPON (Gigabit Passive Optical Network) ทำงานร่วมกันเพื่อสร้างการเชื่อมต่ออินเทอร์เน็ตผ่านสายใยแก้วนำแสง
+ดูสินค้าทั้งหมด
+Focomm Surge Protection
+Surge Protection
+Focomm Surge Protection
+ผู้จัดจำหน่ายสินค้า ระบบป้องกันไฟกระชาก คือ ระบบที่ออกแบบมาเพื่อ ปกป้องอุปกรณ์ไฟฟ้าและอิเล็กทรอนิกส์จากแรงดันไฟฟ้าที่สูงเกินไปชั่วขณะ ซึ่งอาจเกิดขึ้นจากฟ้าผ่า การเปิดปิดอุปกรณ์ไฟฟ้าขนาดใหญ่ หรือความผิดปกติในระบบจ่ายไฟ
+ดูสินค้าทั้งหมด
+Focomm Tool and Tester
+Tool and Tester
+Focomm Tool and Tester
+ผู้จัดจำหน่ายสินค้า Tool and Tester เป็นเครื่องมือที่ใช้ในการเตรียมสาย ติดตั้งอุปกรณ์ และเชื่อมต่อระบบ ส่วน Tester เป็นอุปกรณ์ที่ใช้ตรวจสอบว่าการติดตั้งถูกต้องหรือไม่ มีปัญหาที่สายสัญญาณหรืออุปกรณ์หรือไม่ เพื่อให้ระบบเครือข่ายและระบบกล้องวงจรปิดสามารถทำงานได้อย่างเสถียรและมีประสิทธิภาพสูงสุด
+ดูสินค้าทั้งหมด
+Focomm Wire Mesh
+Wire Mesh / Fiber Tray
+Focomm Wire Mesh
+ผู้จัดจำหน่ายสินค้า Wire Mesh Cable Tray หรือ รางตะแกรงสายเคเบิล เป็นโซลูชันที่ทันสมัยและมีประสิทธิภาพในการจัดการสายเคเบิล รองรับสายไฟฟ้าหรือสายเคเบิลต่างๆ มีลักษณะเป็นโครงสร้างรูปตะแกรงที่ทำจากเส้นลวดเชื่อมติดกัน
+ดูสินค้าทั้งหมด
+Focomm Cabling
+ผู้นำด้านสายสัญญาณและอุปกรณ์เครือข่ายสำหรับงานระบบครบวงจร
+บริษัท โฟคอมม์ (ประเทศไทย) จำกัด ผู้นำด้านสายไฟเบอร์ออฟติก / สาย UTP / ตู้ Rack / สวิตช์ PoE / Media Converter / SFP Module และอุปกรณ์เครือข่ายแบบครบวงจร ให้บริการจัดจำหน่ายสำหรับผู้รับเหมา SI ฝ่ายไอทีโรงงาน หน่วยงานภาครัฐ/เอกชน และช่างเทคนิคทั่วประเทศ
+เรามีสินค้ามาตรฐานรองรับงานระบบคอมพิวเตอร์ ระบบกล้องวงจรปิด ระบบเครือข่ายองค์กร และโครงการ FTTx เช่น สายไฟเบอร์ออฟติกแบบ Indoor/Outdoor, ตู้ Rack แบบ Wall Mount/19 นิ้ว, สวิตช์ PoE สำหรับกล้อง IP, GPON OLT/ONU, ตัวแปลงสัญญาณ RJ45 to Fiber และเครื่องมือทดสอบสาย ฯลฯ ครบเรื่องสายและระบบเครือข่าย ที่เดียวจบ ส่งไวทั่วไทย ไว้วางใจ Focomm
+เกี่ยวกับเรา
+สินค้าโฟคอมม์แนะนำ
+ดูสินค้าทั้งหมด
+IPC CCTV Camera Tester NF-716ADHS PRO
+หน้าแรก Tool and Test IPC CCTV Camera Tester NF-716ADHS PRO...
+อ่านเพิ่มเติม
+CCTV Tester NF-IPC715
+หน้าแรก Tool and Test CCTV Tester NF-IPC715 ORDER INFOMATION Overview...
+อ่านเพิ่มเติม
+Multifunctional Thermal Imager NF-524
+หน้าแรก Tool and Test Multifunctional Thermal Imager NF-524 ORDER INFOMATION...
+อ่านเพิ่มเติม
+Network Cable Tester NF-918S
+หน้าแรก Tool and Test Network Cable Tester NF-918S ORDER INFOMATION...
+อ่านเพิ่มเติม
+หมวดหมู่สินค้าของเรา
+Focomm ให้บริการจัดจำหน่ายผลิตภัณฑ์ด้านโครงข่าย เช่น สายไฟเบอร์ออฟติก หรือ สายใยแก้วนำแสง , สวิตช์เครือข่าย, ตู้แร็คเซิร์ฟเวอร์ พร้อมออกแบบและติดตั้งระบบเครือข่าย รวมถึงให้บริการซ่อมแซมและบำรุงรักษา สามารถให้คำปรึกษาและแนะนำผลิตภัณฑ์ได้ตรงตามที่ต้องการ
+Fiber Optic
+สายไฟเบอร์ออฟติก Singlemode/Multimode สำหรับงานโครงข่าย FTTx, อินเทอร์เน็ตความเร็วสูง และกล้องวงจรปิด รองรับการส่งข้อมูลระยะไกลด้วยความเร็วและเสถียรภาพสูง
+อ่านเพิ่มเติม...
+UTP
+สายแลน UTP Cat5e/Cat6 รองรับ Gigabit Ethernet ใช้งานกับ Switch, Router, กล้อง IP และอุปกรณ์เครือข่ายทั่วไป สัญญาณคมชัด มาตรฐานสากล
+อ่านเพิ่มเติม...
+Network Cabinet
+ตู้แร็คเครือข่าย แข็งแรง ทนทาน มีหลายขนาดให้เลือก ใช้จัดเก็บอุปกรณ์เครือข่ายเป็นระเบียบ พร้อมอุปกรณ์เสริมครบครัน
+อ่านเพิ่มเติม...
+Network / Industrail
+Industrial Switch และอุปกรณ์เน็ตเวิร์กสำหรับโรงงานและระบบ IoT รองรับการทำงานในสภาพแวดล้อมหนัก ทนทาน มีเสถียรภาพสูง
+อ่านเพิ่มเติม...
+Media Converter
+แปลงสัญญาณ UTP ↔ Fiber รองรับ Fast/Gigabit Ethernet เชื่อมต่อเครือข่ายระยะไกลได้อย่างมีประสิทธิภาพ
+อ่านเพิ่มเติม...
+SFP Module
+โมดูล SFP/SFP+ สำหรับ Fiber Switch รองรับ Plug & Play ใช้งานกับสายไฟเบอร์ Singlemode และ Multimode ได้ทันที
+อ่านเพิ่มเติม...
+Fiber Optic
+สายไฟเบอร์ออฟติก Singlemode/Multimode สำหรับงานโครงข่าย FTTx, อินเทอร์เน็ตความเร็วสูง และกล้องวงจรปิด รองรับการส่งข้อมูลระยะไกลด้วยความเร็วและเสถียรภาพสูง
+อ่านเพิ่มเติม...
+UTP
+สายแลน UTP Cat5e/Cat6 รองรับ Gigabit Ethernet ใช้งานกับ Switch, Router, กล้อง IP และอุปกรณ์เครือข่ายทั่วไป สัญญาณคมชัด มาตรฐานสากล
+อ่านเพิ่มเติม...
+Network Cabinet
+ตู้แร็คเครือข่าย แข็งแรง ทนทาน มีหลายขนาดให้เลือก ใช้จัดเก็บอุปกรณ์เครือข่ายเป็นระเบียบ พร้อมอุปกรณ์เสริมครบครัน
+อ่านเพิ่มเติม...
+Network / Industrail
+Industrial Switch และอุปกรณ์เน็ตเวิร์กสำหรับโรงงานและระบบ IoT รองรับการทำงานในสภาพแวดล้อมหนัก ทนทาน มีเสถียรภาพสูง
+อ่านเพิ่มเติม...
+Media Converter
+แปลงสัญญาณ UTP ↔ Fiber รองรับ Fast/Gigabit Ethernet เชื่อมต่อเครือข่ายระยะไกลได้อย่างมีประสิทธิภาพ
+อ่านเพิ่มเติม...
+SFP Module
+โมดูล SFP/SFP+ สำหรับ Fiber Switch รองรับ Plug & Play ใช้งานกับสายไฟเบอร์ Singlemode และ Multimode ได้ทันที
+อ่านเพิ่มเติม...
+OLT/ONU
+อุปกรณ์ OLT และ ONU สำหรับระบบ PON (FTTx) ใช้เชื่อมต่อโครงข่ายไฟเบอร์ออฟติกความเร็วสูง พร้อมระบบบริหารจัดการเสถียร
+อ่านเพิ่มเติม...
+Surge Protection
+อุปกรณ์ป้องกันไฟกระชากสำหรับระบบสื่อสารและเครือข่าย ป้องกันความเสียหายจากไฟฟ้า ใช้งานได้ทั้ง Indoor และ Outdoor
+อ่านเพิ่มเติม...
+Tool and Tester
+เครื่องมือและอุปกรณ์ทดสอบเครือข่าย เช่น Optical Power Meter, Crimp Tool ใช้ติดตั้งและตรวจสอบคุณภาพสายไฟเบอร์และ UTP
+อ่านเพิ่มเติม...
+Wire Mesh
+ตะแกรง Wire Mesh สำหรับจัดระเบียบสายไฟเบอร์และสายแลน แข็งแรง ทนทาน ป้องกันสายพันกัน เหมาะกับงานติดตั้งเครือข่ายทุกประเภท
+อ่านเพิ่มเติม...
+ดูสินค้าทั้งหมด
+ลูกค้าชั้นนำของโฟคอมม์
+โฟคอมม์ (ประเทศไทย) ได้รับความไว้วางใจให้เป็นลูกค้าชั้นนำมากกว่า 50 แบรนด์ เป็นผู้ให้บริการจัดจำหน่ายผลิตภัณฑ์ด้านโครงข่าย
+ข่าวสาร & กิจกรรม
+‘Kalasin Smart City for All 2025’ งานสัมมนาเมืองอัจฉริยะ จ.กาฬสินธุ์
+เมื่อวันที่ 23 กันยายน 2568 มหาวิทยาลัยกาฬสินธุ์ ได้จัดงานสัมมนา ‘กาฬสินธุ์เมืองอัจฉริยะ (Kalasin Smart City for All 2025)’ ที่มหาวิทยาลัยกาฬสินธุ์ ร่วมกับหน่วยงานภาครัฐและเอกชน เพื่อสร้างความรู้ ความเข้าใจ และผลักดันการนำเทคโนโลยีและนวัตกรรมมาประยุกต์ใช้พัฒนาท้องถิ่น หวังยกระดับคุณภาพชีวิตของประชาชนและขับเคลื่อนเมืองกาฬสินธุ์สู่การพัฒนาอย่างยั่งยืน
+อ่านเพิ่มเติม
+ข่าวสาร & กิจกรรม
+Badminton Bonding Battle ประจำปี 2024
+กิจกรรมการแข่งขันกีฬา “แบดมินตัน” โครงการสานสัมพันธ์ระหว่างองค์กร “Badminton Bonding Battle ” ประจำปี 2024 เชื่อมมิตรภาพ รวมพลังใจ ก้าวปด้วยกัน FOCOMM x FUTONG กิจกรรมสานสัมพันธ์ สร้างความรู้จักและสร้างความสัมพันธ์ทางธุรกิจ ขอขอบคุณบริษัท บริษัท ฟู่ทง กรู๊ป เทคโนโลยี การสื่อสาร (ประเทศไทย) จำกัด
+อ่านเพิ่มเติม
+บทความน่ารู้
+บทความทั้งหมด
+ADSS และ ARSS ความแตกต่างของสายไฟเบอร์ออฟติก
+บทความน่ารู้
+/
+การเลือกใช้สายไฟเบอร์ออฟติก เป็นสิ่งสำคัญสำหรับงานโครงข่าย ไม่ว่าจะเป็นระบบโทรคมนาคม ไฟฟ้า หรือระบบอินเทอร์เน็ตความเร็วสูง โดยเฉพาะ สาย ADSS (All Dielectric Self-Supporting) และ สาย ARSS (Anti Rodent Self-Supporting) ที่มักถูกนำมาเปรียบเทียบกัน เนื่องจากทั้งสองมีคุณสมบัติที่แตกต่างกันอย่างชัดเจน บทความนี้จะอธิบายความหมาย...
+ดูทั้งหมด
+สายไฟเบอร์ออฟติก คืออะไร? เลือกใช้งานอย่างไรให้ถูกต้อง
+บทความน่ารู้
+/
+ความเร็วและความเสถียรของการสื่อสารข้อมูล เป็นสิ่งสำคัญที่สุด สายไฟเบอร์ออฟติก (Fiber Optic Cable) ได้เข้ามาแทนที่สายทองแดงแบบเดิม ด้วยความสามารถในการส่งข้อมูลด้วยความเร็วสูง ปริมาณมหาศาล และมีความเสถียรสูงสุด บทความนี้จะอธิบายว่า สายไฟเบอร์ออฟติกคืออะไร มีกี่ประเภท ข้อดีข้อจำกัดอย่างไร และเหตุผลที่คุณควรเลือกใช้งาน สายไฟเบอร์ออฟติก (Fiber Optic Cable) คืออะไร?...
+ดูทั้งหมด
+ความเร็วของสายใยแก้วนำแสง สิ่งที่คุณจำเป็นต้องรู้!
+บทความน่ารู้
+/
+อินเทอร์เน็ตความเร็วสูง นับว่ากลายเป็นสิ่งจำเป็นสำหรับทุกคนไม่น้อย “สายใยแก้วนำแสง” หรือที่หลายคนเรียกว่า Fiber Optic จึงได้รับความนิยมเพิ่มขึ้นอย่างต่อเนื่อง เพราะสามารถตอบโจทย์ความเร็ว ความเสถียร และการใช้งานในอนาคตได้ดีกว่าสายทองแดงแบบเดิม บทความนี้จะพาคุณไปรู้จักกับเทคโนโลยีไฟเบอร์ พร้อมอธิบายว่าทำไมมันถึงเร็ว และแตกต่างจากสายทองแดงอย่างไร สายใยแก้วนำแสง คืออะไร ? สายใยแก้วนำแสง (Fiber Optic) เป็นสายสัญญาณที่ใช้...
+ดูทั้งหมด
+ติดต่อสอบถามเกี่ยวกับสินค้า
+Facebook
+Line
+Youtube
+Envelope
+หน้าแรก
+เกี่ยวกับเรา
+สินค้าโฟคอมม์
+Fiber Optic
+Fiber Optic Cable
+Accessories of Fiber Optic
+Data Center Cabling Product
+FTTA Cable
+FTTH Cable
+UTP
+UTP CAT6A for Data Center
+UTP CAT6 Cabling Product
+UTP CAT5E Cabling Product
+Network Cabinet
+IDC Data Center Network Cabinet
+Server/Network Cabinet
+Outdoor Cabinet
+Wall Cabinet
+Telecom Cabinet
+Accessories Rack
+Network Switch
+Manage Switch POE
+Fiber Optic Switch
+Industrial Switch
+Industrial POE Switch
+Power Supply DIN Rail
+Media Converter
+Ethernet Media Converter
+POE Ethernet Media Converter
+RS485/RS232 Media Converter
+Multimedia
+HDMI
+VDO Wall Controller
+SFP Module
+25G/40G/100G SFP Module
+10G SFP Module
+WDM SFP Module
+AOC/DAC Hight Speed Cable
+Double SFP Module
+CWDM SFP Module
+OLT/ONU
+GPON ONT
+EPON ONU
+GPON OLT
+EPON OLT
+Surge Protection
+AC Surge Protection
+DC Surge Protection
+Data Surge Protection
+Control Line Surge Protection
+Tool and Tester
+Fiber Optic Tool/Tester
+Wire Mesh / Fiber Tray
+Wire Mesh
+Fiber Cable Tray
+Solar Cable
+CCTV Pole
+IOT
+IOT Intelligent Industrial Switch
+บริการของเรา
+วิดีโอ
+Training แนะนำการใช้งาน
+Product Present แนะนำสินค้า
+ดาวน์โหลด
+บทความและข่าวสาร
+ติดต

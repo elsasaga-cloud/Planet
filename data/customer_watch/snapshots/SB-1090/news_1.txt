@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -74,18 +74,6 @@ Blog
 Últimas da Trama
 Pesquise no blog
 Todas as categorias
-Eventos
-Consumo
-Inbound Marketing
-Infográfico
-Assessoria de Imprensa
-Revistas e Jornais Corporativos
-marketing de conteúdo
-Inteligência Artificial
-Publicações Dirigidas
-Endomarketing
-Voluntariado
-Diversidade
 Educação
 Criação e Design
 Vídeos
@@ -131,6 +119,18 @@ Mídias Sociais
 Produção de Conteúdo
 Opinião Pública
 Videocast Diálogos
+Eventos
+Consumo
+Inbound Marketing
+Infográfico
+Assessoria de Imprensa
+Revistas e Jornais Corporativos
+marketing de conteúdo
+Inteligência Artificial
+Publicações Dirigidas
+Endomarketing
+Voluntariado
+Diversidade
 Comunicação Corporativa Ghostwriting: seu executivo tem boas ideias, mas quem escreve?
 Entenda como essa estratégia de Relações Públicas transforma o conhecimento das lideranças em conteúdos que fortalecem autoridade, posicionamento e reputação.
 29 outubro 2026 | Jessyca Costa Caires
@@ -168,7 +168,7 @@ Anteriores
 Próximos
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-Phone
+URL
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-Name
+Instagram
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

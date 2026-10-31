@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,13 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1775 result(s)
+1777 result(s)
+E-Invoicing and Vietnamese Accounting Standards on Odoo: Providers, Integration, and Practical Operation
+Oct 29, 2026
+Business Hacks
+Safe Sex, Smarter Systems: How Global Protection Replaced 5 Platforms with Odoo
+Oct 29, 2026
+Customer Reviews
 Odoo for Restaurants
 Oct 29, 2026
 Business Hacks
@@ -216,18 +222,12 @@ Success Stories
 What Is a Purchase Order, How It Differs from an Invoice, and How to Manage It in Odoo
 Oct 22, 2026
 Business Hacks
-Nothers The Award Store Streamlines Custom Award Manufacturing with Odoo
-Oct 22, 2026
-Customer Reviews
-【2027 Hong Kong Accounting Guide】 Tax Filing & Audit Requirements Explained
-Oct 22, 2026
-Business Hacks
 1
 2
 3
 4
 …
-148
+149
 About us
 Write a small text here to describe your blog or company.
 Archives

@@ -1,4 +1,4 @@
-# SB-995 acixme.com · news_2 · https://www.acixme.com/case-study/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-995 acixme.com · news_2 · https://www.acixme.com/case-study/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Flap Barrier and Turnstile Gate for Reading Emirates ID | ACIX Middle East
 Security Systems
 All about Security Systems
@@ -56,7 +56,7 @@ Videos
 Resources
 Other Resources
 Browse resources
-Blogs
+Knowledge Base
 Articles
 Case Study
 White Papers
@@ -114,7 +114,7 @@ Full Name *
 Email Address *
 ACIX Middle East General Trading LLC is a professionally-managed, value-added supplier of IT products and security solutions.
 Quick Search
-Blogs
+Knowledge Base
 Articles
 Case Study
 White Papers

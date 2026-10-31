@@ -1,0 +1,201 @@
+# SC-678 QVIS · news_1 · https://qvis.co.uk/case-studies · fetched 2026-10-31T08:34:28Z · HTTP 200
+Case Studies |
+{ scrolled = window.scrollY > 100 })"
+:class="scrolled ? 'bg-brand-light-blue shadow-md' : 'bg-transparent shadow-0'">
+{ scrolled = window.scrollY > 100 })"
+x-cloak
+name="header-mobile"
+class="header__mobile block lg:hidden relative"
+>
+this.$refs.input.focus())
+},
+closeSearch() {
+this.searchOpen = false
+this.q = ''
+this.results = ''
+this.open = false
+},
+search() {
+if (this.q.length res.text())
+.then(html => {
+this.results = html.trim()
+this.open = true
+})
+}
+}"
+class=""
+>
+0
+Home
+Products
+Lighting
+Security and Fire
+Services
+Arrange a Site Visit
+Request Lighting Design/ROI
+Specialist Ceiling Type Support
+Warranty Registration
+Warranty Claims
+Build a Project
+Wireless & Controls
+UK Assembly
+Technical Support
+Lighting Support
+Security Support
+Company
+Our Story
+Careers
+Case Studies
+Contact Us
+{ scrolled = window.scrollY > 100 })">
+Home
+Products
+Lighting
+External
+Industrial
+Surface & Suspended
+Modular
+Downlight
+Emergency
+Security and Fire
+HD Analogue
+IP CCTV
+Accessories
+Domestic Fire and Environmental
+Lighting Products
+Security & Fire
+Services
+Arrange a Site Visit
+Request Lighting Design/ROI
+Specialist Ceiling Type Support
+Warranty Registration
+Warranty Claims
+Build a Project
+Wireless & Controls
+UK Assembly
+Technical Support
+Lighting Support
+Security Support
+Company
+Our Story
+Careers
+Case Studies
+Contact Us
+this.$refs.input.focus())
+},
+closeSearch() {
+this.searchOpen = false
+this.q = ''
+this.results = ''
+this.open = false
+},
+search() {
+if (this.q.length res.text())
+.then(html => {
+this.results = html.trim()
+this.open = true
+})
+}
+}"
+class=""
+>
+0
+What our customers say
+Discover why Qvis is a trusted solution provider to many. Explore real-world case studies showcasing how Qvis delivers reliable, robust, sustainable, and innovative solutions across multiple sectors.
+4PX Warehouse
+Our NCF vapour-proof linear fittings are built for industrial use, with Tridonic flicker-free drivers and polycarbonate housing giving IP65 dirt & moisture resistance. We installed these fittings throughout the warehouse areas of 4PX's London base and we also provided some Lynx panels for back-areas such as the staff room.
+Boardman Bikes
+This lighting solution for the Boardman Bikes Performance Center in Evesham is simple, but effective. To suit their warehouse-style ceiling, we used our Lynx 6x6 modular panels with our 4-wire suspension kits - which are made especially for modular panels and can be adjusted to ensure that the panels still look level in the absence of a standard ceiling grid.
+Cams Hill School
+We provided Cams Hill with various lighting solutions from our diverse product range. Our Lynx panels were used for classroom areas, with Helios downlights used for washrooms and Vex bulkheads for corridors. Additionally, we used our Eclipse bulkheads for the outer walls, which are IK10 impact resistant and IP65 rated, making them ideal for external use.
+Dick Lovett
+For this branch of Dick Lovett, we needed a sleek, professional solution to fit the stylish and minimal look of this office and dealership space. We used our Lynx panels and Helios slimline downlights to provide great light uniformity via the polycarbonate opal diffusers and high-spec Tridonic drivers built in to the fittings.
+Eton House
+For this newly-built office complex based in Maidenhead, we provided our 12x3 Lynx modular panels throughout the building. We used suspension kits as a way of effectively installing the panels despite the non-standard ceiling grid. The panels brightened up the space without compromising on energy efficiency.
+Fabb Sofas
+For Fabb Sofas, we needed to implement a solution for all branches to suit the high, suspension-based ceilings while still providing a good level of brightness to compliment the colourful, eye catching decor. We used our high-power Glowbrite highbays to achieve this. We also installed LED panels in the staff areas and our NCF fittings for storage rooms.
+Flipout
+We needed to provide a consistent amount of light to this large, converted warehouse space. The solution we went for was our Glowbrite traditional highbays; suited to large industrial and retail/commercial spaces. We also installed our Lynx 6x6 panels for the staff and reception areas.
+Flitwick Leisure
+For this leisure and fitness centre based in Bedfordshire, we needed a lighting solution that would compliment the bright and open space. We used our Helios slimline downlights for the lower ceilings in areas such as corridors and fitting rooms, while in areas with higher ceilings, our high-power Glowbrite highbays were the ideal solution.
+Fratton Park Stadium
+For our project at Fratton Park, home of Portsmouth Football Club, we used our high efficacy Lynx panels for the lounge and conference spaces as an efficient and professional-looking solution. We also used our vapour proof, IP65 rated NCF linear fittings as a durable solution for external areas such as the entrances and stairwells.
+Fuzion Solutions Ltd
+We provided Fuzion’s office building with various lighting solutions. We used our Lynx 6x6 panels and our Helios slimline downlights – both sporting high spec Tridonic drivers. We also provided our surface mounted Blad exit signs as an energy efficient emergency lighting solution with a 24 meter viewing distance.
+Greenwich Community College
+Greenwich Community College wanted light fittings that would suit educational use and create a bright, welcoming environment for their students. We provided our high efficacy LED panels for classrooms, our TP(a) rated Proteus linear fittings for communal areas and our IP66 rated Vex surface wall/ceiling bulkheads for the corridors.
+ITD Consultants
+This consultant office in Portsmouth required some new panels with better energy efficiency and reliability, so we provided them with our Lynx panels in 600x600mm sizes to fit their ceiling grids. As stated in above projects, they offer TP(b) fire ratings, IP44 ratings and are high-efficacy solutions with high-spec Tridonic drivers.
+Mediterranean Shipping Co.
+We provided Mediterranean Shipping Co. with our Lynx 6x6 panels for their Ipswich-based office for a professional-looking, consistent lighting solution. We also used our Helios downlights for certain rooms in the building; these downlights have a super-slim profile for minimal void spaces and are rated IP65 and TP(a).
+Nissan Warehouse
+For this project, we installed our super-high efficacy Glow UFO highbays, which are 1-10v dimmable as standard. We also used our Lynx panels for staff and storage areas. This job for one of Nissan's warehouses based in the Middle-East is one of several export projects that we have taken on - click here to find out how to enquire.
+Prime Produce
+For this Kent based fruit & veg production company, we provided our Lynx 6x6 panels and slimline Helios downlights as a professional, efficient lighting solution for the office and corridor areas. With the warehouse areas, our high-efficacy Glow UFO highbays were he ideal solution.
+Salisbury Steam Laundry
+Salisbury Steam Laundry required lighting that was more reliable and energy efficient. We used our Lynx 1200x600mm panels as one lighting solution. We also used our Scorch downlights, which are not only fire-rated to BS476-22 standards (30/60/90 minute), but are also IP65, CCT switchable and are boxed with 3 magnetic bezels (white, brushed & polished)
+Seat Dealership
+We provide a range of industrial and external light fittings to this Seat car dealership. We used our Glowbrite traditional highbays for the showroom areas, as well as out twin-array Baylite lowbays for warehouse areas. Both of these fittings provide high power, at 150W, and IP65 protection. To illuminate the building on the outside, we used our QFlood IP66 rated floodlights.
+Southern Co-Operative
+We were commissioned by The Southern Co-Operative to update their existing fluorescent lighting to LED panels for better uniformity and longevity, and also lower maintenance and energy costs. Starting with Harbour Parade, Southampton, we provided various stores with our high efficacy Lynx panels with integral emergency for peace of mind
+Tempus Court
+This new office building located in Guildford required a fairly large amount of LED panels as a professional looking, energy saving lighting solution. We installed our 600x600mm Lynx panels throughout the complex to provide great light uniformity, high efficacy and peace of mind via the IP44 rating of the panels, as well as TP(b) fire rating.
+UL Labs HQ
+This project was based in the customer service center for UL Labs. We provided our Lynx panels in sizes of 6x6 & 12x3 to suit the different ceiling types in the rooms; we provided solutions to fit ceiling grids and also to suit their suspension-based ceilings. For the plant rooms, we used our vapour proof, IP65 rated NCF industrial fittings.
+"Don't settle for the rest — settle for the industry's best."
+If you're looking for a trusted solutions provider that puts customers first, QVIS Lighting & Security should be your first choice. We collaborate closely with wholesalers, contractors, consultants, and architects to fine-tune and deliver some of the most advanced lighting and security solutions on the market.
+Speak to the team
+Affordability without compromise
+About
+Company
+Careers
+Our Story
+Lighting
+Services
+Warranty Registration
+Arrange a Site Visit
+Request Lighting Design/ROI
+Specialist Ceiling Type Support
+Build a Project
+Wireless & Controls
+UK Assembly
+Lighting
+Services
+Warranty Registration
+Lighting
+External
+Industrial
+Modular
+Surface & Suspended
+Downlight
+Emergency
+Security & Fire
+HD Analogue
+IP CCTV
+Accessories
+Domestic Fire and Environmental
+Contact Us
+023 9387 0050
+sales@qvis.co.uk
+Facebook
+Linkedin
+Terms and Conditions
+Policies and Statements
+Privacy & Cookies
+Terms & Conditions
+Warranty Registration
+Customer Satisfaction Form
+Quality Policy
+Environmental Policy
+Modern Slavery Statement
+ISO 9001:2015
+ISO 14001:2015
+© Copyright 2026 QVIS Lighting & Security Ltd. All rights reserved. WEEE Account Number - 255072
+Website by We Are Jungle
+This site uses cookies
+By using this site, you agree to our use of cookies. Cookies help improve your browsing experience and provide personalized content.
+Necessary
+Analytics
+These cookies are used to provide us with analytics on which content visitors read, etc.
+Save Preferences
+You can always change your preferences later.

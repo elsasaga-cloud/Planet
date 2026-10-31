@@ -1,4 +1,4 @@
-# SC-2418 streakwave.com · home · https://streakwave.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Streakwave Wireless
 Skip to main content
 Menu
@@ -23,17 +23,17 @@ Back Point-to-Point (262) Point-to-Multipoint (165)
 Wi-Fi
 Back Indoor Access Points (167) Outdoor Access Points (48) Wi-Fi Accessories (25)
 Networking
-Back Switches (346) Routers & Gateways (166) SFP & Transceivers (123) Controllers (7) Remote Management (0) Extenders & Converters (38) Network Attached Storage (8) Fiber & PON (14)
+Back Switches (346) Routers & Gateways (165) SFP & Transceivers (123) Controllers (7) Remote Management (0) Extenders & Converters (38) Network Attached Storage (8) Fiber & PON (14)
 Cellular & LTE
 Back LTE/5G Routers & Gateways (212) Cellular Modems & Cards (21) Cellular Accessories (174)
 Power & PoE
-Back PoE Injectors & Midspans (310) Solar & Remote Power (145) Surge & Lightning Protection (435) Power Management (69)
+Back PoE Injectors & Midspans (310) Solar & Remote Power (146) Surge & Lightning Protection (435) Power Management (69)
 Cables & Connectors
 Back Ethernet Cables (101) Coaxial Cables & Jumpers (110) Fiber Optic Cables (78) Connectors & Adapters (189) Cable Management (80)
 Mounting & Enclosures
 Back Mounts & Brackets (264) Enclosures (112)
 Voice & Conferencing
-Back IP Phones (195) PBX & Gateways (69) Conferencing (45) Paging & Intercoms (38) Voice Accessories (282)
+Back IP Phones (195) PBX & Gateways (69) Conferencing (44) Paging & Intercoms (39) Voice Accessories (285)
 Surveillance & Security
 Back Cameras (320) NVRs & Storage (98) Access Control (94) Surveillance Accessories (135) Sensors & IoT (33)
 Audio
@@ -50,7 +50,6 @@ Learn More
 Our Network of Trusted Brands
 Brands You Trust
 Previous</button>","nextArrow":"<button type=\"button\" data-role=\"none\" class=\"slick-next\" aria-label=\"Next\" tabindex=\"0\" role=\"button\">Next</button>","responsive":[{"breakpoint":10000,"settings":{"slidesToShow":8}},{"breakpoint":1600,"settings":{"slidesToShow":8}},{"breakpoint":1280,"settings":{"slidesToShow":6,"dots":true}},{"breakpoint":1024,"settings":{"slidesToShow":4,"dots":true}},{"breakpoint":600,"settings":{"slidesToShow":2,"dots":true}}],"lazyLoad":"ondemand"}' data-numberofvisibleitems="8"> 9dot
-GL.iNet
 Algo
 ARC Wireless
 Baicells

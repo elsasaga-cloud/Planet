@@ -1,0 +1,16 @@
+# SC-2106 Optimal Cable Services · youtube · https://www.youtube.com/user/AFLglobal · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-10-29T13:00:01+00:00	AFL's New OPGW Wire Strander	https://www.youtube.com/watch?v=YbutwyQQZrk
+2026-10-28T13:00:06+00:00	Fujikura 100R Mass Fusion Splicer: Episode 3 | Power-Up & Navigation	https://www.youtube.com/watch?v=R7xx4sQttXY
+2026-10-27T13:00:38+00:00	AFL Classroom: Fujikura 100R Troubleshooting, Maintenance & Best Practices	https://www.youtube.com/watch?v=iqOYp0cjFNs
+2026-10-26T13:00:03+00:00	Fujikura 100R Mass Fusion Splicer: Episode 2 | Kit Contents & Workstation Setup	https://www.youtube.com/watch?v=xmOBoJFsCOg
+2026-10-22T13:00:39+00:00	AFL Classroom: Complete Splicing Workflow with the Fujikura 100R	https://www.youtube.com/watch?v=pF1rT7vboJ4
+2026-10-21T13:00:29+00:00	Fujikura 100R Mass Fusion Splicer: Episode 1 | At a Glance	https://www.youtube.com/watch?v=Pc0MO6gGh7k
+2026-10-20T13:00:32+00:00	AFL Classroom: Intelligent Alignment Control & Other Features with the Fujikura 100R	https://www.youtube.com/watch?v=TcH8r9BT02Q
+2026-10-19T13:00:29+00:00	Fujikura 100S Fusion Splicer: Episode 12 | GPS, Security & Service Support	https://www.youtube.com/watch?v=P0yXs9whlSI
+2026-10-15T13:00:29+00:00	AFL Classroom: Getting Started with the Fujikura 100R	https://www.youtube.com/watch?v=JJhqPRJLIyY
+2026-10-14T13:00:31+00:00	Fujikura 100S Fusion Splicer: Episode 11 | Cleaning & Maintenance	https://www.youtube.com/watch?v=b1eCiKy-rHA
+2026-10-13T13:00:38+00:00	AFL Classroom: Advanced Specialty Fiber Splicing with the FSM-100P+	https://www.youtube.com/watch?v=GINFQQIURIM
+2026-10-12T13:00:27+00:00	Fujikura 100S Fusion Splicer: Episode 10 | Completing a Splice (Auto Mode)	https://www.youtube.com/watch?v=sF7ThT5UmcU
+2026-10-08T13:00:35+00:00	Specialty Fiber Splicing with the Fujikura 100P & 100P+ | AFL Webinar	https://www.youtube.com/watch?v=5EgpFPVlxns
+2026-10-07T13:00:11+00:00	Fujikura 100S Fusion Splicer: Episode 9 | Arc Calibration	https://www.youtube.com/watch?v=g9_3a8A-XJQ
+2026-10-06T13:00:38+00:00	AFL Classroom: AFL Compression Joint Installation on TS AECC Conductor	https://www.youtube.com/watch?v=7H4BIO6eU70

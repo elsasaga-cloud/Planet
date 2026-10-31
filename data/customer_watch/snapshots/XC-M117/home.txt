@@ -1,4 +1,4 @@
-# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Sphinx France, solutions M2M et IIoT
 Connexion
 ou
@@ -239,17 +239,17 @@ Extender KVM
 Je découvre
 Nos produits vedettes
 Repoussez les limites de l’Industrie 4.0 avec nos solutions IIoT de pointe.
-Moxa EDS-408A - Switch Ethernet manageable
-Moxa EDS-P206A-4PoE - Switch Ethernet non manageable
-Moxa NPort 5130 – Serveur de périphériques RS-422/485
-Moxa EDS-405A-MM-SC - Switch manageable à 5 ports
-Moxa EDS-2008-EL - Switch non manageable 8 ports
-Moxa EDS-208 - Switch non manageable 8 ports
-Moxa NPort 5230-T – Convertisseur série vers Ethernet
-Moxa NPort 5650-8 – Serveur de port série 8 ports
-1 184,00 €*
-Semtech AirLink® XR60 - Routeur 5G industriel
-Moxa EDS-2005-EL - Switch non manageable 5 ports
+Semtech AirLink RX400 - Routeur 5G RedCap industriel
+Semtech AirLink EX400 - Routeur 5G RedCap
+Semtech FX86E - Modem 5G RedCap
+Moxa TSN-G5016 - Switch Ethernet manageable
+Moxa TWS-3010-APL - Switch Ethernet manageable
+0,00 €*
+Moxa NPort 5610-16-DT-G2 - Convertisseur RS232 vers Ethernet
+Moxa RKS-G4030-PL - Switch Ethernet niveau 2
+Moxa RKS-G4030-PL-L3 - Switch Ethernet niveau 3
+Moxa RKS-G4028-PL - Switch Ethernet niveau 2
+Moxa RKS-G4028-PL-L3 - Switch Ethernet niveau 3
 Votre partenaire unique pour
 l'Internet Industriel des Objets
 Plus de 24 ans d'expérience
@@ -261,40 +261,49 @@ Shop now
 Nos best-sellers
 Découvrez notre sélection de produits les plus vendus.
 Semtech AirLink® XR60 - Routeur 5G industriel
-ADDERLink XDIP-POE - Extender KVM sur IP
-Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
-Icron Ranger 2301 - Extendeur USB 2.0
-370,00 €*
-Moxa EDS-408A - Switch Ethernet manageable
 Kerlink Wirnet iFemtoCell - Gateway LoRaWAN indoor
 0,00 €*
+Icron Ranger 2301 - Extendeur USB 2.0
+370,00 €*
+ADDERLink XDIP-POE - Extender KVM sur IP
 Moxa EDS-316 - Switch industriel 16 ports
+Moxa EDS-408A - Switch Ethernet manageable
+Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
 Je découvre
-Icron Raven 3104 - Extendeur USB 3.1 4 ports
-1 165,00 €*
-Icron Raven 3301 - Extendeur USB à 1 Port
-Icron Arbutus 63301 - Extender USB 1 port
-ADDERLink X-USB PRO - Extender KVM USB
-ADDERLink CUSBEXT100 - Extendeur C-USB 2.0 sur câble CATx
 Icron Starling 3251C - Extendeur USB 3.2 Type-C
 774,00 €*
 Icron Raven 3104 Pro - Extendeur USB 3.2 4 ports
 1 802,00 €*
+Icron Ranger 2301 - Extendeur USB 2.0
+370,00 €*
+Extension pour 2 ports USB 2.0 jusqu'à 100 m via CAT 5e/6/7- Icron Ranger 2312
+335,00 €*
+Icron Raven 3104 - Extendeur USB 3.1 4 ports
+1 165,00 €*
+Extension pour un port USB 2.0 jusqu'à 100m via CAT 5e/6/7 ou LAN- Icron Ranger 2301GE
+412,00 €*
 ADDERLINK X-USB PRO MS - Extender KVM à double écran
-Icron Ranger 2304PoE - Extendeur USB 2.0 4 ports
-445,00 €*
-Icron Ranger 2324 - Extendeur USB 2.0 4 ports
-948,00 €*
-Premio SIO-W221-8365UE - Panel PC
-Moxa MPC-2190 Series 19 pouces ECDIS couleur calibré et ordinateurs de panneau sans ventilateur
-Moxa MPC-2240 Marine Panel Computers avec processeur Intel® Ivy Bridge Celeron® CPU 1,40 GHz, VGA, DVI, audio, LAN Gigabit, ports série, ports USB 2.0
-Moxa MPC-2070 – Panel PC fanless
-Moxa MPC-3070W - Panel PC fanless 7"
-Moxa MPC-3100 - Panel PC fanless 10”
-Moxa MPC-3120 - Panel PC fanless 12"
-Moxa MPC-3120W - Panel PC fanless 12"
-Moxa MPC-3150 - Panel PC fanless 15"
-Moxa MPC-3150W - Panel PC fanless 15"
+Extension pour un port USB 3.0 jusqu'à 15 m - Icron Spectra 3001-15
+317,00 €*
+Extension pour 4 ports USB 2.0 jusqu'à 100 m CAT 5e/6/7 ou LAN - Icron Ranger 2304
+403,00 €*
+ADDERLink CUSBEXT100 - Extendeur C-USB 2.0 sur câble CATx
+MACTRON GROUP WAM1707 - Panel PC Windows 17"
+0,00 €*
+Moxa MPC-2120 Series Ordinateurs industriels sans ventilateur 12 pouces
+MACTRON GROUP WCP2157 - Panel PC Windows 21.5″
+0,00 €*
+MACTRON GROUP WCP1567 - Panel PC Windows 15.6″
+0,00 €*
+MACTRON GROUP WAM2157 - Panel PC Windows 21.5"
+MACTRON GROUP WAM2152 - Panel PC Android 21.5"
+MACTRON GROUP WAM1702 - Panel PC Android 17"
+MACTRON GROUP WAM1700 - Panel PC Windows 17"
+0,00 €*
+MACTRON GROUP WAM1202 - Panel PC Android 12"
+0,00 €*
+MACTRON GROUP WAM1162 - Panel PC Android 11.6"
+0,00 €*
 Je découvre
 Colonne 1
 Pionnier depuis plus de 24 ans , SPHINX France offre des solutions innovantes en cybersécurité OT , IA et IoT pour connecter et optimiser les ressources industrielles dans des secteurs clés comme l’énergie, le transport et l’industrie 4.0 .

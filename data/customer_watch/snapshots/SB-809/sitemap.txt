@@ -1,11 +1,11 @@
-# SB-809 econnet.it · sitemap · https://www.econnet.it/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-809 econnet.it · sitemap · https://www.econnet.it/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 	https://www.econnet.it/
-	https://www.econnet.it/chi-siamo.1.24.uw
-	https://www.econnet.it/prodotti.1.25.uw
-	https://www.econnet.it/corsi.1.27.uw
-	https://www.econnet.it/assistenza.1.31.uw
-	https://www.econnet.it/certificazioni.1.30.uw
-	https://www.econnet.it/newsletter.1.23.uw
+	https://www.econnet.it/chi-siamo
+	https://www.econnet.it/prodotti
+	https://www.econnet.it/corsi
+	https://www.econnet.it/assistenza
+	https://www.econnet.it/certificazioni
+	https://www.econnet.it/newsletter
 	https://www.econnet.it/blog
 	https://www.econnet.it/antispam.1.23.75.sp.uw
 	https://www.econnet.it/antivirus.1.32.278.sp.uw
@@ -201,4 +201,5 @@
 	https://www.econnet.it/licenza-standard.1.23.555.sp.uw
 	https://www.econnet.it/stormshield-endpoint-security.1.30.778.sp.uw
 	https://www.econnet.it/firewall-spare.1.30.556.sp.uw
-	https://www.econnet.it/co-term.1.22.586.s
+	https://www.econnet.it/co-term.1.22.586.sp.uw
+	https://www.econnet.it/uplift.1.22.587.sp.

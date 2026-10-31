@@ -1,4 +1,4 @@
-# SB-647 arttelekom.com.tr · sitemap · https://www.arttelekom.com.tr/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-647 arttelekom.com.tr · sitemap · https://www.arttelekom.com.tr/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 	http://www.arttelekom.com.tr/
 	http://www.arttelekom.com.tr/kurumsal/art-telekom
 	http://www.arttelekom.com.tr/cozumlerimiz/art-telekom-cozumler

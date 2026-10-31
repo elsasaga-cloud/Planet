@@ -1,4 +1,4 @@
-# SC-2606 logicbus.com · home · https://logicbus.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-10-31T08:34:28Z · HTTP 200
 Logicbus | Industrial Automation, Sensors, PLCs & Test Equipment
 Skip to content
 Choose store
@@ -130,6 +130,11 @@ PLC with 24 digital inputs of 24Vdc with high speed (200KHz), medium high (20KHz
 (0)
 $349.12
 In stock.
+LP1025D-24S
+Power source AC -> DC, 24V, 1A 25w. DIN rail mounting or with screws, input voltage: 90 ~ 264VAC, 127 ~ 380VDC. Input frequency: 47 ~ 63Hz
+(0)
+$15.88
+In stock.
 SDS1204X-E
 Oscilloscope, 200 MHz;4 channels; 1 GSa/s; 14 M memory depth; 100,000 wfm/s waveform capture rate; 7 display (800*480 pixels); SPO technology,1Mpts FFT,Serial bus triggering and decode (Standard), supports IIC, SPI, UART, RS232, CAN, and LIN;Support MSO, UUSB AWG,Bode Plot;USB WIFI;
 (0)
@@ -145,35 +150,40 @@ ModBUS RTU/ASCII Compact Gateway. Power Supply: 10~40VDC; 19~28VAC. 1x Ethernet 
 (0)
 $173.86
 In stock.
-SDS1202X-E
-Oscilloscope Model SDS1000X-E. 200 MHz, 2 channels; 1 GSa/s, 14 M memory depth, 100,000 wfm/s waveform capture rate, LCD (800*480 pixels), SPO technology, 1Mpts FFT, Serial bus triggering and decode (Standard), supports IIC, SPI, UART, RS232, CAN, and LIN
-(0)
-$379.00
-In stock.
 100.000.00
 Controllino Mini PLC Compatible with Arduino; 4DI/AI, 2 AI, 2DI, 10DO (3PWM) to 2A, 6 Relay outputs (in parallel to DO); TTL, I²C, SPI interface; RTC; 12/24VDC power supply; 5VDC Pin Headers
 (0)
 $188.13
 In stock.
-LTC-7PN
-3.6 Volt/ Lithium Battery/ 750 mAh
+SDS1202X-E
+Oscilloscope Model SDS1000X-E. 200 MHz, 2 channels; 1 GSa/s, 14 M memory depth, 100,000 wfm/s waveform capture rate, LCD (800*480 pixels), SPO technology, 1Mpts FFT, Serial bus triggering and decode (Standard), supports IIC, SPI, UART, RS232, CAN, and LIN
 (0)
-$20.00
+$379.00
+In stock.
+Z-SG
+Z-SG is a strain gauge signal converter. Measurements taken using the 6-wires or 4-wires technique are available through Modbus-RTU serial protocol
+(0)
+$218.89
 In stock.
 SPD3303X-E
 Linear programmable DC power supply, model SPD3000X, has 3 isolated outputs: 2 adjustable channels of 32V/3.2A and a selectable channel of 2.5/3.5/5V/3.2A, LCD TFT-LCD screen. Output modes: independent, series , parallel. USB and LAN interface.
 (0)
 $459.00
 In stock.
-435USB-NNCU-D
-USB printer or barcode scanner to AB PLC. Does not include power supply
-(0)
-$941.28
-In stock.
 460ESTCP-N34-D
 Gateway to connect an EtherNet/IP Scanner and Ethernet TCP/IP Device(s). Mounting: Din Rail, without Power Supply. Platform N34: 1x 5Pin Screw Terminal (RS232/485/422), 1x DB9 Port (RS232/485/422), 1x Ethernet RJ45. Barrel plug for power supply.
 (0)
 $963.56
+In stock.
+LTC-7PN
+3.6 Volt/ Lithium Battery/ 750 mAh
+(0)
+$20.00
+In stock.
+435USB-NNCU-D
+USB printer or barcode scanner to AB PLC. Does not include power supply
+(0)
+$941.28
 In stock.
 TCW122B-CM
 Remote I/O module with SNMPv1 support with authentication (SSL/TLS not supported), web-based intelligent temperature and humidity monitoring and control, 2 AI 0-60Vdc, 2 DI, 2 DO relay NO/NC, alerts by mail, HTTP and XML API commands.
@@ -195,15 +205,15 @@ Ultrasonic CLEAR LABEL Sensor Connector M12, 5-Pin. Estándar M12 Connector
 (0)
 $624.59
 In stock.
-6069-410-041
-Dynamic Signal Analyzer Model DT9837A. USB-powered Dynamic Signal Analyzer Model DT9837A; 24-bit, 52.7 kHz, 4 IEPE AI, 1 AO, 1 Tach, AO Readback
-(0)
-$2,234.00
-In stock.
 K109PT
 K109PT is a converter for Thermoresistance PT100 with 2,3,4 wires and provides a mA/V standard output signal.
 (0)
 $168.86
+In stock.
+6069-410-041
+Dynamic Signal Analyzer Model DT9837A. USB-powered Dynamic Signal Analyzer Model DT9837A; 24-bit, 52.7 kHz, 4 IEPE AI, 1 AO, 1 Tach, AO Readback
+(0)
+$2,234.00
 In stock.
 P5070NB
 Fatek Advanced HMI Screen P5B Series 7"TFT LCD Flash 256Mb RAM 128Mb 32bit CPU with RTC, Serial 1 (RS-232) 2 (RS-422/485, RS-485) Ethernet(10M/100M) USB2.0 Mini USB PLC port, Audio, Power supply 24Vdc(12.48W), plastic enclosure, supports Fatek IoT
@@ -265,11 +275,6 @@ Controllino Mega Industrial PLC
 (0)
 Discontinued
 Check information in Chat.
-100.100.00
-Controllino Maxi Industrial PLC 100.100.00
-(0)
-Discontinued
-Check information in Chat.
 SDS2202X-E
 200 MHz;2 channels; 2 GSa/s; 28 M memory depth; 400,000 wfm/s waveform capture rate (Segmented mode); 7 display (800*480 pixels); SPO technology,1 Mpts FFT,Serial bus triggering and decode (Standard), supports IIC, SPI, UART, RS232, CAN, and LIN.
 (0)
@@ -315,21 +320,11 @@ LCM300 , 250 lb , Tension & Compression Load Cell (Miniature/Inline Threaded) , 
 (0)
 $998.00
 Check availability in chat.
-LP1025D-24S
-Power source AC -> DC, 24V, 1A 25w. DIN rail mounting or with screws, input voltage: 90 ~ 264VAC, 127 ~ 380VDC. Input frequency: 47 ~ 63Hz
+Z111
+Z111 allows a conversion of a frequency signal and provides a mA/V standard output signal.
 (0)
-$15.88
+$210.13
 Check availability in chat.
-6069-410-032
-USB-DIO96H with 96 high-current channels, logic-level, bidirectional digital I/O and counter operation designed with a heavy-duty chassis
-(1)
-$522.00
-Check availability in chat.
-SSR-IDC-05
-Solid-State Relay Module/ Single/ DC Sense/ 3 to 32 VDC
-(0)
-Discontinued
-Check information in Chat.
 6069-410-128
 Multifunction USB DAQ: USB Data Acquisition (DAQ) Module; 16-bit, 100kHz, 16AI, 2 AO, 16 DIO, 2 C/TKey Features:*16SE/8DI analog inputs.*12- or 16-bit resolution.*Up to 100 kHz sampling.*Optional 12- or 16-bit analog outputs*Includes software and drivers
 (0)
@@ -345,10 +340,10 @@ LSB210 , 2 lb , JR. S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x
 (0)
 Discontinued
 Check information in Chat.
-Z111
-Z111 allows a conversion of a frequency signal and provides a mA/V standard output signal.
+Z-4RTD2
+Module with 4 independent and isolated input channels for platinum or nickel RTD (with 2,3 or 4 wires). RS-485 port. Modbus RTU communication (Requires Z-PC-DINAL2-17.5), MicroUSB on the front panel, power supply 10 ~ 40 Vdc or 19 ~ 28 Vac
 (0)
-$210.13
+$325.21
 Check availability in chat.
-Z-SG
-Z-SG is a strain gauge signal converter. Measurements taken
+6069-410-032
+USB-DI

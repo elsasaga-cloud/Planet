@@ -1,0 +1,268 @@
+# SB-452 espuk.com · news_2 · https://espuk.com/news-page?type=news · fetched 2026-10-31T08:34:28Z · HTTP 200
+ESP | Latest News
+Scolmore Group Sites
+Click
+Ovia UK
+Unicrimp
+Click Smart +
+Scolmore OEM
+Scolmore Middle East
+Sangamo
+IEC Lock
+Click Litehouse
+Espire
+Ovia Ireland
+ESP Ireland
+Elucian
+Orbik
+Product
+Search
+Marketing
+Hub
+Scolmore
+Sites
+Search
+View All Products
+What's New...
+Part of the Scolmore Group
+Contact Us
+Product Finder Basket
+0" class="h-full animate-pulse font-bold" x-text="basketCount" x-cloak>
+(
+0
+)
+Product Finder
+Open main menu
+Search
+View All Products
+Product Finder
+Marketing Hub
+Scolmore Sites
+2026
+|
+ESP (Elite Security Products) Ltd.
+Part of the
+Scolmore Group.
+All rights reserved.
+Everything ESP
+Keep up to date with all the latest news from ESP.
+From new product releases,
+company news and all our events,
+you'll find everything you need right here.
+All News
+Products
+Case Studies
+Scolmore Group
+In the Press
+Win!
+Events
+Careers
+Insights
+Choose a category
+Choose a category:
+Category
+All News
+Products
+Case Studies
+Scolmore Group
+In the Press
+Win!
+Events
+Careers
+Insights
+Prev
+Next
+1
+2
+3
+4
+5
+6
+...
+19
+20
+Showing -
+1
+to
+12
+of
+235
+results
+ESP Honoured with AIEW Partnership Award
+Find out more
+Scolmore Mystery Box Giveaway
+Find out more
+ESP Launches New Espire Emergency Call Point with 10-year Lithium Battery
+Find out more
+ESP Expands Its HDView CCTV Portfolio With New 4MP & 8MP Full-Colour IP Cameras
+Find out more
+ESP Ireland welcomes Scott Dornan as Area Sales Manager for Northern Ireland
+Find out more
+ESP welcomes Nathan Punyer as Area Sales Manager for the London South and Kent Region
+Find out more
+ESP’s end to end fire system support sets contractors up for success
+Find out more
+ESP appoints Robert Olver as Area Sales Manager for the East Midlands region.
+Find out more
+ESP launches new Espire Fire Alarm Input Module for enhanced domestic detection
+Find out more
+A Professional Guide to Espire Fire Safety Alarms for Domestic Installations
+Find out more
+ESP introduces Espire IP65 Mains Sounder Strobe
+Find out more
+Scolmore Group unveils new flagship visitor centre in London’s Canary Wharf
+Find out more
+Prev
+Next
+1
+2
+3
+4
+5
+6
+...
+19
+20
+Showing -
+1
+to
+12
+of
+235
+results
+Prev
+Next
+1
+Showing -
+1
+to
+1
+of
+1
+results
+18
+November
+2026
+Elex Sandown
+Sandown Park, Surrey, KT10 9AJ, 10AM-4PM
+Prev
+Next
+1
+Showing -
+1
+to
+1
+of
+1
+results
+Scolmore Group
+Ovia
+ESP
+Technical/Quality
+Customer Service
+External Sales
+Project Management Office
+IT
+Marketing & Design
+View vacancy's with other Scolmore Group companies or departments
+Prev
+Next
+1
+Showing -
+1
+to
+11
+of
+11
+results
+Technical Support Engineer
+Find out more
+Customer Service Advisor
+Find out more
+Product Design Engineer
+Find out more
+Group Specification Manager - London
+Find out more
+Project Coordinator
+Find out more
+Product Manager
+Find out more
+Area Sales Manager - South West
+Find out more
+IT Helpdesk Technician
+Find out more
+Project Manager
+Find out more
+Regional Specification & Key Account Manager - South
+Find out more
+Senior Media Relations Executive
+Find out more
+Prev
+Next
+1
+Showing -
+1
+to
+11
+of
+11
+results
+Your trusted partner for innovative and advanced fire &
+security solutions, ensuring protection, peace of mind,
+and unmatched reliability for your home and business.
+Get in Touch
+facebook-f
+x-twitter
+linkedin-in
+youtube
+spotify
+Proudly
+developed by
+Find Us
+ESP - Elite Security Products Ltd, Unit 7 Target Park, Shawbank Road, Lakeside, Redditch, Worcestershire B98 8YN
+Contact Us
+t: +44 (0) 1527 515 150
+e:
+[email protected]
+Links
+Terms & Conditions
+Modern Slavery
+Privacy Policy
+Careers
+Scolmore CSR
+ISO 9001
+ISO 14001
+App Privacy Policy
+2026
+|
+ESP (Elite Security Products) Ltd. Part of the
+Scolmore Group. All rights reserved.
+Contact Us
+facebook-f
+x-twitter
+linkedin-in
+youtube
+spotify
+Links
+Terms & Conditions
+Modern Slavery
+Privacy Policy
+Careers
+Scolmore CSR
+ISO 9001
+ISO 14001
+App Privacy Policy
+Proudly
+developed by
+2026 ESP (Elite Security Products) Ltd.
+Part of the
+Scolmore Group.
+{ remove(message) }, 2500)"
+@basket.window="type = 'basket'; title = 'Success!'; let message = $event.detail.message; basketLink = $event.detail.basketLink; messages.push(message); setTimeout(() => { remove(message) }, 3000)"
+@fail.window="type = 'fail'; title = 'Error!'; let message = $event.detail; messages.push(message); setTimeout(() => { remove(message) }, 2500)"
+@warning.window="type = 'warning'; title = 'Warning!'; let message = $event.detail; messages.push(message); setTimeout(() => { remove(message) }, 2500)"
+class="z-40 fixed sm:top-8 lg:top-7 xl:top-8 2xl:top-6 inset-0 flex flex-col items-center sm:items-end
+justify-center sm:justify-start px-4 py-6 pointer-events-none sm:p-6 space-y-4"
+>
+200; active = false"
+class="hidden 2.5xl:block group">

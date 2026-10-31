@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-10-31T08:34:28Z · HTTP 200
 IT & Telecom Blog Dubai UAE | NetOn Technologies – Insights & Guides
 Home
 About Us
@@ -21,6 +21,14 @@ Testimonials
 Contact
 IT & Telecom Insights for UAE Businesses
 Expert articles on AI telephony, Wildix, Sangoma, WhatsApp integration, cybersecurity and cloud infrastructure — written by the NetOn Technologies team in Dubai.
+Contact Centre · CCaaS · UAE
+Contact Centre vs Call Centre: What the Terms Actually Mean
+Vendors use call centre, contact centre and CCaaS interchangeably, and buyers inherit the confusion. What each term means, when a queue on your phone system is enough, and what changes for a customer team in the UAE.
+Read Article →
+Cloud PBX · On-Premise · UAE
+Cloud PBX vs On-Premise PBX: Which Fits a UAE Business
+Global comparisons stop at subscription versus hardware. In the UAE the deciding questions are where the trunk lands, where recordings are stored and what keeps calls running when a link fails. A direct comparison and a decision by scenario.
+Read Article →
 Session Border Controller · SIP · UAE
 What a Session Border Controller Does, in Plain Terms
 You have been told you need an SBC, usually by someone selling Teams calling or a SIP trunk. What the device actually does, why a normal firewall cannot do the same job, and when you can do without one.

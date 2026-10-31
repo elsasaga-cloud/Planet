@@ -1,0 +1,16 @@
+# SC-2542 gridconnect.com · youtube · https://www.youtube.com/user/gridconnect · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-09-09T22:05:52+00:00	Protocol Mapper Demo	https://www.youtube.com/watch?v=NHsMvb7PLHM
+2026-07-08T21:07:29+00:00	GRID485-MBTCP Firmware Update v2.0 - Built-In Diagnostics & Live Monitoring & Packet Capture	https://www.youtube.com/watch?v=3UIOnVtpGnY
+2024-12-13T21:25:44+00:00	GRID45: The Ultimate Multi-Protocol Solution for Secure Industrial Networks	https://www.youtube.com/watch?v=dCf5Qjagy7w
+2024-05-23T15:40:48+00:00	Advanced Remote Monitoring for Industrial Ethernet Networks with Atlas2 Plus	https://www.youtube.com/watch?v=MZPJ2bH99h8
+2024-03-27T22:52:43+00:00	Webinar: OSHA Compliance Unveiled - Enhancing Workplace Safety with Environmental Monitoring	https://www.youtube.com/watch?v=Hiwz0bG7yGA
+2024-03-12T21:12:28+00:00	Webinar: Introduction to Atlas	https://www.youtube.com/watch?v=9nDj6fc2ksA
+2024-03-11T19:40:46+00:00	Stop PROFIBUS Downtime: Smarter Network Design with ComBricks	https://www.youtube.com/watch?v=fO39JyhzEJ0
+2024-02-22T21:58:46+00:00	Webinar : Modbus Mastery - Strategies for Successful Application Extension and Product Networking	https://www.youtube.com/watch?v=xQ3UrxuseKo
+2023-09-13T19:26:51+00:00	Industrial Switch Selection Guide – Technical Considerations for Reliable, Scalable Networks	https://www.youtube.com/watch?v=2u0zEbYXBZA
+2023-06-27T21:28:13+00:00	How to Save Energy and Automate Remote Control with Smart PDUs	https://www.youtube.com/watch?v=UEJRMWTT_yM
+2022-12-01T20:37:12+00:00	CAN Higher Layer Protocols Demystified: J1939, CANopen & UDS Explained	https://www.youtube.com/watch?v=vzKkNAJHpGU
+2022-10-28T18:26:43+00:00	CAN Bus Analyzer Software - Getting Started with PCAN Explorer	https://www.youtube.com/watch?v=YJ2PsNHLtu8
+2022-08-24T13:29:18+00:00	CAN Bus Diagnostics Explained: Practical Troubleshooting Tips & Tools	https://www.youtube.com/watch?v=ARbne6vJddg
+2022-06-14T16:23:16+00:00	CAN Bus Data Logging – Setup, Decode, and Analyze Your Data Efficiently	https://www.youtube.com/watch?v=kS-4K4aerLY
+2016-05-24T20:05:43+00:00	ConnectSense Quick Start	https://www.youtube.com/watch?v=d0U0Ee1V6oI

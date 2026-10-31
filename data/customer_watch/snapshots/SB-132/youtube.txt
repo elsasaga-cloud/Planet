@@ -1,4 +1,4 @@
-# SB-132 F.A.S.T · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCUK_LRnkLEqvy8AQz-jl7ZQ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-132 F.A.S.T · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCUK_LRnkLEqvy8AQz-jl7ZQ · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-10-15T13:10:20+00:00	RASCH HMI VNC ile Uzaktan Erişim | Bilgisayar ve Telefondan HMI Kontrolü	https://www.youtube.com/watch?v=da2JBsPzAG8
 2026-10-02T07:22:00+00:00	4- FGate Manager ile HMI Uzaktan İzleme ve Kontrol (PC & Mobil)	https://www.youtube.com/watch?v=hcVPpR6wmkk
 2026-09-24T13:13:56+00:00	Shihlin Servo - Parametre Çekme ve Yükleme	https://www.youtube.com/watch?v=wc80JbQg1J8

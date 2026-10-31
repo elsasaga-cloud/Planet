@@ -1,0 +1,364 @@
+# SB-1117 Switchcom Distribution (Pty) Ltd · news_1 · https://www.switchcom.co.za/blogs/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+Blog – Switchcom Distribution
+Menu
+Home
+Brands
+ALGcom
+ALGcom Dish Antennas
+ALGcom Ultra High Performance Shielded Antennas
+ALGcom Microwave Antennas
+ALGcom Asymmetrical Horn Antennas
+Algcom Symmetrical Horn Antennas
+Algcom Accessories
+EDS UPS
+Extralink
+Networking Cabinets & Accessories
+Networking Cable
+Flyleads
+Fibre
+Fanvil
+IP Phones
+IP Door Phones
+Headsets
+Hikvision
+Displays
+Transmissions
+Conference
+Surveillance
+ICT
+Access Control
+Huawei ekit
+Huawei digital power
+Power S
+Data centre facility & critical power
+Installation Material
+Mercusys
+MikroTik
+Accessories
+Antennas
+Indoor Wireless
+Outdoor Wireless
+Switches
+LTE
+60GHz
+Interfaces
+Raisecom
+Siklu
+Tarana Wireless
+Tenda
+Routers
+Fast Ethernet Switches
+Gigabit Switches
+POE Switches
+USB Adapters
+TP-Link
+LTE
+Wireless Routers
+Wireless Range Extenders
+Switches
+Outdoor Wireless
+Powerline Adaptors
+Accessories
+Ubiquiti Networks
+Ubiquiti Accessories
+Ubiquiti airFiber
+Ubiquiti airMAX
+Ubiquiti AmpliFi
+Ubiquiti EdgeMAX
+Ubiquiti UFiber
+Ubiquiti UniFi
+Ubiquiti UniFi Video
+Ubiquiti Interfaces
+Yealink
+Headset
+Video Conferencing
+Desktop Phones
+Accessories
+Solutions
+Huawei digital power
+Fibre equipment Rentals
+Lattice towers & masts
+Security Systems
+Access Control
+Readers
+Automatic Door Systems
+Access Control Kit
+Power Supplies
+Electronic Locks
+Door Closers
+Exit Sensors
+Fingerprint Padlocks
+Backup Batteries
+Emergency Override
+IP Intercoms
+Timer Switch
+Door Controller
+Intruder
+Other
+Surveillance
+Detection
+Intruder
+FAQ
+Blog
+Hot
+Remote Receiver
+Resellers
+Terms and Conditions
+Shipping and Returns
+Standard Terms and Conditions
+Delivery Policy
+Standard Website Privacy and Cookie Policy
+PAIA Manual
+Huawei SME sales bundle terms and conditions
+Contact Us
+BULK PURCHASING
+price match providing low prices every day
+010 007 2555
+sales@switchcom.co.za
+Store Location
+Register
+or
+Sign in">Sign in
+Menu
+Home
+Brands
+ALGcom
+ALGcom Dish Antennas
+ALGcom Ultra High Performance Shielded Antennas
+ALGcom Microwave Antennas
+ALGcom Asymmetrical Horn Antennas
+Algcom Symmetrical Horn Antennas
+Algcom Accessories
+EDS UPS
+Extralink
+Networking Cabinets & Accessories
+Networking Cable
+Flyleads
+Fibre
+Fanvil
+IP Phones
+IP Door Phones
+Headsets
+Hikvision
+Displays
+Transmissions
+Conference
+Surveillance
+ICT
+Access Control
+Huawei ekit
+Huawei digital power
+Power S
+Data centre facility & critical power
+Installation Material
+Mercusys
+MikroTik
+Accessories
+Antennas
+Indoor Wireless
+Outdoor Wireless
+Switches
+LTE
+60GHz
+Interfaces
+Raisecom
+Siklu
+Tarana Wireless
+Tenda
+Routers
+Fast Ethernet Switches
+Gigabit Switches
+POE Switches
+USB Adapters
+TP-Link
+LTE
+Wireless Routers
+Wireless Range Extenders
+Switches
+Outdoor Wireless
+Powerline Adaptors
+Accessories
+Ubiquiti Networks
+Ubiquiti Accessories
+Ubiquiti airFiber
+Ubiquiti airMAX
+Ubiquiti AmpliFi
+Ubiquiti EdgeMAX
+Ubiquiti UFiber
+Ubiquiti UniFi
+Ubiquiti UniFi Video
+Ubiquiti Interfaces
+Yealink
+Headset
+Video Conferencing
+Desktop Phones
+Accessories
+Solutions
+Huawei digital power
+Fibre equipment Rentals
+Lattice towers & masts
+Security Systems
+Access Control
+Readers
+Automatic Door Systems
+Access Control Kit
+Power Supplies
+Electronic Locks
+Door Closers
+Exit Sensors
+Fingerprint Padlocks
+Backup Batteries
+Emergency Override
+IP Intercoms
+Timer Switch
+Door Controller
+Intruder
+Other
+Surveillance
+Detection
+Intruder
+FAQ
+Blog
+Hot
+Remote Receiver
+Resellers
+Terms and Conditions
+Shipping and Returns
+Standard Terms and Conditions
+Delivery Policy
+Standard Website Privacy and Cookie Policy
+PAIA Manual
+Huawei SME sales bundle terms and conditions
+Contact Us
+Switchcom Distribution Home
+Blog
+Discover how to use a REST API and ESP32 to monitor your network like a pro with MikroTik!
+Blog
+08 Jul, 2025
+Posted by: SC Webmaster
+With just an ESP32, a TFT screen, and MikroTik’s REST API, network monitoring becomes tangible - fast, visual, and incredibly accessible. This DIY solution transforms raw data into dynamic on-screen graphs, displaying real-time traffic, CPU usage, and interface stats with pinpoint clarity. Designed for wall-mounting, server rooms, or labs, it’s a compact dashboard that speaks volumes - no login required, no command-line fuss. A small device delivering powerful insight.
+Read more
+0
+RouterOS 7.17: A Major Milestone in Network Management
+Blog
+08 Jul, 2025
+Posted by: SC Webmaster
+RouterOS 7.17 marks a pivotal update in MikroTik’s evolution - introducing a refined web interface, device profiles for granular hardware control, and expanded wireless capabilities. The new “device‑mode” brings precision, but with it, responsibility; one misstep could disable key functions. With hardware offloading improvements, Bluetooth Low Energy support, and infrastructure refinements under the hood, 7.17 isn’t just a facelift - it’s a recalibration. While many in the community celebrate its flexibility, others urge restraint until the new features are fully road-tested.
+Read more
+0
+Unleash Outdoor Wi‑Fi 6: MikroTik SXTsq 5 ax Review
+Blog
+08 Jul, 2025
+Posted by: SC Webmaster
+Compact, weather-hardened, and deceptively powerful, the MikroTik SXTsq 5 ax ushers in a new era of outdoor Wi‑Fi. With Wi‑Fi 6 capability packed into a sleek, minimalist form, it delivers long-range, high-speed connectivity without the premium price tag. Whether deployed as a client device or an outdoor access point, this unit thrives in harsh environments and demanding network scenarios. For rural ISPs and tech-savvy installers, it's a rugged performer that marries affordability with serious wireless muscle.
+Read more
+0
+Introducing the new Chateau 5G ax R17 from MikroTik
+Blog
+08 Jul, 2025
+Posted by: SC Webmaster
+In an era where digital dependence shapes daily life, the MikroTik Château 5G ax R17 stands as a bold reimagining of the home router. With its understated silhouette and potent 5G Release 17 modem, it’s engineered not just for speed, but for precision - seeking out the strongest signal and delivering unwavering performance, even in fringe reception zones. The integration of eSIM technology introduces unparalleled flexibility, while the inclusion of industrial-grade RouterOS v7 places enterprise-level control into the hands of everyday users. It’s a device for the discerning - quietly powerful, beautifully efficient, and unapologetically advanced.
+Read more
+0
+Enhancing Your Rural Internet: Using the MikroTik ATL Outdoor Device
+Blog
+17 Jul, 2024
+Posted by: SC Webmaster
+Enhancing Your Rural Internet: Using the MikroTik ATL Outdoor Device
+Living in the countryside often means relying on mobile operators for internet access, especially when traditional broadband options are limited. Many residents find themselves grappling with slow speeds despite having a router provided by their carrier. If you're considering upgrading to a more robust setup, such as installing an antenna on your roof, there are several crucial steps to take before making that investment.
+Read more
+0
+Exploring RouterOS: Connecting and Managing Your MikroTik Device
+Blog
+17 Jul, 2024
+Posted by: SC Webmaster
+Exploring RouterOS: Connecting and Managing Your MikroTik Device
+If you are new to MikroTik devices, you might not yet be aware of the multitude of possibilities offered by the operating system of these routers. Starting with how you connect and manage your router, the options are plentiful, as you are about to discover.
+Read more
+0
+MikroTik RouterOS Scripting: Unlocking Automation Potential
+Blog
+17 Jul, 2024
+Posted by: SC Webmaster
+MikroTik RouterOS Scripting: Unlocking Automation Potential
+Did you know that RouterOS has its own scripting language? Many tasks you can imagine automating on your router can be scripted, allowing you to add niche features without requiring a computer science degree. With a basic understanding of scripting principles, you can harness the power of RouterOS scripting.
+Read more
+0
+Switchcom Distribution Announces Partnership with Mesh++ in Southern Africa!
+Blog
+12 Sep, 2023
+Posted by: SC Webmaster
+Johannesburg 12 September 2023 – Switchcom Distribution, a leading technology distributor in Southern Africa, is thrilled to announce its partnership with Mesh++, a revolutionary tech company that specialises in on-demand solar and battery-powered WiFi solutions. This collaboration marks a significant milestone in bridging the digital divide and providing broadband access to remote and unconnected areas in Southern Africa.
+Read more
+0
+Future-Proofing Networks: The Imperative of Embracing mmWave Solutions for Neutral Hosts
+Blog
+01 Aug, 2023
+Posted by: SC Webmaster
+The digital world is experiencing rapid expansion, leading to an exponential surge in the demand for data capacity and connectivity. As the reliance on digital technologies and online services continues to grow, network operators face the pressing challenge of meeting this escalating need while managing their budgets effectively. To remain competitive and deliver seamless user experiences, future-proofing networks has become a critical consideration for businesses and organisations across industries.
+Read more
+0
+Unleashing the Power of Raisecom's GPON Products in South Africa
+Blog
+28 Jul, 2023
+Posted by: SC Webmaster
+In the fast-paced digital era, reliable and high-speed internet connectivity has become an indispensable part of our daily lives. As South Africa embraces the digital revolution, one name stands out in the realm of cutting-edge network technology - Raisecom. Specializing in GPON products, Raisecom has been a trailblazer in transforming internet experiences for users in South Africa. In this article, we delve into the world of GPON, exploring its inner workings, the benefits it brings to users, and the cost-saving advantages that make it a game-changer.
+Read more
+0
+Unveiling the HIKVision Turbo HD Kit
+Blog
+27 Jul, 2023
+Posted by: SC Webmaster
+In the quest for enhanced security solutions, the HIKVision Turbo HD Kit has emerged as a game-changer in the South African market. Combining cutting-edge technology with an array of innovative features, this state-of-the-art surveillance system offers unparalleled performance and peace of mind to users. In this article, we will delve into the product, exploring its functionality, unique features, cost-effectiveness, and the numerous benefits it brings to safeguarding properties and businesses in South Africa.
+Read more
+0
+How Fibre Works: The Secrets of a Remarkable Technology
+Blog
+26 Jul, 2023
+Posted by: SC Webmaster
+In today's fast-paced world, where information travels at the speed of light, fibre-optic technology stands tall as the unsung hero behind seamless connectivity. While it may seem like magic, the workings of fibre optics are grounded in scientific marvels that revolutionized data transmission. In this article, we'll delve into the intricacies of fibre optics, exploring what it is, how it works, its uniqueness, cost-effectiveness, and the plethora of benefits it offers.
+Read more
+0
+Previous
+1
+2
+3
+…
+9
+Next
+ALGCOM
+Algcom 4.9-6.425Ghz| 18dBi | Front-to-back ratio: >40dB | Beamwidth: 21.3° | SH-5800-18-30-D
+Algcom 4.9-6.425Ghz| 13dBi | Front-to-back ratio: >40dB | Beamwidth: 40.9° |SH-5800-13-60-D
+Algcom 4.9-6.425Ghz| 10dBi | Front-to-back ratio: >37dB | Beamwidth: 61.4° | SH-5800-10-90-D
+Best Sellers
+Ubiquiti 5GHz 22dBi PowerBeam High-Performance airMAX CPE | PBE-M5-300
+Ubiquiti 5GHz 23dBi LiteBeam AC Gen 2 2x2 MIMO airMAX ac CPE | LBE-5AC-Gen2
+Ubiquiti 5GHz 25dBi PowerBeam High-Performance airMAX CPE | PBE-M5-400
+Latest Arrivals
+Fanvil 2SIP 1 Button IP65 Video PoE Intercom | FAN-I16V
+Fanvil 2SIP 1 Button IP54 Mini Video PoE Intercom | FAN-I10V
+Fanvil 2SIP 1 Button IP54 Mini PoE Intercom | FAN-I10
+Got questions? Give us a call!
+010 007 2555
+Address
+Randview Business Park,
+1 Avon Rd, Ferndale,
+Randburg, 2194
+South Africa
+© 2026 Switchcom Distribution. All Rights Reserved
+Product successfully added to your Shopping Cart
+Continue Shopping
+Proceed to Checkout
+Sample Product
+Quantity
+Add to cart
+Twitter
+Facebook
+Google+
+Sale
+View full product details →
+Quantity
+Unavailable
+Sold Out
+'
+jsondata = "eyJibnRfd

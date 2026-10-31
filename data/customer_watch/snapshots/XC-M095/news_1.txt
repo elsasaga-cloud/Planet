@@ -1,0 +1,90 @@
+# XC-M095 GOMA ELETTRONICA SpA · news_1 · https://www.goma.it/it/insight · fetched 2026-10-31T08:34:28Z · HTTP 200
+Approfondimenti tecnici: norme, architetture, progettazione | GOMA
++39 011 7725024 info@goma.it
+Contatti Supporto Richiesta RMA Lavora con noi IT | EN
+Prodotti Partners Mercati Eventi e News Azienda
+Richiedi un preventivo
+Home
+/ Approfondimenti
+Approfondimenti
+Le domande che tornano in fase di capitolato, con la risposta di chi le vede tutti i giorni: che cosa una norma governa e che cosa delega, quale architettura regge il ciclo di vita, quali referenze lo dimostrano davvero.
+Tutti Architetture 3 Norme e qualifiche 2 Progettazione 1 6 approfondimenti
+Architetture | 10 settembre 2026 | 2 min di lettura
+Il bus ARINC 429, spiegato
+ARINC 429 — Mark 33 Digital Information Transfer System — è lo standard di bus dati dell'avionica commerciale: definisce insieme il mezzo fisico e il protocollo con cui gli apparati di bordo si scambiano i dati.
+Leggi l'approfondimento →
+Architetture | 10 settembre 2026 | 2 min di lettura
+Il bus MIL-STD-1553, spiegato
+MIL-STD-1553 è lo standard del Dipartimento della Difesa USA per il bus dati seriale dei sistemi di missione: un protocollo comando/risposta dove nulla transita se il bus controller non l'ha chiesto.
+Leggi l'approfondimento →
+Norme e qualifiche | 30 luglio 2026 | 3 min di lettura
+EN 50155: che cosa chiede davvero a un apparato di bordo
+«Conforme EN 50155» è la riga più ricorrente dei capitolati ferroviari e la più fraintesa: la norma governa l'apparato, ma delega l'EMC, il fuoco e le vibrazioni ad altre tre. Sono quattro documenti, non uno.
+Leggi l'approfondimento →
+Architetture | 30 luglio 2026 | 4 min di lettura
+VME, CompactPCI, VPX: quale bus per un sistema qualificato
+Sono tre generazioni, non tre alternative: chi sceglie oggi sceglie quasi sempre un ciclo di vita, non una banda passante. E in VPX il connettore senza il profilo non decide nulla.
+Leggi l'approfondimento →
+Progettazione | 30 luglio 2026 | 3 min di lettura
+IP65 sul frontale non è IP65: leggere il grado di protezione
+Il codice IP è un risultato di prova, non un punteggio: due cifre che rispondono a due domande separate, e un grado più alto non contiene quello più basso. Sigillare, poi, decide anche come si raffredda.
+Leggi l'approfondimento →
+Norme e qualifiche | 30 luglio 2026 | 3 min di lettura
+Le MIL-STD che compaiono in un capitolato: 810, 461, 704, 1275
+Quattro sigle che nei capitolati stanno spesso sulla stessa riga e rispondono a quattro domande diverse. E la più citata, la 810, non è nemmeno una certificazione.
+Leggi l'approfondimento →
+Dove il discorso continua
+Gli approfondimenti attraversano il catalogo. Le due sezioni che lo percorrono per intero sono le guide per architettura e le pagine di mercato: stessa disciplina, perimetro diverso.
+19 guide
+Le guide per architettura
+Storia dello standard, enti che lo governano, perimetro di catalogo: una guida per famiglia.
+Vai alla sezione →
+3 mercati
+I mercati
+Requisiti d'ambiente, qualifiche richieste e referenze davvero qualificate, mercato per mercato.
+Vai alla sezione →
+Parliamo del tuo progetto
+Telefono ed email arrivano direttamente all'ufficio tecnico-commerciale di Torino: la prima risposta è già una risposta tecnica.
++39 011 7725024 info@goma.it
+Richiedi un preventivo Contatta il supporto
+Iscriviti alla newsletter
+Nuove referenze a catalogo, qualifiche ottenute e appuntamenti in fiera. Una email al mese, niente spam.
+Email di lavoro Iscriviti
+Ho letto l' Informativa privacy e acconsento al trattamento dei miei dati per l'invio della newsletter.
+Soluzioni Embedded per Edge Computing
+Contatti
++39 011 7725024
+info@goma.it
+GOMA ELETTRONICA SpA
+Strada Antica di Collegno 225
+10146 Torino — Italia
+Prodotti
+Sistemi e Piattaforme
+HMI e Panel PC
+Schede e Moduli
+Dispositivi Networking
+Rack e Cabinet
+Tutto il catalogo →
+Azienda
+Chi siamo
+Competenze
+Qualità
+Partners
+Lavora con noi
+Eventi e News
+Fiere ed eventi
+Novità di prodotto
+Blog e approfondimenti
+Servizi e supporto
+Supporto tecnico
+Richiesta RMA
+Richiesta di preventivo
+Legal
+Privacy Policy
+Privacy Visitatori
+Cookie Policy
+Condizioni Generali di Acquisto
+Sicurezza prodotti
+Whistleblowing
+Preferenze cookie
+© 2026 GOMA ELETTRONICA SpA — P.IVA 02367820012 · Iscr. Trib. Torino n. 526/79 · C.C.I.A.A. 551868 · Cap. Soc. € 3.000.000 i.v.

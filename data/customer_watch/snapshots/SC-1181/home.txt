@@ -1,4 +1,4 @@
-# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Agenda-Age Kft. | A hálózatspecialista
 Belépés
 Regisztráció
@@ -6,7 +6,7 @@ Termékek Szolgáltatások Rólunk Kapcsolat Tudásbázis
 AKCIÓ Börze Leértékelt termékek
 HÁLÓZATI aktív eszközök Switch Távfelügyelet Média konverter
 ETHERNET (réz) hálózati termékek Kábel - folyóméter Kábel - szerelt (patch) Csatlakozó és törésgátló Fali aljzat, -keret, kiemelő keret Modulár betét, -toldó, -összekötő Patch panel Kábel Y adapter Szerelési anyag Szerszám, eszköz Teszter, Műszer Konverter
-OPTIKAI hálózati elemek Kábel - folyóméter Kábel - szerelt (patch, pigtail) Csatlakozó, Toldó Kötődoboz, Kötéstartó Patch panel PLC elosztó Kábel Y adapter Switch konverterek Konverterek optikai (Média konverterek) Konverter Ethernet, -SFP, -HDMI Konverter video, -audio SFP Modul Teszter, Műszer és kiegészítőik Szerszám, Kellék Szerelési anyag Alkatrész Bérbeadás
+OPTIKAI hálózati elemek Kábel - folyóméter Kábel - szerelt (patch, pigtail) Csatlakozó, Toldó Kötődoboz, Kötéstartó Patch panel PLC elosztó Kábel Y adapter Switch konverterek Konverterek optikai (Média konverterek) Konverter Ethernet, -SFP, -HDMI Konverter video, -audio SFP Modul Teszter, Műszer és kiegészítőik Szerszám, Kellék Fali aljzat Szerelési anyag Alkatrész Bérbeadás
 RACK szekrények és tartozékaik Rack Szekrény, Keret Rack Kiegészítő
 KÁBELBEHÚZÓK (ESTIARE) Kábelbehúzó/-berudaló Kábelbehúzó tartozékok
 KÁBELCSATORNÁK és kiegészítők (KOPOS) Kábelcsatorna, idom Kábelcsatorna kiegészítő
@@ -90,6 +90,4 @@ info@agendaage.hu
 1095 Budapest,
 Soroksári út 48. 8.ép.fsz
 H-P: 8-17
-Vásárlói fiók
-Kosár
-
+Vásárlói

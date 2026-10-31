@@ -1,28 +1,174 @@
-# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-10-29T15:11:51Z · HTTP 200
-b-plus | Information
-b-plus
-PIONEERING NEW MOBILITY
-Unsere Website steht derzeit nicht zur Verfügung
-Aktuell führen wir technische Wartungsarbeiten sowie zusätzliche Sicherheitsmaßnahmen an unserer Webpräsenz durch.
-Unser Team arbeitet mit höchster Priorität daran, alle Systeme wieder vollständig bereitzustellen und dabei die Sicherheit sowie Zuverlässigkeit unserer digitalen Dienste weiter zu stärken.
-Wir bedanken uns für Ihr Verständnis und Ihre Geduld.
-Kontakt
-E-Mail:
-services@b-plus.com
-Telefon:
-+49 991 270302 0
-Website Temporarily Unavailable
-We are currently carrying out technical maintenance and implementing additional security measures on our website.
-Our team is working with the highest priority to restore all services while further strengthening the security and reliability of our digital platforms.
-We appreciate your patience and understanding.
-Contact
-E-mail:
-services@b-plus.com
-Phone:
-+49 991 270302 0
-Bleiben Sie in der Zwischenzeit über unsere Social-Media-Kanäle mit uns in Verbindung.
-Stay connected with us through our social media channels.
-© 2026 b-plus GmbH
-Ulrichsberger Str. 17, 94469 Deggendorf, Germany
-Geschäftsführer / Managing Director: Dipl.-Ing.(FH) Michael Sieg
-Gerichtsstand /Handelsregister / Place of jurisdiction / Commercial register: HRB 1753 Deggendorf / Germany
+# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-10-31T08:34:28Z · HTTP 200
+Events
+DE EN
+Suche
+Regeln
+Nur Wörter mit 2 oder mehr Zeichen werden akzeptiert.
+Maximal 200 Zeichen insgesamt.
+Leerzeichen werden zur Trennung von Worten verwendet, "" kann für die Suche nach ganzen Zeichenfolgen benutzt werden (keine Indexsuche).
+UND, ODER und NICHT sind Suchoperatoren, die den standardmäßigen Operator überschreiben.
++/|/- entspricht UND, ODER und NICHT als Operatoren.
+Alle Suchwörter werden zu Kleinschreibung konvertiert.
+Portfolio Datensammlung und Analyse
+Datenspeicher
+Cloud-based Datenmanagement
+Datenverteilung und Konvertierung
+Software Tools
+Hardware-in-the-Loop
+Industrial Generic
+Mobile Automation
+ISOBUS Lösungen
+Engineering Automotive Software Entwicklung
+Connectivity und Cloud
+Validierung & Verifikation
+Künstliche Intelligenz
+Mobile Automatisierung
+Hardware Engineering
+FPGA Engineering
+Embedded Software
+System Engineering
+AD Validation Toolbox MAX Technologieträger
+Newsroom News
+Events
+Unternehmen Über uns
+Qualität
+Alles aus einer Hand
+Forschung
+Verantwortung
+Karriere
+Support Login
+Technischer Support
+RMA-Anfrage
+Download Portal
+Legacy-Produkte
+Produktsicherheit
+Kontakt Newsletter-Registrierung
+Events
+Newsroom / Events
+Wir sind Wegbereiter neuer Mobilität!
+Wir entwickeln unsere Produkte und Lösungen mit langjähriger Erfahrung. Diese präsentieren wir Ihnen auf zahlreichen nationalen und internationalen Messen und Events. Dabei tauschen wir uns sowohl bei Live-Veranstaltungen vor Ort als auch virtuell über einen bequemen Onlinezugang mit Ihnen aus.
+Wir freuen uns, mit Ihnen unser Wissen zu teilen und Sie bei der Lösung Ihrer Herausforderung zu unterstützen. Gemeinsam treiben wir die Zukunft der Mobilität voran.
+Lernen Sie uns auf dem nächsten Event kennen und vereinbaren Sie über das Kontaktformular einen Termin mit uns.
+Vereinbaren Sie jetzt einen Termin!
+Terminanfrage
+Diese Feld nicht ausfüllen!
+Terminanfrage Kundenmailing
+Anrede* * Anrede
+keine Anrede
+Frau
+Herr
+Vorname* * Vorname
+Nachname* * Nachname
+Firma* * Firma
+Jobtitel
+E-mail* * E-mail
+Wunschtermin anfragen * Wunschtermin anfragen*
+10. - 12. März 2026 - Embedded World, Nürnberg
+22. - 24. März 2026 - TECH.AD, Berlin
+04. - 07. Mai 2026 - IFAT, München
+05. - 06. Mai 2026 - VECS, Göteborg
+20. Mai 2026 - DriveAI Summit Frankfurt
+10. - 12. Juni 2026 - iVT Expo, Köln
+23. - 25. Juni 2026 - AVTE, Stuttgart
+29. - 31. Juli 2026 - FutureAG, Victoria
+10. - 14. November 2026 - EIMA, Bologna
+Ihr Anliegen
+Bitte tragen Sie das Ergebnis der Rechenaufgabe in das Eingabefeld ein*
+Captcha Code
+=
+Die Verwendung bzw. Verarbeitung Ihrer Daten erfolgt im Rahmen unserer Datenschutzhinweise, welche Sie hier einsehen können.
+* Pflichtfeld
+News
+Events
+Alle Termine auf einen Blick
+Automotive Testing Expo
+27. - 29. Oktober 2026
+Vibe Credit Union Showplace, Novi, Michigan, USA
+Erfahren Sie mehr
+b-plus GmbH
+Ulrichsberger Str. 17
+94469 Deggendorf
+Kontakt Telefon: +49 991 270302-0 Fax: +49 991 270302-99 E-Mail: services(at)b-plus.com
+Social Media
+LinkedIn
+Instagram
+Youtube
+Facebook
+Xing
+Rechtliches Impressum
+Datenschutzhinweis
+Unser Hinweisgeberschutzsystem
+Nutzungsbedingungen
+AGB
+Cookies
+Portfolio Datensammlung und Analyse Overview
+Daten Rekorder LOGifyer B2
+Daten Rekorder BRICK
+19” Fahrzeugrechner DATALynx ATX
+Entwicklungssoftware LOGifyer OS
+Datenspeicher Overview
+Wechselspeicher xSTORAGE
+ADAS Datenspeicher MDLake
+Daten Kopierstation COPYLynx
+Cloud-based Datenmanagement Overview
+Testflottenmanagement Software CONiX.tfs
+Dataset Services
+Datenverteilung und Konvertierung Overview
+Automotive Ethernet Konverter & TAP NETLion
+Messdatenschnittstelle MDILink
+Ethernet Switch EDSwitch 10G
+MDSwitch 100G-X16
+Hardware Timesync Retrofit QX550
+Software Tools Overview
+Zeitsynchronisation XTSS
+Smart I/O Driver Interface SIODI
+Disk Encryption Manager
+Hardware-in-the-Loop Overview
+Hardware-in-the-Loop Solution
+SDBI Station
+Industrial Generic Overview
+Embedded Board DIMMBoard
+Windows Netzwerktreiber bRAWcap
+Ethernet Rekorder BRICK SE
+Mobile Automation Overview
+Mobile Steuerungen
+Engine / Off-Highway Lösungen
+Truck Lösungen
+Displays für den mobilen Einsatz
+CAN Bedienelemente
+CAN Anschlussleitung
+ISOBUS Lösungen Overview
+ISOBUS CAN Gateway
+ISOBUS IO Gateway
+ISOBUS AUX-N Gateway
+ISOBUS Keypad
+ISOBUS Stack
+ISOBUS Analysetool
+ISOBUS Kabel
+ISOBUS TIM
+ISOBUS VTs
+Engineering Automotive Software Entwicklung
+Connectivity und Cloud
+Validierung & Verifikation
+Künstliche Intelligenz
+Mobile Automatisierung
+Hardware Engineering
+FPGA Engineering
+Embedded Software
+System Engineering
+AD Validation Toolbox MAX Technologieträger
+Newsroom News
+Events
+Unternehmen Über uns
+Qualität
+Alles aus einer Hand
+Forschung
+Verantwortung
+Karriere
+Support Login
+Technischer Support
+RMA-Anfrage
+Download Portal
+Legacy-Produkte
+Produktsicherheit
+Kontakt Newsletter-Registrierung

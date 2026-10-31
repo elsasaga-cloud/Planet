@@ -1,4 +1,4 @@
-# SB-946 intrising.com.tw · sitemap · https://www.intrising.com.tw/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-946 intrising.com.tw · sitemap · https://www.intrising.com.tw/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-04-02T14:56:17+08:00	https://www.intrising.com.tw
 2026-01-16T14:15:07+08:00	https://www.intrising.com.tw/about
 2026-02-04T15:03:23+08:00	https://www.intrising.com.tw/contact_us

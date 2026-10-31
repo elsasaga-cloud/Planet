@@ -1,0 +1,117 @@
+# SC-1309 Elftech Co.,Ltd. · home · https://elftech.co.kr/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+㈜엘프테크 ELFTECH · WDM 광전송과 정밀 시간동기
+제품
+회사소개
+인증
+연혁
+공지·자료실
+견적 문의
+WDM 광전송 · 정밀 시간동기
+빛으로 잇는 통신망,
+WDM 광전송 의 힘.
+WDM 광전송장비와 정밀 동기 클럭을 자체 기술로 개발·공급합니다. 이동통신사와 국가 기간망의 전송 인프라를 책임집니다.
+견적 문의
+제품 보기
+유선통신 DWDM · 광 MUX · 선로감시
+이동통신 5G SA · eCPRI · Access망
+전력 변전소 · 스마트그리드
+철도 신호 · 제어 시스템
+산업 인프라 공장자동화 · 플랜트
+Products
+통신 인프라 핵심 장비
+주력 WDM 광전송장비 ELF5000을 중심으로, 광 MUX와 정밀 동기 클럭까지 자체 기술로 제공합니다.
+01 / WDM TRANSPORT
+파장분할 다중화 광전송
+STM·GbE·OTN 신호를 한 장치에 수용해 광 선로 효율을 높이고 투자비와 유지보수 비용을 줄입니다.
+ELF5000 주력 WDM 전송장치. STM-16/64, 1G/10G/100GbE 통합 수용
+ELF4360 4U/2U. Enterprise Network Application 대응
+ELF1006+ CPRI/OBSAI 광전송. 3G/LTE DU-RU 광선로 절감
+02 / OPTICAL MUX
+CWDM 광 MUX
+Dual band filter 기반 파장분할 다중화. 19인치 랙 마운트 셀프로 제공합니다.
+1350/1490
+1450/1590
+1310/1550
+IL ≤ 1.5dB
+RL ≤ -45dB
+Isolation ≥ 25dB
+03 / TIMING & SYNC
+정밀 시간동기
+IEEE 1588v2 PTP 기반 Grandmaster Clock. Microchip 정밀 타이밍 솔루션을 공급합니다.
+TimeProvider 4100 5G/6G 고정밀 PTP/NTP Grandmaster. ePRTC급 정밀도
+GridTime 3000 변전소·스마트그리드용. IEC 61850 · C37.238 지원
+TimeProvider 5000 고용량 Grandmaster. 최대 1000 클라이언트
+SSU 2000 모듈러 동기공급장치. GNSS PRC · SyncE · NEBS/ETSI
+주력 · 자체 개발
+ELF5000
+엘프테크 WDM 장비군의 하나로 Enterprise Network Application에 최적화된 시스템입니다. 경제성과 유연성을 함께 갖췄습니다.
+수용 신호
+STM-16 STM-64
+1GbE 10GbE 100GbE
+OTU2 OTU2e OTU4
+도입 효과
+광 선로 효율 향상 선로 투자비 절감 유지보수 비용 절감
+주력 동기 장비 상세
+Microchip 정밀 타이밍 솔루션의 핵심 라인업과 국내 적용 사례입니다.
+5G / 6G Grandmaster
+Microchip TimeProvider® 4100
+차세대 통신망을 위한 고정밀 PTP/NTP 주파수 및 시간 동기 서버입니다.
+이동통신사 (SKT, LGU+) 5G SA/eCPRI 및 Femto/Small Cell, Access망 PTP 시간 동기 구축
+초고정밀 동기
+IEEE 1588v2 PTP, NTP, SyncE 지원. ePRTC급 정밀도 구현
+유연한 확장성
+1G/10G 옵티컬 포트 지원 및 모듈형 HW 확장 구조
+백업 · 생존성
+GNSS 위성 수신 장애 시 원자시계(루비듐) 홀드오버 보장
+운용 신뢰성
+이중화 전원, 고신뢰성 캐리어급 설계 및 보안 관리 기능
+전력 · 산업용
+Microchip GridTime™ 3000
+변전소와 스마트그리드 환경에 최적화된 서브스테이션급 PTP/NTP 시간 동기 장비입니다.
+한국전력공사 (KEPCO) 변전소 계측·제어용 IED, 디지털 변전소 시간 동기망
+철도 · 철도공단 철도 신호 및 제어 시스템용 고신뢰성 동기 서버
+산업용 인프라 공장 자동화, 플랜트 및 에너지 인프라 제어망
+산업용 내환경성
+IEC 61850-3 및 IEEE 1613 규격 충족. 고온·고습·전자파 악조건 내구성
+전력망 맞춤형 동기
+IEEE C37.238 및 IEC/IEEE 61850-9-3 Power Profile 완벽 지원
+다양한 출력 포트
+PTP, NTP, IRIG-B, 1PPS, ToD 등 산업 표준 인터페이스 지원
+고가용성
+팬리스 설계, 넓은 동작 온도 범위 및 고신뢰성 백업 유지
+연구하고 노력하는 자세로,
+완벽한 기술지원을.
+21세기 지식정보화 사회에서 정보통신 환경은 필수입니다. 초정밀·고밀집·고신뢰 정보통신장비를 기반으로, 엘프테크는 항상 연구하고 노력하는 자세로 완벽한 기술지원과 철저한 사후관리로 고객만족에 최선을 다합니다.
+디지털시대 도전과 열정으로, 좀 더 고객의 입장에서 생각하는 기업이 되겠습니다.
+정재일 · 대표이사
+검증된 기술력과 신뢰
+기업부설연구소 중심의 품질·환경 경영과 특허를 확보하고 있습니다.
+기업부설연구소 인정서
+벤처기업 확인서
+특허증
+ISO 9001 품질경영
+ISO 14001 환경경영
+History
+엘프테크의 발자취
+2023-2026 100G DWDM
+2026 LGU+ 전송망 중형 24Ch 100G DWDM 납품
+2025 LGU+ 전송망 중형 24Ch 100G DWDM BMT 통과 및 사업수주
+2023 LGU+ 전송망 소형 24Ch 100G DWDM 개발 LGU+ 5G Clock 장치 공급
+2019-2022 5G 인프라
+2022 LGU+ B2B 기업고객용 100G WDM 개발 및 공급 KEPCO 세슘 및 Clock 공급장치 KT 광 선로감시장치 공급
+2020 LGU+ 5G 및 고객망 선로감시장치 개발 및 공급 (유비쿼스) KEPCO 세슘 및 Clock 공급장치 공급
+2019 LGU+ Femto 및 Access망 LTE 구축용 Clock 공급 쏠리드 5G 광 MUX 공급 (KDDI 향) SKT 5G Clock 장치 공급 (쏠리드) KT 5G 광 MUX 공급 (PPI)
+2012-2016 기반 구축
+2016 LGU+ 4Ch/8Ch 유선 광 MUX 공급 LGU+·엘프테크 공동 유무선통합전송장치 국책과제 선발
+2015 LGU+ 및 SKB EPON/GPON 사선검출기 공급 KT Active-WDM 공급 (다산 네트웍스) Active-WDM (GbE/SDH/PON 수용 CWDM) 개발
+2014 SKT에 TimeProvider TP5000 공급 LGU+ 무선 광 Mux 및 광 모듈 공급
+2012 LGU+ CPRI-WDM System 공급 벤처기업 인증 및 R&D Center 설립 ISO 9001 & ISO 14001 인증 엘프테크 사명 변경 및 대표이사 변경
+견적 및 기술 문의
+주소 경기 안양시 동안구 학의로 250 관양두산벤처다임 610호 (우 14056)
+팩스 031-348-2400
+031-348-2300
+평일  -
+㈜엘프테크 | 대표 정재일 | 사업자 123-86-22183
+경기 안양시 동안구 학의로 250 관양두산벤처다임 610호 (우 14056) | TEL 031-348-2300 | FAX 031-348-2400
+© 2026 ELFTECH. All rights reserved.
+공지사항 · 자료실 · 관리자

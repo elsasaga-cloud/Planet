@@ -1,4 +1,4 @@
-# SB-593 ibdglobal.com · news_2 · https://www.ibdglobal.com/en/blog/noticias-1 · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-593 ibdglobal.com · news_2 · https://www.ibdglobal.com/en/blog/noticias-1 · fetched 2026-10-31T08:34:28Z · HTTP 200
 Noticias | GRUPO IPTECNO mayorista CCTV y distribuidor oficial Dahua
 Skip to Content
 Guest
@@ -18,7 +18,7 @@ Category
 Orders
 Tienda
 Partners
-Categorías
+Divisiones
 Intrusión
 Incendio
 Videovigilancia
@@ -35,6 +35,7 @@ IBD Academy
 IBD Services
 IBD Solutions
 Hazte cliente
+Recursos
 Login
 0
 Wishlist
@@ -56,7 +57,7 @@ OUTLET
 Explore All Categories
 Tienda
 Partners
-Categorías
+Divisiones
 Intrusión
 Incendio
 Videovigilancia
@@ -73,6 +74,7 @@ IBD Academy
 IBD Services
 IBD Solutions
 Hazte cliente
+Recursos
 My Cart
 ( 0 )
 My Wishlist
@@ -88,6 +90,10 @@ Our Blog
 All
 Our Blog
 Calendario formaciones y eventos
+La revolución de la videovigilancia: Todo lo que debes saber sobre Ajax Cloud Storage
+El mundo de la seguridad avanza a pasos agigantados y depender exclusivamente del hardware físico es cosa del pasado. La videovigilancia ha dado un salto definitivo hacia la nube con la llegada de Aja...
+Oct 30, 2026
+Our Blog
 IBD Solutions: ingeniería e integración tecnológica para proteger grandes parques solares
 Proteger una planta fotovoltaica implica mucho más que vigilar su perímetro. Las grandes extensiones de terreno, las ubicaciones remotas y la exposición al robo de paneles solares y cableado de cobre ...
 Oct 29, 2026
@@ -111,7 +117,6 @@ Our Blog
 Ya disponible el sistema Ajax G3 Jeweller
 Ya puedes encontrar en IBD Global el nuevo Ajax Wireless Grado 3, el primer sistema de intrusión 100 % inalámbrico certificado Grado 3, diseñado para responder a las exigencias de los proyectos más cr...
 Jun 30, 2026
-Our Blog
 Disponible Dr. Net: Tu aliado definitivo en Networking para CCTV
 Sabemos que en las instalaciones de videovigilancia, la conectividad no puede fallar. Por eso hemos desarrollado Dr. Net, la nueva marca de networking con la gama más completa de switches y accesorios...
 May 14, 2026
@@ -127,9 +132,6 @@ Apr 14, 2026
 Ajuste de precios para el mayo 2026
 Agradecemos su continuo interés en trabajar con nosotros y la oportunidad de apoyar sus próximos proyectos. Estamos comprometidos a ofrecer soluciones de alta calidad, manteniendo al mismo tiempo la t...
 Apr 13, 2026
-Ajax revoluciona el CCTV: Todo sobre las nuevas gamas Baseline y Superior
-La convergencia entre la intrusión y la videovigilancia es una realidad, pero Ajax Systems ha decidido llevarla a un nivel completamente nuevo. Fiel a su filosofía de combinar diseño, experiencia de u...
-Mar 19, 2026
 1
 2
 3

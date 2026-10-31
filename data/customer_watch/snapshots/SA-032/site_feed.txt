@@ -1,4 +1,4 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Thu, 29 Oct 2026 11:59:25 +0000	INDUSTRIAL PROTOCOL CONVERTERS FOR FACTORY & PROCESS AUTOMATION	https://sundartechno.com/2026/10/29/industrial-protocol-converters-gateways/
 Thu, 29 Oct 2026 11:37:24 +0000	Yokogawa HART Transmitter + CENTUM DCS	https://sundartechno.com/2026/10/29/yokogawa-hart-transmitters-centum-dcs-fint-t700/
 Thu, 29 Oct 2026 11:07:47 +0000	INDUSTRIAL SILICONE KEYBOARD WITH TOUCHPAD & BLUE BACKLIGHT	https://sundartechno.com/2026/10/29/industrial-silicone-keyboard-touchpad-backlight/

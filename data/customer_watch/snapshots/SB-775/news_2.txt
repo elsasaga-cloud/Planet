@@ -1,4 +1,4 @@
-# SB-775 patton.com · news_2 · https://www.patton.com/press/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-775 patton.com · news_2 · https://www.patton.com/press/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Patton - Press Room
 Toggle navigation
 COMPANY
@@ -104,7 +104,6 @@ EVENTS
 BLOG
 LOGIN
 Submit
-*** This website and its related services are not built on PHP, meaning they are structurally immune to the PHP2Shell vulnerabilities. No customer action is required. ***
 ×
 Login to Patton's Customer / Vendor Portal
 Your Username
@@ -285,4 +284,7 @@ SmartNode 4838 • Front/Rear • 455-kbyte • JPEG • RGB
 SmartLink 4022 • Front/Rear • 531-kbyte • JPEG • RGB
 SmartLink M-ATA • 221-kbyte • JPEG • RGB
 SmartLink M-ATA • 319-kbyte • JPEG • RGB
-SmartLin
+SmartLink M-ATA • Top • 1340-kbyte • JPEG • RGB
+SmartLink M-ATA • 479-kbyte • JPEG • RGB
+SmartNode 4524 • Front/Rear • 1050-kbyte • JPEG • RGB
+SmartNode 4960 • Front/Rear • 671-kb

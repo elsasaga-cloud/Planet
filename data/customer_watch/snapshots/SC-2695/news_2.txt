@@ -1,0 +1,273 @@
+# SC-2695 everfocus.com · news_2 · https://www.everfocus.com/news-detail/everfocus-ivs-50P0-intel-edge-ai-catalog/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+EverFocus IVS-50P0 Featured in Intel® Edge AI Catalog, Advancing Intelligent Transportation and Edge AI Computing-Everfocus
+PRODUCTS
+Products
+Feature Solutions
+Intelligent Systems
+Commercial Vehicle Safety Solutions
+CCTV Surveillance
+Advanced Vision AI
+EverFocus Edge AI & Axxon One VMS
+EMS12D2 BSD Electronic Mirror (CMS)
+AI NVR Smart Security
+Driver Monitoring System
+NVIDIA Edge AI
+EAR Series | Robotic Controllers
+EAC Series | Edge AI Computing Platforms
+EAV Series | In-Vehicle Edge AI Systems
+eNVP Series | Embedded Edge AI & NVR Systems
+Qualcomm Edge AI
+Qualcomm AI Computing Platform
+Intel Embedded System
+Intel Edge Computing System
+Intelligent Transportation
+AI Accelerator Compatible Computers
+RockChip Edge AI
+RockChip AI Computing Platform
+Automation and Control
+Industrial IoT Gateway
+Programmable Automation Control
+Remote I/O
+Network Appliances
+Rackmount
+Desktop
+Network Interface Module
+SiMa Edge AI
+EAR-100T Robotic Controller with NVIDIA® Jetson Thor™ Module
+Accelerated by NVIDIA® Jetson T5000™, the EAR-100T delivers up to 2070 FP4 TFLOPS of AI compute and 128GB of memory for complex vision, localization, and sensor fusion.
+MDVR Solutions
+AI-ADAS Mobile DVR
+Mobile DVR
+AI Mirror / Camera Monitor System
+Mobile Camera
+BSIS Camera
+Analog Camera
+Software
+Management Viewer
+Accessories
+EMV1600 FHD-AI Hybrid Ｍobile DVR
+Hybrid Mobile DVR incorporates advanced AI Smart Driving Assistance features.
+Video Recorder
+Network Video Recorder (NVR)
+Digital Video Recorder (DVR / XVR)
+Cameras
+Specialty camera
+IP camera
+Analog camera
+Software
+Central Management System (CMS)
+Management Viewer
+Mobile APP
+Tools
+IRONGUARD II 16 PoE Network Video Recorder
+EverFocus IRONGUARD II 16 PoE is a 16CH, Built-in PoE, H.265, 8MP/4K NVR that can connect with sixteen(16) ONVIF 2.0 IP cameras. It also supports cloud storage, remote configuration, and video analytics in multiple languages.
+Edge AI Cameras
+Qualcomm
+NVIDIA
+Vision Embedded System
+Capture Cards
+4K HDMI M.2 Capture Cards
+12G SDI M.2 Capture Cards
+GMSL Camera
+PHX-N1000 Edge AI Camera
+Edge AI Camera with Exclusive LENSCORE Technology, NVIDIA Jetson Orin Nano™ / Orin™ NX, and Rich I/O Connectivity
+APPLICATIONS
+Applications
+Industries
+Technologies
+Railways & Transit
+Commercial Trucks & Fleets
+Buses & Coaches
+Autonomous Robotics
+Specialized Vehicles
+Traffic & Smart Cities
+Smart Retail
+Smart Manufacturing
+Education
+Government
+Enterprise & Organization
+Blind Spot Detection
+Advanced Driver Assistance Systems (ADAS)
+Industrial Fanless Design
+Video Processing and Recording
+4K UHD Video
+Wide Temperature
+Marine-Grade Stainless Steel
+SUCCESS STORIES
+SUPPORT
+FAQ
+Resource Center
+SERVICE
+Service
+NEWS & EVENTS
+CONTACT
+ABOUT
+About us
+Company Profile & Corporate Governance
+Privacy Statement
+English
+Global
+繁體中文
+台灣
+简中
+中国
+日本語
+日本
+Deutsch
+Europe
+News & Events
+Discover our latest updates and highlights
+HOME
+News
+EverFocus IVS-50P0 Featured in Intel® Edge AI Catalog, Advancing Intelligent Transportation and Edge AI Computing
+2026.10.22
+News
+EverFocus IVS-50P0 Featured in Intel® Edge AI Catalog, Advancing Intelligent Transportation and Edge AI Computing
+Share：
+Powered by Intel® Core™ Ultra Series 3 processors, the IVS-50P0 delivers rugged edge computing capabilities for next-generation intelligent transportation applications.
+NEW TAIPEI CITY, Taiwan, October 22, 2026 – EverFocus Electronics Corp.’s IVS-50P0 in-vehicle computer is now listed in the Intel® Edge AI Catalog as a Qualified Intel® AI Edge System. The entry features the company’s fanless platform for smart transportation, fleet management, and rugged edge computing.
+Through Intel's Edge System Qualification (ESQ) framework, qualified systems are evaluated against performance, reliability, and compatibility requirements, helping solution builders and enterprise customers identify suitable platforms for edge AI deployments. The inclusion of the IVS-50P0 highlights EverFocus's continued development of Intel-powered edge computing platforms designed for intelligent transportation and demanding industrial environments.
+Powered by Intel® Core™ Ultra Series 3 Processors
+The EverFocus IVS-50P0 is a rugged in-vehicle computing platform powered by Intel® Core™ Ultra Series 3 processors, supporting up to 64GB of DDR5 memory.
+Designed to support demanding edge computing workloads, the system combines advanced processing capabilities with flexible connectivity and industrial-grade reliability.
+Key features include:
+Intel® Core™ Ultra Series 3 processors: Providing the computing foundation for demanding Edge AI applications.
+Wide-range power input: Supporting 9–55 VDC with ignition control for vehicle-based deployments.
+Rugged industrial design: Designed to operate in temperatures ranging from -20°C to 60°C.
+Flexible connectivity: Featuring CAN FD, isolated digital I/O, 2.5GbE Ethernet, and optional PoE connectivity.
+Expandable architecture: Supporting dual front-access SSD bays and optional 4G LTE, 5G, and Wi-Fi expansion.
+These capabilities provide a flexible computing foundation for integrating AI workloads, vehicle systems, sensors, and communication technologies.
+Enabling Next-Generation Intelligent Transportation
+As transportation systems increasingly adopt AI-driven technologies, the demand for reliable computing at the edge continues to grow. The IVS-50P0 is designed to address the requirements of intelligent transportation, commercial fleet management, and vehicle-based edge computing.
+By supporting local data processing and providing multiple industrial communication interfaces, the platform enables system integrators and solution providers to develop intelligent transportation applications that require responsive computing and reliable connectivity. Its rugged design and flexible expansion capabilities also make it suitable for industrial edge deployments operating under challenging environmental conditions.
+Strengthening EverFocus's Edge AI Ecosystem
+The IVS-50P0's inclusion in the Intel® Edge AI Catalog represents another milestone in EverFocus's continued development of Edge AI and intelligent transportation solutions.By integrating Intel processing technologies with industrial computing expertise, EverFocus aims to provide scalable and reliable hardware platforms that help businesses implement AI across transportation and industrial applications.
+EverFocus will continue expanding its Edge AI portfolio and collaborating with technology ecosystem partners to support the development of practical AI solutions across industries.
+Learn More
+Explore the EverFocus IVS-50P0 through the official Intel® Edge AI Catalog
+About EverFocus
+EverFocus Electronics Corp. is a Taiwan-based provider of intelligent transportation, video surveillance, and Edge AI computing solutions. Its portfolio includes industrial embedded systems, AI computing platforms, cameras, and intelligent transportation technologies designed to support diverse commercial and industrial applications.
+PREV
+NEXT
+FAQ
+news
+support
+PRODUCTS
+APPLICATIONS
+SUCCESS STORIES
+SUPPORT
+SERVICE
+NEWS & EVENTS
+CONTACT
+ABOUT
+HQ Office
+1F., No. 134, Ln. 235, Baoqiao Rd., Xindian Dist., New Taipei City 231 , Taiwan (R.O.C.)
++886 (2) 2662-2338
++886 (2) 2662-3632
+[email protected]
+USA Office
+324 W. Blueridge Ave. Orange CA 92865
++1 (626) 844-8888
++1 (626) 844-8838
+[email protected]
+Japan Office
+7-6-4-101 Takashimadaira, Itabashi-ku, Tokyo 175-0082, Japan
++81 (3) 4363-2819
++81 (3) 4363-2790
+[email protected]
+China Office
+2F, Building A, Area A, Longquan Science and Technology Park, Tongfuyu Phase II, Henglang Community, Dalang Street, Longhua,Shenzhen 518109, Guangdong, China
++86 (755) 2765-1313
++86 (755) 2765-0337
+[email protected]
+Copyright ©
+2026
+Everfocus
+All Rights Reserved.
+Design
+by
+iBest
+Inquiry
+0
+Compare
+0
+E-NEWS SUBSCRIBE
+PRODUCTS
+Feature Solutions
+EverFocus Edge AI & Axxon One VMS
+EMS12D2 BSD Electronic Mirror (CMS)
+AI NVR Smart Security
+Driver Monitoring System
+Intelligent Systems
+NVIDIA Edge AI
+Qualcomm Edge AI
+Intel Embedded System
+RockChip Edge AI
+Automation and Control
+Network Appliances
+SiMa Edge AI
+Commercial Vehicle Safety Solutions
+MDVR Solutions
+AI Mirror / Camera Monitor System
+Mobile Camera
+Software
+Accessories
+CCTV Surveillance
+Video Recorder
+Cameras
+Software
+Advanced Vision AI
+Edge AI Cameras
+Vision Embedded System
+Capture Cards
+GMSL Camera
+APPLICATIONS
+Industries
+Railways & Transit
+Commercial Trucks & Fleets
+Buses & Coaches
+Autonomous Robotics
+Specialized Vehicles
+Traffic & Smart Cities
+Smart Retail
+Smart Manufacturing
+Education
+Government
+Enterprise & Organization
+Technologies
+Blind Spot Detection
+Advanced Driver Assistance Systems (ADAS)
+Industrial Fanless Design
+Video Processing and Recording
+4K UHD Video
+Wide Temperature
+Marine-Grade Stainless Steel
+SUCCESS STORIES
+SUPPORT
+FAQ
+Resource Center
+SERVICE
+Service
+NEWS & EVENTS
+CONTACT
+ABOUT
+Company Profile & Corporate Governance
+Privacy Statement
+Inquiry
+0
+Compare
+0
+Partner Log-in
+E-NEWS SUBSCRIBE
+Inquiry Cart
+total 0
+items
+Products
+Inquiry
+Compare
+total 0
+items
+Remove all
+Compare
+Search
+Please Enable cookies to improve your user experience

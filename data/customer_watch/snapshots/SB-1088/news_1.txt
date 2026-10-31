@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · news_1 · https://tipteh.com/current-news/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1088 tipteh.com · news_1 · https://tipteh.com/current-news/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Current News - Tipteh
 Search for: Search Button
 Skip to content
@@ -77,6 +77,8 @@ You will receive only quality news and webinar reminders about leading automatio
 I have read and agree with terms.
 ×
 Read the latest news
+Turck MARGEE Programmable Block I/O Modules
+Turck MARGEE turns compatible block I/O modules into controllers with Structured Text, Visual Studio Code, Git and web visualization.
 XDR-E DIN Rail Power Supplies MEAN WELL
 The XDR-E Series is economical power supply solution for industrial applications. Benefit from its slim design and save space inside cabinets.
 Basler 10GigE Cameras and Components for High-Speed Machine Vision
@@ -93,8 +95,6 @@ Leuze AMS 100i Compact Laser Positioning System
 Discover the compact Leuze AMS 100i laser positioning system for AGVs, stacker cranes, and intralogistics applications up to 120 m.
 Laser Scanners scanCONTROL LLT8x00 by Micro-Epsilon
 Discover 4K profile sensors scanCONTROL LLT8x00 with Green Laser Technology for precise and stable 2D/3D industrial measurements.
-Basler Vision Simulation for Faster Machine Vision Development
-Simulate and optimize machine vision systems with Basler Vision Simulation to reduce costs and ensure reliable performance before deployment.
 1 2 Next
 Load More Posts
 Subscribe to our newsletter!

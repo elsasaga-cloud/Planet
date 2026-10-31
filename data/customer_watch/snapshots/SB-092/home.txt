@@ -1,4 +1,4 @@
-# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Spacetronik.pl - Official Brand Store | Electronics & Technology.
 Ergoline Smartline
 Log in
@@ -12,10 +12,10 @@ de
 en
 cs
 sk
-Prices in zł (1 € = 4.3072zł)
+Prices in zł (1 € = 4.3076zł)
 €
-Kč (1 € = 24.3207Kč)
-$ (1 € = 1.1249$)
+Kč (1 € = 24.323Kč)
+$ (1 € = 1.1314$)
 Country of collecting the order Austria
 Belgium
 Bułgaria
@@ -364,4 +364,4 @@ Lamps at home for autumn: How to create a cozy atmosphere and take care of your 
 2026-09-15
 How can a wireless mouse with an AI function cut document editing time in half? A guide to Spacetronik EZZY
 2026-09-14
-How to get started on social media in autumn? Proven content ideas 
+How to get started on social media in autumn? Proven content ideas f

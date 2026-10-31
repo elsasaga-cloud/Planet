@@ -1,4 +1,4 @@
-# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Cables N More
 Create Account
 Log in
@@ -343,9 +343,6 @@ $252.78
 Bestsellers
 Black Booted CAT6 Patch Cable - 3 ft
 $2.03
-RJ45 Modular Coupler - Straight Through - 8 Conductor
-Networx® variety of Couplers will help you to connect multiple cables together, or extend an existing line. Our in-line couplers provide a quality female to female connection for a great price.
-$0.84
 6u Vertical Wall Mount Bracket - Black
 Our 6u Vertical Wall Mount Bracket - Black are a convenient way to accomplish your rack mounting needs while you save space without bulky full sized racks. Designed for all 19 inch patch panel equipment.
 $57.09
@@ -355,6 +352,9 @@ $74.84
 SFP Ethernet Fiber Module - 100Base-SX, LC Multimode, 2km, 1310nm
 Get the most out of your network equipment with these Cisco Equivalent SFP Fiber Modules from Networx®.
 $21.89
+16 Port Fully Loaded 75 Ohm BNC Coaxial Patch Panel - 1U
+The Networx™ 16 Port Fully Loaded 75 Ohm BNC Coaxial Patch Panel is a great solution when setting up any type of coaxial distribution network.
+$45.51
 Information
 Sitemap
 Conditions of use

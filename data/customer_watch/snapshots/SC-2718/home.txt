@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://mercasat.es/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -373,6 +373,48 @@ Anterior
 Siguiente
 Mercasat distribuidor de productos de seguridad y telecomunicaciones
 Novedades
+70HACT1A51PU0280BS3DIP
+Cámara Domo 4N1 8Mpx WDR Digital
+Cámara Domo 4 en 1 Dahua
+8MP@25ips (CVI)
+Salida 4 en 1 conmutable
+ICR, 0,03 lux, Smart IR 30m
+Óptica fija de 2,8 mm
+WDR digital, 2D-NR
+Precio
+32,91 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+70HACHFW1801RPZILA27135S3DIP
+Cámara Bullet 4N1 5Mpx Serie PRO
+Smart IR de 60 m para exterior
+Óptica motorizada 2,8~12 mm
+0,005 lux | Filtro ICR | IP67 | 3AXIS
+OSD, AWB, AGC, BLC, HLC, DWDR
+Incorpora micrófono | Sistema POC
+Precio
+161,99 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+70HACB1A21PU0280B
+Cámara Bullet 4N1 2Mpx StarLight
+Cámara Bullet 4N1 2Mpx Dahua
+Óptica fija de 2,8 mm | StarLight
+ICR, 0,001 lux, Smart IR 30m
+WDR 130dB, 3D-NR
+Incorpora micrófono
+IP67, 3AXIS
+MATERIAL BAJO PEDIDO, CONSULTAR PLAZOS
+Precio
+22,89 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
 373366
 Visor de telecámara color para videoportero Tegui Serie 7
 Repuesto Tegui
@@ -439,48 +481,6 @@ VPN segura y Firewall NAT
 Puertos industriales RS232 y RS485
 Precio
 691,15 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-HG-H8870-NREA-CS-3W
-Router industrial 5G Dual SIM Wi-Fi 5 con 4 puertos PoE
-Hongdian Router 5G Industrial
-5G Sub-6Ghz SA/NSA
-5 puertos RJ45 Gigabit
-Doble Módem Dual SIM
-Puertos RS232/RS485
-Wi-Fi 802.11b/g/n/ac 2.4GHz-5GHz
-Precio
-618,31 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-TK-RUT271
-Router Industrial 5G RedCap SA y 4G LTE Cat 4
-Router Industrial
-5G RedCap SA y 4G LTE Cat 4
-Resiliencia con Dual SIM
-Conectividad Wi-Fi 4 hasta 50 usuarios
-2 puertos Ethernet 10/100 (WAN/LAN)
-Firewall y múltiples VPN
-Precio
-428,79 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-AK-S562W-V
-Monitor de videoportero IP 7" vertical WiFi PoE Akuvox
-Monitor Linux para videoportero
-Pantalla vertical IPS de 7"
-Audio bidirec. Crystal Clear | Easy UI
-TCP/IP, PoE, WiFi, SIP estándar
-Mantenimiento a través de Cloud
-Conexión de monitor y placas Cloud
-Precio
-152,46 €
 
 Añadir al carrito
 Nuevo

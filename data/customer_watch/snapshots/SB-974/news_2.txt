@@ -1,28 +1,181 @@
-# SB-974 b-plus.com · news_2 · https://www.b-plus.com/de/portfolio · fetched 2026-10-29T15:11:51Z · HTTP 200
-b-plus | Information
-b-plus
-PIONEERING NEW MOBILITY
-Unsere Website steht derzeit nicht zur Verfügung
-Aktuell führen wir technische Wartungsarbeiten sowie zusätzliche Sicherheitsmaßnahmen an unserer Webpräsenz durch.
-Unser Team arbeitet mit höchster Priorität daran, alle Systeme wieder vollständig bereitzustellen und dabei die Sicherheit sowie Zuverlässigkeit unserer digitalen Dienste weiter zu stärken.
-Wir bedanken uns für Ihr Verständnis und Ihre Geduld.
-Kontakt
-E-Mail:
-services@b-plus.com
-Telefon:
-+49 991 270302 0
-Website Temporarily Unavailable
-We are currently carrying out technical maintenance and implementing additional security measures on our website.
-Our team is working with the highest priority to restore all services while further strengthening the security and reliability of our digital platforms.
-We appreciate your patience and understanding.
-Contact
-E-mail:
-services@b-plus.com
-Phone:
-+49 991 270302 0
-Bleiben Sie in der Zwischenzeit über unsere Social-Media-Kanäle mit uns in Verbindung.
-Stay connected with us through our social media channels.
-© 2026 b-plus GmbH
-Ulrichsberger Str. 17, 94469 Deggendorf, Germany
-Geschäftsführer / Managing Director: Dipl.-Ing.(FH) Michael Sieg
-Gerichtsstand /Handelsregister / Place of jurisdiction / Commercial register: HRB 1753 Deggendorf / Germany
+# SB-974 b-plus.com · news_2 · https://www.b-plus.com/de/portfolio · fetched 2026-10-31T08:34:28Z · HTTP 200
+Portfolio der b-plus Gruppe für Automotive & Mobile Automation
+DE EN
+Suche
+Regeln
+Nur Wörter mit 2 oder mehr Zeichen werden akzeptiert.
+Maximal 200 Zeichen insgesamt.
+Leerzeichen werden zur Trennung von Worten verwendet, "" kann für die Suche nach ganzen Zeichenfolgen benutzt werden (keine Indexsuche).
+UND, ODER und NICHT sind Suchoperatoren, die den standardmäßigen Operator überschreiben.
++/|/- entspricht UND, ODER und NICHT als Operatoren.
+Alle Suchwörter werden zu Kleinschreibung konvertiert.
+Portfolio Datensammlung und Analyse
+Datenspeicher
+Cloud-based Datenmanagement
+Datenverteilung und Konvertierung
+Software Tools
+Hardware-in-the-Loop
+Industrial Generic
+Mobile Automation
+ISOBUS Lösungen
+Engineering Automotive Software Entwicklung
+Connectivity und Cloud
+Validierung & Verifikation
+Künstliche Intelligenz
+Mobile Automatisierung
+Hardware Engineering
+FPGA Engineering
+Embedded Software
+System Engineering
+AD Validation Toolbox MAX Technologieträger
+Newsroom News
+Events
+Unternehmen Über uns
+Qualität
+Alles aus einer Hand
+Forschung
+Verantwortung
+Karriere
+Support Login
+Technischer Support
+RMA-Anfrage
+Download Portal
+Legacy-Produkte
+Produktsicherheit
+Kontakt Newsletter-Registrierung
+Datensammlung und Analyse
+> Daten Recorder BRICK
+> Datenlogger LOGifyer B2
+> Datenlogger LOGifyer B1 SE
+> Entwicklungssoftware LOGifyer OS
+> 19” Fahrzeugrechner DATALynx ATX
+Datenspeicher
+> Wechselspeicher xSTORAGE
+> ADAS Datenspeicher MDLake
+> Daten Kopierstation COPYLynx
+> Docking Station Thunder Dock x8
+Cloud-based Datenmanagement
+> Testflottenmanagement CONiX.tfs
+> Data Processing & Labelling Software CONiX.dpc
+Datenverteilung und Konvertierung
+> Automotive Ethernet Tool NETLion
+> Messdatenschnittstelle MDILink
+> Ethernet Switch EDSwitch 10G
+> 100G-Class-Ethernet-Switch MDSwitch 100G-X16
+> (g)PTP Lösung QX550
+Software Tools
+> Zeitsynchronisation XTSS
+> Smart I/O Driver Interface SIODI
+> Disk Encryption Manager
+> Datenausleitung MDS
+Hardware-in-the-Loop
+> Hardware-in-the-Loop Solution CONiX HiL
+> Hardware-in-the-Loop Interfaces b-HiL
+> Simulation Data Bridge and Inject Station SDBI Station
+Industrial Generic
+> Embedded Board DIMMBoard
+> Ethernet Recorder BRICK SE
+> Windows Netzwerktreiber bRAWcap
+Mobile Automation
+> Engine / Off-Highway Lösungen
+> Truck Lösungen
+> Mobile Steuerungen
+> CAN Bedienelemente
+> CAN Anschlussleitung
+> Displays für den mobilen Einsatz
+ISOBUS Lösungen
+> ISOBUS CAN Gateway
+> ISOBUS IO Gateway
+> ISOBUS AUX-N Gateway
+> ISOBUS Stack
+> ISOBUS Analysetool
+> ISOBUS TIM
+> ISOBUS VTs
+> ISOBUS Leitung
+b-plus GmbH
+Ulrichsberger Str. 17
+94469 Deggendorf
+Kontakt Telefon: +49 991 270302-0 Fax: +49 991 270302-99 E-Mail: services(at)b-plus.com
+Social Media
+LinkedIn
+Instagram
+Youtube
+Facebook
+Xing
+Rechtliches Impressum
+Datenschutzhinweis
+Unser Hinweisgeberschutzsystem
+Nutzungsbedingungen
+AGB
+Cookies
+Portfolio Datensammlung und Analyse Overview
+Daten Rekorder LOGifyer B2
+Daten Rekorder BRICK
+19” Fahrzeugrechner DATALynx ATX
+Entwicklungssoftware LOGifyer OS
+Datenspeicher Overview
+Wechselspeicher xSTORAGE
+ADAS Datenspeicher MDLake
+Daten Kopierstation COPYLynx
+Cloud-based Datenmanagement Overview
+Testflottenmanagement Software CONiX.tfs
+Dataset Services
+Datenverteilung und Konvertierung Overview
+Automotive Ethernet Konverter & TAP NETLion
+Messdatenschnittstelle MDILink
+Ethernet Switch EDSwitch 10G
+MDSwitch 100G-X16
+Hardware Timesync Retrofit QX550
+Software Tools Overview
+Zeitsynchronisation XTSS
+Smart I/O Driver Interface SIODI
+Disk Encryption Manager
+Hardware-in-the-Loop Overview
+Hardware-in-the-Loop Solution
+SDBI Station
+Industrial Generic Overview
+Embedded Board DIMMBoard
+Windows Netzwerktreiber bRAWcap
+Ethernet Rekorder BRICK SE
+Mobile Automation Overview
+Mobile Steuerungen
+Engine / Off-Highway Lösungen
+Truck Lösungen
+Displays für den mobilen Einsatz
+CAN Bedienelemente
+CAN Anschlussleitung
+ISOBUS Lösungen Overview
+ISOBUS CAN Gateway
+ISOBUS IO Gateway
+ISOBUS AUX-N Gateway
+ISOBUS Keypad
+ISOBUS Stack
+ISOBUS Analysetool
+ISOBUS Kabel
+ISOBUS TIM
+ISOBUS VTs
+Engineering Automotive Software Entwicklung
+Connectivity und Cloud
+Validierung & Verifikation
+Künstliche Intelligenz
+Mobile Automatisierung
+Hardware Engineering
+FPGA Engineering
+Embedded Software
+System Engineering
+AD Validation Toolbox MAX Technologieträger
+Newsroom News
+Events
+Unternehmen Über uns
+Qualität
+Alles aus einer Hand
+Forschung
+Verantwortung
+Karriere
+Support Login
+Technischer Support
+RMA-Anfrage
+Download Portal
+Legacy-Produkte
+Produktsicherheit
+Kontakt Newsletter-Registrierung

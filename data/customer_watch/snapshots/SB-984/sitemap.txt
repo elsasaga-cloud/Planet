@@ -1,6 +1,7 @@
-# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-10-23	https://olsontech.com/aboutus
 2026-10-21	https://olsontech.com/bead
+2026-10-29	https://olsontech.com/blog
 2026-10-22	https://olsontech.com/bragg-gratings
 2026-10-24	https://olsontech.com/catv-matv
 2026-10-25	https://olsontech.com/cienamicroplug
@@ -8,40 +9,49 @@
 2026-10-21	https://olsontech.com/edfa
 2026-10-27	https://olsontech.com/edgepon
 2026-10-27	https://olsontech.com/edgeswitch
+2026-10-30	https://olsontech.com/ethernetovercoaxsfp
 2026-10-24	https://olsontech.com/fiber-fundamentals
 2026-10-21	https://olsontech.com/fiber-history
 2026-10-22	https://olsontech.com/fiberoptics101
 2026-10-26	https://olsontech.com/fiberoptictechnology
 2026-10-24	https://olsontech.com/glossary-a
 2026-10-21	https://olsontech.com/gpsoverfiber
-2026-10-27	https://olsontech.com/l-band
-2026-10-22	https://olsontech.com/laserplus
+2026-10-30	https://olsontech.com/l-band
+2026-10-29	https://olsontech.com/laserplus
 2026-10-20	https://olsontech.com/mini-nodes
 2026-10-20	https://olsontech.com/old-olsontech-com
 2026-10-22	https://olsontech.com/optical-protection
-2026-10-27	https://olsontech.com/optical-transmitters
+2026-10-30	https://olsontech.com/optical-transmitters
 2026-10-26	https://olsontech.com/organizations
 2026-10-26	https://olsontech.com/ourteam
 2026-10-26	https://olsontech.com/pubs
 2026-10-22	https://olsontech.com/raman
 2026-10-25	https://olsontech.com/sfp-olt-optics
 2026-10-26	https://olsontech.com/solutions
+2026-10-29	https://olsontech.com/switchonastick
 2026-10-24	https://olsontech.com/technologyglossary
 2026-10-27	https://olsontech.com/wheretobuy
 2026-10-22	https://olsontech.com/wideband-edfa
 	https://olsontech.com/website/info
 	https://olsontech.com/terms
 	https://olsontech.com/shop
+	https://olsontech.com/shop/category/l-band-1
+	https://olsontech.com/shop/category/mini-nodes-transcievers-2
 	https://olsontech.com/blog
 	https://olsontech.com/
 	https://olsontech.com/blog/fiber-optic-work-book-5/feed
+	https://olsontech.com/blog/fiber-tool-8/feed
+	https://olsontech.com/blog/fiber-tools-9/feed
 	https://olsontech.com/blog/intro-to-fiber-optics-6/feed
+	https://olsontech.com/blog/link-budge-tool-7/feed
 	https://olsontech.com/blog/olsontech-new-website-3/feed
 	https://olsontech.com/blog/our-blog-1/feed
 	https://olsontech.com/blog/what-is-pon-2/feed
 	https://olsontech.com/blog/what-is-rf-over-fiber-4/feed
-	https://olsontech.com/blog/fiber-optic-work-book-5/link-budgets-5
+	https://olsontech.com/blog/fiber-optic-work-book-5/link-budgets-guide-5
+	https://olsontech.com/blog/fiber-tools-9/fiber-tools-8
 	https://olsontech.com/blog/intro-to-fiber-optics-6/intro-to-fiber-optics-6
+	https://olsontech.com/blog/link-budge-tool-7/link-budget-tool-7
 	https://olsontech.com/blog/olsontech-new-website-3/optical-fiber-wavelength-bands-o-e-s-c-l-u-band-explained-4
 	https://olsontech.com/blog/olsontech-new-website-3/olsontech-new-website-2
 	https://olsontech.com/blog/what-is-pon-2/what-is-pon-1
@@ -51,7 +61,10 @@
 	https://olsontech.com/shop/edgeswitch-10x-3
 	https://olsontech.com/shop/txm-mpolt-051olt-2
 	https://olsontech.com/blog/fiber-optic-work-book-5
+	https://olsontech.com/blog/fiber-tool-8
+	https://olsontech.com/blog/fiber-tools-9
 	https://olsontech.com/blog/intro-to-fiber-optics-6
+	https://olsontech.com/blog/link-budge-tool-7
 	https://olsontech.com/blog/olsontech-new-website-3
 	https://olsontech.com/blog/our-blog-1
 	https://olsontech.com/blog/what-is-pon-2

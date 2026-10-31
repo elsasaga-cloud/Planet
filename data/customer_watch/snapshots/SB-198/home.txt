@@ -1,4 +1,4 @@
-# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Nauji produktai - Katalita.lt
 0
 Turite klausimų? Tel: +370 603 03213 ,
@@ -347,6 +347,12 @@ TELTONIKA ENERGY, UAB
 TELTONIKA TELEMATICS, UAB
 Your browser does not support the video tag.
 Nauji produktai
+2026-10-29
+MIKROTIK IoT Gateway KNOT HL9 (L14G-2ax-BT5-HL9&EG800Q)
+HaLow 915 MHz | CAT1 bis LTE modem | NanoSIM/eSIM | Wi-Fi 6 2.4 GHz wireless (802.11b/g/n/ax) | Bluetooth (V5.1) | Gigabit Ethernet | PoE-In (af/at) & surge protection | Multi- GNSS GPS | IP66 | Router OS (Licence level 4)
+2026-10-29
+MIKROTIK IoT combo 617-5925 MHz antenna for both LTE and LoRa® frequencies (LGO-LTE-W)
+Indoor/Outdoor antenna | Dual-band | 3 dBi antenna gain | 617–5925 MHz | Recommended for KNOT LR8G and LR9G kits
 2026-10-23
 MIKROTIK Air Quality Monitor CLAIRÉ, White (IAQM-THC2PV-W)
 Wireless Protocols: Matter over Thread, Bluetooth (device setup only) | Monitors temperature, humidity, carbon dioxide (CO₂) and VOC concentration in real time | Particulate matter sensors (PM2.5 and PM10) | Temperature Range: 0° – +50°C | Humidity Range and Precision: 0 – 100% RH | VOC Detection Range : 1~500 index points | Full-color 2" display | Powering: USB Type-C socket or 5VDC terminal connector for LPS adapter
@@ -378,8 +384,4 @@ UBIQUITI UniFi Protect G6 Mini Dome Camera, Black (UVC-G6-Mini-Dome-B)
 TP-LINK Omada 4G+ Cat6 AX3000 Wi-Fi 6 Vidau/Lauko Sąlygų Šliuzas (ER703WP-4G-Outdoor)
 4G+ Cat6 iki 300 Mbps | 1x nano SIM kortelės lizdas | 3x gigabitinės RJ45 LAN/WAN jungtys (2 × PoE Out, 1 × PoE In) | AX3000 Wi-Fi 6 su 2402 Mbps per 5 GHz ir 574 Mbps per 2.4 GHz | 802.3at/bt PoE arba 12V/2A DC maitinimas | WPA3 | IP55 pritaikytas lauko sąlygom
 2026-09-18
-UBIQUITI Dream Router 5G Max (UDR-5G-Max)
-Default WAN ports: 1x 10G SFP+ port, 1x 2.5 Gigabits RJ45 port | LAN ports: 1x 10G SFP+ port, 4x 2.5 Gigabits RJ45 ports (1x PoE out) | 1x MicroSD Card | Dual SIM/eSIM | High-performance 5G (3.4 Gbps) Modem | 802.11a/b/g/n/ac/ax/be (WiFi 6/6E, WiFi 7) | WPA3 | 4.7" touchscreen
-2026-09-17
-TP-LINK Omada Dual-Band Directional/Omnidirectional BE5000 4-Stream Outdoor Wi-Fi 7 Access Point (EAP725-OUTDOOR)
-1x 2.5 Gigabits LAN port (supports IEEE802.3at) | Omnidir
+U

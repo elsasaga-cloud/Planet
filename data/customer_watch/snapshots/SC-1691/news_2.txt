@@ -1,0 +1,411 @@
+# SC-1691 alfacomp.net · news_2 · https://www.alfacomp.net/tp20-transmissor-de-pressao · fetched 2026-10-31T08:34:28Z · HTTP 200
+Transmissor de pressão - TP20
+Soluções Completas em Automação Industrial
+Fale por WhatsApp
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+ESG
+Parceiros
+Trabalhe Conosco
+Automação Industrial
+Acessórios de Automação e Telemetria
+Dispositivo de proteção contra surtos para canal analógico - SS2701
+DPS seccionador e tomada - SW3300
+Dispositivo de proteção contra surtos para 4 canais analógicos - SS2702
+Iluminador de painel e indicador de porta aberta - SW3301
+Antena omni direcional em 900 MHz com base magnética - AN2405
+Isolador a relé para 4 saídas digitais - Alfacomp 2004
+Isolador a relé para 8 saídas digitais - ID2908
+Antena Omni 2.4 GHz com base magnética - TL-ANT2405C
+Ver todos
+CLP
+Pacotes de automação
+Kits de Aplicação Alfacomp
+Seletor Inteligente de CLP da Alfacomp
+CLP Haiwell Série Standard – Controlador Lógico Programável
+CLP Haiwell Série A – Controlador Lógico Programável
+CLP Haiwell A8 – Controlador Lógico Programável
+Ver todos
+Gateways IOT
+Kits de Aplicação Alfacomp
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+XBOX – Gateway IoT – Unidade remota de telemetria com IOs digitais
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+IHM
+Kits de Aplicação Alfacomp
+IHM Haiwell Série D — Linha Premium
+IHM Haiwell Série A — 7″ a 15″, SmartLink IoT Cloud
+IHM Série F - IP67
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+PC Industrial
+PC Industrial Touch Screen – Para Ambientes Industriais Exigentes – IP65
+Ver todos
+Remotas Modbus
+Módulos de Entradas e Saídas Modbus – Expansão Inteligente para sua Automação
+Ver todos
+Smartlink
+Smartlink Haiwell – Plataforma WEB SCADA e IIoT unificada
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+XBOX – Gateway IoT – Unidade remota de telemetria com IOs digitais
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+CLP Haiwell A8 – Controlador Lógico Programável
+Ver todos
+Supervisório Scada
+SCADA para a Telemetria do Saneamento com a tecnologia Plug & Play
+Kits de Aplicação Alfacomp
+S100 – Servidor Inteligente Industrial Haiwell
+TVBOX – Controlador SCADA de Telas e Monitores HDMI
+Template Supervisório Haiwell SCADA – Gratuito
+CBOX – IOT Cloud Box – IHM sem tela com SCADA nativo
+Ver todos
+Kits de Aplicação Alfacomp
+Comunicação Industrial
+Conversor de Protocolo
+Conversor HUB Serial Industrial Isolado RS485/RS232/RS422 – CSE485-HUB4
+Conversor HUB Serial Industrial Isolado RS485/RS232/RS422 – CSE485-HUB8
+Conversor de Protocolo Modbus RTU/ASCII para PROFINET – ALFA-PNM02
+Conversor de Protocolo Modbus RTU/ASCII para PROFIBUS-DP – ALFA-DPM01
+Conversor serial RS232 para RS485 - CS485-V
+Conversor de Protocolo CANopen para Modbus TCP – ALFA-CNM01
+Ver todos
+Gateway Serial Ethernet
+Servidor Serial & Gateway Modbus
+Gateway Modbus e Servidor Ethernet conversor RS232 e RS485 - MPORT3101R
+Ver todos
+Rádio de Comando
+Telecomando de bombeamento
+Remota de telemetria - RT304
+Remota de telemetria - RT308
+Telecomando Alfacomp - TC3172
+Ver todos
+Rádio de Dados
+Kits de Aplicação Alfacomp
+P900 – Rádio modem Spread Spectrum em 900 MHz
+RM-SX900 – Rádio modem Spread Spectrum em 900 MHz
+RM2071 – Rádio Modem 2,4 GHz Spread Spectrum
+Kit Enlace de Rádio 2,4 GHz
+RM2060 – Rádio modem Spread Spectrum em 900 MHz (EOL)
+Rádio Modem Industrial 25W XZ-DT25-Hx (Até 80 km)
+Rádio Modem Industrial 8W XZ-DT25-Mx (Até 12 km)
+Ver todos
+Rádio Lorawan
+Rádio modem LoraWan RS485 - RAK7431
+Gateway LoraWan - RAK7289
+Ver todos
+Switch Ethernet Industrial
+Switch Ethernet Industrial Gerenciável CIEN5205C-2F-2D232/485
+Switch Ethernet Industrial CIES316G (16 Portas Gigabit)
+Switch Ethernet Industrial PROFINET CIES308PN (8 Portas Gigabit)
+Switch Ethernet Industrial CIES308 (8 Portas Gigabit)
+Switch Ethernet Industrial CIES305G (5 Portas Gigabit)
+Switch Ethernet Industrial PROFINET CIES208PN (8 Portas Fast Ethernet)
+Switch EtherCAT Industrial CIES206EC (6 Portas Fast Ethernet)
+Switch Ethernet Industrial PROFINET CIES205PN (5 Portas Fast Ethernet)
+Switch Ethernet Industrial CIES205 (5 Portas Fast Ethernet)
+Switch Industrial Gerenciável 24 Portas RJ45 Fast Ethernet Layer 2 para Rack 19” – CISCOM6024
+Ver todos
+Telecomando Alfacomp - TC3172
+Instrumentação Industrial
+Medidores de Nível
+Sensor de nível 4 estágios - ID3018
+Kits de Aplicação Alfacomp
+Medidor de nível por radar para rios 80G FM – Sem display SR-FM80-SD
+Transmissor ultrassônico de nível - TUN21-R
+Transmissor ultrassônico de nível - TUN20
+Transmissor ultrassônico de nível - TUN26
+Transmissor ultrassônico de nível - TUN21-K
+TNH20 – Transmissor de nível hidrostático
+Transmissor de nível radar – FMW-80G
+Transmissor de nível hidrostático - LT1000
+Ver todos
+Medidores de Pressão
+Pressostato eletrônico ajustável - EPT4000
+Transmissor de pressão - TP20
+Ver todos
+Medidores de Vazão
+Transmissor de vazão para calha aberta - TUN2106-DR
+Medidor ultrassônico de vazão - TDS-100F1
+Medidor ultrassônico de vazão portátil - TDS-100H
+Transmissor de vazão eletromagnético - TVE20
+DTI-200H – Medidor de Vazão Ultrassônico Portátil
+Ver todos
+Segmentos e Aplicações
+Automação e Controle na Indústria da Madeira
+Automação e Controle na Indústria do Plástico
+Automação e Instrumentação Industrial para Mineração e Ferro
+Automação e Monitoramento de Energia
+Automação e Telemetria na Agroindústria
+Automação Industrial para Saneamento
+Insensibilizador de Suínos
+Telemetria para Saneamento
+Monitoramento de Nível AlfaLevel
+Soluções de Engenharia
+Consultoria para Automação Industrial
+Engenharia de Sistemas para Automação Industrial
+Insensibilizadores Eletrônicos
+Kit para insensibilizador de suínos
+Insensibilizador Eletrônico de Suínos - IE2002-S
+Insensibilizador Eletrônico de Aves - IE2001
+Registrador eletrônico para rastreabilidade da insensibilização - IE365
+Ver todos
+Painéis de Telemetria
+PT-X — Painel de Automação Industrial customizável
+Ver todos
+CLP e IHM para Fabricantes de Maquinas
+CLP e IHM para Integradores
+Materiais
+Blog
+Suporte
+Cases
+Loja Virtual
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+Políticas ESG
+Parceiros
+Trabalhe Conosco
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Blog
+Suporte
+Cases
+Cidades atendidas
+Loja Virtual
+Alfacomp
+Transmissor de pressão - TP20
+Home
+Transmissor de pressão - TP20
+Previous
+Next
+Transmissor de pressão - TP20
+Transmissor de Pressão TP20 — medição de pressão em líquidos e gases com precisão, robustez e o melhor custo-benefício do mercado.
+Permite a medição de pressão em líquidos e gases sob pressão de 100 mbar a 600 bar para aplicações industriais. Corpo em aço inoxidável, compensado em temperatura e saídas em 4–20 mA, I2C, Modbus e HART.
+📄
+Folha de dados do produto
+Especificações completas, dimensões e código de pedido em PDF
+Baixar PDF
+Visão geral
+Características principais
+Faixas de medição de 100 mbar a 600 bar
+Precisão de ±0,25% (típ.) / ±0,5% (máx.) Fundo de escala
+Compensado em temperatura
+Corpo em aço inoxidável
+Diversas formas de conexão de pressão e elétrica
+Saída em 4–20 mA, I2C, Modbus e HART
+Uso
+Aplicações
+Hidráulica e pneumática
+Máquinas industriais
+Bombeamento
+Indústria química
+Ficha técnica
+Especificações técnicas
+Especificação
+Detalhe
+Faixas de medição
+100 mbar a 600 bar
+Precisão (% Fundo de Escala)
+±0,25% típ. / ±0,5% máx.
+Coef. de temperatura — Zero
+±0,75% típ. / ±1,5% máx. (FE)
+Coef. de temperatura — Span
+±0,75% típ. / ±1,5% máx. (FE)
+Estabilidade longo prazo
+±0,3% típ. / ±0,5% máx. (FE)
+Temperatura de operação
+-20 a +85 °C / 0 a +125 °C
+Temperatura de compensação
+0 a +70 °C
+Invólucro
+Aço inox 304 e 316
+Diafragma
+Aço inox 316L, Cerâmico, Alloy titânio ou Tântalo
+Proteção
+IP65 / IP66 / IP67 / IP68
+Resistência de isolação
+100 MΩ a 100 VCC
+Sobrepressão
+1,5 × FE (FE ≤ 250 bar) / 1,2 × FE (FE ≥ 300 bar)
+Vibração
+2 g RMS (20 a 2.000 Hz)
+Choque
+10 g / 10 ms
+Ciclos de vida
+10 × 10⁵ ciclos
+Sinal de saída
+4–20 mA, 1–5 VCC, 0,5–4,5 VCC, 0–10 VCC, 0–2,5 VCC, RS485, I2C, Modbus, HART
+Alimentação
+12–36 VCC / 5 VCC / 3,3 VCC
+Resistência de carga
+< (V.Alimentação – 12) / 0,02 A (versão 4–20 mA)
+Teste EMC
+IEC 61000-4-2 / IEC 61000-4-3
+Faixas
+Faixas de medição disponíveis
+Pressão Gauge — zero referenciado à pressão atmosférica ambiente (= Pressão Absoluta − Pressão Atmosférica). Pressão Absoluta — zero referenciado ao vácuo perfeito (= Pressão Gauge + Pressão Atmosférica).
+Pressão Gauge
+Código
+Faixa (bar)
+0001
+-0,6 … 0
+0002
+-0,4 … 0
+0003
+-0,25 … 0
+0004
+-0,1 … 0
+0005
+-1 … 0
+0006
+-1 … +1
+0007
+-1 … +3
+0008
+-1 … +9
+0009
+-1 … +15
+0010
+-1 … +16
+0011
+0 … 0,1
+0012
+0 … 0,16
+0013
+0 … 0,25
+0014
+0 … 0,4
+0015
+0 … 0,5
+0016
+0 … 1
+0017
+0 … 1,6
+0018
+0 … 2,5
+0019
+0 … 4
+0020
+0 … 6
+0021
+0 … 10
+0022
+0 … 16
+0023
+0 … 25
+0024
+0 … 40
+0025
+0 … 60
+0026
+0 … 100
+0027
+0 … 160
+0028
+0 … 200
+0029
+0 … 250
+0030
+0 … 300
+0031
+0 … 400
+0032
+0 … 600
+Pressão Absoluta
+Código
+Faixa (bar)
+0033
+0 … 0,4
+0034
+0 … 0,6
+0035
+0 … 1
+0036
+0 … 1,6
+0037
+0 … 2
+0038
+0 … 2,5
+0039
+0 … 4
+0040
+0 … 6
+0041
+0 … 10
+0042
+0 … 16
+0043
+0 … 25
+0044
+0,8 … 1,2
+Como funciona
+Princípio de funcionamento
+Os transmissores de pressão consistem em três partes: uma membrana elástica que deforma quando exposta à pressão, um transdutor elétrico/eletrônico que detecta a deformação alterando suas propriedades elétricas, e um circuito eletrônico que converte a medição em sinal elétrico para indicadores e controladores. O sensor pode ser do tipo resistivo, capacitivo ou indutivo.
+A versão mais popular utiliza circuito resistivo na forma de strain gauge colado à membrana. A deformação proporcional à pressão resulta em alteração da resistência, que é medida e transformada no sinal de saída. O formato mais utilizado é a saída em corrente de 4 a 20 mA.
+Unidades: 1 bar = 10,197 mca (metros de coluna d'água). O CLP ou controlador que recebe o sinal deve ser parametrizado com os valores máximos e mínimos de pressão da faixa selecionada.
+Aplicação especial
+Transmissor de pressão na medição de nível
+Quando há acesso à tubulação de saída na base do reservatório, o transmissor de pressão pode ser utilizado para medição de nível, com as seguintes vantagens em relação ao transmissor de nível hidrostático:
+Menor custo
+Acesso externo e facilitado — em tubulações maiores podem ser utilizados colares de tomada para instalar o sensor
+Possibilidade de isolamento galvânico por conexões ou mangueiras plásticas, conferindo mais proteção contra surtos elétricos
+Com faixas de até 600 bar e precisão de ±0,25% , o TP20 é a escolha ideal para aplicações industriais exigentes em hidráulica, pneumática e processos químicos.
+Precisa de um transmissor de pressão para sua aplicação?
+Fale com nosso time técnico.
+WhatsApp Alfacomp
+Alfacomp — Observe. Pense. Solucione. ⚙
+Faça Seu Orçamento
+ENVIAR
+Se preferir entre em contato por WhatsApp ou Telefone
+Fale por WhatsApp
+Clique para Ligar
+Antena monopolo 900 MHz para testes em bancada - AN2404
+Antena Omni 2.4 GHz com base magnética - TL-ANT2405C
+Antena omni direcional 900 MHz 7 dBi - AN2401
+Antena omni direcional em 900 MHz com base magnética - AN2405
+Antena Yagi 14 dBi 900 MHz - CF914
+Antena Yagi 17 dBi 900 MHz - CF917
+Automação de Extrusoras
+Automação de Irrigação
+Automação de Linhas de Produção
+Automação em Ambientes Hostis
+Reputação 5 Estrelas em Automação Industrial
+Envie uma avaliação
+Nota
+1 estrela
+2 estrelas
+3 estrelas
+4 estrelas
+5 estrelas
+Enviar Avaliação
+Somos referência em automação e controle industrial no Brasil. Atuamos como consultoria de engenharia, fabricantes de soluções próprias e distribuidores exclusivos Haiwell, oferecendo CLPs, IHMs e sistemas completos de automação. Unimos experiência, inovação e proximidade para elevar a eficiência, a segurança e a competitividade das indústrias em todo o país.
+Institucional
+Quem Somos
+Contato
+Ouvidoria
+ESG
+Parceiros
+Cases
+Blog
+Contato
+Soluções Industriais
+Automação Industrial
+Comunicação Industrial
+Instrumentação Industrial
+Segmentos e Aplicações
+Soluções de Engenharia
+Contato
+Unidade Porto Alegre/RS:
+Rua Cel. Dico de Barros, 67, Bairro Na

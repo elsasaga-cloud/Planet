@@ -1,4 +1,4 @@
-# SB-095 mtechnology.it · sitemap · https://www.mtechnology.it/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-095 mtechnology.it · sitemap · https://www.mtechnology.it/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 	https://www.mtechnology.it/
 	https://www.mtechnology.it/app-mobile.1.99.uw
 	https://www.mtechnology.it/download.1.87.uw
@@ -30,7 +30,7 @@
 	https://www.mtechnology.it/xvr.1.83.511.sp.uw
 	https://www.mtechnology.it/tastiere-e-controller.1.83.512.sp.uw
 	https://www.mtechnology.it/fisheye.1.83.513.sp.uw
-	https://www.mtechnology.it/switch-24-ports-poe-long-distance-ethernet-managed-switch-cctv-sfp.1.83.325.gp.6434.uw
+	https://www.mtechnology.it/switch-24-ports-10-100-poe-l2-managed-switch-2-gb-rj45-2-sfp.1.83.325.gp.6434.uw
 	https://www.mtechnology.it/speciali-e-per-applicazioni-industriali-2mp-25x-starlight-ir-network-positioning-system.1.83.334.gp.9016.uw
 	https://www.mtechnology.it/speciali-e-per-applicazioni-industriali-2mp-45x-starlight-ir-network-positioning-system.1.83.334.gp.9057.uw
 	https://www.mtechnology.it/switch-4-ports-poe-long-distance-ethernet-switch.1.83.325.gp.7363.uw
@@ -40,7 +40,7 @@
 	https://www.mtechnology.it/speciali-e-per-applicazioni-industriali-4mp-covert-pinhole-network-camera-lens-unit.1.83.334.gp.10645.uw
 	https://www.mtechnology.it/speciali-e-per-applicazioni-industriali-4mp-covert-pinhole-network-camera-main-box.1.83.334.gp.9534.uw
 	https://www.mtechnology.it/switch-8-ports-poe-long-distance-ethernet-switch.1.83.325.gp.7852.uw
-	https://www.mtechnology.it/switch-8-2-ports-poe-long-distance-ethernet-switch.1.83.325.gp.18635.uw
+	https://www.mtechnology.it/switch-8-2-ports-gigabit-poe-l2-managed-industrial-switch.1.83.325.gp.18635.uw
 	https://www.mtechnology.it/staffe-per-telecamere-adattatore-per-montaggio-a-incasso.1.83.98.gp.8730.uw
 	https://www.mtechnology.it/accessori-per-videoregistratori-alarm-box-16-6-i-o-rs485.1.83.512.gp.9049.uw
 	https://www.mtechnology.it/accessori-alimentatore-per-switch-poe-54v-150w.1.83.327.gp.8914.uw
@@ -123,4 +123,4 @@
 	https://www.mtechnology.it/accessori-monitor-tester-professionale-ip-video-e-hd-ahd-cvi-tvi.1.83.98.gp.8587.uw
 	https://www.mtechnology.it/monitor-tvcc-monitor-tvcc-bnc-10-.1.83.417.gp.8834.uw
 	https://www.mtechnology.it/accessori-mt-hdrepeater-ripetitore-segnale-hd-sdi.1.83.98.gp.4551.uw
-	https://www.mtechnology.it/extender-lan-mt-tp2wpoc-conve
+	https://www.mtechnology.it/extender-lan-mt-tp2wpoc-conv

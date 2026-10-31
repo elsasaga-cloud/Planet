@@ -1,0 +1,73 @@
+# SC-1675 tekmodul.de · news_1 · https://www.tekmodul.de/news · fetched 2026-10-31T08:34:28Z · HTTP 200
+News | Techniknachrichten aus dem Wireless-Sektor | tekmodul GmbH
+Zum Inhalt springen
+Suche nach:
+Newsletter Anmeldung
+Services News
+Use Cases
+Knowledge Gap
+Quectel Firmware Updates
+Shop
+Suche nach:
+Newsletter Anmeldung
+Services News
+Use Cases
+Knowledge Gap
+Quectel Firmware Updates
+Shop
+News
+Funkmodule News
+Brandneue nRF54 Bluetooth Module: Fanstel BM15
+München - tekmodul, ein führender Anbieter innovativer drahtloser Lösungen, freut sich, die Einführung der Fanstel BM15 Bluetooth Low Energy (BLE) Module bekannt zu geben, die auf dem hochmodernen Nordic nRF54L15 System-on-Chip (SoC) basieren. Dieses Modul der nächsten Generation wurde entwickelt, um Entwickler, Ingenieure und Unternehmen [...]
+Antennen
+TABIT – GNSS Triple-Band Antenne – Robust und Flexibel
+TABIT ist eine innovative Lösung, die sowohl aktuelle als auch zukünftige Signalbänder unterstützt und dabei Langlebigkeit und Kosteneffizienz in der Produktion sicherstellt. Dabei besonders sind die Bänder und Frequenzabdeckung von 1164 - 1300; 1559 - 1610MHz. (GPS (L1C, L2C, L5, L6), Galileo (E1, E5a, E6), [...]
+News
+Erfolgreicher erster PoC: RG255C-GL läuft im Telekom 5G-SA RedCap Netz
+Kurzes Update aus unserem Labor: Wir haben den ersten Proof of Concept (PoC) erfolgreich abgeschlossen. Das Quectel RG255C-GL, montiert auf dem 5G-M2 EVB, ist jetzt im reinen 5G Standalone (5G-SA) RedCap Netz der Deutsche Telekom AG eingebucht. Die Verbindung steht und läuft stabil im Testbetrieb. Ein [...]
+Funkmodule Lieferanten
+5G im M.2 Format, damit Router und Gateways auch bei hohen Datenraten nicht ins Funkloch geraten.
+5G ist längst kein Zukunftsversprechen mehr. Und mit dem Quectel RM520UA-EA hält es Einzug in genau die Anwendungen, wo es wirklich gebraucht wird: im industriellen Umfeld, in IoT-Gateways, in Systemen, die keine Kompromisse bei Bandbreite oder Latenz dulden. Das RM520UA-EA ist ein 5G sub-6GHz Modul [...]
+Messe
+tekmodul auf der electronica München 2026
+Es dauert nicht mehr allzu lange und die electronica München 2026 öffnet ihre Tore und tekmodul ist wieder dabei. In der Zeit vom 10. bis 13.11.2026 findet im Internationalen Congress Center München wieder die Weltleitmesse statt. Wir stehen Ihnen mit Rat, Tat und vielen neuen Produkten [...]
+Lieferanten News
+Quectel PCN: Wichtige Komponenten-Änderung für LTE-Modulserien
+Quectel hat eine Product Change Notification (PCN202608150002EN02) für mehrere LTE-Modulserien veröffentlicht, darunter EC20-CE, EC21, EC25, EG21-G/GL, EG25-G/GL, EG91, EG95 und EM05. Betroffen ist die Aufnahme einer alternativen Speicherlösung, um die Liefersituation angesichts angespannter Marktlage bei Speichern langfristig zu sichern und zu verbessern. Wichtig: Die geänderten [...]
+Funkmodule Lieferanten News
+Jede Krise birgt Chancen: Kostensteigerungen bei IoT-/M2M-Mobilfunkmodulen
+Über Jahre sanken die Preise für IoT-/M2M-Module kontinuierlich und machten damit eine Vielzahl von IoT-Geschäftsmodellen erst wirtschaftlich möglich. Künstliche Intelligenz eröffnet nun zusätzlich die Möglichkeit, die dabei gesammelten Datenmengen effizient und nahezu in Echtzeit umfassend auszuwerten. Eigentlich die perfekte Ausgangslage für prosperierende Geschäfte. Doch aktuell [...]
+Funkmodule Neuheit News
+Speicherkrise bei Zellularfunkmodulen: Warum LTE- und 5G-Module knapp bleiben und was jetzt hilft
+Ein Ende der Speicherkrise ist noch immer nicht absehbar. Die knappen Speicherchips haben in den vergangenen Monaten zu einer explosionsartigen Verteuerung von Zellularfunkmodulen geführt. Das betrifft nicht nur die Preise, sondern auch die Verfügbarkeit: Selbst zu einem Vielfachen der ursprünglichen Kosten sind Speicherchips oft nicht [...]
+Funkmodule
+Wichtige Produktänderung: „Pflicht“-Firmware-Update für Quectel-Module (PCN)
+Aufgrund der aktuell angespannten Verfügbarkeit und gestiegenen Kosten bei Speicherbausteinen setzt Quectel in bestehenden Modulen alternative Speicherkomponenten ein. Diese Hardware-Änderung erfordert zwingend den Einsatz der neuesten Firmware. Wir empfehlen Ihnen daher dringend, zeitnah zu prüfen, ob in Ihrem Produkt ein Firmware-Wechsel erforderlich ist und ob [...]
+GSM, LTE, NB-IoT Neuheit News
+Quectel YB0008AA – Drei Antennen, ein Gehäuse, ein Preis, der nicht wehtut
+Wer in der Embedded- oder IoT-Entwicklung arbeitet, kennt das Dilemma: mehrere Funkverbindungen, mehrere Antennen, und am Ende ein Kabelgewirr, das aussieht wie das Innenleben eines Praktikantenprojekts. Nicht jedes Projekt hat dafür ein üppiges Budget – und muss es auch nicht. Die Quectel YB0008AA beweist, dass [...]
+Energy Harvesting News
+Batterielos IoT mit der AEM15820 – Energieernte für Innen und Außen
+Das IoT wächst kontinuierlich, aber mit ihm wächst ein oft übersehenes Problem: Millionen von Batterien, die regelmäßig ausgetauscht werden müssen. Die Europäische Innovationsrat hat das durchgerechnet und kommt zu einem beunruhigenden Ergebnis – bis 2040 werden täglich 80 Millionen Batteriewechsel erforderlich sein, wenn wir weiterhin [...]
+Messe Neuheit News Technik Use Cases
+WRD/Probe: Das Ende von teuren Feldtests?
+Wer embedded Hardware entwickelt, kennt das Problem: Feldtests sind aufwändig. Entweder fährt jemand hin, sitzt vor Ort und debuggt – oder man wartet auf Logs und Screenshots von Hardware, die irgendwo im Feld läuft. Beide Varianten kosten Zeit und Geld. Die WRD/Probe von SSV löst [...]
+Funkmodule
+Ultradünne und transparente 5G-Antenne von Quectel
+Unser langjähriger Partner Quectel erweitert sein 5G-Antennenportfolio um eine selbstklebende und nahezu unsichtbare 5G-Lösung. Die omnidirektionale Antenne deckt einen breiten Frequenzbereich ab und richtet sich somit anspruchsvolle Anwendungen von Automotive bis hin zu Industrie- und Smart-City-Szenarien.​ Produktbeschreibung Die YFCX001WWAH ist eine transparente 5G-Antenne für die [...]
+1 2 Vor
+Unternehmen
+Über uns
+Stellenanzeigen
+Kontakt
+Rechtliches
+AGB
+Impressum
+Datenschutzerklärung
+Widerrufsbelehrung
+Liefer- und Versandkosten
+Service
+tekmodul-news
+Use Cases
+Newsletter
+© 2019 tekmodul - Alle Rechte vorbehalten.

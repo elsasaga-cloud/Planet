@@ -1,4 +1,4 @@
-# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -44,138 +44,37 @@ Producatori
 Galerie foto
 Diplome si premii
 Curs valutar
-29-Oct-2026
-1 EURO = 5.3449 RON
-1 USD = 4.7943 RON
+31-Oct-2026
+1 EURO = 5.3426 RON
+1 USD = 4.7698 RON
 Mondo Plast
 fibra optica switch router poe gigabit router wireless switch gigabit sfp ap stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Balun pasiv 1 canal video AHD, HDCVI, HDTVI, Video Balun VB108, cleme, IP68, blister/ pereche
-Braun Group - VB-108
-7.75 LEI
+HUB USB 3.0, carcasa Aluminiu, 4 porturi Type A fem ( 1 x USB 3.0 5Gbsp, 3 x USB 2.0), blister, USB4AHUB
+na - USB4A HUB A-809
+18.70 LEI
 pret fara TVA
-cuTVA: 9.38 LEI
-Set/ Kit PoE pasiv, injector & splitter pentru camere supraveghere IP, peste cablu cat5E, 10/100
-Braun Group - POE-KIT-F, POEKIT pasiv
-13.98 LEI
+cuTVA: 22.63 LEI
+Type C to USB2.0 -cablu calitate, USB 3.1 high speed 10GBps certified, 5A fast charge, material DPE 10X stronger, 1.2m
+Stonet - C3-TypeC SuperSpeed+
+26.76 LEI
 fara TVA
-9.94 LEI
+18.70 LEI
 pret fara TVA
-cuTVA: 12.02 LEI
-Sursa alimentare DC12V/ 3A Full protection
-Braun Group - YK30-12V3A
-26.71 LEI
-pret fara TVA
-cuTVA: 32.32 LEI
-Sursa 15V 1200mA, tripla protectie, pt alimentare AP, camere, pe cablu la distante mari, 18W
-BraunGroup - EN-EU15V1200
-26.72 LEI
+cuTVA: 22.63 LEI
+Cablu 3RCA (tata) la 3 RCA (tata) audio/video, 1.8m
+Braun Group - E04363
+4.96 LEI
 fara TVA
-13.90 LEI
+2.17 LEI
 pret fara TVA
-cuTVA: 16.82 LEI
-Sursa alimentare 5V-2A cu mufa USB, full protection,2000-3000mA,15W,alb,5020
-Braun Group - PSU 5V/2A USB
-8.77 LEI
+cuTVA: 2.63 LEI
+Mini PC Optiplex 3050 MICRO, Intel Core i5-7500T, 16GB RAM, 256GB SSD
+Dell - Optiplex 3050 I5-7500T
+1,175.37 LEI
 pret fara TVA
-cuTVA: 10.61 LEI
-Sursa alimentare 5V-1A cu mufa USB, full protection,1000-1600mA,8W,alb,5010
-Braun Group - PSU 5V/1A USB
-6.73 LEI
-pret fara TVA
-cuTVA: 8.15 LEI
-Adaptor DC mama la microUSB
-Braun Group - DCMCRUSB
-3.15 LEI
-pret fara TVA
-cuTVA: 3.82 LEI
-Camera IP WiFi 1.0 Mpx, Audio, PIR
-Qihan - QH-NM311-WP
-504.80 LEI
-fara TVA
-443.59 LEI
-pret fara TVA
-cuTVA: 536.74 LEI
-Camera dome AHD 1.3 Mpx LED Array
-Braun Group - AHD-PE20A-130
-203.06 LEI
-fara TVA
-44.74 LEI
-pret fara TVA
-cuTVA: 54.14 LEI
-Camera de supraveghere IP senzor CMOS 2Megapixel IR
-Braun Group - BGIP-200P40
-577.30 LEI
-fara TVA
-198.22 LEI
-pret fara TVA
-cuTVA: 239.84 LEI
-DVR Turbo HD Hikvision 8 canale
-Hikvision - DS-7108HQHI-F1N
-500.56 LEI
-pret fara TVA
-cuTVA: 605.68 LEI
-DVR Turbo HD Hikvision 4 canale
-Hikvision - DS-7104HQHI-F1N
-317.57 LEI
-pret fara TVA
-cuTVA: 384.26 LEI
-KIT 4 Camere digitale AHD-720P+DVR
-Qihan - QH-D5004AHHC-M340 premium
-897.23 LEI
-fara TVA
-422.92 LEI
-pret fara TVA
-cuTVA: 511.74 LEI
-KIT Wireless 4 Camere IP & NVR plug & play cu HDD 1TB Seagate Surveillance preinstalat, SEK204KIT
-Stonet - SEK204 & 1TB NVRKIT
-1,150.00 LEI
-fara TVA
-680.00 LEI
-pret fara TVA
-cuTVA: 822.80 LEI
-CAB OUT-16U-600 INOX, Rack industrial outdoor (600x600x817mm), IP55, 19inch 16U , 2 fans, double layers, cu kit de montare pe stilpi
-Braun Group - CAB-OUT-16U-600 INOX
-2,458.65 LEI
-pret fara TVA
-cuTVA: 2,974.97 LEI
-CAB OUT-16U-600, Rack industrial outdoor (600x600x817mm), IP55, 19inch 16U , 2 fans, double layers, cu kit de montare pe stilpi
-Braun Group - CAB-OUT-16U-600 N
-1,309.50 LEI
-pret fara TVA
-cuTVA: 1,584.50 LEI
-Rack industrial pentru exterior 12U-600 IP55, montanti 19inch 12Unitati, 2 fans, double layers
-LMS Data - CAB-OUT-12U600
-919.16 LEI
-pret fara TVA
-cuTVA: 1,112.19 LEI
-Cutie distributie fibra optica pentru 12 conexiuni
-Braun Group - FDB-12M
-154.63 LEI
-fara TVA
-128.28 LEI
-pret fara TVA
-cuTVA: 155.22 LEI
-Osciloscop digital
-Atten - ADS2202SA
-3,851.02 LEI
-fara TVA
-2,936.08 LEI
-pret fara TVA
-cuTVA: 3,552.65 LEI
-Osciloscop digital
-Atten - ADS2202CA
-4,291.37 LEI
-fara TVA
-3,423.65 LEI
-pret fara TVA
-cuTVA: 4,142.62 LEI
-Lupa cu iluminare 40 LED variabila pentru statii de lipit, alimentare 220V
-Yihua - YH-628
-164.46 LEI
-pret fara TVA
-cuTVA: 199.00 LEI
+cuTVA: 1,422.20 LEI
 Cable USB 3.0 type c male to USB C,0.5m
 Braun Group - USB3-1A-05M
 0.80 LEI
@@ -186,13 +85,118 @@ Braun Group - POWER-TA-1A 1m
 2.19 LEI
 pret fara TVA
 cuTVA: 2.65 LEI
-Terminal conector
-Braun Group - PCT-604
-0.27 LEI
+Cablu USB - Micro USB v.2.0, 2m
+Braun Group - E04349
+5.90 LEI
+fara TVA
+2.48 LEI
 pret fara TVA
-cuTVA: 0.32 LEI
+cuTVA: 3.00 LEI
+LED Flood Light
+Braun Group - GT-LED-FL-003-50W-WW
+143.81 LEI
+fara TVA
+70.64 LEI
+pret fara TVA
+cuTVA: 85.47 LEI
+LED Flood Light
+Braun Group - GT-LED-FL-003-30W-PW
+86.41 LEI
+fara TVA
+46.68 LEI
+pret fara TVA
+cuTVA: 56.48 LEI
+LED Flood Light
+Braun Group - GT-LED-FL-003-10W-PW
+39.11 LEI
+fara TVA
+22.71 LEI
+pret fara TVA
+cuTVA: 27.47 LEI
+LED Underground Light
+Braun Group - GT-LED-UGL-001-5W
+113.53 LEI
+fara TVA
+86.41 LEI
+pret fara TVA
+cuTVA: 104.55 LEI
+Bec led glob 5x1W- E14
+Braun Group - BZ5-QP539e14-5W
+24.67 LEI
+fara TVA
+15.23 LEI
+pret fara TVA
+cuTVA: 18.43 LEI
+Bec led glob 12W- E27
+Braun Group - BZ12-QP544-12W
+56.53 LEI
+fara TVA
+35.42 LEI
+pret fara TVA
+cuTVA: 42.85 LEI
+Spot E27 cu bec LED 5 watt
+Light Net - TD2501-lamp E27
+23.02 LEI
+pret fara TVA
+cuTVA: 27.86 LEI
+Display metalic rack cu 4 rafturi basculante, expozor prospecte show room, asamblat
+Mondo Plast - SE-MC1357
+1,495.93 LEI
+fara TVA
+1,175.37 LEI
+pret fara TVA
+cuTVA: 1,422.20 LEI
+Amplificator optic EDFA 16dB
+nextraCOM - EDFA 16DB
+3,630.30 LEI
+pret fara TVA
+cuTVA: 4,392.66 LEI
+OTDR, Optical Power Meter
+Braun Group - OTDR LOT 5200â€“ST46
+23,100.00 LEI
+pret fara TVA
+cuTVA: 27,951.00 LEI
+OTDR, Optical Power Meter
+Braun Group - OTDR LOT 5200â€“SD45
+19,700.00 LEI
+pret fara TVA
+cuTVA: 23,837.00 LEI
+Power Meter 8 lungimi de unda, Normal
+Braun Group - HS-FCPM
+85.48 LEI
+pret fara TVA
+cuTVA: 103.43 LEI
+Electronic Fiber Microscope
+Braun Group - EFM-400
+3,686.39 LEI
+pret fara TVA
+cuTVA: 4,460.54 LEI
+Optical Fiber Microscope
+Braun Group - OFM-400
+454.12 LEI
+fara TVA
+379.32 LEI
+pret fara TVA
+cuTVA: 458.98 LEI
+Optical Fiber Microscope
+Braun Group - OFM-200
+443.44 LEI
+fara TVA
+379.32 LEI
+pret fara TVA
+cuTVA: 458.98 LEI
+Optical Light Source
+Braun Group - BG-35-PON
+1,292.91 LEI
+pret fara TVA
+cuTVA: 1,564.42 LEI
+PON Power Meter
+Braun Group - HS-PONPM
+432.75 LEI
+pret fara TVA
+cuTVA: 523.63 LEI
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Pagina generata in : 0.126 s
+Pagina generata in : 0.137 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

@@ -1,0 +1,300 @@
+# SB-532 eclipsecctv.com · news_1 · https://www.eclipsecctv.com/blog.asp · fetched 2026-10-31T08:34:28Z · HTTP 200
+Blog - Eclipse CCTV
+0
+888-422-8826
+About Us
+Blog
+Contact Us
+Become A Dealer
+My Account
+Log in to my account or Create Account
+( 0 Item s )
+home
+Search
+Support
+Become a Dealer
+Support Site
+Hard Disk Calculator
+UL Listed Products
+2024 Eclipse Catalog
+Signature PC Software
+Eclipse View Cloud
+Signature Mobile Apps
+Signature Camera Bracket and Accessory Chart
+Eclipse Net Support
+Looking For An Installer
+Solutions
+Banking Solutions
+Casino Solutions
+Education & Schools
+Government Solutions
+Healthcare Solutions
+Home Security
+Hotel Solutions
+Industrial Solutions
+Prisons & Correctional Facilities
+Retail Solutions
+Stadiums & Venues
+Transportation
+IP Products
+Eclipse Net Series
+Signature Bullet Cameras
+Signature Dome Cameras
+Signature PTZ Cameras
+LPR Cameras
+Eclipse Signature NVRs
+Signature Analytics
+NDAA Compliant Products
+PVM Monitors
+Smart Home Products
+Wireless IP Cameras
+Signature Software
+Eclipse CCTV App
+Eclipse View App
+Eclipse View Cloud
+Eclipse CMS Software
+Eclipse Radiant Series
+Shadow NVR
+Eclipse Net Certified Products
+Video Doorbell Camera
+HD-Coax Products
+Pro Series Cameras
+Pro Series Dome Cameras
+Pro Series Bullet Cameras
+Pro Series PTZ Cameras
+Pro Series IP Cameras
+Pro Series Covert Cameras
+Pro Series Video Intercoms
+Pro Series Recorders
+Smarthome Cameras
+Starlight Cameras
+Covid Products
+Fusion DVRs
+Pro Series Accessories Guide
+Pro Series Software
+Access Control
+Readers
+Maglocks
+Door Strikes
+Cards & Fobs
+Exit Buttons
+Electric Door Hardware
+Control Panels
+Access Power Supplies
+Biometric Readers
+Video Intercoms
+Request to Exit PIRs
+Smart Residential Doorlocks
+Matrix Series
+Security Accessories
+IR Illuminators & Projectors
+Power Supplies
+Security Monitors
+Security Brackets
+Cable Connectors
+Video Baluns
+Cable & Wire
+Security Camera Housings
+PTZ Accessories
+CCTV Tools
+Amplifiers
+Audio Surveillance
+Video Extenders
+Rack Mounts
+Camera Lenses
+Microphones
+Lock Boxes
+Surge Protector
+Networking
+Hard Drives & Storage
+Decoders
+Displays
+POE Switches
+Solar Panels
+Security Solar Panels
+Blog
+Home
+Blog Home
+Categories
+News
+HD-TVI
+HD-CVI
+AHD
+Learning Center
+Recent Posts
+ECLIPSE DDNS CLOSING EFFECTIVE AUGUST 31ST 2022
+4K security cameras vs normal CCTV cameras, what's the difference?
+License plate recognition (LPR) vs license plate capture (LPC)
+Starlight Cameras vs Infrared cameras, what's the difference?
+2018 Eclipse Security Corporate Video
+Eclipse Security Appoints New VP of Sales
+Using “PTZ Link” functionality for advanced system design
+The importance of UL listed products and why we chose to make our Signature products UL.
+HD-TVI, High Definition Transport Video Interface
+Personal Surveillance Systems and Portable CCTV Products
+Archives
+July 2022
+March 2022
+February 2018
+January 2018
+January 2017
+May 2016
+March 2016
+December 2015
+November 2015
+August 2015
+July 2015
+May 2015
+April 2015
+SHOW SIDEBAR
+ECLIPSE DDNS CLOSING EFFECTIVE AUGUST 31ST 2022
+Posted by on 7/28/2022 to
+News
+Due to the addition of our Eclipse P2P Cloud Management Server, we will be eliminating our older DDNS service. Most of our customers have moved on to the newest technology with P2P and our Eclipse View service. We are giving our customers advanced notice so they may adopt another DDNS service or simply reconfigure and register their Eclipse NVRs to take advantage of our P2P service. Our NVRs currently offer other DDNS options that may be used or you can opt to use our new P2P service.
+Read More
+SHARE THIS POST
+Starlight Cameras vs Infrared cameras, what's the difference?
+Posted by on 3/10/2022 to
+Starlight Cameras vs Infrared cameras, what's the difference? Eclipse Signature Starlight Technology Starlight cameras are becoming extremely popular. The name is synonymous with color at night technology and offers impressive results. For
+Read More
+SHARE THIS POST
+License plate recognition (LPR) vs license plate capture (LPC)
+Posted by on 3/10/2022 to
+Learning Center
+LPR vs LPC. There are typically two types of scenarios to consider when purchasing license plate cameras. LPR (license plate recognition) camera systems allow you to view, record, and read license plate cameras. The LPR camera or software can
+Read More
+SHARE THIS POST
+4K security cameras vs normal CCTV cameras, what's the difference?
+Posted by on 3/10/2022 to
+Learning Center
+Read More
+SHARE THIS POST
+2018 Eclipse Security Corporate Video
+Posted by Jr Vasquez on 2/5/2018 to
+News
+Eclipse is celebrating 20 years in business this year and we would like to share our newly released corporate video to celebrate. Enjoy!
+Read More
+SHARE THIS POST
+Eclipse Security Appoints New VP of Sales
+Posted by Frankie Cordova on 1/10/2018 to
+News
+Miami, FL - Eclipse Security ( https://www.eclipsesurveillance.com ) announced today that Rick Guerrero has rejoined the firm as VP of Sales to further develop their growing portfolio of regional and national accounts. Rick Guerrero comes with a wealth of experience within the Industry, having spent the last 5 years at Axis Communications & IPConfigure Inc. where Rick was instrumental in business development while working with multinational end-users and integrators. Rick rejoins Eclipse Security where he held a Sales Manager position from 2006 through 2010
+Read More
+SHARE THIS POST
+The importance of UL listed products and why we chose to make our Signature products UL.
+Posted by Frankie Cordova on 1/19/2017 to
+News
+Like most IT devices similar to wifi switches, access points and VOIP phones, IP-based security cameras come under (NEC) National Electrical Code sections that are applicable as (LPS) Limited Power Source equipment since they get powered directly from location that is central or source by way of Po
+Read More
+SHARE THIS POST
+Using “PTZ Link” functionality for advanced system design
+Posted by Ernesto Vazquez on 1/19/2017 to
+Learning Center
+Using “PTZ Link” functionality for advanced system design
+Pan/Tilt/Zoom cameras have been a staple of the surveillance industry for decades. With their ability to zoom in or out, and the ease with which they can be physically re-oriented in real time, these high-tech cameras are used daily by security personnel all over the globe to keep eyes on moving targets, and are the go-to solution for monitoring broad, dynamic scenes. While having live operators on staff is undoubtedly one of the more sure fire ways to maximize system efficacy, today we will discuss how to take advantage of our PTZ Link feature to create a self-directing, intelligent monitoring platform.
+Read More
+SHARE THIS POST
+HD-TVI, High Definition Transport Video Interface
+Posted by Nathan Baker on 5/23/2016 to
+HD-TVI
+High definition transport video interface, or HD-TVI, is one of the most exciting new surveillance camera technologies in the consumer market today. While high definition surveillance has been available for some time with IP cameras and HD analog cameras, both technologies have drawbacks that have prevented widespread consumer adoption. TVI technology is simple and eliminates confusion, and is often compatible with the infrastructure already in place.
+Read More
+SHARE THIS POST
+Personal Surveillance Systems and Portable CCTV Products
+Posted by Nathan Baker on 3/9/2016 to
+News
+The military uses them to monitor missions and troop movements. Athletes use them for training. Tourists, performance artists, video bloggers and podcasters love them. What are they? Personal surveillance systems, of course.
+Personal surveillance relies on portable battery powered CCTV cameras. While these devices come in many sizes and shapes, they fall into two basic categories. Body cameras are usually worn on a helmet, hat or lapel, and mostly monitor things happening in front of the user. External cameras, the second category, record the user and the surrounding area. Both technologies make records of the user's interactions with other people.
+Read More
+SHARE THIS POST
+Did the 4K Ultra-HD Wave Already Crest?
+Posted by Nathan Baker on 3/8/2016 to
+The promised land of ultra-high definition lies beyond the domain of 1080P video camera technology, but consumers are already getting a taste of the super-clear images that Ultra HD provides, and they like it. Why not? The field of view is larger, and the high frame rate and resolution of 4K video allows images to be magnified without noticeable blurring. Cinematographers have been shooting in 4K for more than a decade. Judging by the reaction to Sony's latest 4K camcorder debuted at last year's consumer electronics show (CES 2015), the camcorder market is ready now. Why aren't 4K surveillance cameras everywhere?
+Read More
+SHARE THIS POST
+Security Cameras Beginners Guide
+Posted by Admin on 12/8/2015 to
+News
+Why Do You Need Security Cameras?
+Read More
+SHARE THIS POST
+Features to look for in a Home Security Camera
+Posted by admin on 12/3/2015 to
+News
+Here are the most common home security camera features to look for.
+Read More
+SHARE THIS POST
+AHD Cameras, What are they?
+Posted by Admin on 11/30/2015 to
+AHD
+A quick look at AHD security camera technology.
+Read More
+SHARE THIS POST
+New Video Door Phones are the wave of the future
+Posted by admin on 11/24/2015 to
+News
+The old method of using video door phones to simply see who is at the door are long gone. Newer technology is paving the way for home owners to fully integrate their home alarms and camera systems with new intercom systems.
+Read More
+SHARE THIS POST
+Guess who's back? CCTVOUTLET.COM and ECLIPSECCTV.COM are officially pointing to our new ECLIPSESURVEILLANCE.COM website!
+Posted by Administrator on 8/20/2015 to
+News
+Guess who's back? CCTVOUTLET.COM and ECLIPSECCTV.COM are officially pointing to our new ECLIPSESURVEILLANCE.COM website!
+Read More
+SHARE THIS POST
+New Tribrid DVRs are Here
+Posted by Administrator on 7/13/2015 to
+News
+Our new CCTV / HD-CVI / IP Tribrid DVRs have arrived.
+Read More
+SHARE THIS POST
+Eclipse Security Launches New Dealer-only Website for Sales and Support
+Posted by Administrator on 5/17/2015 to
+News
+Eclipse Security continues to serve its customers by launching a new website with interactive support chats and the ability to shop online. Specialized technical support agents are standing by to help installers choose the right equipment for new projects and even assist with troubleshooting existing installations.
+Read More
+SHARE THIS POST
+Eclipse in partnership with Nuovo Security launches new software for Latin America
+Posted by Administrator on 5/15/2015 to
+News
+Eclipse in partnership with Nuovo Security launches new software for Latin America
+Read More
+SHARE THIS POST
+Group Deal on New POPO Camera
+Posted by Administrator on 5/8/2015 to
+News
+Our new POPO Cam is almost here. To kick off the new product we are offering the first 10 customers a special deal on our product.
+Read More
+SHARE THIS POST
+Eclipse Surveillance just placed second in the Alas 2014 Awards
+Posted by Administrator on 4/27/2015 to
+News
+Eclipse Surveillance just placed second in the Alas 2014 Awards for, “Best Security Project In Latin America”.
+Read More
+SHARE THIS POST
+What is HD-TVI
+Posted by Administrator on 4/16/2015 to
+HD-TVI
+HD-TVI also known as High-Definition Transport Video is the most recent in HD technology. HD-TVI solutions can transmit zero latency and both 720p or 1080p HD video with a standard coaxial cable up to 1600’. HD-TVI “tri-brid” recorders are compatible with all HD-TVI cameras, all analog, and supported IP cameras, on any channel and in any configuration.
+Read More
+SHARE THIS POST
+Projects
+We work directly with you to design and quote systems for small & large projects. Let us HELP!
+Technical Support
+Our technicians are here to help you from start to finish. They offer over 20yrs of experience.
+Training & Education
+Eclipse offers technical training and webinars to keep you up to date with the latest technology.
+Shop By Categories
+Recorders & Cameras
+IP Security Cameras
+IP Bullet Cameras
+IP Dome Cameras
+IP PTZ Cameras
+LPR Cameras
+Wireless IP Cameras
+HD-CVI Cameras
+AHD Security Cameras
+HD-TVI Cameras
+Security NVRs
+HD-TVI DVRs
+AHD-

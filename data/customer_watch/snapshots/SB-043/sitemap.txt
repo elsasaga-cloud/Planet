@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2025-05-01	https://www.netontechnologies.com/
 2025-05-01	https://www.netontechnologies.com/contact-us
 2025-05-01	https://www.netontechnologies.com/about-us
@@ -51,3 +51,5 @@
 2026-10-04	https://www.netontechnologies.com/nas-backup-data-loss-uae
 2026-10-24	https://www.netontechnologies.com/what-is-sip-trunk-uae
 2026-10-24	https://www.netontechnologies.com/what-is-sbc-uae
+2026-10-30	https://www.netontechnologies.com/cloud-pbx-vs-on-premise-pbx-uae
+2026-10-30	https://www.netontechnologies.com/contact-centre-vs-call-centre-uae

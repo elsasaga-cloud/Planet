@@ -1,4 +1,4 @@
-# SB-982 mcss.co.kr · sitemap · https://www.mcss.co.kr/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-982 mcss.co.kr · sitemap · https://www.mcss.co.kr/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 	https://www.mcss.co.kr/index
 	https://www.mcss.co.kr/18
 	https://www.mcss.co.kr/intro
@@ -353,4 +353,88 @@
 	https://www.mcss.co.kr/IGS-6325-8UP2S2X
 	https://www.mcss.co.kr/IGT-805AT
 	https://www.mcss.co.kr/IGT-900-2T2S
-	https://www.mcss.co.kr/PLANET_s
+	https://www.mcss.co.kr/PLANET_shop_Switch
+	https://www.mcss.co.kr/PLANET_shop_IS
+	https://www.mcss.co.kr/PLANET_shop_MC
+2026-08-06	https://www.mcss.co.kr/shop_view/225
+2026-08-06	https://www.mcss.co.kr/shop_view/224
+2026-08-06	https://www.mcss.co.kr/shop_view/223
+2026-08-06	https://www.mcss.co.kr/shop_view/222
+2026-08-06	https://www.mcss.co.kr/shop_view/221
+2026-08-06	https://www.mcss.co.kr/shop_view/220
+2026-08-06	https://www.mcss.co.kr/shop_view/219
+2026-08-06	https://www.mcss.co.kr/shop_view/218
+2026-08-06	https://www.mcss.co.kr/shop_view/217
+2026-08-05	https://www.mcss.co.kr/shop_view/216
+2026-08-05	https://www.mcss.co.kr/shop_view/215
+2026-08-05	https://www.mcss.co.kr/shop_view/214
+2026-08-05	https://www.mcss.co.kr/shop_view/213
+2026-08-05	https://www.mcss.co.kr/shop_view/212
+2026-08-05	https://www.mcss.co.kr/shop_view/211
+2026-08-05	https://www.mcss.co.kr/shop_view/210
+2026-02-05	https://www.mcss.co.kr/shop_view/194
+2026-02-05	https://www.mcss.co.kr/shop_view/195
+2026-02-05	https://www.mcss.co.kr/shop_view/196
+2026-02-05	https://www.mcss.co.kr/shop_view/207
+2026-02-05	https://www.mcss.co.kr/shop_view/174
+2026-02-05	https://www.mcss.co.kr/shop_view/175
+2026-02-05	https://www.mcss.co.kr/shop_view/173
+2026-02-05	https://www.mcss.co.kr/shop_view/172
+2026-02-05	https://www.mcss.co.kr/shop_view/199
+2026-02-05	https://www.mcss.co.kr/shop_view/208
+2026-02-05	https://www.mcss.co.kr/shop_view/209
+2026-02-05	https://www.mcss.co.kr/shop_view/179
+2026-02-05	https://www.mcss.co.kr/shop_view/180
+2026-02-05	https://www.mcss.co.kr/shop_view/206
+2026-01-23	https://www.mcss.co.kr/shop_view/193
+2026-01-23	https://www.mcss.co.kr/shop_view/200
+2026-01-23	https://www.mcss.co.kr/shop_view/201
+2026-01-23	https://www.mcss.co.kr/shop_view/202
+2026-01-23	https://www.mcss.co.kr/shop_view/203
+2026-01-23	https://www.mcss.co.kr/shop_view/204
+2026-01-23	https://www.mcss.co.kr/shop_view/205
+2025-10-28	https://www.mcss.co.kr/shop_view/178
+2025-10-28	https://www.mcss.co.kr/shop_view/177
+2025-10-28	https://www.mcss.co.kr/shop_view/176
+2025-10-14	https://www.mcss.co.kr/shop_view/192
+2025-10-14	https://www.mcss.co.kr/shop_view/190
+2025-10-14	https://www.mcss.co.kr/shop_view/189
+2025-10-14	https://www.mcss.co.kr/shop_view/187
+2025-10-14	https://www.mcss.co.kr/shop_view/186
+2025-10-14	https://www.mcss.co.kr/shop_view/184
+2025-10-14	https://www.mcss.co.kr/shop_view/183
+2025-10-14	https://www.mcss.co.kr/shop_view/182
+2025-10-14	https://www.mcss.co.kr/shop_view/181
+2025-06-05	https://www.mcss.co.kr/shop_view/132
+2025-06-05	https://www.mcss.co.kr/shop_view/133
+2025-06-05	https://www.mcss.co.kr/shop_view/134
+2025-05-15	https://www.mcss.co.kr/shop_view/155
+2025-05-15	https://www.mcss.co.kr/shop_view/156
+2025-05-15	https://www.mcss.co.kr/shop_view/157
+2025-05-15	https://www.mcss.co.kr/shop_view/158
+2025-05-15	https://www.mcss.co.kr/shop_view/159
+2025-05-15	https://www.mcss.co.kr/shop_view/160
+2025-05-15	https://www.mcss.co.kr/shop_view/161
+2025-05-15	https://www.mcss.co.kr/shop_view/162
+2025-05-15	https://www.mcss.co.kr/shop_view/163
+2025-05-15	https://www.mcss.co.kr/shop_view/164
+2025-05-15	https://www.mcss.co.kr/shop_view/165
+2025-05-15	https://www.mcss.co.kr/shop_view/166
+2025-05-15	https://www.mcss.co.kr/shop_view/167
+2025-05-15	https://www.mcss.co.kr/shop_view/168
+2025-05-15	https://www.mcss.co.kr/shop_view/169
+2025-05-15	https://www.mcss.co.kr/shop_view/170
+2025-05-15	https://www.mcss.co.kr/shop_view/171
+2025-01-10	https://www.mcss.co.kr/shop_view/73
+2025-01-07	https://www.mcss.co.kr/shop_view/113
+2025-01-07	https://www.mcss.co.kr/shop_view/112
+2025-01-07	https://www.mcss.co.kr/shop_view/111
+2025-01-07	https://www.mcss.co.kr/shop_view/110
+2025-01-07	https://www.mcss.co.kr/shop_view/105
+2025-01-07	https://www.mcss.co.kr/shop_view/109
+2025-01-07	https://www.mcss.co.kr/shop_view/108
+2025-01-07	https://www.mcss.co.kr/shop_view/107
+2025-01-07	https://www.mcss.co.kr/shop_view/106
+2025-01-07	https://www.mcss.co.kr/shop_view/104
+2025-01-07	https://www.mcss.co.kr/shop_view/101
+2025-01-07	https://www.m

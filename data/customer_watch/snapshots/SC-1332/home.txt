@@ -1,18 +1,18 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -31,15 +31,15 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -301,7 +301,7 @@ Ubiquiti UISP Wired 5 products
 Ubiquiti UISP Wave 60GHz 7 products
 Ubiquiti UISP Fibre 11 products
 Ubiquiti PoE injectors 6 products
-Ubiquiti Accessories 2 products
+Ubiquiti Accessories 1 products
 Shop All Ubiquiti Products
 Screwdrivers & Tool Sets 7 products
 Ratchet Sets 3 products
@@ -323,7 +323,7 @@ UltraLAN Outdoor Ethernet Cabling 6 products
 UltraLAN Passive PoE Injector Strips 6 products
 UltraLAN PoE Extender Switches 3 products
 UltraLAN PoE Injectors 4 products
-UltraLAN PoE Splitters 6 products
+UltraLAN PoE Splitters 7 products
 UltraLAN Power Cables 0 products
 UltraLAN Power Extension Cords 6 products
 UltraLAN Power Supplies 3 products

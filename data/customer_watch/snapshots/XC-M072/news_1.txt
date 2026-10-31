@@ -1,0 +1,198 @@
+# XC-M072 КОМИКОН ООД（Comicon Ltd.） · news_1 · https://comicon.bg/en/table/новини/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+Новини | Table
+Sidebar
+×
+HOME About us Виртуален тур
+Partners
+Our customers
+Contact us
+PRODUCTS LoRa wireless transfer of analog and discrete industrial signals
+Wireless industrial communication under standard IEEE 802.15.4 ZSerial industrial radiomodem 2.4 GHz for RS232/ 485/ 422
+ZPIOМ modular devices for wireless transfer of analogue, digital and serial signals
+ZCIO - custom-built controllers with Modbus communication
+ZMIO - Wireless Modbus I/O
+Wireless measurement of molten metal temperature
+RTDtoMQTT IIoT трансмитер за измерване на температура
+EnMGW EnOcean Modbus gateway
+Converters for serial interfaces RS232, RS485, RS485F, RS422, current loop ISO485DR-B industrial interface converter RS232 – RS485/422
+ISORS 422-C industrial interface converter RS232-RS485/422
+ISORSCL-XX-2 interface converter RS232/current loop
+ISORS232-1x4-B* industrial interface converter RS232-4хRS232
+REP485DR-B - industrial interface repeater RS485
+REP485DR-D - industrial interface repeater RS485/RS422
+Discontinued products
+SERVICES R&D 4F - Flying Forest Fires Fighting solution
+Information system for early detection of forest fires
+LoRa® повторител на унифицирани сигнали с управление на избора на канал
+EnOcean ZigBee Modbus TCP gateway
+Irrigation controller and soil moisture sensor
+Проект по процедура BG16RFPR001-1.001
+Engineering
+Energy monitoring and management
+Control and monitoring of remote objects
+Building management systems
+Videowall systems
+PARTNER PRODUCTS Products for industrial communication from HMS Industrial Networks ANYBUS - communication with any fieldbus or industrial Ethernet network Anybus embedded network interfaces
+Anybus wireless & infrastructure products Anybus® Wireless Bolt™
+Anybus gateways & protocol converters Anybus® communicator
+Anybus industrial network security products
+EWON - remote solutions for industrial applications Remote access gateways
+Remote data gateways
+Industrial cloud
+Data visualisation
+IXXAT - connectivity solutions
+Intesis - building automation and HVAC control Intesis network gateways
+Intesis HVAC gateways
+N-Tron Ethernet Switches
+Red Lion controllers, HMIs, Panel meters for critical applications
+Det-tronics Flame detectors
+Gas detectors
+Certified systems
+Huggenberger
+Dryad-детекция на горски пожари
+БЛОГ
+Comicon
+Search ...
+HOME
+About us
+Виртуален тур
+Partners
+Our customers
+Contact us
+PRODUCTS
+LoRa wireless transfer of analog and discrete industrial signals
+Wireless industrial communication under standard IEEE 802.15.4
+ZSerial industrial radiomodem 2.4 GHz for RS232/ 485/ 422
+ZPIOМ modular devices for wireless transfer of analogue, digital and serial signals
+ZCIO - custom-built controllers with Modbus communication
+ZMIO - Wireless Modbus I/O
+Wireless measurement of molten metal temperature
+RTDtoMQTT IIoT трансмитер за измерване на температура
+EnMGW EnOcean Modbus gateway
+Converters for serial interfaces RS232, RS485, RS485F, RS422, current loop
+ISO485DR-B industrial interface converter RS232 – RS485/422
+ISORS 422-C industrial interface converter RS232-RS485/422
+ISORSCL-XX-2 interface converter RS232/current loop
+ISORS232-1x4-B* industrial interface converter RS232-4хRS232
+REP485DR-B - industrial interface repeater RS485
+REP485DR-D - industrial interface repeater RS485/RS422
+Discontinued products
+SERVICES
+R&D
+4F - Flying Forest Fires Fighting solution
+Information system for early detection of forest fires
+LoRa® повторител на унифицирани сигнали с управление на избора на канал
+EnOcean ZigBee Modbus TCP gateway
+Irrigation controller and soil moisture sensor
+Проект по процедура BG16RFPR001-1.001
+Engineering
+Energy monitoring and management
+Control and monitoring of remote objects
+Building management systems
+Videowall systems
+PARTNER PRODUCTS
+Products for industrial communication from HMS Industrial Networks
+ANYBUS - communication with any fieldbus or industrial Ethernet network
+Anybus embedded network interfaces
+Anybus wireless & infrastructure products
+Anybus® Wireless Bolt™
+Anybus gateways & protocol converters
+Anybus® communicator
+Anybus industrial network security products
+EWON - remote solutions for industrial applications
+Remote access gateways
+Remote data gateways
+Industrial cloud
+Data visualisation
+IXXAT - connectivity solutions
+Intesis - building automation and HVAC control
+Intesis network gateways
+Intesis HVAC gateways
+N-Tron Ethernet Switches
+Red Lion controllers, HMIs, Panel meters for critical applications
+Det-tronics
+Flame detectors
+Gas detectors
+Certified systems
+Huggenberger
+Dryad-детекция на горски пожари
+БЛОГ
+News
+Безжичен сензор с изкуствен интелект за ранно откриване на горски пожари
+Print
+Email
+Резултати от работата по проект “Разработване на иновации в "КОМИКОН" ООД” с финансовата подкрепа на Европейски съюз, договор № BG16RFPR001-1.001-0238-C01, процедура BG16RFPR001-1.001 „Разработване на иновации в предприятията“, програма "Конкурентоспособност и иновации в предприятията" 2021-2027.
+Горските пожари са навсякъде в новините през последните години, независимо дали става дума за България, Европа или други територии. За 1 година горските пожари са причина за милиарди тонове емисии на CO2 и токсични газове, материални щети за стотици милиарди евро, милиони хектари опустошени територии, милиарди унищожени животни, човешки жертви. Климатичната криза предизвиква значително увеличение на честотата на горските пожари, с всички тежки последици от това.
+Ето защо ние от „Комикон“ ООД, опирайки се на натрупания ни опит, решихме да създадем многофункционален сензор за инсталиране в гората, който да помогне за ултраранното откриване на пожара, така че пожарникарите да имат време да потушат огъня преди неговото неконтролируемо разпространение, а също и да дава информация за повишен риск от възникване на пожар в конкретен район. Надяваме се така да дадем своя малък дял в борбата с природните стихии и климатичните промени.
+Разработката беше осъществена с финансовата подкрепа на Европейския съюз, процедура BG16RFPR001-1.001 „Разработване на иновации в предприятията“, програма „Конкурентоспособност и иновации в предприятията“ 2021 – 2027.
+Основната цел на проекта ни е създаване на прототип на интелигентен IoT сензор за ранно откриване и прогнозиране на горски пожари, с вграден AI, за инсталиране в гора или друга местност. За постигане на тази цел екипът ни работи в следните направления: сензори, свързани с прогнозиране и ранно откриване на горски пожари; комуникационна свързаност, оптимизирана за работа в горска среда, характеризираща се със сериозни препятствия за разпространение на радиовълните; оптимизиране на енергийния разход; пригодност на сензора за инсталация на дървета, пилони, стени, за целогодишна работа при сурови метеорологични условия, слънчева радиация, високи и ниски температури, дъжд и сняг и променливо атмосферно налягане.
+Резултатът от проекта е прототип на мултифункционален сензор за ранно откриване и прогнозиране на пожари в гори, ливади, пасища, ниви, манастири, туристически места, електропроводи, тръбопроводи, пътища и други.
+Сензорът измерва ЛОС (летливи органични съединения), температура и относителна влажност на въздуха, атмосферно налягане, както и инфрачервеното излъчване в специфичен диапазон от спектъра при горене на горска растителност в най-ранната фаза на пожара.
+Автономното захранване на устройството се осигурява от малък соларен панел с размери 80х100 mm. Енергията се съхранява в суперкондензатори и е достатъчна да поддържа целогодишната работа на сензора, включително и в периодите с най-малко слънчева светлина. Сензорът е проектиран за непрекъсната работа 10-15 години. Не се използват батерии или други елементи съдържащи опасни за природата вещества.
+Режимът на работа на сензора може да се следи чрез интерфейсен светодиод и да се управлява локално чрез докосване с магнит или дистанционно чрез специализиран софтуер.
+Сензорът се монтира на дърво, стена или на пилон. За целта са осигурени подходящи монтажни адаптери.
+Известно е, че горските пожари се развиват в три фази:
+– първа фаза – тлеене: това е времето до първия час от развитието на пожара. Пламъкът не се е разпространил в степен, че да може да бъде открит от разстояние повече от 100 метра. Отделените димни газове могат да се усетят и наблюдават само локално.
+– втора фаза – открит огън: обхваща времето след първия до третия час от развитието на пожара. В тази фаза температурното излъчване може да бъде регистрирано на разстояние от няколко километра.
+– трета фаза – мащабно разпространение: обхваща времето след третия до шестия час от развитието на горския пожар, температурното излъчване може да бъде регистрирано на разстояние от десетки километри.
+Финансовите загуби от щетите, нанесени на природата, и разходите за гасене нарастват експоненциално с времето на развитие на горския пожар. Ако в първа фаза те са стотици и хиляди евро, то в трета фаза достигат десетки и стотици хиляди евро и повече.
+Времето за реакция от страна на пожарникарите след възникването на пожара е изключително важно – ако горският пожар бъде разкрит в рамките на 30 минути след възникването му, щетите са минимални.
+Само сензорните системи могат да открият пожар между 1-вата и 60-тата минута след възникването му.
+С помощта на вграден изкуствен интелект (EDGE AI) в сензора се анализират измерванията на ЛОС и се разкрива прецизно наличие на дим от запалена горска растителност. Моделът е обучен да разпознава най-добре газовете, отделяни от характерната за определен терен растителност, например – широколистни храсти, мъртва постилка от иглолистна гора (иглички и шишарки), трева и други.
+Също така чрез EDGE AI се анализира IR излъчването в диапазона от 4.34 μm до 4.76 μm. Моделът е обучен да разпознава излъчването, предизвикано от горене на горска растителност в най-ранната фаза на пожара.
+Освен това устройството измерва периодично температура и влажност на въздуха и на базата на тези измервания в определен часови интервал (в реално време) изчислява локално индекс на риска от възникване на пожар.
+Сензорите се разполагат на терена в мрежа (препоръчително на разстояние 100 м) и предават данни към стандартен гейтуей посредством LoRaWAN безжична комуникационна мрежа на разстояние до 2 – 3 километра. Антената на сензора е вградена в неговата кутия със степен на защита IP67. Данните се предават към MQTT broker и са достъпни за интеграция в различни платформи.
+Тук можете да видите показанията на сензорите, инсталирани в релевантна среда.
+Резултатите от проекта ще бъдат представени в рамките на онлайн конференция на 16.09.2026 година, от часа.
+Поканени са всички заинтересовани от проекта.
+Моля при интерес към събитието да се регистрирате на линк https://luma.com/cyyvsoaf или да се свържете с екипа по проекта на тел. 0888 983188, email: This email address is being protected from spambots. You need JavaScript enabled to view it. , web:comicon.bg.
+SILVANET - DRYAD's solution for early detection of forest fires
+Print
+Email
+Comicon has become a partner for Bulgaria of the German company Dryad Networks .
+Dryad provides ultra-early wildfire detection and autonomous drone solutions protecting public and private forests.
+Silvanet Wildfire Sensors detect fires within minutes from ignition enabling fire fighters to extinguish fires before they spread out of control. Dryad's AI-powered gas sensors utilize their unique large-scale mesh network to connect in remote areas.
+The Silvanet suite provides a complete, end-to-end solution of sensors, network and cloud platform to deploy and operate large-scale sensor networks for ultra-early detection of wildfires.
+WILDFIRE SENSOR
+Solar-powered sensors with embedded AI deliver ultra-early wildfire detection by analyzing gases and environmental conditions.
+Their lightweight, weatherproof design ensures reliable operation in remote forests, creating a resilient IoT mesh network via LoRaWAN.
+By enabling faster response times and proactive forest management, they help protect forests and reduce wildfire impacts.
+MESH GATEWAY
+Scalable, distributed LoRaWAN gateways enable integration with various compliant sensors for advanced monitoring.
+Supports large-scale, multi-party sensor networks tailored to diverse forest environments.
+Optimized for dense sensor deployments, ensuring seamless communication across challenging terrains.
+BORDER GATEWAY
+Enables 24/7 communication with the Cloud Platform for continuous wildfire detection and forest health monitoring.
+Connectivity via LTE radio (LTE-M/NB-IoT with 2G fallback), Ethernet, or satellite (Europe and North America).
+Powered by mains or solar panels for reliable operation in remote areas.
+CLOUD PLATFORM
+Cloud-based platform delivers powerful tools for real-time wildfire detection, analytics, and forest monitoring.
+Enables optimal deployment planning, multi-site management, and risk assessment with a user-friendly interface.
+Supports advanced analytics and visualizations for proactive decision-making and risk mitigation.
+USE CASES
+Dryad's technology offers a wide range of use cases and delivers significant value across various sectors:
+- government public sector municipalities
+- firefighting disaster response
+- utility and grid rail infrastructure, etc.
+More about Dryad and their solution: https://www.dryad.net .
+OCPP към Modbus TCP&RTU Intesis гейтуей
+Print
+Email
+Инфраструктурата за зареждане на електрически превозни средства се разраства бързо, но ефективното ѝ управление остава предизвикателство.Проблеми носят ограничения брой точки за зареждане, дългото време на изчакване, съвместимостта между различното оборудване, наличието на фрагментирани системи, ограничената видимост и липсата на интеграция между зарядните станции и системите за енергиен мениджмънт в сградите.
+За сгради със зарядни станции за електромобили и системи за сградно управление (BMS) или системи за управление на енергията в сградите (BEMS) може да е практично решение двете мрежи да бъдат свързани, тоест да се интегрира станцията за зареждане в BMS/ BEMS. Тъй като зарядната станция е свързана към електропреносната мрежа на сградата, наличието на оперативна съвместимост между двете системи предоставя на собствениците на сградата по-задълбочен контрол върху всяка операция по зареждане, например чрез ограничаване на количеството енергия в зависимост от деня и наличната енергия в сградата.
+Освен това, BMS получава данни от OCPP оборудването, като графици за зареждане, времена за зареждане, брой и продължителността на сесиите на зареждане и др.
+Intesis разработи OCPP към Modbus гейтуей , който позволява интегрирането на OCPP-съвместими зарядни станции в Modbus-базирани BMS. Гейтуеят управлява Modbus TCP и Modbus RTU, може и двете едновременно, и е съвместим с OCPP версия 1.6 , която е най- разпространената, обширно тествана, стабилна и сертифицирана. Този гейтуей поддържа най-значимите функции на OCPP, две от които са особено важни:
+• Интелигентно зареждане, позволяващо балансиране на натоварването и използване на профили за зареждане, като се осигурява ефективно управление и оптимално използване на инфраструктурата за зареждане.
+Read more ...
+600,000+ Ewon gateways connected globally
+Print
+Email
+600,000+ gateways connected globally — Because reliability matters!
+A powerful proof of Ewon's security and reliability. Ewon solutions empower machine builders and industrial teams to monitor equipment, support customers, and optimize operation — from anywhere.
+For over 20 years, Ewon has empowered industries with trusted remote connectivity and IIoT solutions. Today, Ewon brand evolves — bringing innovation, security, and simplicity to every connection.
+Read more ...
+Intesis KNX Data Secure IR Gateway for Air Conditioning Integration
+Print
+Email
+In today’s building automation market, secure AC integration is not just an option - it’s a necessity. Intesis launched INKNXUNI001I200 , the ﬁrst KNX Data Secure - certiﬁed universal IR gateway designed to bring any infrared-controlled air conditioning unit into a KNX system with bidirectional communication.
+Why is it important to have options for a secure AC

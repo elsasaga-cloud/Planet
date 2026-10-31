@@ -1,0 +1,141 @@
+# SB-834 eneo-security.com · news_2 · https://eneo-security.com/de/referenzen/ki-basierte-videosicherheit-im-showroom · fetched 2026-10-31T08:34:28Z · HTTP 200
+KI-basierte Videosicherheit im Autohaus
+Direkt zum Inhalt
+Site Suche
+{
+const searchInput = document.querySelector('#search');
+searchInput.focus();
+searchInput.select();
+});
+">
+Suchen
+Vergleichen
+0) }">
+Artikel
+1" class="sr-only">
+Artikel
+Deutsch
+English
+Menü
+Produkte
+Alle ansehen
+Kameras
+Alle ansehen
+IP
+COAXIZE
+Kamera Zubehör
+Rekorder
+Alle ansehen
+IP
+COAXIZE / Hybrid
+Rekorder Zubehör
+Monitore
+Alle ansehen
+Bis 22"
+23" bis 39"
+Ab 40"
+Monitor Zubehör
+Netzwerk Komponenten
+Alle ansehen
+Switche
+Medienkonverter
+Netzwerk Zubehör
+System Zubehör
+Alle ansehen
+Objektive
+Gehäuse
+Software
+Alle ansehen
+Verwaltungssoftware
+Support
+Alle ansehen
+Abgekündigte Produkte
+IN-Serie
+Über eneo
+Lösungen
+Termine
+News
+eneo Partner
+Deutsch
+English
+Schliessen
+Produkte
+Kameras
+IP
+COAXIZE
+Kamera Zubehör
+Rekorder
+IP
+COAXIZE / Hybrid
+Rekorder Zubehör
+Monitore
+Bis 22"
+23" bis 39"
+Ab 40"
+Monitor Zubehör
+Netzwerk Komponenten
+Switche
+Medienkonverter
+Netzwerk Zubehör
+System Zubehör
+Objektive
+Gehäuse
+Software
+Verwaltungssoftware
+Support
+Abgekündigte Produkte
+IN-Serie
+Über eneo
+Lösungen
+Termine
+News
+eneo Partner
+Startseite
+/
+KI-basierte Videosicherheit im Showroom
+KI-basierte Videosicherheit im Genesis Showroom
+Für die Sicherheit des exklusiven Showrooms der südkoreanischen Premium Automarke sorgen
+KI-Kameras der eneo IN-Serie
+Genesis vereint Form und Inhalt auf höchstem Niveau. Nicht nur bei den Luxuslimousinen und SUVs der südkoreanischen Premium-Automarke, sondern auch beim Kundenservice. Gemäß der koreanischen Tradition des „son-nim“ betrachtet Genesis Kunden als Gäste, denen höchste Aufmerksamkeit und Wertschätzung gebührt. Statt klassischer Verkäufer unterstützen Personal Assistants die Kunden in allen Belangen. Und zwar fünf Jahre lang. Diese Assistenten übernehmen Services wie Wartungen oder Reparaturen, inklusive Fahrzeugabholung und Bereitstellung eines Ersatzwagens. Wer die beispiellose Servicementalität selbst erleben möchte, kann sich mit dem Modell seiner Wahl von zu Hause zu einer Probefahrt abholen lassen. Oder besucht das Genesis Studio in der Frankfurter Innenstadt.
+Diskrete Videoüberwachung
+Was Besucherinnen und Besucher des Studios dagegen mit Sicherheit nicht bemerken werden, ist das eneo System, das im Hintergrund zur Sicherheit von Besuchern, Mitarbeitern und ausgestellten Fahrzeugen beiträgt. Installation und Inbetriebnahme des Systems lag in den Händen des Stuttgarter Systemhauses mevis.tv und der Digicom informationstechnologie aus Göppingen. Beide Unternehmen haben gemeinsam bereits viele Projekte realisiert. Tamer Vural von Digicom über die eneo Lösung: „Wir haben unserem Kunden die eneo IN-Kameras empfohlen, weil sie ideal für diskrete Videosicherheitslösungen sind, vor allem der kompakte Flatdome. Diese Kameras haben den Vorteil, dass sie sehr leistungsfähig sind und kaum auffallen. Und durch die mattschwarze Sonderlackierung, die wir bei VIDEOR in Auftrag gegeben hatten, fügen sie sich optimal in das Studio-Design ein. Ein weiterer Pluspunkt ist die Möglichkeit, das System bequem über eneo INsight mobile per Smartphone oder Tablet zu steuern. Wir finden, ein schlankes System, das ohne PC-Client und Monitor auskommt, passt perfekt zum puristischen Design des Studios. Für eneo sprachen außerdem die sehr guten Erfahrungen, die wir immer mit dem Vorkonfigurations-Service von VIDEOR gemacht haben. Es erleichtert das Arbeiten ungemein, wenn die Festplatten bereits eingebaut und die Kameras eingebunden sind, wenn also geprüfte, montagefertige Systemkomponenten beim Kunden angeliefert werden. Vor allem, wenn ein enger Zeitplan einzuhalten ist.“
+eneo IND-42M2808M0A
+Artikelnummer: 233796
+Produkt vergleichen
+Produkt anzeigen
+eneo INR-28N080005A
+Artikelnummer: 234749
+Produkt vergleichen
+Produkt anzeigen
+eneo INsight mobile
+Artikelnummer: 234990
+Produkt vergleichen
+Produkt anzeigen
+Mehr als bloß Videosicherheit
+Im Genesis Studio Frankfurt sind fünf eneo IN-Kameras installiert, darunter vier Flatdome Kameras vom Typ IND-45F0028M0A für die Ausstellungsfläche. Diese liefern hochauflösende Videos mit bis zu 5 Megapixeln und sind mit KI-Videoanalysefunktionen ausgestattet, um Sicherheitsrisiken frühzeitig zu erkennen. Zusätzlich bieten sie Retail-Intelligence-Features wie Personenzählung und Heat Maps, um das Kundenverhalten besser zu verstehen. Ein Mini-Dome vom Typ IND-42M2808M0A am hinteren Ausgang ermöglicht eine KI-basierte Übergangszählung, die den Store-Managern genaue Besucherzahlen liefert und zu einem tieferen Verständnis des Kundenverhaltens beitragen können. Diese fortschrittliche Videosicherheitstechnik schafft nicht nur ein sicheres Umfeld für Kunden und Mitarbeiter, sondern unterstützt auch das Management bei strategischen Entscheidungen zur Optimierung des Kundenerlebnisses und zur Steigerung der Effizienz.
+Schlank, leistungsstark, anwenderfreundlich
+Die Überwachungskameras werden durch einen Netzwerkrekorder aus der IN-Serie mit voller KI-Videoanalyse-Unterstützung verwaltet. Dieser ermöglicht Aufnahmen mit bis zu 8 Megapixeln auf allen IP-Kanälen und verschiedene Wiedergabemodi, um eine umfassende Videoüberwachung zu ermöglichen. Die Systemverwaltung erfolgt jedoch primär über die eneo INsight mobile App , die den Store-Managern auf ihren Smartphones oder Tablets einen Rundum-Überblick über das Studio bietet, inklusive Push-Benachrichtigungen bei Alarmen. Die Videoüberwachungs App unterstützt Vollbild- und Split-Screen-Ansichten sowie interaktive Funktionen wie bidirektionale Audioübertragung und das Aktivieren von Alarmen. Zusätzlich bietet eneo INsight mobile umfangreiche Möglichkeiten zur KI-Ereignisrecherche und benutzerfreundliche Filterfunktionen für effizientes Systemmanagement.
+Verpassen Sie keine Neuigkeiten mehr! Melden Sie sich für unseren Newsletter an, um über Produktneuheiten und Entwicklungen von eneo informiert zu bleiben.
+Jetzt anmelden!
+Kontakt
+CRA Sicherheitslücke melden
+Vertriebsanfrage
+Beratungsanfrage
+Reparaturanfrage
+Über eneo
+Newsletter abonnieren
+Sicherheit ist unsere Leidenschaft
+eneo Faktenindex
+Referenzen
+Genesis Showroom Frankfurt
+BabyOne Insernhagen
+Hilton Frankfurt
+hawo Shops & Lager
+Dreifach geprüfte Qualität.
+Drei Jahre Garantie.
+Impressum
+Datenschutz
+Haftungsausschluss
+Lizenzinformation
+Cookie Settings
+© VIDEOR E. Hartig GmbH

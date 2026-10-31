@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,12 +40,12 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2733)
-Wszystkie 2733
+Urządzenia (2736)
+Wszystkie 2736
 Switche 1015
 Access Pointy 187
-Routery WiFi 389
-Routery zaawansowane 107
+Routery WiFi 391
+Routery zaawansowane 108
 Routery LTE/5G 216
 Adaptery PowerLine 21
 Urządzenia klienckie CPE 78
@@ -61,15 +61,15 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5058)
-Wszystkie 5058
+Światłowody (5063)
+Wszystkie 5063
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
-Kable światłowodowe 1023
-Patchcordy światłowodowe 1328
+Kable światłowodowe 1024
+Patchcordy światłowodowe 1330
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 358
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 359
 Adaptery światłowodowe 127
-Budowa sieci optotelekomunikacyjnej 353
+Budowa sieci optotelekomunikacyjnej 354
 Spawarki światłowodowe i akcesoria 50
 Urządzenia diagnostyczne 158
 Mediakonwertery 90
@@ -87,51 +87,51 @@ GPON/GEPON 173
 CWDM Mux/Demux 9
 Szybkozłączki, spawy mechaniczne, złącza światłowodowe 62
 Stojaki kablowe 16
-Monitoring (2600)
-Wszystkie 2600
+Monitoring (2606)
+Wszystkie 2606
 Systemy IP 999
 Systemy HD-TVI 115
 Systemy hybrydowe 242
 Zestawy do monitoringu 11
-Switche POE 142
-Zasilanie CCTV 313
+Switche POE 146
+Zasilanie CCTV 314
 Dyski twarde do CCTV 20
 Zabezpieczenia CCTV 237
 Obudowy i puszki CCTV 110
 Szafy RACK 135
 Transformatory video 9
-Uchwyty i adaptery dla kamer 57
+Uchwyty i adaptery dla kamer 58
 Zestawy do transmisji radiowej 7
 Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4948)
-Wszystkie 4948
+LAN (4958)
+Wszystkie 4958
 Kable LAN 403
 Patchcordy RJ45 1868
 Szafy RACK 892
-Akcesoria do szaf RACK 886
-Moduły keystone 232
-Gniazda i wtyki 293
-Organizacja kabli 95
+Akcesoria do szaf RACK 891
+Moduły keystone 235
+Gniazda i wtyki 294
+Organizacja kabli 96
 Testery LAN 95
 Zaciskarki RJ, narzędzia, strippery 91
 System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2248)
-Wszystkie 2248
+Zasilanie (2254)
+Wszystkie 2254
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
-Zasilacze impulsowe 515
+Zasilacze impulsowe 519
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158
-Kable zasilające 79
-Listwy zasilające i przedłużacze 393
+Kable zasilające 80
+Listwy zasilające i przedłużacze 394
 Battery packi do UPS 65
 Akcesoria do UPS 49
 Siłownie telekomunikacyjne 2
@@ -225,15 +225,15 @@ Instalacje elektryczne (11)
 Wszystkie 11
 Produkty ergonomiczne (15)
 Wszystkie 15
-Akcesoria IT (1866)
-Wszystkie 1866
+Akcesoria IT (1877)
+Wszystkie 1877
 Stacje dokujące do dysków 6
 Kable i adaptery szeregowe oraz równoległe 23
 Konsole KVM 193
 Przełączniki KVM, USB 46
 Stacje dokujące do laptopów 15
 Adaptery USB 48
-Kable i adaptery HDMI, Display Port 260
+Kable i adaptery HDMI, Display Port 271
 Kable i adaptery audio 109
 Czytniki kart pamięci 15
 Słuchawki 71
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Mean Well HLG-185H-24B zasilacz LED 24 V 187,2 W IP67
-227.84 zł netto
+Mean Well HLG-240H-24B zasilacz LED 24 V 240 W 10 A z regulacją ściemniania
+284.3 zł netto
 Do koszyka
-Mean Well HLG-185H-12A zasilacz LED 12 V 13 A 156 W IP65
-222.89 zł netto
+Mean Well HLG-240H-24 zasilacz LED 24 V 240 W 10 A
+255.27 zł netto
 Do koszyka
-Dystans do stelaża 15 cm z poprzeczkami, stal ocynkowana ogniowo
-24.65 zł netto
+Mean Well HLG-240H-12B zasilacz LED 12 V 16 A 192 W
+284.3 zł netto
 Do koszyka
-Hikvision DS-2CD2143G2-LIPTRZS2UY(2.8/4mm) – biała kamera IP kopułkowa 4 MP PTRZ
-745.48 zł netto
+Mean Well HLG-240H-12A zasilacz LED 12 V 192 W 16 A IP65
+276.38 zł netto
 Do koszyka
-Hikvision DS-2CD2143G2-LIPTRZS2UY(2.8/4)O-STDBLACK – czarna kamera IP kopułkowa 4 MP PTRZ
-781.9 zł netto
+Hikvision DS-2CD2363G2-LI2U/SL kamera IP 6 MP AcuSense z alarmem
+746.5 zł netto
 Do koszyka
-Hikvision DS-2CD2143G2-LIS2U(2.8MM) – kamera IP 4 MP AcuSense
-677.82 zł netto
+Hikvision DS-2CD2363G2-LI2U(2.8MM)(BLACK) kamera IP kopułkowa 6 MP
+701.22 zł netto
 Do koszyka
-Hikvision DS-2CD2143G2-LIS2U(2.8mm)(BLACK) – kamera IP 4 MP AcuSense
-721.02 zł netto
+Hikvision DS-2CD2363G2-LI2U(2.8mm) kamera IP kopułkowa 6 MP
+665.08 zł netto
 Do koszyka
-Hikvision DS-2CD2083G2-LI2U/SL 2.8mm BLACK PL – kamera IP 8 MP
-972.07 zł netto
+Hikvision DS-2CD2343G2D-LIZ2UY/SL(2.8/4)BLACK – kamera IP 4 MP z podwójnym obiektywem
+1763.75 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

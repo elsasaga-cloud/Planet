@@ -1,0 +1,185 @@
+# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+Blog | Varel Alarm
+Kurumsal expand_more
+Hakkımızda
+Misyon & Vizyon
+Sertifikalar
+İş Ortakları
+Kariyer
+Çözümlerimiz expand_more
+Yangın Algılama Sistemleri
+Acil Anons ve Seslendirme Sistemleri
+CCTV Kamera Sistemleri
+Kartlı Geçiş Sistemleri
+Gaz Algılama Sistemleri
+Entegrasyon Sistemleri
+Fiber Optik Çözümleri
+Hizmetlerimiz expand_more
+Tasarım
+Projelendirme
+Kurulum
+Servis
+Bakım
+Referanslar
+Blog
+İletişim
+tr expand_more
+🇹🇷 Türkçe
+🇬🇧 English
+🇳🇱 Nederlands
+inventory_2 Ürünlerimiz
+Teklif Al
+menu
+Kurumsal expand_more
+Hakkımızda
+Misyon & Vizyon
+Sertifikalar
+İş Ortakları
+Kariyer
+Çözümlerimiz expand_more
+Yangın Algılama Sistemleri
+Acil Anons ve Seslendirme Sistemleri
+CCTV Kamera Sistemleri
+Kartlı Geçiş Sistemleri
+Gaz Algılama Sistemleri
+Entegrasyon Sistemleri
+Fiber Optik Çözümleri
+Hizmetlerimiz expand_more
+Tasarım
+Projelendirme
+Kurulum
+Servis
+Bakım
+Referanslar
+Blog
+Dokümanlar
+İletişim
+🇹🇷 TR
+🇬🇧 EN
+🇳🇱 NL
+inventory_2
+Ürünlerimiz
+Teklif Al
+Ana Sayfa
+chevron_right
+Blog
+Güncel Bilgiler ve Sektörel İçerikler
+Blog bölümümüzde güvenlik teknolojileri, yangın algılama sistemleri ve elektronik güvenlik çözümleri ile ilgili güncel bilgiler, teknik içerikler ve sektörel gelişmeler paylaşılmaktadır.
+Yangın Güvenliği
+Yangın Algılama Sistemlerinde Adreslenebilir Teknoloji
+Adreslenebilir yangın algılama teknolojileri ile yangının tam konumunu hızlı şekilde tespit edin.
+Devamını Oku arrow_forward
+CCTV Teknolojileri
+IP Tabanlı CCTV Sistemlerinde Video Analitik
+Modern IP tabanlı kamera sistemleri ile akıllı güvenlik fonksiyonları ve uzaktan erişim imkanı.
+Devamını Oku arrow_forward
+Entegrasyon
+Entegre Güvenlik Sistemlerinin Avantajları
+Farklı güvenlik sistemlerini tek bir yönetim platformunda birleştirmenin işletmelere sağladığı faydalar.
+Devamını Oku arrow_forward
+Gaz Algılama
+Endüstriyel Tesislerde Gaz Algılama Çözümleri
+Enerji santralleri ve üretim tesislerinde tehlikeli gaz sızıntılarının erken tespiti.
+Devamını Oku arrow_forward
+Acil Anons
+Acil Anons Sistemleri ile Güvenli Tahliye Yönetimi
+Büyük ölçekli yapılarda EN54 uyumlu acil anons ve seslendirme çözümleri.
+Devamını Oku arrow_forward
+News
+Endüstriyel Tesislerde Yangın Algılama Sistemi Seçerken Yapılan 7 Kritik Hata
+Endüstriyel tesislerde yangın algılama sistemi seçimi yalnızca yönetmelik uyumluluğu değil, operasyonel güvenlik açısından da kritik öneme sahiptir. Bu yazıda; yanlış dedektör seçimi, düşük maliyet odaklı yaklaşım, entegrasyon eksikliği, hatalı altyapı planlaması ve bakım süreçlerinin göz ardı edilmesi gibi en sık yapılan 7 kritik hata ele alınmaktadır. Ayrıca doğru mühendislik yaklaşımıyla yangın risklerinin nasıl minimize edilebileceği ve uzun vadeli güvenlik altyapısının nasıl kurulması gerektiği açıklanmaktadır.
+Devamını Oku arrow_forward
+News
+Siemens ASD+ FDA261/FDA262 — Büyük Projeler İçin Yeni Nesil Aspirasyonlu Duman Dedektörü
+Büyük alanlarda duman algılama, standart nokta dedektörlerinin fiziksel sınırlarına çarpar. Siemens ASD+ FDA261/FDA262, havayı aktif olarak emerek bu sorunu temelden çözer ve tek cihazla 6.700 m²'ye kadar kapsama sunar. Veri merkezleri, lojistik depolar ve endüstriyel tesisler başta olmak üzere zorlu ortamlar için tasarlanan bu sistem; dört farklı kapsama sınıfı, programlanabilir hassasiyet eşikleri ve Cerberus PRO ile doğrudan entegrasyonuyla proje karmaşıklığını ve kablolama maliyetini önemli ölçüde azaltır.
+Devamını Oku arrow_forward
+News
+Büyük ve Zorlu Alanlarda Maksimum Güvenlik: Yeni Nesil Siemens ASD+ Hava Emişli Duman Dedektörleri
+Devamını Oku arrow_forward
+News
+FC361-ZZ Yangın Alarm Paneli: Küçük ve Orta Ölçekli Tesisler İçin Güvenilir Yangın Algılama Çözümü
+Devamını Oku arrow_forward
+News
+Acil Anons Sistemlerinde Duyulabilirlik Yeterli Değil: Konuşma Anlaşılabilirliği Neden Ölçülmeli?
+Bir acil anons sistemi devreye alınır, bütün hoparlörler denenir, tutanak imzalanır. Yine de gerçek bir tahliyede kimse anonsta ne dendiğini anlamayabilir. Çünkü ölçülen şey yanlıştır: sistemin kriteri sesin duyulması değil, mesajın ortam gürültüsü altında anlaşılmasıdır. Bu yazıda konuşma anlaşılabilirliğinin STI ile nasıl ölçüldüğünü, yankı ve arka plan gürültüsü gibi dört temel bozucu etkeni, EN 54 çerçevesinin ne istediğini ve devreye almada neyin doğrulanması gerektiğini inceliyoruz. Akustik açıdan zorlu ortamlar için Siemens Novigo çözümüne de yer veriyoruz.
+Devamını Oku arrow_forward
+News
+EN 54-24 Sertifikalı Hoparlör Nedir, Acil Anons Projesinde Neden Zorunludur?
+Sesli tahliye sistemlerinde kontrol ekipmanı ve hat altyapısı titizlikle projelendirilirken hoparlör çoğu zaman yalnızca fiyat üzerinden seçilir. Bu yazıda EN 54 serisinin sesli tahliye zincirini nasıl kapsadığını, EN 54-24'ün hoparlörden hangi testleri istediğini ve Tip A ile Tip B arasındaki farkı ele alıyoruz. Yazının sonunda, projede hoparlör seçerken kullanabileceğiniz altı maddelik bir kontrol listesi yer alıyor.
+Devamını Oku arrow_forward
+News
+Acil Anons Sisteminde Güvenilirliğin Üç Şartı
+Acil anons ve sesli uyarı sistemleri, bir binada yangın veya acil durum anında insanların güvenli şekilde tahliye edilmesini sağlayan kritik sistemlerdir. Bu sistemlerin güvenilirliği; ses kalitesine, iletim gecikmesine ve hoparlör hatlarının sürekli izlenebilmesine doğrudan bağlıdır.
+Devamını Oku arrow_forward
+News
+Yangın Algılama Sistemini Durdurmadan Yenilemek
+Büyük bir üretim tesisinde, hastanede veya ofis kompleksinde yangın algılama sistemi ömrünü tamamladığında karar vericinin önüne genellikle tek bir seçenek konur: sistemi komple söküp yenisini kurmak. Bu da planlanmış bir duruş, geçici önlemler ve çoğu zaman tek kalemde taşınması zor bir yatırım demektir.
+Oysa modernizasyonun tek yolu bu değil. Siemens Cerberus PRO ailesinin modüler paneli FC726-ZA, tam olarak bu sorunu çözmek üzere tasarlanmıştır: eski sistemden yeni sisteme kademeli ve kesintisiz geçiş.
+Devamını Oku arrow_forward
+News
+Siemens Cerberus Nova Dedektörleri: Yanlış Alarmı Değil, Gerçek Yangını Algılayan Yeni Nesil
+Devamını Oku arrow_forward
+News
+Operasyonu Durdurmadan Yangın Dedektörü Testi: DFT ile Periyodik Test Nasıl Değişiyor?
+Bir yangın algılama sistemi, ancak dedektörleri gerçekten çalışıyorsa güvenlik sağlar. Bunu bilmenin yolu da düzenli testtir. Ancak sahada yangın dedektörü testi çoğu zaman teknik bir işlem olmaktan çıkıp bir operasyon planlamasına dönüşür: Ameliyathanenin boş olduğu saat beklenir, üretim hattının durduğu hafta sonu ayarlanır, atriumdaki dedektör için platform kiralanır, test edilen bölge için nöbet tutulur.
+Bu yazıda, periyodik dedektör testlerinin işletmeye maliyetini, geleneksel yöntemin sınırlarını ve Siemens Cerberus Nova dedektörlerindeki DFT (Disturbance-Free Testing) teknolojisinin bu süreci nasıl değiştirdiğini ele alıyoruz. Teknolojinin nerede fark yarattığını olduğu kadar, nerede tek başına yeterli olmadığını da açıkça belirtiyoruz.
+Devamını Oku arrow_forward
+News
+Kartınız Kaç Saniyede Kopyalanır? EM'den DESFire EV3'e Kart Güvenliği Seviyeleri
+125 kHz EM ve Hitag kartlar şifresizdir; ucuz bir okuyucu ile birkaç saniyede kopyalanabilir.
+13,56 MHz Mifare kart, okuyucu yalnızca seri numarasını okuyorsa aynı risk seviyesinde kalır.
+HID Prox ve Mifare Classic sektör okumasının bilinen açıkları yıllar önce kırılmıştır; yeni projelerde tercih edilmemelidir.
+DESFire EV2/EV3 uygulama okuması bugün erişilebilir en güvenli kart teknolojisidir.
+Okuyucu ile panel arasındaki Wiegand hattı şifresizdir; OSDPv2 bu hattı tamamen şifreler.
+CardAccess 4000 ile mevcut kartlarla başlayıp kademeli olarak DESFire ve OSDPv2'ye geçmek mümkündür.
+Devamını Oku arrow_forward
+News
+Tahliye Anında İçeride Kim Kaldı? Geçiş Kontrolüyle Gerçek Zamanlı Yoklama
+Yangın tahliyesinde içeride kalan kişileri kâğıt listeyle değil, geçiş kontrol kayıtlarıyla tespit edin. CardAccess 4000 ile bölge bazında otomatik yoklama listesi nasıl kurgulanır?
+Devamını Oku arrow_forward
+News
+Yanlış Alarmı Azaltmanın Yolu: Siemens Cerberus PRO OOHC740 Çok Kriterli Dedektör
+Duman, ısı ve CO algılamayı tek cihazda birleştiren Siemens OOHC740, zorlu ortamlarda daha erken algılama ve daha az yanlış alarm sağlar.
+Devamını Oku arrow_forward
+News
+Sunucu Çöktüğünde Kapılarınız Ne Yapar? Geçiş Kontrolünde Otonom Panel Mimarisi
+Geçiş kontrol sisteminiz sunucu veya ağ bağlantısını kaybettiğinde kapılar çalışmaya devam ediyor mu? CardAccess panellerinin otonom çalışma mimarisini ve doğru proje kurgusunu anlatıyoruz.
+Devamını Oku arrow_forward
+A member of
+VAG Group
+1990 yılından bu yana yangın algılama, CCTV, kartlı geçiş ve acil anons sistemlerinde uluslararası standartlarda güvenlik çözümleri sunan entegratör.
+mail
+Çözümlerimiz
+Yangın Algılama Sistemleri
+Acil Anons ve Seslendirme Sistemleri
+CCTV Kamera Sistemleri
+Kartlı Geçiş Sistemleri
+Gaz Algılama Sistemleri
+Entegrasyon Sistemleri
+Kurumsal
+Hakkımızda
+Misyon & Vizyon
+Sertifikalar
+İş Ortakları
+Kariyer
+İletişim
+phone_in_talk
++90 (216) 327 62 80
+fax
++90 (216) 327 62 83
+mail
+vag@varelalarm.com
+location_on
+E5 Karayolu Üstü Etap İş Merkezi
+A Blok Lavanta Sokak No:16
+Acıbadem – İstanbul / Türkiye
+Yetkili İş Ortaklıklarımız
+Varel Alarmgroep
+Siemens
+Solution Partner
+Building Technologies
+© 2026 Varel Alarm Sistemleri Tic. A.Ş. Tüm hakları saklıdır.
+Gizlilik Politikası
+Kullanım Koşulları
+Çerez Politikası
+keyboard_arrow_up

@@ -1,4 +1,4 @@
-# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 리버샵 - Rivershop
 {#item} {#html}
 {#item}
@@ -98,9 +98,6 @@ USB
 {#item} {#html}
 {#item_lazy} {#html}
 베스트 상품 이달의 인기상품을 확인해보세요!
-CAT5E UTP 인터넷선 이더넷 랜 케이블 랜선 공유기선 모뎀선
-상품요약정보 : 0.5M, 1M, 1.5M, 2M, 3M, 5M, 7M, 10M, 15M, 20M, 30M, 50M
-판매가 : 420원
 USB 2.0 A타입 to 마이크로 5핀 OTG 변환 젠더 Micro 5Pin
 판매가 : 680원
 넥시 USB2.0 to RS232 시리얼 케이블 콘솔 통신 PL2303 1M
@@ -109,6 +106,8 @@ USB 2.0 A타입 to 마이크로 5핀 OTG 변환 젠더 Micro 5Pin
 넥시 하이브리드 광 HDMI 케이블 V2.0 HD20AOC
 상품요약정보 : 10M, 15M, 20M, 30M, 50M, 70M, 100M
 판매가 : 23,000원
+넥시 4K HDMI 더미플러그 가상모니터 생성기 원격제어 에뮬레이터 NX-HDDMP
+판매가 : 990원
 1 / 2
 SHORTS
 흥미로운 쇼츠와 소식을 한눈에 확인하세요.
@@ -170,6 +169,11 @@ CAT8 S-FTP 40G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 �
 {#item_lazy}
 상품리뷰
 고객님의 생생한 후기를 확인해 보세요.
+넥시 4K 1:2 HDMI 분배기 EDID 지원 NX1488
+제품 품질 좋아요. 화면도 잘 나와요.
+네이버 페이..
+2026-10-30
+0
 아이엑스 USB C to C 멀티허브 C타입만 있는 허브 분배기
 만족
 네이버 페이..
@@ -194,11 +198,6 @@ CAT8 S-FTP 40G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 �
 만족
 네이버 페이..
 2026-10-15
-0
-C타입 to AUX 케이블 C to 3.5 스테레오 옥스
-품질이 좋네요 깨끗합니다
-네이버 페이..
-2026-10-09
 0
 Our Highlights
 {#item_lazy} {#html}

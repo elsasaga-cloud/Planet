@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-10-31T08:34:28Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,14 +321,21 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
-Développez des systèmes de test plus rapidement et plus intelligemment avec NI Nigel™ AI
-Découvrez le potentiel de NI Nigel™ AI lors de ce webinaire en replay
-Drones, UAV et eVTOL : solutions de test et mesure
-Les solutions ES France pour tester les drones et eVTOL : batteries, BMS, motorisation électrique, recharge, GNSS, RF...
-RF-Lambda : 5 solutions pour le filtrage, l'amplification et la mesure RF
-5 composants RF-Lambda pour filtrer, amplifier, coupler et détecter les signaux RF et hyperfréquences, de 30 MHz à...
+Méthode IMPro : Nokia valide les mesures acoustiques avec GRAS
+Découvrez comment Nokia utilise le microphone sonde GRAS 40SA et la méthode IMPro pour caractériser des microphones...
+Comment détecter et localiser les interférences RF ?
+Analyse spectrale de 9 kHz à 6 GHz, spectrogramme, mesures de puissance et recherche d'interférences avec le SPECTRAN...
+Test de batteries : solutions KEWELL jusqu'à 1 200 V
+Testez vos cellules et systèmes de batteries avec KEWELL : cyclage jusqu'à 800 A, alimentations bidirectionnelles...
 Ressources
-Il y a 399 Actualités.
+Il y a 400 Actualités.
+Méthode IMPro : Nokia valide les mesures acoustiques avec GRAS
+Posté le: 30/10/26
+|
+Catégories:
+Ressources , TESTS & MESURES
+Découvrez comment Nokia utilise le microphone sonde GRAS 40SA et la méthode IMPro pour caractériser des microphones MEMS sans chambre anéchoïque.
+Lire plus
 Développez des systèmes de test plus rapidement et plus intelligemment avec NI Nigel™ AI
 Posté le: 29/10/26
 |
@@ -391,13 +398,6 @@ Posté le: 09/10/26
 Catégories:
 Ressources , NI
 Découvrez comment SideSense exploite plusieurs faisceaux mmWave pour maintenir la communication tout en détectant des mouvements respiratoires.
-Lire plus
-Comment réaliser un essai IEC 61000-4-4 Ed.3 ?
-Posté le: 06/10/26
-|
-Catégories:
-Ressources , TESTS & MESURES
-Découvrez les niveaux, montages, formes d’onde et critères d’évaluation des essais EFT/Burst.
 Lire plus
 1
 2

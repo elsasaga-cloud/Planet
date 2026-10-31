@@ -1,4 +1,4 @@
-# SB-995 acixme.com · news_1 · https://www.acixme.com/article/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-995 acixme.com · news_1 · https://www.acixme.com/article/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Articles Archive | ACIX Middle East
 Security Systems
 All about Security Systems
@@ -56,7 +56,7 @@ Videos
 Resources
 Other Resources
 Browse resources
-Blogs
+Knowledge Base
 Articles
 Case Study
 White Papers
@@ -190,5 +190,4 @@ Key Management Systems – Why They Are Important for Businesses
 As more companies expand their businesses, the demand for state-of-the-art security systems has increased more than ever. To reduce security risks in...
 Learn More
 How Can Automatic Safe Lockers Keep Your Valuables Secure?
-Automatic safe lockers are a common site in places such as beaches, schools, banks, and gymnasiums. In this age where security is so important, bus...
-Lea
+Automatic safe lockers are a common site in places such as beaches, schools, banks, and gymnasiums. In this age where security is so important, b

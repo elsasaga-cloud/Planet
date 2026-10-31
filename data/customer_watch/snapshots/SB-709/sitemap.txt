@@ -1,4 +1,4 @@
-# SB-709 ic-intracom.bg · sitemap · https://ic-intracom.bg/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-709 ic-intracom.bg · sitemap · https://ic-intracom.bg/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-04-16	https://ic-intracom.bg/about-us
 2026-08-27	https://ic-intracom.bg/brands
 2026-04-15	https://ic-intracom.bg/conditions-for-cancellation-of-orders

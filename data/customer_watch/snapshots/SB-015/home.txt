@@ -1,4 +1,4 @@
-# SB-015 suministros-industriales.es · home · https://suministros-industriales.es/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-015 suministros-industriales.es · home · https://suministros-industriales.es/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Inicio - Suministros Industriales MP4 | Soluciones integrales industriales
 Ir al contenido
 info@suministros-industriales.es
@@ -501,27 +501,4 @@ Gestionar consentimiento
 Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.
 Funcional
 Siempre activo
-El almacenamiento o acceso técnico es estrictamente necesario para el propósito legítimo de permitir el uso de un servicio específico explícitamente solicitado por el abonado o usuario, o con el único propósito de llevar a cabo la transmisión de una comunicación a través de una red de comunicaciones electrónicas.
-Preferencias
-El almacenamiento o acceso técnico es necesario para la finalidad legítima de almacenar preferencias no solicitadas por el abonado o usuario.
-Estadísticas
-El almacenamiento o acceso técnico que es utilizado exclusivamente con fines estadísticos.
-El almacenamiento o acceso técnico que se utiliza exclusivamente con fines estadísticos anónimos. Sin un requerimiento, el cumplimiento voluntario por parte de tu Proveedor de servicios de Internet, o los registros adicionales de un tercero, la información almacenada o recuperada sólo para este propósito no se puede utilizar para identificarte.
-Marketing
-El almacenamiento o acceso técnico es necesario para crear perfiles de usuario para enviar publicidad, o para rastrear al usuario en una web o en varias web con fines de marketing similares.
-Administrar opciones
-Gestionar los servicios
-Gestionar {vendor_count} proveedores
-Leer más sobre estos propósitos
-Aceptar
-Denegar
-Ver preferencias
-Guardar preferencias
-Ver preferencias
-{title}
-Gestionar consentimiento
-Horario:
-Lunes a jueves de 8 a 16h.
-Viernes de 8 a 15h
-Fines de semana cerrado.
-Abrir chat
+El almacenamiento o acceso técnico es estr

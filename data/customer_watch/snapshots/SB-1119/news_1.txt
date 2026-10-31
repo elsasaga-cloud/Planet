@@ -1,0 +1,145 @@
+# SB-1119 noktaelektronik.net · news_1 · https://www.noktaelektronik.net/tr/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+Blog & Rehberler | Nokta Elektronik
++90 212 222 87 80 nokta@noktaelektronik.net
+Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog B2B Giriş Teknik Servis Dil Seçimi
+Dil Seçimi
+Menüyü aç
+Aramayı kapat
+Blog & Rehberler
+Güvenlik kamerası, network, yangın algılama ve elektronik ürünler hakkında teknik rehberler, karşılaştırmalar ve kurulum ipuçları.
+14 Eylül 2026 SFP Modül Nasıl Seçilir? SM/MM, Mesafe ve Uyumluluk
+SFP modül seçimi dört soruyla yapılır: hangi hız (1G, 10G, 25G, 100G), hangi fiber türü (tek mod SM veya çok mod MM), hangi mesafe ve hangi konnektör. Doğru ko…
+Devamını oku →
+14 Eylül 2026 Dahua WizSense, WizColor, WizMind Ne Demek? Seri Farkları
+Dahua'nın "Wiz" ailesi üç farklı yeteneği işaret eder: WizSense, kameranın insanı ve aracı diğer hareketlerden ayıran yapay zekâ katmanıdır; WizColor, düşük ış…
+Devamını oku →
+14 Eylül 2026 HDMI, VGA, DisplayPort Çevirici: Hangisi Ne Zaman?
+Video çevirici, iki farklı görüntü arayüzü arasında bağlantı kuran cihazdır. Temel kural: dijitalden dijitale geçiş pasif kabloyla yapılabilir, dijital ile ana…
+Devamını oku →
+14 Eylül 2026 XLR, 6.3 mm Jack, RCA ve Speakon Konnektör Rehberi
+Profesyonel ses sistemlerinde dört temel konnektör kullanılır: XLR dengeli (balanced) mikrofon ve hat sinyali için, 6.3 mm jack enstrüman ve hat bağlantısı içi…
+Devamını oku →
+14 Eylül 2026 Hemşire Çağrı Sistemi Nedir? Bileşenleri ve Kurulumu
+Hemşire çağrı sistemi (nurse call, hasta çağrı sistemi), hastanın yatağından veya banyodan tek tuşla sağlık personeline ulaşmasını sağlayan, kapı üstü uyarı la…
+Devamını oku →
+14 Eylül 2026 Otopark Bariyer Sistemi Nasıl Seçilir? Kol, LPR ve Loop
+Otopark bariyer sistemi; kol bariyer (kollu bariyer), geçişi algılayan loop dedektör ve aracı tanıyan plaka tanıma (LPR) kamerasından oluşan bir geçiş kontrol…
+Devamını oku →
+14 Eylül 2026 PoE Bütçesi Nasıl Hesaplanır? Kamera Sayısı × Güç
+PoE bütçesi, bir switch'in tüm portlarına aynı anda verebileceği toplam watt değeridir. Hesabı üç adımdır: her cihazın maksimum güç tüketimini datasheet'ten al…
+Devamını oku →
+14 Eylül 2026 Koaksiyel Kablo ve BNC Konnektör Rehberi: RG59, Sıkmalı, HDCVI
+Analog ve HDCVI kamera sistemlerinde standart kablo RG59, standart konnektör BNC'dir. RG59 75 ohm empedanslı, ince merkez iletkenli ve CCTV mesafeleri için opt…
+Devamını oku →
+14 Eylül 2026 Rack Kabin Nasıl Seçilir? U Hesabı, Derinlik, Duvar/Dikili
+Rack kabin seçimi üç ölçüyle yapılır: yükseklik (U sayısı), derinlik (mm) ve montaj tipi (duvar tipi mi dikili mi). Kural, cihazların toplam U yüksekliğini hes…
+Devamını oku →
+14 Eylül 2026 CAT6 UTP mu FTP/STP mu? Ekranlı Kablo Ne Zaman Gerekir?
+UTP ekransız, FTP/STP ise ekranlı (shielded) bakır kablodur. UTP kablo çiftlerin burulmasıyla paraziti bastırır; FTP kablonun tamamını folyoyla, S/FTP her çift…
+Devamını oku →
+14 Eylül 2026 Access Point Nasıl Seçilir? Indoor/Outdoor, Wi-Fi 5/6, PoE
+Access point (AP, erişim noktası) seçiminde beş kriter belirleyicidir: aynı anda bağlanacak kullanıcı sayısı, kapsanacak alan ve duvar yapısı, iç mekân mı dış…
+Devamını oku →
+14 Eylül 2026 Fiber Optik Patch Cord Rehberi: OM3, SC/LC, UPC/APC
+Fiber optik patch cord (FO patch kablo), switch ile patch panel veya iki aktif cihaz arasını bağlayan hazır sonlandırılmış kısa fiber kablodur. Doğru seçim beş…
+Devamını oku →
+14 Eylül 2026 Endüstriyel Switch ile Normal Switch Farkı Nedir?
+Endüstriyel switch, fabrika, saha ve dış ortam gibi zorlu koşullar için tasarlanmış ağ anahtarıdır. Normal (ticari) switch'ten farkı beş başlıkta toplanır: gen…
+Devamını oku →
+14 Eylül 2026 Dahua Video İnterkom: 2 Telli mi IP mi? VTO/VTH Rehberi
+Dahua video interkom sistemlerinde seçim binanın mevcut kablosuna göre yapılır. Eski apartmanda zaten çekilmiş iki telli diafon hattı varsa 2-Telli IP serisi k…
+Devamını oku →
+14 Eylül 2026 NVR Disk Hesabı: Kaç Kamera, Kaç Gün Kayıt?
+NVR disk kapasitesi tek bir formülle hesaplanır: kamera başına bit hızı (Mbps) × 10,8 × kayıt günü × kamera sayısı = gereken alan (GB). Katsayı sabittir, çünkü…
+Devamını oku →
+14 Eylül 2026 IP Kamera Seti Nasıl Seçilir? Bileşen ve Kapasite Hesabı
+Bir IP kamera seti beş bileşenden oluşur: kameralar, kayıt cihazı (NVR), PoE switch, CAT6 kablo ve gözetim sınıfı disk. Doğru set, kamera sayısıyla değil kanal…
+Devamını oku →
+14 Eylül 2026 Güvenlik Kamerası Kaç Megapiksel Olmalı? 2-4-5-8 MP Kıyası
+Çoğu ticari ve konut kurulumunda doğru cevap 4MP'dir: 2MP'ye göre belirgin detay artışı sağlar, 8MP'ye göre daha az disk ve bant genişliği tüketir ve gece perf…
+Devamını oku →
+14 Eylül 2026 IP Kamera Nasıl Kurulur? Adım Adım PoE Kurulum Rehberi
+IP kamera kurulumu beş adımdan oluşur: kamera noktalarının ve kablo güzergâhının planlanması, CAT6 kablonun çekilip sonlandırılması, kameraların montajı ve PoE…
+Devamını oku →
+14 Eylül 2026 Adresli mi Konvansiyonel mi? Yangın Paneli Seçimi
+Konvansiyonel (bölgesel) yangın paneli, dedektörleri bölge (zone) hatlarına gruplar ve alarm anında yalnızca hangi bölgede olay olduğunu söyler. Adresli (adres…
+Devamını oku →
+9 Eylül 2026 PoE Switch Nedir? IP Kamera Projesi İçin Nasıl Seçilir?
+PoE switch (Power over Ethernet anahtar), tek bir ethernet kablosu üzerinden hem veri hem de elektrik gücü ileten ağ anahtarıdır. IP kamera, access point ve IP…
+Devamını oku →
+9 Eylül 2026 CAT6 ve CAT6A Kablo Farkı: Hangi Projede Hangisi?
+CAT6 kablo 250 MHz bant genişliği ile 1 Gbps hızı 100 metrede, 10 Gbps hızı ise yaklaşık 37-55 metrede destekler. CAT6A (augmented) 500 MHz bant genişliği ile…
+Devamını oku →
+9 Eylül 2026 IP Kamera Kablosu Kaç Metre Çekilir? 100 m Sınırı ve Çözümü
+Ethernet standardı, IP kamera ile switch arasındaki CAT5e/CAT6 kablo uzunluğunu 100 metre ile sınırlar: 90 metre sabit kablo + 10 metre patch kablo. Bu sınır a…
+Devamını oku →
+9 Eylül 2026 Yönetilebilir ve Yönetilemeyen Switch Farkı Nedir?
+Yönetilemeyen switch, yapılandırma gerektirmeden portlar arasında veri aktaran basit bir ağ anahtarıdır. Yönetilebilir switch ise web arayüzü veya komut satırı…
+Devamını oku →
+9 Eylül 2026 NVR, DVR ve XVR Farkı: Hangi Kayıt Cihazı Hangi Kamerayla?
+NVR, DVR ve XVR güvenlik kamerası kayıt cihazlarının üç türüdür. NVR (Network Video Recorder) IP kameraları ethernet ağı üzerinden kaydeder; DVR (Digital Video…
+Devamını oku →
+Ürün Kategorileri
+Yangın Algılama Sistemleri
+Aktif Network Ürünleri
+Pasif Network Ürünleri
+CCTV Çözümleri
+Bariyer ve Otopark Çözümleri
+Alarm Çözümleri
+Video İnterkom
+Test Cihazları & El Aletleri
+Rack Kabin ve Aksesuarları
+RF Haberleşme Ürünleri
+Endüstriyel Haberleşme Ürünleri
+Ses ve Görüntü Ürünleri
+Bilgisayar Çevre Birimleri
+Power Çözümleri
+Elektrik Çözümleri
+E-Mobility
+Aydınlatma Çözümleri
+Akıllı Ev Ürünleri
+Hemşire Çağrı Sistemleri
+Merkezi Saat Sistemleri
+Markalar
+upTech
+Dahua
+Oring Networking
+Amphenol
+Planet
+Gewiss
+ORing
+Edge-Core
+Goldtool
+Noyafa
+Ruijie Networks
+Atc
+Çözümlerimiz
+CCTV Çözümleri
+Aktif Network Çözümleri
+Pasif Network Çözümleri
+Medikal Ürün Çözümleri
+Yangın Algılama Sistemleri
+Bariyer ve Otopark Sistemleri
+Yazılım Çözümleri
+Destek
+Teknik Destek Programı
+Blog & Rehberler
+Ar-Ge & Üretim
+Yazılım
+Hakkımızda
+İletişim
+Yasal Bilgiler
+Çerez Politikası
+Bize Ulaşın
+Adreslerimiz
+Tel: 0212 222 87 80
+E-Posta : nokta@noktaelektronik.net
+Nokta Elektronik ve Bilişim Sistemleri A.Ş.
+MERSİS: 0631-0730-5210-0020
+Tic. Sicil No: 555138-0
+E-Bülten
+Yeniliklerden haberdar olmak için abone olun.
+E-Posta
+Website
+Abone Ol
+© 2026 Nokta Elektronik ve Bilişim Sistemleri A.Ş. . Tüm hakları saklıdır .

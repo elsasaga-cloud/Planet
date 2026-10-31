@@ -1,0 +1,16 @@
+# SC-1691 alfacomp.net · youtube · https://www.youtube.com/user/alfacompbrasil · fetched 2026-10-31T08:34:28Z · HTTP 200
+2026-10-06T15:58:08+00:00	Case Alfacomp | Como a Schmidt Automação usa Haiwell para integrar sistemas abertos	https://www.youtube.com/watch?v=albzKR4bs1M
+2026-08-25T11:33:40+00:00	Do sensor ao supervisório: automação de cisternas para água da chuva | Alfacomp x Vika Controls	https://www.youtube.com/watch?v=oNWym0WY_bU
+2026-08-03T11:30:05+00:00	Automação e Supervisão de Cisternas para Captação de Águas Pluviais | Vika + Alfacomp	https://www.youtube.com/watch?v=zB4ZsMBxW4U
+2026-07-22T12:20:04+00:00	Alfacomp | Automação, Comunicação e Instrumentação Industrial	https://www.youtube.com/shorts/fqEYEDluaRE
+2026-07-22T12:15:15+00:00	IHM Haiwell Série F IP67 | Robustez para Ambientes Exigentes	https://www.youtube.com/shorts/N8uuEyEZ5U4
+2026-07-15T13:14:58+00:00	Alfacomp Conecta: Tudo sobre as Linhas de CLPs Haiwell	https://www.youtube.com/watch?v=lqIGwU1aSv0
+2026-07-15T11:58:23+00:00	Alfacomp Conecta: SmartLink e SCADA Haiwell na prática	https://www.youtube.com/watch?v=nSKE2aeHhgY
+2026-07-10T14:43:07+00:00	Como monitorar alarmes e falhas industriais pelo celular com o Haiwell Cloud	https://www.youtube.com/shorts/AXbZ0FkVKPU
+2026-07-10T14:37:00+00:00	Modbus, MQTT ou OPC UA: qual protocolo escolher na automação industrial?	https://www.youtube.com/shorts/_0adG4SBT6Y
+2026-06-30T11:40:57+00:00	🚨 Quando uma máquina para ou um alarme dispara, a pergunta é sempre a mesma: O que aconteceu?	https://www.youtube.com/shorts/mcfMVfzrR-Q
+2026-06-22T18:02:14+00:00	Integração Haiwell Cloud SCADA (PC/A8/CBOX e IHM's) + WhatsApp: Alertas em Tempo Real (HTTP API)	https://www.youtube.com/watch?v=ybmUDyinchY
+2026-05-18T14:57:34+00:00	IHM Industrial: muito mais que uma tela no painel	https://www.youtube.com/shorts/C00q7M6M5bM
+2026-05-15T16:12:07+00:00	Tecnologia aplicada à realidade do seu processo.	https://www.youtube.com/shorts/D7n2upqZmnI
+2026-05-13T11:31:08+00:00	Alfacomp Inside | TI vs TA: entenda a diferença na automação industrial	https://www.youtube.com/shorts/sUD04ZkWTnc
+2026-05-12T12:43:38+00:00	Alfacomp em campo: encontro técnico no setor hídrico	https://www.youtube.com/shorts/K6E85CnfAAI

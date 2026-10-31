@@ -1,4 +1,4 @@
-# SB-131 DE secure · sitemap · https://desecuretechnology.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-131 DE secure · sitemap · https://desecuretechnology.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/cozumler/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/cozumler/ai-guvenlik-teknolojileri/
@@ -32,7 +32,7 @@
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/kvkk/aydinlatma-metni/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/kvkk/cerez-politikasi/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/kvkk/ilgili-kisi-basvuru-formu/
-2026-10-04T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/eif-2026-antalya-enerji-fuari/
+2026-10-28T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/eif-2026-antalya-enerji-fuari/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/enerji-santrallerinde-goruntu-analizi/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/enerji-tesislerinde-guvenlik-operasyonu/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/res-ges-cevre-guvenligi-mimarisi/

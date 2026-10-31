@@ -1,4 +1,4 @@
-# SB-655 digisol.com · news_1 · https://www.digisol.com/category/digisol-blogs/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-655 digisol.com · news_1 · https://www.digisol.com/category/digisol-blogs/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Digisol Blogs - Digisol
 Company
 About Us
@@ -27,6 +27,7 @@ SWITCHING SOLUTIONS
 Industrial Switch
 Multigig Switches
 Fully Managed
+DG-GS2600X Series
 Lite/Smart Managed
 Unmanaged
 Chassis Switches
@@ -100,6 +101,7 @@ SWITCHING SOLUTIONS
 Industrial Switch
 Multigig Switches
 Fully Managed
+DG-GS2600X Series
 Lite/Smart Managed
 Unmanaged
 Chassis Switches

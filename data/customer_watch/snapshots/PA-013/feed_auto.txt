@@ -1,4 +1,5 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-10-29T15:11:51Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-10-31T08:34:28Z · HTTP 200
+30.10.2026 13:28:41	Palmer MONICON L G2	https://www.leteng.no/palmer-audio-tools/pmoniconlg2/palmer-monicon-l-g2-active-passive-studio-monitor-controller
 29.10.2026 15:00:34	EFB 19" Universal DIN Rail Holder 4U	https://www.leteng.no/efb-elektronik/53719-dot-1v3/efb-19-universal-din-rail-holder-4u-rack-brakett
 29.10.2026 13:54:31	Aten KVM Switch 4-Port Triple Head	https://www.leteng.no/aten/cs1964-at-g/aten-kvm-switch-4-port-triple-head-4k-displayport-usb-3-dot-0
 28.10.2026 11:30:37	IHSE Draco vario secure IP gateway	https://www.leteng.no/ihse/r488-bipc/ihse-draco-vario-secure-ip-gateway-con-module-cat-dot-x
@@ -98,4 +99,3 @@
 24.08.2026 14:28:26	Cypress Extender HDMI - HDCP med OAR Rx	https://www.leteng.no/cypress/ch-1529rx/cypress-extender-hdmi-hdcp-med-oar-rx-audio-insertion-4k-maks-70-m
 24.08.2026 13:45:53	Cypress Extender HDMI over HDBaseT Tx	https://www.leteng.no/cypress/ch-1536tx/cypress-extender-hdmi-over-hdbaset-tx-ir-rs-232-lan-max-70-m-poe
 21.08.2026 15:17:00	Kramer Høyttaler Vegg 30W PoE Dante	https://www.leteng.no/kramer/wm-6d/kramer-h%c3%b8yttaler-vegg-30w-poe-dante-6-dot-5-2-veis-poe-dante-sort-1-stk
-21.08.2026 14:47:53	AVer Medisinsk PTZ Kamera Hvit	https://www.leteng.no/aver/md331ui/aver-medisinsk-ptz-kamera-hvit-30x-zoom-4k-ir-illumination-10w-h%c3%b8yttale

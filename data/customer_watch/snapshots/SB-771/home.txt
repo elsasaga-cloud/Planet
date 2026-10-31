@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -23,7 +23,7 @@ HERRAMIENTAS
 OTROS ESTRUCTURADO
 Figura union para Canaleta 40x25, LANTEK LTK-40-25-SW
 $ 1 + IVA
-Conector entrada cables NEMA PG9-8B 4-8mm Prensa estopas (Manguito), LANTEK LTK-PG9
+Figura Angulo 90 para Canaleta 40x20, LANTEK GS-40-20-90
 $ 1 + IVA
 REDES
 ACCESS POINT
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Sensor cableado QUAD infrared & MW interiores PET 25Kg, LANTEK SEN.8350
-$ 54 + IVA
-Control remoto 4 botones 1832 / 1737 868 mhz, LANTEK SEN.443R
-$ 8 + IVA
+Sirena para exteriores inalambrica ROJA AX PRO, HIKVISION DS-PS1-E-WB(O-STD)/Red
+$ 76 + IVA
+Sensor de movimiento inal?mbrico para interiores de techo, HIKVISION DS-PDCL12-EG2-WB
+$ 26 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,6 +202,13 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4K Ultra HD 50 mts Fibra Optica macho a...
+$ 62 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
 Chapa magnetica CON LED (600lbs), LANTEK LTK-MAG60...
 $ 31 + IVA
@@ -209,30 +216,23 @@ Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-ESTRUCTURADO , FIBRA OPTICA
-Patch cord fibra optica SC/LC Multimodo OM4 3 metr...
-$ 7 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
-Kit Videoportero IP WIFI 4MP Audio Bidireccional M...
-$ 241 + IVA
+Video Audio Distributor 8ch 10/100, HIKVISION DS-K...
+$ 129 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-CONTROL DE ACCESO
-Soporte en L para chapas magn?ticas con zumbador N...
-$ 7 + IVA
+SEGURIDAD , ALARMAS
+Expansor de señal inalámbrico AX PRO, HIKVISION ...
+$ 76 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-CONTROL DE ACCESO
-Timbre para puerta door bell control acceso Ding D...
-$ 6 + IVA
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4K Ultra HD 30 mts Fibra optica macho a...
+$ 51 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,36 +266,36 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Acceso L2 / 48 GE / 4 x SFP+ / PoE 370w, RE...
-$ 806 + IVA
+Switch 8+1 GE PoE 120W Administrable / Vlan, Loop ...
+$ 112 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente Redundante 740w para RG-S2910C 24 y 48 puer...
-$ 638 + IVA
+Fuente poder 120w industrial externa para switch i...
+$ 55 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+SWITCHES
+Switch Acceso L2 / 24 GE / 4 x SFP+ / PoE 370w, RE...
+$ 698 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Acceso L2 / 8 GE / 2 SFP, REYEE RG-NBS3100-...
-$ 125 + IVA
+Switch 4+1 GE PoE 54W / Vlan, Loop prevention, Rem...
+$ 44 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch PoE+ 8 GE(2.5GB) 1 uplink SFP+ 10GE, Max 13...
-$ 152 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-REDES , SWITCHES
-Switch Industrial PoE administrable 10 GE / 1 PoE+...
-$ 170 + IVA
+Switch 8 GE PoE+ / 2GE + 1 SFP(combo) uplink, 120W...
+$ 83 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

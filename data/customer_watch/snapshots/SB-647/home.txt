@@ -1,4 +1,4 @@
-# SB-647 arttelekom.com.tr · home · https://www.arttelekom.com.tr/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-647 arttelekom.com.tr · home · https://www.arttelekom.com.tr/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Art Telekom - Telefon, IP Santral, Tümleşik iletişim, Çağrı Merkezi, Güvenlik Sistemleri
 Anasayfa
 Kurumsal
@@ -7,30 +7,30 @@ Kurumsal
 Referanslarımız
 İnsan Kaynakları
 İletişim
-Video Konferans Çözümleri
-Video Konferans Sistemleri ile uzak coğrafyalardaki insanları, mesafeleri kat etmeden bir toplantı düzeniyle bir araya getiren çözümler sunuyoruz....
 Telefon Makinesi Çözümleri
 Kullanıcıların verimini arttırmak, maliyetleri azaltmak için Aastra IP telefonlar inceleyin....
-Fiber Optik Kablo Çözümleri
-Fiber Optik & Network Çözümleri; Fiber Optik Kablolama, Fiber Optik Fusion Sonlandırma çözümleri....
 Giriş Kontrol Sistemleri
 Parmak izi giriş sistemi, parmak izi ile açılan kapı, parmak izli kapı kilidi, geçiş kontrol sistemleri çözümleri....
-Aastra BP Çağrı Merkezi Çözümleri
-Çağrı merkezi uygulamaları müşteri hizmetleri otomasyonu ses iletişim teknolojisi çözümleri....
-İletişim Ağı Çözümleri
-Kurum ve Kuruluşlara özel iletişim ağları ile maliyet ve kullanıcı dosru çözümler üretiyoruz....
+Tümleşik İletişim
+Tümleşik İletişim; ses, görüntü, konferans, durum bilgisi, anlık mesaj, sesli mesaj, faks, e-postaları tek kaynaktan yönetin....
+Video Konferans Çözümleri
+Video Konferans Sistemleri ile uzak coğrafyalardaki insanları, mesafeleri kat etmeden bir toplantı düzeniyle bir araya getiren çözümler sunuyoruz....
 3S Vision IP Kamera Sistemleri
 Gözetim ve güvenlik amacı ile lokasyonların uzaktan izlenmesini sağlayan, gelişmiş network özelliklerine sahip kameralara size çözümler sunuyoruz...
-Telefon Santralları
-Art Telekom, haberleşme ihtiyaçları için doğru teknolojik çözümleri sunar....
-CCTV Kamera Görüntüleme Sistemleri
-Ev, ofis gibi en küçük kapasiteden, kamu ve özel sektör kurumlarının en yüksek kapasitedeki CCTV Kamera çözümleri sunuyoruz....
 FCT Çözümleri
 Orta ve büyük ölçekli firmalar, Abone merkezleri,
 Çağrı Merkezleri gibi GSM trafiği yoğun olan işletmeler
 için en doğru çözüm FCT....
-Tümleşik İletişim
-Tümleşik İletişim; ses, görüntü, konferans, durum bilgisi, anlık mesaj, sesli mesaj, faks, e-postaları tek kaynaktan yönetin....
+Fiber Optik Kablo Çözümleri
+Fiber Optik & Network Çözümleri; Fiber Optik Kablolama, Fiber Optik Fusion Sonlandırma çözümleri....
+Telefon Santralları
+Art Telekom, haberleşme ihtiyaçları için doğru teknolojik çözümleri sunar....
+CCTV Kamera Görüntüleme Sistemleri
+Ev, ofis gibi en küçük kapasiteden, kamu ve özel sektör kurumlarının en yüksek kapasitedeki CCTV Kamera çözümleri sunuyoruz....
+Aastra BP Çağrı Merkezi Çözümleri
+Çağrı merkezi uygulamaları müşteri hizmetleri otomasyonu ses iletişim teknolojisi çözümleri....
+İletişim Ağı Çözümleri
+Kurum ve Kuruluşlara özel iletişim ağları ile maliyet ve kullanıcı dosru çözümler üretiyoruz....
 Bizden Haberler
 Kaçakçılık ve Organize Suçlarla Mücadele (KOM) Daire Başkanlığı’na Aastra MX-ONETM IP telefon sistemi kuruldu
 Aastra Blustar 8000i Video Konferans Çözümü
@@ -39,13 +39,13 @@ Aastra Türkiye İş Ortakları Toplantısı Düzenlendi
 Voxtron İletişim Merkezi İsviçre'deki Aastra laboratuarlarında Intelligate ürün yelpazesi ile yapıtığı kapsamlı entegrasyon testlerini başarıyla tamamladı.
 Santral Sitemleri
 Perakende Satış Fiyatları
-Video Konferans Çözümleri
 Telefon Makinesi Çözümleri
-Fiber Optik Kablo Çözümleri
 Giriş Kontrol Sistemleri
-Aastra BP Çağrı Merkezi Çözümleri
-İletişim Ağı Çözümleri
+Tümleşik İletişim
+Video Konferans Çözümleri
 3S Vision IP Kamera Sistemleri
+FCT Çözümleri
+Fiber Optik Kablo Çözümleri
 Telefon Santralları
 CCTV Kamera Görüntüleme Sistemleri
 Diğer Çözümlerimiz...

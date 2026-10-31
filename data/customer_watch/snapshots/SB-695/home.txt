@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,26 +429,12 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
-R$ 720,00
+-50%
+LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
+R$ 255,00
+R$ 127,50
 R$
-698 , 40
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRI-CON-7562 Módulo Conversor Isolado USB para RS-232/RS-422/RS-485/TTL
-R$ 499,00
-R$
-484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
-R$ 396,00
-R$
-384 , 12
+123 , 68
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -460,38 +446,52 @@ R$
 à vista
 com desconto Pix - Vindi
 Ver opções
-Lançamentos
-1-Wire Sensor de Pressão Barométrica TSP200
-Sob consulta
-Saiba mais
-Pedir cotação
-Inversor CC/CA 1000W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-1K-127-V3
-R$ 1.682,95
+LRS-450 Fonte CA/CC 450 Watts Alta Eficiência MeanWell
+A partir de
+R$ 520,82
 R$
-1.632 , 46
+505 , 20
+à vista
+com desconto Pix - Vindi
+Ver opções
+LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
+R$ 499,00
+R$
+484 , 03
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Detector de Vazamento de Água Modbus TSF400-4
-Sob consulta
-Saiba mais
-Pedir cotação
-1-Wire Transmissor de Loop de Corrente TSA200
+Lançamentos
+LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
+R$ 549,00
+R$
+532 , 53
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Módulo E/S Universal Remoto 4G LTE TCG140-4G-H266
+R$ 4.223,51
+R$
+4.096 , 80
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Sensor de Umidade e Temperatura Digital TSH206 Interfece 1-Wire
+R$ 721,20
+R$
+699 , 56
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+1-Wire Sensor de Tensão TSV200-60i
 Sob consulta
 Saiba mais
 Pedir cotação
 Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
 Nome: Djalma Filho
 Avaliação: Positivo
 Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
@@ -502,6 +502,16 @@ Written by: Djalma Filho
 LRI Automação Industrial
 1 / 1 stars
 1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -543,5 +553,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.784 secs - 29-10-2026  - node: commerce-web1-tiny-lw - store
+Load time: 1.215 secs - 31-10-2026  - node: commerce-web5-tiny-lw - store
 ×

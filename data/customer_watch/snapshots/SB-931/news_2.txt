@@ -1,4 +1,4 @@
-# SB-931 Wave1 Pty Ltd · news_2 · https://wave1.com.au/case-studies/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-931 Wave1 Pty Ltd · news_2 · https://wave1.com.au/case-studies/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Client Case Studies | Wave1 | Telecommunications Australia
 Wave1
 Site Menu
@@ -137,7 +137,7 @@ With customers communications needs sometimes requiring multiple sites to be con
 Enquire
 Need help with the right solution?
 Enquire with us
-LinkedIn
+Comments
 This field is for validation purposes and should be left unchanged.
 Name *
 Company *
@@ -187,7 +187,7 @@ MacGregor QLD 4109
 Call now
 +61 (07) 3343 0555
 Contact us
-Comments
+Email
 This field is for validation purposes and should be left unchanged.
 Name *
 Email *

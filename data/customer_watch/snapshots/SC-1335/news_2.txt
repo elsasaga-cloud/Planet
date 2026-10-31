@@ -1,0 +1,83 @@
+# SC-1335 discomp.cz · news_2 · https://www.discomp.cz/default.asp?Show=WebNews&WenId=-1&WenTagC=wnNews · fetched 2026-10-31T08:34:28Z · HTTP 200
+Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
+The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
+OK
+News and articles
+News
+Informations
+Products tip
+Events
+New Wi-Fi 6 LHG Models Are Here!
+News 23.5.2025
+The long-awaited continuation of the popular LHG series has arrived! Discover the new LHG 5 ax (24.5 dBi) and LHG XL 5 ax (27 dBi) models, now with Wi-Fi 6 technology for even greater speed and stability over long distances.
+We Have Become Huawei Gold Partners for the eKit Series
+News 20.6.2024
+We are pleased to announce that we have become a Gold Partner of Huawei for their eKit product line . This partnership allows us to offer you top-notch network products, including switches and access points, with the high quality and reliability you expect from Huawei .
+Read more
+Protect your UniFi device with an extended warranty
+News 28.3.2024
+The service that Ubiquiti has been offering for a long time in the US market is finally available in Europe. For selected products from the UniFi series, Ubiquiti now offers the option of purchasing an extended warranty UI care for 60 months from the date of purchase, which protects you from unexpected expenses and provides above-standard services.
+Read more
+MikroTik L009 is here as the successor of the famous RB2011
+News 22.5.2023
+MikroTik L009 is more than just a router . This product line is up to 4 times faster than RB2011 , it has a modern ARM CPU with container support, an innovative enclosure that allows mounting up to four routers in a single 1U space, more RAM, USB 3.0, PoE, and 2.5G SFP support. It is available rackmount and desktop version with 2.4 GHz 802.11ax Wi-Fi.
+WiFiMan Wizard spectrum analyzer from Ubiquiti Networks
+News 17.4.2023
+WiFiMan Wizard is a portable spectral analyzer designed for the WiFiMan iOS/Android mobile application with which it communicates wirelessly via Bluetooth. Together with a Lidar-equipped smartphone, it is able to project the WiFi scan on a map created by the Lidar and your movement/field walk around the building. The spectrum analyzer works in the 2.4 and 5GHz bands with a sensitivity of up to -96 dBm. The device itself has an integrated battery with a capacity of 300 mAh, a maximum 240 minutes duration for continuous scanning and a USB-C connector for recharging.
+MaxLink SFP modules in industrial design
+News 4.4.2023
+We would like to inform you about the newly included SFP modules in the industrial variant . These modules use higher quality chips with a higher temperature operating range from -40 °C to +85 °C . Such a module is more resistant to adverse operating conditions , e.g. in places such as data cabinets without air conditioning located on very hot floors in the summer, in wireless links in the winter, or in industry.
+Ceiling MikroTik cAP ax Access Point and outdoor RB5009 with PoE
+News 29.3.2023
+The new product from MikroTik with the designation cAP ax is a designer ceiling access point with support for the latest 802.11ax Wi-Fi 6 standard. It is ideal for use in operations such as restaurants, hotels, airports, shopping centers, etc. It offers 2x Gigabit LAN , PoE IN and PoE out and wireless transmission speeds 576 Mbps (2.4 GHz) + 1201 Mbps (5 GHz). The second novelty is the outdoor design of the well-established and high-performance RB5009UPr+S+OUT with PoE In/Out on all 8 ports, PoE budget 130 W and IP66 certification. This router has 60-90 % more performance than its predecessor RB4011.
+March news from MikroTik
+News 8.3.2023
+How time flies, the demands on network throughput increase and therefore MikroTik reflects this in its offer of 100 Gbps elements. MikroTik recently added two new Cloud Router Switches . The first of them CRS510-8XS-2XQ-IN offers 8× SFP28 (25 Gbps), 2× QSFP28 (100 Gbps), 1× Gigabit LAN, 2 redundant sources and rackmount chassis. The second product CRS504-4XQ-OUT has an outdoor chassis with IP66, 4× QSFP28, 1x Gigabit LAN and variable power supply via DC connector/terminal box or PoE. Other news are a small home router with WiFi6 - hAP ax lite and rackmount kit RMK-2/10 for attaching two 200mm products (routers or switches) to a 19" chassis.
+Ceiling Deco X50-PoE with PoE power supply support
+News 2.3.2023
+Deco X50-PoE is the easiest way to guarantee a strong Wi-Fi signal in every corner of your home. This unit is the first of the Deco series to support 802.3at PoE on the input port. In addition, it has a second LAN/WAN port with a speed of up to 2.5 Gbps. The unit supports dual-band 802.11ax - Wi-Fi 6 standard, 2×2 MIMO in both bands, transmission speed 2402 + 574 Mbps, the latest encryption WPA3 and Mesh with artificial intelligence for ideal coverage of your home.
+Expansion of PoE injectors of the MAXPI family by a 24W variant
+News 7.2.2023
+We have just expanded the family of MaxLink PoE injectors with the new model MAXPI15FE, the most affordable and performance ranking between 802.3af and 802.3at standards with a maximum output power of 24 W and 10/100Mbps Ethernet . This PoE injector is optimal for devices with a maximum consumption of around 18-20 W.
+January TP-Link news including robotic vacuum cleaners
+News 11.1.2023
+The company TP-Link, which grew up on home routers, recently also produces things for smart home - Tapo . In addition to switches, smart robotic vacuum cleaners with mop and automatic emptying have been added to this family. In addition, new products Deco with WiFi 6 , Archer routers with 2.5 Gigabit WAN port and several cameras were also released.
+UISP Wave - 60GHz products from Ubiquiti Networks
+News 10.1.2023
+Ubiquiti's revolutionary Wave technology maximizes speed and performance over long distances using the worldwide, unlicensed 60GHz band, including a 5GHz backup in case of inclement weather. Wave products are breakthroughly low-priced so you can deliver gigabit speeds to customers at a fraction of the cost of fiber.
+Wave-Nano - client up to 5 km+, GPS, Gigabit LAN
+Wave-LR - client up to 8 km, GPS, Gigabit LAN
+Wave-AP - AP for up to 15 clients, GPS, 2.5-Gigabit LAN, SFP+
+Powerful opensource 2.5 Gbps routers Turris Omnia comes with Wi-Fi 6
+News 31.10.2022
+In addition to Wi-Fi 6 support , new versions of the legendary Czech router also offer configurable WAN ports, advanced distributed dynamic firewall Sentinel , IDS, deep packet inspection, eMMC/SSD for running custom software and last but not least excellent throughput and VPN application support . Automatic OS, FW updates and an average of 5 000 firewall updates per day are also standard on Turris devices which actively block attacks in real time, maintain a grey/blacklist of attacking addresses and actively reports abuse events .
+Long awaited ePMP 3000 AP in stock!
+News 10.10.2022
+Dear customers, the long-awaited devices from the Cambium Networks brand are finally back in stock. ePMP 3000 Access Point units have arrived, ePMP Force 425 , new model of cnPilot e410 , Outdoor Dual Band Wi-Fi 6 Access Point . In case of any question do not hesitate to contact us.
+MikroTik hAP ax3 - another addition among the WiFi 6 devices
+News 6.10.2022
+The manufacturer MikroTik has expanded its portfolio of WiFi 6 devices with the model hAP ax3 . Primarily, this wireless router with modulation speeds of 574 + 1200 Mbps is intended for demanding home users . In addition to 4 Ethernet ports with a speed of 1 Gbps, it also has one port with a speed of up to 2.5 Gbps , which allows you to really use the performance potential to the full. In addition, this port supports the PoE-in or PoE-out function which guarantees really wide variability. In addition to fast Ethernet ports and WiFi 6, the router's equipment also includes IPSec hardware encryption for better support of VPN tunnels or a USB3 port which can be used to expand storage or for a backup connection via LTE modem. RouterOS v7 also comes with advanced WPA3 encryption. The device is manufactured in Europe and thanks to cooperation with EU legislators meets all the necessary safety principles.
+Ubiquiti airFiber 60 XG - device with 6 Gbps throughput and SFP+ port
+News 4.10.2022
+Ubiquiti Networks is investing a lot of money in the 60GHz portfolio. It has now launched airFiber 60 XG (AF60-XG) which is suitable for PtP solution with a range of up to 4+ km. The device is equipped with Gigabit LAN with PoE, an optical SFP+ port, a GPS module, a radome, a professional mount with fine tuning and a 5 GHz backup radio using a shared antenna with a gain of 26 dBi. Other benefits are support for Terragraph, integration into UISP, channel bonding (2× 2160 MHz) and transmission speed up to 6 Gbps .
+The first MikroTik with 802.11ax standard - hAP ax2
+News 15.8.2022
+The 6th generation of hAP router by MikroTik is here. This small hAP ax2 router is suitable for homes and small businesses, it has an L4 license, five Gigabit ports, two radio parts, transmission speed 300 + 1200 Mbps , supports WPA3 encryption, and as the first MikroTik in history, it can also boast the latest Wi-Fi standard 802.11ax .
+News from Ubiquiti Networks - Dream Router, G4 Droorbell Pro and Fisheye Camera
+News 1.7.2022
+Ubiquiti Networks released some interesting news in 2Q, let's take a look at them. Certainly the most interesting is the UniFi Dream Router , a device "all in one" designed for homes and small offices. It is a small and powerful Router with a built-in Wi-Fi 6 AP , 4-port switch with two PoE ports and a maximum of two services running in the background (UniFi Controller + UniFi Protect or UniFi Access or UniFi Talk). The second news is the UniFi Protect G4 Doorbell Pro as a home doorbell equipped with two cameras with backlight, fingerprint reader, programmable color display, two-way sound, Wi-Fi and Bluetooth support. The last news is Fisheye UniFi video camera with 360° fisheye lens, 5MP resolution, IR illuminator, IK08 vandal protection and power supply via 802.3af PoE.
+DAC cables and modules for 100Gbps networks from MikroTik
+News 30.5.2022
+About a month ago, the MikroTik manufacturer introduced Routers and Switches with 100 Gbps QSFP28 interfaces. Today, it also introduced DAC connecting cables in lengths of 1m and 3m, break-out cable and an optical module for connecting 100 Gbps up to a distance of 2 km via a single-mode cable.
+Ubiquiti airFiber 60 HD with throughput up to 6 Gbps
+News 20.4.2022
+AirFiber 60 HD is a novelty in the field of 60GHz PtP device from Ubiquiti Networks. The device has very small dimensions (19 cm), range up to 2 km, channel bonding support to achieve throughput up to 6 Gbps (with 4320 MHz), optical 1/10Gbps SFP+ port, Gigabit LAN port with PoE support and configuration via Bluetooth directly from installation place.
+Gateway to the world of 100Gbps network from MikroTik
+News 19.4.2022
+The most affordable imaginary gateway to 100 Gigabit networks is coming to the market. The MikroTik manufacturer has released the CCR2216-1G-12XS-2XQ to the world, which has 4x higher power than the CCR1072 and is equipped with 12x SFP28 (25 Gbps), 2x QSFP28 (100 Gbps), 2 Hot-Swap power sources and 4 fans. Another key device for building such a fast network is the Switch CRS504-4XQ-IN with 4x QSFP28 (100 Gbps), in a rack design and 2 Hot-Swap power sources.
+MikroTik 60GHz news with 802.11ay support
+News 10.3.2022
+MikroTik has released 3 new 60GHz innovations to the world which have the latest 802.11ay standard and 5GHz backup (802.11a/n/ac) connectivity. These units have a Gigabit LAN port with extensive PoE support, a robust adjustable bracket, an L4 license and an 11° antenna for a client station or 60° for a sector. All units have TDMA sync using GPS and a range of 1000 m for PtMP or up to 2400 m for PTP.
+New UniFi Access Point WiFi 6 Pro - U6-Pro
+News 25.1.2022
+The king is dead, long live the king! After a long time, there is a new and incredibly

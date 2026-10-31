@@ -1,11 +1,11 @@
-# SB-593 ibdglobal.com · sitemap · https://www.ibdglobal.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-593 ibdglobal.com · sitemap · https://www.ibdglobal.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-04-28	https://www.ibdglobal.com/alta-nuevo-cliente
 2024-10-30	https://www.ibdglobal.com/aviso-legal
 2021-07-05	https://www.ibdglobal.com/categories
 2026-10-16	https://www.ibdglobal.com/compromiso
 2025-06-11	https://www.ibdglobal.com/condiciones-legales
 2026-07-10	https://www.ibdglobal.com/contacto
-2026-10-16	https://www.ibdglobal.com/control-de-accesos
+2026-10-30	https://www.ibdglobal.com/control-de-accesos
 2025-09-10	https://www.ibdglobal.com/dmss-privicy-agrement
 2025-09-18	https://www.ibdglobal.com/dmss-software-license-and-service-agreement
 2020-10-08	https://www.ibdglobal.com/empresa
@@ -17,13 +17,13 @@
 2026-10-16	https://www.ibdglobal.com/ibd-pro
 2026-10-16	https://www.ibdglobal.com/ibd-services
 2026-10-16	https://www.ibdglobal.com/ibd-solutions
-2026-10-16	https://www.ibdglobal.com/incendio
-2026-10-16	https://www.ibdglobal.com/intrusion
+2026-10-30	https://www.ibdglobal.com/incendio
+2026-10-30	https://www.ibdglobal.com/intrusion
 2024-07-19	https://www.ibdglobal.com/iptecnoshow
 2026-10-16	https://www.ibdglobal.com/la-empresa
 2022-05-04	https://www.ibdglobal.com/legal/cookies-policy
 2020-10-08	https://www.ibdglobal.com/mobile_apps
-2026-10-16	https://www.ibdglobal.com/networking
+2026-10-30	https://www.ibdglobal.com/networking
 2026-10-20	https://www.ibdglobal.com/partners
 2024-10-30	https://www.ibdglobal.com/politica-de-cookies
 2026-10-16	https://www.ibdglobal.com/politica-de-privacidad
@@ -35,7 +35,7 @@
 2020-12-01	https://www.ibdglobal.com/shop/category/outlet-979
 2026-10-16	https://www.ibdglobal.com/sobre-ibd
 2025-11-28	https://www.ibdglobal.com/transparencia
-2026-10-16	https://www.ibdglobal.com/videovigilancia
+2026-10-30	https://www.ibdglobal.com/videovigilancia
 2026-06-08	https://www.ibdglobal.com/yosoypro
 	https://www.ibdglobal.com/downloads/detect.html
 	https://www.ibdglobal.com/profile/ranks_badges

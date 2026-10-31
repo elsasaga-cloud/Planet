@@ -1,4 +1,4 @@
-# SB-777 proplex.com · sitemap · https://www.proplex.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-777 proplex.com · sitemap · https://www.proplex.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-10-27	https://www.proplex.com/proplex
 2025-07-10	https://www.proplex.com/news
 2025-07-10	https://www.proplex.com/news/tmb-proplex-partners-with-backup-tech
@@ -96,6 +96,6 @@
 2026-05-19	https://www.proplex.com/dmx-relay-din-rail-mount
 2026-05-22	https://www.proplex.com/ip-devices
 2026-05-19	https://www.proplex.com/crmx-din
-2026-07-23	https://www.proplex.com/codebridge-plus
+2026-10-29	https://www.proplex.com/codebridge-plus
 2026-03-05	https://www.proplex.com/ims-universe-drives
 2026-10-27	https://www.proplex.com/codebridge-micro

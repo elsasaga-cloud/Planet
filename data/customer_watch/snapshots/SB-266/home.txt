@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,48 +41,50 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-MEAN WELL XDR-480E-24 Průmyslový zdroj na DIN lištu, 480W, 24V
-2 065 Kč bez DPH
-2 498 Kč s DPH
-Teltonika Security LT4, Dálkové ovládání
-430 Kč bez DPH
-521 Kč s DPH
-Ubiquiti Singlemode simplex optický patch cord SC UPC/SC UPC, 0,5m, 50 pack
-2 428 Kč bez DPH
-2 938 Kč s DPH
-Triton zámek pro bočnice u stojanových rozvaděčů
-143 Kč bez DPH
-173 Kč s DPH
-Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 5m
-89 Kč bez DPH
-108 Kč s DPH
-Cudy M1300S Wi-Fi Mesh System, AC1200, 3 pack
-2 567 Kč bez DPH
-3 105 Kč s DPH
-Hikvision IP dome hybrid kamera DS-2CD2123G2-LIS2U(2.8mm), 2Mpx, 2.8mm, AcuSense
+Ubiquiti AI Multi Sensor 2, Panoramatická UniFi Protect IP kamera, 16Mpx, bílá
+15 918 Kč bez DPH
+19 261 Kč s DPH
+TP-Link ES210XPP-M2 Omada Easy PoE Switch
+5 624 Kč bez DPH
+6 805 Kč s DPH
+Triton plastový boční pant pro dvoudílné nástěnné rozvaděče
+48 Kč bez DPH
+58 Kč s DPH
+Hikvision IP bullet kamera DS-2CD1043G2-LIU(2.8mm)(BLACK), 4Mpx, 2.8mm, ColorVu, Černá
+Seagate HDD Exos 7E10, 3.5", 10TB, 512n, SATA
+10 511 Kč bez DPH
+12 718 Kč s DPH
+Conexpro 10G SFP+ optický modul, WDM/BiDi, SM, Tx1270/Rx1330nm, 60km, 1x LC, DDM
+695 Kč bez DPH
+841 Kč s DPH
+MEAN WELL DDR-60L-5 Step-down měnič napětí DC/DC, 60W
+1 055 Kč bez DPH
+1 276 Kč s DPH
 MEAN WELL DRL-02, Montážní úhelník ke zdrojům
 35 Kč bez DPH
 42 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 24 pack
-1 214 Kč bez DPH
-1 469 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD2043G2-LI2U(2.8mm)(BLACK), 4Mpx, 2.8mm, AcuSense, Černá
-Triton plastový dveřní pant pro nástěnné plastové boxy
-43 Kč bez DPH
-53 Kč s DPH
-Teltonika TeltoCharge Montážní stojan pro 4 elektronabíječky EVC2
-18 880 Kč bez DPH
-22 845 Kč s DPH
-DEYE Solární ponorné čerpadlo 3000W s regulátorem DY-B3600AC/DC
-8 444 Kč bez DPH
-10 217 Kč s DPH
-Triton 19" stojanový rack 32U/600x800 prosklené dveře, šedý
-11 410 Kč bez DPH
-13 806 Kč s DPH
-Triton 19" stojanový rack 32U/600x900 prosklené dveře, šedý
-12 380 Kč bez DPH
-14 980 Kč s DPH
+Triton vertikální vyvazovací lišta RAX-VP-V42-X2, 42U
+653 Kč bez DPH
+790 Kč s DPH
+Triton sada držáků na středovou vertikálu pro instalaci 19" zařízení, 2 pack
+116 Kč bez DPH
+140 Kč s DPH
+Triton 19" stojanový rack 42U/600x600 prosklené dveře, černý
+11 600 Kč bez DPH
+14 036 Kč s DPH
+Lexar Micro SDXC 256GB BLUE PLUS
+1 516 Kč bez DPH
+1 834 Kč s DPH
+Triton vertikální vyvazovací lišta RAX-VP-V45-X2, 45U
+814 Kč bez DPH
+985 Kč s DPH
+QuWireless Anténa QuSpot pro Teltonika RUT2xx
+2 942 Kč bez DPH
+3 560 Kč s DPH
 Aktuality
+Kritická chyba ve firmware Teltonika
+30.10.2026
+Výrobce Teltonika upozornil na kritickou bezpečnostní zranitelnost ve firmware vybraných zařízení s rutOS 7.22–7.24.2 a tswOS 1.9–1.10.0. Doporučujeme neprodleně aktualizovat na rutOS 7.24.3 nebo tswOS 1.10.1. Zranitelnost nelze odstranit jinak než aktualizací. Pokud potřebujete s ověřením nebo aktualizací pomoci, kontaktujte naši technickou podporu.
 Představujeme Teltonika Security
 26.10.2026
 Teltonika přináší novou divizi zaměřenou na zabezpečení objektů. Její portfolio zahrnuje zabezpečovací ústředny, detektory pohybu, otevření dveří či zaplavení, klávesnice a komunikační moduly. Nabízí širokou škálu komponentů pro tvorbu zabezpečovacích systémů podle potřeb konkrétní instalace. Objevte Teltonika Security v našem e-shopu a seznamte se s novými možnostmi v oblasti zabezpečení.
@@ -107,9 +109,6 @@ Připravili jsme pro vás letní akci na zvýhodněné fotovoltaické sety s mě
 Stabilní 5G připojení bez nastavování směru antény
 31.07.2026
 Od města až po otevřené moře. Do nabídky jsme zařadili MikroTik LAMP 5G R16 – venkovní 5G router s integrovanou eSIM, všesměrovými anténami a podporou 5G SA/NSA. Nabízí odolnost IP67, GNSS i certifikaci EN 60945, takže je ideální pro průmysl, přístavy, plavidla, záložní konektivitu i další náročné venkovní instalace.
-Dejte technice druhou šanci
-20.07.2026
-Proč platit plnou cenu, když můžete ušetřit? V naší nabídce najdete kromě nového zboží, také i sekci rozbalené i použité, které jsme pečlivě zkontrolovali a připravili k dalšímu používání. Stejná kvalita, výrazně nižší cena a navíc udržitelnější volba. Mrkněte, jaké kousky právě čekají skladem.
 Další aktuality
 Zastoupené značky
 Represented brands

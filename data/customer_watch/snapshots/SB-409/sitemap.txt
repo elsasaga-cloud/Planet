@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
 2026-10-05T00:13:47+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
 2026-10-26T19:32:48+00:00	https://www.xlrsecurity.com/lens-preview/
@@ -77,7 +77,7 @@
 2026-10-29T13:25:42+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky6tb/
 2026-09-30T20:19:30+00:00	https://www.xlrsecurity.com/product/ls2-48gt4sfp-p/
 2026-09-30T16:42:44+00:00	https://www.xlrsecurity.com/product/base5i/
-2026-10-16T14:35:42+00:00	https://www.xlrsecurity.com/product/l7-w/
+2026-10-29T20:25:38+00:00	https://www.xlrsecurity.com/product/l7-w/
 2026-09-30T16:42:43+00:00	https://www.xlrsecurity.com/product/l7-t/
 2026-09-30T20:19:30+00:00	https://www.xlrsecurity.com/product/l7pro/
 2026-08-06T14:52:08+00:00	https://www.xlrsecurity.com/blog/introducing-lysora-powerful-cost-effective-networking-equipment/
@@ -89,7 +89,7 @@
 2026-09-30T16:42:43+00:00	https://www.xlrsecurity.com/product/l7/
 2026-09-30T16:42:42+00:00	https://www.xlrsecurity.com/product/l7lite/
 2026-10-16T14:44:04+00:00	https://www.xlrsecurity.com/product/l6/
-2026-10-16T14:43:25+00:00	https://www.xlrsecurity.com/product/l6lite/
+2026-10-29T20:25:38+00:00	https://www.xlrsecurity.com/product/l6lite/
 2026-10-06T07:26:30+00:00	https://www.xlrsecurity.com/product/cpe5/
 2026-09-30T16:42:44+00:00	https://www.xlrsecurity.com/product/cpe3-p/
 2026-09-30T20:19:29+00:00	https://www.xlrsecurity.com/product/ak-x910s/

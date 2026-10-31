@@ -1,0 +1,500 @@
+# SB-1131 marugged.com · news_1 · https://marugged.com/blog/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+Blog - Get Rugged
+sales@marugged.com
+855-784-4334
+Request a Quote
+Get a Quote
+First Name
+*
+First
+Name field cannot be blank.
+Last Name
+Last
+Name field cannot be blank.
+Email Address
+*
+You must
+enter a valid email.
+Phone Number
+Part Number
+Quantity
+Additional Comments
+Thank you!
+Your submission has been sent.
+Recently Viewed
+Compare
+Menu
+Search
+Close
+Menu
+Sign In
+Register
+More
+Less
+shop by category
+More
+Less
+Industrial Computing
+More
+Less
+Modular Panel PC
+View All
+More
+Less
+Rugged Embedded Computer
+View All
+More
+Less
+Arm-Based Computers
+View All
+More
+Less
+Industrial Edge Computers
+View All
+More
+Less
+IIoT Gateways
+View All
+More
+Less
+x86 Computers
+View All
+More
+Less
+Embedded Computer with GPU
+View All
+More
+Less
+Panel Computers & Displays
+View All
+More
+Less
+IP67 Rated
+IP67 Rated Wireless AP/Bridge/Clients
+Machine Vision Cameras
+IP-67 Computers
+IP67 Unmanaged Ethernet Switches
+IP67 Full Gigabit Ethernet Switches
+IP67 Rated Ethernet Switches
+IP67 Rated IP Cameras
+IP68 Outdoor Industrial AP/Bridge/Client
+IP67 PoE + Ethernet Extender
+IP67 Rated Antennas
+IP67 Industrial Wireless Access Points
+IP67 Long Distance WiFi MESH AP/Router
+IP67 Outdoor Smart City Box
+More
+Less
+Industrial Edge Connectivity
+More
+Less
+MSA Safety FieldServer Gateways
+View All
+IoT Edge Gateways
+More
+Less
+Serial Device Servers
+View All
+More
+Less
+Serial Converters
+View All
+More
+Less
+Protocol Gateways
+View All
+More
+Less
+USB-to-Serial Converters/USB Hubs
+View All
+More
+Less
+Multiport Serial Boards
+View All
+More
+Less
+Controllers & I/Os
+View All
+More
+Less
+IP Cameras & Video Servers
+View All
+More
+Less
+OPC UA Software
+View All
+More
+Less
+Industrial Network Infrastructure
+ATOP Ethernet Switch
+More
+Less
+Ethernet Switches
+View All
+More
+Less
+Ethernet to Fiber Media Converters
+View All
+LTE Routers
+More
+Less
+Managed Switches
+View All
+More
+Less
+NAT Switches & Wired Routers
+View All
+More
+Less
+Serial to Fiber Media Converters
+View All
+More
+Less
+Wi-Fi Serial & Modbus Gateways
+View All
+More
+Less
+Secure Routers
+View All
+More
+Less
+Wireless AP/Bridge/Clients
+View All
+More
+Less
+Cellular Gateways/Routers
+View All
+More
+Less
+Ethernet Media Converters
+View All
+More
+Less
+Network Management Software
+View All
+More
+Less
+Secure Remote Access
+View All
+More
+Less
+Network Security Appliances
+View All
+More
+Less
+Moxa Accessories
+Backup Configurators
+More
+Less
+Cables and Connectors
+View All
+More
+Less
+EtherCAT Automation Devices
+View All
+More
+Less
+Fiber Optic Adapters and Bypass Units
+View All
+More
+Less
+Mounting Kits
+View All
+More
+Less
+PoE Accessories
+View All
+More
+Less
+Power Accessories
+View All
+More
+Less
+SFP Modules
+View All
+More
+Less
+Surge Protectors
+View All
+More
+Less
+Wireless Accessories
+View All
+More
+Less
+Rugged Tablets
+Rugged Android Tablets
+Rugged Windows Tablets
+Rugged Tablet Accessories
+More
+Less
+Rugged In Vehicle Computers
+Vehicle Mount Computers
+Mobile Data Terminals
+Rugged In Vehicle Monitor
+More
+Less
+Asus IOT
+Edge AI Systems
+Embedded Boards and Motherboards
+Rugged Industrial PCs
+More
+Less
+Lanner Electronics
+Edge AI Systems (EAI Series)
+Industrial Computing Systems (ICS Series)
+Network Appliances & Edge Platforms (LEC Series)
+Neousys
+Nexcom
+More
+Less
+Mi-Tac
+Embedded Motherboards
+Embedded Systems (Fanless / Edge AI)
+Industrial Panel PCs
+More
+Less
+Uninterruptible Power Supplies
+Wide Temperature UPS
+Extra Wide Temperature UPS
+Outdoor UPS Systems
+Extended Battery Banks
+More
+Less
+Shop by brand
+Moxa
+Cincoze
+ATOP Technologies
+PLANET Technology
+MSA Safety
+Falcon Electric
+Teltonika
+Asus IOT
+Lanner Electronics
+msa-menu
+ATOP Technologies
+Cincoze
+Falcon Electric
+Asus IOT
+InHand Networks
+Innodisk
+Moxa
+Patton
+PLANET Technology
+RuggON
+Teltonika
+Vecow
+WoMaster
+Lanner Electronics
+MI-TAC
+NEXCOM
+Neousys
+MSA
+More
+Less
+Certified Products
+DNV
+ABS
+LR
+NK
+Sales and Support
+Blog
+More
+Less
+About Us
+Line Card
+Privacy Policy
+Shipping & Returns
+Terms & Conditions
+Contact Us
+Cart
+SHOP BY CATEGORY
+Back
+INDUSTRIAL COMPUTING
+Modular Panel PC
+Rugged Embedded Computer
+Arm-Based Computers
+Industrial Edge Computers
+IIoT Gateways
+x86 Computers
+Embedded Computer with GPU
+Panel Computers & Displays
+IP67 RATED
+IP67 Rated Wireless AP/Bridge/Clients
+Machine Vision Cameras
+IP-67 Computers
+IP67 Unmanaged Ethernet Switches
+IP67 Full Gigabit Ethernet Switches
+IP67 Rated Ethernet Switches
+IP67 Rated IP Cameras
+IP68 Outdoor Industrial AP/Bridge/Client
+IP67 PoE + Ethernet Extender
+IP67 Rated Antennas
+IP67 Industrial Wireless Access Points
+IP67 Long Distance WiFi MESH AP/Router
+IP67 Outdoor Smart City Box
+INDUSTRIAL EDGE CONNECTIVITY
+IoT Edge Gateways
+Serial Device Servers
+Serial Converters
+Protocol Gateways
+USB-to-Serial Converters/USB Hubs
+Multiport Serial Boards
+Controllers & I/Os
+IP Cameras & Video Servers
+OPC UA Software
+INDUSTRIAL NETWORK INFRASTRUCTURE
+ATOP Ethernet Switch
+Ethernet Switches
+Ethernet to Fiber Media Converters
+LTE Routers
+Managed Switches
+NAT Switches & Wired Routers
+Serial to Fiber Media Converters
+Wi-Fi Serial & Modbus Gateways
+Secure Routers
+Wireless AP/Bridge/Clients
+Cellular Gateways/Routers
+Ethernet Media Converters
+Network Management Software
+Secure Remote Access
+Network Security Appliances
+MOXA ACCESSORIES
+Backup Configurators
+Cables and Connectors
+Fiber Optic Adapters and Bypass Units
+Mounting Kits
+PoE Accessories
+Power Accessories
+SFP Modules
+Surge Protectors
+Wireless Accessories
+RUGGED TABLETS
+Rugged Android Tablets
+Rugged Windows Tablets
+Rugged Tablet Accessories
+RUGGED IN VEHICLE COMPUTERS
+Vehicle Mount Computers
+Mobile Data Terminals
+Rugged In Vehicle Monitor
+Asus IOT
+Edge AI Systems
+Embedded Boards and Motherboards
+Rugged Industrial PCs
+UNINTERRUPTIBLE POWER SUPPLIES
+Wide Temperature UPS
+Extra Wide Temperature UPS
+Outdoor UPS Systems
+Extended Battery Banks
+SHOP BY BRAND
+Back
+ATOP Technologies
+Cincoze
+Falcon Electric
+Asus IOT
+InHand Networks
+Innodisk
+Moxa
+Patton
+PLANET Technology
+RuggON
+Teltonika
+Vecow
+WoMaster
+Lanner Electronics
+MI-TAC
+NEXCOM
+Neousys
+MSA
+Home
+Blog
+Panel PCs for Rugged Outdoor Environments | M/A Rugged
+Panel PCs Certified for Mission-critical Applications
+Optimize your operations with Moxa's panel PCs. These panel PCs provide secure and reliable surv
+…
+Learn more
+28th Aug 2026 Admin
+Compact Stackable AI PC for Edge | M/A Rugged
+Vecow TGS-1000 Series Ultra-compact Stackable AI PC
+Vecow has unveiled its latest innovations: the TGS Series sleek, ultra-compact stackable AI PC pow
+…
+Learn more
+12th May 2025 Admin
+SparkLAN Unveils 5G RedCap Modules | M/A Rugged
+SparkLAN Unveils 5G RedCap AC5035 SiP & AC5035M2 Module: A Game-Changer for Global IoT
+The future of IoT and smart applications is evolving rapid
+…
+Learn more
+11th Apr 2025 Admin
+Vecow ECX-4000 Series: Unmatched Performance for AI-powered Edge Applications | M/A Rugged
+Vecow announces the ECX-4000 series, a breakthrough addition to its High-Performance Fanless Embedded System portfolio. Designed with Intel®
+…
+Learn more
+4th Feb 2025 Admin
+Smart Switches That Fit Just Right | M/A Rugged
+Smarter Industrial Networking with Moxa’s SDS-3000/G3000 Series
+In today’s fast-moving world of industrial automation, reliable and effici
+…
+Learn more
+20th Jan 2025 Admin
+Elevate Your Industrial Network with Moxa's MGate 5192 Series Industrial Communication Gateways
+Moxa is thrilled to unveil the MGate 5192 Series, the latest innovation in industrial communication gateways. This powerful 1-port IEC 61850-to-DNP3/I
+…
+Learn more
+17th Dec 2024 Admin
+1
+2
+3
+4
+OK
+Contact Us
+Our partners design products that are specifically engineered to operate in harsh usage
+environments, such as extreme temperatures, strong vibration, and wet or dusty conditions.
+Contact us for commercial off-the-shelf products as well as custom solutions.
+Contact Us
+Mid-Atlantic Rugged Systems
+95 Monocacy Blvd, Suite B18
+Frederick, MD 21701
+sales@marugged.com
+855-784-4334
+Accounts & Orders
+Wishlist
+Login
+& Sign Up
+Order Status
+Shipping & Returns
+Navigate
+Products
+Sales and Support
+Blog
+About Us
+Contact Us
+Join Our Mailing List
+Sign up for our newsletter to receive specials and up to date product news and releases.
+Email Address
+Follow Us
+© Copyright Get Rugged. All Rights Reserved.
+Before you go, let's make sure you find the right solution.
+Our engineers are here to help you find the perfect rugged computing
+solution for your application.
+Expert Guidance
+Custom Configurations
+Evaluation Units
+Fast Quotes & Reliable Support
+Get expert help & product updates
+Leave your details and we'll reach out with the right
+solutions, resources, and updates.
+Get Help from an Engineer
+We respect your privacy. Your information is secure and will never be shared.
+Bonus: Get our Rugged Computing Buyer's Guide
+Best practices, key considerations & solution checklist.
+Rugged solutions built for the world's toughest environments.
+Why engineers choose M/A Rugged
+20+ leading technology partners
+Project-based engineering support
+Configured to your exact requirements
+Trusted by industries worldwide
+"Marugged helped us configure the right system and delivered on time. Great support
+throughout the project."
+– Systems Integrator, Industrial Automation
+Recent Products
