@@ -62,10 +62,11 @@
  ],
  "grade_override": "A",
  "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 1 封 / 表内 1 条 / 研究档 0 条（S；2024-11→2024-11）",
- "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网核对 + 同名消歧）"
+  "level": "B 级加厚 v1（官网核对 + 同名消歧） + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "company_facts": {
   "legal_name": "STS ITALIA S.R.L.（P.IVA / C.F. 00865310247；REA MB 1490600，原 VI 175684；1984-03-16 成立；Via Altiero Spinelli 134, 20862 Arcore (MB)；ATECO 43.21.02；股本 €110,000；PEC stsitaliasrl@pec.telemar.it；SDI MJ1OYNU）",
@@ -142,6 +143,14 @@
     "quote": "Hi, Eros, Thanks for your interest. *Its 280 Euro for this model.* STC-448XGGPM, Commercial PoE Managed Switch 4*1G/2.5G/10G SFP+48*10/100/1000M RJ45+1*Console Port, L2+ managed, Marvell Chip PoE af/at, 440W budget, Support PoE management, PoE watchdog Single AC input, Rack compatible, With mounting…",
     "why": "Saga 实质答复原文（主题「Re: 48 Port PoE Managed Switch」；第 20 批从 gmail_s 回补）——承诺/口径以此为准",
     "k": "b552ce1372ae1296"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "STS Italia | Sistemi integrati di sicurezza — STS Italia progetta e realizza sistemi integrati di sicurezza, antintrusione, antincendio, TVCC e software di supervisione.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.stsitalia.com/"
    }
   ],
   "proof_gaps": [],
@@ -181,13 +190,15 @@
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:23:19Z",
-   "2026-10-29T15:31:47Z"
+   "2026-10-29T15:31:47Z",
+   "2026-11-01T09:53:41Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-01"
  },
  "ab_final": {
   "date": "2026-10-30",
@@ -419,5 +430,18 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [
+   "info@stsitalia.com"
+  ],
+  "phones": [
+   "00865310247"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://www.stsitalia.com/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

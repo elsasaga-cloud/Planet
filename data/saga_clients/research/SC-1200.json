@@ -2,11 +2,16 @@
  "code": "SC-1200",
  "name_official": "futurepointt.com",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（futurepointt.com，快照 2026-11-01）：Future Point",
  "summary": "巴基斯坦客户（futurepointt.com）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-10→2024-10）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "Cisco",
+  "Fortinet",
+  "Juniper"
+ ],
  "evidence": [
   {
    "kind": "邮箱来信/用户表",
@@ -24,10 +29,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/brands_seen/site_contacts/deep/facts。\n（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-01 回信建档"
+  "level": "AB-FINAL-01 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -68,6 +74,14 @@
     "quote": "Future Point Technologies · IT Services and IT Consulting · Lahore · 51-200 employees · Founder and CTO Javed Hashmi",
     "why": "A 落池核验：身份/角色/规模（网页公开信息）",
     "url": "https://pk.linkedin.com/company/future-point-technologies"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Future Point",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://futurepointt.com/"
    }
   ],
   "binding": {
@@ -292,5 +306,30 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:53:43Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@futurepointt.com"
+  ],
+  "phones": [
+   "+92 42 5846691-2"
+  ],
+  "social": [
+   "https://twitter.com/FuturePoint17",
+   "https://www.facebook.com/profile.php?id=100084498926966",
+   "https://www.linkedin.com/company/future-point-technologies",
+   "https://www.youtube.com/channel/UCcpGKTYiQkdcQW6U8p3MSHA"
+  ],
+  "models_on_site": [],
+  "url": "https://futurepointt.com/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

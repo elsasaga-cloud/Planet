@@ -2,7 +2,7 @@
  "code": "SC-2839",
  "name_official": "宸曜科技股份有限公司 NEOUSYS TECHNOLOGY INC.",
  "researched_at": "2026-10-29",
- "website_status": "快照失败（neousys-tech.com：HTTP 错误，2026-10-29，第 1 次）",
+ "website_status": "快照失败（neousys-tech.com：HTTP 错误，2026-11-01，第 2 次）",
  "summary": "C 池三闸捞出（★ 正式）：★ 台湾 · 上櫃品牌商 OEM 30%（长线）：宸曜科技 Neousys Technology Inc.（新北中和；統編 29169532；上櫃 6922；2010；資本 NT$5 億；董事長 高明和）坐实；品牌商 ✔ 工业对位 ✔ → P 池候选（20 推 0 回 → 换 OEM 稿点名产品经理）",
  "type": "上櫃品牌商 OEM（闸 2 判定 · 30% 档）",
  "size": "大型（上櫃；資本 NT$5 億）",
@@ -46,7 +46,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 台湾 · 上櫃品牌商 OEM 30%（长线）：宸曜科技 Neousys Technology Inc.（新北中和；統編 29169532；上櫃 6922；2010；資本 NT$5 億；董事長 高明和）坐实；品牌商 ✔ 工业对位 ✔ → P 池候选（20 推 0 回 → 换 OEM 稿点名产品经理）；闸 1：台湾 Neousys Technology（neousys-tech.com；工业电脑品牌商，自有 5 电口工业 FS 宣传图做得不错；20 推 0 回）：品牌商 = OEM 对象 ✔ 对位 ✔（台湾 OEM 先例已入池）；→ 闸 2 查…",
- "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -146,10 +146,12 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-29T15:38:22Z"
+   "2026-10-29T15:38:22Z",
+   "2026-11-01T09:57:19Z"
   ],
   "fails": [
-   "2026-10-29"
+   "2026-10-29",
+   "2026-11-01"
   ],
   "batch": "LT-T03"
  },

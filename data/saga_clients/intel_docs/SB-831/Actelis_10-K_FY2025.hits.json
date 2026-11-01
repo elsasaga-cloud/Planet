@@ -1,0 +1,27 @@
+{
+ "code": "SB-831",
+ "label": "Actelis_10-K_FY2025",
+ "fair": null,
+ "url": "https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm",
+ "fetched_at": "2026-11-01T09:25:59Z",
+ "sha1": "767ffb9c950da98abd6b53895e329ee78ad87a1d",
+ "chars": 60000,
+ "hits": [
+  {
+   "kw": "distributor",
+   "pos": 28824,
+   "excerpt": "zing networking solutions. Market Verticals We Address We execute our vision through a multi-channel, global approach that combines our expertise, with the expertise of our trusted business partners, system integrators, distributors, and consultants. We operate a vertical-based marketing plan where we dedicate efforts and resources to each vertical. The verticals we focus on include: Federal and military, intelligent transportation systems (ITS), smart city, rail, airports. We also address utilities and campuses. .. In 2024, we launched our MDU "
+  },
+  {
+   "kw": "going concern",
+   "pos": 8358,
+   "excerpt": "omply with complex and increasing regulations by governmental authorities; ● our ability to regain and maintain compliance with continued listing requirements of the Nasdaq Capital Market; ● our ability to continue as a going concern; ● statements as to the impact of the political and security situation in Israel and the Middle East on our business, including due to the number of armed conflicts between Israel and Hamas (an Islamist terror and political group in the Gaza Strip) and Hezbollah (an Islamist terror and political group in Lebanon) and "
+  },
+  {
+   "kw": "component",
+   "pos": 17688,
+   "excerpt": "s often significantly more affordable, fast to deploy and predictable to plan and budget. 1 In addition, our solutions can also provide power over existing copper and coax lines to remotely power up network elements and components connected to them (like cameras, small cell and Wi-Fi base stations sensors etc.). Connecting power lines to millions of locations can be costly and very time consuming as well (similar to data connectivity, for the same reason — need for civil works). By offering the ability to combine power delivery over the same e"
+  }
+ ],
+ "kw_map": null
+}

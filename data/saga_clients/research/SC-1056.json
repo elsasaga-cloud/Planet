@@ -2,11 +2,14 @@
  "code": "SC-1056",
  "name_official": "cloudinfotech.co.in",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（cloudinfotech.co.in，快照 2026-11-01）：India's Most Trusted VoIP & Networking Provider",
  "summary": "印度客户（cloudinfotech.co.in）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-11→2024-11）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Grandstream",
+  "Huawei"
+ ],
  "evidence": [
   {
    "kind": "邮箱来信/用户表",
@@ -24,10 +27,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/brands_seen/site_contacts/deep/facts。\n（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-01 回信建档"
+  "level": "AB-FINAL-01 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -68,6 +72,14 @@
     "quote": "CIN U74999UP2018PTC100481 · Directors Parul Garg, Rajiv Kumar Goyal (2018-01-18) · D-92, Sector-63, Noida · Active",
     "why": "A 落池核验：身份/角色/规模（网页公开信息）",
     "url": "https://www.zaubacorp.com/CLOUD-INFOTECH-PRIVATE-LIMITED-U74999UP2018PTC100481"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "India's Most Trusted VoIP & Networking Provider — India's leading VoIP & networking provider, delivering reliable communication solutions with cutting-edge technology and uninterrupted connectivity.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://cloudinfotech.co.in/"
    }
   ],
   "binding": {
@@ -360,5 +372,42 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:53:43Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "contact@cloudinfotech.co.in",
+   "info@cloudinfotech.co.in"
+  ],
+  "phones": [
+   "+91 9999-284-312",
+   "+91-120-4119920",
+   "+91-9999-284-312"
+  ],
+  "social": [
+   "https://twitter.com/CloudInfotech1",
+   "https://wa.me/919999284312",
+   "https://www.facebook.com/cloudinfo2009",
+   "https://www.instagram.com/official_cloudinfotech/"
+  ],
+  "models_on_site": [
+   "UCM6300",
+   "WP810",
+   "GWN7700",
+   "QSFP28",
+   "GWN7800",
+   "GWN7810",
+   "GXV3600",
+   "GUV3000"
+  ],
+  "url": "https://cloudinfotech.co.in/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

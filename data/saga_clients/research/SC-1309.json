@@ -2,7 +2,7 @@
  "code": "SC-1309",
  "name_official": "Elftech Co.,Ltd.",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（elftech.co.kr，快照 2026-11-01）：ãìíí í¬ ELFTECH Â· WDM ê´ì ì¡ê³¼ ì ë° ìê°ëê¸°",
  "summary": "韩国客户（elftech.co.kr）：AB-FINAL-02 以回信证据建档——非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -17,10 +17,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/site_contacts/deep/facts。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-02 回信建档"
+  "level": "AB-FINAL-02 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -37,6 +38,14 @@
     "quote": "推「Simon 备注/兴趣栏」→ 对方「问了3800系列的特点，知道相干模块，问了200G QSFP DD的价格，是否Tunable\n网站上有WDM设备，不过看着不太一样 ； 82-10 6810 5」",
     "why": "表内客户回复（pos）",
     "k": "Clients/ 表格"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "ãìíí í¬ ELFTECH Â· WDM ê´ì ì¡ê³¼ ì ë° ìê°ëê¸° — ãìíí í¬ë WDM ê´ì ì¡ì¥ë¹(ì£¼ë ¥ ELF5000)ì ì ë° ëê¸° í´ë­ì ìì²´ ê°ë°Â·ê³µê¸í©ëë¤. ì´ëíµì ì¬ì êµ­ê° ê¸°ê°ë§ì ì ì¡ ì¸íë¼ë¥¼ ì± ìì§ëë¤.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://elftech.co.kr/"
    }
   ],
   "binding": {
@@ -92,5 +101,28 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:56:31Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [],
+  "models_on_site": [
+   "ELF5000",
+   "STM-16",
+   "ELF4360",
+   "ELF1006",
+   "STM-64",
+   "TP5000"
+  ],
+  "url": "https://elftech.co.kr/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

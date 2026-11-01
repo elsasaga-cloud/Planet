@@ -1,0 +1,234 @@
+﻿库,编号,公司,快照状态,快照日期,标题,自动对位,在卖品牌,页面邮箱数,动作
+Planet,PB-009,BTS NETWORK GmbH (lwl-shop24.de),http_error,2026-11-01,,,,0,备注
+Planet,PB-010,Ballicom Ltd,http_error,2026-11-01,,,,0,备注
+Planet,PB-037,Fiber24 (shop.fiber24.net),http_error,2026-11-01,,,,0,备注
+Planet,PB-038,TRIOTRONIK Computerhandels GmbH,ok,2026-11-01,TRIOTRONIK - der Netzwerkdistributor,STI-288GP,Ubiquiti,1,备注
+Planet,PB-056,ViSe S.r.l.,unreachable,2026-11-01,,,,0,备注
+Planet,PB-068,MARCOM S.r.l.,http_error,2026-11-01,,,,0,备注
+Planet,PB-084,VoIPDistri.com (VOIP.world),http_error,2026-11-01,,,,0,备注
+Planet,PB-086,Technical Reality Limited,unreachable,2026-11-01,,,,0,备注
+Planet,PC-002,Senetic,http_error,2026-11-01,,,,0,备注
+Planet,PC-011,Akçaba Communications (Akçaba Ltd.),unreachable,2026-11-01,,,,0,备注
+Saga,SA-004,Boecek Sec,parked_or_empty,2026-11-01,STRATO - Domain reserved,,,0,fail#3
+Saga,SA-021,optiviewusa.com,http_error,2026-11-01,,,,0,fail#3
+Saga,SA-023,fcnet.pl,http_error,2026-11-01,,,,0,fail#3
+Saga,SA-027,Al Salami Trading L.L.C,timeout,2026-11-01,,,,0,fail#3
+Saga,SA-038,dncsolutions.co.in,timeout,2026-11-01,,,,0,fail#3
+Saga,SA-062,ipns-uae.com,http_error,2026-11-01,,,,0,fail#3
+Saga,SA-071,surlink-tech.com,http_error,2026-11-01,,,,0,fail#3
+Saga,SA-076,Telemobil,timeout,2026-11-01,,,,0,fail#3
+Saga,SA-078,James Clendenan Systems Ltd.,timeout,2026-11-01,,,,0,website_status/fail#2
+Saga,SA-079,Biz-Ethics Ltd.（BEL Networks）,parked_or_empty,2026-11-01,Your future website - 1st Domains,,,0,website_status/fail#2
+Saga,SA-090,WizardsInc Sdn Bhd,timeout,2026-11-01,,,,0,website_status/fail#2
+Saga,SB-003,Rio-Import LLC（ООО «РИО-ИМПОРТ»）,ok,2026-11-01,ООО ”РИО-ИМПОРТ” - Главная,,Moxa,6,brands_seen/site_contacts/deep/facts
+Saga,SB-014,"ITS, S.L.-S.B.T.",http_error,2026-11-01,,,,0,fail#3
+Saga,SB-024,ERSTECH,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-027,VoIPDistri,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-034,TJ Computer,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-044,Win-Tech Alliance Ltd,parked_or_empty,2026-11-01,Welcome to our website,,,0,fail#3
+Saga,SB-045,advancedigital.co.in,parked_or_empty,2026-11-01,Welcome to,,,0,fail#3
+Saga,SB-053,onnettechnologies.com,parked_or_empty,2026-11-01,,,,0,fail#3
+Saga,SB-070,neowine,ok,2026-10-21,neowine,,,0,site_contacts/deep/facts
+Saga,SB-079,cansisteknoloji.com,timeout,2026-11-01,,,,0,fail#3
+Saga,SB-080,cyber-tec.net,unreachable,2026-11-01,,,,0,website_status/fail#1
+Saga,SB-081,dabos.com,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-082,voltechelektronik.com,unreachable,2026-11-01,,,,0,fail#3
+Saga,SB-090,adlerss.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-1012,bitstreamcore.com,timeout,2026-11-01,,,,0,fail#3
+Saga,SB-1034,gogss.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-104,STS Italia S.r.l.,ok,2026-11-01,STS Italia | Sistemi integrati di sicurezza,,,1,site_contacts/deep/facts
+Saga,SB-1051,klemsan.com.tr,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-1055,marcomweb.it,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-1064,portdepo.ru,ok,2026-11-01,"Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России",STI-288GP,Ubiquiti;MikroTik;Cambium;Fortinet,2,website_status/brands_seen/site_contacts/deep/facts
+Saga,SB-1075,silmarelectronics.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-1087,tehnoelectric.ro,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-1098,zintronic.pl,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-110,itkati.com,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-1103,ara.com.bd,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-1108,Sunmars Enterprises,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-1135,raisecom.su,unreachable,2026-11-01,,,,0,fail#2
+Saga,SB-146,exsys.it,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-165,yminc.ca,timeout,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-169,agsplus.in,parked_or_empty,2026-11-01,Coming Soon,,,0,fail#3
+Saga,SB-187,pelikanbilgisayar.com,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-194,SRI ANNAI BUSINESS ASSOCIATES,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-195,bkgrupe.lt,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-212,fti-optronic.com,ok,2026-11-01,"ФТИ-Оптроник – производитель лазерных указателей пропила, лазерных модулей, прие",,,4,website_status/site_contacts/deep/facts
+Saga,SB-225,CESS Govalik,unreachable,2026-11-01,,,,0,fail#3
+Saga,SB-234,benzotronic.it,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-268,bulutlarbilisim.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-273,eretekne.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-294,viva bilgisayar,parked_or_empty,2026-11-01,vivabilgisayar.com Premium Parking Page,,,1,fail#3
+Saga,SB-307,Saxco Marketing Sdn Bhd,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-321,BWsystems,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-327,Techno Tower,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-346,atz.com.sg,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-352,fiberdyne.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-354,fiberopticlink.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-386,dvs.co.uk,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-389,hiperonline.com,parked_or_empty,2026-11-01,HiperOnline.com is for sale | HugeDomains,,,0,fail#3
+Saga,SB-396,morekamer.ru,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-400,safanetworks.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-451,e-saudi.net,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-460,4G-GmbH,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-485,n-itus.com,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-487,npotelecom.ru,ok,2026-11-01,Производство телекоммуникационного оборудования - НПО Телеком,STC-424DGGPM-280W,,1,website_status/site_contacts/deep/facts
+Saga,SB-498,DTI Tecnologia Ltda,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-509,ionetech.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-522,adilec.com,parked_or_empty,2026-11-01,Adilec.com is for sale | HugeDomains,,,0,fail#3
+Saga,SB-525,atlantis-land.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-537,htvision.ru,ok,2026-11-01,Системы видеонаблюдения от производителя HTV в Москве,STC-424DGGPM-280W,,1,website_status/site_contacts/deep/facts
+Saga,SB-551,sanspot.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-558,uniformatic.fr,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-564,Latitude,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-575,marbim.com.tr,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-579,nnc.net.vn,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-586,Matrix vision systems,unreachable,2026-11-01,,,,0,fail#3
+Saga,SB-635,LMD Hitech India (P) Ltd.,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-636,MARZETEK (Pty) Ltd,parked_or_empty,2026-11-01,"VE Host - vehost.co.za - Website hosting, Reseller Hosting, VPS/Cloud Hosting",,,0,fail#3
+Saga,SB-685,techsouq.com,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-691,vitel.com.tr,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-724,Comms Express Ltd,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-729,Heitech Padu Berhad,parked_or_empty,2026-11-01,,,,0,fail#3
+Saga,SB-730,ITSS Inc/,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-740,britaniccablingproduction.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-772,mencom.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-781,silvernet.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-797,Excel Engineering (SG) Pte Ltd,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-798,Getec,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-815,lendoux.com,parked_or_empty,2026-11-01,Lendoux Specialized Store,,,2,fail#3
+Saga,SB-838,gmidatabox.fr,timeout,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-844,oemarket.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-869,futurist.com.pk,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-895,vilcom.ru,ok,2026-11-01,ВИЛКОМ ХОЛДИНГ - профессиональная системная интеграция,STC-424DGGPM-280W,,2,website_status/site_contacts/deep/facts
+Saga,SB-905,TELTRONIX | BRITICOM,http_error,2026-11-01,,,,0,fail#3
+Saga,SB-948,krysma.com.au,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-962,triplenet.co.kr,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-966,view-tel.co.kr,unreachable,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-968,zenithtek.co.kr,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-972,KN Electrologic Services Ltd,timeout,2026-11-01,,,,0,website_status/fail#3
+Saga,SB-993,abigo4u.com,http_error,2026-11-01,,,,0,website_status/fail#3
+Saga,SC-001,sslcom.com,ok,2026-11-01,SSL – Just another WordPress site,,,1,site_contacts/deep/facts
+Saga,SC-007,bornelectronics.com,ok,2026-11-01,Home | Born Electronics,STI-288GP,,1,site_contacts/facts
+Saga,SC-097,Three Lines Company,ok,2026-10-21,3Lines Advanced Technologies Company | 3Lines,,,1,site_contacts/deep/facts
+Saga,SC-1014,gtlan.com,crash,2026-11-01,,,,0,fail#2
+Saga,SC-1056,cloudinfotech.co.in,ok,2026-11-01,India's Most Trusted VoIP & Networking Provider,STC-424XGGM,Grandstream;Huawei,2,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-114,Siklu Communication,ok,2026-10-21,Siklu by Ceragon mmW PtP & PtMP | Ceragon Networks,STI-280GE,Ubiquiti,0,brands_seen/site_contacts/deep/facts
+Saga,SC-1168,vuetec.de,ok,2026-11-01,"vuetec.tv | Professionelles Equipment für Audio, Video und Film",,,3,website_status/site_contacts/deep/facts
+Saga,SC-1176,PT Omni Cakrawala Komunikasi,ok,2026-11-01,"Selamat, website omnicom.co.id telah aktif!",,,5,website_status/site_contacts/deep/facts
+Saga,SC-1177,Projexon,ok,2026-11-01,"projexon | Business Solutions Provider , Consulting & Advisory Services",,,1,website_status/site_contacts/deep/facts
+Saga,SC-1200,futurepointt.com,ok,2026-11-01,Future Point,,Ubiquiti;Cisco;Fortinet;Juniper,1,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-1297,winncom.com,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-1309,"Elftech Co.,Ltd.",ok,2026-11-01,ãìíí í¬ ELFTECH Â· WDM ê´ì ì¡ê³¼ ì ë° ìê°ëê¸°,,,0,website_status/site_contacts/deep/facts
+Saga,SC-1365,masibus.com,ok,2026-11-01,"Sonepar India Pvt. Ltd. – Ahmedabad, Gujarat, India.",STI-280GE,,3,site_contacts/saga_fit/deep/facts
+Saga,SC-1366,mayenetsolutions.com,timeout,2026-11-01,,,,0,website_status/fail#1
+Saga,SC-1399,team5tech.com,ok,2026-11-01,Team5 Technologies - Enabling AI Digital Transformation,STI-280GE,Fortinet;Cisco;Juniper,3,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-1443,infinique.com,unreachable,2026-11-01,,,,0,fail#2
+Saga,SC-1469,Defense MICE Institude,ok,2026-11-01,(사)한국국방MICE연구원,,,1,website_status/site_contacts/deep/facts
+Saga,SC-1491,distri-x.nl,ok,2026-11-01,Homepage | Distri X,,,1,website_status/site_contacts/deep/facts
+Saga,SC-1583,cartagocomex.com,http_error,2026-11-01,,,,0,website_status/fail#2
+Saga,SC-1623,shopfiber.co.za,ok,2026-11-01,Home - Southern Elements,STC-28DGGPM,,1,website_status/site_contacts/deep/facts
+Saga,SC-1715,onsite.pk,ok,2026-11-01,"ONSITE, Cybersecurity Solutions provider in Pakistan, Endpoint Security, Network",STC-424DGGPM-280W,Dahua;Huawei;H3C;Fortinet;ZKTeco,1,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-1771,telexcell.com,ok,2026-11-01,,,,0,deep
+Saga,SC-1812,ns-t.ru,ok,2026-11-01,Российский вендор сетевого оборудования в Москве| New system technologies,STC-424DGGPM-280W,,3,website_status/site_contacts/deep/facts
+Saga,SC-1841,cnca.com.ar,ok,2026-11-01,CNCA – Trading y Comercio Internacional con foco en el mercado Asiatico,,,0,website_status/site_contacts/deep/facts
+Saga,SC-1881,Tss security systems,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-190,Crontr Technology,ok,2026-11-01,Cronte Technology – Distribución de sistemas de productos de seguridad electróni,STC-28DGGPM,Dahua;Paradox,0,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-1904,optimal.com.ph,ok,2026-11-01,"Optimal Systems Distribution, Inc. – Optimal Systems Distribution, Inc.",STI-288GP,PLANET,1,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-1979,switchquang.com.vn,timeout,2026-11-01,,,,0,fail#2
+Saga,SC-2012,VEMAX TECHNOLOGY SDN.BHD,ok,2026-11-01,VEMAX DISTRIBUTION - YOUR TRUSTED IT DISTRIBUTOR -,STI-288GP,TRENDnet;Grandstream;Teltonika;Ubiquiti;D-Link,1,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-2154,roundrobintech.com,ok,2026-11-01,Cybersecurity Distributor in India | RoundRobin Tech,STI-288GP,Ubiquiti,2,brands_seen/site_contacts/saga_fit/deep/facts
+Saga,SC-2217,Shinhoinia,http_error,2026-11-01,,,,0,website_status/fail#1
+Saga,SC-2452,a-secur.com,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-2488,fiber24.net,http_error,2026-11-01,,,,0,website_status/fail#2
+Saga,SC-2513,microtech.net.pk,ok,2026-11-01,Tech Solutions & Networking in Pakistan | Microtech - 1997,STI-288GP,Ubiquiti;Huawei;MikroTik;Dahua;ZKTeco,2,brands_seen/site_contacts/deep/facts
+Saga,SC-2587,tactio.net,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-2608,mayflex.com,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-2637,ORIENT TELECOMS,ok,2026-11-01,Orient Telecoms plc â Hyper Infrastructure for Digital Sovereignty Â· Orient T,,,2,website_status/site_contacts/deep/facts
+Saga,SC-2684,hirtv.net,http_error,2026-11-01,,,,0,website_status/fail#1
+Saga,SC-2760,tempelgroup.com,unreachable,2026-11-01,,,,0,fail#2
+Saga,SC-2802,Euro Security Solutions Ltd,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-2813,siospa.it,ok,2026-11-01,Sio SpA - Intelligence Operations : Sio SpA,,,0,website_status/deep/facts
+Saga,SC-2823,ST SPACE TECHNOLOGY,ok,2026-11-01,Продажа систем видеонаблюдения и безопасности | Space Technology,,,2,website_status/site_contacts/deep/facts
+Saga,SC-2839,neousys-tech.com,http_error,2026-11-01,,,,0,website_status/fail#2
+Saga,SC-2857,Tropical Computers Cairns,unreachable,2026-11-01,,,,0,website_status/fail#1
+Saga,SC-2904,firsttech.co.za,ok,2026-11-01,First Technology | We've got IT Covered,STC-28DGGPM,,1,website_status/site_contacts/deep/facts
+Saga,SC-291,fgss.asia,ok,2026-11-01,FGSS – First Global Support Services,,,2,website_status/site_contacts/deep/facts
+Saga,SC-3007,ks-itsolutions.com,ok,2026-11-01,KS IT Solutions Sdn Bhd – Reliable IT Solutions & Internet Services Provider Mal,STC-28DGGPM,Cisco;Juniper;Hikvision,1,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-311,videoglaz.ru,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-3133,federalcable.net,ok,2026-11-01,FEDERAL CABLE | End-to-End Datacom Solutions Rep Firm,STC-424DGGPM-280W,,1,website_status/site_contacts/deep/facts
+Saga,SC-3203,jteemsolutions.com,parked_or_empty,2026-11-01,Coming Soon - Start Bootstrap Theme,,,0,website_status/fail#1
+Saga,SC-3204,koc.com.cn,ok,2026-11-01,KOC - Global Fiber Optic Cabling and Components Supplier,STI-288GP,,1,website_status/site_contacts/deep/facts
+Saga,SC-324,enercore.co.in,ok,2026-11-01,Enercore Systems,,,1,website_status/site_contacts/deep/facts
+Saga,SC-3249,te.eg,ok,2026-11-01,WE مصر | باقات الإنترنت والموبايل وخدمات الاتصالات - Telecom Egypt,,,1,website_status/site_contacts/deep/facts
+Saga,SC-368,Itmax system sdn bhd,ok,2026-11-01,AI-POWERED Integrated Digital Infrastructure Service Provider | ITMAX,,,0,website_status/site_contacts/deep/facts
+Saga,SC-432,CabNet Systems(M) Sdn. Bhd,ok,2026-11-01,Cabnet Holdings Berhad :: Home,,,2,website_status/site_contacts/deep/facts
+Saga,SC-439,IRnow Sdn Bhd,ok,2026-11-01,IRnow,STI-280GE,,1,website_status/site_contacts/deep/facts
+Saga,SC-468,bkeesti.ee,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-584,nambasoftware.com.br,ok,2026-11-01,"Namba Software | SoluÃ§Ãµes em CiberseguranÃ§a, Cloud e Infraestrutura TI",,,0,website_status/deep/facts
+Saga,SC-619,hdcabling.co.za,ok,2026-11-01,"HDCabling Centurion And Boksburg | Online And Walk-in Networking, Electronics An",STI-288GP,Hikvision;Cisco;Tenda,1,website_status/brands_seen/site_contacts/deep/facts
+Saga,SC-644,scoop.co.za,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-665,Civitas systems Srl,ok,2026-11-01,Civitas Group | Servicii Integrate Securitate| Paza| Sisteme| Monitorizare Inter,STI-280GE,,1,website_status/site_contacts/deep/facts
+Saga,SC-838,koscomcable.com,http_error,2026-11-01,,,,0,website_status/fail#1
+Saga,SC-855,mastdigital.co.uk,http_error,2026-11-01,,,,0,fail#2
+Saga,SC-935,semaphore-systems.co.uk,http_error,2026-11-01,,,,0,fail#2
+External,XA-C0007,Computer Gross SPA,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-C0015,TURM GmbH,ok,2026-11-01,Sicherheitstechnik – Produkte bei der TURM GmbH kaufen,STC-424DGGPM-280W,,3,alive/contacts.page/evidence/site_p1_hint
+External,XA-E002,Circle B（Taurus Group 旗下）,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-E005,Utopia Technology Limited,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-E012,Sotel Systems,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-E018,FONEX Data Systems Inc.,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-M031,Westercom,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M051,Peter Freeman / Freeclix,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M105,MS Electronics LTD,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M130,etree GmbH,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M148,AIRCOM Praha s.r.o.,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M182,VODENN SAS,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-M217,Controller Service and Sales,ok,2026-11-01,Motor Control Power Distribution and Safety Products,STI-288GP,Moxa,0,alive/brands_seen/evidence/site_p1_hint
+External,XA-M236,Data Monitor,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M247,NetXL Distribution Ltd.,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M252,VoiceHost Limited,timeout,2026-11-01,,,,0,alive/fail#2
+External,XA-M253,broadbandbuyer.com,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M267,SDC Group,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M270,Bruno Caiola Ricardo / Sinaltech,ok,2026-11-01,Home | Sinaltech,,Huawei,1,alive/brands_seen/contacts.page/evidence
+External,XA-M310,"BCL Enterprises, Inc.",unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-M315,Nexware Technologies,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M346,Networkology Ltd,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-M348,EAC Network Solutions,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M372,buerodata AG,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M432,COMPUTER TIME S.r.l.,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-M443,GIS s.r.l.,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M453,Net Engineering SpA,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-M455,NEWSOFT Technology SRL,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XA-M458,Securcrea Snc,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M492,SOS electronic,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M494,Cogent Distribution,http_error,2026-11-01,,,,0,alive/fail#2
+External,XA-M502,Microstar sp. z o. o.,http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-C0119,Gear Net Technologies（美国）,ok,2026-11-01,"IT Hardware Distributor in Dubai, UAE | GNTME",STI-288GP,Cisco;Juniper;Huawei;Hikvision;Dahua;Fortinet;Ubiquiti;Aruba,1,alive/brands_seen/contacts.page/evidence/site_p1_hint
+External,XB-C0131,I KEN Computers Limited (肯尼亚),http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-C0242,Nordic Distribution TZ Limited (坦桑尼亚),unreachable,2026-11-01,,,,0,alive/fail#2
+External,XB-C0249,Automatec Importaciones SpA (智利),http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-C1241,Hiperdist UAE,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XB-E010,"Positron Multiverse Co., Ltd",ok,2026-11-01,IIS Windows Server,,,0,alive/evidence
+External,XB-E013,DataOne Solutions Sdn Bhd,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XB-E027,NDC JOINT STOCK COMPANY,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XB-E031,Micromap Electronic Systems Pvt.,http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-E032,Ovin Technologies,http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-E038,ATL Colombia SAS,http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-E077,RapidBTS Limited,parked_or_empty,2026-11-01,RapidBTS Limited is under construction,,,0,alive/fail#2
+External,XB-E078,CCTech Distribution,http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-E080,Contra Technology,http_error,2026-11-01,,,,0,alive/fail#2
+External,XB-E091,Digital CCTV Philippines,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-C0083,Mayflex（英国）,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-C1024,Scoop Distribution (Pty) Ltd,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-C1218,Mast Digital UK,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-E035,Scoop Distribution,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M019,Fiber24,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M037,Winncom Technologies（Dublin）,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M059,Jānis Jaunošāns,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M097,Piero Bersanini,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M115,Phoebe IDF,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M133,Adcon Engineering（ACD/Adcon）,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M149,Logic Inc,http_error,2026-11-01,,,,0,alive/fail#2
+External,XC-M247,TEMPEL GROUP CHILE,unreachable,2026-11-01,,,,0,alive/fail#2
+External,XC-M329,Tempel Group,unreachable,2026-11-01,,,,0,alive/fail#2

@@ -2,7 +2,7 @@
  "code": "SC-2904",
  "name_official": "firsttech.co.za",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（firsttech.co.za，快照 2026-11-01）：First Technology | We've got IT Covered",
  "summary": "南非客户（firsttech.co.za）：AB-FINAL-01 以回信证据建档——真回信 3 封 / 表内 0 条 / 研究档 0 条（S；2024-08→2024-08）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -31,10 +31,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/site_contacts/deep/facts。\n（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-01 回信建档"
+  "level": "AB-FINAL-01 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -83,6 +84,14 @@
     "quote": "First Technology · 1,001-5,000 employees · Headquarters Midrand · Storage & Networking, Networking Services",
     "why": "A 落池核验：身份/角色/规模（网页公开信息）",
     "url": "https://za.linkedin.com/company/first-technology"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "First Technology | We've got IT Covered — We offer one of the broadest ranges of tailored technology solutions, backed by expert knowledge and a flexible approach to meet your unique goals for growth and innovation.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.firsttech.co.za/"
    }
   ],
   "binding": {
@@ -293,5 +302,27 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:53:44Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@firsttech.co.za"
+  ],
+  "phones": [
+   "+44 (0)1865 632 633"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/first-technology"
+  ],
+  "models_on_site": [],
+  "url": "https://www.firsttech.co.za/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

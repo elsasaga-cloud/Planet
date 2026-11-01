@@ -34,10 +34,11 @@
  ],
  "grade_override": "B",
  "override_reason": "A-DEEP-09 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：3Lines：航空国防 MRO 主业（军民用飞机备件、模拟器）→ 守界",
- "notes": "（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）｜2026-10-24（第 73 批，Elsa 邮箱连接器）：Eng. Mohamed Ismail 又发过两次 RFQ 且 Elsa 均未回——2025-10-02 航空地面设备备件清单（trackball / AOS computer / SCU assy，与 Saga 无关）；2026-02-08 RFQ-3L-NR-080226 + 02-15 追问，附件已拉（data/gmail_e/attachments/SC-097_RFQ-NR_080226_2026-02-08.xlsx）= HPE DL360/MSA 服务器 + Cisco Catalyst 9300L 48p PoE + C8200 路由器 + 42U 机柜 + 100 寸屏的整套项目 BOM，唯一交换机是 Cisco 9300L 指定件 → 采购部对所有供应商群发 RFQ，守界 C 不变，不回",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份判断 → 军工守界降 C）"
+  "level": "B 级加厚 v1（身份判断 → 军工守界降 C） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "saga_fit": {
   "p1": null,
@@ -92,6 +93,14 @@
     "why": "本户在 Elsa 的 1:1 名单里；未见回复（Elsa 箱 Replied 标签无）",
     "k": "elsa_1to1",
     "msg_id": "19b68e818f5b3782"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "3Lines Advanced Technologies Company | 3Lines — 3Lines Advanced Technologies Group was established in 2019 in alignment with Saudi Vision 2030 to localize military and civilian services within the Kingdom. The Group delivers integrated supply chain and technical services — procurement, logistics, ma",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.3lines.com.sa/en"
    }
   ],
   "proof_gaps": [],
@@ -221,5 +230,34 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:43:20Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@3lines.com.sa"
+  ],
+  "phones": [
+   "+966112252433"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/3lines",
+   "https://www.rtx.com/"
+  ],
+  "models_on_site": [
+   "RFFA2148",
+   "AS9110",
+   "AS9120B",
+   "ASA-100",
+   "TPS-78"
+  ],
+  "url": "https://www.3lines.com.sa/en",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -21,10 +21,11 @@
  ],
  "grade_override": "A",
  "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 5 封 / 表内 0 条 / 研究档 1 条（A；2026-05→2026-09）",
- "notes": "（建档：T29-U42 第 15 批，由 A 邮箱附件 RFP 触发；C 级人工定级不改，建议 Simon 复核升 B）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：deep。\n（建档：T29-U42 第 15 批，由 A 邮箱附件 RFP 触发；C 级人工定级不改，建议 Simon 复核升 B）",
  "deep": {
   "done_at": "2026-10-24",
-  "level": "仅邮件证据"
+  "level": "仅邮件证据 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "company_facts": {
   "legal_name": "TELEXCELL INFRANET SOLUTIONS PRIVATE LTD.",
@@ -401,5 +402,12 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:53:43Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
  }
 }

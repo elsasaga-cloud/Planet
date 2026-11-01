@@ -2,8 +2,8 @@
  "code": "XA-M148",
  "name": "AIRCOM Praha s.r.o.",
  "round": "LT-T03",
- "researched_at": "2026-10-29",
- "alive": "快照失败（wifihw.cz：HTTP 错误，2026-10-29，第 1 次）",
+ "researched_at": "2026-11-01",
+ "alive": "快照失败（wifihw.cz：HTTP 错误，2026-11-01，第 2 次）",
  "summary": "无线/网络设备网店（AIRCOM Praha，wifihw.cz；V-SOL GPON、Meanwell）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
  "type_final": "无线/网络设备网店（AIRCOM Praha，wifihw.cz；V-SOL GPON、Meanwell）",
  "size": "未量化",
@@ -46,7 +46,7 @@
   "window": "CZ 周四 12–14",
   "when": "2026-11-12"
  },
- "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "A second-source DIN-rail PoE switch for your industrial customers",
   "body": "Hi,\n\nI wrote on 6 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different angle, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE switch be a useful second option for your ISP customers, or do they stay with one brand?\n\nSimon\nSaga Telecom - sagatele.com"
@@ -54,10 +54,12 @@
  "deep": false,
  "snap_thicken": {
   "consumed": [
-   "2026-10-29T15:45:10Z"
+   "2026-10-29T15:45:10Z",
+   "2026-11-01T09:58:12Z"
   ],
   "fails": [
-   "2026-10-29"
+   "2026-10-29",
+   "2026-11-01"
   ]
  }
 }

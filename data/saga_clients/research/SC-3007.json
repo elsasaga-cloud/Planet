@@ -2,11 +2,15 @@
  "code": "SC-3007",
  "name_official": "ks-itsolutions.com",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（ks-itsolutions.com，快照 2026-11-01）：KS IT Solutions Sdn Bhd – Reliable IT Solutions & Internet Services Provider Malaysia",
  "summary": "马来西亚客户（ks-itsolutions.com）：AB-FINAL-02 以回信证据建档——非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Juniper",
+  "Hikvision"
+ ],
  "evidence": [
   {
    "kind": "邮箱来信/用户表",
@@ -17,10 +21,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/brands_seen/site_contacts/deep/facts。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-02 回信建档"
+  "level": "AB-FINAL-02 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -37,6 +42,14 @@
     "quote": "推「Simon 备注/兴趣栏」→ 对方「懂WDM，拍了照，问了CWDM是不是passive的 公司地址：B-01-32. First Floor Level,Central Walk l-CitySe」",
     "why": "表内客户回复（pos）",
     "k": "Clients/ 表格"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "KS IT Solutions Sdn Bhd – Reliable IT Solutions & Internet Services Provider Malaysia",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ks-itsolutions.com/"
    }
   ],
   "binding": {
@@ -92,5 +105,25 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:57:19Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@ks-itsolutions.com"
+  ],
+  "phones": [
+   "+60 3-5030 5287"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://ks-itsolutions.com/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

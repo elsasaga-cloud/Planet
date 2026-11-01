@@ -1,0 +1,723 @@
+# SB-831 · Actelis_10-K_FY2025 · https://ir.actelis.com/sec-filings/all-sec-filings/content/0001213900-26-030942/ea0280379-10k_actelis.htm · fetched 2026-11-01T09:25:59Z · sha1 767ffb9c950da98abd6b53895e329ee78ad87a1d · chars 60000
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC 20549
+FORM 10-K
+(Mark One)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31 , 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period
+from to
+Commission File Number: 001-41375
+Actelis Networks, Inc.
+(Exact Name of Registrant as Specified in Its
+Charter)
+Delaware
+52-2160309
+(State or Other Jurisdiction of
+Incorporation or Organization)
+(IRS Employer
+Identification No.)
+710 Lakeway Drive , Suite 200
+Sunnyvale , CA
+94805
+(Address of Principal Executive Offices)
+(Zip Code)
+(510) 545-1045
+(Registrant’s Telephone Number, Including
+Area Code)
+Securities registered pursuant to Section 12(b)
+of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, par value $0.0001 per share
+ASNS
+The Nasdaq Stock Market LLC
+Securities registered pursuant to Section 12(g)
+of the Act: None
+Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No ☒
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements
+for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.
+See the definitions of “large accelerated filer”, “accelerated filer”, “smaller reporting company”,
+and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer ☐
+Accelerated filer ☐
+Non-accelerated filer ☒
+Smaller reporting company ☒
+Emerging growth company ☒
+If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant
+has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial
+reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or
+issued its audit report. ☐
+If securities are registered pursuant to Section
+12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction
+of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error
+corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s
+executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No ☒
+The aggregate market value of voting and non-voting common equity held
+by non-affiliates of the registrant as of June 30, 2025, the last business day of the registrant’s most recently completed second
+fiscal quarter, was approximately $ 5.7 million based on the closing sale price on that date of $6.15. Shares of common stock held by each
+executive officer and director and by each other person who may be deemed to be an affiliate of the Registrant have been excluded from
+this computation. The determination of affiliate status for this purpose is not necessarily a conclusive determination for other purposes.
+As of March 15, 2026, there were 26,725,763 shares of the registrant’s
+common stock, par value $0.0001 per share, outstanding, including treasury shares.
+ACTELIS NETWORKS, INC.
+FORM 10-K
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2025
+TABLE OF CONTENTS
+PART I
+ITEM 1.
+BUSINESS
+1
+ITEM 1A.
+RISK FACTORS
+24
+ITEM 1B.
+UNRESOLVED STAFF COMMENTS
+51
+ITEM 1C.
+CYBERSECURITY
+51
+ITEM 2.
+PROPERTIES
+51
+ITEM 3.
+LEGAL PROCEEDINGS
+51
+ITEM 4.
+MINE SAFETY DISCLOSURES
+51
+PART II
+ITEM 5.
+MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+52
+ITEM 6.
+[RESERVED]
+52
+ITEM 7.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+53
+ITEM 7A.
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+63
+ITEM 8.
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+F-1
+ITEM 9.
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+64
+ITEM 9A.
+CONTROLS AND PROCEDURES
+64
+ITEM 9B.
+OTHER INFORMATION
+64
+ITEM 9C.
+DISCLOSURE REGARDING FOREIGN JURISDICTIONS THAT PREVENT INSPECTIONS
+64
+PART III
+ITEM 10.
+DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+65
+ITEM 11.
+EXECUTIVE COMPENSATION
+72
+ITEM 12.
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+75
+ITEM 13.
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+84
+ITEM 14.
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+85
+PART IV
+ITEM 15.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+86
+ITEM 16.
+FORM 10-K SUMMARY
+87
+SIGNATURES
+88
+i
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form
+10-K (the “Annual Report”) contains forward-looking statements. The forward-looking statements are contained principally in
+the sections entitled “Risk Factors,” “Management’s Discussion and Analysis of Financial Condition and Results
+of Operations,” and “Business.” These forward-looking statements involve a number of risks and uncertainties. We caution
+readers that any forward-looking statement is not a guarantee of future performance and that actual results could differ materially from
+those contained in the forward-looking statement. These statements are based on current expectations of future events. Such statements
+include, but are not limited to, statements about future financial and operating results, plans, objectives, expectations and intentions,
+costs and expenses, interest rates, outcome of contingencies, financial condition, results of operations, liquidity, cost savings, objectives
+of management, business strategies, financing, potential growth and market opportunities, products, and other statements that are not
+historical facts.
+In some cases, you can identify
+forward-looking statements by terms such as “may,” “will,” “should,” “would,” “expect,”
+“anticipate” “plan,” “anticipate,” “could,” “intend,” “target,”
+“project,” “contemplate,” “believe,” “estimate,” “predict,” “potential”
+“possible” or “continue” or the negative of these terms or other similar expressions. Forward-looking statements
+contained in this Annual Report include, but are not limited to, statements about:
+●
+our history of losses and need for additional capital to fund our operations and our ability to obtain additional capital on acceptable terms, or at all;
+●
+our ability to protect our intellectual property and continue to innovate;
+●
+our success in retaining or recruiting, or changes required in, our officers, key employees or directors;
+●
+the potential insufficiency of our disclosure controls and procedures to detect errors or acts of fraud;
+●
+the accuracy of our estimates regarding expenses, future revenues, and capital requirements;
+●
+the success of competing products or technologies that are or may become available;
+●
+our ability to grow the business due to the uncertainty resulting from any future pandemic;
+●
+our ability to comply with complex and increasing regulations by governmental authorities;
+●
+our ability to regain and maintain compliance with continued listing requirements of the Nasdaq Capital Market;
+●
+our ability to continue as a going concern;
+●
+statements as to the impact
+of the political and security situation in Israel and the Middle East on our business, including due to the number of armed conflicts
+between Israel and Hamas (an Islamist terror and political group in the Gaza Strip) and Hezbollah (an Islamist terror and political group
+in Lebanon) and Iran including its accomplices;
+●
+our public securities’ potential liquidity and trading; and
+●
+our expectations regarding the period during which we qualify as an emerging growth company under the JOBS Act.
+Forward-looking statements
+are based on our management’s current expectations, estimates, forecasts and projections about our business and the industry in
+which we operate and our management’s beliefs and assumptions, and are not guarantees of future performance or development and involve
+known and unknown risks, uncertainties and other factors that are in some cases beyond our control. As a result, any or all of our forward-looking
+statements in this Annual Report may turn out to be inaccurate. Important factors that may cause actual results to differ materially from
+current expectations include, among other things, those listed under “Risk Factors,” Use of Discussion and Analysis of Financial
+Condition and Results of Operations,” “Business” and elsewhere in this Annual Report. Potential investors are urged
+to consider these factors carefully in evaluating the forward-looking statements. You should read thoroughly this Annual Report and the
+documents that we refer to with the understanding that our actual future results may be materially different from and worse than what
+we expect. We qualify all of our forward-looking statements by these cautionary statements.
+The forward-looking statements
+included in this Annual Report speak only as of the date of this Annual Report. Although we believe that the expectations reflected in
+the forward-looking statements are reasonable, we cannot guarantee that future results, levels of activity, performance and events and
+circumstances reflected in the forward-looking statements will be achieved or will occur. Except as required by law, we assume no obligation
+to update or revise these forward-looking statements for any reason, even if new information becomes available in the future. You should,
+however, review the factors and risks we describe in the reports we will file from time to time with the SEC after the date of this Annual
+Report. See “Where You Can Find More Information.”
+On November 18, 2025, we
+effected a reverse stock split of our shares of common stock at the ratio of 1-for-10. Unless indicated otherwise by the context, all
+common stock, option, warrant and per share amounts as well as share prices appearing this Annual Report on Form 10-K have been adjusted
+to give retroactive effect to the stock split for all periods presented.
+ii
+Item 1. Business
+Company Overview
+Actelis Networks, Inc. (“Actelis,”
+“we,” “us,” “our,” “the Company,” “our company”) is a market leader in cyber-hardened,
+rapid-deployment networking solutions for wide-area applications including federal and military, state and local government, intelligent
+traffic systems (“ITS”), and additional IoT environments such as utility and rail. We also provide Multi-Dwelling Units (“MDU”)
+both inside and outside of building solutions to modernize and protect infrastructure using existing infrastructure. Through our “ Cyber
+Aware Networking ” initiative, we provide AI-based cyber monitoring and protection software for all edge devices, enhancing cyber
+security and resilience. Our unique portfolio of hybrid fiber, cyber hardened aggregation switches, high density Ethernet devices, advanced
+management software and cyber-protection capabilities, unlocks the hidden value of essential networks, delivering safer connectivity for
+rapid, cost-effective deployment.
+Critical Trends Affecting Communication Needs
+Today
+Three significant global
+shifts are affecting the world today, and particularly the need for vast and rapid modernization of communication and networking infrastructure.
+The first major shift is
+the accelerating rise of AI adoption, which demands ever-expanding computational resources to sustain its growth. As this trend continues,
+AI as an automation capability is becoming increasingly fluid, moving across the cloud, the data center, and the network edge where users
+and devices are directly served. This redistribution is driven both by the intolerance for latency and by the resource constraints within
+centralized data centers. The network becomes the essential conduit enabling this movement, carrying the data and intelligence required
+to position AI workloads wherever they can operate most effectively.
+The second shift is to defense
+and advanced defense technologies, shaped by current geopolitical tension and realizations many countries, including the United States,
+are making. This defense which includes homeland security, cyber security and operational continuity are requiring critical modernization
+of networking as well. For example, the recent 2025 outages experienced in Air Traffic Control in New Jersey and Pennsylvania drove an
+urgent approval of over $12 billion dollars of modernization budget for the FAA (Federal Aviation Administration) networks. Similarly,
+military environments are modernizing rapidly to be ready for development.
+The third shift, albeit not
+new, is cyber security as a pillar of operations in general. As the network may typically be the weakest link, its criticality as a cyber-safe
+medium is obvious.
+These trends receive vast
+budgets, require very rapid progress and as such, the use of existing infrastructure. Actelis offers its solutions right in the center
+of such intersection, we explain hereafter how this is done.
+Our networking solutions use a combination of newly deployed fiber
+infrastructure and existing copper and coaxial lines which our patented technology can upgrade to Fiber-grade to jointly create what we
+believe to be a highly cost-effective, secure, and quick-to-deploy network. Our patent protected hybrid fiber networking solutions deliver
+excellent communication over fiber to locations that may be easy to reach with new fiber. However, for locations that are difficult, or
+too costly to reach with fiber, we can upgrade existing copper lines to deliver cyber-hardened, high-speed connectivity without needing
+to replace the existing copper infrastructure with new fiber. We believe that such hybrid fiber copper networking solution has distinct
+advantages in most real-life installations, while providing significant budget savings and accelerating deployment of modern IoT networks.
+Based on our experience, most IoT projects have challenging, hard to reach with fiber locations which may explode such projects’
+timeline and budgets. We believe that our solutions can provide connectivity over either fiber or copper with speeds of up to multi-Gigabit
+communication, while supporting Fiber-grade reliability and quality.
+A primary focus of ours is
+to provide our customers with a cyber-secure network solution. We currently offer Triple-Shield protection of data delivered with coding,
+scrambling and encryption of the network traffic. We also provide secure, encrypted access to our network management software, and are
+working to further enhance system-level and device-level software protection. We are also working to introduce additional capabilities
+for network-wide cyber protection software as an additional SW and license-based services.
+When high speed, long reach,
+reliable and secure connectivity is required, network operators usually resort to using wireline communication over physical communication
+lines such as fiber, coax, and copper, rather than wireless communication that is more limited in performance, reliability, reach and
+security. However, new fiber wireline infrastructure is costly to deploy, involves lengthy civil works to install, and, based on our internal
+calculations, often accounts for more than 50% of total cost of ownership and time to deploy wide-area IoT projects.
+Providing new fiber connectivity
+to hard-to-reach locations is especially costly and time-consuming, often requiring permits for boring, trenching, and right-of-way, sometimes
+done over many miles. Connecting such hard-to-reach locations may cause significant delays and budget overruns in IoT projects. Our solutions
+aim to solve these challenges by instantly enhancing performance of such existing copper and coax infrastructure to fiber-grade performance,
+through the use of advanced signal processing and unique, patented network architecture, without the need to run new fiber to hard-to-reach
+locations; thus, effectively accelerating deployment of many IoT projects, as we estimate, sometimes from many months to only days. The
+result for the network owner is a hybrid network that optimizes the use of both new Fiber (where available) as well as upgraded, fiber-grade
+copper and coax that is now modernized, digitized and cyber-hardened. This unique hybrid network approach is making IoT projects often
+significantly more affordable, fast to deploy and predictable to plan and budget.
+1
+In addition, our solutions
+can also provide power over existing copper and coax lines to remotely power up network elements and components connected to them (like
+cameras, small cell and Wi-Fi base stations sensors etc.). Connecting power lines to millions of locations can be costly and very time
+consuming as well (similar to data connectivity, for the same reason — need for civil works). By offering the ability to combine
+power delivery over the same existing copper and coax lines that we use for high-speed data, we believe our solutions are solving yet
+another important challenge in connecting hard-to-reach locations. We believe that combining communication and power over the same existing
+lines is particularly important to help connect many fifth generation, or 5G, small cells and Wi-Fi base stations, as high cost of connectivity
+and power is often slowing their deployment.
+Since our inception, our
+business was focused on serving telecommunication service providers, also known as Telcos, to provide connectivity for enterprises and
+residential customers. Our products and solutions have been deployed with hundreds of telecommunication service providers worldwide, in
+enterprise, residential and mobile base station connectivity applications. In recent years, as we have further developed our technology
+and introduced additional products, we turned our focus on serving the wide-area IoT, federal and U.S. Department of War (“DoW”)
+markets, as well as multi-dwelling units, and introduced, in 2024, our cyber-aware networking solutions for IoT markets as well.
+In December 2024, we
+launched our MetaShield AI-Powered SaaS solution, under Actelis’ ‘Cyber Aware Networking’ initiative. This includes
+a software based platform designed as an intelligence layer integrated into Actelis’ networking devices, leverages the network’s
+power and proximity to IoT devices to monitor and protect physical assets such as cameras, sensors, and other devices at the edge, enabling
+corrective actions before issues propagate throughout the network.
+We derive a majority of our
+revenues from our existing and new IoT (including federal and DoW) customers. For the years ended December 31, 2025 and December 31,
+2024, our IoT customers in the aggregate accounted for approximately 73% and 72% of our revenues, respectively.
+We derive a significant portion
+of our revenues from a limited number of our customers. For the years ended December 31, 2025 and December 31, 2024, our
+top ten customers in the aggregate accounted for approximately 62% and 74% of our revenues.
+We have incurred significant
+losses and negative cash flows from operations and as of December 31, 2025, we had an accumulated deficit of $52 million. We have
+funded our operations to date through equity and debt financing and we had cash on hand (including short term bank deposits and restricted
+cash equivalents) of $4.4 million and long-term restricted cash and cash equivalents and restricted bank deposits of $0.2 million as of
+December 31, 2025. We continue to invest in sales and marketing resources to fuel our growth.
+Our technology is both powerful
+and compact and is built as a relatively small set of feature-rich network elements, that serve as building block in the verticals we
+serve, namely Federal and Military, Intelligent Transportation, and MDUs. These elements include switches, typically enhanced with signal
+processing software, concentrators, reach extenders, data encryption elements, power sources and a smart networking software that allows
+for remote management and monitoring down to the single element and line performance, configuration management making complex network
+topologies easy to deploy, analyze, debug and remote software download to help with remote handling of large and small networks, on any
+wired infrastructure – be it Fiber, Copper or Coax. At the same time, we continue to serve our long-standing Telco customers in
+their hybrid communications needs. As cyber security standards tighten worldwide, in second half of 2025, we started offering customers
+on-going monitoring of vulnerabilities through our scanning and analysis tools for new developments in this industry, to keep and safeguard
+their networks when new threats become known or existing threats become relevant to their environment.
+Our cyber-security offerings
+include various embedded cyber-hardening features, such as encryption, our SaaS-based MetaShield platform, as well as vulnerability monitoring
+and analytics services, and embedded software improvements offered to existing customers in the form of software upgrades. As such, we
+allow continuous protection through learning of both the network elements as well as the devices connected to them, delivering constant
+alerting and review against external data bases of known threats, and offer software upgrades that overcome newly known or identified
+vulnerabilities, creating a repeatable, ever-improving protection cycle.
+Rapid Deployment and Lower Cost of Critical
+Connectivity
+We aim to become the global
+leading provider of cyber-secure, cost-effective and quick-to-deploy hybrid networking for all wide-area applications. Our products work
+over all types of wireline media on the global data network, whether owned or operated by telecom service providers or a private network
+operated by enterprises or government organizations as well as MDU buildings. Our products are structured as building blocks especially
+for Intelligent Transportation Systems (ITS), including roads, rail and airport applications that are feature-rich. This allows for one
+Actelis platform to often replace multiple other platforms available in the market, allowing for space-saving installation, energy conservation
+(which we believe results in a more environmentally sustainable network, through the avoidance of need to add new physical infrastructure),
+and making network planning easier for our customers. We aim at having our products installed and help accelerate deployment of wire-area
+IoT projects and applications everywhere.
+2
+For example, in one of the
+projects where our solutions are deployed, we found that 70% of locations are easy-to-reach with new fiber optic installation. Connectivity
+for such easy-to-reach locations may, as we believe, average $26,000 per mile for new fiber laid on poles, and can take between days
+to weeks to connect. However, the remaining 30% of locations were hard-to-reach with new fiber optics, and accordingly may require
+boring or trenching to reach IoT sensors or camera locations. Getting fiber to those 30% of hard-to-reach would require potentially connecting
+over obstacles, roads, long distances, and may also require obtaining the right of way and permits for extensive civil works. We believe
+this aspect of the deployment of new fiber optics may cost up to $400,000 per mile, which for this particular project would have impacted
+thousands of miles of roads, resulting in enormous cost, delay and interruption to traffic.
+In another project, we have
+been selected to provide networking for a major city that has fiber installed to 15% of its traffic junctions, however 85% of its junctions
+are connected to low performance copper lines susceptible for bad actors to tamper with. Upgrading the entire city’s infrastructure
+to Fiber would have involved major civil works, permit delays and traffic interruptions for months or years, with a cost that
+would greatly exceed city’s budget. Our hybrid fiber network allowed for the city to use its 15% fiber deployment, upgrade instantly
+the performance of its existing 85% copper lines to fiber-grade and join the two under a comprehensive management and security software
+package from Actelis to create one seamless network, while providing major savings of both time and money.
+In recent years, we have significantly
+advanced our product offerings. In 2022, we launched our family of hardened, hybrid, encrypted fiber products with 10Gbps switching capacity.
+Following that, in 2023 and 2024 we introduced and refined the next-generation “Gigaline” product families, providing hybrid-fiber
+Gigabit-grade connectivity across fiber, copper, and coax environments, which addressed new challenges for ITS and telecom customers and
+further enhanced our multi-gigabit products to support a broader range of use-cases. In 2025, we expanded our offering with the launch
+for large Coax environments, expanded our offering with fiber only solutions and introduced the MetaShield cyber-aware networking product
+family.
+Cybersecurity
+Networking systems are vulnerable
+to cyber-attacks, as they often carry data related to critical processes and applications, such as provision of energy, water, gas and
+transportation services, to large populations. At the same time, they are often found in the wide range, meaning, in public locations,
+adding further risks of tampering and break-ins.
+In 2024 we signed a strategic
+partnership with a cyber-security development company, which helped us launch our new cyber-aware networking solution for IoT networks.
+Later that year, we launched our MetaShield SaaS product as a cyber-security solution that comes from the network itself, and has since
+then been introduced to our existing and new customers.
+Our products all include
+cyber safety features that we are constantly developing. They currently include network traffic encryption and coding. We have developed
+and implemented a multi-layered “Triple Shield” technology that includes (i) information coding for resilience and security
+(for copper wires); (ii) multi-line information scrambling for increased resilience and added security (for copper wires); and (iii) an
+additional 256-bit hardware-based real-time encryption of data running over fiber, coax or copper — creating end-to-end
+protection for the entire hybrid network. Our network management software is also cyber-hardened and helps protect the system. Our systems
+have been selected for deployment in sensitive applications with U.S. DoW and other governments and military organizations, airports,
+utility companies, oil and gas companies, smart cities, rail and traffic applications globally.
+In 2024, we successfully
+completed the certification of our product lines for Federal Intelligence Protocol Standards (FIPS) 140-2 and were approved by the DoW’s
+Joint Interoperability Test Command (JITC) for interoperability and cybersecurity, allowing our products to be included in several federal
+approved product lists (APL). In February 2026 we have deployed the next generation of FIPS standard requirements in our product portfolio
+(140-3).
+3
+In 2025, we enhanced our
+service capabilities in monitoring and analysis of market and industry vulnerabilities, existing and new. This helps us offer such monitoring
+services to our customers to protect their installed base, while offering embedded and management software upgrades that are in-line with
+the threats that need mitigation. This further reflects the fact Cybersecurity is central to optimizing and modernizing networking solutions.
+Market Verticals We Address
+We execute our vision through
+a multi-channel, global approach that combines our expertise, with the expertise of our trusted business partners, system integrators,
+distributors, and consultants.
+We operate a vertical-based
+marketing plan where we dedicate efforts and resources to each vertical. The verticals we focus on include: Federal and military, intelligent
+transportation systems (ITS), smart city, rail, airports. We also address utilities and campuses. .. In 2024, we launched our MDU program
+, which was further expanded in 2025 to address increasing building sizes as well as arenas. The MDU vertical requires networking solutions
+for residential buildings with multiple units, such as apartment complexes and condominiums as well as hospitality properties such as
+hotels and resorts, connecting each unit to high-speed internet, using the infrastructure present, be it Coax, fiber or copper, and tailor
+it to the size of the building, from a dozen units to hundreds and thousands of them.
+Our solutions are utilized
+within networks deployed by cities such as the City of Los Angeles, the District of Columbia, Montgomery County, MD, the City of Seattle,
+the Cities of Munich, Frankfurt, Cologne and others in Germany, as well as notable entities such as Highways England, the Federal Aviation
+Administration, the Autostrada in Italy, the U.S. military, including the Air Force, Navy and National Guard, as well as Stanford University.
+In 2025, We received our first hotel implementation in the U.S., through a global strategic partnership with a hospitality guest experience
+platform provider.
+Our customers benefit from
+rapidly and cost-effectively enabling their critical functions such as traffic cameras and smart signaling, security cameras, smart parking
+meters and ticketing, rail signaling and control, electrical substation management and protection, military operations, and many more.
+Recently, Actelis Networks has secured significant orders and launched groundbreaking solutions like MetaShield, an AI-based cybersecurity
+solution, driving SaaS growth and edge infrastructure resilience. To date, we have been most successful in selling to customers in the
+intelligent transportation systems, rail, federal and military, airports, and MDU markets, primarily in the US, Canada, Europe, and Japan.
+Recent Trends in our Markets
+State of Connectivity Market, including Federal,
+Military and MDUs
+Edge AI, also covered as
+edge computing, according to Grandview research is projected to grow from approximately $20 billion in 2024 to nearly $190 billion in
+2033. According to US Congress’ budgeting program projections, US military base modernization budgets in 2025 were $37 billion as
+part of a model projecting the Federal Defense program to grow to over $850 billing in 2029. With that, the already robust cyber-security
+market, according to Grandview research the global cyber-security market is projected to grow from approximately $240 billion in 2024
+to nearly $500 billion in 2033. With these trends, infrastructure network connectivity demand is growing very rapidly. According to Markets
+and Markets, the Smart Transportation market is projected to grow to over $250 Billion by 2029, largely for intelligent transportation
+modernization. We believe there is an urgent need to connect tens of millions of locations with a fast and secure connection. A huge challenge
+for ITS projects is that implementing connectivity between different points in a network can consume the majority of a project’s
+cost and time to implement, including unpredictable and unanticipated challenges that arise in each individual project.
+4
+We believe that the number
+of IoT applications requiring our fast, smart, and secure connectivity is immense and provides us with a great market opportunity to grow
+our business. From smart transportation systems (smart cameras, smart lights and signals, Vehicle to Everything, or V2X communication)
+and smart security (cameras and radars), to smart parking, smart rail, as well as airport and air traffic control infrastructure, also
+manifested by the $12.5 billion budget granted to the FAA in 2025, we believe that we are uniquely positioned to address all of these
+applications in a versatile and flexible manner.
+In the MDU market, which
+we believe is in dire need for multi-Gigabit connectivity, and is extremely limited in its ability to invest significant funds to enable
+such objective. According to US Census.gov, there are approximately 20 million buildings above 5 units built by the year 2000, most of
+which already wired by various infrastructures. The Broadband Equity program or BEAD has allotted $28 billion already to all 50 states
+to modernize and provide high-speed reliable internet including underserved communities, as part of the Infrastructure Act.
+Recent Developments
+July 2025 Private Placement
+On June 30, 2025, we entered
+into a securities purchase agreement (the “July 2025 Purchase Agreement”) with certain accredited investors (the “Investors”),
+pursuant to which we agreed to issue and sell to the Investors in a private placement (the “July 2025 Private Placement” or
+the “July 2025 Offering”) (a) 162,602 shares of Common Stock, (b) Series A-3 warrants (the “Series A-3 Warrants”)
+to purchase up to 162,602 shares of Common Stock, and (c) Series A-4 warrants (the “Series A-4 Warrants”, and, with the Series
+A-3 Warrants, the “July 2025 Common Warrants”) to purchase up to 325,204 shares of Common Stock, for a purchase price of $6.15
+per share and related July 2025 Common Warrants, for a total aggregate gross proceeds of approximately $1 million. The July 2025 Private
+Placement closed on July 2, 2025.
+The Series A-3 Warrants have
+an exercise price of $6.15 per share, are exercisable commencing on the effective date of shareholder approval (the “July 2025 Shareholder
+Approval Date”) of the issuance of the shares issuable upon exercise of the Common Warrants (“July 2025 Shareholder Approval”)
+and expire five years following the Shareholder Approval Date. On November 7, 2025, the July 2025 Shareholder Approval was obtained in
+a special meeting of our shareholders, resulting in the July 2025 Shareholder Approval Date being such date.
+The Series A-4 Warrants have
+an exercise price of $6.15 per share, are exercisable commencing on the July 2025 Shareholder Approval Date and expire eighteen months
+following the July 2025 Shareholder Approval Date.
+Under the terms of the July
+2025 Common Warrants, the warrant holders may not exercise the warrants to the extent such exercise would cause the warrant holder, together
+with its affiliates and attribution parties, to beneficially own a number of shares of common stock which would exceed 4.99% (or, at such
+Investor’s option upon issuance, 9.99%), of the Company’s then outstanding Common Stock following such exercise, excluding
+for purposes of such determination shares of Common Stock issuable upon exercise of such warrants which have not been exercised.
+H.C. Wainwright & Co.,
+LLC (“HCW”) acted as the placement agent for the issuance and sale of the Securities. The Company has agreed to pay an aggregate
+cash fee equal to 7.0% of the gross proceeds received by the Company from the July 2025 Offering and $35,000 for accountable expenses
+to the placement agent. The Company also agreed to issue to the placement agent, or its designees, Placement Agent Warrants to purchase
+up to 7.0% of the aggregate number of the shares of Common Stock sold to the Investors (or warrants to purchase up to 11,382 shares of
+Common Stock) at an exercise price per share of $7.688 which will be exercisable commencing on the Shareholder Approval Date and a have
+term of five years after the July 2025 Shareholder Approval Date (the “July 2025 Placement Agent Warrants,”).
+The July 2025 Placement Agent
+Warrants and the shares of Common Stock issuable upon exercise thereof, will be issued in reliance on the exemption from registration
+provided by Section 4(a)(2) of the Securities Act as transactions not involving a public offering and in reliance on similar exemptions
+under applicable state laws.
+5
+Nasdaq Listing Compliance
+On August 25, 2023, we received
+a notification letter from the Listing Qualifications Staff (the “Staff”) of Nasdaq indicating that we are not in compliance
+with Nasdaq Listing Rule 5550(b)(1) due to our failure to maintain a minimum of $2,500,000 in shareholders’ equity (the “Minimum
+Shareholders’ Equity Requirement”) or any alternatives to such requirement. In order to maintain our listing on the Nasdaq
+Capital Market, we submitted a plan of compliance addressing how we intended to regain compliance. On March 27, 2024, we received a delist
+determination letter from Nasdaq advising us that the Staff had determined to delist our securities from Nasdaq due to non-compliance
+with the Minimum Shareholders’ Equity Requirement, unless we timely request a hearing before the Nasdaq Hearings Panel (the “Panel”).
+We timely requested a hearing before the Panel.
+On August 27, 2024, we received
+formal written notice from Nasdaq confirming that we have evidenced compliance with all applicable criteria for continued listing on Nasdaq
+as set forth in Nasdaq Listing Rule 5550, including the Minimum Shareholders’ Equity Requirement. In accordance with Nasdaq Listing
+Rule 5815(d)(4)(B), we remained subject to a panel monitor for equity compliance through August 27, 2025.
+On May 12, 2025, Nasdaq notified
+us (the “Notification Letter”) that we were not in compliance with Nasdaq Listing Rule 5550(a)(2), which requires our Common
+Stock to maintain a minimum bid price of $1.00 per share (the “Bid Price Rule”). The Notification Letter had no immediate
+effect on the listing or trading of our Common Stock on Nasdaq and, at this time, the Common Stock will continue to trade on Nasdaq under
+the symbol “ASNS”. The Notification Letter provided that we have 180 calendar days, or until November 10, 2025, to regain
+compliance with the Bid Price Rule.
+On August 19, 2025, we received
+written notice from Nasdaq stating that, due to the Company’s non-compliance with the Minimum Shareholders’ Equity Requirement
+as of June 30, 2025, and because, pursuant to Listing Rule 5815(d)(4)(B), the Company remained subject to a mandatory hearing panel monitor
+through August 27, 2025, the Company’s securities were subject to delisting from Nasdaq unless the Company timely requests a hearing
+before the Nasdaq Hearing Panel (the “Panel”). The Company had its hearing with the Panel on September 30, 2025.
+At the hearing, the Company
+presented its plan to evidence compliance with the Equity Rule and all other applicable criteria for continued listing on The Nasdaq Capital
+Market, and requested to remain listed subject to its plan to regain compliance.
+On October 28, 2025, we received
+a listing decision from Nasdaq notifying us that the Panel determined that the Company evidenced compliance with the Shareholders’
+Equity Requirement.
+The Panel also granted the
+Company’s request for continued listing on The Nasdaq Capital Market, pursuant to an exception through December 5, 2025, to regain
+compliance with the bid price requirement set forth in Nasdaq Listing Rule 5550(a)(1). In order to evidence compliance with the bid price
+requirement, the Company must evidence a closing bid price of at least $1.00 per share for a minimum of 10, but generally not more than
+20, consecutive business days. On November 7, 2025, we held a special meeting of shareholders where our shareholders approved, among other
+things, the Reverse Split. The Reverse Split was effected on November 18, 2025.
+On December 3, 2025, the Company
+received formal notice from Nasdaq that the Company has regained compliance with the Bid Price Rule and evidenced compliance with all
+other applicable criteria for continued listing on Nasdaq. Accordingly, the previously disclosed listing matter has been closed.
+The Company will remain subject
+to a one-year “Panel Monitor”, as contemplated by Nasdaq Listing Rule 5815(d)(4)(A), through December 5, 2026. If during that
+period the Company fails to satisfy any of the criteria for continued listing on Nasdaq, the Staff may not grant the Company additional
+time to regain compliance. Rather, Nasdaq will issue a delist determination, which the Company may address by requesting a new hearing
+before the Nasdaq Hearings Panel.
+On February 4, 2026, we received
+a written notice Nasdaq indicating that the Staff has determined to delist the Company’s securities from The Nasdaq Capital Market.
+6
+As disclosed in the Notice,
+the Staff determined that the Company’s common stock failed to maintain compliance with the Bid Price Rule. While companies are
+typically afforded a 180-calendar-day compliance period to comply with the Bid Price Rule, the Staff concluded that the Company is not
+eligible for the compliance period pursuant to Nasdaq Listing Rule 5810(c)(3)(A)(iv) due to the fact that the Company effected a reverse
+stock split within the prior one-year period, specifically a 1-for-10 reverse stock split on November 18, 2025, and therefore is subject
+to immediate delisting.
+As further disclosed in the
+Notice, the Company had the right to request a hearing and that a hearing request would result in a stay of any suspension or delisting
+action pending the conclusion of the hearings process. Accordingly, on February 11, 2026, the Company requested a hearing before the Panel,
+which served to stay any further suspension or delisting action through the hearing or any extension the Panel provides following the
+hearing.
+At the hearing, the Company
+intends to take all reasonable measures available and is going to present a plan to regain compliance with the Bid Price Rule and
+remain listed on Nasdaq to the Panel. However, there can be no assurance that the Company will be able to regain compliance with the Bid
+Price Rule or maintain compliance with all other Nasdaq continued listing requirements.
+In connection with the Company’s
+entry into the Common Stock Purchase Agreement with White Lion as described below, if the Company fails to be listed on the Nasdaq Capital
+Market, the Commitment Fee Amount (as defined below) will increase subject to the terms of the Delisting Penalty Provision in the Common
+Stock Purchase Agreement. See “Item 1-Business-Recent Developments-Equity Line of Credit Agreement” for additional information.
+September 2025 Warrant Inducement
+On September 2, 2025, we entered
+into an inducement agreement (the “Inducement Letter”) with a certain holder (the “Holder”) of certain of the
+Company’s existing warrants to purchase an aggregate of 427,020 shares of the Company’s common stock, consisting of (i) 127,119
+warrants issued on December 20, 2023 with an expiration date of June 20, 2029 at an exercise price of $11.8 per share (ii) 99,967 warrants
+issued on June 6, 2024 with an expiration date of December 6, 2029 at an exercise price of $20.00 per share and (iii) 199,934 warrants
+issued on July 2, 2024 with an expiration date of July 2, 2026 at an exercise price of $17.50 per share (the “Existing Warrants”).
+Pursuant to the Inducement
+Letter, the Holder agreed to exercise for cash the Existing Warrants to purchase an aggregate of 427,020 shares of the Company’s
+common stock at a reduced exercise price of $3.70 per share in consideration of the Company’s agreement to issue new common stock
+purchase warrants (the “New Warrants”), as descried below, to purchase up to an aggregate of 640,530 shares of the Company’s
+common stock (the “New Warrant Shares”) at an exercise price of $3.70 per share. The Company received aggregate gross proceeds
+of approximately $1.6 million from the exercise of the Existing Warrants by the Holder, before deducting financial advisory fees and other
+offering expenses payable by the Company.
+Rodman & Renshaw LLC and
+HCW acted as financial advisors to the Company in connection with the transactions contemplated by the Inducement Letter. Pursuant to
+an engagement letter with HCW, the Company has agreed to pay the financial advisors a cash fee equal to 7.0% of the aggregate gross proceeds
+received from the Holder’s exercise of the Existing Warrants, as well as a management fee equal to 1.0% of the gross proceeds from
+the exercise of the Existing Warrants and $25,000 paid for non-accountable expenses. The Company has also agreed to issue to the financial
+advisors or their designees warrants (the “Inducement Placement Agent Warrants”) to purchase up to 29,891 shares of common
+stock (representing 7.0% of the Existing Warrants being exercised), which will have the same terms as the New Warrants having a term of
+five years of Stockholder Approval (as defined below) except the Inducement Placement Agent Warrants will have an exercise price equal
+to $4.625 per share (125% of the exercise price of the Existing Warrants).
+The New Warrants have an exercise
+price equal to $3.70 per share. The New Warrants will be exercisable from the effective date (the “Warrant Stockholder Approval
+Date”) of shareholder approval (“Stockholder Approval”), until (i) the five-year anniversary of such date for 340,629
+of the New Warrants and (ii) the twenty-four-month anniversary of such date for 299,901 of the New Warrants. The exercise price and number
+of New Warrant Shares issuable upon exercise of the New Warrants is subject to appropriate adjustment in the event of stock dividends,
+stock splits, subsequent rights offerings, pro rata distributions, reorganizations, or similar events affecting the Company’s common
+stock and the exercise price. On November 7, 2025, the Warrant Stockholder Approval was obtained in a special meeting of our shareholder,
+resulting in the Warrant Stockholder Approval Date being such date.
+7
+The closing of the transactions
+contemplated pursuant to the Inducement Letter occurred on September 3, 2025.
+Provided that the Inducement
+Letter prohibited the Company from entering into an agreement to effect any issuance by the Company involving a variable rate transaction,
+the Holder agreed to waive such prohibition with respect to the transactions contemplated by the ELOC Purchase Agreement as described
+below, and signed an amendment to the Inducement Letter on October 9, 2025. Pursuant to such amendment, the Company issued to the Holder
+10,000 warrants to purchase shares of common stock of the Company on similar terms as the Series A-1 Warrants.
+Equity Line of Credit Agreement
+On September 27, 2025, we
+entered into a common stock purchase agreement (the “Common Stock Purchase Agreement”), with an effective date of October
+1, 2025, and a related registration rights agreement (the “White Lion RRA”) with White Lion Capital, LLC, a Nevada limited
+liability company (“White Lion”). Pursuant to the Common Stock Purchase Agreement, the Company has the right, but not the
+obligation to require White Lion to purchase, from time to time, up to $30,000,000 in aggregate gross purchase price (the “Commitment
+Amount”) of newly issued shares of the Company’s Common Stock, subject to certain limitations and conditions set forth in
+the Common Stock Purchase Agreement.
+The Company is obligated under
+the Common Stock Purchase Agreement and the White Lion RRA to file a registration statement (the “Resale Registration Statement”)
+with the SEC to register the Common Stock under the Securities Act of 1933, as amended (the “Securities Act”), for the resale
+by White Lion of shares of Common Stock that the Company may issue to White Lion under the Common Stock Purchase Agreement and to register
+the Commitment Shares (as defined below) within five business days of the date of the Common Stock Purchase Agreement.
+The maximum number of shares
+issuable under the Common Stock Purchase Agreement is subject to the Exchange Cap.
+The Company agreed to call
+a special meeting of its shareholders (the “Special Meeting”) to obtain shareholder approval for the issuance of Common Stock
+under the Common Stock beyond the Exchange Cap (“Shareholder Approval”) within 120 days of October 1, 2025. If the Company
+failed to call the Special Meeting within this timeframe, it shall pay liquidated damages to White Lion, as more fully described in the
+Common Stock Purchase Agreement. The Special Meeting was held on January 29, 2026. Shareholder Approval was not obtained due to a failure
+to reach a quorum. Please see “ January 2026 Special Meeting of Shareholders ” below for more information.
+Because Shareholder Approval
+was not obtained at the Special Meeting, the Company is obligated to call an additional Special Meeting every ninety (90) days thereafter,
+for a total period of 360 days, until Shareholder Approval is obtained. The follow-up meeting to obtain Shareholder Approval is scheduled
+to be held on April 13, 2026.
+As consideration for White Lion’s irrevocable commitment to purchase
+the Company’s Common Stock up to the Commitment Amount, the Company agreed to issue shares of Common Stock to White Lion (the “Commitment
+Shares”) equal to $750,000 (the “Commitment Fee Amount”) divided by the lowest traded price of the Company’s common
+stock during the 30 business days prior to the issuance of the Commitment Shares.
+If at any point during the
+term of the Common Stock Purchase Agreement the Company fails to be listed on the Nasdaq Capital Market, the Commitment Fee Amount will
+increase to $1,000,000 if remedied within six months or less, to $1,250,000 if remedied after six months but before twelve months, and
+$1,500,000 if not remedied within twelve months (the “Delisting Penalty Provision”). The Delisting Penalty Provision shall
+automatically be waived on the date that is six (6) months after the later of (A) the date on which Shareholder Approval is Obtained and
+(B) the date on which the Resale Registration Statement has been declared effective by the SEC.
+8
+Subject to the satisfaction
+of certain customary conditions including, without limitation, the effectiveness of a registration statement registering the shares issuable
+pursuant to the Common Stock Purchase Agreement, the Company’s right to sell shares to White Lion will commence on October 1, 2025
+and extend until October 1, 2028, unless the Company has exercised its right in full to sell shares to White Lion under the Common Stock
+Purchase Agreement prior to such date (the period beginning on the effective date and ending on the earlier of such dates, the “Commitment
+Period”). During such term, subject to the terms and conditions of the Common Stock Purchase Agreement, the Company shall notify
+(such notice, a “Purchase Notice”) White Lion when the Company exercises its right to sell shares (the effective date of such
+notice, a “Notice Date”). The Purchase Notice may be a Regular Purchase Notice or a Rapid Purchase Notice, each as described
+below.
+The number of shares sold
+pursuant to any such notice may not exceed 40% of the Average Daily Trading Volume for the common stock traded on Nasdaq immediately preceding
+receipt of the applicable Purchase Notice, and can be increased at any time at the sole discretion of White Lion, up to 9.99% of the outstanding
+shares of the Company.
+Under a Regular Purchase Notice,
+the purchase price to be paid by White Lion for any such shares will equal 97.5% multiplied by the lower of the (i) lowest daily VWAP
+of the Common Stock during the Regular Purchase Valuation Period (as such term is defined in the Common Stock Purchase Agreement) or (ii)
+the closing price of the Common Stock one business day prior to the delivery of the Regular Purchase Notice.
+Under a Rapid Purchase Notice,
+the purchase price to be paid by White Lion for any such shares will equal (i) the lowest traded price of the Common Stock on the Rapid
+Purchase Notice Date with respect to Rapid Purchase Price Option 1; or (ii) 99% multiplied by the lowest traded price of the Common Stock
+two hours following written confirmation of the acceptance of the Rapid Purchase Notice by White Lion with respect to Rapid Purchase Price
+Option 2.
+The Company may terminate
+the Common Stock Purchase Agreement at any time, which shall be effected by written notice being sent by the Company to White Lion. In
+addition, the Common Stock Purchase Agreement shall automatically terminate on the earlier of (i) the end of the Commitment Period or
+(ii) the date that, pursuant to or within the meaning of any bankruptcy law, the Company commences a voluntary case or any person commences
+a proceeding against the Company, a custodian is appointed for the Company or for all or substantially all of its property or the Company
+makes a general assignment for the benefit of its creditors. Certain provisions of the Common Stock Purchase Agreement survive termination,
+as described more fully in the text of the agreement.
+Concurrently with the execution
+of the Common Stock Purchase Agreement, the Company entered into the White Lion RRA with White Lion in which the Company has agreed to
+register the shares of Common Stock purchased by White Lion under the Common Stock Purchase Agreement with the SEC for resale within 30
+days of the execution date of the White Lion RRA. The White Lion RRA also contains usual and customary damages provisions for failure
+to have the registration statement declared effective by the SEC within the time periods specified therein.
+The Common Stock Purchase
+Agreement and the White Lion RRA contain customary representations, warranties, conditions and indemnification obligations of the parties.
+The representations, warranties and covenants contained in such agreements were made only for purposes of such agreements and as of specific
+dates, were solely for the benefit of the parties to such agreements and may be subject to limitations agreed upon by the contracting
+parties.
+White Lion Private Placement
+Concurrently on September
+27, 2025, the Company entered into a securities purchase agreement (the “PIPE Purchase Agreement”) with White Lion, pursuant
+to which the Company agreed to issue and sell to White Lion in a private placement (the “Offering”) (i) 87,177 shares (the
+“Shares”) of Common Stock, and (ii) pre-funded warrants to purchase up to 312,823 shares of Common Stock (the “White
+Lion Pre-Funded Warrants”) for a purchase price of $2.125 per share of Common Stock and $2.124 per White Lion Pre-Funded Warrant,
+for a total aggregate gross proceeds of approximately $850,000. The Offering closed on September 29, 2025.
+9
+The Company had a right to
+redeem 48,826 of the shares of Common Stock at a redemption price of $0.001 per share. The Company and White Lion have agreed that, in
+lieu of such redemption, on October 20, 2025, the Company reduced the number shares issuable pursuant upon exercise of the White Lion
+Pre-Funded Warrants by 48,826 shares, to 263,997.
+The White Lion Pre-Funded
+Warrants are immediately exercisable at an exercise price of $0. 001 per share of Common Stock and will not expire until exercised in
+full. However, the Company may not issue a number of shares of Common Stock pursuant to exercise of the White Lion Pre-Funded Warrants
+in an amount that will not exceed the Exchange Cap when combined with the number of Shares issued in the Offering, before shareholder
+approval for further issuance beyond the Exchange Cap is obtained. The Company intends to obtain such shareholder approval concurrently
+with the Shareholder Approval required for the issuance of shares of Common Stock under the Common Stock Purchase Agreement beyond the
+Exchange Cap.
+The obligation to file the
+Resale Registration Statement described above also covers the registration of the shares of Common Stock and shares underlying the White
+Lion Pre-Funded Warrants issued pursuant to the PIPE Purchase Agreement. The Company filed the Resale Registration Statement on October
+7, 2025, and such registration statement became effective on November 28, 2025.
+December 2025 Offering
+On December 17, 2025, we offered
+and sold in a public offering on a best efforts basis (the “December 2025 Offering”) (i) 4,352,500 shares of the Company’s
+Common Stock, (ii) 1,897,500 pre-funded warrants to purchase up to 1,897,500 shares of Common Stock (the “December 2025 Pre-Funded
+Warrants”), and (iii) 6,250,000 common warrants to purchase up to 6,250,000 shares of Common Stock, (the “December 2025 Common
+Warrants” and together with the Pre-Funded Warrants, the “December 2025 Warrants”), at a purchase price of $0.80 per
+share of Common Stock and accompanying December 2025 Common Warrant, and $0.7999 per December 2025 Pre-Funded Warrant and accompanying
+December 2025 Common Warrant. Aggregate gross proceeds from the December 2025 Offering (without taking into account any proceeds from
+any future exercises of December 2025 Warrants) were approximately $5 million. The Offering closed on December 19, 2025.
+The December 2025 Pre-Funded
+Warrants are immediately exercisable at an exercise price of $0.0001 per share of Common Stock and will not expire until exercised in
+full.
+Each December 2025 Common
+Warrant has an exercise price of $0.80 per share, is exercisable immediately on upon issuance and will expire on the five-year anniversary
+of the date of issuance.
+A holder of the December 2025
+Warrants will not have the right to exercise any portion of its December 2025 Warrants if the holder (together with such holder’s
+affiliates, and any persons acting as a group together with such holder or any of such holder’s affiliates or any other persons
+whose beneficial ownership of shares of Common Stock would be aggregated with the holder’s or any of the holder’s affiliates),
+would beneficially own shares of Common Stock in excess of 4.99% (or, at the election of the holder, 9.99%) of the number of shares of
+Common Stock outstanding immediately after giving effect to such exercise.
+Certain investors in the Offering
+entered into a definitive securities purchase agreement with the Company (the “December 2025 Purchase Agreement”). The December
+2025 Purchase Agreement contains representations, warranties, indemnification and other provisions customary for transactions of this
+nature. Pursuant to the December 2025 Purchase Agreement, the Company agreed to abide by certain customary standstill restrictions for
+a period of thirty (30) days following the closing of the December 2025 Offering. In addition, subject to limited exceptions, the December
+2025 Purchase Agreement provides that for a period of one year following the closing of the December 2025 Offering, the Company will not
+effect or enter into an agreement to effect a “variable rate transaction” as defined in the December 2025 Purchase Agreement.
+10
+HCW acted as the sole placement agent (the “Placement Agent”),
+on a “best efforts” basis, in connection with the Offering. On March 3, 2025, the Company and the Placement Agent had entered
+into a letter agreement with the Company to serve as exclusive underwriter, agent or advisor in any offering of securities of the Company
+for a six-month term (the “Engagement Agreement”). The Engagement Agreement has been extended twice since its initial effectiveness
+and ran through March 12, 2026 . Under the Engagement Agreement, as extended, the Company agreed to pay the Placement Agent an aggregate
+cash fee equal to 7.0% of the gross proceeds received by the Company in the 

@@ -2,7 +2,7 @@
  "code": "SB-487",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（npotelecom.ru：超时（站慢或封锁），2026-10-29，第 2 次）",
+ "website_status": "在线（npotelecom.ru，快照 2026-11-01）：Производство телекоммуникационного оборудования - НПО Телеком",
  "summary": "俄罗斯 НПО Телеком / NPO Telecom（电信设备企业；表内「比较重要 Mikhail Afonin」、有回复；KP Mikhail Afonin、Rashid Abdullin（Sales and Marketing Specialist）；兴趣 Switch；官网 timeout）；群发 17 次，有回复。",
  "type": "电信设备企业（俄罗斯，有回复，用户标重要）",
  "size": "",
@@ -48,10 +48,11 @@
  ],
  "grade_override": "B",
  "override_reason": "A-DEEP-10 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：НПО Телеком：主业为执法部门合法监听（ОРМ/СОРМ）通信设备 → 守界 + 制裁风险",
- "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "company_facts": {
   "hq": "俄罗斯",
@@ -143,6 +144,14 @@
     "quote": "DNS 2026-10-29 16:2xZ：npotelecom.ru MX mail.npotelecom.ru.；A 81.177.6.164；NS ns4.jino.ru. / ns1.jino.ru.",
     "why": "长期客户群复核证据（非邮件事实，不计真回）",
     "url": ""
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Производство телекоммуникационного оборудования - НПО Телеком — Купить телекоммуникационное оборудование по выгодным ценам от производителя: мультиплексоры, трансиверы, шлюзы, усилители, коммутаторы. Статус ТОРП, доставка по РФ! Звоните!",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://npotelecom.ru/"
    }
   ],
   "proof_gaps": [],
@@ -155,13 +164,15 @@
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:42:05Z",
-   "2026-10-29T15:33:21Z"
+   "2026-10-29T15:33:21Z",
+   "2026-11-01T09:55:44Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-01"
  },
  "lt_review": {
   "status": "留 B",
@@ -458,5 +469,27 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "site_contacts": {
+  "emails": [
+   "sale@npotelecom.ru"
+  ],
+  "phones": [
+   "+7 (3412) 573-040"
+  ],
+  "social": [],
+  "models_on_site": [
+   "SFP28",
+   "QSFP28",
+   "WDM-16",
+   "NTS-4G2S-AT",
+   "NTS-8G2S-AT",
+   "NTS-8G2S-BT",
+   "NTS-4G2F-P",
+   "NTS-8G2F-P"
+  ],
+  "url": "https://npotelecom.ru/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

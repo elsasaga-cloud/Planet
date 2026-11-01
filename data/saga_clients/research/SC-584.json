@@ -2,7 +2,7 @@
  "code": "SC-584",
  "name_official": "nambasoftware.com.br",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（nambasoftware.com.br，快照 2026-11-01）：Namba Software | SoluÃ§Ãµes em CiberseguranÃ§a, Cloud e Infraestrutura TI",
  "summary": "巴西客户（nambasoftware.com.br）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（E；2026-05→2026-08）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -24,10 +24,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/deep/facts。\n（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-01 回信建档"
+  "level": "AB-FINAL-01 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -60,6 +61,14 @@
     "quote": "Namba Software — Especialistas em cibersegurança, cloud computing, infraestrutura híbrida e soluções inteligentes",
     "why": "A 落池核验：身份/角色/规模（网页公开信息）",
     "url": "https://www.nambasoftware.com.br/"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Namba Software | SoluÃ§Ãµes em CiberseguranÃ§a, Cloud e Infraestrutura TI — Proteja e transforme sua empresa com a Namba Software. Especialistas em ciberseguranÃ§a, cloud computing, infraestrutura hÃ­brida e soluÃ§Ãµes inteligentes para negÃ³cios modernos.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://nambasoftware.com.br/"
    }
   ],
   "binding": {
@@ -355,5 +364,12 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:57:22Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
  }
 }

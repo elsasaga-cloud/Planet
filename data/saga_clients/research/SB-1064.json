@@ -2,11 +2,16 @@
  "code": "SB-1064",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（portdepo.ru：域名不可达（DNS/连接失败），2026-10-29，第 2 次）",
+ "website_status": "在线（portdepo.ru，快照 2026-11-01）：Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России",
  "summary": "俄罗斯 Portdepo（portdepo.ru：「几个牌子的交换机」多品牌经销；官网 unreachable）；表内未跟进。",
  "type": "网络产品经销商（俄罗斯，多品牌）",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti",
+  "MikroTik",
+  "Cambium",
+  "Fortinet"
+ ],
  "evidence": [
   {
    "kind": "用户表",
@@ -33,10 +38,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "company_facts": {
   "hq": "俄罗斯",
@@ -117,6 +123,14 @@
     "quote": "DNS 2026-10-29 16:2xZ：portdepo.ru MX mx2.timeweb.ru. / mx1.timeweb.ru.；A 185.114.245.110；NS ns4.timeweb.org. / ns1.timeweb.ru.",
     "why": "长期客户群复核证据（非邮件事实，不计真回）",
     "url": ""
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России — PORTDEPO интернет-магазин сетевого оборудования Ubiquiti, MikroTik. Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России по низким ценам.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://portdepo.ru/"
    }
   ],
   "proof_gaps": [],
@@ -126,13 +140,15 @@
  "snap_thicken": {
   "consumed": [
    "2026-10-21T09:36:08Z",
-   "2026-10-29T15:31:52Z"
+   "2026-10-29T15:31:52Z",
+   "2026-11-01T09:55:03Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-01"
  },
  "lt_review": {
   "status": "留 B",
@@ -168,5 +184,30 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [
+   "info@portdepo.ru",
+   "sales@portdepo.ru"
+  ],
+  "phones": [
+   "+7 (910) 000-16-33"
+  ],
+  "social": [
+   "https://yandex.com/maps/-/CHgtnW39"
+  ],
+  "models_on_site": [
+   "CSS610-8P-2S",
+   "CRS326-24G-2S",
+   "CRS354-48P-4S",
+   "CRS328-24P-4S",
+   "CRS326-24S",
+   "CRS504-4XQ-IN",
+   "LBE-5AC",
+   "CRS112-8P-4S-IN"
+  ],
+  "url": "https://portdepo.ru/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -44,7 +44,7 @@
  ],
  "grade_override": "B",
  "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：人工终判：Born Electronics Limited（英国 2019 年注册，Companies House 最新账目「休眠」；官网挂 BI 系列白牌工业交换机）：疑为国产工业交换机品牌的英国前台 → 同行/卖家，不进 A",
- "notes": "不投入；若对方以采购身份主动来再核实经营实体。",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：site_contacts/facts。\n不投入；若对方以采购身份主动来再核实经营实体。",
  "researched_at": "2026-10-21",
  "mail_review": {
   "binding": {
@@ -90,6 +90,14 @@
     "quote": "Do you have chaise and stackable switches??",
     "why": "问机箱/堆叠",
     "k": "12ebdab48d371a59"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Home | Born Electronics — Interiors Design",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://bornelectronics.com/"
    }
   ],
   "proof_gaps": [],
@@ -343,5 +351,25 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:56:29Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@bornelectronics.com"
+  ],
+  "phones": [
+   "+44 7859 571344"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://bornelectronics.com/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

@@ -37,11 +37,12 @@
  ],
  "grade_override": "B",
  "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：降 B：排除：守界行业（轨交/军工）",
- "notes": "用户如认为以色列项目配套值得主动跟，可在 人工定级.csv 改回 A。",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：site_contacts/deep/facts。\n用户如认为以色列项目配套值得主动跟，可在 人工定级.csv 改回 A。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份判断 → 军用守界降 C）"
+  "level": "B 级加厚 v1（身份判断 → 军用守界降 C） + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "company_facts": {
   "legal_name": "SSL（sslcom.com）",
@@ -105,6 +106,14 @@
     "quote": "8 POE 130 W ?",
     "why": "唯一来信",
     "k": "858ecff34f2f4f6e"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "SSL – Just another WordPress site",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://sslcom.com/"
    }
   ],
   "proof_gaps": [],
@@ -151,5 +160,26 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:56:29Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@sslcom.com"
+  ],
+  "phones": [
+   "+972-4-9040926",
+   "+972-52-4618116"
+  ],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://sslcom.com/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

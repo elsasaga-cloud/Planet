@@ -2,7 +2,7 @@
  "code": "SC-1469",
  "name_official": "Defense MICE Institude",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（kdmi.kr，快照 2026-11-01）：(사)한국국방MICE연구원",
  "summary": "韩国客户（kdmi.kr）：AB-FINAL-02 以回信证据建档——非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -17,10 +17,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/site_contacts/deep/facts。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-02 回信建档"
+  "level": "AB-FINAL-02 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -37,6 +38,14 @@
     "quote": "推「Simon 备注/兴趣栏」→ 对方「只要了我们的名片\n网站看着比较抽象 ； 只要了我们的名片 / attn: T.H.Lee | telephone: 82-2-521-6694 | mobile」",
     "why": "表内客户回复（pos）",
     "k": "Clients/ 表格"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "(사)한국국방MICE연구원 — 국방안보ㆍ정부 관련 MICE 자문, 에어쇼ㆍ무기전력화 행사 기획, 국제회의, 전시사업",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://kdmi.kr/"
    }
   ],
   "binding": {
@@ -92,5 +101,29 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:56:32Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "info@kdmi.kr"
+  ],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/KDMI2019?locale=ko_KR",
+   "https://www.instagram.com/defense_mice_institute/",
+   "https://www.youtube.com/@%EA%B5%AD%EB%B0%A9%EB%A7%88%EC%9D%B4%EC%8A%A4%EC%97%B0%EA%B5%AC%EC%9B%90"
+  ],
+  "models_on_site": [
+   "GDIF2026"
+  ],
+  "url": "https://kdmi.kr/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

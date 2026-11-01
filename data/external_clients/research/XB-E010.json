@@ -2,8 +2,8 @@
  "code": "XB-E010",
  "name": "Positron Multiverse Co., Ltd",
  "round": "LT-T03",
- "researched_at": "2026-10-29",
- "alive": "快照失败（positronmultiverse.com：域名不可达（DNS/连接失败），2026-10-29，第 1 次）",
+ "researched_at": "2026-11-01",
+ "alive": "在线（positronmultiverse.com，快照 2026-11-01）：IIS Windows Server",
  "summary": "Positron Multiverse Co., Ltd（柬埔寨 · Phnom Penh）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
@@ -31,6 +31,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；IIS Windows Server",
+   "quote": "IIS Windows Server",
+   "url": "http://positronmultiverse.com/",
+   "date": "2026-11-01"
   }
  ],
  "contacts": {
@@ -58,13 +65,15 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：alive/evidence。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
  "snap_thicken": {
   "consumed": [
-   "2026-10-29T15:53:32Z"
+   "2026-10-29T15:53:32Z",
+   "2026-11-01T09:58:15Z"
   ],
   "fails": [
    "2026-10-29"
-  ]
+  ],
+  "last_ok": "2026-11-01"
  }
 }

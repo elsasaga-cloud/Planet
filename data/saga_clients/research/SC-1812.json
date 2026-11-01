@@ -2,7 +2,7 @@
  "code": "SC-1812",
  "name_official": "ns-t.ru",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（ns-t.ru，快照 2026-11-01）：Российский вендор сетевого оборудования в Москве| New system technologies",
  "summary": "俄罗斯客户（ns-t.ru）：AB-FINAL-01 以回信证据建档——非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -17,10 +17,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/site_contacts/deep/facts。\n（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-01 回信建档"
+  "level": "AB-FINAL-01 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -37,6 +38,14 @@
     "quote": "RE: 10G media converter｜Hi Simon. Can you send me your full price list and catalog?",
     "why": "S 邮箱 真人来信（pos）",
     "k": "5e554ada70ca0bb1"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Российский вендор сетевого оборудования в Москве| New system technologies — NST — российский производитель и поставщик сетевого оборудования, кабелей и проводов. Предлагаем надежные решения для телекоммуникаций и инженерной инфраструктуры.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ns-t.ru/"
    }
   ],
   "binding": {
@@ -92,5 +101,38 @@
   "path": "活",
   "reply": "R+",
   "focus": "second"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:56:34Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "donate@opencart.com",
+   "info@ns-t.ru",
+   "support@ns-t.ru"
+  ],
+  "phones": [
+   "+7 (499) 213-33-20",
+   "+7 (958) 500-68-36",
+   "+7 (977) 265-70-00"
+  ],
+  "social": [],
+  "models_on_site": [
+   "NS-LP-1GP",
+   "NS-SW-16G4G-PL",
+   "NS-SW-8F3G-P",
+   "AC100-240V",
+   "NS-EX-1FP",
+   "NS-EX-1GP",
+   "NS-SW-4G2X-P",
+   "NS-SW-4G2X-SP"
+  ],
+  "url": "https://ns-t.ru/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

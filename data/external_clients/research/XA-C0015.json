@@ -2,8 +2,8 @@
  "code": "XA-C0015",
  "name": "TURM GmbH",
  "round": "LT-T03",
- "researched_at": "2026-10-29",
- "alive": "快照失败（turm.tech：超时（站慢或封锁），2026-10-29，第 1 次）",
+ "researched_at": "2026-11-01",
+ "alive": "在线（turm.tech，快照 2026-11-01）：Sicherheitstechnik – Produkte bei der TURM GmbH kaufen",
  "summary": "杜塞尔多夫的安防分销商/厂商（11–50 人），2018 起 Ajax 报警系统 DACH 官方分销，自有 TURM 视频/门禁品牌，姐妹公司 NSC Videotechnik（同址）出 NSC 牌摄像机/录像机/PoE 交换机（NA-P26360 = 24 口 PoE + 2 上联 + 2 SFP）。即：他们已经在用自有品牌卖进口 PoE 交换机——OEM 对象。",
  "type_final": "安防分销商 + 自有品牌（Ajax DACH 分销 / NSC 品牌主）",
  "size": "11–50 人",
@@ -43,11 +43,27 @@
    "quote": "",
    "url": "https://de.linkedin.com/company/turm-gmbh",
    "date": "2026-10-27"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；Sicherheitstechnik – Produkte bei der TURM GmbH kaufen",
+   "quote": "Fachhandel für Videoüberwachung, Einbruch- & Brandtechnik | Profi-Lösungen & Zubehör für Gewerbe oder Privat | Vielzahl an Produkten bei TURM entdecken",
+   "url": "https://turm.tech/",
+   "date": "2026-11-01"
   }
  ],
  "contacts": {
   "email": "info@turm.tech",
-  "email_status": "官网公开（Fachhändler 口）"
+  "email_status": "官网公开（Fachhändler 口）",
+  "page_emails": [
+   "info@nsc-videotechnik.de",
+   "info@turm.tech",
+   "support@ajax.systems"
+  ],
+  "page_phones": [
+   "+49 211 97 53 220"
+  ],
+  "page_note": "官网公开页抓取 2026-11-01；只作证据 / 路径备选"
  },
  "touch_status": "未发信",
  "saga_overlap": "无",
@@ -65,14 +81,21 @@
   "subject": "OEM supply for the NSC PoE switch range",
   "body": "Hello,\n\nTURM sells PoE switches under the NSC Videotechnik label - the 24-port with 2 uplinks and 2 SFP, for example. That is exactly the kind of product we build for security brands in Europe: PoE switches with the brand's logo, web UI and carton, CE/RoHS/REACH, no MOQ, 8 to 48 ports, unmanaged or L2 managed, with 10G-uplink options on the managed side.\n\nIf the NSC range is sourced externally, I would be glad to send a spec-by-spec proposal against your current 24-port and 8-port models with pricing.\n\nWho on your side looks after NSC hardware sourcing - may I write to them directly?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n不猜他们现在的供应商。",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：alive/contacts.page/evidence/site_p1_hint。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n不猜他们现在的供应商。",
  "deep": false,
  "snap_thicken": {
   "consumed": [
-   "2026-10-29T15:42:28Z"
+   "2026-10-29T15:42:28Z",
+   "2026-11-01T09:57:23Z"
   ],
   "fails": [
    "2026-10-29"
-  ]
+  ],
+  "last_ok": "2026-11-01"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGPM-280W",
+  "why": "官网快照对位：PoE 词频 92、监控 31 → 24 口 PoE L2+ 走量款",
+  "date": "2026-11-01"
  }
 }

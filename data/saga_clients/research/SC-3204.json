@@ -2,7 +2,7 @@
  "code": "SC-3204",
  "name_official": "koc.com.cn",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（koc.com.cn，快照 2026-11-01）：KOC - Global Fiber Optic Cabling and Components Supplier",
  "summary": "西班牙客户（koc.com.cn）：AB-FINAL-02 以回信证据建档——真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -17,10 +17,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/site_contacts/deep/facts。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-02 回信建档"
+  "level": "AB-FINAL-02 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -37,6 +38,14 @@
     "quote": "推「Simon 备注/兴趣栏」→ 对方「问了GE SFP  \n网站主要是无源接头 有MC ； 34-647-055045\n已加」",
     "why": "表内客户回复（pos）",
     "k": "Clients/ 表格"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "KOC - Global Fiber Optic Cabling and Components Supplier",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://koc.com.cn/"
    }
   ],
   "binding": {
@@ -157,5 +166,38 @@
   "path": "活",
   "reply": "R+",
   "focus": "focus"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:57:19Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [
+   "sales@koc.com.cn"
+  ],
+  "phones": [
+   "+86 0755 - 3367 3808"
+  ],
+  "social": [
+   "https://twitter.com/",
+   "https://www.facebook.com",
+   "https://www.instagram.com/"
+  ],
+  "models_on_site": [
+   "QSFP28",
+   "VDS810S",
+   "VEC11T",
+   "VEC11T-EC",
+   "VEC116R",
+   "TIA568",
+   "UL94V-01",
+   "ODF-PRW-1U"
+  ],
+  "url": "https://koc.com.cn/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

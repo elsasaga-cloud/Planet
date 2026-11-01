@@ -26,7 +26,13 @@
    "çalışan sayısı",
    "istihdam"
   ],
-  "refresh_days": 365
+  "refresh_days": 365,
+  "done": true,
+  "sha1": "a4bb50a0c354032f74a6822fff2568776989df89",
+  "fetched_at": "2026-11-01T09:25:59Z",
+  "chars": 632639,
+  "hits": 124,
+  "error": ""
  },
  {
   "code": "SB-831",
@@ -49,7 +55,13 @@
    "tariff",
    "component"
   ],
-  "refresh_days": 365
+  "refresh_days": 365,
+  "done": true,
+  "sha1": "767ffb9c950da98abd6b53895e329ee78ad87a1d",
+  "fetched_at": "2026-11-01T09:25:59Z",
+  "chars": 60000,
+  "hits": 3,
+  "error": ""
  },
  {
   "code": "SB-831",
@@ -59,7 +71,9 @@
   "keywords": [
    "10-K"
   ],
-  "refresh_days": 3650
+  "refresh_days": 3650,
+  "error": "403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/data/1141284/000101376225001251/0001013762-25-001251-index.htm",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -724,7 +738,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/isaf-smart-houses/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -1389,7 +1405,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/intersec/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -2054,7 +2072,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/intersec-saudi-arabia/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -2719,7 +2739,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/isc-west/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -3384,7 +3406,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/security-essen/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -4049,7 +4073,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/ifsec-international/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -4714,7 +4740,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/win-eurasia/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -5379,7 +5407,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/sps-ipc-drives/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -6044,7 +6074,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/hannover-messe/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -6709,7 +6741,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/securika-moscow/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -7374,7 +7408,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/secutech/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -8039,7 +8075,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/expo-seguridad-mexico/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -8704,7 +8742,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/gitex/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -9369,7 +9409,9 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/convergence-india/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  },
  {
   "code": "*",
@@ -10034,6 +10076,8 @@
    "VISIOTECH SECURITY": "SC-371",
    "Visiotech": "SC-371"
   },
-  "refresh_days": 30
+  "refresh_days": 30,
+  "error": "403 Client Error: Forbidden for url: https://10times.com/secutech-india/exhibitors",
+  "fetched_at": "2026-11-01T09:25:59Z"
  }
 ]

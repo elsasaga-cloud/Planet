@@ -2,11 +2,14 @@
  "code": "SC-190",
  "name_official": "Crontr Technology",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（cronte.net，快照 2026-11-01）：Cronte Technology – Distribución de sistemas de productos de seguridad electrónica",
  "summary": "厄瓜多尔客户（cronte.net）：AB-FINAL-01 以回信证据建档——真回信 3 封 / 表内 0 条 / 研究档 0 条（E；2025-05→2025-11）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Dahua",
+  "Paradox"
+ ],
  "evidence": [
   {
    "kind": "邮箱来信/用户表",
@@ -31,10 +34,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/brands_seen/site_contacts/deep/facts。\n（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-01 回信建档"
+  "level": "AB-FINAL-01 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -83,6 +87,14 @@
     "quote": "Importadores y distribuidores · UIO - CUE - GYE · WhatsApp 098 427 3456 · www.cronte.net",
     "why": "A 落池核验：身份/角色/规模（网页公开信息）",
     "url": "https://findglocal.com/EC/Quito/784843661896603/Cronte-Technology"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Cronte Technology – Distribución de sistemas de productos de seguridad electrónica",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://cronte.net/"
    }
   ],
   "binding": {
@@ -359,5 +371,27 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:53:43Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://www.facebook.com/IMPORTADORACRONTE",
+   "https://www.instagram.com/cronte_technology?igsh=eHF3Z3lqMnVwdjJ3",
+   "https://www.youtube.com/@crontetechnology8837"
+  ],
+  "models_on_site": [
+   "MAA-EA1R"
+  ],
+  "url": "https://cronte.net/",
+  "date": "2026-11-01",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

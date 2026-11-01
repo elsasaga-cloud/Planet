@@ -2,7 +2,7 @@
  "code": "SC-2813",
  "name_official": "siospa.it",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "在线（siospa.it，快照 2026-11-01）：Sio SpA - Intelligence Operations : Sio SpA",
  "summary": "意大利客户（siospa.it）：AB-FINAL-02 以回信证据建档——真回信 0 封 / 表内 1 条 / 研究档 0 条（；→）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -17,10 +17,11 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/deep/facts。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
-  "level": "AB-FINAL-02 回信建档"
+  "level": "AB-FINAL-02 回信建档 + 官网快照（LT-T03 2026-11-01）",
+  "snapshot_at": "2026-11-01"
  },
  "saga_fit": {
   "p1": null,
@@ -37,6 +38,14 @@
     "quote": "推「Simon 备注/兴趣栏」→ 对方「用ubiquiti比较多，问了POE输入电源需要Passive POE ； 用ubiquiti比较多，问了PoE输入电源需要Passive PoE，英语听着是意」",
     "why": "表内客户回复（pos）",
     "k": "Clients/ 表格"
+   },
+   {
+    "date": "2026-11-01",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Sio SpA - Intelligence Operations : Sio SpA — Intelligence Operations",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.siospa.it/"
    }
   ],
   "binding": {
@@ -170,5 +179,12 @@
   "path": "弱",
   "reply": "R+",
   "focus": "focus"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:57:19Z"
+  ],
+  "last_ok": "2026-11-01",
+  "batch": "LT-T03"
  }
 }

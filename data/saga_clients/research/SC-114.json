@@ -6,7 +6,9 @@
  "summary": "Siklu（2024 年并入以色列上市公司 Ceragon）为毫米波 PtP/PtMP 无线设备厂商，表内仅 marketing@ 邮箱，问过 10G 工业 MC 未成；设备厂商 / 上市公司且无具名联系人 → 降 C。",
  "type": "",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Ubiquiti"
+ ],
  "evidence": [
   {
    "kind": "官网快照",
@@ -26,10 +28,11 @@
  "kp": [],
  "grade_override": "B",
  "override_reason": "AB-FINAL-02 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
- "notes": "（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-10-21）：brands_seen/site_contacts/deep/facts。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（身份判断 → 设备厂商降 C）"
+  "level": "B 级加厚 v1（身份判断 → 设备厂商降 C） + 官网快照（LT-T03 2026-10-21）",
+  "snapshot_at": "2026-10-21"
  },
  "saga_fit": {
   "p1": null,
@@ -47,6 +50,14 @@
     "quote": "推「Simon 备注/兴趣栏」→ 对方「问了10G工业级MC　没成\n需要10G品比较多」",
     "why": "表内客户回复（pos）",
     "k": "Clients/ 表格"
+   },
+   {
+    "date": "2026-10-21",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Siklu by Ceragon mmW PtP & PtMP | Ceragon Networks — Discover Siklu by Ceragon's mmWave solutions for ultra-fast, cost-effective wireless connectivity. Achieve reliable, multi-gigabit performance for urban and enterprise environments.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.ceragon.com/products/siklu-by-ceragon"
    }
   ],
   "binding": {
@@ -100,5 +111,35 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-10-21T09:44:42Z"
+  ],
+  "last_ok": "2026-10-21",
+  "batch": "LT-T03"
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [],
+  "social": [
+   "https://twitter.com/Ceragon",
+   "https://www.facebook.com/ceragonnetworks/?fref=ts&rf=111891902159901",
+   "https://www.linkedin.com/company/14470",
+   "https://www.youtube.com/channel/UCLj2pBpXDAUR2ASM8ZzxZOg"
+  ],
+  "models_on_site": [
+   "IP-20N",
+   "IP-20A",
+   "IP-50FX",
+   "IP-50CX",
+   "IP-50C",
+   "IP-50GP",
+   "IP-20C-HP",
+   "IP-50E"
+  ],
+  "url": "https://www.ceragon.com/products/siklu-by-ceragon",
+  "date": "2026-10-21",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

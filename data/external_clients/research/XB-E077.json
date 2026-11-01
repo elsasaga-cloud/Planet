@@ -2,8 +2,8 @@
  "code": "XB-E077",
  "name": "RapidBTS Limited",
  "round": "LT-T03",
- "researched_at": "2026-10-29",
- "alive": "快照失败（rapidbts.com：停放/空站（疑停业或仅占位），2026-10-29，第 1 次）",
+ "researched_at": "2026-11-01",
+ "alive": "快照失败（rapidbts.com：停放/空站（疑停业或仅占位），2026-11-01，第 2 次）",
  "summary": "RapidBTS Limited（尼日利亚 · Lagos）：网络与电信设备分销商",
  "type_final": "网络与电信设备分销商",
  "size": "",
@@ -66,13 +66,15 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
  "snap_thicken": {
   "consumed": [
-   "2026-10-29T15:54:55Z"
+   "2026-10-29T15:54:55Z",
+   "2026-11-01T09:58:16Z"
   ],
   "fails": [
-   "2026-10-29"
+   "2026-10-29",
+   "2026-11-01"
   ]
  }
 }

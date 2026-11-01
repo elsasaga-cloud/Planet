@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 连锁分销 20%：ООО «ВИДЕОГЛАЗ ЦЕНТР»（Москва；ИНН 7719840097 / ОГРН 1137746240279；品牌 2002；B2B 门户 + 加盟）坐实；已进口 hasivo PoE ✔ 对位 ✔ 坐实 ✔ 连锁体量 ✔ → P 池候选（17 推 0 回 → 点名 B2B 采购换稿）；闸 1：俄罗斯 Videoglaz（videoglaz.ru；CCTV 为主 + hasivo 商业 PoE）：进口中国同类 ✔ 对位 ✔ 俄罗斯；群发 17 次 0 回 → 闸 2 查底数；俄语区收款待定，低优先",
- "notes": "LT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -142,10 +142,12 @@
  },
  "snap_thicken": {
   "consumed": [
-   "2026-10-29T15:38:55Z"
+   "2026-10-29T15:38:55Z",
+   "2026-11-01T09:57:19Z"
   ],
   "fails": [
-   "2026-10-29"
+   "2026-10-29",
+   "2026-11-01"
   ],
   "batch": "LT-T03"
  },

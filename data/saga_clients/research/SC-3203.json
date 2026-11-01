@@ -2,7 +2,7 @@
  "code": "SC-3203",
  "name_official": "jteemsolutions.com",
  "researched_at": "2026-10-30",
- "website_status": "待快照",
+ "website_status": "快照失败（jteemsolutions.com：停放/空站（疑停业或仅占位），2026-11-01，第 1 次）",
  "summary": "斯里兰卡客户（jteemsolutions.com）：AB-FINAL-01 以回信证据建档——真回信 2 封 / 表内 0 条 / 研究档 0 条（S；2024-12→2025-01）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -24,7 +24,7 @@
   }
  ],
  "kp": [],
- "notes": "（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/fail#1。\n（AB-FINAL-01 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
   "level": "AB-FINAL-01 回信建档"
@@ -367,5 +367,14 @@
   "path": "活",
   "reply": "R+",
   "focus": "other"
+ },
+ "snap_thicken": {
+  "consumed": [
+   "2026-11-01T09:57:19Z"
+  ],
+  "fails": [
+   "2026-11-01"
+  ],
+  "batch": "LT-T03"
  }
 }
