@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3967)
+Svi proizvodi (3981)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -222,11 +222,11 @@ Samonoseći kablovi (8)
 Ostala pasiva (10)
 Ostale komponente (3)
 Potrošni materijal (5)
-Alati i instrumenti (158)
+Alati i instrumenti (164)
 Krimp klješta (22)
 Razni alati (47)
 Kompleti alata (35)
-Test instrumenti (40)
+Test instrumenti (46)
 Multimetri (1)
 Ostali instrumenti (3)
 Fiber alati (2)

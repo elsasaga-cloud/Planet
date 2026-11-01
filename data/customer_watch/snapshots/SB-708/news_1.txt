@@ -1,4 +1,4 @@
-# SB-708 hyconext.com · news_1 · https://hyconext.com/article-category · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-708 hyconext.com · news_1 · https://hyconext.com/article-category · fetched 2026-11-01T09:25:59Z · HTTP 200
 All our tech articles
 
 Sign in
@@ -31,6 +31,14 @@ Shipping & Delivery
 Home
 All articles
 Articles
+How WiFi 7 Changes Competitive Gaming Networks
+calendar_today 01-11-2026
+Wireless networking has come a long way from the days when serious gamers automatically avoided WiFi in favor of Ethernet. While wired connections...
+Articles
+Layer 3 Switches for Gaming Networks: Do They Matter?
+calendar_today 01-11-2026
+When building a gaming network, most people focus on internet speed, latency, and switch port counts. However, as gaming environments become larger...
+Articles
 Hyconext partners with WAV: NextWav 2.5G PoE switches now available across the US
 calendar_today 28-10-2026
 One switch for legacy 24V/48V radios and new 802.3af/at/bt gear, with DC power and 10G uplinks, through a leading wireless broadband distributor.City...
@@ -58,14 +66,6 @@ Articles
 How to Build an Esports Tournament Network: Multi-Gig Switch Architecture Guide
 calendar_today 01-08-2026
 Competitive esports has evolved from small local tournaments into a global industry featuring professional teams, live broadcasts, thousands of...
-Articles
-Reducing Network Congestion in WISP Tower Deployments with 2.5G Switching
-calendar_today 01-07-2026
-As subscriber demand continues to increase, Wireless Internet Service Providers (WISPs) face growing pressure to deliver higher bandwidth, lower...
-Articles
-Why 2.5G Matters for Gaming
-calendar_today 01-07-2026
-Competitive gaming has become more demanding than ever. Modern multiplayer titles require stable connections, low latency, and consistent packet...
 Filters
 Keyword
 Category

@@ -1,5 +1,5 @@
-# SB-1123 connectec.uk · sitemap · https://connectec.uk/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
-2026-10-25	https://connectec.uk
+# SB-1123 connectec.uk · sitemap · https://connectec.uk/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+2026-11-01	https://connectec.uk
 2022-11-24	https://connectec.uk/networking
 2022-05-11	https://connectec.uk/networking/network-devices
 2022-11-24	https://connectec.uk/networking/network-devices/network-switches
@@ -23,7 +23,7 @@
 2025-09-09	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/tp-link-tl-sf1024d-24-port-10-100mbps-unmanaged-desktop-rackmount-switch
 2026-07-09	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hilook-ns-0505d-5-port-gigabit-unmanaged-desktop-switch
 2026-08-26	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hilook-ns-0508d-8-port-gigabit-unmanaged-desktop-switch
-2026-08-07	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hilook-ns-0505p-35-4-port-gigabit-unmanaged-poe-switch
+2026-10-28	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hilook-ns-0505p-35-4-port-gigabit-unmanaged-poe-switch
 2026-08-25	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e1518p-ei-16-port-gigabit-smart-poe-switch
 2026-09-28	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e1105p-ei-v2-4-1-port-100mbps-smart-managed-poe-switch
 2026-09-28	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e1309p-ei-b-8-port-smart-managed-poe-switch
@@ -39,7 +39,7 @@
 2026-10-22	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e1506p-ei-o-std-4-port-gigabit-poe-smart-managed-switch
 2026-10-20	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e0520hp-e-20-port-poe-ethernet-switch
 2026-10-19	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/hikvision-ds-3e0528hp-e-24-port-gigabit-unmanaged-poe-switch
-2026-10-23	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/ruijie-rg-es126fgs-p-24-port-100-mbps-1-gb-unmanaged-poe-switch
+2026-10-29	https://connectec.uk/networking/network-devices/network-switches/desktop-switches/ruijie-rg-es126fgs-p-24-port-100-mbps-1-gb-unmanaged-poe-switch
 2022-11-24	https://connectec.uk/networking/network-devices/network-switches/industrial-switches
 2026-04-23	https://connectec.uk/networking/network-devices/network-switches/industrial-switches/planet-igs-801t-industrial-8-port-gigabit-switch
 2026-10-20	https://connectec.uk/networking/network-devices/network-switches/industrial-switches/planet-igs-5225-8p4s-industrial-ethernet-switch

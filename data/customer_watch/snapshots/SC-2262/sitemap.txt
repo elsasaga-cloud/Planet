@@ -1,4 +1,4 @@
-# SC-2262 1st-embedded.com · sitemap · https://1st-embedded.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-2262 1st-embedded.com · sitemap · https://1st-embedded.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 	https://www.1st-embedded.com/shop/payment/validate
 	https://www.1st-embedded.com/shop/payment/token
 	https://www.1st-embedded.com/website_payment/confirm

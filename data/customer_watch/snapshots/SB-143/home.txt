@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Home | Broadstar
 Skip to content
 Menu
@@ -185,7 +185,6 @@ Get a Proposal for this Area
 Please enable JavaScript in your browser to complete this form.
 Your Name * First
 Last
-and know? Interest
 Email *
 Phone *
 Community or Property Name *
@@ -194,6 +193,7 @@ Board Member
 Property Manager
 Owner or Developer
 Other
+Services Location we
 Number of Units *
 Property Location * --- Select Choice ---
 West Palm Beach area

@@ -1,4 +1,4 @@
-# SB-1073 sensoguard.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQEnbPoXQxNF-agnbc6dHsQ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-1073 sensoguard.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQEnbPoXQxNF-agnbc6dHsQ · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-03-11T14:37:00+00:00	Seismic Shield Wireless | Part 2 - System Configuration	https://www.youtube.com/watch?v=q3LGHPDHIy4
 2026-03-11T14:33:13+00:00	Seismic Shield Wireless | Part 1 - What's in The Box?	https://www.youtube.com/watch?v=-hEvKwKan08
 2026-03-11T14:31:33+00:00	Seismic Shield Wireless | Part 4 - Sensor Calibration	https://www.youtube.com/watch?v=w58jz6hgmus

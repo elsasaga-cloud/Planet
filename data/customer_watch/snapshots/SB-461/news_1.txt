@@ -1,4 +1,4 @@
-# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-01T09:25:59Z · HTTP 200
 Píšeme, radíme, inspirujeme a testujeme | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -55,7 +55,7 @@ Instalační materiál
 Elektronika pro domácí mazlíčky
 (9)
 Novinky
-(177)
+(160)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart

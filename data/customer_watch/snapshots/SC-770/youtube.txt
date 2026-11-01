@@ -1,4 +1,4 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-10-31T08:30:11+00:00	Coboty w branży spożywczej: pakowanie makaronu	https://www.youtube.com/shorts/yEp_W-J7HXk
 2026-10-29T07:45:35+00:00	Coboty w branży spożywczej: pakowanie napojów	https://www.youtube.com/shorts/jjjkjMW5sOQ
 2026-10-28T15:00:10+00:00	Local AI Day 19.11 Warszawa: lokalne AI w praktyce	https://www.youtube.com/shorts/cK0RoyRIDG4

@@ -1,4 +1,4 @@
-# SB-223 2mtechnology.net · home · https://www.2mtechnology.net/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-223 2mtechnology.net · home · https://www.2mtechnology.net/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Advanced Security for High-Risk Environments | 2M Technology
 Skip to content
 Products
@@ -314,14 +314,14 @@ Ensure patient safety and secure restricted areas with touchless access control 
 Learn More
 Trusted By Commercial & Industrial Clients Across the U.S.
 From small businesses to industrial leaders, organizations nationwide scale their security with 2M Technology.
+Adapting One Explosion-Proof Housing for Two Verkada Camera Models
+We adapted one explosion-proof enclosure for Verkada across two clients using custom mounting plates to fit both CF83-E fisheye and CD63-E dome camera models.
+Read Case Study
+Custom Explosion-Proof Camera Enclosure for Verkada with Dual Ratings
+Built with dual compliance, our custom explosion-proof camera enclosure for a Verkada bullet easily adapted to a mid-project Class II to Class I rating change.
+Read Case Study
 Custom Explosion-Proof Verkada Bullet Camera Housings: One Camera, Two Solutions
 Deploy any Verkada camera in hazardous areas without compromise. 2M designs every custom explosion-proof Verkada bullet camera housing to match your specs.
 Read Case Study
 Energy Site: Custom 10-ft Container Turnstile Checkpoint Fabrication
-When a Louisiana energy company needed a portable access control solution, we fabricated a custom 10-ft container turnstile checkpoint in under 3 weeks.
-Read Case Study
-Pappy's Express Car Wash: Explosion Proof Camera Installation
-2M Technology installed explosion proof car wash security cameras at Pappy's Express in Garland, Texas, to monitor tunnels and resolve customer damage claims.
-Read Case Study
-Urology Medical Clinic: Network-Integrated Ubiquiti UniFi Security System Installation
-We designed and installed a scalable, mult
+When a Louisiana energy company needed a portab

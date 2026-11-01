@@ -1,4 +1,4 @@
-# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-10-29T15:11:51Z · HTTP 200
+# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
 obserwujpl
 Zapraszamy na nasz kanał
@@ -24,7 +24,7 @@ Gotowe zestawy IP
 Rejestratory
 Kamery
 0
-Kamera kopułka 6M DAHUA IPC-HDW1639T-A-IL-0280B-S6
+Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6
 Cena: 295.20 zł
 Akcesoria CCTV
 UPS-y
@@ -222,100 +222,100 @@ Nowości
 Wszystkie nowości
 0
 Nowość
-Imou
-ZSM1-EU – Inteligentny Czujnik Dymu Zigbee z Funkcją Współpracy Wielourządzeniowej
-IMOU-1185
-Certyfikat EN14604
-Protokół Zigbee
-Bateria na 5 lat
-Głośność alarmu >85dB
-Wspólne alarmowanie wielu czujek
-Cena: 80.81 zł
+TP-LINK
+M7400 – Mobilny router Wi-Fi 4G LTE-Advanced Cat6 AC1200
+TPLINK-1929
+LTE-Advanced do 300 Mb/s
+Wi-Fi Dual Band 2,4/5 GHz
+Obsługa do 32 urządzeń
+Bateria 2100 mAh (8h pracy)
+Slot micro SD do 2TB
+Cena: 603.01 zł
 Zapytaj o produkt
 0
 Nowość
-Imou
-ZG2S – Inteligentna Bramka Zigbee 3.0 i Matter (Smart Gateway)
-IMOU-1183
-Obsługa 128 urządzeń Zigbee
-Protokół Matter
-Wbudowana syrena alarmowa
-Zdalne sterowanie aplikacją
-Praca lokalna bez internetu
-Cena: 123.91 zł
+TP-LINK
+InSight S445(4mm) – W pełni kolorowa kamera sieciowa VIGI typu Turret, 4MP
+TPLINK-1928
+Rozdzielczość 4MP Super HD
+Pełny kolor przez 24h
+Analiza AI ludzi i pojazdów
+Klasa szczelności IP67
+Dwukierunkowe audio
+Cena: 994.98 zł
 Zapytaj o produkt
 0
 Nowość
-Imou
-Smoke Detector ZSM1 Kit-EU-6 – Inteligentny Czujnik Dymu Zigbee z Certyfikatem EN14604
-IMOU-1182
-Certyfikat EN14604
-Bateria do 5 lat
-Głośność ≥85 dB
-Protokół Zigbee
-Alarm kaskadowy
-Cena: 501.03 zł
+TP-LINK
+InSight S345(4mm) – Zewnętrzna kamera sieciowa typu Bullet 4MP z analityką AI i Active Defense
+TPLINK-1927
+Rozdzielczość 4MP
+Obiektyw 4mm
+Analityka osób i pojazdów
+True WDR 120dB
+Klasa szczelności IP67
+Cena: 1076.47 zł
 Zapytaj o produkt
 0
 Nowość
-Imou
-Smoke Detector ZSM1 Kit-EU-3 – Inteligentny Czujnik Dymu Zigbee z Certyfikatem EN14604
-IMOU-1181
-Certyfikat EN14604
-Łączność Zigbee (zasięg 130m)
-Głośność alarmu ≥85dB
-Bateria na 5 lat
-Alarm kaskadowy (offline)
-Cena: 296.31 zł
+TP-LINK
+InSight PTZ5425 – Zewnętrzna Kamera Obrotowa IP 4MP 25x Zoom Optyczny Speed Dome
+TPLINK-1926
+Rozdzielczość 4MP
+Zoom optyczny 25X
+Zasięg IR 100m
+Śledzenie ludzi i pojazdów
+Obudowa IP66/IK08
+Cena: 6691.16 zł
+Zapytaj o produkt
+10
+Nowość
+TP-LINK
+InSight LPR345Z – Zewnętrzna kamera sieciowa Bullet 4MP z funkcją rozpoznawania tablic rejestracyjnych (LPR) i obiektywem Motozoom
+TPLINK-1925
+Rozdzielczość 4MP
+Rozpoznawanie tablic ANPR
+Obiektyw moto-zoom 2.7-13.5mm
+Obudowa IP67 i IK10
+Sterowanie szlabanem
+Cena: 2344.81 zł
+Do koszyka
+0
+Nowość
+TP-LINK
+Fusion G+ – Zintegrowana Brama GPON Omada SDN V2.6
+TPLINK-1924
+Terminal GPON
+Integracja Omada SDN
+Wbudowany kontroler
+Zaawansowany VPN
+Porty Gigabit
+Cena: 746.00 zł
 Zapytaj o produkt
 0
 Nowość
-Imou
-PFB-JB – Aluminiowa puszka montażowa do kamer monitoringu
-IMOU-1179
-Stop aluminium ADC12
-Wodoodporna konstrukcja
-Montaż wewnątrz i na zewnątrz
-Wymiary Ø122 × 41 mm
-Ukrycie i ochrona kabli
-Cena: 70.04 zł
+TP-LINK
+Fusion 2.5G PoE – Brama sieciowa i kontroler Omada Fusion 2.5G PoE
+TPLINK-1923
+Zintegrowana brama i kontroler
+9 portów 2.5G RJ45
+8 portów PoE (110W)
+Ekran dotykowy 3,69"
+IPS/IDS do 2,1 Gb/s
+Cena: 1598.57 zł
 Zapytaj o produkt
-0
+42
 Nowość
-Imou
-KIT-IOT-HomeSecurityKit-EU-9-M – Kompleksowy System Inteligentnego Domu z Bramką Matter i 8 Czujnikami
-IMOU-1178
-Protokół Zigbee 3.0 i Matter
-Obsługa do 128 urządzeń
-Wbudowana syrena alarmowa
-Gniazdko 3680W z pomiarem mocy
-Certyfikat dymu EN 14604
-Cena: 511.80 zł
-Zapytaj o produkt
-0
-Nowość
-Imou
-KIT-IOT-HomeAlarmKit-EU-5-M – Inteligentny Zestaw Alarmowy Smart Home Matter (Bramka ZG2S, Czujnik Ruchu ZP1, 2x Czujnik Otwarcia ZD1, Pilot ZB1)
-IMOU-1177
-Protokół Matter i Zigbee 3.0
-Obsługa do 128 urządzeń
-Detekcja ruchu (zasięg 8m)
-Monitoring otwarcia drzwi/okien
-Zdalne sterowanie aplikacją
-Cena: 350.18 zł
-Zapytaj o produkt
-0
-Nowość
-Imou
-KIT/HB-H1C-6A0S/2-B3LP-5B0S1/FSP12-TYPEC – Inteligentny zestaw monitoringu Wi-Fi 6 z 2 kamerami 5MP, panelami solarnymi i Smart Hubem
-IMOU-1176
-Rozdzielczość 5MP QHD
-Zasilanie solarne 3W
-Technologia AOV 24/7
-Detekcja AI osób i aut
-Wi-Fi 6 Dual-band
-Cena: 861.98 zł
-Zapytaj o produkt
+TP-LINK
+Fusion 2.5G – Brama sieciowa i kontroler Omada 2,5 Gb/s
+TPLINK-1922
+5 portów RJ45 2,5 Gb/s (Multi-WAN)
+Kontroler Omada bez licencji
+Przepustowość IPS/IDS 2,1 Gb/s
+Ekran dotykowy 2,51" LCM
+VPN LightLink i Bluetooth
+Cena: 1097.25 zł
+Do koszyka
 Najciekawsze oferty w kategoriach
 Monitoring CCTV
 0

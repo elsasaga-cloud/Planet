@@ -1,4 +1,4 @@
-# SA-045 energyplusystems.cl · sitemap · https://energyplusystems.cl/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SA-045 energyplusystems.cl · sitemap · https://energyplusystems.cl/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-04-10T10:00:00+00:00	https://energyplusystems.cl/
 2026-04-05T10:00:00+00:00	https://energyplusystems.cl/catalogo/cables-mineros-y-de-potencia/
 2026-04-03T10:00:00+00:00	https://energyplusystems.cl/catalogo/transformadores/

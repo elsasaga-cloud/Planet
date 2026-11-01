@@ -1,4 +1,4 @@
-# SC-2258 townet.it · feed_auto · https://www.townet.it/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-2258 townet.it · feed_auto · https://www.townet.it/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Tue, 23 Dec 2025 10:33:41 +0000	Protezione Civile	https://www.townet.it/protezione-civile/
 Tue, 23 Dec 2025 10:04:07 +0000	Difesa Military	https://www.townet.it/difesa-military/
 Tue, 23 Dec 2025 09:50:41 +0000	Polizia	https://www.townet.it/polizia/

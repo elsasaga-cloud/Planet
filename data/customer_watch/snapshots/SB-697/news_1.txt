@@ -1,4 +1,4 @@
-# SB-697 alliedasia.com.sg · news_1 · https://alliedasia.com.sg/whats-new/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-697 alliedasia.com.sg · news_1 · https://alliedasia.com.sg/whats-new/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 whats new – Allied Asia
 Comodo SSL
 Search here
@@ -68,8 +68,9 @@ RCA Cables
 TOSLink Cables
 Displayport Cables
 DP1.2
-DP to USB-C
 DP1.4 (8K)
+DP2.1 (16K)
+DP to USB-C
 DP to HDMI
 DP to VGA
 DP to DVI
@@ -363,6 +364,7 @@ RCA Cables
 TOSLink Cables
 Displayport Cables DP1.2
 DP1.4 (8K)
+DP2.1 (16K)
 DP to USB-C
 DP to HDMI
 DP to VGA
@@ -629,8 +631,9 @@ RCA Cables
 TOSLink Cables
 Displayport Cables
 DP1.2
-DP to USB-C
 DP1.4 (8K)
+DP2.1 (16K)
+DP to USB-C
 DP to HDMI
 DP to VGA
 DP to DVI
@@ -718,6 +721,4 @@ HDMI Modular Matrix Switcher
 HDMI Video Capture
 HDMI Converter
 HDMI Audio DE-EMBEDDER (Extractor)
-HDMI Audio EMBEDDER
-HDMI 4K Scaler
-HDCP Co
+HDMI A

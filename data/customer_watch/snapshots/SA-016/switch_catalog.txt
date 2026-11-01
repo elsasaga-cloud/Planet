@@ -1,4 +1,4 @@
-# SA-016 БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备） · switch_catalog · https://bitbuk.ru/category/sistemy-videonablyudeniya/kommutatory/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SA-016 БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备） · switch_catalog · https://bitbuk.ru/category/sistemy-videonablyudeniya/kommutatory/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Системы видеонаблюдения Коммутаторы купить в интернет-магазине Priorat по цене от 1 100 руб.
 Нижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация
 Каталог
@@ -208,33 +208,33 @@ Macroscop
 Сравнение
 Перейти к сравнению
 Лидеры продаж
-Коммутатор PoE PRIORAT PRT-SF-1226P
-24 900 ₽
-Сканер штриховых кодов БитБук SC-62AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
-6 100 ₽
+Сканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}
+10 200 ₽
+Сетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO
+12 900 ₽
+Сканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
+5 900 ₽
+IP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO
+21 120 ₽
 Коммутатор PoE PRIORAT PRT-SG-1226P
 32 120 ₽
 IP камера уличная Priorat PRT-BM30-F2.8 BASE
 8 261 ₽
-Сканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}
-10 200 ₽
-IP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO
-21 120 ₽
-Сканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
-5 900 ₽
-Сетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO
-12 900 ₽
+Коммутатор PoE PRIORAT PRT-SF-1226P
+24 900 ₽
+Сканер штриховых кодов БитБук SC-62AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
+6 100 ₽
 Рекомендуем
 Коммутатор PoE промышленный PRIORAT PRT-SG-1208PI
 14 600 ₽
-Коммутатор управляемый PRIORAT PRT-SG-1424M
-14 300 ₽
-Сканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
-3 200 ₽
-Сетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO
-12 900 ₽
 Коммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65
 9 400 ₽
+Сканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
+3 200 ₽
+Коммутатор управляемый PRIORAT PRT-SG-1424M
+14 300 ₽
+Сетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO
+12 900 ₽
 Подбор по параметрам
 Цена, руб.
 Монтаж в стойку 19" RACKMOUNT

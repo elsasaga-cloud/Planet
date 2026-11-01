@@ -1,4 +1,4 @@
-# SB-399 petawise.com · sitemap · https://petawise.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-399 petawise.com · sitemap · https://petawise.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 2020-12-08T08:16:31+00:00	https://petawise.com/
 2020-12-08T08:16:31+00:00	https://petawise.com/login/
 2020-12-08T08:16:31+00:00	https://petawise.com/product-category/ip-cameras/

@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,12 +429,10 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
--50%
-LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
-R$ 255,00
-R$ 127,50
+Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
+R$ 990,00
 R$
-123 , 68
+960 , 30
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -446,23 +444,42 @@ R$
 à vista
 com desconto Pix - Vindi
 Ver opções
-LRS-450 Fonte CA/CC 450 Watts Alta Eficiência MeanWell
-A partir de
-R$ 520,82
+MDR-10 Fonte CA/CC 10 Watts Trilho DIN Compacta para Automação Industrial MeanWell
+R$ 120,83
 R$
-505 , 20
+117 , 21
 à vista
 com desconto Pix - Vindi
 Ver opções
-LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
-R$ 499,00
+Inversor CC/CA 1000W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-1K-127-V3
+R$ 1.682,95
 R$
-484 , 03
+1.632 , 46
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
+Sensor de Luz Ambiente TSL200 Interface 1-Wire
+R$ 735,95
+R$
+713 , 87
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+CO2, Multissensor de Umidade e Temperatura TSM400-4-CPTH
+Sob consulta
+Saiba mais
+Pedir cotação
+Temperatura e Umidade Data Logger TCW210-TH
+R$ 1.813,25
+R$
+1.758 , 85
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
 R$ 549,00
 R$
@@ -471,26 +488,6 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Módulo E/S Universal Remoto 4G LTE TCG140-4G-H266
-R$ 4.223,51
-R$
-4.096 , 80
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Sensor de Umidade e Temperatura Digital TSH206 Interfece 1-Wire
-R$ 721,20
-R$
-699 , 56
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-1-Wire Sensor de Tensão TSV200-60i
-Sob consulta
-Saiba mais
-Pedir cotação
 Depoimentos
 Nome: Djalma Filho
 Avaliação: Positivo
@@ -553,5 +550,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.215 secs - 31-10-2026  - node: commerce-web5-tiny-lw - store
+Load time: 0.83 secs - 01-11-2026  - node: commerce-web2-tiny-lw - store
 ×

@@ -1,4 +1,4 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home_2 · https://eurodk.lv/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home_2 · https://eurodk.lv/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Bezvadu Wi-Fi aprīkojums no Ubiquiti, Mikrotik | Getic
 lv EUR ar PVN 21% , Latvija
 Konts
@@ -12,61 +12,68 @@ Balts
 1 m
 noliktavā
 2.13 €
-USW-Pro-HD-24-PoE
-Ubiquiti UniFi Switch Pro HD 24 PoE
+UDB
+Ubiquiti Device Bridge
 noliktavā
-1146.92 €
-5.0
-USW-Pro-8-POE
-Ubiquiti UniFi Switch Pro 8 PoE
+115.68 €
+TRB246
+Teltonika TRB246 industriālā IoT vārteja
 noliktavā
-350.07 €
-4.9
-UCG-Fiber
-Ubiquiti UniFi Cloud Gateway Fiber
-noliktavā
-322.05 €
-USW-Pro-HD-24
-Ubiquiti UniFi Switch Pro HD 24
-noliktavā
-701.39 €
-5.0
-CS-H9c-R100-8G55WKFL
-EZVIZ Pan & Tilt kamera H9c 3K
+191.75 €
+CRS812-8DS-2DQ-2DDQ-RM
+MikroTik CRS812-8DS-2DQ-2DDQ-RM
 EU
 noliktavā
-98.11 €
-BCM-RJ45
-Broadbe SFP+ to RJ45 modulis
-10 Gbps
+1424.21 €
+U7-Pro-XG-Wall
+Ubiquiti UniFi U7 Pro XG Wall
 noliktavā
-51.40 €
+327.20 €
+D53G-5HacD2HnD-TC&R11e-LTE7
+MikroTik Chateau LTE7
+EU
+noliktavā
+113.74 €
+5.0
+SXTsq-5axD
+MikroTik SXTsq 5 ax
+EU
+noliktavā
+58.23 €
+5.0
+CSS318-16G-2S+IN
+MikroTik CSS318-16G-2S+IN
+EU
+noliktavā
+125.49 €
+5.0
+U7-Pro-XGS
+Ubiquiti UniFi U7 Pro XGS
+Balts
+noliktavā
+344.93 €
 UC-Cast
 Ubiquiti Display Cast
 EU
 jauns
 noliktavā
 218.33 €
-E62iUGS-2axD5axT
-MikroTik hAP ax S
-EU
+CS-EB8-R200-1M8W4GA
+EZVIZ Pan & Tilt kamera EB8 Pro 4G 4K
 noliktavā
-75.37 €
-EC25-EU&KNe
-Mikrotik KNOT Embedded LTE4
-EU
+215.99 €
+TRB256
+Teltonika TRB256 industriālā NB-IoT vārteja
 noliktavā
-75.37 €
-U7-Pro-XG-Wall
-Ubiquiti UniFi U7 Pro XG Wall
-noliktavā
-328.43 €
-CRS418-8P-8G-2S+5axQ2axQ-RM
-MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM
-noliktavā
-420.89 €
+157.26 €
 parādiet man vairāk
 Viss ar atlaidi, pasteidzies
+-18 %
+UISP-Console
+Ubiquiti UISP Console
+noliktavā
+330.09 €
+271.63 €
 -20 %
 UXG-Lite
 Ubiquiti Gateway Lite
@@ -75,12 +82,6 @@ jauns
 noliktavā
 135.34 €
 107.99 €
--18 %
-UISP-Console
-Ubiquiti UISP Console
-noliktavā
-330.09 €
-271.63 €
 -60 %
 4.9
 SAW30-240-1200GR2A
@@ -114,7 +115,7 @@ noliktavā
 UVC-AI-Dome-B
 Ubiquiti kamera AI Dome
 noliktavā
-458.25 €
+456.53 €
 369.81 €
 -23 %
 R11e-LR2

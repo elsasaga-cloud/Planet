@@ -1,4 +1,4 @@
-# SB-826 versitron.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCq7WBvce5EjKVu0Q9XXL_8g · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-826 versitron.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCq7WBvce5EjKVu0Q9XXL_8g · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-05-28T12:00:05+00:00	NDAA Compliant Fiber Optic Converter for Tethered Drone Systems | Versitron	https://www.youtube.com/watch?v=edTiVdFY-Lk
 2023-07-27T09:03:05+00:00	SG70460 - 4 Port Unmanaged Switch	https://www.youtube.com/shorts/WrnjujjRKiE
 2022-07-15T05:41:05+00:00	How to Choose Fiber SFP and SFP+ Modules?	https://www.youtube.com/watch?v=4eHmxdWEQn8

@@ -1,4 +1,4 @@
-# SC-2154 roundrobintech.com · home · https://roundrobintech.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-2154 roundrobintech.com · home · https://roundrobintech.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Cybersecurity Distributor in India | RoundRobin Tech
 Skip to content
 sales@roundrobintech.com
@@ -250,7 +250,7 @@ New capabilities enable earlier threat detection, reduced complexity and faster
 Events
 Events Calendar
 Loading calendar…
-October 2026
+November 2026
 Mon
 Tue
 Wed
@@ -258,9 +258,12 @@ Thu
 Fri
 Sat
 Sun
+26
+27
 28
 29
 30
+31
 1
 2
 3
@@ -291,8 +294,12 @@ Sun
 28
 29
 30
-31
 1
+2
+3
+4
+5
+6
 December 2026
 Mon
 Tue
@@ -336,7 +343,7 @@ Sun
 1
 2
 3
-December 2026
+January 2027
 Mon
 Tue
 Wed
@@ -344,7 +351,10 @@ Thu
 Fri
 Sat
 Sun
+28
+29
 30
+31
 1
 2
 3
@@ -376,9 +386,6 @@ Sun
 29
 30
 31
-1
-2
-3
 About Us
 RoundRobin Tech Services is formed by a team of professionals having over 3 decades of experience in Internet Security & Network Infrastructure Sector. We define ourselves as a Value-Added Distributor focused in bringing the most innovative products in the market, whilst ensuring that these are the best solutions & great value for money for our partners and their customers.
 Direct Access

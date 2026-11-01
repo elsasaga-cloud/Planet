@@ -1,4 +1,4 @@
-# SB-358 kyolis.com · feed_auto · https://kyolis.com/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-358 kyolis.com · feed_auto · https://kyolis.com/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Tue, 13 Feb 2024 13:12:24 +0000	Switchs Ethernet Industriels	https://kyolis.com/produit/switchs-ethernet-industriels/
 Fri, 15 Dec 2023 10:06:05 +0000	Accessoires	https://kyolis.com/produit/accessoires/
 Fri, 15 Dec 2023 09:05:29 +0000	Modules SFP / Câbles	https://kyolis.com/produit/modules-sfp-cables/

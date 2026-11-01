@@ -1,4 +1,4 @@
-# SB-432 qubix.it · sitemap · https://www.qubix.it/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-432 qubix.it · sitemap · https://www.qubix.it/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 	https://www.qubix.it/
 	https://www.qubix.it/product-categories/cabling/
 	https://www.qubix.it/product-categories/networking/

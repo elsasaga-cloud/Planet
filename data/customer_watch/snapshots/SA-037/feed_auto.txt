@@ -1,4 +1,4 @@
-# SA-037 aeconnect.co.in · feed_auto · https://aeconnect.co.in/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SA-037 aeconnect.co.in · feed_auto · https://aeconnect.co.in/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Thu, 30 Jul 2026 05:58:37 +0000	3-Port Gigabit PoE Extender AEIN-PEG02	https://aeconnect.co.in/3-port-gigabit-poe-extender-aein-peg02/
 Thu, 30 Jul 2026 05:21:59 +0000	PoE+ Gigabit Ethernet Surge Protector AEIN-PDSP01	https://aeconnect.co.in/poe-gigabit-ethernet-surge-protector-aein-pdsp01/
 Tue, 30 Jun 2026 10:10:03 +0000	16 Port Industrial Gigabit L2 Managed PoE+ Switch AE700-IPS16GE4GF-M	https://aeconnect.co.in/16-port-industrial-gigabit-l2-managed-poe-switch-ae700-ips16ge4gf-m/

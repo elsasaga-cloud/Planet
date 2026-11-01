@@ -1,4 +1,4 @@
-# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Cables N More
 Create Account
 Log in
@@ -341,8 +341,6 @@ $35.57
 Conscious about cost or constrained by space? This 25U 2-Post Open Frame Rack is an ideal solution for most IT environments.
 $252.78
 Bestsellers
-Black Booted CAT6 Patch Cable - 3 ft
-$2.03
 6u Vertical Wall Mount Bracket - Black
 Our 6u Vertical Wall Mount Bracket - Black are a convenient way to accomplish your rack mounting needs while you save space without bulky full sized racks. Designed for all 19 inch patch panel equipment.
 $57.09
@@ -355,6 +353,9 @@ $21.89
 16 Port Fully Loaded 75 Ohm BNC Coaxial Patch Panel - 1U
 The Networx™ 16 Port Fully Loaded 75 Ohm BNC Coaxial Patch Panel is a great solution when setting up any type of coaxial distribution network.
 $45.51
+30 m Multimode Duplex Fiber Optic Patch Cable (62.5/125) - LC to LC
+This Multimode Duplex Fiber Optic Patch Cable (62.5/125) - LC to LC is built with genuine Corning Glass, has ceramic ferrules and a 62.5/125 micron core, this cable is suitable for high speed data transmissions such that you would find in Ethernet (10 Mb/s) to Gigabit Ethernet (1 Gb/s) networks.
+$34.53
 Information
 Sitemap
 Conditions of use

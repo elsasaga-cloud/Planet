@@ -1,4 +1,4 @@
-# SC-1352 globusinfocom.com · sitemap · https://www.globusinfocom.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-1352 globusinfocom.com · sitemap · https://www.globusinfocom.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 	https://www.globusinfocom.com/
 	https://www.globusinfocom.com/about-us/
 	https://www.globusinfocom.com/directors-message/

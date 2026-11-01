@@ -1,4 +1,4 @@
-# SB-415 a2s.pl · home · https://www.a2s.pl/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-415 a2s.pl · home · https://www.a2s.pl/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Automatyka Przemysłowa, Elektronika Przemysłowa, Komputery i Oprogramowanie Przemysłowe - Katalog Produktów
 Moje konto
 Oferty
@@ -45,18 +45,18 @@ NPE M1000
 NPE M1000 - Komputer przemysłowy, IoT Gateway,...
 Więcej produktów »
 Szczególnie polecamy
+ZigBee Module ZM-10
+Moduł przekaźnikowy wejść / wyjść ZigBee: 2...
+NPE X500
+NPE X500 - Komputer przemysłowy, IoT Gateway,...
 ZigBee Sensor ZS-10
 Wielokanałowy czujnik ZigBee z zasilaniem...
 ATC-1000
 Konwerter Ethernet TCP/IP na RS-232/422/485, CPU...
 NPEIO-4AO
 Protokół Modbus RTU, 4x AO, RS-485,
-NPE X500
-NPE X500 - Komputer przemysłowy, IoT Gateway,...
 iModCloudBOX R200
 Komputer typu RACK 1U z czterordzeniowym...
-NPEIO-4AI
-Protokół Modbus RTU, 4x AI, RS-485,
 Więcej produktów »
 Nowe produkty
 Wiadomości

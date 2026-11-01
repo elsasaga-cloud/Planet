@@ -1,4 +1,4 @@
-# SC-1657 San Telequip Pvt. Ltd. · news_2 · https://santelequip.com/news/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-1657 San Telequip Pvt. Ltd. · news_2 · https://santelequip.com/news/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 News - San Telequip
 SEARCH
 Home
@@ -58,7 +58,7 @@ IO's Gateway
 LoRa Gateway
 Lite Managed Ethernet
 Switches
-L2 Lite Managed Ethernet Switch
+L2 Lite Managed Ethernet Switches
 Applications ▾
 Oil & Gas
 System Integrator

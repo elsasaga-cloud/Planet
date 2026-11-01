@@ -1,4 +1,4 @@
-# SB-428 media-konwertery.pl · youtube · https://www.youtube.com/user/intercomppl · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-428 media-konwertery.pl · youtube · https://www.youtube.com/user/intercomppl · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-09-24T11:25:05+00:00	Hikvision DS-KV6124-WBE1 - stacja bramowa Hikvision TalkVu z klawiaturą - www.kamery-ip.com	https://www.youtube.com/watch?v=xAPaoj8362U
 2026-09-08T13:25:36+00:00	Hikvision DS-KV8114T-NWQE1 - stacja bramowa z ochroną perymetryczną - www.kamery-ip.com	https://www.youtube.com/watch?v=h6YO7H5eMzE
 2026-07-15T12:51:05+00:00	Dahua DSSPro 8.8 web client - www.kamery-ip.com	https://www.youtube.com/watch?v=weBOwen79gY

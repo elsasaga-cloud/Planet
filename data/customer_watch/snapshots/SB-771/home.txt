@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Sirena para exteriores inalambrica ROJA AX PRO, HIKVISION DS-PS1-E-WB(O-STD)/Red
-$ 76 + IVA
-Sensor de movimiento inal?mbrico para interiores de techo, HIKVISION DS-PDCL12-EG2-WB
-$ 26 + IVA
+Cable de alarma 22/2 Solido CM CL2 1000FT Gris UL, VERTICAL 210-222SO/GY
+$ 66 + IVA
+Teclado inalámbrico para Alarma AX PRO, HIKVISION DS-PK1-E-WB(O-STD) (SENSOR)
+$ 53 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,16 +202,30 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 50 mts Fibra Optica macho a...
+CONTROL DE ACCESO
+Cobertor superior para puertas de vidrio 1 metro, ...
 $ 62 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
-Chapa magnetica CON LED (600lbs), LANTEK LTK-MAG60...
-$ 31 + IVA
+Control de acceso y asistencia 1000 usuarios huell...
+$ 64 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+SEGURIDAD , CONTROL DE ACCESO
+Sensor de proximidad y de presencia para puerta au...
+$ 95 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4k Ultra HD 5 mts Fibra Optica macho a ...
+$ 30 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -219,20 +233,6 @@ Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
 Video Audio Distributor 8ch 10/100, HIKVISION DS-K...
 $ 129 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-SEGURIDAD , ALARMAS
-Expansor de señal inalámbrico AX PRO, HIKVISION ...
-$ 76 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 30 mts Fibra optica macho a...
-$ 51 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,36 +266,36 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 8+1 GE PoE 120W Administrable / Vlan, Loop ...
-$ 112 + IVA
+Switch Acceso L2 / 48 GE / 4 x SFP+ / PoE 370w, RE...
+$ 806 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente poder 120w industrial externa para switch i...
-$ 55 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-SWITCHES
-Switch Acceso L2 / 24 GE / 4 x SFP+ / PoE 370w, RE...
-$ 698 + IVA
+Switch Agregacion 8 SFP / 2GE uplink, 6KV No admin...
+$ 74 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 4+1 GE PoE 54W / Vlan, Loop prevention, Rem...
-$ 44 + IVA
+Fuente Poder para RG-S6120-20XS4VS2QXS, RUIJIE RG-...
+$ 250 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 8 GE PoE+ / 2GE + 1 SFP(combo) uplink, 120W...
-$ 83 + IVA
+Switch L3 NeverDie / 48 GE PoE / 4 x SFP+ / NO inc...
+$ 1,415 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Switch L3 NeverDie / 48 GE / 4 x SFP+ VSU RIP, OSP...
+$ 1,392 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

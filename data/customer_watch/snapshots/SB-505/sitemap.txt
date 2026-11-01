@@ -1,4 +1,4 @@
-# SB-505 eso.co.th · sitemap · https://www.eso.co.th/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-505 eso.co.th · sitemap · https://www.eso.co.th/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-10-26T22:10:03+00:00	https://www.eso.co.th
 2026-10-26T22:10:03+00:00	https://www.eso.co.th/contactus
 2026-10-26T22:10:03+00:00	https://www.eso.co.th/support

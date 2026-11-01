@@ -1,15 +1,19 @@
-# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 	https://www.bitsandbyte.net
 	https://www.bitsandbyte.net/solutions
-	https://www.bitsandbyte.net/solutions/cloud-infrastructure
-	https://www.bitsandbyte.net/solutions/cybersecurity
 	https://www.bitsandbyte.net/solutions/networking-connectivity
+	https://www.bitsandbyte.net/solutions/cybersecurity
+	https://www.bitsandbyte.net/solutions/data-centre-cloud
+	https://www.bitsandbyte.net/solutions/digital-workplace
+	https://www.bitsandbyte.net/solutions/smart-infrastructure
 	https://www.bitsandbyte.net/solutions/managed-services
-	https://www.bitsandbyte.net/solutions/cloud-infrastructure/cloud-infrastructure
-	https://www.bitsandbyte.net/solutions/cloud-infrastructure/virtualization
-	https://www.bitsandbyte.net/solutions/cloud-infrastructure/storage-backup
-	https://www.bitsandbyte.net/solutions/cloud-infrastructure/database
-	https://www.bitsandbyte.net/solutions/cloud-infrastructure/messaging-collaboration
+	https://www.bitsandbyte.net/solutions/cloud-ai-transformation
+	https://www.bitsandbyte.net/solutions/professional-services
+	https://www.bitsandbyte.net/solutions/data-centre-cloud/cloud-infrastructure
+	https://www.bitsandbyte.net/solutions/data-centre-cloud/virtualization
+	https://www.bitsandbyte.net/solutions/data-centre-cloud/storage-backup
+	https://www.bitsandbyte.net/solutions/data-centre-cloud/database
+	https://www.bitsandbyte.net/solutions/digital-workplace/messaging-collaboration
 	https://www.bitsandbyte.net/solutions/cybersecurity/security-operations
 	https://www.bitsandbyte.net/solutions/cybersecurity/managed-cnapp
 	https://www.bitsandbyte.net/solutions/cybersecurity/managed-firewall
@@ -18,9 +22,30 @@
 	https://www.bitsandbyte.net/solutions/networking-connectivity/network-infrastructure
 	https://www.bitsandbyte.net/solutions/networking-connectivity/managed-network
 	https://www.bitsandbyte.net/solutions/managed-services/remote-infrastructure-support
-	https://www.bitsandbyte.net/solutions/managed-services/microsoft-365-azure
+	https://www.bitsandbyte.net/solutions/digital-workplace/microsoft-365-azure
 	https://www.bitsandbyte.net/solutions/managed-services/microsoft-server
-	https://www.bitsandbyte.net/solutions/managed-services/workstation-helpdesk
+	https://www.bitsandbyte.net/solutions/digital-workplace/workstation-helpdesk
+	https://www.bitsandbyte.net/solutions/networking-connectivity/enterprise-wireless
+	https://www.bitsandbyte.net/solutions/networking-connectivity/network-as-a-service
+	https://www.bitsandbyte.net/solutions/cybersecurity/sase-zero-trust
+	https://www.bitsandbyte.net/solutions/cybersecurity/security-integration
+	https://www.bitsandbyte.net/solutions/data-centre-cloud/data-centre-compute
+	https://www.bitsandbyte.net/solutions/digital-workplace/unified-communications
+	https://www.bitsandbyte.net/solutions/digital-workplace/meeting-rooms-av
+	https://www.bitsandbyte.net/solutions/smart-infrastructure/structured-cabling
+	https://www.bitsandbyte.net/solutions/smart-infrastructure/cctv-access-control
+	https://www.bitsandbyte.net/solutions/smart-infrastructure/power-environment
+	https://www.bitsandbyte.net/solutions/smart-infrastructure/iot-ot
+	https://www.bitsandbyte.net/solutions/managed-services/noc-monitoring
+	https://www.bitsandbyte.net/solutions/managed-services/it-service-management
+	https://www.bitsandbyte.net/solutions/cloud-ai-transformation/ai-infrastructure
+	https://www.bitsandbyte.net/solutions/cloud-ai-transformation/automation
+	https://www.bitsandbyte.net/solutions/cloud-ai-transformation/business-applications
+	https://www.bitsandbyte.net/solutions/cloud-ai-transformation/data-analytics
+	https://www.bitsandbyte.net/solutions/professional-services/consulting-design
+	https://www.bitsandbyte.net/solutions/professional-services/deployment-field-services
+	https://www.bitsandbyte.net/solutions/professional-services/amc-maintenance
+	https://www.bitsandbyte.net/solutions/professional-services/procurement
 	https://www.bitsandbyte.net/industries
 	https://www.bitsandbyte.net/industries/bfsi
 	https://www.bitsandbyte.net/industries/healthcare

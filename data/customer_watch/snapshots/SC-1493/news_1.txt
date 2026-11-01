@@ -1,4 +1,4 @@
-# SC-1493 duxbury.co.za · news_1 · https://www.duxbury.co.za/news/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-1493 duxbury.co.za · news_1 · https://www.duxbury.co.za/news/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 News – Duxbury Networking
 Have Any Questions?
 011 351 9800
@@ -160,80 +160,116 @@ July 29, 2026
 Duxbury Networking
 1 2 3 ... 15
 Category
-Blog
+Press Release
++
+Thought Leadership
 +
 Topics
 Choose an option
-access point
+Agriculture
 AI
-Audiovisual
+AP on a Stick
 Axis
+Backhaul
+Bandwidth
 Bestpractice
-Blog
+Broadband
 Business
 Cambium
+Campus Networking
 Cellular Connectivity
+Ceragon Networks
 Channel
 Cloud
 Cloud Control
 cnMaestro
-Compass XR
 Cybersecurity
+Cynet
+Dark Web Monitoring
 Data Centre
 Device Management
-Dux in a Row
 Duxbury
 Duxbury Cybersecurity
-Duxbury Networking
+Duxbury Services
 Duxbury Surveillance
 Duxbury Wireless
 DuxNet
 DuxNet Premium
+endpoint
 Enterprise Networking
 Extreme
+Farming
+FF Group
+Firewall
+Firewalls
 Hanwha
+healthcare sector
 Home
-hospitality
+HPE
+HPE Aruba Central
 HPE Aruba Networking
+HPE Juniper Networking
+HPE Mist
+HPE Networking Instant On
+ICASA
 ICT Skills
-Installers
+Indoor Wireless
 Integrated Surveillance Solutions
+IoT
+IP-50CX
+IP-50EX
 Ironlink
-MarketApps
-Marketing
+ISP
+logistics Sector
+Masterclass
 MDR
+Mesh WiFi
+Mikrotik
+Milesight
 Milestone
+Mining
 MSP
 Netgear
-NETGEAR AV
 Network Management
-Next Business Day
 Nextivity
+Northwest Towers
+Outdoor Wireless
 Passive Wireless Survey
-Pre-sales support
 Predictive Wireless Survey
-Resellers
+Rajant
 retail sector
+SAFR
 SASE
 SDWAN
+Secure Gateways
+Security
+Self-driving Networks
 Services
-SFP
 signal boosters
 SMB
 SME
+Solar
 Sophos
-SSE
 Surveillance
 Surveillance Camera
 switches
+Tachyon
 Technical
 Technical Services
 Technical Support
+unified security platform
 User Experience Monitoring
-wi-fi
+Velasea
+VMS
+VPN
+WAPA
+Watchguard
+WiFi6
 WiFi7
 Wireless
 WISP
+XDR
+Zero Trust
 ZTNA
 Subscribe Here to Receive
 Weekly Email Communication

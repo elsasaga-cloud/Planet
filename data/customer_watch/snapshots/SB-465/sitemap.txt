@@ -1,10 +1,10 @@
-# SB-465 Koza · sitemap · https://kozaguvenlik.com.tr/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-465 Koza · sitemap · https://kozaguvenlik.com.tr/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 2024-03-28T16:50:45+00:00	https://www.kozaguvenlik.com.tr/kodicom-kd-8543ie-30x-4-megapiksel-speed-dome-ip-kamera
 2023-09-05T12:01:05+00:00	https://www.kozaguvenlik.com.tr/xrplus-xr-510-ahd-2-megapiksel-ahd-dome-kamera
 2017-07-04T16:22:40+00:00	https://www.kozaguvenlik.com.tr/1-amper-adaptor
+2026-07-09T12:10:31+00:00	https://www.kozaguvenlik.com.tr/index.php?route=product/product&product_id=1071
 2026-07-08T13:51:48+00:00	https://www.kozaguvenlik.com.tr/index.php?route=product/product&product_id=1058
 2026-07-08T13:53:02+00:00	https://www.kozaguvenlik.com.tr/index.php?route=product/product&product_id=1059
-2026-07-09T12:10:31+00:00	https://www.kozaguvenlik.com.tr/index.php?route=product/product&product_id=1071
 2026-07-08T21:29:34+00:00	https://www.kozaguvenlik.com.tr/index.php?route=product/product&product_id=1067
 2017-07-25T14:24:29+00:00	https://www.kozaguvenlik.com.tr/bft-moovi-30-otopark-bariyer-sistemi
 2017-06-08T15:20:45+00:00	https://www.kozaguvenlik.com.tr/everday-ev-1120-kartli-ve-sifreli-kapi-acma-cihazi

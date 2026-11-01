@@ -1,4 +1,4 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home · https://www.getic.lv/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home · https://www.getic.lv/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Bezvadu Wi-Fi aprīkojums no Ubiquiti, Mikrotik | Getic
 lv EUR ar PVN 21% , Latvija
 Konts
@@ -12,61 +12,73 @@ Balts
 1 m
 noliktavā
 2.13 €
-USW-Pro-HD-24-PoE
-Ubiquiti UniFi Switch Pro HD 24 PoE
-noliktavā
-1146.92 €
 5.0
-USW-Pro-8-POE
-Ubiquiti UniFi Switch Pro 8 PoE
+UACC-DAC
+UniFi tiešā savienojuma kabelis
+100Gbps
+3 m
 noliktavā
-350.07 €
+60.54 €
+UVC-G6-Bullet
+Ubiquiti kamera G6 Bullet
+Balts
+jauns
+noliktavā
+230.80 €
+D53G-5HacD2HnD-TC&R11e-LTE7
+MikroTik Chateau LTE7
+EU
+noliktavā
+113.74 €
 4.9
 UCG-Fiber
 Ubiquiti UniFi Cloud Gateway Fiber
 noliktavā
-322.05 €
+320.84 €
+UA-G3-Flex
+Ubiquiti G3 Access Reader Flex
+Balts
+noliktavā
+202.90 €
+3.7
+RDS2216-2XG-4S+4XS-2XQ
+MikroTik ROSE Data Server RDS2216-2XG-4S+4XS-2XQ
+EU
+noliktavā
+1706.00 €
+Wave-MLO5
+Ubiquiti Wave MLO5
+jauns
+noliktavā
+417.50 €
+LtAP-2HnD&R11e-LTE7
+MikroTik LtAP LTE7 kit
+EU
+noliktavā
+152.65 €
+SF-S-RC10-GD
+Komutācijas skapis 10", stikla durvis
+Pelēks
+6U 300mm
+noliktavā
+52.93 €
+UACC-PoE++-10G
+Ubiquiti 10G PoE++ Adapter (60W)
+jauns
+noliktavā
+45.93 €
 USW-Pro-HD-24
 Ubiquiti UniFi Switch Pro HD 24
 noliktavā
-701.39 €
-5.0
-CS-H9c-R100-8G55WKFL
-EZVIZ Pan & Tilt kamera H9c 3K
-EU
-noliktavā
-98.11 €
-BCM-RJ45
-Broadbe SFP+ to RJ45 modulis
-10 Gbps
-noliktavā
-51.40 €
-UC-Cast
-Ubiquiti Display Cast
-EU
-jauns
-noliktavā
-218.33 €
-E62iUGS-2axD5axT
-MikroTik hAP ax S
-EU
-noliktavā
-75.37 €
-EC25-EU&KNe
-Mikrotik KNOT Embedded LTE4
-EU
-noliktavā
-75.37 €
-U7-Pro-XG-Wall
-Ubiquiti UniFi U7 Pro XG Wall
-noliktavā
-328.43 €
-CRS418-8P-8G-2S+5axQ2axQ-RM
-MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM
-noliktavā
-420.89 €
+698.75 €
 parādiet man vairāk
 Viss ar atlaidi, pasteidzies
+-18 %
+UISP-Console
+Ubiquiti UISP Console
+noliktavā
+330.09 €
+271.63 €
 -20 %
 UXG-Lite
 Ubiquiti Gateway Lite
@@ -75,12 +87,6 @@ jauns
 noliktavā
 135.34 €
 107.99 €
--18 %
-UISP-Console
-Ubiquiti UISP Console
-noliktavā
-330.09 €
-271.63 €
 -60 %
 4.9
 SAW30-240-1200GR2A
@@ -114,7 +120,7 @@ noliktavā
 UVC-AI-Dome-B
 Ubiquiti kamera AI Dome
 noliktavā
-458.25 €
+456.53 €
 369.81 €
 -23 %
 R11e-LR2

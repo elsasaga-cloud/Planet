@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-10-30T10:47:04+00:00	Webinar - Best practices voor een succesvolle Odoo-implementatie met een partner	https://www.youtube.com/watch?v=k-Xmhgl52B0
 2026-10-29T23:39:06+00:00	Unify Multi-Company Operations on One ERP	https://www.youtube.com/watch?v=7i7bkcUoNoc
 2026-10-29T17:39:02+00:00	Webinaire - Odoo 20 - Découvrez toutes les nouveautés dans les applications RH	https://www.youtube.com/watch?v=ZFeN5vit93g

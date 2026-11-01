@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · feed_auto · http://www.netiks.rs/feed/rss · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-397 netiks.rs · feed_auto · http://www.netiks.rs/feed/rss · fetched 2026-11-01T09:25:59Z · HTTP 200
 Fri, 08 Jan 2021 11:36:45 +0000	MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad na 60GHz + 5GHz do 2.4km	http://www.netiks.rs/nray
 Fri, 23 Dec 2022 11:33:07 +0000	TP-Link Omada cloud biznis mrežna rešenja	http://www.netiks.rs/tp-link-promocija
 Mon, 29 Aug 2022 08:24:27 +0000	Netiks ‘NT‘ transiver moduli SFP / SFP+ / XFP / SFP28 / QSFP+ Ethernet i GPON	http://www.netiks.rs/sfp-moduli

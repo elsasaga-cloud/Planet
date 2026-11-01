@@ -1,9 +1,9 @@
-# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · auto_sitemap · https://xspectechnology.com/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
-2026-10-31	https://xspectechnology.com/
-2026-10-31	https://xspectechnology.com/training
-2026-10-31	https://xspectechnology.com/news
-2026-10-31	https://xspectechnology.com/downloads
-2026-10-31	https://xspectechnology.com/contact
+# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · auto_sitemap · https://xspectechnology.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+2026-11-01	https://xspectechnology.com/
+2026-11-01	https://xspectechnology.com/training
+2026-11-01	https://xspectechnology.com/news
+2026-11-01	https://xspectechnology.com/downloads
+2026-11-01	https://xspectechnology.com/contact
 2026-02-13	https://xspectechnology.com/category/oil-gas-marine
 2026-02-04	https://xspectechnology.com/category/military-defence-security
 2026-02-13	https://xspectechnology.com/category/biotech-laboratory

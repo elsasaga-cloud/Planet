@@ -1,4 +1,4 @@
-# SB-105 cenova.com.tr · home · https://cenova.com.tr/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-105 cenova.com.tr · home · https://cenova.com.tr/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Cenova Bilişim Teknolojileri
 Yükleniyor..
 0 Teklif Listem
@@ -81,6 +81,12 @@ Batarya, Wifi, Solar Kameralar
 Akıllı Wi-Fi Kameralar
 En Yenileri Keşfedin
 En Yeni
+CN-DL122
+En Yeni
+CN-DL123
+En Yeni
+CN-DL121
+En Yeni
 WS-125
 En Yeni
 CN-50G
@@ -94,12 +100,6 @@ En Yeni
 CN-X7PRO
 En Yeni
 CN-X7
-En Yeni
-CN-X14
-En Yeni
-CN-8510G
-En Yeni
-CN-8419G
 Teknolojilerimiz
 Wisetech Mobil Uygulama
 Wisetech android ve ios uygulamaları
@@ -169,7 +169,7 @@ E-posta Adresi
 Cep Telefon Numarası (Doğrulama SMS'i gönderilecek)
 Adres
 Katılımcı Sayısı
-Lütfen TELEFON simgesini işaretleyiniz
+Lütfen MODEM simgesini işaretleyiniz
 İDS - İnsan Doğrulama Sistemi
 Talep Gönder
 SMS Doğrulama

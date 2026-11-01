@@ -1,4 +1,4 @@
-# SB-148 isrcorp.co.il · sitemap · https://isrtech.co.il/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-148 isrcorp.co.il · sitemap · https://isrtech.co.il/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 	https://isrtech.co.il/
 	https://isrtech.co.il/about-us
 	https://isrtech.co.il/products

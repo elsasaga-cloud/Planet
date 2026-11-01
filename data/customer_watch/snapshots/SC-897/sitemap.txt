@@ -1,10 +1,10 @@
-# SC-897 pixietech.uz · sitemap · https://pixietech.uz/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/switches
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/voip
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/fiber-cables
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/media-converters
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/sfp-modules
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/cabinets
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/ups
-2026-10-31T08:17:54.053Z	https://pixietech.uz/ru/catalog/pdu
+# SC-897 pixietech.uz · sitemap · https://pixietech.uz/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/switches
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/voip
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/fiber-cables
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/media-converters
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/sfp-modules
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/cabinets
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/ups
+2026-11-01T08:17:57.773Z	https://pixietech.uz/ru/catalog/pdu

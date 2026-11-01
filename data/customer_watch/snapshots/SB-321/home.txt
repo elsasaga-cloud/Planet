@@ -1,7 +1,7 @@
-# SB-321 BWsystems · home · https://bwsystems.de/ · fetched 2026-10-31T08:34:28Z · HTTP 503
+# SB-321 BWsystems · home · https://bwsystems.de/ · fetched 2026-11-01T09:25:59Z · HTTP 503
 The page is temporarily unavailable
 The page you are looking for is temporarily unavailable.
 Please try again later.
-39d9f37d3f1f7e2cac8300eee6e641ad
-bfbbd4c00eddf0143de8df9e887a6e5b
-148b4fbe3eaba97f371ffed7d6612dc9
+80b053ff7d5447c9a373386a77a833bf
+54277d3531870253a69b3b71543878b8
+04be9477f9ccd7904a9e67acb90ed168

@@ -1,4 +1,4 @@
-# SB-163 skeo.ru · sitemap · https://skeo.ru/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-163 skeo.ru · sitemap · https://skeo.ru/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 	https://skeo.ru/
 2021-02-12T14:22:38+00:00	https://skeo.ru/articles
 2020-05-12T14:07:22+00:00	https://skeo.ru/articles/10g-v-odnom-volokne

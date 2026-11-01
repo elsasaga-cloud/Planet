@@ -1,4 +1,4 @@
-# SA-008 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_sitemap · https://fiberone.de/sitemap.xml · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SA-008 NYNEX satellite OHG / fiberONE（达姆施塔特）—— GitHub 部分见 scripts/github_watch · auto_sitemap · https://fiberone.de/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
 	https://fiberone.de/
 	https://fiberone.de/bundesweit/
 	https://fiberone.de/tarife/

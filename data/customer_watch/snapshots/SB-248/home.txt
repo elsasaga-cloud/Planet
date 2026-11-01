@@ -1,4 +1,4 @@
-# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Nelly's Security | CCTV, Access Control, and Intrusion Alarms
 Skip to content
 855-340-9999 / 9AM - 5PM CST / Monday - Friday
@@ -464,6 +464,13 @@ Guard Series
 Guard Series 4MP NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens w/ Built-in Mic (E1T-4F28)
 Regular price
 $299.00
+UNV 4MP Easystar Weatherproof Bullet IP Security Camera with a 2.8mm Fixed Lens and a Built-In Mic (IPC2124SR-ADF28KM-H)
+Translation missing: en.products.product.sku: SKU# 3459
+Vendor:
+Uniview
+UNV 4MP Easystar Weatherproof Bullet IP Security Camera with a 2.8mm Fixed Lens and a Built-In Mic (IPC2124SR-ADF28KM-H)
+Regular price
+$399.00
 Guard Series 4MP Wise-ISP 24/7 Color Turret IP Security Camera with a 2.8mm Fixed Lens (O1T-4F28)
 Translation missing: en.products.product.sku: SKU# 3830NB
 Vendor:
@@ -478,13 +485,6 @@ $519.00
 Unit price
 /
 per
-UNV 4MP Easystar Weatherproof Bullet IP Security Camera with a 2.8mm Fixed Lens and a Built-In Mic (IPC2124SR-ADF28KM-H)
-Translation missing: en.products.product.sku: SKU# 3459
-Vendor:
-Uniview
-UNV 4MP Easystar Weatherproof Bullet IP Security Camera with a 2.8mm Fixed Lens and a Built-In Mic (IPC2124SR-ADF28KM-H)
-Regular price
-$399.00
 UNV 4MP Tri-Guard NDAA-Compliant Weatherproof Turret IP Security Camera 2.8mm Fixed Lens with Deep Learning AI, Active Deterrence, and 24/7 Color Illumination (IPC3614SB-ADF28KMC-I0)
 Translation missing: en.products.product.sku: SKU# 3452
 Vendor:

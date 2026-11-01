@@ -1,4 +1,4 @@
-# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Giải pháp công nghệ
 Search:
 Tìm kiếm
@@ -218,7 +218,7 @@ MICROBENDS SO VỚI MACROBENDS TRONG SỢI QUANG HỌC
 Suy hao do vi sóng gây ra là một hàm của đường kính trường chế độ, thiết kế cáp và cấu tạo cáp. Suy hao do suy hao do vi sóng gây ra luôn giảm theo đường kính trường chế độ.
 CHIRP TẦN SỐ TRONG MỘT XUNG QUANG HỌC LÀ GÌ?
 01/07/2022
-118
+119
 Tiếng kêu là một tín hiệu trong đó tần số tăng hoặc giảm theo thời gian. Hình ảnh này cho thấy một dạng sóng chirp tuyến tính; một sóng hình sin có tần số tăng tuyến tính theo thời gian
 CÁC THÔNG SỐ KIỂM TRA THIẾT BỊ SỢI QUANG
 01/07/2022

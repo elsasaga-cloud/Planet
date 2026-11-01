@@ -1,4 +1,4 @@
-# SC-382 securitywarehouse.co.za · home · https://securitywarehouse.co.za/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-382 securitywarehouse.co.za · home · https://securitywarehouse.co.za/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Security Equipment Suppliers South Africa | CCTV, Access Control & Alarms
 Skip to content
 Facebook-f
@@ -367,7 +367,7 @@ Your Security Partner, Every Step of the Way
 At Security Warehouse, you’re getting more than just security products. From expert solutions and hands-on training to technical support, convenient access to leading brands, and flexible finance options, we’re here
 Read more
 Weekly Mailer / WhatsApp
-Email
+Name
 This field is for validation purposes and should be left unchanged.
 Name & Surname (Required)
 Company (Required)
@@ -439,7 +439,7 @@ Copyright © 2021 Security & Communication Warehouse, All Rights Reserved | Priv
 Powered by
 Request the Security Warehouse Retail Price List
 Complete the form below and one of our representatives will email you the latest retail price list.
-X/Twitter
+Comments
 This field is for validation purposes and should be left unchanged.
 Full Name
 Company

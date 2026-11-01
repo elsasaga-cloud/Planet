@@ -1,4 +1,4 @@
-# SB-305 Bits&Byte CONSULTING PVT LTD · home · https://www.bitsandbyte.net/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-305 Bits&Byte CONSULTING PVT LTD · home · https://www.bitsandbyte.net/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 bits&BYTE | Infrastructure for what’s next
 Call 1800 569 0101 Email [email protected] WhatsApp (opens in a new tab) Book a meeting Book (opens the booking calendar in a new tab)
 Free Check your website, email and DNS security in one click, at no cost. Free security checks Try the tools →
@@ -27,14 +27,14 @@ Our Solutions
 One integrated infrastructure. Many possibilities.
 From the core to the cloud, we design, deploy and manage secure, scalable environments that keep your business moving.
 Explore All Solutions
-Cloud Flexible. Scalable. Future ready.
-Security Detect. Prevent. Stay ahead.
-Networking Connect. Simplify. Enable growth.
-Managed services Monitor. Optimize. Keep you running.
-01 Cloud & Infrastructure Scalable, high-performance environments.
-02 Cybersecurity Proactive protection across every layer.
-03 Networking & Connectivity Seamless, secure connections for distributed teams.
-04 Managed Services Continuous operations and expert support.
+Cloud & AI Flexible. Scalable. Future ready.
+Security & Network Detect. Connect. Stay ahead.
+Workplace & Smart Collaborate. Secure. Build smarter.
+Managed & Lifecycle Monitor. Maintain. Keep you running.
+01 Data Centre, Cloud & AI Data Centre & Cloud · Cloud, AI & Digital Transformation
+02 Security & Networking Cybersecurity & Digital Trust · Enterprise Networking & Connectivity
+03 Workplace & Smart Infrastructure Digital Workplace & Collaboration · Smart Infrastructure & Physical ICT
+04 Managed & Lifecycle Services Managed Services & Operations · Professional & Lifecycle Services
 Who we are
 Your business & our engineers, working as one team.
 We help enterprises across India, Singapore, the Middle East and Africa modernize, secure and scale their IT environments.
@@ -67,7 +67,7 @@ Offices
 Head office
 Bangalore, India
 Practice
-4 pillars · 16 services
+8 pillars · 37 services
 Vendor model
 Multi-vendor
 First call
@@ -152,10 +152,14 @@ Certified engineering and operations teams work on your environment directly.
 03 No hand-off
 The team that designs your environment stays with it into day-to-day running.
 04 Four disciplines
-Cloud & Infrastructure
-Cybersecurity
-Networking & Connectivity
-Managed Services
+Enterprise Networking & Connectivity
+Cybersecurity & Digital Trust
+Data Centre & Cloud
+Digital Workplace & Collaboration
+Smart Infrastructure & Physical ICT
+Managed Services & Operations
+Cloud, AI & Digital Transformation
+Professional & Lifecycle Services
 Want to work on infrastructure that matters?
 Careers at bits&BYTE
 Learn
@@ -167,7 +171,7 @@ Black October 0 1 Your website PHP2Shell Running Exploited Patch now
 0 3 Your code server GitLab Running Exposed Patch now
 0 4 Your AI tools LiteLLM Running Malware Rebuild
 17 Oct · PHP2Shell exploited before its fix 17 Oct · eMudhra CA keys found guessable 21 Oct · GitLab flaw rated 10.0 CVSS 21 Oct · Malware ships in LiteLLM 1.107.0 Fixes are out · now patch yours
-Cybersecurity
+Cybersecurity & Digital Trust
 Black October: what PHP2Shell, eMudhra and LiteLLM mean for Indian enterprises
 In one week, PHP’s core was exploited before its fix, an Indian certificate authority’s signing keys turned out to be guessable, and a popular AI tool shipped malware. Here is what happened, who is exposed and what to do this week.
 Read article 25 Oct 2026
@@ -176,13 +180,13 @@ Router
 Server + ±0 ms
 Cloud
 1 clock drifting · timeline out of order 4 / 4 clocks in sync · timeline in order
-Cybersecurity
+Cybersecurity & Digital Trust
 CERT-In’s 180-day logs and clock sync: what your network has to do
 Read article 18 Oct 2026
-Cybersecurity
+Cybersecurity & Digital Trust
 Ransomware recovery starts long before the attack
 Read article 28 Sept 2026
-Cloud & Infrastructure
+Data Centre & Cloud
 Your cloud bill is an architecture problem
 Read article 24 Sept 2026
 Featured white paper
@@ -205,10 +209,14 @@ Engineering-led cloud, security, networking and managed services.
 #52, 2nd Floor, Vittal Mallya Road,
 Bangalore 560001, India
 Solutions
-Cloud & Infrastructure
-Cybersecurity
-Networking & Connectivity
-Managed Services
+Enterprise Networking & Connectivity
+Cybersecurity & Digital Trust
+Data Centre & Cloud
+Digital Workplace & Collaboration
+Smart Infrastructure & Physical ICT
+Managed Services & Operations
+Cloud, AI & Digital Transformation
+Professional & Lifecycle Services
 Industries
 BFSI
 Healthcare

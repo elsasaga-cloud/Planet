@@ -1,4 +1,4 @@
-# SC-1033 Bausch Datacom · news_1 · https://www.bausch.eu/partners/news/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-1033 Bausch Datacom · news_1 · https://www.bausch.eu/partners/news/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Bausch Datacom - specialist in industrial data communication
 menu
 Home
@@ -94,61 +94,61 @@ Meet Bausch Datacom & Ritter Technologie at Enlit Europe 2026 in Vienna!
 Bausch Datacom and sister company Ritter Technologie, both members of the Ritter Group, are pleased to welcome you to our booth at Enlit Europe 2026.
 date_range 06-10-2026
 person Rik Verheyen
-visibility Views: 432
+visibility Views: 441
 Read more chevron_right
 A major cybersecurity milestone: DB RTU portfolio achieves TÜV certification!
 We are proud to announce an important milestone for Bausch Datacom, RiTTec and the Ritter Group: the DB RTU product portfolio has been certified by TÜV according to the IEC 62443 cybersecurity framework.
 date_range 15-09-2026
 person Rik Verheyen
-visibility Views: 1098
+visibility Views: 1101
 Read more chevron_right
 Minister of Social Integration of Belgium honors collaboration Bausch Datacom and Demival
 Cooperation between Demival and Bausch Datacom recognized as competitive and social!
 date_range 02-03-2026
 person Rik Verheyen
-visibility Views: 2108
+visibility Views: 2110
 Read more chevron_right
 Meet Bausch Datacom at KEY – The Energy Transition Expo 2026
 Bausch Datacom is pleased to welcome you from 4 to 6 March 2026 at the Rimini Expo Centre Booth C7 during the KEY Energy Transition Expo, the leading European event dedicated to the future of energy.
 date_range 10-02-2026
 person Rik Verheyen
-visibility Views: 2687
+visibility Views: 2689
 Read more chevron_right
 Bausch Datacom and social enterprise Demival strengthen their collaboration: exclusive production partnership confirmed!
 Important milestone for Bausch Datacom formalising a long-term, exclusive production partnership with Demival, reinforcing our commitment to European manufacturing, technological excellence and social entrepreneurship.
 date_range 26-01-2026
 person Rik Verheyen
-visibility Views: 2105
+visibility Views: 2108
 Read more chevron_right
 Bilbao, 18–20 November — ENLIT Fair Confirms Bausch Datacom’s Strong Advancement on the European Stage
 During the ENLIT fair, sister companies Bausch Datacom and Ritter Technology experienced firsthand how emerging energy trends are converging toward several key priorities.
 date_range 04-12-2025
 person Rik Verheyen
-visibility Views: 1357
+visibility Views: 1359
 Read more chevron_right
 DinBox GSM M4: Cost-Effective! - Pocket-Size! - 4G! IEC 60870-5-104 / Modbus RTU! - Router! - Modem!
 The DinBox GSM M4 is a versatile 4G communication device with routing, RTU and transparant IP communication. It is the ideal solution to integrate Modbus devices in a SCADA IEC 60870-5-104 environment.
 date_range 26-08-2024
 person Rik Verheyen
-visibility Views: 4048
+visibility Views: 4052
 Read more chevron_right
 Join us at Enlit Frankfurt
 Featuring DinBox Q7 RTU & DeMaS management tool for innovative Green Energy applications.Bausch Datacom will launch its new remote terminal units and management product line at the upcoming Enlit fair - 29th November to 1st December in Frankfurt - Booth 12.0.B30.
 date_range 14-10-2022
 person Rik Verheyen
-visibility Views: 3829
+visibility Views: 3830
 Read more chevron_right
 DinBox 4G Router
 Cost-effective professional & Industrial LTE Cat. 1 router. The DinBox 4G router is the standard device for all kind of Industrial routing applications. It offers both Ethernet and RS-485 interfacing and WAN LTE Cat. 1 GPRS communication. It is secured by VPN IPsec tunneling. Multiple Ethernet ...
 date_range 25-05-2022
 person Albert Bausch
-visibility Views: 5734
+visibility Views: 5737
 Read more chevron_right
 InduBox GSM M4 modem
 Release of new firmware: CSD data (GSM) added to the standard features!Although almost all worldwide datacommunication is TCP/IP based (5G, 4G, 3G, NB IoT...), many countries still offer circuit-switched datacommunication by the local providers. Therefore Bausch Datacom integrated the 'old'...
 date_range 01-02-2022
 person Albert Bausch
-visibility Views: 7248
+visibility Views: 7249
 Read more chevron_right
 chevron_left
 1

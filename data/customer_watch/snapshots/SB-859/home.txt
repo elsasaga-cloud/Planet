@@ -1,4 +1,4 @@
-# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Baburtech | Laptop Yedek Parça ve Bilgisayar Donanımı
 5000 TL ve üzeri siparişlerinizde kargo ücretsiz!
 ÜCRETSİZ TESLİMAT İMKANI
@@ -533,16 +533,16 @@ HUAWEI CPU FAN
 MONSTER CPU FAN
 SAMSUNG CPU FAN
 SONY VAİO CPU FAN
-KASA COVER
+Laptop Kasa ve Kapakları
 Geri Dön
-KASA COVER
-LENOVO
+Laptop Kasa ve Kapakları
+Lenovo Laptop Kasa ve Kapakları
 Geri Dön
-LENOVO
-Lenovo Alt Kasa (Bottom Case)
-Lenovo Ekran Ön Çerçeve (Bezel)
-Lenovo Klavye Kasa (Üst Kasa)
-Lenovo Ekran Arka Kasa (Lcd Cover)
+Lenovo Laptop Kasa ve Kapakları
+Lenovo Laptop Alt Kasa (Bottom Case)
+Lenovo Laptop Ekran Ön Çerçeve (Bezel)
+Lenovo Laptop Üst Kasa (Top Case)
+Lenovo Laptop Ekran Arka Kasa (LCD Cover)
 HP
 Geri Dön
 HP
@@ -658,8 +658,4 @@ Tablet Lcd İç Ekranları
 Tablet Şarj Soketleri
 Tablet Bataryaları
 Tablet Şarj Aletleri
-Tablet Kılıf Çantaları
-Tablet Anakartı
-Lenovo Tablet ve Dokunmatik Bilgisayar Kalemleri
-Tablet Kasa Kapakları
-Ta
+Tablet Kı

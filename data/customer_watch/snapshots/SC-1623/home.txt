@@ -1,4 +1,4 @@
-# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Home - Southern Elements
 Search
 All Categories
@@ -142,31 +142,46 @@ Hot
 Select options
 This product has multiple variants. The options may be chosen on the product page
 Quick View
-Fiber Adapters , Midcoupler Adapters
-Fiber Midcoupler Adapter – LC to LC APC Duplex
-R 6.47 – R 6.65 Price range: R6.47 through R6.65 inc VAT
+Fault Detection , Tools , Visual Fault Locators
+VFL Visual Fault Locator
+R 193.83 – R 7,701.55 Price range: R193.83 through R7,701.55 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Cleaning , Splicing , Splicing Consumables , Tools , Wipes
-Fiber Optic Kimwipes (280 Wipes)
-R 65.56 inc VAT
+Dead Ends , Mounting Hardware
+Dead End 3.8mm to 4.8mm
+R 23.62 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Enclosures , Enclosures , Man Holes
-Man Hole – Medium – (0.60 x 0.47 x 0.45m)
-R 1,702.62 inc VAT
+Enclosure Accessories , Enclosures
+Cable Gland – Cable 6-10mm – Hole 19mm
+R 4.63 inc VAT
 Buy now
 Hot
 Select options
 This product has multiple variants. The options may be chosen on the product page
 Quick View
-Cabinets , Enclosures , Enclosures
-Wall Mount Cabinet – Glass Door
-R 1,142.42 – R 1,347.66 Price range: R1,142.42 through R1,347.66 inc VAT
+1G , 1G , Multi Mode , SFP Transceivers , Single Mode
+SFP Module – 1310nm 1Gbps – LC – Single Mode & Multi Mode Compatible
+R 139.04 – R 321.84 Price range: R139.04 through R321.84 inc VAT
+Buy now
+Hot
+Select options
+This product has multiple variants. The options may be chosen on the product page
+Quick View
+Fiber Adapters , Midcoupler Adapters
+Fiber Midcoupler Adapter – LC to LC Single Mode UPC Duplex
+R 6.65 – R 6.92 Price range: R6.65 through R6.92 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Fault Detection , Power Meters , Tools
+Fiber Optic Power Meter – FT-OPW11N
+R 440.60 inc VAT
 Buy now
 Hot
 Add to basket
@@ -179,30 +194,30 @@ Hot
 Add to basket
 Quick View
 Fiber Patch Cables , Pigtails , Single Mode Pigtails
-Fiber Pigtail – SC APC Single Mode – 0.9mm 1.5m G657.A1
-R 9.50 inc VAT
-Buy now
-Hot
-Add to basket
-Quick View
-Splicing , Strippers, Slitters & Prep Tools , Tools
-Utility Knife
-R 231.30 inc VAT
-Buy now
-Hot
-Add to basket
-Quick View
-Fiber Patch Cables , Pigtails , Single Mode Pigtails
 Fiber Pigtail – LC APC Single Mode – 0.9mm 1.5m G657.A1
 R 9.53 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Active Equipment , Media Converters , Network
+Media Converter – 10/100/1000Base-T RJ45 to 1000Base-X SFP
+R 188.06 inc VAT
 Buy now
 Hot
 Select options
 This product has multiple variants. The options may be chosen on the product page
 Quick View
-Fault Detection , Tools , Visual Fault Locators
-VFL Visual Fault Locator
-R 193.83 – R 7,701.55 Price range: R193.83 through R7,701.55 inc VAT
+Cabinets , Enclosures , Enclosures
+Wall Mount Cabinet – Glass Door
+R 1,142.42 – R 1,347.66 Price range: R1,142.42 through R1,347.66 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Fault Detection , OTDRs , Tools
+OTDR – FT-MOT-8500 1310/1550nm – VFL, Power Meter, Light Source, Ethernet Tester, Multi Meter
+R 16,646.38 inc VAT
 Buy now
 Hot
 Add to basket
@@ -210,21 +225,6 @@ Quick View
 Din Rail , Enclosures , Enclosures
 Enclosure – Din Rail 8 Core
 R 210.62 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Enclosures , Enclosures , Joint Enclosures
-Fiber Joint Enclosure – 24 Core
-R 203.45 – R 281.83 Price range: R203.45 through R281.83 inc VAT
-Buy now
-Hot
-Add to basket
-Quick View
-Fiber Patch Cables , Pigtails , Single Mode Pigtails
-Fiber Pigtail – LC UPC Single Mode – 0.9mm 1.5m G657.A1
-R 10.17 inc VAT
 Buy now
 Bargain Bin
 Add to basket

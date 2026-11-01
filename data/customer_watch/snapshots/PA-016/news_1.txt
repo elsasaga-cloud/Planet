@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-10-31T08:34:28Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-01T09:25:59Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -717,36 +717,6 @@ Cena
 134,15 zł
 bez VAT
 Do koszyka
-Nowość
-Neat Board 32
-Producent neat.
-Cena
-18 999,00 zł
-Cena
-15 446,34 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-Neat Bar Pro + Neat Pad
-Producent neat.
-Cena
-31 999,00 zł
-Cena
-26 015,45 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-Neat Bar BYOD
-Producent neat.
-Cena
-3 299,00 zł
-Cena
-2 682,11 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
 Promocje
 Blog
 Kontakt
@@ -1024,4 +994,34 @@ finanse
 leasing
 yubico
 yubikey
-zabezpieczeni
+zabezpieczenia
+2FA
+Linki w stopce
+Pomoc
+Zwroty i reklamacje
+Testy urządzeń
+Regulamin KONFTEL
+Regulamin
+Słownik telekomunikacyjny
+Muzeum
+Outlet
+Pomoc
+Zwroty i reklamacje
+Testy urządzeń
+Regulamin KONFTEL
+Regulamin
+Słownik telekomunikacyjny
+Muzeum
+Outlet
+Moje konto
+Twoje zamówienia
+Newsletter
+Ustawienia konta
+Przechowalnia
+Moje konto
+Twoje zamówienia
+Newsletter
+Ustawienia konta
+Przechowalnia
+Płatności i dostawa
+Formy pł

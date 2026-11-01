@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 KBC Networks - KBC Networks - Home
 PRODUCTS
 NETWORK SWITCHES
@@ -128,12 +128,12 @@ WAN or LAN use
 Find out more
 Case studies and applications
 Application examples and Case studies where KBC solutions have made transmisison and power simple and reliable
+Navigating the IP Migration Challenge at Sea
+KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
+Read more
 Countrywide Rail Crossing
 Safety and Communication
 Indian Railways, one of the world’s largest rail networks,identified a pressing need to improve safety and communication at Level Crossing (LC) gates, particularly in remote areas
-Read more
-Navigating the IP Migration Challenge at Sea
-KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
 Read more
 Real-Time Traffic Control and
 Smart City Objectives
@@ -222,7 +222,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Email
+Message
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -483,7 +483,7 @@ Yemen
 Zambia
 Zimbabwe
 Submit
-First Name
+Message
 ×
 Select Country
 Afghanistan
@@ -716,4 +716,4 @@ Turks and Caicos Islands
 Tuvalu
 Uganda
 Ukraine
-United A
+United Ar

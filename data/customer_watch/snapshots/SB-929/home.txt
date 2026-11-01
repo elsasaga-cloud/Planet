@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -162,20 +162,15 @@ Sold Out
 판매가 : 435,600원
 LIKE IT ! 0
 Sold Out
-AD1048-24FS 산업용 전원공급장치 (SFC8000,SFC8000S,SFC8000G 전용)
-상품요약정보 : 산업용 DIN-RAIL 전원공급장치 (48W, 24V)
-판매가 : 71,500원
-LIKE IT ! 0
-Sold Out
 인네트워크 IN-LC-SC-DP-SM-1M 국산 LC-SC 싱글모드 광 점퍼코드 1M INO096
 상품요약정보 : OS1 / 2CORE / 노란색
 소비자가 : 8,400원
 판매가 : 6,700원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC300-POE (Power over Ethernet) 스위칭허브 V2
-상품요약정보 : SFP 2슬롯(100Mbps) + TP 4포트(10/100Mbps), Power over Ethernet(IEEE802.3af), -40~80℃,
-판매가 : 249,700원
+AD1048-24FS 산업용 전원공급장치 (SFC8000,SFC8000S,SFC8000G 전용)
+상품요약정보 : 산업용 DIN-RAIL 전원공급장치 (48W, 24V)
+판매가 : 71,500원
 LIKE IT ! 0
 Sold Out
 하이브로 전동드라이버 H500 단품 국산 전동 드라이버 비트세트포함
@@ -184,14 +179,20 @@ Sold Out
 판매가 : 50,000원
 LIKE IT ! 0
 Sold Out
+솔텍 SFC300-POE (Power over Ethernet) 스위칭허브 V2
+상품요약정보 : SFP 2슬롯(100Mbps) + TP 4포트(10/100Mbps), Power over Ethernet(IEEE802.3af), -40~80℃,
+판매가 : 249,700원
+LIKE IT ! 0
+Sold Out
+에스비 접시비트 ACDB-83 조절식 임팩용 비트 SB
+상품요약정보 : 에스비 접시비트 ACDB-83 조절식 임팩용 비트 SB
+소비자가 : 15,000원
+판매가 : 13,000원
+LIKE IT ! 0
+Sold Out
 SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
 상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
 판매가 : 222,200원
-LIKE IT ! 0
-Sold Out
-랜스타 HDMI 2.1 8K AOC 옥외용 릴 광케이블 50m LS-HD21R-50M
-상품요약정보 : HDMI2.1 AOC 옥외용 릴 케이블 / 최대 8K@60Hz 해상도 지원 / M25 방수캡 / HDCP2.3 / Plug&Play / 방향성 있음 / 50M
-판매가 : 270,000원
 FiberMart 특가
 더보기
 LIKE IT ! 0
@@ -508,4 +509,7 @@ SOLTECH 전 회원 10% 할인 EVENT
 상호 (주)솔텍네트웍스
 대표 이정원
 주소 07217 서울특별시 영등포구 당산로41길 11 (당산동4가), 당산SKV1center w동 15층 1507호
-통신판
+통신판매업신고번호 2018-서울영등포-1417
+사업자등록번호 813-88-00758
+[사업자정보확인]
+개인정보관리책

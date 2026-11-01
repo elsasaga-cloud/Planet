@@ -1,4 +1,4 @@
-# SB-624 ubwh.com.au · home · https://ubwh.com.au/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-624 ubwh.com.au · home · https://ubwh.com.au/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 UBWH Australia | Shop Ubiquiti Networks Products Online
 Toggle Navigation
 Home
@@ -26,33 +26,25 @@ Same Day Delivery (Perth) . If we have the stock in Perth, we can get it to you 
 Warehouse Stock. We check warehouse stock levels hourly. If we say it is in stock, it really is. All advertised stock is available for immediate dispatch from our warehouses. Once you place an order, stock is allocated to you.
 Welcome Guest! Would you like to log yourself in ? Or would you prefer to create an account ?
 Specials: When They're gone - They're Gone!
-8MP TiOC 2.0 CCTV PoE Camera
-$282.97 $254.67 inc-GST
-$257.24 $231.52 ex-GST
+Managed 24 GbE 24/48V(at/bt) Switch
+$654.36 $525.45 inc-GST
+$594.87 $477.68 ex-GST
+View Buy
+UniFi Direct Attach Copper Cable, 3m
+$45.01 $43.53 inc-GST
+$40.92 $39.57 ex-GST
 View Buy
 Australian Power Cord
 $4.56 $2.43 inc-GST
 $4.15 $2.21 ex-GST
 View Buy
-Console Cable
-$7.61 $4.57 inc-GST
-$6.92 $4.15 ex-GST
-View Buy
-Managed 24 GbE 24/48V(at/bt) Switch
-$654.36 $525.45 inc-GST
-$594.87 $477.68 ex-GST
+5MP TiOC PoE Bullet Camera
+$272.31 $245.08 inc-GST
+$247.56 $222.80 ex-GST
 View Buy
 5MP TiOC CCTV PoE Camera
 $234.43 $222.71 inc-GST
 $213.12 $202.46 ex-GST
-View Buy
-4 Channel NVR with PoE
-$191.25 $186.47 inc-GST
-$173.87 $169.52 ex-GST
-View Buy
-5MP TiOC PoE Bullet Camera
-$272.31 $245.08 inc-GST
-$247.56 $222.80 ex-GST
 View Buy
 More Specials...
 Manufacturers
@@ -141,8 +133,8 @@ RF Armor Mounts
 Shopping Cart
 0 items
 What's New?
-UVC G6 180 Camera Pendant Mount | White
-$60.17
+5-port Switch | Unmanaged | Gigabit
+$28.37
 We Accept
 Authorised Ubiquiti Return Centre
 Ubiquiti has authorised us as a Warranty Return Centre.

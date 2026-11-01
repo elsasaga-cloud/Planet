@@ -1,4 +1,4 @@
-# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
 Mon, 26 Oct 2026 18:06:45 +0000	Acelerex Selects Maple Systems Industrial PCs as Qualified Hardware for the REX™ Platform	https://maplesystems.com/acelerex-selects-maple-systems-industrial-pcs-for-rex-platform/
 Tue, 01 Sep 2026 20:52:39 +0000	Why Industrial Digital Signage Demands Purpose-Built Hardware	https://maplesystems.com/digital-signage-pc-reliability-features/
 Tue, 01 Sep 2026 20:52:17 +0000	Digital Signage in Manufacturing: From Information to Action	https://maplesystems.com/digital-signage-manufacturing-communication/

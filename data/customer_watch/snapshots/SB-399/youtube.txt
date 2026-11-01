@@ -1,4 +1,4 @@
-# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-11-01T09:25:59Z · HTTP 200
 2026-10-30T12:45:31+00:00	Deploy Security to Sites Fast - Uniview SMB Smart Box	https://www.youtube.com/shorts/71tu4Lgz-Cs
 2026-10-29T13:00:37+00:00	Search Security Footage with Prompts - SeekFree Uniview	https://www.youtube.com/shorts/reooHnbuajo
 2026-10-08T13:11:26+00:00	How to Share Uniview cameras through the UniEase mobile app #tutorial #shorts #securitytech #unv	https://www.youtube.com/shorts/4sj-C0uafQQ
