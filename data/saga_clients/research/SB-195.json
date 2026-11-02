@@ -2,7 +2,7 @@
  "code": "SB-195",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（bkgrupe.lt：HTTP 错误，2026-11-01，第 3 次）",
+ "website_status": "快照失败（bkgrupe.lt：HTTP 错误，2026-11-02，第 4 次）",
  "summary": "立陶宛 BK Grupė（bkgrupe.lt；表内「有 Utepo 的」；KP Andrius Daubaras；官网 http_error）；表内 4 次跟进无回复。",
  "type": "安防/网络集成商（立陶宛，Utepo 在用）",
  "size": "",
@@ -48,7 +48,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -152,12 +152,14 @@
   "consumed": [
    "2026-10-21T09:37:01Z",
    "2026-10-29T15:32:39Z",
-   "2026-11-01T09:55:05Z"
+   "2026-11-01T09:55:05Z",
+   "2026-11-02T10:15:34Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29",
-   "2026-11-01"
+   "2026-11-01",
+   "2026-11-02"
   ],
   "batch": "LT-T03"
  },

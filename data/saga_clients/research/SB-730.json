@@ -2,7 +2,7 @@
  "code": "SB-730",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（it2ss.com：HTTP 错误，2026-11-01，第 3 次）",
+ "website_status": "快照失败（it2ss.com：HTTP 错误，2026-11-02，第 4 次）",
  "summary": "美国 ITSS Inc（it2ss.com；表内「PoE 工业级交换机」；KP Jehad Alasad（CEO），电话美国 1 817 896 3203 / 中国 151 1888 7211；官网 http_error）；群发 18 次无回复。",
  "type": "IT 方案/贸易商（美国，有国内联系方式）",
  "size": "",
@@ -35,7 +35,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -141,12 +141,14 @@
   "consumed": [
    "2026-10-21T09:46:36Z",
    "2026-10-29T15:33:36Z",
-   "2026-11-01T09:55:47Z"
+   "2026-11-01T09:55:47Z",
+   "2026-11-02T10:16:16Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29",
-   "2026-11-01"
+   "2026-11-01",
+   "2026-11-02"
   ],
   "batch": "LT-T03"
  },

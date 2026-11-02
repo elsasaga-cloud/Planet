@@ -2,7 +2,7 @@
  "code": "SB-165",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（yminc.ca：超时（站慢或封锁），2026-11-01，第 3 次）",
+ "website_status": "快照失败（yminc.ca：超时（站慢或封锁），2026-11-02，第 4 次）",
  "summary": "加拿大 YM Inc（yminc.ca；2025 年阿里巴巴 RFQ「工业 PoE Extender」；KP Mario Elia；官网 timeout，业务范围待核）；表内未跟进。",
  "type": "网络/安防贸易商（加拿大，PoE 延长器 RFQ）",
  "size": "",
@@ -35,7 +35,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -129,12 +129,14 @@
   "consumed": [
    "2026-10-21T09:24:09Z",
    "2026-10-29T15:32:36Z",
-   "2026-11-01T09:55:04Z"
+   "2026-11-01T09:55:04Z",
+   "2026-11-02T10:15:34Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29",
-   "2026-11-01"
+   "2026-11-01",
+   "2026-11-02"
   ],
   "batch": "LT-T03"
  },
