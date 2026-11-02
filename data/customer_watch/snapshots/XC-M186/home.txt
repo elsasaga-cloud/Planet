@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-01T09:25:59Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-02T09:40:28Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -136,6 +136,7 @@ BANDIT
 Berica Cavi Cable
 Bosch Intrusion Alarm by Radionix
 Bysecur
+Cellhire
 Cooper Safety
 CSAG
 Dahua
@@ -303,6 +304,7 @@ Ajax
 Aten
 Axis Communications
 Bysecur
+Cellhire
 ComNet
 Dahua
 Davantis
@@ -438,6 +440,7 @@ Vivotek
 IT & Network
 Brands
 Aten
+Cellhire
 ComNet
 Dahua
 Dell
@@ -588,6 +591,7 @@ Hanwha
 Hikvision
 SIM IoT Services
 Ajax
+Cellhire
 Tele2 IoT
 Accesories
 2N
@@ -695,6 +699,7 @@ Akuvox
 ASSA ABLOY
 Axis Communications
 Bysecur
+Cellhire
 Dahua
 Eden Innovations
 elbaC - Alpha
@@ -830,6 +835,7 @@ Alpha
 AlphaCable Fire
 Bosch Fire
 Bysecur
+Cellhire
 Durán
 Eaton
 Fulleon

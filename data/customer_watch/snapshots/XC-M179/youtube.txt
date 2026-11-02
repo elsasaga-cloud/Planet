@@ -1,4 +1,4 @@
-# XC-M179 LC Automation Ltd · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCY83DodreUgnq_VXuSgCsIA · fetched 2026-11-01T09:25:59Z · HTTP 200
+# XC-M179 LC Automation Ltd · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCY83DodreUgnq_VXuSgCsIA · fetched 2026-11-02T09:40:28Z · HTTP 200
 2026-03-24T11:52:52+00:00	Build Better Machines - Technical Deep Dive Event with Mitsubishi Electric	https://www.youtube.com/watch?v=tQzPldB6dfE
 2026-03-03T08:57:05+00:00	Build Better Machines Exclusive Technical Deep Dive Event - 17th March	https://www.youtube.com/watch?v=UorituIhy5s
 2026-01-27T08:50:51+00:00	Two Motors, Three Wires, Zero Downtime - Innovative Retrofit Delivers Big Results	https://www.youtube.com/watch?v=OZFadmv0ZSc

@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -60,11 +60,11 @@ Stokta
 Yeni Geldi Ubiquiti Ubiquiti POE-24-12W 24VOLT 12WATT 10/100 PoE Adaptör
 Stokta · Yeni eklendi
 Ürünü İncele
-Öne Çıkan Marka Hikvision
-1.182 ürün
-Hikvision Ürünleri
-Son Haber İşlemci Üreticilerinde Zam Dalgası Kapıda
-30 Ekim 2026
+Öne Çıkan Marka Bory
+79 ürün
+Bory Ürünleri
+Son Haber NVIDIA JUPITER'da 104-Qubit Kuantum Simülasyonu
+2 Kasım 2026
 Haberi Oku
 22 +
 Yıllık Deneyim
@@ -105,16 +105,16 @@ Bu Haftanın Öne Çıkanları
 Bayilerimizin son 7 günde en çok incelediği ürünler. Stok ve fiyat için bayi panelinden detaylı görüntüleme yapabilirsiniz.
 Seagate
 2 TB Seagate 3.5 SkyHawk SATA 5900RPM 256MB 7/24 Guvenlik ST2000VX017 (3 Yıl Resmi Dist Garantili)
-Lenovo
-Lenovo NB // Thinkbook 16P 21R0001KTX ULTRA9 275HX 32GB 1TB SSD 8GB RTX 5060 16 DOS
 Leaderhub
 Leaderhub AD8 32GB 1TB SSD RYZEN7 H255 Wi-Fi Bt W11 Pro Mini PC
+Lenovo
+Lenovo NB // Thinkbook 16P 21R0001KTX ULTRA9 275HX 32GB 1TB SSD 8GB RTX 5060 16 DOS
 Hikvision
 Hikvision DS-2CD1041G2-LIUF 4MP 2.8MM 20 Metre Smart Hybrid Light İnsan Algilama Dahili Mikrofon Bullet IP Kamera
+Tiwox
+Tiwox TP-7610 18.5" I7 10.NESİL(10710) 128GB NWME SSD 8GB DDR4 RAM 1366X768 Dokunmatik POS PC
 Dell
 Dell NB Pro 14 Ultra 5 235U 16GB 512SSD DOS BTO113_PC14250_U (3 Yıl Yerinde Garanti)
-Ruijie
-Ruijie Reyee RG-EST100-E 2.4GHZ 300MBPS 500 Metre Ptp 70 Derece Dış Ortam 2 Li Set Access Point(Adaptörlü)
 2021 – 2026 Ödülleri
 Markalar Büyümeyi Ödüllendiriyor
 2021 'den bu yana 12 markadan 28 ödül. Tedarik gücümüzün üçüncü taraf onayı.
@@ -197,6 +197,10 @@ Güncel
 Haberler ve Duyurular
 Ödüller, etkinlikler ve sektörden güncel haberler.
 Tüm Haberler
+Yapay Zekâ
+2 Kasım 2026
+NVIDIA JUPITER'da 104-Qubit Kuantum Simülasyonu
+NVIDIA, JUPITER süper bilgisayarında 8.192 GH200 GPU kullanarak 104-qubit'lik hataya dayanıklı kuantum işlemci simülasyonu gerçekleştirdi.
 Sektör Haberi
 30 Ekim 2026
 İşlemci Üreticilerinde Zam Dalgası Kapıda
@@ -205,10 +209,6 @@ Sektör Haberi
 30 Ekim 2026
 RTX 5080 Stokları Eriyor, GPU Fiyatları Tırmanışta
 RTX 5090 üretiminin durmasıyla RTX 5080 stokları hızla tükeniyor, GPU fiyatları bir ayda belirgin şekilde yükseldi.
-İnceleme
-30 Ekim 2026
-Lenovo ThinkPad P1 Gen 9: Panther Lake ile güç arttı
-ThinkPad P1 Gen 9, Intel Panther Lake işlemci ve RTX PRO 2000 ekran kartıyla mobil workstation segmentinde öne çıkıyor.
 5.000+ Bayinin Arasına Katılın
 Bayi başvurunuzu üç adımda tamamlayın — 48 saat içinde geri dönüş.
 Bayi Başvurusu Bayilik Evrakları

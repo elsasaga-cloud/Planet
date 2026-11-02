@@ -1,2 +1,14 @@
-# SB-589 bydemes.com · sitemap · https://bydemes.com/sitemap_index.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
-
+# SB-589 bydemes.com · sitemap · https://bydemes.com/sitemap_index.xml · fetched 2026-11-02T09:40:28Z · HTTP 502
+The page is temporarily unavailable
+nginx error!
+The page you are looking for is temporarily unavailable. Please try again later.
+Website Administrator
+Something has triggered an error on your
+website. This is the default error page for
+nginx that is distributed with
+Fedora. It is located
+/usr/share/nginx/html/50x.html
+You should customize this error page for your own
+site or edit the error_page directive in
+the nginx configuration file
+/etc/nginx/nginx.conf .

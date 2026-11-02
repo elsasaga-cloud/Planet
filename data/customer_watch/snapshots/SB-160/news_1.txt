@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -189,7 +189,7 @@ American Wire Gauge or AWG is the US standard measure for the diameter of cable 
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
 / September 13, 2021
-Views: 1,917
+Views: 1,918
 The process of terminating twisted pair cable may seem simple on the surface, however, issues involving unproperly terminated solutions can arise, specially within today’s High-Performance LANs. With so many ways
 Read More
 A GUIDE TO LAN CABLE
@@ -204,7 +204,7 @@ With fibre optic installations becoming increasingly more popular, the managemen
 Read More
 BANDWIDTH IN CABLES
 / August 23, 2021
-Views: 580
+Views: 581
 Bandwidth in cables refers to the range of frequencies used to transfer information through data cables. The broader the bandwidth, the more data can be carried respectively. The bandwidth in
 Read More
 CABLE ATTENUATION EXPLAINED
@@ -219,7 +219,7 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,193
+Views: 15,198
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
@@ -229,7 +229,7 @@ When ordering a cable you may be tempted to consider whether or not to have it b
 Read More
 CABLE BENDING RADIUS- SHOULD I BE CONCERNED?
 / July 19, 2021
-Views: 1,989
+Views: 1,990
 You’ll often see ‘bending radius’ on our cable product datasheets and wonder what we’re referring too. The cable bending radius is a measurement of the smallest diameter a cable can
 Read More
 FIBRE OPTIC CABLE TYPES- SINGLEMODE VS MULTIMODE

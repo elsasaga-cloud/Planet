@@ -1,4 +1,4 @@
-# SB-068 ict-integrators.com · home · https://ict-integrators.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-068 ict-integrators.com · home · https://ict-integrators.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 ICT Integrators | Your Digital Transformation Partner
 MENU
 CLOSE
@@ -172,36 +172,52 @@ Security
 DR/Backup on AWS
 Managed AWS Operations
 AWS Cost and Performance Management
-Where high performance and timely actions are critical at the source of data creation, our Edge Computing Solutions enable our clients to deliver more secure workloads across connected-enterprises and Industry applications. It also allows them to keep data and processing localized at enterprise prem...
+We offer an array of managed IT services to support organizations for day to day operations with their business goals, our focus is to act as a one-stop resource for all the managed services needs of enterprises.
+Following are the services we offer:
+Managed Desk Side Support...
 More
-Edge Computing
+Managed IT Helpdesk
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Edge Computing
-Where high performance and timely actions are critical at the source of data creation, our Edge Computing Solutions enable our clients to deliver more secure workloads across connected-enterprises and Industry applications. It also allows them to keep data and processing localized at enterprise premises.
-ICT Integrators being partner of Cisco and IBM is committed to reduce network latency, increase network bandwidth and delivering significantly faster response times, our range of advanced platforms support real-time AI, 5G and IoT applications, our experts plot edge computing solutions that could remotely manage the application running on edge devices, servers and gateways.
-We also offer full range of deployment flexibility to manage, move and secure such workloads.
-We feel proud to introduce ourselves as the well-known solution and service provider of Industrial grade networking. We distribute industrial grade networking products, offer technical support and provide IT Services related to that.
-ICT Integrators is a sole distributor of ORing (Taiwa...
+Managed IT Helpdesk
+We offer an array of managed IT services to support organizations for day to day operations with their business goals, our focus is to act as a one-stop resource for all the managed services needs of enterprises.
+Following are the services we offer:
+Managed Desk Side Support
+Managed Security
+Managed Cloud
+Managed SD-WAN
+Managed SD-Access
+Managed Wireless Network
+ICT Integrators offers these managed IT services as a Third-Party organization with a network operations center to proactively monitor customer systems, resolve issues and perform work with adequate level of expertise and efficiency.
+The world of networking is undergoing a major shift over the past few years, not only they are expanding but micro services and containers in application stack have put new challenges to IT operations across enterprises to build a faster and leaner network stack. Greater visibility into end-to-end n...
 More
-Industrial Grade Networking
+Automation & Programability
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Industrial Grade Networking
-We feel proud to introduce ourselves as the well-known solution and service provider of Industrial grade networking. We distribute industrial grade networking products, offer technical support and provide IT Services related to that.
-ICT Integrators is a sole distributor of ORing (Taiwan Brand) in Pakistan, who are specialized in developing innovative own-branded products for industrial settings. ORing have vast range of product line including industrial-grade ethernet switches, metro ethernet switches, industrial media converters, industrial wireless access points, industrial VPN Routers etc.
-ORing's products have been widely adopted in surveillance, rail transport, industrial automation, power substations, renewable energy, and marine industries. Their products are designed to work in harsh environments with extreme temperature, humidity, and vibration.
-We have dedicated Pre and Post Sales team for designing and deploying ORing product based industrial grade networking solutions for our customers. Our major telecom customers are using huge quantity of ORing industrial grade switches and media converters for their project deployments all over Pakistan.
-Organizations need insight to effectively control their network and practices. ICT Integrators can perform network and security audits to raise the level of awareness and data security in your organizations.
-We can provide holistic view by auditing the current health of an organization&rsquo...
+Automation & Programability
+The world of networking is undergoing a major shift over the past few years, not only they are expanding but micro services and containers in application stack have put new challenges to IT operations across enterprises to build a faster and leaner network stack. Greater visibility into end-to-end network flow and granular control is another big requirement. It means that organizations need to keep up with the agility of ever-changing application landscape.
+We at ICT Integrators have skill set of automating various areas of IT landscape through programming such as:
+- Inventory - To be able to understand what is actually there?
+- Configuration Drift and Audit - To be able to detecct if there are any changes from the baseline or compliance/security checklist?
+- OS Upgrades - Simplified & intelligent management of updates for both network and systems!
+- Provisioning & Policy Automation - Creating, Approving and Implementing a policy/configuration change through the IT landscape!
+- Workloads - Automating day to day tasks by using pre-build wizards/scripts.
+With vast knowledge of multi-vendor API capabilities & functions, we use tested state of the art TOOLKIT such as:
+- GiT
+- Ansible, Puppet, Jenkins
+- Python
+- YANG, NETCONF, JSON, REST, XML, YAML, Jinja
+- Stackstorm
+May it be SME, Large Scale Enterprises or Service Providers, ICT Integrator's tailor made hardware/software vendor agnostic automation recipes can alleviate the burden of daily networking tasks—bandwidth allocation, traffic routing and security policy configuration, and anomaly detection thus saving time, eliminating human error, and enabling troubleshooting and remediation in real time.
+We provide solutions that seamlessly integrate business communication methods, such as calls, messages, video conference, data sharing, desktop sharing ensuring everything is synchronized and running together.
+ICT Integrators has experience to design and deploy Unified Collaboration solutions tha...
 More
-Audit & Assessment Services
+Unified Collaboration
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Audit & Assessment Services
-Organizations need insight to effectively control their network and practices. ICT Integrators can perform network and security audits to raise the level of awareness and data security in your organizations.
-We can provide holistic view by auditing the current health of an organization’s network security, access controls, design, current availability, and performance.
-An organization can be unaware of devices in their network, causing many of these devices to go unmanaged. Over time these devices can become redundant or worse, out-of-date in both performance and essential security updates. These weaknesses, if not addressed, can result in an organization being unprotected in terms of data and network se
+Unified Collaboration
+We provide solutions that seamlessly integrate business communication methods, such as calls, messages, video conference, data sharing, desktop sharing ensuring everything is synchronized and running together.
+ICT Integrators has experience to design and deploy Unified Collaboration solutions that include cloud calling, call control, collaboration management, communication gateways, telephone 

@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-02T09:40:28Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,10 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 51 içerik).
+Sektörden güncel haberler ve analizler ( 52 içerik).
+Yapay Zekâ NVIDIA JUPITER'da 104-Qubit Kuantum Simülasyonu
+NVIDIA, JUPITER süper bilgisayarında 8.192 GH200 GPU kullanarak 104-qubit'lik hataya dayanıklı kuantum işlemci simülasyonu gerçekleştirdi.
+02 Kasım 2026
 Sektör Haberi İşlemci Üreticilerinde Zam Dalgası Kapıda
 TSMC üretim maliyetlerini artırırken Intel işlemcilerine zam geldi. Yapay zeka talebi tüm sektörü etkiliyor.
 30 Ekim 2026
@@ -139,9 +142,6 @@ Acer, Intel Arc G3 işlemcili ilk el konsolu Predator Atlas 8'i tanıttı. Ekim'
 Ürün Lansmanı Intel Arc G3: El Konsollarına Özel Yeni Çip
 Intel, Computex 2026'da el konsollarına özel tasarlanan Arc G3 ve Arc G3 Extreme işlemcilerini duyurdu. Panther Lake tabanlı yeni çipler Ekim'de geliyor.
 17 Haziran 2026
-Ürün Lansmanı Colorful'dan 30. Yıla Özel RTX 5090D v2 Arcanix
-Colorful, Computex'te 30. yıl temasıyla tasarlanan iGame GeForce RTX 5090D v2 Arcanix modelini tanıttı. Beyaz-altın renk şemasıyla dikkat çeken kart, dört fanlı dev soğutucu ile geliyor.
-16 Haziran 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal

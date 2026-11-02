@@ -1,14 +1,14 @@
-# SB-933 airlive.com · sitemap · https://www.airlive.com/en/auto_sitemap.php · fetched 2026-11-01T09:25:59Z · HTTP 200
-2026-11-01	https://www.airlive.com/en/index.php
-2026-11-01	https://www.airlive.com/en/about.php
-2026-11-01	https://www.airlive.com/en/trademark.php
-2026-11-01	https://www.airlive.com/en/iso.php
-2026-11-01	https://www.airlive.com/en/rma.php
-2026-11-01	https://www.airlive.com/en/privacy.php
-2026-11-01	https://www.airlive.com/en/sitemap.php
-2026-11-01	https://www.airlive.com/en/product
-2026-11-01	https://www.airlive.com/en/solution.php
-2026-11-01	https://www.airlive.com/en/banner.php
+# SB-933 airlive.com · sitemap · https://www.airlive.com/en/auto_sitemap.php · fetched 2026-11-02T09:40:28Z · HTTP 200
+2026-11-02	https://www.airlive.com/en/index.php
+2026-11-02	https://www.airlive.com/en/about.php
+2026-11-02	https://www.airlive.com/en/trademark.php
+2026-11-02	https://www.airlive.com/en/iso.php
+2026-11-02	https://www.airlive.com/en/rma.php
+2026-11-02	https://www.airlive.com/en/privacy.php
+2026-11-02	https://www.airlive.com/en/sitemap.php
+2026-11-02	https://www.airlive.com/en/product
+2026-11-02	https://www.airlive.com/en/solution.php
+2026-11-02	https://www.airlive.com/en/banner.php
 2024-12-18	https://www.airlive.com/en/product/sr/SMB
 2021-02-24	https://www.airlive.com/en/product/sr/SMB/Others---topology-top-introduce
 2023-05-11	https://www.airlive.com/en/product/sr/SMB/AirCloud-and-Wireless
@@ -63,9 +63,9 @@
 2022-03-28	https://www.airlive.com/en/product/PJ-1001-30W:-Gigabit-POE-Injector
 2026-01-23	https://www.airlive.com/en/product/POE-GSH2404M-400-Managed-400W-Gigabit-PoE+-switch
 2022-03-28	https://www.airlive.com/en/product/AirMax4GW
-2026-09-16	https://www.airlive.com/en/product/AI-WPOE-2TX801-150:-AirCore-9-Port-WEB-Smart-and-AI-Management-2.5GE-PoE+-Switch,-including-1*10G-SFP+
-2026-09-15	https://www.airlive.com/en/product/AI-L3-10XGF8:-AirCore-8-Port-10G-SFP+-Fiber-L3-and-AI-Management-Switch
-2026-09-11	https://www.airlive.com/en/product/AI-L3POE-10TX800-150:-AirCore-8-Port-L3-and-AI-Management-10GE-PoE+-Switch-
+2026-11-02	https://www.airlive.com/en/product/AI-WPOE-2TX801-150:-AirCore-9-Port-WEB-Smart-and-AI-Management-2.5GE-PoE+-Switch,-including-1*10G-SFP+
+2026-11-02	https://www.airlive.com/en/product/AI-L3-10XGF8:-AirCore-8-Port-10G-SFP+-Fiber-L3-and-AI-Management-Switch
+2026-11-02	https://www.airlive.com/en/product/AI-L3POE-10TX800-150:-AirCore-8-Port-L3-and-AI-Management-10GE-PoE+-Switch-
 2026-09-18	https://www.airlive.com/en/product/XGSPON-OLT-1XGS:--1-Port-10G-XGSPON-OLT-with-10G-SFP+
 2026-09-18	https://www.airlive.com/en/product/AirCam-EYDL-630XAI-RBMS
 2026-07-09	https://www.airlive.com/en/product/ANVR8-AI
@@ -94,8 +94,8 @@
 2024-01-25	https://www.airlive.com/en/product/W6-184QAX:-Wi-Fi-6-1800Mbps-Easy-MESH-&-VPN-Dual-Bands-Gigabit-Router
 2026-07-13	https://www.airlive.com/en/product/ONU-10XGS-AX304-2.5G:-1-Port-10G-XGS-PON-Wi-Fi-AX3000-ONU
 2026-09-15	https://www.airlive.com/en/product/Live-10TX8T-DC:-8-port-10Gbps-Base-T-Multi-Gigabit-Switch
-2026-09-15	https://www.airlive.com/en/product/AI-L3-10TX800:-AirCore-8-Port-10GE-L3-and-AI-Management-Switch
-2026-09-15	https://www.airlive.com/en/product/AI-L3POE-2TX2406-850-BT:-AirCore-30-Port-L3-and-AI-Management-2.5GE-PoE++-Switch,-including-6*10G-SFP+
+2026-11-02	https://www.airlive.com/en/product/AI-L3-10TX800:-AirCore-8-Port-10GE-L3-and-AI-Management-Switch
+2026-11-02	https://www.airlive.com/en/product/AI-L3POE-2TX2406-850-BT:-AirCore-30-Port-L3-and-AI-Management-2.5GE-PoE++-Switch,-including-6*10G-SFP+
 2026-07-09	https://www.airlive.com/en/product/ANVR16-2S-AI
 2026-09-18	https://www.airlive.com/en/product/AirCam-EYDL-640MXAI-2713
 2025-12-30	https://www.airlive.com/en/product/XPON-2.5GE-ONU-InWall
@@ -120,8 +120,8 @@
 2020-07-28	https://www.airlive.com/en/product/IE-840POE
 2026-10-27	https://www.airlive.com/en/product/AirCam-EYDL-840MXAI-2713
 2026-09-15	https://www.airlive.com/en/product/Live-10TX5T-DC: 5-port 10Gbps Base-T Multi Gigabit Switch
-2026-09-15	https://www.airlive.com/en/product/AI-L3-10TX8T-DC:-AirCore-8-Port-10GE-L3-and-AI-Management-Switch
-2026-09-15	https://www.airlive.com/en/product/AI-L3POE-2TX1606-420-BT:-AirCore-22-Port-L3-ad-AI-Management-2.5GE-PoE++-Switch,-including-6*10G-SFP+
+2026-11-02	https://www.airlive.com/en/product/AI-L3-10TX8T-DC:-AirCore-8-Port-10GE-L3-and-AI-Management-Switch
+2026-11-02	https://www.airlive.com/en/product/AI-L3POE-2TX1606-420-BT:-AirCore-22-Port-L3-ad-AI-Management-2.5GE-PoE++-Switch,-including-6*10G-SFP+
 2025-12-31	https://www.airlive.com/en/product/WLAN-64GM-v2:-Enterprise-Wireless-Controller-&-Gateway
 2026-04-09	https://www.airlive.com/en/product/AirCloud-TOP-110BE-2.5G-6GHz:-Wi-Fi-7-BE11000-Multi-Giga-PoE-Access-Point
 2026-07-14	https://www.airlive.com/en/product/ANVR32-2S-AI

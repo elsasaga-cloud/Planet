@@ -1,4 +1,4 @@
-# SC-1793 axisindia.in · home · https://axisindia.in/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-1793 axisindia.in · home · https://axisindia.in/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Axis Solutions | Analytical, Automation & Engineering Solutions
 About Us
 Brand Story
@@ -140,6 +140,9 @@ Blog
 Calculator Library
 Podcasts
 Axis Chronicles
+31.10.2026
+Axis Chronicles
+October 2026 Edition | PEOPLE. PRINCIPLES. PROGRESS.
 14.10.2026
 News & Media
 From connected plants to intelligent industry: India’s next digital transformation
@@ -224,9 +227,6 @@ Launching AXIS TALKS — Episode 1 now live - How Sample Conditioning Affects Ga
 20.11.2025
 Whitepaper
 Closed Loop Sample Handling System (CLSS): Engineering Safety, Precision, and Efficiency in Process Gas Sampling
-24.10.2025
-Axis Chronicles
-Axis Chronicles – September
 18.09.2025
 Case Studies
 GAS FLOW METER - DigitalFlow™ XGM868i
@@ -323,5 +323,4 @@ Sales Head
 Signature Technology
 Managing Partner
 "Seeing the Axis facility firsthand confirmed why they’ve led the market for 26 years. The precision and scale of their manufacturing are equal to any global standard."
-STER-IoT Dubai
-VP- Business Devel
+STER-IoT

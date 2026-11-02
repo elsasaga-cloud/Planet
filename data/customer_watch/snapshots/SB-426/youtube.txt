@@ -1,4 +1,4 @@
-# SB-426 helmholz.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD13AjgtNmJdLSQaD19qYjg · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-426 helmholz.de · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCD13AjgtNmJdLSQaD19qYjg · fetched 2026-11-02T09:40:28Z · HTTP 200
 2026-09-28T08:50:28+00:00	Cabinet Guard: Condition Monitoring einfach gemacht | aaa Chemnitz 2026	https://www.youtube.com/watch?v=8FMKeeR0-ms
 2026-05-13T12:13:18+00:00	Webinar: Cabinet Guard – Condition Monitoring im Handtaschenformat	https://www.youtube.com/watch?v=MDWhGLOemJg
 2026-05-13T11:31:56+00:00	Webinar: Cabinet Guard - Pocket-sized condition monitoring	https://www.youtube.com/watch?v=V-BLA-GZgwI

@@ -1,4 +1,4 @@
-# SB-655 digisol.com · news_2 · https://www.digisol.com/resources/case-study/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-655 digisol.com · news_2 · https://www.digisol.com/resources/case-study/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Case Study - Digisol
 Company
 About Us
@@ -27,7 +27,9 @@ SWITCHING SOLUTIONS
 Industrial Switch
 Multigig Switches
 Fully Managed
+DG-GS2600E Series
 DG-GS2600X Series
+DG-GS2900SE Series
 Lite/Smart Managed
 Unmanaged
 Chassis Switches
@@ -101,7 +103,9 @@ SWITCHING SOLUTIONS
 Industrial Switch
 Multigig Switches
 Fully Managed
+DG-GS2600E Series
 DG-GS2600X Series
+DG-GS2900SE Series
 Lite/Smart Managed
 Unmanaged
 Chassis Switches

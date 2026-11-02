@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · home · https://www.xlrsecurity.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-409 xlrsecurity.com · home · https://www.xlrsecurity.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 XLR Security | We sell security cameras & networking equipment.
 Skip to main content
 Skip to footer
@@ -18,9 +18,9 @@ Power & PoE
 Petenet PoE Switches 12V Power Supplies PoE Extenders PoE Splitters Injectors
 New arrivals
 Shop All
-Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
+Seagate HDD-SG-SKY4TB – 4TB SkyHawk Surveillance HDD
 Login for Pricing
-Uniview NVR504-32E-IM – 32ch AI NVR, 4-Bay
+Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
 Login for Pricing
 New Arrivals Clearance
 Become a Dealer
@@ -88,6 +88,9 @@ Uniview's latest OwlView Plus series is a step above the standard OwlView camera
 May 7, 2025
 Latest Products
 Hard Drives
+HDD-SG-SKY4TB
+Login for Pricing
+Hard Drives
 HDD-TOS-S3008TB
 Login for Pricing
 Uniview NVR
@@ -119,9 +122,6 @@ IPC3524SR-ADF28KM-WP-BK
 Login for Pricing
 IP Cameras
 IPC2B14SE-ADZKMC-WP-I1
-Login for Pricing
-IP Cameras
-IPC3234SB-ADZKM-DL-I1
 Login for Pricing
 Security Cameras & Video Recorders
 IP Cameras

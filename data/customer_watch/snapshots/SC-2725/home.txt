@@ -1,4 +1,4 @@
-# SC-2725 todotelecom.com · home · https://www.todotelecom.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-2725 todotelecom.com · home · https://www.todotelecom.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Material de Telecomunicaciones: CCTV, WiFi, Redes... | Todo Telecom
 965 784 463
 Envío gratuito*
@@ -285,7 +285,6 @@ IVA no incl
 13,11 € IVA inc
 Motores
 PERSIANAS
-Novedad
 IDEMO
 Motor persiana tubular Idemo STAR 45 - 45 mm, finales de carrera mecánicos, 230 V, IP44
 44,00 €
@@ -850,4 +849,5 @@ IPTV
 PAISES
 BELGICA
 FRANCIA
-HO
+HOLANDA
+IN

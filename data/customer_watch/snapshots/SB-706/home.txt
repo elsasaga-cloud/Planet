@@ -1,10 +1,10 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
 MOXA 0
 Industrial Network Infrastructure 0
-Industrial Ethernet Switches 772
+Industrial Ethernet Switches 764
 Unmanaged Ethernet Switches 0
 EDS-2000-ML Series 12
 EDS-2000/G2000-EL/ELP Series 16
@@ -56,37 +56,22 @@ IKS-6728A Series 22
 MDS-G4000 Series 24
 PT-G7000 Series 8
 PWR (Power Modules) Series 0
-RKS/RM-G4000 Series 39
+RKS-G4000 Series / RM-G4000 Modules 39
 SDS-3000/G3000 Series 20
 TN-4000/G4000 Series 35
 TN-5000 Series 52
 TN-G6500 Series 0
 EN 50155 Ethernet Switches 88
 TN-4000 Series 0
-TN-4500A Series 24
-TN-4500B Series 7
 TN-5000 Series 59
 TN-5308 Series 16
 TN-G4500 Series 0
 TN-G6500 Series 0
 Rackmount Ethernet Switches 228
 ICS-G7000A Series 26
-ICS-G7526A Series 5
-ICS-G7528A Series 4
-ICS-G7748A Series 1
-ICS-G7750A Series 1
-ICS-G7752A Series 1
-ICS-G7826A Series 4
-ICS-G7828A Series 4
-ICS-G7848A Series 1
-ICS-G7850A Series 1
-ICS-G7852A Series 1
 IKS-6700A Series 0
 IKS-G6000A Series 12
 IM Module Series 0
-IM-6700A Series 12
-IM-G7000A Series 3
-LM-7000H Series 6
 MDS-G4000 Series 0
 MRX-G4000 Series 0
 MRX-Q4000 Series 0
@@ -98,15 +83,13 @@ PT-7728 Series 30
 PT-7828 Series 1
 PT-G7000 Series 0
 PT-G7509 Series 1
-RKS-G4028 Series 24
 RKS/RM-G4000 Series 0
-RM-G4000 Series 15
 XM-4000 Module Series 5
 Ethernet Embedded Modules 8
 Two-wire Ethernet Switches (SPE/APL) 0
 TWS-3010-APL Series 1
 TWS-3010-SPE Series 1
-Industrial Secure Routers 50
+Industrial Secure Routers 51
 Wireless AP/Bridge/Client 88
 WLAN AP/Bridge/Client 48
 AWK-1130 Series 12
@@ -540,4 +523,16 @@ Buffer Module 3
 Redundancy Modules and Power Supplies 0
 Diode Redundancy Module 5
 MOSFET Redundancy Module 8
-Power Suppl
+Power Supply with Integrated Decoupling Function 9
+Protection Modules 9
+Mechanical Parts 0
+Side Mounting Bracket 5
+Wall / Panel Mount Bracket 6
+Product Families 0
+DIMENSION 0
+Q-Series 0
+DC/DC Converter 3
+DIN-rail Power Supplies for 1-phase Systems 22
+DIN-Rail Power Supplies for 3-phase Systems 9
+DeviceNet Power Supply 2
+C-Ser

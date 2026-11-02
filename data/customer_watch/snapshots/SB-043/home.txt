@@ -1,5 +1,5 @@
-# SB-043 Euro Technology · home · https://www.netontechnologies.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
-IT Solutions Dubai UAE | Wildix & Sangoma Partner | NETON Technologies LLC
+# SB-043 Euro Technology · home · https://www.netontechnologies.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+IT Solutions & Phone Systems Dubai | NETON
 Home
 About Us
 What We Do
@@ -23,10 +23,9 @@ We
 plan, build & maintain effective
 IT-Solutions that advance your business
 ASK FOR A QUOTE More About Us
-IT Solutions & Business Phone Systems in Dubai, UAE
-NETON Technologies LLC is a Dubai IT solutions and business phone system company, established in 2009, with offices in Business Bay, Dubai and London. We are an authorised Wildix and Sangoma partner, a Certified Odoo Partner, a Microsoft CSP partner and a Dinstar reseller. Our services cover IT infrastructure, business phone systems and VoIP, structured cabling, cloud computing, security systems, audio and video, Odoo ERP and AI telephony.
-NETON Technologies LLC is now a Certified Odoo Partner — we implement, integrate & install Odoo ERP, uniquely connected to our own AI & automation solutions.
+NETON Technologies LLC is a Certified Odoo Partner : we implement, integrate and install Odoo ERP, connected to our own AI and automation solutions.
 Learn More →
+NETON Technologies LLC is a Dubai IT and telecoms provider offering IT infrastructure, business phone systems ( Wildix , x-bees , Sangoma and Microsoft Teams calling ), Odoo ERP, cloud, security systems and structured cabling. Established in 2009, we are based in Business Bay, Dubai, with an office in London.
 IT INFRASTRUCTURE
 STRUCTURED CABLING
 TELECOMMUNICATIONS
@@ -43,13 +42,6 @@ Serving Hundreds of clients.
 Great service and reliable support at an affordable price.
 Quality and confidentiality.
 More About Our Company
-Specialist Services
-Microsoft Teams Direct Routing
-Session Border Controllers (SBC)
-Ribbon SBC
-anynode Software SBC
-AI Telephony
-Odoo ERP
 Lets meet and talk!
 Call us at +971 4 439 5754
 Ask for Quote
@@ -73,12 +65,38 @@ NETON has a practice dedicated to the design, integration, installation and supp
 ASK FOR A QUOTE More About Audio Video
 We Work on Products
 Latest Articles
+Practical guides on business phone systems, Teams and IT in the UAE
+Contact Centre
 Contact Centre vs Call Centre: What the Terms Actually Mean
+A call centre handles phone calls; a contact centre handles every channel. What the terms mean, how CCaaS fits, and what UAE…
+30 Oct 2026 · 6 min read
+Read more →
+Telephony
 Cloud PBX vs On-Premise PBX: Which Fits a UAE Business
-What a Session Border Controller Does, in Plain Terms
+Cloud PBX or on-premise in the UAE? Compare cost model, resilience, data location and SIP trunks, and see which option fits which…
+30 Oct 2026 · 6 min read
+Read more →
+Telephony
 What a SIP Trunk Is, and How You Buy One in the UAE
+A SIP trunk carries business calls over IP, not copper lines. In the UAE it comes from e& or du against a trade licence. What…
+24 Oct 2026 · 7 min read
+Read more →
+SBC
+What a Session Border Controller Does, in Plain Terms
+A session border controller is the checkpoint between your phone system and the outside network. What an SBC does, when you need…
+24 Oct 2026 · 7 min read
+Read more →
+Backup
 Why UAE Small Businesses Lose Data on Old NAS Drives
+How UAE small businesses lose data on ageing NAS drives through failure, corruption and ransomware, and the backup strategy that…
+4 Oct 2026 · 9 min read
+Read more →
+Microsoft Teams
 Teams Phone, Calling Plans and Direct Routing in the UAE
+Microsoft gives Teams four ways to reach the phone network. Two cannot be bought in the UAE. Which options apply here, and what…
+29 Sep 2026 · 6 min read
+Read more →
+View all articles →
 Our Clients Since 2009
 We are happy to have been associated with Neton for 12 years, NETON is always been point of contact for all our IT Infrastructure. They are always been part of our growth Story.....
 Habil Mullaji, Chairman, Ramadi Group

@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -465,13 +465,13 @@ Kurzy
 Přihlaste se
 Zaregistrujte se
 Pomoc
-Signal Pro
-Multiswitche Signal Pro
-nová řada multiswitchů
-Dozvědět se více
 Signal Fire Welding Machines
 Signal Fire Welding Machines – which model is right for you?
 Which model is right for you?
+Dozvědět se více
+Signal Pro
+Multiswitche Signal Pro
+nová řada multiswitchů
 Dozvědět se více
 Doporučené produkty
 Nové produkty Novinky
@@ -612,8 +612,8 @@ Předchozí nejnižší cena: 10932,35 Kč
 8583,25 Kč bez DPH
 Zobrazit všechny
 V posledním zpravodaji
-Terénní testy technologie 6G. Komunikace v pásmu 7 GHz ověřena mimo laboratoř.
-Společnosti Ericsson a Verizon oznámily provedení jednoho z prvních terénních testů komunikace využívající technologii 6G v pásmu 7 GHz na světě. Testování proběhlo v kalifornském Concordě, v areálu fungující základnové stanice amerického operátora. V rámci tohoto projektu se poprvé podařilo navázat spojení s využitím předstandardizovaného systému 6G v reálném venkovním prostředí, což představuje významný krok směrem k vývoji budoucích mobilních sítí....
+Internet věcí bez omezení dosahu.
+21. října 2026 Evropská kosmická agentura (ESA) popsala výsledky testů, při nichž byla využita satelitní síť IoT společnosti Lacuna Space k monitorování mimo jiné kvality vody, vlhkosti půdy a spotřeby vody. Řešení je založeno na technologii LoRaWAN, známé z pozemních systémů komunikace senzorů. Rozdíl spočívá v tom, že přijímačem signálu může být satelit, nikoli rádiová brána instalovaná na budově nebo stožáru. Jedná se o příklad využití stávajících standardů přenosu pro komunikaci se zařízení...
 Pokračovat ve čtení
-Kaskádové zapojení modulátorů DVB-T Signal.
-Modulátory Signal-420 R86700 umožňují distribuci digitálního signálu HD v koaxiálním kabelu, jehož zdrojem mohou být mimo jiné zařízení jako: multimediální přehrávače, DVR rekordéry, Blu-ray přehrávače, stolní počítače,
+Jednoduchá instalace v rodinném domě.
+V rodinném domě byla provedena instalace satelitní televize založená na satelitní anténě o průměru 90 cm a multiswitchi TERRA MR-508 R70608. Použití konvertoru typu Quatro a multiswitche vybaveného 5 vstupy a 8 výstupy umožňuj

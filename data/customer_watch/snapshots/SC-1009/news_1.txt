@@ -1,4 +1,4 @@
-# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-02T09:40:28Z · HTTP 200
 Blog | Varel Alarm
 Kurumsal expand_more
 Hakkımızda
@@ -144,6 +144,10 @@ Devamını Oku arrow_forward
 News
 Sunucu Çöktüğünde Kapılarınız Ne Yapar? Geçiş Kontrolünde Otonom Panel Mimarisi
 Geçiş kontrol sisteminiz sunucu veya ağ bağlantısını kaybettiğinde kapılar çalışmaya devam ediyor mu? CardAccess panellerinin otonom çalışma mimarisini ve doğru proje kurgusunu anlatıyoruz.
+Devamını Oku arrow_forward
+News
+Büyük Tesislerde Geçiş Kontrolünün Merkezi: Siemens SiPass AC5102
+Siemens SiPass integrated AC5102 merkezi kontrolör, 96 kapıya kadar ve 500.000 kart sahibini tek noktadan yönetir. Hangi projelere uygun, sisteme nasıl yerleşir?
 Devamını Oku arrow_forward
 A member of
 VAG Group

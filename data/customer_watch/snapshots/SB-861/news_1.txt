@@ -1,4 +1,4 @@
-# SB-861 bimel.com.tr · news_1 · http://www.bimel.com.tr/tr/haberler · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-861 bimel.com.tr · news_1 · http://www.bimel.com.tr/tr/haberler · fetched 2026-11-02T09:40:28Z · HTTP 200
 bimel :: Haber
 Döviz Kurları USD -- - EUR --
 Bayi Girişi
@@ -52,7 +52,6 @@ Soru ve Öneriler
 Sürücüler (Driver)
 Projeler
 Markalar
-Geçersiz haber.
 Haber:
 Hepsi
 Kategoriler:

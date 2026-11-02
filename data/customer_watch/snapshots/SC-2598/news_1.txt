@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Blogs
 Products
 DW Ai
@@ -44,8 +44,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Recorders
 Metapix AI
 Blackjack Ai Servers and Appliances
@@ -62,8 +60,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Network Devices
 Blackjack® Workstations
 Compressor™ Encoders
@@ -82,8 +78,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Software
 myDW
 DW® IP Finder
@@ -101,8 +95,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Mobile Apps
 DW Spectrum® Mobile
 DW Mobile Plus™
@@ -118,8 +110,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Star-Light Plus™ Cameras
 Star-Light Plus™ Ball Turrets Cameras
 Star-Light™ Bullet Cameras
@@ -135,8 +125,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Recorders
 VMAX® A1 G4™ DVRs
 Product Calculator
@@ -149,8 +137,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Network Devices
 Compressor™ Encoders
 DW® Spot™ Monitoring Stations
@@ -164,8 +150,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Software
 C3™ CMS
 View All
@@ -179,8 +163,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Mobile Apps
 DW Mobile Plus™ App
 DW SiteViewer™ Apple TV
@@ -195,8 +177,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Product Calculator
 Determine the necessary bandwidth and storage you need to operate our products.
 Accessories
@@ -207,8 +187,6 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
-New Products
-Check out the latest products now available.
 Solutions
 Company
 Meet
@@ -411,4 +389,10 @@ Posted by: Mark Espenschied in Technology, Thought Leadership, Vertical Markets
 10/07/2026
 How Can Places of Worship Stay Welcoming and Improve Video Security?
 Thoughtful coverage, privacy and trained responders help places of worship plan video around their community.
-A place of worship may be a gathering space, a classroom
+A place of worship may be a gathering space, a classroom, a food pantry and a neighborhood meeting point—all in the same week. Video planning should reflect that variety. The us [...]
+Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
+10/05/2026
+What Should Critical Infrastructure Operators Expect from Video Security?
+Plan critical-site video around useful coverage, clear response responsibilities and ongoing system checks.
+A clear image is useful. A clear plan for acting on it is essential. At a water facility, electrical substation or communications site, video should help the right people understand [...]
+Posted by: Mark Espenschied in Educa

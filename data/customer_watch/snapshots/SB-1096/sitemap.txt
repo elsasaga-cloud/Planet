@@ -1,4 +1,4 @@
-# SB-1096 westpennwire.com · sitemap · https://westpennwire.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1096 westpennwire.com · sitemap · https://westpennwire.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 2018-10-02T18:44:04+00:00	http://westpennwire.com/
 2018-09-16T18:51:40+00:00	http://westpennwire.com/pdf/Belden%20West%20Penn%20Wire%20Website%20Privacy%20Notice%20-051718.pdf
 2018-10-02T18:44:04+00:00	http://westpennwire.com/index.php

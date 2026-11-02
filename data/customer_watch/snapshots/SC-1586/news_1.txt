@@ -1,4 +1,4 @@
-# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Giải pháp công nghệ
 Search:
 Tìm kiếm
@@ -198,7 +198,7 @@ Dải bước sóng sợi quang
 Nói chung, sợi quang thủy tinh dựa trên Silica có thể truyền bước sóng 250nm đến 2000nm. Nhưng truyền dẫn quang khoảng cách xa bị giới hạn trong các dải bước sóng cụ thể do suy hao hấp thụ và tán xạ.
 Fibre Loopbacks là gì?
 01/07/2022
-115
+116
 Cáp loopback sợi và các phích cắm loopback sợi được gọi là sợi quang. Họ có thể cung cấp một phương tiện đơn giản và hiệu quả để kiểm tra khả năng của thiết bị mạng quang của bạn. Thường được sử dụng cho các ứng dụng kiểm tra cáp quang hoặc phục hồi mạng. Đối với các ứng dụng thử nghiệm, tín hiệu lặp lại được sử dụng để chẩn đoán sự cố. Gửi thử nghiệm lặp lại tới thiết bị mạng, mỗi lần một, là một kỹ thuật để cô lập các sự cố.
 Tại sao chọn cáp quang cho cáp mạng?
 01/07/2022

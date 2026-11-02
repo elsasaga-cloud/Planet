@@ -1,4 +1,4 @@
-# SB-247 jpg.lt · home · https://jpg.lt/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-247 jpg.lt · home · https://jpg.lt/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt
 Vaizdo stebėjimas
 Vaizdo stebėjimo sistemos
@@ -87,7 +87,7 @@ GNSS juosta: L1
 IP klasė: IP54
 Išmatavimai: 79 x 43 x 12 mm
 Maitinimas: Vidinis 170 mAh Back-up , Išorinis 10-30 VDC
-Paskirtis: Automobiliams , Motociklams
+Paskirtis: Motociklams , Automobiliams
 Tinklas: 4G
 Tipas: Profesionalus
 Į krepšelį

@@ -1,4 +1,4 @@
-# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 ICO Innovative Computer GmbH- Server, Storage, Industrie-PC, Panel PCs, Embeddedsysteme, Barcodescanner, Kassensysteme, PC-Systeme
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -255,6 +255,9 @@ Wincomm
 Winmate
 Zebra
 News
+Datalogic Magellan 900i: Schnelle Barcodeerfassung auf Papier und Display
+Kompakter Präsentationsscanner für Kassen, Self Checkout Systeme und Kiosks unterstützt GS1 Digital Link, OCR und flexible Installationsarten. Produktetiketten, digitale Coupons, Kundenkarten...
+Mehr
 Kompakter Embedded-PC für den Einbau auf engem Raum
 ICO bietet lüfterlosen Industrierechner mit Intel Atom x7433RE und zwei 2,5-Gigabit-LAN-Anschlüssen. Mit dem PicoSYS 2511 bietet die ICO Innovative Computer GmbH einen Embedded-PC, der bei 133 ×...
 Mehr
@@ -263,9 +266,6 @@ Medical Tablet für mobile Dokumentation und Barcodeerfassung
 Mehr
 KI-Server online konfigurieren: GPU-Systeme nach Maß
 Ob KI-Rackserver für zentrale Anwendungen, eine Workstation am Arbeitsplatz oder ein kompakter Mini-PC: ICO liefert Hardware für unterschiedliche KI-Projekte. Während sich Rackserver und...
-Mehr
-Self-Scanning im Handel: Zebra PS30 Personal Shopper bei ICO
-Mobiler Computer für digitale Einkaufsprozesse, Self-Scanning und personalisierte Services direkt auf der Verkaufsfläche. Self-Scanning gehört in vielen Handelskonzepten längst zum festen...
 Mehr
 Verpassen Sie nichts mehr!
 Abonnieren Sie unseren Newsletter und seien Sie immer informiert über neue Produkte und tolle Angebote. Unser Newsletter ist natürlich kostenlos und jederzeit kündbar.

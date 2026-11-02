@@ -1,4 +1,4 @@
-# SB-710 ktinet.com.tw · feed_auto · https://www.ktinet.com.tw/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-710 ktinet.com.tw · feed_auto · https://www.ktinet.com.tw/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Tue, 13 Jan 2026 14:17:35 +0000	KSC-200 benefits & application	https://www.ktinet.com.tw/ksc-200-benefits-application-2/
 Tue, 13 Jan 2026 14:17:35 +0000	KSD-541 benefits & application	https://www.ktinet.com.tw/ksd-541-benefits-application-2/
 Tue, 13 Jan 2026 14:17:35 +0000	KSD-103 benefits & application	https://www.ktinet.com.tw/ksd-103-benefits-application-2/

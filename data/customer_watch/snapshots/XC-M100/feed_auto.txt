@@ -1,4 +1,6 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-01T09:25:59Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-02T09:40:28Z · HTTP 200
+02.11.2026 10:38:33	Fluke ii1050 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050/fluke-ii1050-akustisk-kamera-med-leakq-pdq-mode-og-mecq
+02.11.2026 09:47:09	Fluke ii1030 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1030/fluke-ii1030-akustisk-kamera-med-leakq
 29.10.2026 14:37:16	Hawke Reducer (M) 3 NPT (FM) 2 NPT SS	https://www.adeptor.no/hawke-international/476-slash-r-3n-2nss/hawke-reducer-m-3-npt-fm-2-npt-ss-exde-hawke-reducer-476
 27.10.2026 12:29:01	Hirschmann BOBCAT 8xFE, 6xTX,2xSC	https://www.adeptor.no/hirschmann/brs20-0600m2m2-10/hirschmann-bobcat-8xfe-6xtx-2xsc-brs20-0600m2m2-stczu9hhsesxxxxx
 21.10.2026 13:37:19	Bobcat Rail switch 4xSFP, 8xRJ45	https://www.adeptor.no/hirschmann/942%7e170-010/bobcat-rail-switch-4xsfp-8xrj45-brs50-00122q2q-stcy99hhsesxxxxx
@@ -90,5 +92,4 @@
 01.09.2026 10:23:27	PicoScope 5463E Full Kit	https://www.adeptor.no/pico-technology-ltd/pq396/picoscope-5463e-full-kit-100-mhz-4-channels
 01.09.2026 10:23:27	PicoScope 5462E MSO Full Kit	https://www.adeptor.no/pico-technology-ltd/pq394/picoscope-5462e-mso-full-kit-60-mhz-4-channels-plus-16-digital
 01.09.2026 10:04:49	PicoScope 5462E Full Kit	https://www.adeptor.no/pico-technology-ltd/pq392/picoscope-5462e-full-kit-60-mhz-bandwidth-4-channels
-01.09.2026 10:04:48	PicoScope® 5000E FlexRes® Oscilloscopes	https://www.adeptor.no/pico-technology-ltd/picoscope5000e%7eserie/picoscope-5000e-flexres-oscilloscopes-60-100-200-350-500-mhz-4-channels
-31.08.2026 14:48:42	Hawke Adaptor (M) M75 - (FM) M75 Nick.Pl	https://www.adeptor.no/hawke-
+01.09.2026 10:0

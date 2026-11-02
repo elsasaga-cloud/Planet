@@ -1,5 +1,5 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · sitemap · https://www.getic.lv/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
-2026-11-01T07:37:49+02:00	https://www.getic.lv
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · sitemap · https://www.getic.lv/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+2026-11-02T07:37:43+02:00	https://www.getic.lv
 2025-11-04T15:35:05+02:00	https://www.getic.lv/payment
 2025-11-04T15:35:05+02:00	https://www.getic.lv/delivery
 2025-11-04T15:35:05+02:00	https://www.getic.lv/warranty

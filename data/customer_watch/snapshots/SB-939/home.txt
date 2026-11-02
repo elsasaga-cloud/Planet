@@ -1,4 +1,4 @@
-# SB-939 cleverkey.ru · home · https://www.cleverkey.ru/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-939 cleverkey.ru · home · https://www.cleverkey.ru/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Серверное оборудование от Клеверкей Ру - продажа серверов, СХД, сетевого оборудования и комплектующих HPE, Dell, Fujitsu, Cisco, NetApp, Lenovo в Москве
 Главная Напишите нам Карта сайта
 Расширенный поиск Вход Регистрация
@@ -107,15 +107,15 @@ Brocade
 Emulex
 Mellanox
 Finisar
-HPE ProLiant DL380 Gen12
-Цена по запросу
-Dell R670
+Lenovo SR650 V4
 Цена по запросу
 Lenovo SR630 V4
 Цена по запросу
-HPE ProLiant DL360 Gen12
+Dell R770
 Цена по запросу
-Lenovo SR650 V4
+HPE ProLiant DL380 Gen12
+Цена по запросу
+HPE ProLiant DL360 Gen12
 Цена по запросу
 OceanStor Dorado 3000 V6
 Цена по запросу

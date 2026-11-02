@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -137,7 +137,7 @@ KONFIGURATOR
 Konfigurator zestawów monitoringu Oferta w 5 min Skomponuj zestaw dostosowany do Twoich potrzeb. Zyskasz darmowe wsparcie techniczne i atrakcyjny rabat na całe zamówienie.
 OK
 WYPRZEDAŻ (26)
-NOWOŚCI (14)
+NOWOŚCI (13)
 PROMOCJE
 Informacje
 Oprogramowanie
@@ -171,32 +171,34 @@ Do koszyka
 BCS-P-TIP74VSR5-ITC-0832(2) BCS Point kamera tubowa IP 4Mpx IR ...
 Do koszyka
 5 951,00 zł
-BCS-L-DIP14FSR3L3-Ai1 BCS Line kamera IP 4Mpx NightColor AI IR ...
+BCS-L-SIP4425SR15-AI2(3) BCS Line kamera PTZ IP 4Mpx SkyLight ...
 Do koszyka
-1 511,00 zł
+6 456,00 zł
 pokaż więcej
-BCS-UPS/IP8/E-S System zasilania buforowego PoE do 9 kamer i ...
+BCS-P-NVR1601-4K(3) BCS Point rejestrator 16 kanałowy IP 8mpx...
 Do koszyka
-1 567,00 zł
-BCS-P-TIP24FSR4-AI2-G BCS Point kamera tubowa IP 4Mpx IR 40M ...
-Zobacz warianty
+1 044,00 zł
+BCS-L-EIP16FCR3L3 BCS Line kamera kopułowa IP NightColor 6Mpx ...
+Do koszyka
+921,00 zł
 BCS-P-TIP25FSR4-AI2-G BCS Point kamera tubowa IP 5Mpx IR 40M ...
 Zobacz warianty
 BCS-MON7400W-S BCS Line wideomonitor głośnomówiący 7"
 Do koszyka
 1 519,00 zł
-BCS-B-SP2402G-1SFP BCS Basic switch PoE 24 portowy
+BCS-IP8/E-S System zasilania do 9 kamer IP ze switchem PoE w ...
 Do koszyka
-1 130,00 zł
+1 199,00 zł
+BCS-L-EIP16FCR3L3-AI kamera kopułowa IP 6Mpx NightColor mikrofon ...
+Do koszyka
+1 014,00 zł
+BCS-L-TIP14FCR3L3-AI1 BCS Line kamera tubowa IP NightColor 4Mpx ...
+1 511,00 zł
+Do koszyka
+599,00 zł
 BCS-PAN1320B-S BCS Line Jednorodzinny panel zewnętrzny TCP IP ...
 Do koszyka
 1 100,00 zł
-BCS-L-TIP35FSR8-AI2 BCS Line kamera IP 5Mpx IR 80m WDR
-Do koszyka
-1 868,00 zł
-BCS-P-NVR0401-4K(3) BCS Point rejestrator 4 kanałowy IP 8mpx
-Do koszyka
-822,00 zł
 BCS-B-EIP12FR3-AI(2.0) kamera kopułowa IP 2Mpx mikrofon SMD BCS ...
 146,00 zł
 Do koszyka
@@ -209,12 +211,12 @@ BCS-P-TIP14FSR5-AI BCS Point kamera tubowa IP z mikrofonem 4Mpx ...
 547,00 zł
 Do koszyka
 275,00 zł
+BCS-P-TIP25FSR4L4-Ai2(2) BCS Point kamera tubowa IP 5Mpx IR 40M ...
+Zobacz warianty
 BCS-P-EIP14FSR3L3-AI(2) BCS Point kamera kopułowa IP 4Mpx LED ...
 547,00 zł
 Do koszyka
 265,00 zł
-BCS-P-TIP25FSR4L4-Ai2(2) BCS Point kamera tubowa IP 5Mpx IR 40M ...
-Zobacz warianty
 BCS-B-EIP14FSR3(2.0) kamera kopułowa IP 4Mpx mikrofon SMD BCS ...
 207,00 zł
 Do koszyka

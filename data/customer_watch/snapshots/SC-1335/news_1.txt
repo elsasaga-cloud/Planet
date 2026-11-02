@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-02T09:40:28Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -266,7 +266,7 @@ infocode: avail
 queu:
 shipmin: 30.12.2077
 Ordered, unknown date
-Product description prepares.
+The Huawei eKitEngine S530-24T8J4XE is an L3 stackable switch with a switching capacity of 208Gbps, equipped with (24) 1G ports, (8) 2.5G SFP slots and (4) SFP+ slots. It provides an additional (2) SFP+ slots for s
 New product
 Huawei S310-48S4X, Gigabit optical switch
 S310-48S4X
@@ -532,6 +532,4 @@ _17:
 avail:0
 infocode: avail
 queu:
-shipmin: 3.11.2026
-Expected 3.11.2026
-The Ubiquiti UACC-Cable-Patch-8M-BL is an ultra-thin UTP patch cable measuring 8m, in blue, with bendable RJ45 connector boots, PoE+++ support and a data transfer
+shipmin: 3.11.2

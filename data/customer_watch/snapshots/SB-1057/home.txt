@@ -1,4 +1,4 @@
-# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -44,67 +44,13 @@ Producatori
 Galerie foto
 Diplome si premii
 Curs valutar
-01-Nov-2026
+02-Nov-2026
 1 EURO = 5.3426 RON
 1 USD = 4.7698 RON
 Mondo Plast
 fibra optica switch router poe gigabit router wireless switch gigabit sfp ap stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-LED Flood Light
-Braun Group - GT-LED-FL-003-50W-WW
-143.81 LEI
-fara TVA
-70.64 LEI
-pret fara TVA
-cuTVA: 85.47 LEI
-LED Flood Light
-Braun Group - GT-LED-FL-003-30W-PW
-86.41 LEI
-fara TVA
-46.68 LEI
-pret fara TVA
-cuTVA: 56.48 LEI
-LED Flood Light
-Braun Group - GT-LED-FL-003-10W-PW
-39.11 LEI
-fara TVA
-22.71 LEI
-pret fara TVA
-cuTVA: 27.47 LEI
-LED Underground Light
-Braun Group - GT-LED-UGL-001-5W
-113.53 LEI
-fara TVA
-86.41 LEI
-pret fara TVA
-cuTVA: 104.55 LEI
-Bec led glob 5x1W- E14
-Braun Group - BZ5-QP539e14-5W
-24.67 LEI
-fara TVA
-15.23 LEI
-pret fara TVA
-cuTVA: 18.43 LEI
-Bec led glob 12W- E27
-Braun Group - BZ12-QP544-12W
-56.53 LEI
-fara TVA
-35.42 LEI
-pret fara TVA
-cuTVA: 42.85 LEI
-Spot E27 cu bec LED 5 watt
-Light Net - TD2501-lamp E27
-23.02 LEI
-pret fara TVA
-cuTVA: 27.86 LEI
-Display metalic rack cu 4 rafturi basculante, expozor prospecte show room, asamblat
-Mondo Plast - SE-MC1357
-1,495.93 LEI
-fara TVA
-1,175.37 LEI
-pret fara TVA
-cuTVA: 1,422.20 LEI
 Amplificator optic EDFA 16dB
 nextraCOM - EDFA 16DB
 3,630.30 LEI
@@ -193,8 +139,57 @@ Braun Group - MGTR-20A
 64.11 LEI
 pret fara TVA
 cuTVA: 77.57 LEI
+Mini Media Convertor SFP,5V-12V DC
+Braun Group - MGTR-SFP
+53.43 LEI
+pret fara TVA
+cuTVA: 64.65 LEI
+Gigabit Online Micro Media Convertor WDM- single fiber, 1310nm Tx/1550Rx, 12 Volt Power pass
+Braun Group - HMC611V1-A uMCA
+69.45 LEI
+pret fara TVA
+cuTVA: 84.04 LEI
+Media Convertor Gigabit WDM, 1-port 10/100/1000M + 1-port 1000FX (Tx1310nm),20km
+Braun Group - GTR20WA
+85.48 LEI
+fara TVA
+80.14 LEI
+pret fara TVA
+cuTVA: 96.97 LEI
+Patch panel optic 36*quad LC/APC , sliding mechanism, accesorii pentru 144 suduri, 19"/1.5U
+Braun Group - PPS-36LAPC-Q
+341.93 LEI
+fara TVA
+309.87 LEI
+pret fara TVA
+cuTVA: 374.94 LEI
+Patch panel optic ODF 2U
+Braun Group - GB-B-24-SC-APC
+222.56 LEI
+fara TVA
+111.28 LEI
+pret fara TVA
+cuTVA: 134.65 LEI
+Cutie jonctiune optica compacta 4 casete *24 (echipata complet max 96core-FOSC96)
+Braun Group - GPJM-24-48-96
+85.48 LEI
+pret fara TVA
+cuTVA: 103.43 LEI
+Patch panel optic ODF 2U
+Braun Group - GB-B-24 SC-PC
+200.30 LEI
+fara TVA
+100.15 LEI
+pret fara TVA
+cuTVA: 121.18 LEI
+Router AX6000 WiFi6, 2*2.5G ports & 3 *Giga, USB3.0, WPA3, TR069, Stonet App, 2025
+Stonet - NX62
+277.82 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 336.16 LEI
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Pagina generata in : 0.107 s
+Pagina generata in : 0.120 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

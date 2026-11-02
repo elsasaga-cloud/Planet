@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · news_2 · https://www.omniray.ch:443/aktuelles/events · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-1714 omniray.ch · news_2 · https://www.omniray.ch:443/aktuelles/events · fetched 2026-11-02T09:40:28Z · HTTP 200
 Events - Omni Ray | Besuchen Sie uns an Messen & Events
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -76,7 +76,7 @@ Addtech
 Nachhaltigkeit
 Jobs
 Wichtige Informationen
-Zertifikate / AGB / CoC
+Zertifikate / Compliance
 Services
 Downloads
 RMA Services / Reparaturanmeldung
@@ -590,4 +590,4 @@ Temperaturregler
 Temperaturbegrenzer
 Thermostate
 Messumformer
-Anzeiger und Schreiber
+Anzeiger und Schreibe

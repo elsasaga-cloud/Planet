@@ -1,85 +1,97 @@
-# SA-013 alfa.com.tw · home · https://www.alfa.com.tw/ · fetched 2026-11-01T09:25:59Z · HTTP 200
-ALFA Network Inc.
-Home
-Products
-Support
-Downloads
-Documents
-Contact us
-MENU
-Home
-Products
-Support
-Downloads
-Documents
-Contact us
-0
-My cart
-$0.00
-Your shopping cart is empty!
-Subtotal :
-$0.00
-View Cart
-Checkout
-My Account
-Sign in
-Register
-Wish List
-Cart
-Currency:
-USD
-EUR
-GBP
-PKR
-CAD
-JPY
-TWD
-ATAYA Cloud Core + 5G AP Private 5G Network
-Ataya Chorus, the industry’s first standalone 5G access point solution with integrated network data plane core processing, delivers “plug and play” private 5G wireless connectivity that supports low latency use cases, reduces total cost of ownership, and dramatically simplifies enterprise deployment and management. With Pegatron’s manufacturing excellence and global reach, the new Chorus access points bring carrier-grade reliability to enterprise environments, enabling IT/OT professionals to deploy sophisticated private 5G networks with the same simplicity as Wi-Fi.
-View Product
+# SA-013 alfa.com.tw · home · https://www.alfa.com.tw/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+USB Wi-Fi Adapters, Wi-Fi HaLow &amp; Networking | ALFA Network
+Skip to content ALFA NETWORK Wireless possibilities. Real-world connections. Explore our resources ↗
+Products ⌄ USB Wi-Fi Solutions About ALFA Support Contact us ↗ ☰
+Browse by product Find your next connection.
+Browse all categories ↗ ×
+01 USB Wi-Fi Adapters Connect laptops, PCs and outdoor installations. ↗ 02 Routers & Wireless Bridges Indoor networks, outdoor links and access points. ↗ 03 4G / 5G Networking Cellular connectivity for sites, vehicles and projects. ↗ 04 Wi-Fi HaLow Explore sub-GHz wireless devices and components. ↗ 05 LoRa Gateways, modules and antennas for your IoT project. ↗ 06 Embedded Modules & Boards Wireless building blocks for your next design. ↗ 07 Antennas & RF Accessories Find the right frequency, connector and form factor. ↗ 08 PoE, Ethernet & Accessories Power, wired connectivity and installation essentials. ↗
+Featured product lines Wi-Fi HaLow Long-range Wi-Fi connectivity for IoT. ↗
+Drone Wireless links for long-range drone video transmission. ↗
+Browse by application Drone / UAV ↗ Outdoor wireless links ↗ RV & camping ↗ IoT & sensing ↗ View all products →
+ENGINEERED FOR CONNECTION
+Connect beyond
+boundaries.
+From everyday Wi-Fi to long-range IoT.
+Discover wireless solutions built for the way
+you work, explore, and connect.
+Explore products ↗ Find your solution →
+Wi-Fi HaLow / 5G Connectivity / Wi-Fi 6E
++
+WIRELESS, REIMAGINED.
+Designed to take you further.
+AWUS036AXML IEEE 802.11ax 2x2 + Bluetooth 5.2Wireless USB Adapter ↗
+ALFA NETWORK / PRODUCT COLLECTION
+01 / FEATURED
+SCROLL TO EXPLORE ↓
+01 Wi-Fi HaLow ↗ 02 Surfi ↗ 03 Drone / UAV ↗ 04 Browse all categories ↗
+THE ALFA COLLECTION
+Your next connection starts here.
+Explore products for your next project,
+your next destination, or your everyday network.
+All products Wi-Fi HaLow 5G / 4G USB Wi-Fi
+Browse all categories ↗
+AWUS036AXML
+IEEE 802.11ax 2x2 + Bluetooth 5.2Wireless USB Adapter
+Compare View product ↗
+Tube-AHM
+802.11ah HaLow Outdoor AP/CPEWith Fast Ethernet and PoE
+Compare View product ↗
 AX5GRM
-5GNR Global band WiFi 6 Router
-Made in Taiwan
-View Product
-Buy Now professional 10Gigabit series products, ultra fast surfing experience.
-View product
-World's First WiFi HaLow™ Raspberry Pi™ HAT module
-The AHPI7292S module series allows building long range, ultra-low power WiFi networks in sub 1 GHz license-exempt bands, utilizing the very popular and open platform - the Raspberry Pi™. WiFi HaLow™ enables connectivity for many applications, including sensors and wearables.
-View Product
-Kali Linux Compatible WiFi USB Adapter
-AWPCIE-1900U
-$0.00
-Tube-UN
-$0.00
-AWUS1900
-$0.00
-AWUS036ACH
-$0.00
-AWUS036AC
-$0.00
-AWUS036ACM
-$0.00
-AWUS036NH (EOL)
-$0.00
-×
-Sleeve High Neck Bodycon Dress
-$132.00
-See all features
-Add to Cart
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero.
-Contact Us
-Lighter Way to Enjoy Network
-4F.-1, No.106, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C.)
+5GNR Global band+ Wi-Fi 6 Router
+Compare View product ↗
+AWUS036AXM
+WiFi 6/6E + Bluetooth v5.2 comboUSB adapter
+Compare View product ↗
+YOUR SHORTLIST
+Clear Compare products ↗
+× SIDE BY SIDE
+Find your best fit.
+Browse by application
+Find products for the way you connect.
+Drone / UAV
+Wireless components for UAV / FPV video links.
+Explore solution ↗
+Outdoor wireless links
+Build connections between outdoor sites.
+Explore solution ↗
+RV & camping
+Discover the CampPro family for your next journey.
+Explore solution ↗
+IoT & sensing
+Explore Wi-Fi HaLow and LoRa for connected devices.
+Explore solution ↗
+THE ALFA APPROACH
+Wireless is what we do.
+Possibility is what you make.
+From USB Wi-Fi adapters to cellular networking and Wi-Fi HaLow, ALFA brings wireless products to a wide range of projects and places.
+Get to know ALFA ↗
+HERE TO HELP YOU CONNECT
+Every connection.
+Fully supported.
+Find the resources you need to get started
+and take the next step.
+01 Downloads
+Drivers, firmware, and product files.
+↗ 02 Documentation
+Guides and technical resources.
+↗ 03 Talk to our team
+Let's find the right product for your project.
+↗
+YOUR NEXT PROJECT STARTS WITH A CONVERSATION
+Let's make the connection.
+Contact ALFA ↗
+Lighter Way to Enjoy Network.
+sales@alfa.com.tw ↗
+Explore
+Products Solutions About ALFA
+Resources
+Downloads Documentation Contact us
+ALFA Network Inc.
+4F.-1, No.106, Ruiguang Rd.,
+Neihu Dist., Taipei City 114, Taiwan
 +886-2-2796-8477
-sales@alfa.com.tw
-Links
-OpenWrt Compatible Models
-Others
-TAA compliant
-Social
-Twitter
-Blog
-YouTube
-LinkedIn
-Copyright © 2020 ALFA Network Inc. All rights reserved.
-Follow Us
+© 2026 ALFA Network Inc. ALFA Network · Wireless connectivity Back to top ↑
+× FIND YOUR CONNECTION
+Search ALFA products
+Product name or keyword Search →
+×

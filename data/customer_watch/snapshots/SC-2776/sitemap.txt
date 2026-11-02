@@ -1,4 +1,4 @@
-# SC-2776 karel.com.tr · sitemap · https://www.karel.com.tr/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-2776 karel.com.tr · sitemap · https://www.karel.com.tr/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 	https://www.karel.com.tr/
 2026-09-04T12:28Z	https://www.karel.com.tr/node/1
 2024-01-24T11:33Z	https://www.karel.com.tr/bilgi/ve-ev-alarm-sistemleri

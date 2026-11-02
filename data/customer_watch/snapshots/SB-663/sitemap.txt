@@ -1,4 +1,4 @@
-# SB-663 hstn.co.th · sitemap · https://www.hstn.co.th/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-663 hstn.co.th · sitemap · https://www.hstn.co.th/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 2026-10-26T22:10:04+00:00	https://www.hstn.co.th
 2026-10-26T22:10:04+00:00	https://www.hstn.co.th/en
 2026-10-26T22:10:04+00:00	https://www.hstn.co.th/history

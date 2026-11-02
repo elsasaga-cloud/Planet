@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -182,39 +182,39 @@ ZTE ZXHN F6705
 Terminal GPON ONT z Wi-Fi 7, 1 portem 2.5G Ethernet oraz 3 porty 1G Ethernet.
 Przejdź do produktu
 Bestsellery
-596,52 zł
-733,72 zł z VAT
-MikroTik Chateau PRO ax router Wi-Fi 6 AX3600 5x GE, USB, 1x PoE OUT
-386,23 zł
-475,06 zł z VAT
-MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
-442,80 zł
-544,64 zł z VAT
-MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
 178,91 zł
 220,06 zł z VAT
 MikroTik L41G-2axD hAP ax lite bezprzewodowy router AX574 (Wi-Fi 6), 4x GE
+236,03 zł
+290,32 zł z VAT
+MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
+266,07 zł
+327,27 zł z VAT
+MikroTik wAP ax zewnętrzny punkt dostępowy Wi-Fi 6 AX3000, 2x GE, PoE IN
+58,25 zł
+71,65 zł z VAT
+Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT
 Promocje
+-54%
+65,62 zł
+29,99 zł
+36,89 zł z VAT
+Zasilacz impulsowy 12 V 1 A, 2,1/5,5 mm (zestaw 5 sztuk)
+-51%
+99,00 zł
+48,35 zł
+59,47 zł z VAT
+SFP GPON OLT Class C+ NeoPhotonics
 -36%
 23,66 zł
 15,19 zł
 18,68 zł z VAT
 RED Power RP18V1A-P-WM-EU zasilacz PoE, 18 V, 1 A, fast Ethernet (100 Mb/s)
--54%
-158,96 zł
-72,60 zł
-89,30 zł z VAT
-Opton 1.25G CWDM SFP TX1451 SM LC 40km
--49%
-37,08 zł
-19,01 zł
-23,38 zł z VAT
-Zaciskarka RJ45/RJ11 HT-568
--70%
-10 031,38 zł
-2 999,00 zł
-3 688,77 zł z VAT
-Huawei terminal GPON OLT MA5608T (1x MCUD, 16x GPON z wkładkami C+, zasilanie DC MPWC)
+-20%
+250,00 zł
+199,00 zł
+244,77 zł z VAT
+FiberHome S-NOTKSp napowietrzny, płaski kabel światłowodowy 1J, G.657.A1, 0.6 kN, LSZH, 1 km
 Promocja!
 -8%
 19 000,00 zł netto
@@ -227,7 +227,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-11-01 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-11-02 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

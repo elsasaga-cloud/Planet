@@ -1,4 +1,5 @@
-# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+Mon, 02 Nov 2026 02:14:18 +0000	Commercial WiFi CCTV Solutions That Scale	https://worldstarsecuritycameras.com/commercial-wifi-cctv-solutions/
 Sat, 31 Oct 2026 02:13:18 +0000	ONVIF Versus Proprietary Systems Compared	https://worldstarsecuritycameras.com/onvif-versus-proprietary-systems/
 Thu, 29 Oct 2026 02:20:40 +0000	A Guide to Camera Lens Selection for Security	https://worldstarsecuritycameras.com/guide-to-camera-lens-selection/
 Tue, 27 Oct 2026 04:01:43 +0000	Firewall for Security Camera Network Setup	https://worldstarsecuritycameras.com/firewall-for-security-camera-network-setup/
@@ -8,4 +9,3 @@ Tue, 13 Oct 2026 19:46:24 +0000	Can Your Hotel Hear You? Hotel Camera Laws, Wire
 Fri, 09 Oct 2026 04:02:19 +0000	The Future of AI Video Analytics for Security	https://worldstarsecuritycameras.com/future-of-ai-video-analytics-security/
 Wed, 07 Oct 2026 04:03:18 +0000	Security Equipment Pricing: What Drives Cost?	https://worldstarsecuritycameras.com/security-equipment-pricing/
 Thu, 01 Oct 2026 03:54:01 +0000	Cloud Networking for Security Systems That Scale	https://worldstarsecuritycameras.com/cloud-networking-security-systems/
-Wed, 23 Sep 2026 02:21:04 +0000	How to Configure NVR Motion Zones Correctly	https://worldstarsecuritycameras.com/configure-nvr-motion-zones/

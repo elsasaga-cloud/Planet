@@ -1,4 +1,4 @@
-# SB-425 gsginternational.com · sitemap · https://www.gsginternational.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-425 gsginternational.com · sitemap · https://www.gsginternational.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 2019-08-02T07:23:48+00:00	https://www.gsginternational.com/
 2019-08-02T07:23:48+00:00	https://www.gsginternational.com/it/chi-siamo.html
 2019-08-02T07:23:48+00:00	https://www.gsginternational.com/it/vision.html

@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -106,10 +106,10 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4958)
-Wszystkie 4958
+LAN (4959)
+Wszystkie 4959
 Kable LAN 403
-Patchcordy RJ45 1868
+Patchcordy RJ45 1869
 Szafy RACK 892
 Akcesoria do szaf RACK 891
 Moduły keystone 235
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2254)
-Wszystkie 2254
+Zasilanie (2257)
+Wszystkie 2257
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
-Zasilacze impulsowe 519
+Zasilacze impulsowe 522
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158
@@ -254,14 +254,14 @@ Licencje 12
 Pamięci RAM 6
 Dyski twarde 63
 Dyski sieciowe NAS 147
-Inteligentny dom (474)
-Wszystkie 474
+Inteligentny dom (494)
+Wszystkie 494
 Dzwonki i wideodzwonki Smart 9
 Monitoring Smart 82
 Sterowanie ogrzewaniem 12
-Kontrolery i przekaźniki Smart 106
+Kontrolery i przekaźniki Smart 124
 Czujniki Smart 49
-Oświetlenie Smart 174
+Oświetlenie Smart 176
 Gniazda Smart Plug 28
 Huby i bramki Smart 14
 Ładowarki EV (38)

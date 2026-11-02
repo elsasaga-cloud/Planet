@@ -1,4 +1,6 @@
-# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+Sun, 01 Nov 2026 12:53:08 +0100	SNMP w monitoringu sieci. Jak działa i co pozwala wykryć?	https://bitstream.pl/aktualnosci/snmp-w-monitoringu-sieci-jak-dziala-i-co-pozwala-wykryc/
+Sun, 01 Nov 2026 12:44:30 +0100	Redundancja sieci – co to jest i jak działa w sieciach przemysłowych	https://bitstream.pl/aktualnosci/redundancja-sieci-co-to-jest-i-jak-dziala-w-sieciach-przemyslowych/
 Thu, 08 Oct 2026 12:13:20 +0200	Mediakonwerter w sieciach przemysłowych – kiedy światłowód zastępuje skrętkę	https://bitstream.pl/aktualnosci/mediakonwerter-w-sieciach-przemyslowych-kiedy-swiatlowod-zastepuje-skretke/
 Thu, 08 Oct 2026 12:04:15 +0200	Różnice między Ethernetem przemysłowym a biurowym w zastosowaniach produkcyjnych	https://bitstream.pl/aktualnosci/roznice-miedzy-ethernetem-przemyslowym-a-biurowym-w-zastosowaniach-produkcyjnych/
 Thu, 08 Oct 2026 11:51:37 +0200	Dyrektywa NIS2 w energetyce – wymagania cyberbezpieczeństwa dla polskich operatorów	https://bitstream.pl/aktualnosci/dyrektywa-nis2-w-energetyce-wymagania-cyberbezpieczenstwa-dla-polskich-operatorow/
@@ -27,5 +29,3 @@ Thu, 13 Feb 2025 14:55:18 +0100	Spotkanie ekspertów na Politechnice Krakowskiej
 Wed, 12 Feb 2025 11:53:35 +0100	Podsumowanie roku 2024 w BitStream	https://bitstream.pl/aktualnosci/podsumowanie-roku-2024-w-bitstream/
 Tue, 11 Feb 2025 14:51:42 +0100	Współpraca z firmą IM3	https://bitstream.pl/aktualnosci/wspolpraca-z-firma-im3/
 Thu, 23 Jan 2025 13:03:23 +0100	Wywiad Bitstream w ramach inicjatywy Lublin High Tech	https://bitstream.pl/aktualnosci/wywiad-w-ramach-lublin-high-tech/
-Wed, 08 Jan 2025 13:59:55 +0100	Rola globalnych systemów nawigacji satelitarnej GNSS i protokołów transportu czasu PTP w precyzyjnej synchronizacji czasu dla nowoczesnej energetyki	https://bitstream.pl/aktualnosci/rola-globalnych-systemow-nawigacji-satelitarnej-gnss-i-protokolow-transportu-czasu-ptp-w-precyzyjnej-synchronizacji-czasu-dla/
-Mon, 30 Dec 2024 15:12:12 +0100	Relacja z XI Charytatywnego Biegu Mikołajkowego	https://bitstream.pl/aktualnosci/relacja-z-xi-charytatywnego-biegu-mikolajkowego/

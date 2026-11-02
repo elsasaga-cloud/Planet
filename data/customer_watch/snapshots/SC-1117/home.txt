@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -209,46 +209,45 @@ Iniciar Sesión
 Productos
 Newsfeed
 Ver todas
-Nicolas · 14h · Videovigilancia
+Nicolas · 13h · Videovigilancia
+50 metros de luz inteligente: la bala DS-2CD1T43G2-LIUF/SL de Hikvision
+La cámara IP de 4 MP combina IR y luz blanca (Smart Hybrid Light) para grabar a color de noche hasta 50 m (164 ft). Su detección de humanos y vehículos reduce falsas alarmas, y su audio bidireccional con altavoz de 95 dB permite disuadir al intruso desde el sitio.
+WDR 120 dB, IP67, H.265+ y PoE: un solo cable para datos y energía.
+Conoce la DS-2CD1T43G2-LIUF/SL
+Daniel · 18h · Alarmas e Intrusión
+Protege muros, rejas y barandales con un solo cable: MICALERT de RBTEC
+El cable sensor MICALERT MIC2Z1000V2 convierte paredes, rejas rígidas y barandales en una zona de detección de 610 m dividida en 2 zonas independientes, con calibración por software y tarjeta LPU400.
+Detección por vibración sin falsas alarmas por viento o lluvia: ideal para azoteas, muros perimetrales y estructuras donde no hay cerca ciclónica.
+Descubre el sensor MICALERT de RBTEC
+Rafael · 18h · Redes
+Un solo cable para datos y energía en 24 puertos
+El switch GWN7803P entrega 360 W de PoE+ (hasta 30 W por puerto) para alimentar teléfonos IP, cámaras y access points sin fuentes aparte, con 4 uplinks SFP para fibra y conmutación de 56 Gbps. Su administración en GWN Cloud no tiene costo y se monta en rack 19" con fuente incluida.
+Conoce el GWN7803P de Grandstream
+Nicolas · 1d · Videovigilancia
 16 cámaras IP, un solo cable por cámara: el NVR DS-7616NI-Q2/16P(E)
 Sus 16 puertos PoE+ (150 W) conectan y alimentan cada cámara sin switch ni fuentes aparte, con modo extendido hasta 300 m. AcuSense distingue personas y vehículos para reducir falsas alarmas, y H.265+ ahorra hasta 50% de almacenamiento en 2 bahías de hasta 8 TB cada una. Salida HDMI 4K y acceso remoto vía Hik-Connect.
 Descubre el NVR con 16 puertos PoE
-Victor · 16h · Alarmas e Intrusión
+Victor · 1d · Alarmas e Intrusión
 Kit de alarma con WiFi integrado, sin anualidades ni licenciamiento
 El kit reúne el panel híbrido VISTA-48LA (8 zonas cableadas ampliables a 48), el teclado-receptor inalámbrico 6160RF compatible con la serie 5800 y el comunicador WiFi DX FULL WIFI con app Full Control gratuita: armado remoto, notificaciones PUSH y domótica en 2 salidas.
 Incluye batería de respaldo 12V 5.5Ah, transformador de 16 Vca y gabinete para instalación completa.
 Conoce el kit VISTA-48LA + DX FULL WIFI
-Adrian · 1d · Audio e Intercom
+Adrian · 2d · Audio e Intercom
 Intercom IP de emergencia que aguanta -40°C y golpes: Fanvil A12F
 El A12F lleva altavoz de 10 W con doble micrófono y cancelación de eco, 2 líneas SIP con 2 relés para abrir puertas y alimentación PoE. Certificado IP66 e IK10 anti-vandálico, opera de -40°C a 70°C: pensado para estacionamientos, industrias y accesos donde el equipo recibe maltrato y clima extremo.
 Conoce la Fanvil A12F
-Axel · 1d · Lanzamiento
+Axel · 2d · Lanzamiento
 Llegó el stock de la pizarra interactiva con Android que estabas esperando.
 HUAWEI IdeaHub Board 3 Base ya está disponible en SYSCOM: pantalla 4K, escritura con latencia de 25 ms, proyección inalámbrica y Android 15 de fábrica. Disponible en 65 y 86 pulgadas, con entrega inmediata.
 Conoce el IdeaHub Board 3 Base 1
-Luis · 1d · Control de Acceso
+Luis · 2d · Control de Acceso
 Montaje universal DS-KAB6-ZU1: instala tu terminal facial Hikvision en torniquetes de cualquier marca. Aluminio AL-6061, soporta térmicas.
 Conoce el montaje DS-KAB6-ZU1
-Adrian · 1d · Control de Acceso
+Adrian · 2d · Control de Acceso
 Videoportero IP completo en un solo kit: Fanvil VIK01
 El kit reúne el frente de calle i60 con cámara 2MP, visión nocturna IR y ángulo de 140°, más la estación interior i504W con pantalla táctil de 7 pulgadas y Wi-Fi dual band. Videollamadas HD H.264/H.265, desbloqueo remoto desde la app Fanvil Link y control de acceso para 10,000 tarjetas RFID. Integración ONVIF con CCTV/NVR y alimentación PoE.
 Conoce el kit Fanvil VIK01
-Nicolas · 1d · Videovigilancia
+Nicolas · 2d · Videovigilancia
 Color 24/7 con ColorVu 3.0: la bala DS-2CD1047G3-LIUF de Hikvision
 La cámara IP de 4 MP graba a color de noche combinando 30 m de IR con 30 m de luz blanca inteligente. Su Detección de Movimiento 3.0 ayuda a reducir falsas alarmas.
-Micrófono integrado, WDR, ranura microSD, IP67 para exterior y PoE: un solo cable para datos y energía.
-Conoce la DS-2CD1047G3-LIUF
-Jorge · 2d · Radios
-M3 + TASSTA: tu flotilla siempre conectada
-Transporte, logística, seguridad privada, taxis y servicios de campo: el M3 mantiene conectadas tus unidades en todo momento.
-PTT nacional para coordinar la flotilla en tiempo real, altavoz de 5 W con cancelación de ruido para oír con claridad en cabina, GPS para ubicar cada unidad y comunicación prioritaria donde cada segundo cuenta.
-Disponible en 4 kits: licencias TASSTA T.FLEX o SMART por 12 meses, con o sin SIM YOBI de 1 GB.
-Conoce los kits M3 con TASSTA
-Adrian · 2d · Audio e Intercom
-Comparte la pantalla 4K sin cables ni software: Fanvil CA200
-El kit de conferencia inalámbrica CA200 transmite video 4K/30fps con baja latencia hasta 10 m y admite hasta 4 dispositivos conectados a la vez: cada participante comparte desde su laptop Windows, Mac o móvil USB-C con un clic, sin instalar nada.
-Incluye modo congelado (Freeze Mode) para pausar la proyección mientras se revisa información en privado, ideal para salas de juntas y aulas BYOD.
-Conoce la Fanvil CA200 1
-Jorge · 2d · Energía Solar
-BASEL Racking Systems: la base de la energía solar en México
-Con orígenes en Alemania desde 2005 y operaciones en México desde 2021, la marca fabrica sistemas de montaje fotovoltaico para techo
+Micrófono integrado, WDR, ranura microSD, IP67

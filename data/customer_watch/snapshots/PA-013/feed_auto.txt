@@ -1,4 +1,4 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-01T09:25:59Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-02T09:40:28Z · HTTP 200
 30.10.2026 13:28:41	Palmer MONICON L G2	https://www.leteng.no/palmer-audio-tools/pmoniconlg2/palmer-monicon-l-g2-active-passive-studio-monitor-controller
 29.10.2026 15:00:34	EFB 19" Universal DIN Rail Holder 4U	https://www.leteng.no/efb-elektronik/53719-dot-1v3/efb-19-universal-din-rail-holder-4u-rack-brakett
 29.10.2026 13:54:31	Aten KVM Switch 4-Port Triple Head	https://www.leteng.no/aten/cs1964-at-g/aten-kvm-switch-4-port-triple-head-4k-displayport-usb-3-dot-0

@@ -1,4 +1,4 @@
-# SA-019 allnet.de · home · https://www.allnet.de/de/allnet-brand/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SA-019 allnet.de · home · https://www.allnet.de/de/allnet-brand/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 ALLNET GmbH -ALLNET Produktwelt
 Tel.: +49 (0)89 / 89422222
 Bitte wählen Sie Ihr Land:
@@ -177,7 +177,6 @@ Kontakt
 Brand News
 Events
 10. - 13.11.26, Halle A4, Stand 149, Messe München
-27. - 29.10.26, Halle 6, 6-432, Messe Nürnberg
 Lösungen
 WLAN Internet immer und überall! Wir ermöglichen Ihnen diesen Wunsch mit den ALLNET WLAN Lösungen.
 PoE Strom und Daten über ein Netzwerkkabel: Das ist die ALLNET PoE Lösung!

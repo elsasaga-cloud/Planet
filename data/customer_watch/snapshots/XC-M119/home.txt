@@ -1,4 +1,4 @@
-# XC-M119 "MARITEX" Leszek Łosin Sp.j. · home · https://www.maritex.eu/en · fetched 2026-11-01T09:25:59Z · HTTP 200
+# XC-M119 "MARITEX" Leszek Łosin Sp.j. · home · https://www.maritex.eu/en · fetched 2026-11-02T09:40:28Z · HTTP 200
 Maritex
 Call us: +48 58 6228900
 Feedback
@@ -80,7 +80,7 @@ LPV-60-12
 Power Supply; LED; 60W; 12V; 5A; 90-264VAC; 127-370VDC; IP67
 Maritex code: PS-LPV-60-12
 Manufacturer: MEAN WELL
-459
+455
 items in stock
 Quantity per package:
 32
@@ -93,7 +93,7 @@ RM85-2011-35-1005
 Electromagnetic relay; contact rating current 16A; coil voltage 5VDC; changeover contact (1P); 16A/24VDC; 16A/250 VAC
 Maritex code: RM85-2011-35-1005
 Manufacturer: RELPOL
-1 321
+1 320
 items in stock
 Quantity per package:
 20
@@ -101,7 +101,7 @@ Type of packaging:
 tube
 Quantity
 Order
-Total 5,85 PLN net
+Total 6,40 PLN net
 3403.0156.24
 Piezoelectric switch; 16.2mm; for PCB; aluminium; blue; IP67.
 Maritex code: 3403.0156.24

@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 KBC Networks - KBC Networks - Home
 PRODUCTS
 NETWORK SWITCHES
@@ -131,13 +131,13 @@ Application examples and Case studies where KBC solutions have made transmisison
 Navigating the IP Migration Challenge at Sea
 KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
 Read more
-Countrywide Rail Crossing
-Safety and Communication
-Indian Railways, one of the world’s largest rail networks,identified a pressing need to improve safety and communication at Level Crossing (LC) gates, particularly in remote areas
-Read more
 Real-Time Traffic Control and
 Smart City Objectives
 ThruLink™ provided a simple, secure, and cost-effective integrated solution for growth in Kuwait. Integration included traffic enforcement and ANPR camera systems, traffic control and traffic radar systems, and the replacement of Tetra with a Band 28 solution.
+Read more
+Countrywide Rail Crossing
+Safety and Communication
+Indian Railways, one of the world’s largest rail networks,identified a pressing need to improve safety and communication at Level Crossing (LC) gates, particularly in remote areas
 Read more
 KBC eCopper™ products offer a cost-effective way to connect the latest IP cameras using existing coax or copper (UTP) wiring to a remote monitoring station.
 In addition to saving costs and time from cabling infrastructure upgrades to CAT5/5e/6, eCopper™ powers both the transmitter and remote cameras, eliminating the need for any additional power source at the camera site.
@@ -222,7 +222,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Message
+Last Name
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -483,7 +483,7 @@ Yemen
 Zambia
 Zimbabwe
 Submit
-Message
+Email
 ×
 Select Country
 Afghanistan

@@ -1,4 +1,4 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-02T09:40:28Z · HTTP 200
 30.10.2026 10.40.00	SG33 Signal Generator	https://www.fiberworks.no/vesala-oy/ves-sg33/sg33-signal-generator
 28.10.2026 10.21.32	Fiberworks 40+1 DWDM Mux+Demux 19" 1RU	https://www.fiberworks.no/fiberworks-as/f-dmux-40f1-2160-mlu/fiberworks-40-plus-1-dwdm-mux-plus-demux-19-1ru-ch-dot--21-60-wide-1310wb-monitor-lc-upc
 28.10.2026 08.43.03	SFP+, 10Gbase-T Copper Interface, I-temp	https://www.fiberworks.no/fiberworks-as/sfp-10gbase-t-80-fn/sfp-plus--10gbase-t-copper-interface-i-temp-rj45-80m-on-cat6-7-fortinet

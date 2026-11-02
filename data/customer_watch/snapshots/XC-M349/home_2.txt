@@ -1,4 +1,4 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home_2 · https://eurodk.lv/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home_2 · https://eurodk.lv/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Bezvadu Wi-Fi aprīkojums no Ubiquiti, Mikrotik | Getic
 lv EUR ar PVN 21% , Latvija
 Konts
@@ -12,60 +12,66 @@ Balts
 1 m
 noliktavā
 2.13 €
-UDB
-Ubiquiti Device Bridge
-noliktavā
-115.68 €
-TRB246
-Teltonika TRB246 industriālā IoT vārteja
-noliktavā
-191.75 €
-CRS812-8DS-2DQ-2DDQ-RM
-MikroTik CRS812-8DS-2DQ-2DDQ-RM
-EU
-noliktavā
-1424.21 €
-U7-Pro-XG-Wall
-Ubiquiti UniFi U7 Pro XG Wall
-noliktavā
-327.20 €
-D53G-5HacD2HnD-TC&R11e-LTE7
-MikroTik Chateau LTE7
-EU
-noliktavā
-113.74 €
-5.0
-SXTsq-5axD
-MikroTik SXTsq 5 ax
-EU
-noliktavā
-58.23 €
-5.0
-CSS318-16G-2S+IN
-MikroTik CSS318-16G-2S+IN
-EU
-noliktavā
-125.49 €
-5.0
-U7-Pro-XGS
-Ubiquiti UniFi U7 Pro XGS
+UVC-G6-Pro-Turret
+Ubiquiti kamera G6 Pro Turret
 Balts
 noliktavā
-344.93 €
-UC-Cast
-Ubiquiti Display Cast
-EU
-jauns
+555.46 €
+UVC-G6-Turret
+Ubiquiti kamera G6 Turret
+Melns
 noliktavā
-218.33 €
+230.80 €
+UA-G3-Flex
+Ubiquiti G3 Access Reader Flex
+Balts
+noliktavā
+202.90 €
+AOA-M5G
+Jūras klases 5G mobilā omni antena
+noliktavā
+64.11 €
+BCM-RJ45
+Broadbe SFP+ to RJ45 modulis
+10 Gbps
+noliktavā
+51.40 €
+5.0
+S53UG+5HaxD2HaxD-TC&EG18-EA
+MikroTik Chateau LTE18 ax
+EU
+noliktavā
+249.96 €
+5.0
+cAPGi-5HaxD2HaxD&EG12-EA
+MikroTik cAP LTE12 ax
+EU
+noliktavā
+206.98 €
+151.64 €
 CS-EB8-R200-1M8W4GA
 EZVIZ Pan & Tilt kamera EB8 Pro 4G 4K
 noliktavā
 215.99 €
-TRB256
-Teltonika TRB256 industriālā NB-IoT vārteja
+5.0
+CS-H9c-R100-8G55WKFL
+EZVIZ Pan & Tilt kamera H9c 3K
+EU
 noliktavā
-157.26 €
+98.11 €
+USW-Flex-2.5G-8
+Ubiquiti UniFi Switch Flex 8 2.5G
+EU
+jauns
+noliktavā
+182.60 €
+5.0
+UACC-DAC
+UniFi tiešā savienojuma kabelis
+100Gbps
+3 m
+noliktavā
+60.54 €
 parādiet man vairāk
 Viss ar atlaidi, pasteidzies
 -18 %
@@ -82,6 +88,12 @@ jauns
 noliktavā
 135.34 €
 107.99 €
+-14 %
+UACC-G5-Enhancer
+Ubiquiti G5 Prof Vision Enhancer
+noliktavā
+107.62 €
+92.72 €
 -60 %
 4.9
 SAW30-240-1200GR2A
@@ -90,12 +102,6 @@ EU
 noliktavā
 12.28 €
 4.90 €
--14 %
-UACC-G5-Enhancer
-Ubiquiti G5 Prof Vision Enhancer
-noliktavā
-107.62 €
-92.72 €
 -26 %
 MS-Cxx64-UPD
 Milesight pret vandālismu izturīga cilindriska kamera

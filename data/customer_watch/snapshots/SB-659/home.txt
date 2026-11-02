@@ -1,4 +1,4 @@
-# SB-659 entpa.com.tr · home · https://entpa.com.tr/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-659 entpa.com.tr · home · https://entpa.com.tr/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 ENTPA Elektronik
 select your language:
 ENTPA Elektronik
@@ -41,4 +41,4 @@ ENTPA bir ENTES kuruluşudur.
 © Entpa Elektronik 2013. Tüm hakları saklıdır.
 web tasarım: easyasnet
 v.r.3.3.7 (user ip:
-57.152.36.197)
+172.182.213.8)

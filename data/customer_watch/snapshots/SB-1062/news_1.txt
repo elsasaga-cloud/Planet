@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-02T09:40:28Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,12 +185,18 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1778 result(s)
+1780 result(s)
+What Characterizes a top-tier ERP?
+Nov 2, 2026
+Business Hacks
+The SuFarm Success Story: Scaling from Traditional Roots to Modern Retail
+Nov 1, 2026
+Customer Reviews
 How Pope Tech Uses Odoo to Scale its Web Accessibility Business
 Oct 31, 2026
 Customer Reviews
 E-Invoicing and Vietnamese Accounting Standards on Odoo: Providers, Integration, and Practical Operation
-Oct 30, 2026
+Oct 29, 2026
 Business Hacks
 Safe Sex, Smarter Systems: How Global Protection Replaced 5 Platforms with Odoo
 Oct 29, 2026
@@ -216,12 +222,6 @@ Odoo News
 Termotec Integrates Its Operations with Odoo to Support Business Growth
 Oct 26, 2026
 Customer Reviews
-Monterrubio Villegas & Odoo: from Manual Processes to an Integrated ERP
-Oct 26, 2026
-Customer Reviews
-STASTO Automation KG: From rigid SAP framework to scalable Odoo solution
-Oct 23, 2026
-Success Stories
 1
 2
 3
@@ -525,6 +525,8 @@ July
 August
 2026
 September
+2026
+October
 2026
 Tags
 Country

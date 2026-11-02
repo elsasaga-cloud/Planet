@@ -1,4 +1,4 @@
-# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 citiCalls
 – citiCALLS
 Skip to content
@@ -142,6 +142,7 @@ Firewall
 HDD Accessories
 HDD Cable
 HDD Components
+Headphone
 Laser Printer
 Mobile Computing
 Monitor
@@ -221,6 +222,7 @@ IP Phone Wired
 IP Phone Wireless
 Intercom
 Interface Card
+KVM Cable
 Keyboard
 Label
 Label Printer
@@ -768,5 +770,4 @@ United States (USD
 $)
 Your cart is empty
 Continue shopping
-Product added to cart
-V
+Pro

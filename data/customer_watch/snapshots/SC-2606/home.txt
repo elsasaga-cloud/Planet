@@ -1,4 +1,4 @@
-# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-02T09:40:28Z · HTTP 200
 Logicbus | Industrial Automation, Sensors, PLCs & Test Equipment
 Skip to content
 Choose store
@@ -145,6 +145,11 @@ High performance universal converter, programmable via MicroUSB/App
 (0)
 $206.38
 In stock.
+R-KEY-LT
+ModBUS RTU/ASCII Compact Gateway. Power Supply: 10~40VDC; 19~28VAC. 1x Ethernet Port, 1x serial Port RS232/RS485 commutable. Modbus Bridge Finction: from ModBUS TCP-IP to Modbus RTU/ASCII or from ModBUS RTU/ASCII to Modbus TCP-IP
+(0)
+$173.86
+In stock.
 100.000.00
 Controllino Mini PLC Compatible with Arduino; 4DI/AI, 2 AI, 2DI, 10DO (3PWM) to 2A, 6 Relay outputs (in parallel to DO); TTL, I²C, SPI interface; RTC; 12/24VDC power supply; 5VDC Pin Headers
 (0)
@@ -209,11 +214,6 @@ In stock.
 Dynamic Signal Analyzer Model DT9837A. USB-powered Dynamic Signal Analyzer Model DT9837A; 24-bit, 52.7 kHz, 4 IEPE AI, 1 AO, 1 Tach, AO Readback
 (0)
 $2,234.00
-In stock.
-P5070NB
-Fatek Advanced HMI Screen P5B Series 7"TFT LCD Flash 256Mb RAM 128Mb 32bit CPU with RTC, Serial 1 (RS-232) 2 (RS-422/485, RS-485) Ethernet(10M/100M) USB2.0 Mini USB PLC port, Audio, Power supply 24Vdc(12.48W), plastic enclosure, supports Fatek IoT
-(0)
-$426.40
 In stock.
 PR58-1_MQTT_2001
 This WiFi Temperature Humidity Sensor for MQTT was developed to work with any MQTT Broker. As one of the world's most popular IoT protocols, MQTT is an essential, easy to use tool for viewing data from a wireless sensor device. Therefore, connectivity of the NCD ecosystem of IoT wireless sensors remains a top priority for the NCD engineering team.
@@ -285,11 +285,6 @@ SDG6052X
 (0)
 $5,490.00
 Check availability in chat.
-HiTemp140-1
-140 °C Temperature Data Logger with a 1" probe
-(0)
-$539.00
-Check availability in chat.
 FSH03869
 Model: Connector, 5 position, 4 Conductor 26 Awg Braided Shielded Teflon Cable, 15 ft Long, Stainless Steel Body with Strain Relief, RoHS Compliant. Mates to QMA141
 (0)
@@ -330,6 +325,11 @@ Multifunction USB DAQ: USB Data Acquisition (DAQ) Module; 16-bit, 100kHz, 16AI, 
 (0)
 $1,532.00
 Check availability in chat.
+FSH03864
+LSB302 , 100 lb , Tension & Compression Load Cell , RoHS Compliant, Material - 2024-T4 , 1/4-28-Thread , Overload Protection , 4 Pin Lemo Receptacle, EGG.0B.304.CLL
+(0)
+Discontinued
+Check information in Chat.
 FSH03863
 LSB210 , 2 lb , JR. S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Submersible , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
 (0)
@@ -349,6 +349,4 @@ SSR-IDC-05
 Solid-State Relay Module/ Single/ DC Sense/ 3 to 32 VDC
 (0)
 Discontinued
-Check information in Chat.
-PC301MT-0
-PyroCouple infra-red temperature sensor with 30:1 optics. 0~250°C temperature range. 2 w
+Check information in Ch

@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,40 +41,45 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-MEAN WELL HDR-60-15 Průmyslový zdroj na DIN lištu, 60W, 15V
-509 Kč bez DPH
-616 Kč s DPH
-Triton plně výsuvná police 1U/650mm, 19", nosnost 45kg, šedá
-1 898 Kč bez DPH
-2 297 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD1623G2-LIZSU(2.8-12mm), 2Mpx, 2.8-12mm
-Hikvision IP bullet hybrid kamera DS-2CD2023G2-LI2U(4mm), 2Mpx, 4mm, AcuSense
-Conexpro sada 4 plastových vyvazovacích háčků do racku pro kabely 37 x 39mm, šedý
-69 Kč bez DPH
-83 Kč s DPH
-Hikvision IP bullet kamera DS-2CD1027G3-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu 3.0
-Cudy WR21000 Multi-Gigabit Tri-Band Wi-Fi 7 Mesh Router, BE21000
-6 445 Kč bez DPH
-7 798 Kč s DPH
-Conexpro Gigabitový PoE injektor na DIN lištu, vstup 12-48V DC, 802.3af/at/bt, 60W
-1 600 Kč bez DPH
-1 936 Kč s DPH
-Samsung 9100 PRO NVMe SSD, M.2, 4TB
-21 601 Kč bez DPH
-26 137 Kč s DPH
-Triton výsuvná police pro klávesnici, 19", výška 60 mm, nosnost 30kg, šedá
-1 689 Kč bez DPH
-2 044 Kč s DPH
-Teltonika TeltoCharge Krycí panel pro EVC2 verzi se zásuvkou, dřevěný
-5 044 Kč bez DPH
-6 103 Kč s DPH
-Hikvision AX PRO Bezdrátová dálkově ovládané vysokonapěťové relé
-Ubiquiti UniFi patch kabel, 0,2m, Cat5e, černý
-56 Kč bez DPH
-68 Kč s DPH
-Triton rozvodný panel RAB-PD-X10-A1, 19", 14x IEC320, IEC C14 vstup
-961 Kč bez DPH
-1 163 Kč s DPH
+Hikvision IP dome kamera DS-2CD1127G3-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu 3.0
+MEAN WELL HDR-15-5 Průmyslový zdroj na DIN lištu, 12W, 5V
+245 Kč bez DPH
+296 Kč s DPH
+SanDisk Micro SDXC Ultra Plus 128GB + SD adaptér
+752 Kč bez DPH
+910 Kč s DPH
+Ubiquiti Externí přísvit pro G6 180 kameru, bílý
+2 860 Kč bez DPH
+3 461 Kč s DPH
+Triton 19" stojanový rack 27U/600x800 prosklené dveře, šedý
+10 140 Kč bez DPH
+12 269 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, černý, 50 pack
+2 157 Kč bez DPH
+2 610 Kč s DPH
+Ubiquiti UniFi patch kabel, 3m, Cat5e, černý, 10 pack
+1 266 Kč bez DPH
+1 532 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD2043G2-LI2U(2.8mm)(BLACK), 4Mpx, 2.8mm, AcuSense, Černá
+Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+Cudy M1300S Wi-Fi Mesh System, AC1200, 3 pack
+2 565 Kč bez DPH
+3 103 Kč s DPH
+Ubiquiti UniFi patch kabel, 3m, Cat5e, modrý
+139 Kč bez DPH
+168 Kč s DPH
+Ubiquiti UniFi patch kabel, 8m, Cat5e, bílý
+216 Kč bez DPH
+261 Kč s DPH
+TP-Link Tapo T150 Smart senzor lidské přítomnosti
+977 Kč bez DPH
+1 183 Kč s DPH
+Triton 19" speciální GridBox 4U rack DGX do stropního podhledu
+1 947 Kč bez DPH
+2 356 Kč s DPH
+Lexar High Endurance Micro SDXC 128GB
+1 399 Kč bez DPH
+1 693 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

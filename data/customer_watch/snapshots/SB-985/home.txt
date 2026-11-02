@@ -1,4 +1,4 @@
-# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Informática industrial, IA y automatización | QNV
 Saltar al contenido
 Buscar por:
@@ -150,12 +150,12 @@ Enviar
 ¡Gracias!
 Solicitar oferta
 Vista Rápida
-Comunicaciones Industriales
-Talos-3012
-Controlador EtherCAT Master basado en procesador Intel Atom E3845 a 1.9GHz
+Visión artificial
+NEON-1040
+SmartCam basada en procesador Intel Atom Quad-Core E3845 a1.9GHz, con 4MP, 60fps y sensor con obturador global
 ×
 Solicitar oferta para
-Talos-3012
+NEON-1040
 Nombre y apellidos
 Empresa
 Correo electrónico
@@ -190,12 +190,12 @@ Enviar
 ¡Gracias!
 Solicitar oferta
 Vista Rápida
-Visión artificial
-NEON-1040
-SmartCam basada en procesador Intel Atom Quad-Core E3845 a1.9GHz, con 4MP, 60fps y sensor con obturador global
+Comunicaciones Industriales
+Talos-3012
+Controlador EtherCAT Master basado en procesador Intel Atom E3845 a 1.9GHz
 ×
 Solicitar oferta para
-NEON-1040
+Talos-3012
 Nombre y apellidos
 Empresa
 Correo electrónico

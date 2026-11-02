@@ -1,4 +1,4 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · indiamart_minisite · https://www.sundartechno.in/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · indiamart_minisite · https://www.sundartechno.in/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengaluru
 Sundar Techno Solutions
 Bengaluru, Karnataka
@@ -75,10 +75,10 @@ Profinet Switch
 Human Machine Interface
 Lite Managed Switch
 SENSOR
-PLC System
 Intelligent Transportation Processor
 INDUSTRIAL TOUCH PANEL PC
 Fiber Optic Converter
+PLC System
 Gps Antenna
 Lcd Monitor
 Fiber Media Converter

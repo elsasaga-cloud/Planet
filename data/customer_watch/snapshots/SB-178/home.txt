@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -297,37 +297,36 @@ Wisnetworks WIS-ANS2417-90 MIMO Sector
 199,00 zł netto
 szt
 Najniższa cena z 30 dni: 420,22 zł
-PowerWalker VI 1000 ERT HID, LCD Rack 19" (powystawowy)
-1 094,70 zł z VAT
-1 094,70 zł
-890,00 zł netto
+Uchwyt kablowy KO12, na przewód okrągły ø 12 mm
+6,03 zł z VAT
+10,46 zł
+4,90 zł netto
 szt
-Najniższa cena z 30 dni: 1 094,70 zł
-WYPRZEDAŻ
-Pigtail MMCX - N/ż [short head] (20 cm)
-12,18 zł z VAT
-18,94 zł
-9,90 zł netto
+Najniższa cena z 30 dni: 10,46 zł
+Wisnetworks WIS-L5825D Hi-Power Outdoor Wireless Backhaul
+479,70 zł z VAT
+690,77 zł
+390,00 zł netto
 szt
-Najniższa cena z 30 dni: 18,94 zł
-Zasilacz do laptopa Acer, 40W 2.1A 19V, Qoltec, (50058.40W)
-35,67 zł z VAT
-39,98 zł
-29,00 zł netto
+Najniższa cena z 30 dni: 690,77 zł
+Tenda N3L-16H 16-kanałowy sieciowy rejestrator wideo HD
+276,75 zł z VAT
+308,79 zł
+225,00 zł netto
 szt
-Najniższa cena z 30 dni: 39,98 zł
-Tenda G103 Gigabit GPON Terminal SC/PC
-97,17 zł z VAT
-113,16 zł
-79,00 zł netto
+Najniższa cena z 30 dni: 308,79 zł
+Wisnetworks WIS-L520AC Sector Base Station
+479,70 zł z VAT
+805,90 zł
+390,00 zł netto
 szt
-Najniższa cena z 30 dni: 113,16 zł
-Wisnetworks WIS-L5819S Sector Base Station
-257,07 zł z VAT
-719,55 zł
-209,00 zł netto
+Najniższa cena z 30 dni: 805,90 zł
+Wisnetworks WIS-L5800N Hi-Power Base Station
+356,70 zł z VAT
+431,73 zł
+290,00 zł netto
 szt
-Najniższa cena z 30 dni: 719,55 zł
+Najniższa cena z 30 dni: 431,73 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
@@ -383,4 +382,4 @@ more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
 Koszty przesyłki:
-DHL: od 13 PLN (nett
+DHL: od 13 PLN (net

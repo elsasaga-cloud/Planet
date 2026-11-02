@@ -1,4 +1,4 @@
-# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 	https://adin.it/
 	https://adin.it/it/prodotti/
 	https://adin.it/it/k-new-2/

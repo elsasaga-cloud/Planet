@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Home | Broadstar
 Skip to content
 Menu
@@ -186,6 +186,7 @@ Please enable JavaScript in your browser to complete this form.
 Your Name * First
 Last
 Email *
+know? Your Date
 Phone *
 Community or Property Name *
 Your Role * Board President
@@ -193,7 +194,6 @@ Board Member
 Property Manager
 Owner or Developer
 Other
-Services Location we
 Number of Units *
 Property Location * --- Select Choice ---
 West Palm Beach area

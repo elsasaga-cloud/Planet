@@ -1,5 +1,5 @@
-# SC-2255 poetexas.com · feed_auto · https://www.poetexas.com/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
-Tue, 06 Oct 2026 10:03:56 +0000	Turn Existing Light Fixtures Into PoE Lighting	https://www.poetexas.com/turn-existing-light-fixtures-into-poe-lighting/
+# SC-2255 poetexas.com · feed_auto · https://www.poetexas.com/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+Tue, 06 Oct 2026 10:03:56 +0000	Turn Your Everyday Lamp Into PoE-Powered Lighting	https://www.poetexas.com/turn-your-everyday-lamp-into-poe-powered-lighting/
 Wed, 30 Sep 2026 19:53:26 +0000	How to Shop for High-Power PoE++ Injectors	https://www.poetexas.com/how-to-shop-for-high-power-poe-injectors/
 Tue, 15 Sep 2026 20:31:10 +0000	WTS-125A	https://www.poetexas.com/wts-125a/
 Wed, 15 Jul 2026 20:42:51 +0000	Cisco Spanning Tree Protocol (STP): When Loop Prevention Becomes Port Flapping	https://www.poetexas.com/cisco-stp-port-flapping/

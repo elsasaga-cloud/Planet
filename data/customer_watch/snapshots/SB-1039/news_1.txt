@@ -1,4 +1,4 @@
-# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Innovative News - ICO Innovative Computer GmbH
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -87,6 +87,10 @@ Anfahrt
 Startseite
 ICO NEWS
 Hier finden Sie Neuigkeiten und aktuelle Artikel rund um unser Sortiment und unser Unternehmen
+Datalogic Magellan 900i: Schnelle Barcodeerfassung auf Papier und Display
+Kompakter Präsentationsscanner für Kassen, Self Checkout Systeme und Kiosks unterstützt GS1 Digital Link, OCR und flexible Installationsarten.
+(mehr …)
+2.11.2026
 Kompakter Embedded-PC für den Einbau auf engem Raum
 ICO bietet lüfterlosen Industrierechner mit Intel Atom x7433RE und zwei 2,5-Gigabit-LAN-Anschlüssen.
 (mehr …)
@@ -123,10 +127,6 @@ KI-Leistung direkt an der Maschine: Drei PicoSYS-Systeme für industrielle Edge 
 PicoSYS 1621, 1622 und 1623 kombinieren Intel® Core™ i5 Rechenleistung mit skalierbarer MemryX KI-Beschleunigung.
 (mehr …)
 1.10.2026
-Weiße Newland-Barcodescanner HR23 und HR33 mit KI-Unterstützung
-Die neuen Varianten der Serien HR23 Dorada und HR33 Marlin von Newland verbinden KI-gestützte Datenerfassung mit antibakterieller Beschichtung und LED-Zielpunkt. Kabelgebundene und Bluetooth-Ausführungen ermöglichen den Einsatz im Gesundheitswesen ebenso wie an Kassen- und Kiosksystemen.
-(mehr …)
-28.09.2026
 1
 2
 3

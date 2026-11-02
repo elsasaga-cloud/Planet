@@ -1,4 +1,13 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] PT 컨트롤로 카메라 방향 바꾸기·Preset·순찰	https://iptime.com/support/faq/27747
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 벽·천장에 설치하기와 화면 반전·화면 왜곡 보정	https://iptime.com/support/faq/27746
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 앱에서 여러 카메라 한 화면에 보기(멀티 뷰)·스크린샷·앱 녹화	https://iptime.com/support/faq/27745
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 제스처 제어 사용하기와 카메라에서 띵 소리가 날 때	https://iptime.com/support/faq/27744
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 클라우드 서비스(무료·유료)와 microSD 카드 녹화 비교	https://iptime.com/support/faq/27743
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 양방향 음성 대화·원클릭 호출·음성 알림 사용하기	https://iptime.com/support/faq/27742
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] AI 박스(아기방·반려동물·매장)와 감시 구역 설정하기	https://iptime.com/support/faq/27741
+Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 자동 추적으로 움직이는 사람·물체 따라 촬영하기	https://iptime.com/support/faq/27740
+Thu, 29 Oct 2026 07:09:51 GMT	[ipTIME 카메라] 사생활 보호 모드로 카메라 끄기·켜기 (전원 아이콘·다기능 버튼·On/Off 예약)	https://iptime.com/support/faq/27739
 Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 가족과 카메라 함께 보기(공유)와 해외에서 사용하기	https://iptime.com/support/faq/27738
 Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 펌웨어 업데이트 방법과 업데이트가 실패할 때	https://iptime.com/support/faq/27737
 Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 이벤트 알림(푸시)이 오지 않을 때	https://iptime.com/support/faq/27736
@@ -40,12 +49,3 @@ Fri, 23 Oct 2026 07:59:56 GMT	[Easy Mesh] 설정·관리가 쉬운 메시 와이
 Fri, 23 Oct 2026 07:47:33 GMT	[ipTIME 공유기] 사용 환경별 Wi-Fi 7 공유기 추천	https://iptime.com/support/faq/27699
 Fri, 23 Oct 2026 07:43:07 GMT	[ipTIME 공유기] Wi-Fi 6와 Wi-Fi 7 차이 비교	https://iptime.com/support/faq/27698
 Fri, 23 Oct 2026 07:39:53 GMT	[Easy Mesh] 유선 백홀 메시 와이파이 추천 조합	https://iptime.com/support/faq/27697
-Fri, 23 Oct 2026 06:05:10 GMT	[펌웨어] ipTIME NAS400plus/ NAS200plus/ NAS400/ NAS200 펌웨어 1.1.18	https://iptime.com/notices/27696
-Fri, 23 Oct 2026 06:04:52 GMT	[펌웨어] ipTIME NAS4dual/ NAS2plus/ NAS2dual/ NAS1dual 펌웨어 1.6.14	https://iptime.com/notices/27695
-Fri, 23 Oct 2026 05:46:59 GMT	[펌웨어] ipTIME NAS400plus/ NAS200plus/ NAS400/ NAS200 펌웨어 1.1.18	https://iptime.com/support/downloads/27694
-Fri, 23 Oct 2026 05:41:25 GMT	[펌웨어] ipTIME NAS4dual/ NAS2plus/ NAS2dual/ NAS1dual 펌웨어 1.6.14	https://iptime.com/support/downloads/27693
-Fri, 23 Oct 2026 05:24:48 GMT	[ipTIME 공유기] 공유기·스위칭허브에 연결한 IPTV가 끊기거나 나오지 않을 때	https://iptime.com/support/faq/27692
-Fri, 23 Oct 2026 05:17:10 GMT	[ipTIME 공유기] 쓰지 않는 DDNS 삭제, 등록 이메일 변경, 기기 교체 후 같은 주소 다시 쓰기	https://iptime.com/support/faq/27691
-Fri, 23 Oct 2026 05:01:00 GMT	[ipTIME 공유기] DDNS 등록 시 '등록이 차단된 호스트 이름'이 나올 때	https://iptime.com/support/faq/27690
-Fri, 23 Oct 2026 04:56:52 GMT	[고객지원] 납품·인증용 서류(사업자등록증, KC 인증서, 시험성적서 등) 요청 방법	https://iptime.com/support/faq/27689
-Fri, 23 Oct 2026 04:45:38 GMT	[ipTIME 공유기] 펌웨어 다운그레이드 방법	https://iptime.com/support/faq/27688

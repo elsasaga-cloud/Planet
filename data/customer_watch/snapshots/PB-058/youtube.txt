@@ -1,4 +1,6 @@
-# PB-058 JPF Industries SAS · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCY0ql5YiaeLIkoP69NKINaQ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# PB-058 JPF Industries SAS · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCY0ql5YiaeLIkoP69NKINaQ · fetched 2026-11-02T09:40:28Z · HTTP 200
+2026-11-02T09:44:02+00:00	Les 10 ans de la région Arc Méditerranée – Groupe Fauché	https://www.youtube.com/watch?v=Q6fBoLjA9Qc
+2026-11-02T09:43:57+00:00	Agathe Pauli, en route pour les JO 2028 – Groupe Fauché	https://www.youtube.com/watch?v=BYBl_1LXHXg
 2026-07-30T06:18:28+00:00	Aurélien et Benoit – Les binômes du groupe Fauché	https://www.youtube.com/watch?v=RiP2iqlEAy4
 2026-05-29T07:02:05+00:00	Soirée de Lumelec – Groupe Fauché	https://www.youtube.com/watch?v=0BAIzQl5wf8
 2026-04-17T08:28:35+00:00	"J'attendais mon binôme, j'attendais mon frère" - Kyle et Damion, les binômes du groupe Fauché	https://www.youtube.com/watch?v=qNLGzyuWNLI
@@ -12,5 +14,3 @@
 2025-07-29T12:28:24+00:00	Franck, technicien de maintenance SSI à Toulouse – Groupe Fauché– Groupe Fauché	https://www.youtube.com/watch?v=zt5r8RDzJHI
 2025-07-22T06:00:18+00:00	Ilan, Agent de maintenance en alternance – Groupe Fauché	https://www.youtube.com/watch?v=O8-6fKXqhD8
 2025-06-24T06:44:30+00:00	Kévin, expert en CVC – Fauché Maintenance – Groupe Fauché	https://www.youtube.com/watch?v=1EDbEBstiFM
-2025-06-17T06:00:34+00:00	Nidal, directrice adjointe à Saint-Germain-en-Laye – Où sont nos femmes ? – Groupe Fauché	https://www.youtube.com/watch?v=cfmYOzVhS4E
-2025-06-03T09:30:45+00:00	Journée d'intégration à Aix-en-Provence– Groupe Fauché	https://www.youtube.com/watch?v=78PG7zBKhsA

@@ -1,4 +1,4 @@
-# SB-270 damixsat.pl · home · https://damixsat.pl/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-270 damixsat.pl · home · https://damixsat.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Damixsat.pl – sklep TV-SAT, RTV, AGD, Smart Home i Mini PC
 ×
 Ostatnio przeglądane produkty
@@ -34,6 +34,7 @@ Liczniki zużycia energii
 Listwy i przedłużacze
 Akumulatory żelowe
 Elektryczne adaptery podróżne
+UPS
 Drukarki etykiet
 Akcesoria Samochodowe
 Czujniki i wskaźniki ciśnie
@@ -49,7 +50,6 @@ Stelaże biurkowe
 Fotele biurowe
 Pakowanie
 Foliopaki
-Pompki i kompresory
 Maszyny do papieru
 Etykiety do drukarek
 Maszyny do wypełniaczy
@@ -254,6 +254,19 @@ Fotele i krzesła bujane z podnóżkiem
 Kosze na śmieci, pranie i do segregacji
 Stojaki i wieszaki rowerowe
 Sofy i kanapy elektrycznie rozkładane
+Bandownice
+Oświetlenie
+Żarówki i świetlówki
+Dekoracyjne LED
+Inne
+Wewnętrzne
+Elektryczne
+Akumulatorowe
+Szynowe
+Taśmy LED
+Zewnętrzne
+Dekoracyjne CLS
+Solarne
 Twój koszyk jest pusty
 Zaloguj
 Nie masz jeszcze konta?
@@ -316,37 +329,32 @@ Flint 2 GL-MT6000 to wydajny router Wi-Fi 6 z portami 2.5G, VPN, OpenWrt i zaawa
 Kanapa elektrycznie rozkładana Flax 20 1...
 To inteligentna sofa elektryczna od Power Sleeper, która wyróżnia się gigantyczną powierzchnią spania 211x180 cm oraz wbudowanym panelem audio i ładowarką. Sprawdzi się w nowoczesnym salonie jako luksusowe centrum relaksu i kino domowe.
 Strona główna
-Biurko dziecięce z szufladą SPEX110WL 12...
-Duże biurko dziecięce 120 × 65 cm z szufladami i pochylanym ...
-849,00 zł
+Krzesło regulowane dziecięce Spacetronik...
+Fioletowe krzesło dziecięce z ergonomicznym oparciem. Spacet...
+549,00 zł
 Do koszyka
-Uchwyt TV ścienny regulowany 32-55 SPET48
-Spacetronik SPET48 to regulowany uchwyt ścienny Full Motion ...
-36,90 zł
+Gniazdo blatowe otwierane Spacetronik SP...
+Spacetronik SPSDA30BB V2 to obrotowe gniazdo wpuszczane w bl...
+149,00 zł
 Do koszyka
-Uchwyt biurkowy na kubek i słuchawki SPB...
-Spacetronik SPB029S to boczny organizer biurkowy na zacisk w...
-99,00 zł
+Elektryczne biurko Spacetronik Moris 125...
+Biurko elektryczne Moris 120 × 60 cm w kolorze: biały. Space...
+549,00 zł
 Do koszyka
-Gniazdo nablatowe zacisk Spacetronik SPS...
-Nablatowe gniazdo zaciskowe Spacetronik SPSTB131 w kolorze b...
-127,20 zł
+Uchwyt srebrny na monitor Spacetronik SP...
+Spacetronik SPA-S110S to srebrny uchwyt biurkowy na monitor ...
+199,00 zł
 Do koszyka
-Biurko dziecięce SPEX111WW 90×65 90
-Ergonomiczne biurko dziecięce 90 × 65 cm z pochylanym blatem...
-1 099,00 zł
+Uchwyt na 2 monitory Spacetronik SPA-S12...
+Spacetronik SPA-S120B to gazowy uchwyt biurkowy na dwa monit...
+329,00 zł
 Do koszyka
-Biurko dziecięce z szufladą SPEX110WL 10...
-Kompaktowe biurko dziecięce z dwiema szufladami i pochylanym...
-799,00 zł
+Elektryczny stelaż biurkowy Spacetronik ...
+Stelaż elektryczny z pamięcią 3 pozycji i ładowarką USB. Spa...
+649,00 zł
 Do koszyka
-Biurko dziecięce SPEX111WW 90×65
-Ergonomiczne biurko dziecięce 120 × 65 cm z pochylanym blate...
-1 199,00 zł
+Elektryczne biurko Spacetronik Moris 125...
+Biurko elektryczne Moris 120 × 60 cm w kolorze: blat drewnia...
+388,00 zł
 Do koszyka
-Stolik pomocniczy Spacetronik Buddy 20 C...
-Spacetronik Buddy 20 w kolorze czarnym to mobilny stolik pom...
-799,00 zł
-Do koszyka
-Stolik pomocniczy Spacetronik Buddy 25 C...
-
+Gniazdo blatowe

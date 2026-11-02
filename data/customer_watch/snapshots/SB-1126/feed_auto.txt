@@ -1,4 +1,5 @@
-# SB-1126 klinger.fi · feed_auto · https://klinger.fi/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1126 klinger.fi · feed_auto · https://klinger.fi/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+Mon, 02 Nov 2026 06:00:00 +0000	Ventus X-series laajenee – uudet X9, X9+ ja X10 täydentävät Print & Apply -etiketöintilaitteiden valikoimaa	https://klinger.fi/sisallot-ja-uutiset/ventus-x-series-laajenee-uudet-x9-x9-ja-x10-taydentavat-print-apply-etiketointilaitteiden-valikoimaa/
 Thu, 29 Oct 2026 10:17:15 +0000	ECONOSTO Oy sulautuu KLINGER Finlandiin 1.1.2027 – yhteinen matka jatkuu	https://klinger.fi/sisallot-ja-uutiset/econosto-oy-sulautuu-klinger-finlandiin-1-1-2027-yhteinen-matka-jatkuu/
 Tue, 27 Oct 2026 14:02:43 +0000	Domino Cx350i – mustesuihkutulostin suurten pakkausmerkintöjen tulostamiseen	https://klinger.fi/sisallot-ja-uutiset/domino-cx350i-mustesuihkutulostin-suurten-pakkausmerkintojen-tulostamiseen/
 Fri, 23 Oct 2026 06:06:09 +0000	Avoin työpaikka: Aluemyyntipäällikkö tuotemerkintätiimiin, hakuaika 23.10. – 15.11.2026	https://klinger.fi/sisallot-ja-uutiset/avoin-tyopaikka-aluemyyntipaallikko-tuotemerkintatiimiin-hakuaika-23-10-15-11-2026/
@@ -8,4 +9,3 @@ Tue, 20 Oct 2026 06:44:14 +0000	Avoin työpaikka: Myyntineuvottelija / tekninen 
 Tue, 20 Oct 2026 06:44:05 +0000	Avoin työpaikka: Myyntineuvottelija / tekninen myyjä venttiilimyyntiin Masalaan, hakuaika 20.10. – 31.10.2026	https://klinger.fi/sisallot-ja-uutiset/avoin-tyopaikka-myyntineuvottelija-tekninen-myyja-venttiilimyyntiin-masalaan-hakuaika-20-10-31-10-2026/
 Wed, 14 Oct 2026 10:00:00 +0000	KLINGER Finland sähköistää koko autokantansa – 18 Ford-henkilöauton toimitus viimeistelee siirtymän	https://klinger.fi/sisallot-ja-uutiset/klinger-finland-sahkoistaa-koko-autokantansa/
 Wed, 30 Sep 2026 05:55:06 +0000	KLINGER Finland ja DHL rakentavat vähäpäästöisempää toimitusketjua yhdessä	https://klinger.fi/sisallot-ja-uutiset/klinger-finland-ja-dhl-rakentavat-vahapaastoisempaa-toimitusketjua-yhdessa/
-Mon, 28 Sep 2026 07:50:30 +0000	140 vuotta KLINGERiä: Kokemuksen rakentama, luottamuksen ohjaama	https://klinger.fi/sisallot-ja-uutiset/140-vuotta-klingeria-kokemuksen-rakentama-luottamuksen-ohjaama/

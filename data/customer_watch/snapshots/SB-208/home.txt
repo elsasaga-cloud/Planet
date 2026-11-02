@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-02T09:40:28Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,48 +66,50 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-Logilink "slatwall" kansio/paperiteline
-LogiLinkin järjestävä paneeli, jota kutsutaan myös "slatwall", tarjoaa sinulle mahdollisuuden...
-13,00 €
--16 %
-Cat 8.1 S/FTP ethernet raakakaapelilla, AWG 26 harmaa 20m
-RJ45 välijohto CAT 8.1 S/FTP raakakaapelilla, AWG 26
-Väri: Harmaa...
-33,50 €
+USB 3.0 -hub, 4x USB-A, 5 Gbit/s, 2-in-1-liitäntäkaapeli
+Tämä kompakti ja kannettava keskitin laajentaa USB-C- tai Thunderbolt...
+19,90 €
+Saatavilla 1 kpl
+-62 %
+Hiirimatto "valokuva" 235 x 195mm
+Hiirimatto jossa on lokero valokuvalle.
+Päällinen PVC muovia.
+Koko 235 x...
+3,00 €
 norm.
-39,90 €
+7,90 €
 alennus
-16 %
+62 %
 säästö
-6,40 €
+4,90 €
 Saatavilla 2 kpl
-LENOVO ThinkCentre M70Q TINY G6 U7-265T / 16GB / 512SSD / RS232 / W11P / 3OS
-Lenovo ThinkCentre M70q Tiny Gen6 on pienikoinen ja monipuolisesti laajennettavissa...
-1 485,00 €
-Brother Laminoimaton tarranauha lev. 12 mm. Musta teksti / valkoinen pohja
-Laminoimaton tarranauha lev. 12 mm. Musta teksti / valkoinen pohja. Laminoimaton tarranauha on...
-15,00 €
-Nippusidekiinnike 20x20mm ja nippusiteet 200x2,5mm musta 10+10 kpl
-Nämä Delockin asennusalustat soveltuvat nippusiteiden kiinnittämiseen, jotta...
-1,70 €
+Tarvikemustekasetti Canon CLI-581XXL photo blue
+Tarvikemustekasetti Canon CLI-581XXL photo sininen
+Yhteensopivuus:
+Canon PIXMA...
+10,90 €
 Saatavilla 2 kpl
-Taittuva ja sisäänvedettävä kattokiinnike TV:lle ja LED/LCD 17"-37" näytöille musta
-Taittuva, sisäänvedettävä kattokiinnike...
-79,90 €
+HP 205A CF533A magenta laserkasetti
+HP 205A - Magenta - alkuperäinen Käyttömäärä: Jopa 900 sivua ISO/IEC 19798
+Yhteensopivuus: HP Color LaserJet...
+78,00 €
+PCI Express x4 -kortti > 1 x sisäinen NVMe M.2 Key M 110 mm jäähdytyslevyllä
+Tämä Delockin PCI Express -kortti laajentaa PC:tä yhdellä M.2-paikalla. M.2...
+37,00 €
+Ethernetkaapeli S/FTP Cat.6A LSOH, Slim, PoE, sininen, 3.0 m
+Ethernet S/FTP (PiMF) Cat. 6A LSOH -kytkentäkaapeli, jossa suojatut...
+7,40 €
+Epson 114 EcoTank BK pigmentoitu musta täytemuste
+Kuvaus: Epson 114 - 70 ml - musta - alkuperäinen - täytemuste malleihin...
+20,00 €
 Saatavilla 1 kpl
-Delock IEC 60320 - C14-C13, uros / naaras, 10 A, vasen / oikea kulma adapteri
-Delockin kylmälaitesovitin on laadukas ratkaisu...
-3,90 €
-Saatavilla 4 kpl
-CoreParts 36Wh HP 6 Cell Li-Pol 11.4V 3.2Ah akku
-HP yhteensopiva tarvikeakku.
-Takuu 1v. Huom! Tarkistakaa alkuperäisestä akusta, että kuvassa näkyvä ruuviväli...
-60,00 €
-MicroBattery 38Wh, 4 Cell Li-ion 14.8V 2.6Ah HP akku
-Yhteensopiva mm. Sopii 145 eri malliin
-Katso OEM-osanumero akusta...
-55,00 €
-Saatavilla 1 kpl
+Ethernetkaapeli Cat6 S/FTP LSZH vihreä 10m
+RJ45 ethernet, Cat 6 S/FTP, suojattu kaapeli, LSZH (halogeenivapaa) , kuparijohtimilla
+ISO/IEC 11801, EN50288...
+13,90 €
+CoreParts 47Wh HP 11.4V 4.1Ah akku
+HP yhteensopiva akku. Takuu 1v. HP/Compaq Laptops and Hybrids ProBook 650 G2 Notebook PC...
+59,00 €
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

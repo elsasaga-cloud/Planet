@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · sitemap · https://cdr.pl/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-420 cdr.pl · sitemap · https://cdr.pl/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 	https://www.cdr.pl/i26,aktualizacja-deco-m4r.html
 	https://www.cdr.pl/i32,aktualizacja-modemu-lte.html
 	https://www.cdr.pl/i29,huawei-olt-pierwszy-start.html

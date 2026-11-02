@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/vanshna-wifi-camera-trx-robot30-4mpx
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -122,7 +122,6 @@
 	https://www.kassabasystems.com/tsifrova-sistema-za-videonablyudenie-s-4-broya-5mpx-poe-ip-kameri-s-mikrofon-dual-light-ai-funktsii-10-kanalen-4k-nvr-i-suich-4dl3750
 	https://www.kassabasystems.com/ip-5mp-kamera-s-metalen-korpus-tsvetno-noshtno-video-zahranvane-po-poe-trx-50dfa-poe
 	https://www.kassabasystems.com/2robot25-3mp-wifi-3mpx-ultra-hd-komplekt-s-2br-upravlyaemi-wifi-kameri-i-9-kanalen-nvr-videorekorder-ultra-hd
-	https://www.kassabasystems.com/trx-3035mpx50xm
 	https://www.kassabasystems.com/paket-3-broia-vanshna-dvubandova-dvoina-wifi-kamera-s-mikrofon-i-cvetno-nostno-vizdane-3BR888
 	https://www.kassabasystems.com/3brdc3m-paket-ot-3br-dvoini-vanshni-6mpx-wifi-kameri-s-mikrofon-i-ai-funktsii-trx-robot-dc-3mpx-1997399203
 	https://www.kassabasystems.com/trx-1350-1-3mpx-ip-ir-kamera-za-vanshno-videonablyudenie
@@ -140,4 +139,5 @@
 	https://www.kassabasystems.com/8mp-kupolna-vandaloustoichiva-ip-kamera-s-mikrofon-i-cvetno-nostno-vizdane-TRX-PS8SA-PoE
 	https://www.kassabasystems.com/4mpx-vanshna-wifi-kamera-s-mirkofon-i-karta-pamet-TRX-ROBOT22A-4MPX
 	https://www.kassabasystems.com/8dip-ir-komplekt-s-8-ip-kameri-za-vanshno-nablyudenie
-	https://www.kassabasystems.com/ts-bli500w-ptz-wifi-kamera-krushka-5mpx-tu
+	https://www.kassabasystems.com/ts-bli500w-ptz-wifi-kamera-krushka-5mpx-tuya-vgraden-mikrofon
+	https://www.kassabasystems.

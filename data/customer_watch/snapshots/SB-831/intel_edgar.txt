@@ -1,4 +1,4 @@
-# SB-831 actelis.com · intel_edgar · https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001141284&type=&dateb=&owner=include&count=40&output=atom · fetched 2026-11-01T09:25:59Z · HTTP 403
+# SB-831 actelis.com · intel_edgar · https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001141284&type=&dateb=&owner=include&count=40&output=atom · fetched 2026-11-02T09:40:28Z · HTTP 403
 SEC.gov | Your Request Originates from an Undeclared Automated Tool
 U.S. Securities and Exchange Commission
 Your Request Originates from an Undeclared Automated Tool
@@ -6,7 +6,7 @@ To allow for equitable access to all users, SEC reserves the right to limit requ
 Please declare your traffic by updating your user agent to include company specific information.
 For best practices on efficiently downloading information from SEC.gov, including the latest EDGAR filings, visit sec.gov/developer . You can also sign up for email updates on the SEC open data program, including best practices that make it more efficient to download data, and SEC.gov enhancements that may impact scripted downloading processes. For more information, contact opendata@sec.gov .
 For more information, please see the SEC’s Web Site Privacy and Security Policy . Thank you for your interest in the U.S. Securities and Exchange Commission.
-Reference ID: 0.16dfda17.1793526280.546502b
+Reference ID: 0.871ca17.1793613797.5576658c
 More Information
 Internet Security Policy
 By using this site, you are agreeing to security monitoring and auditing. For security purposes, and to ensure that the public service remains available to users, this government computer system employs programs to monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage, including attempts to deny service to users.

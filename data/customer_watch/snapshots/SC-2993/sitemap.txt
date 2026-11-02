@@ -1,7 +1,7 @@
-# SC-2993 cablesnmore.com · sitemap · https://cablesnmore.com/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
-2026-11-01	https://www.cablesnmore.com/
-2026-11-01	https://www.cablesnmore.com/search
-2026-11-01	https://www.cablesnmore.com/contactus
+# SC-2993 cablesnmore.com · sitemap · https://cablesnmore.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+2026-11-02	https://www.cablesnmore.com/
+2026-11-02	https://www.cablesnmore.com/search
+2026-11-02	https://www.cablesnmore.com/contactus
 2023-02-10	https://www.cablesnmore.com/audio-video
 2016-03-10	https://www.cablesnmore.com/adaptersconverters
 2016-03-10	https://www.cablesnmore.com/usb-adapters

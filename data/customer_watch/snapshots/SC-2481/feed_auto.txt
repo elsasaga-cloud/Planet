@@ -1,4 +1,4 @@
-# SC-2481 Okisan · feed_auto · https://www.okisan.com/feed/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-2481 Okisan · feed_auto · https://www.okisan.com/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Tue, 13 Oct 2026 07:31:38 +0000	ISAF 2026-İSTANBUL	https://www.okisan.com/isaf-2026-istanbul.html/
 Tue, 16 Dec 2025 09:46:39 +0000	Okisan & Tiandy 2025 Tayland Gezisi	https://www.okisan.com/okisan-tiandy-2025-tayland-gezisi.html/
 Mon, 13 Oct 2025 09:03:41 +0000	ISAF 2025-İSTANBUL	https://www.okisan.com/isaf-2025-istanbul.html/

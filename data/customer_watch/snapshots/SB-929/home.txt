@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -103,13 +103,6 @@ TV/모니터
 남은시간
 LIKE IT ! 0
 Sold Out
-HUAWEI eKit 화웨이이킷 S110-5T 5포트 기가비트 비관리형 스위칭허브 데스크탑 스위치
-상품요약정보 : 5포트 / 비관리형 / 플러그 앤 플레이 / 1000Mbps(기가비트)
-소비자가 : 50,000원
-판매가 : 11,900원
-남은시간
-LIKE IT ! 0
-Sold Out
 통신용 서지보호기 LAN용(RJ-45)
 상품요약정보 : 알루미늄 압출 방식 제작, 기기 보호를 충족하는 낮은 제한 전압/ 방폭 기능 포함 / DC 전용 소자
 소비자가 : 40,000원
@@ -152,20 +145,30 @@ Sold Out
 판매가 : 8,400원
 LIKE IT ! 0
 Sold Out
-SFP-SMWA20/SMWB20 (WDM , 1코어 , 싱글모드) 광모듈
-상품요약정보 : 100Mbps, Single-mode, 20km, 1-Fiber(WDM), 1550/1310nm, LC
-판매가 : 35,100원
-LIKE IT ! 0
-Sold Out
 솔텍 SFC524HP V4 스위칭허브 (1Gbps PoE 24포트/1G SFP 2슬롯)
 상품요약정보 : 25, 26포트 Uplink 1Gbps SFP 슬롯/ PoE Max. 380W/ 440(W) x 207(D) x 45(H)mm
 판매가 : 435,600원
+LIKE IT ! 0
+Sold Out
+SFP-SMWA20/SMWB20 (WDM , 1코어 , 싱글모드) 광모듈
+상품요약정보 : 100Mbps, Single-mode, 20km, 1-Fiber(WDM), 1550/1310nm, LC
+판매가 : 35,100원
 LIKE IT ! 0
 Sold Out
 인네트워크 IN-LC-SC-DP-SM-1M 국산 LC-SC 싱글모드 광 점퍼코드 1M INO096
 상품요약정보 : OS1 / 2CORE / 노란색
 소비자가 : 8,400원
 판매가 : 6,700원
+LIKE IT ! 0
+Sold Out
+SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
+상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
+판매가 : 222,200원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC300-POE (Power over Ethernet) 스위칭허브 V2
+상품요약정보 : SFP 2슬롯(100Mbps) + TP 4포트(10/100Mbps), Power over Ethernet(IEEE802.3af), -40~80℃,
+판매가 : 249,700원
 LIKE IT ! 0
 Sold Out
 AD1048-24FS 산업용 전원공급장치 (SFC8000,SFC8000S,SFC8000G 전용)
@@ -179,20 +182,10 @@ Sold Out
 판매가 : 50,000원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC300-POE (Power over Ethernet) 스위칭허브 V2
-상품요약정보 : SFP 2슬롯(100Mbps) + TP 4포트(10/100Mbps), Power over Ethernet(IEEE802.3af), -40~80℃,
-판매가 : 249,700원
-LIKE IT ! 0
-Sold Out
-에스비 접시비트 ACDB-83 조절식 임팩용 비트 SB
-상품요약정보 : 에스비 접시비트 ACDB-83 조절식 임팩용 비트 SB
-소비자가 : 15,000원
-판매가 : 13,000원
-LIKE IT ! 0
-Sold Out
-SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
-상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
-판매가 : 222,200원
+안전로프 안전벨트 주상용 유신 YS-88B 주상안전대 벨트만
+상품요약정보 : 안전로프 안전벨트 주상용 유신 YS-88B 주상안전대
+소비자가 : 180,000원
+판매가 : 153,700원
 FiberMart 특가
 더보기
 LIKE IT ! 0
@@ -438,6 +431,10 @@ Sold Out
 먼저 사용해본 분들의 후기를 확인해보세요
 더보기
 만족
+기존 배터리 수명이 다해서 교체용으로 구매했는데, 호환 잘 되고 교체 후 UPS 정상 작동합니다. 마감 깔끔하고 배송도 안전하게 잘 도착했습니다.
+(2026-11-01 에 등록된 네이버 페이 구매평)
+APC UPS 정품 교체 배터리 (RBC6)
+만족
 빠른배송 감사합니다~
 (2026-10-29 에 등록된 네이버 페이 구매평)
 자동복구형 누전차단기 2.5kA 20A / 2.5kA 30A / 5kA 20A / 5kA 30A / 5kA 50A
@@ -468,9 +465,6 @@ Sold Out
 빠른 배송 감사합니다.
 (2026-10-01 에 등록된 네이버 페이 구매평)
 툴스타 웨지 에어 펌프 TS-AP-270135
-정말 괜찮습니다. 전기가 안전하겠네요
-(2026-09-21 에 등록된 네이버 페이 구매평)
-국산 16A 250V 4000W 누전차단 3구 고용량 멀티탭 [1.5M][화이트]
 문의 및 상담
 {#imgTag_1}
 {#imgTag_2}
@@ -512,4 +506,8 @@ SOLTECH 전 회원 10% 할인 EVENT
 통신판매업신고번호 2018-서울영등포-1417
 사업자등록번호 813-88-00758
 [사업자정보확인]
-개인정보관리책
+개인정보관리책임자 이정원
+이메일 yji@soltech.co.kr
+상호 (주)솔텍네트웍스
+대표 이정원
+주소 07217 서울특별시 영등포구 당산로41길 11 (당산동4가), 당산SKV1center w동 15층 1507

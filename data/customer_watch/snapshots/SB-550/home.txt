@@ -1,4 +1,4 @@
-# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 notebooks, PC components, harddrives and electronic at reichelt
 Please choose your location:
 Austria
@@ -216,7 +216,7 @@ Italiano
 Español
 X
 Country:
-United Kingdom
+United States
 Language:
 English
 Deutsch
@@ -271,7 +271,7 @@ Shopping Cart
 €0.00
 Shipping costs
 from
-€5.95
+€25.76
 Components
 Raspberry Pi Arduino
 Batteries, Power, Charger
@@ -298,14 +298,19 @@ Current edition
 Newsletter
 Subscribe now
 & benefit twice a week!
-405, 90
+259.00
+239.-
 *
-79,99
-69, 99
+35.95
+29. 95
 *
-219, 95
+17. 20
 *
-545, 95
+62,950.-
+*
+239. 90
+*
+39. 90
 *
 Thema - Robo 2026-03
 Indoor-Projekte
@@ -318,18 +323,19 @@ more ►
 Special offers
 more ►
 Promotion & Topics
+Electromobility without compromise
+with NRGkicks intelligent and mobile charging solutions.
 Durable and energy-efficient solutions
 pneumatic and electric drive systems.
+EFB
+the leading network specialist for structured IT infrastructure.
+EF
 The heart of every efficient NAS environment
 Specifically designed for 24/7 performance and reliability.
 Approved Reseller
 The compact all-rounder with countless application possibilities. From HD media players and multimedia PCs to home automation and a wide variety of DIY projects.
-Made for professionals
-Labelling for cables, control cabinets and more: With the PT-E560BTSP and four Pro Tapes included, you're ready to start right away.
-See clearly, work safely:
-innovative solutions for electronics, workshops, and laboratories.
-Nilko
-Innovative heated mugs for enjoyment at just the right temperature.
+Small modules, big possibilities.
+With M5Stack, IoT projects and smart control systems can be implemented easily and flexibly.
 Magazine
 Bringing Fibre into the Home: The Optical Termination Point as a Key Component
 Read now ►
@@ -359,8 +365,8 @@ Mon - Thu:
 -
 Fri:
 -
-Tel.: 04422 955333
-Fax: 04422 955111
+Tel.: 011 49 4422 955333
+Fax: 011 49 4422 955111
 Email:
 info@reichelt.de
 Company address

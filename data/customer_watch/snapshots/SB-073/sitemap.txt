@@ -1,4 +1,4 @@
-# SB-073 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-073 ANB rimex · sitemap · https://anb-rimex.be/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
 2026-08-25	https://anb-rimex.be/fr/
 2022-11-20	https://anb-rimex.be/fr/nouvelles/
 2023-09-21	https://anb-rimex.be/fr/nouvelles/anb-rimex-dahua/
@@ -52,7 +52,7 @@
 2024-11-22	https://anb-rimex.be/fr/actions/action-de-noel-2024/
 2024-10-31	https://anb-rimex.be/fr/actions/conditions/
 2024-11-22	https://anb-rimex.be/fr/actions/les-amis-de-lacacia/
-2025-11-24	https://anb-rimex.be/fr/actions/noel-2025/
+2026-11-02	https://anb-rimex.be/fr/actions/noel-2026/
 2026-09-28	https://anb-rimex.be/fr/actions/promo-mai-2026-fr/
 2026-09-28	https://anb-rimex.be/fr/actions/promo-octobre-2026-fr/
 2026-09-29	https://anb-rimex.be/fr/actions/promo-octobre-2026-buy--try-fr/

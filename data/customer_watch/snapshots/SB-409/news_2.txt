@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -18,9 +18,9 @@ Power & PoE
 Petenet PoE Switches 12V Power Supplies PoE Extenders PoE Splitters Injectors
 New arrivals
 Shop All
-Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
+Seagate HDD-SG-SKY4TB – 4TB SkyHawk Surveillance HDD
 Login for Pricing
-Uniview NVR504-32E-IM – 32ch AI NVR, 4-Bay
+Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
 Login for Pricing
 New Arrivals Clearance
 Become a Dealer
@@ -111,15 +111,15 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-Guide to Installing a Wireless Elevator Camera
-Before installing a camera inside of an elevator, you need to be aware of any legal requirements in your area.…
-October 27, 2022
-Testing Uniview’s New 8MP ColorHunter Cameras
-The Uniview 8MP ColorHunter is capable of recording sharp, clear images 24/7. We put this camera to the test by…
-August 10, 2023
-Do Security Cameras Work Without Internet?
-While shopping around for a security camera, you may have noticed that a lot of them offer remote viewing functionality.…
-March 27, 2024
+Why Uniview is the Preferred Brand for Security Installers
+Uniview is a brand of network security cameras with a focus on delivering quality security cameras at an affordable price.…
+April 25, 2022
+Should I Use an SSD or HDD inside an NVR?
+An HDD and SSD both accomplish the same task (storing footage) but in different ways. A hard drive is a…
+June 24, 2024
+12 Places to Buy a Security Camera in Toronto
+In Toronto, there are many options for purchasing a security camera system. Whether you are looking to buy a single…
+January 11, 2023
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account

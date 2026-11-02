@@ -1,4 +1,4 @@
-# SB-1022 danbit.dk · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCfyraEu7YWUXbkqYci2xaXg · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1022 danbit.dk · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCfyraEu7YWUXbkqYci2xaXg · fetched 2026-11-02T09:40:28Z · HTTP 200
 2023-06-20T13:05:39+00:00	Ny generation kraftig Embedded PC (EPC-GEN12-WT) fra DANBIT A/S	https://www.youtube.com/watch?v=CLnPCu0Iwlg
 2023-05-04T09:04:18+00:00	Ny Kompakt og Kraftig Embedded PC fra DANBIT A/S	https://www.youtube.com/watch?v=pivN-7riwXA
 2023-04-11T11:28:24+00:00	ATEX produkter fra DANBIT A/S	https://www.youtube.com/watch?v=rVEGe6mOyok

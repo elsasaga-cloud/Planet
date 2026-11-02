@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-02T09:40:28Z · HTTP 200
 Messen, Veranstaltungen, Tagungen, Vorträge - AMC
 Navigation überspringen
 Startseite
@@ -192,16 +192,11 @@ Facebook
 Messen und Veranstaltungen mit AMC-Beteiligung
 Hier finden Sie eine Übersicht der aktuellen und vergangenen Messen, Konferenzen und Veranstaltungen , auf denen AMC vertreten ist bzw. vertreten war.
 Unsere bevorstehenden Termine 2026
-28. - 29.10.2026 - 12. Ostsächsische Maschinenbautage
 24. – 26.11.2026 - SPS Nürnberg
 Unsere bevorstehenden Termine 2027
 27. - 28.01.2027 - all about automation Berlin
 02. - 03.03.2027 - all about automation Friedrichshafen
 15. - 16.09.2027 - all about automation Chemnitz
-AMC auf den 12. Ostsächsischen Maschinenbautagen 2026
-Am 28. und 29. Oktober 2026 finden die 12. Ostsächsischen Maschinenbautage im Technologie- und Gründerzentrum Bautzen statt. Im Mittelpunkt der Veranstaltung steht das Thema „Robotik im Maschinenbau“ .
-Auch wir - die AMC – Analytik & Messtechnik GmbH Chemnitz ist an beiden Veranstaltungstagen vertreten und präsentiert am 28. Oktober 2026 im Rahmen der Begleitausstellung ihre Lösungen aus den Bereichen Mess-, Prüf- und Automatisierungstechnik.
-Wir freuen uns auf interessante Fachgespräche, neue Kontakte und den persönlichen Austausch über aktuelle Entwicklungen und Herausforderungen in der Industrie.
 AMC auf der SPS 2026 in Nürnberg
 Vom 24. bis 26. November 2026 sind wir auf der SPS – Smart Production Solutions 2026 in Nürnberg vertreten.
 Als Unteraussteller unseres Partners Advantech finden Sie uns in Halle 7 | Stand 380 . Dort präsentieren wir unsere Lösungen AMC iFactory X und SENSOmaster32 Energy für die Erfassung, Übertragung, Visualisierung und Analyse industrieller Prozess- und Energiedaten.
@@ -212,6 +207,10 @@ Damit lassen sich Energieverbräuche einzelner Maschinen und Anlagen sowohl temp
 Besuchen Sie uns auf dem Advantech Messestand in Halle 7 | Stand 380 und erleben Sie das Zusammenspiel von Energiedatenerfassung, LoRaWAN-Kommunikation und AMC iFactory X in der Praxis.
 Wir freuen uns auf Ihren Besuch auf der SPS 2026 in Nürnberg!
 Rückblick: Messen und Veranstaltungen
+AMC auf den 12. Ostsächsischen Maschinenbautagen 2026
+Am 28. und 29. Oktober 2026 fanden die 12. Ostsächsischen Maschinenbautage im Technologie- und Gründerzentrum Bautzen statt. Im Mittelpunkt der Veranstaltung stand das Thema „ Robotik im Maschinenbau “.
+Auch wir – die AMC – Analytik & Messtechnik GmbH Chemnitz – waren an beiden Veranstaltungstagen vertreten und präsentierten am 28. Oktober 2026 im Rahmen der Begleitausstellung unsere Lösungen aus den Bereichen Mess-, Prüf- und Automatisierungstechnik.
+Die Veranstaltung bot zahlreiche Gelegenheiten für interessante Fachgespräche, neue Kontakte und einen persönlichen Austausch über aktuelle Entwicklungen und Herausforderungen in der Industrie.
 AMC beim NI Tech Day Berlin 2026
 Am 13. Oktober 2026 war die AMC – Analytik & Messtechnik GmbH Chemnitz beim NI Tech Day Berlin 2026 mit einem eigenen Fachvortrag vertreten. Die Veranstaltung bot spannende Einblicke in aktuelle Entwicklungen der Test-, Mess- und Automatisierungstechnik sowie Gelegenheit zum fachlichen Austausch.
 Unter dem Titel „NVH Testing für elektrische Maschinen – Von der Messung zur Ursache“ zeigte unser Referent Christian Göbel , wie moderne Mess- und Datenerfassungssysteme zur Analyse von Schwingungen und Geräuschen elektrischer Maschinen eingesetzt werden können.
@@ -225,4 +224,4 @@ Projektabschluss des RUBIN-Bündnisses DuSwaP in Chemnitz
 Als Konsortialpartner im RUBIN-Bündnis DuSwaP hat sich die AMC – Analytik & Messtechnik GmbH Chemnitz maßgeblich an der Prozessüberwachung für die Fertigung von Brennstoffzellen- und Elektrolyseur-Stacks beteiligt. Unser Schwerpunkt lag dabei auf einer umfassenden Datenerfassung auf Basis moderner IoT-Edge-Systeme entlang der Prozesskette.
 Am 9. Juni 2026 fand im Fraunhofer IWU in Chemnitz die Abschlussveranstaltung des dreijährigen Forschungs- und Entwicklungsprojekts statt. Im Rahmen der Veranstaltung präsentierten die Partner des Konsortiums ihre gemeinsamen Ergebnisse entlang der Stack-Prozesskette.
 Im Fokus standen skalierbare Technologien für eine qualitätsgesicherte und automatisierte Fertigung sowie Ansätze zur industriellen Skalierung von Fertigungs- und Prüfprozessen. Die Veranstaltung bot interessante Einblicke in die zentralen Projektergebnisse und Gelegenheit zum Austausch zwischen Industrie und Forschung.
-AMC stellte dabei die im Projekt entwickelten Lösungen zur Prozessüberwachung und Datenerfassung vor und zeigte, wie moderne IoT-Edge-Systeme zur transparenten und datenbasierten Überwachung indu
+AMC stellte dabei die im Projekt entwickelten Lösungen zur Prozessüberwachung und Datenerfassung vor und zeigte, wie moderne IoT-Edge-Systeme zur transparenten und datenbasierten Überwachung industrieller F

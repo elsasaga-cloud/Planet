@@ -1,4 +1,4 @@
-# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-DT-700 - Senzor AI cu camera, de detectie a persoanelor, cu functie de deschidere si protectie anti-coliziune, pentru usi automate
-CAB4-PS5-gy(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, negru-gri, cu pini magnetici pentru fixare controler
-S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
-CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
-INBIO-1-2PRO-PLUS - Centrala biometrica de control acces IP pentru 1 usa, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
-G3-TT - Gateway Bluetooth–LAN pentru incuietori inteligente TTLock, conexiune Ethernet RJ45
 BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
-BMPB-Z311-900 - Poarta batanta bidirectionala cu servomotor brushless, senzori deschidere automata, calea de trecere de 900mm
-QK-M1000BKIT(V2)+ - Kit automatizare porti culisante, controler digital QK-CE24AQ, max. 1000kg, 24Vcc
-T-LR(V3) - Cititor carduri Mifare 13.56MHz, ecran LCD 3.4” inch pentru citirea cardurilor incuietorilor adresabile T-0880
-MBK-380MC - Suport pentru montarea aparenta a contraplacii electromagnetilor YMP-380M
-CAB4-PS5-wh(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, alb, cu pini magnetici pentru fixare controler
-BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
-INBIO-2-2PRO-PLUS - Centrala biometrica de control acces IP pentru 2 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
+G3-TT - Gateway Bluetooth–LAN pentru incuietori inteligente TTLock, conexiune Ethernet RJ45
 S535(BRAK.S) - Suport montare aplicata pentru videointerfoanele IP Akuvox S535
+INBIO-4-2PRO-PLUS - Centrala biometrica de control acces IP pentru 4 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
+MBK-380MC - Suport pentru montarea aparenta a contraplacii electromagnetilor YMP-380M
+CCA3-4-2PLUS - Centrala de control acces IP pentru 4 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
+T-LR(V3) - Cititor carduri Mifare 13.56MHz, ecran LCD 3.4” inch pentru citirea cardurilor incuietorilor adresabile T-0880
+S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
+CAB4-PS5-gy(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, negru-gri, cu pini magnetici pentru fixare controler
+BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
+PB-16-NO(LED)-rdgn - Buton de iesire, contact NO, Led semnalizare, filet M16, actionare prin apasare
+DT-700 - Senzor AI cu camera, de detectie a persoanelor, cu functie de deschidere si protectie anti-coliziune, pentru usi automate
+S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

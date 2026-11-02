@@ -1,4 +1,4 @@
-# SB-1072 securame.com · home · https://www.securame.com/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1072 securame.com · home · https://www.securame.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
 Securame
 Contacte con nosotros
 Servicio al cliente
@@ -582,6 +582,7 @@ Contacte con nosotros
 Inicio
 Ver Productos
 VER PRODUCTOS
+<p><img src="https://www.securame.com/img/cms/OFERTA (2).png" width="1000" height="563" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 Video
 Intrusión
 Accesos
@@ -589,46 +590,45 @@ Software
 kits
 Accesorios
 INCENDIOS
-<p><img src="https://www.securame.com/img/cms/OFERTA (2).png" width="1000" height="563" style="display: block; margin-left: auto; margin-right: auto;" /></p>
 Más vendidos
 Ofertas
 Novedades
-5
+7
 MF-CARD Tarjeta de proximidad Mifare MF pasivo | Formato CR80
 Precio
 0,45 €
 Añadir al carrito
-1
+2
 CON300-CAT6 Conector RJ45 CAT6 para crimpar
 Precio
 0,20 €
 Añadir al carrito
-2
+3
 CON280A Conector alimentación 2.1mm hembra rápido
 Precio
 0,74 €
 Añadir al carrito
-1
+2
 CON285A Conector alimentación 2.1mm macho rápido
 Precio
 0,74 €
 Añadir al carrito
-1
+2
 DH-HAC-HDW1200CLQP-IL-A-0280B-S6 - Domo 4 en 1 de 2MP de exterior
 Precio
 23,15 €
 Añadir al carrito
-1
+2
 BA612P-HAC (par) Transceptor pasivo de video HD por par trenzado
 Precio
 5,78 €
 Fuera de stock
-0
+1
 Fuente de alimentación (transformador) 12VDC 5A con 4 salidas 2.1mm DC12V5A
 Precio
 15,70 €
 Añadir al carrito
-1
+2
 Pila CR123A 3.0V Litio - Compatible con diferentes productos de nuestro catálogo - No recargable
 Precio
 1,82 €
