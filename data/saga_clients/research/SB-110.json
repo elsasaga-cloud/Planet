@@ -2,7 +2,7 @@
  "code": "SB-110",
  "name_official": "iTKATI UG Ltd（ITKATI Uganda，Kampala；itkati.com）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（itkati.com：域名不可达（DNS/连接失败），2026-11-02，第 4 次）",
+ "website_status": "快照失败（itkati.com：域名不可达（DNS/连接失败），2026-11-03，第 5 次）",
  "summary": "乌干达坎帕拉的小型 IT/网络/安防集成商 iTKATI UG Ltd（2009 年起、2018 年登记；6–10 人；企业网络、CCTV、Starlink、云与托管、VoIP/对讲、软件；地址 Plot 965 Kyadondo/Makindye；care@itkati.com，+256 393 225 713）。表内联系人 Bob（technical@itkati.com，+256 704 575 328，WA 已加）：对价格 OK、想拿样并**贴自有标**，2024-02 要 4/8/16/24/64 口价格，2024-03 再问价；18 次推送 1 次实质回复。贴标 = OEM 档 30% → B（东非非主攻区，但意向明确）。",
  "type": "",
  "size": "",
@@ -55,7 +55,7 @@
  ],
  "grade_override": "B",
  "override_reason": "A-DEEP-11 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：iTKATI：坎帕拉 6–10 人 IT 小公司 → 微型",
- "notes": "LT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（官网 + 黄页/FB 核对）"
@@ -209,13 +209,15 @@
    "2026-10-21T09:23:26Z",
    "2026-10-29T15:26:51Z",
    "2026-11-01T09:55:03Z",
-   "2026-11-02T10:15:34Z"
+   "2026-11-02T10:15:34Z",
+   "2026-11-03T10:18:34Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ],
   "batch": "LT-T03"
  },

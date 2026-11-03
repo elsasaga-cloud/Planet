@@ -49,7 +49,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 中型分销 20%：TSS Group a.s.（36323551；Dubnica nad Váhom 2002；102–150 人；Dahua / Avigilon / Sony 进口分销 + 制造）坐实；对位 ✔ 欧洲 ✔ 坐实 ✔ 体量 ✔ 具名 sokol@ / roxer@ → P 池候选；闸 1：斯洛伐克 TSS Group（CCTV 集成商，自称斯洛伐克第二大 CCTV 批发商；对 IP / analog over fiber 感兴趣）：欧洲 + 批发商体量 + PoE 对位；电话加不上、企业邮箱在 → 闸 2 查底数",
- "notes": "LT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -154,12 +154,14 @@
   "consumed": [
    "2026-10-29T15:36:19Z",
    "2026-11-01T09:56:36Z",
-   "2026-11-02T10:16:19Z"
+   "2026-11-02T10:16:19Z",
+   "2026-11-03T10:19:19Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ],
   "batch": "LT-T03"
  },

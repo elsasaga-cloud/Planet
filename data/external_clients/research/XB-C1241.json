@@ -2,8 +2,8 @@
  "code": "XB-C1241",
  "name": "Hiperdist UAE",
  "round": "LT-T03",
- "researched_at": "2026-11-02",
- "alive": "快照失败（hiperdistuae.com：域名不可达（DNS/连接失败），2026-11-02，第 3 次）",
+ "researched_at": "2026-11-03",
+ "alive": "快照失败（hiperdistuae.com：域名不可达（DNS/连接失败），2026-11-03，第 4 次）",
  "summary": "Hiperdist UAE（阿联酋）：MEA最大IT分销商之一；公司全称=Hiperdist UAE；公司类型=MEA最大IT分销商之一；总部=Office 2115, Burjuman Business Tower, Sheikh Khalifa Bin Zay；客户优先级=🟢 A类（最高优先级）",
  "type_final": "MEA最大IT分销商之一",
  "size": "",
@@ -45,17 +45,19 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:53:23Z",
    "2026-11-01T09:58:15Z",
-   "2026-11-02T10:17:24Z"
+   "2026-11-02T10:17:24Z",
+   "2026-11-03T10:20:46Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ]
  }
 }

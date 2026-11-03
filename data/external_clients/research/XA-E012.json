@@ -2,8 +2,8 @@
  "code": "XA-E012",
  "name": "SoTel Systems",
  "round": "LT-T03",
- "researched_at": "2026-11-02",
- "alive": "快照失败（sotelsystems.com：域名不可达（DNS/连接失败），2026-11-02，第 3 次）",
+ "researched_at": "2026-11-03",
+ "alive": "快照失败（sotelsystems.com：域名不可达（DNS/连接失败），2026-11-03，第 4 次）",
  "summary": "圣路易斯的通信/网络设备批发分销商（1981 起，51–200 人，$12.8M），卖新品与翻新 IP 话机、网关、「managed network devices」，PE（Capital For Business）控股，5 万平方英尺仓库、美国 95% 三日达，另有拉美分销（Teleswitch）。10-19 发 info@ 未回。",
  "type_final": "通信/网络设备批发分销商（VoIP 渠道）",
  "size": "51–200 人；$12.8M（RocketReach）",
@@ -73,18 +73,20 @@
   "subject": "PoE switches for your IP phone and UC resellers",
   "body": "Hi Jim,\n\nI wrote on 19 October under \"24 Port PoE Managed Switch\"; this is a different angle, so a fresh note rather than a reply.\n\nEvery phone system your resellers ship needs PoE ports, and that is the one line we build: Marvell-based L2+ PoE switches, 8/16/24/48 ports, 10G uplinks, LLDP-MED and voice VLAN for phones, FCC/CE, 12-month warranty. Reference: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days) at distributor level; smaller 8- and 16-port PoE units from USD 30.\n\nWould a distributor price sheet for the PoE range be useful for your product team?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n不提翻新/二手；不提 NEC/Adtran。",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n不提翻新/二手；不提 NEC/Adtran。",
  "deep": false,
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:43:10Z",
    "2026-11-01T09:57:24Z",
-   "2026-11-02T10:17:02Z"
+   "2026-11-02T10:17:02Z",
+   "2026-11-03T10:20:23Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ]
  }
 }

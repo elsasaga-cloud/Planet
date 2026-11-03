@@ -2,8 +2,8 @@
  "code": "XB-E027",
  "name": "NDC JOINT STOCK COMPANY",
  "round": "LT-T03",
- "researched_at": "2026-11-02",
- "alive": "快照失败（hcm.vnn.vn：域名不可达（DNS/连接失败），2026-11-02，第 3 次）",
+ "researched_at": "2026-11-03",
+ "alive": "快照失败（hcm.vnn.vn：域名不可达（DNS/连接失败），2026-11-03，第 4 次）",
  "summary": "NDC JOINT STOCK COMPANY（越南 · Ho Chi Minh City）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
@@ -58,17 +58,19 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:53:50Z",
    "2026-11-01T09:58:15Z",
-   "2026-11-02T10:17:26Z"
+   "2026-11-02T10:17:26Z",
+   "2026-11-03T10:20:47Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ]
  }
 }

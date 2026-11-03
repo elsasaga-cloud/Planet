@@ -2,8 +2,8 @@
  "code": "XC-M097",
  "name": "Piero Bersanini",
  "round": "LT-T03",
- "researched_at": "2026-11-02",
- "alive": "快照失败（pierobersanini.com：HTTP 错误，2026-11-02，第 3 次）",
+ "researched_at": "2026-11-03",
+ "alive": "快照失败（pierobersanini.com：HTTP 错误，2026-11-03，第 4 次）",
  "summary": "Piero Bersanini（P.IVA IT09290730150）：工业电气 / 自动化元件网店 + 分销（Westermo Gold、PULS、E-T-A）；help@ 为客服箱",
  "type_final": "分销（Westermo Gold）；Piero Bersanini（P.IVA IT09290730150）",
  "size": "",
@@ -33,18 +33,20 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPiero Bersanini（P.IVA IT09290730150）；via Giacosa 3, 20127 Milano；P.IVA IT09290730150；+39 02 268531",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPiero Bersanini（P.IVA IT09290730150）；via Giacosa 3, 20127 Milano；P.IVA IT09290730150；+39 02 268531",
  "draft_en": null,
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:57:07Z",
    "2026-11-01T09:58:39Z",
-   "2026-11-02T10:17:27Z"
+   "2026-11-02T10:17:27Z",
+   "2026-11-03T10:20:49Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ]
  }
 }

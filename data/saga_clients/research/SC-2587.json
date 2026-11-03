@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 香港 · 品牌商 OEM 30%：tactio Corporation（Lai Chi Kok；2006；自有品牌 INEO 工业 PoE + 交换机 8–48 口 + MC + AP 全线）部分坐实（CR 未取）；自有品牌全线 ✔ 已贴牌中国同类 ✔ 对位 ✔ → P 池候选（换 OEM 稿）；闸 1：香港 Tactio（tactio.net；工业 FS / PoE / MC 周边；「工业 FS 看着像国内外壳，有人卖他们的」= 贴自有牌；8 推 0 回）：自有品牌 = OEM 对象 ✔ 对位 ✔；→ 闸 2 查底数（HK 公司注册 /…",
- "notes": "LT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -145,12 +145,14 @@
   "consumed": [
    "2026-10-29T15:38:07Z",
    "2026-11-01T09:56:38Z",
-   "2026-11-02T10:17:01Z"
+   "2026-11-02T10:17:01Z",
+   "2026-11-03T10:20:22Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ],
   "batch": "LT-T03"
  },

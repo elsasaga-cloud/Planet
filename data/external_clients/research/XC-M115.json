@@ -2,8 +2,8 @@
  "code": "XC-M115",
  "name": "Phoebe IDF",
  "round": "LT-T03",
- "researched_at": "2026-11-02",
- "alive": "快照失败（distribution.phoebe.fr：HTTP 错误，2026-11-02，第 3 次）",
+ "researched_at": "2026-11-03",
+ "alive": "快照失败（distribution.phoebe.fr：HTTP 错误，2026-11-03，第 4 次）",
  "summary": "PHOEBE Ile de France（SIRET 41208081400095）：电信 / 光传输工程 + 子公司 PHOEBE Fibres 供应光缆跳线（ORing 授权分销 distribution.phoebe.fr）；1996 起；75 人（Verif）/ 51–200（LinkedIn）",
  "type_final": "分销（ORing 授权）；PHOEBE Ile de France（SIRET 41208081400095）",
  "size": "",
@@ -47,18 +47,20 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPHOEBE Ile de France（SIRET 41208081400095）；4 avenue du Paraná, 91940 Les Ulis（+ Aquitaine / PACA 分部）；SIRET 412 080 814 00095；+33 1 85 41 03 00",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPHOEBE Ile de France（SIRET 41208081400095）；4 avenue du Paraná, 91940 Les Ulis（+ Aquitaine / PACA 分部）；SIRET 412 080 814 00095；+33 1 85 41 03 00",
  "draft_en": null,
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:57:16Z",
    "2026-11-01T09:58:39Z",
-   "2026-11-02T10:17:27Z"
+   "2026-11-02T10:17:27Z",
+   "2026-11-03T10:20:49Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ]
  }
 }

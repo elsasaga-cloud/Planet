@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：GOTE, S.A.（品牌 GTLAN；Paterna 1984；自有品牌网络产品制造 + 分销，已在卖宇航 / GXcom 工业线）坐实（法人 + 地址，CIF 未取）；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 进口经验 ✔ → P 池候选；闸 1：西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
- "notes": "LT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -145,12 +145,14 @@
   "consumed": [
    "2026-10-29T15:34:34Z",
    "2026-11-01T09:56:38Z",
-   "2026-11-02T10:16:28Z"
+   "2026-11-02T10:16:28Z",
+   "2026-11-03T10:19:28Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ],
   "batch": "LT-T03"
  },
