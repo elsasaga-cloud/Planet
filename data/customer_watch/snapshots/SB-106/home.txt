@@ -1,4 +1,4 @@
-# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 citiCalls
 – citiCALLS
 Skip to content
@@ -445,7 +445,6 @@ Rackmount
 Rail kit
 Reel Kit
 Remote Computer
-Remote Pointer
 Ribbon Cartridge
 Riser Card
 Routers
@@ -505,7 +504,6 @@ Toner Cartridge
 Tool Set
 TPM Module
 Tripod
-TV
 Toner Cartridge
 UPS
 UPS Accesssories
@@ -770,4 +768,4 @@ United States (USD
 $)
 Your cart is empty
 Continue shopping
-Pro
+Product added to cart

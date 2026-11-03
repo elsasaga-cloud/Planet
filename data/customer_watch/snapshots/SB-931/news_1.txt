@@ -1,4 +1,4 @@
-# SB-931 Wave1 Pty Ltd · news_1 · https://wave1.com.au/news-media/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-931 Wave1 Pty Ltd · news_1 · https://wave1.com.au/news-media/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 News & Media | Wave1 | Telecommunications Australia
 Wave1
 Site Menu
@@ -87,7 +87,7 @@ Read More
 Next »
 Need help with the right solution?
 Enquire with us
-Instagram
+URL
 This field is for validation purposes and should be left unchanged.
 Name *
 Company *

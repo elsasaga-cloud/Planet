@@ -1,4 +1,4 @@
-# SB-683 spectra.de · home · https://spectra.de/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-683 spectra.de · home · https://spectra.de/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Spectra - Der Partner für Industrie-PC und Automation
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -87,6 +87,7 @@ Verteidigung & Sicherheit
 Logistik
 Automotive
 Railway
+Halbleiterfertigung
 Trendthemen
 Industrie 4.0 & IIoT
 Produkte IIoT

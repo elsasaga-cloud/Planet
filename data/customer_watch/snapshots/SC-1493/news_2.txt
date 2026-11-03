@@ -1,4 +1,4 @@
-# SC-1493 duxbury.co.za · news_2 · https://www.duxbury.co.za/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-1493 duxbury.co.za · news_2 · https://www.duxbury.co.za/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog – Duxbury Networking
 Have Any Questions?
 011 351 9800
@@ -113,6 +113,10 @@ The Duxbury Networking Blog offers fresh perspectives on the technologies we dis
 Whether you're a reseller, system integrator, or industry decision-maker, you'll find content that keeps you informed, inspired, and ready to deliver smarter solutions.
 Stay connected. Stay ahead.
 Blog
+The next network bottleneck is hiding in the uplink
+November 2, 2026
+Duxbury Networking
+Blog
 Cambium MarketApps turns network expertise into repeatable workflows
 September 28, 2026
 Duxbury Networking
@@ -155,10 +159,6 @@ Duxbury Networking
 Blog
 Strengths and evolution of Sophos: A practical view from the front lines
 April 21, 2026
-Duxbury Networking
-Blog
-Building Resilient Connectivity for Modern Logistics
-April 14, 2026
 Duxbury Networking
 1 2 3 4
 Category

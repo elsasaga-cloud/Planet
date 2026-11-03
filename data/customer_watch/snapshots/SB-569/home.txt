@@ -1,6 +1,6 @@
-# SB-569 cablematic.com · home · https://cablematic.com/en/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-569 cablematic.com · home · https://cablematic.com/en/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Cablematic
-+49 32211001061
++34 934987121
 Register
 Log in
 / EUR /
@@ -644,4 +644,4 @@ Simplex 9/125 ST/PC to ST/APC Cable
 Simplex MM 50/125 PC Cable
 +
 -
-Simplex 
+Simplex OM

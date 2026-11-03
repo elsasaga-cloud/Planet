@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -297,36 +297,37 @@ Wisnetworks WIS-ANS2417-90 MIMO Sector
 199,00 zł netto
 szt
 Najniższa cena z 30 dni: 420,22 zł
-Uchwyt kablowy KO12, na przewód okrągły ø 12 mm
-6,03 zł z VAT
-10,46 zł
-4,90 zł netto
+Sektor Tornado Pro 18 SV
+129,15 zł z VAT
+221,40 zł
+105,00 zł netto
 szt
-Najniższa cena z 30 dni: 10,46 zł
-Wisnetworks WIS-L5825D Hi-Power Outdoor Wireless Backhaul
-479,70 zł z VAT
-690,77 zł
-390,00 zł netto
+Najniższa cena z 30 dni: 221,40 zł
+Szafkowy zasilacz buforowy ZBF-R35D
+170,97 zł z VAT
+212,79 zł
+139,00 zł netto
 szt
-Najniższa cena z 30 dni: 690,77 zł
-Tenda N3L-16H 16-kanałowy sieciowy rejestrator wideo HD
-276,75 zł z VAT
-308,79 zł
-225,00 zł netto
+Najniższa cena z 30 dni: 212,79 zł
+WYPRZEDAŻ
+Uchwyt kablowy KO16, na przewód okrągły ø 16 mm
+4,80 zł z VAT
+14,76 zł
+3,90 zł netto
 szt
-Najniższa cena z 30 dni: 308,79 zł
-Wisnetworks WIS-L520AC Sector Base Station
-479,70 zł z VAT
-805,90 zł
-390,00 zł netto
+Najniższa cena z 30 dni: 14,76 zł
+Szafkowy zasilacz buforowy ZBF-R35E
+183,27 zł z VAT
+232,47 zł
+149,00 zł netto
 szt
-Najniższa cena z 30 dni: 805,90 zł
-Wisnetworks WIS-L5800N Hi-Power Base Station
-356,70 zł z VAT
-431,73 zł
-290,00 zł netto
+Najniższa cena z 30 dni: 232,47 zł
+Tenda B6 Stacja bazowa 5 GHz
+282,90 zł z VAT
+372,00 zł
+230,00 zł netto
 szt
-Najniższa cena z 30 dni: 431,73 zł
+Najniższa cena z 30 dni: 372,00 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
@@ -363,9 +364,9 @@ TP-Link EAP727
 561,17 zł netto
 szt
 NOWOŚĆ
-TP-Link Fusion 2.5G
-1 069,85 zł z VAT
-869,80 zł netto
+TP-Link Fusion 2.5G PoE
+1 668,25 zł z VAT
+1 356,30 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
@@ -382,4 +383,6 @@ more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
 Koszty przesyłki:
-DHL: od 13 PLN (net
+DHL: od 13 PLN (netto)
+FedEx: od 14.90 PLN (netto)
+Paczkomat: od 14 PLN (netto)

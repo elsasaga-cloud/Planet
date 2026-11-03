@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -27,13 +27,13 @@ Energía Solar BASEL
 BASEL Racking Systems: La Base de la Energía Solar en México
 BASEL combina ingeniería alemana con más de 20 años de experiencia y garantía de 25 años, con estructuras certificadas UL 2703 para proyectos solares en todo México.
 JL
-JORGE LUIS CHAVEZ SAENZ · hace 3 días
+JORGE LUIS CHAVEZ SAENZ · hace 4 días
 Videovigilancia Streamax
 Dashcam con ADAS y DSM: IA para prevenir fatiga y distracciones en flotas
-Alfonso Berumen · hace 5 días
+Alfonso Berumen · hace 6 días
 MCDI Alarmas e Intrusión
 Inicia tu central de monitoreo de alarmas con el kit MCDI KITSTPLUSM42
-JOSE ERNESTO ARMENDARIZ GONZALEZ · hace 6 días
+JOSE ERNESTO ARMENDARIZ GONZALEZ · hace 1 sem
 Casa Inteligente Lanzamientos
 Nuevos modelos SwitchBot en SYSCOM: relevadores Matter, Curtain 3 y panel solar
 ANDREA BERENICE MUELA MELENDEZ · hace 1 sem
@@ -51,13 +51,13 @@ Tu reunión, tu laptop, un cable: por qué BYOD le gana al sistema cerrado
 ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 2 sem
 Telefonía IP Fanvil
 La bocina que se impone al exterior: cómo elegir un intercomunicador IP que sí se escuche
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 2 sem
+ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 3 sem
 Videovigilancia hikvision
 Hik-Partner Pro: gestión remota de todos tus clientes desde un solo panel
-Jorge Saad · hace 2 sem
+Jorge Saad · hace 3 sem
 Networking hikvision
 El switch que te salva el viaje: por qué la administración remota te ahorra dinero (y dolores de cabeza)
-ROBERTO ESPINO PORTILLO · hace 2 sem
+ROBERTO ESPINO PORTILLO · hace 3 sem
 Guanlan Encoding de Hikvision: cómo ahorrar hasta 50% de almacenamiento en videovigilancia
 NICOLAS EDUARDO JIMENEZ GONZALEZ · hace 3 sem
 Videovigilancia hikvision

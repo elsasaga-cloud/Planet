@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Sennheiser, Tenda
 91 084 10 11 Atención comercial: Lunes a jueves de a , y los viernes de a Instant Blog Estilo vintage Categorías clásicas ES EN PT
 Mayoristas especializados Soluciones networking.
@@ -396,17 +396,15 @@ ZTE
 Ofertas
 Liquidación
 ¿Eres profesional del sector? Date de alta y accede a los precios más competitivos del sector Quiero ver los precios Ofertas Ver todas
-HILOOK THC-T110(6mm) 1MP, Metal&Plastic, IP66, 1MP CMOS Sensor, Outdoor EXIR Eyeball, 20m IR, ICR, 0.01 Lux/F1.2, 12 VDC, Smart Ver precio −40 %
-Uniview IPC322SR3-DVPF28-C - Cámara IP Antivandálica Formato Domo, Resistente a Intemperie, Resolución 2MP 30fps (1920x1080px), Lente Fija (2.8mm), Visión Nocturna IR 30m, Alimentación PoE y por Fuente (no incl.), Ranura MicroSD Ver precio −18 %
-Dahua DHI-NVR4232-EI - Grabador IP de Sobremesa, 32 Canales hasta 16MP, Capacidad para 2 HDD de 16TB (no incl.), Compresión H.265+/Smart H.264+, Ancho de Banda 256/256Mbps de Entrada/Salida Ver precio −15 %
+Mikrotik XQ+BC0003-XS+ Cable divisor QSFP28 a 4xSFP28 (100G a 4x25G) de 3 metros Ver precio −6 %
+D-Link DGS-105 5-port 10/100/1000Mbps Gigabit Switch - Metal Housing - Unmanaged Copper Gigabit Ethernet Switch - 5 x 10/100/100 Ver precio −27 %
+Tenda Nova MW5s(3-pack) Kit WiFi Mesh AC1200, Incluye Router Mesh5 y 2x Satelites Mesh3f Ver precio −12 %
 Grandes OFERTAS en productos Huawei seleccionados % % % WIFI 6 WIFI 6 HUAWEI eKit Transceiver
 óptico eSFP-GE-SX-MM850 Punto
 de acceso AP361 Punto
 de acceso AP263 Switch
 gestionable Capa 3 · S310-24P4S
 DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO Zona de liquidación Aprovecha grandes descuentos DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO Comunicados
-Festivo 2 de noviembre permaneceremos cerrados por traslado de la festividad de Todos los Santos
-Con motivo del traslado de la festividad de Todos los Santos el lunes 2 de noviembre permaneceremos cerrados. El martes 3 de noviembre volvemos con nuestro horario habitual. Disculpen las molestias.
 Recogida de pedidos: Lunes a viernes de a .
 Atención comercial: Lunes a jueves de a , y los viernes de a .
 Envío en el día: los pedidos hechos antes de las .
@@ -418,15 +416,15 @@ si quiere darse de alta como cliente nuestro pinche aquí
 ❯
 Noticias Instant Byte
 Ir al blog
-Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
-Grandstream ha comunicado que sus productos y servicios no están afectados por PHP2Shell, nombre con el que se conocen dos vulnerabilidades críticas de PHP: CVE-2026-109618 y CVE-2026-109619. Tras revisar su catálogo y sus servicios en la nube, el fabricante afirma que ni sus equipos, ni su firmware, ni sus aplicaciones de software, ni sus soluciones cloud utilizan PHP. Por ello, según el comunicado de Grandstream del 27 de octubre de 2026, sus clientes y partners no tienen que realizar ninguna acción específica en sus despliegues Grandstream por estas dos CVE. Qué ha comunicado Grandstream…
+Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inalámbrica y botón de IA
+Grandstream estrena la gama GRP Pro con dos teléfonos IP de escritorio, el GRP2615 Pro y el GRP2624 Pro, que suman a la serie GRP profesional una mangueta inalámbrica Bluetooth con hasta 30 horas de conversación y un botón de IA para manejar la telefonía con la voz. Incorporan además Wi‑Fi, PoE, doble puerto Gigabit y una pantalla en color de ángulo ajustable. Son la evolución de los GRP2615 y GRP2624, y se reconocen por el sufijo Pro en el nombre. Repasamos qué los distingue de los modelos actuales, qué aporta cada uno y para qué puestos encajan mejor en una instalación profesional. Dos…
+3 nov 2026 Seguir leyendo Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
 29 oct 2026 Seguir leyendo MikroTik CLAIRÉ y CLAIRÉ Lite: calidad del aire interior con Matter over Thread
 28 oct 2026 Seguir leyendo UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones remotas
 28 oct 2026 Seguir leyendo Grandstream GWN7672WM: Wi-Fi 7 tribanda de pared con uplink de 5 GbE
 27 oct 2026 Seguir leyendo Videoporteros IP Grandstream: control de accesos, comunicación y gestión en una sola solución
 26 oct 2026 Seguir leyendo Webinar práctico: Control de accesos y videoporteros IP con Grandstream | 6 de noviembre
-26 oct 2026 Seguir leyendo Yealink MP66W Teams: comunicación móvil y resistente para equipos de primera línea
-22 oct 2026 Seguir leyendo
+26 oct 2026 Seguir leyendo
 Formación y certificaciones
 Calendario
 Certificación oficial Ubiquiti BARCELONA 16, 17 y 18 de noviembre de 2026 - Unifi All in One: UFSP, UWA, URSCA 749,95 € + IVA
@@ -438,13 +436,15 @@ Webinar práctico Megafonía IP con Grandstream: integración de UCM y altavoces
 Webinar práctico Conecta edificios sin desplegar fibra: puesta en marcha del Grandstream GWN7302 | 4 diciembre l 2026 | 4 dic 2026 · Gratuito
 Productos destacados
 Ver todos
-Interline INT-FEE-xx/5x-HV
-Feeder / Alimentador para Disco Parabólico 5 Ghz Ver precio
-Ubiquiti LBE-5AC-GEN2-5
-5GHz LiteBeam AC,Gen2,5-Pack Ver precio
+Ubiquiti USW-PRO-48-POE
+UniFi Gigabit Switch con 48 puertos, capa 2 y capa 3. Incluye auto-sensing 802.3at PoE+ y 802.3bt PoE++. 40x PoE+ y 8x PoE++ RJ45. 4x SFP+ 10Gb. PoE budget 600W Ver precio
+Huawei eKit Ideahub IHS2-65SA
+Pantalla inteligente Ideahub S2, 65 inch. Blanco jade. BYOM. WiFi6. Latencia escritura 16ms. Pantalla y camara 4K. Sonido HD (4 altavoce 40dB). Micrófonos alcance 12m. Low Blue Light. Ver precio
+Grandstream GRP2604P
+Teléfono IP PoE,6 cuentas SIP,3 líneas,4 teclas programables XML y 10 teclas BLF, conferencia hasta 5 vías,2xGbE PoE.Compatible con plataforma GDMS.Conector auricular RJ9.Pantalla LCD 2,7'.5V/0,6A Ver precio
+Mikrotik CRS326-24S+2Q+RM
+Cloud Router Switch 2x QSFP+ de 40G, 24x SFP+ de 10G, 1 puerto LAN para gestión, RouterOS L5 o SwitchO Ver precio
 Dahua DHI-ASI6214J-MFW
 Terminal control de accesos Dahua con detección facial Ver precio
-Huawei eKit MiniFTTO F100D-4G −3 %
-MiniFTTO ONT/ONU OptiXtar GPON 1xSC/UPC 4xGE Ver precio
-Yealink SIP-T46U
-Teléfono Diseño 16 cuentas SIP, CON PoE, SIN
+Huawei eKit Datacom AP361 −30 %
+Punto de acce

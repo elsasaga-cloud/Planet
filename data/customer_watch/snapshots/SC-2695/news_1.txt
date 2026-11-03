@@ -1,4 +1,4 @@
-# SC-2695 everfocus.com · news_1 · https://www.everfocus.com/news/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-2695 everfocus.com · news_1 · https://www.everfocus.com/news/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 News-Everfocus
 PRODUCTS
 Products
@@ -125,6 +125,10 @@ News
 Events
 Awards
 Youtube Channel
+2026.11.02
+Awards
+EverFocus Wins Five 2027 Taiwan Excellence Awards for Edge AI Innovation
+Recognized solutions span intelligent video monitoring, edge AI cameras, robotics, and manufacturing quality inspection
 2026.10.29
 News
 EverFocus Partners with SiMa.ai to Expand Physical AI Portfolio for Drones and Autonomous Systems
@@ -146,10 +150,6 @@ As AI moves closer to cameras, machines, robots, and industrial systems, more in
 News
 EverFocus Joins Arm Total Design for Physical AI to Advance Scalable Edge AI Solutions
 EverFocus has joined Arm Total Design for Physical AI, collaborating with Arm and a global ecosystem of technology partners to help accelerate the development, validation, and deployment of next-generation Physical AI solutions.
-2026.08.19 - 2026.08.22
-News
-EverFocus Showcases Physical AI for Smart Manufacturing Solutions Powered by NVIDIA Technology at Automation Taipei 2026
-Four demonstrations span perception, understanding, decision-making, and action through NVIDIA accelerated computing, edge AI vision, intelligent video analytics, and robotics
 1
 2
 3

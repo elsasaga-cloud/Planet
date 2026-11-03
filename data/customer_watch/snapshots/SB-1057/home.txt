@@ -1,4 +1,4 @@
-# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -44,152 +44,172 @@ Producatori
 Galerie foto
 Diplome si premii
 Curs valutar
-02-Nov-2026
-1 EURO = 5.3426 RON
-1 USD = 4.7698 RON
+03-Nov-2026
+1 EURO = 5.3403 RON
+1 USD = 4.7658 RON
 Mondo Plast
-fibra optica switch router poe gigabit router wireless switch gigabit sfp ap stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
+fibra optica switch router poe gigabit router wireless switch gigabit ap sfp stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Amplificator optic EDFA 16dB
-nextraCOM - EDFA 16DB
-3,630.30 LEI
-pret fara TVA
-cuTVA: 4,392.66 LEI
-OTDR, Optical Power Meter
-Braun Group - OTDR LOT 5200â€“ST46
-23,100.00 LEI
-pret fara TVA
-cuTVA: 27,951.00 LEI
-OTDR, Optical Power Meter
-Braun Group - OTDR LOT 5200â€“SD45
-19,700.00 LEI
-pret fara TVA
-cuTVA: 23,837.00 LEI
-Power Meter 8 lungimi de unda, Normal
-Braun Group - HS-FCPM
-85.48 LEI
-pret fara TVA
-cuTVA: 103.43 LEI
-Electronic Fiber Microscope
-Braun Group - EFM-400
-3,686.39 LEI
-pret fara TVA
-cuTVA: 4,460.54 LEI
-Optical Fiber Microscope
-Braun Group - OFM-400
-454.12 LEI
-fara TVA
-379.32 LEI
-pret fara TVA
-cuTVA: 458.98 LEI
-Optical Fiber Microscope
-Braun Group - OFM-200
-443.44 LEI
-fara TVA
-379.32 LEI
-pret fara TVA
-cuTVA: 458.98 LEI
-Optical Light Source
-Braun Group - BG-35-PON
-1,292.91 LEI
-pret fara TVA
-cuTVA: 1,564.42 LEI
-PON Power Meter
-Braun Group - HS-PONPM
-432.75 LEI
-pret fara TVA
-cuTVA: 523.63 LEI
-Optical Multimeter 2 in 1 Noyafa NF909, 850, 1300, 1310, 1490, 1550, 1625nm
-Braun Group - NF-909
-582.63 LEI
-fara TVA
-445.89 LEI
-pret fara TVA
-cuTVA: 539.53 LEI
-Media Convertor Gigabit, 10/100/1000 Mbps SFP to RJ45
-Cudy - MC220
-69.45 LEI
-pret fara TVA
-cuTVA: 84.04 LEI
-Set Media Convertor Stonet, 1-port 10/100 Mbps RJ45,20 KM, 1000 Mbps Single-mode
-Stonet - NFC-20A/NFC-20B
-123.68 LEI
-pret fara TVA
-cuTVA: 149.65 LEI
-Set Media Convertor Stonet, 1-port 10/100/1000 Mbps RJ45,Gigabit,3 KM, 1000 Mbps Single-mode
-Stonet - NFG-03A/NFG-03B
-140.03 LEI
-pret fara TVA
-cuTVA: 169.44 LEI
-Media Convertor Gigabit WDM, 1-port 10/100/1000M + 1-port 1000FX (Tx1310nm),10km
-Braun Group - GTR10WA
-69.45 LEI
-pret fara TVA
-cuTVA: 84.04 LEI
-10GSFP Media Convertor 10G slot SFP; port RJ45 10G/5G/2.5G, 12Volt sursa
-Braun Group - 10GTR-SFP+
-186.99 LEI
-fara TVA
-149.59 LEI
-pret fara TVA
-cuTVA: 181.01 LEI
-MGTRA-20km WDM, Minicase Gigabit Media Convertor 20km SC, Tx1310nm/Rx1550nm, 12V... 5V,
-Braun Group - MGTR-20A
-64.11 LEI
-pret fara TVA
-cuTVA: 77.57 LEI
-Mini Media Convertor SFP,5V-12V DC
-Braun Group - MGTR-SFP
-53.43 LEI
-pret fara TVA
-cuTVA: 64.65 LEI
-Gigabit Online Micro Media Convertor WDM- single fiber, 1310nm Tx/1550Rx, 12 Volt Power pass
-Braun Group - HMC611V1-A uMCA
-69.45 LEI
-pret fara TVA
-cuTVA: 84.04 LEI
-Media Convertor Gigabit WDM, 1-port 10/100/1000M + 1-port 1000FX (Tx1310nm),20km
-Braun Group - GTR20WA
-85.48 LEI
-fara TVA
-80.14 LEI
-pret fara TVA
-cuTVA: 96.97 LEI
-Patch panel optic 36*quad LC/APC , sliding mechanism, accesorii pentru 144 suduri, 19"/1.5U
-Braun Group - PPS-36LAPC-Q
-341.93 LEI
-fara TVA
-309.87 LEI
-pret fara TVA
-cuTVA: 374.94 LEI
-Patch panel optic ODF 2U
-Braun Group - GB-B-24-SC-APC
-222.56 LEI
-fara TVA
-111.28 LEI
-pret fara TVA
-cuTVA: 134.65 LEI
-Cutie jonctiune optica compacta 4 casete *24 (echipata complet max 96core-FOSC96)
-Braun Group - GPJM-24-48-96
-85.48 LEI
-pret fara TVA
-cuTVA: 103.43 LEI
-Patch panel optic ODF 2U
-Braun Group - GB-B-24 SC-PC
-200.30 LEI
-fara TVA
-100.15 LEI
-pret fara TVA
-cuTVA: 121.18 LEI
 Router AX6000 WiFi6, 2*2.5G ports & 3 *Giga, USB3.0, WPA3, TR069, Stonet App, 2025
 Stonet - NX62
-277.82 LEI
+277.70 LEI
 pret per bucata
 pret fara TVA
-cuTVA: 336.16 LEI
+cuTVA: 336.01 LEI
+AC1200 Wi-Fi 4G LTE-Cat6 4 port Gigabit Router, built-in 4G/ nano SIM
+Cudy - LT700E
+299.06 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 361.86 LEI
+AC1200 Wi-Fi 4G LTE-Cat4 Router, build-in SIM 4G LTE modem, 4 ports RJ45
+Cudy - LT500E-4G
+181.57 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 219.70 LEI
+Router Wireless Gigabit CUDY WR3600H BE3600, Wi-Fi 7, Dual-Band 688 + 2882 Mbps
+Cudy - WR3600H
+242.00 LEI
+pret fara TVA
+cuTVA: 292.82 LEI
+Router Wireless Dual Band Cudy, 2.4-5 GHz, Wi-Fi 7, 3.6 Gbps, MU-MIMO
+Cudy - WR3600E
+293.72 LEI
+fara TVA
+264.34 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 319.86 LEI
+Router Wireless 4G LTE CPE Stonet, 4 antene, 4G SIM, multi-carrier (2G/3G/4G LTE), 3*RJ45
+Stonet - MW5300-4G
+225.00 LEI
+fara TVA
+125.00 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 151.25 LEI
+AC1200 Dual Band Gigabit Stonet Fiber Router
+Stonet - N3F
+181.57 LEI
+pret fara TVA
+cuTVA: 219.70 LEI
+Router Wireless Stonet AC1200 Dual-Band Gigabit
+Stonet - NC66
+133.51 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 161.54 LEI
+Mesh Router Gigabit AX3000, universal ISP, 4 gigabit ports, 3 ani garantie, meniu & manual Romana, Easy setup & App management
+Stonet - NX30- AX3000
+200.00 LEI
+fara TVA
+150.00 LEI
+pret fara TVA
+cuTVA: 181.50 LEI
+Mesh Router AC1200 dual band, IPV6, TR069, Easy setup, meniu romana, 4*5dB power amplifier, negru antracit, slim
+Stonet - NC21-AC1200
+85.44 LEI
+fara TVA
+72.09 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 87.23 LEI
+Mesh Router gigabit 4 ports Stonet AC1200 Dual-Band, ipv6, acoperire Mesh 200m, meniuri romana, garantie 3 ani
+Stonet - NC65
+117.49 LEI
+fara TVA
+80.10 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 96.93 LEI
+AX1800 Mesh Wi-Fi 6 System
+Stonet - M6 Mesh (2-pack)
+500.00 LEI
+pret fara TVA
+cuTVA: 605.00 LEI
+Router Wi-Fi 6 Stonet AX180 Gigabit Dual Band
+Stonet - N6T-AX1800
+187.76 LEI
+fara TVA
+170.89 LEI
+pret fara TVA
+cuTVA: 206.78 LEI
+GPON Router stonet AC1200
+Stonet - AC1200
+192.25 LEI
+pret fara TVA
+cuTVA: 232.62 LEI
+Netis 300Mbps Wireless N High Power Ceiling Access Point tavan, AP Router, Client, WDS, Repeater, and WISP
+Stonet - WF2520
+215.00 LEI
+fara TVA
+98.00 LEI
+pret fara TVA
+cuTVA: 118.58 LEI
+Router Wireless Stonet N5 Dual Band AC 1200 - cu conexiune 3G/4G pe USB dongle ( compatibil toti operatorii de telefonie mobila)
+Stonet - N5-USB AC1200
+100.00 LEI
+fara TVA
+80.00 LEI
+pret fara TVA
+cuTVA: 96.80 LEI
+Router Dual Band AC1200 Netis N3D, gigabit chipset, 4 port 10/100, WPS, 4*5dB antennas, Built in Amplifier
+Stonet - Stonet-N3D AC1200
+100.00 LEI
+fara TVA
+59.00 LEI
+pret fara TVA
+cuTVA: 71.39 LEI
+Router Wireless AC1200 Zigbee,Stonet
+Stonet - Stonet-N2S
+197.00 LEI
+pret fara TVA
+cuTVA: 238.37 LEI
+4G LTE Router Wireless Stonet, 4 antene 5dB, port SIM 4G, antene 4G detasabile
+Stonet - MW5360-4G
+250.99 LEI
+fara TVA
+152.20 LEI
+pret per bucata
+pret fara TVA
+cuTVA: 184.16 LEI
+Router Gigabit AC1200 cu amplificare de semnal, 128MB RAM, 4 High-Gain Antennas, 60 clienti
+Stonet - N3-AC1200 TR069
+117.49 LEI
+fara TVA
+98.80 LEI
+pret fara TVA
+cuTVA: 119.54 LEI
+Router/ AP Mesh AX1800 5*Gigabit ports, WiFi 6, antene 4*6 dB, Beamforming, OFDMA, Airtime Fairness
+Stonet - N6-AX1800
+187.76 LEI
+fara TVA
+130.84 LEI
+pret fara TVA
+cuTVA: 158.31 LEI
+300Mbps Wireless N Router , high gain Enhanced W4- antennas,
+Stonet - W4-Stonet
+77.25 LEI
+pret fara TVA
+cuTVA: 93.48 LEI
+Router miniatura Wireless Dual Band, AC1200, WISP, 3 ports, antene 5dB pliabile
+Stonet - N4-AC1200
+103.00 LEI
+fara TVA
+65.00 LEI
+pret fara TVA
+cuTVA: 78.65 LEI
+Mini Router repeater/ range extender/ radio bridge 300N , W1, 2*5dB antene, 3 ports 10/100
+Stonet - W1-300N
+52.87 LEI
+fara TVA
+35.78 LEI
+pret fara TVA
+cuTVA: 43.29 LEI
 Pagini produse: 1 2 3 4 5 6 7 8 9 10
-Pagina generata in : 0.120 s
+Pagina generata in : 0.118 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

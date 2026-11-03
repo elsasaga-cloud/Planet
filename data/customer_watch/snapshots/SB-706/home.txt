@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -64,7 +64,6 @@ TN-G6500 Series 0
 EN 50155 Ethernet Switches 88
 TN-4000 Series 0
 TN-5000 Series 59
-TN-5308 Series 16
 TN-G4500 Series 0
 TN-G6500 Series 0
 Rackmount Ethernet Switches 228
@@ -86,10 +85,18 @@ PT-G7509 Series 1
 RKS/RM-G4000 Series 0
 XM-4000 Module Series 5
 Ethernet Embedded Modules 8
-Two-wire Ethernet Switches (SPE/APL) 0
+Two-wire Ethernet Switches (SPE/APL) 2
 TWS-3010-APL Series 1
 TWS-3010-SPE Series 1
-Industrial Secure Routers 51
+Ethernet Media Converters 0
+Ethernet-to-Fiber Media Converters 0
+CSM-(G)200 Series 4
+CSM-400 Series 10
+IMC-101(G) Series 18
+IMC-21 Series 15
+IMC-P Series 14
+PTC-101 Series 16
+TRC-190/2190 Series 4
 Wireless AP/Bridge/Client 88
 WLAN AP/Bridge/Client 48
 AWK-1130 Series 12
@@ -108,16 +115,8 @@ WAC-M300 Series 0
 Industrial Cellular Gateways 28
 CCG-1500 Series 4
 OnCell 3120-LTE-1 Series 6
+Industrial Secure Routers 52
 Industrial Cellular Routers 12
-Ethernet Media Converters 0
-Ethernet-to-Fiber Media Converters 0
-CSM-(G)200 Series 4
-CSM-400 Series 10
-IMC-101(G) Series 18
-IMC-21 Series 15
-IMC-P Series 14
-PTC-101 Series 16
-TRC-190/2190 Series 4
 Network Management Software 0
 MXstudio Series 0
 MXview One Central Manager Series 3
@@ -128,11 +127,6 @@ MXview Series 7
 Secure Remote Access 11
 Moxa Remote Connect Suite 38
 Network Security Appliance 56
-Industrial Gateways 68
-Industrial Ethernet Gateways 78
-Industrial EtherNet/IP Gateways 21
-Industrial Modbus TCP Gateways 91
-Industrial PROFINET Gateways 12
 Industrial Cellular Modems 3
 Industrial Edge Connectivity 0
 Industrial Converters 529
@@ -141,6 +135,9 @@ Industrial-grade USB Hubs 14
 USB to Serial Converters 31
 Multiport Serial Cards 105
 Protocol Converters 14
+Industrial EtherNet/IP Gateways 21
+Industrial Modbus TCP Gateways 91
+Industrial PROFINET Gateways 12
 MGate MB3170-G2/MB3270-G2/MB3470-G2 Series 28
 Serial-to-Ethernet Converters 295
 NPort IA5000-G2 Series 26
@@ -204,6 +201,7 @@ BXP-A100 Series 0
 BXP-A101 Series 8
 BXP-C100 Series 0
 BXP-C101 Series 6
+DA-820E Series 5
 DA-920E Series 5
 DRP-A100 Series 0
 DRP-C100 Series 0
@@ -535,4 +533,6 @@ DC/DC Converter 3
 DIN-rail Power Supplies for 1-phase Systems 22
 DIN-Rail Power Supplies for 3-phase Systems 9
 DeviceNet Power Supply 2
-C-Ser
+C-Series 0
+DC/DC Converter 12
+Power Supply with Integrated De

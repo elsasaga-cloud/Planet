@@ -1,4 +1,4 @@
-# SC-2078 zebeye.com · feed_auto · https://zebronics.com/collections/cctv.atom · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-2078 zebeye.com · feed_auto · https://zebronics.com/collections/cctv.atom · fetched 2026-11-03T09:43:52Z · HTTP 200
 2026-10-27T18:23:45+05:30	Zeb DC-W-Z	https://zebronics.com/products/zeb-dc-w-z
 2026-10-26T18:44:29+05:30	Zeb ISPST16CH	https://zebronics.com/products/zeb-ispst16ch
 2026-10-26T18:16:32+05:30	Zeb POES1T2	https://zebronics.com/products/zeb-poes1t2

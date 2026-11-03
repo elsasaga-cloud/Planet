@@ -1,4 +1,4 @@
-# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 TRIOTRONIK - der Netzwerkdistributor
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -440,6 +440,10 @@ Lehrlings Bootcamp
 Fiber Competence Day
 Über uns
 Service
+Zur Kategorie Service
+RMA
+Services allgemein
+Kataloge und Broschüren
 Login
 Menü schließen
 Ihr Konto
@@ -568,86 +572,90 @@ Mehr entdecken
 StARKE Marken Für beste Lösungen
 Neuheiten
 Neu
+TP-Link
+Omada Fusion 2.5G PoE Gateway
+FUSION 2.5G POE
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ubiquiti
+IP67 industrial WiFi 7 Access Point mit erweiterten Temperaturbereich
+U7-INDUSTRIAL
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Wirewin
+WIREWIN® Elite Patchkabel KAT6A, hochflexibler flammwidriger Elite Mantel, U/UTP
+PKW-ELITE-UU-K6A 1.0
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
 Wirewin
 WIREWIN® Elite Patchkabel KAT6A, hochflexibler flammwidriger Elite Mantel, S/FTP
-PKW-ELITE-SF-K6A 2.5
+PKW-ELITE-SF-K6A 1.0
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
 Ubiquiti
-UniFi UDB-Pro 5 GHz Wireless Bridge, PoE-Out, 5+ Distanz / Uplink zu UniFi WiFi
-UDB-PRO_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-MikroTik
-hAP ax lite LTE6, 800 MHz CPU, 256MB Ram, 4x Gbit LAN, 2.4 GHz 802.11 b/g/n/ax
-HAP AX LITE LTE6 KIT_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Avigilon
-2.0 Megapixel Bullet-Kamera, WDR, LightCatcher, IR, HDSM, IP67
-2.0C-H6SL-BO1-IR_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-TP-Link
-OMADA NFR WiFi 7 Promo, OC200 + 2x EAP653 + SG2210P
-OMADA NFR KIT S
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-TP-Link
-OMADA NFR WiFi 7 Promo, OC200 + 2x EAP772 + SG2210XMP-M2 + ER707-M2
-OMADA NFR KIT L
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Hikvision
-iDS-2CD7A46G0/P-IZHS(Y)(C) - 4MP IP ANPR VR Bullet Kamera, IP67, PoE
-311316487_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Reyee
-Reyee Wi-Fi 7 BE5040 Dual-Band Ceiling Access Point, 5.011 Gbps, 2.5 Gbit Port
-RG-RAP72PRO_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Reyee
-Reyee AX6000 HD Outdoor Omni-directional Access Point, 5.95 Gbps, SFP, 2.5Gbit
-RG-RAP6260(H)_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Jetting
-V2 Glasfaserkabel Einblasmaschine, 2,4 - 16 mm Kabel, 7 - 50 mm Kanal
-V2_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Reyee
-10-Port Gigabit Smart Cloud Managed PoE Switch, 10x Gbit, 8x PoE
-RG-ES210GS-P_D
+UniFi G3 Fingerprint, weiss
+UA-G3-FINGERPRINT-W
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
 Ubiquiti
-5 GHz airMAX AC Sektorantenne, 21 dBi, 60°
-AM-5AC21-60_D
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-B-Ware
-Neu
-MikroTik
-Metal 52 ac mit 720MHz CPU, 64MB RAM, 2.4/5GHz 802.11a/b/g/n/ac, RouterOS L4
-RBMETALG-52SHPACN-R
+UniFi G3 Fingerprint, schwarz
+UA-G3-FINGERPRINT-B
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
+Ubiquiti
+UniFi Enterprise Campus 48S Port Switch, Layer 3, 10 GbE, 25 Gb, 100 Gb
+ECS-48S
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ubiquiti
+UniFi Express 7 superkompaktes 10G Cloud Gateway mit integriertem WiFi 7
+UX7-3
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Lightwin Optics
+LWO-Q56-200G-SR4-ECO
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
 MikroTik
-Cube 60Pro ac, 60 GHz CPE Point-to-Point & Multipoint, 802.11ay, konf. 2er Set
-CUBEG-5AC60AYPAIR
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflä
+KNOT Gateway HL9 - IP66 IoT Gateway mit Bluetooth 5.1, CAT1 LTE Modem, SIM/eSIM
+KNOT GATEWAY HL9
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+MikroTik
+wAP ax LTE7 Kit, CAT7 LTE, ARM CPU, 2x2 MIMO, WiFi-6
+WAP AX LTE7 KIT
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+MikroTik
+hAP be lite, Wi-Fi 7 Router & Access Point, 2.6Gbit, 2x 1GbE, USB-C Power
+A42G-HBEP
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+TP-Link
+Omada Fusion 2.5G Gateway
+FUSION 2.5G
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+TP-Link
+Omada Fusion G+ Gateway
+FUSION G+
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ubiquiti
+UniFi Travel Router Long-Range
+UTR-LR
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzah

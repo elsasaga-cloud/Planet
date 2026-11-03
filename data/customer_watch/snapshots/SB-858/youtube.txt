@@ -1,4 +1,4 @@
-# SB-858 areskom.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCWBr2xMuLaHicb_vuFKrcBQ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-858 areskom.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCWBr2xMuLaHicb_vuFKrcBQ · fetched 2026-11-03T09:43:52Z · HTTP 200
 2017-09-13T14:21:32+00:00	The story of Westermo Production	https://www.youtube.com/watch?v=KIEYecii5uI
 2017-08-27T14:12:36+00:00	WeConfig-VLAN Setup	https://www.youtube.com/watch?v=v9Dyoiny5Tc
 2017-08-27T14:05:27+00:00	WeConfig-FRNT ring setup	https://www.youtube.com/watch?v=b_E-ygsMe4M

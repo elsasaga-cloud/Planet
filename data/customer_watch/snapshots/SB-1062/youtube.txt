@@ -1,4 +1,6 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-02T16:15:19+00:00	Odoo Quick Tips - Live chat preferences [General]	https://www.youtube.com/shorts/n2zpjO6VAxQ
+2026-11-02T13:03:23+00:00	Webinaire - RH 360° : du recrutement à la gestion quotidienne pour une boite internationale	https://www.youtube.com/watch?v=9lkmBkkOODg
 2026-10-30T10:47:04+00:00	Webinar - Best practices voor een succesvolle Odoo-implementatie met een partner	https://www.youtube.com/watch?v=k-Xmhgl52B0
 2026-10-29T23:39:06+00:00	Unify Multi-Company Operations on One ERP	https://www.youtube.com/watch?v=7i7bkcUoNoc
 2026-10-29T17:39:02+00:00	Webinaire - Odoo 20 - Découvrez toutes les nouveautés dans les applications RH	https://www.youtube.com/watch?v=ZFeN5vit93g
@@ -12,5 +14,3 @@
 2026-10-28T16:58:20+00:00	Webinar - Odoo 20 - Wat is er nieuw in Kassa (Horeca)?	https://www.youtube.com/watch?v=J8QBSA8WwK0
 2026-10-28T16:15:28+00:00	Odoo Quick Tips - Preview cards [AI]	https://www.youtube.com/watch?v=GI6je-uSUlM
 2026-10-28T13:11:56+00:00	Webinaire - Boostez votre restauration rapide avec Odoo	https://www.youtube.com/watch?v=Pd3A1DMbraE
-2026-10-28T13:01:21+00:00	Webinar - What's new in Odoo 20 - Produzione	https://www.youtube.com/watch?v=0fmk2qScFHI
-2026-10-28T11:09:55+00:00	Webinaire - Odoo 20 - Découvrez les nouvelles innovations qui révolutionnent le Point de Vente 🛍️	https://www.youtube.com/watch?v=yTpPnZNgszY

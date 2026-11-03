@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-03T09:43:52Z · HTTP 200
+Tue, 03 Nov 2026 09:00:00 +0000	10 usos para trackers Teltonika – ¿qué modelo usar?	https://www.davantel.com/tracker-teltonika
 Mon, 02 Nov 2026 09:00:00 +0000	¿Cómo los gateways edge recopilan datos de PLC y los envían a la nube?	https://www.davantel.com/como-los-gateways-edge-recopilan-datos-de-plc-y-los-envian-a-la-nube
 Fri, 30 Oct 2026 09:00:00 +0000	¿Cómo Elegir un Router 5G Industrial?: Checklist de 10 Puntos	https://www.davantel.com/como-elegir-un-router-5g-industrial-checklist-de-10-puntos
 Thu, 29 Oct 2026 09:28:43 +0000	Teltonika RUTX50: guía de compra para redes 5G	https://www.davantel.com/teltonika-rutx50
@@ -56,5 +57,4 @@ Fri, 10 Jul 2026 08:00:00 +0000	Tutorial: IP Pública, IP Privada, NAT y Acceso 
 Wed, 08 Jul 2026 08:00:00 +0000	Descarga de perfiles eSIM con la app Teltonika RutOS usando los datos móviles del teléfono	https://www.davantel.com/descarga-de-perfiles-esim-con-la-app-teltonika-rutos-usando-los-datos-moviles-del-telefono
 Mon, 06 Jul 2026 08:00:00 +0000	Gateways Robustel MG460 para Redes Marítimas: Guía Técnica de Arquitectura y Cumplimiento Normativo	https://www.davantel.com/gateways-robustel-mg460-para-redes-maritimas-guia-tecnica-de-arquitectura-y-cumplimiento-normativo
 Fri, 03 Jul 2026 08:00:00 +0000	ZeroTier vs WireGuard: Guía Comparativa y Configuración Práctica con Teltonika	https://www.davantel.com/zerotier-vs-wireguard-guia-comparativa-y-configuracion-practica-con-teltonika
-Wed, 01 Jul 2026 08:00:00 +0000	Servidores de Tiempo NTP y PTP: Guía Técnica para Ingenieros de Automatización	https://www.davantel.com/servidores-de-tiempo-ntp-y-ptp-guia-tecnica-para-ingenieros-de-automatizacion
-Tue, 30 Jun 2026 08:00:00 +0000	AES sin intercambio de 
+Wed, 01 Jul 2026 08:00:00 +0000	Servidores de Tiempo NTP y PTP: Guía Técnica para Ingenieros de Automatización	https://www.davantel.com/servid

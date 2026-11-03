@@ -1,4 +1,4 @@
-# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Automatyka i elektronika przemysłowa - CONSTEEL Electronics
 Menu
 Twój koszyk
@@ -305,8 +305,8 @@ Negocjuj cenę
 Podgląd
 Nowość
 5-7 dni
-KLIC-PA – bramka KNX do klimatyzacji Panasonic z interfejsem R1/R2 i 3 wejściami Zennio
-KLIC-PA – bramka KNX do klimatyzacji Panasonic z interfejsem R1/R2 i sterowaniem nawiewem.KLIC-PA firmy Zennio to bramka komunikacyjna KNX przezna..
+KLIC-PA Zennio ZCLPA – bramka KNX do klimatyzacji Panasonic R1/R2
+KLIC-PA – bramka KNX do klimatyzacji Panasonic z interfejsem R1/R2 i sterowaniem nawiewem.Zennio KLIC-PA (ZCLPA) to bramka KNX przeznaczona do dwu..
 817,70 zł
 Kup teraz! "> Kup teraz!
 Dodaj do listy życzeń
@@ -488,4 +488,4 @@ Nowość
 2 lata gwarancji
 3-4 dni
 HD67G31-G43-B2 konwerter DMX do HTTP/REST Server z RS-485, LAN, LTE SIM i montażem DIN
-HD67G31-G43-B
+HD67G31-G43-B2 konwerter DMX do HTT

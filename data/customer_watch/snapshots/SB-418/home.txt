@@ -1,4 +1,4 @@
-# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 ﻿
 Atel Electronics - Import i dystrybucja
 Ta strona wykorzystuje pliki cookies w celu świadczenia usług, dostosowania serwisu do preferencji użytkowników oraz w celach statystycznych i reklamowych.
@@ -7,111 +7,111 @@ Kontynuując, przyjmujemy Twoją zgodę na wdrażanie plików cookies i ich zapi
 MENU
 dostarczamy nowoczesne technologie
 tel.: 77 455 60 76 | cust@atel.com.pl
-Poniedziałek, 2 listopada
+Wtorek, 3 listopada
 [ Zaloguj się ]
-PATCHCORDY, miedziane i światłowodowe
+VUTLAN - Monitoring parametrów środowiskowych Serwerowni
+Termometr bezdotykowy, bezdotykowy pomiar temperatury ciała
+Sieci Przemysłowe - ORing Industrial Networking
 SFP, SFP+, SFP28, QSFP+, QSFP28, GBIC
 Patchcordy światłowodowe, pigtaile, adaptery, złącza, tłumiki - WAVE OPTICS
-VUTLAN - Monitoring parametrów środowiskowych Serwerowni
-Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
 Kabel UTP i FTP, Skrętka, kat. 5e, 6, 6a, 7 - WAVE CABLES
-Termometr bezdotykowy, bezdotykowy pomiar temperatury ciała
-Przewody koncentryczne H155, RG174, RG213, RG58, RG59, RG6
+Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
+PATCHCORDY, miedziane i światłowodowe
 Konsole LCD KVM, Przełączniki KVM - kat.5, IP - WaveKVM
-Urządzenia zgodne z normą kolejową EN50155
-Sieci Przemysłowe - ORing Industrial Networking
 Ekonomiczne Kamery Termowizyjne
-#03322
-5,90 PLN
-Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 0,5 m / Patchcordy światłowodowe
-#03308
-10,60 PLN
-Patchcord SC/UPC-SC/UPC, MM, 50/125, dupleks, włókno OM2, 0,5 m / Patchcordy światłowodowe
-#06090
+Przewody koncentryczne H155, RG174, RG213, RG58, RG59, RG6
+Urządzenia zgodne z normą kolejową EN50155
+#06096
+34,00 PLN
+Przyłącze KVM, Wave KVM, HDMI (HDMI + USB), 1,8 m / KVM
+#07034
+3 710,00 PLN
+Edge-corE ECS4150-54T, Switch zarządzalny, 48x 10/100/1000 RJ-45, 6x 25G SFP28, 19" / Switche
+#09771
+2 560,00 PLN
+Switch zarządzalny, 48x 10/100/1000 RJ-45, 4x slot SFP+ 10G, 19" (TP-Link SG5452X) / Switche
+#03151
+54,20 PLN
+Przyłącze 5m do czujników Vutlan 6P4C AWG24 / Monitoring Serwerowni
 3 990,00 PLN
-Konsola KVM LCD Full HD, Wave KVM, 17", 1-portowy KVM HDMI, 1U, pojedyncza szyna / KVM
-#06659
-915,00 PLN
-IDGPS-C1042GP+-BT, Switch niezarządzalny, 4x 100/1G/2.5G RJ-45 PoE + 2x1000/10G SFP+ / Switche przemysłowe
-1 780,00 PLN
-#06099
-Moduł IP do KVM (Wave KVM KI-4102)
-1 200,00 PLN
-#09755
-Router 5G, AX3000 (TP-Link Archer NX505)
-6,65 PLN
-#03325
-Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 3 m
-508,00 PLN
-#09768
-Gigabitowy bezprzewodowy most 5Ghz (TP-Link Flex Bridge 5)
-26,70 PLN
-#04121
-Patchcord LSH/APC-LSH/APC, SM, 9/125, simpleks, włókno G652D, 1 m
+#06090
+Konsola KVM LCD Full HD, Wave KVM, 17", 1-portowy KVM HDMI, 1U, pojedyncza szyna
+28,00 PLN
+#04124
+Patchcord LSH/APC-LSH/APC, SM, 9/125, simpleks, włókno G652D, 5 m
 5 250,00 PLN
 #06094
 Konsola KVM LCD Full HD, Wave KVM, 19", 8-portowy KVM HDMI, 1U, pojedyncza szyna
+2,75 PLN
+#04981
+Puszka natynkowa, 1x keystone z zapadką
+1 780,00 PLN
+#06099
+Moduł IP do KVM (Wave KVM KI-4102)
+238,00 PLN
+#09761
+Dwupasmowa bezprzewodowa karta sieciowa USB BE3600, standard BE, 3600Mbps, Wi-Fi 7 (TP-Link Archer TBE230U)
 więcej nowości »
-#09257
-203,00 PLN
-200,00 PLN
-Zestaw termostatycznego zaworu grzejnikowego Kasa Smart (TP-Link KE100 KIT) / Smart home
-#09579
-237,00 PLN
-233,00 PLN
-TP-Link Mercusys MR25BE, Bezprzewodowy router dwupasmowy Dual-band BE3600, standard BE, 3600Mb/s / 802.11bx (WiFi 7)
-#09309
-167,00 PLN
-165,00 PLN
-TP-Link Archer AX12, Bezprzewodowy router dwupasmowy Dual-band AX1500, standard AX, 1500Mb/s, gigabitowe porty Ethernet / 802.11ax (WiFi 6)
-#09416
-75,00 PLN
-73,70 PLN
-TP-Link Archer T2E, Dwupasmowa bezprzewodowa karta sieciowa PCI-Express AC600, standard AC, 600Mbps / Standard AC
-#09591
-1 120,00 PLN
-1 100,00 PLN
-TP-Link ES228GMP, Switch zarządzalny, 26x 10/100/1000 RJ-45, 2x slot SFP, PoE+, 19" / Switche
-1 120,00 PLN 1 100,00 PLN
-#09591
-Switch zarządzalny, 26x 10/100/1000 RJ-45, 2x slot SFP, PoE+, 19" (TP-Link ES228GMP)
-186,00 PLN 183,00 PLN
-#09405
-Bezprzewodowy router 3G/4G, standard N, 300Mb/s (TP-Link TL-MR105)
-715,00 PLN 703,00 PLN
-#09702
-Gigabitowy bezprzewodowy most (TP-Link Beam Bridge 5 UR KIT)
-1 080,00 PLN 1 070,00 PLN
-#09401
-Router 5G, AX1800 (TP-Link Archer NX200)
-495,00 PLN 487,00 PLN
-#09684
-Bezprzewodowa zewnętrzna kamera Wi-Fi z panelem słonecznym (TP-Link Tapo C460 Kit)
-448,00 PLN 441,00 PLN
-#09686
-Bezprzewodowa zewnętrzna kamera Wi-Fi z panelem słonecznym (TP-Link Tapo C425 Kit)
+#09467
+2 270,00 PLN
+2 230,00 PLN
+TP-Link SG3428XMPP, Switch zarządzalny, 24x 10/100/1000 RJ-45, 4x slot 10G SFP+, PoE++, 19" / Switche
+#09199
+505,00 PLN
+497,00 PLN
+TP-Link VIGI NVR1008H, Ośmiokanałowy sieciowy rejestrator wideo / Smart home
+#09712
+581,00 PLN
+571,00 PLN
+Switch inteligentny, 18x 10/100/1000 RJ-45, 2x slot SFP, PoE+, 19" (TP-Link ES220GP) / Switche
+#09680
+411,00 PLN
+404,00 PLN
+Bezprzewodowa kamera zewnętrzna reflektorowa Wi-Fi z panelem słonecznym(TP-Link Tapo C615F KIT) / Smart home
+#09459
+14 200,00 PLN
+14 000,00 PLN
+TP-Link SX6632YF, Switch zarządzalny, 26x slot 10G SFP+, 6x slot SFP28 10/25G, 19" / Switche
+14 200,00 PLN 14 000,00 PLN
+#09459
+Switch zarządzalny, 26x slot 10G SFP+, 6x slot SFP28 10/25G, 19" (TP-Link SX6632YF)
+1 910,00 PLN 1 880,00 PLN
+#09471
+Switch inteligentny, 48x 10/100/1000 RJ-45, 4x slot SFP, PoE+, 19" (TP-Link SG2452LP)
+1 910,00 PLN 1 880,00 PLN
+#09539
+Bezprzewodowy router trzypasmowy Tri-band BE19000, standard BE, 19000Mb/s, port 10G, MU-MIMO (TP-Link Archer GE800)
+686,00 PLN 675,00 PLN
+#06985
+Rack na 14 konwerterów (TP-LINK TL-MC1400)
+102,00 PLN 100,00 PLN
+#04572
+Bezprzewodowy router dwupasmowy Dual-band AC900, standard AC, 750Mb/s (TP-Link Archer C20)
+628,00 PLN 618,00 PLN
+#09635
+Gigabitowy bezprzewodowy punkt dostępowy, AX3000, 3000Mbps (TP-Link EAP650 D30-Outdoor)
 więcej obniżek »
 Wyprzedaż produktów poserwisowych i poekspozycyjnych OUTLET
 Informujemy Państwa o wyprzedaży pełnosprawnych produktów poserwisowych i poekspozycyjnych. Teraz mogą Państwo nabyć, w wyjątkowo atrakcyjnej cenie , produkty nie odbiegające funkcjonalnością od ich nowych odpowiedników. Szczegółów na temat towarów poserwisowych udzielą Państwu pracownicy Działu Handlowego. więcej»
 Produkty firm:
-TP-LINK
+WAVE OPTICS
 NAJPOPULARNIEJSZE
-Szafa rack 12U, wisząca, 19", 440mm gł., drzwi szklane / Szafy rack
 Mastech MS6818 - Profesjonalny lokalizator przewodów, rur, metalu / Lokalizatory i detektory
 MASTECH
+Szafa rack 12U, wisząca, 19", 440mm gł., drzwi szklane / Szafy rack
 Termometr bezdotykowy, do pomiaru temperatury ciała, HT11D / Pirometry
 NOYAFA NF-8209, Tester okablowania RJ45, PoE, LCD / Testery okablowania
 NOYAFA
+Kabel koncentryczny, RG213, linka, czarny, 100m / Przewody koncentryczne
 Patchcord światłowodowy, MM SC/UPC-SC/UPC, 50/125, dupleks, OM2 1m / Patchcordy światłowodowe
 WAVE OPTICS
-Kabel koncentryczny, RG213, linka, czarny, 100m / Przewody koncentryczne
 Zaciskarka 10p, RJ45, RJ12, RJ11, RJ10, RJ9, czołowa, Hanlong HT-200AR, AteCom / Zaciskarki złączy modularnych
 HANLONG
-Listwa zasilająca rack 19", 9 gniazd, z wyłącznikiem / Listwy zasilające
 Patchcord, UTP, kat.5e, 1,0m, szary / Patchcordy
 Wtyk RJ-45, rj45, 8p8c, kat5e, na przewód okrągły, drut, UTP / Złącza modularne męskie, osłony
 Fluke Networks PRO 3000 - Szukacz par przewodów / Szukacze par przewodów
 FLUKE NETWORKS
+Listwa zasilająca rack 19", 9 gniazd, z wyłącznikiem / Listwy zasilające
 Kabel UTP, Skrętka, kat5e, wewnętrzny, szary, drut miedziany 24AWG, rolka 305m / Skrętka
 WAVE CABLES
 Kabel światłowodowy jednomodowy, światłowód, 4x9/125, G652D, LSOH/LSZH / Kable światłowodowe
@@ -176,7 +176,7 @@ WAVE INDUSTRIAL
 WAVE KVM
 WAVE OPTICS
 TAGI:
-patchpanel , Smart Grid , LoRa , IEC 62443-4-2 , kabel utp kat 6 , pigtail , szafa serwerowa , utp 5e , FTTH , switch , przewody koncentryczne , zaciskarka rj45 , PoE , szafa rack 19 , keystone , miernik cęgowy , kamery termowizyjne , sfp wdm , switch przemysłowy , szafy serwerowe , EN50155 , ZigBee , keystone , miernik uniwersalny , switch poe , switch M12 , SFP , skrętka utp , przełącznik kvm , oring switch , przewód utp , kabel utp , zaciskarka do konektorów , patch panel , kabel koncentryczny , zaciskarka bnc , 8p8c , skrętka kat 6 , utp lsoh , True RMS , przewód koncentryczny , SFP+ , patchcord , LSZH , miernik jakości powietrza , szafy teleinformatyczne , patch cord utp , multimetry , kabel ftp , PoE plus , anteny lte , kabel światłowodowy , UniFi , szafa rack , mierniki cęgowe , patchcord 6a , IEC 61850-3 , rejestrator temperatury , kabel antenowy , opaski kablowe , slot SFP , miernik elektryczny , LSOH , M12 , switch zarządzalny , utp kabel , kabel skrętka , pirometr , SFP28 , detektor przewodów , lsa , multimetr
+M12 , patchcord , IEC 62443-4-2 , przewód utp , miernik cęgowy , LoRa , SFP28 , szafy serwerowe , kabel ftp , mierniki cęgowe , opaski kablowe , zaciskarka do konektorów , patch cord utp , patch panel , zaciskarka rj45 , kabel utp , przewody koncentryczne , pirometr , PoE plus , szafa rack , rejestrator temperatury , pigtail , szafy teleinformatyczne , miernik jakości powietrza , Smart Grid , przełącznik kvm , LSZH , anteny lte , PoE , detektor przewodów , kamery termowizyjne , switch zarządzalny , LSOH , switch poe , IEC 61850-3 , SFP+ , szafa rack 19 , ZigBee , utp kabel , keystone , kabel koncentryczny , switch M12 , miernik uniwersalny , kabel utp kat 6 , UniFi , przewód koncentryczny , patchcord 6a , kabel antenowy , skrętka kat 6 , True RMS , slot SFP , sfp wdm , utp lsoh , kabel światłowodowy , multimetry , keystone , SFP , oring switch , skrętka utp , multimetr , switch przemysłowy , miernik elektryczny , EN50155 , szafa serwerowa , switch , lsa , patchpanel , utp 5e , kabel skrętka , FTTH , 8p8c , zaciskarka bnc
 ©2026 Atel Electronics
 Zasady sprzedaży Reklamacje Ochrona środowiska Polityka dotycząca plików cookies Polityka prywatności
 Siedziba zgodnie z KRS: ATEL ELECTRONICS Spółka z ograniczoną odpowiedzialnością, ul. Oleska 121, 45-231 Opole; Kapitał zakładowy: 50.000,00; KRS 0001010225; Sąd Rejonowy w Opolu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego; REGON: 524050890; NIP: 7543356130

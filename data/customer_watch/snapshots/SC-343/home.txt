@@ -1,4 +1,4 @@
-# SC-343 optilinknetwork.com · home · https://optilinknetwork.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-343 optilinknetwork.com · home · https://optilinknetwork.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Optilink Networks
 Optilink Networks Celebrates 20 Years of Powering Broadband Connectivity
 ×
@@ -10,31 +10,19 @@ About Us
 Mission, Values & Vision
 Products
 Switches
-OP-MEN 9000-24S6X OP-MEN 95612 Layer 3 Switch OP-MEN 95628 Layer 3
-Switch24x10/100/100 Base-T + 4x10G SFP+ OP-MEN 99628 Layer 3 Switch
-24 Port 1G+4 Port 10G L3 Managed Switch OP-MEN 99812 12 PORT
-10G+8 TP L3 Managed Switch
+OP-MEN 9000-24S6X OP-MEN 95612 Layer 3 Switch OP-MEN 95628 Layer 3 Switch24x10/100/100 Base-T + 4x10G SFP+ OP-MEN 99628 Layer 3 Switch 24 Port 1G+4 Port 10G L3 Managed Switch OP-MEN 99812 12 PORT 10G+8 TP L3 Managed Switch
 SFP
-10G DWDM 80KM SFP 10G BIDI SFP+ 60KM SFP+ 10G-ER 40KM
-10Gb/s 1550nm SFP+ Transceiver SFP+10G-LR 20KM
-10Gb/s 1310nm SFP+ Transceiver SFP+ 10G-SR 300m
-10Gb/s 850 nm SFP+Transceiver
+10G DWDM 80KM SFP 10G BIDI SFP+ 60KM SFP+ 10G-ER 40KM 10Gb/s 1550nm SFP+ Transceiver SFP+10G-LR 20KM 10Gb/s 1310nm SFP+ Transceiver SFP+ 10G-SR 300m 10Gb/s 850 nm SFP+Transceiver
 GPON
 OP-9810-08 XG(S) – PON Combo OLT OP-GOLT94000 GPON OLT Series OP-POLT 71201 IPON PORT GPON OLT OP-POLT 71202 2PON PORT GPON OLT
 PLC Splitters
 PLC Splitters with Connectors PLC Splitters without Connectors
 FSDB
-OFDB – 0208B Splitter Distribution Box Optilink Fibre Distribution Box 1*16 1X24-WAY FSDB – Empty Box Fiber
-Splitter Distribution Box
+OFDB – 0208B Splitter Distribution Box Optilink Fibre Distribution Box 1*16 1X24-WAY FSDB – Empty Box Fiber Splitter Distribution Box
 EPON
-ET 70044 Layer3 4 Ports EPON OLT OP-EOLT 74404 4 PON
-PORTS MINI EPON OLT OP-EOLT 74408E 4+4 PON PORTS EPON OLT OP-EOLT 11444 IU Pizza Type EPON OLT OP-EOLT 11448 IU Pizza Type EPON OLT
+ET 70044 Layer3 4 Ports EPON OLT OP-EOLT 74404 4 PON PORTS MINI EPON OLT OP-EOLT 74408E 4+4 PON PORTS EPON OLT OP-EOLT 11444 IU Pizza Type EPON OLT OP-EOLT 11448 IU Pizza Type EPON OLT
 ONT
-Subscriber End Equipment OP-XONT 71001 OP-XONT 74010-AX15 4GE+
-1POTS+WiFi6(AX1500) XPON ONT OP-XONT 74010-AX30 4GE+
-1POTS+WiFi6(AX3000) XPON ONT Subscriber End Equipment OP-XONT 71000 OP-XT 71000N G/EPON IGE+WiFi OP-XONT 7008P/7016P/
-7024P Series XPON MDU OP-XONT 74010-AX15 –
-WiFi 6 xPON VoIP Gateway ONT
+Subscriber End Equipment OP-XONT 71001 OP-XONT 74010-AX15 4GE+ 1POTS+WiFi6(AX1500) XPON ONT OP-XONT 74010-AX30 4GE+ 1POTS+WiFi6(AX3000) XPON ONT Subscriber End Equipment OP-XONT 71000 OP-XT 71000N G/EPON IGE+WiFi OP-XONT 7008P/7016P/7024P Series XPON MDU OP-XONT 74010-AX15 – WiFi 6 xPON VoIP Gateway ONT
 Support
 Technical Support Product Datasheet Firmware FAQs
 Career
@@ -47,31 +35,19 @@ About Us
 Mission, Values & Vision
 Products
 Switches
-OP-MEN 9000-24S6X OP-MEN 95612 Layer 3 Switch OP-MEN 95628 Layer 3
-Switch24x10/100/100 Base-T + 4x10G SFP+ OP-MEN 99628 Layer 3 Switch
-24 Port 1G+4 Port 10G L3 Managed Switch OP-MEN 99812 12 PORT
-10G+8 TP L3 Managed Switch
+OP-MEN 9000-24S6X OP-MEN 95612 Layer 3 Switch OP-MEN 95628 Layer 3 Switch24x10/100/100 Base-T + 4x10G SFP+ OP-MEN 99628 Layer 3 Switch 24 Port 1G+4 Port 10G L3 Managed Switch OP-MEN 99812 12 PORT 10G+8 TP L3 Managed Switch
 SFP
-10G DWDM 80KM SFP 10G BIDI SFP+ 60KM SFP+ 10G-ER 40KM
-10Gb/s 1550nm SFP+ Transceiver SFP+10G-LR 20KM
-10Gb/s 1310nm SFP+ Transceiver SFP+ 10G-SR 300m
-10Gb/s 850 nm SFP+Transceiver
+10G DWDM 80KM SFP 10G BIDI SFP+ 60KM SFP+ 10G-ER 40KM 10Gb/s 1550nm SFP+ Transceiver SFP+10G-LR 20KM 10Gb/s 1310nm SFP+ Transceiver SFP+ 10G-SR 300m 10Gb/s 850 nm SFP+Transceiver
 GPON
 OP-9810-08 XG(S) – PON Combo OLT OP-GOLT94000 GPON OLT Series OP-POLT 71201 IPON PORT GPON OLT OP-POLT 71202 2PON PORT GPON OLT
 PLC Splitters
 PLC Splitters with Connectors PLC Splitters without Connectors
 FSDB
-OFDB – 0208B Splitter Distribution Box Optilink Fibre Distribution Box 1*16 1X24-WAY FSDB – Empty Box Fiber
-Splitter Distribution Box
+OFDB – 0208B Splitter Distribution Box Optilink Fibre Distribution Box 1*16 1X24-WAY FSDB – Empty Box Fiber Splitter Distribution Box
 EPON
-ET 70044 Layer3 4 Ports EPON OLT OP-EOLT 74404 4 PON
-PORTS MINI EPON OLT OP-EOLT 74408E 4+4 PON PORTS EPON OLT OP-EOLT 11444 IU Pizza Type EPON OLT OP-EOLT 11448 IU Pizza Type EPON OLT
+ET 70044 Layer3 4 Ports EPON OLT OP-EOLT 74404 4 PON PORTS MINI EPON OLT OP-EOLT 74408E 4+4 PON PORTS EPON OLT OP-EOLT 11444 IU Pizza Type EPON OLT OP-EOLT 11448 IU Pizza Type EPON OLT
 ONT
-Subscriber End Equipment OP-XONT 71001 OP-XONT 74010-AX15 4GE+
-1POTS+WiFi6(AX1500) XPON ONT OP-XONT 74010-AX30 4GE+
-1POTS+WiFi6(AX3000) XPON ONT Subscriber End Equipment OP-XONT 71000 OP-XT 71000N G/EPON IGE+WiFi OP-XONT 7008P/7016P/
-7024P Series XPON MDU OP-XONT 74010-AX15 –
-WiFi 6 xPON VoIP Gateway ONT
+Subscriber End Equipment OP-XONT 71001 OP-XONT 74010-AX15 4GE+ 1POTS+WiFi6(AX1500) XPON ONT OP-XONT 74010-AX30 4GE+ 1POTS+WiFi6(AX3000) XPON ONT Subscriber End Equipment OP-XONT 71000 OP-XT 71000N G/EPON IGE+WiFi OP-XONT 7008P/7016P/7024P Series XPON MDU OP-XONT 74010-AX15 – WiFi 6 xPON VoIP Gateway ONT
 Support
 Technical Support Product Datasheet Firmware FAQs
 Career
@@ -86,21 +62,15 @@ Products
 Switches
 OP-MEN 9000-24S6X
 OP-MEN 95612 Layer 3 Switch
-OP-MEN 95628 Layer 3
-Switch24x10/100/100 Base-T + 4x10G SFP+
-OP-MEN 99628 Layer 3 Switch
-24 Port 1G+4 Port 10G L3 Managed Switch
-OP-MEN 99812 12 PORT
-10G+8 TP L3 Managed Switch
+OP-MEN 95628 Layer 3 Switch24x10/100/100 Base-T + 4x10G SFP+
+OP-MEN 99628 Layer 3 Switch 24 Port 1G+4 Port 10G L3 Managed Switch
+OP-MEN 99812 12 PORT 10G+8 TP L3 Managed Switch
 SFP
 10G DWDM 80KM SFP
 10G BIDI SFP+ 60KM
-SFP+ 10G-ER 40KM
-10Gb/s 1550nm SFP+ Transceiver
-SFP+10G-LR 20KM
-10Gb/s 1310nm SFP+ Transceiver
-SFP+ 10G-SR 300m
-10Gb/s 850 nm SFP+Transceiver
+SFP+ 10G-ER 40KM 10Gb/s 1550nm SFP+ Transceiver
+SFP+10G-LR 20KM 10Gb/s 1310nm SFP+ Transceiver
+SFP+ 10G-SR 300m 10Gb/s 850 nm SFP+Transceiver
 GPON
 OP-9810-08 XG(S) – PON Combo OLT
 OP-GOLT94000 GPON OLT Series
@@ -112,27 +82,21 @@ PLC Splitters without Connectors
 FSDB
 OFDB – 0208B Splitter Distribution Box
 Optilink Fibre Distribution Box 1*16
-1X24-WAY FSDB – Empty Box Fiber
-Splitter Distribution Box
+1X24-WAY FSDB – Empty Box Fiber Splitter Distribution Box
 EPON
 ET 70044 Layer3 4 Ports EPON OLT
-OP-EOLT 74404 4 PON
-PORTS MINI EPON OLT
+OP-EOLT 74404 4 PON PORTS MINI EPON OLT
 OP-EOLT 74408E 4+4 PON PORTS EPON OLT
 OP-EOLT 11444 IU Pizza Type EPON OLT
 OP-EOLT 11448 IU Pizza Type EPON OLT
 ONT
 Subscriber End Equipment OP-XONT 71001
-OP-XONT 74010-AX15 4GE+
-1POTS+WiFi6(AX1500) XPON ONT
-OP-XONT 74010-AX30 4GE+
-1POTS+WiFi6(AX3000) XPON ONT
+OP-XONT 74010-AX15 4GE+ 1POTS+WiFi6(AX1500) XPON ONT
+OP-XONT 74010-AX30 4GE+ 1POTS+WiFi6(AX3000) XPON ONT
 Subscriber End Equipment OP-XONT 71000
 OP-XT 71000N G/EPON IGE+WiFi
-OP-XONT 7008P/7016P/
-7024P Series XPON MDU
-OP-XONT 74010-AX15 –
-WiFi 6 xPON VoIP Gateway ONT
+OP-XONT 7008P/7016P/7024P Series XPON MDU
+OP-XONT 74010-AX15 – WiFi 6 xPON VoIP Gateway ONT
 Support
 Technical Support
 Product Datasheet
@@ -146,31 +110,19 @@ About Us
 Mission, Values & Vision
 Products
 Switches
-OP-MEN 9000-24S6X OP-MEN 95612 Layer 3 Switch OP-MEN 95628 Layer 3
-Switch24x10/100/100 Base-T + 4x10G SFP+ OP-MEN 99628 Layer 3 Switch
-24 Port 1G+4 Port 10G L3 Managed Switch OP-MEN 99812 12 PORT
-10G+8 TP L3 Managed Switch
+OP-MEN 9000-24S6X OP-MEN 95612 Layer 3 Switch OP-MEN 95628 Layer 3 Switch24x10/100/100 Base-T + 4x10G SFP+ OP-MEN 99628 Layer 3 Switch 24 Port 1G+4 Port 10G L3 Managed Switch OP-MEN 99812 12 PORT 10G+8 TP L3 Managed Switch
 SFP
-10G DWDM 80KM SFP 10G BIDI SFP+ 60KM SFP+ 10G-ER 40KM
-10Gb/s 1550nm SFP+ Transceiver SFP+10G-LR 20KM
-10Gb/s 1310nm SFP+ Transceiver SFP+ 10G-SR 300m
-10Gb/s 850 nm SFP+Transceiver
+10G DWDM 80KM SFP 10G BIDI SFP+ 60KM SFP+ 10G-ER 40KM 10Gb/s 1550nm SFP+ Transceiver SFP+10G-LR 20KM 10Gb/s 1310nm SFP+ Transceiver SFP+ 10G-SR 300m 10Gb/s 850 nm SFP+Transceiver
 GPON
 OP-9810-08 XG(S) – PON Combo OLT OP-GOLT94000 GPON OLT Series OP-POLT 71201 IPON PORT GPON OLT OP-POLT 71202 2PON PORT GPON OLT
 PLC Splitters
 PLC Splitters with Connectors PLC Splitters without Connectors
 FSDB
-OFDB – 0208B Splitter Distribution Box Optilink Fibre Distribution Box 1*16 1X24-WAY FSDB – Empty Box Fiber
-Splitter Distribution Box
+OFDB – 0208B Splitter Distribution Box Optilink Fibre Distribution Box 1*16 1X24-WAY FSDB – Empty Box Fiber Splitter Distribution Box
 EPON
-ET 70044 Layer3 4 Ports EPON OLT OP-EOLT 74404 4 PON
-PORTS MINI EPON OLT OP-EOLT 74408E 4+4 PON PORTS EPON OLT OP-EOLT 11444 IU Pizza Type EPON OLT OP-EOLT 11448 IU Pizza Type EPON OLT
+ET 70044 Layer3 4 Ports EPON OLT OP-EOLT 74404 4 PON PORTS MINI EPON OLT OP-EOLT 74408E 4+4 PON PORTS EPON OLT OP-EOLT 11444 IU Pizza Type EPON OLT OP-EOLT 11448 IU Pizza Type EPON OLT
 ONT
-Subscriber End Equipment OP-XONT 71001 OP-XONT 74010-AX15 4GE+
-1POTS+WiFi6(AX1500) XPON ONT OP-XONT 74010-AX30 4GE+
-1POTS+WiFi6(AX3000) XPON ONT Subscriber End Equipment OP-XONT 71000 OP-XT 71000N G/EPON IGE+WiFi OP-XONT 7008P/7016P/
-7024P Series XPON MDU OP-XONT 74010-AX15 –
-WiFi 6 xPON VoIP Gateway ONT
+Subscriber End Equipment OP-XONT 71001 OP-XONT 74010-AX15 4GE+ 1POTS+WiFi6(AX1500) XPON ONT OP-XONT 74010-AX30 4GE+ 1POTS+WiFi6(AX3000) XPON ONT Subscriber End Equipment OP-XONT 71000 OP-XT 71000N G/EPON IGE+WiFi OP-XONT 7008P/7016P/7024P Series XPON MDU OP-XONT 74010-AX15 – WiFi 6 xPON VoIP Gateway ONT
 Support
 Technical Support Product Datasheet Firmware FAQs
 Career
@@ -330,4 +282,4 @@ Product Datasheet
 Firmware
 FAQs
 Official info
-501/502, 5th Floor, Sanjona Complex, Plot No.11-A, Hemu Kalani Road, Chembur (E), Mumbai- 400 071, Mah
+501/502, 5th Floor, Sanjona Complex, Plot No.11-A, Hemu Kalani Road, Chembur (E), Mumbai- 400 071, Maharas

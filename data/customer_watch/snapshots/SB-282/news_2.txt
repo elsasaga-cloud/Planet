@@ -1,64 +1,141 @@
-# SB-282 nfsteknoloji.com · news_2 · http://nfsteknoloji.com/duyurularimiz.html · fetched 2026-11-02T09:40:28Z · HTTP 404
-Alantron - Profesyonellerin Tercihi - Web Hosting, VPS, Sunucu Kiralama, Alan Adı Yazmanı
-0.850.346-6280
-Merhaba ! ( 4 mesaj ) Güvenli çıkış
-Alantron.com
-English
-Hesap Yönetimi
-Mesaj Kutusu
-Şifremi Unuttum
-Logout
-Menu
-Alan Adı
-Backorder
-Web Hosting
-E-posta
-SSL
-VPS
-Sunucu
-Teknik Arıza
-Sorun tekrarlıyorsa +90.850.346-6280 no'lu destek hattından sorun ile ilgili bilgi alabilirsiniz.
-rno: Geçersiz istem - IN481 OA 9623446 125308
-rno: Undefined query - IN481 OA 9623446 125308
-Alan Adı Fiyatları
-Alan Adı Kaydı
-Alan Adı Yenileme
-Toplu Kayıt
-Alan Adı Transfer
-Toplu Transfer
-TMCH Kaydı
-Backorder
-Hosting Fiyatları
-Hosting Yenileme
-Sadece E-posta Fiyatları
-Sadece E-posta Yenileme
-VPS Fiyatları
-VPS Yenileme
-Sunucu Fiyatları
-Sunucu Yenileme
-Kalite Garantisi
-Hesap Yönetimi
-Alan Adı Yönetimi
-Alantron İstatistikleri
-Alantron Hakkında
-Alantron'da Kariyer
-SSL Fiyatları
-SSL Yenileme
+# SB-282 nfsteknoloji.com · news_2 · http://nfsteknoloji.com/duyurularimiz.html · fetched 2026-11-03T09:43:52Z · HTTP 200
+Duyurularımız |NFS Teknoloji | Türkiye Distribütörü
+Gelin Birlikte Büyüyelim
+Bir bahçeye giremezsen, durup seyran eyIeme. Bir gönüI yapamazsan, yıkıp viran eyIeme.
+Kim olduğun değil, kiminle olduğun önemlidir.
+Güçlü olan, yenilmeyen yalnız azimdir.
+Geçmişler geleceğe, suyun suya benzemesinden daha çok benzer.
+Başkasında görüp hoşlanmadığın ayıbın kendinde olduğunu görmemekten büyük ayıp olamaz.
+Yalnızlık paylaşılmaz, paylaşılsa yalnızlık olmaz.
+Sabır saadeti ebedi kaIır sabır kimde ise o nasib aIır.
+SeveIim, seviIeIim, bu dünya kimseye kaImaz.
+Çok söz hamal yüküdür.
+Meyvesi çamura düşüyor diye ağacamı lanet edilir?
+Cesaret insanı zafere, kararsızlık tehlikeye, korkaklık ise ölüme götürür.
+Dünle birlikte gitti cancağızım. Ne varsa düne ait, şimdi yeni şeyler söylemek lazım.
+Hiç hata yapmayan insan, hiçbir şey yapmayan insandır.
+Bir kimsenin malını nereden kazandığını öğrenmek istiyorsanız, onu nereye harcadığına bakınız.
+Derdi dünya oIanın, dünya kadar derdi vardır.
+Hayatta en büyük hata, kendini hatasız sanmaktır.
+Ne kadar bilirsen bil, anlatabildiklerin, karşındakinin anlayabildiği kadardır
+Cömertlik olmayınca malın, vefa olmayınca arkadaşlığın hayrı olmaz.
+Avcı nice tuzak, hile bilirse, ayı da onca yol bilir.
+Bilmediklerimi ayağımın altına alsaydım başım göğe ererdi.
+Zekasız kuvvet yıkabilir, ama yapamaz.
+Dinlerseniz, size her zaman yol gösteren bir sesin var olduğunu duyarsınız.
+Zindanların en darı, ahlakı, ahlakına uymayan insanlarla bir arada bulunmaktır.
+Gençliğini eğlenmekle geçiren, ihtiyarlığını ağlamakla geçirir.
+İnsanların en akıllıları, insanların hareketlerini takdir edenlerdir.
+Akıllı insanın lisanı kalbindedir. Düşünerek söyler.
+İIim iIim biImektir, iIim kendin biImektir, sen kendini biImezsen, bu nice okumaktır.
+İnsanların en cömerdi,istenilmeden veren,en asili de intikama gücü yeterken onu bağışlayandır.
+Yerini beğenmeyen fidan ağaç olamaz.
+Uzak mesafelere ulaşmak, yakın mesafeleri aşmakla mümkündür.
+İyiliğe iyilik her kişinin karı, kötülüğe iyilik er kişinin karı.
+Yerinde söz söyleyen, özür dilemek zorunda kalmaz.
+Cevizin kabuğunu kırıp özüne inmeyen,cevizin hepsini kabuk zanneder.
+Kibir bele bağlanmış taş gibidir. Onunla ne yüzülür nede uçulur
+Kibir bele bağlanan taş gibidir, onunla ne yüzülür, ne de uçulur.
+Bir şeyi bulunmadığı yerde aramak, onu aramamak demektir.
+Kanaatten nasibi olmayanı dünya malı nasıl zengin eder
+Akıl noksanlığı iki türlü olur; Biri deliklikten, öbürü cahillikten
+Nefistir seni yoIda koyan, yoIda kaIır nefse uyan.
+Bir kötülüğü beğenen, onu işleyenden daha kötüdür.
+Küçük şeylere gereğinden fazla önem verenler, elinden büyük iş gelmeyenlerdir.
+Kusurumuz ne kadar çoksa o kadar kusur ararız.
+Cömertlik olmayınca malın, vefa olmayınca arkadaşlığın hayrı olmaz.
+SeveIim, seviIeIim, bu dünya kimseye kaImaz.
+CümIeIer doğrudur sen doğru isen, doğruIuk buIunmaz sen eğri isen.
+Dünyada en huzursuz kimse, gönlünde hased ve kin tutandır.
+Ayrılığın safasından, birliğin kederi, daha hayırlıdır.
+Kimin söylediği ile yaptığı bir olursa, işte doğru insan odur.
+Yaşlanarak değil, yaşayarak kemale erilir.Zaman insanları değil,armutları olgunlaştırır.
+Bilginin olduğu yerde bilenler, aklın olduğu yerde düşünenler vardır.
+Kalp ne ile dolu ise, dudaklardan o dökülür
+Üç şey sürekli kalmaz; ticaretsiz mal, tekrarsız bilgi, cesaretsiz iktidar.
+İyiliği gizlemek, kötülüğü gizlemekten daha üstündür.
+Güvenlik Sistemleri
+Hanwha Techwin
+Wisenet X Serisi
+Wisenet P Serisi
+Wisenet Q Serisi
+Wisenet HD+
+Wisenet III Serisi
+Wisenet Lite
+PoE+NVR
+Wisenet X Serisi
+Wisenet P Serisi
+Wisenet Q Serisi
+Wisenet HD+
+Wisenet III Serisi
+Wisenet Lite
+PoE+NVR
+Oinone
+IP CCTV
+IP Kamera
+NVR Kayıt Cihazları
+VMS Yazılımı
+Lensler
+Analog CCTV
+AHD-TVI Kameralar
+DVR Kayıt Cihazları
+Lens Çeşitleri
+VMS Yazılımı
+Profesyonel Switchler
+Plaka Tanıma Sistemi
+Aktif Network Ekipmanları
+Server ve Storage
+Dekoder ve Klavyeler
+Pelco
+Güvenlik Kameraları
+Video Yönetim Çözümleri
+Aksesuarlar
+TDSI
+Kontrol Panelleri
+Okuyucular
+Kartlar
+Yazılım
+Identiv
+Credentials
+Physical Access
+RFID, NFC and Inlays
+Smart Card Readers
+Tushing
+Camera
+Housing
+Bracket
+Dome
+Pan/Tilt
+Accessory
+Kurumsal
+Hakkımızda
+Fuarlar
+Duyurular
+Ödüllerimiz
+Dökümanlar
+Blog
+Destek & Yazılım
+Proje Destek
 Teknik Destek
 Eğitim Videoları
+Yazılım
+Bizimle Çalışın
+Bayilik Başvurusu
 Bize Ulaşın
-Alantron API
-Mesaj Kutum
-Bilet Oluştur
-Bilgi Veritabanı Sorgulama
-Alan Adı Sözleşmesi
-Hosting Sözleşmesi
-VPS Sözleşmesi
-Sunucu Sözleşmesi
-Şikayet Oluştur
-Gizlilik Politikası
-UDRP Policy
-Alan Adı Bayiliği
-Yeni Hesap Aç
-WHOIS
-Bayi Giriş
+NFS FIRSAT
+FIRSATLAR
+BAYİ GİRİŞİ
+Duyurularımız
+Ramazan ayında çalışma saatlerimiz
+6 Haziran 2016
+25 Mart 2016
+28 Mart 2016
+Adres
+Aydınevler Mah. Öncel Sk. Meda Marmara Sit.
+No:1-13A Maltepe/İstanbul/Türkiye PK:34854
+Sosyal Medya
+Bize Ulaşın
+info@nfsteknoloji.com
+(0216) 505 82 28
+FIRSATI ŞİMDİ YAKALA!
+Copyright © NFS Teknoloji 2016

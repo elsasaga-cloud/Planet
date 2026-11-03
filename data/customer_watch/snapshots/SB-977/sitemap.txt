@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · sitemap · https://www.eltrox.cz/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-977 eltrox.cz · sitemap · https://www.eltrox.cz/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://www.eltrox.cz/znacka/2n/
 	https://www.eltrox.cz/znacka/2x3/
 	https://www.eltrox.cz/znacka/360/
@@ -177,6 +177,7 @@
 	https://www.eltrox.cz/znacka/eaton/
 	https://www.eltrox.cz/znacka/ebolt/
 	https://www.eltrox.cz/znacka/edbak/
+	https://www.eltrox.cz/znacka/edding/
 	https://www.eltrox.cz/znacka/edifier/
 	https://www.eltrox.cz/znacka/ejeas/
 	https://www.eltrox.cz/znacka/el-home/
@@ -304,5 +305,4 @@
 	https://www.eltrox.cz/znacka/hytera/
 	https://www.eltrox.cz/znacka/chiq/
 	https://www.eltrox.cz/znacka/choetech/
-	https://www.eltrox.cz/znacka/chuwi/
-	https://ww
+	https://w

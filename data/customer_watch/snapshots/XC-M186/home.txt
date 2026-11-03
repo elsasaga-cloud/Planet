@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-02T09:40:28Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-03T09:43:52Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -33,6 +33,7 @@ Berica Cavi Cable
 Bosch Fire
 Bosch Intrusion Alarm by Radionix
 Bysecur
+Cellhire
 ComNet
 Cooper Safety
 CSAG
@@ -550,6 +551,7 @@ IP-Hardware
 2N
 Alpha
 Axis Communications
+Bosch Fire
 ComNet
 Dahua
 elbaC - Alpha
@@ -1022,6 +1024,7 @@ Ajax Certified
 Alpha
 ALTEC ATLS
 Axis Communications
+Bosch Fire
 Bysecur
 Dahua
 Duracell
@@ -1181,17 +1184,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Akuvox Intercom Basics
-2 November
-@ SmartSD Saint-herblain (FR)
-4 November
-@ SmartSD Breda (NL)
-23 November
-@ SmartSD Merchtem (BE)
-24 November
-@ SmartSD Lisses (FR)
-3 December
-@ SmartSD Portet-sur-garonne (FR)
 Bandit Fog Generators
 3 November
 @ SmartSD Breda (NL)
@@ -1208,6 +1200,15 @@ Bandit Fog Generators
 @ SmartSD Breda (NL)
 10 December
 @ SmartSD Merchtem (BE)
+Akuvox Intercom Basics
+4 November
+@ SmartSD Breda (NL)
+23 November
+@ SmartSD Merchtem (BE)
+24 November
+@ SmartSD Lisses (FR)
+3 December
+@ SmartSD Portet-sur-garonne (FR)
 Ajax EN54 Hands-On Training
 5 November
 @ SmartSD Merchtem (BE)

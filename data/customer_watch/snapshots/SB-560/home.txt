@@ -1,4 +1,4 @@
-# SB-560 womaster.eu · home · https://www.womaster.eu/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-560 womaster.eu · home · https://www.womaster.eu/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 WoMaster-Master in IIoT World | Industrial 5G/LTE Routers & IIoT Networking
 WoMaster
 ABOUT US
@@ -173,10 +173,9 @@ WoMaster recorded an on–site demo video to show the implementation of ERPS v.2
 New Product
 Dual-Port 10GbE Industrial PCIe Network Adapter
 INE610 Industrial 10G Networking for AI Servers and Edge AI Systems
+The INE610-LPSL is a high-performance, dual-port 10GbE industrial network adapter powered by the Intel® Ethernet Controller E610-XAIT2. Designed for AI servers, edge AI computing, and rugged industrial networking applications, it delivers reliable, high-speed connectivity with flexible multi-gigabit data rates of 10G, 5G, 2.5G, 1G, and 100Mbps through dual RJ45 Ethernet ports and a PCIe 4.0 x4 interface.
+Featuring a compact Low-Profile Short-Length (LPSL) form factor, the INE610-LPSL is ideal for space-constrained industrial computers, high-density servers, and embedded AI systems. Its industrial-grade design supports an extended operating temperature range of -40°C to +70°C, ensuring dependable operation in demanding environments.
+Engineered for enhanced electrical resilience, the adapter provides 8kV Hi-Pot isolation, surge immunity of 4kV line-to-earth / 2kV line-to-line, and IEC 61000-4-2 Level 4 ESD immunity (8kV contact / 15kV air). Backed by a 5-year warranty, the INE610-LPSL delivers a robust, compact, and reliable networking solution for next-generation industrial AI infrastructure.
 Portable IP68 Rugged Tablet 10.1 Inch with Cellular 5G and WiFi Connectivity
 RugPad 5101
-The WoMaster RugPad 5101 is a rugged Windows 11 tablet designed for demanding industrial and field environments. Powered by an energy-efficient Intel i5-10210Y quad-core processor with 8GB DDR memory and a 128GB SSD, it delivers strong performance while maintaining low power consumption. Its 10.1-inch 1920×1200 display offers 700 cd/m² brightness and a 10-point G+G touch screen with ≥7H hardness, supporting operation with medical rubber gloves for specialized applications.
-Built for durability, the RugPad 5101 features IP68 ingress protection and MIL-STD-810H compliance. It operates in extreme temperatures from -20°C to 60°C and is equipped with a 5550 mAh battery for extended field use. Rudpad 5101-5G supports standard 5G and 4G Europe / Latam America bands and B68 for proprietary security bands (5G: n28 band 700 MHz and n78 band 3.5 GHz) ,(4G LTE B1/B3/B7/B8/B20/B68) Other connectivity interfaces include 100/1000M Ethernet, Bluetooth 5.2, WiFi 6 (802.11a/b/g/n/ac/ax), and multiple interfaces such as USB 3.0 Type C, USB 3.0 Type A, RS232, Micro HDMI, TF card slot, and Micro SIM.
-All-in-One HMI + Programming Controller PLC with 7-inch Touch Screen and Ethernet IO
-HE7 Touch Screen Programming Controller
-The WoMaster HE7 Programming Controller is a compact and powerful all-in-one solution that integrates a 7-inch touch screen HMI with a versatile PLC controller. Designed for industrial automation applications, it supports STEP 7-MicroWIN SMART programming and all S7-200 SMART instructions, offering a familiar development e
+The WoMaster RugPad 5101 is a rugged Windows 11 tablet designed for demanding industrial and field environments. Powered by an energy-efficient Intel i5-10210Y quad-core processor with 8GB DDR memory and a 128GB SSD, it delivers strong performance while maintaining low power consumption. Its 10.1-inch 1920×1200 display offers 700 cd/m² brightness and a 10-point G+G touch screen with ≥7H hardness, supporting operation with medical rub

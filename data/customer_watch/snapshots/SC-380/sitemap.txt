@@ -1,4 +1,4 @@
-# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://iptime.com/
 	https://iptime.com/products
 	https://iptime.com/notices
@@ -21,7 +21,7 @@
 	https://iptime.com/store/dealer
 	https://iptime.com/products?cat=all
 	https://iptime.com/products?cat=nas
-	https://iptime.com/products?cat=cam
+2026-11-03T09:18:17.380Z	https://iptime.com/products?cat=cam
 	https://iptime.com/products?cat=router_be
 	https://iptime.com/products?cat=router_ax
 	https://iptime.com/products?cat=router_ac
@@ -34,9 +34,9 @@
 	https://iptime.com/products?cat=lancard
 	https://iptime.com/products?cat=accessory
 	https://iptime.com/products?cat=discontinued
-2026-10-30T08:03:16.871Z	https://iptime.com/products/compare
+2026-11-03T09:50:13.180Z	https://iptime.com/products/compare
 2026-10-30T08:50:25.194Z	https://iptime.com/products/compare-table
-2026-11-02T02:54:57.128Z	https://iptime.com/products/compare-ipcam
+2026-11-03T08:58:22.835Z	https://iptime.com/products/compare-ipcam
 2026-08-31T07:19:32.851Z	https://iptime.com/products/1
 2026-08-31T07:19:32.851Z	https://iptime.com/products/2
 2026-08-31T07:19:32.851Z	https://iptime.com/products/4
@@ -73,7 +73,7 @@
 2026-08-31T07:19:32.851Z	https://iptime.com/products/36
 2026-08-31T07:19:32.851Z	https://iptime.com/products/37
 2026-08-31T07:19:32.851Z	https://iptime.com/products/38
-2026-10-01T02:15:47.815Z	https://iptime.com/products/39
+2026-11-03T09:02:02.300Z	https://iptime.com/products/39
 2026-08-31T07:19:32.851Z	https://iptime.com/products/40
 2026-08-31T07:19:32.851Z	https://iptime.com/products/41
 2026-08-31T07:19:32.851Z	https://iptime.com/products/42
@@ -127,7 +127,7 @@
 2026-08-31T07:19:32.851Z	https://iptime.com/products/91
 2026-08-31T07:19:32.851Z	https://iptime.com/products/92
 2026-08-31T07:19:32.851Z	https://iptime.com/products/93
-2026-10-01T02:20:29.042Z	https://iptime.com/products/94
+2026-11-03T09:02:02.300Z	https://iptime.com/products/94
 2026-08-31T07:19:32.851Z	https://iptime.com/products/95
 2026-08-31T07:19:32.851Z	https://iptime.com/products/96
 2026-08-31T07:19:32.851Z	https://iptime.com/products/97
@@ -161,7 +161,7 @@
 2026-08-31T07:19:32.851Z	https://iptime.com/products/128
 2026-08-31T07:19:32.851Z	https://iptime.com/products/129
 2026-08-31T07:19:32.851Z	https://iptime.com/products/130
-2026-08-31T07:19:32.851Z	https://iptime.com/products/131
+2026-11-03T09:11:50.771Z	https://iptime.com/products/131
 2026-08-31T07:19:32.851Z	https://iptime.com/products/132
 2026-08-31T07:19:32.851Z	https://iptime.com/products/133
 2026-08-31T07:19:32.851Z	https://iptime.com/products/134
@@ -201,7 +201,7 @@
 2026-08-31T07:19:32.851Z	https://iptime.com/products/178
 2026-08-31T07:19:32.851Z	https://iptime.com/products/179
 2026-08-31T07:19:32.851Z	https://iptime.com/products/180
-2026-10-01T02:22:11.804Z	https://iptime.com/products/181
+2026-11-03T09:02:02.300Z	https://iptime.com/products/181
 2026-08-31T07:19:32.851Z	https://iptime.com/products/182
 2026-08-31T07:19:32.851Z	https://iptime.com/products/183
 2026-08-31T07:19:32.851Z	https://iptime.com/products/184
@@ -223,4 +223,4 @@
 2026-08-31T07:19:32.851Z	https://iptime.com/products/200
 2026-08-31T07:19:32.851Z	https://iptime.com/products/201
 2026-08-31T07:19:32.851Z	https://iptime.com/products/202
-2026-08-31T07:19:32.851Z	https://iptime.com/products/
+2026-08-31T07:19:32.851Z	http

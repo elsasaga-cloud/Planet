@@ -1,4 +1,4 @@
-# SB-637 NaSys Inc · home · http://errdoc.gabia.io/403.html · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-637 NaSys Inc · home · http://errdoc.gabia.io/403.html · fetched 2026-11-03T09:43:52Z · HTTP 200
 403 Forbidden
 요청한 페이지에 접근 권한이 없습니다.
 사이트 관리자이신가요?

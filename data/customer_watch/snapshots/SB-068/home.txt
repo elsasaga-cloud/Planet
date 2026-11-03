@@ -1,4 +1,4 @@
-# SB-068 ict-integrators.com · home · https://ict-integrators.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-068 ict-integrators.com · home · https://ict-integrators.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 ICT Integrators | Your Digital Transformation Partner
 MENU
 CLOSE
@@ -190,34 +190,46 @@ Managed SD-WAN
 Managed SD-Access
 Managed Wireless Network
 ICT Integrators offers these managed IT services as a Third-Party organization with a network operations center to proactively monitor customer systems, resolve issues and perform work with adequate level of expertise and efficiency.
-The world of networking is undergoing a major shift over the past few years, not only they are expanding but micro services and containers in application stack have put new challenges to IT operations across enterprises to build a faster and leaner network stack. Greater visibility into end-to-end n...
+The developing noticeable quality of security solutions has prodded new patterns in the video surveillance market. The advancements in the Video Analytics and an explosion in the amount of data generated, processed and stored have resulted in an increasing demand for proficient surveillance cameras....
 More
-Automation & Programability
+IP Video Surveillance and Analytics
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Automation & Programability
-The world of networking is undergoing a major shift over the past few years, not only they are expanding but micro services and containers in application stack have put new challenges to IT operations across enterprises to build a faster and leaner network stack. Greater visibility into end-to-end network flow and granular control is another big requirement. It means that organizations need to keep up with the agility of ever-changing application landscape.
-We at ICT Integrators have skill set of automating various areas of IT landscape through programming such as:
-- Inventory - To be able to understand what is actually there?
-- Configuration Drift and Audit - To be able to detecct if there are any changes from the baseline or compliance/security checklist?
-- OS Upgrades - Simplified & intelligent management of updates for both network and systems!
-- Provisioning & Policy Automation - Creating, Approving and Implementing a policy/configuration change through the IT landscape!
-- Workloads - Automating day to day tasks by using pre-build wizards/scripts.
-With vast knowledge of multi-vendor API capabilities & functions, we use tested state of the art TOOLKIT such as:
-- GiT
-- Ansible, Puppet, Jenkins
-- Python
-- YANG, NETCONF, JSON, REST, XML, YAML, Jinja
-- Stackstorm
-May it be SME, Large Scale Enterprises or Service Providers, ICT Integrator's tailor made hardware/software vendor agnostic automation recipes can alleviate the burden of daily networking tasks—bandwidth allocation, traffic routing and security policy configuration, and anomaly detection thus saving time, eliminating human error, and enabling troubleshooting and remediation in real time.
-We provide solutions that seamlessly integrate business communication methods, such as calls, messages, video conference, data sharing, desktop sharing ensuring everything is synchronized and running together.
-ICT Integrators has experience to design and deploy Unified Collaboration solutions tha...
+IP Video Surveillance and Analytics
+The developing noticeable quality of security solutions has prodded new patterns in the video surveillance market. The advancements in the Video Analytics and an explosion in the amount of data generated, processed and stored have resulted in an increasing demand for proficient surveillance cameras.
+ICT Integrators, being partner of KEDACOM, Tiandy and Axxonsoft design surveillance solutions for the small, medium and large enterprises. We have the wide range of Intelligent IP Cameras, Encoders, NVR, and Video Management Software (VMS) along with the advanced analytics solutions for deeper video analysis.
+Our experts have designed and deployed Intelligent Security Solutions for Industries and Educational Institutes.
+Solution offerings includes
+IP Cameras (Bullet, Dome, PTZ etc.)
+Thermal Cameras
+NVR and VMS
+Large Video Storage
+Encoders
+Video Walls
+Specialized Enclosures
+Advanced Intelligent Analytics
+We offer our customers, performance management and monitoring services that help to control costs and improves network efficiency.
+Our Network Monitoring service enables the delivery, monitoring and management of critical network performance metrics such as bandwidth utilization, throughput, late...
 More
-Unified Collaboration
+Performance Management & Monitoring
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Unified Collaboration
-We provide solutions that seamlessly integrate business communication methods, such as calls, messages, video conference, data sharing, desktop sharing ensuring everything is synchronized and running together.
-ICT Integrators has experience to design and deploy Unified Collaboration solutions that include cloud calling, call control, collaboration management, communication gateways, telephone 
+Performance Management & Monitoring
+We offer our customers, performance management and monitoring services that help to control costs and improves network efficiency.
+Our Network Monitoring service enables the delivery, monitoring and management of critical network performance metrics such as bandwidth utilization, throughput, latency, availability and application infrastructure, including equipment asset management for large enterprises and service providers.
+We offer solution and services around:
+Network Performance Monitoring
+Application Performance Monitoring
+Packet Capture Analysis
+Network Mapping
+Customizable Reports
+We help our customers to automate processes and prioritize routine decision-making through advanced algorithms. This helps evacuate the possibility of human blunder and empowers us to move the conventional guideline-based procedures to progressively smart ones to empower the disclosure of new unstru...
+More
+Aritifical Intelligence (ML & DL)
+×
+ICT Integrators - Your Digital Transformation Partner
+I'm Interested
+Aritifical Intelligence (ML & DL)
+We help our customers to automate processes and prioritize routine decis

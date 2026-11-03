@@ -1,12 +1,12 @@
-# SC-1309 Elftech Co.,Ltd. · home · https://elftech.co.kr/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-1309 Elftech Co.,Ltd. · home · https://elftech.co.kr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 ㈜엘프테크 ELFTECH · WDM 광전송과 정밀 시간동기
+본문 바로가기
 제품
 회사소개
 인증
 연혁
 공지·자료실
 견적 문의
-WDM 광전송 · 정밀 시간동기
 빛으로 잇는 통신망,
 WDM 광전송 의 힘.
 WDM 광전송장비와 정밀 동기 클럭을 자체 기술로 개발·공급합니다. 이동통신사와 국가 기간망의 전송 인프라를 책임집니다.
@@ -17,16 +17,13 @@ WDM 광전송장비와 정밀 동기 클럭을 자체 기술로 개발·공급�
 전력 변전소 · 스마트그리드
 철도 신호 · 제어 시스템
 산업 인프라 공장자동화 · 플랜트
-Products
 통신 인프라 핵심 장비
 주력 WDM 광전송장비 ELF5000을 중심으로, 광 MUX와 정밀 동기 클럭까지 자체 기술로 제공합니다.
-01 / WDM TRANSPORT
 파장분할 다중화 광전송
 STM·GbE·OTN 신호를 한 장치에 수용해 광 선로 효율을 높이고 투자비와 유지보수 비용을 줄입니다.
 ELF5000 주력 WDM 전송장치. STM-16/64, 1G/10G/100GbE 통합 수용
 ELF4360 4U/2U. Enterprise Network Application 대응
 ELF1006+ CPRI/OBSAI 광전송. 3G/LTE DU-RU 광선로 절감
-02 / OPTICAL MUX
 CWDM 광 MUX
 Dual band filter 기반 파장분할 다중화. 19인치 랙 마운트 셀프로 제공합니다.
 1350/1490
@@ -35,7 +32,6 @@ Dual band filter 기반 파장분할 다중화. 19인치 랙 마운트 셀프로
 IL ≤ 1.5dB
 RL ≤ -45dB
 Isolation ≥ 25dB
-03 / TIMING & SYNC
 정밀 시간동기
 IEEE 1588v2 PTP 기반 Grandmaster Clock. Microchip 정밀 타이밍 솔루션을 공급합니다.
 TimeProvider 4100 5G/6G 고정밀 PTP/NTP Grandmaster. ePRTC급 정밀도
@@ -91,7 +87,6 @@ PTP, NTP, IRIG-B, 1PPS, ToD 등 산업 표준 인터페이스 지원
 특허증
 ISO 9001 품질경영
 ISO 14001 환경경영
-History
 엘프테크의 발자취
 2023-2026 100G DWDM
 2026 LGU+ 전송망 중형 24Ch 100G DWDM 납품
@@ -113,5 +108,5 @@ History
 평일  -
 ㈜엘프테크 | 대표 정재일 | 사업자 123-86-22183
 경기 안양시 동안구 학의로 250 관양두산벤처다임 610호 (우 14056) | TEL 031-348-2300 | FAX 031-348-2400
-© 2026 ELFTECH. All rights reserved.
+© 2026 ELFTECH. All rights reserved. v0.1.0.10
 공지사항 · 자료실 · 관리자

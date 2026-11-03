@@ -1,4 +1,4 @@
-# SB-1026 epygi.com · home · https://www.epygi.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1026 epygi.com · home · https://www.epygi.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Epygi Home - Epygi
 Skip to content
 Support Portal
@@ -57,6 +57,8 @@ EVIA
 Epygi Virtual Intelligent Assistant
 Unlock the Special Offer
 Learn more
+New Hotel Bundles
+View Packages
 Reliable Telephony for
 - emergency handling
 - staff mobility
@@ -67,12 +69,6 @@ with Epygi
 Accelerate
 AI Solutions
 Learn how
-- emergency alerts
-- campus-wide directory
-- security integrations
-School Safety
-Solution
-Learn more
 Learn more QX Line of on-premise IP PBXs and Gateways.
 Epygi Home MJ 2026-10-20T10:-
 ecQX Cloud PBX

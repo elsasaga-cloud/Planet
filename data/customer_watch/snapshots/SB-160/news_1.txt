@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -184,12 +184,12 @@ Tight-buffered cable was considered best for indoor applications whilst loose-tu
 Read More
 AWG CONVERSION GUIDE
 / September 20, 2021
-Views: 604
+Views: 605
 American Wire Gauge or AWG is the US standard measure for the diameter of cable electrical conductors. This AWG chart is based on the number of dies originally required to
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
 / September 13, 2021
-Views: 1,918
+Views: 1,920
 The process of terminating twisted pair cable may seem simple on the surface, however, issues involving unproperly terminated solutions can arise, specially within today’s High-Performance LANs. With so many ways
 Read More
 A GUIDE TO LAN CABLE
@@ -199,12 +199,12 @@ Despite the many advancements in fibre optic cable and newer builds taking advan
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,952
+Views: 5,954
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES
 / August 23, 2021
-Views: 581
+Views: 582
 Bandwidth in cables refers to the range of frequencies used to transfer information through data cables. The broader the bandwidth, the more data can be carried respectively. The bandwidth in
 Read More
 CABLE ATTENUATION EXPLAINED
@@ -219,7 +219,7 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,198
+Views: 15,201
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
@@ -234,7 +234,7 @@ You’ll often see ‘bending radius’ on our cable product datasheets and wond
 Read More
 FIBRE OPTIC CABLE TYPES- SINGLEMODE VS MULTIMODE
 / July 12, 2021
-Views: 868
+Views: 869
 Despite single mode fibre (SMF) and multimode fibre (MMF) being used in diverse applications, the difference between single mode and multimode are still confusing. With many decisions coming into play
 Read More
 Post navigation

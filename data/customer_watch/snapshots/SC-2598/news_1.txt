@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blogs
 Products
 DW Ai
@@ -359,6 +359,10 @@ Blogs
 2025
 2024
 2023
+11/02/2026
+What Should Restaurants Expect from Video Security?
+Thoughtful coverage helps restaurant teams understand an incident before, during and after it happens.The dinner rush is no time to discover that a useful camera view was blocked by a pickup shelf. A guest reports a fall, a delivery arrives short, or an employee needs help at the rear door. Ma [...]
+Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 10/28/2026
 What Should Retailers Expect from Video Security?
 Coordinated views of checkout, merchandise areas and receiving help retail teams reconstruct events and understand the context.A checkout dispute, missing stock and a delivery discrepancy can all start with the same question: what happened? A useful retail video system helps authorized staff f [...]
@@ -390,9 +394,4 @@ Posted by: Mark Espenschied in Technology, Thought Leadership, Vertical Markets
 How Can Places of Worship Stay Welcoming and Improve Video Security?
 Thoughtful coverage, privacy and trained responders help places of worship plan video around their community.
 A place of worship may be a gathering space, a classroom, a food pantry and a neighborhood meeting point—all in the same week. Video planning should reflect that variety. The us [...]
-Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
-10/05/2026
-What Should Critical Infrastructure Operators Expect from Video Security?
-Plan critical-site video around useful coverage, clear response responsibilities and ongoing system checks.
-A clear image is useful. A clear plan for acting on it is essential. At a water facility, electrical substation or communications site, video should help the right people understand [...]
-Posted by: Mark Espenschied in Educa
+Posted by: Mark Espenschied in Educational, Technolog

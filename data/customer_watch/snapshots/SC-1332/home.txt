@@ -1,18 +1,18 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Outdoor Access Points
 Fibre Networking
+Outdoor Access Points
 Audio Visual
 Switching
 Power & UPS
@@ -31,15 +31,15 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Outdoor Access Points
 Fibre Networking
+Outdoor Access Points
 Audio Visual
 Switching
 Power & UPS
@@ -109,9 +109,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
+Crimping Tools
 RJ45 Connectors
 RJ45 Boots
-Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -395,9 +395,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
+Crimping Tools
 RJ45 Connectors
 RJ45 Boots
-Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All

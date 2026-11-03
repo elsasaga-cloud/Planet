@@ -1,4 +1,5 @@
-# SC-2106 Optimal Cable Services · youtube · https://www.youtube.com/user/AFLglobal · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-2106 Optimal Cable Services · youtube · https://www.youtube.com/user/AFLglobal · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-02T14:00:13+00:00	Fujikura 100R Mass Fusion Splicer: Episode 4 | Different Splice Modes	https://www.youtube.com/watch?v=WdYqKSuAEMA
 2026-10-29T13:00:01+00:00	AFL's New OPGW Wire Strander	https://www.youtube.com/watch?v=YbutwyQQZrk
 2026-10-28T13:00:06+00:00	Fujikura 100R Mass Fusion Splicer: Episode 3 | Power-Up & Navigation	https://www.youtube.com/watch?v=R7xx4sQttXY
 2026-10-27T13:00:38+00:00	AFL Classroom: Fujikura 100R Troubleshooting, Maintenance & Best Practices	https://www.youtube.com/watch?v=iqOYp0cjFNs
@@ -13,4 +14,3 @@
 2026-10-12T13:00:27+00:00	Fujikura 100S Fusion Splicer: Episode 10 | Completing a Splice (Auto Mode)	https://www.youtube.com/watch?v=sF7ThT5UmcU
 2026-10-08T13:00:35+00:00	Specialty Fiber Splicing with the Fujikura 100P & 100P+ | AFL Webinar	https://www.youtube.com/watch?v=5EgpFPVlxns
 2026-10-07T13:00:11+00:00	Fujikura 100S Fusion Splicer: Episode 9 | Arc Calibration	https://www.youtube.com/watch?v=g9_3a8A-XJQ
-2026-10-06T13:00:38+00:00	AFL Classroom: AFL Compression Joint Installation on TS AECC Conductor	https://www.youtube.com/watch?v=7H4BIO6eU70

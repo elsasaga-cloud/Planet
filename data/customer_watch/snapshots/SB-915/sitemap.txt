@@ -1,4 +1,4 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
 2026-01-22	https://www.radwin.com/become-a-partner
 2026-01-22	https://www.radwin.com/board-of-directors

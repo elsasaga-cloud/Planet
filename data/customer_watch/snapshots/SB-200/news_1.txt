@@ -1,4 +1,4 @@
-# SB-200 sysnetcenter.com · news_1 · https://sysnetcenter.com/news · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-200 sysnetcenter.com · news_1 · https://sysnetcenter.com/news · fetched 2026-11-03T09:43:52Z · HTTP 200
 บทความ รีวิวอุปกรณ์ Network ระบบเครือข่าย งานติดตั้ง ร้าน Sysnet Center Line: @sysnet Line: @sysnet
 Contact Phone: 02-102-4284, 083-199-7002, 089-489-5970, 080-080-1115 Email: info@sysnetcenter.com
 เข้าสู่ระบบ
@@ -38,19 +38,19 @@ Network Solutions (12)
 โพสต์ล่าสุด
 รีวิว TP-Link Omada Fusion 2.5G Gateway ทดสอบ Multi-WAN, VLAN, Security และ VPN โพสต์ใน : Review อุปกรณ์ Network
 2026-10-27
-22 มุมมอง 0 ชอบ
+25 มุมมอง 0 ชอบ
 รีวิว TP-Link Omada Fusion 2.5G Gateway พร้อม Built-in Omada Controller ทดสอบการตั้งค่าและใช้งานจริง ทั้ง Multi-WAN...
 อ่านเพิ่มเติม
 ดูโพสต์ล่าสุดทั้งหมด
 กระทู้ยอดนิยม
 ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงานด้วย VPN โพสต์ใน : Review อุปกรณ์ Network
 2021-01-15
-57381 มุมมอง 19 ชอบ
+57382 มุมมอง 19 ชอบ
 ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงาน ให้สามารถใช้ Resource ต่างๆร่วมกัน หรือ ให้ Client เชื่อมต่อเข้ามาใช้...
 อ่านเพิ่มเติม
 กระทู้ยอดนิยมทั้งหมด
 Blog tags
-engenius reyee งานติดตั้ง ubiquiti mesh loadbalance controller security aruba wifi hotspot ruijie synology log internet cloud zyxel poe switch software repeater access point mikrotik
+mesh ruijie engenius loadbalance poe switch cloud aruba zyxel ubiquiti software reyee งานติดตั้ง wifi hotspot controller mikrotik security repeater synology access point log internet
 Blog RSS
 BLOG
 บทความ รีวิวอุปกรณ์ Network การใช้งาน การ Config อุปกรณ์ระบบเครือข่าย งานติดตั้ง ร้าน Sysnet Center
@@ -58,51 +58,51 @@ BLOG
 เรียงลำดับ
 โพสต์ยอดนิยม
 รีวิว TP-Link Omada Fusion 2.5G Gateway ทดสอบ Multi-WAN, VLAN, Security และ VPN Posted in: Review อุปกรณ์ Network
-23 จำนวนการดู 0 ชอบ
+25 จำนวนการดู 0 ชอบ
 รีวิว TP-Link Omada Fusion 2.5G Gateway พร้อม Built-in Omada Controller ทดสอบการตั้งค่าและใช้งานจริง ทั้ง Multi-WAN Load Balancing, Failover, VLAN, ACL, Content Filtering, QoS, mDNS และ LightLink VPN พร้อมผลทดสอบ Failover, ความเร็ว VPN ประมาณ 130Mbps รวมถึงข้อสังเกตจากการใช้งานจริงของ SysNet Center
 อ่านเพิ่มเติม
 ป้องกัน Malware และ Ransomware เข้าถึง NAS / Server ด้วย Cybrey Firewall Posted in: Review อุปกรณ์ Network , Network Solutions
-74 จำนวนการดู 2 ชอบ
+76 จำนวนการดู 2 ชอบ
 บทความนี้จำลอง LAB การป้องกัน Malware และ Ransomware เข้าถึง NAS/SERVER ด้วย Cybrey Firewall โดยเริ่มจากทุกอุปกรณ์อยู่ VLAN เดียวกัน แล้วเปรียบเทียบกับการแยก VLAN พร้อมกำหนด Policy เพื่อควบคุมสิทธิ์การเข้าถึง NAS, Server และหน้า Management ของอุปกรณ์ Network
 อ่านเพิ่มเติม
 เครื่องติด Malware แล้วเกิดอะไรขึ้นในระบบ Network? จำลอง Workflow การโจมตี NAS/Server และแนวทางป้องกันด้วย Cybrey Firewall Posted in: Network Tools / Software , Network Solutions
-63 จำนวนการดู 1 ชอบ
+64 จำนวนการดู 1 ชอบ
 จำลอง Workflow เมื่อเครื่องติด Malware ในวง Network เดียวกับ NAS, Server และเครื่อง Office พร้อมอธิบายความเสี่ยงจาก SMB, RDP, C2 Server และแนวทางลดความเสี่ยงด้วย Cybrey Firewall
 อ่านเพิ่มเติม
 VLAN และ Policy บน Cybrey Firewall แยกวง Network ป้องกันการโจมตีในสำนักงาน Posted in: Review อุปกรณ์ Network , Network Solutions
-58 จำนวนการดู 2 ชอบ
+59 จำนวนการดู 2 ชอบ
 ทดสอบ Lab จริง การแยก VLAN ด้วย Cybrey Firewall ช่วยป้องกัน Guest Wi-Fi เข้าถึง NAS, CCTV, RDP และลดความเสี่ยงจาก ARP Spoofing, Ransomware และการโจมตีภายในเครือข่ายสำนักงานได้อย่างไร
 อ่านเพิ่มเติม
 Forward Port เข้า NAS และ RDP เสี่ยงโดนแฮก? Firewall ช่วยป้องกันระบบ Office ได้อย่างไร Posted in: Review อุปกรณ์ Network , การตั้งค่าอุปกรณ์ Networtk , Network Solutions
-186 จำนวนการดู 1 ชอบ
+187 จำนวนการดู 1 ชอบ
 ทดสอบจริงการ Forward Port เข้า NAS และ Remote Desktop จากภายนอก ผู้โจมตีสแกนเจออะไรได้บ้าง เสี่ยง Ransomware แค่ไหน และ Firewall ช่วยป้องกันระบบ Office ได้อย่างไร
 อ่านเพิ่มเติม
 เปรียบเทียบ Reyee Gateway Router แต่ละรุ่น Posted in: Review อุปกรณ์ Network
-105 จำนวนการดู 0 ชอบ
+107 จำนวนการดู 0 ชอบ
 เปรียบเทียบ Reyee Gateway Router แต่ละรุ่น พร้อมสรุป CPU, RAM, Flash Memory, Internet Throughput, จำนวน Port WAN/LAN, Port 2.5G, SFP+, PoE Budget, จำนวนผู้ใช้งาน, VPN Throughput, SD-WAN และจำนวนอุปกรณ์ที่บริหารผ่าน Router Mode / AC Mode เพื่อช่วยเลือกรุ่นที่เหมาะกับสำนักงาน ร้านค้า โรงแรม โรงเรียน และระบบ Network ที่ต้องการบริหารผ่าน Ruijie Cloud
 อ่านเพิ่มเติม
 วิธีแยก Guest VLAN ด้วย Reyee Gateway และ Access Point Posted in: การตั้งค่าอุปกรณ์ Networtk
-106 จำนวนการดู 2 ชอบ
+107 จำนวนการดู 2 ชอบ
 วิธีแยก Guest Wi-Fi ออกจากวง Network หลักด้วย Reyee Gateway, Managed Switch และ Access Point พร้อมตั้งค่า VLAN และ ACL
 อ่านเพิ่มเติม
 การทำ Policy-Based Routing (PBR) ใน Reyee Gateway กำหนด VLAN ให้ออก Internet คนละเส้น Posted in: การตั้งค่าอุปกรณ์ Networtk
-158 จำนวนการดู 1 ชอบ
+159 จำนวนการดู 1 ชอบ
 วิธีตั้งค่า Policy-Based Routing หรือ PBR บน Reyee Gateway ผ่าน Ruijie Cloud เพื่อกำหนด VLAN 10 ให้ออก WAN0 และ VLAN 20 ให้ออก WAN1 พร้อมวิธีทดสอบด้วย Traceroute และ ifconfig.me
 อ่านเพิ่มเติม
 การทำ VIGI Remote Registration บันทึกภาพจาก VIGI IP-Camera ข้าม Site Posted in: Review อุปกรณ์ Network , การตั้งค่าอุปกรณ์ Networtk
-115 จำนวนการดู 0 ชอบ
+117 จำนวนการดู 0 ชอบ
 วิธีตั้งค่า VIGI Remote Registration ให้ VIGI NVR บันทึกภาพจาก VIGI IP-Camera ข้าม Site ผ่าน Internet โดยไม่ต้องทำ VPN พร้อมวิธี Forward Port และตั้งค่า NVR กับกล้อง
 อ่านเพิ่มเติม
 Cloud Authen ด้วย Reyee Gateway ระบบ Login Internet ผ่าน Ruijie Cloud Posted in: Review อุปกรณ์ Network , การตั้งค่าอุปกรณ์ Networtk
-209 จำนวนการดู 1 ชอบ
+211 จำนวนการดู 1 ชอบ
 Cloud Authen ด้วย Reyee Gateway ระบบ Login Internet ผ่าน Ruijie Cloud
 อ่านเพิ่มเติม
 งานติดตั้งกล้องวงจรปิด TP-Link VIGI พร้อมภาพทดสอบกลางวัน-กลางคืน Posted in: Network Solutions
-100 จำนวนการดู 6 ชอบ
+102 จำนวนการดู 6 ชอบ
 Solution ระบบกล้องวงจรปิด TP-Link VIGI พร้อมแนวทางติดตั้ง ภาพทดสอบกลางวัน-กลางคืน จุดเด่นด้าน AI, NVR, PoE และการใช้งานผ่านมือถือ
 อ่านเพิ่มเติม
 Solution การ Backup ข้อมูลด้วย NAS พร้อมตัวอย่างการใช้งานจริง Posted in: Network Solutions
-156 จำนวนการดู 1 ชอบ
+158 จำนวนการดู 1 ชอบ
 Solution การ Backup ข้อมูลด้วย NAS พร้อมตัวอย่างการใช้งานจริง, แนวทางการใช้ NAS เพื่อจัดเก็บและสำรองข้อมูลในองค์กร พร้อมตัวอย่างการใช้งานจริง
 อ่านเพิ่มเติม
 1 2 3 4 5 6 7 8 9 10 11 .... > >| Showing 1 to 12 of 180 (15 Pages)

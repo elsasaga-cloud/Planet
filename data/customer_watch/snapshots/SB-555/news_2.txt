@@ -1,4 +1,4 @@
-# SB-555 tacel.ca · news_2 · https://www.tacel.ca/en/events · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-555 tacel.ca · news_2 · https://www.tacel.ca/en/events · fetched 2026-11-03T09:43:52Z · HTTP 200
 Events & Installations | Tacel
 About About
 Products Products
@@ -65,7 +65,7 @@ ITS GTHA Summit
 View Event
 Past Events
 Filters
-39 results
+38 results
 Clear
 Search
 Year
@@ -75,8 +75,14 @@ All Tags
 Sort
 Most Recent
 Trade Show
+October 29, 2026 - Toronto , ON
+CNIB Connecting the Dots Conference 2026
+We exhibited with Polara at the CNIB Connecting the Dots Conference in Toronto, showcasing accessible pedestrian signal technology at Canada's largest conference on education, technology and employment for people who are blind or partially sighted.
+Trade Show Pedestrian Safety Polara + 1
+View Event Gallery
+Trade Show
 October 28, 2026 - Chatham , ON
-Tacel Attended the IMSA West Region Trade Show 2026
+IMSA West Region Trade Show 2026
 Tacel attended the IMSA Ontario Trillium Section West Region Trade Show 2026 in Chatham, connecting with traffic and transportation professionals from across the region.
 Trade Show Ontario
 View Event Gallery
@@ -91,18 +97,6 @@ October 4-7, 2026 - Winnipeg , MB
 TAC Conference & Exhibition 2026
 Tacel attends the TAC Conference & Exhibition 2026 in Winnipeg, Canada's largest national gathering of transportation professionals with 1,400+ attendees.
 TAC Transportation Conference + 1
-View Event Gallery
-Trade Show
-October 1-4, 2026 - Moncton , NB
-UMNB Annual Conference 2026
-Tacel exhibits at the Union of Municipalities of New Brunswick Annual Conference 2026 in Moncton, Atlantic Canada's premier municipal conference.
-UMNB Municipal Conference
-View Event Gallery
-Community
-October 1, 2026 - Ontario , ON
-IMSA 2026 AGM & Golf Tournament
-Tacel at the 2026 IMSA Ontario Annual General Meeting & Nine Hole Golf Tournament. It took place on October 1, 2026.
-IMSA AGM Golf + 1
 View Event Gallery
 Training
 September 23, 2026 - Edmonton , AB
@@ -281,4 +275,7 @@ View Event Gallery
 Trade Show
 June 19, 2025 - Toronto , ON
 ITE Toronto Section — 2025 Spring Luncheon
-Tacel sponsored and attended the ITE Toronto Section 2025 Spring Luncheon at Hart House, University of Toronto, conne
+Tacel sponsored and attended the ITE Toronto Section 2025 Spring Luncheon at Hart House, University of Toronto, connecting with transportation engineers and planners in the GTA.
+Trade Show Controllers Detection + 1
+View Event Gallery
+

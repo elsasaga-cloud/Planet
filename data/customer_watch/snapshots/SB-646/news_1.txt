@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-03T09:43:52Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -47,11 +47,26 @@ Uranium
 2010 · PSU, kasa
 Sensei
 2010 · Çevre birimi
-137 markanın tamamı A'dan Z'ye.
+131 markanın tamamı A'dan Z'ye.
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 52 içerik).
+Sektörden güncel haberler ve analizler ( 57 içerik).
+Yapay Zekâ DeepSeek v4.1 Flash Tanıtıldı: Hız ve Yetenek
+DeepSeek, yeni v4.1 Flash modelini duyurdu. Hızlı ve verimli yapısıyla dikkat çeken model, geliştirici topluluğunda ses getirdi.
+03 Kasım 2026
+İnceleme ASUS ROG Zephyrus G16 (2026) incelendi
+ASUS ROG Zephyrus G16 2026, RTX 5080 ve Panther Lake işlemciyle ince-hafif oyun segmentinde iddiasını yükseltiyor.
+03 Kasım 2026
+Marka Duyurusu Seagate HAMR/SMR Diskleri Broadcom'dan Onay Aldı
+Seagate'in Mozaic tabanlı HAMR/SMR diskleri, Azure doğrulamasının ardından Broadcom'un onaylı tedarikçi listesine girdi.
+02 Kasım 2026
+İnceleme Dell XPS 16 Creator Edition: RTX Spark N1X'le Tanıştı
+Dell XPS 16 Creator Edition, NVIDIA RTX Spark N1X ile geldi. İnce gövdede kararlı performans sunan modelin detayları.
+02 Kasım 2026
+İnceleme Jan v0.8.6: Windows'ta Yerel LLM Deneyimi İncelendi
+Jan v0.8.6, Windows'ta yerel LLM çalıştırmayı kolaylaştırıyor. StorageReview testinde GPU hızlandırma otomatik devreye girdi.
+02 Kasım 2026
 Yapay Zekâ NVIDIA JUPITER'da 104-Qubit Kuantum Simülasyonu
 NVIDIA, JUPITER süper bilgisayarında 8.192 GH200 GPU kullanarak 104-qubit'lik hataya dayanıklı kuantum işlemci simülasyonu gerçekleştirdi.
 02 Kasım 2026
@@ -127,21 +142,6 @@ HP ve Lenovo'nun RTX Spark N1X'li yeni dizüstüleri karşılaştırıldı: perf
 İnceleme Asus ProArt P16 RTX Spark: İlk İncelemeler Geldi
 NVIDIA'nın ilk dizüstü SoC'u N1X ile donatılan Asus ProArt P16, ARM mimarisini RTX 50 serisi GPU gücüyle birleştiriyor.
 18 Ekim 2026
-Sektör Haberi Samsung ve AMD'den CXL Bellek Havuzlama Demosu
-Samsung, AMD iş birliğiyle OCP 2026'da CXL bellek havuzlama teknolojisini tanıttı; agentic AI işlemlerinde verim artışı hedefleniyor.
-18 Ekim 2026
-İnceleme 2026 Kurumsal AI GPU'ları: Bellek Belirleyici Oldu
-StorageReview'in 2026 kurumsal GPU testinde NVIDIA H200 NVL ve RTX PRO 6000 öne çıktı; bellek kapasitesi kritik fark yarattı.
-18 Ekim 2026
-İnceleme Surface Laptop Ultra: NVIDIA RTX Spark N1X Test Sonuçları
-Microsoft'un ilk NVIDIA çipli Surface'ı güçlü AI performansı sunuyor ama termal sorunlar dikkat çekiyor.
-16 Ekim 2026
-Ürün Lansmanı Acer Predator Atlas 8: Intel Arc G3'lü İlk El Konsolu
-Acer, Intel Arc G3 işlemcili ilk el konsolu Predator Atlas 8'i tanıttı. Ekim'de satışa çıkacak cihaz iki farklı GPU seçeneği sunuyor.
-24 Haziran 2026
-Ürün Lansmanı Intel Arc G3: El Konsollarına Özel Yeni Çip
-Intel, Computex 2026'da el konsollarına özel tasarlanan Arc G3 ve Arc G3 Extreme işlemcilerini duyurdu. Panther Lake tabanlı yeni çipler Ekim'de geliyor.
-17 Haziran 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal

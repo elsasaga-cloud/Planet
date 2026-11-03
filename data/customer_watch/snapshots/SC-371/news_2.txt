@@ -1,4 +1,4 @@
-# SC-371 Visiotech · news_2 · https://www.visiotechsecurity.com/en/latest-updates · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-371 Visiotech · news_2 · https://www.visiotechsecurity.com/en/latest-updates · fetched 2026-11-03T09:43:52Z · HTTP 200
 404
 Visiotech | Mayorista CCTV y Seguridad
 Productos CCTV IP
@@ -242,6 +242,11 @@ Comprobadores de detectores
 Autónomos Anka
 Ajax
 X-Sense
+Kilsen Centrales
+Detectores
+Sirenas
+Módulos
+Axendis
 ZKTeco Controladoras
 Lectores
 Autónomos

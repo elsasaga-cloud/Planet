@@ -1,4 +1,4 @@
-# SB-593 ibdglobal.com · news_1 · https://www.ibdglobal.com/en/blog · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-593 ibdglobal.com · news_1 · https://www.ibdglobal.com/en/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog Posts | IBD Global España mayorista CCTV y distribuidor oficial Dahua España.
 Skip to Content
 Guest
@@ -34,8 +34,8 @@ IBD Pro
 IBD Academy
 IBD Services
 IBD Solutions
-Hazte cliente
 Recursos
+Hazte cliente
 Login
 0
 Wishlist
@@ -73,8 +73,8 @@ IBD Pro
 IBD Academy
 IBD Services
 IBD Solutions
-Hazte cliente
 Recursos
+Hazte cliente
 My Cart
 ( 0 )
 My Wishlist
@@ -87,6 +87,22 @@ Calendario formaciones y eventos
 All
 Our Blog
 Calendario formaciones y eventos
+Certificación Granada by TP-Link & IBD Global
+Certificación Granada by TP-Link IBD Global Instaladores de Granada: Te invitamos a participar en nuestras próximas jornadas presenciales para obtener la certificación OCNA Essentials (Omada Certified...
+Nov 2, 2026
+Calendario formaciones y eventos
+Certificación Bilbao by TP-Link & IBD Global
+Certificación Bilbao by TP-Link IBD Global Instaladores de Bilbao: Te invitamos a participar en nuestras próximas jornadas presenciales para obtener la certificación OCNA Essentials (Omada Certified N...
+Nov 2, 2026
+Calendario formaciones y eventos
+Certificación Valladolid by TP-Link & IBD Global
+Certificación Valladolid by TP-Link IBD Global Instaladores de Valladolid: Te invitamos a participar en nuestras próximas jornadas presenciales para obtener la certificación OCNA Essentials (Omada Cer...
+Nov 2, 2026
+Calendario formaciones y eventos
+Ajax se integra con la cerradura inteligente Yale Linus® L2 Lite
+La demanda de soluciones de seguridad verdaderamente unificadas sigue creciendo. Los usuarios finales buscan comodidad sin sacrificar la protección, y los instaladores necesitan sistemas que se comuni...
+Nov 2, 2026
+Our Blog
 La revolución de la videovigilancia: Todo lo que debes saber sobre Ajax Cloud Storage
 El mundo de la seguridad avanza a pasos agigantados y depender exclusivamente del hardware físico es cosa del pasado. La videovigilancia ha dado un salto definitivo hacia la nube con la llegada de Aja...
 Oct 30, 2026
@@ -103,14 +119,6 @@ IBD Global y TP-Link acercan la innovación en redes y videovigilancia a Bilbao,
 En IBD Global seguimos impulsando encuentros que permiten a nuestros partners conocer, probar y comprender las tecnologías que están transformando el mercado profesional. Tras nuestra cita en Bilbao, ...
 Oct 9, 2026
 Our Blog
-Open Day con Honeywell
-Le invitamos a los Open Days BA 2026 Una jornada para conocer nuestras novedades y compartir ideas. Contaremos con la presencia de las divisiones de Fire, SAS y BMS, en un espacio de encuentro para de...
-Sep 25, 2026
-Calendario formaciones y eventos
-¡Acompáñanos en el próximo webinar organizado por IBD Global para conocer las funciones del DSS PRO V8.8!
-¡Acompáñanos en el próximo webinar organizado por IBD Global para conocer las funciones del DSS PRO V8.8! Esta sesión te presentará la evolución completa de la plataforma, destacando las capacidades d...
-Sep 24, 2026
-Calendario formaciones y eventos
 ¡Acompáñanos en el próximo Tech Brunch en GRANADA de IBD Global y TP-Link!
 ¡Acompáñanos en el próximo Tech Brunch en GRANADA de IBD Global y TP-Link! Te invitamos a conocer de primera mano las últimas soluciones de Omada y VIGI. Disfruta con nosotros de este desayuno tecnoló...
 Sep 23, 2026
@@ -126,14 +134,6 @@ Calendario formaciones y eventos
 ¿Las cámaras deben ignorar a las mascotas o detectarlas?
 Durante años, uno de los grandes avances en videovigilancia ha sido la reducción de falsas alarmas. Gracias a la inteligencia artificial, las cámaras actuales son capaces de distinguir entre personas,...
 Jul 30, 2026
-Our Blog
-¿Tienes una instalación Kilsen? Con IBD Global, sigue respaldada
-La evolución de Kilsen hacia Kidde Commercial es una realidad, pero sabemos que tus instalaciones actuales necesitan seguir funcionando con total normalidad. Por eso, con el objetivo de proteger la in...
-Jul 22, 2026
-Our Blog
-SkyHawk vs. SkyHawk AI: ¿qué disco duro elegir para tu sistema de videovigilancia?
-Cuando se diseña un sistema de videovigilancia, las cámaras suelen llevarse todo el protagonismo. Sin embargo, hay un componente que trabaja en silencio, las 24 horas del día, y del que depende que to...
-Jul 21, 2026
 Our Blog
 1
 2
@@ -315,6 +315,8 @@ September
 2026
 October
 2026
+November
+2026
 Tags
 Fechas - 2023
 Fechas - 2024
@@ -333,21 +335,21 @@ seguridad cámaras termográficas
 vídeo
 Follow us
 ​
+﻿ ﻿​﻿ ﻿
 Certificaciones
-Recursos
-Webinars
-Descargas
-Guía accesorios Dahua
+Soporte
+﻿ ﻿Webinars﻿ ﻿
+﻿ ﻿Descargas﻿ ﻿
+﻿ ﻿Formación﻿ ﻿﻿ ﻿ ﻿
 Más información
-Alta nuevo cliente
-Noticias
-Calendario formaciones
+﻿ ﻿Hazte cliente﻿ ﻿
+﻿ ﻿Noticias﻿ ﻿
 Contacto
 C/ Del Besòs, 12.
 P.I. Can Buscarons de Baix
 08170 Montornès del Vallès
 +34 93 840 90 73
-info@ibdglobal.com
+​ ﻿ info@ibdglobal.com ﻿
 Todos los derechos reservados © 2026 Smart Tech Ibd Global Solutions, S.L.
 Condiciones legales · Política de cookies · Política de privacidad · Transparencia
 English (US)

@@ -1,4 +1,4 @@
-# SB-592 fotech.com.tr · home · https://www.fotech.com.tr/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-592 fotech.com.tr · home · https://www.fotech.com.tr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Fotech – Uçtan Uca Bilişim Çözüm ve Ürünleri
 GİRİŞ YAP
 KURUMSAL
@@ -263,6 +263,12 @@ Tek tıkla ürün veya eğitim satın alabilir, teklif veya demo talep edebilirs
 Son Eklenen Ürünler
 Yeni
 _
+FTB-Lite-720D-Q2-QUAD
+EXFO FTB-Lite-720D-Q2-QUAD
+TEKLİF İSTE
+ÜRÜNÜ İNCELE
+Yeni
+_
 AXS-130-SM8
 EXFO AXS-130 SM8 - Canlı Hat Testi
 TEKLİF İSTE
@@ -273,6 +279,7 @@ AXS-120-SM1
 EXFO AXS-120 SM
 TEKLİF İSTE
 ÜRÜNÜ İNCELE
+Yeni
 _
 R166006
 Trend Networks NaviTEK III
@@ -335,11 +342,6 @@ Yeni
 _
 MCX G2 CTRL
 MCX Gen2 Network Controller
-ÜRÜNÜ İNCELE
-Yeni
-_
-MCX G2
-MCX Gen2
 ÜRÜNÜ İNCELE
 ')">
 FİRMA TANITIM VİDEOMUZ
@@ -419,4 +421,4 @@ TÜM DETAYLAR
 SEKTÖRÜN EN İYİ
 KALİBRASYON MERKEZİ
 Fiber optik ve bakır test cihazlarının gerçek kalibrasyonunu yapabilen, üreticinin orjinal kalibrasyon cihazına sahipFotech Teknoloji Merkezi, bu sayede ürünlerinizi yurt dışı menşeili üreticilerin merkezlerine yollama zahmetinden sizi kurtararak hem zamandan hem nakitten tasarruf etmenizi sağlıyor! Fotech'in test cihazı kalibrasyon işlemleri yabancı üreticiden sertifikalı, yaniaynı kalite ve doğrulukta!
-OTDR, OPM, PPM, FVA, Datacom, Transport, DSL, Bakır ve benzeri cihazlarda sapmaları tekrar fabrika değerlerine ayarlayabilen Sıfırlama - Gerçek Kalibrasyon işlemle
+OTDR, OPM, PPM, FVA, Datacom, Transport, DSL, Bakır ve benzeri cihazlarda sapmaları tekrar fabrika değerlerine ay

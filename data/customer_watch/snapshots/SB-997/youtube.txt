@@ -1,5 +1,4 @@
-# SB-997 agmultivision.it · youtube · https://www.youtube.com/user/AGMULTIVISION · fetched 2026-11-02T09:40:28Z · HTTP 200
-2026-11-01T18:39:03+00:00	Datapath diventa Vitec	https://www.youtube.com/watch?v=8OM7MQnOGKE
+# SB-997 agmultivision.it · youtube · https://www.youtube.com/user/AGMULTIVISION · fetched 2026-11-03T09:43:52Z · HTTP 200
 2026-09-25T10:47:02+00:00	Optoma BX CTA28 ITA	https://www.youtube.com/watch?v=oa-zK6RmNgk
 2026-09-25T10:45:10+00:00	URC Accelerator DX Live da CEDIA 2026 - in Italiano	https://www.youtube.com/watch?v=PUnF2bDnI8M
 2026-09-20T14:59:02+00:00	Da Lite Myriad Electric Screen System	https://www.youtube.com/watch?v=ozPAzZt0Zqc
@@ -14,3 +13,4 @@
 2026-08-30T11:39:36+00:00	Video Conferencing Test Drive – Sorprendi gli Utenti con un Carrello ITA	https://www.youtube.com/watch?v=jHGl9rmguJs
 2026-08-30T11:39:30+00:00	Video Conferencing Test Drive … Easy Speedy Vince ITA	https://www.youtube.com/watch?v=R2a4d6fs05k
 2026-06-03T05:25:27+00:00	Panoramica dei Sistemi Datapath Aligo AVoIP con Funzionalità KVM Avanzate	https://www.youtube.com/watch?v=oQAQosj7cnY
+2026-06-03T05:19:11+00:00	Panoramica dei Controller per Videowall Datapath VSN V3	https://www.youtube.com/watch?v=ezPTDNatR-Y

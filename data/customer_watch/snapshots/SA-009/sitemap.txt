@@ -1,4 +1,4 @@
-# SA-009 coptek.com.tr · sitemap · https://coptek.com.tr/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SA-009 coptek.com.tr · sitemap · https://coptek.com.tr/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2021-01-11T14:01:38+00:00	http://www.coptek.com.tr/
 2021-01-11T14:01:38+00:00	http://www.coptek.com.tr/index.html
 2021-01-11T14:04:02+00:00	http://www.coptek.com.tr/hakkimizda.html

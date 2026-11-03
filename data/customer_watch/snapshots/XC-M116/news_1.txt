@@ -1,4 +1,4 @@
-# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-02T09:40:28Z · HTTP 200
+# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-03T09:43:52Z · HTTP 200
 Toutes les catégories
 Accueil
 - Produits
@@ -374,6 +374,9 @@ Mon compte
 Actualités
 Blog
 Actualités
+02/11/2026
+Restauration collective : contrôler l'hygiène du lave-vaisselle sans relevé manuel avec DishSense
+Hygiène alimentaire · Restauration collective
 27/10/2026
 Réfrigérateurs piratés : pourquoi la surveillance de température doit rester indépendante
 Mi-octobre 2026, des centaines de supermarchés français ont découvert au [...]
@@ -389,17 +392,15 @@ Un producteur français de jus de fruits voulait piloter ses ressources en [...]
 22/09/2026
 Détecteur d'eau sur 1 point VS détecteur d'eau sur rampe
 Bien comprendre la différence entre détection d'eau sur 1 point et une [...]
-09/09/2026
-Le Lab de l'Attention : ce que nous avons construit avec La Poste et dévoilé à VivaTech
-Cela fait plusieurs mois que nous travaillons, sur un projet avec La [...]
 1
 2
 3
 4
+5
 Suivant
 Catégorie
-Actualités (44)
-Produits (2)
+Actualités (46)
+Produits (3)
 Les produits en un clin d'oeil (1)
 Cas clients (2)
 Evènements (3)
@@ -410,6 +411,7 @@ archive du blog
 Août
 Septembre
 Octobre
+Novembre
 2025
 Janvier
 Février
@@ -434,10 +436,10 @@ Utiliser un serveur SMTP public : Non recommandé
 Ethiopian Airlines améliore la logistique de la chaîne du froid grâce aux appareils STE2 R2 et au portail SensDesk (Article HW group)
 08/12/2023
 Articles récents
+Restauration collective : contrôler l'hygiène du lave-vaisselle sans relevé manuel avec DishSense
+02/11/2026
 Réfrigérateurs piratés : pourquoi la surveillance de température doit rester indépendante
 27/10/2026
-QL3D sera présent au salon Data Centre World Paris 2026 avec AKCP
-23/10/2026
 Tags Post
 ste2
 surveillance

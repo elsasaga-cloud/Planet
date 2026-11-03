@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-03T09:43:52Z · HTTP 200
 IT & Telecom Blog Dubai UAE | NETON
 Home
 About Us
@@ -28,6 +28,16 @@ SBC
 Cloud
 Security
 Odoo
+Telephony
+x-bees Partner in Dubai: What to Check Before You Buy
+An x-bees partner in Dubai sets up calls, WhatsApp, CRM logging and AI summaries. What to check on plans, Salesforce…
+2 Nov 2026 · 7 min read
+Read more →
+Telephony
+How to Choose a Wildix Partner in Dubai
+A Wildix partner in Dubai supplies, configures and supports the system. What the role covers, what to ask before you sign, and…
+2 Nov 2026 · 7 min read
+Read more →
 Contact Centre
 Contact Centre vs Call Centre: What the Terms Actually Mean
 A call centre handles phone calls; a contact centre handles every channel. What the terms mean, how CCaaS fits, and what UAE…
@@ -62,16 +72,6 @@ Telephony
 What UCaaS Actually Means for a UAE Business
 UCaaS explained for the UAE: what the term covers, what you cannot buy here because Calling Plans are not sold, and how it is…
 21 Sep 2026 · 6 min read
-Read more →
-Compliance
-DNCR and UAE Telemarketing Compliance
-What Cabinet Resolution 56 of 2024 and the TDRA Do Not Call Registry require from UAE businesses making outbound calls, and how…
-20 Sep 2026 · 7 min read
-Read more →
-Microsoft Teams
-Using Local UAE & Saudi Numbers on Microsoft Teams, Google Voice & AI
-In the UAE and Middle East you can't buy cloud phone numbers online like in the US, UK or Europe. NETON Technologies LLC bridges…
-4 Jul 2026 · 7 min read
 Read more →
 1
 2

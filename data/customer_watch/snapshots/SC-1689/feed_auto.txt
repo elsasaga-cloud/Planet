@@ -1,11 +1,11 @@
-# SC-1689 abovenet.com.br · feed_auto · https://abovenet.com.br/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
-Fri, 21 Aug 2026 18:06:17 +0000	BridgePTT: a evolução da comunicação para operações críticas	https://abovenet.com.br/blog-geral/bridgeptt-a-evolucao-da-comunicacao-para-operacoes-criticas/
-Mon, 15 Jun 2026 13:56:13 +0000	Monitoramento de Vibração Industrial: antecipando falhas e aumentando a confiabilidade dos ativos	https://abovenet.com.br/blog-geral/manutencao-preditiva-monitoramento-vibracao-industrial/
-Fri, 29 May 2026 14:09:11 +0000	Monitoramento Inteligente de Infraestrutura Hospitalar: da Telemetria à Operação Preditiva com o Bridgemeter	https://abovenet.com.br/blog-geral/bridgemeter-monitoramento-hospitalar/
-Fri, 15 May 2026 12:44:30 +0000	Interoperabilidade e governança de dados em saúde: da integração à inteligência operacional com o Bridgecare	https://abovenet.com.br/blog-geral/bridgecare-interoperabilidade-hospitalar/
-Mon, 27 Apr 2026 13:58:16 +0000	Evitando paradas com conectividade proativa: o impacto do Bridgemanager em ambientes remotos	https://abovenet.com.br/blog-geral/bridgemanager-conectividade-proativa-ambientes-remotos/
-Mon, 16 Mar 2026 16:42:36 +0000	Gestão de conexões celular remotas: inteligência que previne falhas	https://abovenet.com.br/blog-geral/bridgemanager-gestao-de-conexoes-celular-remotas/
-Mon, 02 Feb 2026 16:16:58 +0000	Infraestruturas críticas: o papel da automação na gestão de eventos ambientais adversos	https://abovenet.com.br/blog-geral/automacao-dinamica-infraestruturas-criticas/
-Wed, 10 Dec 2025 12:47:51 +0000	Automação Dinâmica: a nova arquitetura da indústria inteligente	https://abovenet.com.br/blog-geral/automacao-dinamica-a-nova-arquitetura-da-industria-inteligente/
-Thu, 30 Oct 2025 16:52:22 +0000	Inovação reconhecida: Above-Net recebe dois prêmios em 2025	https://abovenet.com.br/blog-geral/conquistas-que-refletem-a-essencia-da-above-net/
-Wed, 24 Sep 2025 21:10:30 +0000	Monitoramento remoto nas plantas de hidrogênio verde	https://abovenet.com.br/blog-eficiencia-energetica/monitoramento-remoto-nas-plantas-de-hidrogenio-verde/
+# SC-1689 abovenet.com.br · feed_auto · https://abovenet.com.br/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Fri, 21 Aug 2026 18:06:17 +0000	BridgePTT: the evolution of communication for mission-critical operations	https://abovenet.com.br/en/general-blog/bridgeptt-the-evolution-of-communication-for-critical-operations/
+Mon, 15 Jun 2026 13:56:13 +0000	Industrial Vibration Monitoring: anticipating failures and increasing asset reliability	https://abovenet.com.br/en/general-blog/predictive-maintenance-industrial-vibration-monitoring/
+Fri, 29 May 2026 14:09:11 +0000	Intelligent Monitoring of Hospital Infrastructure: From Telemetry to Predictive Operation with Bridgemeter	https://abovenet.com.br/en/general-blog/bridgemeter-hospital-monitoring/
+Fri, 15 May 2026 12:44:30 +0000	Interoperability and data governance in healthcare: from integration to operational intelligence with Bridgecare	https://abovenet.com.br/en/general-blog/bridgecare-hospital-interoperability/
+Mon, 27 Apr 2026 13:58:16 +0000	Avoiding downtime with proactive connectivity: the impact of Bridgemanager in remote environments	https://abovenet.com.br/en/general-blog/bridgemanager-proactive-connectivity-for-remote-environments/
+Mon, 16 Mar 2026 16:42:36 +0000	Remote cellular connection management: intelligence that prevents failures	https://abovenet.com.br/en/general-blog/bridgemanager-remote-cellular-connection-management/
+Mon, 02 Feb 2026 16:16:58 +0000	Critical infrastructures: the role of automation in managing adverse environmental events	https://abovenet.com.br/en/general-blog/dynamic-automation-critical-infrastructures/
+Wed, 10 Dec 2025 12:47:51 +0000	Dynamic Automation: the new architecture of the intelligent industry	https://abovenet.com.br/en/general-blog/dynamic-automation-the-new-architecture-of-the-smart-industry./
+Thu, 30 Oct 2025 16:52:22 +0000	Recognized innovation: Above-Net receives two awards in 2025	https://abovenet.com.br/en/general-blog/achievements-that-reflect-the-essence-of-above-net/
+Wed, 24 Sep 2025 21:10:30 +0000	Remote monitoring in green hydrogen plants	https://abovenet.com.br/en/energy-efficiency-blog/remote-monitoring-in-green-hydrogen-plants/

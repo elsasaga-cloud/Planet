@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/vanshna-wifi-camera-trx-robot30-4mpx
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -89,7 +89,6 @@
 	https://www.kassabasystems.com/2ahd5rv-komplekt-ot-2br-5mpx-bulet-ir-kameri-za-vanshen-montazh-s-noshtno-vizhdane-do-30-metra-i-5mpx-hibriden-xvr
 	https://www.kassabasystems.com/2br25dc-paket-ot-2br-6mpx-dvoini-wifi-ai-kameri-za-vanshen-montazh-trx-robot-25-dc
 	https://www.kassabasystems.com/2BR45DC-paket-ot-2br-dvoini-6mpx-wifi-kameri-za-vanshen-montazh-s-mikrofon-i-ai-funktsii-TRX-ROBOT45-DC
-	https://www.kassabasystems.com/POE-ip-kamera-trx-3035l-2mpx
 	https://www.kassabasystems.com/2br888-paket-ot-2broq-dvubandovi-2-4ghz-5ghz-dvoini-icsee-wifi-6mpx-kameri-za-vanshen-montazh-trx-dc888-5ghz
 	https://www.kassabasystems.com/ds-2ae4225t-d3-2mpx-ptz-kamera-za-vatreshen-montazh-hikvision
 	https://www.kassabasystems.com/2br25dc-paket-ot-2br-dvoini-6mpx-wifi-ai-kameri-za-vanshen-montazh-trx-robot25-dc
@@ -114,7 +113,6 @@
 	https://www.kassabasystems.com/Dvoina-AOV-4G-solarna-kamera-s-mikrofon-cvetno-nostno-vijdane-UB-36AOV-4G
 	https://www.kassabasystems.com/komplekt-za-videonablyudenie-s-2-broya-vanshni-5mpx-ip-poe-full-color-kameri-10-kanalen-4k-nvr-i-4-2-poe-suich-2dl3750-poe
 	https://www.kassabasystems.com/komplekt-za-videonablyudenie-s-8-br-vanshni-5mpx-ip-poe-kameri-full-color-mikrofon-10-kanalen-4k-nvr-i-poe-suich-8dl3750-poe
-	https://www.kassabasystems.com/50wifi-2mc-komplekt-ot-2-wifi-ip-kameri-za-vanshen-montazh-s-5MP-rezolyutsiya-do-40m-tsvetno-noshtno-vizhdane-analitichni-funktsii-i-10-kanalen-4k-nvr
 	https://www.kassabasystems.com/mini-wifi-kamera-na-baterii-ABR12
 	https://www.kassabasystems.com/ub-808ht-3m-4g-solarna-3mp-4g-kamera-s-pir-senzor-sim-karta-mikrofon-i-karta-pamet-do-128gb
 	https://www.kassabasystems.com/dvoina-aov-wifi-solarna-kamera-UB-38AOV10W-WF
@@ -140,4 +138,6 @@
 	https://www.kassabasystems.com/4mpx-vanshna-wifi-kamera-s-mirkofon-i-karta-pamet-TRX-ROBOT22A-4MPX
 	https://www.kassabasystems.com/8dip-ir-komplekt-s-8-ip-kameri-za-vanshno-nablyudenie
 	https://www.kassabasystems.com/ts-bli500w-ptz-wifi-kamera-krushka-5mpx-tuya-vgraden-mikrofon
-	https://www.kassabasystems.
+	https://www.kassabasystems.com/dvoina-lovna-4g-aov-solarna-kamera-UB-37HUNT-AOV-4G
+	https://www.kassabasystems.com/2ip8rdm-poe-8mpx-komplekt-za-nablyudenie-s-2br-kupolni-tsifrovi-4k-vanshni-kameri-10-kanalen-4k-nvr-i-4-2-poe-suich
+	https://www.kassabasystems.com/4br888-p

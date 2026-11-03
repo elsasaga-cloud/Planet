@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inalámbrica y botón de IA
+3 de noviembre de 2026
+Conoce
+Grandstream presenta los teléfonos IP GRP2615 Pro y GRP2624 Pro, con mangueta Bluetooth inalámbrica, botón de IA, Wi-Fi y PoE. Conoce sus diferencias y aplicaciones profesionales.
+Read More
 Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
 29 de octubre de 2026
 Conoce
@@ -67,11 +72,6 @@ MikroTik Back to Home: acceso remoto seguro incluso sin IP pública
 19 de octubre de 2026
 Conoce
 Accede de forma cifrada a tu red con Back to Home de MikroTik, también detrás de NAT. Te explicamos compatibilidad, configuración, límites y equipos disponibles en Instant Byte.
-Read More
-Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
-19 de octubre de 2026
-Formación
-Tres certificaciones oficiales Ubiquiti en un curso presencial de tres días en Barcelona: UFSP, UWA y URSCA. Consulta programa, horarios e inscripción.
 Read More
 Paginación de entradas
 1
@@ -624,6 +624,4 @@ comprar RF elements
 comprar ubiquiti
 comprar unifi
 compras +1500 €
-compresión de vídeo
-comunicación
-comu
+compr

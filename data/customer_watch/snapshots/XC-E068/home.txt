@@ -1,148 +1,139 @@
-# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
-Vespertec - Accelerated Performance for the Data Centre Skip to main content
-About us
-Products Server
-Storage
-Network
-OCP
-Edgeware
-Services Support
-Appliance design
-Labs
-IceCloud
-NVIDIA
-Partners
-News & blog
-Resources
-Contact
-About us
-Products Server
-Storage
-Network
-OCP
-Edgeware
-Services Support
-Appliance design
-Labs
-IceCloud
-NVIDIA
-Partners
-News & blog
-Resources
-Contact
-AI FACTORIES
-Explore Our New
-NVIDIA AI Hub
-Find out more
-PROUD TO BE HAVE BEEN NAMED
-One of the UK’s Fastest-Growing Private Companies
-Find out more
-Accelerated
-performance for
-the data centre
-Find out more
-PROUD TO BE HAVE BEEN NAMED
-Star Performer Winner Northern Europe
-Find out more
-ANNOUNCING VESPER LABS
-Remote access to NVIDIA Grace Hopper Superchip (GH200) through Vesper Labs
-Find out more
-IceCloud: Easy, all-in-one IT solution – hardware, software, 100% green energy data centre
-Find out more
-Open data centre infrastructure that reduces total cost of ownership
-Find out more
-Open Compute solution provider — for high performance at huge scale
-Find out more
-Consultative business approach — impartial, honest, tailored advice
-Find out more
-Experts in data centre logistics and international shipping
-Find out more
-Fastest Growing Larger Company of the Year
-Find out more
-Latest News
-Vesper Technologies crowned Northern European Star Performer at NVIDIA Partners Award
-Q&A with Quantum CEO, Jamie Lerner: The Future of Data Management and Storage
-DGX Spark and Spectrum-X: Breaking Down NVIDIA GTC 2025
-Embracing Enterprise AI: Navigating Budget Increases, Hardware Choices, and Market Forces
-NVIDIA’s GH200 NVL2: What You Need to Know
-Our Guide to Liquid Cooling
-Rail-Optimised Networking: How NVIDIA is Rethinking AI Network Design in the Data Centre
-Consortium announces Iceland’s first turnkey cloud platform powered by sustainable low-cost energy for intensive workloads
-Vespertec Unveils AI Lab Environment for NVIDIA Grace Hopper Test Drive
-Vespertec Honoured with NVIDIA Rising Star Northern Europe Award
-Krystal Hosting case study: Katapult to success (PDF)
-.
-Accelerated performance for the data centre
-Vespertec is a specialist in the design, configuration, delivery and support of open, high performance data centre infrastructure.
-Using new and innovative technologies in compute, networking and storage, we provide data centre solutions that accelerate performance, maximise interoperability, simplify management, scale smoothly, and reduce total cost of ownership.
-Deep knowledge of open standards and disruptive technology
-Impartial, honest advice to help you consolidate hardware and optimise performance
-Experts in data centre logistics including international shipping
-Read more in About Us
-Watch our full OCP video
-Areas of expertise
-Server
-Storage
-Networks
-Open Compute (OCP)
-Edge Computing
-High Performance Computing (HPC)
-Machine Learning & Artificial Intelligence
-Security
-Backup & Archive
-Global Logistics
-.
-Already working with us
-Don't just take our word for it
-As a company we could be described as ‘anti-cloud’. By owning and managing our own infrastructure and by working with Vespertec to leverage emerging, next-generation hardware solutions, we are able to offer our customers a high capacity service at a lower cost than our competitors. Vespertec is always there to advise on the latest technologies available in the market, and also to sanity check our approach. They are incredibly responsive, turning around orders at short notice to hit aggressive deadlines. As a supplier, Vespertec is a great cultural fit with our organisation. I cannot recommend Vespertec highly enough.
-Adam Blake
-CEO & Founder, ThreatSpike Labs
-threatspike.com >
-Vespertec provide Civo with exceptional levels of service. Their team are extremely knowledgeable, and they always go above and beyond. In close co-operation with Vespertec we decided to base our hardware design on OCP and this choice has proven to be perfect for our global platform rollout. OCP enabled us to have extremely high-density, performant compute at a really good price point. Even more important to us was the ability to standardise our design so it could easily be replicated, allowing us to distribute our platform worldwide with speed and simplicity in mind. In close collaboration with Vespertec we were able to deliver on all of our objectives and now have an amazing design template, which is fundamental to our future growth.
-Mark Boost
-CEO, CIVO
-civo.com >
-Working with Vespertec has been a pleasure! You actually care and do your very best to understand your customer’s needs and provide recommendations on how to optimise the hardware to fit the use case. Everything from ordering to delivery and after-care has been superb, an eye-opening experience! I hope to need more high-end servers soon enough so I can buy more from you guys!
-Lucas Rolf
-CEO, Hosting4Real
-hosting4real.net >
-The level of sales support afforded to Bytemark has been second to no other partner reseller encountered to date. On more than one occasion, Bytemark would have been in severe trouble if it weren’t for the strong relationships that Vespertec maintains with its partners.
-Tom Hill
-Network Manager, Bytemark
-bytemark.co.uk >
-As our primary hardware and solutions supplier, the team at Vespertec are a trusted source of expertise who have taken the time to understand the needs of our business to deliver both solutions and recommendations backed by reliable hardware that has allowed us to scale as a business to meet the demands of a rapidly expanding technical platform.
-Alex Easter
-CTO, Krystal Hosting
-krystal.uk >
-The Vespertec ideology always shows in the solutions we provide and the way we work – as we hope you’ll discover for yourself soon.
-Reduce
-cost
-Improve
-performance
-Maximise
-inter­operability
-Simplify
-management
-Scale
-smoothly
-Get in touch
-Get support for your business
-About us
+# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Accelerated Performance for the Data Centre - Vespertec
+Skip to content
+Skip to main content
 Products
 Services
 Partners
-Resources
-Sales Account Form
-Technical Support
+News & Blog
+About Us
 Contact
+Products Products menu
+Services Services menu
+Partners
+News & Blog
+About Us
 info@vespertec.com
 +44 (0)161 947 4321
 LinkedIn
-Twitter
-YouTube
-©2026 Vespertec All Rights Reserved
-Terms & Conditions
+Contact
+Back
+Products
+AI & HPC
+Compute (Server)
+Storage
+Network
+Edgeware Transceivers & Cabling
+OCP
+Feature
+Vespertec crowned NVIDIA Northern European Star Performer 2025
+Find out more
+Back
+Services
+Pre-Sales Consultation
+Config Centre & Labs
+Global Logistics
+Installation & Set-Up
+Post-Sales Support
+Financial Services
+Feature
+How Vespertec helped Civo scale its global cloud infrastructure
+Explore case study
+Infrastructure
+decisions start here
+Choosing infrastructure isn’t just about selecting a server, storage platform or network switch. Every decision affects performance, compatibility, power, cooling, software and long-term growth.
+Explore our expertise
+NVIDIA GTC Berlin 2026: From Building AI Factories to Getting Them Producing Tokens
+From Paris to Berlin, and NVIDIA’s Role in Europe’s AI Infrastructure
+NVIDIA’s New AI Infrastructure Model Signals the Next Phase of AI Factory Growth
+From DGX Spark to Blackwell Ultra: What the GB300 Workstation Is Here to Solve
+Understanding NVIDIA’s 4-Way NVLink Bridgeboard
+Spectrum-6, Explained: What NVIDIA Changed and Why It Reaches Below Gigascale
+How Vespertec helped Civo scale its global cloud infrastructure
+How Krystal Built Its Katapult Public Cloud with Vespertec
+Arm’s AGI CPU Benchmarks Point to a New Evaluation Checklist for Agentic AI Infrastructure Buyers
+Evaluating the NVIDIA Spectrum SN3420: What Infrastructure Buyers Need to Know
+That’s why organisations engage Vespertec before they’ve chosen their hardware.
+We help you design, source and deploy the right combination of compute, storage and networking.
+Independent advice, proven infrastructure.
+Our approach to
+infrastructure
+Understand the
+requirement
+Workloads, applications, users, budgets, physical constraints and future plans.
+Define the
+architecture
+Compute, storage, networking and software designed as a complete system.
+Recommend the
+right platforms
+Independent advice across NVIDIA, Lenovo, Dell Technologies, HPE, Supermicro, Gigabyte, VAST Data and more.
+Deploy and
+support
+From single systems through to AI factories and research infrastructure.
+Start with the right foundation
+Whether you’re planning AI factories, refreshing enterprise systems or expanding existing capacity, every successful deployment starts with the right foundation.
+AI & HPC
+From AI workstations and NVIDIA DGX Spark through to rack-scale AI infrastructure and HPC clusters.
+Learn more
+Compute
+Enterprise servers, NVIDIA-certified systems, OEM platforms and open infrastructure designed around your workload.
+Learn more
+Storage
+Performance, capacity and data resilience, from enterprise storage through to large-scale AI data platforms.
+Learn more
+Networking
+Ethernet, InfiniBand and AI networking designed around application performance and future growth.
+Learn more
+Trusted by leading businesses
+News
+Vesper Technologies crowned Northern European Star Performer at NVIDIA Partners Award
+Vespertec named Northern Europe Star Performer at the NVIDIA 2025 EMEA Partner Awards, recognising its expertise in AI and HPC infrastructure.
+Read full case study
+AI Infrastructure Hub
+We’ve created a dedicated NVIDIA AI Infrastructure Hub covering AI factories, networking, storage, liquid cooling, reference architectures and the technologies shaping modern AI deployments.
+Whether you’re just getting started or planning production infrastructure, it’s a practical place to explore the ecosystem.
+Visit the AI Infrastructure Hub
+What our partners say
+We’ve worked with Vespertec for many years, and they’ve built deep technical knowledge of our platforms. Their team understands our infrastructure, from barebones systems through to complete solutions, making them a trusted partner for customers with demanding requirements.
+Kevin Liu
+Sales Manager
+Giga Computing
+We’ve partnered with Vespertec on a number of large infrastructure projects where coordination and delivery are critical. Their project management, logistics and ability to execute complex deployments make them a valued partner.
+Mauro Ballerini
+Vice President, EMEA Sales
+Quantum
+Vespertec has developed service models that help customers plan around deployment schedules and lead times, while providing the technical expertise needed to successfully deliver Arista networking solutions.
+Andy Lowe
+UKI Channel Manager
+Arista
+Vespertec has built a strong reputation for delivering complex infrastructure projects with a high level of technical expertise and professionalism. Their consultative approach, combined with strong project delivery capabilities, makes them a valued Lenovo partner for enterprise and AI infrastructure.
+Natalie Noor
+UKI SMB & Channel Director
+Lenovo
+Let’s start with
+the requirement
+Whether you’re planning an infrastructure refresh, expanding storage or designing a new platform, we’re happy to talk through the options.
+Talk to our team
+Get support for
+your business
+Products
+Services
+Partners
+Sales Account Form
+info@vespertec.com
++44 (0)161 947 4321
+LinkedIn
+Stay Updated
+Subscribe to our newsletter for the latest updates and insights.
+Facebook
+This field is for validation purposes and should be left unchanged.
+Email Address (Required)
+Subscribe
+©2026 Vespertec
 Privacy Policy
-Cookies help us provide our services. By using this website, you accept our privacy policy | Accept cookies
-Follow us
-Contact us
+Cookie Policy
+Environmental Policy
+T&Cs
+T&Cs of Purchase
+T&Cs of Sale
+©2026 Vespertec

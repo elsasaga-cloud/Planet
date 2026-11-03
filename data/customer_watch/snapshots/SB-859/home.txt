@@ -1,4 +1,4 @@
-# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Baburtech | Laptop Yedek Parça ve Bilgisayar Donanımı
 5000 TL ve üzeri siparişlerinizde kargo ücretsiz!
 ÜCRETSİZ TESLİMAT İMKANI
@@ -339,18 +339,18 @@ MSI LAPTOP ANAKART
 SAMSUNG LAPTOP ANAKART
 TOSHIBA LAPTOP ANAKART
 VESTEL LAPTOP ANAKART
-ŞARJ ALETİ (ADAPTÖR)
+Laptop Adaptör ve Şarj Cihazı
 Geri Dön
-ŞARJ ALETİ (ADAPTÖR)
-SAMSUNG ŞARJ ALETİ (ADAPTÖR)
-LENOVO ŞARJ ALETİ (ADAPTÖR)
-DELL ŞARJ ALETİ (ADAPTÖR)
-ACER ŞARJ ALETİ (ADAPTÖR)
+Laptop Adaptör ve Şarj Cihazı
+Samsung Laptop Adaptör ve Şarj Aleti
+Lenovo Laptop Şarj Aleti ve Adaptör
+Dell Laptop Adaptör ve Şarj Aleti
+Acer Laptop Adaptör ve Şarj Aleti
 TOSHİBA ŞARJ ALETİ (ADAPTÖR)
-ASUS ŞARJ ALETİ (ADAPTÖR)
-HP ŞARJ ALETİ (ADAPTÖR)
+ASUS Laptop Adaptör ve Şarj Aleti
+Hp Laptop Adaptör ve Şarj Aleti
 Geri Dön
-HP ŞARJ ALETİ (ADAPTÖR)
+Hp Laptop Adaptör ve Şarj Aleti
 Orijinal Hp Şarj Aleti (Adaptör)
 APPLE ŞARJ ALETİ (ADAPTÖR)
 CASPER ŞARJ ALETİ (ADAPTÖR)
@@ -359,7 +359,7 @@ EXPER ŞARJ ALETİ (ADAPTÖR)
 FUJİTSU ŞARJ ALETİ(ADAPTÖR)
 LG ŞARJ ALETİ (ADAPTÖR)
 MONSTER ŞARJ ALETİ (ADAPTÖR)
-MSI ŞARJ ALETİ (ADAPTÖR)
+MSI Laptop Adaptör ve Şarj Aleti
 PANASONİC ŞARJ ALETİ (ADAPTÖR)
 RETRO ŞARJ ALETİ (ADAPTÖR)
 SONY VAİO LAPTOP ADAPTÖR
@@ -497,42 +497,42 @@ Fujitsu Siemens Dokunmatik Ekran Lcd Panel
 12.5 LCD PANEL
 20.0 - 28.0 ALL İN ONE
 13.4 LCD PANEL
-MENTEŞE
+Laptop Menteşe ve Menteşe Takımları
 Geri Dön
-MENTEŞE
-LG MENTEŞE
-SONY MENTEŞE
-CASPER MENTEŞE
-ASUS MENTEŞE
-ACER MENTEŞE
-DELL MENTEŞE
-TOSHİBA MENTEŞE
-LENOVO MENTEŞE
-HP MENTEŞE
-SAMSUNG MENTEŞE
-FUJİTSU LİFEBOOK
-HUAWEI MENTEŞE
-CPU FAN
+Laptop Menteşe ve Menteşe Takımları
+LG Laptop Menteşe
+Sony Vaio Laptop Menteşe
+Casper Laptop Menteşe
+ASUS Laptop Menteşe
+Acer Laptop Menteşe
+Dell Laptop Menteşe
+Toshiba Laptop Menteşe
+Lenovo Laptop Menteşe
+HP Laptop Menteşe
+Samsung Laptop Menteşe
+Fujitsu Lifebook Laptop Menteşe
+Huawei Laptop Menteşe
+Laptop Fan ve Soğutucu
 Geri Dön
-CPU FAN
-LG CPU FAN
-EXPER CPU FAN
-DELL CPU FAN
-CASPER CPU FAN
-TOSHİBA CPU FAN
-ACER CPU FAN
-LENOVO CPU FAN
+Laptop Fan ve Soğutucu
+LG Laptop Fan ve Soğutucu
+Exper Laptop Fan ve Soğutucu
+Dell Laptop Fan ve Soğutucu
+Casper Laptop Fan ve Soğutucu
+Toshiba Laptop Fan ve Soğutucu
+Acer Laptop Fan ve Soğutucu
+Lenovo Laptop Fan ve Soğutucu
 Geri Dön
-LENOVO CPU FAN
+Lenovo Laptop Fan ve Soğutucu
 Lenovo All in One Cpu Heatsink Fan
 Lenovo İbm Thinkpad Cpu İşlemci Fanı
 Lenovo ideapad Cpu İşlemci Fanı
-ASUS CPU FAN
-HP CPU FAN
-HUAWEI CPU FAN
-MONSTER CPU FAN
-SAMSUNG CPU FAN
-SONY VAİO CPU FAN
+ASUS Laptop Fan ve Soğutucu
+HP Laptop Fan ve Soğutucu
+Huawei Laptop Fan ve Soğutucu
+Monster Laptop Fan ve Soğutucu
+Samsung Laptop Fan ve Soğutucu
+Sony Vaio Laptop Fan ve Soğutucu
 Laptop Kasa ve Kapakları
 Geri Dön
 Laptop Kasa ve Kapakları
@@ -618,44 +618,13 @@ Huawei Ekran Arka Kasası ( Lcd Kasa )
 Huawei Klavye Dahil Üst Kasa
 Huawei Ön Çerçeve Bezel
 Parckard Bell
-DATA KABLO
+Laptop Ekran Data Kablosu
 Geri Dön
-DATA KABLO
-Fujitsu Siemens Data Flex Kablosu
-LG Data Flex Kablosu
-Samsung Data Flex Kablosu
-Casper Data Flex Kablosu
-Dell Data Flex Kablosu
-Toshiba Data Flex Kablosu
-Asus Data Flex Kablosu
-Acer Data Flex Kablosu
-Lenovo Data Flex Kablosu
-HP Data Flex Kablosu
-Sony Data Flex Kablosu
-Vestel Data Flex Kablosu
-Huawei Data Flex Kablosu
-YEDEK PARÇALAR
-Geri Dön
-YEDEK PARÇALAR
-YAZICI YEDEK PARÇA
-Geri Dön
-YAZICI YEDEK PARÇA
-Yazıcı Anakartı
-Kartuş ve Tonerler
-Yazıcı Kabloları
-Yazıcı Kasa Parçaları
-Baskı Ürünleri
-Kağıtlar
-Lazer Yazıcı Tonerleri
-Mürekkep Kartuşlar
-Şeritler
-Toner Tozları
-TABLET YEDEK PARÇA
-Geri Dön
-TABLET YEDEK PARÇA
-Tablet Dokunmatikleri
-Tablet Lcd İç Ekranları
-Tablet Şarj Soketleri
-Tablet Bataryaları
-Tablet Şarj Aletleri
-Tablet Kı
+Laptop Ekran Data Kablosu
+Fujitsu Siemens Laptop Ekran Data Kablosu
+LG Laptop Ekran Data Kablosu
+Samsung Laptop Ekran Data Kablosu
+Casper Laptop Ekran Data Kablosu
+Dell Laptop Ekran Data Kablosu
+Toshiba Laptop Ekran Data Kablosu
+ASUS Laptop Ekran Data Ka

@@ -1,4 +1,4 @@
-# SB-432 qubix.it · home · https://www.qubix.it/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-432 qubix.it · home · https://www.qubix.it/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 QUBIX – Networking Solution
 ×
 Area riservata: login
@@ -10,7 +10,7 @@ Registrati
 Azienda
 News
 Contatti
-Benvenutotacconeimpianti@gmail.com! Logout
+Area riservata
 Italiano Italiano it
 English Inglese en
 Le mie liste materiali
@@ -178,7 +178,21 @@ Facebook
 Linkedin
 Youtube
 Richiedi Quotazione
+Dati Azienda
+Ragione Sociale *
+Città *
+CAP *
+Telefono *
+Dati Contatto
+Nome *
+Cognome *
+Email *
 Eventuali note aggiuntive
+Informativa ai sensi degli artt. 13 e 14 del GDPR UE 2016/679 e alla normativa nazionale vigente.
+I dati conferiti con la compilazione del presente modulo saranno oggetto di trattamento cartaceo ed informatizzato. I suoi dati saranno utilizzati esclusivamente per poter rispondere alla Sua richiesta. Il conferimento dei dati e il consenso al trattamento è obbligatorio, la sua mancanza comporterà l’impossibilità d’inviare l’eMail di richiesta di contatto e di poterLe rispondere. I dati da Lei conferiti potranno essere, previo Suo consenso, anche utilizzati per l’invio di materiale informativo e pubblicitario o per comunicazioni commerciali riguardanti nuovi prodotti o aggiornamenti e novità sui prodotti già esistenti. Il conferimento dei dati per tale finalità e/o il consenso al trattamento è facoltativo e la sua mancanza non potrà comportare l’impossibilità di eseguire la prestazione richiesta. I dati verranno da noi conservati per il tempo strettamente necessario alla gestione di quanto da Lei richiesto.
+Titolare del trattamento è QUBIX SPA a cui potrà rivolgersi per l’esercizio dei diritti di cui agli artt. 15-22 Reg.to UE 2016/679 e alla normativa nazionale vigente. Per la visione dell’informativa completa si rimanda a questo link
+Dichiaro di aver letto e compreso l’informativa di cui agli artt. 13 e 14 del GDPR UE 2016/679 e alla normativa nazionale vigente e autorizzo il trattamento dei miei dati personali (ai sensi dell’art. 7 del GDPR 2016/679 e della normativa nazionale vigente) *
+Dichiaro inoltre di prestare il mio consenso al trattamento ed alla comunicazione dei miei dati personali anche per le finalità di marketing.
 FTTH
 CABLAGGIO
 FIBRA
@@ -435,66 +449,4 @@ Monomodale 9/125 G657A2 (3)
 Monomodale 9/125 (3)
 Multimodali 50/125 OM3 (3)
 Multimodali 50/125 OM4 (3)
-Per interno/esterno armatura dielettrica (32)
-Monomodale 9/125 (8)
-Multimodali 50/125 OM2 (4)
-Multimodali 50/125 OM3 (8)
-Multimodali 50/125 OM4 (8)
-Multimodali 62,5/125 (4)
-Per interno/esterno armatura metallica (27)
-Monomodlale 9/125 (5)
-Multimodali 50/125 OM2 (4)
-Multimodali 50/125 OM3 (5)
-Multimodali 50/125 OM4 (5)
-Multimodali 62 5/125 (4)
-Per esterno armatura dielettrica (23)
-Monomodale 9/125 G657A2 (3)
-Monomodali 9/125 (4)
-Multimodali 50/125 OM2 (4)
-Multimodali 50/125 OM3 (4)
-Multimodali 50/125 OM4 (4)
-Multimodali 62,5/,25 (4)
-Per esterno armatura metallica (20)
-Monomodali 9/125 (4)
-Multimodali 50/125 OM2 (4)
-Multimodali 50/125 OM3 (4)
-Multimodali 50/125 OM4 (4)
-Multimodali 62,5/125 (4)
-Cablaggio fibra ottica (255)
-Cassetti / box ottici (27)
-Box ottici (12)
-Cassetti ottici 19″ modulari (18)
-Bussole (20)
-Monomodali 9/125 (10)
-Multimodali 50/125 OM3 (3)
-Multimodali 50/125 OM4 (3)
-Multimodali OM1/OM2 (4)
-Pigtail (19)
-Connettori prelappati (14)
-Connettori a colla (4)
-Patch cord bifibra (129)
-Monomodali 9/125 (27)
-Multimodali 50/125 OM2 (24)
-Multimodali 50/125 OM3 (27)
-Multimodali 50/125 OM4 (27)
-Multimodali 62,5/125 (24)
-Muffole e accessori (6)
-Accessori (15)
-Sistemi di terminazione (21)
-Cavi preassemblati (74)
-Terminazione fibra ottica per cavi con armatura dielettrica (15)
-Terminazione fibra ottica per cavi con armatura metallica (15)
-Cavi per interno/esterno con armatura dielettrica (28)
-Monomodali 9/125 (7)
-Multimodali 50/125 OM3-OM4 (14)
-Multimodali 50/125 OM2 (4)
-Multimodali 62,5/125 (3)
-Cavi per esterno con armatura metallica (16)
-Multimodali 50/125 OM4 (3)
-Monomodali 9/125 (5)
-Multimodali 50/125 OM2 (3)
-Multimodali 50/125 OM3 (3)
-Multimodali 62,5/125 (2)
-FTTx (107)
-GPON (46)
-Apparati attivi (15)
+Per interno

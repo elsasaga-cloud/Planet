@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2026-11-02	https://www.netontechnologies.com/
 2026-11-02	https://www.netontechnologies.com/contact-us
 2026-11-02	https://www.netontechnologies.com/about-us
@@ -62,3 +62,5 @@
 2026-11-02	https://www.netontechnologies.com/what-is-sbc-uae
 2026-11-02	https://www.netontechnologies.com/cloud-pbx-vs-on-premise-pbx-uae
 2026-11-02	https://www.netontechnologies.com/contact-centre-vs-call-centre-uae
+2026-11-02	https://www.netontechnologies.com/wildix-partner-dubai-uae
+2026-11-02	https://www.netontechnologies.com/x-bees-partner-dubai-uae

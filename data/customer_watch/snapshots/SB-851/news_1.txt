@@ -1,4 +1,4 @@
-# SB-851 tayle.ru · news_1 · https://www.tayle.ru/pubs/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-851 tayle.ru · news_1 · https://www.tayle.ru/pubs/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 All publications
 - Компания Тайле
 О компании
@@ -25,6 +25,7 @@ Telegram
 Rutube
 Сервисы
 ЦОД
+Сертификационное тестирование
 Контакты
 Офисы продаж
 Алматы (Казахстан)

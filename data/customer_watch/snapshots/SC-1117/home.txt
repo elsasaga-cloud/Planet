@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -209,45 +209,50 @@ Iniciar Sesión
 Productos
 Newsfeed
 Ver todas
-Nicolas · 13h · Videovigilancia
+Adrian · 11h · Telefonía IP
+Telefonía inalámbrica sin cablear cada extensión: Fanvil W710D
+La base DECT W710D soporta 20 cuentas SIP, hasta 10 teléfonos W610D y 10 llamadas concurrentes con alcance de 50 m en interiores. El handset W610D suma audio HD, botón PTT, Bluetooth 5.0 y batería para 8 horas de conversación, resistente a caídas de 1.8 m.
+Pensado para hoteles, retail, clínicas y almacenes donde moverse es parte del trabajo.
+Conoce el sistema W710D de Fanvil
+Roberto · 14h · Data Center
+Guarda y saca tu equipo AV en segundos: Brateck APM-10-01
+Este montaje deslizante resuelve el acceso a racks cerrados: el panel se desliza 300 mm hacia afuera para sacar DVRs, switches o reproductores sin desmontar nada, y su sistema quick-release lo libera sin herramientas.
+Soporta hasta 10 kg (22 lbs) de equipo AV, se fija a pared o riel y su acero con bloqueo de seguridad mantiene todo en su lugar.
+Conoce el APM-10-01 de Brateck 2
+Rafael · 15h · Redes
+Ya en stock: el AP exterior Wi-Fi 6 XV2-2T0X de Cambium Networks
+El XV22T0XB00RW ya está disponible en SYSCOM con entrega inmediata.
+Wi-Fi 6 802.11ax doble radio 2x2 con OFDMA y MU-MIMO, uplink 2.5 GbE y puerto 1 GbE con salida PoE 48V/30W. Antena omnidireccional de 9.3 dBi en 5 GHz, certificación IP67 y operación de -40°C a 65°C.
+Soporta hasta 1,024 clientes concurrentes y 16 SSID, con gestión centralizada en cnMaestro On-Premises.
+Conoce el XV2-2T0X de Cambium
+Julio · 17h · Alarmas e Intrusión
+El cable rojo que pide el código: GENESIS FPLR para detección de incendio
+La bobina de 305 m (1000 ft) trae 2 conductores de 16 AWG certificados UL 1666 y FT4 para instalaciones verticales (riser). Opera de -20°C a 75°C y su forro rojo identifica la línea de seguridad a simple vista.
+Ideal para paneles de detección, notificadores y circuitos de evacuación.
+Conoce el cable FPLR de GENESIS
+Nicolas · 17h · Videovigilancia
+Color 24/7 con TurboHD: la turret E8TURBOPC/A de EPCOM Professional
+La cámara TurboHD 2 MP (1080p) graba a color de noche con luz blanca de 20 m y solo 0.001 lux de iluminación mínima. Su micrófono integrado transmite el audio por el mismo cable, y es compatible con TVI, AHD, CVI y CVBS: funciona con el DVR que ya tienes instalado.
+dWDR para contraluces y operación de -40°C a 60°C.
+Conoce la turret E8TURBOPC/A
+Luis · 17h · Control de Acceso
+Lector esclavo DS-K1201AMF: MIFARE y huella en un solo equipo
+Verifica tarjeta y huella digital con doble autenticación, almacena 9,500 huellas y opera de -40°C a +70°C con protección IP65. Se conecta por RS-485 a los paneles de acceso serie DS-K26 y DS-K27.
+Conoce el lector DS-K1201AMF
+Rafael · 19h · Telefonía IP
+Telefonía para 500 usuarios en un solo conmutador
+El UCM6302A soporta 75 llamadas simultáneas, integra 2 puertos FXO y 2 FXS para líneas analógicas y 3 puertos Gigabit con PoE+. Incluye conferencias de voz, reuniones web y la app Wave para móvil, con gestión centralizada en GDMS.
+Conoce el UCM6302A de Grandstream
+Nicolas · 1d · Videovigilancia
 50 metros de luz inteligente: la bala DS-2CD1T43G2-LIUF/SL de Hikvision
 La cámara IP de 4 MP combina IR y luz blanca (Smart Hybrid Light) para grabar a color de noche hasta 50 m (164 ft). Su detección de humanos y vehículos reduce falsas alarmas, y su audio bidireccional con altavoz de 95 dB permite disuadir al intruso desde el sitio.
 WDR 120 dB, IP67, H.265+ y PoE: un solo cable para datos y energía.
 Conoce la DS-2CD1T43G2-LIUF/SL
-Daniel · 18h · Alarmas e Intrusión
+Daniel · 1d · Alarmas e Intrusión
 Protege muros, rejas y barandales con un solo cable: MICALERT de RBTEC
 El cable sensor MICALERT MIC2Z1000V2 convierte paredes, rejas rígidas y barandales en una zona de detección de 610 m dividida en 2 zonas independientes, con calibración por software y tarjeta LPU400.
 Detección por vibración sin falsas alarmas por viento o lluvia: ideal para azoteas, muros perimetrales y estructuras donde no hay cerca ciclónica.
 Descubre el sensor MICALERT de RBTEC
-Rafael · 18h · Redes
+Rafael · 1d · Redes
 Un solo cable para datos y energía en 24 puertos
-El switch GWN7803P entrega 360 W de PoE+ (hasta 30 W por puerto) para alimentar teléfonos IP, cámaras y access points sin fuentes aparte, con 4 uplinks SFP para fibra y conmutación de 56 Gbps. Su administración en GWN Cloud no tiene costo y se monta en rack 19" con fuente incluida.
-Conoce el GWN7803P de Grandstream
-Nicolas · 1d · Videovigilancia
-16 cámaras IP, un solo cable por cámara: el NVR DS-7616NI-Q2/16P(E)
-Sus 16 puertos PoE+ (150 W) conectan y alimentan cada cámara sin switch ni fuentes aparte, con modo extendido hasta 300 m. AcuSense distingue personas y vehículos para reducir falsas alarmas, y H.265+ ahorra hasta 50% de almacenamiento en 2 bahías de hasta 8 TB cada una. Salida HDMI 4K y acceso remoto vía Hik-Connect.
-Descubre el NVR con 16 puertos PoE
-Victor · 1d · Alarmas e Intrusión
-Kit de alarma con WiFi integrado, sin anualidades ni licenciamiento
-El kit reúne el panel híbrido VISTA-48LA (8 zonas cableadas ampliables a 48), el teclado-receptor inalámbrico 6160RF compatible con la serie 5800 y el comunicador WiFi DX FULL WIFI con app Full Control gratuita: armado remoto, notificaciones PUSH y domótica en 2 salidas.
-Incluye batería de respaldo 12V 5.5Ah, transformador de 16 Vca y gabinete para instalación completa.
-Conoce el kit VISTA-48LA + DX FULL WIFI
-Adrian · 2d · Audio e Intercom
-Intercom IP de emergencia que aguanta -40°C y golpes: Fanvil A12F
-El A12F lleva altavoz de 10 W con doble micrófono y cancelación de eco, 2 líneas SIP con 2 relés para abrir puertas y alimentación PoE. Certificado IP66 e IK10 anti-vandálico, opera de -40°C a 70°C: pensado para estacionamientos, industrias y accesos donde el equipo recibe maltrato y clima extremo.
-Conoce la Fanvil A12F
-Axel · 2d · Lanzamiento
-Llegó el stock de la pizarra interactiva con Android que estabas esperando.
-HUAWEI IdeaHub Board 3 Base ya está disponible en SYSCOM: pantalla 4K, escritura con latencia de 25 ms, proyección inalámbrica y Android 15 de fábrica. Disponible en 65 y 86 pulgadas, con entrega inmediata.
-Conoce el IdeaHub Board 3 Base 1
-Luis · 2d · Control de Acceso
-Montaje universal DS-KAB6-ZU1: instala tu terminal facial Hikvision en torniquetes de cualquier marca. Aluminio AL-6061, soporta térmicas.
-Conoce el montaje DS-KAB6-ZU1
-Adrian · 2d · Control de Acceso
-Videoportero IP completo en un solo kit: Fanvil VIK01
-El kit reúne el frente de calle i60 con cámara 2MP, visión nocturna IR y ángulo de 140°, más la estación interior i504W con pantalla táctil de 7 pulgadas y Wi-Fi dual band. Videollamadas HD H.264/H.265, desbloqueo remoto desde la app Fanvil Link y control de acceso para 10,000 tarjetas RFID. Integración ONVIF con CCTV/NVR y alimentación PoE.
-Conoce el kit Fanvil VIK01
-Nicolas · 2d · Videovigilancia
-Color 24/7 con ColorVu 3.0: la bala DS-2CD1047G3-LIUF de Hikvision
-La cámara IP de 4 MP graba a color de noche combinando 30 m de IR con 30 m de luz blanca inteligente. Su Detección de Movimiento 3.0 ayuda a reducir falsas alarmas.
-Micrófono integrado, WDR, ranura microSD, IP67
+El switch GWN7803P entrega 360 W de PoE+ (hasta 30 W por 

@@ -1,4 +1,4 @@
-# SC-485 fxc.jp · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCSeFIJnPa22B2ovSxz_pxUQ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-485 fxc.jp · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCSeFIJnPa22B2ovSxz_pxUQ · fetched 2026-11-03T09:43:52Z · HTTP 200
 2026-10-29T00:44:22+00:00	【2026/10/28】セキュリティと応答性能を両立！「Progress KEMP LoadMaster」WAF実践解説セミナー	https://www.youtube.com/watch?v=bAOfn9JvV5s
 2026-10-16T03:05:17+00:00	【2026/8/26】ネットワーク管理システムFSV-MGR01実践セミナー	https://www.youtube.com/watch?v=FWZDIU7FD_0
 2026-10-16T00:47:31+00:00	【2026/9/30】HCI投資の効果を最大化するロードバランサー戦略─Progress Kemp LoadMasterの実力とは？	https://www.youtube.com/watch?v=_g04sso9HBA

@@ -1,4 +1,5 @@
-# SB-205 barox.de · youtube · https://www.youtube.com/@baroxkommunikationag4606 · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-205 barox.de · youtube · https://www.youtube.com/@baroxkommunikationag4606 · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-03T07:22:30+00:00	Integrating Gallagher Command Centre with barox Switch Management (Short Version)	https://www.youtube.com/watch?v=FcnSq1Ntk3o
 2026-10-22T08:25:24+00:00	Integrating Gallagher Command Centre with barox Switch Management	https://www.youtube.com/watch?v=niKnrPV_B50
 2025-12-11T08:01:37+00:00	barox goes North America! Powering Video Surveillance Networks	https://www.youtube.com/watch?v=e4Oz6s6AcNk
 2025-12-09T14:30:36+00:00	Integrating Network Optix VMS Nx Witness with barox Switch Management for Video Surveillance	https://www.youtube.com/watch?v=fsWK4wHJ7AQ
@@ -13,4 +14,3 @@
 2023-09-01T08:52:40+00:00	Cyber Security DE	https://www.youtube.com/watch?v=Zw6jaiGlUaY
 2023-04-19T08:14:56+00:00	PoE-Technologie im Wandel	https://www.youtube.com/watch?v=czYEux2x4Ss
 2022-04-25T13:27:35+00:00	Movie MOBOTIX HUB barox plugin	https://www.youtube.com/watch?v=C2beKcVk7Ro
-2021-12-13T18:53:49+00:00	Interview by Security on Screen: Enterprising POE management, with R. Rohr, CEO at barox	https://www.youtube.com/watch?v=JZoXZkpJvwc

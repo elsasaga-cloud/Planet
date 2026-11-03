@@ -1,4 +1,5 @@
-# SC-382 securitywarehouse.co.za · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UChoogpZ1IldhGhuo1C_6d_A · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-382 securitywarehouse.co.za · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UChoogpZ1IldhGhuo1C_6d_A · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-03T06:06:09+00:00	How Dahua WizColor Neo Technology transforms night-time surveillance	https://www.youtube.com/watch?v=Cm68NHr0qFU
 2026-10-26T13:01:50+00:00	How to Enhance Your Security with Advanced AI Analytics | Provision-ISR	https://www.youtube.com/watch?v=0zWkyz4v2mw
 2026-10-19T12:27:55+00:00	How to Experience Dolynk Care in Dahua Partner App	https://www.youtube.com/watch?v=DOhZMql5vZ0
 2026-10-13T06:25:05+00:00	How to Secure Your Perimeter with Dahua AI Technology | Perimeter Protection 3.0	https://www.youtube.com/watch?v=Z4kDaI_4YWc
@@ -13,4 +14,3 @@
 2026-08-17T12:48:10+00:00	Centurion Systems: MyInstaller Portal	https://www.youtube.com/watch?v=Mn2RoOLSzno
 2026-08-11T08:58:33+00:00	Gemini - Smart, Reliable Gate & Garage Automation Built for Africa	https://www.youtube.com/watch?v=sw4BV1MPasg
 2026-08-04T06:39:38+00:00	Meet the CENTURION SMΔRT+ Series	https://www.youtube.com/watch?v=9rhp9fzIbiE
-2026-07-27T06:46:42+00:00	MSS 2026 at the SCW East Rand Branch	https://www.youtube.com/watch?v=qW_urCYUpkA

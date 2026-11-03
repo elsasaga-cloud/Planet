@@ -1,4 +1,4 @@
-# SB-452 espuk.com · news_1 · https://espuk.com/news-page · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-452 espuk.com · news_1 · https://espuk.com/news-page · fetched 2026-11-03T09:43:52Z · HTTP 200
 Latest News and Updates | ESP UK
 Scolmore Group Sites
 Click
@@ -158,11 +158,11 @@ results
 Scolmore Group
 Ovia
 ESP
+Operations - Warehouse
 Technical/Quality
 Customer Service
 External Sales
 Project Management Office
-IT
 Marketing & Design
 View vacancy's with other Scolmore Group companies or departments
 Prev
@@ -175,6 +175,8 @@ to
 of
 11
 results
+Operations Manager
+Find out more
 Technical Support Engineer
 Find out more
 Customer Service Advisor
@@ -188,8 +190,6 @@ Find out more
 Product Manager
 Find out more
 Area Sales Manager - South West
-Find out more
-IT Helpdesk Technician
 Find out more
 Project Manager
 Find out more

@@ -1,3 +1,25 @@
-# SB-1066 pramoninisrysys.lt · home · https://shop.elseta.com · fetched 2026-11-02T09:40:28Z · HTTP 502
-502 Bad Gateway
-nginx/1.17.3
+# SB-1066 pramoninisrysys.lt · home · https://shop.elseta.com · fetched 2026-11-03T09:43:52Z · HTTP 200
+Elseta online shop
+Elseta
+Home
+Shop
+Contact us
+My Cart
+Sign in
+Digitalizing energy & Simplifying complexity
+Mini RTU
+Mini RTU by Elseta is the most versatile modular solution for secondary substation automation for distribution network operators, utility companies, and factories. Elseta’s mini RTU solution is based on WCC Lite and optional I/O modules
+Read more
+Protocol Analyzer & Converter
+Simply a unique tool for commissioning engineers like nothing else in the market. The Vinci Expert was born from 20 years of experience in commissioning and from endless frustration to find the right cables to interconnect different industrial devices. One simple and easy-to-use device finally solves this problem in an optimal way by providing all possible connections for RS232, RS485, RS422, and fiber optics
+Read more
+Industrial equipment
+Beijer Electronics delivers advanced HMI interfaces, switches and industrial PCs for streamlined control and monitoring. Polyamp supplies high-performance DC/DC converters designed for rigorous environments, from maritime to defense. Sbjlink provides reliable power and connectivity solutions, Atop specializes in industrial networking devices, and Techbase offers innovative automation products.
+Get a quote
+At Elseta talented software and electronics engineers work hard to bring you cutting-edge products and solutions for:
+Secondary substation automation
+Overhead lines automation
+Solar/ Wind/ Hydro plant monitoring and power control
+Industry 4.0 solutions
+Let’s talk about it !
+Copyright © Elseta, UAB

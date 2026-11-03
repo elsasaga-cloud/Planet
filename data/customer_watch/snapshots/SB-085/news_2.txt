@@ -1,4 +1,4 @@
-# SB-085 DIGI Group · news_2 · https://thorbroadcast.com/articles · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-085 DIGI Group · news_2 · https://thorbroadcast.com/articles · fetched 2026-11-03T09:43:52Z · HTTP 200
 Broadcast Engineering Guides & Articles - Thor Broadcast
 Search Type
 By Name
@@ -126,6 +126,7 @@ Lab Used Broadcast Equipment on sale
 Past Generation Equipment
 SDI Monitors
 Warehouse
+AV System Designs
 About
 Client Portfolio
 Support
@@ -155,6 +156,9 @@ Always verify the applicable spectrum regulations and legal requirements before 
 FCC Licensing
 and
 FCC Equipment Authorization – RF Device .
+HERMES-64: IP Video Transcoding, QAM Cable TV Distribution, and IPTV Integration
+Learn how to distribute 64 IPTV video streams over 32 QAM channels using the Thor H-HERMES-64 IP-to-QAM transcoder. Explore H.264-to-MPEG-2 conversion, coaxial TV distribution, IPTV gateway integration, network bandwidth requirements, and recommended syst
+Read Full Article
 IPTV for Hotels and Motels: How to Distribute Local TV Channels Over an Ethernet Network
 Learn how hotels and motels can distribute local over-the-air television channels over Ethernet. Compare a traditional ATSC-to-IP gateway with THORIUMIP's automatic channel discovery system to choose the right IPTV architecture for your property.
 Read Full Article
@@ -205,9 +209,6 @@ A practical guide to converting a MasterPlay RTMP stream into ASI for Charter he
 Read Full Article
 ATSC to IP Gateway for IPTV Distribution
 ATSC to IP gateway guide for IPTV delivery using multicast, SPTS, bandwidth planning, and Thor Broadcast equipment.
-Read Full Article
-Thor Broadcast Hospital IPTV & RF Distribution Solution
-Hospital IPTV and RF distribution guide for multicast video delivery across hospitals, clinics, and satellite healthcare facilities.
 Read Full Article
 1
 2

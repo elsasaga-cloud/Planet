@@ -1,4 +1,365 @@
-# SB-086 TAILYN · news_2 · https://www.tailyn.com.tw/en/investor/Announcements/ · fetched 2026-11-02T09:40:28Z · HTTP 403
-403 Forbidden
-Forbidden
-You don't have permission to access this resource.
+# SB-086 TAILYN · news_2 · https://www.tailyn.com.tw/en/investor/Announcements/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Investor Relations ｜ Tailyn Technologies, Inc.
+Investor Relations
+Language：
+English
+中文
+日本語
+People
+Client Story
+Chairman
+Team Story
+Solutions
+Industrial Communication
+5G Cellular Networks
+Factory Automation
+Power Utilities
+Surveillance
+Transportation
+AI TSN Solution
+Industrial PC
+Automotive Electronics
+Semiconductor Equipment
+Product
+Industrial Ethernet Switch
+TSN Ethernet Switch
+L3 Managed Ethernet Switches
+L2+ Managed Ethernet Switches
+PoE Ethernet Switches
+EN50155 Ethernet Switches
+IEC61850 Ethernet Switch
+Unmanaged Ethernet Switches
+Wireless Solution
+Industrial Serial/Cellular Gateway
+WLAN Controller
+Compact/Rugged Access Point
+Network Interface Device
+Carrier Ethernet Solution
+EFM Bonded EAD
+Product Support
+Security Advisory
+Manufacturing
+Engineering
+Capability
+Special Equipment
+New Product Introduction (NPI)
+Supply Chain Management
+Quality Management
+Support
+Process
+Honor & Patent
+Product Life Cycle Management
+Repaired & Warranty
+Download
+About
+News
+Contact
+Join Us
+Investor Relations
+Shareholders's Service
+Overview
+Shareholders' Meeting
+Dividend
+Stock Quote
+Stock Transfer Agent
+Financial Information
+Monthly Revenues
+Financial Reports
+Corporate Governance
+Board of Directors
+Corporate Governance Structure
+Internal Audit
+Major Internal Policies
+Announcements
+Earnings Conference
+ESG
+Stakeholder Engagement
+Overview
+Stakeholder Engagement
+Risk Management
+Financial Risk
+Climate Change Risk
+Friendly Workplace
+Environmental Protection
+Greenhouse Gas Management
+Energy Management
+Water Resource Management
+Waste Management
+Green Solution
+Supply Chain Management
+Social Involvement
+Social Welfare And Donations
+Volunteer Program
+Sustainability Report
+Investor Relations
+Investor Menu
+{{m['i_name_'+lang]}}
+{{s['i_name_'+lang]}}
+Overview
+Investor Service
+Tailyn Technologies, Inc. became an publicly traded company in 1998. We are deeply grateful to our investors, analysts, investment-related media and investment institutions for their long-term support.
+Robin Chen, Sr. Vice President - Spokesman
+Email： invest@tailyn.com.tw
+Shareholders' Meeting
+Annual Reports
+2025
+2026 Shareholders Meeting Video
+2024
+2025 Shareholders Meeting Video
+2023
+2024 Shareholders Meeting Video
+2022
+2023 Shareholders Meeting Video
+2021
+2020
+2019
+2018
+2017
+2016
+Meeting Minutes
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+Agenda of Shareholders' Meeting
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+Meeting Notice
+2026
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+Dividend
+Year：2024
+Date of Shareholders' Meeting : 2025 Jun.
+Record Date : 2025 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2025 Jul.
+Cash Dividends (NT$ / Share)：1.3
+Year：2023
+Date of Shareholders' Meeting : 2024 Jun.
+Record Date : 2024 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2024 Jul.
+Cash Dividends (NT$ / Share)：1.42
+Year：2022
+Date of Shareholders' Meeting : 2023 Jun.
+Record Date : 2023 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2023 Jul.
+Cash Dividends (NT$ / Share)：1.2
+Year：2021
+Date of Shareholders' Meeting : 2022 Jun.
+Record Date : 2022 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2022 Jul.
+Cash Dividends (NT$ / Share)：0.9
+Year：2020
+Date of Shareholders' Meeting : 2021 Jul.
+Record Date : 2021 Aug.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2021 Aug.
+Cash Dividends (NT$ / Share)：0.85
+Year：2019
+Date of Shareholders' Meeting : 2020 Jun.
+Record Date : 2020 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2020 Jul.
+Cash Dividends (NT$ / Share)：1.35
+Year：2018
+Date of Shareholders' Meeting : 2019 Jun.
+Record Date : 2019 Aul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2019 Aul.
+Cash Dividends (NT$ / Share)：1.12
+Year：2017
+Date of Shareholders' Meeting : 2018 Jun.
+Record Date : 2018 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2018 Jul.
+Cash Dividends (NT$ / Share)：0.6
+Year：2016
+Date of Shareholders' Meeting : 2017 Jun.
+Record Date : 2017 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2017 Jul.
+Cash Dividends (NT$ / Share)：0.40310276
+Year：2015
+Date of Shareholders' Meeting : 2016 Jun.
+Record Date : 2016 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2016 Jul.
+Cash Dividends (NT$ / Share)：0.27713314
+Year：2014
+Date of Shareholders' Meeting : 2015 Jun.
+Record Date : 2015 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2015 Jul.
+Cash Dividends (NT$ / Share)：0.42014722
+Year：2013
+Date of Shareholders' Meeting : 2014 Jun.
+Record Date : 2014 Jul.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2014 Jul.
+Cash Dividends (NT$ / Share)：0.517863
+Year：2012
+Date of Shareholders' Meeting : 2013 Jun.
+Record Date : 2013 Aug.
+Stock Dividends of Cash Dividends：N/A
+Stock Dividends (NT$ / Share)：0
+Payment Date of Cash Dividends：2013 Sep.
+Cash Dividends (NT$ / Share)：0.3
+Stock Quote
+Stock Quote of TAILYN (Ticker Number：5353)
+Stock Transfer Agent
+Transfer Agent
+MasterLink Securities
+B1 No. 35, Aly. 11, Guangfu N. Rd., Songshan Dist., Taipei City 105410
++886-2-2768-6668
+https://www.masterlink.com.tw/
+Monthly Revenues
+Revenues
+Information inquiry: (Please enter Ticker Number 5353 and click the Search button)
+​ http://mops.twse.com.tw/mops/web/t05st10_ifr
+Monthly Revenues
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+Financial Reports
+2026
+First Quarter
+Second Quarter
+2025
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2024
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2023
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2022
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2021
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2020
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2019
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2018
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2017
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2016
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2015
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+2014
+First Quarter
+Second Quarter
+Third Quarter
+Fourth Quarter
+Board of Directors
+Board of Directors information
+Information on directors
+Board Responsibilities
+The Board’s duty is to provide guidance to the Company’s business strategy, to monitor the Company’s management team and to be responsible to the meeting of shareholders. The Board must confirm that it exercises its functions in accordance with laws, Articles of Association, or resolution of the Shareholder’s Meeting.
+The professionality and the Independence of The Board
+In accordance with Article 20 of Corporate Governance Practice Principles, the Company should have at least 5 directors, basing on the Company’s management practices and shareholding of the main shareholders.
+All members of the board shall have the knowledge, skills, and experience necessary to perform their duties. To achieve the ideal goal of corporate governance, the board of directors shall possess the following abilities:
+Ability to make operational judgments.
+Ability to perform accounting and financial analysis.
+Ability to conduct management administration.
+Ability to conduct crisis management.
+Knowledge of the industry.
+An international market perspective.
+Ability to lead.
+Ability to make policy decisions.
+Board Diversity
+To strengthen corporate governance systems and to promote sound development of the Board, in atricle 20, paragraph 2 of Corporate Governance Practice Principles points out the Policy of Diversity of the Board Composition:
+The composition of the board of directors shall be determined by taking diversity into consideration. It is advisable that directors concurrently serving as company officers not exceed one-third of the total number of the board members, and that an appropriate policy on diversity based on the company's business operations, operating dynamics, and development needs be formulated and include, without being limited to, the following two general standards:
+Basic requirements and values: Gender, age, nationality, and culture; it is advisable that the number of female directors account for at least one-third of all the directors.
+Professional knowledge and skills: A professional background (e.g., law, accounting, industry, finance, marketing, technology), professional skills, and industry experience.
+Board of Directors consists of 9 members, including 4 Independent Directors and 5 Non-independent Directors. Two of the nine directors are above 70; four of them are 60-69; the remaining are 40-59. All of the directors are with great experience as business professionals. The Company has 1 director with employee status, accounted for 11%; independent directors are accounted for 44%. None of the directors has served for more than 3 successive terms. There are no female director in the Board, but the Company is aim to increase the number of female director to more than one-third (33%) in the future.
+The Implementation of Diversity of the Board Members
+The Board consists of 9 directors, who has business management experiences from listed/OTC companies of different industries, multinational corporations, or financial institutions. Zi-xuan Huang, Zhao-bang Liao, Yin-feng Zhan, and Zhi-chao Weng are 4 independent directors of the 9 directors, who come from different industries: electronics, construction, semiconductor and computer peripheral equipment industry; all of them are executives among companies in each industry category and have capacities to make operational judgments, conduct management administration, perform accounting and financial analysis, and conduct crisis management. As for the other 5 directors, besides the Company founder, Zhe-hong Chen, and the chairman Jim Chen; Guo-hong Chen, Shi-zei Weng, and Wen-jie Chen are executives respectively from multinational companies in channel industry, financial industry and other metal manufacturing industry, who have knowledge of the industry, having abilities to lead, to make policy decisions, and have international market perspective.
+Corporate Governance Structure
+Description of the Company’s Corporate Governance System
+The Company's corporate governance is carried out in accordance with the principles of the Corporate Governance Best Practice Principles for TWSE/TPEx Listed Companies, according to which it shall:
+Protect the rights and interests of shareholders.
+Strengthen the powers of the board of directors.
+Fulfill the function of Audit Committee.
+Respect the rights and interests of stakeholders.
+Enhance information transparency.
+The Company follows the Criteria Governing Establishment of Internal Control Systems by Public Reporting Companies and takes into consideration the overall operational activities of itself and its subsidiaries to design and fully implement an internal control system, and shall conduct continuing reviews of the system, so as to ensure the continued effectiveness of its design and implementation in light of changes in the Company's internal and external environment.
+The Board of Directors and management shall review the results of the self-assessments by each department on an annual basis and the audit report of the internal audit department.
+The Company’s Audit Committee shall also attend to and supervise these matters. The management of the Company shall pay special attention to the internal audit department and its personnel, fully empower them and urge them to conduct audits effectively

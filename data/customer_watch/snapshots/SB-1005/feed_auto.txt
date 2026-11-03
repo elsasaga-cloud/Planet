@@ -1,4 +1,4 @@
-# SB-1005 asit.it · feed_auto · https://www.asit.it/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1005 asit.it · feed_auto · https://www.asit.it/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Thu, 22 Oct 2026 09:33:13 +0000	Huawei eKitEngine AP673: Wi-Fi 7 Enterprise	https://www.asit.it/huawei-ekitengine-ap673-wi-fi-7-enterprise/
 Mon, 12 Oct 2026 10:32:54 +0000	MVC 4th Gen: l’AI Rivoluziona le Sala Riunioni	https://www.asit.it/mvc-4th-gen-lai-rivoluziona-le-sala-riunioni/
 Mon, 05 Oct 2026 07:07:06 +0000	Architetture MTR Yealink	https://www.asit.it/architetture-mtr-yealink/

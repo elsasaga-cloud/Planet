@@ -1,7 +1,2 @@
-# SB-1025 elfon.com.pl · intel_news_pl · https://news.google.com/rss/search?q=%22ELFON%20Mi%C4%99kina%20Sp.%20K%22&hl=pl&gl=PL&ceid=PL:pl · fetched 2026-11-02T09:40:28Z · HTTP 503
-Sorry... G o o g l e
-Sorry...
-We're sorry...
-... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
-See Google Help for more information.
-Google Home
+# SB-1025 elfon.com.pl · intel_news_pl · https://news.google.com/rss/search?q=%22ELFON%20Mi%C4%99kina%20Sp.%20K%22&hl=pl&gl=PL&ceid=PL:pl · fetched 2026-11-03T09:43:52Z · HTTP 200
+

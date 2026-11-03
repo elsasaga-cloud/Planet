@@ -1,4 +1,5 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Tue, 03 Nov 2026 05:57:59 +0000	SMART SHIP DIGITALIZATION – POWERED BY STS INDUSTRIAL MINI-IPC	https://sundartechno.com/2026/11/03/marine-on-board-data-gateway/
 Mon, 02 Nov 2026 09:20:47 +0000	EMBEDDED COMPUTING FOR ULTRASOUND SYSTEMS	https://sundartechno.com/2026/11/02/embedded-computing-ultrasound-systems-medical-sbc/
 Mon, 02 Nov 2026 06:22:01 +0000	COMMERCIAL AIRCRAFT MRO Rugged Laptop + USB-to-ARINC 429 Interface	https://sundartechno.com/2026/11/02/commercial-aircraft-mro-avionics-testing/
 Thu, 29 Oct 2026 11:59:25 +0000	INDUSTRIAL PROTOCOL CONVERTERS FOR FACTORY & PROCESS AUTOMATION	https://sundartechno.com/2026/10/29/industrial-protocol-converters-gateways/
@@ -8,4 +9,3 @@ Thu, 29 Oct 2026 10:50:34 +0000	USB TO SFP FIBER CONVERTER FOR INDUSTRIAL AND MI
 Thu, 29 Oct 2026 10:28:27 +0000	AI-ASSISTED AUTONOMOUS FORKLIFTS: SMARTER MATERIAL HANDLING WITH STS FANLESS EMBEDDED COMPUTERS	https://sundartechno.com/2026/10/29/ai-powered-autonomous-forklifts-embedded-computers/
 Thu, 29 Oct 2026 10:08:27 +0000	A COMPACT HIGH-PERFORMANCE WORKSTATION FOR ARCHITECTURE, CAD AND 3D VISUALIZATION	https://sundartechno.com/2026/10/29/high-end-compter-3d-graphics-cad/
 Thu, 29 Oct 2026 09:44:45 +0000	PROCESS AUTOMATION PLANT With ABB HART Transmitters + DCS Connected with FINT T500 Converter	https://sundartechno.com/2026/10/29/abb-hart-transmitters-to-dcs-fint-t500/
-Thu, 22 Oct 2026 11:01:10 +0000	STAINLESS STEEL ATM & KIOSK USB KEYPAD	https://sundartechno.com/2026/10/22/stainless-steel-kiosk-atm-usb-keypad/

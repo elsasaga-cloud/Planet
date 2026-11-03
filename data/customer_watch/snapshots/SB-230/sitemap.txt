@@ -1,4 +1,4 @@
-# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://adin.it/
 	https://adin.it/it/prodotti/
 	https://adin.it/it/k-new-2/
@@ -10,6 +10,31 @@
 	https://adin.it/it/uniview-pro/
 	https://adin.it/it/uniview-linea-ptz/
 	https://adin.it/it/switch-poe-e-accessori/
+	https://adin.it/it/switch-ethernet-da-rack/
+	https://adin.it/it/switch-ethernet-da-rack/aivuswi16pm/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp7516gepoe4gf/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp7524gepoe4gf/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp7624gsl3/
+	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10/
+	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10p/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp3218tspsb/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp3226tspsb/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp7624gepoep/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp7624geie/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp3318spsb250m0/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp3324spsb250m0/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp3324spsb410m0/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp3328tspsb280l2/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp3328tspsbl2/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp5328spsd2000/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp5628tfsl3/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp5628sl3/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp5628spsbl3/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp5652sl3/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp5652spsbl3/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp7310spsd/
+	https://adin.it/it/switch-ethernet-da-rack/aivul1218spsb150/
+	https://adin.it/it/switch-ethernet-da-rack/aivutp1305/
 	https://adin.it/it/monitor-anrecson/
 	https://adin.it/it/videowall-anrecson/
 	https://adin.it/it/digital-signage/
@@ -18,45 +43,6 @@
 	https://adin.it/it/sotware-tvcc/
 	https://adin.it/it/tvt/
 	https://adin.it/it/bdcom/
-	https://adin.it/it/poe-switch/
-	https://adin.it/it/poe-switch/bdcs10004p2f/
-	https://adin.it/it/poe-switch/bdcs10008p2f/
-	https://adin.it/it/poe-switch/bdcs12008p2g/
-	https://adin.it/it/poe-switch/bdcs120016p2g1s/
-	https://adin.it/it/poe-switch/bdcs120024p2g1s/
-	https://adin.it/it/poe-switch/bdcs120024p2g1s370/
-	https://adin.it/it/poe-switch/bdcs15004p2g/
-	https://adin.it/it/poe-switch/bdcs15004p1g1s/
-	https://adin.it/it/poe-switch/bdcs15004p2s/
-	https://adin.it/it/poe-switch/bdcs15008p2g/
-	https://adin.it/it/poe-switch/bdcs15008p1g1s/
-	https://adin.it/it/poe-switch/bdcs15008p2s/
-	https://adin.it/it/poe-switch/bdcs15008p2g2s/
-	https://adin.it/it/poe-switch/bdcs150016p2s/
-	https://adin.it/it/poe-switch/bdcs150024p2s/
-	https://adin.it/it/poe-switch/bdcs150024p2s370/
-	https://adin.it/it/poe-switch/bdcs150016p2g2s/
-	https://adin.it/it/poe-switch/bdcs150024p2g2s/
-	https://adin.it/it/poe-switch/bdcs250016p2s2c/
-	https://adin.it/it/poe-switch/bdcs250024p4c/
-	https://adin.it/it/poe-switch/bdcs25008p2s/
-	https://adin.it/it/poe-switch/bdcs250024p4s/
-	https://adin.it/it/poe-switch/bdcs29008p4x/
-	https://adin.it/it/poe-switch/bdcs290024p4xv1/
-	https://adin.it/it/poe-switch/bdcs290048p6x370/
-	https://adin.it/it/poe-switch/bdcs290048p6x/
-	https://adin.it/it/poe-switch/bdcs290048p6x760/
-	https://adin.it/it/poe-switch/bdcs390048p6x/
-	https://adin.it/it/poe-switch/bdcpoe500ac/
-	https://adin.it/it/poe-switch/bdcs57008ep4x120/
-	https://adin.it/it/poe-switch/bdcs57008ep4x370/
-	https://adin.it/it/poe-switch/bdcs570024ep6x370/
-	https://adin.it/it/poe-switch/bdcs570024ep6x760/
-	https://adin.it/it/poe-switch/bdcs150016p2esh/
-	https://adin.it/it/poe-switch/bdcs150024p2esh/
-	https://adin.it/it/poe-switch/bdcs250016p4s/
-	https://adin.it/it/poe-switch/bdcs390024p6x/
-	https://adin.it/it/poe-switch/bdcs250048p4s370/
 	https://adin.it/it/azienda/
 	https://adin.it/it/servizi/
 	https://adin.it/it/supporto/
@@ -159,52 +145,56 @@
 	https://adin.it/it/news-2018-02-09-corso-privacy-a-firenze/
 	https://adin.it/it/news-2018-02-09-sicurezza-2017-advanced-innovations-rin/
 	https://adin.it/it/prova-42/
-2025-07-31	https://adin.it/it/moduli-sfp/aivufsfpt/
-2025-07-31	https://adin.it/en/moduli-sfp/aivufsfpt/
 2023-03-29	https://adin.it/it/poe-splitterinjector/aivust01/
 2023-03-29	https://adin.it/en/poe-splitterinjector/aivust01/
-2024-04-04	https://adin.it/it/switch-ethernet-industriali/aivuswi04p2/
-2024-04-04	https://adin.it/en/switch-ethernet-industriali/aivuswi04p2/
+2025-07-31	https://adin.it/it/moduli-sfp/aivufsfpt/
+2025-07-31	https://adin.it/en/moduli-sfp/aivufsfpt/
 2023-07-20	https://adin.it/it/moduli-sfp/aivufsfp1g20ktr/
 2023-07-20	https://adin.it/en/moduli-sfp/aivufsfp1g20ktr/
-2024-10-04	https://adin.it/it/poe-splitterinjector/aivupj12/
-2024-10-04	https://adin.it/en/poe-splitterinjector/aivupj12/
+2024-04-04	https://adin.it/it/switch-ethernet-industriali/aivuswi04p2/
+2024-04-04	https://adin.it/en/switch-ethernet-industriali/aivuswi04p2/
 2023-07-20	https://adin.it/it/moduli-sfp/aivuf2202bs20in/
 2023-07-20	https://adin.it/en/moduli-sfp/aivuf2202bs20in/
-2024-11-04	https://adin.it/it/switch-ethernet-da-rack/aivuswi16pm/
-2024-11-04	https://adin.it/en/switch-ethernet-da-rack/aivuswi16pm/
-2024-11-04	https://adin.it/it/switch-ethernet-da-rack/aivutp7516gepoe4gf/
-2024-11-04	https://adin.it/en/switch-ethernet-da-rack/aivutp7516gepoe4gf/
+2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivuswi16pm/
+2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivuswi16pm/
+2024-10-04	https://adin.it/it/poe-splitterinjector/aivupj12/
+2024-10-04	https://adin.it/en/poe-splitterinjector/aivupj12/
+2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivutp7516gepoe4gf/
+2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivutp7516gepoe4gf/
 2023-07-19	https://adin.it/it/poe-splitterinjector/aivupj02/
 2023-07-19	https://adin.it/en/poe-splitterinjector/aivupj02/
-2019-10-24	https://adin.it/it/telecamere-ip-bullet-2/unvipc2322lbr3spd/
-2019-10-24	https://adin.it/en/telecamere-ip-bullet-2/unvipc2322lbr3spd/
-2023-11-23	https://adin.it/it/switch-ethernet-industriali/aivuswi04gp/
-2023-11-23	https://adin.it/en/switch-ethernet-industriali/aivuswi04gp/
+2023-07-20	https://adin.it/it/moduli-sfp/aivufsfp155m20k/
+2023-07-20	https://adin.it/en/moduli-sfp/aivufsfp155m20k/
 2023-07-19	https://adin.it/it/poe-splitterinjector/aivupj03/
 2023-07-19	https://adin.it/en/poe-splitterinjector/aivupj03/
 2020-08-07	https://adin.it/it/telecamere-ip-bullet-3/unvipc2222sr5upf40/
 2020-08-07	https://adin.it/en/telecamere-ip-bullet-3/unvipc2222sr5upf40/
-2023-07-20	https://adin.it/it/moduli-sfp/aivufsfp155m20k/
-2023-07-20	https://adin.it/en/moduli-sfp/aivufsfp155m20k/
-2025-04-23	https://adin.it/it/switch-ethernet-compatti-poe/aivuswm04gp1/
-2025-04-23	https://adin.it/en/switch-ethernet-compatti-poe/aivuswm04gp1/
+2023-11-23	https://adin.it/it/switch-ethernet-industriali/aivuswi04gp/
+2023-11-23	https://adin.it/en/switch-ethernet-industriali/aivuswi04gp/
+2019-10-24	https://adin.it/it/telecamere-ip-bullet-2/unvipc2322lbr3spd/
+2019-10-24	https://adin.it/en/telecamere-ip-bullet-2/unvipc2322lbr3spd/
 2023-07-20	https://adin.it/it/moduli-sfp/aivufsfp10g10k/
 2023-07-20	https://adin.it/en/moduli-sfp/aivufsfp10g10k/
-2023-12-04	https://adin.it/it/switch-ethernet-industriali/aivutp7304gepoe/
-2023-12-04	https://adin.it/en/switch-ethernet-industriali/aivutp7304gepoe/
+2025-04-23	https://adin.it/it/switch-ethernet-compatti-poe/aivuswm04gp1/
+2025-04-23	https://adin.it/en/switch-ethernet-compatti-poe/aivuswm04gp1/
 2020-08-07	https://adin.it/it/telecamere-ip-bullet-3/unvipc2222sr5upf60/
 2020-08-07	https://adin.it/en/telecamere-ip-bullet-3/unvipc2222sr5upf60/
-2019-10-24	https://adin.it/it/telecamere-ip-bullet-2/unvipc2324lbr3spd/
-2019-10-24	https://adin.it/en/telecamere-ip-bullet-2/unvipc2324lbr3spd/
+2023-12-04	https://adin.it/it/switch-ethernet-industriali/aivutp7304gepoe/
+2023-12-04	https://adin.it/en/switch-ethernet-industriali/aivutp7304gepoe/
 2023-07-20	https://adin.it/it/moduli-sfp/aivufsfp155m2k/
 2023-07-20	https://adin.it/en/moduli-sfp/aivufsfp155m2k/
-2020-12-01	https://adin.it/it/telecamere-ip-bullet-3/unvipc2124sr3dpf36/
-2020-12-01	https://adin.it/en/telecamere-ip-bullet-3/unvipc2124sr3dpf36/
+2019-10-24	https://adin.it/it/telecamere-ip-bullet-2/unvipc2324lbr3spd/
+2019-10-24	https://adin.it/en/telecamere-ip-bullet-2/unvipc2324lbr3spd/
 2023-07-20	https://adin.it/it/moduli-sfp/aivuf2202am05/
 2023-07-20	https://adin.it/en/moduli-sfp/aivuf2202am05/
 2023-11-23	https://adin.it/it/switch-ethernet-industriali/aivutp7108epoe/
 2023-11-23	https://adin.it/en/switch-ethernet-industriali/aivutp7108epoe/
-2024-11-04	https://adin.it/it/switch-ethernet-da-rack/aivutp7524gepoe4gf/
-2024-11-04	https://adin.it/en/switch-ethernet-da-rack/aivutp7524gepoe4gf/
-2023-11-23	https:/
+2020-12-01	https://adin.it/it/telecamere-ip-bullet-3/unvipc2124sr3dpf36/
+2020-12-01	https://adin.it/en/telecamere-ip-bullet-3/unvipc2124sr3dpf36/
+2023-11-23	https://adin.it/it/switch-ethernet-industriali/aivuswi08p2/
+2023-11-23	https://adin.it/en/switch-ethernet-industriali/aivuswi08p2/
+2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivutp7524gepoe4gf/
+2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivutp7524gepoe4gf/
+2026-05-25	https://adin.it/it/switch-ethernet-da-rack/aivutp7624gsl3/
+2026-05-25	https://adin.it/en/switch-ethernet-da-rack/aivutp7624gsl3/
+2023-07-20	https://adin.it/it/modul

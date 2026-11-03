@@ -1,5 +1,5 @@
-# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
-2026-11-02	https://www.expressalarm.cz/
+# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-03	https://www.expressalarm.cz/
 2026-03-03	https://www.expressalarm.cz/dokument/12-internal34/
 2025-05-23	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-internal/
 2025-05-09	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-prihlaska/
@@ -20,7 +20,7 @@
 2025-12-09	https://www.expressalarm.cz/dokument/akce-internal/
 2023-06-02	https://www.expressalarm.cz/dokument/akce-kameraplusjedna-internal/
 2025-06-13	https://www.expressalarm.cz/dokument/akce-tabulka/
-2026-10-29	https://www.expressalarm.cz/dokument/akce-vanoce/
+2026-11-02	https://www.expressalarm.cz/dokument/akce-vanoce/
 2026-10-27	https://www.expressalarm.cz/dokument/akce/
 2023-04-26	https://www.expressalarm.cz/dokument/akceG1/
 2025-11-03	https://www.expressalarm.cz/dokument/akce_detektory/
@@ -179,4 +179,4 @@
 2026-05-18	https://www.expressalarm.cz/dokument/skoleni-zaklady-cctv-budejovice/
 2026-05-19	https://www.expressalarm.cz/dokument/skoleni-zaklady-cctv-ostrava/
 2026-01-28	https://www.expressalarm.cz/dokument/skoleni-zaklady-cctv-praha/
-2026-10-15	https://www.expressalarm.cz/dokume
+2026-11-02	https://www.expressalarm.cz/dokume

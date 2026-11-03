@@ -1,4 +1,6 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-03T09:43:44+00:00	CR30 czy GSR?	https://www.youtube.com/shorts/fVe33j7KSFM
+2026-11-03T09:08:47+00:00	CR30 czy GSR? Programowalny przekaźnik bezpieczeństwa Guardmaster	https://www.youtube.com/watch?v=eUqB3cmj7_Y
 2026-10-31T08:30:11+00:00	Coboty w branży spożywczej: pakowanie makaronu	https://www.youtube.com/shorts/yEp_W-J7HXk
 2026-10-29T07:45:35+00:00	Coboty w branży spożywczej: pakowanie napojów	https://www.youtube.com/shorts/jjjkjMW5sOQ
 2026-10-28T15:00:10+00:00	Local AI Day 19.11 Warszawa: lokalne AI w praktyce	https://www.youtube.com/shorts/cK0RoyRIDG4
@@ -12,5 +14,3 @@
 2026-10-16T11:55:38+00:00	Wod-kan: SCADA, NIS2 i zdalne odczyty | Elmark Tech Day	https://www.youtube.com/shorts/AN1VxLHa5pw
 2026-10-16T07:48:23+00:00	Transport palet w zakładzie: ile Was kosztuje?	https://www.youtube.com/shorts/MOvZdINDr0M
 2026-10-15T09:38:33+00:00	Robot mobilny MiR250 i cobot UR7e: przekazanie pojemników KLT bez napędu	https://www.youtube.com/shorts/2_Hw-Nrmg94
-2026-10-15T07:45:06+00:00	Moxa NPort G2. Przegląd nowych funkcji serwerów portów szeregowych	https://www.youtube.com/watch?v=eHmvNMUF38M
-2026-10-14T13:47:55+00:00	MiR1200 Pallet Jack: paletę znajduje kamera AI	https://www.youtube.com/shorts/nZCvRltt1uA

@@ -1,4 +1,4 @@
-# SB-085 DIGI Group · news_1 · https://thorbroadcast.com/client-portfolio · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-085 DIGI Group · news_1 · https://thorbroadcast.com/client-portfolio · fetched 2026-11-03T09:43:52Z · HTTP 200
 Client Portfolio - Thor Broadcast
 Search Type
 By Name
@@ -126,6 +126,7 @@ Lab Used Broadcast Equipment on sale
 Past Generation Equipment
 SDI Monitors
 Warehouse
+AV System Designs
 About
 Client Portfolio
 Support

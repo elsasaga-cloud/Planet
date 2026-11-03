@@ -1,4 +1,5 @@
-# SC-1493 duxbury.co.za · feed_auto · https://www.duxbury.co.za/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-1493 duxbury.co.za · feed_auto · https://www.duxbury.co.za/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Mon, 02 Nov 2026 10:07:51 +0000	The next network bottleneck is hiding in the uplink	https://www.duxbury.co.za/the-next-network-bottleneck-is-hiding-in-the-uplink/
 Wed, 28 Oct 2026 07:51:59 +0000	The network should remember what happened before the engineer arrives	https://www.duxbury.co.za/the-network-should-remember-what-happened-before-the-engineer-arrives/
 Mon, 26 Oct 2026 07:07:04 +0000	Finding video evidence is becoming a language task	https://www.duxbury.co.za/finding-video-evidence-is-becoming-a-language-task/
 Mon, 19 Oct 2026 05:41:51 +0000	Your backups may survive while stolen credentials keep attackers inside	https://www.duxbury.co.za/your-backups-may-survive-while-stolen-credentials-keep-attackers-inside/
@@ -8,4 +9,3 @@ Tue, 29 Sep 2026 06:02:10 +0000	The next constraint on MSP growth is security op
 Mon, 28 Sep 2026 07:18:21 +0000	Cambium MarketApps turns network expertise into repeatable workflows	https://www.duxbury.co.za/cambium-marketapps-turns-network-expertise-into-repeatable-workflows/
 Mon, 21 Sep 2026 05:38:31 +0000	Your network probably became flat one device at a time	https://www.duxbury.co.za/your-network-probably-became-flat-one-device-at-a-time/
 Tue, 15 Sep 2026 06:05:24 +0000	Duxbury brings new HPE Networking Instant On 1840 and 1940 switches to South Africa	https://www.duxbury.co.za/duxbury-brings-new-hpe-networking-instant-on-1840-and-1940-switches-to-south-africa/
-Tue, 08 Sep 2026 05:38:21 +0000	The switch is now part of the AV system	https://www.duxbury.co.za/the-switch-is-now-part-of-the-av-system/

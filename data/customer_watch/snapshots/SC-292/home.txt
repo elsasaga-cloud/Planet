@@ -1,5 +1,5 @@
-# SC-292 fiberinstrumentsales.com · home · https://www.fiberinstrumentsales.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
-FIS - Your Fiber Optics Experts - Fiber Instrument Sales
+# SC-292 fiberinstrumentsales.com · home · https://www.fiberinstrumentsales.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Home Page - Fiber Instrument Sales
 The store will not work correctly when cookies are disabled.
 Skip to Content
 company.current === true)[0].name"
@@ -349,61 +349,6 @@ company.current === true)[0].name"
 class="selected-company-name"
 >
 Home
-Account Access
-View Order History, Pay Invoices and Track Orders.
-Sign In or Create an Account ›
-Deals & Promotions
-Sale Priced & Clearance Items, Manufacturer & FIS Product Promotions.
-Find Deals ›
-Patchcord Configurator
-Order custom patchcords or multifiber cable assemblies online.
-Let’s Get Building ›
-Search Catalog Index
-A click will allow you to find what you need quickly.
-Product Shopping Group ›
-Popular Picks
-FIS MMC Harness, MMC/APC Female to 2 x 12F MTPAPC Female, 3 meters, SM, 24 Fiber, Type B, Plenum
-SKU: MD9MC24FMF12S3E24BPL
-$77.45
-IBC MMC-16 11 IBC Cleaner
-SKU: 25803
-$96.20
-FIS Titan Ribbon Splice Protection Sleeve for 200/250um 16 Fiber
-SKU: F1TRB16-50
-$70.00
-FIS NID Box, 1 SC/APC Adapter, Cable Retention and Management Enclosure
-SKU: Z1NDYACR-UU
-$37.95
-FIS OV350 MPO Test Set-Singlemode
-SKU: OV3501315MPOK
-$4995.00
-FIS VERSA Fiber Distribution Cabinet (Unloaded)
-SKU: ZG2-A2-SP24
-$1795.00
-FIS AC7 Splicer Kit
-SKU: F1SOCAC7
-$3830.00
-FIS Wall Plate SC/APC Adapter Integrated Shutter, 900µm 1 meter pigtail
-SKU: Z1WP-01SXX-W1
-$11.75
-FIS Cleaning Station Standard Kit Wall Mountable
-SKU: F16714
-$235.00
-FIS Splice-On Connector Cheetah SC/APC SM SOC 900um Green - 50pk Clamshell
-SKU: F1SCAPCSOC50
-$397.50
-Catalog
-New Fiber Optic Product Catalog.
-Desk Reference.
-Read Now
-Online Reading
-Download
-Digital Copy
-Request
-Printed Catalog
-E-Newsletter
-Stay up to date with what is going on with Fiber Instrument Sales, Inc.
-Subscribe
 Contact us
 1-800-500-0347
 Outside U.S. +1 315-736-2206

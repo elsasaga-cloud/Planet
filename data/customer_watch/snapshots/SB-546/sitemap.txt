@@ -1,8 +1,8 @@
-# SB-546 ness.com.au · sitemap · https://ness.com.au/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
-2026-11-01	https://ness.com.au/
-2026-11-01	https://ness.com.au/search
-2026-11-01	https://ness.com.au/contactus
-2026-11-01	https://ness.com.au/blog
+# SB-546 ness.com.au · sitemap · https://ness.com.au/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-03	https://ness.com.au/
+2026-11-03	https://ness.com.au/search
+2026-11-03	https://ness.com.au/contactus
+2026-11-03	https://ness.com.au/blog
 2026-10-06	https://ness.com.au/security-alarms
 2026-10-06	https://ness.com.au/alarm-control-panels
 2024-11-07	https://ness.com.au/home-security
@@ -233,7 +233,7 @@
 2026-09-22	https://ness.com.au/106-355b-ness-indi-2-pendant-4g-personal-alert-system
 2026-08-17	https://ness.com.au/114-658
 2026-08-17	https://ness.com.au/114-565
-2026-08-06	https://ness.com.au/114-564-hikvision-ds-kv7413ey-ime2-2-wire-door-station-stainless-steel
+2026-11-02	https://ness.com.au/114-564-hikvision-ds-kv7413ey-ime2-2-wire-door-station-stainless-steel
 2026-08-17	https://ness.com.au/114-563-hikvision-ds-kis708ey-2-wire-hd-interom-kit-with-keypad
 2026-08-17	https://ness.com.au/114-562-hikvision-ds-kis707ey-2-wire-hd-kit
 2026-08-16	https://ness.com.au/114-424-180-hikvision-ds-2cd2t87g3p-lis2uysl-8mp-bullet-pano-180

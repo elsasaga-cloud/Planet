@@ -1,4 +1,4 @@
-# SB-1010 bayiden.com.tr · home · https://www.bayiden.com.tr/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1010 bayiden.com.tr · home · https://www.bayiden.com.tr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Bayiden - Teknolojinin Bayisi
 Yapay Zeka ile Ara
 Sohbet ederek hızlı ve kolay ürün ara
@@ -28,7 +28,7 @@ Sipariş Takibi
 İletişim
 S.S.S.
 0850 441 1 352
-[email protected]
+info@bayiden.com.tr
 Sipariş Takibi
 Favorilerim
 Üye Paneli
@@ -222,4 +222,4 @@ UHF & VHF & SİM
 Yedek parça, Aksesuar
 Hemen İncele
 Elektrik Aydınlatma
-Solar
+Sol

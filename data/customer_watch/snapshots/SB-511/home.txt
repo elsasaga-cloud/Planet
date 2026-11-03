@@ -1,4 +1,4 @@
-# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 리버샵 - Rivershop
 {#item} {#html}
 {#item}
@@ -106,9 +106,9 @@ USB 2.0 A타입 to 마이크로 5핀 OTG 변환 젠더 Micro 5Pin
 넥시 하이브리드 광 HDMI 케이블 V2.0 HD20AOC
 상품요약정보 : 10M, 15M, 20M, 30M, 50M, 70M, 100M
 판매가 : 23,000원
-넥시 HDMI to DVI-D 파인골드 케이블 DIV V2.0
-상품요약정보 : 1M, 2M, 3M, 5M
-판매가 : 7,000원
+넥시 HDMI 골드 프라임 케이블 V2.0
+상품요약정보 : 1M, 1.5M, 2M, 3M, 5M, 7M, 10M
+판매가 : 2,600원
 1 / 2
 SHORTS
 흥미로운 쇼츠와 소식을 한눈에 확인하세요.
@@ -170,6 +170,11 @@ CAT8 S-FTP 40G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 �
 {#item_lazy}
 상품리뷰
 고객님의 생생한 후기를 확인해 보세요.
+넥시 USB2.0 to RS232 시리얼 케이블 콘솔 통신 PL2303 1M
+좋은 제품 저렴하게 잘 구매 했습니다
+네이버 페이..
+2026-11-03
+0
 넥시 4K 1:2 HDMI 분배기 EDID 지원 NX1488
 제품 품질 좋아요. 화면도 잘 나와요.
 네이버 페이..
@@ -195,11 +200,6 @@ CAT8 S-FTP 40G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 �
 네이버 페이..
 2026-10-20
 0
-넥시 HDMI to Micro HDMI 블랙메탈 케이블 V1.4
-만족
-네이버 페이..
-2026-10-15
-0
 Our Highlights
 {#item_lazy} {#html}
 고객센터
@@ -224,7 +224,7 @@ Our Highlights
 주소: 04365 서울특별시 용산구 원효로 68-5 리버네트워크
 사업자등록번호: 106-86-14301 [사업자정보확인]
 통신판매업 신고번호: 제 용산 01487호
-개인정보 보호책임자: 이영준
+개인정보 보호책임자: 리버
 E-mail:
 {#item_lazy}
 Copyright © 리버샵 All rights reserved. Designed by dfloor

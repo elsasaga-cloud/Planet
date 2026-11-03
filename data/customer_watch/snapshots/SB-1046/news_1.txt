@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · news_1 · https://ivolta.pl/blog · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1046 ivolta.pl · news_1 · https://ivolta.pl/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog iVolta – Nowości, porady i trendy z branży zabezpieczeń | Sklep iVolta.pl | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -51,6 +51,9 @@ Menu
 Strona główna
 Blog
 Artykuły:
+CCTV 03.11.2026 Budżet mocy PoE: jak dobrać switch PoE do kamer IP i nie przeciążyć portów
+Kluczowym komponentem każdej współczesnej instalacji monitoringu IP jest switch PoE, który odpowiada za przesyłanie danych oraz dostarczanie energii do kamer za pomocą jednego przewodu UTP.
+Czytaj więcej
 CCTV 13.10.2026 Nowy interfejs rejestratorów UNV – prostsza i wygodniejsza obsługa
 Wraz z najnowszym firmware w większości rejestratorów marki pojawił się nowy, uporządkowany interfejs użytkownika, którego głównym zadaniem jest uproszczenie konfiguracji i szybszy dostęp do najczęściej wykorzystywanych funkcji.
 Czytaj więcej
@@ -66,9 +69,6 @@ Czytaj więcej
 SYSTEMY ZABEZPIECZEŃ 11.06.2026 Klasyfikacja Podmiotów Kluczowych i Ważnych w świetle dyrektywy NIS 2
 Główne przyczyny wprowadzenia nowego podziału to przede wszystkim zasada proporcjonalności, która pozwala na nakładanie obciążeń administracyjnych adekwatnych do roli podmiotu w gospodarce, oraz harmonizacja nadzoru, eliminująca uznaniowość organów krajowych.
 Czytaj więcej
-SYSTEMY ZABEZPIECZEŃ 28.05.2026 NOWOŚCI SATEL - rewolucja w ekosystemie BE WAVE: nowe centrale BE WAVE HYBRID & WIRE
-Rodzina urządzeń BE WAVE, która zadebiutowała jako zaawansowane, bezprzewodowe rozwiązanie Smart Home, właśnie doczekała się dużej ewolucji.
-Czytaj więcej
 Na stronie:
 6
 12
@@ -81,7 +81,7 @@ Na stronie:
 Następna ›
 Kategorie:
 • Artykuły Elektryczne (2)
-• CCTV (73)
+• CCTV (74)
 • Elektronarzędzia (2)
 • Inteligentny dom (12)
 • Inwigilacja elektroniczna (3)
@@ -93,6 +93,8 @@ Kategorie:
 • SYSTEMY ZABEZPIECZEŃ (41)
 • TV SAT (8)
 Najnowsze:
+03.11.2026
+Budżet mocy PoE: jak dobrać switch PoE do kamer IP i nie przeciążyć portów
 13.10.2026
 Nowy interfejs rejestratorów UNV – prostsza i wygodniejsza obsługa
 01.10.2026
@@ -103,8 +105,6 @@ AcuSeek w rejestratorach VPro Hikvision – inteligentne tekstowe wyszukiwanie n
 Rewolucja NIS2: Co czeka branżę elektronicznych systemów zabezpieczeń?
 11.06.2026
 Klasyfikacja Podmiotów Kluczowych i Ważnych w świetle dyrektywy NIS 2
-28.05.2026
-NOWOŚCI SATEL - rewolucja w ekosystemie BE WAVE: nowe centrale BE WAVE HYBRID & WIRE
 Wszystkie tagi:
 monitoring
 czujnik dymu

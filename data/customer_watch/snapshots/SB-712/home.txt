@@ -1,4 +1,4 @@
-# SB-712 maplesystems.com · home · https://maplesystems.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-712 maplesystems.com · home · https://maplesystems.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Industrial Automation Control Solutions
 Skip to content
 Login/Register
@@ -133,6 +133,13 @@ Popular comparisons: OIT3185-A00 , OIT4185-A00
 Powerful OIT Configuration (OITware-200)
 Streamline OIT setup with multi-language support, advanced recipe management, remote variable storage, and expanded device compatibility.
 Learn More
+PID Controllers
+View All PID Controllers
+Compact PID Temperature Controllers
+PID Temperature Controllers
+Need Help Choosing a PID Controller?
+Let our team help you choose the right solution for your industry.
+Contact Our Experts
 Tower Stack Lights
 View All Tower Lights
 Direct Mount Tower Lights
@@ -415,6 +422,9 @@ Expandable I/O PLCs
 Remote I/O
 PLC Software (MapleLogic)
 Compare PLC Models
+PID Controllers
+Compact PID Temperature Controllers
+PID Temperature Controllers
 Tower Stack Lights
 Direct Mount Tower Lights
 Pole Mount Tower Lights
@@ -455,24 +465,4 @@ Food & Beverage
 Medical & Pharmaceutical
 Oil & Gas
 Packaging
-Water & Wastewater
-IIoT Overview
-MQTT
-SQL Database
-OPC UA
-SCADA Systems Guide
-Remote Access
-EasyAccess 2.0
-cMT Viewer
-WebView
-VNC
-Knowledge Center
-Articles
-Class I, Div 2 Products
-Andon/Annunciator Systems
-Learn How Our Features Work
-Modbus Protocol Guide
-CODESYS
-Connecting To
-Allen Bradley Controllers
-Siemens C
+Wate

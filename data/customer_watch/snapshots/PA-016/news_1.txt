@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-02T09:40:28Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -95,42 +95,42 @@ Projektory
 Monitory Wielkoformatowe
 Biznesowe
 Hotelowe
-Akcesoria
 Lampowe
 Laserowe
+Akcesoria
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Kamery PTZ Obrotowe
+Statywy
 Mikrofony
 Mediakonwertery
 Grabbery
-Kamery PTZ Obrotowe
-Statywy
+Uchwyty do projektorów
 Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
-Uchwyty do projektorów
 Uchwyty do monitorów
 HDMI
 USB
 USB A
 USB C
-Na ramieniu
-Mobilne wózki
 Stałe
 Uchylne
+Na ramieniu
+Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla edukacji
+Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
-Dla edukacji
-Dla obiektów handlowych
-Akcesoria
 Stanowiskowe
 Powierzchniowe
+Akcesoria
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -143,25 +143,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Jednouszne
-Dwuuszne
 Przewodowe
 Bezprzewodowe
-Adaptery
+Jednouszne
+Dwuuszne
 Kable przyłączeniowe
 Gąbki
+Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Słuchawki
+Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
 Higiena
-Słuchawki
-Mikrofony
-Słuchawki kablowe
-Akcesoria
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
+Słuchawki kablowe
+Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -187,10 +187,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Akcesoria
-Morskie
 Analogowe
 Cyfrowe
+Akcesoria
+Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -206,16 +206,16 @@ LICENCJE
 UNIFONY IP
 AKCESORIA
 Wróć do:
-Interkomy
 Przewodowe
 Bezprzewodowe
+Interkomy
+Elementy montażowe
+Ramki
 Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
-Elementy montażowe
-Ramki
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -239,21 +239,22 @@ Wkładki SFP
 Licencje
 Urządzenia
 Zestawy
-Compact
+Licencje
 Tower
 Rack
+Compact
 USB-A
 USB-C
 Lightning
-Drukarki etykiet
 Drukarki Pos
+Drukarki etykiet
 Skanery kodów
-Akcesoria
 Jednostki główne
 Czujniki
-Dyski NAS
+Akcesoria
 NAS Desktop
 NAS Rack
+Dyski NAS
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -291,9 +292,9 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Wtyki
 Gniazda Keystone
 Łączniki kabli
+Wtyki
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -302,9 +303,10 @@ Patchcord
 Na m
 Box
 Patchcord
-Akcesoria
+Na m
 Stojące
 Wiszące
+Akcesoria
 Puszki
 Uchwyty
 Dyski
@@ -374,14 +376,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
+Głośniki
+Wzmacniacze
 Miksery
 Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
-Głośniki
-Wzmacniacze
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -402,42 +404,42 @@ Projektory
 Monitory Wielkoformatowe
 Biznesowe
 Hotelowe
-Akcesoria
 Lampowe
 Laserowe
+Akcesoria
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Kamery PTZ Obrotowe
+Statywy
 Mikrofony
 Mediakonwertery
 Grabbery
-Kamery PTZ Obrotowe
-Statywy
+Uchwyty do projektorów
 Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
-Uchwyty do projektorów
 Uchwyty do monitorów
 HDMI
 USB
 USB A
 USB C
-Na ramieniu
-Mobilne wózki
 Stałe
 Uchylne
+Na ramieniu
+Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla edukacji
+Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
-Dla edukacji
-Dla obiektów handlowych
-Akcesoria
 Stanowiskowe
 Powierzchniowe
+Akcesoria
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -455,25 +457,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Jednouszne
-Dwuuszne
 Przewodowe
 Bezprzewodowe
-Adaptery
+Jednouszne
+Dwuuszne
 Kable przyłączeniowe
 Gąbki
+Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Słuchawki
+Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
 Higiena
-Słuchawki
-Mikrofony
-Słuchawki kablowe
-Akcesoria
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
+Słuchawki kablowe
+Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -505,10 +507,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Akcesoria
-Morskie
 Analogowe
 Cyfrowe
+Akcesoria
+Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -526,16 +528,16 @@ AKCESORIA
 Wróć do:
 Jednorodzinne
 Wielorodzinne
-Interkomy
 Przewodowe
 Bezprzewodowe
+Interkomy
+Elementy montażowe
+Ramki
 Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
-Elementy montażowe
-Ramki
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -550,9 +552,9 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
+Bezprzewodowe
 Przewodowe
 Na kartę SIM
-Bezprzewodowe
 Przemysłowe
 Zewnętrzne
 Wewnętrzne
@@ -563,21 +565,22 @@ Wkładki SFP
 Licencje
 Urządzenia
 Zestawy
-Compact
+Licencje
 Tower
 Rack
+Compact
 USB-A
 USB-C
 Lightning
-Drukarki etykiet
 Drukarki Pos
+Drukarki etykiet
 Skanery kodów
-Akcesoria
 Jednostki główne
 Czujniki
-Dyski NAS
+Akcesoria
 NAS Desktop
 NAS Rack
+Dyski NAS
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -623,9 +626,9 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Wtyki
 Gniazda Keystone
 Łączniki kabli
+Wtyki
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -634,9 +637,10 @@ Patchcord
 Na m
 Box
 Patchcord
-Akcesoria
+Na m
 Stojące
 Wiszące
+Akcesoria
 Puszki
 Uchwyty
 Dyski
@@ -1023,5 +1027,4 @@ Twoje zamówienia
 Newsletter
 Ustawienia konta
 Przechowalnia
-Płatności i dostawa
-Formy pł
+

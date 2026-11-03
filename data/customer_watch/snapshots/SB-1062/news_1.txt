@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,10 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1780 result(s)
+1782 result(s)
+Implementing Odoo in Australia: Choosing Direct or Partner Support
+Nov 2, 2026
+Business Hacks
 What Characterizes a top-tier ERP?
 Nov 2, 2026
 Business Hacks
@@ -201,6 +204,9 @@ Business Hacks
 Safe Sex, Smarter Systems: How Global Protection Replaced 5 Platforms with Odoo
 Oct 29, 2026
 Customer Reviews
+3 Vietnamese Companies, 3 Paths to Becoming an Odoo Partner
+Oct 29, 2026
+Business Hacks
 Odoo for Restaurants
 Oct 29, 2026
 Business Hacks
@@ -216,12 +222,6 @@ Business Hacks
 What Is the Best HR Software for My Business?
 Oct 26, 2026
 Business Hacks
-Meet Odoo and Brainvire at SEMA 2026
-Oct 26, 2026
-Odoo News
-Termotec Integrates Its Operations with Odoo to Support Business Growth
-Oct 26, 2026
-Customer Reviews
 1
 2
 3

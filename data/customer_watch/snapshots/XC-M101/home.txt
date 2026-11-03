@@ -1,4 +1,4 @@
-# XC-M101 Autic System AS · home · https://www.autic.no/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# XC-M101 Autic System AS · home · https://www.autic.no/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Automasjonsutstyr & programvare - Autic System AS
 Hopp rett til innholdet
 Logg Inn
@@ -43,28 +43,31 @@ SCADA-Systemet Ignition: Modent, frempå og med masse muligheter!
 Universitetet i Sørøst-Norge oppgraderte undervisningen med Ignition!
 Produkter
 Se alle
+Fjerntilkobling VPN
+MicroEdge Basic VPN gateway, uten tidsbegrensning
+Gateway med VPN
++XME000U0C0
 IoT Gateway
 DA10D Protokollkonverter og IIoT gateway
 DA10D Prokollkonverter og IIoT gateway
 Industriledenede potokollkonverter
 2 på lager
 DA10D0C000000000
-IoT Gateway
-Raspberry PI 4B, med UPS, 32GB minne og 8GB RAM
-Beskytt dine Raspberry Pi-baserte prosjekter mot strømbrudd og datatap med AION PI UPS, den innovative industrielle UPS-en som leverer uavbrutt strømforsyning og pålitelighet. AION PI UPS er designet for å yte i utfordrende miljøer, og er den ultimate løsningen for å beskytte kritiske operasjoner, redusere nedetid og sikre maskinvareinvesteringen.
-1 på lager
-AION-PI-UPS
 5G Routere
 5G Router med 2 stk. ETH, 2 stk.serieporter og 2 stk. SIM
 NR500 – Industriell 5G Router/Modem med 2 Ethernetporter, 2 serieporter og dobbel SIM
 9 på lager
 NR500-S5G-A502533
-eX700 serien
-EX721M, 21,5″ Operatørpanel, PCT Touch,64 bit
-+EX721MU5P1
+Marine
+Xedge15, X6425, DNV
+15,6″ Panel PC med 4xLAN, 2xDP, DNV typegodkjent
+9 på lager
+XE715FAA0UW0001
 Kommende aktiviteter
 Se alle
 Påmelding til Autic seminar – 5. november 2026!
+Les mer og meld deg på her
+Send inn dine spørsmål til ekspertpanelet!
 Les mer og meld deg på her
 Ignition CORE kurs, Desember.
 Les mer og meld deg på her

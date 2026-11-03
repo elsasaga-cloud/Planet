@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3981)
+Svi proizvodi (3988)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -321,29 +321,29 @@ Failover kutije (3)
 PoE svičevi
 PoE komponente
 USB telefoni i gejtveji (4)
-Ethernet svičevi (618)
+Ethernet svičevi (630)
 Neupravljivi svičevi (79)
 24 porta (1)
 8 portova (8)
 16 portova (1)
 6-8 portova (7)
-Upravljivi svičevi (151)
+Upravljivi svičevi (154)
 8 portova
 16 portova (1)
 24 porta
-Fiber svičevi (27)
-Layer 3 svičevi (73)
+Fiber svičevi (30)
+Layer 3 svičevi (76)
 Industrijski svičevi (62)
 PoE svičevi (77)
 Fiber moduli (78)
 Šasije - modularne (35)
 SFP+ i QSFP+ kablovi (10)
-L3 svicevi - ruteri (21)
+L3 svicevi - ruteri (24)
 PoE (Power-over-Ethernet) (71)
 Ekstenderi dometa
 Mreža preko struje (4)
-Fiber optička aktivna oprema (146)
-Fiber svičevi (26)
+Fiber optička aktivna oprema (149)
+Fiber svičevi (29)
 Fiber moduli (78)
 Fiber konverteri (37)
 Fiber šasije
@@ -430,9 +430,9 @@ Antenski spliteri (2)
 Prenaponske zaštite (4)
 Antenski kablovi (32)
 Konektori i adapateri (33)
-Wireless WiFi 2.4 - 5GHz (369)
-WiFi ruteri indoor (94)
-Access pointi indoor (89)
+Wireless WiFi 2.4 - 5GHz (371)
+WiFi ruteri indoor (95)
+Access pointi indoor (90)
 High Power oprema (28)
 Ekstenderi dometa (12)
 WiFi adapteri (28)
@@ -454,7 +454,7 @@ SuSE i RedHat Linux
 Mikrotik RouterOS
 Microsoft i dr. softver
 Ruteri, VPN, Firewall (36)
-Industrijska i serijska oprema (229)
+Industrijska i serijska oprema (231)
 Industrijski Ethernet - svičevi, ruteri, konverteri (50)
 Serijska oprema RS232/ 422/ 485/ Modbus/ CAN bus/ USB (15)
 Industrijska wireless oprema (24)

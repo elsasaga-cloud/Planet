@@ -1,4 +1,4 @@
-# SB-1027 everbesthk.com · home · https://www.everbesthk.com/ · fetched 2026-10-31T08:34:28Z · HTTP 200
+# SB-1027 everbesthk.com · home · https://www.everbesthk.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Everbest Home Page - Everbest Technologies Ltd.
 Bringing Innovative Products into HK & Macau since 1991
 About Us
@@ -12,7 +12,7 @@ Advertisement
 Warranty Warranty Terms
 Contact Us
 Everbest Home Page
-2026-10-22T16:+
+2026-11-02T11:+
 Highlight
 WAP-8171 BE3600 WiFi 7 AP
 ●最新一代802.11be Wi-Fi 7
@@ -35,12 +35,12 @@ KE6948AT / KE6948AR
 ●Dual Display雙螢幕顯示
 ●免舖線 TCP/IP網路無限距離伸延
 Read More
-TR322
-●雙鏡頭AI自動追蹤
-●4K*/1080P超高清畫質
-●22倍光學變焦
-●多源輸出 HDMI/SDI/IP/USB 3.1/NDI
-●H.265●POE+供電
+TR615
+●4K 60fps/1080P超高清畫質
+●19倍光學變焦能力
+●1 吋 Sony Exmor RS® CMOS
+●HDMI/12G-SDI*2/IP/USB 3.1/NDI HX3
+●H.265●POE++供電
 Read More
 GVM-2000/1/2
 GVM-2000 ●10/100/1000 Base-T UTP to 100/1000 Mbps SFP Managed Converter
@@ -56,16 +56,16 @@ PR ERT2UC Series
 Read More
 Feature Products
 19 Oct 2026
+AVer TR615 Broadcasting-Grade AI Auto Tracking Camera
+Justine
+2026-11-02T11:+
+AVer TR615 Broadcasting-Grade AI Auto Tracking Camera
+19 Oct 2026 , 28 Oct 2026 , AVER , Pro AV , Professional PTZ Camera
 ATEN KE6948AR/KE6948AT
 Ariel
 2026-10-23T11:+
 ATEN KE6948AR/KE6948AT
 19 Oct 2026 , Aten , IP KVM
-AVer TR322 ProAV PTZ Camera
-Justine
-2026-10-22T16:+
-AVer TR322 ProAV PTZ Camera
-15 Oct 2026 , 19 Oct 2026 , AVER , Pro AV , Professional PTZ Camera
 7 Sep 2026
 LevelOne GVM-2000/2001/2002
 Ariel

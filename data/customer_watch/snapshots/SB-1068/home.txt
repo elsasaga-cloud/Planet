@@ -1,4 +1,4 @@
-# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl
 Realizacja zamówień: 796 224 537
 Oferty i wyceny: 502 177 440 / 571 033 282 (pn–pt 8–16)
@@ -431,7 +431,7 @@ ADLER Power
 ADM6012
 44,61 zł
 Dostawa:
-do piątku, 06.11
+do poniedziałku, 09.11
 5 szt.
 Maksymalna dostępna ilość: 5 szt. Większą ilość możemy sprowadzić na zapytanie.
 Napięcie zasilania: 110 ... 240 V AC 47 ... 63 Hz ; Napięcie wyjściowe: 12 V DC ; Wydajność prądowa zasilacza: 5 A ; Moc zasilacza: 60 W ; Liczba wyjść: 1 szt. ; Zabezpieczenia: Przeciwzwarciowe Przeciążeniowe Nadnapięciowe ; Klasa szczelności: IP20 ;
@@ -444,7 +444,7 @@ Delta-Opti
 POLEHOLDER/12X12X30
 47,97 zł
 Dostawa:
-do piątku, 06.11
+do poniedziałku, 09.11
 1 szt.
 Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
 Zastosowanie: StreetPole ECO ; Materiał: stal A-III ; Pręt gwintowany: M14 ; Rozstaw otworów montażowych: 120 x 120 mm ;
@@ -457,7 +457,7 @@ Delta-Opti
 POLEHOLDER/16X16X30
 52,77 zł
 Dostawa:
-do piątku, 06.11
+do poniedziałku, 09.11
 4 szt.
 Maksymalna dostępna ilość: 4 szt. Większą ilość możemy sprowadzić na zapytanie.
 Zastosowanie: StreetPole PRO ; Materiał: stal A-III ; Pręt gwintowany: M14 ; Rozstaw otworów montażowych: 160 x 160 mm ;
@@ -470,7 +470,7 @@ Delta-Opti
 POLEHOLDER/16X16X40
 57,56 zł
 Dostawa:
-do piątku, 06.11
+do poniedziałku, 09.11
 4 szt.
 Maksymalna dostępna ilość: 4 szt. Większą ilość możemy sprowadzić na zapytanie.
 Zastosowanie: StreetPole PRO ; Materiał: stal A-III ; Pręt gwintowany: M14 ; Rozstaw otworów montażowych: 160 x 160 mm ;
@@ -480,7 +480,4 @@ Dostępne
 Kamery IP
 KAMERA IP IPC-PFW31259S-A180-E2-AS-PV-0280B-BLK PANORAMICZNA TiOC WizSense - 12 Mpx 2 X...
 DAHUA
-IPC-PFW31259S-A180-E2-AS-PV-0280B-BLK
-2 170,61 zł
-Dostawa:
-
+IPC-PFW31259S-A180-E2-AS-PV-0280B-B

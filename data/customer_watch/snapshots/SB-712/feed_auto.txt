@@ -1,11 +1,11 @@
-# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Mon, 02 Nov 2026 19:17:11 +0000	Open-Loop vs. Closed-Loop PID Control Systems	https://maplesystems.com/pid-open-loop-vs-closed-loop/
+Mon, 02 Nov 2026 19:11:00 +0000	Troubleshooting PID Loop Instability, Oscillations, Overshoot & Hunting	https://maplesystems.com/pid-loop-troubleshooting-guide/
+Mon, 02 Nov 2026 18:45:48 +0000	Complete Guide to PID Loop Methodologies	https://maplesystems.com/pid-tuning-methods/
+Mon, 02 Nov 2026 18:32:51 +0000	Preventing Integral Windup in PID Control: Anti-Windup Methods	https://maplesystems.com/integral-windup-anti-windup/
+Mon, 02 Nov 2026 18:30:23 +0000	Cascade PID Control Explained: Inner and Outer Loops	https://maplesystems.com/cascade-pid-control/
+Mon, 02 Nov 2026 18:26:03 +0000	PID Signal Conditioning & Noise Filtering	https://maplesystems.com/pid-signal-conditioning-noise-filtering/
 Mon, 26 Oct 2026 18:06:45 +0000	Acelerex Selects Maple Systems Industrial PCs as Qualified Hardware for the REX™ Platform	https://maplesystems.com/acelerex-selects-maple-systems-industrial-pcs-for-rex-platform/
+Tue, 13 Oct 2026 22:17:35 +0000	Understanding Proportional Gain (Kp), Integral Gain (Ki) and Derivative Gain (Kd) in PID Loops	https://maplesystems.com/pid-proportional-integral-derivative-gains/
 Tue, 01 Sep 2026 20:52:39 +0000	Why Industrial Digital Signage Demands Purpose-Built Hardware	https://maplesystems.com/digital-signage-pc-reliability-features/
 Tue, 01 Sep 2026 20:52:17 +0000	Digital Signage in Manufacturing: From Information to Action	https://maplesystems.com/digital-signage-manufacturing-communication/
-Tue, 01 Sep 2026 18:39:28 +0000	Digital Signage PCs: Media Players for Multi-Display and 24/7 Signage	https://maplesystems.com/digital-signage-pc-media-player/
-Tue, 01 Sep 2026 18:39:16 +0000	Digital Signage PCs for QSR and Restaurant Menu Boards	https://maplesystems.com/digital-signage-pcs-restaurant-menu-boards/
-Tue, 01 Sep 2026 18:39:06 +0000	Digital Signage PC Guide: How to Choose the Right PC	https://maplesystems.com/digital-signage-pc-guide/
-Tue, 01 Sep 2026 18:38:51 +0000	Digital Signage PC vs Mini PC vs Industrial Box PC	https://maplesystems.com/digital-signage-pc-vs-mini-pc-vs-industrial-box-pc/
-Tue, 01 Sep 2026 15:59:04 +0000	Understanding EDID for Reliable Digital Signage Systems	https://maplesystems.com/edid-digital-signage/
-Tue, 01 Sep 2026 15:57:25 +0000	Built-In EDID Emulation vs. External EDID Adapters for Digital Signage	https://maplesystems.com/edid-emulation-for-digital-signage/
-Tue, 01 Sep 2026 15:55:00 +0000	Digital Signage PCs for Manufacturing Dashboards, Andon Boards & Production Visibility	https://maplesystems.com/digital-signage-pcs-manufacturing/

@@ -1,4 +1,4 @@
-# SB-515 3tel.com.sg · sitemap · https://www.3tel.com.sg/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-515 3tel.com.sg · sitemap · https://www.3tel.com.sg/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2021-05-19T12:48:24+08:00	https://www.3tel.com.sg/1080p-16ch-dvr
 2021-05-19T12:48:31+08:00	https://www.3tel.com.sg/1080p-4ch-dvr
 2021-05-19T12:48:42+08:00	https://www.3tel.com.sg/1080p-8ch-dvr

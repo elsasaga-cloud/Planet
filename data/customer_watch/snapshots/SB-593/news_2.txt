@@ -1,4 +1,4 @@
-# SB-593 ibdglobal.com · news_2 · https://www.ibdglobal.com/en/blog/noticias-1 · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-593 ibdglobal.com · news_2 · https://www.ibdglobal.com/en/blog/noticias-1 · fetched 2026-11-03T09:43:52Z · HTTP 200
 Noticias | GRUPO IPTECNO mayorista CCTV y distribuidor oficial Dahua
 Skip to Content
 Guest
@@ -34,8 +34,8 @@ IBD Pro
 IBD Academy
 IBD Services
 IBD Solutions
-Hazte cliente
 Recursos
+Hazte cliente
 Login
 0
 Wishlist
@@ -73,8 +73,8 @@ IBD Pro
 IBD Academy
 IBD Services
 IBD Solutions
-Hazte cliente
 Recursos
+Hazte cliente
 My Cart
 ( 0 )
 My Wishlist
@@ -90,6 +90,9 @@ Our Blog
 All
 Our Blog
 Calendario formaciones y eventos
+Ajax se integra con la cerradura inteligente Yale Linus® L2 Lite
+La demanda de soluciones de seguridad verdaderamente unificadas sigue creciendo. Los usuarios finales buscan comodidad sin sacrificar la protección, y los instaladores necesitan sistemas que se comuni...
+Nov 2, 2026
 La revolución de la videovigilancia: Todo lo que debes saber sobre Ajax Cloud Storage
 El mundo de la seguridad avanza a pasos agigantados y depender exclusivamente del hardware físico es cosa del pasado. La videovigilancia ha dado un salto definitivo hacia la nube con la llegada de Aja...
 Oct 30, 2026
@@ -123,9 +126,6 @@ Apr 21, 2026
 Ajax Systems vuelve a España con el Ajax Roadshow
 En IBD Global, como distribuidor líder en soluciones de seguridad, nos comprometemos a traeros siempre la vanguardia tecnológica. Por esoanunciamosla llegada del Ajax Roadshow durante los meses de may...
 Apr 14, 2026
-Ajuste de precios para el mayo 2026
-Agradecemos su continuo interés en trabajar con nosotros y la oportunidad de apoyar sus próximos proyectos. Estamos comprometidos a ofrecer soluciones de alta calidad, manteniendo al mismo tiempo la t...
-Apr 13, 2026
 1
 2
 3
@@ -304,6 +304,8 @@ July
 2026
 October
 2026
+November
+2026
 Tags
 Noticias
 CEPYME500
@@ -319,21 +321,21 @@ seguridad cámaras termográficas
 vídeo
 Follow us
 ​
+﻿ ﻿​﻿ ﻿
 Certificaciones
-Recursos
-Webinars
-Descargas
-Guía accesorios Dahua
+Soporte
+﻿ ﻿Webinars﻿ ﻿
+﻿ ﻿Descargas﻿ ﻿
+﻿ ﻿Formación﻿ ﻿﻿ ﻿ ﻿
 Más información
-Alta nuevo cliente
-Noticias
-Calendario formaciones
+﻿ ﻿Hazte cliente﻿ ﻿
+﻿ ﻿Noticias﻿ ﻿
 Contacto
 C/ Del Besòs, 12.
 P.I. Can Buscarons de Baix
 08170 Montornès del Vallès
 +34 93 840 90 73
-info@ibdglobal.com
+​ ﻿ info@ibdglobal.com ﻿
 Todos los derechos reservados © 2026 Smart Tech Ibd Global Solutions, S.L.
 Condiciones legales · Política de cookies · Política de privacidad · Transparencia
 English (US)

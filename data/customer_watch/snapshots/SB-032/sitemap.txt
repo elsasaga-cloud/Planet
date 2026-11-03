@@ -1,4 +1,4 @@
-# SB-032 PIOLINK · sitemap · https://www.piolink.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-032 PIOLINK · sitemap · https://www.piolink.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2023-02-02T09:14:30+00:00	https://www.piolink.com/kr/
 2023-02-02T09:14:30+00:00	https://www.piolink.com/kr/product/Application-Delivery-Controller.php
 2023-02-02T09:14:30+00:00	https://www.piolink.com/kr/product/GSLB-global-server-load-balancing.php

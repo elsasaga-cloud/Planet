@@ -1,5 +1,5 @@
-# SB-848 setilend.ru · news_1 · https://setilend.ru/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
-СетиЛенд-Онлайн
+# SB-848 setilend.ru · news_1 · https://setilend.ru/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+ИТ-маркет
 Вход
 Регистрация
 Магазин
@@ -671,4 +671,4 @@ Knipex
 Экстракторы
 Столярный инструмент
 Абразивный инструмент
-С
+Слесарн

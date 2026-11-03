@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -106,12 +106,12 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4959)
-Wszystkie 4959
+LAN (4960)
+Wszystkie 4960
 Kable LAN 403
 Patchcordy RJ45 1869
 Szafy RACK 892
-Akcesoria do szaf RACK 891
+Akcesoria do szaf RACK 892
 Moduły keystone 235
 Gniazda i wtyki 294
 Organizacja kabli 96
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2257)
-Wszystkie 2257
+Zasilanie (2261)
+Wszystkie 2261
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
-Zasilacze impulsowe 522
+Zasilacze impulsowe 526
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158
@@ -145,10 +145,10 @@ Uchwyty ścienne 34
 Uchwyty do rurki 18
 Maszty 133
 Uchwyty do anten 16
-Anteny GSM, LTE, 5G, IoT i LoRa (131)
-Wszystkie 131
+Anteny GSM, LTE, 5G, IoT i LoRa (132)
+Wszystkie 132
 Anteny Dookólne GSM, 3G, 4G, 5G, LTE 33
-Anteny Kierunkowe GSM, 3G, 4G, 5G, LTE 50
+Anteny Kierunkowe GSM, 3G, 4G, 5G, LTE 51
 Konektory GSM, 3G, 4G, 5G, LTE 48
 Anteny Wi-Fi (220)
 Wszystkie 220
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Mean Well HLG-240H-24B zasilacz LED 24 V 240 W 10 A z regulacją ściemniania
-284.3 zł netto
+Mean Well HLG-240H-24A zasilacz LED 24 V 240 W 10 A
+258.66 zł netto
 Do koszyka
-Mean Well HLG-240H-24 zasilacz LED 24 V 240 W 10 A
-255.27 zł netto
+Lanberg SC01-6504-12B obudowa serwerowa RACK 19 cali 4U
+473.28 zł netto
 Do koszyka
-Mean Well HLG-240H-12B zasilacz LED 12 V 16 A 192 W
-284.3 zł netto
+Hikvision DS-2CD1T47G3-LIUF/SL(2.8mm) kamera IP bullet 4 MP ColorVu 3.0
+486.25 zł netto
 Do koszyka
-Mean Well HLG-240H-12A zasilacz LED 12 V 192 W 16 A IP65
-276.38 zł netto
+Shelly Dimmer Gen4 – inteligentny ściemniacz Wi-Fi, Zigbee i Matter
+139.07 zł netto
 Do koszyka
-Hikvision DS-2CD2363G2-LI2U/SL kamera IP 6 MP AcuSense z alarmem
-746.5 zł netto
+Shelly Plus RGBW PM x2 – zestaw 2 sterowników taśm LED 12/24 VDC
+196.14 zł netto
 Do koszyka
-Hikvision DS-2CD2363G2-LI2U(2.8MM)(BLACK) kamera IP kopułkowa 6 MP
-701.22 zł netto
+Shelly Dimmer 0/1-10V PM Gen4 – inteligentny ściemniacz z pomiarem mocy
+121.17 zł netto
 Do koszyka
-Hikvision DS-2CD2363G2-LI2U(2.8mm) kamera IP kopułkowa 6 MP
-665.08 zł netto
+Shelly Wave i4 LR – 4-wejściowy moduł sterujący Z-Wave
+113.96 zł netto
 Do koszyka
-Hikvision DS-2CD2343G2D-LIZ2UY/SL(2.8/4)BLACK – kamera IP 4 MP z podwójnym obiektywem
-1763.75 zł netto
+Shelly Wave 1 EU LR – 1-kanałowy przekaźnik Z-Wave Long Range
+134.71 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

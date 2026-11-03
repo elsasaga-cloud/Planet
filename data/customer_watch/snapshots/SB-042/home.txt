@@ -1,4 +1,4 @@
-# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Regal Security Home
 Login / Register
 
@@ -103,7 +103,6 @@ Wireless and Wi-Fi
 Power Supplies and Batteries Alkaline Batteries
 Battery Accessories
 Gel Batteries
-Inverter
 Lithium Batteries
 Power Supply
 Sealed Lead Acid Batteries
@@ -123,7 +122,6 @@ Enclosures
 Gate Motor Accessories
 Hardware and Accessories
 HDMI
-Junction Boxes
 Security Cables
 Solar Accessories
 Connectors
@@ -144,60 +142,50 @@ Tools and Test Meters
   Brands Accentronix
 Ajax
 Armatura
-BPT
-Centurion
+Centurion Systems
 CISA
 Clearline
-Comb
+Comb Comunications
 Commax
-Crow
 Dewalt
 Disrupter
 DMP
-Dorma
+Dormakaba
 Dortech
 Elock
 EZVIZ
 Fluss
 Gemini
 Genata
-Guard Track
 Hanwha Vision
+Hik Semi
 Hikvision
-Hikvision Semi
 IDEMIA
 IDS
 Kocom
-MAMI
 Mercusys
 Microsound
 Nemtek
-Netgear
 Nice
 Olarm
 Omada
 Optex
 Paradox
 Paxton
-Planet
-Powa-Prod
 Risco
 RLynk
 Roboguard
 Seagate
 Securi-Prod
 Sentry
-Sherlo
+Sherlotronics
 Skunk
 Smoke Screen
-SMS Alert
 Sola-Prod
 Takex
 TP-Link
-Utepo
 VIGI
 Virdi
-Wisnetworks
 Zartek
 ZKTeco
 Special Offers
@@ -312,11 +300,9 @@ RJ45 Wall Mount Box
 Routers
 VGA
 Wireless and Wi-Fi
-Power Supplies and Batteries chevron_right arrow_downward
-Alkaline Batteries
+Power Supplies and Batteries chevron_right Alkaline Batteries
 Battery Accessories
 Gel Batteries
-Inverter
 Lithium Batteries
 Power Supply
 Sealed Lead Acid Batteries
@@ -337,7 +323,6 @@ Enclosures
 Gate Motor Accessories
 Hardware and Accessories
 HDMI
-Junction Boxes
 Security Cables
 Solar chevron_right Accessories
 Connectors
@@ -359,60 +344,50 @@ Brands chevron_right arrow_downward
 Accentronix
 Ajax
 Armatura
-BPT
-Centurion
+Centurion Systems
 CISA
 Clearline
-Comb
+Comb Comunications
 Commax
-Crow
 Dewalt
 Disrupter
 DMP
-Dorma
+Dormakaba
 Dortech
 Elock
 EZVIZ
 Fluss
 Gemini
 Genata
-Guard Track
 Hanwha Vision
+Hik Semi
 Hikvision
-Hikvision Semi
 IDEMIA
 IDS
 Kocom
-MAMI
 Mercusys
 Microsound
 Nemtek
-Netgear
 Nice
 Olarm
 Omada
 Optex
 Paradox
 Paxton
-Planet
-Powa-Prod
 Risco
 RLynk
 Roboguard
 Seagate
 Securi-Prod
 Sentry
-Sherlo
+Sherlotronics
 Skunk
 Smoke Screen
-SMS Alert
 Sola-Prod
 Takex
 TP-Link
-Utepo
 VIGI
 Virdi
-Wisnetworks
 Zartek
 ZKTeco
 Special Offers
@@ -574,4 +549,14 @@ REGAL GQEBERHA (PORT ELIZABETH)
 REGAL MBOMBELA (NELSPRUIT)
 REGAL NORTHGATE (CAPE TOWN)
 REGAL PIETERMARITZBURG
-REGAL PIN
+REGAL PINETOWN
+REGAL POLOKWANE
+REGAL EXPORTS
+REGAL OTTERY
+REGAL SOMERSET WEST
+REGAL RUSTENBURG
+Submit
+Preferred Branch
+close
+Would you like to change your preferred branch?
+Sel

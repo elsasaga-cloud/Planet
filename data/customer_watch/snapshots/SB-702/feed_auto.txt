@@ -1,4 +1,4 @@
-# SB-702 ctsystem.com · feed_auto · https://www.ctsystem.com/en/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-702 ctsystem.com · feed_auto · https://www.ctsystem.com/en/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Tue, 14 Apr 2026 06:14:46 +0000	Meet CTS at Computex 2026	https://www.ctsystem.com/en/news/meet-cts-at-computex-2026/
 Tue, 06 Jan 2026 01:27:00 +0000	CTS Taiwan Office: Closed for Lunar New Year	https://www.ctsystem.com/en/news/company-news/cts-taiwan-office-closed-for-lunar-new-year-2/
 Sat, 20 Dec 2025 01:36:00 +0000	CTS Monthly NEWS – December 2025	https://www.ctsystem.com/en/news/company-news/cts-monthly-news-december-2025/

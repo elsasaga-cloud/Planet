@@ -1,4 +1,4 @@
-# SB-1125 globall.ca · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCWYT9ajkP-f4GEW5v1rtSuw · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1125 globall.ca · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCWYT9ajkP-f4GEW5v1rtSuw · fetched 2026-11-03T09:43:52Z · HTTP 200
 2022-12-15T14:58:12+00:00	Le centre d'appel Yeastar par Arnaud	https://www.youtube.com/watch?v=fv3m-FVTh_g
 2022-12-15T14:50:51+00:00	Special Call Center by Yeastar with Arnaud	https://www.youtube.com/watch?v=y0iWuxe5Fqo
 2022-11-07T17:32:12+00:00	M sight pro: l'application de caméra de surveillance de Milesight par Arnaud	https://www.youtube.com/watch?v=ivxRDQ5K9f8

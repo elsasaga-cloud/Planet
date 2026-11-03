@@ -1,4 +1,4 @@
-# SB-1010 bayiden.com.tr · news_1 · https://www.bayiden.com.tr/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1010 bayiden.com.tr · news_1 · https://www.bayiden.com.tr/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 - Bayiden - Teknolojinin Bayisi
 Yapay Zeka ile Ara
 Sohbet ederek hızlı ve kolay ürün ara
@@ -28,7 +28,7 @@ Sipariş Takibi
 İletişim
 S.S.S.
 0850 441 1 352
-[email protected]
+info@bayiden.com.tr
 Sipariş Takibi
 Favorilerim
 Üye Paneli
@@ -209,4 +209,4 @@ Bloglar
 Bayiden.com.tr Blog
 20.07.2026 · 6 dk okuma Güvenlik Sistemleri
 Güvenlik Kamerası Sistemleri Rehberi: AHD, IP, Analog Karşılaştırması (2026)
-Güvenlik Kamerası Sistemleri Rehberi: Evinize ve İş Yerinize Doğru Sistemi Nasıl Seçersiniz? Güvenlik kamerası sistemi kurmak artık l
+Güvenlik Kamerası Sistemleri Rehberi: Evinize ve İş Yerinize Doğru Sistemi Nasıl Seçersiniz? Güvenlik kamerası sistemi kurmak artık

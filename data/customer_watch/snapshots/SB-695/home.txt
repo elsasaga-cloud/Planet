@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,24 +429,6 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-LRS-450 Fonte CA/CC 450 Watts Alta Eficiência MeanWell
-A partir de
-R$ 520,82
-R$
-505 , 20
-à vista
-com desconto Pix - Vindi
-Ver opções
--50%
-Fonte de Alimentação Chaveada Industrial para Trilho DIN 24W, 12V - LRI-PS2412
-R$ 165,00
-R$ 82,50
-R$
-80 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
 LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
 R$ 549,00
 R$
@@ -455,31 +437,65 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Switch Ethernet Industrial Gerenciável Rack 19" 24 Portas Gigabit RJ45 + 4 Portas Combo - LRI-SW-24G4CS1C-RM
-R$ 5.400,00
+LRI-SW-8G2SWM - Switch Ethernet Industrial Web Gerenciável 8 Portas Gigabit + 2 Portas SFP
+R$ 958,20
 R$
-5.238 , 00
+929 , 45
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
+R$ 499,00
+R$
+484 , 03
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+-50%
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 24V - LRI-PS6524
+R$ 255,00
+R$ 127,50
+R$
+123 , 68
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
-Módulo de Controle de Relé Remoto TCW122B-RR
-Sob consulta
-Saiba mais
-Pedir cotação
-Módulo IO Universal 4G LTE TCG140-4
-Sob consulta
-Saiba mais
-Pedir cotação
-MODBUS CO2 e Sensor de Pressão TSM400-4-CP
-Sob consulta
-Saiba mais
-Pedir cotação
-Detector de Vazamento de Água com Saída Digital TSF400-0
-Sob consulta
-Saiba mais
-Pedir cotação
+Módulo Termopar de 2 Canais com Interface Modbus RTU TST320
+R$ 1.321,66
+R$
+1.282 , 01
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
+R$ 990,00
+R$
+960 , 30
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
+R$ 499,00
+R$
+484 , 03
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Módulo S0 Contador de Pulsos com Interface Modbus RTU TDI340
+R$ 1.080,91
+R$
+1.048 , 48
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Depoimentos
 Nome: Djalma Filho
 Avaliação: Positivo
@@ -542,5 +558,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.992 secs - 02-11-2026  - node: commerce-web1-bot-lw - store
+Load time: 0.794 secs - 03-11-2026  - node: commerce-web4-bot-lw - store
 ×

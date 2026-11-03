@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://powerbizt.hu/termekek/2044
 	https://powerbizt.hu/termekek/2052f
 	https://powerbizt.hu/termekek/2052m
@@ -67,14 +67,9 @@
 	https://powerbizt.hu/termekek/vga-toldo-10m
 	https://powerbizt.hu/termekek/vgatoldo-1-8m
 	https://powerbizt.hu/termekek/zyxel-xgs2220-30-eu0101f
-	https://powerbizt.hu/termekek/zyxel-xgs2220-54hp-eu0101f
 	https://powerbizt.hu/termekek/zyxel-xgs1935-28hp-eu0101f
 	https://powerbizt.hu/termekek/zyxel-xgs1935-52hp-eu0101f
 	https://powerbizt.hu/termekek/zyxel-xgs2210-52-eu0101f
-	https://powerbizt.hu/termekek/zyxel-xgs2220-30hp-eu0101f
-	https://powerbizt.hu/termekek/zyxel-xgs2220-54-eu0101f
-	https://powerbizt.hu/termekek/zyxel-xgs2220-54fp-eu0101f
-	https://powerbizt.hu/termekek/zyxel-xmg-105-zz0101f
 	https://powerbizt.hu/termekek/ac125-01
 	https://powerbizt.hu/termekek/ac126-01
 	https://powerbizt.hu/termekek/ac127-01
@@ -333,4 +328,11 @@
 	https://powerbizt.hu/termekek/9880np
 	https://powerbizt.hu/termekek/989021
 	https://powerbizt.hu/termekek/98934-m8-anya-250db-1-1
-	https://powerbizt.hu/termekek/9
+	https://powerbizt.hu/termekek/98df-100db
+	https://powerbizt.hu/termekek/916-dft2-100db
+	https://powerbizt.hu/termekek/98-dft2-100db
+	https://powerbizt.hu/termekek/apolo-98-f-100-db
+	https://powerbizt.hu/termekek/ap98fx
+	https://powerbizt.hu/termekek/apolo-98-fxsz-50-db
+	https://powerbizt.hu/termekek/98l-100-db
+	h

@@ -1,4 +1,5 @@
-# SB-015 suministros-industriales.es · feed_auto · https://suministros-industriales.es/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-015 suministros-industriales.es · feed_auto · https://suministros-industriales.es/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Mon, 02 Nov 2026 09:44:51 +0000	Actuadores eléctricos: 5 errores habituales al elegirlos para una instalación industrial	https://suministros-industriales.es/actuadores-electricos-5-errores-habituales-al-elegirlos/
 Mon, 19 Oct 2026 09:40:00 +0000	¿Se calienta demasiado tu cuadro eléctrico? Cómo prevenir fallos en la automatización industrial	https://suministros-industriales.es/se-calienta-demasiado-tu-cuadro-electrico/
 Mon, 05 Oct 2026 09:37:00 +0000	¿Por qué se para una máquina industrial? 6 componentes que conviene revisar antes de una avería	https://suministros-industriales.es/por-que-se-para-una-maquina-industrial/
 Tue, 29 Sep 2026 10:27:00 +0000	¿Cómo elegir un actuador eléctrico industrial? Claves para acertar según la aplicación	https://suministros-industriales.es/como-elegir-un-actuador-electrico-industrial/
@@ -8,4 +9,3 @@ Mon, 03 Aug 2026 05:52:47 +0000	¿Cómo llevar energía y datos a una máquina e
 Mon, 13 Jul 2026 10:49:32 +0000	Automatización en la industria del packaging: eficiencia, velocidad y máxima precisión en cada proceso	https://suministros-industriales.es/automatizacion-en-la-industria-del-packaging/
 Fri, 03 Jul 2026 10:48:51 +0000	Automatización para el sector de la automoción: eficiencia, precisión y máxima productividad	https://suministros-industriales.es/automatizacion-para-el-sector-de-la-automocion/
 Mon, 29 Jun 2026 12:23:00 +0000	Asesoría técnica en automatización y condúctica	https://suministros-industriales.es/asesoria-tecnica-en-automatizacion-y-conductica/
-Tue, 02 Jun 2026 11:57:00 +0000	Aires acondicionados industriales: protege tus cuadros eléctricos y garantiza la continuidad de tu producción	https://suministros-industriales.es/aires-acondicionados-industriales/

@@ -1,4 +1,4 @@
-# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
 
 Menu
@@ -363,10 +363,10 @@ SERVICES
 BRAND PRICELISTS
 Download OFFICIAL PRICELISTS of our brands!
 PROMO SETIK
-DAHUA CLEARANCE SALE
-LAST FEW ITEMS - WHILE STOCKS LAST
-NEW, ORIGINAL, FULLY FUNCTIONAL Dahua products... ON A HUGE SALE!
-...
+UPS READY FOR DELIVERY GIVE AWAY...
+FREE SHIPPING!
+Choose a UPS in stock and we will pay for shipping!
+Continuity of service for your systems, ze...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -425,7 +425,7 @@ Pieces
 VIEW PRICE
 €541.68
 
-IN STOCK: 19
+IN STOCK: 18
 Pieces
 *}
 ES210GMP - TP-Link Omada ES210GMP Switch with 10 Gigabit Ports with 8 PoE+ ports - Easy Managed
@@ -441,7 +441,7 @@ HYU-261 Hyundai Outdoor PTZ IP Bullet Camera. 1 / 2.8 "CMOS sensor, 4 MP resolut
 VIEW PRICE
 €708.04
 
-IN STOCK: 60
+IN STOCK: 57
 Pieces
 *}
 IN PROMOTION
@@ -455,7 +455,7 @@ VIEW PRICE
 €352.09
 -35%
 
-IN STOCK: 5
+IN STOCK: 3
 Pieces
 *}
 -57%
@@ -488,10 +488,10 @@ Soluzioni per casa, uffici, negozi, aziende e grandi infrastrutture
 Spedizioni rapide in tutta Europa e catalogo multilingua
 Popular Brands
 PROMO SETIK
-UPS READY FOR DELIVERY GIVE AWAY...
-FREE SHIPPING!
-Choose a UPS in stock and we will pay for shipping!
-Continuity of service for your systems, ze...
+DAHUA | PROMOTIONS
+DAHUA SDT SERIES | EXTRA 10% AND QUANTITY DISCOUNTS
+CODE: DAHUA-EXTRA-10
+...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -533,4 +533,4 @@ Compare Now ( 0 )‎
 Some text in the modal.
 Chiudi
 Aggiunta al Carrello
-This site uses cookies. By continuing to browse the 
+This site uses cookies. By continuing to browse the site you are agreeing to our u

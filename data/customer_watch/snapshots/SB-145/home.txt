@@ -1,4 +1,4 @@
-# SB-145 digicomm.de · home · https://www.addsecure.de/kritische-infrastrukturen/?digicomm · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-145 digicomm.de · home · https://www.addsecure.de/kritische-infrastrukturen/?digicomm · fetched 2026-11-03T09:43:52Z · HTTP 200
 Kritische Infrastrukturen - Germany
 Skip to content
 Weitere Infos +4921596937535
@@ -118,8 +118,8 @@ Login
 Kritische Infrastrukturen
 Mit einer fast 40jährigen Expertise von Übertragungstechniken in den kritischen Infrastrukturen in der DACH-Region sind wir der Ansprechpartner für Lösungen zur sicheren Daten-Kommunikation in den Bereichen Energieversorgung, Verkehr, Städte und Gemeinden, Industrie und Automation.
 Vertrieb kontaktieren
-AddSecure Workshop – Advanced Security SHDTU am 22. bis 23. September 2026 in Mönchengladbach
-Vertiefen Sie Ihr Wissen rund um SHDSL, VLAN, VPN und Security in einem zweitägigen Praxisworkshop. Am 22.–23. September 2026 im Borussia-Park Mönchengladbach erwarten Sie Hands-on-Übungen und intensiver Fachaustausch – die Teilnehmerzahl ist auf 30 Personen begrenzt.
+AddSecure auf der PMRExpo vom 24. bis 26. November 2026 in Köln
+Sichere Kommunikation ist entscheidend, besonders dann, wenn es darauf ankommt. Vom 24. bis 26. November 2026 finden Sie AddSecure auf der PMRExpo in Köln. Besuchen Sie uns in Halle 08.1 am Stand F052 und erfahren Sie, wie unsere Lösungen Unternehmen und Organisationen bei sicherer Kommunikation, zuverlässiger Alarmierung und dem Schutz von Mitarbeitenden unterstützen.
 Mehr erfahren
 Unsere Lösungen für Ihre sichere Datenkommunikation​
 Sie suchen sichere Kommunikationslösungen für Ihr Unternehmen oder kritische Infrastrukturen, inklusive strukturiertem Management? Kontaktieren Sie uns – wir kümmern uns um Ihre individuelle Lösung.
@@ -191,7 +191,7 @@ Cookie-Zustimmung verwalten
 Wir verwenden Cookies
 Unsere Website verwendet Cookies, die für den Betrieb der Website und die Bereitstellung der von Ihnen angeforderten Dienste erforderlich sind. Wir möchten auch die folgenden optionalen Cookies auf Ihrem Gerät platzieren. Für weitere Informationen lesen Sie bitte unsere Cookie-Richtlinie. Cookie Policy
 Functional
-Always active
+Immer aktiv
 Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.
 Preferences
 The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
@@ -200,10 +200,10 @@ The technical storage or access that is used exclusively for statistical purpose
 Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
 Marketing
 Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
-Manage options
-Manage services
-Manage {vendor_count} vendors
-Read more about these purposes
+Optionen verwalten
+Dienste verwalten
+Verwalten von {vendor_count}-Lieferanten
+Lese mehr über diese Zwecke
 Alle akzeptieren
 Ablehnen
 Einstellungen

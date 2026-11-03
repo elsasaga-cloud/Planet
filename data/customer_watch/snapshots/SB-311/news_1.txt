@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-03T09:43:52Z · HTTP 200
 Obchod, Nové produkty
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -507,6 +507,47 @@ Napište nám!
 2
 »
 Všechny
+Náhled
+Monitor Hikvision DS-D5022F2-1P2 (21,45", 16:7, IPS, FHD, HDMI, VGA, audio)
+DS-D5022F2-1P2 je monitor značky Hikvision, určený pro provoz v systémech CCTV v nepřetržitém režimu 16/7.
+• Typ panelu: IPS s podsvícením E-LED
+• Rozlišení: Full HD (1920 x 1080)
+• Technologie s nízkým vyzařováním modrého světla
+• Úhlopříčka: 21,45"
+• Doba odezvy: 6,5 ms
+• Kontrast: 1000:1
+• Jas: 250 cd/m²
+• Úhly pohledu (horizontální/vertikální): 178° / 178°
+• Vstupy: 1 x HDMI, 1 x VGA
+• Velmi tenké tělo včetně rámečku
+• Montáž: stojan nebo standard VESA (75 x 75 mm)
+Kód: M29119
+4983,66 Kč
+4118,73 Kč bez DPH
+5245,96 Kč
+Předchozí nejnižší cena: 5245,96 Kč
+od 0,00 Kč
+Dočasně nedostupné
+Náhled
+Hikvision DS-7608NI-Q1(E) IP NVR (8 channels, 80 Mb/s, 1 x SATA, VGA, HDMI, H.265)
+Hikvision DS-7608NI-Q1(E) je moderní 8kanálový IP videorekordér, který umožňuje záznam obrazu z IP kamer s rozlišením až 8 Mpix.
+• Nahrávání v rozlišení až 8 Mpix
+• Paralelní výstupy HDMI / VGA
+• Maximální vstupní / výstupní šířka pásma – 80 / 80 Mb/s
+• Podpora až 8 IP kamer Hikvision nebo jiných výrobců prostřednictvím protokolu ONVIF
+• Podpora 1 disku SATA s kapacitou až 8 TB
+• Podpora kamer s integrovanou analýzou VCA (virtuální čára, detekce narušení atd.)
+• Podpora kamer s funkcí detekce pohybu 2.0 na všech kanálech
+• Funkce detekce pohybu 2.0 s analýzou „člověk/vozidlo“
+• Podpora komprese H.265 (+) / H.264 (+)
+• Aplikace pro počítač iVMS-4200 a pro chytré telefony Hik-Connect (Android, iOS)
+Kód: K22055
+6019,71 Kč
+4974,97 Kč bez DPH
+6142,57 Kč
+Předchozí nejnižší cena: 6142,57 Kč
+od 0,00 Kč
+Dočasně nedostupné
 Do košíku
 Náhled
 Držák se sloupovým adaptérem pro kompaktní a stropní kamery Dahua PFA152-E-B
@@ -566,51 +607,4 @@ Kamera WizColor zaznamenává barevný obraz 24 hodin denně, 7 dní v týdnu, n
 • Inteligentní události: detekce překročení čáry a pohybu v zóně (vstup a výstup) s filtrováním osob/vozidel
 • Vestavěný mikrofon
 Kód: Q0658
-9070,55 Kč
-7496,32 Kč bez DPH
-14172,73 Kč
-Předchozí nejnižší cena: 8078,46 Kč
-od 0,00 Kč
-Dostupný
-Do košíku
-Náhled
-Otočná PTZ IP kamera Dahua SD3D416NB-GNY (4 Mpix, 5–80 mm, optický zoom: 16x, IR 80 m, PoE)
-4 Mpix otočná IP kamera s inteligentními funkcemi: SMD 3.0, perimetrie. Optický zoom: 16x.
-• Rozlišení 4 MPix
-• Technologie Starlight – vysoká citlivost 0,005 lx
-• Objektiv s motorickým zoomem 5–80 mm, 16× optický zoom
-• Stabilizace obrazu EIS
-• Infračervený osvětlovač s dosahem až 80 m
-• Funkce zpracování obrazu: AWB, ATW, BLC, HLC, 2D/3D NR, WDR, defog
-• Inteligentní detekce pohybu SMD3.0 (Smart Motion Detection 3.0)
-• Inteligentní události: detekce překročení čáry a pohybu v zóně (vstup a výstup), klasifikace objektu (člověk/vozidlo)
-• Odolné pouzdro s krytím IP66
-• Možnost nahrávání na microSD kartu s kapacitou až 256 GB
-• Napájení DC 12 V nebo PoE+ (802.3at)
-Kód: Q1755
-12055,47 Kč
-9963,20 Kč bez DPH
-18836,68 Kč
-Předchozí nejnižší cena: 10736,91 Kč
-od 0,00 Kč
-Dostupný
-Do košíku
-Náhled
-Kamera IP kopułowa Hikvision DS-2CD2146G3-IPTRZS2UY (4 MPix, 2,8/4 mm, 0,001 lx, IR do 30 m, Audio, AcuSense 3.0, PTRZ)
-Kód: K00919
-12571,26 Kč
-10389,47 Kč bez DPH
-12827,82 Kč
-Předchozí nejnižší cena: 11648,07 Kč
-od 0,00 Kč
-Dostupný
-Do košíku
-Náhled
-Hikvision DS-2CD2T87G3P-LIS2UY/SL (180°) ColorVu IP panoramic tube camera (8 Mpix, 2.8 mm, 0.0005 lx, hybrid illumination up to 40 m)
-Kód: K03938
-23768,03 Kč
-19643,00 Kč bez DPH
-od 0,00 Kč
-Dostupný
-Náhled
-Hikvision DS-2CD1F47G3H-LIUF/SX PT pan-tilt IP camera (4 Mpix, 2.8 mm, hybrid illumination up to 30 m, Auto Tracking, ColorVu, Au
+

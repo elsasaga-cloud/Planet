@@ -1,4 +1,4 @@
-# SB-773 microseven.com · home · http://www.microseven.com/index.html · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-773 microseven.com · home · http://www.microseven.com/index.html · fetched 2026-11-03T09:43:52Z · HTTP 200
 microseven wi-fi and wired poe security camera
 LIVE CAM
 STORE
@@ -83,7 +83,6 @@ M7B4K-WPSAA-H
 SHOP NOW
 $199.99 $229.99
 Save: $30.00 (13.04%)
-Out Of Stock
 M7D4K-PTZH14X-WPSAA
 Microseven M7D4K-PTZH14X-WPSAA | 4K (8MP) PTZ Security Dome Camera, 30 FPS | PoE + Dual-Band Wi-Fi | 14× Optical Zoom | Active Deterrence, Outdoor-Rated
 SHOP NOW
@@ -184,7 +183,7 @@ Profile
 Change Password
 Apps
 Patents: US9774767, US9712733, US9510034, US9124946
-Stream views: 13,038,853
+Stream views: 13,038,963
 Microseven® is a registered brand of Microseven Systems LLC.
 © 2026 Microseven Systems LLC. All rights reserved.
 home security, professional poe camera, IP camera, Cloud, live, streaming, hls, wi-fi camera, security Camera

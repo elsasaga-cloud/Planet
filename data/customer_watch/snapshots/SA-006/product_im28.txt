@@ -1,4 +1,4 @@
-# SA-006 Vi-Link / Vilink Communications（加州 Irvine，交通/工业光纤设备） · product_im28 · https://vilink.us/product/im28/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SA-006 Vi-Link / Vilink Communications（加州 Irvine，交通/工业光纤设备） · product_im28 · https://vilink.us/product/im28/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 IM28 -
 Skip to content
 About Vi-Link
@@ -60,14 +60,14 @@ Add to cart
 IM14
 $ 295.00
 Add to cart
-40G4-AOC-1M
-$ 195.00
+10G-AOC-1M
+$ 45.00
 Add to cart
-EN48
-$ 385.00
+100G-DAC-1M
+$ 125.00
 Add to cart
-EN24
-$ 275.00
+EN12
+$ 235.00
 Add to cart
 Our company
 About Vi-Link

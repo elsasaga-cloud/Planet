@@ -1,4 +1,4 @@
-# SC-783 expressalarm.cz · home · https://www.expressalarm.cz/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-783 expressalarm.cz · home · https://www.expressalarm.cz/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Express Alarm - Velkoobchod - autorizovaný distributor Hikvision | Kamery Hikvision | Express Alarm
 Toggle navigation
 0
@@ -619,20 +619,6 @@ AX HYBRID PRO
 Detektory |
 Sirény |
 Extendery + příslušenství
-SPECTRA + MAGELLAN + Hybridní ústředny
-MAGELLAN MG |
-SPECTRA SP |
-Hybridní ústředny |
-Klávesnice SP+MG |
-Moduly SP+MG |
-další...
-EVO ústředny
-Ústředny EVO |
-Klávesnice EVO |
-BUS detektory EVO |
-Moduly EVO |
-Bezdrát pro EVO |
-další...
 ELDES ústředny
 Ústředny |
 Klávesnice |
@@ -752,22 +738,38 @@ Prostorové detektory
 Magnetické detektory
 Sirény
 Extendery + příslušenství
-SPECTRA + MAGELLAN + Hybridní ústředny
-MAGELLAN MG
-SPECTRA SP
-Hybridní ústředny
-Klávesnice SP+MG
-Moduly SP+MG
-Bezdrát pro SP+MG
-Klíčenky bezdrátové
-Zvýhodněné sety SP
-EVO ústředny
-Ústředny EVO
-Klávesnice EVO
-BUS detektory EVO
-Moduly EVO
-Bezdrát pro EVO
-Acces pro EVO
-SW+BOXY
 ELDES ústředny
-Ú
+Ústředny
+Klávesnice
+GSM+LAN moduly
+Příslušenství
+Bezdrát. příslušenství
+Infrapasivní detektory
+Vnitřní PIR
+Quad
+Stropní
+Dlouhý dosah
+Venkovní + Speciální
+Příslušenství
+Duální detektory
+Vnitřní PIR+MW
+Vnitřní PIR+GB
+Venkovní PIR+MW
+Příslušenství
+Infrazávory
+DUAL
+TRIPLE
+QUAD
+Vícepaprskové zástěny
+Příslušenství
+Radary
+Akustické detektory
+Termální detektory přítomnosti
+Otřesové detektory
+Tísňové hlásiče + PANIK
+Požární a speciální detektory
+Magnetické kontakty
+Povrchové
+Povrchové polarizované
+Závrtné
+Závrtné 

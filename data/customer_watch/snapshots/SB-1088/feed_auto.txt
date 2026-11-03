@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · feed_auto · https://tipteh.com/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1088 tipteh.com · feed_auto · https://tipteh.com/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Fri, 30 Oct 2026 06:48:54 +0000	Turck MARGEE Programmable Block I/O Modules	https://tipteh.com/plc-controllers/i-o-modules-for-industrial-field-buses/turck-margee-programmable-block-io-modules/
 Wed, 21 Oct 2026 08:59:59 +0000	XDR-E DIN Rail Power Supplies MEAN WELL	https://tipteh.com/other-automation-devices/power-supplies/xdr-e-din-rail-power-supplies-mean-well/
 Fri, 16 Oct 2026 06:06:25 +0000	Basler 10GigE Cameras and Components for High-Speed Machine Vision	https://tipteh.com/machine-vision/industrial-cameras/basler-10gige-cameras-rdma/

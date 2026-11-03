@@ -1,5 +1,5 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
-Home | Broadstar
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Bulk Fiber Internet, TV and Phone for Florida Communities | Broadstar
 Skip to content
 Menu
 Close
@@ -20,7 +20,6 @@ BroadStreamTV
 Phone
 Communities
 Reviews
-Resources
 About Us
 Contact
 Search for:
@@ -42,7 +41,6 @@ BroadStreamTV
 Phone
 Communities
 Reviews
-Resources
 About Us
 Contact
 Get a Proposal
@@ -186,7 +184,6 @@ Please enable JavaScript in your browser to complete this form.
 Your Name * First
 Last
 Email *
-know? Your Date
 Phone *
 Community or Property Name *
 Your Role * Board President
@@ -208,6 +205,7 @@ Services of Interest Internet
 BroadStreamTV
 Phone
 Current Provider and Contract End Date (if known)
+Property Provider Property
 Anything else we should know?
 Request My Proposal
 Prefer to talk? Call (877) 207-4188 or email sales@broadstar.com
@@ -225,7 +223,6 @@ Services
 Reviews
 About
 Contact
-CAM CE
 Residents:
 Find Your Community
 Pay Your Bill

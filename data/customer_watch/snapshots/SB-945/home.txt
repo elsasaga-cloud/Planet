@@ -1,103 +1,89 @@
-# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-02T09:40:28Z · HTTP 200
-Grep Tech | AI Vision, Industrial IoT & Business Solutions
-Search for: Search Button
-+65 6340 1030
-[email protected]
-0 Items
+# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Grep Tech | AI Vision, Industrial IoT & Business Solutions Singapore-developed technology for practical operations +65 6340 1030 · [email protected]
+AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol
+Deploy and partner Incident Management Deployment Architecture Partner Program FAQ
+SMS & APIs ⌄ SMS platforms SMS Gateway GT Notify System HTTP SMS API SMS Webhook SMS OTP API
+Automation & help SMS to Email Email to SMS SNMP Trap to SMS Subscriber API SMS FAQ
+Industrial IoT ⌄ Connectivity Cellular Routers Industrial Modems Cellular RTU IoT Gateways
+Edge and field Remote I/O Modules NVIDIA Edge PCs All products
+Custom Software ⌄ Custom development Custom Software Overview
+Case studies Equipment Leasing Operations Multi-company HR System Service Operations ERP
+About & Resources ⌄ Company Profile Articles Downloads Contact
+Talk to us Menu ☰ AI Vision Live Monitoring Virtual Patrol SMS & APIs GT Notify System HTTP SMS API SMS FAQ Industrial IoT Custom Software Equipment Leasing Case Study Multi-company HR Case Study Service Operations Case Study About & Resources Articles Downloads Contact Talk to us
+Technology that works in the real world
+See more. Connect everything. Operate smarter.
+AI-powered video monitoring, Industrial IoT and customised business systems—designed and supported in Singapore since 2012.
+Discuss your project Explore capabilities
+2012 Established 3 Technology practices ASEAN Partner-ready
 GT-AiVision
-Overview
-Partners
-Live Monitoring
-Face
-Behavior
-Virtual Patrol
-Incident Management
-Deployment
-FAQ
-Products
-SMS Gateway
-HTTP SMS API
-SMS to Email
-Email to SMS
-SMS Web Hook
-SNMP Trap to SMS
-API for SMS OTP
-API for Subscriber
-GPS Tracker
-4G GPS Tracker
-Wired 4G GPS Tracker for Vehicles
-Industry Modem
-Cellular RTU
-Nvidia Industry PC
-Solutions
-Overview
-Equipment Leasing ERP
-Multi-Company HRMS
-GT Notify
-GT Notify System
-Why GT Notify?
-SMS Auto Responder
-SMS Lucky Draw
-SMS Instant Win
-SMS Auto Reminder
-SMS Auto Follow Up
-F-A-Q
-Rental Promotion
-Water Filter Service ERP
-Blog
-About
-Company
-Support
-Resource
-Contact
-Shop
-Select Page
-AI Vision, Industrial IoT & Business Solutions
-Helping businesses automate operations with AI-powered monitoring, Industrial IoT and customised software solutions since 2012. About Us Contact Us
-3
+Entrance · Normal
+Zone 4 · Event
+Loading Bay · Normal
+Perimeter · Normal
+Live edge processing 24 channels
+One technology partner
+From field device to operational decision
+We combine hardware, software and AI expertise so projects move faster and integrations stay supportable.
+◎ Intelligent monitoring
 AI Vision
-AI-powered monitoring and intelligent video analytics.
-Industry IoT
-Modems, RTUs, sensors and edge computing devices.
-Business Solutions
-Customised software for organisations and enterprises.
-WHY BUSINESSES CHOOSE GREP TECH
-🏢 A Complete Technology Partner
-From Industrial IoT devices and AI-powered video analytics to custom software development, we deliver complete solutions tailored to your operational needs.
-⭐ Why Customers Choose Grep Tech
-Unlike traditional IT providers, Grep Tech combines hardware, software and AI expertise under one team, enabling faster deployment, seamless integration and long-term support.
-Our Core Expertise
-
-AI Vision Solutions
-AI-powered video analytics for security, safety and operational monitoring. Detect events, automate alerts and gain real-time insights from existing CCTV systems.
-
+Turn existing CCTV into proactive event detection, scheduled virtual patrol and documented incident response.
+Explore GT-AiVision → ⌁ Connected operations
 Industrial IoT
-Connect sensors, RTUs, modems and field devices for remote monitoring, automation and instant notifications across industrial and commercial environments.
-
-Custom Software
-Tailor-made CRM, ERP and workflow solutions designed around your business processes, helping teams improve productivity and operational efficiency.
-
-Local Support
-Singapore-based team providing consultation, deployment, training and long-term technical support for every solution we deliver.
-ABOUT US
-Company Profile
-Cambodia Office
-Grep Tech Global
-Join Us
-OUR SERVICE
-Singapore Classifieds
-Data Recovery Cambodia
-GPS Tracker Cambodia
-GPS Tracker Malaysia
-PRODUCTS
-Cloud SMS System
-SMS Gateway
-Service Booking System
-会馆管理系统
-ONLINE STORE
-Online Store
-Refund Policy
-Terms and Conditions
-Privacy Policy
-Shipping Destinations
-Copyright © GREP TECH PTE LTD
+Connect modems, RTUs, sensors, gateways and edge computers for reliable remote monitoring and automation.
+Browse IoT products → ▦ Built around your workflow
+Business Solutions
+Tailor-made ERP, HRMS, notification and workflow systems that fit how your teams actually operate.
+View business solutions →
+Restricted zone Verified ·
+GT-AiVision
+Give every camera a clearer job.
+Add real-time detection and scheduled AI inspections to compatible camera environments without replacing the entire CCTV estate.
+Edge AI detection for critical cameras and zones
+Scheduled Virtual Patrol across wider camera estates
+Incident assignment, evidence and resolution history
+Partner enablement across Singapore and ASEAN
+Explore the platform
+Industrial technology
+Hardware for connected field operations
+View all products →
+Industrial Cellular Router R230 M2M Cellular Router
+The WLINK R230 is a professional 4G LTE router equipped with a high-quality module and a state-of-the-art CPU processor. Its versatile interfaces, including dual SIM slots, 100Mbps Ethernet, RS232/485 serial ports, and I/O ports, enable users to connect
+Industrial Cellular Router R200 Industrial-Grade 4G/3G VPN Router
+Designed for mission-critical applications in harsh environments, the WLink R200 4G LTE router delivers rugged reliability, secure cellular connectivity, and centralized management with dual LAN ports.
+Industrial Cellular Router R100 Industrial 4G Router
+R100 is a mobile broadband LTE router featuring a compact, robust, and space-efficient mechanical design. It is ideally suited for applications where space is a critical factor, such as in retail environments, kiosks, and telemetry systems.
+Nvidia Industry PC Nvidia-Jetson-Orin-AGX-EAC-70N
+NVIDIA® Jetson AGX Orin™ AI Box • Powered by NVIDIA® Jetson AGX Orin™ Module • Multiple I/O interface connections for data collection • Gigabit LAN, USB 3.2, Series Ports, CAN-FD, HDMI • Wide range power input 9~36VDC
+Why Grep Tech
+Practical engineering, one accountable team.
+We stay close to deployment realities—camera compatibility, network conditions, field hardware and the workflows people use every day.
+01 Integrated capability
+Hardware, software and AI expertise under one roof.
+02 Local support
+Singapore-based solution guidance and technical escalation.
+03 Built to adapt
+Solutions shaped around operational requirements—not generic packages.
+Latest thinking
+Ideas for smarter operations
+All resources →
+Jul 2025
+How AI is Revolutionizing Traditional CCTV Surveillance
+For decades, CCTV systems have played a critical role in security—but they’ve largely remained passive. Cameras record 24/7, but unless someone is watching or reviewing footage, important events often go unnoticed. Traditional systems are reactive, not proactive. But that’s changing fast. Artificial Intelligence (AI) is transforming the landscape of video surveillance, making CCTV systems smarter, […]
+Jul 2025
+Why We’re All-In on AI, Edge Computing, and Video Analysis
+In recent years, we’ve witnessed a surge in artificial intelligence (AI) across nearly every industry—from chatbots to self-driving cars. It’s not just a trend. It’s a paradigm shift. And here at Grep Tech, we believe that companies who don’t embrace this AI revolution now will be left far, far behind. This is why we’re building […]
+Jul 2025
+Tripwire vs Motion Detection: Which is Better for Smart Video Surveillance?
+When it comes to automated alerts in CCTV systems, two commonly used technologies stand out: motion detection and tripwire detection. While both aim to detect movement, they serve very different purposes—and choosing the right one can significantly improve the effectiveness of your security operations. Let’s break down the key differences and how GT-AiVision leverages tripwire […]
+Start with the problem
+Tell us what needs to work better.
+We’ll help identify a practical combination of AI, connected hardware and software.
+Talk to Grep Tech
+AI Vision, Industrial IoT and business solutions engineered in Singapore.
+Explore AI Vision SMS Gateway Products Custom Software
+Company About Grep Tech Resources Contact
+Singapore 105 Sims Avenue
+#09-11 Chancerlodge Complex
+Singapore 387429
+[email protected]
+© 2026 Grep Tech Pte Ltd Privacy · Terms

@@ -1,4 +1,4 @@
-# SC-185 dasannetworks.com · sitemap · https://dasannetworks.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-185 dasannetworks.com · sitemap · https://dasannetworks.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://www.dasannetworks.com/
 	https://www.dasannetworks.com/index.php
 	https://www.dasannetworks.com/sub/sub01_01.php

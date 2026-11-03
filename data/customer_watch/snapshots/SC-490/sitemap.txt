@@ -1,4 +1,4 @@
-# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2025-11-26	https://www.hattelandtechnology.com/view_product/jh-17tap-std_accessory_118
 2025-11-26	https://www.hattelandtechnology.com/view_product/p006997-1_accessory_475
 2026-10-26	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-2ovy_monitor_574
@@ -11,10 +11,8 @@
 2023-06-29	https://www.hattelandtechnology.com/news/bureau-veritas-bv-approved-products
 2023-06-29	https://www.hattelandtechnology.com/news/new-main-phone-number
 2023-06-28	https://www.hattelandtechnology.com/news/embron-group-becomes-shareholder-in-sprinx-technologies
-2026-10-26	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-1ouy_monitor_572
 2026-03-24	https://www.hattelandtechnology.com/view_product/hd-24t27-mmd_monitor_564
 2020-04-29	https://www.hattelandtechnology.com/blog/dnv-certification
-2026-06-16	https://www.hattelandtechnology.com/products
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-24t21-mmc_panel-computer_422
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-17t21-mmd_monitor_213
 2024-07-03	https://www.hattelandtechnology.com/technology-solutions/software
@@ -25,6 +23,7 @@
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-ved-sx2_accessory_533
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-15c05-e50_crt-monitor_327
 2025-11-26	https://www.hattelandtechnology.com/view_product/jh-20tsv-std_accessory_134
+2026-11-02	https://www.hattelandtechnology.com/markets/marine-offshore
 2026-10-26	https://www.hattelandtechnology.com/view_product/hm-32t22-rmd-may-6ovy_monitor_254
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-p3bb1-msc_computer_339
 2024-08-23	https://www.hattelandtechnology.com/blog/what-is-color-calibration-for-ecdis
@@ -70,7 +69,6 @@
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-12t04-mmc-c_panel-computer_282
 2023-06-28	https://www.hattelandtechnology.com/news/display-of-innovation
 2026-03-24	https://www.hattelandtechnology.com/view_product/hd-24t26-mmc_panel-computer_527
-2026-10-30	https://www.hattelandtechnology.com/products/mil-qualified-accessories
 2023-06-29	https://www.hattelandtechnology.com/news/welcome-to-the-january-2009-edition-of-visions
 2023-06-28	https://www.hattelandtechnology.com/news/quality-control-department-expands-at-hatteland-display
 2026-03-24	https://www.hattelandtechnology.com/view_product/hd-55t22-mvd-l_monitor_239
@@ -105,6 +103,7 @@
 2025-11-14	https://www.hattelandtechnology.com/technology-solutions/display
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-403p4_computer_344
 2023-06-29	https://www.hattelandtechnology.com/news/welcome-to-the-september-edition-of-visions-1
+2026-11-02	https://www.hattelandtechnology.com/markets/defence/land
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-13t21-mmc_panel-computer_287
 2023-06-29	https://www.hattelandtechnology.com/news/visions-nor-shipping-edition-hard-copy-2011
 2024-06-25	https://www.hattelandtechnology.com/product_request_drawing
@@ -120,10 +119,10 @@
 2023-06-28	https://www.hattelandtechnology.com/news/hatteland-display-expands-its-range-of-products.-read-about-our-new-sizes
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-rak-std_accessory_556
 2026-04-09	https://www.hattelandtechnology.com/sustainability
-2026-10-26	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-1ovy_monitor_573
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-26t21-mmc_panel-computer_423
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-21c07-mdk_crt-monitor_337
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-18t04-mmd_monitor_363
+2026-11-03	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-1ouy_monitor_572
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-13t30-mmc_panel-computer_290
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-b04cm_computer_181
 2023-06-29	https://www.hattelandtechnology.com/news/visions-issue-5
@@ -132,4 +131,5 @@
 2023-06-28	https://www.hattelandtechnology.com/news/upgraded-erp-business-software-rambase
 2023-06-29	https://www.hattelandtechnology.com/news/small-panel-computers-for-marine-automation
 2025-11-26	https://www.hattelandtechnology.com/view_product/pca100294-1_factory-option_461
-2025-11-26	https://www.hattelandtechnology.com
+2025-11-26	https://www.hattelandtechnology.com/view_product/jh-vesa-10t06_accessory_159
+2025-11-26	https://www.hattelandtechnology.com/view

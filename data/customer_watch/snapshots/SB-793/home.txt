@@ -1,6 +1,6 @@
-# SB-793 worldstarsecuritycameras.com · home · https://worldstarsecuritycameras.com/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-793 worldstarsecuritycameras.com · home · https://worldstarsecuritycameras.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Wholesale Security Cameras & Installation | Worldstar
-Free Shipping on orders over $150.00, Lifetime Support & Software Upgrades Dismiss
+Free shipping on retail (MSRP) orders over $150. Lifetime Support & Software Upgrades Dismiss
 Skip to content
 Search …
 Call us: (954) 534-9485
@@ -135,7 +135,7 @@ Warranty and Returns
 Wholesale Security Camera Store​
 Wholesale security cameras & CCTV systems — Worldstar is your #1 source for IP cameras, coax, PTZ & more.
 Explore our diverse range of security cameras and video surveillance systems at dealer wholesale prices.
-Shop our camera store today. Free shipping on orders over $150. Lifetime support included.
+Shop our camera store today. Installers, distributors and resellers can apply for wholesale security cameras through the Worldstar dealer program. Free shipping on retail (MSRP) orders over $150. Dealer shipping quoted by your account rep. Lifetime support included.
 Shop Products
 Full Color Security Cameras
 Full-color security cameras capture vibrant video using advanced sensors and a large aperture for enhanced light intake. With three warm LEDs, they restore color details in low-light, making night footage clear as day. Ideal for residential and commercial security, they provide high-quality, detailed video for easy identification of people and objects.
@@ -230,5 +230,4 @@ Benefits of Access Control
 Access control systems can be customized to meet the unique needs of different industries and organizations, providing a flexible and scalable solution for access management. This is one of the key benefits of access control that makes it an essential tool for businesses today. With the increasing threat of cyberattacks and data breaches, access control systems provide enhanced security and protection against unauthorized access to sensitive areas or information.
 For example, a hospital may need to restrict access to certain areas such as operating rooms or patient records. An access control system can be customized to allow only authorized personnel with the necessary credentials to enter these areas. Similarly, a financial institution may require different levels of access for employees based on their roles and responsibilities. An access control system can be configured to grant appropriate levels of access based on job titles, departments, or other criteria.
 Access control systems can also help businesses comply with regulatory requirements and industry standards for data privacy and security. For instance, the Health Insurance Portability and Accountability Act (HIPAA) mandates strict guidelines for protecting patient health information. Access control systems can help healthcare providers ensure compliance by restricting access to electronic medical records (EMRs) only to authorized personnel.
-In addition, many industries have their own specific regulations that require strict controls over physical or digital assets. For example, the Payment Card Industry Data Security Standard (PCI DSS) requires merchants who accept credit card payments to implement strict controls over cardholder data. Access control systems can help merchants meet these requirements by limiting access to payment processing systems only to authorized individuals.
-Another benefit of access control systems is improved operational efficiency by streamlining access management processes and reducing the need for manu
+In addition, many industries have their own specific regulations that require strict controls over physical or digital assets. For example, the Payment Card Industry Data Security Standard (PCI DSS) requires merchants who accept credit card payments to implement strict controls over cardholder data. Access control systems can help merchants meet these requirements by limiting access to payment processing syst

@@ -1,4 +1,4 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
 2026-10-23	https://www.sisegusa.com/home

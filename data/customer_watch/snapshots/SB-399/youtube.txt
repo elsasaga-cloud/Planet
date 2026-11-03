@@ -1,4 +1,5 @@
-# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-11-03T09:43:52Z · HTTP 200
+2026-11-02T19:13:07+00:00	Installing a security camera without any power or cables running to a site?	https://www.youtube.com/shorts/kKEl8wmqcYM
 2026-10-30T12:45:31+00:00	Deploy Security to Sites Fast - Uniview SMB Smart Box	https://www.youtube.com/shorts/71tu4Lgz-Cs
 2026-10-29T13:00:37+00:00	Search Security Footage with Prompts - SeekFree Uniview	https://www.youtube.com/shorts/reooHnbuajo
 2026-10-08T13:11:26+00:00	How to Share Uniview cameras through the UniEase mobile app #tutorial #shorts #securitytech #unv	https://www.youtube.com/shorts/4sj-C0uafQQ
@@ -7,10 +8,9 @@
 2026-08-25T11:00:21+00:00	Univiews NVR has a new interface #security #securitycamera	https://www.youtube.com/shorts/IB65zHGoWzg
 2026-08-18T12:38:17+00:00	Ultra Long Range Surveillance | UNIVIEW | IPC6824ER-X42-W-VH2	https://www.youtube.com/watch?v=1_do6e5CU50
 2026-08-13T14:32:24+00:00	How to setup a Uniview NVR on the *New* User Interface (GUI)	https://www.youtube.com/watch?v=B544WFlzG0w
-2026-07-23T20:15:29+00:00	Uniview Cloud Update News	https://www.youtube.com/watch?v=pFJHKj3CiPI
-2026-07-17T14:36:45+00:00	Fixing Continuous Motion Alerts: How to Manage NVR Playback Event Highlights [Uniview Tutorial]	https://www.youtube.com/watch?v=4NJTJv9Y6Bc
+2026-07-23T20:15:29+00:00	Walkthrough of Uniview's EZCloud platform (remotely manage UNV systems)	https://www.youtube.com/watch?v=pFJHKj3CiPI
+2026-07-17T14:36:45+00:00	Fixing False Alerts: How to Manage NVR Playback Event Highlights [Uniview Tutorial]	https://www.youtube.com/watch?v=4NJTJv9Y6Bc
 2026-07-07T16:30:30+00:00	How to add new security cameras from different brands to your system. ONVIF Explained #cctv	https://www.youtube.com/shorts/IblruJvqJmw
 2026-07-01T10:45:10+00:00	Centralized VMS Upgrade for ONVIF cameras: Cloud-Based Face & Vehicle Tracking Explained	https://www.youtube.com/watch?v=Xh_gto7UvVI
 2026-06-25T12:42:19+00:00	Every Security Camera PoE Accessory you need to Make Installs Faster!	https://www.youtube.com/watch?v=_GvuEq9LSj0
 2026-06-23T19:51:33+00:00	How to Register a New Account for the UniEase Mobile App and View your Cameras	https://www.youtube.com/shorts/NQzaRyeGn6o
-2026-06-15T17:30:28+00:00	AI Cloud View User Guide: How to set up a new site and NVR from the Insight Portal | AICLUV	https://www.youtube.com/watch?v=zkAZVKskkiA

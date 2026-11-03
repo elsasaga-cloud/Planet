@@ -1,4 +1,4 @@
-# SB-037 pulsar.kz · sitemap · https://pulsar.kz/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-037 pulsar.kz · sitemap · https://pulsar.kz/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://pulsar.kz/
 	https://pulsar.kz/catalog/introskopy/
 	https://pulsar.kz/catalog/

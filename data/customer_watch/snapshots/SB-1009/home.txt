@@ -1,4 +1,4 @@
-# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -361,14 +361,20 @@ Next
 New
 favorite
 favorite_border
-Network equipment MikroTik LHGGM&EG18-EA LTE Antenna + Modem, CAT18 LTE, 1x RJ45 1000Mb/s
-1,014.02 zł gross
+LTE, 5G MikroTik LHGGM&EG18-EA LTE Antenna + Modem, CAT18 LTE, 1x RJ45 1000Mb/s
+1,017.58 zł gross
 Add to basket
 New
 favorite
 favorite_border
 File servers Ubiquiti UNAS-Pro NAS Server, 2U, 7x HDD, 1x SFP+, 1x GbE RJ45
 2,613.18 zł gross
+Add to basket
+New
+favorite
+favorite_border
+Sockets and power strips
+149.99 zł gross
 Add to basket
 New
 favorite
@@ -397,14 +403,8 @@ Add to basket
 New
 favorite
 favorite_border
-Switches Ubiquiti USW-WAN, Switch, 1x RJ45 1GbE, 3x SFP+
-1,259.62 zł gross
-Add to basket
-New
-favorite
-favorite_border
-Switches Ubiquiti Switch USW-PRO-HD-24-POE-EU, Etherlighting, 2x 10GbE PoE++, 22x 2.5GbE PoE++, 4x 10G SFP+
-4,956.08 zł gross
+Switches Ubiquiti USW-Pro-XG-24-PoE, Switch, Etherlighting, 16x RJ45 10GbE, 8x RJ45 2.5GbE, 2x SFP28, 720W, Layer 3
+8,927.68 zł gross
 Add to basket
 On sale
 Previous

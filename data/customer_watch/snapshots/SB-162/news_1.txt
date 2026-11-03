@@ -1,4 +1,4 @@
-# SB-162 optigo.net · news_1 · https://www.optigo.net/blog/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-162 optigo.net · news_1 · https://www.optigo.net/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 Blog Archive | Optigo Networks
 Skip to content
 Products
@@ -55,6 +55,10 @@ Uncategorized
 Video
 Webinars
 Remove filters
+How to Implement Zero Trust Principles in an Existing OT Network
+Implement Zero Trust security in OT networks to reduce risk, enforce access controls, and gain full visibility with OptigoVN....
+Read More >
+Cybersecurity , Network Management
 Why Optigo Didn’t Just Bolt a Chatbot Onto OptigoVN
 If you can paste a BACnet error into Claude or ChatGPT for free, why would you pay for help from...
 Read More >
@@ -87,10 +91,6 @@ How to Use a BBMD in OT Networks
 BBMDs act as a sort of forwarding service. They’re especially useful on large, complicated networks. A BBMD forwards messages from...
 Read More >
 BACnet Terminology , Network Management
-THE BENEFITS OF COLLABORATIVE TRAINING
-Boost OT network efficiency with collaborative training between facility teams and integrators. Discover benefits and best practices here!...
-Read More >
-Business Best Practices , Network Management
 Stay Updated with Our Latest Posts
 Subscribe our newsletter and get handpicked articles, exclusive insights, and bi-weekly roundups delivered straight to your inbox. No spam, ever.
 Free Forever

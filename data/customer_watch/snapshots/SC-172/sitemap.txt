@@ -1,4 +1,4 @@
-# SC-172 cop-security.com · sitemap · https://cop-security.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-172 cop-security.com · sitemap · https://cop-security.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2019-04-17T03:44:24+00:00	https://www.cop-security.com/
 2019-04-17T03:44:24+00:00	https://www.cop-security.com/index.php?lang=en
 2019-04-17T03:44:24+00:00	https://www.cop-security.com/index.php?lang=tw

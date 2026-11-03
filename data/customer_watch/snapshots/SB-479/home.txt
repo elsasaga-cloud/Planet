@@ -1,4 +1,4 @@
-# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
 EZY Infotech d.o.o.
 " />
 AUTORIZACIJA
@@ -175,7 +175,6 @@ Switch
 Fast Ethernet 5-Port
 Fast Ethernet 8-Port
 Fast Ethernet 16-Port
-Fast Ethernet 24-Port
 Gigabit 5-6 Ports
 Gigabit 8-12 Ports
 Gigabit 16-22 Ports

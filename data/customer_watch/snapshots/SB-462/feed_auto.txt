@@ -1,4 +1,5 @@
-# SB-462 Eter biometric technologies Srl · feed_auto · https://www.eter.it/feed/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-462 Eter biometric technologies Srl · feed_auto · https://www.eter.it/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+Mon, 02 Nov 2026 11:17:36 +0000	LEGIC connect26 a Zurigo: Addio badge? Lo smartphone diventa la nuova chiave per accedere agli edifici	https://www.eter.it/legic-connect26-zurigo-smartphone-controllo-accessi/
 Mon, 26 Oct 2026 11:13:15 +0000	Eter Biometric al SAIE Bologna: innovazione e sicurezza al servizio del settore delle costruzioni	https://www.eter.it/eter-biometric-saie-bologna-controllo-accessi-sicuracces/
 Fri, 23 Oct 2026 06:52:27 +0000	Eter Biometric Technologies al Secsolutionforum 2026: innovazione, videosorveglianza e controllo accessi	https://www.eter.it/eter-biometric-secsolutionforum-2026/
 Wed, 26 Aug 2026 10:14:15 +0000	Le 5 tecnologie che stanno cambiando il controllo accessi nel 2026	https://www.eter.it/tecnologie-controllo-accessi-2026/
@@ -8,4 +9,3 @@ Mon, 29 Jun 2026 06:48:16 +0000	Controllo Accessi e Zero Trust: la nuova frontie
 Wed, 17 Jun 2026 07:04:02 +0000	Sicurezza fisica e cybersecurity: perché oggi non possono più essere gestite separatamente	https://www.eter.it/sicurezza-fisica-cybersecurity/
 Mon, 08 Jun 2026 06:41:55 +0000	Intelligenza Artificiale e casa sicura: la tecnologia che aiuta a proteggere le famiglie	https://www.eter.it/intelligenza-artificiale-e-casa-sicura-la-tecnologiache-protegge/
 Fri, 05 Jun 2026 06:46:10 +0000	NIS2 e Controllo Accessi: il ruolo della sicurezza negli accessi	https://www.eter.it/nis2-controllo-accessi/
-Thu, 04 Jun 2026 09:50:20 +0000	25 Anni di Eter: Grazie per aver festeggiato con noi	https://www.eter.it/25-anni-di-eter-grazie-per-aver-festeggiato-con-noi/

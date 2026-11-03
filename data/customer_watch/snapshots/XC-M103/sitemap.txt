@@ -1,4 +1,4 @@
-# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2026-10-29T12:38:41.297Z	https://www.lastmile.no
 2026-03-27T09:20:21.035Z	https://www.lastmile.no/search
 2026-10-29T12:38:20.467Z	https://www.lastmile.no/kompetanse
@@ -26,7 +26,7 @@
 2026-04-03T07:53:59.935Z	https://www.lastmile.no/losninger/havbruk/kameraovervakning-fiskeoppdrett
 2026-04-03T07:54:50.951Z	https://www.lastmile.no/losninger/havbruk/bredbandsforbindelse
 2026-04-02T16:26:55.059Z	https://www.lastmile.no/losninger/samferdsel
-2026-10-23T08:39:55.479Z	https://www.lastmile.no/om-oss/leverandorer
+2026-11-03T09:28:52.306Z	https://www.lastmile.no/om-oss/leverandorer
 2026-03-27T10:05:04.832Z	https://www.lastmile.no/kompetanse/radio/4g-5g-og-nb-iot
 2026-03-27T10:03:47.532Z	https://www.lastmile.no/kompetanse/radio/radiolinje
 2026-10-29T11:14:26.318Z	https://www.lastmile.no/losninger/energi/fjerntilkobling-via-4g

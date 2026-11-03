@@ -1,4 +1,4 @@
-# SB-1127 linhawstore.com · sitemap · https://www.linhawstore.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1127 linhawstore.com · sitemap · https://www.linhawstore.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 	https://www.linhawstore.com/request/confirmation
 	https://www.linhawstore.com/request/return
 	https://www.linhawstore.com/website/info

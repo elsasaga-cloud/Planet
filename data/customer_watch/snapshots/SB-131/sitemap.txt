@@ -1,4 +1,4 @@
-# SB-131 DE secure · sitemap · https://desecuretechnology.com/sitemap.xml · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-131 DE secure · sitemap · https://desecuretechnology.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/cozumler/
 2026-09-17T00:00:00.000Z	https://desecuretechnology.com/cozumler/ai-guvenlik-teknolojileri/

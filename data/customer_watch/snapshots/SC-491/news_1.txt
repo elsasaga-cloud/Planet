@@ -1,4 +1,4 @@
-# SC-491 hisharp.com · news_1 · https://www.hisharp.com/en/news.php · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SC-491 hisharp.com · news_1 · https://www.hisharp.com/en/news.php · fetched 2026-11-03T09:43:52Z · HTTP 200
 News | HI SHARP INTELLIGENCE
 News News
 主選單
@@ -42,6 +42,11 @@ Press Center
 Company Activity
 Product Policy
 All
+03 NOV
+2026
+HI SHARP INTELLIGENCE TECHNOLOGY Successfully Passes ISO 14001 Recertification and Newly Earns ISO 45001 International Certification.
+HI SHARP INTELLIGENCE TECHNOLOGY, a leading Taiwanese brand specializing in intelligent security and in-vehicle imaging solutions, officially announced today that the company has successfully passed the periodic recertification audit for the ISO 14001:2015 Environmental Management System and has newly obtained ISO 45001:2018 certification for its Occupational Health and Safety Management System.
+View More
 24 SEP
 2026
 Recognized Among the Top 6%–20% of Listed Companies in Taiwan in the 2025 Corporate Governance Evaluation!
@@ -65,12 +70,6 @@ View More
 Industry Coverage
 NDAA Compliance: The International Passport to the Security Surveillance Industry
 Originating from Section 889 of the U.S. National Defense Authorization Act, NDAA requirements have become a common language across global supply chains. Products that fail to meet NDAA standards may be excluded from government projects, multinational corporations, and critical infrastructure deployments throughout North America, Europe, and other regions.
-View More
-10 JUN
-2026
-Industry Coverage
-The Evolution of Security in the AIGC Era: From Intelligent Surveillance to AI Visual Agents
-In recent years, breakthroughs in Artificial Intelligence (AI) have transformed security surveillance systems from traditional video recording and forensic review tools into intelligent platforms capable of real-time analysis and inference. However, with the rapid rise of Generative AI (AIGC, AI-Generated Content), conventional AI-assisted surveillance is no longer sufficient to meet the increasingly complex demands of modern security environments. The industry is now entering a new era—the emergence of the AI Visual Agent. This evolution represents not only a technological advancement but also a significant milestone in the development of the security industry.
 View More
 Prev 01 02 03 04 05 Next
 SUPPORT

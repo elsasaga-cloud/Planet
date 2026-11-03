@@ -1,14 +1,165 @@
-# SB-589 bydemes.com · news_1 · https://bydemes.com/es/news/blog · fetched 2026-11-02T09:40:28Z · HTTP 502
-The page is temporarily unavailable
-nginx error!
-The page you are looking for is temporarily unavailable. Please try again later.
-Website Administrator
-Something has triggered an error on your
-website. This is the default error page for
-nginx that is distributed with
-Fedora. It is located
-/usr/share/nginx/html/50x.html
-You should customize this error page for your own
-site or edit the error_page directive in
-the nginx configuration file
-/etc/nginx/nginx.conf .
+# SB-589 bydemes.com · news_1 · https://bydemes.com/es/news/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
+El distribuidor líder en tecnologías de seguridad | By Demes Group
+Empresa Sobre nosotros Soluciones Primeras marcas Empleo
+Noticias Noticias Newsletters
+Eventos Calendario de Eventos
+Soporte Centro de descargas
+RMA, DOA y abonos
+Akuvox Cloud Installer
+Configurador QUBINO
+Soporte técnico postventa
+Contacto Red comercial
+Contáctenos
+Soporte Centro de descargas RMA, DOA y abonos Akuvox Cloud Installer Configurador QUBINO Soporte técnico postventa
+Contacto Red comercial Contáctenos
+Buscar
+ES ES EN FR PT IT DE NL
+Área privada Registro
+CCTV
+Videoporteros
+Accesos
+Intrusión
+Incendio
+Networking
+IOT SmartHome
+Tarjetas SIM
+Ciberseguridad y NIS2
+Tarjetas SIM
+Ciberseguridad y NIS2
+CCTV
+Cámaras Analógicas HD/CVBS
+Grabadores Analógicos HD/CVBS
+Cámaras IP
+Cámaras Térmicas
+NVR IP
+Centro de Control y Teclados
+Sistema Almacenamiento
+Monitores
+Videoconferencia
+Soluciones para Smart Cities
+Análisis de Vídeo
+Detección de fuego SR7
+Transmisión Par Trenzado
+Accesorios
+Kits CCTV
+Videoporteros
+Sistemas Akuvox
+Sistemas HYUNDAI
+Sistemas DAHUA
+Sistemas HIKVISION
+Sistemas Ezviz
+Sistemas ALARM.COM
+Accesos
+Ctrl Acceso/Presencia
+Ctrl Rondas
+Cerraduras
+Vehículos/Ascensores
+Software/Servidores
+Sistemas Antihurto
+Intercomunicadores NÜO
+Accesorios
+Intrusión
+Sistemas ALARM.COM
+Alarma VESTA
+Alarma Médica VESTA
+Sistemas DAHUA
+Sistemas U-PROX
+Sistemas Pyronix / HIKVISION
+Sistemas HONEYWELL
+Sistemas PARADOX
+Sistemas VISONIC
+Sistemas DSC
+Sistemas Domesticos DIY Grado 1
+Transmisión y Recepción de Alarmas
+Detectores Volumetricos
+Detectores de Golpes e Impactos
+Contactos Magnéticos
+Detectores Especiales
+Detección Perimetral
+Sirenas
+Protección antirrobo por niebla
+Humo proactivo de seguridad
+Cables
+Accesorios
+Incendio
+Sistemas Analógicos
+Sistemas Convencionales
+Sistemas CO / Gases
+Sistemas de Extinción
+Sistemas Autónomos
+Detección por Aspiración
+Módulos de comunicación IP - 4G
+Detectores de Llama
+Sistemas de Megafonía y Evacuación por Voz
+Retenedores
+Accesorios
+Networking
+Routing
+Switching
+Wireless
+Accessorios Networking
+IOT SmartHome
+LifeSmart
+Sensores y detectores
+404
+LA PÁGINA QUE HA SOLICITADO NO EXISTE. Probablemente la dirección que ha introducido no exista
+o la página haya sido eliminada. Volver al inicio
+Todas sus soluciones en un único proveedor
+PRODUCTOS
+CCTV
+VIDEOPORTEROS
+ACCESOS
+INTRUSIÓN
+INCENDIO
+NETWORKING
+IOT SMARTHOME
+CIBERSEGURIDAD Y NIS2
+TARJETAS SIM
+OFERTAS
+EMPRESA
+SOBRE NOSOTROS
+PRIMERAS MARCAS
+EMPLEO
+SOLUCIONES
+NOTICIAS
+NEWSLETTERS
+EVENTOS
+CALENDARIO DE EVENTOS
+SOPORTE
+CENTRO DE DESCARGAS
+RMA, DOA Y ABONOS
+AKUVOX CLOUD INSTALLER
+CONFIGURADOR QUBINO
+NOTAS TÉCNICAS
+SOPORTE TÉCNICO POSTVENTA
+CONTACTO
+RED COMERCIAL
+CONTÁCTENOS
+SEDE SOCIAL
+Av. de la Industria, 25
+28823 Coslada, Madrid (España)
+917544804
+madrid@bydemes.com
+BY DEMES BARCELONA
+Avinguda Número 2, 13
+08040 Barcelona (España)
+934254960
+bydemes@bydemes.com
+BY DEMES CANARIAS
+Calle de la Explanada 29
+35018 Las Palmas de Gran Canaria (España)
+928426323
+canarias@bydemes.com
+INFORMACIÓN
+Política de cookies
+Preferencias de cookies
+Condiciones generales de venta
+Política de privacidad y aviso legal
+COLABORACIONES
+© 2026 By Demes S.L.U. Todos los derechos reservados
+Canal de denuncias
+xs
+sm
+md
+lg
+xl

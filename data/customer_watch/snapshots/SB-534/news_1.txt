@@ -1,4 +1,4 @@
-# SB-534 elfcams.com · news_1 · https://www.elfcams.com/article · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-534 elfcams.com · news_1 · https://www.elfcams.com/article · fetched 2026-11-03T09:43:52Z · HTTP 200
 Guides & Articles Fibre Optique — Installation, PON, WiFi | Elfcam
 ELFCAM
 Votre partenaire N°1 en solutions de communication et de connectivité De A à Z pour Data Centres, FTTx et réseaux télécoms
@@ -304,7 +304,7 @@ Mon Panier
 Chargement...
 Nous acceptons
 Certification de Sécurité
-©2018 - 2026 ELFCAM FR Tous droits réservés. v10.11.25
+©2018 - 2026 ELFCAM FR Tous droits réservés. v10.12.2
 Préférences de cookies
 ×
 Lorsque vous visitez un site web, celui-ci peut stocker ou récupérer des informations sur votre navigateur, principalement sous la forme de cookies. Ces informations peuvent porter sur vous, vos préférences ou votre appareil et sont principalement utilisées pour que le site fonctionne comme vous l'attendez. Parce que nous respectons votre droit à la vie privée, vous pouvez choisir de ne pas autoriser certains types de cookies.
@@ -321,6 +321,8 @@ Cookies de Ciblage
 Ces cookies peuvent être utilisés pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Si vous n'autorisez pas ces cookies, vous recevrez des publicités moins ciblées.
 Confirmer mes choix
 ×
+Nous contacter
+Demander un devis
 Nous contacter
 FR +33 (0)6 44 60 45 09
 GB +44 (0)7 45 81 56 618
