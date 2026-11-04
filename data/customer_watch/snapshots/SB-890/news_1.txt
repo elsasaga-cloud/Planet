@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · news_1 · https://technopc.com.tr/haberler-medya/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-890 technopc.com.tr · news_1 · https://technopc.com.tr/haberler-medya/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Haberler & Medya
 Destek
 Teknik Destek Talep Formu
@@ -71,6 +71,10 @@ Ar-Ge Tasarım Merkezi
 Haberler & Medya
 Anasayfa
 Haberler & Medya
+27 Ekim 2026
+Technopc, Kamu-BİB’29 – BİMY’33’te Yapay Zekâ Altyapı Çözümlerini Tanıttı
+Türkiye Bilişim Derneği tarafından Antalya’da düzenlenen Kamu-BİB’29 – BİMY’33 etkinliğinde Technopc, kamu kurumlarının dijital dönüşüm hedeflerine yönelik teknoloji çözümlerini ve yüksek performanslı bilişim altyapılarını katılımcılarla buluşturdu.
+Devamını Oku
 29 Haziran 2026
 Technopc, TETZ Fuarı'nda Yapay Zekâ Destekli Eğitim Teknolojileriyle Yoğun İlgi Gördü
 Türkiye Eğitim Teknolojileri Zirvesi'nde (TETZ) Technopc standımıza gösterilen yoğun ilgi için teşekkür ederiz. Yapay zeka destekli güvenilir eğitim teknolojilerimizi; AI destekli PC, Mini PC, Notebook, AIO ve monitör çözümlerimizi ziyaretçilerimizle buluşturduk. Eğitimin dijital geleceğine yerli üretim gücümüzle katkı sunmaya devam ediyoruz.
@@ -355,17 +359,4 @@ Technopc Endüstriyel Box PC IND-7050
 Technopc Endüstriyel Box PC IND-760
 Technopc Endüstriyel Araç PC IND 20T
 Technopc Endüstriyel Araç PC IND 10T
-Technopc Tümleşik Araç Yönetim Sistemi AKS-200
-Endüstriyel Monitör Serisi
-Technopc Endüstriyel Monitör TPM Serisi
-Technopc Endüstriyel Monitör TPL Serisi
-Digital Signage Serisi
-Technopc OPS G5860S
-Technopc OPS PC TPOG12
-Technopc TE-625
-Technopc TE-525
-Technopc TE-325
-Rugged El Terminali
-Technopc Rugged El Terminali TM-T04 Serisi
-Technopc Rugged El Terminali TM-T05 Serisi
-Technopc Endüstriye
+Technopc Tümleşik Araç Yönetim Sistemi AKS-

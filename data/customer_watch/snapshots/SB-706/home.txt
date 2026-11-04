@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -171,7 +171,7 @@ ioPAC 6500 Series (65M) Power Modules 1
 Remote I/O 60
 Smart Remote I/O 100
 Industrial Computing 0
-Industrial Computers 441
+Industrial Computers 440
 Compact/Fanless Computers 50
 AIG-100 Series 4
 AIG-300 Series 14
@@ -193,9 +193,10 @@ Oil & Gas Computers 22
 Power Substation Computers 19
 Rail Computers 14
 Solar Computers 11
-Wide Temperature Computers 295
+Wide Temperature Computers 294
 RISC 84
 UC-8600A Series 2
+V1200 Series 2
 x86 199
 BXP-A100 Series 0
 BXP-A101 Series 8
@@ -207,9 +208,9 @@ DRP-A100 Series 0
 DRP-C100 Series 0
 RKP-A110 Series 1
 RKP-C110 Series 15
-Wireless Computers 84
-Cellular Computers 69
-WLAN Computers 75
+Wireless Computers 83
+Cellular Computers 68
+WLAN Computers 74
 Accessories 368
 Antennas 43
 Backup Configurators 4
@@ -535,4 +536,4 @@ DIN-Rail Power Supplies for 3-phase Systems 9
 DeviceNet Power Supply 2
 C-Series 0
 DC/DC Converter 12
-Power Supply with Integrated De
+Power Supply wit

@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-HIKVISION DS-PMA-BELL, Sirena 5W 110dB 12VDC (SIRENAS)
-$ 14 + IVA
-Sirena con luz intermitente 2 vias 110db DC12V 868 MHZ incl bateria, LANTEK SIR.214R
-$ 30 + IVA
+Sirena double luz, tweeter 2 vias, LANTEK SIR.327R
+$ 67 + IVA
+Sensor de movimiento inal?mbrico para interiores de techo, HIKVISION DS-PDCL12-EG2-WB
+$ 26 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,30 +202,23 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-SEGURIDAD , CONTROL DE ACCESO
-Chapa magnetica CON LED (600lbs), LANTEK LTK-MAG60...
-$ 31 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CONTROL DE ACCESO
-Soporte L para chapas con cobertor h/afuera, LANTE...
-$ 12 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CONTROL DE ACCESO
-Soporte ZL para chapas, LANTEK LTK-MAG600ZL
-$ 16 + IVA
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4K Ultra HD 3 mts Fibra Optica nacho a ...
+$ 29 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
-Control de acceso y asistencia SaaS WiFi, Facial h...
-$ 102 + IVA
+Video Audio Distributor 8ch 10/100, HIKVISION DS-K...
+$ 129 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CONTROL DE ACCESO
+Soporte LC para chapas doble h/dentro p/angosta, L...
+$ 24 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -233,6 +226,13 @@ Add to wishlist
 ACCESORIOS CCTV
 Extension coax RG59 + Corriente 20m, 65ft, EPCOM D...
 $ 16 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CONTROL DE ACCESO
+Cobertor superior para puertas de vidrio 1 metro, ...
+$ 62 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,36 +266,36 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 24 GE PoE+ / 2GE + 2SFP uplink, 370W 4KV Vl...
-$ 292 + IVA
+Fuente Redundante 740w para RG-S2910C 24 y 48 puer...
+$ 638 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 4 GE PoE+ / 2GE + 1SFP (combo) uplink , 54W...
-$ 50 + IVA
+Switch PoE 8FE + 2GE, 1 y 2 60W, 3-8 30W(802.3at) ...
+$ 49 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch industrial POE / NO ADMIN 8 GE / 2 x GE /2 ...
-$ 174 + IVA
+Switch L3 NeverDie / 48 GE PoE / 4 x SFP+ / NO inc...
+$ 1,415 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Acceso L2 / 24 GE / 4 SFP, REYEE RG-NBS3100...
-$ 192 + IVA
+Switch 16 GE PoE+ / 2GE + 2SFP uplink, 250W 4KV Vl...
+$ 225 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-REDES , SWITCHES
-Fuente de Alimentación AC/DC 120W 54VDC/2.2A Din-...
-$ 46 + IVA
+SWITCHES
+Switch Acceso L2 / 24 GE / 4 SFP+, REYEE RG-NBS320...
+$ 365 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

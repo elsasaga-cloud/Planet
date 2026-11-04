@@ -1,4 +1,4 @@
-# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-11-02T09:40:28Z · HTTP 200
+# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
 obserwujpl
 Zapraszamy na nasz kanał
@@ -163,6 +163,21 @@ Przejdź do koszyka »
 Promocje
 Wszystkie promocje
 0
+Nowość
+-15%
+Laskomex
+LASKOMEX MVC-9000 – monitor wideodomofonowy 8″ do systemu Bastion Gemini 2-wire IP, Wi-Fi i Tuya
+MVC-9000
+Ekran dotykowy 8″, 1024 × 600
+Łączność LAN i Wi-Fi
+Obsługa w aplikacji Tuya
+Podgląd 2 kamer IP
+Do 4 monitorów w instalacji
+Cena: 676.50 zł
+575.03 zł
+Najniższa cena z 30 dni przed obniżką: 575.02 zł
+Zapytaj o produkt
+0
 -39%
 Imou
 Kamera obrotowa 5Mpix WiFi IMOU IPC-S7CP-5M0WE
@@ -221,107 +236,109 @@ Do koszyka
 Nowości
 Wszystkie nowości
 0
-Nowość
-TP-LINK
-M7400 – Mobilny router Wi-Fi 4G LTE-Advanced Cat6 AC1200
-TPLINK-1929
-LTE-Advanced do 300 Mb/s
-Wi-Fi Dual Band 2,4/5 GHz
-Obsługa do 32 urządzeń
-Bateria 2100 mAh (8h pracy)
-Slot micro SD do 2TB
-Cena: 603.01 zł
+Nowość -15%
+Laskomex
+LASKOMEX MVC-9000 – monitor wideodomofonowy 8″ do systemu Bastion Gemini 2-wire IP, Wi-Fi i Tuya
+MVC-9000
+Ekran dotykowy 8″, 1024 × 600
+Łączność LAN i Wi-Fi
+Obsługa w aplikacji Tuya
+Podgląd 2 kamer IP
+Do 4 monitorów w instalacji
+Cena: 676.50 zł
+575.03 zł
+Najniższa cena z 30 dni przed obniżką: 575.02 zł
 Zapytaj o produkt
 0
 Nowość
-TP-LINK
-InSight S445(4mm) – W pełni kolorowa kamera sieciowa VIGI typu Turret, 4MP
-TPLINK-1928
-Rozdzielczość 4MP Super HD
-Pełny kolor przez 24h
-Analiza AI ludzi i pojazdów
-Klasa szczelności IP67
-Dwukierunkowe audio
-Cena: 994.98 zł
+Laskomex
+BASTION Gemini 2-wire IP czarny – zestaw wideodomofonowy z monitorem 8″ i kamerą Full HD
+BASTION_CZARNY
+Monitor 8″, 1024 × 600
+Kamera Full HD 2 MP
+Instalacja 2-przewodowa
+Tuya, LAN i Wi-Fi 2,4 GHz
+RFID 125 kHz i kody dostępu
+Cena: 984.00 zł
 Zapytaj o produkt
 0
 Nowość
-TP-LINK
-InSight S345(4mm) – Zewnętrzna kamera sieciowa typu Bullet 4MP z analityką AI i Active Defense
-TPLINK-1927
-Rozdzielczość 4MP
-Obiektyw 4mm
-Analityka osób i pojazdów
-True WDR 120dB
-Klasa szczelności IP67
-Cena: 1076.47 zł
+Laskomex
+BASTION Gemini 2-wire IP biały – zestaw wideodomofonowy z monitorem 8″ i kamerą Full HD
+BASTION_BIAŁY
+Monitor 8″, 1024 × 600
+Kamera Full HD 2 MP
+Instalacja 2-przewodowa
+Tuya, LAN i Wi-Fi 2,4 GHz
+RFID 125 kHz i kody dostępu
+Cena: 984.00 zł
 Zapytaj o produkt
 0
 Nowość
-TP-LINK
-InSight PTZ5425 – Zewnętrzna Kamera Obrotowa IP 4MP 25x Zoom Optyczny Speed Dome
-TPLINK-1926
-Rozdzielczość 4MP
-Zoom optyczny 25X
-Zasięg IR 100m
-Śledzenie ludzi i pojazdów
-Obudowa IP66/IK08
-Cena: 6691.16 zł
-Zapytaj o produkt
-10
-Nowość
-TP-LINK
-InSight LPR345Z – Zewnętrzna kamera sieciowa Bullet 4MP z funkcją rozpoznawania tablic rejestracyjnych (LPR) i obiektywem Motozoom
-TPLINK-1925
-Rozdzielczość 4MP
-Rozpoznawanie tablic ANPR
-Obiektyw moto-zoom 2.7-13.5mm
-Obudowa IP67 i IK10
-Sterowanie szlabanem
-Cena: 2344.81 zł
-Do koszyka
-0
-Nowość
-TP-LINK
-Fusion G+ – Zintegrowana Brama GPON Omada SDN V2.6
-TPLINK-1924
-Terminal GPON
-Integracja Omada SDN
-Wbudowany kontroler
-Zaawansowany VPN
-Porty Gigabit
-Cena: 746.00 zł
+Imou
+ZSM1-EU – Inteligentny Czujnik Dymu Zigbee z Funkcją Współpracy Wielourządzeniowej
+IMOU-1185
+Certyfikat EN14604
+Protokół Zigbee
+Bateria na 5 lat
+Głośność alarmu >85dB
+Wspólne alarmowanie wielu czujek
+Cena: 80.81 zł
 Zapytaj o produkt
 0
 Nowość
-TP-LINK
-Fusion 2.5G PoE – Brama sieciowa i kontroler Omada Fusion 2.5G PoE
-TPLINK-1923
-Zintegrowana brama i kontroler
-9 portów 2.5G RJ45
-8 portów PoE (110W)
-Ekran dotykowy 3,69"
-IPS/IDS do 2,1 Gb/s
-Cena: 1598.57 zł
+Imou
+ZG2S – Inteligentna Bramka Zigbee 3.0 i Matter (Smart Gateway)
+IMOU-1183
+Obsługa 128 urządzeń Zigbee
+Protokół Matter
+Wbudowana syrena alarmowa
+Zdalne sterowanie aplikacją
+Praca lokalna bez internetu
+Cena: 123.91 zł
 Zapytaj o produkt
-42
+0
 Nowość
-TP-LINK
-Fusion 2.5G – Brama sieciowa i kontroler Omada 2,5 Gb/s
-TPLINK-1922
-5 portów RJ45 2,5 Gb/s (Multi-WAN)
-Kontroler Omada bez licencji
-Przepustowość IPS/IDS 2,1 Gb/s
-Ekran dotykowy 2,51" LCM
-VPN LightLink i Bluetooth
-Cena: 1097.25 zł
-Do koszyka
+Imou
+Smoke Detector ZSM1 Kit-EU-6 – Inteligentny Czujnik Dymu Zigbee z Certyfikatem EN14604
+IMOU-1182
+Certyfikat EN14604
+Bateria do 5 lat
+Głośność ≥85 dB
+Protokół Zigbee
+Alarm kaskadowy
+Cena: 501.03 zł
+Zapytaj o produkt
+0
+Nowość
+Imou
+Smoke Detector ZSM1 Kit-EU-3 – Inteligentny Czujnik Dymu Zigbee z Certyfikatem EN14604
+IMOU-1181
+Certyfikat EN14604
+Łączność Zigbee (zasięg 130m)
+Głośność alarmu ≥85dB
+Bateria na 5 lat
+Alarm kaskadowy (offline)
+Cena: 296.31 zł
+Zapytaj o produkt
+0
+Nowość
+Imou
+PFB-JB – Aluminiowa puszka montażowa do kamer monitoringu
+IMOU-1179
+Stop aluminium ADC12
+Wodoodporna konstrukcja
+Montaż wewnątrz i na zewnątrz
+Wymiary Ø122 × 41 mm
+Ukrycie i ochrona kabli
+Cena: 70.04 zł
+Zapytaj o produkt
 Najciekawsze oferty w kategoriach
 Monitoring CCTV
 0
 -73%
-Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6
-DH-1967
+Kamera kopułka 6M DAHUA IPC-HDW1639T-A-IL-0280B-S6
+DH-1914
 1/2.7" 6Mpx PS CMOS
 Technologia Dual Illumination
 Obiektyw 2.8mm

@@ -1,4 +1,4 @@
-# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · security_cat · https://xspectechnology.com/category/military-defence-security · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · security_cat · https://xspectechnology.com/category/military-defence-security · fetched 2026-11-04T09:30:29Z · HTTP 200
 Military, Defence & Security Brands - XSPec Malaysia
 XSPec Technology
 Preparing your catalog
@@ -83,8 +83,8 @@ ID
 XSPec Malaysia
 Military, Defence & Security
 Explore trusted brands and field-ready technology solutions for Military, Defence & Security teams.
-29 Brands
-63 Products
+31 Brands
+70 Products
 After-Sales Support
 Brand Catalog
 Available Brands
@@ -149,7 +149,7 @@ Detectachem
 View Products
 ->
 Military, Defence & Security
-2 Products
+3 Products
 Devtac Ronin
 View Products
 ->
@@ -219,6 +219,11 @@ VMI
 View Products
 ->
 Military, Defence & Security
+2 Products
+Verisis
+View Products
+->
+Military, Defence & Security
 1 Product
 AIRCOHN
 View Products
@@ -231,6 +236,11 @@ View Products
 Military, Defence & Security
 1 Product
 ADVANCED ACCURACY SOLUTIONS
+View Products
+->
+Military, Defence & Security
+4 Products
+Speech Technology Center
 View Products
 ->
 Military, Defence & Security

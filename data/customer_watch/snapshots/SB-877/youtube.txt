@@ -1,4 +1,6 @@
-# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-04T06:15:34+00:00	Схема автоматизации контроля за мелкими предметами	https://www.youtube.com/shorts/G73Z2hMn5P4
+2026-11-03T15:30:13+00:00	Какие решения можно переложить на ИИ агента	https://www.youtube.com/shorts/q5IDu8t921k
 2026-11-03T06:00:06+00:00	Как предотвратить кражи мелких предметов	https://www.youtube.com/shorts/iHyuOGg_p4g
 2026-10-29T13:25:31+00:00	Недостаток освещения при детекции автомобильного номера	https://www.youtube.com/shorts/w83U0JUZzhM
 2026-10-28T14:00:55+00:00	Взлом нейросетьевой аналитики shorts	https://www.youtube.com/shorts/Bd-67XVoReY
@@ -12,5 +14,3 @@
 2026-09-10T16:14:20+00:00	ОБЪЕКТ РЕШАЕТ какой коммутатор нужен	https://www.youtube.com/watch?v=YNLbQ0xIMVk
 2026-08-23T14:00:03+00:00	Экономить на сопровождении будущей сети	https://www.youtube.com/shorts/vCFjF3MDjXg
 2026-08-22T10:00:14+00:00	Закрыть большие линии объекта обычной офисной схемой	https://www.youtube.com/shorts/wBwPHT2nsiY
-2026-08-21T08:00:08+00:00	Забывать про UPLINK и скорость	https://www.youtube.com/shorts/ZYSWmVG13EI
-2026-08-16T14:00:37+00:00	Смотреть на наличие POE без подсчета мощности	https://www.youtube.com/shorts/8xYtwgY17DI

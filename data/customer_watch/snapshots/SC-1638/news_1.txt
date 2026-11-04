@@ -1,4 +1,4 @@
-# SC-1638 thuananvn.com.vn · news_1 · https://thuananvn.com.vn/news.htmt · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-1638 thuananvn.com.vn · news_1 · https://thuananvn.com.vn/news.htmt · fetched 2026-11-04T09:30:29Z · HTTP 200
 News
 thuanan.sales1@gmail.com
 0989174796
@@ -141,9 +141,9 @@ Video
 Fanpage
 101587322398700
 Lượt truy cập:
-1785550 -
+1785767 -
 Đang online:
-4
+6
 - Thiết kế web bởi haanhco.,ltd
 0989174796
 Facebook:

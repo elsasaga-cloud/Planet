@@ -1,4 +1,4 @@
-# SB-1045 itm-components.co.uk · news_1 · https://itm-components.co.uk/blogs/news · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-1045 itm-components.co.uk · news_1 · https://itm-components.co.uk/blogs/news · fetched 2026-11-04T09:30:29Z · HTTP 200
 News | ITM Components Blog
 Skip to content
 Email ITM Components
@@ -500,7 +500,6 @@ Multi-Window Processor
 Multiplexor
 Multiviewer
 OneLoop
-Optical Cable
 Output Board
 Output Card
 Panel
@@ -680,6 +679,7 @@ Water Detection Cable
 Wideband Board
 Wifi Adapter
 WiFi Range Extender
+Wifi Adapter
 Wind Sensor
 Wireless Access Point
 Wireless Digital I/O Module
@@ -792,4 +792,4 @@ Integration-friendly features, such as 60 watt USB-C charging and audio de-embed
 Read now
 April 8, 2026
 L-com IP68 ODVA Adapters exceed ODVA requirements for harsh environment
-L-com's IP68 ODVA Adapters stand as a testament to reliability, boasting an IP68 r
+L-com's IP68 ODVA Adapters stand as a testament to reliability, boasting an IP68 ra

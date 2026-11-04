@@ -1,4 +1,4 @@
-# XC-M168 Marshall Wolf Automation, Inc. · home · https://www.wolfautomation.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# XC-M168 Marshall Wolf Automation, Inc. · home · https://www.wolfautomation.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Industrial Controls Distributor | Marshall Wolf Automation
 Free Shipping For Online Orders Over $350* Learn More!
 About Us
@@ -376,101 +376,101 @@ SAM.gov Registered Federal Contractor
 Women's Business Enterprise
 New Products
 Learn More
-Wieland
-5D.S16.9055.0
-WTN 16 PE, Minimum Order Quantity of 50 Pieces, Price per Piece
-Ground (PE) Terminal Block, selos WTN 16 PE, Screw Connection, 16mm², 14-3 AWG, 600V (UL), 12mm Wide, Green/Yellow, DIN Rail Mount, Minimum Order 50 Pieces (50 per Pack), Price/Sold per Piece
-$9.32
+IDEC
+XW9Z-PCE
+XA/XN/XW Series
+Padlock Cover, for XW1E-BS4B12PR Assisted E-Stop, Locks E-Stop in Pressed State to Prevent Reset, 15N Min. Load Capacity, Assisted E-Stop System Accessory
+$119.67
 Add to Cart
-$9.32
+$119.67
 Add to Cart
-Wieland
-0D.202.2255.0
-APWTPN 1.5 D2/2, Minimum Order Quantity of 100 Pieces, Price per Piece
-End Plate, APWTPN 1.5 D2/2, for selos WTPN 1.5 D2/2 Terminal Blocks, 2mm Thick, Grey, Minimum Order 100 Pieces (20 per Pack), Price/Sold per Piece
-$0.62
+Invertek
+ODE-3-420460-3F4B-MTP
+Non-Cancellable / No Returns
+VFD, 15hp, 11kW, 46A, 200-240V, 3 Phase Input/Output, LED Keypad, Potentiometer, Fwd/Stop/Rev Switch, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor with Disconnect Switch, NCNR
+$2,650.56
 Add to Cart
-$0.62
+$2,650.56
 Add to Cart
-Wieland
-5D.S03.4455.0
-WTN 2.5 FSI 5X20, Minimum Order Quantity of 50 Pieces, Price per Piece
-Fuse Terminal Block, selos WTN 2.5 FSI 5X20, Screw Connection, 2.5mm², 22-12 AWG, 10A, 300V (UL), for 5x20mm Fuses, 5.1mm Wide, Grey, DIN Rail Mount, Minimum Order 50 Pieces (50 per Pack), Price/Sold per Piece
-$12.98
+Invertek
+ODE-3-120023-301A-MTP
+Non-Cancellable / No Returns
+VFD, 0.5hp, 0.37kW, 2.3A, 200-240V, 3 Phase Input/Output, LED Keypad, No EMC Filter, No Brake Transistor, Modbus TCP, Frame 1, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
+$575.52
 Add to Cart
-$12.98
+$575.52
 Add to Cart
-Wieland
-Z5.523.9453.0
-WEF 2/35, Minimum Order Quantity of 100 Pieces, Price per Piece
-End Bracket, WEF 2/35, Screwless, for TS 35 DIN Rail, 5mm Wide, Minimum Order 100 Pieces, Price/Sold per Piece
-$0.60
+IDEC
+XW1E-BS4B12PR
+XA/XN/XW Series
+E-Stop, Ø22mm, Assisted E-Stop with 24VDC Solenoid Activation Assist, 1NO/2NC (1NO Monitor), Push-Pull/Turn Reset, Safe-Break Action, Push-In Terminals, IP65 (Panel Front)
+$254.50
 Add to Cart
-$0.60
+$254.50
 Add to Cart
-Wieland
-5D.203.5155.0
-WTPN 2.5 D2/2, Minimum Order Quantity of 50 Pieces, Price per Piece
-Feed-Through Terminal Block, selos WTPN 2.5 D2/2, Push-In Connection, 2.5mm², 26-12 AWG, 20A, 600V (UL), 4 Connection Points, 5.1mm Wide, Grey, DIN Rail Mount, Minimum Order 50 Pieces (50 per Pack), Price/Sold per Piece
-$1.94
+Invertek
+ODE-3-420300-3F4B-MTP
+Non-Cancellable / No Returns
+VFD, 10hp, 7.5kW, 30A, 200-240V, 3 Phase Input/Output, LED Keypad, Potentiometer, Fwd/Stop/Rev Switch, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor with Disconnect Switch, NCNR
+$1,956.24
 Add to Cart
-$1.94
+$1,956.24
 Add to Cart
-Wieland
-0D.202.7281.0
-WML 9.8/60
-Marking Strip Roll, WML 9.8/60, 9.8mm Wide, 60m Long, White Plastic, UL94 V0, Halogen Free, for selos Terminal Blocks, Price per Roll
-$52.33
+Invertek
+ODE-3-440460-3F4A-MTP
+Non-Cancellable / No Returns
+VFD, 30hp, 22kW, 46A, 380-480V, 3 Phase Input/Output, LED Keypad, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
+$3,263.04
 Add to Cart
-$52.33
+$3,263.04
 Add to Cart
-Wieland
-5D.202.5155.0
-WTPN 1.5 D2/2, Minimum Order Quantity of 50 Pieces, Price per Piece
-Feed-Through Terminal Block, selos WTPN 1.5 D2/2, Push-In Connection, 1.5mm², 26-14 AWG, 15A, 300V (UL), 4 Connection Points, 3.5mm Wide, Grey, DIN Rail Mount, Minimum Order 50 Pieces (50 per Pack), Price/Sold per Piece
-$1.77
+Invertek
+ODE-3-420300-104A-MTP
+Non-Cancellable / No Returns
+VFD, 10hp, 7.5kW, 30A, 200-240V, Single Phase Input/3 Phase Output, LED Keypad, No EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
+$2,035.44
 Add to Cart
-$1.77
+$2,035.44
 Add to Cart
-Wieland
-0D.S04.2555.0
-APWTN 4 E FSI, Minimum Order Quantity of 100 Pieces, Price per Piece
-End Plate, APWTN 4 E FSI, for selos WTN 4 E FSI Terminal Blocks, 1mm Thick, Grey, Minimum Order 100 Pieces (20 per Pack), Price/Sold per Piece
-$0.55
+Invertek
+ODE-3-240041-3F4B-EIP
+Non-Cancellable / No Returns
+VFD, 2hp, 1.5kW, 4.1A, 380-480V, 3 Phase Input/Output, LED Keypad, Potentiometer, Fwd/Stop/Rev Switch, C1/2/3 EMC Filter, Internal Brake Transistor, EtherNet/IP, Frame 2, Optidrive E3 Series, NEMA 4X/IP66 Outdoor with Disconnect Switch, NCNR
+$1,029.60
 Add to Cart
-$0.55
+$1,029.60
 Add to Cart
-Wieland
-5D.204.0055.6
-WTPN 4 BL, Minimum Order Quantity of 100 Pieces, Price per Piece
-Feed-Through Terminal Block, selos WTPN 4 BL, Push-In Connection, 4mm², 24-10 AWG, 30A, 600V (UL), 6.1mm Wide, Blue, DIN Rail Mount, Minimum Order 100 Pieces (100 per Pack), Price/Sold per Piece
-$1.39
+IDEC
+HX9Z-1TS2
+HX Series
+Wrist/Arm Strap, Approx. 22-38cm, for HX1T-AB1 Wireless Switch Transmitter, Assisted E-Stop System Accessory
+$27.92
 Add to Cart
-$1.39
+$27.92
 Add to Cart
-Wieland
-5D.S03.7155.0
-WTN 2.5 E3, Minimum Order Quantity of 100 Pieces, Price per Piece
-Triple-Level Terminal Block, selos WTN 2.5 E3, Screw Connection, 2.5mm², 22-12 AWG, 20A, 600V (UL), 5.1mm Wide, Grey, DIN Rail Mount, Minimum Order 100 Pieces (100 per Pack), Price/Sold per Piece
-$4.72
+Invertek
+ODE-3-320240-3F4B-MTP
+Non-Cancellable / No Returns
+VFD, 7.5hp, 5.5kW, 24A, 200-240V, 3 Phase Input/Output, LED Keypad, Potentiometer, Fwd/Stop/Rev Switch, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 3, Optidrive E3 Series, NEMA 4X/IP66 Outdoor with Disconnect Switch, NCNR
+$1,581.36
 Add to Cart
-$4.72
+$1,581.36
 Add to Cart
-Wieland
-0D.216.5127.5
-IVB WTPN 2.5R16, Minimum Order Quantity of 100 Pieces, Price per Piece
-Reducing Jumper Bar, IVB WTPN 2.5R16, 2-Pole, Plug-In, Insulated, Bridges selos WTPN 2.5 to WTPN 16 Terminal Blocks, Red, Minimum Order 100 Pieces (10 per Pack), Price/Sold per Piece
-$2.73
+Invertek
+ODE-3-440390-3F4A-MTP
+Non-Cancellable / No Returns
+VFD, 25hp, 18.5kW, 39A, 380-480V, 3 Phase Input/Output, LED Keypad, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
+$2,872.32
 Add to Cart
-$2.73
+$2,872.32
 Add to Cart
-Wieland
-0D.202.7381.0
-WML 7.4/60
-Marking Strip Roll, WML 7.4/60, 7.4mm Wide, 60m Long, White Plastic, UL94 V0, Halogen Free, for selos Terminal Blocks, Price per Roll
-$42.06
+Invertek
+ODE-3-420240-104A-MTP
+Non-Cancellable / No Returns
+VFD, 7.5hp, 5.5kW, 24A, 200-240V, Single Phase Input/3 Phase Output, LED Keypad, No EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
+$1,784.64
 Add to Cart
-$42.06
+$1,784.64
 Add to Cart
 From the Blog View All Entries
 Posted by Theresa Hoffman on Nov 17th 2025

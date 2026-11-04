@@ -1,4 +1,4 @@
-# SA-029 gtwave.co.kr · home · https://gtwave.co.kr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SA-029 gtwave.co.kr · home · https://gtwave.co.kr/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 GTWAVE Co.,Ltd
 MENU
 ABOUT US
@@ -7,7 +7,7 @@ Philosophy
 Certification
 Specificity
 Location
-PRODUCTS
+PRODUCT
 PoE Switch
 - Non-Managed PoE
 - Managed(intelligent) PoE
@@ -37,6 +37,7 @@ Nework Surge Protector
 Antenna
 Antenna Stand
 Auto-Recovery Principle
+Manual
 INSTALLATION CASE
 Installation Case
 SUPPORT

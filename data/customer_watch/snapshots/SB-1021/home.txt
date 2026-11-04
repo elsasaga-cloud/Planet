@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -61,25 +61,25 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5063)
-Wszystkie 5063
+Światłowody (5076)
+Wszystkie 5076
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1024
 Patchcordy światłowodowe 1330
 Pigtaile światłowodowe 118
 Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 359
 Adaptery światłowodowe 127
-Budowa sieci optotelekomunikacyjnej 354
+Budowa sieci optotelekomunikacyjnej 365
 Spawarki światłowodowe i akcesoria 50
 Urządzenia diagnostyczne 158
 Mediakonwertery 90
 Mufy światłowodowe 215
 Multipatchcordy 50
 Narzędzia światłowodowe 128
-Osłonki spawów 18
+Osłonki spawów 19
 Przełącznice światłowodowe 321
 Splittery optyczne 58
-Stelaże zapasu kabla 42
+Stelaże zapasu kabla 43
 Szafy teleinformatyczne 165
 Tacki światłowodowe 33
 Tłumiki optyczne 46
@@ -106,23 +106,23 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4960)
-Wszystkie 4960
+LAN (4967)
+Wszystkie 4967
 Kable LAN 403
 Patchcordy RJ45 1869
 Szafy RACK 892
-Akcesoria do szaf RACK 892
-Moduły keystone 235
-Gniazda i wtyki 294
-Organizacja kabli 96
+Akcesoria do szaf RACK 898
+Moduły keystone 234
+Gniazda, wtyki, łączniki LAN 295
+Organizacja kabli 97
 Testery LAN 95
 Zaciskarki RJ, narzędzia, strippery 91
 System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2261)
-Wszystkie 2261
+Zasilanie (2262)
+Wszystkie 2262
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
@@ -133,7 +133,7 @@ Przetwornice napięcia 158
 Kable zasilające 80
 Listwy zasilające i przedłużacze 394
 Battery packi do UPS 65
-Akcesoria do UPS 49
+Akcesoria do UPS 50
 Siłownie telekomunikacyjne 2
 Filtry przepięciowe 54
 Zasilacze do laptopów 73
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Mean Well HLG-240H-24A zasilacz LED 24 V 240 W 10 A
-258.66 zł netto
+Qoltec 54227 uchwyt klips do kabli 15 × 13 mm naścienny
+3.13 zł netto
 Do koszyka
-Lanberg SC01-6504-12B obudowa serwerowa RACK 19 cali 4U
-473.28 zł netto
+Qoltec 54229 uchwyt do kabli szary
+3.31 zł netto
 Do koszyka
-Hikvision DS-2CD1T47G3-LIUF/SL(2.8mm) kamera IP bullet 4 MP ColorVu 3.0
-486.25 zł netto
+Uchwyt odciągowy MBL 0,7 kN 12 × 6 mm
+3.31 zł netto
 Do koszyka
-Shelly Dimmer Gen4 – inteligentny ściemniacz Wi-Fi, Zigbee i Matter
-139.07 zł netto
+Uchwyt odciągowy MBL 5,5 kN do kabla 7 mm
+13.25 zł netto
 Do koszyka
-Shelly Plus RGBW PM x2 – zestaw 2 sterowników taśm LED 12/24 VDC
-196.14 zł netto
+Uchwyt odciągowy do kabli MBL 8 kN 10 mm
+14.72 zł netto
 Do koszyka
-Shelly Dimmer 0/1-10V PM Gen4 – inteligentny ściemniacz z pomiarem mocy
-121.17 zł netto
+Uchwyt odciągowy MBL 3 kN do kabla 7 mm
+10.3 zł netto
 Do koszyka
-Shelly Wave i4 LR – 4-wejściowy moduł sterujący Z-Wave
-113.96 zł netto
+MBL-25KN przelotowy uchwyt wieszak do kabli, wspornik
+3.68 zł netto
 Do koszyka
-Shelly Wave 1 EU LR – 1-kanałowy przekaźnik Z-Wave Long Range
-134.71 zł netto
+MBL-4KN wspornik hakowy uchwyt wieszak do kabli
+7.36 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

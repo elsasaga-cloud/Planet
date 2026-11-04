@@ -1,4 +1,6 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-03T09:43:52Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-04T09:30:29Z · HTTP 200
+03.11.2026 16:14:14	HighSecLabs Remote for Ultra Matrix	https://www.leteng.no/highseclabs/wr40-4x/highseclabs-remote-for-ultra-matrix-4-port-panel-daisy-chain-rgb-led
+03.11.2026 16:10:56	HighSecLabs Remote for Ultra Matrix	https://www.leteng.no/highseclabs/wr80-4x/highseclabs-remote-for-ultra-matrix-8-port-panel-daisy-chain-rgb-led
 02.11.2026 12:14:35	Planet Konverter 1000X - SFP PoE++	https://www.leteng.no/planet-technology-corp-dot-/gup-805a-95w/planet-konverter-1000x-sfp-poe-plus--plus--10-100-1000baset-802-dot-3bt-din-95w
 02.11.2026 11:32:48	Planet Konverter 1000X - SFP PoE++	https://www.leteng.no/planet-technology-corp-dot-/gup-805a-60w/planet-konverter-1000x-sfp-poe-plus--plus--10-100-1000baset-802-dot-3bt-din
 30.10.2026 13:28:41	Palmer MONICON L G2	https://www.leteng.no/palmer-audio-tools/pmoniconlg2/palmer-monicon-l-g2-active-passive-studio-monitor-controller
@@ -97,5 +99,3 @@
 26.08.2026 13:03:53	DFY Link Audio/Video Modul 4K	https://www.leteng.no/leteng-as/kde-blk-linkav/dfy-link-audio-video-modul-4k-usb-c-usb3-dot-2-1-5gbps
 25.08.2026 13:33:24	ACT Laptop brett for monitorarmer	https://www.leteng.no/act/ac8346/act-laptop-brett-for-monitorarmer-laptop-11-6-17-3-vesa-75x75
 25.08.2026 11:17:26	AVer TR322 - Auto Track PTZ-kamera Sort	https://www.leteng.no/aver/tr322b/aver-tr322-auto-track-ptz-kamera-sort-dual-lens-22x-zoom
-25.08.2026 10:27:28	Chief Takring for CMS og CPAE	https://www.leteng.no/chief-manufacturing-inc-dot-/cpa640w/chief-takring-for-cms-og-cpae-hvit
-24.08.2026 14:28:26	Cypress Extender HDMI - HDCP med OAR Rx	https://www.leteng.no/cypress/ch-1529rx/cypress-extender-hdmi-hdcp-med-oar-rx-audio-insertion-4k-maks-70-m

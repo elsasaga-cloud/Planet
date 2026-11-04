@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-03T09:43:52Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-04T09:30:29Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -268,7 +268,6 @@ Fog generators
 BANDIT
 Inim
 Junction boxes
-Ajax
 Ajax Certified
 Alarmtech
 KnightPlastic
@@ -429,6 +428,7 @@ Dotworkz
 EIZO
 Hanwha
 Hikvision
+Honeywell Security
 Inim
 IQsight
 Mobotix
@@ -535,6 +535,7 @@ Neomounts
 Switches
 Alpha
 Axis Communications
+Bosch Fire
 ComNet
 Dahua
 elbaC - Alpha
@@ -596,14 +597,12 @@ Ajax
 Cellhire
 Tele2 IoT
 Accesories
-2N
 Axis Communications
 Bysecur
 ComNet
 Davantis
 Dell
 elbaC - Alpha
-Foxstream
 Genetec
 Hikvision
 Infosec
@@ -946,6 +945,7 @@ Inim
 Inim Addressable Fire
 Emergency voice communication systems
 Eaton
+Honeywell Fire
 Kidde
 Accessories
 Ajax
@@ -989,6 +989,7 @@ Alpha
 ALTEC ATLS
 Aten
 Axis Communications
+Bosch Fire
 Bysecur
 ComNet
 Dahua
@@ -1040,6 +1041,7 @@ Venitem
 Yuasa
 Accessories
 Axis Communications
+Bosch Fire
 Bysecur
 Enersys
 Infosec
@@ -1184,22 +1186,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Bandit Fog Generators
-3 November
-@ SmartSD Breda (NL)
-24 November
-@ SmartSD Merchtem (BE)
-4 December
-@ SmartSD Merchtem (BE)
-2N CIP Certified Training
-3 November
-@ SmartSD Merchtem (BE)
-10 November
-@ SmartSD Lisses (FR)
-24 November
-@ SmartSD Breda (NL)
-10 December
-@ SmartSD Merchtem (BE)
 Akuvox Intercom Basics
 4 November
 @ SmartSD Breda (NL)
@@ -1222,6 +1208,13 @@ Hikvision HCSA-CCTV Certification Training
 18 November
 @ SmartSD Breda (NL)
 2 December
+@ SmartSD Merchtem (BE)
+2N CIP Certified Training
+10 November
+@ SmartSD Lisses (FR)
+24 November
+@ SmartSD Breda (NL)
+10 December
 @ SmartSD Merchtem (BE)
 Dahua Basic Training & Hands-on
 11 November
@@ -1267,6 +1260,13 @@ Basic Networking Knowledge
 @ SmartSD Merchtem (BE)
 16 December
 @ SmartSD Merchtem (BE)
+Bandit Fog Generators
+24 November
+@ SmartSD Merchtem (BE)
+4 December
+@ SmartSD Merchtem (BE)
+18 December
+@ SmartSD Breda (NL)
 acre Access Control Basics
 25 November
 @ SmartSD Merchtem (BE)

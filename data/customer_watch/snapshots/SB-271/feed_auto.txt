@@ -1,4 +1,4 @@
-# SB-271 dodicelettronica.it · feed_auto · https://www.dodicgroup.it/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-271 dodicelettronica.it · feed_auto · https://www.dodicgroup.it/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Mon, 02 Nov 2026 09:34:58 +0000	Presentazione Arteco – Latina	https://www.dodicgroup.it/presentazione-arteco-latina-18-11-2026/
 Mon, 26 Oct 2026 13:51:32 +0000	Corso Ajax – Roma Nord	https://www.dodicgroup.it/corso-ajax-roma-nord-19-11-2026/
 Mon, 26 Oct 2026 13:22:18 +0000	Corso Ajax – Latina	https://www.dodicgroup.it/corso-ajax-latina-12-11-2026/

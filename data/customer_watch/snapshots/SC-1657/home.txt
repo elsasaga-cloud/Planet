@@ -1,4 +1,4 @@
-# SC-1657 San Telequip Pvt. Ltd. · home · https://santelequip.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-1657 San Telequip Pvt. Ltd. · home · https://santelequip.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Home - San Telequip
 SEARCH
 Home
@@ -59,6 +59,7 @@ LoRa Gateway
 Lite Managed Ethernet
 Switches
 L2 Lite Managed Ethernet Switches
+L3 Lite Managed Ethernet Switches
 Applications ▾
 Oil & Gas
 System Integrator
@@ -131,7 +132,7 @@ Industrial VPN Routers
 Smart Alert Gateways
 Cellular Modems
 MQTT Gateway
-Protocol Gateways
+Protocol Gateways/Converters
 BacNet Gateway
 Modbus RTU to Modbus TCP Gateways
 PROFINET Convertor
@@ -140,6 +141,9 @@ CANopen Convertor
 EtherCAT Convertor
 IO's Gateway
 LORA Gateway
+Lite Managed Ethernet Switches
+L2 Lite Managed Ethernet Switches
+L3 Lite Managed Ethernet Switches
 Applications
 Oil & Gas
 System Integrator

@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
-2026-11-03	https://www.streakwave.com/
-2026-11-03	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-04	https://www.streakwave.com/
+2026-11-04	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
@@ -131,6 +131,9 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-03	https://www.streakwave.com/zvc-s90-c5u-zoom-rooms-system
+2026-11-03	https://www.streakwave.com/zvc-s98-c5u-zoom-rooms-system
+2026-11-03	https://www.streakwave.com/vcr11-remote-control
 2026-10-30	https://www.streakwave.com/cs10-d-dante-network-ceiling-loudspeaker
 2026-10-29	https://www.streakwave.com/uh46-mono-teams-usb-wired-headset
 2026-10-29	https://www.streakwave.com/uh46-dual-uc-usb-wired-headset
@@ -191,7 +194,4 @@
 2026-10-07	https://www.streakwave.com/200-zyxel-nebula-points-for-nss
 2026-10-07	https://www.streakwave.com/20-zyxel-nebula-points-for-nss
 2026-10-07	https://www.streakwave.com/100-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/10-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/48-port-sfp-layer-3-managed-switch-dual-ac
-2026-10-07	https://www.streakwave.com/48-port-sfp-layer-3-managed-switch-single-dc
-2
+2026-10-07	https://www.streakwave.com/1

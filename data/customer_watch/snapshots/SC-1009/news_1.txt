@@ -1,4 +1,4 @@
-# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-04T09:30:29Z · HTTP 200
 Blog | Varel Alarm
 Kurumsal expand_more
 Hakkımızda
@@ -148,6 +148,10 @@ Devamını Oku arrow_forward
 News
 Büyük Tesislerde Geçiş Kontrolünün Merkezi: Siemens SiPass AC5102
 Siemens SiPass integrated AC5102 merkezi kontrolör, 96 kapıya kadar ve 500.000 kart sahibini tek noktadan yönetir. Hangi projelere uygun, sisteme nasıl yerleşir?
+Devamını Oku arrow_forward
+News
+Kablo Çekilemeyen Binalarda Yangın Algılama: Siemens Cerberus PRO SWING
+Siemens SWING kablosuz yangın algılama sistemi mesh teknolojisi ve ASATechnology ile tarihi yapılar, müzeler ve faaliyetteki binalar için güvenilir koruma sağlar.
 Devamını Oku arrow_forward
 A member of
 VAG Group

@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Bulk Fiber Internet, TV and Phone for Florida Communities | Broadstar
 Skip to content
 Menu
@@ -145,8 +145,7 @@ Dedicated fiber pair per unit
 Typical Competitor (G-PON)
 Shared fiber split among up to 64 units
 Serving Communities of Every Kind
-From waterfront high-rises to inland HOAs, from active senior communities to student housing,
-BroadStar builds and manages fiber networks for every type of multi-dwelling property.
+From waterfront high-rises to inland HOAs, from active senior communities to student housing, BroadStar builds and manages fiber networks for every type of multi-dwelling property.
 HOA Communities
 Condominiums
 Apartments
@@ -157,8 +156,7 @@ OUR FOOTPRINT
 Serving Communities Across Florida - and Growing
 Now Serving: Florida, Georgia, Alabama, Texas, and Illinois.
 Ready to Bring Fiber to Your Community?
-Future-Proof Your Community with the fastest and most reliable service, anywhere.
-Contact us below for a free, no-obligation site survey.
+Future-Proof Your Community with the fastest and most reliable service, anywhere. Contact us below for a free, no-obligation site survey.
 West Palm Beach
 Serving HOAs, COAs, Apartment Associations & more
 Get a Proposal for this Area
@@ -183,6 +181,7 @@ Get a Proposal for this Area
 Please enable JavaScript in your browser to complete this form.
 Your Name * First
 Last
+we Property Date
 Email *
 Phone *
 Community or Property Name *
@@ -205,7 +204,6 @@ Services of Interest Internet
 BroadStreamTV
 Phone
 Current Provider and Contract End Date (if known)
-Property Provider Property
 Anything else we should know?
 Request My Proposal
 Prefer to talk? Call (877) 207-4188 or email sales@broadstar.com

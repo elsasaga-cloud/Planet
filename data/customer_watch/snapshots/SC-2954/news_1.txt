@@ -1,4 +1,4 @@
-# SC-2954 videcon.co.uk · news_1 · https://videcon.co.uk/news/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2954 videcon.co.uk · news_1 · https://videcon.co.uk/news/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Company And Industry News - Videcon - Videcon
 Toggle menu
 +44 (0) 1924 528000
@@ -76,6 +76,10 @@ or
 Register
 Home
 Company And Industry News - Videcon
+Uniview GUI | A New Look, A Familiar Experience
+Posted by Siobhan Gilmore on 3rd Nov 2026
+When you're configuring and managing a CCTV system, the interface you use can make a real difference. Finding the right setting, switching between menus, and working across multiple screens can all ad
+… read more
 The Videcon News | September Round-Up
 Posted by Siobhan Gilmore on 2nd Oct 2026
 September has been another busy month at Videcon, with new product developments, industry events and plenty of opportunities to strengthen your product knowledge.
@@ -94,11 +98,6 @@ WD | Smart Storage for AI Analytics
 Posted by John Brown on 11th Sep 2026
 Built to withstand temperature fluctuations, equipment vibrations, harsh environments, and tested for compatibility with a wide range of security and high-capacity gateway appliance systems.
 Every
-… read more
-The Videcon News | August Round-Up
-Posted by Siobhan Gilmore on 1st Sep 2026
-It’s been another busy month at Videcon, with new products, practical security solutions, upcoming technology and plenty happening across the industry.
-From lockdown solutions and active deterre
 … read more
 1
 2

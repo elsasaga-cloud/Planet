@@ -1,4 +1,5 @@
-# SC-1339 econtroldevices.com · youtube · https://www.youtube.com/@econtroldevices1575 · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-1339 econtroldevices.com · youtube · https://www.youtube.com/@econtroldevices1575 · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-04T09:20:30+00:00	How Do Thermal Pads Help Manage Heat in Electronics? 🌡️ | E Control Devices	https://www.youtube.com/watch?v=n1WNVphgtOk
 2026-10-29T11:57:47+00:00	Industrial Engineering Solutions for Thermal Management, Automation & Electronics	https://www.youtube.com/watch?v=Q9ex45yv-fg
 2026-10-26T08:55:19+00:00	AI Data Centre Cooling with Inventec THERMASOLV™ | IM6 & CF3	https://www.youtube.com/watch?v=XAy-o01d1m8
 2026-10-24T06:36:49+00:00	Discover Panasonic Relay Solutions offered by E Control Devices	https://www.youtube.com/watch?v=ePm6STG2KvE
@@ -13,4 +14,3 @@
 2026-09-15T11:10:29+00:00	Why Electronics Need Precision Cleaning | Electronic Cleaning Solutions	https://www.youtube.com/shorts/aSHcu9Eu7lk
 2026-09-11T12:05:01+00:00	Why AI Data Centers Need Better Cooling | Thermal Management	https://www.youtube.com/shorts/8tWA2m5ALrQ
 2026-09-08T10:52:02+00:00	Teltonika Industrial Routers: Where Reliable Remote Connectivity Matters	https://www.youtube.com/shorts/9azmDU9kJaM
-2026-09-03T12:00:31+00:00	Case Study: Solving a Solar EPC Company's Sourcing Challenge | E Control Devices	https://www.youtube.com/watch?v=e-be8C0r_H4

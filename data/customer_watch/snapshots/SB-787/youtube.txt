@@ -1,4 +1,5 @@
-# SB-787 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-787 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-03T19:13:57+00:00	Balancing Next-Gen Networks with Grid Reliability	https://www.youtube.com/watch?v=V92XitsFkYs
 2026-10-28T20:38:36+00:00	Support Site | Support	https://www.youtube.com/watch?v=SF_w3CzNLWw
 2026-10-21T15:47:13+00:00	RS-366 Dial-Up Fiber Optic Modem | TC1230	https://www.youtube.com/watch?v=5fM-0aVDfGU
 2026-10-02T14:44:26+00:00	T3 / E3 Fiber Optic Modem | TC1680	https://www.youtube.com/watch?v=LNe3gO_Ib2Y
@@ -13,4 +14,3 @@
 2026-05-27T15:42:54+00:00	600 Ohm Analog & Dry Contact-over-T1/E1 Multiplexer | TC8624	https://www.youtube.com/watch?v=bfJUlIp4LW8
 2026-05-19T16:04:10+00:00	Video Application Note: Connecting Mobile Substations in Rugged Environments with JumboSwitch	https://www.youtube.com/watch?v=C5QcD_ZDJB0
 2026-05-13T15:54:42+00:00	Video Case Study: Old Equipment; New Problem: Solving Legacy Device Issues for a Utility	https://www.youtube.com/watch?v=fN4sOT40kXw
-2026-05-05T15:22:50+00:00	C37.94-Over-T1/E1 Multiplexer | TC8616	https://www.youtube.com/watch?v=zElFevEd4c4

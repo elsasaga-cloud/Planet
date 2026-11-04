@@ -1,4 +1,4 @@
-# SB-086 TAILYN · news_2 · https://www.tailyn.com.tw/en/investor/Announcements/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-086 TAILYN · news_2 · https://www.tailyn.com.tw/en/investor/Announcements/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Investor Relations ｜ Tailyn Technologies, Inc.
 Investor Relations
 Language：
@@ -264,6 +264,7 @@ Monthly Revenues
 2018
 2017
 2016
+None
 Financial Reports
 2026
 First Quarter
@@ -362,4 +363,4 @@ Respect the rights and interests of stakeholders.
 Enhance information transparency.
 The Company follows the Criteria Governing Establishment of Internal Control Systems by Public Reporting Companies and takes into consideration the overall operational activities of itself and its subsidiaries to design and fully implement an internal control system, and shall conduct continuing reviews of the system, so as to ensure the continued effectiveness of its design and implementation in light of changes in the Company's internal and external environment.
 The Board of Directors and management shall review the results of the self-assessments by each department on an annual basis and the audit report of the internal audit department.
-The Company’s Audit Committee shall also attend to and supervise these matters. The management of the Company shall pay special attention to the internal audit department and its personnel, fully empower them and urge them to conduct audits effectively
+The Company’s Audit Committee shall also attend to and supervise these matters. The management of the Company shall pay special attention to the internal audit department and its personnel, fully empower them and urge them to conduct audits effect

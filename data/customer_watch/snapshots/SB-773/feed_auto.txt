@@ -1,4 +1,4 @@
-# SB-773 microseven.com · feed_auto · https://blog.microseven.com/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-773 microseven.com · feed_auto · https://blog.microseven.com/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Tue, 24 Feb 2026 02:03:18 +0000	Microseven IP Camera Installation Guide – SD Card, WiFi Antenna, Power & Mounting	https://blog.microseven.com/microseven-ip-camera-installation-guide-sd-card-wifi-antenna-power-mounting/
 Sun, 22 Feb 2026 20:04:40 +0000	How to Clear All Preset Positions	https://blog.microseven.com/how-to-clear-all-preset-positions/
 Thu, 19 Feb 2026 20:06:55 +0000	AI Auto Tracking Setup Guide – 14X Optical Zoom PTZ Camera (M7D4K-PTZV14X-WPSAA | M7D5MP-PTZV14X-WPSAA)	https://blog.microseven.com/ai-auto-tracking-setup-guide-14x-optical-zoom-ptz-camera-m7d4k-ptzv14x-wpsaa-m7d5mp-ptzv14x-wpsaa/

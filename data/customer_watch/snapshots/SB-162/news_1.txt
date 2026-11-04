@@ -1,4 +1,4 @@
-# SB-162 optigo.net · news_1 · https://www.optigo.net/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-162 optigo.net · news_1 · https://www.optigo.net/blog/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Blog Archive | Optigo Networks
 Skip to content
 Products
@@ -55,6 +55,10 @@ Uncategorized
 Video
 Webinars
 Remove filters
+OptigoVN AI Assistant Walkthrough: BACnet Troubleshooting
+Take a walkthrough of some of the features in the new Optigo AI Assistant, led by Optigo Networks Co-Founder, CTO,...
+Read More >
+Announcements , Network Management , OptigoVN
 How to Implement Zero Trust Principles in an Existing OT Network
 Implement Zero Trust security in OT networks to reduce risk, enforce access controls, and gain full visibility with OptigoVN....
 Read More >
@@ -87,10 +91,6 @@ IT OT Convergence: 3 Big Reasons IT Pros Should Care
 Discover why IT professionals must understand OT networks for energy efficiency and cybersecurity as IT OT convergence progresses....
 Read More >
 Network Management , OptigoVN , Troubleshooting Tips
-How to Use a BBMD in OT Networks
-BBMDs act as a sort of forwarding service. They’re especially useful on large, complicated networks. A BBMD forwards messages from...
-Read More >
-BACnet Terminology , Network Management
 Stay Updated with Our Latest Posts
 Subscribe our newsletter and get handpicked articles, exclusive insights, and bi-weekly roundups delivered straight to your inbox. No spam, ever.
 Free Forever
@@ -100,7 +100,7 @@ Unsubscribe Anytime
 Browse by Topic
 Explore our diverse collection of categories to find content that resonates with you.
 Announcements
-9 articles
+10 articles
 View Topic
 BACnet Terminology
 55 articles
@@ -124,13 +124,13 @@ Network Management
 143 articles
 View Topic
 OptigoVN
-75 articles
+76 articles
 View Topic
 Podcast
 10 articles
 View Topic
 Troubleshooting Tips
-62 articles
+61 articles
 View Topic
 Uncategorized
 10 articles

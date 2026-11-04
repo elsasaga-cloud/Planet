@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · home · https://digital-watchdog.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2598 digital-watchdog.com · home · https://digital-watchdog.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Digital Watchdog l Welcome
 Welcome
 Products
@@ -45,6 +45,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Recorders
 Metapix AI
 Blackjack Ai Servers and Appliances
@@ -61,6 +63,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Network Devices
 Blackjack® Workstations
 Compressor™ Encoders
@@ -79,6 +83,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Software
 myDW
 DW® IP Finder
@@ -96,6 +102,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Mobile Apps
 DW Spectrum® Mobile
 DW Mobile Plus™
@@ -111,6 +119,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Star-Light Plus™ Cameras
 Star-Light Plus™ Ball Turrets Cameras
 Star-Light™ Bullet Cameras
@@ -126,6 +136,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Recorders
 VMAX® A1 G4™ DVRs
 Product Calculator
@@ -138,6 +150,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Network Devices
 Compressor™ Encoders
 DW® Spot™ Monitoring Stations
@@ -151,6 +165,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Software
 C3™ CMS
 View All
@@ -164,6 +180,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Mobile Apps
 DW Mobile Plus™ App
 DW SiteViewer™ Apple TV
@@ -178,6 +196,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Product Calculator
 Determine the necessary bandwidth and storage you need to operate our products.
 Accessories
@@ -188,6 +208,8 @@ Product Demos
 View DW’s software, recorders and cameras in action.
 DW ® Warranty
 Learn more about our product warranty.
+New Products
+Check out the latest products now available.
 Solutions
 Company
 Meet
@@ -353,24 +375,6 @@ Book a Demo
 Portal
 Demo
 Search Keywords
-Days
-Hours
-Minutes
-Seconds
-Camera to Cloud:
-Proactive Video Surveillance That Scales with You.
-LOOK FOR AT 2026.
-Stand 701, November 3 –5, 2026 Javits Center, NYC.
-Register for Free
-Camera to Cloud:
-Proactive Video Surveillance That Scales with You.
-LOOK FOR AT 2026.
-Stand 701, November 3 –5, 2026 Javits Center, NYC.
-Register for Free
-Days
-Hours
-Minutes
-Seconds
 Thermal detection.
 Verify in 5MP color.
 • Bispectral video security.
@@ -503,9 +507,4 @@ VMax IP Plus
 VMax A1
 Star-Light Plus HD Over Coax Cameras
 E.S.T - Elevated Skin Temperature System
-By checking this box, you agree to receive SMS messages from Digital Watchdog. You can reply 'STOP' to opt-out at any time.
-Thank you so much for your message!
-Your request is being submitted. Please do not refresh the page or close it.
-Required information is missing. Please fill in the indicated fields and resubmit.
-Click Here
-Contact Technical Suppor
+By checking this box, you agree to receive SMS messages from Digital Watchdog. Yo

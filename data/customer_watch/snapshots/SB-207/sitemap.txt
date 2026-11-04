@@ -1,4 +1,4 @@
-# SB-207 ccontrols.de · sitemap · https://ccontrols.de/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-207 ccontrols.de · sitemap · https://ccontrols.de/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 2024-05-16T15:05:35+00:00	https://www.ccontrols.de/
 2024-05-16T15:05:35+00:00	https://www.ccontrols.de/index.htm
 2024-05-16T15:05:27+00:00	https://www.ccontrols.de/basautomation/index.htm

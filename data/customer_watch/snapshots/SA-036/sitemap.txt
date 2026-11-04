@@ -1,6 +1,10 @@
-# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-04T09:30:29Z · HTTP 200
 	https://svn-video.ru/wi-fi-oborudovanie/kabel-utp-4pr-24awg-cat5e-305m
 	https://svn-video.ru/konnektery-razemy/soedinitel-rca-papa--rca-papa-
+	https://svn-video.ru/index.php?route=product/product&product_id=672
+	https://svn-video.ru/index.php?route=product/product&product_id=673
+	https://svn-video.ru/index.php?route=product/product&product_id=674
+	https://svn-video.ru/index.php?route=product/product&product_id=669
 	https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe1612
 	https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe2412
 	https://svn-video.ru/poe-oborudovanie/poe
@@ -134,6 +138,8 @@
 	https://svn-video.ru/zhestkie-diski-dlya-videonabludeniya/hdd-2tb
 	https://svn-video.ru/zhestkie-diski-dlya-videonabludeniya/hdd-4tb
 	https://svn-video.ru/zhestkie-diski-dlya-videonabludeniya/hdd-6tb
+	https://svn-video.ru/index.php?route=product/product&product_id=676
+	https://svn-video.ru/index.php?route=product/product&product_id=675
 	https://svn-video.ru/bloki-pitaniya-dlya-videonabludeniya/ivep-1220g
 	https://svn-video.ru/bloki-pitaniya-dlya-videonabludeniya/ivepr-1280am-17
 	https://svn-video.ru/konnektery-razemy/kabel-hdmi-1-5m-1-4v
@@ -223,9 +229,3 @@
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/sonyhit512
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/sonyhit521
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500bqaf3
-	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500sbc3
-	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-800mbaf3
-	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-200sba3
-	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-300r4xm
-	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-200pl4
-	https://svn-video.ru/gotovye-komplekty-videonab

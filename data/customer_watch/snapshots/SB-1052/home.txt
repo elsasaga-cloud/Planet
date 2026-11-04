@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -37,6 +37,17 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+8P8C mod.dugasz,árnyékolt Cat.6 átmenő P88R5Z50V2ST
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: K288542-EASY
+Ár:
+110 Ft + ÁFA
+(140 Ft)
+1000 db raktáron
+db
+Kosárba
+Részletek
 Fésűs panel mini szekrényhez fekete DN-10-ORG-1-2U-B
 ÚJDONSÁG!
 Villámnézet
@@ -138,18 +149,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-14955 m raktáron
-m
-Kosárba
-Részletek
-UTP CAT6 falkábel, LSZH 305m DK-1613-VH-305
-Akciós!
-Villámnézet
-Cikkszám: TA-K617LSZHD
-Ár:
-158 Ft + ÁFA
-(201 Ft)
-Német raktáron, érkezés: 1-2 hét
+10955 m raktáron
 m
 Kosárba
 Részletek
@@ -159,7 +159,18 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-11652 m raktáron
+18972 m raktáron
+m
+Kosárba
+Részletek
+UTP CAT6 falkábel, LSZH 305m DK-1613-VH-305
+Akciós!
+Villámnézet
+Cikkszám: TA-K617LSZHD
+Ár:
+195 Ft + ÁFA
+(248 Ft)
+Német raktáron, érkezés: 1-2 hét
 m
 Kosárba
 Részletek
@@ -169,7 +180,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 216 Ft + ÁFA
 (274 Ft)
-9200 m raktáron
+8285 m raktáron
 m
 Kosárba
 Részletek
@@ -179,7 +190,7 @@ Cikkszám: K1142050FÖLD
 Ár:
 175 Ft + ÁFA
 (222 Ft)
-1709 m raktáron
+1209 m raktáron
 m
 Kosárba
 Részletek
@@ -189,7 +200,7 @@ Cikkszám: K1120501C6ADIG
 Ár:
 217 Ft + ÁFA
 (276 Ft)
-9665 m raktáron
+17900 m raktáron
 m
 Kosárba
 Részletek
@@ -199,17 +210,7 @@ Cikkszám: TA-K661ADIG
 Ár:
 230 Ft + ÁFA
 (292 Ft)
-13730 m raktáron
-m
-Kosárba
-Részletek
-FTP Cat5 földkábel FTK5814,DK-1521-V-5-OD
-Villámnézet
-Cikkszám: K1142060FÖLD
-Ár:
-186 Ft + ÁFA
-(236 Ft)
-3173 m raktáron
+11290 m raktáron
 m
 Kosárba
 Részletek
@@ -229,8 +230,18 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-957 db raktáron
+1827 db raktáron
 db
+Kosárba
+Részletek
+FTP Cat5 földkábel FTK5814,DK-1521-V-5-OD
+Villámnézet
+Cikkszám: K1142060FÖLD
+Ár:
+186 Ft + ÁFA
+(236 Ft)
+3173 m raktáron
+m
 Kosárba
 Részletek
 Kiemelt ajánlatunk
@@ -252,7 +263,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-14955 m raktáron
+10955 m raktáron
 m
 Kosárba
 Részletek
@@ -262,7 +273,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-957 db raktáron
+1827 db raktáron
 db
 Kosárba
 Részletek
@@ -272,7 +283,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-11652 m raktáron
+18972 m raktáron
 m
 Kosárba
 Részletek
@@ -362,16 +373,4 @@ Nyitva: hétköznap -
 sales@lan.hu | rendeles@lan.hu
 Külső raktár
 H-1151 Bp. Székely Elek út 11.
-Nyitva: hétköznap -
-+36 1/415 2321 | sales@lan.hu
-Információk
-Főoldal
-TERMÉKEK
-e-számla
-Műszerbérlés 2026
-Hálózat
-Bemutatkozás
-kapcsolat ai
-Garancia
-Letölthető dokumentumok
-Kapcsol
+Nyitva: hétközna

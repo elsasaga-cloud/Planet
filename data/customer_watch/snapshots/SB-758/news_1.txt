@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-04T09:30:29Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -119,6 +119,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+Why Radiation-Resistant Fiber Optics Matter in Low Earth Orbit
+Low Earth Orbit (LEO) is becoming increasingly important for satellite communications, Earth observation and other data-intensive space applications. As satellites process and transfer growing volumes of data, the demands placed on onboard connectivity are increasing. High data capacity must be combined with low weight, compact dimensions and reliable operation throughout the mission.
+Read more
 Unmanned Systems and Automation: Changing the Future of Defence Operations
 Unmanned systems are becoming an increasingly important part of modern defence operations. From aerial surveillance and reconnaissance to logistics, engineering and operations in hazardous environments, UAVs and UGVs are extending the reach of military personnel while reducing the need to expose people to unnecessary risk.
 Read more
@@ -212,10 +215,4 @@ OFC Conference 2025
 Foss team attended the OFC Conference 30th March to 3th April 2025 in Moscone Convention Center in San Francisco, USA
 Read more
 Data Centres - Overview
-A data centre is a physical space that houses the hardware and computing systems that support a business' digital activity. Data centres store critical data and applications, such as email, databases, and customer relationship management (CRM) systems.
-Read more
-Reliable fiber optic solutions for safety and communication in the transport sector
-Roads and railways place great demands on the network's reliability. The fiber optic equipment must withstand both mechanical stress an large temperature variations. This can make standard materials unsuitable.
-Read more
-High quality products designed for extreme environments
-Rough maritime environments r
+A data centre is a physical space that houses the hardware and computing systems that support a business' digital activity. Data centres store critical data and applications, such as email, da

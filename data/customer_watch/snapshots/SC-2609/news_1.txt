@@ -1,5 +1,6 @@
-# SC-2609 partizanstore.eu · news_1 · https://www.partizanstore.eu/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2609 partizanstore.eu · news_1 · https://www.partizanstore.eu/blog/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Blog - PartizanStore.eu
+Cookie consent
 Tento web používá soubory cookie. Dalším procházením tohoto webu vyjadřujete souhlas s jejich používáním. Více informací zde
 Nastavení
 Souhlasím
@@ -34,6 +35,7 @@ Přihlášení
 Hledat
 Nákupní košík
 Prázdný košík
+VÝPRODEJ
 IP kamerové systémy Cloud kamery
 Bullet ,
 Dome (Turret)

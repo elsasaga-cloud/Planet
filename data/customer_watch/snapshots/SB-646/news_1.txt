@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-04T09:30:29Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,10 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 57 içerik).
+Sektörden güncel haberler ve analizler ( 58 içerik).
+Marka Duyurusu Intel, Kuantum Yazılımı Classiq'i Bünyesine Katıyor
+Intel, kuantum yazılım firması Classiq'i satın alarak silikon spin-kübit donanımıyla tam yığın kuantum bilgisayar iş koluna geçiyor.
+03 Kasım 2026
 Yapay Zekâ DeepSeek v4.1 Flash Tanıtıldı: Hız ve Yetenek
 DeepSeek, yeni v4.1 Flash modelini duyurdu. Hızlı ve verimli yapısıyla dikkat çeken model, geliştirici topluluğunda ses getirdi.
 03 Kasım 2026
@@ -138,9 +141,6 @@ Veeam, Intelligent ResOps for Microsoft 365'i genel kullanıma sundu. AI ajanlar
 18 Ekim 2026
 İnceleme NVIDIA RTX Spark N1X'li Dizüstüler İncelendi
 HP ve Lenovo'nun RTX Spark N1X'li yeni dizüstüleri karşılaştırıldı: performans, bellek ve soğutma farkları netleşti.
-18 Ekim 2026
-İnceleme Asus ProArt P16 RTX Spark: İlk İncelemeler Geldi
-NVIDIA'nın ilk dizüstü SoC'u N1X ile donatılan Asus ProArt P16, ARM mimarisini RTX 50 serisi GPU gücüyle birleştiriyor.
 18 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

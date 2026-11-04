@@ -1,4 +1,4 @@
-# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Giải pháp công nghệ
 Search:
 Tìm kiếm
@@ -178,11 +178,11 @@ Ngày nay thiết bị chuyển đổi quang đã ứng dụng rộng rãi trong
 Trên Converter quang điện có 6 đèn LED báo trạng thái làm việc, biết cách xem đèn trên Converter quang điện sẽ giúp ta biết được hệ thống mạng đang làm việc ra sao và giúp ta khắc phục nhanh hệ thống mạng khi sự cố xảy ra.
 Cổng SFP trên Switch Gigabit là gì?
 28/10/2022
-104
+105
 Cổng SFP được thiết kế để sử dụng với các đầu nối hệ số dạng nhỏ (SFP), mang lại tốc độ cao và độ gọn nhẹ. Nó cho phép chuyển mạch Gigabit và liên kết quang hoặc đồng bằng cách chèn module quang SFP tương ứng (SFP sợi quang hoặc SFP Ethernet). Bất kể liên kết cổng quang hay cổng Ethernet.
 So sánh giữa cáp quang ống lỏng và cáp quang đệm chặt
 28/10/2022
-249
+253
 Cáp quang ống lỏng và cáp quang đệm chặt đều có cùng sợi trần 250um và có lõi sợi cùng kích thước. Tuy nhiên, sự khác biệt của chúng nằm ở cấu tạo cáp, và mỗi loại lại được ứng dụng trong những trường hợp khác nhau. Ở bài viết này chúng ta cùng tìm hiểu xem những ứng dụng, ưu và nhược điểm của 2 loại cáp này.
 Tìm hiểu về sự suy hao sợi quang.
 28/10/2022

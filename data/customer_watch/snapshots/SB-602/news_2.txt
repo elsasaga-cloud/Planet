@@ -1,4 +1,4 @@
-# SB-602 ANIL · news_2 · https://aniltelekom.com/tr/blog/genel · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-602 ANIL · news_2 · https://aniltelekom.com/tr/blog/genel · fetched 2026-11-04T09:30:29Z · HTTP 200
 Genel - Blog - Anıl Telekom
 Yükleniyor
 İletişim
@@ -93,6 +93,8 @@ BLOG
 Anasayfa
 Blog
 Genel
+Dahua NVR EI2 Serisi
+Yeni Nesil Yapay Zekâ Güç Merkezi
 Güvenlik Kameralarında Yapay Zekâ Teknolojisi Ne İşe Yarar?
 Yapay zekâ destekli güvenlik kameraları, insan ve araçları algılayarak gereksiz alarmları azaltır ve güvenlik takibini daha akıllı hale getirir.
 Doğru Switch Seçimi Nasıl Yapılır?
@@ -208,5 +210,4 @@ Dahua TPC-BF5641 Termal Kamera İncelemesi: Kapsamlı Rehber
 Dahua TPC-BF5641, 4MP çözünürlük, 35mm lens, hem termal hem de görünür ışık görüntüleme ve gelişmiş analizlerle donatılmış, çok yönlü bir termal kameradır.
 TP-Link Archer VR400 İncelemesi: Güçlü ve Uygun Fiyatlı Modem Yönlendirici
 TP-Link Archer VR400, 1.2 Gbps hıza, MU-MIMO desteğine ve gelişmiş VDSL2 teknolojisine sahip, uygun fiyatlı ve güçlü bir modem yönlendiricidir.
-Dahua CS4010-8GT-110: Güçlü ve Yönlendirilebilir PoE Switch
-Dahua CS4010-8GT-110, 8 PoE ba
+Dahua CS4010-8GT-110: Güçlü ve Yönl

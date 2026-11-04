@@ -1,4 +1,4 @@
-# SC-2725 todotelecom.com · news_1 · https://www.todotelecom.com/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2725 todotelecom.com · news_1 · https://www.todotelecom.com/blog · fetched 2026-11-04T09:30:29Z · HTTP 200
 Blog de Todo Telecom: novedades del sector, eventos y cursos
 965 784 463
 Envío gratuito*
@@ -55,8 +55,8 @@ ANVIZ
 Control de presencia Anviz W1C-PRO - Tarjeta EM, PIN, TCP/IP, CrossChex Cloud
 102,00 €
 170,00 €
-tax no inc.
-123,42 € tax inc.
+IVA no incl
+123,42 € IVA inc
 CCTV
 CAMARAS
 DOMO
@@ -112,8 +112,8 @@ HIKVISION HIWATCH
 Cámara IP domo HiWatch HWI-D140HA-LU - 4 MP, luz híbrida, audio, PoE
 71,35 €
 118,92 €
-tax no inc.
-86,34 € tax inc.
+IVA no incl
+86,34 € IVA inc
 Domótica
 DOMÓTICA
 ACTUADORES
@@ -128,15 +128,15 @@ LORA MIKROTIK
 NICE
 Módulo control persianas Nice Roll-Control 2 - motores AC, Z-Wave, medición energía
 106,00 €
-tax no inc.
-128,26 € tax inc.
+IVA no incl
+128,26 € IVA inc
 -52,7%
 NICE
 Central domótica Nice Yubii Home Basic - Z-Wave, WiFi, control hogar inteligente
 127,27 €
 269,06 €
-tax no inc.
-153,99 € tax inc.
+IVA no incl
+153,99 € IVA inc
 Electrónica de red / WIFI
 ANTENAS WIFI
 OMNIDIRECCIONALES
@@ -257,15 +257,15 @@ KINGSTON
 Pendrive Kingston USB 3.2 Gen 1 64Gb
 9,42 €
 12,56 €
-tax no inc.
-11,40 € tax inc.
+IVA no incl
+11,40 € IVA inc
 -25%
 OEM
 Pila de litio CR123A Safire BATT-CR123A - 3 V, 1600 mAh
-1,57 €
-2,10 €
-tax no inc.
-1,90 € tax inc.
+1,50 €
+2,00 €
+IVA no incl
+1,82 € IVA inc
 HDMI
 ACCESORIOS
 AMPLIFICADORES
@@ -281,15 +281,15 @@ ECON
 Cable HDMI 2.0 Econ E-526 - 15 m, 4K UHD, 18 Gbps, conectores chapados en oro
 10,84 €
 15,48 €
-tax no inc.
-13,11 € tax inc.
+IVA no incl
+13,11 € IVA inc
 Motores
 PERSIANAS
 IDEMO
 Motor persiana tubular Idemo STAR 45 - 45 mm, finales de carrera mecánicos, 230 V, IP44
 44,00 €
-tax no inc.
-53,24 € tax inc.
+IVA no incl
+53,24 € IVA inc
 Herramientas
 ACCESORIOS MONTAJE
 BRIDAS
@@ -319,8 +319,8 @@ PROSKIT
 Crimpadora para conectores RJ9, RJ10, RJ11, RJ12, RJ22 y RJ45. Corta y pela el cable. ABS
 11,99 €
 15,99 €
-tax no inc.
-14,51 € tax inc.
+IVA no incl
+14,51 € IVA inc
 Porteros
 PORTEROS ELECTRÓNICOS
 1 VIVIENDA
@@ -349,8 +349,8 @@ COMELIT
 Monitor Videoportero COMELIT CR7741 - Simplebus 2. Monitor Chronos Wi-Fi, Manos Libres, 5". Reconocimiento facial
 232,44 €
 332,05 €
-tax no inc.
-281,25 € tax inc.
+IVA no incl
+281,25 € IVA inc
 Receptores
 SATELITE
 TDT
@@ -376,8 +376,8 @@ CGV
 Receptor Satélite CGV E-Stick 4K Fransat - UHD 4K, Oficial, Eutelsat 5W, Formato Stick con tarjeta incluida PC7.
 107,84 €
 132,86 €
-tax no inc.
-130,49 € tax inc.
+IVA no incl
+130,49 € IVA inc
 Redes de datos
 CABLE DE DATOS
 CAT5E
@@ -414,8 +414,8 @@ HIKVISION
 SAI Hikvision DS-UPS1200-R - 1200 VA, 720 W, AVR, 4 Schuko. Negro
 75,05 €
 125,08 €
-tax no inc.
-90,81 € tax inc.
+IVA no incl
+90,81 € IVA inc
 Telefonía
 AURICULARES
 CENTRALITAS TELEFÓNICAS
@@ -434,8 +434,8 @@ VARIOS
 GRANDSTREAM
 Teléfono IP 2 cuenta SIP y 2 teclas de línea, x4 Teclas XML, 132 x 48 (2.21 ) LCD display.
 45,08 €
-tax no inc.
-54,55 € tax inc.
+IVA no incl
+54,55 € IVA inc
 Movilidad
 MOVILIDAD
 TRACKERS
@@ -444,8 +444,8 @@ TELTONIKA
 Localizador GPS Teltonika FMC230 - 4G LTE Cat 1/2G, GNSS, Bluetooth, entradas configurables, IP67
 84,00 €
 120,00 €
-tax no inc.
-101,64 € tax inc.
+IVA no incl
+101,64 € IVA inc
 Sonorización
 SONORIZACIÓN
 ALTAVOCES SONORIZACIÓN
@@ -459,8 +459,8 @@ CLICKTRONIC
 Cable audio óptico digital de 0.5mts con conector Toslink/Toslink
 11,51 €
 22,13 €
-tax no inc.
-13,93 € tax inc.
+IVA no incl
+13,93 € IVA inc
 Pantallas Profesionales
 PANTALLAS PROFESIONALES
 PANTALLAS COMERCIALES
@@ -470,8 +470,8 @@ MAXHUB
 Pantalla comercial 55" 4K, Anti-reflejo, Android 11.0, Wifi, Altavoces 2x10W, 4G RAM, WiFi-6
 1.049,33 €
 1.399,10 €
-tax no inc.
-1.269,68 € tax inc.
+IVA no incl
+1.269,68 € IVA inc
 Soportes TV
 SOPORTES TV
 10-37 PULGADAS
@@ -483,8 +483,8 @@ UNITRONIC
 Soporte TV UNITRONIC SOP228 - 32" a 55", 35 kg, articulado, VESA 400x400
 30,47 €
 43,53 €
-tax no inc.
-36,87 € tax inc.
+IVA no incl
+36,87 € IVA inc
 TV terrestre y satélite
 Recepción de la señal
 ANTENAS TV SATELITE
@@ -523,15 +523,15 @@ EK
 Central programable EKSELANS NOVUS PRO ICT - 5 entradas, 32 filtros ultraselectivos. DVB-T/T2+SAT, AGC
 404,16 €
 489,00 €
-tax no inc.
-489,03 € tax inc.
+IVA no incl
+489,03 € IVA inc
 -17,35%
 EK
 Antena UHF LTE2 (470 - 694MHz)
 64,71 €
 78,30 €
-tax no inc.
-78,31 € tax inc.
+IVA no incl
+78,31 € IVA inc
 Marcas
 Blog
 Descargas
@@ -769,8 +769,8 @@ Pendrive Kingston USB 3.2 Gen 1 64Gb
 9,42 €
 12,56 €
 Pila de litio CR123A Safire BATT-CR123A - 3 V, 1600 mAh
-1,57 €
-2,10 €
+1,50 €
+2,00 €
 HDMI
 ACCESORIOS
 AMPLIFICADORES
@@ -848,4 +848,6 @@ COMBO
 IPTV
 PAISES
 BELGICA
-FRANCI
+FRANCIA
+HOLANDA
+INGLATERR

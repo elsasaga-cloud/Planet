@@ -1,4 +1,4 @@
-# SC-2516 novuscctv.com · home · https://novuscctv.com/en · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2516 novuscctv.com · home · https://novuscctv.com/en · fetched 2026-11-04T09:30:29Z · HTTP 200
 NOVUS Professional solution for your security systems | Video surveillance (CCTV), Access control
 Skip to main content
 Home
@@ -17,116 +17,115 @@ Contact Export Department
 Technical Department
 Cameras
 We recommend
-8MPX panoramic IP camera with Deep Learning-based image analysis and active deterrence
-NVIP-8PVE-4501/FWLAD
-8MPX IP Camera with video content analysis
-NVIP-8H-8932M/F
-8 MPX Vandal Proof IP Camera with white light and IR illuminator
-NVIP-8VE-6101/WL/LITE
-New
-5 MPX Dual IP Camera (Thermal/Visual)
-NVIP-5VE-6711/TA/3-A
-New
-5 MPX Dual IP Camera (Thermal/Visual)
-NVIP-5H-6711/TA/7-A
-4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
-NVIP-4H-6602M/WL/F
-4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors
-NVIP-4VE-6602M/WL/F
 2 MPX Bullet IP Camera with white light and IR illuminator
 NVIP-2H-6103/WL/LITE
-8 MPX IP Motor-zoom Camera with video content analysis based on Deep Learning
-NVIP-8H-6522M/F-II/7043
+8 MPX Speed Dome IP Camera with intelligent object tracking
+NVIP-8SD-6540/25/F-II
+8MPX panoramic IP camera with Deep Learning-based image analysis and active deterrence
+NVIP-8PVE-4501/FWLAD
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5VE-6711/TA/7-A
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5H-6711/TA/3-A
+4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
+NVIP-4H-6602M/WL/F
+New
+4 MPX Special Purpose IP Camera
+NVIP-4DQ-6701/PC
+8MPX IP Camera with video content analysis
+NVIP-8H-8932M/F
+8 MPX Panoramic IP Camera with video content analysis and active deterrence
+NVIP-8PVE-6501/FWLAD
 4 MPX Bullet IP Camera with white light and IR illuminator
 NVIP-4H-6103/WL/LITE
 New
-Dual PTZ IP Camera (Thermal/Visual)
-NVIP-5DPT-8703/30/T/25
-New
 4 MPX IP LPR bullet camera with a motor-zoom lens
 NVIP-4H-6732M/LPR-A
+4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors
+NVIP-4VE-6602M/WL/F
 Lenses
 We recommend
 Recorders
 We recommend
 NOVUS MANAGEMENT SYSTEM VSS IP Recorder
-NMS VSS NVR X-2U-III-288TB
-Multistandard AHD Recorder
-NHDR-6016A-H1-II
-NOVUS MANAGEMENT SYSTEM VSS IP Recorder
-NMS VSS NVR X-2U-III-312TB
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NVSO VSS CLIENT 7-T-IV-2L
-NOVUS MANAGEMENT SYSTEM VSS IP Recorder
 NMS VSS NVR 3-4U-IV-R
-32-channel IP Recorder
-NVR-6332A-H2-II
-NOVUS MANAGEMENT SYSTEM VSS IP Recorder
-NMS VSS NVR 7-4U-IV-R
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NMS VSS CLIENT 5-R-IV
-Multistandard AHD Recorder
-NHDR-6004A-H1-II
-32-channel IP Recorder
-NVR-6332A-H4-II
+16-channel IP Recorder
+NVR-6216-H1/LITE
 8-channel IP Recorder
 NVR-6208P8-H1-II
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 7-R-IV
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 3-R-IV
+Multistandard AHD Recorder
+NHDR-6004A-H1-II
 NOVUS MANAGEMENT SYSTEM VSS IP Recorder
 NMS VSS NVR 5-4U-IV-R
+64-channel IP Recorder
+NVR-6364-H8/FR-II
+NOVUS MANAGEMENT SYSTEM VSS IP Recorder
+NMS VSS NVR X-2U-III-312TB
+NOVUS MANAGEMENT SYSTEM VSS IP Recorder
+NMS VSS NVR 7-4U-IV-R
+Multistandard AHD Recorder
+NHDR-6016A-H1-II
+128-channel IP Recorder
+NVR-64128-H16/FR
 Signal Transmission
 We recommend
-24-Port Ethernet PoE+ Switch
-NVS-3424SP
-4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
-NVS-G3404SP-EH
-PoE Injector
-NV-8000PS/HP
-16-port PoE+ Managed Switch
-NVS-5116SP
-16-Port Ethernet PoE+ Switch
-NVS-3416SP
-8-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
-NVS-G3408SP-EH
-New
-24-Port Gigabit Ethernet Managed PoE+ Switch
-NVS-G5424SP/400
-8-Port Ethernet PoE+ Switch for use in harsh environments.
-NVS-3408SP-EH
-SFP Module
-NV-03SFP/M
-Passive video transmitter/receiver
-NVPT-414V-II
-4-port PoE+ Switch
-NVS-3304SP
 16-Port Gigabit Ethernet PoE+ Switch
 NVS-G3416SP
+4-port PoE+ Switch
+NVS-3304SP
+8-Port Gigabit Ethernet PoE+ Switch
+NVS-G3408SP
+Passive video transmitter/receiver
+NVPT-414V-II
+16-Port Ethernet PoE+ Switch
+NVS-3416SP
+PoE Injector
+NV-8000PS/HP
+SFP-Ethernet Module
+NV-SFP-GE
+SFP Module Kit
+NV-24SFP/S
+24-Port Ethernet PoE+ Switch
+NVS-3424SP
+16-port PoE+ Managed Switch
+NVS-5116SP
+PoE Extender
+NV-101EP
+SFP Module
+NV-02SFP/S
 Video intercoms
 Other
 We recommend
+Multifunctional cable tester
+NV-300CT
 Pole mount adapter
 NVB-SD8500PA
+Rack mount bracket for 4000 Series NVRs
+NVR-4000/RACK
+Wall/ceiling mount bracket indoor/outdoor
+NVB-8560JB
+Corner mount adapter
+NVB-SD8500CA
+Corner mount adapter
+NVB-SD6500CA
+Wall mount bracket indoor/outdoor
+NVB-6080WB
 Conversion adapter for wall mount, indoor/outdoor
-NVB-6082CAP
+NVB-6081CAP
+Wall mount bracket indoor/outdoor
+NVB-8501WB
 Conversion adapter for wall mount, indoor/outdoor
 NVB-6083CAP
 Conversion adapter for wall mount, indoor/outdoor
-NVB-6081CAP
-Pole mount adapter
-NVB-SD6500PA
-Multifunctional cable tester
-NV-300CT
-Wall mount bracket indoor/outdoor
-NVB-6080WB
-Wall mount bracket indoor/outdoor
-NVB-8501WB
-Wall mount bracket, indoor/outdoor
-NVB-8501CAP
-Wall mount bracket indoor/outdoor
-NVB-SD8500JB
-Rack mount bracket for 4000 Series NVRs
-NVR-4000/RACK
-30W IP horn speaker
-NV-IPS8030/M
+NVB-6082CAP
+Input/Output alarm module
+NV-6000AL16/6
 NMS VSS
 NMS AC
 ANPR
@@ -163,7 +162,7 @@ Read more about Newsletter
 Русский
 Software
 The new version of NOVUS MANAGEMENT SYSTEM AC software v.6.07.016
-Version 6.07.016Date: 30 October 2026The new version 6.07.016 of NOVUS MANAGEMENT SYSTEM AC software is now available. SecurityAdded multi...
+The new version 6.07.016 of NOVUS MANAGEMENT SYSTEM AC software is now available. Version 6.07.016 Date: 30 October 2026 Key...
 Press
 NOVUS and Safestar – new integration opening up even more possibilities for remote monitoring
 NOVUS and Safestar – new integration opening up even more possibilities for remote monitoringWe are pleased to announce that NOVUS 6000...
@@ -171,16 +170,16 @@ Press
 NOVUS MANAGEMENT SYSTEM AC with SALTO integration
 NOVUS MANAGEMENT SYSTEM AC with SALTO integrationWith the release of NOVUS MANAGEMENT SYSTEM AC 6.06.017, we have expanded the system’s...
 New products
+2-WIRE IP Power Supply NVE-2W-PS136-LITE
+Wall bracket for master monitor NVE-GM100 NVE-GM100BRKT-WALL
+IP user monitor NVE-2W-MV107WIFI-LITE-W
 24-Port Gigabit Ethernet Managed PoE+ Switch NVS-G5424SP/400 24 x 10/100/1000Mbps PoE+
 4 x Combo (RJ45 + SFP) 1000Mb/s UPLINK
 Operating temperature: 0°C ÷ 40°C
 Master monitor NVE-GM100
-IP user monitor NVE-2W-MV107WIFI-LITE-W
 4 MPX IP LPR bullet camera with a motor-zoom lens NVIP-4H-6732M/LPR-A Resolution: 4 MPX
 Lens: motorized, auto-iris and auto-focus function, f=8 ~ 32 mm/F1.6
 D/N function - IR cut filter
-Wall bracket for master monitor NVE-GM100 NVE-GM100BRKT-WALL
-2-WIRE IP Power Supply NVE-2W-PS136-LITE
 Recommended videos
 #2 INGENIUS PLUS - effective elimination of false alarms
 #1 NMS AC - Functionality and advantages of the system

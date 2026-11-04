@@ -1,4 +1,4 @@
-# SB-449 bvsecurity.com · home · https://bvsecurity.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-449 bvsecurity.com · home · https://bvsecurity.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Skip to content
 Log in or Create account for Wholesale Price
 Menu
@@ -115,7 +115,7 @@ Surveillance drives on sale now
 Compare prices now →
 WD HARD DRIVES SERIES
 Western Digital 4TB Purple Surveillance Hard Drive | WD43PURZ
-$193.99
+$199.99
 $96.99
 Unit price
 /
@@ -126,7 +126,7 @@ per
 Reviews
 )
 Western Digital 6TB Purple Surveillance Hard Drive | WD64PURZ
-$295.99
+$284.89
 $159.99
 Unit price
 /
@@ -137,7 +137,7 @@ per
 Reviews
 )
 Western Digital 8TB Purple Surveillance Hard Drive | WD85PURZ
-$402.99
+$390.00
 Unit price
 /
 per
@@ -147,7 +147,7 @@ per
 Reviews
 )
 Western Digital 8TB Purple Pro Surveillance Hard Drive | WD8002PURP
-$422.99
+$414.90
 $219.99
 Unit price
 /
@@ -168,7 +168,7 @@ per
 Reviews
 )
 Western Digital 26TB Purple Pro Surveillance Hard Drive | WD260PURP
-$1,399.99
+$1,329.99
 Unit price
 /
 per
@@ -206,7 +206,6 @@ per
 264
 Reviews
 )
-Sold out
 BV-Tech 8-Port Industrial DIN-Rail PoE+ Switch with 1 Gigabit RJ45 & 1 SFP Slot (120W, Plug and Play) | SW811G-DIN
 $139.99
 Unit price

@@ -1,4 +1,4 @@
-# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-04T09:30:29Z · HTTP 200
 Blog Posts | RADWIN Website
 Skip to Content
 Home
@@ -71,6 +71,15 @@ What's New
 PR Archive
 Customer Success
 ​
+Why Wi-Fi 7 Alone Isn't Enough Outdoors
+In Part 1 of The Road to QORA, we explored how Wi-Fi 7 opens new possibilities for fixed wireless access. But speed alone does not win long-term customer loyalty. For broadband operators, the real tes...
+Deterministic Wireless
+Fixed Wireless Access
+PtMP
+QORA
+Wi-Fi 7
+Nov 4, 2026
+Articles
 Wi-Fi 7 Fixed Wireless Access
 Wi-Fi 7 Goes Outdoors: What It Means for Fixed Wireless Wi-Fi 7 is best known as the technology inside the newest phones and home routers. But for fixed wireless operators, its bigger opportunity may ...
 Deterministic Wireless
@@ -78,7 +87,7 @@ Fixed Wireless Access
 PtMP
 QORA
 Wi-Fi 7
-Oct 28, 2026
+Oct 29, 2026
 Articles
 Cambium Networks Administration: FAQ for Partners & ISPs
 Who Bought Cambium Networks? Product Status for Partners and ISPs Last updated: October 21, 2026. We update this page as new public information becomes available. Cambium Networks went into administra...
@@ -170,13 +179,6 @@ Stronger Control. Smarter Spectrum Use. Continuous Service Quality. RADWIN is ex
 PtP
 Jan 13, 2026
 What's New
-Keeping Columbus Connected and Secure with WINcare Managed Services
-The Columbus Police Department operates one of Ohio’s largest neighborhood safety camera networks, crucial for community safety and rapid response...
-Managed Services
-Professional Services
-WINCare
-Nov 30, 2025
-Customer Success
 1
 2
 3

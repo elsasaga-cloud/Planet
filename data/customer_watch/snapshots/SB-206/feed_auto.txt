@@ -1,4 +1,5 @@
-# SB-206 brainboxes.com · feed_auto · https://www.brainboxes.com/feed · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-206 brainboxes.com · feed_auto · https://www.brainboxes.com/feed · fetched 2026-11-04T09:30:29Z · HTTP 200
+Tue, 03 Nov 2026 16:35:00 +0000	Visit Brainboxes at AEMS!	https://www.brainboxes.com/events/brainboxes-at-aems
 Mon, 28 Sep 2026 12:56:49 +0000	Brainboxes are Exhibiting at Machine Building Live!	https://www.brainboxes.com/events/machine-building-live-2026
 Mon, 14 Sep 2026 13:28:41 +0000	Join Brainboxes at SEMICON West!	https://www.brainboxes.com/events/brainboxes-at-semicon-west
 Mon, 24 Aug 2026 08:44:34 +0000	Visit Brainboxes at the WoTS 2026!	https://www.brainboxes.com/events/brainboxes-wots-2026
@@ -10,4 +11,3 @@ Mon, 01 Jun 2026 14:08:30 +0000	Brainboxes are Excited to Exhibit at ITS America
 Tue, 12 May 2026 11:07:28 +0000	Visit Brainboxes at Smart Factory Expo 2026!	https://www.brainboxes.com/events/smart-factory-expo-2026
 Tue, 28 Apr 2026 12:12:52 +0000	Brainboxes are Exhibiting at Machine Building North 2026!	https://www.brainboxes.com/events/machine-building-north-2026
 Thu, 26 Mar 2026 15:56:16 +0000	Join Brainboxes at EPTECH 2026!	https://www.brainboxes.com/events/brainboxes-at-eptech
-Thu, 26 Mar 2026 13:17:54 +0000	Happy Easter from Brainboxes!	https://www.brainboxes.com/news/happy-easter

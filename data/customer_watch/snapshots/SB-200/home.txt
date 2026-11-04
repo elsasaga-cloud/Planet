@@ -1,4 +1,4 @@
-# SB-200 sysnetcenter.com · home · https://sysnetcenter.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-200 sysnetcenter.com · home · https://sysnetcenter.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Sysnet Center จำหน่าย ติดตั้ง ระบบเครือข่าย อุปกรณ์ Network Line: @sysnet Line: @sysnet
 Contact Phone: 02-102-4284, 083-199-7002, 089-489-5970, 080-080-1115 Email: info@sysnetcenter.com
 เข้าสู่ระบบ
@@ -161,7 +161,10 @@ Syndome
 ZIRCON UPS เครื่องสำรองไฟ Zircon
 Cybrey (ไซเบอร์รี่) Cybrey Cloud-Managed Firewalls
 Cybrey Cloud-Managed Routers
-Cybrey Cloud-Managed Switches
+Cybrey Cloud-Managed Switches Cybrey RG-CS61 Series Layer 3 Managed Switch
+Cybrey RG-CS62 Series Layer 3 Managed Switch
+Cybrey RG-CS63 Series Layer 3 Multi-Gigabit PoE++ Switch
+Cybrey RG-CS65 Series Layer 3 Core & Aggregation Switch
 Cybrey Cloud-Managed Wireless
 Ruijie Networks (รุ้ยเจี๋ย เน็ตเวิร์ค) Ruijie Accessories
 Ruijie Access Point
@@ -302,19 +305,19 @@ Network Solutions (12)
 โพสต์ล่าสุด
 รีวิว TP-Link Omada Fusion 2.5G Gateway ทดสอบ Multi-WAN, VLAN, Security และ VPN โพสต์ใน : Review อุปกรณ์ Network
 2026-10-27
-24 มุมมอง 0 ชอบ
+28 มุมมอง 0 ชอบ
 รีวิว TP-Link Omada Fusion 2.5G Gateway พร้อม Built-in Omada Controller ทดสอบการตั้งค่าและใช้งานจริง ทั้ง Multi-WAN...
 อ่านเพิ่มเติม
 ดูโพสต์ล่าสุดทั้งหมด
 กระทู้ยอดนิยม
 ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงานด้วย VPN โพสต์ใน : Review อุปกรณ์ Network
 2021-01-15
-57382 มุมมอง 19 ชอบ
+57384 มุมมอง 19 ชอบ
 ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงาน ให้สามารถใช้ Resource ต่างๆร่วมกัน หรือ ให้ Client เชื่อมต่อเข้ามาใช้...
 อ่านเพิ่มเติม
 กระทู้ยอดนิยมทั้งหมด
 Blog tags
-software zyxel synology access point mikrotik repeater cloud engenius poe switch ubiquiti security งานติดตั้ง reyee mesh aruba ruijie loadbalance controller wifi hotspot log internet
+reyee aruba security zyxel งานติดตั้ง ubiquiti access point software controller log internet poe switch loadbalance repeater synology wifi hotspot ruijie cloud mikrotik mesh engenius
 Blog RSS
 หมวดหมู่สินค้าแนะนำ
 POE Switch
@@ -344,19 +347,34 @@ Ubiquiti UniFi Security Gateway
 สินค้ายอดนิยม
 สินค้าใหม่
 สินค้ายอดนิยม
+รหัสสินค้า: RG-EG710XS
+แบรนด์: Ruijie Networks
+RG-EG710XS Ruijie Reyee Cloud Managed Router 3Gbps, 700 Clients, 2×10G SFP+, VPN, SD-WAN
+(0)
+RG-EG710XS Reyee Cloud Managed Router สำหรับสำนักงาน โรงแรม และองค์กรหลายสาขา รองรับ Throughput 3Gbps, 700 Clients, 8 Port RJ45, 2 Port 10G SFP+, VPN 300 Branches, SD-WAN, Load Balance, Captive Portal และจัดการผ่าน Ruijie Cloud / Reyee App
+฿10,860.00
+ หยิบใส่ตะกร้า More
+รหัสสินค้า: RG-ES228GS-P-V2
+แบรนด์: Ruijie Networks
+RG-ES228GS-P-V2 Ruijie Reyee 28-Port Gigabit Cloud Managed PoE Switch, 370W, 2×SFP
+(0)
+RG-ES228GS-P-V2 Reyee Cloud Managed PoE Switch ขนาด 28 พอร์ต สำหรับระบบ Network สำนักงาน กล้อง IP Camera และ Access Point รองรับ 24 พอร์ต PoE/PoE+ รวม PoE Budget 370W, 2 พอร์ต Gigabit RJ45 Uplink, 2 พอร์ต 1GE SFP และบริหารจัดการผ่าน Ruijie Cloud
+฿9,250.00
+ หยิบใส่ตะกร้า More
+ใหม่
+รหัสสินค้า: RG-CS62-24GT4XS
+แบรนด์: Cybrey
+RG-CS62-24GT4XS Ruijie Cybrey Layer 3 Managed Switch, 24xGE, 4x10G SFP+, Cloud Managed
+(0)
+RG-CS62-24GT4XS Ruijie Cybrey Layer 3 Managed Switch แบบ 24x Gigabit RJ45 พร้อม 4x 1G/2.5G/10G SFP+ Uplink รองรับ VLAN, OSPF, RIP, Policy-based Routing, VSU Stacking สูงสุด 8 เครื่อง และ Cybrey Cloud Management ตัวเครื่อง Fanless ขนาด Rack 1U เหมาะกับสำนักงานและระบบเครือข่ายองค์กร
+฿0.00
+ หยิบใส่ตะกร้า More
 รหัสสินค้า: RG-CF10S
 แบรนด์: Cybrey
 RG-CF10S Ruijie Cybrey Next-Generation Firewall 8Gbps, IPS 1.7Gbps, 700K Sessions, IPsec VPN, SSL VPN, 8GE, 2 SFP
 (0)
 RG-CF10S Ruijie Cybrey Next-Generation Firewall สำหรับสำนักงานและองค์กร รองรับ Firewall 6-8Gbps, IPS, Threat Protection, Application Control, URL Filtering, SSL VPN, IPsec VPN, Security Policy, Port Scan และ Cloud Management
 ฿0.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: RG-RAP72
-แบรนด์: Ruijie Networks
-RG-RAP72 Ruijie Reyee Wi-Fi 7 BE3600 Dual-Band Ceiling Access Point, 2.5Gbps, Cloud Managed
-(0)
-RG-RAP72 Reyee Wireless Access Point Wi-Fi 7 แบบติดเพดาน/ผนัง รองรับ Dual-Band 2.4GHz/5GHz ความเร็วรวมสูงสุด 3570Mbps, พอร์ต 2.5Gbps, MLO, 4K-QAM, Roaming, AP Mesh และบริหารจัดการผ่าน Ruijie Cloud
-฿4,450.00
  หยิบใส่ตะกร้า More
 ใหม่
 รหัสสินค้า: RG-CNC312
@@ -366,53 +384,33 @@ RG-CNC312 Ruijie Cybrey Wireless Access Controller, 2x10G SFP+, 32 AP Licenses, 
 RG-CNC312 Ruijie Cybrey Wireless Access Controller สำหรับ Campus Network รองรับการบริหาร Wireless Access Point จากส่วนกลาง พร้อม AP Licenses 32 หน่วย ขยายความสามารถได้สูงสุด 512 Online APs และ 3,500 Clients 8 Port Gigabit RJ45, 2 Gigabit SFP/RJ45 Combo และ 2 Port 10G SFP+ รองรับ VAC Cluster และ Cloud Management
 ฿0.00
  หยิบใส่ตะกร้า More
-รหัสสินค้า: RG-ES228GS-P-V2
-แบรนด์: Ruijie Networks
-RG-ES228GS-P-V2 Ruijie Reyee 28-Port Gigabit Cloud Managed PoE Switch, 370W, 2×SFP
-(0)
-RG-ES228GS-P-V2 Reyee Cloud Managed PoE Switch ขนาด 28 พอร์ต สำหรับระบบ Network สำนักงาน กล้อง IP Camera และ Access Point รองรับ 24 พอร์ต PoE/PoE+ รวม PoE Budget 370W, 2 พอร์ต Gigabit RJ45 Uplink, 2 พอร์ต 1GE SFP และบริหารจัดการผ่าน Ruijie Cloud
-฿9,250.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: UX7
-แบรนด์: Ubiquiti
-UX7 Ubiquiti UniFi Express 7 Cloud Gateway Wi-Fi 7 Router, 10GbE WAN, IDS/IPS 2.3Gbps
-(0)
-UX7 Ubiquiti UniFi Express 7 เป็น Cloud Gateway พร้อม Wi-Fi 7 ในตัว รองรับ 6GHz 5.7Gbps, 5GHz 4.3Gbps และ 2.4GHz 688Mbps รวมประมาณ 10.7Gbps ตามสเปก มี 10GbE WAN, IDS/IPS 2.3Gbps, รองรับผู้ใช้ 300+ และจัดการ UniFi Devices ได้ 30+
-฿8,550.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: EAP610
-แบรนด์: TP-Link
-EAP610 TP-Link Omada Wi-Fi 6 Access Point, AX1800, Gigabit, PoE
-(0)
-EAP610 TP-Link Omada Access Point มาตรฐาน Wi-Fi 6 แบบ Ceiling Mount ความเร็ว AX1800 เหมาะกับออฟฟิศ ร้านค้า ห้องประชุม โรงแรม หรือพื้นที่ที่ต้องการ Wi-Fi ธุรกิจ รองรับ Gigabit Port, 802.3af PoE, Passive PoE, Omada SDN, Mesh และ Seamless Roaming
-฿2,990.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: Insight-S385Pi
-แบรนด์: TP-Link
-Insight S385Pi VIGI 8MP Outdoor IR Panoramic Bullet Network Camera 180องศา
-(0)
-Insight S385Pi TP-Link VIGI 8MP Outdoor IR Panoramic Bullet Network Camera ความละเอียด 8MP มุมกว้าง 180 องศา Outdoor บันทึก Video มาตรฐาน H.265+ บันทึกลงบน NVR หรือ Memory Card สูงสุด 512GB รองรับ POE
-฿4,990.00
- หยิบใส่ตะกร้า More
-ใหม่
-รหัสสินค้า: RG-ES103F-P
-แบรนด์: Ruijie Networks
-RG-ES103F-P Ruijie Reyee 3-Port 10/100Mbps PoE-In Unmanaged Switch 2-Port PoE+ Out
-(0)
-RG-ES103F-P Ruijie Reyee Unmanaged Switch ขนาดเล็ก 3× 10/100BASE-T Port แบ่งเป็น 1× PoE/PoE+ In และ 2× PoE/PoE+ Out พร้อม PoE Budget 30 W รองรับกล้อง IP พร้อมกันสูงสุด 2 ตัว ติดตั้งได้ทั้ง Wall และ Desk เหมาะสำหรับขยาย Port และระยะเชื่อมต่อในระบบกล้องวงจรปิด
-฿390.00
- หยิบใส่ตะกร้า More
-รหัสสินค้า: U7-Lite
-แบรนด์: Ubiquiti
-U7-Lite Ubiquiti UniFi Wi-Fi 7 Access Point, 5.0Gbps, 2.5GbE, PoE
-(0)
-U7-Lite Ubiquiti UniFi Access Point มาตรฐาน Wi-Fi 7 แบบ Dual-Band ความเร็วสูงสุด 5GHz 4.3Gbps และ 2.4GHz 688Mbps รวมประมาณ 5.0Gbps ตามสเปก ครอบคลุมสูงสุด 115 ตร.ม. รองรับผู้ใช้ 200+ พร้อมพอร์ต 2.5GbE ใช้ไฟผ่าน PoE และจัดการผ่าน UniFi Network
-฿3,990.00
- หยิบใส่ตะกร้า More
 รหัสสินค้า: ES210X-M2
 แบรนด์: TP-Link
 TP-LINK ES210X-M2 Omada 8-Port 2.5G Easy Managed Switch SFP+
 (0)
 TP-LINK ES210X-M2 Omada Easy Managed Switch, 8-Port 2.5G, 2 SFP+ รองรับ VLAN 802.1q, Port Mirroring, Loop Prevention, IGMP Snooping สามารถ Manage ผ่าน Omada Cloud Controller
 ฿2,890.00
- หยิบใส
+ หยิบใส่ตะกร้า More
+รหัสสินค้า: ER703WP-4G-Outdoor
+แบรนด์: TP-Link
+ER703WP-4G-Outdoor TP-Link Omada 4G+ Cat6 AX3000 WiFi 6 Outdoor Gateway
+(0)
+ER703WP-4G-Outdoor TP-Link Omada 4G+ Cat6 AX3000 Wi-Fi 6 Outdoor/Indoor Gateway รองรับเครือข่าย 4G ทุกเครือข่าย, WIFI AX Dual-Band, 3 Port Gigabit, รองรับ IPSec VPN, POE In/Out, รองรับ Omada Controller
+฿6,900.00
+ หยิบใส่ตะกร้า More
+ใหม่
+รหัสสินค้า: RG-CS65-24SFP/8GT4XS-D
+แบรนด์: Cybrey
+RG-CS65-24SFP/8GT4XS-D Ruijie Cybrey Layer 3 Core Switch, 24x1G SFP, 8 Combo RJ45, 4x10G SFP+
+(0)
+RG-CS65-24SFP/8GT4XS-D Ruijie Cybrey Layer 3 Core/Aggregation Switch มี 24x 1G SFP (พอร์ต 17–24 ใช้ร่วมกับ RJ45 Combo) และ 4x 1G/2.5G/10G SFP+ รองรับ Switching Capacity 128Gbps, OSPF/BGP/IS-IS, VSU Stacking สูงสุด 8 เครื่อง และ Cybrey Cloud ตัวเครื่องรองรับ Redundant Power Supply โดยต้องซื้อ Power Module แยก
+฿0.00
+ หยิบใส่ตะกร้า More
+รหัสสินค้า: RG-RAP72
+แบรนด์: Ruijie Networks
+RG-RAP72 Ruijie Reyee Wi-Fi 7 BE3600 Dual-Band Ceiling Access Point, 2.5Gbps, Cloud Managed
+(0)
+RG-RAP72 Reyee Wireless Access Point Wi-Fi 7 แบบติดเพดาน/ผนัง รองรับ Dual-Band 2.4GHz/5GHz ความเร็วรวมสูงสุด 3570Mbps, พอร์ต 2.5Gbps, MLO, 4K-QAM, Roaming, AP Mesh และบริหารจัดการผ่าน Ruijie Cloud
+฿4,450.00
+ หยิบใส่ตะกร้า More
+ร

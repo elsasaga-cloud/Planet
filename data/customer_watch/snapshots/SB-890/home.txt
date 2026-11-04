@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Technopc
 Destek
 Teknik Destek Talep Formu
@@ -138,17 +138,17 @@ Referanslarımız
 Technopc
 Gündem
 Eğitim, sağlık, savunma, perakende ve birçok sektöre özel bilişim çözümleri sunuyoruz. Uzman ekibimizle, her sektörün kendine özgü ihtiyaçlarını analiz ederek dijital dönüşüm süreçlerine rehberlik ediyoruz. Geliştirdiğimiz yenilikçi yazılım ve sistem çözümleriyle, kurumların verimliliğini artırıyor, süreçlerini optimize ediyor ve rekabet avantajı elde etmelerini sağlıyoruz.
-29 Haziran 2026
+27 Ekim 2026
+Technopc, Kamu-BİB’29 – BİMY’33’te Yapay Zekâ Altyapı Çözümlerini Tanıttı
+Devamını Oku
 Technopc, TETZ Fuarı'nda Yapay Zekâ Destekli Eğitim Teknolojileriyle Yoğun İlgi Gördü
+29 Haziran 2026
 Devamını Oku
 Saha Expo Ziyaretçilerimiz
 10 Mayıs 2026
 Devamını Oku
 Technopc, İleri Teknoloji Çözümleriyle SAHA Expo’da Yerini Aldı
 10 Mayıs 2026
-Devamını Oku
-Millî Savunma Bakanı Sayın Yaşar Güler Standımızı Ziyaret Etti
-20 Nisan 2026
 Devamını Oku
 Technopc E-bülten
 E-posta Adresiniz
@@ -392,4 +392,4 @@ Technopc Rugged El Terminali TM-T04 Serisi
 Technopc Rugged El Terminali TM-T05 Serisi
 Technopc Endüstriyel Telefon RawPhone RP05NLA
 Technopc TM-T04 Genius Endüstriyel El Terminali
-Technopc TM-T04U
+Techno

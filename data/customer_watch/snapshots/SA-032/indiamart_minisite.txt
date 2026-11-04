@@ -1,14 +1,14 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · indiamart_minisite · https://www.sundartechno.in/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · indiamart_minisite · https://www.sundartechno.in/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengaluru
 Sundar Techno Solutions
 Bengaluru, Karnataka
 GST No. 29CXZPS7723L1Z4
 TrustSEAL Verified
 Payment Protected
-Call 08047641506 91% Response Rate
+Call 08047641506 92% Response Rate
 SEND EMAIL
 X
-INDUSTRIAL EMBEDDED BOX PC FWA 5104 Price: ₹ 24,000 / Piece
+STS-SBC-12GNSS Industrial Single Board Computer Nano-ITX Price: ₹ 19,000 / Piece
 Get Best Quote
 STS FANLESS INDUSTRIAL PC WITH SFP PORT Price: ₹ 32,000 / Piece
 Get Best Quote
@@ -18,11 +18,11 @@ Industrial Grade Fanless Embedded Computer with PCI slot / PCIe slot Box PC Pric
 Get Best Quote
 STS Intelligent Transportation Computer IBASE: MPT-7000R BOX PC Price: ₹ 1.55 Lakh / Piece
 Get Best Quote
-STS 8-Port 10/100/1000BASE-TX+4G SFP Managed Industrial PoE Switch Price: ₹ 32,750 / Piece
-Get Best Quote
 FZ55 Panasonic Toughbook Rugged Laptop 13th Generation Price: ₹ 1.90 Lakh / Piece
 Get Best Quote
 8 INCH ATEX CERTIFIED ANDROID RUGGED TABLET Price: ₹ 1.95 Lakh / Piece
+Get Best Quote
+ISA Slot Industrial Motherboard Price: ₹ 19,800 / Piece
 Get Best Quote
 About Us »
 Corporate Video
@@ -35,8 +35,8 @@ Industrial PC
 Industrial Panel PC
 Rackmount Chassis
 Industrial Computer
-Managed Switches
 Embedded Computing
+Managed Switches
 Tablet Pc
 Kvm Switches
 Single Board Computer
@@ -53,9 +53,9 @@ Industrial Grade Ethernet Switch
 Network Switch
 Embedded Industrial BOX PC
 KVM Console
-Industrial POE Switch
 Unmanaged Industrial Grade Ethernet Switch
 INDUSTRIAL EMBEDDED BOX PC
+Industrial POE Switch
 Industrial Keyboard
 Industrial Ethernet Switches
 mini-ITX Industrial Grade Mother Board
@@ -70,8 +70,8 @@ INDUSTRIAL MOTHER BOARD
 ABB PRODUCTS
 Computer Mouse
 COM Express Carrier Board
-Profinet Switch
 Human Machine Interface
+Profinet Switch
 Lite Managed Switch
 SENSOR
 Intelligent Transportation Processor
@@ -81,10 +81,10 @@ PLC System
 Gps Antenna
 Lcd Monitor
 Fiber Media Converter
-Poe Switch
 Toughpad Panasonic
 MODULAR EMBEDDED IPC
 Mobile Terminal
+Poe Switch
 KIOSK
 Industrial Android Poe Tablet
 Networking Motherboard
@@ -118,14 +118,14 @@ Computer Power Supply
 Total Station
 New Items
 Contact Us
-INDUSTRIAL EMBEDDED BOX PC FWA 5104
+STS-SBC-12GNSS Industrial Single Board Computer Nano-ITX
 STS FANLESS INDUSTRIAL PC WITH SFP PORT
 15 Inch VGA Input LCD Monitor Industrial Use Monitor
 Industrial Grade Fanless Embedded Computer with PCI slot / PCIe...
 STS Intelligent Transportation Computer IBASE: MPT-7000R BOX PC
-STS 8-Port 10/100/1000BASE-TX+4G SFP Managed Industrial PoE Switch
 FZ55 Panasonic Toughbook Rugged Laptop 13th Generation
 8 INCH ATEX CERTIFIED ANDROID RUGGED TABLET
+ISA Slot Industrial Motherboard
 About Company
 Nature of Business Manufacturer
 GST Registration Date 20-01-2019
@@ -167,7 +167,7 @@ Sundar Techno Solutions
 Bengaluru - 560100, Karnataka, India
 Get Directions
 Call Us
-Call Response Rate: 91%
+Call Response Rate: 92%
 Share Us
 Facebook LinkedIn
 Send E-mail
@@ -183,8 +183,8 @@ Industrial PC
 Industrial Panel PC
 Rackmount Chassis
 Industrial Computer
-Managed Switches
 Embedded Computing
+Managed Switches
 Tablet Pc
 Kvm Switches
 Single Board Computer

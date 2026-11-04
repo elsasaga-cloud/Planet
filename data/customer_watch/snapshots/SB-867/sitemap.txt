@@ -1,4 +1,4 @@
-# SB-867 erete.com.tr · sitemap · https://www.erete.com.tr/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-867 erete.com.tr · sitemap · https://www.erete.com.tr/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 2017-10-31	https://www.erete.com.tr/
 2017-10-31	https://www.erete.com.tr/Kullanici/Home/UrunGruplari
 2017-10-31	https://www.erete.com.tr/Kullanici/Home/DuyuruDetay/3

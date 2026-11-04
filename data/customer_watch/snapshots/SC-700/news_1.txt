@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-04T09:30:29Z · HTTP 200
 Messen, Veranstaltungen, Tagungen, Vorträge - AMC
 Navigation überspringen
 Startseite
@@ -31,6 +31,7 @@ Transportation und Logistik
 Automobilindustrie
 Technologien
 Back
+Wichtige Produktabkündigungen und Sicherheitsmeldungen
 Mein erstes Jahr bei AMC: Einblicke zum dualen Studium im Mittelstandsmanagement
 AMC iFactoryX - Schulung: Vom Sensor zur Visualisierung am 06. Mai 2026
 35 Jahre Zusammenarbeit AMC mit Meilhaus Electronic
@@ -224,4 +225,4 @@ Projektabschluss des RUBIN-Bündnisses DuSwaP in Chemnitz
 Als Konsortialpartner im RUBIN-Bündnis DuSwaP hat sich die AMC – Analytik & Messtechnik GmbH Chemnitz maßgeblich an der Prozessüberwachung für die Fertigung von Brennstoffzellen- und Elektrolyseur-Stacks beteiligt. Unser Schwerpunkt lag dabei auf einer umfassenden Datenerfassung auf Basis moderner IoT-Edge-Systeme entlang der Prozesskette.
 Am 9. Juni 2026 fand im Fraunhofer IWU in Chemnitz die Abschlussveranstaltung des dreijährigen Forschungs- und Entwicklungsprojekts statt. Im Rahmen der Veranstaltung präsentierten die Partner des Konsortiums ihre gemeinsamen Ergebnisse entlang der Stack-Prozesskette.
 Im Fokus standen skalierbare Technologien für eine qualitätsgesicherte und automatisierte Fertigung sowie Ansätze zur industriellen Skalierung von Fertigungs- und Prüfprozessen. Die Veranstaltung bot interessante Einblicke in die zentralen Projektergebnisse und Gelegenheit zum Austausch zwischen Industrie und Forschung.
-AMC stellte dabei die im Projekt entwickelten Lösungen zur Prozessüberwachung und Datenerfassung vor und zeigte, wie moderne IoT-Edge-Systeme zur transparenten und datenbasierten Überwachung industrieller F
+AMC stellte dabei die im Projekt entwickelten Lösungen zur Prozessüberwachung und Datenerfassung vor und zeigte, wie moderne IoT-Edge-Systeme zur trans

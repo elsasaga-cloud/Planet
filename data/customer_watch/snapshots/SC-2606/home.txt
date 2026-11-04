@@ -1,4 +1,4 @@
-# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-04T09:30:29Z · HTTP 200
 Logicbus | Industrial Automation, Sensors, PLCs & Test Equipment
 Skip to content
 Choose store
@@ -175,6 +175,11 @@ LTC-7PN
 (0)
 $20.00
 In stock.
+460ESTCP-N34-D
+Gateway to connect an EtherNet/IP Scanner and Ethernet TCP/IP Device(s). Mounting: Din Rail, without Power Supply. Platform N34: 1x 5Pin Screw Terminal (RS232/485/422), 1x DB9 Port (RS232/485/422), 1x Ethernet RJ45. Barrel plug for power supply.
+(0)
+$963.56
+In stock.
 435USB-NNCU-D
 USB printer or barcode scanner to AB PLC. Does not include power supply
 (0)
@@ -225,11 +230,6 @@ ER14250-SM
 (0)
 $50.00
 Check availability in chat.
-7803ecS-DB9
-PCI Express to 8 RS-232 serial ports. Includes a 36 inch length cable with a micro DB68 male connector breaking out to eight DB9 male connectors (Item# CA231). PC Bracket standard size
-(0)
-Discontinued
-Check information in Chat.
 FSH04533
 TDF675, 24000 in-lb, Reaction Torque w/ Flange to Sq., RoHS Compliant, Material - 17-4 PH S.S., 1" Sq. Drive, 6 Pin Bendix Receptacle, PT02H-10-6P
 (0)
@@ -254,16 +254,6 @@ D-8601
 Industrial keyboard in Spanish with 65 keys laser engraved including ñ key and function keys (with FN key). USB interface. 304 Stainless Steel front panel with IP65 Protection. Dimensions: 300 x 110 mm
 (0)
 $150.50
-Check availability in chat.
-FSH04205
-LSB201, 250g, JR S-Beam Load Cell 2.0, Overload Protection, RoHS Compliant, Material - 17-4 PH S.S., M3x0.5-Thread, 29 Awg 4 Conductor Spiral Shielded Silicone Cable, 5 ft Long
-(0)
-Discontinued
-Check information in Chat.
-FSH04088
-LSB200 , 10 g , JR S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Overload Protection , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
-(0)
-$2,098.00
 Check availability in chat.
 RHTemp1000Ex
 ATEX/IECex Approved Humidity and Temperature Data Logger
@@ -315,6 +305,21 @@ LTH350 , 250 lb , Through Hole Donut Load Cell , RoHS Compliant, Material - 17-4
 (0)
 $1,098.00
 Check availability in chat.
+FSH04205
+LSB201, 250g, JR S-Beam Load Cell 2.0, Overload Protection, RoHS Compliant, Material - 17-4 PH S.S., M3x0.5-Thread, 29 Awg 4 Conductor Spiral Shielded Silicone Cable, 5 ft Long
+(0)
+Discontinued
+Check information in Chat.
+FSH04088
+LSB200 , 10 g , JR S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Overload Protection , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
+(0)
+$2,098.00
+Check availability in chat.
+FSH04000
+LCM300 , 250 lb , Tension & Compression Load Cell (Miniature/Inline Threaded) , RoHS Compliant , IP67 Rated, Material - 17-4 PH S.S. , M6x1-Thread , 4 Pin Micro Receptacle
+(0)
+$998.00
+Check availability in chat.
 Z111
 Z111 allows a conversion of a frequency signal and provides a mA/V standard output signal.
 (0)
@@ -327,11 +332,6 @@ $1,532.00
 Check availability in chat.
 FSH03864
 LSB302 , 100 lb , Tension & Compression Load Cell , RoHS Compliant, Material - 2024-T4 , 1/4-28-Thread , Overload Protection , 4 Pin Lemo Receptacle, EGG.0B.304.CLL
-(0)
-Discontinued
-Check information in Chat.
-FSH03863
-LSB210 , 2 lb , JR. S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Submersible , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
 (0)
 Discontinued
 Check information in Chat.
@@ -351,4 +351,4 @@ Solid-State Relay Module/ Single/ DC Sense/ 3 to 32 VDC
 Discontinued
 Check information in Chat.
 PC301MT-0
-PyroCouple infra-red temperature sensor with 30:1 optics. 0~250°C temperature range. 2 wire: 4-20 mA output targe
+PyroCouple infra-red temperature sensor with 30:1 optics. 0~250°C temper

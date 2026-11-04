@@ -1,4 +1,4 @@
-# SC-097 Three Lines Company · sitemap · https://www.3lines.com.sa/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-097 Three Lines Company · sitemap · https://www.3lines.com.sa/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/en
 2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ar
 2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ja
@@ -87,3 +87,7 @@
 2026-10-21T10:01:00.000Z	https://www.3lines.com.sa/ar/news/critical-infrastructure-protection
 2026-10-21T10:01:00.000Z	https://www.3lines.com.sa/ja/news/critical-infrastructure-protection
 2026-10-21T10:01:00.000Z	https://www.3lines.com.sa/ko/news/critical-infrastructure-protection
+2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/en/news/sedena-delegation-radar-maintenance
+2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/ar/news/sedena-delegation-radar-maintenance
+2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/ja/news/sedena-delegation-radar-maintenance
+2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/ko/news/sedena-delegation-radar-maintenance

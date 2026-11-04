@@ -1,4 +1,4 @@
-# SB-437 tpole.it · news_1 · https://www.tpole.it/news/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-437 tpole.it · news_1 · https://www.tpole.it/news/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 News TPole | Soluzioni PC based per automazione industriale e applicazioni embedded
 Search
 it en
@@ -30,6 +30,9 @@ Sistemi operativi
 News
 Contatti
 News
+28 ottobre 2026
+Quando meno è meglio: perché Bartlett Lake può battere l’approccio ibrido Intel
+Nel panorama dell’hardware industriale, l’innovazione non segue sempre le logiche del mercato consumer. I nuovi processori Intel® Bartlett Lake P…
 21 ottobre 2026
 Nuovo TPBox-BTL: la potenza di Intel® Bartlett Lake in formato industriale
 Il mercato dell’automazione e della visione artificiale richiede sistemi sempre più compatti ma allo stesso tempo più performanti. Il nuovo…
@@ -173,7 +176,4 @@ Duplicazione dei MAC address in azienda
 Il problema: due macchine, stesso MAC address? Immaginate la seguente situazione: due macchine nella vostra fabbrica manifestano comportamenti erratici, difficoltà…
 7 maggio 2025
 Sostituzione di un sistema EOL con soluzione full custom, rack 6U e upgrade all’architettura PCIe
-A noi di TPole piacciono le sfide; molti dei nostri clienti sono consapevoli e ci consentono di offrire loro la…
-2 maggio 2025
-Kit InfiniBand 200G: la soluzione TPole per collegamento ad alte prestazioni tra acquisizione ed elaborazione dati
-Nel mondo dell’elaborazione dati ad alte prestazioni (HPC) e delle app
+A noi di TPole piacciono le sfide; molti dei nostri clienti sono cons

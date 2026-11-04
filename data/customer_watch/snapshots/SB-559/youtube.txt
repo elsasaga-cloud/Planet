@@ -1,4 +1,4 @@
-# SB-559 vipausa.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsjAowleVcZoyqSBr9-JUHQ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-559 vipausa.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsjAowleVcZoyqSBr9-JUHQ · fetched 2026-11-04T09:30:29Z · HTTP 200
 2023-09-01T17:36:22+00:00	300S+ | The High Speed Control System | Compatible, Reliable, Available	https://www.youtube.com/watch?v=LXE2hFyf2_U
 2021-06-30T13:53:27+00:00	Connect PROFIBUS Connector to PROFIBUS Cable	https://www.youtube.com/watch?v=daXG_9tG_zc
 2021-01-12T15:06:08+00:00	VIPA MICRO PLC – modern, very small and fast	https://www.youtube.com/watch?v=TZXvffG7rz8

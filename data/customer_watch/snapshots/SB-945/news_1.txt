@@ -1,6 +1,6 @@
-# SB-945 grep.sg · news_1 · https://www.grep.sg/news/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-945 grep.sg · news_1 · https://www.grep.sg/news/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 News | Grep Tech Singapore-developed technology for practical operations +65 6340 1030 · [email protected]
-AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol
+AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol Behavior Analysis Face Detection
 Deploy and partner Incident Management Deployment Architecture Partner Program FAQ
 SMS & APIs ⌄ SMS platforms SMS Gateway GT Notify System HTTP SMS API SMS Webhook SMS OTP API
 Automation & help SMS to Email Email to SMS SNMP Trap to SMS Subscriber API SMS FAQ
@@ -9,7 +9,7 @@ Edge and field Remote I/O Modules NVIDIA Edge PCs All products
 Custom Software ⌄ Custom development Custom Software Overview
 Case studies Equipment Leasing Operations Multi-company HR System Service Operations ERP
 About & Resources ⌄ Company Profile Articles Downloads Contact
-Talk to us Menu ☰ AI Vision Live Monitoring Virtual Patrol SMS & APIs GT Notify System HTTP SMS API SMS FAQ Industrial IoT Custom Software Equipment Leasing Case Study Multi-company HR Case Study Service Operations Case Study About & Resources Articles Downloads Contact Talk to us
+Talk to us Menu ☰ AI Vision Live Monitoring Virtual Patrol Behavior Analysis Face Detection Incident Management Deployment Architecture Partner Program AI Vision FAQ SMS & APIs GT Notify System HTTP SMS API SMS FAQ Industrial IoT Custom Software Equipment Leasing Case Study Multi-company HR Case Study Service Operations Case Study About & Resources Articles Downloads Contact Talk to us
 Grep Tech
 News
 How AI is Revolutionizing Traditional CCTV SurveillanceJul 31, 2025Why We’re All-In on AI, Edge Computing, and Video AnalysisJul 30, 2025Tripwire vs Motion Detection: Which is Better for Smart Video Surveillance?Jul 30,

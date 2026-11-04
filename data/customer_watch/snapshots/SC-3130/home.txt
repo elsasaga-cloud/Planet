@@ -1,4 +1,4 @@
-# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica
 Ingresa a
 tu cuenta
@@ -11,25 +11,6 @@ Menú de navegación
 ⭐ Recomendados
 Eventos y certificaciones
 Ver todas
-3 de noviembre
--
-AJAX | DOMINA EL PORTAFOLIO Y SU INTEGRACIÓN CON CENTRALES DE MONITOREO (1 DÍA)
-Roadshow
-Presencial
-MEX-IZTACALCO
-CAFETAL 445, GRANJAS MEXICO
-3 de noviembre
--
-TP-LINK | CERTIFICACIÓN OCNA (1 DÍA)
-Certificación
-Presencial
-MTY-SAN NICOLAS
-DIEGO DIAZ DE BERLANGA 107, ANTIGUO NOGALAR
-3 de noviembre
--
-TVC EN LÍNEA | INDUCCIÓN A TVCENLÍNEA.COM
-Capacitación Comercial
-En línea
 4 de noviembre
 -
 IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
@@ -75,6 +56,18 @@ Taller
 Presencial
 MERIDA
 36A 436, JESUS CARRANZA
+10 de noviembre
+-
+TP-LINK | CERTIFICACIÓN OCNA (1 DÍA)
+Certificación
+Presencial
+TIJUANA
+DATIL 6176, LOS ARBOLES
+10 de noviembre
+-
+TVC EN LÍNEA | INDUCCIÓN A TVCENLÍNEA.COM
+Capacitación Comercial
+En línea
 11 de noviembre
 -
 BOSCH | ROADSHOW: AUDIO (1 DÍA)
@@ -99,6 +92,13 @@ En línea
 ZKTECO | SOLUCIONES INTEGRALES DE SEGURIDAD DEL ACCESO PEATONAL AL ESTACIONAMIENTO
 Capacitación Técnico - Comercial
 En línea
+12 de noviembre
+-
+AJAX | DOMINA EL PORTAFOLIO Y SU INTEGRACIÓN CON CENTRALES DE MONITOREO (1 DÍA)
+Roadshow
+Presencial
+TORREON
+RIO CONCHOS 1456, MAGDALENAS
 18 de noviembre
 -
 DSC | CERTIFICACIÓN POWER SERIES NEO (3 DÍAS)

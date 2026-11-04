@@ -1,4 +1,8 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-04T09:50:57+00:00	Tryb momentowy serwonapędu Elmatic z potencjometru lub PLC	https://www.youtube.com/watch?v=bpvppkz49os
+2026-11-04T08:48:47+00:00	Etykietowanie palet cobotem: Universal Robots UR7e, UR12e i UR20	https://www.youtube.com/watch?v=aEZnxZCkhvg
+2026-11-04T08:44:12+00:00	Konfiguracja zasilaczy DALI-2 MEAN WELL SPWM - webinar 17 listopada	https://www.youtube.com/shorts/6uMz1KP6NQs
+2026-11-03T11:38:29+00:00	Analityka wideo AI: dlaczego CPU nie wystarcza?	https://www.youtube.com/shorts/lriFFPmaYnU
 2026-11-03T09:43:44+00:00	CR30 czy GSR?	https://www.youtube.com/shorts/fVe33j7KSFM
 2026-11-03T09:08:47+00:00	CR30 czy GSR? Programowalny przekaźnik bezpieczeństwa Guardmaster	https://www.youtube.com/watch?v=eUqB3cmj7_Y
 2026-10-31T08:30:11+00:00	Coboty w branży spożywczej: pakowanie makaronu	https://www.youtube.com/shorts/yEp_W-J7HXk
@@ -10,7 +14,3 @@
 2026-10-21T11:09:53+00:00	Cyberbezpieczeństwo OT w praktyce: segmentacja bez przestoju z TXOne Networks (Case Studies)	https://www.youtube.com/watch?v=i9n81PTLHnU
 2026-10-20T07:15:06+00:00	Rozpakowanie MiR250: co jest w skrzyni?	https://www.youtube.com/shorts/p1_2ETY9Yy4
 2026-10-19T13:46:09+00:00	Automatyzacja pakowania napojów cobotami Universal Robots: od linii do palety	https://www.youtube.com/watch?v=K7j_tBTg75Y
-2026-10-19T08:25:11+00:00	Wzmocnione laptopy i tablety Getac dla energetyki	https://www.youtube.com/shorts/aAooUxIod-Q
-2026-10-16T11:55:38+00:00	Wod-kan: SCADA, NIS2 i zdalne odczyty | Elmark Tech Day	https://www.youtube.com/shorts/AN1VxLHa5pw
-2026-10-16T07:48:23+00:00	Transport palet w zakładzie: ile Was kosztuje?	https://www.youtube.com/shorts/MOvZdINDr0M
-2026-10-15T09:38:33+00:00	Robot mobilny MiR250 i cobot UR7e: przekazanie pojemników KLT bez napędu	https://www.youtube.com/shorts/2_Hw-Nrmg94

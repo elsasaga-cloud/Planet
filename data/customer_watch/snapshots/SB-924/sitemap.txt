@@ -1,4 +1,7 @@
-# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-01T00:00:00+00:00	https://www.intracom-telecom.com/promo/insights/
+2026-11-01T00:00:00+00:00	https://www.intracom-telecom.com/promo/insights/geolinks/
+2026-11-01T00:00:00+00:00	https://www.intracom-telecom.com/promo/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/building-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/coaxial-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/copper-switch-off/
@@ -20,7 +23,6 @@
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/gigabit-fwa/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/microwave-backhaul/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/network-automation/
-2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/promo/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/wireless-isps/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/wispapalooza-2026/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/promo/event/wispapalooza26/
@@ -62,7 +64,6 @@
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/omnibas/
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/unlicensed-spectrum/
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/wireless-transmission/
-2026-07-01T00:00:00+00:00	https://www.intracom-telecom.com/promo/insights/
 2026-07-01T00:00:00+00:00	https://www.intracom-telecom.com/promo/insights/dreamtilt/
 2026-06-30T15:26:00+03:00	https://www.intracom-telecom.com/tags/rollout/
 2026-06-30T15:26:00+03:00	https://www.intracom-telecom.com/tags/systems-integration/
@@ -187,5 +188,4 @@
 2025-12-04T15:35:56+03:00	https://www.intracom-telecom.com/corporate/newsroom/press/2025_dec_04/
 2025-12-04T15:35:56+03:00	https://www.intracom-telecom.com/tags/lmds/
 2025-12-04T15:35:56+03:00	https://www.intracom-telecom.com/tags/multi-gigabit-connectivity/
-2025-12-04T15:35:56+03:00	https://www.intracom-telecom.com/tags/u.s.-trial/
-2025-12-04T15:35:56+03:00	https://www.intracom-telecom
+2025-12-04T15:35:56+03:00	https://www.intracom

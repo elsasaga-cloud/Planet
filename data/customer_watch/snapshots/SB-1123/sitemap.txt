@@ -1,4 +1,4 @@
-# SB-1123 connectec.uk · sitemap · https://connectec.uk/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-1123 connectec.uk · sitemap · https://connectec.uk/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 2026-11-01	https://connectec.uk
 2022-11-24	https://connectec.uk/networking
 2022-05-11	https://connectec.uk/networking/network-devices

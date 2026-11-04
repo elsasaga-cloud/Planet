@@ -1,2 +1,379 @@
-# XC-E060 Delta Computer Products GmbH · home · https://deltacomputer.de/ · fetched 2026-11-03T09:43:52Z · HTTP 404
-
+# XC-E060 Delta Computer Products GmbH · home · https://deltacomputer.de/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+Startseite | DELTA Computer Products GmbH
+The store will not work correctly when cookies are disabled.
+Um Ihnen die Funktionen unseres Online-Shops uneingeschränkt anbieten zu können setzen wir Cookies ein.
+Weitere Informationen
+Ok
+Navigation umschalten
+Anfragen
+Mein Warenkorb
+Login
+Konto erstellen
+Produkte vergleichen
+Suche
+Server
+Standardserver AMD EPYC (1-Sockel)
+AMD EPYC (2-Sockel) Sehr beliebt
+Intel Xeon (1-Sockel) Neu
+Intel Xeon (2-Sockel) Neu
+GPU / MIC Server AMD EPYC Sehr beliebt
+Intel Xeon
+HGX Systeme
+Grace / Hopper
+HPC optimierte Server AMD EPYC
+Intel Xeon
+NVIDIA DGX™ Systeme Alle NVIDIA DGX™ Systeme Sehr beliebt
+JBOD Systeme Alle JBOD Systeme
+GPU Computing
+Konfigurierbare GPU Server AMD EPYC GPU Server
+bis 10x GPU - 500 W TDP
+Intel Xeon GPU Server
+bis 10x GPU - Gen5 x16
+Grafikkarten NVIDIA H200 NVL
+141 GB HMB3e - PCIe
+NVIDIA RTX™ PRO 6000 Neu
+96 GB - Blackwell
+NVIDIA L40S
+48 GB - AI Inference
+NVIDIA L4 Tensor Core GPU
+24 GB - Edge - 72 W
+NVIDIA DGX™ & HGX™ Systeme NVIDIA DGX™ B200
+8x B200 - 1.440 GB HMB3e - NVLink 5
+NVIDIA DGX™ B300
+8x B300 - 2.304 GB HMB3e - NVLink 5
+NVIDIA DGX™ Rubin NVL8 Neu
+8x Rubin - 2.304 GB HMB4 - NVLink 6
+NVIDIA DGX Station™ Systeme Neu
+Desktop DGX™ - GB300 Grace-Blackwell
+Wissenswertes: NVIDIA DGX™ B200 / B300
+einheitliche KI-Plattform von Entwicklung bis zur Bereitstellung
+Wissenswertes: NVIDIA DGX Station™ GB300 Neu
+umfängliche KI-Pipeline auf dem Schreibtisch
+Wissenswertes: NVIDIA HGX™ Systeme
+OEM-Referenzdesign - Hauptplatine mit 8x B200
+Rack-Scale - NVL72 - NVL144 NVIDIA DGX GB200 NVL72
+72 GPUs - 36 Grace CPUs
+NVIDIA DGX GB300 NVL72
+72x Blackwell Ultra - 36 Grace CPUs
+NVIDIA DGX SuperPOD™
+Referenzarchitektur für produktionsreife KI
+NVIDIA Vera Rubin NVL144 Neu
+sieben Chips - eine AI‑Fabrik - ab Q3 / 2026
+DIREKT
+VERGLEICHEN
+ALLE GRAFIKKARTEN
+GPU-Vergleich
+Vergleichen →
+Workstation
+AMD EPYC™ D10z-M4-ZG
+1x AMD EPYC™ 9005 - 360 W TDP
+D22z-M4-ZG
+2x AMD EPYC™ 9005 - 250 W TDP
+Intel® Xeon® D10x-M4-SP
+1x Intel Xeon 6™ - 350 W TDP
+NVIDIA DGX Station™ D13n-WK-GB-GB300
+1x NVIDIA GB300 Ultra Desktop Superchip - ASUS
+Software
+KI-Plattformen & Agenten NVIDIA AI Enterprise
+Data-Science-Pipelines, produktionsreife KI
+NVIDIA Agent Toolkit
+Baukasten für autonome KI-Agenten
+Agentic AI – on premise
+DSGVO-konform, eigene Hardware
+NVIDIA Parabricks
+KI-gestützte Genomanalyse
+Virtualisierung & Visualisierung NVIDIA Omniverse
+Industrielle Digitalisierung, Metaverse
+NVIDIA Virtual GPU
+GPU-Leistung auf mehrere VMs verteilt
+NICE DCV
+Sicheres Streaming grafikintensiver Apps
+Speicher & Infrastruktur Xinnor xiRAID
+NVMe, Software-RAID, 400-Gbit-InfiniBand
+Lizenzen Betriebssysteme
+Windows, SUSE, Red Hat u. v. m.
+Interconnect Ethernet
+Adapter
+Ethernet Adapter mit Übertragungsraten von 1Gbit/s bis 400Gbit/s, verschiedenen Anschlüssen und von unterschiedlichen Herstellern wie Broadcom, Intel, NVIDIA und Supermicro
+Switches
+Ethernet Switches mit Übertragungsraten von 1Gbit/s bis 800Gbit/s, verschiedenen Anschlüssen und von unterschiedlichen Herstellern wie Edgecore, Netgear, NVIDIA, QuantaMesh und Supermicro
+Kabel
+Ethernet Kabel mit Übertragungsraten 10Gbit/s bis 400Gbit/s und verschiedenen Anschlüssen, sowie DAC und Splitter Kabel
+Transceiver
+Ethernet Transceiver mit verschiedenen Übertragungsraten und in unterschiedlichen Ausführungen
+Packet Broker
+Netzwerktransparenz für Cyber Security, Big Data Analytics und Monitoring-Tools in High-End-Rechenzentren und Niederlassungen
+InfiniBand
+Adapter
+Infiniband Adapter mit Übertragungsraten von 100Gbit/s (EDR) bis 400Gbit/s (NDR)
+Switches
+Infiniband Switches mit Übertragungsraten von 400Gbit/s (NDR) bis 800Gbit/s (XDR)
+Kabel
+Infiniband Kabel mit Übertragungsraten von 100Gbit/s (EDR) bis 400Gbit/s (NDR) und verschiedenen Anschlüssen, sowie DAC und Splitter Kabel
+Racks & Power
+Racks
+Die Anforderungen an die 19'' Serverschränke werden immer höher und komplexer. Die Stabilität sowie die Kapazität, Kühlung, Kabel-Management und Einbautiefe spielen hierbei eine große Rolle. Die luftgekühlten Serverschränke bieten einen unkomplizierten Einbau und eine komfortable Unterbringung der Hardware.
+Stromverteilereinheit
+Mit Hilfe zusätzlicher Hardware, wie zum Beispiel einer PDU (Power Distribution Unit) oder einer USV (unterbrechungsfreie Stromversorgung) können Sie sich Ihre Rack-Umgebung perfekt konfigurieren. Sowohl die Überwachung als auch die Absicherung bieten einen großen Komfort.
+Blog Neueste Beiträge
+NVIDIA-AI-Enterprise
+2026-06-02
+NVIDIA · Enterprise-Software-PlattformNVIDIA AI EnterpriseDie validierte Software-Plattform, die produktive KI vom Prototyp bis in den Betrieb trägt. Über 100 Frameworks, vortrainierte Modelle und Microservices wie NIM, NeMo und Riva, mit Enterprise-Support und identischem Betrieb ...
+NVIDIA Vera Rubin Event
+2026-06-01
+Premiere · 21. Mai 2026 · GlindeVera Rubin PremiereWie wir die nächste NVIDIA-Generation in Glinde vorgestellt haben: mit NVIDIA-Experten vor Ort, Live-Hardware im Test-Centre und der feierlichen Eröffnung unseres neuen Firmengebäudes. Der vollständige Recap-Film: ...
+NVIDIA Vera Rubin
+2026-05-04
+NVIDIA Vera RubinSieben Chips. Eine AI‑Fabrik. Eine neue Generation.Mit der Vera Rubin Plattform tritt NVIDIA in das Zeitalter der agentischen KI ein. Sieben neu entwickelte Chips, flüssigkeitsgekühlt im Rack, integriert auf der dritten MGX‑Generation: 3,6 EFLOPS NVFP4‑Inferenz ...
+NVIDIA DGX Station
+2026-04-28
+NVIDIA DGX StationFrontier-KI vom Schreibtisch.Mit dem GB300 Grace Blackwell Ultra Desktop Superchip bringt NVIDIA Rechenzentrums-Leistung auf den Schreibtisch: 748 GB kohärenter Speicher, 20 PFLOPS FP4 und Modelle bis rund eine Billion Parameter, lokal und DSGVO-konform an einer ...
+NVIDIA DGX GB300 NVL72
+2026-04-10
+Der DGX GB300 NVL72 verbindet 36 Grace-CPUs und 72 Blackwell Ultra GPUs in einem vollständig flüssigkeitsgekühlten Rack. Die Rack-Lösung ist speziell für das Zeitalter des KI-Reasonings konzipiert. In einer NVLink-Domäne mit 72 Grafikprozessoren, die als einzelner riesiger Grafikprozessor ...
+Alle Inhalte
+Gesamten Blog anzeigen
+Blog durchsuchen
+Suche
+Kontakt FAQ
+Kontaktformular
+RMA Formular
+Qualitätssicherung
+ANFRAGEFORMULARE
+NVIDIA DGX™ Produkte
+Sie haben Fragen zu den aktuellen NVIDIA DGX™ Systemen oder benötigen ein unverbindliches Angebot?
+Anfragen
+NVIDIA Software Produkte
+Sie haben Fragen zu den aktuellen NVIDIA Software Produkten oder benötigen ein unverbindliches Angebot?
+Anfragen
+Individuelle Server Systeme
+Sie benötigen einen Server, wissen aber nicht, welches Modell das richtige ist, oder Sie finden in unserem Sortiment keine passende Lösung?
+Anfragen
+Individuelle Cluster Systeme
+Sie benötigen ein Cluster, wissen jedoch nicht, welche Produkte die richtigen sind oder finden in unserem Sortiment keine passenden Lösungen?
+Anfragen
+Kontakt
+Am Alten Lokschuppen 4, D-21509 Glinde
+E-Mail: [email protected]
+Tel.: +49(0)40 / 300 672 - 0
+Fax: +49(0)40 / 300 672 - 11
+Öffnungszeiten
+Mo - Fr:  -
+Sa - So: Geschlossen
+Sonderangebote
+Menü
+Server
+Standardserver AMD EPYC (1-Sockel)
+AMD EPYC (2-Sockel) Sehr beliebt
+Intel Xeon (1-Sockel) Neu
+Intel Xeon (2-Sockel) Neu
+GPU / MIC Server AMD EPYC Sehr beliebt
+Intel Xeon
+HGX Systeme
+Grace / Hopper
+HPC optimierte Server AMD EPYC
+Intel Xeon
+NVIDIA DGX™ Systeme Alle NVIDIA DGX™ Systeme Sehr beliebt
+JBOD Systeme Alle JBOD Systeme
+GPU Computing
+Konfigurierbare GPU Server AMD EPYC GPU Server
+bis 10x GPU - 500 W TDP
+Intel Xeon GPU Server
+bis 10x GPU - Gen5 x16
+Grafikkarten NVIDIA H200 NVL
+141 GB HMB3e - PCIe
+NVIDIA RTX™ PRO 6000 Neu
+96 GB - Blackwell
+NVIDIA L40S
+48 GB - AI Inference
+NVIDIA L4 Tensor Core GPU
+24 GB - Edge - 72 W
+NVIDIA DGX™ & HGX™ Systeme NVIDIA DGX™ B200
+8x B200 - 1.440 GB HMB3e - NVLink 5
+NVIDIA DGX™ B300
+8x B300 - 2.304 GB HMB3e - NVLink 5
+NVIDIA DGX™ Rubin NVL8 Neu
+8x Rubin - 2.304 GB HMB4 - NVLink 6
+NVIDIA DGX Station™ Systeme Neu
+Desktop DGX™ - GB300 Grace-Blackwell
+Wissenswertes: NVIDIA DGX™ B200 / B300
+einheitliche KI-Plattform von Entwicklung bis zur Bereitstellung
+Wissenswertes: NVIDIA DGX Station™ GB300 Neu
+umfängliche KI-Pipeline auf dem Schreibtisch
+Wissenswertes: NVIDIA HGX™ Systeme
+OEM-Referenzdesign - Hauptplatine mit 8x B200
+Rack-Scale - NVL72 - NVL144 NVIDIA DGX GB200 NVL72
+72 GPUs - 36 Grace CPUs
+NVIDIA DGX GB300 NVL72
+72x Blackwell Ultra - 36 Grace CPUs
+NVIDIA DGX SuperPOD™
+Referenzarchitektur für produktionsreife KI
+NVIDIA Vera Rubin NVL144 Neu
+sieben Chips - eine AI‑Fabrik - ab Q3 / 2026
+DIREKT
+VERGLEICHEN
+ALLE GRAFIKKARTEN
+GPU-Vergleich
+Vergleichen →
+Workstation
+AMD EPYC™ D10z-M4-ZG
+1x AMD EPYC™ 9005 - 360 W TDP
+D22z-M4-ZG
+2x AMD EPYC™ 9005 - 250 W TDP
+Intel® Xeon® D10x-M4-SP
+1x Intel Xeon 6™ - 350 W TDP
+NVIDIA DGX Station™ D13n-WK-GB-GB300
+1x NVIDIA GB300 Ultra Desktop Superchip - ASUS
+Software
+KI-Plattformen & Agenten NVIDIA AI Enterprise
+Data-Science-Pipelines, produktionsreife KI
+NVIDIA Agent Toolkit
+Baukasten für autonome KI-Agenten
+Agentic AI – on premise
+DSGVO-konform, eigene Hardware
+NVIDIA Parabricks
+KI-gestützte Genomanalyse
+Virtualisierung & Visualisierung NVIDIA Omniverse
+Industrielle Digitalisierung, Metaverse
+NVIDIA Virtual GPU
+GPU-Leistung auf mehrere VMs verteilt
+NICE DCV
+Sicheres Streaming grafikintensiver Apps
+Speicher & Infrastruktur Xinnor xiRAID
+NVMe, Software-RAID, 400-Gbit-InfiniBand
+Lizenzen Betriebssysteme
+Windows, SUSE, Red Hat u. v. m.
+Interconnect Ethernet
+Adapter
+Ethernet Adapter mit Übertragungsraten von 1Gbit/s bis 400Gbit/s, verschiedenen Anschlüssen und von unterschiedlichen Herstellern wie Broadcom, Intel, NVIDIA und Supermicro
+Switches
+Ethernet Switches mit Übertragungsraten von 1Gbit/s bis 800Gbit/s, verschiedenen Anschlüssen und von unterschiedlichen Herstellern wie Edgecore, Netgear, NVIDIA, QuantaMesh und Supermicro
+Kabel
+Ethernet Kabel mit Übertragungsraten 10Gbit/s bis 400Gbit/s und verschiedenen Anschlüssen, sowie DAC und Splitter Kabel
+Transceiver
+Ethernet Transceiver mit verschiedenen Übertragungsraten und in unterschiedlichen Ausführungen
+Packet Broker
+Netzwerktransparenz für Cyber Security, Big Data Analytics und Monitoring-Tools in High-End-Rechenzentren und Niederlassungen
+InfiniBand
+Adapter
+Infiniband Adapter mit Übertragungsraten von 100Gbit/s (EDR) bis 400Gbit/s (NDR)
+Switches
+Infiniband Switches mit Übertragungsraten von 400Gbit/s (NDR) bis 800Gbit/s (XDR)
+Kabel
+Infiniband Kabel mit Übertragungsraten von 100Gbit/s (EDR) bis 400Gbit/s (NDR) und verschiedenen Anschlüssen, sowie DAC und Splitter Kabel
+Racks & Power
+Racks
+Die Anforderungen an die 19'' Serverschränke werden immer höher und komplexer. Die Stabilität sowie die Kapazität, Kühlung, Kabel-Management und Einbautiefe spielen hierbei eine große Rolle. Die luftgekühlten Serverschränke bieten einen unkomplizierten Einbau und eine komfortable Unterbringung der Hardware.
+Stromverteilereinheit
+Mit Hilfe zusätzlicher Hardware, wie zum Beispiel einer PDU (Power Distribution Unit) oder einer USV (unterbrechungsfreie Stromversorgung) können Sie sich Ihre Rack-Umgebung perfekt konfigurieren. Sowohl die Überwachung als auch die Absicherung bieten einen großen Komfort.
+Blog Neueste Beiträge
+NVIDIA-AI-Enterprise
+2026-06-02
+NVIDIA · Enterprise-Software-PlattformNVIDIA AI EnterpriseDie validierte Software-Plattform, die produktive KI vom Prototyp bis in den Betrieb trägt. Über 100 Frameworks, vortrainierte Modelle und Microservices wie NIM, NeMo und Riva, mit Enterprise-Support und identischem Betrieb ...
+NVIDIA Vera Rubin Event
+2026-06-01
+Premiere · 21. Mai 2026 · GlindeVera Rubin PremiereWie wir die nächste NVIDIA-Generation in Glinde vorgestellt haben: mit NVIDIA-Experten vor Ort, Live-Hardware im Test-Centre und der feierlichen Eröffnung unseres neuen Firmengebäudes. Der vollständige Recap-Film: ...
+NVIDIA Vera Rubin
+2026-05-04
+NVIDIA Vera RubinSieben Chips. Eine AI‑Fabrik. Eine neue Generation.Mit der Vera Rubin Plattform tritt NVIDIA in das Zeitalter der agentischen KI ein. Sieben neu entwickelte Chips, flüssigkeitsgekühlt im Rack, integriert auf der dritten MGX‑Generation: 3,6 EFLOPS NVFP4‑Inferenz ...
+NVIDIA DGX Station
+2026-04-28
+NVIDIA DGX StationFrontier-KI vom Schreibtisch.Mit dem GB300 Grace Blackwell Ultra Desktop Superchip bringt NVIDIA Rechenzentrums-Leistung auf den Schreibtisch: 748 GB kohärenter Speicher, 20 PFLOPS FP4 und Modelle bis rund eine Billion Parameter, lokal und DSGVO-konform an einer ...
+NVIDIA DGX GB300 NVL72
+2026-04-10
+Der DGX GB300 NVL72 verbindet 36 Grace-CPUs und 72 Blackwell Ultra GPUs in einem vollständig flüssigkeitsgekühlten Rack. Die Rack-Lösung ist speziell für das Zeitalter des KI-Reasonings konzipiert. In einer NVLink-Domäne mit 72 Grafikprozessoren, die als einzelner riesiger Grafikprozessor ...
+Alle Inhalte
+Gesamten Blog anzeigen
+Blog durchsuchen
+Suche
+Kontakt FAQ
+Kontaktformular
+RMA Formular
+Qualitätssicherung
+ANFRAGEFORMULARE
+NVIDIA DGX™ Produkte
+Sie haben Fragen zu den aktuellen NVIDIA DGX™ Systemen oder benötigen ein unverbindliches Angebot?
+Anfragen
+NVIDIA Software Produkte
+Sie haben Fragen zu den aktuellen NVIDIA Software Produkten oder benötigen ein unverbindliches Angebot?
+Anfragen
+Individuelle Server Systeme
+Sie benötigen einen Server, wissen aber nicht, welches Modell das richtige ist, oder Sie finden in unserem Sortiment keine passende Lösung?
+Anfragen
+Individuelle Cluster Systeme
+Sie benötigen ein Cluster, wissen jedoch nicht, welche Produkte die richtigen sind oder finden in unserem Sortiment keine passenden Lösungen?
+Anfragen
+Kontakt
+Am Alten Lokschuppen 4, D-21509 Glinde
+E-Mail: [email protected]
+Tel.: +49(0)40 / 300 672 - 0
+Fax: +49(0)40 / 300 672 - 11
+Öffnungszeiten
+Mo - Fr:  -
+Sa - So: Geschlossen
+Sonderangebote
+Your browser does not support the video tag.
+Wir liefern die Rechenleistung für Systeme der Zukunft
+Skalierbare Systeme. Maßgeschneidert.
+Sie wissen schon genau, was sie brauchen? Dann geht's hier direkt zum Konfigurator.
+D23z-M4-ZT-8xGPU Ab 38.601,04 €
+AMD Dual EPYC Hochleistungs-Server:
+4HE Rack-Chassis (luftgekühlt)
+redundante 4x 3200W Netzteile
+8x 2.5" HotSwap für SATA/SAS/NVMe( Gen5 )
+2x AMD EPYC™ 9005 (max. 500 Watt TDP)
+24 DIMM Slots (max. 3072GB DDR5-6400 )
+bis zu 8x PCI-E 5.0 x16 Slots (FHFL)
+bis zu 1x PCI-E 5.0 x16 Slots (FHHL)
+bis zu 2x PCI-E 5.0 x8 Slots (FHHL)
+bis zu 8x GPU/MIC (max. 600 Watt TDP)
+D22x-M4-SP-8xGPU Ab 29.600,92 €
+Intel Dual Xeon Hochleistungs-Server:
+4HE Rack-Chassis (luftgekühlt)
+redundante 4x 3000W Netzteile
+12x 2.5" HotSwap für SATA/SAS/NVMe( Gen5 )
+2x Intel Xeon 6™ (max. 350 Watt TDP)
+32 DIMM Slots (max. 4096GB DDR5-6400 )
+2x 10GBase-T 10GbE Ports
+bis zu 8x PCI-E 5.0 x16 Slots (FHFL)
+bis zu 1x PCI-E 5.0 x16 Slots (FHHL)
+bis zu 8x GPU/MIC (max. 600 Watt TDP) inkl. NVLink Bridge Support
+D22x-M2-SP-4xGPU Ab 21.982,17 €
+Intel Dual Xeon Hochleistungs-Server:
+2HE Rack-Chassis (luftgekühlt)
+redundante 2x 2700W Netzteile
+12x 3.5" HotSwap für SATA/SAS/NVMe( Gen5 )
+2x Intel Xeon 6™ (max. 350 Watt TDP)
+32 DIMM Slots (max. 4096GB DDR5-6400 )
+bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
+bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
+bis zu 1x PCI-E 5.0 x16 Slot (OCP)
+bis zu 4x GPU/MIC (max. 400 Watt TDP)
+D22z-M2-ZG-4xGPU Ab 30.295,69 €
+AMD Dual EPYC Hochleistungs-Server:
+2HE Rack-Chassis (luftgekühlt)
+redundante 2x 2700W Netzteile
+12x 3.5" HotSwap für SATA/SAS/NVMe( Gen4 )
+2x AMD EPYC™ 9005 (max. 500 Watt TDP)
+24 DIMM Slots (max. 3072GB DDR5-6400 )
+bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
+bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
+bis zu 1x PCI-E 5.0 x16 Slot (OCP)
+bis zu 4x GPU/MIC (max. 400 Watt TDP)
+D12z-M2-ZT-4xGPU Ab 16.873,23 €
+AMD EPYC Hochleistungs-Server:
+2HE Rack-Chassis (luftgekühlt)
+redundante 2x 2700W Netzteile
+8x/12x 3.5" HotSwap für SATA/SAS/NVMe( Gen5 )
+1x AMD EPYC™ 9005 (max. 500 Watt TDP)
+24 DIMM Slots (max. 3072GB DDR5-5200 )
+bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
+bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
+bis zu 1x PCI-E 5.0 x4 Slot (OCP)
+bis zu 4x GPU/MIC (max. 400 Watt TDP)
+D12z-M1-ZT Ab 15.200,54 €
+AMD EPYC Hochleistungs-Server:
+1HE Rack-Chassis (luftgekühlt)
+redundante 2x 1300W Netzteile
+12x 2.5" HotSwap für SATA/SAS/NVMe( Gen5 )
+1x AMD EPYC™ 9005 (max. 400 Watt 

@@ -1,4 +1,6 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-04T08:44:18+00:00	Webinar - Reinvent Your Accounting Firm and Manage Your Client Portfolio with Odoo 20	https://www.youtube.com/watch?v=PAqBiRBhRcg
+2026-11-03T21:25:07+00:00	Odoo Market Anaylsis for the East Coast	https://www.youtube.com/watch?v=OdFGgXbsRSk
 2026-11-02T16:15:19+00:00	Odoo Quick Tips - Live chat preferences [General]	https://www.youtube.com/shorts/n2zpjO6VAxQ
 2026-11-02T13:03:23+00:00	Webinaire - RH 360° : du recrutement à la gestion quotidienne pour une boite internationale	https://www.youtube.com/watch?v=9lkmBkkOODg
 2026-10-30T10:47:04+00:00	Webinar - Best practices voor een succesvolle Odoo-implementatie met een partner	https://www.youtube.com/watch?v=k-Xmhgl52B0
@@ -12,5 +14,3 @@
 2026-10-28T22:27:58+00:00	Mastering Project & Timesheet Management	https://www.youtube.com/watch?v=a_jQr1z6MNU
 2026-10-28T21:02:33+00:00	Odoo Live Services: Accounting Functional Q&A	https://www.youtube.com/watch?v=RARxa-arvDs
 2026-10-28T16:58:20+00:00	Webinar - Odoo 20 - Wat is er nieuw in Kassa (Horeca)?	https://www.youtube.com/watch?v=J8QBSA8WwK0
-2026-10-28T16:15:28+00:00	Odoo Quick Tips - Preview cards [AI]	https://www.youtube.com/watch?v=GI6je-uSUlM
-2026-10-28T13:11:56+00:00	Webinaire - Boostez votre restauration rapide avec Odoo	https://www.youtube.com/watch?v=Pd3A1DMbraE

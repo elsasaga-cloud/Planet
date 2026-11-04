@@ -1,4 +1,4 @@
-# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Strona główna | Getfort
 O marce
 Produkty
@@ -13,6 +13,7 @@ Elektryka i narzędzia
 Wsparcie
 Centrum pobierania
 Kontakt
+Gdzie kupić
 Poznaj Nowe Szafy Rack
 Teraz jeszcze więcej przestrzeni – 47U
 Dowiedz się więcej
@@ -130,6 +131,7 @@ Baza wiedzy GetFort
 Aktualności
 Oferujemy nowoczesne systemy infrastruktury IT przeznaczone dla domów, firm oraz obiektów przemysłowych. W naszej ofercie znajdują się produkty najwyższej jakości.
 Dowiedz się więcej
+Nowa seria uchwytów TV GetFort
 Nowość w ofercie: Szafy Rack 47U
 Skontaktuj się z nami,
 wypełniając poniższy formularz

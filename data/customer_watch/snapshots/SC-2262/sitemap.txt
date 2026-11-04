@@ -1,4 +1,4 @@
-# SC-2262 1st-embedded.com · sitemap · https://1st-embedded.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2262 1st-embedded.com · sitemap · https://1st-embedded.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 	https://1st-embedded.com/shop/payment/validate
 	https://1st-embedded.com/shop/payment/token
 	https://1st-embedded.com/website_payment/confirm
@@ -87,6 +87,7 @@
 	https://1st-embedded.com/shop/product/edge-ki-computer-brav-7131-531
 	https://1st-embedded.com/shop/product/edge-ki-computer-brav-7134-530
 	https://1st-embedded.com/shop/product/edge-ki-computer-brav-7135-532
+	https://1st-embedded.com/shop/product/edge-ki-computer-brav-7138-t-553
 	https://1st-embedded.com/shop/product/edge-ki-computer-brav-7821-552
 	https://1st-embedded.com/shop/product/edge-ki-computer-brav-7823-546
 	https://1st-embedded.com/shop/product/embedded-box-pc-kmda-7611-t001-485
@@ -163,4 +164,4 @@
 	https://1st-embedded.com/shop/product/transcend-industrielle-flashspeicher-ts4gcf220i-70
 	https://1st-embedded.com/shop/product/transcend-industrielle-flashspeicher-ts64gcf170-189
 	https://1st-embedded.com/shop/product/usb-3-0-kabel-fur-pn12a-pcie-adapterkarte-340
-	https://1st-embedded.com/shop/product/superflacher-lufterloser-computer-1st-
+	http

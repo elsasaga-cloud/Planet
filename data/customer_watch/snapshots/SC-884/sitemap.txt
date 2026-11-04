@@ -1,4 +1,4 @@
-# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 	https://www.novicam.ru/doorphones/doorphones_accessories/2-pin-wire-v-4042
 	https://www.novicam.ru/doorphones/doorphones_accessories/4-pin-wire-v-4043
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4552
@@ -92,7 +92,6 @@
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-54x-v-1047v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-57m-v-1109v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-57mx-v-1048v
-	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-58-v-1082v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-58m-v-1110v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-58x-v-1049v
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/magic-4-hd-white-v-4851
@@ -115,7 +114,6 @@
 	https://www.novicam.ru/access-control/terminal-raspoznavaniya-lic-4788
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/novicam-nc4007-ver-4007
 	https://www.novicam.ru/novihome-koti-v-8001l
-	https://www.novicam.ru/sistemy-videonablyudeniya/ip-recorders/nr1604-p4-v-3140
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip-recorders/nr1604x-v-3011v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip-recorders/nr1604x-p4-v-3012v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip-recorders/nr1608x-v-3013v
@@ -150,7 +148,9 @@
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-tochki-dostupa/pv-wf2ap-v-2110
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-mosty/pv-wf2bcl-v-2136
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-mosty/pv-wf5bcl-v-2139
-	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4621
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4620
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4621
 	https://www.novicam.ru/doorphones/doorphones_accessories/ip-box-v-4421
-	https://www.novicam.ru/sistemy-kontrolya-dostupa/
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/sb210-v-4020
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/complect-skud/sb210-v-4058
+	https://www.novicam.ru/sistemy-kontrolya-dost

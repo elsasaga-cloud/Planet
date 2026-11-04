@@ -1,4 +1,4 @@
-# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Sun, 01 Nov 2026 12:53:08 +0100	SNMP w monitoringu sieci. Jak działa i co pozwala wykryć?	https://bitstream.pl/aktualnosci/snmp-w-monitoringu-sieci-jak-dziala-i-co-pozwala-wykryc/
 Sun, 01 Nov 2026 12:44:30 +0100	Redundancja sieci – co to jest i jak działa w sieciach przemysłowych	https://bitstream.pl/aktualnosci/redundancja-sieci-co-to-jest-i-jak-dziala-w-sieciach-przemyslowych/
 Thu, 08 Oct 2026 12:13:20 +0200	Mediakonwerter w sieciach przemysłowych – kiedy światłowód zastępuje skrętkę	https://bitstream.pl/aktualnosci/mediakonwerter-w-sieciach-przemyslowych-kiedy-swiatlowod-zastepuje-skretke/

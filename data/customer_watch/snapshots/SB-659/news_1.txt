@@ -1,4 +1,4 @@
-# SB-659 entpa.com.tr · news_1 · https://entpa.com.tr/haberler_tr.asp · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-659 entpa.com.tr · news_1 · https://entpa.com.tr/haberler_tr.asp · fetched 2026-11-04T09:30:29Z · HTTP 200
 ENTPA'dan Haberler
 select your language:
 Haberler
@@ -47,4 +47,4 @@ ENTPA bir ENTES kuruluşudur.
 © Entpa Elektronik 2013. Tüm hakları saklıdır.
 web tasarım: easyasnet
 v.r.3.3.7 (user ip:
-20.169.100.161)
+13.71.229.100)

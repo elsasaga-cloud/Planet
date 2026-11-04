@@ -1,4 +1,7 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-03T09:43:52Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-04T09:30:29Z · HTTP 200
+03.11.2026 12:39:53	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp3/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc3
+03.11.2026 12:35:18	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp1/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc1
+03.11.2026 11:19:54	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-9h-slash-sb140/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet
 03.11.2026 11:00:59	Fluke ii1050/TC03A/FPC3 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-t9hzfpc3/fluke-ii1050-tc03a-fpc3-akustisk-kamera-med-ir-kamera-plus-fluke-premium-care-for-3%c3%a5r
 03.11.2026 10:45:27	Fluke ii1050/TC03A/FPC1 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-t9hzfpc1/fluke-ii1050-tc03a-fpc1-akustisk-kamera-med-ir-kamera-plus-fluke-premium-care-for-1%c3%a5r
 03.11.2026 10:36:38	Fluke ii1050/TC03A akustisk kamera + IR	https://www.adeptor.no/fluke/flk-ii1050-slash-t50hz/fluke-ii1050-tc03a-akustisk-kamera-plus-ir-leakq-pdq-mode-og-mecq-plus-tc03a-50hz
@@ -85,9 +88,4 @@
 08.09.2026 15:36:25	Hirschmann OpenRail RSP35, 8x FE 3x GE	https://www.adeptor.no/hirschmann/rsp35-08033o6zts-27/hirschmann-openrail-rsp35-8x-fe-3x-ge-rsp35-08033o6zt-skkv9hpi2sxxxxx
 08.09.2026 10:05:51	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-20/grs2000-ethernet-switch-grs2030-gh8h8-fh800-aj2-skkv9hhe2a99
 08.09.2026 10:03:27	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-19/grs2000-ethernet-switch-grs2030-g0000-f0000-a00-skkv9hhe2a99
-08.09.2026 10:00:47	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-18/grs2000-ethernet-switch-grs2030-g0000-m0000-a00-skkv9hhe2a99
-08.09.2026 09:57:54	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-17/grs2000-ethernet-switch-grs2030-gh8h8-m0000-aj2-skkv9hhe2a99
-04.09.2026 14:37:02	ELR 21000 Dynamic Test System	https://www.adeptor.no/ea-elektro-automatik/ea-elr%7e21000%7edts/elr-21000-dynamic-test-system-high-speed-regenerative-load-solution
-04.09.2026 09:50:00	HarmAtex Switch - Foot	https://www.adeptor.no/ex-tech-solutions/xpewr111/harmatex-switch-foot-1-step
-02.09.2026 11:02:59	MSMU200-2 (SMU) Module	https://www.adeptor.no/tektronix/msmu200-2/msmu200-2-smu-module-30-w-200-v-15-a-2-channels
-01.09.2026 1
+08.09.2026 10:00:47	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-18/grs2000-ethernet-switch-grs2030-g0000-m0000-a0

@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -26,35 +26,35 @@ Kategorie
 Access Pointy (658)
 Akcesoria (437)
 Akcesoria GSM/LTE (374)
-Anteny (375)
+Anteny (376)
 Automatyka i Przemysł (442)
 Części serwisowe (161)
 Elektryka (13)
 Inteligentny dom (90)
 Karty sieciowe (85)
 Komputery (151)
-Kontrolery sieciowe (30)
+Kontrolery sieciowe (31)
 Media konwertery (76)
-Monitoring (306)
+Monitoring (308)
 Okablowanie (698)
 Platformy WLAN (2)
 Radiolinie (85)
-Routery (182)
+Routery (183)
 Routery ADSL (5)
 Światłowody (1706)
 Switche (681)
 Szafy rack 10/19 cali (498)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
-Zasilanie (830)
+Zasilanie (831)
 Zdrowie (10)
 Złącza (243)
-MikroTik (404)
+MikroTik (403)
 Solarix (139)
 Teltonika (392)
 Tenda (175)
 TP-Link (479)
-Ubiquiti (792)
+Ubiquiti (795)
 ♻️ Towary refurbished (2)
 Wybierz producenta
 Wybierz
@@ -86,7 +86,7 @@ Chieftec (1)
 Cisco (24)
 City Media (24)
 Compex (3)
-Cudy (76)
+Cudy (77)
 Cyberbajt (92)
 D-Link (117)
 Dahua (9)
@@ -127,7 +127,7 @@ iNEtech (1)
 Infomir (1)
 INNO Instrument (2)
 Intenso (1)
-InterLine (49)
+InterLine (50)
 IP-COM (37)
 IPOX (15)
 Jirous (32)
@@ -144,7 +144,7 @@ Mantar (102)
 Mastech (2)
 Master Connectors (5)
 Maxcable (22)
-Mean Well (66)
+Mean Well (67)
 Merawex (8)
 Mercusys (35)
 Microsoft (1)
@@ -204,7 +204,7 @@ TrendNet (3)
 TriBrer (5)
 Triset (4)
 TVIP (1)
-Ubiquiti (852)
+Ubiquiti (855)
 UltiPulse (4)
 UNI-T (4)
 UPLink (27)
@@ -291,51 +291,50 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Wisnetworks WIS-ANS2417-90 MIMO Sector
-244,77 zł z VAT
-420,22 zł
-199,00 zł netto
+ZTE F623 GPON ONU 1GE+3FE+1POTS+WIFI+USB
+109,47 zł z VAT
+141,08 zł
+89,00 zł netto
 szt
-Najniższa cena z 30 dni: 420,22 zł
-Sektor Tornado Pro 18 SV
-129,15 zł z VAT
-221,40 zł
-105,00 zł netto
+Najniższa cena z 30 dni: 141,08 zł
+Tenda TEG1126P-24-410W
+836,40 zł z VAT
+984,00 zł
+680,00 zł netto
 szt
-Najniższa cena z 30 dni: 221,40 zł
-Szafkowy zasilacz buforowy ZBF-R35D
-170,97 zł z VAT
-212,79 zł
-139,00 zł netto
+Najniższa cena z 30 dni: 984,00 zł
+IP-COM Pro-S24-410W
+1 291,50 zł z VAT
+1 620,53 zł
+1 050,00 zł netto
 szt
-Najniższa cena z 30 dni: 212,79 zł
-WYPRZEDAŻ
-Uchwyt kablowy KO16, na przewód okrągły ø 16 mm
-4,80 zł z VAT
-14,76 zł
-3,90 zł netto
+Najniższa cena z 30 dni: 1 620,53 zł
+Przetwornica 12V/24V 50W 2.1A, SD-50A-24
+118,08 zł z VAT
+146,37 zł
+96,00 zł netto
 szt
-Najniższa cena z 30 dni: 14,76 zł
-Szafkowy zasilacz buforowy ZBF-R35E
-183,27 zł z VAT
-232,47 zł
-149,00 zł netto
+Najniższa cena z 30 dni: 146,37 zł
+TP-Link Deco E4
+178,35 zł z VAT
+195,57 zł
+145,00 zł netto
 szt
-Najniższa cena z 30 dni: 232,47 zł
-Tenda B6 Stacja bazowa 5 GHz
-282,90 zł z VAT
-372,00 zł
-230,00 zł netto
+Najniższa cena z 30 dni: 195,57 zł
+Teltonika RUTX14 router LTE12 (RUTX14000000)
+1 599,00 zł z VAT
+1 866,13 zł
+1 300,00 zł netto
 szt
-Najniższa cena z 30 dni: 372,00 zł
+Najniższa cena z 30 dni: 1 866,13 zł
 Najnowsze propozycje
 NOWOŚĆ
 D-Link C36/ISP/E
-303,85 zł z VAT
-247,03 zł netto
+304,55 zł z VAT
+247,60 zł netto
 szt
 NOWOŚĆ
-Obudowa rack 19", 1U, szara dla splittera PLC SM SC/APC
+Obudowa rack 19", 1U, szara dla splittera PLC SM 2x SC/APC
 105,50 zł z VAT
 85,77 zł netto
 szt
@@ -346,17 +345,17 @@ Open Rack 32U Lanberg 600x800, czarny
 szt
 NOWOŚĆ
 Pakiet 150GB danych dla Teltonika RMS Connect/VPN (RMSDT101G150)
-209,63 zł z VAT
-170,43 zł netto
+210,59 zł z VAT
+171,21 zł netto
 szt
 NOWOŚĆ
-Regał na baterie do UPS, 830x454, 2x rzędy, 4x poziomy (8 półek), czarny
-312,60 zł z VAT
-254,15 zł netto
+Regał na baterie do UPS, 830x650, 3x rzędy, 4x poziomy (12 półek), czarny
+551,10 zł z VAT
+448,05 zł netto
 szt
 Teltonika RMS Management Pack, licencja na 5 lat + Rozszerzona gwarancja na 3 lata (grupa H)
-873,46 zł z VAT
-710,13 zł netto
+877,46 zł z VAT
+713,38 zł netto
 szt
 NOWOŚĆ
 TP-Link EAP727
@@ -369,20 +368,23 @@ TP-Link Fusion 2.5G PoE
 1 356,30 zł netto
 szt
 NOWOŚĆ
+Ubiquiti AI Horn Speaker (UP-AI-Horn-Speaker-B)
+1 376,76 zł z VAT
+1 119,32 zł netto
+szt
+NOWOŚĆ
+Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
+7 647,78 zł z VAT
+6 217,71 zł netto
+szt
+NOWOŚĆ
 Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
 1 579,23 zł z VAT
 1 283,93 zł netto
 szt
-Porównywarka
-Wybierz produkty do porównania
-Towar dnia
-Cudy BU530
-20,75 zł z VAT
-16,87 zł netto
-more
-WYSYŁKA
-Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
-Koszty przesyłki:
-DHL: od 13 PLN (netto)
-FedEx: od 14.90 PLN (netto)
-Paczkomat: od 14 PLN (netto)
+NOWOŚĆ
+Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-W)
+1 579,23 zł z VAT
+1 283,93 zł netto
+szt
+Porównywar

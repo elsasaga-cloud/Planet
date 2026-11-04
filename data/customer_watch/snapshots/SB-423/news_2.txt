@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-04T09:30:29Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,14 +321,28 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Atténuateurs RF compacts pour radar et SATCOM : jusqu'à 20 GHz
+Atténuation de 0 à 20 dB, adaptation 50 Ω et fonctionnement jusqu'à 20 GHz : les caractéristiques des nouveaux...
 Bras robotique SO-ARM101 Pro : IA et apprentissage
 Explorez les possibilités du bras robotique SO-ARM101 Pro de Seeed Studio : téléopération, LeRobot, apprentissage par...
-Réfractomètres de process ATAGO CM-800α : Brix, HCl et concentrations chimiques
-Mesurez en continu le Brix, HCl, NaOH, éthanol, glycol et d'autres concentrations avec les réfractomètres de process...
-Méthode IMPro : Nokia valide les mesures acoustiques avec GRAS
-Découvrez comment Nokia utilise le microphone sonde GRAS 40SA et la méthode IMPro pour caractériser des microphones...
+Marché de la mémoire : vers une baisse des prix DDR4 et DDR5 ?
+Le marché de la mémoire montre des signes de correction. Analyse des tendances DDR4, DDR5, NAND et SSD et des risques...
 Ressources
 Il y a 400 Actualités.
+Marché de la mémoire : vers une baisse des prix DDR4 et DDR5 ?
+Posté le: 03/11/26
+|
+Catégories:
+Ressources , MOBILITÉ & SYSTÈMES EMBARQUÉS
+Le marché de la mémoire montre des signes de correction. Analyse des tendances DDR4, DDR5, NAND et SSD et des risques liés à la demande en IA.
+Lire plus
+Resilient PNT : maintenir la synchronisation en cas de perte GNSS
+Posté le: 02/11/26
+|
+Catégories:
+Actualités , COMPOSANTS & MODULES , Ressources , COMPOSANTS & MODULES
+Holdover, récupération 1PPS, re-disciplining, OCXO et GNSSDO : découvrez les principes d’une architecture temporelle résiliente face aux pertes GNSS.
+Lire plus
 Méthode IMPro : Nokia valide les mesures acoustiques avec GRAS
 Posté le: 30/10/26
 |
@@ -384,20 +398,6 @@ Posté le: 19/10/26
 Catégories:
 Ressources , TESTS & MESURES
 Comment réduire le bruit des drones ? Une étude de l'Université de Bristol révèle les effets de la désynchronisation des hélices, mesurés avec GRAS.
-Lire plus
-IEC 62443 : sécuriser les réseaux et équipements industriels dès leur conception
-Posté le: 14/10/26
-|
-Catégories:
-Actualités , Ressources , MOBILITÉ & SYSTÈMES EMBARQUÉS , MOBILITÉ & SYSTÈMES EMBARQUÉS
-Switches Ethernet industriels ORing, informatique embarquée AAEON : comprendre les certifications et les bonnes pratiques de déploiement.
-Lire plus
-SideSense : communication et sensing simultanés en mmWave
-Posté le: 09/10/26
-|
-Catégories:
-Ressources , NI
-Découvrez comment SideSense exploite plusieurs faisceaux mmWave pour maintenir la communication tout en détectant des mouvements respiratoires.
 Lire plus
 1
 2

@@ -1,4 +1,4 @@
-# SB-068 ict-integrators.com · home · https://ict-integrators.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-068 ict-integrators.com · home · https://ict-integrators.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 ICT Integrators | Your Digital Transformation Partner
 MENU
 CLOSE
@@ -172,64 +172,58 @@ Security
 DR/Backup on AWS
 Managed AWS Operations
 AWS Cost and Performance Management
-We offer an array of managed IT services to support organizations for day to day operations with their business goals, our focus is to act as a one-stop resource for all the managed services needs of enterprises.
-Following are the services we offer:
-Managed Desk Side Support...
+In today's world of critical applications where continuous power is essential for daily operations, ICT Integrators provide comprehensive AC & DC power solutions for corporate, industrial and telecom environments.
+We offer a full range of power backup solutions ranging from small wor...
 More
-Managed IT Helpdesk
+Power Backup
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Managed IT Helpdesk
-We offer an array of managed IT services to support organizations for day to day operations with their business goals, our focus is to act as a one-stop resource for all the managed services needs of enterprises.
-Following are the services we offer:
-Managed Desk Side Support
-Managed Security
-Managed Cloud
-Managed SD-WAN
-Managed SD-Access
-Managed Wireless Network
-ICT Integrators offers these managed IT services as a Third-Party organization with a network operations center to proactively monitor customer systems, resolve issues and perform work with adequate level of expertise and efficiency.
-The developing noticeable quality of security solutions has prodded new patterns in the video surveillance market. The advancements in the Video Analytics and an explosion in the amount of data generated, processed and stored have resulted in an increasing demand for proficient surveillance cameras....
+Power Backup
+In today's world of critical applications where continuous power is essential for daily operations, ICT Integrators provide comprehensive AC & DC power solutions for corporate, industrial and telecom environments.
+We offer a full range of power backup solutions ranging from small workstation protection to server protection to server farm and data center protection.
+Our Power Backup Experts first evaluates power backup status as per the customer device requirement and then recommend the right solution. We offer Uninterruptible Power Supply (UPS) Solution for Customers system protection and business continuity. Power backups can be customized to keep the servers up and running during short outages and safely backed up during longer period of power loss, it can also be strengthened to keep the servers running even during long power outages.
+As AWS Consulting Partner, our task is to understand existing or new business / application landscape and extend guidance to build managed cloud architecture that suits your organizational needs. We help you understand and utilize Amazon Web Services (AWS) in the most efficient and cost effective wa...
 More
-IP Video Surveillance and Analytics
+AWS Cloud Solutions
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-IP Video Surveillance and Analytics
-The developing noticeable quality of security solutions has prodded new patterns in the video surveillance market. The advancements in the Video Analytics and an explosion in the amount of data generated, processed and stored have resulted in an increasing demand for proficient surveillance cameras.
-ICT Integrators, being partner of KEDACOM, Tiandy and Axxonsoft design surveillance solutions for the small, medium and large enterprises. We have the wide range of Intelligent IP Cameras, Encoders, NVR, and Video Management Software (VMS) along with the advanced analytics solutions for deeper video analysis.
-Our experts have designed and deployed Intelligent Security Solutions for Industries and Educational Institutes.
-Solution offerings includes
-IP Cameras (Bullet, Dome, PTZ etc.)
-Thermal Cameras
-NVR and VMS
-Large Video Storage
-Encoders
-Video Walls
-Specialized Enclosures
-Advanced Intelligent Analytics
-We offer our customers, performance management and monitoring services that help to control costs and improves network efficiency.
-Our Network Monitoring service enables the delivery, monitoring and management of critical network performance metrics such as bandwidth utilization, throughput, late...
+AWS Cloud Solutions
+As AWS Consulting Partner, our task is to understand existing or new business / application landscape and extend guidance to build managed cloud architecture that suits your organizational needs. We help you understand and utilize Amazon Web Services (AWS) in the most efficient and cost effective way.
+ICT Integrators works closely with AWS ensuring that your migration plans are executed flawlessly and design is in compliance to AWS well architected frameworks. We have developed expertise in understanding, creating and migrating business critical systems using AWS as a platform. Our certified AWS consultants are readily accessible in case you have questions regarding how the cloud adoption may benefit your organization!
+Following are the key AWS cloud consulting areas we deal in:
+Planning & Assessment
+Proof of Concept Testing
+Design, Deployment, and Migration
+Windows Workloads
+Linux Workloads
+Databases
+Networking
+Storage
+Security
+DR/Backup on AWS
+Managed AWS Operations
+AWS Cost and Performance Management
+We provide the functionality service providers need to deliver enhanced next generation voice calling services, such as Call Routing, Call Screening, and Call Rating to your subscribers, regardless of your network infrastructure, offered solutions include:
+Class 5 Switching
+Class 4...
 More
-Performance Management & Monitoring
+Career Grade Telephony
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Performance Management & Monitoring
-We offer our customers, performance management and monitoring services that help to control costs and improves network efficiency.
-Our Network Monitoring service enables the delivery, monitoring and management of critical network performance metrics such as bandwidth utilization, throughput, latency, availability and application infrastructure, including equipment asset management for large enterprises and service providers.
-We offer solution and services around:
-Network Performance Monitoring
-Application Performance Monitoring
-Packet Capture Analysis
-Network Mapping
-Customizable Reports
-We help our customers to automate processes and prioritize routine decision-making through advanced algorithms. This helps evacuate the possibility of human blunder and empowers us to move the conventional guideline-based procedures to progressively smart ones to empower the disclosure of new unstru...
+Career Grade Telephony
+We provide the functionality service providers need to deliver enhanced next generation voice calling services, such as Call Routing, Call Screening, and Call Rating to your subscribers, regardless of your network infrastructure, offered solutions include:
+Class 5 Switching
+Class 4 Switching
+Media and Signaling Gateways
+Flexible Call Routing
+We offer vast range of proficiency in designing the data centers for our customers which is sheer need of the businesses these days. We are expert in planning, designing, engineering, constructing, monitoring and maintaining data centers that integrate the best and critical infrastructure...
 More
-Aritifical Intelligence (ML & DL)
+Datacenter
 ×
 ICT Integrators - Your Digital Transformation Partner
 I'm Interested
-Aritifical Intelligence (ML & DL)
-We help our customers to automate processes and prioritize routine decis
+Datacenter
+We offer vast range of proficiency in designing the data centers for our customers which is sheer ne

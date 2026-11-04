@@ -1,3 +1,3 @@
-# SB-891 techpoint-gmbh.de · feed_auto · https://www.techpoint-gmbh.de/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-891 techpoint-gmbh.de · feed_auto · https://www.techpoint-gmbh.de/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Wed, 02 Jul 2025 17:03:51 +0000	Unsere Neuesten Maschinen	https://www.techpoint-gmbh.de/unsere-neuesten-maschinen/?utm_source=rss&utm_medium=rss&utm_campaign=unsere-neuesten-maschinen
 Wed, 02 Jul 2025 17:02:01 +0000	Sommerfest 2025	https://www.techpoint-gmbh.de/sommerfest-2025/?utm_source=rss&utm_medium=rss&utm_campaign=sommerfest-2025

@@ -1,4 +1,4 @@
-# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-03T09:43:52Z · HTTP 200
+# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-04T09:30:29Z · HTTP 200
 Toutes les catégories
 Accueil
 - Produits
@@ -374,6 +374,9 @@ Mon compte
 Actualités
 Blog
 Actualités
+03/11/2026
+Cas client QL3D – Éditeur de logiciel HACCP : plus de 30 000 capteurs Dragino D20-LB
+Logiciel HACCP : plus de 30 000 capteurs Dragino D20-LB pour automatiser [...]
 02/11/2026
 Restauration collective : contrôler l'hygiène du lave-vaisselle sans relevé manuel avec DishSense
 Hygiène alimentaire · Restauration collective
@@ -389,9 +392,6 @@ Pour un grand groupe hospitalier francilien, une solution de monitoring a [...]
 29/09/2026
 Surveiller à distance forages, puits et qualité de l'eau
 Un producteur français de jus de fruits voulait piloter ses ressources en [...]
-22/09/2026
-Détecteur d'eau sur 1 point VS détecteur d'eau sur rampe
-Bien comprendre la différence entre détection d'eau sur 1 point et une [...]
 1
 2
 3
@@ -399,10 +399,10 @@ Bien comprendre la différence entre détection d'eau sur 1 point et une [...]
 5
 Suivant
 Catégorie
-Actualités (46)
+Actualités (48)
 Produits (3)
 Les produits en un clin d'oeil (1)
-Cas clients (2)
+Cas clients (3)
 Evènements (3)
 Blog constructeurs (8)
 Guides (1)
@@ -436,10 +436,10 @@ Utiliser un serveur SMTP public : Non recommandé
 Ethiopian Airlines améliore la logistique de la chaîne du froid grâce aux appareils STE2 R2 et au portail SensDesk (Article HW group)
 08/12/2023
 Articles récents
+Cas client QL3D – Éditeur de logiciel HACCP : plus de 30 000 capteurs Dragino D20-LB
+03/11/2026
 Restauration collective : contrôler l'hygiène du lave-vaisselle sans relevé manuel avec DishSense
 02/11/2026
-Réfrigérateurs piratés : pourquoi la surveillance de température doit rester indépendante
-27/10/2026
 Tags Post
 ste2
 surveillance

@@ -1,4 +1,4 @@
-# SB-368 welotec.com · news_1 · https://welotec.com/en-us/pages/blogs · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-368 welotec.com · news_1 · https://welotec.com/en-us/pages/blogs · fetched 2026-11-04T09:30:29Z · HTTP 200
 Energy and Productivity Solutions in Focus | Welotec Blog
 customer.current_location.name:
 customer.current_company.name:
@@ -193,24 +193,22 @@ A Software-Defined Substation (SDS) goes beyond virtualizing protection, automat
 Continue reading
 Alle anzeigen
 Events
-02 Nov, 2026
-Video: Dedicated Hardware or Virtualized - Choosing the Right Substation Setup
-Substation computers have become an integral part of modern substation automation.
-They host a wide range of applicat...
+substation
+substationautomation
+virtualization
+03 Nov, 2026
+Webinar: Digital Substations - 2026 in Review and Outlook for 2027 (Nov. 26, 0700 PT)
+What has 2026 changed for digital substations and what will matter in 2027?
+Virtualization, open-source platforms, mu...
 0 min
 Continue reading
-edge
-edgecomputing
-eg500
-gea
-iot
-opensource
-sealman
-smartems
-webinar
-04 Sep, 2026
-SEALMAN Live: Build Your Own Independent IIoT Infrastructure in 75 Minutes
-Every machine builder needs the same digital building blocks: edge device management, AI enabled edge applications, s...
+substation
+substationautomation
+virtualization
+03 Nov, 2026
+Webinar: Digital Substations - 2026 in Review and Outlook for 2027 (Nov. 26, 0900 CET)
+What has 2026 changed for digital substations and what will matter in 2027?
+Virtualization, open-source platforms, mu...
 0 min
 Continue reading
 Alle anzeigen

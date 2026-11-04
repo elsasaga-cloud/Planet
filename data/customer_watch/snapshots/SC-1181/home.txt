@@ -1,4 +1,4 @@
-# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Agenda-Age Kft. | A hálózatspecialista
 Belépés
 Regisztráció
@@ -7,11 +7,11 @@ AKCIÓ Börze Leértékelt termékek
 HÁLÓZATI aktív eszközök Switch Távfelügyelet Média konverter
 ETHERNET (réz) hálózati termékek Kábel - folyóméter Kábel - szerelt (patch) Csatlakozó és törésgátló Fali aljzat, -keret, kiemelő keret Modulár betét, -toldó, -összekötő Patch panel Kábel Y adapter Szerelési anyag Szerszám, eszköz Teszter, Műszer Konverter
 OPTIKAI hálózati elemek Kábel - folyóméter Kábel - szerelt (patch, pigtail) Csatlakozó, Toldó Kötődoboz, Kötéstartó Patch panel PLC elosztó Kábel Y adapter Switch konverterek Konverterek optikai (Média konverterek) Konverter Ethernet, -SFP, -HDMI Konverter video, -audio SFP Modul Teszter, Műszer és kiegészítőik Szerszám, Kellék Fali aljzat Szerelési anyag Alkatrész Bérbeadás
-RACK szekrények és tartozékaik Rack Szekrény, Keret Rack Kiegészítő
+RACK szekrények és tartozékaik Rack Szekrény, Keret Rack tálcák Rack kábelrendezők Elektromos elosztósávok (PDU) Rack szekrény szellőztetők, hűtő-/fűtőegységek Rack szekrény vegyes tartozékok
 KÁBELBEHÚZÓK (ESTIARE) Kábelbehúzó/-berudaló Kábelbehúzó tartozékok
 KÁBELCSATORNÁK és kiegészítők (KOPOS) Kábelcsatorna, idom Kábelcsatorna kiegészítő
 SZOLGÁLTATÁSAINK Tanfolyam Kölcsönzés (bérlés) Műszaki szolgáltatás Elektronikai hulladék átvétel
-TÁPELLÁTÁS UPS, Akkumulátorbank Akkumulátor Elosztósáv, túlfesz. védő Fali aljzat, asztali aljzat Csatlakozó Tápkábel Tápegység, PoE
+TÁPELLÁTÁS UPS, Akkumulátorbank Akkumulátor Túlfesz. védő, elektromos elosztó Fali aljzat, asztali aljzat Csatlakozó Tápkábel Tápegység, PoE
 TELEFON Kábel Csatlakozó Modulár betét, -toldó, -összekötő Szerszám, eszköz Szerelési anyag Teszter, Műszer
 KOAX Kábel - folyóméter Csatlakozó Teszter, Műszer Szerszám
 Kezdőlap Szolgáltatások Tanfolyamok Kábelelszámolás felhasználás alapján Házhoz szállítás Kölcsönzés Szerviz Műszaki tanácsadás Terméktámogatás, katalógusok Partnerprogram Segítse szolgáltatásunkat - Kérdőív Tartós-bérleti konstrukciók - Grenke Iskolák támogatása Leselejtezett eszközök átvétele Hírleveleink
@@ -59,9 +59,6 @@ Saját fiók Kosár Írjon nekünk! Nyitott ügyek Lezárt ügyek Kedvencek Fió
 Üdvözöljük webáruházunkban!
 Cégünk hálózatinformatikai nagykereskedés, ezért kizárólag jogi személyeket, szerződött viszonteladókat és hivatalos telepítőket áll módunkban kiszolgálni! Magánszemélyeket nem!
 Webáruházban történő rendelés leadásához előzetes regisztráció szükséges, melyet kollégáink ellenőriznek és hagynak jóvá!
-Kedves ügyfeleink! Felhívjuk figyelmüket, hogy weboldalunk a jobb használhatóság érdekében folyamatos fejlesztés alatt áll, így előfordulhatnak apróbb hiányosságok, hibák a működésében.
-Az okozott kellemetlenségekért szíves elnézésüket kérjük!
-Amennyiben meglátása, javaslata van webáruházunk működésével kapcsolatban vagy hibával találkozik, írja meg a web@agendaage.hu címre, így mi is hatékonyabban intézhetjük a fejlesztéseket.
 Termékeink
 AKCIÓ
 HÁLÓZATI aktív eszközök
@@ -90,4 +87,21 @@ info@agendaage.hu
 1095 Budapest,
 Soroksári út 48. 8.ép.fsz
 H-P: 8-17
-Vásárlói
+Vásárlói fiók
+Kosár
+Nyitott ügyek
+Lezárt ügyek
+Kedvencek
+Fiók adatok
+Információk
+Vásárlási feltételek
+Adatkezelési tájékoztató
+Házhoz szállítás
+Tanfolyamaink
+Partnereink
+Apower | Grandway
+EXW Magyarország
+Optical | Signalfire
+Noyafa | Z-Soft
+Iratkozzon fel hírlevelünkre!
+Regisztráljon és iratkozzon fel hírl

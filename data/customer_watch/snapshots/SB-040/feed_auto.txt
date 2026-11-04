@@ -1,4 +1,6 @@
-# SB-040 4Demand Co · feed_auto · https://www.4demand.co.uk/feed/ · fetched 2026-11-03T09:43:52Z · HTTP 503
-POW
-Please wait while we verify your request
-www.4demand.co.uk
+# SB-040 4Demand Co · feed_auto · https://www.4demand.co.uk/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+Mon, 20 Feb 2023 21:48:08 +0000	Hello world!	https://www.4demand.co.uk/2023/02/20/hello-world/
+Mon, 22 May 2017 09:05:58 +0000	Lorem ipsum dolor sit amet donec eget et sunt consectetuer maecenas.	https://www.4demand.co.uk/2017/05/22/lorem-ipsum-dolor-sit-amet-donec-eget-et-sunt-consectetuer-maecenas-5/
+Mon, 22 May 2017 09:05:58 +0000	Lorem ipsum dolor sit amet donec eget et sunt consectetuer maecenas.	https://www.4demand.co.uk/2017/05/22/lorem-ipsum-dolor-sit-amet-donec-eget-et-sunt-consectetuer-maecenas-6/
+Mon, 22 May 2017 09:05:56 +0000	Lorem ipsum dolor sit amet donec eget et sunt consectetuer maecenas.	https://www.4demand.co.uk/2017/05/22/lorem-ipsum-dolor-sit-amet-donec-eget-et-sunt-consectetuer-maecenas-4/
+Mon, 22 May 2017 09:05:55 +0000	Lorem ipsum dolor sit amet donec eget et sunt consectetuer maecenas.	https://www.4demand.co.uk/2017/05/22/lorem-ipsum-dolor-sit-amet-donec-eget-et-sunt-consectetuer-maecenas/

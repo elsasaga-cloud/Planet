@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/vanshna-wifi-camera-trx-robot30-4mpx
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -14,6 +14,7 @@
 	https://www.kassabasystems.com/ir-kamera-lia60ehtc200f
 	https://www.kassabasystems.com/dvr-trx-8004ahdh
 	https://www.kassabasystems.com/6mp-vanshna-dvoina-icsee-wifi-kamera-s-tsvetno-noshtno-vizhdane-do-40-metra-mikrofon-i-prosledyavane-na-dvizhenie-trx-robot-dc-36-mpx
+	https://www.kassabasystems.com/ip-ptz-kamera-s-20x-optichen-zum-mikrofon-poe-i-slot-za-sd-karta-hi-easy-hi-ptz20x8m-a-sd-poe
 	https://www.kassabasystems.com/trx-dbs20xm-full-hd-kupolna-ip-kamera-1080p-h-265
 	https://www.kassabasystems.com/4MP-kupolna-vandaloustoichiva-ip-kamera-s-mikrofon-cheren-cviat-TRX-RDS4ADL-PoE-BL
 	https://www.kassabasystems.com/trx-2bulb-pt-wifi-1080p-upravlyaema-s-vgradeni-mirkofon-govoritel-i-slot-za-sd-karta-kamera-krushka-icsee
@@ -96,7 +97,7 @@
 	https://www.kassabasystems.com/4ahd5rv-komplekt-5mpx-bulet-ir-kameri-za-vanshen-montazh-s-noshtno-vizhdane-do-30-metra-i-5mpx-hibriden-videorekorder-1653686470
 	https://www.kassabasystems.com/4uhd-profesionalna-ultra-hd-3-0-mpx-sistema-za-videonablyudenie
 	https://www.kassabasystems.com/4MPX-IP-komplekt-s-4-kameri-TRX-4IPDAW
-	https://www.kassabasystems.com/4k-ip-komplekt-za-videonablyudenie-s-4-vanshni-8mpx-poe-kameri-s-vgraden-mikrofon-i-tsvetno-noshtno-vizhdane-10-kanalen-nvr-i-poe-suich-4ip8dl-poe
+	https://www.kassabasystems.com/nov-4k-komplekt-s-4br-8mpx-ip-poe-vanshni-kameri-sony-imx412-matritsa-dual-light-podsvetka-4k-nvr-i-poe-suich-4ip8adl-poe
 	https://www.kassabasystems.com/8ip4mda-4mpx-komplekt-za-videonablyudenie-ot-visok-klas-s-8br-vandaloustoichivi-kameri-s-mikrofon-i-10-kanalen-4k-nvr
 	https://www.kassabasystems.com/4dir4k-8mpx-komplekt-za-videonablyudenie-s-4-br-4k-ultra-hd-kameri-i-xibriden-xvr
 	https://www.kassabasystems.com/6ip4m-poe-tsifrov-ip-komplekt-s-6br-poe-kameri-4mpx-dual-light-s-mikrofoni-i-tsvetno-noshtno-vizhdane-4k-10-kanalen-nvr-i-poe-suich
@@ -122,14 +123,13 @@
 	https://www.kassabasystems.com/2robot25-3mp-wifi-3mpx-ultra-hd-komplekt-s-2br-upravlyaemi-wifi-kameri-i-9-kanalen-nvr-videorekorder-ultra-hd
 	https://www.kassabasystems.com/paket-3-broia-vanshna-dvubandova-dvoina-wifi-kamera-s-mikrofon-i-cvetno-nostno-vizdane-3BR888
 	https://www.kassabasystems.com/3brdc3m-paket-ot-3br-dvoini-vanshni-6mpx-wifi-kameri-s-mikrofon-i-ai-funktsii-trx-robot-dc-3mpx-1997399203
+	https://www.kassabasystems.com/2hik4kb-komplekt-s-2br-ip-kupolni-kameri-4k-8mpx-dual-light-mikrofon-i-tsvetno-noshtno-vizhdane-4-kanalen-nvr-ai-hikvision-i-poe-suich
 	https://www.kassabasystems.com/trx-1350-1-3mpx-ip-ir-kamera-za-vanshno-videonablyudenie
 	https://www.kassabasystems.com/4k-ip-komplekt-za-videonablyudenie-s-4-vanshni-8mpx-poe-kameri-s-vgraden-mikrofon-i-tsvetno-noshtno-vizhdane-10-kanalen-nvr-i-poe-suich-4ip8dl-poe-1644408339
 	https://www.kassabasystems.com/ip-kamera-trx-dcs13-a
 	https://www.kassabasystems.com/4robot25-3mp-wifi-bezzhichen-tsifrov-komplekt-s-4br-wifi-3mpx-upravlyaemi-vanshni-kameri-i-nvr-videorekorder-ultra-hd
-	https://www.kassabasystems.com/ip-ptz-kamera-s-20x-optichen-zum-mikrofon-poe-i-slot-za-sd-karta-hi-easy-hi-ptz20x8m-a-sd-poe
 	https://www.kassabasystems.com/4ip8rdm-poe-profesionalen-komplekt-s-4br-kupolni-8mpx-4k-vanshni-kameri-9-kanalen-4k-nvr-i-4-2-poe-suich
 	https://www.kassabasystems.com/trx-3780dl8a-poe-8mpx-4k-full-color-poe-ip-kamera-za-vanshen-montazh-s-tsvetno-izobrazhenie-v-noshten-rezhim
-	https://www.kassabasystems.com/4k-ip-komplekt-za-videonablyudenie-s-4-vanshni-8mpx-poe-kameri-s-vgraden-mikrofon-i-tsvetno-noshtno-vizhdane-10-kanalen-nvr-i-poe-suich-4ip8dl-poe-1896649477
 	https://www.kassabasystems.com/hikvision4d
 	https://www.kassabasystems.com/2lbhipoe-ip-komplekt-s-2-broya-5mpx-kameri-s-poe
 	https://www.kassabasystems.com/ip-kamera-5mp-trx-b50fea-poe
@@ -138,6 +138,6 @@
 	https://www.kassabasystems.com/4mpx-vanshna-wifi-kamera-s-mirkofon-i-karta-pamet-TRX-ROBOT22A-4MPX
 	https://www.kassabasystems.com/8dip-ir-komplekt-s-8-ip-kameri-za-vanshno-nablyudenie
 	https://www.kassabasystems.com/ts-bli500w-ptz-wifi-kamera-krushka-5mpx-tuya-vgraden-mikrofon
-	https://www.kassabasystems.com/dvoina-lovna-4g-aov-solarna-kamera-UB-37HUNT-AOV-4G
 	https://www.kassabasystems.com/2ip8rdm-poe-8mpx-komplekt-za-nablyudenie-s-2br-kupolni-tsifrovi-4k-vanshni-kameri-10-kanalen-4k-nvr-i-4-2-poe-suich
-	https://www.kassabasystems.com/4br888-p
+	https://www.kassabasystems.com/4br888-paket-ot-4br-dvubandovi-2-4ghz-5ghz-dvoini-icsee-wifi-6mpx-kameri-za-vanshen-montazh-trx-dc888-5ghz
+	https://www.kassabasystems.com/k

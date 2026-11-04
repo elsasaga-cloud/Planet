@@ -1,4 +1,5 @@
-# SC-276 assmann.pl · youtube · https://www.youtube.com/user/AssmannDIGITUS · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-276 assmann.pl · youtube · https://www.youtube.com/user/AssmannDIGITUS · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-04T06:26:47+00:00	DIGITUS CAT 6A compact keystone module | shielded | tool-free mounting connection	https://www.youtube.com/watch?v=MVyOWUN_oQE
 2026-10-20T14:04:08+00:00	DIGITUS CAT 6A PREMIUM KEYSTONE MODULE (Long Version)	https://www.youtube.com/watch?v=phjpoV6mYw4
 2026-10-20T14:01:43+00:00	DIGITUS CAT 6A PREMIUM KEYSTONE MODUL (Lange Version)	https://www.youtube.com/watch?v=4d9ZbJ-qtQA
 2026-10-14T09:41:17+00:00	DIGITUS CAT 6A PREMIUM KEYSTONE MODUL MONTAGEANLEITUNG	https://www.youtube.com/watch?v=bLSZj_aPUhM
@@ -13,4 +14,3 @@
 2026-03-12T09:38:28+00:00	DIGITUS Design Monitor Mounts	https://www.youtube.com/watch?v=NnEspPa7GSQ
 2026-03-12T09:36:14+00:00	DIGITUS Design Monitorhalterungen	https://www.youtube.com/watch?v=XodoNj48R1k
 2026-03-09T07:41:17+00:00	DIGITUS Rebranding	https://www.youtube.com/watch?v=ohkGLVT9r9A
-2026-02-10T14:20:49+00:00	Digitus® Relaunch: Trusted connections since 1994 | Presented by Gerrit Schick	https://www.youtube.com/watch?v=lpWnZYeLoPo

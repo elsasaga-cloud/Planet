@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -373,44 +373,30 @@ Anterior
 Siguiente
 Mercasat distribuidor de productos de seguridad y telecomunicaciones
 Novedades
-70HACT1A51PU0280BS3DIP
-Cámara Domo 4N1 8Mpx WDR Digital
-Cámara Domo 4 en 1 Dahua
-8MP@25ips (CVI)
-Salida 4 en 1 conmutable
-ICR, 0,03 lux, Smart IR 30m
-Óptica fija de 2,8 mm
-WDR digital, 2D-NR
+AK-E12S-2
+Placa de videoportero 2 hilos Akuvox 2Mpx NFC Bluetooth IP65
+Videoportero 2 hilos en superficie
+Cámara 2 Mpx | Audio bidireccional
+Apertura con tarjeta MF, NFC y BLE
+1 relé | SIP estándar
+Mantenimiento Cloud
+Conexión monitor y placas por Cloud
 Precio
-32,91 €
+186,34 €
 
 Añadir al carrito
 Nuevo
  Vista rápida
-70HACHFW1801RPZILA27135S3DIP
-Cámara Bullet 4N1 5Mpx Serie PRO
-Smart IR de 60 m para exterior
-Óptica motorizada 2,8~12 mm
-0,005 lux | Filtro ICR | IP67 | 3AXIS
-OSD, AWB, AGC, BLC, HLC, DWDR
-Incorpora micrófono | Sistema POC
+7-9325
+Amplificador de vídeo Fermax DUOX Plus para placa Marine con teclado
+Repuesto Fermax
+Amplificador de Video
+DUOX PLUS MARINE
+Para placas de pulsadores MARINE
+Tecnología DUOX
+105.2 x 95 X 40 mm
 Precio
-161,99 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-70HACB1A21PU0280B
-Cámara Bullet 4N1 2Mpx StarLight
-Cámara Bullet 4N1 2Mpx Dahua
-Óptica fija de 2,8 mm | StarLight
-ICR, 0,001 lux, Smart IR 30m
-WDR 130dB, 3D-NR
-Incorpora micrófono
-IP67, 3AXIS
-MATERIAL BAJO PEDIDO, CONSULTAR PLAZOS
-Precio
-22,89 €
+577,17 €
 
 Añadir al carrito
 Nuevo
@@ -439,6 +425,20 @@ Apto para modelo AK-X915S
 Fabricado en PC
 Precio
 8,47 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+-
+Módulo LTE 4G para videoportero Akuvox con conexión USB IP66
+Módulo periférico para videoportero
+Añade conexión LTE (4G)
+Compatible con AK-S535
+Conexión USB
+Apto para exterior IP66
+Necesario AK-BR-S535-x-MODULE
+Precio
+228,69 €
 
 Añadir al carrito
 Nuevo

@@ -1,4 +1,4 @@
-# SC-2976 blake-uk.com · home · https://blake-uk.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-2976 blake-uk.com · home · https://blake-uk.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 TV Signal, CCTV & Wi-Fi Products - Blake UK
 Free delivery available
 Google Reviews 4.9
@@ -43,8 +43,8 @@ Log-Periodic Aerials
 Yagi Aerials
 High Gain Aerials
 Satellite
-LNBs
 Dishes
+LNBs
 Satellite Mounts
 Aerial Accessories
 Shop our wide range of high-quality, affordable aerials. Including TV aerials, radio (FM & DAB) aerials, wifi aerials and 4G/ 5G.
@@ -179,6 +179,16 @@ CAT5 & CAT6 Plugs
 BNC Plugs & Tool
 Microphones
 DC Power Plugs
+Recording Systems
+Digital Video Recorders
+Hard Drives
+Network Video Recorders
+Mounting Solutions
+Wall Brackets
+Deep Base Rings and IP Boxes
+CCTV Cameras
+IP Cameras
+Analogue HD Cameras
 Shop our wide range of CCTV products including CCTV cameras and accessories to record and remotely monitor your home for added security.
 Explore the full range
 Cables
@@ -296,8 +306,8 @@ all High Gain Aerials
 Satellite
 Back
 Shop all Satellite
-LNBs
 Dishes
+LNBs
 Satellite Mounts
 Aerial Accessories
 IRS
@@ -474,6 +484,22 @@ CAT5 & CAT6 Plugs
 BNC Plugs & Tool
 Microphones
 DC Power Plugs
+Recording Systems
+Back
+Shop all Recording Systems
+Digital Video Recorders
+Hard Drives
+Network Video Recorders
+Mounting Solutions
+Back
+Shop all Mounting Solutions
+Wall Brackets
+Deep Base Rings and IP Boxes
+CCTV Cameras
+Back
+Shop all CCTV Cameras
+IP Cameras
+Analogue HD Cameras
 Networking
 Back
 Shop all Networking
@@ -572,41 +598,14 @@ View All
 Kits
 Perfectly Curated Bundles for You
 View All
-Aerial Fixing Kit For Wall Mounting - Up To 4 TVs
-AERIALKIT-WALL-4
-Perfect for residential DIY
-Full system for up to 4 TVs
-Pre-made kit
-Includes all necessary parts
-Comes with 100m of RG6 cable
-£346.74 Inc VAT
-£288.95 Exc VAT
-Add To Basket More Info
-TV Extension Kit - Add Another TV To Your System
-TVEXTKIT-1
-Perfect for residential DIY
-Pre-made kit
-£24.20 Inc VAT
-£20.17 Exc VAT
-Add To Basket More Info
-Aerial Fixing Kit For Loft Mounting - Up To 4 TVs
-AERIALKIT-LOFT-4
-Perfect for residential DIY
-Full system for up to 4 TVs
-Pre-made kit
-Includes all necessary parts
-Comes with 3x 10m of RG6 cable
-£173.96 Inc VAT
-£144.97 Exc VAT
-Add To Basket More Info
-Wi-Fi Kit for Large Room or Hallway - Ceiling Mountable
-WIFIKIT-CEILING-1
-Perfect for residential DIY
-Pre-made kit
-Includes all necessary parts
-Comes with 100m and 3m CAT6 patch lead
-£289.14 Inc VAT
-£240.95 Exc VAT
+Wall Mounting Kit: 6in x 6in Bracket, Pole, and Fixings
+WALLFIXKIT1
+Kit for installing an aerial on a wall
+Wall bracket, pole, fixing kit, cable
+For small aerial installs under 1m
+Suitable for TV & Wi-Fi aerials
+£22.42 Inc VAT
+£18.68 Exc VAT
 Add To Basket More Info
 4G Router Kit For Caravans, Motorhomes, and Boat
 4GKIT-CARAVAN
@@ -616,47 +615,55 @@ Includes all necessary parts
 £689.14 Inc VAT
 £574.28 Exc VAT
 Add To Basket More Info
+Wi-Fi Kit For 4 Rooms - Wall Mountable
+WIFIKIT-WALL-4
+Perfect for residential DIY
+Pre-made kit
+Includes all necessary parts
+Comes with 4x 100m and 1x 3m CAT6 patch lead
+£673.18 Inc VAT
+£560.98 Exc VAT
+Add To Basket More Info
+Aerial Fixing Kit For Loft Mounting - Up To 2 TVs
+AERIALKIT-LOFT-2
+Perfect for residential DIY
+Full system for up to 2 TVs
+Pre-made kit
+Includes all necessary parts
+Comes with 3x 10m of RG6 cable
+£116.36 Inc VAT
+£96.97 Exc VAT
+Add To Basket More Info
+TV Extension Kit - Add Another TV To Your System
+TVEXTKIT-1
+Perfect for residential DIY
+Pre-made kit
+£24.20 Inc VAT
+£20.17 Exc VAT
+Add To Basket More Info
 New
 View All
 New
 Explore Our Latest Innovations
 View All
-0.5m Black Slimline CAT6 Patch Lead
-BLAUUTP-005M-BLACK
+Quick Fit Black RJ45 CAT5e/6 Boot [Bag of 10]
+PRORJ45-BOOT-BLACK
+Snag-Proof Design
+Durable Construction
+Easy Installation
+Versatile Compatibility
+Enhanced Cable Management
+£1.51 Inc VAT
+£1.26 Exc VAT
+Add To Basket More Info
+2m White Slimline CAT6 Patch Lead
+BLAUUTP-020M-WHITE
 Efficient CAT6 networking
 Slim for tight spaces
 Gold-plated connectors
 Easy length identification
 Red ends for quick setup
-£1.92 Inc VAT
-£1.60 Exc VAT
+£2.69 Inc VAT
+£2.24 Exc VAT
 Add To Basket More Info
-0.25m White Slimline CAT6 Patch Lead
-BLAUUTP-0025M-WHITE
-Efficient CAT6 networking
-Slim for tight spaces
-Gold-plated connectors
-Easy length identification
-Red ends for quick setup
-£1.72 Inc VAT
-£1.43 Exc VAT
-Add To Basket More Info
-Blake QuikCab 9U Ultra-Fast Self-Assembly Network Cabinet
-BLA-QUIKCAB-9U
-Flat-pack to built in under 180 seconds
-Exclusive Blake patented 4x through-bolt design
-Fewer loose parts. Faster assembly.
-Flat-packed for easy transport and storage
-£125.81 Inc VAT
-£104.84 Exc VAT
-Add To Basket More Info
-One Gang Square Edge Faceplate
-BLA-MOD-1G-FULL-SQ
-Supports Euro Module inserts
-Standard 1 gang format
-Industry‑Standard white finish
-Square edge plate design
-£3.13 Inc VAT
-£2.61 Exc VAT
-Add To Basket More Info
-2
+Mk4 LNB Legacy Adapter Converts a 40mm LNB to fit mk4 Sk

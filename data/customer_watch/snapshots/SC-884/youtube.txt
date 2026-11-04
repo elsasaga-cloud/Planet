@@ -1,4 +1,5 @@
-# SC-884 novicam.ru · youtube · https://www.youtube.com/user/novigroup · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-884 novicam.ru · youtube · https://www.youtube.com/user/novigroup · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-03T15:00:01+00:00	Главное отличие врезной части Novilock Home: механизм, которого нет у других	https://www.youtube.com/shorts/s23CMK3pTXk
 2026-11-02T15:00:27+00:00	Не покупай цилиндр, пока не посмотришь это видео	https://www.youtube.com/shorts/g7K5oHxpH6A
 2026-10-30T15:00:01+00:00	В кафе не ловит интернет? Гости не могут оплатить? Замерь сигнал!	https://www.youtube.com/shorts/J734G1xn9wU
 2026-10-29T15:00:33+00:00	Нет цилиндра в комплекте — и это плюс! Универсальные замки Novilock Home	https://www.youtube.com/shorts/HiNSEyRotFg
@@ -13,4 +14,3 @@
 2026-10-16T15:00:36+00:00	Как открыть умный замок Novilock Home? 5 способов	https://www.youtube.com/shorts/SPjKwKLg6CI
 2026-10-15T15:00:15+00:00	Кассы отваливаются? Замерь сигнал и отправь нам #далсвязь	https://www.youtube.com/shorts/A981nExHNq8
 2026-10-14T15:20:07+00:00	Как замерить уровень сигнала сотовой связи на Андроиде (Android)	https://www.youtube.com/watch?v=GENXyPTdCa8
-2026-10-13T15:00:23+00:00	Нет связи в паркинге? Паркоматы и QR-оплата не работают? Замерь сигнал — подберём оборудование	https://www.youtube.com/shorts/pkPIngc2o6M

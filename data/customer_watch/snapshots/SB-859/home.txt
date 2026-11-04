@@ -1,4 +1,4 @@
-# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Baburtech | Laptop Yedek Parça ve Bilgisayar Donanımı
 5000 TL ve üzeri siparişlerinizde kargo ücretsiz!
 ÜCRETSİZ TESLİMAT İMKANI
@@ -346,21 +346,21 @@ Samsung Laptop Adaptör ve Şarj Aleti
 Lenovo Laptop Şarj Aleti ve Adaptör
 Dell Laptop Adaptör ve Şarj Aleti
 Acer Laptop Adaptör ve Şarj Aleti
-TOSHİBA ŞARJ ALETİ (ADAPTÖR)
+Toshiba Laptop Adaptör ve Şarj Aleti
 ASUS Laptop Adaptör ve Şarj Aleti
 Hp Laptop Adaptör ve Şarj Aleti
 Geri Dön
 Hp Laptop Adaptör ve Şarj Aleti
 Orijinal Hp Şarj Aleti (Adaptör)
-APPLE ŞARJ ALETİ (ADAPTÖR)
-CASPER ŞARJ ALETİ (ADAPTÖR)
+Apple MacBook Şarj Aleti ve Adaptör
+Casper Laptop Adaptör ve Şarj Aleti
 DELTA ŞARJ ALETİ (ADAPTÖR)
 EXPER ŞARJ ALETİ (ADAPTÖR)
-FUJİTSU ŞARJ ALETİ(ADAPTÖR)
-LG ŞARJ ALETİ (ADAPTÖR)
-MONSTER ŞARJ ALETİ (ADAPTÖR)
+Fujitsu Laptop Adaptör ve Şarj Aleti
+LG Laptop Adaptör ve Şarj Aleti
+Monster Laptop Adaptör ve Şarj Aleti
 MSI Laptop Adaptör ve Şarj Aleti
-PANASONİC ŞARJ ALETİ (ADAPTÖR)
+Panasonic Toughbook Laptop Adaptör ve Şarj Aleti
 RETRO ŞARJ ALETİ (ADAPTÖR)
 SONY VAİO LAPTOP ADAPTÖR
 VERSATİLE NOTEBOOK ADAPTÖR
@@ -625,6 +625,4 @@ Fujitsu Siemens Laptop Ekran Data Kablosu
 LG Laptop Ekran Data Kablosu
 Samsung Laptop Ekran Data Kablosu
 Casper Laptop Ekran Data Kablosu
-Dell Laptop Ekran Data Kablosu
-Toshiba Laptop Ekran Data Kablosu
-ASUS Laptop Ekran Data Ka
+Dell Laptop Ekran Data

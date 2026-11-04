@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,6 +429,22 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
+Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
+R$ 1.458,00
+R$
+1.414 , 26
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
+R$ 396,00
+R$
+384 , 12
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
 R$ 549,00
 R$
@@ -437,37 +453,18 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-LRI-SW-8G2SWM - Switch Ethernet Industrial Web Gerenciável 8 Portas Gigabit + 2 Portas SFP
-R$ 958,20
+MDR-100 Fonte CA/CC 100W PFC com Montagem em Trilho DIN MeanWell
+R$ 344,43
 R$
-929 , 45
+334 , 10
 à vista
 com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
+Ver opções
+Lançamentos
+LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
 R$ 499,00
 R$
 484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
--50%
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 24V - LRI-PS6524
-R$ 255,00
-R$ 127,50
-R$
-123 , 68
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Lançamentos
-Módulo Termopar de 2 Canais com Interface Modbus RTU TST320
-R$ 1.321,66
-R$
-1.282 , 01
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -480,22 +477,14 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
-R$ 499,00
-R$
-484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Módulo S0 Contador de Pulsos com Interface Modbus RTU TDI340
-R$ 1.080,91
-R$
-1.048 , 48
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
+1-Wire Sensor de Pressão Barométrica TSP200
+Sob consulta
+Saiba mais
+Pedir cotação
+1-Wire Sensor de Tensão TSV200-60i
+Sob consulta
+Saiba mais
+Pedir cotação
 Depoimentos
 Nome: Djalma Filho
 Avaliação: Positivo
@@ -558,5 +547,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.794 secs - 03-11-2026  - node: commerce-web4-bot-lw - store
+Load time: 1.182 secs - 04-11-2026  - node: commerce-web5-bot-lw - store
 ×

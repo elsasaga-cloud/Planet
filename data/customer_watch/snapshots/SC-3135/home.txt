@@ -1,4 +1,4 @@
-# SC-3135 sphinxcomputer.fr · home · https://www.sphinxcomputer.fr/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-3135 sphinxcomputer.fr · home · https://www.sphinxcomputer.fr/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Bienvenue chez SPHINX CONNECT - Components for Solutions
 SPHINX en Europe
 Tél: +33 (0)2 5109 2660
@@ -7,7 +7,6 @@ FAQ
 Tél: +33 (0)2 5109 2660
 Accueil
 Products for Solutions
-Control Center
 Cybersecurity
 Data Center
 Public Transport
@@ -190,8 +189,6 @@ Déclaration de protection de données
 ←
 →
 Produits pour
-Control Center
-Systèmes de surveillance en temps réel, avec haute disponibilité et visualisation.
 Data Center
 Technologie réseau et infrastructure de haute qualité pour les data centers.
 Cybersecurity

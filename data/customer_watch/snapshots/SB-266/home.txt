@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,47 +41,45 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, modrý, 24 pack
-1 207 Kč bez DPH
-1 461 Kč s DPH
-Hikvision IP dome kamera DS-2CD1147G3-LIU(4mm), 6Mpx, 4mm, ColorVu 3.0
-MEAN WELL XDR-240E-12 Průmyslový zdroj na DIN lištu, 240W, 12V
-1 135 Kč bez DPH
-1 373 Kč s DPH
-SanDisk Micro SDXC Extreme GO 128GB
-1 029 Kč bez DPH
-1 246 Kč s DPH
-TP-Link Omada VIGI Cloud VMS license pro 1 kameru na 5 let
-1 490 Kč bez DPH
-1 803 Kč s DPH
-Ubiquiti UniFi patch kabel, 5m, Cat5e, modrý
-167 Kč bez DPH
-202 Kč s DPH
-TP-Link ER603WP-4G Omada 4G+ Outdoor Gateway
-3 694 Kč bez DPH
-4 470 Kč s DPH
-Samsung T7 Micro SDXC 256GB
-1 246 Kč bez DPH
-1 508 Kč s DPH
-Triton 19" stojanový rack 47U/600x900 prosklené dveře, šedý
-15 300 Kč bez DPH
-18 513 Kč s DPH
-Hikvision AX PRO Bezdrátové přenosné tísňové tlačítko
-RF elements SH60WB-GO, Symetrická sektorová Horn anténa s TwistPortem, 5/6GHz, 13dBi, 60°
-2 822 Kč bez DPH
-3 415 Kč s DPH
-MEAN WELL HDR-60-5 Průmyslový zdroj na DIN lištu, 32,5W, 5V
-452 Kč bez DPH
-547 Kč s DPH
-Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý, 10 pack
-1 032 Kč bez DPH
-1 249 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, černý, 24 pack
+1 063 Kč bez DPH
+1 286 Kč s DPH
+MEAN WELL DDR-15G-5 Step-down měnič napětí DC/DC, 15W
+464 Kč bez DPH
+561 Kč s DPH
+Triton plastový boční pant pro dvoudílné nástěnné rozvaděče
+48 Kč bez DPH
+58 Kč s DPH
+Anténní držák na zeď k oknu "L" - pravý, délka 25cm, výška 12cm, průměr 32mm
+140 Kč bez DPH
+169 Kč s DPH
+Hikvision AX PRO Kabelový PIR a MW detektor vnitřní, 12m
+Cudy P2 ODU 5G NR SA/NSA Outdoor Unit
+7 082 Kč bez DPH
+8 569 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, modrý, 50 pack
+2 312 Kč bez DPH
+2 798 Kč s DPH
+MEAN WELL LRS-150-12 Průmyslový zdroj, 150W, 12V
+415 Kč bez DPH
+502 Kč s DPH
+Teltonika Security GSV1pgE, Univerzální komunikační rozhraní pro EZS s 4G Cat 1 a eSIM + 10let eSIM
+3 304 Kč bez DPH
+3 998 Kč s DPH
+TP-Link Tapo C550WS Venkovní otočná IP kamera s Wi-Fi, 8Mpx, 4mm
+1 718 Kč bez DPH
+2 079 Kč s DPH
+Hikvision AX PRO Bezdrátový magnetický detektor
+Conexpro 10G SFP+ optický modul, WDM/BiDi, SM, Tx1330/Rx1270nm, 40km, 1x LC, DDM
+464 Kč bez DPH
+561 Kč s DPH
+Školení na montáže a nastavení měničů Deye, Plzeň, 25.11. a 26.11.2026
+8 000 Kč bez DPH
+9 680 Kč s DPH
+Hikvision IP bullet kamera DS-2CD1047G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
 Teltonika Security WLANP, Komunikační rozhraní s Wi-Fi4 a LAN pro P64
-1 389 Kč bez DPH
-1 680 Kč s DPH
-Triton vertikální rozvodný panel RAB-PD-X52-X1, 20x IEC C13, 4x IEC C19, 3m kabel
-5 513 Kč bez DPH
-6 671 Kč s DPH
+1 388 Kč bez DPH
+1 679 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

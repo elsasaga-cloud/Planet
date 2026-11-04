@@ -1,4 +1,5 @@
-# SB-994 accuratetechnologies.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxJ6_QObxJkpbdC_KeFCuIw · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-994 accuratetechnologies.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxJ6_QObxJkpbdC_KeFCuIw · fetched 2026-11-04T09:30:29Z · HTTP 200
+2026-11-03T18:44:08+00:00	Turbo Speed Measurement Demo	https://www.youtube.com/watch?v=5DG9YgaU7Sk
 2026-09-30T19:21:13+00:00	POV: New office pens just dropped... and the ideas start flowing.	https://www.youtube.com/shorts/PQddcilbytg
 2026-07-22T14:00:10+00:00	Accurate Technologies | Automotive Testing, Calibration & Data Acquisition Solutions	https://www.youtube.com/watch?v=SuTNHrOKEJY
 2026-06-05T17:47:47+00:00	Basic CANLab Training	https://www.youtube.com/watch?v=p7YUvsIkioM
@@ -13,4 +14,3 @@
 2025-10-13T15:31:41+00:00	Electric & Hybrid Vehicle Technology Expo Demo 2	https://www.youtube.com/watch?v=JMUz6inmCFs
 2025-10-09T14:35:36+00:00	Electric & Hybrid Vehicle Technology Expo Demo	https://www.youtube.com/watch?v=hm1Ne-gBrJM
 2025-07-22T12:32:21+00:00	TachSensor - 25 years of Reliability	https://www.youtube.com/watch?v=99oqIskz40Q
-2025-07-16T20:04:33+00:00	Automotive Ethernet Adapter	https://www.youtube.com/watch?v=0PHFV3VXKQU

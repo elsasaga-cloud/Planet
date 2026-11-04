@@ -1,4 +1,4 @@
-# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
 
 Menu
@@ -379,7 +379,7 @@ SUPER SALES
 BELOW COST
 ►FEATURED PRODUCTS
 
-IN STOCK: 212
+IN STOCK: 205
 Pieces
 *}
 IN PROMOTION
@@ -415,7 +415,7 @@ VIEW PRICE
 €778.36
 -45%
 
-IN STOCK: 55
+IN STOCK: 35
 Pieces
 *}
 38168.56.WH1 - AJAX Professional Wireless GPRS / Ethernet Alarm Kit
@@ -441,7 +441,7 @@ HYU-261 Hyundai Outdoor PTZ IP Bullet Camera. 1 / 2.8 "CMOS sensor, 4 MP resolut
 VIEW PRICE
 €708.04
 
-IN STOCK: 57
+IN STOCK: 56
 Pieces
 *}
 IN PROMOTION
@@ -455,7 +455,7 @@ VIEW PRICE
 €352.09
 -35%
 
-IN STOCK: 3
+IN STOCK: 4
 Pieces
 *}
 -57%
@@ -488,10 +488,12 @@ Soluzioni per casa, uffici, negozi, aziende e grandi infrastrutture
 Spedizioni rapide in tutta Europa e catalogo multilingua
 Popular Brands
 PROMO SETIK
-DAHUA | PROMOTIONS
-DAHUA SDT SERIES | EXTRA 10% AND QUANTITY DISCOUNTS
-CODE: DAHUA-EXTRA-10
-...
+HIKVISION | SPECIAL OFFERS
+```
+LOWEST PRICE IN EUROPE
+Hikvision DS-KIS604-S | The smart video intercom for your home
+```
+S...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -533,4 +535,4 @@ Compare Now ( 0 )‎
 Some text in the modal.
 Chiudi
 Aggiunta al Carrello
-This site uses cookies. By continuing to browse the site you are agreeing to our u
+This site uses cookies. By continuing to browse the 

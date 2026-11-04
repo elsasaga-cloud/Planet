@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -49,9 +49,9 @@ Otevřeno do
 Hustopeče
 Otevřeno do
 Chotěboř
-Zavíráme za 30 minut
+Zavíráme za 40 minut
 Jevíčko
-Zavíráme za hodinu
+Otevřeno do
 Kladno
 Otevřeno do
 Kroměříž
@@ -70,7 +70,7 @@ Prostějov
 Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Rychnov nad Kněžnou
-Zavíráme za 30 minut
+Zavíráme za 40 minut
 Sokolov
 Otevřeno do
 Svitavy
@@ -91,7 +91,7 @@ Velké Meziříčí
 Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Vysoké Mýto
-Zavíráme za 30 minut
+Zavíráme za 40 minut
 Zábřeh
 Otevřeno do
 Zastávka u Brna
@@ -582,4 +582,4 @@ Kabely SCART
 Kabely USB
 Kabely a redukce HDMI
 Vybraní výrobci
-Pečlivě vybíráme výrobce, kteří
+Pečlivě vybíráme výrobce, kteří splňuj

@@ -1,4 +1,4 @@
-# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
 2025-11-26	https://www.hattelandtechnology.com/view_product/jh-17tap-std_accessory_118
 2025-11-26	https://www.hattelandtechnology.com/view_product/p006997-1_accessory_475
 2026-10-26	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-2ovy_monitor_574
@@ -24,7 +24,6 @@
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-15c05-e50_crt-monitor_327
 2025-11-26	https://www.hattelandtechnology.com/view_product/jh-20tsv-std_accessory_134
 2026-11-02	https://www.hattelandtechnology.com/markets/marine-offshore
-2026-10-26	https://www.hattelandtechnology.com/view_product/hm-32t22-rmd-may-6ovy_monitor_254
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-p3bb1-msc_computer_339
 2024-08-23	https://www.hattelandtechnology.com/blog/what-is-color-calibration-for-ecdis
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-12t04-mmc-f_panel-computer_283
@@ -132,4 +131,5 @@
 2023-06-29	https://www.hattelandtechnology.com/news/small-panel-computers-for-marine-automation
 2025-11-26	https://www.hattelandtechnology.com/view_product/pca100294-1_factory-option_461
 2025-11-26	https://www.hattelandtechnology.com/view_product/jh-vesa-10t06_accessory_159
-2025-11-26	https://www.hattelandtechnology.com/view
+2025-11-26	https://www.hattelandtechnology.com/view_product/jh-26twc-std_accessory_403
+2026-03-24	https://www.hattelandtechnology.com/view_produc

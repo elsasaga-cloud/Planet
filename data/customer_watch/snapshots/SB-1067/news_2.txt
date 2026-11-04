@@ -1,4 +1,4 @@
-# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Support and Knowledge Base | Raytel Security Systems
 This website uses cookies to provide you with a full set of features. For more information on our cookie usage see our Privacy Policy page. You consent to our cookies by continuing to use this site.
 OK
@@ -113,10 +113,10 @@ Vimar WiFi Video Door Bell
 Roxie 2 Wire Video Door Entry Kits
 40510 Switchboard Full Guide
 Door Entry Raytel Systems - Click here for all Articles
+IP-M4-M7-MW7 Monitors - Installer Guide
 IP-PD Entrance Panel - Installer Guide
 IP P1 Entrance Panel - Installer Guide
 IP MW7 WiFi Monitor - Additional Information for Installers
-IP-M4-M7-MW7 Monitors - Installer Guide
 Compact Range Door Entry Panels - PDF
 Access Control - Click here for all Articles
 Soyal AR-888 Series Controllers/Readers/Exit buttons

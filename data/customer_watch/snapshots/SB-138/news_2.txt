@@ -1,4 +1,4 @@
-# SB-138 Volktek · news_2 · https://www.volktek.com/news_en.php · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SB-138 Volktek · news_2 · https://www.volktek.com/news_en.php · fetched 2026-11-04T09:30:29Z · HTTP 200
 News & Events | VOLKTEK
 Products
 Layer 3 Industrial Ethernet Switches
@@ -211,6 +211,10 @@ Discover the Future of Industrial Networking with Volktek and Nex-Gen at KES 202
 2025-09-22
 Events
 Read More
+Railway Certified Switches: Selection Guide for Trackside and Rail Communication Networks
+2026-11-02
+Product News
+Read More
 Why Do Smart Factories Need Time-Sensitive Networking (TSN)?
 2026-09-30
 Product News
@@ -230,10 +234,6 @@ Read More
 VOLKTEK to Showcase TSN and SPE at the Industrial Open Networks Fair 2026 in Tokyo
 2026-08-25
 Events
-Read More
-Ethernet Media Converter Guide for Copper-to-Fiber Network Planning
-2026-08-21
-Product News
 Read More
 1 / 29
 1

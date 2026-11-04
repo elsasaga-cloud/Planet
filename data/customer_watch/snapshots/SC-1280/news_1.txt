@@ -1,4 +1,4 @@
-# SC-1280 plcsystems.ru · news_1 · https://plcsystems.ru/news/ · fetched 2026-11-03T09:43:52Z · HTTP 200
+# SC-1280 plcsystems.ru · news_1 · https://plcsystems.ru/news/ · fetched 2026-11-04T09:30:29Z · HTTP 200
 Новости
 8 (800) 707-18-71
 Компания
@@ -24,6 +24,7 @@ support@plcsystems.ru
 Xinje XF
 XSF на CODESYS
 Модули ввода/вывода XF
+Удаленные модули ввода/вывода с EtherCAT
 Xinje XL
 XSLH на CODESYS
 Модули ввода/вывода XL
@@ -116,6 +117,7 @@ Xinje Аксессуары
 Серводрайверы Xinje DS5 Стандартные
 DS5P (Profinet)
 DS5P-FH (Profinet, повышенная защита)
+DS5P-FS (Profinet, функция STO)
 Серводрайверы Xinje DS5 Основные
 DS5C2 (EtherCAT, улучшенная производительность)
 DS5C2-FH (EtherCAT, повышенная защита)
@@ -131,6 +133,12 @@ DF3E (CANopen)
 Серводвигатели Xinje MS6
 Серводвигатели Xinje MF3
 Аксессуары Xinje
+Серводвигатели Xinje MS1
+Серводрайверы Xinje DS6 Высокопроизводительные
+DS6C (EtherCAT)
+DS6C (EtherCAT, функция STO)
+Серводрайверы Xinje DS1 Экономичные
+DS1L (импульсные)
 Роботы
 4-осевые роботы (SCARA) Xinje
 6-осевые роботы (настольные) Xinje
@@ -302,6 +310,7 @@ Xinje XF
 назад
 XSF на CODESYS
 Модули ввода/вывода XF
+Удаленные модули ввода/вывода с EtherCAT
 Xinje XL
 назад
 XSLH на CODESYS
@@ -418,6 +427,7 @@ Xinje Аксессуары
 назад
 DS5P (Profinet)
 DS5P-FH (Profinet, повышенная защита)
+DS5P-FS (Profinet, функция STO)
 Серводрайверы Xinje DS5 Основные
 назад
 DS5C2 (EtherCAT, улучшенная производительность)
@@ -436,6 +446,14 @@ DF3E (CANopen)
 Серводвигатели Xinje MS6
 Серводвигатели Xinje MF3
 Аксессуары Xinje
+Серводвигатели Xinje MS1
+Серводрайверы Xinje DS6 Высокопроизводительные
+назад
+DS6C (EtherCAT)
+DS6C (EtherCAT, функция STO)
+Серводрайверы Xinje DS1 Экономичные
+назад
+DS1L (импульсные)
 Роботы
 назад
 4-осевые роботы (SCARA) Xinje
