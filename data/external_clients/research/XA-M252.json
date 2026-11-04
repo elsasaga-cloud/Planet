@@ -2,8 +2,8 @@
  "code": "XA-M252",
  "name": "VoiceHost Limited",
  "round": "LT-T03",
- "researched_at": "2026-11-03",
- "alive": "快照失败（store.voicehost.co.uk：超时（站慢或封锁），2026-11-03，第 4 次）",
+ "researched_at": "2026-11-04",
+ "alive": "快照失败（store.voicehost.co.uk：超时（站慢或封锁），2026-11-04，第 5 次）",
  "summary": "托管 PBX/VoIP 服务商 + 硬件商城（Norwich，工单制）；卖 MikroTik 但缺工业/ERPS/PoE++ → 用同价位工业线补他的产品缺口",
  "type_final": "托管 PBX/VoIP 服务商 + 硬件商城（Norwich，工单制）",
  "size": "未量化",
@@ -38,7 +38,7 @@
   "window": "",
   "when": "不动"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
  "draft_en": null,
  "snap_thicken": {
@@ -46,13 +46,15 @@
    "2026-10-29T15:47:20Z",
    "2026-11-01T09:58:12Z",
    "2026-11-02T10:17:03Z",
-   "2026-11-03T10:20:25Z"
+   "2026-11-03T10:20:25Z",
+   "2026-11-04T10:04:31Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
    "2026-11-02",
-   "2026-11-03"
+   "2026-11-03",
+   "2026-11-04"
   ]
  }
 }

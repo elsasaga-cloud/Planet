@@ -1,7 +1,7 @@
 {
  "code": "SB-034",
  "name_official": "TJ Computer（泰国；Peter Ponganan Ruenboon）",
- "website_status": "快照失败（tj2003.net：域名不可达（DNS/连接失败），2026-11-03，第 5 次）",
+ "website_status": "快照失败（tj2003.net：域名不可达（DNS/连接失败），2026-11-04，第 6 次）",
  "summary": "泰国电脑 / CCTV 店（tj2003.net 失效；tjcomputercctv@ 邮箱），Peter（Ponganan Ruenboon），需求 5 电口并要具体产品信息，2025-03 对 2 光 8 PoE 回复 Interested。",
  "type": "小型经销商",
  "size": "微型（待补证）",
@@ -41,7 +41,7 @@
  ],
  "grade_override": "B",
  "override_reason": "A-DEEP-01 2026-10-30 A 落池核验未过 → 下放 B：身份未坐实",
- "notes": "LT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n邮件一次性给 STI-244GP/5 口型号资料即可。",
+ "notes": "LT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n邮件一次性给 STI-244GP/5 口型号资料即可。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -145,14 +145,16 @@
    "2026-10-29T15:31:42Z",
    "2026-11-01T09:55:03Z",
    "2026-11-02T10:14:16Z",
-   "2026-11-03T10:17:15Z"
+   "2026-11-03T10:17:15Z",
+   "2026-11-04T10:01:35Z"
   ],
   "fails": [
    "2026-10-21",
    "2026-10-29",
    "2026-11-01",
    "2026-11-02",
-   "2026-11-03"
+   "2026-11-03",
+   "2026-11-04"
   ],
   "batch": "LT-T03"
  },

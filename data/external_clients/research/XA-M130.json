@@ -2,8 +2,8 @@
  "code": "XA-M130",
  "name": "etree GmbH",
  "round": "LT-T03",
- "researched_at": "2026-11-03",
- "alive": "快照失败（shop.etree.de：HTTP 错误，2026-11-03，第 4 次）",
+ "researched_at": "2026-11-04",
+ "alive": "快照失败（shop.etree.de：HTTP 错误，2026-11-04，第 5 次）",
  "summary": "科隆总部的官方分销商（MikroTik/Teltonika 等 50+ 牌，40,000 SKU，11–50 人，波兰/乌克兰分部），创始人 CEO Grazian Dominik Twonski、GF Sebastian Rinne。",
  "type_final": "多牌官方分销（50+ 牌，PL/UA 分部）",
  "size": "小型（未查）",
@@ -58,7 +58,7 @@
   "window": "DE 周四 12–14",
   "when": "2026-10-29"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
+ "notes": "LT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网核对（R53 2026-09-28 / R63 2026-10-06）。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hello Mr. Rinne,\n\nI wrote in late September about our 24-port PoE L2+ switch; this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Also 4-port (USD 121) and 8 + 4 SFP (USD 147) versions, and PoE++ 90 W variants.\n\nWould etree consider an industrial PoE line from a new vendor for the DE/PL/UA shops, and what does your listing process look like?\n\nSimon\nSaga Telecom - sagatele.com"
@@ -69,13 +69,15 @@
    "2026-10-29T15:44:59Z",
    "2026-11-01T09:57:25Z",
    "2026-11-02T10:17:03Z",
-   "2026-11-03T10:20:24Z"
+   "2026-11-03T10:20:24Z",
+   "2026-11-04T10:04:31Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
    "2026-11-02",
-   "2026-11-03"
+   "2026-11-03",
+   "2026-11-04"
   ]
  }
 }
