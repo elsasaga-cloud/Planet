@@ -1,4 +1,9 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-04T09:30:29Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-05T09:39:48Z · HTTP 200
+04.11.2026 12:11:01	Clevertouch CORE 86"	https://www.leteng.no/clevertouch/15486ctcore/clevertouch-core-86-4k
+04.11.2026 12:08:26	Clevertouch CORE 75"	https://www.leteng.no/clevertouch/15475ctcore/clevertouch-core-75-4k
+04.11.2026 11:31:08	Clevertouch CORE 65"	https://www.leteng.no/clevertouch/15465ctcore/clevertouch-core-65-4k
+04.11.2026 11:04:43	Bordbrønn 6xStrøm - Medium	https://www.leteng.no/leteng-as/kde-wht-let/bordbr%c3%b8nn-6xstr%c3%b8m-medium-m-2m-kabel-hvit
+04.11.2026 10:59:45	Bordbrønn 6xStrøm - Medium	https://www.leteng.no/kramer/kde-blk-let/bordbr%c3%b8nn-6xstr%c3%b8m-medium-m-2m-kabel-sort
 03.11.2026 16:14:14	HighSecLabs Remote for Ultra Matrix	https://www.leteng.no/highseclabs/wr40-4x/highseclabs-remote-for-ultra-matrix-4-port-panel-daisy-chain-rgb-led
 03.11.2026 16:10:56	HighSecLabs Remote for Ultra Matrix	https://www.leteng.no/highseclabs/wr80-4x/highseclabs-remote-for-ultra-matrix-8-port-panel-daisy-chain-rgb-led
 02.11.2026 12:14:35	Planet Konverter 1000X - SFP PoE++	https://www.leteng.no/planet-technology-corp-dot-/gup-805a-95w/planet-konverter-1000x-sfp-poe-plus--plus--10-100-1000baset-802-dot-3bt-din-95w
@@ -94,8 +99,3 @@
 27.08.2026 13:04:54	Planet Power Switch 8-p med cascad 2-p	https://www.leteng.no/planet-technology-corp-dot-/ipm-8221/planet-power-switch-8-p-med-cascad-2-p-snmp
 27.08.2026 12:32:17	ACT 2-port USB-C 100W	https://www.leteng.no/act/ac2175/act-2-port-usb-c-100w-power-delivery-pps-ganfast
 27.08.2026 12:21:41	Planet Konverter 2-p10G	https://www.leteng.no/planet-technology-corp-dot-/ixt-815at/planet-konverter-2-p10g-10g-2-dot-5g-1g-100base-x-sfp-plus--ip30
-27.08.2026 11:16:19	Aten CN9000 VGA over IP	https://www.leteng.no/aten/cn9000-at-g/aten-cn9000-vga-over-ip-1-bruker-over-ip-local-remote
-27.08.2026 10:58:42	EFB Strømskinne 10" 4xSCHUKO 2,0 m	https://www.leteng.no/efb-elektronik/ek631de-dot-10/efb-str%c3%b8mskinne-10-4xschuko-2-0-m-pdu-1u-kontakter-p%c3%a5-45-sort
-26.08.2026 13:03:53	DFY Link Audio/Video Modul 4K	https://www.leteng.no/leteng-as/kde-blk-linkav/dfy-link-audio-video-modul-4k-usb-c-usb3-dot-2-1-5gbps
-25.08.2026 13:33:24	ACT Laptop brett for monitorarmer	https://www.leteng.no/act/ac8346/act-laptop-brett-for-monitorarmer-laptop-11-6-17-3-vesa-75x75
-25.08.2026 11:17:26	AVer TR322 - Auto Track PTZ-kamera Sort	https://www.leteng.no/aver/tr322b/aver-tr322-auto-track-ptz-kamera-sort-dual-lens-22x-zoom

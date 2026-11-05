@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,67 +291,54 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-ZTE F623 GPON ONU 1GE+3FE+1POTS+WIFI+USB
-109,47 zł z VAT
-141,08 zł
-89,00 zł netto
+MikroTik Cloud Router Switch CRS305-1G-4S+OUT (FiberBox Plus)
+725,70 zł z VAT
+821,91 zł
+590,00 zł netto
 szt
-Najniższa cena z 30 dni: 141,08 zł
-Tenda TEG1126P-24-410W
-836,40 zł z VAT
-984,00 zł
-680,00 zł netto
+Najniższa cena z 30 dni: 821,91 zł
+WYPRZEDAŻ
+Pigtail MMCX - N/ż [short head] (20 cm)
+12,18 zł z VAT
+18,94 zł
+9,90 zł netto
 szt
-Najniższa cena z 30 dni: 984,00 zł
-IP-COM Pro-S24-410W
-1 291,50 zł z VAT
-1 620,53 zł
-1 050,00 zł netto
+Najniższa cena z 30 dni: 18,94 zł
+Quectel EM160R-GL Modem M.2 LTE Cat.16
+736,77 zł z VAT
+1 105,77 zł
+599,00 zł netto
 szt
-Najniższa cena z 30 dni: 1 620,53 zł
-Przetwornica 12V/24V 50W 2.1A, SD-50A-24
-118,08 zł z VAT
-146,37 zł
-96,00 zł netto
+Najniższa cena z 30 dni: 1 105,77 zł
+WYPRZEDAŻ
+Wisnetworks WIS-ANO2405
+11,07 zł z VAT
+27,63 zł
+9,00 zł netto
 szt
-Najniższa cena z 30 dni: 146,37 zł
-TP-Link Deco E4
-178,35 zł z VAT
-195,57 zł
-145,00 zł netto
+Najniższa cena z 30 dni: 27,63 zł
+Interline SECTOR HP
+92,25 zł z VAT
+202,95 zł
+75,00 zł netto
 szt
-Najniższa cena z 30 dni: 195,57 zł
-Teltonika RUTX14 router LTE12 (RUTX14000000)
-1 599,00 zł z VAT
-1 866,13 zł
-1 300,00 zł netto
+Najniższa cena z 30 dni: 202,95 zł
+Sektor Tornado Pro 18 SH
+129,15 zł z VAT
+221,40 zł
+105,00 zł netto
 szt
-Najniższa cena z 30 dni: 1 866,13 zł
+Najniższa cena z 30 dni: 221,40 zł
 Najnowsze propozycje
 NOWOŚĆ
-D-Link C36/ISP/E
-304,55 zł z VAT
-247,60 zł netto
+Cudy WR3600E
+285,00 zł z VAT
+231,71 zł netto
 szt
 NOWOŚĆ
 Obudowa rack 19", 1U, szara dla splittera PLC SM 2x SC/APC
 105,50 zł z VAT
 85,77 zł netto
-szt
-NOWOŚĆ
-Open Rack 32U Lanberg 600x800, czarny
-809,40 zł z VAT
-658,05 zł netto
-szt
-NOWOŚĆ
-Pakiet 150GB danych dla Teltonika RMS Connect/VPN (RMSDT101G150)
-210,59 zł z VAT
-171,21 zł netto
-szt
-NOWOŚĆ
-Regał na baterie do UPS, 830x650, 3x rzędy, 4x poziomy (12 półek), czarny
-551,10 zł z VAT
-448,05 zł netto
 szt
 Teltonika RMS Management Pack, licencja na 5 lat + Rozszerzona gwarancja na 3 lata (grupa H)
 877,46 zł z VAT
@@ -359,8 +346,8 @@ Teltonika RMS Management Pack, licencja na 5 lat + Rozszerzona gwarancja na 3 la
 szt
 NOWOŚĆ
 TP-Link EAP727
-690,24 zł z VAT
-561,17 zł netto
+662,97 zł z VAT
+539,00 zł netto
 szt
 NOWOŚĆ
 TP-Link Fusion 2.5G PoE
@@ -382,9 +369,19 @@ Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
 1 579,23 zł z VAT
 1 283,93 zł netto
 szt
-NOWOŚĆ
-Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-W)
-1 579,23 zł z VAT
-1 283,93 zł netto
-szt
-Porównywar
+Porównywarka
+Wybierz produkty do porównania
+Towar dnia
+Tenda CP6 obrotowa kamera do monitoringu domowego
+79,40 zł z VAT
+64,55 zł netto
+more
+WYSYŁKA
+Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
+Koszty przesyłki:
+DHL: od 13 PLN (netto)
+FedEx: od 14.90 PLN (netto)
+Paczkomat: od 14 PLN (netto)
+Poczta: zgodnie z cennikiem
+Zlokalizuj przesyłkę DHL
+Zlokalizuj przesyłk

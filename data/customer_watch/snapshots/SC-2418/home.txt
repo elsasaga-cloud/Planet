@@ -1,4 +1,4 @@
-# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Streakwave Wireless
 Skip to main content
 Menu
@@ -33,7 +33,7 @@ Back Ethernet Cables (101) Coaxial Cables & Jumpers (110) Fiber Optic Cables (78
 Mounting & Enclosures
 Back Mounts & Brackets (264) Enclosures (112)
 Voice & Conferencing
-Back IP Phones (195) PBX & Gateways (69) Conferencing (47) Paging & Intercoms (39) Voice Accessories (285)
+Back IP Phones (195) PBX & Gateways (69) Conferencing (48) Paging & Intercoms (39) Voice Accessories (285)
 Surveillance & Security
 Back Cameras (320) NVRs & Storage (98) Access Control (94) Surveillance Accessories (135) Sensors & IoT (33)
 Audio

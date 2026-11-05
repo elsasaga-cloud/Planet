@@ -1,4 +1,4 @@
-# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-05T09:39:48Z · HTTP 200
 100MEGA Distribution s.r.o.
 [email protected]
 (+420) 548 220 077
@@ -52,7 +52,7 @@ Baterie, Domácí elektro, Kamery IP a CCTV, Nabíječky, Periferie
 APC
 Baterie, Kabely, Síťové prvky aktivní, Síťové prvky pasivní, Služby, Záložní zdroje
 APPLE
-Domácí elektro, Hodinky, Kabely, Mobilní telefony, Mobilní telefony - příslušenství, Nabíječky, Notebooky, Periferie, Počítače, Media Player, Tablet PC, Televize
+Domácí elektro, Hodinky, Kabely, Mobilní telefony, Mobilní telefony - příslušenství, Nabíječky, Notebooky, Periferie, Počítače, Tablet PC
 ARCTIC
 Domácí elektro, Chladiče, Cooler - CPU, Periferie, Skříně (case), Ventilátory
 AROZZI
@@ -350,4 +350,4 @@ Domácí elektro, Fotoaparáty, Fotoaparáty - příslušenství, Hodinky, Kabel
 UBIQUITI
 Dům a zahrada, Elektroinstalace, Fotovoltaika, HiFi, Kabely, Kamery IP a CCTV, Nabíječky, Periferie, Pevné disky, Přístupové systémy, Síťová úložiště (NAS), Síťové prvky aktivní, Síťové prvky optické, Síťové prvky ostatní, Síťové prvky pasivní, Služby, Telefony (IP, ISDN, analogové), Video intercom - IP, Záložní zdroje, Zdroje
 UMAX
-Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství, Notebooky, Osvětlení, Outdoor, Perif
+Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství, Notebooky, Osvětlení, Outdoor, Periferie, Počítače, Tablet P

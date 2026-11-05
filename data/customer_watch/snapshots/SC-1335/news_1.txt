@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-05T09:39:48Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -116,8 +116,8 @@ Latest
 134 items
 Huawei OPS W022 D, Computer module for IdeaHub, 16GB RAM
 06190081
-2 272.80 EUR excl. VAT
-2 750.09 EUR incl. VAT
+2 272.73 EUR excl. VAT
+2 750.00 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -130,8 +130,8 @@ The Huawei OPS W022 D is a compact OPS-C standard computer module designed for i
 New product
 Huawei OPS W021 D, Computer module for IdeaHub, 8GB RAM
 06190082
-1 391.54 EUR excl. VAT
-1 683.76 EUR incl. VAT
+1 391.61 EUR excl. VAT
+1 683.85 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -144,8 +144,8 @@ The Huawei OPS W021 D is a compact OPS-C standard computer module designed for i
 New product
 Huawei OPS A01 D, Android module for IdeaHub, 4GB RAM
 06190079
-630.65 EUR excl. VAT
-763.09 EUR incl. VAT
+630.60 EUR excl. VAT
+763.03 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -158,8 +158,8 @@ The Huawei OPS A01 D is a compact OPS-C standard computer module designed for in
 New product
 Huawei OPS A01 D, Android module for IdeaHub, 8GB RAM
 06190047-001
-925.23 EUR excl. VAT
-1 119.53 EUR incl. VAT
+925.13 EUR excl. VAT
+1 119.41 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -172,8 +172,8 @@ The Huawei OPS A01 D is a compact OPS-C standard computer module designed for in
 New product
 Huawei IdeaHub B3 Base, Interactive display, 98"
 55151688
-5 366.89 EUR excl. VAT
-6 493.94 EUR incl. VAT
+5 366.93 EUR excl. VAT
+6 493.99 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -186,8 +186,8 @@ The Huawei IHB3-98AC is a 98" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 86"
 55151687
-3 364.01 EUR excl. VAT
-4 070.45 EUR incl. VAT
+3 364.05 EUR excl. VAT
+4 070.50 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -200,8 +200,8 @@ The Huawei IHB3-86AC is a 86" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 75"
 55151686
-2 563.27 EUR excl. VAT
-3 101.56 EUR incl. VAT
+2 563.14 EUR excl. VAT
+3 101.40 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -214,8 +214,8 @@ The Huawei IHB3-75AC is a 75" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 65"
 55151685
-1 762.12 EUR excl. VAT
-2 132.17 EUR incl. VAT
+1 762.24 EUR excl. VAT
+2 132.31 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -228,8 +228,8 @@ The Huawei IHB3-65AC is a 65" interactive 4K display with soft-light technology 
 New product
 Huawei Aura10, Dual-Band Wi-Fi 7 router
 Aura10
-138.00 EUR excl. VAT
-167.05 EUR incl. VAT
+138.01 EUR excl. VAT
+167.06 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -256,8 +256,8 @@ The Huawei eKitEngine AR280-4T2N is an all-in-one router equipped with (2) 2.5G 
 New product
 Huawei S530-24T8J4XE, Gigabit switch
 S530-24T8J4XE
-652.83 EUR excl. VAT
-790.00 EUR incl. VAT
+652.82 EUR excl. VAT
+789.98 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -270,8 +270,8 @@ The Huawei eKitEngine S530-24T8J4XE is an L3 stackable switch with a switching c
 New product
 Huawei S310-48S4X, Gigabit optical switch
 S310-48S4X
-534.10 EUR excl. VAT
-646.33 EUR incl. VAT
+533.94 EUR excl. VAT
+646.14 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -284,8 +284,8 @@ The Huawei eKitEngine S310-48S4X is an optical L3 switch with a switching capaci
 New product
 Ubiquiti UACC-LR-Endpoint, Outdoor long-range PoE endpoint
 UACC-LR-Endpoint
-82.54 EUR excl. VAT
-99.95 EUR incl. VAT
+81.90 EUR excl. VAT
+99.17 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -298,8 +298,8 @@ The Ubiquiti UACC-LR-Endpoint is an outdoor endpoint with an IPX5 rating designe
 New product
 Ubiquiti USW-LR-Switch-8-PoE, UniFi long-range PoE switch
 USW-LR-Switch-8-PoE
-233.40 EUR excl. VAT
-282.49 EUR incl. VAT
+231.63 EUR excl. VAT
+280.34 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -312,8 +312,8 @@ The Ubiquiti USW-LR-Switch-8-PoE is a UniFi PoE switch with a switching capacity
 New product
 Ubiquiti U7-Industrial, Outdoor UniFi Wi-Fi 7 AP
 U7-Industrial
-330.07 EUR excl. VAT
-399.46 EUR incl. VAT
+327.56 EUR excl. VAT
+396.42 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -326,8 +326,8 @@ The Ubiquiti U7 Industrial is an industrial outdoor UniFi dual-band Wi-Fi 7 acce
 New product
 Ubiquiti USW-Flex-3, UniFi PoE switch, 3-pack
 USW-Flex-3
-260.15 EUR excl. VAT
-315.00 EUR incl. VAT
+258.17 EUR excl. VAT
+312.62 EUR incl. VAT
 Add to cart
 stiqtyfree:89
 _17:
@@ -340,8 +340,8 @@ The Ubiquiti USW-Flex-3 is a UniFi PoE switch for indoor and outdoor use with a 
 New product
 Ubiquiti USL-Entry-3, UniFi Protect magnetic door contact, 3-pack
 USL-Entry-3
-81.47 EUR excl. VAT
-98.80 EUR incl. VAT
+80.87 EUR excl. VAT
+98.08 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -354,8 +354,8 @@ The Ubiquiti USL-Entry-3 is a wireless UniFi Protect sensor designed to monitor 
 New product
 Ubiquiti UACC-UTS, Universal table stand
 UACC-UTS
-25.23 EUR excl. VAT
-30.53 EUR incl. VAT
+25.05 EUR excl. VAT
+30.31 EUR incl. VAT
 Add to cart
 stiqtyfree:14
 _17:
@@ -368,8 +368,8 @@ The Ubiquiti UACC-UTS is a weighted stand with an adjustable clamp that keeps co
 New product
 Ubiquiti UACC-PSU-12V-150W, Power module, 150W
 UACC-PSU-12V-150W
-100.04 EUR excl. VAT
-121.10 EUR incl. VAT
+99.30 EUR excl. VAT
+120.20 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -383,8 +383,8 @@ Compatibility
 New product
 Ubiquiti UACC-PSU-12V-550W, Power module, 550W
 UACC-PSU-12V-550W
-131.02 EUR excl. VAT
-158.58 EUR incl. VAT
+130.03 EUR excl. VAT
+157.38 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -398,8 +398,8 @@ Compatibility
 New product
 Ubiquiti UACC-Cable-UHS-1M, HDMI 2.1b cable, 1m
 UACC-Cable-UHS-1M
-15.69 EUR excl. VAT
-18.98 EUR incl. VAT
+15.55 EUR excl. VAT
+18.82 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -412,8 +412,8 @@ Ubiquiti UACC-Cable-UHS-1M is an ultra-thin high-speed HDMI 2.1b cable, 1m in le
 New product
 Ubiquiti UACC-Cable-USB-100W-0.3M-BK, USB-C cable with display, 0.3m
 UACC-Cable-USB-100W-0.3M-BK
-16.52 EUR excl. VAT
-19.99 EUR incl. VAT
+16.37 EUR excl. VAT
+19.81 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -426,8 +426,8 @@ The Ubiquiti UACC-Cable-USB-100W-0.3M-BK is a USB-C to USB-C cable measuring 0.3
 New product
 Ubiquiti UACC-Cable-USB-100W-1M-BK, USB-C cable with display, 1m
 UACC-Cable-USB-100W-1M-BK
-20.62 EUR excl. VAT
-24.95 EUR incl. VAT
+20.49 EUR excl. VAT
+24.79 EUR incl. VAT
 Add to cart
 stiqtyfree:56
 _17:
@@ -440,8 +440,8 @@ The Ubiquiti UACC-Cable-USB-100W-1M-BK is a USB-C to USB-C cable measuring 1m, w
 New product
 Ubiquiti UACC-Cable-USB-100W-2M-BK, USB-C cable with display, 2m
 UACC-Cable-USB-100W-2M-BK
-25.27 EUR excl. VAT
-30.58 EUR incl. VAT
+25.09 EUR excl. VAT
+30.36 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -454,8 +454,8 @@ The Ubiquiti UACC-Cable-USB-100W-2M-BK is a USB-C to USB-C cable measuring 2m, w
 New product
 Ubiquiti UACC-Cable-Patch-3M-W-10, UniFi patch cable, 3m, white, 10-pack
 UACC-Cable-Patch-3M-W-10
-46.43 EUR excl. VAT
-56.23 EUR incl. VAT
+46.07 EUR excl. VAT
+55.79 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -464,4 +464,4 @@ infocode: avail
 queu:
 shipmin: 20.2.2027
 Expected 20.2.2027
-The Ubiquiti UACC-Cable-Patch-3M-W-10 is an ultra-thin UTP patch cable measuring 3m, in white, with bendable RJ45 connector boots
+The Ubiquiti UACC-Cable-Patch-3M-W-10 is an ultra-thin UTP patch cable measuring 3m, in white, with bendable RJ45 connector boots,

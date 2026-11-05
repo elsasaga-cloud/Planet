@@ -1,4 +1,4 @@
-# SB-951 montavue.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCEEaBLfel_Jb-ZYU71IDTiA · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-951 montavue.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCEEaBLfel_Jb-ZYU71IDTiA · fetched 2026-11-05T09:39:48Z · HTTP 200
 2026-10-16T17:12:44+00:00	Montavue Wholesale 2026	https://www.youtube.com/watch?v=3XzNM5b4Bdg
 2026-09-29T14:54:59+00:00	Montavue Security | Security you can count on	https://www.youtube.com/watch?v=DB7syeqY28U
 2026-04-21T15:41:15+00:00	Adding NVR & Notifications on Montavue Nexus Mobile	https://www.youtube.com/shorts/GZs7Y5f0HnM

@@ -1,4 +1,4 @@
-# SB-402 sfpturkey.com.tr · youtube · https://www.youtube.com/@sfpturkey · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-402 sfpturkey.com.tr · youtube · https://www.youtube.com/@sfpturkey · fetched 2026-11-05T09:39:48Z · HTTP 200
 2024-07-05T12:15:00+00:00	Ping Testinde En Sık Karşılaşılan Hatalar - Part 2 - Destination Host Unreachable 1/2	https://www.youtube.com/shorts/ailG3NkrHEE
 2024-07-05T11:20:01+00:00	Ping Testinde En Sık Karşılaşılan Hatalar - Part 2 - Destination Host Unreachable	https://www.youtube.com/shorts/1CVEfjNa-kA
 2024-02-12T11:00:53+00:00	Ping Testinde En Sık Karşılaşılan Hatalar - Part 1 - Request Timed Out	https://www.youtube.com/shorts/9p-D6vcIV-Y

@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,8 +40,8 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2736)
-Wszystkie 2736
+Urządzenia (2737)
+Wszystkie 2737
 Switche 1015
 Access Pointy 187
 Routery WiFi 391
@@ -51,7 +51,7 @@ Adaptery PowerLine 21
 Urządzenia klienckie CPE 78
 Radiolinie 80
 Kontrolery sieci 17
-Karty sieciowe 240
+Karty sieciowe 241
 Stacje bazowe ISP 88
 Dekodery IPTV 21
 Rozwiązania IoT 92
@@ -61,15 +61,15 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5076)
-Wszystkie 5076
+Światłowody (5080)
+Wszystkie 5080
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1024
 Patchcordy światłowodowe 1330
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 359
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 361
 Adaptery światłowodowe 127
-Budowa sieci optotelekomunikacyjnej 365
+Budowa sieci optotelekomunikacyjnej 367
 Spawarki światłowodowe i akcesoria 50
 Urządzenia diagnostyczne 158
 Mediakonwertery 90
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2262)
-Wszystkie 2262
+Zasilanie (2267)
+Wszystkie 2267
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
-Zasilacze impulsowe 526
+Zasilacze impulsowe 531
 Adaptery POE 52
 Akumulatory 106
 Przetwornice napięcia 158
@@ -246,13 +246,14 @@ Narzędzia i akcesoria (66)
 Wszystkie 66
 Komputer i biuro (107)
 Wszystkie 107
-Serwery i storage (244)
-Wszystkie 244
+Komputery, serwery i storage (247)
+Wszystkie 247
+Komputery 1
 Karty pamięci 5
 Akcesoria 11
 Licencje 12
 Pamięci RAM 6
-Dyski twarde 63
+Dyski twarde 65
 Dyski sieciowe NAS 147
 Inteligentny dom (494)
 Wszystkie 494
@@ -278,29 +279,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Qoltec 54227 uchwyt klips do kabli 15 × 13 mm naścienny
-3.13 zł netto
+Patchcord CAT 5e U/UTP 0,25 m, 2 × RJ45 kątowy
+5.5 zł netto
 Do koszyka
-Qoltec 54229 uchwyt do kabli szary
-3.31 zł netto
+Uchwyt odciągowy do kabli okrągłych 3–8 mm Sdünnger PA-3800
+8.77 zł netto
 Do koszyka
-Uchwyt odciągowy MBL 0,7 kN 12 × 6 mm
-3.31 zł netto
+Mean Well HLG-320H-24B zasilacz LED 24 V 320 W z funkcją ściemniania
+385.34 zł netto
 Do koszyka
-Uchwyt odciągowy MBL 5,5 kN do kabla 7 mm
-13.25 zł netto
+Mean Well HLG-320H-24A zasilacz LED 24 V 320 W IP65
+348.59 zł netto
 Do koszyka
-Uchwyt odciągowy do kabli MBL 8 kN 10 mm
-14.72 zł netto
+Uchwyt odciągowy do kabli 3–7 mm Sdünnger PA-3700 V3
+9.65 zł netto
 Do koszyka
-Uchwyt odciągowy MBL 3 kN do kabla 7 mm
-10.3 zł netto
+Mean Well HLG-320H-12 zasilacz LED 12 V 264 W IP67
+372.47 zł netto
 Do koszyka
-MBL-25KN przelotowy uchwyt wieszak do kabli, wspornik
-3.68 zł netto
+Seagate IronWolf Pro 32 TB NAS HDD 3,5 ST32000NT000
+6903.98 zł netto
 Do koszyka
-MBL-4KN wspornik hakowy uchwyt wieszak do kabli
-7.36 zł netto
+Seagate IronWolf Pro ST20000NT001 – dysk twardy NAS 20 TB
+3637.84 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

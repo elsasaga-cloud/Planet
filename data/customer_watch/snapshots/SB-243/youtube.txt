@@ -1,4 +1,4 @@
-# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-11-05T09:39:48Z · HTTP 200
 2026-11-04T06:15:44+00:00	HFCL OptiQ AI™: Optical Connectivity Built for AI Data Centers & Hyperscalers	https://www.youtube.com/watch?v=79SoVZRl55c
 2026-10-30T07:10:59+00:00	Why Is the Last Mile the Biggest Challenge in Fiber Connectivity?	https://www.youtube.com/watch?v=5WM7j9tcTtI
 2026-10-16T09:29:00+00:00	How Fire Safety is Reshaping Fiber Design	https://www.youtube.com/watch?v=PrrbU_yo58Q

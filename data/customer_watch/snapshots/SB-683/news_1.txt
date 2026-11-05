@@ -1,4 +1,4 @@
-# SB-683 spectra.de · news_1 · https://spectra.de/news/industrie-pc-und-automation-news · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-683 spectra.de · news_1 · https://spectra.de/news/industrie-pc-und-automation-news · fetched 2026-11-05T09:39:48Z · HTTP 200
 Industrie-PC und Automation News von Spectra
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -26,8 +26,8 @@ Anwendungen
 Technologien
 Individualisierung
 Kontakt
-News
 Über Uns
+News
 Industrie-PC Systeme
 Panel-PC Systeme
 Box-PC Systeme
@@ -114,11 +114,6 @@ Betriebssysteme
 Kontakt Sales
 Kontakt After Sales
 Service - Downloads | RMA
-Tipp des Monats
-Messen & Seminare
-Presse Center
-Newsletter abonnieren
-Newsletter Archiv
 Über uns
 Philosophie
 Nachhaltigkeit
@@ -130,11 +125,18 @@ Produktion
 Logistikzentrum
 Glossar
 Karriere
+Arbeiten bei Spectra
 Jobs bei Spectra
+Ausbildung bei Spectra
 Partner & Hersteller
 Partner
 Hersteller
 Captec Group
+Tipp des Monats
+Messen & Seminare
+Presse Center
+Newsletter abonnieren
+Newsletter Archiv
 Menü schließen
 Deutsch
 English
@@ -234,4 +236,4 @@ Teltonika Networks ist ein europäischer Hersteller industrieller Netzwerk- und 
 › Sealevel bei Spectra
 28.04.2026
 USB-Isolatoren mit medizinischen Zulassungen
-Sealevel Systems Inc. ist ein US-amerikanischer Hersteller von industriellen Computing- und Kommunikationslösungen. Die Produkte zeichnen
+Sealevel Systems Inc. ist ein US-amerikanischer Hersteller von industriellen Computing- und K

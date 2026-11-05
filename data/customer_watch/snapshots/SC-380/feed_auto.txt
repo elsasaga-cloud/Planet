@@ -1,4 +1,5 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+Thu, 05 Nov 2026 07:55:41 GMT	[Easy Mesh] Mesh와 Extender, 어떤 걸 골라야 하나요? 와이파이 확장 선택 가이드	https://iptime.com/support/faq/27770
 Wed, 04 Nov 2026 04:03:35 GMT	[ipTIME 공유기] DNS 보안 설정 방법 (DNS 리다이렉트, 암호화 DNS 차단)	https://iptime.com/support/faq/27768
 Wed, 04 Nov 2026 01:54:33 GMT	[ipTIME NAS] ipTIME NAS 유틸리티 설치와 사용 방법 (ipDISK Drive, ipTIME Cloud)	https://iptime.com/support/faq/27767
 Wed, 04 Nov 2026 00:32:00 GMT	[펌웨어] ipTIME 유무선 공유기 펌웨어 16.00.6 배포	https://iptime.com/notices/27766
@@ -48,4 +49,3 @@ Wed, 28 Oct 2026 06:30:00 GMT	[ipTIME 공유기] 공유기·확장기가 뜨겁�
 Wed, 28 Oct 2026 06:30:00 GMT	[ipTIME 공유기] 와이파이가 느리거나 자주 끊길 때 확인 순서	https://iptime.com/support/faq/27721
 Wed, 28 Oct 2026 05:25:39 GMT	[ipTIME NAS] 외부에서 NAS(ipDISK 주소)로 접속되지 않을 때	https://iptime.com/support/faq/27720
 Wed, 28 Oct 2026 05:25:39 GMT	[ipTIME 공유기] 관리 화면(192.168.0.1)에 접속되지 않을 때	https://iptime.com/support/faq/27719
-Wed, 28 Oct 2026 05:25:39 GMT	[ipTIME 공유기] 펌웨어 업그레이드가 실패하거나 도중에 멈췄을 때	https://iptime.com/support/faq/27718

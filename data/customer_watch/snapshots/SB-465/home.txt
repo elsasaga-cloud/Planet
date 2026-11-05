@@ -1,4 +1,4 @@
-# SB-465 Koza · home · https://kozaguvenlik.com.tr/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-465 Koza · home · https://kozaguvenlik.com.tr/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Koza Güvenlik, IP Kamera, AHD Kamera, Teletek Alarm, Akıllı Ev Sistemleri
 Daha Fazla
 Bayi Girişi / Bayi Başvurusu
@@ -297,9 +297,9 @@ Teletek Eclipse PGM 8 PS ..
 Teletek Eclipse PR IT Tem..
 Teletek Eclipse PR Temass..
 Yangın İhbar
+Adresli Sistem
 Konvansiyonel Sistem
 Yangın Acil Çıkış Levhaları..
-Söndürme Sistemleri
 Tümünü Göster
 Yangın Alarm Sisteml..
 Teletek IRIS PRO 1Looplu Adresli Yangın İhbar Pane..
@@ -323,8 +323,8 @@ Teletek SIMPO 2 Loop Adresli Yangın İhbar Paneli
 BENTEL J408-4 4 Zone Konvansiyonel Yangın Alarm Pa..
 BENTEL J408-8 8 Zone Konvansiyonel Yangın Alarm Pa..
 PDKS Sistemleri
+Parmak İzi PDKS Sistemleri..
 Yüz Tanıma PDKS Sistemleri..
-Kartlı PDKS Sistemleri..
 Tümünü Göster
 Key Touch FD-200 Yüz Tanıma Sistemi
 Key Touch FD-780 Yüz Tanıma ve Kartlı Sistem

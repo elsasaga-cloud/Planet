@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -60,11 +60,11 @@ Stokta
 Yeni Geldi Tiwox Tiwox K-9500 64" Android 11 RK3566 32GB Rom 2GB RAM 4K 3840X1488 Dikey LCD Dijital Menü Ekrani Dokunmatik Siyah
 Stokta · Yeni eklendi
 Ürünü İncele
-Öne Çıkan Marka Ruijie
-254 ürün
-Ruijie Ürünleri
-Son Haber Intel, Kuantum Yazılımı Classiq'i Bünyesine Katıyor
-3 Kasım 2026
+Öne Çıkan Marka Asus
+3.774 ürün
+Asus Ürünleri
+Son Haber AMD'den 144GB Bellekli Yeni Nesil PCIe Hızlandırıcı
+5 Kasım 2026
 Haberi Oku
 22 +
 Yıllık Deneyim
@@ -85,15 +85,15 @@ Art Sistem, Logitech iş ortaklığında 'Türkiye Genelinde En Yaygın Satan Ar
 30.000'i aşkın ürün; hepsi tek B2B portal üzerinden. Stok durumu, fiyat ve teknik dokümanlar bayi panelinden anlık.
 Tüm Kategoriler
 Bilgisayar Parçaları
-852 ürün
+854 ürün
 Güvenlik Ürünleri
-891 ürün
+894 ürün
 Ağ Ürünleri
-744 ürün
+748 ürün
 Baskı Çözümleri
 90 ürün
 Barkod Ürünleri
-108 ürün
+109 ürün
 Enerji & UPS
 95 ürün
 İşlemci & Anakart
@@ -108,13 +108,13 @@ Seagate
 Tiwox
 Tiwox TP-7610 18.5" I7 10.NESİL(10710) 128GB NWME SSD 8GB DDR4 RAM 1366X768 Dokunmatik POS PC
 Lenovo
-Lenovo NB // Thinkbook 16P 21R0001KTX ULTRA9 275HX 32GB 1TB SSD 8GB RTX 5060 16 DOS
-Lenovo
 Lenovo WS Tower P2 30JQ0037TR ULTRA7 265 32GB 1TB SSD RTX2000 16GB W11P 3 Yıl Yerinde Garanti
 Leaderhub
 Leaderhub AD8 32GB 1TB SSD RYZEN7 H255 Wi-Fi Bt W11 Pro Mini PC
 Leaderhub
 Leaderhub LP5C I5-12450H 16GB 512SSD WIN11 Pro Mini PC Gümüş
+Ruijie
+Ruijie Reyee RG-RAP2260(G) 2 Port Gigabit 2.4/5GHZ 1775MBPS 2X2 Mimo WIFI6 PoE Tavan Tipi Access Point(Adaptörsüz)
 2021 – 2026 Ödülleri
 Markalar Büyümeyi Ödüllendiriyor
 2021 'den bu yana 12 markadan 28 ödül. Tedarik gücümüzün üçüncü taraf onayı.
@@ -197,18 +197,18 @@ Güncel
 Haberler ve Duyurular
 Ödüller, etkinlikler ve sektörden güncel haberler.
 Tüm Haberler
-Marka Duyurusu
-3 Kasım 2026
-Intel, Kuantum Yazılımı Classiq'i Bünyesine Katıyor
-Intel, kuantum yazılım firması Classiq'i satın alarak silikon spin-kübit donanımıyla tam yığın kuantum bilgisayar iş koluna geçiyor.
+Ürün Lansmanı
+5 Kasım 2026
+AMD'den 144GB Bellekli Yeni Nesil PCIe Hızlandırıcı
+AMD Instinct MI350P, 600W'lık tek PCIe kartta 144GB HBM3E bellek sunuyor. Dört yıl sonra gelen yeni nesil hızlandırıcı veri merkezlerini hedefliyor.
 Yapay Zekâ
-3 Kasım 2026
-DeepSeek v4.1 Flash Tanıtıldı: Hız ve Yetenek
-DeepSeek, yeni v4.1 Flash modelini duyurdu. Hızlı ve verimli yapısıyla dikkat çeken model, geliştirici topluluğunda ses getirdi.
-İnceleme
-3 Kasım 2026
-ASUS ROG Zephyrus G16 (2026) incelendi
-ASUS ROG Zephyrus G16 2026, RTX 5080 ve Panther Lake işlemciyle ince-hafif oyun segmentinde iddiasını yükseltiyor.
+5 Kasım 2026
+OpenAI Matematikte Yapay Zekayla Sınır Aştı
+OpenAI, yeni paylaştığı araştırmayla yapay zekanın matematiksel ispat yeteneklerinde önemli bir ilerleme kaydettiğini duyurdu.
+Güvenlik
+4 Kasım 2026
+IBM ve Red Hat'ten 400 Java Açığına Yama
+IBM ve Red Hat'in desteklediği Lightwell projesi, 400'den fazla Java güvenlik açığını kapattı; Clearinghouse artık herkese açık.
 5.000+ Bayinin Arasına Katılın
 Bayi başvurunuzu üç adımda tamamlayın — 48 saat içinde geri dönüş.
 Bayi Başvurusu Bayilik Evrakları

@@ -1,9 +1,9 @@
-# SB-782 simpleuk.com · sitemap · https://www.simpleuk.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
-2026-11-03	https://www.simpleuk.com/
-2026-11-03	https://www.simpleuk.com/search
-2026-11-03	https://www.simpleuk.com/contactus
-2026-11-03	https://www.simpleuk.com/news
-2026-11-03	https://www.simpleuk.com/blog
+# SB-782 simpleuk.com · sitemap · https://www.simpleuk.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+2026-11-05	https://www.simpleuk.com/
+2026-11-05	https://www.simpleuk.com/search
+2026-11-05	https://www.simpleuk.com/contactus
+2026-11-05	https://www.simpleuk.com/news
+2026-11-05	https://www.simpleuk.com/blog
 2024-10-02	https://www.simpleuk.com/cables
 2024-10-02	https://www.simpleuk.com/active-optical-cables
 2025-04-07	https://www.simpleuk.com/sfp-10g-dac
@@ -79,6 +79,7 @@
 2024-04-15	https://www.simpleuk.com/trendnet
 2024-04-15	https://www.simpleuk.com/zte
 2024-04-17	https://www.simpleuk.com/zyxel
+2026-11-03	https://www.simpleuk.com/t-optics-glc-lh-smd-compatible
 2026-10-08	https://www.simpleuk.com/1061705850-02
 2026-09-25	https://www.simpleuk.com/t-optics-sfp-10g-t-80-compatible-sfp-transceiver
 2026-05-18	https://www.simpleuk.com/t-optics-j9151d-compatible
@@ -223,6 +224,4 @@
 2019-05-14	https://www.simpleuk.com/fni210sg-top
 2020-03-04	https://www.simpleuk.com/fnxl710q-top
 2021-09-16	https://www.simpleuk.com/407-bbwl
-2026-02-27	https://www.simpleuk.com/e10gsfpt
-2019-05-14	https://www.simpleuk.com/fnxl7102q-top
-2019-0
+2026-02-27	https://www.simpleuk.co

@@ -1,4 +1,5 @@
-# SB-1126 klinger.fi · feed_auto · https://klinger.fi/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-1126 klinger.fi · feed_auto · https://klinger.fi/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+Wed, 04 Nov 2026 09:47:54 +0000	Avoin työpaikka: Tekninen myyjä anturitiimiin, hakuaika 4.11. – 18.11.2026	https://klinger.fi/sisallot-ja-uutiset/avoin-tyopaikka-tekninen-myyja-anturitiimiin-hakuaika-4-11-18-11-2026/
 Mon, 02 Nov 2026 06:00:00 +0000	Ventus X-series laajenee – uudet X9, X9+ ja X10 täydentävät Print & Apply -etiketöintilaitteiden valikoimaa	https://klinger.fi/sisallot-ja-uutiset/ventus-x-series-laajenee-uudet-x9-x9-ja-x10-taydentavat-print-apply-etiketointilaitteiden-valikoimaa/
 Thu, 29 Oct 2026 10:17:15 +0000	ECONOSTO Oy sulautuu KLINGER Finlandiin 1.1.2027 – yhteinen matka jatkuu	https://klinger.fi/sisallot-ja-uutiset/econosto-oy-sulautuu-klinger-finlandiin-1-1-2027-yhteinen-matka-jatkuu/
 Tue, 27 Oct 2026 14:02:43 +0000	Domino Cx350i – mustesuihkutulostin suurten pakkausmerkintöjen tulostamiseen	https://klinger.fi/sisallot-ja-uutiset/domino-cx350i-mustesuihkutulostin-suurten-pakkausmerkintojen-tulostamiseen/
@@ -8,4 +9,3 @@ Wed, 14 Oct 2026 10:00:00 +0000	KLINGER Finland sähköistää koko autokantansa
 Wed, 30 Sep 2026 05:55:06 +0000	KLINGER Finland ja DHL rakentavat vähäpäästöisempää toimitusketjua yhdessä	https://klinger.fi/sisallot-ja-uutiset/klinger-finland-ja-dhl-rakentavat-vahapaastoisempaa-toimitusketjua-yhdessa/
 Mon, 28 Sep 2026 07:50:30 +0000	140 vuotta KLINGERiä: Kokemuksen rakentama, luottamuksen ohjaama	https://klinger.fi/sisallot-ja-uutiset/140-vuotta-klingeria-kokemuksen-rakentama-luottamuksen-ohjaama/
 Mon, 14 Sep 2026 09:00:00 +0000	Kun venttiiliprojekti vaatii tavallista enemmän – KLINGER Finland toteuttaa räätälöidyt venttiilitoimitukset	https://klinger.fi/sisallot-ja-uutiset/kun-venttiiliprojekti-vaatii-tavallista-enemman/
-Wed, 09 Sep 2026 05:58:43 +0000	KLINGER Finland mukana tukemassa Elämä Lapselle -kampanjaa	https://klinger.fi/sisallot-ja-uutiset/klinger-finland-mukana-tukemassa-elama-lapselle-kampanjaa/

@@ -1,6 +1,7 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
 2026-10-05T00:13:47+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
+2026-11-04T18:30:37+00:00	https://www.xlrsecurity.com/hdd-calculator/
 2026-10-26T19:32:48+00:00	https://www.xlrsecurity.com/lens-preview/
 2026-08-17T17:53:39+00:00	https://www.xlrsecurity.com/tutorials/
 2026-08-13T13:36:22+00:00	https://www.xlrsecurity.com/brands/lysora-technology/
@@ -35,7 +36,7 @@
 2026-10-14T05:13:22+00:00	https://www.xlrsecurity.com/privacy-policy/
 2026-10-07T15:13:53+00:00	https://www.xlrsecurity.com/contact/
 2026-10-04T23:55:18+00:00	https://www.xlrsecurity.com/about/
-2026-11-01T21:53:33+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky4tb/
+2026-11-02T10:25:38+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky4tb/
 2026-10-19T18:25:35+00:00	https://www.xlrsecurity.com/product/hdd-tos-s3008tb/
 2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/nvr504-32e-im/
 2026-10-13T18:22:51+00:00	https://www.xlrsecurity.com/product/ipc98344er-gx42-e8-w-vh3/
@@ -57,9 +58,9 @@
 2026-08-25T20:24:49+00:00	https://www.xlrsecurity.com/tutorials/lysora/how-to-enable-upnp-on-a-lysora-router/
 2026-08-19T15:29:42+00:00	https://www.xlrsecurity.com/tutorials/lysora/how-to-pair-a-lysora-wireless-bridge/
 2026-09-22T19:45:35+00:00	https://www.xlrsecurity.com/tutorials/lysora/how-to-add-lysora-equipment-to-the-cloud/
-2026-09-30T20:19:32+00:00	https://www.xlrsecurity.com/product/l6pro-t/
+2026-11-03T10:25:17+00:00	https://www.xlrsecurity.com/product/l6pro-t/
 2026-09-30T20:19:32+00:00	https://www.xlrsecurity.com/product/ls2t-8gt2sfp-hp/
-2026-09-30T20:19:32+00:00	https://www.xlrsecurity.com/product/lcst-8gt2sfp-hp/
+2026-11-02T15:25:21+00:00	https://www.xlrsecurity.com/product/lcst-8gt2sfp-hp/
 2026-09-30T20:19:31+00:00	https://www.xlrsecurity.com/product/ls3-12xs/
 2026-09-30T20:19:31+00:00	https://www.xlrsecurity.com/product/ls3-24sfp-8gt4xs/
 2026-09-30T20:19:31+00:00	https://www.xlrsecurity.com/product/ls2p-16mg4xs-hp/
@@ -75,7 +76,7 @@
 2026-11-01T21:46:54+00:00	https://www.xlrsecurity.com/product/hdd-tos-dt02vh-6tb/
 2026-08-28T13:07:23+00:00	https://www.xlrsecurity.com/product/hdd-tos-mg24tb/
 2026-10-06T17:25:25+00:00	https://www.xlrsecurity.com/product/hdd-tos-mg8tb/
-2026-11-01T21:51:09+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky6tb/
+2026-11-02T10:25:38+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky6tb/
 2026-09-30T20:19:30+00:00	https://www.xlrsecurity.com/product/ls2-48gt4sfp-p/
 2026-09-30T16:42:44+00:00	https://www.xlrsecurity.com/product/base5i/
 2026-10-29T20:25:38+00:00	https://www.xlrsecurity.com/product/l7-w/
@@ -151,4 +152,4 @@
 2025-05-07T19:47:30+00:00	https://www.xlrsecurity.com/product/xlr-acc-hdmi-extender-60m/
 2026-07-23T12:21:26+00:00	https://www.xlrsecurity.com/blog/univiews-owlview-plus-delivers-incredible-image-quality-with-image-comparisons/
 2025-04-28T14:22:00+00:00	https://www.xlrsecurity.com/product/xlr-acc-mifare-card/
-2026-10-07T13:53:23+00:00	https://www.xlrsecurity.com/product/unv-kit-201s-372s-nsw202
+2026-10-07T13:53

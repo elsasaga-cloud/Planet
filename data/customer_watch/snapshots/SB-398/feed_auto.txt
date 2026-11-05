@@ -1,4 +1,4 @@
-# SB-398 osd.com.au · feed_auto · https://osd.com.au/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-398 osd.com.au · feed_auto · https://osd.com.au/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Thu, 15 Aug 2024 02:30:02 +0000	Newsletter August 2024	https://osd.com.au/newsletter-august-2024/
 Fri, 15 Dec 2023 03:30:23 +0000	Newsletter December 2023	https://osd.com.au/newsletter-december-2023/
 Thu, 22 Apr 2021 05:10:30 +0000	Newsletter April 2021	https://osd.com.au/newsletter-april-2021/

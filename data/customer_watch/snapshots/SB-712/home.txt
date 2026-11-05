@@ -1,4 +1,4 @@
-# SB-712 maplesystems.com · home · https://maplesystems.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-712 maplesystems.com · home · https://maplesystems.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Industrial Automation Control Solutions
 Skip to content
 Login/Register
@@ -23,9 +23,9 @@ Compare HMI Models
 Popular comparisons: cMT2078X , cMT2108x2 , HMI5070Bv3
 FREE HMI Software (EBPro)
 Powerful, full-version HMI programming—no contracts or subscriptions. Get started fast—even without prior experience!
-Learn More
+Learn More about HMI Configuration Software
 HMIs that deliver seamless integration across new installations and existing control systems
-View Integrations
+View HMI Integrations
 Industrial Panel PCs
 View All Panel PCs
 UL Certified PCs
@@ -89,9 +89,9 @@ Popular comparisons: PLC-FB0808P , PLC-FB1616R0202 , PLC-ES0808P
 FREE​ PLC Software ( MapleLogic )
 Create and monitor machine control projects with MapleLogic’s robust and powerful features—simulation, tuning, security, and more.
 Learn More
-Build a Modular PLC system
+Modular PLC system builder
 See exactly what you need based on your specifications—fast, simple, and accurate.
-PLC Configuration Wizard
+FREE PLC Configuration Wizard
 HMI + PLC
 View All HMI+PLC Units
 HMI+PLC supports 1 I/O Expansion modules
@@ -112,7 +112,7 @@ Compare Monitor Models
 Popular comparisons: MON1015APHv2 , MON6015APHEB , AEx-115PH
 Need Help Choosing an Industrial Monitor?
 Discover the top 10 factors that ensure your monitor meets all project requirements—from environment to display needs.
-Read Guide
+Read Industrial Monitor Guide
 Digital Signage Media Players
 View All Digital Signage Media Players
 Digital Signage
@@ -123,7 +123,7 @@ Compare Digital Signage Media Player Models
 Popular comparisons: BPC2620A , BPC5023A , BPC5024A
 Need Help Choosing an Digital Signage Media Player?
 A indepth guide helping you choose the right system for your application.
-Read Guide
+Read Digital Signage Media Player Guide
 Nimbus808
 Power your visual communications with Nimbus808 , a cloud-based industrial digital signage software designed for manufacturing plants and harsh outdoor environments.
 Explore Nimbus808
@@ -135,22 +135,25 @@ Compare OIT Models
 Popular comparisons: OIT3185-A00 , OIT4185-A00
 Powerful OIT Configuration (OITware-200)
 Streamline OIT setup with multi-language support, advanced recipe management, remote variable storage, and expanded device compatibility.
-Learn More
+Learn More about OIT Configuration Software
 PID Controllers
 View All PID Controllers
 Compact PID Temperature Controllers
 PID Temperature Controllers
 Compare PID Controller Models
+FREE MaplePID Pro Controller Software
+Provides powerful configuration and management capabilities for our industrial temperature controllers.
+Learn More about MaplePID Pro
 Need Help Choosing a PID Controller?
 Let our team help you choose the right solution for your industry.
-Contact Our Experts
+Contact Our PID Controller Experts
 Tower Stack Lights
 View All Tower Lights
 Direct Mount Tower Lights
 Pole Mount Tower Lights
 Need Help Choosing a Tower Stack Light?
 Let our team help you choose the right solution for your industry.
-Contact Our Experts
+Contact Our Tower Stack Light Experts
 Pushbuttons
 View All Pushbuttons
 Indicator Lights
@@ -161,7 +164,7 @@ Latching Pushbuttons
 Latching E-Stop
 Need Help Choosing a Pushbutton ?
 Let our team help you choose the right solution for your industry.
-Contact Our Experts
+Contact Our Pushbutton Experts
 Network Switches
 View All Switches
 Unmanaged Switches
@@ -170,7 +173,7 @@ Fully Managed Switches
 Compare Industrial Network Switches
 Need Help Choosing a Network Switch?
 Discover the top 10 factors that ensure your network switch meets all project requirements.
-Learn More
+Learn More about our Network Switches
 Accessories
 View All Accessories
 Software Licenses
@@ -334,12 +337,15 @@ Industries Served
 Case Studies
 Agriculture
 Building Automation
+Defense, Aerospace & Security
 Energy & Power
 Data Centers
 Food & Beverage
+Manufacturing
 Medical & Pharmaceutical
 Oil & Gas
 Packaging
+Transportation
 Water & Wastewater
 IIoT Overview
 MQTT
@@ -435,23 +441,3 @@ Pole Mount Tower Lights
 Industrial Network Switches
 Unmanaged Switches
 Lite-Managed Switches
-Managed Switches
-Pushbuttons
-Indicator Lights
-Momentary Pushbuttons
-Latching Pushbuttons
-2-Position Selector Switches
-3-Position Selector Switches
-Latching E-Stop
-HMI + PLC Combo Units
-All HMI + PLCs
-Class 1 Div 2
-HMI+PLC Software (MAPware7000)
-Compare HMI+PLC Models
-Industrial Monitors
-All Monitors
-High-Brightness Monitors
-Extended Temperature Monitors
-Compare Monitor Models
-Communication Cables & Accessories
-Communicat

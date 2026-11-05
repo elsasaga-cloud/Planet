@@ -1,4 +1,4 @@
-# SB-789 visarcctv.com · home · https://www.visarcctv.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-789 visarcctv.com · home · https://www.visarcctv.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Prekes viSar
 .content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" onfocus="$(this).parent().find('.select>.content>span>a').attr('href','/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'));clearTimeout(search_timer);search_timer=setTimeout(search,1000,'/prekes/'+$(this).val().replace(/[+]/g,'-').replace(/[\/]/g,'_'),$(this).parent().find('.select'))" maxlength=100 />
 Show all results

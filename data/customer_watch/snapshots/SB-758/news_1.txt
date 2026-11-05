@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-05T09:39:48Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -138,7 +138,7 @@ A Revolution in Tactical Communications: Why the Modern Battlefield Relies on Fi
 Modern military operations are undergoing a fundamental transformation. The widespread use of electronic warfare (EW) and continuous surveillance by unmanned systems place increasing demands on reliable and secure communication. Traditional radio communication can be vulnerable to detection, interference and jamming, making tactical fiber optic solutions an increasingly important part of modern defence infrastructure.
 Read more
 Production at Foss – From Concept to Fully Tested Product
-Production at Foss – From Concept to Fully Tested Product Foss has production facilities in both Norway and Slovakia. Here, modern production technology, experienced operators, components from leading manufacturers and our own expertise in termination, assembly, testing and product development come together.
+Foss has production facilities in both Norway and Slovakia. Here, modern production technology, experienced operators, components from leading manufacturers and our own expertise in termination, assembly, testing and product development come together.
 Read more
 Foss Certified for MMC connector and TMT ferrule termination and assembly
 Foss Fibre Optics has achieved US Conec certification for MMC Connector and TMT Ferrule termination and assembly, strengthening our in-house capabilities for high-density fiber optic solutions.
@@ -215,4 +215,4 @@ OFC Conference 2025
 Foss team attended the OFC Conference 30th March to 3th April 2025 in Moscone Convention Center in San Francisco, USA
 Read more
 Data Centres - Overview
-A data centre is a physical space that houses the hardware and computing systems that support a business' digital activity. Data centres store critical data and applications, such as email, da
+A data centre is a physical space that houses the hardware and computing systems that support a business' digital activity. Data centres store critical data and applications, such as email, databases, and customer relationship management (CRM) system

@@ -1,5 +1,5 @@
-# SB-947 ison-tech.com · sitemap · https://www.ison-tech.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
-2026-11-04	https://www.ison-tech.com/
+# SB-947 ison-tech.com · sitemap · https://www.ison-tech.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+2026-11-05	https://www.ison-tech.com/
 2021-03-01	https://www.ison-tech.com//index.php/home
 2021-03-01	https://www.ison-tech.com//index.php/about/company
 2021-03-01	https://www.ison-tech.com//index.php/about/core_value
@@ -46,6 +46,7 @@
 2021-02-08	https://www.ison-tech.com/index.php/product/category?id=3
 2021-02-08	https://www.ison-tech.com/index.php/product/category?id=2
 2021-02-08	https://www.ison-tech.com/index.php/product/category?id=1
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG612P-4F-6-90
 2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS-DG712P-4F-8
 2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS-DX712 Series
 2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS-DX712P-4XG-8
@@ -54,14 +55,13 @@
 2026-05-07	https://www.ison-tech.com/index.php/product/detail/IS-DG912P-4F-8
 2025-02-20	https://www.ison-tech.com/index.php/product/detail/TSFP-X-LR20-T
 2025-02-20	https://www.ison-tech.com/index.php/product/detail/TSFP-F-M002-T
-2025-02-20	https://www.ison-tech.com/index.php/product/detail/IS-DG620-4F_HW_2_Series
-2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS-DG510-A_Series
-2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS-DG508-A Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG510-A_Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG508-A Series
 2025-02-07	https://www.ison-tech.com/index.php/product/detail/IS-DG102-PD Series
 2025-02-07	https://www.ison-tech.com/index.php/product/detail/IS-DF102-PD_Series
 2024-10-07	https://www.ison-tech.com/index.php/product/detail/IS_DF208A_Series
 2026-06-26	https://www.ison-tech.com/index.php/product/detail/IS_DF205A_Series
-2024-07-31	https://www.ison-tech.com/index.php/product/detail/
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS-RX928-4XG Series
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS-RX636-24F-4XG Series
 2025-03-29	https://www.ison-tech.com/index.php/product/detail/IS-RX628P-4XG-24 Series
@@ -72,8 +72,8 @@
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS-RG928-8C-4F Series
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS-RG614 Series
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS-DG912-4F Series
-2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS-DG910-2F Series
-2026-08-19	https://www.ison-tech.com/index.php/product/detail/IS-DG612-4F Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG910-2F Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG612-4F Series
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS-DG206 Series
 2024-01-17	https://www.ison-tech.com/index.php/product/detail/IS_LRH5750_SD
 2024-01-17	https://www.ison-tech.com/index.php/product/detail/IS_LRH750D
@@ -99,11 +99,11 @@
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS_DX912P_4XG_8
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS_DX912_Series
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS_DX610_Series
-2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS_DG920P_4F_16
-2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS_DG920_12F_Series
-2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS-DG920 Series
-2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS_DG620_12F_Series
-2026-08-18	https://www.ison-tech.com/index.php/product/detail/IS_DG620_4F_Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS_DG920P_4F_16
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS_DG920_12F_Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG920-4F Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS_DG620_12F_Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS_DG620_4F_Series
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS_DG612P_4F_8
 2026-08-19	https://www.ison-tech.com/index.php/product/detail/IS_DG610_2F_Series
 2024-06-16	https://www.ison-tech.com/index.php/product/detail/IS_DG205_Series
@@ -132,8 +132,8 @@
 2024-06-19	https://www.ison-tech.com/index.php/product/detail/IS-DF308P Series (8PoE/PoE+)
 2026-02-24	https://www.ison-tech.com/index.php/product/detail/IS-DG606P-2F-4
 2024-06-19	https://www.ison-tech.com/index.php/product/detail/IS-DG305P Series (4PoE/PoE+)
-2024-06-19	https://www.ison-tech.com/index.php/product/detail/IS-DG510P Series (8PoE/PoE+) (MOQ:30)
-2024-06-19	https://www.ison-tech.com/index.php/product/detail/IS-DG620P-4F-16 (16PoE/PoE+)
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG510P Series
+2026-11-04	https://www.ison-tech.com/index.php/product/detail/IS-DG620P-4F-16
 2024-06-19	https://www.ison-tech.com/index.php/product/detail/IS-DH310P Series (8PoE/PoE+)
 2024-06-19	https://www.ison-tech.com/index.php/product/detail/IS-DG306P Series (4PoE/PoE+)
 2026-07-16	https://www.ison-tech.com/index.php/product/detail/IS-DG512P Series
@@ -152,4 +152,4 @@
 2024-08-09	https://www.ison-tech.com/index.php/product/detail/CS-RG528-4C-24F-2A
 2022-06-17	https://www.ison-tech.com/index.php/product/detail/TSFP-G-XD50-T
 2022-06-17	https://www.ison-tech.com/index.php/product/detail/TSFP-G-LX10-T
-2022-06-17
+2022-06-17	https://www.ison-tech.com/index.php/

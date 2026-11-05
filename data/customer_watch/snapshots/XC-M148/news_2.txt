@@ -1,4 +1,4 @@
-# XC-M148 Lakeland Engineering Equipment Company · news_2 · https://www.lakelandengineering.com/blog · fetched 2026-11-04T09:30:29Z · HTTP 200
+# XC-M148 Lakeland Engineering Equipment Company · news_2 · https://www.lakelandengineering.com/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
 Blog: Lakeland Engineering Equipment Co. - Lakeland Engineering
 Skip to content
 855-544-0321
@@ -43,6 +43,9 @@ Contact
 Lakeland Engineering Blogs
 Discover the latest in industrial automation, electrical controls, and power solutions with the Lakeland Engineering blog. Whether you’re troubleshooting complex systems, exploring new technologies, or optimizing your operations, our blog delivers expert insights tailored to your needs.
 From product spotlights and application tips to updates on industry-leading brands like Fluke, Yaskawa, ABB, Eaton, and PULS, each article is designed to help you make informed decisions and stay ahead in a fast-moving industry.
+Employee Spotlight: Meet Gerry Gunn, Senior Vice President of Sales
+With 38 years of experience in electrical distribution, Gerry brings a wealth of industry knowledge, relationship-building experience, and a passion for finding solutions to his role as Senior Vice President of Sales at Lakeland Engineering. Gerry’s career began at just 16 years old, working his way through nearly every department
+Read More
 Power Logger Rental Guide: What to Rent and How to Prepare
 A power logger rental gives electricians, facility managers, and energy engineers access to calibrated measurement equipment for a specific project without a capital purchase. The right rental captures clean, defensible data on the first deployment. The wrong one can mean a second site visit, a second rental period, and a
 Read More
@@ -69,9 +72,6 @@ When a critical piece of equipment goes down, every minute matters. A failed ind
 Read More
 Industrial Edge Computing Explained: How Ewon Edge Connects Machines to the IIoT
 Manufacturers are collecting more data from machines, PLCs, and production systems than ever before. But collecting data is only part of the challenge. The bigger question is: What do you do with that data once you have it? This is where industrial edge computing comes into play. Industrial edge computing
-Read More
-Ground Resistance Testing 101: Methods, Equipment, and When to Test
-A grounding system provides a path for electrical current to dissipate safely into the earth during faults, surges, and other abnormal electrical conditions. Over time, however, soil conditions, corrosion, loose connections, construction activity, and environmental changes can affect how effectively that system performs. Ground resistance testing measures the resistance between
 Read More
 « Previous
 Page 1

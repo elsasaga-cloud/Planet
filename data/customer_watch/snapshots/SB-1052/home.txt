@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -10,8 +10,8 @@ Ezek a cookie-k segítenek abban, hogy a webáruház használható és működő
 Marketing cookie-k
 Ezeket a cookie-k segítenek abban, hogy az Ön érdeklődési körének megfelelő reklámokat és termékeket jelenítsük meg a webáruházban.
 ×
-Az Ön véleménye segít minket a fejlődésben - Töltse ki elégedettségi kérdőívünket!
-2026.06.01-től változnak kiszállítási feltételeink.
+Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚
+2026.11.16-tól változnak kiszállítási feltételeink.
 +36 1 415 2300
 Belépés
 Regisztráció
@@ -94,7 +94,7 @@ Kosárba
 Részletek
 Összes újdonság
 Hírek
-Az Ön véleménye segít minket a fejlődésben - Töltse ki elégedettségi kérdőívünket!
+Mondja el véleményét és ajándék ingyenes kiszállítás kupont adunk!
 2026. 10. 29.
 Az ügyfél-elégedettség kiemelten fontos számunkra, ezért folyamatosan azon dolgozunk, hogy szolgáltatásainkat az Ön igényeihez igazítsuk. Ennek egyik legfontosabb eszköze az ügyfeleinktől érkező visszajelzés.
 Részletek
@@ -149,7 +149,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-10955 m raktáron
+10935 m raktáron
 m
 Kosárba
 Részletek
@@ -180,7 +180,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 216 Ft + ÁFA
 (274 Ft)
-8285 m raktáron
+6760 m raktáron
 m
 Kosárba
 Részletek
@@ -190,7 +190,7 @@ Cikkszám: K1142050FÖLD
 Ár:
 175 Ft + ÁFA
 (222 Ft)
-1209 m raktáron
+709 m raktáron
 m
 Kosárba
 Részletek
@@ -198,9 +198,9 @@ UTP Cat6A falkábel kék 305m LSOH DK-1613-A-VH-305
 Villámnézet
 Cikkszám: K1120501C6ADIG
 Ár:
-217 Ft + ÁFA
-(276 Ft)
-17900 m raktáron
+225 Ft + ÁFA
+(286 Ft)
+15745 m raktáron
 m
 Kosárba
 Részletek
@@ -210,7 +210,7 @@ Cikkszám: TA-K661ADIG
 Ár:
 230 Ft + ÁFA
 (292 Ft)
-11290 m raktáron
+10070 m raktáron
 m
 Kosárba
 Részletek
@@ -230,7 +230,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1827 db raktáron
+1779 db raktáron
 db
 Kosárba
 Részletek
@@ -240,7 +240,7 @@ Cikkszám: K1142060FÖLD
 Ár:
 186 Ft + ÁFA
 (236 Ft)
-3173 m raktáron
+2673 m raktáron
 m
 Kosárba
 Részletek
@@ -263,7 +263,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-10955 m raktáron
+10935 m raktáron
 m
 Kosárba
 Részletek
@@ -273,7 +273,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1827 db raktáron
+1779 db raktáron
 db
 Kosárba
 Részletek
@@ -293,7 +293,7 @@ Cikkszám: PW-VI3000RTHID
 Ár:
 235.800 Ft + ÁFA
 (299.466 Ft)
-1 db raktáron
+Előrendelhető
 db
 Kosárba
 Részletek
@@ -373,4 +373,6 @@ Nyitva: hétköznap -
 sales@lan.hu | rendeles@lan.hu
 Külső raktár
 H-1151 Bp. Székely Elek út 11.
-Nyitva: hétközna
+Nyitva: hétköznap -
++36 1/415 2321 | sales@lan.hu
+Inf

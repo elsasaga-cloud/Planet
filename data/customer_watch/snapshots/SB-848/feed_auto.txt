@@ -1,4 +1,4 @@
-# SB-848 setilend.ru · feed_auto · https://setilend.ru/blog/rss/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-848 setilend.ru · feed_auto · https://setilend.ru/blog/rss/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Mon, 08 Apr 2019 16:20:54 +0000	Гарантия на коммутаторы TFortis – 5 лет	https://setilend.ru/blog/garantiya-na-kommutatory-tfortis--5-let/
 Tue, 30 Jan 2018 15:16:59 +0000	Новая модель взрывозащищенного коммутатора TFortis уже в продаже!	https://setilend.ru/blog/novaya-model-vzryvozashchishchennogo-kommutatora-tfortis-uzhe-v-prodazhe/
 Wed, 07 Jun 2017 15:26:00 +0000	Набор инструментов для работы с FTTH кабелем	https://setilend.ru/blog/nabor-instrumentov-dlya-raboty-s-ftth-kabelem/

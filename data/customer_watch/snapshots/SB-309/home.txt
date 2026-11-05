@@ -1,4 +1,4 @@
-# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Alternetivo | IT distributor | Switching/routing, monitoring, síťová bezpečnost, kabeláže, bezdrátové a optické sítě
 Jazyk / Language EN
 SK
@@ -102,15 +102,15 @@ Software
 Ostatní
 Výprodej
 Školení a semináře
-05.11.2026
-Průmyslový palác, Výstaviště Praha
-CheckPoint Advantage 2026
 10.11.2026
 Praha - ALT
 Zyxel - Technický webinář
 25.11.2026
 Hrotovice, okr. Třebíč
 SecDay 2026
+13.01.2027
+Praha - ALT
+Zyxel - Technické školení
 Další školení a semináře
 Aktuality
 02.11.2026
@@ -245,4 +245,4 @@ V čisté síťařině nenechává Zyxel nic náhodě a plně pokrývá potřeby
 SPE, neboli Single Pair Ethernet
 SPE, neboli Single Pair Ethernet, je nová technologie Ethernetu, která umožňuje přenos dat a případně napájení přes jediný pár kroucených vodičů na velkou vzdálenost. Jedná se o efektivní a nákladově úsporné řešení pro průmyslové aplikace, automatizaci budov a automobilový průmysl.
 Nové typy transceiverů pro 400Gb/s a vyšší rychlosti: kam se posouvá optika pro datacentra a DCI
-Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombinaci změn v elektrickém rozhraní (SerDes), modulaci, optické architektuře i mechanických formátech modulů. V praxi se dnes trh dělí na dvě hlavní větve: na klientskou optiku" (krátký dosah uvn
+Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombinaci změn v elektrickém rozhraní (SerDes), modulaci, optické architektuře i mechanických formátech modulů. V praxi se dnes trh dělí na dvě hlavní větve: na klientskou optiku" (krátký dosah uvnitř datacentra) a koher

@@ -1,7 +1,7 @@
-# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-05T09:39:48Z · HTTP 200
 Logicbus | Industrial Automation, Sensors, PLCs & Test Equipment
 Skip to content
-Choose store
+Tienda en español
 Home
 About us
 My account
@@ -230,6 +230,11 @@ ER14250-SM
 (0)
 $50.00
 Check availability in chat.
+7803ecS-DB9
+PCI Express to 8 RS-232 serial ports. Includes a 36 inch length cable with a micro DB68 male connector breaking out to eight DB9 male connectors (Item# CA231). PC Bracket standard size
+(0)
+Discontinued
+Check information in Chat.
 FSH04533
 TDF675, 24000 in-lb, Reaction Torque w/ Flange to Sq., RoHS Compliant, Material - 17-4 PH S.S., 1" Sq. Drive, 6 Pin Bendix Receptacle, PT02H-10-6P
 (0)
@@ -264,6 +269,16 @@ FSH04016
 QLA286 / 3000 lb / Tension & Compression In-line Load Cell / Material - 17-4 PH S.S. / 1/2-20-Thread / 26 Awg 4 Conductor Braided Shielded Teflon Cable / 10 ft Long/ exit out of the bottom
 (0)
 $1,798.00
+Check availability in chat.
+FSH04205
+LSB201, 250g, JR S-Beam Load Cell 2.0, Overload Protection, RoHS Compliant, Material - 17-4 PH S.S., M3x0.5-Thread, 29 Awg 4 Conductor Spiral Shielded Silicone Cable, 5 ft Long
+(0)
+Discontinued
+Check information in Chat.
+FSH04088
+LSB200 , 10 g , JR S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Overload Protection , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
+(0)
+$2,098.00
 Check availability in chat.
 100.200.00
 Controllino Mega Industrial PLC
@@ -305,21 +320,6 @@ LTH350 , 250 lb , Through Hole Donut Load Cell , RoHS Compliant, Material - 17-4
 (0)
 $1,098.00
 Check availability in chat.
-FSH04205
-LSB201, 250g, JR S-Beam Load Cell 2.0, Overload Protection, RoHS Compliant, Material - 17-4 PH S.S., M3x0.5-Thread, 29 Awg 4 Conductor Spiral Shielded Silicone Cable, 5 ft Long
-(0)
-Discontinued
-Check information in Chat.
-FSH04088
-LSB200 , 10 g , JR S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Overload Protection , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
-(0)
-$2,098.00
-Check availability in chat.
-FSH04000
-LCM300 , 250 lb , Tension & Compression Load Cell (Miniature/Inline Threaded) , RoHS Compliant , IP67 Rated, Material - 17-4 PH S.S. , M6x1-Thread , 4 Pin Micro Receptacle
-(0)
-$998.00
-Check availability in chat.
 Z111
 Z111 allows a conversion of a frequency signal and provides a mA/V standard output signal.
 (0)
@@ -351,4 +351,4 @@ Solid-State Relay Module/ Single/ DC Sense/ 3 to 32 VDC
 Discontinued
 Check information in Chat.
 PC301MT-0
-PyroCouple infra-red temperature sensor with 30:1 optics. 0~250°C temper
+PyroCouple infra-red temperature sensor with 30

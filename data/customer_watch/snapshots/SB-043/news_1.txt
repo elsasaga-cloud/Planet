@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-05T09:39:48Z · HTTP 200
 IT and Telecom Blog for Dubai and UAE Businesses | NETON
 Home
 About Us
@@ -10,7 +10,6 @@ Structured Cabling
 Telecommunications
 Wildix UC&C
 x-bees by Wildix
-Sangoma Systems
 Sangoma PBX
 Security Systems
 Cybersecurity
@@ -32,6 +31,7 @@ Security
 Odoo
 What this blog covers. Practical guides for IT managers, operations heads and business owners in Dubai and the UAE who are choosing, upgrading or securing their phone systems and IT. We explain business phone systems and SIP trunks, Wildix and x-bees, Microsoft Teams calling and session border controllers, cloud infrastructure, cybersecurity and backup, and Odoo ERP.
 Every article is written by the NETON Technologies LLC team in Dubai and focuses on what is different in the UAE: licensed carriers, TDRA and DNCR rules, data protection and local support. Browse by topic with the filters above, or start with our guides to business phone systems , SIP trunks and cybersecurity .
+Articles
 Telephony
 x-bees Partner in Dubai: What to Check Before You Buy
 An x-bees partner in Dubai sets up calls, WhatsApp, CRM logging and AI summaries. What to check on plans, Salesforce…
@@ -86,7 +86,6 @@ Call us at +971 4 439 5754
 Get in Touch
 Home
 Wildix
-Sangoma
 Blog
 Contact Us
 Privacy Policy

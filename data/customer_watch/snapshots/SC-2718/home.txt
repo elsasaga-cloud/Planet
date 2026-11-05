@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -373,6 +373,62 @@ Anterior
 Siguiente
 Mercasat distribuidor de productos de seguridad y telecomunicaciones
 Novedades
+DS-2CD1143G2-LIU(2.8mm)BLACK
+Cámara IP Domo 4Mpx Gama Value con luz híbrida 30m PoE Negra
+Cámara IP Domo 4Mpx Hikvision
+Gama Value | Lente 2.8 mm
+Luz híbrida alcance 30 m
+PoE (IEEE802.3af)
+Micrófono integrado
+Detección de movi. 2.0 | IP67, IK08
+Precio
+111,06 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+DS-2CD1143G2-LIU(2.8mm)
+Cámara IP Domo 4Mpx Gama Value con luz híbrida 30m PoE Blanca
+Cámara IP Domo 4Mpx Hikvision
+Gama Value | Lente 2.8 mm
+Luz híbrida alcance 30 m
+PoE (IEEE802.3af)
+Micrófono integrado
+Detección de movi. 2.0 | IP67, IK08
+Precio
+106,37 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+HD8TB-T-AI
+Disco duro Toshiba S300 AI 8TB SATA para videovigilancia
+Disco duro 8TB Toshiba
+Modelo S300 AI MG10ADA800E-V
+Interfaz SATA 6 Gb/s
+Diseñado para sistemas NVR con IA
+Suelto o instalado en DVR
+Soporta hasta 32 transmisiones de IA
+Precio
+762,30 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+70HACT1A51PU0280BS3DIP
+Cámara Turret 4N1 5Mpx para exterior
+Cámara Domo 4N1 5Mpx Dahua
+ICR, 0,02 lux color y 0,002 lux B/N
+IR inteligente 25 m
+Óptica fija 2,8 mm
+WDR digital y 2DNR | Smart IR
+OSD multilenguaje
+Precio
+32,91 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
 AK-E12S-2
 Placa de videoportero 2 hilos Akuvox 2Mpx NFC Bluetooth IP65
 Videoportero 2 hilos en superficie
@@ -425,62 +481,6 @@ Apto para modelo AK-X915S
 Fabricado en PC
 Precio
 8,47 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
--
-Módulo LTE 4G para videoportero Akuvox con conexión USB IP66
-Módulo periférico para videoportero
-Añade conexión LTE (4G)
-Compatible con AK-S535
-Conexión USB
-Apto para exterior IP66
-Necesario AK-BR-S535-x-MODULE
-Precio
-228,69 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-AK-S535-MODULE-BIM
-Módulo BIM con bucle magnético para videoportero Akuvox
-Módulo periférico para videoportero
-Añade BIM (bucle de inducción magne.)
-Compatible con AK-S535
-Conexión USB
-Apto para exterior IP66
-Necesario AK-BR-S535-x-MODULE
-Precio
-54,21 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-TK-TRB501
-Router industrial 5G SA/NSA de alta velocidad con Ethernet 2.5G
-Teltonika Router Industrial 5G
-Conectividad alta velocidad 5G SA/NSA
-Puerto Ethernet ultrarrápido 2.5 Gbps
-VPN avanzada
-Watchdog de hardware
-Protocolos Modbus/IIoT
-Precio
-629,96 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-QL-WR310
-Router industrial 5G Dual SIM Wi-Fi 6 Gigabit con GNSS
-Router 5G SA/NSA 3GPP Rel-16
-Resiliencia super. Dual SIM auto-switch
-WiFi 6 MU-MIMO dual band 2475 Mbps
-VPN segura y Firewall NAT
-4 puertos Gigabit (1 WAN, 3 LAN)
-Puertos industriales RS232 y RS485
-Precio
-691,15 €
 
 Añadir al carrito
 Nuevo

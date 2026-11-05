@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Omni Ray AG | Ihr Automationspartner | E-Shop | Top Preise
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -129,6 +129,9 @@ Bestellstatus im Blick und Favoriten speichern.
 Sparen Sie Zeit dank schnellerer Checkout.
 Jetzt anmelden
 Produkt-News
+TWS-3010-SPE: Single Pair Ethernet managed Switch von Moxa
+Mit dem TWS-3010-SPE Gerät präsentiert Moxa einen managed Ethernet-Switch, der Single Pair Ethernet (SPE) und Power over Data Line (PoDL) kombiniert. Damit ermöglicht das Gerät die gleichzeitige Übertragung von Daten und Strom über ein einziges verdrillte
+05.11.2026
 Moxa: Abkündigungen, Nachfolgeprodukte und aktuelle Lieferzeiten
 Aufgrund bestehender und künftiger Cybersecurity-Anforderungen überprüft und bereinigt Moxa kontinuierlich sein Produktportfolio. Zusätzlich führen Abkündigungen wichtiger Bauteile dazu, dass einzelne Produktfamilien nicht mehr weitergeführt werden.
 29.10.2026
@@ -144,9 +147,6 @@ FSG Schleifringe für mobile Maschinen: SR-GS190 für Leistung, Hochvolt und Dat
 Rohde SO-26 und SO-35: Robuste Kerngriffe aus Aluminium
 Rohde Kerngriffe SO-26 und SO-35 aus Aluminium mit hitzebeständiger Silikonbeschichtung bis 190 °C und mindestens 1'000 N Tragkraft.
 16.10.2026
-Willkommen bei der X3-Serie von Beijer Electronics
-Erleben Sie die Innovationen der X3-Serie, die entwickelt wurde, um Ihr Interaktionserlebnis zu verbessern. Mit einer Reihe von HMI-Lösungen für verschiedene Branchen gewährleistet die X3-Serie eine nahtlose Integration und zuverlässige Leistung.
-10.10.2026
 Previous slide
 Next slide
 Marken
@@ -489,5 +489,4 @@ Kostenoptimierte FR-CS-Serie
 Standardumrichter FR-D-Serie
 Kompaktumrichter FR-E-Serie
 Energiesparumrichter FR-F-Serie
-High-End - Umrichter FR-A-Serie
-Ve
+High-End - Umrich

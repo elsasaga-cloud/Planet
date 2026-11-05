@@ -1,4 +1,4 @@
-# SB-820 prismwifi.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7jsSmhXVbiaqsiXKdBrMfA · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-820 prismwifi.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7jsSmhXVbiaqsiXKdBrMfA · fetched 2026-11-05T09:39:48Z · HTTP 200
 2025-01-24T13:41:51+00:00	Prism by Browan: Powering IoT with Enterprise Wi-Fi	https://www.youtube.com/watch?v=kgl9XzoCAj4
 2024-08-06T07:24:18+00:00	PRISM_Wi-Fi 6 AX3000 Indoor Router_MI14	https://www.youtube.com/watch?v=zFGzpkhGP5E
 2024-08-06T07:10:34+00:00	PRISM_Wi-Fi 6 AX1800 In Wall AP_MI13	https://www.youtube.com/watch?v=1jgPyspjlDU

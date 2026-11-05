@@ -1,4 +1,5 @@
-# PA-002 Cartronic Memory S.A.（Cartronic Group） · feed_auto · https://cartronic.es/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# PA-002 Cartronic Memory S.A.（Cartronic Group） · feed_auto · https://cartronic.es/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+Thu, 05 Nov 2026 09:56:05 +0000	Relojería sincronizada para entornos críticos: cuando cada segundo cuenta para la continuidad operativa	https://cartronic.es/relojeria-sincronizada-entornos-criticos/
 Thu, 22 Oct 2026 09:39:38 +0000	Una avería en la cadena de frío puede costar millones. ¿Quién detecta el fallo a tiempo?	https://cartronic.es/monitorizacion-ambiental-iot-para-cadena-de-frio/
 Mon, 19 Oct 2026 13:33:41 +0000	Monitorización ambiental en CPD: seguridad, continuidad operativa y cumplimiento ISO 27001 y ENS	https://cartronic.es/monitorizacion-ambiental-en-cpd-iso-27001-y-ens/
 Wed, 07 Oct 2026 11:20:36 +0000	Monitorización energética inteligente: control del consumo eléctrico con Planet Networking SPM-D01	https://cartronic.es/monitorizacion-energetica-inteligente-control-del-consumo-electrico-con-planet-networking-spm-d01/
@@ -8,4 +9,3 @@ Thu, 10 Sep 2026 14:44:24 +0000	Cámaras térmicas con IA para entornos industri
 Tue, 08 Sep 2026 09:25:42 +0000	Comunicaciones críticas y switches industriales: redes preparadas para entornos exigentes	https://cartronic.es/comunicaciones-criticas-y-switches-industriales-redes/
 Thu, 03 Sep 2026 08:53:23 +0000	Seguridad unificada: integrar videovigilancia, control de accesos e inteligencia artificial	https://cartronic.es/seguridad-unificada-integrar-videovigilancia-control-de-accesos-e-inteligencia-artificial/
 Tue, 01 Sep 2026 09:19:49 +0000	¿Qué es un distribuidor tecnológico de valor añadido y qué aporta a un proyecto?	https://cartronic.es/que-es-un-distribuidor-tecnologico-de-valor-anadido-y-que-aporta-a-un-proyecto/
-Thu, 27 Aug 2026 08:55:41 +0000	Videovigilancia en aeropuertos: soluciones inteligentes para una seguridad integral	https://cartronic.es/videovigilancia-aeropuertos-soluciones-para-seguridad/

@@ -1,4 +1,4 @@
-# SB-461 EMOS · home · https://www.emos.cz/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-461 EMOS · home · https://www.emos.cz/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 EMOS - drobné elektro pro vás | Nakupujte výhodně | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -50,11 +50,11 @@ Koaxiální, datové a AV kabely
 Multimetry, zkoušečky, měřidla
 (47)
 Instalační materiál
-(359)
+(361)
 Elektronika pro domácí mazlíčky
 (9)
 Novinky
-(160)
+(162)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
@@ -107,13 +107,13 @@ Koaxiální, datové a AV kabely
 Multimetry, zkoušečky, měřidla
 (47)
 Instalační materiál
-(359)
+(361)
 Elektronika pro domácí mazlíčky
 (9)
 Osvětlení na pěstování rostlin
 (5)
 Novinky
-(160)
+(162)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
@@ -157,11 +157,11 @@ Koaxiální, datové a AV kabely
 Multimetry, zkoušečky, měřidla
 (47)
 Instalační materiál
-(359)
+(361)
 Elektronika pro domácí mazlíčky
 (9)
 Novinky
-(160)
+(162)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
@@ -171,14 +171,14 @@ Jaro / léto
 Zobrazit další kategorie
 Píšeme, radíme, inspirujeme a testujeme
 Inspirace
+Jak si doma vytvořit krásnou vánoční atmosféru
+Vánoční osvětlení dokáže proměnit celý interiér, ale snadno sklouzne ke kýči nebo světelnému chaosu. Ukážeme vám, jak propojit světelné řetězy s rodinnými ozdobami tak, aby výsledek působil přirozeně, čistě a vkusně
+Inspirace
 Podzimní šero je tady? Vraťte svým pokojovkám slunce
 Jakmile se dny zkrátí a sluníčka začne ubývat, naše domácí džungle to vycítí jako první. Listy ztrácí šťávu, bylinky na okně se smutně natahují za posledními paprsky a vy trnete, v jaké kondici nakonec letošní zimu přežijí. Přesně proto jsou tu naše LED pěstební lampy – spolehlivý životabudič pro chladné měsíce.
 Rady & návody
 PREMIUM CONNECT: Vytvořte si vánoční osvětlení podle svých představ
 Běžné vánoční osvětlení nádherně okrášlí váš dům, restauraci či provozovnu, často ale má své limity. Pokud plánujete výzdobu rozlehlejší zahrady, fasády nebo terasy, sáhněte po modulárním řešení EMOS PREMIUM CONNECT. Jednotlivé komponenty si snadno nakombinujete přesně svých požadavků a dispozic exteriéru nebo firemního prostoru.
-Inspirace
-EMOS GoSmart – chytrá domácnost pro každého
-Představte si chytrou domácnost jako stavebnici. Nemusíte hned měnit celou elektroinstalaci ani přesně vědět, jak má výsledný systém vypadat. Začnete jedním zařízením, vyzkoušíte si jeho možnosti a postupně přidáváte další. Právě v tom spočívá jedna z hlavních výhod systému EMOS GoSmart.
 Pokračovat na náš blog
 Aktuality
 EMOS byl oceněn

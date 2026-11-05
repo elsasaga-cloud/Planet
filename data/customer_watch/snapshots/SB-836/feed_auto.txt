@@ -1,4 +1,6 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-05T09:39:48Z · HTTP 200
+04.11.2026 12.40.58	Patch SM MPO/APC8(m)/(m), pol B, 12 m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mbm8m-12/patch-sm-mpo-apc8m-m-pol-b-12-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
+04.11.2026 12.36.59	Patch SM MPO/APC8 Hann-Hann, pol B xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mbm8m-xx/patch-sm-mpo-apc8-hann-hann-pol-b-xx-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
 04.11.2026 10.25.31	SFP Copper Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/sfp-1g-dac-3m-u/sfp-copper-twinax-cable-dac-passive-3-meter-fiberworks
 04.11.2026 10.17.49	Patch SM MPO/APC8 Hann-Hann, pol A xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mam8m-xx/patch-sm-mpo-apc8-hann-hann-pol-a-xx-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
 04.11.2026 10.04.05	Patch SM MPO/APC8(m)/(m), pol A, 12 m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mam8m-12/patch-sm-mpo-apc8m-m-pol-a-12-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
@@ -59,7 +61,4 @@
 23.10.2026 10.07.37	Snor SM DPX Armert LC/UPC-LC/UPC 1,5 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu1-dot-5/snor-sm-dpx-armert-lc-upc-lc-upc-1-5-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
 23.10.2026 10.07.37	Snor SM DPX Armert LC/UPC-LC/UPC 0,5 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu0-dot-5/snor-sm-dpx-armert-lc-upc-lc-upc-0-5-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
 23.10.2026 08.29.14	Snor SM DPX Forsterk SC/UPC-ST/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-sm9-d5y-scu-stu-25/snor-sm-dpx-forsterk-sc-upc-st-upc-25-m-9-os2-g-dot-657-dot-a1-3x5mm-gul
-21.10.2026 16.05.53	SFP, 1.25 Gbps GigE, DDM, 50km	https://www.fiberworks.no/fiberworks-as/sfp-l50d-c61-ci/sfp-1-dot-25-gbps-gige-ddm-50km-cwdm-1611-nm-19db-sm-mm-ciena
-21.10.2026 16.05.53	SFP, 1.25 Gbps GigE, DDM, 50km	https://www.fiberworks.no/fiberworks-as/sfp-l50d-c59-ci/sfp-1-dot-25-gbps-gige-ddm-50km-cwdm-1591-nm-19db-sm-mm-ciena
-21.10.2026 16.05.52	SFP, 1.25 Gbps GigE, DDM, 50km	https://www.fiberworks.no/fiberworks-as/sfp-l50d-c57-ci/sfp-1-dot-25-gbps-gige-ddm-50km-cwdm-1571-nm-19db-sm-mm-ciena
-21.10.2026 16.05.52	SFP, 1.25 Gbps GigE, DDM, 50km	htt
+21.10.2026 16.05.53	SFP, 1.25 Gbps GigE, DDM, 50km	https://www.fiberworks.no/fiberworks-as/sfp-l50d-c61-ci/sfp-1-dot-25-gbps-gige-ddm-50km-cwdm-1611-n

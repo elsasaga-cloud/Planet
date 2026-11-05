@@ -1,4 +1,4 @@
-# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Spacetronik.pl - Official Brand Store | Electronics & Technology.
 Ergoline Smartline
 Log in
@@ -12,10 +12,10 @@ de
 en
 cs
 sk
-Prices in zł (1 € = 4.3348zł)
+Prices in zł (1 € = 4.3134zł)
 €
-Kč (1 € = 24.3391Kč)
-$ (1 € = 1.1306$)
+Kč (1 € = 24.3145Kč)
+$ (1 € = 1.1374$)
 Country of collecting the order Austria
 Belgium
 Bułgaria
@@ -244,7 +244,7 @@ Cable covers and organizers
 Under-desk cabinets
 Recovery zone
 Acoustic and privacy booths
-Sale
+Promotions
 Shopping lists 0
 Back Shopping lists
 Shopping list number of products: 0
@@ -364,4 +364,4 @@ How to care for footwear in autumn and winter? A practical guide to care and sto
 2026-09-25
 How to Create a Warm Atmosphere at Home? Perfect Lighting for Autumn [RULES]
 2026-09-18
-Lamps at home for autumn: How to create a cozy atmospher
+Lamps at home for autumn: How to create a cozy atm

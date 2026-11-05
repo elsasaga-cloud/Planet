@@ -1,4 +1,4 @@
-# SB-1065 poznan.pl · sitemap · https://www.poznan.pl/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-1065 poznan.pl · sitemap · https://www.poznan.pl/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
 	https://www.poznan.pl
 	https://www.poznan.pl/kontakt/
 	https://www.poznan.pl/mim/forms/sm_zgloszenia.html

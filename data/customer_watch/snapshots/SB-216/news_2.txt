@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Ajax Multi-transmitter
 Trade Register
 Products
@@ -103,6 +103,29 @@ News
 Contact Us
 Support
 Webinars
+Intercom & Access Control
+Akuvox
+Indoor Monitors
+Accessories
+Access Control
+Brackets
+Door Stations
+Health Care
+2-Wire
+Armatura
+Accessories
+Biometrics
+Control Units
+Credentials
+Licenses
+Readers
+LTS Intercom
+2-Wire
+Brackets & Accessories
+IP
+Video Doorbell
+Access Control
+Universal / Lift Controllers
 Alarms & Home Automation
 Ajax Wireless
 Accessories
@@ -167,28 +190,6 @@ CCTV Kits
 NVRs
 EZVIZ
 Clearance Items
-Intercom & Access Control
-Akuvox
-Accessories
-Access Control
-Brackets
-Door Stations
-Health Care
-Indoor Monitors
-2-Wire
-Armatura
-Accessories
-Biometrics
-Control Units
-Credentials
-Licenses
-Readers
-LTS Intercom
-2-Wire
-Brackets & Accessories
-IP
-Video Doorbell
-Universal / Lift Controllers
 Kits & Bundles
 Ajax Alarm
 Ajax CCTV
@@ -306,6 +307,7 @@ LTS Intercom
 Brackets & Accessories
 IP
 Video Doorbell
+Access Control
 Universal / Lift Controllers
 Kits & Bundles
 Ajax Alarm
@@ -450,6 +452,4 @@ Mount the New Hardware
 Fix the Hub 2 and MultiTransmitter in place of, or alongside, the old panel.
 3
 Terminate Existing Wiring
-Land each zone's existing cable onto the MultiTransmitter's terminal block.
-4
-Add Wireless Accesso
+Land each zone's existing cable onto the MultiTransmitter's terminal

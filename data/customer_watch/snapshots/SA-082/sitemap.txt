@@ -1,4 +1,4 @@
-# SA-082 ISIMKO GmbH,Guhrower Straße · sitemap · https://www.isimko.de/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SA-082 ISIMKO GmbH,Guhrower Straße · sitemap · https://www.isimko.de/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
 2023-04-03T07:00:00+00:00	https://www.isimko.de/
 2023-04-03T07:00:00+00:00	https://www.isimko.de/uber-uns/
 2023-04-03T07:00:00+00:00	https://www.isimko.de/karriere/

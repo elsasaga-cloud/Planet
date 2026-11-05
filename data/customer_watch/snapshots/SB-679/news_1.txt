@@ -1,4 +1,4 @@
-# SB-679 saratota.com · news_1 · https://www.saratota.com/News · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-679 saratota.com · news_1 · https://www.saratota.com/News · fetched 2026-11-05T09:39:48Z · HTTP 200
 News
 Menu
 Your Cart
@@ -112,7 +112,7 @@ RSS Feed
 16 Jan
 admin_saratota
 860
-8168
+8169
 Planet POE-173S 802.3bt PoE++ Splitter 12v 19v 24v
 Quick and Easy Gigabit 802.3bt PoE++ Network Deployment
 The Planet POE-173S is a 10/100/1000Mbps 802.3bt Power over Ethernet splitter, which delivers the Ethernet digital data and PoE power from an..
@@ -120,14 +120,14 @@ Read More
 29 Jan
 admin_saratota
 152
-9891
+9892
 Launch of World's First-and-Only Dante Extender for Pro-AV Systems
 The Patton CopperLink™ CL1151E can revolutionise infrastructure requirements for Pro-AV systems that use Dante-enabled devices by extending Ethernet up to 3,300 feet (1,000 meters) over common copper ..
 Read More
 05 Dec
 admin_saratota
 0
-7953
+7956
 Planet POE-171A Series - 60/95 Watt 802.3bt PoE++ Injectors
 Multi-Gigabit 802.3bt 60w / 95w Power over Ethernet (PoE++) Injectors for Applications that require High Power and Data Delivery.
 Advanced Multi-Gigabit and 802.3bt PoE Network Solution
@@ -136,7 +136,7 @@ Read More
 12 Dec
 admin_saratota
 0
-8721
+8722
 Planet IVR-100 Establish Secure Connection with Hybrid VPN Features
 PLANET have launched the IVR-100 Industrial VPN Security Gateway, an all-in-one appliance.
 Powerful Industrial VPN Security Solution
@@ -144,7 +144,7 @@ Planet Technology Corp have launched the IVR-100 Industrial ..
 Read More
 10 Mar
 0
-1175
+1176
 New Planet UPOE-XG Series 10Gbps 802.3bt PoE++ Managed Injector Hubs now available
 Inject 10Gbps Speed and 95w Ultra Power into your NetworkAs the demand for high-bandwidth wireless standards and power-hungry IoT devices continues to accelerate, network administrators are facing a d..
 Read More

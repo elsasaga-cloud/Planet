@@ -1,4 +1,6 @@
-# SC-3130 tvc.mx · youtube · https://www.youtube.com/@tvcenlineamx · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-3130 tvc.mx · youtube · https://www.youtube.com/@tvcenlineamx · fetched 2026-11-05T09:39:48Z · HTTP 200
+2026-11-05T00:22:30+00:00	Configuración de Autoseguimiento y modo crucero desde App IMOU Life	https://www.youtube.com/watch?v=xBlY84dhSPI
+2026-11-05T00:22:25+00:00	Interfaz IMOU Life y opciones de pantalla	https://www.youtube.com/watch?v=GJlfy295WZk
 2026-11-03T17:03:19+00:00	Fortalecemos la seguridad de tu portal	https://www.youtube.com/shorts/7Hq0DgdX86g
 2026-11-03T15:07:09+00:00	Verificación de identidad en tu cuenta TVC: guía paso a paso	https://www.youtube.com/shorts/9rxHn3jXbtU
 2026-10-30T17:56:13+00:00	Webinar Técnico LE4050M + Video Hub	https://www.youtube.com/watch?v=T6joe9li-hA
@@ -10,7 +12,5 @@
 2026-10-22T22:27:59+00:00	ZKBio Zlink: Cómo Registrar y Administrar Empleados en Persona	https://www.youtube.com/watch?v=7RE8pwIfNZs
 2026-10-22T22:20:57+00:00	ZKBio Zlink: Cómo Crear Departamentos y Asignar Responsables	https://www.youtube.com/watch?v=FbYtX3USGhk
 2026-10-22T22:15:57+00:00	ZKBio Zlink: Cómo Crear Cargos y Etiquetas de Empleado	https://www.youtube.com/watch?v=QOkNj4snGQQ
-2026-10-21T16:03:15+00:00	ZKBio Zlink: Cómo Usar la Pantalla de Inicio y Navegar por la Plataforma	https://www.youtube.com/watch?v=BtF232FzJbk
-2026-10-21T15:47:54+00:00	ZKBio Zlink: Cómo Configurar el Centro Personal y Crear una Organización	https://www.youtube.com/watch?v=WUDLdHdEdiA
-2026-10-21T15:30:13+00:00	ZKBio Zlink: Cómo Crear una Cuenta y Realizar el Primer Inicio de Sesión	https://www.youtube.com/watch?v=nrnaO2ZSzuo
-2026-10-12T20:58:22+00:00	Cómo Configurar la Tarjeta MicroSD en Cámaras Imou con Imou Life	https://www.youtube.com/watch?v=ZDgcDO4EvZY
+2026-10-21T22:00:07+00:00	Cámaras IMOU Aurora: Visión Nocturna a Color, Ahorro de Almacenamiento AOR y Detección IA	https://www.youtube.com/watch?v=GIGDrz88GU0
+2026-10-21T21:51:58+00:00	Cómo Integrar Cámaras IMOU en DVR/NVR Dahua Paso a Paso (ONVIF y Analíticos de IA)	https://www.youtube.com/watch?v=EAjqsTHIgWw

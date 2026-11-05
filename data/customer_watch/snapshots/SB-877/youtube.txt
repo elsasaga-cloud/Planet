@@ -1,4 +1,6 @@
-# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-11-05T09:39:48Z · HTTP 200
+2026-11-05T06:20:31+00:00	Как ИИ агент может автоматизировать безопасность	https://www.youtube.com/shorts/Y7v0iDBlxg4
+2026-11-04T15:15:34+00:00	Клиенты платят за результат, а не за «вау эффект»	https://www.youtube.com/shorts/QOXwLH9z0Vc
 2026-11-04T06:15:34+00:00	Схема автоматизации контроля за мелкими предметами	https://www.youtube.com/shorts/G73Z2hMn5P4
 2026-11-03T15:30:13+00:00	Какие решения можно переложить на ИИ агента	https://www.youtube.com/shorts/q5IDu8t921k
 2026-11-03T06:00:06+00:00	Как предотвратить кражи мелких предметов	https://www.youtube.com/shorts/iHyuOGg_p4g
@@ -12,5 +14,3 @@
 2026-09-11T16:00:38+00:00	5 линеек сетевого оборудования в TRASSIR	https://www.youtube.com/shorts/HdHaaEueMhM
 2026-09-10T16:59:02+00:00	Коммутатор не просто коробка с портами shorts	https://www.youtube.com/shorts/nje0aiKMK0Y
 2026-09-10T16:14:20+00:00	ОБЪЕКТ РЕШАЕТ какой коммутатор нужен	https://www.youtube.com/watch?v=YNLbQ0xIMVk
-2026-08-23T14:00:03+00:00	Экономить на сопровождении будущей сети	https://www.youtube.com/shorts/vCFjF3MDjXg
-2026-08-22T10:00:14+00:00	Закрыть большие линии объекта обычной офисной схемой	https://www.youtube.com/shorts/wBwPHT2nsiY

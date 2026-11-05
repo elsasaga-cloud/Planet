@@ -1,4 +1,5 @@
-# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-05T09:39:48Z · HTTP 200
+2026-11-04T21:01:29+00:00	PK3000 Plus: Mais Eficiência, Menor Custo de Energia #shorts	https://www.youtube.com/shorts/ySn28FvqKyw
 2026-11-03T20:24:18+00:00	Conheça o Switch PK700-8T2S: 8 Portas Gigabit e Agregação de Link #shorts	https://www.youtube.com/shorts/mnTFzx4vOpI
 2026-10-30T14:49:26+00:00	Conheça os Switches SFP+ de 10 Gigabits e Seus Recursos L3 #shorts	https://www.youtube.com/shorts/xpY_a8A1E6I
 2026-10-29T20:49:23+00:00	Por que as Operadoras Escolhem L2 para Reduzir Custos? #shorts	https://www.youtube.com/shorts/XxRhN2Xv-WA
@@ -13,4 +14,3 @@
 2026-10-14T20:00:09+00:00	Conheça o Projeto de rede POL da Stella com a Parks Solutions	https://www.youtube.com/watch?v=5hTxkng8_og
 2026-10-09T19:30:26+00:00	GBIC: A Distância Mágica da Sua Rede Óptica Revelada! #shorts	https://www.youtube.com/shorts/mk5VMeJV9lY
 2026-10-09T15:57:38+00:00	Link Dedicado de 1 Giga: A Solução PK700 8T2S Revelada! #shorts	https://www.youtube.com/shorts/FzuK0TZjY1U
-2026-10-08T20:32:19+00:00	Solucione Limites de Internet: PK700 8T4X é a Chave! #shorts	https://www.youtube.com/shorts/vAWF0U-4AYQ

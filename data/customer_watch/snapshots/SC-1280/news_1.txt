@@ -1,4 +1,4 @@
-# SC-1280 plcsystems.ru · news_1 · https://plcsystems.ru/news/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-1280 plcsystems.ru · news_1 · https://plcsystems.ru/news/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Новости
 8 (800) 707-18-71
 Компания
@@ -114,6 +114,9 @@ Xinje VH6
 Аксессуары к VH6
 Xinje Аксессуары
 Сервоприводы
+Серводрайверы Xinje DS6 Высокопроизводительные
+DS6C (EtherCAT)
+DS6C (EtherCAT, функция STO)
 Серводрайверы Xinje DS5 Стандартные
 DS5P (Profinet)
 DS5P-FH (Profinet, повышенная защита)
@@ -125,20 +128,17 @@ DS5C2-FS (EtherCAT, функция STO)
 DS5K2 (Modbus, улучшенная производительность)
 DS5L2 (импульсные, улучшенная производительность)
 DS5N1 (CANopen)
+Серводрайверы Xinje DS1 Экономичные
+DS1L (импульсные)
 Серводрайверы Xinje DM6 Многоосевые
 DM6C (EtherCAT)
 Серводрайверы Xinje DF3 Низковольтные
 DF3E (CANopen)
 Серводрайверы Xinje DL6 Высокоточные
 Серводвигатели Xinje MS6
+Серводвигатели Xinje MS1
 Серводвигатели Xinje MF3
 Аксессуары Xinje
-Серводвигатели Xinje MS1
-Серводрайверы Xinje DS6 Высокопроизводительные
-DS6C (EtherCAT)
-DS6C (EtherCAT, функция STO)
-Серводрайверы Xinje DS1 Экономичные
-DS1L (импульсные)
 Роботы
 4-осевые роботы (SCARA) Xinje
 6-осевые роботы (настольные) Xinje
@@ -423,6 +423,10 @@ Xinje VH6
 Xinje Аксессуары
 Сервоприводы
 назад
+Серводрайверы Xinje DS6 Высокопроизводительные
+назад
+DS6C (EtherCAT)
+DS6C (EtherCAT, функция STO)
 Серводрайверы Xinje DS5 Стандартные
 назад
 DS5P (Profinet)
@@ -436,6 +440,9 @@ DS5C2-FS (EtherCAT, функция STO)
 DS5K2 (Modbus, улучшенная производительность)
 DS5L2 (импульсные, улучшенная производительность)
 DS5N1 (CANopen)
+Серводрайверы Xinje DS1 Экономичные
+назад
+DS1L (импульсные)
 Серводрайверы Xinje DM6 Многоосевые
 назад
 DM6C (EtherCAT)
@@ -444,16 +451,9 @@ DM6C (EtherCAT)
 DF3E (CANopen)
 Серводрайверы Xinje DL6 Высокоточные
 Серводвигатели Xinje MS6
+Серводвигатели Xinje MS1
 Серводвигатели Xinje MF3
 Аксессуары Xinje
-Серводвигатели Xinje MS1
-Серводрайверы Xinje DS6 Высокопроизводительные
-назад
-DS6C (EtherCAT)
-DS6C (EtherCAT, функция STO)
-Серводрайверы Xinje DS1 Экономичные
-назад
-DS1L (импульсные)
 Роботы
 назад
 4-осевые роботы (SCARA) Xinje

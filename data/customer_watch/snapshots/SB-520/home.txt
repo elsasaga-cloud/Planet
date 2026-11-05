@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,85 +75,85 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-Cudy M1300S Wi-Fi Mesh System, AC1200, 3 pack
-Dvoupásmový mesh systém Wi-Fi 5 AC1200 se třemi jednotkami, rychlostmi 300 + 866 Mb/s a roamingem. Každá jednotka má gigabitový LAN a LAN/WAN port. Režimy router/AP/klient a VPN včetně OpenVPN a WireGuard; vzdálená správa TR069.
-1 876 Kč bez DPH
-2 270 Kč s DPH
+MikroTik IAQM-THC2PV-G, CLAIRÉ monitor kvality vzduchu, šedý
+Šedý monitor kvality vnitřního vzduchu s měřením CO2, PM2,5, PM10, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
+1 736 Kč bez DPH
+2 101 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Cudy LT300 Bezdrátový 4G LTE router, N300
-Bezdrátový 4G/LTE router s mobilní rychlostí až 150/50 Mbps a 2.4 GHz Wi-Fi poskytuje spolehlivé připojení doma i na cestách. Díky 2x2 MIMO Wi-Fi dosahuje rychlosti až 300 Mbps, což zajišťuje plynulý provoz pro více zařízení. Router disponuje nano SIM slo
-740 Kč bez DPH
-895 Kč s DPH
+Cudy FS1016 Switch
+Robustní 16portový switch nabízí 16x 10/100 Mbps LAN portů pro stabilní připojení zařízení. Je vhodný pro desktop či 19" rackmount instalaci, což zajišťuje flexibilitu při umístění. Napájení je zajištěno ze sítě (230 V AC). Switch podporuje možnost separa
+569 Kč bez DPH
+688 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Victron Energy Cerbo GX MK3
+Centrální komunikační jednotka pro monitoring a řízení energetických systémů přes VRM. VE.Direct, VE.Bus, VE.Can, Ethernet, Wi-Fi a Bluetooth; podpora GX Touch 50/70, vstupů nádrží a teplot, dvou relé a automatizace Node-RED.
+5 772 Kč bez DPH
+6 984 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Ubiquiti USL-Motion-3, UniFi Protect senzor pohybu, 3-pac
+Sada tří bateriových PIR senzorů pohybu pro vnitřní prostory s komunikací SuperLink 865,1–869,5 MHz a dosahem až 2 km. Horizontální i vertikální PIR detekce, správa přes UniFi Protect a montáž lepením nebo šrouby.
+2 619 Kč bez DPH
+3 169 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
 MikroTik IAQM-THC2V-G, CLAIRÉ Lite monitor kvality vzduchu, šedý
 Šedý monitor kvality vnitřního vzduchu s měřením CO2, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
-1 502 Kč bez DPH
-1 817 Kč s DPH
+1 489 Kč bez DPH
+1 802 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-MikroTik GPOE-CON-mini, 2.5G PoE konvertor, 802.3af/at na 24V
-PoE konvertor se vstupem 802.3af/at a výstupem pasivního PoE 24 V až 12 W pro Ethernet do 2,5 Gb/s. Napájení na pinech 4,5 (+) a 7,8 (-). Rozměry 87 × 33 × 20 mm; venkovní použití s pouzdrem GPeR-IP67-Case.
-478 Kč bez DPH
-578 Kč s DPH
+MikroTik HS-55DLC80D, SFP optický modul, Single-Mode, 80km, 2.5G, 1550nm
+Průmyslový optický SFP modul pro single-mode vlákno přenáší data rychlostí 1 nebo 2,5 Gb/s až na 80 km při 1550 nm. Dvojici LC konektorů s broušením UPC doplňuje diagnostika DDM sledující optický výkon, napětí, teplotu a proud laseru.
+615 Kč bez DPH
+744 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Cudy FS1016 Switch
-Robustní 16portový switch nabízí 16x 10/100 Mbps LAN portů pro stabilní připojení zařízení. Je vhodný pro desktop či 19" rackmount instalaci, což zajišťuje flexibilitu při umístění. Napájení je zajištěno ze sítě (230 V AC). Switch podporuje možnost separa
-570 Kč bez DPH
-690 Kč s DPH
+Cudy LT400E Bezdrátový 4G LTE router, N300
+Bezdrátový 4G/LTE router s mobilní rychlostí až 150/50 Mbps a 2.4 GHz Wi-Fi je ideální pro stabilní připojení doma i v kanceláři. Díky 2x2 MIMO Wi-Fi dosahuje rychlosti až 300 Mbps, což zajišťuje plynulý provoz více zařízení najednou. Router má nano SIM s
+758 Kč bez DPH
+917 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-TP-Link Fusion G+, Omada gateway
-Moderní řešení pro firemní i náročné síťové prostředí spojuje funkce routeru a kontroleru do jediného zařízení, které umožňuje pohodlnou správu celé infrastruktury bez licenčních poplatků. Díky 5 portům 1G a 2.5G RJ45 poskytuje dostatek výkonu pro rychlé
-3 818 Kč bez DPH
-4 620 Kč s DPH
+EcoFlow Alternátorový nabíječ 600 W, 1ECOALTCHARG600-EU
+Alternátorový nabíječ pro 12/24V vozidla dobíjí přenosnou bateriovou stanici za jízdy výkonem až 600 W. Wi-Fi a Bluetooth doplňuje údržba autobaterie do 100 W a zpětné nabíjení, oba režimy s kabelem XT150 pořizovaným samostatně.
+5 179 Kč bez DPH
+6 267 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Cudy LT500E Bezdrátový 4G LTE router, AC1200
+Bezdrátový 4G/LTE router umožňuje mobilní připojení rychlostí až 150/50 Mbps a Dual Band Wi-Fi s rychlostí 300 + 866 Mbps na frekvencích 2.4 a 5 GHz díky technologii 2×2 MIMO. Čtyři LAN porty, z nichž jeden lze přepnout na WAN, poskytují flexibilitu připo
+753 Kč bez DPH
+911 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Solární panel Victron Energy 30Wp/12V Mono
-Monokrystalický solární panel 30 Wp pro menší 12V fotovoltaické systémy. Konstrukce s 36 články, eloxovaným hliníkovým rámem a tvrzeným sklem; bypass diody omezují pokles výkonu při zastínění. Rozměry 380 × 450 × 25 mm.
-638 Kč bez DPH
-772 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-SOLARFAM AST-H6 Sodium-Ion autobaterie 12V 45Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 278 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-3 900 Kč bez DPH
-4 719 Kč s DPH
+Cudy WR21000 Multi-Gigabit Tri-Band Wi-Fi 7 Mesh Router, BE21000
+Třípásmový mesh router Wi-Fi 7 BE21000 s rychlostmi až 688/8640/11 520 Mb/s. Port 10G SFP+ LAN/WAN, tři 2,5G LAN, 2,5G WAN a USB 3.0. Čtyřjádrový procesor 1,5 GHz a osm antén podporují až 100 připojených zařízení.
+5 364 Kč bez DPH
+6 490 Kč s DPH
 Novinka
 Porovnat
 Není skladem
-Přidat do košíku
-Teltonika Security SMK205, Bezdrátový detektor kouře
-Bateriový detektor kouře pro montáž na strop v interiéru komunikuje na frekvenci 868 MHz. Integrovanou sirénu doplňují vzdálená upozornění v mobilní aplikaci a propojení se systémem Teltonika Security Systems.
-1 186 Kč bez DPH
-1 435 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UniFi Switch USW-Ultra-60W
-Gigabitový PoE switch s 8 LAN porty, z toho 7 s PoE výstupem až 30 W na port. Přiložený 60W adaptér umožňuje celkový PoE výkon až 52 W. Správa přes UniFi Network, napájení přes 54V DC konektor nebo PoE vstup 802.3at/bt, montáž na stůl či zeď.
-3 273 Kč bez DPH
-3 960 Kč s DPH
-Novinka
-Porovnat
-skladem
 Přidat do košíku
 Přejít do poradny
 Aktuality

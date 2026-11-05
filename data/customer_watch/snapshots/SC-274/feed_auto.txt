@@ -1,4 +1,4 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-05T09:39:48Z · HTTP 200
 29.10.2026 11:00:41	Universal stolpebrakett for ADSS	https://www.alcadon.no/stolpebrakett/167573/universal-stolpebrakett-for-adss-stolpeoppheng
 29.10.2026 10:33:16	Strekkfisk M12, øye/øye, galvanisert stå	https://www.alcadon.no/tilbeh%c3%b8r/167572/strekkfisk-m12-%c3%b8ye-%c3%b8ye-galvanisert-st%c3%a5-stolpeoppheng
 28.10.2026 12:13:10	Påbygg til DCCS datasenter renhold	https://www.alcadon.no/alcadon/dccs-iso/p%c3%a5bygg-til-dccs-datasenter-renhold-datasenter-kurs-1-timer

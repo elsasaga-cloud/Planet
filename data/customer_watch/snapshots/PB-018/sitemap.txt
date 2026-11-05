@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
 	https://powerbizt.hu/termekek/2044
 	https://powerbizt.hu/termekek/2052f
 	https://powerbizt.hu/termekek/2052m
@@ -57,6 +57,7 @@
 	https://powerbizt.hu/termekek/planet-sgs-6310-24p4x
 	https://powerbizt.hu/termekek/planet-xgs-6350-12x8tr
 	https://powerbizt.hu/termekek/ptcsh6
+	https://powerbizt.hu/termekek/rack-pl-rw964
 	https://powerbizt.hu/termekek/s4210-8gt-110
 	https://powerbizt.hu/termekek/sg1008l-eur
 	https://powerbizt.hu/termekek/sky132
@@ -334,5 +335,3 @@
 	https://powerbizt.hu/termekek/apolo-98-f-100-db
 	https://powerbizt.hu/termekek/ap98fx
 	https://powerbizt.hu/termekek/apolo-98-fxsz-50-db
-	https://powerbizt.hu/termekek/98l-100-db
-	h

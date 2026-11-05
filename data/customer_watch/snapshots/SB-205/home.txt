@@ -1,4 +1,4 @@
-# SB-205 barox.de · home · https://www.barox.ch/en-us/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-205 barox.de · home · https://www.barox.ch/en-us/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Switches for Video | barox.ch
 Support
 Contact
@@ -68,6 +68,10 @@ With personal advice and practical training, you can make optimal use of barox s
 NEWS
 Always Well Informed
 Welcome to our news section! Here you will find current news from our industry, news from our range of services and interesting news about our company. This way you are always well informed.
+The company | 04.11.2026
+Due to our relocation, our operations will be partially restricted from December 4 to 7
+Our new headquarters marks an important milestone in barox's continued success. Please note that our availability is limited due to the relocation.
+LEARN MORE
 Products | 26.10.2026
 PHP Security Vulnerabilities: No Impact on barox Products
 After thorough examination, we can confirm that barox devices are not affected by the recently published PHP security vulnerabilities.
@@ -75,10 +79,6 @@ LEARN MORE
 Products | 21.10.2026
 Greater control and higher system availability thanks to the Geutebrück SNMP Switch Plugin for barox switches
 Geutebrück’s barox SNMP switch integration combines video management and network infrastructure into a coordinated workflow.
-LEARN MORE
-Products | 08.10.2026
-barox and Digital Watchdog Launch New Plugin Integration, bringing Network Intelligence to DW Spectrum
-barox and Digital Watchdog (DW) have announced the launch and availability of a new technology integration connecting DW Spectrum IPVMS with barox video network infrastructure.
 LEARN MORE
 All news
 SOLUTIONS

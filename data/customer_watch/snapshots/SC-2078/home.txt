@@ -1,4 +1,4 @@
-# SC-2078 zebeye.com · home · https://zebronics.com/collections/cctv · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-2078 zebeye.com · home · https://zebronics.com/collections/cctv · fetched 2026-11-05T09:39:48Z · HTTP 200
 CCTV & Surveillance
 Skip to content
 Menu
@@ -56,7 +56,6 @@ Webcameras
 Zero Client
 Mic
 Thermal Laminator
-Laptops
 View All
 Gaming
 Gaming Cabinets
@@ -120,9 +119,6 @@ Micro Load UPS
 Router UPS
 Online UPS
 View all
-Laptops
-Pro Series Z
-Pro Series Y
 Accessories
 Power Banks
 Computer Accessories
@@ -273,7 +269,6 @@ Webcameras
 Zero Client
 Mic
 Thermal Laminator
-Laptops
 View All
 Accessories
 Power Banks
@@ -397,9 +392,6 @@ Micro Load UPS
 Router UPS
 Online UPS
 View all
-Laptops
-Pro Series Z
-Pro Series Y
 Computer Accessories
 Add-on Cards
 CPU Fan

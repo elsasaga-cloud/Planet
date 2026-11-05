@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-05T09:39:48Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,16 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 58 içerik).
+Sektörden güncel haberler ve analizler ( 61 içerik).
+Ürün Lansmanı AMD'den 144GB Bellekli Yeni Nesil PCIe Hızlandırıcı
+AMD Instinct MI350P, 600W'lık tek PCIe kartta 144GB HBM3E bellek sunuyor. Dört yıl sonra gelen yeni nesil hızlandırıcı veri merkezlerini hedefliyor.
+05 Kasım 2026
+Yapay Zekâ OpenAI Matematikte Yapay Zekayla Sınır Aştı
+OpenAI, yeni paylaştığı araştırmayla yapay zekanın matematiksel ispat yeteneklerinde önemli bir ilerleme kaydettiğini duyurdu.
+05 Kasım 2026
+Güvenlik IBM ve Red Hat'ten 400 Java Açığına Yama
+IBM ve Red Hat'in desteklediği Lightwell projesi, 400'den fazla Java güvenlik açığını kapattı; Clearinghouse artık herkese açık.
+04 Kasım 2026
 Marka Duyurusu Intel, Kuantum Yazılımı Classiq'i Bünyesine Katıyor
 Intel, kuantum yazılım firması Classiq'i satın alarak silikon spin-kübit donanımıyla tam yığın kuantum bilgisayar iş koluna geçiyor.
 03 Kasım 2026
@@ -133,15 +142,6 @@ TP-Link'in Tapo C245D iç mekan güvenlik kamerası, çift lensli yapısı ve ak
 Sektör Haberi Meta Prometheus: 1 Milyon GPU'ya Doğru
 Meta, Ohio'daki Prometheus süper kümesini NVIDIA GB200 ve GB300 NVL72 ile 1 milyon GPU'ya ölçekliyor.
 20 Ekim 2026
-İnceleme DLSS 5 Yeni Modeli Test Edildi: Nvidia'ya Tepki
-Hardware Unboxed, Nvidia DLSS 5'in yeni modelini test etti. Render süreleri ve görüntü kalitesinde dikkat çeken farklar ortaya çıktı.
-20 Ekim 2026
-Marka Duyurusu Veeam iResOps Microsoft 365 İçin Kullanıma Sundu
-Veeam, Intelligent ResOps for Microsoft 365'i genel kullanıma sundu. AI ajanlarının yaptığı değişiklikler dosya bazında geri alınabiliyor.
-18 Ekim 2026
-İnceleme NVIDIA RTX Spark N1X'li Dizüstüler İncelendi
-HP ve Lenovo'nun RTX Spark N1X'li yeni dizüstüleri karşılaştırıldı: performans, bellek ve soğutma farkları netleşti.
-18 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal

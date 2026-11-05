@@ -1,2 +1,2 @@
-# SA-076 Telemobil · intel_news_tr · https://news.google.com/rss/search?q=%22TBI%20%E2%80%93%20Telemobil%20Bilgi%20%C4%B0leti%C5%9Fim%20Hizmetleri%22&hl=tr&gl=TR&ceid=TR:tr · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SA-076 Telemobil · intel_news_tr · https://news.google.com/rss/search?q=%22TBI%20%E2%80%93%20Telemobil%20Bilgi%20%C4%B0leti%C5%9Fim%20Hizmetleri%22&hl=tr&gl=TR&ceid=TR:tr · fetched 2026-11-05T09:39:48Z · HTTP 200
 

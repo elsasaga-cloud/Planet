@@ -1,4 +1,4 @@
-# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
 Blog Posts | RADWIN Website
 Skip to Content
 Home
@@ -87,7 +87,7 @@ Fixed Wireless Access
 PtMP
 QORA
 Wi-Fi 7
-Oct 29, 2026
+Oct 28, 2026
 Articles
 Cambium Networks Administration: FAQ for Partners & ISPs
 Who Bought Cambium Networks? Product Status for Partners and ISPs Last updated: October 21, 2026. We update this page as new public information becomes available. Cambium Networks went into administra...

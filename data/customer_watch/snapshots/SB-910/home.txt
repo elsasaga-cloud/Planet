@@ -1,4 +1,4 @@
-# SB-910 etictelecom.com · home · https://www.etictelecom.com/en/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-910 etictelecom.com · home · https://www.etictelecom.com/en/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Home | Etic Telecom
 About us
 Our range of products
@@ -91,6 +91,9 @@ Etic Telecom designs and markets safe, simple, robust and low consumption produc
 Since 1985, we have been active in the water, energy, transportation, urban infrastructure and industry 4.0 markets.
 Contact us
 Our news
+05.11.2026
+Remote maintenance for your machine: MFA for the M2Me solution
+Attuned to the needs of the industrial sector and its connectivity challenges, we are enhancing the capabilities of our machine-access gateways with a major upgrade: Multi-Factor Authentication (MFA) for our M2Me remote maintenance solution. 🔐 Enhanced security through Multi-Factor Authentication (MFA) In addition to a password, a one-time code is sent via email with every […]
 28.09.2026
 New M2Me Smartphone in 2026
 The new M2Me smartphone client offers a fresh user experience designed to be faster, simpler, and more secure. Key features: A new, clearer, and more intuitive design One-click login—no need to re-enter credentials Biometric protection via fingerprint or facial recognition Direct access to “Collect & Alert” features App available in French, English, and German Availability: […]
@@ -100,9 +103,6 @@ EticSIM: Simplified IoT Connectivity for Your Industrial Equipment. In the world
 02.06.2026
 EticCUBE solution: 4G antenna extension up to 100m
 Connecting industrial equipment from an area with poor coverage is a challenge. Many constraints must be addressed (antenna extensions, equipment power supply, on-site work). EticCUBE s a simple and robust turnkey solution for deporting connectivity as close as possible to the field up to 100m. Advantages of the solution: ✅ Waterproof and durable outdoor enclosure […]
-01.04.2026
-CSPN – ANSSI Evaluation
-Etic Telecom has completed its firmware upgrade to address vulnerabilities identified during the CSPN-ANSSI assessment. This rigorous evaluation process includes technical testing and document review. It guarantees the overall cybersecurity robustness highly valued by national institutions. This important step is part of our ongoing commitment to improving cybersecurity.
 More news
 Etic Telecom
 405 Rue Lavoisier

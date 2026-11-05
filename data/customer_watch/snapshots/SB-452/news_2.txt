@@ -1,4 +1,4 @@
-# SB-452 espuk.com · news_2 · https://espuk.com/news-page?type=news · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-452 espuk.com · news_2 · https://espuk.com/news-page?type=news · fetched 2026-11-05T09:39:48Z · HTTP 200
 ESP | Latest News
 Scolmore Group Sites
 Click
@@ -158,9 +158,9 @@ results
 Scolmore Group
 Ovia
 ESP
+Customer Service
 Operations - Warehouse
 Technical/Quality
-Customer Service
 External Sales
 Project Management Office
 Marketing & Design
@@ -171,10 +171,12 @@ Next
 Showing -
 1
 to
-11
+12
 of
-11
+12
 results
+Receptionist/Returns Coordinator
+Find out more
 Operations Manager
 Find out more
 Technical Support Engineer
@@ -203,9 +205,9 @@ Next
 Showing -
 1
 to
-11
+12
 of
-11
+12
 results
 Your trusted partner for innovative and advanced fire &
 security solutions, ensuring protection, peace of mind,

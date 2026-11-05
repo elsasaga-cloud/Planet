@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -23,7 +23,7 @@ HERRAMIENTAS
 OTROS ESTRUCTURADO
 Figura union para Canaleta 40x25, LANTEK LTK-40-25-SW
 $ 1 + IVA
-Figura Angulo 90 para Canaleta 40x20, LANTEK GS-40-20-90
+Terminal RJ45 plug CAT6A Blindado, LANTEK LTK-EZU6AT
 $ 1 + IVA
 REDES
 ACCESS POINT
@@ -44,18 +44,18 @@ ANALOGO
 ENERGIA
 IP
 OTROS CCTV
-Terminales DC plug macho Tornillos para FUENTE, LANTEK DC.M
+Terminales DC Hembra tornillos CAMARA, LANTEK DC.H
 $ 1 + IVA
-Macho RCA para VIDEO o AUDIO, EPCOM JRR-591
+Terminales DC plug macho Tornillos para FUENTE, LANTEK DC.M
 $ 1 + IVA
 SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Sirena double luz, tweeter 2 vias, LANTEK SIR.327R
-$ 67 + IVA
-Sensor de movimiento inal?mbrico para interiores de techo, HIKVISION DS-PDCL12-EG2-WB
-$ 26 + IVA
+Contacto magnetico Slim inalambrico AX PRO, HIKVISION DS-PDMCS-EG2-WB(O-STD)
+$ 17 + IVA
+Sirena para exteriores inalambrica ROJA AX PRO, HIKVISION DS-PS1-E-WB(O-STD)/Red
+$ 76 + IVA
 OTROS
 ENERGIA
 Search
@@ -130,9 +130,44 @@ Añadir al carrito
 Compare
 Quick view
 Add to wishlist
+CCTV , ANALOGO
+Cámara Bullet Híbrida, AUDIO, 2.8mm, 3K, Luz Bla...
+$ 30 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CCTV , IP
+Camara bullet IP 2MP 2.8mm ColorVu Smart Hybrid Li...
+$ 63 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CCTV , IP
+Cámara Bullet IP 8 MP AcuSense Lente Varifocal Mo...
+$ 234 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
 CCTV , IP
 Camara Bullet IP 8MP 1.65mm Panoramica 180° IR 20...
 $ 136 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CCTV , IP
+Camara Bullet IP 8MP 2.8mm Smart Hybrid Light IR/L...
+$ 95 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CCTV , IP
+Cámara Bullet IP AcuSense, 4MP, AUDIO, Varifocal ...
+$ 244 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -145,81 +180,25 @@ Compare
 Quick view
 Add to wishlist
 CCTV , IP
-Camara domo IP, WIFI, 2K 2.8mm, Para Interior, Mic...
-$ 36 + IVA
+Cámara Bullet IP Solar 4 MP Lente Fijo 2.8 mm 4G ...
+$ 98 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 CCTV , IP
-Camara IP Bullet 6 MP Smart Hybrid Light, HIKVISIO...
-$ 83 + IVA
+Cámara Domo IP 2 MP Lente Fijo 2.8 mm IP67 IK10 H...
+$ 51 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 CCTV , IP
-Camara IP Bullet 6MP Smart Hybrid Light, IR 50M, I...
-$ 148 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , IP
-Camara IP Bullet WIFI, 2MP 2.8mm, IP66, 30mIR/30mL...
-$ 34 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , IP
-Camara IP Bullet, ColorVu 4MP 2.8mm, 30mIR/30mLuz ...
-$ 94 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , IP
-Camara IP Turret 6 MP Smart Hybrid Light 30m, IP67...
-$ 81 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , IP
-Camara PTZ IP 4MP AcuSense Zoom Optico 4X IR 20m I...
-$ 167 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , IP
-Camara PTZ IP TandemVu 4MP + 4MP Zoom Optico 4X Co...
-$ 267 + IVA
+Cámara Domo IP, 6MP, AUDIO, Varifocal Motorizado ...
+$ 143 + IVA
 Añadir al carrito
 Productos populares en Accesorios
 Todos los productos
-Compare
-Quick view
-Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 3 mts Fibra Optica nacho a ...
-$ 29 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-SEGURIDAD , CONTROL DE ACCESO
-Video Audio Distributor 8ch 10/100, HIKVISION DS-K...
-$ 129 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CONTROL DE ACCESO
-Soporte LC para chapas doble h/dentro p/angosta, L...
-$ 24 + IVA
-Añadir al carrito
 Compare
 Quick view
 Add to wishlist
@@ -230,9 +209,30 @@ Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-CONTROL DE ACCESO
-Cobertor superior para puertas de vidrio 1 metro, ...
-$ 62 + IVA
+ACCESORIOS CCTV
+Conector RG6 rosca, VERTICAL 083-1041/S
+$ 1 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+SEGURIDAD , CONTROL DE ACCESO
+Kit Videoportero Analógico Pantalla LCD Color 7 I...
+$ 104 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+ESTRUCTURADO , FIBRA OPTICA
+Union adaptador Fibra Optica Monomodo SC Simplex u...
+$ 13 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+ESTRUCTURADO , GABINETES Y RACKS
+Soportes de montaje para Poste Gab.9U Exteriores K...
+$ 35 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -248,34 +248,20 @@ Camara Analoga Bullet 3K 2.8mm, Smart COLOR-VU 20m...
 $ 38 + IVA
 Camara Bullet Analoga ColorVu 2MP 2.8mm Luz Blanca...
 $ 30 + IVA
+Cámara Bullet Híbrida, AUDIO, 2.8mm, 3K, Luz Bla...
+$ 30 + IVA
+Camara bullet IP 2MP 2.8mm ColorVu Smart Hybrid Li...
+$ 63 + IVA
+Cámara Bullet IP 8 MP AcuSense Lente Varifocal Mo...
+$ 234 + IVA
 Camara Bullet IP 8MP 1.65mm Panoramica 180° IR 20...
 $ 136 + IVA
-Camara Bullet IP ColorVu 6MP 2.8mm Smart Hybrid Li...
-$ 104 + IVA
-Camara domo IP, WIFI, 2K 2.8mm, Para Interior, Mic...
-$ 36 + IVA
-Camara IP Bullet 6 MP Smart Hybrid Light, HIKVISIO...
-$ 83 + IVA
-Camara IP Bullet 6MP Smart Hybrid Light, IR 50M, I...
-$ 148 + IVA
-Camara IP Bullet WIFI, 2MP 2.8mm, IP66, 30mIR/30mL...
-$ 34 + IVA
+Camara Bullet IP 8MP 2.8mm Smart Hybrid Light IR/L...
+$ 95 + IVA
+Cámara Bullet IP AcuSense, 4MP, AUDIO, Varifocal ...
+$ 244 + IVA
 Productos populares en Redes
 Todos los productos
-Compare
-Quick view
-Add to wishlist
-REDES , SWITCHES
-Fuente Redundante 740w para RG-S2910C 24 y 48 puer...
-$ 638 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-REDES , SWITCHES
-Switch PoE 8FE + 2GE, 1 y 2 60W, 3-8 30W(802.3at) ...
-$ 49 + IVA
-Añadir al carrito
 Compare
 Quick view
 Add to wishlist
@@ -287,15 +273,29 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 16 GE PoE+ / 2GE + 2SFP uplink, 250W 4KV Vl...
-$ 225 + IVA
+Switch POE 8GE af/at/bt 90w +1GE +1SFP uplink 120W...
+$ 70 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Fuente Poder para RG-S6120-20XS4VS2QXS, RUIJIE RG-...
+$ 250 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 SWITCHES
-Switch Acceso L2 / 24 GE / 4 SFP+, REYEE RG-NBS320...
-$ 365 + IVA
+Switch Acceso L2 / 24 GE / 4 x SFP+ / PoE 370w, RE...
+$ 698 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Switch Industrial PoE administrable 10 GE / 1 PoE+...
+$ 170 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

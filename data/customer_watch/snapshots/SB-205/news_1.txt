@@ -1,4 +1,4 @@
-# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 News | barox.ch
 Support
 Contact
@@ -42,6 +42,10 @@ All
 Event
 Products
 The company
+The company | 04.11.2026
+Due to our relocation, our operations will be partially restricted from December 4 to 7
+Our new headquarters marks an important milestone in barox's continued success. Please note that our availability is limited due to the relocation.
+LEARN MORE
 Products | 26.10.2026
 PHP Security Vulnerabilities: No Impact on barox Products
 After thorough examination, we can confirm that barox devices are not affected by the recently published PHP security vulnerabilities.
@@ -219,7 +223,4 @@ Barox at the Powertage in Zurich
 The next Powertage will take place from June 4 - 6, 2024, at Messe Zürich. Together with our partner, VIVAVIS Schweiz AG, we will be exhibiting in Hall 6 at Stand J23.
 LEARN MORE
 Event | 29.01.2024
-Invitation to the KRITIS Days 2024 at Zurich Airport
-Commend AG and barox Kommunikation AG cordially invite you to the KRITIS Days 2024 at Zurich Airport. The KRITIS Days 2024 offer a unique platform for exchanging knowledge, ideas, and experiences on the security and resilience of our vital systems.
-LEARN MORE
-Th
+Invitation to the KRITIS Days 2024 at Zuric

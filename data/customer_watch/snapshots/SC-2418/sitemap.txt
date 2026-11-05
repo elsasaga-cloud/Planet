@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
-2026-11-04	https://www.streakwave.com/
-2026-11-04	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+2026-11-05	https://www.streakwave.com/
+2026-11-05	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
@@ -131,6 +131,7 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-04	https://www.streakwave.com/zvc-s80-c5u-zoom-rooms-system
 2026-11-03	https://www.streakwave.com/zvc-s90-c5u-zoom-rooms-system
 2026-11-03	https://www.streakwave.com/zvc-s98-c5u-zoom-rooms-system
 2026-11-03	https://www.streakwave.com/vcr11-remote-control
@@ -193,5 +194,4 @@
 2026-10-07	https://www.streakwave.com/500-zyxel-nebula-points-for-nss
 2026-10-07	https://www.streakwave.com/200-zyxel-nebula-points-for-nss
 2026-10-07	https://www.streakwave.com/20-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/100-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/1
+2026-10-07	https://www.streakwave.com/100

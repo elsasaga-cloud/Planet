@@ -1,4 +1,4 @@
-# SB-945 grep.sg · news_1 · https://www.grep.sg/news/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-945 grep.sg · news_1 · https://www.grep.sg/news/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 News | Grep Tech Singapore-developed technology for practical operations +65 6340 1030 · [email protected]
 AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol Behavior Analysis Face Detection
 Deploy and partner Incident Management Deployment Architecture Partner Program FAQ

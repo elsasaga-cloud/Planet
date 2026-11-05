@@ -1,4 +1,5 @@
-# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+Thu, 05 Nov 2026 07:12:46 +0000	ONE WEEK TO GO!! Mini Security Show at HQ	https://securitywarehouse.co.za/blog/one-weeks-to-go-mini-security-show-at-hq/
 Wed, 28 Oct 2026 10:39:44 +0000	TWO WEEKS TO GO!! Mini Security Show at HQ	https://securitywarehouse.co.za/blog/two-weeks-to-go-mini-security-show-at-hq/
 Wed, 21 Oct 2026 07:58:48 +0000	Don’t Miss Our LAST Mini Security Show of 2026!	https://securitywarehouse.co.za/blog/dont-miss-our-last-mini-security-show-of-2026/
 Wed, 07 Oct 2026 06:14:34 +0000	Your Security Partner, Every Step of the Way	https://securitywarehouse.co.za/blog/unlock-the-world-of-extraordinary-services-8/
@@ -8,4 +9,3 @@ Wed, 16 Sep 2026 07:00:00 +0000	You’re Invited to the SCW & Nemtek Client Day	
 Wed, 09 Sep 2026 06:49:51 +0000	The SkyHawk Partner App Has Arrived!!	https://securitywarehouse.co.za/blog/the-skyhawk-partner-app-has-arrived/
 Wed, 02 Sep 2026 13:25:36 +0000	We’ve Got You Covered! Complete Solution Design, Setup & Training!	https://securitywarehouse.co.za/blog/weve-got-you-covered-complete-solution-design-setup-training-2/
 Wed, 26 Aug 2026 07:10:17 +0000	FREE Gemini Automation Systems Training TOMORROW!	https://securitywarehouse.co.za/blog/free-gemini-automation-systems-training-tomorrow/
-Wed, 19 Aug 2026 07:24:29 +0000	TOMORROW is the Centurion Client Day	https://securitywarehouse.co.za/blog/tomorrow-is-the-centurion-client-day/

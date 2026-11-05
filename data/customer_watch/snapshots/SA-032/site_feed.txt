@@ -1,4 +1,4 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Tue, 03 Nov 2026 05:57:59 +0000	SMART SHIP DIGITALIZATION – POWERED BY STS INDUSTRIAL MINI-IPC	https://sundartechno.com/2026/11/03/marine-on-board-data-gateway/
 Mon, 02 Nov 2026 09:20:47 +0000	EMBEDDED COMPUTING FOR ULTRASOUND SYSTEMS	https://sundartechno.com/2026/11/02/embedded-computing-ultrasound-systems-medical-sbc/
 Mon, 02 Nov 2026 06:22:01 +0000	COMMERCIAL AIRCRAFT MRO Rugged Laptop + USB-to-ARINC 429 Interface	https://sundartechno.com/2026/11/02/commercial-aircraft-mro-avionics-testing/

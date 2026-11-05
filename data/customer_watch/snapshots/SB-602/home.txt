@@ -1,4 +1,4 @@
-# SB-602 ANIL · home · https://aniltelekom.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-602 ANIL · home · https://aniltelekom.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Anıl Telekom
 Yükleniyor
 İletişim
@@ -339,7 +339,7 @@ E-posta Adresi
 Cep Telefon Numarası (Doğrulama SMS'i gönderilecek)
 Adres
 Katılımcı Sayısı
-Lütfen MATKAP simgesini işaretleyiniz
+Lütfen BALIK simgesini işaretleyiniz
 IDS - İnsan Doğrulama Sistemi
 Talep Gönder
 SMS Doğrulama

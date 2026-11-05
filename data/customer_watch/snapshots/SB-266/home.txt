@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,45 +41,47 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Ubiquiti UniFi patch kabel, 0,2m, Cat5e, černý, 24 pack
-1 063 Kč bez DPH
-1 286 Kč s DPH
-MEAN WELL DDR-15G-5 Step-down měnič napětí DC/DC, 15W
-464 Kč bez DPH
-561 Kč s DPH
-Triton plastový boční pant pro dvoudílné nástěnné rozvaděče
-48 Kč bez DPH
-58 Kč s DPH
-Anténní držák na zeď k oknu "L" - pravý, délka 25cm, výška 12cm, průměr 32mm
-140 Kč bez DPH
-169 Kč s DPH
-Hikvision AX PRO Kabelový PIR a MW detektor vnitřní, 12m
-Cudy P2 ODU 5G NR SA/NSA Outdoor Unit
-7 082 Kč bez DPH
-8 569 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, modrý, 50 pack
-2 312 Kč bez DPH
-2 798 Kč s DPH
+Hikvision IP turret hybrid kamera DS-2CD2343G2-LI2U(4mm), 4Mpx, 4mm, AcuSense
+Triton 19" stojanový rack 15U/600x1000 prosklené dveře, šedý
+8 960 Kč bez DPH
+10 842 Kč s DPH
 MEAN WELL LRS-150-12 Průmyslový zdroj, 150W, 12V
 415 Kč bez DPH
 502 Kč s DPH
-Teltonika Security GSV1pgE, Univerzální komunikační rozhraní pro EZS s 4G Cat 1 a eSIM + 10let eSIM
-3 304 Kč bez DPH
-3 998 Kč s DPH
-TP-Link Tapo C550WS Venkovní otočná IP kamera s Wi-Fi, 8Mpx, 4mm
-1 718 Kč bez DPH
-2 079 Kč s DPH
-Hikvision AX PRO Bezdrátový magnetický detektor
-Conexpro 10G SFP+ optický modul, WDM/BiDi, SM, Tx1330/Rx1270nm, 40km, 1x LC, DDM
-464 Kč bez DPH
-561 Kč s DPH
-Školení na montáže a nastavení měničů Deye, Plzeň, 25.11. a 26.11.2026
-8 000 Kč bez DPH
-9 680 Kč s DPH
-Hikvision IP bullet kamera DS-2CD1047G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
-Teltonika Security WLANP, Komunikační rozhraní s Wi-Fi4 a LAN pro P64
-1 388 Kč bez DPH
-1 679 Kč s DPH
+MEAN WELL XDR-120E-48 Průmyslový zdroj na DIN lištu, 120W, 48V
+597 Kč bez DPH
+722 Kč s DPH
+SanDisk Extreme PRO Micro SDXC 256GB + SD adaptér
+1 912 Kč bez DPH
+2 314 Kč s DPH
+Conexpro Gigabitový PoE injektor na DIN lištu, vstup 12-48V DC, 802.3af/at/bt, 60W
+1 600 Kč bez DPH
+1 936 Kč s DPH
+Ubiquiti UACC-Adapter-PoE-24-12W, Gigabitový PoE Injektor, 24V/0.5A (12W), 5 pack
+831 Kč bez DPH
+1 006 Kč s DPH
+Triton výsuvná police pro klávesnici, 19", výška 60 mm, nosnost 30kg, šedá
+1 689 Kč bez DPH
+2 044 Kč s DPH
+Hikvision IP turret hybrid kamera DS-2CD2383G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+DEYE měnič 4 kW, 3 fázový, G06
+9 473 Kč bez DPH
+11 463 Kč s DPH
+Conexpro napájecí kabel 230V AC s oholeným koncem, 3x1 mm2, 3m
+78 Kč bez DPH
+94 Kč s DPH
+Teltonika RUTC54 Průmyslový 5G Wi-Fi 6 Router, GPS, eSIM
+17 351 Kč bez DPH
+20 995 Kč s DPH
+Triton 19" stojanový rack 47U/800x900 prosklené dveře, šedý
+16 880 Kč bez DPH
+20 425 Kč s DPH
+Triton 19" stojanový rack 37U/600x800 prosklené dveře, šedý
+12 010 Kč bez DPH
+14 532 Kč s DPH
+MEAN WELL LRS-100-5 Průmyslový zdroj, 90W, 5V
+375 Kč bez DPH
+454 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

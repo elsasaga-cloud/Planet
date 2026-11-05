@@ -1,4 +1,4 @@
-# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Cables N More
 Create Account
 Log in
@@ -341,21 +341,21 @@ $35.57
 Conscious about cost or constrained by space? This 25U 2-Post Open Frame Rack is an ideal solution for most IT environments.
 $252.78
 Bestsellers
+M6 Cage Nuts and Mounting Screws for Racks - 25 pack
+M6 Cage Nuts and Screws from Networx® allow for easy conversion of square mounting holes found in some racks and cabinets into round holes for standard screws.
+$6.80
 6u Vertical Wall Mount Bracket - Black
 Our 6u Vertical Wall Mount Bracket - Black are a convenient way to accomplish your rack mounting needs while you save space without bulky full sized racks. Designed for all 19 inch patch panel equipment.
 $57.09
+12 Inch Black Cinch Strap - 5 Pack
+Secure™ Hook and Loop Cinch Straps are the best choice when needing to secure large bundles due to their simplicity, strength and versatility.
+$5.62
 Gigabit Fiber Media Converter - UTP to 1000Base-LX - LC Singlemode, 20km, 1310nm
 This Fiber Transceiver / Media Converter is designed to convert data signal between 10/100/1000Base-T and 1000Base-LX Gigabit Ethernet. Maximum transmission distance 20 kilometers over duplex singlemode fiber (9/125 micron) @ 1310nm. Duplex LC Connector.
 $74.84
 SFP Ethernet Fiber Module - 100Base-SX, LC Multimode, 2km, 1310nm
 Get the most out of your network equipment with these Cisco Equivalent SFP Fiber Modules from Networx®.
 $21.89
-16 Port Fully Loaded 75 Ohm BNC Coaxial Patch Panel - 1U
-The Networx™ 16 Port Fully Loaded 75 Ohm BNC Coaxial Patch Panel is a great solution when setting up any type of coaxial distribution network.
-$45.51
-30 m Multimode Duplex Fiber Optic Patch Cable (62.5/125) - LC to LC
-This Multimode Duplex Fiber Optic Patch Cable (62.5/125) - LC to LC is built with genuine Corning Glass, has ceramic ferrules and a 62.5/125 micron core, this cable is suitable for high speed data transmissions such that you would find in Ethernet (10 Mb/s) to Gigabit Ethernet (1 Gb/s) networks.
-$34.53
 Information
 Sitemap
 Conditions of use

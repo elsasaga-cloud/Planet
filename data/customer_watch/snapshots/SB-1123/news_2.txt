@@ -1,4 +1,4 @@
-# SB-1123 connectec.uk · news_2 · https://connectec.uk/blog/news · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-1123 connectec.uk · news_2 · https://connectec.uk/blog/news · fetched 2026-11-05T09:39:48Z · HTTP 200
 latest news from connectec
 GBP
 EUR Euro
@@ -67,7 +67,7 @@ NEWS
 Exciting News! Connectec is Moving to a Bigger Home
 16/07/2026
 Neil Levett
-1476
+1478
 News
 We are moving to larger premises and will be closed between 20th and 24th July
 Read More
@@ -75,13 +75,13 @@ HiTools Delivery from Hikvision - The SADP / Batch Config Replacement
 The all-in-one software solution for configuring and maintaining HiLook and Hikvision hardware platforms.
 28/02/2024
 Callum Bustacchini
-21811
+21832
 News
 Read More
 Connectec were nominated for the Wales Fast Growth 50
 02/08/2025
 Neil Levett
-2093
+2096
 News
 We are delighted to announce that we were nominated for the 2022 Wales Fast Growth 50 Awards
 Read More
@@ -89,7 +89,7 @@ Riello launches UPS Selector
 Finding the perfect UPS is just a click away
 14/01/2018
 Nathan Owen
-5026
+5028
 News
 New UPS selector tool from Riello makes selecting the right UPS easy
 Read More

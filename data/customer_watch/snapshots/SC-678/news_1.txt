@@ -1,4 +1,4 @@
-# SC-678 QVIS · news_1 · https://qvis.co.uk/case-studies · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-678 QVIS · news_1 · https://qvis.co.uk/case-studies · fetched 2026-11-05T09:39:48Z · HTTP 200
 Case Studies |
 { scrolled = window.scrollY > 100 })"
 :class="scrolled ? 'bg-brand-light-blue shadow-md' : 'bg-transparent shadow-0'">

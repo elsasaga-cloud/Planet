@@ -1,18 +1,18 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -31,15 +31,15 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -109,9 +109,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-Crimping Tools
 RJ45 Connectors
 RJ45 Boots
+Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -242,7 +242,7 @@ Shop All DTECH Products
 Fanvil Wired IP Phones 6 products
 Fanvil Wireless IP Phones 3 products
 Fanvil Intercoms & Doorbells 1 products
-Fanvil Accessories 1 products
+Fanvil Accessories 0 products
 Shop All Fanvil Products
 GOLF iPhone Cables 3 products
 GOLF Micro USB Cables 1 products
@@ -303,9 +303,9 @@ Ubiquiti UISP Fibre 11 products
 Ubiquiti PoE injectors 6 products
 Ubiquiti Accessories 1 products
 Shop All Ubiquiti Products
+Miscellaneous Tools 2 products
 Screwdrivers & Tool Sets 7 products
 Ratchet Sets 3 products
-Miscellaneous Tools 2 products
 Shop All UF-Tools Products
 UltraLAN Antennas 5 products
 UltraLAN Brackets 9 products
@@ -395,9 +395,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-Crimping Tools
 RJ45 Connectors
 RJ45 Boots
+Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All

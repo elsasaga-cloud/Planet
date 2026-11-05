@@ -1,4 +1,4 @@
-# SB-413 LTE ELEKTRONIK · sitemap · https://www.ebcoelectronic.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-413 LTE ELEKTRONIK · sitemap · https://www.ebcoelectronic.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
 	https://www.ebcoelectronic.com/en/home
 	https://www.ebcoelectronic.com/en/line-card
 	https://www.ebcoelectronic.com/en/our-team
@@ -69,16 +69,14 @@
 	https://www.ebcoelectronic.com/en/routers-gateways/waveshare
 	https://www.ebcoelectronic.com/en/our-team/ersen-bilgic
 	https://www.ebcoelectronic.com/en/contracts/protection-of-personal-data
-	https://www.ebcoelectronic.com/en/our-team/mr-mj-lin-
 	https://www.ebcoelectronic.com/en/features/cellular-rf-modules
+	https://www.ebcoelectronic.com/en/our-team/deniz-ulkataner
 	https://www.ebcoelectronic.com/en/slider/wireless-communication
 	https://www.ebcoelectronic.com/en/contracts/use-of-cookies
 	https://www.ebcoelectronic.com/en/features/active-passive-components
 	https://www.ebcoelectronic.com/en/contracts/environmental-policy
 	https://www.ebcoelectronic.com/en/features/connectivity-switches
 	https://www.ebcoelectronic.com/en/features/embedded-systems-ics
-	https://www.ebcoelectronic.com/en/our-team/deniz-ulkataner
 	https://www.ebcoelectronic.com/en/slider/wireless-communication
 	https://www.ebcoelectronic.com/en/contracts/quality-policy
-	https://www.ebcoelectronic.com/en/our-team/enes-soylu
 	https://www.ebcoelectronic.com/en/contracts/ohs-policy

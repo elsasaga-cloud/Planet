@@ -1,4 +1,4 @@
-# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Home - Southern Elements
 Search
 All Categories
@@ -142,23 +142,8 @@ Hot
 Add to basket
 Quick View
 Splicing , Strippers, Slitters & Prep Tools , Tools
-Fiber Optic Pick 2.4mm
-R 50.31 inc VAT
-Buy now
-Hot
-Add to basket
-Quick View
-Dead Ends , Mounting Hardware
-Dead End 3.8mm to 4.8mm
-R 23.62 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Label Cartridges , Labelling , Tools
-Label Cartridge – Brady
-R 359.38 – R 828.00 Price range: R359.38 through R828.00 inc VAT
+Utility Knife
+R 231.30 inc VAT
 Buy now
 Hot
 Select options
@@ -169,28 +154,12 @@ VFL Visual Fault Locator (Rechargable)
 R 492.13 – R 653.43 Price range: R492.13 through R653.43 inc VAT
 Buy now
 Hot
-Add to basket
+Out of stock
+Read more
 Quick View
-Floating / Blowing Fiber , Floating Consumables , Tools
-Fiber Optic Caution Tape
-R 417.91 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Fault Detection , Tools , Visual Fault Locators
-VFL Visual Fault Locator
-R 193.83 – R 7,701.55 Price range: R193.83 through R7,701.55 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Label Accessories , Labelling , Tools
-Laminate Carrier & Tag 128×15
-R 104.09 – R 2,167.81 Price range: R104.09 through R2,167.81 inc VAT
-Buy now
+Enclosures , Enclosures , Indoor Termination
+Fiber Indoor Termination Box – Dual Port
+R 6.35 inc VAT
 Hot
 Add to basket
 Quick View
@@ -201,38 +170,86 @@ Buy now
 Hot
 Add to basket
 Quick View
-Cleaning , Fault Detection , Splicing , Toolkits , Tools , Tools / Toolkits
-Fiber Optic Splice Toolkit – Ultra
-R 12,388.28 inc VAT
+Fiber Patch Cables , Pigtails , Single Mode Pigtails
+Fiber Pigtail – SC APC Single Mode – 0.9mm 1.5m G657.A1
+R 9.50 inc VAT
+Buy now
+Hot
+Out of stock
+Read more
+Quick View
+Enclosures , Enclosures , Wall Mount
+Enclosure – Wall Mount 24 Core
+R 254.92 inc VAT
+Hot
+Add to basket
+Quick View
+Splicing , Strippers, Slitters & Prep Tools , Tools
+Fiber Optic Pick 2.4mm
+R 50.31 inc VAT
 Buy now
 Hot
 Select options
 This product has multiple variants. The options may be chosen on the product page
 Quick View
-Enclosures , Enclosures , Indoor Termination
-Fiber Indoor Termination Box – 8 Port
-R 69.56 – R 76.89 Price range: R69.56 through R76.89 inc VAT
+Duplex , Fiber Patch Cables , Single Mode Patch Cables , UPC Single Mode Patch Cable
+Fiber Patch Cable – Single Mode – LC/UPC to LC/UPC – Duplex
+R 51.76 – R 103.43 Price range: R51.76 through R103.43 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Splicing , Splicing Machines , Tools
-Fiber Fusion Splicer – Signal Fire – AI-9 Power Meter VFL
-R 21,082.96 inc VAT
+Fiber Adapters , Midcoupler Adapters
+Fiber Midcoupler Adapter – SC to SC Single Mode APC Duplex
+R 12.86 inc VAT
+Buy now
+Hot
+Select options
+This product has multiple variants. The options may be chosen on the product page
+Quick View
+Enclosures , Enclosures , Joint Enclosures
+Fiber Joint Enclosure – 24 Core
+R 203.45 – R 281.83 Price range: R203.45 through R281.83 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Splicing , Strippers, Slitters & Prep Tools , Tools
-Utility Knife
-R 231.30 inc VAT
+Fault Detection , OTDRs , Tools
+OTDR – FT-MOT-8500 1310/1550nm – VFL, Power Meter, Light Source, Ethernet Tester, Multi Meter
+R 16,646.38 inc VAT
+Buy now
+Hot
+Select options
+This product has multiple variants. The options may be chosen on the product page
+Quick View
+1G , 1G , Multi Mode , SFP Transceivers , Single Mode
+SFP Module – 1310nm 1Gbps – LC – Single Mode & Multi Mode Compatible
+R 139.04 – R 321.84 Price range: R139.04 through R321.84 inc VAT
 Buy now
 Bargain Bin
+Add to basket
+Quick View
+Bargain Bin
+Fiber Cable – CST – Multi Mode OM3 – 8 Core – 27m
+R 57.50 inc VAT
+Buy now
+Add to basket
+Quick View
+Bargain Bin
+Fiber Cable – CST – Multi Mode OM2- 12 Core – 138m
+R 517.50 inc VAT
+Buy now
 Add to basket
 Quick View
 Bargain Bin
 Fiber Optic Patch Cable – Multi Mode OM4 – 12 Core – Type B – MPO(Male) to MPO (Male) – 1m
 R 230.00 inc VAT
+Buy now
+Add to basket
+Quick View
+Bargain Bin
+Fiber Cable – HDD – Single Mode – 12 Core – 100m
+R 460.00 inc VAT
 Buy now
 Add to basket
 Quick View
@@ -321,6 +338,12 @@ Buy now
 Add to basket
 Quick View
 Bargain Bin
+Fiber Cable – CST – Single Mode – 12 Core – 152m
+R 575.00 inc VAT
+Buy now
+Add to basket
+Quick View
+Bargain Bin
 Fiber Patch Cable – Single Mode – LC/UPC – FC/UPC – Duplex – 3m
 R 9.20 inc VAT
 Buy now
@@ -373,6 +396,13 @@ Switch – 4x 10/100Base-T RJ45 to 2x 100Base-X SC Simplex Fibre Ports
 R 115.00 inc VAT
 Buy now
 Recently Viewed
+Select options
+This product has multiple variants. The options may be chosen on the product page
+Quick View
+Floating / Blowing Fiber , Floating Consumables , Tools
+Fiber Microduct Cable Floating Liquid – Jetting Fluid
+R 192.56 – R 4,959.38 Price range: R192.56 through R4,959.38 inc VAT
+Buy now
 ADDRESS
 Johannesburg
 Unit 5 - Wynberg Works,

@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-04T09:30:29Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-05T09:39:48Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -207,6 +207,7 @@ Honeywell Security
 Inim
 Inim Certified
 Orisec
+Paradox
 RISCO
 Detection
 acre
@@ -258,7 +259,6 @@ Ajax
 Ajax Certified
 Alarmtech
 Aritech
-BANDIT
 Bosch Intrusion Alarm by Radionix
 Dahua
 KnightPlastic
@@ -551,6 +551,7 @@ Veracity
 IP-Hardware
 2N
 Alpha
+Aten
 Axis Communications
 Bosch Fire
 ComNet
@@ -562,6 +563,7 @@ Hikvision
 IQsight
 Milestone
 Mobotix
+Netgear
 NVT
 SeeEyes
 Veracity
@@ -1080,6 +1082,7 @@ Hikvision
 Inim
 IQsight
 Mobotix
+NVT
 Paxton
 Politec
 STid
@@ -1186,15 +1189,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Akuvox Intercom Basics
-4 November
-@ SmartSD Breda (NL)
-23 November
-@ SmartSD Merchtem (BE)
-24 November
-@ SmartSD Lisses (FR)
-3 December
-@ SmartSD Portet-sur-garonne (FR)
 Ajax EN54 Hands-On Training
 5 November
 @ SmartSD Merchtem (BE)
@@ -1260,6 +1254,13 @@ Basic Networking Knowledge
 @ SmartSD Merchtem (BE)
 16 December
 @ SmartSD Merchtem (BE)
+Akuvox Intercom Basics
+23 November
+@ SmartSD Merchtem (BE)
+24 November
+@ SmartSD Lisses (FR)
+3 December
+@ SmartSD Portet-sur-garonne (FR)
 Bandit Fog Generators
 24 November
 @ SmartSD Merchtem (BE)

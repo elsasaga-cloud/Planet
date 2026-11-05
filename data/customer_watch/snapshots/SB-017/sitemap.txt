@@ -1,4 +1,4 @@
-# SB-017 Securitytec · sitemap · https://www.securitytec.co.uk/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-017 Securitytec · sitemap · https://www.securitytec.co.uk/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
 	https://www.securitytec.co.uk/
 2022-05-13T21:00:54+00:00	https://www.securitytec.co.uk/our-products.html
 2022-05-01T16:45:39+00:00	https://www.securitytec.co.uk/featured-products.html

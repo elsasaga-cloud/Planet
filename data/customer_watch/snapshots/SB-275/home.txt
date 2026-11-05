@@ -1,4 +1,4 @@
-# SB-275 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-275 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 GelecekBT Bilgi ve İletişim Teknolojileri
 E-Posta
 İletişim
@@ -329,7 +329,7 @@ Sunucu & Server
 +
 Fiber Kanal SFP
 KVM Switch
-Sunucular
+Sunucular & Server
 PCIe Fiber Kartlar
 Sunucu Aksesuarları
 İş İstasyonu
@@ -429,80 +429,74 @@ ONET
 Ağ Güvenliği
 Fieldbus
 Son Eklenenler
+İletişime Geçiniz
+Balance 210 Yük Dengeleme Cihazı
+Peplink Balance 210 Load Balancing Router Yük dengeleme cihazları, veri trafiğin..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
 Telefon Koruma Magazini 2-Pole 10Pair - TLK-SAM-102
 Koruma Magazini 10Pair Gaz Sigortalı 2-Kutuplu 10kA [ TLK-SAM-102] ..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-İletişime Geçiniz
-Netgear M4300-52G-PoE+ AV over IP PoE Switch
-M4300-52G-PoE+ GSM4352PB 48x1G PoE+ 1000W, 2x10G, 2xSFP+ Yönetilebilir Switch​&..
+Endüstriyel PoE Switch 8 Port Gigabit RJ45 POE @ CLR-IES-G80P
+CLR-IES-G80P 8-Port 10/100/1000Base-TX RJ45 PoE Endüstriyel PoE Gigabit Switch&n..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+Endüstriyel POE Switch 16 Gigabit RJ45 POE + 8 Gigabit SFP Yönetilebilir @ CLR-IES-L1624P
+CLR-IES-L1624P 16-Port Gigabit RJ45 POE + 8 Port Gigabit SFP Endüstriyel POE Swi..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-RS485 to LoRaWAN Converter CLR-LORA-C485D
-CLR-LORA-C485D Industrial DIN Rail RS485 to LoRaWAN Converter LoRaWAN Proto..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-PoE Switch 8 Port RJ45 PoE + 2 Port RJ45 Uplink 24V @ CLR-SWF-820A
-CLR-SWF-820A # 8*10/100M PoE 24VDC RJ45 +2*10/100M non-PoE RJ45 Switch 120W, Toplam 1..
+Güneş Enerjisi Beslemeli Yönetilebilir Endüstriyel POE Switch BSP-300
+BSP-300 Güneş Enerjisinden Beslenebilir Yönetilebilir Endüstriyel POE Switc..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-6GK5008-0BA10-1AB2 Scalance XB008 8 Port Yönetilemez Endüstriyel Ethernet Switch
-6GK5008-0BA10-1AB2 Siemens 8 x 10/100Mbps RJ45 Port'lu Scalance XB008 Endüst..
+PoE12-60W Multi-Gigabit 5G PoE++ Injector
+Zyxel PoE12-60W 100M/1G/2.5G/5G MultiRate 802.3bt PoE++ Enjektör 60Watt # POE12-60W-..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-Cisco Poe Switch 24 Port RJ45 POE + 4 Port SFP Managed @ CBS350-24P-4G-EU
-CBS350-24P-4G-EU Cisco Business 350 Serisi Switch, Yönetilebilir Poe Switch [24 ..
+GLC-LH-SMD @ Gigabit SFP Modül 1000Base-LX LC Duplex SM 1310nm 20km
+GLC-LX-SMD # 1000BASE-LX SFP transceiver module, SMF, 1310nm, DOM, CiscoSinglemod..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-ON-DAC-CB403M @ 40Gbps QSFP+ 4*SFP+ DAC Breakout Bakır Kablo 24AWG 3m
-ON-DAC-CB403M # DAC (Direct Attached Cable) QSFP+ 4*SFP+ 40G 24 AWG 3m Breakout Bakır..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-400G QSFP-DD - 8x50G SFP56 Breakout AOC Kablo 5m CLR-400G-A80005
-CLR-400G-A80005 400G QSFP-DD - 8x50G SFP56 Breakout AOC Active Optical Cable 5m ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-ON-MPO-FB320C @ 40/100Gbps Multimode OM3 8-Core MPO 4*LC Duplex Kablo 20m
-ON-MPO-FB320C 40/100Gbps Multimode OM3 8-Core MPO 4*LC Duplex Fan-Out Kablo 20Me..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-ON-AOC-F4303M @ 40G QSFP+ QSFP+ MM OM3 AOC Kablo 3m
-ON-AOC-F4303M # AOC (Active Optical Cable) 40G QSFP+ QSFP+ Multimode OM3 Kablo 3..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-CPRI-S1010A @ 10G CPRI Endüstriyel Bidi SFP+ Modül 10km
-CLR-CPRI-S1010A @ 10GBase-LR SFP+ CPRI Endüstriyel Bidi Modül 10km..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-S12G-T220 @ 12G-SDI 1310nm 20km Dual SFP+ Transmitter Modül
-CLR-S12G-T220 12G-SDI SFP+ Modül 1310nm 20km Dual Fiber Transmitter&nb..
+CLR-GES-SXL @ Gigabit SFP Modül 1000Base-SX LC Duplex MM 1310nm 2km
+CLR-GES-SXL Gigabit SFP 1000Base-SX, uzun mesafeli LRM Multimode LC Duplex konne..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-HDMI Cat6 Mesafe Uzatıcı 50Metre CM196
-CM196 Ugreen HDMI Cat6 Extender 50metre 1080P Cat5 ve cat6 bakır ..
+40/100/200Gbps Multimode OM4 12-Core MPO PB Kablo
+ON-MPO12-F4xxC Serisi 40/100/200Gbps Multimode OM4 12-Core MPO Polarite B Kablo&..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-TGS-SR03 @ 10GBase-SR SFP+ Modül LC Duplex Multimode 850nm 300m
+CLR-TGS-SR03 10Gigabit SFP+ Transceiver Modül 10GBase-SR. Multimode, LC Duplex&n..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-TGS-B40B @ Tek Core BiDi SFP+ Modül 10GBase-BX LC Simplex SM 40km
+CLR-TGS-B40B 10 Gigabit SFP+ transceiver modül 10GBase-ER, tek kıl BiDi SFP TX: ..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-CLR-HDMI-LR @ HDMI TCPIP Ethernet Extender HDbitT 150m Receiver
-CLR-HDMI-LR # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Receiver (RX)&..
+400G MPO16 APC F/F MM OM4 16-Fiber PB Unpinned Fiber Kablo
+ON-MPO16-F4XXA Serisi 400Gbps Multimode OM4 16-Core MPO APC Polarite B Kabl..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+4Kx2K HDMI 1.4 Extender 60 Metre # CLR-HDMI-E603
+CLR-HDMI-E603 4K*2K@30Hz HDMI 1.4 Cat6 Extender Seti 60Metre CLR-HDMI-E603,..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
@@ -512,37 +506,38 @@ Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-CLR-WHD-388N @ Wireless HDMI Extender Dual SSID 100m
-CLR-WHD-388N # HDMI Dual SSID Kablosuz Mesafe Uzatıcı Seti 100m 1080P CLR-WHD..
+CLR-HDMI-LR @ HDMI TCPIP Ethernet Extender HDbitT 150m Receiver
+CLR-HDMI-LR # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Receiver (RX)&..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver)
-ATEN VE8662 4K HDMI H.265 IP Tabanlı Alıcı-Verici (Transceiver) ATEN VE8662 modeli, p..
+CLR-HDMI-LT @ HDMI TCPIP Ethernet Extender HDbitT 150m Transmitter
+CLR-HDMI-LT # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Transmitter (TX)
+..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-LLT @ HDMI TCPIP Extender HDbitT 150m Transmitter Lokal HDMI Çıkışlı
+CLR-HDMI-LLT # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Transmitter (TX)&..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-L11 @ HDMI 4K*2K 30Hz Cat6 Mesafe Uzatma Seti 70m
+CLR-HDMI-L11 # 4Kx2K@30Hz HDMI Cat6 Extender 70m, IR uzaktan kumanda, SET&..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-MCT-R10G @ 10G 3R Repeater OEO Converter
+CLR-MCT-R10G # 10G 3R Repeater SFP+ to SFP+ OEO Converter Mini Tip 8.5G~11...
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-CLR-WHD-K1050 @ Wireless HDMI KVM Extender 50m
-CLR-WHD-K1050 HDMI + USB Kablosuz Mesafe Uzatıcı KVM Extender Seti 50Metre..
+CLR-BAF-11U @ 1 Kanal Balanced XLR Audio SM Fiber optik Çevirici
+CLR-BAF-11U 1-Kanal Balanced Audio XLR Singlemode SC / FC Mesafe Uzatıcı, Unidirecti..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-IP Audio Server ZYCOO IAS-L100
-IAS-L100 IP Audio Server IAS-L100, ZYCOO IP Audio Center sistemi i&cce..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-DCF-C04B @ 4 Port Kuru Kontak Fiber Optik Çift Yönlü Çevirici Set
-CLR Networks CLR-DCF-C04B 4-Port Kuru Kontak Singlemode Fiber Optik Çevirici S..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-Ön Sipariş Veriniz
-Gigabit Ethernet Fiber Optik Media Converter SFP CLR-MCG-LFP
-CLR-MCG-LFP 1-Port Gigabit Ethernet to Fiber Optik Media Converter SFP Slot LFP..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesi
+CLR-MCF-B13 10/100Base-T Fast Ethernet BiDi Fiber Optik Media Converter SM 20km
+CLR-MCF-B13 # 1 Port Fast Ethernet BiDi Fiber Optik Media Converte

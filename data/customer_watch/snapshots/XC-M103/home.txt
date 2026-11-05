@@ -1,4 +1,4 @@
-# XC-M103 Last Mile Communication AS（Last Mile AS） · home · https://www.lastmile.no/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# XC-M103 Last Mile Communication AS（Last Mile AS） · home · https://www.lastmile.no/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 Last Mile AS
 Kompetanse
 IoT
@@ -185,9 +185,9 @@ Gir deg løsninger som analyserer nettverkstrafikk for tegn på uønsket aktivit
 Hva leter du etter?
 Utvalgte artikler
 OT cybersikkerhet
-Hvorfor tradisjonelle jump servere ikke holder mål i dagens trusselbilde
+Hva cyberangrepet i Frankrike kan lære oss om OT-sikkerhet
 OT cybersikkerhet
-Slik møter Westermo utviklingen og kravene innen industrielle nettverk
+Når ingen eier sårbarhetene
 Nettbutikk
 Kontakt oss
 Tilbake
@@ -502,9 +502,9 @@ IoT plattform
 Hva leter du etter?
 Utvalgte artikler
 OT cybersikkerhet
-Hvorfor tradisjonelle jump servere ikke holder mål i dagens trusselbilde
+Hva cyberangrepet i Frankrike kan lære oss om OT-sikkerhet
 OT cybersikkerhet
-Slik møter Westermo utviklingen og kravene innen industrielle nettverk
+Når ingen eier sårbarhetene
 Nettbutikk
 Kontakt oss
 Din samarbeidspartner på industrielle løsninger
@@ -581,21 +581,24 @@ IP67, ATEX/Zone II, GPS, LTE
 Alle artikler
 Fagstoff
 Alle artikler
-Cyolo
-Industrielt nettverk
 Ot-cybersikkerhet
-2.12.2024
-Hvorfor tradisjonelle jump servere ikke holder mål i dagens trusselbilde
-Industrielt nettverk
-Marine
-Westermo
-28.11.2024
-Slik møter Westermo utviklingen og kravene innen industrielle nettverk
-Industrielt nettverk
-Westermo
-28.11.2024
-Partnerskap for bærekraft og sikkerhet: Hvordan Last Mile og Westermo samarbeider for fremtidens industri
+19.10.2026
+Hva cyberangrepet i Frankrike kan lære oss om OT-sikkerhet
+Ot-cybersikkerhet
+18.9.2026
+Når ingen eier sårbarhetene
+Ot-cybersikkerhet
+10.9.2026
+Hvorfor den årlige penetrasjonstesten ikke lenger er nok for å sikre driften
 Alle artikler
 Vi er din samarbeidspartner på industriell datakommunikasjon og energisystemer.
 Kontakt oss
-La oss diskutere sake
+La oss diskutere saken din sammen → →
+Leter du etter bransjespesifikke råd eller løsninger?
+Fyll ut skjemaet, så hører du fra oss innen kort tid.
+Jan Grove Knutsen
+KAM marine
+Connect
+Jeg samtykker til behandling av mine data i samsvar med Personvernerklæring .
+Takk!
+Vi har mottat

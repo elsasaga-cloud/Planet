@@ -1,4 +1,4 @@
-# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
 TRIOTRONIK - der Netzwerkdistributor
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -581,84 +581,85 @@ Mehr entdecken
 StARKE Marken Für beste Lösungen
 Neuheiten
 Neu
-TP-Link
-Omada Fusion 2.5G PoE Gateway
-FUSION 2.5G POE
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ubiquiti
-IP67 industrial WiFi 7 Access Point mit erweiterten Temperaturbereich
-U7-INDUSTRIAL
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Wirewin
-WIREWIN® Elite Patchkabel KAT6A, hochflexibler flammwidriger Elite Mantel, U/UTP
-PKW-ELITE-UU-K6A 1.0
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Wirewin
-WIREWIN® Elite Patchkabel KAT6A, hochflexibler flammwidriger Elite Mantel, S/FTP
-PKW-ELITE-SF-K6A 1.0
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ubiquiti
-UniFi G3 Fingerprint, weiss
-UA-G3-FINGERPRINT-W
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ubiquiti
-UniFi G3 Fingerprint, schwarz
-UA-G3-FINGERPRINT-B
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ubiquiti
-UniFi Enterprise Campus 48S Port Switch, Layer 3, 10 GbE, 25 Gb, 100 Gb
-ECS-48S
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ubiquiti
-UniFi Express 7 superkompaktes 10G Cloud Gateway mit integriertem WiFi 7
-UX7-3
+Lightwin Optics
+25GBit SFP28 AOC-Kabel (Active Optical Cable)
+LWO-AOC-SFP28-1M
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
 Lightwin Optics
-LWO-Q56-200G-SR4-ECO
+LWO-AOC-QSFP28-3M
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
-MikroTik
-KNOT Gateway HL9 - IP66 IoT Gateway mit Bluetooth 5.1, CAT1 LTE Modem, SIM/eSIM
-KNOT GATEWAY HL9
+Lightwin Optics
+LWO-AOC-QSFP28-1M
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+EOL
+Neu
+Wirewin
+19" Wandschrank, einteilig, Pro 2nd Generation, Flat-Pack, 600x600mm, hellgrau
+WCAB PS2 600X600X6U FP
+Weitere Varianten
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
-MikroTik
-wAP ax LTE7 Kit, CAT7 LTE, ARM CPU, 2x2 MIMO, WiFi-6
-WAP AX LTE7 KIT
+Ajax
+Battery CR2 - Ersatzbatterie für das angegebene Ajax Gerät
+22257.87.NC
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
-MikroTik
-hAP be lite, Wi-Fi 7 Router & Access Point, 2.6Gbit, 2x 1GbE, USB-C Power
-A42G-HBEP
+Ajax
+AA-Batterie - Ersatzbatterie für das angegebene Ajax Gerät
+34385.87.NC
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
-TP-Link
-Omada Fusion 2.5G Gateway
-FUSION 2.5G
+Ajax
+CR-2032 - Ersatzbatterie für das angegebene Ajax Gerät
+22258.87.NC
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
-TP-Link
-Omada Fusion G+ Gateway
-FUSION G+
-Produkt An
+Ajax
+CR123A - Ersatzbatterie für das angegebene Ajax Gerät
+22256.87.NC
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ajax
+AAA-Batterie - Ersatzbatterie für das angegebene Ajax Gerät
+22254.87.NC
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ajax
+Ajax Reparatursatz für SpaceControl - Ersatzteile, Weiss
+21184.04.WH
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ajax
+Ajax Reparatursatz für SpaceControl - Ersatzteile, Schwarz
+21183.04.BL
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ajax
+Ajax Reparatursatz für LeaksProtect - Ersatzteile, Weiss
+21166.08.WH
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ajax
+Ajax Reparatursatz für LeaksProtect - Ersatzteile, Schwarz
+21165.08.BL
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
+Stk
+Neu
+Ajax
+Ajax Reparatursatz für GlassProtect - Ersatzteile, Weiss
+21158.05.WH
+Produkt Anzahl: Gib den gewünschten Wert ein od

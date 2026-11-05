@@ -1,8 +1,8 @@
-# SC-097 Three Lines Company · sitemap · https://www.3lines.com.sa/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
-2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/en
-2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ar
-2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ja
-2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ko
+# SC-097 Three Lines Company · sitemap · https://www.3lines.com.sa/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+2026-11-04T11:30:48.000Z	https://www.3lines.com.sa/en
+2026-11-04T11:30:48.000Z	https://www.3lines.com.sa/ar
+2026-11-04T11:30:48.000Z	https://www.3lines.com.sa/ja
+2026-11-04T11:30:48.000Z	https://www.3lines.com.sa/ko
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/en/about
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/ar/about
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/ja/about
@@ -75,6 +75,10 @@
 2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ar/partners
 2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ja/partners
 2026-10-01T10:26:36.000Z	https://www.3lines.com.sa/ko/partners
+2026-11-04T11:44:42.000Z	https://www.3lines.com.sa/en/careers
+2026-11-04T11:44:42.000Z	https://www.3lines.com.sa/ar/careers
+2026-11-04T11:44:42.000Z	https://www.3lines.com.sa/ja/careers
+2026-11-04T11:44:42.000Z	https://www.3lines.com.sa/ko/careers
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/en/location
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/ar/location
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/ja/location
@@ -83,11 +87,23 @@
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/ar/contact
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/ja/contact
 2026-09-02T11:08:41.000Z	https://www.3lines.com.sa/ko/contact
+2026-11-04T11:38:28.000Z	https://www.3lines.com.sa/en/privacy-policy
+2026-11-04T11:38:28.000Z	https://www.3lines.com.sa/ar/privacy-policy
+2026-11-04T11:38:28.000Z	https://www.3lines.com.sa/ja/privacy-policy
+2026-11-04T11:38:28.000Z	https://www.3lines.com.sa/ko/privacy-policy
+2026-11-04T11:38:32.000Z	https://www.3lines.com.sa/en/terms-and-conditions
+2026-11-04T11:38:32.000Z	https://www.3lines.com.sa/ar/terms-and-conditions
+2026-11-04T11:38:32.000Z	https://www.3lines.com.sa/ja/terms-and-conditions
+2026-11-04T11:38:32.000Z	https://www.3lines.com.sa/ko/terms-and-conditions
+2026-11-04T11:38:35.000Z	https://www.3lines.com.sa/en/cookie-policy
+2026-11-04T11:38:35.000Z	https://www.3lines.com.sa/ar/cookie-policy
+2026-11-04T11:38:35.000Z	https://www.3lines.com.sa/ja/cookie-policy
+2026-11-04T11:38:35.000Z	https://www.3lines.com.sa/ko/cookie-policy
 2026-10-21T10:01:00.000Z	https://www.3lines.com.sa/en/news/critical-infrastructure-protection
 2026-10-21T10:01:00.000Z	https://www.3lines.com.sa/ar/news/critical-infrastructure-protection
 2026-10-21T10:01:00.000Z	https://www.3lines.com.sa/ja/news/critical-infrastructure-protection
 2026-10-21T10:01:00.000Z	https://www.3lines.com.sa/ko/news/critical-infrastructure-protection
-2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/en/news/sedena-delegation-radar-maintenance
-2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/ar/news/sedena-delegation-radar-maintenance
-2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/ja/news/sedena-delegation-radar-maintenance
-2026-11-04T07:27:54.000Z	https://www.3lines.com.sa/ko/news/sedena-delegation-radar-maintenance
+2026-11-04T13:28:54.000Z	https://www.3lines.com.sa/en/news/sedena-delegation-radar-maintenance
+2026-11-04T13:28:54.000Z	https://www.3lines.com.sa/ar/news/sedena-delegation-radar-maintenance
+2026-11-04T13:28:54.000Z	https://www.3lines.com.sa/ja/news/sedena-delegation-radar-maintenance
+2026-11-04T13:28:54.000Z	https://www.3lines.com.sa/ko/news/sedena-delegation-radar-maintenance

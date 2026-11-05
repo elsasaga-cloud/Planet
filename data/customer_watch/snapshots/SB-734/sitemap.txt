@@ -1,4 +1,4 @@
-# SB-734 SIGMA RECTRIX SYSTEMS (M) SDN BHD · sitemap · https://sigmarectrix.com/sitemap.xml · fetched 2026-11-04T09:30:29Z · HTTP 200
+# SB-734 SIGMA RECTRIX SYSTEMS (M) SDN BHD · sitemap · https://sigmarectrix.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
 	http://sigmarectrix.com/supportzayd/account/create/process
 	http://sigmarectrix.com/supportzayd/portal/ticket/comment
 	http://sigmarectrix.com/supportzayd/subcategories/fetch
@@ -90,7 +90,6 @@
 	http://sigmarectrix.com/blog/mib-blog-time-3
 	http://sigmarectrix.com/blog/myerp-ver15-2
 	http://sigmarectrix.com/blog/our-blog-1
-	http://sigmarectrix.com/shop/acer-verinton-test-1196
 	http://sigmarectrix.com/shop/myerp-ver15-overview-190
 	http://sigmarectrix.com/shop/networking-and-security-crash-course-765
 	http://sigmarectrix.com/shop/sigmarian-ramadhan-iftar-26mac-515
