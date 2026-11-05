@@ -2,7 +2,7 @@
  "code": "SB-844",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（oemarket.com：HTTP 错误，2026-11-04，第 6 次）",
+ "website_status": "快照失败（oemarket.com：HTTP 错误，2026-11-05，第 7 次）",
  "summary": "澳大利亚 OEMarket（oemarket.com：MC「像公司之前的灰色外壳」、SFP、光开关；官网 http_error）；表内未跟进。",
  "type": "网络配件网店（澳大利亚，MC）",
  "size": "",
@@ -26,7 +26,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -118,7 +118,8 @@
    "2026-11-01T09:56:29Z",
    "2026-11-02T10:16:16Z",
    "2026-11-03T10:19:16Z",
-   "2026-11-04T10:03:45Z"
+   "2026-11-04T10:03:45Z",
+   "2026-11-05T10:12:37Z"
   ],
   "fails": [
    "2026-10-21",
@@ -126,7 +127,8 @@
    "2026-11-01",
    "2026-11-02",
    "2026-11-03",
-   "2026-11-04"
+   "2026-11-04",
+   "2026-11-05"
   ],
   "batch": "LT-T03"
  },

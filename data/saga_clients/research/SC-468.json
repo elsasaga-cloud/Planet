@@ -54,7 +54,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 集团分销 20%：BK EESTI OÜ（Tallinn；注册码 10022238；1996；BK 集团 EE / LV / LT 三国；martin.kirk@ / oskar.ojaste@ 在表）坐实；进口 Utepo ✔ 欧洲 ✔ 对位 ✔ 具名 KP ✔ → P 池候选；闸 1：爱沙尼亚 BK Eesti（bkeesti.ee；CCTV 为主，有 Utepo 的）：欧洲 + 已进口中国同类品牌 + 对位 ✔；15 推 0 回 → 闸 2 查底数，低优先",
- "notes": "LT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -162,14 +162,16 @@
    "2026-11-01T09:57:22Z",
    "2026-11-02T10:17:01Z",
    "2026-11-03T10:20:22Z",
-   "2026-11-04T10:04:29Z"
+   "2026-11-04T10:04:29Z",
+   "2026-11-05T10:13:22Z"
   ],
   "fails": [
    "2026-10-29",
    "2026-11-01",
    "2026-11-02",
    "2026-11-03",
-   "2026-11-04"
+   "2026-11-04",
+   "2026-11-05"
   ],
   "batch": "LT-T03"
  },

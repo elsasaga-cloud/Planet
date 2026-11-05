@@ -2,7 +2,7 @@
  "code": "SB-509",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（ionetech.com：超时（站慢或封锁），2026-11-04，第 6 次）",
+ "website_status": "快照失败（ionetech.com：超时（站慢或封锁），2026-11-05，第 7 次）",
  "summary": "韩国 iOne Tech（ionetech.com / ione.kr；表内「在找工业管理」、阿里巴巴询盘「8 光 8 管理」；KP CEO Kim「可以尝试多跟进一下」；官网 http_error）；群发 19 次无回复。",
  "type": "工业网络公司（韩国，8 光 8 管理询盘）",
  "size": "",
@@ -35,7 +35,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -143,7 +143,8 @@
    "2026-11-01T09:55:44Z",
    "2026-11-02T10:15:37Z",
    "2026-11-03T10:18:37Z",
-   "2026-11-04T10:02:56Z"
+   "2026-11-04T10:02:56Z",
+   "2026-11-05T10:11:51Z"
   ],
   "fails": [
    "2026-10-21",
@@ -151,7 +152,8 @@
    "2026-11-01",
    "2026-11-02",
    "2026-11-03",
-   "2026-11-04"
+   "2026-11-04",
+   "2026-11-05"
   ],
   "batch": "LT-T03"
  },
