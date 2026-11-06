@@ -1,4 +1,4 @@
-# SB-085 DIGI Group · sitemap · https://thorbroadcast.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-085 DIGI Group · sitemap · https://thorbroadcast.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://thorbroadcast.com/
 	https://thorbroadcast.com/products
 	https://thorbroadcast.com/posts
@@ -52,6 +52,7 @@
 	https://thorbroadcast.com/products/rf-catv-and-iptv-ott-stb-s
 	https://thorbroadcast.com/products/dvb-s-s2-satellite-modulators
 	https://thorbroadcast.com/products/thoriumip-connect-discover-watch
+	https://thorbroadcast.com/products/professional-av-system-design-services
 	https://thorbroadcast.com/products/sdi-1
 	https://thorbroadcast.com/products/sdi-sd-hd-3g-with-cwdm
 	https://thorbroadcast.com/products/cable-tv-catv-rf-45-900mhz
@@ -197,5 +198,4 @@
 	https://thorbroadcast.com/product/compact-clam-shell-outdoor-weather-proof-fiber-optic-receiver-for-8230.html
 	https://thorbroadcast.com/product/hdmi-rf-modulator-chassis-system-1-12-units.html
 	https://thorbroadcast.com/product/qam-catv-rf-and-atsc-rf-to-hdmi-decoder-stb-8230.html
-	https://thorbroadcast.com/product/8-channel-sdi-and-hdmi-clear-catv-rf-modulator-qam-8230.html
-	https://thorbroadcast.com/product/hdmi-modulator-qam-rf-coax-output-ful
+	https://thorbroadcast.com/product/8-channel-sdi-and-hdmi-clear-catv-rf-modulator-qam-8230.ht

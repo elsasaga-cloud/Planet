@@ -1,4 +1,4 @@
-# SB-200 sysnetcenter.com · news_1 · https://sysnetcenter.com/news · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-200 sysnetcenter.com · news_1 · https://sysnetcenter.com/news · fetched 2026-11-06T09:32:27Z · HTTP 200
 บทความ รีวิวอุปกรณ์ Network ระบบเครือข่าย งานติดตั้ง ร้าน Sysnet Center Line: @sysnet Line: @sysnet
 Contact Phone: 02-102-4284, 083-199-7002, 089-489-5970, 080-080-1115 Email: info@sysnetcenter.com
 เข้าสู่ระบบ
@@ -38,19 +38,19 @@ Network Solutions (12)
 โพสต์ล่าสุด
 เลิกใช้ Port Forwarding ใน Office เปลี่ยนมาใช้ VPN ด้วย Omada Fusion และ Navi โพสต์ใน : Review อุปกรณ์ Network , การตั้งค่าอุปกรณ์ Networtk
 2026-11-05
-0 มุมมอง 0 ชอบ
+1 ดู 0 ชอบ
 ทดสอบความเสี่ยงจากการทำ Port Forwarding เพื่อเข้าถึง NAS, Windows Remote Desktop และ CCTV จาก Internet แนะนำการใช้...
 อ่านเพิ่มเติม
 ดูโพสต์ล่าสุดทั้งหมด
 กระทู้ยอดนิยม
 ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงานด้วย VPN โพสต์ใน : Review อุปกรณ์ Network
 2021-01-15
-57386 มุมมอง 19 ชอบ
+57387 มุมมอง 19 ชอบ
 ต้องการเชื่อมเครือข่าย Network ระหว่างสำนักงาน ให้สามารถใช้ Resource ต่างๆร่วมกัน หรือ ให้ Client เชื่อมต่อเข้ามาใช้...
 อ่านเพิ่มเติม
 กระทู้ยอดนิยมทั้งหมด
 Blog tags
-ruijie controller wifi hotspot log internet ubiquiti software zyxel access point engenius poe switch งานติดตั้ง security repeater mesh loadbalance cloud mikrotik synology aruba reyee
+wifi hotspot security งานติดตั้ง mesh software zyxel repeater controller ruijie mikrotik access point loadbalance poe switch ubiquiti aruba log internet synology cloud reyee engenius
 Blog RSS
 BLOG
 บทความ รีวิวอุปกรณ์ Network การใช้งาน การ Config อุปกรณ์ระบบเครือข่าย งานติดตั้ง ร้าน Sysnet Center
@@ -58,11 +58,11 @@ BLOG
 เรียงลำดับ
 โพสต์ยอดนิยม
 เลิกใช้ Port Forwarding ใน Office เปลี่ยนมาใช้ VPN ด้วย Omada Fusion และ Navi Posted in: Review อุปกรณ์ Network , การตั้งค่าอุปกรณ์ Networtk
-1 ดู 0 ชอบ
+2 จำนวนการดู 0 ชอบ
 ทดสอบความเสี่ยงจากการทำ Port Forwarding เพื่อเข้าถึง NAS, Windows Remote Desktop และ CCTV จาก Internet แนะนำการใช้ Omada Fusion LightLink VPN ผ่าน App Navi สำหรับ Remote Access เข้า Network Office อย่างปลอดภัย ลดการเปิดเผย Service พร้อมวิธีตั้งค่า VPN, Split Tunnel, Full Tunnel และผลทดสอบ VPN Throughput ประมาณ 145 Mbps
 อ่านเพิ่มเติม
 รีวิว TP-Link Omada Fusion 2.5G Gateway ทดสอบ Multi-WAN, VLAN, Security และ VPN Posted in: Review อุปกรณ์ Network
-33 จำนวนการดู 0 ชอบ
+38 จำนวนการดู 0 ชอบ
 รีวิว TP-Link Omada Fusion 2.5G Gateway พร้อม Built-in Omada Controller ทดสอบการตั้งค่าและใช้งานจริง ทั้ง Multi-WAN Load Balancing, Failover, VLAN, ACL, Content Filtering, QoS, mDNS และ LightLink VPN พร้อมผลทดสอบ Failover, ความเร็ว VPN ประมาณ 130Mbps รวมถึงข้อสังเกตจากการใช้งานจริงของ SysNet Center
 อ่านเพิ่มเติม
 ป้องกัน Malware และ Ransomware เข้าถึง NAS / Server ด้วย Cybrey Firewall Posted in: Review อุปกรณ์ Network , Network Solutions
@@ -70,15 +70,15 @@ BLOG
 บทความนี้จำลอง LAB การป้องกัน Malware และ Ransomware เข้าถึง NAS/SERVER ด้วย Cybrey Firewall โดยเริ่มจากทุกอุปกรณ์อยู่ VLAN เดียวกัน แล้วเปรียบเทียบกับการแยก VLAN พร้อมกำหนด Policy เพื่อควบคุมสิทธิ์การเข้าถึง NAS, Server และหน้า Management ของอุปกรณ์ Network
 อ่านเพิ่มเติม
 เครื่องติด Malware แล้วเกิดอะไรขึ้นในระบบ Network? จำลอง Workflow การโจมตี NAS/Server และแนวทางป้องกันด้วย Cybrey Firewall Posted in: Network Tools / Software , Network Solutions
-68 จำนวนการดู 1 ชอบ
+69 จำนวนการดู 1 ชอบ
 จำลอง Workflow เมื่อเครื่องติด Malware ในวง Network เดียวกับ NAS, Server และเครื่อง Office พร้อมอธิบายความเสี่ยงจาก SMB, RDP, C2 Server และแนวทางลดความเสี่ยงด้วย Cybrey Firewall
 อ่านเพิ่มเติม
 VLAN และ Policy บน Cybrey Firewall แยกวง Network ป้องกันการโจมตีในสำนักงาน Posted in: Review อุปกรณ์ Network , Network Solutions
-63 จำนวนการดู 2 ชอบ
+64 จำนวนการดู 2 ชอบ
 ทดสอบ Lab จริง การแยก VLAN ด้วย Cybrey Firewall ช่วยป้องกัน Guest Wi-Fi เข้าถึง NAS, CCTV, RDP และลดความเสี่ยงจาก ARP Spoofing, Ransomware และการโจมตีภายในเครือข่ายสำนักงานได้อย่างไร
 อ่านเพิ่มเติม
 Forward Port เข้า NAS และ RDP เสี่ยงโดนแฮก? Firewall ช่วยป้องกันระบบ Office ได้อย่างไร Posted in: Review อุปกรณ์ Network , การตั้งค่าอุปกรณ์ Networtk , Network Solutions
-193 จำนวนการดู 1 ชอบ
+194 จำนวนการดู 1 ชอบ
 ทดสอบจริงการ Forward Port เข้า NAS และ Remote Desktop จากภายนอก ผู้โจมตีสแกนเจออะไรได้บ้าง เสี่ยง Ransomware แค่ไหน และ Firewall ช่วยป้องกันระบบ Office ได้อย่างไร
 อ่านเพิ่มเติม
 เปรียบเทียบ Reyee Gateway Router แต่ละรุ่น Posted in: Review อุปกรณ์ Network
@@ -86,7 +86,7 @@ Forward Port เข้า NAS และ RDP เสี่ยงโดนแฮก
 เปรียบเทียบ Reyee Gateway Router แต่ละรุ่น พร้อมสรุป CPU, RAM, Flash Memory, Internet Throughput, จำนวน Port WAN/LAN, Port 2.5G, SFP+, PoE Budget, จำนวนผู้ใช้งาน, VPN Throughput, SD-WAN และจำนวนอุปกรณ์ที่บริหารผ่าน Router Mode / AC Mode เพื่อช่วยเลือกรุ่นที่เหมาะกับสำนักงาน ร้านค้า โรงแรม โรงเรียน และระบบ Network ที่ต้องการบริหารผ่าน Ruijie Cloud
 อ่านเพิ่มเติม
 วิธีแยก Guest VLAN ด้วย Reyee Gateway และ Access Point Posted in: การตั้งค่าอุปกรณ์ Networtk
-111 จำนวนการดู 2 ชอบ
+112 จำนวนการดู 2 ชอบ
 วิธีแยก Guest Wi-Fi ออกจากวง Network หลักด้วย Reyee Gateway, Managed Switch และ Access Point พร้อมตั้งค่า VLAN และ ACL
 อ่านเพิ่มเติม
 การทำ Policy-Based Routing (PBR) ใน Reyee Gateway กำหนด VLAN ให้ออก Internet คนละเส้น Posted in: การตั้งค่าอุปกรณ์ Networtk

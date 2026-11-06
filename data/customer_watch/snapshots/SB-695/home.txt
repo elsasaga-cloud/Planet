@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,28 +429,18 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
-R$ 1.458,00
+Conversor de Mídia 1 Porta RS-485 para 1 Porta Fibra Dupla Multimodo - LRI-MC-485MM
+R$ 714,00
 R$
-1.414 , 26
+692 , 58
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
--50%
-Fonte de Alimentação Chaveada Industrial para Trilho DIN 24W, 12V - LRI-PS2412
-R$ 165,00
-R$ 82,50
+Switch Industrial 8 Portas Gigabit Gerenciável L2+ e 4 Portas SFP com Alimentação Redundante LRI-SW-8G4S1C
+R$ 1.959,00
 R$
-80 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
-R$ 499,00
-R$
-484 , 03
+1.900 , 23
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -463,28 +453,32 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
+LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
+R$ 549,00
+R$
+532 , 53
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Lançamentos
-Sensor Digital de Temperatura TST103
+Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
+R$ 990,00
+R$
+960 , 30
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Módulo de Controle de Relé Remoto TCW122B-RR
 Sob consulta
 Saiba mais
 Pedir cotação
-Sensor de Umidade e Temperatura Digital TSH206 Interfece 1-Wire
-R$ 721,20
-R$
-699 , 56
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Módulo de Monitoramento IP Watchdog TCW122B-WD
-R$ 1.348,47
-R$
-1.308 , 02
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-1-Wire Sensor de Temperatura TST100
+Sensor Magnético de Porta TSD800
+Sob consulta
+Saiba mais
+Pedir cotação
+Módulo de Entrada 60V TSA202-60
 Sob consulta
 Saiba mais
 Pedir cotação
@@ -550,5 +544,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.876 secs - 05-11-2026  - node: commerce-web2-bot-lw - store
+Load time: 1.163 secs - 06-11-2026  - node: commerce-web5-tiny-lw - store
 ×

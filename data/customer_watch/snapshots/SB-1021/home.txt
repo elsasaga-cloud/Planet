@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,9 +40,9 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2737)
-Wszystkie 2737
-Switche 1015
+Urządzenia (2738)
+Wszystkie 2738
+Switche 1016
 Access Pointy 187
 Routery WiFi 391
 Routery zaawansowane 108
@@ -106,10 +106,10 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4967)
-Wszystkie 4967
+LAN (4971)
+Wszystkie 4971
 Kable LAN 403
-Patchcordy RJ45 1869
+Patchcordy RJ45 1873
 Szafy RACK 892
 Akcesoria do szaf RACK 898
 Moduły keystone 234
@@ -121,13 +121,13 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2267)
-Wszystkie 2267
+Zasilanie (2268)
+Wszystkie 2268
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
 Zasilacze impulsowe 531
-Adaptery POE 52
+Adaptery POE 53
 Akumulatory 106
 Przetwornice napięcia 158
 Kable zasilające 80
@@ -279,6 +279,15 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+Pulsar P-POE1 – zestaw adapterów PoE RJ45 i 5,5/2,1 mm
+7.5 zł netto
+Do koszyka
+SONOFF SNZB-02LD – czujnik temperatury Zigbee z sondą i wyświetlaczem LCD
+64.96 zł netto
+Do koszyka
+SONOFF Dongle Plus MG24 – adapter USB Zigbee i Thread
+121.25 zł netto
+Do koszyka
 Patchcord CAT 5e U/UTP 0,25 m, 2 × RJ45 kątowy
 5.5 zł netto
 Do koszyka
@@ -293,15 +302,6 @@ Mean Well HLG-320H-24A zasilacz LED 24 V 320 W IP65
 Do koszyka
 Uchwyt odciągowy do kabli 3–7 mm Sdünnger PA-3700 V3
 9.65 zł netto
-Do koszyka
-Mean Well HLG-320H-12 zasilacz LED 12 V 264 W IP67
-372.47 zł netto
-Do koszyka
-Seagate IronWolf Pro 32 TB NAS HDD 3,5 ST32000NT000
-6903.98 zł netto
-Do koszyka
-Seagate IronWolf Pro ST20000NT001 – dysk twardy NAS 20 TB
-3637.84 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

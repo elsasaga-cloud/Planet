@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -149,7 +149,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-10935 m raktáron
+10885 m raktáron
 m
 Kosárba
 Részletek
@@ -159,12 +159,11 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-18972 m raktáron
+17447 m raktáron
 m
 Kosárba
 Részletek
 UTP CAT6 falkábel, LSZH 305m DK-1613-VH-305
-Akciós!
 Villámnézet
 Cikkszám: TA-K617LSZHD
 Ár:
@@ -178,8 +177,8 @@ FTP CAT6 falkábel, LSOH 305m DK-1623-VH-305
 Villámnézet
 Cikkszám: TA-K661LSOH
 Ár:
-216 Ft + ÁFA
-(274 Ft)
+225 Ft + ÁFA
+(286 Ft)
 6760 m raktáron
 m
 Kosárba
@@ -190,7 +189,7 @@ Cikkszám: K1142050FÖLD
 Ár:
 175 Ft + ÁFA
 (222 Ft)
-709 m raktáron
+509 m raktáron
 m
 Kosárba
 Részletek
@@ -263,7 +262,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-10935 m raktáron
+10885 m raktáron
 m
 Kosárba
 Részletek
@@ -283,7 +282,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-18972 m raktáron
+17447 m raktáron
 m
 Kosárba
 Részletek
@@ -375,4 +374,4 @@ Külső raktár
 H-1151 Bp. Székely Elek út 11.
 Nyitva: hétköznap -
 +36 1/415 2321 | sales@lan.hu
-Inf
+Információk

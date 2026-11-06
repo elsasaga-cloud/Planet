@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-06T09:32:27Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,12 +321,12 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Les meilleurs projets SDR pour découvrir la radio logicielle
+Suivi aéronautique, réception satellite, analyse de capteurs, radioastronomie ou réseaux 5G : explorez les...
 Analyseurs de gaz O₂ et H₂S portables et fixes pour l'industrie
 Mesurez l'oxygène O₂ et le sulfure d'hydrogène H₂S avec les analyseurs portables et fixes AMI pour le contrôle des...
 Microphones de mesure, simulateurs d’oreille et équipements de test : téléchargez le flyer de présentation
 Solutions acoustiques GRAS : microphones et équipements de mesure
-Solutions RF et mmWave : du prototypage aux tests
-Découvrez nos solutions RF et mmWave pour la 5G, 6G, Satcom et radar : beamformers, convertisseurs, RIS, SDR et...
 Ressources
 Il y a 403 Actualités.
 Microphones de mesure, simulateurs d’oreille et équipements de test : téléchargez le flyer de présentation

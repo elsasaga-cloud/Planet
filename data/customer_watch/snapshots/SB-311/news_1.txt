@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-06T09:32:27Z · HTTP 200
 Obchod, Nové produkty
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -507,6 +507,13 @@ Napište nám!
 2
 »
 Všechny
+Do košíku
+Náhled
+Kód: K03829
+11876,15 Kč
+9815,00 Kč bez DPH
+od 0,00 Kč
+Dostupný
 Náhled
 Monitor Hikvision DS-D5022F2-1P2 (21,45", 16:7, IPS, FHD, HDMI, VGA, audio)
 DS-D5022F2-1P2 je monitor značky Hikvision, určený pro provoz v systémech CCTV v nepřetržitém režimu 16/7.
@@ -604,7 +611,4 @@ Kamera WizColor zaznamenává barevný obraz 24 hodin denně, 7 dní v týdnu, n
 • Objektiv s pevnou ohniskovou vzdáleností 2,8 mm
 • Bílé osvětlení s dosahem až 20 m
 • Inteligentní detekce pohybu SMD+ (Smart Motion Detection+)
-• Inteligentní události: detekce překročení čáry a pohybu v zóně (vstup a výstup) s filtrováním osob/vozidel
-• Vestavěný mikrofon
-Kód: Q0658
-
+• Inteligentní události: detekce překročení čáry a pohybu v z

@@ -1,4 +1,5 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-05T09:39:48Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-06T09:32:27Z · HTTP 200
+06.11.2026 10:29:37	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-06/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcz99hhsesxxxxx
 03.11.2026 12:39:53	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp3/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc3
 03.11.2026 12:35:18	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp1/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc1
 03.11.2026 11:19:54	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-9h-slash-sb140/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet
@@ -87,5 +88,4 @@
 09.09.2026 09:48:08	Fluke-ii01, iSee akustisk kamera	https://www.adeptor.no/fluke/fluke-ii01/fluke-ii01-isee-akustisk-kamera-for-android-16-mems-mikrofoner
 08.09.2026 15:36:25	Hirschmann OpenRail RSP35, 8x FE 3x GE	https://www.adeptor.no/hirschmann/rsp35-08033o6zts-27/hirschmann-openrail-rsp35-8x-fe-3x-ge-rsp35-08033o6zt-skkv9hpi2sxxxxx
 08.09.2026 10:05:51	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-20/grs2000-ethernet-switch-grs2030-gh8h8-fh800-aj2-skkv9hhe2a99
-08.09.2026 10:03:27	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-19/grs2000-ethernet-switch-grs2030-g0000-f0000-a00-skkv9hhe2a99
-08.09.2026 10:00:47	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-18/grs2000-ethernet-switch-grs2030-g0000-m0000-a0
+08.09.2026 10:03:27	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-19/grs2000-ethernet-switch-

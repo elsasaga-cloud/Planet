@@ -1,4 +1,6 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-05T19:40:27+00:00	Webinaire - Odoo 20 – Découvrez les nouvelles innovations qui révolutionnent les Services 🚀	https://www.youtube.com/watch?v=eVXVU0rPVa4
+2026-11-05T14:37:13+00:00	Webinar - Partnership Program	https://www.youtube.com/watch?v=6tqxYlWFEXI
 2026-11-04T16:20:06+00:00	Odoo Deep Dive: Finanzbuchhaltung	https://www.youtube.com/watch?v=zfoOJYbgPAw
 2026-11-04T16:15:16+00:00	Odoo Quick Tips - Charge overages [Sales]	https://www.youtube.com/watch?v=yxm1moFAC-4
 2026-11-04T16:12:04+00:00	Odoo 20 : Wat is er nieuw in Kassa (Retail)?	https://www.youtube.com/watch?v=c_JwWv63Hoo
@@ -12,5 +14,3 @@
 2026-10-29T23:39:06+00:00	Unify Multi-Company Operations on One ERP	https://www.youtube.com/watch?v=7i7bkcUoNoc
 2026-10-29T17:39:02+00:00	Webinaire - Odoo 20 - Découvrez toutes les nouveautés dans les applications RH	https://www.youtube.com/watch?v=ZFeN5vit93g
 2026-10-29T13:07:33+00:00	Webinar - Odoo 20 - Was ist neu in den Dienstleistungsapps?	https://www.youtube.com/watch?v=lydR7q-n-wE
-2026-10-29T12:59:49+00:00	Das Ende der Insellösungen Folge 7	https://www.youtube.com/watch?v=NQ47OO3uHlU
-2026-10-29T12:00:04+00:00	Webinaire Odoo - E-commerce : l’IA agentique au service de votre site et de votre marketing	https://www.youtube.com/watch?v=_MLLP0ENeT0

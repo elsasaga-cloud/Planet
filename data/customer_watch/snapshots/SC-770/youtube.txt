@@ -1,4 +1,5 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T08:00:31+00:00	Falownik czy serwonapęd? Sterowanie prędkością serwa Elmatic	https://www.youtube.com/watch?v=XAU-xt6osEE
 2026-11-05T09:00:27+00:00	DASYLab: akwizycja i analiza danych pomiarowych bez programowania	https://www.youtube.com/watch?v=T-mcfpqH1Mo
 2026-11-05T07:30:05+00:00	Etykietowanie palet cobotem: etykieta w dowolnym miejscu	https://www.youtube.com/shorts/Kquk895fBjs
 2026-11-04T10:16:55+00:00	Pierwsze uruchomienie serwa Elmatic: podłączenie i test JOG	https://www.youtube.com/watch?v=ftsKRTgqmXA
@@ -13,4 +14,3 @@
 2026-10-28T15:00:10+00:00	Local AI Day 19.11 Warszawa: lokalne AI w praktyce	https://www.youtube.com/shorts/cK0RoyRIDG4
 2026-10-27T13:19:53+00:00	Roboty współpracujące na linii makaronu: pakowanie, kartony i paletyzacja	https://www.youtube.com/watch?v=sYbb5sOZMMY
 2026-10-26T08:04:34+00:00	Firewall OT poprawny, a linia stanęła. Dlaczego?	https://www.youtube.com/shorts/JTgQizFYEAs
-2026-10-21T13:48:01+00:00	Robot AMR bez przebudowy hali: ile tnie koszty? Liczymy na żywo	https://www.youtube.com/shorts/As7rB0lkMng

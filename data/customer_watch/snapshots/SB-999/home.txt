@@ -1,4 +1,4 @@
-# SB-999 algosolutions.com · home · https://www.algosolutions.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-999 algosolutions.com · home · https://www.algosolutions.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Home - Algo Communication Products Ltd.
 Products
 Categories
@@ -181,8 +181,8 @@ New Algo Warranty:
 Algo is pleased to introduce a new best-in-class warranty program, offering up to 6 years of warranty coverage for eligible Algo IP products.
 Four New Algo Button Models:
 Introducing four new button models for fast, flexible activation of everyday calls and emergency alerts.
-Firmware v5.7 Now Available:
-We’re excited to launch Firmware 5.7, which introduces powerful enhancements across the Algo portfolio.
+UC Awards 2026 Winner:
+Algo has been named the winner of Best Microsoft Teams Solution at the UC Awards 2026.
 Our Products
 IP Speakers
 Deliver highly intelligible audio for commercial environments with IP speakers speciﬁcally designed for quality voice paging, notiﬁcation, and background music. Packed with valuable features such as wideband audio, multicast functionality, ambient noise detection, and secure SIP, Algo IP speakers make IP paging powerful and simple. Learn more .

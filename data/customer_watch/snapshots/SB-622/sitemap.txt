@@ -1,6 +1,6 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://market-telecom.kz/
-2026-11-05	https://market-telecom.kz/blog
+2026-11-06	https://market-telecom.kz/blog
 2026-10-23	https://market-telecom.kz/services
 2026-06-06	https://market-telecom.kz/products
 2026-07-29	https://market-telecom.kz/about_shop

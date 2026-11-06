@@ -1,4 +1,4 @@
-# XC-M125 Electrobit OÜ · news_1 · https://www.electrobit.ee/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# XC-M125 Electrobit OÜ · news_1 · https://www.electrobit.ee/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 Electrobit OÜ - Tööstusautomaatika tooted ja tarkus
 Kasutame küpsiseid
 Kasutame vajalikke küpsiseid veebilehe toimimiseks ning analüüsi- ja reklaamiküpsiseid, et mõista veebilehe kasutamist ja pakkuda asjakohasemat sisu. Oma valikut saad hiljem igal ajal muuta.
@@ -117,7 +117,7 @@ Komponendid
 "> iQ-R kontrollerid
 "> MR servoajamite tarvikud
 "> FR-F800 sagedusmuundurid
-"> Tosibox
+"> Tosi®
 "> Traadita võrguseadmed
 "> RF1 Mehhaanilise sidestusega releed
 "> L kontrollerid

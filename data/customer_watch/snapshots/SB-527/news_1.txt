@@ -1,4 +1,4 @@
-# SB-527 avalan.com · news_1 · https://www.avalan.com/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-527 avalan.com · news_1 · https://www.avalan.com/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 Blog | AvaLAN Networks
 top of page
 Home
@@ -56,12 +56,12 @@ The shift from serial to Ethernet communications at the gas pump offers the high
 Courtney Apr 2, 2020 2 min read
 36 Weeks and counting
 Personally, I have not talked to anyone who hasn't had their card replaced in the past two years
-Matthew Nelson Jan 21, 2020 2 min read
+Matthew Nelson Jan 20, 2020 2 min read
 Understanding Security for Outdoor Payment Systems
 this major “industry first” win was actually based on the AvaLAN proprietary and multi-layer security technology
-Courtney Dec 6, 2019 1 min read
+Courtney Dec 5, 2019 1 min read
 AvaLAN Total Solution for Fuel Center Communication
-Courtney Dec 12, 2018 0 min read
+Courtney Dec 11, 2018 0 min read
 100 Weeks to EMV — Where Do I Start?
 You can actually become EMV compliant in minutes and requires no disruption to your services.
 Courtney Oct 8, 2018 2 min read

@@ -1,4 +1,4 @@
-# XC-E060 Delta Computer Products GmbH · home · https://deltacomputer.de/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# XC-E060 Delta Computer Products GmbH · home · https://deltacomputer.de/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Startseite | DELTA Computer Products GmbH
 The store will not work correctly when cookies are disabled.
 Um Ihnen die Funktionen unseres Online-Shops uneingeschränkt anbieten zu können setzen wir Cookies ein.
@@ -316,7 +316,7 @@ Your browser does not support the video tag.
 Wir liefern die Rechenleistung für Systeme der Zukunft
 Skalierbare Systeme. Maßgeschneidert.
 Sie wissen schon genau, was sie brauchen? Dann geht's hier direkt zum Konfigurator.
-D23z-M4-ZT-8xGPU Ab 38.469,39 €
+D23z-M4-ZT-8xGPU Ab 38.494,97 €
 AMD Dual EPYC Hochleistungs-Server:
 4HE Rack-Chassis (luftgekühlt)
 redundante 4x 3200W Netzteile
@@ -327,7 +327,7 @@ bis zu 8x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slots (FHHL)
 bis zu 2x PCI-E 5.0 x8 Slots (FHHL)
 bis zu 8x GPU/MIC (max. 600 Watt TDP)
-D22x-M4-SP-8xGPU Ab 29.499,97 €
+D22x-M4-SP-8xGPU Ab 29.519,58 €
 Intel Dual Xeon Hochleistungs-Server:
 4HE Rack-Chassis (luftgekühlt)
 redundante 4x 3000W Netzteile
@@ -338,7 +338,7 @@ redundante 4x 3000W Netzteile
 bis zu 8x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slots (FHHL)
 bis zu 8x GPU/MIC (max. 600 Watt TDP) inkl. NVLink Bridge Support
-D22x-M2-SP-4xGPU Ab 21.907,20 €
+D22x-M2-SP-4xGPU Ab 21.921,76 €
 Intel Dual Xeon Hochleistungs-Server:
 2HE Rack-Chassis (luftgekühlt)
 redundante 2x 2700W Netzteile
@@ -349,7 +349,7 @@ bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
 bis zu 1x PCI-E 5.0 x16 Slot (OCP)
 bis zu 4x GPU/MIC (max. 400 Watt TDP)
-D22z-M2-ZG-4xGPU Ab 30.192,36 €
+D22z-M2-ZG-4xGPU Ab 30.212,43 €
 AMD Dual EPYC Hochleistungs-Server:
 2HE Rack-Chassis (luftgekühlt)
 redundante 2x 2700W Netzteile
@@ -360,7 +360,7 @@ bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
 bis zu 1x PCI-E 5.0 x16 Slot (OCP)
 bis zu 4x GPU/MIC (max. 400 Watt TDP)
-D12z-M2-ZT-4xGPU Ab 16.815,68 €
+D12z-M2-ZT-4xGPU Ab 16.826,87 €
 AMD EPYC Hochleistungs-Server:
 2HE Rack-Chassis (luftgekühlt)
 redundante 2x 2700W Netzteile
@@ -371,7 +371,7 @@ bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
 bis zu 1x PCI-E 5.0 x4 Slot (OCP)
 bis zu 4x GPU/MIC (max. 400 Watt TDP)
-D12z-M1-ZT Ab 15.148,69 €
+D12z-M1-ZT Ab 15.158,77 €
 AMD EPYC Hochleistungs-Server:
 1HE Rack-Chassis (luftgekühlt)
 redundante 2x 1300W Netzteile

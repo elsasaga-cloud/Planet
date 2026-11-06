@@ -1,4 +1,4 @@
-# SC-1793 axisindia.in · home · https://axisindia.in/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1793 axisindia.in · home · https://axisindia.in/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Axis Solutions | Analytical, Automation & Engineering Solutions
 About Us
 Brand Story
@@ -140,6 +140,9 @@ Blog
 Calculator Library
 Podcasts
 Axis Chronicles
+05.11.2026
+Case Studies
+Reading the meteorological parameters. Understanding the site.
 31.10.2026
 Axis Chronicles
 October 2026 Edition | PEOPLE. PRINCIPLES. PROGRESS.
@@ -266,9 +269,6 @@ HVAC Systems for the Gas Processing plant
 29.08.2024
 Whitepaper
 Advanced Analysis Techniques for Detecting Hydrocarbons in Water
-06.05.2024
-Case Studies
-PTA Process Optimization for IOCL Panipat
 11.03.2024
 Whitepaper
 Upholding Good Manufacturing and Engineering Practices demonstrated by Axis
@@ -322,5 +322,4 @@ Sales Head
 "Representing Axis in the market is an honor. Their 26-year-old brand is synonymous with quality, making our job as channel partners much more effective."
 Signature Technology
 Managing Partner
-"Seeing the Axis facility firsthand confirmed why they’ve led the market for 26 years. The precision and scale of their manufacturing are equal to any global standard."
-STER-IoT
+"Seeing the Axis facility firsthand confirmed why they’ve led the market for 26 years. The precision and scale of their manufacturing are equal to any globa

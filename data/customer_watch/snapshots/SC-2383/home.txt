@@ -1,4 +1,4 @@
-# SC-2383 3grouterstore.co.uk · home · https://routerstore.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2383 3grouterstore.co.uk · home · https://routerstore.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 The Router Store | 4G & 5G Routers | Teltonika Diamond Partner
 Skip to navigation
 Skip to content Best Sellers Proroute H820 4G Router CAT4
@@ -13,6 +13,7 @@ Teltonika RUT200 4G Router
 RUT901 4G Router
 RUT906 4G Router
 RUTX50 5G Router
+RUT241 4G Router
 RUT951 4G Router
 RUT956 4G Router
 WiFi Access Points (TAP)
@@ -160,13 +161,13 @@ Industrial Networking Solutions for IoT and M2M
 5G Routers , Outdoor 5G Router , Teltonika , Teltonika 5G Routers Teltonika OTD500 Outdoor 5G Router (POE IN / POE OUT)
 0 out of 5
 (0)
-The Teltonika OTD500 is a robust outdoor 5G router designed for mission-critical connectivity in challenging environments. Featuring advanced 5G technology, dual SIM support, and IP55 weatherproof construction, this router delivers high-speed internet access for industrial, remote, and mobile applications.
-Key Features:
-Advanced 5G Connectivity: Ultra-fast download speeds up to 3.4 Gbps with support for both SA and NSA modes.
-Rugged Outdoor Design: IP55 weatherproof rating and operational range from -40°C to +55°C for harsh environments.
-Dual SIM Redundancy: Two Mini SIM card slots with automatic network switching for uninterrupted connectivity.
-Versatile Networking: Equipped with 2x Gigabit Ethernet ports and Power over Ethernet (PoE) support.
-Low Power, High Performance: Energy-efficient design with idle consumption <2.5W and maximum <9W, ideal for remote deployments.
+Outdoor 5G router for wall or pole mounting: the modem and four internal antennas sit outside where the signal is strongest, and one Ethernet cable brings data and power indoors.
+5G SA/NSA, up to 3.4 Gbps download; 4G Cat 19 fallback
+Covers the UK 5G and 4G bands, including n78 and 700/800 MHz
+Dual Mini SIM plus eSIM with automatic failover
+2 x Gigabit Ethernet, PoE in (802.3af/at) and PoE out (802.3af, up to 15 W)
+IP55, -40 °C to 55 °C, RutOS and Teltonika RMS
+Order code OTD500100000. PoE injector not included: add the Teltonika PR322UK7 Gigabit PoE injector (UK plug)
 SKU: TELTONIKA-OTD500100000-N
 £ 395.00 Excl VAT Add to basket
 4G Routers , Teltonika , Teltonika 4G Routers Teltonika RUT200 4G LTE Industrial Cellular Router
@@ -266,4 +267,8 @@ Key Features:
 • Dual-band Wi-Fi 5 (802.11ac Wave 2) — up to 867 Mbps, up to 150 clients
 • GNSS: GPS, GLONASS, BeiDou, Galileo, QZSS
 • Digital input and digital output on 4-pin industrial power connector
-• 9–50 V DC wide-rang
+• 9–50 V DC wide-range input, passive PoE via LAN1 (Mode B)
+• Full VPN suite: OpenVPN, IPsec, WireGuard, ZeroTier, DMVPN, Tailscale
+• RutOS with Modbus TCP, OPC UA, DNP3, DLMS/COSEM, MQTT
+• Teltonika RMS compatible — remote management, FOTA, RMS Connect
+• Operating temperature: -40 to +75 °C, IP30, DIN rail / 

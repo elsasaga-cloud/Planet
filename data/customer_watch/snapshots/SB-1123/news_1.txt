@@ -1,4 +1,4 @@
-# SB-1123 connectec.uk · news_1 · https://connectec.uk/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1123 connectec.uk · news_1 · https://connectec.uk/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 Blog
 GBP
 EUR Euro
@@ -66,47 +66,47 @@ ALL ARTICLES
 How to Install a Simple Door Access Control System
 28/09/2026
 Neil Levett
-502
+507
 Security
 Read More
 Hikvision AcuSeek: A Smarter Way to Search CCTV Footage
 11/09/2026
 Neil Levett
-865
+884
 Security
 Read More
 Exciting News! Connectec is Moving to a Bigger Home
 16/07/2026
 Neil Levett
-1478
+1479
 News
 We are moving to larger premises and will be closed between 20th and 24th July
 Read More
 Martyn’s Law: Strengthening Security and How Connectec Can Help
 29/08/2025
 Neil Levett
-571
+574
 Security
 Martyn’s Law is a legislation designed to protect the public against terrorist threats. Connectec can help implement with a range of security products
 Read More
 ColorVu 3.0: Hikvisions all new AI-powered colour night vision
 16/06/2025
 Neil Levett
-7839
+7844
 Security
 ColorVu 3.0 is Hikvisions all new AI-powered night vision which allows for better noise reduction and enhanced image detailing
 Read More
 Understanding DORI in CCTV Cameras: A Comprehensive Guide
 30/01/2025
 Neil Levett
-31074
+31091
 Security
 DORI (Detection, Observation, Recognition, and Identification) is a set of guidelines that help users understand the cameras performance capabilities
 Read More
 Copper Data Cable Explained - What is the best cable to suit my needs?
 03/09/2024
 Neil Levett
-9216
+9221
 Cable
 Explaining the different types of copper data cable, including coax, cat 5, cat 6 and cat 7, UTP, FTP, LSZH and other variants
 Read More
@@ -120,14 +120,14 @@ Read More
 Unlock the Power of Wireless with EZVIZ EP7 Video Intercom
 13/06/2024
 Neil Levett
-7816
+7818
 Security
 The EZVIZ EP7 is a battery powered 2K HD Smart Video Intercom Door phone Kit with solar panel which maximizes the convenience for remote viewing
 Read More
 Exploring HiTools Designer: Unlocking the Potential of Hikvision's Software
 01/10/2024
 Neil Levett
-8664
+8673
 Security
 Understanding HiTools Designer. The specialized software developed by Hikvision to assist in the design and planning of surveillance systems.
 Read More

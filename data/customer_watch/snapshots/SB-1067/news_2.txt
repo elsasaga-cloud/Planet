@@ -1,4 +1,4 @@
-# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Support and Knowledge Base | Raytel Security Systems
 This website uses cookies to provide you with a full set of features. For more information on our cookie usage see our Privacy Policy page. You consent to our cookies by continuing to use this site.
 OK
@@ -123,7 +123,7 @@ K99 KeyPad - Programming and configuration Pre 2022
 K99i Keypad - Programming and configuration (for use in Raytel Entrance Panels)
 Soyal AR-888 Series Controllers/Readers/Exit buttons
 Soyal AR-888H Controller - Quick setup guide
-Soyal AR-888 Series-Manufacturers configuration details
+AR-716E-RAY-AJ Two Door Controller - May 2021 onwards - Installation and Setup Manual
 Software - Click here for all Articles
 Door Entry Vimar - IP Software Link
 Soyal USB to RS485 (AR-321CM) Driver - Software
@@ -142,11 +142,11 @@ Vimar WiFi Monitors 40515 and 40517 (Tab5S & Tab7S) User and installer configura
 Vimar Door Entry Overview
 Soyal AR-888 Series Controllers/Readers/Exit buttons
 Soyal AR-888H Controller - Quick setup guide
-Soyal AR-888 Series-Manufacturers configuration details
 AR-716E-RAY-AJ Two Door Controller - May 2021 onwards - Installation and Setup Manual
 AR-727EBR1121-AJ Single Door Controller - Raytel Installation and Setup Guide
 AR-837 Series Single Door Controller - Manufacturers configuration details
 K99 KeyPad - Programming and configuration Pre 2022
+K99i Keypad - Programming and configuration (for use in Raytel Entrance Panels)
 Latest Articles
 AR-716E-RAY-AJ Two Door Controller - May 2021 onwards - Installation and Setup Manual
 Soyal Device Tools 25/07/24

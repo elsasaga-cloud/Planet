@@ -1,4 +1,4 @@
-# SC-2725 todotelecom.com · news_1 · https://www.todotelecom.com/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2725 todotelecom.com · news_1 · https://www.todotelecom.com/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 Blog de Todo Telecom: novedades del sector, eventos y cursos
 965 784 463
 Envío gratuito*
@@ -317,10 +317,10 @@ INSERTADORAS
 -25%
 PROSKIT
 Crimpadora para conectores RJ9, RJ10, RJ11, RJ12, RJ22 y RJ45. Corta y pela el cable. ABS
-11,99 €
-15,99 €
+11,58 €
+15,44 €
 IVA no incl
-14,51 € IVA inc
+14,01 € IVA inc
 Porteros
 PORTEROS ELECTRÓNICOS
 1 VIVIENDA
@@ -433,9 +433,9 @@ VIDEOCONFERENCIA
 VARIOS
 GRANDSTREAM
 Teléfono IP 2 cuenta SIP y 2 teclas de línea, x4 Teclas XML, 132 x 48 (2.21 ) LCD display.
-45,08 €
+46,00 €
 IVA no incl
-54,55 € IVA inc
+55,66 € IVA inc
 Movilidad
 MOVILIDAD
 TRACKERS
@@ -813,8 +813,8 @@ GRAPADORAS y ACCESORIOS
 PELACABLES
 INSERTADORAS
 Crimpadora para conectores RJ9, RJ10, RJ11, RJ12, RJ22 y RJ45. Corta y pela el cable. ABS
-11,99 €
-15,99 €
+11,58 €
+15,44 €
 Porteros
 PORTEROS ELECTRÓNICOS
 1 VIVIENDA

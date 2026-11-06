@@ -1,4 +1,4 @@
-# SB-070 neowine · home · https://neowine.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-070 neowine · home · https://neowine.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 neowine
 팝업레이어 알림
 팝업레이어 알림이 없습니다.
@@ -35,17 +35,16 @@ cha
 사이트 내 전체검색
 검색어 필수
 검색
-복제방지 반도체 (ALPU)
-"2002년부터, 불법 복제 0건, 전 세계 2,000개 기업 2억 개 공급"
-"Since 2002, zero cases of illegal duplication, supplying 200 million units to 2,000 companies worldwide"
-더보기
-ALPU-CV
-Security IC for vehicle, AEC-Q100 class 1 acquired
-더보기
-AI Solution
-AI IP & SW are a solution for AI chip developers and AI application developers.
-They can be used to develop AI chips to parallel process AI data.
-더보기
+ALPU 복제방지 칩
+펌웨어 및 기술 복제 차단
+2004년 출시 이후 불법 복제 0건, 전 세계 2,000개 기업 2억 개 공급
+홍보영상 보기
+제품 보기
+AI 번호판 인식 앱 ‘누구차’
+카메라로 번호판을 인식해 등록 차량인지 즉시 확인
+100% 온디바이스 처리 · B2B 맞춤형 공급
+홍보영상 보기
+Google Play
 ALPU series
 전자기기의 시스템 S/W의 불법복제를
 방지하기 위한 보안반도체 IC
@@ -60,9 +59,10 @@ AI 가속을 위한 NPU IP, 컴파일러
 AI 가속을 위한 GPGPU IP
 AI 반도체 교육 시스템
 자세히 (Detail)
-NeoAI+
-생성형AI기반 개인정보 비식별화 솔루션,
-생성형AI기반 학습데이터 증강, 인공지능 OpenAPI 서비스
+누구차
+AI 번호판 인식 앱
+카메라로 등록 차량인지 즉시 확인,
+100% 온디바이스 처리
 자세히 (Detail)
 NOTICE
 [전시참가결과] 스마트라이프위크 2026 (10/6~10/8, Coex,…
@@ -115,6 +115,8 @@ NPU Inference Demo (네오와인 인공지능 반도체 추론 데모)
 neowine
 07-23
 Video 더보기
+×
+회원·협력 기관
 회사명
 Neowine
 대표

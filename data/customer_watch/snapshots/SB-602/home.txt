@@ -1,4 +1,4 @@
-# SB-602 ANIL · home · https://aniltelekom.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-602 ANIL · home · https://aniltelekom.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Anıl Telekom
 Yükleniyor
 İletişim
@@ -179,6 +179,9 @@ Etkinlikler
 DAHUA VE ANIL TELEKOMÜNİKASYON SAFRANBOLU'DA BİR ARAYA GELDİ.
 21 October 2026 Wednesday
 HİLTON GARDEN INN SAFRANBOLU/KARABÜK
+Anıl Telekom Dahua Showroom Açılış Etkinliği
+04 September 2026 Friday
+Anıl Telekomünikasyon
 Anıl & Dahua Teknik Eğitim ve Akşam Yemeği - TEKİRDAĞ
 14 May 2026 Thursday
 RAMADA BY WYNDHAM TEKİRDAĞ
@@ -339,7 +342,7 @@ E-posta Adresi
 Cep Telefon Numarası (Doğrulama SMS'i gönderilecek)
 Adres
 Katılımcı Sayısı
-Lütfen BALIK simgesini işaretleyiniz
+Lütfen YILDIZ simgesini işaretleyiniz
 IDS - İnsan Doğrulama Sistemi
 Talep Gönder
 SMS Doğrulama

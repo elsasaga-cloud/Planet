@@ -1,4 +1,4 @@
-# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 2026-11-05T07:26:16.792Z	https://www.lastmile.no
 2026-03-27T09:20:21.035Z	https://www.lastmile.no/search
 2026-10-29T12:38:20.467Z	https://www.lastmile.no/kompetanse

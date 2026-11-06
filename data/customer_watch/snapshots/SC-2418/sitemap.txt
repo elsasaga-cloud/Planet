@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
-2026-11-05	https://www.streakwave.com/
-2026-11-05	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06	https://www.streakwave.com/
+2026-11-06	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
@@ -131,6 +131,10 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-05	https://www.streakwave.com/be5100-4-stream-wi-fi-7-dual-radio-nebulaflex-access-point
+2026-11-05	https://www.streakwave.com/be6500-4-stream-wi-fi-7-dual-radio-nebulaflex-access-point
+2026-11-05	https://www.streakwave.com/be15000-8-stream-wi-fi-7-triple-radio-nebulaflex-access-point
+2026-11-04	https://www.streakwave.com/cp965-microsoft-teams-optima-hd-ip-conference-phone
 2026-11-04	https://www.streakwave.com/zvc-s80-c5u-zoom-rooms-system
 2026-11-03	https://www.streakwave.com/zvc-s90-c5u-zoom-rooms-system
 2026-11-03	https://www.streakwave.com/zvc-s98-c5u-zoom-rooms-system
@@ -189,9 +193,4 @@
 2026-10-07	https://www.streakwave.com/24-port-gbe-l3-4x-10g-sfp-nebula
 2026-10-07	https://www.streakwave.com/24-port-gbe-poe-l3-4x-10g-sfp-375w-nebula
 2026-10-07	https://www.streakwave.com/48-port-gbe-l3-4x-10g-sfp-nebula
-2026-10-07	https://www.streakwave.com/48-port-gbe-poe-l3-4x-10g-sfp-375w-nebula
-2026-10-07	https://www.streakwave.com/50-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/500-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/200-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/20-zyxel-nebula-points-for-nss
-2026-10-07	https://www.streakwave.com/100
+2026-10-07	http

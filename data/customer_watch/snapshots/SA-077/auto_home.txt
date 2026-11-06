@@ -1,88 +1,131 @@
-# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · auto_home · https://www.angoranetworks.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
-Anasayfa - Angora Networks
-Sorularınız için
+# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · auto_home · https://www.angoranetworks.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+Angora Networks | Yerli Network Switch, Packet Broker ve Veri Diyotu Üreticisi İçeriğe geç Ürünler Ağ Ürünleri
+Network Switch Ailesi
+Verge Switch
+Synapse Switch
+Hitit Switch
+Iris SFP
+Angora NMS
+Güvenlik
+Karınca Packet Broker
+ARROW Veri Diyotu
+Arı SD-WAN
+Sanal Masaüstü
+ThinCE VDI ↗
+OEM/ODM
+Hizmetler
+Dokümantasyon
+İş Ortakları
+Haberler
+Hakkımızda
+İletişim
+My Angora ↗ TR
+EN
+RU
+Angora Networks
+Türkiye’nin yerli ağ cihazları üreticisi
+Kurumsal ağlar için yönetilebilir switch, SFP, network packet broker, veri diyotu ve SD-WAN cihazlarını Ankara’da tasarlıyor ve üretiyoruz.
+Tüm ürünler Bize ulaşın
+Verge Switch → Hitit Switch → Iris SFP → Angora NMS → Karınca Packet Broker → ARROW Veri Diyotu → Arı SD-WAN →
+Ürünler
+Tümü Ağ Ürünleri Güvenlik
+Ağ Ürünleri
+Network Switch Ailesi
+Angora Networks yerli network switch aileleri: Verge, Synapse ve Hitit. Erişim, kurumsal, endüstriyel ve veri merkezi için yönetilebilir Ethernet anahtarları.
+İncele →
+Ağ Ürünleri
+Verge Yerli Network Switch Ailesi
+Verge, Angora Networks’ün yerli yönetilebilir network switch ailesidir: 8, 24, 32 ve 48 port gigabit, 10G fiber uplink, PoE, endüstriyel ve veri merkezi modelleri.
+İncele →
+Ağ Ürünleri
+Synapse Network Switch Ailesi
+Synapse kurumsal network switch ailesi: 8–48 port Gigabit PoE+, 10G SFP+ uplink, 216 Gbps’e kadar anahtarlama kapasitesi. Modeller ve teknik özellikler.
+İncele →
+Ağ Ürünleri
+Hitit Network Switch Ailesi
+Hitit yerli kenar (edge) network switch ailesi: modeller, port seçenekleri ve teknik özellikler.
+İncele →
+Ağ Ürünleri
+Iris SFP Ailesi
+Iris, Angora Networks’ün yerli SFP, SFP+, SFP28 ve QSFP28 modül ailesidir; yaygın switch markalarıyla uyumlu, 1G’den 100G’ye fiber ve bakır seçenekleri.
+İncele →
+Ağ Ürünleri
+Angora NMS Ağ Yönetim Sistemi
+Angora NMS, ağ cihazlarınızı tek ekrandan izlemenizi, yapılandırmanızı ve raporlamanızı sağlayan yerli ağ yönetim sistemidir.
+İncele →
+Güvenlik
+Karınca Yerli Network Packet Broker
+Karınca, yerli network packet broker’dır: 48x25G ve 6x100G portta 1 Tbps’e kadar trafik dağıtımı, L2–L7 filtreleme, yük dengeleme ve sürükle-bırak arayüz.
+İncele →
+Güvenlik
+ARROW Veri Diyotu
+ARROW, kritik altyapılar için donanım tabanlı tek yönlü veri aktarımı sağlayan yerli veri diyotudur; ModBUS ve OPC dahil endüstriyel protokolleri destekler.
+İncele →
+Güvenlik
+Arı Yerli SD-WAN Güvenlik ve Servis Donanımları
+Arı, SD-WAN, güvenlik ve ağ servisleri için ihtiyaca göre özelleştirilebilen yerli donanım platformudur.
+İncele →
+2016
+yılından beri yerli üretim
+81
+ile yayılan bayi ve servis ağı
+9
+ürün ailesi
+100 G
+hıza kadar port seçenekleri
+Yerli Akıl, Küresel Teknoloji
+Angora Networks, 2016 yılından bu yana tamamen kendi öz sermayesiyle ağ cihazları geliştiren ve üreten yerli bir üreticidir. Ürünlerimiz endüstri standartlarına uyumludur, tüm fonksiyonlarıyla ilk günden çalışır ve sahada kullanılmaya hazırdır.
+Yerli tasarım ve üretim: Donanım ve yazılım Ankara’da geliştirilir; ürünler ihtiyaca göre özelleştirilebilir.
+Uçtan uca portföy: Erişim ve veri merkezi switch’lerinden ağ görünürlüğü ve güvenlik cihazlarına kadar tek üretici.
+Yakın destek: 81 ile yayılan bayi ve servis ağı, çevrimiçi destek ve sürekli güncellenen dokümantasyon.
+Profesyonel hizmetler: Ağ tasarımı, kurulum, eğitim ve OEM/ODM özgün tasarım hizmetleri.
+Referanslarımız
+Haberler
+Tüm haberler →
+6 Aralık 2023
+Angora Networks® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı
+Cisco ISE entegrasyonu
+2 Ekim 2022
+Görünürlük, Güvenlik, Maliyet: Packet Broker
+Angora Networks Resmi Sayfasıdır. Angora Networks Official Website
+1 Eylül 2021
+Angora Networks® PacketFence NAC entegrasyonu tamamladı.
+Cisco ISE entegrasyonu
+Size nasıl yardımcı olabiliriz?
+Kurumsal ağınızla ilgili ihtiyaçlarınızı birlikte değerlendirelim.
+Bize ulaşın
+Türkiye’de tasarlanır ve üretilir.
+LinkedIn
+X
+Instagram
+YouTube
+Ürünler
+Network Switch Ailesi
+Verge Switch
+Synapse Switch
+Hitit Switch
+Iris SFP
+Angora NMS
+Karınca Packet Broker
+ARROW Veri Diyotu
+Arı SD-WAN
+Angora Networks
+Hakkımızda
+Hizmetler
+Dokümantasyon
+İş Ortakları
+Haberler
+Dokümanlar
+İletişim
+Gizlilik
+My Angora ↗
+Ofislerimiz
+Satış
+Nergiz Sokak No:7, Via Flat Plaza Cubes, Söğütözü
+06560 Ankara, Türkiye
+Üretim
+Çamlıca Mh. Anadolu Blv. Timko Sk. Z Blok No:20/1, Yenimahalle
+06200 Ankara, Türkiye
 +90 312 241 7747
 [email protected]
-Ürünlerimiz
-Network Ürünleri
-Verge Network Switch Ailesi
-Synapse Network Switch Ailesi
-Hitit Network Switch Ailesi
-Iris SFP Ailesi
-Network Management
-Güvenlik
-Karınca Network Packet Broker
-Arı Yerli SD-WAN Güvenlik ve Servis Donanımları
-VIRTUAL Desktop
-ThinCE VDI
-Özgün Tasarım (OEM/ODM) Hizmeti
-Hizmetlerimiz
-Profesyonel Hizmetler
-Eğitim ve Dökümantasyon
-İş Ortakları
-İş Ortağı ol
-Biz
-Angora
-İletişim
-My Angora
-Destek
-Angora Networks
-ARI
-Güvenlik ve Servis Donanımları
-Angora ARI donanımları sayesinde farklı güvenlik ihtiyaçlarınız için marka bağımsız çözümler uygulayabilir ve bağımsız güvenlik mimarinizi yaratabilirsiniz.
-Şimdi Bilgi Alın
-Angora Networks
-KARINCA
-Network Packet Broker
-Türkiye'nin ağ paket dağıtıcısı ile kurumsal ağınızın güvenliğini en üst noktaya taşıyın.
-Şimdi Bilgi Alın
-YERLİ AKIL KÜRESEL TEKNOLOJİ
-Türkiye'nin Yerli
-Network Donanımı Üreticisi
-Ürünlerimiz
-Hizmetlerimiz
-Angora Networks
-Tasarım Servisleri
-Özgün Tasarım / OEM-ODM Servisleri
-Angora Tasarım Servisi ile ihtiyaçlara uygun tüm bileşenleri ile tamamlayıcı, ve sahaya çıkmaya hazır çözümlere ulaşın
-Şimdi Bilgi Alın
-Network Cihazları Tasarımı ve Üretimi
-İşinize özgü sorunlarınız için işinize özel çözümler
-Network Cihazları
-Kurumsal ağınızın altyapısı için güvenilir, yüksek kapasiteli ve farklı erişim ihtiyaçlarınızı karşılayabilecek, yeni nesil yönetilebilir ve özelleştirilebilir network ürünleri.
-Anahtarlar
-SFP
-İnce İstemci
-Hizmetlerimiz
-Ağ teknolojileri ve güvenliği konusunda uzman kadromuzla profesyonel hizmetler sunuyoruz. Elimizi taşın altına koyuyor ve sorunlarınızı özenle çözüyoruz. İş hedeflerini desteklemek için sınıfının en iyisi teknoloji ile uzmanlığımızı bir araya getiriyoruz.
-Danışmanlık
-Eğitimler
-Haberler
-12/06/2023
-Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı
-Ankara, Türkiye – 05 Aralık 2023 – Türkiye İletişim Ağı ekipmanları sektöründe lider olan Angora Networks®, bugün siber güvenlik teknolojisinde önemli bir ilerleme kaydettiğini duyurdu. Şirket, […]
-Beğendiniz mi? 3
-Oku
-10/02/2022
-Görünürlük, Güvenlik, Maliyet: Packet Broker
-Geleneksel ve eski teknlojilerin kullanıldığı ağ güvenliği yapılarında temel olarak bir güvenlik duvarı ve üzerindeki portlara bağlı alanlar bulunmaktaydı. Yeni bir alan ihtiyacı olduğunda, yeni bir […]
-Beğendiniz mi? 3
-Oku
-09/01/2021
-Angora Networks ® PacketFence NAC entegrasyonu tamamladı.
-Ankara, Türkiye – 26 Ağustos 2021 – Türkiye’nin önde gelen ve yenilikçi İletişim Ağı ekipmanı üreticisi Angora Networks ® Açık Kaynak kodlu PacketFence NAC entegrasyonunu tamamladı. […]
-Beğendiniz mi? 1
-Oku
-Bilgi almak için beklemeyin Bizi şimdi Arayın!
-Türkiye
-Çamlıca Mh. Anadolu Blv. Timko sk Z Blok No:20/1 Yenimahalle
-Ankara 06200 Türkiye
-Haberler
-Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı
-12/06/2023
-Görünürlük, Güvenlik, Maliyet: Packet Broker
-10/02/2022
-İşletme Bütçesi Nedir?
-İşletme Bütçe Yazılımı
-© Angora Networks. Tüm hakları saklıdır.
-Destek
+© 2026 Angora Networks. Tüm hakları saklıdır.

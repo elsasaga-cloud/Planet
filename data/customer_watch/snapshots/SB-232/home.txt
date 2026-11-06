@@ -1,4 +1,4 @@
-# SB-232 aixontec.com · home · https://aixontec.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-232 aixontec.com · home · https://aixontec.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Kabelkonfektion & Verkabelungslösungen | AIXONTEC Aachen
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -101,7 +101,7 @@ Events & News
 Shop Kategorien
 Netzwerktechnik
 Unsere Systemlösungen
-Industrial Ethernet
+Industrial-Ethernet-Kabel & Steckverbinder
 Datencenter
 LWL Technik
 MDB - Modular Distribution Box
@@ -114,7 +114,7 @@ Hersteller-Shops
 Home
 Netzwerktechnik
 Unsere Systemlösungen
-Industrial Ethernet
+Industrial-Ethernet-Kabel & Steckverbinder
 Datencenter
 LWL Technik
 MDB - Modular Distribution Box

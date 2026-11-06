@@ -1,4 +1,4 @@
-# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 ADDER AKCP HW-group kvm-tec Moxa Neol - Leunig
 sales@leunig.de
 0800 40 77 88 1 ( +49 8631 986000 )
@@ -49,10 +49,7 @@ Wassersensor
 Potentialfreier Kontakt und Relais
 Bewegung, Vibration, andere Sensoren
 GSM, SMS Alarmierung
-1 - 3 Port Gerät
-4 - 8 Port Gerät
-8 Port Gerät">
-> 8 Port Gerät
+Monitoring-Systeme
 Serverraum Überwachung anzeigen
 Industrie-Komponenten
 Industrie-Komponenten anzeigen
@@ -112,10 +109,20 @@ USB Hub
 Serielle Kommunikation anzeigen
 USV
 USV anzeigen
+Delta Amplon USV
+Delta Amplon USV anzeigen
+Amplon MX
+Amplon RT
+Amplon RT PRO
+Line-Interactive USV
 USV Anlage 19"
-USV Anlage Batteriemodul erweiterbar
 USV Anlage einphasig 1ph
+USV mit erweiterbarer Laufzeit (externe Batteriemodule)
 USV Online-Doppelwandler
+USV Zubehör
+USV Zubehör anzeigen
+Batteriemodule
+SNMP Kommunikation
 USV anzeigen
 ServerLift
 ServerLift anzeigen

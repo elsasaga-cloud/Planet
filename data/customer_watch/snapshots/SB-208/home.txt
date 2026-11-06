@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-06T09:32:27Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,35 +66,39 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-RCA-uros ja RCA-naaras riviliitinsovitin
-Voi liittää riviliitosovittimeen kuoritut päiset johdot. Sovittimeen voidaan liittää yksittäisiä RCA-liitännällä varustettuja...
-7,40 €
-Delock kääntökytkin 22 mm 3 x juotosliitäntä
-Tämä Delockin kytkin sopii erinomaisesti asennettavaksi ohjauspaneeleihin esimerkiksi...
-14,50 €
-Kyynärtuki tekonahka, musta
-Kyynärtuessa erittäin syvä mahakolo, keskikohta vain 5 cm kapea.
-Tämä kyynärtuki...
-129,00 €
-Delock USB 3.2 Gen 1 Type-C hub 3 x USB-C + 1 x USB-C PD 100W
-Delockin USB-hubi on kannettava kaveri tietokoneelle tai tabletille, jossa...
-34,00 €
-Delock USB Type-C - HDMI 2m 8K 60Hz kaapeli
-Kaapeli tietokoneen USB Type-C / Thunderbolt 3 liitännästä näyttöön jossa...
-45,00 €
-Everki Onyx Premium 17,3" kannettavan reppu
-Todella laadukas Everki Onyx Premium
-17,3" (36 L) kannettavan tietokoneen...
-395,00 €
-Microsoft Windows 11 Home 64bit Retail USB FI
-Windows 11 Home Retail lisenssipaketti. Asennusmedia tulee USB muistitikulla. Kuvaus: Windows...
-155,00 €
-Delock USB-C / Thunderbolt 3 SD Express + CFexpress kortinlukija
-Delockin kortinlukijaa voidaan käyttää SD Express- ja...
-106,00 €
-Apple MacBook Pro M5 - Apple M5 10-core - 32 Gt RAM - 1 Tt SSD - 14.2" 3024 x 1964 @ 120 Hz - Wi-Fi 6E, Bluetooth - hopea
-Koe...
-2 739,00 €
+Delock Displayport 1.2 jakaja 2-porttia
+Displayport liitännän jakaja kahdelle näytölle.
+Adaptereiden avulla...
+95,00 €
+Epson 503XL Multipack 4-väriä
+Kuvaus: Epson 503XL Multipack - 4 pakettia - XL - musta, keltainen, sinivihreä, magenta...
+130,00 €
+Delock USB 3.2 Gen 2x2 Type-C x 2 PCIE x8 lisäkortti
+PCI Express x8 väyläinen lisäkortti joka tarjoaa kaksi USB 3.2 Gen...
+199,00 €
+Scart - 3 x RCA uros kaapeli 2m
+Scart - 3 x RCA johto jossa signaalin suunnan voi vaihtaa liittimessä olevalla kytkimellä. Liitin...
+12,90 €
+Saatavilla 0 kpl
+3M BRIGHT SCREEN -tietosuojakalvo 13.3" 16:9 kannettavalle
+Hanki vallankumouksellinen uusi yksityisyyssuojus, joka suojaa näytön...
+64,00 €
+Pöytäänkiinnitettävä tai pöydälle vapaasti asennettava tarvike- ja monitoritaso
+Tämä tilaa säästävä pöytätaso lisää säilytystilaa...
+42,90 €
+Saatavilla 5 kpl
+Delock SATA kaapeli 6 Gb/s 0,7m oikeakulma, sininen
+SATA-III 6 Gb/s yhteensopiva kaapeli. Alaspäin yhteensopiva SATA-I, SATA-II kanssa. Toinen liitäntä kulmalla.
+Väri...
+4,90 €
+Delock RJ45 Cat.6 F/UTP uros-naaras On/Off kytkimellä 1 m
+Tämä Delockin RJ45-verkkokaapeli integroidulla kytkimellä mahdollistaa...
+12,00 €
+Saatavilla 2 kpl
+Delock USB - RS-232 muunnin FTDI USB 2.0 pin header D-Sub 9-pin uros
+Delockin USB 2.0–RS-232 -muunnin laajentaa tietokonetta sisäisen...
+26,00 €
+Saatavilla 2 kpl
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

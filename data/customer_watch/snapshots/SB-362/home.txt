@@ -1,4 +1,4 @@
-# SB-362 maintechconnect.com · home · https://maintechconnect.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-362 maintechconnect.com · home · https://maintechconnect.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Main Tech Connect
 – Maintechconnect.com
 Skip to content
@@ -81,21 +81,48 @@ Check out
 Continue shopping
 New Products
 The latest product arrivals - fast selling!
-18-Port L2+ Fully Managed PoE++ Switch with 16 Gigabit Ethernet Ports and 2 Base-T/SFP Combo Ports
+Example product title
 Regular price
-$489.99 USD
+$19.99 USD
 Regular price
 Sale price
-$489.99 USD
+$19.99 USD
 Unit price
 /
 per
-26-Port L2+ Fully Managed PoE++ Switch with 24 Gigabit Ethernet Ports and 2 Base-T/SFP Combo Ports
+Example product title
 Regular price
-$549.99 USD
+$19.99 USD
 Regular price
 Sale price
-$549.99 USD
+$19.99 USD
+Unit price
+/
+per
+Example product title
+Regular price
+$19.99 USD
+Regular price
+Sale price
+$19.99 USD
+Unit price
+/
+per
+Example product title
+Regular price
+$19.99 USD
+Regular price
+Sale price
+$19.99 USD
+Unit price
+/
+per
+Example product title
+Regular price
+$19.99 USD
+Regular price
+Sale price
+$19.99 USD
 Unit price
 /
 per

@@ -1,4 +1,4 @@
-# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://adin.it/
 	https://adin.it/it/prodotti/
 	https://adin.it/it/k-new-2/
@@ -37,6 +37,7 @@
 	https://adin.it/it/supporto/
 	https://adin.it/it/contatti/
 	https://adin.it/it/news/
+	https://adin.it/it/news-2026-11-06-scopri-subito-le-nuove-telecamere-tvt-s/
 	https://adin.it/it/news-2026-10-21-chiusura-30-ottobre-2026/
 	https://adin.it/it/news-2026-09-07-nuovi-alimentatori-led-driver-ip67-ying/
 	https://adin.it/it/news-2026-07-28-comunicazione-importante-sito-ufficiale/
@@ -195,5 +196,4 @@
 2023-11-23	https://adin.it/it/switch-ethernet-industriali/aivuswi08gpm/
 2023-11-23	https://adin.it/en/switch-ethernet-industriali/aivuswi08gpm/
 2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10/
-2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivuswi24g10/
-2020-12-02	https://adin.it/it/telecamere-ip-bullet
+2026-11-03	https://adin.it/en/switch-ethe

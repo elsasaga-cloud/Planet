@@ -1,4 +1,4 @@
-# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-06T09:32:27Z · HTTP 200
 Logicbus | Industrial Automation, Sensors, PLCs & Test Equipment
 Skip to content
 Tienda en español
@@ -220,6 +220,11 @@ Fatek Advanced HMI Screen P5B Series 7"TFT LCD Flash 256Mb RAM 128Mb 32bit CPU w
 (0)
 $426.40
 In stock.
+FSH04016
+QLA286 / 3000 lb / Tension & Compression In-line Load Cell / Material - 17-4 PH S.S. / 1/2-20-Thread / 26 Awg 4 Conductor Braided Shielded Teflon Cable / 10 ft Long/ exit out of the bottom
+(0)
+$1,798.00
+Check availability in chat.
 PR58-1_MQTT_2001
 This WiFi Temperature Humidity Sensor for MQTT was developed to work with any MQTT Broker. As one of the world's most popular IoT protocols, MQTT is an essential, easy to use tool for viewing data from a wireless sensor device. Therefore, connectivity of the NCD ecosystem of IoT wireless sensors remains a top priority for the NCD engineering team.
 (0)
@@ -260,31 +265,6 @@ Industrial keyboard in Spanish with 65 keys laser engraved including ñ key and 
 (0)
 $150.50
 Check availability in chat.
-RHTemp1000Ex
-ATEX/IECex Approved Humidity and Temperature Data Logger
-(0)
-$489.00
-Check availability in chat.
-FSH04016
-QLA286 / 3000 lb / Tension & Compression In-line Load Cell / Material - 17-4 PH S.S. / 1/2-20-Thread / 26 Awg 4 Conductor Braided Shielded Teflon Cable / 10 ft Long/ exit out of the bottom
-(0)
-$1,798.00
-Check availability in chat.
-FSH04205
-LSB201, 250g, JR S-Beam Load Cell 2.0, Overload Protection, RoHS Compliant, Material - 17-4 PH S.S., M3x0.5-Thread, 29 Awg 4 Conductor Spiral Shielded Silicone Cable, 5 ft Long
-(0)
-Discontinued
-Check information in Chat.
-FSH04088
-LSB200 , 10 g , JR S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Overload Protection , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
-(0)
-$2,098.00
-Check availability in chat.
-100.200.00
-Controllino Mega Industrial PLC
-(0)
-Discontinued
-Check information in Chat.
 100.100.00
 Controllino Maxi Industrial PLC 100.100.00
 (0)
@@ -320,6 +300,21 @@ LTH350 , 250 lb , Through Hole Donut Load Cell , RoHS Compliant, Material - 17-4
 (0)
 $1,098.00
 Check availability in chat.
+FSH04205
+LSB201, 250g, JR S-Beam Load Cell 2.0, Overload Protection, RoHS Compliant, Material - 17-4 PH S.S., M3x0.5-Thread, 29 Awg 4 Conductor Spiral Shielded Silicone Cable, 5 ft Long
+(0)
+Discontinued
+Check information in Chat.
+FSH04088
+LSB200 , 10 g , JR S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Overload Protection , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
+(0)
+$2,098.00
+Check availability in chat.
+FSH04000
+LCM300 , 250 lb , Tension & Compression Load Cell (Miniature/Inline Threaded) , RoHS Compliant , IP67 Rated, Material - 17-4 PH S.S. , M6x1-Thread , 4 Pin Micro Receptacle
+(0)
+$998.00
+Check availability in chat.
 Z111
 Z111 allows a conversion of a frequency signal and provides a mA/V standard output signal.
 (0)
@@ -335,20 +330,15 @@ LSB302 , 100 lb , Tension & Compression Load Cell , RoHS Compliant, Material - 2
 (0)
 Discontinued
 Check information in Chat.
+FSH03863
+LSB210 , 2 lb , JR. S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Submersible , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
+(0)
+Discontinued
+Check information in Chat.
 Z-4RTD2
 Module with 4 independent and isolated input channels for platinum or nickel RTD (with 2,3 or 4 wires). RS-485 port. Modbus RTU communication (Requires Z-PC-DINAL2-17.5), MicroUSB on the front panel, power supply 10 ~ 40 Vdc or 19 ~ 28 Vac
 (0)
 $325.21
 Check availability in chat.
 6069-410-032
-USB-DIO96H with 96 high-current channels, logic-level, bidirectional digital I/O and counter operation designed with a heavy-duty chassis
-(1)
-$522.00
-Check availability in chat.
-SSR-IDC-05
-Solid-State Relay Module/ Single/ DC Sense/ 3 to 32 VDC
-(0)
-Discontinued
-Check information in Chat.
-PC301MT-0
-PyroCouple infra-red temperature sensor with 30
+USB-DIO96H with 96 high-current channels, logic-level, bidirectional digital I/O and counter operati

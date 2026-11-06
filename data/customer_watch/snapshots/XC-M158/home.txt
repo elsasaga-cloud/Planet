@@ -1,4 +1,4 @@
-# XC-M158 Santa Clara Systems, Inc. · home · https://www.santaclarasystems.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# XC-M158 Santa Clara Systems, Inc. · home · https://www.santaclarasystems.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Industrial Controls Distributor - Santa Clara Systems
 Toggle Navigation
 1.888.450.0301
@@ -35,30 +35,30 @@ Santa Clara Systems, Inc. is a distributor of factory automation and industrial 
 As wholesale electrical consolidators, Santa Clara Systems maintains an inventory of new and obsolete parts utilized in all areas of the manufacturing and industrial sectors.
 In addition to the large inventory, Santa Clara Systems provides expert overnight, same-day and after-hours emergency shipping services to get key electrical components safely to you or your customer.
 See More
-1756-BATA (BATTERY)
+1769-BA (BATTERY)
 Allen Bradley
-871TM-BH2N12-C2
+440P-CRPS11B
 Allen Bradley
-440N-ZPREC
+800F-PX01
 Allen Bradley
-1756-BA1 (BATTERY)
+X-307923
 Allen Bradley
-140M-C2E-C10
-Allen Bradley
-802T-ATP
-Allen Bradley
-E50DR1
-Cutler-Hammer
-872C-D2NP8-D4
-Allen Bradley
-G2R-2-SND-DC24(S)
-Omron
-P1KY002
+P1PY108
 Wenglor
-X-181170
+WL27-3P3402S13
+Sick
+A22W-3MG
+Omron
+FNQ-R-20
+Bussmann
+KTK-R-1
+Bussmann
+1492-J6
 Allen Bradley
-800FM-LE7
-Allen Bradley
+K16
+Wenglor
+KTK-R-30
+Bussmann
 Customers we work with
 We Deliver!
 ✓ Late West Coast Shipping (5PM PST)
@@ -67,7 +67,7 @@ We Deliver!
 ✓ Same-Day Service
 ✓ In-House Courier
 What our customers say
-“ I am very satisfied with quick response on quotes and delivery along with the great price ”
+“ They were very nice and helpful on the phone. The order shipped promptly and everything arrived in good condition. Great customer service! ”
 Read More
 Downloads
 Feel free to download these helpful documents to assist in your part search.

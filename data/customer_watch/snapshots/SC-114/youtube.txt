@@ -1,4 +1,4 @@
-# SC-114 Siklu Communication · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCLj2pBpXDAUR2ASM8ZzxZOg · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-114 Siklu Communication · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCLj2pBpXDAUR2ASM8ZzxZOg · fetched 2026-11-06T09:32:27Z · HTTP 200
 2026-11-05T09:16:50+00:00	How Communications Networks Are Powering Utility Modernisation	https://www.youtube.com/watch?v=32yJlX3nrZU
 2026-10-14T17:30:18+00:00	“When you do things with purpose, excellence becomes a side effect.”	https://www.youtube.com/shorts/5qMwk88ilBE
 2026-10-14T15:00:15+00:00	Is network architecture really a one-time decision?	https://www.youtube.com/shorts/etRFMDErAJQ

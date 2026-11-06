@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,10 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1782 result(s)
+1783 result(s)
+Can ERP Really Launch in Months? How Odoo QuickStart Makes It Happen
+Nov 5, 2026
+Business Hacks
 Virose Gestión Laboral: How an HR Consultancy Boosts Its Business with Odoo
 Nov 4, 2026
 Customer Reviews
@@ -219,9 +222,6 @@ Business Hacks
 How Specialty Turf and Robotics Launched Its Autonomous Mowing Business With Odoo
 Oct 27, 2026
 Customer Reviews
-Real-time data, native integration, and smart reporting to elevate modern retail businesses
-Oct 27, 2026
-Business Hacks
 1
 2
 3

@@ -1,4 +1,4 @@
-# SC-2609 partizanstore.eu · home · https://www.partizanstore.eu/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2609 partizanstore.eu · home · https://www.partizanstore.eu/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Partizan Store Europe – You see. You control.
 Cookie consent
 Tento web používá soubory cookie. Dalším procházením tohoto webu vyjadřujete souhlas s jejich používáním. Více informací zde
@@ -87,7 +87,7 @@ Kód: 3623
 Novinka
 5Mp PTZ IP camera IPD-VF5MP-IR PTZ Starlight v1.0
 Skladem
-(20 ks)
+(19 ks)
 Kód: 8910
 Novinka
 8Mp 16kanálový IP rekordér NVH-1622 v1.1 Cloud
@@ -109,7 +109,7 @@ Kód: 6004
 Novinka
 8Mp 8kanálů AHD rekordér ADH-18V UltraHD v5.1
 Skladem
-(2 ks)
+(8 ks)
 Kód: 6630
 Novinka
 8Mp PTZ IP kamera IPS-230X-IR 4K FADA SH

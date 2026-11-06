@@ -1,4 +1,6 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-06T09:32:27Z · HTTP 200
+Fri, 06 Nov 2026 09:02:18 +0000	Kyland obtiene una nueva certificación IEC 62443-4-2 para sus switches Ethernet industriales SICOM y AQUAM	https://www.davantel.com/kyland-obtiene-una-nueva-certificacion-iec-62443-4-2-para-sus-switches-ethernet-industriales-sicom-y-aquam
+Fri, 06 Nov 2026 09:00:00 +0000	Modbus a MQTT en el edge: Transformando datos de PLC en información industrial IoT lista para la nube	https://www.davantel.com/modbus-a-mqtt-en-el-edge-transformando-datos-de-plc-en-informacion-industrial-iot-lista-para-la-nube
 Thu, 05 Nov 2026 09:00:00 +0000	Meter bus: cómo conectar contadores M-Bus	https://www.davantel.com/meter-bus
 Wed, 04 Nov 2026 09:00:00 +0000	eSIM vs eUICC vs SIM Física para IoT Industrial: Por qué el Robustel R1520e Global es Ideal para Despliegues Híbridos	https://www.davantel.com/esim-vs-euicc-vs-sim-fisica-para-iot-industrial-por-que-el-robustel-r1520e-global-es-ideal-para-despliegues-hibridos
 Tue, 03 Nov 2026 09:00:00 +0000	10 usos para trackers Teltonika – ¿qué modelo usar?	https://www.davantel.com/tracker-teltonika
@@ -55,6 +57,4 @@ Mon, 20 Jul 2026 08:00:00 +0000	Guía para la Conexión de backhaul en gateways 
 Fri, 17 Jul 2026 08:00:00 +0000	Conectividad IoT de Misión Crítica: El Futuro de las Redes Industriales Resilientes	https://www.davantel.com/conectividad-iot-de-mision-critica-el-futuro-de-las-redes-industriales-resilientes
 Wed, 15 Jul 2026 07:40:57 +0000	Alcance del Wi-Fi: factores clave para una cobertura fiable	https://www.davantel.com/alcance-del-wi-fi-factores-clave-para-una-cobertura-fiable
 Mon, 13 Jul 2026 08:00:00 +0000	¿Qué antena celular escoger y dónde ubicarla?	https://www.davantel.com/que-antena-celular-escoger-y-donde-ubicarla
-Fri, 10 Jul 2026 08:00:00 +0000	Tutorial: IP Pública, IP Privada, NAT y Acceso Remoto Corporativo	https://www.davantel.com/tutorial-ip-publica-ip-privada-nat-y-acceso-remoto-corporativo
-Wed, 08 Jul 2026 08:00:00 +0000	Descarga de perfiles eSIM con la app Teltonika RutOS usando los datos móviles del teléfono	https://www.davantel.com/descarga-de-perfiles-esim-con-la-app-teltonika-rutos-usando-los-datos-moviles-del-telefono
-Mon, 06 Jul 2026 08:00:00 +0000	Gateways Robustel MG460 para Redes Marítimas: Guía Técnica de Arquitectura y Cumplimiento Normativo	https://www.davantel.com/gateways-robustel-mg460-para-redes-maritimas-guia-tecn
+Fri, 10 Jul 2026 08:00:00 +0000	Tutorial: IP Pública, IP Privada, NAT y Acceso Remoto Corporativo	https:/

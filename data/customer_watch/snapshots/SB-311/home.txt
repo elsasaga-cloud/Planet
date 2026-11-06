@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -465,10 +465,6 @@ Kurzy
 Přihlaste se
 Zaregistrujte se
 Pomoc
-Signal Pro
-Multiswitche Signal Pro
-nová řada multiswitchů
-Dozvědět se více
 Signal Fire Welding Machines
 Signal Fire Welding Machines – which model is right for you?
 Which model is right for you?
@@ -540,13 +536,6 @@ Náhled
 Hikvision DS-2CD2T87G3P-LIS2UY/SL (180°) ColorVu IP panoramic tube camera (8 Mpix, 2.8 mm, 0.0005 lx, hybrid illumination up to 40 m)
 23768,03 Kč
 19643,00 Kč bez DPH
-Kód: K17910
-Náhled
-Hikvision DS-2CD1F47G3H-LIUF/SX PT pan-tilt IP camera (4 Mpix, 2.8 mm, hybrid illumination up to 30 m, Auto Tracking, ColorVu, Audio, PoE)
-10318,88 Kč
-Předchozí nejnižší cena: 9460,42 Kč
-10215,69 Kč
-8442,72 Kč bez DPH
 Zobrazit všechny
 Kód: L54024
 Do košíku
@@ -618,4 +607,4 @@ Internet věcí bez omezení dosahu.
 21. října 2026 Evropská kosmická agentura (ESA) popsala výsledky testů, při nichž byla využita satelitní síť IoT společnosti Lacuna Space k monitorování mimo jiné kvality vody, vlhkosti půdy a spotřeby vody. Řešení je založeno na technologii LoRaWAN, známé z pozemních systémů komunikace senzorů. Rozdíl spočívá v tom, že přijímačem signálu může být satelit, nikoli rádiová brána instalovaná na budově nebo stožáru. Jedná se o příklad využití stávajících standardů přenosu pro komunikaci se zařízení...
 Pokračovat ve čtení
 Jednoduchá instalace v rodinném domě.
-V rodinném domě byla provedena instalace satelitní televize založená na sate
+V rodinném domě byla provedena instalace satelitní televize založená na satelitní anténě o průměru 90 cm a multiswitchi TERRA MR-508 R70608. Použití konvertoru typu Quatro a multiswitche vybaveného 5 vstupy a 8 výstupy umožňuje nezávislé rozdělení satelitního signálu až do 8 přijímacích míst. V budoucnu umožní další vstup multiswitche rozvod signálu digitální pozemní televize DVB-T2 a 

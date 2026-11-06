@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,44 +291,42 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-MikroTik Cloud Router Switch CRS305-1G-4S+OUT (FiberBox Plus)
-725,70 zł z VAT
-821,91 zł
-590,00 zł netto
+IP-COM Pro-S24-410W
+1 291,50 zł z VAT
+1 620,53 zł
+1 050,00 zł netto
 szt
-Najniższa cena z 30 dni: 821,91 zł
-WYPRZEDAŻ
-Pigtail MMCX - N/ż [short head] (20 cm)
-12,18 zł z VAT
-18,94 zł
-9,90 zł netto
+Najniższa cena z 30 dni: 1 620,53 zł
+Drzwiczki rewizyjne, 400x300
+60,27 zł z VAT
+70,11 zł
+49,00 zł netto
 szt
-Najniższa cena z 30 dni: 18,94 zł
-Quectel EM160R-GL Modem M.2 LTE Cat.16
-736,77 zł z VAT
-1 105,77 zł
-599,00 zł netto
+Najniższa cena z 30 dni: 70,11 zł
+TP-Link Deco X10
+207,87 zł z VAT
+300,99 zł
+169,00 zł netto
 szt
-Najniższa cena z 30 dni: 1 105,77 zł
-WYPRZEDAŻ
-Wisnetworks WIS-ANO2405
-11,07 zł z VAT
-27,63 zł
-9,00 zł netto
-szt
-Najniższa cena z 30 dni: 27,63 zł
+Najniższa cena z 30 dni: 300,99 zł
 Interline SECTOR HP
 92,25 zł z VAT
 202,95 zł
 75,00 zł netto
 szt
 Najniższa cena z 30 dni: 202,95 zł
-Sektor Tornado Pro 18 SH
-129,15 zł z VAT
-221,40 zł
-105,00 zł netto
+Tenda G103 Gigabit GPON Terminal SC/PC
+97,17 zł z VAT
+113,16 zł
+79,00 zł netto
 szt
-Najniższa cena z 30 dni: 221,40 zł
+Najniższa cena z 30 dni: 113,16 zł
+Tenda IT6-PCS kamera 3MP UHD PoE
+159,90 zł z VAT
+173,80 zł
+130,00 zł netto
+szt
+Najniższa cena z 30 dni: 173,80 zł
 Najnowsze propozycje
 NOWOŚĆ
 Cudy WR3600E
@@ -351,23 +349,23 @@ TP-Link EAP727
 szt
 NOWOŚĆ
 TP-Link Fusion 2.5G PoE
-1 668,25 zł z VAT
-1 356,30 zł netto
+1 733,07 zł z VAT
+1 409,00 zł netto
 szt
 NOWOŚĆ
 Ubiquiti AI Horn Speaker (UP-AI-Horn-Speaker-B)
-1 376,76 zł z VAT
-1 119,32 zł netto
+1 375,02 zł z VAT
+1 117,90 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 647,78 zł z VAT
-6 217,71 zł netto
+7 638,04 zł z VAT
+6 209,79 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
-1 579,23 zł z VAT
-1 283,93 zł netto
+1 577,23 zł z VAT
+1 282,30 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
@@ -384,4 +382,7 @@ FedEx: od 14.90 PLN (netto)
 Paczkomat: od 14 PLN (netto)
 Poczta: zgodnie z cennikiem
 Zlokalizuj przesyłkę DHL
-Zlokalizuj przesyłk
+Zlokalizuj przesyłkę FedEx
+Zlokalizuj przesyłkę InPost
+Zlokalizuj Paczkę Pocztową
+D

@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3991)
+Svi proizvodi (3989)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -235,7 +235,7 @@ ADSL oprema (17)
 Ekstenderi i modemi (45)
 VDSL, SHDSL, HPNA modemi (23)
 G.703, X.21, E1 itd (6)
-Telefonske centrale, Call centri (126)
+Telefonske centrale, Call centri (121)
 Telefonske centrale (9)
 do 100 lokala (7)
 do 250 lokala
@@ -275,17 +275,17 @@ VoIP kartice analogne (6)
 PCI
 PCI Express (1)
 miniPCI
-VoIP kartice ISDN PRI (4)
+VoIP kartice ISDN PRI (1)
 PCI (1)
-PCI Express (1)
+PCI Express
 miniPCI
-HW echo cancelation (1)
-VoIP kartice ISDN BRI (10)
+HW echo cancelation
+VoIP kartice ISDN BRI (9)
 PCI (5)
 PCI Express (1)
 miniPCI (2)
-Failover kutije (3)
-VoIP - Voice over IP (137)
+Failover kutije (2)
+VoIP - Voice over IP (132)
 VoIP telefoni (79)
 sa 1 linijom
 sa 2 linije (7)
@@ -308,16 +308,16 @@ VoIP kartice analogne (6)
 PCI
 PCI Express (1)
 miniPCI
-VoIP kartice ISDN PRI (4)
+VoIP kartice ISDN PRI (1)
 PCI (1)
-PCI Express (1)
+PCI Express
 miniPCI
-HW echo cancelation (1)
-VoIP kartice ISDN BRI (10)
+HW echo cancelation
+VoIP kartice ISDN BRI (9)
 PCI (5)
 PCI Express (1)
 miniPCI (2)
-Failover kutije (3)
+Failover kutije (2)
 PoE svičevi
 PoE komponente
 USB telefoni i gejtveji (4)
@@ -350,7 +350,7 @@ Fiber šasije
 Fiber-coax konverteri
 Industrijska oprema (5)
 GPON / EPON Fiber (2)
-Kartice - PC adapteri (163)
+Kartice - PC adapteri (157)
 10/100Mb/s kartice (4)
 PCI (3)
 USB (1)
@@ -361,7 +361,7 @@ PCI Express (11)
 PCI-X / PCI
 PCMCIA
 Serverske kartice
-Dual i Quad kartice (2)
+Dual i Quad kartice (1)
 10GB mrežne kartice
 Fiber optičke kartice
 Fibre Channel kartice
@@ -379,17 +379,17 @@ Wireless 108Mb/s
 Wireless 150Mb/s (2)
 Wireless 300Mb/s (10)
 Wireless 802.11a 5GHz (2)
-PCI Express (3)
+PCI Express (2)
 PCI-X / PCI (10)
 USB adapteri (41)
 Ostali adapteri (5)
 RAID & storage (1)
-Asterisk VoIP kartice (18)
+Asterisk VoIP kartice (15)
 PCI (10)
-HW echo cancelation (1)
-PCI Express (4)
+HW echo cancelation
+PCI Express (3)
 miniPCI (2)
-miniPCI (5)
+miniPCI (4)
 Wireless kartice
 Wireless minPCI
 Wireless 300Mb/s
@@ -528,4 +528,4 @@ Skrećemo pažnju na MikroTik Cube 60Pro uređaje koji omogućavaju ultra brze v
 Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više nego povoljne !
 Ovde možete pogledati detaljnu dokumentaciju, a ovde video sa srpskim prevodom (uključite cc). - https://www.youtube.com/watch?v=IRf0TRVwXG0
 TP-Link Omada cloud biznis mrežna rešenja
-TP
+TP-Link već dugo može da

@@ -1,11 +1,10 @@
-# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://www.novicam.ru/doorphones/doorphones_accessories/2-pin-wire-v-4042
 	https://www.novicam.ru/doorphones/doorphones_accessories/4-pin-wire-v-4043
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4552
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-kit-black-v-4649
 	https://www.novicam.ru/sistemy-videonablyudeniya/accessories/novicam-am110g-ver-4215
 	https://www.novicam.ru/sistemy-videonablyudeniya/accessories/novicam-am16-ver-4009
-	https://www.novicam.ru/sistemy-videonablyudeniya/accessories/novicam-am510g-ver-4095
 	https://www.novicam.ru/sistemy-videonablyudeniya/accessories/novicam-am710w-ver-4207
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/buttons/novicam-b41-ver-4031
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/buttons/b60tl
@@ -22,7 +21,6 @@
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-57-v-1523
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-58-v-1524
 	https://www.novicam.ru/sistemy-videonablyudeniya/accessories/box-03-v-5001s
-	https://www.novicam.ru/sistemy-videonablyudeniya/accessories/novicam-ch4060-ver-4060
 	https://www.novicam.ru/sistemy-videonablyudeniya/accessories/ch4060-chernij-v-4180
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/locks/dl1000-no-v-4449
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/locks/dl11-v-4401
@@ -70,8 +68,8 @@
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4651
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-kit-black-v-4648
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-kit-white-v-4647
-	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-white-v-4050
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-white-v-4650
+	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-white-v-4050
 	https://www.novicam.ru/doorphones/doorphones_accessories/msk-v-4289
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/legend-black-v-4602
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/legend-bronze-v-4601
@@ -148,9 +146,11 @@
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-tochki-dostupa/pv-wf2ap-v-2110
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-mosty/pv-wf2bcl-v-2136
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-mosty/pv-wf5bcl-v-2139
-	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4621
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4620
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4621
 	https://www.novicam.ru/doorphones/doorphones_accessories/ip-box-v-4421
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/sb210-v-4020
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/complect-skud/sb210-v-4058
-	https://www.novicam.ru/sistemy-kontrolya-dost
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/sb310-wifi-v-4242
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/novicam-se120w-ver-4250
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/co

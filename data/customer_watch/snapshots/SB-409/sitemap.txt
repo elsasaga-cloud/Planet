@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 2026-10-05T00:13:47+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
 2026-11-04T18:30:37+00:00	https://www.xlrsecurity.com/hdd-calculator/

@@ -1,4 +1,4 @@
-# SB-594 kmsoltec.com · news_2 · https://www.kmsoltec.com/en/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-594 kmsoltec.com · news_2 · https://www.kmsoltec.com/en/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 BLOG
 +39 0429 653281 Contact Us
 English
@@ -117,44 +117,44 @@ Popular post
 ESG Certification and Company Beehive: KM Soltec’s concrete commitment to sustainability
 Posted in:
 Approfondimenti
-302 Views
+305 Views
 In just 500 days without bees, the world could face extinction.
 In this article, we share how we chose to support 3Bee’s mission by adopting a company beehive: a concrete way to bring sustainability into the everyday life of KM Soltec.
 Read more
 DL4 solar connector: 6 advantages that protect your photovoltaic system from fatal faults
 Posted in:
 News
-436 Views
+437 Views
 Moisture infiltration, corrosion and fire: these are the risks faced by a photovoltaic system if you do not use a DL4 solar connector. Here's why.
 Read more
 Industrial Fiber Optic Cables: A Guide to Choosing the Right Ones for Critical Environments
 Posted in:
 News
-586 Views
+588 Views
 Industrial Fiber Optic Cables: Learn How to Choose the Right Ones for Your Industry and Ensure Reliable Performance Even in the Most Critical Environments
 Read more
 How an Industrial RJ45 Connector Can Save You Thousands in Machine Downtime
 Posted in:
 Approfondimenti
-635 Views
+636 Views
 Discover how an industrial RJ45 connector ensures reliability and reduces costly machine downtime. We explain it all in this article — read it now!
 Read more
 NVMe SSD and SATA M.2 Connectors: Which Should You Choose for Your Industrial Sector?
 Posted in:
 Approfondimenti
-1027 Views
+1029 Views
 NVMe SSDs and SATA M.2 SSDs: What Differentiates These Two Types of Connectors and Which One Should You Choose for Your Industrial Sector?
 Read more
 Edge AI Fanless PC: 4 Features That Make It Perfect for Extreme Industrial Applications [Case Study]
 Posted in:
 Realizzazioni
-1054 Views
+1055 Views
 Rugged Fanless Edge AI Computer: the PC with MIL-STD-810H military certification, virtually indestructible.
 Read more
 Keystone - Il sistema di connessione modulare
 Posted in:
 News
-726 Views
+727 Views
 Durante un'installazione o un posa di cavi, spesso ci si imbatte in connessioni difficili da raggiungere, (sul retro del computer, nei televisori, su un sistema stereo, ecc..) oppure in connettori non proprio adatti in quel momento. Ecco come il sistema Keyston può farti risparmiare tempo e denaro nell'installazione di un impianto rete.
 Read more
 M.2 NGFF (Next Generation Form Factor): Panoramica e risoluzione delle problematiche
@@ -191,9 +191,10 @@ Durante un'installazione o un posa di cavi, spesso ci si imbatte in connessioni 
 Read more
 Showing 1 to 12 of 12 (1 Page)
 KM Soltec
-Via I Maggio, 4
-37040 Pressana (VR) - Italy
-Via I Maggio, 4 37040 Pressana (VR) - Italy
+Registered office: Via San Gregorio 55, 20124 Milan
+Operational site: Via I Maggio 4, 37040 Pressana (VR) - Italy
+Registered office: Via San Gregorio 55, 20124 Milan
+Operational site: Via I Maggio 4, 37040 Pressana (VR) - Italy
 +39 0429 653281
 info@kmsoltec.com
 Seguici sui social
@@ -227,7 +228,7 @@ Certifications
 Payment Methods
 Newsletter
 Ho letto e accetto l'informativa sulla Privacy e presto il mio consenso alla ricezione di comunicazioni.
-KM Soltec Srl © - P.IVA: 04466860238, REA VR-463733
+KM Soltec Srl © - VAT no. IT04466860238, REA MI-2810926
 Site protected by reCAPTCHA.
 Privacy -
 Terms

@@ -1,4 +1,4 @@
-# SB-958 sieuthivienthong.com · home · https://sieuthivienthong.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-958 sieuthivienthong.com · home · https://sieuthivienthong.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 ﻿
 Siêu Thị Viễn Thông – Thiết Bị An Ninh, Mạng, Viễn Thông Chính Hãng
 92K Nguyễn Thái Sơn - Phường Hạnh Thông - Tp.HCM
@@ -505,7 +505,8 @@ Máy đo điện vạn năng SANWA
 Bút đo nhiệt độ KIMO
 Máy đo khác
 Ống PITOT KIMO
-Robot thông minh Robot PUDU Robot phục vụ PUDU
+Robot thông minh Robot thông minh PUDU Robot phục vụ PUDU
+Robot vệ sinh thương mại PUDU
 Vật tư-Thiết bị Điện Bộ Lưu Điện Bộ lưu điện UPS APC
 Bộ lưu điện UPS SANTAK
 Bộ lưu điện UPS ARES
@@ -532,7 +533,4 @@ Bộ Nguồn
 Ắc quy-Accu PANASONIC
 Ắc quy GS
 Ắc quy VISION
-Ắc quy Đồng Nai Pinaco
-Ắc quy Long
-Ắc quy X-PRO
-Ắc quy MAK
+Ắc quy Đồng Nai Pina

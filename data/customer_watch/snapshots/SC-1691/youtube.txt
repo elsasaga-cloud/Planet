@@ -1,4 +1,5 @@
-# SC-1691 alfacomp.net · youtube · https://www.youtube.com/user/alfacompbrasil · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1691 alfacomp.net · youtube · https://www.youtube.com/user/alfacompbrasil · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-05T14:38:45+00:00	Como usar Modbus Read e Modbus Write nos CLPs Haiwell | Tutorial Alfacomp	https://www.youtube.com/watch?v=Zyy4wKNFGfI
 2026-10-06T15:58:08+00:00	Case Alfacomp | Como a Schmidt Automação usa Haiwell para integrar sistemas abertos	https://www.youtube.com/watch?v=albzKR4bs1M
 2026-08-25T11:33:40+00:00	Do sensor ao supervisório: automação de cisternas para água da chuva | Alfacomp x Vika Controls	https://www.youtube.com/watch?v=oNWym0WY_bU
 2026-08-03T11:30:05+00:00	Automação e Supervisão de Cisternas para Captação de Águas Pluviais | Vika + Alfacomp	https://www.youtube.com/watch?v=zB4ZsMBxW4U
@@ -13,4 +14,3 @@
 2026-05-18T14:57:34+00:00	IHM Industrial: muito mais que uma tela no painel	https://www.youtube.com/shorts/C00q7M6M5bM
 2026-05-15T16:12:07+00:00	Tecnologia aplicada à realidade do seu processo.	https://www.youtube.com/shorts/D7n2upqZmnI
 2026-05-13T11:31:08+00:00	Alfacomp Inside | TI vs TA: entenda a diferença na automação industrial	https://www.youtube.com/shorts/sUD04ZkWTnc
-2026-05-12T12:43:38+00:00	Alfacomp em campo: encontro técnico no setor hídrico	https://www.youtube.com/shorts/K6E85CnfAAI

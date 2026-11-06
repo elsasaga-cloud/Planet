@@ -1,4 +1,5 @@
-# SB-761 getscw.com · youtube · https://www.youtube.com/c/SCWcameras · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-761 getscw.com · youtube · https://www.youtube.com/c/SCWcameras · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-05T17:20:06+00:00	PTZ Camera Auto Tracking: Better Parking Lot Evidence	https://www.youtube.com/shorts/gpAN8tT1GyU
 2026-10-01T23:25:49+00:00	PTZ Cameras Explained: Are Pan-Tilt-Zoom Cameras Right for Your Business?	https://www.youtube.com/watch?v=3IplKhYjyPY
 2026-09-17T17:54:37+00:00	Night Footage iPhone vs Viking	https://www.youtube.com/watch?v=Uvw34iKwScQ
 2026-09-09T19:00:39+00:00	Mobile Access Control: Unlock Doors With Your Phone	https://www.youtube.com/shorts/lvYMmHRQ3Dw
@@ -13,4 +14,3 @@
 2026-07-30T17:27:50+00:00	Commercial Access Control Systems: Cloud vs. On-Premise + Avigilon Alta Demo	https://www.youtube.com/watch?v=DJ7atDqTgvI
 2026-07-24T15:00:26+00:00	How Camera Placement Improves Night Vision Performance	https://www.youtube.com/shorts/_q9G2YUYqE8
 2026-07-24T13:23:23+00:00	Introducing SCW Viewstation Mobile	https://www.youtube.com/watch?v=GRc5wHp2k-U
-2026-07-17T15:00:36+00:00	How AI Image Processing Improves Security Camera Footage	https://www.youtube.com/shorts/oT9UNSLUF5c

@@ -1,4 +1,6 @@
-# SB-424 golmar.es · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC4zWDLG150AzCZGTBF5YNOg · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-424 golmar.es · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC4zWDLG150AzCZGTBF5YNOg · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T07:05:42+00:00	Sixty5 Touch. Connecting the present to open the future | Golmar	https://www.youtube.com/watch?v=WboTgbyuTmA
+2026-11-06T07:05:40+00:00	Sixty5 Touch. Conectando el presente, abriendo el futuro | Golmar	https://www.youtube.com/watch?v=tk4tP1yf7fw
 2026-08-07T10:05:29+00:00	GolmarLABs | You design it, we make it real	https://www.youtube.com/watch?v=_Eu0JXJZzmU
 2026-08-07T10:05:25+00:00	GolmarLABs | Tú diseñas, nosotros lo hacemos realidad	https://www.youtube.com/watch?v=7nRlz8lZNpQ
 2026-07-28T06:43:22+00:00	Golmar Tips | Domótica - Cómo dar de alta los módulos Yokis	https://www.youtube.com/shorts/8CdMMUvOY5k
@@ -12,5 +14,3 @@
 2026-07-13T10:57:34+00:00	GOLMARSAFE | Mando TX-810W | Golmar	https://www.youtube.com/watch?v=Dd-Ig5I5NZM
 2025-12-10T07:56:47+00:00	Supra. The door panel that surpasses all expectations | Golmar	https://www.youtube.com/watch?v=ZgBFuCfvZwE
 2025-12-10T07:56:43+00:00	Supra. La placa que eclipsa cualquier expectativa | Golmar	https://www.youtube.com/watch?v=hEDi8wSp_vQ
-2024-06-26T07:00:01+00:00	GOLMAR | ART 4 XLITE: Easy user guide	https://www.youtube.com/watch?v=0V0oaSWKbzk
-2024-06-26T07:00:00+00:00	GOLMAR | ART 4 XLITE: Guía básica de usuario	https://www.youtube.com/watch?v=-Pz17Jqed90

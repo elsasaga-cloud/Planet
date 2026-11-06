@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-05T09:39:48Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-06T09:32:27Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -610,6 +610,7 @@ Hikvision
 Infosec
 IQsight
 Neomounts
+NVT
 Pulsar
 Veracity
 Intercom
@@ -1010,6 +1011,7 @@ IZYX SYSTEMS
 Mean Well
 Netgear
 Network Optix
+NVT
 Optex
 Paxton
 Politec
@@ -1096,6 +1098,8 @@ Digitus
 elbaC - Alpha
 Hanwha
 Hikvision
+NVT
+SeeEyes
 Vivotek
 Cabinets & brackets
 Ajax
@@ -1189,13 +1193,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Ajax EN54 Hands-On Training
-5 November
-@ SmartSD Merchtem (BE)
-12 November
-@ SmartSD Breda (NL)
-8 December
-@ SmartSD Merchtem (BE)
 Hikvision HCSA-CCTV Certification Training
 10 November
 @ SmartSD Merchtem (BE)
@@ -1217,6 +1214,11 @@ Dahua Basic Training & Hands-on
 @ SmartSD Merchtem (BE)
 10 December
 @ SmartSD Saint-herblain (FR)
+Ajax EN54 Hands-On Training
+12 November
+@ SmartSD Breda (NL)
+8 December
+@ SmartSD Merchtem (BE)
 Acre SPCevo
 16 November
 @ SmartSD Portet-sur-garonne (FR)

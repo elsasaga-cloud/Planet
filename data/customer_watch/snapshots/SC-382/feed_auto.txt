@@ -1,4 +1,4 @@
-# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Thu, 05 Nov 2026 07:12:46 +0000	ONE WEEK TO GO!! Mini Security Show at HQ	https://securitywarehouse.co.za/blog/one-weeks-to-go-mini-security-show-at-hq/
 Wed, 28 Oct 2026 10:39:44 +0000	TWO WEEKS TO GO!! Mini Security Show at HQ	https://securitywarehouse.co.za/blog/two-weeks-to-go-mini-security-show-at-hq/
 Wed, 21 Oct 2026 07:58:48 +0000	Don’t Miss Our LAST Mini Security Show of 2026!	https://securitywarehouse.co.za/blog/dont-miss-our-last-mini-security-show-of-2026/

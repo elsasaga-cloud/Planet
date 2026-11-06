@@ -1,4 +1,4 @@
-# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 News | barox.ch
 Support
 Contact
@@ -42,6 +42,10 @@ All
 Event
 Products
 The company
+Products | 06.11.2026
+Watch the Recording: DW Spectrum and barox Integration demonstrated in Digital Watchdog’s “Works With” Webinar
+Missed the Digital Watchdog’s "Works With" Webinar live webinar? Watch the recording and discover how the new integration between DW Spectrum and barox brings network visibility, diagnostics and control directly into the video management environment.
+LEARN MORE
 The company | 04.11.2026
 Due to our relocation, our operations will be partially restricted from December 4 to 7
 Our new headquarters marks an important milestone in barox's continued success. Please note that our availability is limited due to the relocation.
@@ -216,11 +220,3 @@ We announce the new partnership with the leading Balkan distributor SINPRO.
 LEARN MORE
 Event | 04.04.2024
 With Barox to the BHE Congress in Mainz
-With barox to the BHE congress "Video Security / Access Control" on April 23/24 in Mainz.
-LEARN MORE
-Event | 20.03.2024
-Barox at the Powertage in Zurich
-The next Powertage will take place from June 4 - 6, 2024, at Messe Zürich. Together with our partner, VIVAVIS Schweiz AG, we will be exhibiting in Hall 6 at Stand J23.
-LEARN MORE
-Event | 29.01.2024
-Invitation to the KRITIS Days 2024 at Zuric

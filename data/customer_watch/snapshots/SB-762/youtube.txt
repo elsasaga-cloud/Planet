@@ -1,4 +1,5 @@
-# SB-762 groundcontrol.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCRQpZYI4SY4x9768uaPmrPQ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-762 groundcontrol.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCRQpZYI4SY4x9768uaPmrPQ · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-05T12:46:22+00:00	RockBLOCK APNT: Iridium PNT Positioning and Timing for Uncrewed Systems	https://www.youtube.com/watch?v=UCohCfbMLLI
 2026-10-15T13:58:20+00:00	RockFLEET Assured & RockBLOCK APNT Tested at Jammertest 2026 | Ground Control	https://www.youtube.com/watch?v=h42EOjj_Ru4
 2026-10-14T14:21:23+00:00	GNSS Under Attack: What the Data Actually Shows, and What to Do About It | Ground Control Webinar	https://www.youtube.com/watch?v=QMUSi3Z41KE
 2026-10-08T14:39:21+00:00	RockBLOCK APNT: Independent Position and Timing for UAVs, USVs and Autonomous Systems	https://www.youtube.com/watch?v=cIbyxSfxqAU
@@ -13,4 +14,3 @@
 2025-12-24T10:44:09+00:00	Satellite Connectivity for Drones | BVLOS Operations Anywhere on Earth	https://www.youtube.com/watch?v=WmM9JhqItUg
 2025-12-02T12:43:13+00:00	RockREMOTE UAV Product Showcase: Global Iridium Certus 100 Link for UAV C2 & Telemetry	https://www.youtube.com/watch?v=JOjW8OC8pko
 2025-11-25T12:00:36+00:00	RockBLOCK Pro / Pro OEM Product Showcase | Iridium Messaging Transport (IMT) Satellite Transceiver	https://www.youtube.com/watch?v=IMTU67f9qRo
-2025-11-21T12:14:41+00:00	Never Lose an Asset Again: Global Tracking for Fleets, Aircraft & Lone Workers	https://www.youtube.com/watch?v=sPqtjD_Uz2I

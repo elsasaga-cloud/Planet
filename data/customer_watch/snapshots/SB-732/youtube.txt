@@ -1,4 +1,5 @@
-# SB-732 Maxitulin · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkwed9x_I-QM68uwWzHFqFQ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-732 Maxitulin · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkwed9x_I-QM68uwWzHFqFQ · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T04:30:33+00:00	AI-Powered Real-Time Truck & Visitor Monitoring by Maxitulin	https://www.youtube.com/watch?v=-En6G3My6BU
 2026-02-26T09:30:19+00:00	MAXTrackkers Digital Security Monitoring App	https://www.youtube.com/watch?v=d_-EZDdQb6I
 2024-03-05T01:48:37+00:00	MAXTrackkers Digital Security Monitoring App	https://www.youtube.com/watch?v=Hxxedahdbso
 2024-03-04T04:30:45+00:00	MAXTrackkers Digital Security Monitoring App	https://www.youtube.com/watch?v=aLV1J1MAZ3M

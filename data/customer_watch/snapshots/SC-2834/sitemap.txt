@@ -1,4 +1,4 @@
-# SC-2834 Dipol · sitemap · https://www.dipol.com.pl/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2834 Dipol · sitemap · https://www.dipol.com.pl/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8w_lux_dvb-t-t2_ze_wzmacniaczem_lna177-5g_i_filtrem_lte_5g_A0024.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8_dvb-t-t2_z_symetryzatorem_A0028.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8w_dvb-t-t2_ze_wzmacniaczem_lna169-5g_i_filtrem_lte_5g_A0029.htm
@@ -47,8 +47,8 @@
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/odbiornik_optyczny_orq302_e_z_wyjsciem_quatro_dvb-t2_terra_A3133.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/odbiornik_optyczny_orf302_e_z_wyjsciem_wideband_dvb-t2_terra_A3135.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/odbiornik_optyczny_orq302f_e_terra_z_wyjsciem_quatro_wideband_dvb-t2_terra_A3137.htm
-2024-03-22T14:27:06Z	https://www.dipol.com.pl/odbiornik_optyczny_ord301f_e_z_wyjsciem_wideband_dvb-t2_2x_dscr-unicable_terra_A3139.htm
-2024-03-22T14:27:06Z	https://www.dipol.com.pl/odbiornik_optyczny_orl302f_e_z_wyjsciem_4x_legacy_wideband_dvb-t2_terra_A3141.htm
+2026-11-06T05:02:02Z	https://www.dipol.com.pl/odbiornik_optyczny_ord301f_e_z_wyjsciem_wideband_dvb-t2_2x_dscr-unicable_terra_-_wyprzedaz_A3139.htm
+2026-11-06T05:02:02Z	https://www.dipol.com.pl/odbiornik_optyczny_orl302f_e_z_wyjsciem_4x_legacy_wideband_dvb-t2_terra_-_wyprzedaz_A3141.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_telewizyjna_atx-91_dvb-t-t2_uhf_A3710.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_telewizyjna_logarytmiczno_-_periodyczna_log_5-12_-_21-60_dvb-t-t2_vhf-uhf_polaryzacja_h-v_A4015.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_telewizyjna_wielokierunkowa_saturn_1_ze_wzmacniaczem_A5060.htm
@@ -102,4 +102,4 @@
 2024-07-31T05:01:45Z	https://www.dipol.com.pl/antena_5g_atk-log_alp_mimo_2x2_10_m_przewodu_wtyk_sma_698-3800_mhz_A7064_10.htm
 2024-08-13T05:01:35Z	https://www.dipol.com.pl/antena_atk-log_alp_5g_mimo_2x2_15_m_przewodu_wtyk_sma_698-3800_mhz_A7064_15.htm
 2024-08-13T05:01:35Z	https://www.dipol.com.pl/antena_atk-log_alp_5g_mimo_2x2_20_m_przewodu_wtyk_sma_698-3800_mhz_A7064_20.htm
-2024-07-31T05:01:45Z	https://www.dipol.com.pl/antena_5g_atk-log_alp_mimo
+2024-07-31T05:01:45Z	https://www.dipol.com.pl/an

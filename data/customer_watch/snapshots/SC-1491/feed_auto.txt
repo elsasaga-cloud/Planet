@@ -1,4 +1,4 @@
-# SC-1491 distri-x.nl · feed_auto · https://distri-x.nl/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1491 distri-x.nl · feed_auto · https://distri-x.nl/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Thu, 18 Jun 2026 07:47:30 +0000	Dark fiber bewaken voordat het misgaat: actieve monitoring met de Adtran ALM	https://distri-x.nl/optisch-transport/dark-fiber-bewaken-voordat-het-misgaat/
 Wed, 17 Jun 2026 07:21:31 +0000	Darkfiber loopt door parkeergarages: waarom laag 1-encryptie geen luxe is	https://distri-x.nl/beveiliging/darkfiber-aftappen-waarom-l1-encryptie-noodzaak-is/
 Tue, 16 Jun 2026 07:15:35 +0000	Na VMware: welke alternatieven zijn er voor edge en remote site-infrastructuur?	https://distri-x.nl/virtualisatie/na-vmware-welke-alternatieven-zijn-er-voor-edge-en-remote-site-infrastructuur/

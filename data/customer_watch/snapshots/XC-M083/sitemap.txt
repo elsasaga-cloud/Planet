@@ -1,10 +1,10 @@
-# XC-M083 Aspect（Skopje） · sitemap · https://aspect.com.mk/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
-2026-11-05T09:41:00.575Z	https://www.aspect.com.mk
-2026-11-05T09:41:00.575Z	https://www.aspect.com.mk/about
-2026-11-05T09:41:00.575Z	https://www.aspect.com.mk/contact
-2026-11-05T09:41:00.575Z	https://www.aspect.com.mk/products/mobile-terminals
-2026-11-05T09:41:00.575Z	https://www.aspect.com.mk/products/barcode-scanners
-2026-11-05T09:41:00.575Z	https://www.aspect.com.mk/products/label-printers
+# XC-M083 Aspect（Skopje） · sitemap · https://aspect.com.mk/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T10:01:23.408Z	https://www.aspect.com.mk
+2026-11-06T10:01:23.408Z	https://www.aspect.com.mk/about
+2026-11-06T10:01:23.408Z	https://www.aspect.com.mk/contact
+2026-11-06T10:01:23.408Z	https://www.aspect.com.mk/products/mobile-terminals
+2026-11-06T10:01:23.408Z	https://www.aspect.com.mk/products/barcode-scanners
+2026-11-06T10:01:23.408Z	https://www.aspect.com.mk/products/label-printers
 2026-04-24T09:36:14.944Z	https://www.aspect.com.mk/products/mobile-terminals/honeywell-ct70
 2025-10-27T09:43:48.870Z	https://www.aspect.com.mk/products/barcode-scanners/honeywell-hf810
 2025-10-27T09:43:58.311Z	https://www.aspect.com.mk/products/barcode-scanners/honeywell-hf680

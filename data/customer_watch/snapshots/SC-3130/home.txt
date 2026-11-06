@@ -1,4 +1,4 @@
-# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica
 Ingresa a
 tu cuenta
@@ -11,25 +11,6 @@ Menú de navegación
 ⭐ Recomendados
 Eventos y certificaciones
 Ver todas
-5 de noviembre
--
-ZKTECO | QUÉ PANTALLA NECESITA TU CLIENTE GUÍA PRÁCTICA DE SOLUCIONES PARA DIGITAL SIGNAGE
-Capacitación Técnico - Comercial
-En línea
-5 de noviembre
--
-IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
-Taller
-Presencial
-LEÓN
-BLVD. VICENTE VALTIERRA 6606, SAM MIGUEL DE RENTERIA
-5 de noviembre
--
-UBIQUITI | TALLER: UNIFI WIFI 7 (1 DÍA)
-Taller
-Presencial
-PUEBLA
-19 NORTE 1602, TAMBORCITO
 10 de noviembre
 -
 GRANDSTREAM | CERTIFICACIÓN (1 DÍA)
@@ -79,7 +60,7 @@ JAL-ZAPOPAN
 INDUSTRIAL TEXTIL 2360, ZAPOPAN INDUSTRIAL
 11 de noviembre
 -
-TP-LINK | TAPO SOLUCIONES PARA INSTALACIONES RESIDENCIALES INTELIGENTES
+TP-LINK | TAPO SOLUCIONES PARA INSTALACIONES RESIDENCIALES
 Capacitación Técnico - Comercial
 En línea
 12 de noviembre
@@ -94,6 +75,13 @@ Roadshow
 Presencial
 TORREON
 RIO CONCHOS 1456, MAGDALENAS
+12 de noviembre
+-
+IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
+Taller
+Presencial
+MTY-SAN NICOLAS
+DIEGO DIAZ DE BERLANGA 107, ANTIGUO NOGALAR
 18 de noviembre
 -
 DSC | CERTIFICACIÓN POWER SERIES NEO (3 DÍAS)
@@ -134,6 +122,16 @@ Roadshow
 Presencial
 VERACRUZ
 AV. PINO SUAREZ 2488, VERACRUZ CENTRO
+25 de noviembre
+-
+DSC | VENTAJAS DE DSC NEO Y POWERG
+Capacitación Técnico - Comercial
+En línea
+26 de noviembre
+-
+ZKTECO | CONFIGURACIÓN DE DISPOSITIVOS SENSEFACE A TRAVÉS DE ZKBIO ZLINK
+Capacitación Técnico - Comercial
+En línea
 No hay eventos que coincidan con los filtros seleccionados.
 Ver todas
 ☁️ ¡Respaldo en la nube!

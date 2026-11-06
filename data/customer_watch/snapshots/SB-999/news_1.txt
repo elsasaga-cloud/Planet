@@ -1,4 +1,4 @@
-# SB-999 algosolutions.com · news_1 · https://www.algosolutions.com/resources/news/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-999 algosolutions.com · news_1 · https://www.algosolutions.com/resources/news/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 News - Algo Communication Products Ltd.
 Products
 Categories
@@ -176,6 +176,9 @@ English
 Home > Resources > News
 News to keep you informed.
 Latest News
+Algo Wins Best Microsoft Teams Solution at UC Awards 2026
+View
+Algo Communication Products has been named the winner of Best Microsoft Teams Solution at the UC Awards 2026, building on its recognition as a finalist in 2025.
 Security Update – PHP Vulnerabilities
 View
 Algo IP endpoints & ADMP are not impacted by the recently disclosed PHP vulnerabilities.
@@ -227,9 +230,6 @@ Discover 6 new updates to the Algo Device Management Platform.
 Firmware Release: Version 5.5
 View
 February 2025 – Download Algo firmware v5.5 packed with updates to improve your device management and communication experience.
-Firmware Release: v5.4
-View
-December 2023 – Download Algo firmware v5.4 and gain access to advanced features and enhancements.
 Next Page »
 Back to Resources
 Get in touch

@@ -1,4 +1,4 @@
-# SB-478 eurocamguvenlik.com.tr · home · https://eurocamguvenlik.com.tr/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-478 eurocamguvenlik.com.tr · home · https://eurocamguvenlik.com.tr/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Eurocam Güvenlik | Güvenlik Kameraları, CCTV & IP Kamera İthalatçısı
 Ana Sayfa
 Kurumsal
@@ -33,14 +33,14 @@ Bayii Girişi Bayi
 Sesi Aç
 Tümü
 EUROCAM
-IP KAMERALAR 29
+IP KAMERALAR 32
 NVR KAYIT CİHAZI 4
 AHD KAMERALAR 12
 HYBRID KAYIT CİHAZI 4
 ARAÇ KAMERALARI 8
 4G ARAÇ KAMERALARI 4
 WIFI ARAÇ KAMERALARI 4
-SOLAR KAMERALAR 9
+SOLAR KAMERALAR 8
 MONİTÖRLER 8
 PERSONEL TAKİP CİHAZLARI
 DEDEKTÖRLER 3
@@ -70,9 +70,9 @@ USB BELLEK 3
 Tümünü gör →
 DAHUA
 IP KAMERA 2
-CVI KAMERA 6
+CVI KAMERA 5
 NVR KAYIT CİHAZI 2
-DVR KAYIT CİHAZI 1
+DVR KAYIT CİHAZI 2
 ALARM 5
 NETWORK
 KABLO 2
@@ -490,8 +490,9 @@ Bayilere Özel
 İncele
 Stok Kodu: EC-IPC-6536
 Marka: EUROCAM
+Yeni Ürün
 ★★★★★
-EC-SL-4G-7004 4G SOLAR KAMERA
+EC-SL-4G-7004 4G/WIFI KAMERA 4 LENS 3 PT (Solarsız 12Volt)
 Bayilere Özel
 −
 1
@@ -501,7 +502,7 @@ Bayilere Özel
 Stok Kodu: EC-SL-4G-7004 HİEASY
 Marka: EUROCAM
 ★★★★★
-EC-SL-4G-AOV-7054 SOLAR 4G KAMERA
+EC-SL-4G-AOV-7054 4 LENS 3 PT SOLAR 4G KAMERA (Çift Solar Panel)
 Bayilere Özel
 −
 1
@@ -511,7 +512,7 @@ Bayilere Özel
 Stok Kodu: EC-SL-4G-AOV-7054 HİEASY
 Marka: EUROCAM
 ★★★★★
-EC-WF-2004 4G 4 LENS KAMERA
+EC-WF-2004 WIFI 4 LENS KAMERA
 Bayilere Özel
 −
 1
@@ -521,7 +522,7 @@ Bayilere Özel
 Stok Kodu: EC-WF-2004 HİEASY
 Marka: EUROCAM
 ★★★★★
-EC-SL-4G-7003 3 LENS 4G KAMERA
+EC-SL-4G-7003 12 Volt 4G 3 LENS KAMERA
 Bayilere Özel
 −
 1
@@ -531,7 +532,7 @@ Bayilere Özel
 Stok Kodu: EC-SL-4G-7003 HİEASY
 Marka: EUROCAM
 ★★★★★
-EC-SL-4G-AOV-7053 ÇİFT SOLAR 4G KAMERA
+EC-SL-4G-7053 4G 3 LENS SOLAR KAMERA (Çift Solar)
 Bayilere Özel
 −
 1

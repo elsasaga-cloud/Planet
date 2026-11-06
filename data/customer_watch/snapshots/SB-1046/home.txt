@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Systemy alarmowe i monitoringu CCTV | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -48,34 +48,34 @@ konfiguratory
 szkolenia
 zwroty
 Menu
-Już od ponad 20 lat razem z firmą Bosch Jesienne okazje Dahua Postaw na UPSy Armac w promocyjnej cenie Hikvision - Promocja listopad 2026 Dahua Promocja CCTV listopad 2026 Optiva - listopadowe przeceny Texecom - wiodąca firma zabezpieczeń Promocja na centrale Ropam Niezawodna marka taniej w zestawach Nowość - Artykuły Elektryczne
+Już od ponad 20 lat razem z firmą Bosch Jesienne okazje Dahua Postaw na UPSy Armac w promocyjnej cenie Hikvision - Promocja listopad 2026 Dahua Promocja CCTV listopad 2026 Listopadowa promocja Uniview Optiva - listopadowe przeceny Texecom - wiodąca firma zabezpieczeń Promocja na centrale Ropam Niezawodna marka taniej w zestawach Nowość - Artykuły Elektryczne
 Systemy alarmowe i monitoringu CCTV
 W sklepie iVolta.pl znajdziesz bogatą ofertę rozwiązań z zakresu systemów alarmowych i monitoringu . Od 25 lat kreujemy rynek w Polsce, przez co proponujemy naszym Klientom najlepsze rozwiązania stosowane w systemach zabezpieczeń. Jesteśmy autoryzowanym dystrybutorem systemów alarmowych firmy Satel i systemów monitoringu Hikvision oraz Dahua - dzięki temu masz pewność, że sprzęt, który u nas znajdziesz spełni Twoje oczekiwania. Dostarczamy urządzenia do systemów telewizji przemysłowej CCTV, systemów sygnalizacji włamania i napadu SSWIN, systemów kontroli dostępu KD i systemów sygnalizacji pożaru SSP. Posiadamy szeroki asortyment produktów do systemów nagłośnieniowych i DSO.
 Współpracujemy z instalatorami, inwestorami oraz biurami projektowymi, aby dobierać systemy zabezpieczeń najlepiej dopasowane do Twoich potrzeb. Bogata oferta produktowa oraz rozbudowany magazyn gwarantują szeroki wybór rozwiązań z zakresu systemów alarmowych i monitoringu. Zapewnimy Ci również doradztwo oraz pomoc w zakupach. Nasz zespół to ponad 70 osób w centrali firmy w Warszawie oraz 10 oddziałach regionalnych, dbających o wysoki poziom obsługi na terenie całej Polski. Bezstresowy zwrot zakupionego towaru w ciągu 14 dni oraz własny dział serwisowy to gwarancja Twojej satysfakcji na każdym etapie realizacji zamówienia. Zapraszamy do zakupów.
 Nowości
 zobacz wszystkie
-Autonomiczna czujka dymu SDA-250 SATEL
-120,54 zł brutto
-Dostępność: Chwilowy brak
+Kontaktron magnetyczny, antracyt, NO/NC SMV-30-AN YOTOGI
+40,59 zł brutto
+Dostępność: Dostępny
 Dodaj do koszyka
 Głośnik sufitowy IPS301015-S UNIVIEW
 2 952,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL
-662,97 zł brutto
+Kamera IP turret 4Mpix IR+LED30m ColorHunter IPC3614SB-ADF28KMC-I1 UNIVIEW
+1 820,40 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Fotopułapka Reolink Camovue 8MP LTE Talon Series Talon Series T130 REOLINK
+858,54 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Moduł podstawowy z 20 czujnikami – odstęp 2,5 m TORSUS COMPACT 50 DEA
 11 463,60 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-Kamera IP turret 4Mpix IR+LED30m ColorHunter IPC3614SB-ADF28KMC-I1 UNIVIEW
-1 820,40 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Kamera IP 12Mpix AcuSense IP67, IR+LED 40m 2.8mm DS-2CD20123G2-LIUY/SL(2.8mm) HIKVISION
-2 196,78 zł brutto
+Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL
+662,97 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Akademia zabezpieczeń – szkolenia
@@ -92,16 +92,16 @@ Szkolenie CCTV Uniview - Szczecin
 Sprawdź
 Promocje
 zobacz wszystkie
+Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
+1 665,42 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
 134,07 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
 613,77 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
-1 665,42 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Wyprzedaże
@@ -120,28 +120,26 @@ Dostępność: Dostępny
 Dodaj do koszyka
 W zestawie taniej
 zobacz wszystkie
-Zestaw 10 x MC 740-PE ZZ_10x_MC 740-PE ALARMTECH
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_38 TAVIO
+349,00 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_39 TAVIO
+509,00 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Kontroler 6-sciu przejść, moduł LAN w obudowie z zasilaczem QP600LANPACK PCSC
+Szczegółowe informacje dostępne na karcie produktu
+Zestaw 10 x MC 440 ZZ_10x_MC 440 ALARMTECH
 412,05 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Zetaw do monitoringu ZZUNV_9 UNIVIEW
-400,00 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Zestaw 2xZW600R i 5xAPWK ZZ_2xZW600R_5xAPWK YOTOGI
-1 002,45 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Zestaw wideodomofonowy jednorodzinny+ latarka ZZ_GUARDO_LT9 ORNO
-1 843,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Gotowy zestaw do monitoringu Tavio ZZTAVIO_42 TAVIO
 349,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw wideodomofonowy Genway ZZF-S7V11-2W GENWAY
-1 999,00 zł brutto
+Papier termoczuły do drukarek 112mm x 20m, 10 rolek ZZ_papier termiczny 112mm x 20m MEFA
+110,70 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
 Zostań naszym
@@ -253,5 +251,4 @@ Drogi Użytkowniku!
 ×
 Dziękujemy za udział w promocji. Twój kod zostanie aktywowany w koszyku.
 Zgadzam się
-Wstaw opis produktu do karty katalogowej
-×
+Wstaw opis produktu do karty k

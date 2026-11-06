@@ -1,4 +1,4 @@
-# SC-1883 anfatech.com.vn · sitemap · https://anfatech.com.vn/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1883 anfatech.com.vn · sitemap · https://anfatech.com.vn/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 2026-03-18T01:58:32+00:00	https://anfatech.com.vn/
 2025-02-21T00:00:11+00:00	https://anfatech.com.vn/lien-he/
 2023-07-09T14:35:57+00:00	https://anfatech.com.vn/test-table-press/

@@ -1,4 +1,4 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
 2026-11-04	https://www.sisegusa.com/home
@@ -10,11 +10,16 @@
 	https://www.sisegusa.com/payment/payon
 	https://www.sisegusa.com/shop/zk-senseface-7a-lector-facial-pantalla-touch-7-con-lector-huella-y-proximidad-para-control-de-acceso-y-asistencia-ip65-4357
 	https://www.sisegusa.com/shop/combo1-1-ds-7104hghi-m1-t-2-ds-2ce16d0t-irpf-2-ds-2ce56d0t-irpf-4-ds-1h18-a-1-hdd-1tb-dvrwd-776
+	https://www.sisegusa.com/shop/combo4-1-ds-7104hghi-m1-t-2-ds-2ce16d0t-lpfs-2-ds-2ce76d0t-lpfs-4-ds-1h18-a-1-hdd-1tb-dvrwd-780
+	https://www.sisegusa.com/shop/combo5-1-ds-7108hghi-m1-t-2-ds-2ce16d0t-lpfs-4-ds-2ce76d0t-lpfs-6-ds-1h18-a-1-hdd-1tb-dvrwd-781
 	https://www.sisegusa.com/shop/combo2-1-ds-7108hghi-m1-t-2-ds-2ce16d0t-irpf-4-ds-2ce56d0t-irpf-6-ds-1h18-a-1-hdd-1tb-dvrwd-778
 	https://www.sisegusa.com/shop/combo3-1-ds-7116hghi-m1-t-2-ds-2ce16d0t-irpf-6-ds-2ce56d0t-irpf-8-ds-1h18-a-1-hdd-2tb-dvrwd-779
+	https://www.sisegusa.com/shop/combo6-1-ds-7116hghi-m1-t-2-ds-2ce16d0t-lpfs-6-ds-2ce76d0t-lpfs-8-ds-1h18-a-1-hdd-2tb-dvrwd-782
 	https://www.sisegusa.com/shop/combo-acceso-1-ds-k1t320mfx-1-ds-kas-7m01-3053
 	https://www.sisegusa.com/shop/combo-acceso2-1-ds-k1t321mfwx-1-ds-kas-7m01-4288
+	https://www.sisegusa.com/shop/combo-acceso5-1-ds-k1t323mbwx-e1-1-ds-kas-7m01-7959
 	https://www.sisegusa.com/shop/combo-acceso3-1-ds-k1t342mfwx-e1-1ds-kas-7m01-4289
+	https://www.sisegusa.com/shop/combo-acceso4-1-ds-k1t344mbfwx-e1-1-ds-kas-7m01-4290
 	https://www.sisegusa.com/shop/combo-pa3-1-pa-evohd-1-pa-k641-1pa-cajaalarmabl-1pa-tralarm2-1-pa-sirena-1-st-12v-7amp-1-pa-dg75-773
 	https://www.sisegusa.com/shop/combo-pa2-1-pa-mg5050-1-pa-k10h-1-pa-tralarm2-1-st-12v-7amp-1-pa-cajaalarmabl-1-pa-sirena-1-st-l-mg401-772
 	https://www.sisegusa.com/shop/combo-pa-1-pa-sp4000-1-pa-k10h-1-pa-cajaalarmabl-1-pa-sirena-1-pa-tralarm2-1-st-12v-7amp-1-st-l-mg401-771
@@ -123,10 +128,4 @@
 	https://www.sisegusa.com/shop/zk-d2180-arco-detector-de-metales-18-zonas-2966
 	https://www.sisegusa.com/shop/hy-ncn031-arnes-de-pecho-para-bodycam-4228
 	https://www.sisegusa.com/shop/hy-ehn35r-p-audifono-con-microfono-cableado-para-radios-tipo-ap-y-bp-8488
-	https://www.sisegusa.com/shop/hy-es-02-audifono-con-tubo-acustico-para-ser-usado-con-acn-02-3296
-	https://www.sisegusa.com/shop/hy-ean30-p-audifono-con-tubo-acustico-para-ser-usado-con-hy-bc516lf-3486
-	https://www.sisegusa.com/shop/hy-eas07-audifono-con-tubo-acustico-para-ser-usado-con-pncxxx-3479
-	https://www.sisegusa.com/shop/hy-ea-01-audifono-con-tubo-acustico-transparente-3582
-	https://www.sisegusa.com/shop/hy-eh-02-audifono-manos-libres-giratorio-para-ser-usado-con-acn-02-3293
-	https://www.sisegusa.com/shop/hy-ehs24-auricular-estilo-c-con-microfono-3295
-	https://www.sisegusa.com/shop/hy-ehm15
+	https://www.sisegusa.com/shop/hy-es-02-audifono-con-tubo

@@ -1,6 +1,5 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
-JUEVES DE HIK-MASTERS | Activa y Optimiza tu Sistema Hik Fire desde Cero — Únete aquí Ver más
 Productos
 0
 Noticias 0 Especiales
@@ -171,44 +170,46 @@ Carrito
 Productos
 Noticias
 Ver todas
-Adrian · 11h · Telefonía IP
+Nicolas · 11h · Videovigilancia
+Una cámara que también disuade: la turret TurboHD DS-2CE73DF0T-LXTS
+Hikvision suma a su línea TurboHD una turret de 2 MP que graba a color 24/7 con apertura F1.0 y 0.001 lux de iluminación mínima. Ante un evento activa sirena y luz estroboscópica roja/azul.
+Su audio bidireccional SoundMax permite escuchar y hablar a distancia desde la app, con cancelación de eco. Luz dual IR y blanca de 40 m, IP67 y 3D DNR.
+Conoce la turret con sirena de Hikvision 1
+Ruben · 14h · Drones
+Llega a donde nadie más puede llegar: altavoz MP130 Pro de CZI
+El MP130PRO transmite voz en vivo y reproduce grabaciones desde el aire con un alcance de 700 metros, cuenta con luz de advertencia multicolor. Para rescate, control de multitudes y alertamiento en zonas de difícil acceso. Compatible con DJI Matrice M300, M350 y M400.
+Conoce el MP130 Pro de CZI
+LW
+Lydia · 17h · Videovigilancia
+Hikvision Noviembre 2026: DVR Guanlan 3 en 1, AcuSeek y UPS
+Un DVR con 3 funciones de IA a la vez, NVR AcuSeek que encuentra lo que buscas en meses de video, UPS, cámaras para proyectos, control de acceso y alarmas. En noviembre: AxHybrid Pro con 20 % de descuento y equipos demo al 50 %.
+Ve las soluciones de noviembre 1
+Fernando · 17h · Redes
+El switch exterior que ya conoces, ahora con gestión L2+
+El WI-PCMS310GF-O V2 lleva la instalación a la intemperie un paso más allá: 8 puertos Gigabit PoE++ (90 W en los 2 primeros), 110 W de presupuesto y administración L2+ desde la nube — ERPS, ACL y QoS sin entrar al sitio. De -30°C a 60°C: mismo concepto sin gabinete, para redes que crecen.
+Conoce el WI-PCMS310GF-O V2
+Rafael · 18h · Redes
+48 puertos PoE+ y fibra SFP+ para la red del corporativo
+El GWN7806P conmuta hasta 400 W para alimentar toda una planta de dispositivos y ofrece 6 uplinks SFP+ para fibra. Compatible con GWN Cloud, se administra desde la nube sin costo adicional.
+Conoce el GWN7806P de Grandstream
+Leopoldo · 18h · Cableado Estructurado
+Kramer CA-HM-50: cable HDMI activo de 15 metros que mantiene el 4K sin caídas
+Cable HDMI activo de 15.2 m (50 ft) con 4K@60Hz, HDR y triple blindaje. La tecnología activa amplifica la señal en el trayecto para llegar intacta a distancias donde los cables pasivos pierden calidad. Conectores con K-Lock para fijación segura en racks y paredes. Ideal para proyectores de techo, pantallas grandes y salas de juntas donde la fuente queda lejos.
+Conoce el HDMI activo de 15 m de Kramer
+Adrian · 1d · Telefonía IP
 Diadema DECT que no se rinde: Fanvil DH301D
 La DH301D combina DECT 6.0 y Bluetooth 5.3 en modo dual, con cancelación de ruido por IA y audio HD para llamadas limpias. Alcance de 200 m en interiores y 300 m en exteriores, batería reemplazable y resistencia IPX7: pensada para almacenes, plantas y contact center donde el turno no se detiene. Incluye base de carga y botón de emergencia de alta sensibilidad.
 Conoce la diadema DH301D
-Axel · 12h · Redes
+Axel · 1d · Redes
 Nuevos switches core para ISPs con enlaces de fibra óptica de hasta 100 Gbps.
 Los Huawei eKitEngine S630 llegan en versiones S630-24X6C y S630-48X6C, con 6 puertos 100GE y 24 o 48 puertos 10GE para el core de tu red. Lo mejor: son libres de licenciamiento, sin costos extra por funcionalidad.
 Conoce los switches S630
-Rafael · 14h · Radios
+Rafael · 1d · Radios
 Te perdiste la entrevista con Cambium Networks
 La conversación completa ya está disponible en YouTube. Repásala para enterarte de las novedades de la marca en enlaces punto a punto, punto multipunto y redes inalámbricas para integradores.
 Mírala cuando quieras y mantente al tanto de lo que viene para la marca.
 Ve la entrevista completa 1
-Bryan · 15h · Cableado Estructurado
+Bryan · 1d · Cableado Estructurado
 Cursos nVent Hoffman en noviembre: Mérida, Chihuahua y San Luis Potosí
 Agenda presencial de noviembre: infraestructura, energía, climatización y monitoreo para centros de datos (Mérida 10-nov y San Luis Potosí 24-nov) y dimensionamiento e instalación de climatización industrial en gabinetes con estándar IEC y NEMA (Chihuahua 11-nov). Cupo limitado.
-Consulta la agenda Hoffman
-Nicolas · 16h · Videovigilancia
-Grabación en 8K con analíticas de negocio: el NVR DS-7732NXI-I4/16P/S(E)
-Este grabador Hikvision soporta cámaras de hasta 32 MP y graba en 8K, con 16 puertos PoE+ para conectar y alimentar cámaras con un solo cable. AcuSense reduce falsas alarmas distinguiendo personas y vehículos, y suma ANPR, conteo de personas y reconocimiento facial.
-Sus 4 bahías de disco duro y soporte POS lo hacen ideal para retail, estacionamientos y logística.
-Conoce el NVR 8K con ANPR 1
-Victor · 16h · Alarmas e Intrusión
-Panel de alarma y comunicador en una sola placa
-El kit CPLUSPRO-KIT-CORE integra el panel de alarma Connect+ Pro con sirena incluida, comunicador celular multicarrier 4G LTE/5G y Wi-Fi, y posibilidad de automatización Z-Wave.
-Su receptor de doble frecuencia recibe sensores Alula y hace takeover de Honeywell, DSC e Interlogix, hasta 96 zonas inalámbricas encriptadas.
-Incluye teclado mini, control remoto, 2 contactos magnéticos y sensor de movimiento. Control desde la app ALULA Security.
-Conoce el kit Alula Connect+ Pro
-Gregorio · 17h · Audio e Intercom
-La sala de juntas cabe en una pantalla: MeetingBoard 65 Pro
-Yealink integra todo en el MB65PROA02: 4K UHD de 65", triple cámara de 50 MP con zoom híbrido 16X y seguimiento AI, y 16 micrófonos con audio claro hasta 12 metros. Su pizarra interactiva responde en 21 ms y admite 20 puntos táctiles.
-A diferencia de otras pantallas, no requiere cámara, micrófonos ni PC externo: viene certificada para Microsoft Teams y Zoom Rooms, con modo BYOM, WiFi 6 y Bluetooth 5.1.
-Conoce el MeetingBoard 65 Pro
-Luis · 17h · Control de Acceso
-Un lector que aguanta el clima más duro: DS-K1201AMF
-Lector esclavo MIFARE 13.56 MHz con sensor de huella óptico antirrayaduras y capacidad para 9,500 plantillas. Doble verificación (tarjeta o tarjeta+huella) y comunicación RS-485 con los paneles de acceso serie DS-K26 y DS-K27.
-IP65 y operación de -40°C a +70°C: listo para exterior en cualquier región.
-Conoce el lector DS-K1201AMF
-Roberto · 17h · Redes
-WiFi 6 mesh para cubrir oficinas completas: el router DS-3WR15X
-Hasta 1500 Mbps combinando 2.4 GHz y 5 GHz con 802.11ax, OFDMA y beamforming: más dispositivos conectados sin caídas de velocidad. Sus 4 antenas omnidireccionales de 5 dBi y la función mesh extienden la cobertura enlazando varias unidades.
+Consulta la a

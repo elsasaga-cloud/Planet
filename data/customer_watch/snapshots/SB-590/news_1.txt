@@ -1,4 +1,4 @@
-# SB-590 carritech.com · news_1 · https://carritech.com/news-articles/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-590 carritech.com · news_1 · https://carritech.com/news-articles/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Telecom News & Articles | Blog | Carritech Telecommunications
 Skip to content
 Skip to articles
@@ -8,8 +8,8 @@ Technical guidance, industry developments and practical thinking for people mana
 Explore the latest →
 Talk to a specialist →
 Latest article
-Out-of-Band Management: Reaching Your Kit When the Network Is Down
-21 October 2026 Read now →
+Alarm Hygiene: Why Nobody Trusts the Alarm List and How to Fix It
+2 November 2026 Read now →
 On our radar
 Access Network
 Asset Management
@@ -20,22 +20,22 @@ Deinstallation
 Current thinking
 Top stories
 Fresh analysis and practical advice from across the Carritech team.
-L3 Remote Technical Support
-21 Oct 2026
-Out-of-Band Management: Reaching Your Kit When the Network Is Down
-In-band management fails in exactly the conditions where you need it most. What out-of-band management buys you on a legacy estate, how to retrofit craft and console ports, and how to…
-Read the story →
-L3 Remote Technical Support
-21 Oct 2026
-Remote Fault Diagnosis: What You Can Fix Without a Site Visit
+General Knowledge
+2 Nov 2026
+Alarm Hygiene: Why Nobody Trusts the Alarm List and How to Fix It
+Nobody decides to stop trusting the alarm list; it happens one standing alarm at a time. The four kinds of noise, how to make severity mean something again, and a clean-up…
 Read the story →
 Asset Management
-21 Oct 2026
-Clearing Several Sites at Once: How to Sequence a Deinstallation Programme
+2 Nov 2026
+Who Owns the Spare? Consignment, Bonded and Customer-Owned Stock
 Read the story →
-General Knowledge
-21 Oct 2026
-Refurbished Telecom Equipment Warranty: What 12 Months Really Covers
+Asset Management
+2 Nov 2026
+What a Legacy Network Inventory Should Actually Contain
+Read the story →
+Deinstallation
+2 Nov 2026
+Stripping a Decommissioned Site: What to Keep, Sell, Repair or Scrap
 Read the story →
 Browse the newsroom
 Find the insight you need
@@ -44,23 +44,59 @@ Search articles
 Search
 All topics
 Access Network 14
-Asset Management 24
+Asset Management 26
 Company News 13
 Core Network 11
 Data Network 15
-Deinstallation 11
-General Knowledge 26
+Deinstallation 12
+General Knowledge 29
 Industry News 35
-L3 Remote Technical Support 20
+L3 Remote Technical Support 22
 Manufacturers 59
 Optics 8
-Parts Supply 30
-Recycling 21
-Repair & Refurbishment 25
-Support 71
+Parts Supply 34
+Recycling 22
+Repair & Refurbishment 26
+Support 75
 Transport Network 27
-131 articles
+137 articles
 Clear filters
+Network Support Services
+2 Nov 2026
+Setting Up a Test Shelf: Turning a Spare Chassis Into a Test Rig
+A spare chassis on a bench is the cheapest test capability an operator can build. What a telecom test rig needs, what it proves, and…
+8 min read
+Read article →
+L3 Remote Technical Support
+2 Nov 2026
+Root Cause Analysis That Closes: Writing an RCA Somebody Acts On
+Most RCAs are not wrong, they just never turn into anything. What a telecom root cause analysis must contain, and how to make its actions…
+8 min read
+Read article →
+L3 Remote Technical Support
+21 Oct 2026
+Out-of-Band Management: Reaching Your Kit When the Network Is Down
+In-band management fails in exactly the conditions where you need it most. What out-of-band management buys you on a legacy estate, how to retrofit craft…
+9 min read
+Read article →
+L3 Remote Technical Support
+21 Oct 2026
+Remote Fault Diagnosis: What You Can Fix Without a Site Visit
+The difference between a fault closed in forty minutes and a three-hour drive to reseat a card. What can be diagnosed and resolved remotely, what…
+9 min read
+Read article →
+Asset Management
+21 Oct 2026
+Clearing Several Sites at Once: How to Sequence a Deinstallation Programme
+Fifteen sites is a programme, not fifteen jobs. How to sequence a multi-site telecom clearance so the right sites come down in the right order,…
+9 min read
+Read article →
+General Knowledge
+21 Oct 2026
+Refurbished Telecom Equipment Warranty: What 12 Months Really Covers
+Twelve months, parts replaced, no quibble. The headline is not the commitment. What counts as a defect on a used unit, how fast a replacement…
+8 min read
+Read article →
 Asset Management
 21 Oct 2026
 What Happens to a Telecom Rack After It Leaves Your Site
@@ -78,42 +114,6 @@ Network Support Services
 Emergency Telecom Spares: What Actually Gets a Card to Site in 12 Hours
 An emergency telecom spare rarely arrives late because of the courier. Identification, stock position, dangerous goods rules, customs and site access are where the hours…
 9 min read
-Read article →
-L3 Remote Technical Support
-21 Oct 2026
-Out-of-Hours Network Support: What 24/7 Cover Actually Commits To
-24/7 describes a phone line, not an outcome. The difference between contactability, response and restoration, why legacy platforms expose the gap faster, and seven questions…
-8 min read
-Read article →
-Asset Management
-21 Oct 2026
-WEEE Duties When Telecom Equipment Leaves Your Estate
-Network hardware sits on the business-to-business side of the WEEE regime, and the duty of care does not end when the lorry leaves. Who holds…
-7 min read
-Read article →
-General Knowledge
-20 Oct 2026
-Accepting a Refurbished Unit: What to Test Before It Carries Traffic
-Supplier testing proves the unit worked before it was packed. Acceptance testing proves it works in your configuration after transit. What to check at goods-in,…
-9 min read
-Read article →
-Asset Management
-15 Oct 2026
-Preventive Maintenance for Legacy Networks: What to Check and How Often
-Preventive maintenance is the first line cut and the last one missed. What is actually worth checking on an ageing telecom estate, how often, and…
-8 min read
-Read article →
-Asset Management
-15 Oct 2026
-Storing Legacy Telecom Spares: What Goes Wrong on the Shelf
-A spare is only a spare if it still works. What actually degrades on the shelf, how to get storage conditions and ESD control right,…
-9 min read
-Read article →
-Asset Management
-28 Sep 2026
-Obsolescence Forecasting: Which Legacy Platform Breaks Your Estate Next?
-Obsolescence never arrives suddenly - it accumulates quietly for years and then presents a bill. How to score an estate so the scarce budget goes…
-8 min read
 Read article →
 Load more articles ↓
 Independent support for legacy, end-of-life and multi-vendor telecom networks.

@@ -1,4 +1,4 @@
-# SB-271 dodicelettronica.it · home · https://www.dodicgroup.it/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-271 dodicelettronica.it · home · https://www.dodicgroup.it/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Dodic: soluzioni di sicurezza antifurto, video e domotica -
 0775 840029
 marketing@dodic.it
@@ -168,6 +168,8 @@ Sistemi di Accumulo
 Porte Automatiche
 Con 50 anni di esperienza, offriamo ai nostri clienti installatori e professionisti del settore della sicurezza, le soluzioni ed il supporto adeguati ad ogni esigenza: prodotti dei migliori brand, assistenza tecnica, consulenza di vendita, corsi di formazione, e-commerce, sopralluoghi in affiancamento; preventivi strutturati e supporto nei progetti.
 Scopri le ultime novità Dodic!
+Presentazione Arteco – Latina
+Partecipa alla presentazione Arteco in data 18 Novembre presso la nostra sede di Latina!
 Corso Ajax – Roma Nord
 Iscriviti al corso formativo Ajax su TVCC e gamma Superior in data 19 Novembre presso Roma Nord.
 Corso Ajax – Latina
@@ -186,9 +188,7 @@ Corso Micromac – Latina
 Non perderti il nuovo corso Micromac sulla rilevazione gas professionale presso la sede DSL
 Corso UNV – Casoria
 Il 30 settembre la sede Dodic Elettronica ospiterà un corso tecnico UNV dedicato alle soluzioni TVCC.
-Corso UNV – Frosinone
-Non perderti il nuovo corso formativo sulle soluzioni TVCC. Prenota ora e scopri le novità in programma!
-Showing Slide 1 of 10: Corso Ajax – Roma Nord
+Showing Slide 1 of 10: Presentazione Arteco – Latina
 Il punto di riferimento per i professionisti del settore.
 Dal 1975, una storia di sicurezza e innovazione.
 Supporto Tecnico
@@ -334,3 +334,4 @@ All Post
 Sede di Roma Sud
 Sede di Roma Ovest
 Sede di Pescara
+

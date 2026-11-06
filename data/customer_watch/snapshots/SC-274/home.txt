@@ -1,4 +1,4 @@
-# SC-274 alcadon.no · home · https://www.alcadon.no/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-274 alcadon.no · home · https://www.alcadon.no/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Alcadon AS - Leverandør av infrastruktur for nettverk
 1005001
 /search
@@ -15,6 +15,12 @@ Merkenavn
 0 && ! ShowArticlesRHS()">
 Artikler
 Antal artiklar hittade:
+0">
+Produkter
+Varenr
+Pris
+0">
+AI svar:
 Tilbehør
 Alternativ
 Artikler
@@ -40,7 +46,9 @@ produkt
 produkter
 ( )
 0, css: { 'cart-small-togle-open': popoverOpen() }" style="display: none;">
-0" style="display: none;">
+0 && showGoToCheckout " style="display: none;">
+Til kassen
+0 && !showGoToCheckout" style="display: none;">
 Til kassen
 ×
 0" class="btn-group" role="group" aria-label="...">
@@ -67,7 +75,7 @@ Totalt ink. mva
 0), text: summarySumAfterCostReductionsIncVat">
 0)">
 Eller leasing for
-0)">
+0), css: {'btn-primary' : !showGoToCheckout, 'btn-default': showGoToCheckout}">
 Til handlevogn
 0 && OrderbookDate() != null && OrderbookDate().length > 0, text: displayDate">
 0)">

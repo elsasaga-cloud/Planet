@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_1 · https://www.es-france.com/blog/category/1-actualites · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-423 es-france.com · news_1 · https://www.es-france.com/blog/category/1-actualites · fetched 2026-11-06T09:32:27Z · HTTP 200
 Toutes les actualités d'ES France : Nouveaux et focus produits
 Close
 Menu
@@ -321,14 +321,21 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Les meilleurs projets SDR pour découvrir la radio logicielle
+Suivi aéronautique, réception satellite, analyse de capteurs, radioastronomie ou réseaux 5G : explorez les...
 Analyseurs de gaz O₂ et H₂S portables et fixes pour l'industrie
 Mesurez l'oxygène O₂ et le sulfure d'hydrogène H₂S avec les analyseurs portables et fixes AMI pour le contrôle des...
 Microphones de mesure, simulateurs d’oreille et équipements de test : téléchargez le flyer de présentation
 Solutions acoustiques GRAS : microphones et équipements de mesure
-Solutions RF et mmWave : du prototypage aux tests
-Découvrez nos solutions RF et mmWave pour la 5G, 6G, Satcom et radar : beamformers, convertisseurs, RIS, SDR et...
 Actualités
-Il y a 1422 Actualités.
+Il y a 1423 Actualités.
+Les meilleurs projets SDR pour découvrir la radio logicielle
+Posté le: 04/11/26
+|
+Catégories:
+Actualités , NI
+Suivi aéronautique, réception satellite, analyse de capteurs, radioastronomie ou réseaux 5G : explorez les applications possibles de la SDR.
+Lire plus
 Analyseurs de gaz O₂ et H₂S portables et fixes pour l'industrie
 Posté le: 04/11/26
 |
@@ -391,13 +398,6 @@ Posté le: 28/10/26
 Catégories:
 Actualités , NI
 Découvrez les nouveautés NI PXI : multimètre PXIe-4086, oscilloscopes PXIe-5160/5162 et évolutions du logiciel InstrumentStudio™.
-Lire plus
-Comment choisir son manomètre ou mélangeur de gaz ?
-Posté le: 27/10/26
-|
-Catégories:
-Actualités , BIO-TESTS & INDUSTRIES
-Mesurez la pression et générez vos mélanges gazeux avec les solutions Gometrics : manomètres numériques, étalonnage et dilution de gaz.
 Lire plus
 1
 2

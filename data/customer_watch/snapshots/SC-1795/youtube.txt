@@ -1,4 +1,4 @@
-# SC-1795 bbcpl.in · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCZO6P-iZFLN8CQUtb5tbnDw · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1795 bbcpl.in · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCZO6P-iZFLN8CQUtb5tbnDw · fetched 2026-11-06T09:32:27Z · HTTP 200
 2026-06-13T06:36:09+00:00	LIU	https://www.youtube.com/watch?v=Tadc3LxbVBc
 2026-05-11T12:28:55+00:00	May 11, 2026	https://www.youtube.com/watch?v=CQsUK3H_VNI
 2025-06-30T06:42:31+00:00	IGSW-24040T- Industrial L2+ 20-Port 10/100/1000T + 4-Port TP/SFP Combo Managed Ethernet Switch	https://www.youtube.com/watch?v=b62jjRd2hxc

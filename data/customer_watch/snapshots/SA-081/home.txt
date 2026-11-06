@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,36 +146,37 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Stabilizzatori Elettronici
-Eurogroup ER3000: stabilizzatore elettronico monofase 3000 VA ±20% | ERMM003K20T
+Fire Protect OM1
+4Net Cavo fibra Fire Protect OM1 48 fibre armato LSZH B2ca | CF62BA48LSM2
 Esegui l'accesso per visualizzare i prezzi
 +
-KVM Switch
-Combo Kvm Switch 16-Porte Gestisce Fino A 256 Computers
+Unmanaged
+PLANET GT-806B15: media converter Gigabit WDM monomodale 20 km
 Esegui l'accesso per visualizzare i prezzi
 +
+Esaurito
 Antenne e Cavi
-Cavo 10G Sfp+ Diretto – 0.5 Metri
+PLANET CB-QSFP4X25G-3M: cavo breakout 100G QSFP28 a 4x25G SFP28 da 3 m
 Esegui l'accesso per visualizzare i prezzi
 +
-10 GB
-10G Sfp+ Fiber Transceiver (Single-Mode) – 40Km ( -40 A 75°C), Ddm Supported
+Armadi Rack a parete
+Armadio rack 19″ IP55 a parete 9U 600×600 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Accessori
-Gpon Olt Sfp Transceiver (Class C++, Optical Power: 4.5Dbm~10Dbm, Download 2.5G/Upload 1.25G, Tx: 1490Nm, Rx: 1310Nm) – 20Km
+Unmanaged
+PLANET IFGS-1022HPT v3: switch industriale 8 porte PoE+ + 2 combo Gigabit
 Esegui l'accesso per visualizzare i prezzi
 +
-Bussole
-Bussola SC simplex multimodale OM4 | 4Net
+Armadi Rack a pavimento
+Armadio rack 19″ IP55 a pavimento 42U 600×1000 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-L2/Web Smart
-PLANET GS-2210-16T2S: switch Web Smart 16 porte Gigabit + 2 SFP
+Armadi 600x600
+Armadio Rack a Pavimento 32U 600×600 Porta in Vetro RAL 9004 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Patch Cord Cat 6
-Patch Cord Rj45 Sstp Cat 6 1,0M
+Piedini e Ruote
+Ruote con Freno – Capacità di carico 200Kg
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta

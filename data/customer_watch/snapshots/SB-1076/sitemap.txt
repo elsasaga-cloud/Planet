@@ -1,7 +1,7 @@
-# SB-1076 simplifinetworks.com · sitemap · https://simplifinetworks.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
-2026-11-05T09:42:24.053Z	https://www.simplifinetworks.com/
-2026-11-05T09:42:24.053Z	https://www.simplifinetworks.com/products
-2026-11-05T09:42:24.053Z	https://www.simplifinetworks.com/products-catalogs
+# SB-1076 simplifinetworks.com · sitemap · https://simplifinetworks.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T09:26:42.044Z	https://www.simplifinetworks.com/
+2026-11-06T09:26:42.044Z	https://www.simplifinetworks.com/products
+2026-11-06T09:26:42.044Z	https://www.simplifinetworks.com/products-catalogs
 2026-11-01T00:00:00.000Z	https://www.simplifinetworks.com/services
 2026-11-01T00:00:00.000Z	https://www.simplifinetworks.com/blog
 2026-11-01T00:00:00.000Z	https://www.simplifinetworks.com/news-articles

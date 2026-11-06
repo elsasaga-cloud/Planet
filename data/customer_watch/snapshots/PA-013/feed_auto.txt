@@ -1,4 +1,7 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-05T09:39:48Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-06T09:32:27Z · HTTP 200
+05.11.2026 16:20:38	EFB Hylle 1U Ventilert 350 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u350/efb-hylle-1u-ventilert-350-mm-19-max-10-kg-sort
+05.11.2026 16:17:51	EFB Hylle 1U Ventilert 250 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u250/efb-hylle-1u-ventilert-250-mm-19-max-10-kg-sort
+05.11.2026 15:45:41	ACT USB4 Thunderbolt™5 kabel- 1,5m	https://www.leteng.no/act/ac7452/act-usb4-thunderbolt5-kabel-1-5m-usb-c-m-m-80gbps-240w-usb-if-certified
 04.11.2026 12:11:01	Clevertouch CORE 86"	https://www.leteng.no/clevertouch/15486ctcore/clevertouch-core-86-4k
 04.11.2026 12:08:26	Clevertouch CORE 75"	https://www.leteng.no/clevertouch/15475ctcore/clevertouch-core-75-4k
 04.11.2026 11:31:08	Clevertouch CORE 65"	https://www.leteng.no/clevertouch/15465ctcore/clevertouch-core-65-4k
@@ -28,10 +31,11 @@
 12.10.2026 10:01:50	EFB Rack Skap Vegg 19" 4U	https://www.leteng.no/efb-elektronik/691704vgr-dot-40/efb-rack-skap-vegg-19-4u-rack-4u-400mm-gr%c3%a5-maks-50kg
 06.10.2026 12:41:30	DFY Artplug 60 GST18, Sort	https://www.leteng.no/leteng-as/eap-blk-60gst/dfy-artplug-60-gst18-sort-2x-usb-c-usb-a-pd
 06.10.2026 12:05:49	APTO Penneskuff i filt Mørkgrå	https://www.leteng.no/apto/4000-0002-0026/apto-penneskuff-i-filt-m%c3%b8rkgr%c3%a5-h-44mm-b-562-733mm-d-260mm
-06.10.2026 10:16:22	Clevertouch CL Touch Totem 65"	https://www.leteng.no/clevertouch/12965cltouchtotem/clevertouch-cl-touch-totem-65-touch-24-7-audio-2x5-watt
-06.10.2026 10:14:35	Clevertouch CL Touch Totem 55"	https://www.leteng.no/clevertouch/12955cltouchtotem/clevertouch-cl-touch-totem-55-touch-24-7-audio-2x5-watt
+06.10.2026 10:16:22	Clevertouch CL Touch TOTEM 65"	https://www.leteng.no/clevertouch/12965cltouchtotem/clevertouch-cl-touch-totem-65-touch-24-7-audio-2x5-watt
+06.10.2026 10:14:35	Clevertouch CL Touch TOTEM 55"	https://www.leteng.no/clevertouch/12955cltouchtotem/clevertouch-cl-touch-totem-55-touch-24-7-audio-2x5-watt
 05.10.2026 18:52:31	HighSecLabs Office Mini-Matrix KVM 4p	https://www.leteng.no/highseclabs/sx42phu-n/highseclabs-office-mini-matrix-kvm-4p-4p--gt--2p-hdmi-video-susb-3-dot-0-uhd-4k60
 05.10.2026 15:54:09	AH Cables 4 star ECON Cat.6A 50 m	https://www.leteng.no/adam-hall/k4cat65000/ah-cables-4-star-econ-cat-dot-6a-50-m-cat-dot-6a-cable-rj45-to-rj45
+05.10.2026 15:10:27	Clevertouch PRO Series 3 86"	https://www.leteng.no/clevertouch/15486proseries3/clevertouch-pro-series-3-86-4k-google-edla
 05.10.2026 14:53:16	Clevertouch CL PRO 2 98"	https://www.leteng.no/clevertouch/12998clpro2/clevertouch-cl-pro-2-98-4k-24-7
 05.10.2026 14:48:41	Clevertouch CL PRO 2 86"	https://www.leteng.no/clevertouch/12986clpro2/clevertouch-cl-pro-2-86-4k-24-7
 05.10.2026 14:41:57	Clevertouch CL PRO 2 75"	https://www.leteng.no/clevertouch/12975clpro2/clevertouch-cl-pro-2-75-4k-24-7
@@ -94,8 +98,4 @@
 03.09.2026 14:17:06	UTP Patch Cat.6 - 25 m Grå LSZH	https://www.leteng.no/efb-elektronik/k8104gr-dot-25/utp-patch-cat-dot-6-25-m-gr%c3%a5-lszh-250mhz-24awg-halogenfri-snagless
 03.09.2026 12:40:28	AiC PlugIt - Adapterring	https://www.leteng.no/aic-all-in-cable/aic-plugit-126w/aic-plugit-adapterring-hvit
 03.09.2026 12:27:03	Purelink USB-C Dock *B-vare*	https://www.leteng.no/purelink/pt-hub-100_b/purelink-usb-c-dock--asteriks-b-vare-asteriks--18gbps-4k-60hz-4-4-4
-01.09.2026 13:07:34	HSL SecureKVM Extender Fiber	https://www.leteng.no/highseclabs/fife11ph-mt/hsl-securekvm-extender-fiber-dp-hdmi--and--usb-tastatur-mus
-01.09.2026 09:55:04	Fiberpatch 9/125 LC-LC - 1,5 m	https://www.leteng.no/act/rl9951/fiberpatch-9-125-lc-lc-1-5-m-os2
-27.08.2026 13:04:54	Planet Power Switch 8-p med cascad 2-p	https://www.leteng.no/planet-technology-corp-dot-/ipm-8221/planet-power-switch-8-p-med-cascad-2-p-snmp
-27.08.2026 12:32:17	ACT 2-port USB-C 100W	https://www.leteng.no/act/ac2175/act-2-port-usb-c-100w-power-delivery-pps-ganfast
-27.08.2026 12:21:41	Planet Konverter 2-p10G	https://www.leteng.no/planet-technology-corp-dot-/ixt-815at/planet-konverter-2-p10g-10g-2-dot-5g-1g-100base-x-sfp-plus--ip30
+03.09.2026 10:02:07	Clevertouch IMPACT LUX 2 86"	https://www.leteng.no/clevertouch/15486impactlux2/clevertouch-impact-lux-2-86-4k-touch-tr%c3%a5dl%c3%b8s-byod-google-edla

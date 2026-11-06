@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-11-06T09:32:27Z · HTTP 200
 Shopping, Novos produtos
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -507,6 +507,12 @@ Escreva-nos!
 2
 »
 Todos
+Ao carrinho
+Visualização
+Código: K03829
+€548.12
+€445.63 s/IVA
+Disponível
 Visualização
 Monitor Hikvision DS-D5022F2-1P2 (21,45", 16:7, IPS, FHD, HDMI, VGA, Áudio)
 O DS-D5022F2-1P2 é um monitor Hikvision concebido para utilização em sistemas de vigilância CCTV que operam 16 horas por dia, 7 dias por semana.
@@ -574,6 +580,4 @@ Kit para até 5 câmaras IP, numa caixa exterior ABOX-M2, fonte de alimentação
 • Até 40 W de potência por porta PoE restante
 • Opera nos modos Standard e Longo Alcance
 • Alta eficiência do módulo de alimentação: acima de 90%
-• Design modular para fácil manutenção e expansão
-• Carcaça exterior com classificação de proteção IP56
-• Pre
+• Design modular para fácil manutenç

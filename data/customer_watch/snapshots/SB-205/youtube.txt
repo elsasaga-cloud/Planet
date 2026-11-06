@@ -1,4 +1,5 @@
-# SB-205 barox.de · youtube · https://www.youtube.com/@baroxkommunikationag4606 · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-205 barox.de · youtube · https://www.youtube.com/@baroxkommunikationag4606 · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T07:40:01+00:00	Integrating DW Spectrum IPVMS into barox Switch Management	https://www.youtube.com/watch?v=1Xr6afZKoTM
 2026-11-05T07:34:04+00:00	Integrating Advancis WinGuard PSIM with barox Switch Management.	https://www.youtube.com/watch?v=pD4xCrUZKoM
 2026-11-03T07:22:30+00:00	Integrating Gallagher Command Centre with barox Switch Management (Short Version)	https://www.youtube.com/watch?v=FcnSq1Ntk3o
 2026-10-22T08:25:24+00:00	Integrating Gallagher Command Centre with barox Switch Management	https://www.youtube.com/watch?v=niKnrPV_B50
@@ -13,4 +14,3 @@
 2023-09-01T09:03:10+00:00	Artefakte DE	https://www.youtube.com/watch?v=Sj9Bt3CeTRI
 2023-09-01T08:57:07+00:00	Cyber Security EN	https://www.youtube.com/watch?v=vEa7BtwWqLM
 2023-09-01T08:52:40+00:00	Cyber Security DE	https://www.youtube.com/watch?v=Zw6jaiGlUaY
-2023-04-19T08:14:56+00:00	PoE-Technologie im Wandel	https://www.youtube.com/watch?v=czYEux2x4Ss

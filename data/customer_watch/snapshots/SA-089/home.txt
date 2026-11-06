@@ -1,4 +1,4 @@
-# SA-089 lancomat.cz · home · https://www.lancomat.cz:443/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SA-089 lancomat.cz · home · https://www.lancomat.cz:443/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Lancomat.cz - vše pro strukturované kabeláže, optické sítě a rozvaděče
 Nákupní asistent
 +420 284 680 755 info@lancomat.cz
@@ -33,30 +33,62 @@ Propojovací kabely
 Zásuvky
 Nové produkty
 Novinka
-Kód: 7935
-Kabelová zemní komora s víkem (zatížení do 500kg) vč. dna a průchodek, 495x403x407mm
-2 608 Kč 3 156 Kč s DPH / 1 ks
-Na dotaz
-Novinka
-Kód: GF108UNI08LU-Eca
-Optický kabel, UDU - gelový, 8x9um OS2 G657A1, univerzální, LSHF Eca, černý
-15,0 Kč 18,2 Kč s DPH / 1 m
+Kód: ACAR-S8-2M-RACK-BL
+Vícenásobná zásuvka, 8 pozic, 1,5m kabel, přepěťová ochrana, vypínač, 19", černá
+661 Kč 800 Kč s DPH / 1 ks
 Skladem
 Novinka
-Kód: P-LC-2-M53L
-Pigtail LC/PC, 50um MM, vlákno OM3, délka 2m
-28,0 Kč 33,9 Kč s DPH / 1 ks
+Kód: IGS-5225-4T2S
+Průmyslový switch, L2/L3 static, 4×GLAN, 2×SFP, konzolový RJ-45, podpora VLAN
+7 408 Kč 8 964 Kč s DPH / 1 ks
+Bežně do dvou týdnů
+Novinka
+Kód: PONE30STPBL
+PATCHBOX.ONE Cat.6a sestava (STP, Blue, 1.8m / 30RU)
+14 626 Kč 17 697 Kč s DPH / 1 ks
 Skladem
 Novinka
-Kód: 10187
-Profesionální odvíječ kabelů X-BOARD XB500 T - teleskopické prodloužení
-7 574 Kč 9 165 Kč s DPH / 1 ks
+Kód: LC-18-55-15-W
+Rozvaděč SOHO LC-18 s lištami 2U, 4U a 11U, 550x550x150mm, bílý
+2 285 Kč 2 765 Kč s DPH / 1 ks
+Skladem
+Novinka
+Kód: GFOM4CDT08STALU-B2ca
+Optický kabel, CDT STA, 8x50um OM4, univerzální, HFFR-LS B2ca, černý
+81,0 Kč 98,0 Kč s DPH / 1 m
+Skladem
+Novinka
+Kód: 21.99.0721
+Venkovní propojovací kabel RJ45/RJ45, S/FTP, 30m, kat. 6A, TPE, LSOH, černý
+722 Kč 874 Kč s DPH / 1 ks
 Skladem ext.
 Novinka
-Kód: SXKD-6A-UTP-LSOHFR-B2ca
-Kabel U/UTP, kat.6A, LSOHFR B2ca s1a,d1,a1, oranžový, cívka 500m
-10 462 Kč 12 659 Kč s DPH / 1 bal
-Skladem ext.
+Kód: P-LC-1-M55L
+Pigtail LC/PC, 50um MM, vlákno OM5, délka 1m
+30,0 Kč 36,3 Kč s DPH / 1 ks
+Na cestě - na dotaz
+Novinka
+Kód: IP-SEI-318C36C932
+Monitorované PDU, 0U, 7,2kW, výstupy (18)C13 a (6)C19, zástrčka EN 60309 (1x32A), kabel 3m
+36 419 Kč 44 067 Kč s DPH / 1 ks
+Běžně do měsíce
+Novinka
+Kód: CBR2M-M6
+Vázací plastová páska Contour-Ty, rozměr 2,5x185,4 mm, UV stabilní, in/exdoor, bal.1000ks
+47 215 Kč bez DPH / 5 bal
+57 130 Kč / 5 bal
+9 443 Kč 11 426 Kč s DPH / 1 bal
+Běžně do měsíce
+Novinka
+Kód: ORN-48 SC
+Nástěnný optický rozvaděč pro 48 spojek E2000/LC/SC, šedý
+2 048 Kč 2 478 Kč s DPH / 1 ks
+Skladem
+Novinka
+Kód: SXKJ-6-UTP-RAL-SA
+Modul Keystone, RJ45, kat. 6, UTP, samořezný, černý, RAL FIT moduly
+82,0 Kč 99,2 Kč s DPH / 1 ks
+Skladem
 Novinka
 Kód: AC-TM4-13-4000
 Střešní klimatizační jednotka CoolSpot DX, 1250W, 230 VAC 1f, bez instalačního rámu, šedá
@@ -68,54 +100,24 @@ Optický box na DIN lištu, dvě pozice E2000/LC/SC, bílý
 81,0 Kč 98,0 Kč s DPH / 1 ks
 Na dotaz
 Novinka
-Kód: ORN-48 SC
-Nástěnný optický rozvaděč pro 48 spojek E2000/LC/SC, šedý
-2 048 Kč 2 478 Kč s DPH / 1 ks
-Skladem
-Novinka
-Kód: 21.99.0721
-Venkovní propojovací kabel RJ45/RJ45, S/FTP, 30m, kat. 6A, TPE, LSOH, černý
-722 Kč 874 Kč s DPH / 1 ks
-Skladem ext.
-Novinka
 Kód: PLT4S-M6
 Prémiová vázací plastová páska Pan-Ty, 4,8x368mm, UV stabilní, vnitřní, bal. 1000ks
 5 998 Kč 7 258 Kč s DPH / 1 bal
 Běžně do měsíce
+Novinka
+Kód: SXKD-6A-UTP-LSOHFR-B2ca
+Kabel U/UTP, kat.6A, LSOHFR B2ca s1a,d1,a1, oranžový, cívka 500m
+10 462 Kč 12 659 Kč s DPH / 1 bal
+Skladem ext.
 Novinka
 Kód: U02S12V
 UPS SteadySine, 2kVA, 2U, 230V, 1f, LCD, VRLA
 36 755 Kč 44 474 Kč s DPH / 1 ks
 Běžně do měsíce
 Novinka
-Kód: P-LC-1-M55L
-Pigtail LC/PC, 50um MM, vlákno OM5, délka 1m
-30,0 Kč 36,3 Kč s DPH / 1 ks
-Na cestě - na dotaz
-Novinka
-Kód: ACAR-S8-2M-RACK-BL
-Vícenásobná zásuvka, 8 pozic, 1,5m kabel, přepěťová ochrana, vypínač, 19", černá
-661 Kč 800 Kč s DPH / 1 ks
-Skladem
-Novinka
-Kód: IGS-5225-4T2S
-Průmyslový switch, L2/L3 static, 4×GLAN, 2×SFP, konzolový RJ-45, podpora VLAN
-7 408 Kč 8 964 Kč s DPH / 1 ks
-Bežně do dvou týdnů
-Novinka
-Kód: SXKJ-6-UTP-RAL-SA
-Modul Keystone, RJ45, kat. 6, UTP, samořezný, černý, RAL FIT moduly
-82,0 Kč 99,2 Kč s DPH / 1 ks
-Skladem
-Novinka
-Kód: PONE30STPBL
-PATCHBOX.ONE Cat.6a sestava (STP, Blue, 1.8m / 30RU)
-14 626 Kč 17 697 Kč s DPH / 1 ks
-Skladem
-Novinka
-Kód: GFOM4CDT08STALU-B2ca
-Optický kabel, CDT STA, 8x50um OM4, univerzální, HFFR-LS B2ca, černý
-81,0 Kč 98,0 Kč s DPH / 1 m
+Kód: P-LC-2-M53L
+Pigtail LC/PC, 50um MM, vlákno OM3, délka 2m
+28,0 Kč 33,9 Kč s DPH / 1 ks
 Skladem
 Novinka
 Kód: PUFL6X04WH-HED
@@ -125,15 +127,15 @@ Kabel U/FTP, kat. 6A, LSZH Dca-s2-d2-a1, bílý, cívka 500m
 33 834 Kč 40 939 Kč s DPH / 1 bal
 Běžně do měsíce
 Novinka
-Kód: LC-18-55-15-W
-Rozvaděč SOHO LC-18 s lištami 2U, 4U a 11U, 550x550x150mm, bílý
-2 285 Kč 2 765 Kč s DPH / 1 ks
-Skladem
+Kód: 7935
+Kabelová zemní komora s víkem (zatížení do 500kg) vč. dna a průchodek, 495x403x407mm
+2 608 Kč 3 156 Kč s DPH / 1 ks
+Na dotaz
 Novinka
-Kód: IP-SEI-318C36C932
-Monitorované PDU, 0U, 7,2kW, výstupy (18)C13 a (6)C19, zástrčka EN 60309 (1x32A), kabel 3m
-36 419 Kč 44 067 Kč s DPH / 1 ks
-Běžně do měsíce
+Kód: GF108UNI08LU-Eca
+Optický kabel, UDU - gelový, 8x9um OS2 G657A1, univerzální, LSHF Eca, černý
+15,0 Kč 18,2 Kč s DPH / 1 m
+Skladem
 Limitovaná akce
 Akce
 Kód: 21.15.0501
@@ -157,40 +159,19 @@ Ruční tiskárna štítků pro MP tiskové kazety
 Skladem
 Snížená cena
 Sleva
-Kód: CJ5E88TGBL
-Modul MINI-COM TX UTP, RJ45, kat. 5E, černý
-199 Kč
+Kód: NUZ6C04BU-KE
+Kabel U/UTP, kat. 6, LSZH Dca-s2, d2, a1, NetKey, modrý, box 305m
+8 234 Kč
 Skladem
 Sleva
-Kód: SXKD-5E-UTP-PVC
-Kabel U/UTP, kat.5E, PVC Eca, šedý, box 305m
-2 399 Kč
-Skladem
-Výprodej
-Sleva
-Kód: P-ST-1-M5L
-Pigtail ST/PC, 50um MM, vlákno OM2, délka 1m
-19,0 Kč
+Kód: S8-18-C0
+Vázací plastová páska StrongHold, 2,5x200mm, Nylon 6.6, černá, UV stab. bal. 100 kusů
+59,0 Kč
 Skladem
 Sleva
-Kód: PUL5504WH-EY
-Kabel U/UTP, kat. 5E, LSZH, Dca-s2-d2-a1, bílý, box 305m
-3 394 Kč
-Na cestě - na dotaz
-Sleva
-Kód: FAOC-LC-APC-SM-R-25
-Krimpovací optický konektor LC/APC, singlemode, pro vlákno 900 um nebo 250um
-99,0 Kč
-Skladem
-Sleva
-Kód: CPP48WBLY
-Patch panel pro 48 modulů MINI-COM, 2U, 19", neosazený, černý
-1 459 Kč
-Skladem
-Sleva
-Kód: DL-1G-RJ45-PoE-AB
-Přepěťová ochrana datové linky kat. 6 s konektory RJ45, DIN
-2 709 Kč
+Kód: DP-BP-01-H
+Průchozí panel s kartáčem, 19", 1U, černý
+518 Kč
 Skladem
 Sleva
 Kód: CFPFLS1SAW
@@ -203,24 +184,14 @@ Utahovací kleště na vázací plastové pásky Panduit, do max. šířka 4,8mm
 499 Kč
 Skladem
 Sleva
-Kód: CM6PIW
-Zásuvka MuTOA pro 6 modulů Panduit, bez držáků modulů, šedobílá
-279 Kč
-Skladem
-Sleva
-Kód: NK2BXAW-A
-Zásuvka pro 2 moduly NetKey, na omítku, arkticky bílá
-117 Kč
-Skladem
-Sleva
 Kód: CJ5E88TGAW
 Modul MINI-COM TX UTP, RJ45, kat. 5E, arkticky bílý
 199 Kč
 Skladem
 Sleva
-Kód: CJ5E88TGWH
-Modul MINI-COM TX UTP, RJ45, kat. 5E, bílý
-199 Kč
+Kód: NK5E88MBLY
+Modul NetKey UTP, RJ45, kat. 5E, černý
+114 Kč
 Skladem
 Sleva
 Kód: CMHDMIWH
@@ -228,43 +199,72 @@ Spojka HDMI 1.4, MINI-COM, bílá
 569 Kč
 Skladem
 Sleva
-Kód: DP-BP-01-H
-Průchozí panel s kartáčem, 19", 1U, černý
-518 Kč
-Skladem
-Sleva
 Kód: S14-120-TL0
 Vázací plastová páska StrongHold, 7,6x368mm, Nylon 6.6, černá, UV stab. bal. 250 kusů
 379 Kč
 Skladem
-Výprodej
 Sleva
-Kód: PSL7A04WH-HED
-Kabel S/FTP, kat. 7A, 1500MHz, LSZH, Dca,s1a,d1,a1, bílý, cívka 500m
-11 700 Kč
+Kód: DL-1G-RJ45-PoE-AB
+Přepěťová ochrana datové linky kat. 6 s konektory RJ45, DIN
+2 709 Kč
 Skladem
 Sleva
-Kód: NKFP24Y
-Patch panel pro 24 modulů NetKey, 1U, 19", neosazený, modulární, černý
-941 Kč
+Kód: NK2BXAW-A
+Zásuvka pro 2 moduly NetKey, na omítku, arkticky bílá
+117 Kč
 Skladem
 Sleva
-Kód: FLCSMCXAQY
-Konektor OptiCam LC MM 50/125/900um OM3/4/5, simplex, modrý
-369 Kč
+Kód: CPP48WBLY
+Patch panel pro 48 modulů MINI-COM, 2U, 19", neosazený, černý
+1 459 Kč
 Skladem
 Sleva
-Kód: FDT-Cca-B305GN
-Kabel F/UTP, AWG23, kat. 6A LSZH, Cca,s1a,d1,a1, box 305m, zelený
-6 192 Kč
+Kód: EGPT
+Terminační nástroj pro konektory RJ45 "field plug"
+129 Kč
+Skladem
+Sleva
+Kód: CJ588WHY
+Modul MINI-JACK UTP, RJ45, kat. 5E, bílý
+195 Kč
+Skladem
+Sleva
+Kód: CJ588BLY
+Modul MINI-JACK UTP, RJ45, kat. 5E, černý
+195 Kč
+Skladem
+Sleva
+Kód: 12P-SC-2-M53L-E
+Sada 12 barevných pigtailů SC/PC, 50um MM, vlákno OM3, délka 2m, Easy Strip
+319 Kč
+Skladem
+Sleva
+Kód: CJ5E88TGWH
+Modul MINI-COM TX UTP, RJ45, kat. 5E, bílý
+199 Kč
+Skladem
+Sleva
+Kód: CPPL24WBLY
+Patch panel pro 24 modulů MINI-COM, 1U, 19", neosazený, s popisky, černý
+1 480 Kč
+Skladem
+Sleva
+Kód: TM1S6-M69
+Kabelová příchytka, ohni odolná, Nylon 6.6, bílá, bal. 1000 kusů
+4 490 Kč
+Skladem
+Sleva
+Kód: CJ588AWY
+Modul MINI-JACK UTP, RJ45, kat. 5E, arkticky bílý
+195 Kč
 Skladem
 Články
-Systémová záruka strukturované kabeláže
-Naše půjčovna a služby
-Vše o nákupu
 Výprodej
+Naše půjčovna a služby
 Často kladené dotazy
 Modul Rozpočty
+Systémová záruka strukturované kabeláže
+Vše o nákupu
 Novinky
 Nabídka na měsíc listopad 2026
 Nabídka produktů za zvýhodněné ceny na našem eshopu.

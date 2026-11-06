@@ -1,4 +1,4 @@
-# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl
 Realizacja zamówień: 796 224 537
 Oferty i wyceny: 502 177 440 / 571 033 282 (pn–pt 8–16)
@@ -424,89 +424,49 @@ Zapytaj o cenę
 ›
 Nowości w ofercie
 Nowy
-Dostępne
+Ostatnie sztuki w magazynie
 Produkty
-Przewód HDMI o dużej szybkości transmisji z Ethernetem - Długość kabla 1 m
-GOOBAY
-RB80699
-8,27 zł
+WIDEODOMOFON SIPIO-S8 ACO
+ACO
+SIPIO-S8
+6 192,34 zł
 Dostawa:
-do wtorku, 17.11
-1 104 szt.
-Maksymalna dostępna ilość: 1 104 szt. Większą ilość możemy sprowadzić na zapytanie.
+do piątku, 13.11
+1 szt.
+Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
+Kompatybilność: ACO SIPIO, Systemy SIP ; Przetwornik: 2 Mpx CMOS ; Wyświetlacz: 8 " - 800 px x 1280 px ; Metoda kompresji obrazu: H.264 / H.265 ; Oświetlacz LED; Oświetlacz IR; Wybrane cechy: Wbudowany czytnik zbliżeniowy - 13.56 MHz Wbudowany dotykowy ekran, Komunikacja dwukierunkowa, Wejścia / wyjścia alarmowe : 2 / 1 Wejścia dla czujki kontaktronowej...
 Dodaj
 Nowy
-Dostępne
+Ostatnie sztuki w magazynie
 Produkty
-Przewód HDMI o dużej szybkości transmisji z Ethernetem - Długość kabla 1.5 m
-GOOBAY
-RB80700
-8,95 zł
+PANEL WEWNĘTRZNY SIPIO-M7-BK IP ACO
+ACO
+SIPIO-M7-BK
+1 143,31 zł
 Dostawa:
-do wtorku, 17.11
-1 033 szt.
-Maksymalna dostępna ilość: 1 033 szt. Większą ilość możemy sprowadzić na zapytanie.
+do piątku, 13.11
+1 szt.
+Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
+Kompatybilność: ACO SIPIO, Systemy SIP ; Ekran: 7 " pojemnościowy ekran dotykowy ; Rozdzielczość: 1024 x 600 ; Wejścia alarmowe: 8 ; Wyjścia alarmowe: 1 ; Zasilanie: PoE, 24 V DC ;
 Dodaj
 Nowy
-Dostępne
+Ostatnie sztuki w magazynie
 Produkty
-Przewód HDMI o dużej szybkości transmisji z Ethernetem - Długość kabla 2 m
-GOOBAY
-RB80701
-9,74 zł
+PANEL WEWNĘTRZNY SIPIO-M10-BK IP ACO
+ACO
+SIPIO-M10-BK
+2 343,15 zł
 Dostawa:
-do wtorku, 17.11
-1 092 szt.
-Maksymalna dostępna ilość: 1 092 szt. Większą ilość możemy sprowadzić na zapytanie.
+do piątku, 13.11
+1 szt.
+Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
+Kompatybilność: ACO SIPIO, Systemy SIP ; Ekran: 10.1 " pojemnościowy ekran dotykowy ; Rozdzielczość: 1024 x 600 ; Wejścia alarmowe: 8 ; Wyjścia alarmowe: 1 ; Zasilanie: PoE, 24 V DC ;
 Dodaj
 Nowy
-Dostępne
+Skontaktuj się w sprawie dostępności
 Produkty
-Przewód HDMI o dużej szybkości transmisji z Ethernetem - Długość kabla 3 m
-GOOBAY
-RB80702
-11,22 zł
-Dostawa:
-do wtorku, 17.11
-1 020 szt.
-Maksymalna dostępna ilość: 1 020 szt. Większą ilość możemy sprowadzić na zapytanie.
-Dodaj
-Nowy
-Dostępne
-Produkty
-Przewód HDMI o dużej szybkości transmisji z Ethernetem - Długość kabla 5 m
-GOOBAY
-RB80703
-17,22 zł
-Dostawa:
-do wtorku, 17.11
-981 szt.
-Maksymalna dostępna ilość: 981 szt. Większą ilość możemy sprowadzić na zapytanie.
-Dodaj
-Nowy
-Dostępne
-Produkty
-Kabel DisplayPort 2.0/2.1 - Długość kabla 1 m
-GOOBAY
-RB80668
-22,61 zł
-Dostawa:
-do wtorku, 17.11
-517 szt.
-Maksymalna dostępna ilość: 517 szt. Większą ilość możemy sprowadzić na zapytanie.
-Dodaj
-Nowy
-Dostępne
-Produkty
-Kabel HDMI o bardzo dużej szybkości transmisji z Ethernetem - Długość kabla 1 m
-GOOBAY
-RB80686
-23,22 zł
-Dostawa:
-do wtorku, 17.11
-517 szt.
-Maksymalna dostępna ilość: 517 szt. Większą ilość możemy sprowadzić na zapytanie.
-Dodaj
-Nowy
-Dostępne
-Produkt
+PŁYTA CENTRALI ALARMOWEJ P64000600000 TELTONIKA
+SECOLink
+P64000600000
+396,32 zł
+Wejścia na płycie głównej: 8 szt. ; Wyjścia na płycie głównej: 3 szt. - programowalne ; Maksymalna ilość obsługiwanych wejść: 64 szt. ; Partycje: 4 ; Strefy: 32 ; Moduły rozszerzające; Pamięć zdarzeń: 256 ; T

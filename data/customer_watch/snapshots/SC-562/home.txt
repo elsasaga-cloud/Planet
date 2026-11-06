@@ -1,4 +1,4 @@
-# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 MikroTik & Ubiquiti Network Equipment | Baltic Networks
 Skip to content
 MikroTik WiFi 7 Giveawy by Baltic Networks
@@ -177,7 +177,7 @@ $1,975.00
 | /
 The MikroTik CRS520-4XS-16XQ-RM is a high-density 100 Gigabit switch for data centers, ISP aggregation, and enterprise networks. With sixteen 100G ...
 View full details
-Save 5 %
+Save 8 %
 Save %
 MikroTik ROSE Data Server (RDS) [RDS2216-2XG-4S+4XS-2XQ]
 Original price
@@ -190,11 +190,11 @@ $1,950.00
 Original price
 $1,950.00
 Current price
-$1,850.00
+$1,799.00
 -
-$1,850.00
+$1,799.00
 Current price
-$1,850.00
+$1,799.00
 | /
 The MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ) is an all-in-one enterprise platform for storage, networking, containers, and virtualized wo...
 View full details

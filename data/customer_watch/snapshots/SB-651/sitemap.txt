@@ -1,4 +1,4 @@
-# SB-651 biges.com · sitemap · https://biges.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-651 biges.com · sitemap · https://biges.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://biges.com/urunler/VG-5032SW-PTZ
 	https://biges.com/urunler/IPC3634SE-ADF28K-WL-I0
 	https://biges.com/urunler/INT-TCP-IP-V2

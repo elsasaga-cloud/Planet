@@ -1,4 +1,4 @@
-# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Strona główna | Getfort
 O marce
 Produkty
@@ -54,14 +54,10 @@ GetFort
 Marka Getfort oferuje kompleksowe rozwiązania dla infrastruktury teleinformatycznej. Od szaf serwerowych, przez okablowanie strukturalne, po urządzenia sieciowe i zasilanie — wszystko, czego potrzebujesz do budowy niezawodnej sieci.
 Wysoka
 jakość
-Atrakcyjna
-cena
 Dostępność
 produktów
 Dedykowane
 rozwiązania
-Atrakcyjne
-Promocje
 Dowiedz się więcej
 Rozwiązania oferowane przez Getfort
 Nasze produkty
@@ -139,6 +135,9 @@ Odpowiemy na Twoją wiadomość tak szybko,
 jak to możliwe. Chętnie pomożemy i udzielimy
 wszystkich potrzebnych informacji.
 Napisz do nas
+Proszę wybrać typ zapytania:
+Zapytanie handlowe
+Zapytanie techniczne
 Eksperci od szaf teleinformatycznych i akcesoriów IT.
 Produkty
 Okablowanie

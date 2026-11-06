@@ -1,4 +1,4 @@
-# SB-085 DIGI Group · home · https://thorbroadcast.com · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-085 DIGI Group · home · https://thorbroadcast.com · fetched 2026-11-06T09:32:27Z · HTTP 200
 CATV and Fiber Transport Equipment - Thor Broadcast
 Search Type
 By Name
@@ -110,6 +110,7 @@ RF CATV and IPTV OTT STB's
 Satellite Modulators
 DVB-S/S2 Satellite Modulators
 IPTV Made Plug-and-Play
+Custom AV System Design & Engineering Solutions
 Fiber Optic Transport
 SDI Fiber Optic Extenders, Digital Audio Extenders
 SDI SD/HD/3G with CWDM
@@ -268,6 +269,7 @@ RF CATV and IPTV OTT STB's
 Satellite Modulators:
 DVB-S/S2 Satellite Modulators
 IPTV Made Plug-and-Play
+Custom AV System Design & Engineering Solutions
 Fiber Optic Transport:
 SDI Fiber Optic Extenders, Digital Audio Extenders
 SDI SD/HD/3G with CWDM

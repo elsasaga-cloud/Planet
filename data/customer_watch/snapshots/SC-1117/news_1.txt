@@ -1,14 +1,14 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
 Ventas 835
-Videovigilancia 764
+Videovigilancia 765
 Radiocomunicación 744
 Sistemas de Seguridad 596
 Networking 592
-Control de acceso 435
-Wireless 367
+Control de acceso 436
+Wireless 368
 Intrusión 308
 Acceso 300
 Wi-Fi 221
@@ -17,31 +17,38 @@ Energía Solar 189
 Cableado Estructurado 185
 Radios Digitales 173
 Sistemas de Protección 157
-Sistemas de Alarmas 148
-Energía 145
+Sistemas de Alarmas 149
+Energía 146
 Automatización 144
 #telefonía #networking #CallCenter 138
 Incendio 113
 Blog SYSCOM
+Repetidores WiFi para ONTs: cobertura total en cada rincón con el HUAWEI FG736
+El HUAWEI FG736 opera en modo repetidor de ONT y lleva la red a Wi-Fi 7 con hasta 3.6 Gbps, auto-reparación de red y puertos 2.5G WAN. La pieza que completa cualquier proyecto de fibra óptica.
+ZR
+Zaira Romero · Hoy
+UGREEN NASync DXP480T Plus: el NAS all-flash con velocidad hiper-rápida para empresas y creadores
+Cecilia Martinez · Hoy
+Videovigilancia Control de acceso
+Hikvision Noviembre 2026: DVR Guanlan 3 en 1, AcuSeek y UPS
+Lydia Wang · Hoy
 Audio y Video Profesional Seetronic
 Seetronic: los conectores en los que confía el audio profesional
-Acero inoxidable, contactos bañados en oro y plata, bloqueo IP65 y 20 A a 250 V: por qué integradores y fabricantes de cables confían sus instalaciones a los conectores Seetronic, disponibles en SYSCOM.
-LA
-LUIS ANGEL TOPETE ARELLANO · Hoy
+LUIS ANGEL TOPETE ARELLANO · Ayer
 Retail Señalización Digital
 Nexmosphere: la solución de sensores interactivos para retail y señalización digital
-NOE ORTEGA VILLALBA · Hoy
+NOE ORTEGA VILLALBA · Ayer
 TELOX M3 + TASSTA | Soluciones para transporte y flotas
-JORGE ALI RUBIO LOYA · Ayer
+JORGE ALI RUBIO LOYA · hace 2 días
 Videovigilancia Networking
 Top 2026: las 26 marcas y líneas que más están creciendo en México
-DANIEL SANCHEZ MEJIA · Ayer
+DANIEL SANCHEZ MEJIA · hace 2 días
 Audio y Video Profesional Audio IP
 EGI Audio Solutions: qué gana tu instalación al pasar del audio analógico al audio IP
-LUIS ANGEL TOPETE ARELLANO · Ayer
+LUIS ANGEL TOPETE ARELLANO · hace 2 días
 Energía Solar BASEL
 BASEL Racking Systems: La Base de la Energía Solar en México
-JORGE LUIS CHAVEZ SAENZ · hace 6 días
+JORGE LUIS CHAVEZ SAENZ · hace 1 semana
 Videovigilancia Streamax
 Dashcam con ADAS y DSM: IA para prevenir fatiga y distracciones en flotas
 Alfonso Berumen · hace 1 semana
@@ -53,16 +60,7 @@ Nuevos modelos SwitchBot en SYSCOM: relevadores Matter, Curtain 3 y panel solar
 ANDREA BERENICE MUELA MELENDEZ · hace 1 semana
 Casa Inteligente Alarmas e Intrusión
 Alula Connect+ Pro: el kit inalámbrico que arma una alarma completa en una visita
-VICTOR MANUEL VEGA GONZALEZ · hace 1 semana
-Sistemas de Seguridad Energía Solar
-Cercos eléctricos para el sector ganadero: el sistema completo con SFIRE y YONUSA
 VICTOR MANUEL VEGA GONZALEZ · hace 2 semanas
-Radiocomunicación Cambium Networks
-Cambium Networks retoma operaciones tras su adquisición por Univastu India
-RAFAEL CENICEROS MU&Ntilde;OZ · hace 2 semanas
-videoconferencia Audio e Intercom
-Tu reunión, tu laptop, un cable: por qué BYOD le gana al sistema cerrado
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 3 semanas
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

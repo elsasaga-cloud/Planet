@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -54,8 +54,8 @@ CONTROL DE ACCESO
 VEHICULAR
 Contacto magnetico Slim inalambrico AX PRO, HIKVISION DS-PDMCS-EG2-WB(O-STD)
 $ 17 + IVA
-Sirena para exteriores inalambrica ROJA AX PRO, HIKVISION DS-PS1-E-WB(O-STD)/Red
-$ 76 + IVA
+Sensor Exteriores Dual PIR dual Microware Solar, PET 30kg, LANTEK SEN-89RS
+$ 154 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,16 +202,23 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-ACCESORIOS CCTV
-Extension coax RG59 + Corriente 20m, 65ft, EPCOM D...
-$ 16 + IVA
+CONTROL DE ACCESO
+Soporte en GZ chapas magn?ticas con alarma sigue a...
+$ 28 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-ACCESORIOS CCTV
-Conector RG6 rosca, VERTICAL 083-1041/S
+SEGURIDAD , ALARMAS
+Conector de Cables UY para Cable Calibre 24, CROW ...
 $ 1 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4k Ultra HD 5 mts Fibra Optica macho a ...
+$ 30 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -223,16 +230,9 @@ Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-ESTRUCTURADO , FIBRA OPTICA
-Union adaptador Fibra Optica Monomodo SC Simplex u...
-$ 13 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-ESTRUCTURADO , GABINETES Y RACKS
-Soportes de montaje para Poste Gab.9U Exteriores K...
-$ 35 + IVA
+SEGURIDAD , CONTROL DE ACCESO
+Control de acceso y asistencia SaaS WiFi, Facial h...
+$ 102 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,36 +266,36 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch L3 NeverDie / 48 GE PoE / 4 x SFP+ / NO inc...
-$ 1,415 + IVA
+Switch 4 GE PoE+ / 1GE + 1SFP uplink, AF/AT/BT 60W...
+$ 39 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch POE 8GE af/at/bt 90w +1GE +1SFP uplink 120W...
-$ 70 + IVA
+Switch 8+1 GE PoE 120W Administrable / Vlan, Loop ...
+$ 112 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente Poder para RG-S6120-20XS4VS2QXS, RUIJIE RG-...
-$ 250 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-SWITCHES
-Switch Acceso L2 / 24 GE / 4 x SFP+ / PoE 370w, RE...
-$ 698 + IVA
+Switch Distribucion L2+ / 48 GE / 4 x SFP+ / PoE 7...
+$ 1,271 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Industrial PoE administrable 10 GE / 1 PoE+...
-$ 170 + IVA
+Fuente poder 120w industrial externa para switch i...
+$ 55 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Fuente Redundante 740w para RG-S2910C 24 y 48 puer...
+$ 638 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

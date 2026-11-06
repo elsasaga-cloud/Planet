@@ -1,7 +1,7 @@
-# SB-1024 dowtechnologies.com · sitemap · https://www.dowtechnologies.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
-2026-11-04	https://www.dowtechnologies.com/
-2026-11-04	https://www.dowtechnologies.com/search
-2026-11-04	https://www.dowtechnologies.com/contactus
+# SB-1024 dowtechnologies.com · sitemap · https://www.dowtechnologies.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06	https://www.dowtechnologies.com/
+2026-11-06	https://www.dowtechnologies.com/search
+2026-11-06	https://www.dowtechnologies.com/contactus
 2026-05-21	https://www.dowtechnologies.com/12volt-closeouts
 2026-08-31	https://www.dowtechnologies.com/12volt
 2026-08-31	https://www.dowtechnologies.com/custom-integration

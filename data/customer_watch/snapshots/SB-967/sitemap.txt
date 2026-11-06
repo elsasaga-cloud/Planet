@@ -1,4 +1,4 @@
-# SB-967 ynminc.com · sitemap · https://ynminc.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-967 ynminc.com · sitemap · https://ynminc.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://ynminc.com/Home
 	https://ynminc.com/PTZ
 	https://ynminc.com/POV

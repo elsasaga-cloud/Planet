@@ -1,4 +1,4 @@
-# SB-430 pro-tek.pro · sitemap · https://pro-tek.pro/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-430 pro-tek.pro · sitemap · https://pro-tek.pro/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://pro-tek.pro/news/company-news/
 2026-11-02	https://pro-tek.pro/news/company-news/dahua_newyear_2026.html
 2026-09-01	https://pro-tek.pro/news/company-news/electtrto_documents_new.html
@@ -145,13 +145,11 @@
 	https://pro-tek.pro/catalog/brends/bid/aleko/
 	https://pro-tek.pro/catalog/brends/bid/aler/
 	https://pro-tek.pro/catalog/brends/bid/alerto/
-	https://pro-tek.pro/catalog/brends/bid/alphamile/
 	https://pro-tek.pro/catalog/brends/bid/alutech/
 	https://pro-tek.pro/catalog/brends/bid/an-motors/
 	https://pro-tek.pro/catalog/brends/bid/arctic-line/
 	https://pro-tek.pro/catalog/brends/bid/asterion/
 	https://pro-tek.pro/catalog/brends/bid/battbee/
-	https://pro-tek.pro/catalog/brends/bid/bdcom/
 	https://pro-tek.pro/catalog/brends/bid/beward/
 	https://pro-tek.pro/catalog/brends/bid/buro/
 	https://pro-tek.pro/catalog/brends/bid/cabeus/
@@ -188,4 +186,5 @@
 	https://pro-tek.pro/catalog/brends/bid/hiwatch/
 	https://pro-tek.pro/catalog/brends/bid/hiwatch-ecoline/
 	https://pro-tek.pro/catalog/brends/bid/hiwatch-pro/
-	https
+	https://pro-tek.pro/catalog/brends/bid/hiwatch-avtomatika/
+	https://pro-tek.pro/catalog/brends/bid/hype

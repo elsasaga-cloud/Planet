@@ -1,7 +1,5 @@
-# SC-2542 gridconnect.com · home · https://www.gridconnect.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2542 gridconnect.com · home · https://www.gridconnect.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Grid Connect: Your Partner in Industrial Networking & IoT Solutions
-Holiday Hours Notice: We will close at noon CT on Friday, May 22, resuming business on Tuesday, May 26. Orders placed after 11 AM CT on May 22 will be processed on May 26.
-View full holiday schedule
 Skip navigation
 Menu
 Search
@@ -346,4 +344,6 @@ Low power consumption is one example of a Schlage request that Grid Connect was 
 Moen partners with Grid Connect on first smart shower technology
 Grid Connect developed WiFi technology, device firmware, and iOS / Android apps that allowed Moen to bring their Smart Shower concept to life.
 Meeting demand for smart home technology
-With Grid Connect development support, Moen added product control via a
+With Grid Connect development support, Moen added product control via app (iOS or Android), voice (Amazon Alexa, Apple HomeKit, Google Assistant) and in-wall panel.
+Enhancing product and customer experience
+Grid Connect developed the software and firmware to include a d

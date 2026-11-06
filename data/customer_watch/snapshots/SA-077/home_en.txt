@@ -1,74 +1,129 @@
-# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · home_en · https://www.angoranetworks.com/?lang=en · fetched 2026-11-05T09:39:48Z · HTTP 200
-Mainpage - Angora Networks
-For your questions
-+90 312 241 7747
-[email protected]
-Products
-NETWORK PRODUCTS
-Verge Network Switch Family
-Iris SFP Family
+# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · home_en · https://www.angoranetworks.com/?lang=en · fetched 2026-11-06T09:32:27Z · HTTP 200
+Angora Networks | Network Switch, Packet Broker and Data Diode Manufacturer Skip to content Products Network Products
+Network Switches
+Verge Switch
+Synapse Switch
+Hitit Switch
+Iris SFP
+Angora NMS
 Security
-Network Packet Broker
+ANT Packet Broker
 ARROW Data Diode
 BEE SD-WAN
-VIRTUAL DESKTOP
-ThinCE VDI
+Virtual Desktop
+ThinCE VDI ↗
+OEM/ODM
 Services
-Professional Services
-Network Strategy Services
-Training & Documentation
-About
-Angora
-My Angora
-Partnership
-Contact
-Support
-TAILORED SOLUTIONS, GLOBAL TECHNOLOGY
-Network Hardware Manufacturer of Turkey.
-Products
-Services
-Turkish Cyber
-Security Cluster
-We became a member of
-We produce state of art network devices
-We offer customized solutions for your business-specific problems.
-Network Devices
-New generation manageable and customizable network products for the infrastructure of your corporate environment that are reliable, high-capacity and can meet your different access needs.
-Network Switches
-Network SFPs
-Thin-Client
-Services
-We offer professional services with our expert staff in networking technologies and security. We take responsibility and solve your problems diligently. We combine best-in-class technology and expertise to support business goals.
-Consulting
-Trainings
-References
 Partners
 News
-12/06/2023
-Angora Networks® Unveils Game-Changing ModBUS and OPC Protocol Support in Its Data Diode Solution
-Ankara, Turkey – December 05, 2023 – Angora Networks®, a leader in the Turkish Communications Networking equipment sector, today announced a significant advancement in cybersecurity technology. […]
-Beğendiniz mi? 0
-Read
-10/09/2022
-Angora Networks® launches Data Diode solution: Arrow
-Ankara, Turkey – October 10, 2022 – Angora Networks®, Turkey’s leading and innovative Network equipment manufacturer Angora Networks® launches Data Diode Solution called Arrow. Arrow: Data […]
-Beğendiniz mi? 1
-Read
-09/01/2021
-Angora Networks ® completed the PacketFence NAC integration.
-Ankara, Turkey – June 21, 2021 – Angora Networks ® , a disruptive Turkish manufacturer of Communications Networking equipment, Turkey’s leading and innovative Network equipment manufacturers […]
-Beğendiniz mi? 0
-Read
-Don't Wait To Get Information, Contact Us Now!
-Türkiye
-Çamlıca Mh. Anadolu Blv. Timko sk Z Blok No:20/1 Yenimahalle
-Ankara 06200 Türkiye
+About
+Contact
+My Angora ↗ TR
+EN
+RU
+Angora Networks
+Network equipment designed and built in Türkiye
+We design and manufacture managed switches, SFP modules, network packet brokers, data diodes and SD-WAN appliances for enterprise networks in Ankara.
+All products Contact us
+Verge Switch → Hitit Switch → Iris SFP → Angora NMS → ANT Packet Broker → ARROW Data Diode → BEE SD-WAN →
+Products
+All Network Products Security
+Network Products
+Network Switch Family
+Angora Networks managed Ethernet switch families: Verge, Synapse and Hitit for access, enterprise, industrial and data centre networks.
+Learn more →
+Network Products
+Verge Network Switch Family
+Verge is Angora Networks’ managed Ethernet switch family: 8, 24, 32 and 48 gigabit ports, 10G fibre uplinks, PoE, industrial and data centre models.
+Learn more →
+Network Products
+Synapse Network Switch Family
+Synapse enterprise switch family: 8–48 Gigabit PoE+ ports, 10G SFP+ uplinks and up to 216 Gbps switching capacity. Models and technical specifications.
+Learn more →
+Network Products
+Hitit Network Switch Family
+Hitit edge network switch family from Angora Networks: models, port options and technical specifications.
+Learn more →
+Network Products
+Iris SFP Family
+Iris is Angora Networks’ family of SFP, SFP+, SFP28 and QSFP28 transceivers, compatible with common switch brands, from 1G to 100G.
+Learn more →
+Network Products
+Angora NMS Network Management System
+Angora NMS is a network management system for monitoring, configuring and reporting on your network devices from a single screen.
+Learn more →
+Security
+ANT Network Packet Broker
+ANT is Angora Networks’ network packet broker: up to 1 Tbps traffic distribution on 48x25G and 6x100G ports, L2–L7 filtering, load balancing and a drag-and-drop interface.
+Learn more →
+Security
+ARROW Data Diode
+ARROW is a hardware data diode that enforces one-way data transfer for critical infrastructure, with support for industrial protocols including ModBUS and OPC.
+Learn more →
+Security
+BEE SD-WAN Security and Service Appliances
+BEE is Angora Networks’ customisable hardware platform for SD-WAN, security and network services.
+Learn more →
+2016
+manufacturing in Türkiye since
+81
+provinces covered by our dealer and service network
+9
+product families
+100 G
+port speeds up to
+Local Mind, Global Technology
+Angora Networks has been developing and manufacturing network equipment since 2016, funded entirely by its own capital. Our products comply with industry standards, work with their full feature set from day one and are ready for the field.
+Designed and built in-house: Hardware and software are developed in Ankara, and products can be customised to your requirements.
+End-to-end portfolio: One manufacturer from access and data centre switches to network visibility and security appliances.
+Support close to you: A nationwide dealer and service network, online support and continuously updated documentation.
+Professional services: Network design, deployment, training and OEM/ODM custom design.
+Our references
 News
+All news →
+6 December 2023
 Angora Networks® Unveils Game-Changing ModBUS and OPC Protocol Support in Its Data Diode Solution
-12/06/2023
+Cisco ISE entegrasyonu
+9 October 2022
 Angora Networks® launches Data Diode solution: Arrow
-10/09/2022
-İşletme Bütçesi Nedir?
-İşletme Bütçe Yazılımı
-© 2020 Angora Networks. All rights reserved.
-Support
+Angora Networks Official Page. Angora Networks Official Website
+1 September 2021
+Angora Networks® completed the PacketFence NAC integration.
+Cisco ISE entegrasyonu
+How can we help?
+Tell us about your network and we will work out the right solution together.
+Contact us
+Designed and manufactured in Türkiye.
+LinkedIn
+X
+Instagram
+YouTube
+Products
+Network Switches
+Verge Switch
+Synapse Switch
+Hitit Switch
+Iris SFP
+Angora NMS
+ANT Packet Broker
+ARROW Data Diode
+BEE SD-WAN
+Angora Networks
+About
+Services
+Partners
+News
+Downloads
+Contact
+Privacy
+My Angora ↗
+Our offices
+Sales
+Nergiz Sokak No:7, Via Flat Plaza Cubes, Söğütözü
+06560 Ankara, Türkiye
+Production
+Çamlıca Mh. Anadolu Blv. Timko Sk. Z Blok No:20/1, Yenimahalle
+06200 Ankara, Türkiye
++90 312 241 7747
+[email protected]
+© 2026 Angora Networks. All rights reserved.

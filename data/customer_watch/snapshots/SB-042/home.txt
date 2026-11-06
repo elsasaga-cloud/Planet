@@ -1,4 +1,4 @@
-# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Regal Security Home
 Login / Register
 
@@ -158,7 +158,6 @@ Fluss
 Gemini
 Genata
 Hanwha Vision
-Hik Semi
 Hikvision
 IDEMIA
 IDS
@@ -360,7 +359,6 @@ Fluss
 Gemini
 Genata
 Hanwha Vision
-Hik Semi
 Hikvision
 IDEMIA
 IDS
@@ -559,4 +557,4 @@ Submit
 Preferred Branch
 close
 Would you like to change your preferred branch?
-Sel
+Select Preferred Rega

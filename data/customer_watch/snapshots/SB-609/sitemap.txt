@@ -1,4 +1,4 @@
-# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 	https://ablelink.co.th/
 	https://ablelink.co.th/about/
 	https://ablelink.co.th/contact/
@@ -6,6 +6,19 @@
 	https://ablelink.co.th/news/
 	https://ablelink.co.th/search/
 	https://ablelink.co.th/category/
+	https://ablelink.co.th/products/f-pca-fcfc5-3-dx/
+	https://ablelink.co.th/products/f-pca-fclc5-3-dx/
+	https://ablelink.co.th/products/f-pca-lclc5-3-dx/
+	https://ablelink.co.th/products/f-pca-fcsc5-3-dx/
+	https://ablelink.co.th/products/f-pca-lcsc5-3-dx/
+	https://ablelink.co.th/products/f-pca-scsc5-3-dx/
+	https://ablelink.co.th/products/f-pca-fcst5-3-dx/
+	https://ablelink.co.th/products/f-pca-lcst5-3-dx/
+	https://ablelink.co.th/products/f-pca-scst5-3-dx/
+	https://ablelink.co.th/products/f-pca-stst5-3-dx/
+	https://ablelink.co.th/products/f-pc-f-ppscsc5-3-dx/
+	https://ablelink.co.th/products/f-pc-f-pplcsc5-3-dx/
+	https://ablelink.co.th/products/f-pc-f-pplclc5-3-dx/
 	https://ablelink.co.th/products/f-pc-f-fascsc5-3-dx/
 	https://ablelink.co.th/products/f-pc-f-falcsc5-3-dx/
 	https://ablelink.co.th/products/f-pc-f-falclc5-3-dx/
@@ -233,18 +246,4 @@
 	https://ablelink.co.th/products/f-sl-oda5-l-12/
 	https://ablelink.co.th/products/f-sl-oda5-l-06/
 	https://ablelink.co.th/products/f-sl-oda5-l-04/
-	https://ablelink.co.th/products/tt-ofi/
-	https://ablelink.co.th/products/f-sl-oda9-l-12/
-	https://ablelink.co.th/products/f-sl-oda9-l-06/
-	https://ablelink.co.th/products/f-sl-oda9-l-04/
-	https://ablelink.co.th/products/f-sl-oda5-h-12/
-	https://ablelink.co.th/products/f-sl-oda5-h-06/
-	https://ablelink.co.th/products/f-sl-oda5-h-04/
-	https://ablelink.co.th/products/tt-vfl-30mw/
-	https://ablelink.co.th/products/tt-vfl-20mw/
-	https://ablelink.co.th/products/tt-vfl-10mw/
-	https://ablelink.co.th/products/f-sl-oda9-h-12/
-	https://ablelink.co.th/products/tt-vfl-01mw/
-	https://ablelink.co.th/products/f-sl-oda9-h-08/
-	https://ablelink.co.th/products/f-sl-oda9-h-06/
-	https://ablelink.co.th/product
+	https://ablelink.co.th/p

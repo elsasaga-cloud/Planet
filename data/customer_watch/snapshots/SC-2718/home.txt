@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -415,7 +415,7 @@ Precio
 Añadir al carrito
 Nuevo
  Vista rápida
-70HACT1A51PU0280BS3DIP
+HAC-T1A51P-U-0280B-S3-DIP
 Cámara Turret 4N1 5Mpx para exterior
 Cámara Domo 4N1 5Mpx Dahua
 ICR, 0,02 lux color y 0,002 lux B/N
@@ -425,6 +425,48 @@ WDR digital y 2DNR | Smart IR
 OSD multilenguaje
 Precio
 32,91 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+HAC-HFW1801RP-Z-IL-A-27135-S3-DIP
+Cámara Bullet 4N1 8Mpx Serie Lite con Smart Dual Light para exterior
+Cámara Bullet 4N1 8Mpx Dahua
+Serie Lite | 0,01 lux color y 0,001 lux
+Smart Dual Light
+IR hasta 80 m y luz cálida hasta 60 m
+Óptica motorizada 2,7~13,5 mm
+Starlight y Super Adapt
+Precio
+161,99 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+HAC-B1A21P-U-0280B
+Cámara Bullet 4N1 2Mpx Serie Lite para exterior
+Cámara 4N1 2Mpx Serie Lite Dahua
+Salida 4 en 1 conmutable
+ICR, 0,02/0,002 lux, Smart IR 30m
+Óptica fija de 2,8 mm
+WDR digital
+Protección IP67, 3AXIS
+Precio
+22,89 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+ZK-TA-GTC2-QR-12-W
+Control de presencia y acceso simple QR, tarjeta EM/MF y PIN
+ZKTeco
+Control de presencia y acceso simple
+QR, tarjeta EM/MF y PIN
+3.000 huellas | 150.000 registros
+2.8" TFT | TCP/IP, WiFi, USB y relé
+Software Presencia: GoTime Cloud
+Precio
+245,63 €
 
 Añadir al carrito
 Nuevo
@@ -439,48 +481,6 @@ Mantenimiento Cloud
 Conexión monitor y placas por Cloud
 Precio
 186,34 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-7-9325
-Amplificador de vídeo Fermax DUOX Plus para placa Marine con teclado
-Repuesto Fermax
-Amplificador de Video
-DUOX PLUS MARINE
-Para placas de pulsadores MARINE
-Tecnología DUOX
-105.2 x 95 X 40 mm
-Precio
-577,17 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-373366
-Visor de telecámara color para videoportero Tegui Serie 7
-Repuesto Tegui
-Visor para telecámara de videoportero
-Visualización en color
-Diseñado para equipos Tegui Serie 7
-Recambio PMS7 para placas
-Producto no conectado
-Precio
-5,59 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-AK-SPX915-CARDCOVER
-Tapa embellecedora para lector de tarjetas de videoportero AK-X915S
-Akuvox
-Repuesto para videoportero
-Tapa embellecedora
-Para lector de tarjetas
-Apto para modelo AK-X915S
-Fabricado en PC
-Precio
-8,47 €
 
 Añadir al carrito
 Nuevo

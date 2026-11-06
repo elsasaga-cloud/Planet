@@ -1,4 +1,4 @@
-# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Home - Southern Elements
 Search
 All Categories
@@ -139,11 +139,55 @@ Quick and seamless
 Click here
 Featured Products
 Hot
+Out of stock
+Read more
+Quick View
+Cleaning , Liquids , Splicing , Splicing Consumables , Tools
+Isopropyl Spray 99% – 400ml
+R 52.84 inc VAT
+Hot
+Select options
+This product has multiple variants. The options may be chosen on the product page
+Quick View
+Label Cartridges , Labelling , Tools
+Label Cartridge – Brady
+R 359.38 – R 828.00 Price range: R359.38 through R828.00 inc VAT
+Buy now
+Hot
+Select options
+This product has multiple variants. The options may be chosen on the product page
+Quick View
+Fiber Adapters , Midcoupler Adapters
+Fiber Midcoupler Adapter – LC to LC Single Mode UPC Duplex
+R 6.65 – R 6.92 Price range: R6.65 through R6.92 inc VAT
+Buy now
+Hot
 Add to basket
 Quick View
-Splicing , Strippers, Slitters & Prep Tools , Tools
-Utility Knife
-R 231.30 inc VAT
+Fault Detection , Power Meters , Tools , Visual Fault Locators
+Power Meter & VFL (Rechargeable)
+R 783.53 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Fiber Adapters , Midcoupler Adapters
+Fiber Midcoupler Adapter – SC to SC Single Mode APC Duplex
+R 12.86 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Dead Ends , Mounting Hardware
+Dead End 3.8mm to 4.8mm
+R 23.62 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Fiber Patch Cables , Pigtails , Single Mode Pigtails
+Fiber Pigtail – SC APC Single Mode – 0.9mm 1.5m G657.A1
+R 9.50 inc VAT
 Buy now
 Hot
 Select options
@@ -154,77 +198,32 @@ VFL Visual Fault Locator (Rechargable)
 R 492.13 – R 653.43 Price range: R492.13 through R653.43 inc VAT
 Buy now
 Hot
-Out of stock
-Read more
-Quick View
-Enclosures , Enclosures , Indoor Termination
-Fiber Indoor Termination Box – Dual Port
-R 6.35 inc VAT
-Hot
 Add to basket
-Quick View
-Label Machines , Labelling , Tools
-Labelling Machine – Brady M210
-R 2,499.17 inc VAT
-Buy now
-Hot
-Add to basket
-Quick View
-Fiber Patch Cables , Pigtails , Single Mode Pigtails
-Fiber Pigtail – SC APC Single Mode – 0.9mm 1.5m G657.A1
-R 9.50 inc VAT
-Buy now
-Hot
-Out of stock
-Read more
 Quick View
 Enclosures , Enclosures , Wall Mount
 Enclosure – Wall Mount 24 Core
-R 254.92 inc VAT
+R 237.03 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Boundary boxes , Enclosures , Enclosures
+Fiber Micro Loop Joint Enclosure – 4 Core Buddy Box
+R 97.78 inc VAT
+Buy now
 Hot
 Add to basket
 Quick View
 Splicing , Strippers, Slitters & Prep Tools , Tools
-Fiber Optic Pick 2.4mm
-R 50.31 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Duplex , Fiber Patch Cables , Single Mode Patch Cables , UPC Single Mode Patch Cable
-Fiber Patch Cable – Single Mode – LC/UPC to LC/UPC – Duplex
-R 51.76 – R 103.43 Price range: R51.76 through R103.43 inc VAT
+Utility Knife
+R 231.30 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Fiber Adapters , Midcoupler Adapters
-Fiber Midcoupler Adapter – SC to SC Single Mode APC Duplex
-R 12.86 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Enclosures , Enclosures , Joint Enclosures
-Fiber Joint Enclosure – 24 Core
-R 203.45 – R 281.83 Price range: R203.45 through R281.83 inc VAT
-Buy now
-Hot
-Add to basket
-Quick View
-Fault Detection , OTDRs , Tools
-OTDR – FT-MOT-8500 1310/1550nm – VFL, Power Meter, Light Source, Ethernet Tester, Multi Meter
-R 16,646.38 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-1G , 1G , Multi Mode , SFP Transceivers , Single Mode
-SFP Module – 1310nm 1Gbps – LC – Single Mode & Multi Mode Compatible
-R 139.04 – R 321.84 Price range: R139.04 through R321.84 inc VAT
+Cleaning , Splicing , Splicing Consumables , Tools , Wipes
+Fiber Optic Kimwipes (280 Wipes)
+R 65.56 inc VAT
 Buy now
 Bargain Bin
 Add to basket
@@ -396,13 +395,6 @@ Switch – 4x 10/100Base-T RJ45 to 2x 100Base-X SC Simplex Fibre Ports
 R 115.00 inc VAT
 Buy now
 Recently Viewed
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Floating / Blowing Fiber , Floating Consumables , Tools
-Fiber Microduct Cable Floating Liquid – Jetting Fluid
-R 192.56 – R 4,959.38 Price range: R192.56 through R4,959.38 inc VAT
-Buy now
 ADDRESS
 Johannesburg
 Unit 5 - Wynberg Works,

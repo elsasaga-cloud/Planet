@@ -1,4 +1,5 @@
-# SB-861 bimel.com.tr · youtube · https://www.youtube.com/user/bimelltd · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-861 bimel.com.tr · youtube · https://www.youtube.com/user/bimelltd · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T06:47:30+00:00	Beek BT-LT600S Dokunmatik Ekranlı Çok Fonksiyonlu Ağ Kablosu Test Cihazı çıktı! @numanumanoglu	https://www.youtube.com/watch?v=nCAeg0YBzxY
 2026-10-23T12:51:55+00:00	Lindy Splitter	https://www.youtube.com/shorts/aaOh9cVBiH0
 2026-10-19T13:37:31+00:00	HUAWEI eKit is bringing AI to more scenarios	https://www.youtube.com/watch?v=EBiYFBa8KoU
 2026-10-09T14:27:01+00:00	ISAF 30. Uluslararası Güv. Akıllı Binalar Yangın ve İSG Fuarı BİMEL Huawei Ürün Ailesi Tanıtımı - 2	https://www.youtube.com/watch?v=kKlwrq_zkMg
@@ -13,4 +14,3 @@
 2026-09-14T07:23:51+00:00	Huawei eKit uygulaması üzerinden cihazlar fabrika ayarlarına nasıl döndürülür?	https://www.youtube.com/shorts/QdGRaGUPfIQ
 2026-09-14T07:14:12+00:00	Huawei eKitEngine S380 ile ağ yönetimi nasıl yapılır	https://www.youtube.com/shorts/JtRSTfz0KaA
 2026-09-07T06:44:46+00:00	Huawei eKit uygulamasında DHCP`de IP adresi ayırma nasıl yapılır	https://www.youtube.com/shorts/hfF4jr_2nkg
-2026-08-31T10:56:28+00:00	planet 100 metrenin ötesine PoE mi gerekiyor	https://www.youtube.com/watch?v=LVHszp7hzqQ

@@ -1,4 +1,4 @@
-# SB-589 bydemes.com · home · https://bydemes.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-589 bydemes.com · home · https://bydemes.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 The leading distributor in security technologies | By Demes Group
 Company About us Solutions Top brands Employment
 News News Newsletters
@@ -111,6 +111,26 @@ Networking
 IoT SmartHome
 All All CCTV Video Door Phones Access Control Intrusion Fire Networking IoT SmartHome
 News
+DAHUA-5440
+DH-IPC-HDBW7459ZP-Z-PV-0832-X-ATC
+Dahua WizMind 7 4MP IP min...
+View price
+DAHUA-2099-V2
+DHI-VTH2421FB-P-S2
+Dahua 7" IP indoor monitor...
+View price
+DAHUA-5627
+ASF900
+Dahua exit button for acce...
+View price
+DAHUA-5628
+DHI-TPC-SD8441B-B50Z56-DC-S22-V3
+Dahua Ultra Series hybrid ...
+View price
+DAHUA-5630
+DH-SDT3A400-GA-HNP-BX
+Dahua WizMind 4MP IP PT do...
+View price
 DAHUA-5422
 DH-IPC-HDBW5259E1P-ZE-IL-0735-ATC
 Dahua WizMind 5 2MP IP min...
@@ -122,26 +142,6 @@ View price
 DAHUA-5420
 DH-IPC-HDBW5459E1P-ZE-IL-0832-ATC
 Dahua WizMind 5 4MP IP min...
-View price
-DAHUA-5419
-DH-IPC-HDBW3849R1P-ZAS-PV-2712-PRO-ATC
-Dahua WizSense 3 8MP IP mi...
-View price
-DAHUA-5418
-DH-IPC-HDBW3649R1P-ZAS-PV-2712-PRO-ATC
-Dahua WizSense 3 6MP IP mi...
-View price
-DAHUA-5629
-DH-PFB7320W
-Dahua stainless steel wall...
-View price
-DAHUA-5632
-DHI-ISC-EAA7F-D101-R
-Dahua 58 kHz acousto-magne...
-View price
-DAHUA-5413
-DH-SD60432DB-HNY-SL
-Dahua WizSense 4MP IP PTZ ...
 View price
 Brands catalogue
 All All CCTV Video Door Phones Access Control Intrusion Fire Networking IoT SmartHome
@@ -159,17 +159,17 @@ All
 News
 Newsletters
 VIEW ALL
-27 de octubre de 2026
+6 de noviembre de 2026
 0 0
+SmartHomeSec: a personalised app for every user
+27 de octubre de 2026
 Cudy 4G and 5G routers: Internet connection without fibre optics
+0 0
 20 de octubre de 2026
 New VESTA 2.35N firmware update: more features and remote control
 0 0
 15 de octubre de 2026
 VESTA price adjustment from 15 Novembe
-0 0
-8 de octubre de 2026
-Wi-Tek Boutique Hotel Solution: Wi-Fi and CCTV for hotels
 0 0
 VIEW ALL
 All your solutions from one supplier

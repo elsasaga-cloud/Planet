@@ -1,4 +1,4 @@
-# SB-271 dodicelettronica.it · news_1 · https://www.dodicgroup.it/news/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-271 dodicelettronica.it · news_1 · https://www.dodicgroup.it/news/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 News - Dodic Group
 0775 840029
 marketing@dodic.it
@@ -159,6 +159,9 @@ Novità
 Eventi
 Corsi di formazione
 Editoriali
+Presentazione Arteco – Latina
+Partecipa alla presentazione Arteco in data 18 Novembre presso la nostra sede di Latina!
+Scopri di più
 Corso Ajax – Roma Nord
 Iscriviti al corso formativo Ajax su TVCC e gamma Superior in data 19 Novembre presso Roma Nord.
 Scopri di più
@@ -174,9 +177,6 @@ Scopri di più
 Corso Hikvision – Latina
 Scopri le potenzialità dei sistemi Hikvision MX Pro il 23 Ottobre 2026.
 Scopri di più
-Corso Risco – Roma Ovest
-Riserva il tuo posto al corso Risco in data 20 ottobre e scopri le potenzialità di VuPoint Ai.
-Scopri di più
 Scopri i meno recenti
 Fine articolo
 Scopri il nostro Company Profile
@@ -189,10 +189,10 @@ Linkedin-in
 Categorie
 Altro (Non Pubblicato) (2)
 Comunicazioni (8)
-Corsi di formazione (53)
+Corsi di formazione (54)
 Editoriali (6)
-Eventi (31)
-Non Pubblicati (5)
+Eventi (32)
+Non Pubblicati (4)
 Novità (4)
 Sede di Casoria (7)
 Sede di Fiumicino (12)
@@ -286,10 +286,10 @@ Sede di Casoria
 Novità
 Comunicazioni
 Corsi di formazione
+Presentazione Arteco – Latina
+Novembre 2, 2026
 Corso Ajax – Roma Nord
 Ottobre 26, 2026
 Corso Ajax – Latina
 Ottobre 26, 2026
-Risco – Promo Sensori Radio
-Ottobre 22, 2026
 Torna in alto

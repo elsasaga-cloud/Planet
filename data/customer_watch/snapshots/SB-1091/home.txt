@@ -1,4 +1,4 @@
-# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 TRIOTRONIK - der Netzwerkdistributor
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -31,6 +31,7 @@ Glasfaser / FTTX
 Sicherheitssysteme
 Tools / Werkzeuge
 Sale
+Alle
 Switche
 Fiber / SFP
 Managed
@@ -77,15 +78,42 @@ Antennen
 Omni-Antennen
 Richtfunk
 Sektor
+Antennenstecker / Kabel
 Gehäuse
 Zubehör
 Antennenstecker / Kabel
 Displays / Monitore
+Interaktive Monitore
 Digital Signage
 Monitore
 Zubehör
+Gegensprechanlagen / VoIP
+Tür Station, Indoor
+Tür Station, Outdoor
+Tür Station, Zubehör
+VoIP Telefone
 Powerline
+Industrial
+Switche
+Konverter
+Serial Device Server
+Wireless
+Router
+Mobile Router
+Netzteile DIN Rail
+Steuerungstechnik
+Zubehör
+WiFi Zubehör
+Gehäuse
+Koaxial Kabel
+Montagematerial
+Pigtails / Assemblies
+Steckverbinder / Adapter
+Blitzschutz
+Netzteile / PoE
 Datacenter Transceiver
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
 200G QSFP-DD / QSFP56
 10/25/40/100G Transceiver
 100G QSFP28 / SFP-DD
@@ -98,7 +126,15 @@ Datacenter Transceiver
 100MBit SFP
 Access
 GPON
+XG(S)PON
+InfiniBand
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 Ethernet-DAC / AOC Kabel
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 100G QSFP28 / SFP-DD
 25G SFP28
 10G SFP+
@@ -110,8 +146,10 @@ KAT6 ungeschirmt
 KAT5E geschirmt
 Unkonfektioniertes Netzwerkkabel
 Installationskabel
+Kategorie 8
 Kategorie 7A
 Kategorie 7
+Kategorie 6A
 Kategorie 6
 Keystone Systeme
 Keystone Datendosen
@@ -126,6 +164,7 @@ Standschränke
 10" Schränke
 Serverschränke
 Wandschränke
+Stromversorgung
 Zubehör
 Telekom
 Modularkabel
@@ -169,17 +208,27 @@ Mikrokabel
 Minikabel
 Aussenkabel
 Universalkabel
+Innenkabel
+FTTH Innenkabel
+Luftkabel
+Spezialkabel
 Spleiss-/ Verbindungstechnik
 Glasfaser Muffen
 Kupplungen / Adapter
 Pigtails
 Splitter
 MTP® / MPO Produkte
+Kassetten
+Panele
 Patchkabel
+Breakoutkabel
+Trunkkabel
 Zubehör
 Messgeräte
 OTDR
 VFL
+Powermeter
+Mikroskop
 Werkzeuge
 Zubehör
 Videokameras
@@ -199,6 +248,7 @@ Rekorder
 NVR - IP-Digital
 DVR - Analog
 Server
+Workstation
 Speichermedien
 Zutrittssysteme
 Terminal
@@ -214,7 +264,10 @@ Garantieerweiterungen
 Glasfaser Werkzeuge
 Werkzeuge
 OTDR
+VFL
+Powermeter
 Mikroskop
+Zubehör
 Kupfer Werkzeuge
 Werkzeuge
 Werkzeugsets
@@ -279,12 +332,14 @@ PTZ Kameras
 Netzwerk Video Rekorder (NVR)
 Video Intercom
 Display / Überwachung
+Alarmsysteme
 Interaktive Displays
 Zubehör
 Avigilon
 Unity Kameras
 Unity Videoplattform
 Alta Kameras
+Alta Videoplattform
 Zubehör
 Garantieerweiterungen
 Pelco
@@ -306,11 +361,13 @@ Jetting
 Einblasgeräte
 Zubehör Einblasgeräte
 Einblasgeräte
+Zubehör Einblasgeräte
 Jonard Tools
 Glasfaser / FTTx
 Kupfer Verkabelung
 Patchbox
 PATCHBOX one
+PATCHBOX Plus+ KAT.6
 PATCHBOX Plus+ Kassetten
 PATCHBOX 365 Kassetten
 Werkzeug & Zubehör
@@ -336,6 +393,7 @@ KAT6 ungeschirmt
 KAT5E geschirmt
 Unkonfektioniertes Netzwerkkabel
 Installationskabel
+Kategorie 8
 Kategorie 7A
 Kategorie 7
 Kategorie 6A
@@ -373,6 +431,8 @@ Glasfaser Patchkabel
 9µ / OS2 Singlemode
 Spleissboxen
 Spleissboxen bestückt
+Spleissboxen unbestückt
+Breakoutboxen
 Zubehör
 FTTH Boxen
 Wandspleissboxen
@@ -402,14 +462,27 @@ Kupplungen / Adapter
 Pigtails
 Splitter
 MTP® / MPO Produkte
+Kassetten
+Panele
 Patchkabel
+Breakoutkabel
+Trunkkabel
+Zubehör
 Medienkonverter
 Standard
+Industrial
 Messgeräte
 OTDR
 VFL
+Powermeter
+Mikroskop
+Zubehör
 Werkzeuge
 Zubehör
+Datacenter Transceiver
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 10/25/40/100G Transceiver
 100G QSFP28 / SFP-DD
 40G QSFP+
@@ -419,9 +492,17 @@ Zubehör
 2.5G SFP
 1G SFP
 100MBit SFP
+Access
+GPON
+XG(S)PON
 InfiniBand
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
 200G QSFP-DD / QSFP56
 Ethernet-DAC / AOC Kabel
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 100G QSFP28 / SFP-DD
 25G SFP28
 10G SFP+
@@ -548,6 +629,8 @@ TRANSCEIVER
 100G QSFP28 / SFP-DD
 1G SFP
 ETHERNET-DAC / AOC KABEL
+400G OSFP / QSFP112 / QSFP-DD
+800G OSFP / QSFP-DD
 LIGHTWIN OPTICS
 Alle anzeigen
 GLASFASER / FTTX
@@ -588,20 +671,14 @@ Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um
 Stk
 Neu
 Lightwin Optics
+100GBit QSFP28 Long-Range AOC-Kabel (Active Optical Cable)
 LWO-AOC-QSFP28-3M
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
 Lightwin Optics
+100GBit QSFP28 Long-Range AOC-Kabel (Active Optical Cable)
 LWO-AOC-QSFP28-1M
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-EOL
-Neu
-Wirewin
-19" Wandschrank, einteilig, Pro 2nd Generation, Flat-Pack, 600x600mm, hellgrau
-WCAB PS2 600X600X6U FP
-Weitere Varianten
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
@@ -626,40 +703,4 @@ Neu
 Ajax
 CR123A - Ersatzbatterie für das angegebene Ajax Gerät
 22256.87.NC
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ajax
-AAA-Batterie - Ersatzbatterie für das angegebene Ajax Gerät
-22254.87.NC
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ajax
-Ajax Reparatursatz für SpaceControl - Ersatzteile, Weiss
-21184.04.WH
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ajax
-Ajax Reparatursatz für SpaceControl - Ersatzteile, Schwarz
-21183.04.BL
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ajax
-Ajax Reparatursatz für LeaksProtect - Ersatzteile, Weiss
-21166.08.WH
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ajax
-Ajax Reparatursatz für LeaksProtect - Ersatzteile, Schwarz
-21165.08.BL
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ajax
-Ajax Reparatursatz für GlassProtect - Ersatzteile, Weiss
-21158.05.WH
-Produkt Anzahl: Gib den gewünschten Wert ein od
+Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder

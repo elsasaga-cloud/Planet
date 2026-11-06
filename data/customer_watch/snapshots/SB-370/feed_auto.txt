@@ -1,4 +1,5 @@
-# SB-370 wildix.com · feed_auto · https://www.wildix.com/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-370 wildix.com · feed_auto · https://www.wildix.com/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+Thu, 05 Nov 2026 18:54:18 +0000	Beyond Telephony: How Challenger Business Communications Turns AI‑Driven Communications into Business Advantage	https://www.wildix.com/challenger-business-communications-partner-story/
 Tue, 06 Oct 2026 10:55:56 +0000	Wildix Certified to ISO/IEC 27001, 27017 and 27018 Across Information Security, Cloud Security and Privacy	https://www.wildix.com/wildix-iso-27001-27017-27018-certification/
 Thu, 01 Oct 2026 15:07:03 +0000	Wildix Named an Innovator in the 2026 Frost Radar™ for Integrated Cloud Communications Platforms	https://www.wildix.com/wildix-frost-radar-innovator-integrated-cloud-communications/
 Fri, 04 Sep 2026 12:38:42 +0000	Wildix and Lucid Technology Solutions Partner to Bring AI‑Powered Communications to Businesses Across the North East	https://www.wildix.com/wildix-lucid-technology-solutions-partnership/
@@ -8,4 +9,3 @@ Thu, 25 Jun 2026 07:15:05 +0000	Wildix Deploys Wilma AI as Mandatory L1 Technica
 Tue, 28 Apr 2026 08:04:39 +0000	Connecting with MSP Leaders Across Ireland and the UK	https://www.wildix.com/connecting-with-msp-leaders-across-ireland-and-the-uk/
 Thu, 09 Apr 2026 14:34:52 +0000	Four-Decade Telecom Veteran Who Brought AI to Public Transit Becomes Wildix’s First‑Ever Partner Spokesperson	https://www.wildix.com/wildix-appoints-michael-bubernack-first-partner-spokesperson/
 Tue, 07 Apr 2026 14:37:06 +0000	Wildix Redefines Revenue Operations with the Launch of Revenue Intelligence	https://www.wildix.com/wildix-launches-revenue-intelligence-ai-revenue-operations/
-Fri, 03 Apr 2026 17:06:04 +0000	As France Moves Away from US Platforms, One European UCaaS Provider Is Already Inside Government Institutions	https://www.wildix.com/wildix-european-ucaas-alternative-digital-sovereignty/

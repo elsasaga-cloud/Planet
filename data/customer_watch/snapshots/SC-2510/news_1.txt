@@ -1,4 +1,4 @@
-# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 Aktualności | Getfort
 O marce
 Produkty
@@ -30,6 +30,9 @@ Odpowiemy na Twoją wiadomość tak szybko,
 jak to możliwe. Chętnie pomożemy i udzielimy
 wszystkich potrzebnych informacji.
 Napisz do nas
+Proszę wybrać typ zapytania:
+Zapytanie handlowe
+Zapytanie techniczne
 Eksperci od szaf teleinformatycznych i akcesoriów IT.
 Produkty
 Okablowanie

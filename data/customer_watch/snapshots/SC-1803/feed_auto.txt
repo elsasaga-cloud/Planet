@@ -1,4 +1,4 @@
-# SC-1803 habari.co.tz · feed_auto · https://www.habari.co.tz/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1803 habari.co.tz · feed_auto · https://www.habari.co.tz/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Thu, 08 Oct 2026 10:04:31 +0000	Habari Wi-Fi to Power the 9th Serengeti Safari Marathon	https://www.habari.co.tz/blog/habari-wi-fi-to-power-the-9th-serengeti-safari-marathon/
 Thu, 01 Oct 2026 06:43:01 +0000	Tunapiga Hatua ya Ziada kwa Wateja Wetu	https://www.habari.co.tz/blog/tunapiga-hatua-ya-ziada-kwa-wateja-wetu/
 Wed, 30 Sep 2026 12:40:21 +0000	Kusonga Hatua ya Ziada kwa Wateja Wetu	https://www.habari.co.tz/blog/kusonga-hatua-ya-ziada-kwa-wateja-wetu/

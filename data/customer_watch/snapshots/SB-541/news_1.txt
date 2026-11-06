@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-06T09:32:27Z · HTTP 200
 KBC Networks - BLOG
 PRODUCTS
 NETWORK SWITCHES
@@ -192,7 +192,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Last Name
+Message
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -342,4 +342,4 @@ Malaysia
 Maldives
 Mali
 Malta
-Marshall Is
+Marshall Isla

@@ -1,28 +1,28 @@
-# SB-287 sea-srl.it · home · https://www.sea-srl.it/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-287 sea-srl.it · home · https://www.sea-srl.it/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 S&A - Distribuzione all'ingrosso di prodotti elettronici per la sicurezza
-Skip to Main Content
+Vai al contenuto
 Accedi
 |
 Registrati
 +39 0331 26 28 99
 Prodotti
 Tutti i prodotti
-AUTOMAZIONE
-VIDEOSORVEGLIANZA
-VIDEOCITOFONIA
-ANTINTRUSIONE
-ANTINCENDIO
-CONTROLLO ACCESSI
-SISTEMI ALIMENTAZIONE
-BATTERIE
-CAVI
-MATERIALE ELETTRICO
-NETWORKING
-DOMOTICA
-ILLUMINAZIONE LED
-RINNOVABILI
-AUTOMAZIONE
-Tutti i prodotti AUTOMAZIONE
+Automazione
+Videosorveglianza
+Videocitofonia
+Antintrusione
+Antincendio
+Controllo accessi
+Sistemi alimentazione
+Batterie
+Cavi
+Materiale elettrico
+Networking
+Domotica
+Illuminazione led
+Rinnovabili
+Automazione
+Tutti i prodotti Automazione
 CANCELLI A BATTENTE
 Battente Interrato Braccio A ruota
 CANCELLI SCORREVOLI
@@ -34,8 +34,8 @@ Motoriduttori Dispositivi comando Dispositivi sole vento Accessori
 BARRIERE
 ACCESSORI
 Fotocellule Riceventi Radiocomandi Radiocomandi universali Radiocomandi industriali Antenne Selettori Tastiere Lampeggianti Bordi sensibili Quadri battente Quadri scorrevole Quadri sbarre Semafori Collari anticaduta Cremagliera Colonnine Rilevatori masse metall Sensori porte industria Sensori porte automatiche Elettroserrature Comando remoto Accessori
-VIDEOSORVEGLIANZA
-Tutti i prodotti VIDEOSORVEGLIANZA
+Videosorveglianza
+Tutti i prodotti Videosorveglianza
 TELECAMERE IP
 Bullet Minidome Dome Speed dome Cube camera Panoramiche Occultabili
 TELECAMERE ANALOGICHE
@@ -54,8 +54,8 @@ Balun Ethernet over coax Media converter Convertitori Isolatori Splitter Extende
 ACCESSORI E COMPLEMENTI TVCC
 Monitor Staffe e supporti Hard disk Connettori Cartelli Tastiere Alimentatori Power injector Ups Armadi per xvr/nvr Pali Accessori Tromba ip
 KIT VIDEOSORVEGLIANZA
-VIDEOCITOFONIA
-Tutti i prodotti VIDEOCITOFONIA
+Videocitofonia
+Tutti i prodotti Videocitofonia
 VIDEOCITOFONIA IP
 Kit videocitofoni ip Monitor ip Posti esterni ip Accessori ip
 POSTAZIONI INTERNE
@@ -64,8 +64,8 @@ Kit videocitofoni 2 fili Monitor 2 fili Posti esterni 2 fili Accessori 2 fili
 WIRELESS
 APP
 ACCESSORI
-ANTINTRUSIONE
-Tutti i prodotti ANTINTRUSIONE
+Antintrusione
+Tutti i prodotti Antintrusione
 CENTRALI
 Centrali ibride Centrali hub
 TASTIERE E INSERITORI
@@ -92,8 +92,8 @@ CENTRALIZZAZIONE - SUPERVISIONE
 NEBBIOGENI
 FUMOGENI
 RICAMBI
-ANTINCENDIO
-Tutti i prodotti ANTINCENDIO
+Antincendio
+Tutti i prodotti Antincendio
 CONVENZIONALI
 Centrali Espansioni Ripetitori Moduli ingresso Moduli uscita Moduli isolatori Rilevatori puntiformi Rilevatori lineari Rilevatori condotta Pulsanti Sirene - lampeggianti Ripetitori ottici
 INDIRIZZATI
@@ -115,8 +115,8 @@ APPLICAZIONI NAVALI MED
 SITI ALTO RISCHIO SIL 2
 APPLICAZIONI FERROVIARIE
 RICAMBI
-CONTROLLO ACCESSI
-Tutti i prodotti CONTROLLO ACCESSI
+Controllo accessi
+Tutti i prodotti Controllo accessi
 CONTROLLER E SOFTWARE
 Stand alone Sistema atlas Sistema cvsecurity Terminali / controllo presenze
 LETTORI
@@ -128,16 +128,16 @@ Tripodi Swing Tutta altezza
 SMART LOCK
 Cilindri e lucchetti
 METAL DETECTOR
-SISTEMI ALIMENTAZIONE
-Tutti i prodotti SISTEMI ALIMENTAZIONE
+Sistemi alimentazione
+Tutti i prodotti Sistemi alimentazione
 ALIMENTATORI
 TRASFORMATORI
 RIDUTTORI TENSIONE
-BATTERIE
-Tutti i prodotti BATTERIE
+Batterie
+Tutti i prodotti Batterie
 BATTERIE AL PIOMBO
-CAVI
-Tutti i prodotti CAVI
+Cavi
+Tutti i prodotti Cavi
 CAVO PER AUTOMAZIONE
 CAVO PER ANTINTRUSIONE
 CAVO PER ANTINCENDIO
@@ -148,8 +148,8 @@ CAVO PER DATI
 CAVO ANTIRODITORE
 CAVO TELEFONICO
 CAVO PER ALTOPARLANTI
-MATERIALE ELETTRICO
-Tutti i prodotti MATERIALE ELETTRICO
+Materiale elettrico
+Tutti i prodotti Materiale elettrico
 SERIE CIVILI
 SCATOLE INCASSO E PARETE
 CONTENITORI METALLICI IP66
@@ -158,15 +158,15 @@ TUBO CORRUGATO
 TUBO RIGIDO
 CLIP STAFFE E FASCETTE
 CONNETTORI STAGNI
-NETWORKING
-Tutti i prodotti NETWORKING
+Networking
+Tutti i prodotti Networking
 ARMADI RACK
 Armadi Ripiani fissi Cassetti estraibili Pannelli ciechi Pannelli patch precaricati Pannelli patch vuoti Passacavo Multiprese Ventole di raffreddamento Accessori Contenitori universali
 SWITCH
 MODULI OTTICI
 ACCESSORI
-DOMOTICA
-Tutti i prodotti DOMOTICA
+Domotica
+Tutti i prodotti Domotica
 KNX - TASTIERE
 KNX - MINISERVER
 KNX - INTERFACCE IN/OUT
@@ -176,8 +176,8 @@ KNX - ATTUATORI
 KNX - ACCOPPIATORI - INTERFACCE
 KNX - CAVO E ACCESSORI
 KNX - TERMOSTATI
-ILLUMINAZIONE LED
-Tutti i prodotti ILLUMINAZIONE LED
+Illuminazione led
+Tutti i prodotti Illuminazione led
 DOWNLIGHT LED
 FARETTI GESSO
 FARETTI CLASSICI
@@ -198,8 +198,8 @@ DRIVERS
 DIMMER E CONTROLLER LED
 CONNETTORI E BOX
 COMPONENTI
-RINNOVABILI
-Tutti i prodotti RINNOVABILI
+Rinnovabili
+Tutti i prodotti Rinnovabili
 WALLBOX
 STAZIONI DI RICARICA
 Marche
@@ -232,12 +232,13 @@ I vantaggi dell'account S&A
 Prezzi riservati alla tua azienda Vedi i tuoi prezzi e le promozioni su tutto il catalogo.
 Ordini più veloci Ordine rapido per codice, più carrelli, preventivi e storico degli ordini.
 Documenti sempre a portata di mano Manuali, certificati, DDT e fatture da scaricare quando servono.
+S&A - Distribuzione all'ingrosso di prodotti elettronici per la sicurezza
 Sei un installatore? Accedi ai prezzi riservati.
 Prezzi, ordini e documenti della tua azienda in un'unica area riservata.
 Accedi
 Registrati
 Cerca per categoria
-Tutti i prodotti
+Tutti i prodotti Tutte
 Automazione
 Videosorveglianza
 Videocitofonia
@@ -253,7 +254,7 @@ Illuminazione LED
 Rinnovabili
 Sistemi alimentazione
 Prodotti in evidenza
-Vedi tutte le novità
+Vedi tutte le novità Novità
 TVT
 Telecamera IP 4G Solare 4MP - Deterrenza Attiva - 23Ah LFP - Pannello Solare 60W - FW 5.3.0
 Cod. TD9846SP1ABAG4WR2
@@ -280,22 +281,22 @@ Cod. 125733
 Disponibile
 Vedi il prezzo
 I nostri principali marchi
-Tutte le marche
+Tutte le marche Tutte
 Corsi ed eventi
 Partecipa agli eventi e ai corsi di formazione organizzati da S&A per conoscere sempre le novità del mercato e il miglior modo per offrirle ai tuoi clienti.
 Tutti i corsi
+Nessun corso in programma
+Dicci quale corso ti interessa: ti avvisiamo quando lo organizziamo.
+Mi interessa
 Hai bisogno di aiuto?
-Il nostro team commerciale e tecnico è a tua disposizione.
+Il nostro team commerciale e tecnico è a tua disposizione dal
+Lunedì al Venerdì dalle alle e dalle alle
 Servizio clienti
-+39 0331 26 28 99 · Lun–Ven – / –
-Chiama
++39 0331 26 28 99 +39 0331 26 28 99 Chiama
 Assistenza tecnica
-+39 0331 44 26 22 · supporto su installazione e configurazione
-Chiama
++39 0331 44 26 22 Chiama
 Scrivici
-Modulo di contatto, preventivi, reclami, candidature: nella pagina Contattaci.
-Compila la richiesta
-S&A - Distribuzione all'ingrosso di prodotti elettronici per la sicurezza
+Modulo di contatto, preventivi, reclami e candidature. Modulo di contatto, preventivi, reclami Compila la richiesta
 Contatti
 Servizio clienti
 +39 0331 26 28 99

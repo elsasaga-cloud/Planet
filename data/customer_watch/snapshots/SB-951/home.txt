@@ -1,4 +1,4 @@
-# SB-951 montavue.com · home · https://montavue.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-951 montavue.com · home · https://montavue.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Montavue - 4K & 2K Security Systems for Home and Business - No Fees
 Skip to content
 Shop Products
@@ -233,16 +233,6 @@ Montavue Home delivers powerful, hassle-free home security with crystal-clear vi
 SHOP HOME
 Nexus
 Home
-Better Security, Great Price
-4K Security that won't break the bank
-Get professional grade 4K security without the premium price tag. The 8MP AI Turret Camera combines crystal clear video, intelligent AI detection, smart color night vision, and reliable PoE performance, making it one of the best values in advanced home and business security.
-Shop now
-fully customizable RGB security
-12MP Ultra 4K video
-Experience unmatched image clarity with the 12MP Multi-Light Turret Camera , delivering ultra high resolution video and vibrant full-color night vision. Featuring intelligent multi-light technology, advanced motion detection, and easy NVR setup through Montavue Nexus, this camera provides reliable 24/7 protection without requiring a monthly subscription through Nexus Mobile.
-Shop now
-8MP
-12MP
 SOLUTIONS BY INDUSTRY
 Security built around
 your industry.
@@ -268,13 +258,13 @@ Go to slide 1
 Go to slide 2
 Go to slide 3
 Go to slide 4
-Go to slide 5
 Previous
 Next
-Montavue Nexus 4MP 2K 5x Optical Zoom PTZ PoE Security Camera – MNZ-45-101
-Sale price $604.95
+Montavue Home 4MP 2K Wi-Fi Pan-Tilt Light Bulb Security Camera – MHL-4-101
+Sale price $59.95
+Regular price $84.95
 SKU:
-MNZ-45-101
+MHL-4-101
 Quantity:
 Decrease quantity
 Increase quantity
@@ -283,7 +273,7 @@ Add to cart
 Pickup available at 5707 West Harrier
 Usually ready in 24 hours
 View store information
-Montavue Nexus 4MP 2K 5x Optical Zoom PTZ PoE Security Camera – MNZ-45-101
+Montavue Home 4MP 2K Wi-Fi Pan-Tilt Light Bulb Security Camera – MHL-4-101
 5707 West Harrier
 Pickup available, usually ready in 24 hours
 5707 West Harrier
@@ -357,4 +347,12 @@ Excellent service
 Beverly Bacchus
 07/07/2026
 Great Monitor
-I purchased this monitor after browsing the web for a monitor that is small and easy to mount. Overall 
+I purchased this monitor after browsing the web for a monitor that is small and easy to mount. Overall the monitor is light weight and allowed me to mount on a wall. Great value for the price.
+Manny Yakis
+06/06/2026
+Good quality drive. Installed without any issues.
+We needed to increase the capacity of our video stream recording so we ordered this 16TB drive to supplement our current 3TB drive. It installed easily after watching the Montaview install video without any issues. However, there was no SATA cable included with the drive. Luckily we had a spare in our IT room. There was also no power cable, but our NVR had an open bay and the power cable was in the NVR.
+JR Matkin
+04/30/2026
+service support
+Been a customer since 2018, Montavue has always delivered when I've needed it. I'd especially like to thank Andy and Riley for their patience in dealing with me and working through my prob

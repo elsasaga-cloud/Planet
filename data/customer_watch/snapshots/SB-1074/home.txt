@@ -1,4 +1,4 @@
-# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
 
 Menu
@@ -363,10 +363,10 @@ SERVICES
 BRAND PRICELISTS
 Download OFFICIAL PRICELISTS of our brands!
 PROMO SETIK
-HYUNDAI SPECIAL: SUPER DISCOUNTS AND FREE SHIPPING
--50%
-HYU-657
-HYU-657 Hyundai PRO HDTVI series outdoor dome CCTV camera. CMOS sensor, 2 MP (2-megapixel) resolution a...
+UPS READY FOR DELIVERY GIVE AWAY...
+FREE SHIPPING!
+Choose a UPS in stock and we will pay for shipping!
+Continuity of service for your systems, ze...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -455,7 +455,7 @@ VIEW PRICE
 €352.09
 -35%
 
-IN STOCK: 8
+IN STOCK: 4
 Pieces
 *}
 -57%
@@ -466,7 +466,7 @@ from
 38,72 €
 -57%
 
-IN STOCK: 116
+IN STOCK: 115
 Pieces
 *}
 IN PROMOTION
@@ -488,10 +488,12 @@ Soluzioni per casa, uffici, negozi, aziende e grandi infrastrutture
 Spedizioni rapide in tutta Europa e catalogo multilingua
 Popular Brands
 PROMO SETIK
-VIGI & OMADA | PROMOTIONS
-OMADA: SPEDIZIONE GRATUITA*
-* Su una selezione di prodotti e raggiungendo la spesa minima di 100€ iva escl.
-...
+HIKVISION | SPECIAL OFFERS
+```
+LOWEST PRICE IN EUROPE
+Hikvision DS-KIS604-S | The smart video intercom for your home
+```
+S...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -533,4 +535,4 @@ Compare Now ( 0 )‎
 Some text in the modal.
 Chiudi
 Aggiunta al Carrello
-This site uses coo
+This site uses cookies. By continuing to browse the 

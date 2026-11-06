@@ -1,4 +1,4 @@
-# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 2026-10-23	https://olsontech.com/aboutus
 2026-10-21	https://olsontech.com/bead
 2026-10-29	https://olsontech.com/blog

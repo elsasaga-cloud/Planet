@@ -1,4 +1,6 @@
-# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-877 ltv-cctv.ru · youtube · https://www.youtube.com/user/TheLuisplus · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-06T06:10:32+00:00	Насколько нейросети ускоряют выпуск цифровых продуктов	https://www.youtube.com/shorts/STBUiBzloOo
+2026-11-05T15:25:34+00:00	Как нейросети ускоряют разработку продуктов	https://www.youtube.com/shorts/JgASrU9qVDE
 2026-11-05T06:20:31+00:00	Как ИИ агент может автоматизировать безопасность	https://www.youtube.com/shorts/Y7v0iDBlxg4
 2026-11-04T15:15:34+00:00	Клиенты платят за результат, а не за «вау эффект»	https://www.youtube.com/shorts/QOXwLH9z0Vc
 2026-11-04T06:15:34+00:00	Схема автоматизации контроля за мелкими предметами	https://www.youtube.com/shorts/G73Z2hMn5P4
@@ -12,5 +14,3 @@
 2026-09-13T16:00:09+00:00	Три вопроса при выборе коммутатора shorts	https://www.youtube.com/shorts/sL7CCsjYkug
 2026-09-12T09:00:16+00:00	Управляемый и неуправляемый коммутатор. В чём разница? shorts	https://www.youtube.com/shorts/ORL4_aiWIFE
 2026-09-11T16:00:38+00:00	5 линеек сетевого оборудования в TRASSIR	https://www.youtube.com/shorts/HdHaaEueMhM
-2026-09-10T16:59:02+00:00	Коммутатор не просто коробка с портами shorts	https://www.youtube.com/shorts/nje0aiKMK0Y
-2026-09-10T16:14:20+00:00	ОБЪЕКТ РЕШАЕТ какой коммутатор нужен	https://www.youtube.com/watch?v=YNLbQ0xIMVk

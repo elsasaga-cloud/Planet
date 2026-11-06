@@ -1,4 +1,4 @@
-# SC-1638 thuananvn.com.vn · sitemap · https://thuananvn.com.vn/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-1638 thuananvn.com.vn · sitemap · https://thuananvn.com.vn/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
 2022-12-21	https://thuananvn.com.vn/home/
 2022-12-21	https://thuananvn.com.vn/company-profile.htmt
 2022-12-21	https://thuananvn.com.vn/news.htmt

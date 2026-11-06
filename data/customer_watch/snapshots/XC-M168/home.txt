@@ -1,4 +1,4 @@
-# XC-M168 Marshall Wolf Automation, Inc. · home · https://www.wolfautomation.com/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# XC-M168 Marshall Wolf Automation, Inc. · home · https://www.wolfautomation.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
 Industrial Controls Distributor | Marshall Wolf Automation
 Free Shipping For Online Orders Over $350* Learn More!
 About Us
@@ -228,24 +228,6 @@ Weintek
 Autonics
 Featured Products
 Available Now!
-Weg
-CFW320B10P0B2DB20
-15890698, Latest Version of CFW300B10P0B2DB20
-VFD, 3hp, 200-240VAC, Single or Three Phase, 10 Amp (10A), IP20, Frame B, Internal Dynamic Braking Included, Built-in HMI with Numeric LCD Display
-$391.39
-Add to Cart
-$391.39
-Add to Cart
-Available Now!
-Patlite
-HSST-3M2-RYG
-Light Tower Kit, Replaced HSST-312-RYG
-50mm Manual LED Signal Tower Kit with AC120V to DC24 Power Supply, Continuous Light, Red/Amber/Green LED with Clear Lens, Kit Includes: Stack Light, Andon, 2 Pole Lengths, Control Box, Brackets and Free Voltage AC Adapter
-$269.00
-Add to Cart
-$269.00
-Add to Cart
-Available Now!
 Patlite
 LA6-5DTNWB-POE
 Programmable, PoE, Multi-Color
@@ -334,6 +316,24 @@ $2,185.27
 Add to Cart
 $2,185.27
 Add to Cart
+Available Now!
+Weg
+SSW070200T5SZ
+10233131
+Soft Starter, 200A: 75hp/230V, 150hp/460V, 200hp/575V, 3 Phase, 10.9 x 8.6 x 8.7" Frame Size 3, IP00, Built-In - Internal AC-1 Bypass, Control Voltage: 94-264VAC, Series SSW07
+$2,730.35
+Add to Cart
+$2,730.35
+Add to Cart
+Available Now!
+Invertek
+ODE-3-120070-1F12
+Optidrive E3 Series
+VFD, 2hp, 7A, 200-240V, Single Phase Input/3 Phase Output, EMC Filter, IP20, General Purpose AC Drive, OPTIDRIVE E3 Series, Simple Setup with 14 Basic Parameters and Functions
+$318.06
+Add to Cart
+$318.06
+Add to Cart
 Proudly independent and women-owned distributor since 1984. Learn more.
 Overstock Items Shop All Overstock
 Invertek
@@ -377,100 +377,88 @@ Women's Business Enterprise
 New Products
 Learn More
 Autonics
-S2ER-E1RB
-*This Item is Shipped in Components, S2ER Series
-E-Stop, Ø22mm, Ø30mm Head(L), Red, Push-Lock, Turn-Reset, NO, 110VAC/10A, 220VAC/5A, *This Item is Shipped in Components: 1 Each of S2ER-E1R & SA-CB
-$11.00
+CP30-25AC-V
+Capacitive Proximity Sensor, Ø30mm, 2-Wire AC, Non-Flush, 25mm Sensing Range, 100-240VAC, NC, 5-100mA Load, 2m Oil-Resistant PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$105.00
 Add to Cart
-$11.00
+$105.00
 Add to Cart
-Patlite
-LR5-302LJNW-RYB
-LR (LR5) Series
-Stack Light, Andon, Ø50mm, LED, DC24V, No Flashing/Buzzer, Pole Mount with L-Bracket and Cable, Off-White Body, IP65, UL CE
-$143.65
+Autonics
+CP30-25AC
+Capacitive Proximity Sensor, Ø30mm, 2-Wire AC, Non-Flush, 25mm Sensing Range, 100-240VAC, NC, 5-100mA Load, 2m PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$100.00
 Add to Cart
-$143.65
+$100.00
 Add to Cart
-Noark
-FH4XC
-1102516
-Compact fixed-length flange handle, 9.57" / 24cm length, UL489 listed, NEMA 4/NEMA 4X
-$210.67
+Autonics
+CP18-15DP2-V
+Capacitive Proximity Sensor, Ø18mm, 3-Wire DC, Non-Flush, 15mm Sensing Range, 10-30VDC, PNP, NC, 200mA Output, 2m Oil-Resistant PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$91.00
 Add to Cart
-$210.67
+$91.00
 Add to Cart
-IDEC
-XW9Z-PCE
-XA/XN/XW Series
-Padlock Cover, for XW1E-BS4B12PR Assisted E-Stop, Locks E-Stop in Pressed State to Prevent Reset, 15N Min. Load Capacity, Assisted E-Stop System Accessory
-$119.67
+Autonics
+CP18-15DP2
+Capacitive Proximity Sensor, Ø18mm, 3-Wire DC, Non-Flush, 15mm Sensing Range, 10-30VDC, PNP, NC, 200mA Output, 2m PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$86.00
 Add to Cart
-$119.67
+$86.00
 Add to Cart
-Invertek
-ODE-3-420460-3F4B-MTP
-Non-Cancellable / No Returns
-VFD, 15hp, 11kW, 46A, 200-240V, 3 Phase Input/Output, LED Keypad, Potentiometer, Fwd/Stop/Rev Switch, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor with Disconnect Switch, NCNR
-$2,650.56
+Autonics
+CP12-8DN2-V
+Capacitive Proximity Sensor, Ø12mm, 3-Wire DC, Non-Flush, 8mm Sensing Range, 10-30VDC, NPN, NC, 200mA Output, 2m Oil-Resistant PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$91.00
 Add to Cart
-$2,650.56
+$91.00
 Add to Cart
-Invertek
-ODE-3-120023-301A-MTP
-Non-Cancellable / No Returns
-VFD, 0.5hp, 0.37kW, 2.3A, 200-240V, 3 Phase Input/Output, LED Keypad, No EMC Filter, No Brake Transistor, Modbus TCP, Frame 1, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
-$575.52
+Autonics
+CPCM12-8DP2
+Capacitive Proximity Sensor, Ø12mm, 3-Wire DC, Non-Flush, 8mm Sensing Range, 10-30VDC, PNP, NC, 200mA Output, M12 Plug Connector, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$103.00
 Add to Cart
-$575.52
+$103.00
 Add to Cart
-IDEC
-XW1E-BS4B12PR
-XA/XN/XW Series
-E-Stop, Ø22mm, Assisted E-Stop with 24VDC Solenoid Activation Assist, 1NO/2NC (1NO Monitor), Push-Pull/Turn Reset, Safe-Break Action, Push-In Terminals, IP65 (Panel Front)
-$254.50
+Autonics
+CP18-15DP-V
+Capacitive Proximity Sensor, Ø18mm, 3-Wire DC, Non-Flush, 15mm Sensing Range, 10-30VDC, PNP, NO, 200mA Output, 2m Oil-Resistant PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$91.00
 Add to Cart
-$254.50
+$91.00
 Add to Cart
-Invertek
-ODE-3-420300-3F4B-MTP
-Non-Cancellable / No Returns
-VFD, 10hp, 7.5kW, 30A, 200-240V, 3 Phase Input/Output, LED Keypad, Potentiometer, Fwd/Stop/Rev Switch, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor with Disconnect Switch, NCNR
-$1,956.24
+Autonics
+CP12-8DN2
+Capacitive Proximity Sensor, Ø12mm, 3-Wire DC, Non-Flush, 8mm Sensing Range, 10-30VDC, NPN, NC, 200mA Output, 2m PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$86.00
 Add to Cart
-$1,956.24
+$86.00
 Add to Cart
-Invertek
-ODE-3-440460-3F4A-MTP
-Non-Cancellable / No Returns
-VFD, 30hp, 22kW, 46A, 380-480V, 3 Phase Input/Output, LED Keypad, C1/2/3 EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
-$3,263.04
+Autonics
+CP18-15DP
+Capacitive Proximity Sensor, Ø18mm, 3-Wire DC, Non-Flush, 15mm Sensing Range, 10-30VDC, PNP, NO, 200mA Output, 2m PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$86.00
 Add to Cart
-$3,263.04
+$86.00
 Add to Cart
-Invertek
-ODE-3-420300-104A-MTP
-Non-Cancellable / No Returns
-VFD, 10hp, 7.5kW, 30A, 200-240V, Single Phase Input/3 Phase Output, LED Keypad, No EMC Filter, Internal Brake Transistor, Modbus TCP, Frame 4, Optidrive E3 Series, NEMA 4X/IP66 Outdoor Non-Switched, NCNR
-$2,035.44
+Autonics
+CPCM12-8DP
+Capacitive Proximity Sensor, Ø12mm, 3-Wire DC, Non-Flush, 8mm Sensing Range, 10-30VDC, PNP, NO, 200mA Output, M12 Plug Connector, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$103.00
 Add to Cart
-$2,035.44
+$103.00
 Add to Cart
-Invertek
-ODE-3-240041-3F4B-EIP
-Non-Cancellable / No Returns
-VFD, 2hp, 1.5kW, 4.1A, 380-480V, 3 Phase Input/Output, LED Keypad, Potentiometer, Fwd/Stop/Rev Switch, C1/2/3 EMC Filter, Internal Brake Transistor, EtherNet/IP, Frame 2, Optidrive E3 Series, NEMA 4X/IP66 Outdoor with Disconnect Switch, NCNR
-$1,029.60
+Autonics
+CP12-8DN-V
+Capacitive Proximity Sensor, Ø12mm, 3-Wire DC, Non-Flush, 8mm Sensing Range, 10-30VDC, NPN, NO, 200mA Output, 2m Oil-Resistant PVC Cable, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$91.00
 Add to Cart
-$1,029.60
+$91.00
 Add to Cart
-IDEC
-HX9Z-1TS2
-HX Series
-Wrist/Arm Strap, Approx. 22-38cm, for HX1T-AB1 Wireless Switch Transmitter, Assisted E-Stop System Accessory
-$27.92
+Autonics
+CPCM12-8DN2
+Capacitive Proximity Sensor, Ø12mm, 3-Wire DC, Non-Flush, 8mm Sensing Range, 10-30VDC, NPN, NC, 200mA Output, M12 Plug Connector, PBT Housing, Sensitivity Adjustable, Detects Metal, Plastic, Liquid and Grain, IP67
+$103.00
 Add to Cart
-$27.92
+$103.00
 Add to Cart
 From the Blog View All Entries
 Posted by Theresa Hoffman on Nov 17th 2025

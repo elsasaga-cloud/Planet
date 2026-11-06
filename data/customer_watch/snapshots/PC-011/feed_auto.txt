@@ -1,4 +1,5 @@
-# PC-011 Akçaba Communications（Akçaba Ltd.） · feed_auto · https://akcaba.com/feed/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# PC-011 Akçaba Communications（Akçaba Ltd.） · feed_auto · https://akcaba.com/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+Thu, 05 Nov 2026 14:18:15 +0000	Sizin için sektörden derlediğimiz haberlerle Ekim ayı bültenimiz sizlerle… Vol. 76	https://akcaba.com/sektorden-haberler-vol-76/
 Mon, 05 Oct 2026 20:51:49 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 75	https://akcaba.com/sektorden-haberler-vol-75/
 Mon, 31 Aug 2026 21:51:44 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 74	https://akcaba.com/sizin-icin-sektorden-derledigimiz-haberler-vol-74/
 Tue, 04 Aug 2026 05:23:24 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 73	https://akcaba.com/sektorden-haberler-vol-73/
@@ -8,4 +9,3 @@ Fri, 29 May 2026 09:52:50 +0000	Sizin için sektörden derlediğimiz haberler…
 Wed, 06 May 2026 11:23:46 +0000	3CX yükseltmeleri, yenilemeleri ve yeni lisanslarında %30’a varan indirim	https://akcaba.com/sinirli-sureli-3cx-kampanyasi/
 Tue, 05 May 2026 17:56:28 +0000	AI Destekli Mesai Dışı Çağrı Karşılama Süreci | PBX ve UCaaS Çözümleri	https://akcaba.com/ai-destekli-mesai-disi-cagri-karsilama-sureci/
 Tue, 28 Apr 2026 15:44:05 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 70	https://akcaba.com/sektorden-haberler-70/
-Tue, 31 Mar 2026 05:34:08 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 69	https://akcaba.com/sektorden-haberler-69/

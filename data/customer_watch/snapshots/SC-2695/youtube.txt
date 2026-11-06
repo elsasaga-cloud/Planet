@@ -1,4 +1,7 @@
-# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-06T09:32:27Z · HTTP 200
+2026-11-05T22:18:37+00:00	Scaling real-time edge AI: University of Alabama crowd analytics on Intel® Xeon® | Intel	https://www.youtube.com/shorts/XHce8skvLjI
+2026-11-05T22:17:12+00:00	Scaling real-time edge AI: University of Alabama crowd analytics on Intel® Xeon® | Intel	https://www.youtube.com/watch?v=zOIjYUResr0
+2026-11-05T18:00:35+00:00	AI Assisted Product Security at Intel | Chips & Salsa | Intel	https://www.youtube.com/watch?v=TcIjhubuE-A
 2026-11-04T15:00:36+00:00	How to make original art and designs fast | Intel	https://www.youtube.com/shorts/I_eZjxqDlBE
 2026-10-27T16:27:34+00:00	Make Every Token Count. The New Economics of AI. | Intel	https://www.youtube.com/watch?v=O5al_yf28Bc
 2026-10-26T14:52:57+00:00	Ireland: Build the future of technology with Intel Foundry | Intel	https://www.youtube.com/watch?v=uyAWCK9-2yw
@@ -11,6 +14,3 @@
 2026-10-06T14:00:10+00:00	How to fix bad photo lighting | Intel	https://www.youtube.com/shorts/fSXmOxLRRME
 2026-10-06T13:00:32+00:00	Foveros 2.5D: Advanced packaging across the full spectrum of performance and value | Intel	https://www.youtube.com/watch?v=Qk0fb2R5GQ0
 2026-10-05T21:29:26+00:00	Princeton-Intel Research Experience for Undergraduates Program | Intel Security	https://www.youtube.com/watch?v=DUVZjiRdCd8
-2026-10-01T16:00:29+00:00	2026 winners of the Intel Hardware Security Academic Awards | Intel	https://www.youtube.com/watch?v=rso5mvNYFFI
-2026-09-23T14:05:12+00:00	How to quickly blur faces in video | Intel	https://www.youtube.com/shorts/6ni_7kBOv90
-2026-09-18T15:00:16+00:00	Intel’s Next Wave of Innovation | Intel	https://www.youtube.com/shorts/_Y_j-1bZO7Y

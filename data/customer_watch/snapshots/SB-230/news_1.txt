@@ -1,4 +1,4 @@
-# SB-230 adin.it · news_1 · https://adin.it/it/news · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-230 adin.it · news_1 · https://adin.it/it/news · fetched 2026-11-06T09:32:27Z · HTTP 200
 Advanced Innovations - News
 Il presente sito utilizza dei cookie di tracciamento al fine di valutare la provenienza ed il comportamento dell'utente.
 Clicca su ACCETTO per consentire l'utilizzo dei Cookies oppure clicca su DECLINO per proseguire in forma anonima
@@ -188,6 +188,10 @@ UNI-TREND
 UNIVIEW
 UTEPO
 Yingjiao
+06|11|26
+Scopri subito le nuove telecamere TVT serie E4B-PA con deterrenza attiva!
+Advanced Innovations presenta le nuove telecamere TVT Serie E4B-PA, progettate per offrire una deterrenza attiva
+CONTINUA
 21|10|26
 Chiusura 30 Ottobre 2026
 Advanced Innovations
@@ -389,8 +393,4 @@ Lo storage Video Server RS9 si basa sulla tecnologia server ad alte prestazioni,
 CONTINUA
 09|10|24
 SWITCH INDUSTRIALI POE GIGABIT – MANAGED – FASTRING
-Switch Industriali 8 Porte PoE Gigabit con alimentazione ridondante e temperatura di lavoro -40° +70°C. Supportano le funzioni Fast Ring, Watchdog, L2 Managed, Quick PoE e Perpetual PoE.
-CONTINUA
-04|10|24
-MINI IOT BOX PICCOLO, COMPATTO, FUNZIONALE
-K-New presenta il nuovo Jangeeno Mini Box, un dispositivo IOT a 2 c
+Switch Industriali 8 Porte PoE Gigabit con alimentazione ridondante e temperatura di lavoro -40° +70°C. Suppor
