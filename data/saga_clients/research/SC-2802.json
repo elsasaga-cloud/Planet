@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "A-DEEP-02 2026-10-30 「不是极为 OK 的就 B」（Simon）→ 下放 B：Euro Security Solutions：微型（推定）→ 微型",
- "notes": "LT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -163,7 +163,8 @@
    "2026-11-02T10:17:01Z",
    "2026-11-03T10:20:22Z",
    "2026-11-04T10:04:29Z",
-   "2026-11-05T10:13:22Z"
+   "2026-11-05T10:13:22Z",
+   "2026-11-06T10:08:12Z"
   ],
   "fails": [
    "2026-10-29",
@@ -171,7 +172,8 @@
    "2026-11-02",
    "2026-11-03",
    "2026-11-04",
-   "2026-11-05"
+   "2026-11-05",
+   "2026-11-06"
   ],
   "batch": "LT-T03"
  },

@@ -2,7 +2,7 @@
  "code": "SC-2488",
  "name_official": "Fiber24 GmbH",
  "researched_at": "2026-10-29",
- "website_status": "快照失败（fiber24.net：HTTP 错误，2026-11-05，第 6 次）",
+ "website_status": "快照失败（fiber24.net：HTTP 错误，2026-11-06，第 7 次）",
  "summary": "C 池三闸捞出（○ 正式）：○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决",
  "type": "分销（闸 2 判定 · 20% 档）",
  "size": "小型（推定；股本 €25,000）",
@@ -42,7 +42,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Fiber24 GmbH（HRB 104376 Hamburg；2008；RIK Holding 控制；Planet 在售）坐实；分销 ✔ 主区 ✔ 坐实 ✔ 对位 ✔ = 冷户四条 → P 池候选；Simon 曾判不行，可否决；闸 1：德国 fiber24.net（光路 / Planet 的 / 工业 FS 很多牌子）：德国主区 + 多品牌分销 + 对位 ✔；8 推 0 回 → 闸 2 查底数；Simon 曾判不行 → 可按编号否决",
- "notes": "LT-T03 官网快照加厚（2026-11-05）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-06）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -149,7 +149,8 @@
    "2026-11-02T10:17:01Z",
    "2026-11-03T10:20:22Z",
    "2026-11-04T10:04:29Z",
-   "2026-11-05T10:13:22Z"
+   "2026-11-05T10:13:22Z",
+   "2026-11-06T10:08:12Z"
   ],
   "fails": [
    "2026-10-29",
@@ -157,7 +158,8 @@
    "2026-11-02",
    "2026-11-03",
    "2026-11-04",
-   "2026-11-05"
+   "2026-11-05",
+   "2026-11-06"
   ],
   "batch": "LT-T03"
  },
