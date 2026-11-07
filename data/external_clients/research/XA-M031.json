@@ -2,8 +2,8 @@
  "code": "XA-M031",
  "name": "Westercom",
  "round": "LT-T03",
- "researched_at": "2026-11-06",
- "alive": "快照失败（westercom.eu：HTTP 错误，2026-11-06，第 7 次）",
+ "researched_at": "2026-11-07",
+ "alive": "快照失败（westercom.eu：HTTP 错误，2026-11-07，第 8 次）",
  "summary": "工业网络分销（Westercom，Westermo Silver + Advantech EKI + B+B SmartWorx）；同时代理 Westermo 与 B+B SmartWorx → 典型多品牌工业分销",
  "type_final": "工业网络分销（Westercom，Westermo Silver + Advantech EKI + B+B SmartWorx）",
  "size": "未量化",
@@ -40,7 +40,7 @@
   "window": "CZ 周四 12–14",
   "when": "2026-11-19"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "DIN-rail industrial PoE switches - second source for your line card",
   "body": "Hi,\n\nSaga Telecom builds DIN-rail industrial Ethernet switches for distributors who already carry automation and industrial communication brands and want a second source at a lower price point, CE.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a lower-priced DIN-rail PoE switch be worth a test unit as a second source next to the industrial brands you carry?\n\nSimon\nSaga Telecom - sagatele.com"
@@ -54,7 +54,8 @@
    "2026-11-03T10:20:24Z",
    "2026-11-04T10:04:30Z",
    "2026-11-05T10:13:22Z",
-   "2026-11-06T10:08:13Z"
+   "2026-11-06T10:08:13Z",
+   "2026-11-07T09:32:47Z"
   ],
   "fails": [
    "2026-10-29",
@@ -63,7 +64,8 @@
    "2026-11-03",
    "2026-11-04",
    "2026-11-05",
-   "2026-11-06"
+   "2026-11-06",
+   "2026-11-07"
   ]
  }
 }

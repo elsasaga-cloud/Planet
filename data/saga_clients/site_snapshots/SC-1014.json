@@ -1,1 +1,1 @@
-{"code":"SC-1014","name":"gtlan.com","grade":"B","country":"西班牙","fetched_at":"2026-11-06T10:07:38Z","domains":["gtlan.com"],"status":"crash","errors":["ValueError: 'gtlan.com]»' does not appear to be an IPv4 or IPv6 address"],"home":null,"subpages":[]}
+{"code":"SC-1014","name":"gtlan.com","grade":"B","country":"西班牙","fetched_at":"2026-11-07T09:32:14Z","domains":["gtlan.com"],"status":"crash","errors":["ValueError: 'gtlan.com]»' does not appear to be an IPv4 or IPv6 address"],"home":null,"subpages":[]}

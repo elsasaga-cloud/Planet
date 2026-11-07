@@ -2,8 +2,8 @@
  "code": "XC-M097",
  "name": "Piero Bersanini",
  "round": "LT-T03",
- "researched_at": "2026-11-06",
- "alive": "快照失败（pierobersanini.com：HTTP 错误，2026-11-06，第 7 次）",
+ "researched_at": "2026-11-07",
+ "alive": "快照失败（pierobersanini.com：HTTP 错误，2026-11-07，第 8 次）",
  "summary": "Piero Bersanini（P.IVA IT09290730150）：工业电气 / 自动化元件网店 + 分销（Westermo Gold、PULS、E-T-A）；help@ 为客服箱",
  "type_final": "分销（Westermo Gold）；Piero Bersanini（P.IVA IT09290730150）",
  "size": "",
@@ -33,7 +33,7 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPiero Bersanini（P.IVA IT09290730150）；via Giacosa 3, 20127 Milano；P.IVA IT09290730150；+39 02 268531",
+ "notes": "LT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPiero Bersanini（P.IVA IT09290730150）；via Giacosa 3, 20127 Milano；P.IVA IT09290730150；+39 02 268531",
  "draft_en": null,
  "snap_thicken": {
   "consumed": [
@@ -43,7 +43,8 @@
    "2026-11-03T10:20:49Z",
    "2026-11-04T10:04:55Z",
    "2026-11-05T10:13:47Z",
-   "2026-11-06T10:08:49Z"
+   "2026-11-06T10:08:49Z",
+   "2026-11-07T09:33:11Z"
   ],
   "fails": [
    "2026-10-29",
@@ -52,7 +53,8 @@
    "2026-11-03",
    "2026-11-04",
    "2026-11-05",
-   "2026-11-06"
+   "2026-11-06",
+   "2026-11-07"
   ]
  }
 }

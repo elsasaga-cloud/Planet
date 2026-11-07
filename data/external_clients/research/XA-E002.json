@@ -2,8 +2,8 @@
  "code": "XA-E002",
  "name": "Circle B（Taurus Group 旗下）",
  "round": "LT-T03",
- "researched_at": "2026-11-06",
- "alive": "快照失败（circleb.eu：域名不可达（DNS/连接失败），2026-11-06，第 7 次）",
+ "researched_at": "2026-11-07",
+ "alive": "快照失败（circleb.eu：域名不可达（DNS/连接失败），2026-11-07，第 8 次）",
  "summary": "开放硬件/OCP 方案商（Circle B，Taurus Group）",
  "type_final": "开放硬件/OCP 方案商（Circle B，Taurus Group）",
  "size": "未量化",
@@ -43,7 +43,7 @@
   "window": "",
   "when": "不动"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
  "draft_en": null,
  "snap_thicken": {
@@ -54,7 +54,8 @@
    "2026-11-03T10:20:23Z",
    "2026-11-04T10:04:30Z",
    "2026-11-05T10:13:22Z",
-   "2026-11-06T10:08:12Z"
+   "2026-11-06T10:08:12Z",
+   "2026-11-07T09:32:47Z"
   ],
   "fails": [
    "2026-10-29",
@@ -63,7 +64,8 @@
    "2026-11-03",
    "2026-11-04",
    "2026-11-05",
-   "2026-11-06"
+   "2026-11-06",
+   "2026-11-07"
   ]
  }
 }

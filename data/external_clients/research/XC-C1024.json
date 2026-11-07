@@ -2,8 +2,8 @@
  "code": "XC-C1024",
  "name": "Scoop Distribution (Pty) Ltd",
  "round": "LT-T03",
- "researched_at": "2026-11-06",
- "alive": "快照失败（scoop.co.za：HTTP 错误，2026-11-06，第 7 次）",
+ "researched_at": "2026-11-07",
+ "alive": "快照失败（scoop.co.za：HTTP 错误，2026-11-07，第 8 次）",
  "summary": "Scoop Distribution (Pty) Ltd（南非 · 开普敦(总部) / 约翰内斯堡 / 德班）：网络设备批发分销商；公司全称=Scoop Distribution (Pty) Ltd；地址=1A Harvest Cl, Richwood, Cape Town, 7441",
  "type_final": "网络设备批发分销商",
  "size": "",
@@ -38,7 +38,7 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "notes": "LT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:55:52Z",
@@ -47,7 +47,8 @@
    "2026-11-03T10:20:49Z",
    "2026-11-04T10:04:54Z",
    "2026-11-05T10:13:47Z",
-   "2026-11-06T10:08:49Z"
+   "2026-11-06T10:08:49Z",
+   "2026-11-07T09:33:11Z"
   ],
   "fails": [
    "2026-10-29",
@@ -56,7 +57,8 @@
    "2026-11-03",
    "2026-11-04",
    "2026-11-05",
-   "2026-11-06"
+   "2026-11-06",
+   "2026-11-07"
   ]
  }
 }
