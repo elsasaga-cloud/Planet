@@ -1,4 +1,4 @@
-# SA-081 4power.it · news_1 · https://www.4power.it/blog/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SA-081 4power.it · news_1 · https://www.4power.it/blog/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Blog 4Power | Guide su UPS, Networking e Cablaggio Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -75,7 +75,7 @@ Archivio Categoria: Blog
 Guide, approfondimenti e novità tecniche dal mondo 4Power: UPS Eurogroup, networking 4Net e Planet, armadi rack e cablaggio strutturato. Articoli per installatori, rivenditori e professionisti IT.
 Blog
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta
-Pubblicato il 1 Ottobre 2026 11 Ottobre 2026 da rvosa
+Pubblicato il 1 Ottobre 2026 6 Novembre 2026 da rvosa
 Un armadio rack installato in una sala server climatizzata e un cabinet destinato a un impianto industriale, a un nodo di rete periferico o a un’installazione su palo non affrontano le stesse condizioni ambientali. Polvere, acqua, umidità e maggiore esposizione agli agenti esterni richiedono involucri progettati specificamente per proteggere gli apparati di rete. Per queste […] Continua a leggere →
 Inserito in Blog
 Blog
@@ -86,7 +86,7 @@ Continua a leggere →
 Inserito in Blog | Taggato 2000 MHz , 40 Gbps , 4Net , cablaggio strutturato , Cat 8 , cavo Ethernet Cat 8 , keystone Cat 8 , patch cord Cat 8
 Blog
 4Net amplia l’offerta in fibra ottica: nuovi cavi Tight Buffered e Fire Protect
-Pubblicato il 7 Settembre 2026 7 Settembre 2026 da rvosa
+Pubblicato il 7 Settembre 2026 6 Novembre 2026 da rvosa
 4Net amplia l’offerta in fibra ottica con cavi Tight Buffered per installazioni indoor e Fire Protect per applicazioni con requisiti di resistenza al fuoco.
 Continua a leggere →
 Inserito in Blog | Taggato 4Net , CPR , fibra ottica , Fire Protect , FTTH , GPON , Tight Buffered

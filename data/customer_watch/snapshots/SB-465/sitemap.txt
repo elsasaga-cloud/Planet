@@ -1,4 +1,4 @@
-# SB-465 Koza · sitemap · https://kozaguvenlik.com.tr/sitemap.xml · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-465 Koza · sitemap · https://kozaguvenlik.com.tr/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 2024-03-28T16:50:45+00:00	https://www.kozaguvenlik.com.tr/kodicom-kd-8543ie-30x-4-megapiksel-speed-dome-ip-kamera
 2023-09-05T12:01:05+00:00	https://www.kozaguvenlik.com.tr/xrplus-xr-510-ahd-2-megapiksel-ahd-dome-kamera
 2017-07-04T16:22:40+00:00	https://www.kozaguvenlik.com.tr/1-amper-adaptor

@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-06T09:32:27Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-07T08:57:10Z · HTTP 200
 Centrale telefoniczne voip, Telefony ip i Bramki - voip24sklep.pl - Sklep telekomunikacyjny
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -67,13 +67,13 @@ Wróć do:
 Przewodowe
 Bezprzewodowe
 Interkomy
+Karty i breloki
+Elektrozaczepy
+Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
 Daszki
-Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -138,14 +138,15 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
+Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
+Jednostki główne
+Licencje
+Akcesoria
 Lampowe
 Laserowe
 Akcesoria
@@ -153,32 +154,34 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
-Grabbery
+Splittery HDMI
+Stacje dokujące
 Uchwyty do projektorów
 Kable
 Extendery
-Splittery HDMI
-Stacje dokujące
 Uchwyty do monitorów
 HDMI
-USB
 USB A
 USB C
+Przedłużacze USB A
+HDMI
+USB
 Stałe
 Uchylne
 Na ramieniu
 Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla placówek medycznych
 Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
+Dla placówek medycznych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -204,11 +207,11 @@ Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Higiena
 Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
-Higiena
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
@@ -435,7 +438,6 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
-Akcesoria
 Głośniki
 Wzmacniacze
 Miksery
@@ -443,6 +445,7 @@ Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
+Akcesoria
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -491,11 +494,11 @@ Na ramieniu
 Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla placówek medycznych
-Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
+Dla placówek medycznych
+Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -843,5 +846,4 @@ Do koszyka
 Dostępność:
 na wyczerpaniu
 Nowość
-Kod producenta 5393-823-369
-Jabra EVOLVE 30 II MS 
+Kod produ

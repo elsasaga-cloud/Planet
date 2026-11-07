@@ -1,4 +1,4 @@
-# SB-762 groundcontrol.com · home · https://www.groundcontrol.com:443/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-762 groundcontrol.com · home · https://www.groundcontrol.com:443/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control
 Skip to content
 About
@@ -137,10 +137,11 @@ Taking USVs Beyond Cellular Reach
 Oshen uses satellite IoT to keep compact USVs connected far offshore, gathering data for weather forecasting, marine research and wildlife monitoring.
 Find Out More
 Latest News
+Keeping Uncrewed Systems on Course Through Jamming and Spoofing
+November 6, 2026
+RockBLOCK APNT webinar highlights: how Iridium PNT keeps uncrewed systems on course through GNSS jamming and spoofing, plus specs and pricing.
+Read More
 The Cost of a Lost USV: Remote Reset for Uncrewed Surface Vessels
 October 26, 2026
 Lost contact with a USV can mean costly recovery charters and lost data. Learn how an out-of-band satellite link lets you reset or shut down vessels remotely.
 Read More
-Beyond Cellular: Smart LoRaWAN Backhaul for Remote Water Sites
-October 22, 2026
-No cellular coverage? Compare satellite broadband, point-to-point radio and low power satellite messaging for backhauling remote LoRaWAN water monitoring

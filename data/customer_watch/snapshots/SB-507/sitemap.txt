@@ -1,4 +1,4 @@
-# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 2026-05-21	https://www.fibreoptic.com.au
 2025-08-26	https://www.fibreoptic.com.au/sustainability
 2026-06-25	https://www.fibreoptic.com.au/fos-insights/why-fibre-optics-are-essential-for-australias-digital-future

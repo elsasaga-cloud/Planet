@@ -1,4 +1,5 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-06T09:32:27Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-07T08:57:10Z · HTTP 200
+06.11.2026 12:51:57	Simply45 - RJ45 - CAT 6 UTP Cap45	https://www.leteng.no/simply-45/s45-1601/simply45-rj45-cat-6-utp-cap45-pass-through-23awg-50-stk
 05.11.2026 16:20:38	EFB Hylle 1U Ventilert 350 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u350/efb-hylle-1u-ventilert-350-mm-19-max-10-kg-sort
 05.11.2026 16:17:51	EFB Hylle 1U Ventilert 250 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u250/efb-hylle-1u-ventilert-250-mm-19-max-10-kg-sort
 05.11.2026 15:45:41	ACT USB4 Thunderbolt™5 kabel- 1,5m	https://www.leteng.no/act/ac7452/act-usb4-thunderbolt5-kabel-1-5m-usb-c-m-m-80gbps-240w-usb-if-certified
@@ -98,4 +99,3 @@
 03.09.2026 14:17:06	UTP Patch Cat.6 - 25 m Grå LSZH	https://www.leteng.no/efb-elektronik/k8104gr-dot-25/utp-patch-cat-dot-6-25-m-gr%c3%a5-lszh-250mhz-24awg-halogenfri-snagless
 03.09.2026 12:40:28	AiC PlugIt - Adapterring	https://www.leteng.no/aic-all-in-cable/aic-plugit-126w/aic-plugit-adapterring-hvit
 03.09.2026 12:27:03	Purelink USB-C Dock *B-vare*	https://www.leteng.no/purelink/pt-hub-100_b/purelink-usb-c-dock--asteriks-b-vare-asteriks--18gbps-4k-60hz-4-4-4
-03.09.2026 10:02:07	Clevertouch IMPACT LUX 2 86"	https://www.leteng.no/clevertouch/15486impactlux2/clevertouch-impact-lux-2-86-4k-touch-tr%c3%a5dl%c3%b8s-byod-google-edla

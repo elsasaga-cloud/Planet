@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,36 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Fire Protect OM1
-4Net Cavo fibra Fire Protect OM1 48 fibre armato LSZH B2ca | CF62BA48LSM2
+Adattatori per inserti RJ45
+Adattatore Vimar Serie Linea Bianco
 Esegui l'accesso per visualizzare i prezzi
 +
-Unmanaged
-PLANET GT-806B15: media converter Gigabit WDM monomodale 20 km
-Esegui l'accesso per visualizzare i prezzi
-+
-Esaurito
-Antenne e Cavi
-PLANET CB-QSFP4X25G-3M: cavo breakout 100G QSFP28 a 4x25G SFP28 da 3 m
-Esegui l'accesso per visualizzare i prezzi
-+
-Armadi Rack a parete
-Armadio rack 19″ IP55 a parete 9U 600×600 | 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-Unmanaged
-PLANET IFGS-1022HPT v3: switch industriale 8 porte PoE+ + 2 combo Gigabit
+Bretelle Multimodali Zip Duplex 62,5/125 OM1
+Bretella Fibra OM1 LC-SC 1m | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
 Armadi Rack a pavimento
-Armadio rack 19″ IP55 a pavimento 42U 600×1000 | 4Net
+Armadio rack 19″ IP55 a pavimento 42U 600×800 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Armadi 600x600
-Armadio Rack a Pavimento 32U 600×600 Porta in Vetro RAL 9004 | 4Net
+Adattatori per inserti RJ45
+Adattattore Per Frutto Serie Ave Banquise 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Piedini e Ruote
-Ruote con Freno – Capacità di carico 200Kg
+10 GB
+10G Sfp+ Fiber Transceiver (Wdm, Tx:1330Nm, Rx:1270Nm, Ddm) – 10Km
+Esegui l'accesso per visualizzare i prezzi
++
+1 GB
+Mini Gbic Gigabit Industriale Multimodale (Lc) 850Nm Fino A 550Mt 40° A 85°
+Esegui l'accesso per visualizzare i prezzi
++
+Bretelle Monomodali Zip Duplex 9/125 OS2
+Bretella Fibra OS2 LC-SC 20m | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Bretelle Multimodali Zip Duplex 50/125 OM3
+Bretella Fibra OM3 LC-LC 3m | 4Net
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta

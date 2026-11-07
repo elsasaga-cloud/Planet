@@ -1,4 +1,5 @@
-# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+Fri, 06 Nov 2026 19:27:19 +0000	PLC-Based PID Loops vs. Standalone PID Controllers	https://maplesystems.com/plc-pid-loops-vs-standalone-controllers/
 Mon, 02 Nov 2026 19:17:11 +0000	Open-Loop vs. Closed-Loop PID Control Systems	https://maplesystems.com/pid-open-loop-vs-closed-loop/
 Mon, 02 Nov 2026 19:11:00 +0000	Troubleshooting PID Loop Instability, Oscillations, Overshoot & Hunting	https://maplesystems.com/pid-loop-troubleshooting-guide/
 Mon, 02 Nov 2026 18:45:48 +0000	Complete Guide to PID Loop Methodologies	https://maplesystems.com/pid-tuning-methods/
@@ -6,6 +7,5 @@ Mon, 02 Nov 2026 18:32:51 +0000	Preventing Integral Windup in PID Control: Anti-
 Mon, 02 Nov 2026 18:30:23 +0000	Cascade PID Control Explained: Inner and Outer Loops	https://maplesystems.com/cascade-pid-control/
 Mon, 02 Nov 2026 18:26:03 +0000	PID Signal Conditioning & Noise Filtering	https://maplesystems.com/pid-signal-conditioning-noise-filtering/
 Mon, 26 Oct 2026 18:06:45 +0000	Acelerex Selects Maple Systems Industrial PCs as Qualified Hardware for the REX™ Platform	https://maplesystems.com/acelerex-selects-maple-systems-industrial-pcs-for-rex-platform/
+Fri, 16 Oct 2026 20:44:13 +0000	PID Controller Mathematics & Transfer Functions	https://maplesystems.com/pid-math-transfer-function/
 Tue, 13 Oct 2026 22:17:35 +0000	Understanding Proportional Gain (Kp), Integral Gain (Ki) and Derivative Gain (Kd) in PID Loops	https://maplesystems.com/pid-proportional-integral-derivative-gains/
-Tue, 01 Sep 2026 20:52:39 +0000	Why Industrial Digital Signage Demands Purpose-Built Hardware	https://maplesystems.com/digital-signage-pc-reliability-features/
-Tue, 01 Sep 2026 20:52:17 +0000	Digital Signage in Manufacturing: From Information to Action	https://maplesystems.com/digital-signage-manufacturing-communication/

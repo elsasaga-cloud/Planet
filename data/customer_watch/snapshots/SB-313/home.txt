@@ -1,4 +1,4 @@
-# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
 მომხმარებელი არ არის ვერიფიცირებული
 ვერიფიკაცია
@@ -170,46 +170,47 @@ LAN & WAN
 მონაცემთა შენახვა
 ახალი პროდუქტები
 ყველას ნახვა
-მართვადი PoE სვიჩი - USW-Pro-XG-24-PoE, Ubiquiti
-USW-Pro-XG-24-PoE
-#03949
-9384.16 ₾
-მარაგშია
-PoE სვიჩი - 16x100 მბ/წმ PoE პორტი, 2x1000 მბ/წმ კომბო, არამართვადი
-NSW2020-16T2GC-LPOE-IN
-#04054
-351.85 ₾
-მარაგშია
-მართვადი PoE სვიჩი - 8 x 10/100Mbps POE port (RJ45) ,2 x GP(RJ45), Uniview
-NSW3000-8T2GT-LPOE-IN
-#04052
-160.38 ₾
-მარაგშია
-როუტერი - hEX S, E60iUGS, MikroTik
-E60iUGS
-#03639
-247.75 ₾
-მარაგშია
-ანალოგური კამერა 5MP 2.8mm, Bullet, IR, Mic, Uniview
-UAC-B115-AF28
-#04062
-69.26 ₾
-მარაგშია
-აკუმულატორი - 12V/40AH, სუფთა ტყვიის, Leoch
-PLH40FT(A)
-#03314
-395.41 ₾
+9 არხიანი IP ჩამწერი NVR - 2 მყარი დისკი Uniview
+NVR302-09B-IQ
+#04132
+597.78 ₾
 გზაშია, სავარაუდო ჩამოსვლა:
-17.12.2026
-LTE როუტერი - Chateau LTE7
-D53G-5HacD2HnD-TC&R11e-LTE7
-#03861
-460.35 ₾
+09.11.2026
+მართვადი PoE სვიჩი - Pro Max 48 PoE, Ubiquiti
+USW-Pro-Max-48-PoE-EU
+#03633
+6609.40 ₾
 მარაგშია
-24 წვერიანი ADSS ოპტიკური კაბელი
-ADSS-SS-50M-24B1.3
-#04108
-2.59 ₾
+Firewall - FortiGate-90G, Fortinet
+FG-90G
+#03585
+ფასის გასაგებად დაგვიკავშირდით
+მხოლოდ წინასწარი შეკვეთით
+IP კამერა - 4მპ, VF, WiseISP Turret, Mic, SD, ANR, UMD, IR/LED 50m, Uniview
+IPC3634LE-ADZK-DL3
+#04127
+415.53 ₾
+გზაშია, სავარაუდო ჩამოსვლა:
+09.11.2026
+Wi-Fi როუტერი - hAP be³ Media, MikroTik
+MA53UG+HbeH
+#03938
+670.05 ₾
+მარაგშია
+12 წვერიანი ADSS ოპტიკური კაბელი
+ADSS-SS-50M-12B1.3
+#04107
+1.90 ₾
+მარაგშია
+IP კამერა - 4მპ, 4მმ, Dome PT, UMD, Mic, SD, ANR, Uniview
+IPC6214LFW-AF40C
+#03599
+236.93 ₾
+მარაგშია
+მართვადი PoE სვიჩი - USW-Pro-XG-48-PoE, Ubiquiti
+USW-Pro-XG-48-PoE
+#03948
+12974.28 ₾
 მარაგშია
 საინფორმაციო ბლოკი
 ყველას ნახვა

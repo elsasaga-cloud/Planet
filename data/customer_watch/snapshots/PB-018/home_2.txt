@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home_2 · https://techson.hu/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home_2 · https://techson.hu/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Főoldal - Techson
 0 || parent > 0"
 x-transition:enter-start="-translate-x-full xl:translate-x-0"
@@ -50,7 +50,7 @@ $refs.input.focus();
 >
 {
 if (!value) {
-window.livewire.find('4JMHVIdZqaBR7mFszOBU').call('resetSearch')
+window.livewire.find('TibsaZlS7TcFD7A5gUf6').call('resetSearch')
 }
 $dispatch('force:toggle', { toggle });
 })"

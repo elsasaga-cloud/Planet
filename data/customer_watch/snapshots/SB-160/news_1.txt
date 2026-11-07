@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -179,17 +179,17 @@ We all know the rise in copper prices has made it difficult for SME to compete w
 Read More
 TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED
 / October 4, 2021
-Views: 3,242
+Views: 3,243
 Tight-buffered cable was considered best for indoor applications whilst loose-tube cable was best for outdoor applications. Many places avoiding using them as alternatives due to their material features. Despite this,
 Read More
 AWG CONVERSION GUIDE
 / September 20, 2021
-Views: 614
+Views: 616
 American Wire Gauge or AWG is the US standard measure for the diameter of cable electrical conductors. This AWG chart is based on the number of dies originally required to
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
 / September 13, 2021
-Views: 1,922
+Views: 1,924
 The process of terminating twisted pair cable may seem simple on the surface, however, issues involving unproperly terminated solutions can arise, specially within today’s High-Performance LANs. With so many ways
 Read More
 A GUIDE TO LAN CABLE
@@ -199,17 +199,17 @@ Despite the many advancements in fibre optic cable and newer builds taking advan
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,956
+Views: 5,958
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES
 / August 23, 2021
-Views: 584
+Views: 585
 Bandwidth in cables refers to the range of frequencies used to transfer information through data cables. The broader the bandwidth, the more data can be carried respectively. The bandwidth in
 Read More
 CABLE ATTENUATION EXPLAINED
 / August 16, 2021
-Views: 1,213
+Views: 1,215
 When attenuation is used by networking professionals it refers to loss of signal strength due to [x] factors. This can be either internal or external. Below we will see what
 Read More
 WI-FI VS ETHERNET – WHICH IS FASTER?
@@ -219,7 +219,7 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,208
+Views: 15,210
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
@@ -229,12 +229,12 @@ When ordering a cable you may be tempted to consider whether or not to have it b
 Read More
 CABLE BENDING RADIUS- SHOULD I BE CONCERNED?
 / July 19, 2021
-Views: 1,992
+Views: 1,993
 You’ll often see ‘bending radius’ on our cable product datasheets and wonder what we’re referring too. The cable bending radius is a measurement of the smallest diameter a cable can
 Read More
 FIBRE OPTIC CABLE TYPES- SINGLEMODE VS MULTIMODE
 / July 12, 2021
-Views: 871
+Views: 872
 Despite single mode fibre (SMF) and multimode fibre (MMF) being used in diverse applications, the difference between single mode and multimode are still confusing. With many decisions coming into play
 Read More
 Post navigation

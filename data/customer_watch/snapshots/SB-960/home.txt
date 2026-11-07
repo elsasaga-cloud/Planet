@@ -1,4 +1,4 @@
-# SB-960 steren.com.mx · home · https://www.steren.com.mx/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-960 steren.com.mx · home · https://www.steren.com.mx/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Steren La Mejor Tienda de Electrónica en México
 La tienda no funciona correctamente con las cookies desactivadas.
 Ir al contenido Desde
@@ -24,7 +24,7 @@ Promociones 228 productos Artículos Exclusivos
 Prepárate para Navidad
 Promoción Esencial
 Audio 228 productos
-Smart Home 129 productos
+Smart Home 127 productos
 Seguridad 105 productos
 Casa y oficina 160 productos
 Movilidad (tecnología portátil) 236
@@ -260,19 +260,19 @@ $639 00 $63.90 abonado a tu SterenCard
 En stock
 Agregar al carrito Agregar
 Oferta
-Serie LED decorativa de 22 m con panel solar y batería recargable, para exterior
-SKU: MODLED-080/BCO
-4.9 (8)
-Precio anterior: $199 00
-$159 00 $15.90 abonado a tu SterenCard
-En stock
-Agregar al carrito Agregar
-Oferta
 Mini temporizador (timer) para 24 horas
 SKU: TEMP-24H/MINI
 4.8 (9)
 Precio anterior: $119 00
 $95 00 $9.50 abonado a tu SterenCard
+En stock
+Agregar al carrito Agregar
+Oferta
+Tira LED multicolor RGB de 5 m con control remoto, controlador y eliminador
+SKU: MODLED-KIT/5
+4.7 (10)
+Precio anterior: $349 00
+$279 00 $27.90 abonado a tu SterenCard
 En stock
 Agregar al carrito Agregar
 Trayectoria y experiencia en tecnología y electrónica desde 1956
@@ -289,8 +289,8 @@ Guía: ¿qué bocina necesito?
 La guía de la familia de bafles, en el propio listado: qué mirar antes de elegir.
 Leer la guía
 Pregunta, Steren responde
-"¿Es compatible con cualquier auto estéreo (pantalla) que cuenta con Carplay y Android?" — "Hola, Eduardo. Sí, este adaptador es compatible solo si tu autoestéreo ya cuenta con CarPlay o Android Auto por cable. Saludos."
-Respuesta oficial de Steren — Gisell Hernandez · 29 oct 2026 Ver Q&A del producto
+"Buen día, la pagina https://ipc-us.ismartlife.me/login, ya no me está funcionado, ¿hay alguna otra página don…" — "Hola, Alejandro. Sí, puedes visualizarlas desde https://protect-us.ismartlife.me Saludos."
+Respuesta oficial de Steren — Gisell Hernandez · 6 nov 2026 Ver Q&A del producto
 Programa de lealtad SterenCard El 10% de cada compra, de vuelta
 Compra hoy y tu SterenCard recibe el 10% en saldo para tu próxima compra — en línea y en más de 700 tiendas. Sin anualidad y sin letra chica.
 Conoce SterenCard
@@ -317,7 +317,7 @@ D.R. © 2026 Electrónica Steren, S.A. de C.V. Todos los derechos reservados.
 Menú
 Mi tienda Elige tu tienda SterenCard 10% abonado Directorio Tiendas
 OFERTAS TIENDAS Departamentos
-Energía 355 Proyectos de electrónica 327 TV y video 261 Cables 251 Computación 238 Movilidad (tecnología portátil) 236 Audio 228 Promociones 228 Herramientas 163 Casa y oficina 160 Smart Home 129 Seguridad 105 Iluminación 60 Automotriz 52 Cuenta y pedidos Tiendas (700+) Soporte · 55 1516 6000
+Energía 355 Proyectos de electrónica 327 TV y video 261 Cables 251 Computación 238 Movilidad (tecnología portátil) 236 Audio 228 Promociones 228 Herramientas 163 Casa y oficina 160 Smart Home 127 Seguridad 105 Iluminación 60 Automotriz 52 Cuenta y pedidos Tiendas (700+) Soporte · 55 1516 6000
 Elige tu tienda
 Existencias de ·
 Dinos dónde estás Cambiar

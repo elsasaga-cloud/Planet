@@ -1,4 +1,4 @@
-# SB-559 vipausa.com · home · https://vipausa.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-559 vipausa.com · home · https://vipausa.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 VIPA ControlsAmerica
 Skip to main content
 close
@@ -63,6 +63,7 @@ Virtual PLCs
 Movicon HMI/SCADA
 OPC UA
 Accessories
+IBH
 Industrial Ethernet Patch Cables
 Industrial Ethernet Switches
 Memory Cards
@@ -72,7 +73,6 @@ PROFIBUS Connectors
 PROFINET Connectors
 PROFIBUS/PROFINET Cable
 Programming Cables
-S5/S7 Interfaces
 S5 to S7 Conversion
 Troubleshooting Toolkits
 HMI
@@ -228,6 +228,15 @@ Ordercode: VIPA 000-0DN00
 1 piece
 For
 Quick view
+VIPA 290-0AA10 - Bus Connector, 1-Tier
+200V Bus Connector
+Ordercode: VIPA 290-0AA10SAP-No.: 100-220-651
+1-Tier
+Replacement For:
+Lenze EPM-T910
+$12.21
+Quick view
+add to cart
 VIPA
 VIPA 390-0AA00 - 300S / S7-300 Bus Connector
 Replacement bus connector for VIPA 300S and Siemens S7-300 systems. One is included with all new VIPA 300S I/O modules.
@@ -244,17 +253,6 @@ MMC for VIPA CPUs 11x, 21x, 24x, 31x and 51x
 MMC for 208-1DP01 and CC 03
 Downloads
 $174.00
-Quick view
-add to cart
-VIPA
-VIPA 022-1BF00 - SM 022 SLIO Digital Output Module, 8DO, 24VDC, 0.5A
-SLIO SM022 Digital Output Module
-Ordercode: VIPA 022-1BF00SAP-No.: 100-220-845
-8 Digital Outputs
-24VDC
-0.5A
-Technical Details
-$106.00
 Quick view
 add to cart
 We want to be your go-to service for industrial spare parts

@@ -1,11 +1,11 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+Sat, 07 Nov 2026 06:11:41 +0000	STS-12-A – AI-Powered Rugged Windows Tablet for Smart Warehousing	https://sundartechno.com/2026/11/07/rugged-windows-tablet-smart-warehousing-sts-12a/
+Sat, 07 Nov 2026 05:55:15 +0000	STS-IIOT68 Industrial IIoT Edge Gateway– Connect Legacy Equipment to the Smart Industrial World	https://sundartechno.com/2026/11/07/sts-iiot68-industrial-iiot-edge-gateway/
+Sat, 07 Nov 2026 05:23:37 +0000	STS 84-Key Programmable Keyboard | Industrial, POS, Kiosk and Control-Console Applications	https://sundartechno.com/2026/11/07/industrial-programmable-matrix-keyboard/
+Sat, 07 Nov 2026 04:58:52 +0000	275 TOPS INDUSTRIAL EDGE AI COMPUTER	https://sundartechno.com/2026/11/07/industrial-edge-ai-computer-jetson-agx-orin/
 Fri, 06 Nov 2026 06:17:54 +0000	Embedded Computing For Surgical Robotics	https://sundartechno.com/2026/11/06/embedded-computing-for-surgical-robotics/
 Fri, 06 Nov 2026 04:27:38 +0000	WIND TURBINE MONITORING WITH STS INDUSTRIAL PANEL PCs	https://sundartechno.com/2026/11/06/industrial-touch-panel-pc-wind-turbine-monitoring/
 Tue, 03 Nov 2026 05:57:59 +0000	SMART SHIP DIGITALIZATION – POWERED BY STS INDUSTRIAL MINI-IPC	https://sundartechno.com/2026/11/03/marine-on-board-data-gateway/
 Mon, 02 Nov 2026 09:20:47 +0000	EMBEDDED COMPUTING FOR ULTRASOUND SYSTEMS	https://sundartechno.com/2026/11/02/embedded-computing-ultrasound-systems-medical-sbc/
 Mon, 02 Nov 2026 06:22:01 +0000	COMMERCIAL AIRCRAFT MRO Rugged Laptop + USB-to-ARINC 429 Interface	https://sundartechno.com/2026/11/02/commercial-aircraft-mro-avionics-testing/
 Thu, 29 Oct 2026 11:59:25 +0000	INDUSTRIAL PROTOCOL CONVERTERS FOR FACTORY & PROCESS AUTOMATION	https://sundartechno.com/2026/10/29/industrial-protocol-converters-gateways/
-Thu, 29 Oct 2026 11:37:24 +0000	Yokogawa HART Transmitter + CENTUM DCS	https://sundartechno.com/2026/10/29/yokogawa-hart-transmitters-centum-dcs-fint-t700/
-Thu, 29 Oct 2026 11:07:47 +0000	INDUSTRIAL SILICONE KEYBOARD WITH TOUCHPAD & BLUE BACKLIGHT	https://sundartechno.com/2026/10/29/industrial-silicone-keyboard-touchpad-backlight/
-Thu, 29 Oct 2026 10:50:34 +0000	USB TO SFP FIBER CONVERTER FOR INDUSTRIAL AND MILITARY APPLICATIONS	https://sundartechno.com/2026/10/29/usb-to-sfp-fiber-converter-for-industrial-military-applications/
-Thu, 29 Oct 2026 10:28:27 +0000	AI-ASSISTED AUTONOMOUS FORKLIFTS: SMARTER MATERIAL HANDLING WITH STS FANLESS EMBEDDED COMPUTERS	https://sundartechno.com/2026/10/29/ai-powered-autonomous-forklifts-embedded-computers/

@@ -1,4 +1,4 @@
-# XC-M147 International Trade Carrier, LLC · feed_auto · https://www.internationaltradecarrier.com/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# XC-M147 International Trade Carrier, LLC · feed_auto · https://www.internationaltradecarrier.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Wed, 06 Aug 2025 23:23:03 +0000	Advantech Embedded 3.5″ Single Board Computers	https://www.internationaltradecarrier.com/advantech-embedded-single-board-computers/
 Wed, 06 Aug 2025 05:28:30 +0000	Advantech Edge Data Collectors	https://www.internationaltradecarrier.com/advantech-edge-data-collectors/
 Sun, 15 Apr 2018 17:13:48 +0000	EtherWAN – Industrial Unmanaged Ethernet Switches	https://www.internationaltradecarrier.com/etherwan-industrial-unmanaged-ethernet-switches/

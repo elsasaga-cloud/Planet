@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-07T08:57:10Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,39 +66,36 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-Delock Displayport 1.2 jakaja 2-porttia
-Displayport liitännän jakaja kahdelle näytölle.
-Adaptereiden avulla...
-95,00 €
+Delock RJ45 kaapeli USB Type-C-portinhakutoiminnolla, itsejäljittävä Cat.6A S/FTP, 3 m, oranssi
+Tätä Delockin verkkokaapelia voidaan...
+25,00 €
+BROTHER TN-328Y keltainen laserkasetti
+Yhteensopivuus:: Brother DCP-9270CDN, HL-4570CDW, HL-4570CDWT, MFC-9970CDW
+6000 sivua...
+277,00 €
+Delock Spiraaliletku silikoni 4 mm halkaisija 20 m läpinäkyvä
+Tämä Delockin läpinäkyvä spiraaliletku suojaa kaapeleita. Korkealaatuinen...
+17,00 €
+Delock Keystone Module RJ45 jack > LSA Cat.6 UTP blue
+Description This module by Delock can be used to connect twisted pair...
+5,00 €
+Ethernetkaapeli RJ45 Cat.6 UTP Ultra Slim, lyhyt liitin, sininen 3,0 m
+Tietoliikennekaapeli RJ45 Cat.6 UTP Ultra Slim, lyhyt...
+6,70 €
+Delock FPC-litteä nauhakaapeli USB Type-C ™ - VGA (DP Alt Mode) 13 cm
+Tämä Delockin kaapeli mahdollistaa VGA-näytön kytkemisen...
+13,50 €
+HDMI-kytkin, 2x2-portti, kaksisuuntainen, 4K/60 Hz, EDID, HDCP, HDR, skaalaus
+4K 2x2-portin kaksisuuntaisen HDMI-kytkimen avulla...
+64,00 €
+Coreparts HP 45W 19.5V 2.31A (4.5*3.0) laturi
+Sopii HP kannettaville tietokoneille.
+Yhteensopiva:
+Kysy toim.aika. OEM...
+24,90 €
 Epson 503XL Multipack 4-väriä
 Kuvaus: Epson 503XL Multipack - 4 pakettia - XL - musta, keltainen, sinivihreä, magenta...
 130,00 €
-Delock USB 3.2 Gen 2x2 Type-C x 2 PCIE x8 lisäkortti
-PCI Express x8 väyläinen lisäkortti joka tarjoaa kaksi USB 3.2 Gen...
-199,00 €
-Scart - 3 x RCA uros kaapeli 2m
-Scart - 3 x RCA johto jossa signaalin suunnan voi vaihtaa liittimessä olevalla kytkimellä. Liitin...
-12,90 €
-Saatavilla 0 kpl
-3M BRIGHT SCREEN -tietosuojakalvo 13.3" 16:9 kannettavalle
-Hanki vallankumouksellinen uusi yksityisyyssuojus, joka suojaa näytön...
-64,00 €
-Pöytäänkiinnitettävä tai pöydälle vapaasti asennettava tarvike- ja monitoritaso
-Tämä tilaa säästävä pöytätaso lisää säilytystilaa...
-42,90 €
-Saatavilla 5 kpl
-Delock SATA kaapeli 6 Gb/s 0,7m oikeakulma, sininen
-SATA-III 6 Gb/s yhteensopiva kaapeli. Alaspäin yhteensopiva SATA-I, SATA-II kanssa. Toinen liitäntä kulmalla.
-Väri...
-4,90 €
-Delock RJ45 Cat.6 F/UTP uros-naaras On/Off kytkimellä 1 m
-Tämä Delockin RJ45-verkkokaapeli integroidulla kytkimellä mahdollistaa...
-12,00 €
-Saatavilla 2 kpl
-Delock USB - RS-232 muunnin FTDI USB 2.0 pin header D-Sub 9-pin uros
-Delockin USB 2.0–RS-232 -muunnin laajentaa tietokonetta sisäisen...
-26,00 €
-Saatavilla 2 kpl
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

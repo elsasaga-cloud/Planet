@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -31,76 +31,76 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Brno - Řečkovice
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Blansko
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 6. 11. od 11.00 hod INVENTURA
 Bystřice nad Pernštejnem
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Čáslav
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Česká Třebová
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 13. 11. od 11.00 hod INVENTURA
 Hradec Králové
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Hustopeče
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Chotěboř
-Zavíráme za 40 minut
+Zavřeno · otevíráme v pondělí od
 Jevíčko
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Kladno
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Kroměříž
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Liberec
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Pardubice
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Praha 13 - Stodůlky
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Praha 4 - Spořilov
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Praha 9 - Horní Počernice
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Prostějov
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 13. 11. od 11.00 hod INVENTURA
 Rychnov nad Kněžnou
-Zavíráme za 40 minut
+Zavřeno · otevíráme v pondělí od
 Sokolov
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Svitavy
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Šenov u Nového Jičína
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Tišnov
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Trutnov
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Třebíč
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Uherské Hradiště
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Uherské Hradiště - Jaktáře
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Velké Meziříčí
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 13. 11. od 11.00 hod INVENTURA
 Vysoké Mýto
-Zavíráme za 40 minut
+Zavřeno · otevíráme v pondělí od
 Zábřeh
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Zastávka u Brna
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 6. 11. od 11.00 hod INVENTURA
 Zlín
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Žďár nad Sázavou
-Otevřeno do
+Zavřeno · otevíráme v pondělí od
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
@@ -550,37 +550,4 @@ Přípojnicové systémy
 Kabelové příslušenství
 Značení vodičů kabelové příslušenství
 Ostatní kabelové příslušenství
-Svazkovací spirály
-Kabelová oka
-Kabelové spojky
-Izolační pásky
-Další kategorie
-Kabelové vidlice
-Ochranné oplety
-Sady koncovek a konektorů
-Cupalové podložky a plechy
-Teplem smrštitelné trubice
-Izolační trubičky
-Kabelové dutinky
-Kabelové kolíky
-Kabelové konektory a fastony
-Kabely USB, audio a video
-Kabely CINCH
-Kabely JACK
-Kabely SCART
-Kabely USB
-Kabely a redukce HDMI
-Vybraní výrobci
-Pečlivě vybíráme výrobce, kteří splňují naše nároky na kvalitu, spolehlivost a inovace.
-O partnerství
-Měření a regulace
-Regulace
-Řídící systémy MaR
-Ekvitermní regulace
-Regulace tlaku - manostaty
-Regulace teploty - termostaty
-Regulace vlhkosti
-Čidla tlaku
-Další kategorie
-Čidla teploty
-Čidla
+Svazkovac

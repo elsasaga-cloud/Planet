@@ -1,4 +1,4 @@
-# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-1623 shopfiber.co.za · home · https://shopfiber.co.za/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Home - Southern Elements
 Search
 All Categories
@@ -139,34 +139,18 @@ Quick and seamless
 Click here
 Featured Products
 Hot
-Out of stock
-Read more
+Add to basket
 Quick View
-Cleaning , Liquids , Splicing , Splicing Consumables , Tools
-Isopropyl Spray 99% – 400ml
-R 52.84 inc VAT
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Label Cartridges , Labelling , Tools
-Label Cartridge – Brady
-R 359.38 – R 828.00 Price range: R359.38 through R828.00 inc VAT
-Buy now
-Hot
-Select options
-This product has multiple variants. The options may be chosen on the product page
-Quick View
-Fiber Adapters , Midcoupler Adapters
-Fiber Midcoupler Adapter – LC to LC Single Mode UPC Duplex
-R 6.65 – R 6.92 Price range: R6.65 through R6.92 inc VAT
+Enclosure Accessories , Enclosures
+Cable Gland – Cable 6-10mm – Hole 19mm
+R 4.63 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Fault Detection , Power Meters , Tools , Visual Fault Locators
-Power Meter & VFL (Rechargeable)
-R 783.53 inc VAT
+Active Equipment , Audio / Video , Event / Military Fiber Equipment , Media Converters
+Media Converter – 1080P HDMI to Fiber (Single Mode, SC Simplex) (Pair)
+R 1,313.88 inc VAT
 Buy now
 Hot
 Add to basket
@@ -178,16 +162,31 @@ Buy now
 Hot
 Add to basket
 Quick View
-Dead Ends , Mounting Hardware
-Dead End 3.8mm to 4.8mm
-R 23.62 inc VAT
+Splicing , Splicing Machines , Tools
+Fiber Fusion Splicer – Signal Fire – AI-5
+R 9,974.82 inc VAT
+Buy now
+Hot
+Select options
+This product has multiple variants. The options may be chosen on the product page
+Quick View
+Fault Detection , Tools , Visual Fault Locators
+VFL Visual Fault Locator
+R 193.83 – R 7,701.55 Price range: R193.83 through R7,701.55 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Fiber Patch Cables , Pigtails , Single Mode Pigtails
-Fiber Pigtail – SC APC Single Mode – 0.9mm 1.5m G657.A1
-R 9.50 inc VAT
+Cleaning , Tools , Tools / Toolkits
+Fiber Optic Cleaning Kit
+R 1,088.18 inc VAT
+Buy now
+Hot
+Add to basket
+Quick View
+Cleaning , Liquids , Splicing , Splicing Consumables , Tools
+Isopropyl Spray 99% – 400ml
+R 52.84 inc VAT
 Buy now
 Hot
 Select options
@@ -205,25 +204,27 @@ Enclosure – Wall Mount 24 Core
 R 237.03 inc VAT
 Buy now
 Hot
-Add to basket
+Select options
+This product has multiple variants. The options may be chosen on the product page
 Quick View
-Boundary boxes , Enclosures , Enclosures
-Fiber Micro Loop Joint Enclosure – 4 Core Buddy Box
-R 97.78 inc VAT
+Fiber Adapters , Midcoupler Adapters
+Fiber Midcoupler Adapter – LC to LC APC Duplex
+R 6.47 – R 6.65 Price range: R6.47 through R6.65 inc VAT
 Buy now
 Hot
 Add to basket
 Quick View
-Splicing , Strippers, Slitters & Prep Tools , Tools
-Utility Knife
-R 231.30 inc VAT
+Fault Detection , Power Meters , Tools , Visual Fault Locators
+Power Meter & VFL (Rechargeable)
+R 783.53 inc VAT
 Buy now
 Hot
-Add to basket
+Select options
+This product has multiple variants. The options may be chosen on the product page
 Quick View
-Cleaning , Splicing , Splicing Consumables , Tools , Wipes
-Fiber Optic Kimwipes (280 Wipes)
-R 65.56 inc VAT
+Label Accessories , Labelling , Tools
+Laminate Carrier & Tag 128×15
+R 104.09 – R 2,167.81 Price range: R104.09 through R2,167.81 inc VAT
 Buy now
 Bargain Bin
 Add to basket

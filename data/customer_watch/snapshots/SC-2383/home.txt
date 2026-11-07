@@ -1,11 +1,11 @@
-# SC-2383 3grouterstore.co.uk · home · https://routerstore.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-2383 3grouterstore.co.uk · home · https://routerstore.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 The Router Store | 4G & 5G Routers | Teltonika Diamond Partner
 Skip to navigation
 Skip to content Best Sellers Proroute H820 4G Router CAT4
 MIMORAD Outdoor 4G/5G MIMO Antenna
 Teltonika RUT200 Compact 4G Router
 Teltonika RUT901 Industrial 4G LTE Dual SIM Router
-RUTX50 5G Industrial Router – Teltonika UK Diamond Partner
+RUTX50 5G Industrial Router
 Proroute H685 POE Powered 4G Router
 H820 4G Router
 H685 Compact 5G Router
@@ -271,4 +271,5 @@ Key Features:
 • Full VPN suite: OpenVPN, IPsec, WireGuard, ZeroTier, DMVPN, Tailscale
 • RutOS with Modbus TCP, OPC UA, DNP3, DLMS/COSEM, MQTT
 • Teltonika RMS compatible — remote management, FOTA, RMS Connect
-• Operating temperature: -40 to +75 °C, IP30, DIN rail / 
+• Operating temperature: -40 to +75 °C, IP30, DIN rail / wall mount
+• UK plug PSU includ

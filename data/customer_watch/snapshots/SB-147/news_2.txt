@@ -1,4 +1,4 @@
-# SB-147 genieproducts.co.uk · news_2 · https://genieproducts.co.uk/case-studies/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-147 genieproducts.co.uk · news_2 · https://genieproducts.co.uk/case-studies/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Genie Case Studies - Genie Products
 Skip to content
 Solutions
@@ -61,9 +61,9 @@ Case Studies
 News
 All News
 Latest
+PHP2Shell Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)
 How Surveillance Helps Reduce Employee and Customer Theft
 What Is a PTZ Camera and When Should You Use One?
-How Many CCTV Cameras Do I Need for My Property?
 Shop
 Shop All
 CCTV

@@ -1,4 +1,4 @@
-# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Wed, 10 Sep 2025 05:13:09 +0000	פרסום במגזין NEW-TECH	https://aironix.co.il/articles/%d7%a4%d7%a8%d7%a1%d7%95%d7%9d-%d7%91%d7%9e%d7%92%d7%96%d7%99%d7%9f-new-tech/
 Sun, 18 May 2025 13:30:39 +0000	ORing & AIRONIX – Industrial Networking That Lasts	https://aironix.co.il/articles/oring-aironix-industrial-networking-that-lasts/
 Sun, 27 Apr 2025 12:22:19 +0000	Arestech’s IP66/IP69K Panel PC’s	https://aironix.co.il/articles/arestechs-ip66-ip69k-panel-pc/

@@ -1,5 +1,240 @@
-# SB-1088 tipteh.com · home · https://tipteh.com/ · fetched 2026-11-06T09:32:27Z · HTTP 503
-503 Service Unavailable
-503
-Service Unavailable
-The server is temporarily busy, try again later!
+# SB-1088 tipteh.com · home · https://tipteh.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+Tipteh - your automation partner
+Search for: Search Button
+Skip to content
+Search for: Search Button
+Toggle Navigation Products Sensors Fork Sensors
+High Precision Sensors
+Optical Sensors
+Position Sensors
+Process Sensors
+Proximity Sensors
+Special Sensors
+Machine safety AS-Interface
+Electromechanical Machine Safety Equipment
+Safety Signal Processing Equipment
+Optoelectronic Machine Safety Equipment
+Identification and logistics Bar and 2D code readers
+RFID systems
+Optical Positioners
+Machine vision Industrial cameras
+Vision Sensors
+Motor drives
+PLC controllers I/O Modules for Industrial Fieldbus
+Industrial PCs & networking Industrial Ethernet Switches
+EX Equipment EX Safety Barriers
+Other automation devices Cables
+Connectors
+Contactors
+Power Supplies
+Visual and Audible Signalling Equipment
+Switchgear Cam Switches
+Circuit Breakers
+Main Switches
+Manual Motor Starters
+Push Buttons
+Control equipment
+IoT devices
+Technologies IO-Link
+Industry 4.0
+MQTT
+OPC UA Standard for communication in industrial automation
+Stepper Motors
+Manufacturers
+Solutions Machine Vision Solutions
+Identification Solutions
+Workplace Safety
+Motion Control
+IoT Solutions
+Condition Monitoring
+Augmented Reality
+Webinars
+Company About Tipteh
+Tipteh contact
+Newsletter subscription
+General sales conditions
+Current News
+Cookies
+Career
+Privacy Policy
+EN EN
+SLO
+BiH
+SRB
+MKD
+HRV
+ALB
+Search for: Search Button
+Tipteh – English Simona Prevorčnik 2026-07-23T10:+
+AUTOMATION: Our passion, your success!
+Tipteh is a leading Distribution Sales Representative of industrial automation components, systems, and solutions.
+Let's create your competitive advantage
+For 30 years, we’ve helped 14,000+ customers outperform competitors across industries.
+Having problem? We got solution!
+Wide range of automation products and our skilled engineers will overmaster your most demanding applications.
+In Tipteh, automation is our passion and your success!
+Tipteh is a leading Distribution Sales Representative of industrial automation components, systems, and solutions. In 30 years of experience we helped more then 14.000 partners develop new competitive advantage. Our wide range of automation products and our skilled engineers will help you solve your most demanding applications.
+Be on top of industrial automation. Stay informed!
+Check out the latest news to gain experience, identify opportunities and get a competitive edge.
+Turck MARGEE Programmable Block I/O Modules
+Turck MARGEE turns compatible block I/O modules into controllers with Structured Text, Visual Studio Code, Git and web visualization.
+XDR-E DIN Rail Power Supplies MEAN WELL
+The XDR-E Series is economical power supply solution for industrial applications. Benefit from its slim design and save space inside cabinets.
+Basler 10GigE Cameras and Components for High-Speed Machine Vision
+Discover Basler ace 2 10GigE cameras with RDMA and PoE for high-speed machine vision, reduced CPU load and easier integration.
+Basler Stereo mini 3D Camera for Robotics and Logistics
+Compact Basler Stereo mini 3D camera provides reliable depth data for navigation, obstacle detection, dimensioning and warehouse automation.
+More News
+Subscribe to our newsletter!
+You will receive only quality news and webinar reminders about leading automation equipment so you can crush your competition.
+I have read and agree with terms.
+×
+Choose from a wide range of top products
+Take advantage of our wide range of products to develop your perfect-fit solution.
+Machine Vision
+Vision sensors & Systems, Deep Learning, Software, 2D/3D Laser Profilers, Industrial Cameras, …
+Identification and Logistics
+1D & 2D Barcode Readers, Verifiers, RFID, Optical Positioners, Data Transmission, …
+Sensors
+Optical, Proximity, Position, High Precision, Sensor Accessories, …
+Machine Safety
+Optoelectronic, Radar, Electromechanical, As-i, Two-hand Controls, Signal Processing, …
+IoT Devices
+AR smart glasses, Smart Sensors, Cloud Gateways, Production Controllers, IoT Networking, …
+ATEX Equipment
+EX- Sensors, Switches, Safety Equipment, Isolating Amplifiers, Signalling, Field Buses, …
+Industrial PCs & Networking
+Embedded PCs, Ethernet Switches, WIFI, Secure Remote Access, Modems, Routers, Gateways, …
+Other Automation Devices
+Industrial LED Lighting, Power Supplies, Cables, Connectors, Visual & Audible Signalling, …
+Switchgear
+Electromechanical, Wireless, Low Voltage, Command Devices, …
+Motor Drivers
+Frequency-, Servo-, Stepper-motors and Drivers, Motion Controllers, …
+PLCs and Peripherals
+PLC controllers, I/O Modules, HMI, Accessories, …
+Control Equipment
+Industrial Counters & Controllers, Control Stations, Joysticks, …
+Click here to visit our B2B store
+World-renown manufacturers that entrust Tipteh
+Develop a long-term competitive advantage with the highest quality equipment.
+Take a look at all our manufacturers
+Rely on our expertise
+We invest in lifelong learning to empower our engineers to become creative problem solvers that address even your most demanding processes.
+Solutions for industrial automation
+Follow us here as well
+Tipteh d.o.o.
+Ulica Ivana Roba 23
+1000 Ljubljana
+Slovenia
++386 (0)1 200 5150
+[email protected]
+tipteh.com/si
+Tipteh d.o.o. Beograd
+Moše Pijade 17a
+11224 Vrčin, Belgrade
+Serbia
++381 (0)11 8053 628
+[email protected]
+tipteh.com/rs
+Tipteh d.o.o. Sarajevo
+Ramiza Salčina 246
+71000 Sarajevo
+Bosnia and Hercegovina
++387 33 452 427
+[email protected]
+tipteh.com/ba
+Tipteh d.o.o. Skopje
+Bul. Partizanski оdredi 80 lok.5, 1000 Skopje
+North Macedonia
++389 2 31 74 197
+[email protected]
+tipteh.com/mk
+Tipteh Zagreb d.o.o.
+Štrokinec 7
+10000 Zagreb
+Croatia
++385 (0)1 314 1550‎
+[email protected]
+tipteh.com/hr
+Contact us
+Home
+Products
+Toggle Navigation Sensors
+Machine vision
+Identification & logistics
+PLC controllers
+Motor drives
+Industrial PCs & networking
+IoT devices
+Control equipment
+EX equipment
+Machine safety
+Switchgear
+Other automation devices
+Technologies
+Toggle Navigation Industry 4.0
+MQTT
+OPC UA Standard for communication in industrial automation
+Stepper Motors
+Solutions
+Toggle Navigation Machine Vision Solutions
+Internet of Things Solutions
+Identification Solutions
+Motion Control
+Workplace Safety
+Augmented Reality
+Pick-to-Light Solution
+Other
+Toggle Navigation Manufacturers
+Webinars
+Current News
+Newsletter
+About Tipteh
+Contact us
+Career – join the team
+General sales conditions
+Privacy Policy
+Cookies
+Page load link
+Get professional answers
+Complete the form and we will contact you shortly.
+×
+By submitting you agree with our terms .
+Pridobite odgovore strokovnjakov
+Vnesite svoje podatke in kontaktirali Vas bomo čim prej.
+Prijavljam se na Tipteh e-novice
+×
+Z oddajo se strinjate z našimi pogoji .
+Dovolite, da vam pomagamo
+Vnesite email in po želji na kratko opišite aplikacijo, ki jo želite razviti. Kontaktirali vas bomo takoj ko bo mogoče.
+×
+Z oddajo se strinjate z našimi pogoji .
+Powered by Convert Plus
+Dobijte odgovore stručnjaka
+Ispunite formular i kontaktirat ćemo Vas što prije.
+Prijavljujem se na Tipteh e-novosti
+×
+Slanjem se slažete s uvjetima .
+Powered by Convert Plus
+Dobijte odgovore stručnjaka
+Popunite formular i kontaktiraćemo Vas što prije.
+×
+Slanjem se slažete sa našim uslovima .
+Добијте бесплатна консултација
+Внесете ја вашата е-пошта и ние ќе ве контактираме што е можно поскоро.
+×
+Со поднесување се согласувате со нашите услови .
+Dobijte odgovore stručnjaka
+Popunite formular i mi ćemo Vas kontaktirati što prije.
+Prijavljujem se na Tipteh e-novosti
+×
+Slanjem se slažete sa našim uslovima .
+Merrni konsultë falas
+Shkruani emailin tuaj dhe ne do t'ju kontaktojmë sa më shpejt të jetë e mundur.
+×
+Duke dorëzuar ju jeni dakord me kushtet tona.
+Need help? Let us help you.
+Get professional answers
+By submitting you agree with the terms.
+×

@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -74,13 +74,6 @@ Blog
 Últimas da Trama
 Pesquise no blog
 Todas as categorias
-Comunicação Interna
-Branding
-Media Training
-Sem categoria
-Marketing Digital
-Storytelling
-Startups
 Bastidores da Trama
 Logística
 Marketing
@@ -131,6 +124,13 @@ Marketing de Influência
 Comunicação Corporativa
 Terceiro Setor
 Digital
+Comunicação Interna
+Branding
+Media Training
+Sem categoria
+Marketing Digital
+Storytelling
+Startups
 Prêmios Grupo Trama Reputale é finalista em duas categorias do Troféu Jatobá PR 2026
 Case desenvolvido com o Instituto Mauá de Tecnologia concorre nas categorias Análise de Dados para Estratégia de Comunicação e Assessoria de Imprensa.
 3 novembro 2026 | Trama Comunicação
@@ -168,7 +168,7 @@ Anteriores
 Próximos
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-Comments
+Company
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-URL
+Company
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

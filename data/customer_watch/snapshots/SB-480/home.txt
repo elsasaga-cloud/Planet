@@ -1,4 +1,4 @@
-# SB-480 hanyotele.com · home · https://error.blueweb.co.kr/403.html · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-480 hanyotele.com · home · https://error.blueweb.co.kr/403.html · fetched 2026-11-07T08:57:10Z · HTTP 200
 403Error 요청하신 페이지에 접근 권한이 없습니다.
 ① 요청하신 페이지에 index파일이 존재하는지 확인하시기 바랍니다.
 index.html파일을 올려주시기 바랍니다.

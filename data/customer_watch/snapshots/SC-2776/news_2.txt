@@ -1,4 +1,4 @@
-# SC-2776 karel.com.tr · news_2 · https://www.karel.com.tr/haberler · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-2776 karel.com.tr · news_2 · https://www.karel.com.tr/haberler · fetched 2026-11-07T08:57:10Z · HTTP 200
 Haberler | Karel
 Ana içeriğe atla
 İletişim Teknolojileri
@@ -250,6 +250,8 @@ EN
 Sayfa yolu
 Ana Sayfa
 Haberler
+Karel, 2026'nın İlk Dokuz Ayında Operasyonel Performansını İyileştirdi
+06 Kasım, 2026
 Karel’in Ar-Ge Gücüne Savunma Sanayii Başkanlığı’ndan Ödül
 19 Ekim, 2026
 Karel, Bütünleşik Taktik Haberleşme yaklaşımını Azerbaycan’da ilk kez ADEX 2026’da tanıtıyor
@@ -266,8 +268,6 @@ Karel’in Bağlı Ortaklığı Daiichi’den Otomotiv Elektroniğinde 100 Milyo
 30 Haziran, 2026
 Karel, Türkiye’nin en değerli 125 şirketi arasında
 18 Haziran, 2026
-Romanya Cumhurbaşkanı Dan, Karel’in Yeni Nesil İletişim Teknolojilerini İnceledi
-01 Haziran, 2026
 1
 2
 3

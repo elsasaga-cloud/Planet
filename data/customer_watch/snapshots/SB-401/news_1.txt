@@ -1,4 +1,4 @@
-# SB-401 securasound.co.uk · news_1 · https://securasound.co.uk/news · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-401 securasound.co.uk · news_1 · https://securasound.co.uk/news · fetched 2026-11-07T08:57:10Z · HTTP 200
 Securasound Limited
 Access Control
 CCTV Systems
@@ -77,8 +77,8 @@ E-Plex 2000
 E-Plex 5000
 File Guard
 Kaba Simplex 7100 Series Mechanical Digital Door Locks
-L1000 Series
 L1000 Series Spares
+L1000 Series
 Light Duty Push Button Locks
 Lock Repairs
 Lubrication
@@ -89,16 +89,16 @@ Fike
 Home Security
 Beam Kits
 Intercoms
-Audio
 Audio Spares
+Audio
 Counter Intercoms
 ERA Wireless Intercoms
 Room to Room Intercoms
 Telephone - GSM
-Video
 Video Spares
-Wireless
+Video
 Wireless - WIFI Intercoms
+Wireless
 Intruder Alarms
 Accessories
 Bell Boxes/Sounders

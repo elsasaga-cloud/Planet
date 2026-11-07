@@ -1,4 +1,4 @@
-# SB-180 FOLINE · sitemap · https://foline.com.tr/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-180 FOLINE · sitemap · https://foline.com.tr/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 	https://foline.com.tr/
 	https://foline.com.tr//belgelerimiz
 	https://foline.com.tr//sss

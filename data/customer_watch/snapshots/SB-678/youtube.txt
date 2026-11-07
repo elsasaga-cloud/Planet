@@ -1,4 +1,5 @@
-# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-11-07T08:57:10Z · HTTP 200
+2026-11-07T06:30:18+00:00	A session log should answer the questions that matter.	https://www.youtube.com/shorts/xIt0E_t0aro
 2026-11-04T07:30:15+00:00	A campus network is tested when everyone comes online at once.	https://www.youtube.com/shorts/_9a2MtyPG8E
 2026-11-02T11:53:05+00:00	What if your network could tell you everything that happened?	https://www.youtube.com/watch?v=LLBIsFPsSdw
 2026-10-27T10:14:58+00:00	24 hours. Different demands. One network keeping everything connected.	https://www.youtube.com/watch?v=3Hzr9mAEfE8
@@ -13,4 +14,3 @@
 2026-08-27T13:17:39+00:00	Temporary access shouldn’t turn permanent.	https://www.youtube.com/shorts/oR_Zxw15vb8
 2026-06-18T13:34:25+00:00	Unknown Devices on Your Network? Here's What You're Missing	https://www.youtube.com/shorts/mip5FuGkKIE
 2026-06-12T13:23:52+00:00	How Quantum Rudder Helps CISOs Stay Ahead of Threats	https://www.youtube.com/shorts/J_zwHXWDEJU
-2026-06-12T13:16:21+00:00	Who’s Really Connected to Your Network? | Total Access Control with QAM & QSMP	https://www.youtube.com/shorts/_x_xKd7eu1E

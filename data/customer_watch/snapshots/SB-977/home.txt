@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Eltrox.cz | Zabezpečovací systémy a chytrá domácnost
 Cookie consent
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
@@ -107,7 +107,7 @@ Detektory ,
 Zvukové signalizace, indikátory ,
 Zařízení na dálkové ovládání
 Sady
-Automatizace domácnosti Videovrátné, domovní telefony a přístupové systémy
+Automatizace domácnosti Videotelefony, domovní telefony a přístupové systémy
 Sestavy videotelefonů ,
 Monitory pro videotelefony ,
 Venkovní panely pro videotelefony ,
@@ -264,7 +264,7 @@ Připojovací kabely ,
 Adaptéry pro notebooky ,
 Mikrofony ,
 Webkamery ,
-USB hubes ,
+USB huby ,
 Paměti RAM ,
 Tašky a batohy
 Pracovní nástroje
@@ -344,131 +344,188 @@ Měřiče tloušťky laku ,
 Nářadí do dílny ,
 Endoskopické kamery ,
 Elektrická dmychadla
-Novinky Sieťové zariadenia Opakovače
-Audio/video stolové monitory
-Počítačový hardvér Iné
-Audio/video Priemyselné monitory
-Audio/video Reproduktory
-Pre Domov Iné
-Uzavretý televízny okruh Iné
-Napájanie batérií AGM
-Elektrické príslušenstvo Iné
-Sieťové zariadenia Smerovače LTE
-Uzavretý televízny okruh Držiaky/adaptéry na kamery
-Senzor automatizácie budov Magnetický senzor
-Brána a parkovacia automatika Kľučky a závesy
-Kabeláž Ethernet Cat.5
-Zásuvky, zástrčky, montážne príslušenstvo zástrčky
-IP kamery pre uzavretý televízny okruh
-Hardvérové pevné disky
-Pre vás Kamery do auta
-Automatizácia brány a parkovania Vozíky
-Automatizácia brán a parkovísk Zarážky a nárazníky
-Detektory automatizácie budov Detektory pohybu
-Elektrické príslušenstvo Nadprúdové ističe Nadprúdové ističe AC
-Automatizácia brán a parkovísk Zámky a kľučky
-Hardvérové kryty diskových jednotiek
-Pre vás Iné
-Vetranie a vykurovanie Klimatizácia Iné chemické prípravky
-Automatizácia budov Central
-Kabeláž Ethernet Cat.6
-Automatizácia budovy Ovládač Osvetlenie
-Sieťové zariadenia Spravované prepínače
-Uzavretý televízny okruh Kamery 4v1
-Uzavreté televízne okruhy IP DVR
-Napájanie nabíjačky
-Pre domáce bezdrôtové zvončeky
-Sieťové zariadenia Iné
-Vložky SFP pre sieťové zariadenia
-Sieťové zariadenia Nespravované prepínače
-Napájacie zdroje Zapustené napájacie zdroje
-Sieťové zariadenia Antény
-Interkomové a videointerkomové systémy Montážne prvky Rámy
-Počítačový hardvér Počítačové reproduktory
-POPLAŠNÝ SYSTÉM DETEKTOR POHYBU
-Zásuvky pre automatizáciu budov
-Sieťové zariadenia Konvertory médií
-Hardvérové atramentové tlačiarne
-Počítačový hardvér Tlačiarne štítkov
-Hardvér Počítače
-Automatizácia budov Aktuátor Iné
-Interkomové a videointerkomové systémy Videointerkomové súpravy
-Interkomové a videointerkomové systémy Prijímače Monitory
-Interkomové a videointerkomové systémy Dverové vstupné systémy Videointerkomové panely
-IR osvetľovače pre uzavretý televízny okruh
-Automatizácia budov Termostaty
-Hardvérové klávesnice
-Hardvér Pamäťové karty
-Sieťové zariadenia Smerovače DSL
-Kontrola prístupu a licencie RCP
-Napájanie Meniče napätia
-Sieťové zariadenia Prístupové body
-RTV anténne úchyty
-Rackové skrine a skrinky Iné
-Produkt, ktorý nie je v ponuke
-Hardvérové servery NAS
-Napájanie Stabilizátor napätia
-Audio/video DLP projektory
-Hardvér stolových počítačov
-Hardvér Prenosné počítače / notebooky
-Interkomové a videovrátniky Dverové panely Moduly
-Uzavretý televízny okruh Rekordéry Rekordéry 5v1
-Napájanie Agregáty
-Vnútorné zapojenie prúdu
-Hardvérové slúchadlá
-Elektrické príslušenstvo Rozvádzače
-Kontrola prístupu a elektrické otvárače dverí RCP
-Pre domáce lampy
-Rozšírenia / konvertory RTV
-Stolné napájacie zdroje
-Napájanie Stolné napájacie lišty
-Kabeláž Iné
-Priemyselná televízia Kamery IP kamery
-Automatizácia budov Ovládacie zariadenie Ovládač roliet
-Hardvérové 3D tlačiarne
-Pre vás Drones
-Inteligentné hodinky pre vás
-Napájanie Iné
-Hardvérové myši
-Hardvérové servery
-Hdmi kabeláž
-Kabeláž Usb/Lightning
-Audio/video Iné
-Zásuvky, zástrčky, montážne príslušenstvo Ostatné
-Poplachové systémy Detektory PIR
-Poplachové systémy PIR detektory + mikrovlnná rúra
-Poplachové systémy Infračervené bariéry
-Detektory automatizácie budov Ostatné detektory
-Dverové vstupné systémy a videovstupné systémy Dverové vstupné panely
-Poplachové systémy Magnetické poplachové detektory (jazýčkové spínače)
-Hodinky For You
-Zásuvky, zástrčky, montážne príslušenstvo Sieťové zásuvky
-Pre domáce čističky
-Napájacie meniče UPS
-Powerbanky pre vás
-Elektrické príslušenstvo Zvodiče prepätia Zvodiče prepätia AC
-Elektrické príslušenstvo Zariadenia na zvyškový prúd
-Uzavretý televízny okruh Zvodiče prepätia LAN
-Kontrola prístupu a kľučky T&A
-Senzor automatizácie budovy Senzor zaplavenia
-Automatizácia budov Iné
-Pre vás Baterky
-Externá koaxiálna kabeláž
-OSTATNÉ ELEKTRICKÉ PRÍSLUŠENSTVO
-Senzor automatizácie budovy Iné
-Sieťové zariadenia ADSL smerovače
-Elektrické príslušenstvo Zásuvky
-Automatizácia budov Dotknite sa a inteligentný panel
-Pozemné antény
-Senzory automatizácie budov Senzory teploty
-Pre vás Lesné kamery
-Ovládanie prístupu a kľučka dverí RCP
-Nástroje Krimpovacie stroje
-Sieťové zariadenia Rádiové karty PCI
-Pre domáce infračervené ohrievače
-Pre domáce fritézy
-Napájanie UPS
-Napájanie z batérie
-Zásuvky, zástrčky, montážne príslušenstvo Elektrické krabice na povrchovú montáž
-Relé pre automatizáciu budov
-Výkonné zariadenie automatizácie budov Binárn
+Novinky Propojovací USB kabely a adaptéry.
+Video transformátory.
+Příslušenství pro datové rozvaděče, serverové skříně.
+Stojanové datové rozvaděče.
+Převodníky a rozbočovače RS-485 –
+Svorkovnice.
+Instalační trubky a chráničky.
+Příslušenství ke kamerám.
+Napájecí zdroje.
+Zásuvky.
+Bleskosvody a uzemnění –
+Technické rozvaděče a speciální racky.
+DC/DC měniče napětí –
+Inteligentní vytápění.
+Elektromagnetické zámky.
+Svodiče přepětí, chrániče.
+Příslušenství ke dronům.
+Video oddělovače.
+LCD monitory.
+Analogové záznamníky.
+Rozdělovače napájení.
+Herní příslušenství –
+Instalační krabice.
+Audio systémy.
+Mikrofony.
+Příslušenství pro mobily a tablety.
+Příslušenství pro domácí interkomy.
+Příslušenství pro instalaci. ,
+Napájecí zdroje.
+Příslušenství pro videotelefony.
+Venkovní panely pro interkomy.
+Jednotlivé telefony pro domácí interkomy.
+Počítače.
+PCI karty.
+Síťové karty USB a PCI.
+Držáky a adaptéry.
+Ostatní příslušenství.
+Fotovoltaické montážní konstrukce –
+Síťové optické kabely a moduly SFP.
+Adaptéry. ,
+Patchcordy.
+Příslušenství osvětlení.
+PoE napájení, adaptéry.
+Příslušenství pro kamery do auta –
+Řídicí jednotky přístupu.
+Příslušenství garážových vrat.
+Převodníky a extendery HDMI.
+USB huby.
+Audio a video příslušenství.
+Příslušenství pro rozvaděče.
+Antény.
+Síťové mosty –
+Příslušenství pro síťová zařízení –
+TV a anténní zesilovače.
+Přístupové body, opakovače.
+Elektronické kódové zámky, klávesnice.
+Mechanické zámky a dveřní kování –
+Senzory.
+Inteligentní zásuvky.
+Inteligentní ovladače.
+Klimatizace.
+Příslušenství. ,
+Nástroje.
+Fotografické osvětlení a stativy –
+Moduly, expandéry.
+Stahovací pásky.
+Kabely, HDMI kabely.
+Kamery do auta.
+Satelitní antény.
+Zdraví, wellness a příslušenství.
+Držáky na telefon do auta.
+Nabíječky do auta.
+Bezdotykové čtečky EM 125kHz.
+Autodoplňky.
+Chladiče SSD a teplovodivé pasty –
+Externí boxy a pouzdra k pevným diskům.
+Pojistky a držáky pojistek.
+Sport.
+Čisticí přípravky na elektroniku –
+Špionážní příslušenství.
+Bezdrátové nabíječky.
+Prezentéry –
+Testery, měřiče.
+Příslušenství, prodlužovací kabely, lišty.
+Objektivy pro kamery –
+Chladiče procesorů –
+Příslušenství pro závory –
+Tlačítka pro odchod z domu.
+Klávesnice.
+Hodiny a meteorologické stanice –
+Počítačové myši.
+Sluchátka.
+Tlačítka.
+Detektory kouře.
+Senzory PIR.
+Bezdrátové HDMI.
+Videozvončeky.
+Bezdrátové domovní zvonky.
+13,56MHz bezdotykové čtečky.
+Bezdotykové transpondéry.
+Keystony.
+Bezpečnostní pomůcky pro děti –
+Napájecí zdroje a transformátory.
+Ostatní příslušenství křídlové brány.
+Značkovače a popisovače –
+Relé a časová relé.
+Kabely reproduktorů.
+Elektrické kabely, příslušenství.
+Wattmetry, měřiče spotřeby energie.
+Multimediální přehrávače.
+Venkovní panely pro videotelefony.
+Náplně a barvy do tiskáren.
+Herní konzole.
+Vyrovnávací napájecí zdroje.
+Dálkové ovladače.
+Výstražná světla pro pohony bran.
+Centrála.
+Dětské vybavení –
+Switche.
+Koaxiální kabely.
+Páječky a pájecí příslušenství –
+Izolační a montážní pásky –
+Hračky.
+Časovače a spínače.
+Příslušenství a držáky.
+UHF čtečky –
+Ethernetové a koaxiální převodníky –
+Bezdrátový přenos videosignálu –
+Video dekodéry –
+Detektory kovů –
+Příslušenství pro sportovní kamery –
+Diferenciální jističe (RCBO).
+Digitální mikroskopy –
+Drátové interkomy.
+Ruční nářadí.
+Odvlhčovače vzduchu –
+Routery.
+Domácí interkomové systémy.
+Vypínače, stmívače.
+Teplotní čidla.
+Ohřívače.
+Příslušenství pro montáž.
+Držáky na TV.
+Ostatní příslušenství posuvné brány.
+Analogove kamery.
+Vzduchové ústředny, digitální, klávesnice.
+Vnější detektory pohybu.
+Média pro vypalování.
+Digitální a elektronická kukátka na dveře.
+Sestavy videotelefonů.
+Příslušenství pro zásuvky a vypínače.
+Fotovoltaické konektory –
+Svítidla.
+TV rozbočovače a slučovače.
+Elektrické rozvaděče.
+Montážní kotvy a upevňovací prvky –
+Interkomy a elektrické stávky.
+Příslušenství pro instalaci.
+Elektronické otevírání dveří.
+Projekční plátna.
+Visací zámky.
+DVB-T2 antény.
+Monitory pro videotelefony.
+Přepěťové ochrany.
+PoE Switche.
+Solární kamery.
+Koaxiální kabely a konektory.
+Propojovací lišty.
+Osobní alarmy –
+Filtre pre čističky a zvhlčovače vzduchu.
+Potřeby pro zvířata.
+VPN směrovače.
+Fotopasti.
+Bezpečnostní zamlžovací systémy –
+Síťové kabely.
+Mediální konvertory.
+Video grabbery –
+Grafické karty –
+Kuchyňské spotřebiče a vybavení.
+Modulární odpojovače a odpínače.
+Proudové chrániče.
+Systémy pro záznam času a řízení přístupu.
+UPS 3-fázové.
+Magnetické, jazýčkové senzory.
+Kempování a o

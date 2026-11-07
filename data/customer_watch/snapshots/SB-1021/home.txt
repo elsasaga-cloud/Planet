@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,9 +40,9 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2738)
-Wszystkie 2738
-Switche 1016
+Urządzenia (2739)
+Wszystkie 2739
+Switche 1017
 Access Pointy 187
 Routery WiFi 391
 Routery zaawansowane 108
@@ -61,10 +61,10 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5080)
-Wszystkie 5080
+Światłowody (5081)
+Wszystkie 5081
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
-Kable światłowodowe 1024
+Kable światłowodowe 1025
 Patchcordy światłowodowe 1330
 Pigtaile światłowodowe 118
 Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 361
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2268)
-Wszystkie 2268
+Zasilanie (2271)
+Wszystkie 2271
 Zasilacze UPS 372
 Zasilacze PoE 89
 Zasilacze buforowe 227
-Zasilacze impulsowe 531
+Zasilacze impulsowe 534
 Adaptery POE 53
 Akumulatory 106
 Przetwornice napięcia 158
@@ -279,29 +279,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Pulsar P-POE1 – zestaw adapterów PoE RJ45 i 5,5/2,1 mm
-7.5 zł netto
+MikroTik netPower Lite 8P – przełącznik PoE z funkcją UPS
+640.7 zł netto
 Do koszyka
-SONOFF SNZB-02LD – czujnik temperatury Zigbee z sondą i wyświetlaczem LCD
-64.96 zł netto
+Kamera IP Hikvision DS-2CD2H43G2-LIZS2U(2.8-12mm) 4 MP z motozoomem
+1191.9 zł netto
 Do koszyka
-SONOFF Dongle Plus MG24 – adapter USB Zigbee i Thread
-121.25 zł netto
+Kamera IP Hikvision DS-2CD2H123G2-LIZS2UY/S(L)(RB) 12 MP, motozoom 2,8–12 mm
+1653.44 zł netto
 Do koszyka
-Patchcord CAT 5e U/UTP 0,25 m, 2 × RJ45 kątowy
-5.5 zł netto
+Kamera kopułkowa IP Hikvision DS-2CD2763G2-LIZS2U(2.8-12mm) 6 MP
+984.32 zł netto
 Do koszyka
-Uchwyt odciągowy do kabli okrągłych 3–8 mm Sdünnger PA-3800
-8.77 zł netto
+Hikvision DS-2CD2743G2-LIZS2U 2.8-12mm PL#PL – kamera kopułkowa IP 4 MP
+1302.98 zł netto
 Do koszyka
-Mean Well HLG-320H-24B zasilacz LED 24 V 320 W z funkcją ściemniania
-385.34 zł netto
+MEAN WELL HLG-320H-54A – zasilacz LED 54 V 321,3 W
+343.85 zł netto
 Do koszyka
-Mean Well HLG-320H-24A zasilacz LED 24 V 320 W IP65
-348.59 zł netto
+Kamera kopułkowa IP Hikvision DS-2CD27123G2-LIZS2UY(2.8-12mm) 12 MP
+1792 zł netto
 Do koszyka
-Uchwyt odciągowy do kabli 3–7 mm Sdünnger PA-3700 V3
-9.65 zł netto
+Kamera kopułkowa IP Hikvision DS-2CD27123G2-LIZS2UY(2.8-12mm)OSTDBLACK 12 MP
+1994.11 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

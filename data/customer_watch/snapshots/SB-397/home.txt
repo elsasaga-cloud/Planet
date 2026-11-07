@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -523,9 +523,10 @@ Email
 Vi ste ovde:
 Početna
 Netiks
+Radno vreme za Dan primirja
+Poštovani partneri,
+Obaveštavamo vas da zbog državnog praznika, Dana primirja u Prvom svetskom ratu Netiks neće raditi u sredu, 11. novembra 2026.
+Prvi radni dan je četvrtak 12. novembar 2026.
 MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad na 60GHz + 5GHz do 2.4km
 Skrećemo pažnju na MikroTik Cube 60Pro uređaje koji omogućavaju ultra brze veze na 60GHz uz automatski 5GHz backup tako da u praksi dobijate Gigabit brzine i nivo pouzdanosti kao da ste postavili fiber optičke kablove ('Wireless Wire'). Uređaji rade u skladu sa 802.11ay/ad 60GHz i 802.11ac 5GHz standardima, malih su dimenzija, neupadljivi, uz vrhunski praktičnu i robusnu izradu (npr. radna temperatura -40º do +70ºC).
-Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više nego povoljne !
-Ovde možete pogledati detaljnu dokumentaciju, a ovde video sa srpskim prevodom (uključite cc). - https://www.youtube.com/watch?v=IRf0TRVwXG0
-TP-Link Omada cloud biznis mrežna rešenja
-TP-Link već dugo može da
+Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više ne

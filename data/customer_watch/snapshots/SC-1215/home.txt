@@ -1,4 +1,4 @@
-# SC-1215 router.lv · home · https://router.lv/products.php · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-1215 router.lv · home · https://router.lv/products.php · fetched 2026-11-07T08:57:10Z · HTTP 200
 www.router.lv - Mikrotik Distributor
 lietuviškai
 latviski
@@ -54,7 +54,7 @@ Additional information
 Price:
 € 66.55
 + VAT
-In stock 14
+In stock 13
 (RB924i-2nD-BT5&BG77) KNOT with RouterOS L4 license
 The newest addition to the MikroTik IoT product family – KNOT – is a truly universal device with exceptional connectivity options and protocol support. It is an IoT Gateway that uses Narrow Band and CAT-M technology. Because of the low cost, low bandwidth cellular connection, it is supported by countless mobile operators around the globe.
 KNOT can monitor onboard GPIOs, convert Modbus protocol to TCP, and even forward Bluetooth packets to TCP/IP network via HTTPS and MQTT.

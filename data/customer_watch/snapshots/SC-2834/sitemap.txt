@@ -1,4 +1,4 @@
-# SC-2834 Dipol · sitemap · https://www.dipol.com.pl/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-2834 Dipol · sitemap · https://www.dipol.com.pl/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8w_lux_dvb-t-t2_ze_wzmacniaczem_lna177-5g_i_filtrem_lte_5g_A0024.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8_dvb-t-t2_z_symetryzatorem_A0028.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8w_dvb-t-t2_ze_wzmacniaczem_lna169-5g_i_filtrem_lte_5g_A0029.htm

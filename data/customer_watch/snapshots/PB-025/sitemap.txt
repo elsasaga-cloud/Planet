@@ -1,4 +1,4 @@
-# PB-025 Microdata Finland Oy · sitemap · https://microdata.fi/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# PB-025 Microdata Finland Oy · sitemap · https://microdata.fi/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 2026-09-04	https://www.microdata.fi/verkkokauppa
 2026-09-01	https://www.microdata.fi/tuki
 2026-09-24	https://www.microdata.fi/korjaustoiminta

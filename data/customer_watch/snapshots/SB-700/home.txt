@@ -1,4 +1,4 @@
-# SB-700 cctvcamara.pt · home · https://cctvcamara.pt/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-700 cctvcamara.pt · home · https://cctvcamara.pt/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Homepage - CCTVCÂMARA
 Skip to content
 INÍCIO
@@ -19,15 +19,15 @@ Os Nossos Produtos
 Câmaras IP Profissionais
 NVRs Profissionais
 RACKS
-AJAX ALARME
-Networking Wireless/Switch
+Alarme hikvision
+Networking
 Placa de sinalização
 Acessórios de Fibra Óptica
 Monitores
 Discos rígidos de vigilância
-Switch PoE
+Poe Switch
 Caixa de conexões
-Video-porteiros
+Videoporteiros IP/WiFi
 Bobina de cabo de rede
 Cabos de Ligação
 Ficha RJ45
@@ -41,8 +41,8 @@ Productos
 Câmaras IPC Profissionais
 Discos rígidos de vigilância
 NVRs Profissionais
-Switch PoE
-Videoporteiros
+PoE Switch
+Videoporteiros IP/WiFi
 Serviços
 Revenda
 Tools Download

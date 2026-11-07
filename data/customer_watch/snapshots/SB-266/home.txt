@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,49 +41,51 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Ubiquiti UniFi Premium Etherlighting patch kabel, 15cm, Cat6A, bílý, 50 pack
-3 Kč bez DPH
-3 Kč s DPH
-MEAN WELL XDR-150E-12 Průmyslový zdroj na DIN lištu, 132W, 12V
-610 Kč bez DPH
-738 Kč s DPH
-Triton sada držáků na středovou vertikálu pro instalaci 19" zařízení, 2 pack
-116 Kč bez DPH
-140 Kč s DPH
-QuWireless Anténa QuSpot pro Teltonika RUT360/RUT361
-3 374 Kč bez DPH
-4 083 Kč s DPH
-Triton 19" stojanový rack 45U/600x1000 prosklené dveře, šedý
-15 370 Kč bez DPH
-18 598 Kč s DPH
-Kingston Micro SDXC Canvas Select Plus Gen3 512GB + SD adaptér
-1 869 Kč bez DPH
-2 262 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,2m, Cat5e, bílý, 10 pack
-487 Kč bez DPH
-589 Kč s DPH
-MEAN WELL XDR-150E-24 Průmyslový zdroj na DIN lištu, 156W, 24V
-597 Kč bez DPH
-722 Kč s DPH
-Conexpro sada 4 plastových vyvazovacích háčků do racku pro kabely 37 x 39mm, černý
-69 Kč bez DPH
-83 Kč s DPH
-Teltonika Security BF1, Bezdrátový detektor zaplavení vodou
-956 Kč bez DPH
-1 157 Kč s DPH
-Ubiquiti UniFi Premium Etherlighting patch kabel, 30cm, Cat6A, bílý, 10 pack
-5 Kč bez DPH
-6 Kč s DPH
-Triton 19" stojanový rack 18U/600x800 prosklené dveře, šedý
-8 567 Kč bez DPH
-10 366 Kč s DPH
-Hikvision IP turret hybrid kamera DS-2CD2383G2-LI2U(2.8mm)(BLACK), 8Mpx, 2.8mm, AcuSense, Černá
-Triton plně výsuvná police 1U/550mm, 19", nosnost 45kg, šedá
-1 683 Kč bez DPH
-2 036 Kč s DPH
-Ubiquiti UniFi Long Range Switch 8 PoE
-6 075 Kč bez DPH
-7 351 Kč s DPH
+Triton ventilační jednotka s termostatem RAB-CH-X05-X3, 230V/90W, 6 ventilátorů, černá
+5 051 Kč bez DPH
+6 112 Kč s DPH
+MERCUSYS MR78X Wi-Fi 6 Router
+814 Kč bez DPH
+985 Kč s DPH
+Triton vertikální vyvazovací panel RAB-VP-H45-X1, 45U - hřeben, černý
+2 821 Kč bez DPH
+3 413 Kč s DPH
+Triton zámek s klikou pro stojanové rozvaděče, X1
+300 Kč bez DPH
+363 Kč s DPH
+Triton 19" stojanový rack 15U/600x600 prosklené dveře, šedý
+7 291 Kč bez DPH
+8 822 Kč s DPH
+Teltonika Mobilní/GPS combo MIMO střešní anténa, 1.2m
+586 Kč bez DPH
+709 Kč s DPH
+VAMI VMBF-51314 baterie, 16.08 kWh, LV
+37 893 Kč bez DPH
+45 850 Kč s DPH
+MEAN WELL XDR-120E-12 Průmyslový zdroj na DIN lištu, 120W, 12V
+578 Kč bez DPH
+699 Kč s DPH
+MikroTik CLAIRÉ Lite Multifunkční senzor kvality ovzduší, šedá
+1 455 Kč bez DPH
+1 760 Kč s DPH
+MEAN WELL DDR-60L-5 Step-down měnič napětí DC/DC, 60W
+1 055 Kč bez DPH
+1 276 Kč s DPH
+Ubiquiti AI Multi Sensor 2, Panoramatická UniFi Protect IP kamera, 16Mpx, bílá
+15 918 Kč bez DPH
+19 261 Kč s DPH
+SanDisk Micro SDXC Extreme GO 128GB
+1 022 Kč bez DPH
+1 237 Kč s DPH
+Triton 19" stojanový rack 22U/600x800 prosklené dveře, šedý
+9 213 Kč bez DPH
+11 148 Kč s DPH
+MEAN WELL MDR-60-5 Spínaný zdroj na DIN lištu 50W 5V
+473 Kč bez DPH
+572 Kč s DPH
+Ubiquiti UniFi UPS 2U Pro, Rackmount, 2200VA
+17 098 Kč bez DPH
+20 689 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

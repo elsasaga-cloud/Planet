@@ -1,4 +1,4 @@
-# SB-1056 mikrodev.com · home · https://www.mikrodev.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-1056 mikrodev.com · home · https://www.mikrodev.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Mikrodev
 Company
 About
@@ -42,7 +42,7 @@ EN
 TR
 Products
 Industrial Automation And Communication
-Distrubuted Control System (DCS), Programmable Logic Controller (PLC), IoT Protocol Gateway, Operator Control & Monitoring Sytem (SCADA), I/O Module
+Distributed Control System (DCS), Programmable Logic Controller (PLC), IoT Protocol Gateway, Operator Control & Monitoring System (SCADA), I/O Module
 > FOR MORE DETAILS
 Products
 Distributed Control System (DCS)
@@ -61,8 +61,8 @@ Operator Control & Monitoring System
 View PLUS SCADA
 > FOR MORE DETAILS
 About Mikrodev
-We are manufacturing industrial control & communication products since 2006.
-Mikrodev has been founded in 2006 in İstanbul, Türkiye. After completing turnkey product or system development projects, Mikrodev has started commercial production activities in 2011. Mikrodev has been focused for making a difference and becoming a leading company in industrial automation field with its strong technical infrastructure, innovative view, flexible solutions and customer based approach.
+We have been manufacturing industrial control & communication products since 2006.
+Mikrodev was founded in 2006 in İstanbul, Türkiye. After completing turnkey product and system development projects, Mikrodev started commercial production in 2011. With its strong technical infrastructure, innovative perspective, flexible solutions and customer-oriented approach, Mikrodev focuses on making a difference and becoming a leading company in industrial automation.
 > GET TO KNOW US
 Products
 How We Do, What We Do
@@ -77,7 +77,7 @@ Integrated TCP Communication Ports
 1 or 2 Ports Ethernet, Multi-connection
 Serial Communication Ports
 2 Ports (2 RS485) or 3 Ports (1 RS232, 2 RS485)
-Integratad SD Card
+Integrated SD Card
 Micro SD Support
 Telemetry Protocol Support
 MODBUS, MQTT, IEC 62056-21, DLMS/COSEM, DNP3, IEC 60870-5-101/103/104, IEC 61850, DALI, REST API
@@ -145,7 +145,7 @@ Integrated I/O
 16 DI, 8 DO, 4 Relay, 4 AI, 2 AO (Optional Board Type), Expansion Up to 1024 I/O
 Communication Protocol Support
 MODBUS, MQTT
-Integratad SD Card
+Integrated SD Card
 Micro SD Support (Optional)
 Special GSM Functions Support
 SMS Sending/Receiving, DTMF Calling
@@ -288,4 +288,4 @@ To ensure the legal and commercial security of the Website, you and the Authorit
 To fulfill its legal and contractual obligations, especially those arising from the Law No. 5651 on the Regulation of Publications on the Internet and the Fight Against Crimes Committed Through These Publications and the Regulation on the Procedures and Principles for the Regulation of Publications on the Internet.
 3. TYPES OF COOKIES USED ON OUR WEBSITE
 3.1. Session Cookies
-Session cookies ensure that the website functions properly during your visit. They are used for purposes such as ensuring the security and continuity of our sites and you during your visit. Session coo
+Session cookies ensure that the website functions properly during your visit. They are used for purposes such as ensuring the security and continuity of our sites and you during your visit. Session cookies are temporar

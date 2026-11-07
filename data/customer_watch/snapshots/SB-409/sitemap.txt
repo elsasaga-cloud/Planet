@@ -1,7 +1,7 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
-2026-10-05T00:13:47+00:00	https://www.xlrsecurity.com/
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+2026-11-06T17:24:10+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
-2026-11-04T18:30:37+00:00	https://www.xlrsecurity.com/hdd-calculator/
+2026-11-06T21:26:00+00:00	https://www.xlrsecurity.com/hdd-calculator/
 2026-10-26T19:32:48+00:00	https://www.xlrsecurity.com/lens-preview/
 2026-08-17T17:53:39+00:00	https://www.xlrsecurity.com/tutorials/
 2026-08-13T13:36:22+00:00	https://www.xlrsecurity.com/brands/lysora-technology/
@@ -47,7 +47,7 @@
 2026-09-24T14:39:39+00:00	https://www.xlrsecurity.com/tutorials/lysora/how-to-set-up-a-lysora-router-step-by-step-guide/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-up06-c-in/
 2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/xvr302-16q4/
-2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/xvr302-32q4/
+2026-11-06T21:25:18+00:00	https://www.xlrsecurity.com/product/xvr302-32q4/
 2026-10-05T16:20:04+00:00	https://www.xlrsecurity.com/product/ipc3524sr-adf28km-wp-bk/
 2026-10-05T16:20:04+00:00	https://www.xlrsecurity.com/product/ipc2b14se-adzkmc-wp-i1/
 2026-10-07T18:28:38+00:00	https://www.xlrsecurity.com/product/ipc3234sb-adzkm-dl-i1/
@@ -137,7 +137,7 @@
 2026-09-30T14:48:15+00:00	https://www.xlrsecurity.com/product/tic7626el-gaf75-4x56-vh1/
 2026-10-05T16:20:01+00:00	https://www.xlrsecurity.com/product/ipc2b18se-adzkmc-wp-i1/
 2026-09-05T20:07:59+00:00	https://www.xlrsecurity.com/product/ipc3638se-adzkmc-wp-i1/
-2026-10-11T07:26:01+00:00	https://www.xlrsecurity.com/product/pkc2641z80-ir-p/
+2026-11-05T22:25:30+00:00	https://www.xlrsecurity.com/product/pkc2641z80-ir-p/
 2026-10-24T02:33:24+00:00	https://www.xlrsecurity.com/product/ipc6324lwh-ax5c-vg2/
 2026-10-05T16:20:00+00:00	https://www.xlrsecurity.com/product/ipc325ss-adf28k-i1-bk/
 2026-10-05T15:23:33+00:00	https://www.xlrsecurity.com/product/ipc324sr-adf40km-h-bk/

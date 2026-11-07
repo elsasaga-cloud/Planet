@@ -1,4 +1,6 @@
-# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-07T08:57:10Z · HTTP 200
+2026-11-06T15:00:17+00:00	The technology behind McLaren performance with Oscar Piastri | McLaren Mastercard F1 Team x Intel	https://www.youtube.com/watch?v=HVg1rNAV99w
+2026-11-06T15:00:15+00:00	The Part of Formula 1 You Don't See | Oscar Piastri	https://www.youtube.com/shorts/v1J2MP5SsLk
 2026-11-05T22:18:37+00:00	Scaling real-time edge AI: University of Alabama crowd analytics on Intel® Xeon® | Intel	https://www.youtube.com/shorts/XHce8skvLjI
 2026-11-05T22:17:12+00:00	Scaling real-time edge AI: University of Alabama crowd analytics on Intel® Xeon® | Intel	https://www.youtube.com/watch?v=zOIjYUResr0
 2026-11-05T18:00:35+00:00	AI Assisted Product Security at Intel | Chips & Salsa | Intel	https://www.youtube.com/watch?v=TcIjhubuE-A
@@ -12,5 +14,3 @@
 2026-10-20T16:50:18+00:00	How Stadiums Use Intel Edge AI to Boost Revenue & Fan Experience | Intel	https://www.youtube.com/shorts/USu6GeQZGkM
 2026-10-20T16:50:09+00:00	How Stadiums Use Intel Edge AI to Boost Revenue & Fan Experience | Intel	https://www.youtube.com/watch?v=zRdWhIzr5G0
 2026-10-06T14:00:10+00:00	How to fix bad photo lighting | Intel	https://www.youtube.com/shorts/fSXmOxLRRME
-2026-10-06T13:00:32+00:00	Foveros 2.5D: Advanced packaging across the full spectrum of performance and value | Intel	https://www.youtube.com/watch?v=Qk0fb2R5GQ0
-2026-10-05T21:29:26+00:00	Princeton-Intel Research Experience for Undergraduates Program | Intel Security	https://www.youtube.com/watch?v=DUVZjiRdCd8

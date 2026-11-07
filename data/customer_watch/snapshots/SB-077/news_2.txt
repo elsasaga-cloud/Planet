@@ -1,4 +1,4 @@
-# SB-077 Liveye · news_2 · https://www.liveye.com/blog/tag/news/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-077 Liveye · news_2 · https://www.liveye.com/blog/tag/news/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 LivEye Blog: Sicherheitsexperten teilen ihr Wissen
 Zum Inhalt springen
 Persönliche Beratung Deutschland: +49 6502 4034722
@@ -132,8 +132,8 @@ Einstellungen ansehen
 {title}
 Zustimmung verwalten
 +
-Sie haben eine Projektanfrage? Wir melden uns umgehend bei Ihnen! (Mo – Fr)
-Rückruf innerhalb von 60 Minuten
+Für eine persönliche Beratung melden wir uns am nächsten Werktag bei Ihnen!
+Wir rufen Sie zurück!
 Ich habe die Datenschutzerklärung gelesen und stimme zu.
 Bitte lasse dieses Feld leer.
 Blog

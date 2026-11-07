@@ -1,4 +1,4 @@
-# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl
 Realizacja zamówień: 796 224 537
 Oferty i wyceny: 502 177 440 / 571 033 282 (pn–pt 8–16)
@@ -424,49 +424,61 @@ Zapytaj o cenę
 ›
 Nowości w ofercie
 Nowy
-Ostatnie sztuki w magazynie
+Dostępne
 Produkty
-WIDEODOMOFON SIPIO-S8 ACO
-ACO
-SIPIO-S8
-6 192,34 zł
+SAMOZAMYKACZ DO DRZWI ATLO-DC01T ATLO
+ATLO
+ATLO-DC01T
+44,28 zł
 Dostawa:
 do piątku, 13.11
-1 szt.
-Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
-Kompatybilność: ACO SIPIO, Systemy SIP ; Przetwornik: 2 Mpx CMOS ; Wyświetlacz: 8 " - 800 px x 1280 px ; Metoda kompresji obrazu: H.264 / H.265 ; Oświetlacz LED; Oświetlacz IR; Wybrane cechy: Wbudowany czytnik zbliżeniowy - 13.56 MHz Wbudowany dotykowy ekran, Komunikacja dwukierunkowa, Wejścia / wyjścia alarmowe : 2 / 1 Wejścia dla czujki kontaktronowej...
-Dodaj
-Nowy
-Ostatnie sztuki w magazynie
-Produkty
-PANEL WEWNĘTRZNY SIPIO-M7-BK IP ACO
-ACO
-SIPIO-M7-BK
-1 143,31 zł
-Dostawa:
-do piątku, 13.11
-1 szt.
-Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
-Kompatybilność: ACO SIPIO, Systemy SIP ; Ekran: 7 " pojemnościowy ekran dotykowy ; Rozdzielczość: 1024 x 600 ; Wejścia alarmowe: 8 ; Wyjścia alarmowe: 1 ; Zasilanie: PoE, 24 V DC ;
-Dodaj
-Nowy
-Ostatnie sztuki w magazynie
-Produkty
-PANEL WEWNĘTRZNY SIPIO-M10-BK IP ACO
-ACO
-SIPIO-M10-BK
-2 343,15 zł
-Dostawa:
-do piątku, 13.11
-1 szt.
-Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
-Kompatybilność: ACO SIPIO, Systemy SIP ; Ekran: 10.1 " pojemnościowy ekran dotykowy ; Rozdzielczość: 1024 x 600 ; Wejścia alarmowe: 8 ; Wyjścia alarmowe: 1 ; Zasilanie: PoE, 24 V DC ;
+12 szt.
+Maksymalna dostępna ilość: 12 szt. Większą ilość możemy sprowadzić na zapytanie.
+Zastosowanie: drzwi prawe / drzwi lewe ; Wybrane cechy: Regulacja prędkości zamykania drzwi Praca bez zasilania elektrycznego ;
 Dodaj
 Nowy
 Skontaktuj się w sprawie dostępności
 Produkty
-PŁYTA CENTRALI ALARMOWEJ P64000600000 TELTONIKA
-SECOLink
-P64000600000
-396,32 zł
-Wejścia na płycie głównej: 8 szt. ; Wyjścia na płycie głównej: 3 szt. - programowalne ; Maksymalna ilość obsługiwanych wejść: 64 szt. ; Partycje: 4 ; Strefy: 32 ; Moduły rozszerzające; Pamięć zdarzeń: 256 ; T
+BEZPRZEWODOWA CZUJKA DYMU I TLENKU WĘGLA (CZADU) ATLO-SCD01-TUYA Wi-Fi, Tuya Smart ATLO
+ATLO
+ATLO-SCD01-TUYA
+152,86 zł
+Współpraca: Tuya Smart ; Detekcja: Tlenek węgla (CO), dym ; Pasmo częstotliwości: 2.4 GHz WiFi IEEE 802.11 b/g/n ; Dostęp z telefonu komórkowego: Możliwa obsługa przez sieć Wi-Fi za pomocą aplikacji mobilnej na systemy iOS, Android ; Zasilanie bateryjne: Wbudowana bateria (brak możliwości wymiany) ;
+Zobacz
+Nowy
+Dostępne
+Produkty
+OPASKA NA RĘKĘ Z TAGIEM RFID ATLO-GD06IC/RED ATLO
+ATLO
+ATLO-GD06IC/RED
+8,15 zł
+Dostawa:
+do piątku, 13.11
+1 000 szt.
+Maksymalna dostępna ilość: 1 000 szt. Większą ilość możemy sprowadzić na zapytanie.
+Standard: 13.56 MHz S50 ; Kompatybilność: ISO/IEC 14443A ; Możliwość zapisu do pamięci wewnętrznej: 1 kB ; Kolor: Czerwony ;
+Dodaj
+Nowy
+Dostępne
+Produkty
+OPASKA NA RĘKĘ Z TAGIEM RFID ATLO-GD06IC/ORANGE ATLO
+ATLO
+ATLO-GD06IC/ORANGE
+8,15 zł
+Dostawa:
+do piątku, 13.11
+1 000 szt.
+Maksymalna dostępna ilość: 1 000 szt. Większą ilość możemy sprowadzić na zapytanie.
+Standard: 13.56 MHz S50 ; Kompatybilność: ISO/IEC 14443A ; Możliwość zapisu do pamięci wewnętrznej: 1 kB ; Kolor: pomarańczowy ;
+Dodaj
+Nowy
+Dostępne
+Produkty
+OPASKA NA RĘKĘ Z TAGIEM RFID ATLO-GD06IC/BLUE ATLO
+ATLO
+ATLO-GD06IC/BLUE
+8,15 zł
+Dostawa:
+do piątku, 13.11
+1 000 szt.
+Maksymalna dostępna ilość: 1 000 szt. Większą ilość moż

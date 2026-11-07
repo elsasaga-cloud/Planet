@@ -1,4 +1,5 @@
-# SB-875 lemaxguvenlik.com · sitemap · https://www.lemaxguvenlik.com/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-875 lemaxguvenlik.com · sitemap · https://www.lemaxguvenlik.com/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+	https://www.lemaxguvenlik.com/urun/seagate-barracuda-st8000dm004-sata-3-0-5400-rpm-3-5-8-tb-harddisk/342
 	https://www.lemaxguvenlik.com/urun/4-kamerali-5-mp-sony-fulhan-gece-goruslu-dis-mekan-mekan-kamera-sistemi/256
 	https://www.lemaxguvenlik.com/urun/12-v-volt-4000-watt-modifiye-sinus-inverter-12-volt-220v-cevirici/340
 	https://www.lemaxguvenlik.com/urun/lg-maxcam-4-kanal-ahd-5mp-h-265-ultra-hd-dvr-kayit-cihazi/212
@@ -108,6 +109,4 @@
 	https://www.lemaxguvenlik.com/urun/dvr-kayit-cihazi-uyumlu-wifi-adaptor-wifi-usb-adaptor-wireless-alici-2-4-ghz-1200mbps/267
 	https://www.lemaxguvenlik.com/urun/panasonic-led-ampul-e27-4-9w-4000k-ilik-beyaz-gunes-enerjisi-sistemleri-icin-uyumlu-4lu-set/307
 	https://www.lemaxguvenlik.com/urun/12-volt-12-5-amper-150-watt-slim-metal-kasa-trafo-kamera-sistemi-adaptoru/310
-	https://www.lemaxguvenlik.com/urun/seagate-3-5-6-tb-skyhawk-hard-disk/234
-	https://www.lemaxguvenlik.com/urun/seagate-skyhawk-3-5-4tb-hard-disk/235
-	https://www.lemaxgu
+	https://www.lemaxguvenlik.com/urun/seagate-3-5-6-tb-skyhawk-ha

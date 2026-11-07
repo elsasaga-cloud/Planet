@@ -1,4 +1,4 @@
-# SB-559 vipausa.com · news_2 · https://vipausa.com/pages/about/blog.html · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-559 vipausa.com · news_2 · https://vipausa.com/pages/about/blog.html · fetched 2026-11-07T08:57:10Z · HTTP 200
 Blog - VIPA ControlsAmerica
 Skip to main content
 close
@@ -63,6 +63,7 @@ Virtual PLCs
 Movicon HMI/SCADA
 OPC UA
 Accessories
+IBH
 Industrial Ethernet Patch Cables
 Industrial Ethernet Switches
 Memory Cards
@@ -72,7 +73,6 @@ PROFIBUS Connectors
 PROFINET Connectors
 PROFIBUS/PROFINET Cable
 Programming Cables
-S5/S7 Interfaces
 S5 to S7 Conversion
 Troubleshooting Toolkits
 HMI

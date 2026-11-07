@@ -1,4 +1,4 @@
-# SB-147 genieproducts.co.uk · news_1 · https://genieproducts.co.uk/news/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-147 genieproducts.co.uk · news_1 · https://genieproducts.co.uk/news/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 News - Genie Products
 Skip to content
 Solutions
@@ -61,9 +61,9 @@ Case Studies
 News
 All News
 Latest
+PHP2Shell Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)
 How Surveillance Helps Reduce Employee and Customer Theft
 What Is a PTZ Camera and When Should You Use One?
-How Many CCTV Cameras Do I Need for My Property?
 Shop
 Shop All
 CCTV
@@ -127,10 +127,12 @@ All News
 Shop
 CCTV
 Access Control
-How Surveillance Helps Reduce Employee and Customer Theft
-Theft remains one of the most significant challenges faced by businesses across the UK. Whether it involves shoplifting, internal theft, stock shrinkage or fraudulent activity, losses can quickly affect profitability and operational performance. Fortunately, Genie modern surveillance systems provide businesses with an effective tool for preventing, detecting and investigating theft. Why Theft Prevention Matters The … Continued
+PHP2Shell Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)
+Security Statement: PHP2Shell Vulnerabilities (CVE-2026-109618 & CVE-2026-109619) 2026-10-26Date: October 26, 2026 SummaryWe are aware of the recently disclosed PHP-related vulnerabilities (CVE-2026-109618 and CVE-2026-109619),collectively known as “PHP2Shell,” which have drawn widespread attention and inquiries. We can confirm that all of our products—including both End-of-Life (EOL) and currently active product lines—are not affected by thesevulnerabilities, therefore, no … Continued
 Read full article
 Search News
+PHP2Shell Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)
+Read full article
 How Surveillance Helps Reduce Employee and Customer Theft
 Read full article
 What Is a PTZ Camera and When Should You Use One?
@@ -146,8 +148,6 @@ Read full article
 Legal Considerations for CCTV Installation in the UK
 Read full article
 Maintaining Your CCTV System
-Read full article
-Genie Legacy DVR clock bug information and workarounds
 Read full article
 Posts navigation
 Older posts

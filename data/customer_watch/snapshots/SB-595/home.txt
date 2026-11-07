@@ -1,21 +1,9 @@
-# SB-595 mpcl.in · home · https://mpcl.in/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-595 mpcl.in · home · https://mpcl.in/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Micropoint Computers Private Limited | Building | Managing | Innovating |
 Home
 About Us
-Services Enterprise Computing Solutions
-Hyper-Converged Infrastructure HCI
-AI Solutions
-Networking & Security Solutions
-Cyber Security Solutions for Compliance
-Data Center
-Project Managment Services
-End Points
-Case Studies
-Careers
-Contact Us
-Home
-About Us
-Services Enterprise Computing Solutions
+Services
+Enterprise Computing Solutions
 Hyper-Converged Infrastructure HCI
 AI Solutions
 Networking & Security Solutions
@@ -109,5 +97,3 @@ Head Office
 Email us – sales@mpcl.in
 © Copyright: Micropoint Computers Pvt Ltd. Designed by Fablesquare.
 Contact Us
-Optimized by Seraphinite Accelerator
-Turns on site high speed to be attractive for people and search engines.

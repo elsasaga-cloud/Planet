@@ -1,4 +1,4 @@
-# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -44,145 +44,145 @@ Producatori
 Galerie foto
 Diplome si premii
 Curs valutar
-06-Nov-2026
-1 EURO = 5.3398 RON
-1 USD = 4.7556 RON
+07-Nov-2026
+1 EURO = 5.3408 RON
+1 USD = 4.7795 RON
 Mondo Plast
 fibra optica switch router poe gigabit router wireless switch gigabit ap sfp stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
 Pagini produse: 1 2 3 4 5 6 7 8 9 10 11
 L3 14-Port 100/1G SFP with 4 shared 10/100/1000T + 10-Port 1G/2.5G SFP + 4-Port 10G SFP+ Metro Ethernet Switch
 Planet - MGSW-28240F
-3,328.92 LEI
+3,345.65 LEI
 fara TVA
-2,663.14 LEI
+2,676.52 LEI
 pret fara TVA
-cuTVA: 3,222.39 LEI
+cuTVA: 3,238.59 LEI
 Switch POE+ Gigabit 24-port + 4-port Combo TP/SFP (650W)
 Planet - GS-4210-24PL4C
-2,101.98 LEI
+2,112.54 LEI
 fara TVA
-1,678.73 LEI
+1,687.16 LEI
 pret fara TVA
-cuTVA: 2,031.26 LEI
+cuTVA: 2,041.47 LEI
 Switch Gigabit IPv4/IPv6, 16-Port 10/100/1000Base-T + 2-Port 100/1000MBPS SFP L2/L4 Management SNMP
 Planet - GS-4210-16T2S
-751.38 LEI
+755.16 LEI
 fara TVA
-594.45 LEI
+597.44 LEI
 pret fara TVA
-cuTVA: 719.28 LEI
+cuTVA: 722.90 LEI
 Switch PoE 24-port 10/100/1000T 802.3at +2-port SFP Management (300W)
 Planet - GS-4210-24P2S
-1,600.26 LEI
+1,608.30 LEI
 fara TVA
-1,279.26 LEI
+1,285.69 LEI
 pret fara TVA
-cuTVA: 1,547.90 LEI
+cuTVA: 1,555.68 LEI
 8-Port 10/100TX 802.3at PoE + 1-Port 10/100/1000T + 1-Port 100/1000X SFP Desktop Switch (120 watts)
 Planet - FGSD-1011HP
-338.36 LEI
+340.06 LEI
 fara TVA
-261.56 LEI
+262.87 LEI
 pret fara TVA
-cuTVA: 316.49 LEI
+cuTVA: 318.08 LEI
 Switch Industrial Gigabit 5 port 10/100/1000M
 Planet - IGS-501T
-384.97 LEI
+386.90 LEI
 fara TVA
-297.23 LEI
+298.72 LEI
 pret fara TVA
-cuTVA: 359.64 LEI
+cuTVA: 361.45 LEI
 Switch POE Gigabit 24 port + 2 port Gigabit SFP si montor LCD (300W)
 Planet - GSW-2620VHP
-1,336.32 LEI
+1,343.04 LEI
 fara TVA
-1,060.50 LEI
+1,065.83 LEI
 pret fara TVA
-cuTVA: 1,283.20 LEI
+cuTVA: 1,289.65 LEI
 24-Port 10/100/1000T + 4-Port 100/1000X SFP Managed Gigabit Switch
 Planet - GS-4210-24T4S
-936.85 LEI
+941.56 LEI
 fara TVA
-741.87 LEI
+745.60 LEI
 pret fara TVA
-cuTVA: 897.67 LEI
+cuTVA: 902.18 LEI
 Switch Gigabit IPv6/IPv4, 16-Port 802.3at POE+ plus 2-Port 100/1000X SFP, Management (220W)
 Planet - GS-4210-16P2S
-1,369.61 LEI
+1,376.50 LEI
 fara TVA
-1,093.79 LEI
+1,099.29 LEI
 pret per bucata
 pret fara TVA
-cuTVA: 1,323.48 LEI
+cuTVA: 1,330.13 LEI
 Switch Gigabit 16-Port 802.3at POE+ plus 2-Port 10/100/1000T + 2-Port 1000X SFP (185W)
 Planet - GSD-2022P
-703.83 LEI
+707.37 LEI
 fara TVA
-561.16 LEI
+563.98 LEI
 pret per bucata
 pret fara TVA
-cuTVA: 679.00 LEI
+cuTVA: 682.42 LEI
 Switch Smart PoE Gigabit 8-Port 10/100/1000T 802.3at PoE + 2-Port 10/100/1000T+ 2-Port 100/1000X SFP
 Planet - GS-4210-8P2C
-789.43 LEI
+793.40 LEI
 fara TVA
-618.23 LEI
+621.34 LEI
 pret fara TVA
-cuTVA: 748.06 LEI
+cuTVA: 751.82 LEI
 Switch Desktop 16-Port 10/100TX 802.3at PoE + 2-Port 10/100/1000T + 1-Port shared 1000X SFP (185W)
 Planet - FGSD-1821P
-527.87 LEI
+530.52 LEI
 fara TVA
-404.23 LEI
+406.26 LEI
 pret fara TVA
-cuTVA: 489.11 LEI
+cuTVA: 491.57 LEI
 Switch Smart Web Management 8-port 10/100/1000T 802.3at PoE + 2-port 1000X SFP (120W)
 Planet - GS-2210-8P2S
-556.41 LEI
+559.20 LEI
 fara TVA
-439.89 LEI
+442.10 LEI
 pret fara TVA
-cuTVA: 532.27 LEI
+cuTVA: 534.95 LEI
 Switch Smart Web Management 16-Port 10/100/1000T 802.3at PoE + 2-Port 1000X SFP (240W)
 Planet - GS-2210-16P2S
-960.63 LEI
+965.46 LEI
 fara TVA
-760.90 LEI
+764.72 LEI
 pret per bucata
 pret fara TVA
-cuTVA: 920.68 LEI
+cuTVA: 925.31 LEI
 Switch Smart Web Management 24-port 10/100/1000T 802.3at PoE +2-port 1000X SFP (260W)
 Planet - GS-2210-24P2S
-1,317.30 LEI
+1,323.92 LEI
 fara TVA
-1,046.23 LEI
+1,051.49 LEI
 pret per bucata
 pret fara TVA
-cuTVA: 1,265.94 LEI
+cuTVA: 1,272.30 LEI
 Switch Smart Web Management 8-Port 10/100/1000T + 2-Port 100/1000X SFP
 Planet - GS-2210-8T2S
-356.67 LEI
+358.46 LEI
 fara TVA
-285.34 LEI
+286.77 LEI
 pret fara TVA
-cuTVA: 345.26 LEI
+cuTVA: 346.99 LEI
 Switch Smart Web Management 16-Port 10/100/1000Base-T + 2-Port 1000X SFP
 Planet - GS-2210-16T2S
-456.54 LEI
+458.83 LEI
 fara TVA
-361.43 LEI
+363.24 LEI
 pret per bucata
 pret fara TVA
-cuTVA: 437.32 LEI
+cuTVA: 439.52 LEI
 Switch Smart Web Management 24-port 10/100/1000T + 2-port 1000X SFP
 Planet - GS-2210-24T2S
-546.89 LEI
+549.64 LEI
 fara TVA
-437.52 LEI
+439.71 LEI
 pret per bucata
 pret fara TVA
-cuTVA: 529.39 LEI
+cuTVA: 532.05 LEI
 Access Point Omada BE9300 Tri-Band Wi-Fi 7
 TP-Link - EAP772
 1,017.00 LEI
@@ -206,18 +206,18 @@ pret fara TVA
 cuTVA: 457.89 LEI
 Switch Desktop 24-Port 10/100TX 802.3at PoE + 2-Port 10/100/1000T + 1-Port shared 1000X SFP (185W)
 Planet - FGSD-2621P
-642.01 LEI
+645.23 LEI
 fara TVA
-499.34 LEI
+501.85 LEI
 pret fara TVA
-cuTVA: 604.20 LEI
+cuTVA: 607.24 LEI
 Switch POE Gigabit 16-Port 10/100/1000T 802.3at PoE + 2-Port 1000X SFP (250W)
 Planet - GSW-1820HP
-680.05 LEI
+683.47 LEI
 fara TVA
-532.63 LEI
+535.30 LEI
 pret fara TVA
-cuTVA: 644.48 LEI
+cuTVA: 647.72 LEI
 Omada Switch Industrial 6-Port Gigabit Easy Managed
 TP-Link - IES206G
 795.00 LEI
@@ -227,7 +227,7 @@ pret per bucata
 pret fara TVA
 cuTVA: 715.46 LEI
 Pagini produse: 1 2 3 4 5 6 7 8 9 10 11
-Pagina generata in : 0.154 s
+Pagina generata in : 0.121 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

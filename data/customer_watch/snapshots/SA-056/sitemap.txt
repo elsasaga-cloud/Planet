@@ -1,4 +1,4 @@
-# SA-056 B&S electronics · sitemap · https://bselectronics.gr/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SA-056 B&S electronics · sitemap · https://bselectronics.gr/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 2020-03-07T09:04:12+02:00	https://bselectronics.gr/tcctv-1205-4c
 2020-03-13T09:18:59+02:00	https://bselectronics.gr/tcctv-1210-9c
 2020-03-13T09:19:23+02:00	https://bselectronics.gr/tcctv-1216-16c
@@ -76,12 +76,12 @@
 2023-09-22T08:10:29+03:00	https://bselectronics.gr/cbl-m1u
 2025-10-24T12:10:10+03:00	https://bselectronics.gr/cbl-dt1u
 2025-10-24T12:10:42+03:00	https://bselectronics.gr/pdu_8
-2025-04-05T12:55:35+03:00	https://bselectronics.gr/bs-sw5
-2025-04-05T12:56:02+03:00	https://bselectronics.gr/bs-sw8
-2025-04-05T12:57:07+03:00	https://bselectronics.gr/bs-sw16
-2025-04-05T12:56:49+03:00	https://bselectronics.gr/bs-sw24
-2025-04-05T12:58:36+03:00	https://bselectronics.gr/bs-swg16
-2025-04-05T12:59:04+03:00	https://bselectronics.gr/bs-swg24
+2026-11-06T11:42:28+02:00	https://bselectronics.gr/bs-sw5
+2026-11-06T11:42:41+02:00	https://bselectronics.gr/bs-sw8
+2026-11-06T11:42:53+02:00	https://bselectronics.gr/bs-sw16
+2026-11-06T11:43:04+02:00	https://bselectronics.gr/bs-sw24
+2026-11-06T11:43:09+02:00	https://bselectronics.gr/bs-swg16
+2026-11-06T11:43:16+02:00	https://bselectronics.gr/bs-swg24
 2023-09-21T12:22:32+03:00	https://bselectronics.gr/lmp-1u
 2023-09-21T12:23:05+03:00	https://bselectronics.gr/blnk1u
 2023-09-21T12:23:18+03:00	https://bselectronics.gr/blnk2u

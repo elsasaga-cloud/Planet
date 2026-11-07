@@ -1,4 +1,4 @@
-# SB-1049 kdelectronics.ie · home · https://www.kdelectronics.ie/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-1049 kdelectronics.ie · home · https://www.kdelectronics.ie/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 KD Electronics Ireland - Trade Supplier of CCTV, Security Systems, Audio Visual and Networking sol - CCTV, Fire, Security, TV, Audio & Networking Distributor Ireland
 ×
 Quick Order
@@ -16,6 +16,7 @@ menu
 account_circle
 Products
 Dahua Alarm Kits
+Clevercards November 2026
 Change Currency (€)
 GBP (£)
 Trade Login
@@ -384,6 +385,4 @@ Add to Favourites
 Ajax BulletCam HL (8 Mp/2.8 mm) Black
 126256
 Code: AJ-0344
-Loading...
-Favourited'
-dat
+

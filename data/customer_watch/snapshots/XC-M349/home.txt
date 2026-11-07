@@ -1,4 +1,4 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home · https://www.getic.lv/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home · https://www.getic.lv/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Bezvadu Wi-Fi aprīkojums no Ubiquiti, Mikrotik | Getic
 lv EUR ar PVN 21% , Latvija
 Konts
@@ -12,61 +12,61 @@ Balts
 1 m
 noliktavā
 2.13 €
-LtAP-2HnD&R11e-LTE7
-MikroTik LtAP LTE7 kit
-EU
-noliktavā
-151.94 €
-UA-G3
-Ubiquiti G3 Access Reader
-Balts
-noliktavā
-158.45 €
 5.0
-UX7
-Ubiquiti UniFi Express 7
-jauns
-noliktavā
-227.61 €
-3.7
-RDS2216-2XG-4S+4XS-2XQ
-MikroTik ROSE Data Server RDS2216-2XG-4S+4XS-2XQ
+SXTsq-5axD
+MikroTik SXTsq 5 ax
 EU
 noliktavā
-1698.04 €
+58.26 €
+USW-Pro-XG-10-PoE
+Ubiquiti UniFi Switch Pro XG 10 PoE
+noliktavā
+812.91 €
 DS-7808NI-I2/8P
 Hikvision 8-kanālu PoE NVR DS-7808NI-I2/8P
 noliktavā
 279.51 €
-UACC-SFP-Wizard
-Ubiquiti SFP Wizard
-noliktavā
-66.21 €
-UA-Hub-Door-Mini
-Ubiquiti Access Door Hub Mini
-noliktavā
-125.54 €
 5.0
-AP5G2-G
-QuPanel 5G LTE Global MIMO Antena
-2x2
-5 m
+U7-Pro-XGS
+Ubiquiti UniFi U7 Pro XGS
+Balts
 noliktavā
-185.63 €
-CRS418-8P-8G-2S+RM
-MikroTik CRS418-8P-8G-2S+RM
-EU
+343.34 €
+5.0
+USW-Flex-2.5G-8-PoE
+Ubiquiti UniFi Switch Flex 8 PoE 2.5G
 noliktavā
-404.31 €
-UVC-G5-Dome-Ultra
-Ubiquiti Camera G5 Dome Ultra
-Melns
+227.21 €
+U5G-Max
+Ubiquiti UniFi 5G Max
 noliktavā
-103.85 €
-RUT976
-Teltonika RUT976 Redcap 5G rūteris
+465.78 €
+TLV2.0
+Tedee GO Smart Lock
+Sudrabs
 noliktavā
-408.96 €
+234.79 €
+192.39 €
+UMR-Ultra
+Ubiquiti Mobile Router Ultra
+jauns
+noliktavā
+116.33 €
+BCM-RJ45
+Broadbe SFP+ to RJ45 modulis
+10 Gbps
+noliktavā
+51.44 €
+5.0
+UA-G3-Intercom
+Ubiquiti Access G3 Intercom
+noliktavā
+443.05 €
+UA-G3-Flex
+Ubiquiti G3 Access Reader Flex
+Balts
+noliktavā
+201.96 €
 parādiet man vairāk
 Viss ar atlaidi, pasteidzies
 -19 %
@@ -75,28 +75,28 @@ Ubiquiti Gateway Lite
 EU
 jauns
 noliktavā
-133.29 €
-107.50 €
+133.80 €
+108.07 €
 -18 %
 UISP-Console
 Ubiquiti UISP Console
 noliktavā
-328.55 €
-270.36 €
+330.29 €
+271.80 €
 -14 %
 UACC-G5-Enhancer
 Ubiquiti G5 Prof Vision Enhancer
 noliktavā
-107.11 €
-92.29 €
+107.68 €
+92.78 €
 -49 %
 5.0
 UISP-R
 Ubiquiti UISP Router
 jauns
 noliktavā
-169.45 €
-85.78 €
+170.34 €
+86.24 €
 -26 %
 MS-Cxx64-UPD
 Milesight pret vandālismu izturīga cilindriska kamera
@@ -110,50 +110,50 @@ SAW30-240-1200GR2A
 MikroTik barošanas bloks 24V 1.2A
 EU
 noliktavā
-12.22 €
-4.88 €
+12.29 €
+4.90 €
 -19 %
 UVC-AI-Dome-B
 Ubiquiti kamera AI Dome
 noliktavā
-452.69 €
-368.08 €
+454.42 €
+370.04 €
 -23 %
 R11e-LR2
 MikroTik R11e-LR2
 noliktavā
-68.09 €
-52.11 €
+68.45 €
+52.39 €
 -27 %
 CRS305-1G-4S+OUT
 MikroTik FiberBox Plus
 EU
 noliktavā
-206.01 €
-150.92 €
+207.12 €
+151.72 €
 -27 %
 5.0
 cAPGi-5HaxD2HaxD&EG12-EA
 MikroTik cAP LTE12 ax
 EU
 noliktavā
-206.01 €
-150.92 €
+207.12 €
+151.72 €
 -36 %
 5.0
 UACC-OFC-MM
 Ubiquiti 10Gbps OM3 Dupleksais LC kabelis
 3 m
 noliktavā
-10.81 €
-6.95 €
+10.87 €
+6.98 €
 -19 %
 MS-S02xx-GL
 Milesight Industrial PoE Switch
 400 W
 noliktavā
-205.99 €
-167.21 €
+207.08 €
+168.11 €
 parādiet man vairāk
 Ieskatieties katalogā un atradīsiet
 Bezvadu tīkli

@@ -1,4 +1,4 @@
-# SB-269 contradata.it · feed_auto · https://www.contradata.it/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-269 contradata.it · feed_auto · https://www.contradata.it/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Mon, 26 Oct 2026 11:47:06 +0000	DPC-1210 Darveen: IA sempre più efficiente	https://www.contradata.it/dpc-1210-darveen-ia-sempre-piu-efficiente/
 Fri, 16 Oct 2026 10:34:20 +0000	Stabilità ed efficienza produttiva: la nuova soluzione EMC esterna di Cincoze	https://www.contradata.it/stabilita-ed-efficienza-produttiva-la-nuova-soluzione-emc-esterna-di-cincoze/
 Tue, 22 Sep 2026 08:52:32 +0000	Architettura di sistema scalabile per le applicazioni di domani	https://www.contradata.it/architettura-di-sistema-scalabile-per-le-applicazioni-di-domani/

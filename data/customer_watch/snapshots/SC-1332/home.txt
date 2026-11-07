@@ -1,4 +1,4 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
@@ -9,10 +9,10 @@ Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
+WiFi & Home Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -36,10 +36,10 @@ Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
+WiFi & Home Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -109,9 +109,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-Crimping Tools
 RJ45 Connectors
 RJ45 Boots
+Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -209,7 +209,7 @@ Ubiquiti
 UF-Tools
 UltraLAN
 Yeelight
-Keypads & Buttons 5 products
+Keypads & Buttons 6 products
 Sensors 15 products
 Hubs 5 products
 Range Extenders 3 products
@@ -395,9 +395,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-Crimping Tools
 RJ45 Connectors
 RJ45 Boots
+Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -495,7 +495,7 @@ Ubiquiti
 UF-Tools
 UltraLAN
 Yeelight
-Keypads & Buttons 5 products
+Keypads & Buttons 6 products
 Sensors 15 products
 Hubs 5 products
 Range Extende

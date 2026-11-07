@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -66,7 +66,7 @@ Cikkszám: DGYÜZMF
 Ár:
 1.990 Ft + ÁFA
 (2.527 Ft)
-3 db raktáron
+2 db raktáron
 db
 Kosárba
 Részletek
@@ -209,7 +209,7 @@ Cikkszám: TA-K661ADIG
 Ár:
 230 Ft + ÁFA
 (292 Ft)
-10070 m raktáron
+9765 m raktáron
 m
 Kosárba
 Részletek
@@ -229,7 +229,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1779 db raktáron
+1754 db raktáron
 db
 Kosárba
 Részletek
@@ -272,7 +272,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1779 db raktáron
+1754 db raktáron
 db
 Kosárba
 Részletek
@@ -375,3 +375,4 @@ H-1151 Bp. Székely Elek út 11.
 Nyitva: hétköznap -
 +36 1/415 2321 | sales@lan.hu
 Információk
+

@@ -1,4 +1,4 @@
-# SC-509 nextik.co.in · sitemap · https://nextik.co.in/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-509 nextik.co.in · sitemap · https://nextik.co.in/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 2025-02-13T09:31:30+00:00	https://nextik.co.in/
 2025-02-13T09:31:30+00:00	https://nextik.co.in/about-us
 2025-02-13T09:31:30+00:00	https://nextik.co.in/WDM-Series/cwdm

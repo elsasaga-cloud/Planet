@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
 value && window.livewire.emit('category:selected', value))"
 x-on:force:open.window="forceOpen = $event.detail.open"
@@ -51,13 +51,13 @@ Tápok, világítás, kábelek
 Tűzjelző- és oltórendszerek
 {
 if (!value) {
-window.livewire.find('vIuNTRq7Vz1huvk350Kr').call('resetSearch')
+window.livewire.find('K6KFJE24DONE15gSqeT4').call('resetSearch')
 }
 $dispatch('force:open', { open });
 })"
 x-on:click.away="open = false"
 >
-= 3) { window.livewire.find('vIuNTRq7Vz1huvk350Kr').call('search') }"
+= 3) { window.livewire.find('K6KFJE24DONE15gSqeT4').call('search') }"
 />
 Keresés
 Termékek:
@@ -170,13 +170,13 @@ Regisztráció
 ×
 {
 if (!value) {
-window.livewire.find('BeJLZtdTRIWsIYkQ9ltj').call('resetSearch')
+window.livewire.find('wWMogPw2bQt60paYhlZg').call('resetSearch')
 }
 $dispatch('force:open', { open });
 })"
 x-on:click.away="open = false"
 >
-= 3) { window.livewire.find('BeJLZtdTRIWsIYkQ9ltj').call('search') }"
+= 3) { window.livewire.find('wWMogPw2bQt60paYhlZg').call('search') }"
 />
 Keresés
 Termékek:
@@ -205,6 +205,11 @@ Hozd ki a legtöbbet a Techson kamerából! SMD beállítása kamerán és NVR-e
 Techson rendszámfelismerő megoldások – Techson VideoLatte
 Legfrissebb cikkek
 Összes
+Intelligens parkolásirányítás – találd meg gyorsabban a szabad parkolóhelyet!
+Kevesebb keresgélés, átláthatóbb parkolóüzemeltetés
+Egy forgalmas parkolóban nemcsak a férőhelyek száma számít, hanem az is, milyen gyorsan találják meg a járművezetők a szabad helyeket. A felesleges körözés növeli a forgalmat, rontja a parkolási élményt, és az üzemeltetést is megnehezítheti.
+Tovább
+2026. 11. 04.
 Grenton - Az okosotthon nem luxus többé
 A Grenton intelligens épületautomatizálási rendszere a kényelem, a biztonság és az energiahatékonyság ötvözésével kínál rugalmas megoldásokat a különböző felhasználási igényekre. 2026-ban a gyártó jelentős termékújdonságokkal bővíti kínálatát, köztük az új generációs CLU-300 hibrid központi egységgel, az Infibity Android kezelőpanellel, valamint korszerű I/O- és relémodulokkal. Az új eszközök tovább bővítik a rendszer vezérlési, integrációs és energiafelügyeleti lehetőségeit. Cikkünkben áttekintjük a Grenton rendszer működését, műszaki jellemzőit és a 2026-os fejlesztések legfontosabb előnyeit.
 Tovább
@@ -221,10 +226,6 @@ Vége a vaklármának! Hogyan szűri ki a Techson TCI MA0 kamera PIR + AI techno
 A biztonságtechnika legnagyobb ellensége a fals riasztás. Mozgó falevelek, pókhálók vagy egy udvaron átszaladó macska mind felébresztik a hagyományos rendszereket. Mutatjuk, hogyan oldja meg ezt a Techson TCI MA0 PIR+AI kamerája egy okos logikával, ahol a rendszer csak valós veszély esetén riaszt és indítja el a rögzítést egy Synology NAS – ra. Nem csak beszélünk róla, meg is mutatjuk!
 Tovább
 2026. 10. 14.
-Dahua AI Coding és Super AI Coding – amikor nem minden képpont egyformán fontos
-Egyetlen nagy felbontású kamera adatforgalma önmagában ritkán okoz fejtörést. Több tucat csatornánál, 30, 60 vagy akár 90 napos megőrzési idő mellett azonban már minden megabit számít: nagyobb merevlemezekre, gyorsabb hálózatra és több átviteli kapacitásra lehet szükség. A Dahua AI Coding erre a problémára nem egyszerűen erősebb tömörítéssel válaszol. A rendelkezésre álló adatmennyiséget oda irányítja, ahol annak biztonságtechnikai szempontból a legnagyobb értéke van.
-Tovább
-2026. 10. 08.
 Elérhetőség
 Tájékoztatjuk Önöket, hogy a POWER Biztonságtechnikai Kft. nagykereskedés, így csak telepítőket és viszonteladókat áll módunkban kiszolgálni. Megértésüket köszönjük.
 info@powerbizt.hu
@@ -261,12 +262,12 @@ KOSÁRBA TESZEM
 ×
 Tudomásul veszem, hogy ezen termékre leadott rendelés nem mondható le, illetve a termék nem visszáruzható külön engedély nélkül.
 KOSÁRBA TESZEM
-window.livewire.find('2dijL88RJWFApMr729qG').set('show', value))"
+window.livewire.find('T0gKL9Vlf8QUCN5K7NTQ').set('show', value))"
 x-cloak
 x-show.transition="open"
 wire:key="d751713988987e9331980363e24189ce"
-x-on:modal:close.window="window.livewire.find('2dijL88RJWFApMr729qG').call('close')"
-x-on:modal:show.window="window.livewire.find('2dijL88RJWFApMr729qG').call('open', $event.detail)"
+x-on:modal:close.window="window.livewire.find('T0gKL9Vlf8QUCN5K7NTQ').call('close')"
+x-on:modal:show.window="window.livewire.find('T0gKL9Vlf8QUCN5K7NTQ').call('open', $event.detail)"
 >
 ×
 {

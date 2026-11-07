@@ -1,4 +1,4 @@
-# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Fiberden
 Size Özel Fiyatlardan Yararlanmak İçin Bayimiz Olabilirsiniz!
 Siparişlerim/Kargo Takip
@@ -102,15 +102,15 @@ Kayıt Ol
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (BEYAZ)
-353,50 TL KDV
+389,36 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (SİYAH)
-353,50 TL KDV
+389,36 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/8 SPLİTTER UYUMLU (SİYAH)
-317,65 TL KDV
+353,50 TL KDV
 Tükendi
 % 0
 yeni
@@ -224,23 +224,11 @@ FİBER OPTİK HAVAİ (ÇELİK ASKI TELLİ) (GRİ A1) 2 CORE 1000 MT
 5.845,38 TL KDV
 % 0
 fiberden
-DİSTRİBUTİON BOX (DAĞITIM KUTUSU)+1/16 SPLİTTER
-721,65 TL KDV
-% 0
-fiberden
-DİSTRİBUTİON BOX (DAĞITIM KUTUSU)+1/8 SPLİTTER
-541,36 TL KDV
-% 0
-fiberden
-DİSTRİBUTİON BOX (DAĞITIM KUTUSU)+1/4 SPLİTTER
-497,93 TL KDV
-% 0
-fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (BEYAZ)
-353,50 TL KDV
+389,36 TL KDV
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/8 SPLİTTER UYUMLU (BEYAZ)
-317,65 TL KDV
+353,50 TL KDV
 fiberden
 FİBERDEN KASET TİPİ 2 * 1/4 SPLİTTER APC
 389,86 TL KDV
@@ -305,11 +293,11 @@ DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/32 SPLİTTER UYUMLU (SİYAH)
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (SİYAH)
-353,50 TL KDV
+389,36 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/8 SPLİTTER UYUMLU (SİYAH)
-317,65 TL KDV
+353,50 TL KDV
 % 0
 fiberden
 MİNİ SPLİTTER 1/16 APC
@@ -359,7 +347,7 @@ GUANGYAN Y9 İŞLEVLİ FİBER OPTİK GÜÇ ÖLÇER OPM + VFL +LAZER
 % 0
 fiberden
 Fast Konnektör SC/APC (SUPERFAST)
-56,06 TL KDV
+28,28 TL KDV
 fiberden
 KASET TİPİ CO SPLİTTER 1/4 APC (YEŞİL)
 198,47 TL KDV
@@ -467,15 +455,15 @@ Fast Konnektör SC/UPC (BNC)
 % 0
 fiberden
 Fast Konnektör SC/APC (KEPKEP)
-34,34 TL KDV
+28,28 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/UPC (KEPKEP)
-31,82 TL KDV
+26,77 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/UPC (SUPERFAST)
-56,06 TL KDV
+26,77 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/APC (TİMSAH)
@@ -542,6 +530,18 @@ Fiber Patch kablo SC/UPC (Duplex)
 fiberden
 Fiber Patch kablo SC To LC (Duplex)
 140,90 TL KDV
+% 0
+fiberden
+Fiber Patch kablo LC To LC (Duplex)
+140,90 TL KDV
+% 0
+fiberden
+Fiber Adaptör SC/UPC (Simplex)
+10,61 TL KDV
+% 0
+fiberden
+Fiber Adaptör SC/APC (Simplex)
+10,61 TL KDV
 Güvenli̇ Alişveri̇ş
 256Bit SSL Sertifikası ile Güvenli Alışveriş
 Orijinal Ürün

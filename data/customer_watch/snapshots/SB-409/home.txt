@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · home · https://www.xlrsecurity.com/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-409 xlrsecurity.com · home · https://www.xlrsecurity.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 XLR Security | We sell security cameras & networking equipment.
 Skip to main content
 Skip to footer
@@ -72,7 +72,7 @@ We are an innovative security supplier with a focus on customer service and tech
 Canadian Owned & Operated
 We are a local company that appreciates your business and works hard to keep it.
 Dealer-focused Service
-We are an innovative security supplier with a focus on customer service and techical support.
+We are an innovative security supplier with a focus on customer service and technical support.
 Learn More About Us
 Brands We Carry
 Professional Video Surveillance & Networking Solutions
@@ -114,14 +114,14 @@ Login for Pricing
 Uniview NVR
 XVR302-16Q4
 Login for Pricing
-Uniview NVR
-XVR302-32Q4
-Login for Pricing
 IP Cameras
 IPC3524SR-ADF28KM-WP-BK
 Login for Pricing
 IP Cameras
 IPC2B14SE-ADZKMC-WP-I1
+Login for Pricing
+IP Cameras
+IPC3234SB-ADZKM-DL-I1
 Login for Pricing
 Security Cameras & Video Recorders
 IP Cameras
@@ -147,6 +147,9 @@ IPC86CEB-AF18KC-I0
 Login for Pricing
 Uniview NVR
 NVR501-04B-P4
+Login for Pricing
+Uniview NVR
+NVR501-08B-P8
 Login for Pricing
 Uniview NVR
 NVR502-16B-P16

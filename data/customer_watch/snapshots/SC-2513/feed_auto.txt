@@ -1,4 +1,4 @@
-# SC-2513 microtech.net.pk · feed_auto · https://microtech.net.pk/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-2513 microtech.net.pk · feed_auto · https://microtech.net.pk/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Tue, 14 Jul 2026 06:04:15 +0000	UniFi Access Points in Pakistan 2026: Best WiFi 6/7 APs	https://microtech.net.pk/unifi-access-points-in-pakistan-2026/
 Fri, 08 May 2026 07:43:30 +0000	Powerful Ways to Build your AI Workspace with HUAWEI eKit	https://microtech.net.pk/build-your-ai-workspace-with-huawei-ekit-pakistan/
 Mon, 02 Feb 2026 06:22:58 +0000	Microtech’s Learning Culture Drives Team Growth	https://microtech.net.pk/microtech-learning-culture-drives-team-growth/

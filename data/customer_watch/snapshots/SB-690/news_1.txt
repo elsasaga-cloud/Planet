@@ -1,4 +1,4 @@
-# SB-690 troyykontrol.com · news_1 · https://www.troyykontrol.com/guvenliksistemleri/hd2-Haberler · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-690 troyykontrol.com · news_1 · https://www.troyykontrol.com/guvenliksistemleri/hd2-Haberler · fetched 2026-11-07T08:57:10Z · HTTP 200
 Parmak İzli Geçiş Sistemi - Troyy Kontrol | Parmak izi Okuyucu | Turnike Sistemleri
 Download
 Anasayfa
@@ -47,7 +47,7 @@ Parmak İzli Geçiş Sistemi
 Parmak izli geçiş sistemi kişilerin parmak izlerini terminalellere kaydettikten sonra her giriş ve çıkışlarını saat gün saat bazlı kayıt yaparak anında veya sonradan geçişler kontrol altına alınabilir. Peki kişinin parmak izi kayıtlı değil ise ne olacak. Geçiş yapacak kişilerin terminallerde kayıdı yok ise entegre çalışan turnike kolları geçişe izin vermeyecektir. Bu şekilde düşünüldüğünde özellikle yoğun geçişlerin olduğu kurum ve kuruluşlarda parmak izli geçiş sistemi güvenliği sağlamakta ve giriş çıkışları kontrol altına almaktadır. Ankara da yer alan TC Atatürk Kültür Dil ve Tarih Yüksek Kurumu' nun talebi doğrultusunda sistem Troyy Kontrol tarafından sorunsuz şekilde tamamlandı ve kullanılmaya başlandı.
 Sizlerde parmak izli geçiş sistemi ile güvenliğinizi kontrol altına almak için Troyy Kontrol ile irtibata geçebilirsiniz.
 Okunma Sayısı:
-17785
+17791
 |
 Güncelleme Tarihi:
 12.04.2020

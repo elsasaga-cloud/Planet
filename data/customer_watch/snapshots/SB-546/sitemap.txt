@@ -1,8 +1,8 @@
-# SB-546 ness.com.au · sitemap · https://ness.com.au/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
-2026-11-05	https://ness.com.au/
-2026-11-05	https://ness.com.au/search
-2026-11-05	https://ness.com.au/contactus
-2026-11-05	https://ness.com.au/blog
+# SB-546 ness.com.au · sitemap · https://ness.com.au/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+2026-11-07	https://ness.com.au/
+2026-11-07	https://ness.com.au/search
+2026-11-07	https://ness.com.au/contactus
+2026-11-07	https://ness.com.au/blog
 2026-10-06	https://ness.com.au/security-alarms
 2026-10-06	https://ness.com.au/alarm-control-panels
 2024-11-07	https://ness.com.au/home-security
@@ -52,7 +52,7 @@
 2025-03-20	https://ness.com.au/32
 2021-04-07	https://ness.com.au/33
 2026-10-06	https://ness.com.au/cctv-security-cameras
-2026-10-28	https://ness.com.au/qamsong-cctv-cameras-nvrs
+2026-11-06	https://ness.com.au/qamsong-cctv-cameras-nvrs
 2024-07-15	https://ness.com.au/hikvision
 2021-04-07	https://ness.com.au/41
 2021-04-07	https://ness.com.au/42
@@ -192,6 +192,9 @@
 2020-04-23	https://ness.com.au/hikvision-2
 2020-04-23	https://ness.com.au/ubiquiti
 2020-04-23	https://ness.com.au/nx
+2026-11-06	https://ness.com.au/114-253b-hikvision-ds-pkf1-wb-ax-pro-wireless-keyfob-copy
+2026-11-06	https://ness.com.au/114-629-m2-hikvision-ds-2cd3h86g2h-lizsuysl-8mp-turret-varifocal-27-135mm
+2026-11-06	https://ness.com.au/114-497-m2-hikvision-ids-2cd8a86g2-xzhsy10504-8mp-tandemvu-bullet
 2026-10-08	https://ness.com.au/k-110-974
 2026-10-05	https://ness.com.au/114-800b-hilook-nvr-104mh-c4p-4ch-nvr-no-hdd-copy
 2026-09-28	https://ness.com.au/114-765b
@@ -241,7 +244,4 @@
 2026-08-17	https://ness.com.au/114-527b-hikvision-ds-2xc3386g0h-lisusl-pa-polymer-turret-28mm
 2026-08-17	https://ness.com.au/114-397-hikvision-ds-pt-m1-mifare-tag-for-ax-pro
 2026-08-04	https://ness.com.au/101-173-100-shielded-data-cable-100m
-2026-08-03	https://ness.com.au/114-423-180-hikvision-ds-2cd2387g3p-lis2uysl-8mp-turret-pano-180
-2026-08-17	https://ness.com.au/114-390
-2026-07-28	https://ness.com.au/114-412-hikvision-ds-kabd8003-rs3s-door-station-rain-shield
-2026-07-28	https://ness.com.au/114-411-hikvision-ds-kabd8003-rs2s-door-station-rain-shie
+2026-08-03	https://ness

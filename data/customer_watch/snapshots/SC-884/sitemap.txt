@@ -1,4 +1,4 @@
-# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 	https://www.novicam.ru/doorphones/doorphones_accessories/2-pin-wire-v-4042
 	https://www.novicam.ru/doorphones/doorphones_accessories/4-pin-wire-v-4043
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4552
@@ -68,8 +68,8 @@
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4651
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-kit-black-v-4648
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-kit-white-v-4647
-	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-white-v-4650
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-white-v-4050
+	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-white-v-4650
 	https://www.novicam.ru/doorphones/doorphones_accessories/msk-v-4289
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/legend-black-v-4602
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/legend-bronze-v-4601

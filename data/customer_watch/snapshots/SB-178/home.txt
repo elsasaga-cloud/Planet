@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -23,11 +23,11 @@ Dojazd
 Serwis
 Kontakt
 Kategorie
-Access Pointy (658)
+Access Pointy (659)
 Akcesoria (437)
-Akcesoria GSM/LTE (374)
+Akcesoria GSM/LTE (375)
 Anteny (376)
-Automatyka i Przemysł (442)
+Automatyka i Przemysł (443)
 Części serwisowe (161)
 Elektryka (13)
 Inteligentny dom (90)
@@ -41,15 +41,15 @@ Platformy WLAN (2)
 Radiolinie (85)
 Routery (183)
 Routery ADSL (5)
-Światłowody (1706)
+Światłowody (1707)
 Switche (681)
 Szafy rack 10/19 cali (498)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
-Zasilanie (831)
+Zasilanie (832)
 Zdrowie (10)
 Złącza (243)
-MikroTik (403)
+MikroTik (406)
 Solarix (139)
 Teltonika (392)
 Tenda (175)
@@ -148,7 +148,7 @@ Mean Well (67)
 Merawex (8)
 Mercusys (35)
 Microsoft (1)
-MikroTik (517)
+MikroTik (520)
 Mimosa (24)
 Modecom (2)
 MW Power (74)
@@ -291,42 +291,44 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-IP-COM Pro-S24-410W
-1 291,50 zł z VAT
-1 620,53 zł
-1 050,00 zł netto
+Uchwyt kablowy KO12, na przewód okrągły ø 12 mm
+6,03 zł z VAT
+10,46 zł
+4,90 zł netto
 szt
-Najniższa cena z 30 dni: 1 620,53 zł
-Drzwiczki rewizyjne, 400x300
-60,27 zł z VAT
-70,11 zł
-49,00 zł netto
+Najniższa cena z 30 dni: 10,46 zł
+Wisnetworks WIS-ANS5819-120 MIMO Sector
+307,50 zł z VAT
+460,51 zł
+250,00 zł netto
 szt
-Najniższa cena z 30 dni: 70,11 zł
-TP-Link Deco X10
-207,87 zł z VAT
-300,99 zł
-169,00 zł netto
+Najniższa cena z 30 dni: 460,51 zł
+Tenda TEG1124P-24-250W
+762,60 zł z VAT
+799,50 zł
+620,00 zł netto
 szt
-Najniższa cena z 30 dni: 300,99 zł
-Interline SECTOR HP
-92,25 zł z VAT
-202,95 zł
-75,00 zł netto
+Najniższa cena z 30 dni: 799,50 zł
+Ambit Atheros 5213A, 802.11 a/b/g
+12,30 zł z VAT
+39,36 zł
+10,00 zł netto
 szt
-Najniższa cena z 30 dni: 202,95 zł
-Tenda G103 Gigabit GPON Terminal SC/PC
-97,17 zł z VAT
-113,16 zł
-79,00 zł netto
+Najniższa cena z 30 dni: 39,36 zł
+WYPRZEDAŻ
+SparkLAN WMIA-166AG
+11,07 zł z VAT
+86,04 zł
+9,00 zł netto
 szt
-Najniższa cena z 30 dni: 113,16 zł
-Tenda IT6-PCS kamera 3MP UHD PoE
-159,90 zł z VAT
-173,80 zł
-130,00 zł netto
+Najniższa cena z 30 dni: 86,04 zł
+WYPRZEDAŻ
+Pigtail MMCX - N/ż [short head] (20 cm)
+12,18 zł z VAT
+18,94 zł
+9,90 zł netto
 szt
-Najniższa cena z 30 dni: 173,80 zł
+Najniższa cena z 30 dni: 18,94 zł
 Najnowsze propozycje
 NOWOŚĆ
 Cudy WR3600E
@@ -354,25 +356,25 @@ TP-Link Fusion 2.5G PoE
 szt
 NOWOŚĆ
 Ubiquiti AI Horn Speaker (UP-AI-Horn-Speaker-B)
-1 375,02 zł z VAT
-1 117,90 zł netto
+1 376,76 zł z VAT
+1 119,32 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 638,04 zł z VAT
-6 209,79 zł netto
+7 647,78 zł z VAT
+6 217,71 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
-1 577,23 zł z VAT
-1 282,30 zł netto
+1 579,23 zł z VAT
+1 283,93 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Tenda CP6 obrotowa kamera do monitoringu domowego
-79,40 zł z VAT
-64,55 zł netto
+Cudy BU530
+20,75 zł z VAT
+16,87 zł netto
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
@@ -384,5 +386,4 @@ Poczta: zgodnie z cennikiem
 Zlokalizuj przesyłkę DHL
 Zlokalizuj przesyłkę FedEx
 Zlokalizuj przesyłkę InPost
-Zlokalizuj Paczkę Pocztową
-D
+Zlokalizuj Paczkę Po

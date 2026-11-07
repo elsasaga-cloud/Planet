@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · news_1 · https://tipteh.com/current-news/ · fetched 2026-11-05T09:39:48Z · HTTP 200
+# SB-1088 tipteh.com · news_1 · https://tipteh.com/current-news/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Current News - Tipteh
 Search for: Search Button
 Skip to content
@@ -108,34 +108,34 @@ Ulica Ivana Roba 23
 1000 Ljubljana
 Slovenia
 +386 (0)1 200 5150
-info@tipteh.si
+[email protected]
 tipteh.com/si
 Tipteh d.o.o. Beograd
 Moše Pijade 17a
 11224 Vrčin, Belgrade
 Serbia
 +381 (0)11 8053 628
-info@tipteh.rs
+[email protected]
 tipteh.com/rs
 Tipteh d.o.o. Sarajevo
 Ramiza Salčina 246
 71000 Sarajevo
 Bosnia and Hercegovina
 +387 33 452 427
-info@tipteh.ba
+[email protected]
 tipteh.com/ba
 Tipteh d.o.o. Skopje
 Bul. Partizanski оdredi 80 lok.5, 1000 Skopje
 North Macedonia
 +389 2 31 74 197
-info@tipteh.mk
+[email protected]
 tipteh.com/mk
 Tipteh Zagreb d.o.o.
 Štrokinec 7
 10000 Zagreb
 Croatia
 +385 (0)1 314 1550‎
-tipteh@tipteh.hr
+[email protected]
 tipteh.com/hr
 Contact us
 Home

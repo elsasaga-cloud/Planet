@@ -1,4 +1,4 @@
-# SB-322 Blackbear TechHive · feed_auto · https://blackbear-ics.com/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-322 Blackbear TechHive · feed_auto · https://blackbear-ics.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Tue, 04 Aug 2026 05:28:16 +0000	Secure Cold Chain Operations with BlackBear Intelligent Gateway	https://blackbear-ics.com/secure-cold-chain-operations-with-blackbear-intelligent-gateway/
 Thu, 09 Jul 2026 02:58:23 +0000	Make work harder for testers and hackers	https://blackbear-ics.com/make-work-harder-for-testers-and-hackers/
 Fri, 26 Jun 2026 08:39:04 +0000	FPGA data diodes for hardware-based OT cybersecurity	https://blackbear-ics.com/fpga-data-diodes-for-hardware-based-ot-cybersecurity/

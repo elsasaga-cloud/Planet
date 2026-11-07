@@ -1,4 +1,4 @@
-# SB-019 aetektec.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCFX36NuXabiRml5YPXDVO2g · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-019 aetektec.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCFX36NuXabiRml5YPXDVO2g · fetched 2026-11-07T08:57:10Z · HTTP 200
 2025-07-01T09:59:33+00:00	Wide-Range 12-48VDC Input Industrial L2 PRO PoE Solutions with Additional 12/24VDC Power Output	https://www.youtube.com/watch?v=oPrtfHuk--A
 2025-02-14T02:24:50+00:00	90W bt PoE w/ Adjustable 24V/56VDC Passive PoE Solutions for Wireless Video Surveillance	https://www.youtube.com/watch?v=4fYn7NUvH14
 2024-11-20T08:45:15+00:00	AETEK MIPI for Milestone XProtect Plugin	https://www.youtube.com/watch?v=t7nlLrfPc4M

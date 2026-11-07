@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,31 +429,7 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-Conversor de Mídia 1 Porta RS-485 para 1 Porta Fibra Dupla Multimodo - LRI-MC-485MM
-R$ 714,00
-R$
-692 , 58
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Industrial 8 Portas Gigabit Gerenciável L2+ e 4 Portas SFP com Alimentação Redundante LRI-SW-8G4S1C
-R$ 1.959,00
-R$
-1.900 , 23
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 8 Portas SFP - LRI-SW-16G8S1C
-R$ 3.540,00
-R$
-3.433 , 80
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
+Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
 R$ 549,00
 R$
 532 , 53
@@ -461,7 +437,34 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
+RS-25 Fonte CA CC 25W Miniatura Alta Eficiência MeanWell
+R$ 109,49
+R$
+106 , 21
+à vista
+com desconto Pix - Vindi
+Ver opções
+Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Monomodo SC 20km - LRI-MC-1G1SM20
+R$ 375,00
+R$
+363 , 75
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
+R$ 720,00
+R$
+698 , 40
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Lançamentos
+1-Wire Sensor de Corrente TSC200-15
+Sob consulta
+Saiba mais
+Pedir cotação
 Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
 R$ 990,00
 R$
@@ -470,18 +473,18 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Módulo de Controle de Relé Remoto TCW122B-RR
-Sob consulta
-Saiba mais
-Pedir cotação
 Sensor Magnético de Porta TSD800
 Sob consulta
 Saiba mais
 Pedir cotação
-Módulo de Entrada 60V TSA202-60
-Sob consulta
-Saiba mais
-Pedir cotação
+Módulo E/S Remoto TCW122B-CM Suporta SNMP
+R$ 1.051,31
+R$
+1.019 , 77
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Depoimentos
 Nome: Djalma Filho
 Avaliação: Positivo
@@ -544,5 +547,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.163 secs - 06-11-2026  - node: commerce-web5-tiny-lw - store
+Load time: 1.267 secs - 07-11-2026  - node: commerce-web2-bot-lw - store
 ×

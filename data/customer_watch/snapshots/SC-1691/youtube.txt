@@ -1,4 +1,4 @@
-# SC-1691 alfacomp.net · youtube · https://www.youtube.com/user/alfacompbrasil · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-1691 alfacomp.net · youtube · https://www.youtube.com/user/alfacompbrasil · fetched 2026-11-07T08:57:10Z · HTTP 200
 2026-11-05T14:38:45+00:00	Como usar Modbus Read e Modbus Write nos CLPs Haiwell | Tutorial Alfacomp	https://www.youtube.com/watch?v=Zyy4wKNFGfI
 2026-10-06T15:58:08+00:00	Case Alfacomp | Como a Schmidt Automação usa Haiwell para integrar sistemas abertos	https://www.youtube.com/watch?v=albzKR4bs1M
 2026-08-25T11:33:40+00:00	Do sensor ao supervisório: automação de cisternas para água da chuva | Alfacomp x Vika Controls	https://www.youtube.com/watch?v=oNWym0WY_bU

@@ -1,4 +1,5 @@
-# SA-007 GoGreenIT（英国 Derby，Chris Clemson；自托管 Mastodon/PeerTube/XMPP） · chewie_rss · https://mammut.gogreenit.net/@chewie.rss · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SA-007 GoGreenIT（英国 Derby，Chris Clemson；自托管 Mastodon/PeerTube/XMPP） · chewie_rss · https://mammut.gogreenit.net/@chewie.rss · fetched 2026-11-07T08:57:10Z · HTTP 200
+Fri, 06 Nov 2026 15:44:09 +0000		https://mammut.gogreenit.net/@chewie/117570263430691648
 Thu, 05 Nov 2026 16:19:36 +0000		https://mammut.gogreenit.net/@chewie/117564740494569157
 Mon, 02 Nov 2026 20:34:51 +0000		https://mammut.gogreenit.net/@chewie/117548757255774287
 Sat, 31 Oct 2026 13:05:01 +0000		https://mammut.gogreenit.net/@chewie/117535663797499191
@@ -18,4 +19,3 @@ Thu, 22 Oct 2026 14:05:16 +0000		https://mammut.gogreenit.net/@chewie/1174849399
 Tue, 20 Oct 2026 17:38:10 +0000		https://mammut.gogreenit.net/@chewie/117474452468416468
 Tue, 20 Oct 2026 12:16:58 +0000		https://mammut.gogreenit.net/@chewie/117473189452483413
 Mon, 19 Oct 2026 11:37:44 +0000		https://mammut.gogreenit.net/@chewie/117467372871057706
-Mon, 19 Oct 2026 11:01:11 +0000		https://mammut.gogreenit.net/@chewie/117467229175073582

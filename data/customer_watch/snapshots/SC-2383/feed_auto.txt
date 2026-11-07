@@ -1,4 +1,4 @@
-# SC-2383 3grouterstore.co.uk · feed_auto · https://routerstore.com/feed/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-2383 3grouterstore.co.uk · feed_auto · https://routerstore.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Mon, 19 Oct 2026 10:44:27 +0000	IoT SIM cards for vending machines: multi-network 4G for cashless and telemetry	https://routerstore.com/iot-sim-cards-for-vending-machines/
 Tue, 06 Oct 2026 13:09:18 +0000	Lift SIM cards: multi-network 4G VoLTE SIMs for lift autodiallers	https://routerstore.com/lift-sim-cards/
 Tue, 04 Aug 2026 14:01:08 +0000	Teltonika RUTX50 end of life: what it means and how to plan your upgrade	https://routerstore.com/teltonika-rutx50-end-of-life/

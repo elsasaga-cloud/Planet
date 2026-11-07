@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -157,7 +157,7 @@ Síguenos en
 MX +52 614 415-2525
 US +1 915 533-5119
 CO +57 601 744-3650
-Contacto Pre-registro WhatsApp Messenger Ventas Ayuda SYSCOM México
+Contacto Pre-registro WhatsApp Messenger Ventas Ayuda MCP - Agentes AI SYSCOM México
 Contacto
 México: +52 (614) 415-2525 Estados Unidos: +1 (915) 533-5119 Colombia: +57 (601) 744-3650
 Contacto WhatsApp Messenger ventas@syscom.mx ayuda@syscom.mx
@@ -170,46 +170,47 @@ Carrito
 Productos
 Noticias
 Ver todas
-Nicolas · 11h · Videovigilancia
+Victor · 10h · Alarmas e Intrusión
+El control de tu alarma, sin cuotas ni licencias
+El módulo de comunicación DX FULL WIFI conecta el panel de alarma a internet por WiFi y envía cada evento al instante por notificación push a la app Full Control. No requiere licencia ni pago mensual: solo el equipo.
+Permite activar y desactivar el panel a distancia y controlar 2 salidas domóticas para luces o portones. Programación web, doble banda 2.4 GHz y compatibilidad con cualquier central que hable Contact ID.
+Conoce el DX FULL WIFI
+Gregorio · 14h · Audio e Intercom
+El ruido de la oficina se queda afuera: llegaron las Yealink UH34
+La familia UH34 viene en tres versiones: Lite Dual Teams con ANC híbrido e IA, Dual Teams y Dual UC, todas con audio HD, USB plug-and-play y diseño ergonómico para jornadas completas. La Lite suma altavoz de 35 mm, almohadillas viscoelásticas y certificación Microsoft Teams Premium; la UC agrega brazo flexible de 320° y protección auditiva Active Protection. Compatibles con Windows, Mac y Linux.
+Conoce la familia UH34
+Luis · 17h · Control de Acceso
+El repuesto que devuelve la barrera a operación en minutos
+El cuadro de mando 366002400 es la tarjeta de control de las barreras Hikvision serie DS-TMG300: se configura con el botón frontal, sin software, y admite sensores de lazo magnético y entrada de sensor de seguridad.
+Suma salida de alarma para eventos y formato compacto para reemplazo directo en campo. Cuando la barrera deja de responder, este es el módulo que la revive.
+Revive tu barrera TMG300
+Nicolas · 18h · Videovigilancia
+ColorVu 3.0 llega a la bala DS-2CD1027G3-LIUF de Hikvision
+La nueva bala de 2 MP abre a F1.0 y baja a 0.001 lux, así que entrega imagen a color incluso de madrugada. Su Dual Light combina IR y luz blanca de 30 m: IR cuando no hay nadie, luz blanca al detectar personas o vehículos.
+Suma Detección de Movimiento 3.0, micrófono integrado, H.265+, IP67 y PoE. Con un NVR /VPRO habilita AcuSeek.
+Conoce la bala ColorVu 3.0 de Hikvision
+Rafael · 18h · Redes
+16 puertos PoE+ y 240 W para redes de tamaño medio
+El GWN7802P alimenta y conecta teléfonos, cámaras y access points por el mismo cable, con 4 uplinks SFP para fibra y administración en GWN Cloud. Montable en rack 19".
+Conoce el GWN7802P de Grandstream
+Nicolas · 1d · Videovigilancia
 Una cámara que también disuade: la turret TurboHD DS-2CE73DF0T-LXTS
 Hikvision suma a su línea TurboHD una turret de 2 MP que graba a color 24/7 con apertura F1.0 y 0.001 lux de iluminación mínima. Ante un evento activa sirena y luz estroboscópica roja/azul.
 Su audio bidireccional SoundMax permite escuchar y hablar a distancia desde la app, con cancelación de eco. Luz dual IR y blanca de 40 m, IP67 y 3D DNR.
 Conoce la turret con sirena de Hikvision 1
-Ruben · 14h · Drones
+Ruben · 1d · Drones
 Llega a donde nadie más puede llegar: altavoz MP130 Pro de CZI
 El MP130PRO transmite voz en vivo y reproduce grabaciones desde el aire con un alcance de 700 metros, cuenta con luz de advertencia multicolor. Para rescate, control de multitudes y alertamiento en zonas de difícil acceso. Compatible con DJI Matrice M300, M350 y M400.
 Conoce el MP130 Pro de CZI
 LW
-Lydia · 17h · Videovigilancia
+Lydia · 1d · Videovigilancia
 Hikvision Noviembre 2026: DVR Guanlan 3 en 1, AcuSeek y UPS
 Un DVR con 3 funciones de IA a la vez, NVR AcuSeek que encuentra lo que buscas en meses de video, UPS, cámaras para proyectos, control de acceso y alarmas. En noviembre: AxHybrid Pro con 20 % de descuento y equipos demo al 50 %.
 Ve las soluciones de noviembre 1
-Fernando · 17h · Redes
+Fernando · 1d · Redes
 El switch exterior que ya conoces, ahora con gestión L2+
 El WI-PCMS310GF-O V2 lleva la instalación a la intemperie un paso más allá: 8 puertos Gigabit PoE++ (90 W en los 2 primeros), 110 W de presupuesto y administración L2+ desde la nube — ERPS, ACL y QoS sin entrar al sitio. De -30°C a 60°C: mismo concepto sin gabinete, para redes que crecen.
 Conoce el WI-PCMS310GF-O V2
-Rafael · 18h · Redes
+Rafael · 1d · Redes
 48 puertos PoE+ y fibra SFP+ para la red del corporativo
-El GWN7806P conmuta hasta 400 W para alimentar toda una planta de dispositivos y ofrece 6 uplinks SFP+ para fibra. Compatible con GWN Cloud, se administra desde la nube sin costo adicional.
-Conoce el GWN7806P de Grandstream
-Leopoldo · 18h · Cableado Estructurado
-Kramer CA-HM-50: cable HDMI activo de 15 metros que mantiene el 4K sin caídas
-Cable HDMI activo de 15.2 m (50 ft) con 4K@60Hz, HDR y triple blindaje. La tecnología activa amplifica la señal en el trayecto para llegar intacta a distancias donde los cables pasivos pierden calidad. Conectores con K-Lock para fijación segura en racks y paredes. Ideal para proyectores de techo, pantallas grandes y salas de juntas donde la fuente queda lejos.
-Conoce el HDMI activo de 15 m de Kramer
-Adrian · 1d · Telefonía IP
-Diadema DECT que no se rinde: Fanvil DH301D
-La DH301D combina DECT 6.0 y Bluetooth 5.3 en modo dual, con cancelación de ruido por IA y audio HD para llamadas limpias. Alcance de 200 m en interiores y 300 m en exteriores, batería reemplazable y resistencia IPX7: pensada para almacenes, plantas y contact center donde el turno no se detiene. Incluye base de carga y botón de emergencia de alta sensibilidad.
-Conoce la diadema DH301D
-Axel · 1d · Redes
-Nuevos switches core para ISPs con enlaces de fibra óptica de hasta 100 Gbps.
-Los Huawei eKitEngine S630 llegan en versiones S630-24X6C y S630-48X6C, con 6 puertos 100GE y 24 o 48 puertos 10GE para el core de tu red. Lo mejor: son libres de licenciamiento, sin costos extra por funcionalidad.
-Conoce los switches S630
-Rafael · 1d · Radios
-Te perdiste la entrevista con Cambium Networks
-La conversación completa ya está disponible en YouTube. Repásala para enterarte de las novedades de la marca en enlaces punto a punto, punto multipunto y redes inalámbricas para integradores.
-Mírala cuando quieras y mantente al tanto de lo que viene para la marca.
-Ve la entrevista completa 1
-Bryan · 1d · Cableado Estructurado
-Cursos nVent Hoffman en noviembre: Mérida, Chihuahua y San Luis Potosí
-Agenda presencial de noviembre: infraestructura, energía, climatización y monitoreo para centros de datos (Mérida 10-nov y San Luis Potosí 24-nov) y dimensionamiento e instalación de climatización industrial en gabinetes con estándar IEC y NEMA (Chihuahua 11-nov). Cupo limitado.
-Consulta la a
+El GWN7806P

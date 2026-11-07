@@ -1,4 +1,4 @@
-# SC-3130 tvc.mx · sitemap · https://tvc.mx/sitemap.xml · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-3130 tvc.mx · sitemap · https://tvc.mx/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
 	https://tvc.mx/terms
 	https://tvc.mx/privacy
 	https://tvc.mx/our-brands

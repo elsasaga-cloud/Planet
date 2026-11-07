@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-06T09:32:27Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-07T08:57:10Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -207,7 +207,6 @@ Honeywell Security
 Inim
 Inim Certified
 Orisec
-Paradox
 RISCO
 Detection
 acre
@@ -374,6 +373,7 @@ Ajax
 Axis Communications
 Bysecur
 Dahua
+Flir
 GJD
 Hanwha
 Hikvision
@@ -556,8 +556,10 @@ Axis Communications
 Bosch Fire
 ComNet
 Dahua
+Digitus
 elbaC - Alpha
 Etherwan
+Flir
 Hanwha
 Hikvision
 IQsight
@@ -594,13 +596,14 @@ Axis Communications
 Dahua
 Hanwha
 Hikvision
+TVT
 SIM IoT Services
 Ajax
 Cellhire
 Tele2 IoT
 Accesories
+Alpha
 Axis Communications
-Bysecur
 ComNet
 Davantis
 Dell
@@ -608,10 +611,8 @@ elbaC - Alpha
 Genetec
 Hikvision
 Infosec
-IQsight
 Neomounts
 NVT
-Pulsar
 Veracity
 Intercom
 Brands
@@ -882,6 +883,7 @@ Kidde
 Morley
 Neutronic
 Notifier
+X-Sense
 Detection
 acre
 Ajax Certified
@@ -1011,6 +1013,7 @@ IZYX SYSTEMS
 Mean Well
 Netgear
 Network Optix
+Neutronic
 NVT
 Optex
 Paxton
@@ -1091,6 +1094,7 @@ STid
 Tecnovideo
 Veracity
 Connectors & couplings
+Aten
 Axis Communications
 Bysecur
 Dahua
@@ -1100,6 +1104,7 @@ Hanwha
 Hikvision
 NVT
 SeeEyes
+Veracity
 Vivotek
 Cabinets & brackets
 Ajax

@@ -1,4 +1,4 @@
-# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Nauji produktai - Katalita.lt
 0
 Turite klausimų? Tel: +370 603 03213 ,
@@ -347,6 +347,9 @@ TELTONIKA ENERGY, UAB
 TELTONIKA TELEMATICS, UAB
 Your browser does not support the video tag.
 Nauji produktai
+2026-11-06
+TP-LINK AX5400 Ceiling Mount WiFi 6 Access Point (EAP673)
+1x 2.5 Gigabit LAN port (supports IEEE802.3at PoE) | Antennas: 2.4 GHz: 2× 4 dBi and 5 GHz: 4× 5 dBi | Wi-Fi 6 | Wireless Standards: IEEE 802.11ax/ac/n/g/b/a | Simultaneous 574 Mbps on 2.4GHz and 4804 Mbps on 5GHz totals 5378 Mbps Wi-Fi speeds | Free Omada App, Centralized Management, Cloud Access
 2026-10-29
 MIKROTIK IoT Gateway KNOT HL9 (L14G-2ax-BT5-HL9&EG800Q)
 HaLow 915 MHz | CAT1 bis LTE modem | NanoSIM/eSIM | Wi-Fi 6 2.4 GHz wireless (802.11b/g/n/ax) | Bluetooth (V5.1) | Gigabit Ethernet | PoE-In (af/at) & surge protection | Multi- GNSS GPS | IP66 | Router OS (Licence level 4)
@@ -380,8 +383,4 @@ UBIQUITI UniFi Protect G6 Mini Dome Camera, White (UVC-G6-Mini-Dome-W)
 2026-09-25
 UBIQUITI UniFi Protect G6 Mini Dome Camera, Black (UVC-G6-Mini-Dome-B)
 4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-22
-TP-LINK Omada 4G+ Cat6 AX3000 Wi-Fi 6 Vidau/Lauko Sąlygų Šliuzas (ER703WP-4G-Outdoor)
-4G+ Cat6 iki 300 Mbps | 1x nano SIM kortelės lizdas | 3x gigabitinės RJ45 LAN/WAN jungtys (2 × PoE Out, 1 × PoE In) | AX3000 Wi-Fi 6 su 2402 Mbps per 5 GHz ir 574 Mbps per 2.4 GHz | 802.3at/bt PoE arba 12V/2A DC maitinimas | WPA3 | IP55 pritaikytas lauko sąlygom
-2026-09-18
-U
+2026

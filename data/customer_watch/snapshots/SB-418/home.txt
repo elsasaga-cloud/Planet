@@ -1,4 +1,4 @@
-# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 ﻿
 Atel Electronics - Import i dystrybucja
 Ta strona wykorzystuje pliki cookies w celu świadczenia usług, dostosowania serwisu do preferencji użytkowników oraz w celach statystycznych i reklamowych.
@@ -7,115 +7,115 @@ Kontynuując, przyjmujemy Twoją zgodę na wdrażanie plików cookies i ich zapi
 MENU
 dostarczamy nowoczesne technologie
 tel.: 77 455 60 76 | cust@atel.com.pl
-Piątek, 6 listopada
+Sobota, 7 listopada
 [ Zaloguj się ]
-Urządzenia zgodne z normą kolejową EN50155
-Konsole LCD KVM, Przełączniki KVM - kat.5, IP - WaveKVM
-Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
-Kabel UTP i FTP, Skrętka, kat. 5e, 6, 6a, 7 - WAVE CABLES
-Przewody koncentryczne H155, RG174, RG213, RG58, RG59, RG6
 VUTLAN - Monitoring parametrów środowiskowych Serwerowni
+Konsole LCD KVM, Przełączniki KVM - kat.5, IP - WaveKVM
 Termometr bezdotykowy, bezdotykowy pomiar temperatury ciała
+Kabel UTP i FTP, Skrętka, kat. 5e, 6, 6a, 7 - WAVE CABLES
+Sieci Przemysłowe - ORing Industrial Networking
+Patchcordy światłowodowe, pigtaile, adaptery, złącza, tłumiki - WAVE OPTICS
+Urządzenia zgodne z normą kolejową EN50155
+SFP, SFP+, SFP28, QSFP+, QSFP28, GBIC
+Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
 PATCHCORDY, miedziane i światłowodowe
 Ekonomiczne Kamery Termowizyjne
-Sieci Przemysłowe - ORing Industrial Networking
-SFP, SFP+, SFP28, QSFP+, QSFP28, GBIC
-Patchcordy światłowodowe, pigtaile, adaptery, złącza, tłumiki - WAVE OPTICS
-#06091
-4 800,00 PLN
-Konsola KVM LCD Full HD, Wave KVM, 17", 8-portowy KVM HDMI, 1U, pojedyncza szyna / KVM
-#04133
-36,50 PLN
-Patchcord SC/UPC-SC/UPC, MM, 50/125, dupleks, włókno OM3, 20 m / Patchcordy światłowodowe
+Przewody koncentryczne H155, RG174, RG213, RG58, RG59, RG6
+#03322
+5,90 PLN
+Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 0,5 m / Patchcordy światłowodowe
 #03144
 2 170,00 PLN
 Vutlan VT604G, Kontroler IP 19" 1U 4x230V; 2x analog; 2x wejścia bezpotencjałowe; 1x CAN / Monitoring Serwerowni
-#09770
-883,00 PLN
-Brama sieciowa Omada Fusion 2.5G (TP-Link Fusion 2.5G) / Routery
-7,60 PLN
-#03326
-Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 5 m
-27,40 PLN
-#04119
-Patchcord LSH/UPC-LSH/UPC, SM, 9/125, simpleks, włókno G652D, 3 m
-10,60 PLN
-#03308
-Patchcord SC/UPC-SC/UPC, MM, 50/125, dupleks, włókno OM2, 0,5 m
-275,00 PLN
-#09760
-Trzypasmowa bezprzewodowa karta sieciowa USB BE6500, standard BE, 6500Mbps, Wi-Fi 7 (TP-Link Archer TBE400U Plus)
-26,70 PLN
-#04117
-Patchcord LSH/UPC-LSH/UPC, SM, 9/125, simpleks, włókno G652D, 1 m
-10,90 PLN
-#03313
-Patchcord SC/UPC-SC/UPC, SM, 9/125, dupleks, włókno G652D, 0,5 m
+#09772
+750,00 PLN
+Switch zarządzalny, 8x 2,5G, 1x slot 10G SFP+, PoE++, 19" (TP-Link ES210XPP-M2) / Switche
+#04111
+33,20 PLN
+Patchcord LSH/APC-LC/UPC, SM, 9/125, dupleks, włókno G652D, 1 m / Patchcordy światłowodowe
+574,00 PLN
+#09773
+Switch zarządzalny, 5x 2,5G, 1x slot 10G SFP+, PoE++, 19" (TP-Link ES206XPP-M2)
+5,00 PLN
+#04136
+Adapter światłowodowy LC/UPC quad, OM3, wielomodowy
+1 750,00 PLN
+#06571
+ORing IGS-3084GP-LA, Switch zarządzalny, 8x 10/1000 RJ-45 + 4 sloty SFP / RJ-45, O/Open-Ring <30ms, obudowa slim
+742,00 PLN
+#07292
+Przewód S/FTP (PiMF) Wave Cables, kat.6A, wewnętrzny, szary, LSOH/LSZH, 4x2x26 AWG, Cu, 305 m, linka
+1 130,00 PLN
+#09753
+Router Mesh Deco X10-5G 1-pack, AX1500 (TP-Link DECO X10-5G(1-Pack))
+4 450,00 PLN
+#06093
+Konsola KVM LCD Full HD, Wave KVM, 19", 1-portowy KVM HDMI, 1U, pojedyncza szyna
 więcej nowości »
-#09758
-560,00 PLN
-551,00 PLN
-Przenośny hotspot LTE-Advanced (TP-Link M7400) / Standard N
-#06240
-121,00 PLN
-119,00 PLN
-TP-Link TL-WR902AC, Nano router bezprzewodowy standard AC 750Mbps / Standard AC
-#09558
-386,00 PLN
-380,00 PLN
-TP-Link EAP723, Gigabitowy bezprzewodowy punkt dostępowy, BE3600, 3600Mbps / 802.11bx (WiFi 7)
-#09627
-354,00 PLN
-349,00 PLN
-TP-Link RE235BE, Wzmacniacz sygnału bezprzewodowego, BE3600, 3600Mb/s / 802.11bx (WiFi 7)
-#08536
-53,90 PLN
-53,00 PLN
-Moduł SFP/miniGBIC, 1Gb, LC SM, 10km, TX:1310nm (TP-Link TL-SM311LS) / Moduły SFP, SFP28, QSFP, GBIC
-53,90 PLN 53,00 PLN
-#08536
-Moduł SFP 1x 1000 Mbps LC SM, 10 km, TX: 1310 nm (TP-Link TL-SM311LS)
-48,30 PLN 47,40 PLN
-#09554
-Adapter USB-A(M) na SD/microSD 3.0, Czytnik kart (TP-Link UA430)
-1 230,00 PLN 1 200,00 PLN
-#09124
-Kontroler Omada Cloud (TP-Link OC300)
-237,00 PLN 233,00 PLN
-#09579
-Bezprzewodowy router dwupasmowy Dual-band BE3600, standard BE, 3600Mb/s (TP-Link Mercusys MR25BE)
-36,90 PLN 36,30 PLN
-#09159
-Bezprzewodowa żarówka LED Smart RGB ze ściemniaczem (TP-Link Tapo L530E)
-2 130,00 PLN 2 100,00 PLN
-#09656
-Bezprzewodowy router trzypasmowy Tri-band BE19000, standard BE, 19000Mb/s, port 10G, MU-MIMO (TP-Link Archer BE805)
+#03147
+290,00 PLN
+217,00 PLN
+Vutlan LR530, Bezprzewodowy czujnik dostępu i temperatury LoRaWAN / Monitoring Serwerowni
+#08391
+132,00 PLN
+124,00 PLN
+Analogowy czujnik wibracji (Vutlan VT540) / Monitoring Serwerowni
+#08370
+46,40 PLN
+30,00 PLN
+Magnetyczny czujnik dostępu (Vutlan KMS-30) / Monitoring Serwerowni
+#03120
+264,00 PLN
+155,00 PLN
+Moduł Modbus (Vutlan VT485m) / Monitoring Serwerowni
+#03128
+150,00 PLN
+73,50 PLN
+Moduł bateryjny (Vutlan VT-BAT) / Monitoring Serwerowni
+150,00 PLN 73,50 PLN
+#03128
+Moduł bateryjny (Vutlan VT-BAT)
+250,00 PLN 190,00 PLN
+#03146
+Bezprzewodowy czujnik temperatury i wilgotności LoRaWAN (Vutlan LR490)
+380,00 PLN 372,00 PLN
+#08154
+Analogowy czujnik napięcia DC (Vutlan VT410 75V)
+62,00 PLN 54,20 PLN
+#03151
+Przyłącze 5m do czujników Vutlan 6P4C AWG24
+345,00 PLN 194,00 PLN
+#03127
+Moduł akumulatorowy (Vutlan VT-ACCU)
+39,00 PLN 34,80 PLN
+#03150
+Przyłącze 3m do czujników Vutlan 6P4C AWG24
 więcej obniżek »
 Wyprzedaż produktów poserwisowych i poekspozycyjnych OUTLET
 Informujemy Państwa o wyprzedaży pełnosprawnych produktów poserwisowych i poekspozycyjnych. Teraz mogą Państwo nabyć, w wyjątkowo atrakcyjnej cenie , produkty nie odbiegające funkcjonalnością od ich nowych odpowiedników. Szczegółów na temat towarów poserwisowych udzielą Państwu pracownicy Działu Handlowego. więcej»
 Produkty firm:
-VUTLAN
+ORING NETWORKING
 NAJPOPULARNIEJSZE
 Mastech MS6818 - Profesjonalny lokalizator przewodów, rur, metalu / Lokalizatory i detektory
 MASTECH
 Szafa rack 12U, wisząca, 19", 440mm gł., drzwi szklane / Szafy rack
-NOYAFA NF-8209, Tester okablowania RJ45, PoE, LCD / Testery okablowania
-NOYAFA
 Patchcord światłowodowy, MM SC/UPC-SC/UPC, 50/125, dupleks, OM2 1m / Patchcordy światłowodowe
 WAVE OPTICS
+NOYAFA NF-8508, Tester okablowania i miernik mocy optycznej LCD, RJ-45, RJ-11, z szukaczem par, pióro świetlne VFL / Testery okablowania
+NOYAFA
 Patchcord, UTP, kat.5e, 1,0m, szary / Patchcordy
 Wtyk RJ-45, rj45, 8p8c, kat5e, na przewód okrągły, drut, UTP / Złącza modularne męskie, osłony
 Termometr bezdotykowy, do pomiaru temperatury ciała, HT11D / Pirometry
 Kabel UTP, Skrętka, kat5e, wewnętrzny, szary, drut miedziany 24AWG, rolka 305m / Skrętka
 WAVE CABLES
 Listwa zasilająca rack 19", 9 gniazd, z wyłącznikiem / Listwy zasilające
-Fluke Networks PRO 3000 - Szukacz par przewodów / Szukacze par przewodów
-FLUKE NETWORKS
 Zaciskarka 10p, RJ45, RJ12, RJ11, RJ10, RJ9, czołowa, Hanlong HT-200AR, AteCom / Zaciskarki złączy modularnych
 HANLONG
-Adapter światłowodowy SC/APC duplex, jednomodowy / Adaptery światłowodowe
-WAVE OPTICS
+Fluke Networks PRO 3000 - Szukacz par przewodów / Szukacze par przewodów
+FLUKE NETWORKS
 Złącze światłowodowe jednomodowe SC/APC, odgiętka 3,0 mm / Złącza światłowodowe
+WAVE OPTICS
+Adapter światłowodowy SC/APC duplex, jednomodowy / Adaptery światłowodowe
 WAVE OPTICS
 O firmie
 Atel Electronics
@@ -178,7 +178,7 @@ WAVE INDUSTRIAL
 WAVE KVM
 WAVE OPTICS
 TAGI:
-PoE plus , przewód utp , keystone , miernik jakości powietrza , patchcord , miernik elektryczny , patch cord utp , patchpanel , oring switch , przełącznik kvm , zaciskarka bnc , utp 5e , przewód koncentryczny , szafy serwerowe , kabel skrętka , kabel utp kat 6 , zaciskarka do konektorów , switch , SFP+ , patchcord 6a , skrętka utp , rejestrator temperatury , multimetry , SFP28 , slot SFP , detektor przewodów , IEC 61850-3 , miernik uniwersalny , IEC 62443-4-2 , przewody koncentryczne , szafa serwerowa , miernik cęgowy , szafa rack 19 , kabel koncentryczny , multimetr , Smart Grid , utp kabel , zaciskarka rj45 , keystone , LSOH , PoE , skrętka kat 6 , SFP , szafy teleinformatyczne , True RMS , FTTH , 8p8c , kabel utp , kabel ftp , kabel antenowy , utp lsoh , EN50155 , pirometr , switch przemysłowy , mierniki cęgowe , ZigBee , opaski kablowe , patch panel , anteny lte , pigtail , LSZH , switch M12 , kamery termowizyjne , kabel światłowodowy , LoRa , szafa rack , UniFi , switch poe , M12 , lsa , sfp wdm , switch zarządzalny
+kabel utp , miernik elektryczny , switch poe , kabel skrętka , PoE , M12 , multimetry , PoE plus , switch , LSZH , przełącznik kvm , miernik uniwersalny , patch panel , multimetr , kabel koncentryczny , True RMS , miernik cęgowy , SFP28 , 8p8c , miernik jakości powietrza , switch przemysłowy , SFP+ , zaciskarka rj45 , utp 5e , szafa rack 19 , patchcord , mierniki cęgowe , skrętka kat 6 , keystone , oring switch , przewody koncentryczne , kabel światłowodowy , IEC 61850-3 , utp lsoh , szafa serwerowa , sfp wdm , SFP , zaciskarka do konektorów , pirometr , Smart Grid , EN50155 , utp kabel , keystone , slot SFP , patchpanel , patchcord 6a , przewód koncentryczny , FTTH , switch zarządzalny , kamery termowizyjne , szafy serwerowe , przewód utp , kabel antenowy , patch cord utp , detektor przewodów , LSOH , kabel ftp , anteny lte , IEC 62443-4-2 , skrętka utp , opaski kablowe , ZigBee , zaciskarka bnc , pigtail , szafy teleinformatyczne , UniFi , lsa , switch M12 , kabel utp kat 6 , rejestrator temperatury , szafa rack , LoRa
 ©2026 Atel Electronics
 Zasady sprzedaży Reklamacje Ochrona środowiska Polityka dotycząca plików cookies Polityka prywatności
 Siedziba zgodnie z KRS: ATEL ELECTRONICS Spółka z ograniczoną odpowiedzialnością, ul. Oleska 121, 45-231 Opole; Kapitał zakładowy: 50.000,00; KRS 0001010225; Sąd Rejonowy w Opolu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego; REGON: 524050890; NIP: 7543356130

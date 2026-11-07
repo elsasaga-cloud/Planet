@@ -1,4 +1,4 @@
-# SC-2776 karel.com.tr · home · https://www.karel.com.tr/ · fetched 2026-11-06T09:32:27Z · HTTP 200
+# SC-2776 karel.com.tr · home · https://www.karel.com.tr/ · fetched 2026-11-07T08:57:10Z · HTTP 200
 Karel
 Ana içeriğe atla
 İletişim Teknolojileri
@@ -280,6 +280,8 @@ Detaylı Bilgi
 03
 Haber
 Tümü
+Karel, 2026'nın İlk Dokuz Ayında Operasyonel Performansını İyileştirdi
+06 Kasım, 2026
 Karel’in Ar-Ge Gücüne Savunma Sanayii Başkanlığı’ndan Ödül
 19 Ekim, 2026
 Karel, Bütünleşik Taktik Haberleşme yaklaşımını Azerbaycan’da ilk kez ADEX 2026’da tanıtıyor
@@ -288,8 +290,6 @@ Karel, sürdürülebilirlikte attığı adımları verilerle paylaşmaya devam e
 23 Eylül, 2026
 Karel, 40. yılında Ata’nın huzuruna çıktı
 17 Eylül, 2026
-Karel, Bilişim 500’den iki ödülle döndü
-05 Ağustos, 2026
 Blog
 Tümü
 #Teknoloji ve İnovasyon
