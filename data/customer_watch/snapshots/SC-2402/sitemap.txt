@@ -1,4 +1,4 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
 2026-11-04	https://www.sisegusa.com/home
@@ -124,8 +124,8 @@
 	https://www.sisegusa.com/shop/zk-zkam10a-esclavo-antenas-antihurto-zk-am-esclava-acrilico-3774
 	https://www.sisegusa.com/shop/zk-zkam10-master-antenas-antihurto-zk-am-principal-3773
 	https://www.sisegusa.com/shop/zk-zkam10a-master-antenas-antihurto-zk-am-principal-acrilico-3775
-	https://www.sisegusa.com/shop/ds-isd-smg1118l-arco-detector-de-metales-18-zonas-3883
 	https://www.sisegusa.com/shop/zk-d2180-arco-detector-de-metales-18-zonas-2966
+	https://www.sisegusa.com/shop/ds-isd-smg1118l-arco-detector-de-metales-18-zonas-3883
 	https://www.sisegusa.com/shop/hy-ncn031-arnes-de-pecho-para-bodycam-4228
 	https://www.sisegusa.com/shop/hy-ehn35r-p-audifono-con-microfono-cableado-para-radios-tipo-ap-y-bp-8488
 	https://www.sisegusa.com/shop/hy-es-02-audifono-con-tubo

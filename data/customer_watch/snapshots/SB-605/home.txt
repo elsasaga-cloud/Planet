@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -31,76 +31,76 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Brno - Řečkovice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Blansko
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 6. 11. od 11.00 hod INVENTURA
 Bystřice nad Pernštejnem
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Čáslav
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Česká Třebová
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 13. 11. od 11.00 hod INVENTURA
 Hradec Králové
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Hustopeče
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Chotěboř
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Jevíčko
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Kladno
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Kroměříž
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Liberec
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Pardubice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 13 - Stodůlky
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 4 - Spořilov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 9 - Horní Počernice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Prostějov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 13. 11. od 11.00 hod INVENTURA
 Rychnov nad Kněžnou
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Sokolov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Svitavy
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Šenov u Nového Jičína
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Tišnov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Trutnov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Třebíč
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Uherské Hradiště
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Uherské Hradiště - Jaktáře
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Velké Meziříčí
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 13. 11. od 11.00 hod INVENTURA
 Vysoké Mýto
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zábřeh
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zastávka u Brna
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 6. 11. od 11.00 hod INVENTURA
 Zlín
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Žďár nad Sázavou
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
@@ -550,4 +550,12 @@ Přípojnicové systémy
 Kabelové příslušenství
 Značení vodičů kabelové příslušenství
 Ostatní kabelové příslušenství
-Svazkovac
+Svazkovací spirály
+Kabelová oka
+Kabelové spojky
+Izolační pásky
+Další kategorie
+Kabelové vidlice
+Ochranné oplety
+Sady koncovek a konektorů
+Cup

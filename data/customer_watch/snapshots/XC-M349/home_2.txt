@@ -1,4 +1,4 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home_2 · https://eurodk.lv/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home_2 · https://eurodk.lv/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Bezvadu Wi-Fi aprīkojums no Ubiquiti, Mikrotik | Getic
 lv EUR ar PVN 21% , Latvija
 Konts
@@ -12,76 +12,68 @@ Balts
 1 m
 noliktavā
 2.13 €
-5.0
-S53UG+5HaxD2HaxD-TC&EG18-EA
-MikroTik Chateau LTE18 ax
-EU
-jauns
+DS-2CD63C5G1-IVS
+Hikvision 12MP Fisheye kamera DS-2CD63C5G1-IVS
 noliktavā
-250.12 €
-5.0
-SXTsq-5axD
-MikroTik SXTsq 5 ax
-EU
+922.37 €
+USW-Pro-HD-24
+Ubiquiti UniFi Switch Pro HD 24
 noliktavā
-58.26 €
-5.0
-UX7
-Ubiquiti UniFi Express 7
-jauns
-noliktavā
-228.48 €
-UVC-G5-Dome-Ultra
-Ubiquiti Camera G5 Dome Ultra
-Melns
-noliktavā
-104.25 €
-SXTR&R11e-LTE7
-MikroTik SXT LTE7 kit
-EU
-noliktavā
-104.22 €
-UVC-G6-Turret
-Ubiquiti kamera G6 Turret
-Melns
-noliktavā
-229.73 €
-SF-RD19
-Komutācijas skapja atvilktne 19"
-Melns
-3U
-noliktavā
-50.40 €
-D53G-5HacD2HnD-TC&R11e-LTE7
-MikroTik Chateau LTE7
-EU
-noliktavā
-113.81 €
+699.19 €
 5.0
 CS-H9c-R100-8G55WKFL
 EZVIZ Pan & Tilt kamera H9c 3K
 EU
 noliktavā
 98.11 €
-UACC-PoE++-10G
-Ubiquiti 10G PoE++ Adapter (60W)
-jauns
+RUT976
+Teltonika RUT976 Redcap 5G rūteris
 noliktavā
-45.97 €
+408.96 €
+U5G-Max
+Ubiquiti UniFi 5G Max
+noliktavā
+468.25 €
 U7-Pro-XG
 Ubiquiti UniFi U7 Pro XG
 Balts
 noliktavā
-228.48 €
+229.69 €
+CRS418-8P-8G-2S+RM
+MikroTik CRS418-8P-8G-2S+RM
+EU
+noliktavā
+406.46 €
+MA53UG+HbeH
+MikroTik hAP be3
+EU
+noliktavā
+172.24 €
+LtAP-2HnD&R11e-LTE7
+MikroTik LtAP LTE7 kit
+EU
+noliktavā
+152.75 €
+5.0
+UA-G3-Intercom
+Ubiquiti Access G3 Intercom
+noliktavā
+445.40 €
+5.0
+U7-Pro-XGS
+Ubiquiti UniFi U7 Pro XGS
+Balts
+noliktavā
+345.15 €
 parādiet man vairāk
 Viss ar atlaidi, pasteidzies
--19 %
+-20 %
 UXG-Lite
 Ubiquiti Gateway Lite
 EU
 jauns
 noliktavā
-133.80 €
+134.52 €
 108.07 €
 -18 %
 UISP-Console
@@ -122,7 +114,7 @@ noliktavā
 UVC-AI-Dome-B
 Ubiquiti kamera AI Dome
 noliktavā
-454.42 €
+456.82 €
 370.04 €
 -23 %
 R11e-LR2
@@ -130,20 +122,20 @@ MikroTik R11e-LR2
 noliktavā
 68.45 €
 52.39 €
--27 %
+-29 %
 CRS305-1G-4S+OUT
 MikroTik FiberBox Plus
 EU
 noliktavā
-207.12 €
-151.72 €
--27 %
+198.66 €
+140.81 €
+-26 %
 5.0
 cAPGi-5HaxD2HaxD&EG12-EA
 MikroTik cAP LTE12 ax
 EU
 noliktavā
-207.12 €
+205.18 €
 151.72 €
 -36 %
 5.0

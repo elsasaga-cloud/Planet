@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-08T09:13:02Z · HTTP 200
 IT and Telecom Blog for Dubai and UAE Businesses | NETON
 Home
 About Us
@@ -32,6 +32,31 @@ Odoo
 What this blog covers. Practical guides for IT managers, operations heads and business owners in Dubai and the UAE who are choosing, upgrading or securing their phone systems and IT. We explain business phone systems and SIP trunks, Wildix and x-bees, Microsoft Teams calling and session border controllers, cloud infrastructure, cybersecurity and backup, and Odoo ERP.
 Every article is written by the NETON Technologies LLC team in Dubai and focuses on what is different in the UAE: licensed carriers, TDRA and DNCR rules, data protection and local support. Browse by topic with the filters above, or start with our guides to business phone systems , SIP trunks and cybersecurity .
 Articles
+Odoo
+UAE E-Invoicing: The Deadlines, and Where Odoo Fits
+Who must e-invoice in the UAE and by when, what the 2027 deadlines require, and how Odoo connects to an Accredited Service…
+7 Nov 2026 · 10 min read
+Read more →
+IT Support
+The IT Checklist for Moving or Opening an Office in Dubai
+An office relocation IT checklist for Dubai: survey, fibre and numbers, cabling, Wi-Fi, phones, CCTV under SIRA, AV, data and…
+7 Nov 2026 · 9 min read
+Read more →
+Telephony
+Keeping Your Number: How Portability Works in the UAE
+Number portability in the UAE moves fixed and 800 numbers between e& and du. Most phone system changes keep the carrier. Which…
+7 Nov 2026 · 10 min read
+Read more →
+Microsoft Teams
+Why Teams Cannot Make Phone Calls in the UAE
+No dial pad in Teams, or no calls to mobiles and landlines? Why Microsoft Teams phone calls fail in the UAE, and the licence…
+7 Nov 2026 · 10 min read
+Read more →
+Telephony
+What an AI Voice Agent Is, and the UAE Rules That Apply
+What an AI voice agent is, how it connects to a UAE phone line, and which telemarketing and data protection rules apply to…
+7 Nov 2026 · 10 min read
+Read more →
 Telephony
 x-bees Partner in Dubai: What to Check Before You Buy
 An x-bees partner in Dubai sets up calls, WhatsApp, CRM logging and AI summaries. What to check on plans, Salesforce…
@@ -52,34 +77,10 @@ Cloud PBX vs On-Premise PBX: Which Fits a UAE Business
 Cloud PBX or on-premise in the UAE? Compare cost model, resilience, data location and SIP trunks, and see which option fits which…
 30 Oct 2026 · 6 min read
 Read more →
-Telephony
-What a SIP Trunk Is, and How You Buy One in the UAE
-A SIP trunk carries business calls over IP, not copper lines. In the UAE it comes from e& or du against a trade licence. What…
-24 Oct 2026 · 7 min read
-Read more →
-SBC
-What a Session Border Controller Does, in Plain Terms
-A session border controller is the checkpoint between your phone system and the outside network. What an SBC does, when you need…
-24 Oct 2026 · 7 min read
-Read more →
-Backup
-Why UAE Small Businesses Lose Data on Old NAS Drives
-How UAE small businesses lose data on ageing NAS drives through failure, corruption and ransomware, and the backup strategy that…
-4 Oct 2026 · 9 min read
-Read more →
-Microsoft Teams
-Teams Phone, Calling Plans and Direct Routing in the UAE
-Microsoft gives Teams four ways to reach the phone network. Two cannot be bought in the UAE. Which options apply here, and what…
-29 Sep 2026 · 6 min read
-Read more →
-Telephony
-What UCaaS Actually Means for a UAE Business
-UCaaS explained for the UAE: what the term covers, what you cannot buy here because Calling Plans are not sold, and how it is…
-21 Sep 2026 · 6 min read
-Read more →
 1
 2
 3
+4
 Next →
 Have a question? Talk to our experts.
 Call us at +971 4 439 5754

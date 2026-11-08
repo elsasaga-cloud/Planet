@@ -1,4 +1,4 @@
-# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Home Page SWL
 Login
 Email Address
@@ -192,20 +192,20 @@ Activor Wireless
 Inovonics Wireless
 Sherlotronics Wireless
 Featured Products
+51220
+Watchman WM-ND2200: Ultra-Thin 22" LED Monitor, TFT, 1920 x 1080, VESA 75 x 75mm
+POA
+More Info
+33667
+Provision-ISR Z8-37IPEN-4(LS): 4MP 37x PTZ DDA WDR Laser IR 800m IP67 6-222mm
+POA
+More Info
+27280
+Vanderbilt GM730 Seismic Detector: 8 -16 VDC, IP43
+POA
+More Info
 48460
 Wi-Tek WI-LTE113-O V2: 4G CAT6 Router, 1x 1000Mbps, RJ45, 24V PoE
-POA
-More Info
-47970
-Wi-Tek WI-PS305GH: 4x 1000Mbps PoE Ports + 1x 1000Mbps RJ45, 40W
-POA
-More Info
-270381
-TANE MET-200HS AR: Surface 32mm Gap. Armoured Cable, Biased High Security Metal
-POA
-More Info
-66130
-SWL i7 Rack, Intel i7-14700, 32GB Ram, 250Gb SSD, Win 11 Pro, 4x HDD Bays
 POA
 More Info
 Products

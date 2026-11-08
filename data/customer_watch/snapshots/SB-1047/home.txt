@@ -1,4 +1,4 @@
-# SB-1047 kamsys.pl · home · https://www.kamsys.pl/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-1047 kamsys.pl · home · https://www.kamsys.pl/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Internetowy sklep z monitoringiem, alarmami, systemami zabezpieczeń - Kamsys
 Dostawa
 Status zamówienia
@@ -73,6 +73,8 @@ Producenci
 Referencje naszych Klientów
 Przebudowa miejskiego systemu monitoringu w Legionowie
 więcej
+Elektroniczne depozytory kluczy RFID dla jednostek wojskowych...
+więcej
 System Monitoringu Wizyjnego w Sądzie Okręgowym w Łodzi
 więcej
 Rozbudowa systemu monitoringu wizyjnego CCTV w oparciu o sieć...
@@ -80,8 +82,6 @@ więcej
 Rozbudowa Systemu Monitoringu i Kontroli Dostępu dla Jetstory...
 więcej
 Projektowanie i dostarczanie rozwiązań przy projektach...
-więcej
-System Telewizji Przemysłowej w sieci księgarni Tak...
 więcej
 Dlaczego warto z nami współpracować?
 15
@@ -110,9 +110,6 @@ Firma Kasmys posiada koncesję Ministerstwa Spraw Wewnętrznych i Administracji
 więcej
 2023-10-27
 Automatyka do bram – jak działa i z czego składa się standardowy zestaw?
-więcej
-2023-10-11
-Dlaczego warto zainwestować w monitoring w domu?
 więcej
 Kontakt z nami
 +48 22 774 07 86

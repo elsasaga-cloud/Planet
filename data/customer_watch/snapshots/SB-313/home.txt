@@ -1,4 +1,4 @@
-# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
 მომხმარებელი არ არის ვერიფიცირებული
 ვერიფიკაცია
@@ -170,47 +170,46 @@ LAN & WAN
 მონაცემთა შენახვა
 ახალი პროდუქტები
 ყველას ნახვა
-9 არხიანი IP ჩამწერი NVR - 2 მყარი დისკი Uniview
-NVR302-09B-IQ
-#04132
-597.78 ₾
-გზაშია, სავარაუდო ჩამოსვლა:
-09.11.2026
-მართვადი PoE სვიჩი - Pro Max 48 PoE, Ubiquiti
-USW-Pro-Max-48-PoE-EU
-#03633
-6609.40 ₾
+როუტერი - hEX S, E60iUGS, MikroTik
+E60iUGS
+#03639
+247.75 ₾
 მარაგშია
-Firewall - FortiGate-90G, Fortinet
-FG-90G
-#03585
-ფასის გასაგებად დაგვიკავშირდით
-მხოლოდ წინასწარი შეკვეთით
+მართვადი PoE სვიჩი - USW-Enterprise-48-PoE, Ubiquiti
+USW-Enterprise-48-PoE
+#03951
+7718.43 ₾
+მარაგშია
+ჰიბრიდული ჩამწერი 8 არხი 1 მყარი დისკი Uniview
+XVR301-08F
+#03960
+182.25 ₾
+მარაგშია
+UniFi Cloud Gateway - Fiber, Ubiquiti
+UCG-Fiber-EU
+#03644
+1451.71 ₾
+მარაგშია
 IP კამერა - 4მპ, VF, WiseISP Turret, Mic, SD, ANR, UMD, IR/LED 50m, Uniview
 IPC3634LE-ADZK-DL3
 #04127
 415.53 ₾
 გზაშია, სავარაუდო ჩამოსვლა:
 09.11.2026
-Wi-Fi როუტერი - hAP be³ Media, MikroTik
-MA53UG+HbeH
-#03938
-670.05 ₾
+უწყვეტი კვების წყარო (UPS) - 20KVA/18KW ინდუსტრიული / ტრანსფორმატორიანი UPS 3:3
+EP20
+#03484
+13692.36 ₾
 მარაგშია
-12 წვერიანი ADSS ოპტიკური კაბელი
-ADSS-SS-50M-12B1.3
-#04107
-1.90 ₾
+მართვადი სვიჩი - USW-Pro-XG-24, Ubiquiti
+USW-Pro-XG-24
+#03869
+5782.83 ₾
 მარაგშია
 IP კამერა - 4მპ, 4მმ, Dome PT, UMD, Mic, SD, ANR, Uniview
 IPC6214LFW-AF40C
 #03599
 236.93 ₾
-მარაგშია
-მართვადი PoE სვიჩი - USW-Pro-XG-48-PoE, Ubiquiti
-USW-Pro-XG-48-PoE
-#03948
-12974.28 ₾
 მარაგშია
 საინფორმაციო ბლოკი
 ყველას ნახვა

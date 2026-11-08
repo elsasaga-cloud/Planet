@@ -1,4 +1,4 @@
-# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Fri, 06 Nov 2026 10:55:46 +0000	JetStream-SDI-Orin	https://www.sisav.it/jetstream-sdi-orin/
 Thu, 05 Nov 2026 09:43:36 +0000	MIC-9	https://www.sisav.it/mic-9/
 Thu, 29 Oct 2026 16:26:56 +0000	NuTAM	https://www.sisav.it/nutam/

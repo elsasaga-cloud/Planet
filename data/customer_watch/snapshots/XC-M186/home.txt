@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-07T08:57:10Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-08T09:13:02Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -1040,6 +1040,7 @@ Enersys
 Hikvision
 Infosec
 Inim
+Lixit Lighting
 Paxton
 Politec
 Prodatec

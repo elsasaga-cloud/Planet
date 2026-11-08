@@ -1,4 +1,4 @@
-# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России
 РЕГИСТРИРУЙСЯ И ПОЛУЧИ СКИДКУ СЕЙЧАС
 ×
@@ -35,8 +35,8 @@ AIRCUBE 2
 LITEAP AC 2
 ISOSTATION 2
 PRISMSTATION 1
-РАДИОМОСТЫ 71
-AIRFIBER 22
+РАДИОМОСТЫ 72
+AIRFIBER 23
 WAVE 7
 POWERBEAM 13
 LITEBEAM 7
@@ -44,12 +44,12 @@ GIGABEAM 4
 NANOBEAM 7
 HORN 4
 ROCKETDISH 8
-РОУТЕРЫ 22
+РОУТЕРЫ 23
 CLOUD KEY 4
 EDGEROUTER 11
 UISP РОУТЕР 3
 UNIFI DREAM MACHINE 6
-UNIFI SECURITY GATEWAY 5
+UNIFI SECURITY GATEWAY 6
 CLOUD GATEWAY 3
 КОММУТАТОРЫ 86
 AGGREGATION 4
@@ -249,6 +249,37 @@ WI-FI 6 РОУТЕРЫ 1
 Войти
 Регистрация
 Авторизированный Дистрибьютор
+UniFi 5G Max — впервые в России
+Быстрый просмотр
+Новый
+5G модем Ubiquiti UniFi 5G Max (U5G-Max)
+Ubiquiti U5G Max — Высокопроизводительный 5G-модемОбзорU5G Max — высокопроизводительный 5G-модем с поддержкой частот 5G NR, 4G LTE, 3G UMTS от Ubiquit..
+67500 руб.
+Купить сейчас ">
+Купить сейчас
+По запросу ">
+По запросу
+В закладки
+В сравнение
+Быстрый просмотр
+Новый
+Комплект Ubiquiti UniFi Express 7, 2 шт. (UX7-2)
+Комплект Ubiquiti UniFi Express 7, 2 шт. (UX7-2) — Whole Home Wi‑Fi 7: 10G Cloud Gateway плюс беспроводной mesh‑узел для покрытия всего дома
+ОбзорКом..
+60800 руб.
+В корзину ">
+В корзину
+В закладки
+В сравнение
+Быстрый просмотр
+Новый
+Уличный 5G модем Ubiquiti UniFi 5G Max Outdoor (U5G-Max-Outdoor)
+Ubiquiti UniFi 5G Max Outdoor — Мощный уличный 5G-модемОбзорUniFi 5G Max Outdoor — мощный уличный 5G-модем, предназначенный для обеспечения быстрого и..
+67500 руб.
+В корзину ">
+В корзину
+В закладки
+В сравнение
 Быстрая Доставка
 По Всей Стране
 Официальная Гарантия
@@ -264,10 +295,8 @@ WI-FI 6 РОУТЕРЫ 1
 Точка доступа Ubiquiti UniFi U7 Outdoor (U7-Outdoor)
 Ubiquiti U7 Outdoor — Точка доступа Wi‑Fi 7 (UniFi)ОбзорU7 Outdoor — это мощная уличная точка доступа Wi‑Fi 7 от Ubiquiti Inc., созданная для развёрты..
 27500 руб.
-Купить сейчас ">
-Купить сейчас
-По запросу ">
-По запросу
+В корзину ">
+В корзину
 В закладки
 В сравнение
 Быстрый просмотр
@@ -284,7 +313,7 @@ Ubiquiti UniFi Protect G6 Pro 360, белая (UVC-G6-Pro-360-W) — всепо�
 Модель: UCG-Ultra
 Сетевой шлюз Ubiquiti Cloud Gateway Ultra (UCG-Ultra)
 Ubiquiti UniFi Cloud Gateway Ultra (UCG-Ultra) — компактный облачный шлюз с UniFi Network, 4 WAN-портами и IDS/IPS 1 Гбит/сОбзорUbiquiti UniFi Cloud G..
-14200 руб.
+14500 руб.
 В корзину ">
 В корзину
 В закладки
@@ -312,7 +341,7 @@ Ubiquiti UniFi Network Attached Storage 4 (UNAS-4-W, белый) — насто�
 Модель: AF-5U
 Радиомост Ubiquiti AirFiber 5U (AF-5U)
 Ubiquiti airFiber 5U — Радиорелейная станция PtPОбзорairFiber 5U — это высокопроизводительная радиорелейная станция для соединений «точка-точка» (PtP)..
-202200 руб.
+224700 руб.
 В корзину ">
 В корзину
 В закладки
@@ -322,7 +351,7 @@ Ubiquiti airFiber 5U — Радиорелейная станция PtPОбзор
 Модель: AF60-XG
 Радиомост Ubiquiti AirFiber 60 XG (AF60-XG)
 Ubiquiti airFiber 60 XG (AF60-XG) — магистральный радиомост 60 ГГц с резервным каналом 5 ГГц и пропускной способностью до 6 Гбит/сОбзорUbiquiti airFib..
-189500 руб.
+195500 руб.
 В корзину ">
 В корзину
 В закладки
@@ -333,17 +362,15 @@ Ubiquiti airFiber 60 XG (AF60-XG) — магистральный радиомо�
 Точка доступа Ubiquiti UniFi U7 Pro XG Black (U7-Pro-XG-B)
 Ubiquiti UniFi U7-Pro-XG — Потолочная 6-потоковая точка доступа Wi‑Fi 7 (10/5/2.5/1 GbE)ОбзорU7‑Pro‑XG — это потолочная 6-потоковая точка доступа Wi‑F..
 29300 руб.
-Купить сейчас ">
-Купить сейчас
-По запросу ">
-По запросу
+В корзину ">
+В корзину
 В закладки
 В сравнение
 Быстрый просмотр
 Модель: RD-5G31-AC
 Антенна Ubiquiti RocketDish 5G-31 AC (RD-5G31-AC)
 Ubiquiti airMAX AC RocketDish 5 ГГц 31 дБи (RD-5G31-AC) — параболическая антенна для радиомостовОбзорUbiquiti RD-5G31-AC — это параболическая антенна ..
-41700 руб.
+43300 руб.
 В корзину ">
 В корзину
 В закладки
@@ -352,7 +379,7 @@ Ubiquiti airMAX AC RocketDish 5 ГГц 31 дБи (RD-5G31-AC) — парабол
 Модель: USW-WAN
 Коммутатор Ubiquiti UniFi WAN Switch (USW-WAN)
 Ubiquiti UniFi Switch WAN (USW-WAN) — модуль для резервирования WAN с 3 портами 10G SFP+ и двумя блоками питанияОбзорUbiquiti UniFi Switch WAN (USW-WA..
-36300 руб.
+35500 руб.
 В корзину ">
 В корзину
 В закладки
@@ -367,7 +394,6 @@ MikroTik CRS504-4XQ-IN — компактный 100-гигабитный ком�
 В закладки
 В сравнение
 Быстрый просмотр
-Бестселлер
 Модель: UDR7
 Маршрутизатор Ubiquiti UniFi Dream Router 7 (UDR7)
 Ubiquiti UniFi Dream Router 7 (UDR7) — настольный облачный шлюз со встроенной точкой доступа Wi-Fi 7, портом 10G SFP+ и PoE-выходомОбзорUbiquiti UniFi..
@@ -389,7 +415,7 @@ MikroTik CSS610-8P-2S+IN — компактный PoE-коммутатор Cloud
 Модель: U7-Lite
 Точка доступа Ubiquiti UniFi U7 Lite (U7-Lite)
 Ubiquiti UniFi U7 Lite (U7-Lite) — компактная двухдиапазонная точка доступа Wi-Fi 7 с 4 потоками и аплинком 2,5 GbEОбзорUbiquiti UniFi U7 Lite — это к..
-12400 руб.
+12700 руб.
 В корзину ">
 В корзину
 В закладки
@@ -431,17 +457,6 @@ Ubiquiti UniFi U7 Pro (U7-Pro) — потолочная точка доступ�
 23600 руб.
 В корзину ">
 В корзину
-В закладки
-В сравнение
-Быстрый просмотр
-Модель: UX7
-Маршрутизатор Ubiquiti UniFi Express 7 (UX7)
-UniFi Express 7 – ультракомпактное устройство, сочетающее гибкость установки и высокую производительность. Как и первая версия Express, новая модель р..
-27100 руб.
-Купить сейчас ">
-Купить сейчас
-По запросу ">
-По запросу
 В закладки
 В сравнение
 Быстрый просмотр
@@ -495,29 +510,4 @@ Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE) — Управляемый L2-
 MikroTik hAP ax Lite (L41G-2axD)
 MikroTik hAP ax lite (L41G-2axD) — Компактный Wi-Fi 6 роутер с RouterOS v7, 4 гигабитными портами и питанием USB-CОбзорMikroTik hAP ax lite — это идеа..
 5800 руб.
-Купить сейчас ">
-Купить сейчас
-По запросу ">
-По запросу
-В закладки
-В сравнение
-Топ Категории
-UBIQUITI
-MIKROTIK
-FORTINET
-HPE ARUBA
-CAMBIUM
-Быстрый просмотр
-Бестселлер
-Радиомост Ubiquiti PowerBeam 5AC Gen2 (PBE-5AC-GEN2)
-PowerBeam 5AC GEN2 — Беспроводная точка доступа UbiquitiОбзорPowerBeam 5AC GEN2 — беспроводное устройство нового поколения от Ubiquiti Networks серии ..
-16000 руб.
-Купить сейчас ">
-Купить сейчас
-По запросу ">
-По запросу
-В закладки
-В сравнение
-Быстрый просмотр
-Маршрутизатор Ubiquiti UniFi Dream Machine (UDM)
-Ub
+Купить

@@ -1,4 +1,4 @@
-# SB-1004 arpeo.pl · feed_auto · https://arpeo.pl/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-1004 arpeo.pl · feed_auto · https://arpeo.pl/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Thu, 29 Oct 2026 09:19:33 +0000	Jak dobrać dławnicę kablową? Najważniejsze parametry i rodzaje	https://arpeo.pl/jak-dobrac-dlawnice-kablowa-najwazniejsze-parametry-i-rodzaje/
 Thu, 29 Oct 2026 09:18:08 +0000	Filtr przeciwzakłóceniowy EMC – jak działa i kiedy należy go stosować?	https://arpeo.pl/filtr-przeciwzakloceniowy-emc-jak-dziala-i-kiedy-nalezy-go-stosowac/
 Thu, 06 Aug 2026 13:08:36 +0000	Jak chronić przewody w automatyce?	https://arpeo.pl/jak-chronic-przewody-w-automatyce/

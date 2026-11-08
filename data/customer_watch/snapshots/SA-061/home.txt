@@ -1,13 +1,13 @@
-# SA-061 RYMTECH EAS · home · https://rym-tech.net/static/login/ · fetched 2026-11-07T08:57:10Z · HTTP 521
+# SA-061 RYMTECH EAS · home · https://rym-tech.net/static/login/ · fetched 2026-11-08T09:13:02Z · HTTP 521
 rym-tech.net | 521: Web server is down
 Web server is down
 Error code 521
 Visit cloudflare.com for more information.
-2026-11-07 UTC
+2026-11-08 UTC
 You
 Browser
 Working
-San Jose
+Minneapolis
 Cloudflare
 Working
 rym-tech.net
@@ -23,6 +23,6 @@ Contact your hosting provider letting them know your web server is not respondin
 Cloudflare
 •
 Click to reveal
-52.159.246.0
+130.131.214.197
 •
 Performance & security by Cloudflare

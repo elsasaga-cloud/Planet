@@ -1,4 +1,4 @@
-# SC-1220 starelec.fi · home · https://starelec.fi/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-1220 starelec.fi · home · https://starelec.fi/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Sähkökomponentit netistä - Starelec.fi
 Tervetuloa uudistettuun verkkokauppaan! Voit kirjautua sisään samoilla tunnuksilla kuin ennen.
 Soita meille
@@ -49,9 +49,10 @@ Hallitse mittauksia vaivatta Bluetooth-yhteydellä varustetuilla Uni-T:n mittare
 Uusimmat tuotteet
 Tee löytöjä uutuuksissa
 Katso kaikki
-Latauslaite yhdelle 3,6-3,7V Li-Ion-akulle (18650-26800)
-SKU: CH-SCPLUS Tilattavissa, toimitusaika-arvio 2-5 arkipäivää
-12,93 € ALV. 25.5%
+AMP (TE Connectivity)
+AMP MCP 1.5K -liitinnasta naaras 1,0-1,5mm²
+SKU: 1418884-3 Tilattavissa, toimitusaika-arvio 2-5 arkipäivää
+0,53 € ALV. 25.5%
 Suositut brändit
 Tuotemerkit
 Viikon suosituimmat

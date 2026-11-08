@@ -1,4 +1,4 @@
-# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Alarm Absolon - dodavatel bezpečnostních technologií | Absolon.cz
 ×
 Z důvodu uzavírky části ulice Šaldova v úseku od Rohanského nábřeží doporučujeme při cestě na naši pražskou pobočku využít náhradní trasu přes ulici Thámova nebo Sokolovská.
@@ -34,10 +34,10 @@ Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
 Akce
-RW132I04
+RW432P
 RISCO
 Skladem
-Bezdrátový expandér 4 vstupů a 4 výstupů a 16ti x10 zařízení
+Sada ústředny LightSYS Air, obsahuje ústřednu v bílé barvě, 4G GSM komunikátor, bezdrátový pohybový detektor s Pet imunitou, bezdr. magnetický kontakt a čtyřtlačítkový dálkový ovladač, včetně všech baterií.
 Pro zobrazení ceny se přihlaste
 Akce
 MV-8
@@ -46,16 +46,34 @@ Skladem
 MV-8 - Zkušební plyn pro optickokouřové požární hlásiče
 Pro zobrazení ceny se přihlaste
 Akce
-RW432P
-RISCO
-Skladem
-Sada ústředny LightSYS Air, obsahuje ústřednu v bílé barvě, 4G GSM komunikátor, bezdrátový pohybový detektor s Pet imunitou, bezdr. magnetický kontakt a čtyřtlačítkový dálkový ovladač, včetně všech baterií.
-Pro zobrazení ceny se přihlaste
-Akce
-JA-156E-GR
+JA-156E
 Jablotron
 Skladem
-Bezdrátová dotyková klávesnice s čtečkou - šedý Jablotron JA-156E
+Bezdrátová dotyková klávesnice s čtečkou - bílý Jablotron JA-156E
+Pro zobrazení ceny se přihlaste
+Akce
+Propojovací box XtendLan Cat 5e nestíněný
+XtendLan
+Skladem
+Narážecí propojovací box Cat 5e. Umožňuje propojit kabelové segmenty UTP beze ztráty kvality vedení. Narážecí, univerzální konektory LSA/IDC. Pro snadnější instalaci jsou zarážky barevně označeny. Rozměry...
+Pro zobrazení ceny se přihlaste
+Akce
+EASY konektor RJ45 CAT5E UTP 8p8c na drát i licnu SXRJ45-5E-UTP-EASY
+Solarix
+Skladem
+EASY nestíněný pass-through konektor RJ45 8p8c kategorie 5E pro vodič typu drát i licna.
+Pro zobrazení ceny se přihlaste
+Akce
+DS-PR531-3A
+Hikvision
+Skladem
+AX HYBRID PRO napájecí zdroj 3A v boxu, prostor pro aku 7Ah
+Pro zobrazení ceny se přihlaste
+Akce
+JA-156E-AN
+Jablotron
+Skladem
+Bezdrátová dotyková klávesnice s čtečkou - antracitový Jablotron JA-156E
 Pro zobrazení ceny se přihlaste
 Akce
 DS-PM501R4
@@ -70,119 +88,104 @@ Skladem
 Barevný 4,3" monitor Mini se sluchátkem a 8-mi tlačítky pro systém Comelit Simplebus včetně terminálu 1214/2C. Bílé provedení, 8 dotykových tlačítek. Rozměry: 175x160x22mm.
 Pro zobrazení ceny se přihlaste
 Akce
-RWX107DT
-RISCO
-Skladem
-Obousměrně komunikující venkovní bezdrátový PIR + MW detektor Risco se záclonovou charakteristikou s dosahem 12m. Napájení 1x baterie CR123A (v balení).
+KVU8190W
+Comelit
+Na objednání
+Zapuštěný ULTRA video kit pro 1 uživatele s 4,3" hands-free videotelefonem Mini s WiFi umožňující volání na aplikaci.
 Pro zobrazení ceny se přihlaste
 Akce
-DS-PS1-II-WE (RED)
+SC 30AH
+Dexon
+Skladem
+SC 30AH reentrantní reproduktor, 30 W / 100 V, 250 – 14 000 Hz, 109 dB
+Pro zobrazení ceny se přihlaste
+Akce
+DS-KIS202T
 Hikvision
+1 823 Kč bez DPH
+3 647 Kč bez DPH
 Skladem
-Bezdrátová vnitřní siréna AXPro DS-PS1-II-WE s červeným blikačem a obousměrnou hlasovou komunikací. Obousměrná komunikace 868MHz šifrování AES-128, dosah až 1000m, výkon 110dB, 2x tamper. Provozní teplota: ...
-Pro zobrazení ceny se přihlaste
-Akce
-JA-102KY
-Jablotron
-Skladem
-Ústředna Jablotron Mercury JA-102KY s LAN komunikátorem a LTE komunikátorem Lite, v plastovém krytu se zdrojem, prostor pro Aku 2,6Ah.
-Pro zobrazení ceny se přihlaste
-Akce
-DS-PR531-3A
-Hikvision
-Skladem
-AX HYBRID PRO napájecí zdroj 3A v boxu, prostor pro aku 7Ah
-Pro zobrazení ceny se přihlaste
-Akce
-JA-156E
-Jablotron
-Skladem
-Bezdrátová dotyková klávesnice s čtečkou - bílý Jablotron JA-156E
-Pro zobrazení ceny se přihlaste
-Akce
-RWX350D
-RISCO
-Skladem
-Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
-Pro zobrazení ceny se přihlaste
+Analogová sestava video interkomu Hikvision pro 1 uživatele. Venkovní tablo s pinhole 1/2.7" CMOS kamerou 1920x1080, barevný LCD monitor 7" s rozlišením 800x480. Povrchová montáž, propojení venkovní stanice...
+Do košíku
 dalsi
 Novinky
 predchozi
 Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
+ColorVu 3.0 AI
 Novinka
-5E700UD
-Eaton
-Na objednání
-Záložní zdroj Eaton, topologie Line-Interactive, Tower konfigurace, 700VA, 360W, 1× kabel (EU vidlice), 2× DIN/IT výstup (Schuko) , 1/1 fáze, USB, černý
-Pro zobrazení ceny se přihlaste
-Novinka
-RAPS-G
-Pulsar
-Na objednání
-Kartáčová průchodka pro rozvaděče 19". Rozměry 267 x 64 x 16 [+/-2 mm]. Barva je šedá (RAL7035).
-Pro zobrazení ceny se přihlaste
-Novinka
-UT9192B
-Comelit
-Na objednání
-2 modulová černá (RAL9005) stříška proti dešti pro povrchový instalační rámeček ULTRA UT9172B. Rozměry: 116x203x57mm.
-Pro zobrazení ceny se přihlaste
-Novinka
-LS1210GP
-TP-Link
-Na objednání
-10-portový neřízený PoE switch TP-link s 8 PoE+ porty s 802.3at/af max. výkonu 61W (max. 30W na port). extend modu až 250m na portech 1-4. funkce automatického obnovení, izolace připojených zařízení. 9x RJ...
-Pro zobrazení ceny se přihlaste
-Novinka
-DING2-12V3A
-Pulsar
-Na objednání
-Spínaný záložní zdroj 13,8VDC/3,5A na DIN lištu. V souladu s normou EN50131 Grade2. Tlačítko pro start z AKU. Max kapacita připojitelného AKU 20Ah. max dobíjecí proud AKU 1A. Ochrana SCP, OLP, OVP, UVP....
+DS-2CD1067G3-LIU(2.8mm)
+Hikvision
+Skladem
+6MPx IP ColorVu AI hybridní venkovní Bullet kamera Hikvision s monofokálním objektivem 2.8 mm, CMOS 1/2.4, citlivost 0,0005lux, 3200x1800@20fps, mikrofon, H.265+/H.265/H.264+/H.264, 120dB WDR, Přísvit IR a...
 Pro zobrazení ceny se přihlaste
 ColorVu 3.0 AI
 Novinka
-DS-2CD2H87G3-LIZS2UY/SL(2.8-12mm)BLK
+DS-2CD1047G3-LIU(2.8mm)
+Hikvision
+Skladem
+4MPx IP ColorVu 3.0 hybridní venkovní Bullet kamera Hikvision, s fixním objektivem 2.8mm, úhel záběru 96° (horizontální), 0,0005Lux, 120db WDR, LED + IR až 30m, 12V DC/PoE, -30°C až do +60°C, IP67
+Pro zobrazení ceny se přihlaste
+Novinka
+iDS-7204HUHI-M1/XT/4A+4/1ALM
+Hikvision
+Skladem
+Digitální AcuSense videorekordér Hikvision pro připojení až 4 analogových kamer s max. rozlišením 8MPx nebo až 8 IP kamer při vypnutí všech analogových vstupů. 1x HDD SATA až 10TB. H.265 Pro+/H.265 Pro/H.265...
+Pro zobrazení ceny se přihlaste
+Novinka
+SKR
+Comelit
+Na objednání
+Antivandal kódová klávesnice SKR s integrovanou Mifare čtečkou výrobce Comelit. Paměť na 100 kódů (délka 3-6 číslic) a 500 tagů/karet, krytí IP54, napájení 12-35VDC nebo 12-24VAC
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-2CE16H5T-IT5
 Hikvision
 Na objednání
-8MPx IP IP hybridní ColorVu venkovní turret kamera Hikvision s varifokálním objektivem 2.8-12mm, CMOS 1/1.8, citlivost 0,001lux, 3840x2160@25fps, H.265+/H.265/H.264+/H.264/MJPEG, 130dB WDR, Přísvit IR i LED...
+5MP EXIR Bullet kamera DS-2CE16H5T-IT5, CMOS, DNR, D WDR, IR80m, IP67, BLC, AGC, HD výstup, protokol Hikvision-C, 12VDC
 Pro zobrazení ceny se přihlaste
 Novinka
-RVIM0115B
-RISCO
-Skladem
-Patice pro kameru 5MP VUpoint Dome AI (RVCM32A33), rozměry: 44,5x113,5mm
-Pro zobrazení ceny se přihlaste
-Novinka
-HL KGI60.060.060
-HL system
-Na objednání
-Žlab kabelový neperforovaný 60*60*0,60mm, délka 3m, integrované spojky, pozinkováno metodou Sendzimir, S
-Pro zobrazení ceny se přihlaste
-Novinka
-Police 19" 1U 150mm ukládací plato BK úchyt na přední lišty UP-01-B
-Solarix
-Na objednání
-19" police Solarix, hloubka 150mm, velikost 1U, nosnost 10kg
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-2CE12KF3TP-DLS
+DS-2CD2146G3-IPTRZS2UY(2.8/4mm)
 Hikvision
 EU sklad, obvykle 7-10 dnů
-3K hybridní ColorVu bullet kamera Hikvision, duální objektiv 2z 2,8mm, 180° záběr, rozlišení 3328 × 1504, 0,0005Lux, 130db WDR, mikrofon, Napájení 12V DC, Krytí IP67
+4MPx IP PTRZ AcuSense3.0 venkovní dome kamera Hikvision s point-varifokálním (point-to-point) objektivem 2,8/4 mm, CMOS 1/3", citlivost 0,001lux, 2688x1520@25fps, H.265+/H.265/H.264+/H.264, 130dB WDR,...
 Pro zobrazení ceny se přihlaste
 Novinka
-DS-2CD3686G3T-LIZSU(2.7-13.5mm)(eF)
-Hikvision
+Patch kabel CAT6 UTP PVC 10m šedý non-snag-proof C6-155GY-10MB
+Solarix
 Na objednání
-8MPx IP hybridní DarkFighter 2.0 venkovní Bullet kamera Hikvision s varifokálním objektivem 2.7-13,5mm, CMOS 1/1.8, citlivost 0,001lux, 3840x2160@25fps, H.265+/H.265/H.264+/H.264/ MJPEG, Adaptivní 130dB WDR,...
+Nestíněný patch kabel Solarix CAT6 UTP PVC 10m šedý
+Pro zobrazení ceny se přihlaste
+Novinka
+JA-112R
+Jablotron
+Skladem
+Sběrnicový modul pro bezdrátové připojení komponentů Jablotron JA-112R
 Pro zobrazení ceny se přihlaste
 Novinka
 SXPI-LC-UPC-OS-1,5M
 Solarix
 Skladem
 Pigtail 9/125 LCupc SM OS 1,5m SXPI-LC-UPC-OS-1,5M
+Pro zobrazení ceny se přihlaste
+Novinka
+Patch kabel 9/125 E2000apc/LCupc SM OS 5m duplex SXPC-E2000/LC-APC/UPC-OS-5M-D
+Solarix
+Na objednání
+Solarix optický patch kabel slouží pro propojení mezi aktivními komponenty či mezi pasivními komponenty, představujícími koncový bod fyzického spoje.
+Pro zobrazení ceny se přihlaste
+Novinka
+iDS-2CD5387G2/V-XS(2.8mm)(O-STD)
+Hikvision
+Na objednání
+8MPx IP DeepinViewX DarkFighter 2.0 hybridní venkovní turret kamera Hikvision s monofokálním objektivem 2,8 mm, CMOS 1/1.8", citlivost 0,0002lux, 3840x2160@25fps, H.265+/H.265/H.264+/H.264, 130dB WDR,...
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-2CD2683G2-LIZS2U(2.8-12mm)
+Hikvision
+Skladem
+8MPx IP hybridní venkovní Bullet kamera Hikvision, 2.8-12mm, úhel záběru 107 - 30°, 0,005Lux, 120db WDR, ONVIF, IR a LED až 60m, 2x mikrofon, Alarm a Audio I/O, SD karta až 512GB, 12VDC/PoE, IP67, IK10
 Pro zobrazení ceny se přihlaste
 dalsi
 Reference

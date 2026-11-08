@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -182,39 +182,39 @@ ZTE ZXHN F6705
 Terminal GPON ONT z Wi-Fi 7, 1 portem 2.5G Ethernet oraz 3 porty 1G Ethernet.
 Przejdź do produktu
 Bestsellery
-440,58 zł
-541,91 zł z VAT
-MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
-384,29 zł
-472,68 zł z VAT
-MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
 264,73 zł
 325,62 zł z VAT
 MikroTik wAP ax zewnętrzny punkt dostępowy Wi-Fi 6 AX3000, 2x GE, PoE IN
-234,84 zł
-288,85 zł z VAT
-MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
+178,01 zł
+218,95 zł z VAT
+MikroTik L41G-2axD hAP ax lite bezprzewodowy router AX574 (Wi-Fi 6), 4x GE
+440,58 zł
+541,91 zł z VAT
+MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
+298,89 zł
+367,63 zł z VAT
+MikroTik RouterBOARD C52iG-5HaxD2HaxD-TC hAP ax2 bezprzewodowy router AX1800, 5x GE
 Promocje
--65%
-20,70 zł
-7,15 zł
-8,79 zł z VAT
-OPTON patchcord FC/APC-SC/UPC SM DUPLEX 3mm 0.5m G652.D
--32%
-4 399,00 zł
-2 999,00 zł
-3 688,77 zł z VAT
-Opton spawarka światłowodowa Signal Fire AI-9
--50%
-299,00 zł
-149,00 zł
-183,27 zł z VAT
-Huawei H801GICF płyta uplinkowa do terminali OLT MA5683T/MA5680T 2x SFP (1G)
--30%
-2 250,00 zł
-1 569,15 zł
-1 930,05 zł z VAT
-NEC iPasolink ODU TRP-10G-1D 350M Lo-A
+-49%
+37,08 zł
+19,01 zł
+23,38 zł z VAT
+Zaciskarka RJ45/RJ11 HT-568
+-51%
+99,00 zł
+48,11 zł
+59,18 zł z VAT
+SFP GPON OLT Class C+ NeoPhotonics
+-26%
+8 999,00 zł
+6 699,00 zł
+8 239,77 zł z VAT
+Zestaw Huawei: terminal OLT MA5800-X17 z szafą N63E-22
+-40%
+9 988,00 zł
+5 999,00 zł
+7 378,77 zł z VAT
+ZTE ZXA10 C320 terminal OLT z 2 płytami kontrolnymi SMXA/3 (zasilanie DC)
 Promocja!
 -8%
 19 000,00 zł netto
@@ -227,7 +227,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-11-07 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-11-08 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

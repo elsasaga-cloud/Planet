@@ -1,4 +1,4 @@
-# SA-040 success-network.co.th · news_1 · https://www.success-network.co.th/news-blogs/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SA-040 success-network.co.th · news_1 · https://www.success-network.co.th/news-blogs/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 ข่าวสารและบทความ (News & Blogs) | Success Network
 Skip to content
 หน้าแรก
@@ -168,9 +168,9 @@ Product
 การเลือกใช้อุปกรณ์ IR หรือ Infrared ให้เหมาะสมตามสถานการณ์ต่างๆ
 Anviz Core Technology
 Software (VMS) สำหรับกล้องวงจรปิด กับ Server ทำอะไรได้บ้าง
-ความรู้ทั่วไปเกี่ยวกับระบบ Access Control
-ระบบการจัดการพลังงานทดแทน (Renewables Management System)
+การสร้าง/พัฒนา AI อย่าง ChatGPT อาจทำให้แรงงานกว่า 300 ล้านคนต้องตกงาน
 Industrial Flat-type Ethernet สำหรับอุตสาหกรรม by PLANET
+ภาพเข้าร่วมงานประชุมวิชาการ “การบริหารจัดการวิกฤตด้านความมั่นคงปลอดภัยต่อโครงสร้างพื้นฐานสำคัญ
 ช่องทางติดต่อ
 Success Network and Communication Co.,Ltd
 @success_network

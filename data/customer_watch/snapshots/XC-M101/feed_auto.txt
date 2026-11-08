@@ -1,4 +1,4 @@
-# XC-M101 Autic System AS · feed_auto · https://www.autic.no/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# XC-M101 Autic System AS · feed_auto · https://www.autic.no/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Fri, 21 Feb 2025 12:16:25 +0000	VA-REVOLUSJON I ÅLESUND!	https://www.autic.no/va-revolusjon-i-alesund/
 Fri, 05 Jan 2024 12:32:12 +0000	Fra batteri- til ladeleverandør med toppsystemet Ignition!	https://www.autic.no/fra-batteri-til-ladeleverandor-med-toppsystemet-ignition/
 Fri, 14 Apr 2023 07:34:57 +0000	SCADA-Systemet Ignition: Modent, frempå og med masse muligheter!	https://www.autic.no/scada-systemet-ignition-modent-frempa-og-med-masse-muligheter/

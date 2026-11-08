@@ -1,4 +1,4 @@
-# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Direktronik - dataprodukter utöver det vanliga
 Varukorg
 Summa produkter:
@@ -353,6 +353,7 @@ Direktansluten lagring 2-24TB
 Förvarning- och Transportlösningar
 Skyddsväskor
 Ryggssäckar och Organizers
+Tillbehör Förvaring
 Andra sätt att hitta på
 AV över IP – strömmande media via Ethernet
 Videoväggar & digital skyltning
@@ -511,6 +512,7 @@ Pressverktyg -hydrauliska
 Förvarning- och Transportlösningar
 Skyddsväskor
 Ryggssäckar och Organizers
+Tillbehör Förvaring
 Data- och Nätverkstest
 Nätverkstester
 Kabeltester CCTV-tester
@@ -644,4 +646,4 @@ Vi kan nätverk
 Vi ser till att lösa dina problem genom vår expertis, nedan finner du ett urval av våra nätverksprodukter!
 Best.nr 20104379
 4-portars Gigabit PoE-injektorer
-Två DC/DC PoE-injektorer som tillhandahåller fyra olika spänningar för inkommande DC. Den utgående effekten är maximalt 35W per port för artikel 20104379 (aktiv PoE) eller 1A per port för 20104378 (passiv 
+Två DC/DC PoE-injektorer som tillhandahåller fyra olika spänningar för inkommande DC. Den utgående effekten är maximalt 35W per port för artikel 20104379 (aktiv PoE)

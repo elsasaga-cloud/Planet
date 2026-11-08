@@ -1,4 +1,4 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
 	https://market-telecom.kz/
 2026-11-07	https://market-telecom.kz/blog
 2026-10-23	https://market-telecom.kz/services
@@ -71,7 +71,7 @@
 2026-11-03	https://market-telecom.kz/blog/office-2024-home-business-ili-ltsc-standard
 2026-10-24	https://market-telecom.kz/blog/priemka-sks-testirovanie
 2026-10-22	https://market-telecom.kz/blog/adresnaya-ili-neadresnaya-pozharnaya-signalizatsiya
-2026-10-23	https://market-telecom.kz/blog/tsd-wifi-sklad
+2026-11-07	https://market-telecom.kz/blog/tsd-wifi-sklad
 2026-10-19	https://market-telecom.kz/blog/litsenzii-windows-11-pro-chem-otlichayutsya-oem-doem-box-i-legalization
 2026-10-01	https://market-telecom.kz/blog/trebovaniya-pozharnaya-signalizatsiya-kazakhstan
 2026-09-16	https://market-telecom.kz/news/trebovaniya-videonablyudenie-kazakhstan

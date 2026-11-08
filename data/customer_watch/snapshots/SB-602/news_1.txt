@@ -1,4 +1,4 @@
-# SB-602 ANIL · news_1 · https://aniltelekom.com/tr/haberler · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-602 ANIL · news_1 · https://aniltelekom.com/tr/haberler · fetched 2026-11-08T09:13:02Z · HTTP 200
 Anıl Telekom Haberler - Anıl Telekom
 Yükleniyor
 İletişim
@@ -144,7 +144,7 @@ E-posta Adresi
 Cep Telefon Numarası (Doğrulama SMS'i gönderilecek)
 Adres
 Katılımcı Sayısı
-Lütfen KEDİ simgesini işaretleyiniz
+Lütfen MONİTÖR simgesini işaretleyiniz
 IDS - İnsan Doğrulama Sistemi
 Talep Gönder
 SMS Doğrulama

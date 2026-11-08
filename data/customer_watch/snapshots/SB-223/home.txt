@@ -1,4 +1,4 @@
-# SB-223 2mtechnology.net · home · https://www.2mtechnology.net/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-223 2mtechnology.net · home · https://www.2mtechnology.net/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Advanced Security for High-Risk Environments | 2M Technology
 Skip to content
 Products
@@ -262,10 +262,6 @@ New Products
 Explosion-Proof Power Box
 Secure industrial wiring with this explosion-proof power box built with 304 or 316L stainless steel. Features Ex d IIC T6 rating and IP66/NEMA-4X protection.
 Explore All Features
-2MSLT-3240
-Mobile 3-Panel Solar Light Trailer
-Mobile solar light tower trailer with 3 panels, a 24.6 ft adjustable mast, 40,800 lumens of bright LED coverage, and up to 48 hours of off-grid runtime.
-Explore All Features
 2MSLT-2120
 2-Panel Solar Light Tower Trailer
 2-panel solar light tower trailer featuring 20,400 lumens output, a 21 ft telescopic mast, and up to 40 hours of runtime with zero fuel and noise emissions.
@@ -281,6 +277,10 @@ Explore All Features
 2MEP-IP4M4X
 4MP 4x Zoom Explosion-Proof Mini PTZ Camera for Mining
 Explosion-proof mini PTZ camera for underground mining surveillance. Features 4MP resolution, 4x optical zoom, and IR lights for up to 20m night vision.
+Explore All Features
+2MEXH-4616
+ATEX/IECEx-Certified Explosion-Proof Bullet Camera Housing
+Certified IECEx/ATEX bullet camera housing for safe surveillance in hazardous Gas Zones 1/2, Dust Zones 20/21/22. Explosion-proof, waterproof, and rustproof.
 Explore All Features
 Unified Security Infrastructure for Industrial Facilities
 Integrated Security Infrastructure Design
@@ -324,4 +324,4 @@ Custom Explosion-Proof Verkada Bullet Camera Housings: One Camera, Two Solutions
 Deploy any Verkada camera in hazardous areas without compromise. 2M designs every custom explosion-proof Verkada bullet camera housing to match your specs.
 Read Case Study
 Energy Site: Custom 10-ft Container Turnstile Checkpoint Fabrication
-When a Louisiana energy company needed a portab
+When a Louisiana e

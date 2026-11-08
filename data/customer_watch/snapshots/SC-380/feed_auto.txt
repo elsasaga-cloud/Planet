@@ -1,4 +1,4 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
 Sat, 07 Nov 2026 01:52:58 GMT	[공지] ipTIME CCTV 앱(안드로이드) 계정 가입 시 인증번호 미발송 현상 해결	https://iptime.com/notices/27788
 Sat, 07 Nov 2026 01:49:41 GMT	[공지] ipTIME CCTV 앱(안드로이드) 계정 가입 시 인증번호 미발송 현상 해결 완료	https://iptime.com/support/faq/27787
 Fri, 06 Nov 2026 08:32:21 GMT	[ipTIME 카메라] 홈캠 AI 감지는 유료인가요? 구독해야 하나요?	https://iptime.com/support/faq/27784

@@ -1,4 +1,4 @@
-# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Nelly's Security | CCTV, Access Control, and Intrusion Alarms
 Skip to content
 855-340-9999 / 9AM - 5PM CST / Monday - Friday
@@ -381,13 +381,6 @@ $939.00
 Unit price
 /
 per
-UNV 4K UltraHD Prime I NDAA-Compliant Weatherproof Turret IP Security Camera with a 2.8mm Fixed Lens and Deep Learning Artificial Intelligence (IPC3618SB-ADF28KM-I0)
-Translation missing: en.products.product.sku: SKU# 3300
-Vendor:
-Uniview
-UNV 4K UltraHD Prime I NDAA-Compliant Weatherproof Turret IP Security Camera with a 2.8mm Fixed Lens and Deep Learning Artificial Intelligence (IPC3618SB-ADF28KM-I0)
-Regular price
-$669.00
 Guard Series NDAA Compliant 8MP 4K 2.8mm Fixed Lens IP Turret Security Camera w/ IR for Night Vision, AI Smart Events & Built-In Mic (H1T-8F28)
 Translation missing: en.products.product.sku: SKU# 3435NB
 Vendor:
@@ -395,13 +388,13 @@ Guard Series
 Guard Series NDAA Compliant 8MP 4K 2.8mm Fixed Lens IP Turret Security Camera w/ IR for Night Vision, AI Smart Events & Built-In Mic (H1T-8F28)
 Regular price
 $529.00
-UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
-Translation missing: en.products.product.sku: SKU# 3399
+UNV 4K UltraHD Prime I NDAA-Compliant Weatherproof Turret IP Security Camera with a 2.8mm Fixed Lens and Deep Learning Artificial Intelligence (IPC3618SB-ADF28KM-I0)
+Translation missing: en.products.product.sku: SKU# 3300
 Vendor:
 Uniview
-UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
+UNV 4K UltraHD Prime I NDAA-Compliant Weatherproof Turret IP Security Camera with a 2.8mm Fixed Lens and Deep Learning Artificial Intelligence (IPC3618SB-ADF28KM-I0)
 Regular price
-$999.00
+$669.00
 UNV 4MP NDAA Compliant Weatherproof IR Turret Security Camera with 2.8mm Fixed Lens and Built-In Mic (EC-T4F28M-V3)
 Translation missing: en.products.product.sku: SKU# 3791
 Vendor:
@@ -416,6 +409,13 @@ $279.00
 Unit price
 /
 per
+UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
+Translation missing: en.products.product.sku: SKU# 3399
+Vendor:
+Uniview
+UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
+Regular price
+$999.00
 UNV 5MP LightHunter Weatherproof HD Turret TVI/AHD/CVI/CVBS Analog Security Camera with a 2.8mm Fixed Lens (UAC-T125-AF28M)
 Translation missing: en.products.product.sku: SKU# 3709
 Vendor:
@@ -430,13 +430,6 @@ Uniview
 UNV 12MP 4K Ultra HD Panoramic IR Fisheye Security Camera (IPC86CEB-AF18KC-I0)
 Regular price
 $2,349.00
-UNV 5MP Tri-Guard NDAA-Compliant Mini PTZ Dome IP Security Camera Dual-light with Active Deterrence, Deep Learning AI, 24/7 Color Illumination, 5X Zoom Lens, and Autotracking (IPC6325LFW-AX5C-VG)
-Translation missing: en.products.product.sku: SKU# 3843
-Vendor:
-Uniview
-UNV 5MP Tri-Guard NDAA-Compliant Mini PTZ Dome IP Security Camera Dual-light with Active Deterrence, Deep Learning AI, 24/7 Color Illumination, 5X Zoom Lens, and Autotracking (IPC6325LFW-AX5C-VG)
-Regular price
-$1,009.00
 L-Series 4K Wide Angle 226° FOV Panoramic NDAA Compliant Weatherproof Turret IP Security Camera with 24/7 Color, Active Deterrence, AI-Powered Smart Events, IR Lights, Built-in Mic (L8T-WIDE)
 Translation missing: en.products.product.sku: SKU# 3983
 Vendor:
@@ -451,6 +444,13 @@ $344.99
 Unit price
 /
 per
+UNV 5MP Tri-Guard NDAA-Compliant Mini PTZ Dome IP Security Camera Dual-light with Active Deterrence, Deep Learning AI, 24/7 Color Illumination, 5X Zoom Lens, and Autotracking (IPC6325LFW-AX5C-VG)
+Translation missing: en.products.product.sku: SKU# 3843
+Vendor:
+Uniview
+UNV 5MP Tri-Guard NDAA-Compliant Mini PTZ Dome IP Security Camera Dual-light with Active Deterrence, Deep Learning AI, 24/7 Color Illumination, 5X Zoom Lens, and Autotracking (IPC6325LFW-AX5C-VG)
+Regular price
+$1,009.00
 Uniarch by Uniview FullHD 1080p 2MP Weatherproof Turret IP Security Camera with a 2.8mm Fixed Lens (IPC-T122-APF28)
 Translation missing: en.products.product.sku: SKU# 3497
 Vendor:

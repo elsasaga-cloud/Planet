@@ -1,2 +1,2 @@
-# SC-1675 tekmodul.de · feed_auto · https://www.tekmodul.de/en/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-1675 tekmodul.de · feed_auto · https://www.tekmodul.de/en/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Thu, 03 Nov 2022 11:15:16 +0000	LC76 – brand new family of multi-constellation GNSS modules	https://www.tekmodul.de/en/lc76-family-gnss-en/?utm_source=rss&utm_medium=rss&utm_campaign=lc76-family-gnss-en

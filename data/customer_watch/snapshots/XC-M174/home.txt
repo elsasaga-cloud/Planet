@@ -1,4 +1,4 @@
-# XC-M174 Control Technologies UK Ltd · home · https://controltech.uk.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# XC-M174 Control Technologies UK Ltd · home · https://controltech.uk.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Control Technologies UK | Webshop
 Skip to content 🎓 The CT-UK Academy is LIVE! Start learning CAN with our FREE Fundamentals course. More specialist courses coming soon. Explore now →
 Menu
@@ -625,7 +625,7 @@ Search for a product
 View More Brands
 Explore all PEAK products
 PCAN-USB XL
-Regular price $716.00 (Excl VAT)
+Regular price $715.00 (Excl VAT)
 PCAN-MicroMod FD
 Regular price $179.00 (Excl VAT)
 PCAN-USB Adapter
@@ -639,7 +639,7 @@ FMB204
 Regular price $93.00 (Excl VAT)
 Explore all CSS Electronics products
 CANsub
-From $566.00 (Excl VAT)
+From $565.00 (Excl VAT)
 CANedge3: 2x CAN Bus Data Logger (SD + 3G/4G + GPS/IMU)
 From $973.00 (Excl VAT)
 CANedge2: 2x CAN Bus Data Logger (SD + WiFi + GPS/IMU)

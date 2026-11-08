@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -162,9 +162,9 @@ Sold Out
 판매가 : 91,300원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC4000HP 관리형 L2 스위치 (1Gbps PoE 24포트/1G SFP 4슬롯)
-상품요약정보 : 1Gbps SFP 4슬롯(콤보 23, 24) / PoE 380W / 웹기반 매니지먼트 / 439.5(W) x 300(D) x 44(H)mm
-판매가 : 699,600원
+SFC510LRP PoE스위치 롱 리치 PoE 비관리형 스위치
+상품요약정보 : 100Mbps 802.at 30W PoE 8Ports + 100Mbps/1G UTP 1Port + 100M/1G SFP 1Slot
+판매가 : 222,200원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC8000G 산업용 관리형 L2 스위치 (1Gbps TP 8포트/1G SFP 2슬롯/2.5G SFP 2슬롯) (전원공급장치 포함)
@@ -183,14 +183,15 @@ Sold Out
 판매가 : 190,000원
 LIKE IT ! 0
 Sold Out
-랜스타 HDMI 2.1 8K AOC 배관용 분리형 광케이블 30m LS-HAP21AOC-30M
-상품요약정보 : HDMI 2.1 AOC 배관용 분리형 케이블 / HDMI D > A 커넥터 / 8K@60Hz, 4K@120Hz 해상도 지원 / HDMI2.1 전용 기능 지원 / OD 5.2mm / 30M
-판매가 : 68,500원
+솔텍 SFC4000HP 관리형 L2 스위치 (1Gbps PoE 24포트/1G SFP 4슬롯)
+상품요약정보 : 1Gbps SFP 4슬롯(콤보 23, 24) / PoE 380W / 웹기반 매니지먼트 / 439.5(W) x 300(D) x 44(H)mm
+판매가 : 699,600원
 LIKE IT ! 0
 Sold Out
-SFC510LRP PoE스위치 롱 리치 PoE 비관리형 스위치
-상품요약정보 : 100Mbps 802.at 30W PoE 8Ports + 100Mbps/1G UTP 1Port + 100M/1G SFP 1Slot
-판매가 : 222,200원
+인네트워크 IN-MINI FDF SC-4C 국산 SC 4CORE 광분배함 INO074
+상품요약정보 : Mini FDF / 4회선 접속
+소비자가 : 17,200원
+판매가 : 13,700원
 FiberMart 특가
 더보기
 LIKE IT ! 0
@@ -439,6 +440,10 @@ Sold Out
 먼저 사용해본 분들의 후기를 확인해보세요
 더보기
 만족
+배송이 빨라요. 사용해 보겠습니다
+(2026-11-07 에 등록된 네이버 페이 구매평)
+벤션 아이언실버 8K HDMI 2.1 케이블 1m ALCIF
+만족
 빠른 배송 ......
 (2026-11-06 에 등록된 네이버 페이 구매평)
 현대가방 루피지 HD-8000 크로스백 공구가방 150 X 250 X 50
@@ -470,9 +475,6 @@ APC UPS 정품 교체 배터리 (RBC6)
 잘 시공 하였습니다.
 (2026-10-20 에 등록된 네이버 페이 구매평)
 (난연 케이블)가온전선 광케이블 SM-24C 커팅 옥외용
-동작 잘됩니다. 감사합니다.
-(2026-10-10 에 등록된 네이버 페이 구매평)
-입고예정 예약주문 FM-SFP-LX 광모듈 미니지빅
 문의 및 상담
 {#imgTag_1}
 {#imgTag_2}

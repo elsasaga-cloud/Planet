@@ -1,4 +1,4 @@
-# SB-1122 comtinu.ru · feed_auto · https://www.comtinu.ru/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-1122 comtinu.ru · feed_auto · https://www.comtinu.ru/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Mon, 30 Mar 2026 14:02:52 +0000	Модули 400 и 800G для платформ Xinertel	https://www.comtinu.ru/2026/03/30/winertel-800g/
 Tue, 12 Apr 2022 10:53:00 +0000	NTP/PTP серверы TP4100 в наличии	https://www.comtinu.ru/2022/04/12/tp4100-on-stock/
 Tue, 25 Jan 2022 15:14:59 +0000	BD-1024-PS — новый цезиевый стандарт частоты ePRC G.811.1 ITU поставляется без ограничений	https://www.comtinu.ru/2022/01/25/microchip-timecraft/

@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC2Ch0oQ6iviZUiNpUy1U1bA · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-784 sklep-bcs.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC2Ch0oQ6iviZUiNpUy1U1bA · fetched 2026-11-08T09:13:02Z · HTTP 200
 2025-01-17T12:12:06+00:00	Kamera BCS-P-TIP24FCL3-Ai1 DZIEN NOC NightColor	https://www.youtube.com/watch?v=PGvRvSO4cSU
 2022-12-07T11:53:30+00:00	MBS Systems - Z nami poczujesz się bezpiecznie	https://www.youtube.com/watch?v=mzdy8U-rGpk
 2022-12-07T11:23:33+00:00	Sklep-BCS.pl - prosty konfigurator zestawów monitoringu	https://www.youtube.com/watch?v=piBgjyAtRVI

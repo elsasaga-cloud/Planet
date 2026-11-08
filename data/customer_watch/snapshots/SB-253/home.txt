@@ -1,4 +1,4 @@
-# SB-253 provision-isr.com · home · https://provision-isr.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-253 provision-isr.com · home · https://provision-isr.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Home - Provision-ISR Skip to content
 INFO About Provision-ISR
 News
@@ -317,6 +317,14 @@ PoE NVR Setup Tutorial
 Setting up your Provision-ISR PoE NVR? Our step-by-step video tutorial guides you through the entire process, from connecting your cameras and configuring your recorder to setting up recording and accessing live video on your phone. Discover how PoE technology simplifies installation with a single cable for power and video, while automatic camera detection makes getting started even easier. Everything you need to get your surveillance system up and running.
 Watch Tutorial
 Latest News
+Friday, 6 November, 2026
+Panoramic Camera
+A wider view is just the beginning. Provision-ISR’s Panoramic Cameras combine 180° coverage with intelligent DDA analytics, Hybrid Light technology, ...
+Read More
+Monday, 2 November, 2026
+Nx Witness
+Provision-ISR × Nx Witness. A smart connection. Your Provision-ISR cameras detect. Nx Witness connects the dots. AI Analytics, LPR, and ...
+Read More
 Friday, 30 October, 2026
 Security Canada 2026
 Toronto, you gave us a lot to talk about. Security Canada 2026 brought the industry together, with our trusted partner ...
@@ -348,14 +356,6 @@ Read More
 Tuesday, 6 October, 2026
 Thermal Fire Detection
 Thermal cameras do more than provide visibility in darkness. By monitoring temperature changes, they can help identify abnormal heat before ...
-Read More
-Friday, 2 October, 2026
-Prana Vision – UK
-Looking for Provision-ISR in the UK? You’ve come to the right place. Meet Prana Vision, our UK distribution partner, bringing ...
-Read More
-Monday, 28 September, 2026
-Burglar Alarm Linkage
-Connect your Provision-ISR NVR to a burglar alarm system and link human detection to the alarm’s armed state. With Burglar ...
 Read More
 See all news
 Our Offices
@@ -423,8 +423,4 @@ Monitors
 HDMI Accessories
 Connectors
 UTP Baluns
-Joysticks
-Lenses
-UPS
-Others
-
+Joyst

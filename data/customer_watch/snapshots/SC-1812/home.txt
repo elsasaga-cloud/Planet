@@ -1,4 +1,4 @@
-# SC-1812 ns-t.ru · home · https://ns-t.ru/ · fetched 2026-11-01T09:25:59Z · HTTP 200
+# SC-1812 ns-t.ru · home · https://ns-t.ru/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Российский вендор сетевого оборудования в Москве| New system technologies
 ×
 Продолжить
@@ -89,21 +89,18 @@ SFP модули
 Удлинители Ethernet + PoE
 Уличные коммутаторы IP66
 Поступление НОВИНОК на склад
-NEW
 NS-SW-4G2X-P/I
 Код: NS-SW-4G2X-P/I
 Бренд: NST
 14 000.00 р.
 В корзину
 По запросу
-NEW
 NS-SW-4G2X-SP/I
 Код: NS-SW-4G2X-SP/I
 Бренд: NST
 17 500.00 р.
 В корзину
 По запросу
-NEW
 NS-SW-4G2X-PL/I
 Код: NS-SW-4G2X-PL/I
 Бренд: NST
@@ -116,14 +113,12 @@ NS-SW-8F2G2X-PL/I
 28 500.00 р.
 В корзину
 По запросу
-NEW
 NS-SW-8G2G2X-P/I
 Код: NS-SW-8G2G2X-P/I
 Бренд: NST
 18 000.00 р.
 В корзину
 По запросу
-NEW
 NS-MC-1G1GX-P/IA
 Код: NS-MC-1G1GX-P/IA
 Бренд: NST

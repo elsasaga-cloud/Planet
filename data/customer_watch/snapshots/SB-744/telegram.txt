@@ -1,4 +1,4 @@
-# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-11-08T09:13:02Z · HTTP 200
 COMMANDO Networks – Telegram
 COMMANDO Networks
 @commandonetworks
@@ -76,7 +76,7 @@ HIGHLIGHTS:
 • IEEE 802.3af PoE and 12V DC Dual Power Input
 • Elegant Ceiling-Mount Design with Concealed Ports
 https://www.commandonetworks.com/wireless/AIRY-AP1500AX
-27 views
+28 views
 COMMANDO Networks
 AIRY-AP3000AX
 COMMANDO AirY 3000Mbps, 802.11ax OFDMA+MU-MIMO, WiFi 6 Access Point
@@ -124,7 +124,7 @@ HIGHLIGHTS:
 • 2 × High-Gain 5dBi External Dual-Band Antennas
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-APO1200
-25 views
+26 views
 COMMANDO Networks
 AIRY-APO3000AX
 COMMANDO AirY 3000Mbps, Gigabit 802.11ax, 360° WiFi 6 Outdoor Access Point
@@ -140,7 +140,7 @@ HIGHLIGHTS:
 • 2 × High-Gain 5dBi External Dual-Band Antennas
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-APO3000AX
-20 views
+21 views
 COMMANDO Networks
 AIRY-APO3000MAX
 COMMANDO AirY 3000Mbps, 2.5G 802.11ax, IP67, 360° WiFi 6 Outdoor Access Point
@@ -156,7 +156,7 @@ HIGHLIGHTS:
 • Hardware Watchdog for Automatic System Recovery
 • RF Power Adjustment, VLAN, WPA/WPA2/WPA3 Security, ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-APO3000MAX
-22 views
+23 views
 COMMANDO Networks
 AIRY-APO3600MB
 COMMANDO AirY 3600Mbps, 2.5G 802.11be, 360° WiFi 7 Outdoor Access Point
@@ -172,7 +172,7 @@ HIGHLIGHTS:
 • High-Gain External Dual-Band Waterproof Antennas (5dBi)
 • Industrial-Grade Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-APO3600MB
-20 views
+21 views
 COMMANDO Networks
 AIRY-WB300-1K
 COMMANDO AirY 300Mbps, 2.4GHz, 6dBi, 802.11n, P2P/P2MP, 1KM Wireless Bridge
@@ -188,7 +188,7 @@ HIGHLIGHTS:
 • 12V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB300-1K
-24 views
+25 views
 COMMANDO Networks
 AIRY-WB900-3K
 COMMANDO AirY 900Mbps, 5.8GHz, 12dBi, 802.11ac Wave 2, P2P/P2MP, 3KM Wireless Bridge
@@ -204,7 +204,7 @@ HIGHLIGHTS:
 • 12~48V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-3K
-31 views
+32 views
 COMMANDO Networks
 AIRY-WB900-5K
 COMMANDO AirY 900Mbps, 5.8GHz, 15dBi, 802.11ac Wave 2, P2P/P2MP, 5KM Wireless Bridge
@@ -220,7 +220,7 @@ HIGHLIGHTS:
 • 12~48V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-5K
-45 views
+46 views
 COMMANDO Networks
 AIRY-WB900P-5K
 COMMANDO AirY 900Mbps, 5.8GHz, 14dBi, 802.11ac Wave 2, P2P/P2MP, PoE, Disp, 5KM Wireless Bridge
@@ -236,7 +236,7 @@ HIGHLIGHTS:
 • IPv4/IPv6, LLDP, Cloud Management, and Remote Management (HTTP, Telnet, SSH, SNMP)
 • IP67-Rated Outdoor Design with TVS, ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900P-5K
-61 views
+62 views
 COMMANDO Networks
 AIRY-WB900-8K
 COMMANDO AirY 900Mbps, 5.8GHz, 18dBi, 802.11ac Wave 2, P2P/P2MP, 8KM Wireless Bridge
@@ -252,7 +252,7 @@ HIGHLIGHTS:
 • Intelligent Channel Analysis with Automatic Optimal Channel Selection
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-8K
-82 views
+83 views
 COMMANDO Networks
 COMMANDO IS TEC/MTCTE CERTIFIED! 🏆
 COMMANDO is TEC/MTCTE Certified — _ Compliant with Indian Telecom Regulatory Requirements _ — headquartered in Mumbai, INDIA and distribution centers in multiple countries.
@@ -263,7 +263,7 @@ CATALOG:
 https://commandonetworks.com/catalog
 BECOME CHANNEL PARTNER:
 https://www.commandonetworks.com/partners/partner_program
-64 views
+65 views
 COMMANDO Networks
 10G POE SWITCHES 🏁
 Deliver high-performance networking solutions at competitive prices, improve project margins and win more customer opportunities with COMMANDO.
@@ -280,7 +280,7 @@ Partner Locator:
 https://www.commandonetworks.com/partners/partner_locator
 Catalog:
 https://www.commandonetworks.com/catalog
-54 views
+55 views
 COMMANDO Networks
 ENTERPRISE SWITCHES 🏁
 _COMMANDO Core/Backbone Fiber Routing Switches w/ 10G 40G & 100G — for high performance heavy duty networking._

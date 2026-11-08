@@ -1,4 +1,4 @@
-# SA-036 svn-video.ru · youtube · https://www.youtube.com/@SVNVIDEO · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SA-036 svn-video.ru · youtube · https://www.youtube.com/@SVNVIDEO · fetched 2026-11-08T09:13:02Z · HTTP 200
 2026-09-28T11:23:52+00:00	Обзор NVR 6.0 прошивки IP регистраторов - Часть 3. Обслуживание и прошивка оборудования	https://www.youtube.com/watch?v=tHWwQWciJMY
 2026-09-28T10:38:19+00:00	Обзор NVR 6.0 прошивки IP регистраторов SVN - Часть 2. Режимы записи и подключение камер	https://www.youtube.com/watch?v=vthsfMQ5TgU
 2026-09-28T10:24:55+00:00	Обзор NVR 6.0 прошивки IP регистраторов SVN - 1 Часть. Базовые настройки.	https://www.youtube.com/watch?v=SWi_hG57eQs

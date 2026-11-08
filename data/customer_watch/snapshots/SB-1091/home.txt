@@ -1,4 +1,4 @@
-# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 TRIOTRONIK - der Netzwerkdistributor
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -31,6 +31,7 @@ Glasfaser / FTTX
 Sicherheitssysteme
 Tools / Werkzeuge
 Sale
+Alle
 Switche
 Fiber / SFP
 Managed
@@ -77,15 +78,42 @@ Antennen
 Omni-Antennen
 Richtfunk
 Sektor
+Antennenstecker / Kabel
 Gehäuse
 Zubehör
 Antennenstecker / Kabel
 Displays / Monitore
+Interaktive Monitore
 Digital Signage
 Monitore
 Zubehör
+Gegensprechanlagen / VoIP
+Tür Station, Indoor
+Tür Station, Outdoor
+Tür Station, Zubehör
+VoIP Telefone
 Powerline
+Industrial
+Switche
+Konverter
+Serial Device Server
+Wireless
+Router
+Mobile Router
+Netzteile DIN Rail
+Steuerungstechnik
+Zubehör
+WiFi Zubehör
+Gehäuse
+Koaxial Kabel
+Montagematerial
+Pigtails / Assemblies
+Steckverbinder / Adapter
+Blitzschutz
+Netzteile / PoE
 Datacenter Transceiver
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
 200G QSFP-DD / QSFP56
 10/25/40/100G Transceiver
 100G QSFP28 / SFP-DD
@@ -98,7 +126,15 @@ Datacenter Transceiver
 100MBit SFP
 Access
 GPON
+XG(S)PON
+InfiniBand
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 Ethernet-DAC / AOC Kabel
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 100G QSFP28 / SFP-DD
 25G SFP28
 10G SFP+
@@ -110,8 +146,10 @@ KAT6 ungeschirmt
 KAT5E geschirmt
 Unkonfektioniertes Netzwerkkabel
 Installationskabel
+Kategorie 8
 Kategorie 7A
 Kategorie 7
+Kategorie 6A
 Kategorie 6
 Keystone Systeme
 Keystone Datendosen
@@ -126,6 +164,7 @@ Standschränke
 10" Schränke
 Serverschränke
 Wandschränke
+Stromversorgung
 Zubehör
 Telekom
 Modularkabel
@@ -169,17 +208,27 @@ Mikrokabel
 Minikabel
 Aussenkabel
 Universalkabel
+Innenkabel
+FTTH Innenkabel
+Luftkabel
+Spezialkabel
 Spleiss-/ Verbindungstechnik
 Glasfaser Muffen
 Kupplungen / Adapter
 Pigtails
 Splitter
 MTP® / MPO Produkte
+Kassetten
+Panele
 Patchkabel
+Breakoutkabel
+Trunkkabel
 Zubehör
 Messgeräte
 OTDR
 VFL
+Powermeter
+Mikroskop
 Werkzeuge
 Zubehör
 Videokameras
@@ -199,6 +248,7 @@ Rekorder
 NVR - IP-Digital
 DVR - Analog
 Server
+Workstation
 Speichermedien
 Zutrittssysteme
 Terminal
@@ -214,7 +264,10 @@ Garantieerweiterungen
 Glasfaser Werkzeuge
 Werkzeuge
 OTDR
+VFL
+Powermeter
 Mikroskop
+Zubehör
 Kupfer Werkzeuge
 Werkzeuge
 Werkzeugsets
@@ -279,12 +332,14 @@ PTZ Kameras
 Netzwerk Video Rekorder (NVR)
 Video Intercom
 Display / Überwachung
+Alarmsysteme
 Interaktive Displays
 Zubehör
 Avigilon
 Unity Kameras
 Unity Videoplattform
 Alta Kameras
+Alta Videoplattform
 Zubehör
 Garantieerweiterungen
 Pelco
@@ -306,11 +361,13 @@ Jetting
 Einblasgeräte
 Zubehör Einblasgeräte
 Einblasgeräte
+Zubehör Einblasgeräte
 Jonard Tools
 Glasfaser / FTTx
 Kupfer Verkabelung
 Patchbox
 PATCHBOX one
+PATCHBOX Plus+ KAT.6
 PATCHBOX Plus+ Kassetten
 PATCHBOX 365 Kassetten
 Werkzeug & Zubehör
@@ -336,6 +393,7 @@ KAT6 ungeschirmt
 KAT5E geschirmt
 Unkonfektioniertes Netzwerkkabel
 Installationskabel
+Kategorie 8
 Kategorie 7A
 Kategorie 7
 Kategorie 6A
@@ -373,6 +431,8 @@ Glasfaser Patchkabel
 9µ / OS2 Singlemode
 Spleissboxen
 Spleissboxen bestückt
+Spleissboxen unbestückt
+Breakoutboxen
 Zubehör
 FTTH Boxen
 Wandspleissboxen
@@ -402,14 +462,27 @@ Kupplungen / Adapter
 Pigtails
 Splitter
 MTP® / MPO Produkte
+Kassetten
+Panele
 Patchkabel
+Breakoutkabel
+Trunkkabel
+Zubehör
 Medienkonverter
 Standard
+Industrial
 Messgeräte
 OTDR
 VFL
+Powermeter
+Mikroskop
+Zubehör
 Werkzeuge
 Zubehör
+Datacenter Transceiver
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 10/25/40/100G Transceiver
 100G QSFP28 / SFP-DD
 40G QSFP+
@@ -419,9 +492,17 @@ Zubehör
 2.5G SFP
 1G SFP
 100MBit SFP
+Access
+GPON
+XG(S)PON
 InfiniBand
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
 200G QSFP-DD / QSFP56
 Ethernet-DAC / AOC Kabel
+800G OSFP / QSFP-DD
+400G OSFP / QSFP112 / QSFP-DD
+200G QSFP-DD / QSFP56
 100G QSFP28 / SFP-DD
 25G SFP28
 10G SFP+
@@ -548,6 +629,8 @@ TRANSCEIVER
 100G QSFP28 / SFP-DD
 1G SFP
 ETHERNET-DAC / AOC KABEL
+400G OSFP / QSFP112 / QSFP-DD
+800G OSFP / QSFP-DD
 LIGHTWIN OPTICS
 Alle anzeigen
 GLASFASER / FTTX
@@ -617,40 +700,4 @@ Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um
 Stk
 Neu
 MikroTik
-hAP be³ Media WiFi-7 Home Router, Home Media- und Automatisierungszentrum
-MA53UG+HBEH
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Hikvision
-DS-2SE7C432MWG-EB/26(F0) - 6MP + 4MP TandemVu 32x ColorVu & IR Acusens SpeedDome
-327001129
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-SICO
-SICO Industrieller Switch, 8×GB PoE-Ports + 2×GB SFP-Slots
-SICO-10P-2F8P
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-TP-Link
-Omada Fusion 2.5G Gateway
-FUSION 2.5G
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ubiquiti
-UniFi Express 7 superkompaktes 10G Cloud Gateway mit integriertem WiFi 7
-UX7-3
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Lightwin Optics
-25GBit SFP28 AOC-Kabel (Active Optical Cable)
-LWO-AOC-SFP28-1M
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Hikvision
-DS-2CD2387G3P-LIS2UY/SL(180°) - 8 MP Panorama ColorVu Turret Kamera, schwarz
-311335001
-Produkt Anzahl: Gib den gewüns
+hAP be³ Media WiFi-7 Home Router, Home Media- und Automatisie

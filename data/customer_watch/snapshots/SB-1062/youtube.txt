@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-08T09:13:02Z · HTTP 200
 2026-11-06T12:00:11+00:00	Créer une base de données | Odoo Essentials	https://www.youtube.com/watch?v=grI6Mcx6fP8
 2026-11-06T10:06:53+00:00	How does Italian e-invocing work in Odoo? #odoo #erp #invoicing	https://www.youtube.com/shorts/Fa_pJ5wm3bA
 2026-11-05T19:40:27+00:00	Webinaire - Odoo 20 – Découvrez les nouvelles innovations qui révolutionnent les Services 🚀	https://www.youtube.com/watch?v=eVXVU0rPVa4

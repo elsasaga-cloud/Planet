@@ -1,4 +1,4 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-08T09:13:02Z · HTTP 200
 06.11.2026 09.16.36	QSFP28, 100G/40G SRBD, 2x50 Gbps, 150m	https://www.fiberworks.no/fiberworks-as/qsfp28-sr-bd-ar/qsfp28-100g-40g-srbd-2x50-gbps-150m-850-910-nm-3db-mm-lc-arista
 04.11.2026 12.40.58	Patch SM MPO/APC8(m)/(m), pol B, 12 m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mbm8m-12/patch-sm-mpo-apc8m-m-pol-b-12-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
 04.11.2026 12.36.59	Patch SM MPO/APC8 Hann-Hann, pol B xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mbm8m-xx/patch-sm-mpo-apc8-hann-hann-pol-b-xx-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite

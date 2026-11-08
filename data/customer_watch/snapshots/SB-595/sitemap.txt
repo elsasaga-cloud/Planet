@@ -1,4 +1,4 @@
-# SB-595 mpcl.in · sitemap · https://mpcl.in/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-595 mpcl.in · sitemap · https://mpcl.in/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
 2021-04-07T07:57:47+00:00	https://www.mpcl.in/
 2021-04-07T07:57:47+00:00	https://www.mpcl.in/work-from-home/
 2021-04-07T07:57:47+00:00	https://www.mpcl.in/about/

@@ -1,4 +1,4 @@
-# SB-643 arbybilgisayar.com.tr · sitemap · https://www.arbybilgisayar.com.tr/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-643 arbybilgisayar.com.tr · sitemap · https://www.arbybilgisayar.com.tr/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
 2025-10-21T07:00:05+00:00	https://www.arbybilgisayar.com.tr/
 2025-10-21T07:00:05+00:00	https://www.arbybilgisayar.com.tr/hakkimizda/
 2025-10-21T07:00:05+00:00	https://www.arbybilgisayar.com.tr/kalite/

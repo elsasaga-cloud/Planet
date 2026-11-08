@@ -1,11 +1,11 @@
-# SB-1134 conexionderedes.com · sitemap · https://www.conexionderedes.com/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
-2026-11-07T09:04:11.190Z	https://conexionderedes.com
-2026-11-07T09:04:11.190Z	https://conexionderedes.com/tienda
-2026-11-07T09:04:11.190Z	https://conexionderedes.com/servicios
-2026-11-07T09:04:11.190Z	https://conexionderedes.com/videos
-2026-11-07T09:04:11.190Z	https://conexionderedes.com/novedades
-2026-11-07T09:04:11.190Z	https://conexionderedes.com/quienes-somos
-2026-11-07T09:04:11.190Z	https://conexionderedes.com/contacto
+# SB-1134 conexionderedes.com · sitemap · https://www.conexionderedes.com/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+2026-11-08T09:18:31.041Z	https://conexionderedes.com
+2026-11-08T09:18:31.041Z	https://conexionderedes.com/tienda
+2026-11-08T09:18:31.041Z	https://conexionderedes.com/servicios
+2026-11-08T09:18:31.041Z	https://conexionderedes.com/videos
+2026-11-08T09:18:31.041Z	https://conexionderedes.com/novedades
+2026-11-08T09:18:31.041Z	https://conexionderedes.com/quienes-somos
+2026-11-08T09:18:31.041Z	https://conexionderedes.com/contacto
 2026-02-18T21:58:51.630Z	https://conexionderedes.com/novedades/gabinete-de-exteriores-de-montaje-en-poste
 2026-08-21T20:56:43.070Z	https://conexionderedes.com/novedades/catalogo-2026-energia-solar-conectividad-industrial-proteccion-descargas
 2026-02-19T18:11:00.320Z	https://conexionderedes.com/tienda/7dc3f8b2-d016-41f3-aa68-0a645a889167

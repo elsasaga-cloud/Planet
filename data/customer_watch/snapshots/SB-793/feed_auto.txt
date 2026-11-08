@@ -1,4 +1,5 @@
-# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+Sun, 08 Nov 2026 02:21:48 +0000	Facial Recognition Versus Keycards Compared	https://worldstarsecuritycameras.com/facial-recognition-versus-keycards/
 Fri, 06 Nov 2026 02:14:57 +0000	Access Control vs Traditional Keys for Business	https://worldstarsecuritycameras.com/access-control-vs-traditional-keys/
 Wed, 04 Nov 2026 02:21:13 +0000	How to Mount PTZ Security Cameras Correctly	https://worldstarsecuritycameras.com/how-to-mount-ptz-security-cameras/
 Mon, 02 Nov 2026 02:14:18 +0000	Commercial WiFi CCTV Solutions That Scale	https://worldstarsecuritycameras.com/commercial-wifi-cctv-solutions/
@@ -8,4 +9,3 @@ Tue, 27 Oct 2026 04:01:43 +0000	Firewall for Security Camera Network Setup	https
 Fri, 23 Oct 2026 04:04:35 +0000	How to Troubleshoot PoE Switch Failures Fast	https://worldstarsecuritycameras.com/troubleshoot-poe-switch-failures/
 Tue, 20 Oct 2026 21:50:25 +0000	Matched Cameras and NVR: Why One Brand Saves Time on Every Job	https://worldstarsecuritycameras.com/matched-security-cameras-and-nvr-save-time/
 Tue, 13 Oct 2026 19:46:24 +0000	Can Your Hotel Hear You? Hotel Camera Laws, Wiretapping Rules and Your Guest Room Privacy Rights	https://worldstarsecuritycameras.com/hotel-camera-laws-guest-room-privacy-rights/
-Fri, 09 Oct 2026 04:02:19 +0000	The Future of AI Video Analytics for Security	https://worldstarsecuritycameras.com/future-of-ai-video-analytics-security/

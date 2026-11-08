@@ -1,4 +1,4 @@
-# SB-590 carritech.com · feed_auto · https://carritech.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-590 carritech.com · feed_auto · https://carritech.com/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Mon, 02 Nov 2026 13:13:32 +0000	Alarm Hygiene: Why Nobody Trusts the Alarm List and How to Fix It	https://carritech.com/telecom-alarm-management/
 Mon, 02 Nov 2026 13:13:31 +0000	Who Owns the Spare? Consignment, Bonded and Customer-Owned Stock	https://carritech.com/telecom-consignment-stock/
 Mon, 02 Nov 2026 13:13:30 +0000	Stripping a Decommissioned Site: What to Keep, Sell, Repair or Scrap	https://carritech.com/decommissioned-equipment-recovery/

@@ -1,4 +1,4 @@
-# SB-622 market-telecom.kz · home · https://market-telecom.kz/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-622 market-telecom.kz · home · https://market-telecom.kz/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Сетевое и телекоммуникационное оборудование в Казахстане
 Каталог
 +7 705 735 99 88
@@ -192,6 +192,8 @@ PRO32
 Гарнитура
 Антенны
 МФУ
+Цветные МФУ
+Чернобелые МФУ
 Принтеры
 Уничтожители бумаги
 Картриджи
@@ -258,6 +260,18 @@ Wi-Fi оборудование
 СКУД
 Оптоволоконные сети
 Популярные товары
+Dahua DH-XVR1B04-I/T
+Арт. 83120
+26 900 ₸
+Dahua DH-XVR1B04-I/T
+Dahua DH-HAC-B1A21P-0280B
+Арт. 34316
+9 347 ₸
+Dahua DH-HAC-B1A21P-0280B
+Dahua DH-IPC-HFW2449TL-S-PRO
+Арт. 69866
+69 840 ₸
+Dahua DH-IPC-HFW2449TL-S-PRO
 Grandstream GRP2601
 Арт. !51120
 22 500 ₸
@@ -266,18 +280,6 @@ SHIP 5406.01.100 6U
 Арт. 01789
 42 230 ₸
 SHIP 5406.01.100 6U
-Dahua DH-HAC-B1A21P-0280B
-Арт. 34316
-9 347 ₸
-Dahua DH-HAC-B1A21P-0280B
-Dahua DH-XVR1B04-I/T
-Арт. 83120
-26 900 ₸
-Dahua DH-XVR1B04-I/T
-Dahua DH-IPC-HFW2449TL-S-PRO
-Арт. 69866
-69 840 ₸
-Dahua DH-IPC-HFW2449TL-S-PRO
 Dahua DH-PFM920I-5EUN
 Арт. !31513
 48 025 ₸
@@ -326,7 +328,8 @@ Dahua DHI-VTO3311Q-WP
 118 870 ₸
 Dahua DHI-VTO3311Q-WP
 Dahua DHI-VTO2101E-P-S2
-Цена по запросу
+Арт. 54363
+67 900 ₸
 Dahua DHI-VTO2101E-P-S2
 Dahua DH-VTO1201G-P
 Цена по запросу
@@ -392,7 +395,7 @@ Call-центр
 Выполнено более 20 000 заказов
 © 2010-2026 «Авантаж» Интернет-магазин телекоммуникационного оборудования.
 Онлайн оплата
-6429 товаров в наличии
+6432 товаров в наличии
 info@market-telecom.kz
 Задать вопрос
 О магазине

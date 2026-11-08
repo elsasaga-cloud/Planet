@@ -1,4 +1,4 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-08T09:13:02Z · HTTP 200
 Fri, 06 Nov 2026 09:02:18 +0000	Kyland obtiene una nueva certificación IEC 62443-4-2 para sus switches Ethernet industriales SICOM y AQUAM	https://www.davantel.com/kyland-obtiene-una-nueva-certificacion-iec-62443-4-2-para-sus-switches-ethernet-industriales-sicom-y-aquam
 Fri, 06 Nov 2026 09:00:00 +0000	Modbus a MQTT en el edge: Transformando datos de PLC en información industrial IoT lista para la nube	https://www.davantel.com/modbus-a-mqtt-en-el-edge-transformando-datos-de-plc-en-informacion-industrial-iot-lista-para-la-nube
 Thu, 05 Nov 2026 09:00:00 +0000	Meter bus: cómo conectar contadores M-Bus	https://www.davantel.com/meter-bus

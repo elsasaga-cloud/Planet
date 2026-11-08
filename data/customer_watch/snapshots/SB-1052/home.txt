@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -213,16 +213,6 @@ Cikkszám: TA-K661ADIG
 m
 Kosárba
 Részletek
-UTP Cat5e falkábel, PVC 305m DK1511-V-305-1
-Villámnézet
-Cikkszám: TA-K561DIG
-Ár:
-115 Ft + ÁFA
-(146 Ft)
-Előrendelhető
-m
-Kosárba
-Részletek
 Keystone modul FTP Cat6a (180 fokos) toolless DN-93615
 Villámnézet
 Cikkszám: TA-180FTPC6ATD
@@ -231,6 +221,16 @@ Cikkszám: TA-180FTPC6ATD
 (1.847 Ft)
 1754 db raktáron
 db
+Kosárba
+Részletek
+UTP Cat5e falkábel, PVC 305m DK1511-V-305-1
+Villámnézet
+Cikkszám: TA-K561DIG
+Ár:
+115 Ft + ÁFA
+(146 Ft)
+Előrendelhető
+m
 Kosárba
 Részletek
 FTP Cat5 földkábel FTK5814,DK-1521-V-5-OD

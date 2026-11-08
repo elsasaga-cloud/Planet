@@ -1,4 +1,4 @@
-# SC-1493 duxbury.co.za · news_2 · https://www.duxbury.co.za/blog/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-1493 duxbury.co.za · news_2 · https://www.duxbury.co.za/blog/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Blog – Duxbury Networking
 Have Any Questions?
 011 351 9800
@@ -162,116 +162,80 @@ April 21, 2026
 Duxbury Networking
 1 2 3 4
 Category
-Press Release
-+
-Thought Leadership
+Blog
 +
 Topics
 Choose an option
-Agriculture
+access point
 AI
-AP on a Stick
+Audiovisual
 Axis
-Backhaul
-Bandwidth
 Bestpractice
-Broadband
+Blog
 Business
 Cambium
-Campus Networking
 Cellular Connectivity
-Ceragon Networks
 Channel
 Cloud
 Cloud Control
 cnMaestro
+Compass XR
 Cybersecurity
-Cynet
-Dark Web Monitoring
 Data Centre
 Device Management
+Dux in a Row
 Duxbury
 Duxbury Cybersecurity
-Duxbury Services
+Duxbury Networking
 Duxbury Surveillance
 Duxbury Wireless
 DuxNet
 DuxNet Premium
-endpoint
 Enterprise Networking
 Extreme
-Farming
-FF Group
-Firewall
-Firewalls
 Hanwha
-healthcare sector
 Home
-HPE
-HPE Aruba Central
+hospitality
 HPE Aruba Networking
-HPE Juniper Networking
-HPE Mist
-HPE Networking Instant On
-ICASA
 ICT Skills
-Indoor Wireless
+Installers
 Integrated Surveillance Solutions
-IoT
-IP-50CX
-IP-50EX
 Ironlink
-ISP
-logistics Sector
-Masterclass
+MarketApps
+Marketing
 MDR
-Mesh WiFi
-Mikrotik
-Milesight
 Milestone
-Mining
 MSP
 Netgear
+NETGEAR AV
 Network Management
+Next Business Day
 Nextivity
-Northwest Towers
-Outdoor Wireless
 Passive Wireless Survey
+Pre-sales support
 Predictive Wireless Survey
-Rajant
+Resellers
 retail sector
-SAFR
 SASE
 SDWAN
-Secure Gateways
-Security
-Self-driving Networks
 Services
+SFP
 signal boosters
 SMB
 SME
-Solar
 Sophos
+SSE
 Surveillance
 Surveillance Camera
 switches
-Tachyon
 Technical
 Technical Services
 Technical Support
-unified security platform
 User Experience Monitoring
-Velasea
-VMS
-VPN
-WAPA
-Watchguard
-WiFi6
+wi-fi
 WiFi7
 Wireless
 WISP
-XDR
-Zero Trust
 ZTNA
 Subscribe Here to Receive
 Weekly Email Communication

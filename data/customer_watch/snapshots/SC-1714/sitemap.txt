@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · sitemap · https://www.omniray.ch:443/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-1714 omniray.ch · sitemap · https://www.omniray.ch:443/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
 	https://www.omniray.ch/omni-ray-ag
 	https://www.omniray.ch/produkte
 	https://www.omniray.ch/netzwerk-computing

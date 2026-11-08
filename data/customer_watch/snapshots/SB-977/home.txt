@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Eltrox.cz | Zabezpečovací systémy a chytrá domácnost
 Cookie consent
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
@@ -57,7 +57,7 @@ Stahovací pásky ,
 Ostatní příslušenství ,
 Instalační krabice ,
 Kryty ,
-Držáky a adaptéry ,
+Držáky, konzole a montážní patice pro kamery ,
 Konektory, zástrčky, zásuvky ,
 Příslušenství pro montáž ,
 Kabely ,
@@ -191,9 +191,9 @@ Anténní držáky a montážní příslušenství ,
 TV zásuvky a modulátory ,
 Měřiče TV a satelitního signálu
 IT vybavení Datové rozvaděče FAV
-Příslušenství pro datové rozvaděče, serverové skříně ,
 Nastěnné datové rozvaděče ,
 Stojanové datové rozvaděče,Rack skříně ,
+Příslušenství pro datové rozvaděče, serverové skříně ,
 Připravené stojanové sady ,
 Multimediální skříně, teletechnika ,
 Technické rozvaděče a speciální racky
@@ -316,7 +316,7 @@ Dětské chůvičky
 Bezpečnost a ochrana
 Trezory ,
 Schránky na klíče ,
-Visící zámky ,
+Visací zámky ,
 GPS lokátory ,
 Špionážní příslušenství
 Mobily, tablety a příslušenství FAV
@@ -379,7 +379,6 @@ Jednotlivé telefony pro domácí interkomy.
 Počítače.
 PCI karty.
 Síťové karty USB a PCI.
-Držáky a adaptéry.
 Ostatní příslušenství.
 Fotovoltaické montážní konstrukce –
 Síťové optické kabely a moduly SFP.
@@ -397,34 +396,14 @@ Příslušenství pro rozvaděče.
 Antény.
 Síťové mosty –
 Příslušenství pro síťová zařízení –
-TV a anténní zesilovače.
-Přístupové body, opakovače.
-Elektronické kódové zámky, klávesnice.
 Mechanické zámky a dveřní kování –
-Senzory.
-Inteligentní zásuvky.
-Inteligentní ovladače.
-Klimatizace.
-Příslušenství. ,
-Nástroje.
 Fotografické osvětlení a stativy –
-Moduly, expandéry.
 Stahovací pásky.
-Kabely, HDMI kabely.
-Kamery do auta.
-Satelitní antény.
-Zdraví, wellness a příslušenství.
-Držáky na telefon do auta.
 Nabíječky do auta.
-Bezdotykové čtečky EM 125kHz.
-Autodoplňky.
 Chladiče SSD a teplovodivé pasty –
-Externí boxy a pouzdra k pevným diskům.
 Pojistky a držáky pojistek.
 Sport.
 Čisticí přípravky na elektroniku –
-Špionážní příslušenství.
-Bezdrátové nabíječky.
 Prezentéry –
 Testery, měřiče.
 Příslušenství, prodlužovací kabely, lišty.
@@ -434,17 +413,12 @@ Příslušenství pro závory –
 Tlačítka pro odchod z domu.
 Klávesnice.
 Hodiny a meteorologické stanice –
-Počítačové myši.
-Sluchátka.
 Tlačítka.
-Detektory kouře.
 Senzory PIR.
-Bezdrátové HDMI.
 Videozvončeky.
 Bezdrátové domovní zvonky.
 13,56MHz bezdotykové čtečky.
 Bezdotykové transpondéry.
-Keystony.
 Bezpečnostní pomůcky pro děti –
 Napájecí zdroje a transformátory.
 Ostatní příslušenství křídlové brány.
@@ -466,7 +440,6 @@ Switche.
 Koaxiální kabely.
 Páječky a pájecí příslušenství –
 Izolační a montážní pásky –
-Hračky.
 Časovače a spínače.
 Příslušenství a držáky.
 UHF čtečky –
@@ -475,48 +448,30 @@ Bezdrátový přenos videosignálu –
 Video dekodéry –
 Detektory kovů –
 Příslušenství pro sportovní kamery –
-Diferenciální jističe (RCBO).
 Digitální mikroskopy –
 Drátové interkomy.
 Ruční nářadí.
 Odvlhčovače vzduchu –
-Routery.
-Domácí interkomové systémy.
 Vypínače, stmívače.
 Teplotní čidla.
 Ohřívače.
 Příslušenství pro montáž.
-Držáky na TV.
-Ostatní příslušenství posuvné brány.
-Analogove kamery.
 Vzduchové ústředny, digitální, klávesnice.
-Vnější detektory pohybu.
-Média pro vypalování.
-Digitální a elektronická kukátka na dveře.
-Sestavy videotelefonů.
 Příslušenství pro zásuvky a vypínače.
 Fotovoltaické konektory –
 Svítidla.
-TV rozbočovače a slučovače.
 Elektrické rozvaděče.
 Montážní kotvy a upevňovací prvky –
 Interkomy a elektrické stávky.
 Příslušenství pro instalaci.
 Elektronické otevírání dveří.
 Projekční plátna.
-Visací zámky.
-DVB-T2 antény.
-Monitory pro videotelefony.
 Přepěťové ochrany.
 PoE Switche.
-Solární kamery.
 Koaxiální kabely a konektory.
 Propojovací lišty.
 Osobní alarmy –
 Filtre pre čističky a zvhlčovače vzduchu.
-Potřeby pro zvířata.
-VPN směrovače.
-Fotopasti.
 Bezpečnostní zamlžovací systémy –
 Síťové kabely.
 Mediální konvertory.
@@ -524,8 +479,50 @@ Video grabbery –
 Grafické karty –
 Kuchyňské spotřebiče a vybavení.
 Modulární odpojovače a odpínače.
-Proudové chrániče.
 Systémy pro záznam času a řízení přístupu.
 UPS 3-fázové.
 Magnetické, jazýčkové senzory.
-Kempování a o
+Kempování a outdoor –
+Počítačové servery –
+Žárovky.
+Prodlužovací šňůry a přepěťové ochrany.
+Detektory infračerveného paprsku.
+Fotoaparáty –
+Optické mechaniky –
+Svářečky a svařovací příslušenství –
+IP kamery.
+Reproduktory.
+Nabíječky USB.
+Inteligentní dům.
+Příslušenství.
+Vláknová optika.
+Patchcordy.
+Řízení přístupu.
+Příslušenství.
+Příslušenství pro domovní zvonky –
+Senzory pro markýzy a venkovní stínění –
+Kontejnery pro systémy řízení přístupu.
+Laminátory a fólie –
+Měřicí přístroje do dílny –
+Kabelové lišty a kanály.
+Softwarové licence –
+Měniče napětí.
+Mikrofony, audio moduly.
+Diktafony –
+Fotovoltaické rozvaděče a ochrany –
+Montážní chemie –
+Napájecí zdroje na DIN lištu.
+Podložky a stojany k notebookům.
+Počítače, notebooky a příslušenství.
+Tísňová tlačítka.
+Kryty.
+Papír do tiskáren –
+Patch panely.
+Konektory, zástrčky, zásuvky.
+Poličky.
+HDD.
+Pigtailové kabely.
+Sady.
+Poplachové skříně.
+Další příslušenství garážových vrat.
+Biometrické čtečky a

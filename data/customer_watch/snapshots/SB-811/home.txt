@@ -1,4 +1,4 @@
-# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 eSoft – Verkkokauppa – eSoft – Verkkokauppa
 Siirry sisältöön
 eSoft - Verkkokauppa
@@ -50,7 +50,7 @@ Ajoneuvo- ja henkilöseuranta ( 10 )
 Bluetooth GPS-vastaanottimet ( 4 )
 GPS-antennit ja -toistimet ( 2 )
 GPS-vastaanottimet ( 4 )
-GSM/2G/4G/5G/Mobiili ( 115 )
+GSM/2G/4G/5G/Mobiili ( 113 )
 2G/4G-mokkulat, RS-232 ( 6 )
 2G/4G-mokkulat, USB ( 3 )
 2G/4G/5G-antennit ja -kaapelit ( 42 )
@@ -58,7 +58,7 @@ GSM/2G/4G/5G/Mobiili ( 115 )
 2G/4G/GSM-vahvistimet/toistimet ( 1 )
 4G-kortit/modulit/adapterit ( 5 )
 GSM-puhelimet ja yhdyskäytävät ( 14 )
-LoRa-yhdyskäytävät ja -päätelaitteet ( 23 )
+LoRa-yhdyskäytävät ja -päätelaitteet ( 21 )
 HomePlug/HomePNA ( 8 )
 HomePlug/Powerline ( 3 )
 HomePNA-laitteet ( 5 )
@@ -90,11 +90,11 @@ Minitietokoneet ( 17 )
 Modeemit ( 3 )
 NTP-kellot ja -serverit ( 31 )
 Power over Ethernet ( 217 )
-Industrial PoE ( 104 )
+Industrial PoE ( 103 )
 PoE over COAX/TP ( 6 )
 PoE-hubit ( 9 )
 PoE-injektorit ja splitterit ( 36 )
-PoE-kytkimet ( 62 )
+PoE-kytkimet ( 63 )
 Sarjaliikenne-tuotteet ( 47 )
 Sarjaliikenne- ja rinnakkaiskortit ( 13 )
 Sarjaliikenne-tarvikkeet ( 20 )
@@ -128,11 +128,11 @@ USB RS-232 / Parallel ( 10 )
 USB-laturit ja -kaapelit ( 58 )
 Vedonlyönti ( 12 )
 MonivetoWeb ( 12 )
-Verkkovirta ja automaatio ( 155 )
+Verkkovirta ja automaatio ( 154 )
 GSM-robotit ja -ohjauslaitteet ( 8 )
 Kodin automaatio ( 17 )
 Shelly ( 36 )
-Verkkovirran hallinta ( 50 )
+Verkkovirran hallinta ( 49 )
 Verkkovirtatarvikkeet ( 44 )
 Viivakoodi/RFID/Tiedonkeruu ( 66 )
 Tiedonkeruupäätteet/laitteet ( 5 )
@@ -156,81 +156,81 @@ WLAN-kaapelit ( 33 )
 WLAN-sovittimet ( 22 )
 WLAN-tukiasemat ( 4 )
 WLAN-ulkotukiasemat ( 6 )
-Näytetään tulokset 1–24 / 1986
+Näytetään tulokset 1–24 / 1984
 Lajittelu, oletustapa
 Lajittelu: ostetuin ensin
 Järjestä uusimman mukaan
 Lajittelu: halvin ensin
 Lajittelu: kallein ensin
-30,90 € veroton hinta 24,62 €
-SimPal Lisäkauko-ohjain 434MHz FSK V2 4 painiketta
-SimPal WRC-048-V2 on langaton 434MHz taajuudella toimiva kauko-ohjain uusiin SimPal-T40-V2, G400, G212-V2, W230-V2 jaW240-V2 malleille. Kauko-ohjaimessa on neljä painiketta: vartiointitila päälle, pura vartiointitila, hätäkutsupainikesekä virtakytkin.
-11,90 € veroton hinta 9,48 €
-Säänkestävä asennusteippi 1.5m / 25mm, musta Itsevulkanoituva, silikoni
-AVEC TAPE-1.5 on säänkestävä itsevulkanoituva asennusteippi kaikkiin antenni- ja tietoliikennekaapelien liitoskohtiin. Soveltuu sisä- ja ulkokäyttöön. Tekniset tiedot: • Materiaali: Silikoni • Pituus: 1.5m • Leveys: 25mm • Paksuus: 0.3mm • Väri: Musta •
-171,90 € veroton hinta 136,97 €
-8×10/100/1000 (6x PoE) + 2x Gb SFP 180W IEEE802.3bt/at
-PLANET GSD-1022UP on metallikoteloitu 10-porttinen GigabitinUltra PoE-kytkin (802.3bt), jonka porteista 2x on varustettuUltra PoE ja 4x High PoE virransyöttötuella. Kytkimessä lisäksi kaksi Gigabitin kupari- sekä SFP-porttia. Kytkimen PoE-virransyötön kok
+9,90 € veroton hinta 7,89 €
+DTECH HDMI Male to HDMI Female adapter 180 degree rotary
+DT-7002 on kääntyvä HDMI 1.4 kulmakappale. Sovitin pystyy kääntymään 180 astetta, joten se on erittäin monipuolinen sovitin riippumatta siitä, mistä suunnasta ahtaassa asennuspaikassa HDMI kaapeli on tulossa. Kullatut liittimet.
+107,90 € veroton hinta 85,98 €
+SFP+ 10GBase WDM/BiDi 20km, Tx1330 Rx1270 Singlemode, LC, DDM
+Datolink DTL-JL738A on 10GBase-LR SFP+ WDM / BiDi singlemode DFP+ moduuli Aruba/HPE kytkimiin, verkkokorteihinsekä reitittimiin. Moduuli on varustettu DDM- diagnosointiominaisuuksilla. Vastapariksi DTL-JL737A. Tekniset tiedot: • Complies with the IEEE 80
+19,90 € veroton hinta 15,86 €
+SC/LC/MM 62.5/125 OM1 5m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink PCSULU2MMOM1-05 on laadukas 5m monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitupari
 17,90 € veroton hinta 14,26 €
-LC/LC/MM 62.5/125 OM1 2m Duplex-kuitukaapeli LSZH UPC/UPC
-DatoLink PCLULU2MMOM1-02 on laadukas 2m monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitupari
-20,90 € veroton hinta 16,65 €
-CAT6 U/UTP RJ45 10m RED Patch Cable, 24AWG LSZH
-Laadukas Cat 6 Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 6-kaapeli soveltuu nopeisiin Gigabit Ethernet-yhteyksiin, mutta pienemmän vaimennuksen myötä tuo lisävarmuutta myös hitaampiin yhteyksiin. RoHS-sertifioitu tuote on yksittäispakattu muo
-50,90 € veroton hinta 40,56 €
-Din-Rail Power Supply 48VDC 2.5A 120W
-WEHO NDR-120-48 (MEAN WELL OEM) on teollisuuskäyttöön suunniteltu DIN-kiskoon asennettava 48VDC virtalähde 120W tehonsyötöllä. Tekniset tiedot: • Ulostulojännite: 48VDC @ 2.5A, 120W – säädettävä +- 10% • Sisääntulojännite: 85-264VAC tai 120-370VDC • Suo
-245,90 € veroton hinta 195,94 €
-AVIOSYS IP POWER 9850 4x Out, LAN Power Socket over IP
-AVIOSYS IP Power 9850-GE on TCP/IP-lähiverkon yli ohjattava neljällä sähköpistorasialla varustettu laite. IP Power 9850-GE on suunniteltu sisätiloissa tapahtuvien IT-, kiinteistöautomaatio-, koti-, mökki- ja toimistosähkölaitteiden etäohjaamiseen. Laittee
-4,90 € veroton hinta 3,90 €
-CAT6 F/UTP RJ45 0.5m BLACK Patch Cable Bare Copper 26AWG Latch, LSZH
-AVEC S6SZ005 on laadukas foliosuojattu (F/UTP, FTP, STP) CAT6 Ethernet-kytkentäkaapeli suojatulla (n:o 715) liittimellä kaikkiin lähiverkon kytkentöihin. Suojattuja kaapeleita käytetään, kun halutaan estää sähkömagneettisten häiriöiden (EMI = electromagn
-119,90 € veroton hinta 95,54 €
-CCTV RG-59 Cable+DC 305m Rounded White 75 Ohm
-WEIMAI CX-305-R-W on laadukas valkoinen 305m RG-59 CCTV asennuskaapeli, joka on varustettu kahdella virransyöttökaapelilla. Koaksiaalikaapelin johdin on valmistettu kuparista (Bare Copper/Cu) mikä on perusedellytys uusien megapikselitarkkuuksisten kameras
+ST/LC/MM 62.5/125 OM3 1m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink PCSTULU2MMOM3-01 on laadukas 1m monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitupar
 80,90 € veroton hinta 64,46 €
-VoIP SIP Hotelphone PoE
-Escene HS-108P on hotellikäyttöön suunniteltu yksinkertainen IP-puhelin.
-24,90 € veroton hinta 19,84 €
-SMA-RP-N(M) välikaapeli 2m RG-58
-Arronna SMARP-NM-2M on ulkokäyttöön soveltuva 2m WLAN- antennikaapeli SMA-RP(M) ja N(M)-liittimillä. Kaapelin valmistuksessa on käytetty laadukkaita liittimiä sekä RG- 58 kaapelia, joilla tehohävikki on saatu minimoitua. Tekniset tiedot: • Pituus: 2m • W
-214,90 € veroton hinta 171,24 €
-PLANET 1x RS-232/422/485, RJ45 Device server IP30 Modbus Gateway
-PLANET IMG-2100T on teollisuuskäyttöön suunniteltu 1- porttinen RS-232/422/485 Modbus yhdyskäytävä kahdella ethernet-portilla. IMG-2100T mahdollistaa RTU päätelaitteiden liittämisen Ethernet-lähiverkkoon. Laite on metallikoteloitu ja suunniteltu toimimaan
-94,90 € veroton hinta 75,62 €
-Yeastar MyPBX 2x FXO-module
-Yeastar 2x FXO-moduuli S-Sarjan, MyPBX SOHO, Standard ja PROIP-puhelinvaihteisiin.
-14,90 € veroton hinta 11,87 €
-ST/LC/MM 62.5/125 OM1 50cm Duplex-kuitukaapeli LSZH UPC/UPC
-DatoLink PCSTULU2MMOM1-0.5 on laadukas 50cm monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitu
-34,90 € veroton hinta 27,81 €
-SC/LC/SM 9/125 OS2 20m Duplex-kuitukaapeli LSZH UPC/UPC
-DatoLink PCSULU2SM-20 on laadukas 20m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuituparit
-4,90 € veroton hinta 3,90 €
-ReguLink korimutterisarja M6x16 musta 4x pussitettuna
-ReguLink RL-M6-B-4 on musta teräksinen M6 korimutterisarja kytkimien, reitittimien, hyllytasojen ja paneeleiden kiinnittämiseen 19″/10″ räkkeihin sekä kaappeihin. Tuotepakkaus sisältää 4kpl konemutteria pussitettuna. Tekniset tiedot: • Tyyppi: M6, 16mm,
-94,90 € veroton hinta 75,62 €
-Procet PoE+ IEEE802.3bt Splitter USB-C 17-50W, 10/100/1000BaseT
-Procet PT-PTC-BT seinäkiinnitettävä 802.3bt standardin mukainen Ultra PoE (60W) splitteri, joka muuntaa IEEE- 802.3at PoE-syöttövirran USB-C portin latausjännitteeksi max. 50W teholla. Splitteri mahdollistaa Ethernet lähiverkonavulla virransyötön kaikille
-4,90 € veroton hinta 3,90 €
-Sebury Mifare 1k RFID-card 13.56MHz, Blanco White
-Sebury BEC-07M on Mifare RFID-älykortti 1k muistilla. Tekniset tiedot: • RFID 13.56MHz • 1k EEPROM (16 sektoria) • Salasanasuojattu luku/kirjoitus • Väri: Valkoinen
+IQSocket Ethernet IP-sensor PCB Temperature / Humidity / Datalogger
+Smart power controlling board IQboard LAN is smart home power controller for DYI users andservice providers. Suitable for sites which require remote control power of electrical equipments with temperature or humidity log. Equipment’s power can be controll
+23,90 € veroton hinta 19,04 €
+CAT5E U/UTP RJ45 20m GREY Patch Cable 24AWG
+Laadukas Cat 5e Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 5e-kaapeli soveltuu nopeisiin Fast Ethernet- sekä Gigabit-verkkoihin. RoHS-sertifioitu tuote on yksittäispakattu muovipussiin tuotekoodi- ja tuotetyyppimerkinnöillä. Kaikkien Microdata
+9,90 € veroton hinta 7,89 €
+TNC Male – SMA Female adapteri
+Arronna ADA-TNCRP-SMARPF on sovitinkappale TNC Male ja SMA Female liittimillä. Liittimet: • TNC-Male (Male pin) • SMA-Female (Female pin)
+107,90 € veroton hinta 85,98 €
+HRUI 24×10/100/1000 Switch 19”
+HRUI HR-SWG10240D on 24-porttinen Gigabit Ethernet -kytkin, joka tarjoaa 24x 10/100/1000BASE-T Ethernet -kupariporttia. Portit tukevat automaattista nopeuden- ja kaapelityypin tunnistusta, ja kytkin noudattaa IEEE 802.3-, 802.3u- ja 802.3x -standardeja.
+20,90 € veroton hinta 16,65 €
+FC/SC/SM 9/125 OS2 2m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink DTL-PCFCUSCU2SM-02 on laadukas 2m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitup
+18,90 € veroton hinta 15,06 €
+Yealink Charding Dock for W52H
+Yealink W52H-lataustelakka. Sopii Yealink W52H langattomien puhelimien lataamiseen.
 47,90 € veroton hinta 38,17 €
-Fiber visual fault locator, 10mW, 650nm 2.5mm (SC/FC/ST)
-DatoLink DTL-FVL-10MW laser-lähetinyksikkö, joka on suunniteltu valokuitujen kenttähuoltoon sekä -asennuksiin. Laitteen avulla voidaan jäljittää valokuituja, niiden reitityksiä sekä suorittaa yhteyksien tarkistuksia. Laite onvarustettu standardilla 2.5mm
-7,90 € veroton hinta 6,29 €
-CAT6 F/UTP RJ45 3m ORANGE Patch Cable Bare Copper 26AWG Latch, LSZH
-AVEC S6SZ030 on laadukas foliosuojattu (F/UTP, FTP, STP) CAT6 Ethernet-kytkentäkaapeli suojatulla (n:o 715) liittimellä kaikkiin lähiverkon kytkentöihin. Suojattuja kaapeleita käytetään, kun halutaan estää sähkömagneettisten häiriöiden (EMI = electromagn
+1G DAC SFP Cable 30AWG 1m Cisco compatible
+DTL-DAC-30AWG-01 on 1m kuparitekniikalla toteutettu SFP DAC välikaapeli, joka tarjoaa kustannustehokkaat 1Gbit/s yhteysnopeudet kytkimien, palvelimien, tallentimien (Ethernet) sekä Fiber Channel yhteyksiin. Kaapeli on Cisco yhteensopiva, mutta sitä voidaa
 5,90 € veroton hinta 4,70 €
-CAT6 U/FTP Flat RJ45 0.3m GREY Patch Cable Latch Protection 30AWG
-AVEC C6FLATUFTP on laadukas parisuojattu (U/FTP, STP) litteä (flat) CAT6 Ethernet-kytkentäkaapeli suojatulla (n:o 715) liittimellä kaikkiin lähiverkon kytkentöihin. Parisuojatun kaapelin (U/FTP) käyttö estää ulkopuolisia häiriöitä, mutta samalla jokaisen
-6,90 € veroton hinta 5,50 €
-CAT6 U/UTP RJ45 1.5m GREEN Patch Cable, 24AWG LSZH
-Laadukas Cat 6 Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 6-kaapeli soveltuu nopeisiin Gigabit Ethernet-yhteyksiin, mutta pienemmän vaimennuksen myötä tuo lisävarmuutta myös hitaampiin yhteyksiin. RoHS-sertifioitu tuote on yksittäispakattu muo
+CAT6A U/UTP Thin RJ45 1m BLUE Patch Cable Latch Protection 30AWG, LSZH
+AVEC AVEC-6A30RUUTPZB on ohut ja notkea (U/UTP) sininen CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715)RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-GigabitEthernet-yhteyksiin, mutta pienemm
+245,90 € veroton hinta 195,94 €
+Tseeu WiFi Camera, 5M PTZ, Outdoor IP66 20x Optical Zoom, Camhi, ONVIF, PoE 802.3at
+Tseeu TS-SD44W PTZ WiFi-valvontakamera on varustettu lisäksi Ethernet-portilla PoE-virransyöttötuella. Infrapuna yövalaistuksen ansiosta kamera kuvaa jopa täysin pilkkopimeää tilaa tai aluetta. Ulkokäyttöön soveltuva käänneltävä TS-SD44W on vesitiiviis ja
+89,90 € veroton hinta 71,63 €
+IQSocket Sähköpistorasia RS-232
+IQSocket IQTS-RS100 on sarjaportin (RS-232) avulla ohjattava sähköpistorasia. IQSocket IQTS-RS100 soveltuu sisätiloissa tapahtuvien IT-, kiinteistöautomaatio-, koti-, mökki- ja toimistosähkölaitteiden etäohjaamiseen. Laitteen ohjaamaa verkkovirtaa (10A) v
+510,90 € veroton hinta 407,09 €
+PLANET 4x RS-232/422/485, RJ45 Device Server IP30 Modbus Gateway, 2xDI 2xDO
+PLANET IMG-2400T on teollisuuskäyttöön suunniteltu 4- porttinen RS-232/422/485 Modbus yhdyskäytävä kahdella ethernet-portilla. IMG-2400T mahdollistaa RTU päätelaitteiden liittämisen Ethernet-lähiverkkoon. Laite on metallikoteloitu ja suunniteltu toimimaan
 13,90 € veroton hinta 11,08 €
-BIAODA virtakaapeli CEE 7/7-C19 2m Musta 16A/250V
-BIAODA D03-B-C19-2M on maadoitettu laitekaapeli suoralla shuko-pistokkeella esim. UPS:in ja seinärasian välille. Tuote on merkattu ja yksittäispakattu muovipussiin. Tekniset tiedot: • Liittimet: CEE 7/7 (suora), IEC 60320 C19 (suora) • Pituus: 1.8m • Vär
-16,90 € veroton hinta 13,47 €
-LC(UPC)-LC(APC) SM 9/125 OS2 1.5m Duplex-kuitukaapeli LSZH
-DatoLink PCLULA2SM-01 on laadukas 1m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Kaapelin toinen LC li
+RJ45 adapter Female/Male Down 90 Degree Cat5e
+AVEC RJ45-DOWN on muoviin valettu alaspäin kääntyvä RJ-45 kulmaliitin, jonka avulla Ethernet-kaapeli saadaan asennettua ahtaisiin mutkakohtiin.
+389,00 € veroton hinta 309,96 €
+4x1000T@4xPoE+, 1xSFP, 12-54VDC -40…+75C, IP40, DIN
+PLANET IGS-614HPT on teollisuuskäyttöön soveltuva 5- porttinen 10/100/1000 PoE+ (4x PoE porttia) Ethernet- kytkin yhdellä 100/1000M SFP-moduulipaikalla ja yhdellä 1000BaseT kupariportilla. Kytkin on varustettu laajennetulla käyttölämpötila-alueella sekä
+39,90 € veroton hinta 31,79 €
+Tuya Langaton WiFi Palovaroitin 2.4GHz
+Tuya TUYA-SM-01 on älykäs 80dBm sireenillä varustettu WiFi-palovaroitin, joka pystyy välittämään hälytyksen Tuya Smart Appsin avulla suoraan matkapuhelimeen. Helposti asennettava hälytin voidaan liittää lisäksi Google Home kotiautomaatiojärjestelmään. Pal
+30,90 € veroton hinta 24,62 €
+Cisco konsolikaapeli 1.8m RS-232 DB9F-RJ45
+Cisco (CAB-CONSOLE-RJ45= / 72-3383-01) konsolikaapeli DB9F (naaras) ja RJ-45 liittimillä mm. seuraaviin reititin- ja kytkinmalleihin: Cisco 1921, 1921 4-pair G.SHDSL bundle, 1921 ADSL2+ Annex M Bundle, 1921 ADSL2+ Bundle, 1921 SEC T1 Bundle, 1941, 1941 M
+143,90 € veroton hinta 114,66 €
+10/100/1000TX-SFP Converter UltraPoE++ 60W 802.3bt
+PLANET GUP-805A-60W on metallikoteloitu gigabitin mediamuunnin 10/100/1000Base-T Ethernet- ja valokuituverkon välille. GUP-805A mediamuuntimessa on SFP-moduulipaikka sekä UltraPoE++ virransyöttötuki 60W esim IP-valvontakameroille. Tuotepakkaus sisältää
+6,90 € veroton hinta 5,50 €
+CAT6 F/UTP RJ45 2m BLACK Patch Cable Bare Copper 26AWG Latch, LSZH
+AVEC S6SZ020 on laadukas foliosuojattu (F/UTP, FTP, STP) CAT6 Ethernet-kytkentäkaapeli suojatulla (n:o 715) liittimellä kaikkiin lähiverkon kytkentöihin. Suojattuja kaapeleita käytetään, kun halutaan estää sähkömagneettisten häiriöiden (EMI = electromagn
+67,90 € veroton hinta 54,10 €
+HEYI 8x Relay module for HY-518C
+HEYI HY-301A on relelaajennusyksikkö HEYI HY-518C rikosilmoitinjärjestelmään kahdeksalla (8x) itsenäisesti ohjattavalla ulostulolla. HEYI HY-518C hälyttimeen voidaan asentaa max 2x HY-301A releyksikköä, jolla saavutetaan 16x ohjausreleiden kokonaismäärä.
+37,90 € veroton hinta 30,20 €
+TUTA Wireless Siren for TUTA B2
+TUTA-BL-58 on langaton valolla varustettu hälytytsireeni, joka kytketään TUTA-B2 hälytinlaitteen (valkoinen) läheisyyteen 2-3m etäisyydelle. Hälytyksen aktivoitua laite aktivoituu (ääni + vilkkuvalo) ja sammuu, kun hälytys puretaan. Tuotepakkauksen mukana
+39,90 € veroton hinta 31,79 €
+Shelly BLU H+T Lämpötila-kosteusanturi Bluetooth, Vaalea
+Shelly BLU H&T on Bluetooth-tekniikalla toimiva kosteus- ja lämpötila-anturi, joka on suunniteltu myös ulkokäyttöön ja helpottaa lämpötilan ja kosteuden seurantaa älypuhelimella tai web-käyttöliittymällä. Yhdist

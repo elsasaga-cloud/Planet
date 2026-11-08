@@ -1,4 +1,4 @@
-# SB-613 cozzmic.com · feed_auto · https://cozzmic.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-613 cozzmic.com · feed_auto · https://cozzmic.com/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Wed, 06 May 2026 17:24:23 +0000	VoIP Enhanced 911	https://cozzmic.com/voip-enhanced-911/
 Wed, 01 Apr 2026 00:31:20 +0000	Post-Winter Checkup: Is Your Technology Ready for Spring?	https://cozzmic.com/post-winter-checkup-is-your-technology-ready-for-spring/
 Tue, 31 Jan 2023 18:28:36 +0000	Beginner’s Guide to Securing Your Workplace	https://cozzmic.com/beginners-guide-to-securing-your-workplace/

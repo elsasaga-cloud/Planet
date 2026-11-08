@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-07T08:57:10Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-08T09:13:02Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -67,13 +67,13 @@ Wróć do:
 Przewodowe
 Bezprzewodowe
 Interkomy
+Elektrozaczepy
+Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
 Daszki
 Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -138,14 +138,15 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
+Telewizory
 Ekrany projekcyjne
 Systemy rezerwacji sal
 Bezprzewodowe prezentacje
-Telewizory
 Projektory
 Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
+Jednostki główne
+Licencje
+Akcesoria
 Lampowe
 Laserowe
 Akcesoria
@@ -158,16 +159,18 @@ Statywy
 Mikrofony
 Mediakonwertery
 Grabbery
+Stacje dokujące
 Uchwyty do projektorów
 Kable
 Extendery
 Splittery HDMI
-Stacje dokujące
 Uchwyty do monitorów
 HDMI
-USB
 USB A
 USB C
+Przedłużacze USB A
+HDMI
+USB
 Stałe
 Uchylne
 Na ramieniu
@@ -345,10 +348,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Analogowe
 Cyfrowe
 Akcesoria
 Morskie
+Analogowe
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -364,18 +367,18 @@ LICENCJE
 UNIFONY IP
 AKCESORIA
 Wróć do:
-Jednorodzinne
 Wielorodzinne
-Przewodowe
+Jednorodzinne
 Bezprzewodowe
 Interkomy
-Elementy montażowe
+Przewodowe
 Ramki
 Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
+Elementy montażowe
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -415,8 +418,8 @@ Grandstream + CRM
 Slican + CRM
 Yeastar + CRM
 Moduły do central
-Głos męski
 Głos damski
+Głos męski
 Do 10 pracowników
 Do 20 pracowników
 Do 50 pracowników
@@ -435,7 +438,6 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
-Głośniki
 Wzmacniacze
 Miksery
 Matryce
@@ -443,6 +445,7 @@ Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
+Głośniki
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -463,42 +466,42 @@ Projektory
 Monitory Wielkoformatowe
 Biznesowe
 Hotelowe
-Lampowe
 Laserowe
 Akcesoria
+Lampowe
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
 Grabbery
+Kamery PTZ Obrotowe
 Uchwyty do projektorów
 Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
 Uchwyty do monitorów
-HDMI
 USB
-USB A
+HDMI
 USB C
-Stałe
+USB A
 Uchylne
 Na ramieniu
 Mobilne wózki
+Stałe
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
-Stanowiskowe
+Dla edukacji
 Powierzchniowe
 Akcesoria
+Stanowiskowe
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -516,25 +519,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Kable przyłączeniowe
+Przewodowe
 Gąbki
 Adaptery
+Kable przyłączeniowe
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
 Higiena
-Słuchawki z radiotelefonem
+Słuchawki
 Słuchawki z bluetooth
 Słuchawki kablowe
 Akcesoria
+Słuchawki z radiotelefonem
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -556,31 +559,31 @@ Bezprzewodowe
 Przewodowe
 Na kartę SIM
 Przemysłowe
-Zewnętrzne
 Wewnętrzne
+Zewnętrzne
 Zarządzalne
 Niezarządzalne
 Typu Smart
 Wkładki SFP
 Licencje
-Urządzenia
 Zestawy
 Licencje
-Tower
+Urządzenia
 Rack
 Compact
+Tower
 USB-A
 USB-C
 Lightning
 Drukarki Pos
 Drukarki etykiet
 Skanery kodów
-Jednostki główne
 Czujniki
 Akcesoria
-NAS Desktop
+Jednostki główne
 NAS Rack
 Dyski NAS
+NAS Desktop
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -626,21 +629,21 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
 Łączniki kabli
 Wtyki
+Gniazda Keystone
 Kategorii 5
 Kategorii 6
 Kategorii 7
 Box
 Patchcord
 Na m
-Box
 Patchcord
 Na m
-Stojące
+Box
 Wiszące
 Akcesoria
+Stojące
 Puszki
 Uchwyty
 Dyski
@@ -1024,7 +1027,4 @@ Ustawienia konta
 Przechowalnia
 Moje konto
 Twoje zamówienia
-Newsletter
-Ustawienia konta
-Przechowalnia
-
+N

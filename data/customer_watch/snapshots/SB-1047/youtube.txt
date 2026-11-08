@@ -1,4 +1,4 @@
-# SB-1047 kamsys.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC9fUiXZ3JDMWT979wwHyYIQ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-1047 kamsys.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC9fUiXZ3JDMWT979wwHyYIQ · fetched 2026-11-08T09:13:02Z · HTTP 200
 2014-11-26T09:17:37+00:00	Rejestrator samochodowy Xblitz DUAL	https://www.youtube.com/watch?v=hSulTd74Ze4
 2014-11-26T08:28:32+00:00	Rejestrator samochodowy Xblitz Classic	https://www.youtube.com/watch?v=7G4tqnD2TXQ
 2014-11-26T07:58:01+00:00	Rejestrator samochodowy Xblitz Black Bird	https://www.youtube.com/watch?v=WKj90OYDRCk

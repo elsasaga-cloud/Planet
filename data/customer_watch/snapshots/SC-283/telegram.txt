@@ -1,4 +1,4 @@
-# SC-283 comonyx.com · telegram · https://t.me/s/cctv_onyx · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-283 comonyx.com · telegram · https://t.me/s/cctv_onyx · fetched 2026-11-08T09:13:02Z · HTTP 200
 ОНИКС | СОУЭ Тромбон – Telegram
 ОНИКС | СОУЭ Тромбон
 @cctv_onyx
@@ -144,7 +144,7 @@ VIEW IN TELEGRAM
 Please open Telegram to view this post
 VIEW IN TELEGRAM
 2
-59 views edited
+60 views edited
 ОНИКС | СОУЭ Тромбон
 🔋 Сколько резервного питания действительно нужно СОУЭ?
 «Поставим аккумулятор побольше — и будет надёжно» — звучит логично. Но в проектировании систем оповещения такой подход может привести и к переплате, и к ошибкам.

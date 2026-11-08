@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · feed_auto · https://lanprosa.com/feed/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SB-771 lanprosa.com · feed_auto · https://lanprosa.com/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 Tue, 16 Sep 2025 20:43:57 +0000	Elementos fundamentaes que componen un CCTV	https://lanprosa.com/elementos-fundamentaes-que-componen-un-cctv/
 Wed, 28 May 2025 23:49:11 +0000	50/30/3 micrones de oro	https://lanprosa.com/50-30-3-micrones-de-oro/
 Wed, 28 May 2025 23:46:24 +0000	Conectores RJ45 Pass-Through	https://lanprosa.com/conectores-rj45-pass-through/

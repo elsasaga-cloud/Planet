@@ -1,4 +1,4 @@
-# SA-020 bitstream.pl · sitemap · https://bitstream.pl/sitemap.xml · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SA-020 bitstream.pl · sitemap · https://bitstream.pl/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
 2026-08-18T11:31:26+02:00	https://bitstream.pl/
 2026-08-18T11:31:26+02:00	https://bitstream.pl/en/
 2026-08-18T11:31:26+02:00	https://bitstream.pl/it/

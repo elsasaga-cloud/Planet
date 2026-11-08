@@ -1,4 +1,2 @@
-# SB-618 jeatech.com.au · sitemap · https://jeatech.com.au/sitemap_index.xml · fetched 2026-11-07T08:57:10Z · HTTP 403
-{
-"message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
-}
+# SB-618 jeatech.com.au · sitemap · https://jeatech.com.au/sitemap_index.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+

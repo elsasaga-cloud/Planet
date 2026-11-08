@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-08T09:13:02Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,47 +170,42 @@ Carrito
 Productos
 Noticias
 Ver todas
-Victor · 10h · Alarmas e Intrusión
+Gregorio · 14h · Audio e Intercom
+Tu voz entra limpia. El ruido de la oficina, no.
+La Yealink UH42 Dual lleva cancelación de ruido con IA en el micrófono y altavoz de 35 mm con EQ dinámico: modo llamada para hablar claro, modo música para el resto del día. Doble almohadilla, indicador de ocupado que avisa que estás en llamada, y USB-C con adaptador USB-A: plug-and-play en Windows y Mac, certificada nativa para Microsoft Teams.
+Escucha la UH42 Dual de Yealink
+Nicolas · 14h · Videovigilancia
+16 cámaras IP alimentadas por un solo grabador
+El NVR DS-7616NI-Q2/16P(E) de Hikvision integra 16 puertos PoE+ con 150 W: cada cámara recibe video y energía por el mismo cable, sin fuentes adicionales en el sitio. Graba hasta 8 MP (4K) con H.265+ y salida HDMI 4K, en 2 bahías para hasta 16 TB.
+Suma AcuSense para distinguir personas y vehículos, y modo PoE extendido a 300 metros.
+Conoce el NVR de 16 canales PoE+
+Gregorio · 15h · Audio e Intercom
+La sala de juntas dejó de ser un rompecabezas de accesorios
+La Yealink MeetingBoard 65 Pro integra en un solo marco lo que otras pantallas te venden por separado: triple cámara de 50 MP, 16 micrófonos MEMS con 12 m de alcance y pizarra de 20 puntos táctiles a 21 ms. Pantalla 4K de 65" antirreflejo, Android 13, WiFi 6 y certificación nativa Teams y Zoom.
+Conoce la MeetingBoard 65 Pro de Yealink
+Adrián · 17h · Redes
+El cliente WiFi más potente que Ubiquiti ha creado
+El UniFi AirWire opera 5 y 6 GHz al mismo tiempo con True MLO (STR), sumando espectro para throughput multi-gigabit real. Su super-antena alcanza hasta 3× el rango útil de un cliente estándar y su radio de escaneo dedicada revela la interferencia en tiempo real. USB-C plug-and-play con UniFi Auto-Link.
+Descubre el AirWire de Ubiquiti
+Roberto · 18h · Redes
+Cuatro cámaras PoE y un solo cable hasta el poste más lejano
+El switch DS-3E1105P-EI/M de Hikvision alimenta 4 cámaras por PoE+ (30 W por puerto, 45 W totales) y su modo extendido lleva datos y energía hasta 300 metros, sin repetidores ni fuentes en el sitio.
+Se monitorea y reinicia desde Hik-Partner Pro, con buffer optimizado para video. Para casetas, estacionamientos y tramos largos donde el switch de siempre no alcanza.
+Lleva PoE+ hasta 300 metros
+Rafael · 18h · Telefonía IP
+El teléfono IP de entrada que se despliega solo
+El GRP2601P ofrece 2 líneas SIP, PoE, codec Opus y aprovisionamiento zero-touch para instalar flotas completas sin configurar equipo por equipo. Incluye Noise Shield, conferencia de 5 participantes y gestión en GDMS.
+Conoce el GRP2601P de Grandstream
+Victor · 1d · Alarmas e Intrusión
 El control de tu alarma, sin cuotas ni licencias
 El módulo de comunicación DX FULL WIFI conecta el panel de alarma a internet por WiFi y envía cada evento al instante por notificación push a la app Full Control. No requiere licencia ni pago mensual: solo el equipo.
 Permite activar y desactivar el panel a distancia y controlar 2 salidas domóticas para luces o portones. Programación web, doble banda 2.4 GHz y compatibilidad con cualquier central que hable Contact ID.
 Conoce el DX FULL WIFI
-Gregorio · 14h · Audio e Intercom
+Gregorio · 1d · Audio e Intercom
 El ruido de la oficina se queda afuera: llegaron las Yealink UH34
 La familia UH34 viene en tres versiones: Lite Dual Teams con ANC híbrido e IA, Dual Teams y Dual UC, todas con audio HD, USB plug-and-play y diseño ergonómico para jornadas completas. La Lite suma altavoz de 35 mm, almohadillas viscoelásticas y certificación Microsoft Teams Premium; la UC agrega brazo flexible de 320° y protección auditiva Active Protection. Compatibles con Windows, Mac y Linux.
 Conoce la familia UH34
-Luis · 17h · Control de Acceso
+Luis · 1d · Control de Acceso
 El repuesto que devuelve la barrera a operación en minutos
 El cuadro de mando 366002400 es la tarjeta de control de las barreras Hikvision serie DS-TMG300: se configura con el botón frontal, sin software, y admite sensores de lazo magnético y entrada de sensor de seguridad.
-Suma salida de alarma para eventos y formato compacto para reemplazo directo en campo. Cuando la barrera deja de responder, este es el módulo que la revive.
-Revive tu barrera TMG300
-Nicolas · 18h · Videovigilancia
-ColorVu 3.0 llega a la bala DS-2CD1027G3-LIUF de Hikvision
-La nueva bala de 2 MP abre a F1.0 y baja a 0.001 lux, así que entrega imagen a color incluso de madrugada. Su Dual Light combina IR y luz blanca de 30 m: IR cuando no hay nadie, luz blanca al detectar personas o vehículos.
-Suma Detección de Movimiento 3.0, micrófono integrado, H.265+, IP67 y PoE. Con un NVR /VPRO habilita AcuSeek.
-Conoce la bala ColorVu 3.0 de Hikvision
-Rafael · 18h · Redes
-16 puertos PoE+ y 240 W para redes de tamaño medio
-El GWN7802P alimenta y conecta teléfonos, cámaras y access points por el mismo cable, con 4 uplinks SFP para fibra y administración en GWN Cloud. Montable en rack 19".
-Conoce el GWN7802P de Grandstream
-Nicolas · 1d · Videovigilancia
-Una cámara que también disuade: la turret TurboHD DS-2CE73DF0T-LXTS
-Hikvision suma a su línea TurboHD una turret de 2 MP que graba a color 24/7 con apertura F1.0 y 0.001 lux de iluminación mínima. Ante un evento activa sirena y luz estroboscópica roja/azul.
-Su audio bidireccional SoundMax permite escuchar y hablar a distancia desde la app, con cancelación de eco. Luz dual IR y blanca de 40 m, IP67 y 3D DNR.
-Conoce la turret con sirena de Hikvision 1
-Ruben · 1d · Drones
-Llega a donde nadie más puede llegar: altavoz MP130 Pro de CZI
-El MP130PRO transmite voz en vivo y reproduce grabaciones desde el aire con un alcance de 700 metros, cuenta con luz de advertencia multicolor. Para rescate, control de multitudes y alertamiento en zonas de difícil acceso. Compatible con DJI Matrice M300, M350 y M400.
-Conoce el MP130 Pro de CZI
-LW
-Lydia · 1d · Videovigilancia
-Hikvision Noviembre 2026: DVR Guanlan 3 en 1, AcuSeek y UPS
-Un DVR con 3 funciones de IA a la vez, NVR AcuSeek que encuentra lo que buscas en meses de video, UPS, cámaras para proyectos, control de acceso y alarmas. En noviembre: AxHybrid Pro con 20 % de descuento y equipos demo al 50 %.
-Ve las soluciones de noviembre 1
-Fernando · 1d · Redes
-El switch exterior que ya conoces, ahora con gestión L2+
-El WI-PCMS310GF-O V2 lleva la instalación a la intemperie un paso más allá: 8 puertos Gigabit PoE++ (90 W en los 2 primeros), 110 W de presupuesto y administración L2+ desde la nube — ERPS, ACL y QoS sin entrar al sitio. De -30°C a 60°C: mismo concepto sin gabinete, para redes que crecen.
-Conoce el WI-PCMS310GF-O V2
-Rafael · 1d · Redes
-48 puertos PoE+ y fibra SFP+ para la red del corporativo
-El GWN7806P
+Suma salida de alarma para eventos y formato compacto para reemplazo dire
