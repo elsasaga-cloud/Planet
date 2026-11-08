@@ -2,7 +2,7 @@
  "code": "SB-273",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（eretekne.com：HTTP 错误，2026-11-07，第 9 次）",
+ "website_status": "快照失败（eretekne.com：HTTP 错误，2026-11-08，第 10 次）",
  "summary": "土耳其 Eretekne（分销商：工业 FS/MC 为 XPS/ONV，Voscom 视频光端机与周边；官网 http_error）；表内 2 次跟进无回复。",
  "type": "安防传输产品分销商（土耳其，XPS/ONV/Voscom）",
  "size": "",
@@ -30,7 +30,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -141,7 +141,8 @@
    "2026-11-04T10:02:54Z",
    "2026-11-05T10:11:48Z",
    "2026-11-06T10:06:45Z",
-   "2026-11-07T09:31:21Z"
+   "2026-11-07T09:31:21Z",
+   "2026-11-08T09:44:23Z"
   ],
   "fails": [
    "2026-10-21",
@@ -152,7 +153,8 @@
    "2026-11-04",
    "2026-11-05",
    "2026-11-06",
-   "2026-11-07"
+   "2026-11-07",
+   "2026-11-08"
   ],
   "batch": "LT-T03"
  },

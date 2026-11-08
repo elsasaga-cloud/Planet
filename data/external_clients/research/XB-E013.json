@@ -2,8 +2,8 @@
  "code": "XB-E013",
  "name": "DataOne Solutions Sdn Bhd",
  "round": "LT-T03",
- "researched_at": "2026-11-07",
- "alive": "快照失败（dataone.com.my：域名不可达（DNS/连接失败），2026-11-07，第 8 次）",
+ "researched_at": "2026-11-08",
+ "alive": "快照失败（dataone.com.my：域名不可达（DNS/连接失败），2026-11-08，第 9 次）",
  "summary": "DataOne Solutions Sdn Bhd（马来西亚 · Puchong）：SI/VAR/集成商",
  "type_final": "SI/VAR/集成商",
  "size": "",
@@ -58,7 +58,7 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "notes": "LT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:53:33Z",
@@ -68,7 +68,8 @@
    "2026-11-04T10:04:52Z",
    "2026-11-05T10:13:44Z",
    "2026-11-06T10:08:46Z",
-   "2026-11-07T09:33:09Z"
+   "2026-11-07T09:33:09Z",
+   "2026-11-08T09:46:42Z"
   ],
   "fails": [
    "2026-10-29",
@@ -78,7 +79,8 @@
    "2026-11-04",
    "2026-11-05",
    "2026-11-06",
-   "2026-11-07"
+   "2026-11-07",
+   "2026-11-08"
   ]
  }
 }

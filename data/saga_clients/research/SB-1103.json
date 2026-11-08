@@ -2,7 +2,7 @@
  "code": "SB-1103",
  "name_official": "ARA（ara.com.bd，孟加拉国）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（ara.com.bd：域名不可达（DNS/连接失败），2026-11-07，第 9 次）",
+ "website_status": "快照失败（ara.com.bd：域名不可达（DNS/连接失败），2026-11-08，第 10 次）",
  "summary": "孟加拉国网络经销商（MD. Chan Miah Sarker），海关数据显示买过磊通（Leitong）设备，Switch / MC / 周边，非自有品牌；support@ 退信（发不过去），备用 gmail；2023-02 对商用 PoE 价目回复 thanks。",
  "type": "",
  "size": "",
@@ -37,7 +37,7 @@
  ],
  "grade_override": "B",
  "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：只有自动回复/非买家回复：表内仅 thanks",
- "notes": "LT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（快照不可达 + 表内）"
@@ -167,7 +167,8 @@
    "2026-11-04T10:02:54Z",
    "2026-11-05T10:11:48Z",
    "2026-11-06T10:06:44Z",
-   "2026-11-07T09:31:20Z"
+   "2026-11-07T09:31:20Z",
+   "2026-11-08T09:44:22Z"
   ],
   "fails": [
    "2026-10-21",
@@ -178,7 +179,8 @@
    "2026-11-04",
    "2026-11-05",
    "2026-11-06",
-   "2026-11-07"
+   "2026-11-07",
+   "2026-11-08"
   ],
   "batch": "LT-T03"
  },

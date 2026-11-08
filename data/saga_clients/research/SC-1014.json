@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 品牌商 · OEM 30%：GOTE, S.A.（品牌 GTLAN；Paterna 1984；自有品牌网络产品制造 + 分销，已在卖宇航 / GXcom 工业线）坐实（法人 + 地址，CIF 未取）；对位 ✔ 欧洲 ✔ 自有品牌 ✔ 进口经验 ✔ → P 池候选；闸 1：西班牙 GTLAN（工业 FS，GXcom + 宇航；有工业 10G 5 口产品页）：欧洲 + 已进口中国同类品牌 + 对位 ✔；曾退信但域名正常 → 闸 2 查底数",
- "notes": "LT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-08）：site_contacts/saga_fit/deep/facts。\nLT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -70,8 +70,8 @@
   "need": "未知（无往来；复核时从官网 / 进口数据 / 项目推断）",
   "breakpoint": "无往来（从未触达或仅群发无回）",
   "saga_now": {
-   "p1": "STC-424XGGPM-280W",
-   "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）"
+   "p1": "STI-288GPM",
+   "why": "官网快照对位：工业/自动化词频 30、PoE 46 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-11-08；原默认 STC-424XGGPM-280W）"
   },
   "next_move": {
    "when": "不动：LT-01 复核（待过）后再定",
@@ -93,6 +93,14 @@
     "quote": "ES · 1 次检索：matmax.es/marcas/gtlan（Razón social GOTE, S.A.；Paterna；1984；marca propia Gtlan）+ contactout（+34 961 366 571；linkedin.com/company/gtlan）；2026-10-29",
     "why": "闸 2 坐实来源（URL 见 company_facts.url）",
     "url": "https://www.matmax.es/marcas/gtlan"
+   },
+   {
+    "date": "2026-11-08",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Gtlan – Soluciones en Telecomunicaciones",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://gtlan.com/"
    }
   ],
   "proof_gaps": [
@@ -131,15 +139,17 @@
   "登记号未取 → 部分坐实；开 PI 前核对法定名 / 税号"
  ],
  "saga_fit": {
-  "p1": "STC-424XGGPM-280W",
+  "p1": "STI-288GPM",
   "tier": 30,
-  "why": "默认对位（OEM · 30% 档）：贴牌 / 自有品牌线起手：24 GE PoE + 4×10G SFP+ L2+ 管理型（30% 档）",
-  "basis": "默认 · 官网快照后按业务线校正"
+  "why": "官网快照对位：工业/自动化词频 30、PoE 46 → DIN 8 PoE+ 2 SFP 起手（LT-T03 快照自动对位 2026-11-08；原默认 STC-424XGGPM-280W）",
+  "basis": "官网快照自动对位（LT-T03）· 人工点名时再校",
+  "p1_prev": "STC-424XGGPM-280W"
  },
  "deep": {
   "done_at": "2026-10-29",
-  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓）",
-  "batch": "LT-T01"
+  "level": "桌面加厚 v1（LT-T01：登记底数 + 三闸 + 复核整合，未新增网查；官网快照待 Actions 补抓） + 官网快照（LT-T03 2026-11-08）",
+  "batch": "LT-T01",
+  "snapshot_at": "2026-11-08"
  },
  "snap_thicken": {
   "consumed": [
@@ -150,7 +160,8 @@
    "2026-11-04T10:03:57Z",
    "2026-11-05T10:12:50Z",
    "2026-11-06T10:07:38Z",
-   "2026-11-07T09:32:14Z"
+   "2026-11-07T09:32:14Z",
+   "2026-11-08T09:45:05Z"
   ],
   "fails": [
    "2026-10-29",
@@ -162,7 +173,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-08"
  },
  "b_tier": {
   "tier": "B2",
@@ -188,5 +200,31 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [
+   "comercial@gtlan.com"
+  ],
+  "phones": [
+   "+34 961 366 571",
+   "+34) 961 366 571"
+  ],
+  "social": [
+   "https://www.linkedin.com/company/gtlan",
+   "https://www.youtube.com/@gtlantelecomunicaciones"
+  ],
+  "models_on_site": [
+   "RPSW24GPC",
+   "TESTPRO-K51E",
+   "RPSW24",
+   "RPSW16",
+   "RPSW16S",
+   "RPSW24GCS",
+   "RPSW24GC",
+   "RPSW24G"
+  ],
+  "url": "https://gtlan.com/",
+  "date": "2026-11-08",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

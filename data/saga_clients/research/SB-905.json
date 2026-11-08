@@ -71,10 +71,11 @@
  ],
  "grade_override": "A",
  "override_reason": "AB-FINAL-02 2026-10-30 A 级终评（Simon 规则：成单 + 回信沟通 + 极贴合）A2：真回信 3 封 / 表内 2 条 / 研究档 3 条（A；2025-07→2025-10）",
- "notes": "LT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
+ "notes": "LT-T03 官网快照加厚（2026-11-08）：site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 2026-10-22 并入 teltronix.net 往来（3 进 7 出，F16）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 公司档案核对）"
+  "level": "B 级加厚 v1（官网 + 公司档案核对） + 官网快照（LT-T03 2026-11-08）",
+  "snapshot_at": "2026-11-08"
  },
  "company_facts": {
   "legal_name": "Teltronix Holdings Ltd（品牌 Briticom™；公司号 12455268，2020-02-11 注册；VAT GB419036114）",
@@ -217,6 +218,14 @@
     "quote": "It will be great to have an idea of this switch Alan Thank you Best Regards Wadii TELTRONIX | BRITICOM T.: +44 1604 434 186 [cid:image001.jpg@01DC4A9C",
     "why": "来信原文（主题「RE: Booster PoE Switch」；第 19 批从 gmail_a 回补，之前只有计数没有原话）",
     "k": "f22fe1c8ed3e3766"
+   },
+   {
+    "date": "2026-11-08",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Briticom – British Pride, Global Power",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://briticom.net/"
    }
   ],
   "proof_gaps": [],
@@ -262,7 +271,8 @@
    "2026-11-04T10:01:32Z",
    "2026-11-05T10:10:26Z",
    "2026-11-06T10:05:23Z",
-   "2026-11-07T09:29:58Z"
+   "2026-11-07T09:29:58Z",
+   "2026-11-08T09:43:00Z"
   ],
   "fails": [
    "2026-10-21",
@@ -275,7 +285,8 @@
    "2026-11-06",
    "2026-11-07"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-08"
  },
  "ab_final": {
   "date": "2026-10-30",
@@ -548,5 +559,25 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [
+   "briticom@briticom.net",
+   "sales@briticom.net"
+  ],
+  "phones": [
+   "+44 (0) 1604 434 186",
+   "+44 (0)1604 434 186"
+  ],
+  "social": [
+   "https://twitter.com/briticomuk",
+   "https://uk.linkedin.com/in/teltronix-briticom-5ab444174",
+   "https://www.facebook.com/briticomuk",
+   "https://www.facebook.com/briticomuk/"
+  ],
+  "models_on_site": [],
+  "url": "https://briticom.net/",
+  "date": "2026-11-08",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }

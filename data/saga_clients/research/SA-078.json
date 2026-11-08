@@ -1,7 +1,7 @@
 {
  "code": "SA-078",
  "name_official": "James Clendenan Systems Ltd.",
- "website_status": "快照失败（clendenan.ca：超时（站慢或封锁），2026-11-07，第 8 次）",
+ "website_status": "快照失败（clendenan.ca：超时（站慢或封锁），2026-11-08，第 9 次）",
  "summary": "已成单 4 次（2024-06 4 台 / 2024-12 6 台 / 2026-08-30 12 台 @ $335）；Simon 标签：活跃 · Xtransfer · 轻度绑定；详见 research/SA-078.json",
  "type": "系统集成/工程（北温哥华）",
  "size": "",
@@ -94,7 +94,7 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "LT-T03 官网快照加厚（2026-11-07）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\n ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）",
+ "notes": "LT-T03 官网快照加厚（2026-11-08）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\n ｜ 针对性加厚 2026-10-22（UL PSU 线索，T29-U13 ②）",
  "researched_at": "2026-10-22",
  "deal_pi": {
   "folder": "10 加拿大 James 活跃 Xtransfer 轻度绑定",
@@ -349,7 +349,8 @@
    "2026-11-04T10:01:31Z",
    "2026-11-05T10:10:26Z",
    "2026-11-06T10:05:22Z",
-   "2026-11-07T09:29:58Z"
+   "2026-11-07T09:29:58Z",
+   "2026-11-08T09:43:00Z"
   ],
   "fails": [
    "2026-10-29",
@@ -359,7 +360,8 @@
    "2026-11-04",
    "2026-11-05",
    "2026-11-06",
-   "2026-11-07"
+   "2026-11-07",
+   "2026-11-08"
   ],
   "batch": "LT-T03"
  },
