@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：○ 分销 20%：Winncom Technologies Corp（Ohio 1999 注册；Solon OH；1996 起；100–160 人；WISP / 宽带分销）坐实；对位 ✔ 主区 ✔ 坐实 ✔ 体量 ✔ → P 池候选（冷户，10 推 0 回；一页纸后观察）；闸 1：美国 Winncom Technologies（「实力不错的分销商」，无线 / 网络分销）：美国主区 + 分销商主体 + 对位 ✔；体量偏大、10 次跟进无回复 → 闸 2 查底数，看是否有白牌 / 工业线入口",
- "notes": "LT-T03 官网快照加厚（2026-11-08）：fail#9。\nLT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-09）：fail#10。\nLT-T03 官网快照加厚（2026-11-08）：fail#9。\nLT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -151,7 +151,8 @@
    "2026-11-05T10:12:39Z",
    "2026-11-06T10:07:28Z",
    "2026-11-07T09:32:04Z",
-   "2026-11-08T09:45:05Z"
+   "2026-11-08T09:45:05Z",
+   "2026-11-09T10:30:45Z"
   ],
   "fails": [
    "2026-10-29",
@@ -162,7 +163,8 @@
    "2026-11-05",
    "2026-11-06",
    "2026-11-07",
-   "2026-11-08"
+   "2026-11-08",
+   "2026-11-09"
   ],
   "batch": "LT-T03"
  },

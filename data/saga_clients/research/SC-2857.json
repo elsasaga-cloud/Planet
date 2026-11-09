@@ -2,7 +2,7 @@
  "code": "SC-2857",
  "name_official": "Tropical Computers Cairns",
  "researched_at": "2026-10-30",
- "website_status": "快照失败（tropicalcompaters.com.au：域名不可达（DNS/连接失败），2026-11-08，第 8 次）",
+ "website_status": "快照失败（tropicalcompaters.com.au：域名不可达（DNS/连接失败），2026-11-09，第 9 次）",
  "summary": "澳大利亚客户（tropicalcompaters.com.au）：AB-FINAL-02 以回信证据建档——非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -17,7 +17,7 @@
   }
  ],
  "kp": [],
- "notes": "LT-T03 官网快照加厚（2026-11-08）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#1。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-09）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#1。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
   "level": "AB-FINAL-02 回信建档"
@@ -102,7 +102,8 @@
    "2026-11-05T10:13:22Z",
    "2026-11-06T10:08:12Z",
    "2026-11-07T09:32:46Z",
-   "2026-11-08T09:46:20Z"
+   "2026-11-08T09:46:20Z",
+   "2026-11-09T10:31:28Z"
   ],
   "fails": [
    "2026-11-01",
@@ -112,7 +113,8 @@
    "2026-11-05",
    "2026-11-06",
    "2026-11-07",
-   "2026-11-08"
+   "2026-11-08",
+   "2026-11-09"
   ],
   "batch": "LT-T03"
  }

@@ -2,8 +2,8 @@
  "code": "XC-M133",
  "name": "Adcon Engineering（ACD/Adcon）",
  "round": "LT-T03",
- "researched_at": "2026-11-08",
- "alive": "快照失败（adconengineering.com：HTTP 错误，2026-11-08，第 9 次）",
+ "researched_at": "2026-11-09",
+ "alive": "快照失败（adconengineering.com：HTTP 错误，2026-11-09，第 10 次）",
  "summary": "Adcon Engineering Co., Inc.：工业元件 / 传感 / 视觉 / 机柜分销，产品线含 EtherDevice DIN 导轨工业非管理交换机；财务负责人 Bill Raftry（allbiz 名录）；体量未知，官网陈旧",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Adcon Engineering Co., Inc.",
  "size": "",
@@ -40,7 +40,7 @@
   "angle": "观察档 → 试单后转正"
  },
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nAdcon Engineering Co., Inc.；20102 Progress Drive, Strongsville (Cleveland), OH 44149；+1 440 238 3915",
+ "notes": "LT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nAdcon Engineering Co., Inc.；20102 Progress Drive, Strongsville (Cleveland), OH 44149；+1 440 238 3915",
  "draft_en": null,
  "snap_thicken": {
   "consumed": [
@@ -52,7 +52,8 @@
    "2026-11-05T10:13:47Z",
    "2026-11-06T10:08:49Z",
    "2026-11-07T09:33:11Z",
-   "2026-11-08T09:46:44Z"
+   "2026-11-08T09:46:44Z",
+   "2026-11-09T10:32:00Z"
   ],
   "fails": [
    "2026-10-29",
@@ -63,7 +64,8 @@
    "2026-11-05",
    "2026-11-06",
    "2026-11-07",
-   "2026-11-08"
+   "2026-11-08",
+   "2026-11-09"
   ]
  }
 }
