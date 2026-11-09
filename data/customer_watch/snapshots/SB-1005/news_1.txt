@@ -1,4 +1,4 @@
-# SB-1005 asit.it · news_1 · https://www.asit.it/blog/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1005 asit.it · news_1 · https://www.asit.it/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Blog – Asit Online Store Skip to content Asit Online Store
 Innovation Delivered
 Registrati
@@ -155,6 +155,12 @@ Asit News
 Il blog sul mondo dell' ITC .
 News dai Vendors e approfondimenti per il canale.
 Blog
+Riello UPS | Gamma Sentinel Pro2
+Pubblicato il 9 Novembre 2026 9 Novembre 2026 da Matteo
+Scopri tutti i vantaggi, le innovazioni tecniche e i contesti applicativi della nuova generazione di gruppi di continuità firmata Riello UPS
+Vai all’articolo “Riello UPS | Gamma Sentinel Pro2”
+Categoria: Focus sui prodotti , News
+Tags: cabling , datacenter , riello
 Huawei eKitEngine AP673: Wi-Fi 7 Enterprise
 Pubblicato il 22 Ottobre 2026 22 Ottobre 2026 da Matteo
 Huawei eKitEngine AP673: La risposta Wi-Fi 7 ad alta densità per progetti B2B.
@@ -222,23 +228,18 @@ Yealink introduce la nuova MeetingBoard Pro !
 Vai all’articolo “Yealink MeetingBoard Pro”
 Categoria: Focus sui prodotti , News
 Tags: av , ucc , yealink , yealinkucc
-MeetingBoard C-EDLA: Soluzione Google Native
-Pubblicato il 9 Luglio 2026 9 Luglio 2026 da Matteo
-Yealink MeetingBoard C EDLA trasforma le sale riunioni in 15 minuti. Tutto l’ecosistema Google nativo, videoconferenze in 4K con regia AI e lavagna interattiva all-in-one. Scopri come azzerare la complessità in ufficio.
-Vai all’articolo “MeetingBoard C-EDLA: Soluzione Google Native”
-Categoria: Focus sui prodotti , News
-Tags: collaborazione , video , yealink
 Navigazione articoli
 Articoli meno recenti
 Categorie
 Comunicati Stampa (33)
-Focus sui prodotti (212)
+Focus sui prodotti (213)
 Focus sulle applicazioni (137)
 In evidenza (8)
-News (343)
+News (344)
 Promo (104)
 Rassegna Stampa (13)
 Ultimi Articoli
+Riello UPS | Gamma Sentinel Pro2 9 Novembre 2026
 Huawei eKitEngine AP673: Wi-Fi 7 Enterprise 22 Ottobre 2026
 MVC 4th Gen: l’AI Rivoluziona le Sala Riunioni 12 Ottobre 2026
 Architetture MTR Yealink 5 Ottobre 2026
@@ -250,7 +251,6 @@ ASIT vi invita all’ALLIANZ STADIUM 12 Agosto 2026
 Sicurezza industriale: il caso Newchem 3 Agosto 2026
 Humly: Workplace Management 3 Agosto 2026
 Yealink MeetingBoard Pro 22 Luglio 2026
-MeetingBoard C-EDLA: Soluzione Google Native 9 Luglio 2026
 Iscriviti alla nostra Newsletter per essere aggiornato su novità e promo Asit!
 Ho Preso Visione della Privacy Policy
 Do il consenso ai sensi dell’art. 6 /a del Reg. 679/2016 al p.1 dell’informativa
@@ -479,4 +479,9 @@ NVR
 Lettura Targhe
 Software & VMS
 Accessori video sorveglianza
-Bac
+Back
+Controllo Accessi Reader
+Videocitofoni
+Accessori Controllo Accessi
+Back
+A/V Soluzioni Video Commercial Display

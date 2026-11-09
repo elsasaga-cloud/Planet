@@ -1,4 +1,4 @@
-# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -361,7 +361,7 @@ Next
 New
 favorite
 favorite_border
-LTE, 5G MikroTik LHGGM&EG18-EA | LTE Modem + Antenna | CAT18 LTE, 1x RJ45 1000Mb/s
+LTE, 5G MikroTik LHGGM&EG18-EA LTE Antenna + Modem, CAT18 LTE, 1x RJ45 1000Mb/s
 1,015.82 zł gross
 Add to basket
 New
@@ -399,12 +399,6 @@ favorite
 favorite_border
 Products Ubiquiti LS5 Subscriber Unit
 13.35 zł gross
-Add to basket
-New
-favorite
-favorite_border
-Power supply Ubiquiti POE-24-24W-5P, PoE power supply, 24V, 1A, 24W, 5-pack
-214.89 zł gross
 Add to basket
 On sale
 Previous

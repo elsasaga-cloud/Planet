@@ -1,4 +1,4 @@
-# SB-030 Medias-Com'S · sitemap · https://medias-coms.ch/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-030 Medias-Com'S · sitemap · https://medias-coms.ch/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 	https://medias-coms.ch/
 	https://medias-coms.ch/entreprise.html
 	https://medias-coms.ch/ecrans-digitaux.html

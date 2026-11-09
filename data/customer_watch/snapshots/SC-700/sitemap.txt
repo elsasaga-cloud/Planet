@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · sitemap · https://www.amc-systeme.de/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-700 amc-systeme.de · sitemap · https://www.amc-systeme.de/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 	https://www.amc-systeme.de/
 	https://www.amc-systeme.de/merkzettel.html
 	https://www.amc-systeme.de/newsletteranmeldung.html
@@ -180,6 +180,8 @@
 	https://www.amc-systeme.de/branche-transportation-logistik.html
 	https://www.amc-systeme.de/branche-automobilindustrie.html
 	https://www.amc-systeme.de/technologien.html
+	https://www.amc-systeme.de/amc-auf-der-sps-2026.html
+	https://www.amc-systeme.de/produktabkuendigungen-und-sicherheitsmeldungen.html
 	https://www.amc-systeme.de/duales-studium-mittelstandsmanagement-amc-einblicke.html
 	https://www.amc-systeme.de/amc-ifactoryx-schulung-sensor-zur-visualisierung.html
 	https://www.amc-systeme.de/amc-all-about-automation-berlin-2026-automation-messe.html
@@ -190,6 +192,4 @@
 	https://www.amc-systeme.de/amc-all-about-automation-friedrichshafen-2026-stand-b2-311.html
 	https://www.amc-systeme.de/amc-advantech-30-jahre-partnerschaft.html
 	https://www.amc-systeme.de/technologien-ipc.html
-	https://www.amc-systeme.de/kompakter-edge-controller-fuer-mobile-roboter.html
-	https://www.amc-systeme.de/computing-box-touch-panel-ipc.html
-	https://www.amc-systeme.de/uno-2484v3-embedded-ipc-luefterlo
+	https://www.amc-systeme.de/kompakter-edge-controller-fuer-mobile-rob

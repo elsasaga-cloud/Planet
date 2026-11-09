@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-09T09:57:20Z · HTTP 200
 Obchod, Nové produkty
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -509,6 +509,20 @@ Napište nám!
 Všechny
 Do košíku
 Náhled
+Hikvision DS-2CD2T63G2P-LISU/SL (180°) panoramic IP bullet camera (6 Mpix, 2.8 mm, 0.005 lx, hybrid lighting up to 30 m)
+DS-2CD2T63G2P-LISU/SL(180°) je moderní panoramatická IP kamera značky Hikvision v tubusovém pouzdře.
+• Snímače: 2 × 1/2,5" Progressive Scan CMOS
+• Rozlišení 6 MPix – 3632 × 1632
+• Objektivy 2 × 2,8 mm s celkovým úhlem záběru 180°
+• Hybridní osvětlení: IR a bílé světlo Smart Light do 30 m
+• Inteligentní analýza VCA založená na rozpoznávání osob a vozidel
+• Technologie AcuSense, detekce pohybu 2.0
+• Stroboskopické světlo a zvukový alarm – Live Guard
+• Vestavěný mikrofon
+• Funkce zpracování obrazu: AGC, 3D-DNR, WDR (120 dB), BLC, HLC
+• Podpora microSD karet s kapacitou až 512 GB
+• Aplikace pro počítač iVMS-4200 a pro chytré telefony Hik-Connect (Android, iOS)
+• Přístup přes cloud P2P
 Kód: K03829
 11876,15 Kč
 9815,00 Kč bez DPH
@@ -596,19 +610,4 @@ od 0,00 Kč
 Dostupný
 Do košíku
 Náhled
-Hikvision DS-2CD2387G3P-LIS2UY/SL (180°) ColourVu IP panoramic ceiling-mounted camera (8 Mpix, 2.8 mm, 0.0005 lx, hybrid illumination up to 30 m)
-Kód: K01570
-19119,82 Kč
-15801,50 Kč bez DPH
-od 0,00 Kč
-Dostupný
-Do košíku
-Náhled
-IP tube kamera Dahua IPC-HFW2849TL-S-LED-0280B-PRO (8 Mpix, 2,8 mm, 0,0004 lx, osvětlení bílým světlem 20 m, WizColor)
-Kamera WizColor zaznamenává barevný obraz 24 hodin denně, 7 dní v týdnu, nabízí technologii SMD+, perimetrickou ochranu a AI ISP pro inteligentní optimalizaci kvality obrazu.
-• Rozlišení 8 MPix – 3840 x 2160 při 20 snímcích za sekundu
-• Velký snímač 1/1,8" – citlivost 0,0004 lx
-• Objektiv s pevnou ohniskovou vzdáleností 2,8 mm
-• Bílé osvětlení s dosahem až 20 m
-• Inteligentní detekce pohybu SMD+ (Smart Motion Detection+)
-• Inteligentní události: detekce překročení čáry a pohybu v z
+Hikvision DS-2CD2387G

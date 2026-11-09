@@ -1,4 +1,4 @@
-# SB-481 itegra.lt · feed_auto · https://itegra.lt/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-481 itegra.lt · feed_auto · https://itegra.lt/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Thu, 09 Jul 2026 15:24:32 +0000	Apsaugos ir vaizdo stebėjimo sistemų veikimas išmaniame name	https://itegra.lt/apsaugos-ir-vaizdo-stebejimo-sistemu-veikimas-ismaniame-name/
 Thu, 09 Jul 2026 15:09:54 +0000	Apsaugos sistemos kritinės reikšmės objektams: kodėl transformatorinėms būtina profesionali apsauga?	https://itegra.lt/apsaugos-sistemos-kritines-reiksmes-objektams-kodel-transformatorinems-butina-profesionali-apsauga/
 Thu, 09 Jul 2026 14:34:19 +0000	Kaip išsirinkti vaizdo stebėjimo sistemą verslui?	https://itegra.lt/kaip-issirinkti-vaizdo-stebejimo-sistema-verslui/

@@ -1,4 +1,4 @@
-# SB-1059 neteon.net · news_1 · https://www.neteon.net/knowledge-base · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1059 neteon.net · news_1 · https://www.neteon.net/knowledge-base · fetched 2026-11-09T09:57:20Z · HTTP 200
 Expert Insights, Case Studies and Resources | Knowledge Hub | Neteon
 MOXA IPC IIoT
 Solutions Industrial Cybersecurity Real-Time OT Network Visibility Protect Your OT Networks Security Hardened Network Devices
@@ -35,6 +35,8 @@ All Case Studies Litertures Data Center Energy Oil & Gas Manufacturing Transport
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
 Case Studies
+Connecting a Brownfield Food Plant with Advantech UNO-148 V2 Edge Computing
+Case Studies
 Local Energy Management for BESS with Moxa BXP-A101
 Case Studies
 Inside an Airport E-Gate: Advantech MIC-770 V3 for Biometric Border Control
@@ -49,8 +51,6 @@ Case Studies
 Keeping Ferry Ticketing Available 24/7
 Case Studies
 Faster Airport e-Gates with Edge GPU Computing
-Case Studies
-Machine Vision at Production Speed
 Load More
 Unlock Expert Knowledge
 Secure Scalable IIoT: Moxa + AWS for Cloud-Connected Industrial Operations

@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,36 +146,38 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Stabilizzatori OROY 5/230
-Stabilizzatore Di Tensione Elettromeccanico Trifase 80Kva ±15%
+1GB
+Modulo Mini Gbic Tp
 Esegui l'accesso per visualizzare i prezzi
 +
+KVM Switch
+Cavo Kvm 5M Usb Con Convertitore Ps2 A Usb
+Esegui l'accesso per visualizzare i prezzi
++
+UPS Third Power / Third Power Plus – Rack/Tower: gruppi di continuità on-line a doppia conversione
+Eurogroup Third Power Rack/Tower 1000: UPS 1000 VA / 900 W | THPMM01K10RT
+Esegui l'accesso per visualizzare i prezzi
++
+Bretelle Multimodali Zip Duplex 62,5/125 OM1
+Bretella Fibra OM1 ST-SC 3m | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Esaurito
+Armadi 600x1000
+Armadio Rack a Pavimento 42U 600×1000 Porta Grigliata Alta Densità Monoanta | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Loose Dielettrico LSZH OM4
+Cavo fibra ottica 8 FO 50/125 OM4 Loose Dielettrico Interno/Esterno | 4Net CF50CL08LSM4
+Esegui l'accesso per visualizzare i prezzi
++
+UPS Micro Pro LCD
+Eurogroup Micro Pro LCD 1500: UPS 1500 VA / 900 W | MLPMM150010T
+Esegui l'accesso per visualizzare i prezzi
++
+Esaurito
 Unmanaged
-Planet IGS-1820TF: Switch Unmanaged 16 Porte 10/100/1000T + 2 Porte 1000X SFP (-40 a 75°C)
-Esegui l'accesso per visualizzare i prezzi
-+
-UPS Third Power / Third Power Plus
-Eurogroup Third Power Plus 10000: UPS 10000 VA / 10000 W | THPPMM010K10T
-Esegui l'accesso per visualizzare i prezzi
-+
-L2+
-PLANET IGS-5225-4UP1T2S-12V: switch industriale PoE++ con booster 12V
-Esegui l'accesso per visualizzare i prezzi
-+
-Antenne e Cavi
-Antenna Direzionale Doppia Polarizzazione Flat Panel 14Dbi 5Ghz
-Esegui l'accesso per visualizzare i prezzi
-+
-Connettori Keystone RJ45
-Keystone RJ45 Cat. 6 UTP bianco toolless | 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-Outdoor/Industrial
-Wireless Vpn Gateway Industriale Wi-Fi 6 802.11Ax 1800Mbps Dual Band Con 5-Porte 10/100/1000T
-Esegui l'accesso per visualizzare i prezzi
-+
-1 GB
-Transceiver Fibra Sfp (40Km) Wdm Tx-1550
+Planet IGS-800T-PN: switch industriale PROFINET 8 porte Gigabit IP30
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta

@@ -1,4 +1,4 @@
-# SB-888 stordis.com · home · https://stordis.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-888 stordis.com · home · https://stordis.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 STORDIS - Network People · Open By Design
 Test SONiC Download GNS3 VM
 Test OcNOS® Download VM
@@ -209,8 +209,9 @@ Submit an RMA Request
 My tickets
 Knowledge Base
 FAQ
-Bootcamps
-New SONiC Bootcamps Available Now
+Services
+One contact for hardware & SONiC.
+Up to 24×7×365 support.
 Courses
 Elevate Career with SONiC Linux Course
 Services
@@ -385,4 +386,4 @@ Networks we've built, results that speak for themselves
 Real deployments, real teams, real outcomes. See how operators across Europe run production networks on open technology.
 Customer stories
 Flow Swiss runs one of Switzerland’s leading public clouds — serving Uber, Spotify, Bitcoin Suisse, and other demanding customers from three geo-redundant Swiss data centers. STORDIS delivered the full open networking stack — 48 Edgecore switches, Enterprise SONiC, leaf-and-spine architecture with 100Gbps uplinks — backed by the engineering partnership that turns deployment into long-term collaboration.
-IP Nexia, a Belgian service provider serving 1,000+ enterprise customers across VoIP, connectivity, and cloud services, needed to retire end-of-life backbone hardware and break free from vendor lock-in. Together with Deca Consulting as network architecture partner and Edgecore 
+IP Nexia, a Belgian service provider serving 1,000+ enterprise customers across VoIP, connectivity, and cloud services, needed to retire end-of-life backbone hardware and break free from vendor lock-in. Together with Deca Consulting as network architectur

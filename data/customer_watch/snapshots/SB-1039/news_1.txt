@@ -1,4 +1,4 @@
-# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Innovative News - ICO Innovative Computer GmbH
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -87,6 +87,10 @@ Anfahrt
 Startseite
 ICO NEWS
 Hier finden Sie Neuigkeiten und aktuelle Artikel rund um unser Sortiment und unser Unternehmen
+Industrielle Touch-Bedienung von 10,1 bis 23,8 Zoll
+Fünf neue Panel-PCs von ICO verbinden unterschiedliche Displayformate mit Intel Core i5- und Celeron-Prozessoren.
+(mehr …)
+9.11.2026
 Embedded-PC mit Intel Core Serie 2 nach Bedarf konfigurieren
 Lüfterloser Industriecomputer von ICO bietet bis zu 64 GB DDR5-RAM und Anschlüsse für drei Displays.
 (mehr …)
@@ -123,15 +127,11 @@ NVIDIA DGX Spark bei ICO: kompakte KI-Workstation im Mini-PC-Format
 NVIDIA Grace Blackwell, 128 GB Unified Memory und bis zu 1 PFLOP FP4 bringen leistungsfähige KI-Entwicklung direkt an den Arbeitsplatz.
 (mehr …)
 8.10.2026
-Datalogic Magellan 3600VSi und 3700HSi für moderne Kassensysteme
-Vertikale und horizontale Single Plane Scanner erfassen klassische Barcodes, 2D Codes und digitale Informationen am bedienten POS und im Self Checkout.
-(mehr …)
-5.10.2026
 1
 2
 3
 …
-95
+96
 Nächste Seite →
 Suchen Suchen
 Kategorien

@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-08T09:13:02Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-09T09:57:20Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -12,7 +12,7 @@ Power Supplies & Batteries
 Cable & Installation
 Menu
 Products
-Categorieën
+Categories
 Our brands
 2N
 acre
@@ -137,7 +137,7 @@ BANDIT
 Berica Cavi Cable
 Bosch Intrusion Alarm by Radionix
 Bysecur
-Cellhire
+Cellhire IoT
 Cooper Safety
 CSAG
 Dahua
@@ -303,7 +303,7 @@ Ajax
 Aten
 Axis Communications
 Bysecur
-Cellhire
+Cellhire IoT
 ComNet
 Dahua
 Davantis
@@ -441,7 +441,7 @@ Vivotek
 IT & Network
 Brands
 Aten
-Cellhire
+Cellhire IoT
 ComNet
 Dahua
 Dell
@@ -599,7 +599,7 @@ Hikvision
 TVT
 SIM IoT Services
 Ajax
-Cellhire
+Cellhire IoT
 Tele2 IoT
 Accesories
 Alpha
@@ -704,7 +704,7 @@ Akuvox
 ASSA ABLOY
 Axis Communications
 Bysecur
-Cellhire
+Cellhire IoT
 Dahua
 Eden Innovations
 elbaC - Alpha
@@ -840,7 +840,7 @@ Alpha
 AlphaCable Fire
 Bosch Fire
 Bysecur
-Cellhire
+Cellhire IoT
 Durán
 Eaton
 Fulleon
@@ -1132,7 +1132,7 @@ Pulsar
 SeeEyes
 STid
 Veracity
-New
+default.new_menu
 Trainingen
 Training
 Training Dates
@@ -1261,6 +1261,8 @@ Basic Networking Knowledge
 27 November
 @ SmartSD Merchtem (BE)
 16 December
+@ SmartSD Merchtem (BE)
+28 January
 @ SmartSD Merchtem (BE)
 Akuvox Intercom Basics
 23 November

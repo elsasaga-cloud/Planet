@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · home · https://www.amc-systeme.de/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-700 amc-systeme.de · home · https://www.amc-systeme.de/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 AMC - Analytik & Messtechnik GmbH Chemnitz - AMC
 Navigation überspringen
 Startseite
@@ -31,6 +31,7 @@ Transportation und Logistik
 Automobilindustrie
 Technologien
 Back
+Wichtige Produktabkündigungen und Sicherheitsmeldungen
 Mein erstes Jahr bei AMC: Einblicke zum dualen Studium im Mittelstandsmanagement
 AMC iFactoryX - Schulung: Vom Sensor zur Visualisierung am 06. Mai 2026
 35 Jahre Zusammenarbeit AMC mit Meilhaus Electronic
@@ -210,12 +211,12 @@ tionstechnik
 Zurück
 Vorwärts
 AMC News
+Kompakte 10G L3-Switches der EKI-8700-Serie für industrielle Netzwerke
+19 Zoll Messsysteme für die Mess- und Prüftechnik
+Wichtige Produktabkündigungen und Sicherheitsmeldungen – mit AMC bleiben Sie auf dem Laufenden
 LoRaWAN-Netzverknüpfung für flächendeckende Anlagenüberwachung (LNS) mit Chirpstack/The Things Network
 Neuer dydaqlog-E IIoT-Datenlogger: flexibel messen, intelligent vernetzen
 GPU-gestützte Computing Box für modulare Touch-Panel-IPCs und industrielle Edge-KI-Anwendungen
-Kompakter Edge-Controller für mobile Roboter
-Leistungsstarker lüfterloser Embedded IPC UNO-2484V3 für industrielle Anwendungen
-Messdaten ohne Kabel: So gelingt die einfache Nachrüstung im Bestand
 AMC - Ihr Partner seit 1990!
 AMC - Analytik & Messtechnik GmbH Chemnitz ist Ihr Systemhaus für Mess-, Steuerungs- und Automatisierungstechnik aus Chemnitz in Sachsen. Wir stehen Ihnen seit 1990 als leistungsstarker, kompetenter und erfahrener Partner mit bewährten und innovativen Produkten und Systemlösungen zur Seite.
 Zum umfangreichen Lieferprogramm von AMC gehören Produkte für die Messtechnik und Prüftechnik sowie für die Steuerungstechnik und Automation mit folgenden Schwerpunkten:

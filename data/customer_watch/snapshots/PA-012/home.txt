@@ -1,4 +1,4 @@
-# PA-012 SIR.tel. S.r.l. · home · https://sirtel.it/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# PA-012 SIR.tel. S.r.l. · home · https://sirtel.it/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Tecnologie di videosorveglianza e controllo accessi | SIR.tel
 Vai al contenuto
 +39 0442 510467
@@ -348,7 +348,7 @@ Login Account
 Enter your credentials to access your account
 ID accesso
 Password
-Enter an answer in digits: 10 − 1 =
+Enter an answer in digits: 12 + cinque =
 Inserisci qualcosa di speciale:
 Ricordami
 Password dimenticata?

@@ -1,4 +1,4 @@
-# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
 მომხმარებელი არ არის ვერიფიცირებული
 ვერიფიკაცია
@@ -175,41 +175,40 @@ E60iUGS
 #03639
 247.75 ₾
 მარაგშია
-მართვადი PoE სვიჩი - USW-Enterprise-48-PoE, Ubiquiti
-USW-Enterprise-48-PoE
-#03951
-7718.43 ₾
-მარაგშია
-ჰიბრიდული ჩამწერი 8 არხი 1 მყარი დისკი Uniview
-XVR301-08F
-#03960
-182.25 ₾
-მარაგშია
-UniFi Cloud Gateway - Fiber, Ubiquiti
-UCG-Fiber-EU
-#03644
-1451.71 ₾
-მარაგშია
-IP კამერა - 4მპ, VF, WiseISP Turret, Mic, SD, ANR, UMD, IR/LED 50m, Uniview
-IPC3634LE-ADZK-DL3
-#04127
-415.53 ₾
-გზაშია, სავარაუდო ჩამოსვლა:
-09.11.2026
-უწყვეტი კვების წყარო (UPS) - 20KVA/18KW ინდუსტრიული / ტრანსფორმატორიანი UPS 3:3
-EP20
-#03484
-13692.36 ₾
-მარაგშია
-მართვადი სვიჩი - USW-Pro-XG-24, Ubiquiti
-USW-Pro-XG-24
-#03869
-5782.83 ₾
+მართვადი PoE სვიჩი - USW-Enterprise-24-PoE, Ubiquiti
+USW-Enterprise-24-PoE
+#03950
+3961.55 ₾
 მარაგშია
 IP კამერა - 4მპ, 4მმ, Dome PT, UMD, Mic, SD, ANR, Uniview
 IPC6214LFW-AF40C
 #03599
 236.93 ₾
+მარაგშია
+PoE სვიჩი - 16x100 მბ/წმ PoE პორტი, 2x1000 მბ/წმ კომბო, არამართვადი
+NSW2020-16T2GC-LPOE-IN
+#04054
+351.85 ₾
+მარაგშია
+UniFi Cloud Gateway - Dream Router 7, Ubiquiti
+UDR7-EU
+#03645
+1456.92 ₾
+მარაგშია
+უწყვეტი კვების წყარო (UPS) - 20KVA/18KW ინდუსტრიული / ტრანსფორმატორიანი UPS 3:3
+EP20
+#03484
+13692.36 ₾
+მარაგშია
+მართვადი PoE სვიჩი - CSS610-8P-2S+OUT
+CSS610-8P-2S+OUT
+#03962
+1038.25 ₾
+მარაგშია
+xPON ONU, 1 GPON/EPON port, 2x 1GE, WiFi ac, BDCOM
+GP1705-2G
+#02976
+126.22 ₾
 მარაგშია
 საინფორმაციო ბლოკი
 ყველას ნახვა

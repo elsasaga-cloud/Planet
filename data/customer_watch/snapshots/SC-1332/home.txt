@@ -1,4 +1,4 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
@@ -9,8 +9,8 @@ Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-Indoor Access Points
 WiFi & Home Networking
+Indoor Access Points
 Outdoor Access Points
 Fibre Networking
 Audio Visual
@@ -36,8 +36,8 @@ Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-Indoor Access Points
 WiFi & Home Networking
+Indoor Access Points
 Outdoor Access Points
 Fibre Networking
 Audio Visual
@@ -109,9 +109,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
+RJ45 Connectors
 RJ45 Boots
 Crimping Tools
-RJ45 Connectors
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -216,8 +216,8 @@ Range Extenders 3 products
 Sirens 3 products
 Relays & Accessories 2 products
 Shop All AJAX Products
-Axxe Cables 4 products
 Axxe Dash Cameras 3 products
+Axxe Cables 4 products
 Shop All Axxe Products
 Cudy Access Points 2 products
 Cudy WiFi Routers 8 products
@@ -303,9 +303,9 @@ Ubiquiti UISP Fibre 11 products
 Ubiquiti PoE injectors 6 products
 Ubiquiti Accessories 1 products
 Shop All Ubiquiti Products
+Screwdrivers & Tool Sets 7 products
 Ratchet Sets 3 products
 Miscellaneous Tools 2 products
-Screwdrivers & Tool Sets 7 products
 Shop All UF-Tools Products
 UltraLAN Antennas 5 products
 UltraLAN Brackets 9 products
@@ -395,9 +395,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
+RJ45 Connectors
 RJ45 Boots
 Crimping Tools
-RJ45 Connectors
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All

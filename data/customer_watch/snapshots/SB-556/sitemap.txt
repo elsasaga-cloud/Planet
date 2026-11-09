@@ -1,4 +1,4 @@
-# SB-556 ubf.de · sitemap · https://ubf.de/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-556 ubf.de · sitemap · https://ubf.de/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 	https://www.ubf.de/
 2023-10-30	https://www.ubf.de/sortiment.htm
 	https://www.ubf.de/ethernet.htm

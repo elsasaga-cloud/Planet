@@ -1,4 +1,4 @@
-# SB-1130 cnstech.gr · sitemap · https://www.cnstech.gr/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1130 cnstech.gr · sitemap · https://www.cnstech.gr/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 2025-10-17T12:31:08+00:00	https://www.cnstech.gr/
 2025-10-17T12:31:08+00:00	https://www.cnstech.gr/register/
 2025-10-17T12:31:08+00:00	https://www.cnstech.gr/about-us/

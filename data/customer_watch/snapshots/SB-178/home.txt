@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -41,7 +41,7 @@ Platformy WLAN (2)
 Radiolinie (85)
 Routery (183)
 Routery ADSL (5)
-Światłowody (1707)
+Światłowody (1706)
 Switche (681)
 Szafy rack 10/19 cali (498)
 Telewizja cyfrowa DVB-T (69)
@@ -291,12 +291,24 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ)
-6 765,00 zł z VAT
-7 276,57 zł
-5 500,00 zł netto
+Wisnetworks WIS-ANS5820-90 MIMO Sector
+356,70 zł z VAT
+460,51 zł
+290,00 zł netto
 szt
-Najniższa cena z 30 dni: 7 276,57 zł
+Najniższa cena z 30 dni: 460,51 zł
+Tenda TEG1126P-24-410W
+836,40 zł z VAT
+984,00 zł
+680,00 zł netto
+szt
+Najniższa cena z 30 dni: 984,00 zł
+MikroTik wAP R ac (RBwAPGR-5HacD2HnD)
+244,77 zł z VAT
+308,80 zł
+199,00 zł netto
+szt
+Najniższa cena z 30 dni: 308,80 zł
 Wisnetworks WIS-L5820S Sector Base Station
 479,70 zł z VAT
 719,55 zł
@@ -309,24 +321,12 @@ ExtraLink 8F Cable (FRP indoor/ outdoor)
 0,80 zł netto
 szt
 Najniższa cena z 30 dni: 1,29 zł
-Wisnetworks WIS-L5818S Sector Base Station
-367,77 zł z VAT
-575,64 zł
-299,00 zł netto
+Wisnetworks WIS-ANS2417-90 MIMO Sector
+244,77 zł z VAT
+420,22 zł
+199,00 zł netto
 szt
-Najniższa cena z 30 dni: 575,64 zł
-Pigtail N/m kątowe - RP-SMA/m kątowe (25 cm)
-12,18 zł z VAT
-27,96 zł
-9,90 zł netto
-szt
-Najniższa cena z 30 dni: 27,96 zł
-Uchwyt kablowy KO12, na przewód okrągły ø 12 mm
-6,03 zł z VAT
-10,46 zł
-4,90 zł netto
-szt
-Najniższa cena z 30 dni: 10,46 zł
+Najniższa cena z 30 dni: 420,22 zł
 Najnowsze propozycje
 NOWOŚĆ
 Cudy WR3600E
@@ -370,9 +370,9 @@ szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Cudy BU530
-20,75 zł z VAT
-16,87 zł netto
+Tenda CP6 obrotowa kamera do monitoringu domowego
+79,40 zł z VAT
+64,55 zł netto
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
@@ -382,4 +382,4 @@ FedEx: od 14.90 PLN (netto)
 Paczkomat: od 14 PLN (netto)
 Poczta: zgodnie z cennikiem
 Zlokalizuj przesyłkę DHL
-Zlokalizuj przesyłkę
+Zlokalizuj przesyłkę FedEx

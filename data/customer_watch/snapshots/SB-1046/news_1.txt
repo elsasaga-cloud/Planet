@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · news_1 · https://ivolta.pl/blog · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1046 ivolta.pl · news_1 · https://ivolta.pl/blog · fetched 2026-11-09T09:57:20Z · HTTP 200
 Blog iVolta – Nowości, porady i trendy z branży zabezpieczeń | Sklep iVolta.pl | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -51,6 +51,9 @@ Menu
 Strona główna
 Blog
 Artykuły:
+SYSTEMY ZABEZPIECZEŃ 09.11.2026 Ajax czy Satel (BE WAVE, ABAX 2, PERFECTA)? Porównanie systemów alarmowych 2026 w tabeli
+Kompleksowy poradnik i zestawienie możliwości systemów zabezpieczeń 2026 w tabeli.
+Czytaj więcej
 CCTV 03.11.2026 Budżet mocy PoE: jak dobrać switch PoE do kamer IP i nie przeciążyć portów
 Kluczowym komponentem każdej współczesnej instalacji monitoringu IP jest switch PoE, który odpowiada za przesyłanie danych oraz dostarczanie energii do kamer za pomocą jednego przewodu UTP.
 Czytaj więcej
@@ -66,9 +69,6 @@ Czytaj więcej
 SYSTEMY ZABEZPIECZEŃ 06.07.2026 Rewolucja NIS2: Co czeka branżę elektronicznych systemów zabezpieczeń?
 Dziś, w dobie wszechobecnego internetu rzeczy (IoT) i integracji z sieciami IT, branża ta sama staje się frontem walki z cyberzagrożeniami.
 Czytaj więcej
-SYSTEMY ZABEZPIECZEŃ 11.06.2026 Klasyfikacja Podmiotów Kluczowych i Ważnych w świetle dyrektywy NIS 2
-Główne przyczyny wprowadzenia nowego podziału to przede wszystkim zasada proporcjonalności, która pozwala na nakładanie obciążeń administracyjnych adekwatnych do roli podmiotu w gospodarce, oraz harmonizacja nadzoru, eliminująca uznaniowość organów krajowych.
-Czytaj więcej
 Na stronie:
 6
 12
@@ -77,7 +77,7 @@ Na stronie:
 2
 3
 ...
-32
+33
 Następna ›
 Kategorie:
 • Artykuły Elektryczne (2)
@@ -90,9 +90,11 @@ Kategorie:
 • Sieci (1)
 • SSP (4)
 • SSWiN (28)
-• SYSTEMY ZABEZPIECZEŃ (41)
+• SYSTEMY ZABEZPIECZEŃ (42)
 • TV SAT (8)
 Najnowsze:
+09.11.2026
+Ajax czy Satel (BE WAVE, ABAX 2, PERFECTA)? Porównanie systemów alarmowych 2026 w tabeli
 03.11.2026
 Budżet mocy PoE: jak dobrać switch PoE do kamer IP i nie przeciążyć portów
 13.10.2026
@@ -103,8 +105,6 @@ Jak TP-LINK VIGI może zmienić obsługę systemów CCTV?
 AcuSeek w rejestratorach VPro Hikvision – inteligentne tekstowe wyszukiwanie nagrań CCTV
 06.07.2026
 Rewolucja NIS2: Co czeka branżę elektronicznych systemów zabezpieczeń?
-11.06.2026
-Klasyfikacja Podmiotów Kluczowych i Ważnych w świetle dyrektywy NIS 2
 Wszystkie tagi:
 monitoring
 czujnik dymu

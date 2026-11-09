@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Webinar práctico: Megafonía IP con Grandstream | 20 de noviembre
+9 de noviembre de 2026
+Webinar
+Descubre cómo desplegar una solución profesional de megafonía IP con Grandstream UCM y altavoces GSC35XX. Inscríbete al webinar del 20 de noviembre a las h.
+Read More
 Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inalámbrica y botón de IA
 3 de noviembre de 2026
 Conoce
@@ -67,11 +72,6 @@ MikroTik LGO-LTE-W: antena compacta para LTE y LoRa® en instalaciones IoT
 20 de octubre de 2026
 Conoce
 La MikroTik LGO-LTE-W (DPD0830AL08) es una antena compacta para LTE y LoRa® de 617 a 5925 MHz, con 3 dBi y SMA macho, en solo 172 × 19 × 13 mm. Recomendada para KNOT.
-Read More
-MikroTik Back to Home: acceso remoto seguro incluso sin IP pública
-19 de octubre de 2026
-Conoce
-Accede de forma cifrada a tu red con Back to Home de MikroTik, también detrás de NAT. Te explicamos compatibilidad, configuración, límites y equipos disponibles en Instant Byte.
 Read More
 Paginación de entradas
 1
@@ -624,4 +624,5 @@ comprar RF elements
 comprar ubiquiti
 comprar unifi
 compras +1500 €
-compr
+compresión de vídeo
+comuni

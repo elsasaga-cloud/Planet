@@ -1,6 +1,5 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 Sat, 07 Nov 2026 01:52:58 GMT	[공지] ipTIME CCTV 앱(안드로이드) 계정 가입 시 인증번호 미발송 현상 해결	https://iptime.com/notices/27788
-Sat, 07 Nov 2026 01:49:41 GMT	[공지] ipTIME CCTV 앱(안드로이드) 계정 가입 시 인증번호 미발송 현상 해결 완료	https://iptime.com/support/faq/27787
 Fri, 06 Nov 2026 08:32:21 GMT	[ipTIME 카메라] 홈캠 AI 감지는 유료인가요? 구독해야 하나요?	https://iptime.com/support/faq/27784
 Fri, 06 Nov 2026 07:26:51 GMT	[IP 카메라] C500-Outdoor 사용설명서	https://iptime.com/support/downloads/27782
 Fri, 06 Nov 2026 07:25:03 GMT	[IP 카메라] C400GS 사용설명서	https://iptime.com/support/downloads/27781
@@ -49,3 +48,4 @@ Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 가족 공유 설정과 
 Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 펌웨어 업데이트 방법과 실패할 때	https://iptime.com/support/faq/27737
 Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 푸시 알림이 오지 않을 때	https://iptime.com/support/faq/27736
 Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 화면이 흑백이거나 주간·야간 모드가 자주 바뀔 때	https://iptime.com/support/faq/27735
+Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] PC에서 홈캠 보기 CAM Multi 뷰어 사용법과 연결 오류	https://iptime.com/support/faq/27734

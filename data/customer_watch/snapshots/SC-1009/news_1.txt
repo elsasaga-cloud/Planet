@@ -1,4 +1,4 @@
-# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-09T09:57:20Z · HTTP 200
 Blog | Varel Alarm
 Kurumsal expand_more
 Hakkımızda
@@ -152,6 +152,10 @@ Devamını Oku arrow_forward
 News
 Kablo Çekilemeyen Binalarda Yangın Algılama: Siemens Cerberus PRO SWING
 Siemens SWING kablosuz yangın algılama sistemi mesh teknolojisi ve ASATechnology ile tarihi yapılar, müzeler ve faaliyetteki binalar için güvenilir koruma sağlar.
+Devamını Oku arrow_forward
+News
+EN 54-23 Görsel Uyarıcılar: C, W, O Kategorileri ve Sahadaki 4 Hata
+Yangın alarmı sadece duyulmalı değil, görülmeli. EN 54-23 görsel uyarıcı kapsama kategorilerini ve en sık yapılan tasarım hatalarını anlatıyoruz.
 Devamını Oku arrow_forward
 A member of
 VAG Group

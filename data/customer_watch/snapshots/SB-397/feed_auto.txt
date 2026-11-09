@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · feed_auto · http://www.netiks.rs/feed/rss · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-397 netiks.rs · feed_auto · http://www.netiks.rs/feed/rss · fetched 2026-11-09T09:57:20Z · HTTP 200
 Wed, 06 Nov 2019 22:00:00 +0000	Radno vreme za Dan primirja	http://www.netiks.rs/obavestenje
 Fri, 08 Jan 2021 11:36:45 +0000	MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad na 60GHz + 5GHz do 2.4km	http://www.netiks.rs/nray
 Fri, 23 Dec 2022 11:33:07 +0000	TP-Link Omada cloud biznis mrežna rešenja	http://www.netiks.rs/tp-link-promocija

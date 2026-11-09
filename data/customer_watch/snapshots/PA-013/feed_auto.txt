@@ -1,4 +1,4 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-08T09:13:02Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-09T09:57:20Z · HTTP 200
 06.11.2026 12:51:57	Simply45 - RJ45 - CAT 6 UTP Cap45	https://www.leteng.no/simply-45/s45-1601/simply45-rj45-cat-6-utp-cap45-pass-through-23awg-50-stk
 05.11.2026 16:20:38	EFB Hylle 1U Ventilert 350 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u350/efb-hylle-1u-ventilert-350-mm-19-max-10-kg-sort
 05.11.2026 16:17:51	EFB Hylle 1U Ventilert 250 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u250/efb-hylle-1u-ventilert-250-mm-19-max-10-kg-sort

@@ -1,4 +1,4 @@
-# SB-617 ipc2u.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCd4FRpT-XHOezdluQfuYkGQ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-617 ipc2u.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCd4FRpT-XHOezdluQfuYkGQ · fetched 2026-11-09T09:57:20Z · HTTP 200
 2026-06-03T13:54:24+00:00	NVIDIA Jetson vs. Traditional IPCs: Why Jetson Rules Edge AI	https://www.youtube.com/watch?v=F2iYUUZhCnU
 2026-05-06T14:23:15+00:00	NEXCOM nDAS 6000: Industrial IoT Edge Controller & Data Acquisition System	https://www.youtube.com/watch?v=EW-8uPnU_OE
 2026-05-06T14:06:49+00:00	ARBOR EdgeX-6000: High-Performance Edge AI Server with AMD EPYC & NVIDIA GPUs	https://www.youtube.com/watch?v=D4a4G_Th1a0

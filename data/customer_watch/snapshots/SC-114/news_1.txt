@@ -1,4 +1,4 @@
-# SC-114 Siklu Communication · news_1 · https://www.ceragon.com/blog · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-114 Siklu Communication · news_1 · https://www.ceragon.com/blog · fetched 2026-11-09T09:57:20Z · HTTP 200
 Backhaul Forum
 Markets
 Mobile Operators
@@ -259,11 +259,6 @@ How mmWave Backhaul Revolutionizes Smart City Connectivity
 July 14, 2026
 Digital Transformation
 Smart Cities/Municipalities
-From Data Flow to Oil Flow: Why Oil and Gas Communications Now Define Operational Resilience
-Oil & Gas
-From Data Flow to Oil Flow: Why Oil and Gas Communications Now Define Operational Resilience
-July 6, 2026
-Oil & Gas
 Connect
 MARKETS
 Mobile Operators

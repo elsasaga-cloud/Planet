@@ -1,2 +1,2 @@
-# SB-025 SIPe · feed_auto · https://sipe-corse.fr/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-025 SIPe · feed_auto · https://sipe-corse.fr/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Mon, 22 Jul 2024 13:56:13 +0000	Lancement de notre nouveau site internet	https://sipe-corse.fr/lancement-de-notre-nouveau-site-internet/

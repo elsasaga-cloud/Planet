@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Bulk Fiber Internet, TV and Phone for Florida Communities | Broadstar
 Skip to content
 Menu
@@ -189,6 +189,7 @@ Board Member
 Property Manager
 Owner or Developer
 Other
+else and we
 Number of Units *
 Property Location * --- Select Choice ---
 West Palm Beach area
@@ -203,7 +204,6 @@ Services of Interest Internet
 BroadStreamTV
 Phone
 Current Provider and Contract End Date (if known)
-should Provider End
 Anything else we should know?
 Request My Proposal
 Prefer to talk? Call (877) 207-4188 or email sales@broadstar.com

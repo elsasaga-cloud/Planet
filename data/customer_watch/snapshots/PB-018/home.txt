@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
 value && window.livewire.emit('category:selected', value))"
 x-on:force:open.window="forceOpen = $event.detail.open"
@@ -51,13 +51,13 @@ Tápok, világítás, kábelek
 Tűzjelző- és oltórendszerek
 {
 if (!value) {
-window.livewire.find('TXbEMYQjOx1OQxc5BZgB').call('resetSearch')
+window.livewire.find('B8dVwVsfQjo9QKQW5s2e').call('resetSearch')
 }
 $dispatch('force:open', { open });
 })"
 x-on:click.away="open = false"
 >
-= 3) { window.livewire.find('TXbEMYQjOx1OQxc5BZgB').call('search') }"
+= 3) { window.livewire.find('B8dVwVsfQjo9QKQW5s2e').call('search') }"
 />
 Keresés
 Termékek:
@@ -170,13 +170,13 @@ Regisztráció
 ×
 {
 if (!value) {
-window.livewire.find('hhr2v5stvpFU3KPTvYqD').call('resetSearch')
+window.livewire.find('aTXwxkWG4jacni1RbDNY').call('resetSearch')
 }
 $dispatch('force:open', { open });
 })"
 x-on:click.away="open = false"
 >
-= 3) { window.livewire.find('hhr2v5stvpFU3KPTvYqD').call('search') }"
+= 3) { window.livewire.find('aTXwxkWG4jacni1RbDNY').call('search') }"
 />
 Keresés
 Termékek:
@@ -262,12 +262,12 @@ KOSÁRBA TESZEM
 ×
 Tudomásul veszem, hogy ezen termékre leadott rendelés nem mondható le, illetve a termék nem visszáruzható külön engedély nélkül.
 KOSÁRBA TESZEM
-window.livewire.find('pnz2EMNShnUbqG0Jo8lx').set('show', value))"
+window.livewire.find('6aaXOGJE4BhN15FEOdNW').set('show', value))"
 x-cloak
 x-show.transition="open"
 wire:key="d751713988987e9331980363e24189ce"
-x-on:modal:close.window="window.livewire.find('pnz2EMNShnUbqG0Jo8lx').call('close')"
-x-on:modal:show.window="window.livewire.find('pnz2EMNShnUbqG0Jo8lx').call('open', $event.detail)"
+x-on:modal:close.window="window.livewire.find('6aaXOGJE4BhN15FEOdNW').call('close')"
+x-on:modal:show.window="window.livewire.find('6aaXOGJE4BhN15FEOdNW').call('open', $event.detail)"
 >
 ×
 {

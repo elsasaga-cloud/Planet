@@ -1,4 +1,4 @@
-# SA-050 impakt.com.pl · sitemap · https://impakt.com.pl/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SA-050 impakt.com.pl · sitemap · https://impakt.com.pl/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 	https://impakt.com.pl/
 	https://impakt.com.pl/o-firmie
 	https://impakt.com.pl/o-firmie/odpowiedzialny-biznes

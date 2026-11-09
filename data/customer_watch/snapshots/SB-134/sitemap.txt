@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/4mpx-wifi-kamera-s-mikrofon-i-cvetno-nostno-vizdane
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -11,7 +11,6 @@
 	https://www.kassabasystems.com/ip-kamera-trx-3035az
 	https://www.kassabasystems.com/Wi-Fi-camera-TRX-ROBOT20
 	https://www.kassabasystems.com/solarna-kamera-s-sim-karta-i-solaren-panel-UB-15B3M-4G
-	https://www.kassabasystems.com/dvr-trx-8004ahdh
 	https://www.kassabasystems.com/sr100ahd2s
 	https://www.kassabasystems.com/ip-ptz-kamera-s-20x-optichen-zum-mikrofon-poe-i-slot-za-sd-karta-hi-easy-hi-ptz20x8m-a-sd-poe
 	https://www.kassabasystems.com/trx-dbs20xm-full-hd-kupolna-ip-kamera-1080p-h-265
@@ -118,6 +117,7 @@
 	https://www.kassabasystems.com/komplekt-ot-8-ip-kameri-5mpx-s-10-kanalen-nvr-s-mikrofon-i-cvetno-nostno-vijdane-8IP5B40-POE
 	https://www.kassabasystems.com/ts-60wifi-dm-dvubandova-wifi-kupolna-kamera-vunshen-montazh-mikrofon-slot-sd
 	https://www.kassabasystems.com/ir-kamera-lia60ehtc200f
+	https://www.kassabasystems.com/dvr-trx-8004ahdh
 	https://www.kassabasystems.com/8irvf-sistema-za-videonablyudenie-s-8-vario-kameri
 	https://www.kassabasystems.com/trx-robot25-5mpx-wifi-kamera-s-5mpx-ultra-hd-rezolyutsiya-vgradeni-mikrofon-i-govoritel-slot-za-sd-karta-do-128gb
 	https://www.kassabasystems.com/dvoina-aov-solarna-4g-kamera-UB-38AOV10W-4G

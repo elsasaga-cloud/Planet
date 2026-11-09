@@ -1,4 +1,4 @@
-# SC-1793 axisindia.in · sitemap · https://axisindia.in/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-1793 axisindia.in · sitemap · https://axisindia.in/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 2026-09-21	http://axisindia.in/
 2025-12-31	http://axisindia.in/about-us/
 2026-05-27	http://axisindia.in/about-us/brand-story/

@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,42 +170,44 @@ Carrito
 Productos
 Noticias
 Ver todas
-Gregorio · 14h · Audio e Intercom
+Nicolas · 13h · Videovigilancia
+El audio también es evidencia: dos micrófonos en una bala de 4 MP
+La DS-2CD2043G2-LI2U de Hikvision integra dos micrófonos para captar el sonido del sitio con más cobertura y claridad, no solo la imagen. Suma Dual Light de 40 m en IR y 40 m en luz blanca, AcuSense para separar personas de vehículos, cuerpo metálico IP67, WDR 120 dB y PoE. Con un NVR /VPRO habilita AcuSeek.
+Conoce la bala con doble micrófono
+Daniel · 18h · Alarmas e Intrusión
+La barda que ya tienes puede ser el sensor perimetral
+El MICALERT MIC2Z1000V2 de RBTEC convierte paredes, rejas rígidas y barandales en 610 metros de detección por vibración, divididos en 2 zonas independientes de 305 m. Incluye tarjeta LPU400 y calibración por software: distingue un intento de escalamiento del viento o del tráfico, sin falsas alarmas.
+Convierte tu barda en un sensor perimetral
+Rafael · 19h · Telefonía IP
+2 líneas SIP y 4 cuentas en el teléfono de la recepción
+El GRP2602P suma PoE, tecnología Noise Shield para reducir el ruido de fondo, conferencia de audio para 5 participantes y soporte EHS para auriculares profesionales. Se aprovisiona zero-touch y se gestiona desde GDMS.
+Conoce el GRP2602P de Grandstream
+Gregorio · 1d · Audio e Intercom
 Tu voz entra limpia. El ruido de la oficina, no.
 La Yealink UH42 Dual lleva cancelación de ruido con IA en el micrófono y altavoz de 35 mm con EQ dinámico: modo llamada para hablar claro, modo música para el resto del día. Doble almohadilla, indicador de ocupado que avisa que estás en llamada, y USB-C con adaptador USB-A: plug-and-play en Windows y Mac, certificada nativa para Microsoft Teams.
 Escucha la UH42 Dual de Yealink
-Nicolas · 14h · Videovigilancia
+Nicolas · 1d · Videovigilancia
 16 cámaras IP alimentadas por un solo grabador
 El NVR DS-7616NI-Q2/16P(E) de Hikvision integra 16 puertos PoE+ con 150 W: cada cámara recibe video y energía por el mismo cable, sin fuentes adicionales en el sitio. Graba hasta 8 MP (4K) con H.265+ y salida HDMI 4K, en 2 bahías para hasta 16 TB.
 Suma AcuSense para distinguir personas y vehículos, y modo PoE extendido a 300 metros.
 Conoce el NVR de 16 canales PoE+
-Gregorio · 15h · Audio e Intercom
+Gregorio · 1d · Audio e Intercom
 La sala de juntas dejó de ser un rompecabezas de accesorios
 La Yealink MeetingBoard 65 Pro integra en un solo marco lo que otras pantallas te venden por separado: triple cámara de 50 MP, 16 micrófonos MEMS con 12 m de alcance y pizarra de 20 puntos táctiles a 21 ms. Pantalla 4K de 65" antirreflejo, Android 13, WiFi 6 y certificación nativa Teams y Zoom.
 Conoce la MeetingBoard 65 Pro de Yealink
-Adrián · 17h · Redes
+Adrián · 1d · Redes
 El cliente WiFi más potente que Ubiquiti ha creado
 El UniFi AirWire opera 5 y 6 GHz al mismo tiempo con True MLO (STR), sumando espectro para throughput multi-gigabit real. Su super-antena alcanza hasta 3× el rango útil de un cliente estándar y su radio de escaneo dedicada revela la interferencia en tiempo real. USB-C plug-and-play con UniFi Auto-Link.
 Descubre el AirWire de Ubiquiti
-Roberto · 18h · Redes
+Roberto · 1d · Redes
 Cuatro cámaras PoE y un solo cable hasta el poste más lejano
 El switch DS-3E1105P-EI/M de Hikvision alimenta 4 cámaras por PoE+ (30 W por puerto, 45 W totales) y su modo extendido lleva datos y energía hasta 300 metros, sin repetidores ni fuentes en el sitio.
 Se monitorea y reinicia desde Hik-Partner Pro, con buffer optimizado para video. Para casetas, estacionamientos y tramos largos donde el switch de siempre no alcanza.
 Lleva PoE+ hasta 300 metros
-Rafael · 18h · Telefonía IP
+Rafael · 1d · Telefonía IP
 El teléfono IP de entrada que se despliega solo
 El GRP2601P ofrece 2 líneas SIP, PoE, codec Opus y aprovisionamiento zero-touch para instalar flotas completas sin configurar equipo por equipo. Incluye Noise Shield, conferencia de 5 participantes y gestión en GDMS.
 Conoce el GRP2601P de Grandstream
-Victor · 1d · Alarmas e Intrusión
+Victor · 2d · Alarmas e Intrusión
 El control de tu alarma, sin cuotas ni licencias
-El módulo de comunicación DX FULL WIFI conecta el panel de alarma a internet por WiFi y envía cada evento al instante por notificación push a la app Full Control. No requiere licencia ni pago mensual: solo el equipo.
-Permite activar y desactivar el panel a distancia y controlar 2 salidas domóticas para luces o portones. Programación web, doble banda 2.4 GHz y compatibilidad con cualquier central que hable Contact ID.
-Conoce el DX FULL WIFI
-Gregorio · 1d · Audio e Intercom
-El ruido de la oficina se queda afuera: llegaron las Yealink UH34
-La familia UH34 viene en tres versiones: Lite Dual Teams con ANC híbrido e IA, Dual Teams y Dual UC, todas con audio HD, USB plug-and-play y diseño ergonómico para jornadas completas. La Lite suma altavoz de 35 mm, almohadillas viscoelásticas y certificación Microsoft Teams Premium; la UC agrega brazo flexible de 320° y protección auditiva Active Protection. Compatibles con Windows, Mac y Linux.
-Conoce la familia UH34
-Luis · 1d · Control de Acceso
-El repuesto que devuelve la barrera a operación en minutos
-El cuadro de mando 366002400 es la tarjeta de control de las barreras Hikvision serie DS-TMG300: se configura con el botón frontal, sin software, y admite sensores de lazo magnético y entrada de sensor de seguridad.
-Suma salida de alarma para eventos y formato compacto para reemplazo dire
+El módulo de comunicación DX FULL WIFI conecta el panel de alarma a internet por WiFi y envía cada evento al instante por notificación pu

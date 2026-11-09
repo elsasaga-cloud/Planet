@@ -1,4 +1,4 @@
-# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Danbit - Leverandør af IT-produkter til professionelle
 Velkommen til DANBIT - Dansk Binær Teknik A/S
 B2B – Kun handel med virksomheder
@@ -40,22 +40,22 @@ Vi tilbyder blandt andet:
 - Projektstøtte og projektarbejde
 - Faglig support gennem hele projektforløbet
 Kontakt Os
-NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
-0,00 kr
-15U Støjsvag 19" rackskab, 650 x 650 mm udv. mål, lydsvag Fan + Digital temp. regulering, sort
-14.924,00 kr
-32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, 1500 nits i rustfrit stål
-27.241,00 kr
-2 x 1-Way Digital I/O over Single Mode eller Multi Mode Fiberkabel (simplex - 1 fiber) (Dry contact)
-2.240,00 kr
-32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
-30.578,00 kr
-Wi-Fi-kamera 13 MP (4K) farve med AR1335-sensor, PoE, HDR og lavlys
-0,00 kr
-26" ECDIS DNVGL-CG-0339, IACS-E10 Marine godkendt Panel-Monitor, 24VDC, PCAP Touch, format
-28.485,00 kr
 13MP 4K Industrikamera Dual Band Wifi, POE, Fast fokus med M12 linsefatning
 0,00 kr
+Wi-Fi-kamera 13 MP (4K) farve med AR1335-sensor, PoE, HDR og lavlys
+0,00 kr
+27" touchskærm med høj lysstyrke, 1000 nits, IP65, HDMI/VGA/USB-C
+7.245,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, 1500 nits i rustfrit stål
+27.241,00 kr
+IP68 anti-bakteriel silikonetastatur med Track Point - USB - LED baggrundslys, Nordisk tegnsæt
+836,00 kr
+NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
+0,00 kr
+Wi-Fi 7 5100MBPS Dual Band Access Point, udendørs, Eksterne antenner, PoE
+2.300,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
+30.578,00 kr
 Erfaring & ekspertise
 50+ års erfaring med tekniske løsninger og rådgivning.
 Kvalitetsprodukter

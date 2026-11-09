@@ -1,4 +1,4 @@
-# SA-016 БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备） · brand_page · https://bitbuk.ru/brand/bitbuk/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SA-016 БитБук / BitBook（下塔吉尔，自有品牌 PRIORAT 交换机 + 条码设备） · brand_page · https://bitbuk.ru/brand/bitbuk/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 БитБук
 Нижний Тагил, ул. Юности, 47А, стр. 1 Пн—Пт —Вход / Регистрация
 Каталог
@@ -311,33 +311,33 @@ Macroscop
 Сравнение
 Перейти к сравнению
 Лидеры продаж
-Сканер штриховых кодов БитБук SC-62AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
-6 100 ₽
-Сетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO
-12 900 ₽
-IP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO
-21 120 ₽
 IP камера уличная Priorat PRT-BM30-F2.8 BASE
 8 261 ₽
-Коммутатор PoE PRIORAT PRT-SG-1226P
-32 120 ₽
 Коммутатор PoE PRIORAT PRT-SF-1226P
 24 900 ₽
-Сканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}
-10 200 ₽
+Коммутатор PoE PRIORAT PRT-SG-1226P
+32 120 ₽
+Сетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO
+12 900 ₽
 Сканер штриховых кодов БитБук SC-60AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
 5 900 ₽
+IP камера купольная антивандальная Priorat PRT-DM80-F2.8-CA PRO
+21 120 ₽
+Сканер штриховых кодов БитБук SC-72ABU {2D, ручной, беспроводной, USB (HID+VCOM)}
+10 200 ₽
+Сканер штриховых кодов БитБук SC-62AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
+6 100 ₽
 Рекомендуем
+Сканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
+3 200 ₽
+Коммутатор управляемый PRIORAT PRT-SG-1424M
+14 300 ₽
 Коммутатор PoE промышленный PRIORAT PRT-SG-1208PI
 14 600 ₽
 Сетевой видеорегистратор Priorat PRT-NVR-16N2-12M-IQ PRO
 12 900 ₽
 Коммутатор PoE уличный PRIORAT PRT-SF-1110PO IP65
 9 400 ₽
-Сканер штриховых кодов Priorat XB-33AWU {2D, ручной, проводной, USB-HID+USB-VCOM}
-3 200 ₽
-Коммутатор управляемый PRIORAT PRT-SG-1424M
-14 300 ₽
 Бренды
 PRIORAT
 Xprinter

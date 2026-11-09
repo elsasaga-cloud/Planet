@@ -1,4 +1,4 @@
-# SC-2516 novuscctv.com · news_2 · https://novuscctv.com/en/press · fetched 2026-11-07T08:57:10Z · HTTP 200
+# SC-2516 novuscctv.com · news_2 · https://novuscctv.com/en/press · fetched 2026-11-09T09:57:20Z · HTTP 200
 | NOVUS Professional solution for your security systems
 Skip to main content
 Home
@@ -17,117 +17,116 @@ Contact Export Department
 Technical Department
 Cameras
 We recommend
-8 MPX Speed Dome IP Camera with intelligent object tracking
-NVIP-8SD-6540/25/F-II
+4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors
+NVIP-4VE-6602M/WL/F
+4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
+NVIP-4H-6602M/WL/F
+8 MPX Vandal Proof IP Camera with white light and IR illuminator
+NVIP-8VE-6101/WL/LITE
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5VE-6711/TA/3-A
 New
 5 MPX Dual IP Camera (Thermal/Visual)
 NVIP-5H-6711/TA/3-A
-New
-4 MPX IP LPR bullet camera with a motor-zoom lens
-NVIP-4H-6732M/LPR-A
+8 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-8H-6101/WL/LITE
+4 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-4H-6103/WL/LITE
 8 MPX IP Motor-zoom Camera with video content analysis based on Deep Learning
 NVIP-8H-6522M/F-II/7043
-4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors
-NVIP-4VE-6602M/WL/F
-New
-5 MPX Dual IP Camera (Thermal/Visual)
-NVIP-5VE-6711/TA/7-A
-New
-Dual PTZ IP Camera (Thermal/Visual)
-NVIP-5DPT-8703M/30/T/50
 New
 2 MPX Bullet IP Camera with white light and IR illuminator
 NVIP-2H-6103/WL/LITE
-4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
-NVIP-4H-6602M/WL/F
+4 MPX Special Purpose IP Camera
+NVIP-4DQ-6701/PC
 8MPX panoramic IP camera with Deep Learning-based image analysis and active deterrence
 NVIP-8PVE-4501/FWLAD
-8 MPX Vandal Proof IP Camera with white light and IR illuminator
-NVIP-8VE-6101/WL/LITE
-8 MPX Panoramic IP Camera with video content analysis and active deterrence
-NVIP-8PVE-6501/FWLAD
+New
+4 MPX IP LPR bullet camera with a motor-zoom lens
+NVIP-4H-6732M/LPR-A
 Lenses
 We recommend
 Recorders
 We recommend
 NOVUS MANAGEMENT SYSTEM VSS Client Station
-NVSO VSS CLIENT 7-T-IV-2L
+NMS VSS CLIENT 5-R-IV
 NOVUS MANAGEMENT SYSTEM VSS IP Recorder
 NMS VSS NVR X-2U-III-312TB
-64-channel IP Recorder
-NVR-6364-H8/FR-II
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NMS VSS CLIENT 7-R-IV
+32-channel IP Recorder
+NVR-6432-H2/F-II
 NOVUS MANAGEMENT SYSTEM VSS IP Recorder
 NMS VSS NVR 7-4U-IV-R
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NVSO VSS CLIENT 7-R-IV-2L
 128-channel IP Recorder
 NVR-64128-H16/FR
+8-channel IP Recorder
+NVR-6208P8-H1-II
+Multistandard AHD Recorder
+NHDR-6004A-H1-II
 16-channel IP Recorder
 NVR-6216-H1/LITE
 32-channel IP Recorder
-NVR-6432-H2/F-II
-Multistandard AHD Recorder
-NHDR-6004A-H1-II
+NVR-6332A-H4-II
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NVSO VSS CLIENT 7-T-IV-2L
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NVSO VSS CLIENT 7-R-IV-2L
 NOVUS MANAGEMENT SYSTEM VSS IP Recorder
 NMS VSS NVR X-2U-III-288TB
-32-channel IP Recorder
-NVR-6332A-H4-II
 Signal Transmission
 We recommend
-Passive video transmitter/receiver
-NVPT-414V-II
+PoE Extender
+NV-101EP
+SFP Module
+NV-03SFP/M
+4-port PoE+ Switch
+NVS-3304SP
+PoE Injector
+NV-8000PS/HP
 8-Port Gigabit Ethernet PoE+ Switch
 NVS-G3408SP
+Wall/ceiling mount bracket with built-in PoE switch
+NVS-4020JBD
+4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
+NVS-G3404SP-EH
+16-Port Gigabit Ethernet PoE+ Switch
+NVS-G3416SP
 New
 24-Port Gigabit Ethernet Managed PoE+ Switch
 NVS-G5424SP/400
-16-Port Gigabit Ethernet PoE+ Switch
-NVS-G3416SP
-Wall/ceiling mount bracket with built-in PoE switch
-NVS-4020JBD
-16-Port Ethernet PoE+ Switch
-NVS-3416SP
-SFP-Ethernet Module
-NV-SFP-GE
-PoE Extender
-NV-101EP
 24-Port Ethernet PoE+ Switch
 NVS-3424SP
-4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
-NVS-G3404SP-EH
-PoE Injector
-NV-8000PS/HP
-SFP Module
-NV-02SFP/S
+16-port PoE+ Managed Switch
+NVS-5116SP
+SFP-Ethernet Module
+NV-SFP-GE
 Video intercoms
 Other
 We recommend
 Conversion adapter for wall mount, indoor/outdoor
+NVB-6082CAP
+Conversion adapter for wall mount, indoor/outdoor
 NVB-6081CAP
-Rack mount bracket for 4000 Series NVRs
-NVR-4000/RACK
-Pole mount adapter
-NVB-SD8500PA
-43'' 4K LCD monitor designed for continuous operation
-NVM-6043LCD-4K
-Wall mount bracket indoor/outdoor
-NVB-8501WB
-Wall/ceiling mount bracket indoor/outdoor
-NVB-8560JB
+30W IP horn speaker
+NV-IPS8030/M
 Wall/ceiling mount bracket indoor
 NVB-6050JB-II
-Corner mount adapter
-NVB-SD8500CA
 Input/Output alarm module
 NV-6000AL16/6
-Wall mount bracket indoor/outdoor
-NVB-SD6500JB
+Wall/ceiling mount bracket indoor
+NVB-6050JB-II/7043
 Wall mount bracket, indoor/outdoor
 NVB-8501CAP
+Pole mount adapter
+NVB-SD6500PA
+Wall mount bracket indoor/outdoor
+NVB-SD8500JB
+Corner mount adapter
+NVB-SD6500CA
 Conversion adapter for wall mount, indoor/outdoor
 NVB-6083CAP
+Wall/ceiling mount bracket indoor/outdoor
+NVB-8560JB
 NMS VSS
 NMS AC
 ANPR

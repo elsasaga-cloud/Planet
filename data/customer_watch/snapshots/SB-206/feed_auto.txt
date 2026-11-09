@@ -1,4 +1,4 @@
-# SB-206 brainboxes.com · feed_auto · https://www.brainboxes.com/feed · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-206 brainboxes.com · feed_auto · https://www.brainboxes.com/feed · fetched 2026-11-09T09:57:20Z · HTTP 200
 Tue, 03 Nov 2026 16:35:00 +0000	Visit Brainboxes at AEMS!	https://www.brainboxes.com/events/brainboxes-at-aems
 Mon, 28 Sep 2026 12:56:49 +0000	Brainboxes are Exhibiting at Machine Building Live!	https://www.brainboxes.com/events/machine-building-live-2026
 Mon, 14 Sep 2026 13:28:41 +0000	Join Brainboxes at SEMICON West!	https://www.brainboxes.com/events/brainboxes-at-semicon-west

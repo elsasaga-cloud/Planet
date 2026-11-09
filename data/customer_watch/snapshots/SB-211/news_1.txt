@@ -1,4 +1,4 @@
-# SB-211 een.com · news_1 · https://www.een.com/blog/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-211 een.com · news_1 · https://www.een.com/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Video Surveillance & AI Analytics Blog - Eagle Eye Networks
 Skip to content
 Search for:
@@ -14,7 +14,7 @@ Italiano
 Polski
 Español
 Português
-1 515 212 7882
+1 602 666 9943
 Products
 AI Video Surveillance
 Eagle Eye Cloud VMS
@@ -97,13 +97,13 @@ See our vision for the future
 Eagle Eye Networks Blog
 Security
 Trends 2026: Video Surveillance is no longer just recording
-February 3, 2026 Timothy Lord
+February 3, 2026 Eagle Eye Networks
 Company
 Eagle Eye Networks and Brivo: Integration at every level
 January 8, 2026 Eagle Eye Networks
 Product
 Why AI Gun Detection is Essential for Proactive Crisis Prevention
-December 30, 2025 Jozh Martinez
+December 30, 2025 Eagle Eye Networks
 Latest Posts
 Category
 Technology
@@ -115,7 +115,7 @@ Security
 Company
 Eagle Eye Updates: The architecture of proactive safety
 Security is no longer focused on passively recording events; it’s about proactive intervention to mitigate harm and save lives. This fundamental shift requires moving beyond basic motion detection to systems…
-December 23, 2025 Rachel Abrams
+December 23, 2025 Eagle Eye Networks
 Technology
 Comparing Eagle Eye Cabinet Systems: Choosing the right fit for your site
 Selecting the right setup for your security cameras can be a huge headache. Luckily, Eagle Eye Networks makes it super simple with their range of cabinet systems! Whether you need…
@@ -123,15 +123,15 @@ December 18, 2025 Stacy Crain
 Security
 Can video surveillance brighten the holiday season for your business?
 You've probably been in a situation like this one: A crowded store, where shelves are in disarray, crowds are jostling, and it seems like no one knows where to find…
-December 10, 2025 Timothy Lord
+December 10, 2025 Eagle Eye Networks
 Security
 Breaking the chains: How Templeton USD escaped the “Hostage-as-a-Service” security trap
 Templeton initially implemented a security system to monitor their four campuses, but over time, reliability and performance degraded severely. The system was "platform-locked," meaning the district felt held captive by…
-December 2, 2025 Rachel Abrams
+December 2, 2025 Eagle Eye Networks
 Security
 Louvre lesson: Security is a complex, not only a process
 Last month's news footage could have come from an over-the-top movie, with a stolen cherry picker brazenly on the street outside one of the most important museums in the world,…
-November 28, 2025 Timothy Lord
+November 28, 2025 Eagle Eye Networks
 Security
 The camera never lies — until the supply chain does
 Intelligent, connected cameras have become essential infrastructure across a wide range of businesses, from retailers and landlords to manufacturers and energy producers, as well as private transportation and public transit…
@@ -143,36 +143,36 @@ November 22, 2025 Eagle Eye Networks
 Security
 Surveillance 101: Forensic vs. proactive video security
 For decades, the primary goal of a video surveillance system was clear: record, document, and review. If an incident occurred — a break-in, a liability claim, or an accident —…
-November 18, 2025 Timothy Lord
+November 18, 2025 Eagle Eye Networks
 Company
 Upgrading school security with the Drako Smart Video Security Grant
 Parents, teachers, and administrators know that schools are in a quandary, amid increasingly visible security threats, including serious violence. With limited budgets, decisions have to be made based on best…
-November 13, 2025 Timothy Lord
+November 13, 2025 Eagle Eye Networks
 Technology
 xbv2
 Video Surveillance 101: Field of view, distortion, and dewarping
 When you select a camera for video surveillance, an important aspect that you're actually choosing is the camera's lens. Just like typical cameras you use to take snapshots, surveillance cameras…
-November 11, 2025 Timothy Lord
+November 11, 2025 Eagle Eye Networks
 Company
 Congratulations to the 2025 Cloud Summit award winners
 We've just concluded the ninth Cloud Security Summit — which recognizes and amplifies that both Eagle Eye Networks and Brivo are as much about a robust community as they are…
-November 5, 2025 Timothy Lord
+November 5, 2025 Eagle Eye Networks
 Company
 Looking forward to this year’s Cloud Security Summit
 For video surveillance and access control technology specialists, whether they're resellers, integrators, or software developers, the annual Cloud Security Summit is one of the best, most focused ways to see…
-October 27, 2025 Timothy Lord
+October 27, 2025 Eagle Eye Networks
 Product
 Eagle Eye 911 Camera Sharing: Protecting communities nationwide
 Emergencies are rarely clear-cut and neat: It takes time to figure out exactly what's going on, how many people are at risk, and what hazards may be present for responders. …
-October 23, 2025 Rich Pizzo
+October 23, 2025 Eagle Eye Networks
 Product
 AI-informed human response: Meet Eagle Eye Remote Video Monitoring
 We're thrilled to say that Eagle Eye Remote Video Monitoring is officially launched, bringing an essential human layer to AI-powered surveillance for organizations everywhere, whether they're looking for 24-hour monitoring,…
-October 21, 2025 Timothy Lord
+October 21, 2025 Eagle Eye Networks
 Product
 Introducing Eagle Eye’s Pro Series cameras: Simplicity and strength
 Security doesn't have to be complicated. That's the thinking behind the new Eagle Eye Pro Series cameras — a streamlined lineup that gives you professional-grade surveillance without the confusion of…
-October 17, 2025 Matt Webster
+October 17, 2025 Eagle Eye Networks
 1
 2
 3

@@ -1,8 +1,8 @@
-# SB-283 oncuguvenlik.com.tr · home · https://www.oncuguvenlik.com.tr/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-283 oncuguvenlik.com.tr · home · https://www.oncuguvenlik.com.tr/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Öncü Güvenlik Sistemleri A.Ş.
-$(USD): 50.1575
+$(USD): 50.1853
 |
-€(EUR): 55.9367
+€(EUR): 56.2521
 Ara
 KURUMSAL
 ÜRÜNLERİMİZ
@@ -80,7 +80,7 @@ ETKİNLİKLERİMİZ
 TR
 Türkçe (TR)
 English (EN)
-$(USD): 50.1575 | €: 55.9367
+$(USD): 50.1853 | €: 56.2521
 Bayi Girişi
 Öncü Güvenlik Sistemleri A.Ş.
 Hızlı Teslimat

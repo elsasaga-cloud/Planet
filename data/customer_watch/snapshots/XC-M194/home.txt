@@ -1,4 +1,4 @@
-# XC-M194 Tektraco Ltd. · home · https://tektraco.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# XC-M194 Tektraco Ltd. · home · https://tektraco.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Tektraco
 Home
 About
@@ -25,30 +25,30 @@ Medical Engineering
 Specialists in Medical Gas Systems, Nurse Call Systems and Patient Services. Designing, Supplying, Installing and Maintaining equipment for your Hospital and Healthcare needs.
 Read More
 Projects
-Medical
-Sir Anthony Mamo Oncology Centre
-Installation a new Medical Gas Pipeline for the MRI LINAC installed at the Sir Anthony Mamo Oncology Centre.
 Laboratory
 Enemed
 Advanced, fully automated and precise vapor pressure measurements for Enemed with the HVP 972 by Herzog, PAC.
 Laboratory
 Siegfried
 Tektraco partnered with Siegfried to supply state-of-the-art Climate Test Chambers designed specifically for stability testing of its pharmaceutical products.
+Telecoms
+MCA (Malta Communications Authority)
+Installation of the R&S TSMA6 ensures precise and efficient mobile network scanning, offering broad frequency coverage and integrated location tracking.
+Telecoms
+Enemalta
+Installation of a high-speed, secure fibre optic cable between Marsa South and Kirkop is underway to enhance communication and support high voltage power line protection across Enemalta plc's 27 Distribution Centres.
+Medical
+St. James Capua Hospital
+First installation of the Tacera Nurse Call System, enhancing patient care and communication, highlighting the hospital's commitment to advanced technology.
 Medical
 Pollen Theory Malta
 Designing and installing Malta's first cannabis industry CO2 system set a new standard for safety and efficiency, showcasing a commitment to excellence and innovation.
 Telecoms
-Enemalta
-Installation of a high-speed, secure fibre optic cable between Marsa South and Kirkop is underway to enhance communication and support high voltage power line protection across Enemalta plc's 27 Distribution Centres.
-Telecoms
-MCA (Malta Communications Authority)
-Installation of the R&S TSMA6 ensures precise and efficient mobile network scanning, offering broad frequency coverage and integrated location tracking.
-Medical
-St. James Capua Hospital
-First installation of the Tacera Nurse Call System, enhancing patient care and communication, highlighting the hospital's commitment to advanced technology.
-Telecoms
 Marriott Hotel & Spa
 Delivery of fibre optic network solution based on passive optical technology with 70% less cabling, easy maintenance and cost reduction.
+Medical
+Sir Anthony Mamo Oncology Centre
+Installation a new Medical Gas Pipeline for the MRI LINAC installed at the Sir Anthony Mamo Oncology Centre.
 View All
 Malta Head Office
 176 Birkirkara Road,

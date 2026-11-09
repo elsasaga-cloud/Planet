@@ -1,5 +1,5 @@
-# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
-2026-11-08	https://www.expressalarm.cz/
+# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+2026-11-09	https://www.expressalarm.cz/
 2026-03-03	https://www.expressalarm.cz/dokument/12-internal34/
 2025-05-23	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-internal/
 2025-05-09	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-prihlaska/

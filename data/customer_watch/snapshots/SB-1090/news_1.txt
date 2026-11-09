@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-Company
+Facebook
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · sitemap · https://www.syscom.mx/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-1117 syscom.mx · sitemap · https://www.syscom.mx/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 2026-09-23T00:00:00.000Z	https://www.syscom.mx/syscomexpo2027
 	https://www.syscom.mx/syscomexpo2027/mapa
 2026-11-08T00:30:36.382Z	https://www.syscom.mx

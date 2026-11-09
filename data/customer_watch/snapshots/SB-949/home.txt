@@ -1,4 +1,4 @@
-# SB-949 ksm.com.au · home · https://www.ksm.com.au/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-949 ksm.com.au · home · https://www.ksm.com.au/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 KSM Solutions
 Products
 About Us
@@ -31,6 +31,7 @@ Multimode OM3
 Multimode OM4
 Single Mode
 Single Mode Angled
+Managed Industrial Switches L2, L2+ & L3
 Fibre Ethernet Media Converter
 Multimode
 Single Mode
@@ -43,7 +44,6 @@ Bidirection Single Mode to Multimode Converter
 Single Mode to Multimode Converter+R39
 Industrial Fibre Media Converter 100Mbps/1Gbps
 Industrial POE Fibre Media Converter 100Mbps/1Gbps
-Managed Industrial Switches L2, L2+ & L3
 MTP FIBRE PRODUCT SOULTIONS
 nan
 Welcome to KSM Solutions e-store!

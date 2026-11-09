@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · feed_auto · https://www.xlrsecurity.com/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-409 xlrsecurity.com · feed_auto · https://www.xlrsecurity.com/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Mon, 04 May 2026 17:49:36 +0000	Introducing Lysora – Powerful & Cost-effective Networking Equipment	https://www.xlrsecurity.com/blog/introducing-lysora-powerful-cost-effective-networking-equipment/
 Fri, 08 Aug 2025 16:41:30 +0000	How to Capture License Plates with Uniview’s 8MP OwlView Plus	https://www.xlrsecurity.com/blog/how-to-capture-license-plates-with-univiews-8mp-owlview-plus/
 Wed, 07 May 2025 13:06:35 +0000	Uniview’s OwlView Plus Delivers Incredible Image Quality (with image comparisons)	https://www.xlrsecurity.com/blog/univiews-owlview-plus-delivers-incredible-image-quality-with-image-comparisons/

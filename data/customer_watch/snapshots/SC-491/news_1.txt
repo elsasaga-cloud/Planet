@@ -1,4 +1,4 @@
-# SC-491 hisharp.com · news_1 · https://www.hisharp.com/en/news.php · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-491 hisharp.com · news_1 · https://www.hisharp.com/en/news.php · fetched 2026-11-09T09:57:20Z · HTTP 200
 News | HI SHARP INTELLIGENCE
 News News
 主選單
@@ -42,6 +42,11 @@ Press Center
 Company Activity
 Product Policy
 All
+09 NOV
+2026
+How to Choose MIT Security Cameras? From Taiwan Manufacturing to Site Planning for Reliable Surveillance
+When choosing a security camera, most people first consider resolution, night-vision range, viewing angle, or price. However, the long-term reliability of a surveillance system depends on more than specifications. Manufacturing, quality control, product inspection, and the actual installation environment all matter.
+View More
 03 NOV
 2026
 HI SHARP INTELLIGENCE TECHNOLOGY Successfully Passes ISO 14001 Recertification and Newly Earns ISO 45001 International Certification.
@@ -64,12 +69,6 @@ View More
 Industry Coverage
 AI-ISP Technology Revolutionizes Imaging, Driving the Next Evolution of Visual Intelligence
 Traditional ISP (Image Signal Processing) primarily converts raw image data captured by image sensors into human-perceivable images through processes such as noise reduction, white balance adjustment, exposure control, and color correction.
-View More
-10 JUN
-2026
-Industry Coverage
-NDAA Compliance: The International Passport to the Security Surveillance Industry
-Originating from Section 889 of the U.S. National Defense Authorization Act, NDAA requirements have become a common language across global supply chains. Products that fail to meet NDAA standards may be excluded from government projects, multinational corporations, and critical infrastructure deployments throughout North America, Europe, and other regions.
 View More
 Prev 01 02 03 04 05 Next
 SUPPORT

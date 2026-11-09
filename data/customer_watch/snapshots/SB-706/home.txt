@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -41,7 +41,6 @@ IKS-G6824A Series 6
 MDS-G4000-L3 Series 19
 MRX-G4064 Series 6
 MRX-Q4064 Series 6
-PM-7500 Module Series 8
 PT-G7828 Series 7
 PWR (Power Modules) Series 0
 EDS-828 Series 3
@@ -72,8 +71,8 @@ IKS-6700A Series 0
 IKS-G6000A Series 12
 IM Module Series 0
 MDS-G4000 Series 0
-MRX-G4000 Series 0
-MRX-Q4000 Series 0
+MRX-G4064 Series 0
+MRX-Q4064 Series 0
 PM-7200 Module Series 26
 PT-7500 Series 0
 PT-7528 Series 39
@@ -112,11 +111,11 @@ Rail Wireless Access Controller 4
 WAC-1001 Series 2
 WAC-2004A Series 1
 WAC-M300 Series 0
+Industrial Secure Routers 52
+Industrial Cellular Routers 12
 Industrial Cellular Gateways 28
 CCG-1500 Series 4
 OnCell 3120-LTE-1 Series 6
-Industrial Secure Routers 52
-Industrial Cellular Routers 12
 Network Management Software 0
 MXstudio Series 0
 MXview One Central Manager Series 3
@@ -127,7 +126,6 @@ MXview Series 7
 Secure Remote Access 11
 Moxa Remote Connect Suite 38
 Network Security Appliance 56
-Industrial Cellular Modems 3
 Industrial Edge Connectivity 0
 Industrial Converters 529
 Industrial USB Converters 45
@@ -536,4 +534,6 @@ DIN-rail Power Supplies for 1-phase Systems 22
 DIN-Rail Power Supplies for 3-phase Systems 9
 DeviceNet Power Supply 2
 C-Series 0
-DC/DC Converter 1
+DC/DC Converter 12
+Power Supply with Integrated Decoupling Function 9
+

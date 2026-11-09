@@ -1,4 +1,4 @@
-# SB-1061 obserwuj.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCKW73FaouqyaHcrKqwSY8Bg · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1061 obserwuj.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCKW73FaouqyaHcrKqwSY8Bg · fetched 2026-11-09T09:57:20Z · HTTP 200
 2023-08-21T08:42:27+00:00	Funkcja EPTZ w kamerze panoramicznej IPC-HFW3441T-AS-P-0210B	https://www.youtube.com/watch?v=Sstrdii6BBQ
 2020-05-06T13:53:45+00:00	Kontrola ruchu i ilości osób w obiekcie - przykładowe działanie systemu	https://www.youtube.com/watch?v=ndn67vT3m-4
 2018-05-22T07:12:03+00:00	Program VMS Lite - krok po kroku	https://www.youtube.com/watch?v=T7tpsMBRouo

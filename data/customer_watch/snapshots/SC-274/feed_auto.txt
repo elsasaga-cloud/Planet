@@ -1,5 +1,8 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-09T09:57:20Z · HTTP 200
+09.11.2026 09:51:13	ECS Fiberpatch OM1 62,5/125 LC-ST 6,0m	https://www.alcadon.no/ecs/lc-st-6/ecs-fiberpatch-om1-62-5-125-lc-st-6-0m-halogenfri-duplex
 06.11.2026 10:53:53	Strømkabel C20 – C21, Sort, 3m	https://www.alcadon.no/alcadon/p-c20-c21-3-hffr/str%c3%b8mkabel-c20--c21-sort-3m-lszh-3x1-5mm2
+30.10.2026 11:04:08	Endefeste Spiral Ø 7,0-8,0 mm	https://www.alcadon.no/malico/gsde0700/endefeste-spiral-%c3%b8-7-0-8-0-mm-adss-endefeste-70-mtr-spenn
+30.10.2026 10:52:51	Endefeste Spiral Ø 4,5-5,0 mm	https://www.alcadon.no/malico/gsde0450/endefeste-spiral-%c3%b8-4-5-5-0-mm-adss-endefeste-70-mtr-spenn
 29.10.2026 11:00:41	Universal stolpebrakett for ADSS	https://www.alcadon.no/stolpebrakett/167573/universal-stolpebrakett-for-adss-stolpeoppheng
 29.10.2026 10:33:16	Strekkfisk M12, øye/øye, galvanisert stå	https://www.alcadon.no/tilbeh%c3%b8r/167572/strekkfisk-m12-%c3%b8ye-%c3%b8ye-galvanisert-st%c3%a5-stolpeoppheng
 28.10.2026 12:13:10	Påbygg til DCCS datasenter renhold	https://www.alcadon.no/alcadon/dccs-iso/p%c3%a5bygg-til-dccs-datasenter-renhold-datasenter-kurs-1-timer
@@ -10,6 +13,8 @@
 27.10.2026 13:37:52	Kause c-form 8-15mm	https://www.alcadon.no/tilbeh%c3%b8r/167562/kause-c-form-8-15mm-for-spiral-endefester
 27.10.2026 13:23:01	Fiber ADSS sjakkel 13mm	https://www.alcadon.no/malico/167561/fiber-adss-sjakkel-13mm-galvanisert-st%c3%a5l-15kn
 27.10.2026 08:34:00	Fiber ADSS sjakkel 10mm	https://www.alcadon.no/malico/167560/fiber-adss-sjakkel-10mm-galvanisert-st%c3%a5l-9kn
+26.10.2026 14:36:54	Endefeste Spiral Ø 14,5-16,0	https://www.alcadon.no/malico/gsde1450/endefeste-spiral-%c3%b8-14-5-16-0-adss-endefeste-70-mtr-spenn
+26.10.2026 14:30:16	Endefeste Spiral Ø 11,5-13,0	https://www.alcadon.no/malico/gsde1150/endefeste-spiral-%c3%b8-11-5-13-0-adss-endefeste-70-mtr-spenn
 26.10.2026 10:57:05	FiberKabel SM Kanal G144 2km/tr	https://www.alcadon.no/fiber-mikro-g144-sm/stl-144f-12-dot-7/fiberkabel-sm-kanal-g144-2km-tr-g652d-12-7mm-eia-tia-598
 23.10.2026 15:05:46	Inno View12X Ribbon skjøtemaskin	https://www.alcadon.no/inno-instruments/view12x/inno-view12x-ribbon-skj%c3%b8temaskin-inkl-dot--v7-plus--ts-pro-fh-12r-mh-250r
 23.10.2026 09:21:03	Fluke TRC MPO SM 0,3m	https://www.alcadon.no/fluke/trc-sm-mpoapc-uu-a/fluke-trc-mpo-sm-0-3m-mpoapc-mpoapc-unpinned-unpinned-type-a
@@ -17,6 +22,8 @@
 23.10.2026 09:18:12	Fluke TRC MPO MM 0,3m	https://www.alcadon.no/fluke/trc-mpo-uu-b/fluke-trc-mpo-mm-0-3m-mpo-mpo-unpinned-unpinned-type-b
 23.10.2026 09:16:37	Fluke TRC MPO MM 1,0m	https://www.alcadon.no/fluke/trc-mpo-up-b/fluke-trc-mpo-mm-1-0m-mpo-mpo-unpinned-pinned-type-b
 23.10.2026 09:14:52	Fluke TRC MPO MM 1,0m	https://www.alcadon.no/fluke/trc-mpo-pp-b/fluke-trc-mpo-mm-1-0m-mpo-mpo-pinned-pinned-type-b
+22.10.2026 15:32:33	Endefeste Spiral Ø 10,0-11,5	https://www.alcadon.no/malico/gsde1000/endefeste-spiral-%c3%b8-10-0-11-5-adss-endefeste-70-mtr-spenn
+22.10.2026 15:23:55	Endefeste Spiral Ø 6,0-6,5 mm	https://www.alcadon.no/malico/gsde0600/endefeste-spiral-%c3%b8-6-0-6-5-mm-adss-endefeste-70-mtr-spenn
 20.10.2026 12:32:27	NTT CLETOP-MPO fiberrens kassett	https://www.alcadon.no/alcadon/14100201/ntt-cletop-mpo-fiberrens-kassett-white-tape-for-mpo-mtp-connector
 15.10.2026 12:58:35	AH IPDU Vertikal 32A, 400V 3-fas, sort	https://www.alcadon.no/austin-hughes/ipdu18xc13comc13-c19/ah-ipdu-vertikal-32a-400v-3-fas-sort-18xc13-plus-combo18xc13-c19-iec60309-2m
 14.10.2026 12:20:53	Temperatur + fuktighet sensor - 4m	https://www.alcadon.no/austin-hughes/ah-ig-z-th014m/temperatur--plus--fuktighet-sensor-4m-rj-45
@@ -63,10 +70,4 @@
 19.05.2026 11:28:50	PoE Injector 95W/48V 802.3bt Planet	https://www.alcadon.no/planet/ipoe-171-95w/poe-injector-95w-48v-802-dot-3bt-planet-2x100m-1g-2-dot-5g-5gbase-t-rj45
 11.05.2026 15:22:49	FiberKabel SM Mikro G96 IK MiDiaAD PE	https://www.alcadon.no/lightera/ofs301166666/fiberkabel-sm-mikro-g96-ik-midiaad-pe-g657a1-qxxe-t%c3%b8rr-fuktsperre
 07.05.2026 13:27:01	HDMI Modulator 4x HDMI til DVB-C/T Triax	https://www.alcadon.no/triax/trx300133/hdmi-modulator-4x-hdmi-til-dvb-c-t-triax-cofdm-dvb-t-and-qam-dvb-c-1080p60
-30.04.2026 09:47:24	Raritan PDU-3P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-5917-e7v2/raritan-pdu-3p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
-30.04.2026 09:31:16	Raritan PDU-3P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-5699-e7v2/raritan-pdu-3p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
-30.04.2026 09:12:16	Raritan PDU-1P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-5161-e7/raritan-pdu-1p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
-30.04.2026 08:55:01	Raritan PDU-1P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-5057-e7/raritan-pdu-1p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-og-styring-per-uttak
-30.04.2026 08:26:48	Raritan PDU-3P 32A 12+12 C13/CX-3m	https://www.alcadon.no/raritan/px4-4917-e7v2/raritan-pdu-3p-32a-12-plus-12-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
-30.04.2026 08:04:04	Raritan PDU-3P 32A 18+18 C13/CX-3m	https://www.alcadon.no/raritan/px4-4699-e7v2/raritan-pdu-3p-32a-18-plus-18-c13-cx-3m-pdu-med-m%c3%a5ling-per-uttak
-30.04.2026 07:38:10	Raritan PDU-1P 32A 12+12 C1
+30.04.2026 09:47:24	Raritan PDU-3P 32A 12+12 C13/C

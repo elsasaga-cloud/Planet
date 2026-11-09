@@ -1,4 +1,4 @@
-# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
 	https://ablelink.co.th/
 	https://ablelink.co.th/about/
 	https://ablelink.co.th/contact/
@@ -6,6 +6,18 @@
 	https://ablelink.co.th/news/
 	https://ablelink.co.th/search/
 	https://ablelink.co.th/category/
+	https://ablelink.co.th/products/f-mpoth-smos2-65mm-24f/
+	https://ablelink.co.th/products/f-mpoth-mmom4-65mm-24f/
+	https://ablelink.co.th/products/f-mpoth-mmom3-65mm-24f/
+	https://ablelink.co.th/products/f-mpoth-smos2-65mm-12f/
+	https://ablelink.co.th/products/f-mpoth-mmom4-65mm-12f/
+	https://ablelink.co.th/products/f-mpoth-mmom3-65mm-12f/
+	https://ablelink.co.th/products/f-mpoha-smos2-35mm-24f/
+	https://ablelink.co.th/products/f-mpoha-mmom4-35mm-24f/
+	https://ablelink.co.th/products/f-mpoha-mmom3-35mm-24f/
+	https://ablelink.co.th/products/f-mpoha-smos2-3mm-12f/
+	https://ablelink.co.th/products/f-mpoha-mmom4-3mm-12f/
+	https://ablelink.co.th/products/f-mpoha-mmom3-3mm-12f/
 	https://ablelink.co.th/products/f-mpotr-smos2-65mm-24f/
 	https://ablelink.co.th/products/f-mpotr-mmom4-65mm-24f/
 	https://ablelink.co.th/products/f-mpotr-mmom3-65mm-24f/
@@ -231,18 +243,4 @@
 	https://ablelink.co.th/products/f-ml-oda9-24-h-dj/
 	https://ablelink.co.th/products/f-ml-oda9-12-h-dj/
 	https://ablelink.co.th/products/f-ml-oda9-96-l-sj/
-	https://ablelink.co.th/products/f-ml-oda9-48-l-sj/
-	https://ablelink.co.th/products/f-ml-oda9-24-l-sj/
-	https://ablelink.co.th/products/f-ml-oda9-12-l-sj/
-	https://ablelink.co.th/products/f-ml-oda9-96-h-sj/
-	https://ablelink.co.th/products/f-ml-oda9-48-h-sj/
-	https://ablelink.co.th/products/f-ml-oda9-24-h-sj/
-	https://ablelink.co.th/products/f-ml-oda9-12-h-sj/
-	https://ablelink.co.th/products/f-ml-od9-96-l-sj/
-	https://ablelink.co.th/products/f-ml-od9-48-l-sj/
-	https://ablelink.co.th/products/f-ml-od9-24-l-sj/
-	https://ablelink.co.th/products/sc-scpv10-bk/
-	https://ablelink.co.th/products/sc-scpv6-bk/
-	https://ablelink.co.th/products/sc-scpv4-bk/
-	https://ablelink.co.th/products/sc-scpv25-bk/
-	https://ablelink.c
+	https://ablelink.co.th/products/f-ml-oda

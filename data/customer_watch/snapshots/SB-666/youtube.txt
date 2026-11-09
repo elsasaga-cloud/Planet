@@ -1,4 +1,4 @@
-# SB-666 mavialarm.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCjdDRS04mEeJv2wV6iiEEzQ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-666 mavialarm.com.tr · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCjdDRS04mEeJv2wV6iiEEzQ · fetched 2026-11-09T09:57:20Z · HTTP 200
 2021-09-26T12:15:17+00:00	Hikvision DS 2CD1023G0E-IF 2MP IP IR Bullet Kamera	https://www.youtube.com/watch?v=rWhq4eNTAmk
 2021-08-03T21:19:00+00:00	IP İnterkom Sistemleri | Hikvision	https://www.youtube.com/watch?v=XApVKC5-g5A
 2021-06-26T17:32:12+00:00	Mavi Alarm Sistemleri	https://www.youtube.com/watch?v=K2HrA6G68nc

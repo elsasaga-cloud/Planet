@@ -1,4 +1,4 @@
-# SC-172 cop-security.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCjXRz4lZ8-bNWCj1uX4rSMg · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-172 cop-security.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCjXRz4lZ8-bNWCj1uX4rSMg · fetched 2026-11-09T09:57:20Z · HTTP 200
 2026-08-06T12:25:03+00:00	【科寶電子】EA-NF1001-IDAS／IDBS DIP Switch 設定教學｜鏈路警報 (LFP)、流量控制、風暴抑制與光埠速率	https://www.youtube.com/watch?v=8tqX0SccXQQ
 2026-08-03T05:40:52+00:00	[科寶電子] EA-NF1001-IDAS／IDBS 安裝教學｜1埠10/100/1000Mbps單模單芯網路工業級光電轉換器	https://www.youtube.com/watch?v=4YoY-749_8Q
 2026-05-21T03:24:50+00:00	COP Security Showcases Coax-to-IP Converters, PoE Repeaters, Surge Protectors, & Industrial Switches	https://www.youtube.com/watch?v=f1iNzL4_G1k

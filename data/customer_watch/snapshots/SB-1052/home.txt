@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -37,6 +37,72 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+Szellőző panel 1E szürke DN-97692
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97692
+Ár:
+2.140 Ft + ÁFA
+(2.718 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Szellőző panel 1E fekete DN-97693
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97693
+Ár:
+2.140 Ft + ÁFA
+(2.718 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Szellőző panel 2E fekete DN-97695
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97695
+Ár:
+3.870 Ft + ÁFA
+(4.915 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Szellőző panel 2E szürke DN-97694
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97694
+Ár:
+3.870 Ft + ÁFA
+(4.915 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+2U panel for D-type modules, 24-port DN-97697
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97697
+Ár:
+4.380 Ft + ÁFA
+(5.563 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+1U panel for D-type modules, 12-port DN-97696
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97696
+Ár:
+2.480 Ft + ÁFA
+(3.150 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 8P8C mod.dugasz,árnyékolt Cat.6 átmenő P88R5Z50V2ST
 ÚJDONSÁG!
 Villámnézet
@@ -159,7 +225,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-17447 m raktáron
+17142 m raktáron
 m
 Kosárba
 Részletek
@@ -179,7 +245,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-6760 m raktáron
+5235 m raktáron
 m
 Kosárba
 Részletek
@@ -282,7 +348,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-17447 m raktáron
+17142 m raktáron
 m
 Kosárba
 Részletek
@@ -341,38 +407,4 @@ A vásárlástól számított 14 napon belül lehetőség van elállásra a vona
 Segít a LAN Kft. a termékek beüzemelésében?
 ​Igen, szakértő kollégáink telefonon és e-mailben műszaki támogatást nyújtanak.
 Hol találok dokumentációkat és adatlapokat?
-Minden termék oldalán megtalálod a letölthető adatlapokat, használati útmutatókat és műszaki specifikációkat. Ha valamit nem találsz a sales@lan.hu email címen kérhetsz segítséget.
-7. Kapcsolat és ügyfélszolgálat
-Hogyan vehetem fel a kapcsolatot a LAN Kft.-vel?
-Az alábbi módokon:
-Telefon: +36 1 415 2300
-E-mail: sales@lan.hu , ha a vásárlás mellett a kivitelezés is érdekel: szolgaltatas@lan.hu
-Kapcsolati űrlap a weboldalon
-Mikor érhető el az ügyfélszolgálat?
-Hétfőtől péntekig, a weboldalon feltüntetett nyitvatartási időben. ( - )
-LAN Számítástechnikai Szolgáltató Kft.
-+36 1 415 2 300
-titkar@lan.hu
-H-1155 Budapest Kolozsvár utca 7.
-Nyitvatartás:
-H - P:  - ; Szo - V: Zárva
-Kapcsolatba lépek
-Az oldal tetejére
-+36-1/415-2300
-titkar@lan.hu
-H-1155 Budapest, Kolozsvár u. 7.
-Facebook
-Instagram
-Linkedin
-Youtube
-Átvételi pontok
-LAN Szaküzlet
-H-1155 Budapest Kolozsvár u. 7.
-Nyitva: hétköznap -
-sales@lan.hu | rendeles@lan.hu
-Külső raktár
-H-1151 Bp. Székely Elek út 11.
-Nyitva: hétköznap -
-+36 1/415 2321 | sales@lan.hu
-Információk
-
+Minden termék oldalán megtalálod a letölthető adatlapokat, használati útmutatókat és műszaki specifikációkat. Ha valamit nem t

@@ -1,4 +1,4 @@
-# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 ICO Innovative Computer GmbH- Server, Storage, Industrie-PC, Panel PCs, Embeddedsysteme, Barcodescanner, Kassensysteme, PC-Systeme
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -255,6 +255,9 @@ Wincomm
 Winmate
 Zebra
 News
+Industrielle Touch-Bedienung von 10,1 bis 23,8 Zoll
+Fünf neue Panel-PCs von ICO verbinden unterschiedliche Displayformate mit Intel Core i5- und Celeron-Prozessoren. Vom kompakten Maschinenbedienfeld bis zur großflächigen Prozessanzeige: Die ICO...
+Mehr
 Embedded-PC mit Intel Core Serie 2 nach Bedarf konfigurieren
 Lüfterloser Industriecomputer von ICO bietet bis zu 64 GB DDR5-RAM und Anschlüsse für drei Displays. Welche Ausstattung ein Industrie-PC benötigt, entscheidet die Anwendung. Die ICO Innovative...
 Mehr
@@ -263,9 +266,6 @@ Kompakter Präsentationsscanner für Kassen, Self Checkout Systeme und Kiosks un
 Mehr
 Kompakter Embedded-PC für den Einbau auf engem Raum
 ICO bietet lüfterlosen Industrierechner mit Intel Atom x7433RE und zwei 2,5-Gigabit-LAN-Anschlüssen. Mit dem PicoSYS 2511 bietet die ICO Innovative Computer GmbH einen Embedded-PC, der bei 133 ×...
-Mehr
-Medical Tablet für mobile Dokumentation und Barcodeerfassung
-10,5-Zoll-Tablet mit integriertem 1D/2D-Scanner, IP66-Schutz und medizinischer Zertifizierung Die ICO Innovative Computer GmbH bietet mit dem Estone MW-100 ein Medical Tablet für den mobilen...
 Mehr
 Verpassen Sie nichts mehr!
 Abonnieren Sie unseren Newsletter und seien Sie immer informiert über neue Produkte und tolle Angebote. Unser Newsletter ist natürlich kostenlos und jederzeit kündbar.

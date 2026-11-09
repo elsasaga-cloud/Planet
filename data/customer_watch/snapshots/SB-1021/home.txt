@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -61,11 +61,11 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5081)
-Wszystkie 5081
+Światłowody (5084)
+Wszystkie 5084
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
-Kable światłowodowe 1025
-Patchcordy światłowodowe 1330
+Kable światłowodowe 1027
+Patchcordy światłowodowe 1331
 Pigtaile światłowodowe 118
 Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 361
 Adaptery światłowodowe 127
@@ -279,8 +279,17 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+Hikvision DS-2CD2T123G2-LIS2UY/SL(2.8mm)BLACK – kamera IP tubowa 12 MP
+1137.25 zł netto
+Do koszyka
+Hikvision DS-2CD2T123G2-LIS2UY/SL(2.8mm) – kamera IP tubowa 12 MP
+1082.92 zł netto
+Do koszyka
 MikroTik netPower Lite 8P – przełącznik PoE z funkcją UPS
 640.7 zł netto
+Do koszyka
+Kamera IP Hikvision DS-2CD2H83G2-LIZS2U(2.8-12mm) 8 MP z motozoomem
+1573.8 zł netto
 Do koszyka
 Kamera IP Hikvision DS-2CD2H43G2-LIZS2U(2.8-12mm) 4 MP z motozoomem
 1191.9 zł netto
@@ -293,15 +302,6 @@ Kamera kopułkowa IP Hikvision DS-2CD2763G2-LIZS2U(2.8-12mm) 6 MP
 Do koszyka
 Hikvision DS-2CD2743G2-LIZS2U 2.8-12mm PL#PL – kamera kopułkowa IP 4 MP
 1302.98 zł netto
-Do koszyka
-MEAN WELL HLG-320H-54A – zasilacz LED 54 V 321,3 W
-343.85 zł netto
-Do koszyka
-Kamera kopułkowa IP Hikvision DS-2CD27123G2-LIZS2UY(2.8-12mm) 12 MP
-1792 zł netto
-Do koszyka
-Kamera kopułkowa IP Hikvision DS-2CD27123G2-LIZS2UY(2.8-12mm)OSTDBLACK 12 MP
-1994.11 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

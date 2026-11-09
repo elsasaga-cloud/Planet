@@ -1,4 +1,4 @@
-# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-09T09:57:20Z · HTTP 200
 2025-09-24T11:49:26+00:00	DNP3 Slave Protokol Tanımlamaları (Firmware versiyon 19.05 ve üzeri için)	https://www.youtube.com/watch?v=2eCD7ejVBhk
 2025-09-24T11:49:04+00:00	DNP3 Slave Protocol Definitions (for firmware version 19.05 and above)	https://www.youtube.com/watch?v=UB9DqjramDU
 2024-06-07T12:25:29+00:00	IEC 60870 5 104 Protocol Definitions	https://www.youtube.com/watch?v=_7Hetxe5vp0

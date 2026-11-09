@@ -1,4 +1,4 @@
-# SC-283 comonyx.com · youtube · https://www.youtube.com/@cctv_onyx · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-283 comonyx.com · youtube · https://www.youtube.com/@cctv_onyx · fetched 2026-11-09T09:57:20Z · HTTP 200
 2026-09-09T14:17:35+00:00	Тромбон РС: масштабируемая СОУЭ. От одного здания до комплекса объектов с единым центром управления	https://www.youtube.com/watch?v=33mz5bT3VjA
 2026-08-28T10:08:36+00:00	Передаём RS-485 на 20 км без магии: обзор "Тромбон SFP-LC"	https://www.youtube.com/watch?v=f_thi3mzi8A
 2026-08-21T19:53:46+00:00	Почему обычное переговорное устройство не подходит для МГН?	https://www.youtube.com/watch?v=Rc4In2mF3Dk

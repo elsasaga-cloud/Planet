@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -472,6 +472,12 @@ Dozvědět se více
 Doporučené produkty
 Nové produkty Novinky
 Akční cena Akční cena
+Kód: K03829
+Do košíku
+Náhled
+Hikvision DS-2CD2T63G2P-LISU/SL (180°) panoramic IP bullet camera (6 Mpix, 2.8 mm, 0.005 lx, hybrid lighting up to 30 m)
+11876,15 Kč
+9815,00 Kč bez DPH
 Kód: M29119
 Náhled
 Monitor Hikvision DS-D5022F2-1P2 (21,45", 16:7, IPS, FHD, HDMI, VGA, audio)
@@ -603,8 +609,8 @@ Předchozí nejnižší cena: 10932,35 Kč
 8583,25 Kč bez DPH
 Zobrazit všechny
 V posledním zpravodaji
-Internet věcí bez omezení dosahu.
-21. října 2026 Evropská kosmická agentura (ESA) popsala výsledky testů, při nichž byla využita satelitní síť IoT společnosti Lacuna Space k monitorování mimo jiné kvality vody, vlhkosti půdy a spotřeby vody. Řešení je založeno na technologii LoRaWAN, známé z pozemních systémů komunikace senzorů. Rozdíl spočívá v tom, že přijímačem signálu může být satelit, nikoli rádiová brána instalovaná na budově nebo stožáru. Jedná se o příklad využití stávajících standardů přenosu pro komunikaci se zařízení...
+EgoExplorer zaznamenává 100 hodin lidských pohybů pro účely trénování humanoidních robotů.
+Vědci ze Shanghai AI Laboratory, Zhejiang University a Shanghai Jiao Tong University vytvořili datový soubor EgoExplorer, který zahrnuje 100 hodin lidské aktivity zaznamenané pomocí speciálního nositelného systému. Shromážděné materiály kombinují videozáznamy z pohledu uživatele s údaji o pohybech celého těla, práci prstů a kontaktu s předměty. Cílem projektu je zefektivnit trénink humanoidních robotů, kteří by v budoucnu mohli vykonávat každodenní činnosti a manuální úkoly vyžadující přesnost ...
 Pokračovat ve čtení
-Jednoduchá instalace v rodinném domě.
-V rodinném domě byla provedena instalace satelitní televize založená na satelitní anténě o průměru 90 cm a multiswitchi TERRA MR-508 R70608. Použití konvertoru typu Quatro a multiswitche vybaveného 5 vstupy a 8 výstupy umožňuje nezávislé rozdělení satelitního signálu až do 8 přijímacích míst. V budoucnu umožní další vstup multiswitche rozvod signálu digitální pozemní televize DVB-T2 a 
+Optická instalace SMATV – Signal PROfessional.
+Níže uvádíme několik fotografií z instalace provedené společností Pro-instal – telekomunikační instalace Michał Lipka z Legionowa. Instalace 

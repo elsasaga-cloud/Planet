@@ -1,13 +1,13 @@
-# SB-1138 devray.in · sitemap · https://devray.in/sitemap.xml · fetched 2026-11-08T09:13:02Z · HTTP 200
-2026-04-05	https://www.devray.in/
-2026-04-05	https://www.devray.in/solutions/
-2026-04-05	https://www.devray.in/contact/
-2026-04-05	https://www.devray.in/about/
-2026-04-05	https://www.devray.in/resources/
-2026-04-05	https://www.devray.in/support/
-2026-04-05	https://www.devray.in/policy/
-2026-04-05	https://www.devray.in/product/devgate-next-generation-firewall/
-2026-04-05	https://www.devray.in/product/devray-enterprise-router/
-2026-04-05	https://www.devray.in/product/devray-sd-wan/
-2026-04-05	https://www.devray.in/product/industrial-managed-switches/
-2026-04-05	https://www.devray.in/product/data-center-enterprise-switches/
+# SB-1138 devray.in · sitemap · https://devray.in/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+	https://www.devray.in/
+	https://www.devray.in/solutions
+	https://www.devray.in/product/devgate-next-generation-firewall
+	https://www.devray.in/product/devray-sd-wan
+	https://www.devray.in/product/devray-enterprise-router
+	https://www.devray.in/product/data-center-enterprise-switches
+	https://www.devray.in/product/industrial-managed-switches
+	https://www.devray.in/contact
+	https://www.devray.in/about
+	https://www.devray.in/resources
+	https://www.devray.in/support
+	https://www.devray.in/policy

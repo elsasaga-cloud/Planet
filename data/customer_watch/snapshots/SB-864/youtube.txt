@@ -1,4 +1,4 @@
-# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-09T09:57:20Z · HTTP 200
 2026-11-07T14:00:26+00:00	PLC Nasıl Çalışır? Butonun Sinyali Valfe Nasıl Ulaşır?	https://www.youtube.com/shorts/2cxHfSZZIs4
 2026-11-05T14:00:08+00:00	PLC Nedir? Makinede Kararı Hangi Cihaz Verir?	https://www.youtube.com/shorts/j_JzgqLAlR8
 2026-03-04T12:12:55+00:00	Tedarik Zincirinde Veri Görünürlüğü Nasıl Sağlanır? | AVEVA PI System	https://www.youtube.com/watch?v=IjQTQhTE9vw

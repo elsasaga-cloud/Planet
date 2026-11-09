@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -147,14 +147,14 @@ Sold Out
 판매가 : 883,500원
 LIKE IT ! 0
 Sold Out
-(생산지연)(단독특가) 솔텍 SFC1200-HDFT POE HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
-상품요약정보 : 4K 3840p×2160p POE IP Extender Port, USB Port, Reset 버튼 전원입력:DC 12V or 802.3af POE PD
-판매가 : 224,400원
-LIKE IT ! 0
-Sold Out
 솔텍 SFC1200-HDF HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
 상품요약정보 : Full HD(1080p) over TCP/IP Network, 2대 1세트
 판매가 : 280,500원
+LIKE IT ! 0
+Sold Out
+(생산지연)(단독특가) 솔텍 SFC1200-HDFT POE HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
+상품요약정보 : 4K 3840p×2160p POE IP Extender Port, USB Port, Reset 버튼 전원입력:DC 12V or 802.3af POE PD
+판매가 : 224,400원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC200-SCM/I 100Mbps 이더넷 광컨버터 (전원내장형)
@@ -162,14 +162,14 @@ Sold Out
 판매가 : 91,300원
 LIKE IT ! 0
 Sold Out
-SFC510LRP PoE스위치 롱 리치 PoE 비관리형 스위치
-상품요약정보 : 100Mbps 802.at 30W PoE 8Ports + 100Mbps/1G UTP 1Port + 100M/1G SFP 1Slot
-판매가 : 222,200원
-LIKE IT ! 0
-Sold Out
 솔텍 SFC8000G 산업용 관리형 L2 스위치 (1Gbps TP 8포트/1G SFP 2슬롯/2.5G SFP 2슬롯) (전원공급장치 포함)
 상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 80°C / 전원이중화 / S-Ring(복구타임
 판매가 : 618,200원
+LIKE IT ! 0
+Sold Out
+SFC510LRP PoE스위치 롱 리치 PoE 비관리형 스위치
+상품요약정보 : 100Mbps 802.at 30W PoE 8Ports + 100Mbps/1G UTP 1Port + 100M/1G SFP 1Slot
+판매가 : 222,200원
 LIKE IT ! 0
 Sold Out
 대한 광케이블 SM-2C 디스트리뷰션 옥내용
@@ -178,20 +178,22 @@ Sold Out
 판매가 : 440,000원
 LIKE IT ! 0
 Sold Out
-동양유니텍 DPC-018 (8CH) 고정용 전원분배기
-상품요약정보 : - CCTV 주변기기 전원 제어기(8채널)
-판매가 : 190,000원
-LIKE IT ! 0
-Sold Out
-솔텍 SFC4000HP 관리형 L2 스위치 (1Gbps PoE 24포트/1G SFP 4슬롯)
-상품요약정보 : 1Gbps SFP 4슬롯(콤보 23, 24) / PoE 380W / 웹기반 매니지먼트 / 439.5(W) x 300(D) x 44(H)mm
-판매가 : 699,600원
-LIKE IT ! 0
-Sold Out
 인네트워크 IN-MINI FDF SC-4C 국산 SC 4CORE 광분배함 INO074
 상품요약정보 : Mini FDF / 4회선 접속
 소비자가 : 17,200원
 판매가 : 13,700원
+LIKE IT ! 0
+Sold Out
+자동복구형 누전차단기 2.5kA 20A / 2.5kA 30A / 5kA 20A / 5kA 30A / 5kA 50A
+상품요약정보 : (40×84×75mm) 더 작은 크기의 자동복구형 누전차단기
+소비자가 : 56,000원
+판매가 : 56,000원
+LIKE IT ! 0
+Sold Out
+인네트워크 IN-800SC 광케이블 커넥터 & 아답터 클리너(SC,ST, FC)
+상품요약정보 : 노즐연장, 커넥터 & 아답터 사용가능,SC/ST/FC Φ2.5mm, 800회 이상
+소비자가 : 16,300원
+판매가 : 13,000원
 FiberMart 특가
 더보기
 LIKE IT ! 0

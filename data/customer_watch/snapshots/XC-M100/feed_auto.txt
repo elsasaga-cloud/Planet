@@ -1,4 +1,4 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-08T09:13:02Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-09T09:57:20Z · HTTP 200
 06.11.2026 10:29:37	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-06/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcz99hhsesxxxxx
 03.11.2026 12:39:53	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp3/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc3
 03.11.2026 12:35:18	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp1/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc1

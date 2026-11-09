@@ -1,4 +1,4 @@
-# SB-606 HME Solutions · news_1 · https://www.hmesolutions.com.au/assetinsight · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-606 HME Solutions · news_1 · https://www.hmesolutions.com.au/assetinsight · fetched 2026-11-09T09:57:20Z · HTTP 200
 Our Solutions | Asset Insight | HMESolutions
 google-site-verification: google1805249e8b2fdf2f.html
 top of page
@@ -14,6 +14,9 @@ Dispatch +
 VDL Infrastructure
 Precision+ Machine Guidance Hardware
 Dispatch AI
+Grader Solution
+Dozar Solution
+Driller Solution
 Vital Data Link
 VDL
 Onboarding Hardware

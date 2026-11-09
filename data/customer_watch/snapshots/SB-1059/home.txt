@@ -1,4 +1,4 @@
-# SB-1059 neteon.net · home · https://www.neteon.net/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-1059 neteon.net · home · https://www.neteon.net/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Your Partner for Industrial Digital Transformation | Neteon
 MOXA IPC IIoT
 Solutions Industrial Cybersecurity Real-Time OT Network Visibility Protect Your OT Networks Security Hardened Network Devices
@@ -169,6 +169,10 @@ Discover how our solutions can transform your business.
 One click is all it takes.
 Let's Talk
 Latest from the Knowledge Hub
+December 2, 2026
+Case Studies
+Connecting a Brownfield Food Plant with Advantech UNO-148 V2 Edge Computing
+Learn more
 October 15, 2026
 Case Studies
 Local Energy Management for BESS with Moxa BXP-A101
@@ -176,10 +180,6 @@ Learn more
 October 15, 2026
 Case Studies
 Inside an Airport E-Gate: Advantech MIC-770 V3 for Biometric Border Control
-Learn more
-October 15, 2026
-Case Studies
-Industrial Hazard Detection at the Edge with ASUS IoT PE1100N
 Learn more
 Your Partner for Industrial Transformation
 [email protected]

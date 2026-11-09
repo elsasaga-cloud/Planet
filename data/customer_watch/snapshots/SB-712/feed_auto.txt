@@ -1,4 +1,4 @@
-# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Fri, 06 Nov 2026 19:27:19 +0000	PLC-Based PID Loops vs. Standalone PID Controllers	https://maplesystems.com/plc-pid-loops-vs-standalone-controllers/
 Mon, 02 Nov 2026 19:17:11 +0000	Open-Loop vs. Closed-Loop PID Control Systems	https://maplesystems.com/pid-open-loop-vs-closed-loop/
 Mon, 02 Nov 2026 19:11:00 +0000	Troubleshooting PID Loop Instability, Oscillations, Overshoot & Hunting	https://maplesystems.com/pid-loop-troubleshooting-guide/

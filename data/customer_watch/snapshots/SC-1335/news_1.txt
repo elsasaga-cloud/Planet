@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-09T09:57:20Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -113,7 +113,49 @@ Cheapest
 Most expensive
 Bestsellers
 Latest
-139 items
+142 items
+MikroTik XS+31LC40D, SFP/SFP+/SFP28 optical module, Single-Mode, 40km, 1/10/25G 1310nm
+XS+31LC40D
+149.27 EUR excl. VAT
+180.69 EUR incl. VAT
+Add to cart
+stiqtyfree:0
+_17:
+avail:0
+infocode: avail
+queu:
+shipmin:
+Not in stock
+Product description prepares.
+New product
+MikroTik 600W PSU for CRS354-48P-4S+2Q+RM
+G1317-0600W
+159.21 EUR excl. VAT
+192.69 EUR incl. VAT
+Add to cart
+stiqtyfree:0
+_17:
+avail:0
+infocode: avail
+queu:
+shipmin:
+Not in stock
+Product description prepares.
+New product
+MikroTik LtAP-5HaxT2HaxD&EG120K-EA, LtAP LTE12 ax
+LtAP-5HaxT2HaxD&EG120K-EA
+220.62 EUR excl. VAT
+267.02 EUR incl. VAT
+Add to cart
+stiqtyfree:0
+_17:
+avail:0
+infocode: avail
+queu:
+shipmin:
+Not in stock
+Product description prepares.
+New product
 Huawei OPS W022 D, Computer module for IdeaHub, 16GB RAM
 06190081
 2 272.75 EUR excl. VAT
@@ -414,32 +456,4 @@ infocode: stock
 queu:
 shipmin:
 In Stock
-The Ubiquiti USW-Flex-3 is a UniFi PoE switch for indoor and outdoor use with a switching capacity of 10Gbps, (1) 1Gbps PoE-In port and (4) 1Gbps PoE+ ports. The input port supports 802.3af/at/bt PoE++ input, while th
-New product
-Ubiquiti USL-Entry-3, UniFi Protect magnetic door contact, 3-pack
-USL-Entry-3
-81.62 EUR excl. VAT
-98.98 EUR incl. VAT
-Add to cart
-stiqtyfree:0
-_17:
-avail:0
-infocode: avail
-queu:
-shipmin: 30.12.2077
-Ordered, unknown date
-The Ubiquiti USL-Entry-3 is a wireless UniFi Protect sensor designed to monitor the open/closed status of doors and windows. It communicates with the gateway using the proprietary SuperLink protocol with range of up to 2km (in open
-New product
-Ubiquiti UACC-UTS, Universal table stand
-UACC-UTS
-25.26 EUR excl. VAT
-30.56 EUR incl. VAT
-Add to cart
-stiqtyfree:14
-_17:
-avail:2
-infocode: stock
-queu:
-shipmin:
-In Stock
-The Ubiquiti UACC-UTS is a weighted stand with an 
+The Ubiquiti USW-Flex-3 is a UniFi PoE switch for indoor and outdoor use with a switching capacity of 10Gbps, (1) 1Gbps PoE-In port and (4) 1Gbps PoE+ ports. The input port supports 802.3

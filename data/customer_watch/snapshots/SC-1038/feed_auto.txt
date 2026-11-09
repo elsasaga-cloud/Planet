@@ -1,4 +1,4 @@
-# SC-1038 TELTEX · feed_auto · https://teltex.com.br/feed/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SC-1038 TELTEX · feed_auto · https://teltex.com.br/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Thu, 27 Aug 2026 13:41:01 +0000	Muito além do controle de acesso: a estratégia de segurança desenvolvida para a Itaipu Binacional	https://teltex.com.br/muito-alem-do-controle-de-acesso-a-estrategia-de-seguranca-desenvolvida-para-a-itaipu-binacional/
 Thu, 27 Aug 2026 13:23:42 +0000	Como a Teltex conectou todas as unidades do TJGO a uma única estratégia de segurança	https://teltex.com.br/como-a-teltex-conectou-todas-as-unidades-do-tjgo-a-uma-unica-estrategia-de-seguranca/
 Thu, 27 Aug 2026 13:14:35 +0000	Teltex e Grupo Alibaba: Como a modernização de um centro de distribuição fortalece a segurança e a eficiência operacional	https://teltex.com.br/teltex-e-grupo-alibaba-como-a-modernizacao-de-um-centro-de-distribuicao-fortalece-a-seguranca-e-a-eficiencia-operacional/

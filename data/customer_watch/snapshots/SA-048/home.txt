@@ -1,6 +1,7 @@
-# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-08T09:13:02Z · HTTP 200
+# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
 Best online Shopping in Saudi Arabia, Riyadh KSA
 Archives
+November 2026
 October 2026
 September 2026
 August 2026
@@ -34,6 +35,7 @@ Cabinets & Racks
 Computing
 Equipment’s
 Fiber & Copper Cables
+Huawei
 PA & Conference
 Power Solutions
 Safety & Security
@@ -101,6 +103,7 @@ Cabinets & Racks
 Computing
 Equipment’s
 Fiber & Copper Cables
+Huawei
 PA & Conference
 Power Solutions
 Safety & Security
@@ -235,6 +238,7 @@ UPS & Batteries
 Safety & Security
 CCTV
 Safety & Security Accessories
+Ekhakas-Huawei-11
 Ekhakas-11.11-banner-(07-11-2026)
 Ekhalas Huawei eKit Banner (12-04-2026)
 delta banner (14-08-2025)
@@ -255,7 +259,7 @@ Computing
 Safety & Perimeter Security
 Fiber & Copper Cables
 Software
-Deal Of The Day
+Deal Of The Week
 SALE
 29%
 Quick View
@@ -306,8 +310,8 @@ Linksys – MR6350-ME AC1300 Dual-Band MU-MIMO Mesh WiFi 5 Router
 Save:$267
 Sold: 0
 Available: 30
-HUAWEI IdeaHub S2
-New Style Smart Office
+HUAWEI IdeaHub S3
+Professional Meetings, Seamless Communication
 Shop Now
 " data-tab="tab-1" data-post='7' data-filter='featured' >
 Feature
@@ -358,62 +362,77 @@ Wishlist
 Add to cart
 Best Seller
 Copper
-Nexans Aginode LANmark-UTP CAT6A Patch Cord , LSZH 1m Orange
+Rj45 Crimp Tool, 8P/RJ45 6P/RJ12 RJ11 Cat5e Cat6 Crimping Tool, Cut, Strip Tool
 Copper
-RAMCRO – Security & Sound 3 Conductor 18 AWG BC Shielded CMR
-⃁ 1,100.00
+Belden – 7860ENH Category 6 F/UTP LSZH Cable
 Copper
-CABCOMM – Category 6 Shielded Keystone Jack
-⃁ 14.04
+CABCOMM – 332 Coaxial Cable Stripper
 Copper
-ExTell – CAT6 U/UTP 23AWG LSZH Network Cable, Lilac, 305M
-⃁ 1,230.00
+HUBBELL – SC6GY05 Category 6 UTP Patch Cord 5ft (1.5m) Grey
 Copper
-BUINE NETWORKS – 6A UTP Keystone Jack Toolless
-⃁ 4.89
+BUINE NETWORKS – RG11 Compression Connector (B-RG11/6C)
+⃁ 45.00
 Copper
-COMMSCOPE – SYSTIMAX? 360? Evolve 24-Port Modular Patch Panel, 1U, Flat, Category 5e/6/6A
+LEVITON Cat6Plus Snap-In Jack ? UTP, Tool-Free Termination
+⃁ 22.50
+Copper
+CABCOMM – UTP Patch Panel 24 Port Unloaded with Cable Management, 1U, 19″ Rack Mount
+⃁ 300.00
 Cabinet Accessories
-CABCOMM 1U Solid 19″ Rack Blank Panel
-⃁ 35.00
+LEGRAND – Patch Panel Cat6 24 Port UTP Unloaded
+⃁ 168.00
 CCTV
-QNO-6012R
-⃁ 870.00
+QRN-420S
 CCTV
-VIVOTEK – SD9161-H-V2 2MP AI PTZ Camera
-⃁ 3,930.00
+VIVOTEK – AT-SUN-002 Sunshield for AT-CAx + AT-CAB-002 Cabinet
+⃁ 72.00
 CCTV
-VIVOTEK – AM-719 Outdoor Junction Box
-⃁ 127.90
+VIVOTEK – AM-52F Pendant Mounting Kit
+⃁ 255.00
 CCTV
-VIVOTEK – AM-21N Wall Mount Bracket
-⃁ 202.50
+VIVOTEK – AM-218 Wall Mount Bracket
+⃁ 180.00
 Shop and SAVE BIG
 on hottest camera
 SAVE
 $80.000
 Top 20
 Cabinet Accessories
-CABCOMM – 19″ Fixed Shelf, 600mm Depth, Perforated Steel Design
-⃁ 100.00
+Nexans Aginode – Lanmark PatchPanel 24Snap-In Black-Empty
+⃁ 170.00
 Quick View
 Wishlist
 Add to cart
 Cabinet Accessories
-JUNIPER NETWORKS – Rack Mount Kit – 19″ PSU Tray Only
-⃁ 750.00
+BUINE NETWORKS – M3 Stainless Steel Cage Nut Set – 50 Pieces
 Quick View
 Wishlist
 Add to cart
 Cabinet Accessories
-CABCOMM Sliding shelf For 1000mm
-⃁ 320.00
+LEGRAND – 310954 Additional 1000W Charger for Daker DK UPS
+⃁ 1,400.00
 Quick View
 Wishlist
 Add to cart
 Cabinet Accessories
-CABCOMM – 19″ Fixed Shelf, 450mm Depth, Perforated Steel Design
-⃁ 66.00
+BUINE NETWORKS – M3 Stainless Steel Cage Nut Set – 100 Pieces
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+LEGRAND – 33246 1U 19-Inch Rack Mount Front Plate for Patch Panels
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+COMMSCOPE – 1U Patchcord Management (HCM-19-SS-1U)
+⃁ 105.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+CABCOMM Casters For Floor rack (AS-CAS)
+⃁ 50.00
 Quick View
 Wishlist
 Add to cart
@@ -424,26 +443,8 @@ Quick View
 Wishlist
 Add to cart
 Cabinet Accessories
-CABCOMM Sliding shelf For 800mm Rack
-⃁ 220.00
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-NORDEN – Single Fan 220V
-⃁ 42.00
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-LEGRAND – Patch Panel Cat6 24 Port UTP Unloaded
-⃁ 168.00
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-SIEMON – 1U 19-Inch Horizontal Rack-Mount Cable Organizer
-⃁ 180.00
+LEVITON – OPT-X™ 500i SDX 1RU Flush-Mount Fiber Distribution & Splice Enclosure
+⃁ 675.00
 Quick View
 Wishlist
 Add to cart
@@ -503,71 +504,71 @@ Wishlist
 Add to cart
 Top Selling Product
 CCTV
-HCD-7010RA
-⃁ 498.00
+VIVOTEK – VC9101 5MP Modular Network Camera
+⃁ 1,144.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AT-CAB-002 Side-Mount Bracket for HLG Series Power Supply
-⃁ 270.00
+VIVOTEK – AM-821 Standing Mount Bracket
+⃁ 1,125.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-529 Mounting Adapter for Speed Dome
+VIVOTEK -AM-314 Pole Mount Adapter (89~152.4mm)
 ⃁ 262.50
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-11F J-shape Mounting Bracket for Enclosure
-⃁ 262.50
+VIVOTEK – FD9399-EHV 8MP AI Outdoor Fixed Dome Network Camera with 40m IR & RealSight Engine
+⃁ 1,246.50
 Quick View
 Wishlist
 Add to cart
 CCTV
-CP PLUS 8MP Network Bullet Camera – 40Mtr IR , SD card, WDR
-⃁ 480.00 Original price was: ⃁480.00. ⃁ 408.00 Current price is: ⃁408.00.
+LNO-6010R
+⃁ 215.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – CC9390-HV 8MP Compact Panoramic AI Camera
-⃁ 1,548.25
+VIVOTEK – AT-WPC-001 M16 Cable Gland for 4~7mm AWG
+⃁ 105.00
 Quick View
 Wishlist
 Add to cart
 On-Sale Product
-Copper
-CABCOMM – Yellow Mini Cutter Stripper Plier
+Equipment’s
+Huawei – Data Communication, S220-24T4X, S220-24T4X, S220-24T4X
 Quick View
 Wishlist
 Add to cart
-Copper
-LEVITON eXtreme 6+ QuickPort Connector ? Cat 6, 110 Punchdown, Black.
-⃁ 22.50
+Accessories
+Huawei – AD-560062T0E Power Adapter
+⃁ 207.00
 Quick View
 Wishlist
 Add to cart
-Copper Testing Tools
-RG6 Compression Wire Crimper Plier Crimping Tool RG6 RG59 RG11 Coaxial Cable F Connector Crimper Tool
+Equipment’s
+Huawei eKitEngine – AP162E Wi-Fi 6 Wall-Plate Access Point
+⃁ 590.00 Original price was: ⃁590.00. ⃁ 349.20 Current price is: ⃁349.20.
 Quick View
 Wishlist
 Add to cart
-Copper
-CABCOMM – 332 Coaxial Cable Stripper
+Equipment’s
+Huawei eKitEngine – S310-24T4X Layer 2+ Managed Gigabit Ethernet Switch
 Quick View
 Wishlist
 Add to cart
-Copper
-LEVITON Cat6Plus Snap-In Jack ? UTP, Tool-Free Termination
-⃁ 22.50
+Equipment’s
+Huawei – Data Communication,S310-24P4X, S310-24P4X,S310-24P4X
 Quick View
 Wishlist
 Add to cart
-Copper Testing Tools
-Non Contact Live Wire Detecting High Voltage Cable Detector Pen with Flash
+Equipment’s
+Huawei – S310-48T4S Gigabit Ethernet Switch
 Quick View
 Wishlist
 Add to cart
@@ -700,6 +701,7 @@ Cabinets & Racks
 Computing
 Equipment’s
 Fiber & Copper Cables
+Huawei
 PA & Conference
 Power Solutions
 Safety & Security
