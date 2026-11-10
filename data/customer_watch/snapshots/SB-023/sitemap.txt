@@ -1,4 +1,4 @@
-# SB-023 itk.co.th · sitemap · https://itk.co.th/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-023 itk.co.th · sitemap · https://itk.co.th/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
 	https://itk.co.th/ups/ups-ablerexs/ablerex-evo-rt-series.html
 	https://itk.co.th/security-firewall/zyxel-firewall/zywall-atp-firewall-oncloud.html
 	https://itk.co.th/ip-phones/openvox/openvox-analog-cards.html

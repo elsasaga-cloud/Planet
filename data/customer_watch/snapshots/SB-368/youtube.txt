@@ -1,4 +1,5 @@
-# SB-368 welotec.com · youtube · https://www.youtube.com/user/welotecgmbh · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-368 welotec.com · youtube · https://www.youtube.com/user/welotecgmbh · fetched 2026-11-10T10:04:27Z · HTTP 200
+2026-11-10T07:18:22+00:00	SEALMAN erklärt: Demo-Setup auf der SPS in Nürnberg	https://www.youtube.com/watch?v=oZ4IXy1BI44
 2026-09-07T09:03:07+00:00	One year. One team. #welotec #westermo #networking #computing	https://www.youtube.com/shorts/xzNefuao52M
 2026-08-25T08:48:42+00:00	Integration eigener Anwendungen in ein bestehendes System im Maschinenbau #opensource #extension	https://www.youtube.com/shorts/kLdLZFmjioE
 2026-08-18T08:00:10+00:00	Von der Cloud bis in die Steuerung im Maschinenbau #opensource #maschinenbau #command	https://www.youtube.com/shorts/nvpIboMfFbA
@@ -13,4 +14,3 @@
 2026-04-09T07:14:51+00:00	From copper wiring to fiber communication #digitization #substation #fiber	https://www.youtube.com/shorts/8nDHB7LeEzE
 2026-04-02T07:34:16+00:00	Digitalization in substations is no longer optional #digitization #substations #vpac	https://www.youtube.com/shorts/3SgzV7hlwJ0
 2026-03-27T11:24:34+00:00	The Power Grid Is Changing Faster Than Ever	https://www.youtube.com/shorts/mXx-Uoo7_qs
-2026-02-16T09:15:05+00:00	Rugged Substation Automation Virtualization Platform - One platform. Three perspectives. One day.	https://www.youtube.com/shorts/ZniHhNamGAY

@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -36,7 +36,6 @@ Brno - Řečkovice
 Otevřeno do
 Blansko
 Otevřeno do
-6. 11. od 11.00 hod INVENTURA
 Bystřice nad Pernštejnem
 Otevřeno do
 Čáslav
@@ -49,9 +48,9 @@ Otevřeno do
 Hustopeče
 Otevřeno do
 Chotěboř
-Zavíráme za 15 minut
+Zavíráme za 10 minut
 Jevíčko
-Zavíráme za 45 minut
+Zavíráme za 40 minut
 Kladno
 Otevřeno do
 Kroměříž
@@ -70,7 +69,7 @@ Prostějov
 Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Rychnov nad Kněžnou
-Zavíráme za 15 minut
+Zavíráme za 10 minut
 Sokolov
 Otevřeno do
 Svitavy
@@ -91,12 +90,13 @@ Velké Meziříčí
 Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Vysoké Mýto
-Zavíráme za 15 minut
+Zavíráme za 10 minut
+20. 11. od 11.00 hod INVENTURA
 Zábřeh
 Otevřeno do
+20. 11. od 11.00 hod INVENTURA
 Zastávka u Brna
 Otevřeno do
-6. 11. od 11.00 hod INVENTURA
 Zlín
 Otevřeno do
 Žďár nad Sázavou
@@ -582,4 +582,4 @@ Regulace teploty - termostaty
 Regulace vlhkosti
 Čidla tlaku
 Další kategorie
-Čidla tepl
+Čidla te

@@ -1,4 +1,4 @@
-# SB-806 datageneral.co · news_1 · https://datageneral.co/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-806 datageneral.co · news_1 · https://datageneral.co/blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Blog | Data General
 Home
 Products
@@ -12,6 +12,7 @@ Industry
 Offices
 Residential & SME
 Resources
+Firmware
 Knowledge Base
 Blog
 Company
@@ -30,6 +31,7 @@ Industry
 Offices
 Residential & SME
 Resources
+Firmware
 Knowledge Base
 Blog
 Company
@@ -49,6 +51,7 @@ Industry
 Offices
 Residential & SME
 Resources
+Firmware
 Knowledge Base
 Blog
 Company
@@ -67,6 +70,7 @@ Industry
 Offices
 Residential & SME
 Resources
+Firmware
 Knowledge Base
 Blog
 Company

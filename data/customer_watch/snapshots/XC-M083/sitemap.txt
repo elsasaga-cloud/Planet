@@ -1,10 +1,14 @@
-# XC-M083 Aspect（Skopje） · sitemap · https://aspect.com.mk/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
-2026-11-09T07:37:32.067Z	https://www.aspect.com.mk
-2026-11-09T07:37:32.067Z	https://www.aspect.com.mk/about
-2026-11-09T07:37:32.067Z	https://www.aspect.com.mk/contact
-2026-11-09T07:37:32.067Z	https://www.aspect.com.mk/products/mobile-terminals
-2026-11-09T07:37:32.067Z	https://www.aspect.com.mk/products/barcode-scanners
-2026-11-09T07:37:32.067Z	https://www.aspect.com.mk/products/label-printers
+# XC-M083 Aspect（Skopje） · sitemap · https://aspect.com.mk/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+	https://www.aspect.com.mk
+	https://www.aspect.com.mk/about
+	https://www.aspect.com.mk/contact
+	https://www.aspect.com.mk/products/mobile-terminals
+	https://www.aspect.com.mk/products/barcode-scanners
+	https://www.aspect.com.mk/products/label-printers
+2026-11-09T15:13:15.089Z	https://www.aspect.com.mk/products/label-printers/honeywell-pc42e-t
+2026-11-09T15:13:14.022Z	https://www.aspect.com.mk/products/mobile-terminals/datalogic-memor-35x
+2026-11-09T15:13:12.008Z	https://www.aspect.com.mk/products/barcode-scanners/honeywell-xenon-ultra-1962g
+2026-11-09T15:13:10.154Z	https://www.aspect.com.mk/products/barcode-scanners/honeywell-granit-ultra-2105i
 2026-04-24T09:36:14.944Z	https://www.aspect.com.mk/products/mobile-terminals/honeywell-ct70
 2025-10-27T09:43:48.870Z	https://www.aspect.com.mk/products/barcode-scanners/honeywell-hf810
 2025-10-27T09:43:58.311Z	https://www.aspect.com.mk/products/barcode-scanners/honeywell-hf680

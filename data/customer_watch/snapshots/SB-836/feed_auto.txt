@@ -1,4 +1,21 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-10T10:04:27Z · HTTP 200
+10.11.2026 10.32.40	ICS-2400 Industrial Serial Devive Server	https://www.fiberworks.no/planet/mc-planet-ics-2400t/ics-2400-industrial-serial-devive-server-4x-rs232-rs422-rs485-db-9-to-2x-rj45
+10.11.2026 10.28.13	Trunk SM 2xMPO12/APC(f)/(f) Pol. A 40 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fam1f-40/trunk-sm-2xmpo12-apcf-f-pol-a-40-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
+09.11.2026 22.20.28	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-4m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-4-meter-fiberworks
+09.11.2026 22.16.46	QSFP28 to 4 SFP28 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28d-1-dot-5-u/qsfp28-to-4-sfp28-twinax-cable-dac-100gbase-cr4-passive-1-dot-5-m-fiberworks
+09.11.2026 22.13.09	QSFP28 to 4 SFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28a-15m-u/qsfp28-to-4-sfp28-active-optical-cable-100gbase-sr4-aoc-15-meter-fiberworks
+09.11.2026 22.07.14	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-2-dot-5m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-2-dot-5-meter-fiberworks
+09.11.2026 22.06.44	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-20m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-20-meter-fiberworks
+09.11.2026 22.06.13	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-25m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-25-meter-fiberworks
+09.11.2026 22.05.38	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-1-dot-5m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-1-dot-5-meter-fiberworks
+09.11.2026 22.03.26	QSFP28 to 4 SFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28a-2m-u/qsfp28-to-4-sfp28-active-optical-cable-100gbase-sr4-aoc-2-meter-fiberworks
+09.11.2026 20.10.20	SFP+ Active Optical cable (AOC)	https://www.fiberworks.no/fiberworks-as/sfp-10gb-aoc-7m-u/sfp-plus--active-optical-cable-aoc-10gbps-aoc-7-meter-fiberworks
+09.11.2026 20.09.44	SFP+ Active Optical cable (AOC)	https://www.fiberworks.no/fiberworks-as/sfp-10gb-aoc-0-dot-5m-u/sfp-plus--active-optical-cable-aoc-10gbps-aoc-0-dot-5-meter-fiberworks
+09.11.2026 20.06.37	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2-dot-5m-u/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2-dot-5m-fiberworks
+09.11.2026 20.06.09	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2m-u/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2m-fiberworks
+09.11.2026 20.05.32	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-1m-u/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-1m-fiberworks
+09.11.2026 12.05.18	SFP+ BiDi, 10 GE, DDM, SM, 10km	https://www.fiberworks.no/fiberworks-as/sfp-10ge-bx10d-32-ho/sfp-plus--bidi-10-ge-ddm-sm-10km-tx-rx1330-1270nm-9db-lc-hp-instant-on
+09.11.2026 12.03.56	SFP+ BiDi, 10 GE, DDM, SM, 10km	https://www.fiberworks.no/fiberworks-as/sfp-10ge-bx10d-23-ho/sfp-plus--bidi-10-ge-ddm-sm-10km-tx-rx1270-1330nm-9db-lc-hp-instant-on
 09.11.2026 10.20.06	Preterm SM G48 QXAI LC/UPC-SC/UPC 22 m	https://www.fiberworks.no/fiberworks-as/pk-y48lt-lcu-scu-022/preterm-sm-g48-qxai-lc-upc-sc-upc-22-m-9-os2-g-dot-657-dot-a1-900%c2%b5m-haler-l1-8-1-8-m
 06.11.2026 09.16.36	QSFP28, 100G/40G SRBD, 2x50 Gbps, 150m	https://www.fiberworks.no/fiberworks-as/qsfp28-sr-bd-ar/qsfp28-100g-40g-srbd-2x50-gbps-150m-850-910-nm-3db-mm-lc-arista
 04.11.2026 12.40.58	Patch SM MPO/APC8(m)/(m), pol B, 12 m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mbm8m-12/patch-sm-mpo-apc8m-m-pol-b-12-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
@@ -46,19 +63,4 @@
 26.10.2026 13.19.32	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-1m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-1m-juniper
 26.10.2026 13.12.37	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2-dot-5m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2-dot-5m-juniper
 26.10.2026 10.02.09	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2m-juniper
-26.10.2026 08.54.23	Modul SM 1xMPO/APC12(m)-12SC/UPC Pol. U1	https://www.fiberworks.no/fiberworks-as/mpb4-kea1-1m1mf12su/modul-sm-1xmpo-apc12m-12sc-upc-pol-dot--u1-9-os2-mpb4-modul-1x-base-12-elite
-23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 35 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-35/trunk-sm-2xmpo12-apcf-f-pol-b-35-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
-23.10.2026 14.49.04	Trunk SM 2xMPO12/APC(f)/(f) Pol B 25 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fbm1f-25/trunk-sm-2xmpo12-apcf-f-pol-b-25-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
-23.10.2026 12.18.03	DIN boks MAXI MPO/APC-12xSC/UPC Pol. U1	https://www.fiberworks.no/fiberworks-as/pd1-kea2-1m1mf12su/din-boks-maxi-mpo-apc-12xsc-upc-pol-dot--u1-g-dot-657-dot-a2-mpo-apc12-hann-base-12-elite
-23.10.2026 11.20.53	Fout SM MPO/APC12(m)-12xSC/UPC 0,3 m	https://www.fiberworks.no/fiberworks-as/p-7a2-m1y-mmx12su0-dot-3/fout-sm-mpo-apc12m-12xsc-upc-0-3-m-g-dot-657-dot-a2-yellow-0-9mm-fan-out-0-3-m
-23.10.2026 10.07.39	Snor SM DPX Armert LC/UPC-LC/UPC 20 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-20/snor-sm-dpx-armert-lc-upc-lc-upc-20-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 15 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-15/snor-sm-dpx-armert-lc-upc-lc-upc-15-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 12 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-12/snor-sm-dpx-armert-lc-upc-lc-upc-12-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 10 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-10/snor-sm-dpx-armert-lc-upc-lc-upc-10-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 7 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-07/snor-sm-dpx-armert-lc-upc-lc-upc-7-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 5 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-05/snor-sm-dpx-armert-lc-upc-lc-upc-5-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 4 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-04/snor-sm-dpx-armert-lc-upc-lc-upc-4-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.38	Snor SM DPX Armert LC/UPC-LC/UPC 2,5 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu2-dot-5/snor-sm-dpx-armert-lc-upc-lc-upc-2-5-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.37	Snor SM DPX Armert LC/UPC-LC/UPC 2 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-02/snor-sm-dpx-armert-lc-upc-lc-upc-2-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.37	Snor SM DPX Armert LC/UPC-LC/UPC 1,5 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu1-dot-5/snor-sm-dpx-armert-lc-upc-lc-upc-1-5-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-lc-uniboot-gul-lszh
-23.10.2026 10.07.37	Snor SM DPX Armert LC/UPC-LC/UPC 0,5 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu0-dot-5/snor-sm-dpx-armert-lc-upc-lc-upc-0-5-m-9-os2-g-
+26.10.2026 08.54

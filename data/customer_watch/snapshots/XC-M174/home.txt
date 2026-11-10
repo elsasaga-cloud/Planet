@@ -1,6 +1,6 @@
-# XC-M174 Control Technologies UK Ltd · home · https://controltech.uk.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# XC-M174 Control Technologies UK Ltd · home · https://controltech.uk.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Control Technologies UK | Webshop
-Skip to content 🎓 The CT-UK Academy is LIVE! Start learning CAN with our FREE Fundamentals course. More specialist courses coming soon. Explore now →
+Skip to content 🎓 The CT-UK Academy is LIVE! Our first specialist course, CAN Physical Layer, is now available. Develop your CAN expertise. Explore now →
 Menu
 Search
 0
@@ -77,6 +77,7 @@ CT-UK Academy
 About the Academy
 All Courses
 CAN Fundamentals (Free)
+CAN Physical Layer
 Search Products
 Reviews
 Contact
@@ -619,6 +620,7 @@ CT-UK Academy
 About the Academy
 All Courses
 CAN Fundamentals (Free)
+CAN Physical Layer
 The UK’s go-to source for CANbus
 hardware, software & accessories
 Search for a product
@@ -639,11 +641,11 @@ FMB204
 Regular price $93.00 (Excl VAT)
 Explore all CSS Electronics products
 CANsub
-From $568.00 (Excl VAT)
+From $569.00 (Excl VAT)
 CANedge3: 2x CAN Bus Data Logger (SD + 3G/4G + GPS/IMU)
 From $978.00 (Excl VAT)
 CANedge2: 2x CAN Bus Data Logger (SD + WiFi + GPS/IMU)
-From $953.00 (Excl VAT)
+From $954.00 (Excl VAT)
 Explore all Topcon products
 Opus A8 Standard Basic with CoDeSys Programming
 Opus A6 2nd Generation Standard Full with CoDeSys programming
@@ -657,11 +659,11 @@ Regular price $778.00 (Excl VAT)
 PCAN Repeater DR
 Regular price $358.00 (Excl VAT)
 PCAN-Explorer 7
-From $839.00 (Excl VAT)
+From $840.00 (Excl VAT)
 PCAN-Explorer 7: Bus Descriptions Add-in 7
 From $254.00 (Excl VAT)
 MU-Thermocouple1 CAN
-Regular price $964.00 (Excl VAT)
+Regular price $965.00 (Excl VAT)
 Explore all
 Our Reviews
 Industry-leading engineering and technology solutions. We create the world of tomorrow through solving the issues of today.

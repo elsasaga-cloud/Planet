@@ -1,4 +1,4 @@
-# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Direktronik - dataprodukter utöver det vanliga
 Varukorg
 Summa produkter:
@@ -150,7 +150,6 @@ ESD/ Renrum
 Tangentbord & Möss
 Hygieniska tillbehör
 Data- och Nätverkstest
-Nätverkstester
 Kabeltester CCTV-tester
 Nätverkstappar
 Tillbehör Testinstrument
@@ -167,7 +166,6 @@ Kablar
 Adaptrar/ Kontaktdon/ Kåpor
 Portlås
 Modulartillbehör
-Kontaktdon
 Adaptrar & donövergångar
 Könbytare
 Kåpor - D-SUB
@@ -185,7 +183,6 @@ Koaxkabel
 Koaxkabel metervara
 Kontakterad Koaxkabel
 Data- och Nätverkstest
-Nätverkstester
 Kabeltester CCTV-tester
 Nätverkstappar
 Tillbehör Testinstrument
@@ -245,12 +242,10 @@ Filament & Tillbehör
 Adaptrar/ Kontaktdon/ Kåpor
 Portlås
 Modulartillbehör
-Kontaktdon
 Adaptrar & donövergångar
 Könbytare
 Kåpor - D-SUB
 Data- och Nätverkstest
-Nätverkstester
 Kabeltester CCTV-tester
 Nätverkstappar
 Tillbehör Testinstrument
@@ -514,7 +509,6 @@ Skyddsväskor
 Ryggssäckar och Organizers
 Tillbehör Förvaring
 Data- och Nätverkstest
-Nätverkstester
 Kabeltester CCTV-tester
 Nätverkstappar
 Tillbehör Testinstrument
@@ -646,4 +640,8 @@ Vi kan nätverk
 Vi ser till att lösa dina problem genom vår expertis, nedan finner du ett urval av våra nätverksprodukter!
 Best.nr 20104379
 4-portars Gigabit PoE-injektorer
-Två DC/DC PoE-injektorer som tillhandahåller fyra olika spänningar för inkommande DC. Den utgående effekten är maximalt 35W per port för artikel 20104379 (aktiv PoE)
+Två DC/DC PoE-injektorer som tillhandahåller fyra olika spänningar för inkommande DC. Den utgående effekten är maximalt 35W per port för artikel 20104379 (aktiv PoE) eller 1A per port för 20104378 (passiv PoE)
+2 810 SEK
+exkl. moms
+Lägg i varukorg
+

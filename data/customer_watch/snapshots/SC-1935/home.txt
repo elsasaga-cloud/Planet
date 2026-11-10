@@ -1,4 +1,4 @@
-# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 ADDER AKCP HW-group kvm-tec Moxa Neol - Leunig
 sales@leunig.de
 0800 40 77 88 1 ( +49 8631 986000 )
@@ -42,14 +42,14 @@ Extender anzeigen
 Serverraum Überwachung
 Serverraum Überwachung anzeigen
 Temperaturüberwachung
-IP Thermometer
 Luftfeuchtigkeitsüberwachung
 Branderkennung
 Wassersensor
 Potentialfreier Kontakt und Relais
 Bewegung, Vibration, andere Sensoren
 GSM, SMS Alarmierung
-Monitoring-Systeme
+IP Thermometer
+Serverraum Monitoring
 Serverraum Überwachung anzeigen
 Industrie-Komponenten
 Industrie-Komponenten anzeigen
@@ -184,6 +184,16 @@ Lieferzeit:
 1-3 Tage
 Serverraum über LAN, WLAN oder PoE. 2 Ports, bis 5 Werte, 2 Eingänge, Fühler 3 m dabei. Lagernd, Versand i. d. R. am selben Tag.
 TOP
+-26%
+RARITAN Dominion KX4 101 single port KVM...
+Dominion KX4-101, IP-Switch, 1 IP-Port 1 Server-Port, opt. lokale Console Kabel f. USB und PS/2, incl. RMK
+Lieferzeit:
+1-3 Tage
+Nur 649,00 EUR
+Lieferzeit:
+1-3 Tage
+Dominion KX4-101, IP-Switch, 1 IP-Port 1 Server-Port, opt. lokale Console Kabel f. USB und PS/2, incl. RMK
+TOP
 12-port full Gigabit managed Ethernet switch,...
 Lieferzeit:
 > 4 Wochen
@@ -219,16 +229,6 @@ Nur 295,00 EUR
 Lieferzeit:
 1-3 Tage
 1-Port USB 2.0, bis 100 m über Cat.5e. Netzteil am LEX oder REX, 1 A am Gerät. USB-Kabel im Lieferumfang.
-TOP
--33%
-Robustel R5020-5G-A09GL-A Smart 5G Router...
-5G Router von Robustel R5020-5G, Dual SIM, inkl. Antennen und Netzteil, für Fahrzeugeinbau auch ACC.
-Lieferzeit:
-> 4 Wochen
-Nur 399,00 EUR
-Lieferzeit:
-> 4 Wochen
-5G Router von Robustel R5020-5G, Dual SIM, inkl. Antennen und Netzteil, für Fahrzeugeinbau auch ACC.
 {
 window.gambio.widgets.init($(swiperElement));
 window.gambio.widgets.init($(hoverElement));

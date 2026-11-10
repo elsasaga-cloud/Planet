@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3989)
+Svi proizvodi (3991)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -395,10 +395,10 @@ Wireless minPCI
 Wireless 300Mb/s
 Wireless 802.11a 5GHz
 High Power kartice
-UPS-ovi, inverteri i ispravljači (299)
-UPS-ovi standardni (125)
-On-line UPS-ovi (65)
-Rek UPS-ovi 19" (51)
+UPS-ovi, inverteri i ispravljači (302)
+UPS-ovi standardni (126)
+On-line UPS-ovi (66)
+Rek UPS-ovi 19" (52)
 Inverteri (10)
 DC napajanja (28)
 Punjači (1)
@@ -416,7 +416,7 @@ NAS Storage i HDD kućišta (18)
 Print serveri
 Ruter ploče i kućišta (47)
 Voki toki Motorola (8)
-Antene i komponente (167)
+Antene i komponente (168)
 Antene 2.4GHz (36)
 Antene 0.8-2.5GHz (2)
 Antene 3.5GHz (2)

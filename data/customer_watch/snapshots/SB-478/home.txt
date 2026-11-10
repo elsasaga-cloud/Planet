@@ -1,4 +1,4 @@
-# SB-478 eurocamguvenlik.com.tr · home · https://eurocamguvenlik.com.tr/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-478 eurocamguvenlik.com.tr · home · https://eurocamguvenlik.com.tr/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Eurocam Güvenlik | Güvenlik Kameraları, CCTV & IP Kamera İthalatçısı
 Ürün ara
 ×
@@ -52,8 +52,8 @@ EUROLINK
 KABLOLAR 10
 DATA KABLO 3
 CCTV KABLOLAR 7
-POE SWITCHLER 10
-GIGABIT SWITCH 5
+POE SWITCHLER 11
+GIGABIT SWITCH 6
 MEGABIT SWITCH 5
 FİBER OPTİK 11
 NETWORK EKİPMANLAR 9
@@ -639,7 +639,7 @@ Bayilere Özel
 ♥
 İncele
 Stok Kodu: EC-TV-638
-Marka: eurocam
+Marka: EUROCAM
 Eurocam Güvenlik ve Elektronik Sistemleri San. Dış Tic. Ltd. Şti.
 Perpa · İstanbul · Güvenlik sistemleri
 Halil Rıfat Paşa Mah. Yüzer Havuz Sok. Perpa Ticaret Merkezi A Blok 8. Kat No:918, 34384 Şişli / İstanbul

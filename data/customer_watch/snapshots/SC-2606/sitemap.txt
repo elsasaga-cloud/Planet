@@ -1,4 +1,4 @@
-# SC-2606 logicbus.com · sitemap · https://www.logicbus.com/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2606 logicbus.com · sitemap · https://www.logicbus.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
 2026-11-07	https://www.logicbus.com/
 2026-11-07	https://www.logicbus.com/software-iot
 2026-11-07	https://www.logicbus.com/software-iot-programming

@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-09T09:57:20Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-10T10:04:27Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -23,6 +23,108 @@ Produkty w koszyku: 0. Zobacz szczegóły
 Koszyk
 Twój koszyk jest pusty
 Wstecz
+ROZWIĄZANIA AUDIO-WIDEO
+Wszystko z
+ROZWIĄZANIA AUDIO-WIDEO
+NAGŁOŚNIENIE
+WIDEOKONFERENCJE
+WYŚWIETLANIE
+STREAMING
+AKCESORIA WIDEO
+AUDIOKONFERENCJE
+GOTOWE ROZWIĄZANIA
+PĘTLE INDUKCYJNE
+Wróć do:
+Kamery szerokokątne
+Wideobary
+Wideoterminale
+Dedykowane zestawy
+Kamery internetowe
+Kamery PTZ Obrotowe
+Zestawy
+Platformy
+Bezprzewodowe
+Do średniej sali do 20 osób
+Do małej sali do 8 osób
+Do dużej sali pow. 20 osób
+Ekrany projekcyjne
+Systemy rezerwacji sal
+Bezprzewodowe prezentacje
+Telewizory
+Projektory
+Monitory Wielkoformatowe
+Biznesowe
+Hotelowe
+Lampowe
+Laserowe
+Akcesoria
+Bez dotyku
+Typu Digital Signage
+Dotykowe
+Komputery OPS
+Kamery PTZ Obrotowe
+Statywy
+Mikrofony
+Mediakonwertery
+Grabbery
+Uchwyty do projektorów
+Kable
+Extendery
+Splittery HDMI
+Stacje dokujące
+Uchwyty do monitorów
+HDMI
+USB
+USB A
+USB C
+Stałe
+Uchylne
+Na ramieniu
+Mobilne wózki
+Zestawy głośnomówiące
+Telefony konferencyjne IP
+Dla edukacji
+Dla obiektów handlowych
+Dla hoteli i gastronomii
+Dla placówek medycznych
+Dla obiektów sportowych
+Stanowiskowe
+Powierzchniowe
+Akcesoria
+SŁUCHAWKI DO KOMUNIKACJI
+Wszystko z
+SŁUCHAWKI DO KOMUNIKACJI
+DLA BIUR I CALL CENTER
+SYSTEMY SŁUCHAWKOWE
+SŁUCHAWKI SPECJALISTYCZNE
+MEBLE TELEKOMUNIKACYJNE
+Wróć do:
+Przewodowe
+Bezprzewodowe
+Jednouszne
+Dwuuszne
+Przewodowe
+Bezprzewodowe
+Jednouszne
+Dwuuszne
+Kable przyłączeniowe
+Gąbki
+Adaptery
+Dla magazynów/sieci handlowych
+Typu Tour guide
+Akcesoria
+Słuchawki
+Mikrofony
+Ładowarki
+Walizki/Torby Transportowe
+Higiena
+Słuchawki z radiotelefonem
+Słuchawki z bluetooth
+Słuchawki kablowe
+Akcesoria
+Panele akustyczne
+Budki akustyczne
+Ekrany akustyczne
 TELEFONY
 Wszystko z
 TELEFONY
@@ -114,108 +216,6 @@ Do 50 pracowników
 Do 100 pracowników
 Do 200 pracowników
 Samodzielne
-ROZWIĄZANIA AUDIO-WIDEO
-Wszystko z
-ROZWIĄZANIA AUDIO-WIDEO
-NAGŁOŚNIENIE
-WIDEOKONFERENCJE
-WYŚWIETLANIE
-STREAMING
-AKCESORIA WIDEO
-AUDIOKONFERENCJE
-GOTOWE ROZWIĄZANIA
-PĘTLE INDUKCYJNE
-Wróć do:
-Kamery szerokokątne
-Wideobary
-Wideoterminale
-Dedykowane zestawy
-Kamery internetowe
-Kamery PTZ Obrotowe
-Zestawy
-Platformy
-Bezprzewodowe
-Do średniej sali do 20 osób
-Do małej sali do 8 osób
-Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
-Bezprzewodowe prezentacje
-Telewizory
-Projektory
-Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
-Lampowe
-Laserowe
-Akcesoria
-Bez dotyku
-Typu Digital Signage
-Dotykowe
-Komputery OPS
-Kamery PTZ Obrotowe
-Statywy
-Mikrofony
-Mediakonwertery
-Grabbery
-Uchwyty do projektorów
-Kable
-Extendery
-Splittery HDMI
-Stacje dokujące
-Uchwyty do monitorów
-HDMI
-USB
-USB A
-USB C
-Stałe
-Uchylne
-Na ramieniu
-Mobilne wózki
-Zestawy głośnomówiące
-Telefony konferencyjne IP
-Dla obiektów handlowych
-Dla hoteli i gastronomii
-Dla placówek medycznych
-Dla obiektów sportowych
-Dla edukacji
-Powierzchniowe
-Akcesoria
-Stanowiskowe
-SŁUCHAWKI DO KOMUNIKACJI
-Wszystko z
-SŁUCHAWKI DO KOMUNIKACJI
-DLA BIUR I CALL CENTER
-SYSTEMY SŁUCHAWKOWE
-SŁUCHAWKI SPECJALISTYCZNE
-MEBLE TELEKOMUNIKACYJNE
-Wróć do:
-Przewodowe
-Bezprzewodowe
-Jednouszne
-Dwuuszne
-Przewodowe
-Bezprzewodowe
-Jednouszne
-Dwuuszne
-Kable przyłączeniowe
-Gąbki
-Adaptery
-Dla magazynów/sieci handlowych
-Typu Tour guide
-Akcesoria
-Słuchawki
-Mikrofony
-Ładowarki
-Walizki/Torby Transportowe
-Higiena
-Słuchawki z radiotelefonem
-Słuchawki z bluetooth
-Słuchawki kablowe
-Akcesoria
-Panele akustyczne
-Budki akustyczne
-Ekrany akustyczne
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -252,9 +252,9 @@ Skanery kodów
 Jednostki główne
 Czujniki
 Akcesoria
+NAS Desktop
 NAS Rack
 Dyski NAS
-NAS Desktop
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -317,6 +317,121 @@ Blog
 Kontakt
 Projekty
 Wstecz
+ROZWIĄZANIA AUDIO-WIDEO
+Wszystko z
+ROZWIĄZANIA AUDIO-WIDEO
+NAGŁOŚNIENIE
+WIDEOKONFERENCJE
+WYŚWIETLANIE
+STREAMING
+AKCESORIA WIDEO
+AUDIOKONFERENCJE
+GOTOWE ROZWIĄZANIA
+PĘTLE INDUKCYJNE
+Wróć do:
+Głośniki
+Wzmacniacze
+Miksery
+Matryce
+Mikrofony
+Systemy mikrofonowe
+Źródła dźwięku
+Akcesoria
+Kamery szerokokątne
+Wideobary
+Wideoterminale
+Dedykowane zestawy
+Kamery internetowe
+Kamery PTZ Obrotowe
+Zestawy
+Platformy
+Bezprzewodowe
+Do średniej sali do 20 osób
+Do małej sali do 8 osób
+Do dużej sali pow. 20 osób
+Ekrany projekcyjne
+Systemy rezerwacji sal
+Bezprzewodowe prezentacje
+Telewizory
+Projektory
+Monitory Wielkoformatowe
+Biznesowe
+Hotelowe
+Lampowe
+Laserowe
+Akcesoria
+Bez dotyku
+Typu Digital Signage
+Dotykowe
+Komputery OPS
+Kamery PTZ Obrotowe
+Statywy
+Mikrofony
+Mediakonwertery
+Grabbery
+Uchwyty do projektorów
+Kable
+Extendery
+Splittery HDMI
+Stacje dokujące
+Uchwyty do monitorów
+HDMI
+USB
+USB A
+USB C
+Stałe
+Uchylne
+Na ramieniu
+Mobilne wózki
+Zestawy głośnomówiące
+Telefony konferencyjne IP
+Dla edukacji
+Dla obiektów handlowych
+Dla hoteli i gastronomii
+Dla placówek medycznych
+Dla obiektów sportowych
+Stanowiskowe
+Powierzchniowe
+Akcesoria
+SŁUCHAWKI DO KOMUNIKACJI
+Wszystko z
+SŁUCHAWKI DO KOMUNIKACJI
+DLA BIUR I CALL CENTER
+SYSTEMY SŁUCHAWKOWE
+SŁUCHAWKI SPECJALISTYCZNE
+MEBLE TELEKOMUNIKACYJNE
+Wróć do:
+Do telefonów stacjonarnych
+Do smartfonów
+Do komputera
+Certyfikowane Teams
+Akcesoria
+Przewodowe
+Bezprzewodowe
+Jednouszne
+Dwuuszne
+Przewodowe
+Bezprzewodowe
+Jednouszne
+Dwuuszne
+Kable przyłączeniowe
+Gąbki
+Adaptery
+Dla magazynów/sieci handlowych
+Typu Tour guide
+Akcesoria
+Słuchawki
+Mikrofony
+Ładowarki
+Walizki/Torby Transportowe
+Higiena
+Słuchawki z radiotelefonem
+Słuchawki z bluetooth
+Słuchawki kablowe
+Akcesoria
+Panele akustyczne
+Budki akustyczne
+Ekrany akustyczne
 TELEFONY
 Wszystko z
 TELEFONY
@@ -423,121 +538,6 @@ Do 50 pracowników
 Do 100 pracowników
 Do 200 pracowników
 Samodzielne
-ROZWIĄZANIA AUDIO-WIDEO
-Wszystko z
-ROZWIĄZANIA AUDIO-WIDEO
-NAGŁOŚNIENIE
-WIDEOKONFERENCJE
-WYŚWIETLANIE
-STREAMING
-AKCESORIA WIDEO
-AUDIOKONFERENCJE
-GOTOWE ROZWIĄZANIA
-PĘTLE INDUKCYJNE
-Wróć do:
-Głośniki
-Wzmacniacze
-Miksery
-Matryce
-Mikrofony
-Systemy mikrofonowe
-Źródła dźwięku
-Akcesoria
-Kamery szerokokątne
-Wideobary
-Wideoterminale
-Dedykowane zestawy
-Kamery internetowe
-Kamery PTZ Obrotowe
-Zestawy
-Platformy
-Bezprzewodowe
-Do średniej sali do 20 osób
-Do małej sali do 8 osób
-Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
-Bezprzewodowe prezentacje
-Telewizory
-Projektory
-Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
-Lampowe
-Laserowe
-Akcesoria
-Bez dotyku
-Typu Digital Signage
-Dotykowe
-Komputery OPS
-Kamery PTZ Obrotowe
-Statywy
-Mikrofony
-Mediakonwertery
-Grabbery
-Uchwyty do projektorów
-Kable
-Extendery
-Splittery HDMI
-Stacje dokujące
-Uchwyty do monitorów
-HDMI
-USB
-USB A
-USB C
-Stałe
-Uchylne
-Na ramieniu
-Mobilne wózki
-Zestawy głośnomówiące
-Telefony konferencyjne IP
-Dla obiektów handlowych
-Dla hoteli i gastronomii
-Dla placówek medycznych
-Dla obiektów sportowych
-Dla edukacji
-Powierzchniowe
-Akcesoria
-Stanowiskowe
-SŁUCHAWKI DO KOMUNIKACJI
-Wszystko z
-SŁUCHAWKI DO KOMUNIKACJI
-DLA BIUR I CALL CENTER
-SYSTEMY SŁUCHAWKOWE
-SŁUCHAWKI SPECJALISTYCZNE
-MEBLE TELEKOMUNIKACYJNE
-Wróć do:
-Do telefonów stacjonarnych
-Do smartfonów
-Do komputera
-Certyfikowane Teams
-Akcesoria
-Przewodowe
-Bezprzewodowe
-Jednouszne
-Dwuuszne
-Przewodowe
-Bezprzewodowe
-Jednouszne
-Dwuuszne
-Kable przyłączeniowe
-Gąbki
-Adaptery
-Dla magazynów/sieci handlowych
-Typu Tour guide
-Akcesoria
-Słuchawki
-Mikrofony
-Ładowarki
-Walizki/Torby Transportowe
-Higiena
-Słuchawki z radiotelefonem
-Słuchawki z bluetooth
-Słuchawki kablowe
-Akcesoria
-Panele akustyczne
-Budki akustyczne
-Ekrany akustyczne
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -578,9 +578,9 @@ Skanery kodów
 Jednostki główne
 Czujniki
 Akcesoria
+NAS Desktop
 NAS Rack
 Dyski NAS
-NAS Desktop
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP

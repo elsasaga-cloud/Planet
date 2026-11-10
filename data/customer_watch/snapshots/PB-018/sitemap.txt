@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
 	https://powerbizt.hu/termekek/2044
 	https://powerbizt.hu/termekek/2052f
 	https://powerbizt.hu/termekek/2052m
@@ -222,7 +222,6 @@
 	https://powerbizt.hu/termekek/ips-80-feher-50-db
 	https://powerbizt.hu/termekek/918-abt
 	https://powerbizt.hu/termekek/918-f-100db
-	https://powerbizt.hu/termekek/919800tka-800db
 	https://powerbizt.hu/termekek/apolo-91-gasa
 	https://powerbizt.hu/termekek/apolo-920-f-100-db
 	https://powerbizt.hu/termekek/920fp-100db
@@ -233,7 +232,6 @@
 	https://powerbizt.hu/termekek/9221000-xha
 	https://powerbizt.hu/termekek/922800xha-800db
 	https://powerbizt.hu/termekek/924-agrp-200-db-1-1
-	https://powerbizt.hu/termekek/925800tka-800db
 	https://powerbizt.hu/termekek/925-abt
 	https://powerbizt.hu/termekek/apolo-925-f-100-db
 	https://powerbizt.hu/termekek/925l-100-db
@@ -341,4 +339,6 @@
 	https://powerbizt.hu/termekek/9tplpz-50db
 	https://powerbizt.hu/termekek/9tr6-100-db
 	https://powerbizt.hu/termekek/apolo-9tr8c-100-db
-	https://powe
+	https://powerbizt.hu/termekek/apolo-atv-m6-100db
+	https://powerbizt.hu/termekek/apolo-atv-m8-s-50-db
+	http

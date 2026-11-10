@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -52,7 +52,6 @@ Tosibox
 MultiTech Systems
 SECLAB
 Icron Technologies
-TYREX
 Hâpy Services
 Taoglas
 A la categoría Productos
@@ -124,7 +123,6 @@ Routers 4G/5G IEC 62443
 Switches industriales IEC 62443
 Soluciones certificadas EN 18031
 Soluciones IEC 62443-4-2
-Estación de descontaminación USB
 VPN industrial
 KVM
 KVM Switch
@@ -217,9 +215,6 @@ Saber más
 Seclab
 Soluciones de ciberseguridad basadas en la ruptura protocolaire para asegurar infraestructuras críticas.
 Saber más
-TYREX
-Estaciones blancas USB certificadas CSPN para proteger sus sistemas contra ciberamenazas a través de dispositivos removibles.
-Saber más
 Tosibox
 Acceso remoto seguro y sencillo a sus redes OT mediante una solución escalable y segura (Firewall, VPN...).
 Saber más
@@ -233,9 +228,9 @@ PC industrial
 Descubrir
 Gateway LoRaWAN
 Descubrir
-Convertidor RS232 a Ethernet
+Audio sobre IP
 Descubrir
-Conversor USB a RS485
+PDU
 Descubrir
 Switch KVM
 Descubrir
@@ -248,12 +243,12 @@ Moxa EDS-205 - Switch no gestionable de 5 puertos
 Moxa NPort 5110 - Convertidor RS232 a Ethernet
 0,00 €*
 Moxa UPort 1150 - Convertidor USB a RS232/422/485 de 1 puerto
-Sintrones VBOX-3611-M12X - PC embebido para vehículos
-TERZ NITE-RS8-1100 - Switch no gestionable de 8 puertos
-Milesight UG65 - Gateway LoRaWAN semi-industrial
+NETIO PowerPDU 8KF - Unidad de distribución de energía (PDU)
 0,00 €*
-Milesight UR32 - Router 4G industrial
-246,70 €*
+ADDERLink - X50 - Par de extensores USB y VGA KVM CATx
+Sintrones ABOX-5221(P)(G)-IP66 - PC para Edge AI
+Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
+Kerlink Wirnet iStation M2 - LoRaWAN Gateway
 Su socio único para el
 Internet Industrial de las Cosas
 Más de 16 años de experiencia
@@ -271,24 +266,25 @@ Moxa NPort 5232 - Convertidor RS-422/485 a Ethernet de 2 puertos
 0,00 €*
 Moxa EDS-G512E - Switch Ethernet industrial
 0,00 €*
-Advantech EKI-7710E-2CP/2CPI - Switch PoE gestionable
-10,00 €*
 Sintrones SBOX-2320 - Box PC fanless
 Lanner LEC-2580 - PC industrial embebido
 10,00 €*
+ADDERLink INFINITY 2122R - IP KVM extender Receptor
+1.516,00 €*
+ADDERLink INFINITY 2122T - IP KVM extender Transmisor
+1.516,00 €*
+Barix RetailPlayer M400 - IP Audio Decoder
 Descubrir
-Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
-LoRaWAN gateway outdoor MultiTech Conduit IP67
-193,00 €*
-Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor en Helium
-Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
 Niseva XE33-1C-LoRa - Gateway LoRa
+Milesight SG50 - LoRaWAN Gateway solar
+Milesight UG63 - Mini LoRaWAN Gateway
+Milesight UG56 - LoRaWAN Gateway industrial
 Milesight UG67 - LoRaWAN Gateway Outdoor
 Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
+Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
+Gateway LoRaWAN industrial serie WISE-6610 de Advantech
 Gateway de red privada Advantech WISE-3610 Wireless IoT LoRa
-Milesight UG65-L04EU-868M-EA - LoRaWAN Gateway semi-industrial
-0,00 €*
-Milesight SG50 - LoRaWAN Gateway solar
+Kerlink Wirnet iStation M2 - LoRaWAN Gateway
 Moxa MPC-3070W - Panel PC fanless de 7"
 Moxa MPC-3100 - Panel PC fanless de 10.4"
 Moxa MPC-3120 - Panel PC fanless de 12.1"

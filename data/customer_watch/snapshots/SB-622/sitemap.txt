@@ -1,6 +1,6 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
 	https://market-telecom.kz/
-2026-11-09	https://market-telecom.kz/blog
+2026-11-10	https://market-telecom.kz/blog
 2026-11-09	https://market-telecom.kz/services
 2026-11-09	https://market-telecom.kz/products
 2026-11-09	https://market-telecom.kz/about_shop
@@ -12,7 +12,7 @@
 2026-11-09	https://market-telecom.kz/office_ats
 2026-11-09	https://market-telecom.kz/virtual-ats
 2026-11-09	https://market-telecom.kz/ivr
-2026-11-09	https://market-telecom.kz/mailserver
+2026-11-10	https://market-telecom.kz/mailserver
 2026-11-09	https://market-telecom.kz/city_phones
 2026-11-09	https://market-telecom.kz/crm
 2026-11-09	https://market-telecom.kz/networks
@@ -156,12 +156,12 @@
 2025-10-26	https://market-telecom.kz/blog/video-home
 2025-10-25	https://market-telecom.kz/blog/public-wifi
 2026-10-20	https://market-telecom.kz/blog/utp-305
-2025-10-03	https://market-telecom.kz/blog/nfc-mfu
+2026-11-10	https://market-telecom.kz/blog/nfc-mfu
 2026-09-29	https://market-telecom.kz/blog/game-ups
 2025-09-25	https://market-telecom.kz/blog/sfp-blog
 2025-10-28	https://market-telecom.kz/blog/dahua-sklad
 2026-09-26	https://market-telecom.kz/blog/o-standarte-19-dyujmov
-2025-09-10	https://market-telecom.kz/blog/kak-vybrat-mfu-dlya-nebolshogo-ofisa-na-35-sotrudnikov
+2026-11-10	https://market-telecom.kz/blog/kak-vybrat-mfu-dlya-nebolshogo-ofisa-na-35-sotrudnikov
 2026-09-26	https://market-telecom.kz/blog/vybor-shkaf
 2026-02-02	https://market-telecom.kz/blog/ups-med
 2025-10-01	https://market-telecom.kz/blog/ucheba-isss
@@ -171,7 +171,7 @@
 2026-05-28	https://market-telecom.kz/blog/skud-vybor
 2026-05-30	https://market-telecom.kz/blog/hdd-archive
 2025-10-26	https://market-telecom.kz/blog/video-stroyka
-2025-10-01	https://market-telecom.kz/blog/mfu-str-laser
+2026-11-10	https://market-telecom.kz/blog/mfu-str-laser
 2025-11-15	https://market-telecom.kz/blog/vpn-buh
 2025-10-01	https://market-telecom.kz/blog/ssd-story
 2025-10-02	https://market-telecom.kz/blog/server-pc

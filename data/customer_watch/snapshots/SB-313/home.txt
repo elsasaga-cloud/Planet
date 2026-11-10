@@ -1,4 +1,4 @@
-# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 ინტელკომ ჯგუფი - ოპტიმალური გადაწყვეტები
 მომხმარებელი არ არის ვერიფიცირებული
 ვერიფიკაცია
@@ -170,45 +170,45 @@ LAN & WAN
 მონაცემთა შენახვა
 ახალი პროდუქტები
 ყველას ნახვა
+IP კამერა - 4მპ, 2.8მმ, Turret, Mic, SD, ANR, UMD, Uniview
+IPC3614LE-ADF28K-H3
+#04124
+240.57 ₾
+მარაგშია
 როუტერი - hEX S, E60iUGS, MikroTik
 E60iUGS
 #03639
 247.75 ₾
 მარაგშია
-მართვადი PoE სვიჩი - USW-Enterprise-24-PoE, Ubiquiti
-USW-Enterprise-24-PoE
-#03950
-3961.55 ₾
+ანალოგური კამერა 5MP 2.8mm, Bullet, IR, Mic, Uniview
+UAC-B115-AF28
+#04062
+69.26 ₾
 მარაგშია
-IP კამერა - 4მპ, 4მმ, Dome PT, UMD, Mic, SD, ANR, Uniview
-IPC6214LFW-AF40C
-#03599
-236.93 ₾
+მიწისქვეშა ყუთი აკუმულატორებისთვის - ზომა 1, FCYD
+UBB-525-245-250-1
+#03365
+81.06 ₾
 მარაგშია
-PoE სვიჩი - 16x100 მბ/წმ PoE პორტი, 2x1000 მბ/წმ კომბო, არამართვადი
-NSW2020-16T2GC-LPOE-IN
-#04054
-351.85 ₾
+LTU Extreme-Range
+LTU-XR-EU
+#03571
+604.66 ₾
 მარაგშია
-UniFi Cloud Gateway - Dream Router 7, Ubiquiti
-UDR7-EU
-#03645
-1456.92 ₾
+Device Bridge Pro
+UDB-Pro-EU
+#03603
+953.14 ₾
 მარაგშია
-უწყვეტი კვების წყარო (UPS) - 20KVA/18KW ინდუსტრიული / ტრანსფორმატორიანი UPS 3:3
-EP20
-#03484
-13692.36 ₾
+12 წვერიანი ADSS ოპტიკური კაბელი
+ADSS-SS-50M-12B1.3
+#04107
+1.90 ₾
 მარაგშია
-მართვადი PoE სვიჩი - CSS610-8P-2S+OUT
-CSS610-8P-2S+OUT
-#03962
-1038.25 ₾
-მარაგშია
-xPON ONU, 1 GPON/EPON port, 2x 1GE, WiFi ac, BDCOM
-GP1705-2G
-#02976
-126.22 ₾
+IP კამერა - 4მპ, 2.8მმ, Mic, SD, ANR, UMD, Wise-ISP, Uniview
+IPC2314LE-ADF28KM-WP-BLACK
+#04169
+277.02 ₾
 მარაგშია
 საინფორმაციო ბლოკი
 ყველას ნახვა

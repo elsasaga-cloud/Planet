@@ -1,7 +1,4 @@
-# SB-697 alliedasia.com.sg · home · https://alliedasia.com.sg/ · fetched 2026-11-09T09:57:20Z · HTTP 200
-Warning : "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/alliedas/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2734
-Warning : "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/alliedas/public_html/wp-content/plugins/revslider/includes/operations.class.php on line 2738
-Warning : "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/alliedas/public_html/wp-content/plugins/revslider/includes/output.class.php on line 3679
+# SB-697 alliedasia.com.sg · home · https://alliedasia.com.sg/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Allied Asia – Your Trusted Connectivity Solutions
 Comodo SSL
 Search here
@@ -692,4 +689,35 @@ SC/SC Adapters
 ST Adapters
 Audio Adapter
 Displayport Adapter
-Displayport 
+Displayport MST Hub
+Displayport to HDMI
+Displayport to USB-C
+Displayport to VGA
+Displayport to DVI
+Displayport to Mini DP
+DVI Adapter
+HDMI Adapter
+HDMI Adapter (Male/Female)
+HDMI Adapter (Female/Female)
+HDMI to USB-C
+HDMI to Displayport
+HDMI to VGA
+HDMI to DVI
+mini HDMI
+micro HDMI
+Mini Displayport Adapter
+Mini Displayport to DVI
+Mini Displayport to VGA
+Mini Displayport to HDMI
+Mini Displayport to DP
+USB Type-A Adapter
+USB-A (Male/Female)
+USB-A (Female/Female)
+USB Type-C Adapter
+USB-C (Male/Female)
+USB-C (Female/Female)
+HDMI
+HDMI Modular Matrix Switcher
+HDMI Video Capture
+HDMI Converter
+HDMI Audio DE-E

@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-10T10:04:27Z · HTTP 200
 IT and Telecom Blog for Dubai and UAE Businesses | NETON
 Home
 About Us
@@ -32,6 +32,11 @@ Odoo
 What this blog covers. Practical guides for IT managers, operations heads and business owners in Dubai and the UAE who are choosing, upgrading or securing their phone systems and IT. We explain business phone systems and SIP trunks, Wildix and x-bees, Microsoft Teams calling and session border controllers, cloud infrastructure, cybersecurity and backup, and Odoo ERP.
 Every article is written by the NETON Technologies LLC team in Dubai and focuses on what is different in the UAE: licensed carriers, TDRA and DNCR rules, data protection and local support. Browse by topic with the filters above, or start with our guides to business phone systems , SIP trunks and cybersecurity .
 Articles
+IT Support
+Windows 10 ESU Year 1 Has Ended: What UAE Businesses Should Do Now
+Windows 10 ESU Year 1 ended on 13 October 2026. What UAE businesses should do now: check coverage, enrol in Year 2, or move PCs…
+10 Nov 2026 · 8 min read
+Read more →
 Odoo
 UAE E-Invoicing: The Deadlines, and Where Odoo Fits
 Who must e-invoice in the UAE and by when, what the 2027 deadlines require, and how Odoo connects to an Accredited Service…
@@ -70,11 +75,6 @@ Read more →
 Contact Centre
 Contact Centre vs Call Centre: What the Terms Actually Mean
 A call centre handles phone calls; a contact centre handles every channel. What the terms mean, how CCaaS fits, and what UAE…
-30 Oct 2026 · 6 min read
-Read more →
-Telephony
-Cloud PBX vs On-Premise PBX: Which Fits a UAE Business
-Cloud PBX or on-premise in the UAE? Compare cost model, resilience, data location and SIP trunks, and see which option fits which…
 30 Oct 2026 · 6 min read
 Read more →
 1

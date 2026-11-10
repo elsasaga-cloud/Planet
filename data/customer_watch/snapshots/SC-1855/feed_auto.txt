@@ -1,4 +1,4 @@
-# SC-1855 kirac bilisim · feed_auto · https://www.zkr.com.tr/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1855 kirac bilisim · feed_auto · https://www.zkr.com.tr/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Thu, 23 Oct 2025 08:44:23 +0000	The Global Health Exhibition	https://www.zkr.com.tr/the-global-health-exhibition/
 Sat, 09 Sep 2023 14:41:30 +0000	The View Hospital QATAR Doha	https://www.zkr.com.tr/the-view-hospital-qatar-doha-2/
 Sat, 09 Sep 2023 14:40:56 +0000	Medica 2023 – Germany	https://www.zkr.com.tr/world-forum-for-medicene-2/

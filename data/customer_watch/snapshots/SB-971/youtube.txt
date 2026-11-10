@@ -1,4 +1,4 @@
-# SB-971 IPS · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxX4U4GbvH7NytCrCxbGkPg · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-971 IPS · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxX4U4GbvH7NytCrCxbGkPg · fetched 2026-11-10T10:04:27Z · HTTP 200
 2024-01-11T22:06:48+00:00	Our work in installing Automated Barriers	https://www.youtube.com/watch?v=ZcyqrLtf3PY
 2023-12-31T00:18:28+00:00	About IPS	https://www.youtube.com/watch?v=EygGxobhJx4
 2023-12-30T23:15:25+00:00	Connecting Your Printer with Evolis Print Mobile Service	https://www.youtube.com/watch?v=BOU79vuxUpo

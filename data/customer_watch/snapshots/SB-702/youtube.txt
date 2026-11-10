@@ -1,4 +1,4 @@
-# SB-702 ctsystem.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCk927AUhk0cSIhxTk48wW7g · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-702 ctsystem.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCk927AUhk0cSIhxTk48wW7g · fetched 2026-11-10T10:04:27Z · HTTP 200
 2023-07-17T09:46:19+00:00	That’s where WaaS comes in, CTS' solution for managed Wi-Fi	https://www.youtube.com/watch?v=o3NVHEd6DPE
 2021-10-21T02:08:53+00:00	Let's see what CTS Converter Solution could do for flexibly In-Home deployment	https://www.youtube.com/watch?v=hba6cyX_b1s
 2021-09-15T07:32:11+00:00	CTS FOS 10G solution helps ISPs Deploy FTTH Broadband to Cover Increased Demand	https://www.youtube.com/watch?v=oUM94ETIQAQ

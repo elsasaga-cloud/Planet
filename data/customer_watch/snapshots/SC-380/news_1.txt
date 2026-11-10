@@ -1,4 +1,4 @@
-# SC-380 iptime.com · news_1 · https://iptime.com/notices/news · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-380 iptime.com · news_1 · https://iptime.com/notices/news · fetched 2026-11-10T10:04:27Z · HTTP 200
 공지/뉴스-회사뉴스 | EFM - ipTIME
 메뉴 바로가기 본문 바로가기
 회사소개 인사말
@@ -53,19 +53,19 @@ DDNS 관리
 1165
 ipTIME, 2.5Gbps 지원 BE7200급 Wi-Fi 7 공유기 2종 BE7200M, BE7208M 출시
 2026-10-20
-526
+551
 1164
 아이피타임, 웹 관리 기능 갖춘 28포트 기가비트 스위칭 허브 ‘GM26002’ 출시
 2026-10-20
-187
+195
 1163
 이제 기본 2.5Gbps 유선랜를 위한 스위치허브, EFM ipTIME HG25005 (5포트) / ipTIME HG25008 (8포트)
 2026-10-20
-169
+173
 1162
 설치와 활용도 알찬 와이파이 6 공유기 ipTIME AX3000plus
 2026-10-20
-157
+162
 1161
 [리뷰] 안정적으로 멀리...5dBi 외장 안테나 품은 블루투스 6.0 동글 ipTIME BT60XR-A
 2026-10-20
@@ -73,19 +73,19 @@ ipTIME, 2.5Gbps 지원 BE7200급 Wi-Fi 7 공유기 2종 BE7200M, BE7208M 출시
 1160
 ipTIME, 추석맞이 ipTIME 홈캠 클라우드 구독료 '반값 이벤트' 진행
 2026-09-22
-359
+361
 1159
 ipTIME, 추석맞이 ipTIME BE9400QCA·Extender-BE3600Q 특별 할인 진행
 2026-09-22
-332
+335
 1158
 실속형 Wi-Fi 6 공유기, 이에프엠네트웍스 ipTIME AX3000PLUS
 2026-09-22
-223
+225
 1157
 더 합리적인 와이파이 7 공유기로 변신 ipTIME BE3600plus
 2026-09-22
-234
+235
 1156
 와이파이6, 크래들 일체형 디자인으로 만들어진 EFM ipTIME AX3000 Plus 유무선 공유기
 2026-09-22
@@ -93,7 +93,7 @@ ipTIME, 추석맞이 ipTIME BE9400QCA·Extender-BE3600Q 특별 할인 진행
 1155
 ipTIME, 와이파이6 지원 크래들 일체형 기가 와이파이 공유기 ‘AX3000plus’ 출시
 2026-09-22
-68
+69
 1154
 ipTIME, USB Type-C·A 겸용 기가비트 유선랜·USB 3.0 허브 ‘ipTIME U1003CA’ 출시
 2026-09-22
@@ -113,11 +113,11 @@ ipTIME, USB Type-C·A 겸용 기가비트 유선랜·USB 3.0 허브 ‘ipTIME U1
 1150
 ipTIME, 와이파이 7 지원 BE3600급 와이파이 공유기 ‘BE3600plus’ 출시
 2026-09-17
-108
+109
 1149
 RJ45 랜 규격에서 가장 빠른 속도 10Gbps, EFM ipTIME HG10008 10Gbps 스위치허브
 2026-09-17
-68
+69
 1148
 고속 10Gbps 유선 네트워크 확대 포인트 ipTIME HG10008 8포트 10Gbps 스위치
 2026-09-17

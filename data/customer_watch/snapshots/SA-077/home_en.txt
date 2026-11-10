@@ -1,4 +1,4 @@
-# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · home_en · https://www.angoranetworks.com/?lang=en · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · home_en · https://www.angoranetworks.com/?lang=en · fetched 2026-11-10T10:04:27Z · HTTP 200
 Angora Networks | Network Switch, Packet Broker and Data Diode Manufacturer Skip to content Products Network Products
 Network Switches
 Verge Switch
@@ -11,9 +11,10 @@ ANT Packet Broker
 ARROW Data Diode
 BEE SD-WAN
 Virtual Desktop
-ThinCE VDI ↗
+ThinCE VDI
 OEM/ODM
 Services
+Downloads
 Partners
 News
 About
@@ -25,13 +26,11 @@ Angora Networks
 Network equipment designed and built in Türkiye
 We design and manufacture managed switches, SFP modules, network packet brokers, data diodes and SD-WAN appliances for enterprise networks in Ankara.
 All products Contact us
-Verge Switch → Hitit Switch → Iris SFP → Angora NMS → ANT Packet Broker → ARROW Data Diode → BEE SD-WAN →
+Verge Switch →
+Synapse Switch → Hitit Switch → Iris SFP → Angora NMS → ANT Packet Broker → ARROW Data Diode → BEE SD-WAN →
 Products
 All Network Products Security
-Network Products
-Network Switch Family
-Angora Networks managed Ethernet switch families: Verge, Synapse and Hitit for access, enterprise, industrial and data centre networks.
-Learn more →
+Compare the Verge, Synapse and Hitit switch lines →
 Network Products
 Verge Network Switch Family
 Verge is Angora Networks’ managed Ethernet switch family: 8, 24, 32 and 48 gigabit ports, 10G fibre uplinks, PoE, industrial and data centre models.
@@ -68,8 +67,8 @@ Learn more →
 manufacturing in Türkiye since
 81
 provinces covered by our dealer and service network
-9
-product families
+8
+product lines
 100 G
 port speeds up to
 Local Mind, Global Technology
@@ -83,13 +82,13 @@ News
 All news →
 6 December 2023
 Angora Networks® Unveils Game-Changing ModBUS and OPC Protocol Support in Its Data Diode Solution
-Cisco ISE entegrasyonu
+Angora Networks adds ModBUS and OPC support to its ARROW data diode, so industrial sites can send OT data out one way without exposing their control networks.
 9 October 2022
 Angora Networks® launches Data Diode solution: Arrow
-Angora Networks Official Page. Angora Networks Official Website
+Angora Networks launches ARROW, a data diode that lets data flow only one way, from a protected network to a less secure zone, isolating critical systems in hardware.
 1 September 2021
 Angora Networks® completed the PacketFence NAC integration.
-Cisco ISE entegrasyonu
+With partner Alaattin Bilişim, Angora Networks switches completed 802.1X integration with PacketFence, the free and open-source network access control (NAC) system.
 How can we help?
 Tell us about your network and we will work out the right solution together.
 Contact us
@@ -100,9 +99,6 @@ Instagram
 YouTube
 Products
 Network Switches
-Verge Switch
-Synapse Switch
-Hitit Switch
 Iris SFP
 Angora NMS
 ANT Packet Broker

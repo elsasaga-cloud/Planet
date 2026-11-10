@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -54,8 +54,8 @@ CONTROL DE ACCESO
 VEHICULAR
 Cable de alarma 22/2 Solido CM CL2 1000FT Gris UL, VERTICAL 210-222SO/GY
 $ 66 + IVA
-Contacto magnetico inalambrico, HIKVISION DS-PD1-MC-WWS
-$ 15 + IVA
+Sensor de movimiento inalambrico para interiores, 85.9°, 15m., HIKVISION DS-PDP15P-EG2-WB
+$ 32 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,37 +202,37 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-ESTRUCTURADO , GABINETES Y RACKS
-TORNILLO PARA MONTAJE DE GABINETE DE PARED M8*80mm...
-$ 1 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 5 mts cobre macho a macho, ...
-$ 11 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
 CONTROL DE ACCESO
-Soporte LC para chapas doble h/dentro p/angosta, L...
-$ 24 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 3 mts cobre macho a macho, ...
+Soporte en L para chapas magn?ticas con zumbador N...
 $ 7 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
+CONTROL DE ACCESO
+Timbre para puerta door bell control acceso Ding D...
+$ 6 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
 CCTV , ACCESORIOS CCTV
-Cable HDMI 4k Ultra HD 5 mts Fibra Optica macho a ...
-$ 30 + IVA
+Cable HDMI 4K Ultra HD 20 mts Fibra optica macho a...
+$ 39 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CONTROL DE ACCESO
+Cobertor superior para puertas de vidrio 1 metro, ...
+$ 62 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CONTROL DE ACCESO
+Soporte L para chapas con cobertor h/afuera, LANTE...
+$ 12 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,36 +266,36 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Inyector PoE pasivo, 24V, 12W, 0.5A, LANTEK RP023-...
-$ 10 + IVA
+Switch Acceso L2 / 8 GE / 2 x SFP / PoE 125w V2 ra...
+$ 212 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Protector de voltaje 12VDC Din Rail, LANTEK 12V SP...
-$ 24 + IVA
+Fuente 740w para RG-S5310-PoE, RUIJIE RG-PA1000I-P...
+$ 620 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente de Alimentación AC/DC 120W 54VDC/2.2A Din-...
-$ 46 + IVA
+Switch 24 GE PoE+ L2 / 4SFP uplink, 370W 6KV Cloud...
+$ 385 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Acceso L2 / 48 GE / 4 x SFP+ / PoE 370w, RE...
-$ 806 + IVA
+Switch 16 GE / Vlan, Loop prevention, Remote Boot,...
+$ 121 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch POE 8GE af/at/bt 90w +1GE +1SFP uplink 120W...
-$ 70 + IVA
+Switch PoE L2 16 GE (4 x 2.5GB PoE++, 12 x 2.5GB P...
+$ 636 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

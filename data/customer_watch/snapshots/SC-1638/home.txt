@@ -1,4 +1,4 @@
-# SC-1638 thuananvn.com.vn · home · https://thuananvn.com.vn/home/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1638 thuananvn.com.vn · home · https://thuananvn.com.vn/home/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 THUANAN - Automation Components Company
 thuanan.sales1@gmail.com
 0989174796
@@ -23,16 +23,16 @@ PID Control Components
 BA & Energy Monitoring Components
 Temperature Controllers
 Azbil Yamatake
-Pressure Transmitters - Thi·∫øt B·ªã ƒêo √Åp Su·∫•t Azbil
-Flowmeters - Thi·∫øt B·ªã ƒêo L∆∞u L∆∞·ª£ng
-C·∫£m Bi·∫øn ƒêo M·ª©c V√Ý Nhi·ªát ƒê·ªô Azbil
-Van ƒêi·ªÅu Khi·ªÉn Azbil
-B·ªô ƒêi·ªÅu Khi·ªÉn Azbil
+Pressure Transmitters - Thiل؛؟t Bل»‹ ؤگo أپp Suل؛¥t Azbil
+Flowmeters - Thiل؛؟t Bل»‹ ؤگo Lئ°u Lئ°ل»£ng
+Cل؛£m Biل؛؟n ؤگo Mل»©c Vأ Nhiل»‡t ؤگل»™ Azbil
+Van ؤگiل»پu Khiل»ƒn Azbil
+Bل»™ ؤگiل»پu Khiل»ƒn Azbil
 Asco Numatic
 Honeywell Vietnam
 Burner Control
-C·∫£m Bi·∫øn Ph√°t Hi·ªán Ng·ªçn L·ª≠a
-B·ªô ƒêi·ªÅu Khi·ªÉn Nhi·ªát ƒê·ªô DC1000
+Cل؛£m Biل؛؟n Phأ،t Hiل»‡n Ngل»چn Lل»­a
+Bل»™ ؤگiل»پu Khiل»ƒn Nhiل»‡t ؤگل»™ DC1000
 Marechal Electric
 IT40S,-IT50S,-IT60S-Series Tower Lights
 IT60 Series Tower Lights
@@ -40,11 +40,11 @@ IT40S, IT50S, IT60S Series Open Network Capable / Discrete Input Tower Lights
 Ascon Technologic
 Yokogawa
 Huba Control
-C·∫£m Bi·∫øn √Åp Su·∫•t - Huba Control
-C·∫£m Bi·∫øn Ch√™nh √Åp - Huba Control
-C√¥ng T·∫Øc √Åp Su·∫•t - Huba Control
-C·∫£m Bi·∫øn L∆∞u L∆∞·ª£ng - Huba Control
-C·∫£m Bi·∫øn ƒêo M·ª©c - Huba Control
+Cل؛£m Biل؛؟n أپp Suل؛¥t - Huba Control
+Cل؛£m Biل؛؟n Chأھnh أپp - Huba Control
+Cأ´ng Tل؛¯c أپp Suل؛¥t - Huba Control
+Cل؛£m Biل؛؟n Lئ°u Lئ°ل»£ng - Huba Control
+Cل؛£m Biل؛؟n ؤگo Mل»©c - Huba Control
 Ashcroft
 Taik Electric
 Optone
@@ -53,86 +53,86 @@ PID Controller
 Bargraph Indicating Alarm
 Manual Loading Station
 GF (Georg Fischer)
-Thi·∫øt b·ªã ƒëo l∆∞·ªùng ƒëi·ªÅu khi·ªÉn
-Van v√Ý b·ªô truy·ªÅn ƒë·ªông GF
+Thiل؛؟t bل»‹ ؤ‘o lئ°ل»‌ng ؤ‘iل»پu khiل»ƒn
+Van vأ bل»™ truyل»پn ؤ‘ل»™ng GF
 CABAC
-·ªêC SI·∫æT C√ÅP
-·ªêNG CO NG√ìT
-ƒê·∫¶U C·ªêT N·ªêI D√ÇY ƒêI·ªÜN
-ƒê·∫¶U N·ªêI C√ÅP
-B·ªò G√Å D√ÇY TH√çT C√ÅP CABAC
-D√ÇY TH√çT C√ÅP
-K√åM C·∫ÆT C√ÅP ƒêI·ªÜN CABAC
-THI·∫æT B·ªä N·ªêI D√ÇY CABAC
-V√çT N·ªêI ƒêI·ªÜN
+ل»گC SIل؛¾T CأپP
+ل»گNG CO NGأ“T
+ؤگل؛¦U Cل»گT Nل»گI Dأ‚Y ؤگIل»†N
+ؤگل؛¦U Nل»گI CأپP
+Bل»ک Gأپ Dأ‚Y THأچT CأپP CABAC
+Dأ‚Y THأچT CأپP
+KأŒM Cل؛®T CأپP ؤگIل»†N CABAC
+THIل؛¾T Bل»ٹ Nل»گI Dأ‚Y CABAC
+VأچT Nل»گI ؤگIل»†N
 Company Profile
-Gi·ªõi thi·ªáu
+Giل»›i thiل»‡u
 President's Massage
 News
 Contact
 News Product
 M-System (3)
 R3 Series Gateway, Remote I/O
-T√≠nh linh ho·∫°t cao v·ªÅ s·ªë l∆∞·ª£ng v√Ý lo·∫°i t√≠n hi·ªáu I/O: d√≤ng ƒëi·ªán/ƒëi·ªán √°p DC, nhi·ªát ƒë·ªô, m√°y ƒëo bi·∫øn d·∫°ng, d√≤ng ƒëi·ªán/ƒëi·ªán √°p AC, ngu·ªìn AC, v.v.
+Tأ­nh linh hoل؛،t cao vل»پ sل»‘ lئ°ل»£ng vأ loل؛،i tأ­n hiل»‡u I/O: dأ²ng ؤ‘iل»‡n/ؤ‘iل»‡n أ،p DC, nhiل»‡t ؤ‘ل»™, mأ،y ؤ‘o biل؛؟n dل؛،ng, dأ²ng ؤ‘iل»‡n/ؤ‘iل»‡n أ،p AC, nguل»“n AC, v.v.
 Liên hệ
 2-wire Signal Conditioners
 Signal conditioners of on-site installation type with no power source required.
 Liên hệ
-B·ªô chuy·ªÉn ƒë·ªïi t√≠n hi·ªáu ƒë·∫ßu v√Ýo DC mV, V, mA
+Bل»™ chuyل»ƒn ؤ‘ل»•i tأ­n hiل»‡u ؤ‘ل؛§u vأ o DC mV, V, mA
 Converting measured signals to desired signals.
 Liên hệ
 Azbil Yamatake (3)
-B·ªô ghi d·ªØ li·ªáu Azbil
-Azbil Vi·ªát Nam
+Bل»™ ghi dل»¯ liل»‡u Azbil
+Azbil Viل»‡t Nam
 Liên hệ
-Thi·∫øt B·ªã ƒêo L∆∞u L∆∞·ª£ng
-Azbil Vi·ªát Nam
+Thiل؛؟t Bل»‹ ؤگo Lئ°u Lئ°ل»£ng
+Azbil Viل»‡t Nam
 Liên hệ
 Differential Pressure Transmitter GTX Series
-Differential Pressure Transmitter, Azbil Vi·ªát Nam, C·∫£m bi·∫øn √°p su·∫•t ch√™nh √°p Azbil GTX Series
+Differential Pressure Transmitter, Azbil Viل»‡t Nam, Cل؛£m biل؛؟n أ،p suل؛¥t chأھnh أ،p Azbil GTX Series
 Liên hệ
 Asco Numatic (3)
-Van ƒëi·ªán t·ª´ Asco - 2 Way 2/2-ASCO Series 353
-ƒê·∫°i l√Ω ph√¢n ph·ªëi Asco Vi·ªát Nam
+Van ؤ‘iل»‡n tل»« Asco - 2 Way 2/2-ASCO Series 353
+ؤگل؛،i lأ½ phأ¢n phل»‘i Asco Viل»‡t Nam
 Liên hệ
-Van ƒëi·ªán t·ª´-2 Way 2/2-ASCO Series 210
-ƒê·∫°i l√Ω ph√¢n ph·ªëi Asco Vi·ªát Nam
+Van ؤ‘iل»‡n tل»«-2 Way 2/2-ASCO Series 210
+ؤگل؛،i lأ½ phأ¢n phل»‘i Asco Viل»‡t Nam
 Liên hệ
-Van kh√≠ n√©n Asco -Pneumatic Valve-4 Way 5/2, 5/3 - Numatics Series L1
-ƒê·∫°i l√Ω ph√¢n ph·ªëi Asco Vi·ªát Nam
+Van khأ­ nأ©n Asco -Pneumatic Valve-4 Way 5/2, 5/3 - Numatics Series L1
+ؤگل؛،i lأ½ phأ¢n phل»‘i Asco Viل»‡t Nam
 Liên hệ
 Honeywell Vietnam (4)
-B·ªô ƒëi·ªÅu khi·ªÉn nhi·ªát ƒë·ªô DC1040CL-102-000-E
-B·ªô ƒëi·ªÅu khi·ªÉn nhi·ªát ƒë·ªô DC1040CL-102-000-E, Honeywell DC1040CL-102-000-E, Honneywell Vi·ªát Nam, Temperature Controllers DC1040CL-102-000-E
+Bل»™ ؤ‘iل»پu khiل»ƒn nhiل»‡t ؤ‘ل»™ DC1040CL-102-000-E
+Bل»™ ؤ‘iل»پu khiل»ƒn nhiل»‡t ؤ‘ل»™ DC1040CL-102-000-E, Honeywell DC1040CL-102-000-E, Honneywell Viل»‡t Nam, Temperature Controllers DC1040CL-102-000-E
 Liên hệ
-C·∫£m bi·∫øn ph√°t hi·ªán ng·ªçn l·ª≠a C7035A1023/U - Flame Sensor C7035A1023/U
-C·∫£m bi·∫øn ph√°t hi·ªán ng·ªçn l·ª≠a C7035A1023/U, Flame Sensor C7035A1023/U, C7035A1023/U Honeywelll, Honeywelll Vi·ªát Nam
+Cل؛£m biل؛؟n phأ،t hiل»‡n ngل»چn lل»­a C7035A1023/U - Flame Sensor C7035A1023/U
+Cل؛£m biل؛؟n phأ،t hiل»‡n ngل»چn lل»­a C7035A1023/U, Flame Sensor C7035A1023/U, C7035A1023/U Honeywelll, Honeywelll Viل»‡t Nam
 Liên hệ
 HONEYWELL S7800A1001/U - Display Module S7800A1001/U
-HONEYWELL S7800A1001/U, Display Module S7800A1001/U, Honeywell Vi·ªát Nam, B·ªô ƒëi·ªÅu khi·ªÉn ƒë·∫ßu ƒë·ªët S7800A1001/U
+HONEYWELL S7800A1001/U, Display Module S7800A1001/U, Honeywell Viل»‡t Nam, Bل»™ ؤ‘iل»پu khiل»ƒn ؤ‘ل؛§u ؤ‘ل»‘t S7800A1001/U
 Liên hệ
-HONEYWELL - B·ªô Khu·∫øch ƒê·∫°i T√≠n Hi·ªáu R7848A1008/U
+HONEYWELL - Bل»™ Khuل؛؟ch ؤگل؛،i Tأ­n Hiل»‡u R7848A1008/U
 HONEYWELL - Flame Amplifier R7848A1008/U
 Liên hệ
 Ascon Technologic (3)
-ƒê·ªìng h·ªì hi·ªÉn th·ªã nhi·ªát ƒë·ªô J3 - Indicator J3
-ƒê·∫°i l√Ω ph√¢n ph·ªëi b·ªô ƒëi·ªÅu khi·ªÉn nhi·ªát ƒë·ªô Ascon Technologic Vi·ªát Nam
+ؤگل»“ng hل»“ hiل»ƒn thل»‹ nhiل»‡t ؤ‘ل»™ J3 - Indicator J3
+ؤگل؛،i lأ½ phأ¢n phل»‘i bل»™ ؤ‘iل»پu khiل»ƒn nhiل»‡t ؤ‘ل»™ Ascon Technologic Viل»‡t Nam
 Liên hệ
-B·ªô ƒëi·ªÅu khi·ªÉn l·∫≠p tr√¨nh M5 - Controller programmer M5
-ƒê·∫°i l√Ω ph√¢n ph·ªëi b·ªô ƒëi·ªÅu khi·ªÉn nhi·ªát ƒë·ªô Ascon Technologic Vi·ªát Nam
+Bل»™ ؤ‘iل»پu khiل»ƒn lل؛­p trأ¬nh M5 - Controller programmer M5
+ؤگل؛،i lأ½ phأ¢n phل»‘i bل»™ ؤ‘iل»پu khiل»ƒn nhiل»‡t ؤ‘ل»™ Ascon Technologic Viل»‡t Nam
 Liên hệ
-B·ªô ƒëi·ªÅu khi·ªÉn nhi·ªát ƒë·ªô KM7
-ƒê·∫°i l√Ω ph√¢n ph·ªëi b·ªô ƒëi·ªÅu khi·ªÉn nhi·ªát ƒë·ªô Ascon Technologic Vi·ªát Nam
+Bل»™ ؤ‘iل»پu khiل»ƒn nhiل»‡t ؤ‘ل»™ KM7
+ؤگل؛،i lأ½ phأ¢n phل»‘i bل»™ ؤ‘iل»پu khiل»ƒn nhiل»‡t ؤ‘ل»™ Ascon Technologic Viل»‡t Nam
 Liên hệ
 Huba Control (3)
-C·∫£m bi·∫øn ch√™nh √°p su·∫•t Huba Control 692
-C·∫£m bi·∫øn ch√™nh √°p su·∫•t Huba Control 692 - Huba Control Vi·ªát Nam
+Cل؛£m biل؛؟n chأھnh أ،p suل؛¥t Huba Control 692
+Cل؛£m biل؛؟n chأھnh أ،p suل؛¥t Huba Control 692 - Huba Control Viل»‡t Nam
 Liên hệ
-C·∫£m bi·∫øn √°p su·∫•t Huba Control 520.940S031301
-C·∫£m bi·∫øn √°p su·∫•t Huba Control 520.940S031301 d·∫£i ƒëo 0...60 Bar - Huba Control Vi·ªát Nam
+Cل؛£m biل؛؟n أ،p suل؛¥t Huba Control 520.940S031301
+Cل؛£m biل؛؟n أ،p suل؛¥t Huba Control 520.940S031301 dل؛£i ؤ‘o 0...60 Bar - Huba Control Viل»‡t Nam
 Liên hệ
-C·∫¢M BI·∫æN √ÅP SU·∫§T 528.9010030411 D·∫¢I ƒêO -1‚Ä¶0 BAR
-C·∫£m bi·∫øn √°p su·∫•t Huba Control, Huba 528.9010030411, Huba Control Vi·ªát Nam
+Cل؛¢M BIل؛¾N أپP SUل؛¤T 528.9010030411 Dل؛¢I ؤگO -1â€¦0 BAR
+Cل؛£m biل؛؟n أ،p suل؛¥t Huba Control, Huba 528.9010030411, Huba Control Viل»‡t Nam
 Liên hệ
 Trang chủ
 Company Profile
@@ -141,17 +141,17 @@ News
 Contact
 News Product
 THUAN AN TECHNICAL AND TRADE CO., LTD
-CÔNG TY TNHH K·ª∏ THU·∫¨T VÀ TH∆Ø∆ÝNG M·∫ÝI THU·∫¨N AN
-S·ªë 12, H·∫ªm 82/5, Ngõ 523 Minh Khai, Ph∆∞·ªùng Thanh L∆∞∆°ng, Qu·∫≠n Hai Bà Tr∆∞ng, Hà N·ªôi
+CÔNG TY TNHH Kل»¸ THUل؛¬T VÀ THئ¯ئ NG Mل؛ I THUل؛¬N AN
+Sل»‘ 12, Hل؛»m 82/5, Ngõ 523 Minh Khai, Phئ°ل»‌ng Thanh Lئ°ئ،ng, Quل؛­n Hai Bà Trئ°ng, Hà Nل»™i
 Email: thuanan.sales1@gmail.com
 Bản đồ
 Video
 Fanpage
 101587322398700
 Lượt truy cập:
-1803149 -
+1804038 -
 Đang online:
-5
+15
 - Thiết kế web bởi haanhco.,ltd
 0989174796
 Facebook:

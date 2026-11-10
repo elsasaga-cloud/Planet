@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsxdqALPyE0DTqypazdpJSA · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1088 tipteh.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsxdqALPyE0DTqypazdpJSA · fetched 2026-11-10T10:04:27Z · HTTP 200
 2026-09-23T04:00:21+00:00	Aktivno hlajenje industrijskih računalnikov Axiomtek | Do 30 °C nižja temperatura	https://www.youtube.com/watch?v=ULTAeIpqxfQ
 2026-06-09T09:30:05+00:00	Tipteh 30-letnica - Tilen Artač & Pero Tiptehin	https://www.youtube.com/watch?v=aY-v5Hvlrm4
 2026-06-09T08:46:20+00:00	Tipteh 30-letnica - Tipteh d.o.o. - kdo smo?	https://www.youtube.com/watch?v=P3Mxyn2kzow

@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-11-10T10:04:27Z · HTTP 200
 Shopping, Novos produtos
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -533,6 +533,7 @@ Código: M29119
 €242.13
 Preço mais baixo anterior: €242.13
 Temporariamente indisponível
+Ao carrinho
 Visualização
 Hikvision DS-7608NI-Q1(E) IP NVR (8 canais, 80 Mb/s, 1 x SATA, VGA, HDMI, H. 265)
 O Hikvision DS-7608NI-Q1(E) é um gravador de vídeo IP de 8 canais de última geração, capaz de gravar imagens de câmaras IP com uma resolução até 8 Mpix.
@@ -551,7 +552,7 @@ Código: K22055
 €225.88 s/IVA
 €283.50
 Preço mais baixo anterior: €283.50
-Temporariamente indisponível
+Disponível
 Ao carrinho
 Visualização
 Suporte com adaptador para poste para câmaras compactas e de teto Dahua PFA152-E-B
@@ -580,4 +581,4 @@ Kit para até 5 câmaras IP, numa caixa exterior ABOX-M2, fonte de alimentação
 • Até 40 W de potência por porta PoE restante
 • Opera nos modos Standard e Longo Alcance
 • Alta eficiência do módulo de alimentação: acima de 90%
-• Design modular para fácil manutenç
+• Design modular para fácil manutenção e e

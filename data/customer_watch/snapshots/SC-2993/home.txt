@@ -1,4 +1,4 @@
-# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Cables N More
 Create Account
 Log in
@@ -344,18 +344,18 @@ Bestsellers
 M6 Cage Nuts and Mounting Screws for Racks - 25 pack
 M6 Cage Nuts and Screws from Networx® allow for easy conversion of square mounting holes found in some racks and cabinets into round holes for standard screws.
 $6.80
+USB A Male to C Male - 3 FT, 480Mbps
+Networx® USB Type C Cables combine style, quality, performance and value to give a great deal on a great USB cable.
+$2.94
 6u Vertical Wall Mount Bracket - Black
 Our 6u Vertical Wall Mount Bracket - Black are a convenient way to accomplish your rack mounting needs while you save space without bulky full sized racks. Designed for all 19 inch patch panel equipment.
 $57.09
+Modular Adapter Kit - DB9 Female to RJ45 - Black
+These Networx® Modular Adapter Kit - DB9 Female to RJ45 - Black are unwired and are used to convert a DB connector to a modular Female connector.
+$1.96
 12 Inch Black Cinch Strap - 5 Pack
 Secure™ Hook and Loop Cinch Straps are the best choice when needing to secure large bundles due to their simplicity, strength and versatility.
 $5.62
-Gigabit Fiber Media Converter - UTP to 1000Base-LX - LC Singlemode, 20km, 1310nm
-This Fiber Transceiver / Media Converter is designed to convert data signal between 10/100/1000Base-T and 1000Base-LX Gigabit Ethernet. Maximum transmission distance 20 kilometers over duplex singlemode fiber (9/125 micron) @ 1310nm. Duplex LC Connector.
-$74.84
-SFP Ethernet Fiber Module - 100Base-SX, LC Multimode, 2km, 1310nm
-Get the most out of your network equipment with these Cisco Equivalent SFP Fiber Modules from Networx®.
-$21.89
 Information
 Sitemap
 Conditions of use

@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-09T09:57:20Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-10T10:04:27Z · HTTP 200
 GOMA ELETTRONICA - Soluzioni Embedded per Edge Computing
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -116,7 +116,7 @@ VPX3-XMXM →
 Ogni mese nuove referenze selezionate a catalogo.
 Vedi tutte le novità →
 Un catalogo, cinque domini
-Oltre 2.000 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
+Oltre 2.100 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
 Sistemi e Piattaforme
 Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
 Computer Embedded 127
@@ -125,16 +125,16 @@ Sistemi su Architetture Aperte 90
 Computer Embedded 127
 Server, Workstation e PC Industriali 107
 Sistemi su Architetture Aperte 90
-484 prodotti →
+489 prodotti →
 HMI e Panel PC
 Monitor industriali e rugged, panel PC, tastiere, consolle e cassetti KVM da rack.
 Monitor Industriali 195
-Panel PC Industriali 144
+Panel PC Industriali 155
 Monitor Rugged 35
 Monitor Industriali 195
-Panel PC Industriali 144
+Panel PC Industriali 155
 Monitor Rugged 35
-464 prodotti →
+476 prodotti →
 Schede e Moduli
 VME, OpenVPX, CompactPCI, COM e mezzanine: l'embedded scheda per scheda.
 Moduli Mezzanine 210
@@ -143,7 +143,7 @@ Schede di I/O PCI e PCIe 163
 Moduli Mezzanine 210
 MicroTCA 173
 Schede di I/O PCI e PCIe 163
-908 prodotti →
+913 prodotti →
 Dispositivi Networking
 Switch, router e media converter per reti industriali affidabili.
 Switch Ethernet Industriali 138
@@ -152,7 +152,7 @@ Media Converter Industriali 10
 Switch Ethernet Industriali 138
 PoE Injector & Splitter 13
 Media Converter Industriali 10
-183 prodotti →
+184 prodotti →
 Marchio GOMA ELETTRONICA
 Rack e Cabinet
 Armadi 19″, telai open frame e strutture di contenimento per ogni installazione.
@@ -163,7 +163,7 @@ Armadi IP e EMC 5
 Armadi Server 5
 Armadi a Rack 19″ da Parete 4
 23 prodotti →
-2.000 +
+2.100 +
 Tutto il catalogo
 Cerca per categoria, architettura, standard o part number.
 Esplora tutto il catalogo →

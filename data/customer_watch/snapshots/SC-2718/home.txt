@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -471,18 +471,15 @@ Precio
 Añadir al carrito
 Nuevo
  Vista rápida
-AK-E12S-2
-Placa de videoportero 2 hilos Akuvox 2Mpx NFC Bluetooth IP65
-Videoportero 2 hilos en superficie
-Cámara 2 Mpx | Audio bidireccional
-Apertura con tarjeta MF, NFC y BLE
-1 relé | SIP estándar
-Mantenimiento Cloud
-Conexión monitor y placas por Cloud
-Precio
-186,34 €
-
-Añadir al carrito
+UV-XVR301-16F
+Grabador XVR 5N1 16CH Gama Easy
+Videograbador 5n1 Uniview
+Gama Easy
+16 CH
+HDTVI / HDCVI / AHD / CVBS + 2 IP
+Audio
+Admite 1 disco duro
+ Ver Precio
 Nuevo
  Vista rápida
 Todas las novedades 

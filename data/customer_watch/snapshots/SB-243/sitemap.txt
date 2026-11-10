@@ -1,5 +1,5 @@
-# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
-2026-10-23T09:12:01.892Z	https://www.hfcl.com
+# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+2026-11-10T08:22:53.619Z	https://www.hfcl.com
 2026-08-21T18:47:11.298Z	https://www.hfcl.com/products/defence-solutions
 2026-10-23T05:18:26.786Z	https://www.hfcl.com/insights
 2026-08-21T18:47:11.331Z	https://www.hfcl.com/insights/blogs
@@ -154,6 +154,6 @@
 2026-04-29T13:10:46.862Z	https://www.hfcl.com/insights/blogs/optical-fiber-splicing-the-complete-technical-guide-to-methods-standards-and-best-practices
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-the-backbone-of-modern-data-centers
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-working-principle--delving-into-details
-2026-10-17T15:40:28.291Z	https://www.hfcl.com/insights/blogs/optiq-ai-solutions-for-next-generation-ai-infrastructure
+2026-11-10T08:23:08.240Z	https://www.hfcl.com/insights/blogs/optiq-ai-solutions-for-next-generation-ai-infrastructure
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/otdr-vs-olts-optical-fiber-testing-explained
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/powering-seamless-connecti

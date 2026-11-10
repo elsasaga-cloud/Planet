@@ -1,4 +1,4 @@
-# SB-289 sisav.it · news_1 · https://www.sisav.it/news-ed-eventi/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-289 sisav.it · news_1 · https://www.sisav.it/news-ed-eventi/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 News ed Eventi - SisAv
 Vai al contenuto
 Prodotti
@@ -184,6 +184,8 @@ News ed Eventi
 Eventi
 News
 NON USARE
+Due webinar con UEI: dal banco di prova alla sicurezza del dato
+Il 18 novembre e il 2 dicembre saremo su LinkedIn Live con due appuntamenti su acquisizione dati, testing...
 SisAv a Cibus Tec 2026
 Dal 27 al 30 ottobre 2026 saremo a Parma per Cibus Tec, uno degli appuntamenti di riferimento per le...
 VETRO: la nuova famiglia di soluzioni rugged Vetronics di Advanced Micro Peripherals
@@ -209,9 +211,6 @@ Grazie ai processori Intel di ottava generazione, nome in codice Whiskey Lake, A
 MPL innovatore dell'anno
 PIP40 vincitore del Gold Honoree
 Military & Aerospace Electronics Innovators Awards 2020...
-Pc rugged con processori Intel 8° e 9° gen
-La nuova famiglia di computer MPL
-embedded, fanless e con CPU Intel di 9°gen
 No posts found
 Visualizza altri
 Carico...

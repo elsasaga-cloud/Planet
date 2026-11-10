@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -74,30 +74,6 @@ Blog
 Últimas da Trama
 Pesquise no blog
 Todas as categorias
-Bastidores da Trama
-Logística
-Marketing
-Employer Branding
-Marketing de Busca
-Transporte
-Relações Públicas
-Podcast Diálogos
-Mídias Sociais
-Produção de Conteúdo
-Opinião Pública
-Videocast Diálogos
-Eventos
-Consumo
-Inbound Marketing
-Infográfico
-Assessoria de Imprensa
-Revistas e Jornais Corporativos
-marketing de conteúdo
-Inteligência Artificial
-Publicações Dirigidas
-Endomarketing
-Voluntariado
-Diversidade
 Educação
 Criação e Design
 Vídeos
@@ -131,7 +107,35 @@ Sem categoria
 Marketing Digital
 Storytelling
 Startups
-Prêmios Grupo Trama Reputale é finalista em duas categorias do Troféu Jatobá PR 2026
+Bastidores da Trama
+Logística
+Marketing
+Employer Branding
+Marketing de Busca
+Transporte
+Relações Públicas
+Podcast Diálogos
+Mídias Sociais
+Produção de Conteúdo
+Opinião Pública
+Videocast Diálogos
+Eventos
+Consumo
+Inbound Marketing
+Infográfico
+Assessoria de Imprensa
+Revistas e Jornais Corporativos
+marketing de conteúdo
+Inteligência Artificial
+Publicações Dirigidas
+Endomarketing
+Voluntariado
+Diversidade
+Eventos Grupo Trama Reputale participa do 5º Fórum Melhor RH ESG e Comunicação
+Sandra Bonani, diretora de Comunicação Integrada da agência, participa de debate sobre excesso de informações e os desafios para gerar compreensão e confiança nas empresas.
+9 novembro 2026 | Trama Comunicação
+Prêmios
+Grupo Trama Reputale é finalista em duas categorias do Troféu Jatobá PR 2026
 Case desenvolvido com o Instituto Mauá de Tecnologia concorre nas categorias Análise de Dados para Estratégia de Comunicação e Assessoria de Imprensa.
 3 novembro 2026 | Trama Comunicação
 Comunicação Corporativa
@@ -142,11 +146,11 @@ Comunicação
 Agências de PR no Brasil: como escolher a ideal para sua marca?
 Sua empresa precisa fortalecer a reputação, ganhar espaço na imprensa ou construir autoridade no mercado? Entenda o que avaliar antes de contratar uma agência de Relações Públicas.
 26 outubro 2026 | Trama Comunicação
-Assessoria de Imprensa
-Assessoria de imprensa: Grupo Trama Reputale leva Instituto Mauá ao Jornal Nacional
+Assessoria de Imprensa Assessoria de imprensa: Grupo Trama Reputale leva Instituto Mauá ao Jornal Nacional
 Trabalho de Relações Públicas conquistou espaço no telejornal para divulgar a contribuição de pesquisadores brasileiros à missão espacial Plato, da Agência Espacial Europeia.
 21 outubro 2026 | Trama Comunicação
-Eventos Grupo Trama Reputale participa do WEConnect Brasil Summit 2026 em São Paulo
+Eventos
+Grupo Trama Reputale participa do WEConnect Brasil Summit 2026 em São Paulo
 Representado por Leila Gasparindo, Helen Garcia e Karina Belo, grupo acompanhou encontro dedicado ao empreendedorismo feminino, à diversidade de fornecedores e às oportunidades de negócios.
 20 outubro 2026 | Trama Comunicação
 Comunicação Corporativa
@@ -157,18 +161,14 @@ Eventos
 Grupo Trama Reputale participa do Entre Agências da Abracom sobre modelos de contrato
 Leila Gasparindo, CEO do Grupo Trama Reputale e suplente do Conselho Fiscal da Abracom, participará de encontro online exclusivo para agências associadas, em 28 de outubro.
 16 outubro 2026 | Trama Comunicação
-Prêmios
-Grupo Trama Reputale conquista dois prêmios regionais no Prêmio Aberje 2026
+Prêmios Grupo Trama Reputale conquista dois prêmios regionais no Prêmio Aberje 2026
 Projetos desenvolvidos com UNICEF e ECA-USP venceram nas categorias Imprensa e Publicação Especial e agora avançam para a disputa nacional, marcada para 29 de outubro.
 15 outubro 2026 | Trama Comunicação
-Eventos Grupo Trama Reputale participa do 1º Summit de Reputação e Comunicação Setorial
-Evento promovido pela Abracom e ESPM reunirá especialistas para discutir os desafios da reputação em diferentes setores. Leila Gasparindo, CEO do Grupo Trama Reputale, participará do painel Educação.
-14 outubro 2026 | Trama Comunicação
 Anteriores
 Próximos
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-Company
+Phone
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-Facebook
+X/Twitter
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-10T10:04:27Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -119,6 +119,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+Fiber Optics on the Battlefield and in Mines
+Standard fiber optic cables are typically installed in protected environments, for example in underground ducts, conduits or cable trays. But what happens when high-speed data transmission is needed in environments where cables are repeatedly deployed, exposed to mechanical stress or subjected to demanding environmental conditions?
+Read more
 Why Radiation-Resistant Fiber Optics Matter in Low Earth Orbit
 Low Earth Orbit (LEO) is becoming increasingly important for satellite communications, Earth observation and other data-intensive space applications. As satellites process and transfer growing volumes of data, the demands placed on onboard connectivity are increasing. High data capacity must be combined with low weight, compact dimensions and reliable operation throughout the mission.
 Read more
@@ -212,7 +215,4 @@ FOSS Expanded Beam to LC Adapters Receptacle
 Receptacle can be connected directly onto the MIL-DTL-83526 Expanded Beam Plug , and can be therefore used as a quick tool to change the expanded beam port to LC port, by using standard military tactical cables
 Read more
 OFC Conference 2025
-Foss team attended the OFC Conference 30th March to 3th April 2025 in Moscone Convention Center in San Francisco, USA
-Read more
-Data Centres - Overview
-A data centre is a physical space that houses the hardware and computing systems that support a business' digital activity. Data centres store critical data and applications, such as email, databases, and customer relationship management (CRM) system
+Foss team att

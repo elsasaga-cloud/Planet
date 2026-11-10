@@ -1,4 +1,4 @@
-# SC-2957 conexpro.com · home · https://conexpro.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2957 conexpro.com · home · https://conexpro.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Conexpro - accessories for ISPs
 Contact
 About us
@@ -59,32 +59,32 @@ Access cards
 Other material
 USB converters
 New products
-Conexpro DC cable red/black twin copper, 2x 1.5 mm2, 16 AWG, sold by the meter
-The red-black duplex cable without connectors offers a reliable solution for continuous load up to 15 A and can briefly handle up to 18–20 A. It is suitable for DIY projects, connecting power supplies or
-Conexpro GNT-ES20GDH2-P, PoE switch, 18x LAN, 16x PoE, 2x 1/2.5G SFP
-The robust unmanaged PoE switch offers 18× gigabit LAN ports, of which 16 ports have PoE . Ports 1–14 support standards 802.3af/at with a power of up to 30 W per port, while ports 15–16 handle 802.3af/at/bt
-Conexpro fiber optic patch cord, LCupc/SCapc, Simplex, Singlemode 9/125, 5m
-Reliable and quality solution for connecting active and passive optical elements. The Conexpro optical patch cord features a sturdy LC connector with UPC polishing and an SC connector with APC polishing,
-Conexpro kit of 4 rackmount plastic cable management ring 37 x 39mm, black
-The four-part set of plastic cable ties from Conexpro represents a simple solution for organized and safe cable management in rack cabinets. Sturdy design made of PETG material allows reliable cable fastening
-Conexpro Gigabit PoE injector for DIN rail, input 12-48V DC, 802.3af/at/bt, 60W
-The active Gigabit PoE injector with DIN rail mounting is designed to power devices supporting standards 802.3af/at/bt (up to 60W) . It operates with a input voltage of 12 to 48 V DC and, thanks to the
+Conexpro Waterproof RJ-45 cover for GNT-5313AB
+The waterproof cover for the RJ-45 connector is a practical accessory for protecting the network connection of the Conexpro GNT-5313AB device. The waterproof design helps protect the connector from moisture,
+Conexpro Gigabit PoE converter, 802.3af/at to 24V, 24W
+The compact PoE converter allows efficient power conversion from 802.3af/at to passive 24V for compatible network devices (Ubiquiti, Teltonika, MikroTik,...). It offers gigabit speed 10/100/1000 Mb/s for
+Conexpro kit of 4 rackmount plastic cable management ring 37 x 39mm, white
+The four-part set of plastic cable management hooks Conexpro offers a simple solution for clear and safe cable routing in rack cabinets. Sturdy design made of PETG material allows reliable attachment of
+Conexpro kit of 4 rackmount plastic cable management ring 37 x 39mm, red
+The four-piece set of plastic cable management hooks Conexpro offers a simple solution for clear and secure cable routing in rack enclosures. Sturdy design made of PETG material ensures reliable cable
+Conexpro 10G SFP+ optical module, WDM/BiDi, SM, Tx1270/Rx1330nm, 60km, 1x LC, DDM
+10-Gigabit WDM/Bidi Singlemode SFP+ module from the manufacturer Conexpro with wavelengths (Tx/Rx) 1270/1330 nm, speed of 10 Gbps , equipped with one LC connector with UPC polish and intended for connections
 A full selection for every need
 Conexpro is a brand with comprehensive networking solutions, which gives emphasis on quality and maintaining affordable pricing. In our broad catalogue of products you will find everything from Batteries to Patch Cords and even Switches. We did not forget about optical networks, switchboards or tools and installation materials either. Conexpro is a brand without compromise.
-Optical modules
-SFP/SFP+ modules, MM/SM, industrial use, DDM, universal compatibility
-Network cables
-CAT5E/6/6A data cables, indoor/outdoor, durable box, premium quality
 Battery
 Wide selection of batteries – lead-acid, LiFePO4, and gel
-PoE Switches
-Switches and PoE for ISP, CCTV, DIN, rack, and desktop use
-Solar energy
-Accessories for DEYE inverters
 Brackets
 Wall, pole, and balcony mounts – durable with high-quality zinc coating
 Patch cables
 CAT5E/6/6A, 9 colors, 100% copper, and elegant connector protection
+Solar energy
+Accessories for DEYE inverters
+Optical modules
+SFP/SFP+ modules, MM/SM, industrial use, DDM, universal compatibility
+Network cables
+CAT5E/6/6A data cables, indoor/outdoor, durable box, premium quality
+PoE Switches
+Switches and PoE for ISP, CCTV, DIN, rack, and desktop use
 Why choose Conexpro?
 Low price
 Our broad assortment is comprehensive and constantly expanding, yet we continue to place great emphasis on quality and affordable pricing. With this we offer products without compromise with excellent price/performance ratio.
@@ -93,57 +93,55 @@ Our trained team of technicians is ready to assist you promptly with device sele
 International market
 Our distributors and resellers can be found not only in Czech Republic, but other states as well. Join us and become our partner and offer our quality products to your customers
 Best selling products
-SS602
-Conexpro splice sleeve 2.2 x 60mm, 1mm ocelová výztuha
+RJ45-5W
+Conexpro pass-through connector RJ45 UTP, CAT5E, Wire Cross
+Through Wire Cross data RJ45 connector for structured cabling for wire type conductor. It is a universal unshielded RJ45 connector CAT5E class with 8P8C connection ensuring efficient and simple crimping of
+CP-6A-STP-OUT
+Conexpro outdoor STP connector, IP68, CAT6A, RJ45
 Recommended
-The splice protector, with a length of 60 mm and a width of 2.2 mm, is equipped with a 1 mm steel reinforcement that effectively protects optical fibers. It is specially designed for maximum safety and
-RJ45-5SG
-Conexpro connector RJ45 FTP, CAT5E, grounding PIN
+The outdoor connector with STP shielding is designed for connecting two network cables of UTP/STP/FTP type, belonging to categories CAT5E, 6, 6A and with a diameter of 4.5 to 7.5 mm. This connector has IP68
+RJ45-6SW
+Conexpro pass-through connector RJ45 FTP, CAT6, Wire Cross
+Pass-through Wire Cross data RJ45 connector for structured cabling for wire-type conductors. This is a universal shielded RJ45 connector of CAT6 class (AWG 23) with an 8P8C wiring, ensuring effective and easy
+KS-5-UTP-TL
+Conexpro toolless keystone UTP, CAT5E, white
 Recommended
-Conexpro's shielded RJ45 connector is designed for use with CAT5E class outdoor FTP cable with drain wire , for which it has a special handle. These connectors are an integral part of structured cabling and
-PC6AFS-2
-Conexpro slim patch cable STP, CAT6A, 2m, gray
-Conexpro patch cables combine quality and reliability. Unlike regular cables, Conexpro patch cables have a high-quality and elegant rubber protective cap against bending the beak. The cable has STP design
+Unshielded toolless keystone in white color is suitable for UTP CAT5E cables , with a simple installation that does not require the use of a cutting tool. This keystone is designed to be used in combination
+LFP-12.8-24
+Conexpro battery LiFePO4, 12.8V, 24Ah, Smart BMS, Bluetooth
+Conexpro brand LiFePO4 battery with output voltage 12.8 V , capacity 24 Ah (307 Wh) , up to 5x longer life than a lead-acid battery, two M5 connectors for connection to the device and an intelligent Battery
+GEL-12-20
+Conexpro battery gel, 12V, 20Ah, lifetime 10-12 years, M5, Deep cycle
+Conexpro brand gel batteries with output voltage 12 V , capacity 20 Ah , 10-12 year life is equipped with two M5 connectors for connection to the device. GEL technology involves the absence of liquid
+SS452
+Conexpro splice sleeve 2.2 x 45mm, 1mm steel rod
+The splice protector, with a length of 45 mm and a width of 2.2 mm, is equipped with a 1 mm steel reinforcement that effectively protects optical fibers. It is specially designed for maximum safety and
+RJ45-6
+Conexpro connector RJ45 UTP, CAT6
+The unshielded RJ45 connector from Conexpro is designed for use with CAT6 class UTP cable with wire-type conductors. These connectors are an integral part of structured cabling and are carefully designed to
+GM-1210
+Conexpro made for MikroTik GM-1210, Power adapter 12V, 1A
+Power adapter with output voltage 12 V DC , maximum current 1 A is equipped with standard connector 5.5/ 2.1 mm, which is ideal and practical for powering devices such as MikroTik, selected Wi-Fi routers,
+PC5U-05BK
+Conexpro patch cable UTP, CAT5e, 0.5m, black
+Conexpro patch cables combine quality and reliability. Unlike regular cables, Conexpro patch cables have a high-quality and elegant rubber protective cap against bending the beak. The cable is UTP design
+FBOX4SC+4H-O
+Conexpro FBOX4SC+4H-O, FTTH terminal box with 4x SC APC simplex coupler
+The optical FTTH socket from Conexpro is designed to terminate up to 2 optical cables with already installed 4x SC APC simplex couplings. Made of high-quality white plastic, it contains an integrated optical
 RJ45-5
 Conexpro connector RJ45 UTP, CAT5E
 Recommended
 The unshielded RJ45 connector from Conexpro is designed for use with CAT5E class UTP cable with wire-type conductors. These connectors are an integral part of structured cabling and are carefully designed to
-KS-6A-UTP-TL
-Conexpro toolless keystone UTP, CAT6A, white
-Recommended
-Unshielded toolless keystone in white color is suitable for UTP CAT6A cables , with a simple installation that does not require the use of a cutting tool. This keystone is designed to be used in combination
-RJ45-5W
-Conexpro pass-through connector RJ45 UTP, CAT5E, Wire Cross
-Through Wire Cross data RJ45 connector for structured cabling for wire type conductor. It is a universal unshielded RJ45 connector CAT5E class with 8P8C connection ensuring efficient and simple crimping of
-GEL-12-20
-Conexpro battery gel, 12V, 20Ah, lifetime 10-12 years, M5, Deep cycle
-Conexpro brand gel batteries with output voltage 12 V , capacity 20 Ah , 10-12 year life is equipped with two M5 connectors for connection to the device. GEL technology involves the absence of liquid
-RJ45-5SGW
-Conexpro pass-through connector RJ45 FTP, CAT5E, ground PIN, Wire Cross
-Recommended
-Through Wire Cross data RJ45 connector for structured cabling for wire type conductor. It is a universal shielded RJ45 connector with grounding eye CAT5E class with 8P8C connection ensuring efficient and
-SS452
-Conexpro splice sleeve 2.2 x 45mm, 1mm steel rod
-The splice protector, with a length of 45 mm and a width of 2.2 mm, is equipped with a 1 mm steel reinforcement that effectively protects optical fibers. It is specially designed for maximum safety and
-SC/SC-SSM-APC
-Conexpro fiber optic coupler SC-SC, APC, Singlemode, Simplex
-The optical adapter is designed to connect a single SC simplex cable and is intended for single mode cables with a wavelength of 9/125µm. Thanks to the ferrule with APC polishing on both sides, it ensures
-GM-2410
-Conexpro made for MikroTik GM-2410, Power adapter 24V, 1A
-The power adapter with an output voltage of 24 V DC , a maximum current of 1 A is equipped with a standard 5.5/ 2.1 mm, which is ideal and practical for powering devices such as MikroTik and others. This
-RJ45-6AS
-Conexpro connector RJ45 FTP, CAT6A, two-part
-Conexpro folding shielded RJ45 connector with installation insert including metal cable holder is designed for use with Cat6A class STP/FTP cable with wire-type conductors. These connectors are an integral
-PC6U-05
-Conexpro patch cable UTP, CAT6, 0.5m, gray
-Conexpro patch cables combine quality and reliability. Unlike regular cables, Conexpro patch cables have a high-quality and elegant rubber protective cap against bending the beak. The cable has UTP design
-RJ45-5S
-Conexpro connector RJ45 FTP, CAT5E
-Recommended
-Conexpro's shielded RJ45 connector is designed for use with CAT5E class FTP cable with wire-type conductors. These connectors are an integral part of structured cabling and are carefully designed to ensure a
 RJ45-6W
 Conexpro pass-through connector RJ45 UTP, CAT6, Wire Cross
 Through Wire Cross data RJ45 connector for structured cabling for wire type conductor. It is a universal unshielded RJ45 connector CAT6 class with 8P8C connection ensuring efficient and simple crimping of the
+RJ45-6AS
+Conexpro connector RJ45 FTP, CAT6A, two-part
+Conexpro folding shielded RJ45 connector with installation insert including metal cable holder is designed for use with Cat6A class STP/FTP cable with wire-type conductors. These connectors are an integral
+SS602
+Conexpro splice sleeve 2.2 x 60mm, 1mm ocelová výztuha
+Recommended
+The splice protector, with a length of 60 mm and a width of 2.2 mm, is equipped with a 1 mm steel reinforcement that effectively protects optical fibers. It is specially designed for maximum safety and
 Contact
 Conexpro
 Contact

@@ -1,4 +1,4 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-09T09:57:20Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-10T10:04:27Z · HTTP 200
 06.11.2026 10:29:37	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-06/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcz99hhsesxxxxx
 03.11.2026 12:39:53	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp3/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc3
 03.11.2026 12:35:18	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp1/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc1
@@ -33,7 +33,7 @@
 08.10.2026 12:01:38	ControlEx 32 Recpt.10x2.5 Socket	https://www.adeptor.no/hawke-international/exd32-slash-cr-3cscxrxxa7/controlex-32-recpt10x25-socket-exd32-s-cr-v-10x25-s-c-frc-a-7
 08.10.2026 11:57:15	ControlEx 50 Recpt 37x1.5 R40 Socket(A1)	https://www.adeptor.no/hawke-international/exd50-slash-cr-5ascxrx4a1/controlex-50-recpt-37x15-r40-socketa1-exd50-s-cr-v-37x15-s-c-frc-r40-a-1
 08.10.2026 08:01:43	ControlEx 32 Plug 6x6 Pin R25	https://www.adeptor.no/hawke-international/exd32-slash-cp-3fpcxpx2a7/controlex-32-plug-6x6-pin-r25-exd32-s-cp-v-6x6-p-c-fpc-r25-a-7
-08.10.2026 07:54:26	ControlEx 32 Recpt. 6x6 Socket R25	https://www.adeptor.no/hawke-international/exd32-slash-cr-3fscxrx2a7/controlex-32-recpt-6x6-socket-r25-exd32-s-cr-v-6x6-s-c-frc-r25-a-7
+08.10.2026 07:54:26	ControlEx 32 Recpt. 6x6 Socket R25	https://www.adeptor.no/hawke-international/exd32-slash-cr-3fscxrx2a7/controlex-32-recpt-6x6-socket-r25-exd32-s-cr-v-6x6-s-s-frc-r25-a-7
 08.10.2026 07:35:52	Hawke CSB656 (M) B-3/4 (FM) M25 SS	https://www.adeptor.no/hawke-international/csb656-b3-slash-4n-m25ss/hawke-csb656-m-b-3-4-fm-m25-ss-exde-d162-e184-w-compound
 06.10.2026 13:08:13	Hawke Reducer (M) 1NPT- (FM) 1 1/2NPT NP	https://www.adeptor.no/hawke-international/476-slash-r-1n-11-slash-2nnp/hawke-reducer-m-1npt-fm-1-1-2npt-np-exde-hawke-reducer-476
 06.10.2026 12:41:49	Adalit Charger - Single Vehicle 12/24V	https://www.adeptor.no/adalit/cvl41/adalit-charger-single-vehicle-12-24v-l4000

@@ -1,6 +1,6 @@
-# SB-238 digimax.it · sitemap · https://www.digimax.it/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
-2026-11-09T10:07:14+00:00	https://www.digimax.it/it/sitemap.xml
-2026-11-09T10:07:14+00:00	https://www.digimax.it/en/sitemap.xml
+# SB-238 digimax.it · sitemap · https://www.digimax.it/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+2026-11-10T10:13:20+00:00	https://www.digimax.it/it/sitemap.xml
+2026-11-10T10:13:20+00:00	https://www.digimax.it/en/sitemap.xml
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/14D-12D05NNL
 2025-09-17T00:06:23+00:00	https://www.digimax.it/en/product/14D-12D05NNL
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/19D-24D15NNL

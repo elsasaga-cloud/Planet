@@ -1,4 +1,4 @@
-# SB-946 intrising.com.tw · feed_auto · https://www.intrising.com.tw/feeds/rss/news.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-946 intrising.com.tw · feed_auto · https://www.intrising.com.tw/feeds/rss/news.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
 Thu, 29 Oct 2026 00:00:00 GMT	Let's Connect at SPS 2026!	https://www.intrising.com.tw/news/expo/sps_2026
 Fri, 24 Jul 2026 00:00:00 GMT	ISO 9001:2015 Certification	https://www.intrising.com.tw/news/new_feature/iso_9001_2015
 Thu, 05 Feb 2026 00:00:00 GMT	PTP Technology Enables Precise Autonomous Data	https://www.intrising.com.tw/news/case_study/gptp_vehicle_solution

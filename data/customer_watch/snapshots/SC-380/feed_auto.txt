@@ -1,51 +1,51 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+Tue, 10 Nov 2026 07:20:00 GMT	[ipTIME Extender] Extender와 Ring AP 중 무엇을 사야 하나요?	https://iptime.com/support/faq/27832
+Tue, 10 Nov 2026 07:08:17 GMT	[공지] 11월 12일(목) ipTIME 홈페이지 서버 점검 안내	https://iptime.com/notices/27831
+Tue, 10 Nov 2026 04:34:47 GMT	[ipTIME 카메라] 홈캠을 유선(LAN)으로 연결할 수 있나요?	https://iptime.com/support/faq/27830
+Tue, 10 Nov 2026 04:26:48 GMT	[ipTIME 카메라] 홈캠 전원은 어떻게 연결하나요? (배터리 사용 여부)	https://iptime.com/support/faq/27829
+Tue, 10 Nov 2026 02:32:02 GMT	[무선랜카드] ipTIME A3000UA5 사용설명서	https://iptime.com/support/downloads/27828
+Tue, 10 Nov 2026 02:25:12 GMT	ipTIME BE5100plus 사용설명서	https://iptime.com/support/downloads/27827
+Tue, 10 Nov 2026 01:22:30 GMT	[ipTIME 카메라] 맥(Mac)에서도 홈캠을 볼 수 있나요?	https://iptime.com/support/faq/27824
+Tue, 10 Nov 2026 01:12:28 GMT	[ipTIME 카메라] 카메라 1대를 몇 명이 동시에 볼 수 있나요? 앱에 몇 대까지 등록하나요?	https://iptime.com/support/faq/27823
+Tue, 10 Nov 2026 01:10:08 GMT	[ipTIME 카메라] 공유기(Wi-Fi)를 바꾸면 카메라를 다시 등록해야 하나요?	https://iptime.com/support/faq/27822
+Mon, 09 Nov 2026 12:26:45 GMT	[ipTIME Extender] 확장기를 무선랜카드처럼 쓰는 방법	https://iptime.com/support/faq/27821
+Mon, 09 Nov 2026 06:45:10 GMT	[ipTIME Extender] 와이파이 이름을 공유기와 같게 할지, 다르게 할지	https://iptime.com/support/faq/27820
+Mon, 09 Nov 2026 06:38:32 GMT	[ipTIME Extender] 확장기 LAN 포트에 PC·스마트TV·셋톱박스 연결하기	https://iptime.com/support/faq/27819
+Mon, 09 Nov 2026 06:00:30 GMT	[ipTIME Outdoor AP] 마당·주차장 등 실외로 와이파이를 넓히려면 (Outdoor-A900)	https://iptime.com/support/faq/27818
+Mon, 09 Nov 2026 05:54:17 GMT	[ipTIME Ring AP] 매장·사무실 천장에 Ring AP를 여러 대 설치하는 방법	https://iptime.com/support/faq/27817
+Mon, 09 Nov 2026 05:15:07 GMT	[ipTIME Ring AP] Ring AP 벽·천장 설치와 전원 연결 방법	https://iptime.com/support/faq/27816
+Mon, 09 Nov 2026 04:44:32 GMT	[ipTIME Extender] 스마트폰 앱으로 확장기 설정하기	https://iptime.com/support/faq/27815
+Mon, 09 Nov 2026 04:15:41 GMT	[ipTIME Extender] WPS 버튼으로 1분 만에 연결하기	https://iptime.com/support/faq/27814
+Mon, 09 Nov 2026 04:01:04 GMT	[ipTIME Extender] LED 표시등으로 설치 위치 확인하는 방법	https://iptime.com/support/faq/27813
+Mon, 09 Nov 2026 03:14:33 GMT	[ipTIME Extender] 확장기는 집 안 어디에 꽂아야 하나요?	https://iptime.com/support/faq/27812
+Mon, 09 Nov 2026 03:07:24 GMT	[ipTIME Extender] 확장기 설정 화면에 접속하는 방법	https://iptime.com/support/faq/27811
+Mon, 09 Nov 2026 02:57:50 GMT	[ipTIME Extender] 확장기 초기화(리셋) 방법	https://iptime.com/support/faq/27810
+Mon, 09 Nov 2026 02:52:23 GMT	[ipTIME Extender] 공유기 비밀번호를 바꾼 뒤 확장기가 안 될 때	https://iptime.com/support/faq/27809
+Mon, 09 Nov 2026 02:42:47 GMT	[ipTIME Extender] 자주 끊기거나 방을 옮기면 느린 와이파이에 붙어 있을 때	https://iptime.com/support/faq/27808
+Mon, 09 Nov 2026 02:38:37 GMT	[ipTIME Extender] 연결은 됐는데 인터넷이 안 될 때	https://iptime.com/support/faq/27807
+Mon, 09 Nov 2026 02:36:30 GMT	[ipTIME Extender] 확장기의 와이파이 이름(SSID)이 안 보일 때	https://iptime.com/support/faq/27806
+Mon, 09 Nov 2026 02:25:40 GMT	[ipTIME Extender] 확장기를 달았는데 속도가 절반으로 줄었을 때	https://iptime.com/support/faq/27805
+Mon, 09 Nov 2026 01:06:38 GMT	[ipTIME Extender] 확장기가 공유기에 연결되지 않을 때	https://iptime.com/support/faq/27804
+Mon, 09 Nov 2026 00:52:30 GMT	[ipTIME Extender] 유선 백홀과 무선 백홀의 차이, 무엇이 더 빠른가요?	https://iptime.com/support/faq/27803
+Mon, 09 Nov 2026 00:51:55 GMT	[ipTIME Extender] 확장기를 2대 이상 연결할 수 있나요?	https://iptime.com/support/faq/27802
+Mon, 09 Nov 2026 00:51:12 GMT	[ipTIME Extender] 타사 공유기와 함께 쓸 수 있나요?	https://iptime.com/support/faq/27801
+Mon, 09 Nov 2026 00:50:37 GMT	[ipTIME Extender] 통신사 공유기(KT, SK, LG U+)에 ipTIME 확장기를 연결할 수 있나요?	https://iptime.com/support/faq/27800
+Mon, 09 Nov 2026 00:47:29 GMT	[ipTIME Ring AP] Ring AP 모델별 차이 (Ring-BE3600plus, Ring-AX3000, Ring-GIGA3, Ring-mini3)	https://iptime.com/support/faq/27799
+Mon, 09 Nov 2026 00:46:52 GMT	[ipTIME Extender] 공유기가 Wi-Fi 5인데 Wi-Fi 6 확장기를 사도 되나요?	https://iptime.com/support/faq/27798
+Mon, 09 Nov 2026 00:46:18 GMT	[ipTIME Extender] 5만 원 이하 확장기는 어떤 모델이 있나요?	https://iptime.com/support/faq/27797
+Mon, 09 Nov 2026 00:45:42 GMT	[ipTIME Extender] Extender-AX3000Q와 Extender-AX1500T의 차이	https://iptime.com/support/faq/27796
+Mon, 09 Nov 2026 00:45:07 GMT	[ipTIME Extender] Wi-Fi 7 확장기(Extender-BE3600Q)는 어떤 경우에 필요한가요?	https://iptime.com/support/faq/27795
+Mon, 09 Nov 2026 00:42:30 GMT	[ipTIME Extender] 복층·주택·긴 구조의 집에서 확장하는 방법	https://iptime.com/support/faq/27794
+Mon, 09 Nov 2026 00:41:55 GMT	[ipTIME Extender] 방에서 화상회의·온라인 수업이 끊길 때 맞는 확장기	https://iptime.com/support/faq/27793
+Mon, 09 Nov 2026 00:41:19 GMT	[ipTIME Extender] 부모님 댁에 설치하기 쉬운 확장기	https://iptime.com/support/faq/27792
+Mon, 09 Nov 2026 00:40:02 GMT	[ipTIME Extender] 거실은 잘 되는데 안방만 와이파이가 약할 때	https://iptime.com/support/faq/27791
+Mon, 09 Nov 2026 00:39:27 GMT	[ipTIME Extender] 30평대 아파트에서 확장기는 몇 대, 어떤 모델이 필요한가요?	https://iptime.com/support/faq/27790
+Mon, 09 Nov 2026 00:34:42 GMT	[ipTIME Extender] 구 UI(펌웨어 14 이하) 설정 방법 모음	https://iptime.com/support/faq/27789
 Sat, 07 Nov 2026 01:52:58 GMT	[공지] ipTIME CCTV 앱(안드로이드) 계정 가입 시 인증번호 미발송 현상 해결	https://iptime.com/notices/27788
+Fri, 06 Nov 2026 08:58:22 GMT	[ipTIME Extender] 단종 모델의 펌웨어와 A/S는 어떻게 되나요?	https://iptime.com/support/faq/27786
+Fri, 06 Nov 2026 08:57:29 GMT	[ipTIME Ring AP] 단종 Ring AP와 후속 모델 대응표	https://iptime.com/support/faq/27785
 Fri, 06 Nov 2026 08:32:21 GMT	[ipTIME 카메라] 홈캠 AI 감지는 유료인가요? 구독해야 하나요?	https://iptime.com/support/faq/27784
+Fri, 06 Nov 2026 08:23:09 GMT	[ipTIME Extender] 단종 확장기와 후속 모델 대응표	https://iptime.com/support/faq/27783
 Fri, 06 Nov 2026 07:26:51 GMT	[IP 카메라] C500-Outdoor 사용설명서	https://iptime.com/support/downloads/27782
 Fri, 06 Nov 2026 07:25:03 GMT	[IP 카메라] C400GS 사용설명서	https://iptime.com/support/downloads/27781
 Fri, 06 Nov 2026 07:24:11 GMT	[IP 카메라] C500GS 사용설명서	https://iptime.com/support/downloads/27780
-Fri, 06 Nov 2026 07:23:23 GMT	[IP 카메라] C400G 사용설명서	https://iptime.com/support/downloads/27779
-Fri, 06 Nov 2026 07:21:51 GMT	[IP 카메라] C500G 사용설명서	https://iptime.com/support/downloads/27778
-Fri, 06 Nov 2026 01:19:51 GMT	[펌웨어] ipTIME IP카메라 5종 펌웨어 37.0.181	https://iptime.com/support/downloads/27776
-Thu, 05 Nov 2026 08:39:04 GMT	[ipTIME 카메라] 홈캠 C300E 거치대로 각도 조절해 설치하기	https://iptime.com/support/faq/27775
-Thu, 05 Nov 2026 08:39:04 GMT	[ipTIME 카메라] 홈캠 C300E 전원 연결(USB Type-C)과 주의 사항	https://iptime.com/support/faq/27774
-Thu, 05 Nov 2026 08:39:03 GMT	[ipTIME 카메라] 홈캠 C300E를 NVR·PC 프로그램에 연결하기 (ONVIF·RTSP)	https://iptime.com/support/faq/27773
-Thu, 05 Nov 2026 08:39:03 GMT	[ipTIME 카메라] 홈캠 C300E 스마트 감지(사람·화면 변화)와 감시 구역 설정	https://iptime.com/support/faq/27772
-Thu, 05 Nov 2026 08:39:03 GMT	[ipTIME 카메라] 홈캠 C300E 지원 기능과 회전형 홈캠과의 차이	https://iptime.com/support/faq/27771
-Thu, 05 Nov 2026 07:55:41 GMT	[Easy Mesh] Mesh와 Extender, 어떤 걸 골라야 하나요? 와이파이 확장 선택 가이드	https://iptime.com/support/faq/27770
-Wed, 04 Nov 2026 05:32:43 GMT	[ipTIME 카메라] 홈캠 C300E 벽·천장 설치와 화면 반전 설정방법	https://iptime.com/support/faq/27769
-Wed, 04 Nov 2026 04:03:35 GMT	[ipTIME 공유기] DNS 보안 설정 방법 (DNS 리다이렉트, 암호화 DNS 차단)	https://iptime.com/support/faq/27768
-Wed, 04 Nov 2026 01:54:33 GMT	[ipTIME NAS] ipTIME NAS 유틸리티 설치와 사용 방법 (ipDISK Drive, ipTIME Cloud)	https://iptime.com/support/faq/27767
-Wed, 04 Nov 2026 00:32:00 GMT	[펌웨어] ipTIME 유무선 공유기 펌웨어 16.00.6 배포	https://iptime.com/notices/27766
-Wed, 04 Nov 2026 00:32:00 GMT	[펌웨어] ipTIME 공유기 펌웨어 16.00.6	https://iptime.com/support/downloads/27765
-Tue, 03 Nov 2026 09:26:33 GMT	[ipTIME 카메라] 홈캠 앱과 PC 프로그램 총정리	https://iptime.com/support/faq/27764
-Tue, 03 Nov 2026 02:29:29 GMT	[ipTIME 카메라] ipTIME 공유기와 홈캠 함께 쓸 때 추천 설정	https://iptime.com/support/faq/27763
-Tue, 03 Nov 2026 02:29:29 GMT	[ipTIME 카메라] 매장·사무실 CCTV 추천과 운영·녹화 설정	https://iptime.com/support/faq/27762
-Tue, 03 Nov 2026 02:29:29 GMT	[ipTIME 카메라] 부모님 댁 홈캠 추천과 원클릭 호출 설정	https://iptime.com/support/faq/27761
-Tue, 03 Nov 2026 02:29:29 GMT	[ipTIME 카메라] 아기방 홈캠(베이비캠) 추천과 울음소리 알림 설정	https://iptime.com/support/faq/27760
-Tue, 03 Nov 2026 02:29:29 GMT	[ipTIME 카메라] 반려동물 홈캠(펫캠) 추천과 설치·설정 방법	https://iptime.com/support/faq/27759
-Tue, 03 Nov 2026 02:28:18 GMT	[ipTIME 카메라] 홈캠 모델별 화각과 회전 범위 비교	https://iptime.com/support/faq/27758
-Tue, 03 Nov 2026 02:28:18 GMT	[ipTIME 카메라] 홈캠 양방향 대화 중 하울링이 생기거나 소리가 작을 때	https://iptime.com/support/faq/27757
-Tue, 03 Nov 2026 02:28:17 GMT	[ipTIME 카메라] 실외용 CCTV C500-Outdoor 설치 방법	https://iptime.com/support/faq/27756
-Tue, 03 Nov 2026 02:28:17 GMT	[ipTIME 카메라] 홈캠이 5GHz Wi-Fi에 연결되지 않을 때	https://iptime.com/support/faq/27755
-Tue, 03 Nov 2026 02:27:26 GMT	[ipTIME 카메라] 포트포워딩·DDNS 없이 외부에서 홈캠 보기	https://iptime.com/support/faq/27754
-Tue, 03 Nov 2026 02:27:25 GMT	[ipTIME 카메라] 홈캠 영상은 어디에 저장되나요? 저장 위치와 보안	https://iptime.com/support/faq/27753
-Tue, 03 Nov 2026 02:27:25 GMT	[ipTIME 카메라] 이전 앱에서 ipTIME CCTV 앱으로 옮기기	https://iptime.com/support/faq/27752
-Tue, 03 Nov 2026 02:27:25 GMT	[ipTIME 카메라] 홈캠 앱(ipTIME CCTV) 다운로드와 모델별 사용 앱	https://iptime.com/support/faq/27751
-Tue, 03 Nov 2026 02:26:30 GMT	[ipTIME 카메라] 단종된 C200·C300·C500 후속 모델 추천과 사용 앱	https://iptime.com/support/faq/27750
-Tue, 03 Nov 2026 02:26:29 GMT	[ipTIME 카메라] C500G·C400G와 C500GS·C400GS 차이 비교	https://iptime.com/support/faq/27749
-Tue, 03 Nov 2026 02:26:13 GMT	[ipTIME 카메라] 용도별 홈캠·CCTV 추천과 모델 비교	https://iptime.com/support/faq/27748
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 회전·방향 조절과 Preset·순찰 사용법	https://iptime.com/support/faq/27747
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 벽·천장 설치와 화면 반전·왜곡 보정	https://iptime.com/support/faq/27746
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 여러 대 한 화면에 보기와 스크린샷·앱 녹화	https://iptime.com/support/faq/27745
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 제스처 제어 사용법과 띵 소리가 날 때	https://iptime.com/support/faq/27744
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 클라우드(무료·유료)와 microSD 카드 녹화 비교	https://iptime.com/support/faq/27743
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 양방향 대화·원클릭 호출·음성 알림 사용법	https://iptime.com/support/faq/27742
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 AI 박스로 사람·반려동물·울음소리 감지와 감시 구역 설정	https://iptime.com/support/faq/27741
-Thu, 29 Oct 2026 08:17:40 GMT	[ipTIME 카메라] 홈캠 자동 추적으로 사람·움직임 따라 촬영하기	https://iptime.com/support/faq/27740
-Thu, 29 Oct 2026 07:09:51 GMT	[ipTIME 카메라] 홈캠 사생활 보호 모드로 카메라 끄기·켜기	https://iptime.com/support/faq/27739
-Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 가족 공유 설정과 해외에서 보기	https://iptime.com/support/faq/27738
-Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 펌웨어 업데이트 방법과 실패할 때	https://iptime.com/support/faq/27737
-Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 푸시 알림이 오지 않을 때	https://iptime.com/support/faq/27736
-Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] 홈캠 화면이 흑백이거나 주간·야간 모드가 자주 바뀔 때	https://iptime.com/support/faq/27735
-Thu, 29 Oct 2026 04:18:07 GMT	[ipTIME 카메라] PC에서 홈캠 보기 CAM Multi 뷰어 사용법과 연결 오류	https://iptime.com/support/faq/27734

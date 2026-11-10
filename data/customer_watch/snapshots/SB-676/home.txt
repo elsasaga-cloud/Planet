@@ -1,7 +1,7 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 50,15 TL
-€: 56,04 TL
+$: 50,25 TL
+€: 56,20 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -16,6 +16,7 @@ ALCATEL
 APRONX
 ARABA
 ASELSAN
+ASONIC
 ASUS
 AVENİR
 AVİX
@@ -148,12 +149,12 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1143,36 TL
+1145,78 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1143,36 TL
+1145,78 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
@@ -280,7 +281,8 @@ Paketleme Ürünleri
 Mutfak Gereçleri
 Aydınlatma Ürünleri
 Hesap Makinesi
-Tabela Led Poster
+Tabela Led Poster İç Ortam
+Tabela Led Poster Dış Ortam
 Diğer Ürünler
 Motosiklet Ürünleri
 Otomobil Ürünleri
@@ -413,7 +415,8 @@ Paketleme Ürünleri
 Mutfak Gereçleri
 Aydınlatma Ürünleri
 Hesap Makinesi
-Tabela Led Poster
+Tabela Led Poster İç Ortam
+Tabela Led Poster Dış Ortam
 Diğer Ürünler
 Motosiklet Ürünleri
 Otomobil Ürünleri
@@ -538,22 +541,22 @@ ZIMMER 20" HDMI VGA LED HD SES MONiTOR
 SEVİMLİ PİNPON Eğitici Hediyelik Oyuncak ( K-50 )
 REOLINK P320 5MP 2.8MM ÇİFT SES METAL IP BULLET KAMERA
 O-KAM OK-S-335 PREMiUM4G SİRENLİ 4G 4 LENS AOV SOLAR ÇİFT PANEL BEYAZ PTZ KAMERA
+GV HD 2TB WD 3.5 PURPLE SATA3 5400RPM 64MB 7/24 GUVENLIK WD23PURZ (3 YIL RESMI DIST GARANTILI)
 PC HD 1TB SEAGATE ST1000DM010 BARRACUDA 7200RPM SATA3
-1TB WD 3.5 PURPLE SATA3 5400RPM 64MB 7/24 GUVENLIK WD11PURZ (3 YIL RESMI DIST GARANTILI)
 Son Gezilen Ürünler
 Yeni Gelen Ürünler
-DAHUA 192X64CM P2.5 IC ORTAM POSTER LED
-LIOREN OASIS G-36 AIRFRYER YAĞSIZ FRİTÖZ 3,5 LİTRE
-HIKVISION DS-2CD1T43G2-LIUF/SL 4MP HIBRIT IP BULLE
-PC HD 4TB Seagate ST4000VN0001 ENTERPRISE SATA III 6Gb/s 7200 RPM 128MB NAS DEPOLAMA
-DAHUA 27" LM27-U200PM 1920x1080 HDMI/USB3.0 6GB/128GB ANDROID SMART MONITOR +WIFI +SPEAKER +PIVOT
-DAHUA LED POSTER İÇ ORTAM 96x192 cm P2.5 GOB TEKERLEKLİ
-DAHUA LED POSTER İÇ ORTAM 96x192 cm P1.86 GOB TEKERLEKLİ
-DAHUA LED POSTER İÇ ORTAM 96x192 cm P1.53 GOB TEKERLEKLİ
-PC HD 10TB SEAGATE ST10000DM004 BARRACUDA 7200RPM 256MB SATA HARDDISK
-1TB TOSHIBA 2.5" L200 5400RPM 128MB HDWL110UZSVA
-HELIOS HS-1809 GAYE KRİSTAL CAM SPOT
-FORLIFE FL-1826 5W OSLO KRİSTAL CAM SPOT
+DAHUA 192X64 CM P2.5 DIŞ ORTAM POSTER LED
+DAHUA 176X64 CM P2.5 DIŞ ORTAM POSTER LED
+DAHUA 160X64 CM P2.5 DIŞ ORTAM POSTER LED
+DAHUA 192X64 CM P3 DIŞ ORTAM POSTER LED
+DAHUA 176X64 CM P3 DIŞ ORTAM POSTER LED
+DAHUA 160X64 CM P3 DIŞ ORTAM POSTER LED
+DAHUA 192X96 CM P2.5 DIŞ ORTAM POSTER LED
+DAHUA 176X96 CM P2.5 DIŞ ORTAM POSTER LED
+DAHUA 160X96 CM P2.5 DIŞ ORTAM POSTER LED
+DAHUA 192X96 CM P3 DIŞ ORTAM POSTER LED
+DAHUA 176X96 CM P3 DIŞ ORTAM POSTER LED
+DAHUA 160X96 CM P3 DIŞ ORTAM POSTER LED
 Popüler Kategoriler
 Toptan Harici Harddiskleri
 4 Ürün
@@ -562,7 +565,7 @@ Toptan PC Harddiskleri
 Toptan IP Bullet Kameraları
 29 Ürün
 Toptan Ip Dome Kameraları
-29 Ürün
+30 Ürün
 Toptan Speed Dome PTZ
 32 Ürün
 Toptan Poe Switch
@@ -572,7 +575,7 @@ Toptan Monitörler
 Toptan Solar Kamera Sistemleri
 6 Ürün
 Toptan Küçük Ev Aletleri
-66 Ürün
+67 Ürün
 Toptan AHD Bullet Kameralar
 12 Ürün
 Toptan IP Kayıt Cihazları

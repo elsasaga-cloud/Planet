@@ -1,4 +1,4 @@
-# SB-815 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-815 lendoux.com · home · https://lendoux.com/en/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Lendoux Specialized Store
  New
 
@@ -70,21 +70,20 @@ More Category Less Category More Category Less Category
 Popular Products
 
 
-Edgecore Datacenter switch DCS520-AS9736-64D-with 64*400G
-Switch and router store
-$44,400.00 Price
-
-Seagate Exos X10 Specifications 12 Gb/s SAS ST10000NM0096
+NVIDIA MCX516A-CCAT dual port 100GbE server network card
 Data center store
-$0.00 Price
+$978.00 Price
 
-HAIRF R900C In Row 60kw data center air conditioning
+NETIO PowerBOX 4Kx with LAN-enabled smart power strip with 4 outputs
 Data center store
-$7,758.65 $8,167.00 Regular price -5% off Price
+$366.00 Price
 
-FS Datacenter switch MSN4700-WS2RC with 32*400G
-Switch and router store
-$88,614.00 Price
+Microand smart Data Center package EDGE-8 with usystem ventilation
+Data center store
+
+HOP6865-56YC- 48 port 25 G Access and 8x100 G Uplink Switch
+Telecom and Network
+$7,400.00 Price
 All Featured Products 
 Latest Requests
 
@@ -153,27 +152,26 @@ Most Viewed
  
 
 
-400KVA CUMMINS DIESEL GENERATOR ,C400D5P
+7.5 KVA CUMMINS DIESEL GENERATOR ,C7.5D5P
 
  
  
 
 
-2000KVA CUMMINS DIESEL GENERATOR ,C2000D5P
-$257,500.00
+QSK60 Cummins Diesel Generator
 
  
  
 
 
-20KVA CUMMINS DIESEL GENERATOR ,C20D5P
+380KVA CUMMINS DIESEL GENERATOR ,C380D5P
+$39,200.00
 
  
  
 
 
-2000KVA CUMMINS DIESEL GENERATOR ,C2000D5
-$239,000.00
+QSN14 Cummins Diesel Generator
 New products
 New
 
@@ -255,7 +253,7 @@ What is Milestone Video Surveillance Software and How Does It Work?
 Posted in:
 Products
 07/09/2025
-6899
+6926
 views
 Milestone Software | Optimal Choice for video Management Software
 Milestone's XProtect VMS products are designed as...
@@ -264,7 +262,7 @@ Getting to Know IPTV
 Posted in:
 Products
 06/12/2025
-5382
+5425
 views
 IPTV (Internet Protocol Television) is an innovative solution for the transmission of video, audio, image, and text...
 Read more
@@ -272,7 +270,7 @@ Industrial Dual PON ONU HOU14865
 Posted in:
 Products
 08/24/2023
-5273
+5298
 views
 HOU14865 is an industrial grade dual PON port ONU. Industrial-grade ONU equipment for natural heat dissipation of...
 Read more
@@ -280,7 +278,7 @@ Comparison of Microchip SyncServer S650 VS HOPF 8100
 Posted in:
 Products
 10/26/2024
-5655
+5679
 views
 Microchip, Hopf, Meinberg, WorldTime, and Saplink are among the best time server brands in the world from Germany,...
 Read more

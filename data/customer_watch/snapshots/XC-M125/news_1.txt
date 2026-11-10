@@ -1,4 +1,4 @@
-# XC-M125 Electrobit OÜ · news_1 · https://www.electrobit.ee/blog · fetched 2026-11-09T09:57:20Z · HTTP 200
+# XC-M125 Electrobit OÜ · news_1 · https://www.electrobit.ee/blog · fetched 2026-11-10T10:04:27Z · HTTP 200
 Electrobit OÜ - Tööstusautomaatika tooted ja tarkus
 Kasutame küpsiseid
 Kasutame vajalikke küpsiseid veebilehe toimimiseks ning analüüsi- ja reklaamiküpsiseid, et mõista veebilehe kasutamist ja pakkuda asjakohasemat sisu. Oma valikut saad hiljem igal ajal muuta.
@@ -54,6 +54,8 @@ Turvaseadmed
 Andurid ja enkooderid
 ">
 Komponendid
+">
+Outlet
 " > Enkoodrid ja kaldeandurid
 " > Kaitselülitid ja kontaktorid
 " > Kontrollerid
@@ -63,6 +65,7 @@ Komponendid
 " > SMART kaamerad ja tarvikud
 " > Andurid ja tarvikud
 " > Tööstuslikud kruvikeerajad
+" > Outlet Deals
 " > Operaatorpaneelid
 " > Tööstuslik andmeside
 " > Servoajamid

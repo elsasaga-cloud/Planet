@@ -1,4 +1,4 @@
-# SC-1215 router.lv · home · https://router.lv/products.php · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1215 router.lv · home · https://router.lv/products.php · fetched 2026-11-10T10:04:27Z · HTTP 200
 www.router.lv - Mikrotik Distributor
 lietuviškai
 latviski
@@ -21,7 +21,7 @@ Price:
 € 2203.50
 + VAT
 In stock 2
-In E2 stock 13
+In E2 stock 5
 Please call +371 67724000
 (CRS518-16XS-2XQ-RM) Cloud Router Switch 518-16XS-2XQ-RM with RouterOS L5 license, rackmount case
 A 100 Gigabit switch for enterprise networks and data centers. Hot-swappable parts and insane port density with 1.2 Tbps switching capacity!

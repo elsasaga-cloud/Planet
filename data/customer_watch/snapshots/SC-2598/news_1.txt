@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Blogs
 Products
 DW Ai
@@ -381,6 +381,10 @@ Blogs
 2025
 2024
 2023
+11/09/2026
+Could Your Branch Video Answer the Questions That Matter?
+Purposeful views help connect an event from the branch entrance to the service area.A disputed transaction. An alarm after closing. Damage near an ATM. Each incident starts with questions: What happened, who was nearby, and what happened next? A financial institution's video system should help [...]
+Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 11/04/2026
 What Should Auto Dealerships Expect from Video Security?
 Follow vehicle handoffs with views that show both useful detail and the surrounding sequence.A vehicle can pass through several hands in a single dealership visit. It arrives at service reception, moves to a staging area, enters a bay and returns to the customer. If a question comes up later, [...]
@@ -404,9 +408,4 @@ Posted by: Mark Espenschied in Vertical Markets, Educational, Technology, Though
 10/19/2026
 What Should Healthcare Teams Expect from Video Security?
 Thoughtful coverage of public areas can support healthcare safety while respecting privacy and limiting unnecessary views.
-A hospital never really closes. Visitors arrive, employees change shifts, deliveries move through service areas, and patients need care at every hour. A useful video [...]
-Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
-10/14/2026
-What Should a Data Center's Video Security System Help You Verify?
-Connect access events with visual context to help teams review activity around critical data center spaces.
-A badge was used at a restricted door. A contractor arrived for sc
+A hospital never really closes. Visitors arrive, emplo

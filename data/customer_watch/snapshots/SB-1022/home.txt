@@ -1,4 +1,4 @@
-# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Danbit - Leverandør af IT-produkter til professionelle
 Velkommen til DANBIT - Dansk Binær Teknik A/S
 B2B – Kun handel med virksomheder
@@ -40,22 +40,22 @@ Vi tilbyder blandt andet:
 - Projektstøtte og projektarbejde
 - Faglig support gennem hele projektforløbet
 Kontakt Os
-13MP 4K Industrikamera Dual Band Wifi, POE, Fast fokus med M12 linsefatning
+NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
 0,00 kr
-Wi-Fi-kamera 13 MP (4K) farve med AR1335-sensor, PoE, HDR og lavlys
+15U Støjsvag 19" rackskab, 650 x 650 mm udv. mål, lydsvag Fan + Digital temp. regulering, sort
+14.924,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
+30.578,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, 1500 nits i rustfrit stål
+27.241,00 kr
+21,5" CPU I5, PCAP Panel PC FULD IP69K, SUS316/ASIS316 rustfrit stål 250 nits eller 1500 nits version
 0,00 kr
 27" touchskærm med høj lysstyrke, 1000 nits, IP65, HDMI/VGA/USB-C
 7.245,00 kr
-32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, 1500 nits i rustfrit stål
-27.241,00 kr
 IP68 anti-bakteriel silikonetastatur med Track Point - USB - LED baggrundslys, Nordisk tegnsæt
 836,00 kr
-NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
-0,00 kr
-Wi-Fi 7 5100MBPS Dual Band Access Point, udendørs, Eksterne antenner, PoE
-2.300,00 kr
-32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
-30.578,00 kr
+Armeret fiberkabel, Multi mode, SC-SC, 50m, 50/125my, OM3, Aquafarvet, LSZH
+1.457,00 kr
 Erfaring & ekspertise
 50+ års erfaring med tekniske løsninger og rådgivning.
 Kvalitetsprodukter
@@ -102,10 +102,6 @@ Adgangskontrol med brik: kort, læsere og låse
 Hvilken brik er sikker, hvordan forbindes læseren, og hvornår skal låsen være fail-safe? En faglig gennemgang af adgangskontrol til erhverv.
 Magnetkort, Strekkode, NFC
 Nye produkter
-NTP Time Server med Cybersecurity beskyttelse og netværkstidssynkronisering, Antenne med RJ45 interface
-31.168,00 kr
-4 key KVM Switch USB - Macro programmeres i enheden
-1.268,00 kr
 NTP-synkroniseret 6-cifret LED-vægur, PoE 802.3af/at, visning af tid (TT:MM:SS) og dato
 4.125,00 kr
 Sikkerhedsgateway med IPS/IDS og Zero Trust, 10G RJ45 + 10G SFP+, 4 x Gigabit LAN
@@ -122,6 +118,10 @@ Ring +45 56 66 20 20 for pris
 4.800,00 kr
 5G VPN-router med Wi-Fi 6 (AX1800), firewall og fiber (SFP), 5 x Gigabit RJ45
 7.550,00 kr
+5G VPN-router med Wi-Fi 7 (BE5100), 10G RJ45 + 10G SFP+, firewall og WireGuard
+Ring +45 56 66 20 20 for pris
+Industriel VPN-router med RS485, digital I/O og dual-WAN, 5 x Gigabit RJ45, DIN-skinne
+3.900,00 kr
 Levering
 Salgs og leveringsbetingelser
 Om os

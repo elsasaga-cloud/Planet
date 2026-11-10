@@ -1,4 +1,4 @@
-# SA-054 softnetworks.net · feed_auto · https://softnetworks.net/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SA-054 softnetworks.net · feed_auto · https://softnetworks.net/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Mon, 09 Feb 2026 00:45:02 +0000	Buying Refurbished Hardware	https://softnetworks.net/buying-refurbished-hardware/
 Sun, 30 Nov 2025 10:10:07 +0000	Why buy Used or Refurbished Chromebooks ?	https://softnetworks.net/why-buy-used-or-refurbished-chromebooks/
 Sun, 30 Nov 2025 10:09:17 +0000	Unlocking Value with Used & Refurbished Cisco C9200 and C9300 Series Switches	https://softnetworks.net/unlocking-value-with-used-refurbished-cisco-c9200-and-c9300-series-switches/

@@ -1,4 +1,4 @@
-# SB-862 cebecigrup.com · feed_auto · https://cebecigrup.com/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-862 cebecigrup.com · feed_auto · https://cebecigrup.com/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Thu, 08 Oct 2026 08:17:49 +0000	402K Ton Üretici ve Prob Seti	https://cebecigrup.com/402k-ton-uretici-ve-prob-seti/
 Tue, 09 Jun 2026 09:49:01 +0000	CFC-SFP-GIG-RJ45 10/100/1000M RJ45 0.1km SFP Modül	https://cebecigrup.com/cfc-sfp-gig-rj45-10-100-1000m-rj45-0-1km-sfp-modul/
 Tue, 09 Jun 2026 09:12:14 +0000	Fiber Optik Endüstriyel Haberleşme Ürünleri	https://cebecigrup.com/fiber-optik-endustriyel-haberlesme-urunleri/

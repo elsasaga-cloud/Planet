@@ -1,4 +1,4 @@
-# SB-878 magnusgulf.com · feed_auto · https://magnusgulf.com/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-878 magnusgulf.com · feed_auto · https://magnusgulf.com/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Thu, 15 Oct 2026 05:35:16 +0000	Zero Trust Network Access: 6 Essential Rollout Steps	https://magnusgulf.com/zero-trust-network-access/
 Mon, 05 Oct 2026 07:01:59 +0000	Outdoor IP Cameras: 6 Essential UAE Climate Checks	https://magnusgulf.com/outdoor-ip-cameras-uae/
 Tue, 29 Sep 2026 11:15:06 +0000	Firewall Sizing: 4 Essential Numbers for UAE Businesses	https://magnusgulf.com/firewall-sizing/

@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-09T09:57:20Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-10T10:04:27Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -33,7 +33,7 @@ Berica Cavi Cable
 Bosch Fire
 Bosch Intrusion Alarm by Radionix
 Bysecur
-Cellhire
+Cellhire IoT
 ComNet
 Cooper Safety
 CSAG
@@ -525,7 +525,6 @@ Iiyama
 IQsight
 SeeEyes
 Monitor mounts
-Bysecur
 Dahua
 Digitus
 Hikvision
@@ -1132,7 +1131,7 @@ Pulsar
 SeeEyes
 STid
 Veracity
-default.new_menu
+New
 Trainingen
 Training
 Training Dates
@@ -1225,6 +1224,13 @@ Ajax EN54 Hands-On Training
 @ SmartSD Breda (NL)
 8 December
 @ SmartSD Merchtem (BE)
+Axis Webinars
+13 November
+@ Online
+11 December
+@ Online
+15 December
+@ Online
 Acre SPCevo
 16 November
 @ SmartSD Portet-sur-garonne (FR)
@@ -1296,11 +1302,6 @@ Genetec System Design Training
 Network Optix Nx Witness VMS
 4 December
 @ SmartSD Breda (NL)
-Axis Webinars
-11 December
-@ Online
-15 December
-@ Online
 Inim SmartLine
 17 December
 @ SmartSD Merchtem (BE)

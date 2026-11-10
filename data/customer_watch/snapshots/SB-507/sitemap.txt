@@ -1,18 +1,18 @@
-# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
-2026-05-21	https://www.fibreoptic.com.au
-2025-08-26	https://www.fibreoptic.com.au/sustainability
-2026-06-25	https://www.fibreoptic.com.au/fos-insights/why-fibre-optics-are-essential-for-australias-digital-future
+# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
 2026-05-28	https://www.fibreoptic.com.au/cookies
-2026-07-14	https://www.fibreoptic.com.au/fos-insights/how-to-future-proof-your-network-infrastructure-for-the-next-decade
-2026-05-26	https://www.fibreoptic.com.au/subscribe-to-fos-insights
-2025-08-26	https://www.fibreoptic.com.au/career
-2025-08-26	https://www.fibreoptic.com.au/about-us/the-fos-difference
-2025-08-26	https://www.fibreoptic.com.au/about-us
-2025-08-26	https://www.fibreoptic.com.au/terms-and-conditions
-2026-08-25	https://www.fibreoptic.com.au/fos-insights/fibre-optics-the-essential-backbone-of-australias-smart-cities
-2026-06-25	https://www.fibreoptic.com.au/fos-insights/fibre-vs-copper-understanding-the-true-cost-of-network-infrastructure
 2025-08-26	https://www.fibreoptic.com.au/contact
-2025-08-26	https://www.fibreoptic.com.au/privacy-notice
-2026-05-21	https://www.fibreoptic.com.au/products
-2026-08-04	https://www.fibreoptic.com.au/fos-insights/5-common-fibre-optic-installation-mistakes-and-how-to-avoid-them
+2026-06-25	https://www.fibreoptic.com.au/fos-insights/why-fibre-optics-are-essential-for-australias-digital-future
+2025-08-26	https://www.fibreoptic.com.au/about-us/the-fos-difference
+2025-08-26	https://www.fibreoptic.com.au/terms-and-conditions
+2026-06-25	https://www.fibreoptic.com.au/fos-insights/fibre-vs-copper-understanding-the-true-cost-of-network-infrastructure
+2026-08-25	https://www.fibreoptic.com.au/fos-insights/fibre-optics-the-essential-backbone-of-australias-smart-cities
+2025-08-26	https://www.fibreoptic.com.au/sustainability
 2026-09-30	https://www.fibreoptic.com.au/fos-insights
+2025-08-26	https://www.fibreoptic.com.au/career
+2026-05-26	https://www.fibreoptic.com.au/subscribe-to-fos-insights
+2026-07-14	https://www.fibreoptic.com.au/fos-insights/how-to-future-proof-your-network-infrastructure-for-the-next-decade
+2025-08-26	https://www.fibreoptic.com.au/privacy-notice
+2026-08-04	https://www.fibreoptic.com.au/fos-insights/5-common-fibre-optic-installation-mistakes-and-how-to-avoid-them
+2025-08-26	https://www.fibreoptic.com.au/about-us
+2026-05-21	https://www.fibreoptic.com.au/products
+2026-05-21	https://www.fibreoptic.com.au

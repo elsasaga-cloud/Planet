@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -42,49 +42,45 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Hikvision IP bullet kamera DS-2CD1T47G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
-Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý
-89 Kč bez DPH
-108 Kč s DPH
-TP-Link POE260R Omada 2.5G PoE+ Splitter
-332 Kč bez DPH
-402 Kč s DPH
-Conexpro GNT-ES20GDH2-P, PoE switch, 18x LAN, 16x PoE, 2x 1/2.5G SFP
-2 310 Kč bez DPH
-2 795 Kč s DPH
-Teltonika Security WLANP, Komunikační rozhraní s Wi-Fi4 a LAN pro P64
-1 389 Kč bez DPH
-1 680 Kč s DPH
+Hikvision IP mini dome hybrid kamera DS-2CD2583G2-LIS2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+Hikvision IP bullet kamera DS-2CD2T43G2-2LI(2.8mm), 4Mpx, 2.8mm, 60m LED/IR, AcuSense
+Triton plastový pant pro stojanové a nástěnné 19" rozvaděče
+76 Kč bez DPH
+92 Kč s DPH
+Triton zámek do klik stojanových rozvaděčů
+143 Kč bez DPH
+173 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 10 pack
+578 Kč bez DPH
+700 Kč s DPH
+MEAN WELL DDR-60L-5 Step-down měnič napětí DC/DC, 60W
+1 055 Kč bez DPH
+1 276 Kč s DPH
+RF elements SH30WB-GO, Symetrická sektorová Horn anténa s TwistPortem, 5/6GHz, 18dBi, 30°
+3 048 Kč bez DPH
+3 688 Kč s DPH
+TP-Link Sector Bridge 5 Omada Bezdrátová jednotka, 5 GHz
+4 137 Kč bez DPH
+5 006 Kč s DPH
+TP-Link Tapo T150 Smart senzor lidské přítomnosti
+977 Kč bez DPH
+1 183 Kč s DPH
+Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý
+112 Kč bez DPH
+136 Kč s DPH
 Ubiquiti UniFi patch kabel, 8m, Cat5e, modrý
-216 Kč bez DPH
-261 Kč s DPH
-Triton 19" stojanový rack 22U/800x900 prosklené dveře, šedý
-10 980 Kč bez DPH
-13 286 Kč s DPH
-Triton osvětlovací LED diodová jednotka magnetická včetně adaptéru
-1 147 Kč bez DPH
-1 388 Kč s DPH
-Ubiquiti Ochranný štít proti povětrnostním vlivům pro AI Multi Sensor 2 kameru, bílý
-418 Kč bez DPH
-506 Kč s DPH
-Triton 19" stojanový rack 32U/800x900 prosklené dveře, šedý
-13 850 Kč bez DPH
-16 759 Kč s DPH
-Ubiquiti UX7, UniFi Express 7, 2 pack
-9 704 Kč bez DPH
-11 741 Kč s DPH
-Triton horizontální ventilační jednotka s termostatem RAB-CH-X02-A1, 230V/60W, 4x ventilátory, černá
-4 295 Kč bez DPH
-5 197 Kč s DPH
-TP-Link EAP727 Omada Wi-Fi 7 Access Point
-4 029 Kč bez DPH
-4 875 Kč s DPH
-TP-Link Tapo C575D Bezpečnostní otočná kamera s naklápěním a dvěma objektivy, 8Mpx
-3 358 Kč bez DPH
-4 063 Kč s DPH
-Samsung 990 NVMe SSD, M.2, 2TB
-9 254 Kč bez DPH
-11 197 Kč s DPH
+215 Kč bez DPH
+260 Kč s DPH
+MikroTik 1/10/25G SFP/SFP+/SFP28 optický modul XS+31LC20D, SM, 20km, 1310nm
+2 419 Kč bez DPH
+2 927 Kč s DPH
+SanDisk Micro SDXC Ultra GO 512GB
+3 166 Kč bez DPH
+3 831 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2183G2-LIS2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+Triton 19" stojanový rack 42U/600x900 prosklené dveře, šedý
+13 880 Kč bez DPH
+16 795 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

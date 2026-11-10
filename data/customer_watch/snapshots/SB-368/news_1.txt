@@ -1,4 +1,4 @@
-# SB-368 welotec.com · news_1 · https://welotec.com/en-us/pages/blogs · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-368 welotec.com · news_1 · https://welotec.com/en-us/pages/blogs · fetched 2026-11-10T10:04:27Z · HTTP 200
 Energy and Productivity Solutions in Focus | Welotec Blog
 customer.current_location.name:
 customer.current_company.name:
@@ -213,6 +213,15 @@ Virtualization, open-source platforms, mu...
 Continue reading
 Alle anzeigen
 Whitepaper
+substation
+substationautomation
+virtualization
+09 Nov, 2026
+Q&A: Dedicated Hardware or Virtualized - Choosing the Right Substation Setup
+Missed the discussion? Don't miss the answers!
+Our webinar “Dedicated Hardware or Virtualized: Choosing the Right Sub...
+0 min
+Continue reading
 copadata
 digital substation
 substation
@@ -223,16 +232,6 @@ Zenon
 Q&A: Station-Level Virtualization - A Practical Path for Substation Modernization
 What happens when the discussion about substation virtualization gets practical?
 Questions quickly move beyond “Can w...
-0 min
-Continue reading
-cybersecurity
-substation
-substationautomation
-westermo
-13 Jul, 2026
-Q&A: Securing Digital Substations
-Expert Answers to the Questions That Matter
-During our webinar "Securing Digital Substations – Practical Ways to Mini...
 0 min
 Continue reading
 Alle anzeigen

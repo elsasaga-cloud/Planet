@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Technopc
 Destek
 Teknik Destek Talep Formu
@@ -312,17 +312,18 @@ Mustafa Kemal Mah. 2140. Sk. Gökçen Life Plaza A Blok Daire:2, No:17, 06510 Ç
 [email protected]
 29/2 Niyazbek Road ,Yunusabod, Tashkent, Uzbekistan
 Endüstriyel PC
-Technopc Endüstriyel PC TPC5510
-Technopc Endüstriyel PC TPC638
-Technopc Endüstriyel PC TPC2701
-Technopc Endüstriyel PC TPC3020
-Technopc Endüstriyel PC TPC5310
-Technopc Endüstriyel PC TPC088
 Technopc Endüstriyel PC TPC105F
+Technopc Endüstriyel PC TPC088
+Technopc Endüstriyel PC TPC5310
+Technopc Endüstriyel PC TPC3020
+Technopc Endüstriyel PC TPC2701
+Technopc Endüstriyel PC TPC638
+Technopc Endüstriyel PC TPC5510
 Technopc Endüstriyel PC IND X5C
 Technopc Endüstriyel PC IND RQ87
 Technopc Endüstriyel PC TPC302B
 Technopc Endüstriyel PC TPC191
+Technopc Magic Touch Q200
 Endüstriyel Tablet
 Technopc Endüstriyel Tablet TM-T Serisi
 Technopc Endüstriyel Tablet Expad Serisi
@@ -391,5 +392,4 @@ Rugged El Terminali
 Technopc Rugged El Terminali TM-T04 Serisi
 Technopc Rugged El Terminali TM-T05 Serisi
 Technopc Endüstriyel Telefon RawPhone RP05NLA
-Technopc TM-T04 Genius Endüstriyel El Terminali
-Techno
+Technopc TM-T04 Genius Endüs

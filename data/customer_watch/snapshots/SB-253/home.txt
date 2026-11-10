@@ -1,4 +1,4 @@
-# SB-253 provision-isr.com · home · https://provision-isr.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-253 provision-isr.com · home · https://provision-isr.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Home - Provision-ISR Skip to content
 INFO About Provision-ISR
 News
@@ -317,6 +317,10 @@ PoE NVR Setup Tutorial
 Setting up your Provision-ISR PoE NVR? Our step-by-step video tutorial guides you through the entire process, from connecting your cameras and configuring your recorder to setting up recording and accessing live video on your phone. Discover how PoE technology simplifies installation with a single cable for power and video, while automatic camera detection makes getting started even easier. Everything you need to get your surveillance system up and running.
 Watch Tutorial
 Latest News
+Monday, 9 November, 2026
+The 4MP Edge
+More megapixels don’t automatically mean better surveillance. Provision-ISR’s 4MP S-Sight cameras offer a practical balance of image detail, storage needs, ...
+Read More
 Friday, 6 November, 2026
 Panoramic Camera
 A wider view is just the beginning. Provision-ISR’s Panoramic Cameras combine 180° coverage with intelligent DDA analytics, Hybrid Light technology, ...
@@ -352,10 +356,6 @@ Read More
 Friday, 9 October, 2026
 Bracket Matching System
 Right camera. Right bracket. Done. No searching through datasheets. No wondering which bracket fits which camera. The Provision-ISR Bracket Matching ...
-Read More
-Tuesday, 6 October, 2026
-Thermal Fire Detection
-Thermal cameras do more than provide visibility in darkness. By monitoring temperature changes, they can help identify abnormal heat before ...
 Read More
 See all news
 Our Offices
@@ -423,4 +423,3 @@ Monitors
 HDMI Accessories
 Connectors
 UTP Baluns
-Joyst

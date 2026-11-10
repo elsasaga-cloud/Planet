@@ -1,4 +1,4 @@
-# SB-734 SIGMA RECTRIX SYSTEMS (M) SDN BHD · home · https://sigmarectrix.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-734 SIGMA RECTRIX SYSTEMS (M) SDN BHD · home · https://sigmarectrix.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Sigma Rectrix Systems (M) Sdn. Bhd.
 Sigma Rectrix
 Systems (M) Sdn Bhd
@@ -18,8 +18,8 @@ MyERP
 Cyber Security
 PRAMMIS
 E - Learning
-Others
 Career
+Others
 Shop
 Blog
 Courses
@@ -87,16 +87,23 @@ Maintenance
 Training
 06 / Built in-house
 Local products, made here.
-NGFW · UTM
+MyERP · SME suite
+Business Productivity Solution
+The day-to-day running of a small or medium business, in one system.
+Explore MyERP →
+Cyber Security · NGFW
 Next Gen Firewall Routers
 Cyber security with content filtering and unified threat management in
 one box.
-SME SUITE
-Business Productivity Solution
-The day-to-day running of a small or medium business, in one system.
+Explore Cyber Security →
 PRAMMIS
 Property Asset Management
 Manage lands, buildings, hotels and every asset inside them with ease.
+Explore PRAMMIS →
+E-Learning · EPSA
+E-Learning Platform
+The Malaysian Public Sector learning portal, built for civil servants.
+Explore E-Learning →
 07 / Why us
 Experience you can call on.
 Vast experience, professional manpower and a wide network to give

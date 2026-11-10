@@ -1,4 +1,4 @@
-# SB-489 portel.com.tr · feed_auto · https://www.portel.com.tr/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-489 portel.com.tr · feed_auto · https://www.portel.com.tr/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Fri, 06 Feb 2026 10:59:24 +0000	Test Blog Yazısı-10	https://www.portel.com.tr/test-blog-yazisi-10/
 Fri, 06 Feb 2026 10:58:41 +0000	Test Blog Yazısı-9	https://www.portel.com.tr/test-blog-yazisi-9/
 Fri, 06 Feb 2026 10:56:44 +0000	Test Blog Yazısı-8	https://www.portel.com.tr/test-blog-yazisi-8/

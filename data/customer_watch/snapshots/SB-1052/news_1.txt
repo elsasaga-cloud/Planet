@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · news_1 · https://lan.hu/hirek_1/digitus-cat8-halozati-megoldasok-blog · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1052 lan.hu · news_1 · https://lan.hu/hirek_1/digitus-cat8-halozati-megoldasok-blog · fetched 2026-11-10T10:04:27Z · HTTP 200
 DIGITUS CAT8 Kábelek és Keystone Modulok | CAT8.1, CAT8.2 | LAN.hu
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -12,6 +12,7 @@ Ezeket a cookie-k segítenek abban, hogy az Ön érdeklődési körének megfele
 ×
 Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚
 2026.11.16-tól változnak kiszállítási feltételeink.
+A megjelenített árak és AKCIÓK, kizárólag webshopon keresztűl történő vásárláskor érvényesek!!!!
 +36 1 415 2300
 Belépés
 Regisztráció
@@ -101,7 +102,7 @@ Cikkszám: TA-180FTPC8
 Ár:
 2.810 Ft + ÁFA
 (3.569 Ft)
-10 db raktáron
+Megrendelésre 1 héten belül
 db
 Kosárba
 Részletek
@@ -310,6 +311,7 @@ Parapet csatornák
 Szögletes csatornák
 Villanyszerelési csatornák
 Aktív eszközök
+Tápegységek
 Switch
 Wireless router
 Acces Point

@@ -1,4 +1,4 @@
-# SB-472 bma-networks.com · news_1 · https://www.dierck-group.com/news/fachwissen/netzwerkdesign-mit-extreme-fabric/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-472 bma-networks.com · news_1 · https://www.dierck-group.com/news/fachwissen/netzwerkdesign-mit-extreme-fabric/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Netzwerkdesign mit Extreme Fabric - dierckgroup
 dierckgroup
 Skip to masthead
@@ -13,9 +13,9 @@ Managed Scan & Print Services Druck- und Scansysteme im Full-Service-Modell – 
 Managed Software Softwarebereitstellung und -pflege als Service – Lizenzen, Updates, Patches und Benutzerverwaltung auf einer Plattform. Seite ansehen
 Managed WLAN Zuverlässiges WLAN – Planung, Betrieb, Gastzugänge und Sicherheit aus der Cloud. Seite ansehen
 Managed DMS Digitales Dokumentenmanagement als Full-Service – revisionssicher archivieren und automatisiert verwalten. Seite ansehen
-Netzwerkdesign mit Extreme Fabric
-Von der Fabric im Kern bis zur durchgängigen Architektur über alle Standorte. Welche Designvariante zu Ihrem Netz passt […]
-30. Sep. 2026
+Fortinet FortiAIGate: KI-Sicherheit, Datenschutz und LLM-Governance für Unternehmen
+Wie Unternehmen mit FortiAIGate den Einsatz von ChatGPT, Claude, KI-Agenten und eigenen Sprachmodellen zentral steuern, absichern und datenschutzkonform betreiben können.
+09. Nov. 2026
 IT Solutions Seite ansehen
 Workplace Seite ansehen
 Network Seite ansehen
@@ -126,4 +126,4 @@ Teilen Sie diesen Beitrag
 Teilen
 30. Sep. 2026
 Von der Fabric im Kern bis zur durchgängigen Architektur über alle Standorte. Welche Designvariante zu Ihrem Netz passt und wo die Grenzen liegen.
-Beim Netzwerkdesign mit Extreme Networks stellt sich früh die Frage, wie viel Fabric ein Netz wirklich braucht. Extreme Fabric basiert auf Shortest Path Bridging (SPB, IEEE 802.1aq) und ersetzt Spanning Tree, OSPF und PIM weitgehend durch eine einzige Steuerungsebene auf Basis von IS-IS. Dienste wie VLANs, VRFs oder Multicast werden nur noch am Rand des Ne
+Beim Netzwerkdesign mit Extreme Networks stellt sich früh die Frage, wie viel Fabric ein Netz wirklich braucht. Extreme Fabric basiert auf Shortest Path Bridging (SPB, IEEE 802.1aq) und ersetzt Spanning Tree, OSPF und PIM weitgehend durch eine einzige Steuerung

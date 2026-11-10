@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,44 +170,43 @@ Carrito
 Productos
 Noticias
 Ver todas
-Nicolas · 13h · Videovigilancia
-El audio también es evidencia: dos micrófonos en una bala de 4 MP
-La DS-2CD2043G2-LI2U de Hikvision integra dos micrófonos para captar el sonido del sitio con más cobertura y claridad, no solo la imagen. Suma Dual Light de 40 m en IR y 40 m en luz blanca, AcuSense para separar personas de vehículos, cuerpo metálico IP67, WDR 120 dB y PoE. Con un NVR /VPRO habilita AcuSeek.
-Conoce la bala con doble micrófono
-Daniel · 18h · Alarmas e Intrusión
-La barda que ya tienes puede ser el sensor perimetral
-El MICALERT MIC2Z1000V2 de RBTEC convierte paredes, rejas rígidas y barandales en 610 metros de detección por vibración, divididos en 2 zonas independientes de 305 m. Incluye tarjeta LPU400 y calibración por software: distingue un intento de escalamiento del viento o del tráfico, sin falsas alarmas.
-Convierte tu barda en un sensor perimetral
-Rafael · 19h · Telefonía IP
-2 líneas SIP y 4 cuentas en el teléfono de la recepción
-El GRP2602P suma PoE, tecnología Noise Shield para reducir el ruido de fondo, conferencia de audio para 5 participantes y soporte EHS para auriculares profesionales. Se aprovisiona zero-touch y se gestiona desde GDMS.
-Conoce el GRP2602P de Grandstream
-Gregorio · 1d · Audio e Intercom
-Tu voz entra limpia. El ruido de la oficina, no.
-La Yealink UH42 Dual lleva cancelación de ruido con IA en el micrófono y altavoz de 35 mm con EQ dinámico: modo llamada para hablar claro, modo música para el resto del día. Doble almohadilla, indicador de ocupado que avisa que estás en llamada, y USB-C con adaptador USB-A: plug-and-play en Windows y Mac, certificada nativa para Microsoft Teams.
-Escucha la UH42 Dual de Yealink
-Nicolas · 1d · Videovigilancia
-16 cámaras IP alimentadas por un solo grabador
-El NVR DS-7616NI-Q2/16P(E) de Hikvision integra 16 puertos PoE+ con 150 W: cada cámara recibe video y energía por el mismo cable, sin fuentes adicionales en el sitio. Graba hasta 8 MP (4K) con H.265+ y salida HDMI 4K, en 2 bahías para hasta 16 TB.
-Suma AcuSense para distinguir personas y vehículos, y modo PoE extendido a 300 metros.
-Conoce el NVR de 16 canales PoE+
-Gregorio · 1d · Audio e Intercom
-La sala de juntas dejó de ser un rompecabezas de accesorios
-La Yealink MeetingBoard 65 Pro integra en un solo marco lo que otras pantallas te venden por separado: triple cámara de 50 MP, 16 micrófonos MEMS con 12 m de alcance y pizarra de 20 puntos táctiles a 21 ms. Pantalla 4K de 65" antirreflejo, Android 13, WiFi 6 y certificación nativa Teams y Zoom.
-Conoce la MeetingBoard 65 Pro de Yealink
-Adrián · 1d · Redes
-El cliente WiFi más potente que Ubiquiti ha creado
-El UniFi AirWire opera 5 y 6 GHz al mismo tiempo con True MLO (STR), sumando espectro para throughput multi-gigabit real. Su super-antena alcanza hasta 3× el rango útil de un cliente estándar y su radio de escaneo dedicada revela la interferencia en tiempo real. USB-C plug-and-play con UniFi Auto-Link.
-Descubre el AirWire de Ubiquiti
-Roberto · 1d · Redes
-Cuatro cámaras PoE y un solo cable hasta el poste más lejano
-El switch DS-3E1105P-EI/M de Hikvision alimenta 4 cámaras por PoE+ (30 W por puerto, 45 W totales) y su modo extendido lleva datos y energía hasta 300 metros, sin repetidores ni fuentes en el sitio.
-Se monitorea y reinicia desde Hik-Partner Pro, con buffer optimizado para video. Para casetas, estacionamientos y tramos largos donde el switch de siempre no alcanza.
-Lleva PoE+ hasta 300 metros
-Rafael · 1d · Telefonía IP
-El teléfono IP de entrada que se despliega solo
-El GRP2601P ofrece 2 líneas SIP, PoE, codec Opus y aprovisionamiento zero-touch para instalar flotas completas sin configurar equipo por equipo. Incluye Noise Shield, conferencia de 5 participantes y gestión en GDMS.
-Conoce el GRP2601P de Grandstream
-Victor · 2d · Alarmas e Intrusión
-El control de tu alarma, sin cuotas ni licencias
-El módulo de comunicación DX FULL WIFI conecta el panel de alarma a internet por WiFi y envía cada evento al instante por notificación pu
+Victor · 10h · Energía Solar
+El cerco aguanta. El ganado se queda adentro.
+El energizador para ganado YONUSA SYSGAN25KV2 entrega 10,000 V por pulso y ajusta la energía de 0.2 a 5.0 Joules: sirve igual para un corral chico que para un perímetro de 25 km sin vegetación. Alimentación universal 90-260 Vca o 12 Vcd desde panel solar, con cargador integrado para batería de hasta 80 Ah. Gabinete NEMA 2 retardante a la flama.
+Conoce el energizador para ganado SYSGAN25KV2
+Marvin · 12h · Lanzamiento
+Shelly: Equipos con señal Matter, Serie GEN3 y GEN4
+La GEN4 integra Matter, Zigbee, Wi-Fi y Bluetooth en el mismo módulo: se suma a Apple Home, Google Home, Alexa y SmartThings sin hub propietario. El SHELLY1GEN4 conmuta 16 A en 41x36x16 mm y el 1PM Mini Gen4 mide consumo en tiempo real. La GEN3 sigue disponible en Wi-Fi 2.4 y Bluetooth, con versiones Mini de 8 A y el controlador de 4 entradas.
+Descubre los 11 módulos Shelly GEN3 y GEN4 1
+Gregorio · 12h · Audio e Intercom
+Tu voz entra limpia. El ruido de la oficina se queda.
+La Yealink UH42 Mono lleva cancelación de ruido con IA en el micrófono, no en tus oídos: del otro lado escuchan tu voz, no el camión ni el microondas de la cocina. Altavoz de 35 mm con EQ dinámico, indicador de ocupado que se pone rojo al entrar a la junta y USB-C con adaptador USB-A: plug-and-play, certificada para Microsoft Teams. La familia UH42 incluye versiones Dual y SE.
+Conoce la UH42 Mono de Yealink
+Cesar · 13h · Redes
+¿Listo para ver todo el poder de UniFi trabajando en tiempo real?
+Ven a conocer en vivo el poder de UniFi Full Stack: una sola plataforma para Redes, Videovigilancia y Control de Acceso funcionando en tiempo real. Acompáñanos y descubre cómo llevar tus proyectos de integración al siguiente nivel:
+📍 San Luis Potosí: 24 de noviembre
+📍 Guadalajara: 26 de noviembre
+⏰ Horario: a.m. a p.m.
+Asiste en el horario que mejor te acomode. ¡Te esperamos!
+Conoce UniFi Full Stack en vivo 1
+Yohana · 13h · Videovigilancia
+No es una cámara con bocina: es una corneta de voceo que además vigila
+La DS-QACAM07G1-4LIZSU de Hikvision lleva trompeta acústica de 7 W y 115 dB SPL: 100 m de alcance en exterior, suficiente para cortar el ruido de una bodega o patio de maniobras. Suma lente varifocal motorizado de 2.8 a 12 mm —99° a 30.4° sin bajar de 4 MP—, Dual Light con 50 m de IR y 20 m de luz blanca que detona con la analítica, y 2 micrófonos con AEC y supresión de ruido.
+Conoce la cámara con corneta de voceo
+Leopoldo · 17h · Audio e Intercom
+El HDMI llega a 70 metros sin perder un frame
+El kit extensor TT672PRO de EPCOM Titanium lleva 4K a 60 Hz por Cat 6, 6a o 7 con IPColor: cero latencia, sin compresión. Suma salida Loop para monitoreo local, control IR bidireccional y PoC, así que el receptor no necesita fuente propia.
+Conoce el TT672PRO de EPCOM Titanium 2
+Nicolas · 18h · Videovigilancia
+El encuadre se ajusta desde el grabador, no desde la escalera
+La domo TurboHD DS-2CE5AH0T-AVPIT3ZF(C) de Hikvision lleva lente motorizado de 2.7 a 13.5 mm: abre de 95.7° a 29.1° con zoom óptico, sin desmontar la cámara. Suma 5 MP (2560x1944), IR EXIR de 40 m, cuerpo metálico IK10/IP67 y las 4 tecnologías TVI-AHD-CVI-CVBS.
+Conoce la domo con lente motorizado
+Luis · 18h · Control de Acceso
+Cuando la barrera deja de responder, no cambias la barrera: cambias la tarjeta
+El cuadro de mando 205400200 es el repuesto de las barreras Hikvision DS-TMG520 H/A/B y L. Cuatro salidas de relé, puertos RJ-45 y protección contra descargas eléctricas integrada. Reemplazo directo en campo, sin software ni reconfigurar el acceso.
+Revive tu barrera TMG520
+Daniel · 18h · Audio e Intercom
+El timbre de la cama ya no despierta a todo el piso
+La terminal NX1021 de Ibernex concentra en una pantalla táctil de 7 pulgadas la llamada del paciente, la presencia del personal y el control de la habitación. Corre sobre VoIP SIP con PoE 802.3af: un solo cable de red para datos y energía, sin fuente local.
+Suma lector RFID de 125 kHz para identificar a

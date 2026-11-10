@@ -1,2 +1,2 @@
-# SA-029 gtwave.co.kr · intel_news_ko · https://news.google.com/rss/search?q=%22GTWAVE%20Co%22&hl=ko&gl=KR&ceid=KR:ko · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SA-029 gtwave.co.kr · intel_news_ko · https://news.google.com/rss/search?q=%22GTWAVE%20Co%22&hl=ko&gl=KR&ceid=KR:ko · fetched 2026-11-10T10:04:27Z · HTTP 200
 Mon, 21 Sep 2015 07:00:00 GMT	피싱 와이파이, 앱으로 간편하게 차단한다 - 플래텀(Platum)	https://news.google.com/rss/articles/CBMiR0FVX3lxTE52Y0dicXJiSnA4WXp3WVVlZ3ZMbWl6ZnBMWUhiRndGLWpjZk5zUUFiQm1WcFBER3BYOFJieHM5X05wXzRGRFNr?oc=5

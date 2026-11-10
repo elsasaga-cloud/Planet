@@ -1,4 +1,4 @@
-# SB-472 bma-networks.com · news_2 · https://www.dierck-group.com/case-studies/deutz-ag-industrial-ethernet/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-472 bma-networks.com · news_2 · https://www.dierck-group.com/case-studies/deutz-ag-industrial-ethernet/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 DEUTZ AG – Industrial Ethernet - dierckgroup
 dierckgroup
 Skip to masthead
@@ -13,9 +13,9 @@ Managed Scan & Print Services Druck- und Scansysteme im Full-Service-Modell – 
 Managed Software Softwarebereitstellung und -pflege als Service – Lizenzen, Updates, Patches und Benutzerverwaltung auf einer Plattform. Seite ansehen
 Managed WLAN Zuverlässiges WLAN – Planung, Betrieb, Gastzugänge und Sicherheit aus der Cloud. Seite ansehen
 Managed DMS Digitales Dokumentenmanagement als Full-Service – revisionssicher archivieren und automatisiert verwalten. Seite ansehen
-Netzwerkdesign mit Extreme Fabric
-Von der Fabric im Kern bis zur durchgängigen Architektur über alle Standorte. Welche Designvariante zu Ihrem Netz passt […]
-30. Sep. 2026
+Fortinet FortiAIGate: KI-Sicherheit, Datenschutz und LLM-Governance für Unternehmen
+Wie Unternehmen mit FortiAIGate den Einsatz von ChatGPT, Claude, KI-Agenten und eigenen Sprachmodellen zentral steuern, absichern und datenschutzkonform betreiben können.
+09. Nov. 2026
 IT Solutions Seite ansehen
 Workplace Seite ansehen
 Network Seite ansehen
@@ -128,4 +128,4 @@ Informationen zum Unternehmen
 Die DEUTZ AG mit Hauptsitz in Köln-Porz entwickelt und produziert seit über 140 Jahren Dieselmotoren. Die Fabrik in Köln gehört zu Europas modernsten Montageanlagen und ist seit 1992 in Betrieb. Das Industrial-IT Team betreut 15 Server, 250 PCs und über 100 Steuerungen.
 PDF Download
 Die ganze Problematik
-DEUTZ ersetzte 2010 das Fahrerlose Transportsystem (FTS) in der Kölner Montagehalle und musste dabei die Ethernet-
+DEUTZ ersetzte 20

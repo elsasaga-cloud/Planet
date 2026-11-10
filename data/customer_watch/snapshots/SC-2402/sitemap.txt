@@ -1,4 +1,4 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
 2026-11-04	https://www.sisegusa.com/home
@@ -66,8 +66,8 @@
 	https://www.sisegusa.com/shop/ub-uk-ultra-access-point-swiss-army-knife-ultra-3748
 	https://www.sisegusa.com/shop/tp-eap225-ou-access-point-tplink-omada-ac1200-gigabit-mu-mimo-ip65-exterior-3065
 	https://www.sisegusa.com/shop/tp-eap225-access-point-tplink-omada-ac1350-wireless-dual-band-para-techo-3064
-	https://www.sisegusa.com/shop/tp-eap623-outdoor-hd-access-point-tplink-omada-ax1800-mbps-wifi-6-dual-band-8747
 	https://www.sisegusa.com/shop/tp-eap625-outdoor-hd-access-point-tplink-omada-ax1800-mbps-wifi-6-dual-band-8176
+	https://www.sisegusa.com/shop/tp-eap623-outdoor-hd-access-point-tplink-omada-ax1800-mbps-wifi-6-dual-band-8747
 	https://www.sisegusa.com/shop/tp-eap615-wall-access-point-tplink-omada-ax1800-wifi-6-dual-band-montaje-en-pared-4487
 	https://www.sisegusa.com/shop/tp-eap653-access-point-tplink-omada-ax3000-wifi-6-dual-band-4255
 	https://www.sisegusa.com/shop/tp-eap650-outdoor-access-point-tplink-omada-ax3000-wifi-6-dual-band-exterior-4117

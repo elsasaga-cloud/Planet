@@ -1,4 +1,4 @@
-# SC-2219 comelitgroup.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC17ViglfWwh8XHKGQOcuAqg · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2219 comelitgroup.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC17ViglfWwh8XHKGQOcuAqg · fetched 2026-11-10T10:04:27Z · HTTP 200
 2025-04-16T23:35:56+00:00	Comelit - Security: our story, our future	https://www.youtube.com/watch?v=eCKwfZbUlY4
 2024-07-22T18:20:26+00:00	Configurating Comelit’s People Monitor Using NFC - Quick and Easy Guide	https://www.youtube.com/watch?v=3myW0R8JBYQ
 2024-07-22T18:19:35+00:00	Comelit’s People Monitor Installing Tutorial	https://www.youtube.com/watch?v=vqmRTYXNyH4

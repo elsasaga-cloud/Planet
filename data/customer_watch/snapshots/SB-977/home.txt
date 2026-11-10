@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Eltrox.cz | Zabezpečovací systémy a chytrá domácnost
 Cookie consent
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
@@ -113,12 +113,10 @@ Monitory pro videotelefony ,
 Venkovní panely pro videotelefony ,
 Příslušenství pro videotelefony ,
 Telefony ,
-Drátové videotelefony ,
 Řízení přístupu ,
 Digitální a elektronická kukátka na dveře ,
 Elektromagnetické zámky, závory a příslušenství ,
 Domácí interkomové systémy ,
-IP videotelefony ,
 Videozvončeky
 Automatické brány FAV
 Garážová vrata ,
@@ -260,7 +258,7 @@ Skartovačky ,
 Dokovací stanice ,
 Projektory ,
 Projekční plátna ,
-Připojovací kabely ,
+Propojovací kabely ,
 Adaptéry pro notebooky ,
 Mikrofony ,
 Webkamery ,
@@ -417,7 +415,6 @@ Tlačítka.
 Senzory PIR.
 Videozvončeky.
 Bezdrátové domovní zvonky.
-13,56MHz bezdotykové čtečky.
 Bezdotykové transpondéry.
 Bezpečnostní pomůcky pro děti –
 Napájecí zdroje a transformátory.
@@ -525,4 +522,7 @@ Pigtailové kabely.
 Sady.
 Poplachové skříně.
 Další příslušenství garážových vrat.
-Biometrické čtečky a
+Biometrické čtečky a programátory –
+Řídicí jednotky pro brány –
+Počítačové monitory.
+Mobilní

@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-10T10:04:27Z · HTTP 200
 Messen, Veranstaltungen, Tagungen, Vorträge - AMC
 Navigation überspringen
 Startseite
@@ -198,6 +198,29 @@ Unsere bevorstehenden Termine 2027
 27. - 28.01.2027 - all about automation Berlin
 02. - 03.03.2027 - all about automation Friedrichshafen
 15. - 16.09.2027 - all about automation Chemnitz
+Webinar „Cybersecurity in der industriellen Automatisierung“ am 15.10.2026
+Im Rahmen unserer langjährigen Partnerschaft mit Advantech möchten wir Sie auf ein gemeinsames Webinar mit Bosch Rexroth aufmerksam machen, das sich mit modernen Ansätzen rund um Edge Computing und Software-Defined Automation beschäftigt.
+Webinar: „Secure and Open Edge Computing for Software-Defined Automation“
+Datum: 20. November 2026
+Sprache: Englisch
+In diesem Webinar erhalten Sie kompakte Einblicke in drei zentrale Themen:
+CRA-Ready Security
+Cybersecurity-orientierte Architektur im Kontext des Cyber Resilience Act (CRA)
+IEC-62443-zertifizierte Sicherheitsfunktionen und integriertes Gerätemanagement
+Ready-to-Deploy SDA Platform
+Vorinstalliertes ctrlX OS und Anwendungen auf Advantech UNO-Gateway
+Reduzierter Engineering-Aufwand und beschleunigte Bereitstellung von Automatisierungslösungen
+Open, Flexible and Future-Proof
+Linux-basierte Plattform mit offenen Schnittstellen und API-first-Ansatz
+Interoperabilität, Herstellerunabhängigkeit und flexible Integration eigener Anwendungen
+Anhand der Kombination aus Advantech-Hardware und ctrlX OS zeigen Advantech und Bosch Rexroth, wie sich offene, sichere und skalierbare Automatisierungsarchitekturen realisieren lassen.
+Auch bei AMC spielen industrielle Edge-Computing-Lösungen und die flexible Integration unterschiedlicher Systeme eine wichtige Rolle – beispielsweise im Rahmen unserer Lösung AMC iFactoryX .
+Referenten:
+Marco Zampolli, Product Sales Director, Advantech Europe
+Jakob Zietsch, Business Development ctrlX OS, Bosch Rexroth
+Jetzt kostenfrei anmelden:
+https://us02web.zoom.us/webinar/register/8917939787439/WN_OodSVmyHQXCDL7aHTxk3rg
+Gerne stehen wir Ihnen im Anschluss auch für einen persönlichen Austausch zur Verfügung, um die vorgestellten Technologien und Lösungsansätze im Hinblick auf Ihre individuellen Anwendungen und Anforderungen zu besprechen.
 AMC auf der SPS 2026 in Nürnberg
 Vom 24. bis 26. November 2026 sind wir auf der SPS – Smart Production Solutions 2026 in Nürnberg vertreten.
 Als Unteraussteller unseres Partners Advantech finden Sie uns in Halle 7 | Stand 380 . Dort präsentieren wir unsere Lösungen AMC iFactory X und SENSOmaster32 Energy für die Erfassung, Übertragung, Visualisierung und Analyse industrieller Prozess- und Energiedaten.
@@ -218,11 +241,3 @@ Unter dem Titel „NVH Testing für elektrische Maschinen – Von der Messung zu
 Anhand von praxisnahen Beispielen aus realen Industrieprojekten verdeutlichte er, wie sich Fehlerursachen gezielt identifizieren und aus Messdaten konkrete Maßnahmen zur Optimierung von Entwicklungs- und Prüfprozessen ableiten lassen.
 all about automation 2026 in Chemnitz
 Am 23. und 24. September 2026 war die AMC – Analytik & Messtechnik GmbH Chemnitz auf der all about automation Chemnitz 2026 in der MESSE Chemnitz vertreten.
-An unserem Stand präsentierten wir Produkte und Lösungen aus den Bereichen Automatisierungstechnik, Industrie 4.0 und Industrial Internet of Things (IIoT) . Im Mittelpunkt standen unsere Lösungen rund um Mess-, Prüf-, Steuerungs- und Automatisierungstechnik sowie moderne Ansätze für Datenerfassung, Prozessüberwachung, Monitoring und industrielle Kommunikation .
-Die beiden Messetage boten zahlreiche Gelegenheiten für persönliche Gespräche und fachlichen Austausch zu aktuellen Projekten, technischen Herausforderungen und individuellen Lösungsansätzen.
-Wir bedanken uns bei allen Besucherinnen und Besuchern für das Interesse an unseren Lösungen und die vielen interessanten Gespräche und freuen uns auf ein Wiedersehen bei einer der kommenden Veranstaltungen.
-Projektabschluss des RUBIN-Bündnisses DuSwaP in Chemnitz
-Als Konsortialpartner im RUBIN-Bündnis DuSwaP hat sich die AMC – Analytik & Messtechnik GmbH Chemnitz maßgeblich an der Prozessüberwachung für die Fertigung von Brennstoffzellen- und Elektrolyseur-Stacks beteiligt. Unser Schwerpunkt lag dabei auf einer umfassenden Datenerfassung auf Basis moderner IoT-Edge-Systeme entlang der Prozesskette.
-Am 9. Juni 2026 fand im Fraunhofer IWU in Chemnitz die Abschlussveranstaltung des dreijährigen Forschungs- und Entwicklungsprojekts statt. Im Rahmen der Veranstaltung präsentierten die Partner des Konsortiums ihre gemeinsamen Ergebnisse entlang der Stack-Prozesskette.
-Im Fokus standen skalierbare Technologien für eine qualitätsgesicherte und automatisierte Fertigung sowie Ansätze zur industriellen Skalierung von Fertigungs- und Prüfprozessen. Die Veranstaltung bot interessante Einblicke in die zentralen Projektergebnisse und Gelegenheit zum Austausch zwischen Industrie und Forschung.
-AMC stellte dabei die im Projekt entwickelten Lösungen zur Prozessüberwachung und Datenerfassung vor und zeigte, wie moderne IoT-Edge-Systeme zur trans

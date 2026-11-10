@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Sennheiser, Tenda
 91 084 10 11 Atención comercial: Lunes a jueves de a , y los viernes de a Instant Blog Estilo vintage Categorías clásicas ES EN PT
 Mayoristas especializados Soluciones networking.
@@ -396,17 +396,15 @@ ZTE
 Ofertas
 Liquidación
 ¿Eres profesional del sector? Date de alta y accede a los precios más competitivos del sector Quiero ver los precios Ofertas Ver todas
-HILOOK IPC-D100-M(2.8mm) - Cámara IP Formato Domo, Resistente a Intemperie, Resolución 1MP 25/30fps (1280×720px), Lente Fija (2.8mm), Visión Nocturna IR 30m, Alimentación PoE y por Fuente (no incl.), Metal Ver precio −41 %
-Dahua DHI-NVR2104-4KS3 - Grabador IP de Sobremesa, 4 Canales hasta 12MP, Capacidad para 1 HDD de 20TB (no incl.), Compresión Smart H.265+/Smart H.264+, Ancho de Banda 80/60Mbps de Entrada/Salida Ver precio −15 %
-Tenda AC5 v3.0 AC5 1200Mbps 11AC wave2 Router, 1Ghz CPU,MU-MIMO Ver precio −38 %
+Conceptronic CMULTICRSI Lector de tarjetas de color plata USB 2.0 ALL - IN - ONE Ver precio −67 %
+Dahua DH-IPC-HDW2449TMP-S-IL-0280B-S2 Cámara IP WizSense 4MP, sensor CMOS 1/2.9", lente fija 2.8mm, Smart Dual Light, IP67, PoE, micrófono integrado, H.265+, almacenamiento SD hasta 256GB Ver precio −15 %
+Tenda G302 Producto reacondicionado GPON Wireless N300 VoIP Gateway Ver precio −76 %
 Grandes OFERTAS en productos Huawei seleccionados % % % WIFI 6 WIFI 6 HUAWEI eKit Transceiver
 óptico eSFP-GE-SX-MM850 Punto
 de acceso AP361 Punto
 de acceso AP263 Switch
 gestionable Capa 3 · S310-24P4S
 DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO Zona de liquidación Aprovecha grandes descuentos DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO DESCUENTO Comunicados
-Festivo 9 de noviembre permaneceremos cerrados por la festividad de Nuestra Señora de la Almudena
-Con motivo de la festividad de Nuestra Señora de la Almudena, el lunes 9 de noviembre permaneceremos cerrados. El martes 10 de noviembre volvemos con nuestro horario habitual. Disculpen las molestias.
 Recogida de pedidos: Lunes a viernes de a .
 Atención comercial: Lunes a jueves de a , y los viernes de a .
 Envío en el día: los pedidos hechos antes de las .
@@ -429,7 +427,6 @@ Webinar online · 20 de noviembre de 2026 · h · Castellano Grandstream present
 26 oct 2026 Seguir leyendo
 Formación y certificaciones
 Calendario
-Certificación oficial Ubiquiti BARCELONA 16, 17 y 18 de noviembre de 2026 - Unifi All in One: UFSP, UWA, URSCA 749,95 € + IVA
 Certificación oficial Grandstream Madrid 25, 26 y 27 noviembre 2026: GCPNS (Networking Solutions) 699,95 € + IVA
 Certificación oficial Ubiquiti Madrid 16, 17 y 18 de diciembre de 2026 - Unifi All in One: UFSP, UWA, URSCA 749,95 € + IVA
 Webinars
@@ -437,13 +434,19 @@ Webinar práctico Megafonía IP con Grandstream: integración de UCM y altavoces
 Webinar práctico Conecta edificios sin desplegar fibra: puesta en marcha del Grandstream GWN7302 | 4 diciembre l 2026 | 4 dic 2026 · Gratuito
 Productos destacados
 Ver todos
-Yealink BH72 Lite Teams Light Gray USB-A
-BH72 Lite UC / Teams Light Gray USB-A. Auricular binaural Bluetooth y USB, 35H conversación, gris, dongle USB para PC Ver precio
+Grandstream GWN7811P
+Switch gestionable Capa 3 enracable. 8 puertos GbE RJ45 PoE con PoE budget 120W + 2 puertos SFP+. Rendimiento de 28Gbps y capacidad de switching de 56 Gbps. Sin ventilador Ver precio
+Dahua DHI-ASI6214J-MFW
+Terminal control de accesos Dahua con detección facial Ver precio
+Grandstream GWN7665
+Punto de acceso Wifi 6E de interior, velocidad máxima 5,4Gbps. Cobertura +175m. Soporta +384 clientes. Puertos: 1x GbE y 1x 2,5GbE PoE. Certificado para Wifi4EU. Ver precio
+Grandstream GXW4248 v2
+GXW4248v2 Gateway SIN puertos RJ11, lleva 2 puertos Telco de 50 pines (48 activos) e incluye DOS cables RJ21 Telco Amphenol. Apto para gestión mediante plataforma GDMS. Ver precio
 Huawei eKit MiniFTTO F100D-4G −3 %
 MiniFTTO ONT/ONU OptiXtar GPON 1xSC/UPC 4xGE Ver precio
-Grandstream GHP611
-Teléfono IP compacto negro,2 cuentas/lineas SIP, programables y 5 de función.1 puerto 10/100 PoE.Conferencia de 3 vías.Escritorio o pared.Compatible GDMS. Ver precio
-Interline INT-FEE-xx/5x-HV
-Feeder / Alimentador para Disco Parabólico 5 Ghz Ver precio
-Grandstream GCC6010
-Todo en uno:VPN router, firewall,IP PBX y switch. Puertos configurables 
+Grandstream GRP2604P
+Teléfono IP PoE,6 cuentas SIP,3 líneas,4 teclas programables XML y 10 teclas BLF, conferencia hasta 5 vías,2xGbE PoE.Compatible con plataforma GDMS.Conector auricular RJ9.Pantalla LCD 2,7'.5V/0,6A Ver precio
+Ubiquiti LBE-5AC-GEN2-5
+5GHz LiteBeam AC,Gen2,5-Pack Ver precio
+Huawei eKit Datacom S110-8P2ST −16 %
+Switch 8xBASE-T 10/100/1000, PoE+, 1xGE SFP, 1xGE. Capacidad de swit

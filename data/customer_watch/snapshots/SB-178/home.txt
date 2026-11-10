@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -35,7 +35,7 @@ Karty sieciowe (85)
 Komputery (151)
 Kontrolery sieciowe (31)
 Media konwertery (76)
-Monitoring (308)
+Monitoring (310)
 Okablowanie (698)
 Platformy WLAN (2)
 Radiolinie (85)
@@ -54,7 +54,7 @@ Solarix (139)
 Teltonika (392)
 Tenda (175)
 TP-Link (479)
-Ubiquiti (795)
+Ubiquiti (797)
 ♻️ Towary refurbished (2)
 Wybierz producenta
 Wybierz
@@ -204,7 +204,7 @@ TrendNet (3)
 TriBrer (5)
 Triset (4)
 TVIP (1)
-Ubiquiti (855)
+Ubiquiti (857)
 UltiPulse (4)
 UNI-T (4)
 UPLink (27)
@@ -291,42 +291,43 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Wisnetworks WIS-ANS5820-90 MIMO Sector
-356,70 zł z VAT
-460,51 zł
-290,00 zł netto
+Grandstream GWN7052
+195,57 zł z VAT
+233,77 zł
+159,00 zł netto
 szt
-Najniższa cena z 30 dni: 460,51 zł
-Tenda TEG1126P-24-410W
-836,40 zł z VAT
-984,00 zł
-680,00 zł netto
+Najniższa cena z 30 dni: 233,77 zł
+Uchwyt kablowy KP10/5, na przewód płaski 10x5 mm
+2,34 zł z VAT
+6,77 zł
+1,90 zł netto
 szt
-Najniższa cena z 30 dni: 984,00 zł
-MikroTik wAP R ac (RBwAPGR-5HacD2HnD)
-244,77 zł z VAT
-308,80 zł
-199,00 zł netto
+Najniższa cena z 30 dni: 6,77 zł
+WYPRZEDAŻ
+SparkLAN WMIA-166AG
+11,07 zł z VAT
+86,04 zł
+9,00 zł netto
 szt
-Najniższa cena z 30 dni: 308,80 zł
+Najniższa cena z 30 dni: 86,04 zł
+TP-Link Deco X10
+207,87 zł z VAT
+300,99 zł
+169,00 zł netto
+szt
+Najniższa cena z 30 dni: 300,99 zł
 Wisnetworks WIS-L5820S Sector Base Station
 479,70 zł z VAT
 719,55 zł
 390,00 zł netto
 szt
 Najniższa cena z 30 dni: 719,55 zł
-ExtraLink 8F Cable (FRP indoor/ outdoor)
-0,98 zł z VAT
-1,29 zł
-0,80 zł netto
+Zasilacz do laptopa Acer, 40W 2.1A 19V, Qoltec, (50058.40W)
+35,67 zł z VAT
+39,98 zł
+29,00 zł netto
 szt
-Najniższa cena z 30 dni: 1,29 zł
-Wisnetworks WIS-ANS2417-90 MIMO Sector
-244,77 zł z VAT
-420,22 zł
-199,00 zł netto
-szt
-Najniższa cena z 30 dni: 420,22 zł
+Najniższa cena z 30 dni: 39,98 zł
 Najnowsze propozycje
 NOWOŚĆ
 Cudy WR3600E
@@ -370,9 +371,9 @@ szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Tenda CP6 obrotowa kamera do monitoringu domowego
-79,40 zł z VAT
-64,55 zł netto
+Cudy BU530
+20,75 zł z VAT
+16,87 zł netto
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
@@ -383,3 +384,5 @@ Paczkomat: od 14 PLN (netto)
 Poczta: zgodnie z cennikiem
 Zlokalizuj przesyłkę DHL
 Zlokalizuj przesyłkę FedEx
+Zlokalizuj przesyłkę InPost
+Zlokalizuj Paczkę Poczt

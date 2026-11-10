@@ -1,4 +1,4 @@
-# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Sphinx France, solutions M2M et IIoT
 Connexion
 ou
@@ -239,19 +239,16 @@ Extender KVM
 Je découvre
 Nos produits vedettes
 Repoussez les limites de l’Industrie 4.0 avec nos solutions IIoT de pointe.
-Moxa PT-508 - Switch industriel certifié IEC 61850-3
-Sierra Wireless AirLink MP70 - Routeur 4G industriel
-0,00 €*
-Moxa TN-5305-T - Switch non manageable 5 ports
-Sierra Wireless AirLink LX60 - Routeurs commerciaux double Ethernet LTE ou LTE-M/NB IoT pour les parcs de vente au détail, de points de vente, d'IoT et commerciaux
-0,00 €*
-Moxa NPort 5110A - Convertisseur RS232 vers Ethernet
-Moxa DE-211 - Serveur de port série à 1 port
-Moxa TN-5308-4/8PoE - Switch EN50155 Ethernet non managé PoE IEEE 802.3af 8 ports
-Moxa EDS-405A/EDS-408A - Switches Ethernet manageable
+Moxa Nport 5600 - Convertisseur série vers Ethernet
+Moxa PWR-300 - Alimentation pour les Switches Moxa MRX-G4000/Q4000
+Moxa TN-5300A - Switch non manageable 5 ou 8 ports
+Moxa XM-4000 - Module Gigabit Ethernet
+Moxa EDS-(G)2000 - Série de Switchs non manageables 5 ou 8 ports
+Moxa EDS-P510A-8PoE - Switch Ethernet Gigabit PoE+
+Moxa EDS-2005-EL - Switch non manageable 5 ports
+Moxa SDS-G3016 - Switch Gigabit Ethernet 16 ports
 Moxa NPort 5650 - Serveur de port série
-Sierra Wireless AirLink LX60 - Routeur 4G industriel
-569,00 €*
+Moxa SDS-G3008 - Switch Gigabit Ethernet 8 ports
 Votre partenaire unique pour
 l'Internet Industriel des Objets
 Plus de 24 ans d'expérience
@@ -262,44 +259,47 @@ Headphones
 Shop now
 Nos best-sellers
 Découvrez notre sélection de produits les plus vendus.
-Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
-Moxa EDS-408A - Switch Ethernet manageable
-Moxa EDS-316 - Switch industriel 16 ports
+Semtech AirLink® XR60 - Routeur 5G industriel
 ADDERLink XDIP-POE - Extender KVM sur IP
+Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
 Icron Ranger 2301 - Extendeur USB 2.0
 370,00 €*
+Moxa EDS-408A - Switch Ethernet manageable
 Kerlink Wirnet iFemtoCell - Gateway LoRaWAN indoor
 0,00 €*
-Semtech AirLink® XR60 - Routeur 5G industriel
+Moxa EDS-316 - Switch industriel 16 ports
 Je découvre
 Icron Raven 3104 - Extendeur USB 3.1 4 ports
 1 165,00 €*
 Icron Raven 3301 - Extendeur USB à 1 Port
 Icron Arbutus 63301 - Extender USB 1 port
+ADDERLink X-USB PRO - Extender KVM USB
+ADDERLink CUSBEXT100 - Extendeur C-USB 2.0 sur câble CATx
 Icron Starling 3251C - Extendeur USB 3.2 Type-C
 774,00 €*
 Icron Raven 3104 Pro - Extendeur USB 3.2 4 ports
 1 802,00 €*
+ADDERLINK X-USB PRO MS - Extender KVM à double écran
 Icron Ranger 2304PoE - Extendeur USB 2.0 4 ports
 445,00 €*
 Icron Ranger 2324 - Extendeur USB 2.0 4 ports
 948,00 €*
-Icron Spectra 3022 - Extendeur USB 3.0 par fibre optique
-847,00 €*
-Icron EL5363 - Extendeur USB 2.0 + HDMI
-659,00 €*
-Extension pour 4 ports USB2.0 jusqu'à 10 km via la fibre - Icron Ranger 2344
-1 054,00 €*
-Moxa MPC-3070W - Panel PC fanless 7"
-Moxa MPC-3100 - Panel PC fanless 10”
-Moxa MPC-3120 - Panel PC fanless 12"
-Moxa MPC-3120W - Panel PC fanless 12"
-Moxa MPC-3150 - Panel PC fanless 15"
-Moxa MPC-3150W - Panel PC fanless 15"
-Premio AIO-W210-ADL - Panel PC
-Premio AIO-W215-ADL - Panel PC 15.6”
-Premio AIO-W221-ADL - Panel PC
-Premio WCO-3000-EHL - Panel PC
+Panel PC Siemens SIMATIC IPC377E pour une mise en œuvre économique de diverses applications industrielles
+10,00 €*
+Siemens SIMATIC IPC677D Panel PC 22" - Hautes performances et flexibilité avec les processeurs Intel® (Xeon, Core i3, Celeron)
+10,00 €*
+Siemens SIMATIC IPC477E Le puissant Panel PC 22" – sans maintenance avec une configuration polyvalente
+10,00 €*
+Siemens SIMATIC IPC477E PRO Le SIMATIC IPC477E PRO entièrement fermé avec protection IP65 en versions 15", 19" et 22" élargit la gamme d'appareils PRO.
+10,00 €*
+Siemens SIMATIC IPC277E Le Panel PC aux performances optimisées – sans entretien et compact avec des écrans de 7" à 19"
+10,00 €*
+Siemens SIMATIC IPC477D Le puissant Panel PC embarqué 12" TOUCH – sans maintenance avec une configuration polyvalente
+10,00 €*
+Advantech TPC-1251H 12,1" SVGA TFT LCD Ordinateurs à écran tactile Intel® Atom™ avec larges températures de fonctionnement
+Panel PC Advantech PPC-3100-RE9A 10,4" sans ventilateur avec processeur Intel® Atom™ E3940
+Advantech TPC-650H / TPC-1250H / TPC-1550H / TPC-1750H 5.7&#8243; VGA / 12.1&#8243; SVGA / 15&#8243; XGA/17&#8243; Ordinateurs clients légers Intel® Atom™ LCD TFT SXGA
+Ordinateur tactile universel Advantech UTC-520 21,5" avec processeur Intel Core™ i7
 Je découvre
 Colonne 1
 Pionnier depuis plus de 24 ans , SPHINX France offre des solutions innovantes en cybersécurité OT , IA et IoT pour connecter et optimiser les ressources industrielles dans des secteurs clés comme l’énergie, le transport et l’industrie 4.0 .

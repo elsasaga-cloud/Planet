@@ -1,4 +1,4 @@
-# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Giải pháp công nghệ
 Search:
 Tìm kiếm
@@ -165,15 +165,15 @@ Trang chủ
 Giải pháp công nghệ
 Nên dùng cáp quang Singlemode hay Multimode
 31/10/2022
-195
+196
 Mặc dù các loại cáp quang single mode (SMF) và cáp quang multi mode (MMF) được sử dụng rộng rãi trong các ứng dụng đa dạng, nhưng sự khác biệt giữa cáp quang single mode và cáp quang multi mode vẫn còn gây nhầm lẫn. Bài viết này sẽ tập trung vào cấu tạo cơ bản, khoảng cách sợi quang, giá thành, màu sắc sợi quang,… để so sánh giữa các loại cáp quang single mode và multi mode.
 Cáp quang HDMI là gì? Nguyên lý cáp quang HDMI
 28/10/2022
-145
+146
 Cáp quang HDMI là cáp hdmi sử dụng sợi quang làm phương tiện truyền dẫn; Tên tiếng Anh: HDMI AOC Cable;
 CÁCH XEM ĐÈN TRÊN CONVERTER QUANG ĐIỆN - BỘ CHUYỂN ĐỔI QUANG
 28/10/2022
-118
+119
 Ngày nay thiết bị chuyển đổi quang đã ứng dụng rộng rãi trong thực tiễn, Từ các Công trình lớn, đến các ứng dụng thực tế trong cuộc sống như, Thi công mạng Lan, thi công camera IP...
 Trên Converter quang điện có 6 đèn LED báo trạng thái làm việc, biết cách xem đèn trên Converter quang điện sẽ giúp ta biết được hệ thống mạng đang làm việc ra sao và giúp ta khắc phục nhanh hệ thống mạng khi sự cố xảy ra.
 Cổng SFP trên Switch Gigabit là gì?
@@ -182,7 +182,7 @@ Cổng SFP trên Switch Gigabit là gì?
 Cổng SFP được thiết kế để sử dụng với các đầu nối hệ số dạng nhỏ (SFP), mang lại tốc độ cao và độ gọn nhẹ. Nó cho phép chuyển mạch Gigabit và liên kết quang hoặc đồng bằng cách chèn module quang SFP tương ứng (SFP sợi quang hoặc SFP Ethernet). Bất kể liên kết cổng quang hay cổng Ethernet.
 So sánh giữa cáp quang ống lỏng và cáp quang đệm chặt
 28/10/2022
-266
+271
 Cáp quang ống lỏng và cáp quang đệm chặt đều có cùng sợi trần 250um và có lõi sợi cùng kích thước. Tuy nhiên, sự khác biệt của chúng nằm ở cấu tạo cáp, và mỗi loại lại được ứng dụng trong những trường hợp khác nhau. Ở bài viết này chúng ta cùng tìm hiểu xem những ứng dụng, ưu và nhược điểm của 2 loại cáp này.
 Tìm hiểu về sự suy hao sợi quang.
 28/10/2022
@@ -194,11 +194,11 @@ TÌM ĐẠI LÝ,NHÀ PHÂN PHỐI THIẾT BỊ QUANG
 Công Ty Thiên Tân Telecom nhà phân phối chính thức thiết bị quang thương hiệu GNETCOM/HOLINK độc quyền tại Việt Nam. Nay chúng tôi cần mở rộng quy mô thương hiệu trong nước và Quốc Tế nên cần tìm đại lý phân phối.
 Dải bước sóng sợi quang
 01/07/2022
-113
+114
 Nói chung, sợi quang thủy tinh dựa trên Silica có thể truyền bước sóng 250nm đến 2000nm. Nhưng truyền dẫn quang khoảng cách xa bị giới hạn trong các dải bước sóng cụ thể do suy hao hấp thụ và tán xạ.
 Fibre Loopbacks là gì?
 01/07/2022
-121
+122
 Cáp loopback sợi và các phích cắm loopback sợi được gọi là sợi quang. Họ có thể cung cấp một phương tiện đơn giản và hiệu quả để kiểm tra khả năng của thiết bị mạng quang của bạn. Thường được sử dụng cho các ứng dụng kiểm tra cáp quang hoặc phục hồi mạng. Đối với các ứng dụng thử nghiệm, tín hiệu lặp lại được sử dụng để chẩn đoán sự cố. Gửi thử nghiệm lặp lại tới thiết bị mạng, mỗi lần một, là một kỹ thuật để cô lập các sự cố.
 Tại sao chọn cáp quang cho cáp mạng?
 01/07/2022
@@ -214,11 +214,11 @@ DẢI BƯỚC SÓNG ĐỂ TRUYỀN DẪN SỢI QUANG
 Các hệ thống truyền dẫn vô tuyến, dây và cáp sử dụng tần số để mô tả vùng hoạt động của phổ tần số vô tuyến sẽ được sử dụng. Tần số được đo bằng Hertz. Tuy nhiên, kể từ khi truyền dẫn cáp quang được nghiên cứu bởi các nhà vật lý, bước sóng được sử dụng để mô tả vị trí hoạt động trong quang phổ.
 MICROBENDS SO VỚI MACROBENDS TRONG SỢI QUANG HỌC
 01/07/2022
-146
+148
 Suy hao do vi sóng gây ra là một hàm của đường kính trường chế độ, thiết kế cáp và cấu tạo cáp. Suy hao do suy hao do vi sóng gây ra luôn giảm theo đường kính trường chế độ.
 CHIRP TẦN SỐ TRONG MỘT XUNG QUANG HỌC LÀ GÌ?
 01/07/2022
-128
+129
 Tiếng kêu là một tín hiệu trong đó tần số tăng hoặc giảm theo thời gian. Hình ảnh này cho thấy một dạng sóng chirp tuyến tính; một sóng hình sin có tần số tăng tuyến tính theo thời gian
 CÁC THÔNG SỐ KIỂM TRA THIẾT BỊ SỢI QUANG
 01/07/2022

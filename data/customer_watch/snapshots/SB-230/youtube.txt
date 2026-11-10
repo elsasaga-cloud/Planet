@@ -1,4 +1,4 @@
-# SB-230 adin.it · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsDDrTiKAXlm25IIaAuqiFw · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-230 adin.it · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsDDrTiKAXlm25IIaAuqiFw · fetched 2026-11-10T10:04:27Z · HTTP 200
 2021-06-17T07:07:19+00:00	UNIVIEW Funzionalità SIP	https://www.youtube.com/watch?v=OBi6bkckGEc
 2020-03-19T10:14:43+00:00	Monitor portatile Uniview USS-SC160E-T-O con camera di contesto nel visibile	https://www.youtube.com/watch?v=PBYT3WVb0mQ
 2020-03-19T10:06:26+00:00	Monitor portatile Uniview USS SC160-T-O	https://www.youtube.com/watch?v=PSBL9OVhJjQ

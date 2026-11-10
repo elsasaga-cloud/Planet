@@ -1,4 +1,4 @@
-# SC-2516 novuscctv.com · home · https://novuscctv.com/en · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-2516 novuscctv.com · home · https://novuscctv.com/en · fetched 2026-11-10T10:04:27Z · HTTP 200
 NOVUS Professional solution for your security systems | Video surveillance (CCTV), Access control
 Skip to main content
 Home
@@ -19,114 +19,116 @@ Cameras
 We recommend
 4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors
 NVIP-4VE-6602M/WL/F
-4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
-NVIP-4H-6602M/WL/F
-8 MPX Vandal Proof IP Camera with white light and IR illuminator
-NVIP-8VE-6101/WL/LITE
-New
-5 MPX Dual IP Camera (Thermal/Visual)
-NVIP-5VE-6711/TA/3-A
+8 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-8H-6101/WL/LITE
+4 MPX Special Purpose IP Camera
+NVIP-4DQ-6701/PC
 New
 5 MPX Dual IP Camera (Thermal/Visual)
 NVIP-5H-6711/TA/3-A
-8 MPX Bullet IP Camera with white light and IR illuminator
-NVIP-8H-6101/WL/LITE
-4 MPX Bullet IP Camera with white light and IR illuminator
-NVIP-4H-6103/WL/LITE
-8 MPX IP Motor-zoom Camera with video content analysis based on Deep Learning
-NVIP-8H-6522M/F-II/7043
 New
 2 MPX Bullet IP Camera with white light and IR illuminator
 NVIP-2H-6103/WL/LITE
-4 MPX Special Purpose IP Camera
-NVIP-4DQ-6701/PC
-8MPX panoramic IP camera with Deep Learning-based image analysis and active deterrence
-NVIP-8PVE-4501/FWLAD
+4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
+NVIP-4H-6602M/WL/F
+4 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-4H-6103/WL/LITE
 New
 4 MPX IP LPR bullet camera with a motor-zoom lens
 NVIP-4H-6732M/LPR-A
+8MPX IP Camera with video content analysis
+NVIP-8H-8932M/F
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5H-6711/TA/7-A
+New
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5VE-6711/TA/7-A
+New
+Dual PTZ IP Camera (Thermal/Visual)
+NVIP-5DPT-8703/30/T/25
 Lenses
 We recommend
 Recorders
 We recommend
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NMS VSS CLIENT 5-R-IV
+16-channel IP Recorder
+NVR-6316P16A-H2-II
+Multistandard AHD Recorder
+NHDR-6016A-H1-II
 NOVUS MANAGEMENT SYSTEM VSS IP Recorder
 NMS VSS NVR X-2U-III-312TB
-32-channel IP Recorder
-NVR-6432-H2/F-II
-NOVUS MANAGEMENT SYSTEM VSS IP Recorder
-NMS VSS NVR 7-4U-IV-R
+Multistandard AHD Recorder
+NHDR-4116-H2/F
 128-channel IP Recorder
 NVR-64128-H16/FR
-8-channel IP Recorder
-NVR-6208P8-H1-II
-Multistandard AHD Recorder
-NHDR-6004A-H1-II
-16-channel IP Recorder
-NVR-6216-H1/LITE
+32-channel IP Recorder
+NVR-6432-H2/F-II
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 3-R-IV
 32-channel IP Recorder
 NVR-6332A-H4-II
+Multistandard AHD Recorder
+NHDR-6004A-H1-II
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 5-R-IV
 NOVUS MANAGEMENT SYSTEM VSS Client Station
 NVSO VSS CLIENT 7-T-IV-2L
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NVSO VSS CLIENT 7-R-IV-2L
-NOVUS MANAGEMENT SYSTEM VSS IP Recorder
-NMS VSS NVR X-2U-III-288TB
+8-channel IP Recorder
+NVR-6208P8-H1-II
 Signal Transmission
 We recommend
-PoE Extender
-NV-101EP
-SFP Module
-NV-03SFP/M
-4-port PoE+ Switch
-NVS-3304SP
-PoE Injector
-NV-8000PS/HP
-8-Port Gigabit Ethernet PoE+ Switch
-NVS-G3408SP
-Wall/ceiling mount bracket with built-in PoE switch
-NVS-4020JBD
-4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
-NVS-G3404SP-EH
 16-Port Gigabit Ethernet PoE+ Switch
 NVS-G3416SP
+16-Port Ethernet PoE+ Switch
+NVS-3416SP
+SFP-Ethernet Module
+NV-SFP-GE
+24-Port Ethernet PoE+ Switch
+NVS-3424SP
+SFP Module Kit
+NV-24SFP/S
+4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
+NVS-G3404SP-EH
+SFP Module
+NV-03SFP/M
+SFP Module
+NV-02SFP/S
+8-Port Ethernet PoE+ Switch for use in harsh environments.
+NVS-3408SP-EH
+4-port PoE+ Switch
+NVS-3304SP
 New
 24-Port Gigabit Ethernet Managed PoE+ Switch
 NVS-G5424SP/400
-24-Port Ethernet PoE+ Switch
-NVS-3424SP
 16-port PoE+ Managed Switch
 NVS-5116SP
-SFP-Ethernet Module
-NV-SFP-GE
 Video intercoms
 Other
 We recommend
-Conversion adapter for wall mount, indoor/outdoor
-NVB-6082CAP
-Conversion adapter for wall mount, indoor/outdoor
-NVB-6081CAP
-30W IP horn speaker
-NV-IPS8030/M
-Wall/ceiling mount bracket indoor
-NVB-6050JB-II
-Input/Output alarm module
-NV-6000AL16/6
-Wall/ceiling mount bracket indoor
-NVB-6050JB-II/7043
-Wall mount bracket, indoor/outdoor
-NVB-8501CAP
-Pole mount adapter
-NVB-SD6500PA
-Wall mount bracket indoor/outdoor
-NVB-SD8500JB
-Corner mount adapter
-NVB-SD6500CA
-Conversion adapter for wall mount, indoor/outdoor
-NVB-6083CAP
 Wall/ceiling mount bracket indoor/outdoor
 NVB-8560JB
+Wall mount bracket indoor/outdoor
+NVB-6080WB
+Conversion adapter for wall mount, indoor/outdoor
+NVB-6082CAP
+Pole mount adapter
+NVB-SD6500PA
+Wall/ceiling mount bracket indoor
+NVB-6050JB-II/7043
+43'' 4K LCD monitor designed for continuous operation
+NVM-6043LCD-4K
+Input/Output alarm module
+NV-6000AL16/6
+Corner mount adapter
+NVB-SD6500CA
+Wall mount bracket indoor/outdoor
+NVB-8501WB
+Corner mount adapter
+NVB-SD8500CA
+Pole mount adapter
+NVB-SD8500PA
+30W IP horn speaker
+NV-IPS8030/M
 NMS VSS
 NMS AC
 ANPR
@@ -172,19 +174,19 @@ NOVUS MANAGEMENT SYSTEM AC with SALTO integration
 NOVUS MANAGEMENT SYSTEM AC with SALTO integrationWith the release of NOVUS MANAGEMENT SYSTEM AC 6.06.017, we have expanded the system’s...
 New products
 IP user monitor NVE-2W-MV107WIFI-LITE-W
+Wall bracket for master monitor NVE-GM100 NVE-GM100BRKT-WALL
+4 MPX IP LPR bullet camera with a motor-zoom lens NVIP-4H-6732M/LPR-A Resolution: 4 MPX
+Lens: motorized, auto-iris and auto-focus function, f=8 ~ 32 mm/F1.6
+D/N function - IR cut filter
+2 MPX IP Camera with white light and IR illuminator NVIP-2VE-6103/WL/LITE Resolution: 2 MPX
+Lens: fixed focal, f=2.8 mm/F2.0
+built-in microphone
 24-Port Gigabit Ethernet Managed PoE+ Switch NVS-G5424SP/400 24 x 10/100/1000Mbps PoE+
 4 x Combo (RJ45 + SFP) 1000Mb/s UPLINK
 Operating temperature: 0°C ÷ 40°C
 2 MPX Bullet IP Camera with white light and IR illuminator NVIP-2H-6103/WL/LITE Resolution: 2 MPX
 Lens: fixed focal, f=2.8 mm/F2.0
 built-in microphone
-2 MPX IP Camera with white light and IR illuminator NVIP-2VE-6103/WL/LITE Resolution: 2 MPX
-Lens: fixed focal, f=2.8 mm/F2.0
-built-in microphone
-4 MPX IP LPR bullet camera with a motor-zoom lens NVIP-4H-6732M/LPR-A Resolution: 4 MPX
-Lens: motorized, auto-iris and auto-focus function, f=8 ~ 32 mm/F1.6
-D/N function - IR cut filter
-Wall bracket for master monitor NVE-GM100 NVE-GM100BRKT-WALL
 Recommended videos
 #2 INGENIUS PLUS - effective elimination of false alarms
 #1 NMS AC - Functionality and advantages of the system

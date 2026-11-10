@@ -1,4 +1,6 @@
-# SC-714 avant.by · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxIpyIu2NIr4HetIhYR70pw · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-714 avant.by · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxIpyIu2NIr4HetIhYR70pw · fetched 2026-11-10T10:04:27Z · HTTP 200
+2026-11-09T10:35:02+00:00	Блок питания и кабель для электрозамка: 3 важных нюанса | Часть 2	https://www.youtube.com/shorts/UqzzTUwnO4o
+2026-11-09T10:25:05+00:00	Как подключить электромагнитный замок к вызывной панели? | ЧАСТЬ 1	https://www.youtube.com/shorts/RwVPEy-eu0M
 2026-11-06T09:40:31+00:00	Как организовать доступ на одну дверь без сложной системы?	https://www.youtube.com/shorts/OUxwWCjsBHM
 2026-11-05T09:47:07+00:00	Широкий угол или максимум деталей? Как выбрать камеру для видеонаблюдения 📹🤔	https://www.youtube.com/shorts/md75Sx2-2Mk
 2026-11-04T08:48:39+00:00	🔥 Спецпредложения от «АВАНТ-ТЕХНО»	https://www.youtube.com/shorts/GXDi-cDIW0k
@@ -12,5 +14,3 @@
 2026-10-23T09:20:53+00:00	Видео и контроль доступа — в одной системе? Легко с HikCentral!	https://www.youtube.com/shorts/_uTG07s3rvg
 2026-10-22T09:48:17+00:00	⚡️ Hikvision DS-K1T323MBWX-QRE1: Компактный терминал с расширенным функционалом	https://www.youtube.com/shorts/Auw6FKW8oVk
 2026-10-21T12:17:34+00:00	Как выбрать коммутатор для IP-камер: порты, битрейт и uplink	https://www.youtube.com/watch?v=ECMfB1ddUFQ
-2026-10-20T09:37:19+00:00	Грязь, соль и реагенты: камера Hikvision продолжает работать	https://www.youtube.com/shorts/AqPYGhpe4H4
-2026-10-19T08:31:01+00:00	Скорость электронного затвора | Смазанные изображения и эффект «призрака» движущихся объектов🚗🏃	https://www.youtube.com/shorts/SLT9GMVu4j0

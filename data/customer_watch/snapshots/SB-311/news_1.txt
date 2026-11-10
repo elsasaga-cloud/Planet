@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-311 dipolnet.cz · news_1 · https://www.dipolnet.cz/nove_produkty,items-news.htm · fetched 2026-11-10T10:04:27Z · HTTP 200
 Obchod, Nové produkty
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -549,6 +549,7 @@ Kód: M29119
 Předchozí nejnižší cena: 5245,96 Kč
 od 0,00 Kč
 Dočasně nedostupné
+Do košíku
 Náhled
 Hikvision DS-7608NI-Q1(E) IP NVR (8 channels, 80 Mb/s, 1 x SATA, VGA, HDMI, H.265)
 Hikvision DS-7608NI-Q1(E) je moderní 8kanálový IP videorekordér, který umožňuje záznam obrazu z IP kamer s rozlišením až 8 Mpix.
@@ -568,7 +569,7 @@ Kód: K22055
 6142,57 Kč
 Předchozí nejnižší cena: 6142,57 Kč
 od 0,00 Kč
-Dočasně nedostupné
+Dostupný
 Do košíku
 Náhled
 Držák se sloupovým adaptérem pro kompaktní a stropní kamery Dahua PFA152-E-B

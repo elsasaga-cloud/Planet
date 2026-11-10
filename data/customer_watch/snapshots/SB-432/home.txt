@@ -1,4 +1,4 @@
-# SB-432 qubix.it · home · https://www.qubix.it/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-432 qubix.it · home · https://www.qubix.it/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 QUBIX – Networking Solution
 ×
 Area riservata: login
@@ -202,28 +202,28 @@ A PAVIMENTO
 E PARETE
 OTTICA
 APPARATI ATTIVI
-SCOPRI LE PAGINE DEDICATE ALLE
 SOLUZIONI DATA CENTER
-DI QUBIX
 Clicca qui
-ABBIAMO OTTENUTO LA
-MEDAGLIA DI BRONZO
-PER LA SOSTENIBILITÀ
-Scopri di più
-NUOVE SOLUZIONI
-POL/GPON
 DI QUBIX
+SCOPRI LE PAGINE DEDICATE ALLE
+MEDAGLIA DI BRONZO
 Scopri di più
-SCOPRI LA
+PER LA SOSTENIBILITÀ
+ABBIAMO OTTENUTO LA
+POL/GPON
+Scopri di più
+DI QUBIX
+NUOVE SOLUZIONI
 GIUNTATRICE A FUSIONE
-QUBIX QFS6C
 Scopri di più
+QUBIX QFS6C
+SCOPRI LA
 GAMMA
+Scopri di più
 RACK TECH
 PAVIMENTO
 DATACENTER
 PARETE
-Scopri di più
 massima efficienza nel minimo spazio
 Certificata secondo IEC 60512-99-00, soddisfa i requisiti di
 funzionamento degli standard PoE, PoE+ PoE++
@@ -335,35 +335,35 @@ Strumenti di misura
 Strumenti per la certifica e la verifica di impianti dati.
 Networking
 Apparato attivi per reti LAN e sistemi di videosorveglianza.
-Read more
 Novità Qubix: apparati attivi, cavo Long Reach e strumenti per la fibra ottica
+Read more
 24 Settembre 2026
-Read more
 Nuova promo Fluke: Testati. Affidabili. Pronti a tutto.
+Read more
 31 Agosto 2026
-Read more
 Medaglia di Bronzo EcoVadis 2025-2026
+Read more
 17 Novembre 2025
-Read more
 Nuovi plug passanti Cat.6 e pinza crimpatrice
+Read more
 26 Giugno 2025
-Read more
 Scopri la nuova gamma Armadi TECH
+Read more
 21 Luglio 2023
-Read more
 Nuovo confezionamento sostenibile per le patch cord
+Read more
 16 Giugno 2023
-Read more
 AEM Certified Calibration Center
+Read more
 7 Giugno 2023
-Read more
 EXFO PPM1, tester dual-layer per servizi PON
+Read more
 13 Dicembre 2022
-Read more
 EXFO EX10, tester di velocità WiFi e Ethernet
-10 Novembre 2022
 Read more
+10 Novembre 2022
 Nuovo cavo fibra ottica in Euroclasse Cca
+Read more
 7 Novembre 2022
 Qubix
 Qubix SpA
@@ -377,76 +377,64 @@ sei un Installatore?
 sei un Progettista?
 Categorie prodotto
 Seleziona una categoria
-Datacenter (209)
-Cavi ottici preterminati (4)
-MPO/MTP (1)
-MPO/MTP multipli (1)
-Fan-out MPO/MTP – LC/SC (1)
-Minicore LC/SC (1)
-Bretelle bifibra (132)
-Monomodali Standard (27)
-Multimodali Standard (102)
-Multimodali Standard OM4 (27)
-Multimodali Standard OM3 (27)
-Multimodali Standard OM2 (24)
-Multimodali Standard OM1 (24)
-Monomodali personalizzabili (1)
-Multimodali personalizzabili (1)
-LC Uniboot pull tab (1)
-Cassetti ottici e moduli (4)
-High Density (2)
-Compatto 96FO (2)
-Soluzioni in rame (6)
-Cavo Cat. 8.1 (1)
-Presa RJ45 Channel (1)
-Plug RJ45 Channel (1)
-Patch panels (3)
-Armadi e accessori (63)
-Armadi TECH Datacenter (36)
-Ventilazione (8)
-Gestione cablaggio (11)
-Alimentazione (2)
-Accessori (6)
-Cablaggio rame (214)
-Cavi (23)
-Categoria 5E (6)
-Categoria 6 (9)
-Categoria 6A (6)
-Categoria 7/7A (2)
-Cabling System (181)
-Easy Crimp Compact (12)
-Categoria 8 (1)
-Categoria 6A (3)
-Categoria 6 (3)
-Accessori (5)
-Easy Crimp (13)
-Categoria 5E (5)
-Categoria 6A-10G.EXE (5)
-Accessori (3)
-Sistema 110 (14)
-Categoria 5E (5)
-Categoria 6 (4)
-Accessori (5)
-Plug, patch cord e giunti (87)
-Plug EasyCrimp Compact (3)
-Plug EasyCrimp (4)
-Plug (9)
-Patch cord Categoria 6A (10)
-Patch cord Categoria 6 (37)
-Patch cord Categoria 5E (19)
-Giunti EasyCrimp (2)
-Accessori (3)
-Adattatori e accessori (56)
-Isolatori di rete (1)
-Adattatori per serie civile (40)
-Scatole da parete (7)
-Supporti da parete (8)
-Industrial System (10)
 Cablaggio ottico (536)
-Cavi ottici (114)
-Per interno (12)
-Monomodale 9/125 G657A2 (3)
-Monomodale 9/125 (3)
+Cablaggio fibra ottica (255)
+Accessori (15)
+Bussole (20)
+Monomodali 9/125 (10)
 Multimodali 50/125 OM3 (3)
 Multimodali 50/125 OM4 (3)
-Per interno
+Multimodali OM1/OM2 (4)
+Cassetti / box ottici (27)
+Box ottici (12)
+Cassetti ottici 19″ modulari (18)
+Connettori a colla (4)
+Connettori prelappati (14)
+Muffole e accessori (6)
+Patch cord bifibra (129)
+Monomodali 9/125 (27)
+Multimodali 50/125 OM2 (24)
+Multimodali 50/125 OM3 (27)
+Multimodali 50/125 OM4 (27)
+Multimodali 62,5/125 (24)
+Pigtail (19)
+Sistemi di terminazione (21)
+Cavi ottici (114)
+Per esterno armatura dielettrica (23)
+Monomodale 9/125 G657A2 (3)
+Monomodali 9/125 (4)
+Multimodali 50/125 OM2 (4)
+Multimodali 50/125 OM3 (4)
+Multimodali 50/125 OM4 (4)
+Multimodali 62,5/,25 (4)
+Per esterno armatura metallica (20)
+Monomodali 9/125 (4)
+Multimodali 50/125 OM2 (4)
+Multimodali 50/125 OM3 (4)
+Multimodali 50/125 OM4 (4)
+Multimodali 62,5/125 (4)
+Per interno (12)
+Monomodale 9/125 (3)
+Monomodale 9/125 G657A2 (3)
+Multimodali 50/125 OM3 (3)
+Multimodali 50/125 OM4 (3)
+Per interno/esterno armatura dielettrica (32)
+Monomodale 9/125 (8)
+Multimodali 50/125 OM2 (4)
+Multimodali 50/125 OM3 (8)
+Multimodali 50/125 OM4 (8)
+Multimodali 62,5/125 (4)
+Per interno/esterno armatura metallica (27)
+Monomodlale 9/125 (5)
+Multimodali 50/125 OM2 (4)
+Multimodali 50/125 OM3 (5)
+Multimodali 50/125 OM4 (5)
+Multimodali 62 5/125 (4)
+Cavi preassemblati (74)
+Cavi per esterno con armatura metallica (16)
+Monomodali 9/125 (5)
+Multimodali 50/125 OM2 (3)
+Multimodali 50/125 OM3 (3)
+Multimodali 50/125 OM4 (3)
+Multimodali 62,5/125 (2)
+Cavi per i

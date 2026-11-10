@@ -1,4 +1,4 @@
-# SC-299 nag.kz · news_1 · https://shop.nag.kz/article/baza-znanij · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-299 nag.kz · news_1 · https://shop.nag.kz/article/baza-znanij · fetched 2026-11-10T10:04:27Z · HTTP 200
 База знаний - НАГ Казахстан
 Алматы
 +7 (727) 344 34 44
@@ -111,6 +111,7 @@ MegaTec
 LoRaWAN оборудование
 IP-Телефоны
 IP-шлюзы
+IP-ATC
 IP-Домофония
 Системы видеоконференцсвязи
 Инструмент для монтажа СКС ВОЛС

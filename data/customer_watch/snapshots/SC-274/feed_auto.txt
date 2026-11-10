@@ -1,4 +1,4 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-10T10:04:27Z · HTTP 200
 09.11.2026 09:51:13	ECS Fiberpatch OM1 62,5/125 LC-ST 6,0m	https://www.alcadon.no/ecs/lc-st-6/ecs-fiberpatch-om1-62-5-125-lc-st-6-0m-halogenfri-duplex
 06.11.2026 10:53:53	Strømkabel C20 – C21, Sort, 3m	https://www.alcadon.no/alcadon/p-c20-c21-3-hffr/str%c3%b8mkabel-c20--c21-sort-3m-lszh-3x1-5mm2
 30.10.2026 11:04:08	Endefeste Spiral Ø 7,0-8,0 mm	https://www.alcadon.no/malico/gsde0700/endefeste-spiral-%c3%b8-7-0-8-0-mm-adss-endefeste-70-mtr-spenn

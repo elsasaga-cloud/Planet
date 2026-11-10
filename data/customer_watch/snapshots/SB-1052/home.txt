@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -12,6 +12,7 @@ Ezeket a cookie-k segítenek abban, hogy az Ön érdeklődési körének megfele
 ×
 Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚
 2026.11.16-tól változnak kiszállítási feltételeink.
+A megjelenített árak és AKCIÓK, kizárólag webshopon keresztűl történő vásárláskor érvényesek!!!!
 +36 1 415 2300
 Belépés
 Regisztráció
@@ -37,6 +38,39 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+1U panel for D-type modules, 12-port DN-97696
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97696
+Ár:
+2.480 Ft + ÁFA
+(3.150 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+2U panel for D-type modules, 24-port DN-97697
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97697
+Ár:
+4.380 Ft + ÁFA
+(5.563 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+8P8C Cat6a UTP toolless mod. dugó DN-93633
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: K289543TD
+Ár:
+810 Ft + ÁFA
+(1.029 Ft)
+100 db raktáron
+db
+Kosárba
+Részletek
 Szellőző panel 1E szürke DN-97692
 ÚJDONSÁG!
 Villámnézet
@@ -59,17 +93,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Szellőző panel 2E fekete DN-97695
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97695
-Ár:
-3.870 Ft + ÁFA
-(4.915 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Szellőző panel 2E szürke DN-97694
 ÚJDONSÁG!
 Villámnézet
@@ -81,24 +104,13 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-2U panel for D-type modules, 24-port DN-97697
+Szellőző panel 2E fekete DN-97695
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIG-DN-97697
+Cikkszám: HDIG-DN-97695
 Ár:
-4.380 Ft + ÁFA
-(5.563 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-1U panel for D-type modules, 12-port DN-97696
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97696
-Ár:
-2.480 Ft + ÁFA
-(3.150 Ft)
+3.870 Ft + ÁFA
+(4.915 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -110,7 +122,7 @@ Cikkszám: K288542-EASY
 Ár:
 110 Ft + ÁFA
 (140 Ft)
-1000 db raktáron
+950 db raktáron
 db
 Kosárba
 Részletek
@@ -215,7 +227,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-10885 m raktáron
+27885 m raktáron
 m
 Kosárba
 Részletek
@@ -225,7 +237,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-17142 m raktáron
+17752 m raktáron
 m
 Kosárba
 Részletek
@@ -245,7 +257,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-5235 m raktáron
+4625 m raktáron
 m
 Kosárba
 Részletek
@@ -255,7 +267,7 @@ Cikkszám: K1142050FÖLD
 Ár:
 175 Ft + ÁFA
 (222 Ft)
-509 m raktáron
+Előrendelhető
 m
 Kosárba
 Részletek
@@ -265,7 +277,7 @@ Cikkszám: K1120501C6ADIG
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-15745 m raktáron
+15135 m raktáron
 m
 Kosárba
 Részletek
@@ -275,7 +287,7 @@ Cikkszám: TA-K661ADIG
 Ár:
 230 Ft + ÁFA
 (292 Ft)
-9765 m raktáron
+10375 m raktáron
 m
 Kosárba
 Részletek
@@ -285,7 +297,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1754 db raktáron
+1709 db raktáron
 db
 Kosárba
 Részletek
@@ -318,7 +330,7 @@ Eredeti ár:
 Akciós ár:
 19.185 Ft + ÁFA
 (24.365 Ft)
-4 db raktáron
+3 db raktáron
 db
 Kosárba
 Részletek
@@ -328,7 +340,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-10885 m raktáron
+27885 m raktáron
 m
 Kosárba
 Részletek
@@ -338,7 +350,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1754 db raktáron
+1709 db raktáron
 db
 Kosárba
 Részletek
@@ -348,7 +360,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-17142 m raktáron
+17752 m raktáron
 m
 Kosárba
 Részletek
@@ -405,6 +417,4 @@ Milyen feltételekkel küldhetem vissza a terméket?
 A vásárlástól számított 14 napon belül lehetőség van elállásra a vonatkozó jogszabályoknak megfelelően.
 6. Műszaki támogatás
 Segít a LAN Kft. a termékek beüzemelésében?
-​Igen, szakértő kollégáink telefonon és e-mailben műszaki támogatást nyújtanak.
-Hol találok dokumentációkat és adatlapokat?
-Minden termék oldalán megtalálod a letölthető adatlapokat, használati útmutatókat és műszaki specifikációkat. Ha valamit nem t
+​Ige

@@ -1,9 +1,13 @@
-# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 News – Niveo Professional
 Skip to content
 Home
 Products
 Switch Selector 2026
+AV- Switches
+1Gb AV Layer 3 Gigabit Switches
+2,5Gb AV Layer 3 Gigabit Switches
+10Gb AV Layer 3 Gigabit Switches
 AVB/MILAN-Switches
 10G Switches
 Broadcast & Data Centre
@@ -35,6 +39,10 @@ Contact
 Home
 Products
 Switch Selector 2026
+AV- Switches
+1Gb AV Layer 3 Gigabit Switches
+2,5Gb AV Layer 3 Gigabit Switches
+10Gb AV Layer 3 Gigabit Switches
 AVB/MILAN-Switches
 10G Switches
 Broadcast & Data Centre

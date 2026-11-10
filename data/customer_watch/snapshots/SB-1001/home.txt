@@ -1,4 +1,4 @@
-# SB-1001 altelix.com · home · https://altelix.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1001 altelix.com · home · https://altelix.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Altelix
 Toggle menu
 Welcome to Altelix!
@@ -76,7 +76,7 @@ Security and Access Control Enclosures
 Windowed Enclosures
 Aimable Enclosures
 Ceiling Mount Enclosures
-Deck Mount Enclosures
+Deck Mount / Horizontal Mount Enclosures
 RF Transparent Weatherproof Enclosures
 Digital Signage Player Enclosures
 Indoor/Outdoor Audio Video Equipment Enclosures
@@ -178,7 +178,7 @@ DIN Rail Magnetic Mounting Kits
 Pad Mount Enclosures
 Windowed Enclosures
 Ceiling Mount Enclosures
-Deck Mount Enclosures
+Deck Mount / Horizontal Mount Enclosures
 WiFi Enclosures
 Enclosures for Starlink®
 Home Automation and IoT Enclosures
@@ -285,7 +285,7 @@ DIN Rail Accessories
 Pad Mount Enclosures
 Windowed Enclosures
 Ceiling Mount Enclosures
-Deck Mount Enclosures
+Deck Mount / Horizontal Mount Enclosures
 WiFi Enclosures
 Enclosures for Starlink®
 Home Automation and IoT Enclosures

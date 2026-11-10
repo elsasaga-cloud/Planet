@@ -1,6 +1,6 @@
-# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · auto_home · https://www.angoranetworks.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · auto_home · https://www.angoranetworks.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Angora Networks | Yerli Network Switch, Packet Broker ve Veri Diyotu Üreticisi İçeriğe geç Ürünler Ağ Ürünleri
-Network Switch Ailesi
+Network Switch
 Verge Switch
 Synapse Switch
 Hitit Switch
@@ -11,7 +11,7 @@ Karınca Packet Broker
 ARROW Veri Diyotu
 Arı SD-WAN
 Sanal Masaüstü
-ThinCE VDI ↗
+ThinCE VDI
 OEM/ODM
 Hizmetler
 Dokümantasyon
@@ -26,13 +26,11 @@ Angora Networks
 Türkiye’nin yerli ağ cihazları üreticisi
 Kurumsal ağlar için yönetilebilir switch, SFP, network packet broker, veri diyotu ve SD-WAN cihazlarını Ankara’da tasarlıyor ve üretiyoruz.
 Tüm ürünler Bize ulaşın
-Verge Switch → Hitit Switch → Iris SFP → Angora NMS → Karınca Packet Broker → ARROW Veri Diyotu → Arı SD-WAN →
+Verge Switch →
+Synapse Switch → Hitit Switch → Iris SFP → Angora NMS → Karınca Packet Broker → ARROW Veri Diyotu → Arı SD-WAN →
 Ürünler
 Tümü Ağ Ürünleri Güvenlik
-Ağ Ürünleri
-Network Switch Ailesi
-Angora Networks yerli network switch aileleri: Verge, Synapse ve Hitit. Erişim, kurumsal, endüstriyel ve veri merkezi için yönetilebilir Ethernet anahtarları.
-İncele →
+Verge, Synapse ve Hitit serilerini karşılaştırın →
 Ağ Ürünleri
 Verge Yerli Network Switch Ailesi
 Verge, Angora Networks’ün yerli yönetilebilir network switch ailesidir: 8, 24, 32 ve 48 port gigabit, 10G fiber uplink, PoE, endüstriyel ve veri merkezi modelleri.
@@ -69,8 +67,8 @@ Arı, SD-WAN, güvenlik ve ağ servisleri için ihtiyaca göre özelleştirilebi
 yılından beri yerli üretim
 81
 ile yayılan bayi ve servis ağı
-9
-ürün ailesi
+8
+ürün serisi
 100 G
 hıza kadar port seçenekleri
 Yerli Akıl, Küresel Teknoloji
@@ -84,13 +82,13 @@ Haberler
 Tüm haberler →
 6 Aralık 2023
 Angora Networks® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı
-Cisco ISE entegrasyonu
+Angora Networks, ARROW Veri Diyotu çözümüne ModBUS ve OPC protokol desteği ekledi; endüstriyel tesisler OT verisini tek yönlü ve güvenli biçimde aktarabiliyor.
 2 Ekim 2022
 Görünürlük, Güvenlik, Maliyet: Packet Broker
-Angora Networks Resmi Sayfasıdır. Angora Networks Official Website
+Network packet broker, ağ trafiğini izleme ve güvenlik araçlarına akıllıca dağıtarak görünürlüğü artırır, güvenliği güçlendirir ve araç maliyetlerini düşürür.
 1 Eylül 2021
 Angora Networks® PacketFence NAC entegrasyonu tamamladı.
-Cisco ISE entegrasyonu
+Angora Networks ağ anahtarları, Alaattin Bilişim desteğiyle açık kaynak kodlu PacketFence ağ erişim kontrolü (NAC) çözümüyle 802.1X entegrasyonunu tamamladı.
 Size nasıl yardımcı olabiliriz?
 Kurumsal ağınızla ilgili ihtiyaçlarınızı birlikte değerlendirelim.
 Bize ulaşın
@@ -100,10 +98,7 @@ X
 Instagram
 YouTube
 Ürünler
-Network Switch Ailesi
-Verge Switch
-Synapse Switch
-Hitit Switch
+Network Switch
 Iris SFP
 Angora NMS
 Karınca Packet Broker
@@ -115,7 +110,7 @@ Hizmetler
 Dokümantasyon
 İş Ortakları
 Haberler
-Dokümanlar
+Broşür ve Datasheet
 İletişim
 Gizlilik
 My Angora ↗

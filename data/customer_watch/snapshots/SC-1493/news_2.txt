@@ -1,4 +1,4 @@
-# SC-1493 duxbury.co.za · news_2 · https://www.duxbury.co.za/blog/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1493 duxbury.co.za · news_2 · https://www.duxbury.co.za/blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Blog – Duxbury Networking
 Have Any Questions?
 011 351 9800
@@ -200,6 +200,9 @@ DuxNet Premium
 endpoint
 Enterprise Networking
 Extreme
+Extreme Agent One
+Extreme Networks
+Extreme Platform One
 Farming
 FF Group
 Firewall

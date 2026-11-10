@@ -1,4 +1,479 @@
-# SC-292 fiberinstrumentsales.com · home · https://www.fiberinstrumentsales.com/ · fetched 2026-11-09T09:57:20Z · HTTP 403
-403 Forbidden
-Forbidden
-You don't have permission to access this resource.
+# SC-292 fiberinstrumentsales.com · home · https://www.fiberinstrumentsales.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+FIS - Your Fiber Optics Experts - Fiber Instrument Sales
+The store will not work correctly when cookies are disabled.
+Skip to Content
+company.current === true)[0].name"
+class="selected-company-name"
+>
+Monday-Friday 8AM-6PM(EST)
+1-800-5000-FIS(347)
+Search Catalog Index
+About FIS
+Trainings
+Rentals
+Calibration
+Videos
+Ask a Question
+Book Demo
+Toggle Nav
+Sign In
+Create Account
+My Cart
+Search
+Advanced Search
+Search
+Menu
+Products
+Assemblies MTP/MPO & MMC Fiber Optic Cable Assemblies
+UPC Singlemode Fiber Optic Patch Cords
+APC Singlemode Fiber Optic Patch Cords
+10 Gig OM3 & OM4 Fiber Optic Patch Cords
+Multimode Fiber Optic Patch Cords
+MDU Drop Fiber Optic Patch Cords
+Specialty Fiber Optic Patch Cords
+Fiber Optic Single & Multi-Fiber Pigtails
+Fiber Optic Couplers/Splitters, WDM's & PLC's
+Fiber Optic Broadcast/Military Assemblies
+Test Equipment OTDR - Optical Time Domain Reflectometer
+Power Meter & Light Source
+Test Sets
+Fiber Optic Talk Sets
+Optical Spectrum Analyzer
+Test Boxes/Launch Boxes
+Visual Fault Locators
+Inspection Microscope/Video
+Fiber Identifiers
+Wireless Test Equipment
+Broadcast/Military Test Equipment
+Test Equipment Accessories
+Splicing Fiber Optic Fusion Splicers
+Cleavers
+Cheetah Splice-On Connectors - 900μm
+Armordillo Splice-On Connectors - 3.0mm
+Cheetah Splice-On Connectors - Accessories
+Splice-On Connectors
+Mechanical-Splices
+Fusion-Protection Sleeves
+Splicing Accessories
+Enclosures Rack Mount Enclosures
+Wall Mount Enclosures
+Enclosures Accessories
+Splice Trays
+Fiber Optic Plates
+Pigtails & Snap Packs
+MPO Breakout Cassettes
+Relay Rack and Cabinets
+Cable Management
+Patch & Splice Cassettes
+OSP Closures Outside Plant Enclosures
+Outside Plant Enclosures Accessories
+NID Boxes (House Boxes)
+MSTs (Multi Service Terminals)
+Handholes/Vaults/Pedestals
+Outside Plant Splice Trays
+Outside Plant Accessories
+Fiber Drop Cable Enclosures & Repair Kit
+Cable Marking
+Cable Pulling
+Cable Bare Fiber
+Large Core Fiber
+Tight Buffer
+Ribbon Cable
+Simplex Cable
+Duplex Cable
+Micro-Distribution Cable
+Micro-Distribution with Aluminum Interlocking Armor
+Distribution Cable
+Distribution with Aluminum Interlocking Armor
+Indoor/Outdoor Cable
+Indoor/Outdoor with Aluminum Interlocking Armor
+Indoor/Outdoor Gel Free (Dry Loose Tube)
+Outdoor Cable
+FIS Blue Tactical Cable
+Commscope Outside Plant Drop
+Corning Cable Systems Drop
+Flat SST Drop Cable
+All Dielectric Self Supporting (ADSS) Cable
+Aerial Cable/Self Supporting
+Furcation Tube
+Fan-Out & Break-Out Kits
+Innerduct
+Cable Accessories/Jetter
+Consumables Fiber Optic Cleaning Kits
+Cleaning Solutions
+Cleaning Accessories
+Cleaning Wipes
+Dry Cleaners & Cassettes
+Cleaning Swabs & Sticks
+One Click & IBC Cleaners
+Epoxy & Adhesives
+Polishing Film
+Polishing Equipment
+Polishing Tools
+Tools Stripping Tools
+Cutting Tools
+Hand Tools
+Slitter/Removal Tools
+Scribes/Crimpers
+Mid Access Tools
+Fish Tape & Poles
+Tool Accessories
+Tool Bags
+Fiber Optic Tool Kits
+Connectivity FIS Bobtail™ No-Polish Connectors
+Quick Termination Connectors
+Small Form Factor Connectors
+MTP/MPO Connectors
+Epoxy Connectors
+Terminator/Black Hole Connectors
+Legacy Connectors
+Mechanical Connectors
+Crimp Tools & Dies
+Adapters/Mating Sleeves
+Attenuators
+Dust & Safety Caps
+Ferrules/Split Sleeves
+Boots & Accessories
+Connector Oven
+Connector Inspection
+FTTX Zeus Fiber Management Centers
+Flat Drop Cable
+Flat Drop Cable Assemblies
+MDU Drop Cable Assemblies
+Splitters Modules - LGX Footprint
+Outdoor Drop Cable Enclosures
+FTTX Fiber Optic Enclosures
+NID Boxes (House Boxes)
+Wall Plates
+MSTs (Multi Service Terminals)
+Handholes/Vaults/Pedestals
+Optical Splitters - OSP Packages
+Optical Splitters - Planar
+LGX Optical Splitter Package
+Optical Splitter LGX Package with Connector Adapters
+Optical Splitter Rack Mount Connector Adapters
+Networking FTTH Network Devices
+Category 5e & 6 Patch Cables
+Copper Cable - Category 5e & 6
+Copper Test Equipment
+Copper Wall Plates & Boxes
+Copper Jacks & Plugs
+Copper Patch Panels
+Ethernet Switches
+Media Converters
+Harsh Environment Ethernet Switches
+Harsh Environment Media Converters
+Small Form Pluggable (SFP's)
+Transmitters & Receivers
+Ubiquiti
+Pre-Owned Equipment Pre-Owned OTDRs
+Pre-Owned Splicers
+Pre-Owned Test Equipment
+Clearance Products Cable Assemblies
+Cable
+Test Equipment
+About FIS
+Trainings
+Rentals
+Calibration
+Videos
+Ask a Question
+AFL
+Book Demo
+Search Catalog Index
+Contact us
+1-800-500-0347
+Outside U.S. +1 315-736-2206
+Location
+161 Clear Road Oriskany,
+NY 13424
+ISO9001:2015
+Assemblies MTP/MPO & MMC Fiber Optic Cable Assemblies
+UPC Singlemode Fiber Optic Patch Cords
+APC Singlemode Fiber Optic Patch Cords
+10 Gig OM3 & OM4 Fiber Optic Patch Cords
+Multimode Fiber Optic Patch Cords
+MDU Drop Fiber Optic Patch Cords
+Specialty Fiber Optic Patch Cords
+Fiber Optic Single & Multi-Fiber Pigtails
+Fiber Optic Couplers/Splitters, WDM's & PLC's
+Fiber Optic Broadcast/Military Assemblies
+Test Equipment OTDR - Optical Time Domain Reflectometer
+Power Meter & Light Source
+Test Sets
+Fiber Optic Talk Sets
+Optical Spectrum Analyzer
+Test Boxes/Launch Boxes
+Visual Fault Locators
+Inspection Microscope/Video
+Fiber Identifiers
+Wireless Test Equipment
+Broadcast/Military Test Equipment
+Test Equipment Accessories
+Splicing Fiber Optic Fusion Splicers
+Cleavers
+Cheetah Splice-On Connectors - 900μm
+Armordillo Splice-On Connectors - 3.0mm
+Cheetah Splice-On Connectors - Accessories
+Splice-On Connectors
+Mechanical-Splices
+Fusion-Protection Sleeves
+Splicing Accessories
+Enclosures Rack Mount Enclosures
+Wall Mount Enclosures
+Enclosures Accessories
+Splice Trays
+Fiber Optic Plates
+Pigtails & Snap Packs
+MPO Breakout Cassettes
+Relay Rack and Cabinets
+Cable Management
+Patch & Splice Cassettes
+OSP Closures Outside Plant Enclosures
+Outside Plant Enclosures Accessories
+NID Boxes (House Boxes)
+MSTs (Multi Service Terminals)
+Handholes/Vaults/Pedestals
+Outside Plant Splice Trays
+Outside Plant Accessories
+Fiber Drop Cable Enclosures & Repair Kit
+Cable Marking
+Cable Pulling
+Cable Bare Fiber
+Large Core Fiber
+Tight Buffer
+Ribbon Cable
+Simplex Cable
+Duplex Cable
+Micro-Distribution Cable
+Micro-Distribution with Aluminum Interlocking Armor
+Distribution Cable
+Distribution with Aluminum Interlocking Armor
+Indoor/Outdoor Cable
+Indoor/Outdoor with Aluminum Interlocking Armor
+Indoor/Outdoor Gel Free (Dry Loose Tube)
+Outdoor Cable
+FIS Blue Tactical Cable
+Commscope Outside Plant Drop
+Corning Cable Systems Drop
+Flat SST Drop Cable
+All Dielectric Self Supporting (ADSS) Cable
+Aerial Cable/Self Supporting
+Furcation Tube
+Fan-Out & Break-Out Kits
+Innerduct
+Cable Accessories/Jetter
+Consumables Fiber Optic Cleaning Kits
+Cleaning Solutions
+Cleaning Accessories
+Cleaning Wipes
+Dry Cleaners & Cassettes
+Cleaning Swabs & Sticks
+One Click & IBC Cleaners
+Epoxy & Adhesives
+Polishing Film
+Polishing Equipment
+Polishing Tools
+Tools Stripping Tools
+Cutting Tools
+Hand Tools
+Slitter/Removal Tools
+Scribes/Crimpers
+Mid Access Tools
+Fish Tape & Poles
+Tool Accessories
+Tool Bags
+Fiber Optic Tool Kits
+Connectivity FIS Bobtail™ No-Polish Connectors
+Quick Termination Connectors
+Small Form Factor Connectors
+MTP/MPO Connectors
+Epoxy Connectors
+Terminator/Black Hole Connectors
+Legacy Connectors
+Mechanical Connectors
+Crimp Tools & Dies
+Adapters/Mating Sleeves
+Attenuators
+Dust & Safety Caps
+Ferrules/Split Sleeves
+Boots & Accessories
+Connector Oven
+Connector Inspection
+FTTX Zeus Fiber Management Centers
+Flat Drop Cable
+Flat Drop Cable Assemblies
+MDU Drop Cable Assemblies
+Splitters Modules - LGX Footprint
+Outdoor Drop Cable Enclosures
+FTTX Fiber Optic Enclosures
+NID Boxes (House Boxes)
+Wall Plates
+MSTs (Multi Service Terminals)
+Handholes/Vaults/Pedestals
+Optical Splitters - OSP Packages
+Optical Splitters - Planar
+LGX Optical Splitter Package
+Optical Splitter LGX Package with Connector Adapters
+Optical Splitter Rack Mount Connector Adapters
+Networking FTTH Network Devices
+Category 5e & 6 Patch Cables
+Copper Cable - Category 5e & 6
+Copper Test Equipment
+Copper Wall Plates & Boxes
+Copper Jacks & Plugs
+Copper Patch Panels
+Ethernet Switches
+Media Converters
+Harsh Environment Ethernet Switches
+Harsh Environment Media Converters
+Small Form Pluggable (SFP's)
+Transmitters & Receivers
+Ubiquiti
+Pre-Owned Equipment Pre-Owned OTDRs
+Pre-Owned Splicers
+Pre-Owned Test Equipment
+Clearance Products Cable Assemblies
+Cable
+Test Equipment
+ISO9001:2015
+Assemblies
+Test Equipment
+Splicing
+Enclosures
+OSP Closures
+Cable
+Consumables
+Tools
+Connectivity
+FTTX
+Networking
+Fence Security
+Account
+Settings
+company.current === true)[0].name"
+class="selected-company-name"
+>
+Home
+Account Access
+View Order History, Pay Invoices and Track Orders.
+Sign In or Create an Account ›
+Deals & Promotions
+Sale Priced & Clearance Items, Manufacturer & FIS Product Promotions.
+Find Deals ›
+Patchcord Configurator
+Order custom patchcords or multifiber cable assemblies online.
+Let’s Get Building ›
+Search Catalog Index
+A click will allow you to find what you need quickly.
+Product Shopping Group ›
+Popular Picks
+FIS MMC Harness, MMC/APC Female to 2 x 12F MTPAPC Female, 3 meters, SM, 24 Fiber, Type B, Plenum
+SKU: MD9MC24FMF12S3E24BPL
+$77.45
+IBC MMC-16 11 IBC Cleaner
+SKU: 25803
+$96.20
+FIS Titan Ribbon Splice Protection Sleeve for 200/250um 16 Fiber
+SKU: F1TRB16-50
+$70.00
+FIS NID Box, 1 SC/APC Adapter, Cable Retention and Management Enclosure
+SKU: Z1NDYACR-UU
+$37.95
+FIS OV350 MPO Test Set-Singlemode
+SKU: OV3501315MPOK
+$4995.00
+FIS VERSA Fiber Distribution Cabinet (Unloaded)
+SKU: ZG2-A2-SP24
+$1795.00
+FIS AC7 Splicer Kit
+SKU: F1SOCAC7
+$3830.00
+FIS Wall Plate SC/APC Adapter Integrated Shutter, 900µm 1 meter pigtail
+SKU: Z1WP-01SXX-W1
+$11.75
+FIS Cleaning Station Standard Kit Wall Mountable
+SKU: F16714
+$235.00
+FIS Splice-On Connector Cheetah SC/APC SM SOC 900um Green - 50pk Clamshell
+SKU: F1SCAPCSOC50
+$397.50
+Catalog
+New Fiber Optic Product Catalog.
+Desk Reference.
+Read Now
+Online Reading
+Download
+Digital Copy
+Request
+Printed Catalog
+E-Newsletter
+Stay up to date with what is going on with Fiber Instrument Sales, Inc.
+Subscribe
+Contact us
+1-800-500-0347
+Outside U.S. +1 315-736-2206
+Location
+161 Clear Road Oriskany, NY 13424
+ISO9001:2015
+FIS
+About Us
+FIS Careers
+International Distributors
+ISO Certification
+The Team
+Resources
+BIM 3D Downloads
+Blog
+Equipment Financing
+Fiber Optic Product Directory
+Fiber Optic Reference Tools
+Glossary
+Network Design Software
+New Catalog Index Search
+Patch Cable Configurator
+Request a Sample SOC
+RMA Form & Policy Information
+Specification Sheets
+Standard Terms & Conditions for a Sale
+Standard Terms & Conditions for Suppliers
+Test Equipment Software & Manuals
+Training
+At Your Own Pace Online Training
+Brightside Training Center
+Custom Corporate Training
+Fiber I & II Hands On Training
+Live Online Training
+View All Training Dates
+Rentals
+Fusion Splicers
+Fiber Optic Test
+OTDRs
+Calibration
+Calibration Request
+Calibration FAQs
+Videos
+FIS Videos
+Ask The Fiber Optic Expert
+Product Videos
+Promotional Videos
+Service Videos
+Tech Tip Videos
+Training Videos
+Ask a Question
+Products
+AFL
+Assemblies
+Cable
+Connectivity
+Consumables
+Enclosures
+Fence Security
+FTTX
+Networking
+OSP Closures
+Splicing
+Test Equipment
+Tools
+Copyright 2026 © Fiber Instruments Sales Inc. All Rights Reserved.
+Privacy Policy

@@ -1,4 +1,4 @@
-# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
 
 Menu
@@ -45,7 +45,7 @@ ANTI-FIRE
 
 Sensors
 Centrali
-Accessori
+Accessories
 Networking
 
 
@@ -272,7 +272,7 @@ Emergency Terminals
 ANTI-FIRE  
 Sensors
 Centrali
-Accessori
+Accessories
 Networking  
 Switch
 Wi-Fi
@@ -361,14 +361,10 @@ SERVICES
 BRAND PRICELISTS
 Download OFFICIAL PRICELISTS of our brands!
 PROMO SETIK
-IMOU LIFE | PROMOTIONS
-Discover all the official IMOU promotions available on our e-commerce store:
-Wi-Fi cameras, video surveillance kits, smart home solutions and much mo...
-FIND AN INSTALLER
-Looking for an installer
-near you?
-Find a qualified professional in your area to install our products
-FIND AN INSTALLER →
+HYUNDAI SPECIAL: SUPER DISCOUNTS AND FREE SHIPPING
+-50%
+HYU-657
+HYU-657 Hyundai PRO HDTVI series outdoor dome CCTV camera. CMOS sensor, 2 MP (2-megapixel) resolution a...
 CCTV cameras, alarm systems and security kits
 BEST SELLER
 BEST PRICE
@@ -413,7 +409,7 @@ VIEW PRICE
 €778.36
 -45%
 
-IN STOCK: 35
+IN STOCK: 34
 Pieces
 *}
 38168.56.WH1 - AJAX Professional Wireless GPRS / Ethernet Alarm Kit
@@ -439,7 +435,7 @@ HYU-261 Hyundai Outdoor PTZ IP Bullet Camera. 1 / 2.8 "CMOS sensor, 4 MP resolut
 VIEW PRICE
 €708.04
 
-IN STOCK: 55
+IN STOCK: 54
 Pieces
 *}
 IN PROMOTION
@@ -452,10 +448,7 @@ HIKVISION ADHESIVE SIGN AS A GIFT!
 VIEW PRICE
 €352.09
 -35%
-
-IN STOCK: 4
-Pieces
-*}
+Available in 7 days
 -57%
 HAC-HDW1500TRQ-S2 - Dahua 5 MP Hybrid 4in1 Video Surveillance Camera 2 IR LEDs 2.8 MM
 Dahua surveillance camera HAC-HDW1500TRQ-S2 S2 version with 4 technologies in 1: HDCVI / HDTVI / AHD / ANALOG Dome 5Megapixel 5 MP , 2.8mm fixed lens and 1 / 2.7 "CMOS sensor. IR illuminator 2 LED 25M, Day / Night (ICR), OSD Menu, BLC, HLC, DWDR, IP50 protection, plastic
@@ -464,7 +457,7 @@ from
 38,72 €
 -57%
 
-IN STOCK: 115
+IN STOCK: 113
 Pieces
 *}
 IN PROMOTION
@@ -486,12 +479,9 @@ Soluzioni per casa, uffici, negozi, aziende e grandi infrastrutture
 Spedizioni rapide in tutta Europa e catalogo multilingua
 Popular Brands
 PROMO SETIK
-HIKVISION | SPECIAL OFFERS
-```
-LOWEST PRICE IN EUROPE
-Hikvision DS-KIS604-S | The smart video intercom for your home
-```
-S...
+IMOU LIFE | PROMOTIONS
+Discover all the official IMOU promotions available on our e-commerce store:
+Wi-Fi cameras, video surveillance kits, smart home solutions and much mo...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -532,4 +522,5 @@ Compare Now ( 0 )‎
 ×
 Some text in the modal.
 Chiudi
-Aggiunta al Car
+Aggiunta al Carrello
+This site uses cookies. By continuing to browse the site you are agreeing to our use of c

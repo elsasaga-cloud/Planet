@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,72 +429,64 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Monomodo SC 20km - LRI-MC-1G1SM20
-R$ 375,00
+I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
+R$ 725,82
 R$
-363 , 75
+704 , 05
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Switch Ethernet Industrial Gerenciável Rack 19" 24 Portas Gigabit RJ45 + 4 Portas Combo - LRI-SW-24G4CS1C-RM
-R$ 5.400,00
+LRS-350 - Fonte CA/CC até 350,4W, 8 saídas de 3,3 a 48Vcc Mean Well
+A partir de
+R$ 348,13
 R$
-5.238 , 00
+337 , 69
+à vista
+com desconto Pix - Vindi
+Ver opções
+Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 8 Portas SFP - LRI-SW-16G8S1C
+R$ 3.540,00
+R$
+3.433 , 80
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-RS-25 Fonte CA CC 25W Miniatura Alta Eficiência MeanWell
-R$ 109,49
+Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
+R$ 990,00
 R$
-106 , 21
+960 , 30
 à vista
 com desconto Pix - Vindi
-Ver opções
-MDR-10 Fonte CA/CC 10 Watts Trilho DIN Compacta para Automação Industrial MeanWell
-R$ 120,83
-R$
-117 , 21
-à vista
-com desconto Pix - Vindi
-Ver opções
+Comprar
+Ver ficha técnica
 Lançamentos
-Módulo E/S Universal Remoto 4G LTE TCG140-4G-H266
-R$ 4.223,51
+Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
+R$ 990,00
 R$
-4.096 , 80
+960 , 30
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
+MODBUS CO2 e Sensor de Pressão TSM400-4-CP
+Sob consulta
+Saiba mais
+Pedir cotação
 Sensor de Temperatura e Umidade IP54 TSH331
 Sob consulta
 Saiba mais
 Pedir cotação
-Módulo IO Universal 4G LTE TCG140-4
-Sob consulta
-Saiba mais
-Pedir cotação
-Módulo Industrial Monitoramento e Controle IoT TCW242
-R$ 2.454,59
+LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
+R$ 549,00
 R$
-2.380 , 95
+532 , 53
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
 Nome: Djalma Filho
 Avaliação: Positivo
 Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
@@ -505,6 +497,16 @@ Written by: Djalma Filho
 LRI Automação Industrial
 1 / 1 stars
 1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -546,5 +548,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.281 secs - 09-11-2026  - node: commerce-web4-tiny-lw - store
+Load time: 0.772 secs - 10-11-2026  - node: commerce-web2-tiny-lw - store
 ×

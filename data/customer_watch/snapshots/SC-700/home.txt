@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · home · https://www.amc-systeme.de/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-700 amc-systeme.de · home · https://www.amc-systeme.de/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 AMC - Analytik & Messtechnik GmbH Chemnitz - AMC
 Navigation überspringen
 Startseite
@@ -238,7 +238,12 @@ Nutzen Sie die Gelegenheit zum persönlichen Austausch mit uns und erfahren Sie,
 Wir freuen uns auf Ihren Besuch in Nürnberg!
 Veranstaltungsübersicht
 Webinare
-Informationen zu neuen Webinaren folgen demnächst.
+Secure and Open Edge Computing for Software-Defined Automation
+20. November 2026 | Online | Englisch
+Im Rahmen unserer langjährigen Partnerschaft mit Advantech möchten wir auf ein gemeinsames Webinar mit Bosch Rexroth zum Thema Secure and Open Edge Computing for Software-Defined Automation aufmerksam machen.
+Im Mittelpunkt stehen sichere und offene Edge-Computing-Architekturen sowie moderne Ansätze der Software-Defined Automation (SDA) . Vorgestellt werden unter anderem Sicherheitskonzepte im Kontext des Cyber Resilience Act (CRA) , vorinstallierte ctrlX-OS-Plattformen auf Advantech UNO-Gateways sowie Möglichkeiten zur flexiblen Integration industrieller Anwendungen.
+Auch bei AMC spielen Edge Computing und die Integration industrieller Daten eine wichtige Rolle, beispielsweise im Rahmen unserer Lösung AMC iFactoryX .
+Weitere Informationen zum Webinar sowie das Anmeldeformular finden Sie hier .
 Wir stellen ein. Jetzt bewerben!
 Wir suchen engagierte und kluge Köpfe.
 Duales Studium mit AMC

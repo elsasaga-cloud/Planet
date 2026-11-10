@@ -1,4 +1,4 @@
-# XC-M194 Tektraco Ltd. · news_1 · https://tektraco.com/news/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# XC-M194 Tektraco Ltd. · news_1 · https://tektraco.com/news/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 News | Tektraco
 Home
 About
@@ -29,4 +29,13 @@ Contact Us
 TEKTRACO 2020 © | ALL RIGHTS RESERVED | DESIGNED & DEVELOPED BY CYBERSPACE
 Privacy Policy
 Terms and Conditions
+Name * Surname * Email * Phone (optional)
+Position * Choose a position
+Lead Installer
+General application – keep my CV on file
+Other notes (optional)
+Your CV * PDF or Word, up to 2.5 MB.
+I agree to Tektraco keeping my details and CV on file for current and future vacancies, as described in the privacy policy .
+* Required.
+Δ
 ×

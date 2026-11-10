@@ -1,11 +1,12 @@
-# SB-920 Blue Skill Ltd · sitemap · https://blueskill.co/sitemap.xml · fetched 2026-11-09T09:57:20Z · HTTP 200
-2026-10-02	https://www.blueskill.co/
-2026-10-02	https://www.blueskill.co/familias.html
-2026-10-02	https://www.blueskill.co/condominios.html
-2026-10-02	https://www.blueskill.co/vecinos.html
-2026-10-02	https://www.blueskill.co/comercios.html
-2026-10-02	https://www.blueskill.co/seguridad-activa.html
-2026-10-02	https://www.blueskill.co/cctv-pro.html
-2026-10-02	https://www.blueskill.co/tienda.html
-2026-10-02	https://www.blueskill.co/terminos.html
-2026-10-02	https://www.blueskill.co/privacidad.html
+# SB-920 Blue Skill Ltd · sitemap · https://blueskill.co/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+2026-11-09	https://www.blueskill.co/
+2026-11-09	https://www.blueskill.co/care.html
+2026-11-09	https://www.blueskill.co/condominios.html
+2026-11-09	https://www.blueskill.co/vecinos.html
+2026-11-09	https://www.blueskill.co/plaza.html
+2026-11-09	https://www.blueskill.co/hogar.html
+2026-11-09	https://www.blueskill.co/negocio.html
+2026-11-09	https://www.blueskill.co/cctv.html
+2026-11-09	https://www.blueskill.co/tienda.html
+2026-11-09	https://www.blueskill.co/terminos.html
+2026-11-09	https://www.blueskill.co/privacidad.html

@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -18,9 +18,9 @@ Power & PoE
 Petenet PoE Switches 12V Power Supplies PoE Extenders PoE Splitters Injectors
 New arrivals
 Shop All
-Seagate HDD-SG-SKY4TB – 4TB SkyHawk Surveillance HDD
+Uniview Smart Management Box (DC Power) – SMBOX02-R
 Login for Pricing
-Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
+Uniview 500mm Pendent Rod for PTZ – TR-SE45-A
 Login for Pricing
 New Arrivals Clearance
 Become a Dealer
@@ -111,15 +111,15 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-How to Choose the Right Memory Card for Your Security Camera
-When selecting a microSD card for your security camera, it's import to choose one with the right speed, capacity, and…
-May 15, 2023
-Do Security Cameras Work Without Internet?
-While shopping around for a security camera, you may have noticed that a lot of them offer remote viewing functionality.…
-March 27, 2024
-Case Study: Uniview protects St. Norbert’s Church in Toronto
-Uniview cameras were chosen to protect St. Norbert's Roman Catholic church in North York, Ontario. The project was a definitive…
-November 17, 2023
+Uniview 5MP Analog Camera Review: Worth it in 2023?
+This review takes a deep dive into Uniview's latest release; a 5MP HD Analog ColorHunter camera with a powerful white…
+June 7, 2023
+Uniview LightHunter vs ColorHunter: What’s the Difference?
+In 2019, Uniview released their LightHunter series cameras.[1] Their LightHunter technology significantly improves image quality in low-light scenes. Innovative technologies…
+October 11, 2022
+Reyee P2P Wireless Bridge Connects Two Buildings in Toronto
+A Reyee P2P bridge is installed outside an alleyway in the Distillery District. The device is used to bridge to…
+July 28, 2024
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account

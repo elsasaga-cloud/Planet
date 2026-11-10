@@ -1,4 +1,4 @@
-# SC-1194 eldi.no · feed_auto · https://www.eldi.no/feed/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SC-1194 eldi.no · feed_auto · https://www.eldi.no/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Mon, 02 Nov 2026 12:46:35 +0000	PH301 Bærbart Flowmeter	https://www.eldi.no/ph301-baerbart-flowmeter/
 Sat, 03 Oct 2026 08:30:47 +0000	Industriell PC, vifteløs, N150	https://www.eldi.no/industriell-pc-viftelos-n150/
 Fri, 18 Sep 2026 09:51:59 +0000	Portabelt CL2 klorgass instrument	https://www.eldi.no/portabelt-cl2-klorgass-instrument/

@@ -1,4 +1,4 @@
-# SB-654 davantel.com · home · https://www.davantel.com/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-654 davantel.com · home · https://www.davantel.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
 Soluciones avanzadas para telecomunicaciones corporativas - Davantel
 Saltar al contenido
 Menú
@@ -88,7 +88,7 @@ Robustel Cloud Manager Service (RCMS)
 Edge2Cloud
 Smart Roaming V2
 Smart Roaming V3
-Gateways
+Gateways Celulares e Industriales IoT (Familia TRB) | Davantel
 TRB140
 TRB141
 TRB142
@@ -200,6 +200,7 @@ FAQs Trackers Teltonika
 Manuales
 Catálogos
 RMA
+CRA – Vulnerability Report
 Blog
 Top10
 Productos Destacados
@@ -301,7 +302,7 @@ Robustel Cloud Manager Service (RCMS)
 Edge2Cloud
 Smart Roaming V2
 Smart Roaming V3
-Gateways
+Gateways Celulares e Industriales IoT (Familia TRB) | Davantel
 TRB140
 TRB141
 TRB142
@@ -413,6 +414,7 @@ FAQs Trackers Teltonika
 Manuales
 Catálogos
 RMA
+CRA – Vulnerability Report
 Blog
 Top10
 Productos Destacados
@@ -539,13 +541,4 @@ Cerrar Partners
 Productos
 Routers Teltonika
 Routers Robustel
-Industrial edge computing gateways
-Gateways LoRaWAN
-Tarjetas SIM IoT prepago
-Trackers Teltonika
-Casos de Uso
-Clientes
-Soporte
-Blog
-Tienda
-Contacto
+Industrial

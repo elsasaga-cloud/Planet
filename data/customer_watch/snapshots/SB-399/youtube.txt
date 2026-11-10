@@ -1,4 +1,4 @@
-# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-11-10T10:04:27Z · HTTP 200
 2026-11-02T19:13:07+00:00	Installing a security camera without any power or cables running to a site?	https://www.youtube.com/shorts/kKEl8wmqcYM
 2026-10-30T12:45:31+00:00	Deploy Security to Sites Fast - Uniview SMB Smart Box	https://www.youtube.com/shorts/71tu4Lgz-Cs
 2026-10-29T13:00:37+00:00	Search Security Footage with Prompts - SeekFree Uniview	https://www.youtube.com/shorts/reooHnbuajo

@@ -1,2 +1,2 @@
-# SA-034 rfog.pl · intel_news_pl · https://news.google.com/rss/search?q=%22RFOG%20POLAND%20TOMASZ%20PASZKOWSKI%22&hl=pl&gl=PL&ceid=PL:pl · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SA-034 rfog.pl · intel_news_pl · https://news.google.com/rss/search?q=%22RFOG%20POLAND%20TOMASZ%20PASZKOWSKI%22&hl=pl&gl=PL&ceid=PL:pl · fetched 2026-11-10T10:04:27Z · HTTP 200
 
