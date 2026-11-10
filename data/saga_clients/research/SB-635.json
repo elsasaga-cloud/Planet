@@ -2,7 +2,7 @@
  "code": "SB-635",
  "name_official": "LMD Hitech India (P) Ltd. / Radiant Group（印度）",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（radiantgroup.org：域名不可达（DNS/连接失败），2026-11-09，第 11 次）",
+ "website_status": "快照失败（radiantgroup.org：域名不可达（DNS/连接失败），2026-11-10，第 12 次）",
  "summary": "印度 LMD Hitech（Radiant Group，Dinesh Sharma），询盘表来源，无兴趣描述；域名不可达；WA 无实质回复。",
  "type": "",
  "size": "",
@@ -35,7 +35,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（快照不可达 + 表内）"
@@ -117,7 +117,8 @@
    "2026-11-06T10:07:25Z",
    "2026-11-07T09:32:01Z",
    "2026-11-08T09:45:03Z",
-   "2026-11-09T10:30:44Z"
+   "2026-11-09T10:30:44Z",
+   "2026-11-10T10:36:50Z"
   ],
   "fails": [
    "2026-10-21",
@@ -130,7 +131,8 @@
    "2026-11-06",
    "2026-11-07",
    "2026-11-08",
-   "2026-11-09"
+   "2026-11-09",
+   "2026-11-10"
   ],
   "batch": "LT-T03"
  },

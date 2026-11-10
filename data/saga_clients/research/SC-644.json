@@ -58,7 +58,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：★ 批发分销 20%：Scoop Distribution (Pty) Ltd（Cape Town / Midrand；Reg 2001/007610/07；VAT 4830195584；Ubiquiti / MikroTik / Tenda / Reyee / Fanvil 授权）坐实；已进口中国同类 ✔ 对位 ✔ 坐实 ✔ → P 池候选；闸 1：南非 Scoop Distribution（scoop.co.za；无线 / 网络中型分销，表内「商业 PoE Cudy 的，也有一些有名的牌子」）：进口中国同类 ✔ 对位 ✔ 中型分销 + 同区先例；群发 15 次 0 回 → 闸 2 …",
- "notes": "LT-T03 官网快照加厚（2026-11-09）：fail#10。\nLT-T03 官网快照加厚（2026-11-08）：fail#9。\nLT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-10）：fail#11。\nLT-T03 官网快照加厚（2026-11-09）：fail#10。\nLT-T03 官网快照加厚（2026-11-08）：fail#9。\nLT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/brands_seen/evidence/kp/company_facts/business_lines/channels/signals/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -166,7 +166,8 @@
    "2026-11-06T10:08:12Z",
    "2026-11-07T09:32:46Z",
    "2026-11-08T09:46:20Z",
-   "2026-11-09T10:31:28Z"
+   "2026-11-09T10:31:28Z",
+   "2026-11-10T10:37:36Z"
   ],
   "fails": [
    "2026-10-29",
@@ -178,7 +179,8 @@
    "2026-11-06",
    "2026-11-07",
    "2026-11-08",
-   "2026-11-09"
+   "2026-11-09",
+   "2026-11-10"
   ],
   "batch": "LT-T03"
  },

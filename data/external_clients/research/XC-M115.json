@@ -2,8 +2,8 @@
  "code": "XC-M115",
  "name": "Phoebe IDF",
  "round": "LT-T03",
- "researched_at": "2026-11-09",
- "alive": "快照失败（distribution.phoebe.fr：HTTP 错误，2026-11-09，第 10 次）",
+ "researched_at": "2026-11-10",
+ "alive": "快照失败（distribution.phoebe.fr：HTTP 错误，2026-11-10，第 11 次）",
  "summary": "PHOEBE Ile de France（SIRET 41208081400095）：电信 / 光传输工程 + 子公司 PHOEBE Fibres 供应光缆跳线（ORing 授权分销 distribution.phoebe.fr）；1996 起；75 人（Verif）/ 51–200（LinkedIn）",
  "type_final": "分销（ORing 授权）；PHOEBE Ile de France（SIRET 41208081400095）",
  "size": "",
@@ -47,7 +47,7 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPHOEBE Ile de France（SIRET 41208081400095）；4 avenue du Paraná, 91940 Les Ulis（+ Aquitaine / PACA 分部）；SIRET 412 080 814 00095；+33 1 85 41 03 00",
+ "notes": "LT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nPHOEBE Ile de France（SIRET 41208081400095）；4 avenue du Paraná, 91940 Les Ulis（+ Aquitaine / PACA 分部）；SIRET 412 080 814 00095；+33 1 85 41 03 00",
  "draft_en": null,
  "snap_thicken": {
   "consumed": [
@@ -60,7 +60,8 @@
    "2026-11-06T10:08:49Z",
    "2026-11-07T09:33:11Z",
    "2026-11-08T09:46:44Z",
-   "2026-11-09T10:32:00Z"
+   "2026-11-09T10:32:00Z",
+   "2026-11-10T10:38:04Z"
   ],
   "fails": [
    "2026-10-29",
@@ -72,7 +73,8 @@
    "2026-11-06",
    "2026-11-07",
    "2026-11-08",
-   "2026-11-09"
+   "2026-11-09",
+   "2026-11-10"
   ]
  }
 }
