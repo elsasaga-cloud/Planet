@@ -2,7 +2,7 @@
  "code": "SB-386",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（dvs.co.uk：HTTP 错误，2026-11-10，第 12 次）",
+ "website_status": "快照失败（dvs.co.uk：HTTP 错误，2026-11-11，第 13 次）",
  "summary": "英国 DVS Ltd（英国大型 CCTV/安防分销商；表内「switch PoE 配件 有 Utepo 的」「可以多跟进一下」；KP Scott Abraham（Purchasing and Logistics Manager）；官网 http_error）；群发 16 次无回复。",
  "type": "安防分销商（英国，大型，Utepo 在供）",
  "size": "",
@@ -37,7 +37,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-11-11）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -152,7 +152,8 @@
    "2026-11-07T09:31:22Z",
    "2026-11-08T09:44:24Z",
    "2026-11-09T10:30:04Z",
-   "2026-11-10T10:36:10Z"
+   "2026-11-10T10:36:10Z",
+   "2026-11-11T10:08:14Z"
   ],
   "fails": [
    "2026-10-21",
@@ -166,7 +167,8 @@
    "2026-11-07",
    "2026-11-08",
    "2026-11-09",
-   "2026-11-10"
+   "2026-11-10",
+   "2026-11-11"
   ],
   "batch": "LT-T03"
  },

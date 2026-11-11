@@ -1,7 +1,7 @@
 {
  "code": "SB-080",
  "name_official": "Cyber Tec（cyber-tec.net，伊拉克卡尔巴拉；域名现不可达）",
- "website_status": "快照失败（cyber-tec.net：域名不可达（DNS/连接失败），2026-11-10，第 10 次）",
+ "website_status": "快照失败（cyber-tec.net：域名不可达（DNS/连接失败），2026-11-11，第 11 次）",
  "summary": "伊拉克卡尔巴拉的小型 IT/网络公司（联系人 Sarmad Alwakil，sarmad@cyber-tec.net + yahoo，WA 已加）。表内兴趣 TA510-FE（百兆工业收发器类型号），2024-03 问「价格含电源吗？电源价格」；19 次推送 1 次实质回复。域名已不可达、无公开资料 → 公司存续待核；伊拉克非主攻区 → B 慢跟 25%。",
  "type": "IT 经销/集成商",
  "size": "待补证",
@@ -40,7 +40,7 @@
  ],
  "grade_override": "B",
  "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：C 捞出 → B（U128 ②）：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
- "notes": "LT-T03 官网快照加厚（2026-11-10）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#1。\nWA 季度触达。",
+ "notes": "LT-T03 官网快照加厚（2026-11-11）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#1。\nWA 季度触达。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
@@ -202,7 +202,8 @@
    "2026-11-07T09:30:02Z",
    "2026-11-08T09:43:04Z",
    "2026-11-09T10:28:43Z",
-   "2026-11-10T10:34:51Z"
+   "2026-11-10T10:34:51Z",
+   "2026-11-11T10:06:53Z"
   ],
   "fails": [
    "2026-11-01",
@@ -214,7 +215,8 @@
    "2026-11-07",
    "2026-11-08",
    "2026-11-09",
-   "2026-11-10"
+   "2026-11-10",
+   "2026-11-11"
   ],
   "batch": "LT-T03"
  }

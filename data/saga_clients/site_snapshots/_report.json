@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-10T10:38:43Z",
+ "generated_at": "2026-11-11T10:11:00Z",
  "total": 2327,
  "by_status": {
   "ok": 2122,
-  "http_error": 129,
-  "unreachable": 44,
+  "http_error": 131,
+  "unreachable": 46,
   "parked_or_empty": 13,
-  "timeout": 19
+  "timeout": 15
  },
  "by_grade": {
   "B": {
    "ok": 2022,
-   "http_error": 125,
-   "unreachable": 44,
-   "timeout": 15,
+   "http_error": 127,
+   "unreachable": 46,
+   "timeout": 11,
    "parked_or_empty": 10
   },
   "A": {
