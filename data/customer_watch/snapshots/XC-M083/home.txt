@@ -1,9 +1,9 @@
-# XC-M083 Aspect（Skopje） · home · https://aspect.com.mk/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# XC-M083 Aspect（Skopje） · home · https://aspect.com.mk/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Aspect | Industrial & Warehouse Automation in North Macedonia
 Skip to content
-Home About us Solutions Products Mobile Terminals Barcode Scanners Label Printers
+Home About us Solutions Products Mobile Terminals Barcode Scanners Label Printers Rugged Tablets
 Contact
-Home About us Solutions Products Mobile Terminals Barcode Scanners Label Printers
+Home About us Solutions Products Mobile Terminals Barcode Scanners Label Printers Rugged Tablets
 Contact
 Industrial Automation & Intelligent Systems
 Industrial & Warehouse Automation
@@ -31,6 +31,8 @@ Barcode Scanners
 Capture barcode data for retail, logistics, and warehouse workflows. Choose the reading distance and connectivity that fit your operation.
 Label Printers
 Print labels for shipping, stock identification, and products. Match the printing method, label size, and output capacity to your needs.
+Rugged Tablets
+Large touchscreens and enterprise connectivity for warehouse, vehicle-mounted, and field service applications.
 Planning an automation project?
 What solutions does Aspect provide?
 Aspect provides industrial computing, material handling systems, industrial networking, automatic identification, and printing systems. Our team is based in Skopje, North Macedonia.

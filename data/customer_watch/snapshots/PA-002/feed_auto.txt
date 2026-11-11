@@ -1,4 +1,4 @@
-# PA-002 Cartronic Memory S.A.（Cartronic Group） · feed_auto · https://cartronic.es/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# PA-002 Cartronic Memory S.A.（Cartronic Group） · feed_auto · https://cartronic.es/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Thu, 05 Nov 2026 09:56:05 +0000	Relojería sincronizada para entornos críticos: cuando cada segundo cuenta para la continuidad operativa	https://cartronic.es/relojeria-sincronizada-entornos-criticos/
 Thu, 22 Oct 2026 09:39:38 +0000	Una avería en la cadena de frío puede costar millones. ¿Quién detecta el fallo a tiempo?	https://cartronic.es/monitorizacion-ambiental-iot-para-cadena-de-frio/
 Mon, 19 Oct 2026 13:33:41 +0000	Monitorización ambiental en CPD: seguridad, continuidad operativa y cumplimiento ISO 27001 y ENS	https://cartronic.es/monitorizacion-ambiental-en-cpd-iso-27001-y-ens/

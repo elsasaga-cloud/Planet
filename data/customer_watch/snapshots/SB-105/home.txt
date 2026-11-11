@@ -1,4 +1,4 @@
-# SB-105 cenova.com.tr · home · https://cenova.com.tr/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-105 cenova.com.tr · home · https://cenova.com.tr/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Cenova Bilişim Teknolojileri
 Yükleniyor..
 0 Teklif Listem
@@ -169,7 +169,7 @@ E-posta Adresi
 Cep Telefon Numarası (Doğrulama SMS'i gönderilecek)
 Adres
 Katılımcı Sayısı
-Lütfen BALIK simgesini işaretleyiniz
+Lütfen MATKAP simgesini işaretleyiniz
 İDS - İnsan Doğrulama Sistemi
 Talep Gönder
 SMS Doğrulama

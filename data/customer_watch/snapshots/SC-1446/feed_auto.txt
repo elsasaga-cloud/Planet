@@ -1,4 +1,4 @@
-# SC-1446 lojacctv.com · feed_auto · https://www.lojacctv.com/rss · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1446 lojacctv.com · feed_auto · https://www.lojacctv.com/rss · fetched 2026-11-11T09:37:04Z · HTTP 200
 Thu, 24 Sep 2026 01:02:16 +0100	Câmara IP PT WiFi Uniarch 5MP Lente Dupla IR 30m IP66	https://www.lojacctv.com/product/camara-ip-pt-wifi-uniarch-5mp-lente-dupla-ir-30m-ip66
 Thu, 24 Sep 2026 01:02:16 +0100	Câmara IP WiFi Uniarch Panda Dual Light 3MP PTZ Auto Tracking IP66	https://www.lojacctv.com/product/camara-ip-wifi-uniarch-panda-dual-light-3mp-ptz-auto-tracking-ip66
 Sun, 13 Sep 2026 19:37:00 +0100	Uniarch Câmara PTZ IP WiFi 5MP Panda Deteção Áudio Visão Noturna	https://www.lojacctv.com/product/uniarch-camara-ptz-ip-wifi-5mp-panda-detecao-audio-visao-noturna

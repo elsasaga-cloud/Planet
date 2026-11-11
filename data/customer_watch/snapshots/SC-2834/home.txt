@@ -1,4 +1,4 @@
-# SC-2834 Dipol · home · https://www.dipol.com.pl/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-2834 Dipol · home · https://www.dipol.com.pl/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Monitoring IP, LAN, WLAN, TV, SAT, Anteny, Przewody - DIPOL
 Dostosowujemy się do Ciebie
 Używamy ciasteczek , przez co nasz sklep działa niezawodnie oraz dostosowuje się do Ciebie. Ciasteczka umożliwiają dopasowanie treści i promocji do Twoich zainteresowań.
@@ -515,13 +515,12 @@ Informator
 BIBLIOTEKA
 Poradniki video
 Kursy
-INFORMACJE
-AKTUALNOŚCI
-Targi
-Firma
-SIEĆ SPRZEDAŻY
 Promocje
 Kursy
+Kontakt
+O firmie
+AKTUALNOŚCI
+Dane firmy
 Nic nie znaleziono
 0
 Koszyk
@@ -731,4 +730,6 @@ Kable elektryczne
 Biblioteka działu
 CPR
 TV-SAT
-CCT
+CCTV
+LAN
+WLAN

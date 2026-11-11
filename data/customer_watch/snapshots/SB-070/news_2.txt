@@ -1,4 +1,4 @@
-# SB-070 neowine · news_2 · https://neowine.com/bbs/board.php?bo_table=neowine · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-070 neowine · news_2 · https://neowine.com/bbs/board.php?bo_table=neowine · fetched 2026-11-11T09:37:04Z · HTTP 200
 Press 1 페이지 | neowine
 Company Logo
 cha
@@ -50,27 +50,27 @@ Press 목록
 44
 보안뉴스 | 네오와인, 복제 방지 칩으로 대만 시장 공략 나서
 26.06.08
-667
+669
 neowine
 43
 전자신문 | 이효승 한국시스템반도체협동조합 이사장 “국방반도체, K팹리스 키우는 마중물”
 26.02.24
-1203
+1205
 neowine
 42
 전자신문 | 40나노 파운드리, 늦었지만 반드시 가야 할 길
 26.01.07
-1402
+1406
 neowine
 41
 아이뉴스24 | 제3회 팹리스인의 날 기념식 '네오와인' 성남시장 표창
 25.12.02
-1346
+1347
 neowine
 40
 디일렉 | (방송본) 대한민국 AI 반도체, 이렇게 가면 망합니다
 25.06.10
-2227
+2228
 neowine
 39
 지디넷 | 네오와인 "AI반도체 개발 빠르고 쉽게"···특허 취득
@@ -85,7 +85,7 @@ neowine
 37
 지디넷 | 네오와인, 엔비디아 쿠다 필요없는 NPU 선보여
 24.10.29
-2410
+2411
 neowine
 36
 전자신문 | 시스템반도체 후발주자 韓, 'MPCs' 도입 시급

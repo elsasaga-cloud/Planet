@@ -1,4 +1,4 @@
-# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-11T09:37:04Z · HTTP 200
 Píšeme, radíme, inspirujeme a testujeme | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -20,11 +20,11 @@ Svítilny a čelovky
 LED osvětlení
 (339)
 Reflektory
-(108)
+(107)
 Lampičky a drobné osvětlení
 (55)
 Vánoční osvětlení
-(268)
+(262)
 Meteostanice a budíky
 (39)
 Váhy

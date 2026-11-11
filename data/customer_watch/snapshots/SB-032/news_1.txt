@@ -1,4 +1,4 @@
-# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-11-11T09:37:04Z · HTTP 200
 PIOLINK - News
 Skip to main content
 Skip to main menu
@@ -86,6 +86,16 @@ No.
 분류
 제목
 작성일
+204
+PIOLINK Launches Wi-Fi 7 Wireless AP for Reliable Connectivity in High-Density Indoor Environments - Supports up to 17.982Gbps, 2.4 times the performance of Wi-Fi 6
+- Deploys and runs as a standalone AP, with no separate controller required
+2026-11-11
+Press Releases
+203
+PIOLINK’s Q3 Operating Profit Jumps Fivefold to KRW 2.6 Billion - Q3 revenue of KRW 18.8 billion, up 28% year over year
+- Cumulative operating profit for the first nine months turns positive...Large-scale projects in the second half expected to lift Q4 results
+2026-11-11
+Press Releases
 202
 [Notice] Node.js Vulnerabilities (CVE-2026-111497 and 9 Others): Impact on PIOLINK Products
 2026-10-29
@@ -137,14 +147,6 @@ Press Releases
 190
 [2026 Spotlight: Security Leader] PIOLINK Focuses on Strengthening "Cyber Resilience"
 2026-01-01
-Press Releases
-189
-"In the AI Era, Perimeter-Based Security is Dead... The Scene Where 'Zero Trust' Becomes the Standard"
-2025-12-03
-Press Releases
-188
-PIOLINK Supplies 3,500 Security Switches and APs to Japan’s Largest Car-Life Store, AUTOBACS — Supporting DX in Automotive Maintenance Services
-2025-07-04
 Press Releases
 1 2 3 4 5 6 7 8 9 10
 Share this page

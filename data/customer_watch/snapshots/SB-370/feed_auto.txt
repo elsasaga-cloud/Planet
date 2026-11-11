@@ -1,4 +1,4 @@
-# SB-370 wildix.com · feed_auto · https://www.wildix.com/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-370 wildix.com · feed_auto · https://www.wildix.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Thu, 05 Nov 2026 18:54:18 +0000	Beyond Telephony: How Challenger Business Communications Turns AI‑Driven Communications into Business Advantage	https://www.wildix.com/challenger-business-communications-partner-story/
 Tue, 06 Oct 2026 10:55:56 +0000	Wildix Certified to ISO/IEC 27001, 27017 and 27018 Across Information Security, Cloud Security and Privacy	https://www.wildix.com/wildix-iso-27001-27017-27018-certification/
 Thu, 01 Oct 2026 15:07:03 +0000	Wildix Named an Innovator in the 2026 Frost Radar™ for Integrated Cloud Communications Platforms	https://www.wildix.com/wildix-frost-radar-innovator-integrated-cloud-communications/

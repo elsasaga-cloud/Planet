@@ -1,4 +1,4 @@
-# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Home Page SWL
 Login
 Email Address
@@ -192,20 +192,20 @@ Activor Wireless
 Inovonics Wireless
 Sherlotronics Wireless
 Featured Products
-07161
-Procell Intense Alkaline: AAA Batteries - Box of 24
-POA
-More Info
-31370
-Watchman AJ-K102: Relay Switch 6V-36V DC
-POA
-More Info
 47873
 Wi-Tek WI-IOTBOX01 V3: O/D Cabinet 300x 400x 206.5mm, Fan, Tamper, IP65, IK10
 POA
 More Info
-27405B
-Texecom AFU-0034 PIR Detector Bracket: Suits Wall or Ceiling Mounting BLACK
+27280
+Vanderbilt GM730 Seismic Detector: 8 -16 VDC, IP43
+POA
+More Info
+48460
+Wi-Tek WI-LTE113-O V2: 4G CAT6 Router, 1x 1000Mbps, RJ45, 24V PoE
+POA
+More Info
+57117
+Sebury STouch2 Keypad & Reader, Wiegand Output/ Input
 POA
 More Info
 Products

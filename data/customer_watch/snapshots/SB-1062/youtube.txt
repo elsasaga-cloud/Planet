@@ -1,5 +1,7 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-10T10:04:27Z · HTTP 200
-2026-10-06T12:03:27+00:00	Webinaire - Le parcours visiteur, de la réservation à l’expérience sur place	https://www.youtube.com/watch?v=3zkJutoknBc
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-11T09:37:04Z · HTTP 200
+2026-11-10T19:46:04+00:00	Odoo AI: From Ideas to Action	https://www.youtube.com/watch?v=CZIbHF2irYw
+2026-11-10T15:29:43+00:00	Webinar - From Kitchen to Delivery - Set up your Restaurant and Sell Online with Odoo 20	https://www.youtube.com/watch?v=4uUGPyymy6k
+2026-11-10T11:21:22+00:00	Webinaire - Le parcours visiteur, de la réservation à l’expérience sur place	https://www.youtube.com/watch?v=3zkJutoknBc
 2026-11-10T08:25:06+00:00	Webinaire Odoo 20 - Optimisez votre gestion des stocks grâce à l’IA	https://www.youtube.com/watch?v=lFbeBtvmrLw
 2026-11-09T15:30:16+00:00	Odoo Point of Sale: Local Network Access	https://www.youtube.com/watch?v=FwOAZlOo1hQ
 2026-11-09T00:11:37+00:00	Experience Odoo Light Users	https://www.youtube.com/watch?v=b5s8Nz70Gyg
@@ -12,5 +14,3 @@
 2026-11-04T16:12:04+00:00	Odoo 20 : Wat is er nieuw in Kassa (Retail)?	https://www.youtube.com/watch?v=c_JwWv63Hoo
 2026-11-04T08:44:18+00:00	Webinar - Reinvent Your Accounting Firm and Manage Your Client Portfolio with Odoo 20	https://www.youtube.com/watch?v=PAqBiRBhRcg
 2026-11-03T21:25:07+00:00	Odoo Market Anaylsis for the East Coast	https://www.youtube.com/watch?v=OdFGgXbsRSk
-2026-11-02T16:15:19+00:00	Odoo Quick Tips - Live chat preferences [General]	https://www.youtube.com/shorts/n2zpjO6VAxQ
-2026-11-02T13:03:23+00:00	Webinaire - RH 360° : du recrutement à la gestion quotidienne pour une boite internationale	https://www.youtube.com/watch?v=9lkmBkkOODg

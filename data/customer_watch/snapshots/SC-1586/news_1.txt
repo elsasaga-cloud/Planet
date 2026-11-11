@@ -1,4 +1,4 @@
-# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Giải pháp công nghệ
 Search:
 Tìm kiếm
@@ -182,7 +182,7 @@ Cổng SFP trên Switch Gigabit là gì?
 Cổng SFP được thiết kế để sử dụng với các đầu nối hệ số dạng nhỏ (SFP), mang lại tốc độ cao và độ gọn nhẹ. Nó cho phép chuyển mạch Gigabit và liên kết quang hoặc đồng bằng cách chèn module quang SFP tương ứng (SFP sợi quang hoặc SFP Ethernet). Bất kể liên kết cổng quang hay cổng Ethernet.
 So sánh giữa cáp quang ống lỏng và cáp quang đệm chặt
 28/10/2022
-271
+274
 Cáp quang ống lỏng và cáp quang đệm chặt đều có cùng sợi trần 250um và có lõi sợi cùng kích thước. Tuy nhiên, sự khác biệt của chúng nằm ở cấu tạo cáp, và mỗi loại lại được ứng dụng trong những trường hợp khác nhau. Ở bài viết này chúng ta cùng tìm hiểu xem những ứng dụng, ưu và nhược điểm của 2 loại cáp này.
 Tìm hiểu về sự suy hao sợi quang.
 28/10/2022
@@ -190,7 +190,7 @@ Tìm hiểu về sự suy hao sợi quang.
 Suy hao cáp quang là gì? Suy hao sợi quang cũng có thể được gọi là suy hao sợi quang hoặc suy hao tín hiệu, đo lượng ánh sáng bị mất giữa đầu vào và đầu ra. Các yếu tố gây ra suy hao sợi rất đa dạng, chẳng hạn như sự hấp thụ vật liệu bên trong, uốn cong, suy hao đầu nối, v.v.
 TÌM ĐẠI LÝ,NHÀ PHÂN PHỐI THIẾT BỊ QUANG
 16/09/2022
-105
+106
 Công Ty Thiên Tân Telecom nhà phân phối chính thức thiết bị quang thương hiệu GNETCOM/HOLINK độc quyền tại Việt Nam. Nay chúng tôi cần mở rộng quy mô thương hiệu trong nước và Quốc Tế nên cần tìm đại lý phân phối.
 Dải bước sóng sợi quang
 01/07/2022
@@ -198,7 +198,7 @@ Dải bước sóng sợi quang
 Nói chung, sợi quang thủy tinh dựa trên Silica có thể truyền bước sóng 250nm đến 2000nm. Nhưng truyền dẫn quang khoảng cách xa bị giới hạn trong các dải bước sóng cụ thể do suy hao hấp thụ và tán xạ.
 Fibre Loopbacks là gì?
 01/07/2022
-122
+125
 Cáp loopback sợi và các phích cắm loopback sợi được gọi là sợi quang. Họ có thể cung cấp một phương tiện đơn giản và hiệu quả để kiểm tra khả năng của thiết bị mạng quang của bạn. Thường được sử dụng cho các ứng dụng kiểm tra cáp quang hoặc phục hồi mạng. Đối với các ứng dụng thử nghiệm, tín hiệu lặp lại được sử dụng để chẩn đoán sự cố. Gửi thử nghiệm lặp lại tới thiết bị mạng, mỗi lần một, là một kỹ thuật để cô lập các sự cố.
 Tại sao chọn cáp quang cho cáp mạng?
 01/07/2022

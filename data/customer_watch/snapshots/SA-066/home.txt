@@ -1,4 +1,4 @@
-# SA-066 ccs-msk.ru · home · https://www.ccs-msk.ru/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SA-066 ccs-msk.ru · home · https://www.ccs-msk.ru/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 CCS - Lenovo, Microsens, Sumitomo, Tyco, Emcore, OCulink, FDR, CXP, HD mSAS, SFP, QSFP, кабели SAS II, кабели SAS III, кабели mSAS, кабели SAS, infiniband, direct attach cable, micro coaxial wire, SFP+/QSFP+, data center
 Ваше имя:
 Ваш контактный телефон:
@@ -43,11 +43,11 @@ FTTO против СКС
 Компания Lenovo анонсировала выпуск новой системы хранения данных ThinkSystem DM5100F
 Подробнее
 Специальные предложения
+10 портовый промышленный Gigabit Ethernet коммутатор, Profi Line, для Ж/Д и Энергетики (MS650869M-B)
+Подробнее
+Трансивер 100G QSFP28 SR4
+Подробнее
 Кабель 100G QSFP28 AOC - 100м
-Подробнее
-Кабель 100G QSFP28 AOC - 3м
-Подробнее
-Прямой(SFF-8087) на Угловые sata(SFF-8448)-0,5M ОПТ-$17
 Подробнее
 Полезно знать
 Немецкая компания MICROSENS GmbH & Co. KG - является мировым лидером в области проектирования, производства и маркетинга продуктов волоконно-оптического преобразования и передачи данных

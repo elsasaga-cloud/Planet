@@ -1,4 +1,4 @@
-# SC-1689 abovenet.com.br · feed_auto · https://abovenet.com.br/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1689 abovenet.com.br · feed_auto · https://abovenet.com.br/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Fri, 21 Aug 2026 18:06:17 +0000	BridgePTT: a evolução da comunicação para operações críticas	https://abovenet.com.br/blog-geral/bridgeptt-a-evolucao-da-comunicacao-para-operacoes-criticas/
 Mon, 15 Jun 2026 13:56:13 +0000	Monitoramento de Vibração Industrial: antecipando falhas e aumentando a confiabilidade dos ativos	https://abovenet.com.br/blog-geral/manutencao-preditiva-monitoramento-vibracao-industrial/
 Fri, 29 May 2026 14:09:11 +0000	Monitoramento Inteligente de Infraestrutura Hospitalar: da Telemetria à Operação Preditiva com o Bridgemeter	https://abovenet.com.br/blog-geral/bridgemeter-monitoramento-hospitalar/

@@ -1,4 +1,4 @@
-# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-11-11T09:37:04Z · HTTP 200
 2026-11-06T07:30:49+00:00	AI Racks Need Up to 36x More Fiber. Can Data Centers Keep Up?	https://www.youtube.com/watch?v=OckDdAP1WrU
 2026-11-04T06:15:44+00:00	HFCL OptiQ AI™: Optical Connectivity Built for AI Data Centers & Hyperscalers	https://www.youtube.com/watch?v=79SoVZRl55c
 2026-10-30T07:10:59+00:00	Why Is the Last Mile the Biggest Challenge in Fiber Connectivity?	https://www.youtube.com/watch?v=5WM7j9tcTtI

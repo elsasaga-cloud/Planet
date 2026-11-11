@@ -1,5 +1,5 @@
-# SB-761 getscw.com · sitemap · https://www.getscw.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
-2026-11-10T10:03:10.309Z	https://www.getscw.com
+# SB-761 getscw.com · sitemap · https://www.getscw.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+2026-11-11T09:43:44.357Z	https://www.getscw.com
 	https://www.getscw.com/4-port-5amp-power-box-ptc
 	https://www.getscw.com/dc-12v-5amp-power-adapter
 	https://www.getscw.com/dc-12v-1-amp-power-adapter

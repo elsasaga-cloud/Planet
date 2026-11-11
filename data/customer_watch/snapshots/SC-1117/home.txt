@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,43 +170,48 @@ Carrito
 Productos
 Noticias
 Ver todas
-Victor · 10h · Energía Solar
-El cerco aguanta. El ganado se queda adentro.
-El energizador para ganado YONUSA SYSGAN25KV2 entrega 10,000 V por pulso y ajusta la energía de 0.2 a 5.0 Joules: sirve igual para un corral chico que para un perímetro de 25 km sin vegetación. Alimentación universal 90-260 Vca o 12 Vcd desde panel solar, con cargador integrado para batería de hasta 80 Ah. Gabinete NEMA 2 retardante a la flama.
-Conoce el energizador para ganado SYSGAN25KV2
-Marvin · 12h · Lanzamiento
-Shelly: Equipos con señal Matter, Serie GEN3 y GEN4
-La GEN4 integra Matter, Zigbee, Wi-Fi y Bluetooth en el mismo módulo: se suma a Apple Home, Google Home, Alexa y SmartThings sin hub propietario. El SHELLY1GEN4 conmuta 16 A en 41x36x16 mm y el 1PM Mini Gen4 mide consumo en tiempo real. La GEN3 sigue disponible en Wi-Fi 2.4 y Bluetooth, con versiones Mini de 8 A y el controlador de 4 entradas.
-Descubre los 11 módulos Shelly GEN3 y GEN4 1
-Gregorio · 12h · Audio e Intercom
-Tu voz entra limpia. El ruido de la oficina se queda.
-La Yealink UH42 Mono lleva cancelación de ruido con IA en el micrófono, no en tus oídos: del otro lado escuchan tu voz, no el camión ni el microondas de la cocina. Altavoz de 35 mm con EQ dinámico, indicador de ocupado que se pone rojo al entrar a la junta y USB-C con adaptador USB-A: plug-and-play, certificada para Microsoft Teams. La familia UH42 incluye versiones Dual y SE.
-Conoce la UH42 Mono de Yealink
-Cesar · 13h · Redes
-¿Listo para ver todo el poder de UniFi trabajando en tiempo real?
-Ven a conocer en vivo el poder de UniFi Full Stack: una sola plataforma para Redes, Videovigilancia y Control de Acceso funcionando en tiempo real. Acompáñanos y descubre cómo llevar tus proyectos de integración al siguiente nivel:
-📍 San Luis Potosí: 24 de noviembre
-📍 Guadalajara: 26 de noviembre
-⏰ Horario: a.m. a p.m.
-Asiste en el horario que mejor te acomode. ¡Te esperamos!
-Conoce UniFi Full Stack en vivo 1
-Yohana · 13h · Videovigilancia
-No es una cámara con bocina: es una corneta de voceo que además vigila
-La DS-QACAM07G1-4LIZSU de Hikvision lleva trompeta acústica de 7 W y 115 dB SPL: 100 m de alcance en exterior, suficiente para cortar el ruido de una bodega o patio de maniobras. Suma lente varifocal motorizado de 2.8 a 12 mm —99° a 30.4° sin bajar de 4 MP—, Dual Light con 50 m de IR y 20 m de luz blanca que detona con la analítica, y 2 micrófonos con AEC y supresión de ruido.
-Conoce la cámara con corneta de voceo
-Leopoldo · 17h · Audio e Intercom
-El HDMI llega a 70 metros sin perder un frame
-El kit extensor TT672PRO de EPCOM Titanium lleva 4K a 60 Hz por Cat 6, 6a o 7 con IPColor: cero latencia, sin compresión. Suma salida Loop para monitoreo local, control IR bidireccional y PoC, así que el receptor no necesita fuente propia.
-Conoce el TT672PRO de EPCOM Titanium 2
-Nicolas · 18h · Videovigilancia
-El encuadre se ajusta desde el grabador, no desde la escalera
-La domo TurboHD DS-2CE5AH0T-AVPIT3ZF(C) de Hikvision lleva lente motorizado de 2.7 a 13.5 mm: abre de 95.7° a 29.1° con zoom óptico, sin desmontar la cámara. Suma 5 MP (2560x1944), IR EXIR de 40 m, cuerpo metálico IK10/IP67 y las 4 tecnologías TVI-AHD-CVI-CVBS.
-Conoce la domo con lente motorizado
-Luis · 18h · Control de Acceso
-Cuando la barrera deja de responder, no cambias la barrera: cambias la tarjeta
-El cuadro de mando 205400200 es el repuesto de las barreras Hikvision DS-TMG520 H/A/B y L. Cuatro salidas de relé, puertos RJ-45 y protección contra descargas eléctricas integrada. Reemplazo directo en campo, sin software ni reconfigurar el acceso.
-Revive tu barrera TMG520
-Daniel · 18h · Audio e Intercom
-El timbre de la cama ya no despierta a todo el piso
-La terminal NX1021 de Ibernex concentra en una pantalla táctil de 7 pulgadas la llamada del paciente, la presencia del personal y el control de la habitación. Corre sobre VoIP SIP con PoE 802.3af: un solo cable de red para datos y energía, sin fuente local.
-Suma lector RFID de 125 kHz para identificar a
+Marvin · 11h · Lanzamiento
+Akubela BAC006EZB: Control Inteligente de Climatización HVAC 4PIPE para Hoteles y Edificios:
+Un termostato para sistemas Fan Coil 4PIPE que controla calefacción y refrigeración de forma independiente. ZigBee 3.0, pantalla táctil, precisión de ±0.5 °C y memoria ante cortes de energía. Para hoteles, edificios corporativos y desarrollos residenciales.
+Conoce el BAC006EZB de Akubela
+IS
+Ingeniería · 12h · Videovigilancia
+¿Qué es la NDAA y qué significa “NDAA compliant”?
+La NDAA es una ley de Estados Unidos que limita lo que compra su gobierno. No es ley mexicana ni un sello de seguridad. Te explicamos qué dice la Sección 889, con la ley original.
+Lee la guía
+Susana · 13h · Redes
+Certificación en redes de datos: del medio físico al modelo OSI, en dos días
+El 24 y 25 de noviembre, en la Sucursal Norte de CDMX, el curso EXPERTREDESDATOSINT cubre las capas 1 a 4 del modelo OSI: medios de transmisión, direccionamiento y cómo interconectar la LAN a internet. Presencial, de a , con 20 lugares.
+Reserva tu lugar en el curso de redes
+Susana · 13h · Redes
+El firewall no se configura solo: políticas que de verdad defienden la red
+El 26 y 27 de noviembre, en la Sucursal Norte de CDMX, el curso EXPERTNETHW trabaja la configuración de políticas de seguridad a nivel de red con firewall Huawei para mitigar y prevenir amenazas. Presencial, de a , con 20 lugares.
+Asegura tu lugar en el curso de firewall Huawei
+Mario · 13h · Alarmas e Intrusión
+El viernes 13 de noviembre, de 09: 00 a , la Sucursal Norte de CDMX abre un taller gratuito de INIM Electronics: especificación, instalación, programación y operación de sistemas contra incendio. 32 lugares.
+Regístrate al taller INIM en CDMX
+Nicolas · 13h · Videovigilancia
+4K en un turret: el detalle que una bala de 2 MP no alcanza
+La DS-2CD1383G2-LIU(F) de Hikvision sube a 8 MP (4K) con lente de 2.8 mm: en un estacionamiento se distinguen placas y rostros donde una cámara de 2 MP solo deja siluetas. Su Dual Light combina 30 m de IR y 30 m de luz blanca, con micrófono integrado, AcuSense Lite para separar personas de vehículos, H.265, IP67 y PoE.
+Conoce la turret 4K de Hikvision
+Jose · 15h · Alarmas e Intrusión
+Montar una central de monitoreo no debería empezar por comprar piezas sueltas.
+El KITSTPLUSM42 de MCDI junta la receptora IP EXTRIUMM42 —2000 cuentas en base interna, Linux, recepción TCP/IP de eventos M2M y ALULA— con la suscripción anual de SecuriThor para 200 cuentas monitoreadas. Un solo SKU para arrancar o renovar la central.
+Arranca tu central de monitoreo con un solo SKU
+Bryan · 16h · Data Center
+Más ventiladores ya no resuelven la densidad por rack.
+Con cargas de IA y HPC el consumo crece más rápido que la carga útil, y el sistema compensa subiendo las revoluciones de los ventiladores.
+La salida no es más aire: es elegir entre enfriamiento tradicional, en fila o liquid cooling según la densidad proyectada, no la instalada.
+Publicamos una guía con los cuatro criterios para definir esa estrategia y los equipos Hoffman que la soportan.
+Descubre la guía de estrategia térmica
+Fernando · 16h · Redes
+Menos visitas al sitio
+Cada viaje a revisar una fuente quemada se paga solo con el traslado. El WI-PCMS310GF-O V2 se administra en la nube: si un puerto se cae o el equipo se reinicia, te enteras por notificación, no por la llamada del cliente. 8 puertos Gigabit PoE, 110 W de presupuesto y L2+ con ERPS, en un solo gabinete de exterior que va al muro sin fuente aparte.
+Administra tu red exterior en la nube
+Leopoldo · 18h · Audio e Intercom
+El proyector está a 10 metros del rack. El HDMI pasivo ya no llega.
+El CA-HM-35 de Kramer es activo: 4K a 60 Hz (4:4:4) y 18 Gbps en 10.7 m sin repetidor externo, porque toma la energía del propio puerto HDMI. Conector K-Lock con 15 lbs de retención, triple blindaje y certificación UL CL3/FT4 para tendido dentro de pared.
+Conoce el CA-HM-35 de Kramer
+Eventos
+Ver todos
+En vivo 1 En línea 23 Presencial 94 Ciudad de México 21 Ch

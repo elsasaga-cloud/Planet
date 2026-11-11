@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -239,12 +239,10 @@ Newsletter
 BIBLIOTECA
 Tutoriais em vídeo
 Cursos
-INFO
+CONTACTO
+Info da Empresa
 ÚLTIMAS
-Feiras
-EMPRESA
-REDE VENDAS
-Cursos
+Informação Empresa
 Nic nie znaleziono
 0
 Carrinho
@@ -457,10 +455,9 @@ Newsletter
 BIBLIOTECA
 Tutoriais em vídeo
 Cursos
-EMPRESA
 Info da Empresa
 ÚLTIMAS
-Feiras
+Informação Empresa
 Cursos
 Log in
 Inscrever-se | Sou Empresa Profissional
@@ -471,21 +468,6 @@ Descobrir mais
 Produtos recomendados
 Novos Produtos Novos itens
 Promoção Promoção
-Código: M29119
-Visualização
-Monitor Hikvision DS-D5022F2-1P2 (21,45", 16:7, IPS, FHD, HDMI, VGA, Áudio)
-€242.13
-Preço mais baixo anterior: €242.13
-€230.02
-€187.01 s/IVA
-Código: K22055
-Ao carrinho
-Visualização
-Hikvision DS-7608NI-Q1(E) IP NVR (8 canais, 80 Mb/s, 1 x SATA, VGA, HDMI, H. 265)
-€283.50
-Preço mais baixo anterior: €283.50
-€277.83
-€225.88 s/IVA
 Código: Q471520B
 Ao carrinho
 Visualização
@@ -500,12 +482,6 @@ Visualização
 Switch PoE Atte IP-5-11-M2 (5xPoE, 1xUplink, 802.3af/at, PASSIVO, 96W, IP56)
 €198.20
 €161.14 s/IVA
-Código: K01570
-Ao carrinho
-Visualização
-Câmara panorâmica IP Hikvision DS-2CD2387G3P-LIS2UY/SL (180°) ColourVu para montagem no teto (8 Mpix, 2,8 mm, 0,0005 lx, iluminação híbrida até 30 m)
-€882.45
-€717.44 s/IVA
 Código: Q0658
 Ao carrinho
 Visualização
@@ -522,86 +498,88 @@ Câmara IP PTZ Dahua SD3D416NB-GNY (4 Mpix, 5–80 mm, zoom ótico de 16x, IV de
 Preço mais baixo anterior: €495.55
 €556.40
 €452.36 s/IVA
-Código: K00919
+Código: J22110
 Ao carrinho
 Visualização
-Câmara dome IP Hikvision DS-2CD2146G3-IPTRZS2UY (4 MP, 2,8/4 mm, 0,001 lx, IR até 30 m, Áudio, AcuSense 3.0, PTRZ)
-€592.05
-Preço mais baixo anterior: €537.61
-€580.20
-€471.71 s/IVA
-Código: K03938
-Ao carrinho
+Conector Cat 6A (chave de reparação dupla) MP0041 Logilink
+€5.57
+€4.53 s/IVA
+Código: E84181
 Visualização
-Câmara panorâmica tubular IP ColorVu Hikvision DS-2CD2T87G3P-LIS2UY/SL (180°) (8 Mpix, 2,8 mm, 0,0005 lx, iluminação híbrida até 40 m)
-€1096.99
-€891.86 s/IVA
+Conector SMA até 6 GHz para Tri-Lan 240/H-155 /angulado/
+€5.68
+€4.62 s/IVA
 Ver todos
-Código: L54024
+Código: E93170
 Ao carrinho
 Visualização
-Caixa de Distribuição de Fibra Ótica: GP62DW-3 (24 emendas, 6 adaptadores SC duplex)
-€23.23
+Suporte Parede: Signal LPA49-466, ajustável e rotativo (37"-90")
+€61.71
+Preço mais baixo anterior: €61.71
+€59.24
+€48.16 s/IVA
+Código: L1410
+Ao carrinho
+Visualização
+SFP Transceiver: ULTIMODE SFP-023M 2xLC (duas fibras multimodo de até 2 km)
+€8.71
+Preço mais baixo anterior: €8.71
+€8.28
+€6.73 s/IVA
+Código: L1411
+Ao carrinho
+Visualização
+SFP Transceiver: ULTIMODE SFP-203M (duas fibras monomodo até 20 km)
+€8.71
+Preço mais baixo anterior: €8.71
+€8.28
+€6.73 s/IVA
+Código: L5124
+Ao carrinho
+Visualização
+Caixa de Fibra Óptica: ULTIMODE MT-524 (19", 1U, bandeja para 24 emendas)
+€51.55
+Preço mais baixo anterior: €51.55
+€48.97
+€39.81 s/IVA
+Código: L5310
+Ao carrinho
+Visualização
+Caixa de Distribuição de Fibra Ótica MINI ODF-DIN 2xSC Duplex
+€18.88
+Preço mais baixo anterior: €18.50
+€18.50
+€15.04 s/IVA
+Código: L5406
+Ao carrinho
+Visualização
+Quadro de Distribuição de Fibra Óptica: P-PSP-G19-1U-6-SC (prateleira lateral)
+€57.35
+Preço mais baixo anterior: €57.35
+€55.05
+€44.76 s/IVA
+Código: M18967
+Ao carrinho
+Visualização
+Switch PoE (extensor) Etrix E0-12 (1 x WE PoE 802.3at/Passivo, 2 x WY PoE 802.3at, 10/100Mbps)
+€17.79
+Preço mais baixo anterior: €16.70
+€16.90
+€13.74 s/IVA
+Código: M18968
+Ao carrinho
+Visualização
+Switch PoE (extensor) Etrix E0-14 (1 x WE PoE 802.3at, 4 x WY PoE 802.3at, 10/100Mbps)
+€24.69
 Preço mais baixo anterior: €23.23
-€22.08
-€17.95 s/IVA
-Código: L56036
-Ao carrinho
-Visualização
-Caixa Junção Fibra Óptica: GPJ09-9401 (36 emendas, 2 entradas, 2 saídas)
-€46.10
-Preço mais baixo anterior: €46.10
-€43.80
-€35.61 s/IVA
-Código: L5810
-Ao carrinho
-Visualização
-Medidor de Potência Ótica (VFL, LED, testador RJ45) ULTIMODE OPM-20T-V01
-€57.71
-Preço mais baixo anterior: €43.28
-€40.39
-€32.84 s/IVA
-Código: L5939
-Ao carrinho
-Visualização
-Localizador Visual de Falhas VFL (LED, testador RJ45) ULTIMODE VFL-V3-15
-€29.40
-Preço mais baixo anterior: €22.05
-€20.58
-€16.73 s/IVA
-Código: N29984
-Ao carrinho
-Visualização
-Switch PoE: ULTIPOWER 0154afat (5xRJ45, incl. 4xPoE 802.3af/at, 1xSFP)
-€108.90
-Preço mais baixo anterior: €108.90
-€103.46
-€84.11 s/IVA
-Código: N299851
-Ao carrinho
-Visualização
-Switch PoE: ULTIPOWER PRO0208afat (120W, 10xRJ45, 8xPoE 802.3af/at, PoE Auto Check)
-€108.90
-Preço mais baixo anterior: €108.90
-€103.46
-€84.11 s/IVA
-Código: R10206
-Ao carrinho
-Visualização
-Medidor de Sinal DVB-T/T2 (HEVC 10 bits)/C/J.83B/ISDB-T e DVB-S/S2 AS07STCA-4K com analisador de espectro e certificado de calibração
-€1851.30
-Preço mais baixo anterior: €1481.04
-€1388.47
-€1128.84 s/IVA
-Código: R86702
-Ao carrinho
-Visualização
-Modulador ST-7992 2xHDMI – 2×COFDM (DVB-T)/2×QAM (DVB-C) – canal duplo
-€504.57
-Preço mais baixo anterior: €504.57
-€479.34
-€389.71 s/IVA
+€23.46
+€19.07 s/IVA
 Ver todos
 Na última Revisão Semanal
 EgoExplorer regista 100 horas de movimentos humanos com o objetivo de treinar robôs humanoides.
-Investigadores do Laboratório de IA de Xangai, da Universidade de Zhejiang e da Universidade Jiao Tong de Xangai desenvolvera
+Investigadores do Laboratório de IA de Xangai, da Universidade de Zhejiang e da Universidade Jiao Tong de Xangai desenvolveram o conjunto de dados EgoExplorer, composto por 100 horas de atividade humana gravadas através de um sistema wearable especializado. Os dados recolhidos combinam filmagens na primeira pessoa com dados sobre movimentos de todo o corpo, movimentos dos dedos e contacto com objetos. O objetivo do projeto é melhorar o treino de robôs humanoides, que no futuro poderão realizar ...
+Continuar a ler
+Instalação óptica SMATV – Signal PROfessional.
+Abaixo, algumas fotos de uma instalação realizada pela Pro-instal Instalações de Telecomunicações, Michał Lipka de Legionowo. A instalação consiste na extensão do sistema SMATV existente para cobrir outros blocos de um edifício residencial multifamiliar. Devido ao maior comprimento dos cabos, optou-se por construir uma rede backbone com múltiplos switches baseada em fi...
+Continuar a ler
+Um leitor adi

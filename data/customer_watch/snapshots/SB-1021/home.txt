@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,9 +40,9 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2740)
-Wszystkie 2740
-Switche 1017
+Urządzenia (2741)
+Wszystkie 2741
+Switche 1018
 Access Pointy 187
 Routery WiFi 391
 Routery zaawansowane 108
@@ -223,8 +223,6 @@ Czytniki dostępu 2
 Wideodomofony i interkomy IP 8
 Instalacje elektryczne (11)
 Wszystkie 11
-Produkty ergonomiczne (15)
-Wszystkie 15
 Akcesoria IT (1877)
 Wszystkie 1877
 Stacje dokujące do dysków 6
@@ -244,8 +242,9 @@ Kable USB 646
 Huby USB 129
 Narzędzia i akcesoria (66)
 Wszystkie 66
-Komputer i biuro (107)
-Wszystkie 107
+Komputer i biuro (15)
+Wszystkie 15
+Produkty ergonomiczne 15
 Komputery, serwery i storage (248)
 Wszystkie 248
 Komputery 1
@@ -279,6 +278,9 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+Switch Lanberg RSGE-24P-2GE-2S-360 – 24-portowy PoE+ 360 W
+618.81 zł netto
+Do koszyka
 MEAN WELL HLG-600H-24B – zasilacz LED 24 V 600 W z funkcją ściemniania
 808.33 zł netto
 Do koszyka
@@ -299,9 +301,6 @@ Kamera IP tubowa Hikvision DS-2CD2T43G2-4LI(2.8mm) 4 Mpx
 Do koszyka
 Kamera IP tubowa Hikvision DS-2CD2T43G2-2LI(4mm) 4 Mpx
 714.52 zł netto
-Do koszyka
-Kamera IP tubowa Hikvision DS-2CD2T43G2-2LI(2.8mm) 4 Mpx
-750.37 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

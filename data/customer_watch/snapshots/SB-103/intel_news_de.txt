@@ -1,7 +1,2 @@
-# SB-103 Grundig · intel_news_de · https://news.google.com/rss/search?q=%22Abetechs%22&hl=de&gl=DE&ceid=DE:de · fetched 2026-11-10T10:04:27Z · HTTP 503
-Sorry... G o o g l e
-Sorry...
-We're sorry...
-... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
-See Google Help for more information.
-Google Home
+# SB-103 Grundig · intel_news_de · https://news.google.com/rss/search?q=%22Abetechs%22&hl=de&gl=DE&ceid=DE:de · fetched 2026-11-11T09:37:04Z · HTTP 200
+

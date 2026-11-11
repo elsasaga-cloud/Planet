@@ -1,10 +1,9 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
 Doprava
 Reklamace
-Kariéra
 EN
 CZ
 USD
@@ -42,45 +41,39 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Hikvision IP mini dome hybrid kamera DS-2CD2583G2-LIS2U(2.8mm), 8Mpx, 2.8mm, AcuSense
-Hikvision IP bullet kamera DS-2CD2T43G2-2LI(2.8mm), 4Mpx, 2.8mm, 60m LED/IR, AcuSense
-Triton plastový pant pro stojanové a nástěnné 19" rozvaděče
-76 Kč bez DPH
-92 Kč s DPH
-Triton zámek do klik stojanových rozvaděčů
-143 Kč bez DPH
-173 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 10 pack
-578 Kč bez DPH
-700 Kč s DPH
-MEAN WELL DDR-60L-5 Step-down měnič napětí DC/DC, 60W
-1 055 Kč bez DPH
-1 276 Kč s DPH
-RF elements SH30WB-GO, Symetrická sektorová Horn anténa s TwistPortem, 5/6GHz, 18dBi, 30°
-3 048 Kč bez DPH
-3 688 Kč s DPH
-TP-Link Sector Bridge 5 Omada Bezdrátová jednotka, 5 GHz
-4 137 Kč bez DPH
-5 006 Kč s DPH
-TP-Link Tapo T150 Smart senzor lidské přítomnosti
-977 Kč bez DPH
-1 183 Kč s DPH
-Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý
-112 Kč bez DPH
-136 Kč s DPH
-Ubiquiti UniFi patch kabel, 8m, Cat5e, modrý
-215 Kč bez DPH
-260 Kč s DPH
-MikroTik 1/10/25G SFP/SFP+/SFP28 optický modul XS+31LC20D, SM, 20km, 1310nm
-2 419 Kč bez DPH
-2 927 Kč s DPH
-SanDisk Micro SDXC Ultra GO 512GB
-3 166 Kč bez DPH
-3 831 Kč s DPH
-Hikvision IP dome hybrid kamera DS-2CD2183G2-LIS2U(2.8mm), 8Mpx, 2.8mm, AcuSense
-Triton 19" stojanový rack 42U/600x900 prosklené dveře, šedý
-13 880 Kč bez DPH
-16 795 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2183G2-LIS2U(2.8mm)(BLACK), 8Mpx, 2.8mm, AcuSense, Černá
+Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 1m, 50 pack
+2 601 Kč bez DPH
+3 147 Kč s DPH
+DEYE Solární ponorné čerpadlo 3000W s regulátorem DY-B3600AC/DC
+8 444 Kč bez DPH
+10 217 Kč s DPH
+Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý, 24 pack
+2 225 Kč bez DPH
+2 692 Kč s DPH
+SanDisk Micro SDHC Extreme PLUS 32GB + SD adaptér
+573 Kč bez DPH
+694 Kč s DPH
+Hikvision IP dome kamera DS-2CD1147G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
+Hikvision IP bullet kamera DS-2CD1T47G3-LIU(2.8mm), 4Mpx, 2.8mm, ColorVu 3.0
+Triton zaslepovací panel s perforací, 1U, 19", plastová montážní sada, šedý
+158 Kč bez DPH
+191 Kč s DPH
+TP-Link EAP727 Omada Wi-Fi 7 Access Point
+4 029 Kč bez DPH
+4 875 Kč s DPH
+Triton 19" stojanový rack 37U/800x900 prosklené dveře, šedý
+15 270 Kč bez DPH
+18 477 Kč s DPH
+Ubiquiti UniFi patch kabel, 3m, Cat5e, černý, 10 pack
+1 260 Kč bez DPH
+1 525 Kč s DPH
+Hikvision úchyty do 19" racku pro NVR/DVR s šířkou 380mm pro řady DS-72xx/76xx
+Hikvision IP turret kamera DS-2CD2387G3-LI2UY(2.8mm), 8Mpx, 2.8mm, ColorVu 3.0
+Ubiquiti UniFi patch kabel, 12m, Cat5e, modrý
+397 Kč bez DPH
+480 Kč s DPH
+Hikvision IP bullet kamera DS-2CD1067G3-LIU(2.8mm), 6Mpx, 2.8mm, ColorVu 3.0
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026
@@ -141,7 +134,6 @@ IČ: 10964703
 DIČ: CZ10964703
 O společnosti O nás
 Kontakty
-Kariéra
 O nákupu Doprava a platba
 Reklamace a vrácení zboží
 Obchodní podmínky

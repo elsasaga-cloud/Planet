@@ -1,11 +1,11 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
@@ -31,8 +31,8 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
@@ -109,9 +109,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-Crimping Tools
 RJ45 Connectors
 RJ45 Boots
+Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -216,8 +216,8 @@ Range Extenders 3 products
 Sirens 3 products
 Relays & Accessories 2 products
 Shop All AJAX Products
-Axxe Cables 4 products
 Axxe Dash Cameras 3 products
+Axxe Cables 4 products
 Shop All Axxe Products
 Cudy Access Points 2 products
 Cudy WiFi Routers 8 products
@@ -275,10 +275,10 @@ Reolink NVR 7 products
 Reolink Accessories 12 products
 Shop All Reolink Products
 Ruijie Reyee Home Routers (EW Series) 7 products
-Ruijie Reyee Gateway Routers (EG Series) 8 products
+Ruijie Reyee Gateway Routers (EG Series) 9 products
 Ruijie Reyee Access Points (RAP Series) 18 products
 Ruijie Reyee Range Extenders & Mesh Units 1 products
-Ruijie Reyee Switches 29 products
+Ruijie Reyee Switches 32 products
 Ruijie Reyee Firewalls 6 products
 Ruijie Reyee Wireless Bridges (EST Series) 5 products
 Ruijie Reyee Wireless Bridges (AirMetro) 6 products
@@ -303,9 +303,9 @@ Ubiquiti UISP Fibre 11 products
 Ubiquiti PoE injectors 6 products
 Ubiquiti Accessories 1 products
 Shop All Ubiquiti Products
+Screwdrivers & Tool Sets 7 products
 Ratchet Sets 3 products
 Miscellaneous Tools 2 products
-Screwdrivers & Tool Sets 7 products
 Shop All UF-Tools Products
 UltraLAN Antennas 5 products
 UltraLAN Brackets 9 products
@@ -395,9 +395,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-Crimping Tools
 RJ45 Connectors
 RJ45 Boots
+Crimping Tools
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All

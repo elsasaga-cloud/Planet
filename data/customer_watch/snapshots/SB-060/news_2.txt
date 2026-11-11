@@ -1,3 +1,3 @@
-# SB-060 bargas.ru · news_2 · https://www.bargas.ru/blog?from=bot · fetched 2026-11-10T10:04:27Z · HTTP 200
-KillBot user verification [20.169.99.56] [Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 SagaWatch/1.0]...
-shop blog contacts
+# SB-060 bargas.ru · news_2 · https://www.bargas.ru/blog?from=bot · fetched 2026-11-11T09:37:04Z · HTTP 200
+KillBot user verification [145.132.102.98] [Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36 SagaWatch/1.0]...
+login blog search shop faq products contacts

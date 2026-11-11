@@ -1,4 +1,4 @@
-# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 2026-11-05T07:26:16.792Z	https://www.lastmile.no
 2026-03-27T09:20:21.035Z	https://www.lastmile.no/search
 2026-10-29T12:38:20.467Z	https://www.lastmile.no/kompetanse
@@ -33,7 +33,7 @@
 2026-04-03T10:52:41.582Z	https://www.lastmile.no/kompetanse/energiteknikk/isolasjonsovervakning
 2026-06-19T06:57:13.718Z	https://www.lastmile.no/om-oss/samfunnsansvar
 2026-04-01T16:52:37.468Z	https://www.lastmile.no/om-oss/zero-trust
-2026-10-16T07:58:55.972Z	https://www.lastmile.no/om-oss/medarbeidere
+2026-11-11T09:03:21.338Z	https://www.lastmile.no/om-oss/medarbeidere
 2026-04-02T16:52:08.209Z	https://www.lastmile.no/losninger/energi
 2026-03-27T14:06:05.416Z	https://www.lastmile.no/losninger/havbruk
 2026-10-29T11:10:17.004Z	https://www.lastmile.no/losninger/olje-og-offshore
@@ -105,11 +105,11 @@
 2026-10-29T10:49:58.599Z	https://www.lastmile.no/losninger/vannogavlop/otcybersikkerhetva
 2026-10-29T09:49:47.529Z	https://www.lastmile.no/losninger/vannogavlop
 2026-10-29T11:04:07.272Z	https://www.lastmile.no/losninger/industri-og-produksjon
-2026-04-03T08:16:28.054Z	https://www.lastmile.no/losninger/industri-og-produksjon/tilstandsovervaking-av-roterende-utstyr
-2026-03-27T09:38:05.248Z	https://www.lastmile.no/losninger/industri-og-produksjon/energi-og-forbruksmaling
-2026-03-27T09:38:25.709Z	https://www.lastmile.no/losninger/industri-og-produksjon/miljoovervaking-for-kritisk-elektronikk
-2026-03-27T09:38:50.825Z	https://www.lastmile.no/losninger/industri-og-produksjon/ventilposisjon-og-aktuatorstatus
-2026-03-27T09:39:24.839Z	https://www.lastmile.no/losninger/industri-og-produksjon/dampfelle-overvaking-steam-trap-monitoring
-2026-03-27T09:39:53.172Z	https://www.lastmile.no/losninger/industri-og-produksjon/digitalisering-av-eksisterende-maleinstrumentering
-2026-03-27T09:40:23.401Z	https://www.lastmile.no/losninger/industri-og-produksjon/cui-deteksjon-og-korrosjonsovervaking
-2026-03-27T09:40:49.401Z	https://www.lastmile.no/losninger/industri-og-produksjon/oljelekkasje-deteksjon
+2026-11-11T09:17:24.251Z	https://www.lastmile.no/losninger/industri-og-produksjon/tilstandsovervaking-av-roterende-utstyr
+2026-11-11T09:17:56.643Z	https://www.lastmile.no/losninger/industri-og-produksjon/energi-og-forbruksmaling
+2026-11-11T09:18:18.037Z	https://www.lastmile.no/losninger/industri-og-produksjon/miljoovervaking-for-kritisk-elektronikk
+2026-11-11T09:18:28.928Z	https://www.lastmile.no/losninger/industri-og-produksjon/ventilposisjon-og-aktuatorstatus
+2026-11-11T09:18:51.526Z	https://www.lastmile.no/losninger/industri-og-produksjon/dampfelle-overvaking-steam-trap-monitoring
+2026-11-11T09:19:12.190Z	https://www.lastmile.no/losninger/industri-og-produksjon/digitalisering-av-eksisterende-maleinstrumentering
+2026-11-11T09:19:23.011Z	https://www.lastmile.no/losninger/industri-og-produksjon/cui-deteksjon-og-korrosjonsovervaking
+2026-11-11T09:19:33.762Z	https://www.lastmile.no/losninger/industri-og-produksjon/oljelekkasje-deteksjon

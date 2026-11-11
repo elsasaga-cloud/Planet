@@ -1,7 +1,5 @@
-# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
-Infrastructure decisions start here - Vespertec
-Skip to content
-Skip to main content
+# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+Infrastructure decisions start here - Vespertec Skip to content Skip to main content
 Products
 Services
 NVIDIA
@@ -19,8 +17,7 @@ info@vespertec.com
 +44 (0)161 947 4321
 LinkedIn
 Contact
-Back
-Products
+Back Products
 AI & HPC
 Compute (Server)
 Storage
@@ -30,8 +27,7 @@ OCP
 Feature
 Vespertec crowned NVIDIA Northern European Star Performer 2025
 Find out more
-Back
-Services
+Back Services
 Pre-Sales Consultation
 Config Centre & Labs
 Global Logistics
@@ -127,7 +123,7 @@ info@vespertec.com
 LinkedIn
 Stay Updated
 Subscribe to our newsletter for the latest updates and insights.
-Email
+X/Twitter
 This field is for validation purposes and should be left unchanged.
 Email Address (Required)
 Subscribe

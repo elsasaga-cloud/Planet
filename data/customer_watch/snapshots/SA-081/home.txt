@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,38 +146,41 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Bussole
-Adattatore per bussola LC duplex per supporto RJ45 | 4Net
+Muffole e Vassoi
+Muffola orizzontale 48 FO 4Net | CO048XXOM
 Esegui l'accesso per visualizzare i prezzi
 +
+Bretelle Multimodali Zip Duplex 62,5/125 OM1
+Bretella Fibra OM1 LC-SC 1m | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Chassis Mount
+PLANET FST-801: media converter 10/100BASE-TX a 100BASE-FX ST
+Esegui l'accesso per visualizzare i prezzi
++
+Esaurito
 Loose Dielettrico LSZH OM2
-4 F.O. 50/125 Loose Dielettrico Interno/Esterno
+Cavo fibra ottica 12 FO 50/125 OM2 Loose Dielettrico Interno/Esterno | 4Net CF50CL12LSM2
 Esegui l'accesso per visualizzare i prezzi
 +
-Adattatori per inserti RJ45
-Adattattore Per Frutto Serie Arkè Bianco
+Bretelle Monomodali Zip Duplex 9/125 OS2
+Bretella Fibra OS2 ST-SC 3m | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Passacavi, Pannelli ciechi e Barra di alimentazione
-Accoppiatore per Armadio a Pavimento RAL 9004 | 4Net
+Unmanaged
+4Net 4N-G24P4T4FC: switch PoE+ Gigabit 24 porte, 4 combo T/SFP, 450 W
 Esegui l'accesso per visualizzare i prezzi
 +
-L3
-Planet IGS-6325-20S4C4X: Switch Managed L3 20-Porte 100/1000X Sfp + 4-Porte Gigabit Tp/Sfp + 4-Porte 10G Sfp+ (-40 A 75°C)
+Dadi e Serrature
+Serratura per Pannello Posteriore per Armadio a Pavimento
 Esegui l'accesso per visualizzare i prezzi
 +
-L3
-Planet SGS-6310-24P4X: Switch Managed L3 Stackable con 24 Porte 10/100/1000T PoE+ e 4 Porte 10G SFP+
-Esegui l'accesso per visualizzare i prezzi
-+
-Consumabili Fibra Ottica
-Dispenser 4 oz per alcool isopropilico 4Net | 92072
-Esegui l'accesso per visualizzare i prezzi
-+
-Bussole
-Bussola SC simplex multimodale OM4 | 4Net
+Bretelle Multimodali Zip Duplex 50/125 OM2
+Bretella Fibra OM2 LC-LC 5m | 4Net
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
+Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta
+Metodo pratico per scegliere potenza e autonomia di un gruppo di continuità UPS in base [...]
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta
 Un armadio rack installato in una sala server climatizzata e un cabinet destinato a un [...]
 Cat.8: il nuovo standard di cablaggio
@@ -191,8 +194,6 @@ Fibra Ottica: 4POWER presenta gli strumenti 4NET per test e misure professionali
 Nuovi Cavi Fibra Ottica 4Net CPR Cca s1a,d0,a1 | Prestazioni e Sicurezza
 L’evoluzione normativa in materia di sicurezza antincendio negli edifici impone standard sempre più rigorosi per [...]
 PLANET IGS-514PT: Switch PoE+ Industriale Compatto – Distribuito da 4Power
-[...]
-DOMO 400: Il Miglior UPS Miniaturizzato per Domotica e Building Automation
 [...]
 Ultime Novità
 +

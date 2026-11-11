@@ -1,4 +1,4 @@
-# SB-219 sieraelectronics.com · feed_auto · https://sieraelectronics.com/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-219 sieraelectronics.com · feed_auto · https://sieraelectronics.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Tue, 28 Oct 2025 13:07:07 +0000	Atualização do serviço “Nuvem 1” iSMS 5.0	https://sieraelectronics.com/atualizacao-do-servico-nuvem-1-para-isms-5-0/
 Tue, 28 Oct 2025 13:02:24 +0000	Important Notice · Service update	https://sieraelectronics.com/important-notice-service-update/
 Tue, 28 Oct 2025 12:43:15 +0000	Actualización del servicio “Nube 1” iSMS 5.0	https://sieraelectronics.com/actualizacion-del-servicio-nube-1-para-isms-5-0/

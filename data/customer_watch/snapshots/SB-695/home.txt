@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,56 +429,14 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
-R$ 725,82
+MDR-100 Fonte CA/CC 100W PFC com Montagem em Trilho DIN MeanWell
+R$ 344,43
 R$
-704 , 05
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRS-350 - Fonte CA/CC até 350,4W, 8 saídas de 3,3 a 48Vcc Mean Well
-A partir de
-R$ 348,13
-R$
-337 , 69
+334 , 10
 à vista
 com desconto Pix - Vindi
 Ver opções
-Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 8 Portas SFP - LRI-SW-16G8S1C
-R$ 3.540,00
-R$
-3.433 , 80
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
-R$ 990,00
-R$
-960 , 30
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Lançamentos
-Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
-R$ 990,00
-R$
-960 , 30
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-MODBUS CO2 e Sensor de Pressão TSM400-4-CP
-Sob consulta
-Saiba mais
-Pedir cotação
-Sensor de Temperatura e Umidade IP54 TSH331
-Sob consulta
-Saiba mais
-Pedir cotação
-LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
+Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
 R$ 549,00
 R$
 532 , 53
@@ -486,17 +444,54 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
+Inversor CC/CA 1000W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-1K-127-V3
+R$ 1.682,95
+R$
+1.632 , 46
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+-50%
+LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
+R$ 255,00
+R$ 127,50
+R$
+123 , 68
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Lançamentos
+Módulo de Monitoramento IP Watchdog TCW122B-WD
+R$ 1.348,47
+R$
+1.308 , 02
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Sensor de Umidade e Temperatura TSH300v3 Modbus RTU RS-485
+R$ 875,73
+R$
+849 , 46
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Temperatura e Umidade Data Logger TCW210-TH
+R$ 1.813,25
+R$
+1.758 , 85
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+1-Wire Sensor de Temperatura TST100S
+Sob consulta
+Saiba mais
+Pedir cotação
 Depoimentos
-Nome: Djalma Filho
-Avaliação: Positivo
-Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
-Comentado em: 09/01/2024
-LRI Automação Industrial
-Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
-Written by: Djalma Filho
-LRI Automação Industrial
-1 / 1 stars
-1255
 Nome: Manoel
 Avaliação: Positivo
 Depoimento: Atendimento/entrega rápida e eficiente
@@ -507,6 +502,16 @@ Written by: Manoel
 LRI Automação Industrial
 1 / 1 stars
 1200
+Nome: Djalma Filho
+Avaliação: Positivo
+Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
+Comentado em: 09/01/2024
+LRI Automação Industrial
+Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
+Written by: Djalma Filho
+LRI Automação Industrial
+1 / 1 stars
+1255
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -548,5 +553,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.772 secs - 10-11-2026  - node: commerce-web2-tiny-lw - store
+Load time: 0.494 secs - 11-11-2026  - node: commerce-web4-bot-lw - store
 ×

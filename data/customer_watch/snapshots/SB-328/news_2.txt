@@ -1,4 +1,4 @@
-# SB-328 advice.co.il · news_2 · https://advice.co.il/blogs/ups-articles · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-328 advice.co.il · news_2 · https://advice.co.il/blogs/ups-articles · fetched 2026-11-11T09:37:04Z · HTTP 200
 מאמרים אל פסק
 – ADVICE.CO.IL
 דלג לתוכן
@@ -125,7 +125,7 @@ AC EV CHARGERS
 אביזרים
 DC EV CHARGERS
 עמדות טעינה DC לרכב חשמלי
-תוכנות לעמדות טעינה
+מערכת ניהול טעינה
 אפליקציית ניהול עמדות טעינה
 אפליקציית ניטור עמדות טעינה
 קישורים נוספים
@@ -315,7 +315,7 @@ AC EV CHARGERS
 אביזרים
 DC EV CHARGERS
 עמדות טעינה DC לרכב חשמלי
-תוכנות לעמדות טעינה
+מערכת ניהול טעינה
 אפליקציית ניהול עמדות טעינה
 אפליקציית ניטור עמדות טעינה
 בית

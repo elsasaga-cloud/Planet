@@ -1,26 +1,177 @@
-# SC-2258 townet.it · home · https://www.townet.it/ · fetched 2026-11-10T10:04:27Z · HTTP 403
-Apache HTTP Server Test Page powered by CentOS
-Testing 123..
-This page is used to test the proper operation of the Apache HTTP server after it has been installed. If you can read this page it means that this site is working properly. This server is powered by CentOS .
-Just visiting?
-The website you just visited is either experiencing problems or is undergoing routine maintenance.
-If you would like to let the administrators of this website know that you've seen this page instead of the page you expected, you should send them e-mail. In general, mail sent to the name "webmaster" and directed to the website's domain should reach the appropriate person.
-For example, if you experienced problems while visiting www.example.com, you should send e-mail to "webmaster@example.com".
-Are you the Administrator?
-You should add your website content to the directory /var/www/html/ .
-To prevent this page from ever being used, follow the instructions in the file /etc/httpd/conf.d/welcome.conf .
-Promoting Apache and CentOS
-You are free to use the images below on Apache and CentOS Linux powered HTTP servers. Thanks for using Apache and CentOS!
-Important note:
-The CentOS Project has nothing to do with this website or its content,
-it just provides the software that makes the website run.
-If you have issues with the content of this site, contact the owner of the domain, not the CentOS project.
-Unless you intended to visit CentOS.org, the CentOS Project does not have anything to do with this website,
-the content or the lack of it.
-For example, if this website is www.example.com, you would find the owner of the example.com domain at the following WHOIS server:
-http://www.internic.net/whois.html
-The CentOS Project
-The CentOS Linux distribution is a stable, predictable, manageable and reproduceable platform derived from
-the sources of Red Hat Enterprise Linux (RHEL).
-Additionally to being a popular choice for web hosting, CentOS also provides a rich platform for open source communities to build upon. For more information
-please visit the CentOS website .
+# SC-2258 townet.it · home · https://www.townet.it/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+Soluzioni Wireless e sistemi Smart di alimentazione per CCTV
+Salta al contenuto
+Cerca per:
+Prodotti WIRELESS
+soluzioni radio affidabili e performanti
+Point to Point
+Point to Multipoint
+Hotspot Wi-Fi
+Antenne
+ENERGIA
+sistemi smart per CCTV & TLC
+Smart Box
+Tower
+Accessori
+Stazioni di energia
+Scaricatori
+Connettori
+PIATTAFORMA
+controllo IoT del tuo sistema
+Data Manager
+FLEX CABLE
+antenne filari per coperture uniformi, ideali per industria 4.0
+SCOPRI
+Soluzioni
+News
+Supporto FORMAZIONE
+corsi TSS per sistemisti e installatori
+Corsi
+Calendario
+ASSISTENZA
+contattaci per supporto pre e post vendita
+Contatta il Supporto
+Richiedi RMA
+UTILITY
+applicazioni software e risorse tecniche
+Tools
+Download
+Dove acquistare
+Contatti
+Home townet 2025-03-04T16:+
+the tower
+prev
+next
+new mobile energy station
+more info
+Contact
+About
+MPPT+EMS
+prev
+next
+nuovo caricabatterie solare intelligente
+go home
+Contact
+About
+Serie K
+prev
+next
+always reliable now even faster
+go home
+Contact
+About
+Smart Energy
+prev
+next
+Green and smart power solution
+go home
+Contact
+About
+PoE+ Switch
+prev
+next
+Industrial Managed PoE 802.3 af/at/bt 48V + 24V
+go home
+Contact
+About
+Protection
+prev
+next
+IP68 Ethernet Sourge Protection POE++
+go home
+Contact
+About
+Router 5G
+prev
+next
+Discover new options Teltonika Routers perfectly integrated into our boxes
+go home
+Contact
+About
+Hai un progetto da realizzare dove ti possiamo aiutare ?
+CONTATTACI
+Soluzioni per Smart City
+Townet è specializzata nella produzione di apparati per telecomunicazione, sitemi di energia e sensoristica ideali per progetti Smart Cities. Offriamo servizi di consulenza per la progettazione e il supporto tecnico ai system integrator per realizzare impianti aziendali, per multiservizi e pubbliche amministrazioni.
+SCOPRI DI PIU’
+Prestazioni e Resistenza
+Compatto e performante il nuovo K-30-SU è ideale per essere impiegato sia per collegamenti punto-punto sia come client per reti geografiche multipunto. Per le sue qualità è stato selezionato in numerosi progetti di videosorveglianza urbana.
+SCOPRI DI PIU’
+Serie K
+Basata sullo standard 802.11ax permette di ottenere prestazioni eccezionali con modulazioni radio fino a 2.4 Gbps
+K-20-BR townet 2025-03-04T16:+
+K-20-BR
+Galleria
+K-20-BR
+K-20-BS townet 2025-03-04T16:+
+K-20-BS
+Galleria
+K-20-BS
+K-20-BS 60 townet 2025-03-04T16:+
+K-20-BS 60
+Galleria
+K-20-BS 60
+K-20-BS 90 townet 2025-03-04T16:+
+K-20-BS 90
+Galleria
+K-20-BS 90
+K-40-SU townet 2025-03-04T16:+
+K-40-SU
+Galleria
+K-40-SU
+TUTTA LA SERIE
+Q uando l’alimentazione principale è discontinua, come nel caso dei lampioni stradali, gli SmartBox garantiscono la continuità energetica attraverso la gestione intelligente dei cicli di carica. Inoltre, il modulo OS Node permette il controllo da remoto sullo stato di ricarica dell’impianto e la gestione degli allarmi automatici. Disponibile un calcolatore per verificare il dimensionamento ideale a garantire il funzionamento H24.
+CONTATTACI
+DATASHEET
+Latest News
+Protezione Civile
+Galleria
+Protezione Civile
+townet 2025-12-23T11:+Dicembre 23rd, 2025 |
+Difesa Military
+Galleria
+Difesa Military
+townet 2025-12-23T11:+Dicembre 23rd, 2025 |
+Polizia
+Galleria
+Polizia
+townet 2025-12-23T10:+Dicembre 23rd, 2025 |
+Agricoltura Allevamenti
+Galleria
+Agricoltura Allevamenti
+townet 2025-12-23T11:+Dicembre 23rd, 2025 |
+Porti
+Galleria
+Porti
+townet 2025-12-23T11:+Dicembre 23rd, 2025 |
+VIEW ALL ARTICLES
+MULTIUTILITY E PUBBLICHE AMMINISTRAZIONI ?
+Cogli l’occasione di trasformare il tuo sistema di videosorveglianza in un progetto per Smart City. Oltre ai controlli IoT per le funzioni energetiche i nostri armadi intelligenti sono ora dotati di sensori per la qualità dell’aria e meteo.
+SCOPRI DI PIU’
+Trusted Partners
+da oltre 20 anni sviluppiamo soluzioni innovative per collegare persone, aziende e pubbliche amministrazioni e per migliorare qualità della vita, del lavoro e la sicurezza.
+CONTACT US TODAY
+Via dei Finale, 20
+61043 Cagli (PU) - Italy
++39 0721 797396
+info@townet.it
+Monday - Friday:  -
+Certified Company
+UNI EN ISO 9001 & 14001
+Registro AEE n° IT10050000006680
+Registro Nazionale Pile IT18040P00004781
+Company policy
+COPYRIGHT 2026 TOWNET SRL ©​ | ALL RIGHTS RESERVED
+Facebook LinkedIn Email
+Page load link
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. Accept Read More
+Privacy & Cookie Policy
+Chiudi
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Necessary
+Sempre abilitato
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+ACCETTA E SALVA
+Torna in cima

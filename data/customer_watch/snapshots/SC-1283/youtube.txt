@@ -1,4 +1,4 @@
-# SC-1283 reditron.co.za · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC2r44mL_RWidNoXH11z31cQ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1283 reditron.co.za · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC2r44mL_RWidNoXH11z31cQ · fetched 2026-11-11T09:37:04Z · HTTP 200
 2023-12-05T07:25:52+00:00	SpeedFace M4	https://www.youtube.com/watch?v=aW76xsm3S-o
 2023-11-23T14:47:48+00:00	BG1000 Series Barrier Gate	https://www.youtube.com/watch?v=IIUBe94JYbk
 2023-10-30T10:01:58+00:00	ZKTeco’s hybrid biometric and computer vision technology, ZKBioCVSecurity.	https://www.youtube.com/watch?v=i0Szl5InVqI

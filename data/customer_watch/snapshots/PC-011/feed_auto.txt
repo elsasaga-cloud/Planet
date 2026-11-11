@@ -1,4 +1,4 @@
-# PC-011 Akçaba Communications（Akçaba Ltd.） · feed_auto · https://akcaba.com/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# PC-011 Akçaba Communications（Akçaba Ltd.） · feed_auto · https://akcaba.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Thu, 05 Nov 2026 14:18:15 +0000	Sizin için sektörden derlediğimiz haberlerle Ekim ayı bültenimiz sizlerle… Vol. 76	https://akcaba.com/sektorden-haberler-vol-76/
 Mon, 05 Oct 2026 20:51:49 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 75	https://akcaba.com/sektorden-haberler-vol-75/
 Mon, 31 Aug 2026 21:51:44 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 74	https://akcaba.com/sizin-icin-sektorden-derledigimiz-haberler-vol-74/

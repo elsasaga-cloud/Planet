@@ -1,4 +1,4 @@
-# SB-380 Yellowbox Co Pty Ltd · sitemap · https://yellowboxglobal.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-380 Yellowbox Co Pty Ltd · sitemap · https://yellowboxglobal.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 	https://yellowboxglobal.com
 	https://yellowboxglobal.com/about
 	https://yellowboxglobal.com/articles/a-beginners-guide-to-locker-locks-what-you-need-to-know
@@ -49,6 +49,7 @@
 	https://yellowboxglobal.com/author/hojun-tang
 	https://yellowboxglobal.com/author/vanessa-zhao
 	https://yellowboxglobal.com/calculator
+	https://yellowboxglobal.com/case-studies
 	https://yellowboxglobal.com/case-studies/1-martin-place
 	https://yellowboxglobal.com/case-studies/50-lonsdale-st
 	https://yellowboxglobal.com/case-studies/477-pitt-st
@@ -110,6 +111,7 @@
 	https://yellowboxglobal.com/demo
 	https://yellowboxglobal.com/demo-2024
 	https://yellowboxglobal.com/download
+	https://yellowboxglobal.com/end-of-trip-lockers
 	https://yellowboxglobal.com/eu/smart-lockers-amsterdam
 	https://yellowboxglobal.com/eu/smart-lockers-paris
 	https://yellowboxglobal.com/faq
@@ -117,6 +119,7 @@
 	https://yellowboxglobal.com/help-desk/state-library-of-nsw
 	https://yellowboxglobal.com/how-it-works
 	https://yellowboxglobal.com/insights/articles
+	https://yellowboxglobal.com/integrations
 	https://yellowboxglobal.com/key-and-code-locker-management
 	https://yellowboxglobal.com/locker-calculator
 	https://yellowboxglobal.com/locker-partners
@@ -142,6 +145,9 @@
 	https://yellowboxglobal.com/on-premise
 	https://yellowboxglobal.com/privacy
 	https://yellowboxglobal.com/product
+	https://yellowboxglobal.com/product/access-methods-integrations
+	https://yellowboxglobal.com/product/locker-management-software
+	https://yellowboxglobal.com/product/smart-locks
 	https://yellowboxglobal.com/server-cabinet-locks
 	https://yellowboxglobal.com/specifiers
 	https://yellowboxglobal.com/support
@@ -161,3 +167,5 @@
 	https://yellowboxglobal.com/whitepaper
 	https://yellowboxglobal.com/wireless
 	https://yellowboxglobal.com/workplace
+	https://yellowboxglobal.com/workplace/office-smart-lockers
+	https://yellowboxglobal.com/workplace/parcel-and-it-asset-smart-lockers

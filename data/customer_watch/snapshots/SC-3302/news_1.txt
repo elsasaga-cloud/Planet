@@ -1,4 +1,4 @@
-# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 News – Niveo Professional
 Skip to content
 Home
@@ -72,6 +72,10 @@ Where to buy
 News
 Contact
 Latest news
+IC 2026 | Niveo Professional – Scaling SDVoE from Meeting Rooms to Broadcast
+At InfoComm 2026, Arthur De Jager from Niveo Professional joins Melissa, Product Manager at the SDVoE Alliance, to showcase their expanded switch portfolio covering SDVoE deployments of every size. Highlights
+Read More »
+11/11/2026
 Sonic Electronics upgrades Qatar Development Bank
 QATAR: Sonic Electronics has delivered a comprehensive AV solution for Qatar Development Bank’s (QDB) main auditorium. The system has been designed to support a variety of events and functions, including
 Read More »
@@ -112,10 +116,6 @@ New AVB Switch
 The already extensive range of excellent Enterprise Grade Switches from Niveo Professional has now been expanded with a new product: Niveo Professional is proud to announce our new NGSME9AVB switch.
 Read More »
 05/05/2022
-Networking for easy & profitable installations
-By Arthur de Jager, CEO of Niveo Professional
-Read More »
-06/05/2020
 Let's keep In Touch
 Subscribe to our newsletter to hear the latest news
 Name

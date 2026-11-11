@@ -1,4 +1,5 @@
-# SB-159 elmospa.com · youtube · https://www.youtube.com/c/Elmospa · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-159 elmospa.com · youtube · https://www.youtube.com/c/Elmospa · fetched 2026-11-11T09:37:04Z · HTTP 200
+2026-11-11T08:15:15+00:00	Nuovo speaker SPK-IP01	https://www.youtube.com/watch?v=xjwr9cA3tPM
 2026-10-30T15:00:08+00:00	EL.MO. Fire Evolution | Una nuova era per la sicurezza antincendio	https://www.youtube.com/watch?v=lIO3j9YW5yI
 2026-05-18T09:51:11+00:00	Nuovo rivelatore lineare di fumo a riflessione FLB01A	https://www.youtube.com/watch?v=eSmDhBA44Nw
 2026-05-14T07:57:10+00:00	Nuova SIM multioperatore GSM-ALT	https://www.youtube.com/watch?v=RzoVh9GwbIo
@@ -13,4 +14,3 @@
 2024-02-14T10:35:03+00:00	Telecamere notturne con tecnologia ZERO-L	https://www.youtube.com/watch?v=fYXQf5GnVQM
 2023-12-18T08:56:30+00:00	EL.MO. - QhubO: il nuovo HUB di casa EL.MO.!	https://www.youtube.com/watch?v=b10tEqoX5ls
 2023-12-13T15:49:56+00:00	EL.MO. - SA5000: la nuova sirena da esterno!	https://www.youtube.com/watch?v=K3ygxi3MTAU
-2022-10-21T07:36:01+00:00	Live streaming di EL.MO. SPA	https://www.youtube.com/watch?v=FtPtxlAQ26A

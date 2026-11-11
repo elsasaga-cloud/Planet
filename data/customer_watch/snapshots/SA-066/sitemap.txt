@@ -1,4 +1,4 @@
-# SA-066 ccs-msk.ru · sitemap · https://www.ccs-msk.ru/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SA-066 ccs-msk.ru · sitemap · https://www.ccs-msk.ru/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 2021-01-12	http://silversite.ru/
 2021-09-27	http://silversite.ru/Sale
 2021-09-27	http://silversite.ru/catalog

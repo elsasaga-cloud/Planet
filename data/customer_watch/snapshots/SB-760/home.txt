@@ -1,4 +1,4 @@
-# SB-760 galaxysecurity.com · home · https://www.galaxysecurity.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-760 galaxysecurity.com · home · https://www.galaxysecurity.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Galaxy Security
 Skip to content
 4.9
@@ -90,6 +90,8 @@ Walkie Talkie
 4G WiFi
 software
 dahua software
+VSaaS
+Nx Witness
 By Brand
 Galaxy
 Galaxy Hunter
@@ -181,6 +183,8 @@ Walkie Talkie
 4G WiFi
 software
 dahua software
+VSaaS
+Nx Witness
 By Brand
 Galaxy
 Galaxy Hunter
@@ -322,12 +326,11 @@ Choose your option
 New Arrivals
 Shop All Products
 Add to cart
-VMS-280-Pro-A32
-Uniview VMS-280-Pro-A32 Kovo VMS Mini PC w/EZ Station
+Nx Witness (3 Year Subscription)
 Regular price
-$840.00
+$448.05
 Sale price
-$840.00
+$448.05
 Regular price
 Unit price
 / per
@@ -335,11 +338,11 @@ Add to cart
 View details
 Choose your option
 Add to cart
-GX-WTSP55-LSA-MTO
+Nx Witness (1 Year Subscription)
 Regular price
-$11,962.50
+$156.60
 Sale price
-$11,962.50
+$156.60
 Regular price
 Unit price
 / per
@@ -347,11 +350,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-GX-WTMMB-MTO
+N98A5N
+Dahua 32-Channel 8K WizMind Network Video Recorder
 Regular price
-$44,950.00
+$2,846.53
 Sale price
-$44,950.00
+$2,846.53
 Regular price
 Unit price
 / per
@@ -359,12 +363,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-IPC2B14SE-ADF28K-WP-I1
-Uniview IPC2B14SE-ADF28K-WP-I1 4MP WDR OwlView Plus Bullet Network Camera
+GX-IOT-OFFICE-IAQ
+Milesight MART OFFICE & COMMERCIAL BUILDING IAQ + OCCUPANCY KIT (SKU: GX-IOT-OFFICE-IAQ)
 Regular price
-$462.00
+$10,218.00
 Sale price
-$462.00
+$10,218.00
 Regular price
 Unit price
 / per
@@ -372,12 +376,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-IPC94144SFW-X25-F40C-BK
-Uniview IPC94144SFW-X25-F40C-BK 4MP+4MP Lighthunter Dual-lens Network PTZ Camera (BLACK)
+GX-IOT-SCHOOL-VAPE
+Milesight SCHOOL & RESTROOM VAPE, IAQ & OCCUPANCY KIT (SKU: GX-IOT-SCHOOL-VAPE)
 Regular price
-$2,011.00
+$8,812.00
 Sale price
-$2,011.00
+$8,812.00
 Regular price
 Unit price
 / per
@@ -385,12 +389,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-PKC2641-Z80-IR-P
-Uniview PKC2641-Z80-IR-P 4MP Overseas Recognition Of Vehicle License Plate Bullet IP Camera
+GX-IOT-HACCP-PRO
+Milesight RESTAURANT & SUPERMARKET HACCP COLD-CHAIN KIT (SKU: GX-IOT-HACCP-PRO)
 Regular price
-$2,095.00
+$3,952.00
 Sale price
-$2,095.00
+$3,952.00
 Regular price
 Unit price
 / per
@@ -398,12 +402,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-EC-D4F28M-V3
-Uniview EC-D4F28M-V3 4MP WDR IR Dome Network Camera
+GX-IOT-LEAK-PRO
+Milesight CONDO & COMMERCIAL WATER-LEAK + AUTO-SHUTOFF KIT (SKU: GX-IOT-LEAK-PRO)
 Regular price
-$219.00
+$6,092.00
 Sale price
-$219.00
+$6,092.00
 Regular price
 Unit price
 / per

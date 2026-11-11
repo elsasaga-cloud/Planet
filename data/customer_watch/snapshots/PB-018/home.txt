@@ -1,10 +1,10 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
-value && window.livewire.emit('category:selected', value))"
+value && Livewire.dispatch('category:selected', { category_id: value }))"
 x-on:force:open.window="forceOpen = $event.detail.open"
 x-on:category:close.window="category = null"
 x-on:all:close.window="category = null; open = false"
-x-on:category:selected.window="open = true; category = $event.detail"
+x-on:category:desktop:selected.window="open = true; category = $event.detail"
 x-on:scroll.window="
 if (closable) {
 if (window.scrollY >= 135) {
@@ -32,7 +32,7 @@ if (
 && !$event.target.closest('.breadcrumb-item')
 ) {
 if (category) {
-window.Livewire.emit('category:close');
+Livewire.dispatch('category:close');
 }
 if (closable || visible) { open = false }
 }
@@ -50,15 +50,24 @@ Szerszámok, szerelési anyagok
 Tápok, világítás, kábelek
 Tűzjelző- és oltórendszerek
 {
+if (value.length >= 3) {
+this.$wire.$call('search');
+}
+}, 1000);
+},
+searchNow() {
+clearTimeout(this.timer);
+this.$wire.$call('search');
+},
+}"
+x-init="$watch('open', value => {
 if (!value) {
-window.livewire.find('85bNjpYPdEXUtbyRUvOE').call('resetSearch')
+$wire.$call('resetSearch')
 }
 $dispatch('force:open', { open });
 })"
 x-on:click.away="open = false"
 >
-= 3) { window.livewire.find('85bNjpYPdEXUtbyRUvOE').call('search') }"
-/>
 Keresés
 Termékek:
 Nincs találat
@@ -111,7 +120,7 @@ POWER kalkulátor
 Letöltések
 Videótár
 Elérhetőség
-category && window.livewire.emit('category:selected', category, true))"
+category && Livewire.dispatch('category:selected', { category_id: category, isMobile: true }))"
 >
 Menü
 ×
@@ -169,15 +178,24 @@ Elfelejtett jelszó
 Regisztráció
 ×
 {
+if (value.length >= 3) {
+this.$wire.$call('search');
+}
+}, 1000);
+},
+searchNow() {
+clearTimeout(this.timer);
+this.$wire.$call('search');
+},
+}"
+x-init="$watch('open', value => {
 if (!value) {
-window.livewire.find('BvM2NOyrPmANNmvIT9MW').call('resetSearch')
+$wire.$call('resetSearch')
 }
 $dispatch('force:open', { open });
 })"
 x-on:click.away="open = false"
 >
-= 3) { window.livewire.find('BvM2NOyrPmANNmvIT9MW').call('search') }"
-/>
 Keresés
 Termékek:
 Nincs találat
@@ -262,12 +280,10 @@ KOSÁRBA TESZEM
 ×
 Tudomásul veszem, hogy ezen termékre leadott rendelés nem mondható le, illetve a termék nem visszáruzható külön engedély nélkül.
 KOSÁRBA TESZEM
-window.livewire.find('VtzrTCMEnlpXGlIZI8Jl').set('show', value))"
+$wire.$set('show', value))"
 x-cloak
 x-show.transition="open"
 wire:key="d751713988987e9331980363e24189ce"
-x-on:modal:close.window="window.livewire.find('VtzrTCMEnlpXGlIZI8Jl').call('close')"
-x-on:modal:show.window="window.livewire.find('VtzrTCMEnlpXGlIZI8Jl').call('open', $event.detail)"
 >
 ×
 {

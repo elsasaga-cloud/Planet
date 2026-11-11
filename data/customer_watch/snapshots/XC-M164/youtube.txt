@@ -1,4 +1,5 @@
-# XC-M164 TMMI, LLC（TMMI powered by GrayMatter） · youtube · https://www.youtube.com/@TmmiTV · fetched 2026-11-10T10:04:27Z · HTTP 200
+# XC-M164 TMMI, LLC（TMMI powered by GrayMatter） · youtube · https://www.youtube.com/@TmmiTV · fetched 2026-11-11T09:37:04Z · HTTP 200
+2026-11-10T13:00:36+00:00	Want to detect open packages before they leave production?	https://www.youtube.com/shorts/LvCWpLhtiy8
 2026-11-03T13:00:18+00:00	How can machine vision find missing packages?	https://www.youtube.com/shorts/oFex31LWwuI
 2026-10-30T14:00:38+00:00	🎃 Trick or Beep with the sensingCam SEC200 #sicksensorintelligence	https://www.youtube.com/shorts/aqTx_K7hmM8
 2026-10-27T13:00:02+00:00	How to sort chocolate variants with machine vision and AI	https://www.youtube.com/shorts/CM_ha5apdkU
@@ -13,4 +14,3 @@
 2026-10-13T12:00:14+00:00	How to setup the SEC200 for code reading	https://www.youtube.com/watch?v=OrH5_JUofZQ
 2026-10-08T11:00:25+00:00	Why Make 1D And 2D Code Reading Complicated? #sicksensorintelligence	https://www.youtube.com/shorts/CgQLDJuzJAw
 2026-09-29T12:00:10+00:00	Tutorial SICK Nova (9/12): 2D AI Anomaly Detection dStudio	https://www.youtube.com/watch?v=XZo6iRWoMsU
-2026-09-28T11:00:29+00:00	Tutorial Multi-camera alignment using SICK Ruler3000	https://www.youtube.com/watch?v=ODD0QHpy71M

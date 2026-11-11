@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 	https://www.artsistem.com/
 	https://www.artsistem.com/hakkimizda
 	https://www.artsistem.com/oduller
@@ -178,8 +178,6 @@
 	https://www.artsistem.com/markalar/lg/urunler
 	https://www.artsistem.com/markalar/logitech
 	https://www.artsistem.com/markalar/logitech/urunler
-	https://www.artsistem.com/markalar/m3-mobile
-	https://www.artsistem.com/markalar/m3-mobile/urunler
 	https://www.artsistem.com/markalar/mack
 	https://www.artsistem.com/markalar/mack/urunler
 	https://www.artsistem.com/markalar/makelsan
@@ -251,4 +249,6 @@
 	https://www.artsistem.com/markalar/steelseries
 	https://www.artsistem.com/markalar/steelseries/urunler
 	https://www.artsistem.com/markalar/sunlux
-	https:/
+	https://www.artsistem.com/markalar/sunlux/urunler
+	https://www.artsistem.com/markalar/teknim
+	https://www.a

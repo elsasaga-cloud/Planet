@@ -1,5 +1,5 @@
-# SB-814 istream.by · sitemap · https://istream.by/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
-2026-11-10	https://istream.by
+# SB-814 istream.by · sitemap · https://istream.by/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+2026-11-11	https://istream.by
 	https://istream.by/
 	https://istream.by/price
 	https://istream.by/blog

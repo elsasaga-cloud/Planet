@@ -1,4 +1,4 @@
-# SB-734 SIGMA RECTRIX SYSTEMS (M) SDN BHD · sitemap · https://sigmarectrix.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-734 SIGMA RECTRIX SYSTEMS (M) SDN BHD · sitemap · https://sigmarectrix.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 	http://sigmarectrix.com/supportzayd/account/create/process
 	http://sigmarectrix.com/supportzayd/portal/ticket/comment
 	http://sigmarectrix.com/supportzayd/subcategories/fetch

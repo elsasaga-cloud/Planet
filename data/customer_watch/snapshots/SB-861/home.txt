@@ -1,4 +1,4 @@
-# SB-861 bimel.com.tr · home · http://www.bimel.com.tr/tr · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-861 bimel.com.tr · home · http://www.bimel.com.tr/tr · fetched 2026-11-11T09:37:04Z · HTTP 200
 bimel :: Anasayfa
 Aten Distribitörü
 Aten ToptancısıBimel
@@ -119,14 +119,13 @@ IP30 Endüstriyel 1-Port RS232/RS422/RS485 Serial Device Sunucu (IP30 Industrial
 1 x 100FX SC, SM/30km
 -40~75 derece C
 Ürünü İncele
-Aten - ATEN-VS1828KIT
-8-Port 4K HDMI Cat 6 Çoklayıcı Seti, Alıcı Üniteler (Receivers) Dahil
-1 x VS1828T ve 4 x VE1821R
-8-Port 4K HDMI Cat 6 Splitter with Receivers
-1 x VS1828T and 4 x VE1821R
+Aten - ATEN-2X-EA14
+C14 Akıllı Kilit Fiş Konnektörü (PE5342T ve PE5221T modelleri için)
+C14 Smart-Lock Plug Connector (for PE5342T & PE5221T)
 Ürünü İncele
-Aten - ATEN-CS1798A
-8-Port USB 2.0 4K HDMI KVM Switch
+Aten - ATEN-2X-EA13
+C14 Akıllı Kilitli Fiş Konnektörü
+C14 Smart-Lock Plug Connector
 Ürünü İncele
 Ürünler
 Bilgisayar Yan Ürünleri

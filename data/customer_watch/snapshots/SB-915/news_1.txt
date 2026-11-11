@@ -1,4 +1,4 @@
-# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-11T09:37:04Z · HTTP 200
 Blog Posts | RADWIN Website
 Skip to Content
 Home
@@ -87,7 +87,7 @@ Fixed Wireless Access
 PtMP
 QORA
 Wi-Fi 7
-Oct 28, 2026
+Oct 29, 2026
 Articles
 Cambium Networks Administration: FAQ for Partners & ISPs
 Who Bought Cambium Networks? Product Status for Partners and ISPs Last updated: October 21, 2026. We update this page as new public information becomes available. Cambium Networks went into administra...
@@ -162,7 +162,7 @@ Built-In AI Support: How RADWIN’s Chatbot Transforms the 2000E Setup Experienc
 Faster Deployments. Fewer Errors. Smarter Support, Directly Inside the Web UI. Deploying a wireless link shouldn’t require jumping between manuals, PDFs, and support tickets. Yet in real-world install...
 2000 E
 PtP
-Feb 25, 2026
+Feb 26, 2026
 What's New
 RADWIN and Aircom Global Team Up to Power Next-Gen Wireless Broadband in Tanzania and Uganda
 Strengthening wireless broadband connectivity for service providers and critical infrastructure across East Africa January 22, 2026 – RADWIN ( www.radwin.com ), a global leader in wireless broadband s...

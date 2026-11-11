@@ -1,4 +1,4 @@
-# SB-415 a2s.pl · news_2 · https://www.a2s.pl/news-zastosowania-c-1542_1593_1621.html · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-415 a2s.pl · news_2 · https://www.a2s.pl/news-zastosowania-c-1542_1593_1621.html · fetched 2026-11-11T09:37:04Z · HTTP 200
 Zastosowania - News - Informacje — Katalog a2s.pl
 Moje konto
 Oferty
@@ -18,11 +18,11 @@ Komunikacja bezprzewodowa
 Komputery przemysłowe
 Konwertery Sterowniki
 Ethernet przemysłowy
-Kontrolery iMod Komputery przemysłowe NPE Komputery przemysłowe BOX Serwery iModCloud Konwertery IoT Konwertery MBus Czujniki ZigBee Akcesoria
+Komputery przemysłowe NPE Kontrolery iMod Komputery przemysłowe BOX Serwery iModCloud Konwertery IoT Konwertery MBus Czujniki ZigBee Akcesoria
 Wi-Fi ZigBee Modemy
 Komputery NPE Komputery embedded / box Komputery jednopłytkowe Moduły procesorowe Karty procesorowe Płyty główne Komputery panelowe Karty pomiarowe Karty komunikacyjne Nośniki Flash HMI Systemy wizyjne
-Konwertery Sterowniki WEB Przetwornice napięcia Repeatery / Optoizolatory HUB RS485 Zasilacze Moduły przekaźnikowe Sterowniki PLC Mierniki Serwery portów szeregowych Sterowniki komunikacyjne Modbus RTU TCP Moduły kondycjonujące Rozproszone wej-wyj
-Terminale Konwertery Serwery portów Switche
+Konwertery Moduły przekaźnikowe Sterowniki PLC Mierniki Serwery portów szeregowych Sterowniki komunikacyjne Modbus RTU TCP Moduły kondycjonujące Rozproszone wej-wyj Sterowniki WEB Przetwornice napięcia Repeatery / Optoizolatory HUB RS485 Zasilacze
+Serwery portów Terminale Konwertery Switche
 Szukaj w artykułach i na forum
 Wszystkie produkty
 Informacje News Zastosowania

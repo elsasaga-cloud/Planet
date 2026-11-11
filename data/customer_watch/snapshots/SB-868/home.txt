@@ -1,4 +1,4 @@
-# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Fiberden
 Size Özel Fiyatlardan Yararlanmak İçin Bayimiz Olabilirsiniz!
 Siparişlerim/Kargo Takip
@@ -206,22 +206,6 @@ PLC Splitter Kaset Tipi-1/16-SC/APC
 fiberden
 PLC Splitter Kaset Tipi-1/32-SC/APC
 1.092,93 TL KDV
-% 0
-fiberden
-FİBERDEN PROFESYONEL FİBER OPTİK SET (ÇANTA HEDİYELİ)
-18.360,00 TL KDV
-% 0
-fiberden
-FİBERDEN FİBER OPTİK MULTİ TOOLS SET
-8.415,00 TL KDV
-% 0
-fiberden
-FİBERDEN 4'LÜ FİBER OPTİK SET
-3.978,00 TL KDV
-% 0
-fiberden
-FİBER OPTİK HAVAİ (ÇELİK ASKI TELLİ) (GRİ A1) 2 CORE 1000 MT
-5.686,50 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (BEYAZ)
@@ -542,6 +526,24 @@ Fiber Adaptör SC/UPC (Simplex)
 fiberden
 Fiber Adaptör SC/APC (Simplex)
 10,71 TL KDV
+% 0
+fiberden
+Fiber Adaptör SC/UPC (Duplex)
+18,36 TL KDV
+Tükendi
+% 0
+fiberden
+Fast Konnektör Sonlandırma Seti (28mm)
+1.165,86 TL KDV
+Tükendi
+% 0
+fiberden
+Fast Konnektör Sonlandırma Seti (25mm)
+948,60 TL KDV
+% 0
+fiberden
+DROP KABLO SOYUCU PENSE 3 MM (YEŞİL)
+1.020,00 TL KDV
 Güvenli̇ Alişveri̇ş
 256Bit SSL Sertifikası ile Güvenli Alışveriş
 Orijinal Ürün

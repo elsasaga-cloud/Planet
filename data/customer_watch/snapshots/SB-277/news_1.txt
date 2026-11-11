@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
+11 de noviembre de 2026
+Formación
+Tres certificaciones oficiales Ubiquiti en un curso presencial de tres días en Barcelona: UFSP, UWA y URSCA. Consulta programa, horarios e inscripción.
+Read More
 Webinar práctico: Megafonía IP con Grandstream | 20 de noviembre
 9 de noviembre de 2026
 Webinar
@@ -67,11 +72,6 @@ Grandstream GWN7673: Wi-Fi 7 de doble banda para redes con alta densidad de disp
 20 de octubre de 2026
 Conoce
 El GWN7673 combina Wi-Fi 7 BE5000 de doble banda, enlace de 2,5 GbE y opciones de montaje flexibles para proyectos profesionales con muchos dispositivos conectados.
-Read More
-MikroTik LGO-LTE-W: antena compacta para LTE y LoRa® en instalaciones IoT
-20 de octubre de 2026
-Conoce
-La MikroTik LGO-LTE-W (DPD0830AL08) es una antena compacta para LTE y LoRa® de 617 a 5925 MHz, con 3 dBi y SMA macho, en solo 172 × 19 × 13 mm. Recomendada para KNOT.
 Read More
 Paginación de entradas
 1
@@ -624,5 +624,4 @@ comprar RF elements
 comprar ubiquiti
 comprar unifi
 compras +1500 €
-compresión de vídeo
-comuni
+compresión de ví

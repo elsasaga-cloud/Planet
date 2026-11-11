@@ -1,4 +1,4 @@
-# SC-1629 sominetworks.com · home · https://sominetworks.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1629 sominetworks.com · home · https://sominetworks.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Networking equipment and materials - SOMI NETWORKS
 +370 5 260 19 19 /
 Contacts
@@ -114,6 +114,8 @@ Import to cart from Excel
 You can add product lists to the cart using the COPY/PASTE method, or import them with an Excel file. For this, you will need an Excel file or table containing the product code and quantity – by pasting them or importing the Excel file, you will be able to add all products to the cart.
 More info
 Latest Products:
+Velcro tape for cable management, 10mm wide, length 25m
+12.50 € without VAT Add to cart pridėta
 Cable management bar, with steel duct and cover, CMB-04ST
 6.50 € without VAT Add to cart pridėta
 Details
@@ -156,8 +158,6 @@ Pre-terminated fiber optic cables of various lengths with factory-installed conn
 Power adapter for fiber optic media converters, 5V, 2A
 5.71 € without VAT Add to cart pridėta
 C20 IEC connector for power cable, 16A, 250VAC
-3.10 € without VAT Add to cart pridėta
-C19 IEC connector for power cable, 16A, 250VAC
 3.10 € without VAT Add to cart pridėta
 Special offers:
 Details

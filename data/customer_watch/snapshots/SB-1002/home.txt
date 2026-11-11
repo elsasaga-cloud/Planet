@@ -1,4 +1,4 @@
-# SB-1002 amplicon.com · home · https://www.amplicon.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1002 amplicon.com · home · https://www.amplicon.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Amplicon: Industrial Computers, Communications & Measurement
 Call us +44 (0)1273 570220 Email us sales@amplicon.com Support support@amplicon.com
 Sign in
@@ -132,6 +132,10 @@ Custom Industrial Computers
 Designed & Manufactured in the UK
 We design and manufacture bespoke industrial PCs for demanding applications across a wide range of industries. From initial design through to final assembly and testing, all at our UK facility.
 Learn more
+Bespoke Rackmount Test Cabinets
+and ATE integration services
+From Build-to-Print cabinet assemblies to fully integrated, bespoke automated test equipment and production test systems.
+Explore our services
 Trusted Aerospace & Defence solutions
 At Amplicon, we bring decades of experience serving the aerospace and defence sector with cutting-edge solutions designed for the most demanding environments.
 Learn more

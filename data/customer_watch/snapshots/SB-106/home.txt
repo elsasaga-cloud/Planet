@@ -1,4 +1,4 @@
-# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 citiCalls
 – citiCALLS
 Skip to content
@@ -330,7 +330,6 @@ Network Switches
 Network adapter
 Networking
 Networking Cables and Cards
-Note
 Notebook
 Notebook Bags & Sleeves
 Notebook Carrying Case
@@ -378,6 +377,7 @@ PoE Adapter
 Point-of-Sale/Computing
 POS Printer
 Physical Security
+Point-of-Sale/Computing
 Power
 Power & Surge Adapters
 Power Adapter
@@ -454,7 +454,6 @@ Rubber Boot
 SAS Internal Cable
 SAS internal cable
 SATA Cable
-SATA Card
 SSD
 Scanner
 Scanner Pad
@@ -768,5 +767,4 @@ Login
 United States (USD
 $)
 Your cart is empty
-Continue shopping
-Produ
+Continue shopp

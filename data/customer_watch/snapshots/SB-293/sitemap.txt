@@ -1,2 +1,25 @@
-# SB-293 virtualprotective.com · sitemap · https://www.virtualprotective.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
-
+# SB-293 virtualprotective.com · sitemap · https://www.virtualprotective.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+	https://www.virtualprotective.com/
+	https://www.virtualprotective.com/about
+	https://www.virtualprotective.com/results
+	https://www.virtualprotective.com/freequote
+	https://www.virtualprotective.com/contact-us
+	https://www.virtualprotective.com/rentals
+	https://www.virtualprotective.com/solartower
+	https://www.virtualprotective.com/solar
+	https://www.virtualprotective.com/pole
+	https://www.virtualprotective.com/120v
+	https://www.virtualprotective.com/industries/construction-site-security
+	https://www.virtualprotective.com/industries/homebuilder-security
+	https://www.virtualprotective.com/industries/oil-field-security
+	https://www.virtualprotective.com/industries/vacant-property-security
+	https://www.virtualprotective.com/locations/san-antonio
+	https://www.virtualprotective.com/locations/austin
+	https://www.virtualprotective.com/locations/houston
+	https://www.virtualprotective.com/locations/dallas-fort-worth
+	https://www.virtualprotective.com/frequently-asked-questions
+	https://www.virtualprotective.com/videos
+	https://www.virtualprotective.com/blog
+	https://www.virtualprotective.com/blog/security-cameras-vs-security-guards
+	https://www.virtualprotective.com/blog/how-to-prevent-construction-site-theft
+	https://www.virtualprotective.com/blog/permian-basin-oilfield-theft

@@ -1,4 +1,4 @@
-# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica
 Ingresa a
 tu cuenta
@@ -11,49 +11,6 @@ Menú de navegación
 ⭐ Recomendados
 Eventos y certificaciones
 Ver todas
-10 de noviembre
--
-GRANDSTREAM | CERTIFICACIÓN (1 DÍA)
-Certificación
-Presencial
-MEX-IZTACALCO
-CAFETAL 445, GRANJAS MEXICO
-10 de noviembre
--
-IMOU | ANALÍTICA INTELIGENTE AVANZADA CONFIGURACIÓN FINA DE REGLAS
-Capacitación Comercial
-En línea
-10 de noviembre
--
-ZKTECO | SOLUCIONES DE ASISTENCIA EN LA NUBE (1 DÍA)
-Roadshow
-Presencial
-PUEBLA
-19 NORTE 1602, TAMBORCITO
-10 de noviembre
--
-HYXI POWER | INSTALACIÓN Y PUESTA EN MARCHA DE MICROINVERSOR E INVERSOR DE CADENA / TALLER
-Taller
-Presencial
-MERIDA
-36A 436, JESUS CARRANZA
-10 de noviembre
--
-TP-LINK | CERTIFICACIÓN OCNA (1 DÍA)
-Certificación
-Presencial
-TIJUANA
-DATIL 6176, LOS ARBOLES
-10 de noviembre
--
-IMOU | MANTENIMIENTO PREVENTIVO Y GESTIÓN DE FIRMWARE A ESCALA
-Capacitación Comercial
-En línea
-10 de noviembre
--
-TVC EN LÍNEA | INDUCCIÓN A TVCENLÍNEA.COM
-Capacitación Comercial
-En línea
 11 de noviembre
 -
 BOSCH | ROADSHOW: AUDIO (1 DÍA)
@@ -80,6 +37,13 @@ Capacitación Comercial
 En línea
 12 de noviembre
 -
+GRANDSTREAM | CERTIFICACIÓN (1 DÍA)
+Certificación
+Presencial
+MTY-SUR
+AV. LAZARO CARDENAS 2611, LA REPUBLICA
+12 de noviembre
+-
 ZKTECO | SOLUCIONES INTEGRALES DE SEGURIDAD DEL ACCESO PEATONAL AL ESTACIONAMIENTO
 Capacitación Técnico - Comercial
 En línea
@@ -97,6 +61,13 @@ Taller
 Presencial
 MTY-SAN NICOLAS
 DIEGO DIAZ DE BERLANGA 107, ANTIGUO NOGALAR
+12 de noviembre
+-
+HYXI POWER | INSTALACIÓN Y PUESTA EN MARCHA DE MICROINVERSOR E INVERSOR DE CADENA / TALLER
+Taller
+Presencial
+CANCÚN
+AV. CHICHEN ITZA 513, 61
 13 de noviembre
 -
 IMOU | CASOS EDGE BAJA ILUMINACIÓN EXTREMA Y CONTRALUZ
@@ -119,7 +90,19 @@ Capacitación Comercial
 En línea
 17 de noviembre
 -
+ZKTECO | SOLUCIONES DE ASISTENCIA EN LA NUBE (1 DÍA)
+Roadshow
+Presencial
+MEX-TOLUCA
+20 DE NOVIEMBRE 708, ALVARO OBREGON
+17 de noviembre
+-
 UNIVIEW | PTZ AVANZADO PATRULLAJE AUTOMÁTICO Y PRESET INTELIGENTE
+Capacitación Comercial
+En línea
+17 de noviembre
+-
+TVC EN LÍNEA | INDUCCIÓN A TVCENLÍNEA.COM
 Capacitación Comercial
 En línea
 18 de noviembre
@@ -129,6 +112,21 @@ Certificación
 Presencial
 JAL-GUADALAJARA
 PROGRESO 73, AMERICANA
+18 de noviembre
+-
+IMOU | NUEVOS MODELOS AURORA Y FUNCIONES DE IA MEJORADAS
+Capacitación Técnico - Comercial
+En línea
+18 de noviembre
+-
+UBIQUITI | UISP MONITOREO Y GESTIÓN CENTRALIZADA DE RED DE ENLACES CON UISP CONSOLE
+Capacitación Comercial
+En línea
+19 de noviembre
+-
+COMMAX | DOMINA EL SISTEMA DE LLAMADO DE ENFERMERÍA IMPLEMENTACIÓN CONEXIÓN Y CONFIGURACIÓN
+Capacitación Técnico - Comercial
+En línea
 No hay eventos que coincidan con los filtros seleccionados.
 Ver todas
 ☁️ ¡Respaldo en la nube!

@@ -1,4 +1,4 @@
-# SB-846 qualicam.de · sitemap · https://www.qualicam.de/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-846 qualicam.de · sitemap · https://www.qualicam.de/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 	https://www.qualicam.de/
 	https://www.qualicam.de/angebote/ip-kamera-13mp-vario-infrarot-ip66-q5-ah10a62.html
 	https://www.qualicam.de/angebote/ip-box-kamera-vivotek-dual-codec-ip7160-20mp.html
@@ -66,9 +66,7 @@
 	https://www.qualicam.de/alarmanlagen/ajax-motion-protect-plus-pir-bewegungsmelder-tierimmun.html
 	https://www.qualicam.de/alarmanlagen/ajax-motioncam-pir-bewegungsmelder-mit-kamera.html
 	https://www.qualicam.de/alarmanlagen/ajax-motionprotect-curtain-pir-vorhang-bewegungsmelder.html
-	https://www.qualicam.de/alarmanlagen/ajax-hauskit-alarm-komplettset.html
 	https://www.qualicam.de/alarmanlagen/ajax-hauskit-plus-garage-alarm-set.html
-	https://www.qualicam.de/alarmanlagen/ajax-starterkit-alarm-set.html
 	https://www.qualicam.de/alarmanlagen/ajax-hub-2-funk-alarmzentrale-mit-2x-gsm-und-lan.html
 	https://www.qualicam.de/alarmanlagen/ajax-hub-2-plus-funk-alarmzentrale-mit-2x-lte-lan-wlan.html
 	https://www.qualicam.de/alarmanlagen/ajax-hub-funk-alarmzentrale-12-24v.html
@@ -135,4 +133,5 @@
 	https://www.qualicam.de/alarmanlagen/jablotron-alarmzentrale-mit-funklan-ja-107kr.html
 	https://www.qualicam.de/alarmanlagen/jablotron-alarmzentrale-mit-lan-modul-ja-103k.html
 	https://www.qualicam.de/alarmanlagen/funk-mini-magnetkontakt-ja-183m.html
-	https:/
+	https://www.qualicam.de/alarmanlagen/funk-kombinationsmelder-pir-und-glasbruchsensor-ja-180pb.html
+	https://www.qualicam.de/alarmanlagen/bediensegment

@@ -1,4 +1,4 @@
-# SB-1040 icpdas.ro · feed_auto · http://icpdas.ro/modules/feeder/rss.php?id_category=0&orderby=name&orderway=asc · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1040 icpdas.ro · feed_auto · http://icpdas.ro/modules/feeder/rss.php?id_category=0&orderby=name&orderway=asc · fetched 2026-11-11T09:37:04Z · HTTP 200
 	ARF8011BA - 0,00 Lei	https://icpdas.ro/ro/gateway-uri-iot/3662-arf8011ba.html
 	ARF8230EA - 0,00 Lei	https://icpdas.ro/ro/senzori-iot/3664-arf8230ea.html
 	ET-7052 CR - 820,88 Lei	https://icpdas.ro/ro/et-7000-cu-i-o-digitale/1549-et-7052-cr.html

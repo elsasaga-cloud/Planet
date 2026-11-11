@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -18,9 +18,9 @@ Power & PoE
 Petenet PoE Switches 12V Power Supplies PoE Extenders PoE Splitters Injectors
 New arrivals
 Shop All
-Uniview Smart Management Box (DC Power) – SMBOX02-R
+Seagate HDD-SG-SKY4TB – 4TB SkyHawk Surveillance HDD
 Login for Pricing
-Uniview 500mm Pendent Rod for PTZ – TR-SE45-A
+Toshiba HDD-TOS-S3008TB – 8TB S300 Pro Surveillance HDD
 Login for Pricing
 New Arrivals Clearance
 Become a Dealer
@@ -111,15 +111,15 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-Uniview 5MP Analog Camera Review: Worth it in 2023?
-This review takes a deep dive into Uniview's latest release; a 5MP HD Analog ColorHunter camera with a powerful white…
-June 7, 2023
-Uniview LightHunter vs ColorHunter: What’s the Difference?
-In 2019, Uniview released their LightHunter series cameras.[1] Their LightHunter technology significantly improves image quality in low-light scenes. Innovative technologies…
-October 11, 2022
-Reyee P2P Wireless Bridge Connects Two Buildings in Toronto
-A Reyee P2P bridge is installed outside an alleyway in the Distillery District. The device is used to bridge to…
-July 28, 2024
+Lorex vs Uniview 8MP Turret – Image Quality
+Lorex and Uniview are popular choices for security, but how does their image quality compare? We installed one camera from…
+December 8, 2023
+Should I Use an SSD or HDD inside an NVR?
+An HDD and SSD both accomplish the same task (storing footage) but in different ways. A hard drive is a…
+June 24, 2024
+How to Tell if a CCTV Camera is Recording Audio (with examples)
+Did you know security cameras are commonly being made with microphones built-in? How can you tell if it's recording audio…
+March 8, 2024
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account

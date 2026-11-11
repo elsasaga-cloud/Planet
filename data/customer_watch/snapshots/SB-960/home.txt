@@ -1,4 +1,4 @@
-# SB-960 steren.com.mx · home · https://www.steren.com.mx/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-960 steren.com.mx · home · https://www.steren.com.mx/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Steren La Mejor Tienda de Electrónica en México
 La tienda no funciona correctamente con las cookies desactivadas.
 Ir al contenido Desde
@@ -71,7 +71,7 @@ SKU: AUD-7420
 Precio anterior: $199 00 Ahorra $60 (30%)
 $139 00 $13.90 abonado a tu SterenCard
 En stock
-Elige color Blanco Morado Negro Rosa Negro
+Elige color Blanco Morado (agotado) Negro Rosa Negro
 Agregar al carrito Agregar
 Oferta
 Deshumidificador electrónico con tanque de 900 ml
@@ -88,7 +88,7 @@ SKU: SMW-420
 Precio anterior: $429 00 Ahorra $130 (30%)
 $299 00 $29.90 abonado a tu SterenCard
 En stock
-Elige color Beige Negro Plata Plata Plata
+Elige color Beige Negro Plata Plata
 Agregar al carrito Agregar
 Compra por departamento
 Promociones 228 productos Artículos Exclusivos
@@ -98,7 +98,7 @@ Audio 228 productos
 Smart Home 127 productos
 Seguridad 105 productos
 Casa y oficina 160 productos
-Movilidad (tecnología portátil) 236
+Movilidad (tecnología portátil) 237
 Energía 355
 Iluminación 60
 TV y video 261
@@ -140,7 +140,7 @@ SKU: AUD-7920
 Precio anterior: $399 00 Ahorra $120 (30%)
 $279 00 $27.90 abonado a tu SterenCard
 En stock
-Elige color Blanco (agotado) Negro Negro
+Elige color Blanco Negro Negro
 Agregar al carrito Agregar
 Oferta
 Audífonos Bluetooth* FreePods Crystal Pro TWS touch
@@ -149,7 +149,7 @@ SKU: AUD-7420
 Precio anterior: $199 00 Ahorra $60 (30%)
 $139 00 $13.90 abonado a tu SterenCard
 En stock
-Elige color Blanco Morado Negro Rosa Negro
+Elige color Blanco Morado (agotado) Negro Rosa Negro
 Agregar al carrito Agregar
 Oferta
 Cable USB a DMX 512 para control de iluminación
@@ -267,16 +267,7 @@ SKU: AUD-7920
 Precio anterior: $399 00 Ahorra $120 (30%)
 $279 00 $27.90 abonado a tu SterenCard
 En stock
-Elige color Blanco (agotado) Negro Negro
-Agregar al carrito Agregar
-Oferta
-Smart Watch Bluetooth* Touch AMOLED* con función GPS, 1.4”, 3 ATM, 22 mm
-SKU: SMW-3000
-4.8 (17)
-Precio anterior: $1,390 00 Ahorra $421 (30%)
-$969 00 $96.90 abonado a tu SterenCard
-En stock
-Elige color Azul (agotado) Beige (agotado) Gris Gris
+Elige color Blanco Negro Negro
 Agregar al carrito Agregar
 Oferta
 Cámara de seguridad Wi-Fi* / Ethernet 4 MPx robotizada con seguidor de movimiento, doble banda
@@ -334,4 +325,6 @@ Los términos HDMI, HDMI High-Definition Multimedia Interface, la imagen comerci
 Las marcas identificadas con el símbolo "*" son propiedad de sus respectivos titulares; su uso es exclusivamente informativo y/o referencial y nuestros productos no cuentan con licencia o autorización alguna de las mismas.
 D.R. © 2026 Electrónica Steren, S.A. de C.V. Todos los derechos reservados.
 Menú
-Mi tienda Elige tu tienda 
+Mi tienda Elige tu tienda SterenCard 10% abonado Directorio Tiendas
+OFERTAS TIENDAS Departamentos
+Energía 355 Proyectos de electrónica 327 TV y video 261 Cables 251 Computación 238 Movilidad (tecnología portátil) 237 Audio 228 Promociones 228 Herramientas 163 Casa y oficina 160 Smart Home 127 Seguridad 105 

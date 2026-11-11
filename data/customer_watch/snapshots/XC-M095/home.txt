@@ -1,5 +1,5 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-10T10:04:27Z · HTTP 200
-GOMA ELETTRONICA - Soluzioni Embedded per Edge Computing
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-11T09:37:04Z · HTTP 200
+Soluzioni Embedded per Edge Computing | GOMA
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
 Prodotti Partners Mercati Eventi e News Azienda
@@ -119,13 +119,13 @@ Un catalogo, cinque domini
 Oltre 2.100 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
 Sistemi e Piattaforme
 Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
-Computer Embedded 127
+Computer Embedded 128
 Server, Workstation e PC Industriali 107
 Sistemi su Architetture Aperte 90
-Computer Embedded 127
+Computer Embedded 128
 Server, Workstation e PC Industriali 107
 Sistemi su Architetture Aperte 90
-489 prodotti →
+490 prodotti →
 HMI e Panel PC
 Monitor industriali e rugged, panel PC, tastiere, consolle e cassetti KVM da rack.
 Monitor Industriali 195
@@ -143,7 +143,7 @@ Schede di I/O PCI e PCIe 163
 Moduli Mezzanine 210
 MicroTCA 173
 Schede di I/O PCI e PCIe 163
-913 prodotti →
+918 prodotti →
 Dispositivi Networking
 Switch, router e media converter per reti industriali affidabili.
 Switch Ethernet Industriali 138

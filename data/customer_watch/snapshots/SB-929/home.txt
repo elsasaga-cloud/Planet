@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -141,15 +141,15 @@ FM2600 L2 비관리형 스위치 (1GBps TP 24포트/ 1G SFP 2슬롯)
 더보기
 LIKE IT ! 0
 Sold Out
-탑콘 AT-B2 오토레벨 자동레벨 레벨기 레이저 32배율
-상품요약정보 : 탑콘 AT-B2 오토레벨 자동레벨 레벨기 레이저 32배율
-소비자가 : 900,000원
-판매가 : 883,500원
+대한 광케이블 OM3-48C 커팅 옥외용
+상품요약정보 : 대한광통신에서 다량의 정보를 신속히 보내기 위하여 광섬유로 만든 케이블, 미터당 단가
+소비자가 : 7,400원
+판매가 : 7,400원
 LIKE IT ! 0
 Sold Out
-(생산지연)(단독특가) 솔텍 SFC1200-HDFT POE HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
-상품요약정보 : 4K 3840p×2160p POE IP Extender Port, USB Port, Reset 버튼 전원입력:DC 12V or 802.3af POE PD
-판매가 : 224,400원
+광분배함 랙 SC타입 FDF-RACK-SC (04P / 08P / 12P / 16P / 24P)
+상품요약정보 : 모듈형 구조로 확장성이 좋고 여장관리가 용이! 옵션 4P, 8P, 12P, 16P,24P
+판매가 : 42,900원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC1200-HDF HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
@@ -157,9 +157,19 @@ Sold Out
 판매가 : 280,500원
 LIKE IT ! 0
 Sold Out
-SFC510LRP PoE스위치 롱 리치 PoE 비관리형 스위치
-상품요약정보 : 100Mbps 802.at 30W PoE 8Ports + 100Mbps/1G UTP 1Port + 100M/1G SFP 1Slot
-판매가 : 222,200원
+(생산지연)(단독특가) 솔텍 SFC1200-HDFT POE HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
+상품요약정보 : 4K 3840p×2160p POE IP Extender Port, USB Port, Reset 버튼 전원입력:DC 12V or 802.3af POE PD
+판매가 : 224,400원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
+상품요약정보 : PoE 60W/ 185.5(W) x 123(D) x 44(H)mm
+판매가 : 101,200원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC4000HP 관리형 L2 스위치 (1Gbps PoE 24포트/1G SFP 4슬롯)
+상품요약정보 : 1Gbps SFP 4슬롯(콤보 23, 24) / PoE 380W / 웹기반 매니지먼트 / 439.5(W) x 300(D) x 44(H)mm
+판매가 : 699,600원
 LIKE IT ! 0
 Sold Out
 노벡스 절연장갑 17000V class2 전기작업장갑
@@ -168,31 +178,20 @@ Sold Out
 판매가 : 74,000원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC4000HP 관리형 L2 스위치 (1Gbps PoE 24포트/1G SFP 4슬롯)
-상품요약정보 : 1Gbps SFP 4슬롯(콤보 23, 24) / PoE 380W / 웹기반 매니지먼트 / 439.5(W) x 300(D) x 44(H)mm
-판매가 : 699,600원
+솔텍 SFC510HP 스위치 (1Gbps TP 10포트(PoE 8포트))
+상품요약정보 : 비관리형 / 9, 10포트 Uplink 포트/ PoE 125W/ 280(W) x 180(D) x 44(H)mm
+판매가 : 189,200원
 LIKE IT ! 0
 Sold Out
-인네트워크 IN-800SC 광케이블 커넥터 & 아답터 클리너(SC,ST, FC)
-상품요약정보 : 노즐연장, 커넥터 & 아답터 사용가능,SC/ST/FC Φ2.5mm, 800회 이상
-소비자가 : 16,300원
-판매가 : 13,000원
-LIKE IT ! 0
-Sold Out
-동양유니텍 DPC-018 (8CH) 고정용 전원분배기
-상품요약정보 : - CCTV 주변기기 전원 제어기(8채널)
-판매가 : 190,000원
-LIKE IT ! 0
-Sold Out
-ipTIME AX3004R
-상품요약정보 : AX2700 유무선 공유기 / Dual Band 4포트 WIFI6 지원
-판매가 : 47,600원
-LIKE IT ! 0
-Sold Out
-[제작상품] LC-SC 싱글 광점퍼코드 5m LS-JC-LC/SC-SM-20DPV-050
+[제작상품] LC-SC 싱글 광점퍼코드 3m LS-JC-LC/SC-SM-20DPV-030
 상품요약정보 : 국산 [제작상품] 정품, Single mode, OS2, 9/125㎛, LC/PC-SC/PC, Duplex, 2Core, 1550nm, 직경 2.0mm, PVC OFNR 시험성적서 발급 가능
-소비자가 : 20,200원
-판매가 : 15,500원
+소비자가 : 19,700원
+판매가 : 15,100원
+LIKE IT ! 0
+Sold Out
+랜스타 HDMI 2.1 8K AOC 광케이블 15m LS-H21AOC-15M
+상품요약정보 : HDMI2.1 AOC 케이블 / 8K@60Hz, 4K@120Hz 해상도 지원 / HDMI2.1 전용 기능 지원(ALLM, QFT, DSC 등) / OD 5.2mm / 15M
+판매가 : 31,900원
 FiberMart 특가
 더보기
 LIKE IT ! 0
@@ -440,6 +439,12 @@ Sold Out
 고객 만족 리뷰
 먼저 사용해본 분들의 후기를 확인해보세요
 더보기
+좋은 제품 빠른 배송 감사드립니다.
+(2026-11-10 에 등록된 네이버 페이 구매평)
+(생산지연)(단독특가) 솔텍 SFC1200-HDFT POE HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
+좋은 제품 저렴한 가격 감사드립니다.
+(2026-11-10 에 등록된 네이버 페이 구매평)
+(생산지연)(단독특가) 솔텍 SFC1200-HDFT POE HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
 불만족
 생각 보다 선이 많이 굵고 열이 발생해서 쓰기가 불편합니다.
 (2026-11-09 에 등록된 네이버 페이 구매평)
@@ -469,13 +474,6 @@ APC UPS 정품 교체 배터리 (RBC6)
 좋은상품 빠른배송 감사합니다~
 (2026-10-27 에 등록된 네이버 페이 구매평)
 시스템베이스 USB 2.0 to RS232 변환, 4포트 [Multi-4/USB 232 V1.7]
-가성비 좋습니다. 물론 다른 용도로 쓰고 있지만.
-(2026-10-24 에 등록된 네이버 페이 구매평)
-에시르 SG-IB601D DB-600D 가변 60-120CM 천정형 알루미늄 브라켓
-만족
-간편하고 활용도가 높습니다
-(2026-10-21 에 등록된 네이버 페이 구매평)
-하이브로 H700 전동드라이버 USB충전식 HYBRO 비트세트포함
 문의 및 상담
 {#imgTag_1}
 {#imgTag_2}

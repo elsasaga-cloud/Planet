@@ -1,180 +1,185 @@
-# SC-185 dasannetworks.com · sitemap · https://dasannetworks.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-185 dasannetworks.com · sitemap · https://dasannetworks.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 	https://www.dasannetworks.com/
-	https://www.dasannetworks.com/index.php
+	https://www.dasannetworks.com/en/
 	https://www.dasannetworks.com/sub/sub01_01.php
-	https://www.dasannetworks.com/sub/sub01_02.php
-	https://www.dasannetworks.com/sub/sub01_03.php
-	https://www.dasannetworks.com/sub/sub01_04.php
-	https://www.dasannetworks.com/sub/sub01_05.php
-	https://www.dasannetworks.com/sub/sub01_06.php
-	https://www.dasannetworks.com/sub/sub02_01_01.php
-	https://www.dasannetworks.com/sub/sub02_01_02.php?cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_05.php
-	https://www.dasannetworks.com/sub/sub02_01_06.php
-	https://www.dasannetworks.com/sub/sub02_01_07.php
-	https://www.dasannetworks.com/sub/sub02_02_01.php
-	https://www.dasannetworks.com/sub/sub02_02_02.php
-	https://www.dasannetworks.com/sub/sub02_02_03.php
-	https://www.dasannetworks.com/sub/sub02_02_04.php
-	https://www.dasannetworks.com/sub/sub02_02_05.php
-	https://www.dasannetworks.com/sub/sub02_03_01_01.php
-	https://www.dasannetworks.com/sub/sub02_03_02_01.php
-	https://www.dasannetworks.com/sub/sub03_01.php
-	https://www.dasannetworks.com/sub/sub03_02_01.php
-	https://www.dasannetworks.com/sub/sub03_02_02.php
-	https://www.dasannetworks.com/sub/sub03_02_03.php
-	https://www.dasannetworks.com/sub/sub03_03.php
-	https://www.dasannetworks.com/sub/sub03_04_02.php
-	https://www.dasannetworks.com/sub/sub03_04.php
-	https://www.dasannetworks.com/sub/sub03_05.php
-	https://www.dasannetworks.com/sub/sub03_05_02.php
-	https://www.dasannetworks.com/sub/sub04_01.php
-	https://www.dasannetworks.com/sub/sub04_02.php
-	https://www.dasannetworks.com/sub/sub04_03.php
-	https://www.dasannetworks.com/sub/sub05_01.php
-	https://www.dasannetworks.com/sub/sub05_02_01.php
-	https://www.dasannetworks.com/sub/sub05_02_02.php
-	https://www.dasannetworks.com/sub/sub05_03.php
-	https://www.dasannetworks.com/sub/sub05_04.php
-	https://www.dasannetworks.com/sub/sub05_05_01.php
-	https://www.dasannetworks.com/sub/sub05_05_02.php
-	https://www.dasannetworks.com/en/index.php
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=12&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=11&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=9&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=8&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=7&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=6&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=5&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=4&category=2023
-	https://www.dasannetworks.com/sub/sub03_04_02.php?boardid=press&mode=view&idx=2&category=2023
-	https://www.dasannetworks.com/sub/pop_privacy.html
-	https://www.dasannetworks.com/sub/pop_email.html
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=57&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=56&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=55&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=54&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=53&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=52&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=50&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=51&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=49&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=48&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=46&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=45&cat_no=1
-	https://www.dasannetworks.com/sub/sub02_01_02.php?cat_no=1&sw=&sk=&st=&etc_10=&offset=12
-	https://www.dasannetworks.com/sub/sub02_01_02.php?cat_no=1&sw=&sk=&st=&etc_10=&offset=24
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=77&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=76&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=36&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=32&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=34&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=39&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=37&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=30&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=28&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=27&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=26&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=25&cat_no=2
-	https://www.dasannetworks.com/sub/sub02_01_02.php?cat_no=2&sw=&sk=&st=&etc_10=&offset=12
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=72&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=73&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=74&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=69&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=70&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=71&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=21&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=20&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=19&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=18&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=13&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=11&cat_no=3
-	https://www.dasannetworks.com/sub/sub02_01_02.php?cat_no=3&sw=&sk=&st=&etc_10=&offset=12
-	https://www.dasannetworks.com/sub/sub02_01_07.php?boardid=n_lib&mode=view&idx=2&sk=&sw=&offset=&category=
-	https://www.dasannetworks.com/sub/sub02_01_07.php?boardid=n_lib&mode=view&idx=3&sk=&sw=&offset=&category=
-	https://www.dasannetworks.com/pdf_down.php?idx=6&p_name=%EB%B0%B1%EB%B3%B8%20%EC%8A%A4%EC%9C%84%EC%B9%98
-	https://www.dasannetworks.com/sub/sub02_03_01_02_01.php
-	https://www.dasannetworks.com/sub/sub02_03_01_02_02.php
-	https://www.dasannetworks.com/sub/sub02_03_01_02_03.php
-	https://www.dasannetworks.com/sub/sub02_03_01_03_01.php
-	https://www.dasannetworks.com/sub/sub02_03_01_03_02.php
-	https://www.dasannetworks.com/sub/sub02_03_01_03_03.php
-	https://www.dasannetworks.com/sub/sub02_03_01_04.php
-	https://www.dasannetworks.com/sub/sub02_03_02_02.php
-	https://www.dasannetworks.com/sub/sub02_03_02_03_01.php
-	https://www.dasannetworks.com/sub/sub02_03_02_03_02.php
-	https://www.dasannetworks.com/sub/sub02_03_02_03_03.php
-	https://www.dasannetworks.com/sub/sub02_03_02_04.php
-	https://www.dasannetworks.com/sub/sub03_01.php?page=2
-	https://www.dasannetworks.com/sub/sub03_01.php?page=3
-	https://www.dasannetworks.com/sub/sub03_01.php?page=4
-	https://www.dasannetworks.com/sub/sub03_01.php?page=5
-	https://www.dasannetworks.com/sub/sub03_01.php?page=6
-	https://www.dasannetworks.com/sub/sub03_01.php?page=7
-	https://www.dasannetworks.com/sub/sub03_03.php?category=2023
-	https://www.dasannetworks.com/sub/sub03_03.php?category=2022
-	https://www.dasannetworks.com/sub/sub03_03.php?category=2021
-	https://www.dasannetworks.com/sub/sub03_03.php?category=2020
-	https://www.dasannetworks.com/sub/sub03_03.php?boardid=gonggo&mode=view&idx=5&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_03.php?boardid=gonggo&mode=view&idx=4&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_03.php?boardid=gonggo&mode=view&idx=3&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_03.php?boardid=gonggo&mode=view&idx=2&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04_02.php?category=2023
-	https://www.dasannetworks.com/sub/sub03_04_02.php?category=2022
-	https://www.dasannetworks.com/sub/sub03_04_02.php?category=2021
-	https://www.dasannetworks.com/sub/sub03_04_02.php?category=2020
-	https://www.dasannetworks.com/sub/sub03_04_02.php?boardid=press2&mode=view&idx=2&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?category=2022
-	https://www.dasannetworks.com/sub/sub03_04.php?category=2021
-	https://www.dasannetworks.com/sub/sub03_04.php?category=2020
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=12&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=11&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=9&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=8&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=7&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=6&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=5&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_04.php?boardid=press&mode=view&idx=4&sk=&sw=&offset=&category=2023
-	https://www.dasannetworks.com/sub/sub03_05.php?boardid=ir&mode=view&idx=2&sk=&sw=&offset=&category=
-	https://www.dasannetworks.com/sub/sub03_05.php?boardid=ir&mode=view&idx=1&sk=&sw=&offset=&category=
-	https://www.dasannetworks.com/sub/sub04_01.php?cat_no=&list_7=N&model=1
-	https://www.dasannetworks.com/sub/sub04_01.php?cat_no=&list_7=N&model=1&sk=
-	https://www.dasannetworks.com/sub/sub04_01.php?cat_no=&list_7=Y&model=1&sk=
-	https://www.dasannetworks.com/sub/sub04_01.php?cat_no=&list_7=N&model=2&sk=
-	https://www.dasannetworks.com/sub/sub04_01.php?mode=view&cat_no=0&idx=2&offset=
-	https://www.dasannetworks.com/sub/sub04_01.php?cat_no=&list_8=&model=1&scale=1200
 	https://www.dasannetworks.com/en/sub/sub01_01.php
+	https://www.dasannetworks.com/sub/sub01_02.php
 	https://www.dasannetworks.com/en/sub/sub01_02.php
+	https://www.dasannetworks.com/sub/sub01_03.php
 	https://www.dasannetworks.com/en/sub/sub01_03.php
+	https://www.dasannetworks.com/sub/sub01_04.php
 	https://www.dasannetworks.com/en/sub/sub01_04.php
+	https://www.dasannetworks.com/sub/sub01_05.php
 	https://www.dasannetworks.com/en/sub/sub01_05.php
+	https://www.dasannetworks.com/sub/sub01_06.php
 	https://www.dasannetworks.com/en/sub/sub01_06.php
+	https://www.dasannetworks.com/sub/sub02_01_01.php
 	https://www.dasannetworks.com/en/sub/sub02_01_01.php
-	https://www.dasannetworks.com/en/sub/sub02_01_02.php?cat_no=1
-	https://www.dasannetworks.com/en/sub/sub02_01_02.php?cat_no=2
-	https://www.dasannetworks.com/en/sub/sub02_01_02.php?cat_no=3
+	https://www.dasannetworks.com/sub/sub02_01_02.php
+	https://www.dasannetworks.com/en/sub/sub02_01_02.php
+	https://www.dasannetworks.com/sub/sub02_01_05.php
 	https://www.dasannetworks.com/en/sub/sub02_01_05.php
+	https://www.dasannetworks.com/sub/sub02_01_06.php
 	https://www.dasannetworks.com/en/sub/sub02_01_06.php
+	https://www.dasannetworks.com/sub/sub02_01_07.php
 	https://www.dasannetworks.com/en/sub/sub02_01_07.php
+	https://www.dasannetworks.com/sub/sub02_02_01.php
 	https://www.dasannetworks.com/en/sub/sub02_02_01.php
+	https://www.dasannetworks.com/sub/sub02_02_02.php
 	https://www.dasannetworks.com/en/sub/sub02_02_02.php
+	https://www.dasannetworks.com/sub/sub02_02_03.php
 	https://www.dasannetworks.com/en/sub/sub02_02_03.php
+	https://www.dasannetworks.com/sub/sub02_02_04.php
 	https://www.dasannetworks.com/en/sub/sub02_02_04.php
+	https://www.dasannetworks.com/sub/sub02_02_05.php
 	https://www.dasannetworks.com/en/sub/sub02_02_05.php
+	https://www.dasannetworks.com/sub/sub02_03_01_01.php
 	https://www.dasannetworks.com/en/sub/sub02_03_01_01.php
+	https://www.dasannetworks.com/sub/sub02_03_01_02_01.php
+	https://www.dasannetworks.com/en/sub/sub02_03_01_02_01.php
+	https://www.dasannetworks.com/sub/sub02_03_01_02_02.php
+	https://www.dasannetworks.com/en/sub/sub02_03_01_02_02.php
+	https://www.dasannetworks.com/sub/sub02_03_01_02_03.php
+	https://www.dasannetworks.com/en/sub/sub02_03_01_02_03.php
+	https://www.dasannetworks.com/sub/sub02_03_01_03_01.php
+	https://www.dasannetworks.com/en/sub/sub02_03_01_03_01.php
+	https://www.dasannetworks.com/sub/sub02_03_01_03_02.php
+	https://www.dasannetworks.com/en/sub/sub02_03_01_03_02.php
+	https://www.dasannetworks.com/sub/sub02_03_01_03_03.php
+	https://www.dasannetworks.com/en/sub/sub02_03_01_03_03.php
+	https://www.dasannetworks.com/sub/sub02_03_01_04.php
+	https://www.dasannetworks.com/en/sub/sub02_03_01_04.php
+	https://www.dasannetworks.com/sub/sub02_03_02_01.php
 	https://www.dasannetworks.com/en/sub/sub02_03_02_01.php
+	https://www.dasannetworks.com/sub/sub02_03_02_02.php
+	https://www.dasannetworks.com/en/sub/sub02_03_02_02.php
+	https://www.dasannetworks.com/sub/sub02_03_02_03_01.php
+	https://www.dasannetworks.com/en/sub/sub02_03_02_03_01.php
+	https://www.dasannetworks.com/sub/sub02_03_02_03_02.php
+	https://www.dasannetworks.com/en/sub/sub02_03_02_03_02.php
+	https://www.dasannetworks.com/sub/sub02_03_02_03_03.php
+	https://www.dasannetworks.com/en/sub/sub02_03_02_03_03.php
+	https://www.dasannetworks.com/sub/sub02_03_02_04.php
+	https://www.dasannetworks.com/en/sub/sub02_03_02_04.php
+	https://www.dasannetworks.com/sub/sub03_01.php
 	https://www.dasannetworks.com/en/sub/sub03_01.php
+	https://www.dasannetworks.com/sub/sub03_02_01.php
 	https://www.dasannetworks.com/en/sub/sub03_02_01.php
+	https://www.dasannetworks.com/sub/sub03_02_02.php
+	https://www.dasannetworks.com/en/sub/sub03_02_02.php
+	https://www.dasannetworks.com/sub/sub03_02_03.php
+	https://www.dasannetworks.com/en/sub/sub03_02_03.php
+	https://www.dasannetworks.com/sub/sub03_03.php
 	https://www.dasannetworks.com/en/sub/sub03_03.php
+	https://www.dasannetworks.com/sub/sub03_04.php
+	https://www.dasannetworks.com/en/sub/sub03_04.php
+	https://www.dasannetworks.com/sub/sub03_04_02.php
 	https://www.dasannetworks.com/en/sub/sub03_04_02.php
+	https://www.dasannetworks.com/sub/sub03_05.php
 	https://www.dasannetworks.com/en/sub/sub03_05.php
+	https://www.dasannetworks.com/sub/sub03_05_02.php
+	https://www.dasannetworks.com/en/sub/sub03_05_02.php
+	https://www.dasannetworks.com/sub/sub04_01.php
 	https://www.dasannetworks.com/en/sub/sub04_01.php
+	https://www.dasannetworks.com/sub/sub04_02.php
 	https://www.dasannetworks.com/en/sub/sub04_02.php
+	https://www.dasannetworks.com/sub/sub04_03.php
 	https://www.dasannetworks.com/en/sub/sub04_03.php
+	https://www.dasannetworks.com/sub/sub05_01.php
 	https://www.dasannetworks.com/en/sub/sub05_01.php
+	https://www.dasannetworks.com/sub/sub05_02_01.php
 	https://www.dasannetworks.com/en/sub/sub05_02_01.php
+	https://www.dasannetworks.com/sub/sub05_02_02.php
+	https://www.dasannetworks.com/en/sub/sub05_02_02.php
+	https://www.dasannetworks.com/sub/sub05_03.php
 	https://www.dasannetworks.com/en/sub/sub05_03.php
-	https://www
+	https://www.dasannetworks.com/sub/sub05_04.php
+	https://www.dasannetworks.com/en/sub/sub05_04.php
+	https://www.dasannetworks.com/sub/sub05_05_01.php
+	https://www.dasannetworks.com/en/sub/sub05_05_01.php
+	https://www.dasannetworks.com/sub/sub05_05_02.php
+	https://www.dasannetworks.com/en/sub/sub05_05_02.php
+2026-07-20	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=159
+2026-07-20	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=159
+2026-01-28	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=158
+2026-01-28	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=158
+2026-01-28	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=157
+2026-01-28	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=157
+2026-01-28	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=156
+2026-01-28	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=156
+2026-01-28	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=155
+2026-01-28	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=155
+2026-01-28	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=154
+2026-01-28	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=154
+2026-01-28	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=153
+2026-01-28	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=153
+2026-01-27	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=152
+2026-01-27	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=152
+2026-01-27	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=151
+2026-01-27	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=151
+2026-01-27	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=150
+2026-01-27	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=150
+2026-01-27	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=149
+2026-01-27	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=149
+2026-01-23	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=148
+2026-01-23	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=148
+2026-01-23	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=147
+2026-01-23	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=147
+2026-01-23	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=145
+2026-01-23	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=145
+2026-01-12	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=144
+2026-01-12	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=144
+2026-01-12	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=143
+2026-01-12	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=143
+2025-11-05	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=139
+2025-11-05	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=139
+2025-11-04	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=138
+2025-11-04	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=138
+2025-11-04	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=137
+2025-11-04	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=137
+2025-11-04	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=136
+2025-11-04	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=136
+2025-11-04	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=135
+2025-11-04	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=135
+2025-11-04	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=134
+2025-11-04	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=134
+2025-11-04	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=133
+2025-11-04	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=133
+2025-02-03	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=132
+2025-02-03	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=132
+2024-10-22	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=131
+2024-10-22	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=131
+2024-07-25	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=130
+2024-07-25	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=130
+2024-04-22	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=128
+2024-04-22	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=128
+2024-04-22	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=127
+2024-04-22	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=127
+2024-04-22	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=126
+2024-04-22	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=126
+2024-04-12	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=125
+2024-04-12	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=125
+2024-04-12	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=124
+2024-04-12	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=124
+2024-04-12	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=123
+2024-04-12	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=123
+2024-04-12	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=122
+2024-04-12	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=122
+2024-04-12	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=121
+2024-04-12	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=121
+2024-04-02	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=120
+2024-04-02	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=120
+2024-03-27	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=119
+2024-03-27	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=119
+2024-03-27	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=118
+2024-03-27	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=118
+2024-03-27	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=117
+2024-03-27	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=117
+2024-03-26	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=113
+2024-03-26	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=113
+2024-03-26	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=112
+2024-03-26	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mode=view&idx=112
+2024-02-29	https://www.dasannetworks.com/sub/sub02_02_03.php?mode=view&idx=106
+2024-02-29	https://www.dasannetworks.com/en/sub/sub02_02_03.php?mode=view&idx=106
+2024-01-29	https://www.dasannetworks.com/sub/sub02_01_02.php?mode=view&idx=104
+2024-01-29	https://www.dasannetworks.com/en/sub/sub02_01_02.php?mo

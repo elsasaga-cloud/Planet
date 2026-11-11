@@ -1,4 +1,4 @@
-# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-09T09:57:20Z · HTTP 200
+# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России
 РЕГИСТРИРУЙСЯ И ПОЛУЧИ СКИДКУ СЕЙЧАС
 ×
@@ -294,7 +294,7 @@ Ubiquiti UniFi 5G Max Outdoor — Мощный уличный 5G-модемОб�
 Модель: U7-Outdoor
 Точка доступа Ubiquiti UniFi U7 Outdoor (U7-Outdoor)
 Ubiquiti U7 Outdoor — Точка доступа Wi‑Fi 7 (UniFi)ОбзорU7 Outdoor — это мощная уличная точка доступа Wi‑Fi 7 от Ubiquiti Inc., созданная для развёрты..
-27500 руб.
+26100 руб.
 В корзину ">
 В корзину
 В закладки
@@ -379,7 +379,7 @@ Ubiquiti airMAX AC RocketDish 5 ГГц 31 дБи (RD-5G31-AC) — парабол
 Модель: USW-WAN
 Коммутатор Ubiquiti UniFi WAN Switch (USW-WAN)
 Ubiquiti UniFi Switch WAN (USW-WAN) — модуль для резервирования WAN с 3 портами 10G SFP+ и двумя блоками питанияОбзорUbiquiti UniFi Switch WAN (USW-WA..
-35500 руб.
+36300 руб.
 В корзину ">
 В корзину
 В закладки
@@ -434,10 +434,8 @@ Ubiquiti UniFi Dream Machine Pro (UDM-Pro) — Корпоративное сет
 Точка доступа UBIQUITI UniFi U7 Pro Outdoor (U7-Pro-Outdoor)
 Ubiquiti U7-Pro-Outdoor — Всепогодная точка доступа Wi‑Fi 7 (UniFi)ОбзорU7-Pro-Outdoor — высокопроизводительная всепогодная точка доступа Wi‑Fi 7 от U..
 39400 руб.
-Купить сейчас ">
-Купить сейчас
-По запросу ">
-По запросу
+В корзину ">
+В корзину
 В закладки
 В сравнение
 Быстрый просмотр
@@ -483,10 +481,8 @@ Ubiquiti PowerBeam M2 400 (PBE-M2-400) — направленная антенн
 Точка доступа Ubiquiti UniFi U6 Pro (U6-Pro)
 Ubiquiti U6 Professional (U6-Pro) — Высокопроизводительная точка доступа WiFi 6 (UniFi)ОбзорU6 Professional (U6-Pro) — это высокопроизводительная точк..
 20100 руб.
-Купить сейчас ">
-Купить сейчас
-По запросу ">
-По запросу
+В корзину ">
+В корзину
 В закладки
 В сравнение
 Быстрый просмотр
@@ -510,4 +506,9 @@ Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE) — Управляемый L2-
 MikroTik hAP ax Lite (L41G-2axD)
 MikroTik hAP ax lite (L41G-2axD) — Компактный Wi-Fi 6 роутер с RouterOS v7, 4 гигабитными портами и питанием USB-CОбзорMikroTik hAP ax lite — это идеа..
 5800 руб.
-Купить
+Купить сейчас ">
+Купить сейчас
+По запросу ">
+По запросу
+В закладки
+В сра

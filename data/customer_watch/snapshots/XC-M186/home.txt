@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-10T10:04:27Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-11T09:37:04Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -512,6 +512,7 @@ Raytec
 Recogtech
 RISCO
 Rosslare
+SmartSD
 STid
 Vauban Systems
 Monitors
@@ -1198,20 +1199,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Hikvision HCSA-CCTV Certification Training
-10 November
-@ SmartSD Merchtem (BE)
-18 November
-@ SmartSD Breda (NL)
-2 December
-@ SmartSD Merchtem (BE)
-2N CIP Certified Training
-10 November
-@ SmartSD Lisses (FR)
-24 November
-@ SmartSD Breda (NL)
-10 December
-@ SmartSD Merchtem (BE)
 Dahua Basic Training & Hands-on
 11 November
 @ SmartSD Breda (NL)
@@ -1249,6 +1236,11 @@ Stid Secard training
 @ SmartSD Merchtem (BE)
 18 November
 @ SmartSD Merchtem (BE)
+Hikvision HCSA-CCTV Certification Training
+18 November
+@ SmartSD Breda (NL)
+2 December
+@ SmartSD Merchtem (BE)
 Acre ACTpro Access Control
 19 November
 @ SmartSD Breda (NL)
@@ -1283,6 +1275,13 @@ Bandit Fog Generators
 4 December
 @ SmartSD Merchtem (BE)
 18 December
+@ SmartSD Breda (NL)
+2N CIP Certified Training
+24 November
+@ SmartSD Breda (NL)
+10 December
+@ SmartSD Merchtem (BE)
+12 January
 @ SmartSD Breda (NL)
 acre Access Control Basics
 25 November

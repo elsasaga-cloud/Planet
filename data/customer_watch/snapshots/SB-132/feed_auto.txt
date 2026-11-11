@@ -1,11 +1,48 @@
-# SB-132 F.A.S.T · feed_auto · https://www.fasttr.com/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
-Mon, 13 Jan 2020 10:29:32 +0000	2020 yılı FAST Bayi Toplantısı Gerçekleşti	https://www.fasttr.com/konyada-fasta-yogun-ilgi-2/
-Tue, 16 Apr 2019 16:08:33 +0000	Konya’da FAST’a Yoğun İlgi!	https://www.fasttr.com/konyada-fasta-yogun-ilgi/
-Tue, 16 Apr 2019 15:56:38 +0000	FAST İstanbul’da Bayileriyle Bir Araya Geldi	https://www.fasttr.com/fast-istanbulda-bayileriyle-bir-araya-geldi/
-Tue, 05 Mar 2019 07:52:09 +0000	Ege’de ‘Değişim’e İlgi Büyüktü…	https://www.fasttr.com/egede-degisime-ilgi-buyuktu/
-Mon, 17 Dec 2018 13:08:57 +0000	RENU Mühendislik Departmanı Yöneticileri F.A.S.T.’ı Ziyaret Etti	https://www.fasttr.com/renu-muhendislik-departmani-yoneticileri-f-a-s-t-i-ziyaret-etti/
-Mon, 03 Dec 2018 13:16:50 +0000	Bursa’dan Değişime Tam Destek!	https://www.fasttr.com/bursadan-degisime-tam-destek/
-Mon, 22 Jan 2018 18:08:07 +0000	FAST’ta “Değişim Eğitimle Başlıyor!”	https://www.fasttr.com/fastta-degisim-egitimle-basliyor/
-Mon, 22 Jan 2018 18:07:51 +0000	FAST TV’de Yüzlerce Video Yayında!	https://www.fasttr.com/fast-tvde-yuzlerce-video-yayinda/
-Mon, 22 Jan 2018 18:07:39 +0000	FAST Forum Yeniden Yayında!	https://www.fasttr.com/fast-forum-yeniden-yayinda/
-Mon, 22 Jan 2018 18:07:14 +0000	FAST bilgilendirme toplantısı yaptı	https://www.fasttr.com/fast-bilgilendirme-toplantisi-yapti/
+# SB-132 F.A.S.T · feed_auto · https://www.fasttr.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 404
+Fasttr
+https://www.fasttr.com
+Fabrika Aygıtları Sistem Teknolojisi
+Sun, 01 Nov 2026  +0000
+tr-TR
+hourly
+1
+https://wordpress.org/?v=4.9.4
+2020 yılı FAST Bayi Toplantısı Gerçekleşti
+https://www.fasttr.com/konyada-fasta-yogun-ilgi-2/
+https://www.fasttr.com/konyada-fasta-yogun-ilgi-2/#respond
+Mon, 13 Jan 2020  +0000
+http://www.fasttr.com/?p=3984
+FAST, 2020 yılı bayi toplantısında iş ortakları ile bir araya geldi.
+FAST, 2020 yılı bayi toplantısı 11 Ocak Cumartesi günü Ağaoğlu My City Otel’de gerçekleşti. FAST yetkilileri yaptığı sunumda 2020 yılı satış ve hedef stratejileri ile yeni ürünler hakkında bilgilendirmeler yaptı. Türkiye genelinde faaliyet gösteren bayilerin katılımı ile gerçekleşen top-lantıda hedefler ve otomasyon sektöründeki gelişmeler gibi birçok konu hakkında değerlendirmeler yapıldı.
+]]>
+https://www.fasttr.com/konyada-fasta-yogun-ilgi-2/feed/
+0
+Konya’da FAST’a Yoğun İlgi!
+https://www.fasttr.com/konyada-fasta-yogun-ilgi/
+https://www.fasttr.com/konyada-fasta-yogun-ilgi/#respond
+Tue, 16 Apr 2019  +0000
+http://www.fasttr.com/?p=3840
+Fabrika Ayarları Sistem Teknolojileri A.Ş. (FAST), TÜYAP Konya Fuarcılık tarafından Takım Tezgahları Sanayici ve İş İnsanları Derneği (Tİ AD) iş birliğiyle düzenlenen Konya Maktek Fuarı’na Konya ve Karaman bayisi Mat Otomasyon ile yer aldı. Fuarda, FAST standına gösterilen yoğun ilgi dikkat çekti.
+TÜYAP Konya Fuarcılık tarafından Takım Tezgahları Sanayici ve İş İnsanları Derneği (TİAD) iş birliğiyle düzenlenen Konya Maktek Fuarı’nı, Türkiye’den ve 47 ülkeden yaklaşık 30 bin ziyaretçinin gezdiği açıklandı. 10-13 Nisan’da gerçekleştirilen Konya Maktek Fuarı’nda, Fabrika Ayarları Sistem Teknolojileri A.Ş. (FAST) bayisi Mat Otomasyon, makine teknolojileri alanında en yeni ürünlerini sergiledi.
+Bu yıl ilk kez düzenlenen, 47 ülkeden ve Türkiye’nin 66 kentinden 29 bin 753 ziyaretçiyi ağırlayan Konya Maktek Fuarı’nda, yurt içinde ve yurt dışında makine sektöründe faaliyet gösteren iş insanları ve sektör temsilcileri, FAST standında son teknolojileri görme fırsatı buldu.
+Kuruluş tarihinden itibaren adından söz ettirmeyi başaran FAST ve Bayileri, otomasyon pazarının önde gelen Meanwell, Shihlin, Renu ve Texcomputer markalarını Türkiye pazarıyla buluşturuyor.
+Mat Otomasyon, fuar boyunca önemli görüşmeler gerçekleştirdiklerini ve Fuar sonrası yapılan değerlendirmede görüşmelerinin oldukça verimli geçtiğine vurgu yaptı.
+]]>
+https://www.fasttr.com/konyada-fasta-yogun-ilgi/feed/
+0
+FAST İstanbul’da Bayileriyle Bir Araya Geldi
+https://www.fasttr.com/fast-istanbulda-bayileriyle-bir-araya-geldi/
+https://www.fasttr.com/fast-istanbulda-bayileriyle-bir-araya-geldi/#respond
+Tue, 16 Apr 2019  +0000
+http://www.fasttr.com/?p=3837
+Fabrika Ayarları Sistem Teknolojileri A.Ş. (FAST), bayi toplantısı 6 Nisan Cumartesi günü Ağaoğlu My City Otel‘de gerçekleşti. FAST Genel Müdürü Şener Üstbaş yaptığı sunumlarda 2019 yılı satış ve hedef stratejileri ile yeni ürünler hakkında bilgilendirmeler yaptı. Türkiye genelinde faaliyet gösteren bayilerin katılımı ile gerçekleşen toplantıda bayilerden beklenenler, yaşanılan sorunlar ve bayilerin performansları gibi birçok konu hakkında görüşüldü. Toplantıda son derece cazip bulunan yeni ürünlerin kullanım kolaylıkları, rakiplerle karşılaştırmalı olarak üstünlük yaratan ürün özellikleri ve fiyat avantajlarının altı çizildi.
+]]>
+https://www.fasttr.com/fast-istanbulda-bayileriyle-bir-araya-geldi/feed/
+0
+Ege’de ‘Değişim’e İlgi Büyüktü…
+https://www.fasttr.com/egede-degisime-ilgi-buyuktu/
+https://www.fasttr.com/egede-degisime-ilgi-buyuktu/#respond
+Tue, 05 Mar 2019  +0000
+http://www.fasttr.com/?p=3827
+Fabrika Aygıtları Sistem Teknolojileri A.Ş. (FAST) olarak Geleceğin Endüstriyel Teknolojileri Fuarı çatısı altında düzenlenen FIT Otomasyon Fuarı 2019’da yerimizi aldık. 21-24 Şubat tarihleri arasında İzmir’de gerçekleşen fuarda standımız büyük ilgi gördü.
+Geleceğin Endüstriyel Teknolojileri Fuarı, başlangıç olarak Ege Bölgesi’ndeki en b üyük ve en kapsamlı fuar kompleksi olan Fuar İzmir’de gerçe

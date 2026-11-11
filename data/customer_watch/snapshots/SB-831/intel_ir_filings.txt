@@ -1,4 +1,4 @@
-# SB-831 actelis.com · intel_ir_filings · https://ir.actelis.com/sec-filings/all-sec-filings · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-831 actelis.com · intel_ir_filings · https://ir.actelis.com/sec-filings/all-sec-filings · fetched 2026-11-11T09:37:04Z · HTTP 200
 All SEC Filings :: Actelis Networks, Inc. (ASNS)
 Skip to main content
 Skip to section navigation
@@ -115,6 +115,21 @@ Description
 PDF
 XBRL
 Pages
+11/10/26
+8-K
+Current report
+Documents expand_more
+EX-99.1
+7
+11/10/26
+10-Q
+Quarterly report [Sections 13 or 15(d)]
+Documents expand_more
+EX-31.1
+EX-31.2
+EX-32.1
+EX-32.2
+26
 10/15/26
 8-K
 Current report
@@ -144,14 +159,6 @@ EX-32.2
 8-K
 Current report
 2
-07/27/26
-4
-Statement of changes in beneficial ownership of securities
-1
-07/16/26
-DEFA14A
-Additional definitive proxy soliciting materials and Rule 14(a)(12) material
-3
 rss_feed Filing RSS
 Page 1
 Page 2

@@ -1,6 +1,9 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-11T09:37:04Z · HTTP 200
+11.11.2026 10.21.50	Preterm SM G24 QXAI LC/UPC-SC/UPC 22 m	https://www.fiberworks.no/fiberworks-as/pk-y24lt-lcu-scu-022/preterm-sm-g24-qxai-lc-upc-sc-upc-22-m-9-os2-g-dot-657-dot-a1-900%c2%b5m-haler-l1-8-1-8-m
+11.11.2026 10.12.06	Preterm SM G24 QXAI LC/UPC-LC/UPC 22 m	https://www.fiberworks.no/fiberworks-as/pk-y24lt-lcu-lcu-022/preterm-sm-g24-qxai-lc-upc-lc-upc-22-m-9-os2-g-dot-657-dot-a1-900%c2%b5m-haler-l1-8-1-8-m
+10.11.2026 12.31.46	SFP, 1.25 Gbps GigE, DDM, 550m, Rugged	https://www.fiberworks.no/fiberworks-as/sfp-1000basesxrgd-we/sfp-1-dot-25-gbps-gige-ddm-550m-rugged-850nm-9db-mm-westermo
 10.11.2026 10.32.40	ICS-2400 Industrial Serial Devive Server	https://www.fiberworks.no/planet/mc-planet-ics-2400t/ics-2400-industrial-serial-devive-server-4x-rs232-rs422-rs485-db-9-to-2x-rj45
-10.11.2026 10.28.13	Trunk SM 2xMPO12/APC(f)/(f) Pol. A 40 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fam1f-40/trunk-sm-2xmpo12-apcf-f-pol-a-40-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
+10.11.2026 10.28.13	Trunk SM 2xMPO12/APC(f)/(f) Pol. A 40 m	https://www.fiberworks.no/fiberworks-as/p-a1-m4y-2m1fam1f-40/trunk-sm-2xmpo12-apcf-f-pol-dot--a-40-m-9-os2-g-dot-657-dot-a1-2x-base-12-gul-elite
 09.11.2026 22.20.28	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-4m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-4-meter-fiberworks
 09.11.2026 22.16.46	QSFP28 to 4 SFP28 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28d-1-dot-5-u/qsfp28-to-4-sfp28-twinax-cable-dac-100gbase-cr4-passive-1-dot-5-m-fiberworks
 09.11.2026 22.13.09	QSFP28 to 4 SFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28a-15m-u/qsfp28-to-4-sfp28-active-optical-cable-100gbase-sr4-aoc-15-meter-fiberworks
@@ -59,8 +62,4 @@
 27.10.2026 08.59.52	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-j/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-juniper
 27.10.2026 08.58.46	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-sp/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-spesial
 27.10.2026 08.54.38	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-u/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-fiberworks
-27.10.2026 08.54.36	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28-aoc/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g
-26.10.2026 13.19.32	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-1m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-1m-juniper
-26.10.2026 13.12.37	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2-dot-5m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2-dot-5m-juniper
-26.10.2026 10.02.09	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2m-j/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2m-juniper
-26.10.2026 08.54
+27.10.2026 08.54.36	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28-aoc/qsfp-dd-to-4qsfp28-active-opt

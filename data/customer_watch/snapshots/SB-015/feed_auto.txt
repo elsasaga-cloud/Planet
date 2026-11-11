@@ -1,4 +1,4 @@
-# SB-015 suministros-industriales.es · feed_auto · https://suministros-industriales.es/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-015 suministros-industriales.es · feed_auto · https://suministros-industriales.es/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Mon, 02 Nov 2026 09:44:51 +0000	Actuadores eléctricos: 5 errores habituales al elegirlos para una instalación industrial	https://suministros-industriales.es/actuadores-electricos-5-errores-habituales-al-elegirlos/
 Mon, 19 Oct 2026 09:40:00 +0000	¿Se calienta demasiado tu cuadro eléctrico? Cómo prevenir fallos en la automatización industrial	https://suministros-industriales.es/se-calienta-demasiado-tu-cuadro-electrico/
 Mon, 05 Oct 2026 09:37:00 +0000	¿Por qué se para una máquina industrial? 6 componentes que conviene revisar antes de una avería	https://suministros-industriales.es/por-que-se-para-una-maquina-industrial/

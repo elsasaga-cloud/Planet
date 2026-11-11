@@ -1,4 +1,4 @@
-# SB-425 gsginternational.com · home · https://www.gsginternational.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-425 gsginternational.com · home · https://www.gsginternational.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Distributore di Tecnologie per la Sicurezza - Controllo Accessi
 Building Security Continuity
 info@gsginternational.com
@@ -83,16 +83,17 @@ Nasce STORIE DI ACCESSO, il video podcast di GSG International dedicato alle sfi
 Il Predictive QR Code® di Euklis conquista anche gli Stati Uniti: Concesso il brevetto in USA! 23 giugno 2026
 EUKLIS annuncia con orgoglio che il Predictive QR Code®, sistema di autenticazione predittiva per i...
 I nostri prodotti in Evidenza:
-KBC Thrulink
-Unità VPN Crittografata - Trasmissione WAN Sicura
+BAROX LT-802GBTME
+Switch Industriale con Management, conforme alla certificazione EN54-20
 Scopri
-Vidar ANPR
-La telecamera di lettura targhe con OCR a bordo
+KLIS MINID20X-IP-MEGA
+Telecamera mini speed dome 20x
 Scopri
-Panomera® W8 Ultraline
+Nedap uPASS Go
+Lettore UHF a lungo raggio per l'identificazione dei veicoli
 Scopri
-SECUREPARK®
-Mobile App di Gestione Parcheggi
+KLISD36X-IP-UDV-IR 500
+IR Speed Dome Camera
 Scopri
 EVENTI / CORSI
 Calendario Corsi Genetec Security Center 2026 20 gennaio 2026

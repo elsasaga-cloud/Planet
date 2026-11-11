@@ -1,4 +1,4 @@
-# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Direktronik - dataprodukter utöver det vanliga
 Varukorg
 Summa produkter:
@@ -312,9 +312,9 @@ Butiksövervakning
 Temperaturövervaka butiken med WiFi-sensorer
 Rätt luftkvalite på din arbetsplats
 Varningsljus i trafikens tjänst
-RFID-integrerade etiketter
 Övervakning och Kontrollrum
 Överfulla soptunnor, inte längre ett problem
+RFID-integrerade etiketter
 AV-kommunikation Ergonomi
 Multimedia/ Audio Visual
 Ljudsystem

@@ -1,4 +1,4 @@
-# SB-431 protekna.com · home · https://www.protekna.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-431 protekna.com · home · https://www.protekna.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Protekna - Prodotti e tecnologie per l'automazione
 ita
 eng
@@ -320,45 +320,14 @@ BATTERIE
 CONNETTORI CABLATI
 Prodotti in offerta
 Offerta
-VFD037EL43A
-DELTA ELECTRONICS
-Inverter trifase 3x400Vac serie VFD-EL (0-599Hz), IP20 da 3,7Kw H.D. con filtro EMC - completo di tastiera ...
-Prezzo
-€ 312,20
-€ 190,00
-Oltre 5 pezzi:
-€ 301,20
-€ 175,00
-Offerta
-81.000.6180.0
-WIELAND
-P3 24-20 A ALIMENTATORE TRIFASE 340/575 VAC 20A TEMP. DI LAVORO DA -30°C a+71°C CON DER. A 60°C
-Prezzo
-€ 610,50
-€ 90,00
-Oltre 5 pezzi:
-€ 592,20
-€ 80,00
-Offerta
-EDS-2008-ELP
+NPORT 5110
 MOXA
-Switch industriale non gestito 5 porte rame 10/100base(x) 12-45vdc -10 +60 C° con contenitore in plastica
+Server seriali - convertitori ethernet seriale - 10/100 rj45 , 1 porta rs-232 db9, 12-48vdc - 0 +55°c
 Prezzo
-€ 130,40
-€ 108,00
+€ 168,50
+€ 119,00
 Oltre 5 pezzi:
-€ 125,60
-€ 105,00
-Offerta
-DRF-24V960W3GBA
-DELTA ELECTRONICS
-Power supply FORCE GT Series 24Vcc 40 Amp 3 x 320-575Vac (3-Phase) or 2 x 340-575Vac (2-Phase) Temperature...
-Prezzo
-€ 391,00
-€ 180,00
-Oltre 5 pezzi:
-€ 377,20
-€ 170,00
+€ 162,20
 Offerta
 NPort W2150A-EU
 dism
@@ -370,14 +339,45 @@ Oltre 5 pezzi:
 € 354,10
 € 280,00
 Offerta
-NPORT 5110
-MOXA
-Server seriali - convertitori ethernet seriale - 10/100 rj45 , 1 porta rs-232 db9, 12-48vdc - 0 +55°c
+DRF-24V960W3GBA
+DELTA ELECTRONICS
+Power supply FORCE GT Series 24Vcc 40 Amp 3 x 320-575Vac (3-Phase) or 2 x 340-575Vac (2-Phase) Temperature...
 Prezzo
-€ 168,50
-€ 119,00
+€ 391,00
+€ 180,00
 Oltre 5 pezzi:
-€ 162,20
+€ 377,20
+€ 170,00
+Offerta
+81.000.6180.0
+WIELAND
+P3 24-20 A ALIMENTATORE TRIFASE 340/575 VAC 20A TEMP. DI LAVORO DA -30°C a+71°C CON DER. A 60°C
+Prezzo
+€ 610,50
+€ 90,00
+Oltre 5 pezzi:
+€ 592,20
+€ 80,00
+Offerta
+VFD037EL43A
+DELTA ELECTRONICS
+Inverter trifase 3x400Vac serie VFD-EL (0-599Hz), IP20 da 3,7Kw H.D. con filtro EMC - completo di tastiera ...
+Prezzo
+€ 312,20
+€ 190,00
+Oltre 5 pezzi:
+€ 301,20
+€ 175,00
+Offerta
+EDS-2008-ELP
+MOXA
+Switch industriale non gestito 5 porte rame 10/100base(x) 12-45vdc -10 +60 C° con contenitore in plastica
+Prezzo
+€ 130,40
+€ 108,00
+Oltre 5 pezzi:
+€ 125,60
+€ 105,00
 I nostri marchi
 Hai bisogno di aiuto?
 +39 045 860 0998

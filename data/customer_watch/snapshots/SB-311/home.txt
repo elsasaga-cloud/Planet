@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -239,12 +239,10 @@ Newsletter
 ČLÁNKY
 Video návody
 Kurzy
-INFORMACE
+Kontakt
+O firmě
 AKTUALITY
-Veletrhy
-Společnost
-Prodejní síť
-Kurzy
+Data firmy
 Nic nie znaleziono
 0
 Košík
@@ -457,10 +455,9 @@ Newsletter
 ČLÁNKY
 Video návody
 Kurzy
-Společnost
 O firmě
 AKTUALITY
-Veletrhy
+Data firmy
 Kurzy
 Přihlaste se
 Zaregistrujte se
@@ -472,27 +469,6 @@ Dozvědět se více
 Doporučené produkty
 Nové produkty Novinky
 Akční cena Akční cena
-Kód: K03829
-Do košíku
-Náhled
-Hikvision DS-2CD2T63G2P-LISU/SL (180°) panoramic IP bullet camera (6 Mpix, 2.8 mm, 0.005 lx, hybrid lighting up to 30 m)
-11876,15 Kč
-9815,00 Kč bez DPH
-Kód: M29119
-Náhled
-Monitor Hikvision DS-D5022F2-1P2 (21,45", 16:7, IPS, FHD, HDMI, VGA, audio)
-5245,96 Kč
-Předchozí nejnižší cena: 5245,96 Kč
-4983,66 Kč
-4118,73 Kč bez DPH
-Kód: K22055
-Do košíku
-Náhled
-Hikvision DS-7608NI-Q1(E) IP NVR (8 channels, 80 Mb/s, 1 x SATA, VGA, HDMI, H.265)
-6142,57 Kč
-Předchozí nejnižší cena: 6142,57 Kč
-6019,71 Kč
-4974,97 Kč bez DPH
 Kód: Q471520B
 Do košíku
 Náhled
@@ -507,12 +483,6 @@ Náhled
 PoE switch Atte IP-5-11-M2 (5xPoE, 1xUpLink, 802.3af/at, PASIVNÍ, 96 W, IP56)
 4294,29 Kč
 3549,00 Kč bez DPH
-Kód: K01570
-Do košíku
-Náhled
-Hikvision DS-2CD2387G3P-LIS2UY/SL (180°) ColourVu IP panoramic ceiling-mounted camera (8 Mpix, 2.8 mm, 0.0005 lx, hybrid illumination up to 30 m)
-19119,82 Kč
-15801,50 Kč bez DPH
 Kód: Q0658
 Do košíku
 Náhled
@@ -529,89 +499,92 @@ Otočná PTZ IP kamera Dahua SD3D416NB-GNY (4 Mpix, 5–80 mm, optický zoom: 16
 Předchozí nejnižší cena: 10736,91 Kč
 12055,47 Kč
 9963,20 Kč bez DPH
-Kód: K00919
+Kód: J22110
 Do košíku
 Náhled
-Kamera IP kopułowa Hikvision DS-2CD2146G3-IPTRZS2UY (4 MPix, 2,8/4 mm, 0,001 lx, IR do 30 m, Audio, AcuSense 3.0, PTRZ)
-12827,82 Kč
-Předchozí nejnižší cena: 11648,07 Kč
-12571,26 Kč
-10389,47 Kč bez DPH
-Kód: K03938
-Do košíku
+Konektor kategorie 6A (dvojitý opravný keyston) MP0041 Logilink
+120,73 Kč
+99,78 Kč bez DPH
+Kód: E84181
 Náhled
-Hikvision DS-2CD2T87G3P-LIS2UY/SL (180°) ColorVu IP panoramic tube camera (8 Mpix, 2.8 mm, 0.0005 lx, hybrid illumination up to 40 m)
-23768,03 Kč
-19643,00 Kč bez DPH
+Konektor SMA do 6 GHz pro Tri-Lan 240/H-155 /úhlová/
+123,17 Kč
+101,79 Kč bez DPH
 Zobrazit všechny
-Kód: L54024
+Kód: E93170
 Do košíku
 Náhled
-Optický rozvaděč GP62DW-3 max. 24 spojů, 6 duplexních adaptérů SC
-503,36 Kč
+Nástěnný držák Signál LPA49-466, 37" - 90", nastavitelný, otočný
+1337,05 Kč
+Předchozí nejnižší cena: 1337,05 Kč
+1283,57 Kč
+1060,80 Kč bez DPH
+Kód: L1410
+Do košíku
+Náhled
+Optický modul ULTIMODE SFP-023M 2xLC - dvě mnohovidová vlákna do 2 km
+188,76 Kč
+Předchozí nejnižší cena: 188,76 Kč
+179,32 Kč
+148,20 Kč bez DPH
+Kód: L1411
+Do košíku
+Náhled
+SFP Transceiver: ULTIMODE SFP-203M 2xLC (dvě jedno-módová vlákna do 20 km)
+188,76 Kč
+Předchozí nejnižší cena: 188,76 Kč
+179,32 Kč
+148,20 Kč bez DPH
+Kód: L5124
+Do košíku
+Náhled
+Vysouvací přepínač s podnosem 19” ULTIMODE MT-524 (1U, vyměnitelný přední panel, 1 podnos x 24 svorek)
+1116,83 Kč
+Předchozí nejnižší cena: 1116,83 Kč
+1060,99 Kč
+876,85 Kč bez DPH
+Kód: L5310
+Do košíku
+Náhled
+Spínací stanice MINI ODF-DIN s rozvaděčem 2xSC duplexní
+408,98 Kč
+Předchozí nejnižší cena: 400,80 Kč
+400,80 Kč
+331,24 Kč bez DPH
+Kód: L5406
+Do košíku
+Náhled
+Police pro optické kabely do racku P-PSP-G19-1U-6-SC
+1242,67 Kč
+Předchozí nejnižší cena: 1242,67 Kč
+1192,96 Kč
+985,92 Kč bez DPH
+Kód: M18967
+Do košíku
+Náhled
+PoE switch (extender) Etrix E0-12 (1 x WE PoE 802.3at/Passive, 2 x WY PoE 802.3at, 10/100Mbps)
+385,39 Kč
+Předchozí nejnižší cena: 361,79 Kč
+366,12 Kč
+302,58 Kč bez DPH
+Kód: M18968
+Do košíku
+Náhled
+PoE switch (extender) Etrix E0-14 (1 x WE PoE 802.3at, 4 x WY PoE 802.3at, 10/100Mbps)
+534,82 Kč
 Předchozí nejnižší cena: 503,36 Kč
-478,19 Kč
-395,20 Kč bez DPH
-Kód: L56036
-Do košíku
-Náhled
-Fiber-optic Joint Box: GPJ09-9401 round, 36 splices 2 inputs, 2 outputs.
-998,86 Kč
-Předchozí nejnižší cena: 998,86 Kč
-948,92 Kč
-784,23 Kč bez DPH
-Kód: L5810
-Do košíku
-Náhled
-Měřák optického výkonu (VFL, LED, RJ45 tester) ULTIMODE OPM-20T-V01
-45980,00 Kč
-Předchozí nejnižší cena: 34485,00 Kč
-32186,00 Kč
-26600,00 Kč bez DPH
-Kód: L5939
-Do košíku
-Náhled
-Vizuální vyhledávač poruch VFL (LED, tester RJ45) ULTIMODE VFL-V3-15
-637,07 Kč
-Předchozí nejnižší cena: 477,80 Kč
-445,95 Kč
-368,55 Kč bez DPH
-Kód: N29984
-Do košíku
-Náhled
-PoE Switch: ULTIPOWER 0154afat (5xRJ45 incl. 4xPoE 802.3af/at, 1xSFP)
-2359,50 Kč
-Předchozí nejnižší cena: 2359,50 Kč
-2241,53 Kč
-1852,50 Kč bez DPH
-Kód: N299851
-Do košíku
-Náhled
-PoE Switch: ULTIPOWER PRO0208afat (120W, 10xRJ45, 8xPoE 802.3af/at, PoE Auto Check)
-2359,50 Kč
-Předchozí nejnižší cena: 2359,50 Kč
-2241,53 Kč
-1852,50 Kč bez DPH
-Kód: R10206
-Do košíku
-Náhled
-Měřák signálu DVB-T/T2(HEVC 10 bit)/C/J.83B/ISDB-T a DVB-S/S2 AS07STCA-4K se spektrálním analyzátorem a kalibračním certifikátem
-40111,50 Kč
-Předchozí nejnižší cena: 32089,20 Kč
-30083,63 Kč
-24862,50 Kč bez DPH
-Kód: R86702
-Do košíku
-Náhled
-HDMI - COFDM (DVB-T) Modulátor: WS-7992 (2 kanály)
-10932,35 Kč
-Předchozí nejnižší cena: 10932,35 Kč
-10385,73 Kč
-8583,25 Kč bez DPH
+508,08 Kč
+419,90 Kč bez DPH
 Zobrazit všechny
 V posledním zpravodaji
 EgoExplorer zaznamenává 100 hodin lidských pohybů pro účely trénování humanoidních robotů.
 Vědci ze Shanghai AI Laboratory, Zhejiang University a Shanghai Jiao Tong University vytvořili datový soubor EgoExplorer, který zahrnuje 100 hodin lidské aktivity zaznamenané pomocí speciálního nositelného systému. Shromážděné materiály kombinují videozáznamy z pohledu uživatele s údaji o pohybech celého těla, práci prstů a kontaktu s předměty. Cílem projektu je zefektivnit trénink humanoidních robotů, kteří by v budoucnu mohli vykonávat každodenní činnosti a manuální úkoly vyžadující přesnost ...
 Pokračovat ve čtení
 Optická instalace SMATV – Signal PROfessional.
-Níže uvádíme několik fotografií z instalace provedené společností Pro-instal – telekomunikační instalace Michał Lipka z Legionowa. 
+Níže uvádíme několik fotografií z instalace provedené společností Pro-instal – telekomunikační instalace Michał Lipka z Legionowa. Instalace zahrnuje rozšíření stávajícího systému SMATV o další bytové jednotky v bytovém domě. Vzhledem k delším kabelovým trasám bylo rozhodnuto o vybudování multiswitchové sběrnice na bázi optického vlákna....
+Pokračovat ve čtení
+Přídavná čtečka s klávesnicí v modulárním IP videotelefonním systému Hikvision.
+Níže je uveden příklad schématu IP videotelefonního systému založeného na modulární bránové stanici. Stanice namontovaná na vstupní straně se skládá z hlavního modulu DS-KD8003-IME1(B) G73652, čtečky karet ve standardu Mifare DS-KD-M G73662, modulu numerické klávesnice DS-KD-KP G73668 a nástěnného rámečku s ochrannou stříškou. Otevření branky z vnitřní strany při odchodu lze provést několika způsoby. Jedním z nich je odchod pomocí klíče nebo kliky, pokud je na brance namontována. Pokud tato mož...
+Pokračovat ve čtení
+Porovnání testerů CCTV Signal.
+Testery CCTV Signal jsou univerzální nástroje určené k instalaci, konfiguraci a diagnostice monitorovacích systémů. Podporují IP kamery s rozlišením a

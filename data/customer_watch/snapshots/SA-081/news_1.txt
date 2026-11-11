@@ -1,4 +1,4 @@
-# SA-081 4power.it · news_1 · https://www.4power.it/blog/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SA-081 4power.it · news_1 · https://www.4power.it/blog/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Blog 4Power | Guide su UPS, Networking e Cablaggio Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -74,6 +74,12 @@ Nessun prodotto nel carrello.
 Archivio Categoria: Blog
 Guide, approfondimenti e novità tecniche dal mondo 4Power: UPS Eurogroup, networking 4Net e Planet, armadi rack e cablaggio strutturato. Articoli per installatori, rivenditori e professionisti IT.
 Blog
+Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta
+Pubblicato il 11 Novembre 2026 da rvosa
+Metodo pratico per scegliere potenza e autonomia di un gruppo di continuità UPS in base ai carichi reali.
+Continua a leggere →
+Inserito in Blog
+Blog
 Armadi rack da esterno IP55 e IP66: come scegliere la protezione giusta
 Pubblicato il 1 Ottobre 2026 6 Novembre 2026 da rvosa
 Un armadio rack installato in una sala server climatizzata e un cabinet destinato a un impianto industriale, a un nodo di rete periferico o a un’installazione su palo non affrontano le stesse condizioni ambientali. Polvere, acqua, umidità e maggiore esposizione agli agenti esterni richiedono involucri progettati specificamente per proteggere gli apparati di rete. Per queste […] Continua a leggere →
@@ -106,7 +112,7 @@ Pubblicato il 13 Aprile 2026 11 Ottobre 2026 da admin
 L’evoluzione normativa in materia di sicurezza antincendio negli edifici impone standard sempre più rigorosi per i materiali da costruzione, inclusi i componenti passivi di rete. In questo contesto, 4Power ha integrato la propria offerta di cablaggio strutturato a marchio 4Net rendendo disponibili i nuovi cavi in fibra ottica certificati Euroclass Cca-s1a,d0,a1. L’ampliamento del catalogo risponde […] Continua a leggere →
 Inserito in Blog
 Blog
-Switch Managed 4Net: PoE Layer 2+ e gamma Layer 3
+I nuovi Switch Managed Layer 3 4Net
 Pubblicato il 21 Marzo 2025 8 Ottobre 2026 da admin
 Continua a leggere →
 Inserito in Blog
@@ -117,11 +123,6 @@ La serie di switch 4Net PoE Gigabit 4N-GxxP (4,8,16,24 + 2 uplink ethernet + 2 u
 Inserito in Blog
 Blog
 La Fibra ottica per monitorare i terremoti?
-Pubblicato il 21 Marzo 2025 16 Giugno 2025 da admin
-Continua a leggere →
-Inserito in Blog
-Blog
-Ma davvero la fibra ottica può rilevare gli eventi sismici?
 Pubblicato il 21 Marzo 2025 16 Giugno 2025 da admin
 Continua a leggere →
 Inserito in Blog

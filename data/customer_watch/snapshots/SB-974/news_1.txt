@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-11-11T09:37:04Z · HTTP 200
 Events
 DE EN
 Suche
@@ -81,9 +81,13 @@ Die Verwendung bzw. Verarbeitung Ihrer Daten erfolgt im Rahmen unserer Datenschu
 News
 Events
 Alle Termine auf einen Blick
-Automotive Testing Expo
-27. - 29. Oktober 2026
-Vibe Credit Union Showplace, Novi, Michigan, USA
+Automotive Ethernet Congress
+23. - 25. Februar 2027
+Science Congress Center, München
+Erfahren Sie mehr
+Testing & Safety.AD Europe
+01. - 02. März 2027
+Titanic Chaussee, Berlin
 Erfahren Sie mehr
 b-plus GmbH
 Ulrichsberger Str. 17

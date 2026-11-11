@@ -1,4 +1,4 @@
-# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 	https://www.novicam.ru/doorphones/doorphones_accessories/2-pin-wire-v-4042
 	https://www.novicam.ru/doorphones/doorphones_accessories/4-pin-wire-v-4043
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4552
@@ -16,7 +16,6 @@
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-32-v-1536
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-33-v-1537
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-52-v-1521
-	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-53-v-1522
 	https://www.novicam.ru/basic-53q
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-57-v-1523
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/basic-58-v-1524
@@ -76,7 +75,6 @@
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/legend-silver-v-4600
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/locks/lh280-v-4418
 	https://www.novicam.ru/sistemy-videonablyudeniya/hybrid/lite-23-v-1514
-	https://www.novicam.ru/sistemy-videonablyudeniya/lite-53-v-1372-15
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-22m-v-1105v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-22m-black-v-6040s
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-23-v-1100v
@@ -146,11 +144,13 @@
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-tochki-dostupa/pv-wf2ap-v-2110
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-mosty/pv-wf2bcl-v-2136
 	https://www.novicam.ru/setevoe-oborudovanie/wi-fi-mosty/pv-wf5bcl-v-2139
-	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4621
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4620
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/aksessuary-dlya-skud/2-pin-wire-v-4621
 	https://www.novicam.ru/doorphones/doorphones_accessories/ip-box-v-4421
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/sb210-v-4020
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/complect-skud/sb210-v-4058
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/sb310-wifi-v-4242
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/novicam-se120w-ver-4250
-	https://www.novicam.ru/sistemy-kontrolya-dostupa/co
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/se310kw-wifi-v-4019
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/se310kw-wifi-v-4241
+	https://www.novicam.ru/s

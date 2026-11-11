@@ -1,4 +1,4 @@
-# SB-1078 solimedia.net · news_1 · https://solimedia.net/latest-happenings/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1078 solimedia.net · news_1 · https://solimedia.net/latest-happenings/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 The Latest Happening at Solimedia Technology Inc - Solimedia Technology
 Skip to content
 Search ×
@@ -42,7 +42,6 @@ IP Telephony
 IP Phones
 PBX VOIP Devices
 Personal collaboration
-IP Video Devices
 Internet Of Things
 Accessories
 Power – Power Over Ethernet
@@ -110,7 +109,6 @@ IP Telephony
 IP Phones
 PBX VOIP Devices
 Personal collaboration
-IP Video Devices
 Internet Of Things
 Accessories
 Power – Power Over Ethernet
@@ -180,7 +178,6 @@ IP Telephony
 IP Phones
 PBX VOIP Devices
 Personal collaboration
-IP Video Devices
 Internet Of Things
 Accessories
 Power – Power Over Ethernet
@@ -240,7 +237,6 @@ IP Telephony
 IP Phones
 PBX VOIP Devices
 Personal collaboration
-IP Video Devices
 Internet Of Things
 Accessories
 Power – Power Over Ethernet

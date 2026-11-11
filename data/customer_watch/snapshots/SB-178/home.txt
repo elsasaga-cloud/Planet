@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,43 +291,44 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Grandstream GWN7052
-195,57 zł z VAT
-233,77 zł
-159,00 zł netto
-szt
-Najniższa cena z 30 dni: 233,77 zł
-Uchwyt kablowy KP10/5, na przewód płaski 10x5 mm
-2,34 zł z VAT
-6,77 zł
-1,90 zł netto
-szt
-Najniższa cena z 30 dni: 6,77 zł
 WYPRZEDAŻ
-SparkLAN WMIA-166AG
+Szafa wisząca Professional 19" 4U, 450mm, drzwi szklane, czarna
+344,40 zł z VAT
+399,75 zł
+280,00 zł netto
+szt
+Najniższa cena z 30 dni: 399,75 zł
+Wireless Instruments ISA5-14V
+84,87 zł z VAT
+210,71 zł
+69,00 zł netto
+szt
+Najniższa cena z 30 dni: 210,71 zł
+Pigtail U.FL - N/m (20 cm)
+8,49 zł z VAT
+18,91 zł
+6,90 zł netto
+szt
+Najniższa cena z 30 dni: 18,91 zł
+WYPRZEDAŻ
+Wisnetworks WIS-ANO2405
 11,07 zł z VAT
-86,04 zł
+27,63 zł
 9,00 zł netto
 szt
-Najniższa cena z 30 dni: 86,04 zł
-TP-Link Deco X10
-207,87 zł z VAT
-300,99 zł
-169,00 zł netto
+Najniższa cena z 30 dni: 27,63 zł
+Tenda TEG1126P-24-410W
+836,40 zł z VAT
+984,00 zł
+680,00 zł netto
 szt
-Najniższa cena z 30 dni: 300,99 zł
-Wisnetworks WIS-L5820S Sector Base Station
-479,70 zł z VAT
-719,55 zł
-390,00 zł netto
+Najniższa cena z 30 dni: 984,00 zł
+Szafkowy zasilacz buforowy ZBF-R35D
+170,97 zł z VAT
+212,79 zł
+139,00 zł netto
 szt
-Najniższa cena z 30 dni: 719,55 zł
-Zasilacz do laptopa Acer, 40W 2.1A 19V, Qoltec, (50058.40W)
-35,67 zł z VAT
-39,98 zł
-29,00 zł netto
-szt
-Najniższa cena z 30 dni: 39,98 zł
+Najniższa cena z 30 dni: 212,79 zł
 Najnowsze propozycje
 NOWOŚĆ
 Cudy WR3600E
@@ -359,6 +360,11 @@ Ubiquiti AI Horn Speaker (UP-AI-Horn-Speaker-B)
 1 119,32 zł netto
 szt
 NOWOŚĆ
+Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
+103,81 zł z VAT
+84,40 zł netto
+szt
+NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
 7 647,78 zł z VAT
 6 217,71 zł netto
@@ -371,18 +377,13 @@ szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Cudy BU530
-20,75 zł z VAT
-16,87 zł netto
+Tenda CP6 obrotowa kamera do monitoringu domowego
+79,40 zł z VAT
+64,55 zł netto
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
 Koszty przesyłki:
 DHL: od 13 PLN (netto)
 FedEx: od 14.90 PLN (netto)
-Paczkomat: od 14 PLN (netto)
-Poczta: zgodnie z cennikiem
-Zlokalizuj przesyłkę DHL
-Zlokalizuj przesyłkę FedEx
-Zlokalizuj przesyłkę InPost
-Zlokalizuj Paczkę Poczt
+Paczkomat: od 14

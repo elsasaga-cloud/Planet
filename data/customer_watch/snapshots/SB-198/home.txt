@@ -1,4 +1,4 @@
-# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Nauji produktai - Katalita.lt
 0
 Turite klausimų? Tel: +370 603 03213 ,
@@ -347,6 +347,9 @@ TELTONIKA ENERGY, UAB
 TELTONIKA TELEMATICS, UAB
 Your browser does not support the video tag.
 Nauji produktai
+2026-11-10
+TP-LINK BE12000 Ceiling Mount Tri-Band Wi-Fi 7 Access Point EAP787 (EU) (EAP787)
+1x 2.5/10 Gigabits LAN port (supports IEEE802.3at PoE) | Antennas: 2.4 GHz: 2× 4 dBi, 5 GHz: 4× 5 dBi and 6 GHz: 2× 5 dBi | Wi-Fi 7 | Wireless Standards: IEEE 802.11be/ax/ac/n/g/b/a | Simultaneous 688 Mbps on 2.4GHz, 5765 Mbps on 5GHz and 5765 Mbps on 6GHz Wi-Fi speeds | Up to 510+ clients | Covers up to 185 m² (2000  ft²) | Free Omada App, Centralized Management, Cloud Access
 2026-11-06
 TP-LINK AX5400 Ceiling Mount WiFi 6 Access Point (EAP673)
 1x 2.5 Gigabit LAN port (supports IEEE802.3at PoE) | Antennas: 2.4 GHz: 2× 4 dBi and 5 GHz: 4× 5 dBi | Wi-Fi 6 | Wireless Standards: IEEE 802.11ax/ac/n/g/b/a | Simultaneous 574 Mbps on 2.4GHz and 4804 Mbps on 5GHz totals 5378 Mbps Wi-Fi speeds | Free Omada App, Centralized Management, Cloud Access
@@ -379,8 +382,4 @@ UBIQUITI UniFi Protect G6 Pro Dome Camera, Black (UVC-G6-Pro-Dome-B)
 4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
 2026-09-25
 UBIQUITI UniFi Protect G6 Mini Dome Camera, White (UVC-G6-Mini-Dome-W)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-25
-UBIQUITI UniFi Protect G6 Mini Dome Camera, Black (UVC-G6-Mini-Dome-B)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night vision | AI event detections (Multi-TOPS AI Engine) | Two-way audio | IK08 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026
+4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | H.264 | Up to 20 m (65 ft) IR night v

@@ -1,4 +1,5 @@
-# SC-3302 niveoprofessional.com · feed_auto · https://niveoprofessional.com/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-3302 niveoprofessional.com · feed_auto · https://niveoprofessional.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+Wed, 11 Nov 2026 08:27:27 +0000	IC 2026 | Niveo Professional – Scaling SDVoE from Meeting Rooms to Broadcast	https://niveoprofessional.com/2026/11/11/ic-2026-niveo-professional-scaling-sdvoe-from-meeting-rooms-to-broadcast/
 Thu, 31 Jul 2025 13:09:26 +0000	Sonic Electronics upgrades Qatar Development Bank	https://niveoprofessional.com/2025/07/31/sonic-electronics-upgrades-qatar-development-bank/
 Tue, 04 Mar 2025 18:59:53 +0000	Just Add Power to Amp Up the AV-Over-IP Experience at ISE 2025	https://niveoprofessional.com/2025/03/04/just-add-power-to-amp-up-the-av-over-ip-experience-at-ise-2025/
 Tue, 04 Mar 2025 18:49:29 +0000	Just Add Power AMP Now Supports Select Niveo Professional Switches	https://niveoprofessional.com/2025/03/04/just-add-power-amp-now-supports-select-niveo-professional-switches/
@@ -8,4 +9,3 @@ Fri, 18 Aug 2023 11:34:26 +0000	SDVoE Academy course. Must see!	https://niveopro
 Wed, 19 Jul 2023 13:39:00 +0000	Niveo Professional joins SDVoE Alliance	https://niveoprofessional.com/2023/07/19/niveo-professional-joins-sdvoe-alliance/
 Wed, 19 Jul 2023 13:32:37 +0000	Niveo Professional – nowa marka w ofercie Konsbud Audio	https://niveoprofessional.com/2023/07/19/niveo-professional-nowa-marka-w-ofercie-konsbud-audio/
 Fri, 23 Jun 2023 12:39:02 +0000	INFOCOMM 2023: NIVEO PROFESSIONAL REVEALS L2 FULL MANAGEMENT ETHERNET POE SWITCH AT LIBERTY AV BOOTH	https://niveoprofessional.com/2023/06/23/infocomm-2023-niveo-professional-reveals-l2-full-management-ethernet-poe-switch-at-liberty-av-booth-2/
-Thu, 05 May 2022 12:49:10 +0000	New AVB Switch	https://niveoprofessional.com/2022/05/05/new-avb-switch/

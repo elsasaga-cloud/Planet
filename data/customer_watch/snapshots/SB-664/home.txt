@@ -1,4 +1,4 @@
-# SB-664 jm.pl · home · https://jm.pl/pl/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-664 jm.pl · home · https://jm.pl/pl/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Komputery przemysłowe, automatyka, komponenty, LoRaWAN Zamknij wszystkie
 Produkty Produkty
 Aktualności
@@ -28,10 +28,10 @@ JM Elektronik na Axiomtek Global Partner Conference 2026
 150 milionów urządzeń LoRaWAN na świecie
 JME na Evertiq Expo: Co dziś napędza przemysł?
 Nowości produktowe
+Bramka cybersecurity GW-2500iM
 Mikrokontrolery do detekcji dymu/CO
 LTE450 – zastosowania, urządzenia i dobór infrastruktury
 Gateway LoRaWAN z Edge Computing
-Edge AI w przemyśle naftowym
 Tel. ogólny:
 Tel. Dział Handlowy:
 Dział handlowy:

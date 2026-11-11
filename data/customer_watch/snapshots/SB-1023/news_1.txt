@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1023 dipol.pt · news_1 · https://www.dipol.pt/novos_produtos,items-news.htm · fetched 2026-11-11T09:37:04Z · HTTP 200
 Shopping, Novos produtos
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -239,12 +239,10 @@ Newsletter
 BIBLIOTECA
 Tutoriais em vídeo
 Cursos
-INFO
+CONTACTO
+Info da Empresa
 ÚLTIMAS
-Feiras
-EMPRESA
-REDE VENDAS
-Cursos
+Informação Empresa
 Nic nie znaleziono
 0
 Carrinho
@@ -457,10 +455,9 @@ Newsletter
 BIBLIOTECA
 Tutoriais em vídeo
 Cursos
-EMPRESA
 Info da Empresa
 ÚLTIMAS
-Feiras
+Informação Empresa
 Cursos
 Log in
 Inscrever-se | Sou Empresa Profissional
@@ -502,57 +499,6 @@ Enviar mensagem
 Suporte
 Alguma pergunta ou comentário?
 Escreva-nos!
-«
-1
-2
-»
-Todos
-Ao carrinho
-Visualização
-Código: K03829
-€548.12
-€445.63 s/IVA
-Disponível
-Visualização
-Monitor Hikvision DS-D5022F2-1P2 (21,45", 16:7, IPS, FHD, HDMI, VGA, Áudio)
-O DS-D5022F2-1P2 é um monitor Hikvision concebido para utilização em sistemas de vigilância CCTV que operam 16 horas por dia, 7 dias por semana.
-• Tipo de painel: IPS com retroiluminação E-LED
-• Resolução: Full HD (1920 x 1080)
-• Tecnologia de baixa emissão de luz azul
-• Tamanho do ecrã: 21,45"
-• Tempo de resposta: 6,5 ms
-• Taxa de contraste: 1000:1
-• Brilho: 250 cd/m²
-• Ângulos de visão (horizontal/vertical): 178° / 178°
-• Entradas: 1 x HDMI, 1 x VGA
-• Moldura ultrafina
-• Montagem: suporte ou padrão VESA (75 x 75 mm)
-Código: M29119
-€230.02
-€187.01 s/IVA
-€242.13
-Preço mais baixo anterior: €242.13
-Temporariamente indisponível
-Ao carrinho
-Visualização
-Hikvision DS-7608NI-Q1(E) IP NVR (8 canais, 80 Mb/s, 1 x SATA, VGA, HDMI, H. 265)
-O Hikvision DS-7608NI-Q1(E) é um gravador de vídeo IP de 8 canais de última geração, capaz de gravar imagens de câmaras IP com uma resolução até 8 Mpix.
-• Gravação com resolução até 8 Mpix
-• Saídas HDMI/VGA simultâneas
-• Largura de banda máxima de entrada/saída – 80/80 Mb/s
-• Suporte para até 8 câmaras IP da Hikvision ou de outros fabricantes via ONVIF
-• Suporte para 1 disco rígido SATA com capacidade até 8 TB
-• Suporte para câmaras com análise VCA integrada (linha virtual, deteção de intrusão, etc.)
-• Suporte para câmaras com Detecção de Movimento 2.0 em todos os canais
-• Deteção de Movimento 2.0 com análise de humanos/veículos
-• Suporte para compressão H. 265 (+) / H. 264 (+)
-• Aplicação para desktop iVMS-4200 e aplicação para smartphone Hik-Connect (Android, iOS)
-Código: K22055
-€277.83
-€225.88 s/IVA
-€283.50
-Preço mais baixo anterior: €283.50
-Disponível
 Ao carrinho
 Visualização
 Suporte com adaptador para poste para câmaras compactas e de teto Dahua PFA152-E-B
@@ -581,4 +527,41 @@ Kit para até 5 câmaras IP, numa caixa exterior ABOX-M2, fonte de alimentação
 • Até 40 W de potência por porta PoE restante
 • Opera nos modos Standard e Longo Alcance
 • Alta eficiência do módulo de alimentação: acima de 90%
-• Design modular para fácil manutenção e e
+• Design modular para fácil manutenção e expansão
+• Carcaça exterior com classificação de proteção IP56
+• Prensas-cabos: 6 × M16 e 1 × M20
+• Os módulos podem ser montados num sistema de grelha
+• Não é necessário configurar parâmetros durante o comissionamento
+Código: N29816
+€198.20
+€161.14 s/IVA
+Disponível
+Ao carrinho
+Visualização
+Câmara bullet IP Dahua IPC-HFW2849TL-S-LED-0280B-PRO (8 Mpix, 2,8 mm, 0,0004 lx, luz branca 20 m, WizColor)
+A câmara WizColor grava imagens a cores 24 horas por dia, 7 dias por semana, e possui SMD+, proteção perimetral e ISP com IA para uma otimização inteligente da qualidade da imagem.
+• Resolução de 8 MPix – 3840 x 2160 a 20 fps
+• Sensor grande de 1/1,8" – sensibilidade de 0,0004 lx
+• Lente de distância focal fixa de 2,8 mm
+• Iluminador de luz branca com alcance até 20 m
+• Deteção de movimento inteligente SMD+ (Smart Motion Detection+)
+• Eventos inteligentes: deteção de cruzamento de linha e deteção de movimento numa zona (entrada e saída) com filtragem de pessoas/veículos
+• Microfone incorporado
+Código: Q0658
+€418.64
+€340.36 s/IVA
+€654.13
+Preço mais baixo anterior: €372.85
+Disponível
+Ao carrinho
+Visualização
+Câmara IP PTZ Dahua SD3D416NB-GNY (4 Mpix, 5–80 mm, zoom ótico de 16x, IV de 80 m, PoE)
+Câmara IP de 4 MP com função pan-tilt e características inteligentes: SMD 3.0, deteção de perímetro. Zoom ótico: 16x.
+• Resolução de 4 MPix
+• Tecnologia Starlight – elevada sensibilidade de 0,005 lx
+• Lente zoom motorizada de 5 a 80 mm, zoom ótico de 16×
+• Estabilização de imagem EIS
+• Iluminador infravermelho com alcance até 80 m
+• Funções de imagem: AWB, ATW, BLC, HLC, NR 2D/3D, WDR, desembaciamento
+• SMD3.0 (Deteção Inteligente de Movimento 3.0)
+• Eventos inteligentes: deteção de movimento por cruzamento de linha e zona (entrada e saída), classificação de objetos

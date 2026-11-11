@@ -1,4 +1,6 @@
-# SB-271 dodicelettronica.it · feed_auto · https://www.dodicgroup.it/feed/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-271 dodicelettronica.it · feed_auto · https://www.dodicgroup.it/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+Tue, 10 Nov 2026 15:59:27 +0000	Corso Ajax – Casoria	https://www.dodicgroup.it/corso-ajax-casoria-10-12-2026/
+Tue, 10 Nov 2026 13:11:43 +0000	Corso FAAC – Casoria	https://www.dodicgroup.it/corso-faac-casoria-20-11-2026/
 Mon, 02 Nov 2026 09:34:58 +0000	Presentazione Arteco – Latina	https://www.dodicgroup.it/presentazione-arteco-latina-18-11-2026/
 Mon, 26 Oct 2026 13:51:32 +0000	Corso Ajax – Roma Nord	https://www.dodicgroup.it/corso-ajax-roma-nord-19-11-2026/
 Mon, 26 Oct 2026 13:22:18 +0000	Corso Ajax – Latina	https://www.dodicgroup.it/corso-ajax-latina-12-11-2026/
@@ -7,5 +9,3 @@ Thu, 22 Oct 2026 08:55:54 +0000	Risco – Promo Sensori Radio	https://www.dodicg
 Tue, 13 Oct 2026 13:34:19 +0000	Percorso formativo – CNA Roma	https://www.dodicgroup.it/percorso-formativo-cna-roma/
 Fri, 09 Oct 2026 07:32:16 +0000	Corso Hikvision – Latina	https://www.dodicgroup.it/corso-hikvision-latina-23-10-2026/
 Mon, 28 Sep 2026 09:17:56 +0000	Corso Risco – Roma Ovest	https://www.dodicgroup.it/corso-risco-roma-ovest-20-10-2026/
-Thu, 24 Sep 2026 10:35:56 +0000	Corso Risco – Fiumicino	https://www.dodicgroup.it/corso-risco-fiumicino-13-10-2026/
-Fri, 18 Sep 2026 13:20:32 +0000	Corso Micromac – Latina	https://www.dodicgroup.it/corso-micromac-latina-30-09-2026/

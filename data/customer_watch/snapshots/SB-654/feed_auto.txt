@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-11T09:37:04Z · HTTP 200
+Wed, 11 Nov 2026 09:00:00 +0000	Gestión remota empresarial con RMS: características, capacidades y mejores prácticas	https://www.davantel.com/gestion-remota-empresarial-con-rms-caracteristicas-capacidades-y-mejores-practicas
 Tue, 10 Nov 2026 09:00:00 +0000	Router 5G: ¿cómo elegirlo para uso industrial?	https://www.davantel.com/router-5g
 Mon, 09 Nov 2026 09:00:00 +0000	Integración de LoRaWAN a MQTT: Diseño de Temas, Decodificación de Carga Útil y Recuperación Offline	https://www.davantel.com/integracion-de-lorawan-a-mqtt-diseno-de-temas-decodificacion-de-carga-util-y-recuperacion-offline
 Fri, 06 Nov 2026 09:02:18 +0000	Kyland obtiene una nueva certificación IEC 62443-4-2 para sus switches Ethernet industriales SICOM y AQUAM	https://www.davantel.com/kyland-obtiene-una-nueva-certificacion-iec-62443-4-2-para-sus-switches-ethernet-industriales-sicom-y-aquam
@@ -56,5 +57,4 @@ Mon, 27 Jul 2026 08:00:00 +0000	MQTT: Protocolo de Mensajería para IoT — Guí
 Fri, 24 Jul 2026 08:00:00 +0000	¿Qué es el ‘Edge Comptuting’ en IoT? La Guía de arquitectura industrial para el 2026	https://www.davantel.com/que-es-el-edge-comptuting-en-iot-la-guia-de-arquitectura-industrial-para-el-2026
 Wed, 22 Jul 2026 08:00:00 +0000	Guía universal para probar y configurar dispositivos Teltonika Telematics	https://www.davantel.com/guia-universal-para-probar-y-configurar-dispositivos-teltonika-telematics
 Mon, 20 Jul 2026 08:00:00 +0000	Guía para la Conexión de backhaul en gateways IoT: ¿Ethernet, Wi-Fi o 4G/5G?	https://www.davantel.com/guia-para-la-conexion-de-backhaul-en-gateways-iot-ethernet-wi-fi-o-4g-5g
-Fri, 17 Jul 2026 08:00:00 +0000	Conectividad IoT de Misión Crítica: El Futuro de las Redes Industriales Resilientes	https://www.davantel.com/conectividad-iot-de-mision-critica-el-futuro-de-las-redes-industriales-resilientes
-Wed, 15 Jul 2026 07:40:57 +0000	Alcance del Wi-Fi: factores
+Fri, 17 Jul 2026 08:00:00 +0000	Conectividad IoT de Misión

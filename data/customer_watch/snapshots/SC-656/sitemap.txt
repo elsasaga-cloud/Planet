@@ -1,4 +1,4 @@
-# SC-656 100mega.cz · sitemap · https://www.100mega.cz/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-656 100mega.cz · sitemap · https://www.100mega.cz/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
 	https://www.100mega.cz/stranka/335-megashop-od-100mega-distribution
 	https://www.100mega.cz/stranka/336-portfolio-znacek
 	https://www.100mega.cz/stranka/337-kontaktujte-nas

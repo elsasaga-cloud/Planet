@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-11T09:37:04Z · HTTP 200
 2026-11-10T08:00:36+00:00	CLAIRÉ + hAP be³ Media: automatización local con Home Assistant | MikroTik en español	https://www.youtube.com/watch?v=LKj4fQILZDg
 2026-11-09T17:00:26+00:00	Megafonía IP Grandstream: cada mensaje, en el lugar adecuado #Shorts	https://www.youtube.com/shorts/oy7wubuqf60
 2026-10-28T17:00:18+00:00	Videoporteros IP Grandstream | Control de accesos profesional #Shorts	https://www.youtube.com/shorts/hydlxkMN6Iw

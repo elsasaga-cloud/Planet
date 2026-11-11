@@ -1,4 +1,4 @@
-# SC-1691 alfacomp.net · home · https://www.alfacomp.net/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1691 alfacomp.net · home · https://www.alfacomp.net/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Automação Industrial em Porto Alegre | Alfacomp
 Soluções Completas em Automação Industrial
 Fale por WhatsApp
@@ -249,7 +249,7 @@ Solicite Orçamento
 Comunicação Industrial
 Fonte carregadora 12V - FC2012
 Solicite Orçamento
-Há mais de 30 anos transformando desafios industriais em soluções de automação.
+Há 34 anos transformando desafios industriais em soluções de automação.
 Desde 1992, a Alfacomp atua no desenvolvimento e fornecimento de soluções para automação industrial, comunicação, telemetria e engenharia aplicada.
 Mais do que fornecer tecnologia, a Alfacomp entende a aplicação e busca a solução mais adequada para cada projeto — da instrumentação em campo à supervisão e ao controle de processos.
 A trajetória da empresa começou como integradora, e é essa vivência de campo que hoje diferencia a forma como a Alfacomp atua no mercado. Por ter passado pelos mesmos desafios que os integradores enfrentam no dia a dia — prazo, especificação técnica, suporte pós-venda —, a Alfacomp foi além da distribuição de equipamentos: tornou-se um apoio de engenharia para quem está na ponta do projeto, oferecendo suporte técnico real, não apenas catálogo.
@@ -272,7 +272,7 @@ Proatividade
 Crescimento pessoal e profissional
 Superação de expectativas
 Sustentabilidade e responsabilidade socioambiental
-33+ Anos de Experiência
+34 Anos de Experiência
 Atendimento em Todo Brasil
 +5.000 Clientes Satisfeitos
 Parceria e Suporte Técnico
@@ -294,4 +294,4 @@ As IHMs Haiwell possuem acesso remoto? Como acesso meus dispositivos remotamente
 Sim. Através do Haiwell Cloud , você consegue acessar, monitorar e até programar remotamente seus dispositivos via PC, tablet ou smartphone (iOS e Android).
 05
 Quais protocolos de comunicação a Alfacomp trabalha?
-A Alfacomp trabalha com os princi
+A Alfacomp trabalha com os principais prot

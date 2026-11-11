@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-11T09:37:04Z · HTTP 200
 Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996
 DE EN
 Suche
@@ -118,7 +118,16 @@ Erstellt von Laura Kalka
 06.08.2026
 LOGifyer B1 SE: kompakter Datenlogger für die ADAS- und AD-Sensordatenerfassung
 EVENTS
-Keine Veranstaltungen gefunden
+Automotive Ethernet Congress
+Di 23.02.2027
+-
+Do 25.02.2027
+Science Congress Center, München
+Testing & Safety.AD Europe
+Mo 01.03.2027
+-
+Di 02.03.2027
+Titanic Chaussee, Berlin
 PARTNER
 JETZT KOSTENLOS FÜR DEN NEWSLETTER REGISTRIEREN
 Mit dem b-plus Newsletter bleiben Sie up-to-date zu unseren Themen rund um die Validierung und Analyse von autonomen Fahrsystemen und der Entwicklung von Technologielösungen für autonomes Fahren.

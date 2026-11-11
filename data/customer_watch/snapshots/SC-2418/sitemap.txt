@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-10T10:04:27Z · HTTP 200
-2026-11-10	https://www.streakwave.com/
-2026-11-10	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+2026-11-11	https://www.streakwave.com/
+2026-11-11	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
@@ -131,6 +131,12 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-10	https://www.streakwave.com/2-line-essential-lite-ip-phone-with-gigabit-ethernet
+2026-11-10	https://www.streakwave.com/2-account-2-line-essential-lite-ip-phone-with-poe
+2026-11-10	https://www.streakwave.com/long-range-switch-8-poe
+2026-11-10	https://www.streakwave.com/outdoor-long-range-endpoint
+2026-11-10	https://www.streakwave.com/ubiquiti-ua-retrofit-reader-fingerprint-w-retrofit-reader-fingerprint-white
+2026-11-10	https://www.streakwave.com/ubiquiti-ua-retrofit-reader-fingerprint-b-retrofit-reader-fingerprint-black
 2026-11-09	https://www.streakwave.com/engenius-ecw510p-wifi-7-2x2-lite-indoor-wireless-access-point-project
 2026-11-06	https://www.streakwave.com/essential-lite-ip-phone-with-wi-fi
 2026-11-06	https://www.streakwave.com/essential-lite-ip-phone-with-poe
@@ -186,10 +192,4 @@
 2026-10-08	https://www.streakwave.com/outdoor-ipx5-enclosure-for-wifi-76e-aps
 2026-10-08	https://www.streakwave.com/outdoor-ipx5-enclosure-for-nwawaxwac-aps
 2026-10-07	https://www.streakwave.com/4x4-2x2-wifi-7-dual-band-ap-25g-lan-nebulaflex
-2026-10-07	https://www.streakwave.com/2x2-wifi-7-dual-band-ap-25g-lan-dual-optimized-antenna-nebulaflex-pro-1-year
-2026-10-07	https://www.streakwave.com/2x2-wifi-7-ap-25g-lan-be11000-nebulaflex-pro
-2026-10-07	https://www.streakwave.com/4x4-2x2-wifi-7-dual-band-ap-smart-antenna-25g-lan-nebulaflex-pro-1-year
-2026-10-07	https://www.streakwave.com/4x4-tri-band-wifi-7-ap-10g-lan-nebulaflex-pro-1-year
-2026-10-07	https://www.streakwave.com/8-port-gbe-web-managed-switch-4x-10g-uplink
-2026-10-07	https://www.streakwave.com/nebula-lte7461n-4g-lte-a-outdoor-router-nebulaflex-pro-1y
-2026-10-07	https://www.streakwave.com/power-supply-for-nwawac
+2026-10-07	https://www.streakwave.com/2x2-wifi-7-dual-band-ap-25g-lan-dual-optimized-antenna-nebulaflex

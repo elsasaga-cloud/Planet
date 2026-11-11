@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3991)
+Svi proizvodi (3973)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -232,7 +232,7 @@ Ostali instrumenti (3)
 Fiber alati (2)
 Analizatori spektra
 ADSL oprema (17)
-Ekstenderi i modemi (45)
+Ekstenderi i modemi (43)
 VDSL, SHDSL, HPNA modemi (23)
 G.703, X.21, E1 itd (6)
 Telefonske centrale, Call centri (121)
@@ -321,10 +321,10 @@ Failover kutije (2)
 PoE svičevi
 PoE komponente
 USB telefoni i gejtveji (4)
-Ethernet svičevi (630)
-Neupravljivi svičevi (79)
+Ethernet svičevi (627)
+Neupravljivi svičevi (76)
 24 porta (1)
-8 portova (8)
+8 portova (7)
 16 portova (1)
 6-8 portova (7)
 Upravljivi svičevi (154)
@@ -350,7 +350,7 @@ Fiber šasije
 Fiber-coax konverteri
 Industrijska oprema (5)
 GPON / EPON Fiber (2)
-Kartice - PC adapteri (157)
+Kartice - PC adapteri (151)
 10/100Mb/s kartice (4)
 PCI (3)
 USB (1)
@@ -367,21 +367,21 @@ Fiber optičke kartice
 Fibre Channel kartice
 E1, V.35, HPNA i dr (3)
 Serijske multiport (6)
-Wireless - bežične (48)
-Wireless PCI Express (2)
+Wireless - bežične (44)
+Wireless PCI Express (1)
 Wireless PCI
-Wireless USB kartice (21)
+Wireless USB kartice (20)
 Wireless minPCI (3)
 Wireless PCMCIA
 High Power kartice (6)
 Wireless 54Mb/s (1)
 Wireless 108Mb/s
 Wireless 150Mb/s (2)
-Wireless 300Mb/s (10)
+Wireless 300Mb/s (9)
 Wireless 802.11a 5GHz (2)
-PCI Express (2)
+PCI Express (1)
 PCI-X / PCI (10)
-USB adapteri (41)
+USB adapteri (40)
 Ostali adapteri (5)
 RAID & storage (1)
 Asterisk VoIP kartice (15)
@@ -430,17 +430,17 @@ Antenski spliteri (2)
 Prenaponske zaštite (4)
 Antenski kablovi (32)
 Konektori i adapateri (33)
-Wireless WiFi 2.4 - 5GHz (371)
-WiFi ruteri indoor (95)
-Access pointi indoor (90)
-High Power oprema (28)
-Ekstenderi dometa (12)
-WiFi adapteri (28)
-Eksterni HotSpot-ovi (33)
-WiFi CPE klijenti (26)
+Wireless WiFi 2.4 - 5GHz (355)
+WiFi ruteri indoor (92)
+Access pointi indoor (85)
+High Power oprema (27)
+Ekstenderi dometa (10)
+WiFi adapteri (26)
+Eksterni HotSpot-ovi (32)
+WiFi CPE klijenti (25)
 Industrijski wireless (31)
-Eksterni linkovi (25)
-3G, LTE, GSM, EDGE (54)
+Eksterni linkovi (24)
+3G, LTE, GSM, EDGE (53)
 Serveri x86 i komponente (14)
 KVM svičevi PS/2, USB, IP (27)
 HDMI, VGA, DVI oprema (66)
@@ -469,9 +469,9 @@ RF Control (7)
 BUS kablovi
 Prekidači i utičnice (72)
 Konvencionalne centrale, detektori i oprema (3)
-Video nadzor (193)
-Fiksne IP kamere (72)
-Pokretne IP kamere (17)
+Video nadzor (191)
+Fiksne IP kamere (71)
+Pokretne IP kamere (16)
 Video serveri i risiveri (7)
 NVR snimači HW (12)
 DVR snimači (6)
@@ -529,4 +529,4 @@ Obaveštavamo vas da zbog državnog praznika, Dana primirja u Prvom svetskom rat
 Prvi radni dan je četvrtak 12. novembar 2026.
 MikroTik Gigabit outdoor PtP / PtMP wireless 802.11ay/ad na 60GHz + 5GHz do 2.4km
 Skrećemo pažnju na MikroTik Cube 60Pro uređaje koji omogućavaju ultra brze veze na 60GHz uz automatski 5GHz backup tako da u praksi dobijate Gigabit brzine i nivo pouzdanosti kao da ste postavili fiber optičke kablove ('Wireless Wire'). Uređaji rade u skladu sa 802.11ay/ad 60GHz i 802.11ac 5GHz standardima, malih su dimenzija, neupadljivi, uz vrhunski praktičnu i robusnu izradu (npr. radna temperatura -40º do +70ºC).
-Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više ne
+Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više neg

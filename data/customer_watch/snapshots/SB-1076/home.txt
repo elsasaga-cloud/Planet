@@ -1,4 +1,4 @@
-# SB-1076 simplifinetworks.com · home · https://simplifinetworks.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1076 simplifinetworks.com · home · https://simplifinetworks.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
 Simplifi Networks
 Kenya: +254 727 401 262
 Uganda: +256 758 937 003
@@ -77,6 +77,9 @@ Huawei eKit AR730
 Outgrowing a fixed-configuration branch router and need a platform that can take on more WAN bandwid...
 View →
 Our Recent Posts From Our Blogs
+2026-11-11
+U.S. Embassy Team Visits Simplifi Networks Uganda to Explore Technology and Connectivity Solutions in Uganda
+Simplifi Networks was delighted to welcome the U.S. Embassy in Uganda team, led by Chargé d’Affaires Mikael Cleverley, to its offices...
 2026-10-01
 Simplifi Networks and Huawei Ekit: Brings Simpler Enterprise Networking o Uganda
 Some partnerships begin with a contract. Others begin with a conversation about what the market needs next.
@@ -88,7 +91,3 @@ For Simplifi Networks,...
 2026-09-04
 How to Build a Resilient Network for Your Business in East Africa
 A network failure is rarely just an IT problem. When the network goes down, employees may stop working, customers may struggle to rea...
-2026-08-10
-Why Is My Internet Slow? A Simple Guide to Diagnosing Network Problems in East Africa
-It starts the same way almost every time.
-Someone asks, "Is the internet slow for everyone?" The router gets restarted. Someone pull...
