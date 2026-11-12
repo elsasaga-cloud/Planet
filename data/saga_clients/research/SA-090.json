@@ -1,7 +1,7 @@
 {
  "code": "SA-090",
  "name_official": "WIZARDSINC SDN BHD",
- "website_status": "快照失败（live.com.my：超时（站慢或封锁），2026-11-11，第 12 次）",
+ "website_status": "快照失败（live.com.my：超时（站慢或封锁），2026-11-12，第 13 次）",
  "summary": "吉隆坡 ICT/门禁/CCTV 集成商 WizardsInc Sdn Bhd（Technology Park Malaysia 孵化器；CEO Raja Kumaran）：2026-08 一单 RMB 10,500 / 42 件（STI-288GPM ×2、STI-21616GP ×4、STI-21616GPM ×1 + 工业光模块 28 + 电源），PI 标「Sample Testing」= 项目前的批量样机；关系全在 WhatsApp/WeChat，A/S 邮箱 0 封；曾被留在 Elsa 群发 Bcc（成单后仍收 $170 群发稿）。",
  "type": "",
  "size": "",
@@ -73,7 +73,7 @@
    "source": "PI.zip 单据"
   }
  ],
- "notes": "LT-T03 官网快照加厚（2026-11-11）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\n",
+ "notes": "LT-T03 官网快照加厚（2026-11-12）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#1。\n",
  "researched_at": "2026-10-22",
  "deal_pi": {
   "folder": "19 马来西亚 Raja 可发展",
@@ -288,7 +288,8 @@
    "2026-11-08T09:43:00Z",
    "2026-11-09T10:28:40Z",
    "2026-11-10T10:34:47Z",
-   "2026-11-11T10:06:51Z"
+   "2026-11-11T10:06:51Z",
+   "2026-11-12T10:26:47Z"
   ],
   "fails": [
    "2026-10-29",
@@ -302,7 +303,8 @@
    "2026-11-08",
    "2026-11-09",
    "2026-11-10",
-   "2026-11-11"
+   "2026-11-11",
+   "2026-11-12"
   ],
   "batch": "LT-T03"
  },

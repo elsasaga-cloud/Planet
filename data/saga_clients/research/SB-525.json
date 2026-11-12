@@ -2,7 +2,7 @@
  "code": "SB-525",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（atlantis-land.com：HTTP 错误，2026-11-11，第 13 次）",
+ "website_status": "快照失败（atlantis-land.com：HTTP 错误，2026-11-12，第 14 次）",
  "summary": "意大利 Atlantis-Land（意大利网络/安防品牌 Atlantis：商用 PoE 现 ONV 代工，「好多人卖他们的」；KP Massimo Liddo（Director）、Daniela Sdanga（Buyer）；「可以尝试多跟进一下」；官网 unreachable）；群发 13 次无回复。",
  "type": "网络/安防品牌商（意大利，PoE 现 ONV）",
  "size": "",
@@ -45,7 +45,7 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-11）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-11-12）：website_status/fail#14。\nLT-T03 官网快照加厚（2026-11-11）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -169,7 +169,8 @@
    "2026-11-08T09:44:25Z",
    "2026-11-09T10:30:05Z",
    "2026-11-10T10:36:12Z",
-   "2026-11-11T10:08:15Z"
+   "2026-11-11T10:08:15Z",
+   "2026-11-12T10:28:10Z"
   ],
   "fails": [
    "2026-10-21",
@@ -184,7 +185,8 @@
    "2026-11-08",
    "2026-11-09",
    "2026-11-10",
-   "2026-11-11"
+   "2026-11-11",
+   "2026-11-12"
   ],
   "batch": "LT-T03"
  },

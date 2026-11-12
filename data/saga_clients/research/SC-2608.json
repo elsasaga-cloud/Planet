@@ -46,7 +46,7 @@
  ],
  "grade_override": "B",
  "override_reason": "Q-76 LT-01 2026-10-29：C 池三闸捞出 → B（Simon U128「那就直接定为 B」；长期客户群 · 普通跟）；闸 2：△ 观察档（长线）· OEM 30%：Mayflex（Birmingham 1917；250 人；Sonepar UK 子公司；自有品牌 Excel Networking；Andrew Percival 在表）坐实；OEM ✔ 主区 ✔ 具名 KP ✔ 但巨头采购体系 → 入池长线观察档；Simon 曾判不行，可否决；闸 1：英国 Mayflex（Sonepar 旗下大型布线 / 安防 / 网络分销，自有品牌 Excel Networking；商业 PoE）：英国主区 + 分销 + 自有品牌 ✔；19 推 0 回 → 闸 2 查底数（体量偏大）；Simon 曾…",
- "notes": "LT-T03 官网快照加厚（2026-11-11）：fail#12。\nLT-T03 官网快照加厚（2026-11-10）：fail#11。\nLT-T03 官网快照加厚（2026-11-09）：fail#10。\nLT-T03 官网快照加厚（2026-11-08）：fail#9。\nLT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
+ "notes": "LT-T03 官网快照加厚（2026-11-12）：fail#13。\nLT-T03 官网快照加厚（2026-11-11）：fail#12。\nLT-T03 官网快照加厚（2026-11-10）：fail#11。\nLT-T03 官网快照加厚（2026-11-09）：fail#10。\nLT-T03 官网快照加厚（2026-11-08）：fail#9。\nLT-T03 官网快照加厚（2026-11-07）：fail#8。\nLT-T03 官网快照加厚（2026-11-06）：fail#7。\nLT-T03 官网快照加厚（2026-11-05）：fail#6。\nLT-T03 官网快照加厚（2026-11-04）：fail#5。\nLT-T03 官网快照加厚（2026-11-03）：fail#4。\nLT-T03 官网快照加厚（2026-11-02）：fail#3。\nLT-T03 官网快照加厚（2026-11-01）：fail#2。\nLT-T03 官网快照加厚（2026-10-29）：fail#1。\nLT-T01 桌面加厚（2026-10-29）：填 type/size/website_status/name_official/evidence/kp/company_facts/business_lines/channels/signals/risks/saga_fit/mail_review.saga_now/mail_review.facts；来源 = registry / sieve / lt_review / 表内。\n（无首轮调研；LT-01 并入长期客户群时建骨架，待复核加厚）",
  "override_history": [
   {
    "batch": "LT-01",
@@ -161,7 +161,8 @@
    "2026-11-08T09:45:07Z",
    "2026-11-09T10:30:48Z",
    "2026-11-10T10:36:55Z",
-   "2026-11-11T10:09:05Z"
+   "2026-11-11T10:09:05Z",
+   "2026-11-12T10:28:52Z"
   ],
   "fails": [
    "2026-10-29",
@@ -175,7 +176,8 @@
    "2026-11-08",
    "2026-11-09",
    "2026-11-10",
-   "2026-11-11"
+   "2026-11-11",
+   "2026-11-12"
   ],
   "batch": "LT-T03"
  },

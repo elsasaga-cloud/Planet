@@ -2,7 +2,7 @@
  "code": "SC-1366",
  "name_official": "mayenetsolutions.com",
  "researched_at": "2026-10-30",
- "website_status": "快照失败（mayenetsolutions.com：超时（站慢或封锁），2026-11-11，第 11 次）",
+ "website_status": "快照失败（mayenetsolutions.com：超时（站慢或封锁），2026-11-12，第 12 次）",
  "summary": "印度客户（mayenetsolutions.com）：AB-FINAL-02 以回信证据建档——非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）。公司底数未查（新入库即查排队）。",
  "type": "",
  "size": "",
@@ -17,7 +17,7 @@
   }
  ],
  "kp": [],
- "notes": "LT-T03 官网快照加厚（2026-11-11）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#1。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
+ "notes": "LT-T03 官网快照加厚（2026-11-12）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-11）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#1。\n（AB-FINAL-02 建档：仅回信证据，无首轮调研；公司底数待查）",
  "deep": {
   "done_at": "2026-10-30",
   "level": "AB-FINAL-02 回信建档"
@@ -120,7 +120,8 @@
    "2026-11-08T09:45:05Z",
    "2026-11-09T10:30:46Z",
    "2026-11-10T10:36:52Z",
-   "2026-11-11T10:09:04Z"
+   "2026-11-11T10:09:04Z",
+   "2026-11-12T10:28:50Z"
   ],
   "fails": [
    "2026-11-01",
@@ -133,7 +134,8 @@
    "2026-11-08",
    "2026-11-09",
    "2026-11-10",
-   "2026-11-11"
+   "2026-11-11",
+   "2026-11-12"
   ],
   "batch": "LT-T03"
  }
