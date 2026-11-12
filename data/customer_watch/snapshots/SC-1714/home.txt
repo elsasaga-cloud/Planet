@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Omni Ray AG | Ihr Automationspartner | E-Shop | Top Preise
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -129,24 +129,24 @@ Bestellstatus im Blick und Favoriten speichern.
 Sparen Sie Zeit dank schnellerer Checkout.
 Jetzt anmelden
 Produkt-News
+XELAN Extender: Single Pair Ethernet (SPE) Konverter von Etic Telecom
+Mit der XELAN-Produktfamilie bietet Etic Telecom eine kompakte und preiswerte Lösung zur Verlängerung von Ethernet-Netzwerken über bestehende 2-Draht Kupferleitungen. Die SPE-Ethernet-Extender ermöglichen die zuverlässige Verbindung.
+11.11.2026
+Cybersecurity für Endgeräte mit der Firewall EDF-G1002-BP von Moxa
+Die industrielle Firewall Moxa EDF-G1002-BP bietet hier eine wirkungsvolle Lösung. Sie schützt bestehende Geräte durch eine zusätzliche Sicherheit auf der Netzwerkebene, ganz ohne die Installation von Software auf den Endgeräten (Endpoint Protection).
+11.11.2026
+Industrielle Netzwerke wirksam schützen mit dem Secure Router EDR-G9004 von Moxa
+Die industriellen Secure Router Moxa EDR-G9004 bieten eine wirkungsvolle Lösung, um Netzwerke gezielt abzusichern. Durch die Netzwerksegmentierung werden unterschiedliche Anlagenteile und Sicherheitszonen voneinander getrennt.
+09.11.2026
+Sichere SHDSL-Verbindungen mit XSLAN-Extendern von Etic Telecom
+Die XSLAN-Produktfamilie von Etic Telecom ermöglicht die zuverlässige Vernetzung dezentraler Ethernet-Netzwerke über bestehende zweiadrige Kupferleitungen. Damit können Betreiber industrieller Anlagen und Kritischer Infrastrukturen ihre vorhandene Leitung
+06.11.2026
 TWS-3010-SPE: Single Pair Ethernet managed Switch von Moxa
 Mit dem TWS-3010-SPE Gerät präsentiert Moxa einen managed Ethernet-Switch, der Single Pair Ethernet (SPE) und Power over Data Line (PoDL) kombiniert. Damit ermöglicht das Gerät die gleichzeitige Übertragung von Daten und Strom über ein einziges verdrillte
 05.11.2026
 Moxa: Abkündigungen, Nachfolgeprodukte und aktuelle Lieferzeiten
 Aufgrund bestehender und künftiger Cybersecurity-Anforderungen überprüft und bereinigt Moxa kontinuierlich sein Produktportfolio. Zusätzlich führen Abkündigungen wichtiger Bauteile dazu, dass einzelne Produktfamilien nicht mehr weitergeführt werden.
 29.10.2026
-APEM PC-Serie: Ergonomische Joysticks für mobile und ferngesteuerte Anwendungen
-APEM PC-Serie Joysticks im ergonomischen Gamepad-Design mit Proportional-Daumenjoystick, USB- oder Analogausgängen und optional IP67. Für Robotik und mobile Anwendungen.
-26.10.2026
-OMNI RAY × MOXA SOLUTION DAY | 11. NOVEMBER 2026
-Wir laden Sie ein zu unserem Solution Day am 11.11.26 mit Moxa zum Thema: Sichere industrielle Netzwerke – ohne Kompromisse bei der Verfügbarkeit
-22.10.2026
-Modulare und kompakte Schleifringe für Leistung und Datenübertragung
-FSG Schleifringe für mobile Maschinen: SR-GS190 für Leistung, Hochvolt und Daten sowie kompakter SR-GS150-H8 mit nur 8 mm Bauhöhe.
-20.10.2026
-Rohde SO-26 und SO-35: Robuste Kerngriffe aus Aluminium
-Rohde Kerngriffe SO-26 und SO-35 aus Aluminium mit hitzebeständiger Silikonbeschichtung bis 190 °C und mindestens 1'000 N Tragkraft.
-16.10.2026
 Previous slide
 Next slide
 Marken
@@ -469,24 +469,4 @@ Sentio Mehrraum-Audiosystem
 Streamer - Verstärker
 Lautsprecher
 Modulor von laboratorioaudio
-Omni / Iride von laboratorioaudio
-SUB von laboratorioaudio
-Zubehör
-Sonstiges
-Busleitung und Klemme
-Ventile
-Zonenventile
-Zubehör
-Stellantriebe
-Ventilstellantriebe
-Thermischer Stellantrieb
-Elektromechanische Stellantriebe
-Zubehör Ventile
-Industrieautomation
-Antriebstechnik
-Frequenzumrichter
-Kostenoptimierte FR-CS-Serie
-Standardumrichter FR-D-Serie
-Kompaktumrichter FR-E-Serie
-Energiesparumrichter FR-F-Serie
-High-End - Umrich
+Omni / I

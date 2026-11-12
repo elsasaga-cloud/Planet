@@ -1,4 +1,4 @@
-# SB-933 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-933 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-11-12T09:57:55Z · HTTP 200
 wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution - News 鑫志科技
 Open Navigation Search
 AirCloud
@@ -51,12 +51,14 @@ AirCore Windows Updates
 Press Review and Award
 Event
 EDM
-AirCore Windows 2.19.9
-2026/11/04
+AirCore Windows 2.19.10
+2026/11/11
 AirCore Windows Updates
-2.19.9 simplifies the Companion's own navigation and fixes a misleading Dashboard number, both shipped the same night a customer demo raised them.
-Fixed
-- The sidebar previously listed 17 separate group headers (99 items total), which a customer dem
+AirCoreWin Companion 2.19.10
+Headline changes:
+- New: native 16-tile Camera Wall in Video CMS -- click any channel in the NVR tree
+to assign or swap it into a tile; switching between Live and Recording keeps the
+wall layout and every tile's last
 Social
 Facebook
 Youtube

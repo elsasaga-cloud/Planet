@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-12T09:57:55Z · HTTP 200
+Thu, 12 Nov 2026 09:00:00 +0000	10 ajustes de seguridad esenciales en un router industrial antes de instalarlo	https://www.davantel.com/10-ajustes-de-seguridad-esenciales-en-un-router-industrial-antes-de-instalarlo
 Wed, 11 Nov 2026 09:00:00 +0000	Gestión remota empresarial con RMS: características, capacidades y mejores prácticas	https://www.davantel.com/gestion-remota-empresarial-con-rms-caracteristicas-capacidades-y-mejores-practicas
 Tue, 10 Nov 2026 09:00:00 +0000	Router 5G: ¿cómo elegirlo para uso industrial?	https://www.davantel.com/router-5g
 Mon, 09 Nov 2026 09:00:00 +0000	Integración de LoRaWAN a MQTT: Diseño de Temas, Decodificación de Carga Útil y Recuperación Offline	https://www.davantel.com/integracion-de-lorawan-a-mqtt-diseno-de-temas-decodificacion-de-carga-util-y-recuperacion-offline
@@ -56,5 +57,4 @@ Wed, 29 Jul 2026 08:00:00 +0000	Actualizaciones de firmware de RutOS 7.24 y TswO
 Mon, 27 Jul 2026 08:00:00 +0000	MQTT: Protocolo de Mensajería para IoT — Guía Técnica Completa	https://www.davantel.com/mqtt-protocolo-de-mensajeria-para-iot-guia-tecnica-completa
 Fri, 24 Jul 2026 08:00:00 +0000	¿Qué es el ‘Edge Comptuting’ en IoT? La Guía de arquitectura industrial para el 2026	https://www.davantel.com/que-es-el-edge-comptuting-en-iot-la-guia-de-arquitectura-industrial-para-el-2026
 Wed, 22 Jul 2026 08:00:00 +0000	Guía universal para probar y configurar dispositivos Teltonika Telematics	https://www.davantel.com/guia-universal-para-probar-y-configurar-dispositivos-teltonika-telematics
-Mon, 20 Jul 2026 08:00:00 +0000	Guía para la Conexión de backhaul en gateways IoT: ¿Ethernet, Wi-Fi o 4G/5G?	https://www.davantel.com/guia-para-la-conexion-de-backhaul-en-gateways-iot-ethernet-wi-fi-o-4g-5g
-Fri, 17 Jul 2026 08:00:00 +0000	Conectividad IoT de Misión
+Mon, 20 Jul 2026 08:00:00 +0000	Guía para la Conex

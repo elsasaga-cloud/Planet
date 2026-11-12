@@ -1,14 +1,14 @@
-# SB-933 airlive.com · sitemap · https://www.airlive.com/en/auto_sitemap.php · fetched 2026-11-11T09:37:04Z · HTTP 200
-2026-11-10	https://www.airlive.com/en/index.php
-2026-11-10	https://www.airlive.com/en/about.php
-2026-11-10	https://www.airlive.com/en/trademark.php
-2026-11-10	https://www.airlive.com/en/iso.php
-2026-11-10	https://www.airlive.com/en/rma.php
-2026-11-10	https://www.airlive.com/en/privacy.php
-2026-11-10	https://www.airlive.com/en/sitemap.php
-2026-11-10	https://www.airlive.com/en/product
-2026-11-10	https://www.airlive.com/en/solution.php
-2026-11-10	https://www.airlive.com/en/banner.php
+# SB-933 airlive.com · sitemap · https://www.airlive.com/en/auto_sitemap.php · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-11-12	https://www.airlive.com/en/index.php
+2026-11-12	https://www.airlive.com/en/about.php
+2026-11-12	https://www.airlive.com/en/trademark.php
+2026-11-12	https://www.airlive.com/en/iso.php
+2026-11-12	https://www.airlive.com/en/rma.php
+2026-11-12	https://www.airlive.com/en/privacy.php
+2026-11-12	https://www.airlive.com/en/sitemap.php
+2026-11-12	https://www.airlive.com/en/product
+2026-11-12	https://www.airlive.com/en/solution.php
+2026-11-12	https://www.airlive.com/en/banner.php
 2024-12-18	https://www.airlive.com/en/product/sr/SMB
 2021-02-24	https://www.airlive.com/en/product/sr/SMB/Others---topology-top-introduce
 2023-05-11	https://www.airlive.com/en/product/sr/SMB/AirCloud-and-Wireless

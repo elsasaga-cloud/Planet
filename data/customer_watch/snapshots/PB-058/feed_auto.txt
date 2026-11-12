@@ -1,4 +1,4 @@
-# PB-058 JPF Industries SAS · feed_auto · https://www.jpfidistribution.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# PB-058 JPF Industries SAS · feed_auto · https://www.jpfidistribution.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Mon, 22 Jan 2024 14:34:27 +0000	LE KIT SOLAIRE AUTOCONSOMMATION	https://www.jpfidistribution.com/le-kit-solaire-autoconsommation/
 Thu, 26 Jan 2023 10:49:00 +0000	Cordon SUB D HD15 vers embouts KY30-04	https://www.jpfidistribution.com/cordon-sub-d-hd15-vers-embouts-ky30-04/
 Thu, 03 Nov 2022 10:25:35 +0000	Connecteur Radial Mâle vers ITW Pancon	https://www.jpfidistribution.com/connecteur-radial-male-vers-itw-pancon/

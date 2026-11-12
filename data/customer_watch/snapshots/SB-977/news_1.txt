@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · news_1 · https://www.eltrox.cz/blog/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-977 eltrox.cz · news_1 · https://www.eltrox.cz/blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Blog - eltrox.cz
 Cookie consent
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
@@ -126,16 +126,21 @@ Fotobuňky ,
 Výstražná světla pro pohony bran ,
 Dálkové ovladače
 Inteligentní dům
-Centrála ,
-Senzory ,
-Inteligentní ovladače ,
-Tlačítka ,
-Inteligentní zásuvky ,
+Centrální jednotky a smart brány ,
+Inteligentní vypínače a relé ,
+Inteligentní tlačítka a dálkové ovladače ,
+Ovládací panely inteligentní domácnosti ,
+Inteligentní zásuvky a prodlužovačky ,
+Inteligentní senzory a detektory ,
+Termostaty a regulace vytápění ,
+Ovládání rolet, žaluzií a závěsů ,
 Chytré osvětlení ,
-Inteligentní vytápění ,
-Zestavy ,
-Příslušenství ,
-Motory pro rolety a žaluzie
+Měření spotřeby elektřiny ,
+Inteligentní zámky a ovládání vrat ,
+Ovládání vody a zavlažování ,
+KNX a sběrnicová automatizace ,
+Soupravy inteligentní domácnosti ,
+Příslušenství k inteligentní domácnosti
 Osvětlení
 Svítidla ,
 LED osvětlení ,
@@ -510,20 +515,4 @@ Fotovoltaické rozvaděče a ochrany –
 Montážní chemie –
 Napájecí zdroje na DIN lištu.
 Podložky a stojany k notebookům.
-Počítače, notebooky a příslušenství.
-Tísňová tlačítka.
-Kryty.
-Papír do tiskáren –
-Patch panely.
-Konektory, zástrčky, zásuvky.
-Poličky.
-HDD.
-Pigtailové kabely.
-Sady.
-Poplachové skříně.
-Další příslušenství garážových vrat.
-Biometrické čtečky a programátory –
-Řídicí jednotky pro brány –
-Počítačové monitory.
-Mobilní monitorovací věže a přívěsy –
-NAS s
+Počítače, n

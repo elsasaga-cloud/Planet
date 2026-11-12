@@ -1,4 +1,4 @@
-# SB-611 avanis.de · home · https://avanis.de/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-611 avanis.de · home · https://avanis.de/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Avanis GmbH - Ihr zuverlässiger Partner für Netzwerktechnik
 document.getElementById(forward)?.focus());
 return;
@@ -152,8 +152,8 @@ this.text = this.text === 'In 360° ansehen' ? 'Besuchen Sie uns digital' : 'In 
 }
 }" x-init="changeText()" aria-label="In 360° ansehen" class="bg-avanis-red text-white font-bold py-2 px-4 rounded-xl group-hover:scale-105 transition-all mx-auto block
 lg:w-96 lg:h-14 lg:translate-x-[54.75%] lg:translate-y-[20%] lg:-mb-14
-md:w-80 md:h-[3rem] md:translate-x-[53.5%] md:translate-y-[15%] md:-mb-[3rem]
-sm:w-64 h-[2.5rem] sm:translate-x-[54.5%] sm:translate-y-[10%] -mb-[2.5rem]
+md:w-80 md:h-12 md:translate-x-[53.5%] md:translate-y-[15%] md:-mb-12
+sm:w-64 h-10 sm:translate-x-[54.5%] sm:translate-y-[10%] -mb-10
 w-full max-w-[60%] translate-y-[20%] z-10 relative">
 ✕
 Über Mitarbeiter
@@ -176,7 +176,7 @@ Datenschutz
 Kontakt
 Newsletter
 Service & Downloads
-CrefoZert Zertifikat
+DIN ISO 9001 Zertifikat
 Google Rezensionen
 Danke nochmal an das Team. Hier wird noch Kundenservice gelebt. Kompetent, freundlich und lösungsorientiert, einfach klasse
 Rezension schreiben

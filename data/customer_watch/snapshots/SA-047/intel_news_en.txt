@@ -1,2 +1,2 @@
-# SA-047 sge.com.tr · intel_news_en · https://news.google.com/rss/search?q=%22SGE%20M%C3%BChendislik%20Elektrik%20Otomasyon%20Bilgi%20%C4%B0%C5%9Flem%20%20%20%C5%9Eti%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SA-047 sge.com.tr · intel_news_en · https://news.google.com/rss/search?q=%22SGE%20M%C3%BChendislik%20Elektrik%20Otomasyon%20Bilgi%20%C4%B0%C5%9Flem%20%20%20%C5%9Eti%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-12T09:57:55Z · HTTP 200
 

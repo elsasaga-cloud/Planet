@@ -1,4 +1,5 @@
-# SB-505 eso.co.th · youtube · https://www.youtube.com/@ESOTECHOFFICIAL · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-505 eso.co.th · youtube · https://www.youtube.com/@ESOTECHOFFICIAL · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-11-11T13:04:30+00:00	แกะกล่อง WECON INVERTER VC SERIES | รีวิวตัวเครื่องและฟังก์ชันควบคุมมอเตอร์	https://www.youtube.com/watch?v=FYpdBsSP0pc
 2026-11-09T14:49:24+00:00	จากประกอบตู้ถึงทดสอบจริง! อบรมระบบวัด DO ด้วย PLC HMI WECON | ESO TECH	https://www.youtube.com/watch?v=eUrir0SwND4
 2026-11-01T10:56:54+00:00	รีวิว Radar Level Meter FYM501 80GHz วัดระดับน้ำแบบไม่สัมผัส เชื่อมต่อ Bluetooth ได้	https://www.youtube.com/shorts/vDwNrjHfQhs
 2026-10-28T15:46:51+00:00	HMI WECON Tutorial EP27 | สร้าง Real Time Trend Chart พล็อตกราฟติดตามค่าระบบควบคุม	https://www.youtube.com/watch?v=boOHfuk5jgg
@@ -13,4 +14,3 @@
 2026-10-25T08:39:14+00:00	HMI WECON Tutorial EP21 | สร้าง Popup Display หน้าต่างสั่งงานและตั้งค่าอุปกรณ์ใน PI Studio	https://www.youtube.com/watch?v=UXSuGO2Lxzg
 2026-10-25T08:04:28+00:00	HMI WECON Tutorial EP20 | Character Input/Display แสดงข้อความจาก PLC และ Barcode Reader	https://www.youtube.com/watch?v=VdpRQNPrW1c
 2026-10-25T07:43:29+00:00	HMI WECON Tutorial EP19 | Slider Switch เลื่อนปรับค่าความเร็วมอเตอร์และ Setpoint ใน PI Studio	https://www.youtube.com/watch?v=9LKZmNNbp0E
-2026-10-25T06:46:01+00:00	HMI WECON Tutorial EP18 | Numeric Input/Display แสดงค่าจาก PLC และป้อน Setpoint ใน PI Studio	https://www.youtube.com/watch?v=R5lN8aLmasQ

@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,44 +291,42 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-WYPRZEDAŻ
-Szafa wisząca Professional 19" 4U, 450mm, drzwi szklane, czarna
-344,40 zł z VAT
-399,75 zł
-280,00 zł netto
+Daszek Orno OR-Dom-RL-901DN/G
+55,35 zł z VAT
+61,49 zł
+45,00 zł netto
 szt
-Najniższa cena z 30 dni: 399,75 zł
-Wireless Instruments ISA5-14V
-84,87 zł z VAT
-210,71 zł
-69,00 zł netto
+Najniższa cena z 30 dni: 61,49 zł
+Wisnetworks WIS-L5819S Sector Base Station
+257,07 zł z VAT
+719,55 zł
+209,00 zł netto
 szt
-Najniższa cena z 30 dni: 210,71 zł
-Pigtail U.FL - N/m (20 cm)
-8,49 zł z VAT
-18,91 zł
-6,90 zł netto
+Najniższa cena z 30 dni: 719,55 zł
+TP-Link Deco X10
+207,87 zł z VAT
+300,99 zł
+169,00 zł netto
 szt
-Najniższa cena z 30 dni: 18,91 zł
-WYPRZEDAŻ
-Wisnetworks WIS-ANO2405
-11,07 zł z VAT
-27,63 zł
-9,00 zł netto
+Najniższa cena z 30 dni: 300,99 zł
+Ambit Atheros 5213A, 802.11 a/b/g
+12,30 zł z VAT
+39,36 zł
+10,00 zł netto
 szt
-Najniższa cena z 30 dni: 27,63 zł
-Tenda TEG1126P-24-410W
-836,40 zł z VAT
-984,00 zł
-680,00 zł netto
+Najniższa cena z 30 dni: 39,36 zł
+MikroTik wAP LR2 kit (RBwAPR-2nD&R11e-LR2)
+479,70 zł z VAT
+545,70 zł
+390,00 zł netto
 szt
-Najniższa cena z 30 dni: 984,00 zł
-Szafkowy zasilacz buforowy ZBF-R35D
-170,97 zł z VAT
-212,79 zł
-139,00 zł netto
+Najniższa cena z 30 dni: 545,70 zł
+Wisnetworks WIS-L5820S Sector Base Station
+479,70 zł z VAT
+719,55 zł
+390,00 zł netto
 szt
-Najniższa cena z 30 dni: 212,79 zł
+Najniższa cena z 30 dni: 719,55 zł
 Najnowsze propozycje
 NOWOŚĆ
 Cudy WR3600E
@@ -356,23 +354,23 @@ TP-Link Fusion 2.5G PoE
 szt
 NOWOŚĆ
 Ubiquiti AI Horn Speaker (UP-AI-Horn-Speaker-B)
-1 376,76 zł z VAT
-1 119,32 zł netto
+1 380,27 zł z VAT
+1 122,17 zł netto
 szt
 NOWOŚĆ
 Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
-103,81 zł z VAT
-84,40 zł netto
+104,23 zł z VAT
+84,74 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 647,78 zł z VAT
-6 217,71 zł netto
+7 667,23 zł z VAT
+6 233,52 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
-1 579,23 zł z VAT
-1 283,93 zł netto
+1 583,26 zł z VAT
+1 287,20 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
@@ -386,4 +384,4 @@ Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym
 Koszty przesyłki:
 DHL: od 13 PLN (netto)
 FedEx: od 14.90 PLN (netto)
-Paczkomat: od 14
+Paczkomat: od 14 PLN (net

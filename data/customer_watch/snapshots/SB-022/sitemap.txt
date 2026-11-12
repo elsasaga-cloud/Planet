@@ -1,4 +1,4 @@
-# SB-022 Desk Technologies · sitemap · https://desk-sicherheit.de/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-022 Desk Technologies · sitemap · https://desk-sicherheit.de/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 	https://desk-sicherheit.de/
 	https://desk-sicherheit.de/leistungen
 	https://desk-sicherheit.de/leistungen/sicherheitsdienst
@@ -49,6 +49,7 @@
 	https://desk-sicherheit.de/leistungen/sicherheitstechnik/videoueberwachung/prototypen
 	https://desk-sicherheit.de/impressum
 	https://desk-sicherheit.de/datenschutz
+2026-11-12T00:16:28.643Z	https://desk-sicherheit.de/news/rescue-robotics-ugv-bispektralkamera
 2026-10-31T18:46:55.349Z	https://desk-sicherheit.de/news/brandfrueherkennung-ladestationen-busse-e-autos
 2026-10-18T21:25:19.854Z	https://desk-sicherheit.de/news/baustellenbewachung-kupferdiebstahl-kabeldiebstahl
 2026-10-18T20:38:57.267Z	https://desk-sicherheit.de/news/schutz-kritischer-infrastruktur-stromversorgung

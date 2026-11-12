@@ -1,4 +1,4 @@
-# SC-371 Visiotech · sitemap · https://www.visiotechsecurity.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-371 Visiotech · sitemap · https://www.visiotechsecurity.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 	https://www.visiotechsecurity.com/es/productos/control-de-accesos/cierres-electromagnéticos
 	https://www.visiotechsecurity.com/es/productos/cctv/hdcvi/cámaras-hdcvi/cámaras-compactas-43
 	https://www.visiotechsecurity.com/es/productos/intrusion/alarmas-profesionales/pyronix-enforcer

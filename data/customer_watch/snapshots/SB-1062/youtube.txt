@@ -1,4 +1,7 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-10-20T11:58:45+00:00	Odoo Insider - Live Q&A - Inventory Focus with Richard	https://www.youtube.com/watch?v=bCnnJ2b04K0
+2026-11-12T05:01:12+00:00	Smart Decision-Making: Power Your Business Growth with Odoo AI	https://www.youtube.com/watch?v=bwvbOPl9bqI
+2026-11-11T20:11:22+00:00	Odoo Live Services: AI Q&A	https://www.youtube.com/watch?v=UODAa-ne-jc
 2026-11-10T19:46:04+00:00	Odoo AI: From Ideas to Action	https://www.youtube.com/watch?v=CZIbHF2irYw
 2026-11-10T15:29:43+00:00	Webinar - From Kitchen to Delivery - Set up your Restaurant and Sell Online with Odoo 20	https://www.youtube.com/watch?v=4uUGPyymy6k
 2026-11-10T11:21:22+00:00	Webinaire - Le parcours visiteur, de la réservation à l’expérience sur place	https://www.youtube.com/watch?v=3zkJutoknBc
@@ -11,6 +14,3 @@
 2026-11-05T14:37:13+00:00	Webinar - Partnership Program	https://www.youtube.com/watch?v=6tqxYlWFEXI
 2026-11-04T16:20:06+00:00	Odoo Deep Dive: Finanzbuchhaltung	https://www.youtube.com/watch?v=zfoOJYbgPAw
 2026-11-04T16:15:16+00:00	Odoo Quick Tips - Charge overages [Sales]	https://www.youtube.com/watch?v=yxm1moFAC-4
-2026-11-04T16:12:04+00:00	Odoo 20 : Wat is er nieuw in Kassa (Retail)?	https://www.youtube.com/watch?v=c_JwWv63Hoo
-2026-11-04T08:44:18+00:00	Webinar - Reinvent Your Accounting Firm and Manage Your Client Portfolio with Odoo 20	https://www.youtube.com/watch?v=PAqBiRBhRcg
-2026-11-03T21:25:07+00:00	Odoo Market Anaylsis for the East Coast	https://www.youtube.com/watch?v=OdFGgXbsRSk

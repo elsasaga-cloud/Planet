@@ -1,4 +1,4 @@
-# SB-576 matrix.es · feed_auto · https://www.matrix.es/feed · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-576 matrix.es · feed_auto · https://www.matrix.es/feed · fetched 2026-11-12T09:57:55Z · HTTP 200
 Mon, 21 Sep 2026 08:43:44 +0000	Axiomtek & Matrix Solution Day	https://www.matrix.es/novedades-y-formacion/axiomtek-solution-day-barcelona
 Tue, 21 Jul 2026 11:33:45 +0000	GPU dedicada vs SoC con NPU integrada	https://www.matrix.es/novedades-y-formacion/gpu-dedicada-vs-soc-con-npu-integrada-workshop-tecnico
 Wed, 10 Jun 2026 10:24:46 +0000	Catálogo de Antenas 2026	https://www.matrix.es/novedades-y-formacion/catalogo-de-antenas-2026

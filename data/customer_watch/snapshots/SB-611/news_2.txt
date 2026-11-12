@@ -1,4 +1,4 @@
-# SB-611 avanis.de · news_2 · https://avanis.de/news/blog/welttag-der-patientensicherheit-2026 · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-611 avanis.de · news_2 · https://avanis.de/news/blog/welttag-der-patientensicherheit-2026 · fetched 2026-11-12T09:57:55Z · HTTP 200
 Welttag der Patientensicherheit 2026
 document.getElementById(forward)?.focus());
 return;
@@ -142,7 +142,7 @@ Datenschutz
 Kontakt
 Newsletter
 Service & Downloads
-CrefoZert Zertifikat
+DIN ISO 9001 Zertifikat
 Google Rezensionen
 Danke nochmal an das Team. Hier wird noch Kundenservice gelebt. Kompetent, freundlich und lösungsorientiert, einfach klasse
 Rezension schreiben

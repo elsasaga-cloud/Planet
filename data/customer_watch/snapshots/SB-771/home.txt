@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Control remoto inalambrico AX PRO, HIKVISION DS-PKF1-WB(O-STD)
-$ 20 + IVA
-Sensor de movimiento inal?mbrico para interiores de techo, HIKVISION DS-PDCL12-EG2-WB
-$ 26 + IVA
+Sensor cableado QUAD infrared & MW interiores PET 25Kg, LANTEK SEN.8350
+$ 54 + IVA
+KIT DE PANEL DE ALARMA INALAMBRICO 48 ZONAS AX PRO, HIKVISION DS-PWA48-Kit-WB(LA)(O-STD)
+$ 173 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,6 +202,13 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4K Ultra HD 20 mts Fibra optica macho a...
+$ 39 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
 CONTROL DE ACCESO
 EM CARD 125 MHZ tipo llavero, LANTEK CD02-ID CARD
 $ 1 + IVA
@@ -210,8 +217,15 @@ Compare
 Quick view
 Add to wishlist
 CCTV , ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 5 mts cobre macho a macho, ...
-$ 11 + IVA
+Cable HDMI 4K Ultra HD 30 mts Fibra optica macho a...
+$ 51 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+ACCESORIOS CCTV
+Conector RG6 rosca, VERTICAL 083-1041/S
+$ 1 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -219,20 +233,6 @@ Add to wishlist
 SEGURIDAD , CONTROL DE ACCESO
 Kit Videoportero IP WIFI 4MP Audio Bidireccional M...
 $ 241 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-ACCESORIOS CCTV
-Extension coax RG59 + Corriente 20m, 65ft, EPCOM D...
-$ 16 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-ESTRUCTURADO , FIBRA OPTICA
-Medidor de potencia óptica y VFL Localizador visu...
-$ 85 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,29 +266,15 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Protector de voltaje 12VDC Din Rail, LANTEK 12V SP...
-$ 24 + IVA
+Switch L2 / 24 RJ45 x 1GE / 2 SFP x 2.5GE / Gestio...
+$ 142 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente 740w para RG-S5310-PoE, RUIJIE RG-PA1000I-P...
-$ 620 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-REDES , SWITCHES
-Consola KVM VGA de 8 puertos para montaje en rack ...
-$ 1,193 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-REDES , SWITCHES
-Switch Smart WEB administrable 8 puertos PoE 2.5G ...
-$ 250 + IVA
+Switch 24 FE (10/100) PoE+ / 2GE/SFP combo uplink,...
+$ 137 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -296,6 +282,20 @@ Add to wishlist
 REDES , SWITCHES
 Inyector PoE++ 60W, 2.5 Gbps / 1000 Mbps, LANTEK L...
 $ 31 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Switch PoE 8FE + 2GE, 1 y 2 60W, 3-8 30W(802.3at) ...
+$ 49 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Switch L3 NeverDie/ 24 GE/ 4 x SFP+/ VSU, RIP, OSP...
+$ 437 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

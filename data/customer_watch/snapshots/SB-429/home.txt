@@ -1,4 +1,4 @@
-# SB-429 murrelektronik.de · home · https://my.murrelektronik.com/home/de · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-429 murrelektronik.de · home · https://my.murrelektronik.com/home/de · fetched 2026-11-12T09:57:55Z · HTTP 200
 Wir sind Experte für Automatisierungslösungen | Murrelektronik
 Kundenportal
 Start
@@ -59,8 +59,8 @@ uKonn-X
 Support
 zurück
 Support
-Informationssicherheit
 PSIRT
+Sicherheitslücken melden
 Unternehmen
 zurück
 Unternehmen
@@ -85,6 +85,7 @@ Content Hub
 News & Presse
 downloadcenter
 Lieferantenmanagement
+Informationssicherheit
 Kontakt
 zurück
 Kontakt

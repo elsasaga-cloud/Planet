@@ -1,4 +1,4 @@
-# SC-364 EasyWind GmbH · feed_auto · https://easywind.org/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-364 EasyWind GmbH · feed_auto · https://easywind.org/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Thu, 31 Jul 2025 11:23:00 +0000	Wir sind dabei! NORLA 2023	https://easywind.org/wir-sind-dabei-norla-2023-2/
 Sat, 05 Jul 2025 11:22:00 +0000	Preisliste Quartal 3 2022	https://easywind.org/preisliste-quartal-3-2022/
 Sat, 07 Jun 2025 11:16:00 +0000	Demonstration in Berlin gegen die Änderung des EEG	https://easywind.org/demonstration-in-berlin-gegen-die-aenderung-des-eeg-2/

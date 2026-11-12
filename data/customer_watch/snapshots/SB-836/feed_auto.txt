@@ -1,4 +1,8 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-12T09:57:55Z · HTTP 200
+12.11.2026 10.55.18	Snor SM SPX SC/APC-SC/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-sca-scu-25/snor-sm-spx-sc-apc-sc-upc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
+12.11.2026 10.41.37	Snor SM SPX FC/UPC-SC/APC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-fcu-sca-25/snor-sm-spx-fc-upc-sc-apc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
+12.11.2026 10.02.03	Snor SM SPX SC/APC-ST/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-sca-stu-25/snor-sm-spx-sc-apc-st-upc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
+11.11.2026 15.54.05	Panel 1,5U med 12xE2000/APC-DPX adapter	https://www.fiberworks.no/fiberworks-as/p15-12e2a-dpx-pre/panel-1-5u-med-12xe2000-apc-dpx-adapter-med-installasjonssett
 11.11.2026 10.21.50	Preterm SM G24 QXAI LC/UPC-SC/UPC 22 m	https://www.fiberworks.no/fiberworks-as/pk-y24lt-lcu-scu-022/preterm-sm-g24-qxai-lc-upc-sc-upc-22-m-9-os2-g-dot-657-dot-a1-900%c2%b5m-haler-l1-8-1-8-m
 11.11.2026 10.12.06	Preterm SM G24 QXAI LC/UPC-LC/UPC 22 m	https://www.fiberworks.no/fiberworks-as/pk-y24lt-lcu-lcu-022/preterm-sm-g24-qxai-lc-upc-lc-upc-22-m-9-os2-g-dot-657-dot-a1-900%c2%b5m-haler-l1-8-1-8-m
 10.11.2026 12.31.46	SFP, 1.25 Gbps GigE, DDM, 550m, Rugged	https://www.fiberworks.no/fiberworks-as/sfp-1000basesxrgd-we/sfp-1-dot-25-gbps-gige-ddm-550m-rugged-850nm-9db-mm-westermo
@@ -58,8 +62,4 @@
 27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 3 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-03/snor-sm-spx-lc-upc-lc-upc-3-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
 27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 2 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-02/snor-sm-spx-lc-upc-lc-upc-2-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
 27.10.2026 10.59.41	Snor SM SPX LC/UPC-LC/UPC 1 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-01/snor-sm-spx-lc-upc-lc-upc-1-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.30.56	Snor SM SPX LC/UPC-LC/UPC xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-xx/snor-sm-spx-lc-upc-lc-upc-xx-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 08.59.52	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-j/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-juniper
-27.10.2026 08.58.46	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-sp/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-spesial
-27.10.2026 08.54.38	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28a-10m-u/qsfp-dd-to-4qsfp28-active-optical-cable-active-400g-10-meter-fiberworks
-27.10.2026 08.54.36	QSFP-DD to 4QSFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp28-aoc/qsfp-dd-to-4qsfp28-active-opt
+27.10.2026 10.30.56	Snor SM SPX LC/UPC-LC/UPC xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-xx/snor-sm-spx-lc-upc-lc-upc-xx-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl

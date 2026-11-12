@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -50,7 +50,6 @@ Opengear
 NetModule
 Tosibox
 MultiTech Systems
-SECLAB
 Icron Technologies
 Hâpy Services
 Taoglas
@@ -212,9 +211,6 @@ La ciberseguridad OT es esencial para garantizar la seguridad de sus redes y sis
 Moxa
 Soluciones de conectividad segura para sus redes industriales, certificadas IEC 62443-4-1 y 62443-4-2.
 Saber más
-Seclab
-Soluciones de ciberseguridad basadas en la ruptura protocolaire para asegurar infraestructuras críticas.
-Saber más
 Tosibox
 Acceso remoto seguro y sencillo a sus redes OT mediante una solución escalable y segura (Firewall, VPN...).
 Saber más
@@ -245,7 +241,7 @@ Moxa NPort 5110 - Convertidor RS232 a Ethernet
 Moxa UPort 1150 - Convertidor USB a RS232/422/485 de 1 puerto
 NETIO PowerPDU 8KF - Unidad de distribución de energía (PDU)
 0,00 €*
-ADDERLink - X50 - Par de extensores USB y VGA KVM CATx
+ADDERLink X50 - KVM Extender VGA/USB
 Sintrones ABOX-5221(P)(G)-IP66 - PC para Edge AI
 Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
 Kerlink Wirnet iStation M2 - LoRaWAN Gateway
@@ -276,17 +272,16 @@ ADDERLink INFINITY 2122T - IP KVM extender Transmisor
 Barix RetailPlayer M400 - IP Audio Decoder
 Descubrir
 Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
+Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
+Kerlink Wirnet iZeptoCell Cellular - LoRaWAN Gateway indoor celular
 Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor en Helium
+Kerlink Wirnet iFemtoCell-evolution - LoRaWAN Gateway indoor
+Kerlink Wirnet iZeptoCell Ethernet - LoRaWAN Gateway indoor Ethernet
+Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
+Kerlink Wirnet iStation M2 - LoRaWAN Gateway
+Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
 LoRaWAN gateway outdoor MultiTech Conduit IP67
 193,00 €*
-Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
-Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
-Milesight UG65-L04EU-868M-EA - LoRaWAN Gateway semi-industrial
-0,00 €*
-Niseva XE33-1C-LoRa - Gateway LoRa
-Milesight UG67 - LoRaWAN Gateway Outdoor
-Gateway de red privada Advantech WISE-3610 Wireless IoT LoRa
-Milesight SG50 - LoRaWAN Gateway solar
 Moxa MPC-3070W - Panel PC fanless de 7"
 Moxa MPC-3100 - Panel PC fanless de 10.4"
 Moxa MPC-3120 - Panel PC fanless de 12.1"

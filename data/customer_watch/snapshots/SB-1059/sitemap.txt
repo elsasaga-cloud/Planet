@@ -1,4 +1,4 @@
-# SB-1059 neteon.net · sitemap · https://www.neteon.net/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-1059 neteon.net · sitemap · https://www.neteon.net/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 2026-10-16T14:34:21.234Z	https://www.neteon.net
 2026-06-12T15:59:40.917Z	https://www.neteon.net/search
 2026-06-12T15:59:40.998Z	https://www.neteon.net/brands/moxa
@@ -72,7 +72,7 @@
 2026-09-07T07:57:59.396Z	https://www.neteon.net/landing/cincoze-di-1200-series
 2026-10-19T06:58:04.723Z	https://www.neteon.net/landing/cincoze-panel-pc
 2026-09-14T03:18:44.837Z	https://www.neteon.net/landing/asus-iot-pe1000u-fanless-din-rail-edge-ai-pc-neteon
-2026-11-06T14:10:28.122Z	https://www.neteon.net/its-transportation-tolling
+2026-11-12T09:52:25.408Z	https://www.neteon.net/its-transportation-tolling
 2025-03-28T08:48:30.551Z	https://www.neteon.net/posts-categories/green-energy
 2025-03-28T08:48:30.551Z	https://www.neteon.net/posts-categories/pv-system-design
 2025-03-28T08:48:30.551Z	https://www.neteon.net/posts-categories/renewable-energy
@@ -100,21 +100,22 @@
 2026-03-24T10:55:33.096Z	https://www.neteon.net/neteon-blogs/5g-gateway-for-network-slicing-in-smart-grid-infrastructure
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/a-new-era-of-power-deciphering-the-four-major-data-challenges-in-large-scale-battery-energy-storage-systems
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/a-q2-update-from-the-field-a-q2
-2026-10-20T04:36:15.310Z	https://www.neteon.net/neteon-blogs/advantech-mic-770-v3-airport-e-gate
+2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/advantech-mic-770-v3-airport-e-gate
+2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/advantech-uno-148-v2-food-beverage-brownfield
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/ai-driven-operational-efficiency-for-a-hydropower-plant
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/as-data-center-infrastructure-expands-efficiency-and-reliability-take-center-stage
-2026-02-02T05:12:25.316Z	https://www.neteon.net/neteon-blogs/automating-cold-chain-logistics
+2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/automating-cold-chain-logistics
 2025-07-25T02:24:39.528Z	https://www.neteon.net/neteon-blogs/automating-home-appliance-manufacturing-with-tsn-technology
-2026-01-22T04:39:50.128Z	https://www.neteon.net/neteon-blogs/automating-tarmac-logistics-with-rugged-edge-ai
+2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/automating-tarmac-logistics-with-rugged-edge-ai
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/challenges-for-bess-communication-climate-extremes-real-time-responses-and-cybersecurity
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/data-assets-the-financial-code-of-large-scale-energy-storage-systems-alvis-chen-aug-14-2023
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/data-center-infrastructure-management-dcim-driving-efficiency-with-industrial-networking-cybersecurity-and-advanced-computing
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/data-center-reliability-efficiency-moxa-solutions
 2025-08-26T03:12:24.217Z	https://www.neteon.net/neteon-blogs/developing-smooth-data-communications-for-energy-usage-monitoring
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/dont-let-these-ot-data-traps-be-the-downfall-of-your-industrial-digital-transformation
-2026-08-05T03:21:04.560Z	https://www.neteon.net/neteon-blogs/ds-1300-machine-vision-production-speed
+2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/ds-1300-machine-vision-production-speed
 2025-09-03T10:56:53.057Z	https://www.neteon.net/neteon-blogs/easy-integration-of-renewable-energy-solutions-into-the-power-grid
-2026-09-10T08:38:58.527Z	https://www.neteon.net/neteon-blogs/edge-ai-for-autonomous-mobile-robots-in-factory-logistics
+2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/edge-ai-for-autonomous-mobile-robots-in-factory-logistics
 2025-09-04T18:55:01.708Z	https://www.neteon.net/neteon-blogs/enabling-an-energy-efficient-hvac-system-for-a-hyperscaler
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/enabling-connectivity-for-ac-power-monitoring
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/enabling-multiple-applications-on-a-unified-tsn-network
@@ -128,7 +129,6 @@
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/extreme-ot-data-makeover-from-good-to-great-with-four-capabilities
 2025-03-28T08:48:30.551Z	https://www.neteon.net/neteon-blogs/five-tips-from-industry-experts-to-help-protect-industrial-networks
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/fortify-your-industrial-network-the-power-of-next-gen-lan-firewalls
-2026-08-05T03:21:04.560Z	https://www.neteon.net/neteon-blogs/gm-1000-airport-egate-edge-gpu-computing
+2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/gm-1000-airport-egate-edge-gpu-computing
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/how-moxa-empowers-reliable-power-monitoring-in-modern-data-centers
-2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/how-moxa-enhances-epms-integration-in-modern-data-centers
-2025-07-25T06:14:30.776Z	https://www.n
+2025-07-25T06:14:30.776Z	https://www.neteon.net/ne

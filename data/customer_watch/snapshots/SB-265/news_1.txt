@@ -1,4 +1,4 @@
-# SB-265 Vdeotronic AG · news_1 · https://videotronic.ch/news · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-265 Vdeotronic AG · news_1 · https://videotronic.ch/news · fetched 2026-11-12T09:57:55Z · HTTP 200
 News
 Skip to Content
 Site Suche
@@ -66,7 +66,7 @@ Schließen
 $dispatch('unset-category-image');
 openSubmenuId = '810';
 $dispatch('set-category-image');
-}, 400);
+}, 250);
 "
 @mouseleave="
 clearTimeout(this.openSubmenuTimeout);
@@ -86,7 +86,7 @@ Smart Home
 $dispatch('unset-category-image');
 openSubmenuId = '819';
 $dispatch('set-category-image');
-}, 400);
+}, 250);
 "
 @mouseleave="
 clearTimeout(this.openSubmenuTimeout);
@@ -105,7 +105,7 @@ Auswertungen
 $dispatch('unset-category-image');
 openSubmenuId = '837';
 $dispatch('set-category-image');
-}, 400);
+}, 250);
 "
 @mouseleave="
 clearTimeout(this.openSubmenuTimeout);
@@ -131,7 +131,7 @@ Sicherheit an Bus- und Bahnhöfen
 $dispatch('unset-category-image');
 openSubmenuId = '827';
 $dispatch('set-category-image');
-}, 400);
+}, 250);
 "
 @mouseleave="
 clearTimeout(this.openSubmenuTimeout);
@@ -148,7 +148,7 @@ Download
 $dispatch('unset-category-image');
 openSubmenuId = '821';
 $dispatch('set-category-image');
-}, 400);
+}, 250);
 "
 @mouseleave="
 clearTimeout(this.openSubmenuTimeout);
@@ -166,7 +166,7 @@ Unsere Marken
 $dispatch('unset-category-image');
 openSubmenuId = '820';
 $dispatch('set-category-image');
-}, 400);
+}, 250);
 "
 @mouseleave="
 clearTimeout(this.openSubmenuTimeout);

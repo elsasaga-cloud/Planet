@@ -1,2 +1,2 @@
-# SB-399 petawise.com · feed_auto · https://petawise.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-399 petawise.com · feed_auto · https://petawise.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Mon, 27 Jul 2020 17:20:49 +0000	Omdia: Uniview Ranked 4th in the Global Video Surveillance Market	https://petawise.com/omdia-uniview-ranked-4th-in-the-global-video-surveillance-market/

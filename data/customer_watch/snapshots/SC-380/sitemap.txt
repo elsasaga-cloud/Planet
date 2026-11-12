@@ -1,4 +1,4 @@
-# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 	https://iptime.com/
 	https://iptime.com/products
 	https://iptime.com/notices
@@ -22,11 +22,11 @@
 	https://iptime.com/products?cat=all
 	https://iptime.com/products?cat=nas
 2026-11-10T02:31:10.581Z	https://iptime.com/products?cat=cam
-	https://iptime.com/products?cat=router_be
-	https://iptime.com/products?cat=router_ax
-	https://iptime.com/products?cat=router_ac
-	https://iptime.com/products?cat=router_n
-2026-11-06T08:19:08.489Z	https://iptime.com/products?cat=mesh
+2026-11-12T07:54:11.763Z	https://iptime.com/products?cat=router_be
+2026-11-12T07:26:45.619Z	https://iptime.com/products?cat=router_ax
+2026-11-12T07:27:02.627Z	https://iptime.com/products?cat=router_ac
+2026-11-12T07:27:17.000Z	https://iptime.com/products?cat=router_n
+2026-11-12T07:54:43.626Z	https://iptime.com/products?cat=mesh
 	https://iptime.com/products?cat=usb
 	https://iptime.com/products?cat=wired_router
 	https://iptime.com/products?cat=switch
@@ -35,17 +35,16 @@
 	https://iptime.com/products?cat=accessory
 	https://iptime.com/products?cat=discontinued
 2026-11-03T09:50:13.180Z	https://iptime.com/products/compare
-2026-11-11T00:27:36.611Z	https://iptime.com/products/compare-table
+2026-11-12T08:30:33.358Z	https://iptime.com/products/compare-table
 2026-11-06T05:38:52.441Z	https://iptime.com/products/compare-nas
 2026-11-06T08:45:43.250Z	https://iptime.com/products/compare-ipcam
 2026-11-06T05:42:24.827Z	https://iptime.com/products/compare-router
 2026-11-10T07:47:22.106Z	https://iptime.com/products/compare-ap
-2026-11-10T05:22:44.908Z	https://iptime.com/products/compare-lancard
+2026-11-12T08:45:13.898Z	https://iptime.com/products/compare-lancard
 2026-11-06T07:45:15.269Z	https://iptime.com/products/compare-switch
 2026-11-06T05:38:32.363Z	https://iptime.com/products/compare-poe
-2026-11-06T05:39:13.909Z	https://iptime.com/products/compare-bluetooth
 2026-11-06T07:37:57.379Z	https://iptime.com/products/compare-usbhub
-2026-11-06T06:38:00.231Z	https://iptime.com/products/compare-adapter
+2026-11-12T04:20:55.372Z	https://iptime.com/products/compare-bluetooth
 2026-08-31T07:19:32.851Z	https://iptime.com/products/1
 2026-08-31T07:19:32.851Z	https://iptime.com/products/2
 2026-08-31T07:19:32.851Z	https://iptime.com/products/4
@@ -220,5 +219,4 @@
 2026-08-31T07:19:32.851Z	https://iptime.com/products/188
 2026-08-31T07:19:32.851Z	https://iptime.com/products/189
 2026-08-31T07:19:32.851Z	https://iptime.com/products/190
-2026-08-31T07:19:32.851Z	https://iptime.com/products/191
-2026-08-31T07:19:32.851Z	
+2026-08-31T07:19:32.851Z	https://iptime.com/products/19

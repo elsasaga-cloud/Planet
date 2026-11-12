@@ -1,4 +1,4 @@
-# SB-673 nodactechnology.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-673 nodactechnology.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCGVaUrW5sszxkUmOCsEXScA · fetched 2026-11-12T09:57:55Z · HTTP 200
 2026-07-13T12:39:33+00:00	How to Configure DNAKE AC02C in Standalone Mode | Access Control Setup Tutorial	https://www.youtube.com/watch?v=mOqs13h8Wfk
 2026-06-23T17:47:25+00:00	Drop-In Dual-SIM M2M Access Control | NFC, Wiegand & Remote Door Management	https://www.youtube.com/watch?v=eQY1KP5Ta10
 2026-06-01T21:54:09+00:00	How to Configure a Hikvision Video Intercom System	https://www.youtube.com/watch?v=1NvPe2LudE8

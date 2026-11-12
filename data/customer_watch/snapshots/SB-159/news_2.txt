@@ -1,4 +1,4 @@
-# SB-159 elmospa.com · news_2 · https://www.elmospa.com/en/project-designer · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-159 elmospa.com · news_2 · https://www.elmospa.com/en/project-designer · fetched 2026-11-12T09:57:55Z · HTTP 200
 EL.MO. S.p.A - Project designer
 Skip to main content
 Target audience
@@ -87,13 +87,15 @@ Management systems
 NVR IP e DVR multistandard
 Switch
 Unmanaged, managed, and industrial switches
-Video server basati su Ai
-Video server con analitici di tipo AI
+AI-Based video servers
+Video servers with AI-powered analytics
+IP speakers
+Speakers for integration into CCTV systems
 Access control
-Lettori RF o PIN
-Lettori per abilitazione degli accessi su varchi sensibili
+RF or PIN readers
+Readers for access control at sensitive entry points
 Controller
-Controller per la gestione di sistemi di accessi
+Controllers for access control system management
 D-Pulse
 Technology for Integrating Intrusion Detection Systems with AI-Powered CCTV
 InstaVision
@@ -204,5 +206,4 @@ Document illustrating the connections between elements
 To support the documentation, a more advanced block diagram can be provided, showing the structure of the wired connections of the entire proposed system. It indicates some basic features, such as cable thickness or type (e.g., RS-485). This information represents highly valued support for those who will later install the system. This type of document makes the basic structure of a system even clearer and allows for quick understanding.
 Systems that pay for themselves over time
 Intrusion detection
-We protect all spaces from intrusions, theft, and vandalism . Whether it’s residential or business premises, our detection systems, based on 100% Made in Italy professional products, ensure maximum protection.
-Products dedicated to intrusion 
+We protect all spaces from intrusions, theft, and vandalism . Whether it’s residential or business premises, our detection systems, based on 100% Made in Italy professional products, ensure max

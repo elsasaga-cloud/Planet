@@ -1,4 +1,4 @@
-# SB-775 patton.com · sitemap · https://www.patton.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-775 patton.com · sitemap · https://www.patton.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 2021-05-04T20:56:46+00:00	https://www.patton.com/
 2021-05-04T20:56:53+00:00	https://www.patton.com/company/contact-us.asp
 2021-05-04T20:57:02+00:00	https://www.patton.com/company/

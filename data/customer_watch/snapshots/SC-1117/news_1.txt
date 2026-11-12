@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-12T09:57:55Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -23,45 +23,44 @@ Automatización 144
 #telefonía #networking #CallCenter 138
 Incendio 114
 Blog SYSCOM
+Hikvision: por qué es el estándar de la videovigilancia profesional
+Hikvision no llegó al liderazgo por casualidad: lo construyó con un portafolio que cubre desde el domo residencial hasta el centro de monitoreo urbano, y con una cadena de suministro que los integradores pueden sostener en el tiempo. Un repaso técnico de las razones y un caso concreto: el turret TURBOHD 3K DS-2CE76K0T-LMFS.
+CM
+Cecilia Martinez · Hoy
 Videovigilancia Control de acceso
 Fanvil VIK-01: ahora con 10 usuarios en la app y varios monitores interiores
-El kit Fanvil VIK-01 ahora admite hasta 10 usuarios en la app Fanvil Link y varios monitores interiores que timbran al mismo tiempo. Qué cambia para el instalador y cómo se configura el segundo monitor.
-AA
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · Hoy
+ADRIAN ALEJANDRO CHAVIRA LOPEZ · Ayer
 Videovigilancia Sistemas de Seguridad
 ¿Qué es la NDAA y qué significa “NDAA compliant”? Guía para México
-Ingeniería SYSCOM · Hoy
+Ingeniería SYSCOM · Ayer
 Sistemas de Seguridad Incendio
 Taller presencial INIM Electronics en CDMX: sistemas de incendio en 3 horas
-MARIO ALBERTO HERNANDEZ REYNOSA · Hoy
+MARIO ALBERTO HERNANDEZ REYNOSA · Ayer
 Radiocomunicación #TASSTA
 ¿Qué es TASSTA y cómo funciona? Guía de licencias T.Flex PTT y T.Flex Smart
-JORGE ALI RUBIO LOYA · Ayer
+JORGE ALI RUBIO LOYA · hace 2 días
 Almacenamiento Data Center
 WD Ultrastar: cómo elegir un disco de data center entre 12 y 26 TB
-ALDO ARISTOTELES CERA DE LA TORRE · Ayer
+ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
 Videovigilancia Almacenamiento
 Compra Original WD: cómo verificar que tu disco es auténtico y que la garantía sigue vigente
-ALDO ARISTOTELES CERA DE LA TORRE · Ayer
+ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
 Almacenamiento Data Center
 Cómo verificar que tu disco WD es original (y que su garantía sigue vigente)
-ALDO ARISTOTELES CERA DE LA TORRE · Ayer
+ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
 Videovigilancia Data Center
 WD Gold Enterprise Class: cómo elegir entre 1 TB y 24 TB para tu proyecto
-ALDO ARISTOTELES CERA DE LA TORRE · Ayer
+ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
 Repetidores WiFi para ONTs: cobertura total en cada rincón con el HUAWEI FG736
-Zaira Romero · hace 5 días
+Zaira Romero · hace 6 días
 UGREEN NASync DXP480T Plus: el NAS all-flash con velocidad hiper-rápida para empresas y creadores
-Cecilia Martinez · hace 5 días
+Cecilia Martinez · hace 6 días
 Videovigilancia Control de acceso
 Hikvision Noviembre 2026: DVR Guanlan 3 en 1, AcuSeek y UPS
-Lydia Wang · hace 5 días
+Lydia Wang · hace 6 días
 Audio y Video Profesional Seetronic
 Seetronic: los conectores en los que confía el audio profesional
-LUIS ANGEL TOPETE ARELLANO · hace 6 días
-Retail Nexmosphere
-Nexmosphere: la solución de sensores interactivos para retail y señalización digital
-NOE ORTEGA VILLALBA · hace 6 días
+LUIS ANGEL TOPETE ARELLANO · hace 1 semana
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

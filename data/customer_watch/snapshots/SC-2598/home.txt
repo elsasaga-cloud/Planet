@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · home · https://digital-watchdog.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-2598 digital-watchdog.com · home · https://digital-watchdog.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Digital Watchdog l Welcome
 Welcome
 Products
@@ -22,6 +22,7 @@ MEGApix® Ai Thermal & Ai Camera
 MEGApix® Ai ALPR
 MEGApix® Ai PTZ
 MEGApix® Ai CloudCam
+MEGApix® Facial Recognition
 MEGApix® Ball Turret Cameras
 MEGApix® Bullet Cameras
 MEGApix® Indoor Dome Cameras
@@ -267,6 +268,7 @@ MEGApix® Ai Thermal & Ai Camera
 MEGApix® Ai ALPR
 MEGApix® Ai PTZ
 MEGApix® Ai CloudCam
+MEGApix® Facial Recognition
 MEGApix® Ball Turret Cameras
 MEGApix® Bullet Cameras
 MEGApix® Indoor Dome Cameras
@@ -507,4 +509,4 @@ VMax IP Plus
 VMax A1
 Star-Light Plus HD Over Coax Cameras
 E.S.T - Elevated Skin Temperature System
-By checking this box, you agree to receive SMS messages from Digital Watchdog. Yo
+By checking this box, you

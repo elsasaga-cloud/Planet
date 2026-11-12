@@ -1,4 +1,4 @@
-# SB-138 Volktek · sitemap · https://www.volktek.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-138 Volktek · sitemap · https://www.volktek.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 2026-03-23	https://www.volktek.com/index_en.php
 2026-03-23	https://www.volktek.com/newsdetail_en.php?id=64688
 2026-03-23	https://www.volktek.com/privacy_en_1.php

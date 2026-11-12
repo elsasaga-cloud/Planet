@@ -1,4 +1,4 @@
-# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Fiberden
 Size Özel Fiyatlardan Yararlanmak İçin Bayimiz Olabilirsiniz!
 Siparişlerim/Kargo Takip
@@ -323,7 +323,7 @@ CLOSURE 24 CORE 4 İN 4 OUT
 % 0
 fiberden
 FİBERDEN 6 MOTORLU FİBER KAYNAK MAKİNESİ (GUANGYAN K5 )
-66.640,17 TL KDV
+71.400,00 TL KDV
 % 0
 GUANGYAN
 GUANGYAN Y9 İŞLEVLİ FİBER OPTİK GÜÇ ÖLÇER OPM + VFL +LAZER

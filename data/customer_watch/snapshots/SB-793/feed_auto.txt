@@ -1,4 +1,5 @@
-# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-793 worldstarsecuritycameras.com · feed_auto · https://worldstarsecuritycameras.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+Thu, 12 Nov 2026 02:21:13 +0000	Video Surveillance System Guide for Smarter Coverage	https://worldstarsecuritycameras.com/video-surveillance-system-guide/
 Tue, 10 Nov 2026 02:22:28 +0000	Hotel Security Deployment That Works at Every Door	https://worldstarsecuritycameras.com/hotel-security-deployment/
 Sun, 08 Nov 2026 02:21:48 +0000	Facial Recognition Versus Keycards Compared	https://worldstarsecuritycameras.com/facial-recognition-versus-keycards/
 Fri, 06 Nov 2026 02:14:57 +0000	Access Control vs Traditional Keys for Business	https://worldstarsecuritycameras.com/access-control-vs-traditional-keys/
@@ -8,4 +9,3 @@ Sat, 31 Oct 2026 02:13:18 +0000	ONVIF Versus Proprietary Systems Compared	https:
 Thu, 29 Oct 2026 02:20:40 +0000	A Guide to Camera Lens Selection for Security	https://worldstarsecuritycameras.com/guide-to-camera-lens-selection/
 Tue, 27 Oct 2026 04:01:43 +0000	Firewall for Security Camera Network Setup	https://worldstarsecuritycameras.com/firewall-for-security-camera-network-setup/
 Fri, 23 Oct 2026 04:04:35 +0000	How to Troubleshoot PoE Switch Failures Fast	https://worldstarsecuritycameras.com/troubleshoot-poe-switch-failures/
-Tue, 20 Oct 2026 21:50:25 +0000	Matched Cameras and NVR: Why One Brand Saves Time on Every Job	https://worldstarsecuritycameras.com/matched-security-cameras-and-nvr-save-time/

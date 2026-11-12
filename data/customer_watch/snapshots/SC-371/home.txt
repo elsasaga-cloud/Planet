@@ -1,4 +1,4 @@
-# SC-371 Visiotech · home · https://www.visiotechsecurity.com/en/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-371 Visiotech · home · https://www.visiotechsecurity.com/en/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Visiotech | Security Systems Supplier
 Products IP
 Analogue CCTV
@@ -45,6 +45,7 @@ it
 Favourites
 Login
 New Customer
+Switch to customer view
 Toggle navigation
 Visiotech | Security Systems Supplier
 Products
@@ -240,11 +241,6 @@ Detector testers
 Standalone Anka
 Ajax
 X-Sense
-Kilsen Central
-Detectors
-Sirens
-Modules
-Axendis
 ZKTeco Controllers
 Readers
 Standalone
@@ -323,7 +319,6 @@ ZKTeco Terminals
 Software
 Accessories
 Anviz Terminals
-Accessories
 Safire Terminals
 X-Security Terminals
 EasyClocking Terminals
@@ -583,6 +578,8 @@ News
 Find out the latest news on technology, products and trade fairs in the industry
 Project Development
 Discover our project planning and development service
+Client view as:
+Exit client view
 Discover our catalogue
 IP CCTV
 Intrusion

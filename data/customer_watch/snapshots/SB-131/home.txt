@@ -1,28 +1,20 @@
-# SB-131 DE secure · home · https://desecuretechnology.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-131 DE secure · home · https://desecuretechnology.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Desecure Technology | Kritik Tesis Güvenlik Teknolojileri
 İçeriğe geç Geç
-ALARM İZLEME MERKEZİ // 7/24 İZLEME // VİDEO DOĞRULAMA
-RİSKLERİ OLUŞMADAN YÖNETİYORUZ
-Teklif Al Çözümleri İncele
-İçeriğe geç ↓ Ekosistemi keşfet →
-RİSKLERİ OLUŞMADAN YÖNETİYORUZ
-ALARM İZLEME MERKEZİ // 7/24 İZLEME // VİDEO DOĞRULAMA
-Teklif Al Çözümleri İncele
-20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
-444 76 49
 Çözümler AI Güvenlik Teknolojileri Görüntüyü güvenlik operasyonuna dönüştüren analiz
 Video Gözetim ve Akıllı Kamera Her saha için doğru kamera, doğru senaryo
 Çevre Güvenliği 3D LiDAR, entegre radar ve termal kamera
 Yangın Algılama ve Erken Uyarı Sıcaklık artışını alev oluşmadan görmek
 IoT ve Entegrasyon Sensörler, BESS ve çok lokasyon
+Giriş Kontrol Sistemleri Gate Defence ve Access Control
 Tüm çözümler ->
 Hizmetler Alarm İzleme Merkezi 7/24 · 5188 7/24 doğrulama, müdahale ve raporlama
 Uzaktan Video İzleme Bağlantı, kayıt, VMS ve çok lokasyon altyapısı
 Tüm hizmetler ->
-Proaktif Teknolojiler Mobil Güvenlik Sistemleri MİK, MAS, MİD ve MİA; altyapısız sahalar
-Canlı İletişim Sahayla görüntülü ve çift yönlü sesli iletişim
+Proaktif Teknolojiler Mobil Güvenlik Sistemleri MİK, MAS, MİD, MİA ve MGK; altyapısız sahalar
+Canlı İletişim Desecure Vision, Desecure One ve Desecure MGS
 Tüm proaktif teknolojiler ->
-Sektörler Enerji ve Yenilenebilir SEKTÖREL ODAK RES, GES, BESS ve hibrit santraller
+Sektörler Enerji ve Yenilenebilir RES, GES, BESS ve hibrit santraller
 Üretim ve Fabrika Çevre hattı, giriş kontrol, İSG ve yangın riski
 Sanayi ve OSB Çok tesisli bölgelerde ortak prosedür
 Lojistik ve Depolama Araç giriş çıkışı, yükleme alanı, açık saha
@@ -33,6 +25,7 @@ Tüm sektörler ->
 Kurumsal Hakkımızda Kim olduğumuz, grup yapısı ve operasyon ağı
 Neden Desecure Saha deneyimi, 7/24 izleme ve kurulum sonrası destek
 Yaklaşımımız Olay olmadan önce yöneten proaktif model
+Basında Biz Yayın organlarında çıkan haber ve röportajlar
 İletişim
 Kaynaklar Blog Teknik yazılar ve saha rehberleri
 Sıkça Sorulan Sorular Kaynaklı kısa cevaplar
@@ -42,6 +35,7 @@ Video Gözetim ve Akıllı Kamera
 Çevre Güvenliği
 Yangın Algılama ve Erken Uyarı
 IoT ve Entegrasyon
+Giriş Kontrol Sistemleri
 Hizmetler + Tüm hizmetler ->
 Alarm İzleme Merkezi
 Uzaktan Video İzleme
@@ -60,34 +54,38 @@ Kurumsal + Kurumsal ->
 Hakkımızda
 Neden Desecure
 Yaklaşımımız
+Basında Biz
 İletişim
 Kaynaklar + Kaynaklar ->
 Blog
 Sıkça Sorulan Sorular
 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
+RİSKLERİ OLUŞMADAN YÖNETİYORUZ
+ALARM İZLEME MERKEZİ · 7/24 İZLEME · VİDEO DOĞRULAMA
+Teklif Al Çözümleri İncele
+İçeriğe geç ↓ Desecure'u keşfet →
+RİSKLERİ OLUŞMADAN YÖNETİYORUZ
+ALARM İZLEME MERKEZİ · 7/24 İZLEME · VİDEO DOĞRULAMA
+Teklif Al Çözümleri İncele
+20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
+444 76 49
 Kurumsal Kanıt Sayıları
 20+ yıl saha güvenliği deneyimi
 317+ kurumsal müşteri
 7/24 kesintisiz izleme
 1.400+ personel
-9 lokasyon
-5188 sayılı kanun kapsamında lisanslı alarm izleme merkezi
-TANITIM FİLMİ ·
-Desecure Technology tanıtım filmi
-Alarm İzleme Merkezi, çevre hattı, mobil sistemler ve saha ekipleri, Desecure'un kendi çekimlerinde.
-Desecure Technology tanıtım filmi
-ALARM İZLEME MERKEZİ SAHA MOBİL SİSTEMLER
+10 lokasyon
+5188 sayılı kanun kapsamında ruhsatlı Alarm İzleme Merkezi
 Konumlandırma
-Ana konumlandırma
 Desecure Technology, kritik tesislerin güvenlik ihtiyaçlarını teknoloji, mühendislik ve 7/24 Alarm İzleme Merkezi operasyonuyla yöneten bir güvenlik teknolojileri şirketidir. Sahaya özel güvenlik mimarileri tasarlar, sistemleri entegre eder, uzaktan izler ve sürdürülebilirliğini sağlar.
 0 1 Yerli teknoloji
 Mobil İzleme Kulesi'nden Desecure Vision'a kadar saha bileşenlerini kendimiz tasarlıyoruz. Hepsi Alarm İzleme Merkezi'ne bağlanır ve aynı merkezden izlenir.
 0 2 Güçlü operasyon
-İçişleri Bakanlığı ruhsatlı Alarm İzleme Merkezi gelen her alarmı canlı görüntüyle doğrular, sahaya canlı sesli anons yapar ve müdahale sürecini 7/24 yönetir.
+Alarm İzleme Merkezi gelen her alarmı canlı görüntüyle doğrular, sahaya canlı sesli anons yapar ve müdahale sürecini yönetir.
 0 3 Proaktif güvenlik
-Geleneksel sistemler olay olduktan sonra kayıt sunar; Desecure modeli tehdidi olay gerçekleşmeden tespit eder, teyit eder, müdahale eder ve raporlar.
+Geleneksel sistemler olay olduktan sonra kayıt sunar; Desecure modeli tehdidi olay gerçekleşmeden tespit eder, teyit eder, müdahale eder, caydırır ve raporlar.
 Hibrit model nasıl çalışır
-Proaktif güvenlik döngüsü, yapay zeka analizini Alarm İzleme Merkezi operatörünün teyidi ve canlı müdahaleyle birleştiren dört adımlı bir süreçtir.
+Proaktif güvenlik döngüsü, yapay zeka analizini Alarm İzleme Merkezi operatörünün teyidi ve canlı müdahaleyle birleştiren beş adımlı bir süreçtir.
 01
 Tespit Et
 Yapay zeka analizi
@@ -98,27 +96,29 @@ Canlı görüntü + operatör
 Teyit Et adımında Alarm İzleme Merkezi operatörü, işaretlenen olayı canlı görüntü üzerinden inceleyerek gerçek tehdidi yanlış alarmdan ayırır.
 03
 Müdahale Et
-Canlı sesli anons + koordinasyon
-Müdahale Et adımında operatör IP hoparlör, siren veya interkom üzerinden sahaya canlı sesli anons yapar; tehdit olay gerçekleşmeden sahadan uzaklaştırılır ve gerektiğinde kolluk kuvvetleriyle koordinasyon yürütülür.
+Canlı sesli anons + saha prosedürü
+Müdahale Et adımında operatör IP hoparlör, siren veya interkom üzerinden sahaya canlı sesli anons yapar ve tesise özel prosedürü başlatır.
 04
+Caydır
+Siren + kolluk koordinasyonu
+Caydır adımında canlı anons ve siren, tehdidi olay gerçekleşmeden sahadan uzaklaştırmayı amaçlar; gerektiğinde kolluk kuvvetleriyle koordinasyon yürütülür.
+05
 Raporla
 Zaman damgası + olay kaydı
 Raporla adımında olayın tüm akışı zaman damgası, görüntü kaydı ve olay raporuyla kayıt altına alınır ve müşteriye sunulur.
-Desecure Grubu
 Teknoloji ve saha operasyonu tek çatıda
 Desecure grubunda güvenlik teknolojisinden Desecure Technology, sahadaki güvenlik operasyonundan Desecure Özel Güvenlik sorumludur.
-Sistem sürekliliği
 Desecure Technology
+Sistem sürekliliği
 Kamera, termal kamera, LiDAR, radar ve IoT sensörlerini tesise göre tasarlar ve kurar. Yapay zeka destekli video analizi ve alarm izlemeyi 7/24 işletir.
-Operasyon sürekliliği
 Desecure Özel Güvenlik
+Operasyon sürekliliği
 Sahadaki özel güvenlik operasyonunu yürütür.
 desecure.com.tr ->
 Çok katmanlı sınır güvenliği
 Çevre güvenliği ->
 Desecure Technology, enerji santralleri ve geniş sahalarda sınır güvenliğini algılama, sınıflandırma, görüntülü doğrulama, sesli müdahale ve Alarm İzleme Merkezi operasyonunun birlikte çalıştığı çok katmanlı bir yapı olarak kurar.
-Kilometrelerce uzanan bir çevre hattında yalnızca kamerayla izleme yeterli olmayabilir. Radar, LiDAR, termal görüntüleme ve yapay zeka destekli video analizi standart bir paket olarak değil, sahanın risk profiline göre seçilir; iki farklı enerji santralinde bile çözüm her sahanın kendi riskine göre tasarlanır.
-ÇEVRE HATTI // SAHA
+Kilometrelerce uzanan bir çevre hattında yalnızca kamerayla izleme yeterli olmayabilir. Radar, LiDAR, termal görüntüleme ve yapay zeka destekli video analizi sahanın risk profiline göre seçilir; iki farklı enerji santralinde bile çözüm her sahanın kendi riskine göre tasarlanır.
 Katman 01 Algılama
 Radar, LiDAR, termal görüntüleme, yapay zeka destekli video analizi ve uzun menzilli algılama, çevre hattındaki insan veya araç hareketini erken aşamada yakalar.
 Katman 02 Sınıflandırma
@@ -128,11 +128,11 @@ Alarm İzleme Merkezi operatörü olayı canlı görüntü üzerinden inceler ve
 Katman 04 Sesli müdahale
 Operatör sahaya canlı sesli anons yapar; doğrulanan riske olay gerçekleşirken müdahale edilir.
 Katman 05 Merkez operasyonu ve raporlama
-Alarm İzleme Merkezi süreci 7/24 yönetir, gerektiğinde ilgili ekipleri harekete geçirir ve olayın tüm akışını raporlar.
-Çok katmanlı yapı, güvenliği olay sonrasındaki kayıttan çıkarır ve olay anında yönetilir hale getirir.
+Alarm İzleme Merkezi süreci yönetir, gerektiğinde ilgili ekipleri harekete geçirir ve olayın tüm akışını raporlar.
+Radar ya da LiDAR çite yaklaşan kişiyi algıladığında alarm operatörün ekranına düşer; radar PTZ kamerayı hedefe yönlendirir, operatör canlı görüntüyle doğrular ve anons yapar.
 Çözümler
 Tüm çözümler ->
-Desecure Technology bu beş çözümü tek başına ya da birlikte kurar; hangisinin kurulacağını tesisin riski belirler.
+Desecure Technology bu çözümleri tek başına ya da birlikte kurar; hangisinin kurulacağını tesisin riski belirler.
 01 AI Güvenlik Teknolojileri
 Kamera görüntüsünde insanı, aracı, şüpheli davranışı ve yasak alana girişi algılar; alarmı Alarm İzleme Merkezi'ne gönderir.
 -> İncele
@@ -150,50 +150,57 @@ Ekipman, sıcaklık ve ortam sensörlerini Alarm İzleme Merkezi'ne bağlar; bat
 -> İncele
 Altyapısız sahalar için mobil birimler
 Mobil güvenlik sistemleri ->
-Desecure Technology'nin mobil güvenlik birimleri, elektrik ve internet altyapısı bulunmayan alanlarda kurulan taşınabilir güvenlik birimleridir. Şantiye, enerji sahası ve geçici operasyonlarda altyapı beklemeden çalışır ve 7/24 Alarm İzleme Merkezi'ne bağlanır.
-MİK // 3B
-/ 01 MİK , Mobil İzleme Kulesi
+Desecure Technology'nin mobil güvenlik birimleri, elektrik ve internet altyapısı bulunmayan alanlarda kurulan taşınabilir güvenlik birimleridir. Şantiye, enerji sahası ve geçici operasyonlarda altyapı beklemeden çalışır ve Alarm İzleme Merkezi'ne bağlanır.
+MİK , Mobil İzleme Kulesi
 Orta ve büyük ölçekli işletmeler için elektriksiz ve internetsiz çalışan taşınabilir güvenlik kulesi.
-MAS // 3B
-/ 02 MAS , Mobil Alarm Standı
+MAS , Mobil Alarm Standı
 Elektrik veya internet gerektirmeden çalışan, sahada düzenli raporlama yapan alarm standı.
-MİD // 3B
-/ 03 MİD , Mobil İzleme Direği
-Küçük ve orta ölçekli projeler için teleskopik yapılı, hızlı kurulumlu izleme direği.
-MİA // 3B
-/ 04 MİA , Mobil İzleme Aracı
+MİA , Mobil İzleme Aracı
 Sahada hızlı hareket edebilen, altyapıdan bağımsız çalışan römork tabanlı izleme aracı.
+MİD , Mobil İzleme Direği
+Küçük ve orta ölçekli projeler için teleskopik yapılı, hızlı kurulumlu izleme direği.
+MGK , Mobil Güvenlik Kulübesi
+Fiziksel güvenlik ile elektronik güvenlik teknolojilerini tek noktada toplayan, taşınabilir güvenlik kulübesi.
 7/24 İZLEME İÇİŞLERİ BAKANLIĞI RUHSATLI CANLI ANONS
 Alarm İzleme Merkezi
-İçişleri Bakanlığı ruhsatlı Alarm İzleme Merkezi, tesislerden gelen alarm, görüntü ve sensör olaylarını 7/24 izler; her alarmı canlı görüntüyle doğrular, sahaya canlı sesli anons yapar ve müdahale koordinasyonunu yürütür.
+Alarm İzleme Merkezi, tesislerden gelen alarm, görüntü ve sensör olaylarını 7/24 izler; her alarmı canlı görüntüyle doğrular, sahaya canlı sesli anons yapar ve müdahale koordinasyonunu yürütür.
 -> uzaktan video izleme
 Alarm İzleme Merkezi
-MERKEZ // İZLENİYOR 7/24
+TANITIM FİLMİ ·
+Desecure Technology tanıtım filmi
+Alarm İzleme Merkezi, çevre hattı, mobil sistemler ve saha ekipleri, Desecure'un kendi çekimlerinde.
+Desecure Technology tanıtım filmi
+ALARM İZLEME MERKEZİ SAHA MOBİL SİSTEMLER
 Sektörler
 Tüm sektörler ->
 Korunacak alan sektöre göre değişir: fabrikada yükleme rampası, limanda konteyner sahası, santralde şalt alanı. Keşif ekibi kamerayı ve sensörü bu alanın riskine göre seçer. Öncelikli sektörümüz enerji ve yenilenebilir tesislerdir.
-Sektörel odak
 Enerji ve Yenilenebilir
 RES, GES, enerji depolama ve şalt sahalarında çevre hattını, ekipmanı ve sıcaklığı Alarm İzleme Merkezi izler, ihlalde müdahaleyi başlatır. Güvenliğini sağladığımız enerji santralleri 2024 yılında yaklaşık 338,6 milyon kWh elektrik üretti.
-->
+Sektör sayfası ->
 Üretim ve Fabrika
 ->
+Çevre hattı, giriş kontrol, iş sağlığı ve güvenliği uygunsuzlukları, yangın riski ve sevkiyat alanı hareketi aynı anda izlenir.
 Sanayi ve OSB
 ->
+Tesis sayısı arttıkça standart dağılabilir; her tesis farklı sistem ve prosedür kullanabilir.
 Lojistik ve Depolama
 ->
+Araç giriş çıkışı, yükleme rampalarındaki trafik, açık sahadaki ekipman ve sürekli değişen personel aynı sahada hareket eder.
 Maden ve Saha
 ->
+Sahalar geniş, açık ve çoğu zaman uzak lokasyonlardır; sahanın bir bölümünde altyapı hiç bulunmaz.
 Havalimanı ve Liman
 ->
+Sahalar geniş, hareket sürekli ve giriş noktaları kontrollüdür.
 İnşaat ve Şantiye
 ->
+Saha açıktır, iş makineleri ve malzeme değerlidir; elektrik ile internet altyapısı çoğu zaman henüz kurulmamıştır.
 Güven ve Yetkinlik
-Alarm İzleme Merkezi, tesislerden gelen alarmı ve kamera görüntüsünü aşağıdaki ruhsat ve KVKK yetkisiyle izler ve kaydeder.
-Alarm İzleme Merkezi, İçişleri Bakanlığı tarafından ruhsatlandırılarak yetkilendirilmiştir; müdahale süreci 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında yürütülür.
+Alarm İzleme Merkezi, tesislerden gelen alarmı ve kamera görüntüsünü aşağıdaki ruhsatla ve KVKK'ya uygun olarak izler ve kaydeder.
+Alarm İzleme Merkezi İçişleri Bakanlığı ruhsatlıdır; müdahale süreci 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanun kapsamında yürütülür.
 -> İÇİŞLERİ BAKANLIĞI RUHSATI
-Alarm İzleme Merkezi, KVKK mevzuatına göre görüntü izleme, işleme ve saklama yetkilerine sahiptir.
--> KVKK YETKİSİ
+Görüntüler KVKK'ya uygun işlenir ve saklanır.
+-> KVKK UYUMU
 Teklif için önce tesisinizi yerinde inceliyoruz
 Teklif Al ->
 Çözümleri Keşfet ->
@@ -204,18 +211,18 @@ Video Gözetim ve Akıllı Kamera
 Çevre Güvenliği
 Yangın Algılama ve Erken Uyarı
 IoT ve Entegrasyon
+Giriş Kontrol Sistemleri
 Hizmetler ve Teknolojiler
 Alarm İzleme Merkezi
 Uzaktan Video İzleme
 Mobil Güvenlik Sistemleri
-Proaktif Teknolojiler
+Canlı İletişim
 Kurumsal
 Hakkımızda
 Neden Desecure
 Yaklaşımımız
+Basında Biz
 Sektörler
-Enerji ve Yenilenebilir
-Üretim ve Fabrika
 İletişim
 Teklif Al
 Kaynaklar ve Yasal
@@ -227,8 +234,8 @@ KVKK Aydınlatma Metni
 Çerez Politikası
 İlgili Kişi Başvuru Formu
 Desecure Teknoloji A.Ş.
-Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 İstanbul
-Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 Denizli
+Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 , İstanbul
+Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 , Denizli
 444 76 49 bilgi@desecuretechnology.com LinkedIn ->
 Desecure grubu şirketi. Fiziki güvenlik hizmetleri: desecure.com.tr
 Çerez tercihleri

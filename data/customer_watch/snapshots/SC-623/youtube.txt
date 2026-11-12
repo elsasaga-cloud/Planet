@@ -1,4 +1,4 @@
-# SC-623 industrialnets.ru · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCvp3awZ8329PK17HHkpFZ6Q · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-623 industrialnets.ru · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCvp3awZ8329PK17HHkpFZ6Q · fetched 2026-11-12T09:57:55Z · HTTP 200
 2022-05-16T08:44:34+00:00	Пример сборки и подключения модульных ПЛК GCAN-PLC	https://www.youtube.com/watch?v=kNsHVa1WvDQ
 2021-05-20T06:33:18+00:00	Диагностика PROFIBUS. Часть 2. PROCENTEC ProfiTrace	https://www.youtube.com/watch?v=Wwfq3yJY_AY
 2021-04-27T07:05:13+00:00	Внешний вид сетевого концентратора 17030X PROCENTEC Profihub X5	https://www.youtube.com/watch?v=N9efPmqX2ow

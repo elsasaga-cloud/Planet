@@ -1,4 +1,4 @@
-# SB-278 lanmus.com · feed_auto · https://lanmus.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-278 lanmus.com · feed_auto · https://lanmus.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Wed, 14 Jan 2026 14:34:31 +0000	Unmanaged switches	https://lanmus.com/unmanaged-switches/
 Tue, 11 Nov 2025 06:05:53 +0000	4-Port Unmanaged Switch with 2 Uplink Ports	https://lanmus.com/4-port-unmanaged-switch-with-2-uplink-ports/
 Fri, 25 Oct 2024 07:25:39 +0000	8 Port Managed Industrial Ethernet Switch	https://lanmus.com/8-port-managed-industrial-switch/

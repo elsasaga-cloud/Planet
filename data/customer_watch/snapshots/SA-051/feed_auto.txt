@@ -1,4 +1,4 @@
-# SA-051 Tecpro Solutions · feed_auto · https://www.tecprosolutions.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SA-051 Tecpro Solutions · feed_auto · https://www.tecprosolutions.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Fri, 03 Jul 2026 07:13:25 +0000	Smart Command & Control Centers for Unified Security, Facility Management, and Building Operations	https://www.tecprosolutions.com/smart-command-control-centers-for-unified-security-facility-management-and-building-operations/
 Fri, 03 Jul 2026 04:46:16 +0000	Next-Generation AV Solutions for Smarter Communication, Collaboration, and Connected Workplace Experiences	https://www.tecprosolutions.com/next-generation-av-solutions-for-smarter-communication-collaboration-and-connected-workplace-experiences/
 Fri, 03 Jul 2026 03:47:28 +0000	Integrated Digital Workplace Solutions for Smarter Collaboration, Facility Operations, and Connected Experiences	https://www.tecprosolutions.com/integrated-digital-workplace-solutions-for-smarter-collaboration-facility-operations-and-connected-experiences/

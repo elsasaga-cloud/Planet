@@ -1,4 +1,4 @@
-# SB-427 longlinenetwork.com · home · https://www.longlinenetwork.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-427 longlinenetwork.com · home · https://www.longlinenetwork.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Anasayfa | Longline Network
 Sfp Transceiver 100G QSFP28
 100G CFP/CFP2/CFP4
@@ -71,16 +71,16 @@ Cable Solutions
 Fiber Patch Cord, Fiber Cable, PLC Splitter fiber optik kablo üretimi
 Detaylı Bilgi İçin Tıklayınız
 Bazı Ürünlerimiz
-FC SM DX Optical Patch Cord
-Rack-Mount Chassis
-SFP Modül Hangi Parçalardan Oluşur?
-LNG9801BF SFP+ / LNG9802BF 2SFP+
-1X8 Fiber Optic PLC Splitter ABS Module With FC/UPC Connector
-SFP+ RX LL 10KM
-CFP2 ER4 LL 40KM
-LNG6860AF SFP+
-ST SM DX Optical Patch Cord
-CFP4 LR4 LL 10KM
+1.2-PLC
+2.N Blockless PLC
+1.N Blockless PLC
+1X64 Fiber Optic PLC Splitter Module 2.0mm
+1X16 Mini 0.9mm Fiber Optic Splitter With SC/APC Connector
+SC/APC SM 2core Drop Cable Pigtail 50m
+LCUPC-SCUPC SM DX 2.0mm LSZH 3M
+SFP+ DWDM LL 80KM
+SFP+ CWDM LL 40KM
+SC/UPC-SC/UPC OM3/OM4 DX 2.0mm LSZH 5M
 Blog
 Unmanaged Industrial Switch
 Managed Industrial Switch

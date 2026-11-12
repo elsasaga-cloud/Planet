@@ -1,4 +1,5 @@
-# SC-714 avant.by · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxIpyIu2NIr4HetIhYR70pw · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-714 avant.by · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxIpyIu2NIr4HetIhYR70pw · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-11-12T09:55:11+00:00	Камера реагирует на всё? | Обычная детекция или умная аналитика🧑🏻‍💻	https://www.youtube.com/shorts/LOptRIAZRfU
 2026-11-11T09:57:30+00:00	Хотите стать сертифицированным специалистом Hikvision? Приглашаем вас на курс HCSA!	https://www.youtube.com/shorts/AOEJmujDrWU
 2026-11-10T10:32:03+00:00	Как получить обзор 180°: две камеры или одна панорамная?	https://www.youtube.com/shorts/J6yZ841Mqq4
 2026-11-09T10:35:02+00:00	Блок питания и кабель для электрозамка: 3 важных нюанса | Часть 2	https://www.youtube.com/shorts/UqzzTUwnO4o
@@ -13,4 +14,3 @@
 2026-10-28T12:17:28+00:00	Охранник смотрит на 100 камер. А что происходит на остальных? | HikCentral Professional	https://www.youtube.com/shorts/17CS6UoW23A
 2026-10-27T11:05:30+00:00	🔐 Группы доступа в HikCentral: как разделить зоны для сотрудников?	https://www.youtube.com/shorts/huGKJQEMdoU
 2026-10-26T09:15:22+00:00	«Пронесет?» — так думают 90% владельцев объектов до первого удара молнии⚡️	https://www.youtube.com/shorts/NBp2i6O3Plk
-2026-10-23T09:20:53+00:00	Видео и контроль доступа — в одной системе? Легко с HikCentral!	https://www.youtube.com/shorts/_uTG07s3rvg

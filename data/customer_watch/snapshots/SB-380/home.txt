@@ -1,4 +1,4 @@
-# SB-380 Yellowbox Co Pty Ltd · home · https://yellowboxglobal.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-380 Yellowbox Co Pty Ltd · home · https://yellowboxglobal.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Smart Locker Systems for Workplaces | Yellowbox
 Product Product overview Access methods Badge, mobile, PIN and more
 Software and integrations Management dashboard, app and integrations
@@ -33,8 +33,6 @@ without the admin.
 Smart lockers that open with what people already carry, and software that runs the rest. Giving time and floor space back to workplaces worldwide.
 Book a demo Explore the product
 Scroll
-Meet Yellowbox
-Yellowbox is the leading smart locker system for modern workplaces
 Trusted globally
 Deployed worldwide
 Yellowbox powers offices around the world
@@ -73,35 +71,27 @@ fewer lockers
 less storage floor space
 Why Yellowbox
 Best user experience
-01 / 03
-Effortless
-Self-serve access with the credential people already use, at the kiosk, on their phone or at the door. Nothing new to learn: walk up, tap and go.
-10.2m opens a year
-02 / 03
-Personalised
-Choose the exact locker and type from live availability across every bank, with preferences saved for next time.
-4.9 ★ star rating
-03 / 03
-Reliable
-Opens every time: several ways in, a backup PIN, and network and power redundancy built in. If the network drops, lockers keep working.
 Access
 The credential they already carry
+opens a year
+10.2m
+01
+Effortless
+Self-serve access with the credential people already use, at the kiosk, on their phone or at the door. Nothing new to learn: walk up, tap and go.
 Preferences
 Saved for next time
+star rating
+4.9
+02
+Personalised
+Choose the exact locker and type from live availability across every bank, with preferences saved for next time.
 Access
 Multiple access methods
+03
+Reliable
+Opens every time: several ways in, a backup PIN, and network and power redundancy built in. If the network drops, lockers keep working.
 Why Yellowbox
 Operational efficiency and ROI
-01 / 03
-95% less admin
-Joiners and leavers are handled automatically through your identity system, underused lockers are chased by email, and local teams get scoped sub-admins.
-02 / 03
-Peace of mind
-What needs doing arrives in your inbox, not as a ticket, and the system keeps working even when the network doesn’t.
-99.5% uptime
-03 / 03
-Proven ROI
-Every automated action is counted and turned into hours, lockers and floor space saved, ready to share.
 Microsoft Entra ID 2 min ago
 Priya Shah added to Legal, Melbourne HQ
 Yellowbox picked up the change
@@ -110,10 +100,21 @@ Added to the Legal locker group
 Locker A4 linked to her access card
 Welcome email sent with how to open it
 Tom Lee left Sales · locker B7 returned to pool
+01
+95% less admin
+Joiners and leavers are handled automatically through your identity system, underused lockers are chased by email, and local teams get scoped sub-admins.
 Email alert ·
 Locker A24 abandoned
+uptime
+99.5%
+02
+Peace of mind
+What needs doing arrives in your inbox, not as a ticket, and the system keeps working even when the network doesn’t.
 Last 12 months
 630 hours saved
+03
+Proven ROI
+Every automated action is counted and turned into hours, lockers and floor space saved, ready to share.
 Customer stories
 All customer stories
 How LSEG saves 1,592 admin hours a year with self-serve lockers The Leadenhall Building How London’s Leadenhall Building runs 550+ bookable lockers How Bristol Myers Squibb saves 453 admin hours a year How Commerzbank Singapore saves 412 admin hours a year How Zurich’s Montreal office got self-serve lockers staff rate 9/10 How Arcadis gave 80% more Rotterdam staff a locker How Hinge’s New York office saves 92 admin hours a year How Ricoh Auckland went 100% mobile, lockers included Every customer story, in full.

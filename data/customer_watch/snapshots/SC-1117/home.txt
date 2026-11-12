@@ -1,5 +1,6 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
+JUEVES DE HIK-MASTERS | HIK-CONNECT TEAMS 360° Domina los Eventos y la Integración de Seguridad — Únete aquí Ver más
 Productos
 0
 Noticias 0 Especiales
@@ -170,48 +171,44 @@ Carrito
 Productos
 Noticias
 Ver todas
-Marvin · 11h · Lanzamiento
-Akubela BAC006EZB: Control Inteligente de Climatización HVAC 4PIPE para Hoteles y Edificios:
-Un termostato para sistemas Fan Coil 4PIPE que controla calefacción y refrigeración de forma independiente. ZigBee 3.0, pantalla táctil, precisión de ±0.5 °C y memoria ante cortes de energía. Para hoteles, edificios corporativos y desarrollos residenciales.
-Conoce el BAC006EZB de Akubela
-IS
-Ingeniería · 12h · Videovigilancia
-¿Qué es la NDAA y qué significa “NDAA compliant”?
-La NDAA es una ley de Estados Unidos que limita lo que compra su gobierno. No es ley mexicana ni un sello de seguridad. Te explicamos qué dice la Sección 889, con la ley original.
-Lee la guía
-Susana · 13h · Redes
-Certificación en redes de datos: del medio físico al modelo OSI, en dos días
-El 24 y 25 de noviembre, en la Sucursal Norte de CDMX, el curso EXPERTREDESDATOSINT cubre las capas 1 a 4 del modelo OSI: medios de transmisión, direccionamiento y cómo interconectar la LAN a internet. Presencial, de a , con 20 lugares.
-Reserva tu lugar en el curso de redes
-Susana · 13h · Redes
-El firewall no se configura solo: políticas que de verdad defienden la red
-El 26 y 27 de noviembre, en la Sucursal Norte de CDMX, el curso EXPERTNETHW trabaja la configuración de políticas de seguridad a nivel de red con firewall Huawei para mitigar y prevenir amenazas. Presencial, de a , con 20 lugares.
-Asegura tu lugar en el curso de firewall Huawei
-Mario · 13h · Alarmas e Intrusión
-El viernes 13 de noviembre, de 09: 00 a , la Sucursal Norte de CDMX abre un taller gratuito de INIM Electronics: especificación, instalación, programación y operación de sistemas contra incendio. 32 lugares.
-Regístrate al taller INIM en CDMX
-Nicolas · 13h · Videovigilancia
-4K en un turret: el detalle que una bala de 2 MP no alcanza
-La DS-2CD1383G2-LIU(F) de Hikvision sube a 8 MP (4K) con lente de 2.8 mm: en un estacionamiento se distinguen placas y rostros donde una cámara de 2 MP solo deja siluetas. Su Dual Light combina 30 m de IR y 30 m de luz blanca, con micrófono integrado, AcuSense Lite para separar personas de vehículos, H.265, IP67 y PoE.
-Conoce la turret 4K de Hikvision
-Jose · 15h · Alarmas e Intrusión
-Montar una central de monitoreo no debería empezar por comprar piezas sueltas.
-El KITSTPLUSM42 de MCDI junta la receptora IP EXTRIUMM42 —2000 cuentas en base interna, Linux, recepción TCP/IP de eventos M2M y ALULA— con la suscripción anual de SecuriThor para 200 cuentas monitoreadas. Un solo SKU para arrancar o renovar la central.
-Arranca tu central de monitoreo con un solo SKU
-Bryan · 16h · Data Center
-Más ventiladores ya no resuelven la densidad por rack.
-Con cargas de IA y HPC el consumo crece más rápido que la carga útil, y el sistema compensa subiendo las revoluciones de los ventiladores.
-La salida no es más aire: es elegir entre enfriamiento tradicional, en fila o liquid cooling según la densidad proyectada, no la instalada.
-Publicamos una guía con los cuatro criterios para definir esa estrategia y los equipos Hoffman que la soportan.
-Descubre la guía de estrategia térmica
-Fernando · 16h · Redes
-Menos visitas al sitio
-Cada viaje a revisar una fuente quemada se paga solo con el traslado. El WI-PCMS310GF-O V2 se administra en la nube: si un puerto se cae o el equipo se reinicia, te enteras por notificación, no por la llamada del cliente. 8 puertos Gigabit PoE, 110 W de presupuesto y L2+ con ERPS, en un solo gabinete de exterior que va al muro sin fuente aparte.
-Administra tu red exterior en la nube
-Leopoldo · 18h · Audio e Intercom
-El proyector está a 10 metros del rack. El HDMI pasivo ya no llega.
-El CA-HM-35 de Kramer es activo: 4K a 60 Hz (4:4:4) y 18 Gbps en 10.7 m sin repetidor externo, porque toma la energía del propio puerto HDMI. Conector K-Lock con 15 lbs de retención, triple blindaje y certificación UL CL3/FT4 para tendido dentro de pared.
-Conoce el CA-HM-35 de Kramer
-Eventos
-Ver todos
-En vivo 1 En línea 23 Presencial 94 Ciudad de México 21 Ch
+Axel · 11h · Lanzamiento
+¿Sabías que tu pantalla IdeaHub de Huawei puede hacer esto?
+Escribe fórmulas matemáticas a mano y la pizarra las resuelve por ti al instante. Smart Math reconoce suma, resta, multiplicación, división, porcentajes, raíces, potencias, pi y trigonometría, además de expresiones como 2x+1, sin teclado ni software adicional.
+Conoce cómo funciona en el siguiente link:
+Mira Smart Math en acción
+Fernando · 12h · Fibra Óptica
+Carretes de fibra óptica de 5 km listos para tu próximo proyecto.
+La fibra MINI-ADSS de Linkedpro by Fiberhome llegó en 6 y 12 hilos: 162 y 63 carretes con entrega inmediata. Span 120, G.652D, loose tube, aérea sin soporte metálico.
+Conoce los carretes MINI-ADSS de 5 km 1
+Cesar · 14h · Videovigilancia
+Almacena más. Gasta menos con UniFi Protect
+Maximiza la retención equilibrando de forma inteligente la calidad de grabación y la eficiencia del almacenamiento: el sistema ajusta el bitrate de cada cámara para que el disco rinda más horas de video sin perder el detalle que importa.
+Conoce UniFi Protect
+Victor · 14h · Alarmas e Intrusión
+El cerco eléctrico ya avisa al celular cuando lo cortan
+Dos módulos WiFi de Yonusa, misma app Yonusa Plus gratuita y WiFi 2.4 GHz. El SLIM mide 43 x 100 x 20 mm, cabe dentro del energizador y da 1 salida de relevador para encendido, pánico y alertas de corte. El CONTROL suma 5 salidas de relevador en gabinete de 150 x 110 x 70 mm para automatizar luces, portón, sirena y más.
+Compara los dos módulos WiFi
+Nicolas · 16h · Videovigilancia
+16 canales en 4K y 160 Mbps: el cuello de botella no es el disco
+El DS-7616NXI-K2(E) de Hikvision graba 16 canales hasta 12 MP con 160 Mbps de entrada y salida, y suma AcuSense en los 16 canales para separar personas y vehículos del resto del movimiento. Dos bahías de hasta 16 TB, HDMI 4K y VGA independientes, 4 entradas de alarma. Sin PoE: va al switch del rack.
+Conoce el NVR de 16 canales 4K
+Leopoldo · 17h · Audio e Intercom
+Un altavoz de exterior que aguanta sol y lluvia sin sonar a plástico
+El OL5BK de TruAudio monta woofer de 5.25 in y tweeter de seda de 0.75 in en gabinete y parrilla de aluminio, con clasificación IP66. 80 W a 8 Ω para líneas de baja impedancia, y soporte ajustable con 120° de giro para apuntar el sonido donde está la gente.
+Conoce el OL5BK de TruAudio
+Marvin · 17h · Lanzamiento
+Con Shelly: Tus adornos navideños ya tienen horario
+El SHELLYPLUGUSGEN4W se conecta por Wi-Fi 2.4 GHz y se controla desde la app Shelly: enciende y apaga las series de luces a la hora que programes, sin estar en casa. Soporta cargas de hasta 15 A / 110 V y mide el consumo del equipo conectado en tiempo real. Compatible con Alexa y Google Assistant, sin hub.
+Programa tus luces navideñas
+David · 18h · Alarmas e Intrusión
+Una batería de litio no se apaga con agua: se encapsula
+El agua se evapora, el polvo no enfría y la celda vuelve a encenderse minutos después. El AVD6L de VICTORY dispersa vermiculita acuosa que encapsula la celda, corta el oxígeno y deja una barrera mineral contra la reignición. 6 litros, 72 s de descarga, 3.6 m de alcance, listado UL EX29073.
+Apaga el fuego que vuelve a encenderse
+Luis · 18h · Control de Acceso
+La terminal facial no se pega al muro: se empotra
+La carcasa DS-KAB673-SF1 de Hikvision deja la Min Moe DS-K1T673 al ras de la superficie: 248 x 129 x 35.9 mm en acero SGCC con placa SUS316L. El cableado queda adentro, sin canaleta a la vista ni marco improvisado. Compatible con toda la serie DS-K1T673.
+Empotra tu terminal Min Moe
+Noe · 18h · Videovigilancia
+Dos cámaras en un solo punto de red, a 200 metros del switch
+La IDIS DCT4517WRXP es una bala de 5 MP con un segundo puerto RJ45 con PoE de salida: ahí conectas otra cámara y el tendido llega hasta 200 m sin repetidor ni fuente extra. Suma WDR real 120 dB, H.265, IR de 20 m, calefactor integrado e IK10/IP66 para exterior.
+

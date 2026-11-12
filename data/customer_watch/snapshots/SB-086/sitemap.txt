@@ -1,4 +1,4 @@
-# SB-086 TAILYN · sitemap · https://tailyn.com.tw/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 403
+# SB-086 TAILYN · sitemap · https://tailyn.com.tw/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 403
 403 Forbidden
 Forbidden
 You don't have permission to access this resource.

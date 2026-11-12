@@ -1,4 +1,4 @@
-# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · site_feed · https://www.angoranetworks.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SA-077 Angora Networks（安卡拉，自有品牌 VERGE 交换机） · site_feed · https://www.angoranetworks.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Wed, 06 Dec 2023 11:27:03 +0000	Angora Networks ® Veri Diyotu Çözümünde Ezber Bozan ModBUS ve OPC protokolü Desteğini Tanıttı	https://www.angoranetworks.com/angora-networks-veri-diyotu-cozumunde-ezber-bozan-modbus-ve-opc-protokolu-destegini-tanitti/
 Sun, 02 Oct 2022 08:43:33 +0000	Görünürlük, Güvenlik, Maliyet: Packet Broker	https://www.angoranetworks.com/gorunurluk-guvenlik-maliyet-packet-broker/
 Wed, 01 Sep 2021 11:26:19 +0000	Angora Networks ® PacketFence NAC entegrasyonu tamamladı.	https://www.angoranetworks.com/angora-networks-cisco-ise-entegrasyonu-tamamladi-2/

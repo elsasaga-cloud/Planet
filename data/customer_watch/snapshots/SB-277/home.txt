@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Sennheiser, Tenda
 91 084 10 11 Atención comercial: Lunes a jueves de a , y los viernes de a Instant Blog Estilo vintage Categorías clásicas ES EN PT
 Mayoristas especializados Soluciones networking.
@@ -396,9 +396,9 @@ ZTE
 Ofertas
 Liquidación
 ¿Eres profesional del sector? Date de alta y accede a los precios más competitivos del sector Quiero ver los precios Ofertas Ver todas
-Tenda A300 Producto reacondicionado 300Mbps Wireless N Wall Plugged Range Extender, 2T2R, 2.4GHz, 802.11n/g/b, Ranger Ex Ver precio −25 %
-HILOOK THC-T123(2.8mm) 2MP, Metal&Plastic, IP66, 2MP CMOS Sensor, 30m IR, Outdoor EXIR Eyeball, ICR, 0.005 Lux/F1.2, 12 VDC, Sma Ver precio −38 %
-HILOOK THC-D320-VF(2.8-12mm) 2MP, Metal, IP66, IK10, 2MP CMOS Sensor, 40m IR, EXIR Dome, ICR, 0.01 Lux/F1.2, 12 VDC, Smart IR, D Ver precio −37 %
+Cambium C050900D021B (sustituye a C050900D021A) Sector Antenna, 5 GHz (4.9 - 5.97 GHz), 90/120 with Mounting Kit, 18 dBi, 35 dB front to back Ver precio −35 %
+Beronet BF4FXS 4 Port FXS Module incl. 2x BFTAdapters, 1x BFBridge and 4x BFFXXCable Ver precio −69 %
+HILOOK THC-T120-P(3.6mm) 2MP, Plastic, Indoor, 2MP CMOS Sensor, Indoor EXIR Eyeball, 20m IR,, ICR, 0.01 Lux/F1.2, 12 VDC, Smart Ver precio −40 %
 Grandes OFERTAS en productos Huawei seleccionados % % % WIFI 6 WIFI 6 HUAWEI eKit Transceiver
 óptico eSFP-GE-SX-MM850 Punto
 de acceso AP361 Punto
@@ -416,15 +416,15 @@ si quiere darse de alta como cliente nuestro pinche aquí
 ❯
 Noticias Instant Byte
 Ir al blog
-Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
-Del 16 al 18 de noviembre de 2026, Instant Byte organiza en Barcelona, en la zona de Mataró, una formación presencial UniFi All in One que reúne tres certificaciones oficiales de Ubiquiti en un mismo curso: UFSP, UWA y URSCA. Está dirigida a profesionales que diseñan, despliegan y administran redes, desde integradores e instaladores hasta responsables de sistemas y soporte. En tres jornadas se trabajan fundamentos de UniFi, redes inalámbricas, routing, switching y ciberseguridad, con acceso a los exámenes de las tres certificaciones. Consulta el programa completo y reserva tu plaza en la…
+Grandstream GRP2600 Lite: cinco teléfonos IP esenciales para despliegues profesionales
+Grandstream amplía la familia GRP con los cinco teléfonos IP Essential Lite de la serie GRP2600: GRP2601L, GRP2601LP, GRP2601LW, GRP2602LP y GRP2602LG. Son una opción para integradores y empresas que necesitan desplegar puestos de telefonía de forma ágil y gestionarlos de manera centralizada. Toda la gama incorpora aprovisionamiento zero-touch, administración mediante GDMS, conferencias de voz de hasta cinco participantes, reducción de ruido por IA, VPN WireGuard y compatibilidad EHS con auriculares profesionales. En el vídeo de presentación puedes ver los equipos y sus funciones principales…
+12 nov 2026 Seguir leyendo Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
 11 nov 2026 Seguir leyendo Webinar práctico: Megafonía IP con Grandstream | 20 de noviembre
 9 nov 2026 Seguir leyendo Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inalámbrica y botón de IA
 3 nov 2026 Seguir leyendo Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
 29 oct 2026 Seguir leyendo MikroTik CLAIRÉ y CLAIRÉ Lite: calidad del aire interior con Matter over Thread
 28 oct 2026 Seguir leyendo UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones remotas
-28 oct 2026 Seguir leyendo Grandstream GWN7672WM: Wi-Fi 7 tribanda de pared con uplink de 5 GbE
-27 oct 2026 Seguir leyendo
+28 oct 2026 Seguir leyendo
 Formación y certificaciones
 Calendario
 Certificación oficial Grandstream Madrid 25, 26 y 27 noviembre 2026: GCPNS (Networking Solutions) 699,95 € + IVA
@@ -434,19 +434,19 @@ Webinar práctico Megafonía IP con Grandstream: integración de UCM y altavoces
 Webinar práctico Conecta edificios sin desplegar fibra: puesta en marcha del Grandstream GWN7302 | 4 diciembre l 2026 | 4 dic 2026 · Gratuito
 Productos destacados
 Ver todos
-Grandstream GWN7665
-Punto de acceso Wifi 6E de interior, velocidad máxima 5,4Gbps. Cobertura +175m. Soporta +384 clientes. Puertos: 1x GbE y 1x 2,5GbE PoE. Certificado para Wifi4EU. Ver precio
-Grandstream GHP611
-Teléfono IP compacto negro,2 cuentas/lineas SIP, programables y 5 de función.1 puerto 10/100 PoE.Conferencia de 3 vías.Escritorio o pared.Compatible GDMS. Ver precio
+Ubiquiti U6-LR
+Punto de acceso de alto rendimiento con tecnología WiFi 6. Ofrece una velocidad de hasta 3.0 Gb Ver precio
+Huawei Optixtar EG8145X6-10
+GPON ONT con Wi-Fi 6 AX3000, 4x GE, 1x POTS (RJ11), 1x USB 2.0, 1x SC/APC Ver precio
+Alfa Network AWUS036AC
+Network AWUS036AC - Adaptador USB Wireless 802.11ac AC1200, Doble Banda, 1200 Mbps con Antena de 5dBi Ver precio
+Grandstream GCC6010
+Todo en uno:VPN router, firewall,IP PBX y switch. Puertos configurables LAN/WAN (max.3 WAN):2x 2,5Gbps SFP, 5x GbE, 4x PoE (36W). PBX voz/video: 12 usuarios, 4 llamadas simultáneas Ver precio
+Interline IP-G14-F7988-HV
+Antena Direccional PANEL 14 dbi, 867-870 MHz (IoT M2M), N-hembra Ver precio
+Ubiquiti LBE-5AC-GEN2-5
+5GHz LiteBeam AC,Gen2,5-Pack Ver precio
 Huawei eKit MiniFTTO F1001-AC −8 %
 MiniFTTO OLT GPON y Controladora WiFi 1xUplink XGPON 4xGE WAN/LAN 8 x Downlink XC/UPC POF (Power over Fiber) 16 puertos SC/UPS 300 clientes WiFi Roaming 50 ms 6 Gbit/s VXLAN 200 Mbits Ver precio
-Interline INT-FEE-xx/5x-HV
-Feeder / Alimentador para Disco Parabólico 5 Ghz Ver precio
-Yeastar TA2400
-Adaptador ATA 24 puertos FXS Ver precio
-Huawei eKit Datacom AP361 −30 %
-Punto de acceso para interior WiFi 6 (80211ax) 2+2 dual band antena inteligente 1775 Gbps WPA3 Cifrado hardware DTLS Ver precio
-Ubiquiti LTU-LR
-Radio de 5 GHz como CPE en PtMP con Rocket LTU o PtP entre dos de ellos con firmware opcional para PtP (requiere descarga) Ver precio
-Huawei eKit Ideahub IHS2-65SA
-Pantalla inteligente Ideahub S2, 65 inch.
+Grandstream GWN7665
+Punto de acceso Wifi 6E de interior, velocidad máxima 5,4Gbps. Cobertura +175m. Soporta +384 clientes. Puertos: 1x GbE y 1x 2,5GbE PoE

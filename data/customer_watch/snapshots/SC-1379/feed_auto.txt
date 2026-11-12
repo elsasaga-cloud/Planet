@@ -1,4 +1,4 @@
-# SC-1379 parks.com.br · feed_auto · https://www.parks.com.br/blog-feed.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-1379 parks.com.br · feed_auto · https://www.parks.com.br/blog-feed.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 Wed, 10 Sep 2025 12:39:23 GMT	Cibersegurança: como evitar ataques aos equipamentos dos seus assinantes	https://www.parks.com.br/post/ciberseguranca-como-evitar-ataques-aos-equipamentos-dos-seus-assinantes
 Fri, 22 Aug 2025 14:20:44 GMT	Portfólio de Switches MPLS Parks: Desempenho e Escalabilidade para sua Rede	https://www.parks.com.br/post/portfolio-de-switches-mpls-parks-desempenho-e-escalabilidade-para-sua-rede
 Mon, 30 Jun 2025 12:23:44 GMT	Como entregar serviços corporativos com alta disponibilidade e controle: desafios e soluções para ISPs e operadoras	https://www.parks.com.br/post/servicos-corporativos-switch-agregacao-e-acesso-edd-pk700-12x

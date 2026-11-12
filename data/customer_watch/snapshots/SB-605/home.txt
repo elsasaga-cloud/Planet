@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -48,9 +48,9 @@ Otevřeno do
 Hustopeče
 Otevřeno do
 Chotěboř
-Zavíráme za 35 minut
+Zavíráme za 15 minut
 Jevíčko
-Otevřeno do
+Zavíráme za 45 minut
 Kladno
 Otevřeno do
 Kroměříž
@@ -69,7 +69,7 @@ Prostějov
 Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Rychnov nad Kněžnou
-Zavíráme za 35 minut
+Zavíráme za 15 minut
 Sokolov
 Otevřeno do
 Svitavy
@@ -90,7 +90,7 @@ Velké Meziříčí
 Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Vysoké Mýto
-Zavíráme za 35 minut
+Zavíráme za 15 minut
 20. 11. od 11.00 hod INVENTURA
 Zábřeh
 Otevřeno do
@@ -136,8 +136,8 @@ Stropní interiérová svítidla
 Užitková svítidla interiérová
 Zápustná, vestavná interiérová svítidla
 Závěsná interiérová svítidla
-Náhradní díly ke svítidlům
 Ostatní interiérová svítidla
+Náhradní díly ke svítidlům
 Kancelářská svítidla
 Downlight svítidla
 Přisazená/závěsná svítidla
@@ -171,8 +171,8 @@ Příslušenství k nouzovým svítidlům
 Průmyslová svítidla
 Do prostředí s nebezpečím výbuchu (Ex)
 LED průmyslová svítidla
-Zářivková svítidla
 Žárovková svítidla
+Zářivková svítidla
 Příslušenství a náhradní díly pro průmyslová svítidla
 Přenosná svítidla
 LED reflektory přenosné
@@ -200,10 +200,10 @@ Stožárové výzbroje
 Příslušenství a náhradní díly pro veřejné osvětlení
 Příslušenství a komponenty svítidel
 Ostatní příslušenství a komponenty svítidel
-Předřadníky
 Armatury a skla
 Kondenzátory
 Systémy řízení osvětlení
+Předřadníky
 Objímky a patice
 Další kategorie
 Tlumivky
@@ -221,9 +221,9 @@ Vánoční a dekorativní osvětlení
 Další kategorie
 LED pásky a příslušenství výprodej
 Lištový systém
+Reflektorová svítidla
 Kancelářská svítidla výprodej
 Průmyslová svítidla
-Reflektorová svítidla
 Nouzová svítidla
 Příslušenství a komponenty svítidel
 Lištový systém 3F vč. příslušenství
@@ -488,12 +488,12 @@ Pohony vrat a bran
 Pro dvoukřídlá vrata
 Příslušenství k pohonům vrat
 Pro posuvná vrata
+Chytré zámky Nuki
+Chytré termostaty tado°
 Chytrá domácnost Sonoff
 Inteligentní ovládání
 Home Assistant
 Chytrá domácnost Homey
-Chytré zámky Nuki
-Chytré termostaty tado°
 iNELS Smart Home
 Chytrá domácnost Shelly
 Chytré jističe
@@ -582,5 +582,4 @@ Regulace teploty - termostaty
 Regulace vlhkosti
 Čidla tlaku
 Další kategorie
-Čidla teploty
-Čid
+Čidla te

@@ -1,4 +1,4 @@
-# SB-689 tiscontrol.com · sitemap · https://www.tiscontrol.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-689 tiscontrol.com · sitemap · https://www.tiscontrol.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 2022-05-05	https://www.tiscontrol.com/
 2022-05-05	https://www.tiscontrol.com/en/index.html
 2022-05-05	https://www.tiscontrol.com/es/index.html

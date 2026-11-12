@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,39 +41,40 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Hikvision IP dome hybrid kamera DS-2CD2183G2-LIS2U(2.8mm)(BLACK), 8Mpx, 2.8mm, AcuSense, Černá
-Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 1m, 50 pack
-2 601 Kč bez DPH
-3 147 Kč s DPH
-DEYE Solární ponorné čerpadlo 3000W s regulátorem DY-B3600AC/DC
-8 444 Kč bez DPH
-10 217 Kč s DPH
-Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý, 24 pack
-2 225 Kč bez DPH
-2 692 Kč s DPH
-SanDisk Micro SDHC Extreme PLUS 32GB + SD adaptér
-573 Kč bez DPH
-694 Kč s DPH
+TP-Link Omada VIGI Cloud VMS license pro 1 kameru na 3 roky
+993 Kč bez DPH
+1 202 Kč s DPH
+Hikvision IP bullet kamera DS-2CD1027G3-LIU(4mm), 2Mpx, 4mm, ColorVu 3.0
+Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý, 10 pack
+812 Kč bez DPH
+983 Kč s DPH
+Triton 19" stojanový rack 18U/800x900 prosklené dveře, šedý
+10 240 Kč bez DPH
+12 390 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý
+90 Kč bez DPH
+109 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2723G2-LIZS2U(2.8-12mm), 2Mpx, 2.8-12mm, AcuSense
+Ubiquiti Singlemode simplex optický patch cord SC UPC/SC UPC, 0,5m, 50 pack
+2 436 Kč bez DPH
+2 948 Kč s DPH
 Hikvision IP dome kamera DS-2CD1147G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
-Hikvision IP bullet kamera DS-2CD1T47G3-LIU(2.8mm), 4Mpx, 2.8mm, ColorVu 3.0
-Triton zaslepovací panel s perforací, 1U, 19", plastová montážní sada, šedý
-158 Kč bez DPH
-191 Kč s DPH
-TP-Link EAP727 Omada Wi-Fi 7 Access Point
-4 029 Kč bez DPH
-4 875 Kč s DPH
-Triton 19" stojanový rack 37U/800x900 prosklené dveře, šedý
-15 270 Kč bez DPH
-18 477 Kč s DPH
-Ubiquiti UniFi patch kabel, 3m, Cat5e, černý, 10 pack
-1 260 Kč bez DPH
-1 525 Kč s DPH
-Hikvision úchyty do 19" racku pro NVR/DVR s šířkou 380mm pro řady DS-72xx/76xx
-Hikvision IP turret kamera DS-2CD2387G3-LI2UY(2.8mm), 8Mpx, 2.8mm, ColorVu 3.0
-Ubiquiti UniFi patch kabel, 12m, Cat5e, modrý
-397 Kč bez DPH
-480 Kč s DPH
-Hikvision IP bullet kamera DS-2CD1067G3-LIU(2.8mm), 6Mpx, 2.8mm, ColorVu 3.0
+Triton sada držáků na středovou vertikálu pro instalaci 19" zařízení, 2 pack
+116 Kč bez DPH
+140 Kč s DPH
+Triton 19" stojanový rack 37U/600x900 prosklené dveře, šedý
+13 380 Kč bez DPH
+16 190 Kč s DPH
+Hikvision IP dome kamera DS-2CD1123G2-LIU(4mm), 2Mpx, 4mm, ColorVu
+Teltonika Telematics ATC700, miniaturní tracker s 4G LTE Cat 1
+1 848 Kč bez DPH
+2 236 Kč s DPH
+QuWireless Anténa QuSpot pro Teltonika RUT360/RUT361
+3 386 Kč bez DPH
+4 097 Kč s DPH
+SanDisk Micro SDHC Ultra GO 32GB
+506 Kč bez DPH
+613 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

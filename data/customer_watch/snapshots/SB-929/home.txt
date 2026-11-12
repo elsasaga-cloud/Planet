@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -157,14 +157,29 @@ Sold Out
 판매가 : 280,500원
 LIKE IT ! 0
 Sold Out
+솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
+상품요약정보 : PoE 60W/ 185.5(W) x 123(D) x 44(H)mm
+판매가 : 101,200원
+LIKE IT ! 0
+Sold Out
 (생산지연)(단독특가) 솔텍 SFC1200-HDFT POE HD VIDEO(1080P) 익스텐더 광 컨버터 TX/RX
 상품요약정보 : 4K 3840p×2160p POE IP Extender Port, USB Port, Reset 버튼 전원입력:DC 12V or 802.3af POE PD
 판매가 : 224,400원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
-상품요약정보 : PoE 60W/ 185.5(W) x 123(D) x 44(H)mm
-판매가 : 101,200원
+솔텍 SFC8000HP 산업용 관리형 L2 스위치 (1Gbps PoE 8포트/2.5G SFP 2슬롯) (전원공급장치 포함)
+상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 70°C / PoE 240W / 전원이중화 / S-Ring(복구타임
+판매가 : 699,600원
+LIKE IT ! 0
+Sold Out
+SFC310C 산업용 광컨버터
+상품요약정보 : 1G SFP 산업용 광컨버터 1Gbps TP 1포트 + 1G SFP 1포트 SFP Speed DIP-SWITCH(100M, 1G)
+판매가 : 202,400원
+LIKE IT ! 0
+Sold Out
+에시르 SG-600C KAT-HD600C 1채널 AHD TVI CVI용 UTP 영상 발룬 송수신기
+상품요약정보 : 영상 발룬 UTP 발룬 송수신기 세트 AHD,TVI,CVI, 4K 해상도 연결 가능 최대거리 300M
+판매가 : 2,100원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC4000HP 관리형 L2 스위치 (1Gbps PoE 24포트/1G SFP 4슬롯)
@@ -172,26 +187,10 @@ Sold Out
 판매가 : 699,600원
 LIKE IT ! 0
 Sold Out
-노벡스 절연장갑 17000V class2 전기작업장갑
-상품요약정보 : 노벡스 절연장갑 17000V class2 전기작업장갑
-소비자가 : 90,000원
-판매가 : 74,000원
-LIKE IT ! 0
-Sold Out
-솔텍 SFC510HP 스위치 (1Gbps TP 10포트(PoE 8포트))
-상품요약정보 : 비관리형 / 9, 10포트 Uplink 포트/ PoE 125W/ 280(W) x 180(D) x 44(H)mm
-판매가 : 189,200원
-LIKE IT ! 0
-Sold Out
-[제작상품] LC-SC 싱글 광점퍼코드 3m LS-JC-LC/SC-SM-20DPV-030
-상품요약정보 : 국산 [제작상품] 정품, Single mode, OS2, 9/125㎛, LC/PC-SC/PC, Duplex, 2Core, 1550nm, 직경 2.0mm, PVC OFNR 시험성적서 발급 가능
-소비자가 : 19,700원
-판매가 : 15,100원
-LIKE IT ! 0
-Sold Out
-랜스타 HDMI 2.1 8K AOC 광케이블 15m LS-H21AOC-15M
-상품요약정보 : HDMI2.1 AOC 케이블 / 8K@60Hz, 4K@120Hz 해상도 지원 / HDMI2.1 전용 기능 지원(ALLM, QFT, DSC 등) / OD 5.2mm / 15M
-판매가 : 31,900원
+인네트워크 IN-SC-SC-DP-MM 20M 국산 SC-SC 멀티모드 광 점퍼코드 20M INO023
+상품요약정보 : OM1 / 2CORE / 주황색
+소비자가 : 18,300원
+판매가 : 14,600원
 FiberMart 특가
 더보기
 LIKE IT ! 0

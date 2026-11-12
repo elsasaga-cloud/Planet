@@ -1,4 +1,4 @@
-# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Infrastructure decisions start here - Vespertec Skip to content Skip to main content
 Products
 Services
@@ -23,7 +23,7 @@ Compute (Server)
 Storage
 Network
 Edgeware Transceivers & Cabling
-OCP
+Open Compute Project (OCP)
 Feature
 Vespertec crowned NVIDIA Northern European Star Performer 2025
 Find out more
@@ -41,6 +41,7 @@ Infrastructure
 decisions start here
 Choosing infrastructure isn’t just about selecting a server, storage platform or network switch. Every decision affects performance, compatibility, power, cooling, software and long-term growth.
 Explore our expertise
+Introducing the new Vespertec look and feel
 NVIDIA GTC Berlin 2026: From Building AI Factories to Getting Them Producing Tokens
 From Paris to Berlin, and NVIDIA’s Role in Europe’s AI Infrastructure
 NVIDIA’s New AI Infrastructure Model Signals the Next Phase of AI Factory Growth
@@ -50,7 +51,6 @@ Spectrum-6, Explained: What NVIDIA Changed and Why It Reaches Below Gigascale
 How Vespertec helped Civo scale its global cloud infrastructure
 How Krystal Built Its Katapult Public Cloud with Vespertec
 Arm’s AGI CPU Benchmarks Point to a New Evaluation Checklist for Agentic AI Infrastructure Buyers
-Evaluating the NVIDIA Spectrum SN3420: What Infrastructure Buyers Need to Know
 That’s why organisations engage Vespertec before they’ve chosen their hardware.
 We help you design, source and deploy the right combination of compute, storage and networking.
 Independent advice, proven infrastructure.
@@ -123,7 +123,7 @@ info@vespertec.com
 LinkedIn
 Stay Updated
 Subscribe to our newsletter for the latest updates and insights.
-X/Twitter
+Comments
 This field is for validation purposes and should be left unchanged.
 Email Address (Required)
 Subscribe

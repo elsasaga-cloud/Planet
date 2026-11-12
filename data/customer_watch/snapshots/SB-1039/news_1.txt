@@ -1,4 +1,4 @@
-# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Innovative News - ICO Innovative Computer GmbH
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -87,6 +87,15 @@ Anfahrt
 Startseite
 ICO NEWS
 Hier finden Sie Neuigkeiten und aktuelle Artikel rund um unser Sortiment und unser Unternehmen
+High-End-Embedded-PC mit dreimal 2,5-Gigabit-LAN und optionalem RAID 1
+ICO Innovative Computer GmbH bietet mit dem PicoSYS 3610-i5 einen Embedded-PC für industrielle Steuerungs- und Datenverarbeitungsaufgaben. Drei 2,5-Gigabit-LAN-Anschlüsse ermöglichen die Anbindung mehrerer Netzwerke. Über einen PCIe-x4-Erweiterungsslot lässt sich zusätzliche Hardware integrieren. Bei entsprechender Laufwerksausstattung ist ein RAID-1-Verbund zur Spiegelung der Daten möglich.
+Das System arbeitet lüfterlos und ist für Umgebungstemperaturen von −10 bis +50 °C ausgelegt. Die passive Kühlung kommt ohne bewegliche Teile aus. Das Metallgehäuse misst 275 × 140 × 117 mm und lässt sich an der Wand oder per VESA-Halterung montieren. Eine Hutschienenhalterung ist optional erhältlich.
+Zur Hardware gehören ein Intel Core i5-1335UE mit zehn Kernen und zwölf Threads, 16 GB DDR5-Arbeitsspeicher sowie eine 256-GB-SATA-SSD. Der Arbeitsspeicher ist auf bis zu 96 GB erweiterbar. Ergänzend zum PCIe-Slot ist ein M.2-Steckplatz vorhanden. Sechs USB-3.2-Gen-2-Anschlüsse vom Typ A und zwei isolierte serielle Schnittstellen für RS-232, RS-422 und RS-485 dienen der Anbindung von Peripherie und Industriekomponenten. Über HDMI, DisplayPort und USB-C lassen sich bis zu vier unabhängige Displays betreiben.
+Einsatzgebiete sind Maschinensteuerungen, Anlagenvisualisierungen sowie Mess- und Prüfsysteme. Auch Produktionsdaten können direkt an der Anlage erfasst und verarbeitet werden. Die seriellen Schnittstellen erleichtern dabei die Einbindung bestehender Maschinen. ICO passt die Ausstattung in der hauseigenen Fertigung auch in kleinen Stückzahlen an.
+Hier geht es zum PicoSYS 3610-i5 Embedded PC
+Hier geht es zur Übersicht für Embedded PCs
+Pressemitteilung PicoSYS 3610-i5 Herunterladen
+12.11.2026
 Industrielle Touch-Bedienung von 10,1 bis 23,8 Zoll
 Fünf neue Panel-PCs von ICO verbinden unterschiedliche Displayformate mit Intel Core i5- und Celeron-Prozessoren.
 (mehr …)
@@ -123,10 +132,6 @@ Zebra TC201: Neuer Mobile Computer für Handel, Logistik und Außendienst
 Der Zebra TC201 richtet sich an Unternehmen, die mobile Arbeitsabläufe zuverlässig und effizient abbilden möchten. Typische Einsatzbereiche finden sich im Einzelhandel, in Lager und Logistik, im Transport sowie im Außendienst. Dort unterstützt das Gerät beispielsweise bei Inventuren, Kommissionierung, Warenannahme, Bestandskontrolle oder mobilen Serviceaufgaben.
 (mehr …)
 12.10.2026
-NVIDIA DGX Spark bei ICO: kompakte KI-Workstation im Mini-PC-Format
-NVIDIA Grace Blackwell, 128 GB Unified Memory und bis zu 1 PFLOP FP4 bringen leistungsfähige KI-Entwicklung direkt an den Arbeitsplatz.
-(mehr …)
-8.10.2026
 1
 2
 3

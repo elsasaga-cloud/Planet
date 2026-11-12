@@ -1,4 +1,4 @@
-# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Home Page SWL
 Login
 Email Address
@@ -192,20 +192,20 @@ Activor Wireless
 Inovonics Wireless
 Sherlotronics Wireless
 Featured Products
+13980
+Qolsys Alarm.com Kit: 1x Hub, 1x Remote, 2x Pet PIRs, 1x Door Contact "ADC"
+POA
+More Info
+47878
+Wi-Tek WI-IOTBOX03 V3: O/D Cabinet 500x 720x 286.5mm, Fan, Tamper, IP65, IK10
+POA
+More Info
 47873
 Wi-Tek WI-IOTBOX01 V3: O/D Cabinet 300x 400x 206.5mm, Fan, Tamper, IP65, IK10
 POA
 More Info
-27280
-Vanderbilt GM730 Seismic Detector: 8 -16 VDC, IP43
-POA
-More Info
-48460
-Wi-Tek WI-LTE113-O V2: 4G CAT6 Router, 1x 1000Mbps, RJ45, 24V PoE
-POA
-More Info
-57117
-Sebury STouch2 Keypad & Reader, Wiegand Output/ Input
+48295
+Wi-Tek WI-PCES310GF-F: 8x 1000Mbps PoE Ports + 2x 1000Mbps SFP, 145W, Industrial
 POA
 More Info
 Products

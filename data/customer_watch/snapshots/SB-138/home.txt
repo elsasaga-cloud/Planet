@@ -1,4 +1,4 @@
-# SB-138 Volktek · home · https://www.volktek.com/index_en.php · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-138 Volktek · home · https://www.volktek.com/index_en.php · fetched 2026-11-12T09:57:55Z · HTTP 200
 Industrial Ethernet Switches & PoE Solutions | Volktek Taiwan
 Products
 Layer 3 Industrial Ethernet Switches
@@ -274,6 +274,9 @@ Design & Manufacturing
 High Quality
 32 Years of Experience
 News & Events
+VOLKTEK Completes ISO 14064-1 Verification of Zhunan Plant's 2025 GHG Inventory
+2026-11-12
+ESG at Volktek
 Substation Certified Switches: Selection Considerations for Utility Networks
 2026-11-06
 Product News
@@ -295,9 +298,6 @@ Corporate News
 VOLKTEK to Showcase TSN and SPE at the Industrial Open Networks Fair 2026 in Tokyo
 2026-08-25
 Events
-Ethernet Media Converter Guide for Copper-to-Fiber Network Planning
-2026-08-21
-Product News
 Volktek Ethernet products
 Volktek solutions
 Volktek solutions have been implemented in applications worldwide. Learn from our reference cases on how your network can benefit from our platform.

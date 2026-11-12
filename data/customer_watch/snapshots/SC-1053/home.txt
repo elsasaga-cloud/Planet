@@ -1,4 +1,4 @@
-# SC-1053 casmarglobal.com · home · https://casmarglobal.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-1053 casmarglobal.com · home · https://casmarglobal.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 CASMAR | Distribuidor de tecnologías de seguridad electrónica
 0 0
 Idioma es | es
@@ -26,6 +26,8 @@ Productos Productos
 Promociones Promociones
 Liquidación
 Oportunidad
+SolarVu
+Black Week Casmar
 Esenciales Esenciales
 CCTV IP
 Cámaras bullet
@@ -629,6 +631,4 @@ Montaje sistema ONE-500
 Cargadores de baterías
 Altavoces certificados EN54-24
 Software
-Terminales para puertas de emergencia
-Accesorios
-P
+Terminales para puertas 

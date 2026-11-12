@@ -1,4 +1,4 @@
-# SB-223 2mtechnology.net · home · https://www.2mtechnology.net/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-223 2mtechnology.net · home · https://www.2mtechnology.net/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Advanced Security for High-Risk Environments | 2M Technology
 Skip to content
 Products
@@ -179,9 +179,12 @@ Engineered Security Systems for High-Risk & Critical Infrastructure
 Explosion-proof cameras, mobile surveillance trailers, X-ray scanners, LPR systems & access control — engineered for real-world deployment.
 Get a Free System Design
 Talk to an Expert
+Solar-Powered Light Trailers
+Featuring multi-day battery storage and all-weather durability, our solar light trailers keep remote worksites brightly lit without generator noise, refueling runs, or exhaust emissions.
+Mobile Solar Lighting
 Drone Detection Trailers
 Our proven mobile surveillance trailer platform combined with passive radio-frequency (RF) drone detection sensors from leading counter-UAS manufacturers.
-See Details
+See Details & Options
 Custom Container Security Checkpoints
 We transform standard ISO shipping containers into portable turnkey security checkpoints for any location, complete with access control turnstiles, advanced screening equipment, and full surveillance systems.
 Build Your Container
@@ -190,13 +193,13 @@ Unify your networking, access control, and surveillance with a complete Ubiquiti
 Get a System Design
 Custom Explosion-Proof Surveillance
 Transform any security camera of any brand or type into an explosion-proof solution with our custom-designed explosion-proof housings that provide you with the highest level of protection in areas with the highest level of risk.
-Start Customizing
+Get a Housing Design
 Mobile Solar Security Trailers
 Deploy reliable, portable surveillance anywhere with easy setup and continuous power for remote areas, construction sites, and short-term events.
-Browse Products
+See Trailer Configurations
 Explosion-Proof Lighting
 Tough, industrial-grade lighting solutions made for hazardous zones, delivering reliable, high-output illumination to any high-risk work site, any time of day.
-Browse Products
+Browse Lighting
 Custom Security Installations
 Security solutions tailored to your needs. From design to installation, we create custom security systems that protect your property, assets, and people anytime, anywhere.
 Explore Services
@@ -258,13 +261,21 @@ The Best in Security
 700+ Satisfied Clients
 1,200+ Solutions Delivered
 New Products
+2MSLT-3240S
+3-Panel Solar Light Skid Trailer
+Solar-powered light skid trailer featuring three solar panels, four LED floodlights, 21 ft telescopic manual mast, and 40 hours of silent, fuel-free runtime.
+Explore All Features
 2MEJB-9
 Explosion-Proof Power Box
 Secure industrial wiring with this explosion-proof power box built with 304 or 316L stainless steel. Features Ex d IIC T6 rating and IP66/NEMA-4X protection.
 Explore All Features
-2MSLT-2120
+2MSLT-3240
+Mobile 3-Panel Solar Light Trailer
+Mobile solar light tower trailer with 3 panels, a 24.6 ft adjustable mast, 40,800 lumens of bright LED coverage, and up to 48 hours of off-grid runtime.
+Explore All Features
+2MSLT-2120S
 2-Panel Solar Light Tower Trailer
-2-panel solar light tower trailer featuring 20,400 lumens output, a 21 ft telescopic mast, and up to 40 hours of runtime with zero fuel and noise emissions.
+2-panel solar light skid trailer featuring 20,400 lumens output, a 21 ft telescopic mast, and up to 40 hours of runtime with zero fuel and noise emissions.
 Explore All Features
 2MEB-IP2MZ
 2MP Motorized Explosion-Proof Bullet Camera for Underground Coal Mining
@@ -273,14 +284,6 @@ Explore All Features
 2MEJB-12
 ATEX/IECEx Certified Explosion-Proof Control Box
 Secure electrical connections in hazardous areas with the explosion-proof control box. ATEX and IECEx certified for Gas Zone 1 and Dust Zone 21.
-Explore All Features
-2MEP-IP4M4X
-4MP 4x Zoom Explosion-Proof Mini PTZ Camera for Mining
-Explosion-proof mini PTZ camera for underground mining surveillance. Features 4MP resolution, 4x optical zoom, and IR lights for up to 20m night vision.
-Explore All Features
-2MEXH-4616
-ATEX/IECEx-Certified Explosion-Proof Bullet Camera Housing
-Certified IECEx/ATEX bullet camera housing for safe surveillance in hazardous Gas Zones 1/2, Dust Zones 20/21/22. Explosion-proof, waterproof, and rustproof.
 Explore All Features
 Unified Security Infrastructure for Industrial Facilities
 Integrated Security Infrastructure Design
@@ -321,7 +324,4 @@ Custom Explosion-Proof Camera Enclosure for Verkada with Dual Ratings
 Built with dual compliance, our custom explosion-proof camera enclosure for a Verkada bullet easily adapted to a mid-project Class II to Class I rating change.
 Read Case Study
 Custom Explosion-Proof Verkada Bullet Camera Housings: One Camera, Two Solutions
-Deploy any Verkada camera in hazardous areas without compromise. 2M designs every custom explosion-proof Verkada bullet camera housing to match your specs.
-Read Case Study
-Energy Site: Custom 10-ft Container Turnstile Checkpoint Fabrication
-When a Louisiana e
+Deploy any Verkada camera in hazardous area

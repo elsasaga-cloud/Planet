@@ -1,4 +1,4 @@
-# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · security_cat · https://xspectechnology.com/category/military-defence-security · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · security_cat · https://xspectechnology.com/category/military-defence-security · fetched 2026-11-12T09:57:55Z · HTTP 200
 Military, Defence & Security Brands - XSPec Malaysia
 XSPec Technology
 Preparing your catalog
@@ -11,7 +11,6 @@ Home
 Oil, Gas & Marine
 FJD Trion
 G-Tech
-INTRON
 Oohashi
 Pacific NDT
 Thermo Fisher Scientific
@@ -42,7 +41,6 @@ Home
 Oil, Gas & Marine
 FJD Trion
 G-Tech
-INTRON
 Oohashi
 Pacific NDT
 Thermo Fisher Scientific
@@ -83,8 +81,8 @@ ID
 XSPec Malaysia
 Military, Defence & Security
 Explore trusted brands and field-ready technology solutions for Military, Defence & Security teams.
-32 Brands
-70 Products
+31 Brands
+66 Products
 After-Sales Support
 Brand Catalog
 Available Brands
@@ -241,11 +239,6 @@ View Products
 Military, Defence & Security
 1 Product
 ADVANCED ACCURACY SOLUTIONS
-View Products
-->
-Military, Defence & Security
-4 Products
-Speech Technology Center
 View Products
 ->
 Military, Defence & Security

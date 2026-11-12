@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,13 +429,14 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-MDR-100 Fonte CA/CC 100W PFC com Montagem em Trilho DIN MeanWell
-R$ 344,43
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
+R$ 396,00
 R$
-334 , 10
+384 , 12
 à vista
 com desconto Pix - Vindi
-Ver opções
+Comprar
+Ver ficha técnica
 Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
 R$ 549,00
 R$
@@ -444,50 +445,35 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Inversor CC/CA 1000W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-1K-127-V3
-R$ 1.682,95
+Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
+R$ 1.458,00
 R$
-1.632 , 46
+1.414 , 26
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
--50%
-LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
-R$ 255,00
-R$ 127,50
+MDR-100 Fonte CA/CC 100W PFC com Montagem em Trilho DIN MeanWell
+R$ 344,43
 R$
-123 , 68
+334 , 10
 à vista
 com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
+Ver opções
 Lançamentos
-Módulo de Monitoramento IP Watchdog TCW122B-WD
-R$ 1.348,47
-R$
-1.308 , 02
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Sensor de Umidade e Temperatura TSH300v3 Modbus RTU RS-485
-R$ 875,73
-R$
-849 , 46
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Temperatura e Umidade Data Logger TCW210-TH
-R$ 1.813,25
-R$
-1.758 , 85
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-1-Wire Sensor de Temperatura TST100S
+1-Wire Transmissor PT100 TST200
+Sob consulta
+Saiba mais
+Pedir cotação
+1-Wire Transmissor de Loop de Corrente TSA200
+Sob consulta
+Saiba mais
+Pedir cotação
+1-Wire Sensor de Pressão Barométrica TSP200
+Sob consulta
+Saiba mais
+Pedir cotação
+Detector de Vazamento de Água com Saída Digital TSF400-0
 Sob consulta
 Saiba mais
 Pedir cotação
@@ -553,5 +539,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.494 secs - 11-11-2026  - node: commerce-web4-bot-lw - store
+Load time: 1.239 secs - 12-11-2026  - node: commerce-web5-tiny-lw - store
 ×

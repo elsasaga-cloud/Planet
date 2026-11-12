@@ -1,4 +1,4 @@
-# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 리버샵 - Rivershop
 {#item} {#html}
 {#item}
@@ -98,17 +98,18 @@ USB
 {#item} {#html}
 {#item_lazy} {#html}
 베스트 상품 이달의 인기상품을 확인해보세요!
-넥시 4K HDMI 더미플러그 가상모니터 생성기 원격제어 에뮬레이터 NX-HDDMP
-판매가 : 990원
-아이엑스 DP1.4 to HDMI2.1 케이블 액티브 UHD 8K 60hz 4K 144hz DP선 0.5M 1M 1.5M 2M 3M 5M 10M
-상품요약정보 : 0.5M, 1M, 1.5M, 2M, 3M, 5M, 10M
-판매가 : 29,000원
 넥시 ULTRA HIGH SPEED HDMI 2.1 인증 케이블
 상품요약정보 : 0.5M, 1M, 1.5M, 2M, 3M, 5M
+판매가 : 4,300원
+넥시 DP to HDMI 케이블 V1.1
+상품요약정보 : 2M, 3M
 판매가 : 4,300원
 넥시 DVI-I to RGB(VGA) 케이블
 상품요약정보 : 1.5M, 2M, 3M
 판매가 : 2,600원
+아이엑스 USB C to C 멀티허브 C타입만 있는 허브 분배기
+상품요약정보 : USB3.1(C)*4/ PD 충전 100W (C) * 1
+판매가 : 29,900원
 1 / 2
 SHORTS
 흥미로운 쇼츠와 소식을 한눈에 확인하세요.

@@ -1,6 +1,6 @@
-# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-11T09:37:04Z · HTTP 403
+# SB-313 intellcom.net · home · https://intellcom.net/ · fetched 2026-11-12T09:57:55Z · HTTP 403
 Intellcom Group - 403
 წვდომა შეზღუდულია
 საიტი ხელმისაწვდომია მხოლოდ საქართველოს ტერიტორიიდან.
 Access to this website is available only from Georgia.
-IP: 145.132.102.98
+IP: 172.214.109.199

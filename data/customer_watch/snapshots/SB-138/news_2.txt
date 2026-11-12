@@ -1,4 +1,4 @@
-# SB-138 Volktek · news_2 · https://www.volktek.com/news_en.php · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-138 Volktek · news_2 · https://www.volktek.com/news_en.php · fetched 2026-11-12T09:57:55Z · HTTP 200
 News & Events | VOLKTEK
 Products
 Layer 3 Industrial Ethernet Switches
@@ -211,6 +211,10 @@ Discover the Future of Industrial Networking with Volktek and Nex-Gen at KES 202
 2025-09-22
 Events
 Read More
+VOLKTEK Completes ISO 14064-1 Verification of Zhunan Plant's 2025 GHG Inventory
+2026-11-12
+ESG at Volktek
+Read More
 Substation Certified Switches: Selection Considerations for Utility Networks
 2026-11-06
 Product News
@@ -230,10 +234,6 @@ Read More
 VOLKTEK Advances EU CRA Compliance Efforts with Launch of Product Security Reporting Portal
 2026-09-09
 Product News
-Read More
-VOLKTEK Achieves ISO 50001 Certification, Strengthening Energy Management and Sustainable Operations
-2026-08-27
-Corporate News
 Read More
 1 / 30
 1

@@ -1,4 +1,4 @@
-# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 	https://www.tayle.ru/partner_register/
 2017-05-26	https://www.tayle.ru/videos/
 2025-02-06	https://www.tayle.ru/vendor/
@@ -39,7 +39,7 @@
 2022-08-19	https://www.tayle.ru/beguru/1year/
 2023-11-20	https://www.tayle.ru/beguru/
 2026-07-31	https://www.tayle.ru/AEM/
-2026-01-23	https://www.tayle.ru/about/
+2026-11-12	https://www.tayle.ru/about/
 2026-11-11	https://www.tayle.ru/pubs/news/2342/
 2026-11-06	https://www.tayle.ru/pubs/news/2343/
 2026-11-03	https://www.tayle.ru/pubs/news/2341/

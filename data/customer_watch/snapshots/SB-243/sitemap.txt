@@ -1,5 +1,5 @@
-# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
-2026-11-10T08:22:53.619Z	https://www.hfcl.com
+# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-11-10T12:03:20.314Z	https://www.hfcl.com
 2026-08-21T18:47:11.298Z	https://www.hfcl.com/products/defence-solutions
 2026-10-23T05:18:26.786Z	https://www.hfcl.com/insights
 2026-08-21T18:47:11.331Z	https://www.hfcl.com/insights/blogs
@@ -52,6 +52,7 @@
 2026-10-16T11:58:29.854Z	https://www.hfcl.com/investors/investor-information
 2026-08-21T18:47:14.217Z	https://www.hfcl.com/investors/qip-2021
 2026-08-21T18:47:14.222Z	https://www.hfcl.com/investors/qip-2023
+2026-11-12T06:41:45.177Z	https://www.hfcl.com/ofc/en-us
 2026-08-21T18:47:14.250Z	https://www.hfcl.com/products/optical-fiber
 2026-08-21T18:47:14.265Z	https://www.hfcl.com/insights/webinars-and-podcasts
 2026-08-21T18:47:14.279Z	https://www.hfcl.com/products/ip-mpls-routers
@@ -156,4 +157,4 @@
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/optical-fiber-working-principle--delving-into-details
 2026-11-10T08:23:08.240Z	https://www.hfcl.com/insights/blogs/optiq-ai-solutions-for-next-generation-ai-infrastructure
 2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/otdr-vs-olts-optical-fiber-testing-explained
-2026-04-17T11:57:33.381Z	https://www.hfcl.com/insights/blogs/powering-seamless-connecti
+2026-04-17T11:57:33.381Z	https:

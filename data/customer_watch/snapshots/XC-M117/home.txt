@@ -1,4 +1,4 @@
-# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Sphinx France, solutions M2M et IIoT
 Connexion
 ou
@@ -239,26 +239,17 @@ Extender KVM
 Je découvre
 Nos produits vedettes
 Repoussez les limites de l’Industrie 4.0 avec nos solutions IIoT de pointe.
-Sierra Wireless AirLink RV55 - Routeur 4G industriel
-0,00 €*
-Sierra Wireless Airlink XR80 - Routeur industriel 5G/WiFi 6
-1 259,00 €*
-Module cellulaire 4G/5G pour les routeurs 4G/5G industriels Airlink XR80/XR90
-0,00 €*
-Sierra Wireless Airlink RV50X - Routeur 4G industriel
-0,00 €*
-Sierra Wireless AirLink LX40 - Routeur 4G industriel compact
-0,00 €*
-Sierra Wireless AirLink RX55 - Routeur 4G LTE-A
-0,00 €*
-Sierra Wireless AirLink MP70 - Routeur 4G industriel
-0,00 €*
-Sierra Wireless AirLink LX60 - Routeurs commerciaux double Ethernet LTE ou LTE-M/NB IoT pour les parcs de vente au détail, de points de vente, d'IoT et commerciaux
-0,00 €*
-Semetch AirLink XR90 - Routeur 5G industriel à double radio
-0,00 €*
-$ Sierra Wireless - MP70 LTE-A PRO WiFi
-0,00 €*
+Moxa PT-7728 - Switch Ethernet manageable
+Moxa NPort 5430 – Serveur de port série à 4 ports
+Moxa NPort 5610-8-DT – Serveur de port série 8 ports
+Moxa NPort 5630-8 – Serveur de port série à 8 ports
+Moxa NPort 5230 – Convertisseur série vers Ethernet
+Moxa EDS-508A - Switch Ethernet manageable
+Moxa NPort 5650-8 – Serveur de port série 8 ports
+1 184,00 €*
+Moxa EDS-208 - Switch non manageable 8 ports
+Moxa NPort 5130 – Serveur de périphériques RS-422/485
+Moxa NPort 5250A – Serveur de port série 2 ports
 Votre partenaire unique pour
 l'Internet Industriel des Objets
 Plus de 24 ans d'expérience
@@ -269,43 +260,50 @@ Headphones
 Shop now
 Nos best-sellers
 Découvrez notre sélection de produits les plus vendus.
-Semtech AirLink® XR60 - Routeur 5G industriel
-ADDERLink XDIP-POE - Extender KVM sur IP
-Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
-Icron Ranger 2301 - Extendeur USB 2.0
-370,00 €*
-Moxa EDS-408A - Switch Ethernet manageable
+Moxa EDS-316 - Switch industriel 16 ports
 Kerlink Wirnet iFemtoCell - Gateway LoRaWAN indoor
 0,00 €*
-Moxa EDS-316 - Switch industriel 16 ports
-Je découvre
-Extension pour 4 ports USB 2.0 jusqu'à 100 m CAT 5e/6/7 ou LAN - Icron Ranger 2304
-403,00 €*
-Extension Icron pour un port USB 2.0 jusqu'à 100 m via câble CAT 5e/6/7- icron Ranger 2311
-286,00 €*
-Icron Ranger 2324 - Extendeur USB 2.0 4 ports
-948,00 €*
-Icron Raven 3301 - Extendeur USB à 1 Port
-Icron Raven 3104 - Extendeur USB 3.1 4 ports
-1 165,00 €*
-Extension pour un port USB 2.0 jusqu'à 100m via CAT 5e/6/7 ou LAN- Icron Ranger 2301GE
-412,00 €*
+Moxa EDS-408A - Switch Ethernet manageable
 Icron Ranger 2301 - Extendeur USB 2.0
 370,00 €*
-ADDERLINK X-USB PRO MS - Extender KVM à double écran
+Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
+ADDERLink XDIP-POE - Extender KVM sur IP
+Semtech AirLink® XR60 - Routeur 5G industriel
+Je découvre
+Icron Raven 3104 Pro - Extendeur USB 3.2 4 ports
+1 802,00 €*
+Extension pour 4 ports USB 3. 1 jusqu'à 200 mètres via une fibre optique - Icron Raven 3124
+1 398,00 €*
+Extension pour un port USB 3.0 jusqu'à 15 m - Icron Spectra 3001-15
+317,00 €*
+ADDERLink X-USB PRO - Extender KVM USB
+Icron Spectra 3022 - Extendeur USB 3.0 par fibre optique
+847,00 €*
+Extension pour 4 ports USB2.0 jusqu'à 10 km via la fibre - Icron Ranger 2344
+1 054,00 €*
+Icron Ranger 2304PoE - Extendeur USB 2.0 4 ports
+445,00 €*
 ADDER C-USB-LAN-R - Récepteur USB 2.0 sur LAN GbE
 Extension pour 2 ports USB 2.0 jusqu'à 100 m via CAT 5e/6/7- Icron Ranger 2312
 335,00 €*
-Premio VIO-W121R - Panel PC
-Premio VIO-W115R - Panel PC
-Premio SIO-212R-J1900 - Panel PC
-Premio VIO-W215 / PC400 - Panel PC
-Premio VIO-W121C - Panel PC
-Premio VIO-219R - Panel PC
-Premio VIO-215C 15" XGA tactile capacitif Thin Frame Panel PC avec processeur Intel® Core™ i5/i3 ou Celeron®
-Premio VIO-W115C PC à écran tactile capacitif Full HD 15,6" 16:9 avec processeur Intel® Core™ i5/i3 ou Celeron®
-Premio VIO-215R - Panel PC
-Premio VIO-115R - Panel PC
+Icron EL5363 - Extendeur USB 2.0 + HDMI
+659,00 €*
+MACTRON GROUP WAM1707 - Panel PC Windows 17"
+0,00 €*
+Moxa MPC-2120 Series Ordinateurs industriels sans ventilateur 12 pouces
+MACTRON GROUP WCP2157 - Panel PC Windows 21.5″
+0,00 €*
+MACTRON GROUP WCP1567 - Panel PC Windows 15.6″
+0,00 €*
+MACTRON GROUP WAM2157 - Panel PC Windows 21.5"
+MACTRON GROUP WAM2152 - Panel PC Android 21.5"
+MACTRON GROUP WAM1702 - Panel PC Android 17"
+MACTRON GROUP WAM1700 - Panel PC Windows 17"
+0,00 €*
+MACTRON GROUP WAM1202 - Panel PC Android 12"
+0,00 €*
+MACTRON GROUP WAM1162 - Panel PC Android 11.6"
+0,00 €*
 Je découvre
 Colonne 1
 Pionnier depuis plus de 24 ans , SPHINX France offre des solutions innovantes en cybersécurité OT , IA et IoT pour connecter et optimiser les ressources industrielles dans des secteurs clés comme l’énergie, le transport et l’industrie 4.0 .

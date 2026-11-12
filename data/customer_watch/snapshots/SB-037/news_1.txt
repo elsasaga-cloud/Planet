@@ -1,4 +1,4 @@
-# SB-037 pulsar.kz · news_1 · https://pulsar.kz/company/news/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-037 pulsar.kz · news_1 · https://pulsar.kz/company/news/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 NN
 Новости | Pulsar Systems
 Главная
@@ -303,6 +303,7 @@ MikroTik
 Сетевое оборудование
 Сетевые коммутаторы без POE
 Точка доступа
+No brand
 ONV
 Сетевое оборудование
 Сетевые коммутаторы c POE
@@ -694,6 +695,7 @@ MikroTik
 Сетевое оборудование
 Сетевые коммутаторы без POE
 Точка доступа
+No brand
 ONV
 Сетевое оборудование
 Сетевые коммутаторы c POE
@@ -780,5 +782,4 @@ PoE-удлинитель
 Точка доступа
 Transcend
 Видеонаблюдение
-Видеорегистраторы
-Сет
+Вид

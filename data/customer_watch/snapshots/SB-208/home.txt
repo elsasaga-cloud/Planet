@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-12T09:57:55Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,50 +66,38 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-APC RBC4 akku
-APC Replacement Battery Cartridge #4
-UPS akku Lyijyhappo malleihin P/N: BE750BB, BE750BB-CN, BE800-IND, BK600EC, BK650I, BK650MC, BK650MI, BK650X06, BP650IPNP, BP650PNP, BP650S, BP650SC, BP650SI, BP650SX107, SC620, SC620I, SC620X565, SU620I, SU620INET, SU620NET, SUVS420, SUVS650...
-135,00 €
-Ergonominen monitoritaso 420–520 mm, 2x USB 3.0, 1x USB-C liitännöillä
-Ergonominen monitoritaso 420–520 mm, 2x USB...
-49,90 €
+Delock M12 8-pin A-coded naaras - 2 x USB-A naaras PVC 5m
+Tätä Delockin M12–USB 2.0 -kaapelia voidaan käyttää teollisiin sovelluksiin, esim. antureille...
+64,00 €
+Tarranauhanippuside lenkillä ja merkintäkilvellä P 305 x L 25 mm musta, 5 kpl
+Nämä Delockin tarranauhakiinnikkeet sopivat...
+10,80 €
+Sähköjatkojohto 6 pistokeliitäntää, erilliset virtakatkaisijat, valkoinen
+LogiLinkin jatkojohto LPS250 mahdollistaa molempien...
+18,70 €
 Saatavilla 1 kpl
-3,5mm:n kierrekaapeli 3-pin stereo uros-uros ruuvisovittimella 6,35mm 3 m
-Tätä stereokaapelia voidaan käyttää erilaisten äänilaitteiden...
-12,80 €
+Delock PWM 4-pin tuuletin jatkokaapeli 20cm
+PWM 4-pin tuulettimen jatkokaapeli.
+Pituus 20 cm.
+4,00 €
+Saatavilla 4 kpl
+USB-C 240 W GaN-laturi, 4x USB-C PD 3.1, 240 W
+Lataa jopa neljää USB-C-laitetta samanaikaisesti – kannettavaa tietokonetta, tablettia, älypuhelinta, pelikonsolia...
+99,00 €
+Erittäin ohut pöydän alle kiinnitettävä säilytyslaatikko, leveys 420 mm, musta
+Tämän pöydän alle asennettavan säilytyslaatikon...
+34,90 €
+Saatavilla 8 kpl
+Bluetooth 5.3 audiovastaanotin ajoneuvoihin, 1x USB-A, 1x 3,5 mm Aux
+Audiovastaanotin langattomaan äänentoistoon ajoneuvon viihdejärjestelmän...
+15,90 €
 Saatavilla 2 kpl
-Delock DC 5,5 x 2,5 mm naaras bulkhead juotosversio - pyöreä 20 V / 15 A
-Tämä Delockin DC naaras bulkhead voidaan asentaa...
-18,00 €
--30 %
-ROLINE USB Type C - 2x 3.5mm naaras audio adapteri, 0.13 m
-Kuulokkeeelle ja mikrofonille joissa on 3,5mm liitäntä
-liitetään laitteen...
-6,90 €
-norm.
-9,90 €
-alennus
-30 %
-säästö
-3,00 €
-Saatavilla 7 kpl
-Delock RP-SMA plug > RP-TNC jack
-RP-SMA - RP-TNC liitin adapteri. • RP-SMA plug
-• RP-TNC jack
-• Pituus: 27...
-6,90 €
-Kallistettava jalkatuki, 300x380 mm, kallistus 20°/+20°, liukumaton kumipinnoite
-Ergonominen jalkatuki parantaa istuma-asentoa ja...
-32,90 €
-Saatavilla 1 kpl
-Plugiliitin 6.35 mm (3-pin) stereo
-6.35 mm (3-pin) stereo plugiliitin
-Jakkipistoke juottamiseen, kaapelin asennukseen...
-1,80 €
-Saatavilla 10 kpl
-Herma tarra-arkki 52,5x21,2 mm (5600 kpl)
-Tarra-arkki 56 tarraa per A4 tarra-arkki. Paketissa 100 arkkia. Itsekiinnittyvät tarrat A4-arkeille, pysyvä tarttuvuus. Täydellinen...
-28,90 €
+Epson Premium Semi-Gloss Photo Paper - 10x15cm - 50 arkkia
+Premium Semi-Gloss Photo Paper 251 g/m² - 10x15cm - 50 arkkia Premium Semigloss -valokuvapaperille 251g tulostetut...
+14,00 €
+Uusiotietokone TEQCYCLE DELL Latitude 5520 I5-1135G7/15.6FHD/16GB/256SSD/W11P/2Y
+Teqcycle Dell Latutide 5520 on Premium laatutason...
+550,00 €
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

@@ -1,4 +1,5 @@
-# SC-1715 onsite.pk · feed_auto · https://www.onsite.pk/index.php/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-1715 onsite.pk · feed_auto · https://www.onsite.pk/index.php/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+Wed, 11 Nov 2026 13:06:50 +0000	Moxa 8-port RS-232/422/485 Rackmount Serial device NPort 5650-8	https://www.onsite.pk/index.php/moxa-8-port-rs-232-422-485-rackmount-serial-device-servers-nport-5650-8/
 Mon, 09 Nov 2026 13:16:06 +0000	Radmin 3 Volume License Package	https://www.onsite.pk/index.php/radmin-3-volume-license-package/
 Mon, 09 Nov 2026 13:14:25 +0000	Radmin 3 150-License Package	https://www.onsite.pk/index.php/radmin-3-150-license-package/
 Mon, 09 Nov 2026 13:04:08 +0000	Radmin 3 100-License Package	https://www.onsite.pk/index.php/radmin-3-100-license-package/
@@ -8,4 +9,3 @@ Tue, 22 Sep 2026 07:11:41 +0000	ZKTeco BioTime (On-Premise) Web-Based Centralize
 Mon, 07 Sep 2026 13:07:35 +0000	Global System Win 11 Pro Activation Key Genuine Digital License Instant Delivery Lifetime	https://www.onsite.pk/index.php/global-system-win-11-pro-activation-key-genuine-digital-license-instant-delivery-lifetime/
 Wed, 12 Aug 2026 15:19:18 +0000	Polycom Video Conference RealPresence Group 500 With 720P or 1080P	https://www.onsite.pk/index.php/polycom-video-conference-realpresence-group-500-with-720p-or-1080p/
 Sun, 28 Jun 2026 12:17:49 +0000	Hikvision Pro Face Access Terminal Model DS-K1T671MF	https://www.onsite.pk/index.php/hikvision-pro-face-access-terminal-model-ds-k1t671mf/
-Sun, 28 Jun 2026 11:59:11 +0000	Internet Download Manager (IDM) 1-Year License	https://www.onsite.pk/index.php/internet-download-manager-idm-1-year-license/

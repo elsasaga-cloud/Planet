@@ -1,4 +1,4 @@
-# SB-1001 altelix.com · home · https://altelix.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-1001 altelix.com · home · https://altelix.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Altelix
 Toggle menu
 Welcome to Altelix!
@@ -39,11 +39,13 @@ All Weatherproof NEMA Enclosures by Size
 15x10x5 Enclosures
 16x12x8 Enclosures
 16x16x8 Enclosures
+16x20x9 Enclosures
 16x20x12 Enclosures
 17x14x6 Enclosures
 17x14x7 Enclosures
 17x14x9 Enclosures
 20x16x8 Enclosures
+20x16x9 Enclosures
 20x16x12 Enclosures
 24x16x9 Enclosures
 24x16x12 Enclosures

@@ -1,4 +1,4 @@
-# SB-600 t1nexus.com · feed_auto · https://t1nexus.com/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-600 t1nexus.com · feed_auto · https://t1nexus.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Wed, 15 Jul 2026 21:39:59 +0000	Lightweight BiDi Fiber Optic Links with SGMII & Smart Spool Management	https://t1nexus.com/lightweight-bidi-fiber-optic/
 Mon, 22 Dec 2025 19:34:55 +0000	Navigating the Bottleneck: Supply-Chain Constraints in the 1.6T Networking Era	https://t1nexus.com/navigating-the-bottleneck-supply-chain-constraints-in-the-1-6t-networking-era/
 Thu, 06 Nov 2025 23:01:58 +0000	Liquid Cooling: Myth vs Reality in AI Data Centers	https://t1nexus.com/liquid-cooling-myth-vs-reality-in-ai-data-centers/

@@ -1,4 +1,4 @@
-# SC-371 Visiotech · news_2 · https://www.visiotechsecurity.com/en/latest-updates · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-371 Visiotech · news_2 · https://www.visiotechsecurity.com/en/latest-updates · fetched 2026-11-12T09:57:55Z · HTTP 200
 404
 Visiotech | Mayorista CCTV y Seguridad
 Productos CCTV IP
@@ -47,6 +47,7 @@ it
 Favoritos
 Acceder
 Nuevo Cliente
+Cambiar a vista cliente
 Toggle navigation
 Visiotech | Mayorista CCTV y Seguridad
 Productos
@@ -242,11 +243,6 @@ Comprobadores de detectores
 Autónomos Anka
 Ajax
 X-Sense
-Kilsen Centrales
-Detectores
-Sirenas
-Módulos
-Axendis
 ZKTeco Controladoras
 Lectores
 Autónomos
@@ -325,7 +321,6 @@ ZKTeco Terminales
 Software
 Accesorios
 Anviz Terminales
-Accesorios
 Safire Terminales
 X-Security Terminales
 EasyClocking Terminales
@@ -587,6 +582,8 @@ Noticias
 Conoce las últimas novedades en tecnologías, productos y ferias del sector
 Preparación de Proyectos
 Descubre nuestro servicio de planificación y desarrollo de proyectos
+Vista de cliente como:
+Salir de la vista cliente
 Detalles
 Publicado: 26 Mayo 2016
 ¿Aún no estás usando la App de Visiotech?

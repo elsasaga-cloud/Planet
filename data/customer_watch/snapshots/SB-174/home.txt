@@ -1,285 +1,214 @@
-# SB-174 karerguvenlik.com · home · https://karerguvenlik.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
-Karer Güvenlik Sistemleri
-Alışveriş Sepetim ×
-Sepetinizde ürün yok
-Alışverişe Devam Et
-Arama
-0 Bayi Girişi Bayilik Oluştur
-Ürünler Kapı Kilitleri Kapı Kilitleri - Tümü
-Güç Kaynağı
-Anahtarlık
-Teknik Servis Ekipman
-Kartlı Sistemler
-Görüntülü Zil
-AHD Kameralar AHD Kameralar - Tümü
-Bullet Kasa Bullet Kasa - Tümü
-IRLED 2 Megapiksel
-IRLED 5 Megapiksel
-WARMLED 2 Megapiksel
-WARMLED 5 Megapiksel
-Panoramik Kasa Panoramik Kasa - Tümü
-WARMLED 5 Megapiksel
-Dome Kasa Dome Kasa - Tümü
-IRLED 2 Megapiksel
-IRLED 5 Megapiksel
-WARMLED 2 Megapiksel
-WARMLED 5 Megapiksel
+# SB-174 karerguvenlik.com · home · https://karerguvenlik.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+Karer Güvenlik Sistemleri | Güvenlik Kamerası Toptan Bayi
+Bayi
+Girişi
+Bayilik
+Oluştur
+0
+Sepet
+Ana Sayfa
+Ürünler
+AHD Kameralar
+Bullet Kasa
+Panoramik Kasa
+Dome Kasa
 Araç Kameraları
-DVR & NVR PARÇALARI DVR & NVR PARÇALARI - Tümü
-DVR KASALARI DVR KASALARI - Tümü
-4 KANAL 5 MP DVR KASA
-8 KANAL DVR KASA
-16 KANAL DVR KASA
-4 KANAL 2MP DVR KASA
-32 KANAL DVR KASA
-DVR BORDLARI DVR BORDLARI - Tümü
-4 KANAL DVR BORDLAR
-8 KANAL DVR BORDU
-16 KANAL DVR BORDU
-DVR Kabloları
-DVR BOŞ KASA DVR BOŞ KASA - Tümü
-8 Kanal Boş DVR Kasa
-4 Kanal Boş DVR Kasa
-16 kanal boş DVR kasa
-MOUSE
-Piller
-DVR Boardlar
-DVR ETİKET LOGO XMYE - KARER
-NVR BOARDLARI
-DVR BOARDLARI DVR BOARDLARI - Tümü
-16 KANAL DVR BORDU
-8 KANAL DVR BORDU
-4 KANAL DVR BORDLAR
-HİZMETLER
-Santral Sistemleri
-UPS Güç Kaynağı
-Santral
-ARÇELİK
-Laptop Parçaları Laptop Parçaları - Tümü
-EKRANLAR
-Entegrasyon
-IP Kameralar IP Kameralar - Tümü
-Bullet Kasa Bullet Kasa - Tümü
-IRLED 2 Megapiksel
-IRLED 3 Megapiksel
-IRLED 4 Megapiksel
-WARMLED 5 Megapiksel
-IRLED 8 Megapiksel
-WARMLED 4 Megapiksel
-IRLED 5 Megapiksel
-WARMLED 8 Megapiksel
-Panaromik Kasa Panaromik Kasa - Tümü
-WARMLED 5 Megapiksel
-Dome Kasa Dome Kasa - Tümü
-IRLED 3 Megapiksel
-IRLED 5 Megapiksel
-WARMLED 5 Megapiksel
-IRLED 2 Megapiksel
-IRLED 4 Megapiksel
-WARMLED 8 Megapiksel
-WARMLED 4 Megapiksel
+IP Kameralar
+Bullet Kasa
+Panoramik Kasa
+Dome Kasa
 SpeedDome
 Bebek Kameraları
-Kayıt Cihazları Kayıt Cihazları - Tümü
-DVR Kayıt Cihazları DVR Kayıt Cihazları - Tümü
-4 Kanal
-8 Kanal
-16 Kanal
-32 Kanal
-NVR Kayıt Cihazları NVR Kayıt Cihazları - Tümü
-4 Kanal
-64 Kanal
-8 Kanal
-10 Kanal
-16 Kanal
-32 Kanal
-SpeedDome
-Network Ekipmanları Network Ekipmanları - Tümü
-Switchler Switchler - Tümü
-4 Port
-8 Port
-16 Port
-24 Port
-Access Pointler Access Pointler - Tümü
-İç Mekan
-Dış Mekan
+Kayıt Cihazları
+DVR Kayıt Cihazları
+NVR Kayıt Cihazları
+DVR & NVR Parçaları
+DVR Kasaları
+DVR Bordları
+NVR Boardları
+DVR Kabloları
+DVR Boş Kasa
+Mouse
+Piller
+Network Ekipmanları
+Switchler
+Access Pointler
 Extenderlar
-Depolama Alanları Depolama Alanları - Tümü
-HDD HDD - Tümü
-250 GB
-3 TB
-12 TB
-6 TB
-320 GB
-500 GB
-750 GB
-1 TB
-2 TB
-4 TB
-8 TB
-10 TB
-SD Kart SD Kart - Tümü
-64GB
-128GB
-Adaptörler Adaptörler - Tümü
+Depolama Alanları
+HDD
+SD Kart
+Adaptörler
 Metal Kasa
-Plastik Kasa Plastik Kasa - Tümü
-1,5 AMPER
-3,33 AMPER
-2 AMPER
-1 AMPER
-Bağlantı Ekipmanları Bağlantı Ekipmanları - Tümü
-Kablolar Kablolar - Tümü
-CCTV Kabloları
-Elektrik Kabloları
-Görüntü Kabloları
-Ethernet Kabloları
-BNC Kablolar
-Ses Kabloları
+Plastik Kasa
+Bağlantı Ekipmanları
+Kablolar
 Çoklayıcılar
-Sarf Malzemeleri Sarf Malzemeleri - Tümü
+Sarf Malzemeleri
 Dönüştürücüler
 Konnektörler
 Kamera Ayakları
-Buat
 Buatlar
-Alarm Sistemleri Alarm Sistemleri - Tümü
-Hırsız Alarm Sistemleri Hırsız Alarm Sistemleri - Tümü
-DESI
-HIKVISION
-PYRONIX
-PROSEC
-TEKNIM
-NEUTRON
-Yangın Alarm Sistemleri Yangın Alarm Sistemleri - Tümü
-Kır Bas Butonlar
-Siren
-Duman Dedektörleri
-Geçiş Sistemleri Geçiş Sistemleri - Tümü
-Parmak İzi Okuyuculu Geçiş Sistemi
-Kart Okuyuculu Geçiş Sistemi
-Kartlar
-Setler
-Boardlar Boardlar - Tümü
-Hırsız Alarm Boardu
-Geçiş Sistemleri Geçiş Sistemleri - Tümü
+Alarm Sistemleri
+Hırsız Alarm Sistemleri
+Yangın Alarm Sistemleri
+Geçiş Sistemleri
 Parmak İzi Okuyuculu Sistemler
 Kart Okuyuculu Sistemler
 Kartlar
-Setler
-Monitorler Monitorler - Tümü
-7 INCH
-TEST MONİTÖRÜ
-18.5 INCH
-20 INCH
-19 INCH
-22 INCH
-23 INCH
-Kabinetler Kabinetler - Tümü
-4U
-özel kabinler
-7U
-9U
-12U
-16U
-22U
+Kapı Kilitleri
+Güç Kaynağı
+Anahtarlık
+Görüntülü Zil
+Monitörler
+18.5 Inch
+19 Inch
+20 Inch
+Kabinetler
 Duvartipi
-Raflar
-Setler Setler - Tümü
-IP Setler IP Setler - Tümü
-2li IP Setleri
-4lü IP Setleri
-6lı IP Setleri
-8li IP Setleri
-10lu IP Setleri
-12li IP Setleri
-14lü IP Setleri
-16lı IP Setleri
-AHD Setler AHD Setler - Tümü
-2li AHD Setleri
-4lü AHD Setleri
-6lı AHD Setleri
-8li AHD Setleri
-10lu AHD Setleri
-12li AHD Setleri
-14lü AHD Setleri
-16lı AHD Setleri
-Kamera Parçaları Kamera Parçaları - Tümü
-Ledler Ledler - Tümü
-WARMLED
-IRLED
-Kamera Kasaları Kamera Kasaları - Tümü
-Bullet Kasa
-Dome Kasa Parçaları
-Siyah Dome Kasa Parçaları
+Setler
+IP Setler
+AHD Setler
+Kamera Parçaları
+Ledler
+Kamera Kasaları
 Kamera Kutusu
-Vidalar Vidalar - Tümü
-Pirinç Spacer
-Metrik Vida
-PA Vida
-nem onleyıc
+Vidalar
+AHD Kablo
+IP Kablo
+UPS Güç Kaynağı
+Santral Sistemleri
+Teknik Servis Ekipman
+Adaptörler 1
+Metal
 Biz Kimiz?
 Hesap Bilgileri
-Destek Teknik Videolar
-Hard Disk Hesap Makinesi
-Yazılımlar
-Online Ödeme
+Destek
 İletişim
-Sipariş Takibi
-ÖNE ÇIKAN ÜRÜNLER
-Sepete Ekle
-KR-B121-4R-36F2963 KARER Stok Kodu: SP01653 Stok Miktarı: Son 1 ADET
-Web Özel Fiyatı
-$40,00 (2.016,00 TL) +KDV
-- + ADET
-Sepete Ekle
-KR-B151-4W6-36F2263 KARER Stok Kodu: SP01752 Stok Miktarı: 8 ADET
-Web Özel Fiyatı
-$45,00 (2.268,00 TL) +KDV
-- + ADET
-Sepete Ekle
-KR-IPC D151-4W-28F7453 KARER Stok Kodu: SP01646 Stok Miktarı: Son 1 ADET
-Web Özel Fiyatı
-$60,00 (3.024,00 TL) +KDV
-- + ADET
-Sepete Ekle
-KR-D121-4W-28F2963 KARER Stok Kodu: SP01643 Stok Miktarı: Son 3 ADET
-Web Özel Fiyatı
-$35,00 (1.764,00 TL) +KDV
-- + ADET
-Sepete Ekle
-2+1 0.50 CCTV KABLO 100m KARER Stok Kodu: CCTV50KESİT Stok Miktarı: 796 ADET
-Web Özel Fiyatı
-$52,00 (2.620,80 TL) +KDV
-- + ADET
-Sepete Ekle
-KAR BEYAZ BUAT (KAPAKSIZ) KARER Stok Kodu: SP00724 Stok Miktarı: 1000+ ADET
-Web Özel Fiyatı
-$1,20 (60,48 TL) +KDV
-- + ADET
-Sepete Ekle
-BEYAZ KABLOLU BNC KONNEKTÖR KARER Stok Kodu: SP00388 Stok Miktarı: 1000+ ADET
-Web Özel Fiyatı
-$1,40 (70,56 TL) +KDV
-- + ADET
-Sepete Ekle
-POWERJACK KARER Stok Kodu: PWRJACK Stok Miktarı: 1000+ ADET
-Web Özel Fiyatı
-$1,00 (50,40 TL) +KDV
-- + ADET
-Sepete Ekle
-$
-Alış
-50,4
-Satış
-50,4
-€
-Alış
-55
-Satış
-55
-E-BÜLTEN Yeni ve indirimli ürünlerden haberdar olun !
-Abone Ol
+Aynı gün kargo Saat 'e kadar verilen siparişler
+2 yıl garanti Tüm Karer ürünlerinde
+Bayiye özel fiyat Dolar bazlı toptan fiyat listesi
+Teknik destek Kurulum ve ürün desteği
+Kategoriler Ne arıyorsunuz?
+Tüm ürünler →
+IP Kameralar
+46 ürün
+AHD Kameralar
+25 ürün
+Kayıt Cihazları
+19 ürün
+Bağlantı Ekipmanları
+15 ürün
+Depolama Alanları
+9 ürün
+Adaptörler
+8 ürün
+Monitörler
+7 ürün
+Alarm Sistemleri
+6 ürün
+Vitrin Öne Çıkan Ürünler
+Tümünü gör →
+1000+ ADET
+KARER
+KAR BEYAZ BUAT (KAPAKSIZ)
+SP00724
+Web özel fiyatı
+$0,30 +KDV
+15,13 TL
+Son 1 ADET
+KARER
+KR-B121-4R-36F2963
+SP01653
+Web özel fiyatı
+$11,00 +KDV
+554,73 TL
+8 ADET
+KARER
+KR-B151-4W6-36F2263
+SP01752
+Web özel fiyatı
+$15,00 +KDV
+756,45 TL
+803 ADET
+KARER
+2+1 0.50 CCTV KABLO 100m
+CCTV50KESİT
+Web özel fiyatı
+$14,00 +KDV
+706,02 TL
+1000+ ADET
+KARER
+BEYAZ KABLOLU BNC KONNEKTÖR
+SP00388
+Web özel fiyatı
+$0,35 +KDV
+17,65 TL
+1000+ ADET
+KARER
+POWERJACK
+PWRJACK
+Web özel fiyatı
+$0,25 +KDV
+12,61 TL
+Stokta yok
+KARER
+KR-D121-4W-28F2963
+SP01643
+Web özel fiyatı
+$11,00 +KDV
+554,73 TL
+Bayilik
+Karer bayisi olun, toptan fiyatlarla çalışın
+Bayilere özel dolar fiyatları, anlık stok bilgisi, 7/24 online sipariş ve cari ekstre takibi tek ekranda.
+Bayilik Başvurusu
+Bayi Girişi
+Yeni gelenler Yeni Ürünler
+Tümünü gör →
+Son 2 ADET
+Diğer
+KR-IPC B151-6W5-36F9508
+SP02301
+Fiyat için arayınız
+62 ADET
+Diğer
+KR-IPC B281-4D-36F7553
+SP02279
+Fiyat için arayınız
+184 ADET
+Diğer
+KR-B121-6W3-36F2831
+SP02281
+Fiyat için arayınız
+64 ADET
+Diğer
+KR-B121-4W6-36F2831
+SP02273
+Fiyat için arayınız
+614 ADET
+Diğer
+UTP CAT6 KABLO 305MT OUTDOOR 23AWG
+SP02264
+Web özel fiyatı
+$40,00 +KDV
+2.017,20 TL
+19 ADET
+Diğer
+OKAM OK-104EKOW WİFİ MİNİ BATARYALI BALIK GÖZÜ LENS
+SP02247
+Fiyat için arayınız
+26 ADET
+Diğer
+OKAM OK-103EKOW EİFİ MİNİ BATARYALI BALIK GÖZÜ LENS
+SP02246
+Fiyat için arayınız
+191 ADET
+Diğer
+O-KAM OK-241PREMİUMW 4 LENS WİFİ PTZ KAMERA
+SP02244
+Fiyat için arayınız
+E-BÜLTEN
+YENİ VE İNDİRİMLİ ÜRÜNLERDEN HABERDAR OLUN !
+ABONE OL
 ALIŞVERİŞ
 K.V.K. Kanunu
 Gizlilik Sözleşmesi
@@ -295,32 +224,11 @@ Telefonla Sipariş
 Hakkımızda
 İletişim
 ADRES Yayalar Mahallesi Atasever Caddesi No 44 Pendik İstanbul
-TELEFON 02163973388 0552 294 72 40
+TELEFON 0216 397 33 88
+0552 294 72 40
 E-MAIL info@karerguvenlik.com
-Copyright 2026 karerguvenlik.com - Tüm hakları saklıdır. Kredi kartı bilgileriniz 256bit SSL sertifikası ile korunmaktadır.
-Facebook Twitter Linkedin Instagram Youtube
-Bu site AKINSOFT E-Ticaret ile hazırlanmıştır.
-Telefonla Sipariş ×
-Ad
-Soyad
-Telefon
-Sizi hangi saatte arayalım ?
-Ürün Adı / Stok Kodu
-E-Mail
-Mesajınız
-Sipariş Kaydet
-Sipariş Takibi ×
-E-Posta Adresi
-Sipariş Numarası
-Sorgula
-Lütfen Bekleyiniz
-Lütfen sorgulamak istediginiz siparişe ait kayıtlı mail adresinizi ve sipariş numaranızı giriniz.
-Ad Soyad
-E-Posta Adresi
-Sipariş Tarihi
-Ödeme Şekli
-Sipariş Durumu
-Kargo Tarihi
-Teslim Tarihi
-Genel Toplam
-İnternet sitemizde çerezlerden faydalanılmaktadır. Ayrıntılı bilgi için Kişisel Verilerin Korunması Kanununu, Gizlilik Sözleşmesi ve Çerez Politikamızı inceleyebilirsiniz. Reddet Kabul Et
+$ Alış 50,4300 · Satış 50,4300
+€ Alış 53,0000 · Satış 53,0000
+Copyright 2026 karerguvenlik.com - Tüm hakları saklıdır.
+Tasarım & Yazılım:
+↗

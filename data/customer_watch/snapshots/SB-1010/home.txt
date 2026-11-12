@@ -1,4 +1,4 @@
-# SB-1010 bayiden.com.tr · home · https://www.bayiden.com.tr/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-1010 bayiden.com.tr · home · https://www.bayiden.com.tr/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Bayiden - Teknolojinin Bayisi
 Yapay Zeka ile Ara
 Sohbet ederek hızlı ve kolay ürün ara
@@ -86,7 +86,7 @@ Oto Teyp Double Teyp Ekranlı Oto Teyp Standart Oto Teyp İndash Oto Teyp Tofaş
 Motosiklet Ürünleri Motosiklet Intercom Motosiklet Aksesuarları Motosiklet Akü Motosiklet Intercom
 Kabin Çeşitleri Hoparlör Yükseltme Bass Boş Kabin Hoparlör Midrange Kapakları Tofaş Ceplik Çeşitleri Pandizot Çeşitleri Universal Boş Kabin Hoparlör Kasnak Çeşitleri Tweeter Kabin Çeşitleri
 Uydu Sistemi
-Uydu Alıcısı Wismann Uydu Alıcısı Botech Uydu Alıcısı HD Uydu Alıcılar Magbox Uydu Alıcılar İP Tv Box Plato Uydu Alıcısı Wifi Uydu Alıcısı SD Uydu Alıcılar Uydu Cihaz Aparatları Kasalı Uydu Alıcılar Android Uydu Alıcılar MAG Ip Tv Box HD Uydu Alıcılar
+Uydu Alıcısı Wismann Uydu Alıcısı Botech Uydu Alıcısı 4K Uydu Alıcısı HD Uydu Alıcılar Magbox Uydu Alıcılar İP Tv Box Plato Uydu Alıcısı Wifi Uydu Alıcısı SD Uydu Alıcılar Uydu Cihaz Aparatları Kasalı Uydu Alıcılar Android Uydu Alıcılar MAG Ip Tv Box HD Uydu Alıcılar
 Uydu Santrali Mag Merkezi Uydu Santralleri Kaskatlı Santraller Sonlu Santraller Mersat Merkezi Uydu Santralleri
 Uydu Ekipmanları F Konnektör Lnb Kelepçesi Mini Uydu Alıcı Gözleri Diseqc Switch Anten Kablosu Uydu Yön Bulucu Hazır Anten Kablosu Modülatör Splitter Konnektör Çeşitleri Montaj Elemanları Bağlantı Elemanları Sinyal Güçlendirici 48 Tel Anten Kablosu 64 Tel Anten Kablosu
 Çanak Anten Çanak Antenler Tv Üstü Antenler Teleskopik Anten Çeşitleri
@@ -221,5 +221,4 @@ El Telsizleri
 UHF & VHF & SİM
 Yedek parça, Aksesuar
 Hemen İncele
-Elektrik Aydınlatma
-Sol
+Elektri

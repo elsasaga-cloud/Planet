@@ -1,4 +1,4 @@
-# SB-511 rivershop.co.kr · sitemap · https://rivershop.co.kr/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-511 rivershop.co.kr · sitemap · https://rivershop.co.kr/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 2025-08-22T11:36:30+09:00	https://rivershop.co.kr/
 2025-08-20T15:16:15+09:00	https://rivershop.co.kr/shopinfo/company.html
 2025-08-20T15:16:15+09:00	https://rivershop.co.kr/member/agreement.html

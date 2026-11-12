@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -41,29 +41,29 @@ Szkolenia
 Porównaj ( 0 )
 Kategorie
 Producenci
-Kamery monitoringu Kamery monitoringu (643)
+Kamery monitoringu Kamery monitoringu (645)
 Kamery IP (593) Kopułowe (246)
 Tubowe (174)
 Kompaktowe (7)
 Obrotowe (58)
 Fisheye (12)
 Wszystkie kategorie ›
-Kamery analogowe HD 4w1 (44) Kopułowe (23)
-Tubowe (18)
+Kamery analogowe HD 4w1 (46) Kopułowe (23)
+Tubowe (20)
 Obrotowe (2)
 Kompaktowe (1)
 Puszki i uchwyty (148)
 Obiektywy megapikselowe (6)
-Rejestratory Rejestratory (193)
+Rejestratory Rejestratory (192)
 Rejestratory IP (166) 4-kanałowe (23)
 8-kanałowe (34)
 9-kanałowe (2)
 16-kanałowe (36)
 32-kanałowe (31)
 Wszystkie kategorie ›
-Rejestratory analogowe HD 5w1 (19) 4-kanałowe (4)
+Rejestratory analogowe HD 5w1 (18) 4-kanałowe (4)
 8-kanałowe (3)
-16-kanałowe (11)
+16-kanałowe (10)
 32-kanałowe (1)
 Akcesoria (112) dyski twarde (16)
 przewody (35)
@@ -125,10 +125,10 @@ Licencje BCS Manager
 BCS (75)
 BCS Basic (40)
 BCS Flex (35)
-BCS Line (558)
+BCS Line (557)
 BCS Point (277)
 BCS Ultra (74)
-BCS Universal (116)
+BCS Universal (118)
 BCS View (52)
 EVER (6)
 Seagate (8)
@@ -206,30 +206,30 @@ BCS-L-NVR1602-A-4KE(2) BCS Line rejestrator IP dwudyskowy 16 ...
 Do koszyka
 1 686,70 zł
 pokaż więcej
-BCS-MON7400W-S BCS Line wideomonitor głośnomówiący 7"
+BCS-UPS/IP4/E-S System zasilania buforowego PoE do 4 kamer i ...
+Do koszyka
+1 184,00 zł
+BCS-B-SP1602G-1SFP BCS Basic 16 portowy switch PoE 16xRJ45 2x ...
+879,00 zł
+Do koszyka
+703,56 zł
+BCS-MON7400B-S BCS Line wideomonitor głośnomówiący 7"
 Do koszyka
 1 519,00 zł
-BCS-L-DIP14FSR3-W BCS Line kamera kopułowa IP 4Mpx Wi-Fi
-826,00 zł
+BCS-P-TIP15FSR5-Ai BCS Point kamera tubowa IP z mikrofonem 5Mpx ...
 Do koszyka
-578,59 zł
-BCS-IP8/E-S System zasilania do 9 kamer IP ze switchem PoE w ...
+638,00 zł
+BCS-L-TIP16FCR3L3 BCS Line kamera tubowa IP NightColor 6Mpx LED ...
 Do koszyka
-1 199,00 zł
-BCS-P-NVR1601-4KE-III BCS Point sieciowy rejestrator 16 kanałowy ...
+921,00 zł
+BCS-L-EIP16FCR3L3-AI kamera kopułowa IP 6Mpx NightColor mikrofon ...
 Do koszyka
-626,00 zł
-BCS-P-TIP24FSR4-AI2 BCS Point kamera tubowa IP 4Mpx IR 40M WDR...
+1 014,00 zł
+BCS-P-EIP25FSR3-AI2 BCS Point kamera inteligentna 5Mpx IR 30M ...
 Zobacz warianty
-BCS-P-NVR0801-4K-8P(3) BCS Point rejestrator 8 kanałowy IP 8mpx ...
+Przewód NETSET BOX UTP 5e skrętka wewnętrzna [305m]
 Do koszyka
-1 597,00 zł
-BCS-P-NVR0401-4K(3) BCS Point rejestrator 4 kanałowy IP 8mpx
-Do koszyka
-822,00 zł
-BCS-L-TIP12FSR3-AI1 BCS Line kamera tubowa IP 2Mpx IR 30M
-Do koszyka
-879,00 zł
+651,00 zł
 BCS-L-EIP14FSR3L3-AI BCS Line kamera kopułowa IP 4Mpx LED 30M ...
 904,00 zł
 Do koszyka

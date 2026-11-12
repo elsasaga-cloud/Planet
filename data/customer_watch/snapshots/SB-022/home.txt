@@ -1,4 +1,4 @@
-# SB-022 Desk Technologies · home · https://desk-sicherheit.de/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-022 Desk Technologies · home · https://desk-sicherheit.de/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 DESK Sicherheit
 Startseite
 Leistungen Sicherheitsdienst
@@ -75,6 +75,9 @@ Wir arbeiten mit den Marktführern der jeweiligen Technologien und messen diese 
 Mehr über uns Referenzen
 Aktuelle Neuigkeiten:
 Alle Entwicklungen auf einen Blick
+12. November 2026
+Rescue Robotics: Gepanzerte UGV mit Bispektralkamera
+Weiter lesen
 31. Oktober 2026
 Brandfrüherkennung an Ladestationen für Busse und E-Autos
 Weiter lesen
@@ -90,9 +93,6 @@ Weiter lesen
 8. Juli 2026
 KI ersetzt keine Sicherheitsmitarbeiter – sie macht sie um ein Vielfaches effektiver
 Weiter lesen
-8. Juni 2026
-Warum DESK Sicherheit bei mobilen Sicherheitstürmen nicht mehr auf Brennstoffzellen setzt
-Energiekoffer-Story lesen
 Alle Neuigkeiten
 Häufig gestellte Fragen
 Wo ist DESK Sicherheit im Einsatz?

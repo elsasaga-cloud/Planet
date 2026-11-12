@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -89,7 +89,7 @@ Cikkszám: K289543TD
 Ár:
 810 Ft + ÁFA
 (1.029 Ft)
-100 db raktáron
+90 db raktáron
 db
 Kosárba
 Részletek
@@ -122,7 +122,7 @@ Cikkszám: K288542-EASY
 Ár:
 110 Ft + ÁFA
 (140 Ft)
-950 db raktáron
+750 db raktáron
 db
 Kosárba
 Részletek
@@ -144,7 +144,7 @@ Cikkszám: DGYÜZMF
 Ár:
 1.990 Ft + ÁFA
 (2.527 Ft)
-2 db raktáron
+1 db raktáron
 db
 Kosárba
 Részletek
@@ -155,7 +155,7 @@ Cikkszám: TO-TÁL10F
 Ár:
 2.500 Ft + ÁFA
 (3.175 Ft)
-39 db raktáron
+38 db raktáron
 db
 Kosárba
 Részletek
@@ -227,7 +227,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-27885 m raktáron
+27385 m raktáron
 m
 Kosárba
 Részletek
@@ -267,7 +267,7 @@ Cikkszám: K1142050FÖLD
 Ár:
 175 Ft + ÁFA
 (222 Ft)
-Előrendelhető
+1509 m raktáron
 m
 Kosárba
 Részletek
@@ -297,7 +297,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1709 db raktáron
+1356 db raktáron
 db
 Kosárba
 Részletek
@@ -340,7 +340,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-27885 m raktáron
+27385 m raktáron
 m
 Kosárba
 Részletek
@@ -350,7 +350,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1709 db raktáron
+1356 db raktáron
 db
 Kosárba
 Részletek
@@ -417,4 +417,4 @@ Milyen feltételekkel küldhetem vissza a terméket?
 A vásárlástól számított 14 napon belül lehetőség van elállásra a vonatkozó jogszabályoknak megfelelően.
 6. Műszaki támogatás
 Segít a LAN Kft. a termékek beüzemelésében?
-​Ige
+​Ig

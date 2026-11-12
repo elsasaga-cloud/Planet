@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-11T09:37:04Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-12T09:57:55Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -183,6 +183,7 @@ Honeywell Security
 Inim
 Inim Certified
 Orisec
+Paradox
 RISCO
 Extensions
 acre
@@ -485,6 +486,7 @@ Software and Cloud Licenses
 acre
 Ajax
 Akuvox
+Alpha
 ASSA ABLOY
 Axis Communications
 Bosch Fire
@@ -509,6 +511,7 @@ Netgear
 Network Optix
 Paxton
 Raytec
+Razberi
 Recogtech
 RISCO
 Rosslare
@@ -775,6 +778,7 @@ ASSA ABLOY
 Eden Innovations
 IZYX SYSTEMS
 Paxton
+Uhlmann & Zacher
 Door Locks & Accessories
 ASSA ABLOY
 Bysecur
@@ -824,6 +828,7 @@ HID
 Hikvision
 IZYX SYSTEMS
 Nedap
+Optex
 Orisec
 Paxton
 Recogtech
@@ -832,6 +837,7 @@ SEWOSY
 Snelpas
 STid
 Tedee
+Uhlmann & Zacher
 Vauban Systems
 Fire
 Brands
@@ -1095,6 +1101,7 @@ STid
 Tecnovideo
 Veracity
 Connectors & couplings
+Alpha
 Aten
 Axis Communications
 Bysecur
@@ -1127,6 +1134,7 @@ Dahua
 Digitus
 elbaC - Alpha
 GJD
+Hikvision
 IZYX SYSTEMS
 Pulsar
 SeeEyes
@@ -1199,13 +1207,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Dahua Basic Training & Hands-on
-11 November
-@ SmartSD Breda (NL)
-20 November
-@ SmartSD Merchtem (BE)
-10 December
-@ SmartSD Saint-herblain (FR)
 Ajax EN54 Hands-On Training
 12 November
 @ SmartSD Breda (NL)
@@ -1262,6 +1263,13 @@ Basic Networking Knowledge
 @ SmartSD Merchtem (BE)
 28 January
 @ SmartSD Merchtem (BE)
+Dahua Basic Training & Hands-on
+20 November
+@ SmartSD Merchtem (BE)
+3 December
+@ SmartSD Breda (NL)
+10 December
+@ SmartSD Saint-herblain (FR)
 Akuvox Intercom Basics
 23 November
 @ SmartSD Merchtem (BE)
@@ -1269,6 +1277,10 @@ Akuvox Intercom Basics
 @ SmartSD Lisses (FR)
 3 December
 @ SmartSD Portet-sur-garonne (FR)
+13 January
+@ SmartSD Breda (NL)
+1 February
+@ SmartSD Merchtem (BE)
 Bandit Fog Generators
 24 November
 @ SmartSD Merchtem (BE)

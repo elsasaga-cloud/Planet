@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Grandstream GRP2600 Lite: cinco teléfonos IP esenciales para despliegues profesionales
+12 de noviembre de 2026
+Conoce
+Grandstream presenta cinco nuevos teléfonos IP GRP2600 Lite con aprovisionamiento zero-touch, GDMS y funciones para telefonía profesional. Descubre los modelos en vídeo.
+Read More
 Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
 11 de noviembre de 2026
 Formación
@@ -67,11 +72,6 @@ NETGEAR serie M4350: conectividad de hasta 100G y PoE++ en una sola plataforma
 20 de octubre de 2026
 Conoce
 La serie NETGEAR M4350 reúne PoE/PoE++ hasta 3314 W, conectividad multigigabit de 1G a 100G, apilado virtual VSF y perfiles AVoIP en switches gestionables para redes AV y empresariales exigentes.
-Read More
-Grandstream GWN7673: Wi-Fi 7 de doble banda para redes con alta densidad de dispositivos
-20 de octubre de 2026
-Conoce
-El GWN7673 combina Wi-Fi 7 BE5000 de doble banda, enlace de 2,5 GbE y opciones de montaje flexibles para proyectos profesionales con muchos dispositivos conectados.
 Read More
 Paginación de entradas
 1
@@ -624,4 +624,4 @@ comprar RF elements
 comprar ubiquiti
 comprar unifi
 compras +1500 €
-compresión de ví
+compresión 

@@ -1,6 +1,6 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 	https://market-telecom.kz/
-2026-11-10	https://market-telecom.kz/blog
+2026-11-12	https://market-telecom.kz/blog
 2026-11-09	https://market-telecom.kz/services
 2026-11-09	https://market-telecom.kz/products
 2026-11-09	https://market-telecom.kz/about_shop
@@ -57,7 +57,7 @@
 2026-11-09	https://market-telecom.kz/wi-fi-network
 2026-11-09	https://market-telecom.kz/skud
 2026-11-09	https://market-telecom.kz/domophon
-2026-11-09	https://market-telecom.kz/turniket-install
+2026-11-12	https://market-telecom.kz/turniket-install
 2026-11-09	https://market-telecom.kz/callfree-8800
 2026-11-09	https://market-telecom.kz/radio
 2026-11-09	https://market-telecom.kz/smarthome
@@ -130,7 +130,7 @@
 2026-01-06	https://market-telecom.kz/blog/correct-optic
 2025-12-30	https://market-telecom.kz/blog/poe-office
 2026-10-21	https://market-telecom.kz/blog/industial-switch-choose
-2026-11-09	https://market-telecom.kz/blog/complex-equipment
+2026-11-12	https://market-telecom.kz/blog/complex-equipment
 2025-12-22	https://market-telecom.kz/blog/jabra-callcenter
 2025-12-19	https://market-telecom.kz/blog/correct-ups-video
 2026-10-20	https://market-telecom.kz/blog/over100m

@@ -1,4 +1,4 @@
-# SB-465 Koza · home · https://kozaguvenlik.com.tr/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-465 Koza · home · https://kozaguvenlik.com.tr/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Koza Güvenlik, IP Kamera, AHD Kamera, Teletek Alarm, Akıllı Ev Sistemleri
 Daha Fazla
 Bayi Girişi / Bayi Başvurusu
@@ -297,9 +297,9 @@ Teletek Eclipse PGM 8 PS ..
 Teletek Eclipse PR IT Tem..
 Teletek Eclipse PR Temass..
 Yangın İhbar
+Söndürme Sistemleri
+Beam Dedektör
 Adresli Sistem
-Konvansiyonel Sistem
-Yangın Acil Çıkış Levhaları..
 Tümünü Göster
 Yangın Alarm Sisteml..
 Teletek IRIS PRO 1Looplu Adresli Yangın İhbar Pane..

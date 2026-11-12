@@ -1,4 +1,6 @@
-# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-11-12T07:45:22+00:00	Grandstream GRP2600 Lite: teléfonos IP esenciales | Instant Byte	https://www.youtube.com/watch?v=gzusSmRngik
+2026-11-11T17:00:04+00:00	Webinar Grandstream: Megafonía IP con UCM y GSC35XX | 20 de noviembre #Shorts	https://www.youtube.com/shorts/Ld_Tao2YzXc
 2026-11-10T08:00:36+00:00	CLAIRÉ + hAP be³ Media: automatización local con Home Assistant | MikroTik en español	https://www.youtube.com/watch?v=LKj4fQILZDg
 2026-11-09T17:00:26+00:00	Megafonía IP Grandstream: cada mensaje, en el lugar adecuado #Shorts	https://www.youtube.com/shorts/oy7wubuqf60
 2026-10-28T17:00:18+00:00	Videoporteros IP Grandstream | Control de accesos profesional #Shorts	https://www.youtube.com/shorts/hydlxkMN6Iw
@@ -12,5 +14,3 @@
 2026-09-07T16:56:20+00:00	SolidRACK 5 Mini de MikroTik: rack compacto de 10 pulgadas y 5U #Shorts	https://www.youtube.com/shorts/_FEQJjuOo9s
 2026-08-23T18:53:05+00:00	Semáforos inteligentes con IA en 79 cruces | Caso de éxito Dahua en Atyrau (Kazajistán)	https://www.youtube.com/watch?v=CqWY5A7g_tk
 2026-08-22T23:53:39+00:00	Grandstream GSC3560 y GSC3565: intercomunicadores IP inteligentes para exterior	https://www.youtube.com/watch?v=kqX_gCdaMRE
-2026-08-22T18:23:54+00:00	LAMP 5G R16 de MikroTik | 5G exterior omnidireccional con eSIM, PoE y RouterOS	https://www.youtube.com/watch?v=NlBemih1FBE
-2026-08-20T17:17:53+00:00	Certificación Ubiquiti All in One | 23, 24 y 25 de septiembre #Shorts	https://www.youtube.com/shorts/mSHrat9-zL4

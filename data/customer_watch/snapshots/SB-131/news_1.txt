@@ -1,4 +1,4 @@
-# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Blog | Desecure Technology
 İçeriğe geç 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
 444 76 49
@@ -7,14 +7,15 @@ Video Gözetim ve Akıllı Kamera Her saha için doğru kamera, doğru senaryo
 Çevre Güvenliği 3D LiDAR, entegre radar ve termal kamera
 Yangın Algılama ve Erken Uyarı Sıcaklık artışını alev oluşmadan görmek
 IoT ve Entegrasyon Sensörler, BESS ve çok lokasyon
+Giriş Kontrol Sistemleri Gate Defence ve Access Control
 Tüm çözümler ->
 Hizmetler Alarm İzleme Merkezi 7/24 · 5188 7/24 doğrulama, müdahale ve raporlama
 Uzaktan Video İzleme Bağlantı, kayıt, VMS ve çok lokasyon altyapısı
 Tüm hizmetler ->
-Proaktif Teknolojiler Mobil Güvenlik Sistemleri MİK, MAS, MİD ve MİA; altyapısız sahalar
-Canlı İletişim Sahayla görüntülü ve çift yönlü sesli iletişim
+Proaktif Teknolojiler Mobil Güvenlik Sistemleri MİK, MAS, MİD, MİA ve MGK; altyapısız sahalar
+Canlı İletişim Desecure Vision, Desecure One ve Desecure MGS
 Tüm proaktif teknolojiler ->
-Sektörler Enerji ve Yenilenebilir SEKTÖREL ODAK RES, GES, BESS ve hibrit santraller
+Sektörler Enerji ve Yenilenebilir RES, GES, BESS ve hibrit santraller
 Üretim ve Fabrika Çevre hattı, giriş kontrol, İSG ve yangın riski
 Sanayi ve OSB Çok tesisli bölgelerde ortak prosedür
 Lojistik ve Depolama Araç giriş çıkışı, yükleme alanı, açık saha
@@ -25,6 +26,7 @@ Tüm sektörler ->
 Kurumsal Hakkımızda Kim olduğumuz, grup yapısı ve operasyon ağı
 Neden Desecure Saha deneyimi, 7/24 izleme ve kurulum sonrası destek
 Yaklaşımımız Olay olmadan önce yöneten proaktif model
+Basında Biz Yayın organlarında çıkan haber ve röportajlar
 İletişim
 Kaynaklar Blog Teknik yazılar ve saha rehberleri
 Sıkça Sorulan Sorular Kaynaklı kısa cevaplar
@@ -34,6 +36,7 @@ Video Gözetim ve Akıllı Kamera
 Çevre Güvenliği
 Yangın Algılama ve Erken Uyarı
 IoT ve Entegrasyon
+Giriş Kontrol Sistemleri
 Hizmetler + Tüm hizmetler ->
 Alarm İzleme Merkezi
 Uzaktan Video İzleme
@@ -52,6 +55,7 @@ Kurumsal + Kurumsal ->
 Hakkımızda
 Neden Desecure
 Yaklaşımımız
+Basında Biz
 İletişim
 Kaynaklar + Kaynaklar ->
 Blog
@@ -77,7 +81,7 @@ Enerji tesislerinde güvenlik operasyonunun yönetimi
 Birden fazla santrali olan bir enerji şirketinde zorluk, farklı sahalarda aynı standardı kurabilmektir. Bu yazı, merkezden izlemenin ne anlama geldiğini, müdahale süresini belirleyen unsurları ve sistem sürekliliğinin nasıl ölçülüp raporlandığını anlatır.
 -> Yazıyı oku
 Enerji · 17 Eylül 2026
-RES ve GES sahalarında çevre güvenliği: LiDAR, radar ve termal kamera
+RES ve GES sahalarında çevre güvenliği: LiDAR , radar ve termal kamera
 Rüzgâr ve güneş santrallerinde çevre hattı kilometrelerce uzar, aydınlatma çoğu noktada yoktur ve saha büyük bölümüyle personelsizdir. Bu yazı, çevre güvenliğinde neden birden fazla teknolojinin birlikte kullanıldığını ve LiDAR, radar, termal kamera ile video analizinin sahada nasıl iş bölümü yaptığını anlatır.
 -> Yazıyı oku
 Alarm ve izleme · 30 Temmuz 2025
@@ -163,18 +167,18 @@ Video Gözetim ve Akıllı Kamera
 Çevre Güvenliği
 Yangın Algılama ve Erken Uyarı
 IoT ve Entegrasyon
+Giriş Kontrol Sistemleri
 Hizmetler ve Teknolojiler
 Alarm İzleme Merkezi
 Uzaktan Video İzleme
 Mobil Güvenlik Sistemleri
-Proaktif Teknolojiler
+Canlı İletişim
 Kurumsal
 Hakkımızda
 Neden Desecure
 Yaklaşımımız
+Basında Biz
 Sektörler
-Enerji ve Yenilenebilir
-Üretim ve Fabrika
 İletişim
 Teklif Al
 Kaynaklar ve Yasal
@@ -186,8 +190,8 @@ KVKK Aydınlatma Metni
 Çerez Politikası
 İlgili Kişi Başvuru Formu
 Desecure Teknoloji A.Ş.
-Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 İstanbul
-Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 Denizli
+Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 , İstanbul
+Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 , Denizli
 444 76 49 bilgi@desecuretechnology.com LinkedIn ->
 Desecure grubu şirketi. Fiziki güvenlik hizmetleri: desecure.com.tr
 Çerez tercihleri

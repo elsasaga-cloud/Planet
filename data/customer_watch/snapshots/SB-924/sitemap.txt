@@ -1,4 +1,4 @@
-# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/building-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/coaxial-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/copper-switch-off/

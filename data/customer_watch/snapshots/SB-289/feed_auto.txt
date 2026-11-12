@@ -1,4 +1,4 @@
-# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Tue, 10 Nov 2026 13:21:04 +0000	VT	https://www.sisav.it/vt/
 Tue, 10 Nov 2026 11:01:01 +0000	SS	https://www.sisav.it/ss/
 Tue, 10 Nov 2026 10:54:39 +0000	SRK	https://www.sisav.it/srk/

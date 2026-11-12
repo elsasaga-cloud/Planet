@@ -1,4 +1,4 @@
-# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-11-12T09:57:55Z · HTTP 200
 COMMANDO Networks – Telegram
 COMMANDO Networks
 @commandonetworks
@@ -92,7 +92,7 @@ HIGHLIGHTS:
 • IEEE 802.3af PoE and 12V DC Dual Power Input
 • Built-in Hardware Watchdog and High-Gain MIMO Antennas
 https://www.commandonetworks.com/wireless/AIRY-AP3000AX
-27 views
+29 views
 COMMANDO Networks
 AIRY-AP5000MB
 COMMANDO AirY 5000Mbps, 2.5G 802.11be, 4K-QAM MLO MRU, WiFi 7 Access Point
@@ -220,7 +220,7 @@ HIGHLIGHTS:
 • 12~48V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-5K
-46 views
+47 views
 COMMANDO Networks
 AIRY-WB900P-5K
 COMMANDO AirY 900Mbps, 5.8GHz, 14dBi, 802.11ac Wave 2, P2P/P2MP, PoE, Disp, 5KM Wireless Bridge
@@ -236,7 +236,7 @@ HIGHLIGHTS:
 • IPv4/IPv6, LLDP, Cloud Management, and Remote Management (HTTP, Telnet, SSH, SNMP)
 • IP67-Rated Outdoor Design with TVS, ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900P-5K
-62 views
+63 views
 COMMANDO Networks
 AIRY-WB900-8K
 COMMANDO AirY 900Mbps, 5.8GHz, 18dBi, 802.11ac Wave 2, P2P/P2MP, 8KM Wireless Bridge
@@ -252,7 +252,7 @@ HIGHLIGHTS:
 • Intelligent Channel Analysis with Automatic Optimal Channel Selection
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-8K
-84 views
+86 views
 COMMANDO Networks
 COMMANDO IS TEC/MTCTE CERTIFIED! 🏆
 COMMANDO is TEC/MTCTE Certified — _ Compliant with Indian Telecom Regulatory Requirements _ — headquartered in Mumbai, INDIA and distribution centers in multiple countries.
@@ -263,7 +263,7 @@ CATALOG:
 https://commandonetworks.com/catalog
 BECOME CHANNEL PARTNER:
 https://www.commandonetworks.com/partners/partner_program
-66 views
+68 views
 COMMANDO Networks
 10G POE SWITCHES 🏁
 Deliver high-performance networking solutions at competitive prices, improve project margins and win more customer opportunities with COMMANDO.
@@ -280,7 +280,7 @@ Partner Locator:
 https://www.commandonetworks.com/partners/partner_locator
 Catalog:
 https://www.commandonetworks.com/catalog
-55 views
+57 views
 COMMANDO Networks
 ENTERPRISE SWITCHES 🏁
 _COMMANDO Core/Backbone Fiber Routing Switches w/ 10G 40G & 100G — for high performance heavy duty networking._

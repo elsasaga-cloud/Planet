@@ -1,4 +1,4 @@
-# SC-1493 duxbury.co.za · feed_auto · https://www.duxbury.co.za/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-1493 duxbury.co.za · feed_auto · https://www.duxbury.co.za/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Mon, 09 Nov 2026 06:11:03 +0000	Duxbury expands AI network offering with Extreme Agent ONE Coworker	https://www.duxbury.co.za/duxbury-expands-ai-network-offering-with-extreme-agent-one-coworker/
 Mon, 02 Nov 2026 10:07:51 +0000	The next network bottleneck is hiding in the uplink	https://www.duxbury.co.za/the-next-network-bottleneck-is-hiding-in-the-uplink/
 Wed, 28 Oct 2026 07:51:59 +0000	The network should remember what happened before the engineer arrives	https://www.duxbury.co.za/the-network-should-remember-what-happened-before-the-engineer-arrives/

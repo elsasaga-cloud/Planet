@@ -1,4 +1,4 @@
-# SC-2021 distributor · home · https://www.acceron.net/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-2021 distributor · home · https://www.acceron.net/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 IoT Solutions & Security Service Provider | Acceron
 Contact : +91 022-61934848
 Email : support@acceron.net
@@ -76,13 +76,13 @@ support@acceron.net
 GET IN TOUCH WITH US
 Please enable JavaScript in your browser to complete this form.
 Name *
-Custom or Phone
 Email *
 Services IT Security Solutions
 Wireless Solutions
 ITxM
 Management and Monitoring
 BMS (Building Management Solution)
+Comment Message Services
 Phone *
 Comment or Message
 Custom Captcha *
@@ -136,7 +136,6 @@ Copyright© 2026 Acceron Infosol Pvt. Ltd. – All Rights Reserved | Designed by
 Please enable JavaScript in your browser to complete this form.
 Name *
 Email *
-or Captcha Email
 Services IT Security Solutions
 Wireless Solutions
 ITxM
@@ -144,6 +143,7 @@ Management and Monitoring
 BMS (Building Management Solution)
 Phone *
 Comment or Message
+or Comment Custom
 Custom Captcha *
 =
 Send a Message

@@ -1,4 +1,5 @@
-# SC-1339 econtroldevices.com · youtube · https://www.youtube.com/@econtroldevices1575 · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-1339 econtroldevices.com · youtube · https://www.youtube.com/@econtroldevices1575 · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-11-12T07:32:13+00:00	3M™ 5590H Thermal Pad | Efficient Heat Transfer in Electronics ⚡	https://www.youtube.com/watch?v=3W9ILOqyJws
 2026-11-06T11:31:22+00:00	When Air Cooling Isn't Enough | Engineered Fluids for Thermal Management	https://www.youtube.com/watch?v=AdjRFyB_BNA
 2026-11-04T09:20:30+00:00	How Do Thermal Pads Help Manage Heat in Electronics? 🌡️ | E Control Devices	https://www.youtube.com/watch?v=n1WNVphgtOk
 2026-10-29T11:57:47+00:00	Industrial Engineering Solutions for Thermal Management, Automation & Electronics	https://www.youtube.com/watch?v=Q9ex45yv-fg
@@ -13,4 +14,3 @@
 2026-09-26T11:39:35+00:00	How Temperature Sensors Protect Equipment | RTD, Thermocouple & Controllers	https://www.youtube.com/shorts/mnsUiR5brV4
 2026-09-18T12:17:31+00:00	Silicone vs Acrylic Thermal Pads | Which One Is Right for Your Application?	https://www.youtube.com/watch?v=ROPZtDvt9yo
 2026-09-15T11:10:29+00:00	Why Electronics Need Precision Cleaning | Electronic Cleaning Solutions	https://www.youtube.com/shorts/aSHcu9Eu7lk
-2026-09-11T12:05:01+00:00	Why AI Data Centers Need Better Cooling | Thermal Management	https://www.youtube.com/shorts/8tWA2m5ALrQ

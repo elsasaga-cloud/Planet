@@ -1,11 +1,11 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
 2026-11-10	https://www.sisegusa.com/home
 2026-07-20	https://www.sisegusa.com/quienes-somos
 2025-12-05	https://www.sisegusa.com/quieres-ser-nuestro-distribuidor
 2026-09-15	https://www.sisegusa.com/radios-hytera
-2026-04-16	https://www.sisegusa.com/soporte-tecnico
+2026-11-10	https://www.sisegusa.com/soporte-tecnico
 2025-12-05	https://www.sisegusa.com/trabaja-con-nosotros
 	https://www.sisegusa.com/payment/payon
 	https://www.sisegusa.com/shop/zk-senseface-7a-lector-facial-pantalla-touch-7-con-lector-huella-y-proximidad-para-control-de-acceso-y-asistencia-ip65-4357
@@ -20,11 +20,11 @@
 	https://www.sisegusa.com/shop/combo-acceso5-1-ds-k1t323mbwx-e1-1-ds-kas-7m01-7959
 	https://www.sisegusa.com/shop/combo-acceso3-1-ds-k1t342mfwx-e1-1ds-kas-7m01-4289
 	https://www.sisegusa.com/shop/combo-acceso4-1-ds-k1t344mbfwx-e1-1-ds-kas-7m01-4290
-	https://www.sisegusa.com/shop/combo-pa3-1-pa-evohd-1-pa-k641-1pa-cajaalarmabl-1pa-tralarm2-1-pa-sirena-1-st-12v-7amp-1-pa-dg75-773
-	https://www.sisegusa.com/shop/combo-pa2-1-pa-mg5050-1-pa-k10h-1-pa-tralarm2-1-st-12v-7amp-1-pa-cajaalarmabl-1-pa-sirena-1-st-l-mg401-772
-	https://www.sisegusa.com/shop/combo-pa-1-pa-sp4000-1-pa-k10h-1-pa-cajaalarmabl-1-pa-sirena-1-pa-tralarm2-1-st-12v-7amp-1-st-l-mg401-771
-	https://www.sisegusa.com/shop/combo-pa5-1-pa-sp5500-1-pa-k10h-1-pa-cajaalarmabl-1-pa-tralarm2-1-st-12v-7amp-1-pa-sirena-1-pa-rtx3-1-pa-ip150-2747
-	https://www.sisegusa.com/shop/combo-pa4-1-pa-sp5500-1pa-k10h-1-pa-cajaalarmabl-1-pa-tralarm2-1-st-12v-7amp-1-pa-sirena-1-pa-ip150-1-st-l-mg401-774
+	https://www.sisegusa.com/shop/combo-pa3-1-pa-evohd-1-pa-k641-1pa-cajaalarmabl-1pa-tralarm2-1-pa-sirena-773
+	https://www.sisegusa.com/shop/combo-pa2-1-pa-mg5050-1-pa-k10h-1-pa-tralarm2-1-pa-cajaalarmabl-1-pa-sirena-1-st-l-mg401-772
+	https://www.sisegusa.com/shop/combo-pa-1-pa-sp4000-1-pa-k10h-1-pa-cajaalarmabl-1-pa-sirena-1-pa-tralarm2-1-st-l-mg401-771
+	https://www.sisegusa.com/shop/combo-pa5-1-pa-sp5500-1-pa-k10h-1-pa-cajaalarmabl-1-pa-tralarm2-1-pa-sirena-2747
+	https://www.sisegusa.com/shop/combo-pa4-1-pa-sp5500-1pa-k10h-1-pa-cajaalarmabl-1-pa-tralarm2-1-pa-sirena-1-st-l-mg401-774
 	https://www.sisegusa.com/shop/ppa-combo-dz-cube600-1-ppa-e02216102-3-ppa-a16768-3923
 	https://www.sisegusa.com/shop/ppa-combo-dz-stark600-1-ppa-e02244102-3-ppa-a16768-3930
 	https://www.sisegusa.com/shop/ppa-combo-dz-stark500-1-ppa-e02249102-3-ppa-a16768-3929
@@ -57,7 +57,7 @@
 	https://www.sisegusa.com/shop/combo-hy5-10-hy-pnc360s-10-ht-s-poc-vil-4303
 	https://www.sisegusa.com/shop/pt-hb-1000-1000-pt-hb-7965
 	https://www.sisegusa.com/shop/ppa-combo-pivo-doble-jetflex-1-5mts-1ppa-e07124012-2-ppa-a16512-7980
-	https://www.sisegusa.com/shop/pt-kit-phanter-1pt-panther9000-rf-wifi-1-pa-sirena-1-st-12v-7amp-5-pt-lts-2984
+	https://www.sisegusa.com/shop/pt-kit-phanter-1pt-panther9000-rf-wifi-1-pa-sirena-1-st-12v-7amp-1-pt-lts-2984
 	https://www.sisegusa.com/shop/pt-hnuez-600-600-pt-hnuez-10167
 	https://www.sisegusa.com/shop/pt-hz-600-600-pt-hz-7967
 	https://www.sisegusa.com/shop/tp-eap245-access-point-450mbps-doble-banda-2-4-5-ghz-omada-3006
@@ -128,4 +128,5 @@
 	https://www.sisegusa.com/shop/zk-d2180-arco-detector-de-metales-18-zonas-2966
 	https://www.sisegusa.com/shop/hy-ncn031-arnes-de-pecho-para-bodycam-4228
 	https://www.sisegusa.com/shop/hy-ehn35r-p-audifono-con-microfono-cableado-para-radios-tipo-ap-y-bp-8488
-	https://www.sisegusa.com/shop/hy-es-02-audifono-con-tubo
+	https://www.sisegusa.com/shop/hy-es-02-audifono-con-tubo-acustico-para-ser-usado-con-acn-02-3296
+	https://www.sisegusa.com/shop/hy-ean30-p-audifono-con-tubo-acustico-pa

@@ -1,4 +1,4 @@
-# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-12T09:57:55Z · HTTP 200
 Logicbus | Industrial Automation, Sensors, PLCs & Test Equipment
 Skip to content
 Tienda en español
@@ -150,6 +150,11 @@ ModBUS RTU/ASCII Compact Gateway. Power Supply: 10~40VDC; 19~28VAC. 1x Ethernet 
 (0)
 $173.86
 In stock.
+Z-SG
+Z-SG is a strain gauge signal converter. Measurements taken using the 6-wires or 4-wires technique are available through Modbus-RTU serial protocol
+(0)
+$218.89
+In stock.
 100.000.00
 Controllino Mini PLC Compatible with Arduino; 4DI/AI, 2 AI, 2DI, 10DO (3PWM) to 2A, 6 Relay outputs (in parallel to DO); TTL, I²C, SPI interface; RTC; 12/24VDC power supply; 5VDC Pin Headers
 (0)
@@ -160,35 +165,30 @@ Oscilloscope Model SDS1000X-E. 200 MHz, 2 channels; 1 GSa/s, 14 M memory depth, 
 (0)
 $379.00
 In stock.
-Z-SG
-Z-SG is a strain gauge signal converter. Measurements taken using the 6-wires or 4-wires technique are available through Modbus-RTU serial protocol
+435USB-NNCU-D
+USB printer or barcode scanner to AB PLC. Does not include power supply
 (0)
-$218.89
-In stock.
-SPD3303X-E
-Linear programmable DC power supply, model SPD3000X, has 3 isolated outputs: 2 adjustable channels of 32V/3.2A and a selectable channel of 2.5/3.5/5V/3.2A, LCD TFT-LCD screen. Output modes: independent, series , parallel. USB and LAN interface.
-(0)
-$459.00
-In stock.
-LTC-7PN
-3.6 Volt/ Lithium Battery/ 750 mAh
-(0)
-$20.00
+$941.28
 In stock.
 460ESTCP-N34-D
 Gateway to connect an EtherNet/IP Scanner and Ethernet TCP/IP Device(s). Mounting: Din Rail, without Power Supply. Platform N34: 1x 5Pin Screw Terminal (RS232/485/422), 1x DB9 Port (RS232/485/422), 1x Ethernet RJ45. Barrel plug for power supply.
 (0)
 $963.56
 In stock.
-435USB-NNCU-D
-USB printer or barcode scanner to AB PLC. Does not include power supply
-(0)
-$941.28
-In stock.
 TCW122B-CM
 Remote I/O module with SNMPv1 support with authentication (SSL/TLS not supported), web-based intelligent temperature and humidity monitoring and control, 2 AI 0-60Vdc, 2 DI, 2 DO relay NO/NC, alerts by mail, HTTP and XML API commands.
 (0)
 $110.32
+In stock.
+LTC-7PN
+3.6 Volt/ Lithium Battery/ 750 mAh
+(0)
+$20.00
+In stock.
+435NBX-N700-D
+Gateway ASCII to Allen-Bradley PLC. Move ASCII serial data to and from a MicroLogix, ControlLogix, CompactLogix, PLC-5, and SLC5/05 Allen Bradley PLC over EtherNet/IP. Din Rail Mount. Requieres 12 to 24 VDC power supply (power supply not included)
+(0)
+$941.28
 In stock.
 Z-LTE-WW
 Z-LTE is the new top-of-the-range SENECA datalogger that allows answering the growing requirements of data acquisition, analysis in real-time
@@ -200,10 +200,15 @@ Ultrasonic CLEAR LABEL Sensor Connector M12, 5-Pin. Estándar M12 Connector
 (0)
 $624.59
 In stock.
-435NBX-N700-D
-Gateway ASCII to Allen-Bradley PLC. Move ASCII serial data to and from a MicroLogix, ControlLogix, CompactLogix, PLC-5, and SLC5/05 Allen Bradley PLC over EtherNet/IP. Din Rail Mount. Requieres 12 to 24 VDC power supply (power supply not included)
+K109PT
+K109PT is a converter for Thermoresistance PT100 with 2,3,4 wires and provides a mA/V standard output signal.
 (0)
-$941.28
+$168.86
+In stock.
+SPD3303X-E
+Linear programmable DC power supply, model SPD3000X, has 3 isolated outputs: 2 adjustable channels of 32V/3.2A and a selectable channel of 2.5/3.5/5V/3.2A, LCD TFT-LCD screen. Output modes: independent, series , parallel. USB and LAN interface.
+(0)
+$459.00
 In stock.
 6069-410-041
 Dynamic Signal Analyzer Model DT9837A. USB-powered Dynamic Signal Analyzer Model DT9837A; 24-bit, 52.7 kHz, 4 IEPE AI, 1 AO, 1 Tach, AO Readback
@@ -225,11 +230,6 @@ ER14250-SM
 (0)
 $50.00
 Check availability in chat.
-7803ecS-DB9
-PCI Express to 8 RS-232 serial ports. Includes a 36 inch length cable with a micro DB68 male connector breaking out to eight DB9 male connectors (Item# CA231). PC Bracket standard size
-(0)
-Discontinued
-Check information in Chat.
 FSH04533
 TDF675, 24000 in-lb, Reaction Torque w/ Flange to Sq., RoHS Compliant, Material - 17-4 PH S.S., 1" Sq. Drive, 6 Pin Bendix Receptacle, PT02H-10-6P
 (0)
@@ -265,46 +265,6 @@ QLA286 / 3000 lb / Tension & Compression In-line Load Cell / Material - 17-4 PH 
 (0)
 $1,798.00
 Check availability in chat.
-100.200.00
-Controllino Mega Industrial PLC
-(0)
-Discontinued
-Check information in Chat.
-100.100.00
-Controllino Maxi Industrial PLC 100.100.00
-(0)
-Discontinued
-Check information in Chat.
-SDS2202X-E
-200 MHz;2 channels; 2 GSa/s; 28 M memory depth; 400,000 wfm/s waveform capture rate (Segmented mode); 7 display (800*480 pixels); SPO technology,1 Mpts FFT,Serial bus triggering and decode (Standard), supports IIC, SPI, UART, RS232, CAN, and LIN.
-(0)
-Discontinued
-Check information in Chat.
-HiTemp140-1
-140 °C Temperature Data Logger with a 1" probe
-(0)
-$539.00
-Check availability in chat.
-FSH03869
-Model: Connector, 5 position, 4 Conductor 26 Awg Braided Shielded Teflon Cable, 15 ft Long, Stainless Steel Body with Strain Relief, RoHS Compliant. Mates to QMA141
-(0)
-Discontinued
-Check information in Chat.
-FBS-40MAR2-AC
-FBs Series PLC. Basic Main Unit PLC with 24 points 24VDC digital input/ 16 points transistor output/ one RS232 port (expandable up to 3 ports)/ 100~240VAC power supply. I/O expandible
-(0)
-$258.51
-Check availability in chat.
-FSH03953
-LTH350 , 250 lb , Through Hole Donut Load Cell , RoHS Compliant, Material - 17-4 PH S.S. , 3/8" [9.53 mm] ID , 4 Pin Micro Receptacle
-(0)
-$1,098.00
-Check availability in chat.
-FSH04205
-LSB201, 250g, JR S-Beam Load Cell 2.0, Overload Protection, RoHS Compliant, Material - 17-4 PH S.S., M3x0.5-Thread, 29 Awg 4 Conductor Spiral Shielded Silicone Cable, 5 ft Long
-(0)
-Discontinued
-Check information in Chat.
 FSH04088
 LSB200 , 10 g , JR S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Overload Protection , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
 (0)
@@ -314,6 +274,26 @@ FSH04000
 LCM300 , 250 lb , Tension & Compression Load Cell (Miniature/Inline Threaded) , RoHS Compliant , IP67 Rated, Material - 17-4 PH S.S. , M6x1-Thread , 4 Pin Micro Receptacle
 (0)
 $998.00
+Check availability in chat.
+SDG6052X
+100 MHz oscilloscope; 4 channels; 1 GS / s; 14M memory; 100,000 wfm / s capture rate; 7 "display (800x480 pixels); SPO technology, 1Mpts FFT, serial bus triggering and decoding (standard), supports IIC, SPI, UART, RS232, CAN and LIN; supports MMSO, USB AWG, Bode diagram; USB connection and WIFI.
+(0)
+$5,490.00
+Check availability in chat.
+HiTemp140-1
+140 °C Temperature Data Logger with a 1" probe
+(0)
+$539.00
+Check availability in chat.
+FBS-40MAR2-AC
+FBs Series PLC. Basic Main Unit PLC with 24 points 24VDC digital input/ 16 points transistor output/ one RS232 port (expandable up to 3 ports)/ 100~240VAC power supply. I/O expandible
+(0)
+$258.51
+Check availability in chat.
+FSH03953
+LTH350 , 250 lb , Through Hole Donut Load Cell , RoHS Compliant, Material - 17-4 PH S.S. , 3/8" [9.53 mm] ID , 4 Pin Micro Receptacle
+(0)
+$1,098.00
 Check availability in chat.
 Z111
 Z111 allows a conversion of a frequency signal and provides a mA/V standard output signal.
@@ -325,16 +305,6 @@ Multifunction USB DAQ: USB Data Acquisition (DAQ) Module; 16-bit, 100kHz, 16AI, 
 (0)
 $1,532.00
 Check availability in chat.
-FSH03864
-LSB302 , 100 lb , Tension & Compression Load Cell , RoHS Compliant, Material - 2024-T4 , 1/4-28-Thread , Overload Protection , 4 Pin Lemo Receptacle, EGG.0B.304.CLL
-(0)
-Discontinued
-Check information in Chat.
-FSH03863
-LSB210 , 2 lb , JR. S-Beam Load Cell , RoHS Compliant , Material - 2024-T4 , M3x0.5-Thread , Submersible , 29 Awg 4 Conductor Spiral Shielded Silicone Cable , 5 ft Long
-(0)
-Discontinued
-Check information in Chat.
 Z-4RTD2
 Module with 4 independent and isolated input channels for platinum or nickel RTD (with 2,3 or 4 wires). RS-485 port. Modbus RTU communication (Requires Z-PC-DINAL2-17.5), MicroUSB on the front panel, power supply 10 ~ 40 Vdc or 19 ~ 28 Vac
 (0)
@@ -345,10 +315,40 @@ USB-DIO96H with 96 high-current channels, logic-level, bidirectional digital I/O
 (1)
 $522.00
 Check availability in chat.
-SSR-IDC-05
-Solid-State Relay Module/ Single/ DC Sense/ 3 to 32 VDC
+FSH02567
+LBB200 , 5 lb , Bending Beam Load Cell , Standard , Material - 17-4 PH S.S. , 28 Awg 4 Conductor Braided Shielded Clear PVC , 1 ft Long
 (0)
-Discontinued
-Check information in Chat.
-PC301MT-0
-PyroCouple infra-red temperature sensor with 30:1 optics. 0~250°C temperature range. 2 wire
+$4,798.00
+Check availability in chat.
+FSH01996
+TRS605 , 500 N-m , Non-Contact Shaft to Shaft Rotary Torque Sensor w/ Encoder , 42mm Shaft w/14mm Feather Keyway , 12 Pin Binder Receptacle, 09-0331-90-12
+(0)
+$3,498.00
+Check availability in chat.
+FSH01994
+TRS605 , 200 N-m , Non-Contact Shaft to Shaft Rotary Torque Sensor w/ Encoder , 28mm Shaft w/ 8mm Feather Keyway , 12 Pin Binder Receptacle, 09-0331-90-12
+(0)
+$3,898.00
+Check availability in chat.
+FSH01989
+LCF501 , 12500 lb , Fatigue Rated Low Profile Universal Pancake Load Cell , RoHS Compliant, 2 mV/V , Material - 17-4 PH S.S. , 1 1/4-12-Thread , 6 Pin Bendix Receptacle, PT02E-10-6P
+(0)
+$2,998.00
+Check availability in chat.
+FSH01790
+#24 AWG, 6 Cond. Foil Shield PVC Cable Fab, 90 ft Cable
+(0)
+$178.00
+Check availability in chat.
+RHTEMP1000IS
+Intrinsically Safe Temperature and Humidity Recorder
+(0)
+$449.00
+Check availability in chat.
+TB02-KT
+Terminal block Kit, break out DB37 connectors to screw terminals
+(0)
+$78.00
+Check availability in chat.
+MICROTEMP
+Rugged/ Submersible/ Miniature Temperature Recorder/ temperature range -40~80°C/ stainless steel enclosure (food graded)/ memory size 32/767 measures. Include NIST certificate.

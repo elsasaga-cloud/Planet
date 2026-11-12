@@ -1,4 +1,4 @@
-# SB-159 elmospa.com · news_1 · https://www.elmospa.com/en/company/news · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-159 elmospa.com · news_1 · https://www.elmospa.com/en/company/news · fetched 2026-11-12T09:57:55Z · HTTP 200
 EL.MO. S.p.A - News
 Skip to main content
 Target audience
@@ -87,13 +87,15 @@ Management systems
 NVR IP e DVR multistandard
 Switch
 Unmanaged, managed, and industrial switches
-Video server basati su Ai
-Video server con analitici di tipo AI
+AI-Based video servers
+Video servers with AI-powered analytics
+IP speakers
+Speakers for integration into CCTV systems
 Access control
-Lettori RF o PIN
-Lettori per abilitazione degli accessi su varchi sensibili
+RF or PIN readers
+Readers for access control at sensitive entry points
 Controller
-Controller per la gestione di sistemi di accessi
+Controllers for access control system management
 D-Pulse
 Technology for Integrating Intrusion Detection Systems with AI-Powered CCTV
 InstaVision

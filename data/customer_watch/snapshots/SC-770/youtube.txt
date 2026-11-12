@@ -1,4 +1,4 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-12T09:57:55Z · HTTP 200
 2026-11-07T08:15:14+00:00	Sterowanie sekwencyjne serwonapędów Elmatic z tabelą pozycji	https://www.youtube.com/watch?v=MTb9sp19MJk
 2026-11-06T08:00:31+00:00	Falownik czy serwonapęd? Sterowanie prędkością serwa Elmatic	https://www.youtube.com/watch?v=XAU-xt6osEE
 2026-11-05T09:00:27+00:00	DASYLab: akwizycja i analiza danych pomiarowych bez programowania	https://www.youtube.com/watch?v=T-mcfpqH1Mo

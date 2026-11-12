@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -182,39 +182,39 @@ ZTE ZXHN F6705
 Terminal GPON ONT z Wi-Fi 7, 1 portem 2.5G Ethernet oraz 3 porty 1G Ethernet.
 Przejdź do produktu
 Bestsellery
-57,97 zł
-71,30 zł z VAT
+405,59 zł
+498,88 zł z VAT
+MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
+58,67 zł
+72,16 zł z VAT
 Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT
-178,01 zł
-218,95 zł z VAT
-MikroTik L41G-2axD hAP ax lite bezprzewodowy router AX574 (Wi-Fi 6), 4x GE
-440,58 zł
-541,91 zł z VAT
-MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
-264,73 zł
-325,62 zł z VAT
-MikroTik wAP ax zewnętrzny punkt dostępowy Wi-Fi 6 AX3000, 2x GE, PoE IN
+237,81 zł
+292,51 zł z VAT
+MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
+302,67 zł
+372,28 zł z VAT
+MikroTik RouterBOARD C52iG-5HaxD2HaxD-TC hAP ax2 bezprzewodowy router AX1800, 5x GE
 Promocje
--32%
-31,86 zł
-21,60 zł
-26,57 zł z VAT
-BBS Power AGM6V12AH akumulator AGM VRLA 6 V, 12 Ah
+-65%
+22,02 zł
+7,60 zł
+9,35 zł z VAT
+OPTON patchcord FC/APC-FC/APC SM DUPLEX 3mm 0.5m G652.D
+-64%
+1 199,52 zł
+437,81 zł
+538,51 zł z VAT
+Mimosa N5-45X4 antena sektorowa 5 GHz 4x4 MIMO 45deg 22 dBi Slant 45
+-40%
+9 988,00 zł
+5 999,00 zł
+7 378,77 zł z VAT
+ZTE ZXA10 C320 terminal OLT z 2 płytami kontrolnymi SMXA/3 (zasilanie DC)
 -70%
-2,77 zł
-0,82 zł
-1,01 zł z VAT
-Adapter ST/APC SM SIMPLEX
--53%
-527,33 zł
-250,00 zł
-307,50 zł z VAT
-Opton patch cord światłowodowy MPO - MPO, OM4 12F Type B, MM, 25 m
--58%
-159,00 zł
-67,36 zł
-82,85 zł z VAT
-Huawei OSG040001 wkładka eSFP, 1310nm, 1,25Gb/s, -5~0dBm, -23dBm, LC, SM, 40km
+10 031,38 zł
+2 999,00 zł
+3 688,77 zł z VAT
+Huawei terminal GPON OLT MA5608T (1x MCUD, 16x GPON z wkładkami C+, zasilanie DC MPWC)
 Promocja!
 -8%
 19 000,00 zł netto
@@ -227,7 +227,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-11-11 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-11-12 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

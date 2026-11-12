@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
 value && Livewire.dispatch('category:selected', { category_id: value }))"
 x-on:force:open.window="forceOpen = $event.detail.open"
@@ -216,11 +216,11 @@ BELÉPTETŐRENDSZERT KERES?
 MECHANIKUS BELÉPTETŐRENDSZERT KERES?
 Új videók
 Összes
+Hogyan segítsük a megfigyelőrendszer kezelőit az SOP-val? – Techson VideoLatte Extra
 Bemutkozik a Hikvision HikConnect 7
 Különböző márkájú kamerák, egy rögzítő! Hikvision + ONVIF bemutató
 Hozd ki a legtöbbet Hikvision kamerádból! ONVIF felhasználó létrehozása és aktiválása
 Hozd ki a legtöbbet a Techson kamerából! SMD beállítása kamerán és NVR-en
-Techson rendszámfelismerő megoldások – Techson VideoLatte
 Legfrissebb cikkek
 Összes
 Intelligens parkolásirányítás – találd meg gyorsabban a szabad parkolóhelyet!

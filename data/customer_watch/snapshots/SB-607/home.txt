@@ -1,4 +1,4 @@
-# SB-607 JTOPTICS · home · https://jtoptics.com/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-607 JTOPTICS · home · https://jtoptics.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 JAYANI TECHNOLOGIES LLP l WWW.JTOPTICS.COM
 Menu
 Your Cart
@@ -193,7 +193,7 @@ Latest Posts
 01 Jul
 Vijay
 0
-975
+981
 Complete Guide to 100G Optical Transceivers: Architecture, Standards, Module Types, Compatibility, Applications & Selection Guide
 The
 transition from 10 Gigabit and 40 Gigabit Ethernet to 100 Gigabit Ethernet
@@ -202,14 +202,14 @@ Read More
 21 Jun
 Vijay
 0
-9380
+9385
 The Role of High-Density MPO MTP Cabling in Data Centers
 Data centre cabling environments are rapidly evolving to meet the increasing demand for higher capac..
 Read More
 21 Jun
 Vijay
 0
-11873
+11881
 Types of Optical Lasers and Photo diode
 What is TOSA and ROSA?
 TOSA is responsible for converti..
@@ -217,21 +217,21 @@ Read More
 19 Jun
 Vijay
 0
-7526
+7527
 Data Center Airflow Management
 Data center managers have two primary objectives: meeting scalability requirements and minimizing op..
 Read More
 18 Jun
 Vijay
 0
-7627
+7629
 Challenges Through Data Center Migration
 Whether it's due to geographical changes, resource consolidation, or expanding cloud services for be..
 Read More
 15 Jun
 Vijay
 0
-6896
+6898
 How to Manage Outdated Data Center Hardware
 All good things must come to an end, and data center hardware is no different. As technology advance..
 Read More
@@ -245,7 +245,7 @@ Read More
 12 May
 Vijay
 0
-7537
+7541
 Cloud and On-Premises Data Centres Comparison
 Nearly all businesses depend on data for their operations. In any industry, access to real-time data..
 Read More
@@ -267,9 +267,9 @@ Working with JT has been a smooth experience. Their team is responsive, and they
 We were looking for 100G transceivers that wouldn’t break the budget. Jayani technologies gave us a compatible and affordable solution, and it’s been working flawlessly in our network.
 - Bhavesh
 Our Clients
-Adva
 Infinera
 Exfo
+Adva
 Cisco
 Juniper
 Ciena

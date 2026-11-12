@@ -1,9 +1,9 @@
-# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · auto_sitemap · https://xspectechnology.com/sitemap.xml · fetched 2026-11-11T09:37:04Z · HTTP 200
-2026-11-11	https://xspectechnology.com/
-2026-11-11	https://xspectechnology.com/training
-2026-11-11	https://xspectechnology.com/news
-2026-11-11	https://xspectechnology.com/downloads
-2026-11-11	https://xspectechnology.com/contact
+# SB-002 XSPec Technology Sdn Bhd（Subang Jaya，NDT/安防/国防/医疗设备代理） · auto_sitemap · https://xspectechnology.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+2026-11-12	https://xspectechnology.com/
+2026-11-12	https://xspectechnology.com/training
+2026-11-12	https://xspectechnology.com/news
+2026-11-12	https://xspectechnology.com/downloads
+2026-11-12	https://xspectechnology.com/contact
 2026-02-13	https://xspectechnology.com/category/oil-gas-marine
 2026-02-04	https://xspectechnology.com/category/military-defence-security
 2026-02-13	https://xspectechnology.com/category/biotech-laboratory
@@ -21,7 +21,6 @@
 2026-09-07	https://xspectechnology.com/brand/aira
 2026-09-14	https://xspectechnology.com/brand/g-tech
 2026-08-05	https://xspectechnology.com/brand/barber
-2026-08-05	https://xspectechnology.com/brand/intron
 2026-09-07	https://xspectechnology.com/brand/converus
 2026-08-05	https://xspectechnology.com/brand/rotem
 2026-08-05	https://xspectechnology.com/brand/thermo-fisher-scientific
@@ -61,7 +60,6 @@
 2026-06-16	https://xspectechnology.com/brand/aircohn-security
 2026-08-05	https://xspectechnology.com/brand/komodo-eye
 2026-08-21	https://xspectechnology.com/brand/advanced-accuracy-solutions
-2026-09-11	https://xspectechnology.com/brand/speech-technology-center
 2026-09-18	https://xspectechnology.com/brand/rei
 2026-10-19	https://xspectechnology.com/news/7th-national-forensic-science-symposium-for-law-enforcement-nafsle-2026
 2026-08-07	https://xspectechnology.com/news/xspec-technology-successfully-concludes-5-day-advanced-polygraph-training-in-kuala-lumpur

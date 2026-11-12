@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
 Blogs
 Products
 DW Ai
@@ -21,6 +21,7 @@ MEGApix® Ai Thermal & Ai Camera
 MEGApix® Ai ALPR
 MEGApix® Ai PTZ
 MEGApix® Ai CloudCam
+MEGApix® Facial Recognition
 MEGApix® Ball Turret Cameras
 MEGApix® Bullet Cameras
 MEGApix® Indoor Dome Cameras
@@ -266,6 +267,7 @@ MEGApix® Ai Thermal & Ai Camera
 MEGApix® Ai ALPR
 MEGApix® Ai PTZ
 MEGApix® Ai CloudCam
+MEGApix® Facial Recognition
 MEGApix® Ball Turret Cameras
 MEGApix® Bullet Cameras
 MEGApix® Indoor Dome Cameras
@@ -381,6 +383,10 @@ Blogs
 2025
 2024
 2023
+11/11/2026
+Could Your Facility's Video Follow an Incident from Start to Finish?
+Purposeful views connect controlled entrances, storage and handling areas for later review.A carton leaves secure storage. A delivery arrives at a side entrance. A discrepancy appears during an inventory review. Can an authorized reviewer follow what happened across the relevant camera views, [...]
+Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 11/09/2026
 Could Your Branch Video Answer the Questions That Matter?
 Purposeful views help connect an event from the branch entrance to the service area.A disputed transaction. An alarm after closing. Damage near an ATM. Each incident starts with questions: What happened, who was nearby, and what happened next? A financial institution's video system should help [...]
@@ -403,9 +409,4 @@ Thoughtful coverage of shared entrances, package rooms and parking areas helps r
 Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 10/21/2026
 What Should Hotels and Resorts Expect from Video Security?
-Thoughtful coverage of public and service areas helps hotel teams support guests, review incidents and respect privacy.A guest reports damage to a parked car. The overnight manager knows the parking area, but the time is uncertain. Can the team find useful video, follow the sequence and preser [...]
-Posted by: Mark Espenschied in Vertical Markets, Educational, Technology, Thought Leadership
-10/19/2026
-What Should Healthcare Teams Expect from Video Security?
-Thoughtful coverage of public areas can support healthcare safety while respecting privacy and limiting unnecessary views.
-A hospital never really closes. Visitors arrive, emplo
+Thoughtful coverage of public and service areas helps hotel teams support guests, review incidents and respect

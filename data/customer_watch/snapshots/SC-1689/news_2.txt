@@ -1,244 +1,240 @@
-# SC-1689 abovenet.com.br · news_2 · https://abovenet.com.br/blog-geral/bridgemeter-monitoramento-hospitalar/ · fetched 2026-11-11T09:37:04Z · HTTP 200
-Bridgemeter and smart hospital infrastructure
-Go to content
+# SC-1689 abovenet.com.br · news_2 · https://abovenet.com.br/blog-geral/bridgemeter-monitoramento-hospitalar/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+Bridgemeter e a infraestrutura hospitalar inteligente
+Ir para o conteúdo
 Home
-Solutions
-IoT Monitoring
+Soluções
+Monitoramento IoT
 Bridgemeter®
 Bridgemanager®
-Interoperability
+Interoperabilidade
 Bridgecare®
-Field Operation
-Zello | IP PTT Radio
-Industrial Networks
-Industrial IoT
-Media Converters
-Serial Converters
-Serial Servers
-Industrial Switches
-Wireless Network – WiFi
-Power Supplies
-Robust Mobility
-Rugged Smartphones
-Robust Tablets
-Data Collectors
-Accessories
-Industrial Computing
-Panel Computers (HMIs)
-Embedded Computers
-Industrial Displays
-Applications
-Agribusiness
-Monitoring of Medium Voltage Cubicles
-Monitoring the Operation and Productivity of Agricultural Equipment
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Zello Work – The Revolution in PTT Communication for Businesses
-Condominiums
-Intelligent Operational Management for Condominiums and Developments
-Predictive Fire Analysis in Kitchens, Bars, and Restaurants
-Monitoring for People Counting
-Zello Work – The Revolution in PTT Communication for Businesses
-Energy
-Monitoring of Medium Voltage Cubicles
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Zello Work – The Revolution in PTT Communication for Businesses
-Machine Manufacturer
-Monitoring of Medium Voltage Cubicles
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Zello Work – The Revolution in PTT Communication for Businesses
+Operação de Campo
+Zello | Rádio PTT IP
+Redes Industriais
+IoT Industrial
+Conversores de Mídia
+Conversores Seriais
+Servidores Seriais
+Switches Industriais
+Rede sem Fio – WiFi
+Fontes de Alimentação
+Mobilidade Robusta
+Smartphones Robustos
+Tablets Robustos
+Coletores de Dados
+Acessórios
+Computação Industrial
+Computadores de Painel (IHMs)
+Computadores Embarcados
+Displays Industriais
+Aplicações
+Agronegócio
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Funcionamento e Produtividade de Equipamentos Agrícolas
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Condomínios
+Gestão Operacional Inteligente para Condomínios e Empreendimentos
+Análise Preditiva de Incêndio em Cozinhas Bares e Restaurantes
+Monitoramento para Contagem de Pessoas
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Energia
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Fabricante de Máquinas
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Zello Work – A Revolução na Comunicação PTT para Empresas
 Gases
-Intelligent Gas Cylinder Management
-Hospital
-Intelligent Gas Cylinder Management
-Intelligent Management of Hospital Infrastructure
-Monitoring of Imaging Examination Infrastructure
-Temperature Monitoring of Refrigeration Chambers
-Vibration Monitoring and Predictive Maintenance
-Remote Gas Monitoring and Measurement
-Monitoring for People Counting
-Monitoring for Pharmaceutical and Laboratory Management
-Telemetry and Remote Measurement of LPG Tanks
-Zello Work – The Revolution in PTT Communication for Businesses
-Industry
-Intelligent Gas Cylinder Management
-Monitoring of Medium Voltage Cubicles
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Remote Gas Monitoring and Measurement
-Zello Work – The Revolution in PTT Communication for Businesses
-Logistics
-Intelligent Management of Forklifts and Heavy Equipment
-Zello Work – The Revolution in PTT Communication for Businesses
-Sanitation
-Intelligent Operational Management of Sanitation
-Monitoring of Medium Voltage Cubicles
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Intelligent Monitoring and Automated Normalization for Sanitation
-Zello Work – The Revolution in PTT Communication for Businesses
-Shopping malls
-Intelligent Operational Management for Shopping Centers
-Predictive Fire Analysis in Kitchens, Bars, and Restaurants
-Monitoring for People Counting
-Zello Work – The Revolution in PTT Communication for Businesses
+Gestão Inteligente de Cilindros de Gases
+Hospitalar
+Gestão Inteligente de Cilindros de Gases
+Gestão Inteligente de Infraestrutura Hospitalar
+Monitoramento da Infraestrutura de Exames de Imagem
+Monitoramento de Temperatura de Câmaras de Refrigeração
+Monitoramento de Vibração e Manutenção Preditiva
+Monitoramento e Medição Remota de Gases
+Monitoramento para Contagem de Pessoas
+Monitoramento para Gestão Farmacêutica e Laboratorial
+Telemetria e Medição Remota de Tanques GLP
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Indústria
+Gestão Inteligente de Cilindros de Gases
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Monitoramento e Medição Remota de Gases
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Logística
+Gestão Inteligente de Empilhadeiras e Equipamentos Pesados
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Saneamento
+Gestão Operacional Inteligente de Saneamento
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Monitoramento Inteligente e Normalização Automatizada para Saneamento
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Shoppings
+Gestão Operacional Inteligente para Shoppings Centers
+Análise Preditiva de Incêndio em Cozinhas Bares e Restaurantes
+Monitoramento para Contagem de Pessoas
+Zello Work – A Revolução na Comunicação PTT para Empresas
 Telecom
-Intelligent Monitoring of Telecom Sites
-Intelligent Data Center Monitoring
-Fiber Optic Network Monitoring and Automatic Asset Bypass
-Zello Work – The Revolution in PTT Communication for Businesses
-Retail
-Intelligent Operational Management for Shopping Centers
-Predictive Fire Analysis in Kitchens, Bars, and Restaurants
-Temperature Monitoring of Refrigeration Chambers
-Monitoring for People Counting
-Zello Work – The Revolution in PTT Communication for Businesses
-Cases
-Who We Are
-Contact
-Events
+Monitoramento Inteligente de Sites Telecom
+Monitoramento Inteligente de Data Centers
+Monitoramento de Redes Fibra Óptica e Bypass automático de Ativos
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Varejo
+Gestão Operacional Inteligente para Shoppings Centers
+Análise Preditiva de Incêndio em Cozinhas Bares e Restaurantes
+Monitoramento de Temperatura de Câmaras de Refrigeração
+Monitoramento para Contagem de Pessoas
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Casos
+Quem Somos
+Contato
+Eventos
 Blog
 Home
-Solutions
-IoT Monitoring
+Soluções
+Monitoramento IoT
 Bridgemeter®
 Bridgemanager®
-Interoperability
+Interoperabilidade
 Bridgecare®
-Field Operation
-Zello | IP PTT Radio
-Industrial Networks
-Industrial IoT
-Media Converters
-Serial Converters
-Serial Servers
-Industrial Switches
-Wireless Network – WiFi
-Power Supplies
-Robust Mobility
-Rugged Smartphones
-Robust Tablets
-Data Collectors
-Accessories
-Industrial Computing
-Panel Computers (HMIs)
-Embedded Computers
-Industrial Displays
-Applications
-Agribusiness
-Monitoring of Medium Voltage Cubicles
-Monitoring the Operation and Productivity of Agricultural Equipment
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Zello Work – The Revolution in PTT Communication for Businesses
-Condominiums
-Intelligent Operational Management for Condominiums and Developments
-Predictive Fire Analysis in Kitchens, Bars, and Restaurants
-Monitoring for People Counting
-Zello Work – The Revolution in PTT Communication for Businesses
-Energy
-Monitoring of Medium Voltage Cubicles
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Zello Work – The Revolution in PTT Communication for Businesses
-Machine Manufacturer
-Monitoring of Medium Voltage Cubicles
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Zello Work – The Revolution in PTT Communication for Businesses
+Operação de Campo
+Zello | Rádio PTT IP
+Redes Industriais
+IoT Industrial
+Conversores de Mídia
+Conversores Seriais
+Servidores Seriais
+Switches Industriais
+Rede sem Fio – WiFi
+Fontes de Alimentação
+Mobilidade Robusta
+Smartphones Robustos
+Tablets Robustos
+Coletores de Dados
+Acessórios
+Computação Industrial
+Computadores de Painel (IHMs)
+Computadores Embarcados
+Displays Industriais
+Aplicações
+Agronegócio
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Funcionamento e Produtividade de Equipamentos Agrícolas
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Condomínios
+Gestão Operacional Inteligente para Condomínios e Empreendimentos
+Análise Preditiva de Incêndio em Cozinhas Bares e Restaurantes
+Monitoramento para Contagem de Pessoas
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Energia
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Fabricante de Máquinas
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Zello Work – A Revolução na Comunicação PTT para Empresas
 Gases
-Intelligent Gas Cylinder Management
-Hospital
-Intelligent Gas Cylinder Management
-Intelligent Management of Hospital Infrastructure
-Monitoring of Imaging Examination Infrastructure
-Temperature Monitoring of Refrigeration Chambers
-Vibration Monitoring and Predictive Maintenance
-Remote Gas Monitoring and Measurement
-Monitoring for People Counting
-Monitoring for Pharmaceutical and Laboratory Management
-Telemetry and Remote Measurement of LPG Tanks
-Zello Work – The Revolution in PTT Communication for Businesses
-Industry
-Intelligent Gas Cylinder Management
-Monitoring of Medium Voltage Cubicles
-Generator Set Monitoring
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Remote Gas Monitoring and Measurement
-Zello Work – The Revolution in PTT Communication for Businesses
-Logistics
-Intelligent Management of Forklifts and Heavy Equipment
-Zello Work – The Revolution in PTT Communication for Businesses
-Sanitation
-Intelligent Operational Management of Sanitation
-Monitoring of Medium Voltage Cubicles
-Machine and Equipment Monitoring
-Monitoring of Electrical and Control Panels
-Vibration Monitoring and Predictive Maintenance
-Intelligent Monitoring and Automated Normalization for Sanitation
-Zello Work – The Revolution in PTT Communication for Businesses
-Shopping malls
-Intelligent Operational Management for Shopping Centers
-Predictive Fire Analysis in Kitchens, Bars, and Restaurants
-Monitoring for People Counting
-Zello Work – The Revolution in PTT Communication for Businesses
+Gestão Inteligente de Cilindros de Gases
+Hospitalar
+Gestão Inteligente de Cilindros de Gases
+Gestão Inteligente de Infraestrutura Hospitalar
+Monitoramento da Infraestrutura de Exames de Imagem
+Monitoramento de Temperatura de Câmaras de Refrigeração
+Monitoramento de Vibração e Manutenção Preditiva
+Monitoramento e Medição Remota de Gases
+Monitoramento para Contagem de Pessoas
+Monitoramento para Gestão Farmacêutica e Laboratorial
+Telemetria e Medição Remota de Tanques GLP
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Indústria
+Gestão Inteligente de Cilindros de Gases
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Grupos Geradores
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Monitoramento e Medição Remota de Gases
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Logística
+Gestão Inteligente de Empilhadeiras e Equipamentos Pesados
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Saneamento
+Gestão Operacional Inteligente de Saneamento
+Monitoramento de Cubículos de Média Tensão
+Monitoramento de Máquinas e Equipamentos
+Monitoramento de Painéis Elétricos e de Comando
+Monitoramento de Vibração e Manutenção Preditiva
+Monitoramento Inteligente e Normalização Automatizada para Saneamento
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Shoppings
+Gestão Operacional Inteligente para Shoppings Centers
+Análise Preditiva de Incêndio em Cozinhas Bares e Restaurantes
+Monitoramento para Contagem de Pessoas
+Zello Work – A Revolução na Comunicação PTT para Empresas
 Telecom
-Intelligent Monitoring of Telecom Sites
-Intelligent Data Center Monitoring
-Fiber Optic Network Monitoring and Automatic Asset Bypass
-Zello Work – The Revolution in PTT Communication for Businesses
-Retail
-Intelligent Operational Management for Shopping Centers
-Predictive Fire Analysis in Kitchens, Bars, and Restaurants
-Temperature Monitoring of Refrigeration Chambers
-Monitoring for People Counting
-Zello Work – The Revolution in PTT Communication for Businesses
-Cases
-Who We Are
-Contact
-Events
+Monitoramento Inteligente de Sites Telecom
+Monitoramento Inteligente de Data Centers
+Monitoramento de Redes Fibra Óptica e Bypass automático de Ativos
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Varejo
+Gestão Operacional Inteligente para Shoppings Centers
+Análise Preditiva de Incêndio em Cozinhas Bares e Restaurantes
+Monitoramento de Temperatura de Câmaras de Refrigeração
+Monitoramento para Contagem de Pessoas
+Zello Work – A Revolução na Comunicação PTT para Empresas
+Casos
+Quem Somos
+Contato
+Eventos
 Blog
-Quote
-Above-Net - Smart IoT
+Cotação
+Above-Net - IoT Inteligente
 29/05/2026
-Intelligent Monitoring of Hospital Infrastructure: From Telemetry to Predictive Operation with Bridgemeter
-General Blog
-Bridgemeter connects critical assets, sensors, and systems in a seamless, intelligent, and traceable operational architecture.
-Hospital operations are supported by an invisible, yet critical, infrastructure. Medical gas systems, power, air conditioning, water supply, and clinical equipment operate continuously, with no room for failure. Unlike other sectors, where interruptions generate financial losses, in the hospital environment, failures represent a direct risk to life. Historically, the monitoring of these systems has been conducted using reactive approaches, based on periodic inspections and simple alarms. This model, besides being limited, depends on human interpretation and often only acts after the problem has already occurred. The evolution towards digital environments has introduced telemetry. However, capturing data is not enough. What distinguishes efficient operations is the ability to interpret this data, correlate variables, and anticipate behaviors. This is where Bridgemeter redefines the role of monitoring. More than a traditional monitoring system, Bridgemeter operates as an intelligent operational management platform, capable of capturing, processing, and analyzing data in real time, transforming measurements into decisions. This approach allows not only visualizing the operation, but also understanding it dynamically, identifying behavioral patterns and detecting anomalies before they become critical failures. By replacing reliance on human perception with intelligent rules and automated analysis, the operation becomes data-driven and evidence-based. Compatibility and integration with any infrastructure
-Hospital environments are, by nature, heterogeneous. Equipment from different manufacturers, analog and digital sensors, legacy systems and new technologies coexist in the same operation. Bridgemeter solves this challenge with a highly compatible architecture, supporting a wide variety of devices and over 150 industrial protocols, enabling: Integration of any asset into the platform
-Unifying data from multiple sources
-Elimination of operational silos
-Infrastructure is now treated as a single system, regardless of its complexity. This capability is fundamental in hospital environments, where systems such as medical gases, power, cold chain, generators, and critical equipment need to operate in an integrated and synchronized manner—as evidenced by the breadth of applications of the platform throughout the hospital infrastructure
-Proactive and condition-driven operation
-Another distinguishing feature of Bridgemeter is its ability to act proactively. Instead of reacting to events, the platform identifies operational deviations in real time and triggers structured alerts to the responsible teams, considering the context, criticality, and history of the equipment. This logic allows: Anticipating failures
-Reducing unscheduled downtime
-Targeted and context-based action
-The operation ceases to be reactive and becomes condition-driven. This approach is directly aligned with the concept of intelligent proactivity, where the system automatically identifies anomalies and notifies teams before the problem escalates Applied intelligence: rules, calculations, and AI
-One of the technical cornerstones of Bridgemeter is its advanced parameterization capability. The platform allows the creation of smart rules based on: minimum and maximum limits
-behavioral variations
-correlation between multiple parameters
-customized formulas
-These rules feed into a system of automated alarms and decisions, allowing the operation to respond in a structured and consistent manner. Furthermore, the solution allows integration with artificial intelligence models for the detection of more complex patterns, including data and image analysis, significantly expanding the ability to identify anomalies. The flexibility of the parameterization allows the intelligence to be applied to any type of asset or process, with complete adaptation to the operational reality of the hospital Predictive maintenance based on real data
-Predictive maintenance is no longer a theoretical concept but is now being put into practice. Based on continuous telemetry, Bridgemeter identifies anomalous patterns that indicate equipment degradation, allowing for intervention before failure. The direct impact is: Reduction of operational costs
-Increasing the lifespan of equipment
-Reducing unscheduled downtime
-Furthermore, the platform allows for the creation of maintenance programs based on the actual use of assets, replaci
+Monitoramento Inteligente de Infraestrutura Hospitalar: da Telemetria à Operação Preditiva com o Bridgemeter
+Blog Geral
+Bridgemeter conecta ativos, sensores e sistemas críticos em uma arquitetura operacional contínua, inteligente e rastreável.
+A operação hospitalar é sustentada por uma infraestrutura invisível, porém crítica. Sistemas de gases medicinais, energia, climatização, abastecimento de água e equipamentos clínicos operam continuamente, sem margem para falhas. Diferentemente de outros setores, onde interrupções geram perdas financeiras, no ambiente hospitalar falhas representam risco direto à vida. Historicamente, o monitoramento desses sistemas foi conduzido por abordagens reativas, baseadas em inspeções periódicas e alarmes simples. Esse modelo, além de limitado, depende da interpretação humana e frequentemente atua apenas após o problema já ter ocorrido. A evolução para ambientes digitais introduziu a telemetria. No entanto, capturar dados não é suficiente. O que diferencia operações eficientes é a capacidade de interpretar esses dados, correlacionar variáveis e antecipar comportamentos. É nesse ponto que o Bridgemeter redefine o papel do monitoramento. Mais do que um sistema tradicional de supervisão, o Bridgemeter opera como uma plataforma de gestão operacional inteligente, capaz de capturar, processar e analisar dados em tempo real, transformando medições em decisões. Essa abordagem permite não apenas visualizar a operação, mas compreendê-la de forma dinâmica, identificando padrões de comportamento e detectando anomalias antes que se tornem falhas críticas. Ao substituir a dependência da percepção humana por regras inteligentes e análise automatizada, a operação passa a ser orientada por dados e evidências. Compatibilidade e integração com qualquer infraestrutura
+Ambientes hospitalares são, por natureza, heterogêneos. Equipamentos de diferentes fabricantes, sensores analógicos e digitais, sistemas legados e novas tecnologias coexistem em uma mesma operação. O Bridgemeter resolve esse desafio com uma arquitetura altamente compatível, suportando uma ampla variedade de dispositivos e mais de 150 protocolos industriais, permitindo: Integração de qualquer ativo à plataforma
+Unificação de dados de múltiplas origens
+Eliminação de silos operacionais
+A infraestrutura passa a ser tratada como um sistema único, independentemente da complexidade. Essa capacidade é fundamental em ambientes hospitalares, onde sistemas como gases medicinais, energia, cadeia do frio, geradores e equipamentos críticos precisam operar de forma integrada e sincronizada — como evidenciado na abrangência de aplicações da plataforma em toda a infraestrutura hospitalar
+Operação proativa e orientada por condição
+Outro diferencial do Bridgemeter está na sua capacidade de atuar de forma proativa. Ao invés de reagir a eventos, a plataforma identifica desvios operacionais em tempo real e dispara alertas estruturados para as equipes responsáveis, considerando contexto, criticidade e histórico do equipamento. Essa lógica permite: Antecipação de falhas
+Redução dedowntime não programado
+Atuação direcionada e baseada em contexto
+A operação deixa de ser reativa e passa a ser orientada por condição. Essa abordagem está diretamente alinhada ao conceito de proatividade inteligente, onde o sistema identifica anomalias automaticamente e notifica as equipes antes que o problema evolua Inteligência aplicada: regras, cálculos e IA
+Um dos pilares técnicos do Bridgemeter é sua capacidade avançada de parametrização. A plataforma permite a criação de regras inteligentes baseadas em: limites mínimos e máximos
+variações de comportamento
+correlação entre múltiplos parâmetros
+fórmulas customizadas
+Essas regras alimentam um sistema de alarmes e decisões automatizadas, permitindo que a operação responda de forma estruturada e consistente. Além disso, a solução permite integração com modelos de inteligência artificial para detecção de padrões mais complexos, incluindo análise de dados e imagens, ampliando significativamente a capacidade de identificação de anomalias. A flexibilidade da parametrização permite que a inteligência seja aplicada em qualquer tipo de ativo ou processo, com total adaptação à realidade operacional do hospital Manutenção pre
