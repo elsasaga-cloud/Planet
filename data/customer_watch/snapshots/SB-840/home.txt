@@ -1,4 +1,4 @@
-# SB-840 inline-info.com · home · https://www.inline-info.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-840 inline-info.com · home · https://www.inline-info.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 IT- und Multimedia-Accessories von InLine | Der Kabel-Spezialist
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -293,6 +293,7 @@ Scart
 SVGA
 USB
 Menü schließen
+Aufgrund der weltweiten Microsoftstörungen erreichen Sie uns im Notfall über: intos@mail.de
 Slide {current} von {total} wird angezeigt
 InLine verbindet
 Erleben Sie die Kraft der perfekten Verbindung!
@@ -343,14 +344,6 @@ Abv:
 Varianten verfügbar.
 InLine® USB4 80Gb/s Kabel, USB-C Stecker/Stecker 16K/60Hz 240W TPE/Alu schwarz
 Ein Kabel für ultraschnelles Laden, Datentransfer und hochauflösende Displays Ein Kabel für alle Anwendungen: USB4 vereint schnelle Datenübertragung, leistungsstarkes Laden und Videoausgabe in einer einzigen USB-C Verbindung. Dadurch lassen sich komp...
-Variante auswählen
-Neu
-Sales:
-Abv:
-2
-Varianten verfügbar.
-InLine® SmartStand Ergo, Monitorhalterung, Gesichtserkennung, 32"
-Automatische Höhenanpassung mit Gesichtserkennung für flexible Arbeitspositionen Automatische Höhenanpassung mit Gesichtserkennung: Die Kamera schätzt Ihre Augenhöhe und reagiert auf größere Haltungsänderungen. Eine kontinuierliche Nachführung erfolg...
 Variante auswählen
 Neu
 Sales:

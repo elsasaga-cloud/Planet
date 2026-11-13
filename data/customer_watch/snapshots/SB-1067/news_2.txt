@@ -1,4 +1,4 @@
-# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Support and Knowledge Base | Raytel Security Systems
 This website uses cookies to provide you with a full set of features. For more information on our cookie usage see our Privacy Policy page. You consent to our cookies by continuing to use this site.
 OK
@@ -129,7 +129,7 @@ Door Entry Vimar - IP Software Link
 Soyal USB to RS485 (AR-321CM) Driver - Software
 Door Entry Saveprog - Software Link
 Soyal 701 Client 901 13/12/19 - Software
-Soyal 701 Server 901 30/09/19 - Software
+Soyal Device Tools 25/07/24
 Legacy Products - Click Here for all articles
 Sound System 2004 Manufacturers Manual - PDF
 Community Housing Door Entry System - EKMM - PDF

@@ -1,4 +1,4 @@
-# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-13T09:45:13Z · HTTP 200
 Toutes les catégories
 Accueil
 - Produits
@@ -90,6 +90,12 @@ Accueil
 --- Serveurs de temps NTP / Grandmasters PTP
 ---- Accessoires
 --- Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+-- Débitmétrie & comptage
+--- Compteurs d’eau
+--- Compteurs d’énergie
+--- Débitmètres grands diamètres
+--- Vannes motorisées IoT
+--- Accessoires & options débitmétrie
 Accueil
 Produits
 Connectivité industrielle
@@ -151,6 +157,12 @@ Synchronisation du temps
 Serveurs de temps NTP / Grandmasters PTP
 Accessoires
 Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Débitmétrie et comptage
+Compteurs d’eau
+Compteurs d’énergie
+Débitmètres grands diamètres
+Vannes motorisées IoT
+Accessoires & options débitmétrie
 Capteurs sur IP et/ou 4G
 Boîtiers sur IP (Cuivre et/ou WiFi)
 Boîtiers avec 4G natif
@@ -276,6 +288,12 @@ Accueil
 --- Serveurs de temps NTP / Grandmasters PTP
 ---- Accessoires
 --- Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+-- Débitmétrie & comptage
+--- Compteurs d’eau
+--- Compteurs d’énergie
+--- Débitmètres grands diamètres
+--- Vannes motorisées IoT
+--- Accessoires & options débitmétrie
 Accueil
 Produits
 Connectivité industrielle
@@ -337,6 +355,12 @@ Synchronisation du temps
 Serveurs de temps NTP / Grandmasters PTP
 Accessoires
 Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Débitmétrie et comptage
+Compteurs d’eau
+Compteurs d’énergie
+Débitmètres grands diamètres
+Vannes motorisées IoT
+Accessoires & options débitmétrie
 Capteurs sur IP et/ou 4G
 Boîtiers sur IP (Cuivre et/ou WiFi)
 Boîtiers avec 4G natif
@@ -549,6 +573,12 @@ Synchronisation du temps
 Serveurs de temps NTP / Grandmasters PTP
 Accessoires
 Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+Débitmétrie et comptage
+Compteurs d’eau
+Compteurs d’énergie
+Débitmètres grands diamètres
+Vannes motorisées IoT
+Accessoires & options débitmétrie
 Capteurs sur IP et/ou 4G
 Boîtiers sur IP (Cuivre et/ou WiFi)
 Boîtiers avec 4G natif
@@ -671,6 +701,4 @@ Accueil
 --- Ventouses et poignées
 --- Lecteurs et cartes/tags
 -- Synchronisation du temps
---- Serveurs de temps NTP / Grandmasters PTP
----- Accessoires
---- Switches PTP IEEE 1588 (Transparent & Boundary Clock)
+--- Serve

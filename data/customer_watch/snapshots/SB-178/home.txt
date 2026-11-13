@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -30,12 +30,12 @@ Anteny (376)
 Automatyka i Przemysł (443)
 Części serwisowe (161)
 Elektryka (13)
-Inteligentny dom (90)
+Inteligentny dom (92)
 Karty sieciowe (85)
-Komputery (151)
+Komputery (152)
 Kontrolery sieciowe (31)
 Media konwertery (76)
-Monitoring (310)
+Monitoring (314)
 Okablowanie (698)
 Platformy WLAN (2)
 Radiolinie (85)
@@ -43,18 +43,18 @@ Routery (183)
 Routery ADSL (5)
 Światłowody (1706)
 Switche (681)
-Szafy rack 10/19 cali (498)
+Szafy rack 10/19 cali (499)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
 Zasilanie (832)
 Zdrowie (10)
-Złącza (243)
+Złącza (245)
 MikroTik (406)
-Solarix (139)
+Solarix (140)
 Teltonika (392)
 Tenda (175)
 TP-Link (479)
-Ubiquiti (797)
+Ubiquiti (803)
 ♻️ Towary refurbished (2)
 Wybierz producenta
 Wybierz
@@ -185,9 +185,9 @@ Signal (13)
 Signal Fire (8)
 Signamax (1)
 Simet (1)
-Solarix (149)
+Solarix (150)
 SparkLAN (3)
-StalFlex (278)
+StalFlex (279)
 TechnicLan (23)
 Telcoline (98)
 Telcom (8)
@@ -204,7 +204,7 @@ TrendNet (3)
 TriBrer (5)
 Triset (4)
 TVIP (1)
-Ubiquiti (857)
+Ubiquiti (863)
 UltiPulse (4)
 UNI-T (4)
 UPLink (27)
@@ -255,8 +255,8 @@ Wtyk RJ45 z pozłacanymi pinami (drut) kat.6
 0,26 zł netto
 More
 Światłowód ZTT 12J uniwersalny, jednotubowy, śr. 5.2 mm, G.652D, span 60m
-1,86 zł z VAT
-1,51 zł netto
+2,55 zł z VAT
+2,07 zł netto
 More
 22-09-2026 :
 Poznaj MikroTik CLAIRÉ i MikroTik CLAIRÉ Lite - czujniki jakości powietrza
@@ -291,56 +291,58 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Daszek Orno OR-Dom-RL-901DN/G
-55,35 zł z VAT
-61,49 zł
-45,00 zł netto
+NOWOŚĆ
+Teltonika ATRM50 router 5G
+2 890,50 zł z VAT
+3 907,21 zł
+2 350,00 zł netto
 szt
-Najniższa cena z 30 dni: 61,49 zł
-Wisnetworks WIS-L5819S Sector Base Station
-257,07 zł z VAT
-719,55 zł
-209,00 zł netto
-szt
-Najniższa cena z 30 dni: 719,55 zł
-TP-Link Deco X10
-207,87 zł z VAT
-300,99 zł
-169,00 zł netto
-szt
-Najniższa cena z 30 dni: 300,99 zł
-Ambit Atheros 5213A, 802.11 a/b/g
-12,30 zł z VAT
-39,36 zł
-10,00 zł netto
-szt
-Najniższa cena z 30 dni: 39,36 zł
-MikroTik wAP LR2 kit (RBwAPR-2nD&R11e-LR2)
-479,70 zł z VAT
-545,70 zł
-390,00 zł netto
-szt
-Najniższa cena z 30 dni: 545,70 zł
+Najniższa cena z 30 dni: 3 907,21 zł
 Wisnetworks WIS-L5820S Sector Base Station
 479,70 zł z VAT
 719,55 zł
 390,00 zł netto
 szt
 Najniższa cena z 30 dni: 719,55 zł
+TornadoBox 18 dBi (mmcx)
+104,55 zł z VAT
+147,60 zł
+85,00 zł netto
+szt
+Najniższa cena z 30 dni: 147,60 zł
+WYPRZEDAŻ
+Grandstream HT881 analogowa bramka FXO
+699,87 zł z VAT
+951,36 zł
+569,00 zł netto
+szt
+Najniższa cena z 30 dni: 951,36 zł
+Tenda B6 Stacja bazowa 5 GHz
+282,90 zł z VAT
+372,00 zł
+230,00 zł netto
+szt
+Najniższa cena z 30 dni: 372,00 zł
+Switch przemysłowy LNK-GY108G-SFP
+367,77 zł z VAT
+657,56 zł
+299,00 zł netto
+szt
+Najniższa cena z 30 dni: 657,56 zł
 Najnowsze propozycje
 NOWOŚĆ
-Cudy WR3600E
-285,00 zł z VAT
-231,71 zł netto
+Moduł keystone 10G RJ-45 UTP kat.6a, samozaciskowy, kolorowe moduły (SXKJ-10G-UTP-RAL-SA)
+18,70 zł z VAT
+15,20 zł netto
 szt
 NOWOŚĆ
-Obudowa rack 19", 1U, szara dla splittera PLC SM 2x SC/APC
+Obudowa rack 19", 1U, szara dla splittera PLC SM 3x 1:8 SC/APC
 105,50 zł z VAT
 85,77 zł netto
 szt
-Teltonika RMS Management Pack, licencja na 5 lat + Rozszerzona gwarancja na 3 lata (grupa H)
-877,46 zł z VAT
-713,38 zł netto
+Teltonika RMS Management Pack, licencja na 3 lata + Rozszerzona gwarancja na 3 lata (grupa G)
+647,96 zł z VAT
+526,80 zł netto
 szt
 NOWOŚĆ
 TP-Link EAP727
@@ -353,35 +355,33 @@ TP-Link Fusion 2.5G PoE
 1 409,00 zł netto
 szt
 NOWOŚĆ
-Ubiquiti AI Horn Speaker (UP-AI-Horn-Speaker-B)
-1 380,27 zł z VAT
-1 122,17 zł netto
+Ubiquiti Access Fail-Safe Strike Lock (UACC-Lock-Strike-Safe-15mm)
+417,95 zł z VAT
+339,80 zł netto
 szt
 NOWOŚĆ
 Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
-104,23 zł z VAT
-84,74 zł netto
+104,00 zł z VAT
+84,55 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 667,23 zł z VAT
-6 233,52 zł netto
+7 686,69 zł z VAT
+6 249,34 zł netto
 szt
 NOWOŚĆ
-Ubiquiti UniFi Protect G6 Mini Dome (UVC-G6-Mini-Dome-B)
-1 583,26 zł z VAT
-1 287,20 zł netto
+Ubiquiti UniFi Protect G6 Pro 360 (UVC-G6-Pro-360-B)
+2 575,98 zł z VAT
+2 094,29 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Tenda CP6 obrotowa kamera do monitoringu domowego
-79,40 zł z VAT
-64,55 zł netto
+Cudy BU530
+20,75 zł z VAT
+16,87 zł netto
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
 Koszty przesyłki:
-DHL: od 13 PLN (netto)
-FedEx: od 14.90 PLN (netto)
-Paczkomat: od 14 PLN (net
+DHL: 

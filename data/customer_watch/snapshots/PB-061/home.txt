@@ -1,26 +1,27 @@
-# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy
 Pn–Pt – · +48 504 500 007 info@ctr.pl
+O nas Pomoc i FAQ
 Sklep
 Szukaj Zaloguj Ulubione Porównaj 0 Koszyk
 Wszystkie kategorie
 ▾ Monitoring IP 5045 › Monitoring IP
 Zobacz całą kategorię (5045) →
-Kamery IP 3156 Kamery IP zewnetrzne 2677
+Kamery IP 3156 Kamery IP zewnętrzne 2677
 Kamery IP PTZ 483
 Kamery samochodowe 71
 Kamery IP fisheye 76
 Kamery IP mini/ukryte 140
-Kamery IP wewnetrzne 728
+Kamery IP wewnętrzne 728
 Kamery IP wandaloodporne 1041
-Rejestratory NVR 1250 AI: ai 233
+Rejestratory NVR 1250 AI 233
 PoE: tak 270
-Kanaly: 4 116
-Kanaly: 8 160
-Kanaly: 16 202
-Switche PoE / Siec 438 Typ: niezarzadzalny 141
-Typ: przemyslowe 79
-Predkosc: Gigabit 222
+Kanały: 4 116
+Kanały: 8 160
+Kanały: 16 202
+Switche PoE / Sieć 438 Typ: niezarządzalny 141
+Typ: przemysłowe 79
+Prędkość: Gigabit 222
 Porty: 8 79
 Porty: 16 53
 Porty: 24 71
@@ -31,27 +32,27 @@ Mirasys software 37
 Polecane Kamery IP Zestawy gotowe
 Zestawy monitoringu 196 › Zestawy monitoringu
 Zobacz całą kategorię (196) →
-Zestawy monitoringu IP 129 Ilosc kamer: 4 35
-Ilosc kamer: 8 24
-Ilosc kamer: 16 20
-Rozdzielczosc: 2MP 31
-Rozdzielczosc: 5MP 16
-Zastosowanie: zewnetrzne 86
-Zestawy monitoringu WiFi 2 Zobacz wszystkie →
+Zestawy monitoringu IP 129 Ilość kamer: 4 35
+Ilość kamer: 8 24
+Ilość kamer: 16 20
+Rozdzielczość: 2MP 31
+Rozdzielczość: 5MP 16
+Zastosowanie: zewnętrzne 86
+Zestawy monitoringu Wi-Fi 2 Zobacz wszystkie →
 Zestawy monitoringu analogowego 65 Standard: AHD 32
-Ilosc kamer: 4 22
-Ilosc kamer: 8 24
+Ilość kamer: 4 22
+Ilość kamer: 8 24
 Polecane Kamery IP Zestawy gotowe
 Monitoring analogowy 967 › Monitoring analogowy
 Zobacz całą kategorię (967) →
-Kamery analogowe (4w1 / AHD / TVI / CVI) 653 Kamery analogowe zewnetrzne 599
-Kamery analogowe wewnetrzne 79
+Kamery analogowe (4w1 / AHD / TVI / CVI) 653 Kamery analogowe zewnętrzne 599
+Kamery analogowe wewnętrzne 79
 Kamery analogowe PTZ 47
 Rejestratory DVR/XVR 362 Hybryda: analog+IP 186
-Ilosc kanalow: 16-kanalowy 105
-Ilosc kanalow: 32-kanalowy 30
-Ilosc kanalow: 4-kanalowy 87
-Ilosc kanalow: 8-kanalowy 76
+Ilość kanałów: 16-kanałowy 105
+Ilość kanałów: 32-kanałowy 30
+Ilość kanałów: 4-kanałowy 87
+Ilość kanałów: 8-kanałowy 76
 Polecane Kamery IP Zestawy gotowe
 Alarmy 625 › Alarmy
 Zobacz całą kategorię (625) →
@@ -66,40 +67,40 @@ Czujki alarmowe 246 Czujki PIR 83
 Czujki dualne 26
 Czujki dymu 18
 Czujki czadu 2
-Czujki zewnetrzne 35
+Czujki zewnętrzne 35
 Czujki sufitowe 14
 Czujki PET 21
 Kontaktrony (otwarcia) 90
 Czujki gazu 5
 Czujki zalania 3
-Sygnalizatory 83 Sygnalizatory wewnetrzne 24
-Sygnalizatory zewnetrzne 57
+Sygnalizatory 83 Sygnalizatory wewnętrzne 24
+Sygnalizatory zewnętrzne 57
 Sygnalizatory optyczno-akustyczne 61
 Sygnalizatory optyczne 2
 Sygnalizatory akustyczne 6
-Moduly komunikacyjne 165 Moduly GSM/LTE 37
-Moduly Ethernet 35
-Moduly WiFi 34
-Powiadamianie / monitoring alarmow 77
+Moduły komunikacyjne 165 Moduły GSM/LTE 37
+Moduły Ethernet 35
+Moduły Wi-Fi 34
+Powiadamianie / monitoring alarmów 77
 Manipulatory / klawiatury 97 Manipulatory LCD 63
 Manipulatory LED 35
 Manipulatory dotykowe 34
 Polecane Kamery IP Zestawy gotowe
-Wideodomofony i kontrola dostepu 970 › Wideodomofony i kontrola dostepu
+Wideodomofony i kontrola dostępu 970 › Wideodomofony i kontrola dostępu
 Zobacz całą kategorię (970) →
-Wideodomofony IP/WiFi 161 Stacje bramowe 92
-Monitory wewnetrzne 56
+Wideodomofony IP/Wi-Fi 161 Stacje bramowe 92
+Monitory wewnętrzne 56
 Zestawy wideodomofonowe IP 25
-Wideodomofony 2-zylowe 47 Zestawy 2-zylowe 24
-Monitory 2-zylowe 27
-Stacje bramowe 2-zylowe 17
+Wideodomofony 2-żyłowe 47 Zestawy 2-żyłowe 24
+Monitory 2-żyłowe 27
+Stacje bramowe 2-żyłowe 17
 Elektrozaczepy / zwory 95 Zwory elektromagnetyczne 32
 Zamki elektryczne 22
-Akcesoria montazowe do zamkow 37
-Kontrola dostepu 733 Kontrolery dostepu 331
-Czytniki kart / brelokow 240
+Akcesoria montażowe do zamków 37
+Kontrola dostępu 733 Kontrolery dostępu 331
+Czytniki kart / breloków 240
 Karty / breloki / identyfikatory 101
-Przyciski wyjscia 21
+Przyciski wyjścia 21
 Zamki i zwory 51
 Akcesoria SKD 254
 Polecane Kamery IP Zestawy gotowe
@@ -108,37 +109,37 @@ Zobacz całą kategorię (2778) →
 Dyski do monitoringu 215 Dyski HDD CCTV 51
 Dyski HDD do NVR/DVR 120
 Dyski do NAS / archiwizacji 72
-Karty pamieci microSD 22
+Karty pamięci microSD 22
 Okablowanie 95 Patchcordy 3
-Skretka UTP 19
-Skretka FTP 13
+Skrętka UTP 19
+Skrętka FTP 13
 Kable koncentryczne 27
 Kable combo (video + zasilanie) 11
-Kable zewnetrzne 26
-Kable wewnetrzne 47
+Kable zewnętrzne 26
+Kable wewnętrzne 47
 Akcesoria pozostałe 324 Zobacz wszystkie →
 Zasilanie CCTV 386 Akumulatory 88
 Zasilacze impulsowe 113
 Zasilacze buforowe 91
-Zasilacze na szyne DIN 53
+Zasilacze na szynę DIN 53
 UPS / zasilanie awaryjne 36
-Ochrona przepieciowa 110
-Montaz (uchwyty / puszki / obudowy) 1032 Uchwyty montażowe 701
-Puszki montazowe 229
-Adaptery montazowe 397
+Ochrona przepięciowa 110
+Montaż (uchwyty / puszki / obudowy) 1032 Uchwyty montażowe 701
+Puszki montażowe 229
+Adaptery montażowe 397
 Obudowy kamer 180
-Maszty / wysiegniki 42
-Szafy RACK 315 Szafy RACK wiszace 105
-Szafy RACK stojace 164
-Polki / organizery / patch panele 123
-Zlacza i drobnica 326 Wtyki RJ45 12
+Maszty / wysięgniki 42
+Szafy RACK 315 Szafy RACK wiszące 105
+Szafy RACK stojące 164
+Półki / organizery / patch panele 123
+Złącza i drobnica 326 Wtyki RJ45 12
 Wtyki DC 6
-Zlacza BNC 35
-Przejsciowki 63
-Gniazda / rozgalezniki 14
+Złącza BNC 35
+Przejściówki 63
+Gniazda / rozgałęźniki 14
 Drobne akcesoria instalacyjne 255
-Monitory i podglad 154 Monitory CCTV 90
-Uchwyty do monitorow 26
+Monitory i podgląd 154 Monitory CCTV 90
+Uchwyty do monitorów 26
 Monitory CCTV 24/7 60
 Monitory HDMI/VGA 113
 Atrapy kamer 10 Zobacz wszystkie →
@@ -196,12 +197,11 @@ VIVOTEK 42
 W
 WD 6
 Polecane Kamery IP Zestawy gotowe
-Cenniki Baza wiedzy Instalacje Kontakt
-Monitoring IP Zestawy monitoringu Monitoring analogowy Alarmy Wideodomofony i kontrola dostepu
+Cenniki Baza wiedzy Instalacje Kontakt O nas
+Monitoring IP Zestawy monitoringu Monitoring analogowy Alarmy Wideodomofony i kontrola dostępu
 Cenniki Instalacje Kontakt Baza wiedzy
-CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy i akcesoria
 Kategorie
-Monitoring IP 5045 Zestawy monitoringu 196 Monitoring analogowy 967 Alarmy 625 Wideodomofony i kontrola dostepu 970 Akcesoria 2778 Marki
+Monitoring IP 5045 Zestawy monitoringu 196 Monitoring analogowy 967 Alarmy 625 Wideodomofony i kontrola dostępu 970 Akcesoria 2778 Marki
 ◆ Promocja tygodnia
 LC-CUBE PTZ
 -35%
@@ -231,9 +231,9 @@ Ceny netto, faktura VAT, doradztwo techniczne.
 Zobacz ofertę montażu → Doradca CTR
 Nie wiesz, co wybrać? Zadzwoń lub napisz do doradcy.
 ◐ Napisz do doradcy → ✆ 504 500 007
-25 lat na rynku CCTV od 2001 r.
+20+ lat na rynku CCTV od 2003 r.
 Wysyłka 24h gdy zamówisz do
-Doradca techniczny pomoc instalatorom 1‑na‑1
+Doradca techniczny pomoc instalatorom 1-na-1
 Autoryzowany dystrybutor Hikvision · Dahua · BCS · Axis
 Darmowa dostawa od 499 zł
 Najlepiej sprzedające
@@ -242,7 +242,7 @@ Zobacz wszystkie →
 ← Zestaw 1 z 4 →
 Promocja Bestseller Rekomendowany
 Axis · ID 44991
-Termowizyjna kamera ip AXIS Q1942-E ★ 5.0 · 7 opinii
+Termowizyjna kamera ip AXIS Q1942-E ★ 5.0 · 1 opinii
 Dostępny
 Wysyłka 24h
 35 149,00 zł netto
@@ -275,53 +275,54 @@ Dodaj do porównania
 Wyprzedaż Promocje i obniżki
 Wszystkie promocje →
 ← Zestaw 1 z 4 →
-Taniej -60 zł Bestseller
-lc-security · ID 8149
-LC-4000 - Rejestrator hybrydowy CCTV / AHD / IP ★ 4.7 · 8 opinii
+Taniej -84 zł Bestseller
+lc-security · ID 10694
+LC-2400-NVR POE 1HDD ★ 0.0 · 0 opinii
 Dostępny
 Wysyłka 24h
-322,61 zł 274,22 zł netto
+340,00 zł 272,00 zł netto
 Do koszyka ♡
 Dodaj do porównania
-Taniej -69 zł Bestseller
-lc-security · ID 8700
-LC-501 AHD PREMIUM - Kamera przemysłowa zewnętrzna ★ 4.9 · 25 opinii
+Taniej -581 zł Bestseller
+hikvision · ID 28400
+hikvision-DS-2CD2T63G2-2LI(4mm) ★ 0.0 · 0 opinii
 Dostępny
 Wysyłka 24h
-373,80 zł 317,73 zł netto
+1350,00 zł 877,52 zł netto
 Do koszyka ♡
 Dodaj do porównania
-Taniej -113 zł Bestseller
-lc-security · ID 8820
-LC-8002 - 8 kanałowy rejestrator hybrydowy ★ 0.0 · 26 opinii
+Promocja Bestseller Rekomendowany
+axis · ID 44991
+Termowizyjna kamera ip AXIS Q1942-E ★ 5.0 · 1 opinii
 Dostępny
 Wysyłka 24h
-615,05 zł 522,79 zł netto
+35 149,00 zł netto
 Do koszyka ♡
 Dodaj do porównania
-Taniej -89 zł Bestseller
-lc-security · ID 9175
-LC-2400-NVR POE - Rejestrator sieciowy IP POE ★ 0.0 · 0 opinii
+Taniej -847 zł Bestseller Rekomendowany
+hikvision · ID 56469
+Kamera ip DS-2CD2T63G2-2LI(4mm) Hikvision 6mp ★ 4.5 · 2 opinii
 Dostępny
 Wysyłka 24h
-480,75 zł 408,64 zł netto
+1350,00 zł 661,50 zł netto
 Do koszyka ♡
 Dodaj do porównania
 Wybierz po kategorii
 Kategorie monitoringu
 Monitoring IP
-5045 szt.
-Zestawy monitoringu
-196 szt.
-Monitoring analogowy
-967 szt.
-Alarmy
-625 szt.
-Wideodomofony i kontrola dostepu
-970 szt.
-Akcesoria
-2778 szt.
-Marki
+5045 produktów
+→ Zestawy monitoringu
+196 produktów
+→ Monitoring analogowy
+967 produktów
+→ Alarmy
+625 produktów
+→ Wideodomofony i kontrola dostępu
+970 produktów
+→ Akcesoria
+2778 produktów
+→ Marki
+→
 Świeżo na półkach
 Nowości
 Wszystkie nowości →
@@ -358,7 +359,7 @@ Dodaj do porównania
 Dobierzemy zestaw monitoringu pod Twój obiekt.
 Dobierzemy kompletny zestaw monitoringu — rejestrator, kamery i okablowanie — pod Twój obiekt. Bez zobowiązań. Zadzwoń albo zostaw kontakt, oddzwonimy.
 Zamów bezpłatną wycenę → Zobacz usługi montażu →
-25 lat
+20+ lat
 na rynku CCTV
 24h
 wysyłka i wycena
@@ -368,7 +369,7 @@ autoryzacja
 wdrożeń rocznie
 ◆ Strefa instalatora & B2B
 Jesteś instalatorem? Pracuj z nami inaczej.
-Od 25 lat zaopatrujemy firmy montażowe i działy techniczne — bez pośredników, z dedykowanym opiekunem.
+Od ponad 20 lat zaopatrujemy firmy montażowe i działy techniczne — bez pośredników, z dedykowanym opiekunem.
 Skontaktuj się → Usługi i montaż →
 01
 Ceny netto
@@ -401,9 +402,20 @@ Nowa kamera GeoVision GeoVision GV-GBLN4800 – Kamera IP Bullet 4MP z Full Colo
 Instalacja i Praktyczne Porady 15 min czytania
 Instalacja kamer kopułkowych Hanwha Vision: Przewodnik krok po kroku
 01.11.2025
-Od 2001 r. wyposażamy instalatorów, firmy i klientów indywidualnych w sprawdzony sprzęt CCTV. Autoryzowany dystrybutor wiodących marek.
-Newsletter dla instalatorów Wkrótce
-Zapisz
+◆ O sklepie CTR
+Sklep z monitoringiem CCTV — kamery IP, rejestratory, alarmy i akcesoria
+CTR to sklep internetowy i dystrybutor systemów zabezpieczeń, który od 2003 roku zaopatruje instalatorów, firmy i klientów indywidualnych w sprawdzony sprzęt do monitoringu. W jednym miejscu skompletujesz cały system wizyjny: kamery IP do domu, firmy i na zewnątrz (w tym kamery obrotowe PTZ ), rejestratory sieciowe NVR i rejestratory DVR/XVR do instalacji analogowych, dyski do monitoringu przystosowane do pracy ciągłej oraz switche PoE i osprzęt sieciowy .
+Nie musisz dobierać elementów pojedynczo. Gotowe zestawy monitoringu IP , zestawy Wi-Fi i zestawy analogowe zawierają dopasowane do siebie kamery, rejestrator i dysk — wystarczy je zamontować i uruchomić. Poza monitoringiem w ofercie są systemy alarmowe (centrale, czujki, sygnalizatory), kontrola dostępu , wideodomofony oraz akcesoria montażowe , zasilanie i okablowanie. Jesteśmy autoryzowanym dystrybutorem marek Hikvision , Dahua, BCS i Axis — pełną listę producentów znajdziesz na stronie marki . Dzięki temu sprzedajemy sprzęt z oficjalnej dystrybucji, z gwarancją producenta i wsparciem serwisowym.
+Przy wyborze sprzętu pomaga doradca techniczny: dobierze kamery, rejestrator i okablowanie do Twojego obiektu i przygotuje wycenę. Możesz też skorzystać z konfiguratora zestawu albo zlecić nam montaż monitoringu . Firmy montażowe i działy techniczne obsługujemy z fakturą VAT do każdego zamówienia i dedykowanym opiekunem. Praktyczne porady — jak dobrać rozdzielczość kamery, ile miejsca na dysku potrzeba na nagrania czy czym różni się NVR od DVR — publikujemy w bazie wiedzy .
+Najczęstsze pytania
+Jak szybko wysyłacie zamówienia? Produkty dostępne w magazynie wysyłamy w ciągu 24 godzin. Zamówienie złożone i opłacone do w dzień roboczy wyjeżdża tego samego dnia.
+Od jakiej kwoty dostawa jest darmowa? Zamówienia od 499 zł brutto wysyłamy kurierem bezpłatnie. Przy niższej kwocie koszt dostawy zależy od wybranego przewoźnika i jest widoczny w koszyku przed zapłatą.
+Pomożecie dobrać monitoring do mojego obiektu? Tak. Doradca techniczny dobierze kamery, rejestrator, dysk i okablowanie pod Twój obiekt i przygotuje wycenę. Zadzwoń pod +48 504 500 007 (pn–pt –) lub napisz na info@ctr.pl.
+Porozmawiaj z doradcą → Czy wystawiacie faktury VAT dla firm? Tak, fakturę VAT wystawiamy do każdego zamówienia. Obsługujemy zarówno klientów indywidualnych, jak i firmy instalacyjne oraz działy techniczne.
+Faktura VAT → Czy mogę zwrócić zakupiony sprzęt? Tak. Konsument może odstąpić od umowy w ciągu 14 dni od otrzymania towaru bez podawania przyczyny. Procedurę zwrotu i reklamacji opisujemy na stronie Reklamacje i zwroty.
+Reklamacje i zwroty → Czy zajmujecie się też montażem monitoringu? Tak. Oprócz sprzedaży sprzętu realizujemy instalacje monitoringu dla domów, firm i obiektów — montaż i konfigurację kamer, rejestratorów oraz okablowania, a także systemów alarmowych i kontroli dostępu.
+Instalacje monitoringu →
+Od 2003 r. wyposażamy instalatorów, firmy i klientów indywidualnych w sprawdzony sprzęt CCTV. Autoryzowany dystrybutor wiodących marek.
 Sklep
 Kamery IP
 Rejestratory
@@ -425,10 +437,10 @@ Szkolenia
 Projekty inwestycyjne
 Faktura VAT
 O CTR
-25 lat historii
+O nas
 Marki które sprzedajemy
+Instalacje monitoringu
 Baza wiedzy
 Kariera
-Polityka prywatności
-© 2001–2026 Elctron E-commerce Partners Sp. z o.o. · NIP 5273052174 · REGON 525059580 · ul. Górczewska 129, 01‑109 Warszawa Regulamin Polityka prywatności Ustawienia cookies
+© 2003–2026 Electron E-commerce Partners Sp. z o.o. · NIP 5273052174 · REGON 525059580 · ul. Górczewska 129, 01-109 Warszawa Regulamin Polityka prywatności Ustawienia cookies
 ⌬

@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -106,13 +106,13 @@ Kable i wtyki CCTV 32
 Akcesoria instalacyjne CCTV 51
 Testery wideo z monitorem LCD 1
 Inne akcesoria CCTV 111
-LAN (4971)
-Wszystkie 4971
-Kable LAN 403
+LAN (4974)
+Wszystkie 4974
+Kable LAN 404
 Patchcordy RJ45 1873
 Szafy RACK 892
-Akcesoria do szaf RACK 898
-Moduły keystone 234
+Akcesoria do szaf RACK 899
+Moduły keystone 235
 Gniazda, wtyki, łączniki LAN 295
 Organizacja kabli 97
 Testery LAN 95
@@ -121,10 +121,10 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2277)
-Wszystkie 2277
+Zasilanie (2278)
+Wszystkie 2278
 Zasilacze UPS 372
-Zasilacze PoE 89
+Zasilacze PoE 90
 Zasilacze buforowe 227
 Zasilacze impulsowe 540
 Adaptery POE 53
@@ -278,8 +278,11 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+Pulsar ARAS1000N – szyny do obudów ARAD, RACK 19″ 1000 mm
+251.1 zł netto
+Do koszyka
 Switch Lanberg RSGE-24P-2GE-2S-360 – 24-portowy PoE+ 360 W
-661.04 zł netto
+655.66 zł netto
 Do koszyka
 MEAN WELL HLG-600H-24B – zasilacz LED 24 V 600 W z funkcją ściemniania
 808.33 zł netto
@@ -298,9 +301,6 @@ MEAN WELL HLG-480H-24 – zasilacz LED 24 V 480 W
 Do koszyka
 Kamera IP tubowa Hikvision DS-2CD2T43G2-4LI(2.8mm) 4 Mpx
 746.57 zł netto
-Do koszyka
-Kamera IP tubowa Hikvision DS-2CD2T43G2-2LI(4mm) 4 Mpx
-714.52 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

@@ -1,4 +1,4 @@
-# SB-777 proplex.com · sitemap · https://www.proplex.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-777 proplex.com · sitemap · https://www.proplex.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-10-27	https://www.proplex.com/proplex
 2025-07-10	https://www.proplex.com/news
 2025-07-10	https://www.proplex.com/news/tmb-proplex-partners-with-backup-tech
@@ -78,7 +78,7 @@
 2026-06-16	https://www.proplex.com/sgbs-10-port-rackmount-switch
 2026-08-05	https://www.proplex.com/buckboost-drive-system
 2026-05-19	https://www.proplex.com/simple-gbs-28port-rackmount-switch
-2026-05-19	https://www.proplex.com/gbs-5port-gigabit-poe-switch-din-rail-mount
+2026-11-12	https://www.proplex.com/gbs-5port-gigabit-poe-switch-din-rail-mount
 2026-06-30	https://www.proplex.com/codebridge
 2026-06-17	https://www.proplex.com/codeclock
 2023-09-19	https://www.proplex.com/thank-you

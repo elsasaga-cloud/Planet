@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-13T09:45:13Z · HTTP 200
+Fri, 13 Nov 2026 09:00:00 +0000	Adquisición de Datos de Robots Industriales: Integración de Información Robótica con PLCs, Gateways de Borde y Sistemas en la Nube	https://www.davantel.com/adquisicion-de-datos-de-robots-industriales-integracion-de-informacion-robotica-con-plcs-gateways-de-borde-y-sistemas-en-la-nube
 Thu, 12 Nov 2026 09:00:00 +0000	10 ajustes de seguridad esenciales en un router industrial antes de instalarlo	https://www.davantel.com/10-ajustes-de-seguridad-esenciales-en-un-router-industrial-antes-de-instalarlo
 Wed, 11 Nov 2026 09:00:00 +0000	Gestión remota empresarial con RMS: características, capacidades y mejores prácticas	https://www.davantel.com/gestion-remota-empresarial-con-rms-caracteristicas-capacidades-y-mejores-practicas
 Tue, 10 Nov 2026 09:00:00 +0000	Router 5G: ¿cómo elegirlo para uso industrial?	https://www.davantel.com/router-5g
@@ -55,6 +56,4 @@ Mon, 03 Aug 2026 08:00:00 +0000	¿Qué es el protocolo LLDP y LLDP-MED?	https://
 Fri, 31 Jul 2026 07:47:48 +0000	¿Cómo configurar un PLC Siemens para que se pueda configurar remotamente con TIA Portal a través de un router con una IP pública fija y accesible?	https://www.davantel.com/como-configurar-un-plc-siemens-para-que-se-pueda-configurar-remotamente-con-tia-portal-a-traves-de-un-router-con-una-ip-publica-fija-y-accesible
 Wed, 29 Jul 2026 08:00:00 +0000	Actualizaciones de firmware de RutOS 7.24 y TswOS 1.10: CANopen, SSO y más	https://www.davantel.com/actualizaciones-de-firmware-de-rutos-7-24-y-tswos-1-10-canopen-sso-y-mas
 Mon, 27 Jul 2026 08:00:00 +0000	MQTT: Protocolo de Mensajería para IoT — Guía Técnica Completa	https://www.davantel.com/mqtt-protocolo-de-mensajeria-para-iot-guia-tecnica-completa
-Fri, 24 Jul 2026 08:00:00 +0000	¿Qué es el ‘Edge Comptuting’ en IoT? La Guía de arquitectura industrial para el 2026	https://www.davantel.com/que-es-el-edge-comptuting-en-iot-la-guia-de-arquitectura-industrial-para-el-2026
-Wed, 22 Jul 2026 08:00:00 +0000	Guía universal para probar y configurar dispositivos Teltonika Telematics	https://www.davantel.com/guia-universal-para-probar-y-configurar-dispositivos-teltonika-telematics
-Mon, 20 Jul 2026 08:00:00 +0000	Guía para la Conex
+Fri, 24 Jul 2026 08:00:00 +0000	¿Qué es el ‘Edge Comptuting’ en IoT? La Guía de arquitectura industrial para el 2026	https://www.davantel.com/que-es-el-edge-comp

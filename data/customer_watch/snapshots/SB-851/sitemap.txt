@@ -1,4 +1,4 @@
-# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-851 tayle.ru · sitemap · https://www.tayle.ru/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 	https://www.tayle.ru/partner_register/
 2017-05-26	https://www.tayle.ru/videos/
 2025-02-06	https://www.tayle.ru/vendor/
@@ -40,6 +40,8 @@
 2023-11-20	https://www.tayle.ru/beguru/
 2026-07-31	https://www.tayle.ru/AEM/
 2026-11-12	https://www.tayle.ru/about/
+2026-11-13	https://www.tayle.ru/pubs/news/2345/
+2026-11-13	https://www.tayle.ru/pubs/news/2344/
 2026-11-11	https://www.tayle.ru/pubs/news/2342/
 2026-11-06	https://www.tayle.ru/pubs/news/2343/
 2026-11-03	https://www.tayle.ru/pubs/news/2341/
@@ -185,10 +187,10 @@
 2021-09-28	https://www.tayle.ru/pubs/news/2008/
 2021-09-28	https://www.tayle.ru/pubs/news/2004/
 2021-09-07	https://www.tayle.ru/pubs/news/1993/
-2021-08-31	https://www.tayle.ru/pubs/maximum/1986/
-2021-08-31	https://www.tayle.ru/pubs/maximum/1989/
-2021-08-31	https://www.tayle.ru/pubs/history_success/1906/
 2021-08-31	https://www.tayle.ru/pubs/tech_detail/1988/
+2021-08-31	https://www.tayle.ru/pubs/history_success/1906/
+2021-08-31	https://www.tayle.ru/pubs/maximum/1989/
+2021-08-31	https://www.tayle.ru/pubs/maximum/1986/
 2021-08-27	https://www.tayle.ru/pubs/news/1991/
 2021-08-20	https://www.tayle.ru/pubs/news/1985/
 2021-08-13	https://www.tayle.ru/pubs/news/1976/
@@ -213,10 +215,10 @@
 2021-05-07	https://www.tayle.ru/pubs/news/1663/
 2021-08-13	https://www.tayle.ru/pubs/news/1880/
 2021-04-30	https://www.tayle.ru/pubs/history_success/1876/
+2021-04-30	https://www.tayle.ru/pubs/maximum/1833/
+2021-04-30	https://www.tayle.ru/pubs/tech_detail/1875/
 2021-04-30	https://www.tayle.ru/pubs/maximum/1874/
 2021-04-30	https://www.tayle.ru/pubs/interview/1877/
-2021-04-30	https://www.tayle.ru/pubs/tech_detail/1875/
-2021-04-30	https://www.tayle.ru/pubs/maximum/1833/
 2024-11-29	https://www.tayle.ru/pubs/news/1866/
 2021-04-26	https://www.tayle.ru/pubs/news/1867/
 2021-04-23	https://www.tayle.ru/pubs/news/1864/
@@ -224,10 +226,10 @@
 2021-04-16	https://www.tayle.ru/pubs/news/1860/
 2021-04-13	https://www.tayle.ru/pubs/news/1858/
 2021-04-12	https://www.tayle.ru/pubs/news/1857/
-2021-04-13	https://www.tayle.ru/pubs/maximum/1851/
 2021-04-13	https://www.tayle.ru/pubs/maximum/1852/
-2021-04-10	https://www.tayle.ru/pubs/news/1856/
 2021-04-14	https://www.tayle.ru/pubs/maximum/1853/
+2021-04-10	https://www.tayle.ru/pubs/news/1856/
+2021-04-13	https://www.tayle.ru/pubs/maximum/1851/
 2021-05-06	https://www.tayle.ru/pubs/news/1855/
 2021-04-06	https://www.tayle.ru/pubs/news/1848/
 2021-04-02	https://www.tayle.ru/pubs/news/1838/
@@ -237,11 +239,9 @@
 2021-03-09	https://www.tayle.ru/pubs/news/1832/
 2021-03-02	https://www.tayle.ru/pubs/news/1830/
 2021-03-02	https://www.tayle.ru/pubs/maximum/1827/
-2021-06-15	https://www.tayle.ru/pubs/history_success/1823/
 2021-02-26	https://www.tayle.ru/pubs/tech_detail/1824/
+2021-06-15	https://www.tayle.ru/pubs/history_success/1823/
 2021-02-24	https://www.tayle.ru/pubs/news/1818/
 2021-02-16	https://www.tayle.ru/pubs/news/1815/
 2021-02-10	https://www.tayle.ru/pubs/news/1812/
-2021-02-02	https://www.tayle.ru/pubs/news/1808/
-2021-03-15	https://www.tayle.ru/pubs/news/1805/
-2021-01-21	https://
+2021-02-02	https://

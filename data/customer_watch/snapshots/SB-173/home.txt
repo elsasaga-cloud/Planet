@@ -1,4 +1,4 @@
-# SB-173 inaxsys.com · home · https://inaxsys.com/en/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-173 inaxsys.com · home · https://inaxsys.com/en/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Best Security Systems Solution | Inaxsys Security Systems
 ICT × Inaxsys: Expanded partnership
 for Protege GX & WX in the USA and Canada.
@@ -24,22 +24,19 @@ Plug & Play Video Recorders
 Inaxsys Servers & Workstations
 All products
 Workstations
-Rackmount Servers
-Servers Optional Upgrades
+Add-ons
 Accessories
+IP Recorders
+IP Servers
 Inaxsys Power Supplies
 All products
-Inaxsys Switches
-All products
-Switches
-Accessories
 ICT Access Control
 All products
 Controllers
 Expansion Modules
 Keypads, Touchscreens & Intercoms
 Wireless Locks
-Readers
+Proximity RFID Readers, Cards & Tags
 Cards & Tags
 Rover
 Training
@@ -47,16 +44,15 @@ Demo Kit
 Server
 Integration Licences
 Protege WX Kits
-Transmitters & Receivers
-Communication Products
+Wireless Products & Accessories
 Power supply
+Enclosures
 Inaxsys Communicators & Receivers
 All products
 LTE communicators
-Intercom System
 Alarm receivers and line cards
 LTE SIM cards
-Cable
+Programming Cables
 Ajax Systems
 All products
 SPECIAL KIT PROMO
@@ -73,14 +69,20 @@ Integration modules
 Power supplies
 Comfort & Productivity
 Video Surveillance
-Portable Security Tower
 Accessories
 Rover Inaxsys
 All products
-Inaxsys Cables
+Mobile Surveillance
 All products
-CAT6
-RS485
+Intercom & Doorbells
+All products
+IP Intercom
+Indoor Monitors
+Networking
+All products
+PoE Switches
+Cables & Connectivity
+Gigabit Switches
 Distributors
 Find a distributor
 Become a distributor
@@ -118,8 +120,6 @@ Inaxsys Servers & Workstations
 Learn More
 Inaxsys Power Supplies
 Learn More
-Inaxsys Switches
-Learn More
 ICT Access Control
 Learn More
 Inaxsys Communicators & Receivers
@@ -128,7 +128,11 @@ Ajax Systems
 Learn More
 Rover Inaxsys
 Learn More
-Inaxsys Cables
+Mobile Surveillance
+Learn More
+Intercom & Doorbells
+Learn More
+Networking
 Learn More
 What's new at Inaxsys ?
 News
@@ -184,12 +188,13 @@ Arkiv Video Management Software
 Inaxsys Video Recorders
 Inaxsys Servers & Workstations
 Inaxsys Power Supplies
-Inaxsys Switches
 ICT Access Control
 Inaxsys Communicators & Receivers
 Ajax Systems
 Rover Inaxsys
-Inaxsys Cables
+Mobile Surveillance
+Intercom & Doorbells
+Networking
 About us
 Careers
 Press center

@@ -1,4 +1,44 @@
-# SB-1014 bluenote.ro · home · https://www.bluenote.ro/ · fetched 2026-11-12T09:57:55Z · HTTP 200
-Lucrăm la noul nostru site de prezentare.
-Între timp,
-vezi site-ul actual .
+# SB-1014 bluenote.ro · home · https://www.bluenote.ro/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+Homepage - BlueNote Communications
+Despre noi
+Produsele noastre
+BlueVoice
+Sisteme de înregistrare a convorbirilor telefonice și radio pentru afaceri
+Soluții SMART
+Monitorizare centralizată și control de la distanță al parametrilor de orice fel
+BlueMonitor
+Platformă de dezvoltare a aplicațiilor SCADA, AMR, IoT și IIoT
+SCADA-Shop.ro
+Magazinul online de echipamente și componente pentru ingineri automatiști
+Soluții avansate
+Soluții de Recording convergente
+Soluții enterprise de înregistrare a convorbirilor telefonice pentru medii hibride, livrate embedded sau virtualization-ready, în arhitecturi cu diverse grade de redundanță și backup.
+Prin BlueVoice aveți la dispoziție:
+• înregistrare prin tapping pasiv a trunchiurilor analogice și ISDN
+• înregistrarea fluxurilor E1
+• înregistrare pasivă VoIP (prin port mirroring) pe codecuri G.711 și G.729
+• recording activ CUCM pentru telefoane cu BIB
+• recording activ Mitel ICP 3300 în configurarea cu criptare activă
+• înregistrare console de comunicații unificate Zetron și Topex
+• înregistrare ambientală pentru dispecerate
+• înregistrare stații radio și sisteme de adresare publică
+Soluții SCADA
+Soluții SCADA avansate construite pe platforma All-in-One BlueMonitor, singura platformă cu suport local complet în România
+Telecitire automată a contoarelor (AMR)
+Soluții de telecitire automată a contoarelor existente în rețelele de distribuție ale Regiilor de utilități
+Managementul consumurilor de utilități
+Soluții de acces online permanent pentru monitorizarea consumurilor energetice și de apă din clădirile publice
+Monitorizarea eficienței energetice
+Soluții de monitorizare a eficienței energetice din fabrici și control avansat al parametrilor de producție
+Contact
+Înregistrare Cerere Suport Tehnic
+Select Page
+Homepage
+Noutățile BlueNote
+Prelucrarea datelor personale
+Gestionarea DEEE
+Am încheiat cu succes implementarea proiectului finanțat prin POS CCE!
+Un nou proiect finanțat din fonduri europene!
+Suntem autorizați pentru proiectarea sistemelor de semnalizare, alarmare și alertare în caz de incendiu
+© BlueNote Communications 2018 - All Rights Reserved | Designed by Dome Agency
+Acest site foloseste cookies. Navigand in continuare, va exprimati acordul asupra folosirii cookie-urilor. Ok, de acord Politica de confidentialitate

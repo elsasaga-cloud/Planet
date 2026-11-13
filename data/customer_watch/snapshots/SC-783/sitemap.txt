@@ -1,5 +1,5 @@
-# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
-2026-11-12	https://www.expressalarm.cz/
+# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-13	https://www.expressalarm.cz/
 2026-03-03	https://www.expressalarm.cz/dokument/12-internal34/
 2025-05-23	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-internal/
 2025-05-09	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-prihlaska/
@@ -86,7 +86,7 @@
 2025-07-25	https://www.expressalarm.cz/dokument/jsme-tu-od-sedmi/
 2021-04-14	https://www.expressalarm.cz/dokument/kamery/
 2026-01-21	https://www.expressalarm.cz/dokument/katalogy/
-2026-10-08	https://www.expressalarm.cz/dokument/kontakt/
+2026-11-12	https://www.expressalarm.cz/dokument/kontakt/
 2023-09-25	https://www.expressalarm.cz/dokument/kravi-hora/
 2026-01-22	https://www.expressalarm.cz/dokument/laudio/
 2021-10-18	https://www.expressalarm.cz/dokument/licence_hikproconnect/

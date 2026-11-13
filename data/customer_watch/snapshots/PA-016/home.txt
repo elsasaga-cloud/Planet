@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-12T09:57:55Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-13T09:45:13Z · HTTP 200
 Centrale telefoniczne voip, Telefony ip i Bramki - voip24sklep.pl - Sklep telekomunikacyjny
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -23,6 +23,33 @@ Produkty w koszyku: 0. Zobacz szczegóły
 Koszyk
 Twój koszyk jest pusty
 Wstecz
+CENTRALE TELEFONICZNE IP PBX
+Wszystko z
+CENTRALE TELEFONICZNE IP PBX
+CENTRALE IP SPRZĘTOWE
+CENTRALA VOIP Z CRM
+CENTRALE IP PROGRAMOWE
+CENTRALE IP HOSTOWANE
+MODUŁY
+LICENCJE
+ZAPOWIEDZI GŁOSOWE
+SYSTEMY TELEKOMUNIKACYJNE
+USŁUGI
+REJESTRATORY ROZMÓW
+Wróć do:
+3CX+ CRM
+Grandstream + CRM
+Slican + CRM
+Yeastar + CRM
+Moduły do central
+Głos męski
+Głos damski
+Do 10 pracowników
+Do 20 pracowników
+Do 50 pracowników
+Do 100 pracowników
+Do 200 pracowników
+Samodzielne
 ROZWIĄZANIA AUDIO-WIDEO
 Wszystko z
 ROZWIĄZANIA AUDIO-WIDEO
@@ -189,33 +216,6 @@ Wróć do:
 Bramy ISDN E1 (PRA/PRI)
 Bramy ISDN BRI (BRA)
 SIM banki
-CENTRALE TELEFONICZNE IP PBX
-Wszystko z
-CENTRALE TELEFONICZNE IP PBX
-CENTRALE IP SPRZĘTOWE
-CENTRALA VOIP Z CRM
-CENTRALE IP PROGRAMOWE
-CENTRALE IP HOSTOWANE
-MODUŁY
-LICENCJE
-ZAPOWIEDZI GŁOSOWE
-SYSTEMY TELEKOMUNIKACYJNE
-USŁUGI
-REJESTRATORY ROZMÓW
-Wróć do:
-3CX+ CRM
-Grandstream + CRM
-Slican + CRM
-Yeastar + CRM
-Moduły do central
-Głos męski
-Głos damski
-Do 10 pracowników
-Do 20 pracowników
-Do 50 pracowników
-Do 100 pracowników
-Do 200 pracowników
-Samodzielne
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -317,6 +317,38 @@ Blog
 Kontakt
 Projekty
 Wstecz
+CENTRALE TELEFONICZNE IP PBX
+Wszystko z
+CENTRALE TELEFONICZNE IP PBX
+CENTRALE IP SPRZĘTOWE
+CENTRALA VOIP Z CRM
+CENTRALE IP PROGRAMOWE
+CENTRALE IP HOSTOWANE
+MODUŁY
+LICENCJE
+ZAPOWIEDZI GŁOSOWE
+SYSTEMY TELEKOMUNIKACYJNE
+USŁUGI
+REJESTRATORY ROZMÓW
+Wróć do:
+Centrale Slican
+Centrale Platan
+Centrale Yeastar
+Centrale FreePBX Sangoma
+Centrale Grandstream
+3CX+ CRM
+Grandstream + CRM
+Slican + CRM
+Yeastar + CRM
+Moduły do central
+Głos męski
+Głos damski
+Do 10 pracowników
+Do 20 pracowników
+Do 50 pracowników
+Do 100 pracowników
+Do 200 pracowników
+Samodzielne
 ROZWIĄZANIA AUDIO-WIDEO
 Wszystko z
 ROZWIĄZANIA AUDIO-WIDEO
@@ -329,6 +361,7 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
+Głośniki
 Wzmacniacze
 Miksery
 Matryce
@@ -336,7 +369,6 @@ Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
-Głośniki
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -357,39 +389,39 @@ Projektory
 Monitory Wielkoformatowe
 Biznesowe
 Hotelowe
+Lampowe
 Laserowe
 Akcesoria
-Lampowe
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
 Grabbery
-Kamery PTZ Obrotowe
 Uchwyty do projektorów
 Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
 Uchwyty do monitorów
-USB
 HDMI
-USB C
+USB
 USB A
+USB C
+Stałe
 Uchylne
 Na ramieniu
 Mobilne wózki
-Stałe
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
+Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -410,25 +442,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
+Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Przewodowe
+Kable przyłączeniowe
 Gąbki
 Adaptery
-Kable przyłączeniowe
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
 Higiena
-Słuchawki
+Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
 Akcesoria
-Słuchawki z radiotelefonem
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -460,10 +492,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
+Analogowe
 Cyfrowe
 Akcesoria
 Morskie
-Analogowe
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -479,18 +511,18 @@ LICENCJE
 UNIFONY IP
 AKCESORIA
 Wróć do:
-Wielorodzinne
 Jednorodzinne
+Wielorodzinne
+Przewodowe
 Bezprzewodowe
 Interkomy
-Przewodowe
+Elementy montażowe
 Ramki
 Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
-Elementy montażowe
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -506,38 +538,6 @@ Bramy FXO
 Bramy ISDN E1 (PRA/PRI)
 Bramy ISDN BRI (BRA)
 SIM banki
-CENTRALE TELEFONICZNE IP PBX
-Wszystko z
-CENTRALE TELEFONICZNE IP PBX
-CENTRALE IP SPRZĘTOWE
-CENTRALA VOIP Z CRM
-CENTRALE IP PROGRAMOWE
-CENTRALE IP HOSTOWANE
-MODUŁY
-LICENCJE
-ZAPOWIEDZI GŁOSOWE
-SYSTEMY TELEKOMUNIKACYJNE
-USŁUGI
-REJESTRATORY ROZMÓW
-Wróć do:
-Centrale Slican
-Centrale Platan
-Centrale Yeastar
-Centrale FreePBX Sangoma
-Centrale Grandstream
-3CX+ CRM
-Grandstream + CRM
-Slican + CRM
-Yeastar + CRM
-Moduły do central
-Głos damski
-Głos męski
-Do 10 pracowników
-Do 20 pracowników
-Do 50 pracowników
-Do 100 pracowników
-Do 200 pracowników
-Samodzielne
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -556,28 +556,28 @@ Bezprzewodowe
 Przewodowe
 Na kartę SIM
 Przemysłowe
-Wewnętrzne
 Zewnętrzne
+Wewnętrzne
 Zarządzalne
 Niezarządzalne
 Typu Smart
 Wkładki SFP
 Licencje
+Urządzenia
 Zestawy
 Licencje
-Urządzenia
+Tower
 Rack
 Compact
-Tower
 USB-A
 USB-C
 Lightning
 Drukarki Pos
 Drukarki etykiet
 Skanery kodów
+Jednostki główne
 Czujniki
 Akcesoria
-Jednostki główne
 NAS Desktop
 NAS Rack
 Dyski NAS
@@ -626,21 +626,21 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
+Gniazda Keystone
 Łączniki kabli
 Wtyki
-Gniazda Keystone
 Kategorii 5
 Kategorii 6
 Kategorii 7
 Box
 Patchcord
 Na m
+Box
 Patchcord
 Na m
-Box
+Stojące
 Wiszące
 Akcesoria
-Stojące
 Puszki
 Uchwyty
 Dyski

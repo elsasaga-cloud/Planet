@@ -1,4 +1,4 @@
-# SB-593 ibdglobal.com · sitemap · https://www.ibdglobal.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-593 ibdglobal.com · sitemap · https://www.ibdglobal.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-04-28	https://www.ibdglobal.com/alta-nuevo-cliente
 2024-10-30	https://www.ibdglobal.com/aviso-legal
 2021-07-05	https://www.ibdglobal.com/categories

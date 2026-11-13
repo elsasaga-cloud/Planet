@@ -1,4 +1,4 @@
-# SB-590 carritech.com · news_1 · https://carritech.com/news-articles/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-590 carritech.com · news_1 · https://carritech.com/news-articles/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Telecom News & Articles | Blog | Carritech Telecommunications
 Skip to content
 Skip to articles
@@ -8,8 +8,8 @@ Technical guidance, industry developments and practical thinking for people mana
 Explore the latest →
 Talk to a specialist →
 Latest article
-Alarm Hygiene: Why Nobody Trusts the Alarm List and How to Fix It
-2 November 2026 Read now →
+Support Contract Governance: What Your Monthly Review Should Cover
+11 November 2026 Read now →
 On our radar
 Access Network
 Asset Management
@@ -21,21 +21,21 @@ Current thinking
 Top stories
 Fresh analysis and practical advice from across the Carritech team.
 General Knowledge
+11 Nov 2026
+Support Contract Governance: What Your Monthly Review Should Cover
+Support contract governance decides whether an outsourced support arrangement works. This article sets out the three review cycles, what a monthly service report should contain, who needs to attend each meeting,…
+Read the story →
+Asset Management
+11 Nov 2026
+Surveying a Site Before Deinstallation: What to Record First
+Read the story →
+Asset Management
+11 Nov 2026
+Chain of Custody: Proving Where Your Old Telecom Equipment Went
+Read the story →
+General Knowledge
 2 Nov 2026
 Alarm Hygiene: Why Nobody Trusts the Alarm List and How to Fix It
-Nobody decides to stop trusting the alarm list; it happens one standing alarm at a time. The four kinds of noise, how to make severity mean something again, and a clean-up…
-Read the story →
-Asset Management
-2 Nov 2026
-Who Owns the Spare? Consignment, Bonded and Customer-Owned Stock
-Read the story →
-Asset Management
-2 Nov 2026
-What a Legacy Network Inventory Should Actually Contain
-Read the story →
-Deinstallation
-2 Nov 2026
-Stripping a Decommissioned Site: What to Keep, Sell, Repair or Scrap
 Read the story →
 Browse the newsroom
 Find the insight you need
@@ -44,23 +44,41 @@ Search articles
 Search
 All topics
 Access Network 14
-Asset Management 26
+Asset Management 28
 Company News 13
 Core Network 11
 Data Network 15
-Deinstallation 12
-General Knowledge 29
+Deinstallation 13
+General Knowledge 31
 Industry News 35
 L3 Remote Technical Support 22
 Manufacturers 59
 Optics 8
 Parts Supply 34
-Recycling 22
+Recycling 23
 Repair & Refurbishment 26
-Support 75
+Support 78
 Transport Network 27
-137 articles
+140 articles
 Clear filters
+Asset Management
+2 Nov 2026
+Who Owns the Spare? Consignment, Bonded and Customer-Owned Stock
+Who paid for the card in the rack room, and who owns it now that it is fitted? Customer-owned, consignment, supplier-held and bonded stock compared,…
+9 min read
+Read article →
+Asset Management
+2 Nov 2026
+What a Legacy Network Inventory Should Actually Contain
+Most legacy inventories are accurate at shelf level and vague at card level. What the record should actually contain, and how to rebuild one that…
+9 min read
+Read article →
+Deinstallation
+2 Nov 2026
+Stripping a Decommissioned Site: What to Keep, Sell, Repair or Scrap
+Grading decisions made between the loading bay and the recycler decide whether a site clearance pays for itself. Four outcomes in order of value, and…
+8 min read
+Read article →
 Network Support Services
 2 Nov 2026
 Setting Up a Test Shelf: Turning a Spare Chassis Into a Test Rig
@@ -96,24 +114,6 @@ General Knowledge
 Refurbished Telecom Equipment Warranty: What 12 Months Really Covers
 Twelve months, parts replaced, no quibble. The headline is not the commitment. What counts as a defect on a used unit, how fast a replacement…
 8 min read
-Read article →
-Asset Management
-21 Oct 2026
-What Happens to a Telecom Rack After It Leaves Your Site
-A collection is booked, pallets disappear, and a certificate arrives weeks later. Here is what actually happens to a rack of redundant telecom equipment in…
-8 min read
-Read article →
-Deinstallation
-21 Oct 2026
-Site Access for Third-Party Engineers: Permits, Vetting and Escorts
-Telecom site access is three separate gates, not one: clearance of the person, authorisation of the work and physical entry. Here is what each involves…
-8 min read
-Read article →
-Network Support Services
-21 Oct 2026
-Emergency Telecom Spares: What Actually Gets a Card to Site in 12 Hours
-An emergency telecom spare rarely arrives late because of the courier. Identification, stock position, dangerous goods rules, customs and site access are where the hours…
-9 min read
 Read article →
 Load more articles ↓
 Independent support for legacy, end-of-life and multi-vendor telecom networks.

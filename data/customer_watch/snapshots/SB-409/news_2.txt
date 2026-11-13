@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -111,15 +111,15 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-Lorex vs Uniview 8MP Turret – Image Quality
-Lorex and Uniview are popular choices for security, but how does their image quality compare? We installed one camera from…
-December 8, 2023
-Should I Use an SSD or HDD inside an NVR?
-An HDD and SSD both accomplish the same task (storing footage) but in different ways. A hard drive is a…
-June 24, 2024
-How to Tell if a CCTV Camera is Recording Audio (with examples)
-Did you know security cameras are commonly being made with microphones built-in? How can you tell if it's recording audio…
-March 8, 2024
+Uniview 4MP Dual Dome Camera – Testing & Review
+The UNV 4MP Dual Dome has two cameras that can be aimed independently. Using a single cable, it takes up…
+January 23, 2024
+Case Study: Uniview protects Electronics Recycling Depot
+Canada's largest e-waste recycling is using Uniview cameras in their facility. We made sure their needs were met, and the…
+January 22, 2024
+Uniview Releases Multi-Sensor Dome Camera (IPC8645EA-ADZKM-I1)
+Released in Q4 2024, the new Uniview multi-sensor camera contains four lenses in a single housing. The lenses can be…
+December 13, 2024
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account

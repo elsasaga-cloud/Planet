@@ -1,11 +1,7 @@
-# SB-021 LOOP TELECOM · intel_news_en · https://news.google.com/rss/search?q=%22Loop%20Telecommunication%20International%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-12T09:57:55Z · HTTP 200
-Wed, 04 Nov 2026 08:35:14 GMT	Loop Telecommunication International, Inc. (3025.TW) Seasonal returns chart - Yahoo Finance Singapore	https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhTk4tcEdLbHBIQ25JajZDcXNuZFJocUtxcjUzZWhqb3ZoSkhkY25wUnRhQVhIRnNLOGQtUmxya0dRVjdnZElQTk5lNUlrSjF5NE5fOGVJZVM2UXN4NjBZNlZRSkRIdw?oc=5
-Sun, 25 Oct 2026 20:23:59 GMT	Loop Telecommunication International, Inc. Estimates – TWSE:3025 - TradingView	https://news.google.com/rss/articles/CBMidkFVX3lxTE9TVzNnZ0R2V0Q2SjNEalVQcEdpdHV3LUlGNVgtMGhfVzJncEh5NEtBZ2ZmWEthUDNJaVAwcXN4cVo1Vk5Fc1M4LXo0VF9DS3BBQVNJWjFhelVJOHNDcmt4YVBtOW0ySFJST0oxTERyOFNITWJNMVE?oc=5
-Mon, 09 Nov 2026 16:23:47 GMT	Alltek Technology Corporation (3209.TW) Seasonal returns chart - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiZkFVX3lxTE04Rko3M1lCQ1FrY2ZfZk4zYnRuTE5WdmF1YlZtSzJQYmZOaS1rSGhPXzduOGJxWkRTZlFEa21jRzVUdzZmeElDYktYbUs2UDdLSGRzNmUzdUtXOVp1SUJoal9lcGVkdw?oc=5
-Thu, 30 Sep 2021 15:27:06 GMT	7402 Stock Price and Chart — TPEX:7402 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Nmplb3lFQldzR0RUQmtQQ2tHVmh2N3FMNHBMLUJ2MExTUmVqekI3QnplS0tzVFFMLTNCeFBEVWlJZXo1X2JQbXZpekl0VFBtNWJFVDVIbzJtdw?oc=5
-Sat, 07 Nov 2026 22:41:23 GMT	Wha Yu Industrial Co., Ltd. (3419.TW) Seasonal returns chart - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rYkxXYzk1N3RaVTFCVWxsVnFpdGtncnZ2TkdUQ0l6eFlYZnp4VnBYa244Q3QzX0pCTlZ3YnZLOGxoZDktNVd4alNLYWZqWi1pODMySFhmZ2FzY2luTGdKY29IR1V5UQ?oc=5
-Fri, 06 Nov 2026 05:30:30 GMT	XAVi Technologies Corporation (3447.TW) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore	https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrOFYzZzdnZFVSMXpsamk2VFQ5Vl9zR2tuZVNiOXJsYkFuQ29qRDhTNmR0UHoyMTd4WnBVT3ZUalRxRDBqc1Q2VURZNXREdldWREJ0SnRHMWpOT1BEaVF2ak5hZEF5UQ?oc=5
-Sat, 22 Jul 2017 02:07:15 GMT	4906 Stock Price and Chart — TWSE:4906 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKaWpYLTEtWXZqRGNVSTNtVDYtLTRkSDJmTlY4aWdjSHM0aUFyYzZYRHFydU5EalhLaFRhQk9OVGs5azdscnJRZ1FkZ0NaSGVyRnhkMWNPeVRoUQ?oc=5
-Wed, 04 Nov 2026 20:02:32 GMT	Wanshih Electronic Co., Ltd. (6134.TWO) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Jczl5dEpHa1hpbG9wYlp4b1g1NjRYN2pxcGxKd3h1d0NhRmVnc1RXSWtWYUd2aU5vcTRlS0dtbmlSYzJTdzJKdmJ3eTNOcnd2OXRiNlVsaGdVWGdPOEFySVJTQjk2QWc?oc=5
-Mon, 09 Nov 2026 07:57:29 GMT	DrayTek Corporation (6216.TW) Seasonal returns chart - Yahoo Finance Australia	https://news.google.com/rss/articles/CBMiZkFVX3lxTE56UzJ6ejVlaFJvM1d1WlBPcnB0MEhzdmxPYVNEbENnbzZJanhBOEw4WHlIdjNsOVFCQk01MEhfRk5EM1lscHZfME5aa1U1Y3FORFdRanJPLW5SNkltbUpTNHFna0dLQQ?oc=5
-Mon, 12 Jun 2017 08:31:48 GMT	AzureWave Technologies, Inc. (3694.TW) stock price, news, quote and history - Yahoo Finance Singapore	https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YM0xxcktQUUZTRHJvaGhWcXltX3BfMFAxZE1ZREZfOHJ3OE5COUFsQmhMSDFXdGpsZ2t0MjJybV9id2NRaVBOMmhGVjhselREYVdCc3N3?oc=5
+# SB-021 LOOP TELECOM · intel_news_en · https://news.google.com/rss/search?q=%22Loop%20Telecommunication%20International%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-13T09:45:13Z · HTTP 503
+Sorry... G o o g l e
+Sorry...
+We're sorry...
+... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
+See Google Help for more information.
+Google Home

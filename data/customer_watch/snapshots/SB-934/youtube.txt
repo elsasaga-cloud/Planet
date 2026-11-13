@@ -1,4 +1,5 @@
-# SB-934 alibisecurity.com · youtube · https://www.youtube.com/c/Sctechnologies · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-934 alibisecurity.com · youtube · https://www.youtube.com/c/Sctechnologies · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-12T22:08:21+00:00	Alibi Vigilant AI NVR Lineup - Smarter Video Surveillance & Search	https://www.youtube.com/watch?v=BFHsCVTtyJQ
 2026-10-13T21:19:54+00:00	Alibi Vigilant Mobile 2: How to Find, Record & Share Security Footage from Your Phone	https://www.youtube.com/watch?v=_9WPnUoJnk0
 2026-09-01T23:20:52+00:00	Alibi Vigilant Mobile 2 Pro: Complete App Overview & Setup Guide	https://www.youtube.com/watch?v=WuL7ONUGkRw
 2026-07-28T14:25:28+00:00	Alibi Vigilant Mobile 2: How to Configure & Manage Mobile Notifications	https://www.youtube.com/watch?v=wN0EFJSUO5M
@@ -13,4 +14,3 @@
 2026-02-24T16:33:34+00:00	LIVE Webinar: Alibi Vigilant: Unlocking the Latest DMP & Brivo Integrations	https://www.youtube.com/watch?v=hKfMC5fG_nU
 2026-02-13T15:01:09+00:00	How to Add Your Logo to Alibi Vigilant Mobile 2.0 (Co-Branding Setup Guide)	https://www.youtube.com/watch?v=by9LKtSmgls
 2026-02-13T15:01:06+00:00	Alibi Vigilant Mobile 2: Remote Service Provider Setup Guide (3 Easy Methods)	https://www.youtube.com/watch?v=b0PFPqYaQEY
-2026-02-04T14:37:13+00:00	DMP Integration Setup in Alibi Vigilant | Panel Configuration, Rules & Event Search	https://www.youtube.com/watch?v=w0xKUAuBiHo

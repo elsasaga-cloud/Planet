@@ -1,4 +1,38 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+Fri, 13 Nov 2026 00:54:51 GMT	[드라이버] ipTIME A3000U, A3000UA, A3000UA-2, A3000mini, A3000UA5 Linux 드라이버 (V5.8.7.4)	https://iptime.com/support/downloads/27870
+Thu, 12 Nov 2026 08:56:16 GMT	[ipTIME 스위칭 허브] 단종된 스위칭 허브의 후속 모델 안내	https://iptime.com/support/faq/27869
+Thu, 12 Nov 2026 08:54:18 GMT	[ipTIME 랜카드] 6GHz(Wi-Fi 6E·Wi-Fi 7) 와이파이가 검색되지 않을 때	https://iptime.com/support/faq/27868
+Thu, 12 Nov 2026 08:49:02 GMT	[ipTIME 스위칭 허브] 스위칭 허브가 뜨겁거나 팬 소음이 날 때	https://iptime.com/support/faq/27867
+Thu, 12 Nov 2026 08:44:58 GMT	[ipTIME 랜카드] 무선랜카드가 인식되지 않을 때	https://iptime.com/support/faq/27866
+Thu, 12 Nov 2026 08:39:40 GMT	[ipTIME 스위칭 허브] SFP 포트 사용 방법과 SFP 모듈 선택 가이드	https://iptime.com/support/faq/27865
+Thu, 12 Nov 2026 08:35:46 GMT	[ipTIME 스위칭 허브] SG 시리즈 전면 스위치(Default·VLAN·Extend) 모드 설정 방법	https://iptime.com/support/faq/27864
+Thu, 12 Nov 2026 08:25:37 GMT	[ipTIME 랜카드] 인터넷이 안 되는 PC에 무선랜카드 드라이버 설치하는 방법	https://iptime.com/support/faq/27863
+Thu, 12 Nov 2026 08:23:26 GMT	[ipTIME 스위칭 허브] 16포트·24포트 스위칭 허브 선택 가이드 (랙형·미니형)	https://iptime.com/support/faq/27862
+Thu, 12 Nov 2026 08:02:51 GMT	[ipTIME 랜카드] 2.5기가 인터넷·NAS에 적합한 유선랜카드	https://iptime.com/support/faq/27861
+Thu, 12 Nov 2026 07:57:32 GMT	[ipTIME 랜카드] Windows 11에서 드라이버 설치 없이 인식되는 랜카드 모델	https://iptime.com/support/faq/27860
+Thu, 12 Nov 2026 07:42:14 GMT	[ipTIME 랜카드] 데스크톱에 와이파이가 없을 때 어떤 무선랜카드를 사야 하나요?	https://iptime.com/support/faq/27859
+Thu, 12 Nov 2026 07:28:41 GMT	[ipTIME 랜카드] 유선랜카드가 100Mbps로 연결될 때	https://iptime.com/support/faq/27858
+Thu, 12 Nov 2026 07:27:24 GMT	[ipTIME 랜카드] 3만 원 이하 USB 무선랜카드 고르는 방법	https://iptime.com/support/faq/27857
+Thu, 12 Nov 2026 07:23:53 GMT	[ipTIME 랜카드] 단종 랜카드의 드라이버와 A/S는 어떻게 되나요?	https://iptime.com/support/faq/27856
+Thu, 12 Nov 2026 07:23:20 GMT	[ipTIME 랜카드] 무선랜카드 연결이 자주 끊길 때	https://iptime.com/support/faq/27855
+Thu, 12 Nov 2026 07:18:46 GMT	[ipTIME 랜카드] 안테나·크래들 설치 위치로 무선 수신율 높이는 방법	https://iptime.com/support/faq/27854
+Thu, 12 Nov 2026 07:17:59 GMT	[ipTIME 랜카드] PCIe 무선랜카드 장착과 블루투스 헤더 케이블 연결 방법	https://iptime.com/support/faq/27853
+Thu, 12 Nov 2026 07:07:56 GMT	[ipTIME 랜카드] 노트북에 LAN 포트가 없을 때 사용하는 유선랜카드	https://iptime.com/support/faq/27852
+Thu, 12 Nov 2026 07:07:21 GMT	[ipTIME 스위칭 허브] 2.5기가 스위칭 허브 선택 가이드	https://iptime.com/support/faq/27851
+Thu, 12 Nov 2026 07:04:07 GMT	[ipTIME 랜카드] 블루투스도 지원하는 무선랜카드가 있나요?	https://iptime.com/support/faq/27850
+Thu, 12 Nov 2026 06:59:40 GMT	[ipTIME 랜카드] 맥(Mac)·리눅스에서 사용할 수 있는 랜카드가 있나요?	https://iptime.com/support/faq/27849
+Thu, 12 Nov 2026 06:59:35 GMT	[ipTIME 스위칭 허브] 관리형(매니지먼트) 스위칭 허브와 일반 스위칭 허브 차이 비교	https://iptime.com/support/faq/27848
+Thu, 12 Nov 2026 06:55:43 GMT	[ipTIME 랜카드] 무선랜카드·유선랜카드 무상 A/S 기간과 구성물	https://iptime.com/support/faq/27847
+Thu, 12 Nov 2026 06:47:01 GMT	[ipTIME 랜카드] USB 무선랜카드와 PCIe 무선랜카드, 어떤 것을 사야 하나요?	https://iptime.com/support/faq/27846
+Thu, 12 Nov 2026 06:46:59 GMT	[ipTIME 스위칭 허브] 10기가 스위칭 허브(HG10008)가 필요한 경우와 연결 방법	https://iptime.com/support/faq/27845
+Thu, 12 Nov 2026 06:43:03 GMT	[ipTIME 랜카드] 공유기와 먼 방에서 수신이 잘 되는 무선랜카드와 안테나 설치 방법	https://iptime.com/support/faq/27844
+Thu, 12 Nov 2026 06:39:57 GMT	[ipTIME 랜카드] 온라인 게임·화상회의용 무선랜카드 선택 방법	https://iptime.com/support/faq/27843
+Thu, 12 Nov 2026 06:37:45 GMT	[ipTIME 랜카드] Wi-Fi 7 무선랜카드는 어떤 경우에 필요한가요?	https://iptime.com/support/faq/27842
+Thu, 12 Nov 2026 06:32:10 GMT	[ipTIME 랜카드] PCIe 무선랜카드 블루투스가 동작하지 않을 때	https://iptime.com/support/faq/27841
+Thu, 12 Nov 2026 06:30:33 GMT	[ipTIME 랜카드] 무선랜카드 속도가 느릴 때	https://iptime.com/support/faq/27840
+Thu, 12 Nov 2026 06:22:37 GMT	[ipTIME 랜카드] PCIe 무선랜카드는 인텔·AMD 메인보드에서 모두 쓸 수 있나요?	https://iptime.com/support/faq/27839
+Thu, 12 Nov 2026 06:05:57 GMT	[ipTIME 랜카드] 단종 랜카드와 후속 모델 대응표	https://iptime.com/support/faq/27838
+Thu, 12 Nov 2026 05:58:47 GMT	[ipTIME 랜카드] 무선랜카드·유선랜카드 현행 모델 한눈에 보기	https://iptime.com/support/faq/27837
 Wed, 11 Nov 2026 05:57:02 GMT	ipTIME BE5100plus 출시 기념 포토리뷰 이벤트!!	https://iptime.com/notices/27836
 Wed, 11 Nov 2026 05:37:59 GMT	ipTIME 통합 관리 시스템 ICC(Integrated Control Center) 1.02.4 버전 배포	https://iptime.com/notices/27835
 Wed, 11 Nov 2026 00:32:35 GMT	[펌웨어] ipTIME 유무선 공유기 펌웨어 16.00.8 배포	https://iptime.com/notices/27834
@@ -15,37 +49,3 @@ Tue, 10 Nov 2026 01:10:08 GMT	[ipTIME 카메라] 공유기(Wi-Fi)를 바꾸면 �
 Mon, 09 Nov 2026 12:26:45 GMT	[ipTIME Extender] 확장기를 무선랜카드처럼 사용하는 방법	https://iptime.com/support/faq/27821
 Mon, 09 Nov 2026 06:45:10 GMT	[ipTIME Extender] 와이파이 이름을 공유기와 같게 할지, 다르게 할지	https://iptime.com/support/faq/27820
 Mon, 09 Nov 2026 06:38:32 GMT	[ipTIME Extender] 확장기 LAN 포트에 PC·스마트TV·셋톱박스 연결하기	https://iptime.com/support/faq/27819
-Mon, 09 Nov 2026 06:00:30 GMT	[ipTIME Outdoor AP] 마당·주차장 등 실외까지 와이파이를 확장하려면 (Outdoor-A900)	https://iptime.com/support/faq/27818
-Mon, 09 Nov 2026 05:54:17 GMT	[ipTIME Ring AP] 매장·사무실 천장에 Ring AP를 여러 대 설치하는 방법	https://iptime.com/support/faq/27817
-Mon, 09 Nov 2026 05:15:07 GMT	[ipTIME Ring AP] Ring AP 벽·천장 설치와 전원 연결 방법	https://iptime.com/support/faq/27816
-Mon, 09 Nov 2026 04:44:32 GMT	[ipTIME Extender] 스마트폰 앱으로 확장기 설정하기	https://iptime.com/support/faq/27815
-Mon, 09 Nov 2026 04:15:41 GMT	[ipTIME Extender] WPS 버튼으로 1분 만에 연결하기	https://iptime.com/support/faq/27814
-Mon, 09 Nov 2026 04:01:04 GMT	[ipTIME Extender] LED 표시등으로 설치 위치 확인하는 방법	https://iptime.com/support/faq/27813
-Mon, 09 Nov 2026 03:14:33 GMT	[ipTIME Extender] 확장기는 집 안 어디에 설치해야 하나요?	https://iptime.com/support/faq/27812
-Mon, 09 Nov 2026 03:07:24 GMT	[ipTIME Extender] 확장기 설정 화면에 접속하는 방법	https://iptime.com/support/faq/27811
-Mon, 09 Nov 2026 02:57:50 GMT	[ipTIME Extender] 확장기 초기화(리셋) 방법	https://iptime.com/support/faq/27810
-Mon, 09 Nov 2026 02:52:23 GMT	[ipTIME Extender] 공유기 비밀번호를 바꾼 뒤 확장기가 안 될 때	https://iptime.com/support/faq/27809
-Mon, 09 Nov 2026 02:42:47 GMT	[ipTIME Extender] 자주 끊기거나 방을 옮기면 느린 와이파이에 계속 연결될 때	https://iptime.com/support/faq/27808
-Mon, 09 Nov 2026 02:38:37 GMT	[ipTIME Extender] 연결은 됐는데 인터넷이 안 될 때	https://iptime.com/support/faq/27807
-Mon, 09 Nov 2026 02:36:30 GMT	[ipTIME Extender] 확장기의 와이파이 이름(SSID)이 안 보일 때	https://iptime.com/support/faq/27806
-Mon, 09 Nov 2026 02:25:40 GMT	[ipTIME Extender] 확장기를 설치했는데 속도가 절반으로 줄었을 때	https://iptime.com/support/faq/27805
-Mon, 09 Nov 2026 01:06:38 GMT	[ipTIME Extender] 확장기가 공유기에 연결되지 않을 때	https://iptime.com/support/faq/27804
-Mon, 09 Nov 2026 00:52:30 GMT	[ipTIME Extender] 유선 백홀과 무선 백홀의 차이, 무엇이 더 빠른가요?	https://iptime.com/support/faq/27803
-Mon, 09 Nov 2026 00:51:55 GMT	[ipTIME Extender] 확장기를 2대 이상 연결할 수 있나요?	https://iptime.com/support/faq/27802
-Mon, 09 Nov 2026 00:51:12 GMT	[ipTIME Extender] 타사 공유기와 함께 쓸 수 있나요?	https://iptime.com/support/faq/27801
-Mon, 09 Nov 2026 00:50:37 GMT	[ipTIME Extender] 통신사 공유기(KT, SK, LG U+)에 ipTIME 확장기를 연결할 수 있나요?	https://iptime.com/support/faq/27800
-Mon, 09 Nov 2026 00:47:29 GMT	[ipTIME Ring AP] Ring AP 모델별 차이 (Ring-BE3600plus, Ring-AX3000, Ring-GIGA3, Ring-mini3)	https://iptime.com/support/faq/27799
-Mon, 09 Nov 2026 00:46:52 GMT	[ipTIME Extender] 공유기가 Wi-Fi 5인데 Wi-Fi 6 확장기를 사도 되나요?	https://iptime.com/support/faq/27798
-Mon, 09 Nov 2026 00:46:18 GMT	[ipTIME Extender] 5만 원 이하 확장기는 어떤 모델이 있나요?	https://iptime.com/support/faq/27797
-Mon, 09 Nov 2026 00:45:42 GMT	[ipTIME Extender] Extender-AX3000Q와 Extender-AX1500T의 차이	https://iptime.com/support/faq/27796
-Mon, 09 Nov 2026 00:45:07 GMT	[ipTIME Extender] Wi-Fi 7 확장기(Extender-BE3600Q)는 어떤 경우에 필요한가요?	https://iptime.com/support/faq/27795
-Mon, 09 Nov 2026 00:42:30 GMT	[ipTIME Extender] 복층·주택·긴 구조의 집에서 확장하는 방법	https://iptime.com/support/faq/27794
-Mon, 09 Nov 2026 00:41:55 GMT	[ipTIME Extender] 방에서 화상회의·온라인 수업이 끊길 때 맞는 확장기	https://iptime.com/support/faq/27793
-Mon, 09 Nov 2026 00:41:19 GMT	[ipTIME Extender] 부모님 댁에 설치하기 쉬운 확장기	https://iptime.com/support/faq/27792
-Mon, 09 Nov 2026 00:40:02 GMT	[ipTIME Extender] 거실은 잘 되는데 안방만 와이파이가 약할 때	https://iptime.com/support/faq/27791
-Mon, 09 Nov 2026 00:39:27 GMT	[ipTIME Extender] 30평대 아파트에서 확장기는 몇 대, 어떤 모델이 필요한가요?	https://iptime.com/support/faq/27790
-Mon, 09 Nov 2026 00:34:42 GMT	[ipTIME Extender] 구 UI(펌웨어 14 이하) 설정 방법 모음	https://iptime.com/support/faq/27789
-Sat, 07 Nov 2026 01:52:58 GMT	[공지] ipTIME CCTV 앱(안드로이드) 계정 가입 시 인증번호 미발송 현상 해결	https://iptime.com/notices/27788
-Fri, 06 Nov 2026 08:58:22 GMT	[ipTIME Extender] 단종 모델의 펌웨어와 A/S는 어떻게 되나요?	https://iptime.com/support/faq/27786
-Fri, 06 Nov 2026 08:57:29 GMT	[ipTIME Ring AP] 단종 Ring AP와 후속 모델 대응표	https://iptime.com/support/faq/27785
-Fri, 06 Nov 2026 08:32:21 GMT	[ipTIME 카메라] 홈캠 AI 감지는 유료인가요? 구독해야 하나요?	https://iptime.com/support/faq/27784

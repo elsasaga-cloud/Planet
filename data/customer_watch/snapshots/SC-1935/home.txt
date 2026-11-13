@@ -1,4 +1,4 @@
-# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 ADDER AKCP HW-group kvm-tec Moxa Neol - Leunig
 sales@leunig.de
 0800 40 77 88 1 ( +49 8631 986000 )
@@ -50,6 +50,8 @@ Bewegung, Vibration, andere Sensoren
 GSM, SMS Alarmierung
 IP Thermometer
 Serverraum Monitoring
+AKCP
+HW group
 Serverraum Überwachung anzeigen
 Industrie-Komponenten
 Industrie-Komponenten anzeigen
@@ -156,12 +158,14 @@ Moxa ioLogik E1212 I/O Controller, I/O Controller, 8DI/8, 2-port Switch
 TOP
 -15%
 Moxa ioLogik E1214, Remote Ethernet I/O,...
+FRISCHE WARE spätestens AM 04.12.2026.
 Remote Ethernet I/O mit 6 digitalen Eingängen und 6 Relaisausgängen. 2-Port Ethernet Switch für Daisy-Chain. Modbus TCP, EtherNet/IP, SNMP, RESTful API. Lagernd, Versand 1–3 Tage.
 Lieferzeit:
-1-3 Tage
+ca. 2 Wochen
 Nur 199,50 EUR
 Lieferzeit:
-1-3 Tage
+ca. 2 Wochen
+FRISCHE WARE spätestens AM 04.12.2026.
 Remote Ethernet I/O mit 6 digitalen Eingängen und 6 Relaisausgängen. 2-Port Ethernet Switch für Daisy-Chain. Modbus TCP, EtherNet/IP, SNMP, RESTful API. Lagernd, Versand 1–3 Tage.
 TOP
 -6%
@@ -252,12 +256,14 @@ Der unmanaged 8-Port-Switch Opal8GL, 8 Ports, Gigabit, erweiterter Temperaturber
 TOP
 -15%
 Moxa ioLogik E1214, Remote Ethernet I/O,...
+FRISCHE WARE spätestens AM 04.12.2026.
 Remote Ethernet I/O mit 6 digitalen Eingängen und 6 Relaisausgängen. 2-Port Ethernet Switch für Daisy-Chain. Modbus TCP, EtherNet/IP, SNMP, RESTful API. Lagernd, Versand 1–3 Tage.
 Lieferzeit:
-1-3 Tage
+ca. 2 Wochen
 Nur 199,50 EUR
 Lieferzeit:
-1-3 Tage
+ca. 2 Wochen
+FRISCHE WARE spätestens AM 04.12.2026.
 Remote Ethernet I/O mit 6 digitalen Eingängen und 6 Relaisausgängen. 2-Port Ethernet Switch für Daisy-Chain. Modbus TCP, EtherNet/IP, SNMP, RESTful API. Lagernd, Versand 1–3 Tage.
 -15%
 AdderView PRO 4 Port DisplayPort KVM Switch,...
@@ -390,15 +396,4 @@ Aktuelle Themen
 {{#title}}
 {{title}}
 {{/title}}
-{{{items.src}}}
-{{#showButtons}}
-{{#buttons}}
-{{name}}
-{{/buttons}}
-{{/showButtons}}
-{{#content}}
-{{.}}
-{{/content}}
-{{#content}}
-{{{.}}}
-{{/content}}
+{{{items.src}}

@@ -1,4 +1,4 @@
-# XC-M101 Autic System AS · home · https://www.autic.no/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M101 Autic System AS · home · https://www.autic.no/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Automasjonsutstyr & programvare - Autic System AS
 Hopp rett til innholdet
 Logg Inn
@@ -206,8 +206,6 @@ Analoge I/O
 Digitale I/O
 Mix I/O
 PoE I/O
-Analoge I/O
-Digitale I/O
 Mix I/O
 Indikatorer
 Grafiske panelinstrumenter
@@ -378,8 +376,6 @@ Analoge I/O
 Digitale I/O
 Mix I/O
 PoE I/O
-Analoge I/O
-Digitale I/O
 Mix I/O
 Indikatorer
 Grafiske panelinstrumenter

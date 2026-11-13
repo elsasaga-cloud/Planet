@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -80,6 +80,7 @@
 2026-09-08	https://www.ecin.ca/success-stories-hydro-quebec
 2026-08-24	https://www.ecin.ca/success-stories-latin-america
 2026-09-08	https://www.ecin.ca/success-stories-targo
+2026-11-12	https://www.ecin.ca/success-stories-uae
 2026-09-23	https://www.ecin.ca/telecom-isp
 2026-09-08	https://www.ecin.ca/terms-conditions
 2026-04-16	https://www.ecin.ca/thank-you
@@ -121,7 +122,6 @@
 	https://www.ecin.ca/shop/en-osfp-fr4-400g-fr4-osfp-finned-top-pam4-1310nm-2km-duplex-lc-smf-transceiver-5717
 	https://www.ecin.ca/shop/en-osfp-lr4-400g-lr4-osfp-finned-top-pam4-1310nm-10km-duplex-lc-smf-optical-transceiver-10850
 	https://www.ecin.ca/shop/en-qdd-srbd-400g-qsfp-dd-bidi-multimode-transceiver-sr4-2-srbd-mpo-100m-5720
-	https://www.ecin.ca/shop/en-qdd-dco-zr-p-tof-400g-qsfp-dd-openzr-high-power-dwdm-coherent-module-tunable-c-band-lc-tof-10756
 	https://www.ecin.ca/shop/en-q112-400-dr4-400g-qsfp112-dr4-transceiver-10927
 	https://www.ecin.ca/shop/en-q112-400-fr4-400g-qsfp112-fr4-transceiver-10928
 	https://www.ecin.ca/shop/en-q112-400-sr4-400g-qsfp112-sr4-transceiver-10926
@@ -143,4 +143,4 @@
 	https://www.ecin.ca/shop/en-qdd-lr8-400gbase-lr8-qsfp-dd-xcvr-10km-smf-fiber-lc-msa-6577
 	https://www.ecin.ca/shop/en-osfp-xdr4-400gbase-xdr4-dr-osfp-finned-top-pam4-1310nm-2km-mpo-12-smf-transceiver-5716
 	https://www.ecin.ca/shop/en-qsfp40g-er4-40g-er4-qsfp-1310nm-40km-dom-duplex-lc-upc-smf-optical-transceiver-4815
-	https://www.ecin.ca/shop/en-qsfp4
+	https://www.ecin.ca/shop/en-qsfp40g-ir4-40g-ir4-plrl4-qsfp-4x10gbase-ir-lr-1310nm-2km-dom-mpo-12-apc-smf-opt

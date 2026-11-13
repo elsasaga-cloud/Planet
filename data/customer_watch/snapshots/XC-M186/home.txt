@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-13T09:45:13Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -122,6 +122,7 @@ Venitem
 Veracity
 Vivotek
 Western Digital
+Wi-Tek
 X-Sense
 Yuasa
 Intruder
@@ -457,6 +458,7 @@ Seagate
 Tele2 IoT
 TVT
 Western Digital
+Wi-Tek
 Server Client Bridge
 2N
 Axis Communications
@@ -551,6 +553,7 @@ Paxton
 Pulsar
 TVT
 Veracity
+Wi-Tek
 IP-Hardware
 2N
 Alpha
@@ -573,6 +576,7 @@ NVT
 SeeEyes
 Veracity
 Vivotek
+Wi-Tek
 UPS
 Alpha
 Bysecur
@@ -617,6 +621,7 @@ Infosec
 Neomounts
 NVT
 Veracity
+Wi-Tek
 Intercom
 Brands
 2N
@@ -1031,6 +1036,7 @@ Rosslare
 SEWOSY
 Vauban Systems
 Veracity
+Wi-Tek
 Batteries
 acre
 Ajax
@@ -1127,6 +1133,7 @@ Paxton
 Pulsar
 SEWOSY
 Veracity
+Wi-Tek
 Accesories & tools
 Axis Communications
 Bysecur
@@ -1207,18 +1214,6 @@ Alarmtech introduces a new generation of sirens and strobes.
 Sergio Römer
 SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
-Ajax EN54 Hands-On Training
-12 November
-@ SmartSD Breda (NL)
-8 December
-@ SmartSD Merchtem (BE)
-Axis Webinars
-13 November
-@ Online
-11 December
-@ Online
-15 December
-@ Online
 Acre SPCevo
 16 November
 @ SmartSD Portet-sur-garonne (FR)
@@ -1254,6 +1249,13 @@ Risco LightSYS+ Technical/Commercial Introduction & Expert Session
 @ SmartSD Merchtem (BE)
 16 December
 @ SmartSD Breda (NL)
+Dahua Frontier Innovation Event 2026
+19 November
+@ Online
+19 November
+@ Online
+19 November
+@ Online
 Basic Networking Knowledge
 20 November
 @ SmartSD Breda (NL)
@@ -1313,6 +1315,18 @@ Genetec System Design Training
 Network Optix Nx Witness VMS
 4 December
 @ SmartSD Breda (NL)
+Ajax EN54 Hands-On Training
+8 December
+@ SmartSD Merchtem (BE)
+10 December
+@ SmartSD Breda (NL)
+Axis Webinars
+13 November
+@ Online
+11 December
+@ Online
+15 December
+@ Online
 Inim SmartLine
 17 December
 @ SmartSD Merchtem (BE)
@@ -1350,8 +1364,4 @@ Contact and Our stores
 Overview of our branches and contact form
 Terms of sale
 Netherlands - SmartSD BV (NL)
-BeLux - SmartSD NV/SA (NL)
-BeLux - SmartSD NV/SA (FR)
-France - SmartSD SARL (FR)
-Spain - SmartSD SL (ES)
-© 2026 SmartSD
+BeLux - Smar

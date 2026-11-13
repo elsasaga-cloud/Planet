@@ -1,4 +1,4 @@
-# SB-103 Grundig · news_1 · https://grundig-security.com/news/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-103 Grundig · news_1 · https://grundig-security.com/news/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 News and Events | GRUNDIG SECURITY - Professional Video Surveillance and CCTV Solutions
 Company
 Products
@@ -42,7 +42,7 @@ Others
 Accessories
 Housing & Bracket
 Hardware
-IP
+Audio
 Lens
 PC Accessories
 System Keyboard

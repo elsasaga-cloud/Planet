@@ -1,5 +1,5 @@
-# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
-จำหน่าย อุปกรณ์ไฟเบอร์ออฟติก สินค้าระบบเครือข่าย network ราคา ปลีก-ส่ง
+# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+อุปกรณ์ Fiber Optic สายไฟเบอร์ออฟติก อุปกรณ์เครือข่าย Network อื่นๆ ราคาปลีก-ส่ง
 จัดส่งด่วนทั่วไทย
 ของแท้ 100%
 เข้าสู่ระบบ
@@ -83,14 +83,14 @@ GIGABIT
 10G
 อุปกรณ์เสริม
 FIBER CONVERTER
-HDMI
-VGA
-Audio
-Video
-RS485/422/232
-Can Bus
-Dry Contact
-PCM
+HDMI To Fiber
+VGA To Fiber
+Audio To Fiber
+Video To Fiber
+RS485/232 To Fiber
+Can-Bus To Fiber
+Dry To Fiber
+PCM To Fiber
 SFP MODULE
 SFP 1.25Gbps
 SFP 1.25Gbps (Aruba)
@@ -143,7 +143,7 @@ LAN CAT6
 8K (ทองแดง)
 ภาพและเสียง
 Audio Cable
-Extender
+HDMI & VGA Extender
 Splitter & Switch
 ดาวเทียม
 หัวรับสัญญาณ
@@ -238,14 +238,14 @@ GIGABIT
 10G
 อุปกรณ์เสริม
 FIBER CONVERTER
-HDMI
-VGA
-Audio
-Video
-RS485/422/232
-Can Bus
-Dry Contact
-PCM
+HDMI To Fiber
+VGA To Fiber
+Audio To Fiber
+Video To Fiber
+RS485/232 To Fiber
+Can-Bus To Fiber
+Dry To Fiber
+PCM To Fiber
 SFP MODULE
 SFP 1.25Gbps
 SFP 1.25Gbps (Aruba)
@@ -298,7 +298,7 @@ LAN CAT6
 8K (ทองแดง)
 ภาพและเสียง
 Audio Cable
-Extender
+HDMI & VGA Extender
 Splitter & Switch
 ดาวเทียม
 ขาแขวนทีวี
@@ -351,11 +351,6 @@ Optical Pacth Cord Single-mode AND Multi-mode
 Mini ADSS AND Arss Armored Cable
 HDMI Cable Fiber
 สินค้ามาใหม่
-DIN-Rail SFP Switch 16-port + 2 Gigabit RJ45
-Industrial Gigabit Switch SFP 16 Port + 2RJ45 Uplink สวิตช์ไฟเบอร์ออพติกเกร..
-฿5,000 ฿6,750
-ราคาไม่รวมภาษี: ฿5,000
-มีสินค้า
 IP (POC) Over Coaxial ตัวแปลง IP ผ่านสาย RG6
 PoE Over Coaxial (POC) Extender สำหรับแปลงสัญญาณพร้อมส่งไฟจาก PoE Switch ไปจ่ายใ..
 ฿2,200 ฿2,970
@@ -365,11 +360,6 @@ USB 2.0 Fiber Extender 4 Port SM BIDI 10KM
 USB 2.0 To Fiber Extender 4 Port อุปกรณ์เชื่อมต่อ USB 2.0 แบบ 4 พอร์ต ช่วยให้คุณ..
 ฿2,850 ฿3,850
 ราคาไม่รวมภาษี: ฿2,850
-มีสินค้า
-SFP+ 10G TO LAN RJ45 100M รุ่น SDT-10G-T
-SFP 10G To LAN RJ45 (100M) หรือ SFP+ Copper To LAN แบรนด์ SDTTECH รุ่น SDT-10G-T..
-฿1,600 ฿2,160
-ราคาไม่รวมภาษี: ฿1,600
 มีสินค้า
 DIN-rail 5-port MINI Gigabit industrial switch
 สวิตช์เครือข่ายเกรดอุตสาหกรรม (Industrial Switch) ขนาดมินิกะทัดรัด แบรนด์ HM รุ่..
@@ -391,48 +381,128 @@ CISCO (GLC-T) SFP Copper RJ45 To LAN 1G
 ฿3,200 ฿4,730
 ราคาไม่รวมภาษี: ฿3,200
 มีสินค้า
+PoE Extender 10/100 IN1 OUT2 รุ่น 102JL (Indoor)
+PoE Extender หรือ PoE Repeater เข้า 1 ออก 2 สำหรับแยกสาย PoE รุ่น 102JL (Indoor)..
+฿290 ฿400
+ราคาไม่รวมภาษี: ฿290
+มีสินค้า
+PON Power Meter รุ่น AUA-350A สำหรับวัด 3 ค่าแสงพร้อมกัน
+PON Power Meter รุ่น AUA-350A หัวเชื่อต่อแบบ SC/APC และ FC เป็นเครื่องมือวัดค่าส..
+฿2,950 ฿3,720
+ราคาไม่รวมภาษี: ฿2,950
+มีสินค้า
 แนะนำ
 10G Media Converter (SFP) รุ่น HM-SFP-10G
 10 Gigabit (10G) SFP Port Media Converter แบรนด์ HM รุ่น HM-SFP-10G เป็น Media C..
 ฿1,300 ฿1,760
 ราคาไม่รวมภาษี: ฿1,300
 มีสินค้า
-DIN-Rail 2.5G PoE 4-port + 2SFP (10G) ind switch
-Industrial PoE Switch 2.5G 4-Port + 2SFP 10G Port เป็น PoE Switch ความเร็ว 2.5 G..
-฿1,990 ฿2,970
-ราคาไม่รวมภาษี: ฿1,990
-มีสินค้า
-LINK (UF-2012A) ODF Rack Mount Drawer 2 Snap-in
-ODF Rack Mount Drawer 2 Snap-in แบรนด์ LINK รุ่น UF-2012A ออกแบบมาสำหรับการจัดเก..
-฿2,350 ฿3,180
-ราคาไม่รวมภาษี: ฿2,350
-มีสินค้า
-Gigabit Media SM BIDI 3KM รุ่น HM-1F-GE
-Gigabit Fiber Media Converter BIDI 3KM แบรนด์ HM รุ่น HM-1F-GE สำหรับงานด้าน (Ne..
-฿590 ฿800
-ราคาไม่รวมภาษี: ฿590
-มีสินค้า
 SFP+ 10G SC-BIDI 1270/1330 DDM SM 20KM
 SFP+ 10G SC-BIDI 1270/1330 DDM SM 20KM แบรนด์ SDTTECH รุ่น SDT-10G-20A..
 ฿1,150 ฿1,560
 ราคาไม่รวมภาษี: ฿1,150
-มีสินค้า
-10G SFP+ (AOC) Active Optical Cable (7M)
-เชื่อมต่อระบบเครือข่ายความเร็วสูงในระยะไกลขึ้นได้อย่างมั่นใจด้วย Finisar 10G SFP..
-฿500 ฿680
-ราคาไม่รวมภาษี: ฿500
-มีสินค้า
-10G SFP OEO Media Converter
-10G SFP+ to SFP+ OEO (Optical-Electrical-Optical) Media Converter เป็นอุปกรณ์แปล..
-฿650 ฿880
-ราคาไม่รวมภาษี: ฿650
 มีสินค้า
 TP-Link Archer AX23 AX1800 Dual-Band Wi-Fi 6 Router
 ยกระดับความเร็วอินเทอร์เน็ตในบ้านด้วย TP-Link Archer AX23 AX1800 Dual-Band Wi-Fi..
 ฿1,690 ฿2,230
 ราคาไม่รวมภาษี: ฿1,690
 มีสินค้า
+Wireless HDMI Extender 1080P@60Hz 5.8GHz
+Wireless HDMI Extender Full HD (1920X1080) 1080P@60Hz เปลี่ยนบ้านหรือออฟฟิศของคุ..
+฿1,650 ฿2,370
+ราคาไม่รวมภาษี: ฿1,650
+มีสินค้า
+Wireless HDMI Extender 4K@30Hz Ultra HD 5.8GHz
+HDMI Wireless Extender 4K Ultra HD (Local Loop Out) อุปกรณ์ส่งสัญญาณภาพแบบไร้สาย..
+฿2,450 ฿3,310
+ราคาไม่รวมภาษี: ฿2,450
+มีสินค้า
+Gigabit (SC) Switch 4 Port + 2 Gigabit RJ45
+Gigabit Switch Fiber SC BIDI (1550nm) 4 Port 3KM Uplink 2 Gigabit LAN แบรนด์ SDT..
+฿1,550 ฿2,100
+ราคาไม่รวมภาษี: ฿1,550
+มีสินค้า
+Gigabit (SC) Switch 8 Port + 2 Gigabit RJ45
+Gigabit Fiber Switch SC BIDI (1550nm) 8 Port 3KM Uplink 2 Gigabit LAN แบรนด์ SDT..
+฿1,850 ฿2,500
+ราคาไม่รวมภาษี: ฿1,850
+มีสินค้า
+Gigabit (SFP) Switch 4 Port + 2 Gigabit RJ45
+Gigabit Switch SFP 4 Port + 2RJ45 Uplink แบรนด์ SDT-TECH รุ่น SDT-GE4F2T-SFP สำห..
+฿1,300 ฿1,760
+ราคาไม่รวมภาษี: ฿1,300
+มีสินค้า
 สินค้าอัพเดท
+GLINK (GPDU-09K) ปลั๊กไฟตู้แร็ค 8 ช่อง
+ปลั๊กไฟ 8 ช่อง สำหรับตู้แร็ค แบรนด์ GLINK รุ่น GPDU-09K มีระบบ Overload สำหรับติ..
+฿550 ฿790
+ราคาไม่รวมภาษี: ฿550
+มีสินค้า
+GLINK (GPDU-07B) ปลั๊กไฟตู้แร็ค 6 ช่อง (สีฟ้า)
+ปลั๊กไฟ 6 ช่อง สำหรับตู้แร็ค แบรนด์ GLINK รุ่น GPDU-07B มีระบบ Overload สำหรับติ..
+฿490 ฿710
+ราคาไม่รวมภาษี: ฿490
+มีสินค้า
+GLINK (GLT-101) คีมปอกสายแลน / สายกล้องวงจรปิด
+คีมปอกสายแลน สายกล้องวงจรปิด แบรนด์ GLINK รุ่น GLT-101 สามารถใช้ปอกสายได้หลายอย่..
+฿130 ฿180
+ราคาไม่รวมภาษี: ฿130
+มีสินค้า
+GLINK (GL-201) สาย HDMI V2.0 4K@60Hz ยาว 20 เมตร
+สาย HDMI 4K@60Hz แบรนด์ GLINK รุ่น GL-201 ยาว 20 เมตร ใช้สำหรับส่งสัญญาณภาพแบบ 4..
+฿620 ฿840
+ราคาไม่รวมภาษี: ฿620
+มีสินค้า
+GLINK (GL-201) สาย HDMI V2.0 4K@60Hz ยาว 15 เมตร
+สาย HDMI 4K@60Hz แบรนด์ GLINK รุ่น GL-201 ยาว 15 เมตร ใช้สำหรับส่งสัญญาณภาพแบบ 4..
+฿490 ฿670
+ราคาไม่รวมภาษี: ฿490
+สินค้าหมด
+GLINK (GLC-010) Contact Cleanner ขนาด (200ml)
+Contact Cleaner แบรนด์ GLINK รุ่น GLC-010 ขนาดบรรจุ 200ml เป็นสเปรย์ หรือน้ำยาทำ..
+฿65 ฿85
+ราคาไม่รวมภาษี: ฿65
+มีสินค้า
+ดอกสว่านทรงเจดีย์ ขั้นบันได HSS Step Drill ชุด 3 ชิ้น
+WORKZONE ชุดดอกสว่านทรงเจดีย์ ขั้นบันได HSS Step Drill Set 3 ชิ้น ชุดดอกสว่านคว้..
+฿130 ฿140
+ราคาไม่รวมภาษี: ฿130
+มีสินค้า
+CAN-Bus 2CH To Fiber Converter SM BIDI 20KM
+CAN-Bus 2 Channel To Fiber Optic Converter ระยะ 20 กิโลเมตร สำหรับสายไฟเบอร์ออฟต..
+฿1,650 ฿2,100
+ราคาไม่รวมภาษี: ฿1,650
+มีสินค้า
+Gigabit PoE Switch 16 Port + 2 Gigabit RJ45 (Small)
+Gigabit PoE Switch 16 Port Small Size 48V 150W มาตรฐาน ieee802.3af/at เป็น Switc..
+฿2,300 ฿3,110
+ราคาไม่รวมภาษี: ฿2,300
+มีสินค้า
+Gigabit PoE Switch 4 Port + 2 Gigabit RJ45
+Gigabit Poe Switch 4 Port (VLAN) 48V 65W มาตรฐาน ieee802.3af/at เป็นอุปกรณ์..
+฿850 ฿1,150
+ราคาไม่รวมภาษี: ฿850
+มีสินค้า
+Gigabit PoE Switch 8 Port + 2 Gigabit RJ45
+Gigabit PoE Switch 8 Port 48V 95W มาตรฐาน ieee802.3af/at เป็น Switch จ่ายไฟและส่..
+฿1,200 ฿1,760
+ราคาไม่รวมภาษี: ฿1,200
+มีสินค้า
+Adapter 52V/1.25A สำหรับ PoE Switch 4 Port
+Adapter PoE Switch 52V/1.25A (65W) (อย่างดี) รองรับช่วงแรงดันไฟตั้งแต่ 110-264VA..
+฿280 ฿340
+ราคาไม่รวมภาษี: ฿280
+มีสินค้า
+Adapter 52V/2.3A 120W สำหรับ PoE Switch
+Adapter PoE Switch 52V/2.3A (120W) (อย่างดี) รองรับช่วงแรงดันไฟตั้งแต่ 110-264VA..
+฿380 ฿480
+ราคาไม่รวมภาษี: ฿380
+มีสินค้า
+Gigabit (SFP) Switch 24 Port + 2 Gigabit RJ45
+Gigabit Switch SFP 24 Port Uplink 2 Gigabit LAN สำหรับการใช้งานที่หลากหลายม..
+฿5,500 ฿7,430
+ราคาไม่รวมภาษี: ฿5,500
+สินค้าหมด
 Gigabit (SC) Switch 24 Port + 2 Gigabit RJ45
 Gigabit Switch Fiber SC BIDI (1550nm) 24 Port 3KM Uplink 2 Gigabit LAN สำหรับงาน..
 ฿6,500 ฿7,970
@@ -442,11 +512,6 @@ Gigabit (SC) Switch 16 Port + 2 Gigabit RJ45
 Gigabit Switch Fiber SC BIDI (1550nm) 16 Port 3KM Uplink 2 Gigabit LAN สำหรับงาน..
 ฿5,300 ฿7,160
 ราคาไม่รวมภาษี: ฿5,300
-มีสินค้า
-Can Bus 2CH to Fiber Converter SM BIDI 20KM
-อุปกรณ์แปลงและรับส่งสัญญาณเครือข่ายบัสข้อมูลอุตสาหกรรม CAN-Bus (Controller Area ..
-฿1,650 ฿2,100
-ราคาไม่รวมภาษี: ฿1,650
 มีสินค้า
 SGO HDMI (AOC) 4K@60Hz V2.0 ความยาว 25 เมตร
 SGO HDMI Active Optical Cable (AOC) 4K (18Gbps) 60Hz V2.0 เป็นสาย HDMI Fiber Opt..
@@ -496,75 +561,4 @@ LINK (UF-2800) คีมปอกสายไฟเบอร์ออฟติ�
 เคเบิ้ลไทร์ สายรัดพลาสติก ความยาว 4 นิ้ว 100 เส้น/ถุง
 เคเบิ้ลไทร์ ขนาด 2.5 x 100 มม. หรือสายรัดแบบพลาสติกความยาว 4 นิ้ว..
 ฿20 ฿40
-ราคาไม่รวมภาษี: ฿20
-มีสินค้า
-PoE Extender 10/100 IN1 OUT1 (Outdoor)
-PoE Extender (10/100Mbps) แบบเข้า 1 ออก 1 รุ่น HX-FSPOE101 อุปกรณ์ช่วยเพิ่ม..
-฿270 ฿370
-ราคาไม่รวมภาษี: ฿270
-มีสินค้า
-กล่องกันน้ำ PLC Splitter 1X16 BOX Type Outdoor
-กล่องพักสายและกระจายสัญญาณไฟเบอร์ออปติกเกรดอุตสาหกรรมภายนอกอาคาร ออกแบบมาเป็นพิเ..
-฿500 ฿680
-ราคาไม่รวมภาษี: ฿500
-สินค้าหมด
-แอลกอฮอล์ 99% สำหรับเช็ดสายไฟเบอร์ ขนาด 1 ลิตร
-แอลกอฮอล์บริสุทธิ์ 99% เอทิลแอลกอฮอล์ 99% สำหรับเช็ดทำความสะอาดสายไฟเบอร์ออฟติก ..
-฿220 ฿300
-ราคาไม่รวมภาษี: ฿220
-มีสินค้า
-GLINK (GP1031) สายไฟ AC แบบ 3 ขา (C13) ยาว 1.8 เมตร
-สายไฟ AC แบบ 3 ขา พร้อมหัวต่อปลายทางแบบ C13 หัวตรง ความยาว 1.8 เมตร แบรนด์ GLINK..
-฿85 ฿85
-ราคาไม่รวมภาษี: ฿85
-สินค้าหมด
-RS485/422/232 to Fiber Converter SM DX 20KM
-อุปกรณ์แปลงรับส่งคำสั่ง RS485 RS422 และ RS422 (Serial Port To Fiber) รองรับ 3 คำ..
-฿1,300 ฿1,960
-ราคาไม่รวมภาษี: ฿1,300
-สินค้าหมด
-Gigabit Media 1310nm DX 20KM รุ่น HM-2F-GE
-Gigabit Media Converter SM, MM สำหรับ Network Internet และ Cctv IP Camera เพื่อแ..
-฿650 ฿880
-ราคาไม่รวมภาษี: ฿650
-สินค้าหมด
-Gigabit PoE Switch 24 Port + 2GE + 2SFP Port (Rack)
-Rack Mount Type Gigabit PoE Switch 24 Port + 2 Gigabit LAN + 2SFP Port Uplink เป..
-฿3,500 ฿4,730
-ราคาไม่รวมภาษี: ฿3,500
-มีสินค้า
-Gigabit (SFP) Switch 16 Port + 2 Gigabit RJ45
-Gigabit Switch SFP 16 Port Uplink 2 Gigabit LAN สำหรับการใช้งานที่หลากหลายม..
-฿4,500 ฿6,350
-ราคาไม่รวมภาษี: ฿4,500
-สินค้าหมด
-GLINK (GLC-010) Contact Cleanner ขนาด (200ml)
-Contact Cleaner แบรนด์ GLINK รุ่น GLC-010 ขนาดบรรจุ 200ml เป็นสเปรย์ หรือน้ำยาทำ..
-฿65 ฿85
-ราคาไม่รวมภาษี: ฿65
-มีสินค้า
-สายไฟ AC 3 ขา หัวงอ C13 ขนาด 3x0.75 ยาว 1.8m
-สายไฟ AC แบบ 3 ขา พร้อมหัวต่อปลายทางแบบ C13 งอ 90 องศา ความยาว 1.8 เมตร ทนความร้..
-฿70 ฿110
-ราคาไม่รวมภาษี: ฿70
-มีสินค้า
-Gigabit Media SM BIDI 3KM รุ่น HM-1F-GE
-Gigabit Fiber Media Converter BIDI 3KM แบรนด์ HM รุ่น HM-1F-GE สำหรับงานด้าน (Ne..
-฿590 ฿800
-ราคาไม่รวมภาษี: ฿590
-มีสินค้า
-Gigabit IND Media Converter SM BIDI 20KM (Full)
-Gigabit Industrial Media Converter SM-BIDI 1310/1550 อุปกรณ์แปลงและรับส่งสัญญาณเ..
-฿1,550 ฿2,370
-ราคาไม่รวมภาษี: ฿1,550
-มีสินค้า
-PON Power Meter รุ่น AUA-350A สำหรับวัด 3 ค่าแสงพร้อมกัน
-PON Power Meter รุ่น AUA-350A หัวเชื่อต่อแบบ SC/APC และ FC เป็นเครื่องมือวัดค่าส..
-฿2,950 ฿3,720
-ราคาไม่รวมภาษี: ฿2,950
-มีสินค้า
-OTDR Launch Cable Box SC-FC (UPC) SM (1KM)
-OTDR Launch Cable Box สายดัมมี่โหลด (Launch Cable) ชนิด Single-mode (SM) ขนาดควา..
-฿1,800 ฿2,430
-ราคาไม่รวมภาษี: ฿1,800
-มีสินค้
+ราคาไม่รวมภ

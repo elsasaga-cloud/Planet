@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
 value && Livewire.dispatch('category:selected', { category_id: value }))"
 x-on:force:open.window="forceOpen = $event.detail.open"

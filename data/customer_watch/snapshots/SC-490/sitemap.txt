@@ -1,9 +1,8 @@
-# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2025-11-26	https://www.hattelandtechnology.com/view_product/jh-17tap-std_accessory_118
 2025-11-26	https://www.hattelandtechnology.com/view_product/p006997-1_accessory_475
+2026-11-12	https://www.hattelandtechnology.com/view_product/p020518_accessory_488
 2023-06-28	https://www.hattelandtechnology.com/news/new-product-new-19inch-rackmount-computer-server
-2026-10-26	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-2ovy_monitor_574
-2025-11-26	https://www.hattelandtechnology.com/view_product/jh-23t02-mil_monitor_380
 2023-06-28	https://www.hattelandtechnology.com/news/new-search-function-on-our-website-www.hatteland-display.com
 2026-11-10	https://www.hattelandtechnology.com/view_product/hd-24t21-mmd_monitor_226
 2025-01-22	https://www.hattelandtechnology.com/blog/gry-amalie-from-hatteland-country
@@ -21,24 +20,24 @@
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-27t22-mmc-u_panel-computer_520
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-ved-sx2_accessory_533
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-15c05-e50_crt-monitor_327
+2026-11-12	https://www.hattelandtechnology.com/view_product/hm-20t22-xrd-may-1ouy_monitor_247
 2025-11-26	https://www.hattelandtechnology.com/view_product/jh-20tsv-std_accessory_134
 2026-11-10	https://www.hattelandtechnology.com/view_product/hd-13t21-std_monitor_204
-2025-11-26	https://www.hattelandtechnology.com/view_product/ht-p3bb1-msc_computer_339
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-12t04-mmc-f_panel-computer_283
 2026-10-16	https://www.hattelandtechnology.com/marine-monitors/a-quick-guide-to-marine-monitors
 2023-06-28	https://www.hattelandtechnology.com/news/the-compact-computer
 2023-06-29	https://www.hattelandtechnology.com/news/nmd-chosen-for-australias-new-hobart-class-air-warfare-destroyers
-2025-11-26	https://www.hattelandtechnology.com/view_product/pca100298-1_factory-option_460
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-srk-std_accessory_104
+2026-11-12	https://www.hattelandtechnology.com/view_product/p020589_accessory_500
 2025-11-26	https://www.hattelandtechnology.com/view_product/htc03-mp_computer_433
 2026-01-27	https://www.hattelandtechnology.com/product-portfolio
-2026-03-24	https://www.hattelandtechnology.com/view_product/hd-55t22-mvd-a_monitor_236
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-00224-opt_accessory_79
 2023-06-29	https://www.hattelandtechnology.com/news/welcome-to-the-january-2009-edition-of-visions
 2023-06-28	https://www.hattelandtechnology.com/news/hatteland-display-launches-new-marine-computers
 2023-06-29	https://www.hattelandtechnology.com/news/product-update-15-sep-2010
 2023-06-29	https://www.hattelandtechnology.com/news/the-results-are-in
 2026-10-21	https://www.hattelandtechnology.com/obsolete-product-portfolio
+2026-11-12	https://www.hattelandtechnology.com/view_product/ht-zb2x-aa_camera_275
 2023-06-29	https://www.hattelandtechnology.com/news/new-display-for-the-c4-environment
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-08tap-sx1_accessory_5
 2023-06-29	https://www.hattelandtechnology.com/news/planning-to-upgrade-replace-or-add-on-new-hardware-aboard
@@ -47,6 +46,7 @@
 2023-06-29	https://www.hattelandtechnology.com/news/welcome-to-the-may-edition-of-visions
 2023-06-29	https://www.hattelandtechnology.com/news/new-managing-director-for-jakob-hatteland-technology
 2026-03-24	https://www.hattelandtechnology.com/view_product/hd-21t36-mmc_panel-computer_530
+2026-11-12	https://www.hattelandtechnology.com/view_product/hd-t30-aex_accessory_523
 2020-01-22	https://www.hattelandtechnology.com/faq/is-it-necessary-to-periodically-maintain-the-monitors
 2023-06-29	https://www.hattelandtechnology.com/news/hd-26t21-technology-upgrade.-led-multi-touch
 2023-06-28	https://www.hattelandtechnology.com/news/new-hatteland-display-series-1-panel-computers-1
@@ -57,7 +57,6 @@
 2026-10-19	https://www.hattelandtechnology.com/view_product/jh-19t12-mmd_monitor_367
 2022-08-26	https://www.hattelandtechnology.com/news/hatteland-technology-acquires-augmenti
 2020-11-13	https://www.hattelandtechnology.com/blog/protect-the-frontline-with-body-worn-cameras-security
-2025-11-26	https://www.hattelandtechnology.com/view_product/p005222-1_accessory_499
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-00229-opt_accessory_83
 2023-06-29	https://www.hattelandtechnology.com/news/hatteland-display-and-raymarine-uk-limited-enters-into-long-term-partnership
 2025-11-26	https://www.hattelandtechnology.com/view_product/p007131-1_accessory_477
@@ -65,7 +64,7 @@
 2026-03-24	https://www.hattelandtechnology.com/view_product/hd-24t26-mmc_panel-computer_527
 2025-09-17	https://www.hattelandtechnology.com/news/moxa-and-hatteland-technology-expand-partnership
 2021-12-17	https://www.hattelandtechnology.com/en/events/webinar-on-demand/tech-talk-milestone-and-markedplace
-2026-03-24	https://www.hattelandtechnology.com/view_product/hd-55t22-mvd-l_monitor_239
+2026-11-12	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-2ovy_monitor_574
 2021-12-31	https://www.hattelandtechnology.com/news/consilium-production-ab-selects-hatteland-display-as-main-supplier-of-maritime-displays-and-computers
 2026-02-04	https://www.hattelandtechnology.com/brand-guidelines
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-15brd-sx1_accessory_10
@@ -81,12 +80,13 @@
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-rkct92s_accessory_406
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-cmb-sx2_accessory_45
 2023-06-28	https://www.hattelandtechnology.com/news/hatteland-display-appoints-new-usa-general-manager
+2026-11-12	https://www.hattelandtechnology.com/view_product/p005225-1_accessory_497
 2025-10-22	https://www.hattelandtechnology.com/events-blog/axis_milestone_mcde
 2026-10-19	https://www.hattelandtechnology.com/view_product/jh-10t05-vga_monitor_350
 2026-03-17	https://www.hattelandtechnology.com/in-house-technologies/ecdis_color_calibration
 2023-06-29	https://www.hattelandtechnology.com/news/thank-you-for-visiting-us-at-euronaval-2008
 2023-06-29	https://www.hattelandtechnology.com/news/visions-1-2009
-2025-11-26	https://www.hattelandtechnology.com/view_product/p027105_accessory_502
+2026-11-12	https://www.hattelandtechnology.com/view_product/jh-19t01-mil_monitor_377
 2026-10-19	https://www.hattelandtechnology.com/view_product/jh-20t06-mmd_monitor_372
 2023-06-29	https://www.hattelandtechnology.com/news/hatteland-display-and-furuno-electric-co.-ltd.-signed-long-term-supply-agreement
 2020-03-09	https://www.hattelandtechnology.com/blog/paneeli-pc-elintarviketeollisuuteen
@@ -113,7 +113,6 @@
 2025-10-22	https://www.hattelandtechnology.com/events-blog/axis_milestone_mcit
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-wbk-sx1_accessory_428
 2025-12-01	https://www.hattelandtechnology.com/view_product/ht-00274-opt_accessory_94
-2025-11-26	https://www.hattelandtechnology.com/view_product/hn-g9812_network-switch_321
 2023-06-28	https://www.hattelandtechnology.com/news/new-21-inch-industrial-monitor
 2026-10-21	https://www.hattelandtechnology.com/view_product/hd-12t21-mmd_monitor_202
 2021-09-08	https://www.hattelandtechnology.com/blog/slik-kobler-du-legacy-enheter-opp-mot-iiot
@@ -124,11 +123,12 @@
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-21c07-mdk_crt-monitor_337
 2023-06-29	https://www.hattelandtechnology.com/news/grand-opening-of-the-production-plant-1-19-september-2003
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-18t04-mmd_monitor_363
-2026-11-03	https://www.hattelandtechnology.com/view_product/hm-21t22-xrd-may-1ouy_monitor_572
 2023-06-29	https://www.hattelandtechnology.com/news/hatteland-display-appoints-new-service-partner-in-dubai
 2023-06-29	https://www.hattelandtechnology.com/news/visions-issue-5-2009
 2025-11-26	https://www.hattelandtechnology.com/view_product/hd-13t30-mmc_panel-computer_290
 2024-10-30	https://www.hattelandtechnology.com/blog/it-hardware-for-cyber-secure-ships
 2023-06-29	https://www.hattelandtechnology.com/news/versatile-throughout-the-ht-c01-maritime-computer-and-rack
 2025-11-26	https://www.hattelandtechnology.com/view_product/ht-b04cm_computer_181
-2026-11-10
+2026-11-10	https://www.hattelandtechnology.com/view_product/hd-24t27-mmd_monitor_564
+2025-11-26	https://www.hattelandtechnology.com/view_product/ht-00270-opt_accessory_92
+2025-09-08	https://www.hattel

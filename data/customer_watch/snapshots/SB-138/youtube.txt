@@ -1,4 +1,4 @@
-# SB-138 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-138 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-09-16T02:47:35+00:00	なぜスマートファクトリーにTSNが必要なのか	https://www.youtube.com/watch?v=EvusKwGwLjk
 2026-09-14T07:12:07+00:00	為什麼智慧工廠需要TSN	https://www.youtube.com/watch?v=yKCif5AvJow
 2026-09-14T07:12:00+00:00	Why Smart Factories Need TSN	https://www.youtube.com/watch?v=fglIY45juGU

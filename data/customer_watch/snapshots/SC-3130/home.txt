@@ -1,4 +1,4 @@
-# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica
 Ingresa a
 tu cuenta
@@ -11,39 +11,6 @@ Menú de navegación
 ⭐ Recomendados
 Eventos y certificaciones
 Ver todas
-12 de noviembre
--
-GRANDSTREAM | CERTIFICACIÓN (1 DÍA)
-Certificación
-Presencial
-MTY-SUR
-AV. LAZARO CARDENAS 2611, LA REPUBLICA
-12 de noviembre
--
-ZKTECO | SOLUCIONES INTEGRALES DE SEGURIDAD DEL ACCESO PEATONAL AL ESTACIONAMIENTO
-Capacitación Técnico - Comercial
-En línea
-12 de noviembre
--
-AJAX | DOMINA EL PORTAFOLIO Y SU INTEGRACIÓN CON CENTRALES DE MONITOREO (1 DÍA)
-Roadshow
-Presencial
-TORREON
-RIO CONCHOS 1456, MAGDALENAS
-12 de noviembre
--
-IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
-Taller
-Presencial
-MTY-SAN NICOLAS
-DIEGO DIAZ DE BERLANGA 107, ANTIGUO NOGALAR
-12 de noviembre
--
-HYXI POWER | INSTALACIÓN Y PUESTA EN MARCHA DE MICROINVERSOR E INVERSOR DE CADENA / TALLER
-Taller
-Presencial
-CANCÚN
-AV. CHICHEN ITZA 513, 61
 13 de noviembre
 -
 IMOU | CASOS EDGE BAJA ILUMINACIÓN EXTREMA Y CONTRALUZ
@@ -54,14 +21,9 @@ En línea
 IMOU | Q&A ABIERTO DE INTEGRACIÓN Y SOPORTE DE CAMPO
 Capacitación Comercial
 En línea
-16 de noviembre
--
-UNIARCH | PRESENTACIÓN DEL PORTAFOLIO
-Capacitación Comercial
-En línea
 17 de noviembre
 -
-UNIVIEW | INTEGRACIÓN AVANZADA CON PLATAFORMAS DE ANALÍTICA DE TERCEROS
+UNIARCH | PRESENTACIÓN DEL PORTAFOLIO
 Capacitación Comercial
 En línea
 17 de noviembre
@@ -73,7 +35,7 @@ MEX-TOLUCA
 20 DE NOVIEMBRE 708, ALVARO OBREGON
 17 de noviembre
 -
-UNIVIEW | PTZ AVANZADO PATRULLAJE AUTOMÁTICO Y PRESET INTELIGENTE
+UNIARCH | PRESENTACIÓN DEL PORTAFOLIO
 Capacitación Comercial
 En línea
 17 de noviembre
@@ -81,6 +43,13 @@ En línea
 TVC EN LÍNEA | INDUCCIÓN A TVCENLÍNEA.COM
 Capacitación Comercial
 En línea
+18 de noviembre
+-
+IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
+Taller
+Presencial
+MEX-IZTACALCO
+CAFETAL 445, GRANJAS MEXICO
 18 de noviembre
 -
 DSC | CERTIFICACIÓN POWER SERIES NEO (3 DÍAS)
@@ -92,11 +61,6 @@ PROGRESO 73, AMERICANA
 -
 IMOU | NUEVOS MODELOS AURORA Y FUNCIONES DE IA MEJORADAS
 Capacitación Técnico - Comercial
-En línea
-18 de noviembre
--
-UBIQUITI | UISP MONITOREO Y GESTIÓN CENTRALIZADA DE RED DE ENLACES CON UISP CONSOLE
-Capacitación Comercial
 En línea
 19 de noviembre
 -
@@ -110,11 +74,6 @@ Certificación
 Presencial
 TORREON
 RIO CONCHOS 1456, MAGDALENAS
-19 de noviembre
--
-DSC | PROGRAMACIÓN AVANZADA DE PARTICIONES Y ZONAS PARA PROYECTOS COMERCIALES
-Capacitación Comercial
-En línea
 20 de noviembre
 -
 UNIARCH | SOLUCIONES ANALÓGICAS
@@ -126,6 +85,44 @@ DSC | TALLER: DSC NEO Y LE4050 CON VIDEO HUB (1 DÍA)
 Taller
 Presencial
 SAN LUIS
+20 de noviembre
+-
+UBIQUITI | UNIFI REPASO TÉCNICO INTEGRADOR Y MEJORES PRÁCTICAS DE DOCUMENTACIÓN DE PROYECTO
+Capacitación Comercial
+En línea
+23 de noviembre
+-
+UNIARCH | PRESENTACIÓN DEL PORTAFOLIO
+Capacitación Comercial
+En línea
+23 de noviembre
+-
+DSC | LE4050 Y HUB DE VIDEO
+Capacitación Técnico - Comercial
+Presencial
+MEX-IZTACALCO
+CAFETAL 445, GRANJAS MEXICO
+23 de noviembre
+-
+UNIVIEW | CASO DE PROYECTO RETAIL Y CONTROL DE ACCESOS CON VIDEO
+Capacitación Comercial
+En línea
+24 de noviembre
+-
+UNIARCH | GRAN LANZAMIENTO (1 DÍA)
+Capacitación Comercial
+Presencial
+SAN LUIS
+24 de noviembre
+-
+VIVOTEK | HYBRID SOLUTIONS
+Capacitación Comercial
+En línea
+24 de noviembre
+-
+ZKTECO | ARQUITECTURA MULTISUCURSAL CON SINCRONIZACIÓN BIOMÉTRICA CENTRALIZADA
+Capacitación Comercial
+En línea
 No hay eventos que coincidan con los filtros seleccionados.
 Ver todas
 ☁️ ¡Respaldo en la nube!

@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · sitemap · https://cdr.pl/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-420 cdr.pl · sitemap · https://cdr.pl/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 	https://www.cdr.pl/i26,aktualizacja-deco-m4r.html
 	https://www.cdr.pl/i32,aktualizacja-modemu-lte.html
 	https://www.cdr.pl/i29,huawei-olt-pierwszy-start.html
@@ -133,14 +133,6 @@
 	https://www.cdr.pl/k503,anteny-dual-band-2-4-5ghz.html
 	https://www.cdr.pl/k232,anteny-obudowy-antenaboxy.html
 	https://www.cdr.pl/k482,anteny-oslony-przeciwzakl.html
-	https://www.cdr.pl/k381,czesci-serwisowe.html
-	https://www.cdr.pl/k294,czesci-serwisowe-chipy-lan.html
-	https://www.cdr.pl/k383,czesci-serwisowe-el-dyskretne.html
-	https://www.cdr.pl/k382,czesci-serwisowe-gniazda.html
-	https://www.cdr.pl/k388,czesci-serwisowe-kondensatory.html
-	https://www.cdr.pl/k633,czesci-serwisowe-pozostale.html
-	https://www.cdr.pl/k386,czesci-serwisowe-przetwornice-switche.html
-	https://www.cdr.pl/k384,czesci-serwisowe-transformatory.html
 	https://www.cdr.pl/k600,inteligentny-dom.html
 	https://www.cdr.pl/k964,inteligentny-dom-kontrolery-huby.html
 	https://www.cdr.pl/k760,inteligentny-dom-pozostale.html
@@ -175,4 +167,11 @@
 	https://www.cdr.pl/k828,mikrotik-routery-ethernet-seria-cloud-core-routers-ccr.html
 	https://www.cdr.pl/k829,mikrotik-switche-mikrotik.html
 	https://www.cdr.pl/k831,mikrotik-switche-mikrotik-seria-cloud-smart-switch-css.html
-	https://www.cdr.pl/k830,mikrotik-switche-mikrotik-seria-cloud-router-switc
+	https://www.cdr.pl/k830,mikrotik-switche-mikrotik-seria-cloud-router-switch-crs.html
+	https://www.cdr.pl/k833,mikrotik-systemy-bezprzewodowe.html
+	https://www.cdr.pl/k834,mikrotik-systemy-bezprzewodowe-2-4-ghz-802-11n.html
+	https://www.cdr.pl/k835,mikrotik-systemy-bezprzewodowe-5-ghz-802-11n.html
+	https://www.cdr.pl/k836,mikrotik-systemy-bezprzewodowe-5-ghz-802-11ac.html
+	https://www.cdr.pl/k935,mikrotik-systemy-bezprzewodowe-5-ghz-802-11ax.html
+	https://www.cdr.pl/k713,mikrotik-lte-5g.html
+	https://www.cdr.pl/k838,mikrotik-rozwiazani

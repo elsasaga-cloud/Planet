@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,18 +185,21 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1791 result(s)
+1792 result(s)
+Odoo Italy integrates fiskaly: receipt management goes 100% cloud with no electronic cash register required
+Nov 12, 2026
+Odoo News
 The Pre-Shutdown Spring Clean for SMEs
 Nov 11, 2026
 Business Hacks
 Odoo Africa and USIU-Africa Sign MoU to Prepare Students for Jobs with ERP Skills
-Nov 11, 2026
+Nov 10, 2026
 Odoo News
 Digital from Day One: How Ding-Mu Leverages Odoo to Drive Precise Inventory and Agile Operations
-Nov 10, 2026
+Nov 9, 2026
 Customer Reviews
 Subscription Business Model: Definition & How to Manage It Right
-Nov 10, 2026
+Nov 9, 2026
 Business Hacks
 Payday Super and the December Squeeze
 Nov 9, 2026
@@ -205,21 +208,18 @@ Caelum Pets & Odoo: Efficient Centralization
 Nov 9, 2026
 Customer Reviews
 Odoo Launches Education Program in Sri Lanka
-Nov 9, 2026
+Nov 8, 2026
 Odoo News
 First-ever Cambodia Nationwide Odoo Business Challenge!
-Nov 9, 2026
+Nov 8, 2026
 Odoo News
 Can ERP Really Launch in Months? How Odoo QuickStart Makes It Happen
-Nov 6, 2026
+Nov 5, 2026
 Business Hacks
 Virose Gestión Laboral: How an HR Consultancy Boosts Its Business with Odoo
 Nov 4, 2026
 Customer Reviews
 Implementing Odoo in Australia: Choosing Direct or Partner Support
-Nov 2, 2026
-Business Hacks
-What Characterizes a top-tier ERP?
 Nov 2, 2026
 Business Hacks
 1

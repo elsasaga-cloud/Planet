@@ -1,4 +1,4 @@
-# SB-452 espuk.com · sitemap · https://espuk.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-452 espuk.com · sitemap · https://espuk.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-11-12	https://espuk.com/product/A1ECP
 2026-11-12	https://espuk.com/product/A1ECPCVR
 2026-11-12	https://espuk.com/product/A1ECPKEY

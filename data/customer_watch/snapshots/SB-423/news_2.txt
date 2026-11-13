@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-13T09:45:13Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,14 +321,21 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Infrastructures IA et fibre optique : les enjeux de l'interconnexion des data centers
+Découvrez comment la fibre optique, les réseaux DCI et l’automatisation des tests accompagnent le développement des...
 IP66 IP67 IP69K comment choisir la protection de vos équipements industriels
 IP66, IP67 ou IP69K ? Comparez les essais, normes et limites de protection pour choisir vos équipements industriels...
 Comment mesurer le débit d'air et l'étanchéité des conduits
 Micromanomètres, tubes Pitot, grilles de débit et testeurs d'étanchéité, 6 solutions pour mesurer et contrôler les...
-Qorvo optimise les radars en bande C avec les technologies BAW et GaN
-Les solutions Qorvo pour radars en bande C, associant filtrage BAW commutable et amplificateurs GaN de 50 W et 200 W.
 Ressources
-Il y a 404 Actualités.
+Il y a 405 Actualités.
+Infrastructures IA et fibre optique : les enjeux de l'interconnexion des data centers
+Posté le: 12/11/26
+|
+Catégories:
+Ressources , TESTS & MESURES
+Découvrez comment la fibre optique, les réseaux DCI et l’automatisation des tests accompagnent le développement des infrastructures d’intelligence artificielle.
+Lire plus
 IP66 IP67 IP69K comment choisir la protection de vos équipements industriels
 Posté le: 10/11/26
 |
@@ -391,13 +398,6 @@ Posté le: 28/10/26
 Catégories:
 Ressources , TESTS & MESURES
 Les solutions ES France pour tester les drones et eVTOL : batteries, BMS, motorisation électrique, recharge, GNSS, RF et mesures acoustiques.
-Lire plus
-Capteurs inertiels MEMS Tronics pour UAV et VTOL : AXO et GYPRO
-Posté le: 22/10/26
-|
-Catégories:
-Ressources , COMPOSANTS & MODULES
-Découvrez les capteurs inertiels MEMS Tronics AXO305, AXO315 et GYPRO4300 pour la navigation, l'AHRS et le contrôle de vol UAV et VTOL.
 Lire plus
 1
 2

@@ -1,4 +1,4 @@
-# SB-482 keme-tec.com · feed_auto · https://keme-tec.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-482 keme-tec.com · feed_auto · https://keme-tec.com/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Wed, 23 Nov 2022 07:08:17 +0000	إنفيرترات KINCO: أداءة صلب في أقسى الظروف	https://keme-tec.com/2022/11/23/%d8%a5%d9%86%d9%81%d9%8a%d8%b1%d8%aa%d8%b1%d8%a7%d8%aa-kinco-%d8%a3%d8%af%d8%a7%d8%a1%d8%a9-%d8%b5%d9%84%d8%a8-%d9%81%d9%8a-%d8%a3%d9%82%d8%b3%d9%89-%d8%a7%d9%84%d8%b8%d8%b1%d9%88%d9%81/
 Thu, 17 Nov 2022 12:50:48 +0000	Active Harmonic Filters	https://keme-tec.com/2022/11/17/active-harmonic-filters/
 Thu, 17 Nov 2022 12:35:59 +0000	What is SCADA?	https://keme-tec.com/2022/11/17/what-is-scada/

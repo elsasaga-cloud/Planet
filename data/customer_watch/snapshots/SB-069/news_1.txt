@@ -1,4 +1,4 @@
-# SB-069 mutexsystemsltd.com · news_1 · https://mutexsystemsltd.com/blog · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-069 mutexsystemsltd.com · news_1 · https://mutexsystemsltd.com/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
 Page Under Maintenance — Coming Soon | Mutex Systems
 Skip to main content
 Home
@@ -98,6 +98,26 @@ NADRA Biometric Framework
 National Cyber Security Policy 2021
 Pharma & GxP
 Regulator Resources
+Security Testing & AI Security
+Security Posture Management
+OWASP Top 10 (2025)
+OWASP ASVS
+OWASP MASVS (Mobile)
+OWASP API Security Top 10
+NIST SP 800-115
+OSSTMM
+MITRE ATLAS (AI)
+OWASP LLM Top 10
+OWASP Agentic AI Top 10
+International GRC Frameworks
+ISO 27002 Controls
+ISO 27005 Risk Assessment
+NIST SP 800-53
+COBIT 2019
+CSA CCM & STAR
+NIST AI RMF
+ISO 23894 (AI Risk)
+SANS Incident Response
 © 2026 Mutex Systems . All rights reserved.
 Privacy Policy
 Terms of Service

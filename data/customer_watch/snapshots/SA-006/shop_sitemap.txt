@@ -1,4 +1,4 @@
-# SA-006 Vi-Link / Vilink Communications（加州 Irvine，交通/工业光纤设备） · shop_sitemap · https://vilink.us/product-sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SA-006 Vi-Link / Vilink Communications（加州 Irvine，交通/工业光纤设备） · shop_sitemap · https://vilink.us/product-sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-08-06T03:32:25+00:00	https://vilink.us/shop/
 2024-08-26T00:12:46+00:00	https://vilink.us/product/dl1sb/
 2024-08-26T01:56:22+00:00	https://vilink.us/product/10g-aoc-1m/

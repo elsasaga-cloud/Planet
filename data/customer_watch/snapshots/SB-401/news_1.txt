@@ -1,4 +1,4 @@
-# SB-401 securasound.co.uk · news_1 · https://securasound.co.uk/news · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-401 securasound.co.uk · news_1 · https://securasound.co.uk/news · fetched 2026-11-13T09:45:13Z · HTTP 200
 Securasound Limited
 Access Control
 CCTV Systems
@@ -162,6 +162,8 @@ AV systems
 CCTV installation
 Intruder alarm installation
 Clearance
+Microsoft Outage - Friday 13th November.
+If you need to email us please use info.securasound@gmail.com while the Microsoft outage continues.
 Home News
 Christmas Holidays - Merry Christmas
 10/12/2025

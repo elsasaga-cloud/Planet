@@ -1,12 +1,10 @@
-# XC-M151 Power/mation · news_2 · https://www.powermation.com/training-and-events/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M151 Power/mation · news_2 · https://www.powermation.com/training-and-events/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Upcoming Automation Training Seminars & Events | Power/mation
 Home
-About Us
-Our Leadership Team
+About Us Our Leadership Team
 Community Involvement & Affiliations
 Careers
-Capabilities
-Robotics
+Capabilities Robotics
 Safety
 Pneumatics
 Motion
@@ -14,8 +12,7 @@ Industrial Internet Solutions
 Process Automation
 Enclosure Modification
 VFD Migration & Conversion
-Products
-Sensing & Inspection
+Products Sensing & Inspection
 Panel Components
 Enclosures
 Logic Control & Visualization
@@ -27,8 +24,7 @@ Machine Safety
 Process Automation
 Pneumatics
 VFD Migration & Conversion
-Industries
-Food & Beverage
+Industries Food & Beverage
 Paper Converting
 Life Sciences
 Suppliers
@@ -44,8 +40,7 @@ Careers
 Resources
 Returns & Repairs
 Buy Now
-About Us
-Who We Are
+About Us Who We Are
 Our Leadership Team
 Community Involvement
 Careers
@@ -143,8 +138,7 @@ Compatibility
 Already have an application? ABB and Control Techniques are designed for compatibility in mind.
 In-Stock Drives
 We have partnered with ABB and Control Techniques to stock a variety of models for fast, same-day shipping.
-Products
-Sensing & Inspection
+Products Sensing & Inspection
 Panel Components
 Enclosures
 Logic Control & Visualization

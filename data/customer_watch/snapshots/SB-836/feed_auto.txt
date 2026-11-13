@@ -1,4 +1,7 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-13T09:45:13Z · HTTP 200
+13.11.2026 11.00.01	Preterm MM 4F AXAI LC/PC-LC/PC, 30 m	https://www.fiberworks.no/fiberworks-as/pk-g04tb-lcp-lcp-030/preterm-mm-4f-axai-lc-pc-lc-pc-30-m-62-5-om1-bif-900%c2%b5m-tails-l1-8-1-8-m
+13.11.2026 10.34.43	Preterm MM G4 AXAI LC/PC-LC/PC, 25 m	https://www.fiberworks.no/fiberworks-as/pk-g04tb-lcp-lcp-025/preterm-mm-g4-axai-lc-pc-lc-pc-25-m-62-5-om1-bif-900%c2%b5m-haler-l1-8-1-8-m
+12.11.2026 11.40.42	Snor SM SPX SC/APC-LC/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-sca-lcu-25/snor-sm-spx-sc-apc-lc-upc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
 12.11.2026 10.55.18	Snor SM SPX SC/APC-SC/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-sca-scu-25/snor-sm-spx-sc-apc-sc-upc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
 12.11.2026 10.41.37	Snor SM SPX FC/UPC-SC/APC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-fcu-sca-25/snor-sm-spx-fc-upc-sc-apc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
 12.11.2026 10.02.03	Snor SM SPX SC/APC-ST/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-sca-stu-25/snor-sm-spx-sc-apc-st-upc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
@@ -59,7 +62,4 @@
 27.10.2026 10.59.43	Snor SM SPX LC/UPC-LC/UPC 10 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-10/snor-sm-spx-lc-upc-lc-upc-10-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
 27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 7 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-07/snor-sm-spx-lc-upc-lc-upc-7-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
 27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 5 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-05/snor-sm-spx-lc-upc-lc-upc-5-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 3 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-03/snor-sm-spx-lc-upc-lc-upc-3-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 2 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-02/snor-sm-spx-lc-upc-lc-upc-2-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.59.41	Snor SM SPX LC/UPC-LC/UPC 1 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-01/snor-sm-spx-lc-upc-lc-upc-1-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.30.56	Snor SM SPX LC/UPC-LC/UPC xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-xx/snor-sm-spx-lc-upc-lc-upc-xx-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl
+27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 3 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-03/snor-sm-spx-lc-upc-lc-upc-3-m-9-os2-g-dot-657-

@@ -1,4 +1,5 @@
-# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-13T09:45:13Z · HTTP 200
+Thu, 12 Nov 2026 16:32:47 +0000	The Future of Network Cabling: Trends in Ethernet, CCTV, and Audio Systems	https://52networks.com/archives/31111
 Thu, 05 Nov 2026 17:34:35 +0000	What Is a Network Rack? Complete Guide to Server & Network Racks	https://52networks.com/archives/31052
 Thu, 05 Nov 2026 17:17:00 +0000	Patch Panel vs Network Switch: What Does Each One Do?	https://52networks.com/archives/31043
 Thu, 29 Oct 2026 14:53:37 +0000	How to Build a Reliable Network Infrastructure for a Small Business	https://52networks.com/archives/31012
@@ -8,4 +9,3 @@ Wed, 21 Oct 2026 03:40:28 +0000	How Long Can an Ethernet Cable Run? Cat5e, Cat6 
 Tue, 13 Oct 2026 14:44:00 +0000	Solid vs Stranded Ethernet Cable: Which One Should You Use?	https://52networks.com/archives/30918
 Tue, 13 Oct 2026 14:29:10 +0000	CMR vs CMP Cable: Which Ethernet Cable Is Right for Your Building?	https://52networks.com/archives/30901
 Fri, 09 Oct 2026 03:06:05 +0000	What Ethernet Cable Do I Need for 1Gbps, 2.5Gbps, 5Gbps and 10Gbps?	https://52networks.com/archives/30884
-Wed, 10 Jun 2026 02:22:05 +0000	How to Wire Your Home Network Like a Pro in 2026 — The Complete Structured Cabling Guide	https://52networks.com/archives/29954

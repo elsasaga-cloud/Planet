@@ -1,5 +1,6 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
+2026-11-12	https://www.radwin.com/app/suint
 2026-01-22	https://www.radwin.com/become-a-partner
 2026-01-22	https://www.radwin.com/board-of-directors
 2026-03-09	https://www.radwin.com/carriers
@@ -12,7 +13,7 @@
 2026-03-12	https://www.radwin.com/contact-radwin-certification
 2026-03-12	https://www.radwin.com/contact-request-a-quote
 2026-04-13	https://www.radwin.com/contact-support-request
-2026-11-10	https://www.radwin.com/contactus
+2026-11-12	https://www.radwin.com/contactus
 2026-08-16	https://www.radwin.com/cookie-policy
 2026-10-29	https://www.radwin.com/descubre-qora
 2026-10-25	https://www.radwin.com/employee/form
@@ -49,8 +50,8 @@
 2025-11-05	https://www.radwin.com/ptp-wireless-solutions
 2026-08-18	https://www.radwin.com/radwin-portal
 2025-11-02	https://www.radwin.com/radwin-portal-submit-form
-2026-10-06	https://www.radwin.com/registration-accepted-cognito
-2026-10-06	https://www.radwin.com/registration-thank-you
+2026-11-12	https://www.radwin.com/registration-accepted-cognito
+2026-11-12	https://www.radwin.com/registration-thank-you
 2025-11-04	https://www.radwin.com/seaports
 2025-11-02	https://www.radwin.com/seaports-port-automation
 2025-11-02	https://www.radwin.com/seaports-ship-to-shore
@@ -176,4 +177,4 @@
 	https://www.radwin.com/blog/pr-archive-6/911-sistema-nacional-de-emergencias-in-choluteca-honduras-chooses-radwin-wireless-as-an-alternative-to-fiber-for-safe-city-cctv-project-57
 	https://www.radwin.com/blog/pr-archive-6/fcc-grants-radwin-s-waiver-enabling-jet-point-to-multipoint-beamforming-5ghz-base-stations-to-operate-at-a-higher-power-during-the-covid-19-pandemic-56
 	https://www.radwin.com/blog/pr-archive-6/radwin-professional-services-provides-network-optimization-assistance-worldwide-during-covid-19-55
-	https://www.radwin.com/blog/pr-archive-6/introducing-radwin-s-new-and-innovative-multisectortm-ptmp-dual-car
+	https://www.radwin.com/blog/pr-archive-6/introducing-radwin-s-ne

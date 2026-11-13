@@ -1,4 +1,4 @@
-# XC-M158 Santa Clara Systems, Inc. · home · https://www.santaclarasystems.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M158 Santa Clara Systems, Inc. · home · https://www.santaclarasystems.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Industrial Controls Distributor - Santa Clara Systems
 Toggle Navigation
 1.888.450.0301
@@ -35,29 +35,29 @@ Santa Clara Systems, Inc. is a distributor of factory automation and industrial 
 As wholesale electrical consolidators, Santa Clara Systems maintains an inventory of new and obsolete parts utilized in all areas of the manufacturing and industrial sectors.
 In addition to the large inventory, Santa Clara Systems provides expert overnight, same-day and after-hours emergency shipping services to get key electrical components safely to you or your customer.
 See More
-1756-BA1 (BATTERY)
+802T-ATP
 Allen Bradley
-ZBV G1
+9007-DA1
+Square D
+440N-S32038
+Allen Bradley
+872C-D15NE30-D4
+Allen Bradley
+ODX402P0007
+Wenglor
+872C-D10NP30-D4
+Allen Bradley
+XSA V11801
 Telemecanique
-800FP-LF6
-Allen Bradley
-800F-BN5W
-Allen Bradley
-872C-D2NP8-P3
-Allen Bradley
-855T-L24
-Allen Bradley
-LP-CC-5
+FNQ-R-1
 Bussmann
-872C-D2NP8-D4
+800FM-LE7
 Allen Bradley
-440K-C21055
+1747-BA (BATTERY)
+Allen Bradley
+700-HA33A24
 Allen Bradley
 855T-B10DN3
-Allen Bradley
-UMD123U035
-Wenglor
-800FM-F3
 Allen Bradley
 Customers we work with
 We Deliver!

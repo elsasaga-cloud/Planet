@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 KBC Networks - KBC Networks - Home
 PRODUCTS
 NETWORK SWITCHES
@@ -221,7 +221,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-First Name
+Phone
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -482,7 +482,7 @@ Yemen
 Zambia
 Zimbabwe
 Submit
-Email
+First Name
 ×
 Select Country
 Afghanistan

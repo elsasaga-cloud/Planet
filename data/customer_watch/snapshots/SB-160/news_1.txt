@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -179,17 +179,17 @@ We all know the rise in copper prices has made it difficult for SME to compete w
 Read More
 TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED
 / October 4, 2021
-Views: 3,248
+Views: 3,250
 Tight-buffered cable was considered best for indoor applications whilst loose-tube cable was best for outdoor applications. Many places avoiding using them as alternatives due to their material features. Despite this,
 Read More
 AWG CONVERSION GUIDE
 / September 20, 2021
-Views: 623
+Views: 624
 American Wire Gauge or AWG is the US standard measure for the diameter of cable electrical conductors. This AWG chart is based on the number of dies originally required to
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
 / September 13, 2021
-Views: 1,933
+Views: 1,937
 The process of terminating twisted pair cable may seem simple on the surface, however, issues involving unproperly terminated solutions can arise, specially within today’s High-Performance LANs. With so many ways
 Read More
 A GUIDE TO LAN CABLE
@@ -199,7 +199,7 @@ Despite the many advancements in fibre optic cable and newer builds taking advan
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,966
+Views: 5,967
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES
@@ -209,7 +209,7 @@ Bandwidth in cables refers to the range of frequencies used to transfer informat
 Read More
 CABLE ATTENUATION EXPLAINED
 / August 16, 2021
-Views: 1,217
+Views: 1,218
 When attenuation is used by networking professionals it refers to loss of signal strength due to [x] factors. This can be either internal or external. Below we will see what
 Read More
 WI-FI VS ETHERNET – WHICH IS FASTER?

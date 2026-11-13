@@ -1,7 +1,9 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-12T09:57:55Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-13T09:45:13Z · HTTP 200
+12.11.2026 15:41:13	EFB Hylle 1U Uttrekkbar 450mm	https://www.leteng.no/efb-elektronik/691651agr-dot-6/efb-hylle-1u-uttrekkbar-450mm-1u-gr%c3%a5-max-30kg
+12.11.2026 15:36:40	SCP CAT 6A U/FTP 600 MHZ	https://www.leteng.no/scp/cat6ash-prem-ls-bl-b/scp-cat-dot-6-u-ftp-600-mhz-305-m-trommel-23awg-solid-isbl%c3%a5-lszh
 11.11.2026 11:07:36	AVer Room Kit for Teams	https://www.leteng.no/aver/core500/aver-room-kit-for-teams-16gb-ram-256gb-ssd-with-11-6-touch
 09.11.2026 15:01:49	Planet trådløst aksesspunkt - 2.4 / 5GHz	https://www.leteng.no/planet-technology-corp-dot-/wdap-5100be/planet-tr%c3%a5dl%c3%b8st-aksesspunkt-2-dot-4-5ghz-802-dot-11be-5100-mbps-poe-plus--ute
-06.11.2026 12:51:57	Simply45 - RJ45 - CAT 6 UTP Cap45	https://www.leteng.no/simply-45/s45-1601/simply45-rj45-cat-6-utp-cap45-pass-through-23awg-50-stk
+06.11.2026 12:51:57	Simply45 - CAT 6 UTP Cap45	https://www.leteng.no/simply-45/s45-1601/simply45-rj45-cat-6-utp-cap45-pass-through-23awg-50-stk
 05.11.2026 16:20:38	EFB Hylle 1U Ventilert 350 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u350/efb-hylle-1u-ventilert-350-mm-19-max-10-kg-sort
 05.11.2026 16:17:51	EFB Hylle 1U Ventilert 250 mm	https://www.leteng.no/efb-elektronik/691650ts-dot-1u250/efb-hylle-1u-ventilert-250-mm-19-max-10-kg-sort
 05.11.2026 15:45:41	ACT USB4 Thunderbolt™5 kabel- 1,5m	https://www.leteng.no/act/ac7452/act-usb4-thunderbolt5-kabel-1-5m-usb-c-m-m-80gbps-240w-usb-if-certified
@@ -97,5 +99,3 @@
 08.09.2026 10:34:39	DFY KabelposeSmall	https://www.leteng.no/aic-all-in-cable/kde-gry-cb380/dfy-kabelposesmall-m%c3%b8rk-gr%c3%a5-380x200x350-160
 08.09.2026 10:31:08	DFY Kabelpose Large	https://www.leteng.no/leteng-as/kde-gry-cb645/dfy-kabelpose-large-m%c3%b8rk-gr%c3%a5-645x200x350-160
 04.09.2026 10:44:48	Planet Industri EtherCAT Junction Slave	https://www.leteng.no/planet-technology-corp-dot-/iecj-410ft/planet-industri-ethercat-junction-slave-3-port-rj45-ip30
-04.09.2026 09:12:43	Kramer KDS17 LITE - AVIP - Tranceiver	https://www.leteng.no/kramer/kds-17-lite/kramer-kds17-lite-avip-tranceiver-4k60-4-4-4-1-gbps-poe
-03.09.2026 14:17:06	UTP Patch Cat.6 - 25 m Grå LSZH	https://www.leteng.no/efb-elektronik/k8104gr-dot-25/utp-patch-cat-dot-6-25-m-gr%c3%a5-lszh-250mhz-24awg-halogenfri-snagless

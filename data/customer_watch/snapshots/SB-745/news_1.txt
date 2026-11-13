@@ -1,4 +1,4 @@
-# SB-745 comtrol.co.uk · news_1 · https://www.comtrol.co.uk/case-studies/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-745 comtrol.co.uk · news_1 · https://www.comtrol.co.uk/case-studies/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Case Studies -
 Skip to content
 Home
@@ -39,6 +39,9 @@ Fibre Optic & PoE Networks in Naval Vessels
 Broadcast Solutions
 VTR Control across a LAN – Sky Sports News HD
 Broadcast Automation
+Building Energy Optimisation
+Prisma Health $3M savings across 3 years
+Southcoast Healthcare – BMS monitoring
 Oil & Gas
 Oil Rig Communications
 Oil Pipeline Monitoring

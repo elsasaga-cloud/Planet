@@ -1,6 +1,6 @@
-# SB-238 digimax.it · sitemap · https://www.digimax.it/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
-2026-11-12T10:05:59+00:00	https://www.digimax.it/it/sitemap.xml
-2026-11-12T10:05:59+00:00	https://www.digimax.it/en/sitemap.xml
+# SB-238 digimax.it · sitemap · https://www.digimax.it/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-13T09:59:10+00:00	https://www.digimax.it/it/sitemap.xml
+2026-11-13T09:59:10+00:00	https://www.digimax.it/en/sitemap.xml
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/14D-12D05NNL
 2025-09-17T00:06:23+00:00	https://www.digimax.it/en/product/14D-12D05NNL
 2025-09-17T00:06:23+00:00	https://www.digimax.it/it/product/19D-24D15NNL
@@ -45,8 +45,8 @@
 2025-05-05T10:31:19+00:00	https://www.digimax.it/en/product/ADD-55A
 2026-10-15T08:27:11+00:00	https://www.digimax.it/it/product/APC-12-350
 2026-10-15T08:27:11+00:00	https://www.digimax.it/en/product/APC-12-350
-2026-11-06T11:57:31+00:00	https://www.digimax.it/it/product/APC-16-350
-2026-11-06T11:57:31+00:00	https://www.digimax.it/en/product/APC-16-350
+2026-11-12T15:26:59+00:00	https://www.digimax.it/it/product/APC-16-350
+2026-11-12T15:26:59+00:00	https://www.digimax.it/en/product/APC-16-350
 2026-04-09T09:27:05+00:00	https://www.digimax.it/it/product/APC-16-700
 2026-04-09T09:27:05+00:00	https://www.digimax.it/en/product/APC-16-700
 2026-02-20T14:08:45+00:00	https://www.digimax.it/it/product/APV-12-12

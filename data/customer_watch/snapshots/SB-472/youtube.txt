@@ -1,4 +1,4 @@
-# SB-472 bma-networks.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCc_yz3BULtJI3xSqLknGGUw · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-472 bma-networks.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCc_yz3BULtJI3xSqLknGGUw · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-10-22T07:00:30+00:00	INNO IT 2026	https://www.youtube.com/watch?v=DQclgt4LUSk
 2026-09-24T09:05:52+00:00	RUCKUS Networking für Industrie & Logistik | insightD TechTalk	https://www.youtube.com/watch?v=9R1095CwfYI
 2026-09-24T09:01:22+00:00	KI-Governance mit M365 Copilot | InsightD Webinar	https://www.youtube.com/watch?v=IHB9YThq_h4

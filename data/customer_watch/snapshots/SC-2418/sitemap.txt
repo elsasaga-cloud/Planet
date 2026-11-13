@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
-2026-11-12	https://www.streakwave.com/
-2026-11-12	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-13	https://www.streakwave.com/
+2026-11-13	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
@@ -131,6 +131,11 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-12	https://www.streakwave.com/600w-hot-swap-dc-dc-power-supply-for-crs320
+2026-11-12	https://www.streakwave.com/ubiquiti-ua-g3-fingerprint-w-g3-reader-fingerprint-white
+2026-11-12	https://www.streakwave.com/ubiquiti-ua-g3-fingerprint-b-g3-reader-fingerprint-black
+2026-11-12	https://www.streakwave.com/multi-rate-sfpsfpsfp28-single-mode-optical-module
+2026-11-12	https://www.streakwave.com/ltap-lte12-ax
 2026-11-10	https://www.streakwave.com/2-line-essential-lite-ip-phone-with-gigabit-ethernet
 2026-11-10	https://www.streakwave.com/2-account-2-line-essential-lite-ip-phone-with-poe
 2026-11-10	https://www.streakwave.com/long-range-switch-8-poe
@@ -188,8 +193,4 @@
 2026-10-08	https://www.streakwave.com/850nm-300m-sfp-10g-sr-mmf-optical-transceiver
 2026-10-08	https://www.streakwave.com/1310nm-10km-sfp-10g-lr-smf-optical-transceiver
 2026-10-08	https://www.streakwave.com/5-port-gbe-120w-poe-industrial-din-rail-switch
-2026-10-08	https://www.streakwave.com/pole-mount-kit-for-outdoor-enclosure
-2026-10-08	https://www.streakwave.com/outdoor-ipx5-enclosure-for-wifi-76e-aps
-2026-10-08	https://www.streakwave.com/outdoor-ipx5-enclosure-for-nwawaxwac-aps
-2026-10-07	https://www.streakwave.com/4x4-2x2-wifi-7-dual-band-ap-25g-lan-nebulaflex
-2026-10-07	https://www.streakwave.com/2x2-wifi-7-dual-band-ap-25g-lan-dual-optimized-antenna-nebulaflex
+2026-10-

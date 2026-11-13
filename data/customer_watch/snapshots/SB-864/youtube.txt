@@ -1,4 +1,4 @@
-# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-11-11T14:00:18+00:00	PLC Dijital Giriş Nedir? Sistem Butona Basıldığını Nasıl Anlar?	https://www.youtube.com/shorts/RsFfFeuvZb0
 2026-11-09T14:00:18+00:00	PLC Tozda Çalışır mı? Endüstriyel PLC Neden Panoya Konur?	https://www.youtube.com/shorts/152f6iPUI48
 2026-11-07T14:00:26+00:00	PLC Nasıl Çalışır? Butonun Sinyali Valfe Nasıl Ulaşır?	https://www.youtube.com/shorts/2cxHfSZZIs4

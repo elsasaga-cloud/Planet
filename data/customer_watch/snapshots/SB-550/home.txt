@@ -1,4 +1,4 @@
-# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 notebooks, PC components, harddrives and electronic at reichelt
 Please choose your location:
 Austria
@@ -216,7 +216,7 @@ Italiano
 Español
 X
 Country:
-United Kingdom
+Ireland
 Language:
 English
 Deutsch
@@ -271,7 +271,7 @@ Shopping Cart
 €0.00
 Shipping costs
 from
-€5.95
+€9.95
 Components
 Raspberry Pi Arduino
 Batteries, Power, Charger
@@ -298,15 +298,16 @@ Current edition
 Newsletter
 Subscribe now
 & benefit twice a week!
-54, 90
+35.95
+30. 01
 *
-842, 90
+17. 20
 *
-599, 99
+62,950.-
 *
-85, 95
+239. 90
 *
-8, 95
+39. 90
 *
 Thema - Robo 2026-03
 Indoor-Projekte
@@ -329,8 +330,8 @@ The heart of every efficient NAS environment
 Specifically designed for 24/7 performance and reliability.
 Approved Reseller
 The compact all-rounder with countless application possibilities. From HD media players and multimedia PCs to home automation and a wide variety of DIY projects.
-KEENON Robotics
-Autonomous Solutions for Cleaning, Service, and Transportation.
+Small modules, big possibilities.
+With M5Stack, IoT projects and smart control systems can be implemented easily and flexibly.
 Magazine
 Bringing Fibre into the Home: The Optical Termination Point as a Key Component
 Read now ►
@@ -360,8 +361,8 @@ Mon - Thu:
 -
 Fri:
 -
-Tel.: 04422 955333
-Fax: 04422 955111
+Tel.: 00 49 4422 955333
+Fax: 00 49 4422 955111
 Email:
 info@reichelt.de
 Company address

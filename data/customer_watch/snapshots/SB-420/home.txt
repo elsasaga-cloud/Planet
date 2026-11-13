@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -43,34 +43,32 @@ favorite Wishlist
 menu Kategorie
 Promocje
 Nowości
-Zestawy z nagrodami (14)
-Access pointy / routery (527)
-Akcesoria GSM/LTE (63)
-Akcesoria, uchwyty (163)
-Anteny (112)
-Części serwisowe (45)
+Zestawy z nagrodami (12)
+Access pointy / routery (532)
+Akcesoria GSM/LTE (64)
+Akcesoria, uchwyty (165)
+Anteny (115)
 Inteligentny Dom (45)
-IPTV / Android TV (20)
+IPTV / Android TV (23)
 Karty sieciowe (70)
 Kryptowaluty (2)
 Mediakonwertery (33)
-MikroTik (310)
+MikroTik (306)
 Mimosa (26)
 Monitoring (314)
 Narzędzia (79)
-Okablowanie (475)
-Radiolinie (5)
-Sieci radiowe (WLAN) (106)
-Światłowody (1590)
-Switche (359)
+Okablowanie (471)
+Sieci radiowe (WLAN) (105)
+Światłowody (1575)
+Switche (357)
 Systemy Magazynowania Energii (11)
-Szafy, skrzynki (149)
-Teltonika (31)
-Ubiquiti (931)
+Szafy, skrzynki (123)
+Teltonika (30)
+Ubiquiti (930)
 VoIP (28)
 xDSL (9)
-Zasilanie (346)
-Złącza, wtyki (54)
+Zasilanie (343)
+Złącza, wtyki (48)
 Producent
 Wybierz
 Andrew (2)
@@ -80,15 +78,15 @@ AVM (6)
 AzureWave (1)
 BBS Power (31)
 Cablemedia (31)
-CDR (233)
+CDR (234)
 Cisco (9)
 CRYPTO (1)
 CUNYE (1)
 CyberBajt (22)
-D-Link (35)
+D-Link (37)
 Dahua Technology (126)
 Delta (2)
-Digitus (156)
+Digitus (155)
 Eloik (4)
 Eltek (10)
 Ever (6)
@@ -98,16 +96,15 @@ GAMM-BUD (1)
 Gateworks (2)
 Grandstream (17)
 Grandway (5)
-Green Cell (86)
+Green Cell (83)
 Hanlong (7)
 Hikvision (9)
-Huawei (331)
+Huawei (330)
 IC+ (2)
 Ideal Industries (4)
 inext (4)
 Infomir (29)
 INNO Instrument (13)
-IP-COM (1)
 Jirous (24)
 Joinwit (4)
 Kendin (1)
@@ -116,14 +113,14 @@ KNIPEX (30)
 KSTAR (11)
 Lite-On (1)
 LR-Link (24)
-Mantar (66)
+Mantar (29)
 Maxcable (11)
 Mean Well (34)
 Menda (1)
 Merawex (11)
 Mercusys (50)
 Micrel (2)
-Mikrotik (567)
+Mikrotik (571)
 Mimosa (36)
 NEC (1)
 NeoPhotonics (1)
@@ -133,35 +130,36 @@ Newmax (4)
 Nokia (8)
 NTT Advanced Technology (3)
 Octominer (1)
-OEM (173)
-Opton (1043)
+OEM (167)
+Opton (1056)
 Realtek (3)
 RED Power (7)
-RF Elements (120)
+RF Elements (126)
 Ripley Tools (11)
 Scapa (1)
-Seven (6)
+Scud (Fujian) Electronics Co., Ltd. (1)
+Seven (5)
 ShinewayTech (24)
 Skyworks (1)
-Solarix (202)
-Stalflex (27)
+Solarix (196)
+Stalflex (20)
 Teltonika (38)
 Tinycontrol (23)
-TP-Link (816)
+TP-Link (817)
 TriBrer (12)
 Tumtec (2)
-TVIP (5)
-Ubiquiti Networks (1105)
+TVIP (9)
+Ubiquiti Networks (1104)
 UltraLAN (71)
 Uplink (56)
-Volt (38)
+Volt (37)
 Wavearena Pacific (4)
 Wireless Instruments (1)
 WISEA (1)
 Yealink (25)
 YOFC (17)
 ZKTel (1)
-ZTE (26)
+ZTE (28)
 ZTT (10)
 Ostatnio oglądane
 ❮
@@ -182,44 +180,44 @@ ZTE ZXHN F6705
 Terminal GPON ONT z Wi-Fi 7, 1 portem 2.5G Ethernet oraz 3 porty 1G Ethernet.
 Przejdź do produktu
 Bestsellery
-405,59 zł
-498,88 zł z VAT
-MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
-58,67 zł
-72,16 zł z VAT
-Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT
 237,81 zł
 292,51 zł z VAT
 MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
+405,59 zł
+498,88 zł z VAT
+MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
 302,67 zł
 372,28 zł z VAT
 MikroTik RouterBOARD C52iG-5HaxD2HaxD-TC hAP ax2 bezprzewodowy router AX1800, 5x GE
+601,02 zł
+739,25 zł z VAT
+MikroTik Chateau PRO ax router Wi-Fi 6 AX3600 5x GE, USB, 1x PoE OUT
 Promocje
--65%
-22,02 zł
-7,60 zł
-9,35 zł z VAT
-OPTON patchcord FC/APC-FC/APC SM DUPLEX 3mm 0.5m G652.D
--64%
-1 199,52 zł
-437,81 zł
-538,51 zł z VAT
-Mimosa N5-45X4 antena sektorowa 5 GHz 4x4 MIMO 45deg 22 dBi Slant 45
--40%
-9 988,00 zł
-5 999,00 zł
-7 378,77 zł z VAT
-ZTE ZXA10 C320 terminal OLT z 2 płytami kontrolnymi SMXA/3 (zasilanie DC)
--70%
-10 031,38 zł
-2 999,00 zł
-3 688,77 zł z VAT
-Huawei terminal GPON OLT MA5608T (1x MCUD, 16x GPON z wkładkami C+, zasilanie DC MPWC)
+-66%
+6,72 zł
+2,31 zł
+2,84 zł z VAT
+OPTON pigtail ST/UPC SM 0.9mm 1m G652D
+-45%
+237,58 zł
+131,18 zł
+161,35 zł z VAT
+Opton 1.25G CWDM SFP TX1271 SM LC 80km
+-54%
+65,62 zł
+29,99 zł
+36,89 zł z VAT
+Zasilacz impulsowy 12 V 1 A, 2,1/5,5 mm (zestaw 5 sztuk)
+-27%
+4,80 zł
+3,49 zł
+4,29 zł z VAT
+Opton AC-14 uchwyt odciągowy 3 - 5,4 mm
 Promocja!
--8%
-19 000,00 zł netto
-17 500,00 zł netto
-100 sztuk Huawei EG8145X6-10 (terminal GPON ONT Wi-Fi 6 AX3000) z wybraną nagrodą za 1 zł
+-24%
+25 000,00 zł netto
+18 999,00 zł netto
+100 sztuk Huawei EG8145B7N-50 (terminal GPON ONT Wi-Fi 7 BE3600) z wybraną nagrodą za 1 zł
 O sklepie
 Regulamin
 Katalog
@@ -227,7 +225,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-11-12 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-11-13 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

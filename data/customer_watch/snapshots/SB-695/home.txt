@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,18 +429,12 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
-R$ 396,00
+-50%
+LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
+R$ 255,00
+R$ 127,50
 R$
-384 , 12
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SW-5P
-R$ 549,00
-R$
-532 , 53
+123 , 68
 à vista
 com desconto Pix - Vindi
 Comprar
@@ -453,27 +447,36 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-MDR-100 Fonte CA/CC 100W PFC com Montagem em Trilho DIN MeanWell
-R$ 344,43
+LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
+R$ 549,00
 R$
-334 , 10
+532 , 53
 à vista
 com desconto Pix - Vindi
-Ver opções
+Comprar
+Ver ficha técnica
+LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
+R$ 499,00
+R$
+484 , 03
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Lançamentos
-1-Wire Transmissor PT100 TST200
-Sob consulta
-Saiba mais
-Pedir cotação
-1-Wire Transmissor de Loop de Corrente TSA200
-Sob consulta
-Saiba mais
-Pedir cotação
 1-Wire Sensor de Pressão Barométrica TSP200
 Sob consulta
 Saiba mais
 Pedir cotação
-Detector de Vazamento de Água com Saída Digital TSF400-0
+1-Wire Sensor de Temperatura TST100
+Sob consulta
+Saiba mais
+Pedir cotação
+Módulo IO Universal 4G LTE TCG140-4
+Sob consulta
+Saiba mais
+Pedir cotação
+Sensor de Temperatura e Umidade IP54 TSH331
 Sob consulta
 Saiba mais
 Pedir cotação
@@ -539,5 +542,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.239 secs - 12-11-2026  - node: commerce-web5-tiny-lw - store
+Load time: 6.685 secs - 13-11-2026  - node: commerce-web4-bot-lw - store
 ×

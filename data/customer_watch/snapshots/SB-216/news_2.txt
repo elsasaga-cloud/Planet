@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Ajax Multi-transmitter
 Trade Register
 Products
@@ -103,15 +103,6 @@ News
 Contact Us
 Support
 Webinars
-Networking
-Ideal Connectors & Tools
-4G Industrial Routers
-Cyber Security
-Engenius WiFi
-LTS Industrial
-Networking Accessories
-Switches / POE
-Wi-Fi
 Alarms & Home Automation
 Ajax Wireless
 Accessories
@@ -214,6 +205,15 @@ LCD Monitors
 CCTV Testers
 HDMI
 Security Grade LCD Monitors
+Networking
+4G Industrial Routers
+Cyber Security
+Engenius WiFi
+Ideal Connectors & Tools
+LTS Industrial
+Networking Accessories
+Switches / POE
+Wi-Fi
 Power, Storage & Batteries
 Batteries
 Hard Drives

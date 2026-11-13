@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Systemy alarmowe i monitoringu CCTV | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -54,28 +54,28 @@ W sklepie iVolta.pl znajdziesz bogatą ofertę rozwiązań z zakresu systemów a
 Współpracujemy z instalatorami, inwestorami oraz biurami projektowymi, aby dobierać systemy zabezpieczeń najlepiej dopasowane do Twoich potrzeb. Bogata oferta produktowa oraz rozbudowany magazyn gwarantują szeroki wybór rozwiązań z zakresu systemów alarmowych i monitoringu. Zapewnimy Ci również doradztwo oraz pomoc w zakupach. Nasz zespół to ponad 70 osób w centrali firmy w Warszawie oraz 10 oddziałach regionalnych, dbających o wysoki poziom obsługi na terenie całej Polski. Bezstresowy zwrot zakupionego towaru w ciągu 14 dni oraz własny dział serwisowy to gwarancja Twojej satysfakcji na każdym etapie realizacji zamówienia. Zapraszamy do zakupów.
 Nowości
 zobacz wszystkie
-Kamera IP 12Mpix AcuSense IP67, IR+LED 40m 2.8mm DS-2CD20123G2-LIUY/SL(2.8mm) HIKVISION
-2 196,78 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Moduł podstawowy z 20 czujnikami – odstęp 2,5 m TORSUS COMPACT 50 DEA
-11 463,60 zł brutto
-Dostępność: Na zamówienie
-Dodaj do koszyka
-Fotopułapka Reolink Camovue 8MP LTE Talon Series Talon Series T130 REOLINK
-858,54 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Kamera IP 6Mpix ColorHunter IR+LED30m WDR130dB IPC3616SB-ADF28KMC-I1 UNIVIEW
 2 029,50 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Kontaktron magnetyczny, antracyt, NC MINI-V10-AN YOTOGI
-15,99 zł brutto
+Głośnik sufitowy IPS301015-S UNIVIEW
+2 952,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL
-662,97 zł brutto
+Kamera IP 4Mpix ColorVu 3.0 IR+LED 30m 2.8mm mikr DS-2CD1047G3-LIU(2.8mm) HIKVISION
+1 186,95 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Kontaktron magnetyczny, antracyt, NO/NC SMV-30-AN YOTOGI
+40,59 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Centrala alarmowa, Grade 2, do 64 wejść, moduł ETH PERFECTA-IP 64 M SATEL
+847,47 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Kamera IP 12Mpix AcuSense IP67, IR+LED 40m 2.8mm DS-2CD20123G2-LIUY/SL(2.8mm) HIKVISION
+2 196,78 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Akademia zabezpieczeń – szkolenia
@@ -92,12 +92,12 @@ Szkolenie CCTV Uniview - Szczecin
 Sprawdź
 Promocje
 zobacz wszystkie
-Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
-613,77 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
 1 665,42 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
+613,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
@@ -106,10 +106,6 @@ Dostępność: Dostępny
 Dodaj do koszyka
 Wyprzedaże
 zobacz wszystkie
-Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
-1 843,77 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
 1 105,77 zł brutto
 Dostępność: Dostępny
@@ -118,30 +114,34 @@ Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
 5 535,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
+Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
+1 843,77 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 W zestawie taniej
 zobacz wszystkie
-Papier termoczuły do drukarek 112mm x 20m, 10 rolek ZZ_papier termiczny 112mm x 20m MEFA
-110,70 zł brutto
+Zestaw UNV ZZUNV_3 UNIVIEW
+719,99 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-Zestaw 2xZW600R i 2xTZ600 ZZ_2xZW600R_2xTZ600 YOTOGI
-785,97 zł brutto
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_38 TAVIO
+349,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw wideodomofonowy Genway ZZF-S7V11-2W GENWAY
+Zestaw 10 x MC 270 ZZ_10x_MC 270 ALARMTECH
+769,98 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Zestaw 10 x MC 740-PE ZZ_10x_MC 740-PE ALARMTECH
+412,05 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+ROP do obszarów zagrożonych eksplozją DM1103B-EX BOSCH
+836,40 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Zestaw wideodomofonowy Genway ZZF-S7V11-2W/B GENWAY
 1 999,00 zł brutto
-Dostępność: Na zamówienie
-Dodaj do koszyka
-Zestaw 10 x MC 740-PEA ZZ_10x_MC 740-PEA ALARMTECH
-418,20 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Zestaw 2xZW600 i 2xTL600 ZZ_2xZW600_2xTL600 YOTOGI
-613,77 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Zestaw wideodomofonowy IP Villa KTP02 DAHUA
-3 102,06 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
 Zostań naszym
@@ -150,6 +150,9 @@ Odkrywaj z nami systemy zabezpieczeń i zamawiaj produkty w cenach hurtowych! Je
 Dowiedz się więcej
 Producenci
 Aktualności produktowe
+Rozpoczynamy współpracę z Cobi Cabling
+Poszerzamy ofertę iVolta.pl o kolejną markę. Rozpoczynamy współpracę z Cobi Cabling , producentem rozwiązań przeznaczonych do budowy infrastruktury sieciowej i teleinformatycznej.
+Czytaj więcej
 VIGI Designer Tool w praktyce – zaprojektuj monitoring, zanim zamontujesz pierwszą kamerę
 VIGI Designer Tool to narzędzie, które warto traktować nie jako efektowny dodatek do sprzedaży kamer VIGI, ale jako narzędzie pracy instalatora CCTV.
 Czytaj więcej
@@ -158,9 +161,6 @@ SATEL rozszerza ofertę urządzeń do systemów bezpieczeństwa o kolejne rozwi�
 Czytaj więcej
 Nowość - bezprzewodowy system sygnalizacji pożaru AJAX EN54 Line
 Oferta iVolta.pl poszerza się o nowe rozwiązania marki AJAX przeznaczone do profesjonalnej ochrony przeciwpożarowej - AJAX EN54 Line.
-Czytaj więcej
-Integracja central NeoLTE-IP-64 z kamerami IP i analityką AI
-Kluczową nowością central jest głęboka integracja hybrydowych central z serii NeoLTE-IP-64 z nowoczesnymi kamerami IP wyposażonymi w algorytmy sztucznej inteligencji (AI).
 Czytaj więcej
 Zobacz wszystkie
 Dlaczego zakupy na ivolta.pl
@@ -248,4 +248,7 @@ Więcej informacji uzyskasz tutaj .
 * Pole obowiązkowe
 Informacja systemowa
 Niniejszym informujemy, iż pobranie faktury korygującej w formie elektronicznej przez Klienta poprzez kliknięcie w link "Tak potwierdzam", jest równoznaczne z potwierdzeniem przez Klienta otrzymania przedmiotowej faktury. Dziękujemy i zapraszamy do ewentualnego kontaktu pod numerem 22 295 06 06.
-N
+Nie zgadzam się Tak potwierdzam
+Drogi Użytkowniku!
+×
+Dziękujemy za udział w promocji. Twój kod zostanie aktywowa

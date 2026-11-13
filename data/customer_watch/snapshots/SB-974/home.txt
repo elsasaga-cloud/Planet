@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-13T09:45:13Z · HTTP 200
 Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996
 DE EN
 Suche
@@ -128,6 +128,11 @@ Mo 01.03.2027
 -
 Di 02.03.2027
 Titanic Chaussee, Berlin
+DSEI Germany
+Di 09.03.2027
+-
+Fr 12.03.2027
+Messegelände, Hannover
 PARTNER
 JETZT KOSTENLOS FÜR DEN NEWSLETTER REGISTRIEREN
 Mit dem b-plus Newsletter bleiben Sie up-to-date zu unseren Themen rund um die Validierung und Analyse von autonomen Fahrsystemen und der Entwicklung von Technologielösungen für autonomes Fahren.

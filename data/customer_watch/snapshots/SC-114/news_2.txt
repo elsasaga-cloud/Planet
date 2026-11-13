@@ -1,4 +1,4 @@
-# SC-114 Siklu Communication · news_2 · https://www.ceragon.com/news · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-114 Siklu Communication · news_2 · https://www.ceragon.com/news · fetched 2026-11-13T09:45:13Z · HTTP 200
 Press Releases | Ceragon
 Markets
 Mobile Operators
@@ -171,9 +171,9 @@ Press Releases
 Search by keyword
 There are no suggestions because the search field is empty.
 Search by category
-Corporate News (124)
+Corporate News (125)
 Financial News (90)
-News (78)
+News (79)
 Product/Technology (7)
 Search by year
 November 2026 (3)

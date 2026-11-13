@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/4mpx-wifi-kamera-s-mikrofon-i-cvetno-nostno-vizdane
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -30,7 +30,6 @@
 	https://www.kassabasystems.com/hik4da-5mpx-ultrahd-4-kanalen-komplekt-s-4-broya-kupolni-kameri-s-vgradeno-audio-i-hibriden-videorekorder-hikvision-2ip
 	https://www.kassabasystems.com/icm-4g4mpx-solarna-4g-ultrahd-4mpx-ip-upravlyaema-pt-kamera-sas-slot-za-sim-mikrofon-i-karta-pamet-do-128gb
 	https://www.kassabasystems.com/trx-4m35aw-poe-2-8-2-8mm-shirokoagalna-ip-poe-full-color-4mpx-bulet-kamera-s-vgraden-mikrofon-i-tsvetno-izobrazhenie-prez-noshtta
-	https://www.kassabasystems.com/trx-50wifi-mc-5mpx-ultrahd-icsee-vanshna-wifi-kamera-s-mikrofon-tsvetna-noshtna-kartina-do-40-metra-i-slot-za-sd-karta-do-128gb
 	https://www.kassabasystems.com/trx-dcsp20sl-megapikselova-varifokalna-kamera-1080p
 	https://www.kassabasystems.com/lovna-4G-solarna-kamera-UB-15HUNT-3M-4G
 	https://www.kassabasystems.com/ub-809ht-3m-4g
@@ -142,4 +141,5 @@
 	https://www.kassabasystems.com/trx-1350-1-3mpx-ip-ir-kamera-za-vanshno-videonablyudenie
 	https://www.kassabasystems.com/4k-ip-komplekt-za-videonablyudenie-s-4-vanshni-8mpx-poe-kameri-s-vgraden-mikrofon-i-tsvetno-noshtno-vizhdane-10-kanalen-nvr-i-poe-suich-4ip8dl-poe-1644408339
 	https://www.kassabasystems.com/ip-kamera-trx-dcs13-a
-	https://ww
+	https://www.kassabasystems.com/4robot25-3mp-wifi-bezzhichen-tsifrov-komplekt-s-4br-wifi-3mpx-upravlyaemi-vanshni-kameri-i-nvr-videorekorder-ultra-hd
+	https://www.kassabas

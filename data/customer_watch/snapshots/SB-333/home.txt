@@ -1,4 +1,4 @@
-# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-S535(BRAK.S) - Suport montare aplicata pentru videointerfoanele IP Akuvox S535
-S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
-CCA3-4-2PLUS - Centrala de control acces IP pentru 4 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
-YP-902-24-3 - Sursa de alimentare neintreruptibila, pentru control acces, 24Vcc/3A
-FLM16-FJ-4-E-RDGN - Buton de iesire, contact NO-COM, LED rosu/verde, montaj Ø16 mm, actionare prin apasare, IP67
-DT-700 - Senzor AI cu camera, de detectie a persoanelor, cu functie de deschidere si protectie anti-coliziune, pentru usi automate
-S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
-YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
-CY-SOFT-ONPREM|UPGRADE - Upgrade software On-Premise, la cerere
-BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
 CCA3-2-2PLUS - Centrala de control acces IP pentru 2 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
 EC33 - Centrala IP pentru controlul accesului la lift, cu 32 de iesiri releu, extensibila
+CY-SL-INT-EEC - Terminal intrare/iesire parcare interfon, scaner QR, ecran LCD 10", controler EEC, RJ45 10/100MBPS; IP54
+CCA3-4-2PLUS - Centrala de control acces IP pentru 4 usi cu suport cititoare Wiegand, RS485 si acces bi-directional
+DT-700 - Senzor AI cu camera, de detectie a persoanelor, cu functie de deschidere si protectie anti-coliziune, pentru usi automate
+BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
+GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
+YP-902-24-3 - Sursa de alimentare neintreruptibila, pentru control acces, 24Vcc/3A
 GL-QM6-219 - Bolard auto hidraulic din Inox cu diametru de 219mm si inaltime utila de 600mm cu iluminare LED, IP68
-G3-TT - Gateway Bluetooth–LAN pentru incuietori inteligente TTLock, conexiune Ethernet RJ45
-INBIO-4-2PRO-PLUS - Centrala biometrica de control acces IP pentru 4 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+S535(BRAK.F.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535
+YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
+INBIO-1-2PRO-PLUS - Centrala biometrica de control acces IP pentru 1 usa, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+S535(BRAK.S) - Suport montare aplicata pentru videointerfoanele IP Akuvox S535
+INBIO-2-2PRO-PLUS - Centrala biometrica de control acces IP pentru 2 usi, cu suport pentru cititoare Wiegand, RS-485 si acces bi-directional
+CAB4-PS5-gy(M) - Cabinet multifunctional pentru centrale de control acces, sursa 12~14.1Vcc / 5A, backup, negru-gri, cu pini magnetici pentru fixare controler
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · sitemap · https://www.dipol.pt/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1023 dipol.pt · sitemap · https://www.dipol.pt/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2024-05-15T13:04:57Z	https://www.dipol.pt/antena_tv_dvb-t-t2_asp-8w_lux_br_com_amplificador_lna-177_A0024.htm
 2024-05-15T13:04:57Z	https://www.dipol.pt/antena_tv_dvb-t-t2_asp-8_br_com_transformador_de_impedancia_A0028.htm
 2024-05-15T13:04:57Z	https://www.dipol.pt/antena_tv_banda_larga_dvb-t-t2_asp-8w_br_com_amplificador_lna-169_A0029.htm

@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · sitemap · https://www.eltrox.cz/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-977 eltrox.cz · sitemap · https://www.eltrox.cz/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 	https://www.eltrox.cz/znacka/2n/
 	https://www.eltrox.cz/znacka/2x3/
 	https://www.eltrox.cz/znacka/360/

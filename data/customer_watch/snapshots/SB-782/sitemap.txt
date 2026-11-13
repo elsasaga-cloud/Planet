@@ -1,9 +1,9 @@
-# SB-782 simpleuk.com · sitemap · https://www.simpleuk.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
-2026-11-11	https://www.simpleuk.com/
-2026-11-11	https://www.simpleuk.com/search
-2026-11-11	https://www.simpleuk.com/contactus
-2026-11-11	https://www.simpleuk.com/news
-2026-11-11	https://www.simpleuk.com/blog
+# SB-782 simpleuk.com · sitemap · https://www.simpleuk.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-13	https://www.simpleuk.com/
+2026-11-13	https://www.simpleuk.com/search
+2026-11-13	https://www.simpleuk.com/contactus
+2026-11-13	https://www.simpleuk.com/news
+2026-11-13	https://www.simpleuk.com/blog
 2024-10-02	https://www.simpleuk.com/cables
 2024-10-02	https://www.simpleuk.com/active-optical-cables
 2025-04-07	https://www.simpleuk.com/sfp-10g-dac

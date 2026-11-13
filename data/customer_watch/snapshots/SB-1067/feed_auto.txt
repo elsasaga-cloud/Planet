@@ -1,4 +1,4 @@
-# SB-1067 raytelsecurity.com · feed_auto · https://www.raytelsecurity.com/blog/rss/index/store_id/1/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1067 raytelsecurity.com · feed_auto · https://www.raytelsecurity.com/blog/rss/index/store_id/1/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Tue, 06 Jan 2026 15:55:35 +0000	Keep it Lite with IP-Lite our scalable door entry system	https://www.raytelsecurity.com/blog/IP-Lite_scalable_door_entry_system/
 Thu, 22 Feb 2024 10:46:58 +0000	Check out the New Design AR-888 Series Readers and Controllers!	https://www.raytelsecurity.com/blog/new-design-soyal-AR-888-Series-Access-Control-Keypad-proximity-and-tough-to-exit/
 Mon, 11 Sep 2023 15:17:26 +0000	New Vimar WiFi Monitors and Call forwarding App	https://www.raytelsecurity.com/blog/new-Vimar-WiFi-monitors-and-all-forwarding-app/

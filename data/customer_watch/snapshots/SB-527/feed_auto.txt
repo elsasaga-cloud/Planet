@@ -1,4 +1,4 @@
-# SB-527 avalan.com · feed_auto · https://www.avalan.com/blog-feed.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-527 avalan.com · feed_auto · https://www.avalan.com/blog-feed.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 Fri, 26 Aug 2022 14:25:58 GMT	AvaLAN AW585ANT-8FT Mounting Guide	https://www.avalan.com/post/avalan-aw585ant-8ft-mounting-guide
 Mon, 01 Aug 2022 14:25:22 GMT	AvaLAN's Bandwidth and Reliability	https://www.avalan.com/post/avalan-s-bandwidth-and-reliability
 Fri, 29 Jul 2022 13:50:30 GMT	How Forecourt Networking is Solved with Wireless	https://www.avalan.com/post/how-forecourt-networking-is-solved-with-wireless

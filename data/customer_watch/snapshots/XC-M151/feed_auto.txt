@@ -1,4 +1,4 @@
-# XC-M151 Power/mation · feed_auto · https://www.powermation.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M151 Power/mation · feed_auto · https://www.powermation.com/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Wed, 22 Apr 2026 21:51:00 +0000	How Modern PLC Automation is Changing ICS	https://www.powermation.com/blog/how-modern-plc-automation-is-changing-ics/
 Thu, 30 Oct 2025 13:51:33 +0000	2026 Macro Outlook for U.S. Manufacturing in Industrial Automation	https://www.powermation.com/blog/2026-macro-outlook-for-u-s-manufacturing-in-industrial-automation/
 Thu, 25 Sep 2025 14:07:36 +0000	Driving Smarter Production with Festo Electric Automation	https://www.powermation.com/blog/festo-electric-automation/

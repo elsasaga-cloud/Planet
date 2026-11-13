@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -38,6 +38,39 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+Tooltest - 4p,6p,8p fogó + teszter
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HOBHTC-0022
+Ár:
+28.640 Ft + ÁFA
+(36.373 Ft)
+2 db raktáron
+db
+Kosárba
+Részletek
+Szellőző panel 1E szürke DN-97692
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97692
+Ár:
+2.140 Ft + ÁFA
+(2.718 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Szellőző panel 1E fekete DN-97693
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97693
+Ár:
+2.140 Ft + ÁFA
+(2.718 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Szellőző panel 2E szürke DN-97694
 ÚJDONSÁG!
 Villámnézet
@@ -93,28 +126,6 @@ Cikkszám: K289543TD
 db
 Kosárba
 Részletek
-Szellőző panel 1E szürke DN-97692
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97692
-Ár:
-2.140 Ft + ÁFA
-(2.718 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Szellőző panel 1E fekete DN-97693
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97693
-Ár:
-2.140 Ft + ÁFA
-(2.718 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 8P8C mod.dugasz,árnyékolt Cat.6 átmenő P88R5Z50V2ST
 ÚJDONSÁG!
 Villámnézet
@@ -144,7 +155,7 @@ Cikkszám: DGYÜZMF
 Ár:
 1.990 Ft + ÁFA
 (2.527 Ft)
-1 db raktáron
+3 db raktáron
 db
 Kosárba
 Részletek
@@ -237,7 +248,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-17752 m raktáron
+17447 m raktáron
 m
 Kosárba
 Részletek
@@ -277,7 +288,7 @@ Cikkszám: K1120501C6ADIG
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-15135 m raktáron
+14525 m raktáron
 m
 Kosárba
 Részletek
@@ -297,7 +308,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1356 db raktáron
+1306 db raktáron
 db
 Kosárba
 Részletek
@@ -350,7 +361,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1356 db raktáron
+1306 db raktáron
 db
 Kosárba
 Részletek
@@ -360,7 +371,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-17752 m raktáron
+17447 m raktáron
 m
 Kosárba
 Részletek
@@ -414,7 +425,4 @@ Hogyan jelezhetem, ha hibás terméket kaptam?
 Kérjük, vedd fel velünk a kapcsolatot a megadott elérhetőségeken. https://lan.hu/kapcsolat-10
 Gyors ügyintézéssel segítünk a csere vagy javítás folyamatában.
 Milyen feltételekkel küldhetem vissza a terméket?
-A vásárlástól számított 14 napon belül lehetőség van elállásra a vonatkozó jogszabályoknak megfelelően.
-6. Műszaki támogatás
-Segít a LAN Kft. a termékek beüzemelésében?
-​Ig
+A vásárlástól számított 14

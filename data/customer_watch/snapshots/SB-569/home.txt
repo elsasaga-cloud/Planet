@@ -1,9 +1,9 @@
-# SB-569 cablematic.com · home · https://cablematic.com/en/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-569 cablematic.com · home · https://cablematic.com/en/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Cablematic
-+44 2035146931
++34 934987121
 Register
 Log in
-/ GBP /
+/ EUR /
 en
 0
 You have reached the maximum number of references on offer in your order. You can continue to add products not on offer or place another order.
@@ -25,7 +25,7 @@ Log out
 0
 You have reached the maximum number of references on offer in your order. You can continue to add products not on offer or place another order.
 Sorry. This product is currently out of stock.
-/ GBP /
+/ EUR /
 en
 News
 Trademarks
@@ -632,4 +632,4 @@ Simplex 9/125 FC to FC Cable
 Simplex 9/125 SC to SC Cable
 Simplex 9/125 ST to SC Cable
 Simplex 9/125 ST to ST Cable
-Simplex cabl
+Simplex cable

@@ -1,4 +1,4 @@
-# SB-453 gmtcontrol.com · feed_auto · https://gmtcontrol.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-453 gmtcontrol.com · feed_auto · https://gmtcontrol.com/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Thu, 01 Oct 2026 13:08:47 +0000	GMTCNT, TÜBİTAK 1501 Destekli FPGA I/O Yapılı CANBUS Tabanlı PLC Projesiyle Yerli Teknolojide Yeni Bir Adım Attı	https://gmtcontrol.com/gmtcnt-tubitak-1501-destekli-fpga-io-yapili-canbus-tabanli-plc-projesiyle-yerli-teknolojide-yeni-bir-adim-atti/
 Tue, 08 Sep 2026 10:50:36 +0000	GMTScada Sistemine Genel Bakış	https://gmtcontrol.com/gmtscada-sistemlerine-genel-bakis/
 Thu, 03 Sep 2026 10:36:58 +0000	PLC Nedir? Endüstriyel Otomasyonda PLC Seçim Rehberi ve Yerli Çözümler	https://gmtcontrol.com/plc-nedir-endustriyel-otomasyonda-plc-secim-rehberi-ve-yerli-cozumler/

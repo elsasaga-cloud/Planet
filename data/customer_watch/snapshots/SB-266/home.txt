@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,40 +41,37 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-TP-Link Omada VIGI Cloud VMS license pro 1 kameru na 3 roky
-993 Kč bez DPH
-1 202 Kč s DPH
-Hikvision IP bullet kamera DS-2CD1027G3-LIU(4mm), 2Mpx, 4mm, ColorVu 3.0
-Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý, 10 pack
-812 Kč bez DPH
-983 Kč s DPH
-Triton 19" stojanový rack 18U/800x900 prosklené dveře, šedý
-10 240 Kč bez DPH
-12 390 Kč s DPH
-Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý
-90 Kč bez DPH
-109 Kč s DPH
-Hikvision IP dome hybrid kamera DS-2CD2723G2-LIZS2U(2.8-12mm), 2Mpx, 2.8-12mm, AcuSense
-Ubiquiti Singlemode simplex optický patch cord SC UPC/SC UPC, 0,5m, 50 pack
-2 436 Kč bez DPH
-2 948 Kč s DPH
-Hikvision IP dome kamera DS-2CD1147G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
-Triton sada držáků na středovou vertikálu pro instalaci 19" zařízení, 2 pack
-116 Kč bez DPH
-140 Kč s DPH
-Triton 19" stojanový rack 37U/600x900 prosklené dveře, šedý
-13 380 Kč bez DPH
-16 190 Kč s DPH
-Hikvision IP dome kamera DS-2CD1123G2-LIU(4mm), 2Mpx, 4mm, ColorVu
-Teltonika Telematics ATC700, miniaturní tracker s 4G LTE Cat 1
-1 848 Kč bez DPH
-2 236 Kč s DPH
-QuWireless Anténa QuSpot pro Teltonika RUT360/RUT361
-3 386 Kč bez DPH
-4 097 Kč s DPH
-SanDisk Micro SDHC Ultra GO 32GB
-506 Kč bez DPH
-613 Kč s DPH
+Triton výsuvná police pro klávesnici, 19", výška 60 mm, nosnost 30kg, šedá
+1 689 Kč bez DPH
+2 044 Kč s DPH
+Conexpro 10G SFP+ optický modul, WDM/BiDi, SM, Tx1330/Rx1270nm, 60km, 1x LC, DDM
+695 Kč bez DPH
+841 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 24 pack
+1 224 Kč bez DPH
+1 481 Kč s DPH
+Ubiquiti UniFi Premium Etherlighting patch kabel, 1m, Cat6A, bílý, 24 pack
+3 Kč bez DPH
+3 Kč s DPH
+Triton optická vana pro 8x ST konektor RAC-FO-X01-C1, 1U, 10", šedá
+195 Kč bez DPH
+236 Kč s DPH
+MEAN WELL DDR-60G-12 Step-down měnič napětí DC/DC, 60W
+793 Kč bez DPH
+959 Kč s DPH
+Triton sada držáků vertikálního PDU do skeletu rozvaděče, 2 pack
+155 Kč bez DPH
+188 Kč s DPH
+Hikvision IP turret kamera DS-2CD1323G2-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu
+Hiksemi Micro SDHC 8GB
+Hikvision AX PRO DS-PWA64-KIT-WE, Kit bezdrátové ústředny pro 64 zón, PIR, magnetu a klíčenky
+Hikvision IP turret kamera DS-2CD1327G3-LIU(4mm), 2Mpx, 4mm, ColorVu
+SanDisk Micro SDHC Extreme 32GB (GN6MA) + SD adaptér
+641 Kč bez DPH
+776 Kč s DPH
+SanDisk High Endurance Micro SDXC 64GB + SD adaptér
+678 Kč bez DPH
+821 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

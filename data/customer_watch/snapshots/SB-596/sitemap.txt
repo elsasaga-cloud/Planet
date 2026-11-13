@@ -1,4 +1,4 @@
-# SB-596 optokon.pl · sitemap · https://www.optokon.pl/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-596 optokon.pl · sitemap · https://www.optokon.pl/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2021-02-09T19:05:21+00:00	https://www.optokon.pl/
 2021-02-09T19:05:21+00:00	https://www.optokon.pl/3-produkty-
 2021-02-09T19:05:21+00:00	https://www.optokon.pl/4-elementy-pasywne

@@ -1,4 +1,4 @@
-# XC-M122 ATC AUTOMATION LIMITED · feed_auto · https://atcautomation.ie/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M122 ATC AUTOMATION LIMITED · feed_auto · https://atcautomation.ie/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Mon, 06 Jan 2025 15:35:45 +0000	LED Group acquires ATC Group	https://atcautomation.ie/led-group-acquires-atc-group/
 Mon, 01 May 2023 09:00:41 +0000	The New Werma WeASSIST	https://atcautomation.ie/the-new-werma-weassist/
 Fri, 07 Oct 2022 09:00:54 +0000	Sick Launch New FTMG Air Flow Meter	https://atcautomation.ie/sick-launch-new-ftmg-air-flow-meter/

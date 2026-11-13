@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -137,7 +137,7 @@ KONFIGURATOR
 Konfigurator zestawów monitoringu Oferta w 5 min Skomponuj zestaw dostosowany do Twoich potrzeb. Zyskasz darmowe wsparcie techniczne i atrakcyjny rabat na całe zamówienie.
 OK
 WYPRZEDAŻ (27)
-NOWOŚCI (12)
+NOWOŚCI (10)
 PROMOCJE (93)
 Informacje
 Oprogramowanie
@@ -153,8 +153,9 @@ Polecane
 Nowości
 Promocje
 Wyprzedaż
-BCS-EA48VSR8L6-G BCS Universal kamera kopułowa 4w1 8Mpx mikrofon ...
-Zobacz warianty
+BCS-L-EIP112FSR3L3-Ai1 BCS Line kamera kopułowa IP 12Mpx SkyLight ...
+Do koszyka
+2 163,00 zł
 BCS-P-TIP74VSR5-ITC-0832(2) BCS Point kamera tubowa IP 4Mpx IR ...
 Do koszyka
 5 951,00 zł
@@ -206,27 +207,30 @@ BCS-L-NVR1602-A-4KE(2) BCS Line rejestrator IP dwudyskowy 16 ...
 Do koszyka
 1 686,70 zł
 pokaż więcej
-BCS-UPS/IP4/E-S System zasilania buforowego PoE do 4 kamer i ...
+Przewód NETSET BOX UTP PE 5e czarny, skrętka zewnętrzna [305m]...
 Do koszyka
-1 184,00 zł
-BCS-B-SP1602G-1SFP BCS Basic 16 portowy switch PoE 16xRJ45 2x ...
-879,00 zł
+676,00 zł
+BCS-L-EIP14FCR3L3-AI1 BCS Line kamera kopułowa IP NightColor ...
 Do koszyka
-703,56 zł
-BCS-MON7400B-S BCS Line wideomonitor głośnomówiący 7"
+1 437,00 zł
+BCS-L-EIP12FSR3-AI1 BCS Line kamera kopułowa IP 2Mpx IR 30M
 Do koszyka
-1 519,00 zł
-BCS-P-TIP15FSR5-Ai BCS Point kamera tubowa IP z mikrofonem 5Mpx ...
-Do koszyka
+906,00 zł
+BCS-B-TIP45VSR5(2.0) BCS Basic kamera tubowa IP 5Mpx IR 50M WDR ...
 638,00 zł
-BCS-L-TIP16FCR3L3 BCS Line kamera tubowa IP NightColor 6Mpx LED ...
 Do koszyka
-921,00 zł
-BCS-L-EIP16FCR3L3-AI kamera kopułowa IP 6Mpx NightColor mikrofon ...
+510,70 zł
+BCS-B-NVR0801-8P(2.0) BCS Basic rejestrator 8 kanałowy IP PoE ...
 Do koszyka
-1 014,00 zł
-BCS-P-EIP25FSR3-AI2 BCS Point kamera inteligentna 5Mpx IR 30M ...
-Zobacz warianty
+694,00 zł
+BCS-L-DIP14FSR3-W BCS Line kamera kopułowa IP 4Mpx Wi-Fi
+826,00 zł
+Do koszyka
+578,59 zł
+BCS-B-SP2402G-1SFP BCS Basic switch PoE 24 portowy
+1 130,00 zł
+Do koszyka
+904,30 zł
 Przewód NETSET BOX UTP 5e skrętka wewnętrzna [305m]
 Do koszyka
 651,00 zł

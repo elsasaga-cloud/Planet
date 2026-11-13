@@ -1,6 +1,5 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
-JUEVES DE HIK-MASTERS | HIK-CONNECT TEAMS 360° Domina los Eventos y la Integración de Seguridad — Únete aquí Ver más
 Productos
 0
 Noticias 0 Especiales
@@ -171,44 +170,50 @@ Carrito
 Productos
 Noticias
 Ver todas
-Axel · 11h · Lanzamiento
+Rafael · 10h · Redes
+¿Ya conocías el nuevo PTP de Grandstream?
+El GWN7302 es un AP punto a punto y punto a multipunto WiFi 6 en banda única de 5 GHz: 2.4 Gbps de throughput, MIMO 2x2:2 con antenas internas de 13.5 dBi y alcance de hasta 5 km. Suma IP66, dos puertos Gigabit con PoE IN/OUT y PtMP de 1 a 4. Se administra desde GDMS Cloud.
+Descubre el PTP WiFi 6 de 5 km 1
+Nicolas · 12h · Videovigilancia
+La cámara que primero advierte, después graba
+La DS-2CE73DF0T-LXTS de Hikvision es una turret TurboHD de 2 MP que integra sirena, luz estroboscópica roja y azul y audio bidireccional SoundMax: el operador escucha y responde desde la app, sin esperar a revisar la grabación. Apertura F1.0 para imagen a color 24/7, luz dual de 40 m en IR y 40 m en blanca, IP67 y operación de -40 a 60 °C. Se instala sobre videobaluns con cable UTP.
+Conoce la turret con sirena de Hikvision 2
+Victor · 13h · Alarmas e Intrusión
+Un panel que también es hub de video y domótica
+El Connect+ Pro de Alula suma 96 zonas inalámbricas, celular multicarrier con respaldo Wi-Fi, video ONVIF sin NVR ni licencias y automatización Z-Wave Plus. El teclado RE667XPRO de 7 pulgadas concentra armado, cámaras y escenas en una sola pantalla.
+Lee el análisis del ecosistema Alula 2
+Leopoldo · 17h · Audio e Intercom
+El rack está a 40 metros del proyector y el HDMI no llega
+El par TP580T y TP580R de Kramer extiende 4K60 4:2:0 hasta 40 m por un solo CAT, y 70 m en 1080p. HDBaseT con HDCP 2.2, RS-232 e IR bidireccionales para controlar el equipo desde cualquiera de los dos extremos. Gabinete DigiTOOLS de aluminio, sin ventilador. Existencia en México Sureste: 19 transmisores y 20 receptores.
+Conoce el par TP580 de Kramer
+Bryan · 18h · Data Center
+Los 23 equipos Hoffman para alta densidad, en una sola página.
+Reunimos los enfriadores RackChiller RDHX PRO e in-row de 45 kW, los gabinetes ProLine ConnecTek, FloTek y S1, y los sensores de las líneas RackPower y GUARDIAN.
+La página muestra precio y existencia en vivo de cada modelo, con los filtros del buscador.
+Explora los 23 modelos Hoffman
+Rafael · 18h · Redes
+Wi-Fi 6 de 6 Gbps para 512 dispositivos a la vez
+El GWN7664E combina MU-MIMO 4x4:4 con OFDMA para hospitales y oficinas de alta densidad, con QoS avanzado y gestión integrada sin controlador, desde la web o GWN.Cloud.
+Conoce el GWN7664E de Grandstream
+Rafael · 20h · Webinar
+WhatsApp Business dentro de tu UCM6300, sin teléfonos personales
+El 26 de noviembre a las hrs MX (Miami), Grandstream muestra paso a paso cómo integrar WhatsApp Business a la central UCM6300 y atender llamadas y mensajes desde Grandstream Wave, en un solo lugar. Webinar gratuito con registro previo.
+Reserva tu lugar al webinar de Grandstream 2 2
+Axel · 1d · Lanzamiento
 ¿Sabías que tu pantalla IdeaHub de Huawei puede hacer esto?
 Escribe fórmulas matemáticas a mano y la pizarra las resuelve por ti al instante. Smart Math reconoce suma, resta, multiplicación, división, porcentajes, raíces, potencias, pi y trigonometría, además de expresiones como 2x+1, sin teclado ni software adicional.
 Conoce cómo funciona en el siguiente link:
 Mira Smart Math en acción
-Fernando · 12h · Fibra Óptica
+Fernando · 1d · Fibra Óptica
 Carretes de fibra óptica de 5 km listos para tu próximo proyecto.
 La fibra MINI-ADSS de Linkedpro by Fiberhome llegó en 6 y 12 hilos: 162 y 63 carretes con entrega inmediata. Span 120, G.652D, loose tube, aérea sin soporte metálico.
 Conoce los carretes MINI-ADSS de 5 km 1
-Cesar · 14h · Videovigilancia
+Cesar · 1d · Videovigilancia
 Almacena más. Gasta menos con UniFi Protect
 Maximiza la retención equilibrando de forma inteligente la calidad de grabación y la eficiencia del almacenamiento: el sistema ajusta el bitrate de cada cámara para que el disco rinda más horas de video sin perder el detalle que importa.
 Conoce UniFi Protect
-Victor · 14h · Alarmas e Intrusión
-El cerco eléctrico ya avisa al celular cuando lo cortan
-Dos módulos WiFi de Yonusa, misma app Yonusa Plus gratuita y WiFi 2.4 GHz. El SLIM mide 43 x 100 x 20 mm, cabe dentro del energizador y da 1 salida de relevador para encendido, pánico y alertas de corte. El CONTROL suma 5 salidas de relevador en gabinete de 150 x 110 x 70 mm para automatizar luces, portón, sirena y más.
-Compara los dos módulos WiFi
-Nicolas · 16h · Videovigilancia
-16 canales en 4K y 160 Mbps: el cuello de botella no es el disco
-El DS-7616NXI-K2(E) de Hikvision graba 16 canales hasta 12 MP con 160 Mbps de entrada y salida, y suma AcuSense en los 16 canales para separar personas y vehículos del resto del movimiento. Dos bahías de hasta 16 TB, HDMI 4K y VGA independientes, 4 entradas de alarma. Sin PoE: va al switch del rack.
-Conoce el NVR de 16 canales 4K
-Leopoldo · 17h · Audio e Intercom
-Un altavoz de exterior que aguanta sol y lluvia sin sonar a plástico
-El OL5BK de TruAudio monta woofer de 5.25 in y tweeter de seda de 0.75 in en gabinete y parrilla de aluminio, con clasificación IP66. 80 W a 8 Ω para líneas de baja impedancia, y soporte ajustable con 120° de giro para apuntar el sonido donde está la gente.
-Conoce el OL5BK de TruAudio
-Marvin · 17h · Lanzamiento
-Con Shelly: Tus adornos navideños ya tienen horario
-El SHELLYPLUGUSGEN4W se conecta por Wi-Fi 2.4 GHz y se controla desde la app Shelly: enciende y apaga las series de luces a la hora que programes, sin estar en casa. Soporta cargas de hasta 15 A / 110 V y mide el consumo del equipo conectado en tiempo real. Compatible con Alexa y Google Assistant, sin hub.
-Programa tus luces navideñas
-David · 18h · Alarmas e Intrusión
-Una batería de litio no se apaga con agua: se encapsula
-El agua se evapora, el polvo no enfría y la celda vuelve a encenderse minutos después. El AVD6L de VICTORY dispersa vermiculita acuosa que encapsula la celda, corta el oxígeno y deja una barrera mineral contra la reignición. 6 litros, 72 s de descarga, 3.6 m de alcance, listado UL EX29073.
-Apaga el fuego que vuelve a encenderse
-Luis · 18h · Control de Acceso
-La terminal facial no se pega al muro: se empotra
-La carcasa DS-KAB673-SF1 de Hikvision deja la Min Moe DS-K1T673 al ras de la superficie: 248 x 129 x 35.9 mm en acero SGCC con placa SUS316L. El cableado queda adentro, sin canaleta a la vista ni marco improvisado. Compatible con toda la serie DS-K1T673.
-Empotra tu terminal Min Moe
-Noe · 18h · Videovigilancia
-Dos cámaras en un solo punto de red, a 200 metros del switch
-La IDIS DCT4517WRXP es una bala de 5 MP con un segundo puerto RJ45 con PoE de salida: ahí conectas otra cámara y el tendido llega hasta 200 m sin repetidor ni fuente extra. Suma WDR real 120 dB, H.265, IR de 20 m, calefactor integrado e IK10/IP66 para exterior.
-
+Videos
+Ver todos
+¿Alguien conectó un router sin autorización y toda la red falla? Con RG-ES200, activa la protección con un solo clic y bloquea conexiones no autorizadas.
+Ver producto
+¡Unboxing del RG-ES207GS-AC-OD de R

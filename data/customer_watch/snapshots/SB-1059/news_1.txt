@@ -1,4 +1,4 @@
-# SB-1059 neteon.net · news_1 · https://www.neteon.net/knowledge-base · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1059 neteon.net · news_1 · https://www.neteon.net/knowledge-base · fetched 2026-11-13T09:45:13Z · HTTP 200
 Expert Insights, Case Studies and Resources | Knowledge Hub | Neteon
 MOXA IPC IIoT
 Solutions Industrial Cybersecurity Real-Time OT Network Visibility Protect Your OT Networks Security Hardened Network Devices
@@ -10,7 +10,7 @@ Industrial Panel PC Rolling Stock (EN51055) Hazardous Area (CID2) Marine Panel P
 Industries
 Energy Renewable Energy Battery Energy Storage Systems (BESS) Utilities/Substation Automation Critical Power
 Oil & Gas Upstream Midstream Downstream
-Transportation ITS (Intelligent Transportation Systems) Marine & Ports Rail
+Transportation Tolling ITS (Intelligent Transportation Systems) Marine & Ports Rail
 Data Center Electrical Power Management System (EPMS) Building Management System (BMS) Data Center Infrastructure Management (DCIM)
 Knowledge Hub About Us
 Contact Sales
@@ -35,6 +35,10 @@ All Case Studies Litertures Data Center Energy Oil & Gas Manufacturing Transport
 Thank you! Your submission has been received!
 Oops! Something went wrong while submitting the form.
 Case Studies
+Mobile Edge Computing with Cincoze DI-1200
+Case Studies
+Boiler Component Traceability with Cincoze GM-1100
+Case Studies
 Connecting a Brownfield Food Plant with Advantech UNO-148 V2 Edge Computing
 Case Studies
 Local Energy Management for BESS with Moxa BXP-A101
@@ -47,10 +51,6 @@ Case Studies
 Edge AI for Autonomous Mobile Robots in Factory Logistics
 Case Studies
 Real-Time CDU Monitoring for Data Center Liquid Cooling
-Case Studies
-Keeping Ferry Ticketing Available 24/7
-Case Studies
-Faster Airport e-Gates with Edge GPU Computing
 Load More
 Unlock Expert Knowledge
 Secure Scalable IIoT: Moxa + AWS for Cloud-Connected Industrial Operations

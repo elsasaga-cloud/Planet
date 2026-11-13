@@ -1,11 +1,7 @@
-# SB-088 EDIMAX · intel_news_en · https://news.google.com/rss/search?q=%22EDIMAX%20Technology%20Co%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-12T09:57:55Z · HTTP 200
-Tue, 02 Jun 2026 07:00:00 GMT	Edimax Group to Showcase AI Edge Innovation at Expo 2026 - digitimes	https://news.google.com/rss/articles/CBMif0FVX3lxTFBvOS1QczNuTDBKQktPWkMwZ1YycFZQZ0dtVGlUOXZxZVptRjdsTk5rNm9JaHE2cWx6ZEVTdVM1azMxQ1JOZ3FKQzBFbHQ3VUF2bVEwa21SVk1sQkNucUxhU3p4MGtZWDJQQ0wtZFdNOG5fVXdIN3VzaXE3bnFDdFk?oc=5
-Wed, 11 Nov 2026 19:41:51 GMT	CyberTAN Technology Inc. (3062.TW) Seasonal returns chart - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tcnc5dG9DdUpLbTFJa2FFUXJXRHU1N2pRdGJWNHJYQ2tmS1pNVW9XWlp3bWpKaHNTVmR1VkRfYjZRR2NJdnR4LUNWYjVXN2tmSTZjdUdXbGpHYkdLelB4aGJYYU9yUQ?oc=5
-Mon, 05 Jan 2026 03:22:32 GMT	U.S. Wireless Router Market Size | CAGR 9.3% - Market.us	https://news.google.com/rss/articles/CBMiYEFVX3lxTE12WnVEZmVoeUx3d2VVQU5PTkhRcS1oREtWb1dwN201eXBFUDZTZE1wT1NZMU5xeER3RzFsUml0N3NwdXNDQ3p5dlZQendvQkd3RTNxMWJkUmdINDItZU1iUA?oc=5
-Sat, 07 Nov 2026 22:41:23 GMT	Wha Yu Industrial Co., Ltd. (3419.TW) Seasonal returns chart - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rYkxXYzk1N3RaVTFCVWxsVnFpdGtncnZ2TkdUQ0l6eFlYZnp4VnBYa244Q3QzX0pCTlZ3YnZLOGxoZDktNVd4alNLYWZqWi1pODMySFhmZ2FzY2luTGdKY29IR1V5UQ?oc=5
-Mon, 05 Jan 2026 03:17:33 GMT	Wireless Router Market Size | CAGR 8.9% - Market.us	https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3NFZVelZWaFVzWjdENVN5eEViMG15WEtKYW9aRE8tRnNvSWJuS09tZ0Uwd2hQUFd1d29LMG9WZ0ZOV01YSERsQWs4RDdYWHE5eXlRVXFib3AtQlFWeTFFWlFfOWYxdw?oc=5
-Mon, 09 Nov 2026 16:23:47 GMT	Alltek Technology Corporation (3209.TW) Seasonal returns chart - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiZkFVX3lxTE04Rko3M1lCQ1FrY2ZfZk4zYnRuTE5WdmF1YlZtSzJQYmZOaS1rSGhPXzduOGJxWkRTZlFEa21jRzVUdzZmeElDYktYbUs2UDdLSGRzNmUzdUtXOVp1SUJoal9lcGVkdw?oc=5
-Tue, 01 Jun 2021 06:36:26 GMT	Smart Plug Market Size, Share, Growth, Global Report, 2034 - Fortune Business Insights	https://news.google.com/rss/articles/CBMickFVX3lxTFBqaDRKTXI4bTFCRkttYWxfblMxbHNmZGp6dzAyTGVwY1R6UW1oRTE4Mm82d051eHd0WWxQZ3ZJWWZpRl83cy1STWVUaWlJa2N4VzlDUUpNd21yT1hMcERMUWI3aG5ISTcyYzdBOG5PVlNQdw?oc=5
-Mon, 26 May 2025 14:15:47 GMT	Smart Plug Market Size, Share | CAGR of 24.1% - Market.us	https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tTXFBZ0JSYkN1RVBWaTJKTGFhaEp0NXNSdlFqZGJJSXR0UHNHTFJBVk5HM2hZb1Q5aFRUVmItb2xfTC1CakkxdlhfQ3NvazBqSmhXeG5B?oc=5
-Sat, 16 Jun 2018 15:45:37 GMT	CyberTAN Technology Inc. (3062.TW) company profile and facts - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PQnMyVVNLMnRXdTU3SWljWVNyNFBzdzd6NFJkWWxHMEw1bnpMQ0VVTjR1SG8zTThyNzY2aC11UFFDeDVtV3YzWUNlWEQtZXFrczEwYWE2SGdsWjh2cFNwdQ?oc=5
-Sat, 16 May 2020 14:33:02 GMT	DKK Co., Ltd. (6706.T) stock price, news, quote and history - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiVEFVX3lxTE42SzBjZGQ0eXRYWk51V245eUlYanNudVpsckM4TmVidVd5dzUwMHpiZ3dBU2l5MU5SR3AtaHFWM1ZBZTRVbVlFeVlqWUppc1ZIUUxxaw?oc=5
+# SB-088 EDIMAX · intel_news_en · https://news.google.com/rss/search?q=%22EDIMAX%20Technology%20Co%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-13T09:45:13Z · HTTP 503
+Sorry... G o o g l e
+Sorry...
+We're sorry...
+... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
+See Google Help for more information.
+Google Home

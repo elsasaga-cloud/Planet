@@ -1,16 +1,16 @@
-# XC-M112 E.V.D.I. SAS（Environnement Voix Données Image） · sitemap · https://evdi.fr/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
-2026-11-12T08:02:00.999Z	https://evdi.fr
-2026-11-12T08:02:00.999Z	https://evdi.fr/en
-2026-11-12T08:02:00.999Z	https://evdi.fr/products
-2026-11-12T08:02:00.999Z	https://evdi.fr/en/products
-2026-11-12T08:02:00.999Z	https://evdi.fr/cgv
-2026-11-12T08:02:00.999Z	https://evdi.fr/en/cgv
-2026-11-12T08:02:00.999Z	https://evdi.fr/mentions-legales
-2026-11-12T08:02:00.999Z	https://evdi.fr/en/mentions-legales
-2026-11-12T08:02:00.999Z	https://evdi.fr/confidentialite
-2026-11-12T08:02:00.999Z	https://evdi.fr/en/confidentialite
-2026-11-12T08:02:00.999Z	https://evdi.fr/cookies
-2026-11-12T08:02:00.999Z	https://evdi.fr/en/cookies
+# XC-M112 E.V.D.I. SAS（Environnement Voix Données Image） · sitemap · https://evdi.fr/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-13T10:13:00.141Z	https://evdi.fr
+2026-11-13T10:13:00.141Z	https://evdi.fr/en
+2026-11-13T10:13:00.141Z	https://evdi.fr/products
+2026-11-13T10:13:00.141Z	https://evdi.fr/en/products
+2026-11-13T10:13:00.141Z	https://evdi.fr/cgv
+2026-11-13T10:13:00.141Z	https://evdi.fr/en/cgv
+2026-11-13T10:13:00.141Z	https://evdi.fr/mentions-legales
+2026-11-13T10:13:00.141Z	https://evdi.fr/en/mentions-legales
+2026-11-13T10:13:00.141Z	https://evdi.fr/confidentialite
+2026-11-13T10:13:00.141Z	https://evdi.fr/en/confidentialite
+2026-11-13T10:13:00.141Z	https://evdi.fr/cookies
+2026-11-13T10:13:00.141Z	https://evdi.fr/en/cookies
 2026-10-03T22:49:43.569Z	https://evdi.fr/products/amg-amg260m-1f-1s
 2026-10-03T22:49:43.569Z	https://evdi.fr/en/products/amg-amg260m-1f-1s
 2026-10-03T22:49:43.569Z	https://evdi.fr/products/amg-amg260m-1g-1s

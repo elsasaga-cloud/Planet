@@ -1,4 +1,4 @@
-# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Streakwave Wireless
 Skip to main content
 Menu
@@ -17,17 +17,17 @@ All Categories
 Menu Close
 All Categories
 Back Antennas
-Back Omni Antennas (85) Directional Antennas (399) Sector Antennas (92) Antenna Accessories (270)
+Back Omni Antennas (85) Directional Antennas (399) Sector Antennas (92) Antenna Accessories (273)
 Wireless
 Back Point-to-Point (214) Point-to-Multipoint (165)
 Wi-Fi
 Back Indoor Access Points (172) Outdoor Access Points (48) Wi-Fi Accessories (25)
 Networking
-Back Switches (347) Routers & Gateways (165) SFP & Transceivers (122) Controllers (7) Remote Management (0) Extenders & Converters (38) Network Attached Storage (8) Fiber & PON (14)
+Back Switches (347) Routers & Gateways (165) SFP & Transceivers (123) Controllers (7) Remote Management (0) Extenders & Converters (38) Network Attached Storage (8) Fiber & PON (14)
 Cellular & LTE
-Back LTE/5G Routers & Gateways (211) Cellular Modems & Cards (21) Cellular Accessories (174)
+Back LTE/5G Routers & Gateways (212) Cellular Modems & Cards (21) Cellular Accessories (174)
 Power & PoE
-Back PoE Injectors & Midspans (309) Solar & Remote Power (146) Surge & Lightning Protection (435) Power Management (69)
+Back PoE Injectors & Midspans (310) Solar & Remote Power (146) Surge & Lightning Protection (435) Power Management (69)
 Cables & Connectors
 Back Ethernet Cables (101) Coaxial Cables & Jumpers (110) Fiber Optic Cables (78) Connectors & Adapters (188) Cable Management (80)
 Mounting & Enclosures
@@ -35,13 +35,13 @@ Back Mounts & Brackets (258) Enclosures (110)
 Voice & Conferencing
 Back IP Phones (199) PBX & Gateways (67) Conferencing (47) Paging & Intercoms (39) Voice Accessories (284)
 Surveillance & Security
-Back Cameras (320) NVRs & Storage (98) Access Control (96) Surveillance Accessories (135) Sensors & IoT (33)
+Back Cameras (320) NVRs & Storage (98) Access Control (98) Surveillance Accessories (135) Sensors & IoT (33)
 Audio
 Back Speakers (34) Amplifiers & Controllers (6) Audio Accessories (16)
 Tools & Testers
 Back Cable Tools (60) Testing & Diagnostics (20) Spectrum Analyzers (74)
 Accessories
-Back Licenses & Software (676) Warranties & Support Plans (339) Power Supplies & Adapters (131)
+Back Licenses & Software (676) Warranties & Support Plans (339) Power Supplies & Adapters (132)
 Wireless
 Your Premier Spot for UniFi Enterprise Products
 View the Full Collection

@@ -1,4 +1,4 @@
-# SB-368 welotec.com · home · https://welotec.com/en-us · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-368 welotec.com · home · https://welotec.com/en-us · fetched 2026-11-13T09:45:13Z · HTTP 200
 Substation Computing & Networking Solutions | Welotec
 customer.current_location.name:
 customer.current_company.name:
@@ -179,14 +179,6 @@ Industrial Edge Computing
 Secure, Connected and Ready for Industry 4.0
 Connect assets, process data at the edge, and deliver secure remote service from anywhere. Our fanless Industrial Edge Computers and open, vendor-neutral software platforms provide the foundation for scalable edge applications and digital manufacturing - built on open standards, without vendor lock-in.
 Explore Industrial Edge
-Tradeshow
-Meet us at Enlit Europe
-10.11.2026 - 12.11.2026
-VIECON – Vienna Congress & Convention Center (Messeplatz 1, 1020 Vienna)
-Booth: A.h112
-Connecting Ideas, Driving Energy Innovation
-Meet us at Enlit Europe 2026, the premier gathering place for technology providers, utilities, vendors, and policymakers who are leading the global energ...
-Visit Our Booth at Enlit Europe
 Solutions for Critical Infrastructure
 and Industrial Operations
 The Challenge
@@ -306,4 +298,9 @@ Alrai
 Alderamin Mk5 Series
 <p>The Alderamin Mk5 is a high-performance industrial computer designed for maximum productivity and reliability in demanding environments. With a modular structure and powerful components, it provides the ideal solution for machine builders and industrial applications.<span class="" data-state="closed"></span></p>
 <div class="flex max-w-full flex-col flex-grow">
-<div data-message-author-role="assistant" data-message-id="b55c826c-52c5-
+<div data-message-author-role="assistant" data-message-id="b55c826c-52c5-4689-8bf6-78406c878a22" dir="auto" class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5" data-message-model-slug="gpt-4o">
+<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<ul>
+<li>
+<strong>High Performance:</strong> 

@@ -1,4 +1,5 @@
-# SC-625 ipmatika.ru · youtube · https://www.youtube.com/user/IPmatika · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-625 ipmatika.ru · youtube · https://www.youtube.com/user/IPmatika · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-12T13:35:56+00:00	Новые SIP-интеркомы IPmatika i111 и i112	https://www.youtube.com/watch?v=lBDoSRbK8sc
 2026-11-05T11:04:37+00:00	Новинки от Fanvil — Wi-Fi-SIP-телефоны W626W, новые интеркомы и внутренние видеопанели	https://www.youtube.com/watch?v=YjC6yGWN5uA
 2026-10-22T12:19:25+00:00	Компания АйПиМатика на Light + Audio Tec 2026	https://www.youtube.com/watch?v=L-Y0LRPXO_U
 2026-10-19T10:41:43+00:00	Новый продукт в портфеле АйПиМатика — CTI Модульный контроллер	https://www.youtube.com/watch?v=eCjjrHx42Ww
@@ -13,4 +14,3 @@
 2026-06-01T06:00:14+00:00	Вебинар "Шлюзы PA2S и PA3 — сценарии использования"	https://www.youtube.com/watch?v=2tG_NOCmzwU
 2026-05-12T05:00:00+00:00	Вебинар "Новинки Fanvil 2026"	https://www.youtube.com/watch?v=-WGmiQjDW9U
 2026-04-29T17:49:17+00:00	Вебинар "Партнерская политика 3СХ, новости продукта"	https://www.youtube.com/watch?v=LQyMXyD0OJs
-2026-04-23T05:01:00+00:00	Yealink M500Pro-0010: интеграционный кодек ВКС для конференц-залов различных типов	https://www.youtube.com/watch?v=wSTkbRz8dvE

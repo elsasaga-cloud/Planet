@@ -1,4 +1,123 @@
-# SB-086 TAILYN · news_1 · https://www.tailyn.com.tw/en/newsall/ · fetched 2026-11-12T09:57:55Z · HTTP 403
-403 Forbidden
-Forbidden
-You don't have permission to access this resource.
+# SB-086 TAILYN · news_1 · https://www.tailyn.com.tw/en/newsall/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+Language：
+English
+中文
+日本語
+People
+Client Story
+Chairman
+Team Story
+Solutions
+Industrial Communication
+5G Cellular Networks
+Factory Automation
+Power Utilities
+Surveillance
+Transportation
+AI TSN Solution
+Industrial PC
+Automotive Electronics
+Semiconductor Equipment
+Product
+Industrial Ethernet Switch
+TSN Ethernet Switch
+L3 Managed Ethernet Switches
+L2+ Managed Ethernet Switches
+PoE Ethernet Switches
+EN50155 Ethernet Switches
+IEC61850 Ethernet Switch
+Unmanaged Ethernet Switches
+Wireless Solution
+Industrial Serial/Cellular Gateway
+WLAN Controller
+Compact/Rugged Access Point
+Network Interface Device
+Carrier Ethernet Solution
+EFM Bonded EAD
+Product Support
+Security Advisory
+Manufacturing
+Engineering
+Capability
+Special Equipment
+New Product Introduction (NPI)
+Supply Chain Management
+Quality Management
+Support
+Process
+Honor & Patent
+Product Life Cycle Management
+Repaired & Warranty
+Download
+About
+News
+Contact
+Join Us
+Investor Relations
+Shareholders's Service
+Overview
+Shareholders' Meeting
+Dividend
+Stock Quote
+Stock Transfer Agent
+Financial Information
+Monthly Revenues
+Financial Reports
+Corporate Governance
+Board of Directors
+Corporate Governance Structure
+Internal Audit
+Major Internal Policies
+Announcements
+Earnings Conference
+ESG
+Stakeholder Engagement
+Overview
+Stakeholder Engagement
+Risk Management
+Financial Risk
+Climate Change Risk
+Friendly Workplace
+Environmental Protection
+Greenhouse Gas Management
+Energy Management
+Water Resource Management
+Waste Management
+Green Solution
+Supply Chain Management
+Social Involvement
+Social Welfare And Donations
+Volunteer Program
+Sustainability Report
+News
+All
+{{tt}}
+LATEST NEWS
+{{n["a_title_"+lang]}}
+{{n["a_description_"+lang]}}
+Learn More
+{{n["a_title_"+lang]}}
+{{n["a_description_"+lang]}}
+Learn More
+{{p+1}}
+Tailyn Technologies, Inc.
+Taiwan Headquarter
+Tel: +886-3-322-2201
+No.10, Rong-an Road, Luzhu District,
+Taoyuan City 338028, Taiwan R.O.C.
+People
+Solutions
+Manufacturing
+Product
+Support
+About
+Join Us
+Investor Relations
+ESG
+CONTACT US
+Send Out
+Legal Notice & Trademark Information
+Privacy Policy
+Cookie Policy
+Sitemap
+© 2026 Tailyn Technologies, Inc. All rights reserved. | Designed by JBBC

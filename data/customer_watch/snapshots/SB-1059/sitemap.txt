@@ -1,5 +1,5 @@
-# SB-1059 neteon.net · sitemap · https://www.neteon.net/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
-2026-10-16T14:34:21.234Z	https://www.neteon.net
+# SB-1059 neteon.net · sitemap · https://www.neteon.net/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-13T04:00:35.517Z	https://www.neteon.net
 2026-06-12T15:59:40.917Z	https://www.neteon.net/search
 2026-06-12T15:59:40.998Z	https://www.neteon.net/brands/moxa
 2026-06-12T15:59:41.008Z	https://www.neteon.net/contact
@@ -72,7 +72,7 @@
 2026-09-07T07:57:59.396Z	https://www.neteon.net/landing/cincoze-di-1200-series
 2026-10-19T06:58:04.723Z	https://www.neteon.net/landing/cincoze-panel-pc
 2026-09-14T03:18:44.837Z	https://www.neteon.net/landing/asus-iot-pe1000u-fanless-din-rail-edge-ai-pc-neteon
-2026-11-12T09:52:25.408Z	https://www.neteon.net/its-transportation-tolling
+2026-11-13T04:19:46.569Z	https://www.neteon.net/industries/its-transportation-tolling
 2025-03-28T08:48:30.551Z	https://www.neteon.net/posts-categories/green-energy
 2025-03-28T08:48:30.551Z	https://www.neteon.net/posts-categories/pv-system-design
 2025-03-28T08:48:30.551Z	https://www.neteon.net/posts-categories/renewable-energy
@@ -131,4 +131,4 @@
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/fortify-your-industrial-network-the-power-of-next-gen-lan-firewalls
 2026-11-12T09:49:11.724Z	https://www.neteon.net/neteon-blogs/gm-1000-airport-egate-edge-gpu-computing
 2025-07-25T06:14:30.776Z	https://www.neteon.net/neteon-blogs/how-moxa-empowers-reliable-power-monitoring-in-modern-data-centers
-2025-07-25T06:14:30.776Z	https://www.neteon.net/ne
+2025-07-25T06:14:30.776Z	https://www.ne

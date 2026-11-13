@@ -1,4 +1,4 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
 2026-11-10	https://www.sisegusa.com/home
@@ -113,6 +113,8 @@
 	https://www.sisegusa.com/shop/tp-cpe605-antena-radio-enlace-cpe-5ghz-1x-10-100mbps-23dbi-150mbps-4492
 	https://www.sisegusa.com/shop/tp-cpe710-antena-radio-enlace-cpe-ac-5ghz-1x-10-100-1000mbps-23dbi-867mbps-4485
 	https://www.sisegusa.com/shop/ub-am-5g20-90-antena-sectorial-20dbi-5ghz-90deg-2802
+	https://www.sisegusa.com/shop/hy-tqc-150fc-vhf1-antena-tqc-150fc-152-155-mhz-10444
+	https://www.sisegusa.com/shop/hy-tqc-150fc-vhf2-antena-tqc-150fc-156-159-mhz-10445
 	https://www.sisegusa.com/shop/hy-an0435w09-antena-uhf-de-16cm-para-radio-400-470mhz-3278
 	https://www.sisegusa.com/shop/hy-an0435h13-antena-uhf-de-9cm-para-radio-uhf-400-470mhz-para-radios-bd-y-pd-4209
 	https://www.sisegusa.com/shop/hy-an0485h05-antena-uhf-de-9cm-para-radio-uhf-450-520mhz-para-radios-bd-y-pd-4210
@@ -128,5 +130,4 @@
 	https://www.sisegusa.com/shop/zk-d2180-arco-detector-de-metales-18-zonas-2966
 	https://www.sisegusa.com/shop/hy-ncn031-arnes-de-pecho-para-bodycam-4228
 	https://www.sisegusa.com/shop/hy-ehn35r-p-audifono-con-microfono-cableado-para-radios-tipo-ap-y-bp-8488
-	https://www.sisegusa.com/shop/hy-es-02-audifono-con-tubo-acustico-para-ser-usado-con-acn-02-3296
-	https://www.sisegusa.com/shop/hy-ean30-p-audifono-con-tubo-acustico-pa
+	

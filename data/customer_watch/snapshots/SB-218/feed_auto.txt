@@ -1,4 +1,4 @@
-# SB-218 nag.ru · feed_auto · https://nag.ru/rss/google · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-218 nag.ru · feed_auto · https://nag.ru/rss/google · fetched 2026-11-13T09:45:13Z · HTTP 200
 Wed, 01 Apr 2026 06:31:00 +0500	Сравнительное тестирование автоматических выключателей на 6 А с характеристикой «C» | Часть 1	https://nag.ru/material/43171
 Tue, 17 Mar 2026 09:25:00 +0500	Как создается продукт: взгляд изнутри телеком-реальности	https://nag.ru/material/43170
 Thu, 12 Mar 2026 10:31:00 +0500	Что такое видеоаналитика и зачем она нужна? | Часть 3	https://nag.ru/material/43169

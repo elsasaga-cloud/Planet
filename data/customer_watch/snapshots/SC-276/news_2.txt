@@ -1,4 +1,4 @@
-# SC-276 assmann.pl · news_2 · https://www.assmann.pl/en/case-study/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-276 assmann.pl · news_2 · https://www.assmann.pl/en/case-study/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Case study | ASSMANN
 Polska Deutschland
 Hrvatska
@@ -17,7 +17,6 @@ Measurements and network audit
 Rental of meters
 Pre-Owned Tester Sales
 Support Catalogs
-Content Plattform
 Product Matrix Overview
 Article master data
 System Warranty

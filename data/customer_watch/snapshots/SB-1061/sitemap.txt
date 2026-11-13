@@ -1,4 +1,4 @@
-# SB-1061 obserwuj.pl · sitemap · https://obserwuj.pl/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1061 obserwuj.pl · sitemap · https://obserwuj.pl/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 	https://www.obserwuj.pl/
 	https://www.obserwuj.pl/lista-kategorii.html
 	https://www.obserwuj.pl/lista-producentow.html

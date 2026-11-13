@@ -1,4 +1,7 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-11-13T09:45:13Z · HTTP 200
+2026-11-13T09:45:09+00:00	PROTOCOL CONVERTER FINT T500 HART TO PROFIBUS PA converter Sudar Techno Solutions HART PROFIBUS PA	https://www.youtube.com/watch?v=7ThEZSTzuXs
+2026-11-13T09:35:11+00:00	NAT 102 MOXA - SUNDAR TECHNO SOLUTIONS: Connect your machines. Keep your existing IP addresses.	https://www.youtube.com/watch?v=Gt7zIFWfrMg
+2026-11-13T09:14:00+00:00	MOXA NAT-102 Connect your machines. Keep your existing IP addresses _SUNDAR TECHNO SOLUTIONS_INDIA	https://www.youtube.com/shorts/k2PWJMIkVbo
 2026-11-11T10:41:44+00:00	BUILD YOUR NEXT BANKING KIOSK WITH STS | 13.3″ ANDROID TOUCH PANEL PC_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/i5s4L8iujE4
 2026-11-11T09:23:53+00:00	DIGITAL TWIN FOR MILITARY ROBOTIC PLATFORMS | STS GPU WORKSTATIONS_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/LV7iqwapi98
 2026-11-10T13:50:26+00:00	INDUSTRIAL PANEL PC USED IN HYDRAULIC PUMP MANUFACTURING UNIT FOR QUALITY TESTING, PPC MAKE -STS	https://www.youtube.com/shorts/dF1Q6x0lRC8
@@ -11,6 +14,3 @@
 2026-11-03T13:44:29+00:00	Inside a Surgical Robotics Cart | STS-IMB6LI7 Six-LAN Pico-ITX Industrial Motherboard_SUNDAR TECHNO	https://www.youtube.com/shorts/1xU0ePHEXRI
 2026-10-30T13:58:40+00:00	ARINC 429 AVIONICS TESTING | RUGGED LAPTOP FOR COMMERCIAL AIRCRAFT MRO | SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/1G8X8_wyFcU
 2026-10-30T12:47:13+00:00	EMBEDDED COMPUTING FOR ULTRASOUND SYSTEMS | 3.5″ INDUSTRIAL SBC | STS INDIA_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/r_l2ZhIHdmE
-2026-10-29T15:13:07+00:00	COMMERCIAL AIRCRAFT TESTING USING STS EMBEDDED COMPUTER WITH ARINC429 PCIe CARD, SUNDAR TECHNO	https://www.youtube.com/shorts/6paf8L8Fy3o
-2026-10-29T12:52:48+00:00	STS Rugged Laptop for Military Aircraft Diagnostics | USB to MIL-STD-1553B Interface_SUNDAR TECHNO	https://www.youtube.com/shorts/Rjf8DIZnPjE
-2026-10-28T14:37:17+00:00	HOW TO STOP THROTTLING USING HIGH-QUALITY THERMAL PADS AND BIG FINS IN FANLESS INDUSTRIAL COMPUTERS	https://www.youtube.com/watch?v=kuR5d3Hg_vc

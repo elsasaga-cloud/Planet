@@ -1,4 +1,4 @@
-# SA-050 impakt.com.pl · sitemap · https://impakt.com.pl/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SA-050 impakt.com.pl · sitemap · https://impakt.com.pl/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 	https://impakt.com.pl/
 	https://impakt.com.pl/o-firmie
 	https://impakt.com.pl/o-firmie/odpowiedzialny-biznes
@@ -74,5 +74,6 @@
 	https://impakt.com.pl/o-firmie/aktualnosci/impakt-s-a-poznanskim-liderem-przedsiebiorczosci
 	https://impakt.com.pl/o-firmie/aktualnosci/harmonogram-pracy-czerwiec-2026
 	https://impakt.com.pl/o-firmie/aktualnosci/firmowy-wyjazd-integracyjny
-	https://impakt.com.pl/o-firmie/aktualnosci/genesis-na-poznan-game-arena-2026
 	https://impakt.com.pl/o-firmie/aktualnosci/piknik-rodzinny-impakt-2026
+	https://impakt.com.pl/o-firmie/aktualnosci/genesis-na-poznan-game-arena-2026
+	https://impakt.com.pl/o-firmie/aktualnosci/xv-lecie-genesis-wspolne-swietowanie-na-gali

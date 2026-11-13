@@ -1,4 +1,7 @@
-# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-11-11T09:37:04Z · HTTP 200
+# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+Thu, 12 Nov 2026 14:18:45 +0000	Connettività wireless industriale: il caso BYD Electronics con Maisvch	https://www.voxplus.it/connettivita-wireless-industriale-il-caso-byd-electronics-con-maisvch/
+Thu, 12 Nov 2026 13:55:44 +0000	PoE, PoE+ o PoE++: come scegliere la potenza giusta per una rete industriale	https://www.voxplus.it/poe-poe-plus-poe-pp-plus-reti-industriali/
+Sun, 08 Nov 2026 10:48:14 +0000	Switch PoE industriali o commerciali: come scegliere quello giusto?	https://www.voxplus.it/switch-poe-industriali-o-commerciali-come-scegliere-quello-giusto/
 Mon, 02 Nov 2026 15:15:11 +0000	BESS: come integrare i sistemi di comunicazione per un monitoraggio efficiente	https://www.voxplus.it/comunicazione-industriale-bess/
 Fri, 30 Oct 2026 14:44:24 +0000	Impianti fotovoltaici: una rete ridondante per garantire la continuità delle comunicazioni	https://www.voxplus.it/rete-ridondante-impianti-fotovoltaici/
 Sun, 25 Oct 2026 14:18:33 +0000	Rete Ethernet per sottostazioni elettriche: il caso del progetto UHVDC Longdong-Shandong	https://www.voxplus.it/rete-ethernet-progetto-uhvdc-maisvch/
@@ -6,6 +9,3 @@ Fri, 23 Oct 2026 09:43:27 +0000	Server seriali industriali Maisvch: soluzioni da
 Thu, 15 Oct 2026 09:19:22 +0000	Da RS232/RS485 a Ethernet: come scegliere la soluzione per collegare i dispositivi seriali	https://www.voxplus.it/server-seriale-ethernet-guida/
 Thu, 01 Oct 2026 08:47:26 +0000	RS485 ed Ethernet: come scegliere la soluzione giusta per la comunicazione industriale	https://www.voxplus.it/convertitore-rs485-ethernet-scelta/
 Mon, 14 Sep 2026 14:56:10 +0000	Ridondanza Industrial Ethernet in Thailandia: come scegliere tra RSTP, MRP ed ERPS	https://www.voxplus.it/ridondanza-industrial-ethernet-thailandia-rstp-mrp-erps/
-Wed, 02 Sep 2026 15:30:00 +0000	Voucher Cloud & Cybersecurity: la sicurezza digitale diventa un’opportunità per le aziende	https://www.voxplus.it/voucher-cloud-cybersecurity-aziende/
-Thu, 27 Aug 2026 10:19:21 +0000	PoE ad alta potenza: lo switch industriale Maisvch MISCOM8212GP-4XGF-8GTPoE90	https://www.voxplus.it/poe-ad-alta-potenza-lo-switch-industriale-maisvch-miscom8212gp-4xgf-8gtpoe90/
-Wed, 26 Aug 2026 09:52:11 +0000	BESS da 100 MW/400 MWh: resilienza e reti industriali per le comunicazioni critiche	https://www.voxplus.it/bess-da-100-mw-400-mwh-resilienza-e-reti-industriali-per-le-comunicazioni-critiche/

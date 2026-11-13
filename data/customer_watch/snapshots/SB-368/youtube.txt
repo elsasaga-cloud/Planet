@@ -1,4 +1,4 @@
-# SB-368 welotec.com · youtube · https://www.youtube.com/user/welotecgmbh · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-368 welotec.com · youtube · https://www.youtube.com/user/welotecgmbh · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-11-11T09:11:48+00:00	Webinar: Vom Gerät zur Cloud - Aufbau eines offenen Edge-Ökosystems mit SEALMAN	https://www.youtube.com/watch?v=VmPmJAq9Wvw
 2026-11-11T09:11:37+00:00	Webinar: SEALMAN LIVE | Build your own independent IIoT infrastructure in 75 Minutes | Welotec x GEA	https://www.youtube.com/watch?v=P6hRXeGiIfg
 2026-11-10T07:18:22+00:00	SEALMAN erklärt: Demo-Setup auf der SPS in Nürnberg	https://www.youtube.com/watch?v=oZ4IXy1BI44

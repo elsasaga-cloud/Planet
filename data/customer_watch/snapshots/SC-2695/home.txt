@@ -1,12 +1,12 @@
-# SC-2695 everfocus.com · home · https://www.everfocus.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-2695 everfocus.com · home · https://www.everfocus.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Everfocus
 PRODUCTS
 Products
 Feature Solutions
 Intelligent Systems
+Advanced Vision AI
 Commercial Vehicle Safety Solutions
 CCTV Surveillance
-Advanced Vision AI
 Intelligent System
 EverFocus Sarea Solutions
 NVIDIA Edge AI
@@ -33,6 +33,16 @@ Network Interface Module
 SiMa Edge AI
 EAR-100T Robotic Controller with NVIDIA® Jetson Thor™ Module
 Accelerated by NVIDIA® Jetson T5000™, the EAR-100T delivers up to 2070 FP4 TFLOPS of AI compute and 128GB of memory for complex vision, localization, and sensor fusion.
+Edge AI Cameras
+Qualcomm
+NVIDIA
+Vision Embedded System
+Capture Cards
+4K HDMI M.2 Capture Cards
+12G SDI M.2 Capture Cards
+GMSL Camera
+PHX-N1000 Edge AI Camera
+Edge AI Camera with Exclusive LENSCORE Technology, NVIDIA Jetson Orin Nano™ / Orin™ NX, and Rich I/O Connectivity
 MDVR Solutions
 AI-ADAS Mobile DVR
 Mobile DVR
@@ -59,16 +69,6 @@ Mobile APP
 Tools
 IRONGUARD II 16 PoE Network Video Recorder
 EverFocus IRONGUARD II 16 PoE is a 16CH, Built-in PoE, H.265, 8MP/4K NVR that can connect with sixteen(16) ONVIF 2.0 IP cameras. It also supports cloud storage, remote configuration, and video analytics in multiple languages.
-Edge AI Cameras
-Qualcomm
-NVIDIA
-Vision Embedded System
-Capture Cards
-4K HDMI M.2 Capture Cards
-12G SDI M.2 Capture Cards
-GMSL Camera
-PHX-N1000 Edge AI Camera
-Edge AI Camera with Exclusive LENSCORE Technology, NVIDIA Jetson Orin Nano™ / Orin™ NX, and Rich I/O Connectivity
 APPLICATIONS
 Applications
 Industries
@@ -204,6 +204,11 @@ RockChip Edge AI
 Automation and Control
 Network Appliances
 SiMa Edge AI
+Advanced Vision AI
+Edge AI Cameras
+Vision Embedded System
+Capture Cards
+GMSL Camera
 Commercial Vehicle Safety Solutions
 MDVR Solutions
 AI Mirror / Camera Monitor System
@@ -214,11 +219,6 @@ CCTV Surveillance
 Video Recorder
 Cameras
 Software
-Advanced Vision AI
-Edge AI Cameras
-Vision Embedded System
-Capture Cards
-GMSL Camera
 APPLICATIONS
 Industries
 Railways & Transit

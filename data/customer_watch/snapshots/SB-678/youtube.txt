@@ -1,4 +1,4 @@
-# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-11-13T09:45:13Z · HTTP 200
 2026-11-07T06:30:18+00:00	A session log should answer the questions that matter.	https://www.youtube.com/shorts/xIt0E_t0aro
 2026-11-04T07:30:15+00:00	A campus network is tested when everyone comes online at once.	https://www.youtube.com/shorts/_9a2MtyPG8E
 2026-11-02T11:53:05+00:00	What if your network could tell you everything that happened?	https://www.youtube.com/watch?v=LLBIsFPsSdw

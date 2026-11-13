@@ -1,4 +1,4 @@
-# SB-455 maxlink.cz · sitemap · https://www.maxlink.cz/sitemap.xml · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-455 maxlink.cz · sitemap · https://www.maxlink.cz/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
 	http://www.maxlink.cz/en/
 	http://www.maxlink.cz/cs/
 	http://www.maxlink.cz/en/where-to-buy

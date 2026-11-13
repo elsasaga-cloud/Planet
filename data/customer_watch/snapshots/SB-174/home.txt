@@ -1,28 +1,28 @@
-# SB-174 karerguvenlik.com · home · https://karerguvenlik.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-174 karerguvenlik.com · home · https://karerguvenlik.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Karer Güvenlik Sistemleri | Güvenlik Kamerası Toptan Bayi
-Bayi
-Girişi
-Bayilik
-Oluştur
+Bayi Girişi
+Bayi Ol
 0
-Sepet
-Ana Sayfa
-Ürünler
+Tüm Kategoriler
 AHD Kameralar
+Tümünü gör →
 Bullet Kasa
 Panoramik Kasa
 Dome Kasa
 Araç Kameraları
 IP Kameralar
+Tümünü gör →
 Bullet Kasa
 Panoramik Kasa
 Dome Kasa
 SpeedDome
 Bebek Kameraları
 Kayıt Cihazları
+Tümünü gör →
 DVR Kayıt Cihazları
 NVR Kayıt Cihazları
 DVR & NVR Parçaları
+Tümünü gör →
 DVR Kasaları
 DVR Bordları
 NVR Boardları
@@ -31,44 +31,58 @@ DVR Boş Kasa
 Mouse
 Piller
 Network Ekipmanları
+Tümünü gör →
 Switchler
 Access Pointler
 Extenderlar
 Depolama Alanları
+Tümünü gör →
 HDD
 SD Kart
 Adaptörler
+Tümünü gör →
 Metal Kasa
 Plastik Kasa
 Bağlantı Ekipmanları
+Tümünü gör →
 Kablolar
 Çoklayıcılar
 Sarf Malzemeleri
+Tümünü gör →
 Dönüştürücüler
 Konnektörler
 Kamera Ayakları
 Buatlar
 Alarm Sistemleri
+Tümünü gör →
 Hırsız Alarm Sistemleri
 Yangın Alarm Sistemleri
 Geçiş Sistemleri
+Tümünü gör →
 Parmak İzi Okuyuculu Sistemler
 Kart Okuyuculu Sistemler
 Kartlar
 Kapı Kilitleri
+Tümünü gör →
 Güç Kaynağı
 Anahtarlık
 Görüntülü Zil
+Tümünü gör →
+Bu kategorideki tüm ürünleri görmek için tıklayın .
 Monitörler
+Tümünü gör →
 18.5 Inch
 19 Inch
 20 Inch
 Kabinetler
+Tümünü gör →
 Duvartipi
 Setler
+Tümünü gör →
 IP Setler
 AHD Setler
 Kamera Parçaları
+Tümünü gör →
 Ledler
 Kamera Kasaları
 Kamera Kutusu
@@ -76,18 +90,28 @@ Vidalar
 AHD Kablo
 IP Kablo
 UPS Güç Kaynağı
+Tümünü gör →
+Bu kategorideki tüm ürünleri görmek için tıklayın .
 Santral Sistemleri
+Tümünü gör →
+Bu kategorideki tüm ürünleri görmek için tıklayın .
 Teknik Servis Ekipman
+Tümünü gör →
+Bu kategorideki tüm ürünleri görmek için tıklayın .
 Adaptörler 1
+Tümünü gör →
 Metal
+Karer Güvenlik
+Tüm ürünler
+Kamera, kayıt cihazı ve ekipmanlarda bayiye özel fiyatlar.
+Ürünlere göz at
+Ana Sayfa
+Ürünler
 Biz Kimiz?
 Hesap Bilgileri
 Destek
 İletişim
-Aynı gün kargo Saat 'e kadar verilen siparişler
-2 yıl garanti Tüm Karer ürünlerinde
-Bayiye özel fiyat Dolar bazlı toptan fiyat listesi
-Teknik destek Kurulum ve ürün desteği
+Satış hattı 0216 397 33 88
 Kategoriler Ne arıyorsunuz?
 Tüm ürünler →
 IP Kameralar
@@ -114,49 +138,49 @@ KAR BEYAZ BUAT (KAPAKSIZ)
 SP00724
 Web özel fiyatı
 $0,30 +KDV
-15,13 TL
+15,17 TL
 Son 1 ADET
 KARER
 KR-B121-4R-36F2963
 SP01653
 Web özel fiyatı
 $11,00 +KDV
-554,73 TL
-8 ADET
+556,38 TL
+9 ADET
 KARER
 KR-B151-4W6-36F2263
 SP01752
 Web özel fiyatı
 $15,00 +KDV
-756,45 TL
+758,70 TL
 803 ADET
 KARER
 2+1 0.50 CCTV KABLO 100m
 CCTV50KESİT
 Web özel fiyatı
 $14,00 +KDV
-706,02 TL
+708,12 TL
 1000+ ADET
 KARER
 BEYAZ KABLOLU BNC KONNEKTÖR
 SP00388
 Web özel fiyatı
 $0,35 +KDV
-17,65 TL
+17,70 TL
 1000+ ADET
 KARER
 POWERJACK
 PWRJACK
 Web özel fiyatı
 $0,25 +KDV
-12,61 TL
+12,65 TL
 Stokta yok
 KARER
 KR-D121-4W-28F2963
 SP01643
 Web özel fiyatı
 $11,00 +KDV
-554,73 TL
+556,38 TL
 Bayilik
 Karer bayisi olun, toptan fiyatlarla çalışın
 Bayilere özel dolar fiyatları, anlık stok bilgisi, 7/24 online sipariş ve cari ekstre takibi tek ekranda.
@@ -169,7 +193,7 @@ Diğer
 KR-IPC B151-6W5-36F9508
 SP02301
 Fiyat için arayınız
-62 ADET
+54 ADET
 Diğer
 KR-IPC B281-4D-36F7553
 SP02279
@@ -184,13 +208,13 @@ Diğer
 KR-B121-4W6-36F2831
 SP02273
 Fiyat için arayınız
-614 ADET
+609 ADET
 Diğer
 UTP CAT6 KABLO 305MT OUTDOOR 23AWG
 SP02264
 Web özel fiyatı
 $40,00 +KDV
-2.017,20 TL
+2.023,20 TL
 19 ADET
 Diğer
 OKAM OK-104EKOW WİFİ MİNİ BATARYALI BALIK GÖZÜ LENS
@@ -206,29 +230,32 @@ Diğer
 O-KAM OK-241PREMİUMW 4 LENS WİFİ PTZ KAMERA
 SP02244
 Fiyat için arayınız
-E-BÜLTEN
-YENİ VE İNDİRİMLİ ÜRÜNLERDEN HABERDAR OLUN !
-ABONE OL
-ALIŞVERİŞ
-K.V.K. Kanunu
-Gizlilik Sözleşmesi
-Garanti Şartları
-Satış Politikası Sözleşmesi
-Yeni Ürünler
-HİZMETLER
-Yardım
-İstek ve Önerileriniz
-Sipariş Takibi
-Telefonla Sipariş
-İRTİBAT
+Kampanyalardan ilk siz haberdar olun Yeni ürünler, stok ve fiyat duyuruları e-postanıza gelsin.
+Abone ol
+Güvenlik kamerası, kayıt cihazı ve ekipmanlarında bayilere toptan satış. İstanbul Pendik deposundan Türkiye geneline gönderim.
+Kurumsal
 Hakkımızda
+Ürünler
+Destek merkezi
+Banka hesapları
 İletişim
-ADRES Yayalar Mahallesi Atasever Caddesi No 44 Pendik İstanbul
-TELEFON 0216 397 33 88
-0552 294 72 40
-E-MAIL info@karerguvenlik.com
-$ Alış 50,4300 · Satış 50,4300
+Bayi
+Bayi girişi
+Bayilik başvurusu
+Sipariş takibi
+Yeni ürünler
+Yasal
+KVKK aydınlatma metni
+Gizlilik sözleşmesi
+Çerez politikası
+Satış politikası
+Garanti şartları
+İletişim
+Yayalar Mahallesi Atasever Caddesi No 44 Pendik İstanbul
+0216 397 33 88 0552 294 72 40
+info@karerguvenlik.com
+$ Alış 50,5800 · Satış 50,5800
 € Alış 53,0000 · Satış 53,0000
-Copyright 2026 karerguvenlik.com - Tüm hakları saklıdır.
+© 2026 Karer Güvenlik Sistemleri · Tüm hakları saklıdır.
 Tasarım & Yazılım:
 ↗

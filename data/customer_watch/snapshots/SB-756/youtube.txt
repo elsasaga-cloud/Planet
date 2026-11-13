@@ -1,4 +1,4 @@
-# SB-756 fluxlight.com · youtube · https://www.youtube.com/user/FluxLightInc · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-756 fluxlight.com · youtube · https://www.youtube.com/user/FluxLightInc · fetched 2026-11-13T09:45:13Z · HTTP 200
 2016-02-29T19:14:00+00:00	Cisco GLC-SX-MM Transceivers	https://www.youtube.com/watch?v=kKFz3eE2IV0
 2016-01-28T21:59:05+00:00	Cisco GLC-T Transceivers	https://www.youtube.com/watch?v=9h7DKr0UNLU
 2015-12-16T16:48:50+00:00	Cisco SFP+ Transceivers	https://www.youtube.com/watch?v=MzvaSZnhKTU

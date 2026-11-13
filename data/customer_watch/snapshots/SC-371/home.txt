@@ -1,4 +1,4 @@
-# SC-371 Visiotech · home · https://www.visiotechsecurity.com/en/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-371 Visiotech · home · https://www.visiotechsecurity.com/en/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Visiotech | Security Systems Supplier
 Products IP
 Analogue CCTV
@@ -241,6 +241,11 @@ Detector testers
 Standalone Anka
 Ajax
 X-Sense
+Kilsen Central
+Detectors
+Sirens
+Modules
+Axendis
 ZKTeco Controllers
 Readers
 Standalone
@@ -674,6 +679,7 @@ Via Faro, nº 21
 20876, Ornago MB (Italy)
 Tel: (+39) 039 930 04 08
 CIF IT10864770960
+RAEE IT26050000018589
 France
 355 Avenue Henri Schneider
 69330, Meyzieu (France)

@@ -1,4 +1,4 @@
-# XC-C1023 IT Warehouse Distribution Inc. · news_1 · https://itwarehouse.ph/articles/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-C1023 IT Warehouse Distribution Inc. · news_1 · https://itwarehouse.ph/articles/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 News & Articles | Networking Insights & Tutorials | IT Warehouse
 Skip to content
 Home
@@ -39,7 +39,7 @@ Commercial Wi-FI Solutions
 Fiber Connectivity Solutions
 Enterprise Networking
 4G/5G LTE Connectivity
-Resources Mikrotik Knowledge Base News and Articles Become a Reseller Mikrotik Configuration Custom Quotation KNOWLEDGE HUB
+Resources Request Quotation Mikrotik Knowledge Base Become a Reseller News and Articles Mikrotik Configuration Custom Quotation KNOWLEDGE HUB
 Knowledge Base
 News and Articles
 Training & Seminars
@@ -49,7 +49,7 @@ Custom Network Quote
 Mikrotik Configuration
 Contact
 X
-Business Account
+Request a Quote
 News & Articles
 Discover a wealth of insightful materials crafted to provide you with a comprehensive understanding of the latest trends in networking industry.
 Guides & Tutorials
@@ -103,9 +103,10 @@ Fiber Connectivity
 Cellular Connectivity
 Enterprise Networking
 Commercial Wi-Fi
-Resources Mikrotik Knowledge Base
-News and Articles
+Resources Request Quotation
+Mikrotik Knowledge Base
 Become a Reseller
+News and Articles
 Mikrotik Configuration
 Custom Quotation
 Contact

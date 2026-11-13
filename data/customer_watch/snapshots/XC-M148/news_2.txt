@@ -1,4 +1,4 @@
-# XC-M148 Lakeland Engineering Equipment Company · news_2 · https://www.lakelandengineering.com/blog · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M148 Lakeland Engineering Equipment Company · news_2 · https://www.lakelandengineering.com/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
 Blog: Lakeland Engineering Equipment Co. - Lakeland Engineering
 Skip to content
 855-544-0321
@@ -43,6 +43,9 @@ Contact
 Lakeland Engineering Blogs
 Discover the latest in industrial automation, electrical controls, and power solutions with the Lakeland Engineering blog. Whether you’re troubleshooting complex systems, exploring new technologies, or optimizing your operations, our blog delivers expert insights tailored to your needs.
 From product spotlights and application tips to updates on industry-leading brands like Fluke, Yaskawa, ABB, Eaton, and PULS, each article is designed to help you make informed decisions and stay ahead in a fast-moving industry.
+Backflow Preventer Test Kits: Choosing the Right Kit for RPZ and Double Check Testing
+Every testable backflow assembly protecting a potable water line needs a field test on a set schedule, usually after installation, after repair, and once a year. The quality of that test depends on the backflow preventer test kit in your hands. Certified testers, plumbing contractors, irrigation crews, and facility maintenance
+Read More
 Socomec WattNode: Simple, Accurate Power Monitoring for Electrical Systems
 Understanding how much power an electrical system is using is an important part of managing energy, troubleshooting equipment, and making informed decisions about electrical infrastructure. The Socomec WattNode provides a compact way to monitor electrical consumption and key power measurements across a wide range of applications. Monitor 1- to 3-Phase
 Read More
@@ -69,9 +72,6 @@ Lakeland Engineering is excited to welcome Andrew Tuggle to our Kansas City team
 Read More
 How to Trace Underground Cable and Find Cable Faults: A Simple Guide
 Cable faults can cause electrical systems to stop working, but locating the exact problem underground can be a challenge. A cable fault may be caused by a break, short circuit, damaged insulation, or other issue that interrupts the cable’s ability to carry electricity properly. Cable locators and fault locators are
-Read More
-Shut Down Because of a Broken Part? Lakeland Engineering Is Here to Help
-When a critical piece of equipment goes down, every minute matters. A failed industrial electrical component, automation part, motor control, sensor, drive, or other electrical component can bring production to a standstill. That’s where Lakeland Engineering Equipment Company can help. We’re an experienced industrial electrical distributor and automation supplier providing
 Read More
 « Previous
 Page 1

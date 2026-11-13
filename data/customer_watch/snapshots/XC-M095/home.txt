@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-12T09:57:55Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-13T09:45:13Z · HTTP 200
 Soluzioni Embedded per Edge Computing | GOMA
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -119,13 +119,13 @@ Un catalogo, cinque domini
 Oltre 2.100 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
 Sistemi e Piattaforme
 Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
-Computer Embedded 128
+Computer Embedded 129
 Server, Workstation e PC Industriali 107
 Sistemi su Architetture Aperte 90
-Computer Embedded 128
+Computer Embedded 129
 Server, Workstation e PC Industriali 107
 Sistemi su Architetture Aperte 90
-490 prodotti →
+492 prodotti →
 HMI e Panel PC
 Monitor industriali e rugged, panel PC, tastiere, consolle e cassetti KVM da rack.
 Monitor Industriali 195
@@ -139,20 +139,20 @@ Schede e Moduli
 VME, OpenVPX, CompactPCI, COM e mezzanine: l'embedded scheda per scheda.
 Moduli Mezzanine 210
 MicroTCA 173
-Schede di I/O PCI e PCIe 163
+Schede di I/O PCI e PCIe 162
 Moduli Mezzanine 210
 MicroTCA 173
-Schede di I/O PCI e PCIe 163
-919 prodotti →
+Schede di I/O PCI e PCIe 162
+918 prodotti →
 Dispositivi Networking
 Switch, router e media converter per reti industriali affidabili.
-Switch Ethernet Industriali 138
+Switch Ethernet Industriali 133
 PoE Injector & Splitter 13
 Media Converter Industriali 10
-Switch Ethernet Industriali 138
+Switch Ethernet Industriali 133
 PoE Injector & Splitter 13
 Media Converter Industriali 10
-184 prodotti →
+179 prodotti →
 Marchio GOMA ELETTRONICA
 Rack e Cabinet
 Armadi 19″, telai open frame e strutture di contenimento per ogni installazione.

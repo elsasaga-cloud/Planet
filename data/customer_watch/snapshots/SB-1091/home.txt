@@ -1,4 +1,4 @@
-# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 TRIOTRONIK - der Netzwerkdistributor
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -479,7 +479,7 @@ Leitung Kundenservice
 TRIOTRONIK
 Netzwerktechnik ganzheitlich gedacht.
 Jetzt Kunde werden
-LIGTHWIN OPTICS
+LIGHTWIN OPTICS
 SFP-Module der neuen Generation
 Mehr erfahren
 TRIOTRONIK ACADEMY
@@ -487,7 +487,7 @@ Schulungen mit Know-how
 Jetzt buchen
 TRIOTRONIK
 Netzwerktechnik ganzheitlich gedacht.
-LIGTHWIN OPTICS
+LIGHTWIN OPTICS
 SFP-Module der neuen Generation
 TRIOTRONIK ACADEMY
 Schulungen mit Know-how
@@ -608,7 +608,6 @@ Lightwin Optics
 LWO-QSFP28-LR4
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
-Neu
 TELTONIKA
 Industrie Dual 5G/LTE Router für professionelle Anwendungen, Digitale I/Os
 RUTM54
@@ -620,7 +619,6 @@ UniFi Enterprise Campus 48S Port Switch, Layer 3, 10 GbE, 25 Gb, 100 Gb
 ECS-48S
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
-Neu
 MikroTik
 hAP be³ Media WiFi-7 Home Router, Home Media- und Automatisierungszentrum
 MA53UG+HBEH
@@ -636,7 +634,6 @@ SICO Industrieller Switch, 8×GB PoE-Ports + 2×GB SFP-Slots
 SICO-10P-2F8P
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
-Neu
 TP-Link
 Omada Fusion 2.5G Gateway
 FUSION 2.5G
@@ -656,4 +653,4 @@ Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um
 Stk
 Neu
 Hikvision
-DS-2CD2387G3P-LIS2UY/SL(180°) - 8 MP Pa
+DS-2CD2387G3P-LIS2UY/SL(180°) - 8 MP Panorama Color

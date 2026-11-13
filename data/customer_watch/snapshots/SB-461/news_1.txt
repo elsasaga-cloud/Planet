@@ -1,4 +1,4 @@
-# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
 Píšeme, radíme, inspirujeme a testujeme | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -6,6 +6,7 @@ Přeskočit na zápatí
 Přihlaste se k odběru novinek a získejte slevu
 Sleva 100 Kč
 na první nákup
+AKCE A DÁRKY
 Doprava a platba
 INFOCENTRUM
 Přihlášení
@@ -73,6 +74,10 @@ Rady & návody
 Recenze
 Píšeme, radíme, inspirujeme a testujeme
 Inspirace
+Ventilátory pod radiátor: jak fungují a jak vám sníží náklady za energie
+Publikováno 27. 10. 2025
+V zimních měsících se doma snažíme mít příjemné teplo a zároveň neplatit za topení více, než je nutné. Klasické radiátory ale často nedokáží teplo rozvést do celé místnosti rovnoměrně. Teplý vzduch stoupá vzhůru a u podlahy zůstává chladněji. Vyřeší to ventilátor pod radiátor.
+Inspirace
 Jak si doma vytvořit krásnou vánoční atmosféru
 Publikováno 4. 11. 2026
 Vánoční osvětlení dokáže proměnit celý interiér, ale snadno sklouzne ke kýči nebo světelnému chaosu. Ukážeme vám, jak propojit světelné řetězy s rodinnými ozdobami tak, aby výsledek působil přirozeně, čistě a vkusně
@@ -92,10 +97,6 @@ Rady & návody
 Přehřátý buben, horká zásuvka, požár. Kde doma zbytečně riskujete s elektřinou?
 Publikováno 7. 9. 2026
 Problémy s elektřinou nevznikají jen v rozvaděči. Často začínají přímo v zásuvce nebo prodlužovacím kabelu, do kterého zapojíte přímotop, výkonné nářadí či zahradní techniku. Několik špatných návyků může způsobit přehřátí kontaktů a poškození izolace, aniž by jistič včas zareagoval. Podívejte se, kde možná doma zbytečně riskujete.
-Rady & návody
-Jak si vybrat čelovku, která vám bude sedět
-Publikováno 26. 8. 2026
-Dobrá čelovka vám posvítí přesně tam, kam potřebujete, a nechá vám volné ruce. Hodí se při běhu, práci, kempování, rybaření i běžném pohybu kolem domu. Jenže parametry jako lumeny, dosvit nebo krytí IP dokážou výběr trochu zamotat. Pojďme se na to blíž podívat.
 Předchozí
 1
 2
@@ -105,6 +106,7 @@ Předchozí
 Další
 Píšeme, radíme, inspirujeme a testujeme
 Hlavní odkazy
+AKCE A DÁRKY
 Doprava a platba
 INFOCENTRUM
 Informace

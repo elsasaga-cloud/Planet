@@ -1,4 +1,4 @@
-# SB-276 hanelektronik.com · news_2 · https://hanelektronik.com/blog/duyurular · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-276 hanelektronik.com · news_2 · https://hanelektronik.com/blog/duyurular · fetched 2026-11-13T09:45:13Z · HTTP 200
 DUYURULAR
 ANA SAYFA
 KURUMSAL HAKKIMIZDA
@@ -40,8 +40,8 @@ PLAKA TANIMA PLAKA TANIMA SİSTEMLERİ
 METAL ARAMA DEDEKTÖRLERİ KAPI TİPİ METAL DEDEKTÖRLER
 EL TİPİ METAL DEDEKTÖRLER
 X RAY CİHAZLARI
-MARKALAR GRUNDIG
-NEVIO
+MARKALAR NEVIO
+GRUNDIG
 AVERDIGI
 SPY AHD
 SPY IP
@@ -62,26 +62,26 @@ AVERFIRE
 AVERGUARD
 AVERCLOUD
 TNA
-BLOG DUYURULAR 2020 ISAF Exclusive Ankara Güvenlik Fuarı
-ISAF 2017'NİN ALTIN SPONSORUYUZ!
+BLOG DUYURULAR Yeni Mobil Uygulamamız Yayında!
 ISAF 2018 Fuarını Başarıyla Tamamladık
-Han Elektronik’ten Önemli Duyuru; Panasonic ile Distribütörlük Anlaşması İmzalandı!
-Yeni Mobil Uygulamamız Yayında!
+2020 ISAF Exclusive Ankara Güvenlik Fuarı
+MILESIGHT 2018 ÖDÜLLERİ
 7-8-9 Mart 2017 ISAF Exclusive’deyiz
-2021 ISAF Fuarını Başarıyla Tamamladık
-HEDEFİNİZİ TUTTURUN SİZ DE KAZANIN
-Bültenimizin İlk Sayısı Yayınlandı
-A-TECH Akıllı Bina Teknolojileri Fuarını Başarıyla Tamamladık
-HABERLER Axxonsoft Video Gözetim ve Güvenlik Çözümleri
-Panasonic Hava Örneklemeli Yangın Algılama Sistemleri: Erken Uyarıda Akıllı Çözüm
-AxxonSoft Video Gözetim ve Güvenlik Çözümleri
-Güvenlik Kamera Sisteminiz Proaktif mi?
+ISAF EXCLUSIVE 2019 ANKARA FUARINI BAŞARI İLE TAMAMLADIK
+ISAF 2026 FUARINI BAŞARIYLA TAMAMLADIK!
+ISAF 2025 FUARINI BAŞARIYLA TAMAMLADIK
+2018 Yılına Çok Hızlı Giriyoruz
+Han Elektronik’ten Önemli Duyuru; Panasonic ile Distribütörlük Anlaşması İmzalandı!
+HABERLER Panasonic Hava Örneklemeli Yangın Algılama Sistemleri: Erken Uyarıda Akıllı Çözüm
 Solar Panel Destekli Wifi Kamera
-Akıllı Video Gözetim Sistemleri IVMS
-PTS Hakkında Önemli Bilgiler
-LoRaWAN ve IOT Teknolojileri
+Güvenlik Kamera Sisteminiz Proaktif mi?
 Güvenlik Kameraları için Bulut Rehberi
+Axxonsoft Video Gözetim ve Güvenlik Çözümleri
+PTS Hakkında Önemli Bilgiler
 Ticari Araçlar İçin Yeni Düzenleme
+AxxonSoft Video Gözetim ve Güvenlik Çözümleri
+Akıllı Video Gözetim Sistemleri IVMS
+LoRaWAN ve IOT Teknolojileri
 DESTEK DESTEK BOT
 TEKNİK DESTEK
 CANLI YAYIN DEMOLARI
@@ -164,8 +164,8 @@ PLAKA TANIMA PLAKA TANIMA SİSTEMLERİ
 METAL ARAMA DEDEKTÖRLERİ KAPI TİPİ METAL DEDEKTÖRLER
 EL TİPİ METAL DEDEKTÖRLER
 X RAY CİHAZLARI
-MARKALAR GRUNDIG
-NEVIO
+MARKALAR NEVIO
+GRUNDIG
 AVERDIGI
 SPY AHD
 SPY IP
@@ -186,37 +186,37 @@ AVERFIRE
 AVERGUARD
 AVERCLOUD
 TNA
-BLOG DUYURULAR 2020 ISAF Exclusive Ankara Güvenlik Fuarı
-ISAF 2017'NİN ALTIN SPONSORUYUZ!
+BLOG DUYURULAR Yeni Mobil Uygulamamız Yayında!
 ISAF 2018 Fuarını Başarıyla Tamamladık
-Han Elektronik’ten Önemli Duyuru; Panasonic ile Distribütörlük Anlaşması İmzalandı!
-Yeni Mobil Uygulamamız Yayında!
+2020 ISAF Exclusive Ankara Güvenlik Fuarı
+MILESIGHT 2018 ÖDÜLLERİ
 7-8-9 Mart 2017 ISAF Exclusive’deyiz
-2021 ISAF Fuarını Başarıyla Tamamladık
-HEDEFİNİZİ TUTTURUN SİZ DE KAZANIN
-Bültenimizin İlk Sayısı Yayınlandı
-A-TECH Akıllı Bina Teknolojileri Fuarını Başarıyla Tamamladık
-HABERLER Axxonsoft Video Gözetim ve Güvenlik Çözümleri
-Panasonic Hava Örneklemeli Yangın Algılama Sistemleri: Erken Uyarıda Akıllı Çözüm
-AxxonSoft Video Gözetim ve Güvenlik Çözümleri
-Güvenlik Kamera Sisteminiz Proaktif mi?
-Solar Panel Destekli Wifi Kamera
-Akıllı Video Gözetim Sistemleri IVMS
-PTS Hakkında Önemli Bilgiler
-LoRaWAN ve IOT Teknolojileri
-Güvenlik Kameraları için Bulut Rehberi
-Ticari Araçlar İçin Yeni Düzenleme
-ÖNE ÇIKAN HABERLER
-Panasonic Hava Örneklemeli Yangın Algılama Sistemleri: Erken Uyarıda Akıllı Çözüm
-3 Şubat '26
-Yeni Mobil Uygulamamız Yayında!
-18 Şubat '18
-7-8-9 Mart 2017 ISAF Exclusive’deyiz
-15 Şubat '17
+ISAF EXCLUSIVE 2019 ANKARA FUARINI BAŞARI İLE TAMAMLADIK
+ISAF 2026 FUARINI BAŞARIYLA TAMAMLADIK!
 ISAF 2025 FUARINI BAŞARIYLA TAMAMLADIK
-22 Ekim '25
+2018 Yılına Çok Hızlı Giriyoruz
+Han Elektronik’ten Önemli Duyuru; Panasonic ile Distribütörlük Anlaşması İmzalandı!
+HABERLER Panasonic Hava Örneklemeli Yangın Algılama Sistemleri: Erken Uyarıda Akıllı Çözüm
+Solar Panel Destekli Wifi Kamera
+Güvenlik Kamera Sisteminiz Proaktif mi?
 Güvenlik Kameraları için Bulut Rehberi
-3 Temmuz '23
+Axxonsoft Video Gözetim ve Güvenlik Çözümleri
+PTS Hakkında Önemli Bilgiler
+Ticari Araçlar İçin Yeni Düzenleme
+AxxonSoft Video Gözetim ve Güvenlik Çözümleri
+Akıllı Video Gözetim Sistemleri IVMS
+LoRaWAN ve IOT Teknolojileri
+ÖNE ÇIKAN HABERLER
+Ticari Araçlar İçin Yeni Düzenleme
+8 Eylül '25
+ISAF EXCLUSIVE 2019 ANKARA FUARINI BAŞARI İLE TAMAMLADIK
+13 Mart '19
+Güvenlik Kamera Sisteminiz Proaktif mi?
+5 Temmuz '23
+ISAF 2018 Fuarını Başarıyla Tamamladık
+11 Ekim '18
+2018 Yılına Çok Hızlı Giriyoruz
+11 Nisan '18
 DESTEK DESTEK BOT
 TEKNİK DESTEK
 CANLI YAYIN DEMOLARI
@@ -342,8 +342,8 @@ Ne Aradınız?
 BAYİ GİRİŞİ
 BAYİ GİRİŞİ BAYİ OLUN
 Kapat
-USD 48,7381
-EURO 56,8818
+USD 50,9140
+EURO 56,4435
 Ana Sayfa
 DUYURULAR
 ‹

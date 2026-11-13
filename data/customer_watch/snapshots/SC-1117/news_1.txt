@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -23,44 +23,43 @@ Automatización 144
 #telefonía #networking #CallCenter 138
 Incendio 114
 Blog SYSCOM
-Hikvision: por qué es el estándar de la videovigilancia profesional
-Hikvision no llegó al liderazgo por casualidad: lo construyó con un portafolio que cubre desde el domo residencial hasta el centro de monitoreo urbano, y con una cadena de suministro que los integradores pueden sostener en el tiempo. Un repaso técnico de las razones y un caso concreto: el turret TURBOHD 3K DS-2CE76K0T-LMFS.
-CM
+redes Grandstream
+GWN7302: el enlace PtP WiFi 6 de Grandstream que cubre 5 km
+El GWN7302 de Grandstream une dos puntos a 5 km con WiFi 6 en 5 GHz, MIMO 2x2:2, 2.4 Gbps agregados y PoE de salida para alimentar el equipo del otro extremo. IP66, TDMA y gestión desde GDMS Cloud.
+RC
+RAFAEL CENICEROS MU&Ntilde;OZ · Hoy
+Monitor LED Full HD de 21.5" para videovigilancia y oficina: HDMI, VGA y 100 Hz
+Adan Corona · Hoy
+WD Purple 2 TB: el disco que sostiene la videovigilancia 24/7
 Cecilia Martinez · Hoy
+Hikvision: por qué es el estándar de la videovigilancia profesional
+Cecilia Martinez · Ayer
 Videovigilancia Control de acceso
 Fanvil VIK-01: ahora con 10 usuarios en la app y varios monitores interiores
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · Ayer
+ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 2 días
 Videovigilancia Sistemas de Seguridad
 ¿Qué es la NDAA y qué significa “NDAA compliant”? Guía para México
-Ingeniería SYSCOM · Ayer
+Ingeniería SYSCOM · hace 2 días
 Sistemas de Seguridad Incendio
 Taller presencial INIM Electronics en CDMX: sistemas de incendio en 3 horas
-MARIO ALBERTO HERNANDEZ REYNOSA · Ayer
+MARIO ALBERTO HERNANDEZ REYNOSA · hace 2 días
 Radiocomunicación #TASSTA
 ¿Qué es TASSTA y cómo funciona? Guía de licencias T.Flex PTT y T.Flex Smart
-JORGE ALI RUBIO LOYA · hace 2 días
+JORGE ALI RUBIO LOYA · hace 3 días
 Almacenamiento Data Center
 WD Ultrastar: cómo elegir un disco de data center entre 12 y 26 TB
-ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
+ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
 Videovigilancia Almacenamiento
 Compra Original WD: cómo verificar que tu disco es auténtico y que la garantía sigue vigente
-ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
+ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
 Almacenamiento Data Center
 Cómo verificar que tu disco WD es original (y que su garantía sigue vigente)
-ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
+ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
 Videovigilancia Data Center
 WD Gold Enterprise Class: cómo elegir entre 1 TB y 24 TB para tu proyecto
-ALDO ARISTOTELES CERA DE LA TORRE · hace 2 días
+ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
 Repetidores WiFi para ONTs: cobertura total en cada rincón con el HUAWEI FG736
-Zaira Romero · hace 6 días
-UGREEN NASync DXP480T Plus: el NAS all-flash con velocidad hiper-rápida para empresas y creadores
-Cecilia Martinez · hace 6 días
-Videovigilancia Control de acceso
-Hikvision Noviembre 2026: DVR Guanlan 3 en 1, AcuSeek y UPS
-Lydia Wang · hace 6 días
-Audio y Video Profesional Seetronic
-Seetronic: los conectores en los que confía el audio profesional
-LUIS ANGEL TOPETE ARELLANO · hace 1 semana
+Zaira Romero · hace 1 semana
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

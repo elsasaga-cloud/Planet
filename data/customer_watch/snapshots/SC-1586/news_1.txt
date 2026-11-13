@@ -1,4 +1,4 @@
-# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-1586 chuyendoiquang.com · news_1 · https://chuyendoiquang.com/blog/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Giải pháp công nghệ
 Search:
 Tìm kiếm
@@ -165,11 +165,11 @@ Trang chủ
 Giải pháp công nghệ
 Nên dùng cáp quang Singlemode hay Multimode
 31/10/2022
-196
+197
 Mặc dù các loại cáp quang single mode (SMF) và cáp quang multi mode (MMF) được sử dụng rộng rãi trong các ứng dụng đa dạng, nhưng sự khác biệt giữa cáp quang single mode và cáp quang multi mode vẫn còn gây nhầm lẫn. Bài viết này sẽ tập trung vào cấu tạo cơ bản, khoảng cách sợi quang, giá thành, màu sắc sợi quang,… để so sánh giữa các loại cáp quang single mode và multi mode.
 Cáp quang HDMI là gì? Nguyên lý cáp quang HDMI
 28/10/2022
-146
+148
 Cáp quang HDMI là cáp hdmi sử dụng sợi quang làm phương tiện truyền dẫn; Tên tiếng Anh: HDMI AOC Cable;
 CÁCH XEM ĐÈN TRÊN CONVERTER QUANG ĐIỆN - BỘ CHUYỂN ĐỔI QUANG
 28/10/2022
@@ -178,11 +178,11 @@ Ngày nay thiết bị chuyển đổi quang đã ứng dụng rộng rãi trong
 Trên Converter quang điện có 6 đèn LED báo trạng thái làm việc, biết cách xem đèn trên Converter quang điện sẽ giúp ta biết được hệ thống mạng đang làm việc ra sao và giúp ta khắc phục nhanh hệ thống mạng khi sự cố xảy ra.
 Cổng SFP trên Switch Gigabit là gì?
 28/10/2022
-110
+111
 Cổng SFP được thiết kế để sử dụng với các đầu nối hệ số dạng nhỏ (SFP), mang lại tốc độ cao và độ gọn nhẹ. Nó cho phép chuyển mạch Gigabit và liên kết quang hoặc đồng bằng cách chèn module quang SFP tương ứng (SFP sợi quang hoặc SFP Ethernet). Bất kể liên kết cổng quang hay cổng Ethernet.
 So sánh giữa cáp quang ống lỏng và cáp quang đệm chặt
 28/10/2022
-278
+281
 Cáp quang ống lỏng và cáp quang đệm chặt đều có cùng sợi trần 250um và có lõi sợi cùng kích thước. Tuy nhiên, sự khác biệt của chúng nằm ở cấu tạo cáp, và mỗi loại lại được ứng dụng trong những trường hợp khác nhau. Ở bài viết này chúng ta cùng tìm hiểu xem những ứng dụng, ưu và nhược điểm của 2 loại cáp này.
 Tìm hiểu về sự suy hao sợi quang.
 28/10/2022

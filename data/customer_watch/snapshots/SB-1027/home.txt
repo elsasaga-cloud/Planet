@@ -1,4 +1,4 @@
-# SB-1027 everbesthk.com · home · https://www.everbesthk.com/ · fetched 2026-11-10T10:04:27Z · HTTP 200
+# SB-1027 everbesthk.com · home · https://www.everbesthk.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Everbest Home Page - Everbest Technologies Ltd.
 Bringing Innovative Products into HK & Macau since 1991
 About Us
@@ -12,21 +12,21 @@ Advertisement
 Warranty Warranty Terms
 Contact Us
 Everbest Home Page
-2026-11-02T11:+
+2026-11-13T16:+
 Highlight
-WAP-8171 BE3600 WiFi 7 AP
-●最新一代802.11be Wi-Fi 7
-●BE3600(2882M@5GHz+688M@2.4GHz)
-●Dual Band 2×2 with MLO
-●4K-QAM●2.5 GbE WAN
-●Controller-managed
+VR440
+●10.1”觸控面板 直觀式預約管理
+●同步主流行事曆軟體系統
+●升級記憶體 提升系統效能
+●內置距離與光線感測器
+●內置RFID讀卡器
 Read More
-PG95/PG96/PG98xxxG Series
-●30組插座三相可量測電源分配器
-●加強型安全鎖●LCD 面板即時警示
-●熱插拔功能●網路備援
-●環境感測器●WiFi 連線
-●電源線可旋轉●DCIM 監控
+VigorAP 807
+●採用全新DrayOS 5 64-BIT作業系統
+●WiFi 7 BE3600
+●OFDMA and Multi-Link Operation
+●1 * 2.5GbE + 2* 1GbE LAN Port
+●Virtual Controller
 Read More
 KE6948AT / KE6948AR
 ●DNV-certified滿足航海環境要求
@@ -55,6 +55,17 @@ PR ERT2UC Series
 ●防湧插座●夜間模式設計
 Read More
 Feature Products
+9 Nov 2026
+ATEN VR440
+Klaire
+2026-11-13T14:+
+ATEN VR440
+9 Nov 2026 , Aten
+DrayTek VigorAP 807 BE3600 WiFi7 AP
+Alvin
+2026-11-13T10:+
+DrayTek VigorAP 807 BE3600 WiFi7 AP
+9 Nov 2026 , AP , DRAYTEK
 19 Oct 2026
 AVer TR615 Broadcasting-Grade AI Auto Tracking Camera
 Justine
@@ -77,22 +88,6 @@ Justine
 2026-09-10T16:+
 CyberPower Professional Rackmount系列UPS★PR1000ERT2UC / PR2000ERT2UC / PR3000ERTXL2UC
 7 Sep 2026 , CyberPower , UPS
-17 Aug 2026
-LevelOne WAP-8171
-Ariel
-2026-08-14T15:+
-LevelOne WAP-8171
-17 Aug 2026
-CyberPower RMCARD400 Remote Management Card & SNEV001 Environmental Sensor
-Justine
-2026-08-14T09:+
-CyberPower RMCARD400 Remote Management Card & SNEV001 Environmental Sensor
-17 Aug 2026 , Power Distribution Units , UPS
-Aten 3-Phase Intelligent PDU PG95230G / PG95330G / PG96230G / PG96330G / PG98230 / PG98330 系列
-Justine
-2026-08-14T09:+
-Aten 3-Phase Intelligent PDU PG95230G / PG95330G / PG96230G / PG96330G / PG98230 / PG98330 系列
-17 Aug 2026 , Aten , PDU
 Reolink 維修事項特別通告
 Axis - O ne network solution for stronger campuses.
 ★Zoom Rooms Certified Hardware★

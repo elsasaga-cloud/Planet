@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-13T09:45:13Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -116,8 +116,8 @@ Latest
 142 items
 MikroTik XS+31LC40D, SFP28 optical module, Single-Mode, 40km, 25G, 1310nm
 XS+31LC40D
-149.06 EUR excl. VAT
-180.44 EUR incl. VAT
+149.03 EUR excl. VAT
+180.40 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -130,8 +130,8 @@ The MikroTik XS+31LC40D is a single-mode SFP/SFP+/SFP28 module supporting data r
 New product
 MikroTik G1317-0600W, DC power supply for CRS320
 G1317-0600W
-159.76 EUR excl. VAT
-193.36 EUR incl. VAT
+160.47 EUR excl. VAT
+194.22 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -144,8 +144,8 @@ The MikroTik G1317-0600W is a power supply/module with an input voltage of 36-72
 New product
 MikroTik LtAP-5HaxT2HaxD&EG120K-EA, LtAP LTE12 ax
 LtAP-5HaxT2HaxD&EG120K-EA
-235.64 EUR excl. VAT
-285.20 EUR incl. VAT
+236.70 EUR excl. VAT
+286.48 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -158,8 +158,8 @@ The MikroTik LtAP LTE12 ax is a 4G router with (3) 1Gbps ports (1x PoE-In), dual
 New product
 Huawei OPS W022 D, Computer module for IdeaHub, 16GB RAM
 06190081
-2 272.76 EUR excl. VAT
-2 750.04 EUR incl. VAT
+2 272.71 EUR excl. VAT
+2 749.98 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -172,8 +172,8 @@ The Huawei OPS W022 D is a compact OPS-C standard computer module designed for i
 New product
 Huawei OPS W021 D, Computer module for IdeaHub, 8GB RAM
 06190082
-1 391.71 EUR excl. VAT
-1 683.97 EUR incl. VAT
+1 391.84 EUR excl. VAT
+1 684.13 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -186,8 +186,8 @@ The Huawei OPS W021 D is a compact OPS-C standard computer module designed for i
 New product
 Huawei OPS A01 D, Android module for IdeaHub, 4GB RAM
 06190079
-630.85 EUR excl. VAT
-763.33 EUR incl. VAT
+630.72 EUR excl. VAT
+763.17 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -200,8 +200,8 @@ The Huawei OPS A01 D is a compact OPS-C standard computer module designed for in
 New product
 Huawei OPS A01 D, Android module for IdeaHub, 8GB RAM
 06190047-001
-924.94 EUR excl. VAT
-1 119.18 EUR incl. VAT
+925.16 EUR excl. VAT
+1 119.44 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -214,8 +214,8 @@ The Huawei OPS A01 D is a compact OPS-C standard computer module designed for in
 New product
 Huawei IdeaHub B3 Base, Interactive display, 98"
 55151688
-5 366.69 EUR excl. VAT
-6 493.69 EUR incl. VAT
+5 366.82 EUR excl. VAT
+6 493.85 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -228,8 +228,8 @@ The Huawei IHB3-98AC is a 98" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 86"
 55151687
-3 364.23 EUR excl. VAT
-4 070.72 EUR incl. VAT
+3 364.36 EUR excl. VAT
+4 070.88 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -242,8 +242,8 @@ The Huawei IHB3-86AC is a 86" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 75"
 55151686
-2 563.17 EUR excl. VAT
-3 101.44 EUR incl. VAT
+2 563.05 EUR excl. VAT
+3 101.29 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -256,8 +256,8 @@ The Huawei IHB3-75AC is a 75" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 65"
 55151685
-1 762.10 EUR excl. VAT
-2 132.14 EUR incl. VAT
+1 762.15 EUR excl. VAT
+2 132.20 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -270,8 +270,8 @@ The Huawei IHB3-65AC is a 65" interactive 4K display with soft-light technology 
 New product
 Huawei Aura10, Dual-Band Wi-Fi 7 router
 Aura10
-138.02 EUR excl. VAT
-167.08 EUR incl. VAT
+137.99 EUR excl. VAT
+167.04 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -284,8 +284,8 @@ The Huawei Aura10 is a dual-band Wi-Fi 7 mesh router that operates simultaneousl
 New product
 Huawei AR280-4T2N, 2.5G router
 AR280-4T2N
-100.57 EUR excl. VAT
-121.76 EUR incl. VAT
+100.55 EUR excl. VAT
+121.74 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -298,8 +298,8 @@ The Huawei eKitEngine AR280-4T2N is an all-in-one router equipped with (2) 2.5G 
 New product
 Huawei S530-24T8J4XE, Gigabit switch
 S530-24T8J4XE
-652.99 EUR excl. VAT
-790.19 EUR incl. VAT
+652.86 EUR excl. VAT
+790.03 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -312,8 +312,8 @@ The Huawei eKitEngine S530-24T8J4XE is an L3 stackable switch with a switching c
 New product
 Huawei S310-48S4X, Gigabit optical switch
 S310-48S4X
-534.04 EUR excl. VAT
-646.26 EUR incl. VAT
+533.93 EUR excl. VAT
+646.13 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -326,8 +326,8 @@ The Huawei eKitEngine S310-48S4X is an optical L3 switch with a switching capaci
 New product
 Ubiquiti UACC-LR-Endpoint, Outdoor long-range PoE endpoint
 UACC-LR-Endpoint
-82.94 EUR excl. VAT
-100.43 EUR incl. VAT
+83.33 EUR excl. VAT
+100.90 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -340,100 +340,100 @@ The Ubiquiti UACC-LR-Endpoint is an outdoor endpoint with an IPX5 rating designe
 New product
 Ubiquiti USW-LR-Switch-8-PoE, UniFi long-range PoE switch
 USW-LR-Switch-8-PoE
-234.62 EUR excl. VAT
-283.96 EUR incl. VAT
+235.68 EUR excl. VAT
+285.25 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
 avail:0
 infocode: avail
 queu:
-shipmin: 28.2.2027
-Expected 28.2.2027
+shipmin: 31.1.2027
+Expected 31.1.2027
 The Ubiquiti USW-LR-Switch-8-PoE is a UniFi PoE switch with a switching capacity of 3.6Gbps, (8) 10/100Mbps PoE+++ ports, (1) 1Gbps SFP/RJ45 combo uplink and a total PoE budget of up to 630W. When used in combination
 New product
 UNV IP bullet hybrid camera IPC2124LB-AF28K-DL2, 4MP, 2.8mm, LED/IR 30m, Easy
 IPC2124LB-AF28K-DL2
 Price after login
 Login
-stiqtyfree:0
+stiqtyfree:10
 _17:
-avail:21
-infocode: avail
+avail:0
+infocode: stock
 queu:
-shipmin: 17.11.2026
-To order within 21d
+shipmin: 30.12.2077
+In Stock
 UNV IP bullet hybrid kamera IPC2124LB-AF28K-DL2 disponuje 4MP snímačem (2560 x 1440 px) při 25fps, fixním 2.8mm (93,2°) objektivem , kombinovaným IR/bílé světlo přísvitem pro noční vidění na vzdálenost až 30m, krytím IP67 a vestavěným mikrofonem. Do sí...
 New product
 UNV IP turret hybrid camera IPC3614LB-AF28K-DL2, 4MP, 2.8mm, LED/IR 30m, Easy
 IPC3614LB-AF28K-DL2
 Price after login
 Login
-stiqtyfree:0
+stiqtyfree:10
 _17:
-avail:21
-infocode: avail
+avail:0
+infocode: stock
 queu:
-shipmin: 17.11.2026
-To order within 21d
+shipmin: 30.12.2077
+In Stock
 UNV IP turret hybrid kamera IPC3614LB-AF28K-DL2 disponuje 4MP snímačem (2560 x 1440 px) při 25fps, fixním 2.8mm (93,2°) objektivem , kombinovaným IR/bílé světlo přísvitem pro noční vidění na vzdálenost až 30m, krytím IP67 a vestavěným mikrofonem. Do sí...
 New product
 UNV IP dome hybrid camera IPC324LE-ADF28K-DL3, 4MP, 2.8mm, LED/IR 30m, Easy
 IPC324LE-ADF28K-DL3
 Price after login
 Login
-stiqtyfree:0
+stiqtyfree:5
 _17:
-avail:21
-infocode: avail
+avail:0
+infocode: stock
 queu:
-shipmin: 17.11.2026
-To order within 21d
+shipmin: 30.12.2077
+In Stock
 UNV IP dome hybrid kamera IPC324LE-ADF28K-DL3 disponuje 4MP snímačem (2560 x 1440 px) při 25fps, fixním 2.8mm (100,5°) objektivem , kombinovaným IR/bílé světlo přísvitem pro noční vidění na vzdálenost až 30m, krytím IP67 a IK10 , technologií 120dB True...
 New product
 UNV IP bullet hybrid camera IPC2124LE-ADF28K-DL3, 4MP, 2.8mm, LED/IR 30m, Easy
 IPC2124LE-ADF28K-DL3
 Price after login
 Login
-stiqtyfree:0
+stiqtyfree:10
 _17:
-avail:21
-infocode: avail
+avail:0
+infocode: stock
 queu:
-shipmin: 17.11.2026
-To order within 21d
+shipmin: 30.12.2077
+In Stock
 UNV IP bullet hybrid kamera IPC2124LE-ADF28K-DL3 disponuje 4MP snímačem (2560 x 1440 px) při 25fps, fixním 2.8mm (100,5°) objektivem , kombinovaným IR/bílé světlo přísvitem pro noční vidění na vzdálenost až 30m, krytím IP67 , technologií 120dB True WDR...
 New product
 UNV IP turret hybrid camera IPC3614LE-ADF28K-DL3, 4MP, 2.8mm, LED/IR 30m, Easy
 IPC3614LE-ADF28K-DL3
 Price after login
 Login
-stiqtyfree:0
+stiqtyfree:10
 _17:
-avail:21
-infocode: avail
+avail:0
+infocode: stock
 queu:
-shipmin: 17.11.2026
-To order within 21d
+shipmin: 30.12.2077
+In Stock
 UNV IP turret hybrid kamera IPC3614LE-ADF28K-DL3 disponuje 4MP snímačem (2560 x 1440 px) při 25fps, fixním 2.8mm (100,5°) objektivem , kombinovaným IR/bílé světlo přísvitem pro noční vidění na vzdálenost až 30m, krytím IP67 , technologií 120dB True WDR...
 New product
 UNV IP turret hybrid camera IPC3634LE-ADZK-DL3, 4MP, 2.8-12mm, LED/IR 50m, Easy
 IPC3634LE-ADZK-DL3
 Price after login
 Login
-stiqtyfree:0
+stiqtyfree:2
 _17:
-avail:21
-infocode: avail
+avail:0
+infocode: stock
 queu:
-shipmin: 17.11.2026
-To order within 21d
+shipmin: 30.12.2077
+In Stock
 UNV IP turret hybrid kamera IPC3634LE-ADZK-DL3 disponuje 4MP snímačem (2688 x 1520 px) při 25fps, varifokálním objektivem (2.8mm-12mm), kombinovaným IR/bílé světlo přísvitem pro noční vidění na vzdálenost až 50m, krytím IP67 , technologií 120dB True WD...
 New product
 Ubiquiti U7-Industrial, Outdoor UniFi Wi-Fi 7 AP
 U7-Industrial
-331.75 EUR excl. VAT
-401.49 EUR incl. VAT
+333.24 EUR excl. VAT
+403.29 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -442,4 +442,4 @@ infocode: avail
 queu:
 shipmin:
 Not in stock
-The Ubiquiti U7 Industrial is an indus
+The Ubiquiti U7 Industrial is an industrial outdoor UniFi dual-band Wi-Fi 7 access point that operates sim

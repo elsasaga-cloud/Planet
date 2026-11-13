@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-13T09:45:13Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+MikroTik CMR: gestión centralizada de RouterOS, ya en beta
+13 de noviembre de 2026
+Conoce
+CMR reúne supervisión, alertas y actualizaciones de flotas MikroTik en una vista central. Conoce qué permite su beta en RouterOS 7.26 y qué límites conviene tener presentes
+Read More
 Grandstream GRP2600 Lite: cinco teléfonos IP esenciales para despliegues profesionales
 12 de noviembre de 2026
 Conoce
@@ -67,11 +72,6 @@ Yealink MP66W Teams: comunicación móvil y resistente para equipos de primera l
 22 de octubre de 2026
 Conoce
 El MP66W lleva las llamadas de Microsoft Teams a entornos donde la movilidad, la protección IP67 y el audio claro importan tanto como la gestión del dispositivo.
-Read More
-NETGEAR serie M4350: conectividad de hasta 100G y PoE++ en una sola plataforma
-20 de octubre de 2026
-Conoce
-La serie NETGEAR M4350 reúne PoE/PoE++ hasta 3314 W, conectividad multigigabit de 1G a 100G, apilado virtual VSF y perfiles AVoIP en switches gestionables para redes AV y empresariales exigentes.
 Read More
 Paginación de entradas
 1
@@ -624,4 +624,6 @@ comprar RF elements
 comprar ubiquiti
 comprar unifi
 compras +1500 €
-compresión 
+compresión de vídeo
+comunicación
+comunicacion bidire
