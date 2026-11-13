@@ -2,8 +2,8 @@
  "code": "XA-M253",
  "name": "broadbandbuyer.com",
  "round": "LT-T03",
- "researched_at": "2026-11-12",
- "alive": "快照失败（broadbandbuyer.com：HTTP 错误，2026-11-12，第 13 次）",
+ "researched_at": "2026-11-13",
+ "alive": "快照失败（broadbandbuyer.com：HTTP 错误，2026-11-13，第 14 次）",
  "summary": "网络设备专业电商/分销（Milton Keynes）；MikroTik 官方分销，商用线可直接比价，工业线为零 → 新品类增量",
  "type_final": "网络设备专业电商/分销（Milton Keynes）",
  "size": "未量化",
@@ -45,7 +45,7 @@
   "window": "GB 周四 12–14 当地",
   "when": "2026-11-05"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-11-13）：alive/fail#14。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "draft_en": {
   "subject": "Industrial DIN-rail PoE switches - the category MikroTik does not cover",
   "body": "Hi,\n\nI wrote on 7 October about our 24-port PoE L2+ switch ('24 Port PoE Managed Switch'); this is a different product line, so a fresh note rather than a reply.\n\nSTI-288DGGPM: DIN-rail industrial L2+ switch, 8 x GE PoE+ (240 W budget) + 2 x SFP (1G/2.5G), -40 to +75 C, dual DC input, ERPS ring, SNMPv3, USD 137 EXW Shenzhen (snapshot 2026-10-27, valid 15 days), UKCA/CE/RoHS, 3-year warranty. Same family: STI-244DGGPM (4 x PoE+ + 2 x SFP, 120 W) at USD 121 and STI-488DGGPM (8 x PoE+ + 4 x SFP, 240 W) at USD 147.\n\nWould a DIN-rail PoE range be worth listing for your trade customers, or is that outside what broadbandbuyer stocks?\n\nSimon\nSaga Telecom - sagatele.com"
@@ -65,7 +65,8 @@
    "2026-11-09T10:31:29Z",
    "2026-11-10T10:37:37Z",
    "2026-11-11T10:09:48Z",
-   "2026-11-12T10:29:34Z"
+   "2026-11-12T10:29:34Z",
+   "2026-11-13T10:22:38Z"
   ],
   "fails": [
    "2026-10-29",
@@ -80,7 +81,8 @@
    "2026-11-09",
    "2026-11-10",
    "2026-11-11",
-   "2026-11-12"
+   "2026-11-12",
+   "2026-11-13"
   ]
  }
 }

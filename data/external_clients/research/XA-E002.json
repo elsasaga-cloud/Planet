@@ -2,8 +2,8 @@
  "code": "XA-E002",
  "name": "Circle B（Taurus Group 旗下）",
  "round": "LT-T03",
- "researched_at": "2026-11-12",
- "alive": "快照失败（circleb.eu：域名不可达（DNS/连接失败），2026-11-12，第 13 次）",
+ "researched_at": "2026-11-13",
+ "alive": "在线（circleb.eu，快照 2026-11-13）：",
  "summary": "开放硬件/OCP 方案商（Circle B，Taurus Group）",
  "type_final": "开放硬件/OCP 方案商（Circle B，Taurus Group）",
  "size": "未量化",
@@ -24,6 +24,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-10-19"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；",
+   "quote": "",
+   "url": "https://circleb.eu/",
+   "date": "2026-11-13"
   }
  ],
  "contacts": {
@@ -43,7 +50,7 @@
   "window": "",
   "when": "不动"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-11-13）：alive/evidence。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
  "draft_en": null,
  "snap_thicken": {
@@ -60,7 +67,8 @@
    "2026-11-09T10:31:28Z",
    "2026-11-10T10:37:36Z",
    "2026-11-11T10:09:47Z",
-   "2026-11-12T10:29:34Z"
+   "2026-11-12T10:29:34Z",
+   "2026-11-13T10:22:37Z"
   ],
   "fails": [
    "2026-10-29",
@@ -76,6 +84,7 @@
    "2026-11-10",
    "2026-11-11",
    "2026-11-12"
-  ]
+  ],
+  "last_ok": "2026-11-13"
  }
 }

@@ -2,7 +2,7 @@
  "code": "SB-1087",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（tehnoelectric.ro：HTTP 错误，2026-11-12，第 14 次）",
+ "website_status": "快照失败（tehnoelectric.ro：HTTP 错误，2026-11-13，第 15 次）",
  "summary": "罗马尼亚 Tehnoelectric（tehnoelectric.ro：销售平台型网店，「PoE injector 比较杂 啥都有」；官网 http_error）；表内未跟进。",
  "type": "综合电子网店（罗马尼亚，平台型）",
  "size": "",
@@ -26,7 +26,7 @@
  "kp": [],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-12）：website_status/fail#14。\nLT-T03 官网快照加厚（2026-11-11）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
+ "notes": "LT-T03 官网快照加厚（2026-11-13）：website_status/fail#15。\nLT-T03 官网快照加厚（2026-11-12）：website_status/fail#14。\nLT-T03 官网快照加厚（2026-11-11）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T4）",
  "deep": {
   "done_at": "2026-10-21",
   "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
@@ -144,7 +144,8 @@
    "2026-11-09T10:30:02Z",
    "2026-11-10T10:36:09Z",
    "2026-11-11T10:08:13Z",
-   "2026-11-12T10:28:08Z"
+   "2026-11-12T10:28:08Z",
+   "2026-11-13T10:21:14Z"
   ],
   "fails": [
    "2026-10-21",
@@ -160,7 +161,8 @@
    "2026-11-09",
    "2026-11-10",
    "2026-11-11",
-   "2026-11-12"
+   "2026-11-12",
+   "2026-11-13"
   ],
   "batch": "LT-T03"
  },

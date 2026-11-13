@@ -2,8 +2,8 @@
  "code": "XA-M310",
  "name": "BCL Enterprises, Inc.",
  "round": "LT-T03",
- "researched_at": "2026-11-12",
- "alive": "快照失败（bclenterprise.com：域名不可达（DNS/连接失败），2026-11-12，第 13 次）",
+ "researched_at": "2026-11-13",
+ "alive": "在线（bclenterprise.com，快照 2026-11-13）：",
  "summary": "集成商（OH）；Marvell 接入层生态切入",
  "type_final": "集成商（OH）",
  "size": "未量化",
@@ -26,6 +26,13 @@
    "quote": "",
    "url": "data/gmail_s/2026-09_10群发名单_未入库.csv",
    "date": "2026-09-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；",
+   "quote": "",
+   "url": "https://bclenterprise.com/",
+   "date": "2026-11-13"
   }
  ],
  "contacts": {
@@ -45,7 +52,7 @@
   "window": "",
   "when": "不动"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
+ "notes": "LT-T03 官网快照加厚（2026-11-13）：alive/evidence。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\n轻卡：本轮未外查，沿用来源库官网/名录核对。",
  "deep": false,
  "draft_en": null,
  "snap_thicken": {
@@ -62,7 +69,8 @@
    "2026-11-09T10:31:30Z",
    "2026-11-10T10:37:37Z",
    "2026-11-11T10:09:48Z",
-   "2026-11-12T10:29:34Z"
+   "2026-11-12T10:29:34Z",
+   "2026-11-13T10:22:38Z"
   ],
   "fails": [
    "2026-10-29",
@@ -78,6 +86,7 @@
    "2026-11-10",
    "2026-11-11",
    "2026-11-12"
-  ]
+  ],
+  "last_ok": "2026-11-13"
  }
 }

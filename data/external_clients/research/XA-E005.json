@@ -2,8 +2,8 @@
  "code": "XA-E005",
  "name": "Utopia Technology Limited",
  "round": "LT-T03",
- "researched_at": "2026-11-12",
- "alive": "快照失败（utopiatechnology.co.uk：HTTP 错误，2026-11-12，第 13 次）",
+ "researched_at": "2026-11-13",
+ "alive": "快照失败（utopiatechnology.co.uk：HTTP 错误，2026-11-13，第 14 次）",
  "summary": "曼彻斯特增值分销/方案商（2009/2010 起，11–50 人，自报营收 $13.4M），客户是 ISP/MSP 与公共部门，主推 Huawei/Aurora/Kemp 等；X 自述「value-added technology distributor」。10-19 首封因 Gmail 临时故障最终未送达，等于没碰过。",
  "type_final": "增值分销商（面向 ISP/MSP/Reseller）",
  "size": "11–50 人；$13.4M（RocketReach/ZoomInfo 估）",
@@ -81,7 +81,7 @@
   "subject": "L2+ PoE switches for your ISP/MSP channel (UKCA/CE)",
   "body": "Hi Levi,\n\nUtopia supplies ISPs and MSPs with Huawei and other carrier-grade kit; the gap we usually fill for such distributors is the access layer: Marvell-based L2+ switches with 10G uplinks, your label if you want it, at a price that leaves room for the reseller.\n\nOne reference point: STC-424XGGPM-280W, 24 x GE PoE+ (280 W) + 4 x 10G SFP+, L2+ (VLAN/QoS/ERPS, SNMPv3, web + CLI), CE/UKCA/RoHS, 12-month warranty, USD 170 EXW Shenzhen (snapshot 2026-10-27, valid 15 days). A first message to you in October did not get through, hence this note.\n\nWould it help if I sent the full L2+ range with distributor pricing for a quick look?\n\nSimon\nSaga Telecom - sagatele.com"
  },
- "notes": "LT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nKP 直达邮箱未公开，稿写给 Levi 但发 salessupport@ 亦可；若再退信改 LinkedIn。",
+ "notes": "LT-T03 官网快照加厚（2026-11-13）：alive/fail#14。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nKP 直达邮箱未公开，稿写给 Levi 但发 salessupport@ 亦可；若再退信改 LinkedIn。",
  "deep": false,
  "snap_thicken": {
   "consumed": [
@@ -97,7 +97,8 @@
    "2026-11-09T10:31:28Z",
    "2026-11-10T10:37:36Z",
    "2026-11-11T10:09:47Z",
-   "2026-11-12T10:29:34Z"
+   "2026-11-12T10:29:34Z",
+   "2026-11-13T10:22:37Z"
   ],
   "fails": [
    "2026-10-29",
@@ -112,7 +113,8 @@
    "2026-11-09",
    "2026-11-10",
    "2026-11-11",
-   "2026-11-12"
+   "2026-11-12",
+   "2026-11-13"
   ]
  }
 }

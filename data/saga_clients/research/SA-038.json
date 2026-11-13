@@ -61,11 +61,12 @@
    "source": "https://www.zaubacorp.com/DNC-TECHNOSOLUTIONS-PRIVATE-LIMITED-U33125KL2013PTC034130"
   }
  ],
- "notes": "LT-T03 官网快照加厚（2026-11-12）：fail#14。\nLT-T03 官网快照加厚（2026-11-11）：fail#13。\nLT-T03 官网快照加厚（2026-11-10）：fail#12。\nLT-T03 官网快照加厚（2026-11-09）：fail#11。\nLT-T03 官网快照加厚（2026-11-08）：fail#10。\nLT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
+ "notes": "LT-T03 官网快照加厚（2026-11-13）：site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-11-12）：fail#14。\nLT-T03 官网快照加厚（2026-11-11）：fail#13。\nLT-T03 官网快照加厚（2026-11-10）：fail#12。\nLT-T03 官网快照加厚（2026-11-09）：fail#11。\nLT-T03 官网快照加厚（2026-11-08）：fail#10。\nLT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\nA 维持（2 次实质回复 + 自有品牌 + 官网电话即 WhatsApp）；主需求 MC 与 VC：P1 = STI-110GE（MC）贴牌 30%；VC/HDMI 光端机 Saga 不做，如实说明。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对）"
+  "level": "深挖 v2（官网 dncsolutions.co.in + IndiaMART 核对） + 官网快照（LT-T03 2026-11-13）",
+  "snapshot_at": "2026-11-13"
  },
  "company_facts": {
   "legal_name": "DNC TECHNOSOLUTIONS PRIVATE LIMITED（CIN U33125KL2013PTC034130；2013-05-20；Ernakulam Kerala；实缴 ₹1 lakh）（第 85 批 官方登记核实 2026-10-27）",
@@ -195,6 +196,14 @@
     "quote": "Mini Industrial PoE Switch",
     "why": "最近一封去信（邮箱索引；去信共 3 封）",
     "k": "a6946d60c14d3655"
+   },
+   {
+    "date": "2026-11-13",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "FIBER OPTIC PRODUCTS — DNC Technosolutions Pvt. Ltd. is one of the well recognized Manufacturers and Solution makers of Fiber Optic Products and Technology . Our range comprises Fiber Optic Patch cords , Pigtails , Connectors , Adapters, Couplers , Splitters , Patch panels , Data to Fiber converters",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.dncsolutions.co.in/"
    }
   ],
   "proof_gaps": [
@@ -221,7 +230,8 @@
    "2026-11-09T10:28:41Z",
    "2026-11-10T10:34:48Z",
    "2026-11-11T10:06:52Z",
-   "2026-11-12T10:26:48Z"
+   "2026-11-12T10:26:48Z",
+   "2026-11-13T10:19:54Z"
   ],
   "fails": [
    "2026-10-21",
@@ -239,7 +249,8 @@
    "2026-11-11",
    "2026-11-12"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-13"
  },
  "ab_final": {
   "date": "2026-10-30",
@@ -290,5 +301,23 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [
+   "coo@dncsolutions.co.in",
+   "u003ecoo@dncsolutions.co.in"
+  ],
+  "phones": [
+   "+91-9072396211",
+   "+91-9072396811",
+   "+91-9207350111"
+  ],
+  "social": [
+   "https://www.facebook.com/dnc.technosolutions/"
+  ],
+  "models_on_site": [],
+  "url": "https://www.dncsolutions.co.in/",
+  "date": "2026-11-13",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }
