@@ -2,8 +2,8 @@
  "code": "XC-M149",
  "name": "Logic Inc",
  "round": "LT-T03",
- "researched_at": "2026-11-13",
- "alive": "快照失败（logic-control.com：HTTP 错误，2026-11-13，第 14 次）",
+ "researched_at": "2026-11-14",
+ "alive": "快照失败（logic-control.com：HTTP 错误，2026-11-14，第 15 次）",
  "summary": "Logic, Inc.：工业自动化软硬件高科技分销；设 OEM 销售经理 John Wilmes、内销 Emily Robards（ZoomInfo）",
  "type_final": "分销（HMS/N-Tron·Red Lion 渠道）；Logic, Inc.",
  "size": "",
@@ -40,7 +40,7 @@
   "angle": "已入 P 池 → 按巡检节奏首触"
  },
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-13）：alive/fail#14。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLogic, Inc.；890 N Martway Ct, Olathe, KS 66061；+1 913 764 4400",
+ "notes": "LT-T03 官网快照加厚（2026-11-14）：alive/fail#15。\nLT-T03 官网快照加厚（2026-11-13）：alive/fail#14。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLogic, Inc.；890 N Martway Ct, Olathe, KS 66061；+1 913 764 4400",
  "draft_en": null,
  "snap_thicken": {
   "consumed": [
@@ -57,7 +57,8 @@
    "2026-11-10T10:38:04Z",
    "2026-11-11T10:10:20Z",
    "2026-11-12T10:30:00Z",
-   "2026-11-13T10:23:02Z"
+   "2026-11-13T10:23:02Z",
+   "2026-11-14T09:40:43Z"
   ],
   "fails": [
    "2026-10-29",
@@ -73,7 +74,8 @@
    "2026-11-10",
    "2026-11-11",
    "2026-11-12",
-   "2026-11-13"
+   "2026-11-13",
+   "2026-11-14"
   ]
  }
 }
