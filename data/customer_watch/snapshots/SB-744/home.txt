@@ -1,4 +1,4 @@
-# SB-744 commandonetworks.com · home · https://commandonetworks.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-744 commandonetworks.com · home · https://commandonetworks.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 COMMANDO is a technology company focused on networking hardware
 Products
 Support Downloads Tech Support Warranty
@@ -38,8 +38,8 @@ AIR-AP1800AX
 COMMANDO AirX 1775Mbps, 802.11ax Wave 2, FIT/FAT, Wi-Fi 6 Cloud Access Point
 E3000-24GP-4X
 COMMANDO Soldier E3000 24x1GbE Full PoE/PoE+, 4x10G SFP+, 450W, L3 Routing Switch
-E200-16GP-3CF
-COMMANDO Scout E200 16x1GbE PoE/PoE+, 2x1GbE+1x1G SFP, 200W, Unmanaged AI Switch
+SFP-SM-1G
+COMMANDO FiberX 1000BASE-LX/LH, SFP, 1310nm, 20km, SMF, DDM, Multi-brand
 Top Selling Products
 Show all
 Switches

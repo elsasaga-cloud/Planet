@@ -1,4 +1,4 @@
-# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-418 atel.com.pl · home · https://www.atel.com.pl/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 ﻿
 Atel Electronics - Import i dystrybucja
 Ta strona wykorzystuje pliki cookies w celu świadczenia usług, dostosowania serwisu do preferencji użytkowników oraz w celach statystycznych i reklamowych.
@@ -7,89 +7,89 @@ Kontynuując, przyjmujemy Twoją zgodę na wdrażanie plików cookies i ich zapi
 MENU
 dostarczamy nowoczesne technologie
 tel.: 77 455 60 76 | cust@atel.com.pl
-Piątek, 13 listopada
+Sobota, 14 listopada
 [ Zaloguj się ]
-Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
 Przewody koncentryczne H155, RG174, RG213, RG58, RG59, RG6
-SFP, SFP+, SFP28, QSFP+, QSFP28, GBIC
+Sieci Przemysłowe - ORing Industrial Networking
 Konsole LCD KVM, Przełączniki KVM - kat.5, IP - WaveKVM
-Patchcordy światłowodowe, pigtaile, adaptery, złącza, tłumiki - WAVE OPTICS
 Urządzenia zgodne z normą kolejową EN50155
 VUTLAN - Monitoring parametrów środowiskowych Serwerowni
-Sieci Przemysłowe - ORing Industrial Networking
+SFP, SFP+, SFP28, QSFP+, QSFP28, GBIC
 Kabel UTP i FTP, Skrętka, kat. 5e, 6, 6a, 7 - WAVE CABLES
 Ekonomiczne Kamery Termowizyjne
+Listwy zasilające, 4-9 gniazd, do szaf rack 10 i 19"
 PATCHCORDY, miedziane i światłowodowe
+Patchcordy światłowodowe, pigtaile, adaptery, złącza, tłumiki - WAVE OPTICS
 Termometr bezdotykowy, bezdotykowy pomiar temperatury ciała
-#09775
-233,00 PLN
-Router AX3000 Wi-Fi 6 (TP-Link Mercusys MR84X-Travel) / 802.11ax (WiFi 6)
-#09772
-750,00 PLN
-Switch zarządzalny, 8x 2,5G, 1x slot 10G SFP+, PoE++, 19" (TP-Link ES210XPP-M2) / Switche
-#09760
-275,00 PLN
-Trzypasmowa bezprzewodowa karta sieciowa USB BE6500, standard BE, 6500Mbps, Wi-Fi 7 (TP-Link Archer TBE400U Plus) / 802.11bx (WiFi 7)
-#09770
-883,00 PLN
-Brama sieciowa Omada Fusion 2.5G (TP-Link Fusion 2.5G) / Routery
-10,60 PLN
-#03308
-Patchcord SC/UPC-SC/UPC, MM, 50/125, dupleks, włókno OM2, 0,5 m
+#04136
+5,00 PLN
+Adapter światłowodowy LC/UPC quad, OM3, wielomodowy / Adaptery światłowodowe
+#04132
+30,50 PLN
+Patchcord SC/UPC-SC/UPC, MM, 50/125, dupleks, włókno OM3, 15 m / Patchcordy światłowodowe
+#09757
+229,00 PLN
+Bezprzewodowy router 3G/4G, standard N, 300Mb/s (TP-Link TL-MR100P) / Standard N
+#04982
+3,23 PLN
+Puszka natynkowa, 2x keystone z zapadkami / Puszki
 137,00 PLN
 #09762
 Dwupasmowa bezprzewodowa karta AX3000 USB 3.0 (TP-Link Archer TX50U)
-34,00 PLN
-#06096
-Przyłącze KVM, Wave KVM, HDMI (HDMI + USB), 1,8 m
-2 630,00 PLN
-#03149
-Vutlan VT608G, Kontroler IP 19" 1U 8x230V; 2x analog; 2x wejścia bezpotencjałowe; 1x CAN
-10,90 PLN
-#03312
-Patchcord SC/UPC-LC/UPC, SM, 9/125, dupleks, włókno G652D, 0,5 m
-69,70 PLN
-#03152
-Przyłącze 10m do czujników Vutlan 6P4C AWG24
+28,00 PLN
+#04124
+Patchcord LSH/APC-LSH/APC, SM, 9/125, simpleks, włókno G652D, 5 m
+275,00 PLN
+#09759
+Wzmacniacz sygnału bezprzewodowego, AX1800, 1800Mb/s (TP-Link RE660X)
+34,20 PLN
+#09764
+Adapter USB Bluetooth 6.0 (TP-Link UB600)
+312,00 PLN
+#09754
+Bezprzewodowy router podróżny AX1500 (TP-Link TL-WR1512X)
+6,00 PLN
+#03323
+Patchcord SC/APC-SC/APC, SM, 9/125, simpleks, włókno G657A1, 1 m
 więcej nowości »
-#03152
-85,00 PLN
-69,70 PLN
-Przyłącze 10m do czujników Vutlan 6P4C AWG24 / Monitoring Serwerowni
-#03146
-250,00 PLN
-190,00 PLN
-Vutlan LR490, Bezprzewodowy czujnik temperatury i wilgotności LoRaWAN / Monitoring Serwerowni
+#08841
+596,00 PLN
+508,00 PLN
+Telefon VoIP (Grandstream GXP2160) / VoIP
 #08391
 132,00 PLN
 124,00 PLN
 Analogowy czujnik wibracji (Vutlan VT540) / Monitoring Serwerowni
-#03153
-590,00 PLN
-302,00 PLN
-Bezprzewodowy czujnik dymu, temperatury i wilgotności LoRaWAN (Vutlan LR560) / Monitoring Serwerowni
-#03120
-264,00 PLN
-155,00 PLN
-Moduł Modbus (Vutlan VT485m) / Monitoring Serwerowni
-264,00 PLN 155,00 PLN
-#03120
-Moduł Modbus (Vutlan VT485m)
-342,00 PLN 338,00 PLN
-#05986
-Bramka VoIP ATA 4xFXS (Grandstream HT814)
-380,00 PLN 372,00 PLN
-#08154
-Analogowy czujnik napięcia DC (Vutlan VT410 75V)
+#03151
+62,00 PLN
+54,20 PLN
+Przyłącze 5m do czujników Vutlan 6P4C AWG24 / Monitoring Serwerowni
+#08370
+46,40 PLN
+30,00 PLN
+Magnetyczny czujnik dostępu (Vutlan KMS-30) / Monitoring Serwerowni
+#03127
+345,00 PLN
+194,00 PLN
+Moduł akumulatorowy (Vutlan VT-ACCU) / Monitoring Serwerowni
+345,00 PLN 194,00 PLN
+#03127
+Moduł akumulatorowy (Vutlan VT-ACCU)
+272,00 PLN 249,00 PLN
+#06010
+Telefon VoIP (Grandstream GRP2613)
 544,00 PLN 517,00 PLN
 #05981
 Bramka VoIP 8xFXS, router (Grandstream HT818)
-213,00 PLN 197,00 PLN
-#06008
-Telefon VoIP (Grandstream GRP2612)
+85,00 PLN 69,70 PLN
+#03152
+Przyłącze 10m do czujników Vutlan 6P4C AWG24
 441,00 PLN 348,00 PLN
 #08204
 Kamera USB z podświetlaczem (Vutlan USB100)
+290,00 PLN 217,00 PLN
+#03147
+Bezprzewodowy czujnik dostępu i temperatury LoRaWAN (Vutlan LR530)
 więcej obniżek »
 Wyprzedaż produktów poserwisowych i poekspozycyjnych OUTLET
 Informujemy Państwa o wyprzedaży pełnosprawnych produktów poserwisowych i poekspozycyjnych. Teraz mogą Państwo nabyć, w wyjątkowo atrakcyjnej cenie , produkty nie odbiegające funkcjonalnością od ich nowych odpowiedników. Szczegółów na temat towarów poserwisowych udzielą Państwu pracownicy Działu Handlowego. więcej»
@@ -98,18 +98,18 @@ TP-LINK
 NAJPOPULARNIEJSZE
 Mastech MS6818 - Profesjonalny lokalizator przewodów, rur, metalu / Lokalizatory i detektory
 MASTECH
-Patchcord światłowodowy, MM SC/UPC-SC/UPC, 50/125, dupleks, OM2 1m / Patchcordy światłowodowe
-WAVE OPTICS
 NOYAFA NF-8508, Tester okablowania i miernik mocy optycznej LCD, RJ-45, RJ-11, z szukaczem par, pióro świetlne VFL / Testery okablowania
 NOYAFA
+Patchcord światłowodowy, MM SC/UPC-SC/UPC, 50/125, dupleks, OM2 1m / Patchcordy światłowodowe
+WAVE OPTICS
 Szafa rack 12U, wisząca, 19", 440mm gł., drzwi szklane / Szafy rack
 Zaciskarka RJ45 (8p), RJ12, RJ11 (6p), czołowa (AT-2810R) / Zaciskarki złączy modularnych
 Termometr bezdotykowy, do pomiaru temperatury ciała, HT11D / Pirometry
 Wtyk RJ-45, rj45, 8p8c, kat5e, na przewód okrągły, drut, UTP / Złącza modularne męskie, osłony
+Listwa zasilająca rack 19", 9 gniazd, z wyłącznikiem / Listwy zasilające
 Adapter światłowodowy SC/APC duplex, jednomodowy / Adaptery światłowodowe
 WAVE OPTICS
 Patchcord, UTP, kat.5e, 1,0m, szary / Patchcordy
-Listwa zasilająca rack 19", 9 gniazd, z wyłącznikiem / Listwy zasilające
 Kabel UTP, Skrętka, kat5e, wewnętrzny, szary, drut miedziany 24AWG, rolka 305m / Skrętka
 WAVE CABLES
 Złącze światłowodowe jednomodowe SC/APC, odgiętka 3,0 mm / Złącza światłowodowe
@@ -177,7 +177,7 @@ WAVE INDUSTRIAL
 WAVE KVM
 WAVE OPTICS
 TAGI:
-szafa serwerowa , SFP , LoRa , multimetry , przewody koncentryczne , PoE plus , LSOH , switch M12 , switch przemysłowy , SFP28 , kabel skrętka , PoE , utp 5e , kabel światłowodowy , patchcord , szafy serwerowe , kabel utp , keystone , sfp wdm , szafa rack , SFP+ , lsa , kamery termowizyjne , pigtail , True RMS , rejestrator temperatury , patch panel , opaski kablowe , skrętka utp , patchcord 6a , mierniki cęgowe , EN50155 , kabel utp kat 6 , kabel antenowy , szafa rack 19 , pirometr , przewód koncentryczny , zaciskarka rj45 , LSZH , IEC 62443-4-2 , ZigBee , anteny lte , miernik jakości powietrza , kabel ftp , kabel koncentryczny , przewód utp , miernik cęgowy , UniFi , patchpanel , Smart Grid , keystone , slot SFP , skrętka kat 6 , switch zarządzalny , zaciskarka do konektorów , multimetr , FTTH , patch cord utp , przełącznik kvm , szafy teleinformatyczne , detektor przewodów , miernik elektryczny , switch , zaciskarka bnc , miernik uniwersalny , switch poe , utp kabel , 8p8c , M12 , oring switch , utp lsoh , IEC 61850-3
+8p8c , multimetr , patchcord 6a , szafy serwerowe , kabel koncentryczny , pirometr , True RMS , PoE plus , switch , miernik uniwersalny , oring switch , przewód utp , szafa rack , UniFi , utp kabel , zaciskarka bnc , przełącznik kvm , szafa serwerowa , keystone , slot SFP , miernik cęgowy , ZigBee , PoE , kabel światłowodowy , switch poe , SFP+ , switch przemysłowy , detektor przewodów , zaciskarka rj45 , przewody koncentryczne , mierniki cęgowe , multimetry , rejestrator temperatury , patchcord , przewód koncentryczny , SFP , szafy teleinformatyczne , LSZH , zaciskarka do konektorów , FTTH , IEC 62443-4-2 , lsa , kabel antenowy , LSOH , utp lsoh , kabel utp , sfp wdm , opaski kablowe , patch cord utp , keystone , Smart Grid , skrętka utp , SFP28 , patch panel , switch M12 , M12 , miernik elektryczny , kabel skrętka , LoRa , IEC 61850-3 , kamery termowizyjne , EN50155 , szafa rack 19 , utp 5e , anteny lte , switch zarządzalny , miernik jakości powietrza , kabel ftp , patchpanel , skrętka kat 6 , pigtail , kabel utp kat 6
 ©2026 Atel Electronics
 Zasady sprzedaży Reklamacje Ochrona środowiska Polityka dotycząca plików cookies Polityka prywatności
 Siedziba zgodnie z KRS: ATEL ELECTRONICS Spółka z ograniczoną odpowiedzialnością, ul. Oleska 121, 45-231 Opole; Kapitał zakładowy: 50.000,00; KRS 0001010225; Sąd Rejonowy w Opolu, VIII Wydział Gospodarczy Krajowego Rejestru Sądowego; REGON: 524050890; NIP: 7543356130

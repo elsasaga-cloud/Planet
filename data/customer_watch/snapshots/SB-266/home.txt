@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,37 +41,44 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Triton výsuvná police pro klávesnici, 19", výška 60 mm, nosnost 30kg, šedá
-1 689 Kč bez DPH
-2 044 Kč s DPH
-Conexpro 10G SFP+ optický modul, WDM/BiDi, SM, Tx1330/Rx1270nm, 60km, 1x LC, DDM
-695 Kč bez DPH
-841 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, černý, 24 pack
-1 224 Kč bez DPH
-1 481 Kč s DPH
-Ubiquiti UniFi Premium Etherlighting patch kabel, 1m, Cat6A, bílý, 24 pack
-3 Kč bez DPH
-3 Kč s DPH
-Triton optická vana pro 8x ST konektor RAC-FO-X01-C1, 1U, 10", šedá
-195 Kč bez DPH
-236 Kč s DPH
-MEAN WELL DDR-60G-12 Step-down měnič napětí DC/DC, 60W
-793 Kč bez DPH
-959 Kč s DPH
-Triton sada držáků vertikálního PDU do skeletu rozvaděče, 2 pack
-155 Kč bez DPH
-188 Kč s DPH
-Hikvision IP turret kamera DS-2CD1323G2-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu
-Hiksemi Micro SDHC 8GB
-Hikvision AX PRO DS-PWA64-KIT-WE, Kit bezdrátové ústředny pro 64 zón, PIR, magnetu a klíčenky
-Hikvision IP turret kamera DS-2CD1327G3-LIU(4mm), 2Mpx, 4mm, ColorVu
-SanDisk Micro SDHC Extreme 32GB (GN6MA) + SD adaptér
-641 Kč bez DPH
-776 Kč s DPH
-SanDisk High Endurance Micro SDXC 64GB + SD adaptér
-678 Kč bez DPH
-821 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, bílý, 24 pack
+1 079 Kč bez DPH
+1 306 Kč s DPH
+Teltonika EBG140 OXA 4G LTE IoT Router Gateway
+2 510 Kč bez DPH
+3 037 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD2T23G2-4LI(4mm), 2Mpx, 4mm, 80m LED/IR, AcuSense
+Hikvision AX PRO Bezdrátová dotyková klávesnice s LCD
+Triton 19" stojanový rack 18U/600x1000 prosklené dveře, šedý
+9 558 Kč bez DPH
+11 565 Kč s DPH
+Conexpro Vodotěsná RJ-45 kabelová krytka pro GNT-5313AB
+31 Kč bez DPH
+38 Kč s DPH
+Teltonika TRB143 Průmyslová LTE Gateway Router, M-Bus, eSIM
+5 534 Kč bez DPH
+6 696 Kč s DPH
+TP-Link Tapo HB410, Sada 2 solárních kamer C645D + hub H500, 3Mpx
+12 401 Kč bez DPH
+15 005 Kč s DPH
+DEYE měnič 6 kW, 3 fázový, G06
+10 858 Kč bez DPH
+13 139 Kč s DPH
+ITELITE PAT3514XP, Směrová panelová anténa, 3.5 GHz, 14 dBi, 2x N-female
+1 130 Kč bez DPH
+1 367 Kč s DPH
+Triton výsuvná police pro klávesnici, 19", výška 60 mm, nosnost 30kg, černá
+1 751 Kč bez DPH
+2 119 Kč s DPH
+Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 3m, 50 pack
+2 843 Kč bez DPH
+3 440 Kč s DPH
+Triton vertikální rozvodný panel RAB-PD-X52-X1, 20x IEC C13, 4x IEC C19, 3m kabel
+5 513 Kč bez DPH
+6 671 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, bílý, 50 pack
+2 348 Kč bez DPH
+2 841 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

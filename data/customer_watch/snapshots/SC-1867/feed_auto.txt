@@ -1,4 +1,6 @@
-# SC-1867 vienthonghanoi.vn · feed_auto · https://vienthonghanoi.vn/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-1867 vienthonghanoi.vn · feed_auto · https://vienthonghanoi.vn/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+Sat, 14 Nov 2026 09:03:18 +0000	Phân biệt cáp quang Single Mode và Multimode: Nên chọn loại nào?	https://vienthonghanoi.vn/phan-biet-cap-quang-single-mode-va-multimode-nen-chon-loai-nao/
+Sat, 14 Nov 2026 07:43:30 +0000	Phân biệt cáp quang có kim loại và không kim loại: Nên chọn loại nào?	https://vienthonghanoi.vn/phan-biet-cap-quang-co-kim-loai-va-khong-kim-loai-nen-chon-loai-nao/
 Tue, 23 Jun 2026 08:03:05 +0000	ODF khay trượt là gì? Sự khác nhau giữa ODF gắn rack cố định và khay trượt	https://vienthonghanoi.vn/odf-khay-truot-la-gi-su-khac-nhau-giua-odf-gan-rack-co-dinh-va-khay-truot/
 Tue, 02 Jun 2026 07:38:49 +0000	Phân biệt giữa dây cáp mạng UTP, FTP, STP, SFTP và FFTP	https://vienthonghanoi.vn/phan-biet-giua-day-cap-mang-utp-ftp-stp-sftp-va-fftp/
 Wed, 27 May 2026 07:27:39 +0000	Dây cáp mạng là gì.Phân biệt cáp mạng ngoài trời & trong nhà	https://vienthonghanoi.vn/day-cap-mang-la-gi-phan-biet-cap-mang-ngoai-troi-trong-nha/
@@ -9,5 +11,3 @@ Wed, 22 Apr 2026 09:19:31 +0000	Bộ chia PLC 1×2: Chìa khóa khai thác tối
 Thu, 26 Mar 2026 08:17:45 +0000	Máy đo OTDR là gì? Nguyên lý hoạt động của thiết bị	https://vienthonghanoi.vn/may-do-otdr-la-gi-nguyen-ly-hoat-dong-cua-thiet-bi/
 Thu, 26 Mar 2026 07:34:54 +0000	Wifi 7 là gì? Sự khác biệt giữa Wifi 7 và Wifi 6	https://vienthonghanoi.vn/wifi-7-la-gi-su-khac-biet-giua-wifi-7-va-wifi-6/
 Thu, 19 Mar 2026 09:14:55 +0000	Modem và Router khác nhau như nào? Chức năng và vai trò	https://vienthonghanoi.vn/modem-va-router-khac-nhau-nhu-nao-chuc-nang-va-vai-tro/
-Wed, 11 Mar 2026 08:13:03 +0000	Crosstalk là gì? Nguyên nhân và cách khắc phục	https://vienthonghanoi.vn/crosstalk-la-gi-nguyen-nhan-va-cach-khac-phuc/
-Thu, 05 Mar 2026 08:55:40 +0000	Những loại kìm bấm mạng hiện nay-Hướng dẫn bấm dây mạng	https://vienthonghanoi.vn/nhung-loai-kim-bam-mang-hien-nay-huong-dan-bam-day-mang/

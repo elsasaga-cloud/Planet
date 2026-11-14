@@ -1,4 +1,4 @@
-# SB-041 Telcam Fire&securoty Ltd · sitemap · https://telcam.co.uk/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-041 Telcam Fire&securoty Ltd · sitemap · https://telcam.co.uk/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
 	https://telcam.co.uk/
 	https://telcam.co.uk/about-us/
 	https://telcam.co.uk/access-control/
@@ -23,6 +23,7 @@
 	https://telcam.co.uk/blog/uk-fire-standards/
 	https://telcam.co.uk/blog/what-are-the-cctv-camera-laws/
 	https://telcam.co.uk/blog/why-are-lithium-batteries-fire-risks/
+	https://telcam.co.uk/blog/workplace-ev-charging-installation-guide/
 	https://telcam.co.uk/business-security/
 	https://telcam.co.uk/business-wifi-solutions/
 	https://telcam.co.uk/careers/

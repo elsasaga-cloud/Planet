@@ -1,4 +1,4 @@
-# SB-657 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-657 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı
 0 (252) 382 32 36
 0 542 182 32 36
@@ -161,6 +161,8 @@ TÜKENDİ
 Hikvision
 Hikvision DS-2CE16D0T-EXIPF 2MP Analog HD IR Bullet Kamera
 Sizin İçin Seçtiklerimiz
+Dotvolt
+Dotvolt VOLT MN 2 KVA 1/1 UPS 2x7ah
 YENİ
 Ruijie Reyee
 REYEE RG-ES08G-L 8 PORTLU 10/100/1000 GİGABİT,TEK ÇALIŞIR SWİTCH PLASTİK KASA

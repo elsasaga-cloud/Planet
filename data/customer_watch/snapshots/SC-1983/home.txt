@@ -1,4 +1,4 @@
-# SC-1983 vietlongtelecom.com · home · https://vietlongtelecom.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-1983 vietlongtelecom.com · home · https://vietlongtelecom.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Việt Long
 GIẢI PHÁP TỐI ƯU CHO TRUYỀN DẪN QUANG
 Uy tín, chân thành và sẻ chia với đối tác là sự phát triển bền vững của doanh nghiệp.
@@ -53,12 +53,11 @@ HHD-210G-80A/B
 HHD-210G-60A/B
 HHD-210G-40A/B
 Online
-IP: 3.42.157.23
+IP: 3.42.157.167
 CẢNH GIÁC KHI MUA HÀNG G-NET
 LỰA CHỌN ĐÚNG SẢN PHẨM CHÍNH HÃNG G-NET ĐỂ ĐƯỢC HƯỞNG QUYỀN LỢI CAO NHẤT VÀ NHANH NHẤT, VỚI LỢI ÍCH TỐI ƯU CHO ĐẠI LÝ VÀ KHÁCH HÀNG
 DANH MỤC SẢN PHẨM
 HHD-120G-20
-Camera IP Thân Trụ 8MP Hikvision DS-2CD2683G2-LIZS2UHUN
 G-UMC-1FX1TX-SFP
 HHD-210G-100A/B
 G-IES-1GX2GT-SFP
@@ -72,6 +71,7 @@ GX-PES-2GX2GT16GP-SFP
 GX-PES-4GXC8GP-SFP
 G-IMS-2GX8GT-SFP
 G-IMS-4GX24GT-SFP
+G-IMS-10GX8GT-SFP
 Công ty TNHH ĐIỆN TỬ VIỄN THÔNG VIỆT LONG
 Bản đồ đường đi
 VP đại diện : 53/20 Đường 12, Khu phố 2, Phường Hiệp Bình, TP.HCM (Gần bến xe Miền Đông).

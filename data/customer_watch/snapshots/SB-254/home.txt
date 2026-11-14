@@ -1,4 +1,4 @@
-# SB-254 sicurtecnicanapoli.it · home · https://www.sicurtecnicanapoli.it/home/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-254 sicurtecnicanapoli.it · home · https://www.sicurtecnicanapoli.it/home/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Home - sicurtecnicanapoli
 info@sicurtecnicanapoli.it
 +(39) 081 5936511 / +(39) 081 5934226
@@ -340,7 +340,7 @@ UTC RILEVAZIONE INCENDIO
 UTC SOFTWARE
 UTC TVCC
 gli altri Files…
-CARDIN-MITECH-SAFIRE
+CARDIN-MITECH-SAFIRE-VITHRA
 BORINATO-VENITEM-UNIVIEW
 DUEVI-VIMO-ELAN-CROW
 DEFENDERTECH-UTEPO-ESSEGIBI
@@ -527,4 +527,4 @@ TVPA-S02-1201-360-G
 Valutato 0 su 5
 (0)
 Highlight
-TruVision 360° IP camera
+TruVision 360° IP

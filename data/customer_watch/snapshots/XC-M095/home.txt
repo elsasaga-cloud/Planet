@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-14T09:07:48Z · HTTP 200
 Soluzioni Embedded per Edge Computing | GOMA
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -116,16 +116,16 @@ VPX3-XMXM →
 Ogni mese nuove referenze selezionate a catalogo.
 Vedi tutte le novità →
 Un catalogo, cinque domini
-Oltre 2.100 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
+Oltre 2.000 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
 Sistemi e Piattaforme
 Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
-Computer Embedded 129
+Computer Embedded 130
 Server, Workstation e PC Industriali 107
 Sistemi su Architetture Aperte 90
-Computer Embedded 129
+Computer Embedded 130
 Server, Workstation e PC Industriali 107
 Sistemi su Architetture Aperte 90
-492 prodotti →
+493 prodotti →
 HMI e Panel PC
 Monitor industriali e rugged, panel PC, tastiere, consolle e cassetti KVM da rack.
 Monitor Industriali 195
@@ -143,16 +143,16 @@ Schede di I/O PCI e PCIe 162
 Moduli Mezzanine 210
 MicroTCA 173
 Schede di I/O PCI e PCIe 162
-918 prodotti →
+920 prodotti →
 Dispositivi Networking
 Switch, router e media converter per reti industriali affidabili.
-Switch Ethernet Industriali 133
+Switch Ethernet Industriali 119
 PoE Injector & Splitter 13
 Media Converter Industriali 10
-Switch Ethernet Industriali 133
+Switch Ethernet Industriali 119
 PoE Injector & Splitter 13
 Media Converter Industriali 10
-179 prodotti →
+165 prodotti →
 Marchio GOMA ELETTRONICA
 Rack e Cabinet
 Armadi 19″, telai open frame e strutture di contenimento per ogni installazione.
@@ -163,7 +163,7 @@ Armadi IP e EMC 5
 Armadi Server 5
 Armadi a Rack 19″ da Parete 4
 23 prodotti →
-2.100 +
+2.000 +
 Tutto il catalogo
 Cerca per categoria, architettura, standard o part number.
 Esplora tutto il catalogo →

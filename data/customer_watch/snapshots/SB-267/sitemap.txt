@@ -1,4 +1,4 @@
-# SB-267 bio-cognitive.com · sitemap · https://www.bio-cognitive.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-267 bio-cognitive.com · sitemap · https://www.bio-cognitive.com/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
 2026-08-17T15:44:43+00:00	https://www.bio-cognitive.com
 2026-08-17T15:44:43+00:00	https://www.bio-cognitive.com/about
 2026-08-17T15:44:43+00:00	https://www.bio-cognitive.com/convergence-security-framework

@@ -1,4 +1,4 @@
-# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-257 voxplus.it · feed_auto · https://www.voxplus.it/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Thu, 12 Nov 2026 14:18:45 +0000	Connettività wireless industriale: il caso BYD Electronics con Maisvch	https://www.voxplus.it/connettivita-wireless-industriale-il-caso-byd-electronics-con-maisvch/
 Thu, 12 Nov 2026 13:55:44 +0000	PoE, PoE+ o PoE++: come scegliere la potenza giusta per una rete industriale	https://www.voxplus.it/poe-poe-plus-poe-pp-plus-reti-industriali/
 Sun, 08 Nov 2026 10:48:14 +0000	Switch PoE industriali o commerciali: come scegliere quello giusto?	https://www.voxplus.it/switch-poe-industriali-o-commerciali-come-scegliere-quello-giusto/

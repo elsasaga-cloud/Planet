@@ -1,4 +1,4 @@
-# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 ICO Innovative Computer GmbH- Server, Storage, Industrie-PC, Panel PCs, Embeddedsysteme, Barcodescanner, Kassensysteme, PC-Systeme
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -16,7 +16,7 @@ Nur Notwendige
 Auswahl speichern
 Alle zulassen
 Verstanden
-Aufgrund der aktuellen Chipknappheit steigen Speicherpreise stark! Lieferzeiten können variieren, Angebote maximal 3 Tage gültig. Mehr Informationen
+Wegen Chipknappheit steigen Preise stark, Server-RAM kaum verfügbar; auch CPUs, SSDs/HDDs betroffen. Mehr Informationen
 Suche Eingabefeld
 Anmelden
 0

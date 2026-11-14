@@ -1,9 +1,9 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
 Ventas 835
-Videovigilancia 769
+Videovigilancia 770
 Radiocomunicación 745
 Sistemas de Seguridad 598
 Networking 592
@@ -23,43 +23,41 @@ Automatización 144
 #telefonía #networking #CallCenter 138
 Incendio 114
 Blog SYSCOM
+TPMe de AIRBUS: radio móvil de nueva generación para flotas profesionales
+El TPMe de AIRBUS reemplaza al TPM900 con enlace Ethernet de un solo cable, GNSS multi-constelación y control remoto desde smartphone. Comunicación cifrada de voz y datos para flotas policiales, emergencias y centros de comando.
+D
+Dsanchez · Hoy
+TPMe de AIRBUS: radio móvil de nueva generación para flotas profesionales
+Dsanchez · Hoy
+Video wall 2x2 de 109 pulgadas: cuatro pantallas Samsung VM55BU que se leen como una sola
+Cecilia Martinez · Hoy
+Videovigilancia redes
+WI-LTE117-O V2: router 4G LTE exterior con PoE de salida para cámaras
+FERNANDO OROZCO LOPEZ · Hoy
 redes Grandstream
 GWN7302: el enlace PtP WiFi 6 de Grandstream que cubre 5 km
-El GWN7302 de Grandstream une dos puntos a 5 km con WiFi 6 en 5 GHz, MIMO 2x2:2, 2.4 Gbps agregados y PoE de salida para alimentar el equipo del otro extremo. IP66, TDMA y gestión desde GDMS Cloud.
-RC
-RAFAEL CENICEROS MU&Ntilde;OZ · Hoy
+RAFAEL CENICEROS MU&Ntilde;OZ · Ayer
 Monitor LED Full HD de 21.5" para videovigilancia y oficina: HDMI, VGA y 100 Hz
-Adan Corona · Hoy
+Adan Corona · Ayer
 WD Purple 2 TB: el disco que sostiene la videovigilancia 24/7
-Cecilia Martinez · Hoy
-Hikvision: por qué es el estándar de la videovigilancia profesional
 Cecilia Martinez · Ayer
+Hikvision: por qué es el estándar de la videovigilancia profesional
+Cecilia Martinez · hace 2 días
 Videovigilancia Control de acceso
 Fanvil VIK-01: ahora con 10 usuarios en la app y varios monitores interiores
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 2 días
+ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 3 días
 Videovigilancia Sistemas de Seguridad
 ¿Qué es la NDAA y qué significa “NDAA compliant”? Guía para México
-Ingeniería SYSCOM · hace 2 días
+Ingeniería SYSCOM · hace 3 días
 Sistemas de Seguridad Incendio
 Taller presencial INIM Electronics en CDMX: sistemas de incendio en 3 horas
-MARIO ALBERTO HERNANDEZ REYNOSA · hace 2 días
+MARIO ALBERTO HERNANDEZ REYNOSA · hace 3 días
 Radiocomunicación #TASSTA
 ¿Qué es TASSTA y cómo funciona? Guía de licencias T.Flex PTT y T.Flex Smart
-JORGE ALI RUBIO LOYA · hace 3 días
+JORGE ALI RUBIO LOYA · hace 4 días
 Almacenamiento Data Center
 WD Ultrastar: cómo elegir un disco de data center entre 12 y 26 TB
-ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
-Videovigilancia Almacenamiento
-Compra Original WD: cómo verificar que tu disco es auténtico y que la garantía sigue vigente
-ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
-Almacenamiento Data Center
-Cómo verificar que tu disco WD es original (y que su garantía sigue vigente)
-ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
-Videovigilancia Data Center
-WD Gold Enterprise Class: cómo elegir entre 1 TB y 24 TB para tu proyecto
-ALDO ARISTOTELES CERA DE LA TORRE · hace 3 días
-Repetidores WiFi para ONTs: cobertura total en cada rincón con el HUAWEI FG736
-Zaira Romero · hace 1 semana
+ALDO ARISTOTELES CERA DE LA TORRE · hace 4 días
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

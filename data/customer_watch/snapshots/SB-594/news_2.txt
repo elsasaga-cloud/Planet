@@ -1,4 +1,4 @@
-# SB-594 kmsoltec.com · news_2 · https://www.kmsoltec.com/en/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-594 kmsoltec.com · news_2 · https://www.kmsoltec.com/en/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
 BLOG
 +39 0429 653281 Contact Us
 English
@@ -31,7 +31,7 @@ Cable organisation
 Installation Technology
 Tools
 Sensor Technology
-More
+Office, security & outdoor
 Security Technology
 Office / Mobile Accessories
 Solar Technology
@@ -115,20 +115,20 @@ Popular post
 ESG Certification and Company Beehive: KM Soltec’s concrete commitment to sustainability
 Posted in:
 Approfondimenti
-317 Views
+319 Views
 In just 500 days without bees, the world could face extinction.
 In this article, we share how we chose to support 3Bee’s mission by adopting a company beehive: a concrete way to bring sustainability into the everyday life of KM Soltec.
 Read more
 DL4 solar connector: 6 advantages that protect your photovoltaic system from fatal faults
 Posted in:
 News
-449 Views
+451 Views
 Moisture infiltration, corrosion and fire: these are the risks faced by a photovoltaic system if you do not use a DL4 solar connector. Here's why.
 Read more
 Industrial Fiber Optic Cables: A Guide to Choosing the Right Ones for Critical Environments
 Posted in:
 News
-603 Views
+604 Views
 Industrial Fiber Optic Cables: Learn How to Choose the Right Ones for Your Industry and Ensure Reliable Performance Even in the Most Critical Environments
 Read more
 How an Industrial RJ45 Connector Can Save You Thousands in Machine Downtime
@@ -158,7 +158,7 @@ Read more
 M.2 NGFF (Next Generation Form Factor): Panoramica e risoluzione delle problematiche
 Posted in:
 News
-547 Views
+549 Views
 Cos'è questa tecnologia M.2? Come faccio a recuperare i dati o a creare un backup se ho un ssd di tipo M.2?
 Read more
 Acquistare da un venditore certificato Intel. i vantaggi
@@ -170,7 +170,7 @@ Read more
 [News] Kimera Computers: l'evoluzione dei pc industriali by KM Soltec
 Posted in:
 News
-600 Views
+601 Views
 E' possibile quindi acquistare un pc industriale in tempi brevi?
 E si può installare un pc in tempi brevi senza essere angosciati dal progetto che non parte?
 E' possibile evitare di ricorrere in futuro a lunghe e dispendiose assistenze?

@@ -1,4 +1,4 @@
-# XC-M116 QL3D · home · https://ql3d.fr/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-M116 QL3D · home · https://ql3d.fr/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 QL3D
 Toutes les catégories
 Accueil
@@ -96,7 +96,6 @@ Accueil
 --- Compteurs d’énergie
 --- Débitmètres grands diamètres
 --- Vannes motorisées IoT
---- Accessoires & options débitmétrie
 Accueil
 Produits
 Connectivité industrielle
@@ -163,7 +162,6 @@ Compteurs d’eau
 Compteurs d’énergie
 Débitmètres grands diamètres
 Vannes motorisées IoT
-Accessoires & options débitmétrie
 Capteurs sur IP et/ou 4G
 Boîtiers sur IP (Cuivre et/ou WiFi)
 Boîtiers avec 4G natif
@@ -294,7 +292,6 @@ Accueil
 --- Compteurs d’énergie
 --- Débitmètres grands diamètres
 --- Vannes motorisées IoT
---- Accessoires & options débitmétrie
 Accueil
 Produits
 Connectivité industrielle
@@ -361,7 +358,6 @@ Compteurs d’eau
 Compteurs d’énergie
 Débitmètres grands diamètres
 Vannes motorisées IoT
-Accessoires & options débitmétrie
 Capteurs sur IP et/ou 4G
 Boîtiers sur IP (Cuivre et/ou WiFi)
 Boîtiers avec 4G natif
@@ -561,7 +557,6 @@ Compteurs d’eau
 Compteurs d’énergie
 Débitmètres grands diamètres
 Vannes motorisées IoT
-Accessoires & options débitmétrie
 Capteurs sur IP et/ou 4G
 Boîtiers sur IP (Cuivre et/ou WiFi)
 Boîtiers avec 4G natif
@@ -646,4 +641,12 @@ Accueil
 -- Passerelles protocolées
 --- Passerelles protocolées
 --- Passerelles protocolées WiFi
---- Passerelles 
+--- Passerelles protocolées Cellulaires
+--- Profibus vers fibre
+--- Accessoires MBS
+--- Logiciels MBS
+--- Protocoles MBS
+--- Points de données MBS
+--- Services MBS
+-- Solutions Bluetooth
+--- Cap

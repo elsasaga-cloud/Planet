@@ -1,5 +1,5 @@
-# SB-814 istream.by · sitemap · https://istream.by/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
-2026-11-13	https://istream.by
+# SB-814 istream.by · sitemap · https://istream.by/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
+2026-11-14	https://istream.by
 	https://istream.by/
 	https://istream.by/price
 	https://istream.by/blog
@@ -127,6 +127,7 @@
 	https://istream.by/brands/avtech
 	https://istream.by/brands/axiom
 	https://istream.by/brands/cantonk
+	https://istream.by/brands/carvis
 	https://istream.by/brands/ctv
 	https://istream.by/brands/dlink
 	https://istream.by/brands/daewoo
@@ -218,4 +219,4 @@
 	https://istream.by/products/miniatyurnyj-aktivnyj-mikrofon-shoroh-1
 	https://istream.by/products/videoregistrator-tc-r3104
 	https://istream.by/products/komplekt-dlya-videonablyudeniya-ahd-3-dom-ofis-1080p-
-	https://istream.by/products/modernizatsiya-lokalnyh-vychislit
+	https://istream.by/products

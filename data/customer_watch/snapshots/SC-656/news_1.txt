@@ -1,4 +1,4 @@
-# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-14T09:07:48Z · HTTP 200
 100MEGA Distribution s.r.o.
 [email protected]
 (+420) 548 220 077
@@ -141,8 +141,6 @@ GENIUS
 Herní ovladače, Kabely, Mobilní telefony - příslušenství, Nabíječky, Notebooky, Periferie
 GIGABYTE
 Grafické karty, Počítače, Síťové prvky aktivní, Skříně (case), Základní desky, Zdroje
-GOOGLE
-Media Player
 GOOWEI ENERGY
 Baterie, Domácí elektro, Fotovoltaika, Záložní zdroje
 Grandstream
@@ -350,4 +348,4 @@ Domácí elektro, Fotoaparáty, Fotoaparáty - příslušenství, Hodinky, Kabel
 UBIQUITI
 Dům a zahrada, Elektroinstalace, Fotovoltaika, HiFi, Kabely, Kamery IP a CCTV, Nabíječky, Periferie, Pevné disky, Přístupové systémy, Síťová úložiště (NAS), Síťové prvky aktivní, Síťové prvky optické, Síťové prvky ostatní, Síťové prvky pasivní, Služby, Telefony (IP, ISDN, analogové), Video intercom - IP, Záložní zdroje, Zdroje
 UMAX
-Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství, Notebooky, Osvětlení, Outdoor, Periferi
+Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství, Notebooky, Osvětlení, Outdoor, Periferie, Počítače, Tablet 

@@ -1,4 +1,4 @@
-# SB-714 netsecurity.com.au · home · https://www.netsecurity.com.au/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-714 netsecurity.com.au · home · https://www.netsecurity.com.au/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 NetDigital Security | Marleston, South Australia - Electronic Security Distributor
 Login
 Register
@@ -810,17 +810,17 @@ WELLER
 Tools - Power
 ULTRA SURVEILLANCE
 Featured Products
-HIKVISION, Detector, Dual element PIR, Blue Wave technology, Auto sensitivity, Digital temperature compensation, 15 x 15m coverage,
-DS-PD2-P15E
-More Info
-BOSCH, Radion Series, Wireless detector, PIR, 12 x 12m coverage, 2.3 - 2.7m mount height, Pet friendly up to 13kg, Integrated RF transmitter, 433MHz, Suits B810, RF120, RF3212E, STR2, STR3 Receivers
-RFPR-12
-More Info
 BOSCH, Radion Series, Wireless reed switch, For doors/windows/dry contact devices, Integrated magnet, Supervised sensor loop, 433MHz, Suits B810, RF3212E, STR2, STR3 Receivers, Includes 1x CR123A
 RFUN
 More Info
-HIKVISION, Detector, Dual element PIR, Blue Wave technology, Auto sensitivity, IFT, Digital temperature compensation, 18m x 10 degrees coverage,
-DS-PD2-P18CE
+HIKVISION, Detector, Dual tech, Outdoor, Blue Wave technology, Auto sensitivity, Microwave + two PIR sensors, Pet immune to 24kg, 85 degrees, 12 x 12m coverage, 1 - 1.5m Mounting Height
+DS-PD2-T12AME-EL
+More Info
+BOSCH, Radion Series, Wireless detector, TriTech, 10.7 x 10.7m coverage, 2 - 2.4m mount height, Pet friendly up to 45kg, Integrated RF transmitter, 433MHz, Suits B810, RF3212E, STR2, STR3 Receivers,
+RFDL-11
+More Info
+BOSCH, Radion Series, Wireless detector, PIR, 12 x 12m coverage, 2.3 - 2.7m mount height, Pet friendly up to 13kg, Integrated RF transmitter, 433MHz, Suits B810, RF120, RF3212E, STR2, STR3 Receivers
+RFPR-12
 More Info
 Shop Now
 Featured Products

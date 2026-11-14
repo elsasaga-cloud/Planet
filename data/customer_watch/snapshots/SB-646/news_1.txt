@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-14T09:07:48Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -47,11 +47,14 @@ Uranium
 2010 · PSU, kasa
 Sensei
 2010 · Çevre birimi
-129 markanın tamamı A'dan Z'ye.
+130 markanın tamamı A'dan Z'ye.
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 61 içerik).
+Sektörden güncel haberler ve analizler ( 62 içerik).
+Ürün Lansmanı Cooler Master ve G.SKILL'den Aktif Soğutmalı DDR5 RAM
+Cooler Master ve G.SKILL iş birliğiyle geliştirilen aktif soğutmalı DDR5 RAM, yüksek frekanslarda daha düşük sıcaklık vadediyor.
+14 Kasım 2026
 Ürün Lansmanı AMD'den 144GB Bellekli Yeni Nesil PCIe Hızlandırıcı
 AMD Instinct MI350P, 600W'lık tek PCIe kartta 144GB HBM3E bellek sunuyor. Dört yıl sonra gelen yeni nesil hızlandırıcı veri merkezlerini hedefliyor.
 05 Kasım 2026
@@ -138,9 +141,6 @@ NVIDIA RTX PRO 4500 Blackwell Server Edition, 165W'lık tek slotlu yapısıyla L
 20 Ekim 2026
 İnceleme Tapo C245D: Çift Kameralı Güvenlik Çözümü
 TP-Link'in Tapo C245D iç mekan güvenlik kamerası, çift lensli yapısı ve akıllı takip özellikleriyle inceleme altında.
-20 Ekim 2026
-Sektör Haberi Meta Prometheus: 1 Milyon GPU'ya Doğru
-Meta, Ohio'daki Prometheus süper kümesini NVIDIA GB200 ve GB300 NVL72 ile 1 milyon GPU'ya ölçekliyor.
 20 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

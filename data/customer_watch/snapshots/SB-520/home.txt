@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,61 +75,69 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-Teltonika PR328EUB Pasivní Gigabitový PoE injektor, 24V, 30W
-Gigabitový pasivní PoE injektor s výstupem 24 V / 1,25 A, maximálně 30 W. Přenos 10/100/1000 Mb/s a napájení na pinech 4,5 (+) a 7,8 (-). Stínění a LED indikace usnadňují napájení kompatibilních síťových prvků.
-354 Kč bez DPH
-428 Kč s DPH
+Cudy LT300 Bezdrátový 4G LTE router, N300
+4G LTE router s nano SIM slotem, stahováním až 150 Mb/s a odesíláním až 50 Mb/s. Wi-Fi 2,4 GHz dosahuje až 300 Mb/s. Má 1× LAN a 1× LAN/WAN 10/100 Mb/s, VPN klienta OpenVPN a WireGuard a správu přes aplikaci.
+740 Kč bez DPH
+895 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-TP-Link Fusion G+, Omada gateway
-Moderní řešení pro firemní i náročné síťové prostředí spojuje funkce routeru a kontroleru do jediného zařízení, které umožňuje pohodlnou správu celé infrastruktury bez licenčních poplatků. Díky 5 portům 1G a 2.5G RJ45 poskytuje dostatek výkonu pro rychlé
-3 818 Kč bez DPH
-4 620 Kč s DPH
+SOLARFAM AST-H8 Sodium-Ion autobaterie 12V 75Ah Start-Stop
+Sodíko-iontová startovací autobaterie 12 V / 75 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 1200 A, rozměry 354 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
+5 625 Kč bez DPH
+6 806 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-TP-Link ES210XPP-M2 Omada Easy PoE Switch
-Výkonný 10portový switch nabízí 8× 2,5Gb/s RJ45 portů s podporou PoE++ až 90 W na port a celkovým PoE rozpočtem 200 W. Podpora standardů 802.3af/at/bt umožňuje napájet širokou škálu síťových zařízení, jako jsou přístupové body, IP kamery nebo další síťová
-4 847 Kč bez DPH
-5 865 Kč s DPH
+Ubiquiti UACC-Cable-USB-100W-0.3M-BK, USB-C kabel s displejem, 0.3m
+USB-C kabel s podporou Power Delivery až 100 W představuje ideální řešení pro uživatele, kteří potřebují spolehlivě nabíjet vše od smartphonů až po náročné notebooky. Díky vysokému výkonu zajišťuje rychlé a bezpečné nabíjení zařízení bez přehřívání nebo p
+417 Kč bez DPH
+505 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-SOLARFAM AST-H6 Sodium-Ion autobaterie 12V 45Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 278 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-3 900 Kč bez DPH
-4 719 Kč s DPH
+Cudy WR3600H 2.5G Wi-Fi 7 Mesh Router, BE3600
+Dvoupásmový mesh router s Wi-Fi 7 dosahuje až 688 Mb/s na 2,4 GHz a 2880 Mb/s na 5 GHz. Má 2,5Gb/s WAN a 4 gigabitové LAN porty, 4 pevné antény a podporu OFDMA a MU-MIMO. Pracuje jako router, přístupový bod či opakovač a podporuje VPN.
+1 154 Kč bez DPH
+1 396 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+MikroTik IAQM-THC2PV-W, CLAIRÉ monitor kvality vzduchu, bílý
+Bílý monitor kvality vnitřního vzduchu s měřením CO2, PM2,5, PM10, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
+1 779 Kč bez DPH
+2 153 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti USW-Flex-3, UniFi PoE switch, 3-pack
-UniFi Switch Flex je 5portový PoE switch ve venkovním provedení (IP55) od výrobce Ubiquiti Networks. Ideální pro napájení kamer a dalších 802.3af zařízení s PoE. Switch má 5 Gigabitových ethernetových portů s 4x PoE výstupem až 15 W na port a celkovým PoE
-6 545 Kč bez DPH
-7 919 Kč s DPH
+Solární panel Victron Energy 30Wp/12V Mono
+Monokrystalický solární panel 30 Wp pro menší 12V fotovoltaické systémy. Konstrukce s 36 články, eloxovaným hliníkovým rámem a tvrzeným sklem; bypass diody omezují pokles výkonu při zastínění. Rozměry 380 × 450 × 25 mm.
+638 Kč bez DPH
+772 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Ubiquiti UniFi Switch USW-Ultra-60W
-Gigabitový PoE switch s 8 LAN porty, z toho 7 s PoE výstupem až 30 W na port. Přiložený 60W adaptér umožňuje celkový PoE výkon až 52 W. Správa přes UniFi Network, napájení přes 54V DC konektor nebo PoE vstup 802.3at/bt, montáž na stůl či zeď.
-3 310 Kč bez DPH
-4 005 Kč s DPH
+Teltonika PR1DCA70, Venkovní LTE a 5G/Wi-Fi/GPS anténa
+Venkovní kombinovaná anténa pro 4G/5G, Wi-Fi 2,4/5 GHz a GNSS má 4× SMA male pro mobilní modem, 2× RP-SMA male pro Wi-Fi a 1× SMA male pro GNSS. Anténní box zahrnuje montážní držák a průchodky pro dva ethernetové kabely i napájení.
+4 977 Kč bez DPH
+6 022 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Cudy WR11000 2.5G Tri-Band Wi-Fi 7 Mesh Router, BE11000
-Třípásmový mesh router s Wi-Fi 7 pro pásma 2,4, 5 a 6 GHz dosahuje až 688 + 4334 + 5765 Mb/s. Má 3× LAN a 1× WAN, všechny porty s rychlostí 2,5 Gb/s, 6 pevných antén a podporu MLO, OFDMA, MU-MIMO i VPN včetně OpenVPN a WireGuard.
-3 070 Kč bez DPH
-3 715 Kč s DPH
+SOLARFAM AST-H5 Sodium-Ion autobaterie 12V 45Ah Start-Stop
+Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 242 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
+3 750 Kč bez DPH
+4 538 Kč s DPH
 Novinka
 Porovnat
-skladem
+Není skladem
 Přidat do košíku
 MikroTik XS+31LC40D, SFP28 optický modul, Single-Mode, 40km, 25G, 1310nm
 MikroTik XS+31LC40D je single-mode SFP/SFP+/SFP28 modul s podporovanými přenosovými rychlostmi 1/10/25Gbps, vlnovou délkou 1310nm a duplexním LC konektorem pro spojení na vzdálenost až 40km. Modul je vybaven digitální diagnostikou (DDMI) pro sledování opt
@@ -139,18 +147,10 @@ Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-TP-Link Tapo C250 Domácí bezpečnostní Wi-Fi kamera s naklápěním, 8Mpx
-Domácí Wi-Fi kamera s rozlišením 8 Mpx při 30 sn./s nabízí otáčení 360°, náklon 116° a IR noční vidění do 12 m. Detekci pohybu s AI doplňuje zvukový a světelný alarm, obousměrný zvuk a ukládání na microSD kartu až 512 GB.
-1 111 Kč bez DPH
-1 344 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Cudy FS1016 Switch
-Síťový switch se 16 porty 10/100 Mb/s pro umístění na stůl nebo do 19" racku. Podporuje oddělení portů a prodloužení dosahu až na 250 m při rychlosti 10 Mb/s na portech 1–14. Napájení 230 V AC, rackové úchyty v balení.
-570 Kč bez DPH
-690 Kč s DPH
+Huawei eKitOptiX FS600D, GPON ONT Gateway, Wi-Fi 6
+Optická GPON ONT brána s dvoupásmovou Wi-Fi 6 pro připojení domácnosti či firmy. Konektor SC/APC, čtyři gigabitové LAN porty a pásma 2,4 a 5 GHz s celkovou teoretickou rychlostí až 2,98 Gb/s. Součástí je adaptér 12 V / 1 A.
+658 Kč bez DPH
+796 Kč s DPH
 Novinka
 Porovnat
 skladem
@@ -232,7 +232,7 @@ Další informace
 Zobrazit další aktuality
 abc tech MAG Náš magazín ze světa techniky
 Velké srovnání LiFePO4 vs. AGM vs. GEL: Jakou baterii vybrat?
-12.11.2026 Poradna
+13.11.2026 Poradna
 Jaký je rozdíl mezi LiFePO4, AGM a GEL baterií? Která vydrží nejdéle, kolik energie skutečně poskytne a kdy se vyplatí investovat do dražší technologie? Připravili jsme praktické srovnání tří nejpoužívanějších typů akumulátorů pro solární systémy, karavany, lodě, záložní zdroje a další aplikace.
 Jak vybrat IP kameru, jednoduchý průvodce pro každého
 3.12.2025 Poradna

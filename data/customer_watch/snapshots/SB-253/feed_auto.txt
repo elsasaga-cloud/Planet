@@ -1,4 +1,4 @@
-# SB-253 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-11-12T09:57:55Z · HTTP 200
+# SB-253 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Fri, 04 Sep 2026 07:51:32 +0000	YouTube	https://provision-isr.com/news/youtube/
 Fri, 30 Oct 2026 08:13:31 +0000	Security Canada 2026	https://provision-isr.com/news/security-canada-2026/
 Fri, 16 Oct 2026 08:13:48 +0000	ISO 27001	https://provision-isr.com/news/iso-27001/

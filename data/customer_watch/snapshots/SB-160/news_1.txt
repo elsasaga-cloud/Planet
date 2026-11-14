@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -184,7 +184,7 @@ Tight-buffered cable was considered best for indoor applications whilst loose-tu
 Read More
 AWG CONVERSION GUIDE
 / September 20, 2021
-Views: 624
+Views: 626
 American Wire Gauge or AWG is the US standard measure for the diameter of cable electrical conductors. This AWG chart is based on the number of dies originally required to
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
@@ -194,12 +194,12 @@ The process of terminating twisted pair cable may seem simple on the surface, ho
 Read More
 A GUIDE TO LAN CABLE
 / September 6, 2021
-Views: 363
+Views: 364
 Despite the many advancements in fibre optic cable and newer builds taking advantage of this technology, LAN cable is pretty much used everywhere. LAN AND LAN CABLE LAN stands for
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,967
+Views: 5,968
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES
@@ -219,7 +219,7 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,227
+Views: 15,228
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
@@ -229,7 +229,7 @@ When ordering a cable you may be tempted to consider whether or not to have it b
 Read More
 CABLE BENDING RADIUS- SHOULD I BE CONCERNED?
 / July 19, 2021
-Views: 1,993
+Views: 1,995
 You’ll often see ‘bending radius’ on our cable product datasheets and wonder what we’re referring too. The cable bending radius is a measurement of the smallest diameter a cable can
 Read More
 FIBRE OPTIC CABLE TYPES- SINGLEMODE VS MULTIMODE

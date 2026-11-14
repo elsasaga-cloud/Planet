@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -150,6 +150,11 @@ Sold Out
 판매가 : 7,400원
 LIKE IT ! 0
 Sold Out
+광분배함 랙 SC타입 FDF-RACK-SC (04P / 08P / 12P / 16P / 24P)
+상품요약정보 : 모듈형 구조로 확장성이 좋고 여장관리가 용이! 옵션 4P, 8P, 12P, 16P,24P
+판매가 : 42,900원
+LIKE IT ! 0
+Sold Out
 [재고부족/대체품 SFC4500T] 솔텍 SFC4000T 관리형 L2 스위치 (1Gbps TP 24포트/1G SFP 4슬롯)
 상품요약정보 : 웹 기반 매니지먼트 / 440(W) x 230(D) x 45(H)mm
 판매가 : 381,700원
@@ -165,24 +170,9 @@ Sold Out
 판매가 : 724,900원
 LIKE IT ! 0
 Sold Out
-광분배함 랙 SC타입 FDF-RACK-SC (04P / 08P / 12P / 16P / 24P)
-상품요약정보 : 모듈형 구조로 확장성이 좋고 여장관리가 용이! 옵션 4P, 8P, 12P, 16P,24P
-판매가 : 42,900원
-LIKE IT ! 0
-Sold Out
-솔텍 SFC2000-TWLA/20 WDM 싱글모드 1Gbps 광컨버터
-상품요약정보 : 1-FIBER 송수신, 20km, 1550/1310nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
-판매가 : 198,000원
-LIKE IT ! 0
-Sold Out
 솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
 상품요약정보 : PoE 60W/ 185.5(W) x 123(D) x 44(H)mm
 판매가 : 101,200원
-LIKE IT ! 0
-Sold Out
-SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
-상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
-판매가 : 222,200원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC8000HP 산업용 관리형 L2 스위치 (1Gbps PoE 8포트/2.5G SFP 2슬롯) (전원공급장치 포함)
@@ -190,10 +180,19 @@ Sold Out
 판매가 : 699,600원
 LIKE IT ! 0
 Sold Out
-인네트워크 IN-SC-SC-DP-SM 30M 국산 SC-SC 싱글모드 광 점퍼코드 30M INO006
-상품요약정보 : OS1 / 2CORE / 노란색
-소비자가 : 17,300원
-판매가 : 13,800원
+솔텍 SFC2000-TWLA/20 WDM 싱글모드 1Gbps 광컨버터
+상품요약정보 : 1-FIBER 송수신, 20km, 1550/1310nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
+판매가 : 198,000원
+LIKE IT ! 0
+Sold Out
+SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
+상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
+판매가 : 222,200원
+LIKE IT ! 0
+Sold Out
+에시르 SG-600C KAT-HD600C 1채널 AHD TVI CVI용 UTP 영상 발룬 송수신기
+상품요약정보 : 영상 발룬 UTP 발룬 송수신기 세트 AHD,TVI,CVI, 4K 해상도 연결 가능 최대거리 300M
+판매가 : 2,100원
 FiberMart 특가
 더보기
 LIKE IT ! 0
@@ -441,6 +440,10 @@ Sold Out
 고객 만족 리뷰
 먼저 사용해본 분들의 후기를 확인해보세요
 더보기
+보통
+음이 끊겨요 왜 그렇죠? 다른제품 주문해야하나 미챠
+(2026-11-13 에 등록된 네이버 페이 구매평)
+유그린 디지털 광 오디오 SPDIF Toslink 각각 케이블 2m U-70892
 만족
 좋아요 감사합니다 .
 (2026-11-12 에 등록된 네이버 페이 구매평)
@@ -475,9 +478,6 @@ APC UPS 정품 교체 배터리 (RBC6)
 빠른배송 감사합니다~
 (2026-10-29 에 등록된 네이버 페이 구매평)
 자동복구형 누전차단기 2.5kA 20A / 2.5kA 30A / 5kA 20A / 5kA 30A / 5kA 50A
-국산이라 믿고 구매했어요
-(2026-10-28 에 등록된 네이버 페이 구매평)
-인네트워크 IN-8CORD005 국산 220V 2.5A AC 8자 전원케이블 0.5M INP025
 문의 및 상담
 {#imgTag_1}
 {#imgTag_2}

@@ -1,4 +1,4 @@
-# SC-1867 vienthonghanoi.vn · home · https://vienthonghanoi.vn/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-1867 vienthonghanoi.vn · home · https://vienthonghanoi.vn/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Trang chủ | Viễn Thông VTHN | VIENTHONGHANOI.VN
 Skip to content
 CHUYÊN MỤC CHUYÊN MỤC
@@ -401,6 +401,9 @@ Các phụ kiện khác
 Khuyến mãi hấp dẫn Xem thêm
 Sản phẩm hot Xem thêm
 Sale!
+Module Cisco SFP-10G-SR 2 sợi Multimode
+1.150.000 ₫ 850.000 ₫
+Sale!
 Bộ thu phát Wifi Mercury B2 dùng trong nhà
 950.000 ₫ 690.000 ₫
 Sale!
@@ -424,9 +427,6 @@ Converter 3ONEDATA 3012-SS-SC-20KM 1 sợi 1Gbs
 Sale!
 Tủ ODF 144 core ngoài trời đặt bệ Full phụ kiện
 5.800.000 ₫ 5.000.000 ₫
-Sale!
-Module Cisco SFP-10G-SR 2 sợi Multimode
-1.150.000 ₫ 850.000 ₫
 Sản phẩm giảm giá Xem thêm
 Sale!
 Máy test mạng NF-468 Noyafa đa năng
@@ -437,6 +437,9 @@ Bút soi quang 10Km – Bút laser dò lỗi cáp quang giá rẻ
 Sale!
 Bộ kéo dài HDMI to LAN 60m qua cáp mạng Lan RJ45 có USB
 1.150.000 ₫ 900.000 ₫
+Sale!
+Máy đo công suất quang Pro’skit MT-7615 4in1
+950.000 ₫ 750.000 ₫
 Sale!
 Khay nguồn tập trung Converter 14 khe cắm lắp tủ rack
 1.200.000 ₫ 950.000 ₫
@@ -461,9 +464,6 @@ Converter quang BTon BT-950SM-25 A-B 1 sợi 10/100M
 Sale!
 Bộ chuyển đổi HDMI sang LAN 100m 4K dùng dây cáp mạng RJ45
 1.250.000 ₫ 890.000 ₫
-Sale!
-Tool nhấn phiến Krone – Dao dập phiến Krone LSA Chính hãng
-390.000 ₫ 350.000 ₫
 Tin tức - Giải pháp
 Danh mục sản phẩm
 Sản phẩm Hot
@@ -473,7 +473,7 @@ Sản phẩm thường được xem
 Cáp sợi quang
 113 Products
 Thiết bị cáp quang
-206 Products
+208 Products
 Phụ kiện cáp quang
 255 Products
 Dây cáp mạng

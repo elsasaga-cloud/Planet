@@ -1,4 +1,4 @@
-# SC-2021 distributor · home · https://www.acceron.net/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-2021 distributor · home · https://www.acceron.net/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 IoT Solutions & Security Service Provider | Acceron
 Contact : +91 022-61934848
 Email : support@acceron.net
@@ -82,8 +82,8 @@ Wireless Solutions
 ITxM
 Management and Monitoring
 BMS (Building Management Solution)
-Email or Services
 Phone *
+Phone Message Email
 Comment or Message
 Custom Captcha *
 =
@@ -134,7 +134,6 @@ Acceron Infosol Pvt Ltd.
 Thane (W) – 400604, Maharashtra, INDIA.
 Copyright© 2026 Acceron Infosol Pvt. Ltd. – All Rights Reserved | Designed by GBIM
 Please enable JavaScript in your browser to complete this form.
-or Email Custom
 Name *
 Email *
 Services IT Security Solutions
@@ -142,6 +141,7 @@ Wireless Solutions
 ITxM
 Management and Monitoring
 BMS (Building Management Solution)
+Captcha Message Phone
 Phone *
 Comment or Message
 Custom Captcha *

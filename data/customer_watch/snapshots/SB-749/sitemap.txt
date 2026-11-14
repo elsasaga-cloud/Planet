@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -12,6 +12,7 @@
 2026-09-16	https://www.ecin.ca/blog-from-deployment-to-production-a-step-by-step-guide-to-implementing-optical-connectivity
 2026-09-16	https://www.ecin.ca/blog-how-microchips-bluesky-gnss-timing-solutions-are-powering-the-next-generation-of-critical-infrastructure
 2026-09-16	https://www.ecin.ca/blog-how-network-engineers-achieve-real-time-visibility-in-high-speed-complex-data-centers
+2026-11-13	https://www.ecin.ca/blog-how-packetmaestro-can-reduce-packet-broker-tco-by-up-to-52
 2026-09-16	https://www.ecin.ca/blog-how-tapstack-and-packetmaestro-fit-together
 2026-09-16	https://www.ecin.ca/blog-how-to-build-a-high-performance-data-center-network-using-connectivity-solutions
 2026-09-16	https://www.ecin.ca/blog-how-to-choose-the-right-optical-transceiver-a-practical-guide-for-data-centers-ai-and-telecom-networks
@@ -35,11 +36,12 @@
 2026-09-16	https://www.ecin.ca/blog-unveiling-the-power-of-network-taps-and-packet-brokers
 2026-09-16	https://www.ecin.ca/blog-what-are-the-key-components-of-effective-network-visibility
 2026-09-16	https://www.ecin.ca/blog-what-is-disaggregated-open-packet-broker
+2026-11-13	https://www.ecin.ca/blog-when-gps-fails-why-canada-needs-resilient-pnt-infrastructure
 2026-09-16	https://www.ecin.ca/blog-where-smartplugs-fit-best-and-where-traditional-optical-chassis-still-make-sense
 2026-09-16	https://www.ecin.ca/blog-why-choose-disaggregated-packet-brokers-over-traditional-lockedin-solutions
 2026-09-16	https://www.ecin.ca/blog-why-network-visibility-is-critical-for-managing-modern-highperformance-data-centers
 2026-09-16	https://www.ecin.ca/blog-why-smart-data-centers-and-ai-networks-are-switching-to-third-party-optics
-2026-09-24	https://www.ecin.ca/blogs
+2026-11-13	https://www.ecin.ca/blogs
 2026-07-30	https://www.ecin.ca/celestica
 2026-06-23	https://www.ecin.ca/contact-us
 2026-09-15	https://www.ecin.ca/contactus
@@ -62,7 +64,7 @@
 2026-09-08	https://www.ecin.ca/open-solutions
 2026-10-06	https://www.ecin.ca/open-visibility
 2026-05-15	https://www.ecin.ca/packet-broker
-2026-09-23	https://www.ecin.ca/packetmaestro
+2026-11-13	https://www.ecin.ca/packetmaestro
 2026-09-08	https://www.ecin.ca/packetmaestro-pro
 2026-09-23	https://www.ecin.ca/partners
 2026-09-08	https://www.ecin.ca/partners-channel
@@ -90,6 +92,7 @@
 2026-08-04	https://www.ecin.ca/warranty-and-returns
 2025-11-11	https://www.ecin.ca/web/login
 	https://www.ecin.ca/terms
+	https://www.ecin.ca/shop/en-sfp28-sr-10g-25g-sfp28-25g-sr-mmf-850nm-100m-lc-4817
 	https://www.ecin.ca/shop/en-sfp1g-ex-1-25g-sfp-1310nm-40km-duplex-lc-upc-smf-transceiver-4897
 	https://www.ecin.ca/shop/en-qsfp28-bxu10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1271nm-tx-1331nm-rx-8477
 	https://www.ecin.ca/shop/en-qsfp28-bxd10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1331nm-tx-1271nm-rx-8478
@@ -104,7 +107,6 @@
 	https://www.ecin.ca/shop/cvr-qsfp28-sfp28-eci-100g-40g-to-25g-10g-qsfp28-to-sfp28-adapter-with-eeprom-cisco-compatible-3885
 	https://www.ecin.ca/shop/qsa-qsfp28-sfp28-100g-40g-to-25g-10g-qsfp28-to-sfp28-universal-qsa-adapter-multi-vendor-10802
 	https://www.ecin.ca/shop/7326-56x-o-ac-f-us-10g-25g-data-center-switch-dcs203-as7326-56x-48x25g-8x100g-ports-ac-psu-port-to-power-f2b-5318
-	https://www.ecin.ca/shop/en-sfp28-sr-10g-25g-sfp28-25g-sr-mmf-850nm-100m-lc-4817
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-ac-12-slot-mini-media-converter-rack-with-dual-ac-psu-input-ac100-240v-10740
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-dc-12-slot-mini-media-converter-rack-with-dual-dc-psu-8566
 	https://www.ecin.ca/shop/en-sfp1g-zx-1g-sfp-1550nm-80km-duplex-lc-upc-smf-transceiver-4899
@@ -142,5 +144,4 @@
 	https://www.ecin.ca/shop/en-qdd-fr4-400gbase-fr4-xcvr-2km-smf-lc-eml-cwdm4-msa-5712
 	https://www.ecin.ca/shop/en-qdd-lr8-400gbase-lr8-qsfp-dd-xcvr-10km-smf-fiber-lc-msa-6577
 	https://www.ecin.ca/shop/en-osfp-xdr4-400gbase-xdr4-dr-osfp-finned-top-pam4-1310nm-2km-mpo-12-smf-transceiver-5716
-	https://www.ecin.ca/shop/en-qsfp40g-er4-40g-er4-qsfp-1310nm-40km-dom-duplex-lc-upc-smf-optical-transceiver-4815
-	https://www.ecin.ca/shop/en-qsfp40g-ir4-40g-ir4-plrl4-qsfp-4x10gbase-ir-lr-1310nm-2km-dom-mpo-12-apc-smf-opt
+	https://www.ecin.ca/shop/en-q

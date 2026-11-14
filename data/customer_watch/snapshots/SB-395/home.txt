@@ -1,2 +1,178 @@
-# SB-395 mercku.com · home · https://www.mercku.com/ · fetched 2026-11-13T09:45:13Z · HTTP 202
-
+# SB-395 mercku.com · home · https://www.mercku.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+Mercku | Mesh Wi-Fi and Remote Management for ISPs
+Skip to content
+Hardware
+Remote Management
+Resources
+By product
+Mercku M6s
+Mercku M6
+M6a and M6a Plus
+M6s Nano
+5G CPE
+M2
+Mercku NOC
+Browse
+All resources
+Firmware update guide
+Help articles
+Support Hub
+About Us
+Mercku Store
+(opens the online store)
+Get in Touch
+Built for ISPs and network operators
+Retain subscribers.
+Cut support calls.
+Scale your network.
+Mercku M6s pairs AX3000 Wi-Fi 6 mesh with cloud-based remote management. Your team sees every subscriber network and resolves most issues remotely.
+Talk to our ISP team
+Download datasheets
+Wi-Fi
+AX3000
+WAN
+2.5 Gbps
+Mgmt
+TR-069
+Mesh
+EasyMesh
+Scroll
+Recognized for design and innovation
+Red Dot Award M6 · 2021
+Red Dot Award M2 · 2019
+CES Innovation Award M2 · 2019
+The operator's reality
+Poor in-home Wi-Fi costs you twice. First in support calls, then in churn.
+Your core network can run at spec while subscribers still blame you for dead zones and dropped calls. The router in the living room decides how they rate your service.
+01
+No view past the modem
+Your team can see the network up to the gateway. Inside the home, agents troubleshoot blind, and simple fixes turn into long calls.
+02
+Slow provisioning
+Hardware that needs hands-on setup at every install ties up your team. Deployment time grows with every new subscriber.
+03
+Subscriber churn
+Subscribers judge your service by the Wi-Fi they feel at home. When it drops, they start comparing providers.
+The complete stack
+Powerful hardware. Management built in.
+Mercku designs the router and the cloud platform that runs it. One vendor, one support path, and firmware that ships to your whole fleet at once.
+Hardware · Mercku M6s
+Wi-Fi 6 mesh that installs like a single router.
+AX3000 dual-band Wi-Fi with 160 MHz channels and a 2.5 Gbps WAN port, so the router never becomes the bottleneck on multi-gig plans.
+Up to 3 Gbps combined wireless (574 + 2402 Mbps)
+EasyMesh: add nodes without reconfiguring the network
+PoE++ model powers other devices over Ethernet
+WPA3, WireGuard and OpenVPN support
+Management · Mercku NOC
+See every home network from one dashboard.
+The Mercku Network Operations Centre is a cloud platform hosted on AWS. Your support team checks device status, changes settings and pushes firmware from one place.
+Remote troubleshooting and settings access
+Over-the-air firmware updates across your fleet
+Usage trends from real-time and historical data
+TR-069 TR-111 TR-143 TR-181 TR-369 GDPR
+M6s by the numbers
+Specs your engineers can check on the datasheet.
+Every figure below comes from the published M6s white paper. No estimates, no lab-only best cases.
+3 Gbps
+Combined wireless speed
+AX3000: 574 Mbps on 2.4 GHz plus 2402 Mbps on 5 GHz.
+2.5 Gbps
+WAN port
+Ready for multi-gig plans. Four 1 Gbps LAN ports.
+160 MHz
+Channel width
+Full Wi-Fi 6 throughput on the 5 GHz band.
+5 TR specs
+Operator standards
+TR-069, 111, 143, 181 and 369 for your ACS.
+Designed for deployment
+Placement decides coverage.
+Routers hidden in a cabinet lose signal before it reaches the room. Mercku hardware is designed to sit in the open, so subscribers get the coverage your plan promises.
+Award-winning industrial design (Red Dot 2019 and 2021)
+PoE++ model (M6s) and wall mount (M6) for cleaner installs
+Four LAN ports and a 2.5G WAN on the M6s
+Remote Wi-Fi management
+Manage every subscriber network from a single dashboard.
+Mercku NOC shows your operations team device status, traffic and firmware versions across every deployed router. Diagnose and fix issues remotely, before they become a support call.
+Higher ARPU
+Fewer call-ins
+Better subscriber experience
+Lower churn
+Explore remote management
+noc.mercku · Overview
+Devices
+1,200
+Online
+1,190
+Offline
+10
+Throughput · 24h ▲ steady
+Firmware fleet
+Recent events live
+Home 0412 · channel auto-switched resolved
+Home 1187 · firmware updated OTA done
+Home 0935 · weak signal, node added watch
+Illustrative view. Figures are sample data.
+The lineup
+Hardware for every deployment.
+Both routers run on Mercku NOC and support TR-069, so you can mix models across your subscriber base and manage them the same way.
+Flagship · Wi-Fi 6
+Mercku M6s
+AX3000 mesh router for multi-gig service tiers. Standard and PoE++ models.
+Wi-Fi
+AX3000, up to 160 MHz
+Ports
+1 x 2.5G WAN, 4 x 1G LAN
+Chipset
+MediaTek 1.3 GHz dual-core
+Mgmt
+TR-069, TR-369, Mercku NOC
+M6s specs and downloads
+Wi-Fi 6
+Mercku M6
+AX1800 mesh router on a Qualcomm platform. Red Dot Award winner.
+Wi-Fi
+AX1800, up to 80 MHz
+Ports
+1 x 1G WAN, 2 x 1G LAN
+Chipset
+Qualcomm 1.2 GHz quad-core
+Mgmt
+TR-069, Mercku NOC
+M6 specs and downloads
+Shopping for your own home? Mercku routers are also sold direct.
+Visit the Mercku Store
+Resources
+Everything your team needs to evaluate and deploy.
+Full specifications, certifications and platform details. Free to download, no form required.
+White paper PDF
+M6s Standard
+Full hardware, wireless, security and management specifications.
+White paper PDF
+M6s PoE++
+Specifications for the PoE++ model, including 54V power input.
+White paper PDF
+Mercku NOC
+How the cloud platform works and what it changes for your support team.
+Downloads Library
+Firmware and guides
+Firmware releases, quickstart guides and user manuals for every model.
+Ready to see Mercku running in your network?
+Talk to our ISP team. We'll review your deployment requirements and walk you through the NOC with live data.
+Contact us
+Wi-Fi 6 mesh routers and cloud management, built for internet service providers.
+Products
+Wi-Fi hardware
+Remote management
+Product documentation
+Resources
+Company
+About us
+Partnership
+Contact
+Support
+Support Hub
+Submit a request
+Mercku Store
+© 2026 Mercku Inc. All rights reserved.
+Legal and privacy

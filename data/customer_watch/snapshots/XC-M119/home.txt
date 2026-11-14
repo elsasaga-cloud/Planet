@@ -1,4 +1,4 @@
-# XC-M119 "MARITEX" Leszek Łosin Sp.j. · home · https://www.maritex.eu/en · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-M119 "MARITEX" Leszek Łosin Sp.j. · home · https://www.maritex.eu/en · fetched 2026-11-14T09:07:48Z · HTTP 200
 Maritex
 Call us: +48 58 6228900
 Feedback
@@ -76,11 +76,24 @@ Latest articles
 All articles
 Read more
 Recommended products
+34.51.7.005.4010
+Electromagnetic relay; contact rating current 6A; coil voltage 5VDC; 1 changeover contact (1C); coil power 170mW; 6A/30VDC; 6A/230VAC
+Maritex code: 34.51.7.005.4010
+Manufacturer: FINDER
+20
+items in stock
+Quantity per package:
+20
+Type of packaging:
+tube
+Quantity
+Order
+Total 32,00 PLN net
 LPV-60-12
 Power Supply; LED; 60W; 12V; 5A; 90-264VAC; 127-370VDC; IP67
 Maritex code: PS-LPV-60-12
 Manufacturer: MEAN WELL
-39
+34
 items in stock
 Quantity per package:
 32
@@ -88,7 +101,7 @@ Type of packaging:
 cardboard
 Quantity
 Order
-Total 58,72 PLN net
+Total 58,98 PLN net
 RM85-2011-35-1005
 Electromagnetic relay; contact rating current 16A; coil voltage 5VDC; changeover contact (1P); 16A/24VDC; 16A/250 VAC
 Maritex code: RM85-2011-35-1005
@@ -115,17 +128,6 @@ reel
 Quantity
 Order
 Total 4,21 PLN net
-CL10B104KB8NNNC
-Ceramic capacitor SMD; 0603; 100nF; 50V; X7R; 10%
-Maritex code: CMC0603-100N-KX50-S
-Manufacturer: SAMSUNG ELECTRO-MECHANICS
-0
-items in stock
-Quantity per package:
-4000
-Type of packaging:
-reel
-Order
 Authorized distributor of over 500 manufacturers
 Check the list of manufacturers
 Support

@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Bulk Fiber Internet, TV and Phone for Florida Communities | Broadstar
 Skip to content
 Menu
@@ -179,7 +179,6 @@ Gainesville
 Serving HOAs, COAs, Apartment Associations & more
 Get a Proposal for this Area
 Please enable JavaScript in your browser to complete this form.
-Your we Role
 Your Name * First
 Last
 Email *
@@ -190,6 +189,7 @@ Board Member
 Property Manager
 Owner or Developer
 Other
+Current should Number
 Number of Units *
 Property Location * --- Select Choice ---
 West Palm Beach area

@@ -1,4 +1,4 @@
-# SB-368 welotec.com · news_2 · https://welotec.com/en-us/blogs/knowledge · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-368 welotec.com · news_2 · https://welotec.com/en-us/blogs/knowledge · fetched 2026-11-14T09:07:48Z · HTTP 200
 Welotec Knowledge Center: Energy & Machinery Insights
 customer.current_location.name:
 customer.current_company.name:

@@ -1,4 +1,4 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
 Fri, 13 Nov 2026 00:54:51 GMT	[드라이버] ipTIME A3000U, A3000UA, A3000UA-2, A3000mini, A3000UA5 Linux 드라이버 (V5.8.7.4)	https://iptime.com/support/downloads/27870
 Thu, 12 Nov 2026 08:56:16 GMT	[ipTIME 스위칭 허브] 단종된 스위칭 허브의 후속 모델 안내	https://iptime.com/support/faq/27869
 Thu, 12 Nov 2026 08:54:18 GMT	[ipTIME 랜카드] 6GHz(Wi-Fi 6E·Wi-Fi 7) 와이파이가 검색되지 않을 때	https://iptime.com/support/faq/27868

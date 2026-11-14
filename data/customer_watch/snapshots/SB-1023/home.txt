@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -462,6 +462,10 @@ Cursos
 Log in
 Inscrever-se | Sou Empresa Profissional
 Ajuda
+Sinal Pro
+Multiswitches Signal Pro
+nova linha de multiswitches
+Descobrir mais
 Máquinas de Soldar Signal Fire
 Qual o modelo ideal para si?
 Descobrir mais
@@ -580,6 +584,4 @@ EgoExplorer regista 100 horas de movimentos humanos com o objetivo de treinar ro
 Investigadores do Laboratório de IA de Xangai, da Universidade de Zhejiang e da Universidade Jiao Tong de Xangai desenvolveram o conjunto de dados EgoExplorer, composto por 100 horas de atividade humana gravadas através de um sistema wearable especializado. Os dados recolhidos combinam filmagens na primeira pessoa com dados sobre movimentos de todo o corpo, movimentos dos dedos e contacto com objetos. O objetivo do projeto é melhorar o treino de robôs humanoides, que no futuro poderão realizar ...
 Continuar a ler
 Instalação óptica SMATV – Signal PROfessional.
-Abaixo, algumas fotos de uma instalação realizada pela Pro-instal Instalações de Telecomunicações, Michał Lipka de Legionowo. A instalação consiste na extensão do sistema SMATV existente para cobrir outros blocos de um edifício residencial multifamiliar. Devido ao maior comprimento dos cabos, optou-se por construir uma rede backbone com múltiplos switches baseada em fi...
-Continuar a ler
-Um leitor adi
+Abaixo, algumas fotos de uma instalação realizada pela Pro-instal Instalações de Telecomunicações, Michał Lipka de Legionowo. A instalação consiste na extensão do sistema SMATV existente para cobrir outros blocos de um edifício residencial multifamiliar. Devido ao maior comprimento dos cabos, optou-se por construir uma rede 

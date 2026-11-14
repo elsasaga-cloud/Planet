@@ -1,4 +1,4 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-14T09:07:48Z · HTTP 200
 Fri, 13 Nov 2026 09:00:00 +0000	Adquisición de Datos de Robots Industriales: Integración de Información Robótica con PLCs, Gateways de Borde y Sistemas en la Nube	https://www.davantel.com/adquisicion-de-datos-de-robots-industriales-integracion-de-informacion-robotica-con-plcs-gateways-de-borde-y-sistemas-en-la-nube
 Thu, 12 Nov 2026 09:00:00 +0000	10 ajustes de seguridad esenciales en un router industrial antes de instalarlo	https://www.davantel.com/10-ajustes-de-seguridad-esenciales-en-un-router-industrial-antes-de-instalarlo
 Wed, 11 Nov 2026 09:00:00 +0000	Gestión remota empresarial con RMS: características, capacidades y mejores prácticas	https://www.davantel.com/gestion-remota-empresarial-con-rms-caracteristicas-capacidades-y-mejores-practicas

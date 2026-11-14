@@ -1,4 +1,4 @@
-# SB-322 Blackbear TechHive · feed_auto · https://blackbear-ics.com/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-322 Blackbear TechHive · feed_auto · https://blackbear-ics.com/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Fri, 13 Nov 2026 01:49:30 +0000	Remote Ingress in Industrial Cold-Chain Networks	https://blackbear-ics.com/remote-ingress-in-industrial-cold-chain-networks/
 Tue, 04 Aug 2026 05:28:16 +0000	Secure Cold Chain Operations with BlackBear Intelligent Gateway	https://blackbear-ics.com/secure-cold-chain-operations-with-blackbear-intelligent-gateway/
 Thu, 09 Jul 2026 02:58:23 +0000	Make work harder for testers and hackers	https://blackbear-ics.com/make-work-harder-for-testers-and-hackers/

@@ -1,10 +1,9 @@
-# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
 2026-10-23	https://olsontech.com/aboutus
 2026-10-21	https://olsontech.com/bead
 2026-10-29	https://olsontech.com/blog
 2026-10-22	https://olsontech.com/bragg-gratings
 2026-10-24	https://olsontech.com/catv-matv
-2026-11-07	https://olsontech.com/catv-trans-laserlite.html
 2026-11-04	https://olsontech.com/cienamicroplug
 2026-10-22	https://olsontech.com/contactus
 2026-10-21	https://olsontech.com/edfa

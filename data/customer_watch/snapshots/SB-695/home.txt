@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,68 +429,61 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
--50%
-LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
-R$ 255,00
-R$ 127,50
+LRS-350 - Fonte CA/CC até 350,4W, 8 saídas de 3,3 a 48Vcc Mean Well
+A partir de
+R$ 348,13
 R$
-123 , 68
+337 , 69
+à vista
+com desconto Pix - Vindi
+Ver opções
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
+R$ 396,00
+R$
+384 , 12
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2S1C
-R$ 1.458,00
+RS-25 Fonte CA CC 25W Miniatura Alta Eficiência MeanWell
+R$ 109,49
 R$
-1.414 , 26
+106 , 21
 à vista
 com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
-R$ 549,00
+Ver opções
+MDR-100 Fonte CA/CC 100W PFC com Montagem em Trilho DIN MeanWell
+R$ 344,43
 R$
-532 , 53
+334 , 10
 à vista
 com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
-R$ 499,00
-R$
-484 , 03
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
+Ver opções
 Lançamentos
-1-Wire Sensor de Pressão Barométrica TSP200
+1-Wire Transmissor de Loop de Corrente TSA200
 Sob consulta
 Saiba mais
 Pedir cotação
-1-Wire Sensor de Temperatura TST100
+MODBUS RTU Módulo de Saída de Relé TDO340
+R$ 985,28
+R$
+955 , 72
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+1-Wire Sensor de Corrente TSC200-15
 Sob consulta
 Saiba mais
 Pedir cotação
-Módulo IO Universal 4G LTE TCG140-4
-Sob consulta
-Saiba mais
-Pedir cotação
-Sensor de Temperatura e Umidade IP54 TSH331
-Sob consulta
-Saiba mais
-Pedir cotação
+NPB-240 Carregador de Bateria Estágios Ácido Chumbo Li-ion MeanWell
+R$ 620,40
+R$
+601 , 79
+à vista
+com desconto Pix - Vindi
+Ver opções
 Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
 Nome: Djalma Filho
 Avaliação: Positivo
 Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
@@ -501,6 +494,16 @@ Written by: Djalma Filho
 LRI Automação Industrial
 1 / 1 stars
 1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -542,5 +545,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 6.685 secs - 13-11-2026  - node: commerce-web4-bot-lw - store
+Load time: 1.206 secs - 14-11-2026  - node: commerce-web4-tiny-lw - store
 ×

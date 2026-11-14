@@ -1,9 +1,9 @@
-# SC-2383 3grouterstore.co.uk · home · https://routerstore.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-2383 3grouterstore.co.uk · home · https://routerstore.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 4G & 5G Routers, IoT Gateways, Antennas & SIM Cards | The Router Store
 Skip to content Authorised Teltonika reseller
 Order by 2pm for next working day delivery on in-stock items
 UK technical support
-Open now
+Closed now
 0300 124 6181
 sales@routerstore.com
 Products search
@@ -69,6 +69,7 @@ Antenna guides
 5G routers with external antennas
 Fullband antennas
 Poynting antennas
+Panorama antennas
 Panorama price list
 Networking Networking
 Network Switches
@@ -111,6 +112,7 @@ QuWireless
 Brand hubs and price lists
 Fullband hub
 Milesight hub
+Panorama Antennas hub
 Poynting hub
 Teltonika hub
 Teltonika RMS hub
@@ -177,7 +179,7 @@ Outdoor routers
 IoT gateways
 Serial, Modbus and I/O · 14 products
 5G antennas
-2x2 and 4x4 MIMO · 55 products
+2x2 and 4x4 MIMO · 56 products
 4G antennas
 Omni, directional, vehicle · 57 products
 Networking
@@ -300,5 +302,4 @@ Fullband FB4GPUCK-2 4G 2x2 MIMO Screw / Panel Mount Puck Antenna 4dBi Peak Gain 
 The Fullband FB4GPUCK-2 is a compact 2x2 MIMO 4G puck antenna with 4 dBi peak gain, 2 x SMA male connectors and 2 x 2.5 m LL100 cables.
 £ 19.00 ex VAT £ 22.80 inc VAT
 Add to basket
-Poynting PUCK-2 IOT/M2M 4G/5G 2-IN-1 Transportation Puck Antenna
-The Poynting PUCK-2 is a 2x2 
+Poynting PUCK-2 IOT/M2M 4G/5G 2-IN-1 Transportation 

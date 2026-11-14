@@ -1,4 +1,4 @@
-# SB-555 tacel.ca · news_2 · https://www.tacel.ca/en/events · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-555 tacel.ca · news_2 · https://www.tacel.ca/en/events · fetched 2026-11-14T09:07:48Z · HTTP 200
 Events & Installations | Tacel
 About About
 Products Products
@@ -32,7 +32,7 @@ EN EN EN | FR FR FR
 Events & Installations
 Upcoming Installations, training sessions, trade shows, and demos across Canada
 Filters
-2 results
+1 results
 Clear
 Search
 Year
@@ -42,7 +42,7 @@ All Tags
 Sort
 Oldest First
 Filters
-2 results
+1 results
 Clear
 Search
 Year
@@ -51,12 +51,6 @@ Tag
 All Tags
 Sort
 Oldest First
-Trade Show
-November 10-13, 2026 - Vaughan , ON
-MEA Conference 2026
-Tacel exhibits at the Municipal Engineers Association Conference & AGM 2026 in Vaughan, connecting with Ontario's municipal professional engineers.
-MEA Engineering Municipal + 1
-View Event
 Trade Show
 Date TBA - Greater Toronto Area , ON
 ITS GTHA Summit 2026
@@ -65,7 +59,7 @@ ITS GTHA Summit
 View Event
 Past Events
 Filters
-38 results
+39 results
 Clear
 Search
 Year
@@ -74,6 +68,12 @@ Tag
 All Tags
 Sort
 Most Recent
+Trade Show
+November 10-13, 2026 - Vaughan , ON
+MEA Conference 2026
+Tacel exhibits at the Municipal Engineers Association Conference & AGM 2026 in Vaughan, connecting with Ontario's municipal professional engineers.
+MEA Engineering Municipal + 1
+View Event Gallery
 Trade Show
 October 29, 2026 - Toronto , ON
 CNIB Connecting the Dots Conference 2026
@@ -277,5 +277,4 @@ June 19, 2025 - Toronto , ON
 ITE Toronto Section — 2025 Spring Luncheon
 Tacel sponsored and attended the ITE Toronto Section 2025 Spring Luncheon at Hart House, University of Toronto, connecting with transportation engineers and planners in the GTA.
 Trade Show Controllers Detection + 1
-View Event Gallery
-
+View Event 

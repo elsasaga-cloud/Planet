@@ -1,4 +1,4 @@
-# SB-679 saratota.com · news_1 · https://www.saratota.com/News · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-679 saratota.com · news_1 · https://www.saratota.com/News · fetched 2026-11-14T09:07:48Z · HTTP 200
 News
 Menu
 Your Cart
@@ -112,7 +112,7 @@ RSS Feed
 16 Jan
 admin_saratota
 860
-8198
+8201
 Planet POE-173S 802.3bt PoE++ Splitter 12v 19v 24v
 Quick and Easy Gigabit 802.3bt PoE++ Network Deployment
 The Planet POE-173S is a 10/100/1000Mbps 802.3bt Power over Ethernet splitter, which delivers the Ethernet digital data and PoE power from an..
@@ -120,7 +120,7 @@ Read More
 29 Jan
 admin_saratota
 152
-9937
+9941
 Launch of World's First-and-Only Dante Extender for Pro-AV Systems
 The Patton CopperLink™ CL1151E can revolutionise infrastructure requirements for Pro-AV systems that use Dante-enabled devices by extending Ethernet up to 3,300 feet (1,000 meters) over common copper ..
 Read More
@@ -136,7 +136,7 @@ Read More
 12 Dec
 admin_saratota
 0
-8757
+8758
 Planet IVR-100 Establish Secure Connection with Hybrid VPN Features
 PLANET have launched the IVR-100 Industrial VPN Security Gateway, an all-in-one appliance.
 Powerful Industrial VPN Security Solution

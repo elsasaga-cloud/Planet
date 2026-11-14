@@ -1,4 +1,5 @@
-# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-14T09:07:48Z · HTTP 200
+2026-11-13T19:49:32+00:00	McLaren Mastercard F1 Team's Oscar Piastri on Using Simulators to Calidate Upgrades | Intel	https://www.youtube.com/shorts/b_27txmMlEo
 2026-11-09T15:00:24+00:00	Spot fake video and audio in real time | Intel	https://www.youtube.com/shorts/NjfkgG1oSmQ
 2026-11-06T15:00:17+00:00	The technology behind McLaren performance with Oscar Piastri | McLaren Mastercard F1 Team x Intel	https://www.youtube.com/watch?v=HVg1rNAV99w
 2026-11-06T15:00:15+00:00	The Part of Formula 1 You Don't See | Oscar Piastri	https://www.youtube.com/shorts/v1J2MP5SsLk
@@ -13,4 +14,3 @@
 2026-10-26T14:37:26+00:00	Oregon: Build the future of technology with Intel Foundry | Intel	https://www.youtube.com/watch?v=87waGoxmUl8
 2026-10-21T15:00:13+00:00	Building America's Capacity to Innovate | Intel	https://www.youtube.com/watch?v=CBv6WuKH25A
 2026-10-20T16:50:18+00:00	How Stadiums Use Intel Edge AI to Boost Revenue & Fan Experience | Intel	https://www.youtube.com/shorts/USu6GeQZGkM
-2026-10-20T16:50:09+00:00	How Stadiums Use Intel Edge AI to Boost Revenue & Fan Experience | Intel	https://www.youtube.com/watch?v=zRdWhIzr5G0

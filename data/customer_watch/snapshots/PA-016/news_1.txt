@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -42,8 +42,8 @@ Grandstream + CRM
 Slican + CRM
 Yeastar + CRM
 Moduły do central
-Głos męski
 Głos damski
+Głos męski
 Do 10 pracowników
 Do 20 pracowników
 Do 50 pracowników
@@ -82,42 +82,42 @@ Projektory
 Monitory Wielkoformatowe
 Biznesowe
 Hotelowe
-Lampowe
 Laserowe
 Akcesoria
+Lampowe
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
 Grabbery
+Kamery PTZ Obrotowe
 Uchwyty do projektorów
 Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
 Uchwyty do monitorów
-HDMI
 USB
-USB A
+HDMI
 USB C
-Stałe
+USB A
 Uchylne
 Na ramieniu
 Mobilne wózki
+Stałe
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
-Stanowiskowe
+Dla edukacji
 Powierzchniowe
 Akcesoria
+Stanowiskowe
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -130,25 +130,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Kable przyłączeniowe
+Przewodowe
 Gąbki
 Adaptery
+Kable przyłączeniowe
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
 Higiena
-Słuchawki z radiotelefonem
+Słuchawki
 Słuchawki z bluetooth
 Słuchawki kablowe
 Akcesoria
+Słuchawki z radiotelefonem
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -174,10 +174,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Analogowe
 Cyfrowe
 Akcesoria
 Morskie
+Analogowe
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -193,16 +193,16 @@ LICENCJE
 UNIFONY IP
 AKCESORIA
 Wróć do:
-Przewodowe
 Bezprzewodowe
 Interkomy
-Elementy montażowe
+Przewodowe
 Ramki
 Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
+Elementy montażowe
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -230,31 +230,31 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
-Zewnętrzne
 Wewnętrzne
+Zewnętrzne
 Zarządzalne
 Niezarządzalne
 Typu Smart
 Wkładki SFP
 Licencje
-Urządzenia
 Zestawy
 Licencje
-Tower
+Urządzenia
 Rack
 Compact
+Tower
 USB-A
 USB-C
 Lightning
 Drukarki Pos
 Drukarki etykiet
 Skanery kodów
-Jednostki główne
 Czujniki
 Akcesoria
-NAS Desktop
+Jednostki główne
 NAS Rack
 Dyski NAS
+NAS Desktop
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -292,21 +292,21 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
 Łączniki kabli
 Wtyki
+Gniazda Keystone
 Kategorii 5
 Kategorii 6
 Kategorii 7
 Box
 Patchcord
 Na m
-Box
 Patchcord
 Na m
-Stojące
+Box
 Wiszące
 Akcesoria
+Stojące
 Puszki
 Uchwyty
 Dyski
@@ -361,14 +361,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
-Głośniki
-Wzmacniacze
-Miksery
-Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
+Głośniki
+Wzmacniacze
+Miksery
+Matryce
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,14 +381,15 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
+Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
+Jednostki główne
+Licencje
+Akcesoria
 Lampowe
 Laserowe
 Akcesoria
@@ -396,35 +397,37 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
-Grabbery
+Splittery HDMI
+Stacje dokujące
 Uchwyty do projektorów
 Kable
 Extendery
-Splittery HDMI
-Stacje dokujące
 Uchwyty do monitorów
 HDMI
-USB
 USB A
 USB C
+Przedłużacze USB A
+HDMI
+USB
 Stałe
 Uchylne
 Na ramieniu
 Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla edukacji
-Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
+Dla edukacji
+Dla obiektów handlowych
+Akcesoria
 Stanowiskowe
 Powierzchniowe
-Akcesoria
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -452,11 +455,11 @@ Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Higiena
 Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
-Higiena
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
@@ -516,13 +519,13 @@ Wielorodzinne
 Przewodowe
 Bezprzewodowe
 Interkomy
+Karty i breloki
+Elektrozaczepy
+Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
 Daszki
-Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -572,15 +575,15 @@ Compact
 USB-A
 USB-C
 Lightning
-Drukarki Pos
 Drukarki etykiet
+Drukarki Pos
 Skanery kodów
 Jednostki główne
 Czujniki
 Akcesoria
+Dyski NAS
 NAS Desktop
 NAS Rack
-Dyski NAS
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -646,6 +649,86 @@ Uchwyty
 Dyski
 Switche POE
 Nowe produkty
+Nowość
+JABRA EVOLVE3 45 MONO LINK 390C (USB-C)
+Producent Jabra
+Cena
+887,16 zł
+Cena
+721,27 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
+Nowość
+GRANDSTREAM GRP2602LG
+Producent Grandstream
+Cena
+0,00 zł
+Cena
+0,00 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
+Nowość
+GRANDSTREAM GRP2602LP
+Producent Grandstream
+Cena
+0,00 zł
+Cena
+0,00 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
+Nowość
+GRANDSTREAM GRP2601LW
+Producent Grandstream
+Cena
+0,00 zł
+Cena
+0,00 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
+Nowość
+GRANDSTREAM GRP2601LP
+Producent Grandstream
+Cena
+0,00 zł
+Cena
+0,00 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
+Nowość
+GRANDSTREAM GRP2601L
+Producent Grandstream
+Cena
+0,00 zł
+Cena
+0,00 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
+Nowość
+Fanvil Linkvil W626W
+Producent Fanvil
+Cena
+898,57 zł
+Cena
+730,54 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
+Nowość
+Yealink W59R PRO
+Producent Yealink
+Cena
+782,21 zł
+Cena
+635,94 zł
+bez VAT
+Powiadom mnie o dostępności
+Zrezygnuj z powiadomień
 Nowość
 Grandstream GSC3575
 Producent Grandstream
@@ -928,97 +1011,4 @@ nowoczesna firma
 zarządzanie czasem
 moduł hotelowy
 IoT
-Plantronics
-Sennheiser
-konftel
-konferencja
-słuchawki przewodowe
-słuchawki bezprzewodowe
-Centrala
-Datera
-infolinia
-provisioning
-sprzedaż
-zakupy
-polska dystrybucja
-Helios
-2N
-zestaw
-helpdesk
-biuro obsługi klienta
-call center
-sprzęt telekomunikacyjny
-open space
-Jabra
-seria Evolve
-redukcja szumów
-PLANET
-Grandstream
-outsourcing cc
-zewnętrzne call center
-Telefon GSM
-Jablocom
-fanvil
-Mitel
-Snom
-przystawka konferencyjna
-baza DECT
-akcesoria
-Axtel
-CallPage
-Zadarma
-widget
-ubiquiti
-router
-UNMS
-bezpieczenstwo
-LAN
-WAN
-IPv4
-finanse
-leasing
-yubico
-yubikey
-zabezpieczenia
-2FA
-Linki w stopce
-Pomoc
-Zwroty i reklamacje
-Testy urządzeń
-Regulamin KONFTEL
-Regulamin
-Słownik telekomunikacyjny
-Muzeum
-Outlet
-Pomoc
-Zwroty i reklamacje
-Testy urządzeń
-Regulamin KONFTEL
-Regulamin
-Słownik telekomunikacyjny
-Muzeum
-Outlet
-Moje konto
-Twoje zamówienia
-Newsletter
-Ustawienia konta
-Przechowalnia
-Moje konto
-Twoje zamówienia
-Newsletter
-Ustawienia konta
-Przechowalnia
-Płatności i dostawa
-Formy płatności
-Leasing
-Wysyłka 48h
-Czas i koszty dostawy
-Płatności i dostawa
-Formy płatności
-Leasing
-Wysyłka 48h
-Czas i koszty dostawy
-Informacje
-Klub Instalatora
-Przedłużona Gwarancja
-Polityka pli
+Plantroni

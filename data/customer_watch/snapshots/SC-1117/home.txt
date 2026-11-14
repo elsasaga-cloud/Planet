@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,50 +170,45 @@ Carrito
 Productos
 Noticias
 Ver todas
-Rafael · 10h · Redes
+Gregorio · 12h · Telefonía IP
+Llegó el stock de Yealink: teléfonos, diademas y salas completas
+La serie YHS ya está en piso: YHS34 y YHS36 E2, en versión mono y dual, con cancelación de ruido y QD a RJ9. El WPP30 suma presentación inalámbrica 4K por USB-C con WiFi 6, y la SmartVision 80 pone 4 lentes con 20x de zoom en la sala. Los MP54 y MP56 E2 Teams completan la línea de escritorio.
+Y muchas cosas más en syscom.mx.
+Mira todo el stock Yealink que llegó 2
+Fernando · 16h · Redes
+Router 4G para donde no llega nada
+El WI-LTE117-O V2 de WI-TEK resuelve internet y energía con un solo equipo: sube a la red 4G LTE (Cat4, 150 Mbps, 9 bandas FDD) y reparte PoE. Alimentado con DC 48-54 V entrega 2 puertos 802.3af para cámaras; con PoE at, uno. Failover automático 3G/4G-WAN, OpenVPN y gestión cloud. IP65, de -30 a 55 °C.
+Conoce el router 4G para exterior 1
+Gregorio · 17h · Audio e Intercom
+La sala que se reserva sola ya tiene cara
+Los RoomPanel E2 y Plus E2 de Yealink corren Android 13 y van por PoE: un cable, datos y energía. Las barras LED RGB avisan desde el pasillo si la sala está libre, y el NFC de 13.56 MHz hace check-in con la credencial en vez de con la memoria de alguien.
+El Plus E2 suma 10.1" con sensores TOF y dos arreglos de micrófono; el E2 de 8" se monta en pared, vidrio o madera, vertical u horizontal.
+Ya tenemos stock en SYSCOM.
+Mira los dos RoomPanel de Yealink
+Rafael · 18h · Redes
+Wi-Fi 7 de 3.6 Gbps llega al techo del corporativo
+El GWN7670 ofrece 5 Gbps cableados, MIMO 2x2:2, 256 clientes simultáneos, BLE 5.3 y controlador integrado. Montaje en pared o techo con PoE+.
+Conoce el GWN7670 de Grandstream 1
+Leopoldo · 18h · Audio e Intercom
+El conector Speakon que aguanta 30 A sin soltar la señal
+El SLDF4B de SEETRONIC es un conector hembra de 4 polos con carcasa metálica negra y 30 A en corriente continua. Acepta cable de 6 mm (AWG10) y sella IP54 en estado acoplado, así que aguanta escenario, intemperie y desmontaje sin falsos contactos. Para líneas de altavoz donde la conexión no puede fallar a media función.
+Conoce el SLDF4B de SEETRONIC
+Nicolas · 18h · Videovigilancia
+La cámara que interrumpe el robo antes de que termine
+La DS-2CD1043G2-LIUF/SL de Hikvision suma a su bala de 4 MP con lente de 2.8 mm una luz intermitente y alerta de audio que se disparan al detectar intrusión, más audio de dos vías para hablar con quien está del otro lado. Dual Light de 30 m en IR y 20 m en blanca, AcuSense Lite, IP67 y PoE.
+Conoce la bala con alerta activa
+Rafael · 1d · Redes
 ¿Ya conocías el nuevo PTP de Grandstream?
 El GWN7302 es un AP punto a punto y punto a multipunto WiFi 6 en banda única de 5 GHz: 2.4 Gbps de throughput, MIMO 2x2:2 con antenas internas de 13.5 dBi y alcance de hasta 5 km. Suma IP66, dos puertos Gigabit con PoE IN/OUT y PtMP de 1 a 4. Se administra desde GDMS Cloud.
 Descubre el PTP WiFi 6 de 5 km 1
-Nicolas · 12h · Videovigilancia
+Nicolas · 1d · Videovigilancia
 La cámara que primero advierte, después graba
 La DS-2CE73DF0T-LXTS de Hikvision es una turret TurboHD de 2 MP que integra sirena, luz estroboscópica roja y azul y audio bidireccional SoundMax: el operador escucha y responde desde la app, sin esperar a revisar la grabación. Apertura F1.0 para imagen a color 24/7, luz dual de 40 m en IR y 40 m en blanca, IP67 y operación de -40 a 60 °C. Se instala sobre videobaluns con cable UTP.
-Conoce la turret con sirena de Hikvision 2
-Victor · 13h · Alarmas e Intrusión
+Conoce la turret con sirena de Hikvision 3
+Victor · 1d · Alarmas e Intrusión
 Un panel que también es hub de video y domótica
 El Connect+ Pro de Alula suma 96 zonas inalámbricas, celular multicarrier con respaldo Wi-Fi, video ONVIF sin NVR ni licencias y automatización Z-Wave Plus. El teclado RE667XPRO de 7 pulgadas concentra armado, cámaras y escenas en una sola pantalla.
 Lee el análisis del ecosistema Alula 2
-Leopoldo · 17h · Audio e Intercom
+Leopoldo · 1d · Audio e Intercom
 El rack está a 40 metros del proyector y el HDMI no llega
-El par TP580T y TP580R de Kramer extiende 4K60 4:2:0 hasta 40 m por un solo CAT, y 70 m en 1080p. HDBaseT con HDCP 2.2, RS-232 e IR bidireccionales para controlar el equipo desde cualquiera de los dos extremos. Gabinete DigiTOOLS de aluminio, sin ventilador. Existencia en México Sureste: 19 transmisores y 20 receptores.
-Conoce el par TP580 de Kramer
-Bryan · 18h · Data Center
-Los 23 equipos Hoffman para alta densidad, en una sola página.
-Reunimos los enfriadores RackChiller RDHX PRO e in-row de 45 kW, los gabinetes ProLine ConnecTek, FloTek y S1, y los sensores de las líneas RackPower y GUARDIAN.
-La página muestra precio y existencia en vivo de cada modelo, con los filtros del buscador.
-Explora los 23 modelos Hoffman
-Rafael · 18h · Redes
-Wi-Fi 6 de 6 Gbps para 512 dispositivos a la vez
-El GWN7664E combina MU-MIMO 4x4:4 con OFDMA para hospitales y oficinas de alta densidad, con QoS avanzado y gestión integrada sin controlador, desde la web o GWN.Cloud.
-Conoce el GWN7664E de Grandstream
-Rafael · 20h · Webinar
-WhatsApp Business dentro de tu UCM6300, sin teléfonos personales
-El 26 de noviembre a las hrs MX (Miami), Grandstream muestra paso a paso cómo integrar WhatsApp Business a la central UCM6300 y atender llamadas y mensajes desde Grandstream Wave, en un solo lugar. Webinar gratuito con registro previo.
-Reserva tu lugar al webinar de Grandstream 2 2
-Axel · 1d · Lanzamiento
-¿Sabías que tu pantalla IdeaHub de Huawei puede hacer esto?
-Escribe fórmulas matemáticas a mano y la pizarra las resuelve por ti al instante. Smart Math reconoce suma, resta, multiplicación, división, porcentajes, raíces, potencias, pi y trigonometría, además de expresiones como 2x+1, sin teclado ni software adicional.
-Conoce cómo funciona en el siguiente link:
-Mira Smart Math en acción
-Fernando · 1d · Fibra Óptica
-Carretes de fibra óptica de 5 km listos para tu próximo proyecto.
-La fibra MINI-ADSS de Linkedpro by Fiberhome llegó en 6 y 12 hilos: 162 y 63 carretes con entrega inmediata. Span 120, G.652D, loose tube, aérea sin soporte metálico.
-Conoce los carretes MINI-ADSS de 5 km 1
-Cesar · 1d · Videovigilancia
-Almacena más. Gasta menos con UniFi Protect
-Maximiza la retención equilibrando de forma inteligente la calidad de grabación y la eficiencia del almacenamiento: el sistema ajusta el bitrate de cada cámara para que el disco rinda más horas de video sin perder el detalle que importa.
-Conoce UniFi Protect
-Videos
-Ver todos
-¿Alguien conectó un router sin autorización y toda la red falla? Con RG-ES200, activa la protección con un solo clic y bloquea conexiones no autorizadas.
-Ver producto
-¡Unboxing del RG-ES207GS-AC-OD de R
+El par TP580T y TP580R de Kramer extiende 4K60 4:2:0 hasta 40 m por un solo CAT, y 70 m en 1080p. HDBaseT con HDCP 2.2, RS-232 e IR bidireccionales

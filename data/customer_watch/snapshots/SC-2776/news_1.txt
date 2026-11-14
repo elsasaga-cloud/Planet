@@ -1,4 +1,4 @@
-# SC-2776 karel.com.tr · news_1 · https://www.karel.com.tr/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-2776 karel.com.tr · news_1 · https://www.karel.com.tr/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
 Blog | Karel
 Ana içeriğe atla
 İletişim Teknolojileri
@@ -255,31 +255,33 @@ Teknoloji ve İnovasyon
 BT ve Trendler
 İletişim Sistemleri
 Güvenlik Sistemleri
-2026 ve Ötesinin En Önemli ve Stratejik 10 Teknoloji Trendi: Yapay Zeka, Güvenlik ve Dijital Egemenliğin Yeni Çağı
-Dijital Çağın Vazgeçilmezi: CRM Programları
-#Teknoloji ve İnovasyon
-2025 ve Sonrasında Önem Kazanacak Teknoloji Trendleri
-#Teknoloji ve İnovasyon
-6G, Sektörleri Nasıl Şekillendirecek?
 #İletişim Sistemleri
-İşletmeniz için En Uygun İletişim Ürünleri Nelerdir?
-#Güvenlik Sistemleri
-Şifreleme (Encryption) Nedir? Şifreleme Neden Önemlidir?
+Geleceğin Teknolojisi NFC (Yakın Alanda İletişim) Sistemleri
 #İletişim Sistemleri
-IP Santrallar ve Geleceğin İletişim Altyapısı: Karel ile Geleceğe Adım Atın
-#Güvenlik Sistemleri
-Yapay Zekaya Güvenebilir Miyiz?
+IP DECT Repeater Nedir, Avantajları Nelerdir?
+#BT ve Trendler
+Test ve Test Prensipleri
 #Teknoloji ve İnovasyon
-Otomobillerin Geleceği: Yaşam Biçimine Göre Dizayn - Karel'in Yeni Teknolojiler Çalışmaları
-1
-2
-3
-4
-5
-6
-7
-8
-9
+En Büyük Teknolojik Başarısızlıklar
+#BT ve Trendler
+En iyi Linux Dağıtımları
+#Teknoloji ve İnovasyon
+Android Geliştirici Seçenekleri ile Neler Yapabilirsiniz?
+#Güvenlik Sistemleri
+Devletlerin Siber Saldırı Önlemleri
+#BT ve Trendler
+Blok Zinciri ile Nesnelerin İnterneti İçin Güvenli Bir Model
+#İletişim Sistemleri
+Sağlık Sektöründe Mobilitenin Yükselişi
+22
+23
+24
+25
+26
+27
+28
+29
+30
 Faaliyetler
 İletişim Teknolojileri
 Savunma Teknolojileri

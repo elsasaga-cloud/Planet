@@ -1,4 +1,4 @@
-# SB-1073 sensoguard.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQEnbPoXQxNF-agnbc6dHsQ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1073 sensoguard.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCQEnbPoXQxNF-agnbc6dHsQ · fetched 2026-11-14T09:07:48Z · HTTP 200
 2026-11-12T09:42:25+00:00	T4 Firmware Update and Password Change - AI Bridge Tool	https://www.youtube.com/watch?v=gEvHprA8UvQ
 2026-11-12T09:41:44+00:00	T3 Configure Cameras and Sensors from Your PC - AI Bridge Tool	https://www.youtube.com/watch?v=ngnbCWJiYCc
 2026-11-12T09:40:30+00:00	T2 Change the Board's IP Address and Network Settings - AI Bridge Tool	https://www.youtube.com/watch?v=h-28v5-Ydkg

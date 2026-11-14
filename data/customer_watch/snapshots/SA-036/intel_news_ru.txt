@@ -1,7 +1,2 @@
-# SA-036 svn-video.ru · intel_news_ru · https://news.google.com/rss/search?q=%22%D0%98%D0%9F%20%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D1%83%D1%86%D0%BA%D0%B0%D1%8F%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0%22&hl=ru&gl=RU&ceid=RU:ru · fetched 2026-11-13T09:45:13Z · HTTP 503
-Sorry... G o o g l e
-Sorry...
-We're sorry...
-... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
-See Google Help for more information.
-Google Home
+# SA-036 svn-video.ru · intel_news_ru · https://news.google.com/rss/search?q=%22%D0%98%D0%9F%20%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%BB%D1%83%D1%86%D0%BA%D0%B0%D1%8F%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0%22&hl=ru&gl=RU&ceid=RU:ru · fetched 2026-11-14T09:07:48Z · HTTP 200
+

@@ -1,4 +1,10 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-14T09:07:48Z · HTTP 200
+2026-11-14T00:00:29+00:00	Clear Answers at Every Step: How ONYX Transformed the Customer Journey with Odoo	https://www.youtube.com/watch?v=6LPrxjHJEXU
+2026-11-13T18:20:13+00:00	Beyond the Books: AI Meets Odoo Accounting	https://www.youtube.com/watch?v=CSm_guuDFNU
+2026-11-13T16:02:54+00:00	Industry Webinar - Property Developer	https://www.youtube.com/watch?v=csWSzmbx2qs
+2026-11-13T14:17:32+00:00	Webinar - Entdecken Sie die neuesten Highlights der HR-Apps	https://www.youtube.com/watch?v=Khv6ZN_YfxA
+2026-11-13T14:02:33+00:00	Das Ende der Insellösungen, Ep.8	https://www.youtube.com/watch?v=9GGW-FX8Ymg
+2026-11-13T11:33:28+00:00	Webinar - Come il fotovoltaico cresce con dati e tecnologia	https://www.youtube.com/watch?v=vSFpgqcPkDg
 2026-11-12T20:59:41+00:00	Odoo Market Analysis for Canada	https://www.youtube.com/watch?v=anuWEaoMtbE
 2026-11-12T18:29:21+00:00	Webinaire Industrie - Promoteur Immobilier	https://www.youtube.com/watch?v=vLuhdXxzcZk
 2026-11-12T11:08:44+00:00	Odoo Insider - Live Q&A - Inventory Focus with Richard	https://www.youtube.com/watch?v=bCnnJ2b04K0
@@ -8,9 +14,3 @@
 2026-11-10T15:29:43+00:00	Webinar - From Kitchen to Delivery - Set up your Restaurant and Sell Online with Odoo 20	https://www.youtube.com/watch?v=4uUGPyymy6k
 2026-11-10T11:21:22+00:00	Webinaire - Le parcours visiteur, de la réservation à l’expérience sur place	https://www.youtube.com/watch?v=3zkJutoknBc
 2026-11-10T08:25:06+00:00	Webinaire Odoo 20 - Optimisez votre gestion des stocks grâce à l’IA	https://www.youtube.com/watch?v=lFbeBtvmrLw
-2026-11-09T15:30:16+00:00	Odoo Point of Sale: Local Network Access	https://www.youtube.com/watch?v=FwOAZlOo1hQ
-2026-11-06T12:00:11+00:00	Créer une base de données | Odoo Essentials	https://www.youtube.com/watch?v=grI6Mcx6fP8
-2026-11-06T10:06:53+00:00	How does Italian e-invocing work in Odoo? #odoo #erp #invoicing	https://www.youtube.com/shorts/Fa_pJ5wm3bA
-2026-11-05T19:40:27+00:00	Webinaire - Odoo 20 – Découvrez les nouvelles innovations qui révolutionnent les Services 🚀	https://www.youtube.com/watch?v=eVXVU0rPVa4
-2026-11-05T14:37:13+00:00	Webinar - Partnership Program	https://www.youtube.com/watch?v=6tqxYlWFEXI
-2026-11-04T16:20:06+00:00	Odoo Deep Dive: Finanzbuchhaltung	https://www.youtube.com/watch?v=zfoOJYbgPAw

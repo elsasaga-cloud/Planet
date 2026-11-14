@@ -1,4 +1,4 @@
-# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy
 Pn–Pt – · +48 504 500 007 info@ctr.pl
 O nas Pomoc i FAQ
@@ -78,11 +78,11 @@ Sygnalizatory zewnętrzne 57
 Sygnalizatory optyczno-akustyczne 61
 Sygnalizatory optyczne 2
 Sygnalizatory akustyczne 6
-Moduły komunikacyjne 165 Moduły GSM/LTE 37
-Moduły Ethernet 35
+Moduły komunikacyjne 164 Moduły GSM/LTE 37
+Moduły Ethernet 34
 Moduły Wi-Fi 34
 Powiadamianie / monitoring alarmów 77
-Manipulatory / klawiatury 97 Manipulatory LCD 63
+Manipulatory / klawiatury 98 Manipulatory LCD 63
 Manipulatory LED 35
 Manipulatory dotykowe 34
 Polecane Kamery IP Zestawy gotowe
@@ -117,16 +117,16 @@ Kable koncentryczne 27
 Kable combo (video + zasilanie) 11
 Kable zewnętrzne 26
 Kable wewnętrzne 47
-Akcesoria pozostałe 324 Zobacz wszystkie →
+Akcesoria pozostałe 325 Zobacz wszystkie →
 Zasilanie CCTV 386 Akumulatory 88
 Zasilacze impulsowe 113
 Zasilacze buforowe 91
 Zasilacze na szynę DIN 53
 UPS / zasilanie awaryjne 36
 Ochrona przepięciowa 110
-Montaż (uchwyty / puszki / obudowy) 1032 Uchwyty montażowe 701
-Puszki montażowe 229
-Adaptery montażowe 397
+Montaż (uchwyty / puszki / obudowy) 1031 Uchwyty montażowe 701
+Puszki montażowe 228
+Adaptery montażowe 396
 Obudowy kamer 180
 Maszty / wysięgniki 42
 Szafy RACK 315 Szafy RACK wiszące 105
@@ -153,7 +153,7 @@ ACTi 111
 Axis 102
 Axon 79
 B
-BCS 35
+BCS 36
 Bosch 1643
 C
 Camsat 68
@@ -240,12 +240,12 @@ Najlepiej sprzedające
 Bestsellery
 Zobacz wszystkie →
 ← Zestaw 1 z 4 →
-Promocja Bestseller Rekomendowany
+Taniej -19 455 zł Bestseller Rekomendowany
 Axis · ID 44991
 Termowizyjna kamera ip AXIS Q1942-E ★ 5.0 · 1 opinii
 Dostępny
 Wysyłka 24h
-35 149,00 zł netto
+35 149,00 zł 19 331,95 zł netto
 Do koszyka ♡
 Dodaj do porównania
 Taniej -3525 zł Bestseller Rekomendowany
@@ -291,12 +291,12 @@ Wysyłka 24h
 1350,00 zł 877,52 zł netto
 Do koszyka ♡
 Dodaj do porównania
-Promocja Bestseller Rekomendowany
+Taniej -19 455 zł Bestseller Rekomendowany
 axis · ID 44991
 Termowizyjna kamera ip AXIS Q1942-E ★ 5.0 · 1 opinii
 Dostępny
 Wysyłka 24h
-35 149,00 zł netto
+35 149,00 zł 19 331,95 zł netto
 Do koszyka ♡
 Dodaj do porównania
 Taniej -847 zł Bestseller Rekomendowany
@@ -340,19 +340,19 @@ Wysyłka 24h
 5495,00 zł netto
 Do koszyka ♡
 Dodaj do porównania
+bcs · ID 63772
+BCS-05506MIR* ★ 0.0 · 0 opinii
+Dostępny
+Wysyłka 24h
+745,00 zł netto
+Do koszyka ♡
+Dodaj do porównania
 Promocja
 genway · ID 62206
 Panel zewnętrzny CM-02NE-6 ★ 4.0 · 1 opinii
 Dostępny
 Wysyłka 24h
 600,00 zł netto
-Do koszyka ♡
-Dodaj do porównania
-lc-security · ID 61605
-LC-TUBE SOLAR WI-FI - Kamera tubowa solarna 2 Mpix WI-FI do 180 dni ★ 0.0 · 0 opinii
-Dostępny
-Wysyłka 24h
-459,00 zł netto
 Do koszyka ♡
 Dodaj do porównania
 ◆ Doradca CTR

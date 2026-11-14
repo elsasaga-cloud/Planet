@@ -1,4 +1,4 @@
-# SB-932 acceed.com · home · https://acceed.com/de · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-932 acceed.com · home · https://acceed.com/de · fetched 2026-11-14T09:07:48Z · HTTP 200
 Startseite | acceed
 info@acceed.com
 +49 211 938898 0
@@ -71,6 +71,10 @@ Sensors
 Other
 Others
 Neuigkeiten
+13.11.2026
+Nuvo-11501: Industrielle KI-Lasten in rauer Umgebung bewältigen
+Der neue Industrie-Box-PC Nuvo-11501 ist der jüngste Vertreter der Neousys-11000-Familie und übernimmt darin die Rolle des kosteneffizienten Allrounders. Mit seiner Kombination aus hoher…
+Weiterlesen
 19.10.2026
 GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb
 Industrielle Anwendungen gieren nach Rechenleistung am Netzwerkrand, dort, wo Daten entstehen. Echtzeitfähige KI-Systeme für Bildverarbeitung, Qualitätskontrolle oder autonome Maschinen sollen große…
@@ -114,10 +118,6 @@ Weiterlesen
 18.09.2025
 POC-764VR: Autonom überwachen und HD-Bilder auswerten
 Acceed erweitert sein Angebot industrieller Box-Controller um den speziell für die Videoanalyse und Objekterkennung entwickelten lüfterlosen Kompakt-Computer POC-764VR. Neben der auf industrielle…
-Weiterlesen
-12.09.2025
-Nuvo-11000 Series
-Die Nuvo-11000-Serie ist Neousys’ robustes Embedded-Flaggschiff, basierend auf Intel® Core™ Ultra 200 Prozessoren mit bis zu 24 Kernen/Threads, DDR5-6400-Speicher, PCIe Gen5 und integrierter NPU für…
 Weiterlesen
 TOPSCCC
 ×

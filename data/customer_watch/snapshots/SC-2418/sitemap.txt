@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
-2026-11-13	https://www.streakwave.com/
-2026-11-13	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
+2026-11-14	https://www.streakwave.com/
+2026-11-14	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
@@ -131,6 +131,7 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-13	https://www.streakwave.com/clairé-lite-indoor-air-quality-monitor-white
 2026-11-12	https://www.streakwave.com/600w-hot-swap-dc-dc-power-supply-for-crs320
 2026-11-12	https://www.streakwave.com/ubiquiti-ua-g3-fingerprint-w-g3-reader-fingerprint-white
 2026-11-12	https://www.streakwave.com/ubiquiti-ua-g3-fingerprint-b-g3-reader-fingerprint-black
@@ -159,6 +160,10 @@
 2026-10-29	https://www.streakwave.com/uh46-dual-teams-usb-wired-headset
 2026-10-29	https://www.streakwave.com/uh44-mono-teams-usb-wired-headset
 2026-10-29	https://www.streakwave.com/remotepro-12v-off-grid-solar-power-system
+2026-10-29	https://www.streakwave.com/clairé-gray
+2026-10-29	https://www.streakwave.com/150w-hot-swap-power-supply
+2026-10-29	https://www.streakwave.com/60w-hot-swap-dc-dc-power-supply
+2026-10-29	https://www.streakwave.com/solidrack-5-mini
 2026-10-28	https://www.streakwave.com/uh44-dual-uc-usb-wired-headset
 2026-10-28	https://www.streakwave.com/uh44-dual-teams-usb-wired-headset
 2026-10-28	https://www.streakwave.com/uh42-mono-uc-usb-wired-headset
@@ -189,8 +194,4 @@
 2026-10-08	https://www.streakwave.com/45w-usb-c-pd-power-adapter-for-zyxel-aps
 2026-10-08	https://www.streakwave.com/t-bar-mounting-bracket-kit-5-sets-for-aps
 2026-10-08	https://www.streakwave.com/1310nm-10km-single-mode550m-multi-mode-gigabit-transciever
-2026-10-08	https://www.streakwave.com/1310nm-tx-1490nm-rx-10km-single-mode-gigabit-transciever
-2026-10-08	https://www.streakwave.com/850nm-300m-sfp-10g-sr-mmf-optical-transceiver
-2026-10-08	https://www.streakwave.com/1310nm-10km-sfp-10g-lr-smf-optical-transceiver
-2026-10-08	https://www.streakwave.com/5-port-gbe-120w-poe-industrial-din-rail-switch
-2026-10-
+2026-10-08	https://www.streakwave.

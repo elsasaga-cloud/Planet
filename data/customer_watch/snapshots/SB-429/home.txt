@@ -1,4 +1,4 @@
-# SB-429 murrelektronik.de · home · https://my.murrelektronik.com/home/de · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-429 murrelektronik.de · home · https://my.murrelektronik.com/home/de · fetched 2026-11-14T09:07:48Z · HTTP 200
 Wir sind Experte für Automatisierungslösungen | Murrelektronik
 Kundenportal
 Start
@@ -121,6 +121,10 @@ Keine Zeit für die Messe? Wir kommen zu Ihnen!
 Erleben Sie unsere Lösungen unkompliziert bei sich vor Ort. Mit unseren voll ausgerüsteten Solution Vans kommen wir direkt zu Ihnen. Ein Parkplatz und ein Stromanschluss reichen völlig aus – den Kaffee bringen wir mit.
 Messen und Events
 News Neuigkeiten rund um Automatisierung mit Murrelektronik
+24.11.2026
+Murrelektronik auf der SPS 2026: Decentralized Automation
+Weniger Verdrahtung, kürzere Installationszeiten und mehr Flexibilität: Dezentrale Automatisierung schafft neue Möglichkeiten für den Maschinen- und Anlagenbau. Auf der SPS 2026 in Halle 9, Stand 325 zeigt Murrelektronik unter dem Motto „Decentralized Automation“, wie sich Automatisierungskonzepte mit dezentralen Lösungen und digitalen Tools von der Planung über die Installation bis zum Betrieb durchgängig umsetzen lassen.
+Erfahren Sie mehr
 22.09.2026
 Murrelektronik und Danfoss setzen neue Maßstäbe in der Roboterautomatisierung
 Gemeinsam mit Danfoss entwickelte Murrelektronik ein Robotikkonzept, das zeigt, wie Robotik in eine dezentrale Automatisierungsarchitektur integriert werden kann. Das Unternehmen autonox Robotics leistete Unterstützung in den Bereichen Mechanik und Inbetriebnahme.
@@ -128,10 +132,6 @@ Erfahren Sie mehr
 13.08.2026
 Murrelektronik erhält EcoVadis Gold-Medaille: Auszeichnung bestätigt Engagement für verantwortungsvolles Wirtschaften
 Murrelektronik hat im aktuellen Nachhaltigkeitsrating von EcoVadis die Gold-Medaille erhalten. Damit gehört das Unternehmen zu den besten fünf Prozent aller von EcoVadis bewerteten Unternehmen weltweit.
-Erfahren Sie mehr
-04.08.2026
-uKonn-X bei Herding Filtertechnik: Digitale Navigation für die Maschineninstallation
-Maschinen und Anlagen werden zunehmend dezentral aufgebaut. Das schafft Freiräume im Schaltschrank, erhöht aber zugleich die Komplexität im Feld. Digitale Assistenzsysteme können diese Herausforderung entschärfen, indem sie Engineering-Daten in eine intuitive Installationsführung übersetzen. Ein Praxisbeispiel aus dem Anlagenbau zeigt, wie sich Effizienzpotenziale erschließen lassen.
 Erfahren Sie mehr
 Murrelektronik weltweit Unsere Standorte
 Wählen Sie ein Land in der Liste, um die Kontaktdaten für den Ansprechpartner in ihrer Region zu finden.

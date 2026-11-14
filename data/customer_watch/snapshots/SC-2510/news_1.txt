@@ -1,4 +1,4 @@
-# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
 Aktualności | Getfort
 O marce
 Produkty
@@ -20,6 +20,8 @@ Sortuj według
 Najnowsze
 Najstarsze
 Alfabetycznie
+Nowe 16-portowe switche GetFort
+Nowości GetFort: 16-portowe switche PoE 240W z portami SFP 2.5G W ofercie marki GetFort pojawiły się dwa nowe modele switchy PoE, zaprojektowane z myślą o profesjonalnych instalacjach monitoringu IP. Pozwalają one na bezpieczne zasilanie wielu urządzeń IP w jednej instalacji dzięki całkowitemu budżetowi mocy do 240W. Cechy wspólne obu modeli switchy GetFort Oba nowe switche […]
 Nowa seria uchwytów TV GetFort
 Nowa seria uchwytów TV GetFort – bezpieczny i stabilny montaż w każdym pomieszczeniu Planujesz montaż telewizora na ścianie, ale obawiasz się trudnych narożników, nietypowych wnęk lub po prostu szukasz uchwytu najwyższej jakości dla ekranu o dużej przekątnej? Marka GetFort poszerza swoją ofertę o nową linię regulowanych uchwytów telewizyjnych typu Full-Motion: GF-FM5590-80, GF-FM3786-60, GF-FM3275-40 oraz GF-FM2365-35. […]
 Nowość w ofercie: Szafy Rack 47U

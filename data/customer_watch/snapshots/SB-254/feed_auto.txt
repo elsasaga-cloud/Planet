@@ -1,4 +1,5 @@
-# SB-254 sicurtecnicanapoli.it · feed_auto · https://www.sicurtecnicanapoli.it/home/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-254 sicurtecnicanapoli.it · feed_auto · https://www.sicurtecnicanapoli.it/home/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+Fri, 13 Nov 2026 15:09:27 +0000	CATALOGO 2026	https://www.sicurtecnicanapoli.it/home/catalogo-2026/
 Tue, 13 Oct 2026 10:04:00 +0000	Nuova serie di videoregistratori TruVision TVR18	https://www.sicurtecnicanapoli.it/home/nuova-serie-di-videoregistratori-truvision-tvr18/
 Wed, 23 Sep 2026 10:39:35 +0000	Nuovo firmware per i dispositivi TruVision	https://www.sicurtecnicanapoli.it/home/nuovo-firmware-per-i-dispositivi-truvision/
 Wed, 23 Sep 2026 10:18:21 +0000	Costruito per durare, come dimostra la garanzia di 5 anni.	https://www.sicurtecnicanapoli.it/home/costruito-per-durare-come-dimostra-la-garanzia-di-5-anni/
@@ -8,4 +9,3 @@ Sat, 18 Jul 2026 08:51:32 +0000	TruVision Navigator 9.4 SP3	https://www.sicurtec
 Sat, 18 Jul 2026 08:21:40 +0000	Nuova versione dell’applicazione TVRMobile	https://www.sicurtecnicanapoli.it/home/nuova-versione-dellapplicazione-tvrmobile/
 Mon, 18 May 2026 12:47:00 +0000	Everon Blinx	https://www.sicurtecnicanapoli.it/home/everon-pcam/
 Mon, 18 May 2026 11:42:00 +0000	NOVITÀ – Switch di rete IFS Economy	https://www.sicurtecnicanapoli.it/home/novita-switch-di-rete-ifs-economy/
-Wed, 06 May 2026 12:48:00 +0000	Nuovo firmware per le telecamere panoramiche a 360° della serie S02	https://www.sicurtecnicanapoli.it/home/nuovo-firmware-per-le-telecamere-panoramiche-a-360-della-serie-s02/

@@ -1,4 +1,4 @@
-# SA-074 Elite Team Security Ltd · feed_auto · https://elitteamsecurity.com/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SA-074 Elite Team Security Ltd · feed_auto · https://elitteamsecurity.com/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Fri, 23 Jun 2023 15:49:55 +0000	Контрол уредите и измерване на енергията	https://elitteamsecurity.com/kontrol-uredite-i-izmervane-na-energiyata/
 Fri, 23 Jun 2023 15:49:25 +0000	Аудио и Видео контрол	https://elitteamsecurity.com/audio-i-video-kontrol/
 Fri, 23 Jun 2023 15:42:16 +0000	Щори и завеси	https://elitteamsecurity.com/sthori-i-zavesi/

@@ -1,4 +1,4 @@
-# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1067 raytelsecurity.com · news_2 · https://www.raytelsecurity.com/kbase/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Support and Knowledge Base | Raytel Security Systems
 This website uses cookies to provide you with a full set of features. For more information on our cookie usage see our Privacy Policy page. You consent to our cookies by continuing to use this site.
 OK
@@ -119,17 +119,17 @@ IP P1 Entrance Panel - Installer Guide
 IP MW7 WiFi Monitor - Additional Information for Installers
 Compact Range Door Entry Panels - PDF
 Access Control - Click here for all Articles
-Soyal AR-888 Series Controllers/Readers/Exit buttons
-Soyal AR-888H Controller - Quick setup guide
 AR-716E-RAY-AJ Two Door Controller - May 2021 onwards - Installation and Setup Manual
 AR-727EBR1121-AJ Single Door Controller - Raytel Installation and Setup Guide
 AR-837 Series Single Door Controller - Manufacturers configuration details
+K99 KeyPad - Programming and configuration Pre 2022
+K99i Keypad - Programming and configuration (for use in Raytel Entrance Panels)
 Software - Click here for all Articles
 Door Entry Vimar - IP Software Link
 Soyal USB to RS485 (AR-321CM) Driver - Software
 Door Entry Saveprog - Software Link
 Soyal 701 Client 901 13/12/19 - Software
-Soyal Device Tools 25/07/24
+Soyal 701 Server 901 30/09/19 - Software
 Legacy Products - Click Here for all articles
 Sound System 2004 Manufacturers Manual - PDF
 Community Housing Door Entry System - EKMM - PDF

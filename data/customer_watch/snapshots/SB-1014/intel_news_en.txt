@@ -1,7 +1,2 @@
-# SB-1014 bluenote.ro · intel_news_en · https://news.google.com/rss/search?q=%22BLUENOTE%20COMMUNICATIONS%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-13T09:45:13Z · HTTP 503
-Sorry... G o o g l e
-Sorry...
-We're sorry...
-... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
-See Google Help for more information.
-Google Home
+# SB-1014 bluenote.ro · intel_news_en · https://news.google.com/rss/search?q=%22BLUENOTE%20COMMUNICATIONS%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-14T09:07:48Z · HTTP 200
+Mon, 20 May 2019 07:00:00 GMT	A London quant fund keeps hiring tech staff - eFinancialCareers	https://news.google.com/rss/articles/CBMifkFVX3lxTFBuc0hOM1JXSmNhZnlNenRKZmFwazJjWVczU2pJUHM0a29EZEtXLWVqcGlteV9XbkFSX18zeVdCZndvRTBqdzItMWV5Mk5LWk1xT3lRSmFRd1B4UFFpTVJPMGQ5MmNkNHo1RXZzUmdiMWZIWDRhbWdXZm8yWGcyQQ?oc=5

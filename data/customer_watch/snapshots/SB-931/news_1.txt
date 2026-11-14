@@ -1,4 +1,4 @@
-# SB-931 Wave1 Pty Ltd · news_1 · https://wave1.com.au/news-media/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-931 Wave1 Pty Ltd · news_1 · https://wave1.com.au/news-media/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 News & Media | Wave1 | Telecommunications Australia
 Wave1
 Site Menu
@@ -87,7 +87,7 @@ Read More
 Next »
 Need help with the right solution?
 Enquire with us
-Instagram
+Facebook
 This field is for validation purposes and should be left unchanged.
 Name *
 Company *
@@ -137,7 +137,7 @@ MacGregor QLD 4109
 Call now
 +61 (07) 3343 0555
 Contact us
-URL
+X/Twitter
 This field is for validation purposes and should be left unchanged.
 Name *
 Email *

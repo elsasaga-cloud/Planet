@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3973)
+Svi proizvodi (3961)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -80,12 +80,12 @@ PVC bužiri (5)
 Halogen free bužiri
 Pocinkovani regali (62)
 Potrošni materijal (26)
-Ormani i kućišta (173)
-Rek ormani 19" (108)
+Ormani i kućišta (172)
+Rek ormani 19" (107)
 Rek ormani 10" (8)
 Indoor kućišta (35)
 Eksterni ormani (19)
-Elektro materijal (822)
+Elektro materijal (820)
 Energetski kablovi
 PVC strujni kablovi
 N2XH bez halogena
@@ -94,7 +94,7 @@ Strujni razvodnici (15)
 Razvodnici 220V-50Hz (7)
 Rack 19" razvodnici (7)
 Eksterni ormani (6)
-Indoor kućišta (55)
+Indoor kućišta (54)
 Uzidne dozne (11)
 Upodne kutije (2)
 Aluminijumski stubići (3)
@@ -125,7 +125,7 @@ PVC bužiri (5)
 Halogen free bužiri
 Pocinkovani regali (61)
 Potrošni materijal (26)
-IP power control (3)
+IP power control (2)
 Samolepljivi kanali (50)
 Šlicovani kanali (50)
 Energetski - strujni (6)
@@ -321,13 +321,13 @@ Failover kutije (2)
 PoE svičevi
 PoE komponente
 USB telefoni i gejtveji (4)
-Ethernet svičevi (627)
-Neupravljivi svičevi (76)
+Ethernet svičevi (624)
+Neupravljivi svičevi (74)
 24 porta (1)
-8 portova (7)
+8 portova (6)
 16 portova (1)
 6-8 portova (7)
-Upravljivi svičevi (154)
+Upravljivi svičevi (153)
 8 portova
 16 portova (1)
 24 porta
@@ -350,7 +350,7 @@ Fiber šasije
 Fiber-coax konverteri
 Industrijska oprema (5)
 GPON / EPON Fiber (2)
-Kartice - PC adapteri (151)
+Kartice - PC adapteri (147)
 10/100Mb/s kartice (4)
 PCI (3)
 USB (1)
@@ -367,21 +367,21 @@ Fiber optičke kartice
 Fibre Channel kartice
 E1, V.35, HPNA i dr (3)
 Serijske multiport (6)
-Wireless - bežične (44)
+Wireless - bežične (41)
 Wireless PCI Express (1)
 Wireless PCI
-Wireless USB kartice (20)
+Wireless USB kartice (19)
 Wireless minPCI (3)
 Wireless PCMCIA
-High Power kartice (6)
+High Power kartice (5)
 Wireless 54Mb/s (1)
 Wireless 108Mb/s
-Wireless 150Mb/s (2)
+Wireless 150Mb/s (1)
 Wireless 300Mb/s (9)
 Wireless 802.11a 5GHz (2)
 PCI Express (1)
 PCI-X / PCI (10)
-USB adapteri (40)
+USB adapteri (39)
 Ostali adapteri (5)
 RAID & storage (1)
 Asterisk VoIP kartice (15)
@@ -430,24 +430,24 @@ Antenski spliteri (2)
 Prenaponske zaštite (4)
 Antenski kablovi (32)
 Konektori i adapateri (33)
-Wireless WiFi 2.4 - 5GHz (355)
-WiFi ruteri indoor (92)
+Wireless WiFi 2.4 - 5GHz (352)
+WiFi ruteri indoor (90)
 Access pointi indoor (85)
 High Power oprema (27)
 Ekstenderi dometa (10)
-WiFi adapteri (26)
+WiFi adapteri (25)
 Eksterni HotSpot-ovi (32)
 WiFi CPE klijenti (25)
 Industrijski wireless (31)
 Eksterni linkovi (24)
-3G, LTE, GSM, EDGE (53)
+3G, LTE, GSM, EDGE (52)
 Serveri x86 i komponente (14)
-KVM svičevi PS/2, USB, IP (27)
-HDMI, VGA, DVI oprema (66)
-HDMI oprema (37)
+KVM svičevi PS/2, USB, IP (26)
+HDMI, VGA, DVI oprema (65)
+HDMI oprema (36)
 VGA oprema (18)
 DVI oprema (11)
-Remote Power & Boot Management (8)
+Remote Power & Boot Management (7)
 Cisco mrežna oprema (25)
 Softver (5)
 SuSE i RedHat Linux
@@ -495,7 +495,7 @@ Voice & Fire Telephone System EN Compliant (3)
 Gas Release Control System (3)
 SAFIE Smoke & Flame Intelligent Eye camera system (3)
 Alarmne centrale (41)
-Torbe i rančevi (10)
+Torbe i rančevi (9)
 Ostala oprema (44)
 WiFi CPE klijenti
 Eksterni linkovi
@@ -528,4 +528,4 @@ Skrećemo pažnju na MikroTik Cube 60Pro uređaje koji omogućavaju ultra brze v
 Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više nego povoljne !
 Ovde možete pogledati detaljnu dokumentaciju, a ovde video sa srpskim prevodom (uključite cc). - https://www.youtube.com/watch?v=IRf0TRVwXG0
 TP-Link Omada cloud biznis mrežna rešenja
-TP-Link već dugo može da 
+TP-Link već dugo može da p

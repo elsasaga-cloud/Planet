@@ -1,91 +1,91 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-14T09:07:48Z · HTTP 200
 11.11.2026 08:57:52	Spider III Standard Line,100mbit 5-port	https://www.adeptor.no/hirschmann/sl20-04t1m49999tz9/spider-iii-standard-line-100mbit-5-port-spider-sl-20-04t1m49999tz9hhhh
-06.11.2026 10:29:37	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-06/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcz99hhsesxxxxx
-03.11.2026 12:39:53	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp3/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc3
-03.11.2026 12:35:18	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-slash-9hz-slash-sb140-slash-fp1/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc1
-03.11.2026 11:19:54	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-9h-slash-sb140/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet
-03.11.2026 11:00:59	Fluke ii1050/TC03A/FPC3 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-t9hzfpc3/fluke-ii1050-tc03a-fpc3-akustisk-kamera-med-ir-kamera-plus-fluke-premium-care-for-3%c3%a5r
-03.11.2026 10:45:27	Fluke ii1050/TC03A/FPC1 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-t9hzfpc1/fluke-ii1050-tc03a-fpc1-akustisk-kamera-med-ir-kamera-plus-fluke-premium-care-for-1%c3%a5r
-03.11.2026 10:36:38	Fluke ii1050/TC03A akustisk kamera + IR	https://www.adeptor.no/fluke/flk-ii1050-slash-t50hz/fluke-ii1050-tc03a-akustisk-kamera-plus-ir-leakq-pdq-mode-og-mecq-plus-tc03a-50hz
-02.11.2026 16:08:01	Fluke ii1050/TC03A akustisk kamera + IR	https://www.adeptor.no/fluke/flk-ii1050-slash-t9hz/fluke-ii1050-tc03a-akustisk-kamera-plus-ir-leakq-pdq-mode-og-mecq-plus-tc03a-9hz
-02.11.2026 15:57:15	Fluke ii1050/FPC3 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-fpc3/fluke-ii1050-fpc3-akustisk-kamera-med-fluke-premium-care-for-3-%c3%a5r
-02.11.2026 15:53:01	Fluke ii1050/FPC1 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-slash-fpc1/fluke-ii1050-fpc1-akustisk-kamera-med-fluke-premium-care-for-1-%c3%a5r
-02.11.2026 15:45:41	Fluke ii1030/FPC3 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1030-slash-fpc3/fluke-ii1030-fpc3-akustisk-kamera-med-leakq-plus-fluke-premium-care-for-3-%c3%a5r
-02.11.2026 14:31:00	Fluke ii1030/FPC1 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1030-slash-fpc1/fluke-ii1030-fpc1-akustisk-kamera-med-leakq-plus-fluke-premium-care-for-1-%c3%a5r
+06.11.2026 10:29:37	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-06/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcz99hhsesxx-dot-x-dot-xx
+03.11.2026 12:39:53	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-9hz-sb140-fp3/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc3
+03.11.2026 12:35:18	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/ii1050-9hz-sb140-fp1/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet-fpc1
+03.11.2026 11:19:54	Fluke ii1050/TC03A/SB140 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-9h-sb140/fluke-ii1050-tc03a-sb140-akustisk-kamera-tc03a-ir-kamera-sb140-signalenhet
+03.11.2026 11:00:59	Fluke ii1050/TC03A/FPC3 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-t9hzfpc3/fluke-ii1050-tc03a-fpc3-akustisk-kamera-med-ir-kamera-plus-fluke-premium-care-for-3%c3%a5r
+03.11.2026 10:45:27	Fluke ii1050/TC03A/FPC1 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-t9hzfpc1/fluke-ii1050-tc03a-fpc1-akustisk-kamera-med-ir-kamera-plus-fluke-premium-care-for-1%c3%a5r
+03.11.2026 10:36:38	Fluke ii1050/TC03A akustisk kamera + IR	https://www.adeptor.no/fluke/flk-ii1050-t50hz/fluke-ii1050-tc03a-akustisk-kamera--plus--ir-leakq-pdq-mode-og-mecq--plus--tc03a-50hz
+02.11.2026 16:08:01	Fluke ii1050/TC03A akustisk kamera + IR	https://www.adeptor.no/fluke/flk-ii1050-t9hz/fluke-ii1050-tc03a-akustisk-kamera--plus--ir-leakq-pdq-mode-og-mecq--plus--tc03a-9hz
+02.11.2026 15:57:15	Fluke ii1050/FPC3 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-fpc3/fluke-ii1050-fpc3-akustisk-kamera-med-fluke-premium-care-for-3-%c3%a5r
+02.11.2026 15:53:01	Fluke ii1050/FPC1 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050-fpc1/fluke-ii1050-fpc1-akustisk-kamera-med-fluke-premium-care-for-1-%c3%a5r
+02.11.2026 15:45:41	Fluke ii1030/FPC3 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1030-fpc3/fluke-ii1030-fpc3-akustisk-kamera-med-leakq--plus--fluke-premium-care-for-3-%c3%a5r
+02.11.2026 14:31:00	Fluke ii1030/FPC1 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1030-fpc1/fluke-ii1030-fpc1-akustisk-kamera-med-leakq--plus--fluke-premium-care-for-1-%c3%a5r
 02.11.2026 10:38:33	Fluke ii1050 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1050/fluke-ii1050-akustisk-kamera-med-leakq-pdq-mode-og-mecq
 02.11.2026 09:47:09	Fluke ii1030 akustisk kamera	https://www.adeptor.no/fluke/flk-ii1030/fluke-ii1030-akustisk-kamera-med-leakq
-29.10.2026 14:37:16	Hawke Reducer (M) 3 NPT (FM) 2 NPT SS	https://www.adeptor.no/hawke-international/476-slash-r-3n-2nss/hawke-reducer-m-3-npt-fm-2-npt-ss-exde-hawke-reducer-476
-27.10.2026 12:29:01	Hirschmann BOBCAT 8xFE, 6xTX,2xSC	https://www.adeptor.no/hirschmann/brs20-0600m2m2-10/hirschmann-bobcat-8xfe-6xtx-2xsc-brs20-0600m2m2-stczu9hhsesxxxxx
-21.10.2026 13:37:19	Bobcat Rail switch 4xSFP, 8xRJ45	https://www.adeptor.no/hirschmann/942%7e170-010/bobcat-rail-switch-4xsfp-8xrj45-brs50-00122q2q-stcy99hhsesxxxxx
-19.10.2026 13:17:53	ControlEx 40 Recpt. 30x1.5mm Socket R25	https://www.adeptor.no/hawke-international/exd40-slash-cr-4bscxrx2a7/controlex-40-recpt-30x15mm-socket-r25-exd40-s-cr-v-30x15-s-c-frc-r25-a-7
-19.10.2026 13:17:21	ControlEx 40 Plug 30x1.5 Socket R25	https://www.adeptor.no/hawke-international/exd40-slash-cp-4bscxpx2a7/controlex-40-plug-30x15-socket-r25-exd40-s-cp-v-30x15-s-c-fpc-r25-a-7
-19.10.2026 13:16:50	ControlEx 40 Bulkh. 30x1.5 Pin	https://www.adeptor.no/hawke-international/exd40-slash-br-4bpcxxxxa7/controlex-40-bulkh-30x15-pin-exd40-s-br-v-30x15-p-c-prc-a-7
-19.10.2026 12:44:15	ControlEx 32 Recpt. 19 x1.5 Pin	https://www.adeptor.no/hawke-international/exd32-slash-cr-3bccxrxxa7/controlex-32-recpt-19-x15-pin-exd32-s-cr-v-19x15-p-s-frc-a-7
-19.10.2026 12:42:55	ControlEx 25 Recpt. 9x1.5 Pin R20	https://www.adeptor.no/hawke-international/exd25-slash-cr-2apcxrx0a7/controlex-25-recpt-9x15-pin-r20-exd25-s-cr-v-9x15-p-c-frc-r20-a-7
-19.10.2026 12:41:36	ControlEx 25 Recpt. 12x1.5 Socket	https://www.adeptor.no/hawke-international/exd25-slash-cr-2bscxrxxa7/controlex-25-recpt-12x15-socket-exd25-s-cr-v-12x15-s-c-frc-a-7
+27.10.2026 12:29:01	Hirschmann BOBCAT 8xFE, 6xTX,2xSC	https://www.adeptor.no/hirschmann/brs20-0600m2m2-10/hirschmann-bobcat-8xfe-6xtx-2xsc-brs20-0600m2m2-stczu9hhsesxx-dot-x-dot-xx
+21.10.2026 13:37:19	Bobcat Rail switch 4xSFP, 8xRJ45	https://www.adeptor.no/hirschmann/942-170-010/bobcat-rail-switch-4xsfp-8xrj45-brs50-00122q2q-stcy99hhsesxx-dot-x-dot-xx
+19.10.2026 13:17:53	ControlEx 40 Recpt. 30x1.5mm Socket R25	https://www.adeptor.no/hawke-international/exd40-cr-4bscxrx2a7/controlex-40-recpt-dot--30x1-dot-5mm-socket-r25-exd40-s-cr-v-30x1-dot-5-s-c-frc-r25-a-7
+19.10.2026 13:17:21	ControlEx 40 Plug 30x1.5 Socket R25	https://www.adeptor.no/hawke-international/exd40-cp-4bscxpx2a7/controlex-40-plug-30x1-dot-5-socket-r25-exd40-s-cp-v-30x1-dot-5-s-c-fpc-r25-a-7
+19.10.2026 13:16:50	ControlEx 40 Bulkh. 30x1.5 Pin	https://www.adeptor.no/hawke-international/exd40-br-4bpcxxxxa7/controlex-40-bulkh-dot--30x1-dot-5-pin-exd40-s-br-v-30x1-dot-5-p-c-prc-a-7
+19.10.2026 12:44:15	ControlEx 32 Recpt. 19 x1.5 Pin	https://www.adeptor.no/hawke-international/exd32-cr-3bccxrxxa7/controlex-32-recpt-dot--19-x1-dot-5-pin-exd32-s-cr-v-19x1-dot-5-p-s-frc-a-7
+19.10.2026 12:42:55	ControlEx 25 Recpt. 9x1.5 Pin R20	https://www.adeptor.no/hawke-international/exd25-cr-2apcxrx0a7/controlex-25-recpt-dot--9x1-dot-5-pin-r20-exd25-s-cr-v-9x1-dot-5-p-c-frc-r20-a-7
+19.10.2026 12:41:36	ControlEx 25 Recpt. 12x1.5 Socket	https://www.adeptor.no/hawke-international/exd25-cr-2bscxrxxa7/controlex-25-recpt-dot--12x1-dot-5-socket-exd25-s-cr-v-12x1-dot-5-s-c-frc-a-7
 19.10.2026 09:25:34	TVBTech, WB100HD Wireless WiFi Smart Box	https://www.adeptor.no/tvbtech/wb100hd/tvbtech-wb100hd-wireless-wifi-smart-box-for-3499f-fb-3599f-fb-3199f
 19.10.2026 09:10:59	TVBTech, WPIC1000 WiFi Wireless	https://www.adeptor.no/tvbtech/wpic1000/tvbtech-wpic1000-wifi-wireless-pipe-inspection-camera-system
-16.10.2026 13:15:22	TVBTech, TPL300 Pipe and cable locator	https://www.adeptor.no/tvbtech/tpl300/tvbtech-tpl300-pipe-and-cable-locator-512hz-640hz-33khz-power-50hz-and-60hz
-15.10.2026 08:01:37	Hawke Adaptor 90° (M) M20-(FM) M25 SS	https://www.adeptor.no/hawke-international/494-slash-a-20-25ss/hawke-adaptor-90-m-m20-fm-m25-ss-exde-angle-fixed-elbow-male-to-female
+16.10.2026 13:15:22	TVBTech, TPL300 Pipe and cable locator	https://www.adeptor.no/tvbtech/tpl300/tvbtech-tpl300-pipe-and-cable-locator-512hz-640hz-33khz-power-50hz--and--60hz
+15.10.2026 08:01:37	Hawke Adaptor 90° (M) M20-(FM) M25 SS	https://www.adeptor.no/hawke-international/494-a-20-25ss/hawke-adaptor-90-m-m20-fm-m25-ss-exde-angle-fixed-elbow-male-to-female
 09.10.2026 10:08:16	Fluke TLPV2, MC4-Sett for solkraftstrømt	https://www.adeptor.no/fluke/tlpv2/fluke-tlpv2-mc4-sett-for-solkraftstr%c3%b8mt-svart-r%c3%b8d
-08.10.2026 13:08:04	ControlEx 32 Bulkh. 4x16 Socket	https://www.adeptor.no/hawke-international/exd32-slash-br-3jssxrxxa7/controlex-32-bulkh-4x16-socket-exd32-s-br-v-4x16-s-s-frc-a-7
-08.10.2026 12:31:07	Chalmit Protecta PR3C 02 LED	https://www.adeptor.no/chalmit/pr3c-slash-02l-slash-le/chalmit-protecta-pr3c-02-led-pr3c-02l-le-2296lm-zone-2-m20
-08.10.2026 12:05:16	ControlEx 32 Plug 10x2.5 Pin	https://www.adeptor.no/hawke-international/exd32-slash-cp-3cpcxpxxa7/controlex-32-plug-10x25-pin-exd32-s-cp-v-10x25-p-c-fpc-a-1
-08.10.2026 12:01:38	ControlEx 32 Recpt.10x2.5 Socket	https://www.adeptor.no/hawke-international/exd32-slash-cr-3cscxrxxa7/controlex-32-recpt10x25-socket-exd32-s-cr-v-10x25-s-c-frc-a-7
-08.10.2026 11:57:15	ControlEx 50 Recpt 37x1.5 R40 Socket(A1)	https://www.adeptor.no/hawke-international/exd50-slash-cr-5ascxrx4a1/controlex-50-recpt-37x15-r40-socketa1-exd50-s-cr-v-37x15-s-c-frc-r40-a-1
-08.10.2026 08:01:43	ControlEx 32 Plug 6x6 Pin R25	https://www.adeptor.no/hawke-international/exd32-slash-cp-3fpcxpx2a7/controlex-32-plug-6x6-pin-r25-exd32-s-cp-v-6x6-p-c-fpc-r25-a-7
-08.10.2026 07:54:26	ControlEx 32 Recpt. 6x6 Socket R25	https://www.adeptor.no/hawke-international/exd32-slash-cr-3fscxrx2a7/controlex-32-recpt-6x6-socket-r25-exd32-s-cr-v-6x6-s-s-frc-r25-a-7
-08.10.2026 07:35:52	Hawke CSB656 (M) B-3/4 (FM) M25 SS	https://www.adeptor.no/hawke-international/csb656-b3-slash-4n-m25ss/hawke-csb656-m-b-3-4-fm-m25-ss-exde-d162-e184-w-compound
-06.10.2026 13:08:13	Hawke Reducer (M) 1NPT- (FM) 1 1/2NPT NP	https://www.adeptor.no/hawke-international/476-slash-r-1n-11-slash-2nnp/hawke-reducer-m-1npt-fm-1-1-2npt-np-exde-hawke-reducer-476
+08.10.2026 13:08:04	ControlEx 32 Bulkh. 4x16 Socket	https://www.adeptor.no/hawke-international/exd32-br-3jssxrxxa7/controlex-32-bulkh-dot--4x16-socket-exd32-s-br-v-4x16-s-s-frc-a-7
+08.10.2026 12:31:07	Chalmit Protecta PR3C 02 LED	https://www.adeptor.no/chalmit/pr3c-02l-le/chalmit-protecta-pr3c-02-led-pr3c-02l-le-2296lm-zone-2-m20
+08.10.2026 12:05:16	ControlEx 32 Plug 10x2.5 Pin	https://www.adeptor.no/hawke-international/exd32-cp-3cpcxpxxa7/controlex-32-plug-10x2-dot-5-pin-exd32-s-cp-v-10x2-dot-5-p-c-fpc-a-1
+08.10.2026 12:01:38	ControlEx 32 Recpt.10x2.5 Socket	https://www.adeptor.no/hawke-international/exd32-cr-3cscxrxxa7/controlex-32-recpt-dot-10x2-dot-5-socket-exd32-s-cr-v-10x2-dot-5-s-c-frc-a-7
+08.10.2026 11:57:15	ControlEx 50 Recpt 37x1.5 R40 Socket(A1)	https://www.adeptor.no/hawke-international/exd50-cr-5ascxrx4a1/controlex-50-recpt-37x1-dot-5-r40-socketa1-exd50-s-cr-v-37x1-dot-5-s-c-frc-r40-a-1
+08.10.2026 08:01:43	ControlEx 32 Plug 6x6 Pin R25	https://www.adeptor.no/hawke-international/exd32-cp-3fpcxpx2a7/controlex-32-plug-6x6-pin-r25-exd32-s-cp-v-6x6-p-c-fpc-r25-a-7
+08.10.2026 07:54:26	ControlEx 32 Recpt. 6x6 Socket R25	https://www.adeptor.no/hawke-international/exd32-cr-3fscxrx2a7/controlex-32-recpt-dot--6x6-socket-r25-exd32-s-cr-v-6x6-s-s-frc-r25-a-7
+08.10.2026 07:35:52	Hawke CSB656 (M) B-3/4 (FM) M25 SS	https://www.adeptor.no/hawke-international/csb656-b3-4n-m25ss/hawke-csb656-m-b-3-4-fm-m25-ss-exde-d16-dot-2-e18-dot-4-w-compound
+06.10.2026 13:08:13	Hawke Reducer (M) 1NPT- (FM) 1 1/2NPT NP	https://www.adeptor.no/hawke-international/476-r-1n-11-2nnp/hawke-reducer-m-1npt-fm-1-1-2npt-np-exde-hawke-reducer-476
 06.10.2026 12:41:49	Adalit Charger - Single Vehicle 12/24V	https://www.adeptor.no/adalit/cvl41/adalit-charger-single-vehicle-12-24v-l4000
 06.10.2026 12:40:33	Adalit Charger - Single 100/240V	https://www.adeptor.no/adalit/cl41/adalit-charger-single-100-240v-l4000
-05.10.2026 14:50:36	PowerEx 75 Recept. 4 x 240 mm Pins	https://www.adeptor.no/hawke-international/pexd75n-cr-c5bs-xra1/powerex-75-recept-4-x-240-mm-pins-exd-75-s-cr-g-4-240-s-frc-a-1
-05.10.2026 10:23:22	Hawke Reducer (M) M75 - (FM) M40 NP	https://www.adeptor.no/hawke-international/476-slash-r-75-40np/hawke-reducer-m-m75-fm-m40-np-exde-hawke-reducer-476
+05.10.2026 14:50:36	PowerEx 75 Recept. 4 x 240 mm Pins	https://www.adeptor.no/hawke-international/pexd75n-cr-c5bs-xra1/powerex-75-recept-dot--4-x-240-mm-pins-exd-75-s-cr-g-4-240-s-frc-a-1
+05.10.2026 10:23:22	Hawke Reducer (M) M75 - (FM) M40 NP	https://www.adeptor.no/hawke-international/476-r-75-40np/hawke-reducer-m-m75-fm-m40-np-exde-hawke-reducer-476
 02.10.2026 10:51:33	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2060-03/grs2000-ethernet-switch-grs2060-b0000-00000-a00-sffz9hhe2s99
-02.10.2026 10:09:13	Hirschmann BOBCAT 12xTX	https://www.adeptor.no/hirschmann/brs30-08042t2t-04/hirschmann-bobcat-12xtx-brs30-08042t2t-stcz99hhsesxxxxx
-01.10.2026 09:32:18	InstrumEX M20 Bulkh. P1-8x0.14-0.37 Sock	https://www.adeptor.no/hawke-international/n-br1-mc-sx-0-rja-xa/instrumex-m20-bulkh-p1-8x014-037-sock-05m-cable-8-pins-term-rja-nickl-p
-01.10.2026 09:00:59	Hirschmann EAGLE40 Security Firewall	https://www.adeptor.no/hirschmann/eagle40-072o6tcc-02/hirschmann-eagle40-security-firewall-eagle40-072o6tccafhsrainxxxxx
-29.09.2026 14:21:42	ControlEx 40 Bulkh. 19x2.5 Pin	https://www.adeptor.no/hawke-international/exd40-slash-br-4cpcxrxxa7/controlex-40-bulkh-19x25-pin-exd40-s-br-v-19x25-p-c-frc-a-7
-29.09.2026 10:39:23	ControlEx 32 Recpt. 6x6 Socket R25 (A1)	https://www.adeptor.no/hawke-international/exd32-slash-cr-3fssxxx2a1/controlex-32-recpt-6x6-socket-r25-a1-exd32-s-cr-v-6x6-s-s-prc-r25-a-1
-29.09.2026 10:27:00	ControlEx 32 Plug 6x6 Pin R25 (A1)	https://www.adeptor.no/hawke-international/exd32-slash-cp-3fpsxpx2a1/controlex-32-plug-6x6-pin-r25-a1-exd32-s-cp-v-6x6-p-s-fpc-r25-a-1
+02.10.2026 10:09:13	Hirschmann BOBCAT 12xTX	https://www.adeptor.no/hirschmann/brs30-08042t2t-04/hirschmann-bobcat-12xtx-brs30-08042t2t-stcz99hhsesxx-dot-x-dot-xx
+01.10.2026 09:32:18	InstrumEX M20 Bulkh. P1-8x0.14-0.37 Sock	https://www.adeptor.no/hawke-international/n-br1-mc-sx-0-rja-xa/instrumex-m20-bulkh-dot--p1-8x0-dot-14-0-dot-37-sock-0-dot-5m-cable-8-pins-term-dot--rja-nickl-p-dot-
+01.10.2026 09:00:59	Hirschmann EAGLE40 Security Firewall	https://www.adeptor.no/hirschmann/eagle40-072o6tcc-02/hirschmann-eagle40-security-firewall-eagle40-072o6tccafhsrainxx-dot-x-dot-xx
+29.09.2026 14:21:42	ControlEx 40 Bulkh. 19x2.5 Pin	https://www.adeptor.no/hawke-international/exd40-br-4cpcxrxxa7/controlex-40-bulkh-dot--19x2-dot-5-pin-exd40-s-br-v-19x2-dot-5-p-c-frc-a-7
+29.09.2026 10:39:23	ControlEx 32 Recpt. 6x6 Socket R25 (A1)	https://www.adeptor.no/hawke-international/exd32-cr-3fssxxx2a1/controlex-32-recpt-dot--6x6-socket-r25-a1-exd32-s-cr-v-6x6-s-s-prc-r25-a-1
+29.09.2026 10:27:00	ControlEx 32 Plug 6x6 Pin R25 (A1)	https://www.adeptor.no/hawke-international/exd32-cp-3fpsxpx2a1/controlex-32-plug-6x6-pin-r25-a1-exd32-s-cp-v-6x6-p-s-fpc-r25-a-1
 29.09.2026 09:58:54	ControlEx Insert IN 32 6 x 6mm w/Pins	https://www.adeptor.no/hawke-international/c31inps03-06d/controlex-insert-in-32-6-x-6mm-w-pins-insert-solder-pins-included
 29.09.2026 09:56:24	ControlEx Insert IN 32 6 x 6mm w/Socket	https://www.adeptor.no/hawke-international/c31inss03-06d/controlex-insert-in-32-6-x-6mm-w-socket-insert-solder-socket-included
-28.09.2026 13:32:03	Seek Truck charger for FIREPRO 300	https://www.adeptor.no/fire-max/fc-aaa3/seek-truck-charger-for-firepro-300-truck-charger-for-3-pcs-firepro300
-28.09.2026 13:29:21	Seek Truck charger for FIREPRO 300	https://www.adeptor.no/fire-max/fc-aaa2/seek-truck-charger-for-firepro-300-truck-charger-for-2-pcs-firepro300
-28.09.2026 13:23:01	Seek Truck charger for FIREPRO 300	https://www.adeptor.no/fire-max/fc-aaa/seek-truck-charger-for-firepro-300-truck-charger-for-1-pcs-firepro300
+28.09.2026 13:32:03	Seek Truck charger for FIREPRO 300	https://www.adeptor.no/fire-max/fc-aaa3/seek-truck-charger-for-firepro-300-truck-charger-for-3-pcs-dot--firepro300
+28.09.2026 13:29:21	Seek Truck charger for FIREPRO 300	https://www.adeptor.no/fire-max/fc-aaa2/seek-truck-charger-for-firepro-300-truck-charger-for-2-pcs-dot--firepro300
+28.09.2026 13:23:01	Seek Truck charger for FIREPRO 300	https://www.adeptor.no/fire-max/fc-aaa/seek-truck-charger-for-firepro-300-truck-charger-for-1-pcs-dot--firepro300
 28.09.2026 08:19:04	Fluke 075-CLKT-GBL	https://www.adeptor.no/fluke/flk-075-clkt-gbl/fluke-075-clkt-gbl-75-mm-ir-vindu-for-c-omr%c3%a5de-kwik-twist
-23.09.2026 14:59:13	microSync XS, GPS, HQ oscillator	https://www.adeptor.no/meinberg/xs201hq-slash-dc/microsync-xs-gps-hq-oscillator-8-node-ptp-license-with-display
-23.09.2026 11:14:22	Meinberg IMS GPS/Galileo GNSS Receiver	https://www.adeptor.no/meinberg/ims-clk%7egns183-uc-hq/meinberg-ims-gps-galileo-gnss-receiver-hq-oscillator
-23.09.2026 09:53:11	Hawke Reducer (M) 1 1/4 NPT- (FM) M32 NP	https://www.adeptor.no/hawke-international/476-slash-r-11-slash-4n-32np/hawke-reducer-m-1-1-4-npt-fm-m32-np-exde-hawke-reducer-476
-21.09.2026 13:50:39	ELR 21000 Dynamic Test System 1920kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-64/elr-21000-dynamic-test-system-1920kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 1680kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-56/elr-21000-dynamic-test-system-1680kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 1440kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-48/elr-21000-dynamic-test-system-1440kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 1200kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-40/elr-21000-dynamic-test-system-1200kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 960kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-32/elr-21000-dynamic-test-system-960kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 720kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-24/elr-21000-dynamic-test-system-720kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 480kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-16/elr-21000-dynamic-test-system-480kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 240kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-08/elr-21000-dynamic-test-system-240kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 210kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-07/elr-21000-dynamic-test-system-210kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:38	ELR 21000 Dynamic Test System 180kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-06/elr-21000-dynamic-test-system-180kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:37	ELR 21000 Dynamic Test System 150kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-05/elr-21000-dynamic-test-system-150kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:37	ELR 21000 Dynamic Test System 120kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-04/elr-21000-dynamic-test-system-120kw-high-speed-regenerative-load-solution
-21.09.2026 13:50:37	ELR 21000 Dynamic Test System 90kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-03/elr-21000-dynamic-test-system-90kw-high-speed-regenerative-load-solution
-21.09.2026 13:38:15	ELR 21000 Dynamic Test System 60kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr%7e21000%7edts-02/elr-21000-dynamic-test-system-60kw-high-speed-regenerative-load-solution
-21.09.2026 13:38:15	ELR 21000 Dynamic Test System 30kW	https://www.adeptor.no/regenerative-ac-laster/ea-elr%7e21000%7edts-01/elr-21000-dynamic-test-system-30kw-high-speed-regenerative-load-solution
+23.09.2026 14:59:13	microSync XS, GPS, HQ oscillator	https://www.adeptor.no/meinberg/xs201hq-dc/microsync-xs-gps-hq-oscillator-8-node-ptp-license-with-display
+23.09.2026 11:14:22	Meinberg IMS GPS/Galileo GNSS Receiver	https://www.adeptor.no/meinberg/ims-clk-gns183-uc-hq/meinberg-ims-gps-galileo-gnss-receiver-hq-oscillator
+23.09.2026 09:53:11	Hawke Reducer (M) 1 1/4 NPT- (FM) M32 NP	https://www.adeptor.no/hawke-international/476-r-11-4n-32np/hawke-reducer-m-1-1-4-npt-fm-m32-np-exde-hawke-reducer-476
+21.09.2026 13:50:39	ELR 21000 Dynamic Test System 1920kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-64/elr-21000-dynamic-test-system-1920kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 1680kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-56/elr-21000-dynamic-test-system-1680kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 1440kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-48/elr-21000-dynamic-test-system-1440kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 1200kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-40/elr-21000-dynamic-test-system-1200kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 960kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-32/elr-21000-dynamic-test-system-960kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 720kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-24/elr-21000-dynamic-test-system-720kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 480kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-16/elr-21000-dynamic-test-system-480kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 240kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-08/elr-21000-dynamic-test-system-240kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 210kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-07/elr-21000-dynamic-test-system-210kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:38	ELR 21000 Dynamic Test System 180kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-06/elr-21000-dynamic-test-system-180kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:37	ELR 21000 Dynamic Test System 150kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-05/elr-21000-dynamic-test-system-150kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:37	ELR 21000 Dynamic Test System 120kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-04/elr-21000-dynamic-test-system-120kw-high-speed-regenerative-load-solution
+21.09.2026 13:50:37	ELR 21000 Dynamic Test System 90kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-03/elr-21000-dynamic-test-system-90kw-high-speed-regenerative-load-solution
+21.09.2026 13:38:15	ELR 21000 Dynamic Test System 60kW	https://www.adeptor.no/regenerative-dc-laster/ea-elr-21000-dts-02/elr-21000-dynamic-test-system-60kw-high-speed-regenerative-load-solution
+21.09.2026 13:38:15	ELR 21000 Dynamic Test System 30kW	https://www.adeptor.no/regenerative-ac-laster/ea-elr-21000-dts-01/elr-21000-dynamic-test-system-30kw-high-speed-regenerative-load-solution
 21.09.2026 12:14:24	Power and Frequency Analyzer	https://www.adeptor.no/pendulum-instruments/pfa-127/power-and-frequency-analyzer-15-ghz-14ps-resolution-tcxo
-18.09.2026 14:48:26	Hirschmann BOBCAT 10xFE, 8xTX,2xST	https://www.adeptor.no/hirschmann/brs20-1000m4m4-02/hirschmann-bobcat-10xfe-8xtx-2xst-brs20-1000m4m4-stcu99hhsesxxxxx
-18.09.2026 09:40:51	FibreEx BR1 PR 8way Bulkh. 2m M32 Socket	https://www.adeptor.no/hawke-international/pr8n-br1-ms-2m12-aa/fibreex-br1-pr-8way-bulkh-2m-m32-socket-mm-62-5-125-sc-nickpl
-17.09.2026 12:04:23	Hawke Reducer (M) 3" NPT -(FM) M63 SS	https://www.adeptor.no/hawke-international/476-slash-r-3n-63ss/hawke-reducer-m-3-npt-fm-m63-ss-exde-hawke-reducer-476
-17.09.2026 08:09:39	Orga Obstr. Light - L550-63B-IR-G-15	https://www.adeptor.no/orga-offshore/200100-orga/orga-obstr-light-l550-63b-ir-g-15-eu-medium-intensity-red
-16.09.2026 15:55:35	Installed Option; 25 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax%7e7-bw-25000/installed-option-25-ghz-bandwidth-8-channels
-16.09.2026 15:55:35	Installed Option; 20 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax%7e7-bw-20000/installed-option-20-ghz-bandwidth-8-channels
-16.09.2026 15:55:35	Installed Option; 16 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax%7e7-bw-16000/installed-option-16-ghz-bandwidth-8-channels
-16.09.2026 15:55:35	Installed Option; 13 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax%7e7-bw-13000/installed-option-13-ghz-bandwidth-8-channels
-16.09.2026 15:55:35	Installed Option; 10 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax%7e7-bw-10000/installed-option-10-ghz-bandwidth-8-channels
-16.09.2026 15:55:35	Installed Option; 8 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax%7e7-bw-8000/installed-option-8-ghz-bandwidth-8-channels
+18.09.2026 14:48:26	Hirschmann BOBCAT 10xFE, 8xTX,2xST	https://www.adeptor.no/hirschmann/brs20-1000m4m4-02/hirschmann-bobcat-10xfe-8xtx-2xst-brs20-1000m4m4-stcu99hhsesxx-dot-x-dot-xx
+18.09.2026 09:40:51	FibreEx BR1 PR 8way Bulkh. 2m M32 Socket	https://www.adeptor.no/hawke-international/pr8n-br1-ms-2m12-aa/fibreex-br1-pr-8way-bulkh-dot--2m-m32-socket-mm-62-5-125-sc-nick-dot-pl-dot-
+17.09.2026 12:04:23	Hawke Reducer (M) 3" NPT -(FM) M63 SS	https://www.adeptor.no/hawke-international/476-r-3n-63ss/hawke-reducer-m-3-npt-fm-m63-ss-exde-hawke-reducer-476
+17.09.2026 08:09:39	Orga Obstr. Light - L550-63B-IR-G-15	https://www.adeptor.no/orga-offshore/200100-orga/orga-obstr-dot--light-l550-63b-ir-g-15-eu-medium-intensity-red
+16.09.2026 15:55:35	Installed Option; 25 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax-7-bw-25000/installed-option-25-ghz-bandwidth-8-channels
+16.09.2026 15:55:35	Installed Option; 20 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax-7-bw-20000/installed-option-20-ghz-bandwidth-8-channels
+16.09.2026 15:55:35	Installed Option; 16 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax-7-bw-16000/installed-option-16-ghz-bandwidth-8-channels
+16.09.2026 15:55:35	Installed Option; 13 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax-7-bw-13000/installed-option-13-ghz-bandwidth-8-channels
+16.09.2026 15:55:35	Installed Option; 10 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax-7-bw-10000/installed-option-10-ghz-bandwidth-8-channels
+16.09.2026 15:55:35	Installed Option; 8 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax-7-bw-8000/installed-option-8-ghz-bandwidth-8-channels
 15.09.2026 13:00:41	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2120-03/grs2000-ethernet-switch-grs2120-gf8f8-ff800-000-skkv9hhe2s99
-09.09.2026 14:39:53	Fluke-TC03A 9HZ infrarødt kamera iSee	https://www.adeptor.no/fluke/fluke-tc03a%7e9hz/fluke-tc03a-9hz-infrar%c3%b8dt-kamera-isee-jq2-9hz-384x288px-for-android-usb-c
-09.09.2026 12:28:31	Hirschmann BOBCAT 12xTX	https://www.adeptor.no/hirschmann/brs20-12009999-06/hirschmann-bobcat-12xtx-brs20-12009999-ttcy99hhsesxxxxx
+09.09.2026 14:39:53	Fluke-TC03A 9HZ infrarødt kamera iSee	https://www.adeptor.no/fluke/fluke-tc03a-9hz/fluke-tc03a-9hz-infrar%c3%b8dt-kamera-isee-jq2-9hz-384x288px-for-android-usb-c
+09.09.2026 12:28:31	Hirschmann BOBCAT 12xTX	https://www.adeptor.no/hirschmann/brs20-12009999-06/hirschmann-bobcat-12xtx-brs20-12009999-ttcy99hhsesxx-dot-x-dot-xx
 09.09.2026 09:48:08	Fluke-ii01, iSee akustisk kamera	https://www.adeptor.no/fluke/fluke-ii01/fluke-ii01-isee-akustisk-kamera-for-android-16-mems-mikrofoner
-08.09.2026 15:36:25	Hirschmann OpenRail RSP35, 8x FE 3x GE	https://www.adeptor.no/hirschmann/rsp35-08033o6zts-27/hirschmann-openrail-rsp35-8x-fe-3x-ge-rsp35-08033o6zt-skkv9hpi2sxxxxx
-08.09.2026 10:05:51	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/g
+08.09.2026 15:36:25	Hirschmann OpenRail RSP35, 8x FE 3x GE	https://www.adeptor.no/hirschmann/rsp35-08033o6zts-27/hirschmann-openrail-rsp35-8x-fe-3x-ge-rsp35-08033o6zt-skkv9hpi2sxx-dot-x-dot-xx
+08.09.2026 10:05:51	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-20/grs2000-ethernet-switch-grs2030-gh8h8-fh800-aj2-skkv9hhe2a99
+08.09.2026 10:03:27	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2030-19/grs2000-ethernet-switch-

@@ -1,4 +1,4 @@
-# SC-1715 onsite.pk · feed_auto · https://www.onsite.pk/index.php/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-1715 onsite.pk · feed_auto · https://www.onsite.pk/index.php/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Wed, 11 Nov 2026 13:06:50 +0000	Moxa 8-port RS-232/422/485 Rackmount Serial device NPort 5650-8	https://www.onsite.pk/index.php/moxa-8-port-rs-232-422-485-rackmount-serial-device-servers-nport-5650-8/
 Mon, 09 Nov 2026 13:16:06 +0000	Radmin 3 Volume License Package	https://www.onsite.pk/index.php/radmin-3-volume-license-package/
 Mon, 09 Nov 2026 13:14:25 +0000	Radmin 3 150-License Package	https://www.onsite.pk/index.php/radmin-3-150-license-package/

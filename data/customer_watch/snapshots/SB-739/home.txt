@@ -1,4 +1,4 @@
-# SB-739 arcdyn.com · home · https://arcdyn.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-739 arcdyn.com · home · https://arcdyn.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Security Camera Supplier & Distributor | NDAA Options | Arcdyn The store will not work correctly when cookies are disabled.
 Customize
 Active CMS Builder
@@ -208,7 +208,7 @@ Learn More Coming Soon to App Store
 New for Apple TV Your Apple TV Is a Surveillance Monitor
 Stream IP cameras, monitor grids, and control PTZ — from your couch or your control room. No cloud. No subscription.
 Explore ArcdynTV Now Available on the App Store
-2,000+ Dealers
+1,500+ Dealers
 Trusted by security professionals nationwide
 3-Year Warranty
 Industry-leading coverage on all equipment
@@ -232,7 +232,7 @@ Premium Components Only
 We use high-quality parts and rigorous testing to ensure reliability. 3-year warranty and rock-solid performance reduce costly callbacks.
 Quality Promise →
 Control4 Integration
-Custom Control4 driver integrates camera streams, snapshots, and smart event automation—free for all Arcdyn dealers.
+Custom Control4 driver integrates camera streams, snapshots, and smart event automation—free with a purchase of $750 or more.
 Integration Details →
 Vertical Market Expertise
 Tailored solutions for cannabis facilities, car washes, multi-site retail, schools, storage, and more. Industry-specific guidance available.
@@ -279,7 +279,7 @@ Explore All Solutions
 Seamless Control4 Integration
 Our custom Control4 driver integrates IP camera streams and snapshots directly into your Control4 interface, utilizing NVR's built-in PoE ports for clean installation.
 Enable automation based on camera smart events—trigger lights, lock doors, send notifications, or activate scenes when motion is detected in specific zones.
-Free for all Arcdyn dealers
+Free with a purchase of $750 or more
 Stream multiple cameras simultaneously
 Event-based automation triggers
 Full PoE integration
@@ -325,5 +325,4 @@ Trusted by Security Professionals Nationwide
 The team at Arcdyn has been incredible to work with. From answering questions before our first order, through helping us through the details on our first install, they have been the BEST. We will not be looking anywhere else but Arcdyn for our surveillance purchases in the future!
 M
 Maitland S.
-Security Installation Professional
-I 
+Security Installati

@@ -1,4 +1,4 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
@@ -109,9 +109,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-RJ45 Connectors
 RJ45 Boots
 Crimping Tools
+RJ45 Connectors
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -250,8 +250,8 @@ Shop All GOLF Products
 MikroTik Ethernet Routers 11 products
 MikroTik WiFi Routers 14 products
 MikroTik Access Points (cAP & wAP) 5 products
-MikroTik 5GHz Wireless (ISP) 16 products
-MikroTik 60GHz Wireless (ISP) 6 products
+MikroTik 5GHz Wireless (ISP) 14 products
+MikroTik 60GHz Wireless (ISP) 4 products
 MikroTik LTE Products 10 products
 MikroTik Cloud Core Routers (CCR) 6 products
 MikroTik Cloud Router Switches (CRS) 12 products
@@ -272,10 +272,10 @@ Reolink WiFi Cameras 9 products
 Reolink PoE Cameras 20 products
 Reolink Home Hub 1 products
 Reolink NVR 7 products
-Reolink Accessories 12 products
+Reolink Accessories 13 products
 Shop All Reolink Products
 Ruijie Reyee Home Routers (EW Series) 7 products
-Ruijie Reyee Gateway Routers (EG Series) 9 products
+Ruijie Reyee Gateway Routers (EG Series) 10 products
 Ruijie Reyee Access Points (RAP Series) 18 products
 Ruijie Reyee Range Extenders & Mesh Units 1 products
 Ruijie Reyee Switches 32 products
@@ -308,7 +308,7 @@ Ratchet Sets 3 products
 Miscellaneous Tools 2 products
 Shop All UF-Tools Products
 UltraLAN Antennas 5 products
-UltraLAN Brackets 9 products
+UltraLAN Brackets 10 products
 UltraLAN Cabinet Accessories 28 products
 UltraLAN Cabinets & Racks 36 products
 UltraLAN Coaxial Cable (RG59) 4 products
@@ -395,9 +395,9 @@ Outdoor FTP Cable
 Coaxial Cable (RG59)
 UltraLAN Ethernet Patch Cords Show All
 Termination Hardware Show All
-RJ45 Connectors
 RJ45 Boots
 Crimping Tools
+RJ45 Connectors
 Wall Plates / Keystones / Surface Boxes Show All
 Trunking Show All
 Network Tools & Testers Show All
@@ -498,4 +498,4 @@ Yeelight
 Keypads & Buttons 6 products
 Sensors 18 products
 Hubs 5 products
-Range Extende
+Range Exten

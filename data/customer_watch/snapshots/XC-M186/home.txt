@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-14T09:07:48Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -230,6 +230,7 @@ KnightPlastic
 Optex
 Orisec
 Paradox
+Politec
 RISCO
 Sensomag
 SEWOSY
@@ -450,6 +451,7 @@ Dell
 Digitus
 EIZO
 Etherwan
+Genetec Certified
 Hikvision
 Iiyama
 Neomounts
@@ -753,6 +755,8 @@ Readers
 2N
 acre
 Akuvox
+Alpha
+ASSA ABLOY
 Axis Communications
 Dahua
 Eden Innovations
@@ -1125,6 +1129,7 @@ Ajax
 Aritech
 Axis Communications
 Bysecur
+ComNet
 Digitus
 Hikvision
 Honeywell Security
@@ -1197,6 +1202,8 @@ Power Supplies & Batteries
 Cable & Installation
 New
 SmartSD News
+SmartSD Spain expands IP intercom and access control portfolio with 2N
+SmartSD Spain has added 2N to its portfolio of manufacturers, expanding its range of IP intercom and access control solutions for installers and systems integrators.
 SmartSD Spain strengthens its portfolio with Hanwha Vision
 This addition strengthens our offering in video surveillance, artificial intelligence, cybersecurity and advanced video management.
 Inim Home 3.0: Faster and More User-Friendly
@@ -1211,8 +1218,6 @@ VUPoint AI cameras in black
 Within the VUPoint range, RISCO is expanding its portfolio with a wide selection of cameras in black housings.
 Inferno sirens & strobes
 Alarmtech introduces a new generation of sirens and strobes.
-Sergio Römer
-SmartSD welcomes Sergio Römer as its new Category Manager - Connected Services.
 SmartSD trainings
 Acre SPCevo
 16 November
@@ -1321,8 +1326,6 @@ Ajax EN54 Hands-On Training
 10 December
 @ SmartSD Breda (NL)
 Axis Webinars
-13 November
-@ Online
 11 December
 @ Online
 15 December
@@ -1357,11 +1360,4 @@ Netherlands - T +31765792577
 BeLux - T +3233698080
 E info@smartsd.com
 Spain - T +34961594646
-E info@smartsd.com
-France - T +33 2 19 00 59 25
-E info@smartsd.fr
-Contact and Our stores
-Overview of our branches and contact form
-Terms of sale
-Netherlands - SmartSD BV (NL)
-BeLux - Smar
+E info@smartsd

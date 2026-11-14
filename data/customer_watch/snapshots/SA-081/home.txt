@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,36 +146,37 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Rame
-Inseritore per morsettiere tipo 110 IDC | 4Net
+Splitter Fibra Ottica
+Splitter Monomodale Sc Apc 1 In 16 Out
 Esegui l'accesso per visualizzare i prezzi
 +
-L2/ Web Smart
-Planet GS-4210-16P2S: Switch Gigabit Ethernet PoE L2 16-Porte 10/100/1000-T
+Esaurito
+L3
+PLANET SGS-6341-24P6X: switch Layer 3 stackable PoE+ 24 porte Gigabit + 6x10G SFP+
+Esegui l'accesso per visualizzare i prezzi
++
+UPS Multipower
+Eurogroup Multipower 650: UPS Rack 19″ 650 VA / 360 W | MTPMM065010R
 Esegui l'accesso per visualizzare i prezzi
 +
 Adattatori per inserti RJ45
-Adattattore Per Frutto Serie Legrand Vela Nero 4Net
+Adattattore Per Frutto Serie Vimar Idea Bianco 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Unmanaged
-4Net 4N-DG04P2F: switch industriale PoE+ DIN 4 porte + 2 SFP, 65 W
+Loose Armato Metallico LSZH OS2 G.652.D
+4Net Cavo fibra ottica OS2 G.652.D 24 fibre loose armato LSZH Eca | CF09A24LSS2
 Esegui l'accesso per visualizzare i prezzi
 +
-Categoria 5E
-Patch Cord Ftp Cat 5E 3,0M 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-Bussole
-Bussola SC simplex multimodale OM3 | 4Net
+L3
+Planet SGS-6310-48T6X: Switch Layer 3 stackable, 48 Gigabit + 6 SFP+ 10G
 Esegui l'accesso per visualizzare i prezzi
 +
 Passacavi, Pannelli ciechi e Barra di alimentazione
-4Net CPD900402UCC: cassetto porta documenti rack 19″ 2U con chiave RAL 9004
+Barra Alimentazione 19″ 1,5U Con 8 Prese e Interruttore Luminoso
 Esegui l'accesso per visualizzare i prezzi
 +
-Unmanaged
-Media Converter Ridondante 10/100/1000Base-T A 2 Porte Gigabit S
+Patch Panel 19"
+Pannello di Permutazione 48 Porte UTP Cat.6A 19” | Patch Panel 4Net
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta

@@ -1,4 +1,5 @@
-# SC-714 avant.by · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxIpyIu2NIr4HetIhYR70pw · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-714 avant.by · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCxIpyIu2NIr4HetIhYR70pw · fetched 2026-11-14T09:07:48Z · HTTP 200
+2026-11-13T10:26:11+00:00	Как подключить терминал распознавания лиц к контроллеру СКУД по Wiegand 26 или Wiegand 34?🤔	https://www.youtube.com/shorts/_sGWRoVrh2o
 2026-11-12T09:55:11+00:00	Камера реагирует на всё? | Обычная детекция или умная аналитика🧑🏻‍💻	https://www.youtube.com/shorts/LOptRIAZRfU
 2026-11-11T09:57:30+00:00	Хотите стать сертифицированным специалистом Hikvision? Приглашаем вас на курс HCSA!	https://www.youtube.com/shorts/AOEJmujDrWU
 2026-11-10T10:32:03+00:00	Как получить обзор 180°: две камеры или одна панорамная?	https://www.youtube.com/shorts/J6yZ841Mqq4
@@ -13,4 +14,3 @@
 2026-10-29T09:00:10+00:00	Плату на помойку: последствия грозы за 30 секунд	https://www.youtube.com/shorts/aMumBnsfMog
 2026-10-28T12:17:28+00:00	Охранник смотрит на 100 камер. А что происходит на остальных? | HikCentral Professional	https://www.youtube.com/shorts/17CS6UoW23A
 2026-10-27T11:05:30+00:00	🔐 Группы доступа в HikCentral: как разделить зоны для сотрудников?	https://www.youtube.com/shorts/huGKJQEMdoU
-2026-10-26T09:15:22+00:00	«Пронесет?» — так думают 90% владельцев объектов до первого удара молнии⚡️	https://www.youtube.com/shorts/NBp2i6O3Plk

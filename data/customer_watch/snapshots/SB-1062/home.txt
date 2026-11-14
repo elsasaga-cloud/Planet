@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · home · https://www.odoo.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1062 odoo.com · home · https://www.odoo.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Open Source ERP and CRM | Odoo
 Skip to Content
 Odoo
@@ -180,8 +180,8 @@ Micro entreprise (1-5 employés) - Français
 Petite entreprise (6-50 employés) - Français
 Empresas Pequeñas (<50 empleados) - Español
 Large company (250+ employees)
-Denver, CO Business Show
-Dec 1, 2026
+Accounting Academy - Charlotte, North Carolina
+Nov 20, 2026
 Register ⟶
 Accounting
 Knowledge

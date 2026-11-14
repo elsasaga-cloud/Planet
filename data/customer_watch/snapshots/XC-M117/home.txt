@@ -1,4 +1,4 @@
-# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Sphinx France, solutions M2M et IIoT
 Connexion
 ou
@@ -159,6 +159,8 @@ Système ferroviaire intelligent
 Connectivité 5G pour véhicules autonomes
 Système Edge AI pour AGV et AMR
 Système de surveillance pour véhicules de secours
+Véhicule sapeur pompier connecté
+Véhicules de police connectés
 Militaire / Défense
 Système Edge AI performant pour les opérations militaires
 Système Edge AI pour les véhicules terrestres sans pilote

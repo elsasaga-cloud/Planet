@@ -1,4 +1,4 @@
-# SB-932 acceed.com · news_1 · https://acceed.com/de/news · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-932 acceed.com · news_1 · https://acceed.com/de/news · fetched 2026-11-14T09:07:48Z · HTTP 200
 Neuigkeiten | acceed
 info@acceed.com
 +49 211 938898 0
@@ -50,6 +50,10 @@ SUCHEN SIE DIE PASSENDE
 INDUSTRIELLE LÖSUNG?
 Entdecken Sie Embedded-, Kommunikations- und Automatisierungslösungen für Ihre Anwendung.
 Neuigkeiten
+Nuvo-11501: Industrielle KI-Lasten in rauer Umgebung bewältigen
+Der neue Industrie-Box-PC Nuvo-11501 ist der jüngste Vertreter der Neousys-11000-Familie und übernimmt darin die Rolle des kosteneffizienten Allrounders. Mit seiner Kombination aus hoher…
+Weiterlesen
+13.11.2026
 GT-92: Lüfterloses KI-Rack-System für den Dauerbetrieb
 Industrielle Anwendungen gieren nach Rechenleistung am Netzwerkrand, dort, wo Daten entstehen. Echtzeitfähige KI-Systeme für Bildverarbeitung, Qualitätskontrolle oder autonome Maschinen sollen große…
 Weiterlesen
@@ -207,8 +211,4 @@ Nuvo-8111 ist eine neu entwickelte Baureihe kosteneffizienter Rechnerplattformen
 Weiterlesen
 11.11.2022
 PXI/PXIe-Systeme: Aufwand reduzieren mit mobiler PXI-Lösung
-Das Bild, das viele vor Augen haben, wenn sie an den Arbeitsplatz eines Konstrukteurs und Hardware-Entwicklers denken: ein chaotischer Arbeitstisch voller Kabel, Klemmen und Leiterplatten, gekrönt…
-Weiterlesen
-21.10.2022
-MCM-216/MCM-218: Autonome DAQ-Engine wertet Sensordaten aus
-Essentielle Voraussetzung für intelligente Abläufe in Smart-Factory-Szenarien und effiziente Automatisierung ist die Erfassung von Zuständen
+Das Bild, das viele vor Augen haben, wenn sie an den Arbeitsplatz eines Konstrukteurs und Hardware-Entwicklers denken: ein chaotischer Arbeitstisc

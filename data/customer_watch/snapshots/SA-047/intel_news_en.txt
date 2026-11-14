@@ -1,7 +1,2 @@
-# SA-047 sge.com.tr · intel_news_en · https://news.google.com/rss/search?q=%22SGE%20M%C3%BChendislik%20Elektrik%20Otomasyon%20Bilgi%20%C4%B0%C5%9Flem%20%20%20%C5%9Eti%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-13T09:45:13Z · HTTP 503
-Sorry... G o o g l e
-Sorry...
-We're sorry...
-... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
-See Google Help for more information.
-Google Home
+# SA-047 sge.com.tr · intel_news_en · https://news.google.com/rss/search?q=%22SGE%20M%C3%BChendislik%20Elektrik%20Otomasyon%20Bilgi%20%C4%B0%C5%9Flem%20%20%20%C5%9Eti%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-14T09:07:48Z · HTTP 200
+

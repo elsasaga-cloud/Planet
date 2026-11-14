@@ -1,4 +1,4 @@
-# SB-433 rister.com · news_1 · https://rister.com/blog/noticias · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-433 rister.com · news_1 · https://rister.com/blog/noticias · fetched 2026-11-14T09:07:48Z · HTTP 200
 Noticias - RISTER
 Configuración sobre cookies
 Preferencias sobre cookies
@@ -11,13 +11,13 @@ Cookies necesarias
 Siempre activo
 Estas cookies son extrictamente necesarias para el funcionamiento de la página, las puede desactivar cambiando la configuración de su navegador pero no podrá usar la página con normalidad.
 Cookies usadas
+http://rister.com - __atuvs
+http://rister.com - cookielaw_module
 http://rister.com - iqitpopup_14513
 http://rister.com - PrestaShop-58b24e2408e8f1b16d45391647d714ff
 http://rister.com - PrestaShop-a7f2abeee526afe3451c909c3e813a33
 http://rister.com -
 http://rister.com - __atuvc
-http://rister.com - __atuvs
-http://rister.com - cookielaw_module
 Cookies funcionales
 Estas cookies proveen información necesarias a aplicaciones de la propia web o integradas de terceros, si las inhabilita puede que encuentre algunos problemas de funcionarmiento en la página.
 Cookies usadas

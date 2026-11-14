@@ -1,4 +1,4 @@
-# SB-687 telkotim.com · sitemap · https://www.telkotim.com/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-687 telkotim.com · sitemap · https://www.telkotim.com/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
 2021-11-11T18:43:29+00:00	https://www.telkotim.com/
 2021-11-11T18:43:29+00:00	https://www.telkotim.com/hakkimizda
 2021-11-11T18:43:29+00:00	https://www.telkotim.com/hcs

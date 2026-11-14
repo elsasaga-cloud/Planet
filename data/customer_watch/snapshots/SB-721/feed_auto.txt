@@ -1,4 +1,4 @@
-# SB-721 woodcomm.ie · feed_auto · https://woodcomm.ie/feed/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-721 woodcomm.ie · feed_auto · https://woodcomm.ie/feed/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Thu, 08 Oct 2026 13:22:15 +0000	Cat6a Cable Price Ireland	https://woodcomm.ie/cat6a-cable-price-ireland/
 Tue, 06 Oct 2026 10:09:06 +0000	Corning Structured Cabling Approved for Use on OPW Projects in Ireland	https://woodcomm.ie/corning-opw-approved-structured-cabling-ireland/
 Wed, 16 Sep 2026 11:20:33 +0000	Wood Communications Appointed Key Authorised EPI Training Partner in Ireland	https://woodcomm.ie/wood-communications-appointed-key-authorised-epi-training-partner-ireland/

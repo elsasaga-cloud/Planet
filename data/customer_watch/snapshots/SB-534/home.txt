@@ -1,4 +1,4 @@
-# SB-534 elfcams.com · home · https://www.elfcams.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-534 elfcams.com · home · https://www.elfcams.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Elfcam | Votre spécialiste en équipements fibre optique et réseau
 ELFCAM
 Votre partenaire N°1 en solutions de communication et de connectivité De A à Z pour Data Centres, FTTx et réseaux télécoms
@@ -391,7 +391,8 @@ Préférences de cookies
 ×
 Lorsque vous visitez un site web, celui-ci peut stocker ou récupérer des informations sur votre navigateur, principalement sous la forme de cookies. Ces informations peuvent porter sur vous, vos préférences ou votre appareil et sont principalement utilisées pour que le site fonctionne comme vous l'attendez. Parce que nous respectons votre droit à la vie privée, vous pouvez choisir de ne pas autoriser certains types de cookies.
 Accepter tous les cookies
+Tout refuser
 Gérer les préférences de consentement
 Cookies Strictement Nécessaires
 Toujours actif
-Ces cookies sont nécessaires au fonctionnement du site web et ne peuvent pas être désactivés. Ils ne sont généralement définis qu'en réponse à des actions que vous effectuez, telles que le r
+Ces cookies sont nécessaires au fonctionnement du site web et ne peuvent pas être désactivés. Ils ne sont généralement définis qu'en réponse à des actions que vous effectuez, te

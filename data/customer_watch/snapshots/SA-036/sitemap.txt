@@ -1,4 +1,4 @@
-# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-14T09:07:48Z · HTTP 200
 	https://svn-video.ru/wi-fi-oborudovanie/kabel-utp-4pr-24awg-cat5e-305m
 	https://svn-video.ru/konnektery-razemy/soedinitel-rca-papa--rca-papa-
 	https://svn-video.ru/index.php?route=product/product&product_id=672
@@ -26,7 +26,6 @@
 	https://svn-video.ru/ip-camery/svn-500sbc25fc
 	https://svn-video.ru/ip-camery/kupolnaya-kamera-ip-svn-500sl20kpoe-2-8mm-5mp
 	https://svn-video.ru/ip-camery/ulichnaya-kamera-ip-svn-800mb405hpoe-2-7-13-5mm-8mp
-	https://svn-video.ru/ip-camery/svn-800mbb60h
 	https://svn-video.ru/ip-camery/svn-800sba20mpoe
 	https://svn-video.ru/ip-camery/svn-800sbc25fc
 	https://svn-video.ru/ip-camery/svn-800sl20fc
@@ -229,3 +228,4 @@
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/sonyhit512
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/sonyhit521
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500bqaf3
+	https://svn-video.ru/gotovye-komplekty-video

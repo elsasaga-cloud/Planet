@@ -1,5 +1,9 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-13T09:45:13Z · HTTP 200
-13.11.2026 11.00.01	Preterm MM 4F AXAI LC/PC-LC/PC, 30 m	https://www.fiberworks.no/fiberworks-as/pk-g04tb-lcp-lcp-030/preterm-mm-4f-axai-lc-pc-lc-pc-30-m-62-5-om1-bif-900%c2%b5m-tails-l1-8-1-8-m
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-14T09:07:48Z · HTTP 200
+13.11.2026 14.05.43	Patch MPO12(m) - MPO12(f), pol. B, 1 m	https://www.fiberworks.no/fiberworks-as/p-om4-m3m-m1mbm1f-01/patch-mpo12m-mpo12f-pol-dot--b-1-m-50-om4-bif-%c3%b83mm-magenta-super-ll
+13.11.2026 13.44.57	SFP, 100/155Mbps FE, 2km, DDM, I-temp	https://www.fiberworks.no/fiberworks-as/sfp-100basefx-rgd-fn/sfp-100-155mbps-fe-2km-ddm-i-temp-1300nm-9db-mm-fortinet
+13.11.2026 11.22.06	Preterm MM G24 AXAI LC/PC-LC/PC, 30 m	https://www.fiberworks.no/fiberworks-as/pk-g24tb-lcp-lcp-030/preterm-mm-g24-axai-lc-pc-lc-pc-30-m-62-5-om1-bif-900%c2%b5m-haler-l1-8-1-8-m
+13.11.2026 11.13.58	Preterm MM G24 AXAI LC/PC-LC/PC, 25 m	https://www.fiberworks.no/fiberworks-as/pk-g24tb-lcp-lcp-025/preterm-mm-g24-axai-lc-pc-lc-pc-25-m-62-5-om1-bif-900%c2%b5m-haler-l1-8-1-8-m
+13.11.2026 11.00.01	Preterm MM G4 AXAI LC/PC-LC/PC, 30 m	https://www.fiberworks.no/fiberworks-as/pk-g04tb-lcp-lcp-030/preterm-mm-g4-axai-lc-pc-lc-pc-30-m-62-5-om1-bif-900%c2%b5m-haler-l1-8-1-8-m
 13.11.2026 10.34.43	Preterm MM G4 AXAI LC/PC-LC/PC, 25 m	https://www.fiberworks.no/fiberworks-as/pk-g04tb-lcp-lcp-025/preterm-mm-g4-axai-lc-pc-lc-pc-25-m-62-5-om1-bif-900%c2%b5m-haler-l1-8-1-8-m
 12.11.2026 11.40.42	Snor SM SPX SC/APC-LC/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-sca-lcu-25/snor-sm-spx-sc-apc-lc-upc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
 12.11.2026 10.55.18	Snor SM SPX SC/APC-SC/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a2-s3y-sca-scu-25/snor-sm-spx-sc-apc-sc-upc-25-m-9-os2-g-dot-657-dot-a2-%c3%b83mm-gul
@@ -58,8 +62,4 @@
 30.10.2026 10.40.00	SG33 Signal Generator	https://www.fiberworks.no/vesala-oy/ves-sg33/sg33-signal-generator
 28.10.2026 10.21.32	Fiberworks 40+1 DWDM Mux+Demux 19" 1RU	https://www.fiberworks.no/fiberworks-as/f-dmux-40f1-2160-mlu/fiberworks-40-plus-1-dwdm-mux-plus-demux-19-1ru-ch-dot--21-60-wide-1310wb-monitor-lc-upc
 28.10.2026 08.43.03	SFP+, 10Gbase-T Copper Interface, I-temp	https://www.fiberworks.no/fiberworks-as/sfp-10gbase-t-80-fn/sfp-plus--10gbase-t-copper-interface-i-temp-rj45-80m-on-cat6-7-fortinet
-27.10.2026 14.57.37	FX95 Multi-Fiber Optical Loss Test Set	https://www.fiberworks.no/veex/vx-fx95-kit/fx95-multi-fiber-optical-loss-test-set-1310-1550nm-native-mpo-24-apcm-key-up
-27.10.2026 10.59.43	Snor SM SPX LC/UPC-LC/UPC 10 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-10/snor-sm-spx-lc-upc-lc-upc-10-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 7 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-07/snor-sm-spx-lc-upc-lc-upc-7-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 5 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-05/snor-sm-spx-lc-upc-lc-upc-5-m-9-os2-g-dot-657-dot-a2-%c3%b82mm-bl%c3%a5
-27.10.2026 10.59.42	Snor SM SPX LC/UPC-LC/UPC 3 m	https://www.fiberworks.no/fiberworks-as/p-sm9-s2b-lcu-lcu-03/snor-sm-spx-lc-upc-lc-upc-3-m-9-os2-g-dot-657-
+27.10.2026 14.57.37	FX95 Multi-Fiber Optical Loss Test Set	https://www.fiberworks.no/veex/vx-fx95-kit/fx95-multi-fiber-optic

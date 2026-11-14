@@ -1,4 +1,4 @@
-# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 EZY Infotech d.o.o.
 " />
 AUTORIZACIJA
@@ -594,11 +594,14 @@ Mailing lista
 5
 6
 ARTIKLI NA AKCIJI
+LEN-R20X1S0EM00-S
+Lenovo reThink ThinkPad L14 G2 i5-1135G7/8GB/...
+--,-- EUR
+XIA-ASM01G
+Xiaomi Bluetooth Speaker Mini, 6W
+--,-- EUR
 LEN-R20T0004MGE-B
 Lenovo reThink ThinkPad T14s G1 i5-10210U/16G...
---,-- EUR
-RFB-81M07EA
-Refurbished HP Envy x360 2-in-1 Ryzen 5 7530U...
 --,-- EUR
 NTC-NOC-NH-D15-CHBL
 Noctua NH-D15 chromax.black, CPU Cooler
@@ -615,52 +618,49 @@ ASRock Gaming Monitor PGO27QFS, 27", QHD, Fla...
 ASR-PG27FFX2A
 ASRock Gaming Monitor PG27FFX2A, 27", FHD, IP...
 --,-- EUR
-ASR-PG27QFT2A
-ASRock Gaming Monitor PG27QFT2A, 27", QHD, IP...
---,-- EUR
 NOVI ARTIKLI
-XIA-BHR9462EU
-Xiaomi 120W HyperCharge Combo (TYPE-A) EU
+GLG-DSCBC16BK
+Gaston Luga Däsh Cushioned Briefase - 16" Bla...
 --,-- EUR
-XIA-76065
-Xiaomi Smart Band 10 Pro NFC, Midnight Black
+GLG-DA100R
+Gaston Luga Däsh Backpack - 14" Black
 --,-- EUR
-XIA-66962
-Xiaomi Soundbar Pro 2.0 ch
+GLG-DSCLS14OL
+Gaston Luga Däsh Cushioned Case - 14" Olive
 --,-- EUR
-XIA-65687
-Xiaomi Band 10 Ceramic Edition, Pearl White
+GLG-DSCLS16BK
+Gaston Luga Däsh Cushioned Case - 16" Black
 --,-- EUR
-XIA-70274
-Xiaomi Watch S5 46mm, Ceramic Blue
+GLG-DSCO28BK
+Gaston Luga Däsh Carry-on Backpack 28L Black
 --,-- EUR
-XIA-68699
-Xiaomi Redmi Watch 6, Obsidian Black
+GLG-DSEDL16OL
+Gaston Luga Däsh Everyday Laptop Bag - 16" Ol...
 --,-- EUR
-XIA-76067
-Xiaomi Smart Band 10 Pro NFC, Glacier Silver
+GLG-DSMTOGBK
+Gaston Luga Däsh Multi-Tech Organizer Black
 --,-- EUR
-XIA-66954
-Xiaomi Soundbar Pro 2.1 ch
+GLG-DSWPCBK
+Gaston Luga Däsh Waterproof Phone Case - Blac...
 --,-- EUR
 IZDVOJENI ARTIKLI
-FDS-FD-C-EPO1A-05
-Fractal Design Epoch White TG RGB Clear Tint,...
+VEN-NCAB0
+Vention USB-C 2-Pack Wireless Lavalier Microp...
+--,-- EUR
+VEN-THTHC
+Vention Multi-function USB-C to HDMI/VGA/USB-...
+--,-- EUR
+VEN-AFFH0
+Vention HDMI Switch 3 In 1 Out Gray Metal Typ...
+--,-- EUR
+GEM-SPK-BT-LED-07
+Gembird BlueTooth LED speaker, 5W, black
 --,-- EUR
 ASR-Z890I NOVA WIFI
 Asrock Intel LGA1851 Z890I NOVA WIFI
 --,-- EUR
 XIA-M2319E1
 Xiaomi OpenWear Stereo, Cosmic Gray
---,-- EUR
-ASR-Z890 PRO RS
-Asrock Intel LGA1851 Z890 PRO RS
---,-- EUR
-XIA-59561
-Xiaomi Redmi Buds 6 Pro, Glacier White
---,-- EUR
-ASR-B860 PRO RS WIFI
-Asrock Intel LGA1851 B860 PRO RS WIFI
 --,-- EUR
 XIA-MJKDDYJ02HT
 Xiaomi Portable Photo Printer 1S

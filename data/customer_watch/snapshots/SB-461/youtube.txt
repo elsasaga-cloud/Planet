@@ -1,4 +1,5 @@
-# SB-461 EMOS · youtube · https://www.youtube.com/user/2012EMOS · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-461 EMOS · youtube · https://www.youtube.com/user/2012EMOS · fetched 2026-11-14T09:07:48Z · HTTP 200
+2026-11-13T14:52:16+00:00	GP baterky v každé fázi tvého života! 🔋	https://www.youtube.com/shorts/xc13hX2jqyU
 2026-10-16T06:24:06+00:00	EMOS GoSmart | Le preprosto jutro	https://www.youtube.com/shorts/J7dAAVxsq7o
 2026-10-16T06:21:46+00:00	EMOS GoSmart | Jednoducho jednoduché ráno	https://www.youtube.com/shorts/v4Xjs_WD1_I
 2026-10-16T06:20:08+00:00	EMOS GoSmart | Egyszerűen könnyű reggelek	https://www.youtube.com/shorts/xSUwefYuTIs
@@ -13,4 +14,3 @@
 2026-10-15T14:11:06+00:00	EMOS Gosmart | Po prostu, prosty poranek	https://www.youtube.com/watch?v=hU3tm2H49KQ
 2026-10-15T14:08:47+00:00	EMOS Gosmart | Jednoducho jednoduché ráno	https://www.youtube.com/watch?v=u2wYFPNVyN8
 2026-10-15T13:02:02+00:00	EMOS Gosmart | Jednoduše jednoduché ráno	https://www.youtube.com/watch?v=sMfaAAs5EcA
-2026-10-05T05:30:34+00:00	GoSmart PROFI Meteostanice | GoSmart PROFI Weather Station | EMOS E6000	https://www.youtube.com/shorts/pbDaHdE3Jug

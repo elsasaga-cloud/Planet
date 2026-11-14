@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -46,17 +46,6 @@ Cikkszám: HOBHTC-0022
 28.640 Ft + ÁFA
 (36.373 Ft)
 2 db raktáron
-db
-Kosárba
-Részletek
-Szellőző panel 1E szürke DN-97692
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97692
-Ár:
-2.140 Ft + ÁFA
-(2.718 Ft)
-Előrendelhető h
 db
 Kosárba
 Részletek
@@ -126,6 +115,17 @@ Cikkszám: K289543TD
 db
 Kosárba
 Részletek
+Szellőző panel 1E szürke DN-97692
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97692
+Ár:
+2.140 Ft + ÁFA
+(2.718 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 8P8C mod.dugasz,árnyékolt Cat.6 átmenő P88R5Z50V2ST
 ÚJDONSÁG!
 Villámnézet
@@ -155,7 +155,7 @@ Cikkszám: DGYÜZMF
 Ár:
 1.990 Ft + ÁFA
 (2.527 Ft)
-3 db raktáron
+4 db raktáron
 db
 Kosárba
 Részletek
@@ -166,7 +166,7 @@ Cikkszám: TO-TÁL10F
 Ár:
 2.500 Ft + ÁFA
 (3.175 Ft)
-38 db raktáron
+39 db raktáron
 db
 Kosárba
 Részletek
@@ -177,12 +177,21 @@ Cikkszám: K50VE8C14DIGR
 Ár:
 6.900 Ft + ÁFA
 (8.763 Ft)
-19 db raktáron
+20 db raktáron
 db
 Kosárba
 Részletek
 Összes újdonság
 Hírek
+⚠️ Fontos tájékoztatás az e-mailes elérhetőségünkről ⚠️
+2026. 11. 13.
+Kedves Partnereink!
+Tájékoztatjuk Önöket, hogy a Microsoft központi rendszereiben jelenleg fennálló technikai zavarok miatt előfordulhat, hogy a részünkre küldött e-mailek késve, vagy egyáltalán nem érkeznek meg hozzánk.
+Amennyiben sürgős ügyben keresnek minket, vagy nem kaptak választ a levelükre, kérjük, vegyék fel velünk a kapcsolatot telefonos elérhetőségeink egyikén!
+Elérhetőségeinket itt találják:
+https://lan.hu/kapcsolat-10
+Megértésüket és türelmüket köszönjük!
+Részletek
 Mondja el véleményét és ajándék ingyenes kiszállítás kupont adunk!
 2026. 10. 29.
 Az ügyfél-elégedettség kiemelten fontos számunkra, ezért folyamatosan azon dolgozunk, hogy szolgáltatásainkat az Ön igényeihez igazítsuk. Ennek egyik legfontosabb eszköze az ügyfeleinktől érkező visszajelzés.
@@ -224,11 +233,6 @@ Részletek
 5 hiba, ami miatt túlmelegszik a rackszekrény nyáron
 2026. 06. 30.
 A nyári hőség nemcsak az irodákban és szerverhelyiségekben dolgozókat terheli meg, hanem a hálózati infrastruktúrát is. Egy túlmelegedő rackszekrény teljesítménycsökkenést, váratlan leállásokat és az eszközök élettartamának csökkenését okozhatja. A megfelelő hűtés és tervezés ezért minden vállalkozás számára kiemelten fontos. A LAN kínálatában több olyan megoldás is megtalálható, amelyek segítenek a stabil működés fenntartásában.
-Részletek
-Újdonság a LAN Kft.-nél: moduláris patch panel szett keystone modulokkal
-2026. 06. 30.
-A strukturált hálózatépítés hatékonysága nagyban függ a megfelelő komponensek kiválasztásától. A LAN Kft. legújabb terméke egy olyan komplex megoldást kínál, amely egyszerűsíti a beszerzést és gyorsítja a kivitelezést: megérkezett a moduláris patch panel szett keystone modulokkal.
-Termék
 Részletek
 További hírek
 Top termékek
@@ -288,7 +292,7 @@ Cikkszám: K1120501C6ADIG
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-14525 m raktáron
+9340 m raktáron
 m
 Kosárba
 Részletek
@@ -298,7 +302,7 @@ Cikkszám: TA-K661ADIG
 Ár:
 230 Ft + ÁFA
 (292 Ft)
-10375 m raktáron
+10985 m raktáron
 m
 Kosárba
 Részletek
@@ -308,7 +312,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1306 db raktáron
+1169 db raktáron
 db
 Kosárba
 Részletek
@@ -361,7 +365,7 @@ Cikkszám: TA-180FTPC6ATD
 Ár:
 1.454 Ft + ÁFA
 (1.847 Ft)
-1306 db raktáron
+1169 db raktáron
 db
 Kosárba
 Részletek
@@ -381,7 +385,7 @@ Cikkszám: PW-VI3000RTHID
 Ár:
 235.800 Ft + ÁFA
 (299.466 Ft)
-Előrendelhető
+1 db raktáron
 db
 Kosárba
 Részletek
@@ -422,7 +426,4 @@ A LAN Kft. központjában, nyitvatartási időben. A pontos cím és időpontok 
 Milyen garancia vonatkozik a termékekre?
 A legtöbb eszközre 1–3 év gyártói garancia érvényes. A pontos időtartam a termékoldalon található.
 Hogyan jelezhetem, ha hibás terméket kaptam?
-Kérjük, vedd fel velünk a kapcsolatot a megadott elérhetőségeken. https://lan.hu/kapcsolat-10
-Gyors ügyintézéssel segítünk a csere vagy javítás folyamatában.
-Milyen feltételekkel küldhetem vissza a terméket?
-A vásárlástól számított 14
+Kérjük, vedd fel velünk a kapcsolatot a megadott elérhetőségeken. ht

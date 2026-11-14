@@ -1,7 +1,6 @@
-# SB-086 TAILYN · intel_news_en · https://news.google.com/rss/search?q=%22Tailyn%20Technologies%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-13T09:45:13Z · HTTP 503
-Sorry... G o o g l e
-Sorry...
-We're sorry...
-... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
-See Google Help for more information.
-Google Home
+# SB-086 TAILYN · intel_news_en · https://news.google.com/rss/search?q=%22Tailyn%20Technologies%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-14T09:07:48Z · HTTP 200
+Tue, 03 Nov 2026 08:24:24 GMT	Jorjin Technologies Inc. (4980.TWO) Seasonal returns chart - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10eFg0ZjlJZ3I5UldqYkFVWDNXS1docU9tRmdiaWs3V3ZwcW5sSVVqSzlTVlB0UWlTbXR3UVYwQXlkTXl2V2VvNzdjWWFVRTU5VEQtRGwxSFhJMmV6UmVSNVc0US1HVzA?oc=5
+Wed, 29 Oct 2025 22:58:47 GMT	7854 Stock Price and Chart — TPEX:7854 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJM0pxS3B0azBjcDdvVEgySWpaRmYzSERZaEJsR3RJM2RtZ1VJWF95NG9MTmEyMk5jeHhSSFZHUUc3aTVvX2RSV0MxWVRMRVF5OE5TTkNwSTJaQQ?oc=5
+Thu, 30 Sep 2021 15:27:06 GMT	7402 Stock Price and Chart — TPEX:7402 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0Nmplb3lFQldzR0RUQmtQQ2tHVmh2N3FMNHBMLUJ2MExTUmVqekI3QnplS0tzVFFMLTNCeFBEVWlJZXo1X2JQbXZpekl0VFBtNWJFVDVIbzJtdw?oc=5
+Mon, 30 Oct 2017 04:53:39 GMT	3027 Stock Price and Chart — TWSE:3027 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTE5paFdqTTlJM1o3aXQwQnJXUHAtUExlRVQ1VHk1S040b2czSlotT01iZ2J0MDNWeC1FLVF2SmpCTTZRUnFYSTFYaHBlbVRHNUYtTHY1Zl9LVUptdw?oc=5
+Tue, 10 Nov 2026 05:49:25 GMT	TW:5353 Stock Latest News - TipRanks	https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NT1dtOV9paWxRVHFELXFXa1J0R2lIWTQ4aHdzTHZwa1dXY01mR0ZnNWVrb2ViX09ONVZ1Z0pnZHAwUlhOZ1kzRDh4dWs3SktVTGF6eg?oc=5

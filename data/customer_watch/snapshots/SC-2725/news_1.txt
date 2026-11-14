@@ -1,4 +1,4 @@
-# SC-2725 todotelecom.com · news_1 · https://www.todotelecom.com/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-2725 todotelecom.com · news_1 · https://www.todotelecom.com/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
 Blog de Todo Telecom: novedades del sector, eventos y cursos
 965 784 463
 Envío gratuito*
@@ -262,10 +262,10 @@ IVA no incl
 -25%
 OEM
 Pila de litio CR123A Safire BATT-CR123A - 3 V, 1600 mAh
-1,50 €
-2,00 €
+1,57 €
+2,10 €
 IVA no incl
-1,82 € IVA inc
+1,90 € IVA inc
 HDMI
 ACCESORIOS
 AMPLIFICADORES
@@ -283,13 +283,6 @@ Cable HDMI 2.0 Econ E-526 - 15 m, 4K UHD, 18 Gbps, conectores chapados en oro
 15,48 €
 IVA no incl
 13,11 € IVA inc
-Motores
-PERSIANAS
-IDEMO
-Motor persiana tubular Idemo STAR 45 - 45 mm, finales de carrera mecánicos, 230 V, IP44
-44,00 €
-IVA no incl
-53,24 € IVA inc
 Herramientas
 ACCESORIOS MONTAJE
 BRIDAS
@@ -346,7 +339,7 @@ LICENCIAS
 REPUESTOS
 -30%
 COMELIT
-Monitor Videoportero COMELIT CR7741 - Simplebus 2. Monitor Chronos Wi-Fi, Manos Libres, 5". Reconocimiento facial
+Monitor manos libres WiFi Comelit Chronos CR7741 - 5", Simplebus2, App Comelit, reconocimiento facial
 232,44 €
 332,05 €
 IVA no incl
@@ -769,8 +762,8 @@ Pendrive Kingston USB 3.2 Gen 1 64Gb
 9,42 €
 12,56 €
 Pila de litio CR123A Safire BATT-CR123A - 3 V, 1600 mAh
-1,50 €
-2,00 €
+1,57 €
+2,10 €
 HDMI
 ACCESORIOS
 AMPLIFICADORES
@@ -784,10 +777,6 @@ MATRICES
 Cable HDMI 2.0 Econ E-526 - 15 m, 4K UHD, 18 Gbps, conectores chapados en oro
 10,84 €
 15,48 €
-Motores
-PERSIANAS
-Motor persiana tubular Idemo STAR 45 - 45 mm, finales de carrera mecánicos, 230 V, IP44
-44,00 €
 Herramientas
 ACCESORIOS MONTAJE
 BRIDAS
@@ -838,7 +827,7 @@ CABLE
 COMPONENTES
 LICENCIAS
 REPUESTOS
-Monitor Videoportero COMELIT CR7741 - Simplebus 2. Monitor Chronos Wi-Fi, Manos Libres, 5"....
+Monitor manos libres WiFi Comelit Chronos CR7741 - 5", Simplebus2, App Comelit, reconocimiento...
 232,44 €
 332,05 €
 Receptores
@@ -850,4 +839,19 @@ PAISES
 BELGICA
 FRANCIA
 HOLANDA
-INGLATERR
+INGLATERRA
+ITALIA
+ACCESORIOS
+ANTENAS WIFI
+FUENTES DE ALIMENTACION RECEPTORES
+MANDOS A DISTANCIA
+PCMCIA
+TARJETAS DE ABONO TV
+TUNNERS
+IR
+HDD
+Receptor Satélite CGV E-Stick 4K Fransat - UHD 4K, Oficial, Eutelsat 5W, Formato Stick con...
+107,84 €
+132,86 €
+Redes de datos
+CABLE DE DATOS

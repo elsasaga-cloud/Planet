@@ -1,4 +1,4 @@
-# XC-C1023 IT Warehouse Distribution Inc. · home · https://itwarehouse.ph/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-C1023 IT Warehouse Distribution Inc. · home · https://itwarehouse.ph/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Network & Fiber Optic Equipment Distributor | Mikrotik, Ubiquiti, Ruijie, Vsol, TPlink, Cdata, Fiber Cables for WISPs Supplier - IT Warehouse
 Skip to content
 Home
@@ -97,6 +97,13 @@ Need pricing or stock availability?
 Tell us who you are and what you need below, and we’ll reply within 24 hours. What items or project would you like a quote for?
 Name
 Company
+Business Type
+ISPs & WISPs
+System Integrators
+Installers & Contractors
+Corporate & Enterprise
+Government & Institutions
+Others
 Email address
 Contact no.
 What items or project are you quoting for?

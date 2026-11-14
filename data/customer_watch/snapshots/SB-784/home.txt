@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -207,33 +207,28 @@ BCS-L-NVR1602-A-4KE(2) BCS Line rejestrator IP dwudyskowy 16 ...
 Do koszyka
 1 686,70 zł
 pokaż więcej
-Przewód NETSET BOX UTP PE 5e czarny, skrętka zewnętrzna [305m]...
+BCS-P-TIP24FSR4-AI2-G BCS Point kamera tubowa IP 4Mpx IR 40M ...
+Zobacz warianty
+BCS-L-TIP16FCR3L3 BCS Line kamera tubowa IP NightColor 6Mpx LED ...
 Do koszyka
-676,00 zł
-BCS-L-EIP14FCR3L3-AI1 BCS Line kamera kopułowa IP NightColor ...
+921,00 zł
+BCS-L-TIP14FCR3L3-AI1 BCS Line kamera tubowa IP NightColor 4Mpx ...
+1 511,00 zł
 Do koszyka
-1 437,00 zł
-BCS-L-EIP12FSR3-AI1 BCS Line kamera kopułowa IP 2Mpx IR 30M
-Do koszyka
-906,00 zł
-BCS-B-TIP45VSR5(2.0) BCS Basic kamera tubowa IP 5Mpx IR 50M WDR ...
-638,00 zł
-Do koszyka
-510,70 zł
-BCS-B-NVR0801-8P(2.0) BCS Basic rejestrator 8 kanałowy IP PoE ...
-Do koszyka
-694,00 zł
-BCS-L-DIP14FSR3-W BCS Line kamera kopułowa IP 4Mpx Wi-Fi
-826,00 zł
-Do koszyka
-578,59 zł
+599,00 zł
+BCS-P-EIP25FSR3-AI2 BCS Point kamera inteligentna 5Mpx IR 30M ...
+Zobacz warianty
+BCS-P-EIP28FWR3-AI2 BCS Point kamera kopułowa 8Mpx IR 30M WDR...
+Zobacz warianty
 BCS-B-SP2402G-1SFP BCS Basic switch PoE 24 portowy
 1 130,00 zł
 Do koszyka
 904,30 zł
-Przewód NETSET BOX UTP 5e skrętka wewnętrzna [305m]
+BCS-P-NVR1602-A-4K(4) BCS Point rejestrator sieciowy 16 kanałowy ...
 Do koszyka
-651,00 zł
+1 425,00 zł
+BCS-P-TIP25FSR4-AI2 BCS Point kamera tubowa IP 5Mpx IR 40M WDR...
+Zobacz warianty
 BCS-L-EIP14FSR3L3-AI BCS Line kamera kopułowa IP 4Mpx LED 30M ...
 904,00 zł
 Do koszyka

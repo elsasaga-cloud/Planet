@@ -1,4 +1,4 @@
-# XC-M083 Aspect（Skopje） · sitemap · https://aspect.com.mk/sitemap.xml · fetched 2026-11-13T09:45:13Z · HTTP 200
+# XC-M083 Aspect（Skopje） · sitemap · https://aspect.com.mk/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
 	https://www.aspect.com.mk
 	https://www.aspect.com.mk/about
 	https://www.aspect.com.mk/contact
@@ -6,9 +6,13 @@
 	https://www.aspect.com.mk/products/barcode-scanners
 	https://www.aspect.com.mk/products/label-printers
 	https://www.aspect.com.mk/products/rugged-tablets
+2026-11-13T11:33:05.623Z	https://www.aspect.com.mk/products/rugged-tablets/honeywell-scanpal-eda10a
+2026-11-13T11:33:04.391Z	https://www.aspect.com.mk/products/mobile-terminals/honeywell-cw45
+2026-11-13T11:33:03.014Z	https://www.aspect.com.mk/products/barcode-scanners/datalogic-powerscan-9600-rfid
+2026-11-13T11:33:01.731Z	https://www.aspect.com.mk/products/label-printers/honeywell-rp4f
 2026-11-11T09:38:42.718Z	https://www.aspect.com.mk/products/rugged-tablets/brady-rt710
-2026-11-11T09:35:59.315Z	https://www.aspect.com.mk/products/barcode-scanners/datalogic-matrix-320-5mp
-2026-11-11T09:35:58.773Z	https://www.aspect.com.mk/products/barcode-scanners/datalogic-matrix-320-2mp
+2026-11-13T11:33:37.578Z	https://www.aspect.com.mk/products/barcode-scanners/datalogic-matrix-320-5mp
+2026-11-13T11:33:36.728Z	https://www.aspect.com.mk/products/barcode-scanners/datalogic-matrix-320-2mp
 2026-11-11T09:31:59.744Z	https://www.aspect.com.mk/products/barcode-scanners/datalogic-matrix-220-xai
 2026-11-11T09:31:58.961Z	https://www.aspect.com.mk/products/label-printers/honeywell-lnx3
 2026-11-09T15:13:15.089Z	https://www.aspect.com.mk/products/label-printers/honeywell-pc42e-t

@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,13 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1792 result(s)
+1794 result(s)
+7 Best Features of an ERP System for Small Businesses
+Nov 13, 2026
+Business Hacks
+Beyond the ERP: how Reflect Group builds several businesses around Odoo
+Nov 13, 2026
+Customer Reviews
 Odoo Italy integrates fiskaly: receipt management goes 100% cloud with no electronic cash register required
 Nov 12, 2026
 Odoo News
@@ -215,12 +221,6 @@ Nov 8, 2026
 Odoo News
 Can ERP Really Launch in Months? How Odoo QuickStart Makes It Happen
 Nov 5, 2026
-Business Hacks
-Virose Gestión Laboral: How an HR Consultancy Boosts Its Business with Odoo
-Nov 4, 2026
-Customer Reviews
-Implementing Odoo in Australia: Choosing Direct or Partner Support
-Nov 2, 2026
 Business Hacks
 1
 2
@@ -629,6 +629,7 @@ OdooBusinessChallenge2026
 Omnichannel
 OXP26
 Partner
+Small Business ERP
 Succession Planning
 Thailand
 TikTok

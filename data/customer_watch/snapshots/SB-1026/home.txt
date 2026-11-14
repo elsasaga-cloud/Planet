@@ -1,4 +1,4 @@
-# SB-1026 epygi.com · home · https://www.epygi.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SB-1026 epygi.com · home · https://www.epygi.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Epygi Home - Epygi
 Skip to content
 Support Portal
@@ -52,7 +52,7 @@ Search for:
 Business
 Communications.
 Your Way.
-Request a demo
+Explore Cloud PBX
 EVIA
 Epygi Virtual Intelligent Assistant
 Unlock the Special Offer
@@ -65,17 +65,18 @@ Reliable Telephony for
 - paging and alerts
 Assisted Living
 Learn more
-with Epygi
-Accelerate
-AI Solutions
-Learn how
+- Use your own SIP trunk
+- Enjoy competitive pricing
+Cloud IP PBX Solution
+ecQX
+Try it out today for free!
 Learn more QX Line of on-premise IP PBXs and Gateways.
-Epygi Home MJ 2026-10-20T10:-
+Epygi Home MJ 2026-11-13T07:-
 ecQX Cloud PBX
 A secure, flexible cloud phone system that’s easy to deploy, scale, and manage from anywhere.
 QX On-Premise Systems
 Award-winning, reliable IP PBXs and gateways for businesses that want local deployment, greater control, and flexible communications.
-AI-Powered Communications
+AI-Powered Solutions
 Bring intelligence to business calls with built-in AI capabilities that automate interactions, improve responsiveness, and simplify everyday communications.
 Communication Features
 Get more from your Epygi system with CRM integrations, uQall, ecMON, call center capabilities, and other advanced communication features.

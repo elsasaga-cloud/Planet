@@ -1,4 +1,4 @@
-# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-13T09:45:13Z · HTTP 200
+# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
 Strona główna | Getfort
 O marce
 Produkty
@@ -127,6 +127,7 @@ Baza wiedzy GetFort
 Aktualności
 Oferujemy nowoczesne systemy infrastruktury IT przeznaczone dla domów, firm oraz obiektów przemysłowych. W naszej ofercie znajdują się produkty najwyższej jakości.
 Dowiedz się więcej
+Nowe 16-portowe switche GetFort
 Nowa seria uchwytów TV GetFort
 Nowość w ofercie: Szafy Rack 47U
 Skontaktuj się z nami,
