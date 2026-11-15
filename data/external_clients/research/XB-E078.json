@@ -2,12 +2,25 @@
  "code": "XB-E078",
  "name": "CCTech Distribution",
  "round": "LT-T03",
- "researched_at": "2026-11-14",
- "alive": "快照失败（cctech.ng：HTTP 错误，2026-11-14，第 15 次）",
+ "researched_at": "2026-11-15",
+ "alive": "在线（cctech.ng，快照 2026-11-15）：CCTech - +2349159100000 | HP, Lenovo, Dell, HPE, Epson, APC, Cisco, Synology & More IT Products in Nigeria",
  "summary": "CCTech Distribution（尼日利亚 · Lagos）：ICT 分销商",
  "type_final": "ICT 分销商",
  "size": "",
- "brands_seen": [],
+ "brands_seen": [
+  "Cisco",
+  "Hikvision",
+  "Fortinet",
+  "TP-Link",
+  "Ubiquiti",
+  "MikroTik",
+  "Netgear",
+  "D-Link",
+  "Huawei",
+  "Juniper",
+  "Extreme",
+  "Aruba"
+ ],
  "saga_line": "STC 企业 PoE 走量款（20% 档：STC-228GP / STC-2224GP）",
  "fit": "",
  "evidence": [
@@ -45,6 +58,13 @@
    "quote": "",
    "url": "",
    "date": "2026-10-29"
+  },
+  {
+   "kind": "官网快照",
+   "claim": "官网在线；CCTech - +2349159100000 | HP, Lenovo, Dell, HPE, Epson, APC, Cisco, Synology & More IT Products in Nigeria",
+   "quote": "CCTech +2349159100000",
+   "url": "https://cctech.ng/",
+   "date": "2026-11-15"
   }
  ],
  "contacts": {
@@ -56,7 +76,19 @@
     "role": "Martins，Managing Director & CEO",
     "source": "来源库 KP 段"
    }
-  ]
+  ],
+  "page_emails": [
+   "sales@cctech.ng"
+  ],
+  "page_phones": [
+   "+234-91591-00000",
+   "+234-91592-00000",
+   "+234-91593-00000",
+   "+234-91594-00000",
+   "+234-91595-00000",
+   "+234-91596-00000"
+  ],
+  "page_note": "官网公开页抓取 2026-11-15；只作证据 / 路径备选"
  },
  "touch_status": "S 箱 2026-10-19 去信 1 / 来信 0（24 Port PoE Managed Switch）",
  "saga_overlap": "无",
@@ -72,7 +104,7 @@
  },
  "draft_en": null,
  "deep": false,
- "notes": "LT-T03 官网快照加厚（2026-11-14）：alive/fail#15。\nLT-T03 官网快照加厚（2026-11-13）：alive/fail#14。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
+ "notes": "LT-T03 官网快照加厚（2026-11-15）：alive/brands_seen/contacts.page/evidence/site_p1_hint。\nLT-T03 官网快照加厚（2026-11-14）：alive/fail#15。\nLT-T03 官网快照加厚（2026-11-13）：alive/fail#14。\nLT-T03 官网快照加厚（2026-11-12）：alive/fail#13。\nLT-T03 官网快照加厚（2026-11-11）：alive/fail#12。\nLT-T03 官网快照加厚（2026-11-10）：alive/fail#11。\nLT-T03 官网快照加厚（2026-11-09）：alive/fail#10。\nLT-T03 官网快照加厚（2026-11-08）：alive/fail#9。\nLT-T03 官网快照加厚（2026-11-07）：alive/fail#8。\nLT-T03 官网快照加厚（2026-11-06）：alive/fail#7。\nLT-T03 官网快照加厚（2026-11-05）：alive/fail#6。\nLT-T03 官网快照加厚（2026-11-04）：alive/fail#5。\nLT-T03 官网快照加厚（2026-11-03）：alive/fail#4。\nLT-T03 官网快照加厚（2026-11-02）：alive/fail#3。\nLT-T03 官网快照加厚（2026-11-01）：alive/fail#2。\nLT-T03 官网快照加厚（2026-10-29）：alive/fail#1。\nLT-T01 桌面卡（2026-10-29）：来源库字段 + 长期群复核 + DNS 体检整合，未新增网查；官网快照到后加厚。",
  "snap_thicken": {
   "consumed": [
    "2026-10-29T15:54:59Z",
@@ -89,7 +121,8 @@
    "2026-11-11T10:10:19Z",
    "2026-11-12T10:29:59Z",
    "2026-11-13T10:23:01Z",
-   "2026-11-14T09:40:22Z"
+   "2026-11-14T09:40:22Z",
+   "2026-11-15T10:11:04Z"
   ],
   "fails": [
    "2026-10-29",
@@ -107,6 +140,12 @@
    "2026-11-12",
    "2026-11-13",
    "2026-11-14"
-  ]
+  ],
+  "last_ok": "2026-11-15"
+ },
+ "site_p1_hint": {
+  "p1": "STC-424XGGM",
+  "why": "官网快照对位：10G/2.5G 词频 14、交换机 15 → 24 GE + 4×10G L2+ 起手",
+  "date": "2026-11-15"
  }
 }
