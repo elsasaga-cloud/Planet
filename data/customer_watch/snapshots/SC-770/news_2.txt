@@ -1,4 +1,4 @@
-# SC-770 elmark.com.pl · news_2 · https://www.elmark.com.pl/blog/?news=on · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SC-770 elmark.com.pl · news_2 · https://www.elmark.com.pl/blog/?news=on · fetched 2026-11-15T09:38:35Z · HTTP 200
 Moje konto Zaloguj się
 Centrum wiedzy
 Szkolenia
@@ -84,14 +84,14 @@ Górnictwo
 Filtruj
 Ekspert poleca
 Studia przypadków
-Systemy magazynowania energii BESS i rola Industrial IoT w ich zarządzaniu
-17.03.2026
-Informacje produktowe
-Poznaj Stellar - antywirus stworzony dla przemysłu
-20.04.2023
+Pomiar drgań z bezprzewodowymi czujnikami LoraWAN
+31.03.2021
 How to
-Poradnik Cyberbezpieczeństwa OT: Monitorowanie protokołów przemysłowych i patchowanie urządzeń
-09.08.2021
+MGate MB3000 - konfiguracja
+15.03.2022
+Informacje produktowe
+Przetwarzanie brzegowe (edge computing) vs. chmura – gdzie analizować dane w systemach przemysłowych?
+25.02.2026
 13.11.2026 Informacje produktowe
 Case studies
 Panel HMI do zadań specjalnych: mycie ciśnieniowe i strefy zagrożenia wybuchem
@@ -170,14 +170,14 @@ Górnictwo
 Filtruj
 Ekspert poleca
 Studia przypadków
-Systemy magazynowania energii BESS i rola Industrial IoT w ich zarządzaniu
-17.03.2026
-Informacje produktowe
-Poznaj Stellar - antywirus stworzony dla przemysłu
-20.04.2023
+Pomiar drgań z bezprzewodowymi czujnikami LoraWAN
+31.03.2021
 How to
-Poradnik Cyberbezpieczeństwa OT: Monitorowanie protokołów przemysłowych i patchowanie urządzeń
-09.08.2021
+MGate MB3000 - konfiguracja
+15.03.2022
+Informacje produktowe
+Przetwarzanie brzegowe (edge computing) vs. chmura – gdzie analizować dane w systemach przemysłowych?
+25.02.2026
 13.11.2026 Informacje produktowe
 Case studies
 Panel HMI do zadań specjalnych: mycie ciśnieniowe i strefy zagrożenia wybuchem

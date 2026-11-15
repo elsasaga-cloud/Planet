@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-14T09:07:48Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-15T09:38:35Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -958,6 +958,7 @@ RWA
 Emergency lighting
 Bysecur
 Inim Addressable Fire
+Kidde
 Lixit Lighting
 Universal dialers
 Honeywell Fire
@@ -1031,6 +1032,7 @@ Network Optix
 Neutronic
 NVT
 Optex
+Paradox
 Paxton
 Politec
 Pulsar
@@ -1360,4 +1362,4 @@ Netherlands - T +31765792577
 BeLux - T +3233698080
 E info@smartsd.com
 Spain - T +34961594646
-E info@smartsd
+

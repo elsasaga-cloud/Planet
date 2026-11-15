@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -170,24 +170,24 @@ Sold Out
 판매가 : 724,900원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
-상품요약정보 : PoE 60W/ 185.5(W) x 123(D) x 44(H)mm
-판매가 : 101,200원
-LIKE IT ! 0
-Sold Out
 솔텍 SFC8000HP 산업용 관리형 L2 스위치 (1Gbps PoE 8포트/2.5G SFP 2슬롯) (전원공급장치 포함)
 상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 70°C / PoE 240W / 전원이중화 / S-Ring(복구타임
 판매가 : 699,600원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC2000-TWLA/20 WDM 싱글모드 1Gbps 광컨버터
-상품요약정보 : 1-FIBER 송수신, 20km, 1550/1310nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
-판매가 : 198,000원
+솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
+상품요약정보 : PoE 60W/ 185.5(W) x 123(D) x 44(H)mm
+판매가 : 101,200원
 LIKE IT ! 0
 Sold Out
 SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
 상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
 판매가 : 222,200원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC2000-TWLA/20 WDM 싱글모드 1Gbps 광컨버터
+상품요약정보 : 1-FIBER 송수신, 20km, 1550/1310nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
+판매가 : 198,000원
 LIKE IT ! 0
 Sold Out
 에시르 SG-600C KAT-HD600C 1채널 AHD TVI CVI용 UTP 영상 발룬 송수신기

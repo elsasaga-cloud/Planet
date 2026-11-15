@@ -1,4 +1,4 @@
-# SB-505 eso.co.th · news_2 · https://www.eso.co.th/news-and-activities-eso · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-505 eso.co.th · news_2 · https://www.eso.co.th/news-and-activities-eso · fetched 2026-11-15T09:38:35Z · HTTP 200
 News and Activities/ข่าวสารและกิจกรรม - ESO TECH
 เข้าสู่ระบบ
 สมัครสมาชิก
@@ -166,6 +166,14 @@ Support Tickets
 เพิ่มเติม
 เข้าสู่ระบบ
 สมัครสมาชิก
+ESO TECH ร่วมงาน METALEX 2026 พร้อมเทคโนโลยี WECON
+14 พ.ย. 2569
+พบ ESO TECH ในงาน METALEX 2026 วันที่ 18-21 พ.ย. ณ BITEC บางนา บูธ 9E44 ชมเทคโนโลยี WECON PLC, HMI, Servo, Inverter และ Industrial IoT
+ดูเพิ่มเติม
+V-NET 3.0 เริ่มเก็บค่าบริการอย่างไร? ราคาและฟีเจอร์แต่ละ Level
+14 พ.ย. 2569
+สรุปค่าบริการ WECON V-NET 3.0 ตั้งแต่ Level 1-5 ราคาโดยประมาณ ข้อจำกัด Device, SCADA, Sub-account และวิธีใช้ Points ต่ออายุบัญชี
+ดูเพิ่มเติม
 ESO TECH ร่วมกับ EASTWATER ถ่ายทอดความรู้ PLC HMI สู่อาชีวศึกษา
 11 พ.ย. 2569
 อีเอสโอ เทค ร่วมเป็นวิทยากรอบรมระบบวัดออกซิเจนละลายในน้ำด้วย PLC HMI WECON ให้นักศึกษา 4 วิทยาลัย ฝึกประกอบตู้ เขียนโปรแกรม และทดสอบในบ่อบำบัดจำลอง
@@ -326,11 +334,11 @@ Tel : 097-253-2728 , 097-279-5125 , 097-275-2279
 E-mail : info@eso.co.th , chonburi@eso.co.th , sales@eso.co.th
 © Copyright 2021 eso.co.th All Rights Reserved.
 ผู้เข้าชมทั้งหมด
-2,580,892
+2,585,309
 ผู้เข้าชมวันนี้
-1,570
+1,704
 ผู้เข้าชมขณะนี้
-167
+189
 Powered by
 MakeWebEasy.com
 เว็บไซต์นี้มีการใช้งานคุกกี้ เพื่อเพิ่มประสิทธิภาพและประสบการณ์ที่ดีในการใช้งานเว็บไซต์ของท่าน ท่านสามารถอ่านรายละเอียดเพิ่มเติมได้ที่ นโยบายความเป็นส่วนตัว

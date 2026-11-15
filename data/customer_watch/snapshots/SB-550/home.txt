@@ -1,4 +1,4 @@
-# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 notebooks, PC components, harddrives and electronic at reichelt
 Please choose your location:
 Austria
@@ -216,7 +216,7 @@ Italiano
 Español
 X
 Country:
-Ireland
+United States
 Language:
 English
 Deutsch
@@ -271,7 +271,7 @@ Shopping Cart
 €0.00
 Shipping costs
 from
-€9.95
+€25.76
 Components
 Raspberry Pi Arduino
 Batteries, Power, Charger
@@ -299,7 +299,7 @@ Newsletter
 Subscribe now
 & benefit twice a week!
 35.95
-30. 01
+29. 95
 *
 17. 20
 *
@@ -361,8 +361,8 @@ Mon - Thu:
 -
 Fri:
 -
-Tel.: 00 49 4422 955333
-Fax: 00 49 4422 955111
+Tel.: 011 49 4422 955333
+Fax: 011 49 4422 955111
 Email:
 info@reichelt.de
 Company address

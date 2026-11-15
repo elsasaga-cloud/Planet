@@ -1,4 +1,4 @@
-# SB-942 dmtrade.pl · home · https://www.dmtrade.pl/en-PL/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-942 dmtrade.pl · home · https://www.dmtrade.pl/en-PL/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 DMTrade.pl - Your Center for Electronics, Smart Home, and Ergonomics
 Select delivery country and language
 Apply changes
@@ -20,7 +20,7 @@ Delivery cost from
 See also
 Close
 Categories
-!wycofane
+!discontinued
 TV-SAT TV-SAT
 TV and Radio Antennas TV and Radio Antennas
 Terrestrial Antennas
@@ -549,4 +549,4 @@ Cleaning sprays
 Sealing sprays
 Cooling sprays
 Oils and lubricants
-Solder Wir
+Solder

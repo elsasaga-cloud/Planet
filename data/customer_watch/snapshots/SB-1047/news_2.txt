@@ -1,9 +1,7 @@
-# SB-1047 kamsys.pl · news_2 · https://www.kamsys.pl/blog/5-wybrane-referencje-naszych-klientow · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-1047 kamsys.pl · news_2 · https://www.kamsys.pl/blog/5-wybrane-referencje-naszych-klientow · fetched 2026-11-15T09:38:35Z · HTTP 200
 Wybrane referencje naszych Klientów - Blog - Kamsys
-Dostawa
-Status zamówienia
-Kontakt
 tel +48 22 774 07 86 , e-mail: sklep@kamsys.pl
+Bądź z nami na bieżąco!
 Logowanie
 Moje konto
 Menu
@@ -65,7 +63,6 @@ Monitoring na każdą kieszeń
 Tanie rozwiązania
 Ciekawostki i porady
 Nowości sprzętowe
-Szukaj
 Dlaczego warto z nami współpracować?
 15
 lat
@@ -131,10 +128,12 @@ Brak produktów
 Do ustalenia
 Wysyłka
 0,00zł
+Podatek
+0,00zł
 Do darmowej wysyłki brakuje Ci
 0,00zł
 Razem
-Cena nie zawiera podatku
+Cena zawiera podatek
 Zobacz koszyk
 Szukaj
 Menu

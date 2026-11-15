@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,37 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Splitter Fibra Ottica
-Splitter Monomodale Sc Apc 1 In 16 Out
-Esegui l'accesso per visualizzare i prezzi
-+
-Esaurito
-L3
-PLANET SGS-6341-24P6X: switch Layer 3 stackable PoE+ 24 porte Gigabit + 6x10G SFP+
-Esegui l'accesso per visualizzare i prezzi
-+
-UPS Multipower
-Eurogroup Multipower 650: UPS Rack 19″ 650 VA / 360 W | MTPMM065010R
-Esegui l'accesso per visualizzare i prezzi
-+
-Adattatori per inserti RJ45
-Adattattore Per Frutto Serie Vimar Idea Bianco 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-Loose Armato Metallico LSZH OS2 G.652.D
-4Net Cavo fibra ottica OS2 G.652.D 24 fibre loose armato LSZH Eca | CF09A24LSS2
-Esegui l'accesso per visualizzare i prezzi
-+
-L3
-Planet SGS-6310-48T6X: Switch Layer 3 stackable, 48 Gigabit + 6 SFP+ 10G
-Esegui l'accesso per visualizzare i prezzi
-+
-Passacavi, Pannelli ciechi e Barra di alimentazione
-Barra Alimentazione 19″ 1,5U Con 8 Prese e Interruttore Luminoso
+Muffole e Vassoi
+Muffola orizzontale 192 FO 4Net | CO192XXOM
 Esegui l'accesso per visualizzare i prezzi
 +
 Patch Panel 19"
-Pannello di Permutazione 48 Porte UTP Cat.6A 19” | Patch Panel 4Net
+4Net Patch panel vuoto FTP 24 porte RJ45 19″ RAL 9004 | PP00FTP24000
+Esegui l'accesso per visualizzare i prezzi
++
+L2/ Web Smart
+PLANET GS-4210-24PL4C: switch managed 24 porte PoE+ + 4 combo Gigabit, 650 W
+Esegui l'accesso per visualizzare i prezzi
++
+Adattatori per inserti RJ45
+Adattattore Per Frutto Serie Ave Llife 44 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Broadband Communication
+PLANET VC-232G: Convertitore Gigabit Ethernet over Coax
+Esegui l'accesso per visualizzare i prezzi
++
+Bretelle Multimodali Zip Duplex 50/125 OM4
+Bretella Fibra OM4 LC-LC 3m | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Moduli Switch Modulari
+Planet IMS-4S: Modulo 4 slot SFP 100/1000BASE-X per IMS-6325-5
+Esegui l'accesso per visualizzare i prezzi
++
+Esaurito
+Fire Protect OS2 G.657.A1
+4Net Cavo fibra Fire Protect OS2 G.657.A1 8 fibre armato LSZH B2ca | CF09BA08LSS2
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta

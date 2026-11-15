@@ -1,4 +1,4 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-15T09:38:35Z · HTTP 200
 13.11.2026 14.05.43	Patch MPO12(m) - MPO12(f), pol. B, 1 m	https://www.fiberworks.no/fiberworks-as/p-om4-m3m-m1mbm1f-01/patch-mpo12m-mpo12f-pol-dot--b-1-m-50-om4-bif-%c3%b83mm-magenta-super-ll
 13.11.2026 13.44.57	SFP, 100/155Mbps FE, 2km, DDM, I-temp	https://www.fiberworks.no/fiberworks-as/sfp-100basefx-rgd-fn/sfp-100-155mbps-fe-2km-ddm-i-temp-1300nm-9db-mm-fortinet
 13.11.2026 11.22.06	Preterm MM G24 AXAI LC/PC-LC/PC, 30 m	https://www.fiberworks.no/fiberworks-as/pk-g24tb-lcp-lcp-030/preterm-mm-g24-axai-lc-pc-lc-pc-30-m-62-5-om1-bif-900%c2%b5m-haler-l1-8-1-8-m

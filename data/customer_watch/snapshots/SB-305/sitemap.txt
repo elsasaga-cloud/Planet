@@ -1,4 +1,4 @@
-# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-11-15T09:38:35Z · HTTP 200
 	https://www.bitsandbyte.net
 	https://www.bitsandbyte.net/solutions
 	https://www.bitsandbyte.net/solutions/networking-connectivity
@@ -54,14 +54,14 @@
 	https://www.bitsandbyte.net/industries/retail
 	https://www.bitsandbyte.net/industries/technology
 	https://www.bitsandbyte.net/industries/government
-2026-10-25	https://www.bitsandbyte.net/learn
-2026-10-25	https://www.bitsandbyte.net/learn/black-october-php2shell-emudhra-litellm
-2026-10-18	https://www.bitsandbyte.net/learn/cert-in-log-retention-and-time-sync
-2026-09-28	https://www.bitsandbyte.net/learn/ransomware-recovery-starts-before-the-attack
-2026-09-24	https://www.bitsandbyte.net/learn/your-cloud-bill-is-an-architecture-problem
-2026-09-21	https://www.bitsandbyte.net/learn/why-saas-feels-slow-at-the-branch
-2026-09-17	https://www.bitsandbyte.net/learn/the-3am-test-for-24x7-support
-2026-09-14	https://www.bitsandbyte.net/learn/microsoft-365-is-not-backed-up-the-way-you-think
+2026-10-25	https://www.bitsandbyte.net/insights
+2026-10-25	https://www.bitsandbyte.net/insights/black-october-php2shell-emudhra-litellm
+2026-10-18	https://www.bitsandbyte.net/insights/cert-in-log-retention-and-time-sync
+2026-09-28	https://www.bitsandbyte.net/insights/ransomware-recovery-starts-before-the-attack
+2026-09-24	https://www.bitsandbyte.net/insights/your-cloud-bill-is-an-architecture-problem
+2026-09-21	https://www.bitsandbyte.net/insights/why-saas-feels-slow-at-the-branch
+2026-09-17	https://www.bitsandbyte.net/insights/the-3am-test-for-24x7-support
+2026-09-14	https://www.bitsandbyte.net/insights/microsoft-365-is-not-backed-up-the-way-you-think
 	https://www.bitsandbyte.net/white-papers
 	https://www.bitsandbyte.net/white-papers/cyber-resilient-organization
 	https://www.bitsandbyte.net/white-papers/third-party-cyber-risk

@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -60,9 +60,9 @@ Stokta
 Yeni Geldi Asus Asus Pro WS TRX50-SAGE WiFi A DDR5 4XM.2 USB WIFI7 STR5 (AMD Threadripper Pro 9000/7000 Wx Serileri ile Uyumlu)
 Stokta · Yeni eklendi
 Ürünü İncele
-Öne Çıkan Marka AMD
-379 ürün
-AMD Ürünleri
+Öne Çıkan Marka Samsung
+1.465 ürün
+Samsung Ürünleri
 Son Haber Cooler Master ve G.SKILL'den Aktif Soğutmalı DDR5 RAM
 14 Kasım 2026
 Haberi Oku
@@ -107,12 +107,12 @@ Seagate
 2 TB Seagate 3.5 SkyHawk SATA 5900RPM 256MB 7/24 Guvenlik ST2000VX017 (3 Yıl Resmi Dist Garantili)
 Leaderhub
 Leaderhub AD8 32GB 1TB SSD RYZEN7 H255 Wi-Fi Bt W11 Pro Mini PC
-Tiwox
-Tiwox JP-R80A 203DPI Direkt Termal 80MM USB+Ethernet Masaüstü Fiş Yazıcı
 Seagate
 1 TB Seagate 3.5 SkyHawk SATA 5400RPM 256MB 7/24 Guvenlik ST1000VX013 (3 Yıl Resmi Dist Garantili)
 Dahua
 Dahua IPC-HFWN-E40P-SA 4MP 3.6MM Sabit Lens Dahili Mikrofon İnsan Algilama IP67 IP Bullet Kamera
+Tiwox
+Tiwox JP-R80A 203DPI Direkt Termal 80MM USB+Ethernet Masaüstü Fiş Yazıcı
 Lenovo
 Lenovo NB V15 83GW008BTX I5-13420H 16GB 512SSD O/B 15.6 DOS
 2021 – 2026 Ödülleri

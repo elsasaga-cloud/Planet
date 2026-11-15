@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-14T09:07:48Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-15T09:38:35Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -42,8 +42,8 @@ Grandstream + CRM
 Slican + CRM
 Yeastar + CRM
 Moduły do central
-Głos damski
 Głos męski
+Głos damski
 Do 10 pracowników
 Do 20 pracowników
 Do 50 pracowników
@@ -74,50 +74,51 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
 Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
 Projektory
 Monitory Wielkoformatowe
 Biznesowe
 Hotelowe
+Lampowe
 Laserowe
 Akcesoria
-Lampowe
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Statywy
-Mikrofony
 Mediakonwertery
 Grabbery
 Kamery PTZ Obrotowe
-Uchwyty do projektorów
-Kable
+Statywy
+Mikrofony
 Extendery
 Splittery HDMI
 Stacje dokujące
+Uchwyty do projektorów
+Kable
 Uchwyty do monitorów
-USB
-HDMI
-USB C
 USB A
-Uchylne
-Na ramieniu
+USB C
+HDMI
+USB A
+Przedłużacze USB A
 Mobilne wózki
 Stałe
+Uchylne
+Na ramieniu
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla obiektów handlowych
-Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
 Dla edukacji
+Dla obiektów handlowych
+Dla hoteli i gastronomii
+Stanowiskowe
 Powierzchniowe
 Akcesoria
-Stanowiskowe
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -130,25 +131,24 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
+Przewodowe
 Bezprzewodowe
 Jednouszne
-Dwuuszne
-Przewodowe
+Kable przyłączeniowe
 Gąbki
 Adaptery
-Kable przyłączeniowe
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Mikrofony
-Ładowarki
 Walizki/Torby Transportowe
 Higiena
 Słuchawki
-Słuchawki z bluetooth
-Słuchawki kablowe
+Mikrofony
+Ładowarki
 Akcesoria
 Słuchawki z radiotelefonem
+Słuchawki z bluetooth
+Słuchawki kablowe
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -174,10 +174,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Cyfrowe
-Akcesoria
 Morskie
 Analogowe
+Cyfrowe
+Akcesoria
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -193,16 +193,16 @@ LICENCJE
 UNIFONY IP
 AKCESORIA
 Wróć do:
+Przewodowe
 Bezprzewodowe
 Interkomy
-Przewodowe
-Ramki
-Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
 Elementy montażowe
+Ramki
+Moduły
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -230,31 +230,31 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
-Wewnętrzne
 Zewnętrzne
+Wewnętrzne
 Zarządzalne
 Niezarządzalne
 Typu Smart
 Wkładki SFP
 Licencje
+Urządzenia
 Zestawy
 Licencje
-Urządzenia
+Tower
 Rack
 Compact
-Tower
 USB-A
 USB-C
 Lightning
 Drukarki Pos
 Drukarki etykiet
 Skanery kodów
+Jednostki główne
 Czujniki
 Akcesoria
-Jednostki główne
+NAS Desktop
 NAS Rack
 Dyski NAS
-NAS Desktop
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -288,25 +288,25 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Panele krosowe
 Wtyki i gniazda sieciowe
+Panele krosowe
 Okablowanie
 Szafy rack
-Łączniki kabli
-Wtyki
-Gniazda Keystone
+Kategorii 5
+Kategorii 6
+Puste
 Kategorii 5
 Kategorii 6
 Kategorii 7
 Box
 Patchcord
 Na m
+Box
 Patchcord
 Na m
-Box
+Stojące
 Wiszące
 Akcesoria
-Stojące
 Puszki
 Uchwyty
 Dyski
@@ -361,6 +361,7 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
+Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
@@ -368,7 +369,6 @@ Akcesoria
 Głośniki
 Wzmacniacze
 Miksery
-Matryce
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,15 +381,14 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
+Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
 Ekrany projekcyjne
-Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Jednostki główne
-Licencje
-Akcesoria
+Biznesowe
+Hotelowe
 Lampowe
 Laserowe
 Akcesoria
@@ -397,37 +396,36 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Mediakonwertery
 Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
-Mediakonwertery
+Extendery
 Splittery HDMI
 Stacje dokujące
 Uchwyty do projektorów
 Kable
-Extendery
 Uchwyty do monitorów
-HDMI
 USB A
 USB C
-Przedłużacze USB A
 HDMI
-USB
+USB A
+Przedłużacze USB A
+Mobilne wózki
 Stałe
 Uchylne
 Na ramieniu
-Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
-Akcesoria
+Dla hoteli i gastronomii
 Stanowiskowe
 Powierzchniowe
+Akcesoria
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -448,22 +446,21 @@ Dwuuszne
 Przewodowe
 Bezprzewodowe
 Jednouszne
-Dwuuszne
 Kable przyłączeniowe
 Gąbki
 Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Walizki/Torby Transportowe
 Higiena
 Słuchawki
 Mikrofony
 Ładowarki
-Walizki/Torby Transportowe
+Akcesoria
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
-Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -495,10 +492,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
+Morskie
 Analogowe
 Cyfrowe
 Akcesoria
-Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -519,13 +516,13 @@ Wielorodzinne
 Przewodowe
 Bezprzewodowe
 Interkomy
+Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
-Daszki
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -555,9 +552,9 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
+Na kartę SIM
 Bezprzewodowe
 Przewodowe
-Na kartę SIM
 Przemysłowe
 Zewnętrzne
 Wewnętrzne
@@ -575,15 +572,15 @@ Compact
 USB-A
 USB-C
 Lightning
-Drukarki etykiet
 Drukarki Pos
+Drukarki etykiet
 Skanery kodów
 Jednostki główne
 Czujniki
 Akcesoria
-Dyski NAS
 NAS Desktop
 NAS Rack
+Dyski NAS
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -625,13 +622,13 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Panele krosowe
 Wtyki i gniazda sieciowe
+Panele krosowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
-Łączniki kabli
-Wtyki
+Kategorii 5
+Kategorii 6
+Puste
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -1011,4 +1008,7 @@ nowoczesna firma
 zarządzanie czasem
 moduł hotelowy
 IoT
-Plantroni
+Plantronics
+Sennheiser
+konftel
+konferencja

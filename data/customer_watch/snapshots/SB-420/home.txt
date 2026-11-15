@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -180,44 +180,44 @@ ZTE ZXHN F6705
 Terminal GPON ONT z Wi-Fi 7, 1 portem 2.5G Ethernet oraz 3 porty 1G Ethernet.
 Przejdź do produktu
 Bestsellery
-302,67 zł
-372,28 zł z VAT
-MikroTik RouterBOARD C52iG-5HaxD2HaxD-TC hAP ax2 bezprzewodowy router AX1800, 5x GE
+268,08 zł
+329,74 zł z VAT
+MikroTik wAP ax zewnętrzny punkt dostępowy Wi-Fi 6 AX3000, 2x GE, PoE IN
+446,15 zł
+548,76 zł z VAT
+MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
 58,67 zł
 72,16 zł z VAT
 Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT
-237,81 zł
-292,51 zł z VAT
-MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
-405,59 zł
-498,88 zł z VAT
-MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
+180,26 zł
+221,72 zł z VAT
+MikroTik L41G-2axD hAP ax lite bezprzewodowy router AX574 (Wi-Fi 6), 4x GE
 Promocje
--68%
-6,25 zł
-1,99 zł
-2,45 zł z VAT
-Opton WS-AH-01 wspornik naścienny 2 kN
+-45%
+2,66 zł
+1,45 zł
+1,78 zł z VAT
+Przewód połączeniowy czujnika DHT 35cm
+-33%
+14,30 zł
+9,62 zł
+11,83 zł z VAT
+BBS Power AGM6V4AH akumulator AGM VRLA 6 V, 4 Ah
+-41%
+180,39 zł
+106,28 zł
+130,72 zł z VAT
+Opton mufa światłowodowa FDB-0208X 4 IN 8 OUT wbudowane adaptery
 -35%
-355,65 zł
-230,13 zł
-283,06 zł z VAT
-CWDM DEMUX 4-channel 1471-1531 LC/APC (+1310)
--25%
-103,77 zł
-77,95 zł
-95,88 zł z VAT
-MikroTik S-C47DLC40D CWDM SFP 1.25G SM Tx 1470nm LC 40 km
--35%
-177,79 zł
-115,04 zł
-141,50 zł z VAT
-CWDM MUX 2-channel 1551-1571 LC/APC (+1310)
+17,38 zł
+11,30 zł
+13,90 zł z VAT
+RED Power RP12V1A-WM-EU zasilacz 12 V, 1 A
 Promocja!
--24%
-25 000,00 zł netto
-18 999,00 zł netto
-100 sztuk Huawei EG8145B7N-50 (terminal GPON ONT Wi-Fi 7 BE3600) z wybraną nagrodą za 1 zł
+-8%
+19 000,00 zł netto
+17 500,00 zł netto
+100 sztuk Huawei EG8145X6-10 (terminal GPON ONT Wi-Fi 6 AX3000) z wybraną nagrodą za 1 zł
 O sklepie
 Regulamin
 Katalog
@@ -225,7 +225,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-11-14 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-11-15 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

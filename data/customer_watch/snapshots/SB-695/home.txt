@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -429,60 +429,57 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-LRS-350 - Fonte CA/CC até 350,4W, 8 saídas de 3,3 a 48Vcc Mean Well
-A partir de
-R$ 348,13
+Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Multimodo SC 2km - LRI-MC-1G1MM2
+R$ 375,00
 R$
-337 , 69
-à vista
-com desconto Pix - Vindi
-Ver opções
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
-R$ 396,00
-R$
-384 , 12
+363 , 75
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-RS-25 Fonte CA CC 25W Miniatura Alta Eficiência MeanWell
-R$ 109,49
+LRI-SW-8G2SWM - Switch Ethernet Industrial Web Gerenciável 8 Portas Gigabit + 2 Portas SFP
+R$ 958,20
 R$
-106 , 21
+929 , 45
 à vista
 com desconto Pix - Vindi
-Ver opções
-MDR-100 Fonte CA/CC 100W PFC com Montagem em Trilho DIN MeanWell
-R$ 344,43
+Comprar
+Ver ficha técnica
+-50%
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 24V - LRI-PS6524
+R$ 255,00
+R$ 127,50
 R$
-334 , 10
+123 , 68
 à vista
 com desconto Pix - Vindi
-Ver opções
+Comprar
+Ver ficha técnica
+Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
+R$ 990,00
+R$
+960 , 30
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 Lançamentos
-1-Wire Transmissor de Loop de Corrente TSA200
+1-Wire Sensor de Temperatura TST100
 Sob consulta
 Saiba mais
 Pedir cotação
-MODBUS RTU Módulo de Saída de Relé TDO340
-R$ 985,28
-R$
-955 , 72
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-1-Wire Sensor de Corrente TSC200-15
+1-Wire Sensor de Umidade e Temperatura TSH202
 Sob consulta
 Saiba mais
 Pedir cotação
-NPB-240 Carregador de Bateria Estágios Ácido Chumbo Li-ion MeanWell
-R$ 620,40
-R$
-601 , 79
-à vista
-com desconto Pix - Vindi
-Ver opções
+Módulo IO Universal 4G LTE TCG140-4
+Sob consulta
+Saiba mais
+Pedir cotação
+1-Wire Sensor de Temperatura e Umidade TSM400-1-TH
+Sob consulta
+Saiba mais
+Pedir cotação
 Depoimentos
 Nome: Djalma Filho
 Avaliação: Positivo
@@ -545,5 +542,5 @@ Hi-Link
 NK Technologies
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.206 secs - 14-11-2026  - node: commerce-web4-tiny-lw - store
+Load time: 0.876 secs - 15-11-2026  - node: commerce-web5-bot-lw - store
 ×

@@ -1,4 +1,4 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
 $: 50,36 TL
 €: 55,69 TL
@@ -535,13 +535,13 @@ Sepete Ekle
 PC HD 8TB SEAGATE ST8000DM004 BARRACUDA 7200RPM 256MB SATA HARDDISK
 Hikvision DS-2CD1021G2-LIUF Sabit Lens 2.8 mm Hibrit Light 2mp Ir Bullet Ip Kamera
 Hikvision DS-2CD1121G2-LIUF 2MP 2.8MM Akıllı Hibrit Işık Fixed Dome Network Kamera
+PC HD 4TB SEAGATE ST4000VN000 5900 rpm 64 MB Cache NAS DEPOLAMA HARDDİSK
 HILOOK IPC-B140HA-LUFC 4MP 2.8MM 30M COLORVU DUALLIGHT SESLI POE IP BULLET
 ZIMMER 20" HDMI VGA LED HD SES MONiTOR
+PC HD 1TB SEAGATE ST1000DM010 BARRACUDA 7200RPM SATA3
 DELL VOSTRO 5490 i7 10510U 16GB DDR4 512GB SSD MX250 2GB Win10 14" 2.El Dizüstü Bilgisayar
 SEVİMLİ PİNPON Eğitici Hediyelik Oyuncak ( K-50 )
 O-KAM OK-S-335 PREMiUM4G SİRENLİ 4G 4 LENS AOV SOLAR ÇİFT PANEL BEYAZ PTZ KAMERA
-PC HD 4TB SEAGATE ST4000VX000 SATA III 6Gb/s 5900 RPM 64MB GÜVENLİK HARDDİSK
-PC HD 1TB SEAGATE ST1000DM010 BARRACUDA 7200RPM SATA3
 GV HD 2TB WD 3.5 PURPLE SATA3 5400RPM 64MB 7/24 GUVENLIK WD23PURZ (3 YIL RESMI DIST GARANTILI)
 Son Gezilen Ürünler
 Yeni Gelen Ürünler
@@ -558,10 +558,10 @@ DAHUA 192X96 CM P3 DIŞ ORTAM POSTER LED
 DAHUA 176X96 CM P3 DIŞ ORTAM POSTER LED
 DAHUA 160X96 CM P3 DIŞ ORTAM POSTER LED
 Popüler Kategoriler
-Toptan Harici Harddiskleri
-4 Ürün
 Toptan PC Harddiskleri
 33 Ürün
+Toptan Harici Harddiskleri
+4 Ürün
 Toptan IP Bullet Kameraları
 28 Ürün
 Toptan Ip Dome Kameraları
@@ -578,10 +578,10 @@ Toptan Küçük Ev Aletleri
 66 Ürün
 Toptan AHD Kayıt Cihazları
 18 Ürün
-Toptan IP Kayıt Cihazları
-16 Ürün
 Toptan Speed Dome PTZ
 32 Ürün
+Toptan IP Kayıt Cihazları
+16 Ürün
 Hobi Oyuncak
 15 Ürün
 Aydınlatma Ürünleri
@@ -589,8 +589,8 @@ Aydınlatma Ürünleri
 Toptan Tabletler
 9 Ürün
 POPÜLER KATEGORİLER
-Toptan Harici Harddiskleri
 Toptan PC Harddiskleri
+Toptan Harici Harddiskleri
 Toptan IP Bullet Kameraları
 Toptan Ip Dome Kameraları
 Toptan Monitörler
@@ -599,8 +599,8 @@ Toptan Solar Kamera Sistemleri
 Toptan AHD Bullet Kameralar
 Toptan Küçük Ev Aletleri
 Toptan AHD Kayıt Cihazları
-Toptan IP Kayıt Cihazları
 Toptan Speed Dome PTZ
+Toptan IP Kayıt Cihazları
 Hobi Oyuncak
 Aydınlatma Ürünleri
 Toptan Tabletler

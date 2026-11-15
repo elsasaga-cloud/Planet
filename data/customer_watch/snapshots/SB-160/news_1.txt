@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -184,7 +184,7 @@ Tight-buffered cable was considered best for indoor applications whilst loose-tu
 Read More
 AWG CONVERSION GUIDE
 / September 20, 2021
-Views: 626
+Views: 627
 American Wire Gauge or AWG is the US standard measure for the diameter of cable electrical conductors. This AWG chart is based on the number of dies originally required to
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
@@ -199,7 +199,7 @@ Despite the many advancements in fibre optic cable and newer builds taking advan
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,968
+Views: 5,969
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES
@@ -219,7 +219,7 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,228
+Views: 15,229
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?

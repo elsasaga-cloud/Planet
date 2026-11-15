@@ -1,4 +1,4 @@
-# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 Grep Tech | AI Vision, Industrial IoT & Business Solutions Singapore-developed technology for practical operations +65 6340 1030 · [email protected]
 AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol Behavior Analysis Face Detection
 Deploy and partner Incident Management Deployment Architecture Partner Program FAQ
@@ -10,10 +10,11 @@ Custom Software ⌄ Custom development Custom Software Overview
 Case studies Equipment Leasing Operations Multi-company HR System Service Operations ERP
 About & Resources ⌄ Company Profile Articles Downloads Contact
 Talk to us Menu ☰ AI Vision Live Monitoring Virtual Patrol Behavior Analysis Face Detection Incident Management Deployment Architecture Partner Program AI Vision FAQ SMS & APIs GT Notify System HTTP SMS API SMS FAQ Industrial IoT 4G GPS Trackers Custom Software Equipment Leasing Case Study Multi-company HR Case Study Service Operations Case Study About & Resources Articles Downloads Contact Talk to us
-Technology that works in the real world
-See more. Connect everything. Operate smarter.
-AI-powered video monitoring, Industrial IoT and customised business systems—designed and supported in Singapore since 2012.
-Discuss your project Explore capabilities
+GT-AiVision · AI-assisted security operations
+Let AI do the watching, so you can focus on responding.
+Turn compatible CCTV into AI-assisted live monitoring, virtual patrol and incident management. Spend less time watching screens and more time reviewing and responding.
+Explore GT-AiVision Discuss a partnership
+Also from Grep Tech: SMS & Industrial IoT · Custom business applications
 2012 Established 3 Technology practices ASEAN Partner-ready
 AI Vision · Industrial IoT · Business Solutions
 One technology partner

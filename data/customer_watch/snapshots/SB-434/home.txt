@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -271,15 +271,15 @@ ADDERLink INFINITY 2122T - IP KVM extender Transmisor
 1.516,00 €*
 Barix RetailPlayer M400 - IP Audio Decoder
 Descubrir
-Kerlink Wirnet iZeptoCell Cellular - LoRaWAN Gateway indoor celular
 Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor en Helium
-Kerlink Wirnet iFemtoCell-evolution - LoRaWAN Gateway indoor
 Kerlink Wirnet iZeptoCell Ethernet - LoRaWAN Gateway indoor Ethernet
-Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
-Kerlink Wirnet iStation M2 - LoRaWAN Gateway
-Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
-Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
 Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
+Kerlink Wirnet iZeptoCell Cellular - LoRaWAN Gateway indoor celular
+Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
+Kerlink Wirnet iFemtoCell-evolution - LoRaWAN Gateway indoor
+Kerlink Wirnet iStation M2 - LoRaWAN Gateway
+Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
+Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
 LoRaWAN gateway outdoor MultiTech Conduit IP67
 193,00 €*
 Moxa MPC-3070W - Panel PC fanless de 7"

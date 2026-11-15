@@ -1,4 +1,4 @@
-# SB-945 grep.sg · news_1 · https://www.grep.sg/news/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-945 grep.sg · news_1 · https://www.grep.sg/news/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 News | Grep Tech Singapore-developed technology for practical operations +65 6340 1030 · [email protected]
 AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol Behavior Analysis Face Detection
 Deploy and partner Incident Management Deployment Architecture Partner Program FAQ
@@ -38,7 +38,7 @@ Dec 5, 2024
 Dec 2, 2024
 12 RTU5026 – The Perfect Solution for Reliable Temperature Monitoring and Alerts
 Oct 31, 2024
-« Older Entries News & Insights
+View all articles → News & Insights
 Ideas, updates and practical guidance
 Explore practical perspectives on AI video analytics, security technology, connectivity, business systems and the latest developments from Grep Tech.
 All Industry News Company News Resources Talk to Grep Tech

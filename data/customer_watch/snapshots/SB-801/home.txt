@@ -1,4 +1,4 @@
-# SB-801 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-801 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 AurCore Technology
 About Us
 Solutions
@@ -33,18 +33,15 @@ Subscribe to Newsletter
 Submit
 Copyright © 2026 AURCORE TECHNOLOGY . All rights reserved.
 Terms of service Privacy policy
-AI Networking, Your Way.
-Open, flexible, and built around your AI infrastructure—from enterprise deployments to large-scale GPU clusters.
-Learn more
+High‑performance networking for everyone.
+Open, flexible switching for data center, enterprise, and industrial networks.
+Explore Products
 Scale AI with 400G Ethernet
 Purpose-built switching that delivers the bandwidth and efficiency modern AI workloads demand—without vendor lock-in.
 Explore now
 Your Network. Your Choice.
 Choose open-source SONiC or our enterprise-ready AURCNOS to match your operational model and business needs.
 Read more
-Take AurCore for a 60-Day Test Drive
-A limited program for U.S.-based SI and Reseller partners — field-test our next-gen AES and AIS switch platforms in your own deployment, free for 60 days, with a direct line to our product team.
-View Details
 Our Partner Ecosystem
 About Us
 Powering the networks behind AI innovation.

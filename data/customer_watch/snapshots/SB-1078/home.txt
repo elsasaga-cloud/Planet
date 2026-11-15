@@ -1,4 +1,4 @@
-# SB-1078 solimedia.net · home · https://solimedia.net/ · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-1078 solimedia.net · home · https://solimedia.net/ · fetched 2026-11-15T09:38:35Z · HTTP 200
 Solimedia: The Best Deals on Mikrotik and Grandstream
 Skip to content
 Search ×
@@ -170,14 +170,14 @@ Register an account
 click here to Register
 Featured Products
 Quick View
-MaGiC SFP 1G – High Freq.
-$ 83.43 CAD
+CCR2116-12G-4S+
+$ 1,383.20 CAD
+Quick View
+MaGiC SFP 1G – LOW Freq.
+$ 84.89 CAD
 Quick View
 BDCOM IES200-L25-4P2S
 $ 190.28 CAD
-Quick View
-Fibre NIC 40G 2 QSFP
-$ 1,381.73 CAD
 Quick View
 RB4011iGS+RM
 $ 304.45 CAD
