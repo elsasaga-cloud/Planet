@@ -10,7 +10,8 @@
   "Avaya",
   "Cisco",
   "Camtron",
-  "ZKTeco"
+  "ZKTeco",
+  "Ubiquiti"
  ],
  "evidence": [
   {
@@ -67,11 +68,12 @@
  ],
  "grade_override": "B",
  "override_reason": "AB-FINAL-01 2026-10-30 A 级终评：降 B：非主攻区 + 免费邮箱 + 仅 1 次薄回复（K1）",
- "notes": "LT-T03 官网快照加厚（2026-11-15）：fail#17。\nLT-T03 官网快照加厚（2026-11-14）：fail#16。\nLT-T03 官网快照加厚（2026-11-13）：fail#15。\nLT-T03 官网快照加厚（2026-11-12）：fail#14。\nLT-T03 官网快照加厚（2026-11-11）：fail#13。\nLT-T03 官网快照加厚（2026-11-10）：fail#12。\nLT-T03 官网快照加厚（2026-11-09）：fail#11。\nLT-T03 官网快照加厚（2026-11-08）：fail#10。\nLT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。",
+ "notes": "LT-T03 官网快照加厚（2026-11-16）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-11-15）：fail#17。\nLT-T03 官网快照加厚（2026-11-14）：fail#16。\nLT-T03 官网快照加厚（2026-11-13）：fail#15。\nLT-T03 官网快照加厚（2026-11-12）：fail#14。\nLT-T03 官网快照加厚（2026-11-11）：fail#13。\nLT-T03 官网快照加厚（2026-11-10）：fail#12。\nLT-T03 官网快照加厚（2026-11-09）：fail#11。\nLT-T03 官网快照加厚（2026-11-08）：fail#10。\nLT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n面对面接触 + 已在从深圳采购并刷自有 logo = 现成的 OEM 买家；工业线在用 N-Net 可替换。邮件不回 → 走 WA。P1：STI-288DGGPM（2 光 8 电工业 PoE；其询问的 alarm 继电器输出需向 SmartByte 核实），OEM 价阶 30%。注意政府/警务项目守界，只供商用与一般楼宇安防。",
  "researched_at": "2026-10-21",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "深挖 v2（官网核对）"
+  "level": "深挖 v2（官网核对） + 官网快照（LT-T03 2026-11-16）",
+  "snapshot_at": "2026-11-16"
  },
  "company_facts": {
   "legal_name": "Intelligent Professional Network Solutions LLC（IPNS / i-PNS）",
@@ -210,6 +212,14 @@
     "quote": "16 Port Industrial PoE Switch",
     "why": "最近一封去信（邮箱索引；去信共 20 封）",
     "k": "b23b79036dc5cabb"
+   },
+   {
+    "date": "2026-11-16",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "IPNS-Intelligent Professional Network Solution LLC — Conlive is a Event & Conference HTML Template. Created especially designed for events, exhibition, expo, festival, invitation, meeting, meetup, seminar, workshop, concerts, and many other events. features make it perfect for on various displays an",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://ipns-uae.com/"
    }
   ],
   "proof_gaps": [],
@@ -237,7 +247,8 @@
    "2026-11-12T10:26:48Z",
    "2026-11-13T10:19:54Z",
    "2026-11-14T09:37:37Z",
-   "2026-11-15T10:08:17Z"
+   "2026-11-15T10:08:17Z",
+   "2026-11-16T10:25:55Z"
   ],
   "fails": [
    "2026-10-21",
@@ -258,7 +269,8 @@
    "2026-11-14",
    "2026-11-15"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-16"
  },
  "ab_final": {
   "date": "2026-10-30",
@@ -307,5 +319,24 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [
+   "info@ipns-uae.com",
+   "sales@ipns-uae.com"
+  ],
+  "phones": [
+   "+97124910731",
+   "+971559835897"
+  ],
+  "social": [
+   "https://www.facebook.com/people/Intelligent-Professional-Network-SolutionsIPNS/100066916611975/",
+   "https://www.instagram.com/ipns_born?igsh=dmx1NDFtcGU4YzQ1",
+   "https://www.linkedin.com/company/intelligent-professional-network-solutions/"
+  ],
+  "models_on_site": [],
+  "url": "https://ipns-uae.com/",
+  "date": "2026-11-16",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }
