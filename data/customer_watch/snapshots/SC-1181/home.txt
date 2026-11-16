@@ -1,11 +1,11 @@
-# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Agenda-Age Kft. | A hálózatspecialista
 Belépés
 Regisztráció
 Termékek Szolgáltatások Rólunk Kapcsolat Tudásbázis
 AKCIÓ Börze Leértékelt termékek
 HÁLÓZATI aktív eszközök Switch Távfelügyelet Média konverter
-ETHERNET (réz) hálózati termékek Kábel - folyóméter Kábel - szerelt (patch) Csatlakozó és törésgátló Fali aljzat, -keret, kiemelő keret Modulár betét, -toldó, -összekötő Patch panel Kábel Y adapter Szerelési anyag Szerszám, eszköz Teszter, Műszer Konverter
+ETHERNET (réz) hálózati termékek Kábel - folyóméter Kábel - szerelt (patch) Csatlakozó és törésgátló Fali aljzat, -keretek, kiemelő keret Modulár betét, -toldó, -összekötő Patch panel Kábel Y adapter Szerelési anyag Szerszám, eszköz Teszter, Műszer Konverter
 OPTIKAI hálózati elemek Kábel - folyóméter Kábel - szerelt (patch, pigtail) Csatlakozó, Toldó Kötődoboz, Kötéstartó Patch panel PLC elosztó Kábel Y adapter Switch konverterek Konverterek optikai (Média konverterek) Konverter Ethernet, -SFP, -HDMI Konverter video, -audio SFP Modul Teszter, Műszer és kiegészítőik Szerszám, Kellék Fali aljzat Szerelési anyag Alkatrész Bérbeadás
 RACK szekrények és tartozékaik Rack Szekrény, Keret Rack tálcák Rack kábelrendezők Elektromos elosztósávok (PDU) Rack szekrény szellőztetők, hűtő-/fűtőegységek Rack szekrény vegyes tartozékok
 KÁBELBEHÚZÓK (ESTIARE) Kábelbehúzó/-berudaló Kábelbehúzó tartozékok
@@ -14,7 +14,6 @@ SZOLGÁLTATÁSAINK Tanfolyam Kölcsönzés (bérlés) Műszaki szolgáltatás El
 TÁPELLÁTÁS UPS, Akkumulátorbank Akkumulátor Túlfesz. védő, elektromos elosztó Fali aljzat, asztali aljzat Csatlakozó Tápkábel Tápegység, PoE
 TELEFON Kábel Csatlakozó Modulár betét, -toldó, -összekötő Szerszám, eszköz Szerelési anyag Teszter, Műszer
 KOAX Kábel - folyóméter Csatlakozó Teszter, Műszer Szerszám
-RackSys Kiegészítők Szekrények
 Kezdőlap Szolgáltatások Tanfolyamok Kábelelszámolás felhasználás alapján Házhoz szállítás Kölcsönzés Szerviz Műszaki tanácsadás Terméktámogatás, katalógusok Partnerprogram Segítse szolgáltatásunkat - Kérdőív Tartós-bérleti konstrukciók - Grenke Iskolák támogatása Leselejtezett eszközök átvétele Hírleveleink
 Rólunk Bemutatkozás Bisnode oklevél Vélemények rólunk Cégünk működési alapjai Képviseletek Képviseletek Aplus Apower Draka Estiare EXW Galaxy Grandway Legrand Noyafa OptiC RackSys Signal Fire Triton Wintop Zyxel Yuasa
 Munkatársaink Karrier - Álláslehetőség Karrier - Álláslehetőség
@@ -72,7 +71,6 @@ SZOLGÁLTATÁSAINK
 TÁPELLÁTÁS
 TELEFON
 KOAX
-RackSys
 Ajánló
 KICSI a Grandway MT500, de ERŐS!
 Megérkeztek az új generációs szálhegesztők
@@ -105,4 +103,5 @@ Apower | Grandway
 EXW Magyarország
 Optical | Signalfire
 Noyafa | Z-Soft
-Iratkozzon fel hírlevelü
+Iratkozzon fel hírlevelünkre!
+Regisztráljon és iratkozzon fel

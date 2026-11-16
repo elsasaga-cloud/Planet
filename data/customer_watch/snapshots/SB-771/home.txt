@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Soporte pared techo y esquina para sensor infrarojo para FT-, LANTEK SOP.301
-$ 2 + IVA
-Teclado inalámbrico para Alarma AX PRO, HIKVISION DS-PK1-E-WB(O-STD) (SENSOR)
+Sirena para exteriores inal?mbrica, HIKVISION DS-PSG-WO-433
 $ 53 + IVA
+Sensor de movimiento inalambrico para interiores, 85.9°, 15m., HIKVISION DS-PDP15P-EG2-WB
+$ 32 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,37 +202,37 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI 4k Ultra HD 5 mts Fibra Optica macho a ...
-$ 30 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
 CONTROL DE ACCESO
-Cobertor superior para puertas de vidrio 1 metro, ...
-$ 62 + IVA
+Soporte ZL para chapas, LANTEK LTK-MAG600ZL
+$ 16 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-ESTRUCTURADO , FIBRA OPTICA
-Caja modular(Roseta) para fibra optica de 1 puerto...
-$ 1 + IVA
+ACCESORIOS CCTV
+Extension coax RG59 + Corriente 20m, 65ft, EPCOM D...
+$ 16 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 ESTRUCTURADO , GABINETES Y RACKS
-Soportes de montaje para Poste Gab.9U Exteriores K...
-$ 35 + IVA
+TORNILLO PARA MONTAJE DE GABINETE DE PARED M8*80mm...
+$ 1 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-CONTROL DE ACCESO
-Timbre para puerta door bell control acceso Ding D...
-$ 6 + IVA
+ACCESORIOS CCTV , ENERGIA
+Fuente de poder 12vdc 1amp, LANTEK LTK-PS01V2
+$ 3 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+ESTRUCTURADO , FIBRA OPTICA
+Union adaptador Fibra Optica Monomodo SC Simplex u...
+$ 13 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -265,9 +265,16 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-SWITCHES
-Protector voltaje Gigabit PoE Surge Protector Leve...
-$ 20 + IVA
+REDES , SWITCHES
+Fuente 370w para RG-S5310-PoE, RUIJIE RG-PA600I-P-...
+$ 263 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
+Fuente de Alimentación AC/DC 120W 54VDC/2.2A Din-...
+$ 46 + IVA
 Añadir al carrito
 Compare
 Quick view
@@ -280,15 +287,8 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Acceso L2 / 48 GE / 4 x SFP+ / PoE 370w, RE...
-$ 806 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-REDES , SWITCHES
-Switch Distribución L3/ 8 X 2.5GE/ PoE++/ Max 370...
-$ 679 + IVA
+Switch L3 NeverDie / 48 GE PoE / 4 x SFP+ / NO inc...
+$ 1,415 + IVA
 Añadir al carrito
 Compare
 Quick view

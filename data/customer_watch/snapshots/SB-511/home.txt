@@ -1,4 +1,4 @@
-# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 리버샵 - Rivershop
 {#item} {#html}
 {#item}
@@ -103,10 +103,10 @@ SATA to IDE 전원 Y케이블 데스크탑 파워 하드디스크
 넥시 CAT6 1g 기가 이더넷 랜선 인터넷선 연장 케이블
 상품요약정보 : 0.5M, 1M, 1.5M, 2M, 3M, 5M, 10M, 15M, 20M
 판매가 : 1,290원
+AC 파워 케이블 모니터 전원 케이블 TV 코드 3구 컴퓨터 연결 선
+판매가 : 1,600원
 넥시 USB2.0 무선 랜카드 300Mbps 2dBi
 판매가 : 5,100원
-넥시 시리얼(RS232) 1포트 PCI 확장 카드 NX1327
-판매가 : 7,320원
 1 / 2
 SHORTS
 흥미로운 쇼츠와 소식을 한눈에 확인하세요.
@@ -168,6 +168,11 @@ CAT8 S-FTP 40G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 �
 {#item_lazy}
 상품리뷰
 고객님의 생생한 후기를 확인해 보세요.
+넥시 DVI-I to RGB(VGA) 케이블
+잘 사용할게요~^^
+네이버 페이..
+2026-11-16
+0
 넥시 DP to HDMI 케이블 V1.1
 DP & HDMI Small size를 생각하고 구매했는데 큰 size 가 와서 실망했어요
 네이버 페이..
@@ -192,11 +197,6 @@ USB B타입 프린터분배기 2포트 프린터 선택기 분할기 프린터�
 보통
 네이버 페이..
 2026-11-05
-0
-넥시 USB2.0 to RS232 시리얼 케이블 콘솔 통신 PL2303 1M
-좋은 제품 저렴하게 잘 구매 했습니다
-네이버 페이..
-2026-11-03
 0
 Our Highlights
 {#item_lazy} {#html}

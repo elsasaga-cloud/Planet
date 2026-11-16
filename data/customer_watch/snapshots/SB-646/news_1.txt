@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-16T09:56:14Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,10 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 62 içerik).
+Sektörden güncel haberler ve analizler ( 63 içerik).
+Ürün Lansmanı KIOXIA'dan sıvı soğutmalı CM9-DLC SSD ailesi
+KIOXIA, AI sunucuları için sıvı soğutmalı çift portlu CM9-DLC E3.S SSD'lerini duyurdu; kapasite 30,72TB'a kadar çıkıyor.
+16 Kasım 2026
 Ürün Lansmanı Cooler Master ve G.SKILL'den Aktif Soğutmalı DDR5 RAM
 Cooler Master ve G.SKILL iş birliğiyle geliştirilen aktif soğutmalı DDR5 RAM, yüksek frekanslarda daha düşük sıcaklık vadediyor.
 14 Kasım 2026
@@ -138,9 +141,6 @@ IBM, agentic yazılım geliştirme platformu Bob için self-hosted ve air-gapped
 20 Ekim 2026
 İnceleme NVIDIA RTX PRO 4500: Kurumsal AI'ya Giriş Kartı
 NVIDIA RTX PRO 4500 Blackwell Server Edition, 165W'lık tek slotlu yapısıyla L40S performansına yaklaşıyor.
-20 Ekim 2026
-İnceleme Tapo C245D: Çift Kameralı Güvenlik Çözümü
-TP-Link'in Tapo C245D iç mekan güvenlik kamerası, çift lensli yapısı ve akıllı takip özellikleriyle inceleme altında.
 20 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

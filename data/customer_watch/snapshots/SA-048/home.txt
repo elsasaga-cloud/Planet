@@ -1,4 +1,4 @@
-# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Best online Shopping in Saudi Arabia, Riyadh KSA
 Archives
 November 2026
@@ -77,14 +77,14 @@ Firewall License
 Servers & Storage
 SFP Transceivers
 Wireless Access Point
-Fiber & Copper Cables
-Copper
-Copper Structural Cabling
-Copper Testing Tools
 Networking
+Fiber & Copper Cables
 Fiber Cables
 Fiber Connectivity
 Fiber Testing Tools
+Copper
+Copper Structural Cabling
+Copper Testing Tools
 PA & Conference
 Amplifiers & Mixer
 PA & Conference Others
@@ -130,14 +130,14 @@ Firewall License
 Servers & Storage
 SFP Transceivers
 Wireless Access Point
-Fiber & Copper Cables
-Copper
-Copper Structural Cabling
-Copper Testing Tools
 Networking
+Fiber & Copper Cables
 Fiber Cables
 Fiber Connectivity
 Fiber Testing Tools
+Copper
+Copper Structural Cabling
+Copper Testing Tools
 PA & Conference
 Amplifiers & Mixer
 PA & Conference Others
@@ -178,14 +178,14 @@ Firewall License
 Servers & Storage
 SFP Transceivers
 Wireless Access Point
-Fiber & Copper Cables
-Copper
-Copper Structural Cabling
-Copper Testing Tools
 Networking
+Fiber & Copper Cables
 Fiber Cables
 Fiber Connectivity
 Fiber Testing Tools
+Copper
+Copper Structural Cabling
+Copper Testing Tools
 PA & Conference
 Amplifiers & Mixer
 PA & Conference Others
@@ -217,14 +217,14 @@ Firewall License
 Servers & Storage
 SFP Transceivers
 Wireless Access Point
-Fiber & Copper Cables
-Copper
-Copper Structural Cabling
-Copper Testing Tools
 Networking
+Fiber & Copper Cables
 Fiber Cables
 Fiber Connectivity
 Fiber Testing Tools
+Copper
+Copper Structural Cabling
+Copper Testing Tools
 PA & Conference
 Amplifiers & Mixer
 PA & Conference Others
@@ -289,16 +289,6 @@ Save:$205
 Sold: 0
 Available: 8
 SALE
-56%
-Quick View
-Wishlist
-Add to cart
-Linksys – LGS124-UK 24-Port Gigabit Unmanaged Switch
-⃁ 870.00
-Save:$485
-Sold: 0
-Available: 132
-SALE
 46%
 Quick View
 Wishlist
@@ -308,6 +298,16 @@ Linksys – MR6350-ME AC1300 Dual-Band MU-MIMO Mesh WiFi 5 Router
 Save:$267
 Sold: 0
 Available: 30
+SALE
+62%
+Quick View
+Wishlist
+Add to cart
+Linksys – MR8300-ME-BDL AC2200 Tri-Band MU-MIMO Mesh Router with Velop Plug-In Bundle
+⃁ 1,610.00
+Save:$1001
+Sold: 0
+Available: 11
 HUAWEI IdeaHub S3
 Professional Meetings, Seamless Communication
 Shop Now
@@ -323,12 +323,9 @@ CP PLUS 16 Ch. Network Video Recorder(NVR) , 2 SATA Ports, 16 PoE Ports.
 Quick View
 Wishlist
 Add to cart
-Save
-$33.75
 Quick View
 Wishlist
 CP PLUS 8MP Full HD Bullet Camera, 3.6mm Lens, 30Mtr.IR, Built-in Mic.
-⃁ 225.00 Original price was: ⃁225.00. ⃁ 191.25 Current price is: ⃁191.25.
 Equipment’s
 MERCUSYS – 16-Port 10/100Mbps + 2-Port Gigabit Rackmount Switch with 16-Port PoE+
 ⃁ 600.00 Original price was: ⃁600.00. ⃁ 558.00 Current price is: ⃁558.00.
@@ -363,74 +360,37 @@ Accessories
 COMMSCOPE – Faceplate Kit, universal, two ports, British Standard style, shuttered, white
 ⃁ 20.25
 Copper
-Nexans Aginode – Lanmark UTP CAT6 Patch Cord, LSZH 1m Orange
-⃁ 31.50
+Nexans Aginode LANmark-UTP CAT6A Patch Cord , LSZH 1m Orange
 Copper
-RAMCRO – Security & Sound 2 Conductor 16 AWG BC Shielded CMR
+RAMCRO – Security & Sound 3 Conductor 18 AWG BC Shielded CMR
+⃁ 1,100.00
 Copper
-CABCOMM – Liquid Tight Steel Flexible Conduit, 1-1/2″ (40mm) 15 Meter Roll
-⃁ 272.00
+CABCOMM – Category 6 Shielded Keystone Jack
+⃁ 14.04
 Copper
-ExTell – CAT 6, UTP 24AWG PVC Patch Cord
-⃁ 10.50
+ExTell – CAT6 U/UTP 23AWG LSZH Network Cable, Lilac, 305M
+⃁ 1,230.00
 Copper
-BUINE NETWORKS – RJ45 Connector
+BUINE NETWORKS – 6A UTP Keystone Jack Toolless
+⃁ 4.89
 Copper
-COMMSCOPE – SYSTIMAX 360? GigaSPEED X10D? PATCHMAX? GS6 Category 6A U/UTP Patch Panel, 24 port
-⃁ 3,600.00
-Copper
-Ramcro – Category 6 Cable- 4 Pair- U/UTP- PVC Indoor CPR Eca
-Adaptors
-HANWHA VISION – SBP-122HM Hanging Mount Adaptor
-⃁ 44.00
+COMMSCOPE – SYSTIMAX? 360? Evolve 24-Port Modular Patch Panel, 1U, Flat, Category 5e/6/6A
+Cabinet Accessories
+CABCOMM Fixed Shelf for 1000mm Depth rack
 CCTV
-QNO-6072R
-⃁ 634.00
+LNO-6070R
+⃁ 870.00
 CCTV
-VIVOTEK – SD9384-EHL 5MP AI PTZ Camera
-⃁ 9,075.00
+VIVOTEK – AT-WPC-002 M16 Cable Gland for Corrugated Tubing
+⃁ 105.00
 CCTV
-VIVOTEK – AM-71C Waterproof Junction Box
-⃁ 180.00
+VIVOTEK – AM-713 Waterproof Conduit Box
+⃁ 195.00
 Shop and SAVE BIG
 on hottest camera
 SAVE
 $80.000
 Top 20
-Cabinet Accessories
-Cisco – CP-PWR-CORD-UK UK Power Cord for Cisco IP Phones and Network Devices
-⃁ 12.00
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-LEVITON – 41AB2-1F4 – Giga Max Cat 5e 110-Style Wall-Mount Wiring Block Kit
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-CABCOMM Fixed Shelf for 1000mm Depth rack
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-CABCOMM – Fan For Wall Mounted cabinet
-⃁ 60.00
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-LEVITON – 492RU-HFO VERSI-DUCT® Horizontal Cable Manager – 2RU, 3″ × 3″, Front Only, Black
-⃁ 360.00
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-CABCOMM Fixed Shelf for 800mm Depth rack
-⃁ 192.00
-Quick View
-Wishlist
-Add to cart
 Cabinet Accessories
 CABCOMM – 19″ Fixed Shelf, 600mm Depth, Perforated Steel Design
 ⃁ 100.00
@@ -449,6 +409,42 @@ CABCOMM Sliding shelf For 1000mm
 Quick View
 Wishlist
 Add to cart
+Cabinet Accessories
+CABCOMM – 19″ Fixed Shelf, 450mm Depth, Perforated Steel Design
+⃁ 66.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+LEGRAND – 646520 Linkeo 19″ Management Panel – 1U, 2-Axis
+⃁ 128.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+CABCOMM Sliding shelf For 800mm Rack
+⃁ 220.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+NORDEN – Single Fan 220V
+⃁ 42.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+LEGRAND – Patch Panel Cat6 24 Port UTP Unloaded
+⃁ 168.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+SIEMON – 1U 19-Inch Horizontal Rack-Mount Cable Organizer
+⃁ 180.00
+Quick View
+Wishlist
+Add to cart
 Featured Products
 PA & Conference
 CP PLUS 16 Ch. Network Video Recorder(NVR) , 2 SATA Ports, 16 PoE Ports.
@@ -458,7 +454,6 @@ Wishlist
 Add to cart
 CCTV
 CP PLUS 8MP Full HD Bullet Camera, 3.6mm Lens, 30Mtr.IR, Built-in Mic.
-⃁ 225.00 Original price was: ⃁225.00. ⃁ 191.25 Current price is: ⃁191.25.
 Quick View
 Wishlist
 Add to cart
@@ -505,56 +500,63 @@ Wishlist
 Add to cart
 Top Selling Product
 CCTV
-QRN-820S
-⃁ 1,515.00
+HCD-7010RA
+⃁ 498.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AT-PSP-001 Surge Protector
-⃁ 180.00
+VIVOTEK – AT-CAB-002 Side-Mount Bracket for HLG Series Power Supply
+⃁ 270.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-52B Mounting Adapter (3/4″ NPT Female Connector)
-⃁ 127.50
+VIVOTEK – AM-529 Mounting Adapter for Speed Dome
+⃁ 262.50
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-11H Pendant Mount Kit for SC9133-RTL
-⃁ 457.50
+VIVOTEK – AM-11F J-shape Mounting Bracket for Enclosure
+⃁ 262.50
 Quick View
 Wishlist
 Add to cart
 CCTV
-CP PLUS 8MP Full HD Bullet Camera, 3.6mm Lens, 30Mtr.IR, Built-in Mic.
-⃁ 225.00 Original price was: ⃁225.00. ⃁ 191.25 Current price is: ⃁191.25.
+CP PLUS 8MP Network Bullet Camera – 40Mtr IR , SD card, WDR
+⃁ 480.00 Original price was: ⃁480.00. ⃁ 408.00 Current price is: ⃁408.00.
+Quick View
+Wishlist
+Add to cart
+CCTV
+VIVOTEK – CC9390-HV 8MP Compact Panoramic AI Camera
+⃁ 1,548.25
 Quick View
 Wishlist
 Add to cart
 On-Sale Product
 Equipment’s
-Huawei – L2+ (static router), 24*10/100/1000BASE-T ports
-⃁ 2,557.00
+Huawei – Optical Transceiver, eSFP ,GE, Single-mode Module(1310nm,10km,LC)
+⃁ 145.00
 Quick View
 Wishlist
 Add to cart
 Equipment’s
-Huawei – S110-8T2ST Gigabit Ethernet Switch
+Huawei – AC650-512AP Gigabit Ethernet Switch
+⃁ 2,581.25
 Quick View
 Wishlist
 Add to cart
 Equipment’s
-Huawei eKitEngine – S620-16X8YZ Switch
-⃁ 4,678.75
+Huawei eKitEngine – QSFP-100G-CU2M High-Speed Stack Cable
+⃁ 765.00
 Quick View
 Wishlist
 Add to cart
 Equipment’s
-Huawei – S110-24T2SR (24*10/100/1000BASE-T ports
-⃁ 517.00
+Huawei – 10*GE ports, 2*10GE SFP+ ports, built-in 256 license
+⃁ 2,250.00
 Quick View
 Wishlist
 Add to cart

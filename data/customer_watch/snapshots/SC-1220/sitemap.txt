@@ -1,5 +1,5 @@
-# SC-1220 starelec.fi · sitemap · https://starelec.fi/sitemap.xml · fetched 2026-11-15T09:38:35Z · HTTP 200
-2026-11-15	https://starelec.fi
+# SC-1220 starelec.fi · sitemap · https://starelec.fi/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+2026-11-16	https://starelec.fi
 2026-10-27	https://starelec.fi/sivu/yrityksille
 2026-10-25	https://starelec.fi/sivu/myymala
 2026-08-12	https://starelec.fi/sivu/palautusoikeus
@@ -9,6 +9,7 @@
 2026-03-20	https://starelec.fi/sivu/yhteystiedot
 2026-01-25	https://starelec.fi/sivu/toimitusehdot
 2026-01-21	https://starelec.fi/sivu/yritys
+2026-11-16	https://starelec.fi/tuotemerkki/zhongdi-electronic-tools
 2026-11-04	https://starelec.fi/tuotemerkki/klaxon-signals-ltd
 2026-10-21	https://starelec.fi/tuotemerkki/duracell
 2026-10-20	https://starelec.fi/tuotemerkki/goobay
@@ -83,7 +84,6 @@
 2026-01-31	https://starelec.fi/tuotemerkki/rnd-electronics
 2026-01-31	https://starelec.fi/tuotemerkki/cambion-electronics-ltd
 2026-01-31	https://starelec.fi/tuotemerkki/tyco-electronics
-2026-11-14	https://starelec.fi/tuotemerkki/zhg
 2026-10-20	https://starelec.fi/tuotemerkki/elektrokabel
 2026-10-15	https://starelec.fi/tuotemerkki/antistat
 2026-08-18	https://starelec.fi/tuotemerkki/polymaker
@@ -200,5 +200,4 @@
 2026-01-31	https://starelec.fi/tuotemerkki/ningbo-foryard-optoelectronics
 2026-01-31	https://starelec.fi/tuotemerkki/international-rectifier-ir
 2026-01-31	https://starelec.fi/tuotemerkki/huber-suhner-ag
-2026-01-31	https://starelec.fi/tuotemerkki/dfrobot
-2026-01-31	https:
+2026-01-31	https://starelec.fi/tuotemerkki/dfro

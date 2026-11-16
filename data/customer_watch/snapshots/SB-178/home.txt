@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,44 +291,44 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
+NOWOŚĆ
+Teltonika ATRM50 router 5G
+2 890,50 zł z VAT
+3 907,21 zł
+2 350,00 zł netto
+szt
+Najniższa cena z 30 dni: 3 907,21 zł
+Daszek Orno OR-Dom-RL-901DN/G
+55,35 zł z VAT
+61,49 zł
+45,00 zł netto
+szt
+Najniższa cena z 30 dni: 61,49 zł
+Płytka sterowania ON/OFF/PWM - nakładka TR
+60,27 zł z VAT
+79,95 zł
+49,00 zł netto
+szt
+Najniższa cena z 30 dni: 79,95 zł
+ALFA Network AWPCI085S
+23,37 zł z VAT
+95,94 zł
+19,00 zł netto
+szt
+Najniższa cena z 30 dni: 95,94 zł
+Pigtail N/m kątowe - RP-SMA/m kątowe (25 cm)
+12,18 zł z VAT
+27,96 zł
+9,90 zł netto
+szt
+Najniższa cena z 30 dni: 27,96 zł
 WYPRZEDAŻ
-MikroTik CRS125-24G-1S-2HnD-IN - obudowa RACK 19"
-72,57 zł z VAT
-196,80 zł
-59,00 zł netto
+Grandstream HT881 analogowa bramka FXO
+699,87 zł z VAT
+951,36 zł
+569,00 zł netto
 szt
-Najniższa cena z 30 dni: 196,80 zł
-Tenda B6 Stacja bazowa 5 GHz
-282,90 zł z VAT
-372,00 zł
-230,00 zł netto
-szt
-Najniższa cena z 30 dni: 372,00 zł
-Ambit Atheros 5213A, 802.11 a/b/g
-12,30 zł z VAT
-39,36 zł
-10,00 zł netto
-szt
-Najniższa cena z 30 dni: 39,36 zł
-DishEter PRO 28 HV
-613,77 zł z VAT
-1 159,89 zł
-499,00 zł netto
-szt
-Najniższa cena z 30 dni: 1 159,89 zł
-WYPRZEDAŻ
-Uchwyt kablowy KO16, na przewód okrągły ø 16 mm
-4,80 zł z VAT
-14,76 zł
-3,90 zł netto
-szt
-Najniższa cena z 30 dni: 14,76 zł
-Tenda IT6-PCS kamera 3MP UHD PoE
-159,90 zł z VAT
-173,80 zł
-130,00 zł netto
-szt
-Najniższa cena z 30 dni: 173,80 zł
+Najniższa cena z 30 dni: 951,36 zł
 Najnowsze propozycje
 NOWOŚĆ
 Moduł keystone 10G RJ-45 UTP kat.6a, samozaciskowy, kolorowe moduły (SXKJ-10G-UTP-RAL-SA)
@@ -361,8 +361,8 @@ Ubiquiti Access Fail-Safe Strike Lock (UACC-Lock-Strike-Safe-15mm)
 szt
 NOWOŚĆ
 Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
-103,82 zł z VAT
-84,41 zł netto
+104,06 zł z VAT
+84,60 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
@@ -382,4 +382,4 @@ Tenda CP6 obrotowa kamera do monitoringu domowego
 64,55 zł netto
 more
 WYSYŁKA
-Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane
+Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym sam

@@ -1,11 +1,11 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-15T09:38:35Z · HTTP 200
-Sat, 07 Nov 2026 06:11:41 +0000	STS-12-A – AI-Powered Rugged Windows Tablet for Smart Warehousing	https://sundartechno.com/2026/11/07/rugged-windows-tablet-smart-warehousing-sts-12a/
-Sat, 07 Nov 2026 05:55:15 +0000	STS-IIOT68 Industrial IIoT Edge Gateway– Connect Legacy Equipment to the Smart Industrial World	https://sundartechno.com/2026/11/07/sts-iiot68-industrial-iiot-edge-gateway/
-Sat, 07 Nov 2026 05:23:37 +0000	STS 84-Key Programmable Keyboard | Industrial, POS, Kiosk and Control-Console Applications	https://sundartechno.com/2026/11/07/industrial-programmable-matrix-keyboard/
-Sat, 07 Nov 2026 04:58:52 +0000	275 TOPS INDUSTRIAL EDGE AI COMPUTER	https://sundartechno.com/2026/11/07/industrial-edge-ai-computer-jetson-agx-orin/
-Fri, 06 Nov 2026 06:17:54 +0000	Embedded Computing For Surgical Robotics	https://sundartechno.com/2026/11/06/embedded-computing-for-surgical-robotics/
-Fri, 06 Nov 2026 04:27:38 +0000	WIND TURBINE MONITORING WITH STS INDUSTRIAL PANEL PCs	https://sundartechno.com/2026/11/06/industrial-touch-panel-pc-wind-turbine-monitoring/
-Tue, 03 Nov 2026 05:57:59 +0000	SMART SHIP DIGITALIZATION – POWERED BY STS INDUSTRIAL MINI-IPC	https://sundartechno.com/2026/11/03/marine-on-board-data-gateway/
-Mon, 02 Nov 2026 09:20:47 +0000	EMBEDDED COMPUTING FOR ULTRASOUND SYSTEMS	https://sundartechno.com/2026/11/02/embedded-computing-ultrasound-systems-medical-sbc/
-Mon, 02 Nov 2026 06:22:01 +0000	COMMERCIAL AIRCRAFT MRO Rugged Laptop + USB-to-ARINC 429 Interface	https://sundartechno.com/2026/11/02/commercial-aircraft-mro-avionics-testing/
-Thu, 29 Oct 2026 11:59:25 +0000	INDUSTRIAL PROTOCOL CONVERTERS FOR FACTORY & PROCESS AUTOMATION	https://sundartechno.com/2026/10/29/industrial-protocol-converters-gateways/
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+Mon, 16 Nov 2026 09:37:21 +0000	INDUSTRIAL PANEL PCs FOR HYDRAULIC PUMP MANUFACTURING & TESTING	https://sundartechno.com/2026/11/16/industrial-panel-pc-hydraulic-pump-testing/
+Mon, 16 Nov 2026 07:21:54 +0000	DIGITAL TWIN FOR MILITARY ROBOTIC PLATFORMS	https://sundartechno.com/2026/11/16/digital-twin-military-robotic-platform/
+Mon, 16 Nov 2026 06:55:22 +0000	13.3″ Android Touch Panel PC for Mini ATM, Payment & Assisted-Banking Applications	https://sundartechno.com/2026/11/16/13-3-inch-android-touch-panel-pc-banking-kiosk/
+Mon, 16 Nov 2026 06:37:09 +0000	Axelera AI Accelerator-Powered Embedded AI Computer	https://sundartechno.com/2026/11/16/axelera-ai-accelerator-embedded-computer/
+Mon, 16 Nov 2026 06:18:05 +0000	CONNECT YOUR MACHINES. KEEP YOUR EXISTING IP ADDRESSES. Access Control	https://sundartechno.com/2026/11/16/connect-your-machines-keep-your-existing-ip-addresses-access-control/
+Mon, 16 Nov 2026 05:58:08 +0000	FINT T500 – HART Master to PROFIBUS PA Slave Gateway	https://sundartechno.com/2026/11/16/fint-t500-hart-to-profibus-pa-gateway/
+Mon, 16 Nov 2026 05:41:13 +0000	ONE TOUCHSCREEN. MULTIPLE APPLICATIONS.	https://sundartechno.com/2026/11/16/13-3-inch-android-14-touch-panel-pc/
+Mon, 16 Nov 2026 05:15:44 +0000	AI PC FROM SUNDAR TECHNO SOLUTIONS	https://sundartechno.com/2026/11/16/ai-pc-design-visualization-vantage-series/
+Mon, 16 Nov 2026 04:56:31 +0000	PROTECTING BLOOD BANKS & COLD STORAGE FROM CYBER ATTACKS	https://sundartechno.com/2026/11/16/industrial-firewall-blood-banks-cold-storage/
+Mon, 16 Nov 2026 04:44:35 +0000	STS 10.1″ RUGGED ANDROID TABLET — TESTED TO OPERATE AT −20°C	https://sundartechno.com/2026/11/16/sts-rugged-android-tablet-cold-storage/

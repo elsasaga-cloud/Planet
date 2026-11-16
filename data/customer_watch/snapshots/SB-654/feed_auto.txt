@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-14T09:07:48Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-16T09:56:14Z · HTTP 200
+Mon, 16 Nov 2026 09:00:00 +0000	Node-RED en Gateways Industriales de Edge Computing: Cómo Encaja en Proyectos de IIoT	https://www.davantel.com/node-red-en-gateways-industriales-de-edge-computing-como-encaja-en-proyectos-de-iiot
 Fri, 13 Nov 2026 09:00:00 +0000	Adquisición de Datos de Robots Industriales: Integración de Información Robótica con PLCs, Gateways de Borde y Sistemas en la Nube	https://www.davantel.com/adquisicion-de-datos-de-robots-industriales-integracion-de-informacion-robotica-con-plcs-gateways-de-borde-y-sistemas-en-la-nube
 Thu, 12 Nov 2026 09:00:00 +0000	10 ajustes de seguridad esenciales en un router industrial antes de instalarlo	https://www.davantel.com/10-ajustes-de-seguridad-esenciales-en-un-router-industrial-antes-de-instalarlo
 Wed, 11 Nov 2026 09:00:00 +0000	Gestión remota empresarial con RMS: características, capacidades y mejores prácticas	https://www.davantel.com/gestion-remota-empresarial-con-rms-caracteristicas-capacidades-y-mejores-practicas
@@ -55,5 +56,4 @@ Wed, 05 Aug 2026 08:00:00 +0000	¿Cómo elegir el mejor protocolo VPN en los rou
 Mon, 03 Aug 2026 08:00:00 +0000	¿Qué es el protocolo LLDP y LLDP-MED?	https://www.davantel.com/que-es-el-protocolo-lldp-y-lldp-med
 Fri, 31 Jul 2026 07:47:48 +0000	¿Cómo configurar un PLC Siemens para que se pueda configurar remotamente con TIA Portal a través de un router con una IP pública fija y accesible?	https://www.davantel.com/como-configurar-un-plc-siemens-para-que-se-pueda-configurar-remotamente-con-tia-portal-a-traves-de-un-router-con-una-ip-publica-fija-y-accesible
 Wed, 29 Jul 2026 08:00:00 +0000	Actualizaciones de firmware de RutOS 7.24 y TswOS 1.10: CANopen, SSO y más	https://www.davantel.com/actualizaciones-de-firmware-de-rutos-7-24-y-tswos-1-10-canopen-sso-y-mas
-Mon, 27 Jul 2026 08:00:00 +0000	MQTT: Protocolo de Mensajería para IoT — Guía Técnica Completa	https://www.davantel.com/mqtt-protocolo-de-mensajeria-para-iot-guia-tecnica-completa
-Fri, 24 Jul 2026 08:00:00 +0000	¿Qué es el ‘Edge Comptuting’ en IoT? La Guía de arquitectura industrial para el 2026	https://www.davantel.com/que-es-el-edge-comp
+Mon, 27 Jul 2026 08:00:00 +0000	MQTT: Protocolo de Mensajería para IoT — Guía Técnica Completa	https://www.davant

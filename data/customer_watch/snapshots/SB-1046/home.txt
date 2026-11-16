@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Systemy alarmowe i monitoringu CCTV | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -54,28 +54,28 @@ W sklepie iVolta.pl znajdziesz bogatą ofertę rozwiązań z zakresu systemów a
 Współpracujemy z instalatorami, inwestorami oraz biurami projektowymi, aby dobierać systemy zabezpieczeń najlepiej dopasowane do Twoich potrzeb. Bogata oferta produktowa oraz rozbudowany magazyn gwarantują szeroki wybór rozwiązań z zakresu systemów alarmowych i monitoringu. Zapewnimy Ci również doradztwo oraz pomoc w zakupach. Nasz zespół to ponad 70 osób w centrali firmy w Warszawie oraz 10 oddziałach regionalnych, dbających o wysoki poziom obsługi na terenie całej Polski. Bezstresowy zwrot zakupionego towaru w ciągu 14 dni oraz własny dział serwisowy to gwarancja Twojej satysfakcji na każdym etapie realizacji zamówienia. Zapraszamy do zakupów.
 Nowości
 zobacz wszystkie
-Fotopułapka Reolink Camovue 8MP LTE Talon Series Talon Series T130 REOLINK
-858,54 zł brutto
+Kamera IP turret 4Mpix IR+LED30m ColorHunter IPC3614SB-ADF28KMC-I1 UNIVIEW
+1 820,40 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Głośnik sufitowy IPS301015-S UNIVIEW
-2 952,00 zł brutto
+Kontaktron magnetyczny, antracyt, NC MINI-V10-AN YOTOGI
+15,99 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Kontaktron magnetyczny, antracyt, NO/NC SMV-30-AN YOTOGI
+40,59 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Moduł podstawowy z 20 czujnikami – odstęp 2,5 m TORSUS COMPACT 50 DEA
 11 463,60 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-Centrala alarmowa,Grade2, możl. podł. PERFECTA-RF PERFECTA 16 LTE SATEL
-564,57 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Kamera IP 12Mpix AcuSense IP67, IR+LED 40m 2.8mm DS-2CD20123G2-LIUY/SL(2.8mm) HIKVISION
 2 196,78 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Centrala alarmowa, Grade 2, do 64 wejść, moduł ETH PERFECTA-IP 64 M SATEL
-847,47 zł brutto
+Autonomiczna czujka dymu SDA-250 SATEL
+120,54 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Akademia zabezpieczeń – szkolenia
@@ -92,12 +92,12 @@ Szkolenie CCTV Uniview - Szczecin
 Sprawdź
 Promocje
 zobacz wszystkie
-Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
-134,07 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
 613,77 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
+134,07 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
@@ -106,12 +106,12 @@ Dostępność: Dostępny
 Dodaj do koszyka
 Wyprzedaże
 zobacz wszystkie
-Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
-5 535,00 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
 1 105,77 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
+5 535,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
@@ -124,25 +124,23 @@ Zestaw UNV ZZUNV_3 UNIVIEW
 719,99 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-Zestaw do monitoringu ZZUNV_5 UNIVIEW
-289,98 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Zestaw 2xZW600 i 2xAPWK-LED ZZ_2xZW600_2xAPWK-LED YOTOGI
-847,47 zł brutto
+Kontroler 6-sciu przejść, pamięć 20000 kart, moduł LAN w obudowie z zasilaczem QP600XIQLANPACK PCSC
+Szczegółowe informacje dostępne na karcie produktu
+Zestaw 10 x MC 740-PEA ZZ_10x_MC 740-PEA ALARMTECH
+418,20 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Zestaw wideodomofonowy jednorodzinny+ latarka ZZ_GUARDO_LT9 ORNO
 1 843,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw 2xZW600R i 5xAPWK ZZ_2xZW600R_5xAPWK YOTOGI
-1 002,45 zł brutto
+Zestaw OPTIVA IP 1080p, NVR + kamera IP ZZVOBNVR4104+VOBIP243M OPTIVA2B
+227,55 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Gotowy zestaw do monitoringu Tavio ZZTAVIO_45 TAVIO
-819,00 zł brutto
-Dostępność: Na zamówienie
+Zestaw 10 x MC 440 ZZ_10x_MC 440 ALARMTECH
+412,05 zł brutto
+Dostępność: Dostępny
 Dodaj do koszyka
 Zostań naszym
 partnerem handlowym!
@@ -251,4 +249,4 @@ Niniejszym informujemy, iż pobranie faktury korygującej w formie elektroniczne
 Nie zgadzam się Tak potwierdzam
 Drogi Użytkowniku!
 ×
-Dziękujemy za udział w promocji. Twój kod
+Dziękujemy za udz

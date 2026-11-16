@@ -1,4 +1,5 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-16T09:56:14Z · HTTP 200
+15.11.2026 11:14:40	Enoc Lås adapter Trykk knapp Ikke lås	https://www.alcadon.no/enoc/50844/enoc-l%c3%a5s-adapter-trykk-knapp-ikke-l%c3%a5s-ls95-kun-trykk-knapp
 09.11.2026 09:51:13	ECS Fiberpatch OM1 62,5/125 LC-ST 6,0m	https://www.alcadon.no/ecs/lc-st-6/ecs-fiberpatch-om1-62-5-125-lc-st-6-0m-halogenfri-duplex
 06.11.2026 10:53:53	Strømkabel C20 – C21, Sort, 3m	https://www.alcadon.no/alcadon/p-c20-c21-3-hffr/str%c3%b8mkabel-c20--c21-sort-3m-lszh-3x1-5mm2
 30.10.2026 11:04:08	Endefeste Spiral Ø 7,0-8,0 mm	https://www.alcadon.no/malico/gsde0700/endefeste-spiral-%c3%b8-7-0-8-0-mm-adss-endefeste-70-mtr-spenn
@@ -69,5 +70,4 @@
 03.06.2026 10:03:39	Strømkabel C14 - C15 Halogenfri 5 m	https://www.alcadon.no/alcadon/117448-5m/str%c3%b8mkabel-c14-c15-halogenfri-5-m-sort
 30.05.2026 10:19:42	Strømkabel C13 - C14, Låsbar, Svart,0,5m	https://www.alcadon.no/powertek/p-c13-c14-0-dot-5-s-hffr/str%c3%b8mkabel-c13-c14-l%c3%a5sbar-svart-0-5m-hffr-halogenfri
 29.05.2026 10:32:24	Dempeledd F-type HQ ATT 05-F DKT	https://www.alcadon.no/dkt/dkt-50605/dempeledd-f-type-hq-att-05-f-dkt-f-han-f-hun-5-db-0-1-2400mhz
-19.05.2026 11:28:50	PoE Injector 95W/48V 802.3bt Planet	https://www.alcadon.no/planet/ipoe-171-95w/poe-injector-95w-48v-802-dot-3bt-planet-2x100m-1g-2-dot-5g-5gbase-t-rj45
-11.05.2026 15:22:49
+19.05.2026 11:28:50	PoE Inject

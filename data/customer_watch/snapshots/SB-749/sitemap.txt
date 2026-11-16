@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -98,6 +98,10 @@
 	https://www.ecin.ca/shop/en-qsfp28-bxd10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1331nm-tx-1271nm-rx-8478
 	https://www.ecin.ca/shop/en-qsfp28-bxu20-100g-bidi-pam4-qsfp28-single-lambda-xcvr-20km-1291nm-tx-1311nm-rx-8693
 	https://www.ecin.ca/shop/en-qsfp28-bxd20-100g-bidi-pam4-qsfp28-single-lambda-xcvr-20km-1311nm-tx-1291nm-rx-8694
+	https://www.ecin.ca/shop/en-qsfp28-bxu80-100g-bidi-qsfp28-lan-wdm-xcvr-80km-tx-1273-54nm-1277-89nm-1282-26nm-1286-66nm-rx-1295-56nm-1300-05nm-1304-58nm-1309-14nm-11176
+	https://www.ecin.ca/shop/en-qsfp28-bxd80-100g-bidi-qsfp28-lan-wdm-xcvr-80km-tx-1295-56nm-1300-05nm-1304-58nm-1309-14nm-rx-1273-54nm-1277-89nm-1282-26nm-1286-66nm-11177
+	https://www.ecin.ca/shop/en-qsfp28-bxu40-100g-bidi-qsfp28-single-lambda-xcvr-40km-tx-1304-58nm-rx-1309-14nm-11178
+	https://www.ecin.ca/shop/en-qsfp28-bxd40-100g-bidi-qsfp28-single-lambda-xcvr-40km-tx-1309-14nm-rx-1304-58nm-11179
 	https://www.ecin.ca/shop/en-qsfp28-cw4-100g-cwdm4-qsfp28-4-x-25g-nrz-1310nm-2km-duplex-lc-upc-smf-transceiver-4788
 	https://www.ecin.ca/shop/en-qsfp28-dr1-100g-dr1-qsfp28-single-lambda-1310nm-500m-duplex-lc-upc-smf-4794
 	https://www.ecin.ca/shop/en-qsfp28-fr1-100g-fr1-qsfp28-single-lambda-1310nm-2km-duplex-lc-smf-optical-transceiver-4795
@@ -138,10 +142,4 @@
 	https://www.ecin.ca/shop/en-qdd-dco-zr-p-400g-zr-pro-qsfp-dd-coherent-dco-smf-fiber-lc-450km-80km-unamplified-reach-msa-8906
 	https://www.ecin.ca/shop/en-qdd-dco-zr-400g-zr-qsfp-dd-coherent-dco-smf-fiber-lc-450km-reach-msa-8279
 	https://www.ecin.ca/shop/qsa-osfp-qsfp-400g-800g-osfp-to-100g-400g-qsfp28-qsfp-dd-adapter-oqa-oda-10851
-	https://www.ecin.ca/shop/en-osfp-dr4-400gbase-dr4-osfp-finned-top-pam4-1310nm-500m-mpo-12-smf-transceiver-5715
-	https://www.ecin.ca/shop/en-qdd-er4l-400gbase-er4-lite-qsfp-dd-xcvr-30km-w-t-fec-smf-fiber-lc-msa-8917
-	https://www.ecin.ca/shop/en-qdd-er8-400gbase-er8-qsfp-dd-xcvr-40km-smf-fiber-lc-msa-8444
-	https://www.ecin.ca/shop/en-qdd-fr4-400gbase-fr4-xcvr-2km-smf-lc-eml-cwdm4-msa-5712
-	https://www.ecin.ca/shop/en-qdd-lr8-400gbase-lr8-qsfp-dd-xcvr-10km-smf-fiber-lc-msa-6577
-	https://www.ecin.ca/shop/en-osfp-xdr4-400gbase-xdr4-dr-osfp-finned-top-pam4-1310nm-2km-mpo-12-smf-transceiver-5716
-	https://www.ecin.ca/shop/en-q
+	https://www.ecin.ca/shop/en-osfp-dr4-400gbase-dr4-osfp-fin

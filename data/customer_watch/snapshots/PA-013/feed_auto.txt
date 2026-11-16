@@ -1,4 +1,4 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-15T09:38:35Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-16T09:56:14Z · HTTP 200
 12.11.2026 15:41:13	EFB Hylle 1U Uttrekkbar 450mm	https://www.leteng.no/efb-elektronik/691651agr-dot-6/efb-hylle-1u-uttrekkbar-450mm-1u-gr%c3%a5-max-30kg
 12.11.2026 15:36:40	SCP CAT 6A U/FTP 600 MHZ	https://www.leteng.no/scp/cat6ash-prem-ls-bl-b/scp-cat-dot-6-u-ftp-600-mhz-305-m-trommel-23awg-solid-isbl%c3%a5-lszh
 11.11.2026 11:07:36	AVer Room Kit for Teams	https://www.leteng.no/aver/core500/aver-room-kit-for-teams-16gb-ram-256gb-ssd-with-11-6-touch

@@ -1,4 +1,4 @@
-# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-16T09:56:14Z · HTTP 200
 Blog | Varel Alarm
 Kurumsal expand_more
 Hakkımızda
@@ -156,6 +156,10 @@ Devamını Oku arrow_forward
 News
 EN 54-23 Görsel Uyarıcılar: C, W, O Kategorileri ve Sahadaki 4 Hata
 Yangın alarmı sadece duyulmalı değil, görülmeli. EN 54-23 görsel uyarıcı kapsama kategorilerini ve en sık yapılan tasarım hatalarını anlatıyoruz.
+Devamını Oku arrow_forward
+News
+Alarm Anında Binanızla Konuşun: Siemens Novigo PT2001-A1 Çağrı İstasyonu
+Siemens Novigo PT2001-A1 ile bölge seçimli acil anons ve kademeli tahliye. EN 54-16 sertifikalı çağrı istasyonunun kullanım alanları ve avantajları.
 Devamını Oku arrow_forward
 A member of
 VAG Group

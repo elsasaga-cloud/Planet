@@ -1,4 +1,4 @@
-# SB-547 netinet.pl · news_1 · https://netinet.pl/blog/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-547 netinet.pl · news_1 · https://netinet.pl/blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Blog - Netinet
 Współpraca B2B
 Home
@@ -47,16 +47,15 @@ Techly – nowoczesne technologie dla biura i domu
 2025-06-06
 Tagi akcesoria AV
 akcesoria EV
+aktywna tablica
 Barkan
 biurka Techly
 biurko komputerowe
 biurko składane
-Curved TV
+Cyfrowy Uczeń
 Engenius
 ergonomia biura
 Formcase
-gniazda 230 V
-kabel do ładowania EV
 kask rowerowy
 Konferencja biznesowa
 Konferencja MIŚOT Zakopane
@@ -64,8 +63,10 @@ Livall
 Manhattan
 MIŚOT
 montaż soundbara
+montaż telewizora w narożniku
+ranking szaf i stacji ładujących
+Rower elektryczny
 samochody elektryczne
-soundbar pod telewizorem
 Spotkania B2B
 stacje ładujące
 stacje ładujące AC
@@ -81,10 +82,9 @@ uchwyt narożny
 uchwyt sufitowy do projektora
 uchwyty do projektorów
 uchwytyTV
+uchwyty ścienno-podłogowe
 uchwyt ścienny TV
-USB-C Power Delivery
 wallbox
-WiFi7
 zakrzywiony telewizor
 Zjazd MIŚOT
 ładowanie laptopów

@@ -1,4 +1,4 @@
-# SB-1073 sensoguard.com · sitemap · https://sensoguard.com/sitemap.xml · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-1073 sensoguard.com · sitemap · https://sensoguard.com/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
 2026-08-02	https://sensoguard.com/about
 2026-08-02	https://sensoguard.com/blog-50-ugs-sensors-mod-order-by-israel
 2026-08-02	https://sensoguard.com/blog-advantages-of-buried-intrusion-detection-systems
@@ -52,13 +52,14 @@
 2026-08-03	https://sensoguard.com/
 2026-08-02	https://sensoguard.com/integrations
 2026-10-07	https://sensoguard.com/site-design
-2026-08-04	https://sensoguard.com/moss
+2026-11-15	https://sensoguard.com/moss
+2026-11-15	https://sensoguard.com/sgx
 2026-08-24	https://sensoguard.com/ugs-system-unattended-ground-sensors
 2026-08-04	https://sensoguard.com/outwatch
 2026-08-04	https://sensoguard.com/pc-suite
 2026-08-04	https://sensoguard.com/seismic-shield-pro
 2026-08-19	https://sensoguard.com/invisifence-plus
-2026-08-04	https://sensoguard.com/seismic-shield
+2026-11-15	https://sensoguard.com/seismic-shield
 2026-08-04	https://sensoguard.com/sg-patrol
 2026-08-04	https://sensoguard.com/sg-pps
 2026-08-02	https://sensoguard.com/support-center
@@ -70,3 +71,9 @@
 2026-08-02	https://sensoguard.com/use-cases/remote-sites
 2026-08-02	https://sensoguard.com/use-cases/residential-protection
 2026-08-02	https://sensoguard.com/use-cases/solar-farm-protection
+2026-11-15	https://sensoguard.com/blog-ai-camouflage-shirt-two-layer-seismic-detection
+2026-11-15	https://sensoguard.com/blog-solar-farm-security-seismic-perimeter-protection
+2026-11-15	https://sensoguard.com/blog-seismic-sensor-dsp-processing-architecture
+2026-11-15	https://sensoguard.com/blog-cctv-perimeter-security-cost
+2026-11-15	https://sensoguard.com/blog-sensei-how-seismic-detection-works
+2026-11-15	https://sensoguard.com/blog-sensei-why-underground-detection

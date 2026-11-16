@@ -1,4 +1,4 @@
-# SA-048 ekhalas.com · news_1 · https://www.ekhalas.com/blog/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SA-048 ekhalas.com · news_1 · https://www.ekhalas.com/blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 IT & Networking Blog Saudi Arabia | Ekhala
 Archives
 November 2026
@@ -73,14 +73,14 @@ Firewall License
 Servers & Storage
 SFP Transceivers
 Wireless Access Point
-Fiber & Copper Cables
-Copper
-Copper Structural Cabling
-Copper Testing Tools
 Networking
+Fiber & Copper Cables
 Fiber Cables
 Fiber Connectivity
 Fiber Testing Tools
+Copper
+Copper Structural Cabling
+Copper Testing Tools
 PA & Conference
 Amplifiers & Mixer
 PA & Conference Others
@@ -126,14 +126,14 @@ Firewall License
 Servers & Storage
 SFP Transceivers
 Wireless Access Point
-Fiber & Copper Cables
-Copper
-Copper Structural Cabling
-Copper Testing Tools
 Networking
+Fiber & Copper Cables
 Fiber Cables
 Fiber Connectivity
 Fiber Testing Tools
+Copper
+Copper Structural Cabling
+Copper Testing Tools
 PA & Conference
 Amplifiers & Mixer
 PA & Conference Others

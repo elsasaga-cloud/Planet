@@ -1,4 +1,4 @@
-# SB-960 steren.com.mx · home · https://www.steren.com.mx/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-960 steren.com.mx · home · https://www.steren.com.mx/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Buen Fin en Steren: ofertas, vigencias y cómo pagar | Steren
 La tienda no funciona correctamente con las cookies desactivadas.
 Ir al contenido Desde
@@ -7,7 +7,7 @@ Mi SterenCard 10% abonado Cuenta Mis pedidos Carrito
 Busca por producto, modelo o SKU
 Todas las categorías Cables Energía Audio Computación TV y video Smart Home Seguridad Buen Fin Lo nuevo Tiendas
 +700 tiendas. Recoge tu pedido en tan sólo 60 minutos* *Sujeto a disponibilidad. Busca tu tienda
-Día 4 de 6
+Día 5 de 6
 Hazlo tuyo.
 Es Buen Fin.
 Ofertas válidas del 12 al 17 de noviembre de 2026
@@ -18,10 +18,10 @@ Termina el martes 17 de noviembre a las h (hora del centro)
 Pausar 12
 13
 14
+15
 HOY
-16
 17
-Deshumidificador electrónico con tanque de 900 ml Precio regular: $795 00 Precio Buen Fin: $549 00 Minicámara para auto (Dash Cam) con grabador Full HD y visualización por App Precio: $715 00 Mini proyector multimedia HD de 110 ANSI lm Precio regular: $1,490 00 Precio Buen Fin: $999 00
+Pantalla con CarPlay* y Android Auto* Precio regular: $1,490 00 Precio Buen Fin: $999 00 Bafle de 6.5" profesional Bluetooth* True Wireless Stereo con batería recargable Precio regular: $2,990 00 Precio Buen Fin: $2,090 00 Cámara de seguridad Wi-Fi* / Ethernet 4 Mpx robotizada con seguidor de movimiento para exterior, doble banda Precio regular: $1,290 00 Precio Buen Fin: $899 00
 Encuentra lo tuyo Irrepetibles ↘ Esenciales ↘ Insignia ↘ Bafles ↘ Baterías recargables USB ↘ Gadgets ↘ Beneficios y pagos ↘
 Y además
 Más beneficios para pagar
@@ -54,8 +54,8 @@ SKU: PB-CAR80
 Precio anterior: $1,790 00 Ahorra $541 (30%)
 $1,249 00
 Termina el martes 17
-En stock
-Agregar al carrito Agregar
+Agotado en línea
+Consúltalo en tienda
 Irrepetible
 Bafle de 6.5" profesional Bluetooth* True Wireless Stereo con batería recargable
 SKU: BAF-0690R
@@ -417,7 +417,4 @@ Oferta
 Receptor de audio Bluetooth* y manos libres con batería recargable para 2 dispositivos
 SKU: BTR-300
 5.0 (4)
-Precio anterior: $399 00 Ahorra $120 (30%)
-$279 00 $27.90 abonado a tu SterenCard
-En stock
-Agregar 
+P

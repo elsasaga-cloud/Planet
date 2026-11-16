@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -462,13 +462,13 @@ Kurzy
 Přihlaste se
 Zaregistrujte se
 Pomoc
-Signal Fire Welding Machines
-Signal Fire Welding Machines – which model is right for you?
-Which model is right for you?
-Dozvědět se více
 Signal Pro
 Multiswitche Signal Pro
 nová řada multiswitchů
+Dozvědět se více
+Signal Fire Welding Machines
+Signal Fire Welding Machines – which model is right for you?
+Which model is right for you?
 Dozvědět se více
 Doporučené produkty
 Nové produkty Novinky
@@ -581,14 +581,14 @@ Předchozí nejnižší cena: 503,36 Kč
 419,90 Kč bez DPH
 Zobrazit všechny
 V posledním zpravodaji
-EgoExplorer zaznamenává 100 hodin lidských pohybů pro účely trénování humanoidních robotů.
-Vědci ze Shanghai AI Laboratory, Zhejiang University a Shanghai Jiao Tong University vytvořili datový soubor EgoExplorer, který zahrnuje 100 hodin lidské aktivity zaznamenané pomocí speciálního nositelného systému. Shromážděné materiály kombinují videozáznamy z pohledu uživatele s údaji o pohybech celého těla, práci prstů a kontaktu s předměty. Cílem projektu je zefektivnit trénink humanoidních robotů, kteří by v budoucnu mohli vykonávat každodenní činnosti a manuální úkoly vyžadující přesnost ...
+China has commissioned the world’s highest-altitude solar power station.
+In Tibet, at an altitude of around 4,300 metres above sea level, the first unit of a solar power station equipped with a thermal energy storage system has been commissioned. On 6 November 2026, the facility was connected to the electricity grid for the first time, becoming the world’s highest-altitude facility of its kind. The project, carried out by China General Nuclear Power Group (CGN), is located in Gar County, in the western part of the Tibetan Plateau....
 Pokračovat ve čtení
-Optická instalace SMATV – Signal PROfessional.
-Níže uvádíme několik fotografií z instalace provedené společností Pro-instal – telekomunikační instalace Michał Lipka z Legionowa. Instalace zahrnuje rozšíření stávajícího systému SMATV o další bytové jednotky v bytovém domě. Vzhledem k delším kabelovým trasám bylo rozhodnuto o vybudování multiswitchové sběrnice na bázi optického vlákna....
+The TRISET-302 range of Tri-shield cables.
+The TRISET-302 range comprises a series of high-quality RG-6-type coaxial cables, designed for the transmission of DVB-T2 television signals and DVB-S/S2 satellite signals. They are characterised by low attenuation, high resistance to interference and a robust construction, making them the ideal choice for small domestic installations and professional multi-user installations. These are Tri-Shield+ type cables, with shielding class A+ and a 1.02 mm copper core
 Pokračovat ve čtení
-Přídavná čtečka s klávesnicí v modulárním IP videotelefonním systému Hikvision.
-Níže je uveden příklad schématu IP videotelefonního systému založeného na modulární bránové stanici. Stanice namontovaná na vstupní straně se skládá z hlavního modulu DS-KD8003-IME1(B) G73652, čtečky karet ve standardu Mifare DS-KD-M G73662, modulu numerické klávesnice DS-KD-KP G73668 a nástěnného rámečku s ochrannou stříškou. Otevření branky z vnitřní strany při odchodu lze provést několika způsoby. Jedním z nich je odchod pomocí klíče nebo kliky, pokud je na brance namontována. Pokud tato mož...
+Colours of adapters in fibre optic installations.
+A fibre optic adapter is a socket-to-socket connector made of plastic that allows two plugs to be connected. As a rule, the connectors have to be of the same type - e.g. ULTIMODE A-111 L42111 adapter allows to connect two SC connectors, ULTIMODE A-233 L42233 two duplex LC connectors, etc. It is also possible to use adapters allowing to connect different plugs - e.g. ULTIMODE A-115 L42115 connects an SC plug with an FC plug....
 Pokračovat ve čtení
-Porovnání testerů CCTV Signal.
-Testery CCTV Signal jsou univerzální nástroje určené k instalaci, konfigura
+The CGI protocol for IP cameras and recorders.
+CGI is a protocol through which an IP camera can communicate with a web browser or an application

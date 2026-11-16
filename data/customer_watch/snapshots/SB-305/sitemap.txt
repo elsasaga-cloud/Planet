@@ -1,4 +1,4 @@
-# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-305 Bits&Byte CONSULTING PVT LTD · sitemap · https://www.bitsandbyte.net/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
 	https://www.bitsandbyte.net
 	https://www.bitsandbyte.net/solutions
 	https://www.bitsandbyte.net/solutions/networking-connectivity
@@ -73,6 +73,7 @@
 	https://www.bitsandbyte.net/tools
 	https://www.bitsandbyte.net/tools/domain-health
 	https://www.bitsandbyte.net/tools/email-security
+	https://www.bitsandbyte.net/tools/mx-lookup
 	https://www.bitsandbyte.net/tools/website-security
 	https://www.bitsandbyte.net/tools/dns-lookup
 	https://www.bitsandbyte.net/tools/speed-test

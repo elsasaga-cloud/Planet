@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-16T09:56:14Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -119,6 +119,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+Securing Critical Infrastructure: The Role of Optical Systems in Protecting State and Industrial Facilities
+In today's interconnected world, energy grids, water utilities, telecommunications networks and strategic government facilities face increasing security challenges. Traditional security systems can have limitations when monitoring large geographical areas, particularly when it comes to detecting unauthorized activity and identifying potential threats before damage occurs.
+Read more
 Fiber Optics on the Battlefield and in Mines
 Standard fiber optic cables are typically installed in protected environments, for example in underground ducts, conduits or cable trays. But what happens when high-speed data transmission is needed in environments where cables are repeatedly deployed, exposed to mechanical stress or subjected to demanding environmental conditions?
 Read more
@@ -206,13 +209,4 @@ Read more
 LC Field fiber optic connector
 Amphenol LC Field offers a simple system to convert a standard LC connector to a connector for harsh environments.
 Read more
-FOSS Slovakia is a member of Critical Infrastructure Association of the Slovak Republic
-Read more
-Conversion of ARINC 801 termini to LC Plug
-FOSS offers products based on ARINC 801 termination with the option of conversion to LC connector using LC-T801 receptacle
-Read more
-FOSS Expanded Beam to LC Adapters Receptacle
-Receptacle can be connected directly onto the MIL-DTL-83526 Expanded Beam Plug , and can be therefore used as a quick tool to change the expanded beam port to LC port, by using standard military tactical cables
-Read more
-OFC Conference 2025
-Foss team att
+FOSS Slovakia is a member of Critical Infrastructure Association of the Slovak R

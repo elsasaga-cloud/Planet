@@ -1,5 +1,5 @@
-# SB-1073 sensoguard.com · home · https://sensoguard.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
-Underground Seismic Perimeter Security | SensoGuard
+# SB-1073 sensoguard.com · home · https://sensoguard.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+SensoGuard: Underground Seismic Perimeter Security
 Home
 Products
 Seismic Shield
@@ -35,7 +35,6 @@ Prison Protection
 Solar Farm Protection
 Blog
 Support
-Training
 Support Center
 Integration
 Site Design
@@ -109,7 +108,7 @@ Common questions about how SensoGuard's underground seismic detection works.
 How does SensoGuard's seismic detection work?
 Buried sensors feel ground vibration and use adaptive, DSP-driven algorithms to classify what's causing it, footsteps, a vehicle, or digging, the moment a threat crosses the line. There's no line of sight requirement and no visible hardware for an intruder to spot or bypass before the system has already detected them.
 Does weather affect detection?
-No. SensoGuard sensors are IP68 rated to MIL-STD-810G and operate from -40°C to 85°C (-40°F to 185°F), so rain, wind, fog, snow, and extreme heat or cold don't affect detection performance.
+No. Our buried seismic sensors are IP68 rated, meet MIL-STD-810G and operate from -40°C to 85°C (-40°F to 185°F), so rain, wind, fog, snow, and extreme heat or cold don't affect detection performance.
 What's the difference between Seismic Shield, Seismic Shield Pro, and InvisiFence Plus?
 Seismic Shield is built for private residential properties. Seismic Shield Pro pairs buried sensors with AI-verified PTZ camera tracking for critical infrastructure, borders, and large-scale sites. InvisiFence Plus is the wired sensor-cable-only system for sites that want a buried virtual fence connected directly into an existing alarm system, without a camera layer.
 Can SensoGuard integrate with my existing alarm system or VMS?
@@ -143,7 +142,6 @@ Pipeline Protection
 Prison Protection
 Solar Farm Protection
 Support
-Training
 Support Center
 Integrations
 Site Design
@@ -151,7 +149,7 @@ Company
 About Us
 Blog
 Contact
-Headquarters: 4 HaHaruv St Modi'in Region Industrial Park, Shoam, Israel
+Headquarters: Haharuv 4, Modi'in Region Industrial Park, Shoham, Israel
 © 2026 SensoGuard Ltd. All rights reserved
 Legal
 |

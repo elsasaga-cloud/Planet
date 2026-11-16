@@ -1,4 +1,4 @@
-# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Grep Tech | AI Vision, Industrial IoT & Business Solutions Singapore-developed technology for practical operations +65 6340 1030 · [email protected]
 AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol Behavior Analysis Face Detection
 Deploy and partner Incident Management Deployment Architecture Partner Program FAQ
@@ -62,15 +62,15 @@ Solutions shaped around operational requirements—not generic packages.
 Latest thinking
 Ideas for smarter operations
 All resources →
+Nov 2026
+Preparing Security Teams for Remote Surveillance: From Training to Response
+A useful monitoring service needs people who can understand an alert, check the evidence and coordinate an appropriate response.
 Jul 2025
 How AI is Revolutionizing Traditional CCTV Surveillance
 For decades, CCTV systems have played a critical role in security—but they’ve largely remained passive. Cameras record 24/7, but unless someone is watching or reviewing footage, important events often go unnoticed. Traditional systems are reactive, not proactive. But that’s changing fast. Artificial Intelligence (AI) is transforming the landscape of video surveillance, making CCTV systems smarter, […]
 Jul 2025
 Why We’re All-In on AI, Edge Computing, and Video Analysis
 In recent years, we’ve witnessed a surge in artificial intelligence (AI) across nearly every industry—from chatbots to self-driving cars. It’s not just a trend. It’s a paradigm shift. And here at Grep Tech, we believe that companies who don’t embrace this AI revolution now will be left far, far behind. This is why we’re building […]
-Jul 2025
-Tripwire vs Motion Detection: Which is Better for Smart Video Surveillance?
-When it comes to automated alerts in CCTV systems, two commonly used technologies stand out: motion detection and tripwire detection. While both aim to detect movement, they serve very different purposes—and choosing the right one can significantly improve the effectiveness of your security operations. Let’s break down the key differences and how GT-AiVision leverages tripwire […]
 Start with the problem
 Tell us what needs to work better.
 We’ll help identify a practical combination of AI, connected hardware and software.

@@ -1,4 +1,4 @@
-# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Automatyka i elektronika przemysłowa - CONSTEEL Electronics
 Menu
 Twój koszyk
@@ -146,6 +146,9 @@ Switche przemysłowe
 Routery przemysłowe
 Serwery portów szeregowych
 Konwertery światłowodowe
+KNX w lepszej cenie
+Integruj klimatyzację z KNX.
+Poznaj bramki Zennio
 #topserwer
 Dowiedz się więcej #topserwer
 IES2100SL
@@ -479,8 +482,4 @@ Nowość
 3-4 dni
 HD67G32-G43-E-B2 konwerter EtherNet/IP Master do HTTP/REST Client z LAN, LTE SIM, eSIM i DIN
 HD67G32-G43-E-B2 konwerter EtherNet/IP Master / HTTP/REST Client z Ethernetem LAN, LTE SIM, eSIM i montażem na szynie DIN.
-HD67G32-G43-..
-3 827,96 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-
+HD67

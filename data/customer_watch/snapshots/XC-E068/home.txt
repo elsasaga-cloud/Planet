@@ -1,4 +1,4 @@
-# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Infrastructure decisions start here - Vespertec Skip to content Skip to main content
 Products
 Services
@@ -123,7 +123,7 @@ info@vespertec.com
 LinkedIn
 Stay Updated
 Subscribe to our newsletter for the latest updates and insights.
-X/Twitter
+Name
 This field is for validation purposes and should be left unchanged.
 Email Address (Required)
 Subscribe

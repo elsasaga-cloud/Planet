@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,45 +41,45 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-MikroTik 1.25/2.5G SFP optický modul HS-55DLC80D, SM, 80km, 1550nm
-615 Kč bez DPH
-744 Kč s DPH
-DEYE mikroinvertor 500W, 1 MPPT
-2 622 Kč bez DPH
-3 173 Kč s DPH
-Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý
-114 Kč bez DPH
-138 Kč s DPH
-Hikvision DS-DM1940W Nástěnný vesa držák pro monitory 19 až 40"
-Triton osvětlovací LED diodová jednotka magnetická včetně adaptéru
-1 147 Kč bez DPH
-1 388 Kč s DPH
-Ubiquiti Externí přísvit pro G6 180 kameru, bílý
-2 898 Kč bez DPH
-3 507 Kč s DPH
-Ubiquiti UniFi patch kabel, 8m, Cat5e, černý
-219 Kč bez DPH
-265 Kč s DPH
-Hikvision IP turret hybrid kamera DS-2CD2323G2-LI2U(2.8mm), 2Mpx, 2.8mm, AcuSense
-Ubiquiti UniFi patch kabel, 3m, Cat5e, bílý, 10 pack
-1 283 Kč bez DPH
-1 553 Kč s DPH
-Hikvision IP turret hybrid kamera DS-2CD2343G2-LI2U(2.8mm)(BLACK), 4Mpx, 2.8mm, AcuSense, Černá
-Ubiquiti UniFi patch kabel, 1m, Cat5e, černý, 24 pack
-1 938 Kč bez DPH
-2 345 Kč s DPH
-MEAN WELL DDR-15G-5 Step-down měnič napětí DC/DC, 15W
+Teltonika Security WLANP, Komunikační rozhraní s Wi-Fi4 a LAN pro P64
+1 393 Kč bez DPH
+1 685 Kč s DPH
+Hikvision IP turret kamera DS-2CD1367G3-LIU(4mm), 6Mpx, 4mm, ColorVu
+Ubiquiti Venkovní singlemode simplex optický patch cord SC APC/SC APC, 15m
+402 Kč bez DPH
+486 Kč s DPH
+WD Ultrastar DC HA340, 3.5", 6TB, SATA
+8 417 Kč bez DPH
+10 185 Kč s DPH
+Triton 19" stojanový rack 18U/600x900 prosklené dveře, šedý
+9 431 Kč bez DPH
+11 412 Kč s DPH
+Triton plastový pant pro flat-pack, RKA a 10" rozvaděče
+32 Kč bez DPH
+39 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý
+91 Kč bez DPH
+110 Kč s DPH
+Hikvision AX PRO Bezdrátová ústředna lite pro 64 zón
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, černý, 10 pack
+497 Kč bez DPH
+601 Kč s DPH
+Ubiquiti UniFi patch kabel, 2m, Cat5e, modrý, 10 pack
+1 051 Kč bez DPH
+1 272 Kč s DPH
+Conexpro 10G SFP+ optický modul, WDM/BiDi, SM, Tx1270/Rx1330nm, 40km, 1x LC, DDM
 464 Kč bez DPH
 561 Kč s DPH
-Seagate HDD Exos 7E10, 3.5", 10TB, 512n, SATA
-10 281 Kč bez DPH
-12 440 Kč s DPH
-Teltonika Pasivní Gigabitový PoE injektor, 24V, 30W
-414 Kč bez DPH
-501 Kč s DPH
-TP-Link Tapo C550WS Venkovní otočná IP kamera s Wi-Fi, 8Mpx, 4mm
-1 718 Kč bez DPH
-2 079 Kč s DPH
+Samsung 990 NVMe SSD, M.2, 1TB
+4 135 Kč bez DPH
+5 003 Kč s DPH
+Ubiquiti UniFi patch kabel, 8m, Cat5e, bílý
+219 Kč bez DPH
+265 Kč s DPH
+Hikvision IP bullet kamera DS-2CD1067G3-LIU(4mm), 6Mpx, 4mm, ColorVu 3.0
+Ubiquiti UniFi Premium Etherlighting patch kabel, 3m, Cat6A, bílý, 10 pack
+3 Kč bez DPH
+3 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

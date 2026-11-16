@@ -1,4 +1,4 @@
-# SB-657 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-657 egesanteknoloji.com.tr · home · https://www.egesanteknoloji.com.tr/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Egesan Teknoloji, Güvenlik Sistemleri, Yangın Algılama, Alarm, Kamera Toptancısı
 0 (252) 382 32 36
 0 542 182 32 36
@@ -191,8 +191,6 @@ Wöller W-4100 T Sütun Hoparlör Trafolu SİYAH
 Hikvision
 Hikvision KAMERA GSM PAN/TILT 2 MP DS-2DE2C200IWG-K/4G/C09S20 4G SOLAR PANEL KAMERA
 Hikvision
-Hikvision DS-2XS2T41G1-ID/4G 4 MP 4MM Sabit Lensli IR Bullet IP Solar Kamera
-Hikvision
 Hikvision DS-KD9613-FE6 IP İnterkom Yüz Tanıma Ünitesi
 Hikvision
 Hikvision DS-PWA64-Kit-WE AX Pro Kablosuz Alarm Sistemi Kiti (BLACK) Siyah
@@ -203,6 +201,9 @@ Hikvision DS-2DE4425IW-DE 4MP IP IR PTZ Speed Dome Kamera
 TÜKENDİ
 Coremax
 COREMAX CRS - 4000W - WHİTE 4 Lens 4G e-Sim AOV Solar Kamera
+TÜKENDİ
+Hikvision
+Hikvision DS-2XS2T41G1-ID/4G 4 MP 4MM Sabit Lensli IR Bullet IP Solar Kamera
 TÜKENDİ
 Hikvision
 Hikvision DS-2CD2T67G2P-LSU/SL 6MP Panoramic DUAL LENS ColorVu Sabit Lens Bullet Kamera (H.265+)

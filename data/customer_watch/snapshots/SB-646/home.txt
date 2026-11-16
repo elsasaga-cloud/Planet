@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -60,11 +60,11 @@ Stokta
 Yeni Geldi Asus Asus Pro WS TRX50-SAGE WiFi A DDR5 4XM.2 USB WIFI7 STR5 (AMD Threadripper Pro 9000/7000 Wx Serileri ile Uyumlu)
 Stokta · Yeni eklendi
 Ürünü İncele
-Öne Çıkan Marka Samsung
-1.465 ürün
-Samsung Ürünleri
-Son Haber Cooler Master ve G.SKILL'den Aktif Soğutmalı DDR5 RAM
-14 Kasım 2026
+Öne Çıkan Marka Lenovo
+1.874 ürün
+Lenovo Ürünleri
+Son Haber KIOXIA'dan sıvı soğutmalı CM9-DLC SSD ailesi
+16 Kasım 2026
 Haberi Oku
 22 +
 Yıllık Deneyim
@@ -87,7 +87,7 @@ Tüm Kategoriler
 Bilgisayar Parçaları
 852 ürün
 Güvenlik Ürünleri
-901 ürün
+908 ürün
 Ağ Ürünleri
 751 ürün
 Baskı Çözümleri
@@ -113,8 +113,8 @@ Dahua
 Dahua IPC-HFWN-E40P-SA 4MP 3.6MM Sabit Lens Dahili Mikrofon İnsan Algilama IP67 IP Bullet Kamera
 Tiwox
 Tiwox JP-R80A 203DPI Direkt Termal 80MM USB+Ethernet Masaüstü Fiş Yazıcı
-Lenovo
-Lenovo NB V15 83GW008BTX I5-13420H 16GB 512SSD O/B 15.6 DOS
+Sensei
+Sensei Hdtv-Extention 60 Metre 1080P CAT6 KVM Extender (HDMI-USB-IR-Audio)
 2021 – 2026 Ödülleri
 Markalar Büyümeyi Ödüllendiriyor
 2021 'den bu yana 12 markadan 28 ödül. Tedarik gücümüzün üçüncü taraf onayı.
@@ -198,6 +198,10 @@ Haberler ve Duyurular
 Ödüller, etkinlikler ve sektörden güncel haberler.
 Tüm Haberler
 Ürün Lansmanı
+16 Kasım 2026
+KIOXIA'dan sıvı soğutmalı CM9-DLC SSD ailesi
+KIOXIA, AI sunucuları için sıvı soğutmalı çift portlu CM9-DLC E3.S SSD'lerini duyurdu; kapasite 30,72TB'a kadar çıkıyor.
+Ürün Lansmanı
 14 Kasım 2026
 Cooler Master ve G.SKILL'den Aktif Soğutmalı DDR5 RAM
 Cooler Master ve G.SKILL iş birliğiyle geliştirilen aktif soğutmalı DDR5 RAM, yüksek frekanslarda daha düşük sıcaklık vadediyor.
@@ -205,10 +209,6 @@ Cooler Master ve G.SKILL iş birliğiyle geliştirilen aktif soğutmalı DDR5 RA
 5 Kasım 2026
 AMD'den 144GB Bellekli Yeni Nesil PCIe Hızlandırıcı
 AMD Instinct MI350P, 600W'lık tek PCIe kartta 144GB HBM3E bellek sunuyor. Dört yıl sonra gelen yeni nesil hızlandırıcı veri merkezlerini hedefliyor.
-Yapay Zekâ
-5 Kasım 2026
-OpenAI Matematikte Yapay Zekayla Sınır Aştı
-OpenAI, yeni paylaştığı araştırmayla yapay zekanın matematiksel ispat yeteneklerinde önemli bir ilerleme kaydettiğini duyurdu.
 5.000+ Bayinin Arasına Katılın
 Bayi başvurunuzu üç adımda tamamlayın — 48 saat içinde geri dönüş.
 Bayi Başvurusu Bayilik Evrakları

@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -165,14 +165,14 @@ Sold Out
 판매가 : 731,500원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC4100AB 10G 관리형 L2 스위치 (1Gbps TP 4포트(콤보1~4)/1G SFP 16슬롯/2.5G SFP 8슬롯/10G SFP 4슬롯)
-상품요약정보 : 웹 관리, 콘솔, Telnet, S-Ring(절체, 복구 30ms), Dual-Ring / 440(W) x 225(D) x 44(H)mm
-판매가 : 724,900원
-LIKE IT ! 0
-Sold Out
 솔텍 SFC8000HP 산업용 관리형 L2 스위치 (1Gbps PoE 8포트/2.5G SFP 2슬롯) (전원공급장치 포함)
 상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 70°C / PoE 240W / 전원이중화 / S-Ring(복구타임
 판매가 : 699,600원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC4100AB 10G 관리형 L2 스위치 (1Gbps TP 4포트(콤보1~4)/1G SFP 16슬롯/2.5G SFP 8슬롯/10G SFP 4슬롯)
+상품요약정보 : 웹 관리, 콘솔, Telnet, S-Ring(절체, 복구 30ms), Dual-Ring / 440(W) x 225(D) x 44(H)mm
+판매가 : 724,900원
 LIKE IT ! 0
 Sold Out
 솔텍 SFC505GHP V2 스위치 (1Gbps TP 5포트(PoE 4포트))
@@ -190,9 +190,10 @@ Sold Out
 판매가 : 198,000원
 LIKE IT ! 0
 Sold Out
-에시르 SG-600C KAT-HD600C 1채널 AHD TVI CVI용 UTP 영상 발룬 송수신기
-상품요약정보 : 영상 발룬 UTP 발룬 송수신기 세트 AHD,TVI,CVI, 4K 해상도 연결 가능 최대거리 300M
-판매가 : 2,100원
+인네트워크 IN-SC-SC-DP-SM 30M 국산 SC-SC 싱글모드 광 점퍼코드 30M INO006
+상품요약정보 : OS1 / 2CORE / 노란색
+소비자가 : 17,300원
+판매가 : 13,800원
 FiberMart 특가
 더보기
 LIKE IT ! 0
@@ -305,11 +306,6 @@ Sold Out
 {#text_2}
 CCTV
 더보기
-LIKE IT ! 0
-Sold Out
-다후아 HAC-T1A21N-U 200만화소 3.6MM IR ALL-HD 실내용 적외선 돔 카메라
-상품 요약설명 : 2M 돔 적외선 카메라, ULTRA-HD OSD 설정으로 CVI, AHD, TVI, SD 설정 변경 가능, 3.6mm 고정 초점 렌즈
-판매가 : 16,500원
 LIKE IT ! 0
 Sold Out
 다후아 DH-IPC-HFW1230SN-S5 200만화소 3.6MM IR IP 실외용 적외선 뷸렛 카메라

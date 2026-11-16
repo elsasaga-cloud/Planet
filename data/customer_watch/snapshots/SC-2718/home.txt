@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -429,6 +429,20 @@ Precio
 Añadir al carrito
 Nuevo
  Vista rápida
+9457
+Conector negro DUOX PLUS para monitores Fermax VEO e Iris
+Conector negro DUOX PLUS Fermax
+Para monitores Fermax VEO e Iris
+Sujeción firme sobre la pared
+Se adapta a paredes irregulares
+100 x 71.5 x 14 mm
+Acabado en color negro
+Precio
+16,94 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
 DS-2CD1143G2-LIU(2.8mm)BLACK
 Cámara IP Domo 4Mpx Gama Value con luz híbrida 30m PoE Negra
 Cámara IP Domo 4Mpx Hikvision
@@ -467,20 +481,6 @@ Suelto o instalado en DVR
 Soporta hasta 32 transmisiones de IA
 Precio
 762,30 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-HAC-T1A51P-U-0280B-S3-DIP
-Cámara Turret 4N1 5Mpx para exterior
-Cámara Domo 4N1 5Mpx Dahua
-ICR, 0,02 lux color y 0,002 lux B/N
-IR inteligente 25 m
-Óptica fija 2,8 mm
-WDR digital y 2DNR | Smart IR
-OSD multilenguaje
-Precio
-32,91 €
 
 Añadir al carrito
 Nuevo

@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2282)
-Wszystkie 2282
+Zasilanie (2283)
+Wszystkie 2283
 Zasilacze UPS 372
 Zasilacze PoE 90
 Zasilacze buforowe 227
-Zasilacze impulsowe 544
+Zasilacze impulsowe 545
 Adaptery POE 53
 Akumulatory 106
 Przetwornice napięcia 158
@@ -278,6 +278,15 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+MEAN WELL LCM-25DA – zasilacz LED stałoprądowy 25 W DALI
+140.67 zł netto
+Do koszyka
+MEAN WELL LCM-25 – zasilacz stałoprądowy LED 25 W
+99.06 zł netto
+Do koszyka
+MEAN WELL HLG-600H-24AB – zasilacz LED 24 V 600 W ze ściemnianiem
+815.26 zł netto
+Do koszyka
 Pulsar ARAS1000N – szyny do obudów ARAD, RACK 19″ 1000 mm
 251.1 zł netto
 Do koszyka
@@ -292,15 +301,6 @@ Cisco Catalyst 9200 C9200-NM-4X= – moduł sieciowy 4 × 10G SFP+
 Do koszyka
 Seagate IronWolf ST6000VN006 – dysk twardy HDD NAS 6 TB
 1136.51 zł netto
-Do koszyka
-MEAN WELL HLG-480H-24B zasilacz LED 24 V 480 W 20 A
-596.34 zł netto
-Do koszyka
-MEAN WELL HLG-480H-24 – zasilacz LED 24 V 480 W
-554.74 zł netto
-Do koszyka
-Kamera IP tubowa Hikvision DS-2CD2T43G2-4LI(2.8mm) 4 Mpx
-746.57 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

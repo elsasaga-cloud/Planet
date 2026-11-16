@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-16T09:56:14Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -220,7 +220,7 @@ First-ever Cambodia Nationwide Odoo Business Challenge!
 Nov 9, 2026
 Odoo News
 Can ERP Really Launch in Months? How Odoo QuickStart Makes It Happen
-Nov 5, 2026
+Nov 6, 2026
 Business Hacks
 1
 2

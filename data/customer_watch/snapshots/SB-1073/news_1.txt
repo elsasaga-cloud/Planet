@@ -1,4 +1,4 @@
-# SB-1073 sensoguard.com · news_1 · https://sensoguard.com/blog · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-1073 sensoguard.com · news_1 · https://sensoguard.com/blog · fetched 2026-11-16T09:56:14Z · HTTP 200
 Blog - SensoGuard Security Insights
 Home
 Products
@@ -35,7 +35,6 @@ Prison Protection
 Solar Farm Protection
 Blog
 Support
-Training
 Support Center
 Integration
 Site Design
@@ -215,7 +214,7 @@ August 14, 2025
 4 min read
 Articles
 MOSS Kit: The Future of Tactical Defense Using Seismic Detector
-360-degree situational awareness, plug-and-play setup, and multi-year battery life for tactical teams.
+360-degree situational awareness, plug-and-play setup, and AIO 2 battery life of up to 1 year per charge for tactical teams.
 July 31, 2025
 4 min read
 Articles
@@ -265,7 +264,7 @@ April 10, 2025
 2 min read
 Announcements
 New UGS Cover Larger Areas with Fewer Sensors
-SensoGuard's new XR sensors boost detection radius by up to 200%, letting tactical units cover more ground with fewer units.
+AIO XR extends detection radius over AIO X, letting tactical units cover more ground with fewer units.
 March 27, 2025
 2 min read
 Articles
@@ -309,7 +308,6 @@ Pipeline Protection
 Prison Protection
 Solar Farm Protection
 Support
-Training
 Support Center
 Integrations
 Site Design
@@ -317,7 +315,7 @@ Company
 About Us
 Blog
 Contact
-Headquarters: 4 HaHaruv St Modi'in Region Industrial Park, Shoam, Israel
+Headquarters: Haharuv 4, Modi'in Region Industrial Park, Shoham, Israel
 © 2026 SensoGuard Ltd. All rights reserved
 Legal
 |

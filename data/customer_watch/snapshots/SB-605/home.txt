@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -31,76 +31,76 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Brno - Řečkovice
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Blansko
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Bystřice nad Pernštejnem
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Čáslav
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Česká Třebová
-Zavřeno · otevíráme zítra od
+Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Hradec Králové
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Hustopeče
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Chotěboř
-Zavřeno · otevíráme zítra od
+Zavíráme za 15 minut
 Jevíčko
-Zavřeno · otevíráme zítra od
+Zavíráme za 45 minut
 Kladno
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Kroměříž
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Liberec
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Pardubice
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Praha 13 - Stodůlky
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Praha 4 - Spořilov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Praha 9 - Horní Počernice
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Prostějov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Rychnov nad Kněžnou
-Zavřeno · otevíráme zítra od
+Zavíráme za 15 minut
 Sokolov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Svitavy
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Šenov u Nového Jičína
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Tišnov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Trutnov
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Třebíč
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Uherské Hradiště
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Uherské Hradiště - Jaktáře
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Velké Meziříčí
-Zavřeno · otevíráme zítra od
+Otevřeno do
 13. 11. od 11.00 hod INVENTURA
 Vysoké Mýto
-Zavřeno · otevíráme zítra od
+Zavíráme za 15 minut
 20. 11. od 11.00 hod INVENTURA
 Zábřeh
-Zavřeno · otevíráme zítra od
+Otevřeno do
 20. 11. od 11.00 hod INVENTURA
 Zastávka u Brna
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Zlín
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Žďár nad Sázavou
-Zavřeno · otevíráme zítra od
+Otevřeno do
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
@@ -123,8 +123,8 @@ Solární svítidla exteriérová
 Svítidla s krytím IP65
 Příslušenství a náhradní díly pro exteriérová svítidla
 Interiérová svítidla
-Dle místnosti
 Bodová svítidla interiérová
+Dle místnosti
 Dětská interiérová svítidla
 Koupelnová interiérová svítidla
 Kuchyňská interiérová svítidla
@@ -139,7 +139,6 @@ Zápustná, vestavná interiérová svítidla
 Závěsná interiérová svítidla
 Ostatní interiérová svítidla
 Náhradní díly ke svítidlům
-Prokognitivní LED osvětlení
 Kancelářská svítidla
 Downlight svítidla
 Přisazená/závěsná svítidla
@@ -152,6 +151,7 @@ Eglo connect
 Immax Neo
 Ledvance
 Ostatní výrobci inteligentního osvětlení
+Prokognitivní LED osvětlení
 LED pásky a příslušenství
 LED pásky
 Napájecí zdroje LED pásky
@@ -290,19 +290,19 @@ Ochrana zraku
 Domovní spínače a zásuvky
 ABB spínače a zásuvky
 Přístroje
+Neo, Neo Tech ABB
 Zoni ABB
 Busch-axcent
 Levit, Levit M ABB
 Element ABB
-Time, Time Arbo
 Další kategorie
+Time, Time Arbo
 Tango ABB
 Swing, Swing L ABB
 Solo, Solo carat ABB
 Future linear ABB
 Classic ABB
 Decento ABB
-Neo, Neo Tech ABB
 Bezdrátové ovládání ABB
 Pohybová čidla ABB
 Přístroje do hořlavých podkladů
@@ -363,11 +363,11 @@ Asfora Schneider
 Cedar plus
 Merten Schneider
 Mureva Styl - IP55
-Sedna Design & Elements
 Sedna Schneider
+Sedna Design & Elements
 Další kategorie
-Unica Schneider
 Nová Unica Schneider
+Unica Schneider
 Ostatní řady Schneider
 Mechanické časové spínače
 Šňůrové spínače
@@ -558,4 +558,28 @@ Izolační pásky
 Další kategorie
 Kabelové vidlice
 Ochranné oplety
-Sady konco
+Sady koncovek a konektorů
+Cupalové podložky a plechy
+Teplem smrštitelné trubice
+Izolační trubičky
+Kabelové dutinky
+Kabelové kolíky
+Kabelové konektory a fastony
+Kabely USB, audio a video
+Kabely CINCH
+Kabely JACK
+Kabely SCART
+Kabely USB
+Kabely a redukce HDMI
+Vybraní výrobci
+Pečlivě vybíráme výrobce, kteří splňují naše nároky na kvalitu, spolehlivost a inovace.
+O partnerství
+Měření a regulace
+Regulace
+Řídící systémy MaR
+Ekvitermní regulace
+Regulace tlaku - manostaty
+Regulace teploty - termostaty
+Regulace vlhkosti
+Čidla tlaku
+Další k

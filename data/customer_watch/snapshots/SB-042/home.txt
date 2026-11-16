@@ -1,4 +1,4 @@
-# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Regal Security Home
 Login / Register
 
@@ -21,7 +21,7 @@ Access Security & Inspection
 Access Software
 Access Take-On Readers
 Access Tokens
-Alarm Systems Alarm Accessories
+Alarm Systems & Intrusion Alarm Accessories
 Alarm Control Panels
 Alarm Keyfobs
 Alarm Keypads
@@ -62,7 +62,7 @@ Fire Alarm Systems Call Points
 Fire Cable
 Fire Detectors
 Fire Wireless
-Gate and Garage Garage Door Accessories
+Gate and Garage Automation Garage Door Accessories
 Garage Door Motor Accessories
 Garage Door Motors
 Gate Motor Accessories
@@ -103,7 +103,6 @@ Wireless and Wi-Fi
 Power Supplies and Batteries Alkaline Batteries
 Battery Accessories
 Gel Batteries
-Inverter
 Lithium Batteries
 Power Supply
 Sealed Lead Acid Batteries
@@ -123,7 +122,6 @@ Enclosures
 Gate Motor Accessories
 Hardware and Accessories
 HDMI
-Junction Boxes
 Security Cables
 Solar Accessories
 Connectors
@@ -173,7 +171,6 @@ Omada
 Optex
 Paradox
 Paxton
-Powa-Prod
 Risco
 RLynk
 Roboguard
@@ -188,7 +185,6 @@ Takex
 TP-Link
 VIGI
 Virdi
-Wisnetworks
 Zartek
 ZKTeco
 Special Offers
@@ -219,7 +215,7 @@ Access Security & Inspection
 Access Software
 Access Take-On Readers
 Access Tokens
-Alarm Systems chevron_right arrow_downward
+Alarm Systems & Intrusion chevron_right arrow_downward
 Alarm Accessories
 Alarm Control Panels
 Alarm Keyfobs
@@ -263,7 +259,7 @@ Fire Alarm Systems chevron_right Call Points
 Fire Cable
 Fire Detectors
 Fire Wireless
-Gate and Garage chevron_right arrow_downward
+Gate and Garage Automation chevron_right arrow_downward
 Garage Door Accessories
 Garage Door Motor Accessories
 Garage Door Motors
@@ -303,11 +299,9 @@ RJ45 Wall Mount Box
 Routers
 VGA
 Wireless and Wi-Fi
-Power Supplies and Batteries chevron_right arrow_downward
-Alkaline Batteries
+Power Supplies and Batteries chevron_right Alkaline Batteries
 Battery Accessories
 Gel Batteries
-Inverter
 Lithium Batteries
 Power Supply
 Sealed Lead Acid Batteries
@@ -328,7 +322,6 @@ Enclosures
 Gate Motor Accessories
 Hardware and Accessories
 HDMI
-Junction Boxes
 Security Cables
 Solar chevron_right Accessories
 Connectors
@@ -379,7 +372,6 @@ Omada
 Optex
 Paradox
 Paxton
-Powa-Prod
 Risco
 RLynk
 Roboguard
@@ -394,7 +386,6 @@ Takex
 TP-Link
 VIGI
 Virdi
-Wisnetworks
 Zartek
 ZKTeco
 Special Offers
@@ -561,4 +552,8 @@ REGAL POLOKWANE
 REGAL EXPORTS
 REGAL OTTERY
 REGAL SOMERSET WEST
-REGAL RUS
+REGAL RUSTENBURG
+Submit
+Preferred Branch
+close
+Would you like to chang

@@ -1,4 +1,6 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-16T09:56:14Z · HTTP 200
+2026-11-16T09:09:52+00:00	Pierwsze uruchomienie NPort 6000 G2 krok po kroku	https://www.youtube.com/watch?v=WgWSm4f9dkw
+2026-11-16T08:56:48+00:00	Dane z budynku bez wiercenia? Czujniki LoRaWAN	https://www.youtube.com/shorts/ubOTA90fcrQ
 2026-11-07T08:15:14+00:00	Sterowanie sekwencyjne serwonapędów Elmatic z tabelą pozycji	https://www.youtube.com/watch?v=MTb9sp19MJk
 2026-11-06T08:00:31+00:00	Falownik czy serwonapęd? Sterowanie prędkością serwa Elmatic	https://www.youtube.com/watch?v=XAU-xt6osEE
 2026-11-05T09:00:27+00:00	DASYLab: akwizycja i analiza danych pomiarowych bez programowania	https://www.youtube.com/watch?v=T-mcfpqH1Mo
@@ -12,5 +14,3 @@
 2026-11-03T09:08:47+00:00	CR30 czy GSR? Programowalny przekaźnik bezpieczeństwa Guardmaster	https://www.youtube.com/watch?v=eUqB3cmj7_Y
 2026-10-31T08:30:11+00:00	Coboty w branży spożywczej: pakowanie makaronu	https://www.youtube.com/shorts/yEp_W-J7HXk
 2026-10-29T07:45:35+00:00	Coboty w branży spożywczej: pakowanie napojów	https://www.youtube.com/shorts/jjjkjMW5sOQ
-2026-10-28T15:00:10+00:00	Local AI Day 19.11 Warszawa: lokalne AI w praktyce	https://www.youtube.com/shorts/cK0RoyRIDG4
-2026-10-27T13:19:53+00:00	Roboty współpracujące na linii makaronu: pakowanie, kartony i paletyzacja	https://www.youtube.com/watch?v=sYbb5sOZMMY

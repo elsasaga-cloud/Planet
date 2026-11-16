@@ -1,5 +1,5 @@
-# SB-947 ison-tech.com · sitemap · https://www.ison-tech.com/sitemap.xml · fetched 2026-11-15T09:38:35Z · HTTP 200
-2026-11-15	https://www.ison-tech.com/
+# SB-947 ison-tech.com · sitemap · https://www.ison-tech.com/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+2026-11-16	https://www.ison-tech.com/
 2021-03-01	https://www.ison-tech.com//index.php/home
 2021-03-01	https://www.ison-tech.com//index.php/about/company
 2021-03-01	https://www.ison-tech.com//index.php/about/core_value

@@ -1,4 +1,4 @@
-# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-984 olsontech.com · sitemap · https://olsontech.com/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
 2026-10-23	https://olsontech.com/aboutus
 2026-10-21	https://olsontech.com/bead
 2026-10-29	https://olsontech.com/blog
@@ -7,7 +7,8 @@
 2026-11-04	https://olsontech.com/cienamicroplug
 2026-10-22	https://olsontech.com/contactus
 2026-10-21	https://olsontech.com/edfa
-2026-11-04	https://olsontech.com/edgepon
+2026-11-15	https://olsontech.com/edge-powering
+2026-11-15	https://olsontech.com/edgepon
 2026-11-04	https://olsontech.com/edgeswitch
 2026-11-04	https://olsontech.com/ethernetovercoaxsfp
 2026-10-24	https://olsontech.com/fiber-fundamentals
@@ -26,6 +27,7 @@
 2026-11-01	https://olsontech.com/optical-transmitters
 2026-10-26	https://olsontech.com/organizations
 2026-10-26	https://olsontech.com/ourteam
+2026-11-16	https://olsontech.com/pon-controller
 2026-11-06	https://olsontech.com/product-lit.html
 2026-11-06	https://olsontech.com/products
 2026-10-26	https://olsontech.com/pubs

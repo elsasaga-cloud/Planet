@@ -1,5 +1,7 @@
-# SB-253 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-253 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Fri, 04 Sep 2026 07:51:32 +0000	YouTube	https://provision-isr.com/news/youtube/
+Mon, 16 Nov 2026 06:53:01 +0000	Multilingual Videos	https://provision-isr.com/news/multilingual-videos/
+Fri, 13 Nov 2026 09:54:28 +0000	Product Selector & Search	https://provision-isr.com/news/product-selector-search/
 Fri, 30 Oct 2026 08:13:31 +0000	Security Canada 2026	https://provision-isr.com/news/security-canada-2026/
 Fri, 16 Oct 2026 08:13:48 +0000	ISO 27001	https://provision-isr.com/news/iso-27001/
 Fri, 06 Nov 2026 06:36:56 +0000	Panoramic Camera	https://provision-isr.com/news/panoramic-camera-5/
@@ -9,5 +11,3 @@ Mon, 12 Oct 2026 06:28:53 +0000	8MP AD Cameras	https://provision-isr.com/news/8m
 Fri, 09 Oct 2026 08:32:19 +0000	Bracket Matching System	https://provision-isr.com/news/bracket-matching-system-4/
 Fri, 02 Oct 2026 05:25:27 +0000	Prana Vision – UK	https://provision-isr.com/news/prana-vision-uk/
 Tue, 22 Sep 2026 05:13:09 +0000	Color Night Vision Tech.	https://provision-isr.com/news/color-night-vision-tech/
-Fri, 25 Sep 2026 05:34:30 +0000	Panoramic Camera	https://provision-isr.com/news/panoramic-camera-4/
-Fri, 18 Sep 2026 05:11:06 +0000	Security Essen	https://provision-isr.com/news/security-essen/

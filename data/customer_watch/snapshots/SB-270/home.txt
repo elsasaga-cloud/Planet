@@ -1,4 +1,4 @@
-# SB-270 damixsat.pl · home · https://damixsat.pl/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-270 damixsat.pl · home · https://damixsat.pl/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Damixsat.pl – sklep TV-SAT, RTV, AGD, Smart Home i Mini PC
 ×
 Ostatnio przeglądane produkty
@@ -15,10 +15,12 @@ RACK i CCTV
 Starlink
 Komputery i akcesoria
 Adaptery WiFi USB
+Karty dźwiękowe
 Czytniki kart
 Akcesoria do dysków
 Kable SATA
 Kamery internetowe
+Karty Pamięci SD MicroSD
 Monitory mobilne
 Karty Ethernet
 Mini komputery
@@ -40,6 +42,7 @@ Akcesoria Samochodowe
 Czujniki i wskaźniki ciśnie
 Ładowarki samochodowe
 Uchwyt na telefon
+Przenośne stacje zasilania
 Kable i akcesoria EV
 Piloty do bram
 Uchwyty samochodowe
@@ -50,6 +53,7 @@ Stelaże biurkowe
 Fotele biurowe
 Pakowanie
 Foliopaki
+Pompki i kompresory
 Maszyny do papieru
 Etykiety do drukarek
 Maszyny do wypełniaczy
@@ -81,11 +85,14 @@ Wentylatory
 Żarówki i oprawy
 Latarki
 Odkurzacze
+Gazety i czasopisma
 Budki lęgowe i karmniki
 Akcesoria dla zwierząt
+Bramki
 System nawadniania
 Suszarki do włosów
 Zestawy monitoringu
+Frytkownice beztłuszczowe
 Rejestratory NVR/DVR
 Płyty grzewcze
 Smart Home
@@ -107,6 +114,7 @@ Kable Jack RCA
 Adaptery Audio
 Kable DisplayPort DisplayPort
 Kable DisplayPort DVI
+Kable mini DisplayPort DVI
 Kable DVI DVI
 Kable HDMI micro HDMI
 Kable Optyczne
@@ -126,6 +134,7 @@ Przedłużacze DC
 Sumatory KVM
 Rozgałęźniki i sumatory
 Przyłącza Ethernet USB
+Kable Jack USB C
 Warsztat i pomiary
 Zaciskarki
 Mierniki
@@ -150,6 +159,7 @@ Bębny do kabli
 Organizery kabli
 Narzędzia do światłowodów
 Przewody instalacyjne
+Rury peszle
 Rękawice ochronne
 Narzędzia do rur
 Pomiar odległości
@@ -162,6 +172,7 @@ Kable USB
 Hokery regulowane
 Akcesoria rowerowe i fitness
 Akcesoria rowerowe
+Opaski tętna
 Wzmacniacze i zasilacze antenowe
 Laptopy i akcesoria
 Instalacje TV-SAT
@@ -207,6 +218,7 @@ Kable koncentryczne
 Ładowarki i zasilacze
 Adaptery
 Ładowarki sieciowe
+Zasilacze modułowe
 Włączniki, gniazda i ramki elektryczne
 Transmitery i extendery HDMI
 Złącza i adaptery antenowe GSM, LTE, 5G
@@ -322,33 +334,26 @@ Flint 2 GL-MT6000 to wydajny router Wi-Fi 6 z portami 2.5G, VPN, OpenWrt i zaawa
 Kanapa elektrycznie rozkładana Flax 20 1...
 To inteligentna sofa elektryczna od Power Sleeper, która wyróżnia się gigantyczną powierzchnią spania 211x180 cm oraz wbudowanym panelem audio i ładowarką. Sprawdzi się w nowoczesnym salonie jako luksusowe centrum relaksu i kino domowe.
 Strona główna
-Ergonomiczny hoker regulowany SELLA beżo...
-Hoker siodłowy w ciepłym beżu. Spacetronik Sella SPC-SELLA-0...
-599,00 zł
+Stolik pomocniczy Spacetronik Buddy 29 C...
+Spacetronik Buddy 29 w kolorze czarnym to mobilny stolik pod...
+499,00 zł
 Do koszyka
-Egonomiczny fotel biurowy obrotowy ELSA ...
-Regulowane wsparcie pleców i podłokietniki 4D. Spacetronik E...
-749,00 zł
+Stolik pomocniczy Spacetronik Buddy 27 R...
+Spacetronik Buddy 27 Rustic to regulowany stolik pomocniczy,...
+249,00 zł
 Do koszyka
-Gniazdo podłogowe puszka Spacetronik SP...
-Gniazdo podłogowe Spacetronik SPS-W44B_V3 w kolorze czarnym ...
-399,00 zł
+Uchwyt obrotowy na projektor SPA-P03G
+Spacetronik SPA-P03G to obrotowa podstawa biurkowa z gwintem...
+79,00 zł
 Do koszyka
-Niimbot B Etykiety 30x25+45mm – 100 szt,...
-Etykiety białe do cenówek 30x25+45 mm do drukarek Niimbot ...
-32,90 zł
+Fotel hoker biurowy obrotowy LETTO 40 cz...
+Wysoki hoker do biurek sit-stand i stołów kreślarskich. Spac...
+499,00 zł
 Do koszyka
-Fotel do biura rozkładany obrotowy GILDA...
-Fotel z podnóżkiem i oparciem odchylanym aż do 170°. Spacetr...
-949,00 zł
+Uchwyt na 3 monitory stojący Spacetronik...
+Spacetronik SPA-T132 to wolnostojący stojak przegubowy na tr...
+159,00 zł
 Do koszyka
-Spacetronik Binary krzesło kosmetyczne –...
-Szary taboret kosmetyczny z regulacją wysokości. Spacetronik...
-329,00 zł
-Do koszyka
-SELLA Hoker regulowany – siodło, podział...
-Fioletowy hoker siodłowy z dzielonym siedziskiem. Spacetroni...
-599,00 zł
-Do koszyka
-TORHILD Fotel biurowy – regulacja wysoko...
-Fotel z podnóżkiem, wieszakiem i
+Stolik pomocniczy Spacetronik Buddy 27 B...
+Spacetronik Buddy 27 w kolorze białym (mat) to regulowany st...
+

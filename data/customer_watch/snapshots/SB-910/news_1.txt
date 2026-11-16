@@ -1,4 +1,4 @@
-# SB-910 etictelecom.com · news_1 · https://www.etictelecom.com/en/our-news/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-910 etictelecom.com · news_1 · https://www.etictelecom.com/en/our-news/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Our news | Etic Telecom
 About us
 Our range of products
@@ -57,23 +57,17 @@ iOS: November 2026
 Share on Linkedin
 News
 |
-17/06/2026
-EticSIM: Simplified IoT Connectivity
-EticSIM: Simplified IoT Connectivity for Your Industrial Equipment.
-In the world of connected industry, data availability is essential. Yet, managing cellular connectivity often means multiple contracts, recurring bills, and administrative complexity.
-With EticSIM, Etic Telecom offers a simple and effective approach:
-✅ A prepaid offer with no subscription fees
-✅ Optimized multi-operator coverage throughout Europe
-✅ Data volume tailored to real-world needs
-✅ Centralized management of your SIM card fleet
-✅ Advanced options: public IP, outgoing SMS, pre-installed SIM
-Designed for users of IPL VPN routers and RAS machine access devices, the EticSIM solution offers a true one-stop shop for seamlessly deploying and operating your connected infrastructure.
-? Since 1985, Etic Telecom has been supporting industrial companies in their connectivity projects with reliable, flexible solutions tailored to real-world constraints. EticSIM offers high-performance, predictable connectivity, allowing you to focus on what matters most: your operations.
+16/11/2026
+Safe remote control of the PLC
+You can now remotely control your PLC via the web pages hosted on the Etic Telecom device.
+By using the secure M2Me connection and initiating a simple HTTP session from your PC, smartphone, or tablet, an operator can now:
+✅ Easily read and write to the PLC’s industrial variables, utilizing Modbus TCP/RTU, OPC UA, and Uni-Telway protocols.
+✅ Benefit from granular permission management based on individual roles and levels of responsibility.
 Share on Linkedin
 1 2 3 4 5 ... 10 20 ... -> Last »
 Categories
 Events (18)
-News (56)
+News (57)
 Non classé (1)
 Archives
 2026

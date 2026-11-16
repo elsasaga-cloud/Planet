@@ -1,4 +1,4 @@
-# SB-338 MAX protect · home · https://max-protect.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-338 MAX protect · home · https://max-protect.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Max Protect Hammamet – Caméras, alarmes et sécurité en Tunisie
 Appelez-nous : 72 324 111
 Français
@@ -128,7 +128,7 @@ Sur tous nos produits
 Paiement simple
 À la livraison ou par virement
 2 magasins à Hammamet
-Lun–Sam 8h–18h · 72 324 111
+Lun–Sam dès 8h · 72 324 111
 Max Protect, votre spécialiste de la sécurité partout en Tunisie
 Vidéosurveillance, alarme anti-intrusion, visiophones, contrôle d’accès et détection incendie : nous équipons les maisons, les commerces et les entreprises avec des marques reconnues comme Dahua, Uniview, Imou, Ajax et Elkron.
 Nos conseillers vous aident à choisir le matériel adapté à votre lieu et à votre budget. Passez nous voir dans l’un de nos deux magasins à Hammamet ou appelez le 72 324 111 .
@@ -161,7 +161,7 @@ Nos 2 magasins
 Venez nous rendre visite ou appelez le 72 324 111. Nous livrons et installons partout en Tunisie.
 Max Protect – Centre-ville
 Avenue Habib Bourguiba, 8050 Hammamet
-Lun–Sam 8h–18h · 72 324 111
+Lun–Sam 8h30–18h · 72 324 111
 Itinéraire
 Max Protect – Route de Nabeul
 Avenue Abou Dhabi, en face de Carrefour Market, Hammamet
@@ -171,8 +171,8 @@ Produits populaires
 Neuf
 
 Aperçu rapide
-SPAUN – Switch PoE 8 ports + 2 uplink Gigabit (SPN-1010H-P)
-130,000 TND
+Elkron IT700-GSM – Module de communication GSM pour centrale d’alarme MEDEA (IT700-GSM)
+405,000 TND
 
 
 
@@ -182,8 +182,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Optex VXI-ST – Détecteur de mouvement extérieur filaire, double infrarouge, 12 m (VXI-ST)
-535,000 TND
+Somfy – Motorisation portail coulissant Elixo 2000 230 V RTS (1216600)
+2 190,000 TND
 
 
 
@@ -193,8 +193,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Cordon de brassage Cat6 UTP 0,25 m (WT-2038B-0.25M)
-4,900 TND
+Uniview 2MP – Caméra IP tube 2,8 mm, double éclairage intelligent, PoE (IPC2122LB-AF28K-DL)
+195,000 TND
 
 
 
@@ -204,8 +204,118 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Fiche RJ45 blindée FTP Cat6 (SB-56-23)
-3,500 TND
+Dahua 4MP – Caméra IP tube WizColor, vision couleur 24h/24, IA WizSense, micro (IPC-HFW2449TL-S-PRO)
+435,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Uniview – Enregistreur NVR 16 voies, 16 ports PoE, 2 disques durs, IA (NVR302-16B-P16-IQ)
+1 175,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Splitter HDMI 4K 1 entrée / 4 sorties
+89,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Cordon de brassage Cat6 STP blindé 1 m (WT-2038D-1M)
+7,900 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Dahua AirShield – Détecteur de mouvement infrarouge sans fil (DHI-ARD1233-W2)
+125,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Ajax SpaceControl Jeweller – Télécommande sans fil avec bouton panique, blanc (AJ-SPACECONTROL-W)
+105,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Dahua 2MP – Caméra IP tube Smart Dual Light avec micro, PoE (IPC-HFW1239S1-A-IL)
+209,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Dahua AirShield – Détecteur d’ouverture sans fil pour porte et fenêtre (DHI-ARD323-W2)
+89,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Armoire réseau murale 9U 19" (520 × 400 mm)
+269,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Able – Télécommande TOH2 (10Y001)
+119,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Dahua AirShield – Sirène extérieure sans fil avec flash (DHI-ARA13-W2)
+265,000 TND
 
 
 
@@ -226,118 +336,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Dahua KTH01 – Kit visiophone hybride 4 fils Wi-Fi avec écran tactile 7" (DHI-KTH01)
-585,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Connecteur RJ45 (fiche réseau)
-2,500 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-SPAUN – Switch PoE 24 ports + 2 uplink Gigabit (SPN-24H-2G)
-590,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Guide-câbles 1U pour baie 19" avec passage à brosse (balai)
-29,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Fiche BNC pour câble coaxial
-2,500 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-SPAUN – Switch PoE 16 ports + 2 uplink Gigabit (SPN-16H-2G)
-399,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-ZKTeco SenseFace 2A – Terminal de contrôle d’accès et pointage par visage, interphone vidéo
-679,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Elkron FDMET400 – Détecteur de gaz méthane (gaz naturel)
-335,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Hikvision 4MP – Caméra IP tube AcuSense, Smart Hybrid Light, varifocale motorisée 2,8–12 mm (DS-2CD2643G2-LIZS2U)
-990,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Uniarch by Uniview 3MP – Caméra tube Wi-Fi, double éclairage, vision couleur (UHO-B2D-M3F3D)
-209,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Uniview 2MP – Caméra IP dôme (tourelle) 2,8 mm, double éclairage intelligent, PoE (IPC3612LB-AF28K-DL)
-195,000 TND
+Hikvision 4MP – Caméra IP dôme AcuSense, Smart Hybrid Light, varifocale motorisée 2,8–12 mm (DS-2CD2743G2-LIZS2U)
+930,000 TND
 
 
 
@@ -347,6 +347,17 @@ Ajouter au panier
 Tous les produits
 
 Nouveaux produits
+Neuf
+
+Aperçu rapide
+Pack Uniview 8 caméras IP 2MP OwlView Wise-ISP + NVR 8 voies PoE
+2 299,000 TND
+
+
+
+
+
+Ajouter au panier
 Neuf
 
 Aperçu rapide
@@ -418,17 +429,6 @@ Neuf
 Aperçu rapide
 Somfy – Motorisation porte de garage Dexxo Compact 750 io (1244773)
 430,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Somfy – Kit récepteur RTS + 2 télécommandes Keytis (1841102)
-259,000 TND
 
 
 

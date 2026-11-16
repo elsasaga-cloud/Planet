@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-16T09:56:14Z · HTTP 200
 2026-11-14T00:00:29+00:00	Clear Answers at Every Step: How ONYX Transformed the Customer Journey with Odoo	https://www.youtube.com/watch?v=6LPrxjHJEXU
 2026-11-13T18:20:13+00:00	Beyond the Books: AI Meets Odoo Accounting	https://www.youtube.com/watch?v=CSm_guuDFNU
 2026-11-13T16:02:54+00:00	Industry Webinar - Property Developer	https://www.youtube.com/watch?v=csWSzmbx2qs

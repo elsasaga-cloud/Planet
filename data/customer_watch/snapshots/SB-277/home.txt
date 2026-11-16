@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Sennheiser, Tenda
 91 084 10 11 Atención comercial: Lunes a jueves de a , y los viernes de a Instant Blog Estilo vintage Categorías clásicas ES EN PT
 Mayoristas especializados Soluciones networking.
@@ -396,9 +396,9 @@ ZTE
 Ofertas
 Liquidación
 ¿Eres profesional del sector? Date de alta y accede a los precios más competitivos del sector Quiero ver los precios Ofertas Ver todas
-Conceptronic CVOIPAU PC adaptador de teléfono inalámbrico Skype VoIP Ver precio −83 %
-Dlink ANT24-CB06N Alargador 6m. HDF-400 Ver precio −66 %
-Snom snom D7 black • snom keypad for 715, 720, 725, 760, 765 • 18 Buttos • USB Connection Ver precio −46 %
+Dahua DHI-NVR4108-8P-4KS3 - Grabador IP de Sobremesa, 8 Canales PoE hasta 12MP, Capacidad para 1 HDD de 20TB (no incl.), Compresión Smart H.265+/Smart H.264+, Ancho de Banda 160/806Mbps de Entrada/Salida, Consumo PoE 72W Ver precio −15 %
+Yealink Portable Accessory Kit for WH63/WH67 Kit formado por 1 WDD60 DECT Dongle, 1 cable de carga para los WH63/WH67 y 1 funda Ver precio −12 %
+Beronet BNTA 2S02FXS L Appliance L with 2 BRI/S0 / 2 FXS - expandable with one add. Module Ver precio −90 %
 Grandes OFERTAS en productos Huawei seleccionados % % % WIFI 6 WIFI 6 HUAWEI eKit Transceiver
 óptico eSFP-GE-SX-MM850 Punto
 de acceso AP361 Punto
@@ -416,15 +416,15 @@ si quiere darse de alta como cliente nuestro pinche aquí
 ❯
 Noticias Instant Byte
 Ir al blog
-MikroTik CMR: gestión centralizada de RouterOS, ya en beta
-Administrar una red con varios equipos MikroTik suele implicar comprobar cada dispositivo por separado: su estado, la versión de RouterOS, las alertas y las tareas pendientes. CMR (Centralized Management for RouterOS), presentado en beta a partir de RouterOS 7.26, propone una vista común para supervisar una flota desde un equipo que actúa como servidor. Permite agrupar dispositivos, consultar su estado y preparar actualizaciones por reglas. Para integradores y administradores de redes multisede, es una nueva forma de reducir las comprobaciones manuales y tener una visión más clara de la…
+Grandstream GWN7671: Wi-Fi 7 de pared con dos salidas PoE para hoteles y oficinas
+Grandstream amplía su catálogo de puntos de acceso con el GWN7671, un modelo Wi-Fi 7 de doble banda diseñado para montaje en pared. Su formato encaja en hoteles, oficinas y espacios comerciales donde se busca combinar cobertura inalámbrica y conexiones cableadas sin multiplicar equipos a la vista. Incorpora un uplink de 2,5 GbE con entrada PoE+ y dos puertos Gigabit con salida PoE para conectar y alimentar dispositivos cercanos, como teléfonos IP o cámaras. Según Grandstream, alcanza hasta 3,6 Gbps de rendimiento inalámbrico agregado y admite hasta 256 clientes simultáneos. Wi-Fi 7 y…
+16 nov 2026 Seguir leyendo RouterOS 7.24 de MikroTik: VRF por hardware, LLDP PoE y Wi-Fi 7 (vídeo en español)
+16 nov 2026 Seguir leyendo MikroTik CMR: gestión centralizada de RouterOS, ya en beta
 13 nov 2026 Seguir leyendo Grandstream GRP2600 Lite: cinco teléfonos IP esenciales para despliegues profesionales
 12 nov 2026 Seguir leyendo Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
 11 nov 2026 Seguir leyendo Webinar práctico: Megafonía IP con Grandstream | 20 de noviembre
 9 nov 2026 Seguir leyendo Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inalámbrica y botón de IA
-3 nov 2026 Seguir leyendo Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
-29 oct 2026 Seguir leyendo MikroTik CLAIRÉ y CLAIRÉ Lite: calidad del aire interior con Matter over Thread
-28 oct 2026 Seguir leyendo
+3 nov 2026 Seguir leyendo
 Formación y certificaciones
 Calendario
 Certificación oficial Ubiquiti BARCELONA 16, 17 y 18 de noviembre de 2026 - Unifi All in One: UFSP, UWA, URSCA 749,95 € + IVA
@@ -435,19 +435,15 @@ Webinar práctico Megafonía IP con Grandstream: integración de UCM y altavoces
 Webinar práctico Conecta edificios sin desplegar fibra: puesta en marcha del Grandstream GWN7302 | 4 diciembre l 2026 | 4 dic 2026 · Gratuito
 Productos destacados
 Ver todos
-Mikrotik CRS326-24S+2Q+RM
-Cloud Router Switch 2x QSFP+ de 40G, 24x SFP+ de 10G, 1 puerto LAN para gestión, RouterOS L5 o SwitchO Ver precio
-Mikrotik CRS310-1G-5S-4S+OUT
-Switch de exterior con CPU ARMv7 800 MHz, 256 MB RAM, 4x SFP+, 5x SFP, 1x Gb (PoE-In) Ver precio
-Ubiquiti LTU-LR
-Radio de 5 GHz como CPE en PtMP con Rocket LTU o PtP entre dos de ellos con firmware opcional para PtP (requiere descarga) Ver precio
+Alfa Network AWUS036AC
+Network AWUS036AC - Adaptador USB Wireless 802.11ac AC1200, Doble Banda, 1200 Mbps con Antena de 5dBi Ver precio
+Yeastar TA2400
+Adaptador ATA 24 puertos FXS Ver precio
 Yealink BH72 Lite Teams Light Gray USB-A
 BH72 Lite UC / Teams Light Gray USB-A. Auricular binaural Bluetooth y USB, 35H conversación, gris, dongle USB para PC Ver precio
-Huawei eKit Ideahub IHS2-65SA
-Pantalla inteligente Ideahub S2, 65 inch. Blanco jade. BYOM. WiFi6. Latencia escritura 16ms. Pantalla y camara 4K. Sonido HD (4 altavoce 40dB). Micrófonos alcance 12m. Low Blue Light. Ver precio
-Grandstream GXW4248 v2
-GXW4248v2 Gateway SIN puertos RJ11, lleva 2 puertos Telco de 50 pines (48 activos) e incluye DOS cables RJ21 Telco Amphenol. Apto para gestión mediante plataforma GDMS. Ver precio
-Interline INT-FEE-xx/5x-HV
-Feeder / Alimentador para Disco Parabólico 5 Ghz Ver precio
-Grandstream GCC6010
-Todo en uno:VPN router, firewall,IP PBX y switch. Puertos configura
+Huawei eKit MiniFTTO F1001-AC −8 %
+MiniFTTO OLT GPON y Controladora WiFi 1xUplink XGPON 4xGE WAN/LAN 8 x Downlink XC/UPC POF (Power over Fiber) 16 puertos SC/UPS 300 clientes WiFi Roaming 50 ms 6 Gbit/s VXLAN 200 Mbits Ver precio
+Grandstream GWN7811P
+Switch gestionable Capa 3 enracable. 8 puertos GbE RJ45 PoE con PoE budget 120W + 2 puertos SFP+. Rendimiento de 28Gbps y capacidad de switching de 56 Gbps. Sin ventilador Ver precio
+Grandstream GWN7665
+Punto de acceso Wifi 6E de interior, velocidad máxima 5,4Gbps. Cobertura +175m. Soporta +384 clientes. Puertos: 1x GbE y 1x 2,5GbE PoE

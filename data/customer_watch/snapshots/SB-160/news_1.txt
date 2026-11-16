@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -179,7 +179,7 @@ We all know the rise in copper prices has made it difficult for SME to compete w
 Read More
 TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED
 / October 4, 2021
-Views: 3,250
+Views: 3,251
 Tight-buffered cable was considered best for indoor applications whilst loose-tube cable was best for outdoor applications. Many places avoiding using them as alternatives due to their material features. Despite this,
 Read More
 AWG CONVERSION GUIDE
@@ -199,7 +199,7 @@ Despite the many advancements in fibre optic cable and newer builds taking advan
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,969
+Views: 5,970
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES
@@ -219,7 +219,7 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,229
+Views: 15,231
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
@@ -229,7 +229,7 @@ When ordering a cable you may be tempted to consider whether or not to have it b
 Read More
 CABLE BENDING RADIUS- SHOULD I BE CONCERNED?
 / July 19, 2021
-Views: 1,995
+Views: 1,996
 You’ll often see ‘bending radius’ on our cable product datasheets and wonder what we’re referring too. The cable bending radius is a measurement of the smallest diameter a cable can
 Read More
 FIBRE OPTIC CABLE TYPES- SINGLEMODE VS MULTIMODE

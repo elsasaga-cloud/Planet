@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,16 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Grandstream GWN7671: Wi-Fi 7 de pared con dos salidas PoE para hoteles y oficinas
+16 de noviembre de 2026
+Conoce
+El GWN7671 combina Wi-Fi 7 de doble banda, uplink de 2,5 GbE y dos puertos Gigabit PoE de salida en un punto de acceso de pared pensado para hoteles, oficinas y pymes.
+Read More
+RouterOS 7.24 de MikroTik: VRF por hardware, LLDP PoE y Wi-Fi 7 (vídeo en español)
+16 de noviembre de 2026
+Conoce
+Repasamos las novedades de RouterOS 7.24 con el vídeo de MikroTik doblado al español: VRF acelerado por hardware, LLDP PoE, Dying Gasp, Preamble Puncturing en Wi-Fi 7, WinBox y contenedores.
+Read More
 MikroTik CMR: gestión centralizada de RouterOS, ya en beta
 13 de noviembre de 2026
 Conoce
@@ -63,22 +73,12 @@ Videoporteros IP Grandstream: control de accesos, comunicación y gestión en un
 Conoce
 Videoportero, control de accesos y videovigilancia en un solo equipo. Repasamos la serie Grandstream GDS3720, su integración con UCM y su gestión con GDS Manager 2 y GDMS.
 Read More
-Webinar práctico: Control de accesos y videoporteros IP con Grandstream | 6 de noviembre
-26 de octubre de 2026
-Webinar
-Aprende a desplegar una solución profesional de videoportero IP y control de accesos con Grandstream GDS3720, UCM y GDMS. Inscríbete al webinar del 6 de noviembre a las h.
-Read More
-Yealink MP66W Teams: comunicación móvil y resistente para equipos de primera línea
-22 de octubre de 2026
-Conoce
-El MP66W lleva las llamadas de Microsoft Teams a entornos donde la movilidad, la protección IP67 y el audio claro importan tanto como la gestión del dispositivo.
-Read More
 Paginación de entradas
 1
 2
 3
 …
-59
+60
 >
 Volver a la home (instantbyte.com)
 Casos de éxito
@@ -625,5 +625,4 @@ comprar ubiquiti
 comprar unifi
 compras +1500 €
 compresión de vídeo
-comunicación
-comunicacion bidire
+comunicació

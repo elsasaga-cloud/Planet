@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-15T09:38:35Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-16T09:56:14Z · HTTP 200
 Centrale telefoniczne voip, Telefony ip i Bramki - voip24sklep.pl - Sklep telekomunikacyjny
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -361,14 +361,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
-Miksery
-Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
 Głośniki
 Wzmacniacze
+Miksery
+Matryce
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,50 +381,53 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
+Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
+Jednostki główne
+Licencje
 Akcesoria
 Lampowe
 Laserowe
+Akcesoria
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Mikrofony
-Mediakonwertery
 Grabbery
 Kamery PTZ Obrotowe
 Statywy
-Kable
-Extendery
+Mikrofony
+Mediakonwertery
 Splittery HDMI
 Stacje dokujące
 Uchwyty do projektorów
+Kable
+Extendery
 Uchwyty do monitorów
 HDMI
-USB
 USB A
 USB C
-Na ramieniu
-Mobilne wózki
+Przedłużacze USB A
+HDMI
+USB
 Stałe
 Uchylne
+Na ramieniu
+Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla hoteli i gastronomii
-Dla placówek medycznych
 Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
-Akcesoria
+Dla hoteli i gastronomii
+Dla placówek medycznych
 Stanowiskowe
 Powierzchniowe
+Akcesoria
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -442,25 +445,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Jednouszne
-Dwuuszne
 Przewodowe
 Bezprzewodowe
-Adaptery
+Jednouszne
+Dwuuszne
 Kable przyłączeniowe
 Gąbki
+Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Ładowarki
-Walizki/Torby Transportowe
 Higiena
 Słuchawki
 Mikrofony
-Słuchawki kablowe
-Akcesoria
+Ładowarki
+Walizki/Torby Transportowe
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
+Słuchawki kablowe
+Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -492,10 +495,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Akcesoria
-Morskie
 Analogowe
 Cyfrowe
+Akcesoria
+Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -513,16 +516,16 @@ AKCESORIA
 Wróć do:
 Jednorodzinne
 Wielorodzinne
-Interkomy
 Przewodowe
 Bezprzewodowe
-Moduły
-Daszki
+Interkomy
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
 Elementy montażowe
 Ramki
+Moduły
+Daszki
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -552,9 +555,9 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
+Bezprzewodowe
 Przewodowe
 Na kartę SIM
-Bezprzewodowe
 Przemysłowe
 Zewnętrzne
 Wewnętrzne
@@ -565,21 +568,22 @@ Wkładki SFP
 Licencje
 Urządzenia
 Zestawy
-Compact
+Licencje
 Tower
 Rack
+Compact
 USB-A
 USB-C
 Lightning
-Drukarki etykiet
 Drukarki Pos
+Drukarki etykiet
 Skanery kodów
-Akcesoria
 Jednostki główne
 Czujniki
-Dyski NAS
+Akcesoria
 NAS Desktop
 NAS Rack
+Dyski NAS
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -625,9 +629,9 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Wtyki
 Gniazda Keystone
 Łączniki kabli
+Wtyki
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -636,9 +640,10 @@ Patchcord
 Na m
 Box
 Patchcord
-Akcesoria
+Na m
 Stojące
 Wiszące
+Akcesoria
 Puszki
 Uchwyty
 Dyski
@@ -864,4 +869,4 @@ W tym blogu rozważamy korzyści wynikające z używania projektora w porównani
 Czytaj całość
 18-11-2024
 Rozwiązanie konferencyjne CA400 od Fanvila
-Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa się z trzech części: kamery CM70 4K UHD, RC10, koncentrat
+Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa si

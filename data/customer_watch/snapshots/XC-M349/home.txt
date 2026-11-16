@@ -1,4 +1,4 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home · https://www.getic.lv/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · home · https://www.getic.lv/ · fetched 2026-11-16T09:56:14Z · HTTP 200
 Bezvadu Wi-Fi aprīkojums no Ubiquiti, Mikrotik | Getic
 Neatkarības diena Darba laika izmaiņas
 Informējam, ka sakarā ar svētku dienu trešdien 18.novembrī, GETIC birojs būs slēgts un mēs nevarēsim atbildēt uz Jūsu e-pastiem. Otrdien, 17.novembrī, biroja darba laiks ir no plkst. līdz . No 19.novembra mūsu pakalpojumi būs pieejami kā parasti.
@@ -15,60 +15,64 @@ Balts
 1 m
 noliktavā
 2.13 €
-UVC-G6-Dome
-Ubiquiti kamera G6 Dome
-Balts
-noliktavā
-344.47 €
-UMR-Ultra
-Ubiquiti Mobile Router Ultra
+4.7
+UDR7
+Ubiquiti UniFi Dream Router 7
 jauns
 noliktavā
-120.29 €
-5.0
-U7-Lite
-Ubiquiti UniFi U7 Lite
-jauns
-noliktavā
-117.82 €
-UP-Siren-PoE
-Ubiquiti Siren PoE
-noliktavā
-131.49 €
-UA-Hub-Door-Mini
-Ubiquiti Access Door Hub Mini
-noliktavā
-130.22 €
-5.0
-U7-IW
-Ubiquiti UniFi U7 In-Wall
-jauns
-noliktavā
-176.15 €
+330.12 €
 USW-Flex-2.5G-8
 Ubiquiti UniFi Switch Flex 8 2.5G
 EU
 jauns
 noliktavā
 187.89 €
-UTR
-Ubiquiti UTR ceļojumu maršrutētājs
+5.0
+U7-Pro-XGS
+Ubiquiti UniFi U7 Pro XGS
+Balts
 noliktavā
-96.41 €
-U5G-Max
-Ubiquiti UniFi 5G Max
+354.91 €
+5.0
+SXTsq-5axD
+MikroTik SXTsq 5 ax
+EU
 noliktavā
-481.48 €
-BCC-DAC
-Broadbe tiešā savienojuma kabelis
-10Gbps
-0.1 m
+59.22 €
+MA53UG+HbeH
+MikroTik hAP be3
+EU
+nav noliktavā
+174.02 €
+UNVR-Instant
+Ubiquiti Network Video Recorder Instant
 noliktavā
-10.26 €
-TRB246
-Teltonika TRB246 industriālā IoT vārteja
+237.47 €
+5.0
+UA-G3-SK-Pro
+Ubiquiti G3 Starter Kit Pro
 noliktavā
-191.75 €
+651.71 €
+CRS418-8P-8G-2S+RM
+MikroTik CRS418-8P-8G-2S+RM
+EU
+noliktavā
+406.28 €
+CRS418-8P-8G-2S+5axQ2axQ-RM
+MikroTik CRS418-8P-8G-2S+5axQ2axQ-RM
+noliktavā
+437.75 €
+LtAP-2HnD&R11e-LTE7
+MikroTik LtAP LTE7 kit
+EU
+nav noliktavā
+153.17 €
+5.0
+UA-G3-Intercom
+Ubiquiti Access G3 Intercom
+jauns
+noliktavā
+457.99 €
 parādiet man vairāk
 Viss ar atlaidi, pasteidzies
 -21 %
