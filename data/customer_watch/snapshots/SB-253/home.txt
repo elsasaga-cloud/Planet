@@ -1,4 +1,4 @@
-# SB-253 provision-isr.com · home · https://provision-isr.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-253 provision-isr.com · home · https://provision-isr.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Home - Provision-ISR
 Skip to content
 INFO
@@ -366,6 +366,10 @@ PoE NVR Setup Tutorial
 Setting up your Provision-ISR PoE NVR? Our step-by-step video tutorial guides you through the entire process, from connecting your cameras and configuring your recorder to setting up recording and accessing live video on your phone. Discover how PoE technology simplifies installation with a single cable for power and video, while automatic camera detection makes getting started even easier. Everything you need to get your surveillance system up and running.
 Watch Tutorial
 Latest News
+Monday, 16 November, 2026
+Multilingual Videos
+Great content speaks YOUR language! Provision-ISR’s video content is now available in multiple languages, making it easier for installers, partners, ...
+Read More
 Friday, 13 November, 2026
 Product Selector & Search
 Looking for something specific? With Provision-ISR’s website search and Product Selector, you can explore products, filter by specifications, and narrow ...
@@ -401,10 +405,6 @@ Read More
 Friday, 16 October, 2026
 ISO 27001
 Security starts from within. Provision-ISR is now ISO/IEC 27001:2022 certified, marking an important milestone in our commitment to information security. ...
-Read More
-Monday, 12 October, 2026
-8MP AD Cameras
-Deterrence just got sharper. Provision-ISR Active Deterrence is now available in 8MP, bringing 4K image detail to the technology designed ...
 Read More
 See all news
 Our Offices
@@ -474,6 +474,4 @@ Accessories
 Housing & Brackets
 Power Supplies
 Monitors
-HDMI Accessories
-Connectors
-UT
+HDMI Accessor

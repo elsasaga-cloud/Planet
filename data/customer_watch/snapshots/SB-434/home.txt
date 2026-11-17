@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -157,10 +157,12 @@ Monitorización energética inteligente (NETIO)
 Transporte
 Telemática embebida y gestión de flotas
 IA embebida para vehículos (In-Vehicle AI)
+Conectividad 5G para vehículos de bomberos
+Vehículos policiales conectados
 Sistema Edge AI para AGV y AMR
 Arquitectura ferroviaria inteligente (Moxa)
-Sistema de vigilancia para vehículos de emergencia
 Ferrocarril inteligente (Sintrones)
+Sistema de vigilancia para vehículos de emergencia
 Sector marítimo
 Sistema de navegación marítima inteligente
 Sistema de grúas RTG automatizado
@@ -271,17 +273,16 @@ ADDERLink INFINITY 2122T - IP KVM extender Transmisor
 1.516,00 €*
 Barix RetailPlayer M400 - IP Audio Decoder
 Descubrir
-Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor en Helium
-Kerlink Wirnet iZeptoCell Ethernet - LoRaWAN Gateway indoor Ethernet
-Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
-Kerlink Wirnet iZeptoCell Cellular - LoRaWAN Gateway indoor celular
-Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
-Kerlink Wirnet iFemtoCell-evolution - LoRaWAN Gateway indoor
-Kerlink Wirnet iStation M2 - LoRaWAN Gateway
-Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
+Niseva XE33-1C-LoRa - Gateway LoRa
+Milesight SG50 - LoRaWAN Gateway solar
+Milesight UG63 - Mini LoRaWAN Gateway
+Milesight UG56 - LoRaWAN Gateway industrial
+Milesight UG67 - LoRaWAN Gateway Outdoor
 Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
-LoRaWAN gateway outdoor MultiTech Conduit IP67
-193,00 €*
+Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
+Gateway LoRaWAN industrial serie WISE-6610 de Advantech
+Gateway de red privada Advantech WISE-3610 Wireless IoT LoRa
+Kerlink Wirnet iStation M2 - LoRaWAN Gateway
 Moxa MPC-3070W - Panel PC fanless de 7"
 Moxa MPC-3100 - Panel PC fanless de 10.4"
 Moxa MPC-3120 - Panel PC fanless de 12.1"

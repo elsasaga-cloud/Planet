@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-16T09:56:14Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-17T10:52:12Z · HTTP 200
 Soluzioni Embedded per Edge Computing | GOMA
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -8,71 +8,95 @@ Soluzioni Embedded per Edge Computing
 GOMA ELETTRONICA SPA è l'azienda leader di soluzioni edge computing avanzate per i mercati dell'aerospazio, della difesa navale e terrestre, dei trasporti e dell'industria.
 Esplora il catalogo Contattaci
 Nuovi Prodotti
-Computer Edge AI fanless con Jetson AGX Orin.
+Controller ROS 2 con NVIDIA Jetson Orin NX o Orin Nano.
 PN
-JCO-6000-ORN-A_2EBIO
+RQX-31G
 Modulo AI
-NVIDIA Jetson AGX Orin
-Prestazioni AI
-fino a 275 TOPS
+NVIDIA Jetson Orin NX / Nano
+RAM
+fino a 16 GB LPDDR5
 Temperatura
-−40 a 85 °C
+−20 a 60 °C
 Vedi la scheda
 Nuovi Prodotti
-Workstation mobile rugged con GPU NVIDIA RTX 3500 Ada, certificata IP66.
+Panel PC industriale 15.6" con touch PCAP, Intel N97 e frontale IP65.
 PN
-Z14I-HG
-GPU
-NVIDIA RTX 3500 Ada 12 GB
+AIO-W215-ASL-2L
 Display
-14″ FHD · oltre 1000 nit
-Qualifiche
-IP66 · MIL-STD-810 · 461
-Vedi la scheda
-Nuovi Prodotti
-Scheda CompactPCI Serial 3U con processori Intel Xeon / Core i7.
-PN
-CPCI-A3535
+15.6″ FHD · PCAP 10 punti
 CPU
-Intel Xeon W / Core i7
-RAM
-fino a 64 GB DDR4 ECC
-Formato
-3U CompactPCI Serial 4HP/8HP
+Intel N97 · N150 · x7433RE
+Frontale
+IP65
 Vedi la scheda
 Nuovi Prodotti
-Edge AI Mission Computer basato su Jetson Orin NX.
+Scheda FPGA 3U VPX SOSA con Virtex UltraScale+ XCVU13P e 100G Ethernet.
 PN
-AIX-NX
-Modulo AI
-NVIDIA Jetson Orin NX
+VP892
+FPGA
+AMD Virtex UltraScale+ VU13P
+Standard
+SOSA · 3U VPX
+Espansione
+1× FMC+ HSPC
+Vedi la scheda
+Nuovi Prodotti
+Extreme Rugged Edge Server con protezione IP54.
+PN
+XRS-3U-IP-S8-SOLO
+CPU
+Intel Xeon Scalable 4ª/5ª gen
 RAM
-16 GB LPDDR5
+fino a 2 TB DDR5 ECC
 Qualifiche
-MIL-STD-810 · 461 · DO-160
+IP54 · MIL-STD-810 · 461
 Vedi la scheda ↗
 Nuovi Prodotti
-Switch Ethernet unmanaged 10 porte, certificato IP30.
+Switch Ethernet 12 porte, IP30 su guida DIN.
 PN
-IGPS-1082GP-BT
+IGS-3084GP-LA
 Porte
-8× PoE++ · 2× SFP
-Budget PoE
-240 W
+8× RJ45 · 4× SFP
+Gestione
+Managed
 Temperatura
 −40 a 75 °C
 Vedi la scheda
 Nuovi prodotti
 Gli ultimi prodotti presentati dai nostri partners, pronti da configurare e quotare.
 Vedi tutte le novità
+GOMA RUGGED SOLUTIONS
+Server extreme rugged 3U da rack 19″, socket singolo
+Serie XRS-IP
+XRS-3U-IP-S8-SOLO →
+ORing Industrial Networking
+Switch managed Gigabit 8 RJ45 + 4 SFP 100/1000Base-X, DIN rail IP30
+Switch Ethernet Industriali
+IGS-3084GP-LA →
+Premio
+Panel PC industriale 15.6" Full HD con touch PCAP, Intel N97 e frontale IP65
+Panel PC Industriali
+AIO-W215-ASL-2L →
 ADLINK
-Scheda CompactPCI Serial 3U con processori Intel Xeon / Core i7
-CompactPCI Serial
-cPCI-A3535 →
+Controller ROS 2 con NVIDIA Jetson Orin NX o Orin Nano, per camere GMSL2
+Piattaforme Edge AI
+RQX-31G →
+Abaco Systems
+Scheda FPGA 3U VPX allineata SOSA, Virtex UltraScale+ VU13P con sito FMC+
+OpenVPX e SOSA
+VP892 →
 ORing Industrial Networking
 Switch Ethernet unmanaged 10 porte, certificato IP30
 Switch Ethernet Industriali
 IGPS-1082GP-BT →
+ADLINK
+Scheda CompactPCI Serial 3U con processori Intel Xeon / Core i7
+CompactPCI Serial
+cPCI-A3535 →
+Durabook
+Workstation mobile rugged con GPU NVIDIA RTX 3500 Ada, certificata IP66
+Notebook Rugged
+Z14I-HG →
 GOMA RUGGED SOLUTIONS
 Edge AI Mission Computer basato su Jetson Orin NX
 Serie AIX
@@ -81,10 +105,6 @@ Premio
 Computer Edge AI fanless con Jetson AGX Orin
 Piattaforme Edge AI
 JCO-6000-ORN-A_2EBIO →
-Durabook
-Workstation mobile rugged con GPU NVIDIA RTX 3500 Ada, certificata IP66
-Notebook Rugged
-Z14I-HG →
 ORing Industrial Networking
 Switch Ethernet PoE certificato EN 50155 con connettori M12
 Switch Ethernet Industriali
@@ -93,30 +113,10 @@ IEI
 Monitor industriale 10.1" touch capacitivo con frontale IP65
 Pannello / VESA
 DM2-W101G-R10 →
-GOMA RUGGED SOLUTIONS
-Workstation rugged 2U con processore Intel Core di 14ª generazione
-Serie GAP W9
-GAP-245F-W9 →
-Sintrones
-Computer embedded fanless certificato EN 50155
-Computer Embedded
-RBOX-1001-M12X →
-EIZO Rugged
-Single-board computer rugged SOSA 3U OpenVPX con NVIDIA Jetson Thor
-OpenVPX e SOSA
-CONDOR T5-IOX →
-Sintrones
-Computer Edge AI fanless NVIDIA Jetson Orin NX, 8 ingressi TVI/AHD, montaggio a parete
-Piattaforme Edge AI
-IBOX-601-TVI8 →
-ADLINK
-Blade GPGPU 3U VPX con NVIDIA RTX 5000 / 2000 Ada, SOSA-aligned
-OpenVPX e SOSA
-VPX3-XMXM →
 Ogni mese nuove referenze selezionate a catalogo.
 Vedi tutte le novità →
 Un catalogo, cinque domini
-Oltre 2.000 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
+Oltre 2.100 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
 Sistemi e Piattaforme
 Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
 Computer Embedded 130
@@ -143,7 +143,7 @@ Schede di I/O PCI e PCIe 162
 Moduli Mezzanine 210
 MicroTCA 173
 Schede di I/O PCI e PCIe 162
-921 prodotti →
+926 prodotti →
 Dispositivi Networking
 Switch, router e media converter per reti industriali affidabili.
 Switch Ethernet Industriali 119
@@ -163,7 +163,7 @@ Armadi IP e EMC 5
 Armadi Server 5
 Armadi a Rack 19″ da Parete 4
 23 prodotti →
-2.000 +
+2.100 +
 Tutto il catalogo
 Cerca per categoria, architettura, standard o part number.
 Esplora tutto il catalogo →
@@ -211,18 +211,18 @@ Parliamo del tuo progetto
 Novità su prodotti e tecnologie
 Le ultime dai laboratori dei nostri partners.
 Tutte le novità
-Novità | 20 ottobre 2026 | 2 min di lettura
-JCO-6000-ORN-A_2EBIO: Computer Edge AI ad alte prestazioni basato su NVIDIA Jetson AGX Orin
-JCO-6000-ORN-A_2EBIO basato su un modulo NVIDIA Jetson AGX Orin, fino a 275 TOPS, in un telaio fanless in alluminio da parete: alimentazione 9–110 V DC, da -40 a 85 °C, EN 50155 ed EN 50121 per il ferroviario, E-Mark per il veicolare.
-JCO-6000-ORN-A_2EBIO · Premio Leggi la novità →
-Novità | 20 ottobre 2026
-Z14I-HG: Workstation mobile rugged con GPU NVIDIA RTX 3500 Ada, certificata IP66
-Una NVIDIA RTX 3500 Ada da 12 GB accanto a un Intel Core Ultra Serie 1: display 14″ FHD da oltre 1000 nit con touch PCAP, fino a 64 GB di DDR5, due SSD NVMe estraibili, telaio in magnesio IP66, MIL-STD-810 e MIL-STD-461.
-Z14I-HG · Durabook
-Novità | 20 ottobre 2026
-CPCI-A3535: Scheda CompactPCI Serial 3U con processori Intel Xeon / Core i7
-Due configurazioni di CPU, Xeon W-11555MLE o Core i7-11850HE, su una scheda 3U in formato 4HP o 8HP. Fino a 64 GB DDR4-3200 ECC, storage SLC a bordo, due porte 2.5GbE su M12 X-coded, da -40 a 70 °C e certificazione EN 50155 per il bordo treno.
-cPCI-A3535 · ADLINK
+Novità | 17 novembre 2026 | 2 min di lettura
+RQX-31G: Controller ROS 2 con NVIDIA Jetson Orin NX o Orin Nano
+Controller ROS 2 da 148 × 107 × 60,2 mm con modulo NVIDIA Jetson Orin NX o Orin Nano, fino a 16 GB di RAM LPDDR5, 4 DI/4 DO isolati, CAN bus e alimentazione 9–36 V.
+RQX-31G · ADLINK Leggi la novità →
+Novità | 17 novembre 2026
+AIO-W215-ASL-2L: Panel PC industriale 15.6" con touch PCAP, Intel N97 e frontale IP65
+Un panel PC da 15,6" con display 1920×1080, touch PCAP a 10 punti e frontale IP65. Intel N97 di serie, due LAN 2.5GbE, uscite DP 1.4 e HDMI 2.1 a 4K60, alimentazione 9–36 V DC.
+AIO-W215-ASL-2L · Premio
+Novità | 17 novembre 2026
+VP892: Scheda FPGA 3U VPX SOSA con Virtex UltraScale+ XCVU13P e 100G Ethernet
+Scheda 3U VPX allineata a SOSA con AMD Virtex UltraScale+ XCVU13P e Zynq UltraScale+ XCZU5EG, 14 GB DDR4, 40/100G Ethernet, PCIe Gen3 x4 e un sito di espansione FMC+ HSPC.
+VP892 · Abaco Systems
 Parliamo del tuo progetto
 Telefono ed email arrivano direttamente all'ufficio tecnico-commerciale di Torino: la prima risposta è già una risposta tecnica.
 +39 011 7725024 info@goma.it

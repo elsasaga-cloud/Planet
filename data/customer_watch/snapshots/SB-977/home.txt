@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Eltrox.cz | Zabezpečovací systémy a chytrá domácnost
 Cookie consent
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
@@ -142,13 +142,17 @@ KNX a sběrnicová automatizace ,
 Soupravy inteligentní domácnosti ,
 Příslušenství k inteligentní domácnosti
 Osvětlení
-Svítidla ,
-LED osvětlení ,
-Inteligentní osvětlení ,
-Světelné zdroje ,
-Příslušenství osvětlení ,
-Lampy ,
-Plafondy
+Stropní LED svítidla ,
+Bodová svítidla ,
+Nástěnná a schodišťová svítidla ,
+LED reflektory ,
+Venkovní a zahradní osvětlení ,
+Průmyslové a technické osvětlení ,
+LED trubice ,
+LED žárovky ,
+LED pásky a dekorativní osvětlení ,
+Stolní a stojící lampy ,
+Příslušenství a montážní díly
 Elektrické příslušenství
 Elektrické rozvaděče a příslušenství ,
 Jisticí a spínací přístroje ,
@@ -506,11 +510,4 @@ Kontejnery pro systémy řízení přístupu.
 Laminátory a fólie –
 Měřicí přístroje do dílny –
 Kabelové lišty a kanály.
-Softwarové licence –
-Měniče napětí.
-Mikrofony, audio moduly.
-Diktafony –
-Fotovoltaické rozvaděče a ochrany –
-Montážní chemie –
-Napájecí zdroje na DIN lištu.
-Podložky a stojan
+Softwarov

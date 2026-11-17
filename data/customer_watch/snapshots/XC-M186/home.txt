@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-16T09:56:14Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-17T10:52:12Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -209,6 +209,7 @@ Honeywell Security
 Inim
 Inim Certified
 Orisec
+Paradox
 RISCO
 Detection
 acre
@@ -1361,5 +1362,4 @@ Phone numbers
 Netherlands - T +31765792577
 BeLux - T +3233698080
 E info@smartsd.com
-Spain - T +34961594646
-
+Spain - T +3496

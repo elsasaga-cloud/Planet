@@ -1,4 +1,5 @@
-# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+Mon, 16 Nov 2026 14:15:13 +0000	Fuzzy Logic PID vs. Standard PID Control	https://maplesystems.com/fuzzy-logic-pid-vs-traditional-pid/
 Tue, 10 Nov 2026 18:57:48 +0000	Understanding Hysteresis and Deadband in PID Control	https://maplesystems.com/hysteresis-deadband-pid-control/
 Tue, 10 Nov 2026 16:59:40 +0000	Preventive Maintenance for Industrial PID Loops	https://maplesystems.com/pid-loop-preventive-maintenance-checklist/
 Mon, 09 Nov 2026 14:04:32 +0000	Single-Phase vs. Three-Phase DIN-Rail Power Supplies	https://maplesystems.com/single-phase-vs-three-phase-din-rail-power-supplies/
@@ -8,4 +9,3 @@ Mon, 09 Nov 2026 14:04:10 +0000	DIN-Rail Power Supply Derating and Thermal Manag
 Mon, 09 Nov 2026 14:04:03 +0000	Parallel vs. Redundant Power Supplies for Industrial Control Systems	https://maplesystems.com/parallel-vs-redundant-power-supplies/
 Mon, 09 Nov 2026 14:03:54 +0000	Industrial Power Supply Protection Modes Explained	https://maplesystems.com/industrial-power-supply-protection-modes/
 Mon, 09 Nov 2026 14:03:45 +0000	24V DC Power Supply Sizing for Industrial Control Panels	https://maplesystems.com/24v-dc-power-supply-sizing/
-Fri, 06 Nov 2026 19:27:19 +0000	PLC-Based PID Loops vs. Standalone PID Controllers	https://maplesystems.com/plc-pid-loops-vs-standalone-controllers/

@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-17T10:52:12Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -119,6 +119,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+Physical cybersecurity under control: Three levels of hardware security for optical ports
+Cybersecurity does not start at the firewall. It also starts at the physical layer of the network. Even advanced software-based security measures cannot prevent disruption if an unauthorized person gains physical access to optical ports and disconnects a critical link, interferes with network connections or connects an unauthorized device.
+Read more
 Securing Critical Infrastructure: The Role of Optical Systems in Protecting State and Industrial Facilities
 In today's interconnected world, energy grids, water utilities, telecommunications networks and strategic government facilities face increasing security challenges. Traditional security systems can have limitations when monitoring large geographical areas, particularly when it comes to detecting unauthorized activity and identifying potential threats before damage occurs.
 Read more
@@ -201,12 +204,4 @@ IP-J connector for direct connection to RRU
 FOSS offers products based on the SENKO IP-J connector. The connector is designed for outdoor applications and has an IP67 rating. The connector is used for direct connection to RRU (Remote Radio Unit), or other devices with a direct connection to the SFP module.
 Read more
 MPO-PLUS® Bayonet Connector
-FOSS offers assembly based on SENKO’s MPO-PLUS® Bayonet connector. Connector offers unique bayonet locking mechanism. Connector offers ideal solution for all limited space application as on-board optics.
-Read more
-MPO Field fiber optic connector
-Amphenol MPO Field connector offers an easy system to upgrade a standard MPO connector to an harsh environment MPO.
-Read more
-LC Field fiber optic connector
-Amphenol LC Field offers a simple system to convert a standard LC connector to a connector for harsh environments.
-Read more
-FOSS Slovakia is a member of Critical Infrastructure Association of the Slovak R
+FOSS offers assembly based on SENKO’s MPO-PLUS® Bayonet connector. Connector offers unique bayonet locking mechanism. Connector offers ideal solution for all limited 

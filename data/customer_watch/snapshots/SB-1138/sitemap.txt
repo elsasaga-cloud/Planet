@@ -1,4 +1,4 @@
-# SB-1138 devray.in · sitemap · https://devray.in/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-1138 devray.in · sitemap · https://devray.in/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 	https://www.devray.in/
 	https://www.devray.in/solutions
 	https://www.devray.in/product/devgate-next-generation-firewall

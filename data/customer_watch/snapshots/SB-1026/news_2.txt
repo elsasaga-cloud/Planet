@@ -1,11 +1,10 @@
-# SB-1026 epygi.com · news_2 · https://www.epygi.com/blog/press-releases/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-1026 epygi.com · news_2 · https://www.epygi.com/blog/press-releases/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Press Releases - Epygi
 Skip to content
 Support Portal
 Facebook LinkedIn YouTube X
 Products Cloud PBX (ecQX)
 QX IP PBXs QX20
-QX50
 QX60
 QX100
 QX200

@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Blogs
 Products
 DW Ai
@@ -383,6 +383,10 @@ Blogs
 2025
 2024
 2023
+11/16/2026
+Can Your Warehouse Video Follow a Shipment from Dock to Door?
+Connected views of receiving, staging and loading help teams trace a shipment through the warehouse.A shipment is short. The paperwork says the cartons left the building, but the customer reports something different. Can your team follow those cartons through picking, staging and loading—or [...]
+Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 11/11/2026
 Could Your Facility's Video Follow an Incident from Start to Finish?
 Purposeful views connect controlled entrances, storage and handling areas for later review.A carton leaves secure storage. A delivery arrives at a side entrance. A discrepancy appears during an inventory review. Can an authorized reviewer follow what happened across the relevant camera views, [...]
@@ -405,8 +409,4 @@ Coordinated views of checkout, merchandise areas and receiving help retail teams
 Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 10/26/2026
 How Can Apartment Communities Make Better Use of Video Security?
-Thoughtful coverage of shared entrances, package rooms and parking areas helps residential teams investigate concerns and respect privacy.A resident reports a missing package. Another finds damage to a parked car. The property manager needs a useful account of what happened, often with only an [...]
-Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
-10/21/2026
-What Should Hotels and Resorts Expect from Video Security?
-Thoughtful coverage of public and service areas helps hotel teams support guests, review incidents and respect
+Thoughtful coverage of shared entrances, package rooms and parking areas helps residential teams investigate c

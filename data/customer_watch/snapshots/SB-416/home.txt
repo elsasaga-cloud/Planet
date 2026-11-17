@@ -1,4 +1,4 @@
-# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV
 Przejdź do głównej treści
 polski
@@ -213,10 +213,10 @@ Rejestratory 24CH HD-TVI 8 MPx
 Rejestratory 32CH HD-TVI 8 MPx
 Dekodery sieciowe
 Enkodery wideo
-Moduły audio (mikrofony)
 Testery CCTV
 Karty pamięci
 Transmisja LAN po kablu koncentrycznym
+Moduły audio (mikrofony)
 Okablowanie
 Akcesoria
 Centrale i kontrolery
@@ -317,14 +317,14 @@ Moduły kontroli dostępu
 Moduły radiowe
 Moduły rozszerzeń
 Moduły specjalne
-Czujki pozostałe
-Płyty główne
-Centrale alarmowe
-Akcesoria
 Zestawy alarmowe
 Czujki ruchu
 Klawiatury LCD
 Moduły
+Czujki pozostałe
+Płyty główne
+Centrale alarmowe
+Akcesoria
 Centrale alarmowe
 Manipulatory
 Moduły i ekspandery
@@ -523,7 +523,8 @@ Kontrolery
 Kable LAN
 Patchcordy RJ45
 Zabezpieczenia przeciwprzepięciowe LAN
-Karty WiFi 2.4 i 5 GHz
+Karty WiFi USB i PCI-E
+Karty LAN PCI-E
 Wzmacniacze i repeatery Wi-Fi
 Złącza 50 Ω
 Anteny
@@ -579,16 +580,15 @@ Przejścia i łączniki JACK
 Przejścia i łączniki F
 Przejścia i łączniki IEC
 Pozostałe
-Gniazda JACK
-Gniazda RJ
-Gniazda pozostałe
 Antenowe
 Gniazda BNC
 Gniazda CINCH (RCA)
 Gniazda koncentryczne IEC
+Gniazda JACK
+Gniazda RJ
+Gniazda pozostałe
 Obudowy do rejestratorów
 Metalowe natynkowe
 Metalowe podtynkowe
 Telekomunikacyjne
-Obudowy z tworzywa
-Hermetyc
+Obudowy z t

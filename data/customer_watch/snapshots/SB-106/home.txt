@@ -1,4 +1,4 @@
-# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 citiCalls
 – citiCALLS
 Skip to content
@@ -201,6 +201,7 @@ Headphone
 Headset
 Headsets
 Heater
+Heatsink
 Hub
 Hubs USB
 Humidifier
@@ -218,6 +219,7 @@ Invisible Dive Case
 IP Phone Hotel
 IP Phone Wired
 IP Phone Wireless
+Infrastructure & Power
 Intercom
 Interface Card
 KVM Cable
@@ -530,7 +532,6 @@ Video Cable
 Video Card
 Voice Card
 Voice Gateway
-Wall Bracket
 Wall Mount
 Webcam
 Wireless Access Point
@@ -766,6 +767,4 @@ $)
 Your cart is empty
 Continue shopping
 Product added to cart
-View cart ( )
-Check out
-
+View 

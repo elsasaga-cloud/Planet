@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
 value && Livewire.dispatch('category:selected', { category_id: value }))"
 x-on:force:open.window="forceOpen = $event.detail.open"
@@ -223,6 +223,10 @@ Hozd ki a legtöbbet Hikvision kamerádból! ONVIF felhasználó létrehozása �
 Hozd ki a legtöbbet a Techson kamerából! SMD beállítása kamerán és NVR-en
 Legfrissebb cikkek
 Összes
+Megújult a TechSon SmartStart sorozat: EL2 kamerák immár 6 és 8 megapixeles felbontásban
+A TechSon frissítette belépő szintű EL2 termékvonalát, amely a korábbi 2 megapixeles felbontást és műanyag burkolatot hátrahagyva, jelentős technikai fejlesztéseken esett át. Az új modellek a magasabb kategóriákból ismert intelligens funkciókat teszik elérhetővé a költséghatékony projektek számára.
+Tovább
+2026. 11. 17.
 Intelligens parkolásirányítás – találd meg gyorsabban a szabad parkolóhelyet!
 Kevesebb keresgélés, átláthatóbb parkolóüzemeltetés
 Egy forgalmas parkolóban nemcsak a férőhelyek száma számít, hanem az is, milyen gyorsan találják meg a járművezetők a szabad helyeket. A felesleges körözés növeli a forgalmat, rontja a parkolási élményt, és az üzemeltetést is megnehezítheti.
@@ -240,10 +244,6 @@ Bemutatkozik a Hik Connect 7
 A Hikvision 2026. szeptember 29 én bemutatta a Hik Connect 7 alkalmazást, amely a vállalat eddigi legnagyobb ugrása a felhőalapú biztonsági menedzsmentben. A friss verzió központi eleme a HIKO, egy új mesterséges intelligencia motor, amely teljesen átalakítja a rendszer működését: a hagyományos, manuális keresésre épülő felügyeletből egy proaktív, nyelvi utasításokat értő, összefüggéseket felismerő platformot hoz létre.
 Tovább
 2026. 10. 20.
-Vége a vaklármának! Hogyan szűri ki a Techson TCI MA0 kamera PIR + AI technológia a fals riasztásokat?
-A biztonságtechnika legnagyobb ellensége a fals riasztás. Mozgó falevelek, pókhálók vagy egy udvaron átszaladó macska mind felébresztik a hagyományos rendszereket. Mutatjuk, hogyan oldja meg ezt a Techson TCI MA0 PIR+AI kamerája egy okos logikával, ahol a rendszer csak valós veszély esetén riaszt és indítja el a rögzítést egy Synology NAS – ra. Nem csak beszélünk róla, meg is mutatjuk!
-Tovább
-2026. 10. 14.
 Elérhetőség
 Tájékoztatjuk Önöket, hogy a POWER Biztonságtechnikai Kft. nagykereskedés, így csak telepítőket és viszonteladókat áll módunkban kiszolgálni. Megértésüket köszönjük.
 info@powerbizt.hu

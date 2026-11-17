@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · news_2 · https://www.b-plus.com/de/portfolio · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-974 b-plus.com · news_2 · https://www.b-plus.com/de/portfolio · fetched 2026-11-17T10:52:12Z · HTTP 200
 Portfolio der b-plus Gruppe für Automotive & Mobile Automation
 DE EN
 Suche
@@ -55,7 +55,7 @@ Datenspeicher
 > Daten Kopierstation COPYLynx
 > Docking Station Thunder Dock x8
 Cloud-based Datenmanagement
-> Testflottenmanagement CONiX.tfs
+> CONiX Testfleet : Testbetrieb und Datenerfassung
 > Dataset Services: Automated Annotation & Data Quality Assurance
 Datenverteilung und Konvertierung
 > Automotive Ethernet Tool NETLion
@@ -85,7 +85,7 @@ Mobile Automation
 > Displays für den mobilen Einsatz
 ISOBUS Lösungen
 > ISOBUS CAN Gateway
-> ISOBUS IO Gateway
+> ISOBUS IO Gateway & IO Gateway Plus
 > ISOBUS AUX-N Gateway
 > ISOBUS Stack
 > ISOBUS Analysetool
@@ -118,7 +118,7 @@ Wechselspeicher xSTORAGE
 ADAS Datenspeicher MDLake
 Daten Kopierstation COPYLynx
 Cloud-based Datenmanagement Overview
-Testflottenmanagement Software CONiX.tfs
+CONiX Testfleet
 Dataset Services
 Datenverteilung und Konvertierung Overview
 Automotive Ethernet Konverter & TAP NETLion

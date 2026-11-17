@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -51,7 +51,7 @@
 2026-09-08	https://www.ecin.ca/fusion
 2026-10-29	https://www.ecin.ca/home
 2026-09-08	https://www.ecin.ca/industries
-2026-10-13	https://www.ecin.ca/maestrofusion
+2026-11-16	https://www.ecin.ca/maestrofusion
 2026-10-06	https://www.ecin.ca/maestrovision
 2026-09-23	https://www.ecin.ca/microchip
 2026-09-08	https://www.ecin.ca/mux-demux-pon
@@ -119,6 +119,7 @@
 	https://www.ecin.ca/shop/en-ymtp8f-om4-4m-1x-mtp-8f-female-to-2x-mtp-4-fibers-female-om4-polarity-b-breakout-length-0-5m-4m-5743
 	https://www.ecin.ca/shop/en-ymtp8f-om4-1m-1xmtp-8f-female-to-2xmtp-4-fibers-female-om4-polarity-b-1m-10229
 	https://www.ecin.ca/shop/en-itaprmc-2-2-tap-1u-rack-mount-chassis-2-slots-w-t-en-itap1l1g-rj45-87
+	https://www.ecin.ca/shop/en-q112-200-dr2-200g-qsfp112-dr2-optical-transceiver-nic-rhs-flat-top-2-100g-pam4-1310nm-500m-smf-mpo-12-2-100g-dr1-breakout-11180
 	https://www.ecin.ca/shop/en-s28-dac-2m-co-25g-sfp28-to-sfp28-passive-dac-2m-cisco-1116
 	https://www.ecin.ca/shop/en-s28-dac-3m-co-25g-sfp28-to-sfp28-passive-dac-3m-cisco-1117
 	https://www.ecin.ca/shop/en-s28-dac-5m-co-25g-sfp28-to-sfp28-passive-dac-5m-cisco-1119
@@ -141,5 +142,4 @@
 	https://www.ecin.ca/shop/en-qdd-dco-zr-400g-zr-qsfp-dd-coherent-dco-up-to-120km-smf-fiber-lc-msa-8278
 	https://www.ecin.ca/shop/en-qdd-dco-zr-p-400g-zr-pro-qsfp-dd-coherent-dco-smf-fiber-lc-450km-80km-unamplified-reach-msa-8906
 	https://www.ecin.ca/shop/en-qdd-dco-zr-400g-zr-qsfp-dd-coherent-dco-smf-fiber-lc-450km-reach-msa-8279
-	https://www.ecin.ca/shop/qsa-osfp-qsfp-400g-800g-osfp-to-100g-400g-qsfp28-qsfp-dd-adapter-oqa-oda-10851
-	https://www.ecin.ca/shop/en-osfp-dr4-400gbase-dr4-osfp-fin
+	https:

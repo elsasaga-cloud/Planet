@@ -1,4 +1,4 @@
-# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 	https://www.novicam.ru/doorphones/doorphones_accessories/2-pin-wire-v-4042
 	https://www.novicam.ru/doorphones/doorphones_accessories/4-pin-wire-v-4043
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4552
@@ -42,14 +42,11 @@
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/forward-xrk-ip-black-v-4054
 	https://www.novicam.ru/sistemy-videonablyudeniya/hybrid-recorders/fr1104lx-v-3020v
 	https://www.novicam.ru/sistemy-videonablyudeniya/hybrid-recorders/fr1108x-v-3023v
-	https://www.novicam.ru/sistemy-videonablyudeniya/hybrid-recorders/fr1116x-v-3024v
 	https://www.novicam.ru/sistemy-videonablyudeniya/hybrid-recorders/fr2116x-v-3031v
-	https://www.novicam.ru/sistemy-videonablyudeniya/hybrid-recorders/fr2216x-v-3041v
 	https://www.novicam.ru/doorphones/doorphones_accessories/freedom-10-bracket-v-4151
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/freedom-10-fhd-wifi-kit-v-4229
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/freedom-10-night-fhd-wifi-kit-v-4230
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/freedom-10-night-fhd-wifi-v-4480
-	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/freedom-7-night-fhd-v-4881
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/freedom-7-fhd-wifi-v-4477
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/freedom-7-fhd-wifi-kit-v-4227
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/freedom-7-night-fhd-wifi-kit-v-4228
@@ -74,10 +71,8 @@
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/legend-bronze-v-4601
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/legend-silver-v-4600
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/locks/lh280-v-4418
-	https://www.novicam.ru/sistemy-videonablyudeniya/hybrid/lite-23-v-1514
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-22m-v-1105v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-22m-black-v-6040s
-	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-23-v-1100v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-23m-v-1106v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-27-v-1103v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-28-v-1104v
@@ -153,4 +148,8 @@
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/novicam-se120w-ver-4250
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/se310kw-wifi-v-4019
 	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/se310kw-wifi-v-4241
-	https://www.novicam.ru/s
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/sfe410kw-wifi-novicam-v-4224-kontroller-40-sht-v-4224
+	https://www.novicam.ru/doorphones/doorphones_accessories/relay-ip-mod-v-4443
+	https://www.novicam.ru/doorphones/doorphones_accessories/smile-4-7-bracket-v-4149
+	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/strict-mr-ip-black-v-4052
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/contr

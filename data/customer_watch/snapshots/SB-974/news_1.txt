@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-11-17T10:52:12Z · HTTP 200
 Events
 DE EN
 Suche
@@ -119,7 +119,7 @@ Wechselspeicher xSTORAGE
 ADAS Datenspeicher MDLake
 Daten Kopierstation COPYLynx
 Cloud-based Datenmanagement Overview
-Testflottenmanagement Software CONiX.tfs
+CONiX Testfleet
 Dataset Services
 Datenverteilung und Konvertierung Overview
 Automotive Ethernet Konverter & TAP NETLion

@@ -1,4 +1,4 @@
-# SB-138 Volktek · home · https://www.volktek.com/index_en.php · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-138 Volktek · home · https://www.volktek.com/index_en.php · fetched 2026-11-17T10:52:12Z · HTTP 200
 Industrial Ethernet Switches & PoE Solutions | Volktek Taiwan
 Products
 Layer 3 Industrial Ethernet Switches
@@ -274,6 +274,9 @@ Design & Manufacturing
 High Quality
 32 Years of Experience
 News & Events
+Power Up Your Network With btPoE - Up to 90 Watts per port over standard Ethernet cables
+2026-11-17
+Articles
 VOLKTEK Completes ISO 14064-1 Verification of Zhunan Plant's 2025 GHG Inventory
 2026-11-12
 ESG at Volktek
@@ -295,9 +298,6 @@ Product News
 VOLKTEK Achieves ISO 50001 Certification, Strengthening Energy Management and Sustainable Operations
 2026-08-27
 Corporate News
-VOLKTEK to Showcase TSN and SPE at the Industrial Open Networks Fair 2026 in Tokyo
-2026-08-25
-Events
 Volktek Ethernet products
 Volktek solutions
 Volktek solutions have been implemented in applications worldwide. Learn from our reference cases on how your network can benefit from our platform.

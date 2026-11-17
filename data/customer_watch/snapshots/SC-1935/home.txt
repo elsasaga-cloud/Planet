@@ -1,4 +1,4 @@
-# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 ADDER AKCP HW-group kvm-tec Moxa Neol - Leunig
 sales@leunig.de
 0800 40 77 88 1 ( +49 8631 986000 )
@@ -139,13 +139,13 @@ Unsere Empfehlungen
 TOP
 -1%
 Adder CCS-PRO4 Command and Control Switch,...
-4-Port Command & Control Switch mit Free-Flow. Eine Tastatur/Maus steuert bis zu 4 Rechner, Umschaltung durch Mausbewegung über Bildschirmrand. Immer lagernd.
+Command-and-Control-KM-Switch: eine Tastatur und Maus für bis zu vier Rechner mit eigenen Bildschirmen. Umschalten per Free-Flow über den Bildschirmrand, Hotkey, Ethernet oder RS232.
 Lieferzeit:
 1-3 Tage
 Nur 729,00 EUR
 Lieferzeit:
 1-3 Tage
-4-Port Command & Control Switch mit Free-Flow. Eine Tastatur/Maus steuert bis zu 4 Rechner, Umschaltung durch Mausbewegung über Bildschirmrand. Immer lagernd.
+Command-and-Control-KM-Switch: eine Tastatur und Maus für bis zu vier Rechner mit eigenen Bildschirmen. Umschalten per Free-Flow über den Bildschirmrand, Hotkey, Ethernet oder RS232.
 TOP
 Moxa ioLogik E1212, Remote Ethernet I/O,...
 Moxa ioLogik E1212 I/O Controller, I/O Controller, 8DI/8, 2-port Switch
@@ -155,6 +155,25 @@ Lieferzeit:
 Lieferzeit:
 1-3 Tage
 Moxa ioLogik E1212 I/O Controller, I/O Controller, 8DI/8, 2-port Switch
+TOP
+-6%
+Moxa MGate MB3170, 1Port RS-232/422/485 Modbus...
+1-Port Modbus Gateway. Konvertiert zwischen Modbus TCP, Modbus ASCII und Modbus RTU. RS-232/422/485. Lagernd, Versand 1–3 Tage.
+Lieferzeit:
+1-3 Tage
+Nur 359,00 EUR
+Lieferzeit:
+1-3 Tage
+1-Port Modbus Gateway. Konvertiert zwischen Modbus TCP, Modbus ASCII und Modbus RTU. RS-232/422/485. Lagernd, Versand 1–3 Tage.
+TOP
+AdderLink XD641P-DP, DisplayPort-KVM-Extender,...
+4K-KVM-Extender-Set für einen DisplayPort-Monitor: 4096x2160 bei 60 Hz, 24 Bit, 4:4:4, USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km, Punkt-zu-Punkt ohne Netzwerkeinrichtung.
+Lieferzeit:
+1-3 Tage
+1.950,00 EUR
+Lieferzeit:
+1-3 Tage
+4K-KVM-Extender-Set für einen DisplayPort-Monitor: 4096x2160 bei 60 Hz, 24 Bit, 4:4:4, USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km, Punkt-zu-Punkt ohne Netzwerkeinrichtung.
 TOP
 -15%
 Moxa ioLogik E1214, Remote Ethernet I/O,...
@@ -168,15 +187,15 @@ ca. 2 Wochen
 FRISCHE WARE spätestens AM 04.12.2026.
 Remote Ethernet I/O mit 6 digitalen Eingängen und 6 Relaisausgängen. 2-Port Ethernet Switch für Daisy-Chain. Modbus TCP, EtherNet/IP, SNMP, RESTful API. Lagernd, Versand 1–3 Tage.
 TOP
--6%
-Moxa MGate MB3170, 1Port RS-232/422/485 Modbus...
-1-Port Modbus Gateway. Konvertiert zwischen Modbus TCP, Modbus ASCII und Modbus RTU. RS-232/422/485. Lagernd, Versand 1–3 Tage.
+-26%
+RARITAN Dominion KX4 101 single port KVM...
+Dominion KX4-101, IP-Switch, 1 IP-Port 1 Server-Port, opt. lokale Console Kabel f. USB und PS/2, incl. RMK
 Lieferzeit:
 1-3 Tage
-Nur 359,00 EUR
+Nur 649,00 EUR
 Lieferzeit:
 1-3 Tage
-1-Port Modbus Gateway. Konvertiert zwischen Modbus TCP, Modbus ASCII und Modbus RTU. RS-232/422/485. Lagernd, Versand 1–3 Tage.
+Dominion KX4-101, IP-Switch, 1 IP-Port 1 Server-Port, opt. lokale Console Kabel f. USB und PS/2, incl. RMK
 TOP
 -2%
 STE2 R2, 600753, Serverraum-Thermometer,...
@@ -187,16 +206,6 @@ Nur 239,00 EUR
 Lieferzeit:
 1-3 Tage
 Serverraum über LAN, WLAN oder PoE. 2 Ports, bis 5 Werte, 2 Eingänge, Fühler 3 m dabei. Lagernd, Versand i. d. R. am selben Tag.
-TOP
--26%
-RARITAN Dominion KX4 101 single port KVM...
-Dominion KX4-101, IP-Switch, 1 IP-Port 1 Server-Port, opt. lokale Console Kabel f. USB und PS/2, incl. RMK
-Lieferzeit:
-1-3 Tage
-Nur 649,00 EUR
-Lieferzeit:
-1-3 Tage
-Dominion KX4-101, IP-Switch, 1 IP-Port 1 Server-Port, opt. lokale Console Kabel f. USB und PS/2, incl. RMK
 TOP
 12-port full Gigabit managed Ethernet switch,...
 Lieferzeit:
@@ -214,15 +223,6 @@ Nur 502,00 EUR
 Lieferzeit:
 1-3 Tage
 MOXA NPort 5410, 4Port Geräte Server, RS-232, DB9 Stecker, LCD Anzeige für IP Konfig
-TOP
-AdderLink XD641P-DP, DisplayPort-KVM-Extender,...
-Ein Monitor, 4096x2160 bei 60 Hz. USB-HID, Audio, RS232. Cat.6 bis 100 m oder LWL bis 4 km. Lokaler Monitor am Sender.
-Lieferzeit:
-1-3 Tage
-1.950,00 EUR
-Lieferzeit:
-1-3 Tage
-Ein Monitor, 4096x2160 bei 60 Hz. USB-HID, Audio, RS232. Cat.6 bis 100 m oder LWL bis 4 km. Lokaler Monitor am Sender.
 TOP
 -9%
 ICRON Ranger 2311 USB 2.0 Extender Set, 1-Port,...
@@ -267,13 +267,13 @@ FRISCHE WARE spätestens AM 04.12.2026.
 Remote Ethernet I/O mit 6 digitalen Eingängen und 6 Relaisausgängen. 2-Port Ethernet Switch für Daisy-Chain. Modbus TCP, EtherNet/IP, SNMP, RESTful API. Lagernd, Versand 1–3 Tage.
 -15%
 AdderView PRO 4 Port DisplayPort KVM Switch,...
-4-Port DisplayPort KVM-Switch mit USB True Emulation. Bis 2560x1600 @60 Hz. Immer lagernd.
+4-Port-KVM-Switch für einen DisplayPort-Monitor: bis 2560x1600 bei 60 Hz (10 Bit), 1920x1200 bei 120 Hz, USB True Emulation, zwei transparente USB-2.0-Ports, Audio, 1 HE.
 Lieferzeit:
 1-3 Tage
 Nur 579,00 EUR
 Lieferzeit:
 1-3 Tage
-4-Port DisplayPort KVM-Switch mit USB True Emulation. Bis 2560x1600 @60 Hz. Immer lagernd.
+4-Port-KVM-Switch für einen DisplayPort-Monitor: bis 2560x1600 bei 60 Hz (10 Bit), 1920x1200 bei 120 Hz, USB True Emulation, zwei transparente USB-2.0-Ports, Audio, 1 HE.
 TOP
 -2%
 STE2 R2, 600753, Serverraum-Thermometer,...
@@ -373,27 +373,4 @@ Bis dahin verbleiben wir und wünschen alles Gute,
 Ihr,
 Thomas Mussnig
 Geschäftsführer der LEUNIG GmbH
-Alle Preise im Shop zzgl. gesetzl. MwSt. und ggf. Versand.
-Mehr über...
-Impressum
-Kontakt
-Versand- & Zahlungsbedingungen
-Widerrufsrecht
-AGB
-Privatsphäre und Datenschutz
-Cookie Einstellungen
-Hersteller
-ADDER Technology
-BrightSign
-Etic Telecom
-HW group
-ICRON
-Kyland
-Moxa
-Robustel
-Delta
-Aktuelle Themen
-{{#title}}
-{{title}}
-{{/title}}
-{{{items.src}}
+Al

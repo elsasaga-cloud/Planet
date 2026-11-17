@@ -1,4 +1,4 @@
-# SB-138 Volktek · news_2 · https://www.volktek.com/news_en.php · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-138 Volktek · news_2 · https://www.volktek.com/news_en.php · fetched 2026-11-17T10:52:12Z · HTTP 200
 News & Events | VOLKTEK
 Products
 Layer 3 Industrial Ethernet Switches
@@ -211,6 +211,10 @@ Discover the Future of Industrial Networking with Volktek and Nex-Gen at KES 202
 2025-09-22
 Events
 Read More
+Power Up Your Network With btPoE - Up to 90 Watts per port over standard Ethernet cables
+2026-11-17
+Articles
+Read More
 VOLKTEK Completes ISO 14064-1 Verification of Zhunan Plant's 2025 GHG Inventory
 2026-11-12
 ESG at Volktek
@@ -229,10 +233,6 @@ Product News
 Read More
 VOLKTEK Product Line Rationalization and End-of-Life (EOS/EOL) Notice
 2026-09-21
-Product News
-Read More
-VOLKTEK Advances EU CRA Compliance Efforts with Launch of Product Security Reporting Portal
-2026-09-09
 Product News
 Read More
 1 / 30

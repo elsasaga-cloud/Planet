@@ -1,4 +1,4 @@
-# SB-1097 yatun.cz · news_1 · https://www.yatun.cz/blog-novinky · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-1097 yatun.cz · news_1 · https://www.yatun.cz/blog-novinky · fetched 2026-11-17T10:52:12Z · HTTP 200
 Novinky | Yatun.cz
 CZK
 EUR
@@ -9,7 +9,7 @@ Menu eshopu
 Yatun.cz | Novinky
 Blog
 Novinky
-Nové termostaty Ekinex: Když se technologie potkává s designem.
+Nové termostaty Ekinex: Když se technologie snoubí s designem.
 15. Říjen 2026
 Poznejte nový Araknis 530 Wi-Fi 7 a nástroje, které usnadní instalaci i správu sítě.
 14. Říjen 2026
@@ -329,4 +329,4 @@ Google Analytics - Statistické, Funkční, nezbytně nutné
 Google Maps - Marketingové
 Ostatní - účel čekající zjištění
 7. Souhlas
-Když poprvé navštívíte náš web, ukážeme vám vyskakovací okno s vysvětlení
+Když poprvé navštívíte náš web, ukážeme vám vyskakovací okno s vysvětlením

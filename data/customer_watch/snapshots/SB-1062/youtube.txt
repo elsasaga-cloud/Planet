@@ -1,4 +1,8 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-17T10:52:12Z · HTTP 200
+2026-11-17T10:12:26+00:00	Webinaire - Simplifiez votre reporting ESG grâce aux données intégrées d’Odoo 20	https://www.youtube.com/watch?v=fikL4DHzMyk
+2026-11-16T23:00:04+00:00	More Tools or Better Systems? WAO Group’s Odoo Journey	https://www.youtube.com/watch?v=1eLY3ElrTi4
+2026-11-16T15:30:01+00:00	Odoo Point of Sale: Mollie	https://www.youtube.com/watch?v=fIoW4prnvdc
+2026-11-16T14:45:24+00:00	Webinaire - Pourquoi vous n'avez plus besoin de 10 outils marketing	https://www.youtube.com/watch?v=rVgqZeVrblg
 2026-11-14T00:00:29+00:00	Clear Answers at Every Step: How ONYX Transformed the Customer Journey with Odoo	https://www.youtube.com/watch?v=6LPrxjHJEXU
 2026-11-13T18:20:13+00:00	Beyond the Books: AI Meets Odoo Accounting	https://www.youtube.com/watch?v=CSm_guuDFNU
 2026-11-13T16:02:54+00:00	Industry Webinar - Property Developer	https://www.youtube.com/watch?v=csWSzmbx2qs
@@ -10,7 +14,3 @@
 2026-11-12T11:08:44+00:00	Odoo Insider - Live Q&A - Inventory Focus with Richard	https://www.youtube.com/watch?v=bCnnJ2b04K0
 2026-11-12T05:01:12+00:00	Smart Decision-Making: Power Your Business Growth with Odoo AI	https://www.youtube.com/watch?v=bwvbOPl9bqI
 2026-11-11T20:11:22+00:00	Odoo Live Services: AI Q&A	https://www.youtube.com/watch?v=UODAa-ne-jc
-2026-11-10T19:46:04+00:00	Odoo AI: From Ideas to Action	https://www.youtube.com/watch?v=CZIbHF2irYw
-2026-11-10T15:29:43+00:00	Webinar - From Kitchen to Delivery - Set up your Restaurant and Sell Online with Odoo 20	https://www.youtube.com/watch?v=4uUGPyymy6k
-2026-11-10T11:21:22+00:00	Webinaire - Le parcours visiteur, de la réservation à l’expérience sur place	https://www.youtube.com/watch?v=3zkJutoknBc
-2026-11-10T08:25:06+00:00	Webinaire Odoo 20 - Optimisez votre gestion des stocks grâce à l’IA	https://www.youtube.com/watch?v=lFbeBtvmrLw

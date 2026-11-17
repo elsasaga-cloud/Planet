@@ -1,4 +1,4 @@
-# SB-709 ic-intracom.bg · sitemap · https://ic-intracom.bg/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-709 ic-intracom.bg · sitemap · https://ic-intracom.bg/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 2026-04-16	https://ic-intracom.bg/about-us
 2026-08-27	https://ic-intracom.bg/brands
 2026-04-15	https://ic-intracom.bg/conditions-for-cancellation-of-orders
@@ -26,7 +26,6 @@
 	https://ic-intracom.bg/shop/apsb35123cdl10-1-25g-bidi-sfp-модул-по-едно-влакно-tx-1310-nm-rx-1550-nm-lc-10-км-atop-31661
 	https://ic-intracom.bg/shop/apsb35123cdl20-1-25g-bidi-sfp-модул-по-едно-влакно-tx-1310-nm-rx-1550-nm-lc-20-км-atop-31663
 	https://ic-intracom.bg/shop/1gsfp-bd20-1310-lc-1-25g-bidi-sfp-модул-по-едно-влакно-tx-1310-nm-rx-1550-nm-lc-20-км-conneu-31658
-	https://ic-intracom.bg/shop/1gsfp-bd3-1310-sc-1-25g-bidi-sfp-модул-по-едно-влакно-tx-1310-rx-1550-nm-sc-3-км-conneu-25483
 	https://ic-intracom.bg/shop/apsb35123cdl3-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-1310-nm-rx-1550-nm-lc-3-км-atop-31672
 	https://ic-intracom.bg/shop/apsb35123cds3-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-1310-nm-rx-1550-nm-sc-3-км-atop-31673
 	https://ic-intracom.bg/shop/apsb45123cdl80-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-1490-nm-rx-1550-nm-lc-80-км-atop-31656
@@ -36,6 +35,7 @@
 	https://ic-intracom.bg/shop/apsb35123cdl40-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-tx-1310-nm-rx-1550-nm-lc-40-км-atop-31666
 	https://ic-intracom.bg/shop/apsb35123cdl60-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-tx-1310-nm-rx-1550-nm-lc-60-км-atop-31668
 	https://ic-intracom.bg/shop/1gsfp-bd20-1310-sc-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-tx-1310-nm-sc-20-км-conneu-25504
+	https://ic-intracom.bg/shop/1gsfp-bd3-1310-sc-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-tx-1310-rx-1550-nm-sc-3-км-conneu-25483
 	https://ic-intracom.bg/shop/apsb43123cdl20-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-tx-1490-nm-rx-1310-nm-lc-20-км-atop-31636
 	https://ic-intracom.bg/shop/apsb45123cdlb2-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-tx-1490-nm-rx-1550-nm-lc-120-км-atop-31637
 	https://ic-intracom.bg/shop/apsb53123cdl10-1-25g-bidi-sfp-оптичен-модул-по-едно-влакно-tx-1550-nm-rx-1310-nm-lc-10-км-atop-31662
@@ -101,5 +101,4 @@
 	https://ic-intracom.bg/shop/apsc39123cdl60-1-25g-cwdm-sfp-оптичен-модул-1390-nm-lc-60-км-atop-25461
 	https://ic-intracom.bg/shop/icb-sc51125-3cl60-1-25g-cwdm-sfp-оптичен-модул-1510-nm-lc-дуплекс-60-км-conneu-25638
 	https://ic-intracom.bg/shop/icb-sc57125-3cl60-1-25g-cwdm-sfp-оптичен-модул-1570-nm-lc-дуплекс-60-км-conneu-25639
-	https://ic-intracom.bg/shop/aps31123cdl2-1-25g-sfp-модул-по-две-влакна-1310-nm-lc-2-км-atop-31646
-	http
+	https://ic-intracom.bg/shop/aps31123cdl2-1-25g-sfp-модул-по-две-влакна-1310-nm-lc-2-км-atop-316

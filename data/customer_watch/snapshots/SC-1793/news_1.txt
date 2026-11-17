@@ -1,4 +1,4 @@
-# SC-1793 axisindia.in · news_1 · https://axisindia.in/resources-insights/news-media/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1793 axisindia.in · news_1 · https://axisindia.in/resources-insights/news-media/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 News & Media | Axis Solutions Limited
 About Us
 Brand Story
@@ -84,6 +84,9 @@ Blog
 Calculator Library
 Podcasts
 Axis Chronicles
+17.11.2026
+News & Media
+Rewriting the Renewable Energy Playbook
 14.10.2026
 News & Media
 From connected plants to intelligent industry: India’s next digital transformation
@@ -117,9 +120,6 @@ Business news this week - Industry Supported Lab – Axis Solutions and GEC Gand
 09.09.2026
 News & Media
 SME Street - Industry Supported Lab - Axis Solutions and GEC Gandhinagar Initiative
-09.09.2026
-News & Media
-5 Dariya News - Industry Supported Lab - Axis Solutions and GEC Gandhinagar Initiative
 1
 2
 3

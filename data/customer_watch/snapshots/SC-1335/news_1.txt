@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-17T10:52:12Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -113,11 +113,11 @@ Cheapest
 Most expensive
 Bestsellers
 Latest
-141 items
+140 items
 MikroTik XS+31LC40D, SFP28 optical module, Single-Mode, 40km, 25G, 1310nm
 XS+31LC40D
-148.78 EUR excl. VAT
-180.10 EUR incl. VAT
+148.75 EUR excl. VAT
+180.06 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -130,8 +130,8 @@ The MikroTik XS+31LC40D is a single-mode SFP/SFP+/SFP28 module supporting data r
 New product
 MikroTik G1317-0600W, DC power supply for CRS320
 G1317-0600W
-160.86 EUR excl. VAT
-194.69 EUR incl. VAT
+161.40 EUR excl. VAT
+195.34 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -144,8 +144,8 @@ The MikroTik G1317-0600W is a power supply/module with an input voltage of 36-72
 New product
 MikroTik LtAP-5HaxT2HaxD&EG120K-EA, LtAP LTE12 ax
 LtAP-5HaxT2HaxD&EG120K-EA
-237.26 EUR excl. VAT
-287.16 EUR incl. VAT
+238.07 EUR excl. VAT
+288.14 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -158,8 +158,8 @@ The MikroTik LtAP LTE12 ax is a 4G router with (3) 1Gbps ports (1x PoE-In), dual
 New product
 Huawei OPS W022 D, Computer module for IdeaHub, 16GB RAM
 06190081
-2 272.67 EUR excl. VAT
-2 749.93 EUR incl. VAT
+2 272.62 EUR excl. VAT
+2 749.87 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -172,8 +172,8 @@ The Huawei OPS W022 D is a compact OPS-C standard computer module designed for i
 New product
 Huawei OPS W021 D, Computer module for IdeaHub, 8GB RAM
 06190082
-1 391.61 EUR excl. VAT
-1 683.85 EUR incl. VAT
+1 391.73 EUR excl. VAT
+1 683.99 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -186,8 +186,8 @@ The Huawei OPS W021 D is a compact OPS-C standard computer module designed for i
 New product
 Huawei OPS A01 D, Android module for IdeaHub, 4GB RAM
 06190079
-630.91 EUR excl. VAT
-763.40 EUR incl. VAT
+630.78 EUR excl. VAT
+763.24 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -200,8 +200,8 @@ The Huawei OPS A01 D is a compact OPS-C standard computer module designed for in
 New product
 Huawei OPS A01 D, Android module for IdeaHub, 8GB RAM
 06190047-001
-925.28 EUR excl. VAT
-1 119.59 EUR incl. VAT
+925.09 EUR excl. VAT
+1 119.36 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -214,8 +214,8 @@ The Huawei OPS A01 D is a compact OPS-C standard computer module designed for in
 New product
 Huawei IdeaHub B3 Base, Interactive display, 98"
 55151688
-5 366.63 EUR excl. VAT
-6 493.62 EUR incl. VAT
+5 366.76 EUR excl. VAT
+6 493.78 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -228,8 +228,8 @@ The Huawei IHB3-98AC is a 98" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 86"
 55151687
-3 364.18 EUR excl. VAT
-4 070.66 EUR incl. VAT
+3 364.31 EUR excl. VAT
+4 070.82 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -242,8 +242,8 @@ The Huawei IHB3-86AC is a 86" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 75"
 55151686
-2 562.95 EUR excl. VAT
-3 101.17 EUR incl. VAT
+2 563.24 EUR excl. VAT
+3 101.52 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -256,8 +256,8 @@ The Huawei IHB3-75AC is a 75" interactive 4K display with soft-light technology 
 New product
 Huawei IdeaHub B3 Base, Interactive display, 65"
 55151685
-1 762.13 EUR excl. VAT
-2 132.18 EUR incl. VAT
+1 762.18 EUR excl. VAT
+2 132.24 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -270,8 +270,8 @@ The Huawei IHB3-65AC is a 65" interactive 4K display with soft-light technology 
 New product
 Huawei Aura10, Dual-Band Wi-Fi 7 router
 Aura10
-138.01 EUR excl. VAT
-167.06 EUR incl. VAT
+137.99 EUR excl. VAT
+167.04 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -284,8 +284,8 @@ The Huawei Aura10 is a dual-band Wi-Fi 7 mesh router that operates simultaneousl
 New product
 Huawei AR280-4T2N, 2.5G router
 AR280-4T2N
-100.55 EUR excl. VAT
-121.74 EUR incl. VAT
+100.57 EUR excl. VAT
+121.76 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -298,8 +298,8 @@ The Huawei eKitEngine AR280-4T2N is an all-in-one router equipped with (2) 2.5G 
 New product
 Huawei S530-24T8J4XE, Gigabit switch
 S530-24T8J4XE
-653.02 EUR excl. VAT
-790.23 EUR incl. VAT
+652.89 EUR excl. VAT
+790.07 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -312,8 +312,8 @@ The Huawei eKitEngine S530-24T8J4XE is an L3 stackable switch with a switching c
 New product
 Huawei S310-48S4X, Gigabit optical switch
 S310-48S4X
-533.88 EUR excl. VAT
-646.07 EUR incl. VAT
+533.77 EUR excl. VAT
+645.93 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -326,8 +326,8 @@ The Huawei eKitEngine S310-48S4X is an optical L3 switch with a switching capaci
 New product
 Ubiquiti UACC-LR-Endpoint, Outdoor long-range PoE endpoint
 UACC-LR-Endpoint
-83.52 EUR excl. VAT
-101.13 EUR incl. VAT
+83.79 EUR excl. VAT
+101.46 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -340,8 +340,8 @@ The Ubiquiti UACC-LR-Endpoint is an outdoor endpoint with an IPX5 rating designe
 New product
 Ubiquiti USW-LR-Switch-8-PoE, UniFi long-range PoE switch
 USW-LR-Switch-8-PoE
-236.19 EUR excl. VAT
-285.86 EUR incl. VAT
+237.00 EUR excl. VAT
+286.84 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:
@@ -432,8 +432,8 @@ UNV IP turret hybrid kamera IPC3634LE-ADZK-DL3 disponuje 4MP snímačem (2688 x 
 New product
 Ubiquiti U7-Industrial, Outdoor UniFi Wi-Fi 7 AP
 U7-Industrial
-334.00 EUR excl. VAT
-404.21 EUR incl. VAT
+335.16 EUR excl. VAT
+405.62 EUR incl. VAT
 Add to cart
 stiqtyfree:0
 _17:

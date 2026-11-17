@@ -1,4 +1,6 @@
-# SB-751 engeniustech.com · youtube · https://www.youtube.com/user/EnGeniusTec · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-751 engeniustech.com · youtube · https://www.youtube.com/user/EnGeniusTec · fetched 2026-11-17T10:52:12Z · HTTP 200
+2026-11-16T14:47:22+00:00	Meet EnGenius at SC26 - Overview of AI Hardware Solutions	https://www.youtube.com/watch?v=EBqsmLjNuJs
+2026-11-16T14:29:33+00:00	EnGenius AI Box Series: Industrial Computer Powered by NVIDIA Jetson Nano/NX	https://www.youtube.com/watch?v=cqMpE8PDco8
 2026-11-13T19:29:37+00:00	Webinar: What's New in EnGenius Cloud: Latest Features, Smarter Management & More	https://www.youtube.com/watch?v=Z9QXmkdhNhI
 2026-11-02T20:57:24+00:00	Webinar: Beyond Wi-Fi - Complete Connectivity for Residential Communities	https://www.youtube.com/watch?v=6PYkDqjjUvw
 2026-09-30T19:09:27+00:00	Webinar: A Networking Professional’s Introduction to EnGenius Surveillance (Live Demo)	https://www.youtube.com/watch?v=XvHk-ftxWlk
@@ -12,5 +14,3 @@
 2026-04-03T18:50:00+00:00	Introducing the EnGenius ECC100 AI Cloud Camera	https://www.youtube.com/watch?v=8wl22UwtHHE
 2026-04-03T18:47:21+00:00	Introducing the EnGenius ECC500 AI Cloud Camera	https://www.youtube.com/watch?v=50FtmV0PazY
 2026-04-02T20:58:17+00:00	Webinar: Smarter Surveillance with EnGenius AI Cloud Cameras: Simplify Security Without NVRs	https://www.youtube.com/watch?v=qeCVtdKzekA
-2026-04-01T20:56:06+00:00	ISC West 2026: EnGenius Booth Tour	https://www.youtube.com/watch?v=ll5RhVFVtmI
-2026-03-06T18:11:58+00:00	Webinar: New ECW515 - The In-Room Wi-Fi 7 Opportunity	https://www.youtube.com/watch?v=Fdu7pCXP6hg

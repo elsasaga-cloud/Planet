@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
-2026-11-16	https://www.streakwave.com/
-2026-11-16	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+2026-11-17	https://www.streakwave.com/
+2026-11-17	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
@@ -142,7 +142,7 @@
 2026-11-10	https://www.streakwave.com/long-range-switch-8-poe
 2026-11-10	https://www.streakwave.com/outdoor-long-range-endpoint
 2026-11-10	https://www.streakwave.com/ubiquiti-ua-retrofit-reader-fingerprint-w-retrofit-reader-fingerprint-white
-2026-11-10	https://www.streakwave.com/ubiquiti-ua-retrofit-reader-fingerprint-b-retrofit-reader-fingerprint-black
+2026-11-16	https://www.streakwave.com/ubiquiti-ua-retrofit-reader-fingerprint-b-retrofit-reader-fingerprint-black
 2026-11-09	https://www.streakwave.com/engenius-ecw510p-wifi-7-2x2-lite-indoor-wireless-access-point-project
 2026-11-06	https://www.streakwave.com/essential-lite-ip-phone-with-wi-fi
 2026-11-06	https://www.streakwave.com/essential-lite-ip-phone-with-poe

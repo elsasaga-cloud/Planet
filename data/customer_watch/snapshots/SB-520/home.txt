@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,91 +75,82 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-SOLARFAM AST-H8 Sodium-Ion autobaterie 12V 75Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 75 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 1200 A, rozměry 354 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-5 625 Kč bez DPH
-6 806 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-SOLARFAM AST-H6 Sodium-Ion autobaterie 12V 45Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 278 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-3 900 Kč bez DPH
-4 719 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-Cudy WR3600H 2.5G Wi-Fi 7 Mesh Router, BE3600
-Dvoupásmový mesh router s Wi-Fi 7 dosahuje až 688 Mb/s na 2,4 GHz a 2880 Mb/s na 5 GHz. Má 2,5Gb/s WAN a 4 gigabitové LAN porty, 4 pevné antény a podporu OFDMA a MU-MIMO. Pracuje jako router, přístupový bod či opakovač a podporuje VPN.
-1 156 Kč bez DPH
-1 399 Kč s DPH
+MikroTik HS-55DLC80D, SFP optický modul, Single-Mode, 80km, 2.5G, 1550nm
+Průmyslový optický SFP modul pro single-mode vlákno přenáší data rychlostí 1 nebo 2,5 Gb/s až na 80 km při 1550 nm. Dvojici LC konektorů s broušením UPC doplňuje diagnostika DDM sledující optický výkon, napětí, teplotu a proud laseru.
+615 Kč bez DPH
+744 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-MikroTik IAQM-THC2PV-W, CLAIRÉ monitor kvality vzduchu, bílý
-Bílý monitor kvality vnitřního vzduchu s měřením CO2, PM2,5, PM10, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
-1 779 Kč bez DPH
-2 153 Kč s DPH
+TP-Link ES210XPP-M2 Omada Easy PoE Switch
+10portový PoE++ switch s 8× 2,5Gb/s RJ45, 10Gb/s RJ45 a 10Gb/s SFP+ uplinkem. Poskytuje PoE rozpočet 200 W, až 90 W na port a podporuje VLAN, QoS, IGMP Snooping i správu přes Omada.
+4 847 Kč bez DPH
+5 865 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Ubiquiti UACC-WP-TH, Univerzální přetíratelná kabelová průchodka, 2-pack
+Přetíratelná nástěnná kabelová průchodka pro čisté zakončení kabeláže. Kryt z polykarbonátu a oceli o rozměrech 82 × 112 × 3,2 mm se hodí ke krabicím 2? × 4?, 86 × 86 mm i kulatým 60 mm. Balení 2 kusů.
+334 Kč bez DPH
+404 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+MikroTik G1317-0600W - Hot Swap 600W napájecí DC zdroj pro CRS320
+Výměnný DC/DC napájecí zdroj 600 W pro switch MikroTik CRS320-8P-8B-4S+RM. Přijímá vstup 36–72 V DC a poskytuje výstup 54,5 V / 10,35 A. Funkce Hot Swap umožňuje výměnu za provozu při dostatečném výkonu druhého zdroje.
+4 081 Kč bez DPH
+4 938 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti UVC-G6-Dome-W, UniFi Video Camera G6 Dome, bílá
-Dome IP kamera s rozlišením 8 Mpx, infračerveným přísvitem do 30 m a napájením přes PoE. Krytí IP66 pro vnitřní i venkovní instalaci, správa v UniFi Protect a AI rozpoznávání obličejů i registračních značek vozidel přímo v kameře.
-6 780 Kč bez DPH
-8 204 Kč s DPH
+Ubiquiti UACC-Cable-USB-100W-2M-BK, USB-C kabel s displejem, 2m
+USB-C kabel délky 2 m s podporou Power Delivery až 100 W pro nabíjení telefonů, notebooků a powerbank. Integrovaný displej zobrazuje aktuální nabíjecí výkon, opletený plášť kombinuje materiály PP a PET.
+641 Kč bez DPH
+776 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-TINKO bateriový článek 18650, Li-Ion 3,7 V, 2200 mAh
-Li-Ion nabíjecí článek 18650 se zaručenou kapacitou 2200mA, kterou jsme ověřili vlastním měřením. Článek nemá ochranný obvod, takže je vhodný do akupacků, které mají řízenou nabíječku.
-Specifikace:
-Obchodní značení: 18650
-Rozměry článku: průměr 18mm,
-65 Kč bez DPH
-79 Kč s DPH
+Cudy FS1016 Switch
+Síťový switch se 16 porty 10/100 Mb/s pro umístění na stůl nebo do 19" racku. Podporuje oddělení portů a prodloužení dosahu až na 250 m při rychlosti 10 Mb/s na portech 1–14. Napájení 230 V AC, rackové úchyty v balení.
+571 Kč bez DPH
+691 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Cudy LT300 Bezdrátový 4G LTE router, N300
-4G LTE router s nano SIM slotem, stahováním až 150 Mb/s a odesíláním až 50 Mb/s. Wi-Fi 2,4 GHz dosahuje až 300 Mb/s. Má 1× LAN a 1× LAN/WAN 10/100 Mb/s, VPN klienta OpenVPN a WireGuard a správu přes aplikaci.
-742 Kč bez DPH
-898 Kč s DPH
+TINKO bateriový článek 18650, Li-Ion 3,7 V, 3000 mAh
+Nabíjecí Li-Ion článek 18650 s napětím 3,7 V a kapacitou 3000 mAh pro akupacky, ruční nářadí a powerbanky. Rozměry 18 × 65 mm, vybíjecí proud 10 A trvale a až 20 A krátkodobě.
+134 Kč bez DPH
+162 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Ubiquiti UACC-Cable-USB-100W-0.3M-BK, USB-C kabel s displejem, 0.3m
+USB-C kabel délky 0,3 m s podporou Power Delivery až 100 W pro nabíjení telefonů, notebooků a powerbank. Integrovaný displej zobrazuje aktuální nabíjecí výkon, opletený plášť kombinuje materiály PP a PET.
+418 Kč bez DPH
+506 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
 TINKO bateriový článek 18650, Li-Ion 3,7 V, 3500 mAh
-Li-Ion nabíjecí článek 18650 se zaručenou kapacitou, kterou jsme ověřili vlastním měřením. Bez ochranného obvodu.
-Specifikace:
-Obchodní značení: 18650
-Rozměry článku: průměr 18mm, délka 65mm
-Deklarovaná kapacita: 3500mAh
-Naměřená kapacita:
-3440mAh
+Nabíjecí Li-Ion článek 18650 s napětím 3,7 V a kapacitou 3500 mAh pro akupacky, elektrokola, svítilny a powerbanky. Rozměry 18 × 65 mm, vybíjecí proud 10 A trvale a až 20 A krátkodobě.
 160 Kč bez DPH
 194 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-MHPower Nomad 144k Powerbanka LiFePO4, 144000mAh, černá
-Outdoorová LiFePO4 powerbanka 144 000 mAh / 460,8 Wh se dvěma USB-A, dvěma USB-C, dvěma 12V autozásuvkami a 12V Anderson výstupem až 30 A. Solární MPPT vstup až 160 W, LED displej, světlo a funkce Pass-Through.
-4 760 Kč bez DPH
-5 760 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-Cudy LT700E Bezdrátový 4G LTE router, AC1200
-4G LTE Cat 6 router s nano SIM slotem a rychlostí až 300/50 Mb/s pro stahování a odesílání. Dvoupásmová Wi-Fi dosahuje až 300 + 866 Mb/s. Má 3× gigabitový LAN a 1× gigabitový LAN/WAN port a VPN klienta OpenVPN a WireGuard.
-1 676 Kč bez DPH
-2 028 Kč s DPH
+Ubiquiti USW-Flex-3, UniFi PoE switch, 3-pack
+Pětiportový gigabitový PoE switch s krytím IP55 pro venkovní síťové instalace. Nabízí čtyři PoE výstupy až 15 W na port, celkový rozpočet 46 W a správu v UniFi Network. Sada obsahuje 3 switche.
+6 596 Kč bez DPH
+7 981 Kč s DPH
 Novinka
 Porovnat
 skladem

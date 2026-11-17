@@ -1,4 +1,4 @@
-# SB-274 fiberix.com.tr · home · https://www.fiberix.com.tr/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-274 fiberix.com.tr · home · https://www.fiberix.com.tr/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Kotasız İnternet: Fiber, VDSL ve Kablosuz AirFiber | Fiberix
 İçeriğe geç Kısayol: Alt + Shift + A
 Tarifeler
@@ -10,7 +10,7 @@ Online İşlemler
 Başvur
 Fiberix: Türkiye genelinde kotasız internet, Fiber / xDSL ve kablosuz AirFiber
 Çita kadar hızlı. 1000 Mbps’e kadar.
-Kendi fiber altyapımızla 1000 Mbps’e kadar, kotasız internet. Adresinizdeki hızı hemen sorgulayın.
+Kendi fiber altyapımızla 1000 Mbps’e kadar, kotasız internet. Tasarrufunuzu hemen hesaplayın.
 12 ay sabit fiyat.
 Sürpriz fatura yok, sabit fiyat var. Kota yok, aktivasyon ücretsiz. Tarifeler 12 ay taahhütle aylık 519 TL’den başlıyor.
 Altyapı yoksa AirFiber var.
@@ -88,8 +88,8 @@ Kota ve AKN olmaz
 Hiçbir tarifede aylık kullanım sınırı yok; dönem sonunda hız düşürülmez.
 Aktivasyon ücreti olmaz
 Hat aktivasyonu ücretsiz; 12 ay taahhütle kurulum da ücretsiz.
-Zorunlu uzun taahhüt olmaz
-Taahhüt süresini siz belirlersiniz; uzun süreli bağlanma zorunluluğu yok.
+Uzun taahhüt olmaz
+Taahhüt süresi 12 ay, daha uzun değil; dilerseniz taahhütsüz de alabilirsiniz.
 Taşınınca hat kaybı olmaz
 Yeni adresinizde altyapı uygunsa hattınız taşınır ve aboneliğiniz kaldığı yerden sürer.
 Yetkisiz kurulum olmaz

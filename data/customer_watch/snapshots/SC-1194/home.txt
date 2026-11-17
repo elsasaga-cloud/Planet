@@ -1,4 +1,4 @@
-# SC-1194 eldi.no · home · https://www.eldi.no/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1194 eldi.no · home · https://www.eldi.no/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 ELDI AS - Automasjon for alle Prosjekter
 Skip to content
 Til nettbutikken >
@@ -29,8 +29,10 @@ ELDI tilbyr et bredt utvalg produkter til både kommersiell og industriell autom
 Bli Kunde
 ELDI Utvider stadig sortimentet med nye og spennende produkter og løsninger. Vær først i køen ved å bli med på vårt nyhetsbrev!
 NYHETER
-PH301 Bærbart Flowmeter
+Trykksensor 10 Bar med Display
 Logg inn for å se priser
+PT300S-10-Display
+PH301 Bærbart Flowmeter
 PH301-CT030
 Industriell PC, vifteløs, N150
 EPRO-IPC-N150-8-128
@@ -51,8 +53,6 @@ EPRO-DC48-240
 Sedona Advanced Application Controller med LCD
 iSMA-B-AAC20-LCD
 iSMA Panel med CO2 og temperatur sensor, RS485 BACnet og modbus
-ST505 Clamp-on Flowmeter
-ST505
 ANBEFALTE PRODUKTER
 TM601 Flowmeter
 X2View HMI panel 7″ med Gateway og Web funksjon

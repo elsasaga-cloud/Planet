@@ -1,4 +1,4 @@
-# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-17T10:52:12Z · HTTP 200
 2026-11-15T14:00:33+00:00	PLC Röle ve Transistör Çıkış Farkı Nedir? Servoyu Hangisi Sürer?	https://www.youtube.com/shorts/-r5-BHbZQiw
 2026-11-13T14:00:28+00:00	NPN PNP Sensör Farkı Nedir? PLC Girişi Sensörü Neden Görmüyor?	https://www.youtube.com/shorts/n3YUoXtCCPI
 2026-11-11T14:00:18+00:00	PLC Dijital Giriş Nedir? Sistem Butona Basıldığını Nasıl Anlar?	https://www.youtube.com/shorts/RsFfFeuvZb0

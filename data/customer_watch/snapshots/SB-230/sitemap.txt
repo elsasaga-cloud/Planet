@@ -1,4 +1,4 @@
-# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 	https://adin.it/
 	https://adin.it/it/prodotti/
 	https://adin.it/it/k-new-2/
@@ -10,35 +10,15 @@
 	https://adin.it/it/uniview-pro/
 	https://adin.it/it/uniview-linea-ptz/
 	https://adin.it/it/switch-poe-e-accessori/
+	https://adin.it/it/protezione-sovratensioni/
+	https://adin.it/it/protezione-sovratensioni/aivusp201e/
+	https://adin.it/it/protezione-sovratensioni/aivusp201gp/
+	https://adin.it/it/protezione-sovratensioni/aitacblusp201v/
+	https://adin.it/it/protezione-sovratensioni/aitacblusp201pvd24/
 	https://adin.it/it/monitor-anrecson/
 	https://adin.it/it/videowall-anrecson/
 	https://adin.it/it/digital-signage/
 	https://adin.it/it/alimentatori-tvcc/
-	https://adin.it/it/alimentatori-in-scatola/
-	https://adin.it/it/alimentatori-in-scatola/aitacal120v50b9/
-	https://adin.it/it/alimentatori-in-scatola/aitacal120v150b18/
-	https://adin.it/it/alimentatori-in-scatola/aitacal120v100u9/
-	https://adin.it/it/alimentatori-in-scatola/aitacal120v150u16/
-	https://adin.it/it/alimentatori-in-scatola/aitacalscd540v28sw4/
-	https://adin.it/it/alimentatori-in-scatola/aitacalscd540v28sw4i/
-	https://adin.it/it/alimentatori-in-scatola/aitacalscd540v28sw8/
-	https://adin.it/it/alimentatori-in-scatola/aitacalscd540v28sw8i/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v27sw4ia/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v27sw4igep/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v27sw4igepd/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v27sw8ge/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v27sw8gep/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v27sw8i/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v27sw8ia/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v63sw4ia/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v63sw4igep/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v63sw4igepd/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v63sw8ge/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v63sw8gep/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v63sw8i/
-	https://adin.it/it/alimentatori-in-scatola/aitacalsipc540v63sw8ia/
-	https://adin.it/it/alimentatori-in-scatola/alsipkit18/
-	https://adin.it/it/alimentatori-in-scatola/alsipkit/
 	https://adin.it/it/accessori-tvcc/
 	https://adin.it/it/sotware-tvcc/
 	https://adin.it/it/tvt/
@@ -195,4 +175,24 @@
 2026-11-13	https://adin.it/it/switch-ethernet-industriali/aivuswi08p2/
 2026-11-13	https://adin.it/en/switch-ethernet-industriali/aivuswi08p2/
 2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivutp7524gepoe4gf/
-2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivutp7524
+2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivutp7524gepoe4gf/
+2026-11-13	https://adin.it/it/switch-ethernet-da-rack/aivutp7624gsl3/
+2026-11-13	https://adin.it/en/switch-ethernet-da-rack/aivutp7624gsl3/
+2020-12-02	https://adin.it/it/telecamere-ip-bullet-3/unvipc2224sr5dpf40/
+2020-12-02	https://adin.it/en/telecamere-ip-bullet-3/unvipc2224sr5dpf40/
+2023-07-20	https://adin.it/it/moduli-sfp/aivufsfp10g300m/
+2023-07-20	https://adin.it/en/moduli-sfp/aivufsfp10g300m/
+2019-10-24	https://adin.it/it/telecamere-ip-bullet-2/unvipc2325lbr3spd/
+2019-10-24	https://adin.it/en/telecamere-ip-bullet-2/unvipc2325lbr3spd/
+2026-11-13	https://adin.it/it/switch-ethernet-industriali/aivuswi08gpm/
+2026-11-13	https://adin.it/en/switch-ethernet-industriali/aivuswi08gpm/
+2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10/
+2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivuswi24g10/
+2020-12-02	https://adin.it/it/telecamere-ip-bullet-3/unvipc2224sr5dpf60/
+2020-12-02	https://adin.it/en/telecamere-ip-bullet-3/unvipc2224sr5dpf60/
+2026-11-09	https://adin.it/it/monitor-4k-pro/anrlcms55014k/
+2026-11-09	https://adin.it/en/monitor-4k-pro/anrlcms55014k/
+2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10p/
+2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivuswi24g10p/
+2019-10-24	https://adin.it/it/telecamere-ip-eyeball/unvipc3614lr3pf28d/
+2019-10-24	https://adin.it/en

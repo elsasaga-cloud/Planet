@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · news_1 · https://www.omniray.ch:443/news-1 · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1714 omniray.ch · news_1 · https://www.omniray.ch:443/news-1 · fetched 2026-11-17T10:52:12Z · HTTP 200
 Omni Ray AG | Informieren Sie sich über die neusten Produktenews
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -175,6 +175,9 @@ Mitsubishi Electric hat Cybersecurity bereits seit vielen Jahren als festen Best
 Previous slide
 Next slide
 Sensorik
+Einfache SSI-Integration für zuverlässige Neigungsmessung
+Der neue POSITAL TILTIX Neigungssensor mit SSI-Schnittstelle ermöglicht eine präzise Erfassung von Neigung und Position – ideal für die Fabrikautomation, Produktionsmaschinen und weitere anspruchsvolle industrielle Anwendungen.
+17.11.2026
 Induktive Ringsensoren, Schlauchsensoren und Drahtbruchsensoren
 Ringsensoren, Schlauchsensoren und Drahtbruchsensoren sorgen für eine zuverlässige Erfassung von Metallteilen und feinsten Drähten – präzise, robust und vielseitig einsetzbar.
 24.08.2026
@@ -190,9 +193,6 @@ Bediengeräte von FSG haben sich in vielen Industriebranchen etabliert, das gilt
 Explosionsgeschützte Neigungssensoren für Ex-Bereiche
 POSITAL erweitert die TILTIX-Familie um explosionsgeschützte Neigungssensoren für den sicheren Einsatz in anspruchsvollen Industrieumgebungen. Zertifiziert nach ATEX und IECEx, robust und präzise.
 29.07.2026
-Kompakte Inkremental-Messsysteme EMIX1 und EMIX2 von ELGO
-Mit den neuen Inkremental-Messsystemen EMIX1 und EMIX2 von ELGO bieten wir kompakte und leistungsfähige Lösungen für die berührungslose Erfassung von linearen und radialen Bewegungen.
-15.07.2026
 Previous slide
 Next slide
 Elektromechanik
@@ -274,6 +274,4 @@ Bildverarbeitungs- und Identifikationssensoren
 Sensoren diverses
 Elektromechanik
 Beleuchtungen
-Lüften / Kühlen
-Verbindungstechnik
-Leiterplatten-Ste
+Lüften /

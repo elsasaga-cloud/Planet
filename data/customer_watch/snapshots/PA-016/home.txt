@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-16T09:56:14Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-17T10:52:12Z · HTTP 200
 Centrale telefoniczne voip, Telefony ip i Bramki - voip24sklep.pl - Sklep telekomunikacyjny
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -341,8 +341,8 @@ Grandstream + CRM
 Slican + CRM
 Yeastar + CRM
 Moduły do central
-Głos męski
 Głos damski
+Głos męski
 Do 10 pracowników
 Do 20 pracowników
 Do 50 pracowników
@@ -361,14 +361,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
+Wzmacniacze
+Miksery
+Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
 Głośniki
-Wzmacniacze
-Miksery
-Matryce
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,53 +381,50 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Bezprzewodowe prezentacje
-Telewizory
 Ekrany projekcyjne
 Systemy rezerwacji sal
+Bezprzewodowe prezentacje
+Telewizory
 Projektory
 Monitory Wielkoformatowe
-Jednostki główne
-Licencje
-Akcesoria
-Lampowe
+Biznesowe
+Hotelowe
 Laserowe
 Akcesoria
+Lampowe
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Grabbery
-Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
-Splittery HDMI
-Stacje dokujące
+Grabbery
+Kamery PTZ Obrotowe
 Uchwyty do projektorów
 Kable
 Extendery
+Splittery HDMI
+Stacje dokujące
 Uchwyty do monitorów
-HDMI
-USB A
-USB C
-Przedłużacze USB A
-HDMI
 USB
-Stałe
+HDMI
+USB C
+USB A
 Uchylne
 Na ramieniu
 Mobilne wózki
+Stałe
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla obiektów sportowych
-Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
-Stanowiskowe
+Dla obiektów sportowych
+Dla edukacji
 Powierzchniowe
 Akcesoria
+Stanowiskowe
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -445,25 +442,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Kable przyłączeniowe
+Przewodowe
 Gąbki
 Adaptery
+Kable przyłączeniowe
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Higiena
-Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
-Słuchawki z radiotelefonem
+Higiena
+Słuchawki
 Słuchawki z bluetooth
 Słuchawki kablowe
 Akcesoria
+Słuchawki z radiotelefonem
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -495,10 +492,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Analogowe
 Cyfrowe
 Akcesoria
 Morskie
+Analogowe
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -514,18 +511,18 @@ LICENCJE
 UNIFONY IP
 AKCESORIA
 Wróć do:
-Jednorodzinne
 Wielorodzinne
-Przewodowe
+Jednorodzinne
 Bezprzewodowe
 Interkomy
+Przewodowe
+Ramki
+Moduły
+Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
 Elementy montażowe
-Ramki
-Moduły
-Daszki
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -559,31 +556,31 @@ Bezprzewodowe
 Przewodowe
 Na kartę SIM
 Przemysłowe
-Zewnętrzne
 Wewnętrzne
+Zewnętrzne
 Zarządzalne
 Niezarządzalne
 Typu Smart
 Wkładki SFP
 Licencje
-Urządzenia
 Zestawy
 Licencje
-Tower
+Urządzenia
 Rack
 Compact
+Tower
 USB-A
 USB-C
 Lightning
 Drukarki Pos
 Drukarki etykiet
 Skanery kodów
-Jednostki główne
 Czujniki
 Akcesoria
-NAS Desktop
+Jednostki główne
 NAS Rack
 Dyski NAS
+NAS Desktop
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -629,21 +626,21 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
 Łączniki kabli
 Wtyki
+Gniazda Keystone
 Kategorii 5
 Kategorii 6
 Kategorii 7
 Box
 Patchcord
 Na m
-Box
 Patchcord
 Na m
-Stojące
+Box
 Wiszące
 Akcesoria
+Stojące
 Puszki
 Uchwyty
 Dyski
@@ -775,16 +772,6 @@ Cena
 bez VAT
 Powiadom mnie o dostępności
 Zrezygnuj z powiadomień
-Nowość
-EPOS ADAPT 160T ANC USB-C
-Producent Sennheiser
-Cena
-490,77 zł
-Cena
-399,00 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
 Promocje
 Blog
 Kontakt
@@ -869,4 +856,4 @@ W tym blogu rozważamy korzyści wynikające z używania projektora w porównani
 Czytaj całość
 18-11-2024
 Rozwiązanie konferencyjne CA400 od Fanvila
-Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa si
+Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa się z trzech części: kamery CM70 4K UHD, RC10, koncentratora odbiornika i MS10, głośnika do współdzielenia ekranu. Doskonale rozwiązuje problemy, które trapią IT i użytkowników, takie jak

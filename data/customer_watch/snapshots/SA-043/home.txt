@@ -1,4 +1,4 @@
-# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Direktronik - dataprodukter utöver det vanliga
 Varukorg
 Summa produkter:
@@ -576,6 +576,7 @@ LoRaWAN IoT
 Wi-Fi
 4G 5G LTE
 VHF UHF
+Antennfästen
 Wi-Fi
 Accesspunkter
 Länkar, bryggor
@@ -647,4 +648,4 @@ Vi kan nätverk
 Vi ser till att lösa dina problem genom vår expertis, nedan finner du ett urval av våra nätverksprodukter!
 Best.nr 20104379
 4-portars Gigabit PoE-injektorer
-Två DC/DC PoE-injektorer som tillhandahåller fyra olika spänningar för inkommande DC. Den utgående effekten är maximalt 35W per port för artikel 201
+Två DC/DC PoE-injektorer som tillhandahåller fyra olika spänningar för inkommande DC. Den utgående effekten är maximalt 35W per port fö

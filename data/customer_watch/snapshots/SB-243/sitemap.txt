@@ -1,5 +1,5 @@
-# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
-2026-11-10T12:03:20.314Z	https://www.hfcl.com
+# SB-243 hfcl.com · sitemap · https://www.hfcl.com/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+2026-11-16T08:15:05.015Z	https://www.hfcl.com
 2026-08-21T18:47:11.298Z	https://www.hfcl.com/products/defence-solutions
 2026-10-23T05:18:26.786Z	https://www.hfcl.com/insights
 2026-08-21T18:47:11.331Z	https://www.hfcl.com/insights/blogs
@@ -52,7 +52,7 @@
 2026-10-16T11:58:29.854Z	https://www.hfcl.com/investors/investor-information
 2026-08-21T18:47:14.217Z	https://www.hfcl.com/investors/qip-2021
 2026-08-21T18:47:14.222Z	https://www.hfcl.com/investors/qip-2023
-2026-11-12T06:41:45.177Z	https://www.hfcl.com/ofc/en-us
+2026-11-16T11:51:02.861Z	https://www.hfcl.com/ofc/en-us
 2026-08-21T18:47:14.250Z	https://www.hfcl.com/products/optical-fiber
 2026-08-21T18:47:14.265Z	https://www.hfcl.com/insights/webinars-and-podcasts
 2026-08-21T18:47:14.279Z	https://www.hfcl.com/products/ip-mpls-routers

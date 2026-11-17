@@ -1,4 +1,4 @@
-# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России
 РЕГИСТРИРУЙСЯ И ПОЛУЧИ СКИДКУ СЕЙЧАС
 ×
@@ -35,8 +35,8 @@ AIRCUBE 2
 LITEAP AC 2
 ISOSTATION 2
 PRISMSTATION 1
-РАДИОМОСТЫ 73
-AIRFIBER 24
+РАДИОМОСТЫ 71
+AIRFIBER 22
 WAVE 7
 POWERBEAM 13
 LITEBEAM 7
@@ -266,7 +266,7 @@ Ubiquiti U5G Max — Высокопроизводительный 5G-модем�
 Комплект Ubiquiti UniFi Express 7, 2 шт. (UX7-2)
 Комплект Ubiquiti UniFi Express 7, 2 шт. (UX7-2) — Whole Home Wi‑Fi 7: 10G Cloud Gateway плюс беспроводной mesh‑узел для покрытия всего дома
 ОбзорКом..
-60800 руб.
+63100 руб.
 В корзину ">
 В корзину
 В закладки
@@ -294,7 +294,7 @@ Ubiquiti UniFi 5G Max Outdoor — Мощный уличный 5G-модемОб�
 Модель: U7-Outdoor
 Точка доступа Ubiquiti UniFi U7 Outdoor (U7-Outdoor)
 Ubiquiti U7 Outdoor — Точка доступа Wi‑Fi 7 (UniFi)ОбзорU7 Outdoor — это мощная уличная точка доступа Wi‑Fi 7 от Ubiquiti Inc., созданная для развёрты..
-26100 руб.
+26800 руб.
 В корзину ">
 В корзину
 В закладки
@@ -313,7 +313,7 @@ Ubiquiti UniFi Protect G6 Pro 360, белая (UVC-G6-Pro-360-W) — всепо�
 Модель: UCG-Ultra
 Сетевой шлюз Ubiquiti Cloud Gateway Ultra (UCG-Ultra)
 Ubiquiti UniFi Cloud Gateway Ultra (UCG-Ultra) — компактный облачный шлюз с UniFi Network, 4 WAN-портами и IDS/IPS 1 Гбит/сОбзорUbiquiti UniFi Cloud G..
-14500 руб.
+14800 руб.
 Купить сейчас ">
 Купить сейчас
 По запросу ">
@@ -324,7 +324,7 @@ Ubiquiti UniFi Cloud Gateway Ultra (UCG-Ultra) — компактный обла
 Модель: RB760iGS
 MikroTik hEX S (RB760iGS)
 MikroTik hEX S (RB760iGS) — компактный проводной маршрутизатор с 5×GbE, SFP, PoE-out и RouterOS L4ОбзорMikroTik hEX S (RB760iGS) — это компактный пров..
-8100 руб.
+8400 руб.
 В корзину ">
 В корзину
 В закладки
@@ -344,8 +344,10 @@ Ubiquiti UniFi Network Attached Storage 4 (UNAS-4-W, белый) — насто�
 Радиомост Ubiquiti AirFiber 5U (AF-5U)
 Ubiquiti airFiber 5U — Радиорелейная станция PtPОбзорairFiber 5U — это высокопроизводительная радиорелейная станция для соединений «точка-точка» (PtP)..
 224700 руб.
-В корзину ">
-В корзину
+Купить сейчас ">
+Купить сейчас
+По запросу ">
+По запросу
 В закладки
 В сравнение
 Быстрый просмотр
@@ -363,7 +365,7 @@ Ubiquiti airFiber 60 XG (AF60-XG) — магистральный радиомо�
 Модель: U7-Pro-XG-B
 Точка доступа Ubiquiti UniFi U7 Pro XG Black (U7-Pro-XG-B)
 Ubiquiti UniFi U7-Pro-XG — Потолочная 6-потоковая точка доступа Wi‑Fi 7 (10/5/2.5/1 GbE)ОбзорU7‑Pro‑XG — это потолочная 6-потоковая точка доступа Wi‑F..
-29300 руб.
+30500 руб.
 В корзину ">
 В корзину
 В закладки
@@ -417,7 +419,7 @@ MikroTik CSS610-8P-2S+IN — компактный PoE-коммутатор Cloud
 Модель: U7-Lite
 Точка доступа Ubiquiti UniFi U7 Lite (U7-Lite)
 Ubiquiti UniFi U7 Lite (U7-Lite) — компактная двухдиапазонная точка доступа Wi-Fi 7 с 4 потоками и аплинком 2,5 GbEОбзорUbiquiti UniFi U7 Lite — это к..
-12700 руб.
+12400 руб.
 В корзину ">
 В корзину
 В закладки
@@ -435,7 +437,7 @@ Ubiquiti UniFi Dream Machine Pro (UDM-Pro) — Корпоративное сет
 Модель: U7-Pro-Outdoor
 Точка доступа UBIQUITI UniFi U7 Pro Outdoor (U7-Pro-Outdoor)
 Ubiquiti U7-Pro-Outdoor — Всепогодная точка доступа Wi‑Fi 7 (UniFi)ОбзорU7-Pro-Outdoor — высокопроизводительная всепогодная точка доступа Wi‑Fi 7 от U..
-39400 руб.
+38400 руб.
 В корзину ">
 В корзину
 В закладки
@@ -454,7 +456,7 @@ MikroTik DISC Lite5 (RBDisc-5nD) — уличная точка доступа/к
 Модель: U7-Pro
 Точка доступа Ubiquiti UniFi U7 Pro (U7-Pro)
 Ubiquiti UniFi U7 Pro (U7-Pro) — потолочная точка доступа Wi-Fi 7 с поддержкой 6 ГГц, 6 пространственных потоков и аплинком 2,5 GbEОбзорUbiquiti UniFi..
-23600 руб.
+24100 руб.
 В корзину ">
 В корзину
 В закладки
@@ -507,7 +509,4 @@ Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE) — Управляемый L2-
 Быстрый просмотр
 MikroTik hAP ax Lite (L41G-2axD)
 MikroTik hAP ax lite (L41G-2axD) — Компактный Wi-Fi 6 роутер с RouterOS v7, 4 гигабитными портами и питанием USB-CОбзорMikroTik hAP ax lite — это идеа..
-5800 руб.
 Купить сейчас ">
-Купить сейчас
-По запро

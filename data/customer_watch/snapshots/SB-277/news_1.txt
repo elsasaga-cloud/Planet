@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,21 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Grandstream GWN7712P y GWN7713P: switches PoE L2 Lite de 16 y 24 puertos
+17 de noviembre de 2026
+Conoce
+Dos switches gestionables para pymes: 16/24 puertos GbE, 2/4 enlaces SFP y presupuestos PoE de 130/250 W, con VLAN, QoS y gestión local o centralizada.
+Read More
+Tres novedades MikroTik para redes exigentes: G1317-0600W, XS+31LC40D y S+RJ10 r3
+17 de noviembre de 2026
+Conoce
+Alimentación DC flexible para el CRS320, enlaces monomodo de hasta 40 km y cobre multigigabit desde SFP+: tres accesorios MikroTik para ampliar opciones de despliegue.
+Read More
+LtAP LTE12 ax de MikroTik: conectividad LTE y Wi-Fi 6 para flotas e instalaciones remotas
+17 de noviembre de 2026
+Conoce
+El nuevo LtAP LTE12 ax combina LTE Cat 12, Wi-Fi 6, eSIM, GNSS y tres puertos Gigabit en una carcasa IP66 diseñada para vehículos y entornos exigentes.
+Read More
 Grandstream GWN7671: Wi-Fi 7 de pared con dos salidas PoE para hoteles y oficinas
 16 de noviembre de 2026
 Conoce
@@ -57,21 +72,6 @@ UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones 
 28 de octubre de 2026
 Conoce
 El Long-Range Switch 8 PoE y el Outdoor Long-Range Endpoint de Ubiquiti amplían el alcance de la conectividad cableada y PoE para cámaras, control de accesos y dispositivos IoT remotos.
-Read More
-MikroTik CLAIRÉ y CLAIRÉ Lite: calidad del aire interior con Matter over Thread
-28 de octubre de 2026
-Conoce
-MikroTik presenta CLAIRÉ y CLAIRÉ Lite, monitores de calidad del aire interior con CO₂, VOC, temperatura y humedad (y partículas PM2.5/PM10 en el modelo completo), pantalla en color de 2" y Matter over Thread para automatizar la ventilación en local.
-Read More
-Grandstream GWN7672WM: Wi-Fi 7 tribanda de pared con uplink de 5 GbE
-27 de octubre de 2026
-Conoce
-El GWN7672WM reúne Wi-Fi 7 BE11000 en 2,4, 5 y 6 GHz, montaje en pared y conectividad Ethernet de 5 GbE para instalaciones profesionales.
-Read More
-Videoporteros IP Grandstream: control de accesos, comunicación y gestión en una sola solución
-26 de octubre de 2026
-Conoce
-Videoportero, control de accesos y videovigilancia en un solo equipo. Repasamos la serie Grandstream GDS3720, su integración con UCM y su gestión con GDS Manager 2 y GDMS.
 Read More
 Paginación de entradas
 1
@@ -625,4 +625,8 @@ comprar ubiquiti
 comprar unifi
 compras +1500 €
 compresión de vídeo
-comunicació
+comunicación
+comunicacion bidireccional
+comunicación empresas
+comunicacion unificada
+comunic

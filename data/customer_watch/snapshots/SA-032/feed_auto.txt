@@ -1,11 +1,11 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-16T09:56:14Z · HTTP 200
-Mon, 16 Nov 2026 09:37:21 +0000	INDUSTRIAL PANEL PCs FOR HYDRAULIC PUMP MANUFACTURING & TESTING	https://sundartechno.com/2026/11/16/industrial-panel-pc-hydraulic-pump-testing/
-Mon, 16 Nov 2026 07:21:54 +0000	DIGITAL TWIN FOR MILITARY ROBOTIC PLATFORMS	https://sundartechno.com/2026/11/16/digital-twin-military-robotic-platform/
-Mon, 16 Nov 2026 06:55:22 +0000	13.3″ Android Touch Panel PC for Mini ATM, Payment & Assisted-Banking Applications	https://sundartechno.com/2026/11/16/13-3-inch-android-touch-panel-pc-banking-kiosk/
-Mon, 16 Nov 2026 06:37:09 +0000	Axelera AI Accelerator-Powered Embedded AI Computer	https://sundartechno.com/2026/11/16/axelera-ai-accelerator-embedded-computer/
-Mon, 16 Nov 2026 06:18:05 +0000	CONNECT YOUR MACHINES. KEEP YOUR EXISTING IP ADDRESSES. Access Control	https://sundartechno.com/2026/11/16/connect-your-machines-keep-your-existing-ip-addresses-access-control/
-Mon, 16 Nov 2026 05:58:08 +0000	FINT T500 – HART Master to PROFIBUS PA Slave Gateway	https://sundartechno.com/2026/11/16/fint-t500-hart-to-profibus-pa-gateway/
-Mon, 16 Nov 2026 05:41:13 +0000	ONE TOUCHSCREEN. MULTIPLE APPLICATIONS.	https://sundartechno.com/2026/11/16/13-3-inch-android-14-touch-panel-pc/
-Mon, 16 Nov 2026 05:15:44 +0000	AI PC FROM SUNDAR TECHNO SOLUTIONS	https://sundartechno.com/2026/11/16/ai-pc-design-visualization-vantage-series/
-Mon, 16 Nov 2026 04:56:31 +0000	PROTECTING BLOOD BANKS & COLD STORAGE FROM CYBER ATTACKS	https://sundartechno.com/2026/11/16/industrial-firewall-blood-banks-cold-storage/
-Mon, 16 Nov 2026 04:44:35 +0000	STS 10.1″ RUGGED ANDROID TABLET — TESTED TO OPERATE AT −20°C	https://sundartechno.com/2026/11/16/sts-rugged-android-tablet-cold-storage/
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+Tue, 17 Nov 2026 06:28:36 +0000	STS HIGH-REFRESH INDUSTRIAL DISPLAY FOR ROBOTIC AI PAINT-SURFACE INSPECTION	https://sundartechno.com/2026/11/17/robotic-ai-paint-surface-inspection-industrial-display/
+Tue, 17 Nov 2026 06:11:39 +0000	FANLESS POWER FOR EVERY DCS	https://sundartechno.com/2026/11/17/fanless-industrial-computer-dcs-pci-pcie/
+Tue, 17 Nov 2026 05:56:14 +0000	FANLESS COMPUTING FOR CHLORINE PLANTS	https://sundartechno.com/2026/11/17/fanless-industrial-computer-chlorine-plants/
+Tue, 17 Nov 2026 05:42:34 +0000	INDUSTRIAL KEPWARE SERVER – CONNECTING PLCs, METERS AND SENSORS TO SCADA, MES & CLOUD	https://sundartechno.com/2026/11/17/industrial-kepware-server-ptc-connectivity/
+Tue, 17 Nov 2026 05:16:44 +0000	STS RUGGED TABLETS FOR SMART POLICE PATROL	https://sundartechno.com/2026/11/17/sts-rugged-tablets-smart-police-patrol/
+Tue, 17 Nov 2026 05:02:35 +0000	STS IPC AS SOFT PLC WITH CODESYS Control RTE SL	https://sundartechno.com/2026/11/17/sts-ipc-soft-plc-codesys-control-rte-sl/
+Tue, 17 Nov 2026 04:46:00 +0000	STS BOX PC AS SOFT PLC WITH OpenPLC & USB DAQ	https://sundartechno.com/2026/11/17/sts-box-pc-soft-plc-with-openplc-usb-daq/
+Mon, 16 Nov 2026 12:56:51 +0000	AI-CHAT BOT INDUSTRIAL COMPUTER FOR INDUSTRIAL AUTOMATION	https://sundartechno.com/2026/11/16/ai-chat-bot-industrial-computer-industrial-automation/
+Mon, 16 Nov 2026 12:36:20 +0000	AI COMPUTING – FROM EDGE TO DATA CENTER	https://sundartechno.com/2026/11/16/ai-computing-gpu-servers-edge-box-pc/
+Mon, 16 Nov 2026 12:20:57 +0000	ATEX ZONE 1 HART + FOUNDATION FIELDBUS COMMUNICATION SOLUTION	https://sundartechno.com/2026/11/16/atex-zone-1-hart-foundation-fieldbus-transmitter/

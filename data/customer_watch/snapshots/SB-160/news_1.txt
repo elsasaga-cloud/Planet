@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -173,7 +173,7 @@ X
 Blog
 RISES IN COPPER PRICES
 / June 28, 2021
-Views: 770
+Views: 772
 Featured post
 We all know the rise in copper prices has made it difficult for SME to compete with larger corporations. Having received feedback from our clients, we’ve had an extensive look
 Read More
@@ -189,7 +189,7 @@ American Wire Gauge or AWG is the US standard measure for the diameter of cable 
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
 / September 13, 2021
-Views: 1,937
+Views: 1,938
 The process of terminating twisted pair cable may seem simple on the surface, however, issues involving unproperly terminated solutions can arise, specially within today’s High-Performance LANs. With so many ways
 Read More
 A GUIDE TO LAN CABLE
@@ -214,17 +214,17 @@ When attenuation is used by networking professionals it refers to loss of signal
 Read More
 WI-FI VS ETHERNET – WHICH IS FASTER?
 / August 9, 2021
-Views: 383
+Views: 384
 As technology develops we are seeing a rise in wireless connectivity. Most cities are now adapting free Wi-Fi hotspots helping both local as well as international visitors stay connected. Our
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,231
+Views: 15,236
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
 / July 26, 2021
-Views: 1,329
+Views: 1,331
 When ordering a cable you may be tempted to consider whether or not to have it braided. Cables are braided for either of these reasons: To electrostatically screen the cable
 Read More
 CABLE BENDING RADIUS- SHOULD I BE CONCERNED?

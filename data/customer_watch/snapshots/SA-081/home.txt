@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,36 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
+UPS Micro Pro LCD
+Eurogroup Micro Pro LCD 850: UPS 850 VA / 480 W | MLPMM085010T
+Esegui l'accesso per visualizzare i prezzi
++
+Connettori
+Connettore Prelappato Sc Multimodale Om3
+Esegui l'accesso per visualizzare i prezzi
++
 Unmanaged
-Planet BSP-115HP-5A: Switch PoE Solare Industriale con 5 Porte Gigabit e SFP –
+4Net 4N-24GT4GT4FC: switch unmanaged 24 porte Gigabit + 4 combo T/SFP
 Esegui l'accesso per visualizzare i prezzi
 +
-L2/Web Smart
-4Net 4N-IMG04P2F: switch industriale managed PoE 120W Layer 2 4 Porte Gigabit + 2 SFP
+Box Ottici
+Csoe Box 48 Porte
 Esegui l'accesso per visualizzare i prezzi
 +
-Adattatori per inserti RJ45
-Adattattore Per Frutto Serie Living International 4Net
+Connettori Keystone RJ45
+Keystone RJ45 Cat. 5e UTP bianco | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Esaurito
-Armadi 800x800
-Armadio Rack a Pavimento 22U 800×800 Porta Grigliata Alta Densità Doppia Anta | 4Net
+Linea standard
+Armadio Rack a Parete 12U 600×600 Porta in Vetro RAL 9004 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Indoor
-Wi-Fi 6 Ax1800 Dual Band Vpn Security Router
+Unmanaged
+Planet IFGS-1822TF: Switch di rete Fast Ethernet con 16 porte 10/100BASE-TX e 2 porte Gigabit Ethernet
 Esegui l'accesso per visualizzare i prezzi
 +
-Broadband Communication
-PLANET VC-232G: Convertitore Gigabit Ethernet over Coax
-Esegui l'accesso per visualizzare i prezzi
-+
-Loose Dielettrico MDPE OM2
-6 Fo 50/125 Loose Dielettrico Guaina Pe
-Esegui l'accesso per visualizzare i prezzi
-+
-L3
-Planet IGS-6325-8T8S4X: Switch Industriale L3 con 8 Porte Gigabit e 4 Porte 10G SFP+
+Consumabili Fibra Ottica
+Alcool isopropilico per pulizia fibra ottica 1000 ml | 4Net
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta

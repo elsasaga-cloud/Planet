@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-17T10:52:12Z · HTTP 200
+Tue, 17 Nov 2026 09:00:00 +0000	Despliegue masivo de routers: clonar configuraciones y provisionar 50 equipos sin ir uno a uno	https://www.davantel.com/despliegue-masivo-de-routers-clonar-configuraciones-y-provisionar-50-equipos-sin-ir-uno-a-uno
 Mon, 16 Nov 2026 09:00:00 +0000	Node-RED en Gateways Industriales de Edge Computing: Cómo Encaja en Proyectos de IIoT	https://www.davantel.com/node-red-en-gateways-industriales-de-edge-computing-como-encaja-en-proyectos-de-iiot
 Fri, 13 Nov 2026 09:00:00 +0000	Adquisición de Datos de Robots Industriales: Integración de Información Robótica con PLCs, Gateways de Borde y Sistemas en la Nube	https://www.davantel.com/adquisicion-de-datos-de-robots-industriales-integracion-de-informacion-robotica-con-plcs-gateways-de-borde-y-sistemas-en-la-nube
 Thu, 12 Nov 2026 09:00:00 +0000	10 ajustes de seguridad esenciales en un router industrial antes de instalarlo	https://www.davantel.com/10-ajustes-de-seguridad-esenciales-en-un-router-industrial-antes-de-instalarlo
@@ -55,5 +56,4 @@ Fri, 07 Aug 2026 08:00:00 +0000	Redundancia Sin Interrupciones en Redes Industri
 Wed, 05 Aug 2026 08:00:00 +0000	¿Cómo elegir el mejor protocolo VPN en los routers Teltonika?	https://www.davantel.com/como-elegir-el-mejor-protocolo-vpn-en-los-routers-teltonika
 Mon, 03 Aug 2026 08:00:00 +0000	¿Qué es el protocolo LLDP y LLDP-MED?	https://www.davantel.com/que-es-el-protocolo-lldp-y-lldp-med
 Fri, 31 Jul 2026 07:47:48 +0000	¿Cómo configurar un PLC Siemens para que se pueda configurar remotamente con TIA Portal a través de un router con una IP pública fija y accesible?	https://www.davantel.com/como-configurar-un-plc-siemens-para-que-se-pueda-configurar-remotamente-con-tia-portal-a-traves-de-un-router-con-una-ip-publica-fija-y-accesible
-Wed, 29 Jul 2026 08:00:00 +0000	Actualizaciones de firmware de RutOS 7.24 y TswOS 1.10: CANopen, SSO y más	https://www.davantel.com/actualizaciones-de-firmware-de-rutos-7-24-y-tswos-1-10-canopen-sso-y-mas
-Mon, 27 Jul 2026 08:00:00 +0000	MQTT: Protocolo de Mensajería para IoT — Guía Técnica Completa	https://www.davant
+Wed, 29 Jul 2026 08:00:00 +0000	Actualizaciones de firmware de RutOS 7.2

@@ -1,4 +1,4 @@
-# SB-744 commandonetworks.com · news_2 · https://commandonetworks.com/portfolio · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-744 commandonetworks.com · news_2 · https://commandonetworks.com/portfolio · fetched 2026-11-17T10:52:12Z · HTTP 200
 COMMANDO Portfolio - Product Portfolio
 Quick Portfolio
 Filters
@@ -42,9 +42,9 @@ PLC Splitter
 Fiber Pigtails
 Power Supplies
 Select All Clear ( 0 ) View List Copy Selected Email Selected Download Selected WhatsApp Selected
-Showing 215
+Showing 218
 All Clear
-Total 215
+Total 218
 Selected: 0
 C3500-24X
 COMMANDO Marshall C3500 24x10G SFP+, AC+DC, L3+ Fiber Routing Switch
@@ -70,6 +70,8 @@ C3000-24X-2Q
 COMMANDO Soldier C3000 24x10G SFP+, 2x40G QSFP+, AC+DC, L3 Fiber Routing Switch
 C3000-24X-4C
 COMMANDO Soldier C3000 24x10G SFP+, 4x100G QSFP28, AC+DC, L3 Fiber Routing Switch
+C3000-24XG
+C3000-24XGP
 E3000-24G-4X
 COMMANDO Soldier E3000 24x1GbE, 4x10G SFP+, L3 Routing Switch
 E3000-8X
@@ -202,6 +204,7 @@ E200-24GP-2SFP
 COMMANDO Scout E200 24x1GbE PoE/PoE+, 2x1G SFP, 300W, Unmanaged AI Switch
 E200-16GP-2SFP
 COMMANDO Scout E200 16x1GbE PoE/PoE+, 2x1G SFP, 200W, Unmanaged AI Switch
+E200-16GP-2G
 E200-8P-2G
 COMMANDO Scout E200 8x100M PoE/PoE+, 2x1GbE, 96W, Unmanaged AI Switch
 E200-24P-2G
@@ -310,5 +313,4 @@ AIR-AP3000AX
 COMMANDO AirX 2976Mbps, 802.11ax Wave 2, FIT/FAT, Wi-Fi 6 Cloud Access Point
 AIR-APO1200
 COMMANDO AirX 1200Mbps, 2.4GHz+5GHz 802.11ac Wave 2, 128 Users, Cloud Outdoor Access Point
-AIR-APO3000AX
-COMMANDO AirX 3000Mbps, 2.4GHz+5G
+AIR-APO3000

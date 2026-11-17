@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Blog
 Destek
 Teknik Destek Talep Formu
@@ -428,11 +428,10 @@ Technopc Neuralzone İş İstasyonu
 Technopc Epiczone İş İstasyonu
 Technopc Powerzone İş İstasyonu
 AI Server
-AMD X8 H200
 NVIDIA Vera Rubin NVL72
 AI GPU Server
 AI Workstation Notebook
-Technopc Technobook AI İş İstasyonu T1600T
+Technopc Technobook T1600T AI İş İstasyonu
 Technopc Technobook TS1500T AI İş İstasyonu
 AI Endüstriyel Ürünler
 Technopc AI Endüstriyel Notebook TPN14AW
@@ -489,4 +488,4 @@ Medikal Çözümler Medikal İş İstasyonu
 Medikal Tablet
 Medikal AIO
 Medikal El Terminali
-Özel Sipariş
+Özel Sipariş Ürünleri Ku

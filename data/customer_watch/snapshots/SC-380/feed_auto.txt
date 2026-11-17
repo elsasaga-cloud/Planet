@@ -1,4 +1,32 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+Tue, 17 Nov 2026 08:04:56 GMT	[ipTIME 공유기] 설치도우미로 설치되지 않을 때 스마트폰으로 직접 설치하는 방법	https://iptime.com/support/faq/27937
+Tue, 17 Nov 2026 07:58:00 GMT	[ipTIME 공유기] 새 공유기 설치 중 관리자 계정과 암호를 입력하라고 나올 때	https://iptime.com/support/faq/27936
+Tue, 17 Nov 2026 07:40:23 GMT	[ipTIME 공유기] 공유기 USB 외장 하드(간이 NAS)에 외부에서 접속되지 않을 때	https://iptime.com/support/faq/27935
+Tue, 17 Nov 2026 05:58:59 GMT	[ipTIME 공유기] 연결된 스마트폰, PC에서 와이파이 비밀번호 확인하는 방법	https://iptime.com/support/faq/27934
+Tue, 17 Nov 2026 01:57:39 GMT	[AP / Extender] Extender-N300E 사용설명서	https://iptime.com/support/downloads/27933
+Tue, 17 Nov 2026 01:48:44 GMT	[유선공유기] ipTIME T6004 사용설명서	https://iptime.com/support/downloads/27932
+Tue, 17 Nov 2026 01:13:02 GMT	[ipTIME NAS] NAS 관리자 암호를 잊어버렸을 때 초기화 방법	https://iptime.com/support/faq/27929
+Tue, 17 Nov 2026 00:51:00 GMT	[펌웨어] ipTIME 유무선 공유기 펌웨어 16.01.2 배포	https://iptime.com/notices/27928
+Tue, 17 Nov 2026 00:51:00 GMT	[펌웨어] ipTIME 공유기 펌웨어 16.01.2	https://iptime.com/support/downloads/27927
+Mon, 16 Nov 2026 23:49:27 GMT	[ipTIME NAS] NAS 전원이 켜지지 않거나 부팅되지 않을 때	https://iptime.com/support/faq/27926
+Mon, 16 Nov 2026 23:19:48 GMT	[ipTIME NAS] NAS 속도가 느릴 때	https://iptime.com/support/faq/27925
+Mon, 16 Nov 2026 08:39:50 GMT	[ipTIME 공유기] 스마트폰 IP 고정, 인터넷 사용 제한이 자꾸 풀릴 때 (비공개 MAC 주소)	https://iptime.com/support/faq/27924
+Mon, 16 Nov 2026 08:26:03 GMT	[ipTIME 공유기] 공유기를 새로 바꾼 뒤 인터넷이 연결되지 않을 때	https://iptime.com/support/faq/27923
+Mon, 16 Nov 2026 07:46:18 GMT	[ipTIME 공유기] 특정 사이트나 앱만 접속되지 않을 때	https://iptime.com/support/faq/27922
+Mon, 16 Nov 2026 07:31:26 GMT	[ipTIME 공유기] 포트포워딩을 설정해도 외부에서 접속되지 않을 때	https://iptime.com/support/faq/27921
+Mon, 16 Nov 2026 05:40:03 GMT	[ipTIME 컨트롤러] USB 고속충전기(UP451plus, UP452plus) 지원 규격과 호환 기기	https://iptime.com/support/faq/27920
+Mon, 16 Nov 2026 05:40:02 GMT	[ipTIME 공유기] 모델명 숫자(AX3000, BE5100)의 의미와 안테나 개수 차이	https://iptime.com/support/faq/27919
+Mon, 16 Nov 2026 05:40:01 GMT	[ipTIME 공유기] 2.4GHz, 5GHz 와이파이 이름은 합쳐야 하나요, 나눠야 하나요?	https://iptime.com/support/faq/27918
+Mon, 16 Nov 2026 05:33:56 GMT	[ipTIME 공유기] LED 상태로 공유기 고장 여부 확인하기	https://iptime.com/support/faq/27917
+Mon, 16 Nov 2026 05:30:47 GMT	[ipTIME 공유기] 게임기 NAT 타입이 엄격(NAT 3)으로 나올 때 (PS5, 닌텐도 스위치, Xbox)	https://iptime.com/support/faq/27916
+Mon, 16 Nov 2026 05:30:47 GMT	[ipTIME 공유기] Wi-Fi 7 MLO 설정 방법과 주의 사항	https://iptime.com/support/faq/27915
+Mon, 16 Nov 2026 05:13:47 GMT	[Easy Mesh] 에이전트가 추가되지 않거나 연결 끊김으로 표시될 때	https://iptime.com/support/faq/27914
+Mon, 16 Nov 2026 05:10:55 GMT	[ipTIME NAS] 하드디스크가 인식되지 않거나 고장이 의심될 때	https://iptime.com/support/faq/27913
+Mon, 16 Nov 2026 04:57:47 GMT	[ipTIME NAS] NAS 처음 설치 방법과 NAS 도우미에서 검색되지 않을 때	https://iptime.com/support/faq/27912
+Mon, 16 Nov 2026 04:37:37 GMT	[ipTIME NAS] Windows 11에서 NAS 공유 폴더에 접속되지 않을 때	https://iptime.com/support/faq/27911
+Mon, 16 Nov 2026 04:06:43 GMT	[ipTIME 공유기] 스마트폰, 노트북이 와이파이에 연결되지 않을 때	https://iptime.com/support/faq/27910
+Mon, 16 Nov 2026 04:01:14 GMT	[ipTIME NAS] 파일 복사가 실패하거나 사용 중 NAS가 멈출 때	https://iptime.com/support/faq/27909
+Mon, 16 Nov 2026 03:57:56 GMT	[ipTIME NAS] RAID 하드디스크 고장 시 교체와 복구 방법	https://iptime.com/support/faq/27908
 Mon, 16 Nov 2026 01:35:37 GMT	[ipTIME 컨트롤러] USB 허브에 연결한 장치가 인식되지 않을 때	https://iptime.com/support/faq/27907
 Mon, 16 Nov 2026 01:24:16 GMT	[ipTIME 컨트롤러] 블루투스 동글이 인식되지 않거나 끊길 때	https://iptime.com/support/faq/27906
 Mon, 16 Nov 2026 01:11:04 GMT	[고객지원] 단종 공유기·NAS의 펌웨어와 A/S는 어떻게 되나요?	https://iptime.com/support/faq/27905
@@ -21,31 +49,3 @@ Fri, 13 Nov 2026 04:49:06 GMT	[ipTIME PoE 허브] PoE 허브에 연결한 카메
 Fri, 13 Nov 2026 04:35:02 GMT	[ipTIME PoE 허브] 카메라·AP에 PoE 전원이 들어오지 않을 때 (802.3af/at, 패시브 PoE)	https://iptime.com/support/faq/27888
 Fri, 13 Nov 2026 04:26:31 GMT	[ipTIME PoE 허브] SFP 포트로 광케이블 연결하기	https://iptime.com/support/faq/27887
 Fri, 13 Nov 2026 04:06:31 GMT	[고객지원] ipTIME 제품군별 무상 A/S 기간과 국내 고객지원 안내	https://iptime.com/support/faq/27886
-Fri, 13 Nov 2026 03:00:48 GMT	[ipTIME 스위칭 허브] 스위칭 허브 무상 A/S 기간과 구성물	https://iptime.com/support/faq/27885
-Fri, 13 Nov 2026 02:56:37 GMT	[ipTIME 랜카드] 스마트TV·셋톱박스·안드로이드에서 랜카드를 사용할 수 있나요? (미라캐스트)	https://iptime.com/support/faq/27884
-Fri, 13 Nov 2026 02:56:37 GMT	[ipTIME 랜카드] Windows 7, 8에서 사용할 수 있는 랜카드 모델	https://iptime.com/support/faq/27883
-Fri, 13 Nov 2026 02:56:37 GMT	[ipTIME 스위칭 허브] 공유기 없이 스위칭 허브만 연결해도 되나요? (공유기와 스위칭 허브 차이)	https://iptime.com/support/faq/27882
-Fri, 13 Nov 2026 02:56:37 GMT	[ipTIME PoE 허브] PoE 인젝터와 PoE 허브, 어떤 것을 구매해야 하나요?	https://iptime.com/support/faq/27881
-Fri, 13 Nov 2026 02:56:37 GMT	[ipTIME PoE 허브] 단종 PoE 허브와 후속 모델 대응표	https://iptime.com/support/faq/27880
-Fri, 13 Nov 2026 02:56:37 GMT	[ipTIME PoE 허브] PoE 허브 고르는 법 (연결 기기 수·총 전력 계산)	https://iptime.com/support/faq/27879
-Fri, 13 Nov 2026 02:56:36 GMT	[ipTIME PoE 허브] PoE 허브 현행 모델 한눈에 보기 (포트 수, 전력, 업링크, 가격대)	https://iptime.com/support/faq/27878
-Fri, 13 Nov 2026 02:51:08 GMT	[ipTIME 스위칭 허브] 스위칭 허브 LED 색과 깜빡임의 의미 (LED가 안 켜질 때)	https://iptime.com/support/faq/27877
-Fri, 13 Nov 2026 02:41:41 GMT	[ipTIME PoE 허브] 전면 스위치(VLAN·Extend·Watchdog) 모드 설정 방법	https://iptime.com/support/faq/27876
-Fri, 13 Nov 2026 02:41:41 GMT	[ipTIME 스위칭 허브] 허브에 허브를 이어서 연결해도 되나요? (공유기 허브모드와 스위칭 허브 비교)	https://iptime.com/support/faq/27875
-Fri, 13 Nov 2026 02:41:40 GMT	[ipTIME 스위칭 허브] 아파트 세대 단자함의 100Mbps 허브를 기가비트로 바꾸기 (크기, 전원, IGMP 확인)	https://iptime.com/support/faq/27874
-Fri, 13 Nov 2026 02:41:40 GMT	[ipTIME 랜카드] 5GHz 와이파이만 보이지 않을 때 (2.4GHz 전용 모델, 채널 확인)	https://iptime.com/support/faq/27873
-Fri, 13 Nov 2026 02:41:36 GMT	[ipTIME 랜카드] 무선랜카드로 PC를 와이파이 AP(모바일 핫스팟)로 사용하기	https://iptime.com/support/faq/27872
-Fri, 13 Nov 2026 02:24:30 GMT	[ipTIME 랜카드] 유선랜카드가 CD-ROM이나 저장장치로만 보일 때 (U25G 등)	https://iptime.com/support/faq/27871
-Fri, 13 Nov 2026 00:54:51 GMT	[드라이버] ipTIME A3000U, A3000UA, A3000UA-2, A3000mini, A3000UA5 Linux 드라이버 (V5.8.7.4)	https://iptime.com/support/downloads/27870
-Thu, 12 Nov 2026 08:56:16 GMT	[ipTIME 스위칭 허브] 단종된 스위칭 허브의 후속 모델 안내	https://iptime.com/support/faq/27869
-Thu, 12 Nov 2026 08:54:18 GMT	[ipTIME 랜카드] 6GHz(Wi-Fi 6E·Wi-Fi 7) 와이파이가 검색되지 않을 때	https://iptime.com/support/faq/27868
-Thu, 12 Nov 2026 08:49:02 GMT	[ipTIME 스위칭 허브] 스위칭 허브가 뜨겁거나 팬 소음이 날 때	https://iptime.com/support/faq/27867
-Thu, 12 Nov 2026 08:44:58 GMT	[ipTIME 랜카드] 무선랜카드가 인식되지 않을 때	https://iptime.com/support/faq/27866
-Thu, 12 Nov 2026 08:39:40 GMT	[ipTIME 스위칭 허브] SFP 포트 사용 방법과 SFP 모듈 선택 가이드	https://iptime.com/support/faq/27865
-Thu, 12 Nov 2026 08:35:46 GMT	[ipTIME 스위칭 허브] SG 시리즈 전면 스위치(Default·VLAN·Extend) 모드 설정 방법	https://iptime.com/support/faq/27864
-Thu, 12 Nov 2026 08:25:37 GMT	[ipTIME 랜카드] 인터넷이 안 되는 PC에 무선랜카드 드라이버 설치하는 방법	https://iptime.com/support/faq/27863
-Thu, 12 Nov 2026 08:23:26 GMT	[ipTIME 스위칭 허브] 16포트·24포트 스위칭 허브 선택 가이드 (랙형·미니형)	https://iptime.com/support/faq/27862
-Thu, 12 Nov 2026 08:02:51 GMT	[ipTIME 랜카드] 2.5기가 인터넷·NAS에 적합한 유선랜카드	https://iptime.com/support/faq/27861
-Thu, 12 Nov 2026 07:57:32 GMT	[ipTIME 랜카드] Windows 11에서 드라이버 설치 없이 인식되는 랜카드 모델	https://iptime.com/support/faq/27860
-Thu, 12 Nov 2026 07:42:14 GMT	[ipTIME 랜카드] 데스크톱에 와이파이가 없을 때 어떤 무선랜카드를 사야 하나요?	https://iptime.com/support/faq/27859
-Thu, 12 Nov 2026 07:28:41 GMT	[ipTIME 랜카드] 유선랜카드가 100Mbps로 연결될 때	https://iptime.com/support/faq/27858

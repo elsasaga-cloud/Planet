@@ -1,4 +1,4 @@
-# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Streakwave Wireless
 Skip to main content
 Menu
@@ -35,7 +35,7 @@ Back Mounts & Brackets (259) Enclosures (110)
 Voice & Conferencing
 Back IP Phones (199) PBX & Gateways (67) Conferencing (47) Paging & Intercoms (39) Voice Accessories (284)
 Surveillance & Security
-Back Cameras (320) NVRs & Storage (98) Access Control (98) Surveillance Accessories (135) Sensors & IoT (37)
+Back Cameras (320) NVRs & Storage (98) Access Control (97) Surveillance Accessories (135) Sensors & IoT (37)
 Audio
 Back Speakers (34) Amplifiers & Controllers (6) Audio Accessories (16)
 Tools & Testers

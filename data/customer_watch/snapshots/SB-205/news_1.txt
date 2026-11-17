@@ -1,4 +1,4 @@
-# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-205 barox.de · news_1 · https://www.barox.ch/en-us/news/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 News | barox.ch
 Support
 Contact
@@ -28,6 +28,7 @@ Sustainability
 Downloads
 Software
 Brochures
+Resources
 Contact
 Support
 Contact
@@ -219,4 +220,4 @@ New Partnership with Leading Balkan Distributor SINPRO
 We announce the new partnership with the leading Balkan distributor SINPRO.
 LEARN MORE
 Event | 04.04.2024
-With Barox to the BHE Congress in Mainz
+With Barox to the BHE Congres

@@ -1,4 +1,4 @@
-# SB-429 murrelektronik.de · home · https://my.murrelektronik.com/home/de · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-429 murrelektronik.de · home · https://my.murrelektronik.com/home/de · fetched 2026-11-17T10:52:12Z · HTTP 200
 Wir sind Experte für Automatisierungslösungen | Murrelektronik
 Kundenportal
 Start
@@ -30,6 +30,7 @@ Produktportfolio
 Connectivity
 I/O Systeme
 Industrial Switches
+Industrial Wireless
 Spannungs­versor­gung
 Elektronische Absicherung DC
 Devices

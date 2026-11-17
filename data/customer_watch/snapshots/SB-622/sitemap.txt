@@ -1,6 +1,6 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 	https://market-telecom.kz/
-2026-11-12	https://market-telecom.kz/blog
+2026-11-17	https://market-telecom.kz/blog
 2026-11-09	https://market-telecom.kz/services
 2026-11-09	https://market-telecom.kz/products
 2026-11-09	https://market-telecom.kz/about_shop
@@ -97,7 +97,7 @@
 2026-11-09	https://market-telecom.kz/blog/em-zamok
 2026-11-09	https://market-telecom.kz/blog/freeze-camera
 2026-10-06	https://market-telecom.kz/blog/ups-gaz
-2026-11-09	https://market-telecom.kz/blog/ubiquiti-and-video
+2026-11-17	https://market-telecom.kz/blog/ubiquiti-and-video
 2026-04-23	https://market-telecom.kz/blog/avtonomiya
 2026-04-13	https://market-telecom.kz/works/local-wifi-kvartira
 2026-05-07	https://market-telecom.kz/blog/akkumulyatory-svc
@@ -108,7 +108,7 @@
 2026-10-05	https://market-telecom.kz/news/high-price-hdd
 2026-03-19	https://market-telecom.kz/blog/mark-svc
 2026-04-23	https://market-telecom.kz/blog/video-wildberries
-2026-04-11	https://market-telecom.kz/blog/wifi-bridge-2026
+2026-11-17	https://market-telecom.kz/blog/wifi-bridge-2026
 2026-09-28	https://market-telecom.kz/blog/vybor-ipphone2026
 2026-10-20	https://market-telecom.kz/blog/mnogozhilka
 2026-09-28	https://market-telecom.kz/blog/fxo-fxs-otlichie

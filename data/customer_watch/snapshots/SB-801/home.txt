@@ -1,4 +1,4 @@
-# SB-801 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-801 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 AurCore Technology
 About Us
 Solutions
@@ -37,6 +37,7 @@ Meet AurCore at GITEX 2026 Global
 Dec 8–11 | Booth H3-B40, S3 Dubai
 We are co-exhibiting with our local partner DVCOM
 Get to know AurCore and our networking & cloud solutions
+Learn more
 High‑performance networking for everyone.
 Open, flexible switching for data center, enterprise, and industrial networks.
 Explore Products

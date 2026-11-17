@@ -1,11 +1,13 @@
-# SB-450 comtech.net.pk · news_1 · https://comtech.net.pk/events/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-450 comtech.net.pk · news_1 · https://comtech.net.pk/events/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Events - COMTECH ASSOCIATES
-Services CyberSecurity
+Services
+CyberSecurity
 Networking
 Data Center
 IT & Managed Services
 Custom Software Development
-Partners Cisco
+Partners
+Cisco
 Huawei
 Ubiquiti
 DLink
@@ -22,7 +24,8 @@ Polycom
 Grandstream
 About Us
 Contact Us
-Resources Leadership
+Resources
+Leadership
 Events
 Blogs
 Events
@@ -48,7 +51,7 @@ Leadership
 Events
 Contact Us
 Contact
-info@comtech.com
+info@comtech.net.pk
 +92 213 4404440
 The Hive 3rd Floor, NASTP Faisal Cantonment Main shahrah e faisal, Karachi.
 © 2026 COMTECH ASSOCIATES. All rights reserved

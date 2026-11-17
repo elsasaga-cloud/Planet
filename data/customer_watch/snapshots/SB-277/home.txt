@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-277 instantbyte.com · home · https://www.instantbyte.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Instant Byte - Mayorista Wifi, Camaras IP, VoIP, Networking, Wireless, Wimax, Fibra, Antenas, Multimedia, Ubiquiti, Huawei, Grandstream, Yealink, Mikrotik, Yealink, TP-Link, Cambium, Alfa, D-Link, Linksys, Cisco, Meraki, Aruba, Netgear, Sennheiser, Tenda
 91 084 10 11 Atención comercial: Lunes a jueves de a , y los viernes de a Instant Blog Estilo vintage Categorías clásicas ES EN PT
 Mayoristas especializados Soluciones networking.
@@ -396,9 +396,9 @@ ZTE
 Ofertas
 Liquidación
 ¿Eres profesional del sector? Date de alta y accede a los precios más competitivos del sector Quiero ver los precios Ofertas Ver todas
-Dahua DHI-NVR4108-8P-4KS3 - Grabador IP de Sobremesa, 8 Canales PoE hasta 12MP, Capacidad para 1 HDD de 20TB (no incl.), Compresión Smart H.265+/Smart H.264+, Ancho de Banda 160/806Mbps de Entrada/Salida, Consumo PoE 72W Ver precio −15 %
-Yealink Portable Accessory Kit for WH63/WH67 Kit formado por 1 WDD60 DECT Dongle, 1 cable de carga para los WH63/WH67 y 1 funda Ver precio −12 %
-Beronet BNTA 2S02FXS L Appliance L with 2 BRI/S0 / 2 FXS - expandable with one add. Module Ver precio −90 %
+Jabra BIZ 2300 DUO + CABLE MINI JACK 2,5 MM Ver precio −57 %
+Conceptronic CNBCOMLOCK18 Notebook Combination Lock 1.8 meters Ver precio −9 %
+Linksys WKUSB54GC-EU Compact Wireless-G Network Kit for USB Ver precio −86 %
 Grandes OFERTAS en productos Huawei seleccionados % % % WIFI 6 WIFI 6 HUAWEI eKit Transceiver
 óptico eSFP-GE-SX-MM850 Punto
 de acceso AP361 Punto
@@ -416,18 +416,17 @@ si quiere darse de alta como cliente nuestro pinche aquí
 ❯
 Noticias Instant Byte
 Ir al blog
-Grandstream GWN7671: Wi-Fi 7 de pared con dos salidas PoE para hoteles y oficinas
-Grandstream amplía su catálogo de puntos de acceso con el GWN7671, un modelo Wi-Fi 7 de doble banda diseñado para montaje en pared. Su formato encaja en hoteles, oficinas y espacios comerciales donde se busca combinar cobertura inalámbrica y conexiones cableadas sin multiplicar equipos a la vista. Incorpora un uplink de 2,5 GbE con entrada PoE+ y dos puertos Gigabit con salida PoE para conectar y alimentar dispositivos cercanos, como teléfonos IP o cámaras. Según Grandstream, alcanza hasta 3,6 Gbps de rendimiento inalámbrico agregado y admite hasta 256 clientes simultáneos. Wi-Fi 7 y…
+Grandstream GWN7712P y GWN7713P: switches PoE L2 Lite de 16 y 24 puertos
+Grandstream amplía su gama de switches gestionables Layer 2 Lite con los GWN7712P y GWN7713P, dos modelos PoE pensados para pequeñas y medianas instalaciones. El GWN7712P reúne 16 puertos Gigabit Ethernet, 2 enlaces SFP y un presupuesto PoE de 130 W. El GWN7713P eleva la capacidad a 24 puertos Gigabit Ethernet, 4 enlaces SFP y 250 W de PoE. Ambos permiten conectar y alimentar puntos de acceso, cámaras IP y teléfonos IP desde el mismo equipo, con gestión local o centralizada. Funciones como VLAN, QoS e IGMP Snooping ayudan a ordenar el tráfico de datos, voz y vídeo en la misma red. Dos…
+17 nov 2026 Seguir leyendo Tres novedades MikroTik para redes exigentes: G1317-0600W, XS+31LC40D y S+RJ10 r3
+17 nov 2026 Seguir leyendo LtAP LTE12 ax de MikroTik: conectividad LTE y Wi-Fi 6 para flotas e instalaciones remotas
+17 nov 2026 Seguir leyendo Grandstream GWN7671: Wi-Fi 7 de pared con dos salidas PoE para hoteles y oficinas
 16 nov 2026 Seguir leyendo RouterOS 7.24 de MikroTik: VRF por hardware, LLDP PoE y Wi-Fi 7 (vídeo en español)
 16 nov 2026 Seguir leyendo MikroTik CMR: gestión centralizada de RouterOS, ya en beta
 13 nov 2026 Seguir leyendo Grandstream GRP2600 Lite: cinco teléfonos IP esenciales para despliegues profesionales
-12 nov 2026 Seguir leyendo Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
-11 nov 2026 Seguir leyendo Webinar práctico: Megafonía IP con Grandstream | 20 de noviembre
-9 nov 2026 Seguir leyendo Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inalámbrica y botón de IA
-3 nov 2026 Seguir leyendo
+12 nov 2026 Seguir leyendo
 Formación y certificaciones
 Calendario
-Certificación oficial Ubiquiti BARCELONA 16, 17 y 18 de noviembre de 2026 - Unifi All in One: UFSP, UWA, URSCA 749,95 € + IVA
 Certificación oficial Grandstream Madrid 25, 26 y 27 noviembre 2026: GCPNS (Networking Solutions) 699,95 € + IVA
 Certificación oficial Ubiquiti Madrid 16, 17 y 18 de diciembre de 2026 - Unifi All in One: UFSP, UWA, URSCA 749,95 € + IVA
 Webinars
@@ -435,15 +434,19 @@ Webinar práctico Megafonía IP con Grandstream: integración de UCM y altavoces
 Webinar práctico Conecta edificios sin desplegar fibra: puesta en marcha del Grandstream GWN7302 | 4 diciembre l 2026 | 4 dic 2026 · Gratuito
 Productos destacados
 Ver todos
-Alfa Network AWUS036AC
-Network AWUS036AC - Adaptador USB Wireless 802.11ac AC1200, Doble Banda, 1200 Mbps con Antena de 5dBi Ver precio
-Yeastar TA2400
-Adaptador ATA 24 puertos FXS Ver precio
 Yealink BH72 Lite Teams Light Gray USB-A
 BH72 Lite UC / Teams Light Gray USB-A. Auricular binaural Bluetooth y USB, 35H conversación, gris, dongle USB para PC Ver precio
-Huawei eKit MiniFTTO F1001-AC −8 %
-MiniFTTO OLT GPON y Controladora WiFi 1xUplink XGPON 4xGE WAN/LAN 8 x Downlink XC/UPC POF (Power over Fiber) 16 puertos SC/UPS 300 clientes WiFi Roaming 50 ms 6 Gbit/s VXLAN 200 Mbits Ver precio
-Grandstream GWN7811P
-Switch gestionable Capa 3 enracable. 8 puertos GbE RJ45 PoE con PoE budget 120W + 2 puertos SFP+. Rendimiento de 28Gbps y capacidad de switching de 56 Gbps. Sin ventilador Ver precio
+Interline INT-FEE-xx/5x-HV
+Feeder / Alimentador para Disco Parabólico 5 Ghz Ver precio
+Huawei eKit Ideahub IHS2-65SA
+Pantalla inteligente Ideahub S2, 65 inch. Blanco jade. BYOM. WiFi6. Latencia escritura 16ms. Pantalla y camara 4K. Sonido HD (4 altavoce 40dB). Micrófonos alcance 12m. Low Blue Light. Ver precio
 Grandstream GWN7665
-Punto de acceso Wifi 6E de interior, velocidad máxima 5,4Gbps. Cobertura +175m. Soporta +384 clientes. Puertos: 1x GbE y 1x 2,5GbE PoE
+Punto de acceso Wifi 6E de interior, velocidad máxima 5,4Gbps. Cobertura +175m. Soporta +384 clientes. Puertos: 1x GbE y 1x 2,5GbE PoE. Certificado para Wifi4EU. Ver precio
+Huawei eKit Datacom S110-8P2ST −16 %
+Switch 8xBASE-T 10/100/1000, PoE+, 1xGE SFP, 1xGE. Capacidad de switching: 20Gbps. Forwarding Capacity: 14,88 Mpps. Agregación y aislamiento de puertos. Ver precio
+Grandstream GRP2604P
+Teléfono IP PoE,6 cuentas SIP,3 líneas,4 teclas programables XML y 10 teclas BLF, conferencia hasta 5 vías,2xGbE PoE.Compatible con plataforma GDMS.Conector auricular RJ9.Pantalla LCD 2,7'.5V/0,6A Ver precio
+Ubiquiti USW-PRO-48-POE
+UniFi Gigabit Switch con 48 puertos, capa 2 y capa 3. Incluye auto-sensing 802.3at PoE+ y 802.3bt PoE++. 40x PoE+ y 8x PoE++ RJ45. 4x SFP+ 10Gb. PoE budget 600W Ver precio
+Mikrotik CRS310-1G-5S-4S+OUT
+Switch de exterior con CPU ARM

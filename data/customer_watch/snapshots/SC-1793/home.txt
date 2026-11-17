@@ -1,4 +1,4 @@
-# SC-1793 axisindia.in · home · https://axisindia.in/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1793 axisindia.in · home · https://axisindia.in/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Axis Solutions | Analytical, Automation & Engineering Solutions
 About Us
 Brand Story
@@ -140,6 +140,9 @@ Blog
 Calculator Library
 Podcasts
 Axis Chronicles
+17.11.2026
+News & Media
+Rewriting the Renewable Energy Playbook
 05.11.2026
 Case Studies
 Reading the meteorological parameters. Understanding the site.
@@ -166,22 +169,19 @@ News & Media
 PNI - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
 10.09.2026
 News & Media
-Local Business News - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
-10.09.2026
-News & Media
-Next Gen Consultancy - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
-10.09.2026
-News & Media
 Business News for Profit - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
+10.09.2026
+News & Media
+Local Business News - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
 10.09.2026
 News & Media
 Construction World - Axis Solutions - GEC Gandhinagar launch industry supported lab
 10.09.2026
 News & Media
-Business news this week - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
+Next Gen Consultancy - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
 10.09.2026
 News & Media
-CXO Today - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
+Business news this week - Industry Supported Lab – Axis Solutions and GEC Gandhinagar Initiative
 31.08.2026
 Axis Chronicles
 August 2026 Edition | Beyond Measurements. Building Intelligence & Possibilities.
@@ -322,4 +322,6 @@ Sales Head
 "Representing Axis in the market is an honor. Their 26-year-old brand is synonymous with quality, making our job as channel partners much more effective."
 Signature Technology
 Managing Partner
-"Seeing the Axis facility firsthand confirmed why they’ve led the market for 26 years. The precision and scale of their manufacturing are equal to any globa
+"Seeing the Axis facility firsthand confirmed why they’ve led the market for 26 years. The precision and scale of their manufacturing are equal to any global standard."
+STER-IoT Dubai
+VP- Business De

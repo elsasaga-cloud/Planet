@@ -1,4 +1,4 @@
-# SB-338 MAX protect · home · https://max-protect.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-338 MAX protect · home · https://max-protect.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Max Protect Hammamet – Caméras, alarmes et sécurité en Tunisie
 Appelez-nous : 72 324 111
 Français
@@ -171,8 +171,8 @@ Produits populaires
 Neuf
 
 Aperçu rapide
-Elkron IT700-GSM – Module de communication GSM pour centrale d’alarme MEDEA (IT700-GSM)
-405,000 TND
+Able – Kit motorisation portail coulissant 400 kg, 24 V, fin de course magnétique (30Y032)
+1 385,000 TND
 
 
 
@@ -182,8 +182,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Somfy – Motorisation portail coulissant Elixo 2000 230 V RTS (1216600)
-2 190,000 TND
+Armoire réseau murale 7U 19" profondeur 400 mm
+249,000 TND
 
 
 
@@ -193,8 +193,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Uniview 2MP – Caméra IP tube 2,8 mm, double éclairage intelligent, PoE (IPC2122LB-AF28K-DL)
-195,000 TND
+Uniview – Enregistreur NVR 16 voies, 8 ports PoE, 1 disque dur (NVR301-16LS3-P8)
+675,000 TND
 
 
 
@@ -204,8 +204,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Dahua 4MP – Caméra IP tube WizColor, vision couleur 24h/24, IA WizSense, micro (IPC-HFW2449TL-S-PRO)
-435,000 TND
+ZKTeco – Switch PoE 26 ports, dont 24 ports PoE, 300 W (PE242-300-C)
+1 089,000 TND
 
 
 
@@ -215,8 +215,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Uniview – Enregistreur NVR 16 voies, 16 ports PoE, 2 disques durs, IA (NVR302-16B-P16-IQ)
-1 175,000 TND
+SPAUN – Switch 8 ports 10/100 Mbps (SPN-1008H)
+29,000 TND
 
 
 
@@ -226,8 +226,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Splitter HDMI 4K 1 entrée / 4 sorties
-89,000 TND
+Ajax FireProtect Jeweller – Détecteur de fumée et de chaleur sans fil avec sirène, blanc (AJ-FIREPROTECT-W)
+239,000 TND
 
 
 
@@ -237,8 +237,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Cordon de brassage Cat6 STP blindé 1 m (WT-2038D-1M)
-7,900 TND
+Ajax MotionProtect Jeweller – Détecteur de mouvement sans fil, blanc (AJ-MOTIONPROTECT-W)
+159,000 TND
 
 
 
@@ -248,8 +248,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Dahua AirShield – Détecteur de mouvement infrarouge sans fil (DHI-ARD1233-W2)
-125,000 TND
+SPAUN – Switch PoE 8 ports + 2 uplink Gigabit (SPN-1008H-P)
+110,000 TND
 
 
 
@@ -259,19 +259,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Ajax SpaceControl Jeweller – Télécommande sans fil avec bouton panique, blanc (AJ-SPACECONTROL-W)
-105,000 TND
-
-
-
-
-
-Ajouter au panier
-Neuf
-
-Aperçu rapide
-Dahua 2MP – Caméra IP tube Smart Dual Light avec micro, PoE (IPC-HFW1239S1-A-IL)
-209,000 TND
+Dahua – Alimentation 12 V 2 A pour caméra (DH-PFM320-020EN)
+17,000 TND
 
 
 
@@ -292,8 +281,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Armoire réseau murale 9U 19" (520 × 400 mm)
-269,000 TND
+Dahua – Enregistreur NVR 4 voies compact, 1 disque, H.265 (DHI-NVR1104HS-S3/H)
+290,000 TND
 
 
 
@@ -303,8 +292,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Able – Télécommande TOH2 (10Y001)
-119,000 TND
+Able – Kit motorisation portail coulissant 600 kg, 24 V, SL Small, fin de course magnétique (30Y023)
+1 445,000 TND
 
 
 
@@ -314,8 +303,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Dahua AirShield – Sirène extérieure sans fil avec flash (DHI-ARA13-W2)
-265,000 TND
+SPAUN – Switch PoE industriel 8 ports + 2 uplink + 2 SFP, rail DIN (SPN-1010G-SFP-P-IS)
+699,000 TND
 
 
 
@@ -325,8 +314,8 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Somfy – Moteur central pour porte de garage enroulable / rideau métallique Centreo 1+ 60/200, 180 kg (1207095)
-375,000 TND
+Hikvision 4MP – Caméra IP tube AcuSense, Smart Hybrid Light, varifocale motorisée 2,8–12 mm (DS-2CD2643G2-LIZS2U)
+990,000 TND
 
 
 
@@ -336,8 +325,19 @@ Ajouter au panier
 Neuf
 
 Aperçu rapide
-Hikvision 4MP – Caméra IP dôme AcuSense, Smart Hybrid Light, varifocale motorisée 2,8–12 mm (DS-2CD2743G2-LIZS2U)
-930,000 TND
+Pack Uniview 8 caméras IP 2MP OwlView Wise-ISP + NVR 8 voies PoE
+2 299,000 TND
+
+
+
+
+
+Ajouter au panier
+Neuf
+
+Aperçu rapide
+Dahua 4MP – Caméra IP tube WizColor, vision couleur 24h/24, IA WizSense, micro (IPC-HFW2449TL-S-PRO)
+435,000 TND
 
 
 

@@ -1,4 +1,4 @@
-# SC-3204 koc.com.cn · home · https://koc.com.cn/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-3204 koc.com.cn · home · https://koc.com.cn/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 KOC - Global Fiber Optic Cabling and Components Supplier
 Home
 About Us
@@ -57,6 +57,7 @@ Video
 Catalogue
 Contact
 Branches & Offices
+CN
 Home
 About Us
 About KOC

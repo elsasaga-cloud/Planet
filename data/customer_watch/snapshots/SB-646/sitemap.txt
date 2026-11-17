@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 	https://www.artsistem.com/
 	https://www.artsistem.com/hakkimizda
 	https://www.artsistem.com/oduller
@@ -130,8 +130,12 @@
 	https://www.artsistem.com/markalar/glorious/urunler
 	https://www.artsistem.com/markalar/godex
 	https://www.artsistem.com/markalar/godex/urunler
+	https://www.artsistem.com/markalar/grandstream
+	https://www.artsistem.com/markalar/grandstream/urunler
 	https://www.artsistem.com/markalar/h3c
 	https://www.artsistem.com/markalar/h3c/urunler
+	https://www.artsistem.com/markalar/hawk
+	https://www.artsistem.com/markalar/hawk/urunler
 	https://www.artsistem.com/markalar/hcs
 	https://www.artsistem.com/markalar/hcs/urunler
 	https://www.artsistem.com/markalar/hikvision
@@ -247,8 +251,4 @@
 	https://www.artsistem.com/markalar/spider
 	https://www.artsistem.com/markalar/spider/urunler
 	https://www.artsistem.com/markalar/steelseries
-	https://www.artsistem.com/markalar/steelseries/urunler
-	https://www.artsistem.com/markalar/sunlux
-	https://www.artsistem.com/markalar/sunlux/urunler
-	https://www.artsistem.com/markalar/teknim
-	https://www.a
+	https://www.

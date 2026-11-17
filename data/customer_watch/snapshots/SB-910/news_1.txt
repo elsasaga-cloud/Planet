@@ -1,4 +1,4 @@
-# SB-910 etictelecom.com · news_1 · https://www.etictelecom.com/en/our-news/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-910 etictelecom.com · news_1 · https://www.etictelecom.com/en/our-news/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Our news | Etic Telecom
 About us
 Our range of products
@@ -29,6 +29,15 @@ Deutsch
 Our news
 News
 |
+16/11/2026
+Safe remote control of the PLC
+You can now remotely control your PLC via the web pages hosted on the Etic Telecom device.
+By using the secure M2Me connection and initiating a simple HTTP session from your PC, smartphone, or tablet, an operator can now:
+✅ Easily read and write to the PLC’s industrial variables, utilizing Modbus TCP/RTU, OPC UA, and Uni-Telway protocols.
+✅ Benefit from granular permission management based on individual roles and levels of responsibility.
+Share on Linkedin
+News
+|
 05/11/2026
 Remote maintenance for your machine: MFA for the M2Me solution
 Attuned to the needs of the industrial sector and its connectivity challenges, we are enhancing the capabilities of our machine-access gateways with a major upgrade: Multi-Factor Authentication (MFA) for our M2Me remote maintenance solution.
@@ -54,15 +63,6 @@ App available in French, English, and German
 Availability:
 Android: October 2026
 iOS: November 2026
-Share on Linkedin
-News
-|
-16/11/2026
-Safe remote control of the PLC
-You can now remotely control your PLC via the web pages hosted on the Etic Telecom device.
-By using the secure M2Me connection and initiating a simple HTTP session from your PC, smartphone, or tablet, an operator can now:
-✅ Easily read and write to the PLC’s industrial variables, utilizing Modbus TCP/RTU, OPC UA, and Uni-Telway protocols.
-✅ Benefit from granular permission management based on individual roles and levels of responsibility.
 Share on Linkedin
 1 2 3 4 5 ... 10 20 ... -> Last »
 Categories

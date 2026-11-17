@@ -1,4 +1,4 @@
-# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Fiberden
 Size Özel Fiyatlardan Yararlanmak İçin Bayimiz Olabilirsiniz!
 Siparişlerim/Kargo Takip
@@ -218,7 +218,7 @@ FİBERDEN KASET TİPİ 2 * 1/4 SPLİTTER APC
 395,65 TL KDV
 fiberden
 MİNİ SPLİTTER 1/2 APC (YEŞİL)
-381,81 TL KDV
+192,19 TL KDV
 % 0
 V-SOL
 GPON ONT 1 GE V2801SG (XPON)
@@ -331,7 +331,7 @@ GUANGYAN Y9 İŞLEVLİ FİBER OPTİK GÜÇ ÖLÇER OPM + VFL +LAZER
 % 0
 fiberden
 Fast Konnektör SC/APC (SUPERFAST)
-25,63 TL KDV
+18,45 TL KDV
 fiberden
 KASET TİPİ CO SPLİTTER 1/4 APC (YEŞİL)
 231,14 TL KDV
@@ -362,7 +362,7 @@ V-SOL 1 PON OLT 1/32 SPLİTER GÖMÜLÜ (V1600GS-O32)
 % 0
 fiberden
 MİNİ SPLİTTER 1/4 APC (YEŞİL)
-201,41 TL KDV
+241,90 TL KDV
 Tükendi
 % 0
 V-SOL
@@ -447,7 +447,7 @@ Fast Konnektör SC/UPC (KEPKEP)
 % 0
 fiberden
 Fast Konnektör SC/UPC (SUPERFAST)
-29,21 TL KDV
+18,45 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/APC (TİMSAH)

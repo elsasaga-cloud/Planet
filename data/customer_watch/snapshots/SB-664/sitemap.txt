@@ -1,4 +1,4 @@
-# SB-664 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-664 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 	https://jm.pl/pl/baza-wiedzy-7-wip/
 	https://jm.pl/pl/baza-wiedzy-1-wip/
 	https://jm.pl/pl/specjalista-ds-sprzedazy-led-sektor-b2b/
@@ -10,7 +10,6 @@
 	https://jm.pl/pl/program-manager/
 	https://jm.pl/pl/asystent-ds.-wycen-projektow-produkcyjnych/
 	https://jm.pl/pl/specjalista-ds-sprzedazy-w-sektorze-industrial-it/
-	https://jm.pl/pl/specjalista-ds-zakupow-kupiec/
 	https://jm.pl/pl/dlaczego-zajmujemy-sie-sprzetem-dla-ai/
 	https://jm.pl/pl/inzynier-procesu-technolog-/
 	https://jm.pl/pl/testujemy-formularz-kontaktowy/
@@ -31,6 +30,7 @@
 	https://jm.pl/pl/pracownik-wsparcia-technicznego-serwisant/
 	https://jm.pl/pl/uklady-scalone-i-mikrokontrolery-holtek-do-czujnikow-i-systemow-alarmowych-zdalny-przlacznik-led/
 	https://jm.pl/pl/inzynier-jakosci-w-dziale-jakosci-produkcji/
+	https://jm.pl/pl/ogloszenie-specjalista-ds-zakupow-i-logistyki/
 	https://jm.pl/pl/warunki-wspolpracy-reklamacje/
 	https://jm.pl/pl/polityka-jakosci/
 	https://jm.pl/pl/pracownik-gospodarczy/
@@ -104,13 +104,13 @@
 	https://jm.pl/pl/inzynier-w-dziale-badan-i-rozwoju/
 	https://jm.pl/pl/uklady-scalone-i-mikrokontrolery-dla-ladowarek-powszechnego-uzytku-i-specjalizowane-powerbank/
 	https://jm.pl/pl/uklady-scalone-i-mikrokontrolery-holtek-do-czujnikow-i-systemow-alarmowych-smart-home-detektor-co/
-	https://jm.pl/pl/ogloszenie-st-inz-procesu-technolog/
 	https://jm.pl/pl/specjalista-ds-sprzedazy-account-manager/
 	https://jm.pl/pl/uklady-scalone-i-mikrokontrolery-holtek-narzedzia/
 	https://jm.pl/pl/uklady-scalone-i-mikrokontrolery-holtek-do-czujnikow-i-systemow-alarmowych-smart-home-czunik-dymu/
 	https://jm.pl/pl/kierownik-produktu-lora/
 	https://jm.pl/pl/ogloszenie-ekspert-ds-zakupow/
 	https://jm.pl/pl/asystent-ds-wycen-projektow-prod/
+	https://jm.pl/pl/ogloszenie-technolog/
 	https://jm.pl/pl/zgloszenia-naruszen-prawa/
 	https://jm.pl/pl/ogloszenie-hr-business-partner/
 	https://jm.pl/pl/ogloszenie-kariera-nowa/
@@ -182,4 +182,4 @@
 	https://jm.pl/pl/przystepne-cenowo-obudowy-do-komputerow-jednoplytkowych-produkcji-iei/339/aktualnosc/
 	https://jm.pl/pl/przedstawiamy-mustanga-200-produkcji-iei---wszechstronny_-kompaktowy-akcelerator_-przeznaczony-do-przyspieszenia-pracy-komputera-i-systemu_/97/aktualnosc/
 	https://jm.pl/pl/hyper-bw-___-miniaturowy_-wydajny_-ekonomiczny-komputer-single-board/94/aktualnosc/
-	https://jm.pl/pl/certyfikowany-komputer-produkcji-iei-dla-transportu-szyno
+	https://jm.pl/pl/certyfikowany-komputer-produkcji-iei-dla-transportu-szyn

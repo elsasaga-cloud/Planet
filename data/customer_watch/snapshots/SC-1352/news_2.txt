@@ -1,4 +1,4 @@
-# SC-1352 globusinfocom.com · news_2 · https://www.globusinfocom.com/projects · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1352 globusinfocom.com · news_2 · https://www.globusinfocom.com/projects · fetched 2026-11-17T10:52:12Z · HTTP 200
 Projects
 Partner with Us
 Service Support
@@ -70,6 +70,7 @@ IMPACT GCATM-80
 Impact EPVC4W
 Impact VC202K
 Podiums
+DP-200C
 DP-400C
 GEL 22N
 DWP-200L
@@ -84,6 +85,7 @@ Recording and Streaming Studio
 Impact-GSR3
 ImpactGSR2
 Visualizer
+GVP650
 GVP401
 GVP 410
 GVP 350

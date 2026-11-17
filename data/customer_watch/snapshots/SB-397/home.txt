@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3961)
+Svi proizvodi (3964)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -414,7 +414,7 @@ PoE komponente
 Prenaponske zaštite (4)
 NAS Storage i HDD kućišta (18)
 Print serveri
-Ruter ploče i kućišta (47)
+Ruter ploče i kućišta (50)
 Voki toki Motorola (8)
 Antene i komponente (168)
 Antene 2.4GHz (36)
@@ -449,7 +449,7 @@ VGA oprema (18)
 DVI oprema (11)
 Remote Power & Boot Management (7)
 Cisco mrežna oprema (25)
-Softver (5)
+Softver (8)
 SuSE i RedHat Linux
 Mikrotik RouterOS
 Microsoft i dr. softver
@@ -511,8 +511,8 @@ NETIKS d.o.o. Bregalnička 9a
 11000 Beograd
 Kursna lista
 EUR = 118
-USD = 108
-odnos USD/EUR 0.915
+USD = 109
+odnos USD/EUR 0.924
 Dinar
 Euro
 US Dollar

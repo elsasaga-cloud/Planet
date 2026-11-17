@@ -1,4 +1,4 @@
-# SB-247 jpg.lt · home · https://jpg.lt/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-247 jpg.lt · home · https://jpg.lt/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Vaizdo stebėjimo ir apsaugos sistemų sprendimai Jums - jpg.lt
 Vaizdo stebėjimas
 Vaizdo stebėjimo sistemos
@@ -53,6 +53,11 @@ GPS sekliai
 Priedai
 Matavimo įranga, detektoriai
 Naujos prekės
+IP įrašymo įrenginys 32kam. 32MP, IVS, AI, 512Mbps, H.265+, 16PoE
+€ 2384.41
+32 kanalų vaizdo įrašymo įrenginys, galima įrašo raiška: 32 MP; 24 MP; 16 MP; 12 MP; 8 MP; 6 MP; 5 MP; 4 MP; 3 MP; 1080p; 960p; 720p; D1; CIF; QCIF, maksimalus duomenų
+Į krepšelį
+Turime sandėlyje
 AJAX LeaksProtect Jeweller vandens nuotėkio detektorius (baltas)
 € 47.05
 Kompaktiškas ir belaidis vandens nuotėkio detektorius „Ajax LeaksProtect Jeweller“ atpažįsta užliejimo grėsmę vos per keletą sekundžių ir akimirksniu siunčia įspėjamąjį signalą. Lengvai tvirtinamas,
@@ -65,13 +70,6 @@ Ypatybės:
 Ajax DualCurtain Outdoor bevielis dvikryptis užuolaidinis detektorius efektyviai apsaugo jūsų turtą
 Į krepšelį
 Susisiekti dėl likučio
-AJAX DoorBell išmanusis durų skambutis (baltas)
-€ 246.75
-Ajax DoorBell išmanusis durų skambutis, baltos spalvos
-Ypatybės:
-Kompaktiškas ir belaidis Ajax DoorBell išmanusis durų skambutis su PIR jutikliu ir dirbtiniu intelektu – tai
-Į krepšelį
-Turime sandėlyje
 Populiarios prekės
 GPS seklys DM92-4G (vidinė baterija)
 € 83.49 € 107.69
@@ -79,7 +77,7 @@ GNSS juosta: L1
 IP klasė: IP54
 Išmatavimai: 79 x 43 x 12 mm
 Maitinimas: Vidinis 170 mAh Back-up , Išorinis 10-30 VDC
-Paskirtis: Automobiliams , Motociklams
+Paskirtis: Motociklams , Automobiliams
 Tinklas: 4G
 Tipas: Profesionalus
 Į krepšelį

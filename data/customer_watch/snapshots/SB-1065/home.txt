@@ -1,4 +1,4 @@
-# SB-1065 poznan.pl · home · https://www.poznan.pl/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-1065 poznan.pl · home · https://www.poznan.pl/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Strona główna | Poznan.pl
 Przejdź do menu głównego
 Przejdź do treści
@@ -337,6 +337,8 @@ YouTube
 Tik Tok
 Instagram
 RSS
+Trwa Sesja Rady Miasta Poznania!
+Zobacz transmisję online z Sali Sesyjnej Urzędu Miasta
 Informacja o przetwarzaniu danych
 Nasz serwis używa plików cookies. Wykorzystujemy je w celu świadczenia usług na najwyższym poziomie, w sposób dopasowany
 do indywidualnych potrzeb Użytkowników. Dzięki temu możliwe jest także korzystanie z narzędzi analitycznych oraz
@@ -393,9 +395,9 @@ Zaakceptuj
 Pominąłeś menu menu
 Aktualności
 Informacje dodatkowe
-poniedziałek, 16 listopada 2026
-6 o C
-SŁONECZNIE
+wtorek, 17 listopada 2026
+7 o C
+NIEWIELKIE ZACHMURZENIE
 jakość powietrza:
 BARDZO DOBRA
 Pogoda
@@ -404,13 +406,11 @@ Instagram
 Tiktok
 RSS
 VP
-Ruszył Jarmark Świąteczny na MTP
-W sobotę, 14 listopada Międzynarodowe Targi Poznańskie ponownie rozbłysły tysiącami światełek i wypełniły się zapachem zimowych przysmaków. Tego dnia...
-14.11.2026
-Jest bursa, będzie też poradnia
-Budynek Bursy Szkolnej nr 3 przy ul. Młyńskiej na Starym Mieście przechodzi kompleksową metamorfozę. Część pomieszczeń zostanie wydzielona i...
-13.11.2026
-Wielka Fabryka Elfów ponownie otwarta
-Od 13 listopada na Międzynarodowych Targach Poznańskich otwiera się Wielka Fabryka Elfów - miejsce, w którym najmłodsi mogą przenieść się do...
-13.11.2026
-Rusza kompleksowa pr
+Zmiana norm hałasu dla Toru Poznań
+Prezydent Miasta Poznania wydał decyzję zmieniającą dopuszczalne poziomy hałasu w środowisku dla Toru Poznań - na obiekcie nadal będą mogły odbywać...
+16.11.2026
+My Name Is Poznań po raz szósty
+Ruszył nabór do szóstego konkursu, mającego promować muzyków i zespoły związane ze stolicą Wielkopolski - My Name Is Poznań. Zgłaszać można się do 6...
+17.11.2026
+O klimacie w urzędzie miasta
+Jak skutecznie przygotować Poznań na wyzwania związane ze zmianami klimatu? Jaką 

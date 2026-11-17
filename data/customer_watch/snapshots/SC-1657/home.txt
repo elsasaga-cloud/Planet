@@ -1,4 +1,4 @@
-# SC-1657 San Telequip Pvt. Ltd. · home · https://santelequip.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1657 San Telequip Pvt. Ltd. · home · https://santelequip.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Home - San Telequip
 SEARCH
 Home
@@ -337,7 +337,8 @@ Industrial Ethernet Switches
 Media Converters
 Industrial Grade Secure Terminal Server
 IoT Gateways
-Protocol Converters
+Protocol Converters / Gateways
+Lite Managed Ethernet Switches
 Social Link
 Linkedin-in
 Youtube

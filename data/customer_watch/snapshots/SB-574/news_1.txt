@@ -1,4 +1,4 @@
-# SB-574 lanberg.pl · news_1 · https://lanberg.eu/news · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-574 lanberg.pl · news_1 · https://lanberg.eu/news · fetched 2026-11-17T10:52:12Z · HTTP 200
 Industry news, blog articles, tips | Lanberg
 Skip to content
 Partner Panel
@@ -63,9 +63,13 @@ News
 Guide
 Blog
 News
-October 26, 2026
-From Homelab to Server Room. Meet the New Lanberg 3U and 4U Server Chassis
-A good server starts with the case.
+November 16, 2026
+Wi-Fi 6 Without Replacing Your Computer. Discover the New Lanberg NC-1800-WI Wireless Adapter!
+Faster and more stable wireless connectivity with Wi-Fi 6. The new Lanberg NC-1800-WI network adapter lets you upgrade your computer’s wireless connection without replacing your hardware.
+News
+November 16, 2026
+Wi-Fi 6 Without Replacing Your Computer. Discover the New Lanberg NC-1800-WI Wireless Adapter!
+Faster and more stable wireless connectivity with Wi-Fi 6. The new Lanberg NC-1800-WI network adapter lets you upgrade your computer’s wireless connection without replacing your hardware.
 News
 October 26, 2026
 From Homelab to Server Room. Meet the New Lanberg 3U and 4U Server Chassis
@@ -102,10 +106,6 @@ News
 July 7, 2026
 Lanberg in the Czech Republic!
 We’re expanding our sales network in the Czech Republic!
-News
-June 24, 2026
-Organize the space in your Rack cabinet with new 19" drawers
-The new 1U, 3U, and 4U models make it easy to store accessories, cables, documentation, and tools directly in the rack cabinet.
 « Previous
 1
 2

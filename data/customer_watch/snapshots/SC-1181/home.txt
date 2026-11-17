@@ -1,4 +1,4 @@
-# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Agenda-Age Kft. | A hálózatspecialista
 Belépés
 Regisztráció
@@ -72,6 +72,7 @@ TÁPELLÁTÁS
 TELEFON
 KOAX
 Ajánló
+Újdonság a kínálatunkban - Optikai szálcsupaszolók minden igényre
 KICSI a Grandway MT500, de ERŐS!
 Megérkeztek az új generációs szálhegesztők
 Megérkeztek új páncélozott patch kábeleink
@@ -80,7 +81,6 @@ Bemutatjuk a Grandway OTDR családot
 Megérkezett az új RackSys katalógus
 A megbízhatóság nem megy szabadságra!
 KIEMELT KÁBEL AKCIÓ! Csak a héten! (05.29-ig)
-ÚJDONSÁGOK! Továbbfejlesztett OTDR: FHO3100
 Kapcsolat
 +36 1 313 1073
 info@agendaage.hu
@@ -104,4 +104,4 @@ EXW Magyarország
 Optical | Signalfire
 Noyafa | Z-Soft
 Iratkozzon fel hírlevelünkre!
-Regisztráljon és iratkozzon fel
+Regisztrá

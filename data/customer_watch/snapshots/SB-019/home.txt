@@ -1,4 +1,4 @@
-# SB-019 aetektec.com · home · https://www.aetektec.com/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-019 aetektec.com · home · https://www.aetektec.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 AETEK
 linkedin
 Youtube
@@ -35,7 +35,7 @@ Downloads
 Contact us
 ×
 Inquiry
-2026/11/16
+2026/11/17
 Name
 Phone number
 Email
@@ -43,19 +43,19 @@ Company
 Position
 Product List
 2026
-Jul
-13
-Looking Forward to Meeting You at Global Security Exchange (GSX) 2026! (9/14 – 9/16, at NEW ORLEANS, LOUISIANA, USA) Booth #2257
+Nov
+12
+Meet AETEK at Proteger 2026 with AVPro
 MORE
 2026
-Jul
-12
-Looking Forward to Meeting You at SECURITY ESSEN 2026! (9/22 – 9/25, at FAIR GROUNDS, ESSEN, GERMANY) Booth #2B16&2B18
+Nov
+10
+AETEK is now a certified Hanwha Vision BLAZE Technology Partner
 MORE
-2023
-Dec
-01
-AETEK NDAA & TAA COMPLIANT PRODUCTS
+2026
+Oct
+27
+Security notice: AETEK devices not affected by PHP2Shell (CVE-2026-109618, CVE-2026-109619)
 MORE
 Patent-awarded Ceiling PoE Solution
 AETEK's patented "Ceiling PoE Switches" use a unique latch-loaded bolt to auto-fasten the switch onto ceiling boards once the bolt is tightened, and a snap-on cover offers the switch a sleek good look suitable for various business floors, including retail stores, offices, hospitality venues, and more.

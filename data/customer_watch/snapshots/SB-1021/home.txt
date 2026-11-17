@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,13 +40,13 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2741)
-Wszystkie 2741
-Switche 1018
+Urządzenia (2744)
+Wszystkie 2744
+Switche 1019
 Access Pointy 187
 Routery WiFi 391
 Routery zaawansowane 108
-Routery LTE/5G 216
+Routery LTE/5G 217
 Adaptery PowerLine 21
 Urządzenia klienckie CPE 78
 Radiolinie 80
@@ -56,22 +56,22 @@ Stacje bazowe ISP 88
 Dekodery IPTV 21
 Rozwiązania IoT 92
 Telefony i bramki VoIP 22
-Akcesoria dedykowane 24
+Akcesoria dedykowane 25
 Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5084)
-Wszystkie 5084
+Światłowody (5087)
+Wszystkie 5087
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1027
 Patchcordy światłowodowe 1331
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 360
-Adaptery światłowodowe 127
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 361
+Adaptery światłowodowe 128
 Budowa sieci optotelekomunikacyjnej 367
 Spawarki światłowodowe i akcesoria 50
-Urządzenia diagnostyczne 158
+Urządzenia diagnostyczne 159
 Mediakonwertery 91
 Mufy światłowodowe 215
 Multipatchcordy 50
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2283)
-Wszystkie 2283
+Zasilanie (2295)
+Wszystkie 2295
 Zasilacze UPS 372
 Zasilacze PoE 90
 Zasilacze buforowe 227
-Zasilacze impulsowe 545
+Zasilacze impulsowe 557
 Adaptery POE 53
 Akumulatory 106
 Przetwornice napięcia 158
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-MEAN WELL LCM-25DA – zasilacz LED stałoprądowy 25 W DALI
-140.67 zł netto
+MEAN WELL PCD-60-1050B – zasilacz stałoprądowy LED 1050 mA, 59,85 W
+81.92 zł netto
 Do koszyka
-MEAN WELL LCM-25 – zasilacz stałoprądowy LED 25 W
-99.06 zł netto
+MEAN WELL PCD-40-1050B – zasilacz LED stałoprądowy 1050 mA
+61.42 zł netto
 Do koszyka
-MEAN WELL HLG-600H-24AB – zasilacz LED 24 V 600 W ze ściemnianiem
-815.26 zł netto
+MEAN WELL PCD-40-700B – zasilacz stałoprądowy LED 700 mA 39,9 W
+74.3 zł netto
 Do koszyka
-Pulsar ARAS1000N – szyny do obudów ARAD, RACK 19″ 1000 mm
-251.1 zł netto
+Adapter światłowodowy LC/APC duplex SM
+2.78 zł netto
 Do koszyka
-Switch Lanberg RSGE-24P-2GE-2S-360 – 24-portowy PoE+ 360 W
-655.66 zł netto
+MEAN WELL LCM-60KN – zasilacz prądowy LED 60 W z KNX
+207.04 zł netto
 Do koszyka
-MEAN WELL HLG-600H-24B – zasilacz LED 24 V 600 W z funkcją ściemniania
-808.33 zł netto
+MEAN WELL LCM-40KN – zasilacz stałoprądowy LED 40 W z KNX
+197.13 zł netto
 Do koszyka
-Cisco Catalyst 9200 C9200-NM-4X= – moduł sieciowy 4 × 10G SFP+
-4268.96 zł netto
+MEAN WELL LCM-40DA2 zasilacz LED stałoprądowy 42 W DALI-2
+150.57 zł netto
 Do koszyka
-Seagate IronWolf ST6000VN006 – dysk twardy HDD NAS 6 TB
-1136.51 zł netto
+MEAN WELL LCM-40DA – zasilacz stałoprądowy LED 40 W DALI
+168.4 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

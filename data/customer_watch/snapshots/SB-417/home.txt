@@ -1,4 +1,4 @@
-# SB-417 alidex.it · home · https://www.alidex.it/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-417 alidex.it · home · https://www.alidex.it/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 ALIDEX | Networking Industriale, Reti IoT, Cybersecurity OT
 Toggle navigation
 Azienda
@@ -30,10 +30,10 @@ Ethernet Industriale
 Wireless Industriale
 Router & Access Point
 Novità
+TGS-9200-M12-BP2 - Industrial Switch EN50155
 IGS-T9062DGP Switch Industrial Managed TSN
 IGS-3084GP-LA Managed Switch 8x 1G + 4x SFP
 IGS-3164GP-LA Managed Industrial Switch
-Cybersicurezza
 Moduli SFP
 Dual e Single Fiber, C/D WDM. Range esteso. Ethernet, Fiber Channel, SONET /SDH/OTN fino 400Gbps
 Acquisizione e analisi traffico

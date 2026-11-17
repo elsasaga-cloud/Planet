@@ -1,4 +1,4 @@
-# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-609 ablelink.co.th · sitemap · https://ablelink.co.th/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
 	https://ablelink.co.th/
 	https://ablelink.co.th/about/
 	https://ablelink.co.th/contact/
@@ -6,6 +6,8 @@
 	https://ablelink.co.th/news/
 	https://ablelink.co.th/search/
 	https://ablelink.co.th/category/
+	https://ablelink.co.th/products/r-od-smcp-288/
+	https://ablelink.co.th/products/r-od-ccc-576/
 	https://ablelink.co.th/products/mc-isfp-lx-sm-0210/
 	https://ablelink.co.th/products/mc-isfp-lx-sm-0220/
 	https://ablelink.co.th/products/mc-isfp-lx-sm-0240/
@@ -121,9 +123,7 @@
 	https://ablelink.co.th/products/sw-fgm-24sfp-l2/
 	https://ablelink.co.th/products/sw-fgm-08sfp/
 	https://ablelink.co.th/products/r-od-smcp-576/
-	https://ablelink.co.th/products/r-od-smcp-288/
 	https://ablelink.co.th/products/r-od-smcp-144/
-	https://ablelink.co.th/products/r-od-ccc-576/
 	https://ablelink.co.th/products/r-od-ccc-432/
 	https://ablelink.co.th/products/r-od-ccc-288/
 	https://ablelink.co.th/products/r-od-ccc-144/

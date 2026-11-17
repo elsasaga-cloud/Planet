@@ -1,4 +1,4 @@
-# SA-011 CXR · news_1 · https://www.cxr.com/en/news/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SA-011 CXR · news_1 · https://www.cxr.com/en/news/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 News - CXR
 Smart Solutions for Smart Networks
 Toggle navigation
@@ -79,6 +79,20 @@ New password (x2)
 Change my password
 Home
 News
+Does your critical network operate with precise time synchronization?
+03/11/2026
+VCL-2156
+In mission-critical environments—from 5G telecommunications and IEC 61850 Smart Grids to intelligent transport systems and financial trading—precise time synchronization isn't optional. It’s vital.
+Introducing the CXR VCL-2156
+The next-generation Primary Reference Clock (PRC G.811), IEEE 1588v2 PTP Grandmaster, and high-capacity NTP Server engineered for uncompromised network...
+Read More
+Connecting your industrial equipment has never been easier!
+20/10/2026
+Whether your installations are stationary or mobile, ensuring continuity of service and protecting your workflows remain absolute priorities in the field.
+Discover the RTDI-402 from CXR Networks, an industrial 4G router built for demanding environments:
+Universal connectivity: provides a link between your serial (RS232/RS485), Ethernet, and Wi-Fi equipment, with 4G/LTE connectivity.
+Data...
+Read More
 SWMD-H-16TG-4GSF-4SFP+ Managed Switch
 06/10/2026
 10G power at the heart of your networks.
@@ -129,21 +143,6 @@ Which CXR Networks VoIP gateway is right for your infrastructure?
 The end of the PSTN and the transition to "All-IP" necessitate the modernization of communication networks. However, each sector has unique constraints: line density, climate, and security requirements.
 To address this diversity, CXR Networks offers a comprehensive range of VoIP gateways designed to secure, convert, and future-proof your analog investments.
 Discover which equipment matches...
-Read More
-Precise mapping of your networks!
-02/06/2026
-Locate underground utilities and record data related to these infrastructures without returning to the office.
-EML250-ID + OmniMarker-ID
-Every day, thousands of excavation projects are carried out across the country near underground utilities. Too often, inadequate marking and insufficient documentation of these infrastructures lead to costly damage.
-The EML250-ID and OmniMarker-ID are Tempo's...
-Read More
-Tired of having multiple power supplies in your industrial cabinets?
-19/05/2026
-We all know the headache at the network edge: you have a standard 24V DC power supply on your DIN rail, but  or Wi-Fi access points require PoE+ (48V/54V).
-The result? You often end up adding a bulky voltage converter that heats up the cabinet...
-That's where the CXR Networks SWMDL-H-4GPS-2USF-B changes the game.
-Why is it a "Swiss Army knife" for technicians?
-The integrated...
 Read More
 1
 2

@@ -1,4 +1,4 @@
-# SC-1900 konectsoluciones.com · news_1 · https://www.konectsoluciones.com/event · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1900 konectsoluciones.com · news_1 · https://www.konectsoluciones.com/event · fetched 2026-11-17T10:52:12Z · HTTP 200
 Events | Tienda_Konect
 Ir al contenido
 0
@@ -20,6 +20,8 @@ TARIFA_CERO_V2
 Lista de precios
 Eventos programados
 1
+Hoy
+1
 Este mes
 1
 Eventos pasados
@@ -27,6 +29,8 @@ Todos los eventos
 Filtros
 Fecha
 Eventos programados
+1
+Hoy
 1
 Este mes
 1

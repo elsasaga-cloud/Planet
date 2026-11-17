@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-17T10:52:12Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,47 +170,47 @@ Carrito
 Productos
 Noticias
 Ver todas
-Daniel · 6h · Audio e Intercom
-El llamado de un paciente ya no se pierde en el pasillo
-La NX1021 de Ibernex es la terminal de habitación del sistema paciente-enfermera IP: pantalla táctil de 7 pulgadas, RFID de 125 kHz para identificar al personal que responde, VoIP SIP y PoE 802.3af por un solo cable UTP. Carcasa antibacteriana y bus RS485 para integrar los periféricos de cama. Existencia en SYSCOM.
-Conoce la terminal NX1021 de Ibernex 1
-Nicolas · 13h · Videovigilancia
+Nicolas · 1d · Videovigilancia
 El domo que aguanta el golpe y sigue grabando
 La DS-2CD1143G2-LIUF de Hikvision es un domo IP de 4 MP con lente de 2.8 mm y carcasa antivandálica IK08: resiste el impacto sin salir de línea. Dual Light de 30 m en IR y luz blanca, micrófono integrado, Motion Detection 2.0 que separa personas y vehículos, IP67 y PoE 802.3af.
 Conoce el domo antivandálico de Hikvision
-Daniel · 18h · Alarmas e Intrusión
+Daniel · 1d · Alarmas e Intrusión
 La reja perimetral ya distingue un corte de una ráfaga de viento
 El kit IRONCLAD IROC2Z250V2 cubre 150 m de cerco en 2 zonas independientes con cable sensor blindado: detecta vibración por corte o escalamiento y descarta viento, lluvia y tráfico. Incluye tarjeta LPU400 y calibración por software, sin potenciómetros a media reja.
-Conoce el kit IRONCLAD de 150 m
-Rafael · 19h · Redes
+Conoce el kit IRONCLAD de 150 m 1
+Rafael · 1d · Redes
 6 Gbps de Wi-Fi 6 en exteriores con certificación IP67
 El GWN7664ELR cubre 300 m y soporta 512 dispositivos simultáneos con MU-MIMO 4x4:4 y OFDMA. Doble puerto 2.5G: Ethernet y SFP para fibra, con gestión vía web, GWN.Cloud o GWN.Manager.
 Conoce el GWN7664ELR de Grandstream
-Victor · 1d · Alarmas e Intrusión
+Victor · 2d · Alarmas e Intrusión
 Tu panel de alarma ya no necesita teclado ni licencias
 El DX FULL WIFI de DXControl se conecta a la mayoría de paneles del mercado por CONTACT ID: armas y desarmas desde la app Full Control, sin licencias ni renta mensual. Cada evento llega como notificación PUSH, suma 2 relés domóticos para luces o portones, programación vía web y WiFi 2.4 GHz. Alimentación 12 V DC.
 Conecta tu panel sin pagar licencias
-Nicolas · 1d · Videovigilancia
+Nicolas · 2d · Videovigilancia
 Ocho cámaras, un cable y ningún switch PoE en medio
 El DS-7608NI-Q1/8P(E) de Hikvision integra los 8 puertos PoE+ al grabador: cada cámara recibe video y energía por el mismo UTP, con modo extendido a 300 m. Graba 4K en los 8 canales a 30 IPS con H.265+, suma AcuSense para separar personas y vehículos del resto del movimiento, y entrega HDMI 4K y VGA simultáneos. Una bahía de hasta 8 TB.
 Conoce el NVR con PoE integrado
-Fernando · 1d · Redes
+Fernando · 2d · Redes
 La cámara se colgó a las 11 de la noche. Nadie subió al techo.
 PD Alive vigila cada puerto PoE y reinicia sola la cámara que deja de responder. El WI-PCES210G-O de Wi-Tek suma 8 puertos con 100 W, Hi-PoE de 45 W en los dos primeros, modo Extend a 250 m y gabinete IP65 de -30 a 60 °C. Gestión cloud gratuita con detección ONVIF.
 Conoce el switch que reinicia solo
-Sylvia · 1d · GPS y M2M
+Sylvia · 2d · GPS y M2M
 El lanzamiento de las alarmas vehiculares Teltonika es hoy a las 3 pm
 La línea llega con tres equipos: el inmovilizador IMB5 por tarjeta RFID 2.4 GHz, y los GN7C.HP y GN7C.HUPS.KRH con relé de motor de 25 A, sensores de choque e inclinación y CAN bus para más de 800 modelos. La presentación arranca a las .
 Conoce las alarmas Teltonika
-Rafael · 1d · Redes
+Rafael · 2d · Redes
 Wi-Fi de largo alcance para patios y estacionamientos
 El GWN7630LR es un access point exterior 802.11ac Wave-2 de 2.33 Gbps con MU-MIMO 4x4:4, carcasa para intemperie y administración desde la nube gratuita o stand-alone.
 Conoce el GWN7630LR de Grandstream
-Gregorio · 2d · Telefonía IP
+Gregorio · 3d · Telefonía IP
 Llegó el stock de Yealink: teléfonos, diademas y salas completas
 La serie YHS ya está en piso: YHS34 y YHS36 E2, en versión mono y dual, con cancelación de ruido y QD a RJ9. El WPP30 suma presentación inalámbrica 4K por USB-C con WiFi 6, y la SmartVision 80 pone 4 lentes con 20x de zoom en la sala. Los MP54 y MP56 E2 Teams completan la línea de escritorio.
 Y muchas cosas más en syscom.mx.
 Mira todo el stock Yealink que llegó 2
+Fernando · 3d · Redes
+Router 4G para donde no llega nada
+El WI-LTE117-O V2 de WI-TEK resuelve internet y energía con un solo equipo: sube a la red 4G LTE (Cat4, 150 Mbps, 9 bandas FDD) y reparte PoE. Alimentado con DC 48-54 V entrega 2 puertos 802.3af para cámaras; con PoE at, uno. Failover automático 3G/4G-WAN, OpenVPN y gestión cloud. IP65, de -30 a 55 °C.
+Conoce el router 4G para exterior 2
 Videos
 Ver todos
-¿Alguien conectó un router sin autorización y t
+¿Alguien conectó un router sin autorización y toda la red falla? Con RG-ES200, activa la prote

@@ -1,4 +1,4 @@
-# SB-138 Volktek · news_1 · https://www.volktek.com/news_en.php?id=63974 · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SB-138 Volktek · news_1 · https://www.volktek.com/news_en.php?id=63974 · fetched 2026-11-17T10:52:12Z · HTTP 200
 Articles | VOLKTEK
 Products
 Layer 3 Industrial Ethernet Switches
@@ -200,6 +200,10 @@ Product News
 Events
 ESG at Volktek
 Articles
+Power Up Your Network With btPoE - Up to 90 Watts per port over standard Ethernet cables
+2026-11-17
+Articles
+Read More
 Deterministic Ethernet Communication for Time-sensitive Applications - Part 2
 2026-08-20
 Articles
@@ -218,10 +222,6 @@ Articles
 Read More
 Feature Introduction – Quality of Service (QoS) Prioritize Critical Communication on Premium Unmanaged Ethernet Switches
 2026-03-09
-Articles
-Read More
-Future-Ready Industrial Networking: TSN, SPE, 10G Uplink, btPoE, and Cybersecurity
-2026-01-20
 Articles
 Read More
 1 / 2
