@@ -7,7 +7,10 @@
  "type": "",
  "size": "",
  "brands_seen": [
-  "Hikvision"
+  "Hikvision",
+  "Cisco",
+  "Dahua",
+  "Huawei"
  ],
  "evidence": [
   {
@@ -58,10 +61,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-16）：fail#18。\nLT-T03 官网快照加厚（2026-11-15）：fail#17。\nLT-T03 官网快照加厚（2026-11-14）：fail#16。\nLT-T03 官网快照加厚（2026-11-13）：fail#15。\nLT-T03 官网快照加厚（2026-11-12）：fail#14。\nLT-T03 官网快照加厚（2026-11-11）：fail#13。\nLT-T03 官网快照加厚（2026-11-10）：fail#12。\nLT-T03 官网快照加厚（2026-11-09）：fail#11。\nLT-T03 官网快照加厚（2026-11-08）：fail#10。\nLT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
+ "notes": "LT-T03 官网快照加厚（2026-11-17）：brands_seen/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-11-16）：fail#18。\nLT-T03 官网快照加厚（2026-11-15）：fail#17。\nLT-T03 官网快照加厚（2026-11-14）：fail#16。\nLT-T03 官网快照加厚（2026-11-13）：fail#15。\nLT-T03 官网快照加厚（2026-11-12）：fail#14。\nLT-T03 官网快照加厚（2026-11-11）：fail#13。\nLT-T03 官网快照加厚（2026-11-10）：fail#12。\nLT-T03 官网快照加厚（2026-11-09）：fail#11。\nLT-T03 官网快照加厚（2026-11-08）：fail#10。\nLT-T03 官网快照加厚（2026-11-07）：fail#9。\nLT-T03 官网快照加厚（2026-11-06）：fail#8。\nLT-T03 官网快照加厚（2026-11-05）：fail#7。\nLT-T03 官网快照加厚（2026-11-04）：fail#6。\nLT-T03 官网快照加厚（2026-11-03）：fail#5。\nLT-T03 官网快照加厚（2026-11-02）：fail#4。\nLT-T03 官网快照加厚（2026-11-01）：fail#3。\nLT-T03 官网快照加厚（2026-10-29）：fail#2。\nLT-T03 官网快照加厚（2026-10-21）：fail#1。\n（无首轮调研；由 deepen.py 建档）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（官网 + 名录核对）"
+  "level": "B 级加厚 v1（官网 + 名录核对） + 官网快照（LT-T03 2026-11-17）",
+  "snapshot_at": "2026-11-17"
  },
  "company_facts": {
   "legal_name": "Matrix Vision Systems / Matrix Systems（1 查仅美国 / 中东同名 → 本体未命中）",
@@ -139,6 +143,14 @@
     "quote": "回复：有用 需要和team沟通一下是否拿样",
     "why": "表内备注",
     "k": "用户表"
+   },
+   {
+    "date": "2026-11-17",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "Matrix - Vision Systems | Matrix Vision Systems — Matrix Vision Systems - Leading provider of comprehensive IT solutions including Infrastructure Development, Enterprise Solutions, Security Systems, and Digital Transformation services across Kenya and East Africa.",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://www.matrixsystems.co.ke/"
    }
   ],
   "proof_gaps": [
@@ -177,7 +189,8 @@
    "2026-11-13T10:21:54Z",
    "2026-11-14T09:39:01Z",
    "2026-11-15T10:09:41Z",
-   "2026-11-16T10:27:20Z"
+   "2026-11-16T10:27:20Z",
+   "2026-11-17T11:23:45Z"
   ],
   "fails": [
    "2026-10-21",
@@ -199,7 +212,8 @@
    "2026-11-15",
    "2026-11-16"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-17"
  },
  "b_tier": {
   "tier": "B1",
@@ -225,5 +239,21 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [],
+  "phones": [
+   "+254 721 779 429"
+  ],
+  "social": [
+   "https://facebook.com",
+   "https://twitter.com",
+   "https://www.instagram.com",
+   "https://www.linkedin.com"
+  ],
+  "models_on_site": [],
+  "url": "https://www.matrixsystems.co.ke/",
+  "date": "2026-11-17",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }
