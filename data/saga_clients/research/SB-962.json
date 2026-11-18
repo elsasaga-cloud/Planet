@@ -2,7 +2,7 @@
  "code": "SB-962",
  "name_official": "",
  "researched_at": "2026-10-21",
- "website_status": "快照失败（triplenet.co.kr：域名不可达（DNS/连接失败），2026-11-17，第 19 次）",
+ "website_status": "在线（triplenet.co.kr，快照 2026-11-18）：트리플네트웍스(주)",
  "summary": "韩国 Triplenet（triplenet.co.kr；表内「switch」；官网 unreachable，业务待核）；群发 23 次无回复。",
  "type": "网络公司（韩国，待核）",
  "size": "",
@@ -33,10 +33,11 @@
  ],
  "grade_override": null,
  "override_reason": "",
- "notes": "LT-T03 官网快照加厚（2026-11-17）：website_status/fail#19。\nLT-T03 官网快照加厚（2026-11-16）：website_status/fail#18。\nLT-T03 官网快照加厚（2026-11-15）：website_status/fail#17。\nLT-T03 官网快照加厚（2026-11-14）：website_status/fail#16。\nLT-T03 官网快照加厚（2026-11-13）：website_status/fail#15。\nLT-T03 官网快照加厚（2026-11-12）：website_status/fail#14。\nLT-T03 官网快照加厚（2026-11-11）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
+ "notes": "LT-T03 官网快照加厚（2026-11-18）：website_status/site_contacts/deep/facts。\nLT-T03 官网快照加厚（2026-11-17）：website_status/fail#19。\nLT-T03 官网快照加厚（2026-11-16）：website_status/fail#18。\nLT-T03 官网快照加厚（2026-11-15）：website_status/fail#17。\nLT-T03 官网快照加厚（2026-11-14）：website_status/fail#16。\nLT-T03 官网快照加厚（2026-11-13）：website_status/fail#15。\nLT-T03 官网快照加厚（2026-11-12）：website_status/fail#14。\nLT-T03 官网快照加厚（2026-11-11）：website_status/fail#13。\nLT-T03 官网快照加厚（2026-11-10）：website_status/fail#12。\nLT-T03 官网快照加厚（2026-11-09）：website_status/fail#11。\nLT-T03 官网快照加厚（2026-11-08）：website_status/fail#10。\nLT-T03 官网快照加厚（2026-11-07）：website_status/fail#9。\nLT-T03 官网快照加厚（2026-11-06）：website_status/fail#8。\nLT-T03 官网快照加厚（2026-11-05）：website_status/fail#7。\nLT-T03 官网快照加厚（2026-11-04）：website_status/fail#6。\nLT-T03 官网快照加厚（2026-11-03）：website_status/fail#5。\nLT-T03 官网快照加厚（2026-11-02）：website_status/fail#4。\nLT-T03 官网快照加厚（2026-11-01）：website_status/fail#3。\nLT-T03 官网快照加厚（2026-10-29）：website_status/fail#2。\nLT-T03 官网快照加厚（2026-10-21）：website_status/fail#1。\n（无首轮调研；由 deepen.py 建档） ｜ 规则加厚 2026-10-21（autodeep.py；T 档 T5）",
  "deep": {
   "done_at": "2026-10-21",
-  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先）"
+  "level": "B 级加厚 v1（人工复核：官网快照逐家核对 + 表内；T4/T5 信号优先） + 官网快照（LT-T03 2026-11-18）",
+  "snapshot_at": "2026-11-18"
  },
  "company_facts": {
   "hq": "韩国",
@@ -134,6 +135,14 @@
     "quote": "DNS 2026-10-29 16:2xZ：triplenet.co.kr MX mail.triplenet.co.kr.；A 133.186.144.129；NS ns4.cypack.com. / ns3.cypack.com.",
     "why": "长期客户群复核证据（非邮件事实，不计真回）",
     "url": ""
+   },
+   {
+    "date": "2026-11-18",
+    "dir": "查",
+    "who": "Agent 官网快照 LT-T03",
+    "quote": "트리플네트웍스(주)",
+    "why": "官网快照（Actions 抓取）：在线 / 业务线 / 在卖品牌证据（非邮件事实，不计真回）",
+    "url": "https://triplenet.co.kr/"
    }
   ],
   "proof_gaps": [],
@@ -163,7 +172,8 @@
    "2026-11-14T09:39:39Z",
    "2026-11-15T10:10:18Z",
    "2026-11-16T10:27:57Z",
-   "2026-11-17T11:24:23Z"
+   "2026-11-17T11:24:23Z",
+   "2026-11-18T10:55:03Z"
   ],
   "fails": [
    "2026-10-21",
@@ -186,7 +196,8 @@
    "2026-11-16",
    "2026-11-17"
   ],
-  "batch": "LT-T03"
+  "batch": "LT-T03",
+  "last_ok": "2026-11-18"
  },
  "lt_review": {
   "status": "留 B",
@@ -222,5 +233,16 @@
     "added": "2026-10-30"
    }
   ]
+ },
+ "site_contacts": {
+  "emails": [
+   "triplehris@triplenet.co.kr"
+  ],
+  "phones": [],
+  "social": [],
+  "models_on_site": [],
+  "url": "https://triplenet.co.kr/",
+  "date": "2026-11-18",
+  "note": "官网公开页抓取（全量见 site_digest.json）；只作证据 / 路径备选，未写入群发邮箱"
  }
 }
