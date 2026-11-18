@@ -1,4 +1,4 @@
-# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
 
 Menu
@@ -361,9 +361,10 @@ SERVICES
 BRAND PRICELISTS
 Download OFFICIAL PRICELISTS of our brands!
 PROMO SETIK
-IMOU LIFE | PROMOTIONS
-Discover all the official IMOU promotions available on our e-commerce store:
-Wi-Fi cameras, video surveillance kits, smart home solutions and much mo...
+DAHUA | PROMOTIONS
+DAHUA SDT SERIES | EXTRA 10% AND QUANTITY DISCOUNTS
+CODE: DAHUA-EXTRA-10
+...
 CCTV cameras, alarm systems and security kits
 BEST SELLER
 BEST PRICE
@@ -372,7 +373,7 @@ SUPER SALES
 BELOW COST
 ►FEATURED PRODUCTS
 
-IN STOCK: 180
+IN STOCK: 175
 Pieces
 *}
 IN PROMOTION
@@ -481,10 +482,12 @@ Soluzioni per casa, uffici, negozi, aziende e grandi infrastrutture
 Spedizioni rapide in tutta Europa e catalogo multilingua
 Popular Brands
 PROMO SETIK
-THE OUT OF THE BOX RENEWS ITSELF: NEW SUPER DISCOUNTED PRODUCTS
-More than 40 items discounted up to 80% off!
-Here you can find a complete list of products
-in promotion, all new and with 2 years wa...
+HIKVISION | SPECIAL OFFERS
+```
+LOWEST PRICE IN EUROPE
+Hikvision DS-KIS604-S | The smart video intercom for your home
+```
+S...
 FIND AN INSTALLER
 Looking for an installer
 near you?
@@ -526,4 +529,8 @@ Compare Now ( 0 )‎
 Some text in the modal.
 Chiudi
 Aggiunta al Carrello
-This site uses cookies. By continuing to browse the site
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Find out more here .
+Accept
+
+×
+

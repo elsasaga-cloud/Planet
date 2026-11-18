@@ -1,4 +1,4 @@
-# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
 	https://adin.it/
 	https://adin.it/it/prodotti/
 	https://adin.it/it/k-new-2/
@@ -10,11 +10,6 @@
 	https://adin.it/it/uniview-pro/
 	https://adin.it/it/uniview-linea-ptz/
 	https://adin.it/it/switch-poe-e-accessori/
-	https://adin.it/it/protezione-sovratensioni/
-	https://adin.it/it/protezione-sovratensioni/aivusp201e/
-	https://adin.it/it/protezione-sovratensioni/aivusp201gp/
-	https://adin.it/it/protezione-sovratensioni/aitacblusp201v/
-	https://adin.it/it/protezione-sovratensioni/aitacblusp201pvd24/
 	https://adin.it/it/monitor-anrecson/
 	https://adin.it/it/videowall-anrecson/
 	https://adin.it/it/digital-signage/
@@ -22,6 +17,21 @@
 	https://adin.it/it/accessori-tvcc/
 	https://adin.it/it/sotware-tvcc/
 	https://adin.it/it/tvt/
+	https://adin.it/it/intercom-tvt/
+	https://adin.it/it/intercom-tvt/tdyzj1007/
+	https://adin.it/it/intercom-tvt/tdyhz0102/
+	https://adin.it/it/intercom-tvt/tdyhz0103/
+	https://adin.it/it/intercom-tvt/tdyzj1008/
+	https://adin.it/it/intercom-tvt/tdyzj1009/
+	https://adin.it/it/intercom-tvt/tde9120/
+	https://adin.it/it/intercom-tvt/tde3110icpewf/
+	https://adin.it/it/intercom-tvt/tde2223emicpewf/
+	https://adin.it/it/intercom-tvt/tde2137petpwf/
+	https://adin.it/it/intercom-tvt/tde3210wf/
+	https://adin.it/it/intercom-tvt/tevh1100s1p/
+	https://adin.it/it/intercom-tvt/tevh1104s1ptw/
+	https://adin.it/it/intercom-tvt/tevd1108s1cepw/
+	https://adin.it/it/intercom-tvt/tevd1100s1cepw/
 	https://adin.it/it/bdcom/
 	https://adin.it/it/azienda/
 	https://adin.it/it/servizi/
@@ -189,10 +199,4 @@
 2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10/
 2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivuswi24g10/
 2020-12-02	https://adin.it/it/telecamere-ip-bullet-3/unvipc2224sr5dpf60/
-2020-12-02	https://adin.it/en/telecamere-ip-bullet-3/unvipc2224sr5dpf60/
-2026-11-09	https://adin.it/it/monitor-4k-pro/anrlcms55014k/
-2026-11-09	https://adin.it/en/monitor-4k-pro/anrlcms55014k/
-2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10p/
-2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivuswi24g10p/
-2019-10-24	https://adin.it/it/telecamere-ip-eyeball/unvipc3614lr3pf28d/
-2019-10-24	https://adin.it/en
+2020-12-02	https://adin.it/en/telecamere-

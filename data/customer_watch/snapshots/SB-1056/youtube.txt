@@ -1,5 +1,5 @@
-# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-17T10:52:12Z · HTTP 200
-2026-11-16T16:00:09+00:00	Yeni PLC ve RTU Programlama Editörü - Aero Diagram	https://www.youtube.com/shorts/bm-vYuY7I9Q
+# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-18T10:22:47Z · HTTP 200
+2026-11-16T16:00:09+00:00	FBD, Ladder ve Structured Text Tek Bir Projede | AeroDiagram	https://www.youtube.com/shorts/bm-vYuY7I9Q
 2026-11-16T16:00:04+00:00	PLC & RTU Programming Editor by Mikrodev	https://www.youtube.com/shorts/BcmZkpcfTTI
 2025-09-24T11:49:26+00:00	DNP3 Slave Protokol Tanımlamaları (Firmware versiyon 19.05 ve üzeri için)	https://www.youtube.com/watch?v=2eCD7ejVBhk
 2025-09-24T11:49:04+00:00	DNP3 Slave Protocol Definitions (for firmware version 19.05 and above)	https://www.youtube.com/watch?v=UB9DqjramDU

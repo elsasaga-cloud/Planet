@@ -1,4 +1,4 @@
-# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-16T09:56:14Z · HTTP 200
+# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-18T10:22:47Z · HTTP 200
 	https://svn-video.ru/wi-fi-oborudovanie/kabel-utp-4pr-24awg-cat5e-305m
 	https://svn-video.ru/konnektery-razemy/soedinitel-rca-papa--rca-papa-
 	https://svn-video.ru/index.php?route=product/product&product_id=672
@@ -10,7 +10,6 @@
 	https://svn-video.ru/poe-oborudovanie/poe
 	https://svn-video.ru/poe-oborudovanie/svn-poe412-eco
 	https://svn-video.ru/poe-oborudovanie/svn-poe48v1a
-	https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe812-
 	https://svn-video.ru/poe-oborudovanie/svn-poe812-eco
 	https://svn-video.ru/poe-oborudovanie/poe-kommutator-svn-poe815-
 	https://svn-video.ru/poe-oborudovanie/poe-splitter-svn-pd301
@@ -32,7 +31,6 @@
 	https://svn-video.ru/ip-camery/svn-800sl20hpoe
 	https://svn-video.ru/ip-camery/ulichnaya-povorotnaya-kamera-ai-ip-svn-am5hs500ip
 	https://svn-video.ru/ip-camery/svn-as30ip3cm
-	https://svn-video.ru/ip-camery/svn-as30ip4cm
 	https://svn-video.ru/ip-camery/svn-as30ip6s
 	https://svn-video.ru/ip-camery/kupolnye/svn-as30ip8cm
 	https://svn-video.ru/ip-camery/svn-as30ip8s
@@ -228,4 +226,6 @@
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/sonyhit512
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/sonyhit521
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500bqaf3
-	https://svn-video.ru/gotovye-komplekty-video
+	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500sbc3
+	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-800mbaf3
+	https://s

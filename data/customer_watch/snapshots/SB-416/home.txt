@@ -1,4 +1,4 @@
-# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV
 Przejdź do głównej treści
 polski
@@ -532,6 +532,10 @@ Switche PoE do 7 portów
 Switche PoE 8 - 15 portów
 Switche PoE 16 - 23 porty
 Switche PoE 24 porty i więcej
+Routery WiFi
+Routery przewodowe
+Systemy WiFi Mesh
+MikroTik
 Kategoria 5e
 Kategoria 6
 Kategoria 6A
@@ -588,7 +592,4 @@ Gniazda JACK
 Gniazda RJ
 Gniazda pozostałe
 Obudowy do rejestratorów
-Metalowe natynkowe
-Metalowe podtynkowe
-Telekomunikacyjne
-Obudowy z t
+Metalowe 

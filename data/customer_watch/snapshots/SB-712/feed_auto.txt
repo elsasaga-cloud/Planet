@@ -1,4 +1,4 @@
-# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-712 maplesystems.com · feed_auto · https://maplesystems.com/feed/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Mon, 16 Nov 2026 14:15:13 +0000	Fuzzy Logic PID vs. Standard PID Control	https://maplesystems.com/fuzzy-logic-pid-vs-traditional-pid/
 Tue, 10 Nov 2026 18:57:48 +0000	Understanding Hysteresis and Deadband in PID Control	https://maplesystems.com/hysteresis-deadband-pid-control/
 Tue, 10 Nov 2026 16:59:40 +0000	Preventive Maintenance for Industrial PID Loops	https://maplesystems.com/pid-loop-preventive-maintenance-checklist/

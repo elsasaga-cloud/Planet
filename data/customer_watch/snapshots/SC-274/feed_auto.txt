@@ -1,10 +1,18 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-17T10:52:12Z · HTTP 200
-16.11.2026 14:34:47	NTT NEOCLEAN-F25 for SC, FC, ST, E2000	https://www.alcadon.no/rengj%c3%b8ring-sikkerhet/atc-nf-25/ntt-neoclean-f25-for-sc-fc-st-e2000-mer-enn-1000-klikk
-16.11.2026 14:00:54	NTT NEOCLEAN-F12 for LC and MU	https://www.alcadon.no/rengj%c3%b8ring-sikkerhet/atc-nf-12/ntt-neoclean-f12-for-lc-and-mu-mer-enn-1000-klikk
-16.11.2026 13:22:53	NTT CLETOP-MPO rensekassett	https://www.alcadon.no/rengj%c3%b8ring-sikkerhet/14110611/ntt-cletop-mpo-rensekassett-for-mpo-uten-styrepinne-fin-duk
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-18T10:22:47Z · HTTP 200
+18.11.2026 10:04:43	NTT OPTIPOP RS-1 refillbånd, 6 stk/pk	https://www.alcadon.no/ntt-at/atc-rs-01/ntt-optipop-rs-1-refillb%c3%a5nd-6-stk-pk-for-optipop-1-2-3-og-4
+18.11.2026 09:30:37	NTT OPTIPOP R2 Two-slot type SC, LC	https://www.alcadon.no/ntt-at/atc-re-02/ntt-optipop-r2-two-slot-type-sc-lc--gt-400-click-single-connector
+18.11.2026 09:19:15	NTT OPTIPOP R3 for MPO with pins	https://www.alcadon.no/ntt-at/atc-re-03/ntt-optipop-r3-for-mpo-with-pins--gt-400-click
+18.11.2026 09:07:34	NTT OPTIPOP R1 One-slot type SC, LC, MPO	https://www.alcadon.no/ntt-at/atc-re-01/ntt-optipop-r1-one-slot-type-sc-lc-mpo--gt-400-klikk-1-25-plus-2-5mm-mpo-w-o-pins
+17.11.2026 15:04:14	NTT NEOCLEAN-M2 for MPO/MTP 16/32	https://www.alcadon.no/ntt-at/atc-ne-m2/ntt-neoclean-m2-for-mpo-mtp-16-32-mer-en-600-klikk-med-og-uten-styrepinne
+17.11.2026 14:55:25	NTT NEOCLEAN-M1 for MPO/MTP 8/12/24	https://www.alcadon.no/ntt-at/atc-ne-m1/ntt-neoclean-m1-for-mpo-mtp-8-12-24-mer-en-600-klikk-med-og-uten-styrepinne
+17.11.2026 14:44:15	NTT NEOCLEAN 10stk Rensepinner for2,5mm	https://www.alcadon.no/ntt-at/atc-ns-250-s/ntt-neoclean-10stk-rensepinner-for2-5mm-sc-st-dot--pakke-%c3%a1-10-rensepinner
+17.11.2026 14:07:38	NTT NEOCLEAN 10stk Rensepinner for1.25mm	https://www.alcadon.no/ntt-at/atc-ns-125-s/ntt-neoclean-10stk-rensepinner-for1-dot-25mm-lc-mu-dot--pakke-%c3%a1-10-rensepinner
+16.11.2026 14:34:47	NTT NEOCLEAN-F25 for SC, FC, ST, E2000	https://www.alcadon.no/ntt-at/atc-nf-25/ntt-neoclean-f25-for-sc-fc-st-e2000-mer-enn-1000-klikk
+16.11.2026 14:00:54	NTT NEOCLEAN-F12 for LC and MU	https://www.alcadon.no/ntt-at/atc-nf-12/ntt-neoclean-f12-for-lc-and-mu-mer-enn-1000-klikk
+16.11.2026 13:22:53	NTT CLETOP-MPO rensekassett	https://www.alcadon.no/ntt-at/14110611/ntt-cletop-mpo-rensekassett-for-mpo-uten-styrepinne-fin-duk
 16.11.2026 13:10:44	NTT CLETOP Refillkassett Hvit 6st/fp	https://www.alcadon.no/alcadon/14100710/ntt-cletop-refillkassett-hvit-6st-fp-hvit-tape-fine-weave
-16.11.2026 13:02:46	NTT CLETOP-S Refillkassett Hvit 6st/fp	https://www.alcadon.no/alcadon/14110710/ntt-cletop-s-refillkassett-hvit-6st-fp-hvit-tape-fine-weave
-16.11.2026 12:56:10	NTT CLETOP-S Refillkassett Blå 6st/fp	https://www.alcadon.no/alcadon/14110700/ntt-cletop-s-refillkassett-bl%c3%a5-6st-fp-bl%c3%a5-tape-mid-weave
+16.11.2026 13:02:46	NTT CLETOP-S Refillkassett Hvit 6st/fp	https://www.alcadon.no/ntt-at/14110710/ntt-cletop-s-refillkassett-hvit-6st-fp-hvit-tape-fine-weave
+16.11.2026 12:56:10	NTT CLETOP-S Refillkassett Blå 6st/fp	https://www.alcadon.no/ntt-at/14110700/ntt-cletop-s-refillkassett-bl%c3%a5-6st-fp-bl%c3%a5-tape-mid-weave
 15.11.2026 11:14:40	Enoc Lås adapter Trykk knapp Ikke lås	https://www.alcadon.no/enoc/50844/enoc-l%c3%a5s-adapter-trykk-knapp-ikke-l%c3%a5s-ls95-kun-trykk-knapp
 10.11.2026 15:24:34	UPS Online ARES 2000VA RT	https://www.alcadon.no/ablerex/ar2000-pro-rt/ups-online-ares-2000va-rt-2000va-2000w-6x7ah
 10.11.2026 15:19:18	UPS Online ARES 1000VA RT	https://www.alcadon.no/ablerex/ar1000-pro-rt/ups-online-ares-1000va-rt-1000va-1000w-3x7ah
@@ -18,16 +26,16 @@
 29.10.2026 11:00:41	Universal stolpebrakett for ADSS	https://www.alcadon.no/stolpebrakett/167573/universal-stolpebrakett-for-adss-stolpeoppheng
 29.10.2026 10:33:16	Strekkfisk M12, øye/øye, galvanisert stå	https://www.alcadon.no/tilbeh%c3%b8r/167572/strekkfisk-m12-%c3%b8ye-%c3%b8ye-galvanisert-st%c3%a5-stolpeoppheng
 28.10.2026 12:13:10	Påbygg til DCCS datasenter renhold	https://www.alcadon.no/alcadon/dccs-iso/p%c3%a5bygg-til-dccs-datasenter-renhold-datasenter-kurs-1-timer
-27.10.2026 14:23:55	Vibrasjonsdemper PVC 14,3-19,3mm	https://www.alcadon.no/endefeste-spiral/167566/vibrasjonsdemper-pvc-14-3-19-3mm-for-adss-spiral-endefeste
-27.10.2026 14:14:41	Vibrasjonsdemper PVC 11,7-14,3mm	https://www.alcadon.no/endefeste-spiral/167565/vibrasjonsdemper-pvc-11-7-14-3mm-for-adss-spiral-endefeste
-27.10.2026 14:08:53	Vibrasjonsdemper PVC 8,3-11,7mm	https://www.alcadon.no/endefeste-spiral/167564/vibrasjonsdemper-pvc-8-3-11-7mm-for-adss-spiral-endefeste
+27.10.2026 14:23:55	Vibrasjonsdemper PVC 14,3-19,3mm	https://www.alcadon.no/tilbeh%c3%b8r/167566/vibrasjonsdemper-pvc-14-3-19-3mm-for-adss-spiral-endefeste
+27.10.2026 14:14:41	Vibrasjonsdemper PVC 11,7-14,3mm	https://www.alcadon.no/tilbeh%c3%b8r/167565/vibrasjonsdemper-pvc-11-7-14-3mm-for-adss-spiral-endefeste
+27.10.2026 14:08:53	Vibrasjonsdemper PVC 8,3-11,7mm	https://www.alcadon.no/tilbeh%c3%b8r/167564/vibrasjonsdemper-pvc-8-3-11-7mm-for-adss-spiral-endefeste
 27.10.2026 13:47:21	Kause U-form 8-15mm	https://www.alcadon.no/tilbeh%c3%b8r/167563/kause-u-form-8-15mm-for-spiral-endefester
 27.10.2026 13:37:52	Kause c-form 8-15mm	https://www.alcadon.no/tilbeh%c3%b8r/167562/kause-c-form-8-15mm-for-spiral-endefester
 27.10.2026 13:23:01	Fiber ADSS sjakkel 13mm	https://www.alcadon.no/malico/167561/fiber-adss-sjakkel-13mm-galvanisert-st%c3%a5l-15kn
 27.10.2026 08:34:00	Fiber ADSS sjakkel 10mm	https://www.alcadon.no/malico/167560/fiber-adss-sjakkel-10mm-galvanisert-st%c3%a5l-9kn
 26.10.2026 14:36:54	Endefeste Spiral Ø 14,5-16,0	https://www.alcadon.no/malico/gsde1450/endefeste-spiral-%c3%b8-14-5-16-0-adss-endefeste-70-mtr-spenn
 26.10.2026 14:30:16	Endefeste Spiral Ø 11,5-13,0	https://www.alcadon.no/malico/gsde1150/endefeste-spiral-%c3%b8-11-5-13-0-adss-endefeste-70-mtr-spenn
-26.10.2026 10:57:05	FiberKabel SM Kanal G144 2km/tr	https://www.alcadon.no/fiber-mikro-g144-sm/stl-144f-12-dot-7/fiberkabel-sm-kanal-g144-2km-tr-g652d-12-7mm-eia-tia-598
+26.10.2026 10:57:05	FiberKabel SM Kanal G144 2km/tr	https://www.alcadon.no/stl/stl-144f-12-dot-7/fiberkabel-sm-kanal-g144-2km-tr-g652d-12-7mm-eia-tia-598
 23.10.2026 15:05:46	Inno View12X Ribbon skjøtemaskin	https://www.alcadon.no/inno-instruments/view12x/inno-view12x-ribbon-skj%c3%b8temaskin-inkl-dot--v7-plus--ts-pro-fh-12r-mh-250r
 23.10.2026 09:21:03	Fluke TRC MPO SM 0,3m	https://www.alcadon.no/fluke/trc-sm-mpoapc-uu-a/fluke-trc-mpo-sm-0-3m-mpoapc-mpoapc-unpinned-unpinned-type-a
 23.10.2026 09:19:44	Fluke TRC MPO SM 1,0m	https://www.alcadon.no/fluke/trc-sm-mpoapc-pp-a/fluke-trc-mpo-sm-1-0m-mpoapc-mpoapc-pinned-pinned-type-a
@@ -36,11 +44,11 @@
 23.10.2026 09:14:52	Fluke TRC MPO MM 1,0m	https://www.alcadon.no/fluke/trc-mpo-pp-b/fluke-trc-mpo-mm-1-0m-mpo-mpo-pinned-pinned-type-b
 22.10.2026 15:32:33	Endefeste Spiral Ø 10,0-11,5	https://www.alcadon.no/malico/gsde1000/endefeste-spiral-%c3%b8-10-0-11-5-adss-endefeste-70-mtr-spenn
 22.10.2026 15:23:55	Endefeste Spiral Ø 6,0-6,5 mm	https://www.alcadon.no/malico/gsde0600/endefeste-spiral-%c3%b8-6-0-6-5-mm-adss-endefeste-70-mtr-spenn
-20.10.2026 12:32:27	NTT CLETOP-MPO rensekassett	https://www.alcadon.no/alcadon/14100201/ntt-cletop-mpo-fiberrens-kassett-white-tape-for-mpo-mtp-connector
+20.10.2026 12:32:27	NTT CLETOP-MPO rensekassett	https://www.alcadon.no/ntt-at/14100201/ntt-cletop-mpo-rensekassett-for-mpo-med-styrepinner
 15.10.2026 12:58:35	AH IPDU Vertikal 32A, 400V 3-fas, sort	https://www.alcadon.no/austin-hughes/ipdu18xc13comc13-c19/ah-ipdu-vertikal-32a-400v-3-fas-sort-18xc13-plus-combo18xc13-c19-iec60309-2m
 14.10.2026 12:20:53	Temperatur + fuktighet sensor - 4m	https://www.alcadon.no/austin-hughes/ah-ig-z-th014m/temperatur--plus--fuktighet-sensor-4m-rj-45
 14.10.2026 10:57:26	AH ATS Overførings-Switch 16A,230V Svart	https://www.alcadon.no/austin-hughes/ats-h8c13-2c1916ac20/ah-ats-overf%c3%b8rings-switch-16a-230v-svart-8xc13-2xc19-iec320-horisontal-2x3m
-09.10.2026 09:46:12	NTT CLETOP-S LC/SC rensekassett	https://www.alcadon.no/alcadon/14110501/ntt-cletop-s-lc-sc-fiberrens-kassett-two-slot-mid-weave
+09.10.2026 09:46:12	NTT CLETOP-S LC/SC rensekassett	https://www.alcadon.no/ntt-at/14110501/ntt-cletop-s-lc-sc-rensekassett-for-lc-og-sc-konnektorer
 09.10.2026 00:15:37	Enoc vertikal kabelguide CT1 24HE Svart	https://www.alcadon.no/enoc/56973/enoc-vertikal-kabelguide-ct1-24he-svart-b-88-x-d-167-x-h-888-mm-1stk
 08.10.2026 13:05:57	Austin Hughes IPDU 32A, 230V 1-fas, blå	https://www.alcadon.no/austin-hughes/ipdu-8xc13-2xc19-b/austin-hughes-ipdu-32a-230v-1-fas-bl%c3%a5-horisontal-8xc13-2xc19-iec60309-3m
 08.10.2026 13:01:26	Austin Hughes IPDU 32A, 400V 3-fas, blå	https://www.alcadon.no/austin-hughes/ipdu36xcomc13-c19-b/austin-hughes-ipdu-32a-400v-3-fas-bl%c3%a5-vertikal-36xcombo-c13-c19-iec60309-3m
@@ -63,11 +71,4 @@
 13.08.2026 10:27:34	Festebånd med borrelås, 10mm/22,5m Svart	https://www.alcadon.no/velcro/kbbr-10-22-dot-5-bk/festeb%c3%a5nd-med-borrel%c3%a5s-10mm-22-5m-svart-kappes-etter-eget-%c3%b8nske
 13.08.2026 10:23:47	Festebånd med borrelås, 20mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-wh/festeb%c3%a5nd-med-borrel%c3%a5s-20mm-22-5m-hvit-kappes-etter-eget-%c3%b8nske
 13.08.2026 10:19:17	Festebånd med borrelås, 20mm/22,5m Svart	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-bk/festeb%c3%a5nd-med-borrel%c3%a5s-20mm-22-5m-svart-kappes-etter-eget-%c3%b8nske
-31.07.2026 13:40:52	Prolabs TAA QSFP28 100GBase-ER1 40km DOM	https://www.alcadon.no/prolabs/qsfp-100gb-er1-c-c/prolabs-taa-qsfp28-100gbase-er1-40km-dom-cisco-comp-dot--single-lambda-smf-1310nm-lc
-20.07.2026 12:42:00	Miller MA01-7001 Fiberverktøysett	https://www.alcadon.no/ripley/miller-ma01-7001/miller-ma01-7001-fiberverkt%c3%b8ysett-med-fiberstripper-og-kevlar-saks
-10.07.2026 20:04:37	FiberKabel SM Mikro G24 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-kanal-g24-96-sm/stl26910-24-0026/fiberkabel-sm-mikro-g24-a-dqzn2y-g657a1-5-7mm-eia-tia-598
-10.07.2026 19:55:52	FiberKabel SM Mikro G432 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g144-sm/stl26910-432-0026/fiberkabel-sm-mikro-g432-a-dqzn2y-g657a1-12-5mm-eia-tia-598
-10.07.2026 19:43:21	FiberKabel SM Mikro G288 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g144-sm/stl26910-288-0026/fiberkabel-sm-mikro-g288-a-dqzn2y-g657a1-9-4mm-eia-tia-598
-10.07.2026 19:37:13	FiberKabel SM Mikro G144 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g144-sm/stl26910-144-0026/fiberkabel-sm-mikro-g144-a-dqzn2y-g657a1-8mm-eia-tia-598
-10.07.2026 19:13:58	FiberKabel SM Mikro G96 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-mikro-g24-96-sm/stl26910-96-0026/fiberkabel-sm-mikro-g96-a-dqzn2y-g657a1-6-0mm-eia-tia-598
-10.07.2026 19:11:50	FiberKabel SM Mikro G48 A-DQ(ZN)2Y	https://www.alcadon.no/fiber-kanal-g24-96-sm/stl26910-48-0026/fiberkabel-sm-mi
+31.07.2026 13:40:52	Prolabs TAA QSFP28 100GBase-ER1 40km DOM	https://www.alcadon.no/prolabs/qsfp-100gb-er1-c-c/prolabs-t

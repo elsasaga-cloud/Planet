@@ -1,4 +1,5 @@
-# SB-974 b-plus.com · youtube · https://www.youtube.com/@b-plus-group · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-974 b-plus.com · youtube · https://www.youtube.com/@b-plus-group · fetched 2026-11-18T10:22:47Z · HTTP 200
+2026-11-17T13:57:37+00:00	b-plus LOGifyer Erklärvideo	https://www.youtube.com/watch?v=3SgZ1AzR-_o
 2026-10-02T10:06:34+00:00	Closing the Real-to-Sim Gap – Turning Highway Drives into Simulation-Ready Datasets	https://www.youtube.com/watch?v=51Wo8qeIn4o
 2026-09-10T10:27:26+00:00	Livestream von b-plus Group	https://www.youtube.com/watch?v=A0uYYJE0UF0
 2026-08-31T14:16:41+00:00	Experience CONiX Testflleet V3.10 - Recordings Feature	https://www.youtube.com/watch?v=2ABw2xaSnx0
@@ -13,4 +14,3 @@
 2023-11-24T07:01:46+00:00	RAW Data Logging Solution AVETO.dps	https://www.youtube.com/watch?v=e3SKFoluLaM
 2023-11-02T09:54:19+00:00	NETLion 10G – Automotive Ethernet Converter for Networking up to 10 Gbit/s for 2,5/5/10GBASE-T1	https://www.youtube.com/watch?v=E_9eU03qAdg
 2023-10-31T12:30:51+00:00	b-plus walkaround at Intergeo 2023	https://www.youtube.com/shorts/UqxUxPpW1H0
-2023-10-04T05:54:30+00:00	Automotive 19" Vehicle Server - DATALynx ATX4 EP4	https://www.youtube.com/watch?v=oGgTtx_8H6g

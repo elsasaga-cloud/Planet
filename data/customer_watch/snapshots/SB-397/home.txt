@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3964)
+Svi proizvodi (3967)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -80,12 +80,12 @@ PVC bužiri (5)
 Halogen free bužiri
 Pocinkovani regali (62)
 Potrošni materijal (26)
-Ormani i kućišta (172)
-Rek ormani 19" (107)
+Ormani i kućišta (175)
+Rek ormani 19" (110)
 Rek ormani 10" (8)
 Indoor kućišta (35)
 Eksterni ormani (19)
-Elektro materijal (820)
+Elektro materijal (823)
 Energetski kablovi
 PVC strujni kablovi
 N2XH bez halogena
@@ -94,7 +94,7 @@ Strujni razvodnici (15)
 Razvodnici 220V-50Hz (7)
 Rack 19" razvodnici (7)
 Eksterni ormani (6)
-Indoor kućišta (54)
+Indoor kućišta (57)
 Uzidne dozne (11)
 Upodne kutije (2)
 Aluminijumski stubići (3)

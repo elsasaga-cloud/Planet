@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -115,6 +115,7 @@ PC para Edge AI
 PC para transporte
 Accesorios para PC industriales
 Tablet industrial
+Tablet rugerizada para vehículos
 Supervisión
 Software de gestión de redes OT
 Ciberseguridad OT

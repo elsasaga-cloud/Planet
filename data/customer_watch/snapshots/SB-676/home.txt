@@ -1,7 +1,7 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 50,47 TL
-€: 55,58 TL
+$: 50,50 TL
+€: 55,53 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -152,12 +152,12 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1150,71 TL
+1151,30 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1150,71 TL
+1151,30 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
@@ -537,13 +537,13 @@ Sepete Ekle
 PC HD 500GB 3.5 HARDDİSK
 PC HD 8TB SEAGATE ST8000DM004 BARRACUDA 7200RPM 256MB SATA HARDDISK
 8 TB SEAGATE 3.5 EXPANSION STKP10000400 TAŞINABİLİR DİSK
+PC HD 1TB SEAGATE ST1000DM010 BARRACUDA 7200RPM SATA3
 Hikvision DS-2CD1021G2-LIUF Sabit Lens 2.8 mm Hibrit Light 2mp Ir Bullet Ip Kamera
 Hikvision DS-2CD1121G2-LIUF 2MP 2.8MM Akıllı Hibrit Işık Fixed Dome Network Kamera
 PC HD 4TB SEAGATE ST4000VN000 5900 rpm 64 MB Cache NAS DEPOLAMA HARDDİSK
 HILOOK IPC-B140HA-LUFC 4MP 2.8MM 30M COLORVU DUALLIGHT SESLI POE IP BULLET
 PC HD 1TB HARDDİSK HARDDİSK SATA
 ZIMMER 20" HDMI VGA LED HD SES MONiTOR
-PC HD 1TB SEAGATE ST1000DM010 BARRACUDA 7200RPM SATA3
 DELL VOSTRO 5490 i7 10510U 16GB DDR4 512GB SSD MX250 2GB Win10 14" 2.El Dizüstü Bilgisayar
 NB HD 500GB NOTEBOK SATA HARDDISK
 Son Gezilen Ürünler
@@ -569,6 +569,8 @@ Toptan IP Bullet Kameraları
 28 Ürün
 Toptan Ip Dome Kameraları
 29 Ürün
+Toptan AHD Kayıt Cihazları
+18 Ürün
 Toptan Monitörler
 6 Ürün
 Toptan Notebook Harddiskleri
@@ -579,12 +581,10 @@ Toptan AHD Bullet Kameralar
 12 Ürün
 Toptan Küçük Ev Aletleri
 66 Ürün
-Toptan AHD Kayıt Cihazları
-18 Ürün
-Toptan Speed Dome PTZ
-32 Ürün
 Toptan IP Kayıt Cihazları
 16 Ürün
+Toptan Speed Dome PTZ
+32 Ürün
 Toptan Poe Switch
 18 Ürün
 Hobi Oyuncak
@@ -596,14 +596,14 @@ Toptan PC Harddiskleri
 Toptan Harici Harddiskleri
 Toptan IP Bullet Kameraları
 Toptan Ip Dome Kameraları
+Toptan AHD Kayıt Cihazları
 Toptan Monitörler
 Toptan Notebook Harddiskleri
 Toptan Solar Kamera Sistemleri
 Toptan AHD Bullet Kameralar
 Toptan Küçük Ev Aletleri
-Toptan AHD Kayıt Cihazları
-Toptan Speed Dome PTZ
 Toptan IP Kayıt Cihazları
+Toptan Speed Dome PTZ
 Toptan Poe Switch
 Hobi Oyuncak
 Aydınlatma Ürünleri

@@ -1,4 +1,4 @@
-# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-309 alternetivo.cz · home · https://www.alternetivo.cz/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Alternetivo | IT distributor | Switching/routing, monitoring, síťová bezpečnost, kabeláže, bezdrátové a optické sítě
 Jazyk / Language EN
 SK
@@ -110,6 +110,10 @@ Praha - ALT
 Zyxel - Technické školení
 Další školení a semináře
 Aktuality
+Top novinka
+Ve čtvrtek 19.11. mezi a dojde k cca. 30-60 minutovému výpadku B2B portálu
+Ve čtvrek 19.11.2026 mezi a budou prováděny servisní práce na našich serverech, které způsobí výpadek B2B portálu cca. 30-60 minut - bohužel přesnější čas výpadku nejsme schopni nyní odhadnout. Za způsobené komplikace se omlouváme.
+Celý text
 02.11.2026
 WatchGuard RAI: Když AI nehlásí, ale koná
 Každý dnes mluví o umělé inteligenci v bezpečnosti, ale většina nástrojů funguje pořád stejně...ale WatchGuard obrací list.
@@ -149,11 +153,6 @@ Pro dealery
 Spustili jsme specializovaný web o Ruckus Networks!
 Protože chceme, abyste měli všechny podstatné informace o Ruckus Networks přehledně na jednom místě, spustili jsme pro vás zbrusu nový web.
 Celý text Další informace
-04.05.2026
-Pro dealery
-WatchGuard AuthPoint nyní jako nativní MFA pro Microsoft Entra ID
-Máme skvělou zprávu pro všechny organizace využívající ekosystém Microsoft! WatchGuard v rámci jarní vlny aktualizací pro rok 2026 představil zásadní rozšíření.
-Celý text
 Všechny aktuality
 Speciální akce
 30.10.2026
@@ -242,4 +241,4 @@ V čisté síťařině nenechává Zyxel nic náhodě a plně pokrývá potřeby
 SPE, neboli Single Pair Ethernet
 SPE, neboli Single Pair Ethernet, je nová technologie Ethernetu, která umožňuje přenos dat a případně napájení přes jediný pár kroucených vodičů na velkou vzdálenost. Jedná se o efektivní a nákladově úsporné řešení pro průmyslové aplikace, automatizaci budov a automobilový průmysl.
 Nové typy transceiverů pro 400Gb/s a vyšší rychlosti: kam se posouvá optika pro datacentra a DCI
-Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombinaci změn v elektrickém rozhraní (SerDes), modulaci, optické architektuře i mechanických formátech modulů. V praxi se dnes trh dělí na dvě hlavní větve: na klientskou optiku" (krátký dosah uvnitř datacentra) a koherentní pluggable optiku pro datacenter interconnec
+Růst provozu v datacentrech, cloudových službách a hlavně AI/HPC clusterech v posledních letech výrazně zrychlil přechod od 100G/200G linek k 400G a dál k 800G. Nejde přitom jen o „dvojnásobnou rychlost", ale o kombinaci změn v elektrickém rozhraní (SerDes), modulaci, optické architektuře i mechanických formátech modulů. V praxi se dnes trh dělí na dvě hlavní větve: na klientskou optiku" (krátký dosah uvnitř

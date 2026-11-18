@@ -1,16 +1,16 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-WiFi & Home Networking
 Indoor Access Points
+WiFi & Home Networking
 Outdoor Access Points
 Fibre Networking
 Audio Visual
@@ -31,13 +31,13 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-WiFi & Home Networking
 Indoor Access Points
+WiFi & Home Networking
 Outdoor Access Points
 Fibre Networking
 Audio Visual
@@ -203,6 +203,7 @@ GOLF
 MikroTik
 Mimosa
 Optcore
+PATCHBOX
 Reolink
 Reyee / Ruijie
 Tenda
@@ -210,16 +211,13 @@ Ubiquiti
 UF-Tools
 UltraLAN
 Yeelight
-Keypads & Buttons 6 products
+Keypads & Buttons 7 products
 Sensors 18 products
 Hubs 5 products
 Range Extenders 3 products
 Sirens 3 products
-Relays & Accessories 2 products
+Relays & Accessories 3 products
 Shop All AJAX Products
-Axxe Dash Cameras 3 products
-Axxe Cables 4 products
-Shop All Axxe Products
 Cudy Access Points 2 products
 Cudy WiFi Routers 8 products
 Cudy LTE Routers 3 products
@@ -269,7 +267,9 @@ Fiber Flyleads 7 products
 DACs 4 products
 SFP Modules 11 products
 Shop All Optcore Products
-Reolink WiFi Cameras 9 products
+PATCHBOX Rack Mounting & Cable Management 4 products
+Shop All PATCHBOX Products
+Reolink WiFi Cameras 13 products
 Reolink PoE Cameras 20 products
 Reolink Home Hub 1 products
 Reolink NVR 7 products
@@ -490,8 +490,6 @@ GOLF
 MikroTik
 Mimosa
 Optcore
+PATCHBOX
 Reolink
-Reyee / Ruijie
-Tenda
-Ubiquiti
-U
+Reyee /

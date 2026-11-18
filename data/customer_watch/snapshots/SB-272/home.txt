@@ -1,4 +1,4 @@
-# SB-272 electronikhouse.it · home · https://electronikhouse.it/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-272 electronikhouse.it · home · https://electronikhouse.it/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Home - Electronik House
 Salta al contenuto
 Ricerca per:
@@ -24,6 +24,8 @@ Batteria compatibile. 3 celle – 10.8 / 11.1 V – 3000 mAh – 33 Wh – color
 Leggi tutto
 Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
+Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
+Leggi tutto
 Batteria compatibile. 8 celle – 14.4 / 14.8 V – 4400 mAh – 64 Wh – colore NERO – peso 430 grammi circa – dimensioni STANDARD.
 Leggi tutto
 Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
@@ -31,8 +33,6 @@ Leggi tutto
 Batteria compatibile. 9 celle – 10.8 / 11.1 V – 6600 mAh – 73 Wh – colore NERO – peso 480 grammi circa – dimensioni MAGGIORATE.
 Leggi tutto
 Batteria compatibile. 8 celle – 14.4 / 14.8 V – 4400 mAh – 64 Wh – colore NERO – peso 430 grammi circa – dimensioni STANDARD.
-Leggi tutto
-Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
 Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
@@ -52,11 +52,11 @@ Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – color
 Leggi tutto
 Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
-SISTEMA OTTICO E ACUSTICO CON SUONO CRESCENTE PER ASSISTENZA AL PARCHEGGIO UNIVERSALE CON 4 SENSORI E DISPLAY A LED
-Leggi tutto
 SISTEMA TELECAMERE UNIVERSALE PER RETROMARCIA CON MONITOR INTEGRABILE NEL PORTATARGA
 Leggi tutto
 PENNA CON VIDEOCAMERA FULLHD PER REGISTRAZIONI AUDIOVIDEO
+Leggi tutto
+SISTEMA OTTICO E ACUSTICO CON SUONO CRESCENTE PER ASSISTENZA AL PARCHEGGIO UNIVERSALE CON 4 SENSORI E DISPLAY A LED
 Leggi tutto
 LAMPADA LED PER ESTERMO CON SENSORE DI MOVIMENTO
 Leggi tutto
@@ -92,21 +92,23 @@ VIDEO GRABBER USB 2.0
 Leggi tutto
 Batteria compatibile. 4 celle – 7.2 / 7.4 V – 5000 mAh – 35 Wh – colore NERO – peso 210 grammi circa – dimensioni STANDARD.
 Leggi tutto
-Network Video Recorder 32 Canali – 8MP UHD – H265
+Alimentatore per Telecamere 12V 1A – Formato Wallmount
 Leggi tutto
-IP Camera 8MP Bullet Ottica Varifocale Motorizzata 2,7 -13,5 Mm POE – H265
+Telecamera Universale 5MP 4 in 1 AHD Dome ottica fissa 3,6mm
 Leggi tutto
-Network Video Recorder 32 Canali – 8MP UHD – H265
+Connettore BNC Maschio Per cavo RG59
 Leggi tutto
-IP Camera 5MPX Bullet ottica fissa 3,6mm POE – H265
+Telecamera Universale 2MP 1080P 4 in 1 AHD Bullet ottica fissa 3,6mm
 Leggi tutto
-Rilevatore Filare FDT12 Doppia Tecnologia IR + MW – Snodo Incluso
+Universal Video Recorder ibrido 5MP 5 in 1 – 4 canali Analogici + 2 Digitali
 Leggi tutto
-IP Camera 4MPX mini Dome ottica fissa 2,8 mm POE WDR
+Staffa Per Telecamere VulTech Serie VS
 Leggi tutto
 Ricerca per:
 Ultimi prodotti
 Batteria compatibile. 3 celle – 10.8 / 11.1 V – 3000 mAh – 33 Wh – colore NERO – peso 160 grammi circa – dimensioni STANDARD.
+Leggi tutto
+Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
 Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
@@ -117,8 +119,6 @@ Leggi tutto
 Batteria compatibile. 9 celle – 10.8 / 11.1 V – 6600 mAh – 73 Wh – colore NERO – peso 480 grammi circa – dimensioni MAGGIORATE.
 Leggi tutto
 Batteria compatibile. 8 celle – 14.4 / 14.8 V – 4400 mAh – 64 Wh – colore NERO – peso 430 grammi circa – dimensioni STANDARD.
-Leggi tutto
-Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
 Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
@@ -138,11 +138,11 @@ Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – color
 Leggi tutto
 Batteria compatibile. 6 celle – 10.8 / 11.1 V – 4400 mAh – 48 Wh – colore NERO – peso 320 grammi circa – dimensioni STANDARD.
 Leggi tutto
-SISTEMA OTTICO E ACUSTICO CON SUONO CRESCENTE PER ASSISTENZA AL PARCHEGGIO UNIVERSALE CON 4 SENSORI E DISPLAY A LED
-Leggi tutto
 SISTEMA TELECAMERE UNIVERSALE PER RETROMARCIA CON MONITOR INTEGRABILE NEL PORTATARGA
 Leggi tutto
 PENNA CON VIDEOCAMERA FULLHD PER REGISTRAZIONI AUDIOVIDEO
+Leggi tutto
+SISTEMA OTTICO E ACUSTICO CON SUONO CRESCENTE PER ASSISTENZA AL PARCHEGGIO UNIVERSALE CON 4 SENSORI E DISPLAY A LED
 Leggi tutto
 LAMPADA LED PER ESTERMO CON SENSORE DI MOVIMENTO
 Leggi tutto
@@ -180,11 +180,11 @@ Batteria compatibile. 4 celle – 7.2 / 7.4 V – 5000 mAh – 35 Wh – colore 
 Leggi tutto
 DISPOSITIVO DIGITALIZZAZIONE CASSETTE AUDIO USB
 Leggi tutto
-Batteria compatibile. 4 celle – 7.2 / 7.4 V – 4400 mAh – 31 Wh – colore NERO – peso 210 grammi circa – dimensioni STANDARD.
-Leggi tutto
 Batteria compatibile. 8 celle – 14.4 / 14.8 V – 4400 mAh – 64 Wh – colore NERO – peso 430 grammi circa – dimensioni MAGGIORATE.
 Leggi tutto
 STAMPANTE CANON MFC INK TR 4550 BLACK 4 IN 1 F/R LCD USB WIFI
+Leggi tutto
+Batteria compatibile. 4 celle – 7.2 / 7.4 V – 4400 mAh – 31 Wh – colore NERO – peso 210 grammi circa – dimensioni STANDARD.
 Leggi tutto
 Batteria compatibile. 8 celle – 14.4 / 14.8 V – 4400 mAh – 64 Wh – colore NERO – peso 430 grammi circa – dimensioni STANDARD.
 Leggi tutto

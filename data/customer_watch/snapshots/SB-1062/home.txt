@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · home · https://www.odoo.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1062 odoo.com · home · https://www.odoo.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Open Source ERP and CRM | Odoo
 Skip to Content
 Odoo
@@ -58,7 +58,7 @@ Helpdesk
 Productivity
 Artificial Intelligence
 Discuss
-VoIP
+Phone
 IoT
 Documents
 Knowledge
@@ -102,10 +102,10 @@ Food
 Brewery
 Corporate Gifts
 Health & Fitness
-Sports Club
+Sports Facilities
 Eyewear Store
 Fitness Center
-Wellness Practitioners
+Personal Trainer
 Pharmacy
 Hair Salon
 Trades
@@ -180,8 +180,8 @@ Micro entreprise (1-5 employés) - Français
 Petite entreprise (6-50 employés) - Français
 Empresas Pequeñas (<50 empleados) - Español
 Large company (250+ employees)
-Odoo Business Show Raleigh, North Carolina
-Nov 17, 2026
+Odoo Business Show Oklahoma City, Oklahoma
+Dec 8, 2026
 Register ⟶
 Accounting
 Knowledge
@@ -195,7 +195,7 @@ Discuss
 Documents
 Project
 Timesheets
-Field Service
+Invoicing
 Planning
 Helpdesk
 eCommerce
@@ -233,7 +233,7 @@ Compare Editions
 Open Source + AI = ❤️
 Use Odoo.sh to develop or vibe-code tailored modules. As we are open source, LLMs are already trained on our source code.
 40k+ community apps
-Thanks to its open source development model, Odoo became the world's largest business apps store. Imagine getting an app for every business needs.
+Thanks to its open source development model, Odoo became the world's largest business apps store. Imagine getting an app for every business need.
 Browse Community Apps
 No corporate bullsh*t
 "With most systems, you get 70% of what you hoped. With Odoo, you get more than what you expected. You, guys, will transform the market." - Anonymous competitor
@@ -284,7 +284,7 @@ Podcast
 Blog
 Customers
 Legal • Privacy
-Security
+Security • Trust Center
 English
 الْعَرَبيّة
 Català

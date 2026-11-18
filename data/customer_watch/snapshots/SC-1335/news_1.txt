@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-18T10:22:47Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -369,7 +369,7 @@ UNV IP turret hybrid camera IPC3614LB-AF28K-DL2, 4MP, 2.8mm, LED/IR 30m, Easy
 IPC3614LB-AF28K-DL2
 Price after login
 Login
-stiqtyfree:10
+stiqtyfree:9
 _17:
 avail:0
 infocode: stock
@@ -442,4 +442,4 @@ infocode: avail
 queu:
 shipmin:
 Not in stock
-The Ubiquiti U7 Industrial is an industrial outdoor UniFi dual-band Wi-Fi 7 access point that operates sim
+The Ubiquiti U7 Industrial is an industrial outdoor UniFi dual-band Wi-Fi 7 access point that operates simu

@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -180,39 +180,39 @@ ZTE ZXHN F6705
 Terminal GPON ONT z Wi-Fi 7, 1 portem 2.5G Ethernet oraz 3 porty 1G Ethernet.
 Przejdź do produktu
 Bestsellery
-181,17 zł
-222,84 zł z VAT
-MikroTik L41G-2axD hAP ax lite bezprzewodowy router AX574 (Wi-Fi 6), 4x GE
 269,42 zł
 331,39 zł z VAT
 MikroTik wAP ax zewnętrzny punkt dostępowy Wi-Fi 6 AX3000, 2x GE, PoE IN
-304,19 zł
-374,15 zł z VAT
-MikroTik RouterBOARD C52iG-5HaxD2HaxD-TC hAP ax2 bezprzewodowy router AX1800, 5x GE
+448,39 zł
+551,52 zł z VAT
+MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
 239,00 zł
 293,97 zł z VAT
 MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
+58,95 zł
+72,51 zł z VAT
+Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT
 Promocje
--36%
-40,59 zł
-25,94 zł
-31,91 zł z VAT
-RED Power RP24V1A-PG-WM-EU zasilacz PoE, 24 V, 1 A, gigabit Ethernet (1 Gb/s)
 -45%
-208,30 zł
-115,01 zł
-141,46 zł z VAT
-Opton 1.25G CWDM SFP TX1411 SM LC 40km
--30%
-2 250,00 zł
-1 569,15 zł
-1 930,05 zł z VAT
-NEC iPasolink ODU TRP-10G-1D 350M Lo-A
--31%
-197,81 zł
-137,10 zł
-168,63 zł z VAT
-MikroTik R11e-LR2 moduł miniPCI-e LoRa 2,4 GHz
+131,49 zł
+72,60 zł
+89,30 zł z VAT
+Opton 1.25G CWDM SFP TX1291 SM LC 40km
+-15%
+334,63 zł
+283,06 zł
+348,16 zł z VAT
+Mimosa C5x radio 4.9-6.2 GHz
+-57%
+159,00 zł
+68,55 zł
+84,32 zł z VAT
+Huawei OSG040001 wkładka eSFP, 1310nm, 1,25Gb/s, -5~0dBm, -23dBm, LC, SM, 40km
+-45%
+237,58 zł
+131,18 zł
+161,35 zł z VAT
+Opton 1.25G CWDM SFP TX1411 SM LC 80km
 Promocja!
 -24%
 25 000,00 zł netto
@@ -225,7 +225,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-11-17 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-11-18 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

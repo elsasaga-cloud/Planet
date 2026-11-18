@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Eltrox.cz | Zabezpečovací systémy a chytrá domácnost
 Cookie consent
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
@@ -369,7 +369,6 @@ Elektromagnetické zámky.
 Svodiče přepětí, chrániče.
 Příslušenství ke dronům.
 Video oddělovače.
-LCD monitory.
 Analogové záznamníky.
 Rozdělovače napájení.
 Herní příslušenství –
@@ -398,15 +397,12 @@ Příslušenství pro kamery do auta –
 Příslušenství garážových vrat.
 Převodníky a extendery HDMI.
 USB huby.
-Audio a video příslušenství.
 Příslušenství pro rozvaděče.
-Antény.
 Síťové mosty –
 Příslušenství pro síťová zařízení –
 Mechanické zámky a dveřní kování –
 Fotografické osvětlení a stativy –
 Stahovací pásky.
-Nabíječky do auta.
 Chladiče SSD a teplovodivé pasty –
 Pojistky a držáky pojistek.
 Sport.
@@ -446,8 +442,6 @@ Switche.
 Koaxiální kabely.
 Páječky a pájecí příslušenství –
 Izolační a montážní pásky –
-Časovače a spínače.
-Příslušenství a držáky.
 UHF čtečky –
 Ethernetové a koaxiální převodníky –
 Bezdrátový přenos videosignálu –
@@ -455,12 +449,7 @@ Video dekodéry –
 Detektory kovů –
 Příslušenství pro sportovní kamery –
 Digitální mikroskopy –
-Drátové interkomy.
-Ruční nářadí.
-Odvlhčovače vzduchu –
-Vypínače, stmívače.
 Teplotní čidla.
-Ohřívače.
 Příslušenství pro montáž.
 Vzduchové ústředny, digitální, klávesnice.
 Příslušenství pro zásuvky a vypínače.
@@ -498,16 +487,24 @@ Svářečky a svařovací příslušenství –
 IP kamery.
 Reproduktory.
 Nabíječky USB.
-Inteligentní dům.
-Příslušenství.
 Vláknová optika.
 Patchcordy.
-Řízení přístupu.
-Příslušenství.
 Příslušenství pro domovní zvonky –
 Senzory pro markýzy a venkovní stínění –
 Kontejnery pro systémy řízení přístupu.
 Laminátory a fólie –
 Měřicí přístroje do dílny –
 Kabelové lišty a kanály.
-Softwarov
+Softwarové licence –
+Měniče napětí.
+Diktafony –
+Fotovoltaické rozvaděče a ochrany –
+Montážní chemie –
+Napájecí zdroje na DIN lištu.
+Podložky a stojany k notebookům.
+Počítače, notebooky a příslušenství.
+Tísňová tlačítka.
+Kryty.
+Papír do tiskáren –
+Patch panely.
+Konektory, z

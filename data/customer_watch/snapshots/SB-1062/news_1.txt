@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-18T10:22:47Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -58,7 +58,7 @@ Helpdesk
 Productivity
 Artificial Intelligence
 Discuss
-VoIP
+Phone
 IoT
 Documents
 Knowledge
@@ -102,10 +102,10 @@ Food
 Brewery
 Corporate Gifts
 Health & Fitness
-Sports Club
+Sports Facilities
 Eyewear Store
 Fitness Center
-Wellness Practitioners
+Personal Trainer
 Pharmacy
 Hair Salon
 Trades
@@ -185,7 +185,10 @@ Odoo News
 Business Hacks
 Success Stories
 Loading...
-1795 result(s)
+1796 result(s)
+Odoo expands partnership with Salt Edge and is the first to go live with Bulk Payments
+Nov 17, 2026
+Odoo News
 More Tools or Better Systems?
 Nov 16, 2026
 Partner Stories
@@ -217,9 +220,6 @@ Caelum Pets & Odoo: Efficient Centralization
 Nov 9, 2026
 Customer Reviews
 Odoo Launches Education Program in Sri Lanka
-Nov 8, 2026
-Odoo News
-First-ever Cambodia Nationwide Odoo Business Challenge!
 Nov 8, 2026
 Odoo News
 1
@@ -664,7 +664,7 @@ Podcast
 Blog
 Customers
 Legal • Privacy
-Security
+Security • Trust Center
 English
 الْعَرَبيّة
 Català

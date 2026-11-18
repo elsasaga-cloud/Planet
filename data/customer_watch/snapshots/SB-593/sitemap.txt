@@ -1,4 +1,4 @@
-# SB-593 ibdglobal.com · sitemap · https://www.ibdglobal.com/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-593 ibdglobal.com · sitemap · https://www.ibdglobal.com/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
 2026-04-28	https://www.ibdglobal.com/alta-nuevo-cliente
 2024-10-30	https://www.ibdglobal.com/aviso-legal
 2021-07-05	https://www.ibdglobal.com/categories
@@ -156,6 +156,7 @@
 	https://www.ibdglobal.com/shop/category/networking-wairlink-130
 	https://www.ibdglobal.com/shop/category/outlet-979
 	https://www.ibdglobal.com/shop/category/video-ajax-128
+	https://www.ibdglobal.com/shop/category/video-ajax-promo-1579
 	https://www.ibdglobal.com/shop/category/video-ajax-superior-1584
 	https://www.ibdglobal.com/shop/category/video-ajax-superior-camaras-1585
 	https://www.ibdglobal.com/shop/category/video-ajax-superior-camaras-bulletcam-1586
@@ -171,5 +172,4 @@
 	https://www.ibdglobal.com/shop/category/video-ajax-baseline-grabadores-116
 	https://www.ibdglobal.com/shop/category/video-ajax-baseline-timbres-1559
 	https://www.ibdglobal.com/shop/category/video-ajax-servicios-114
-	https://www.ibdglobal.com/shop/category/video-ajax-accesorios-118
-	https://www.ibdglobal.com/shop/ca
+	https://www.ibdglobal.com/shop/catego

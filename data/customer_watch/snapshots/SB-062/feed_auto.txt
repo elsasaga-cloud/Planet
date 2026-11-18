@@ -1,2 +1,2 @@
-# SB-062 Aarya ITES Pvt. Ltd. · feed_auto · https://www.a-ites.com/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
-Thu, 23 Jun 2022 11:28:27 +0000	Hello world!	https://www.a-ites.com/hello-world/
+# SB-062 Aarya ITES Pvt. Ltd. · feed_auto · https://www.a-ites.com/feed/ · fetched 2026-11-18T10:22:47Z · HTTP 500
+{"code":"mysql_not_found","message":" Your PHP installation appears to be missing the MySQL extension which is required by WordPress. \n Please check that the mysqli PHP extension is installed and enabled. \n If you are unsure what these terms mean you should probably contact your host. If you still need help you can always visit the WordPress support forums . \n","data":{"status":500},"additional_errors":[]}

@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · home · https://www.ecin.ca · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-749 ecin.ca · home · https://www.ecin.ca · fetched 2026-11-18T10:22:47Z · HTTP 200
 Open Networking Systems Integrator | ECIN Canada
 Skip to Content
 Open Solutions
@@ -68,9 +68,9 @@ EN
 FR
 Sign in
 Contac​​​​t ​​​​​​Us
-Unlock Your Network
-Break free from vendor lock-in. Seamless connectivity, proven reliability, and future-proof infrastructure.
-Discover Our Solutions
+Explore Open Connectivity
+Explore Open Visibility
+Explore Timing & Sync
 All Your Networking Needs. One Shop.
 From optics to switches — everything ships from our Canadian warehouse.
 SONiC Switches

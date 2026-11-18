@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -41,7 +41,7 @@ Platformy WLAN (2)
 Radiolinie (85)
 Routery (183)
 Routery ADSL (5)
-Światłowody (1706)
+Światłowody (1707)
 Switche (681)
 Szafy rack 10/19 cali (500)
 Telewizja cyfrowa DVB-T (69)
@@ -291,43 +291,44 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Szafkowy zasilacz buforowy ZBF-R35D
-170,97 zł z VAT
-212,79 zł
-139,00 zł netto
-szt
-Najniższa cena z 30 dni: 212,79 zł
 WYPRZEDAŻ
-MikroTik RouterBoard R11e-LR2
-184,50 zł z VAT
-247,35 zł
-150,00 zł netto
+MikroTik CRS125-24G-1S-2HnD-IN - obudowa RACK 19"
+72,57 zł z VAT
+196,80 zł
+59,00 zł netto
 szt
-Najniższa cena z 30 dni: 247,35 zł
-Wireless Instruments ISA5-14V
-84,87 zł z VAT
-210,71 zł
-69,00 zł netto
+Najniższa cena z 30 dni: 196,80 zł
+NOWOŚĆ
+Teltonika ATRM50 router 5G
+2 890,50 zł z VAT
+3 907,21 zł
+2 350,00 zł netto
 szt
-Najniższa cena z 30 dni: 210,71 zł
-Interline SECTOR HP
-92,25 zł z VAT
-202,95 zł
-75,00 zł netto
+Najniższa cena z 30 dni: 3 907,21 zł
+TP-Link Deco X10
+207,87 zł z VAT
+300,99 zł
+169,00 zł netto
 szt
-Najniższa cena z 30 dni: 202,95 zł
-Wisnetworks WIS-L520AC Sector Base Station
-479,70 zł z VAT
-805,90 zł
-390,00 zł netto
-szt
-Najniższa cena z 30 dni: 805,90 zł
+Najniższa cena z 30 dni: 300,99 zł
 Szafkowy zasilacz buforowy ZBF-R35E
 183,27 zł z VAT
 232,47 zł
 149,00 zł netto
 szt
 Najniższa cena z 30 dni: 232,47 zł
+Wisnetworks WIS-L5820S Sector Base Station
+479,70 zł z VAT
+719,55 zł
+390,00 zł netto
+szt
+Najniższa cena z 30 dni: 719,55 zł
+Pigtail U.FL - N/m (20 cm)
+8,49 zł z VAT
+18,91 zł
+6,90 zł netto
+szt
+Najniższa cena z 30 dni: 18,91 zł
 Najnowsze propozycje
 NOWOŚĆ
 Moduł keystone 10G RJ-45 UTP kat.6a, samozaciskowy, kolorowe moduły (SXKJ-10G-UTP-RAL-SA)
@@ -355,8 +356,8 @@ TP-Link Fusion 2.5G PoE
 szt
 NOWOŚĆ
 Ubiquiti Access Fail-Safe Strike Lock (UACC-Lock-Strike-Safe-15mm)
-421,13 zł z VAT
-342,38 zł netto
+422,20 zł z VAT
+343,25 zł netto
 szt
 NOWOŚĆ
 Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
@@ -365,13 +366,13 @@ Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 745,08 zł z VAT
-6 296,81 zł netto
+7 764,53 zł z VAT
+6 312,63 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect G6 Pro 360 (UVC-G6-Pro-360-B)
-2 595,55 zł z VAT
-2 110,20 zł netto
+2 602,07 zł z VAT
+2 115,50 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
@@ -381,5 +382,4 @@ Tenda CP6 obrotowa kamera do monitoringu domowego
 64,55 zł netto
 more
 WYSYŁKA
-Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
-Kosz
+Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym s

@@ -1,4 +1,4 @@
-# SB-574 lanberg.pl · news_1 · https://lanberg.eu/news · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-574 lanberg.pl · news_1 · https://lanberg.eu/news · fetched 2026-11-18T10:22:47Z · HTTP 200
 Industry news, blog articles, tips | Lanberg
 Skip to content
 Partner Panel
@@ -63,9 +63,13 @@ News
 Guide
 Blog
 News
-November 16, 2026
-Wi-Fi 6 Without Replacing Your Computer. Discover the New Lanberg NC-1800-WI Wireless Adapter!
-Faster and more stable wireless connectivity with Wi-Fi 6. The new Lanberg NC-1800-WI network adapter lets you upgrade your computer’s wireless connection without replacing your hardware.
+November 18, 2026
+Lanberg at ENERGETICS 2026 in Lublin!
+The modern energy sector needs a reliable grid infrastructure. That’s why we’re at ENERGETICS 2026 in Lublin!
+News
+November 18, 2026
+Lanberg at ENERGETICS 2026 in Lublin!
+The modern energy sector needs a reliable grid infrastructure. That’s why we’re at ENERGETICS 2026 in Lublin!
 News
 November 16, 2026
 Wi-Fi 6 Without Replacing Your Computer. Discover the New Lanberg NC-1800-WI Wireless Adapter!
@@ -102,10 +106,6 @@ News
 August 3, 2026
 From organization to security - three new solutions in Lanberg’s product lineup
 Practical accessories that help organize your space and enhance the security of your IT infrastructure.
-News
-July 7, 2026
-Lanberg in the Czech Republic!
-We’re expanding our sales network in the Czech Republic!
 « Previous
 1
 2

@@ -1,4 +1,4 @@
-# SB-173 inaxsys.com · news_1 · https://inaxsys.com/en/about-us/press-center · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-173 inaxsys.com · news_1 · https://inaxsys.com/en/about-us/press-center · fetched 2026-11-18T10:22:47Z · HTTP 200
 Contact Marketing Team | Inaxsys Security Systems
 ICT × Inaxsys: Expanded partnership
 for Protege GX & WX in the USA and Canada.
@@ -16,26 +16,21 @@ Video Decoder
 Arkiv Video Management Software
 All products
 Software Licenses
-Additionnal Licenses
+Additional Licenses
 Training
-Inaxsys Video Recorders
-All products
-Plug & Play Video Recorders
 Inaxsys Servers & Workstations
 All products
+IP Servers
+IP Recorders
 Workstations
 Add-ons
 Accessories
-IP Recorders
-IP Servers
-Inaxsys Power Supplies
-All products
 ICT Access Control
 All products
 Protege DIN Rail
+Proximity RFID Readers, Cards & Tags
 Keypads, Touchscreens & Intercoms
 Wireless Locks
-Proximity RFID Readers, Cards & Tags
 Rover
 Training
 Demo Kit
@@ -45,29 +40,19 @@ Protege WX Kits
 Wireless Products & Accessories
 Enclosures
 ICT EliteSuite
+Pre-Mounted Access Control Solutions
+All products
+Starter Kits
+Additional Doors
+Enclosures
+Inaxsys Power Supplies
+All products
 Inaxsys Communicators & Receivers
 All products
 LTE communicators
 Alarm receivers and line cards
 LTE SIM cards
 Programming Cables
-Ajax Systems
-All products
-SPECIAL KIT PROMO
-Fire detection
-Flood prevention
-Controls and panic buttons
-Automation
-Integration modules
-Comfort & Productivity
-Video Surveillance
-Accessories
-Hub
-Intrusion Protection
-Rover Inaxsys
-All products
-Mobile Surveillance
-All products
 Intercom & Doorbells
 All products
 IP Intercom
@@ -77,6 +62,21 @@ All products
 PoE Switches
 Cables & Connectivity
 Gigabit Switches
+Mobile Surveillance
+All products
+Siteguard
+Ajax Systems
+All products
+SPECIAL KIT PROMO
+Hub
+Video Surveillance
+Intrusion Protection
+Fire detection
+Comfort & Automation
+Accessories
+Inaxsys Video Recorders
+All products
+Plug & Play Video Recorders
 Distributors
 Find a distributor
 Become a distributor
@@ -140,16 +140,16 @@ We're here to make a difference for you.
 Products
 Video Surveillance
 Arkiv Video Management Software
-Inaxsys Video Recorders
 Inaxsys Servers & Workstations
-Inaxsys Power Supplies
 ICT Access Control
+Pre-Mounted Access Control Solutions
+Inaxsys Power Supplies
 Inaxsys Communicators & Receivers
-Ajax Systems
-Rover Inaxsys
-Mobile Surveillance
 Intercom & Doorbells
 Networking
+Mobile Surveillance
+Ajax Systems
+Inaxsys Video Recorders
 About us
 Careers
 Press center

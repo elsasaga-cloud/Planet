@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · home · https://www.tramaweb.com.br/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1090 tramaweb.com.br · home · https://www.tramaweb.com.br/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Grupo Trama Reputale | Agência de Comunicação Corporativa em SP Grupo Trama Reputale | Agência de Comunicação Corporativa em SP
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -108,7 +108,7 @@ Diversidade nas empresas: o papel da Comunicação Interna
 Grandes empresas estão revendo suas políticas de diversidade e inclusão. Como a Comunicação Interna pode ajudar a proteger esses compromissos e fortalecer a cultura organizacional?
 16 novembro 2026
 Inteligência Artificial
-Business Hub: Empresas agora podem gerenciar seus perfis no ChatGPT
+Business Hub: ChatGPT agora permite que empresas gerenciem um perfil de marca
 OpenAI lança o Business Hub, ferramenta que permite atualizar informações corporativas e acompanhar como empresas aparecem na plataforma. Entenda o impacto para a reputação digital.
 13 novembro 2026
 Digital
@@ -124,7 +124,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-Email
+Name
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

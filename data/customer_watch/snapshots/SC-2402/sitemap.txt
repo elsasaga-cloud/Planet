@@ -1,4 +1,4 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
 2026-11-16	https://www.sisegusa.com/home
@@ -78,9 +78,16 @@
 	https://www.sisegusa.com/shop/tp-eap723-access-point-tplink-omada-be5000-wifi-7-mu-mimo-multi-gigabit-8448
 	https://www.sisegusa.com/shop/hw-ap661-access-point-wifi-6-alta-densidad-de-techo-ax6600-huawei-10068
 	https://www.sisegusa.com/shop/hw-ap266-access-point-wifi-6-de-pared-ax3000-huawei-10062
+	https://www.sisegusa.com/shop/hw-ap361h-access-point-wifi-6-de-techo-ax1800-huawei-10463
 	https://www.sisegusa.com/shop/hw-ap361-access-point-wifi-6-de-techo-ax1800-huawei-10063
+	https://www.sisegusa.com/shop/hw-ap362h-access-point-wifi-6-de-techo-ax3000-huawei-10464
 	https://www.sisegusa.com/shop/hw-ap362e-access-point-wifi-6-de-techo-ax3000-huawei-10065
 	https://www.sisegusa.com/shop/hw-ap761-access-point-wifi-6-exterior-ax1800-huawei-10070
+	https://www.sisegusa.com/shop/hw-ap673-access-point-wifi-7-alta-densidad-de-techo-13-66gbps-doble-banda-huawei-10466
+	https://www.sisegusa.com/shop/hw-ap371-access-point-wifi-7-de-techo-3-57gbps-doble-banda-huawei-10465
+	https://www.sisegusa.com/shop/hw-ap771-access-point-wifi-7-para-exterior-omnidireccional-360deg-3-57gbps-doble-banda-huawei-10467
+	https://www.sisegusa.com/shop/hw-ap772-access-point-wifi-7-para-exterior-omnidireccional-360deg-6-45gbps-doble-banda-huawei-10468
+	https://www.sisegusa.com/shop/hw-ap772e-access-point-wifi-7-para-exterior-punto-a-punto-6-45gbps-doble-banda-huawei-10469
 	https://www.sisegusa.com/shop/xt-k-cat6-a-cat6-acoplador-utp-en-linea-cat-6-10377
 	https://www.sisegusa.com/shop/hy-ps2023-adaptador-de-voltaje-110vac-5v-2amp-3315
 	https://www.sisegusa.com/shop/hy-ps1014-adaptador-de-voltaje-12v-1amp-3313
@@ -121,12 +128,4 @@
 	https://www.sisegusa.com/shop/hy-an0141h08-antena-vhf-de-12cm-para-radio-136-147mhz-1575mhz-3275
 	https://www.sisegusa.com/shop/hy-an0160h13-antena-vhf-de-15cm-para-radio-146-174mhz-3277
 	https://www.sisegusa.com/shop/hy-an0155h08-antena-vhf-de-20cm-para-radio-136-147mhz-1575mhz-3276
-	https://www.sisegusa.com/shop/zk-zkam10-esclavo-antenas-antihurto-zk-am-esclava-3772
-	https://www.sisegusa.com/shop/zk-zkam10a-esclavo-antenas-antihurto-zk-am-esclava-acrilico-3774
-	https://www.sisegusa.com/shop/zk-zkam10-master-antenas-antihurto-zk-am-principal-3773
-	https://www.sisegusa.com/shop/zk-zkam10a-master-antenas-antihurto-zk-am-principal-acrilico-3775
-	https://www.sisegusa.com/shop/ds-isd-smg1118l-arco-detector-de-metales-18-zonas-3883
-	https://www.sisegusa.com/shop/zk-d2180-arco-detector-de-metales-18-zonas-2966
-	https://www.sisegusa.com/shop/hy-ncn031-arnes-de-pecho-para-bodycam-4228
-	https://www.sisegusa.com/shop/hy-ehn35r-p-audifono-con-microfono-cableado-para-radios-tipo-ap-y-bp-8488
-	https://www.sisegusa.com/shop/hy-es-02-audifono-con-tubo-acustico-para-ser-usado-c
+	https:

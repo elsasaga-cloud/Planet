@@ -1,4 +1,4 @@
-# SB-888 stordis.com · feed_auto · https://stordis.com/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-888 stordis.com · feed_auto · https://stordis.com/feed/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Fri, 13 Nov 2026 13:52:03 +0000	LPO Transceivers: New Switch2Open 800G and 1.6T Modules	https://stordis.com/lpo-transceivers/
 Tue, 10 Nov 2026 13:48:04 +0000	Enterprise SONiC by Broadcom: 7 Essential Facts	https://stordis.com/enterprise-sonic-by-broadcom/
 Fri, 09 Oct 2026 13:02:31 +0000	Coherent Optics Explained: 6 Critical Facts Powering 100G ZR Transceivers	https://stordis.com/coherent-optics-explained/

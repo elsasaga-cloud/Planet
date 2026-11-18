@@ -1,4 +1,7 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-17T10:52:12Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-18T10:22:47Z · HTTP 200
+18.11.2026 10:27:54	Aten Secure KVM Switch 8pUSB DisplayPort	https://www.leteng.no/aten/cs1148dp4c-at-g/aten-secure-kvm-switch-8pusb-displayport-cac-dual-display-niap-psd-pp-4-dot-0
+18.11.2026 09:58:47	Aten Secure KVM Switch 8pUSB DVI	https://www.leteng.no/aten/cs1148d4c-at-g/aten-secure-kvm-switch-8pusb-dvi-cac-dual-display-niap-psd-pp-4-dot-0
+17.11.2026 13:03:58	Lindy Adapter Mini DisplayPort >DVI	https://www.leteng.no/lindy/38318/lindy-adapter-mini-displayport--gt-dvi-videokilde-displayport
 16.11.2026 16:21:08	Middle Atlantic Vifte Kit 138 CFM	https://www.leteng.no/middle-atlantic-products/fan-138-k-eu/middle-atlantic-vifte-kit-138-cfm
 12.11.2026 15:41:13	EFB Hylle 1U Uttrekkbar 450mm	https://www.leteng.no/efb-elektronik/691651agr-dot-6/efb-hylle-1u-uttrekkbar-450mm-1u-gr%c3%a5-max-30kg
 12.11.2026 15:36:40	SCP CAT 6A U/FTP 600 MHZ	https://www.leteng.no/scp/cat6ash-prem-ls-bl-b/scp-cat-dot-6-u-ftp-600-mhz-305-m-trommel-23awg-solid-isbl%c3%a5-lszh
@@ -96,6 +99,3 @@
 09.09.2026 12:23:28	Kramer EXT3-H-POE-R	https://www.leteng.no/kramer/ext3-h-poe-r/kramer-ext3-h-poe-r-hdbaset-3-dot-0-extender-4k60-poe
 08.09.2026 11:38:24	Apto Kabelhylle Sort, 147 cm	https://www.leteng.no/apto-plus/3070-0002-9005/apto-kabelhylle-sort-147-cm-sort-metall-1470x152x78mm-lxbxh
 08.09.2026 11:31:57	Apto Kabelhylle Åpen Sort, 74cm	https://www.leteng.no/apto-plus/3052-0000-9005/apto-kabelhylle-%c3%a5pen-sort-74cm-sort-metall-740x151x81mm-lxbxh
-08.09.2026 10:37:32	DFY Kabelpose Mini	https://www.leteng.no/aic-all-in-cable/kde-gry-cb/dfy-kabelpose-mini-m%c3%b8rk-gr%c3%a5-250x200x350-160
-08.09.2026 10:34:39	DFY KabelposeSmall	https://www.leteng.no/aic-all-in-cable/kde-gry-cb380/dfy-kabelposesmall-m%c3%b8rk-gr%c3%a5-380x200x350-160
-08.09.2026 10:31:08	DFY Kabelpose Large	https://www.leteng.no/leteng-as/kde-gry-cb645/dfy-kabelpose-large-m%c3%b8rk-gr%c3%a5-645x200x350-160

@@ -1,4 +1,4 @@
-# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica
 Ingresa a
 tu cuenta
@@ -11,28 +11,6 @@ Menú de navegación
 ⭐ Recomendados
 Eventos y certificaciones
 Ver todas
-17 de noviembre
--
-UNIARCH | PRESENTACIÓN DEL PORTAFOLIO
-Capacitación Comercial
-En línea
-17 de noviembre
--
-ZKTECO | SOLUCIONES DE ASISTENCIA EN LA NUBE (1 DÍA)
-Roadshow
-Presencial
-MEX-TOLUCA
-20 DE NOVIEMBRE 708, ALVARO OBREGON
-17 de noviembre
--
-UNIARCH | PRESENTACIÓN DEL PORTAFOLIO
-Capacitación Comercial
-En línea
-17 de noviembre
--
-TVC EN LÍNEA | INDUCCIÓN A TVCENLÍNEA.COM
-Capacitación Comercial
-En línea
 18 de noviembre
 -
 IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
@@ -40,6 +18,13 @@ Taller
 Presencial
 MEX-IZTACALCO
 CAFETAL 445, GRANJAS MEXICO
+18 de noviembre
+-
+ZKTECO | SOLUCIONES DE ASISTENCIA EN LA NUBE (1 DÍA)
+Roadshow
+Presencial
+CHIHUAHUA
+AV. DE LAS INDUSTRIAS 3704, NOMBRE DE DIOS
 18 de noviembre
 -
 DSC | CERTIFICACIÓN POWER SERIES NEO (3 DÍAS)
@@ -64,6 +49,11 @@ Certificación
 Presencial
 TORREON
 RIO CONCHOS 1456, MAGDALENAS
+19 de noviembre
+-
+DSC | PROGRAMACIÓN BÁSICA NEOA CRA
+Capacitación Comercial
+En línea
 20 de noviembre
 -
 UNIARCH | SOLUCIONES ANALÓGICAS
@@ -77,7 +67,7 @@ Presencial
 SAN LUIS
 20 de noviembre
 -
-UBIQUITI | UNIFI REPASO TÉCNICO INTEGRADOR Y MEJORES PRÁCTICAS DE DOCUMENTACIÓN DE PROYECTO
+UBIQUITI | UNIFI REPASO TÉCNICO INTEGRADOR Y MEJORES PRÁCTICAS WIFI
 Capacitación Comercial
 En línea
 23 de noviembre
@@ -108,11 +98,6 @@ SAN LUIS
 VIVOTEK | HYBRID SOLUTIONS
 Capacitación Comercial
 En línea
-24 de noviembre
--
-ZKTECO | ARQUITECTURA MULTISUCURSAL CON SINCRONIZACIÓN BIOMÉTRICA CENTRALIZADA
-Capacitación Comercial
-En línea
 25 de noviembre
 -
 BOSCH | PRINCIPIOS BÁSICOS DE DETECCIÓN DE INCENDIO: NORMAS Y VERTICALES COMERCIALES (1 DÍA)
@@ -125,6 +110,25 @@ AV. PINO SUAREZ 2488, VERACRUZ CENTRO
 DSC | VENTAJAS DE DSC NEO Y POWERG
 Capacitación Técnico - Comercial
 En línea
+26 de noviembre
+-
+ZKTECO | CONFIGURACIÓN DE DISPOSITIVOS SENSEFACE A TRAVÉS DE ZKBIO ZLINK
+Capacitación Técnico - Comercial
+En línea
+26 de noviembre
+-
+GRANDSTREAM | ROADMAP COMERCIAL (1 DÍA)
+Taller
+Presencial
+PUEBLA
+19 NORTE 1602, TAMBORCITO
+26 de noviembre
+-
+HYXI POWER | INSTALACIÓN Y PUESTA EN MARCHA DE MICROINVERSOR E INVERSOR DE CADENA / TALLER
+Taller
+Presencial
+VERACRUZ
+AV. PINO SUAREZ 2488, VERACRUZ CENTRO
 No hay eventos que coincidan con los filtros seleccionados.
 Ver todas
 ☁️ ¡Respaldo en la nube!

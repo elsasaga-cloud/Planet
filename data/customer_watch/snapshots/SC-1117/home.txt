@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -7,7 +7,7 @@ Noticias 0 Especiales
 Noticias 0 Especiales
 Productos
 Nuevos Demos Para Ti Caja Abierta Eventos Soporte
-Blog Apps
+Apps
 SYSCOM
 Lo más vendido Nuevos Demos Noticias Especiales Eventos Blog Caja Abierta Soporte
 Soluciones y marcas
@@ -143,8 +143,8 @@ Quiénes somos
 Acerca de SYSCOM Certificación ISO 9001:2015 Afiliación ANATEL Código de ética Bolsa de trabajo Política de venta Política de garantía Clasificación de equipos Devoluciones Aviso de privacidad Contacto Términos y condiciones
 Ver más Acerca de SYSCOM Certificación ISO 9001:2015 Afiliación ANATEL Código de ética Bolsa de trabajo Política de venta Política de garantía Clasificación de equipos Devoluciones Aviso de privacidad Contacto Términos y condiciones
 Publicaciones
-Eventos Especiales Syscomblog Radios KENWOOD
-Ver más Eventos Especiales Syscomblog Radios KENWOOD
+Eventos Especiales Blog Syscomblog Radios KENWOOD
+Ver más Eventos Especiales Blog Syscomblog Radios KENWOOD
 Herramientas
 Envíos sin costo MCP - Agentes AI SYSCOM Cash Material de marketing SYSCOM Outlet Cotiza a tus clientes Facturación electrónica Soporte técnico Concesión de frecuencias Servicios web
 Ver más Envíos sin costo MCP - Agentes AI SYSCOM Cash Material de marketing SYSCOM Outlet Cotiza a tus clientes Facturación electrónica Soporte técnico Concesión de frecuencias Servicios web
@@ -170,47 +170,51 @@ Carrito
 Productos
 Noticias
 Ver todas
-Nicolas · 1d · Videovigilancia
-El domo que aguanta el golpe y sigue grabando
-La DS-2CD1143G2-LIUF de Hikvision es un domo IP de 4 MP con lente de 2.8 mm y carcasa antivandálica IK08: resiste el impacto sin salir de línea. Dual Light de 30 m en IR y luz blanca, micrófono integrado, Motion Detection 2.0 que separa personas y vehículos, IP67 y PoE 802.3af.
-Conoce el domo antivandálico de Hikvision
-Daniel · 1d · Alarmas e Intrusión
-La reja perimetral ya distingue un corte de una ráfaga de viento
-El kit IRONCLAD IROC2Z250V2 cubre 150 m de cerco en 2 zonas independientes con cable sensor blindado: detecta vibración por corte o escalamiento y descarta viento, lluvia y tráfico. Incluye tarjeta LPU400 y calibración por software, sin potenciómetros a media reja.
-Conoce el kit IRONCLAD de 150 m 1
-Rafael · 1d · Redes
-6 Gbps de Wi-Fi 6 en exteriores con certificación IP67
-El GWN7664ELR cubre 300 m y soporta 512 dispositivos simultáneos con MU-MIMO 4x4:4 y OFDMA. Doble puerto 2.5G: Ethernet y SFP para fibra, con gestión vía web, GWN.Cloud o GWN.Manager.
-Conoce el GWN7664ELR de Grandstream
-Victor · 2d · Alarmas e Intrusión
-Tu panel de alarma ya no necesita teclado ni licencias
-El DX FULL WIFI de DXControl se conecta a la mayoría de paneles del mercado por CONTACT ID: armas y desarmas desde la app Full Control, sin licencias ni renta mensual. Cada evento llega como notificación PUSH, suma 2 relés domóticos para luces o portones, programación vía web y WiFi 2.4 GHz. Alimentación 12 V DC.
-Conecta tu panel sin pagar licencias
-Nicolas · 2d · Videovigilancia
-Ocho cámaras, un cable y ningún switch PoE en medio
-El DS-7608NI-Q1/8P(E) de Hikvision integra los 8 puertos PoE+ al grabador: cada cámara recibe video y energía por el mismo UTP, con modo extendido a 300 m. Graba 4K en los 8 canales a 30 IPS con H.265+, suma AcuSense para separar personas y vehículos del resto del movimiento, y entrega HDMI 4K y VGA simultáneos. Una bahía de hasta 8 TB.
-Conoce el NVR con PoE integrado
-Fernando · 2d · Redes
-La cámara se colgó a las 11 de la noche. Nadie subió al techo.
-PD Alive vigila cada puerto PoE y reinicia sola la cámara que deja de responder. El WI-PCES210G-O de Wi-Tek suma 8 puertos con 100 W, Hi-PoE de 45 W en los dos primeros, modo Extend a 250 m y gabinete IP65 de -30 a 60 °C. Gestión cloud gratuita con detección ONVIF.
-Conoce el switch que reinicia solo
-Sylvia · 2d · GPS y M2M
+Gregorio · 13h · Audio e Intercom
+Tres equipos Yealink que arman la sala de juntas completa
+El RoomPanel E2 reserva la sala desde una pantalla táctil de 8 pulgadas con barras LED de estado y PoE. La SmartVision 80 suma 4 lentes con zoom óptico 20x y seguimiento por IA para salas grandes. El switch RCH40-E2 alimenta y conecta todo con 4 puertos PoE y 90 W.
+Ya disponibles en SYSCOM.
+Arma tu sala de juntas con Yealink
+Marvin · 13h · Energía Solar
+Cuando sobra sol, la casa lo aprovecha sola
+Victron Energy y Shelly ya se hablan: los dispositivos Shelly se integran al ecosistema Victron por red local, sin nube de por medio. Victron administra generación, inversores y baterías; Shelly mide consumos y acciona cargas. Un Shelly 1PM Gen3 en el calentador de agua basta para encenderlo con excedente solar y apagarlo cuando baja la batería.
+Mira cómo se hablan Victron y Shelly
+Sylvia · 14h · Lanzamiento
 El lanzamiento de las alarmas vehiculares Teltonika es hoy a las 3 pm
 La línea llega con tres equipos: el inmovilizador IMB5 por tarjeta RFID 2.4 GHz, y los GN7C.HP y GN7C.HUPS.KRH con relé de motor de 25 A, sensores de choque e inclinación y CAN bus para más de 800 modelos. La presentación arranca a las .
 Conoce las alarmas Teltonika
-Rafael · 2d · Redes
-Wi-Fi de largo alcance para patios y estacionamientos
-El GWN7630LR es un access point exterior 802.11ac Wave-2 de 2.33 Gbps con MU-MIMO 4x4:4, carcasa para intemperie y administración desde la nube gratuita o stand-alone.
-Conoce el GWN7630LR de Grandstream
-Gregorio · 3d · Telefonía IP
-Llegó el stock de Yealink: teléfonos, diademas y salas completas
-La serie YHS ya está en piso: YHS34 y YHS36 E2, en versión mono y dual, con cancelación de ruido y QD a RJ9. El WPP30 suma presentación inalámbrica 4K por USB-C con WiFi 6, y la SmartVision 80 pone 4 lentes con 20x de zoom en la sala. Los MP54 y MP56 E2 Teams completan la línea de escritorio.
-Y muchas cosas más en syscom.mx.
-Mira todo el stock Yealink que llegó 2
-Fernando · 3d · Redes
-Router 4G para donde no llega nada
-El WI-LTE117-O V2 de WI-TEK resuelve internet y energía con un solo equipo: sube a la red 4G LTE (Cat4, 150 Mbps, 9 bandas FDD) y reparte PoE. Alimentado con DC 48-54 V entrega 2 puertos 802.3af para cámaras; con PoE at, uno. Failover automático 3G/4G-WAN, OpenVPN y gestión cloud. IP65, de -30 a 55 °C.
-Conoce el router 4G para exterior 2
+Sylvia · 15h · Alarmas e Intrusión
+Flotillas: el problema no es la alarma, es la llave duplicada
+El IMB5 de Teltonika cambia la llave por una tarjeta RFID de 2.4 GHz: hasta 5 ID-TAG por vehículo, inmovilización 20 segundos después de apagar el motor si no hay credencial, y anti-carjack con cuenta atrás de 60 o 120 segundos. Opera de -40 a 85 °C y consume menos de 10 mA.
+Conoce el IMB5 de Teltonika
+Gregorio · 16h · Audio e Intercom
+Seis micrófonos que separan tu voz del ruido de la oficina
+La serie BH74 de Yealink suma Bluetooth 5.3 con 50 m de alcance, ANC híbrida y Acoustic Shield 3.0. Hasta 65 horas de música y 32 de conversación, con adaptador USB-C y USB-A para cualquier equipo. Cuatro versiones: UC y Microsoft Teams, con o sin base de carga.
+Ya disponibles en SYSCOM.
+Conoce la serie BH74 de Yealink
+Angel · 17h · Fibra Óptica
+Con un OTDR LinkedPRO puedes ir más allá de una simple medición de potencia: localiza eventos, identifica pérdidas, mide distancias y analiza el comportamiento de tus enlaces de fibra óptica.
+Descubre los OTDR LinkedPRO
+Cesar · 17h · Redes
+¿Listo para ver todo el poder de UniFi trabajando en tiempo real?
+Ven a conocer en vivo el poder de UniFi Full Stack: una sola plataforma para Redes, Videovigilancia y Control de Acceso funcionando en tiempo real.
+📍 San Luis Potosí: 24 de noviembre
+📍 Guadalajara: 26 de noviembre
+⏰ Horario: a.m. a p.m.
+Asiste en el horario que mejor te acomode. ¡Te esperamos!
+Conoce UniFi Full Stack
+Victor · 17h · Control de Acceso
+Cuatro kits YONUSA que se instalan sin tender un solo cable
+Wiegand a 1.6 km, electronivel para tinacos y cisternas, multipunto para 10 equipos y alertamiento sísmico SASMEX. Los cuatro trabajan en 915 MHz y resuelven accesos, agua, operación dispersa y protección civil sin zanjas ni tubería.
+Descubre los 4 kits que van sin cable 1
+Mario · 18h · Data Center
+El humo que no se ve también quema. Y ningún detector óptico lo ve.
+Cirrus Hybrid de SAFE Fire Detection suma cámara de niebla a la detección óptica: dos tecnologías independientes que se verifican entre sí. Escaneo por tubo, pantalla táctil de 7 pulgadas y hasta 6 cámaras IP en la misma pantalla.
+Descubre cómo detecta el humo invisible 3
+Leopoldo · 19h · Cableado Estructurado
+Un solo cable USB-C para video 4K, red y 100 W de carga
+El CA-U32/FF-15 de KRAMER es USB 3.2 Gen 2 Full Featured: 10 Gbps, 4K a 60 Hz, Ethernet de 1 Gbps y hasta 100 W de Power Delivery en 4.6 m (15 ft). El mecanismo K-Lock en ambos conectores evita que se suelte en mesas de juntas, kioscos o racks. Blindaje S/FTP contra interferencia.
+Conoce el cable USB-C de 15 ft de Kramer
 Videos
 Ver todos
-¿Alguien conectó un router sin autorización y toda la red falla? Con RG-ES200, activa la prote
+¿Alguien conectó un router sin autorización y toda la red falla? Con RG-ES200, activa la protecci

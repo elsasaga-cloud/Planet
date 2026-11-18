@@ -1,4 +1,4 @@
-# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-18T10:22:47Z · HTTP 200
 Sun, 15 Nov 2026 16:51:34 +0000	Cat6A vs Cat6 Plenum Price: Is the Upgrade Worth It?	https://52networks.com/cat6-vs-cat6a-plenum-cable/
 Thu, 12 Nov 2026 16:32:47 +0000	The Future of Network Cabling: Trends in Ethernet, CCTV, and Audio Systems	https://52networks.com/the-future-of-network-cabling-trends-in-ethernet-cctv-and-audio-systems/
 Thu, 05 Nov 2026 17:34:35 +0000	What Is a Network Rack? Complete Guide to Server & Network Racks	https://52networks.com/what-is-a-network-rack-complete-guide-to-server-network-racks/

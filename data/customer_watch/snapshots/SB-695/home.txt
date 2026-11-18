@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -167,7 +167,6 @@ Outlet
 Ver Outlet
 Aten
 Drow
-Hon Turing
 IcpDas
 MccDaq
 Meanwell
@@ -180,7 +179,6 @@ AAEON
 NK Technologies
 Meanwell
 Ebyte
-Ewind
 Moxa
 ICP DAS
 MCC DAQ
@@ -364,7 +362,6 @@ CLP / PLC
 Outlet
 Aten
 Drow
-Hon Turing
 IcpDas
 MccDaq
 Meanwell
@@ -378,7 +375,6 @@ AAEON
 NK Technologies
 Meanwell
 Ebyte
-Ewind
 Moxa
 ICP DAS
 MCC DAQ
@@ -429,76 +425,68 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-LRI-SW-8G2SWM - Switch Ethernet Industrial Web Gerenciável 8 Portas Gigabit + 2 Portas SFP
-R$ 958,20
+I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
+R$ 725,82
 R$
-929 , 45
+704 , 05
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
--50%
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 24W, 24V - LRI-PS2424
-R$ 165,00
-R$ 82,50
+Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2SFPL2+
+R$ 1.458,00
 R$
-80 , 03
+1.414 , 26
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Inversor CC/CA 1000W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-1K-127-V3
-R$ 1.682,95
+Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Multimodo SC 2km - LRI-MC-1G1MM2
+R$ 375,00
 R$
-1.632 , 46
+363 , 75
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
-R$ 549,00
+Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 4 Portas SFP - LRI-SWI-16G4SFPL2+
+R$ 3.168,00
 R$
-532 , 53
+3.072 , 96
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
+Módulo Industrial Monitoramento e Controle IoT TCW242
+R$ 2.454,59
+R$
+2.380 , 95
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Temperatura e Umidade Data Logger TCW210-TH
+R$ 1.813,25
+R$
+1.758 , 85
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+Módulo S0 Contador de Pulsos com Interface Modbus RTU TDI340
+R$ 1.080,91
+R$
+1.048 , 48
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 1-Wire Sensor de Pressão Barométrica TSP200
 Sob consulta
 Saiba mais
 Pedir cotação
-Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
-R$ 990,00
-R$
-960 , 30
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
-R$ 549,00
-R$
-532 , 53
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Detector de Vazamento de Água com Saída Digital TSF400-0
-Sob consulta
-Saiba mais
-Pedir cotação
 Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
 Nome: Djalma Filho
 Avaliação: Positivo
 Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
@@ -509,6 +497,16 @@ Written by: Djalma Filho
 LRI Automação Industrial
 1 / 1 stars
 1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -555,5 +553,5 @@ Sfera Labs
 Ebyte
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.719 secs - 17-11-2026  - node: commerce-web3-bot-lw - store
+Load time: 0.583 secs - 18-11-2026  - node: commerce-web4-bot-lw - store
 ×

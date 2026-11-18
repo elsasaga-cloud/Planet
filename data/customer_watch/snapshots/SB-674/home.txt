@@ -1,4 +1,4 @@
-# SB-674 noxel.pl · home · https://noxel.pl/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-674 noxel.pl · home · https://noxel.pl/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Noxel.pl | Monitoring IP, szafy rack, termowizja, wideodomofony
 Zwroty i reklamacje: reklamacje@noxel.pl
 Skorzystaj z darmowej dostawy powyżej 299zł
@@ -52,7 +52,6 @@ Monitoring
 Zestawy monitoringu
 Kamery do monitoringu
 Rejestratory do monitoringu
-Wideodomofon
 Szafy Rack
 Zestawy szaf Rack
 Szafa Rack stojąca
@@ -103,12 +102,12 @@ Dahua
 Zestaw monitoringu Dahua 4 kamery 8MPx IP PoE IPC-HFW1839TC-A-IL-0280B-S6
 Dahua
 2599,00 zł
-Zestaw monitoringu Dahua 8MPx IP PoE 2 kamery IPC-HFW1839TC-A-IL-0280B-S6-BLACK
+Zestaw monitoringu Dahua 2 kamery 8MPx IP PoE IPC-HFW1839TC-A-IL-0280B-S6-BLACK
 Dahua
-1499,00 zł Pierwotna cena wynosiła: 1499,00 zł. 1189,00 zł Aktualna cena wynosi: 1189,00 zł.
-Zestaw monitoringu Dahua 8MPx IP PoE 3 kamery IPC-HFW1839TC-A-IL-0280B-S6-BLACK
+1899,00 zł
+Zestaw monitoringu Dahua 3 kamery 8MPx IP PoE IPC-HFW1839TC-A-IL-0280B-S6-BLACK
 Dahua
-1459,00 zł
+2249,00 zł
 Zestaw monitoringu Dahua 8MPx IP PoE 4 kamery IPC-HFW1839TC-A-IL-0280B-S6-BLACK
 Dahua
 1920,00 zł

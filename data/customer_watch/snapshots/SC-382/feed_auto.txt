@@ -1,4 +1,6 @@
-# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+Wed, 18 Nov 2026 07:35:59 +0000	Early Bird Alert: Get 15% OFF Term 1 2027 Courses (Black Friday Deal)	https://securitywarehouse.co.za/blog/early-bird-alert-get-15-off-term-1-2027-courses-black-friday-deal/
+Wed, 18 Nov 2026 06:00:00 +0000	Please Note our STOCK TAKE Trading Hours	https://securitywarehouse.co.za/blog/please-note-our-stock-take-trading-hours/
 Wed, 11 Nov 2026 08:19:57 +0000	TOMORROW is the Mini Security Show at HQ	https://securitywarehouse.co.za/blog/tomorrow-is-the-mini-security-show-at-hq/
 Thu, 05 Nov 2026 07:12:46 +0000	ONE WEEK TO GO!! Mini Security Show at HQ	https://securitywarehouse.co.za/blog/one-weeks-to-go-mini-security-show-at-hq/
 Wed, 28 Oct 2026 10:39:44 +0000	TWO WEEKS TO GO!! Mini Security Show at HQ	https://securitywarehouse.co.za/blog/two-weeks-to-go-mini-security-show-at-hq/
@@ -7,5 +9,3 @@ Wed, 07 Oct 2026 06:14:34 +0000	Your Security Partner, Every Step of the Way	htt
 Wed, 30 Sep 2026 06:13:52 +0000	SCW Trading Hours	https://securitywarehouse.co.za/blog/scw-trading-hours-8/
 Wed, 23 Sep 2026 11:46:54 +0000	Trading Hours Update	https://securitywarehouse.co.za/blog/trading-hours-update/
 Wed, 16 Sep 2026 07:00:00 +0000	You’re Invited to the SCW & Nemtek Client Day	https://securitywarehouse.co.za/blog/youre-invited-to-nemtek-client-day/
-Wed, 09 Sep 2026 06:49:51 +0000	The SkyHawk Partner App Has Arrived!!	https://securitywarehouse.co.za/blog/the-skyhawk-partner-app-has-arrived/
-Wed, 02 Sep 2026 13:25:36 +0000	We’ve Got You Covered! Complete Solution Design, Setup & Training!	https://securitywarehouse.co.za/blog/weve-got-you-covered-complete-solution-design-setup-training-2/

@@ -1,4 +1,4 @@
-# SB-1073 sensoguard.com · home · https://sensoguard.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1073 sensoguard.com · home · https://sensoguard.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 SensoGuard: Underground Seismic Perimeter Security
 Home
 Products
@@ -102,7 +102,7 @@ Buried sensors that feel an intruder coming, before a camera ever sees them
 Most perimeter security relies on cameras or fences, things an intruder can see and plan around. SensoGuard buries seismic sensors underground instead, where they feel the vibration of footsteps, vehicles, or digging the moment someone crosses the line, with no visible hardware to spot or bypass. Each detection is then verified by an AI-powered camera before any alarm fires, so you get confirmed threats instead of false alarms from wind, rain, or wildlife. The result is a perimeter that works day and night, in any weather, without anyone ever knowing it's there.
 Compare underground seismic to fence-mounted sensors and IR beams in our full perimeter security comparison , or see which product fits your site: Seismic Shield for private properties, Seismic Shield Pro for critical infrastructure, or InvisiFence Plus for a wired, camera-free virtual fence.
 Field-Proven, Trusted by Government & Enterprise
-SensoGuard's seismic detection technology was built by a team with over 20 years of combined seismic-sensor experience from Rafael Advanced Defense Systems, founded in Israel in 2012. Since 2013, SensoGuard has supplied more than 3,500 unattended ground sensor systems to the Israeli Ministry of Defense , one of the largest deployments of its kind, and the same underlying technology now protects national borders, critical infrastructure, and private properties across 25 countries.
+SensoGuard's seismic detection technology was built by a team with over 20 years of combined seismic-sensor experience from Rafael Advanced Defense Systems, founded in Israel in 2012. The Israel Ministry of Defense has been our partner since 2013, with an order for over 3,500 UGS systems in November 2025, and the same underlying technology now protects national borders, critical infrastructure, and private properties across 25 countries.
 Frequently Asked Questions
 Common questions about how SensoGuard's underground seismic detection works.
 How does SensoGuard's seismic detection work?
@@ -114,7 +114,7 @@ Seismic Shield is built for private residential properties. Seismic Shield Pro p
 Can SensoGuard integrate with my existing alarm system or VMS?
 Yes. Dry contact outputs connect directly to any existing alarm panel, and the system integrates with the VMS platforms most security teams already run, including IDIS, NX Witness, Milestone, FLIR, Digifort, mPrest, and Axis. See the full list on our integrations page .
 Is SensoGuard used by government or military customers?
-Yes. SensoGuard has supplied more than 3,500 unattended ground sensor systems to the Israeli Ministry of Defense since 2013, and the underlying technology was developed by a team with over 20 years of combined experience from Rafael Advanced Defense Systems.
+Yes. The Israel Ministry of Defense has been our partner since 2013, with an order for over 3,500 UGS systems in November 2025, and the underlying technology was developed by a team with over 20 years of combined experience from Rafael Advanced Defense Systems.
 How is this different from cameras or fence-mounted sensors?
 Underground seismic detection has no visible hardware, no wires to cut, and no line-of-sight requirement, unlike fence-mounted sensors, which can be bridged or climbed between units, or cameras and IR beams, which can be spotted, avoided, or degraded by weather. See the full technology comparison .
 Ready to Detect Threats Before They Become Incidents?

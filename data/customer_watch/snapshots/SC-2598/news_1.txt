@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Blogs
 Products
 DW Ai
@@ -24,7 +24,6 @@ MEGApix® Ai CloudCam
 MEGApix® Facial Recognition
 MEGApix® Ball Turret Cameras
 MEGApix® Bullet Cameras
-MEGApix® Indoor Dome Cameras
 MEGApix® Outdoor Dome Cameras
 MEGApix® InterCam™
 MEGApix® V-CLASS Cameras
@@ -270,7 +269,6 @@ MEGApix® Ai CloudCam
 MEGApix® Facial Recognition
 MEGApix® Ball Turret Cameras
 MEGApix® Bullet Cameras
-MEGApix® Indoor Dome Cameras
 MEGApix® Outdoor Dome Cameras
 MEGApix® InterCam™
 MEGApix® V-CLASS Cameras
@@ -409,4 +407,4 @@ Coordinated views of checkout, merchandise areas and receiving help retail teams
 Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 10/26/2026
 How Can Apartment Communities Make Better Use of Video Security?
-Thoughtful coverage of shared entrances, package rooms and parking areas helps residential teams investigate c
+Thoughtful coverage of shared entrances, package rooms and parking areas helps residential teams investigate concerns and respect privacy.A resident reports a missing p

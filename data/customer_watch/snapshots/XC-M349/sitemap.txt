@@ -1,5 +1,5 @@
-# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · sitemap · https://www.getic.lv/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
-2026-11-17T07:37:41+02:00	https://www.getic.lv
+# XC-M349 SIA "EURO DK"（LSEZ；现以 Getic 品牌运营） · sitemap · https://www.getic.lv/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+2026-11-18T07:37:42+02:00	https://www.getic.lv
 2025-11-04T15:35:05+02:00	https://www.getic.lv/payment
 2025-11-04T15:35:05+02:00	https://www.getic.lv/delivery
 2025-11-04T15:35:05+02:00	https://www.getic.lv/warranty
@@ -98,6 +98,7 @@
 2021-04-24T09:19:40+03:00	https://www.getic.lv/shop/cat4-routers/2-1-gbps
 2021-04-24T09:19:40+03:00	https://www.getic.lv/shop/cat4-routers/wall-mount
 2021-04-24T09:19:40+03:00	https://www.getic.lv/shop/cat4-routers/5-100-mbps
+2021-04-24T09:19:40+03:00	https://www.getic.lv/shop/cat4-routers/minus-2-100-mbps
 2021-04-24T09:19:40+03:00	https://www.getic.lv/shop/cat4-routers/pole-mount
 2021-04-24T09:19:40+03:00	https://www.getic.lv/shop/cat4-routers/1-100-mbps
 2021-04-24T09:19:40+03:00	https://www.getic.lv/shop/cat4-routers/minus-1-1-gbps
@@ -208,5 +209,4 @@
 2021-08-04T11:15:27+03:00	https://www.getic.lv/shop/mikrotik-5g-routers
 2021-08-04T11:15:27+03:00	https://www.getic.lv/shop/mikrotik-5g-routers/4g-lte
 2021-08-04T11:15:27+03:00	https://www.getic.lv/shop/mikrotik-5g-routers/5g-nr
-2021-08-04T11:15:27+03:00	https://www.getic.lv/shop/mikrotik-5g-routers/5-1-gbps
-2021-08-04T11:15:27+03:00	https://www.getic.lv/shop
+2021-08-04T11:15:27+03:00	https://www.getic.lv/sho

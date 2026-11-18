@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-18T10:22:47Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -47,11 +47,14 @@ Uranium
 2010 · PSU, kasa
 Sensei
 2010 · Çevre birimi
-132 markanın tamamı A'dan Z'ye.
+131 markanın tamamı A'dan Z'ye.
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 63 içerik).
+Sektörden güncel haberler ve analizler ( 64 içerik).
+İnceleme Dell Pro Precision 5 16, Intel ile İş Başında
+Dell Pro Precision 5 16'nın Intel versiyonu incelendi: performans, AI özellikleri ve Linux uyumluluğu masaya yatırıldı.
+18 Kasım 2026
 Ürün Lansmanı KIOXIA'dan sıvı soğutmalı CM9-DLC SSD ailesi
 KIOXIA, AI sunucuları için sıvı soğutmalı çift portlu CM9-DLC E3.S SSD'lerini duyurdu; kapasite 30,72TB'a kadar çıkıyor.
 16 Kasım 2026
@@ -138,9 +141,6 @@ Dell Pro Precision 9 T2, Intel Xeon 6 ve DDR5-6400 desteğiyle test edildi; çok
 23 Ekim 2026
 Marka Duyurusu IBM Bob artık air-gapped ortamlarda çalışıyor
 IBM, agentic yazılım geliştirme platformu Bob için self-hosted ve air-gapped dağıtım seçeneğini duyurdu.
-20 Ekim 2026
-İnceleme NVIDIA RTX PRO 4500: Kurumsal AI'ya Giriş Kartı
-NVIDIA RTX PRO 4500 Blackwell Server Edition, 165W'lık tek slotlu yapısıyla L40S performansına yaklaşıyor.
 20 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

@@ -1,4 +1,4 @@
-# SC-2078 zebeye.com · home · https://zebronics.com/collections/cctv · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-2078 zebeye.com · home · https://zebronics.com/collections/cctv · fetched 2026-11-18T10:22:47Z · HTTP 200
 CCTV & Surveillance
 Skip to content
 Menu
@@ -505,6 +505,8 @@ BNC/DC (2)
 CAT 6 Cables (16)
 CCTV Mini Rack (4)
 CCTV Power Adapter (2)
+Electric Rim Lock (1)
+Exit Button (3)
 Fish Eye Camera (1)
 HD Bullet (2)
 HD Dome (8)
@@ -542,11 +544,23 @@ Price, high to low
 Date, old to new
 Date, new to old
 Filter and sort
-88 products
+92 products
 *">
 Zeb Smart Cam 100
 Sale price ₹ 2,499.00
 Smart WiFi Cameras Smart WiFi | 2-way audio | Night Vision | 5 Meter IR Range
+Zeb ACEL01
+Sale price ₹ 4,599.00
+Electric Rim Lock DC 12V | Integrated ball latch | Energy Efficient Operation | Low Power consumption
+Zeb ACEB04
+Sale price ₹ 899.00
+Exit Button DC 12V | NO-Com supported | Easy to Install | Low Power consumption
+Zeb ACEB03
+Sale price ₹ 1,599.00
+Exit Button DC 12V | NO-NC-Com supported | Easy to Install | Low Power consumption
+Zeb ACEB01
+Sale price ₹ 1,299.00
+Exit Button DC 12V | up to 10cm | Easy to Install | No Touch Exit Button
 Zeb DC-W-Z
 Sale price ₹ 1,000.00
 BNC/DC Soft PVC | 14 Strand wire | 2 Core wires | 3.4mm DC wire
@@ -604,18 +618,6 @@ HD Dome 5 MP | 30M Meter IR Range | Night Vision With Color | Weather Proof
 Zeb HDTVI B2
 Sale price ₹ 3,799.00
 HD Dome 2MP | Night Vision | Built-in Mic | 20M IR Range
-Zeb HDTVI B5
-Sale price ₹ 5,999.00
-HD Dome 30M IR Range(Max.) | IP67 | Low Illumination | 5 Mega pixels
-Zeb HDXVR 204
-Sale price ₹ 9,999.00
-XVR 4 Channel XVR Recorder | ONVIF | 1080P Resolution | CMS compatible
-Zeb HDXVR 208
-Sale price ₹ 12,499.00
-XVR 8 Channel XVR Recorder | ONVIF | 80 Mbps (Max.) | CMS compatible
-Zeb HDXVR 5016
-Sale price ₹ 22,999.00
-XVR 16 Channel XVR Recorder | ONVIF | 5 MP | Outgoing 80 Mbps
 1 / 4
 Explore Collections
 Speakers

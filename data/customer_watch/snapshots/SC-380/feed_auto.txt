@@ -1,10 +1,10 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
 Tue, 17 Nov 2026 08:04:56 GMT	[ipTIME 공유기] 설치도우미로 설치되지 않을 때 스마트폰으로 직접 설치하는 방법	https://iptime.com/support/faq/27937
 Tue, 17 Nov 2026 07:58:00 GMT	[ipTIME 공유기] 새 공유기 설치 중 관리자 계정과 암호를 입력하라고 나올 때	https://iptime.com/support/faq/27936
 Tue, 17 Nov 2026 07:40:23 GMT	[ipTIME 공유기] 공유기 USB 외장 하드(간이 NAS)에 외부에서 접속되지 않을 때	https://iptime.com/support/faq/27935
 Tue, 17 Nov 2026 05:58:59 GMT	[ipTIME 공유기] 연결된 스마트폰, PC에서 와이파이 비밀번호 확인하는 방법	https://iptime.com/support/faq/27934
-Tue, 17 Nov 2026 01:57:39 GMT	[AP / Extender] Extender-N300E 사용설명서	https://iptime.com/support/downloads/27933
-Tue, 17 Nov 2026 01:48:44 GMT	[유선공유기] ipTIME T6004 사용설명서	https://iptime.com/support/downloads/27932
+Tue, 17 Nov 2026 01:57:39 GMT	[사용설명서] Extender-N300E 사용설명서	https://iptime.com/support/downloads/27933
+Tue, 17 Nov 2026 01:48:44 GMT	[사용설명서] ipTIME T6004 사용설명서	https://iptime.com/support/downloads/27932
 Tue, 17 Nov 2026 01:13:02 GMT	[ipTIME NAS] NAS 관리자 암호를 잊어버렸을 때 초기화 방법	https://iptime.com/support/faq/27929
 Tue, 17 Nov 2026 00:51:00 GMT	[펌웨어] ipTIME 유무선 공유기 펌웨어 16.01.2 배포	https://iptime.com/notices/27928
 Tue, 17 Nov 2026 00:51:00 GMT	[펌웨어] ipTIME 공유기 펌웨어 16.01.2	https://iptime.com/support/downloads/27927

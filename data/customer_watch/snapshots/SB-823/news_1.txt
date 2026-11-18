@@ -1,4 +1,4 @@
-# SB-823 synchronet.net · news_1 · https://synchronet.net/blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-823 synchronet.net · news_1 · https://synchronet.net/blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 IT Support Blog - SynchroNet
 Skip to content
 716-677-2677
@@ -62,6 +62,11 @@ Phishing
 Ransomware Protection
 SynchroNet Updates
 Tech
+Why Your Backup Strategy May Not Protect Your Erie, PA Business From Ransomware
+By SynchroNet Team
+|
+November 17, 2026
+For business leaders in Erie, Pennsylvania, having a backup system in place offers some peace of mind. If ransomware affects...
 Microsoft 365 Isn’t a Backup Strategy: What Every Western New York Business Leader Should Know
 By Jerry Sheehan
 |
@@ -102,11 +107,6 @@ By SynchroNet Team
 |
 July 1, 2026
 On July 4, we celebrate the 250th anniversary of the founding of our nation in 1776. While declaring independence was...
-The “Summer Friday” Security Checklist: Protecting Buffalo and WNY Businesses on the Go
-By SynchroNet Team
-|
-June 4, 2026
-June in Western New York doesn’t last long. When the weather finally turns, no one wants to be stuck under...
 1
 2
 3

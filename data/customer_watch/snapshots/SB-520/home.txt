@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,6 +75,38 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
+Cudy M1300S Wi-Fi Mesh System, AC1200, 1 pack
+Dvoupásmový mesh systém Wi-Fi 5 AC1200 s jednou jednotkou, rychlostmi 300 + 866 Mb/s a roamingem. Každá jednotka má gigabitový LAN a LAN/WAN port. Režimy router/AP/klient a VPN včetně OpenVPN a WireGuard; vzdálená správa TR069.
+700 Kč bez DPH
+847 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
+MHPower L150-12-OUT-IP67 LiFePO4 baterie 12V 150Ah, Outdoor, Bluetooth, IP67
+Lithiová LiFePO4 baterie 12,8 V / 150 Ah s energií 1,92 kWh, Bluetooth a integrovanou BMS 150 A. Krytí IP67, pouzdro z ABS a více než 6 000 nabíjecích cyklů. Pro elektrické lodní pohony a další venkovní použití.
+13 160 Kč bez DPH
+15 924 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Cudy R700 Gigabit Multi-WAN VPN Router
+Gigabitový VPN router pro menší firmy a kanceláře s až 4 WAN porty rozděluje provoz mezi více internetových linek a podporuje záložní připojení. Nabízí VPN protokoly PPTP, L2TP, OpenVPN, WireGuard a IPsec a správu přes webové rozhraní.
+768 Kč bez DPH
+929 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Cudy WR21000 Multi-Gigabit Tri-Band Wi-Fi 7 Mesh Router, BE21000
+Třípásmový mesh router Wi-Fi 7 BE21000 s rychlostmi až 688/8640/11 520 Mb/s. Port 10G SFP+ LAN/WAN, tři 2,5G LAN, 2,5G WAN a USB 3.0. Čtyřjádrový procesor 1,5 GHz a osm antén podporují až 100 připojených zařízení.
+5 383 Kč bez DPH
+6 513 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
 MikroTik HS-55DLC80D, SFP optický modul, Single-Mode, 80km, 2.5G, 1550nm
 Průmyslový optický SFP modul pro single-mode vlákno přenáší data rychlostí 1 nebo 2,5 Gb/s až na 80 km při 1550 nm. Dvojici LC konektorů s broušením UPC doplňuje diagnostika DDM sledující optický výkon, napětí, teplotu a proud laseru.
 615 Kč bez DPH
@@ -83,74 +115,42 @@ Novinka
 Porovnat
 skladem
 Přidat do košíku
-TP-Link ES210XPP-M2 Omada Easy PoE Switch
-10portový PoE++ switch s 8× 2,5Gb/s RJ45, 10Gb/s RJ45 a 10Gb/s SFP+ uplinkem. Poskytuje PoE rozpočet 200 W, až 90 W na port a podporuje VLAN, QoS, IGMP Snooping i správu přes Omada.
-4 847 Kč bez DPH
-5 865 Kč s DPH
+Cudy WR3600H 2.5G Wi-Fi 7 Mesh Router, BE3600
+Dvoupásmový mesh router s Wi-Fi 7 dosahuje až 688 Mb/s na 2,4 GHz a 2880 Mb/s na 5 GHz. Má 2,5Gb/s WAN a 4 gigabitové LAN porty, 4 pevné antény a podporu OFDMA a MU-MIMO. Pracuje jako router, přístupový bod či opakovač a podporuje VPN.
+1 157 Kč bez DPH
+1 400 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Ubiquiti UACC-WP-TH, Univerzální přetíratelná kabelová průchodka, 2-pack
-Přetíratelná nástěnná kabelová průchodka pro čisté zakončení kabeláže. Kryt z polykarbonátu a oceli o rozměrech 82 × 112 × 3,2 mm se hodí ke krabicím 2? × 4?, 86 × 86 mm i kulatým 60 mm. Balení 2 kusů.
-334 Kč bez DPH
-404 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-MikroTik G1317-0600W - Hot Swap 600W napájecí DC zdroj pro CRS320
-Výměnný DC/DC napájecí zdroj 600 W pro switch MikroTik CRS320-8P-8B-4S+RM. Přijímá vstup 36–72 V DC a poskytuje výstup 54,5 V / 10,35 A. Funkce Hot Swap umožňuje výměnu za provozu při dostatečném výkonu druhého zdroje.
-4 081 Kč bez DPH
-4 938 Kč s DPH
+Cudy M1300S Wi-Fi Mesh System, AC1200, 2 pack
+Dvoupásmový mesh systém Wi-Fi 5 AC1200 se dvěma jednotkami, rychlostmi 300 + 866 Mb/s a roamingem. Každá jednotka má gigabitový LAN a LAN/WAN port. Režimy router/AP/klient a VPN včetně OpenVPN a WireGuard; vzdálená správa TR069.
+1 485 Kč bez DPH
+1 797 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti UACC-Cable-USB-100W-2M-BK, USB-C kabel s displejem, 2m
-USB-C kabel délky 2 m s podporou Power Delivery až 100 W pro nabíjení telefonů, notebooků a powerbank. Integrovaný displej zobrazuje aktuální nabíjecí výkon, opletený plášť kombinuje materiály PP a PET.
-641 Kč bez DPH
-776 Kč s DPH
+Ubiquiti UVC-G6-Dome-W, UniFi Video Camera G6 Dome, bílá
+Dome IP kamera s rozlišením 8 Mpx, infračerveným přísvitem do 30 m a napájením přes PoE. Krytí IP66 pro vnitřní i venkovní instalaci, správa v UniFi Protect a AI rozpoznávání obličejů i registračních značek vozidel přímo v kameře.
+6 806 Kč bez DPH
+8 235 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Cudy FS1016 Switch
-Síťový switch se 16 porty 10/100 Mb/s pro umístění na stůl nebo do 19" racku. Podporuje oddělení portů a prodloužení dosahu až na 250 m při rychlosti 10 Mb/s na portech 1–14. Napájení 230 V AC, rackové úchyty v balení.
-571 Kč bez DPH
-691 Kč s DPH
+Ubiquiti USL-Gateway, UniFi Protect SuperLink Gateway
+Brána pro UniFi Protect senzory s podporou až 96 SuperLink klientů a dosahem 2 km při přímé viditelnosti. Bluetooth připojí až sedm UP-Sense. Ethernet 100 Mb/s, napájení PoE 802.3af či USB-C; montáž na zeď nebo DIN lištu.
+3 023 Kč bez DPH
+3 658 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-TINKO bateriový článek 18650, Li-Ion 3,7 V, 3000 mAh
-Nabíjecí Li-Ion článek 18650 s napětím 3,7 V a kapacitou 3000 mAh pro akupacky, ruční nářadí a powerbanky. Rozměry 18 × 65 mm, vybíjecí proud 10 A trvale a až 20 A krátkodobě.
-134 Kč bez DPH
-162 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UACC-Cable-USB-100W-0.3M-BK, USB-C kabel s displejem, 0.3m
-USB-C kabel délky 0,3 m s podporou Power Delivery až 100 W pro nabíjení telefonů, notebooků a powerbank. Integrovaný displej zobrazuje aktuální nabíjecí výkon, opletený plášť kombinuje materiály PP a PET.
-418 Kč bez DPH
-506 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-TINKO bateriový článek 18650, Li-Ion 3,7 V, 3500 mAh
-Nabíjecí Li-Ion článek 18650 s napětím 3,7 V a kapacitou 3500 mAh pro akupacky, elektrokola, svítilny a powerbanky. Rozměry 18 × 65 mm, vybíjecí proud 10 A trvale a až 20 A krátkodobě.
-160 Kč bez DPH
-194 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti USW-Flex-3, UniFi PoE switch, 3-pack
-Pětiportový gigabitový PoE switch s krytím IP55 pro venkovní síťové instalace. Nabízí čtyři PoE výstupy až 15 W na port, celkový rozpočet 46 W a správu v UniFi Network. Sada obsahuje 3 switche.
-6 596 Kč bez DPH
-7 981 Kč s DPH
+Solární panel SOLARFAM 180W mono, 1230x705x30mm, OBOUSTRANNÝ, černý rám
+Oboustranný monokrystalický solární panel 180 W s články Shingle, účinností až 22 % a černým rámem. Rozměry 1230 × 705 × 30 mm, konektory MC4 a bypass diody. Při osvětlení zadní strany může zvýšit výrobu energie až o 15 %.
+1 404 Kč bez DPH
+1 699 Kč s DPH
 Novinka
 Porovnat
 skladem

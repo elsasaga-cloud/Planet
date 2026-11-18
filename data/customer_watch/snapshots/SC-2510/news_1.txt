@@ -1,4 +1,4 @@
-# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-18T10:22:47Z · HTTP 200
 Aktualności | Getfort
 O marce
 Produkty
@@ -20,6 +20,8 @@ Sortuj według
 Najnowsze
 Najstarsze
 Alfabetycznie
+Szafy stojące RACK GetFort
+Szafy stojące RACK GetFort – profesjonalne obudowy serwerowe i teleinformatyczne Szafy serwerowe i sieciowe z serii stojącej GetFort zostały zaprojektowane specjalnie z myślą o profesjonalnych wdrożeniach teleinformatycznych, serwerowych oraz w centrach danych. Zapewniają bezpieczne i uporządkowane miejsce na switche sieciowe, serwery oraz pozostały sprzęt aktywny, optymalizując wykorzystanie przestrzeni w pomieszczeniach IT. Sztywna konstrukcja ramowa gwarantuje […]
 Nowe 16-portowe switche GetFort
 Nowości GetFort: 16-portowe switche PoE 240W z portami SFP 2.5G W ofercie marki GetFort pojawiły się dwa nowe modele switchy PoE, zaprojektowane z myślą o profesjonalnych instalacjach monitoringu IP. Pozwalają one na bezpieczne zasilanie wielu urządzeń IP w jednej instalacji dzięki całkowitemu budżetowi mocy do 240W. Cechy wspólne obu modeli switchy GetFort Oba nowe switche […]
 Nowa seria uchwytów TV GetFort

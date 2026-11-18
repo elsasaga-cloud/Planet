@@ -1,4 +1,4 @@
-# SB-1010 bayiden.com.tr · news_1 · https://www.bayiden.com.tr/blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1010 bayiden.com.tr · news_1 · https://www.bayiden.com.tr/blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 - Bayiden - Teknolojinin Bayisi
 Yapay Zeka ile Ara
 Sohbet ederek hızlı ve kolay ürün ara
@@ -211,4 +211,4 @@ Kablolama Araçları
 Jacklı Kablo Çeşitleri
 Bloglar
 Bayiden.com.tr Blog
-20.07.2026 · 6 dk okuma Gü
+03.11.2026 · 4 dk okuma Ko

@@ -1,4 +1,4 @@
-# SB-368 welotec.com · news_2 · https://welotec.com/en-us/blogs/knowledge · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-368 welotec.com · news_2 · https://welotec.com/en-us/blogs/knowledge · fetched 2026-11-18T10:22:47Z · HTTP 200
 Welotec Knowledge Center: Energy & Machinery Insights
 customer.current_location.name:
 customer.current_company.name:
@@ -226,6 +226,15 @@ webinar
 IEC61850
 substation
 substationautomation
+virtualization
+17 Nov, 2026
+Dedicated Hardware vs. Virtualization in Substations: How to Choose
+Virtualization can simplify substation architectures, reduce hardware and improve redundancy. But where should util...
+0 min
+Continue reading
+IEC61850
+substation
+substationautomation
 25 Sep, 2026
 What Is a Merging Unit? IEC 61850 Sampled Values, SAMUs, and the Process Bus
 As utilities modernize substations and adopt digital protection architectures, merging units have become a foundation...
@@ -273,21 +282,11 @@ What is the difference between vPAC, the vPAC Alliance, LF Energy, and SEAPATH?
 The terms vPAC, vPAC Alliance, LF Energy, and SEAPATH are often used together, but they describe very different thin...
 0 min
 Continue reading
-cigre
-IEC61850
-substation
-vpac
-vpac-alliance
-05 Aug, 2026
-Who is working on vPAC standardization?
-Work on vPAC (Virtual Protection, Automation and Control) is divided among several organizations with clearly define...
-0 min
-Continue reading
 1
 2
 3
 …
-9
+10
 Weiter
 Technical Knowledge for Digital Substations and Industrial Edge Computing
 The Knowledge Center collects the technical background behind our work: explainers on digital substation architecture and IEC 61850, practical guidance on industrial edge computing, and what regulation like the Cyber Resilience Act and EN 50155 actually means for the hardware you deploy. Most of it is written by the engineers who design and support these systems.

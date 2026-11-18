@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · news_1 · https://www.ltsecurityinc.com.au/news/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · news_1 · https://www.ltsecurityinc.com.au/news/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 News
 Trade Register
 Products
@@ -103,30 +103,14 @@ News
 Contact Us
 Support
 Webinars
-CCTV & Recorders
-HD-TVI
-Accessories
-Cameras
-CCTV Kits
-DVR + HDD
-DVR Barebone
+Kits & Bundles
+Ajax Alarm
 Ajax CCTV
-Cameras
-Camera Brackets
-CCTV Kits
-NVRs
-Platinum
-Cameras
-Camera Brackets
-CCTV Kits
-NVR + HDD
-NVR Barebone
-PRO-X
-Cameras
-Camera Brackets
-CCTV Kits
-NVRs
-EZVIZ
+Akuvox Intercom
+LTS Intercom
+LTS Platinum CCTV
+LTS PRO-X CCTV
+Solar
 Alarms & Home Automation
 Ajax Wireless
 Accessories
@@ -166,6 +150,30 @@ Patch Panels
 Racks & Cabinets
 RG59 Cable & Accessories
 Shelves
+CCTV & Recorders
+Ajax CCTV
+Cameras
+Camera Brackets
+CCTV Kits
+NVRs
+HD-TVI
+Accessories
+Cameras
+CCTV Kits
+DVR + HDD
+DVR Barebone
+Platinum
+Cameras
+Camera Brackets
+CCTV Kits
+NVR + HDD
+NVR Barebone
+PRO-X
+Cameras
+Camera Brackets
+CCTV Kits
+NVRs
+EZVIZ
 Clearance Items
 Intercom & Access Control
 Akuvox
@@ -190,14 +198,6 @@ IP
 Video Doorbell
 Access Control
 Universal / Lift Controllers
-Kits & Bundles
-Ajax Alarm
-Ajax CCTV
-Akuvox Intercom
-LTS Intercom
-LTS Platinum CCTV
-LTS PRO-X CCTV
-Solar
 Monitors & Displays
 Advertising Screens
 LCD Brackets

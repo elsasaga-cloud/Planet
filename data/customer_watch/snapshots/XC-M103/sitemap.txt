@@ -1,4 +1,4 @@
-# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# XC-M103 Last Mile Communication AS（Last Mile AS） · sitemap · https://www.lastmile.no/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
 2026-11-05T07:26:16.792Z	https://www.lastmile.no
 2026-03-27T09:20:21.035Z	https://www.lastmile.no/search
 2026-10-29T12:38:20.467Z	https://www.lastmile.no/kompetanse
@@ -6,8 +6,8 @@
 2026-10-16T07:48:48.103Z	https://www.lastmile.no/om-oss
 2026-04-02T16:45:02.937Z	https://www.lastmile.no/leveranse
 2026-10-29T12:26:37.536Z	https://www.lastmile.no/losninger
-2026-04-02T17:06:00.681Z	https://www.lastmile.no/losninger/marine/nettverk-i-maritime-miljoer
-2026-04-02T17:06:00.679Z	https://www.lastmile.no/losninger/marine/fjernaksess-til-skip
+2026-11-11T09:54:05.203Z	https://www.lastmile.no/losninger/marine/nettverk-i-maritime-miljoer
+2026-11-11T09:54:26.803Z	https://www.lastmile.no/losninger/marine/fjernaksess-til-skip
 2026-03-27T08:03:07.878Z	https://www.lastmile.no/losninger/marine/video-i-maritime-miljoer
 2026-03-27T10:06:52.121Z	https://www.lastmile.no/kompetanse/ot-cybersikkerhet/zero-trust-rollebasert-tilgangskontroll
 2026-04-03T10:52:51.847Z	https://www.lastmile.no/kompetanse/ot-cybersikkerhet/full-synlighet-for-ics-nettverk
@@ -19,9 +19,9 @@
 2026-10-29T09:54:04.152Z	https://www.lastmile.no/losninger/marine
 2026-03-27T08:01:59.017Z	https://www.lastmile.no/losninger/marine/ot-cybersikkerhet
 2026-04-02T08:09:25.167Z	https://www.lastmile.no/leveranse/ot-cybersikkerhet
-2026-04-02T17:30:04.670Z	https://www.lastmile.no/losninger/energi/pd-maling
-2026-04-03T07:16:05.608Z	https://www.lastmile.no/losninger/energi/video-i-kraftanlegg
-2026-03-27T08:05:30.994Z	https://www.lastmile.no/losninger/energi/spenningskvalitet
+2026-11-11T09:55:20.287Z	https://www.lastmile.no/losninger/energi/pd-maling
+2026-11-11T09:55:41.430Z	https://www.lastmile.no/losninger/energi/video-i-kraftanlegg
+2026-11-18T09:44:39.346Z	https://www.lastmile.no/losninger/energi/spenningskvalitet
 2026-03-27T08:06:02.547Z	https://www.lastmile.no/losninger/energi/kommunikasjonikraftforsyningen
 2026-04-03T07:53:59.935Z	https://www.lastmile.no/losninger/havbruk/kameraovervakning-fiskeoppdrett
 2026-04-03T07:54:50.951Z	https://www.lastmile.no/losninger/havbruk/bredbandsforbindelse
@@ -38,7 +38,7 @@
 2026-03-27T14:06:05.416Z	https://www.lastmile.no/losninger/havbruk
 2026-10-29T11:10:17.004Z	https://www.lastmile.no/losninger/olje-og-offshore
 2026-04-03T07:35:33.926Z	https://www.lastmile.no/losninger/olje-og-offshore/kamera-overvakning-oljeinstallasjoner
-2026-04-03T07:29:32.623Z	https://www.lastmile.no/losninger/olje-og-offshore/palitelige-nettverk-olje-og-offshore
+2026-11-11T10:01:44.472Z	https://www.lastmile.no/losninger/olje-og-offshore/palitelige-nettverk-olje-og-offshore
 2026-04-03T07:44:05.009Z	https://www.lastmile.no/losninger/olje-og-offshore/fjernaksess-til-olje-og-gassinstallasjoner
 2026-03-27T09:25:31.422Z	https://www.lastmile.no/losninger/olje-og-offshore/pd-maling
 2026-03-27T09:26:11.674Z	https://www.lastmile.no/losninger/olje-og-offshore/spenningskvalitet
@@ -91,13 +91,13 @@
 2026-10-29T09:58:40.205Z	https://www.lastmile.no/losninger/sykehus
 2026-04-02T17:15:53.418Z	https://www.lastmile.no/losninger/marine/maleverdiomformere
 2026-04-03T07:47:56.247Z	https://www.lastmile.no/losninger/samferdsel/m2m
-2026-04-03T07:48:47.855Z	https://www.lastmile.no/losninger/samferdsel/kameraovervaking
+2026-11-11T10:02:05.577Z	https://www.lastmile.no/losninger/samferdsel/kameraovervaking
 2026-04-03T07:49:58.814Z	https://www.lastmile.no/losninger/samferdsel/maleverdiomformere
 2026-03-27T09:26:39.116Z	https://www.lastmile.no/losninger/olje-og-offshore/strom-og-spenningstrafoer-olje-og-offshore
 2026-04-02T17:58:49.609Z	https://www.lastmile.no/losninger/energi/maleverdiomformere-energibransjen
 2026-04-02T18:01:00.876Z	https://www.lastmile.no/losninger/energi/strom-og-spenningstrafoer-til-energi-sektor
 2026-03-27T15:18:13.132Z	https://www.lastmile.no/kompetanse/mobil
-2026-03-27T08:08:14.368Z	https://www.lastmile.no/losninger/energi/mobil-m2m
+2026-11-18T09:39:06.568Z	https://www.lastmile.no/losninger/energi/mobil-m2m
 2026-04-03T08:07:25.678Z	https://www.lastmile.no/losninger/sykehus/mobil-m2m
 2026-03-27T08:03:50.292Z	https://www.lastmile.no/losninger/marine/spenningskvalitet
 2026-03-27T09:30:36.410Z	https://www.lastmile.no/losninger/havbruk/spenningskvalitet

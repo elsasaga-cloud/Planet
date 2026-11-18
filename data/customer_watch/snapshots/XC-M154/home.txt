@@ -1,4 +1,4 @@
-# XC-M154 Pulse Supply · home · https://pulsesupply.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# XC-M154 Pulse Supply · home · https://pulsesupply.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Telecommunications & WAN Equipment Supplier – Pulse Supply
 Email: Sales and Support
 410.583.1701
@@ -243,8 +243,8 @@ MS Teams Room Kits
 Yealink Pricing
 Zhone (DZS)
 Solutions
-General Solutions
 Popular Solutions
+Don't throw out your legacy serial data and old cellular solutions!
 Ruggedized Communications for Nuclear Small Modular Reactors
 Class 4 and Class 5 Softswitch Replacement
 My network is under attack!
@@ -258,6 +258,7 @@ Terminate SS7: Media gateway?
 WAN optimization: Easy?
 Replace analog phone lines? A Solution?
 ISDN over IP - Solution?
+General Solutions
 Services
 Consult & Design
 Installation

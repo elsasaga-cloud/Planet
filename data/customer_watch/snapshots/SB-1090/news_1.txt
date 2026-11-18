@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -74,6 +74,14 @@ Blog
 Últimas da Trama
 Pesquise no blog
 Todas as categorias
+Mídias Sociais
+Produção de Conteúdo
+Opinião Pública
+Videocast Diálogos
+Eventos
+Consumo
+Inbound Marketing
+Infográfico
 Assessoria de Imprensa
 Revistas e Jornais Corporativos
 marketing de conteúdo
@@ -123,19 +131,11 @@ Marketing de Busca
 Transporte
 Relações Públicas
 Podcast Diálogos
-Mídias Sociais
-Produção de Conteúdo
-Opinião Pública
-Videocast Diálogos
-Eventos
-Consumo
-Inbound Marketing
-Infográfico
 Comunicação Interna Diversidade nas empresas: o papel da Comunicação Interna
 Grandes empresas estão revendo suas políticas de diversidade e inclusão. Como a Comunicação Interna pode ajudar a proteger esses compromissos e fortalecer a cultura organizacional?
 16 novembro 2026 | Michel Baptista
 Inteligência Artificial
-Business Hub: Empresas agora podem gerenciar seus perfis no ChatGPT
+Business Hub: ChatGPT agora permite que empresas gerenciem um perfil de marca
 OpenAI lança o Business Hub, ferramenta que permite atualizar informações corporativas e acompanhar como empresas aparecem na plataforma. Entenda o impacto para a reputação digital.
 13 novembro 2026 | Trama Comunicação
 Digital
@@ -168,7 +168,7 @@ Anteriores
 Próximos
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-Name
+Company
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-Instagram
+LinkedIn
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

@@ -1,5 +1,7 @@
-# SC-1194 eldi.no · feed_auto · https://www.eldi.no/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
-Tue, 17 Nov 2026 09:38:51 +0000	Trykksensor 10 Bar med Display	https://www.eldi.no/trykksensor-10-bar-med-display/
+# SC-1194 eldi.no · feed_auto · https://www.eldi.no/feed/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+Wed, 18 Nov 2026 06:41:22 +0000	Trykksensor 10 Bar G1/2 med Display	https://www.eldi.no/trykksensor-10-bar-g1-2-med-display/
+Wed, 18 Nov 2026 06:40:08 +0000	Trykksensor 5 Bar G1/2 med Display	https://www.eldi.no/trykksensor-5-bar-g1-2-med-display/
+Tue, 17 Nov 2026 09:38:51 +0000	Trykksensor 10 Bar G1/4 med Display	https://www.eldi.no/trykksensor-10-bar-med-display/
 Mon, 02 Nov 2026 12:46:35 +0000	PH301 Bærbart Flowmeter	https://www.eldi.no/ph301-baerbart-flowmeter/
 Sat, 03 Oct 2026 08:30:47 +0000	Industriell PC, vifteløs, N150	https://www.eldi.no/industriell-pc-viftelos-n150/
 Fri, 18 Sep 2026 09:51:59 +0000	Portabelt CL2 klorgass instrument	https://www.eldi.no/portabelt-cl2-klorgass-instrument/
@@ -7,5 +9,3 @@ Mon, 31 Aug 2026 06:03:14 +0000	PT1000 Temperatursensor Silikonkabel 3m	https://
 Thu, 20 Aug 2026 12:19:21 +0000	Kort 1″ Brakett, G-gjenger, 316SS	https://www.eldi.no/kort-1-brakett-g-gjenger-316ss/
 Thu, 30 Jul 2026 07:51:57 +0000	Acrel Split Core Hall Strøm Sensor 100A/5V Ø40mm	https://www.eldi.no/acrel-split-core-hall-strom-sensor-100a-5v-o40mm/
 Thu, 30 Jul 2026 07:32:08 +0000	Acrel Split Core Hall Strøm Sensor 100A/5V Ø20mm	https://www.eldi.no/acrel-split-core-hall-strom-sensor-100a-5v-o20mm/
-Thu, 30 Jul 2026 07:20:02 +0000	Acrel 6 kanals DC energimåler	https://www.eldi.no/acrel-6-kanals-dc-energimaler/
-Tue, 28 Jul 2026 06:52:11 +0000	DC energimåler med innebygget shunt	https://www.eldi.no/dc-energimaler-med-innebygget-shunt/

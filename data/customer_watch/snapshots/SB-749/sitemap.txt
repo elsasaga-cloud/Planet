@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -48,8 +48,8 @@
 2026-07-31	https://www.ecin.ca/cookie-policy
 2026-09-08	https://www.ecin.ca/demo
 2026-09-09	https://www.ecin.ca/faq
-2026-09-08	https://www.ecin.ca/fusion
-2026-10-29	https://www.ecin.ca/home
+2026-11-17	https://www.ecin.ca/fusion
+2026-11-18	https://www.ecin.ca/home
 2026-09-08	https://www.ecin.ca/industries
 2026-11-16	https://www.ecin.ca/maestrofusion
 2026-10-06	https://www.ecin.ca/maestrovision
@@ -64,7 +64,7 @@
 2026-09-08	https://www.ecin.ca/open-solutions
 2026-10-06	https://www.ecin.ca/open-visibility
 2026-05-15	https://www.ecin.ca/packet-broker
-2026-11-13	https://www.ecin.ca/packetmaestro
+2026-11-17	https://www.ecin.ca/packetmaestro
 2026-09-08	https://www.ecin.ca/packetmaestro-pro
 2026-09-23	https://www.ecin.ca/partners
 2026-09-08	https://www.ecin.ca/partners-channel
@@ -107,6 +107,7 @@
 	https://www.ecin.ca/shop/en-qsfp28-fr1-100g-fr1-qsfp28-single-lambda-1310nm-2km-duplex-lc-smf-optical-transceiver-4795
 	https://www.ecin.ca/shop/en-qsfp28-lr1-100g-lr1-qsfp28-single-lambda-1310nm-10km-duplex-lc-smf-transceiver-4796
 	https://www.ecin.ca/shop/en-qsfp28-lr4-100g-lr4-single-rate-ethernet-qsfp28-xcvr-smf-hs-design-10km-4790
+	https://www.ecin.ca/shop/en-q28aoc-10m-100g-qsfp28-to-qsfp28-active-optical-cable-aoc-10m-mmf-multi-vendor-compatible-9634
 	https://www.ecin.ca/shop/en-qsfp28-sr4-100g-sr4-qsfp28-850nm-mmf-100m-mpo-4785
 	https://www.ecin.ca/shop/cvr-qsfp28-sfp28-eci-100g-40g-to-25g-10g-qsfp28-to-sfp28-adapter-with-eeprom-cisco-compatible-3885
 	https://www.ecin.ca/shop/qsa-qsfp28-sfp28-100g-40g-to-25g-10g-qsfp28-to-sfp28-universal-qsa-adapter-multi-vendor-10802
@@ -140,6 +141,4 @@
 	https://www.ecin.ca/shop/en-qdd-sr8-400g-sr8-qsfp-dd-xcvr-850nm-100m-mmf-mpo-16-apc-msa-5709
 	https://www.ecin.ca/shop/en-qdd-xdr4-400g-xdr4-qsfp-dd-dr4-2km-smf-mpo-12-apc-msa-5711
 	https://www.ecin.ca/shop/en-qdd-dco-zr-400g-zr-qsfp-dd-coherent-dco-up-to-120km-smf-fiber-lc-msa-8278
-	https://www.ecin.ca/shop/en-qdd-dco-zr-p-400g-zr-pro-qsfp-dd-coherent-dco-smf-fiber-lc-450km-80km-unamplified-reach-msa-8906
-	https://www.ecin.ca/shop/en-qdd-dco-zr-400g-zr-qsfp-dd-coherent-dco-smf-fiber-lc-450km-reach-msa-8279
-	https:
+	https://www.ecin.ca/shop/en-qdd-dco-zr-p-400g-zr-pro-qsfp-dd-coherent-dco-smf-fiber-lc-450km-80km-unamplified-r

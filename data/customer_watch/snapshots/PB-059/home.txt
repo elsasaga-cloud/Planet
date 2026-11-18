@@ -1,4 +1,4 @@
-# PB-059 Europ Computer Performance SARL（ECP） · home · https://www.europ-computer.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# PB-059 Europ Computer Performance SARL（ECP） · home · https://www.europ-computer.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Grossiste informatique et distributeur de matériel & accessoires high-tech | ECP
 Europ Computer Performance grossiste et distributeur informatique : 01.49.98.98.98
 
@@ -1161,6 +1161,7 @@ Recertifié
 Produits contrôlés et reconditionnés
 Seconde Vie
 DESTOCKAGE
+LG SIGNAGE – Jusqu'à 2 000 € de remise pour la fin d'année !
 Synology Neo+
 Asus Offre speciale 4+1
 PC SPECIAL IA
@@ -1197,7 +1198,4 @@ Réf ECP : SYN00054307
 Réf constructeur : DS925NEO+
 EAN : 4711174727087
 Disponibilité : En stock
-SYNOLOGY
-Réf ECP : SYN00054343
-Réf constructeur : DS1525NEO+
-EA
+SY

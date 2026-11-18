@@ -1,4 +1,4 @@
-# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Nauji produktai - Katalita.lt
 0
 Turite klausimų? Tel: +370 603 03213 ,
@@ -347,6 +347,21 @@ TELTONIKA ENERGY, UAB
 TELTONIKA TELEMATICS, UAB
 Your browser does not support the video tag.
 Nauji produktai
+2026-11-17
+TP-LINK Omada 5-Port 2.5G BASE-T and 1-Port 10GE SFP+ Easy Managed Switch with 4-Port PoE++ (ES206XPP-M2)
+24x 2.5G RJ45 Ports (8x PoE++ and 16x PoE+) | 4x 10G SFP+ Slots | 1x RJ45 Console Port | 1x Micro-USB Console Port | 500 W total PoE budget | Integrated into Omada SDN
+2026-11-17
+TP-LINK Bluetooth 6.0 Nano USB Adapter (UB600)
+Turn non-Bluetooth PC or laptop into Bluetooth-capable | Bluetooth 6.0 | USB 2.0 | Plug and Play for Win 11/10/8.1/7 | Nano-Sized
+2026-11-17
+TP-LINK Omada Access 10-Port Gigabit Switch with 8-Port PoE+ (SG2210MP)
+8x 802.3at/af-compliant PoE+ ports | 2x Gigabit SFP Slots | Total power budget of 150W | Integrated into Omada SDN
+2026-11-17
+TP-LINK Omada 10-Port Gigabit Easy Managed Switch with 8-Port PoE+ (ES210GP)
+9x Gigabit RJ45 LAN ports (8x 802.3af/at-compliant PoE+) | 1x Gigabit SFP/RJ45 Combo slots | Up to 63W Power Budget, with up to 30W for each PoE port | Up to 250m data and power transmission under extend mode| Fanless | Integrated into Omada SDN
+2026-11-17
+TP-LINK Omada Access 28-Port Gigabit Switch with 24-Port PoE+ (SG2428P)
+24x PoE+ Gigabit LAN ports (up to 30W per port, 250W total budget) | 4x Gigabit SFP ports | Up to 250m data and power transmission under extend mode | Integrated into Omada SDN
 2026-11-12
 MIKROTIK Hot Swap power supply for for the CRS320 PoE++ switch (G1317-0600W)
 Designed for CRS320-8P-8B-4S+RM (as spare/replacement)
@@ -372,16 +387,4 @@ Wireless Protocols: Matter over Thread, Bluetooth (device setup only) | Monitors
 MIKROTIK IoT Gateway KNOT LR8 (L14G-2ax-BT5-LR8&EG800K)
 LoRa® 868MHz | CAT1 bis LTE modem | nanoSIM/eSIM | Wi-Fi 6 2.4 GHz wireless (802.11b/g/n/ax) | Bluetooth (V5.1) | Gigabit Ethernet | PoE-In (af/at) & surge protection | Multi- GNSS GPS | IP66 | Router OS (Licence level 4)
 2026-10-16
-AQARA Smart Home Panel Hub S1 Plus (Desktop Version) (MP-K05D)
-Wireless Protocols: Zigbee 3.0, Bluetooth | Wi-Fi IEEE 802.11 a/b/g/n/ac 2.4/5 GHz | Touch Screen Resolution: 1440 x 720 | Up to 60 devices | USB-C powering (5V 2A) | Built-in Speaker | Matter Compatible
-2026-10-09
-UBIQUITI Indoor/outdoor, 2x2 MU-MIMO, 2.4/5 GHz, WiFi 7 Access Point WiFi 7 Mesh (U7-Mesh)
-Aggregated wireless data transfer speed up to 5 Gbps | 2.4/5 GHz | Standards 802.11a/b/g/n/ac/ax/be is supported | MU-MIMO 2×2 | PoE 802.3af supported | IPX6-rated | WiFi 7
-2026-09-25
-UBIQUITI UniFi Protect G6 Pro Dome Camera, White (UVC-G6-Pro-Dome-W)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-25
-UBIQUITI UniFi Protect G6 Pro Dome Camera, Black (UVC-G6-Pro-Dome-B)
-4K (8MP) Ultra HD Resolution (3840 x 2160, 30 FPS) | 2.36x Optical Zoom (F 5.9-13.8 mm, ƒ/1.5 to ƒ/2.9) | H.264 | Up to 40 m (131 ft) IR night vision | AI event detections | Microphone | IP66/IK10 | Wall/Ceiling Mount | 802.3af/802.3at support (PoE adapter not included)
-2026-09-25
-UBIQUITI UniFi Pro
+AQARA Sm

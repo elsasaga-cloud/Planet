@@ -1,4 +1,4 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
 2026-11-12	https://www.radwin.com/app/suint
 2026-01-22	https://www.radwin.com/become-a-partner
@@ -13,7 +13,7 @@
 2026-03-12	https://www.radwin.com/contact-radwin-certification
 2026-03-12	https://www.radwin.com/contact-request-a-quote
 2026-04-13	https://www.radwin.com/contact-support-request
-2026-11-16	https://www.radwin.com/contactus
+2026-11-17	https://www.radwin.com/contactus
 2026-08-16	https://www.radwin.com/cookie-policy
 2026-10-29	https://www.radwin.com/descubre-qora
 2026-10-25	https://www.radwin.com/employee/form

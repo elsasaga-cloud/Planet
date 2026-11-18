@@ -1,4 +1,4 @@
-# SB-961 top-fa.com · news_1 · https://top-fa.com/bbs/board.php?bo_table=news · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-961 top-fa.com · news_1 · https://top-fa.com/bbs/board.php?bo_table=news · fetched 2026-11-18T10:22:47Z · HTTP 200
 news 1 페이지 | 자동화의 모든것 TOP-FA!
 CART
 HOME
@@ -85,7 +85,7 @@ ADCSYSTEM 자체 제작 임베디드 시스템
 2016 Aimex 전시회참가 안내(3월 9일~3월 11일)
 최고관리자
 02-11
-12107
+12108
 게시물 검색
 검색대상
 제목

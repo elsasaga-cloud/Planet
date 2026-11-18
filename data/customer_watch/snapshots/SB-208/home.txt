@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-18T10:22:47Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,45 +66,43 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-Delock Keystone metallinen kiinnike 3 porttia DIN-kiskolle
-Tämä Delockin Keystone-pidike voidaan asentaa 35 mm DIN-kiskoon. Standardoitujen...
-5,90 €
-Saatavilla 4 kpl
-HP 953 magenta patruuna
-HP 953 - 10 ml - magenta - alkuperäinen Käyttömäärä: Jopa 700 sivua
-Yhteensopivuus: HP Officejet Pro 7720 Wide Format, 7730...
-36,00 €
-CoreParts 32Wh, 4 Cell Li-ion 14.8V 2.2Ah HP akku
+CoreParts 73Wh, 9 Cell Li-ion 11.1V 6.6Ah Dell akku
 Yhteensopiva
-HP/Compaq Laptops and Hybrids 350 G1 Notebook PC...
-49,00 €
-Tarvikelaserkasetti Canon CRG075H 6367C002 magenta
-Yhteensopiva tarvikelaserkasetti Canon CRG075H 6367C002 magenta
-Sopii...
-88,90 €
-CORSAIR CX Series CX750 750W ATX virtalähde
-Laitteen tyyppi: Virtalähde - sisäinen
-PSU koko ja...
-80,00 €
-APC Back-UPS BE650G2 - UPS - 400 watt - 650 VA
-Laitteen tyyppi: UPS - ulkoinen
-Väri: Musta
-Tulojännite: Vaihtovirta...
-159,00 €
-Delock antennikaapeli N plug > RP-SMA plug CFD400 LLC400 5 m
-Tämä korkealaatuinen koaksiaalikaapeli varmistaa radiotaajuustekniikan komponenttien...
-94,00 €
-Delock 5,25" asennuskehikko 1x3,5"
-Kotelon 5,25" paikkaan asennettava asennuskehikko yhdelle 3,5" asemalle.
-Väri musta, materiaali muovi. Mukana 8...
-6,00 €
+Dell Latitude E6320 E5430 E6230 E6330 E6220...
+65,00 €
+HP 659A W2010A musta laserkasetti
+Yhteensopiva
+HP Color LaserJet Enterprise M856dn (T3U51A) HP Color LaserJet Enterprise Flow MFP M776z (3WT91A) HP...
+233,00 €
+Herma tarra-arkki irroitettava 25,4mmx16,9mm, tarroja 2800 kpl
+Herma tarra kooltaan 25,4mmx16,9mm
+Yhdellä A4...
+12,90 €
 Saatavilla 2 kpl
-ROLINE RS232 kaapeli, DB9 uros - naaras 6.0 m
-RS232 kaapeli DB9 liitin, uros naaras
-Pituus 6m
-Kytketty 1:1...
-16,90 €
-Saatavilla 3 kpl
+Delock paneelikiinnike ST Simplex naaras - naaras, hopea / valkoinen
+Tätä Delockin valokuitupaneelikiinnikettä voidaan käyttää valokuitukaapeleiden...
+8,20 €
+Delock RJ45-jatkoliitin pölysuojalla DIN-kiskoon, suojaamaton, harmaa
+Tätä Delockin jatkopala-adapteria voidaan käyttää kahden...
+7,55 €
+Saatavilla 0 kpl
+Mousetrapper Lite musta
+Mousetrapper Lite Keskelle näppäimistön eteen sijoitettava Mousetrapper mahdollistaa hyvän ergonomisen...
+350,00 €
+CoreParts HP 14.4V 4400mAh 8Cell Black
+MicroBattery -akku HP Probook 4XXX-sarjan kannettaville ja yhteensopiville laitteille. Yhteensopivat tuotteet:
+HP/Compaq ProBook...
+52,00 €
+LogiLink PCI USB 2.0 4+1 lisäkortti
+USB 2.0 PCI -kortti
+4 x ulkoinen USB 2.0 Type A -naaras
+1 x...
+9,90 €
+Ethernetkaapeli Cat.6A 10G S/FTP PIMF valkoinen 3m
+RJ45 Ethernet kaapeli Cat.6A S/FTP, tuplasuojaus, myös parit
+10...
+8,90 €
+Saatavilla 9 kpl
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

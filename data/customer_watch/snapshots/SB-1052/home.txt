@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -39,6 +39,116 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+Step Power Supply 24V DC, 0,63A, 15W DN-PWR-SST-1524
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSST1524
+Ár:
+3.980 Ft + ÁFA
+(5.055 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Step Power Supply 12V DC, 2A, 24W DN-PWR-SST-2412
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSST2412
+Ár:
+4.922 Ft + ÁFA
+(6.251 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Step Power Supply 24V DC, 1,5A, 36W DN-PWR-SST-3624
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSST3624
+Ár:
+4.597 Ft + ÁFA
+(5.838 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Power Supply 24V DC, 120W DN-PWR-STD-12024
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSTD12024
+Ár:
+14.178 Ft + ÁFA
+(18.006 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Power Supply 48V DC, 240W DN-PWR-STD-24048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSTD24048
+Ár:
+24.746 Ft + ÁFA
+(31.427 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Power Supply 48V DC DN-PWR12048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-PWR1204
+Ár:
+17.032 Ft + ÁFA
+(21.631 Ft)
+1 db raktáron
+db
+Kosárba
+Részletek
+Industrial Power Supply 48V DC 240 W DN-PWR24048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-PWR2404
+Ár:
+28.547 Ft + ÁFA
+(36.255 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Step Power Supply 5V DC, 2.4A, 12W DN-PWR-SST-125
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGDNPWRSST125
+Ár:
+3.958 Ft + ÁFA
+(5.027 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Step Power Supply 12V DC, 1,25A, 15W DN-PWR-SST-1512
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSST1512
+Ár:
+3.919 Ft + ÁFA
+(4.977 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port Gigabit Switch DN-651150
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651150
+Ár:
+59.314 Ft + ÁFA
+(75.329 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial 8+2-Port L2 Gigabit Switch DN-651156
 ÚJDONSÁG!
 Villámnézet
@@ -171,17 +281,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8+2-Port Gigabit Switch DN-651150
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651150
-Ár:
-59.314 Ft + ÁFA
-(75.329 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Tooltest - 4p,6p,8p fogó + teszter
 ÚJDONSÁG!
 Villámnézet
@@ -277,7 +376,7 @@ Cikkszám: K288542-EASY
 Ár:
 110 Ft + ÁFA
 (140 Ft)
-690 db raktáron
+190 db raktáron
 db
 Kosárba
 Részletek
@@ -331,7 +430,7 @@ Hírek
 2026. 11. 17.
 Gigabites, PoE és menedzselhető ipari switchek már előrendelhetők
 Örömmel tájékoztatjuk partnereinket, hogy hamarosan új DIGITUS ipari hálózati eszközök érkeznek a LAN.HU kínálatába. Az új termékek között megtalálhatók a nem menedzselhető és Layer 2 menedzselhető Ethernet switchek, PoE modellek, valamint optikai uplinket támogató ipari hálózati megoldások is.
-Az eszközök már előrendelhetők, a várható beérkezés pedig 1 héten belül várható.
+Az eszközök már előrendelhetők.
 Részletek
 ⚠️ Fontos tájékoztatás az e-mailes elérhetőségünkről ⚠️
 2026. 11. 13.
@@ -388,7 +487,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-27385 m raktáron
+26385 m raktáron
 m
 Kosárba
 Részletek
@@ -398,7 +497,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-16837 m raktáron
+16227 m raktáron
 m
 Kosárba
 Részletek
@@ -418,7 +517,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-10420 m raktáron
+5065 m raktáron
 m
 Kosárba
 Részletek
@@ -432,99 +531,4 @@ Cikkszám: K1142050FÖLD
 m
 Kosárba
 Részletek
-UTP Cat6A falkábel kék 305m LSOH DK-1613-A-VH-305
-Villámnézet
-Cikkszám: K1120501C6ADIG
-Ár:
-225 Ft + ÁFA
-(286 Ft)
-9950 m raktáron
-m
-Kosárba
-Részletek
-FTP CAT6A falkábel, LSOH 305M DK-1623-A-VH-305
-Villámnézet
-Cikkszám: TA-K661ADIG
-Ár:
-230 Ft + ÁFA
-(292 Ft)
-19220 m raktáron
-m
-Kosárba
-Részletek
-Keystone modul FTP Cat6a (180 fokos) toolless DN-93615
-Villámnézet
-Cikkszám: TA-180FTPC6ATD
-Ár:
-1.454 Ft + ÁFA
-(1.847 Ft)
-1169 db raktáron
-db
-Kosárba
-Részletek
-UTP Cat5e falkábel, PVC 305m DK1511-V-305-1
-Villámnézet
-Cikkszám: TA-K561DIG
-Ár:
-115 Ft + ÁFA
-(146 Ft)
-3660 m raktáron
-m
-Kosárba
-Részletek
-FTP Cat5 földkábel FTK5814,DK-1521-V-5-OD
-Villámnézet
-Cikkszám: K1142060FÖLD
-Ár:
-186 Ft + ÁFA
-(236 Ft)
-2673 m raktáron
-m
-Kosárba
-Részletek
-Kiemelt ajánlatunk
-CableMaster 210 teszter
-Villámnézet
-Cikkszám: PSI-CM210
-Eredeti ár:
-21.800 Ft
-Akciós ár:
-19.185 Ft + ÁFA
-(24.365 Ft)
-3 db raktáron
-db
-Kosárba
-Részletek
-Cat7 S/FTP PiMF LSOH/3 1200Mhz AWG23/1 500m DK-1743-VH-5
-Villámnézet
-Cikkszám: K1131043
-Ár:
-248 Ft + ÁFA
-(315 Ft)
-27385 m raktáron
-m
-Kosárba
-Részletek
-Keystone modul FTP Cat6a (180 fokos) toolless DN-93615
-Villámnézet
-Cikkszám: TA-180FTPC6ATD
-Ár:
-1.454 Ft + ÁFA
-(1.847 Ft)
-1169 db raktáron
-db
-Kosárba
-Részletek
-Cat7 S/FTP PiMF LSZH-3 600Mhz AWG26/1 DK-1743-VH-305-MF-W 305m
-Villámnézet
-Cikkszám: K11310743
-Ár:
-199 Ft + ÁFA
-(253 Ft)
-16837 m raktáron
-m
-Kosárba
-Részletek
-3000 VA line interactive UPS Rack-Tower Power Walker/10120024
-Villámnézet
 

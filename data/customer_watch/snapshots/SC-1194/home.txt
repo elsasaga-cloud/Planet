@@ -1,4 +1,4 @@
-# SC-1194 eldi.no · home · https://www.eldi.no/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SC-1194 eldi.no · home · https://www.eldi.no/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 ELDI AS - Automasjon for alle Prosjekter
 Skip to content
 Til nettbutikken >
@@ -29,8 +29,12 @@ ELDI tilbyr et bredt utvalg produkter til både kommersiell og industriell autom
 Bli Kunde
 ELDI Utvider stadig sortimentet med nye og spennende produkter og løsninger. Vær først i køen ved å bli med på vårt nyhetsbrev!
 NYHETER
-Trykksensor 10 Bar med Display
+Trykksensor 10 Bar G1/2 med Display
 Logg inn for å se priser
+PT300S-10-2-Display
+Trykksensor 5 Bar G1/2 med Display
+PT300S-5-2-Display
+Trykksensor 10 Bar G1/4 med Display
 PT300S-10-Display
 PH301 Bærbart Flowmeter
 PH301-CT030
@@ -50,9 +54,6 @@ Acrel 6 kanals DC energimåler
 AMC16-DETT-6x100A
 DC energimåler med innebygget shunt
 EPRO-DC48-240
-Sedona Advanced Application Controller med LCD
-iSMA-B-AAC20-LCD
-iSMA Panel med CO2 og temperatur sensor, RS485 BACnet og modbus
 ANBEFALTE PRODUKTER
 TM601 Flowmeter
 X2View HMI panel 7″ med Gateway og Web funksjon

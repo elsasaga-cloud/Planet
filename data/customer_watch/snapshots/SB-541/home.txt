@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-541 kbcnetworks.com · home · https://kbcnetworks.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 KBC Networks - KBC Networks - Home
 PRODUCTS
 NETWORK SWITCHES
@@ -22,12 +22,13 @@ REFERENCES
 CASE STUDIES/APPLICATIONS
 BROCHURES & INFOSHEETS
 SUPPORT
+SUPPORT FAQs
 SATISFACTION SURVEY
 CELLULAR APNS
-DESIGN & SUPPORT
 SWITCH COMPARISON
 SOLAR & BATTERY ESTIMATOR
 DOWNLOAD RESOURCES
+DESIGN & SUPPORT
 NEWS & EVENTS
 BLOG
 KBC BLOG
@@ -128,12 +129,12 @@ WAN or LAN use
 Find out more
 Case studies and applications
 Application examples and Case studies where KBC solutions have made transmisison and power simple and reliable
+Navigating the IP Migration Challenge at Sea
+KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
+Read more
 Real-Time Traffic Control and
 Smart City Objectives
 ThruLink™ provided a simple, secure, and cost-effective integrated solution for growth in Kuwait. Integration included traffic enforcement and ANPR camera systems, traffic control and traffic radar systems, and the replacement of Tetra with a Band 28 solution.
-Read more
-Navigating the IP Migration Challenge at Sea
-KBC eCopper™ Ethernet over Coax provided the critical transmission layer, enabling IP video, PTZ control, and PoE++ over the ship’s existing coaxial cabling requiring no remote power, and facilitating a simple and fast IP upgrade
 Read more
 Countrywide Rail Crossing
 Safety and Communication
@@ -184,12 +185,13 @@ REFERENCES
 CASE STUDIES/APPLICATIONS
 BROCHURES & INFOSHEETS
 SUPPORT
+SUPPORT FAQs
 SATISFACTION SURVEY
 CELLULAR APNS
-DESIGN & SUPPORT
 SWITCH COMPARISON
 SOLAR & BATTERY ESTIMATOR
 DOWNLOAD RESOURCES
+DESIGN & SUPPORT
 NEWS & EVENTS
 BLOG KBC BLOG
 LATIN AMERICA
@@ -221,7 +223,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Email
+Phone
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -482,7 +484,7 @@ Yemen
 Zambia
 Zimbabwe
 Submit
-Phone
+First Name
 ×
 Select Country
 Afghanistan
@@ -713,6 +715,4 @@ Turkey
 Turkmenistan
 Turks and Caicos Islands
 Tuvalu
-Uganda
-Ukraine
-United Arab Emirates
+Ugan

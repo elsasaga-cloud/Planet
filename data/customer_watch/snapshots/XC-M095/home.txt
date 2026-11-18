@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-17T10:52:12Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-18T10:22:47Z · HTTP 200
 Soluzioni Embedded per Edge Computing | GOMA
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -116,16 +116,16 @@ DM2-W101G-R10 →
 Ogni mese nuove referenze selezionate a catalogo.
 Vedi tutte le novità →
 Un catalogo, cinque domini
-Oltre 2.100 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
+Oltre 2.000 prodotti dei principali partners internazionali, organizzati per trovarli in fretta.
 Sistemi e Piattaforme
 Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
 Computer Embedded 130
 Server, Workstation e PC Industriali 107
-Sistemi su Architetture Aperte 90
+Server e Workstation Rugged 88
 Computer Embedded 130
 Server, Workstation e PC Industriali 107
-Sistemi su Architetture Aperte 90
-493 prodotti →
+Server e Workstation Rugged 88
+488 prodotti →
 HMI e Panel PC
 Monitor industriali e rugged, panel PC, tastiere, consolle e cassetti KVM da rack.
 Monitor Industriali 195
@@ -138,12 +138,12 @@ Monitor Rugged 35
 Schede e Moduli
 VME, OpenVPX, CompactPCI, COM e mezzanine: l'embedded scheda per scheda.
 Moduli Mezzanine 210
-MicroTCA 173
+MicroTCA 167
 Schede di I/O PCI e PCIe 162
 Moduli Mezzanine 210
-MicroTCA 173
+MicroTCA 167
 Schede di I/O PCI e PCIe 162
-926 prodotti →
+920 prodotti →
 Dispositivi Networking
 Switch, router e media converter per reti industriali affidabili.
 Switch Ethernet Industriali 119
@@ -163,17 +163,17 @@ Armadi IP e EMC 5
 Armadi Server 5
 Armadi a Rack 19″ da Parete 4
 23 prodotti →
-2.100 +
+2.000 +
 Tutto il catalogo
 Cerca per categoria, architettura, standard o part number.
 Esplora tutto il catalogo →
 Rappresentiamo i partners che definiscono gli standard
-Distribuzione ufficiale e supporto applicativo diretto, in italiano, per 42 partners internazionali.
+Distribuzione ufficiale e supporto applicativo diretto, in italiano, per 41 partners internazionali.
 Vedi tutti i partners
 Perché GOMA
 Quello che un distributore da solo non fa.
 Selezione, non assortimento
-42 partners rappresentati ufficialmente: ogni prodotto entra a catalogo dopo una valutazione tecnica, non per volume.
+41 partners rappresentati ufficialmente: ogni prodotto entra a catalogo dopo una valutazione tecnica, non per volume.
 La prima risposta è tecnica
 Chi risponde sa leggere uno schema: la linea diretta è quella dell'ufficio tecnico-commerciale di Torino.
 Accanto per tutto il ciclo di vita

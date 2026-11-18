@@ -1,4 +1,22 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-18T10:22:47Z · HTTP 200
+17.11.2026 14.42.21	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-23-e/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1270-1330nm-12db
+17.11.2026 14.41.14	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-32-e/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1330-1270nm-12db-extreme
+17.11.2026 14.40.45	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-32-ai/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1330-1270nm-12db-alcatel-isam
+17.11.2026 14.40.44	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-32-a/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1330-1270nm-12db-alcatel
+17.11.2026 14.39.43	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-23-ai/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1270-1330nm-12db-alcatel-isam
+17.11.2026 14.39.41	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-23-a/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1270-1330nm-12db-alcatel
+17.11.2026 13.24.50	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c57-ai/sfp28-25gbase-lr-ddm-10km-cwdm-1571nm-13db-sm-alcatel-isam
+17.11.2026 13.24.50	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c55-ai/sfp28-25gbase-lr-ddm-10km-cwdm-1551nm-13db-sm-alcatel-isam
+17.11.2026 13.24.50	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c53-ai/sfp28-25gbase-lr-ddm-10km-cwdm-1531nm-13db-sm-alcatel-isam
+17.11.2026 13.24.50	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c51-ai/sfp28-25gbase-lr-ddm-10km-cwdm-1511nm-13db-sm-alcatel-isam
+17.11.2026 13.24.50	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c49-ai/sfp28-25gbase-lr-ddm-10km-cwdm-1491nm-13db-sm-alcatel-isam
+17.11.2026 13.24.49	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c47-ai/sfp28-25gbase-lr-ddm-10km-cwdm-1471nm-13db-sm-alcatel-isam
+17.11.2026 13.24.49	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c57-a/sfp28-25gbase-lr-ddm-10km-cwdm-1571nm-13db-sm-alcatel
+17.11.2026 13.24.49	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c55-a/sfp28-25gbase-lr-ddm-10km-cwdm-1551nm-13db-sm-alcatel
+17.11.2026 13.24.49	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c53-a/sfp28-25gbase-lr-ddm-10km-cwdm-1531nm-13db-sm-alcatel
+17.11.2026 13.24.48	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c51-a/sfp28-25gbase-lr-ddm-10km-cwdm-1511nm-13db-sm-alcatel
+17.11.2026 13.24.48	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c49-a/sfp28-25gbase-lr-ddm-10km-cwdm-1491nm-13db-sm-alcatel
+17.11.2026 13.24.45	SFP28, 25GBASE-LR, DDM, 10km	https://www.fiberworks.no/fiberworks-as/sfp28-l10d-c47-a/sfp28-25gbase-lr-ddm-10km-cwdm-1471nm-13db-sm-alcatel
 17.11.2026 09.03.05	Snor SM DPX Armert LC/UPC-LC/UPC 25 m	https://www.fiberworks.no/fiberworks-as/p-7a1-uay-lcu-lcu-25/snor-sm-dpx-armert-lc-upc-lc-upc-25-m-9-os2-g-dot-657-dot-a1-%c3%b83mm-gul-lszh-lc-uniboot
 13.11.2026 14.05.43	Patch MPO12(m) - MPO12(f), pol. B, 1 m	https://www.fiberworks.no/fiberworks-as/p-om4-m3m-m1mbm1f-01/patch-mpo12m-mpo12f-pol-dot--b-1-m-50-om4-bif-%c3%b83mm-magenta-super-ll
 13.11.2026 13.44.57	SFP, 100/155Mbps FE, 2km, DDM, I-temp	https://www.fiberworks.no/fiberworks-as/sfp-100basefx-rgd-fn/sfp-100-155mbps-fe-2km-ddm-i-temp-1300nm-9db-mm-fortinet
@@ -46,20 +64,4 @@
 04.11.2026 10.04.05	Patch SM MPO/APC8(m)/(m), pol A, 12 m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mam8m-12/patch-sm-mpo-apc8m-m-pol-a-12-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
 02.11.2026 13.19.29	Fiberworks 8+1 ch. 800G DWDM Mux+Demux	https://www.fiberworks.no/fiberworks-as/f-d2mux-8-plus-1-2135-l3/fiberworks-8-plus-1-ch-dot--800g-dwdm-mux-plus-demux-itu-ch-dot--21-35-200-ghz-upg-1310wb-lgx3
 02.11.2026 13.13.52	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-5960/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c59--and--c60-drop-and-continue-lc
-02.11.2026 13.13.51	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-5758/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c57--and--c58-drop-and-continue-lc
-02.11.2026 13.13.51	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-5556/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c55--and--c56-drop-and-continue-lc
-02.11.2026 13.13.51	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-5354/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c53--and--c54-drop-and-continue-lc
-02.11.2026 13.13.51	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-5152/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c51--and--c52-drop-and-continue-lc
-02.11.2026 13.13.51	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-4950/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c49--and--c50-drop-and-continue-lc
-02.11.2026 13.13.51	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-4748/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c47--and--c48-drop-and-continue-lc
-02.11.2026 13.13.50	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-4546/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c45--and--c46-drop-and-continue-lc
-02.11.2026 13.13.50	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-4344/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c43--and--c44-drop-and-continue-lc
-02.11.2026 13.13.50	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-4142/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c41--and--c42-drop-and-continue-lc
-02.11.2026 13.13.50	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-3940/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c39--and--c40-drop-and-continue-lc
-02.11.2026 13.13.50	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-3738/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c37--and--c38-drop-and-continue-lc
-02.11.2026 13.13.50	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-3536/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c35--and--c36-drop-and-continue-lc
-02.11.2026 13.13.49	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-3334/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c33--and--c34-drop-and-continue-lc
-02.11.2026 13.13.49	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-3132/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c31--and--c32-drop-and-continue-lc
-02.11.2026 13.13.49	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-2930/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c29--and--c30-drop-and-continue-lc
-02.11.2026 13.13.49	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberworks.no/fiberworks-as/f-doadm-2dc-l3-2728/fiberworks-2-ch-dot--dwdm-oadm-lgx3-c27--and--c28-drop-and-continue-lc
-02.11.2026 13.13.49	Fiberworks 2 ch. DWDM OADM, LGX3	https://www.fiberwo
+02.11.2026 13.13.51	Fibe

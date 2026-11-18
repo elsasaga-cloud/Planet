@@ -1,4 +1,8 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-18T10:22:47Z · HTTP 200
+2026-10-07T11:48:27+00:00	Webinaire Industrie - Aide Communautaire	https://www.youtube.com/watch?v=J1HJ-hY71yQ
+2026-11-18T08:42:41+00:00	Webinaire Odoo 20 - Les nouveautés de Dashboard & Spreadsheet 📊	https://www.youtube.com/watch?v=jktXq484aKM
+2026-11-17T19:52:37+00:00	Odoo BI: From Data to Decisions	https://www.youtube.com/watch?v=R_RbXnVolZA
+2026-11-17T15:54:37+00:00	Webinaire - Transformez votre cabinet comptable et gérez votre portefeuille clients avec Odoo 20	https://www.youtube.com/watch?v=4UiUHT4vXGo
 2026-11-17T10:12:26+00:00	Webinaire - Simplifiez votre reporting ESG grâce aux données intégrées d’Odoo 20	https://www.youtube.com/watch?v=fikL4DHzMyk
 2026-11-16T23:00:04+00:00	More Tools or Better Systems? WAO Group’s Odoo Journey	https://www.youtube.com/watch?v=1eLY3ElrTi4
 2026-11-16T15:30:01+00:00	Odoo Point of Sale: Mollie	https://www.youtube.com/watch?v=fIoW4prnvdc
@@ -10,7 +14,3 @@
 2026-11-13T14:02:33+00:00	Das Ende der Insellösungen, Ep.8	https://www.youtube.com/watch?v=9GGW-FX8Ymg
 2026-11-13T11:33:28+00:00	Webinar - Come il fotovoltaico cresce con dati e tecnologia	https://www.youtube.com/watch?v=vSFpgqcPkDg
 2026-11-12T20:59:41+00:00	Odoo Market Analysis for Canada	https://www.youtube.com/watch?v=anuWEaoMtbE
-2026-11-12T18:29:21+00:00	Webinaire Industrie - Promoteur Immobilier	https://www.youtube.com/watch?v=vLuhdXxzcZk
-2026-11-12T11:08:44+00:00	Odoo Insider - Live Q&A - Inventory Focus with Richard	https://www.youtube.com/watch?v=bCnnJ2b04K0
-2026-11-12T05:01:12+00:00	Smart Decision-Making: Power Your Business Growth with Odoo AI	https://www.youtube.com/watch?v=bwvbOPl9bqI
-2026-11-11T20:11:22+00:00	Odoo Live Services: AI Q&A	https://www.youtube.com/watch?v=UODAa-ne-jc

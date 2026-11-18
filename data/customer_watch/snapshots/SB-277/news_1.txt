@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Certificación oficial Grandstream GCPNS en Madrid: 25, 26 y 27 de noviembre
+18 de noviembre de 2026
+Formación
+Cuatro certificaciones oficiales Grandstream en un único curso presencial en Leganés (Madrid): GCPS, Routing & Switching, Wireless y Security.
+Read More
 Grandstream GWN7712P y GWN7713P: switches PoE L2 Lite de 16 y 24 puertos
 17 de noviembre de 2026
 Conoce
@@ -67,11 +72,6 @@ Grandstream confirma que sus productos y servicios no están afectados por PHP2S
 29 de octubre de 2026
 Conoce
 Según el comunicado de Grandstream del 27 de octubre, sus equipos, firmware, aplicaciones y servicios cloud no utilizan PHP. No se requiere ninguna acción específica en despliegues Grandstream por CVE-2026-109618 y CVE-2026-109619; conviene revisar por separado otros sistemas que sí usen PHP.
-Read More
-UniFi Long-Range PoE: alimentación y datos hasta 800 metros para instalaciones remotas
-28 de octubre de 2026
-Conoce
-El Long-Range Switch 8 PoE y el Outdoor Long-Range Endpoint de Ubiquiti amplían el alcance de la conectividad cableada y PoE para cámaras, control de accesos y dispositivos IoT remotos.
 Read More
 Paginación de entradas
 1
@@ -629,4 +629,6 @@ comunicación
 comunicacion bidireccional
 comunicación empresas
 comunicacion unificada
-comunic
+comunicacion unificada grandstream
+comunicaciones
+comuni
