@@ -1,4 +1,5 @@
-# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-289 sisav.it · feed_auto · https://www.sisav.it/feed/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+Wed, 18 Nov 2026 15:45:47 +0000	DNX – test	https://www.sisav.it/dnx-test/
 Mon, 16 Nov 2026 11:16:51 +0000	PIP40	https://www.sisav.it/pip40/
 Tue, 10 Nov 2026 13:21:04 +0000	VT	https://www.sisav.it/vt/
 Tue, 10 Nov 2026 11:01:01 +0000	SS	https://www.sisav.it/ss/
@@ -10,4 +11,3 @@ Thu, 29 Oct 2026 16:26:56 +0000	NuTAM	https://www.sisav.it/nutam/
 Thu, 29 Oct 2026 15:19:34 +0000	AiTRON	https://www.sisav.it/aitron/
 Mon, 05 Oct 2026 13:34:27 +0000	MAGBES	https://www.sisav.it/magbes/
 Fri, 25 Sep 2026 13:20:32 +0000	SHW9000	https://www.sisav.it/shw9000/
-Fri, 25 Sep 2026 12:48:55 +0000	SHD9000	https://www.sisav.it/shd9000/

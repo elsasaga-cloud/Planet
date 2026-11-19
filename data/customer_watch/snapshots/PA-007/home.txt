@@ -1,4 +1,4 @@
-# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Alarm Absolon - dodavatel bezpečnostních technologií | Absolon.cz
 ×
 Z důvodu uzavírky části ulice Šaldova v úseku od Rohanského nábřeží doporučujeme při cestě na naši pražskou pobočku využít náhradní trasu přes ulici Thámova nebo Sokolovská.
@@ -34,34 +34,21 @@ Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
 Akce
-RKZ 121
-ASITA
+GSM VT-11
 Skladem
-Montážní krabice pod omítku s 8 pájecími dvojsvorkami Asita RKZ 121
+Deska GSM SMS modulu s externí anténou se 6 vstupy a 2x relé výstupem NO/NC, zajištění heslem, odpovídací SMS o stavu vstupů/výstupů, programovací kabel, vyžaduje adaptér 12V/0,8A
 Pro zobrazení ceny se přihlaste
 Akce
-DS-PDTT15AM-LM-WE
-Hikvision
+Propojovací box XtendLan Cat 5e nestíněný
+XtendLan
 Skladem
-Venkovní AxPro bezdrátový Tri-Tech 2xPIR+MW detektor DS-PDTT15AM-LM-WE, obousměrný, 15 metrů(vějíř) a 90°(možno až 180°). 92 detekujících zón. Světelný filtr: 10000lux,PET do 40Kg. CR123A x5, -25°C až 55°C,...
+Narážecí propojovací box Cat 5e. Umožňuje propojit kabelové segmenty UTP beze ztráty kvality vedení. Narážecí, univerzální konektory LSA/IDC. Pro snadnější instalaci jsou zarážky barevně označeny. Rozměry...
 Pro zobrazení ceny se přihlaste
 Akce
-JA-102KY
-Jablotron
+KVU8190V
+Comelit
 Skladem
-Ústředna Jablotron Mercury JA-102KY s LAN komunikátorem a LTE komunikátorem Lite, v plastovém krytu se zdrojem, prostor pro Aku 2,6Ah.
-Pro zobrazení ceny se přihlaste
-Akce
-DS-PWA96-M-WE/BLACK
-Hikvision
-Skladem
-HIKVISION AXpro DS-PWA96-M-WE v černé barvě, Bezdrátová ústředna, 96 vstupů, Wi-Fi, TCP/IP, GPRS/3G/4G, AES-128, Tri-X. 96 bezdrátových vstupů, Až 48 připojitelných bezdrátových klíčenek, 4 opakovače, 6...
-Pro zobrazení ceny se přihlaste
-Akce
-RWX107DT
-RISCO
-Skladem
-Obousměrně komunikující venkovní bezdrátový PIR + MW detektor Risco se záclonovou charakteristikou s dosahem 12m. Napájení 1x baterie CR123A (v balení).
+Zapuštěný ULTRA video kit pro 1 uživatele s 4,3" hands-free videotelefonem Mini.
 Pro zobrazení ceny se přihlaste
 Akce
 JA-156E-GR
@@ -70,40 +57,52 @@ Skladem
 Bezdrátová dotyková klávesnice s čtečkou - šedý Jablotron JA-156E
 Pro zobrazení ceny se přihlaste
 Akce
-RW432P
-RISCO
+SC 30AH
+Dexon
 Skladem
-Sada ústředny LightSYS Air, obsahuje ústřednu v bílé barvě, 4G GSM komunikátor, bezdrátový pohybový detektor s Pet imunitou, bezdr. magnetický kontakt a čtyřtlačítkový dálkový ovladač, včetně všech baterií.
+SC 30AH reentrantní reproduktor, 30 W / 100 V, 250 – 14 000 Hz, 109 dB
 Pro zobrazení ceny se přihlaste
 Akce
-JA-156E
+DS-PDTT15AM-LM-WE
+Hikvision
+Skladem
+Venkovní AxPro bezdrátový Tri-Tech 2xPIR+MW detektor DS-PDTT15AM-LM-WE, obousměrný, 15 metrů(vějíř) a 90°(možno až 180°). 92 detekujících zón. Světelný filtr: 10000lux,PET do 40Kg. CR123A x5, -25°C až 55°C,...
+Pro zobrazení ceny se přihlaste
+Akce
+DS-PM501R4
+Hikvision
+Skladem
+Relé expandér pro ústředny AX HYBRID PRO, 4x relé OUT; 30VDC/5A
+Pro zobrazení ceny se přihlaste
+Akce
+KVU8190W
+Comelit
+Skladem
+Zapuštěný ULTRA video kit pro 1 uživatele s 4,3" hands-free videotelefonem Mini s WiFi umožňující volání na aplikaci.
+Pro zobrazení ceny se přihlaste
+Akce
+DS-PS1-II-WE (RED)
+Hikvision
+Skladem
+Bezdrátová vnitřní siréna AXPro DS-PS1-II-WE s červeným blikačem a obousměrnou hlasovou komunikací. Obousměrná komunikace 868MHz šifrování AES-128, dosah až 1000m, výkon 110dB, 2x tamper. Provozní teplota: ...
+Pro zobrazení ceny se přihlaste
+Akce
+RKZ 121
+ASITA
+Skladem
+Montážní krabice pod omítku s 8 pájecími dvojsvorkami Asita RKZ 121
+Pro zobrazení ceny se přihlaste
+Akce
+JA-102KY
 Jablotron
 Skladem
-Bezdrátová dotyková klávesnice s čtečkou - bílý Jablotron JA-156E
+Ústředna Jablotron Mercury JA-102KY s LAN komunikátorem a LTE komunikátorem Lite, v plastovém krytu se zdrojem, prostor pro Aku 2,6Ah.
 Pro zobrazení ceny se přihlaste
 Akce
 EASY konektor RJ45 CAT5E UTP 8p8c na drát i licnu SXRJ45-5E-UTP-EASY
 Solarix
 Skladem
 EASY nestíněný pass-through konektor RJ45 8p8c kategorie 5E pro vodič typu drát i licna.
-Pro zobrazení ceny se přihlaste
-Akce
-6701W/8
-Comelit
-Skladem
-Barevný 4,3" monitor Mini se sluchátkem a 8-mi tlačítky pro systém Comelit Simplebus včetně terminálu 1214/2C. Bílé provedení, 8 dotykových tlačítek. Rozměry: 175x160x22mm.
-Pro zobrazení ceny se přihlaste
-Akce
-RWX350D
-RISCO
-Skladem
-Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
-Pro zobrazení ceny se přihlaste
-Akce
-KVU8190V
-Comelit
-Skladem
-Zapuštěný ULTRA video kit pro 1 uživatele s 4,3" hands-free videotelefonem Mini.
 Pro zobrazení ceny se přihlaste
 dalsi
 Novinky
@@ -112,75 +111,78 @@ Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
 Novinka
-Osobní rušička signálu (10m)
-Cyber
+LS1210GP
+TP-Link
 Na objednání
-Osobní rušička signálu (14-in-one+5G GSM) - 10m
+10-portový neřízený PoE switch TP-link s 8 PoE+ porty s 802.3at/af max. výkonu 61W (max. 30W na port). extend modu až 250m na portech 1-4. funkce automatického obnovení, izolace připojených zařízení. 9x RJ...
 Pro zobrazení ceny se přihlaste
 Novinka
-HIK134E
-CSAT
+JA-161PW
+Jablotron
 Skladem
-Konzole HIK134E sloužící k uchycení Hikvision kamer. Možnost instalace na stožár například s Z25DV75. Konzole je vyrobena z hliníku. Rozměry plechu: 120 x 238 x 3mm. Kompatibilní s paticí: DS-1280ZJ-DM46, DS...
+Bezdrátový kombinovaný detektor PIR + MW Jablotron JA-161PW
+Napájení 2x alkalická baterie typ LR6 (AA) 1,5 V. Baterie není součástí balení!
 Pro zobrazení ceny se přihlaste
 Novinka
-DS-2CD23126G3-IS2UY/SL(4mm)(eF)
+RVCM92A37
+RISCO
+Na objednání
+5MP VUpoint termální IP bullet kamera s duálním senzorem, pokročilou detekcí osob, objektů, teploty i ohně. Nabízí IR 30 m, bílé světlo, stroboskop, obousměrné audio a odolnost IP67 pro venkovní použití.
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-2CD2343G2D-LIZ2UY/SL(2.8/4)BLACK
 Hikvision
 EU sklad, obvykle 7-10 dnů
-12MPx IP AcuSense venkovní turret kamera Hikvision s fixním objektivem 4 mm, CMOS 1/1.8", citlivost 0,0008lux, 4608×2592@20fps, H.265+/H.265/H.264+/H.264/MJPEG, 130 dB WDR, Přísvit IR až 40m, SD karta až 512...
+4MPx IP AcuSense hybridní venkovní turret kamera Hikvision se dvěma přepínatelnými motorizovanými fixními objektivy 2,8mm/4mm, CMOS 1/3, citlivost 0,005lux, 2688x1520@25fps, H.265+/H.265/H.264+/H.264/MJPEG,...
 Pro zobrazení ceny se přihlaste
 Novinka
-Switch PLANET IGS-614HPT
-Planet Technology Corp.
-Na objednání
-6 portový gigabitový neřízený průmyslový PoE+ switch s možností napájet až 4 IP zařízení současně do maximálního výkonu 120 W, max. 36 W/port. 4x 1 Gbps PoE port, 1x 1 Gbps RJ45 port, 1x 1 Gbps SFP slot....
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-1280ZJ-DM46
+DS-2CD2343G2-LI2U(4mm)
 Hikvision
 Skladem
-Montážní patice kamery DS-1280ZJ-DM46, hliníková slitina, boční a zadní výstup, vnitřní a vnější instalace, pr. 120x37.2mm, zatížení 4.5kg, hmotnost 250g
+4MPx IP hybridní venkovní Turret kamera Hikvision, 4mm, úhel záběru 84°, 0,005Lux, 120db WDR, ONVIF, IR a LED až 30m, 2x mikrofon, alarm I/O, Audio I/O, SD karta až 512GB, 12VDC/PoE, IP67, IK10
 Pro zobrazení ceny se přihlaste
 Novinka
-Patch kabel CAT5E UTP PVC 2m žlutý snag-proof C5E-114YE-2MB
+DS-XS6637-E/DW
+Hikvision
+Na objednání
+37U rozložený stojanový rozvaděč (Rack) od výrobce Hikvision o rozměrech 1830 x 600 x 600 mm. 19" standard s maximální nosností 500 kg. Rack je určený k postavení na podlahu (nožičky a kolečka jsou součástí...
+Pro zobrazení ceny se přihlaste
+Novinka
+Patch kabel CAT5E UTP PVC 15m modrý snag-proof C5E-114BU-15MB
 Solarix
 Na objednání
-Nestíněný patch kabel Solarix kategorie 5E, provedení UTP, se snag-proof ochranou konektorů, plášť PVC žluté barvy Délka kabelu 2m
+Nestíněný patch kabel Solarix CAT5E UTP PVC 15m modrý snag-proof.
 Pro zobrazení ceny se přihlaste
 Novinka
-DS-2CD2143G2-LIS2U(2.8mm)
+DS-3WR12GC/EU
 Hikvision
-Skladem
-4MPx IP hybridní venkovní Dome kamera Hikvision, 2.8mm, úhel záběru 104°, 0,005Lux, 120db WDR, ONVIF, IR a LED až 30m, 2x mikrofon, alarm I/O, Audio I/O, SD karta až 512GB, 12VDC/PoE, IP67, IK10
-Pro zobrazení ceny se přihlaste
-Novinka
-HIKMICRO Lynx LH35 3.0
-Hikmicro
 Na objednání
-Termovizní monokulár HIKMICRO Lynx LH35 3.0 s 35 mm čočkou, senzor: 384 × 288 teplotní citlivost: Pro zobrazení ceny se přihlaste
-Novinka
-DS-2CD1143G2-LIU(2.8mm)
-Hikvision
-EU sklad, obvykle 7-10 dnů
-4MPx IP hybridní venkovní Dome kamera Hikvision, 2.8mm, úhel záběru 98°, 0,005Lux, 120db WDR, ONVIF, IR a LED až 30m, mikrofon,12VDC/PoE, IP67, IK08
+Dvoupásmový WiFi router od výrobce Hikvision s rychlostí až 300 Mb/s v pásmu 2.4GHz a až 867 Mb/s v pásmu 5GHz. Přenosový výkon až 20dBm pro 2.4 GHz a až 23dBm pro 5 GHz. Router je vybaven vstupy 3× 10/100...
 Pro zobrazení ceny se přihlaste
 Novinka
-HL NPK13
+5PX 1000i RT2U G2 Netpack
+Eaton
+Na objednání
+Záložní zdroj Eaton 2U rack/tower , LCD displej, 1000VA/1000W, vstup 1x IEC C14, výstup 8x IEC C13, porty 3x USB, 1x RS-232, 1x mini-svorkovnice, NMC karta
+Pro zobrazení ceny se přihlaste
+Novinka
+RVDBKIT
+RISCO
+Skladem
+Videozvonek Risco nabízí Full HD obraz, široký záběr 140°, noční vidění, obousměrné audio a detekci pohybu. Snadno se instaluje, podporuje RISCO Cloud a umožňuje ovládání elektrického zámku.
+Pro zobrazení ceny se přihlaste
+Novinka
+HL CVFL60.200-2
 HL system
-Skladem
-Nastřelovací podložka pr. 13 mm pro upevnění instalačních krabic.
-Pro zobrazení ceny se přihlaste
-Novinka
-SXPC-SC/SC-APC-OS-1M-D
-Solarix
 Na objednání
-Patch kabel 9/125 SCapc/SCapc SM OS 1m duplex SXPC-SC/SC-APC-OS-1M-D
+Žlab drátěný Klik - s integrovanou spojkou 200x60 mm, délka 2 m, galvanicky pozinkováno, GZ
 Pro zobrazení ceny se přihlaste
+AcuSeek + LinkVu
 Novinka
-DS-XS6609-S/B
+DS-3E1310HP-EI(B)
 Hikvision
 Skladem
-9U rozložený nástěnný rozvaděč (Rack) od výrobce Hikvision o rozměrech 500 x 600 x 600 mm. 19" standard s maximální nosností 40 kg. Rozvaděč je určený k zavěšení na stěnu. Rack disponuje prosklenými dveřmi s...
+10 portový řízený PoE switch Hikvision DS-3E1310HP-EI(B) s možností napájet až 8 IP zařízení současně do maximálního výkonu 110W s výkonem na porty 1-2 jednotlivě max. 90W a porty 3-8 jednotlivě max. 30W, v...
 Pro zobrazení ceny se přihlaste
 dalsi
 Reference

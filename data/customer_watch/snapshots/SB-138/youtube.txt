@@ -1,4 +1,5 @@
-# SB-138 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-138 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-11-19T10:30:38Z · HTTP 200
+2026-11-19T02:59:16+00:00	How TSN Delivers Deterministic Communication	https://www.youtube.com/watch?v=gmT5nC2aWzY
 2026-09-14T07:12:07+00:00	為什麼智慧工廠需要TSN	https://www.youtube.com/watch?v=yKCif5AvJow
 2026-09-14T07:12:00+00:00	Why Smart Factories Need TSN	https://www.youtube.com/watch?v=fglIY45juGU
 2026-06-08T02:30:28+00:00	Stability Without the Cabinet 8075-8GT-M12	https://www.youtube.com/watch?v=0z75YVUdQY4
@@ -13,4 +14,3 @@
 2025-10-16T03:33:53+00:00	Korean Version – Ethernet Switch 123	https://www.youtube.com/watch?v=HdhX9xPyzn4
 2025-09-17T05:47:50+00:00	中文版Ethernet Switch1 2 3	https://www.youtube.com/watch?v=l8cRPuegDao
 2025-09-16T05:36:51+00:00	Ethernet Switch1 2 3	https://www.youtube.com/watch?v=8xCLfzIzPi4
-2025-08-27T06:26:59+00:00	定揚科技公司簡介	https://www.youtube.com/watch?v=zegiYXGKPyw

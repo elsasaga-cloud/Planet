@@ -1,4 +1,4 @@
-# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Cables N More
 Create Account
 Log in
@@ -347,15 +347,15 @@ $6.80
 USB A Male to C Male - 3 FT, 480Mbps
 Networx® USB Type C Cables combine style, quality, performance and value to give a great deal on a great USB cable.
 $2.94
+Gigabit Fiber Media Converter - UTP to 1000Base-LX - ST Singlemode, 20km, 1310nm
+This Fiber Transceiver / Media Converter is designed to convert data signal between 10/100/1000Base-T and 1000Base-LX Gigabit Ethernet. Maximum transmission distance 20 kilometers over duplex singlemode fiber (9/125 micron) @ 1310nm. Duplex ST Connector.
+$73.18
 6u Vertical Wall Mount Bracket - Black
 Our 6u Vertical Wall Mount Bracket - Black are a convenient way to accomplish your rack mounting needs while you save space without bulky full sized racks. Designed for all 19 inch patch panel equipment.
 $57.09
 Modular Adapter Kit - DB9 Female to RJ45 - Black
 These Networx® Modular Adapter Kit - DB9 Female to RJ45 - Black are unwired and are used to convert a DB connector to a modular Female connector.
 $1.96
-12 Inch Black Cinch Strap - 5 Pack
-Secure™ Hook and Loop Cinch Straps are the best choice when needing to secure large bundles due to their simplicity, strength and versatility.
-$5.62
 Information
 Sitemap
 Conditions of use

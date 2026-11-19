@@ -1,4 +1,4 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
@@ -203,7 +203,6 @@ GOLF
 MikroTik
 Mimosa
 Optcore
-PATCHBOX
 Reolink
 Reyee / Ruijie
 Tenda
@@ -218,6 +217,9 @@ Range Extenders 3 products
 Sirens 3 products
 Relays & Accessories 3 products
 Shop All AJAX Products
+Axxe Dash Cameras 3 products
+Axxe Cables 4 products
+Shop All Axxe Products
 Cudy Access Points 2 products
 Cudy WiFi Routers 8 products
 Cudy LTE Routers 3 products
@@ -225,7 +227,7 @@ Cudy Wired Routers 1 products
 Cudy WiFi Mesh Systems 12 products
 Cudy WiFi Range Extenders 3 products
 Cudy USB Adapters 2 products
-Cudy Switches 3 products
+Cudy Switches 14 products
 Shop All Cudy Products
 DTECH HDMI Extenders 6 products
 DTECH HDMI Cables 8 products
@@ -246,13 +248,13 @@ Shop All Fanvil Products
 GOLF iPhone Cables 3 products
 GOLF Micro USB Cables 1 products
 Shop All GOLF Products
-MikroTik Ethernet Routers 11 products
+MikroTik Ethernet Routers 12 products
 MikroTik WiFi Routers 14 products
 MikroTik Access Points (cAP & wAP) 5 products
 MikroTik 5GHz Wireless (ISP) 14 products
 MikroTik 60GHz Wireless (ISP) 4 products
 MikroTik LTE Products 10 products
-MikroTik Cloud Core Routers (CCR) 6 products
+MikroTik Cloud Core Routers (CCR) 5 products
 MikroTik Cloud Router Switches (CRS) 12 products
 MikroTik Cloud Smart Switches (CSS) 8 products
 MikroTik Brackets & Accessories 23 products
@@ -264,27 +266,25 @@ Mimosa Antennas 5 products
 Mimosa Accessories 1 products
 Shop All Mimosa Products
 Fiber Flyleads 7 products
-DACs 4 products
+DACs 5 products
 SFP Modules 11 products
 Shop All Optcore Products
-PATCHBOX Rack Mounting & Cable Management 4 products
-Shop All PATCHBOX Products
-Reolink WiFi Cameras 13 products
+Reolink WiFi Cameras 16 products
 Reolink PoE Cameras 20 products
 Reolink Home Hub 1 products
 Reolink NVR 7 products
-Reolink Accessories 13 products
+Reolink Accessories 14 products
 Shop All Reolink Products
 Ruijie Reyee Home Routers (EW Series) 7 products
 Ruijie Reyee Gateway Routers (EG Series) 10 products
 Ruijie Reyee Access Points (RAP Series) 18 products
 Ruijie Reyee Range Extenders & Mesh Units 1 products
-Ruijie Reyee Switches 32 products
-Ruijie Reyee Firewalls 6 products
+Ruijie Reyee Switches 33 products
+Ruijie Reyee Firewalls 7 products
 Ruijie Reyee Wireless Bridges (EST Series) 5 products
 Ruijie Reyee Wireless Bridges (AirMetro) 6 products
 Ruijie Reyee e-Lighten Fibre 7 products
-Ruijie Reyee Accessories 5 products
+Ruijie Reyee Accessories 4 products
 Shop All Ruijie/Reyee Products
 Tenda WiFi Routers 6 products
 Tenda WiFi Mesh Systems 3 products
@@ -490,6 +490,7 @@ GOLF
 MikroTik
 Mimosa
 Optcore
-PATCHBOX
 Reolink
-Reyee /
+Reyee / Ruijie
+Tenda
+Ubiquiti

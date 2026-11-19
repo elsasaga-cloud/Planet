@@ -1,5 +1,6 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
+JUEVES DE HIK-MASTERS | Busquedas inteligentes, optimizadas y rapidas con AcuSeek — Únete aquí Ver más
 Productos
 0
 Noticias 0 Especiales
@@ -170,51 +171,44 @@ Carrito
 Productos
 Noticias
 Ver todas
-Gregorio · 13h · Audio e Intercom
+Arath · 15h · GPS y M2M
+Yobi estrena panel de suscripciones y cuatro nuevos planes de datos
+Administra tus líneas Yobi desde el panel de suscripciones: revisa vigencia, capacidad y renueva con activación en minutos. Los planes nuevos llegan en cuatro versiones —SIM anual, SIM mensual, renovación anual y renovación mensual— de 1 GB a 10 GB sobre red Telcel.
+Conoce los nuevos planes Yobi
+Mario · 16h · Lanzamiento
+SUNMI continúa en El Buen Fin con nueve kits de punto de venta
+La promoción reúne las terminales móviles L2s Pro, L3 y V3, la terminal de escritorio D3 Mini, el pad comercial de 11 pulgadas, la impresora térmica de cocina de 80 mm y un escáner 2D. Android 13 y 14, NFC SoftPOS, IP68 y conectividad 4G para retail, logística y punto de venta.
+Mira los 9 kits SUNMI del Buen Fin
+Elesban · 16h · Videovigilancia
+Cámaras IP Honeywell Serie 25: NDAA y ya en stock en SYSCOM
+La línea HC25 suma micrófono integrado, Dual Light con IR y luz blanca, SMD que distingue personas de vehículos y ONVIF para plataformas de terceros. Carcasa IP67 y antivandálica para exterior.
+Demos habilitados: https://www.syscom.mx/demos?marcas%5B0%5D=HONEYWELL
+Conoce la Serie 25 de Honeywell 2
+Rafael · 18h · Redes
+El espectro de 6 GHz ya tiene suscriptor: Force 4616 de Cambium
+Entrega hasta 1 Gbps con antena integrada de 16 dBi y canales de 160 MHz, en la banda de 6 GHz donde todavía no hay interferencia. IP55, PoE incluido y gestión gratuita desde cnMaestro. Para WISP que necesitan más capacidad sin cambiar de torre.
+Conoce el Force 4616 de 6 GHz
+Fernando · 18h · Redes
+El PoE se corta a los 100 metros. La cámara estaba a 180.
+El modo Extend del WI-PCES206 de Wi-Tek lleva datos y energía hasta 250 m por el mismo par trenzado: sin repetidor, sin fibra y sin fuente en el poste. Cuatro puertos PoE+ 802.3af/at con 60 W, PoE Watchdog y gestión cloud con ONVIF. A 250 m entrega 10 Mbps y 7 W por puerto: cámaras con PoE estándar, no equipos de PoE pasivo 24 V.
+Mira el switch de 250 metros
+Víctor · 18h · Redes
+Conectar sucursales sin depender de MPLS: la guía completa de Omada SD-WAN
+El centro de ayuda de SYSCOM publica la guía técnica de Omada SD-WAN: ruteo en tiempo real por la mejor ruta, failover automático entre enlaces y gestión centralizada multi-sitio. Incluye la línea completa de gateways Omada, del ER605 de entrada al ER8411 con SFP+ de 10G, y sus aplicaciones en retail, banca, educación, salud y hotelería.
+Lee la guía completa de Omada SD-WAN
+Víctor · 18h · Redes
+Caso de éxito: Margaritaville Island Reserve unificó su red con Omada
+Un resort todo incluido de 146 habitaciones en Riviera Cancún operaba con dos marcas distintas para red tradicional y GPON. Con ER8411, OC300, OLT DS-P7001-08 y APs EAP660 HD, Karisma eliminó los puntos ciegos y homologó Omada para sus próximos proyectos.
+Lee el caso completo de Margaritaville
+Alfonso · 19h · Videovigilancia
+24 núcleos, RTX 5070 de 12 GB y hasta 4 salidas de video en una sola torre.
+THINKP2U9, THINKP2U7, THINKP2U7V2 y THINKP3U5 ya están en stock en SYSCOM. Para VMS, monitoreo, alarmas, telefonía IP o diseño. Garantía 3 años.
+Conoce las 4 ThinkStation en stock
+Gregorio · 1d · Audio e Intercom
 Tres equipos Yealink que arman la sala de juntas completa
 El RoomPanel E2 reserva la sala desde una pantalla táctil de 8 pulgadas con barras LED de estado y PoE. La SmartVision 80 suma 4 lentes con zoom óptico 20x y seguimiento por IA para salas grandes. El switch RCH40-E2 alimenta y conecta todo con 4 puertos PoE y 90 W.
 Ya disponibles en SYSCOM.
 Arma tu sala de juntas con Yealink
-Marvin · 13h · Energía Solar
+Marvin · 1d · Energía Solar
 Cuando sobra sol, la casa lo aprovecha sola
-Victron Energy y Shelly ya se hablan: los dispositivos Shelly se integran al ecosistema Victron por red local, sin nube de por medio. Victron administra generación, inversores y baterías; Shelly mide consumos y acciona cargas. Un Shelly 1PM Gen3 en el calentador de agua basta para encenderlo con excedente solar y apagarlo cuando baja la batería.
-Mira cómo se hablan Victron y Shelly
-Sylvia · 14h · Lanzamiento
-El lanzamiento de las alarmas vehiculares Teltonika es hoy a las 3 pm
-La línea llega con tres equipos: el inmovilizador IMB5 por tarjeta RFID 2.4 GHz, y los GN7C.HP y GN7C.HUPS.KRH con relé de motor de 25 A, sensores de choque e inclinación y CAN bus para más de 800 modelos. La presentación arranca a las .
-Conoce las alarmas Teltonika
-Sylvia · 15h · Alarmas e Intrusión
-Flotillas: el problema no es la alarma, es la llave duplicada
-El IMB5 de Teltonika cambia la llave por una tarjeta RFID de 2.4 GHz: hasta 5 ID-TAG por vehículo, inmovilización 20 segundos después de apagar el motor si no hay credencial, y anti-carjack con cuenta atrás de 60 o 120 segundos. Opera de -40 a 85 °C y consume menos de 10 mA.
-Conoce el IMB5 de Teltonika
-Gregorio · 16h · Audio e Intercom
-Seis micrófonos que separan tu voz del ruido de la oficina
-La serie BH74 de Yealink suma Bluetooth 5.3 con 50 m de alcance, ANC híbrida y Acoustic Shield 3.0. Hasta 65 horas de música y 32 de conversación, con adaptador USB-C y USB-A para cualquier equipo. Cuatro versiones: UC y Microsoft Teams, con o sin base de carga.
-Ya disponibles en SYSCOM.
-Conoce la serie BH74 de Yealink
-Angel · 17h · Fibra Óptica
-Con un OTDR LinkedPRO puedes ir más allá de una simple medición de potencia: localiza eventos, identifica pérdidas, mide distancias y analiza el comportamiento de tus enlaces de fibra óptica.
-Descubre los OTDR LinkedPRO
-Cesar · 17h · Redes
-¿Listo para ver todo el poder de UniFi trabajando en tiempo real?
-Ven a conocer en vivo el poder de UniFi Full Stack: una sola plataforma para Redes, Videovigilancia y Control de Acceso funcionando en tiempo real.
-📍 San Luis Potosí: 24 de noviembre
-📍 Guadalajara: 26 de noviembre
-⏰ Horario: a.m. a p.m.
-Asiste en el horario que mejor te acomode. ¡Te esperamos!
-Conoce UniFi Full Stack
-Victor · 17h · Control de Acceso
-Cuatro kits YONUSA que se instalan sin tender un solo cable
-Wiegand a 1.6 km, electronivel para tinacos y cisternas, multipunto para 10 equipos y alertamiento sísmico SASMEX. Los cuatro trabajan en 915 MHz y resuelven accesos, agua, operación dispersa y protección civil sin zanjas ni tubería.
-Descubre los 4 kits que van sin cable 1
-Mario · 18h · Data Center
-El humo que no se ve también quema. Y ningún detector óptico lo ve.
-Cirrus Hybrid de SAFE Fire Detection suma cámara de niebla a la detección óptica: dos tecnologías independientes que se verifican entre sí. Escaneo por tubo, pantalla táctil de 7 pulgadas y hasta 6 cámaras IP en la misma pantalla.
-Descubre cómo detecta el humo invisible 3
-Leopoldo · 19h · Cableado Estructurado
-Un solo cable USB-C para video 4K, red y 100 W de carga
-El CA-U32/FF-15 de KRAMER es USB 3.2 Gen 2 Full Featured: 10 Gbps, 4K a 60 Hz, Ethernet de 1 Gbps y hasta 100 W de Power Delivery en 4.6 m (15 ft). El mecanismo K-Lock en ambos conectores evita que se suelte en mesas de juntas, kioscos o racks. Blindaje S/FTP contra interferencia.
-Conoce el cable USB-C de 15 ft de Kramer
-Videos
-Ver todos
-¿Alguien conectó un router sin autorización y toda la red falla? Con RG-ES200, activa la protecci
+Victron Energy y Shelly ya se hablan: los dispositivos Shelly se integran al ecosistema Victron por red local, sin nube de por medio. Victron administra generación, inversores y baterías; Shelly mide consumos y acciona cargas. Un Shelly 1PM Gen3 en

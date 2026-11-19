@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -161,9 +161,24 @@ Sold Out
 판매가 : 195,500원
 LIKE IT ! 0
 Sold Out
+솔텍 SFC4100AB 10G 관리형 L2 스위치 (1Gbps TP 4포트(콤보1~4)/1G SFP 16슬롯/2.5G SFP 8슬롯/10G SFP 4슬롯)
+상품요약정보 : 웹 관리, 콘솔, Telnet, S-Ring(절체, 복구 30ms), Dual-Ring / 440(W) x 225(D) x 44(H)mm
+판매가 : 724,900원
+LIKE IT ! 0
+Sold Out
 에시르 SG-SB5418 500X400X180 CCTV SUS 스텐 폴 지붕형 함체
 상품요약정보 : 지붕형 500X400X180 손잡이형
 판매가 : 104,000원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC2000-TS 멀티모드 1Gbps 광컨버터
+상품요약정보 : 멀티모드, 220m, 850nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
+판매가 : 118,800원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC4500T(DC) L2 스위치 (1Gbps TP 24포트/1G SFP 4슬롯(콤보 23, 24))
+상품요약정보 : 웹 기반 매니지먼트, Telnet/ S-Ring(복구타임
+판매가 : 731,500원
 LIKE IT ! 0
 Sold Out
 인네트워크 무료배송 IN-H300 INR001 통신 허브랙 H300xD450xW600 6U 그레이
@@ -172,29 +187,14 @@ Sold Out
 판매가 : 98,000원
 LIKE IT ! 0
 Sold Out
-SFP-LXWB20 (WDM , 1코어 , 싱글모드)
-상품요약정보 : 1.25G, Single-mode, 20km, 1-Fiber(WDM), 1310/1550nm, LC
-판매가 : 30,200원
-LIKE IT ! 0
-Sold Out
-솔텍 SFC4500T(DC) L2 스위치 (1Gbps TP 24포트/1G SFP 4슬롯(콤보 23, 24))
-상품요약정보 : 웹 기반 매니지먼트, Telnet/ S-Ring(복구타임
-판매가 : 731,500원
-LIKE IT ! 0
-Sold Out
-[재고부족/대체품 SFC4500T] 솔텍 SFC4000T 관리형 L2 스위치 (1Gbps TP 24포트/1G SFP 4슬롯)
+솔텍 SFC4000T 관리형 L2 스위치 (1Gbps TP 24포트/1G SFP 4슬롯)
 상품요약정보 : 웹 기반 매니지먼트 / 440(W) x 230(D) x 45(H)mm
 판매가 : 381,700원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC2000-TS 멀티모드 1Gbps 광컨버터
-상품요약정보 : 멀티모드, 220m, 850nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
-판매가 : 118,800원
-LIKE IT ! 0
-Sold Out
-솔텍 SFC4100AB 10G 관리형 L2 스위치 (1Gbps TP 4포트(콤보1~4)/1G SFP 16슬롯/2.5G SFP 8슬롯/10G SFP 4슬롯)
-상품요약정보 : 웹 관리, 콘솔, Telnet, S-Ring(절체, 복구 30ms), Dual-Ring / 440(W) x 225(D) x 44(H)mm
-판매가 : 724,900원
+SFC300-SCM2 산업용 멀티모드 광 2포트 TP 4포트 스위칭허브
+상품요약정보 : 광 2포트(멀티모드, 2km) + TP 4포트(10/100Mbps, 100m)
+판매가 : 222,200원
 FiberMart 특가
 더보기
 LIKE IT ! 0

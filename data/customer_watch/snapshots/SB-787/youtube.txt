@@ -1,4 +1,5 @@
-# SB-787 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-787 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-11-19T10:30:38Z · HTTP 200
+2026-11-18T19:24:26+00:00	Multi-Interface Sync / Async Fiber Optic Modem | TC1705	https://www.youtube.com/watch?v=23sq501vbJw
 2026-11-11T22:20:09+00:00	Analog Broadcaster/Bridge | TC8928	https://www.youtube.com/watch?v=0MQOugOQixA
 2026-11-03T19:13:57+00:00	Balancing Next-Gen Networks with Grid Reliability	https://www.youtube.com/watch?v=V92XitsFkYs
 2026-10-28T20:38:36+00:00	Support Site | Support	https://www.youtube.com/watch?v=SF_w3CzNLWw
@@ -13,4 +14,3 @@
 2026-08-03T18:45:48+00:00	Telephone or Analog over Ethernet Extender | TC1910	https://www.youtube.com/watch?v=U6fJS77cjlk
 2026-07-28T14:47:23+00:00	JumboBank Voice-over-T1/E1 Multiplexer| TC8638	https://www.youtube.com/watch?v=iLZC93K1HPg
 2026-05-27T15:42:54+00:00	600 Ohm Analog & Dry Contact-over-T1/E1 Multiplexer | TC8624	https://www.youtube.com/watch?v=bfJUlIp4LW8
-2026-05-19T16:04:10+00:00	Video Application Note: Connecting Mobile Substations in Rugged Environments with JumboSwitch	https://www.youtube.com/watch?v=C5QcD_ZDJB0

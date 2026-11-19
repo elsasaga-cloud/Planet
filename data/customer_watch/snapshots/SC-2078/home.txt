@@ -1,4 +1,4 @@
-# SC-2078 zebeye.com · home · https://zebronics.com/collections/cctv · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-2078 zebeye.com · home · https://zebronics.com/collections/cctv · fetched 2026-11-19T10:30:38Z · HTTP 200
 CCTV & Surveillance
 Skip to content
 Menu
@@ -500,12 +500,13 @@ Price, high to low
 Date, old to new
 Date, new to old
 Product type
-3+1 Cables (3)
 BNC/DC (2)
 CAT 6 Cables (16)
 CCTV Mini Rack (4)
+CCTV Network Cable (3)
 CCTV Power Adapter (2)
 Electric Rim Lock (1)
+EM Lock (1)
 Exit Button (3)
 Fish Eye Camera (1)
 HD Bullet (2)
@@ -513,6 +514,7 @@ HD Dome (8)
 Indoor Power Supply (11)
 IP Bullet (1)
 IP Dome (1)
+L Clamp (1)
 NVR (3)
 Outdoor Power Supply (3)
 PoE Splitter (1)
@@ -521,6 +523,7 @@ Unmanaged POE (17)
 Vehicle Surveillance (1)
 Video Door Phone (1)
 XVR (10)
+Zl Clamp (1)
 Price
 ₹
 to
@@ -544,11 +547,20 @@ Price, high to low
 Date, old to new
 Date, new to old
 Filter and sort
-92 products
+95 products
 *">
 Zeb Smart Cam 100
 Sale price ₹ 2,499.00
 Smart WiFi Cameras Smart WiFi | 2-way audio | Night Vision | 5 Meter IR Range
+Zeb ACZLB01
+Sale price ₹ 1,899.00
+Zl Clamp Designed for electromagnetic locks. | Rust-resistant body | Lightweight design | Robust
+Zeb ACLB01
+Sale price ₹ 899.00
+L Clamp Upto 280 kg Holding Force | Rust-resistant body | Lightweight design | Robust
+Zeb ACML280
+Sale price ₹ 3,699.00
+EM Lock DC 12V | Upto 280kg holding force | Easy to Install | Low Power consumption
 Zeb ACEL01
 Sale price ₹ 4,599.00
 Electric Rim Lock DC 12V | Integrated ball latch | Energy Efficient Operation | Low Power consumption
@@ -609,15 +621,6 @@ Vehicle Surveillance 17.78 cm Display | IR Night Vision | Loop Recording | Parki
 Zeb 36CHV2S8TA8M
 Sale price ₹ 26,999.00
 NVR
-Zeb HDTVI D2
-Sale price ₹ 3,499.00
-HD Dome 2MP | Night Vision | Built-in Mic | 20M IR Range
-Zeb HDTVI D5
-Sale price ₹ 5,999.00
-HD Dome 5 MP | 30M Meter IR Range | Night Vision With Color | Weather Proof
-Zeb HDTVI B2
-Sale price ₹ 3,799.00
-HD Dome 2MP | Night Vision | Built-in Mic | 20M IR Range
 1 / 4
 Explore Collections
 Speakers

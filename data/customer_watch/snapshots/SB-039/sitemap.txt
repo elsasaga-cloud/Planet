@@ -1,4 +1,4 @@
-# SB-039 zelax.ru · sitemap · https://www.zelax.ru/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-039 zelax.ru · sitemap · https://www.zelax.ru/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 2025-09-18T15:32:45+03:00	https://www.zelax.ru/news/company/25-09-18/oborudovanie-k-lep-i-multipleksoryi-m-asp-pg-snyatyi-s-proizvodstva/
 2024-03-12T17:54:45+03:00	https://www.zelax.ru/news/company/24-03-12/kompaniya-zelax-optimiziruet-linejku-kommutatorov-zes-32xx/
 2021-10-27T16:35:26+03:00	https://www.zelax.ru/where-to-buy/order-delivery/
@@ -71,6 +71,7 @@
 2026-01-19T14:21:47+03:00	https://www.zelax.ru/news/telecom/26-01-19/ryinok-oblachnyix-servisov-v-2026-g-prodolzhit-rost/
 2026-01-19T14:32:15+03:00	https://www.zelax.ru/news/telecom/26-01-19/v-2026-g-data-czentryi-v-rf-raspravyat-korpusa/
 2026-01-19T14:55:24+03:00	https://www.zelax.ru/news/telecom/26-01-19/ryinok-rossijskoj-mikroelektroniki-ruxnul-na-chetvert-on-sostoit-v-osnovnom-iz-inostrannoj-produkczii/
+2026-11-19T01:21:50+03:00	https://www.zelax.ru/news/company/26-11-19/kompaniya-zelax-optimiziruet-linejku-kommutatorov-zes-30xx/
 2018-11-02T15:01:18+03:00	https://www.zelax.ru/products/modems/
 2022-06-06T20:08:06+03:00	https://www.zelax.ru/news/company/
 2014-06-06T13:55:57+04:00	https://www.zelax.ru/news/company/2013/01/31/from-the-history-of-zelax-the-beginning-of-the-worlds-largest-pbem-games
@@ -111,5 +112,4 @@
 2018-08-07T15:18:41+03:00	https://www.zelax.ru/company/style/
 2023-07-13T11:54:58+03:00	https://www.zelax.ru/solutions/channels-on-optic/v35/
 2017-11-11T17:42:42+03:00	https://www.zelax.ru/solutions/channels-on-copper/v35/
-2019-07-08T13:52:08+03:00	https://www.zelax.ru/solutions/channels-on-ethernet/fxs-fxo-tch/
-2017-11-11T17:48:17+03:00	https://www.zelax.ru/s
+2019-07-08

@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-18T10:22:47Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-19T10:30:38Z · HTTP 200
 Centrale telefoniczne voip, Telefony ip i Bramki - voip24sklep.pl - Sklep telekomunikacyjny
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -196,13 +196,13 @@ Wróć do:
 Przewodowe
 Bezprzewodowe
 Interkomy
-Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
+Przyciski wyjścia
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -361,6 +361,7 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
+Akcesoria
 Głośniki
 Wzmacniacze
 Miksery
@@ -368,7 +369,6 @@ Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
-Akcesoria
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -762,16 +762,6 @@ Cena
 229,72 zł
 bez VAT
 Do koszyka
-Nowość
-EPOS ADP002
-Producent EPOS
-Cena
-24,60 zł
-Cena
-20,00 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
 Promocje
 Blog
 Kontakt
@@ -856,4 +846,4 @@ W tym blogu rozważamy korzyści wynikające z używania projektora w porównani
 Czytaj całość
 18-11-2024
 Rozwiązanie konferencyjne CA400 od Fanvila
-Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa się z trzech części: kamery CM70 4K UHD, RC10, koncentratora odbiornika i MS10, głośnika do współdzielenia ekranu. Doskonale rozwiązuje problemy, które trapią IT i użytkowników, takie jak
+Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa się z trzech części: kamery CM70 4K UHD, RC10, koncentratora odbiornika i MS10, głośnika do współdzielenia ekranu. Doskonale rozwiązuje problemy, które trapią IT i użytkowników, takie jak skomplikowane wdrażanie, niezgodność urządzeń i zagrożenia bezpieczeństwa sieci. Przyjrzyjmy się bliżej jego różnym funkc

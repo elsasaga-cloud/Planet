@@ -1,4 +1,4 @@
-# SB-590 carritech.com · news_1 · https://carritech.com/news-articles/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-590 carritech.com · news_1 · https://carritech.com/news-articles/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Telecom News & Articles | Blog | Carritech Telecommunications
 Skip to content
 Skip to articles
@@ -8,8 +8,8 @@ Technical guidance, industry developments and practical thinking for people mana
 Explore the latest →
 Talk to a specialist →
 Latest article
-Support Contract Governance: What Your Monthly Review Should Cover
-11 November 2026 Read now →
+Asset Register Reconciliation: Making Records Match the Racks
+17 November 2026 Read now →
 On our radar
 Access Network
 Asset Management
@@ -20,22 +20,22 @@ Deinstallation
 Current thinking
 Top stories
 Fresh analysis and practical advice from across the Carritech team.
+Asset Management
+17 Nov 2026
+Asset Register Reconciliation: Making Records Match the Racks
+Asset register reconciliation tests your records against the racks. How drift happens, what to sample first, what to record for each discrepancy and how often to repeat it.
+Read the story →
+L3 Remote Technical Support
+17 Nov 2026
+No Fault Found: Why Units Come Back Working, and What to Do
+Read the story →
+General Knowledge
+17 Nov 2026
+Writing a Legacy Network Runbook That Outlasts the Engineer
+Read the story →
 General Knowledge
 11 Nov 2026
 Support Contract Governance: What Your Monthly Review Should Cover
-Support contract governance decides whether an outsourced support arrangement works. This article sets out the three review cycles, what a monthly service report should contain, who needs to attend each meeting,…
-Read the story →
-Asset Management
-11 Nov 2026
-Surveying a Site Before Deinstallation: What to Record First
-Read the story →
-Asset Management
-11 Nov 2026
-Chain of Custody: Proving Where Your Old Telecom Equipment Went
-Read the story →
-General Knowledge
-2 Nov 2026
-Alarm Hygiene: Why Nobody Trusts the Alarm List and How to Fix It
 Read the story →
 Browse the newsroom
 Find the insight you need
@@ -44,23 +44,41 @@ Search articles
 Search
 All topics
 Access Network 14
-Asset Management 28
+Asset Management 29
 Company News 13
 Core Network 11
 Data Network 15
 Deinstallation 13
-General Knowledge 31
+General Knowledge 33
 Industry News 35
-L3 Remote Technical Support 22
+L3 Remote Technical Support 24
 Manufacturers 59
 Optics 8
-Parts Supply 34
+Parts Supply 35
 Recycling 23
-Repair & Refurbishment 26
-Support 78
+Repair & Refurbishment 27
+Support 80
 Transport Network 27
-140 articles
+143 articles
 Clear filters
+Asset Management
+11 Nov 2026
+Surveying a Site Before Deinstallation: What to Record First
+A telecom site survey done properly before a deinstallation saves more money than any other step. This article covers what to record, the building risks…
+9 min read
+Read article →
+Asset Management
+11 Nov 2026
+Chain of Custody: Proving Where Your Old Telecom Equipment Went
+A recycling chain of custody is the paper trail proving what happened to your old telecom equipment. This article covers the records it should contain,…
+9 min read
+Read article →
+General Knowledge
+2 Nov 2026
+Alarm Hygiene: Why Nobody Trusts the Alarm List and How to Fix It
+Nobody decides to stop trusting the alarm list; it happens one standing alarm at a time. The four kinds of noise, how to make severity…
+9 min read
+Read article →
 Asset Management
 2 Nov 2026
 Who Owns the Spare? Consignment, Bonded and Customer-Owned Stock
@@ -97,40 +115,23 @@ Out-of-Band Management: Reaching Your Kit When the Network Is Down
 In-band management fails in exactly the conditions where you need it most. What out-of-band management buys you on a legacy estate, how to retrofit craft…
 9 min read
 Read article →
-L3 Remote Technical Support
-21 Oct 2026
-Remote Fault Diagnosis: What You Can Fix Without a Site Visit
-The difference between a fault closed in forty minutes and a three-hour drive to reseat a card. What can be diagnosed and resolved remotely, what…
-9 min read
-Read article →
-Asset Management
-21 Oct 2026
-Clearing Several Sites at Once: How to Sequence a Deinstallation Programme
-Fifteen sites is a programme, not fifteen jobs. How to sequence a multi-site telecom clearance so the right sites come down in the right order,…
-9 min read
-Read article →
-General Knowledge
-21 Oct 2026
-Refurbished Telecom Equipment Warranty: What 12 Months Really Covers
-Twelve months, parts replaced, no quibble. The headline is not the commitment. What counts as a defect on a used unit, how fast a replacement…
-8 min read
-Read article →
 Load more articles ↓
-Independent support for legacy, end-of-life and multi-vendor telecom networks.
+Keep your network running. Turn surplus equipment into value.
 Carritech Limited
 124 City Road, London, EC1V 2NX, United Kingdom
 UK +44 203 006 1170
 Spain +34 915 511 534
 [email protected]
-Support and lifecycle
-Lifecycle Extension Programme
+Services
 L3 Remote Technical Support
-Legacy Network Assessment
-Spare Part Supply
-Repair and Refurbishment
+Equipment Supply
+Hardware Repair
+Lifecycle Extension Programme
+Free Network Assessment
 Asset Management
+Equipment Purchase
 Deinstallation
-Telecom Recycling
+Responsible Recycling
 Products
 Search All Telecom Parts
 Supported Products

@@ -1,4 +1,6 @@
-# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-19T10:30:38Z · HTTP 200
+2026-11-18T14:49:30+00:00	OLT Fiberlink 40001 de Uma Porta: A Solução de Baixo Custo para Redes Internas #shorts	https://www.youtube.com/shorts/KxHCQMFfjQM
+2026-11-18T11:09:21+00:00	TR-369 conecta sensores com privacidade #shorts	https://www.youtube.com/shorts/2qLkUhQsb_I
 2026-11-06T14:46:23+00:00	Postes Lotados Estão Travando o Crescimento dos Provedores #shorts	https://www.youtube.com/shorts/2nQGEe1pQeM
 2026-11-05T20:28:31+00:00	Uma Única Fibra Pode Transmitir 800 Gigabits? #shorts	https://www.youtube.com/shorts/Ld5vrQ-fzbY
 2026-11-05T20:11:37+00:00	40 Canais de 400G em Uma Só Fibra?! #shorts	https://www.youtube.com/shorts/S6gKdBtdhbg
@@ -12,5 +14,3 @@
 2026-10-27T15:54:27+00:00	PoE ou Power Over Fiber: Leve Câmeras a Até 500 Metros #shorts	https://www.youtube.com/shorts/PRh1nlyNMF4
 2026-10-26T20:19:28+00:00	Splitter Ativo: como unir redes ópticas GPON e elétricas #shorts	https://www.youtube.com/shorts/h6G9OKjhZzw
 2026-10-23T20:30:06+00:00	PoF na Prática: Cabos, Conectores e equipamentos para CFTV IP a até 500 Metros	https://www.youtube.com/watch?v=nrV508Mh0jM
-2026-10-23T20:29:35+00:00	POF Plug and Play: Conecte Câmeras Sem Configurar a OLT #shorts	https://www.youtube.com/shorts/0Bg82HxXSTQ
-2026-10-23T20:19:27+00:00	Como Conectar Câmeras de Segurança por Fibra Óptica até 500 Metros #shorts	https://www.youtube.com/shorts/3lYiNrQl9g4

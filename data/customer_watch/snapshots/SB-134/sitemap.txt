@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/4mpx-wifi-kamera-s-mikrofon-i-cvetno-nostno-vizdane
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -81,7 +81,6 @@
 	https://www.kassabasystems.com/vr-13ir-wifi-panoramna-360deg-wi-fi-kamera-1-3mpx-1012361637
 	https://www.kassabasystems.com/5MP-vanshna-ip-poe-kamera-s-mikrofon-i-cvetno-nostno-vizdane-TRX-5B40ADL-POE-2.8
 	https://www.kassabasystems.com/ptz-kamera-ir-ptz10ahd13
-	https://www.kassabasystems.com/dvubandova-wifi-6m-dvoina-kamera-trx-dc888-5ghz
 	https://www.kassabasystems.com/5mp-ip-dome-camera-trx-trx-rds5adl-poe-2.8
 	https://www.kassabasystems.com/trx-rds8adl-poe-4k-8mpx-ip-poe-dual-light-kupolna-kamera-s-analitichni-funktsii-i-mikrofon-za-vanshen-montazh
 	https://www.kassabasystems.com/trx-robot30-8mpx-4k-8mpx-wifi-kamera
@@ -141,4 +140,4 @@
 	https://www.kassabasystems.com/ip-kamera-trx-dcs13-a
 	https://www.kassabasystems.com/4robot25-3mp-wifi-bezzhichen-tsifrov-komplekt-s-4br-wifi-3mpx-upravlyaemi-vanshni-kameri-i-nvr-videorekorder-ultra-hd
 	https://www.kassabasystems.com/4dlf-5mpx-palen-komplekt-za-videonablyudenie-s-4-kameri-i-dvr
-	https://www.kassabasystems.com/2hik4kb-4-kanale
+	https://www.kassabasystems.com/2hik4kb-4-kanalen-komplekt-s-4br-ip-kupolni-kameri-4k-8mpx-dual-light-mikrofon-i-tsvetno-noshtno

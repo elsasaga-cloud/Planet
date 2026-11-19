@@ -1,4 +1,4 @@
-# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 MikroTik & Ubiquiti Network Equipment | Baltic Networks
 Skip to content
 MikroTik WiFi 7 Giveawy by Baltic Networks
@@ -366,23 +366,6 @@ Ubiquiti
 View All
 Save 0 %
 Save %
-Ubiquiti UniFi Enterprise NVR Core [ENVR-Core]
-Original price
-$4,999.00
--
-Original price
-$4,999.00
-Original price
-$4,999.00
--
-$4,999.00
-Current price
-$4,999.00
-| /
-The Ubiquiti UniFi Enterprise NVR Core [ENVR-Core] is a 3U UniFi Protect NVR with 16-bay support for 2.5"/3.5" HDDs/SSDs, up to (300) 4K or (500) F...
-View full details
-Save 0 %
-Save %
 Ubiquiti Cloud Key Enterprise [CK-Enterprise]
 Original price
 $4,999.00
@@ -486,23 +469,6 @@ The Ubiquiti UniFi Pro XG Aggregation [USW-Pro-XG-Aggregation] is a professional
 View full details
 Save 0 %
 Save %
-Ubiquiti UniFi Enterprise Campus 24 PoE Switch, 1050W [ECS-24-PoE]
-Original price
-$2,499.00
--
-Original price
-$2,499.00
-Original price
-$2,499.00
--
-$2,499.00
-Current price
-$2,499.00
-| /
-The Ubiquiti UniFi Enterprise Campus 24 PoE Switch [ECS-24-PoE] is an enterprise-grade, Layer 3 Etherlighting™ PoE switch with (8) 2.5 GbE PoE+++, ...
-View full details
-Save 0 %
-Save %
 Ubiquiti UISP Fiber OLT XGS [UISP-FIBER-OLT-XGS]
 Original price
 $2,499.00
@@ -534,6 +500,40 @@ Current price
 $1,999.00
 | /
 The Ubiquiti UniFi E7 Audience Access Point US [E7-Audience-US] is an enterprise-grade, indoor/outdoor access point designed for high-density envir...
+View full details
+Save 0 %
+Save %
+Ubiquiti UniFi Gateway Enterprise [UXG-Enterprise]
+Original price
+$1,999.00
+-
+Original price
+$1,999.00
+Original price
+$1,999.00
+-
+$1,999.00
+Current price
+$1,999.00
+| /
+The Ubiquiti UniFi Gateway Enterprise [UXG-Enterprise]is a 25G independent gateway with multi-WAN load balancing, 12.5 Gbps IPS routing, and redund...
+View full details
+Save 0 %
+Save %
+Ubiquiti UniFi E7 Audience Indoor Access Point (US) [E7-Audience-Indoor-US]
+Original price
+$1,999.00
+-
+Original price
+$1,999.00
+Original price
+$1,999.00
+-
+$1,999.00
+Current price
+$1,999.00
+| /
+The Ubiquiti UniFi E7 Audience Indoor Access Point (US) [E7-Audience-Indoor-US] is an enterprise-grade access point designed for high-density envir...
 View full details
 New Products
 Save 0 %
@@ -618,4 +618,4 @@ $1,799.00
 The Ubiquiti UniFi AI Multi Sensor 4 Camera, Black [UVC-AI-MS-4-B] is an all-weather PoE++ 32MP multi-sensor camera featuring a Multi-TOPS AI engin...
 View full details
 Shop New Ubiquiti
-Ubiquiti UISP Fiber OLT XG
+Ubiquiti UISP

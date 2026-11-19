@@ -1,8 +1,13 @@
-# SB-039 zelax.ru · news_2 · https://www.zelax.ru/news/rss/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-039 zelax.ru · news_2 · https://www.zelax.ru/news/rss/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 RSS-новости Zelax
 https://www.zelax.ru/news/rss/
 ru
 120
+Компания Zelax оптимизирует линейку коммутаторов ZES-30xx
+https://www.zelax.ru/news/company/26-11-19/kompaniya-zelax-optimiziruet-linejku-kommutatorov-zes-30xx/
+19-11-2026 MSK
+https://www.zelax.ru/news/company/26-11-19/kompaniya-zelax-optimiziruet-linejku-kommutatorov-zes-30xx/
+Zelax
 Модули MIM-G703 снимаются с производства
 https://www.zelax.ru/news/company/26-06-05/moduli-mim-g703-snimayutsya-s-proizvodstva/
 05-06-2026 MSK
@@ -47,9 +52,4 @@ Zelax
 https://www.zelax.ru/news/telecom/25-07-14/pravitelstvo-utverdilo-klyuchevyie-meryi-po-uluchsheniyu-kachestva-i-bezopasnosti-uslug-svyazi/
 14-07-2025 MSK
 https://www.zelax.ru/news/telecom/25-07-14/pravitelstvo-utverdilo-klyuchevyie-meryi-po-uluchsheniyu-kachestva-i-bezopasnosti-uslug-svyazi/
-Zelax
-Российский рынок микроэлектроники вырастет до 1 трлн руб. к 2030 г.
-https://www.zelax.ru/news/telecom/25-07-14/rossijskij-ryinok-mikroelektroniki-vyirastet-do-1-trln-rub-k-2030/
-14-07-2025 MSK
-https://www.zelax.ru/news/telecom/25-07-14/rossijskij-ryinok-mikroelektroniki-vyirastet-do-1-trln-rub-k-2030/
 Zelax

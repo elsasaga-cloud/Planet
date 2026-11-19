@@ -1,7 +1,7 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 50,50 TL
-€: 55,53 TL
+$: 50,52 TL
+€: 55,43 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -152,12 +152,12 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1151,30 TL
+1151,86 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1151,30 TL
+1151,86 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
@@ -467,7 +467,7 @@ T10 ULTRURA AKILLI SAAT
 Sepete Ekle
 %0
 SSD 128GB Turbox KTA320 2.5" SATA 3.0 520/400 MBS
-20+
+1
 Sepete Ekle
 %0
 Concord C-8245 Bluetooth USB TF Aux Girişi Hoparlör
@@ -544,7 +544,7 @@ PC HD 4TB SEAGATE ST4000VN000 5900 rpm 64 MB Cache NAS DEPOLAMA HARDDİSK
 HILOOK IPC-B140HA-LUFC 4MP 2.8MM 30M COLORVU DUALLIGHT SESLI POE IP BULLET
 PC HD 1TB HARDDİSK HARDDİSK SATA
 ZIMMER 20" HDMI VGA LED HD SES MONiTOR
-DELL VOSTRO 5490 i7 10510U 16GB DDR4 512GB SSD MX250 2GB Win10 14" 2.El Dizüstü Bilgisayar
+SSD 128GB Turbox KTA320 2.5" SATA 3.0 520/400 MBS
 NB HD 500GB NOTEBOK SATA HARDDISK
 Son Gezilen Ürünler
 Yeni Gelen Ürünler
@@ -578,7 +578,7 @@ Toptan Notebook Harddiskleri
 Toptan Solar Kamera Sistemleri
 6 Ürün
 Toptan AHD Bullet Kameralar
-12 Ürün
+13 Ürün
 Toptan Küçük Ev Aletleri
 66 Ürün
 Toptan IP Kayıt Cihazları
@@ -589,8 +589,8 @@ Toptan Poe Switch
 18 Ürün
 Hobi Oyuncak
 15 Ürün
-Aydınlatma Ürünleri
-66 Ürün
+Toptan Tabletler
+9 Ürün
 POPÜLER KATEGORİLER
 Toptan PC Harddiskleri
 Toptan Harici Harddiskleri
@@ -606,7 +606,7 @@ Toptan IP Kayıt Cihazları
 Toptan Speed Dome PTZ
 Toptan Poe Switch
 Hobi Oyuncak
-Aydınlatma Ürünleri
+Toptan Tabletler
 MÜŞTERİ HİZMETLERİ
 Gizlilik ve Güvenlik
 Mesafeli Satış Sözleşmesi

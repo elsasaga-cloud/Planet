@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -6,7 +6,7 @@ Ventas 835
 Videovigilancia 772
 Radiocomunicación 745
 Sistemas de Seguridad 601
-Networking 592
+Networking 594
 Control de acceso 438
 Wireless 369
 Intrusión 308
@@ -23,42 +23,42 @@ Automatización 144
 #telefonía #networking #CallCenter 138
 Incendio 114
 Blog SYSCOM
+Amplificador EPW240E de 240W: red, WiFi y Bluetooth para audio comercial
+El EPW240E de EPCOM PROAUDIO concentra 240W, salida de 100V y baja impedancia, entrada XLR con phantom de 48V y streaming por WiFi y Bluetooth 5.0 en un chasis de escritorio de 1 kg. Una sola pieza resuelve música ambiental y voceo en cafeterías, consultorios, tiendas y salas de juntas.
+AC
+Adan Corona · Hoy
+LP1TVBOX: el set-top box Android TV 14 que lleva 4K y gestión remota a tu red IPTV
+Adan Corona · Hoy
+NAS Synology DS925+: 4 bahías, doble 2.5GbE y DSM para centralizar datos críticos
+Adan Corona · Hoy
+Networking TP-Link
+Omada SD-WAN: cómo conectar sucursales sin depender de MPLS
+Víctor Villarreal · Hoy
+Networking TP-Link
+Caso de éxito: cómo Margaritaville Island Reserve unificó su red con TP-Link Omada
+Víctor Villarreal · Hoy
 Energía Solar shelly
 Victron Energy + Shelly: cuando sobra sol, la casa lo aprovecha sola
-La compatibilidad incorporada en el sistema operativo de Victron permite que los dispositivos Shelly se integren al ecosistema para medir consumos y accionar cargas. Qué se puede automatizar y qué se necesita para hacerlo.
-MI
-MARVIN IRAM BARRIO GARCIA · Hoy
+MARVIN IRAM BARRIO GARCIA · Ayer
 Videovigilancia Sistemas de Seguridad
 El poder que tu VMS necesita ya está en stock: THINKP2U9, THINKP2U7, THINKP2U7V2 y THINKP3U5
-Alfonso Berumen · Hoy
+Alfonso Berumen · Ayer
 Sistemas de Seguridad Control de acceso
 Adiós a los Cables y a la Incertidumbre: 4 Soluciones de Yonusa que Revolucionan el Control y la Seguridad
-VICTOR MANUEL VEGA GONZALEZ · Hoy
+VICTOR MANUEL VEGA GONZALEZ · Ayer
 Sistemas de Seguridad Detección de Incendios
 Cirrus Hybrid: el detector por aspiración que ve el humo invisible
-MARIO ALBERTO HERNANDEZ REYNOSA · Hoy
+MARIO ALBERTO HERNANDEZ REYNOSA · Ayer
 Videovigilancia GPS y M2M
 Cámara inalámbrica CA42 de Streamax: 1080p en el exterior del vehículo sin pasar un cable
-Alfonso Berumen · Hoy
+Alfonso Berumen · Ayer
 TPMe de AIRBUS: radio móvil de nueva generación para flotas profesionales
-Dsanchez · hace 4 días
+Dsanchez · hace 5 días
 Video wall 2x2 de 109 pulgadas: cuatro pantallas Samsung VM55BU que se leen como una sola
-Cecilia Martinez · hace 4 días
+Cecilia Martinez · hace 5 días
 Videovigilancia redes
 WI-LTE117-O V2: router 4G LTE exterior con PoE de salida para cámaras
-FERNANDO OROZCO LOPEZ · hace 4 días
-redes Grandstream
-GWN7302: el enlace PtP WiFi 6 de Grandstream que cubre 5 km
-RAFAEL CENICEROS MU&Ntilde;OZ · hace 5 días
-Monitor LED Full HD de 21.5" para videovigilancia y oficina: HDMI, VGA y 100 Hz
-Adan Corona · hace 5 días
-WD Purple 2 TB: el disco que sostiene la videovigilancia 24/7
-Cecilia Martinez · hace 5 días
-Hikvision: por qué es el estándar de la videovigilancia profesional
-Cecilia Martinez · hace 6 días
-Videovigilancia Control de acceso
-Fanvil VIK-01: ahora con 10 usuarios en la app y varios monitores interiores
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 1 semana
+FERNANDO OROZCO LOPEZ · hace 5 días
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

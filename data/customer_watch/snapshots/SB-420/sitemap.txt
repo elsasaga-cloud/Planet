@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · sitemap · https://cdr.pl/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-420 cdr.pl · sitemap · https://cdr.pl/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 	https://www.cdr.pl/i26,aktualizacja-deco-m4r.html
 	https://www.cdr.pl/i32,aktualizacja-modemu-lte.html
 	https://www.cdr.pl/i29,huawei-olt-pierwszy-start.html
@@ -100,15 +100,19 @@
 	https://www.cdr.pl/k957,access-pointy-routery-systemy-mesh-wi-fi-6e.html
 	https://www.cdr.pl/k992,access-pointy-routery-systemy-mesh-wi-fi-7.html
 	https://www.cdr.pl/k645,access-pointy-routery-wzmacniacze-sygnalu.html
-	https://www.cdr.pl/k288,akcesoria-gsm-lte.html
-	https://www.cdr.pl/k286,akcesoria-gsm-lte-anteny-gsm.html
-	https://www.cdr.pl/k287,akcesoria-gsm-lte-modemy-i-inne.html
-	https://www.cdr.pl/k285,akcesoria-gsm-lte-pigtaile-gsm.html
+	https://www.cdr.pl/k594,access-pointy-routery-xdsl.html
+	https://www.cdr.pl/k595,access-pointy-routery-xdsl-adsl.html
+	https://www.cdr.pl/k597,access-pointy-routery-xdsl-adsl-dslam.html
+	https://www.cdr.pl/k700,access-pointy-routery-xdsl-adsl-routery.html
+	https://www.cdr.pl/k596,access-pointy-routery-xdsl-vdsl.html
+	https://www.cdr.pl/k598,access-pointy-routery-xdsl-vdsl-dslam.html
+	https://www.cdr.pl/k701,access-pointy-routery-xdsl-vdsl-routery.html
 	https://www.cdr.pl/k183,akcesoria-uchwyty.html
 	https://www.cdr.pl/k224,akcesoria-uchwyty-cybanty-obejmy.html
 	https://www.cdr.pl/k329,akcesoria-uchwyty-dlawiki.html
 	https://www.cdr.pl/k767,akcesoria-uchwyty-huby-usb-usb-c.html
 	https://www.cdr.pl/k227,akcesoria-uchwyty-izolacje.html
+	https://www.cdr.pl/k784,akcesoria-uchwyty-kryptowaluty.html
 	https://www.cdr.pl/k229,akcesoria-uchwyty-opaski-zaciskowe.html
 	https://www.cdr.pl/k330,akcesoria-uchwyty-patch-panele.html
 	https://www.cdr.pl/k620,akcesoria-uchwyty-pozostale.html
@@ -156,7 +160,6 @@
 	https://www.cdr.pl/k710,karty-sieciowe-karty-przewodowe-sfp-10g.html
 	https://www.cdr.pl/k753,karty-sieciowe-karty-przewodowe-sfp28-25g.html
 	https://www.cdr.pl/k711,karty-sieciowe-karty-przewodowe-qsfp-40g-qsfp28-100g.html
-	https://www.cdr.pl/k784,kryptowaluty.html
 	https://www.cdr.pl/k298,mediakonwertery.html
 	https://www.cdr.pl/k300,mediakonwertery-plc.html
 	https://www.cdr.pl/k303,mediakonwertery-swiatlowodowe.html
@@ -170,8 +173,4 @@
 	https://www.cdr.pl/k830,mikrotik-switche-mikrotik-seria-cloud-router-switch-crs.html
 	https://www.cdr.pl/k833,mikrotik-systemy-bezprzewodowe.html
 	https://www.cdr.pl/k834,mikrotik-systemy-bezprzewodowe-2-4-ghz-802-11n.html
-	https://www.cdr.pl/k835,mikrotik-systemy-bezprzewodowe-5-ghz-802-11n.html
-	https://www.cdr.pl/k836,mikrotik-systemy-bezprzewodowe-5-ghz-802-11ac.html
-	https://www.cdr.pl/k935,mikrotik-systemy-bezprzewodowe-5-ghz-802-11ax.html
-	https://www.cdr.pl/k713,mikrotik-lte-5g.html
-	https://www.cdr.pl/k838,mikrotik-rozwiazani
+	https://www.cdr.pl/k835,mikrotik-systemy-bezprzewodowe-5-ghz-802-11n.ht

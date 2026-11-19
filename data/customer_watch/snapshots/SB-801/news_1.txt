@@ -1,4 +1,4 @@
-# SB-801 aurcore.net · news_1 · https://www.aurcore.net/news · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-801 aurcore.net · news_1 · https://www.aurcore.net/news · fetched 2026-11-19T10:30:38Z · HTTP 200
 AurCore - Latest News & Updates
 About Us
 Solutions
@@ -35,13 +35,18 @@ Copyright © 2026 AURCORE TECHNOLOGY . All rights reserved.
 Terms of service Privacy policy
 Latest News & Updates
 Stay informed with the latest announcements, product releases, and company news from AurCore
-3
+4
 News Articles
 3
 Categories
 Daily
 Updates
 All News Media Report Events Press Release
+November 18, 2026
+Editor
+AurCore Previews 64-Port 800G Switch at SC26, Extending Open Networking for High-Performance Data Centers
+Marvell Teralynx 10-based switch sample joins AurCore’s 25G–400G data center switching portfolio for HPC and cloud-scale deployments
+Read More
 March 24, 2026
 Editor
 AurCore Bolsters Open, Scalable AI Networking with New High-Bandwidth Switches New Models powered with Marvell and SONiC solutions from PalC Networks

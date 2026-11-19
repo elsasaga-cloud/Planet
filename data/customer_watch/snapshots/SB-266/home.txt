@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,41 +41,41 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Triton kryt pro osvětlovací jednotku RAX-OJ-X07-X1, černý
-226 Kč bez DPH
-273 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,2m, Cat5e, černý, 24 pack
-1 083 Kč bez DPH
-1 311 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
-Hikvision IP bullet hybrid kamera DS-2CD2T23G2-4LI(4mm), 2Mpx, 4mm, 80m LED/IR, AcuSense
-RF elements SH60WB-GO, Symetrická sektorová Horn anténa s TwistPortem, 5/6GHz, 13dBi, 60°
-2 884 Kč bez DPH
-3 490 Kč s DPH
-Hikvision IP turret hybrid kamera DS-2CD1327G3-LIU(4mm), 2Mpx, 4mm, ColorVu
-Hikvision IP dome kamera DS-2CD1147G3-LIU(4mm), 6Mpx, 4mm, ColorVu 3.0
-DEYE Solární ponorné čerpadlo 11000W s regulátorem DY-D13600AC/DC
-17 695 Kč bez DPH
-21 411 Kč s DPH
-Ubiquiti Singlemode simplex optický patch cord SC UPC/SC UPC, 1m, 50 pack
-2 658 Kč bez DPH
-3 216 Kč s DPH
-DEYE hybridní měnič 99,9 kW, 3 fázový, HV, 8 MPPT
-151 212 Kč bez DPH
-182 966 Kč s DPH
+Seagate HDD Exos M, 3.5", 32TB, SATA
+34 301 Kč bez DPH
+41 504 Kč s DPH
+QuWireless Anténa QuSpot pro Teltonika RUTX11
+3 832 Kč bez DPH
+4 637 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, bílý
+62 Kč bez DPH
+75 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, černý
+91 Kč bez DPH
+110 Kč s DPH
+Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 1m, 50 pack
+2 664 Kč bez DPH
+3 223 Kč s DPH
+MEAN WELL HDR-60-15 Průmyslový zdroj na DIN lištu, 60W, 15V
+509 Kč bez DPH
+616 Kč s DPH
+Teltonika Security GSVPg, Komunikační rozhraní s 4G Cat 1 pro P64
+1 623 Kč bez DPH
+1 964 Kč s DPH
+MERCUSYS MR78X Wi-Fi 6 Router
+814 Kč bez DPH
+985 Kč s DPH
+Ubiquiti UniFi patch kabel, 15m, Cat5e, černý
+477 Kč bez DPH
+577 Kč s DPH
+Triton 19" stojanový rack 22U/600x600 prosklené dveře, černý
+8 276 Kč bez DPH
+10 014 Kč s DPH
+Teltonika Security S32GE, Hybridní zabezpečovací ústředna s 2G/LTE Cat 1 a eSIM, 32 zón + 10let eSIM
+3 806 Kč bez DPH
+4 605 Kč s DPH
 Hikvision DS-2FA1205-C8 Vícekanálový spínaný zdroj 12V/5A, 8x výstup
-Seagate HDD Exos 7E10, 3.5", 8TB, 512e/4KN, SATA
-8 251 Kč bez DPH
-9 984 Kč s DPH
-Kingston Micro SDXC Canvas Select Plus Gen3 512GB + SD adaptér
-1 913 Kč bez DPH
-2 315 Kč s DPH
-Triton 19" stojanový rack 45U/800x900 prosklené dveře, šedý
-16 030 Kč bez DPH
-19 396 Kč s DPH
-MikroTik 1.25/2.5G SFP optický modul HS-55DLC80D, SM, 80km, 1550nm
-618 Kč bez DPH
-748 Kč s DPH
+Hikvision IP bullet kamera DS-2CD1T27G3-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu 3.0
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

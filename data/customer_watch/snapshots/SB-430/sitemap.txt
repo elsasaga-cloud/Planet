@@ -1,4 +1,4 @@
-# SB-430 pro-tek.pro · sitemap · https://pro-tek.pro/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-430 pro-tek.pro · sitemap · https://pro-tek.pro/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 	https://pro-tek.pro/news/company-news/
 2026-11-17	https://pro-tek.pro/news/company-news/chestnyy-znak-radioelektronika-2026.html
 2026-11-02	https://pro-tek.pro/news/company-news/dahua_newyear_2026.html
@@ -165,6 +165,7 @@
 	https://pro-tek.pro/catalog/brends/bid/dahua/
 	https://pro-tek.pro/catalog/brends/bid/dahua-project/
 	https://pro-tek.pro/catalog/brends/bid/datarex/
+	https://pro-tek.pro/catalog/brends/bid/dekraft/
 	https://pro-tek.pro/catalog/brends/bid/delta/
 	https://pro-tek.pro/catalog/brends/bid/dexp/
 	https://pro-tek.pro/catalog/brends/bid/dkc/
@@ -186,5 +187,4 @@
 	https://pro-tek.pro/catalog/brends/bid/hikvision/
 	https://pro-tek.pro/catalog/brends/bid/hikvision-project/
 	https://pro-tek.pro/catalog/brends/bid/hikvision-ax-pro/
-	https://pro-tek.pro/catalog/brends/bid/hiwatch/
 	htt

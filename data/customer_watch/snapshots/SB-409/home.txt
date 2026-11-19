@@ -1,5 +1,5 @@
-# SB-409 xlrsecurity.com · home · https://www.xlrsecurity.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
-XLR Security | We sell security cameras & networking equipment.
+# SB-409 xlrsecurity.com · home · https://www.xlrsecurity.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+XLR Security | Security Cameras & Networking for Installers
 Skip to main content
 Skip to footer
 Opens in a new tab
@@ -68,11 +68,11 @@ Contact
 My Account
 0
 Value-added Security Distributor
-We are an innovative security supplier with a focus on customer service and techical support.
+We are an innovative security supplier with a focus on customer service and technical support.
 Canadian Owned & Operated
 We are a local company that appreciates your business and works hard to keep it.
 Dealer-focused Service
-We are an innovative security supplier with a focus on customer service and technical support.
+We're quick to answer the phone and help during your entire project – from pre-sales questions to on-site tech support.
 Learn More About Us
 Brands We Carry
 Professional Video Surveillance & Networking Solutions
@@ -222,6 +222,13 @@ Login for Pricing
 PoE Switches , Switches & Routers
 PN-D7006F-4P-60
 Login for Pricing
+Installer Tools
+Specifically designed for Uniview. Design your next project using our installer tools.
+Lens Preview
+Use our lens preview tool to see how clear a Uniview camera sees faces and license plates at a distance. You can use it to compare 2.8 vs 4.0mm lens, as well as varifocal lenses.
+Open Lens Preview → HDD Calculator
+How much storage space do you need to record 16 cameras for 30 days? This tool helps you answer that question clearly. It's based on real data from 50+ Uniview sites.
+Open HDD Calculator →
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account

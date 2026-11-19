@@ -1,4 +1,4 @@
-# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
 obserwujpl
 Zapraszamy na nasz kanał
@@ -235,43 +235,93 @@ Najniższa cena z 30 dni przed obniżką: 299.00 zł
 Do koszyka
 Nowości
 Wszystkie nowości
-0
-Nowość -15%
-Laskomex
-LASKOMEX MVC-9000 – monitor wideodomofonowy 8″ do systemu Bastion Gemini 2-wire IP, Wi-Fi i Tuya
-MVC-9000
-Ekran dotykowy 8″, 1024 × 600
-Łączność LAN i Wi-Fi
-Obsługa w aplikacji Tuya
-Podgląd 2 kamer IP
-Do 4 monitorów w instalacji
-Cena: 676.50 zł
-575.03 zł
-Najniższa cena z 30 dni przed obniżką: 575.02 zł
-Do koszyka
-0
 Nowość
-Laskomex
-BASTION Gemini 2-wire IP czarny – zestaw wideodomofonowy z monitorem 8″ i kamerą Full HD
-BASTION_CZARNY
-Monitor 8″, 1024 × 600
-Kamera Full HD 2 MP
-Instalacja 2-przewodowa
-Tuya, LAN i Wi-Fi 2,4 GHz
-RFID 125 kHz i kody dostępu
-Cena: 984.00 zł
-Do koszyka
-0
+VIDOS
+VIDOS LS03 – Lampa sygnalizacyjna bramy, pomarańczowa, IP54
+VIDOS-1499
+Pomarańczowy sygnał
+Błysk co 1 s lub światło ciągłe
+Zasilanie 12–256 V AC/DC
+Źródło światła 2 W
+Obudowa z poliwęglanu, IP54
+Cena: 73.80 zł
+Zapytaj o produkt
 Nowość
-Laskomex
-BASTION Gemini 2-wire IP biały – zestaw wideodomofonowy z monitorem 8″ i kamerą Full HD
-BASTION_BIAŁY
-Monitor 8″, 1024 × 600
-Kamera Full HD 2 MP
-Instalacja 2-przewodowa
-Tuya, LAN i Wi-Fi 2,4 GHz
-RFID 125 kHz i kody dostępu
-Cena: 984.00 zł
+VIDOS
+VIDOS FT03 – Fotokomórki bramowe IR z regulacją kąta
+VIDOS-1498
+Zestaw TX i RX
+Zasięg 1–12 m
+Regulacja kąta ±90°
+Wyjście NO/NC
+Zasilanie 12–24 V AC/DC
+Cena: 86.10 zł
+Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS ZW49-X – Zamek szyfrowy Wi-Fi z kamerą i czytnikiem RFID
+VIDOS-1497
+Wi-Fi, kamera i aplikacja Tuya
+RFID UNIQUE 125 kHz
+Do 1000 kart lub kodów
+Przekaźnik NO/NC i Wiegand
+Metalowa obudowa IP65
+Cena: 489.54 zł
+Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS P15-1116 – Regulowany zasilacz impulsowy 11–16 V DC na szynę DIN
+VIDOS-1496
+Wyjście 11–16 V DC
+Moc wyjściowa 15 W
+Wejście 100–240 V AC
+Montaż na szynie DIN
+Szerokość 18 mm
+Cena: 59.04 zł
+Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS P12-15 – Dopuszkowy zasilacz impulsowy 14,5 V DC, IP65
+VIDOS-1495
+14,5 V DC, 0,83 A
+Wejście 100–240 V AC
+Do puszki Ø60 mm
+Stopień ochrony IP65
+50 × 49 × 25 mm
+Cena: 41.82 zł
+Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS P12-12 – Dopuszkowy zasilacz impulsowy 12 V DC, IP65
+VIDOS-1494
+12 V DC, 1 A
+Moc 12 W
+Wejście 100–240 V AC
+Do puszki Ø60 mm
+Stopień ochrony IP65
+Cena: 41.82 zł
+Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS P60-15 – Zasilacz impulsowy na szynę DIN 14–16 V DC, 60 W
+VIDOS-1493
+Wyjście regulowane 14–16 V DC
+Moc 60 W, prąd do 4 A
+Wejście 230 V AC
+Montaż na szynie DIN
+Szerokość 77 mm
+Cena: 104.55 zł
+Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS D111 – Aluminiowa puszka natynkowa do stacji S111
+VIDOS-1492
+Do stacji VIDOS S111
+Montaż natynkowy
+Aluminium
+Kolor czarny
+312 × 127 × 56 mm
+Cena: 405.90 zł
 Zapytaj o produkt
 Najciekawsze oferty w kategoriach
 Monitoring CCTV

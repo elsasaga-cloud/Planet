@@ -1,4 +1,4 @@
-# SB-801 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-801 aurcore.net · home · https://www.aurcore.net/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 AurCore Technology
 About Us
 Solutions
@@ -122,6 +122,11 @@ AurCore offers a production-ready SONiC solution validated by PalC Networks, pro
 Latest Updates
 AurCore in the News
 Stay informed about our latest innovations, industry events, and technical insights
+Press Release
+November 18, 2026
+AurCore Previews 64-Port 800G Switch at SC26, Extending Open Networking for High-Performance Data Centers
+Marvell Teralynx 10-based switch sample joins AurCore’s 25G–400G data center switching portfolio for HPC and cloud-scale deployments
+Read More
 Press Release
 March 24, 2026
 AurCore Bolsters Open, Scalable AI Networking with New High-Bandwidth Switches New Models powered with Marvell and SONiC solutions from PalC Networks

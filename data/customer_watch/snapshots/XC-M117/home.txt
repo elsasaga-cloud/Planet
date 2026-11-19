@@ -1,4 +1,4 @@
-# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# XC-M117 SPHINX CONNECT FRANCE（Sphinx France） · home · https://sphinxfrance.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Sphinx France, solutions M2M et IIoT
 Connexion
 ou
@@ -172,7 +172,7 @@ Système de grues RTG automatisé
 Contrôle de propulsion navale
 Cybersécurité OT
 Surveillance des systèmes BESS
-Cybersécurité des équipements électriques
+Cybersécurité des équipements électriques critiques
 Protéger les lignes de production des cyberattaques
 Formulaire avant-vente
 Formulaire service après-vente
@@ -242,17 +242,19 @@ Extender KVM
 Je découvre
 Nos produits vedettes
 Repoussez les limites de l’Industrie 4.0 avec nos solutions IIoT de pointe.
-Moxa NPort 5650-8 – Serveur de port série 8 ports
-1 184,00 €*
 Moxa IKS-6726A/IKS-6728A - Switches Ethernet manageables
-Moxa Nport 5600 - Convertisseur série vers Ethernet
-Moxa PWR-300 - Alimentation pour les Switches Moxa MRX-G4000/Q4000
-Moxa NPort 6100/6200 - Serveur de terminaux
-Moxa NPort 6000-G2 - Serveur de terminaux sécurisé
-Moxa XM-4000 - Module Gigabit Ethernet
-Moxa EDS-(G)2000 - Série de Switchs non manageables 5 ou 8 ports
-Moxa SDS-G3016 - Switch Gigabit Ethernet 16 ports
-Moxa SDS-G3008 - Switch Gigabit Ethernet 8 ports
+Sierra Wireless AirLink LX60 - Routeurs commerciaux double Ethernet LTE ou LTE-M/NB IoT pour les parcs de vente au détail, de points de vente, d'IoT et commerciaux
+0,00 €*
+Moxa TN-5308 - Switch Ethernet M12 EN50155 8 ports
+Moxa NPort IA5000 – Serveurs de périphériques série à 1/2 ports
+$ Sierra Wireless - MP70 LTE-A PRO WiFi
+0,00 €*
+Semtech AirLink® Complete – Plateforme de gestion des équipements connectés
+0,00 €*
+Moxa EDS-2010-ML - Switch Gigabit non manageable 10 ports
+Moxa EDS-P510 Series 7 + 3G ports avec 4 ports PoE IEEE 802.3af - Switchs Ethernet manageable Gigabit
+Moxa MDS-G4020-4XGS - Switch Gigabit manageable
+Moxa TN-5308-LV-T - Switch non manageable 8 ports
 Votre partenaire unique pour
 l'Internet Industriel des Objets
 Plus de 24 ans d'expérience
@@ -263,33 +265,31 @@ Headphones
 Shop now
 Nos best-sellers
 Découvrez notre sélection de produits les plus vendus.
-Moxa EDS-316 - Switch industriel 16 ports
 Kerlink Wirnet iFemtoCell - Gateway LoRaWAN indoor
 0,00 €*
+Semtech AirLink® XR60 - Routeur 5G industriel
+ADDERLink XDIP-POE - Extender KVM sur IP
 Moxa EDS-408A - Switch Ethernet manageable
+Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
 Icron Ranger 2301 - Extendeur USB 2.0
 370,00 €*
-Moxa MGate MB3170 Passerelle Modbus Série vers Ethernet 1 port
-ADDERLink XDIP-POE - Extender KVM sur IP
-Semtech AirLink® XR60 - Routeur 5G industriel
+Moxa EDS-316 - Switch industriel 16 ports
 Je découvre
-Extension pour 4 ports USB 2.0 jusqu'à 100 m CAT 5e/6/7 ou LAN - Icron Ranger 2304
-403,00 €*
-Extension Icron pour un port USB 2.0 jusqu'à 100 m via câble CAT 5e/6/7- icron Ranger 2311
-286,00 €*
-Icron Ranger 2324 - Extendeur USB 2.0 4 ports
-948,00 €*
-Icron Raven 3301 - Extendeur USB à 1 Port
 Icron Raven 3104 - Extendeur USB 3.1 4 ports
 1 165,00 €*
-ADDERLINK X-USB PRO MS - Extender KVM à double écran
-Icron Ranger 2301 - Extendeur USB 2.0
-370,00 €*
-Extension pour un port USB 2.0 jusqu'à 100m via CAT 5e/6/7 ou LAN- Icron Ranger 2301GE
-412,00 €*
+Icron Raven 3301 - Extendeur USB à 1 Port
+Icron Arbutus 63301 - Extender USB 1 port
+ADDERLink X-USB PRO - Extender KVM USB
 ADDERLink CUSBEXT100 - Extendeur C-USB 2.0 sur câble CATx
 Icron Starling 3251C - Extendeur USB 3.2 Type-C
 774,00 €*
+Icron Raven 3104 Pro - Extendeur USB 3.2 4 ports
+1 802,00 €*
+ADDERLINK X-USB PRO MS - Extender KVM à double écran
+Icron Ranger 2304PoE - Extendeur USB 2.0 4 ports
+445,00 €*
+Icron Ranger 2324 - Extendeur USB 2.0 4 ports
+948,00 €*
 Moxa MPC-3070W - Panel PC fanless 7"
 Moxa MPC-3100 - Panel PC fanless 10”
 Moxa MPC-3120 - Panel PC fanless 12"

@@ -1,11 +1,11 @@
-# SB-709 ic-intracom.bg · sitemap · https://ic-intracom.bg/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-709 ic-intracom.bg · sitemap · https://ic-intracom.bg/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 2026-04-16	https://ic-intracom.bg/about-us
 2026-08-27	https://ic-intracom.bg/brands
 2026-04-15	https://ic-intracom.bg/conditions-for-cancellation-of-orders
-2026-11-14	https://ic-intracom.bg/contactus
+2026-11-19	https://ic-intracom.bg/contactus
 2026-01-12	https://ic-intracom.bg/legal/cookies-policy
-2026-04-15	https://ic-intracom.bg/shipping-and-payment
-2026-04-16	https://ic-intracom.bg/terms-and-conditions-of-use
+2026-11-19	https://ic-intracom.bg/shipping-and-payment
+2026-11-19	https://ic-intracom.bg/terms-and-conditions-of-use
 	https://ic-intracom.bg/shop/19-комуникационен-шкаф-със-стъклена-врата-600x600-мм-черен-gunko-elgn-25063
 	https://ic-intracom.bg/shop/19-комуникационен-шкаф-със-стъклена-врата-600x800-мм-черен-gunko-elgn-34945
 	https://ic-intracom.bg/shop/igs-4215-8up2t2s-8x10-100-1000t-802-3bt-poe-2x10-100-1000t-2x100-1000x-sfp-управляем-суич-31130

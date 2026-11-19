@@ -1,4 +1,4 @@
-# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -362,7 +362,7 @@ New
 favorite
 favorite_border
 LTE, 5G MikroTik LHGGM&EG18-EA LTE Antenna + Modem, CAT18 LTE, 1x RJ45 1000Mb/s
-1,033.54 zł gross
+1,037.75 zł gross
 Add to basket
 New
 favorite
@@ -373,8 +373,20 @@ Add to basket
 New
 favorite
 favorite_border
-Sockets and power strips AQARA OUTDOOR PLUG H2 EU (RGB)
+Sockets and power strips
 149.99 zł gross
+Add to basket
+New
+favorite
+favorite_border
+Locks and security
+1,249.99 zł gross
+Add to basket
+New
+favorite
+favorite_border
+Locks and security Aqara Smart Lock U600, Smart door lock, Zigbee, Bluetooth
+1,199.99 zł gross
 Add to basket
 New
 favorite
@@ -385,55 +397,36 @@ Add to basket
 New
 favorite
 favorite_border
-Bulbs and fluorescent tubes AQARA LED DOWNLIGHT T2 4 CCT
+Bulbs and fluorescent tubes Aqara LED Downlight T2 4" CCT, recessed LED light, 4 inches, CCT
 199.99 zł gross
 Add to basket
 New
 favorite
 favorite_border
-Bulbs and fluorescent tubes AQARA LED DOWNLIGHT T2 4 RGB CCT
+Bulbs and fluorescent tubes Aqara LED Downlight T2 4" RGB CCT, recessed LED light fitting, 4 inches, RGB, CCT
 209.99 zł gross
-Add to basket
-New
-favorite
-favorite_border
-Bulbs and fluorescent tubes AQARA LED DOWNLIGHT T2 6 RGB CCT
-219.99 zł gross
-Add to basket
-New
-favorite
-favorite_border
-Led strips AQARA LED STRIP T2 (3M, OFFLINE)
-299.98 zł gross
 Add to basket
 On sale
 Previous
 Next
--17.13 zł
+-5%
 favorite
 favorite_border
 UPS ARMAC HOME 1000F LINE INTERACTIVE UPS, SCHUKO OUTPUT
 307.50 zł gross 324.63 zł gross
 Lowest price in 30 days: 324.63 zł gross
 Add to basket
--141.00 zł
+-32%
 favorite
 favorite_border
 Ip cameras Petcube Play 2 - Pet Monitoring Camera with Laser, WiFi, 1080p
 299.00 zł gross 440.00 zł gross
 Lowest price in 30 days: 440.00 zł gross
 Add to basket
--2.46 zł
-favorite
-favorite_border
-Cables and patch cords Extralink 1:4 FBT SC/APC Splitter, :10, 2.0mm, 1m
-92.08 zł gross 94.54 zł gross
-Lowest price in 30 days: 94.54 zł gross
-Add to basket
 -3%
 favorite
 favorite_border
-RTV cables
+RTV cables Extralink HDMI Cable HDMI 2.1 8K 4K, HDR, 2m, premium, angled (left-angled)
 67.89 zł gross 69.99 zł gross
 Lowest price in 30 days: 69.99 zł gross
 Add to basket
@@ -441,17 +434,17 @@ Add to basket
 favorite
 favorite_border
 RTV cables HDMI 2.1 Extralink Cable, 8K HDR 5m
-46.75 zł gross 48.19 zł gross
+49.28 zł gross 50.80 zł gross
 Lowest price in 30 days: 48.19 zł gross
 Add to basket
 -3%
 favorite
 favorite_border
 RTV cables Extralink HDMI 2.1 Cable, 8K HDR 3m
-30.96 zł gross 31.92 zł gross
+32.63 zł gross 33.64 zł gross
 Lowest price in 30 days: 31.92 zł gross
 Add to basket
--20.00 zł
+-42%
 favorite
 favorite_border
 Flashlights Extralink EFL-1031 Odin LED Flashlight, Built-in Battery, 10W, 400lm
@@ -462,8 +455,15 @@ Add to basket
 favorite
 favorite_border
 RTV cables HDMI 2.1 Extralink Cable, 8K HDR 1.5m
-22.29 zł gross 22.98 zł gross
+23.50 zł gross 24.23 zł gross
 Lowest price in 30 days: 22.98 zł gross
+Add to basket
+-10%
+favorite
+favorite_border
+Cables and patch cords Extralink 1:8 PLC SC/APC Splitter, 2.0mm, 1.5m, G657A, ABS module, without connectors
+18.90 zł gross 20.90 zł gross
+Lowest price in 30 days: 20.90 zł gross
 Add to basket
 Learn how to design and optimize UniFi Wi-Fi networks
 Certified UniFi UWA Training

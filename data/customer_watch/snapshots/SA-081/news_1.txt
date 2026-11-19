@@ -1,4 +1,4 @@
-# SA-081 4power.it · news_1 · https://www.4power.it/blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SA-081 4power.it · news_1 · https://www.4power.it/blog/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Blog 4Power | Guide su UPS, Networking e Cablaggio Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -75,7 +75,7 @@ Archivio Categoria: Blog
 Guide, approfondimenti e novità tecniche dal mondo 4Power: UPS Eurogroup, networking 4Net e Planet, armadi rack e cablaggio strutturato. Articoli per installatori, rivenditori e professionisti IT.
 Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta
-Pubblicato il 11 Novembre 2026 da rvosa
+Pubblicato il 11 Novembre 2026 18 Novembre 2026 da rvosa
 Metodo pratico per scegliere potenza e autonomia di un gruppo di continuità UPS in base ai carichi reali.
 Continua a leggere →
 Inserito in Blog

@@ -1,4 +1,4 @@
-# SB-456 pancakumala.co.id · news_1 · https://www.pancakumala.co.id/projects/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-456 pancakumala.co.id · news_1 · https://www.pancakumala.co.id/projects/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Projects - Panca Kumala Jaya
 Competent Partner in Smatv & Security Solution
 Hunting: 021-5643366
@@ -117,6 +117,15 @@ Hotel Mercure Harvest
 Hotel Santika - Bengkulu
 Hotel Aquarius - Palangkaraya
 Hotel Bella International - Ternate
+Hotel Santika Premiere - Lampung
+Hotel Amaris - Manado
+Hotel Amaris - Lampung
+Hotel Crown Plaza - Labuan Bajo
+Hotel Harris Summarecon - Serpong
+Hotel Prime Plaza Mataram - Lombok
+Hotel Santika Premiere Cibadak - Sukabumi
+Hotel Neo KBP - Padalarang
+Hotel Artotel - Magelang
 Apartment Sudirman Residence – Jakarta
 Apartment Braga City Walk – Bandung
 Apartment Politeknik – Batam
@@ -201,6 +210,16 @@ RS. Unimedika Setu – Bekasi
 RS. Grand Family – PIK
 RSUD. dr. Zainoel Abidin – Aceh
 RSUD. Biak
+Melinda 3 - Bandung
+Elizabeth - Purwokerto
+Bahodopi - Morowali
+RS Sidowaras - Mojokerto
+Jakarta Eye Center - Tangerang
+Keluarga Sehat – Rembang
+Wongsonegoro – Semarang
+Amanah – Banjarmasin
+Dirgahayu – Samarinda
+Adam Malik - Medan
 The Kensington Office Tower - Jakarta
 Office Tower Bussan Auto Finance – Jakarta
 Office Tower Bilah Baja Makmur Abadi – Medan
@@ -231,6 +250,9 @@ Office Tower Metrox – Jakarta
 Office Tower BFI Finance Head Indonesia – Jakarta
 Office Tower Kirana Two Park – Jakarta
 Office Tower Scientia Park – Tangerang
+Office SPF Indralaya - Palembang
+Office Tower Menara Satu - Kelapa Gading
+Office Griya Cissie Sunter - Jakarta
 Universitas Dormitory Atma Jaya – BSD
 Universitas Pradita Tahap 1 - IV – Serpong
 Universitas Pelita Harapan – Karawaci
@@ -254,6 +276,8 @@ Sekolah SMP Al-Azhar Summarecon - Serpong
 Sekolah BPK Penabur Gunung Sahari IV
 Sekolah USB – Cawang
 Sekolah TK Kipina – Serpong
+Sekolah Kristen Ketapang - Jakarta
+Sekolah Strada Teluk Naga - Tangerang
 Factory Indoagri Daitocacao – Karawang
 Factory Snowman - Bitung
 Warehouse SPIL Modern – Surabaya
@@ -270,6 +294,12 @@ Warehouse Indomarco – Karawang
 Warehouse Indomarco – Cirebon
 Warehouse Indomarco – Makassar
 Factory Indofood SRC – Karawang
+Factory Winteq - Karawang
+Factory Indomarco - Pekanbaru
+Factory Sepatu Evertech - Brebes
+Warehouse Spill Container - Cibitung
+Factory Masuya - Semarang
+Warehouse Spill Container - Daan Mogot
 Mall Bekasi Junction
 Mall METRO The Park – Solo
 Mall Summarecon Digital Centre – Serpong
@@ -304,6 +334,7 @@ Mall Sukaramai Trade Center –Riau
 Mall Bintaro Jaya Xchange
 Mall Moro – Purwokerto
 Mall Citimall - Bontang
+Mal Bali Galeria
 Hotel
 Apartment & Residences
 Hospital Building

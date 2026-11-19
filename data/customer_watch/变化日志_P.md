@@ -4005,3 +4005,250 @@
 - XC-M148 Lakeland Engineering Equipment · feed_auto（rss）：新增 1 条：Tue, 17 Nov 2026 16 Fluke 1777 Power Quality Analyzer: Identifying Electrical Problems Before They Lead to Dow
 - 消失 1 条（RSS 窗口滚动属正常）：How to Trace Underground Cable and Find Cable Faul
 - 本轮抓取失败 11：XC-M092/home：HTTP 403；PB-003/home_2：ConnectionError: HTTPSConnectionPool(host='planet.fen.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='planet.fen.pl', port=443): Failed to resolve 'planet.fen.pl'；PB-009/home：HTTP 403；PC-011/feed_auto：ParseError: not well-formed (invalid token): line 1, column 119；XC-M115/home：SSLError: HTTPSConnectionPool(host='phoebe.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certifica；XC-M115/home_2：HTTP 404；XC-E063/home：ConnectionError: HTTPSConnectionPool(host='xentech.nl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='xentech.nl', port=443): Failed to resolve 'xentech.nl' ([Errno ；XC-M097/home：HTTP 403；XC-E059/home_2：ConnectionError: HTTPSConnectionPool(host='infra.alyseo.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='infra.alyseo.com', port=443): Failed to resolve 'infra.al；XC-M149/home：HTTP 403；XC-M133/home：HTTP 403
+
+## 2026-11-19T10:30:38Z（源 231）
+- XC-M349 SIA "EURO DK" · home（html）：内容变化：+69 −71 行
+  - `-Neatkarības diena Darba laika izmaiņas`
+  - `-Informējam, ka sakarā ar svētku dienu trešdien 18.novembrī, GETIC birojs būs slēgts un mēs nevarēsim atbildēt uz Jūsu e-pastiem. Otrdien, 17.novembrī, biroja d`
+  - `+CRS418-8P-8G-2S+RM`
+  - `+MikroTik CRS418-8P-8G-2S+RM`
+  - `+EU`
+  - `+noliktavā`
+- XC-M349 SIA "EURO DK" · home_2（html）：内容变化：+70 −74 行
+  - `-Neatkarības diena Darba laika izmaiņas`
+  - `-Informējam, ka sakarā ar svētku dienu trešdien 18.novembrī, GETIC birojs būs slēgts un mēs nevarēsim atbildēt uz Jūsu e-pastiem. Otrdien, 17.novembrī, biroja d`
+  - `-UDB`
+  - `-Ubiquiti Device Bridge`
+  - `-noliktavā`
+  - `-119.46 €`
+- XC-M349 SIA "EURO DK" · sitemap（sitemap）：新增 820 条：2025-11-04T15:35:05 payment；2025-11-04T15:35:05 delivery；2025-11-04T15:35:05 warranty；2025-11-04T15:35:05 contact；2025-11-04T15:35:05 company；2025-11-04T15:35:05 gdpr-form；2025-11-04T15:35:05 terms；2025-11-04T15:35:05 privacy…
+- 更新 1 条：www.getic.lv（2026-11-18T07:37:42 → 2026-11-19T07:37:39）
+- XC-M349 SIA "EURO DK" · news_1（html）：内容变化：+0 −2 行
+  - `-Neatkarības diena Darba laika izmaiņas`
+  - `-Informējam, ka sakarā ar svētku dienu trešdien 18.novembrī, GETIC birojs būs slēgts un mēs nevarēsim atbildēt uz Jūsu e-pastiem. Otrdien, 17.novembrī, biroja d`
+- XC-M119 "MARITEX" Leszek Łosin Sp.j. · home（html）：内容变化：+2 −6 行
+  - `-14`
+  - `-items in stock`
+  - `-Quantity`
+  - `-Order`
+  - `-Total 59,23 PLN net`
+  - `+Order`
+- PA-002 Cartronic Memory S.A. · home（html）：内容变化：+2 −2 行
+  - `+PLANET IMGS-5215-8UP4X: máxima potencia PoE++, conectividad Multigigabit y fibra 10G para entornos industriales`
+  - `+Ver más »`
+  - `-Ver más »`
+  - `-Monitorización ambiental en CPD: seguridad, continuidad operativa y cumplimiento ISO 27001 y ENS`
+- PA-002 Cartronic Memory S.A. · feed_auto（rss）：新增 1 条：Thu, 19 Nov 2026 08 PLANET IMGS-5215-8UP4X: máxima potencia PoE++, conectividad Multigigabit y fibra 10G para 
+- 消失 1 条（RSS 窗口滚动属正常）：Seguridad unificada: integrar videovigilancia, con
+- PB-003 Konsorcjum FEN Sp. z o.o. · home（html）：内容变化：+156 −1 行
+  - `-FEN to firma, z którą współpracuję od dawna, nie jest to typowy dystrybutor – nazwałbym ich partnerem biznesowym. Nie odcinają się jak inni od swoich klientów,`
+  - `+FEN to firma, z którą współpracuję od dawna, nie jest to typowy dystrybutor – nazwałbym ich partnerem biznesowym. Nie odcinają się jak inni od swoich klientów,`
+  - `+Sławomir Muszyński, właściciel`
+  - `+IdealPC`
+  - `+Sprzedażą elektroniki zajmujemy się od 2017 roku i przez ten czas korzystaliśmy z usług kilkunastu większych lub mniejszych dostawców, ale tylko z FEN zostaliś`
+  - `+gdy przyszły gorsze czasy — wyciągnęli pomocną dłoń. Oni nie są jak inni dystrybutorzy IT, dla których jesteś tylko cyferką, tylko jak przyjaciel, który cię ws`
+- PB-003 Konsorcjum FEN Sp. z o.o. · news_1（html）：内容变化：+12 −12 行
+  - `-Synology DVA7400: lokalna analityka AI w systemie monitoringu`
+  - `-9 października 2026`
+  - `-Przy kilkudziesięciu kamerach odnalezienie jednego zdarzenia może wymagać przejrzenia wielu godzin materiału. Synology DVA7400 łączy lokalną analitykę AI z wys`
+  - `+Backup Proxmox VE: Proxmox Backup Server czy ActiveProtect?`
+  - `+19 listopada 2026`
+  - `+Jak skutecznie zabezpieczyć maszyny wirtualne w Proxmox VE? Porównujemy Proxmox Backup Server i Synology ActiveProtect pod kątem tworzenia kopii zapasowych, oc`
+- PB-003 Konsorcjum FEN Sp. z o.o. · feed_auto（rss）：新增 1 条：Thu, 19 Nov 2026 10 Backup Proxmox VE: Proxmox Backup Server czy ActiveProtect?
+- 消失 1 条（RSS 窗口滚动属正常）：Kryzys kadr w cyberbezpieczeństwie – wypalenie zaw
+- PA-012 SIR.tel. S.r.l. · home（html）：内容变化：+1 −1 行
+  - `-Enter an answer in digits: 4 × 1 =`
+  - `+Enter an answer in digits: 11 − otto =`
+- PB-018 Power Biztonságtechnikai Keres · home_2（html）：内容变化：+3 −2 行
+  - `-window.livewire.find('fZ6WYpywWeakEaMAW8gj').call('resetSearch')`
+  - `+window.livewire.find('xf16peYdVyMOwnHFqrNv').call('resetSearch')`
+  - `-class="fixed z-50 duration-300 text-primary-light hover:text-white hover:bg-primary rounded-full bottom-5 right-`
+  - `+class="fixed z-50 duration-300 text-primary-light hover:text-white hover:bg-primary rounded-full bottom-5 right-5"`
+  - `+>`
+- PB-018 Power Biztonságtechnikai Keres · sitemap（sitemap）：新增 822 条： am36-500； am36-700； am45-3017； am45-3017e-1； am45-50； am45-5012e； am45e-50e； am55-2x3el…
+- 消失 2 条（RSS 窗口滚动属正常）：gazpaka-hegy02mm-toolcraft；ac520-01
+- PA-013 Leteng AS · sitemap（sitemap）：新增 820 条：2026-11-19 lc-lc；2026-11-19 lc-mtrj；2026-11-19 lc-sc；2026-11-19 lc-st；2026-11-19 sc-sc；2026-11-19 sc-st；2026-11-19 st-mtrj；2026-11-19 st-st…
+- 更新 80 条：www.leteng.no（2026-11-18 → 2026-11-19）；kabler（2026-11-18 → 2026-11-19）；adapter（2026-11-18 → 2026-11-19）；adapter（2026-11-18 → 2026-11-19）；hdmi（2026-11-18 → 2026-11-19）；hdmi（2026-11-18 → 2026-11-19）；hdmi-hybrid（2026-11-18 → 2026-11-19）；hdmi-halogenfri（2026-11-18 → 2026-11-19）
+- PA-013 Leteng AS · feed_auto（rss）：新增 23 条：19.11.2026 11:16:51 LD Systems MAUI 44 G3；19.11.2026 10:34:48 Aten Switch 8x1 HDMI 4K；19.11.2026 09:57:20 Cypress MultiViewer Prosessor 4K UHD；04.11.2026 12:11:01 Clevertouch CORE 86"；04.11.2026 12:08:26 Clevertouch CORE 75"；04.11.2026 11:31:08 Clevertouch CORE 65"；04.11.2026 11:04:43 Bordbrønn 6xStrøm - Medium；04.11.2026 10:59:45 Bordbrønn 6xStrøm - Medium…
+- 消失 3 条（RSS 窗口滚动属正常）：Kramer EXT3-H-POE-R；Apto Kabelhylle Sort, 147 cm；Apto Kabelhylle Åpen Sort, 74cm
+- PB-088 Mills Limited · home（html）：内容变化：+1767 −1 行
+  - `-Co`
+  - `+Connection Boxes & Strips`
+  - `+Connectors & Plugs`
+  - `+Line Jack Units`
+  - `+Protectors & Locking Wedges`
+  - `+Tailed Line Adaptors`
+- PB-088 Mills Limited · sitemap（sitemap）：新增 820 条：2026-11-19T00:00:58 www.millsltd.com；2026-11-19T00:00:58 about；2026-11-19T00:00:58 contact；2026-11-19T00:00:58 deliveries；2026-11-19T00:00:58 returns；2026-11-19T00:00:58 terms-and-conditions；2026-11-19T00:00:58 blog；2026-11-19T00:00:58 unsubscribed…
+- 更新 80 条：bosch（2026-11-18T00:01:26 → 2026-11-19T00:00:58）；engineering-adhesives（2026-11-18T00:01:26 → 2026-11-19T00:00:58）；brother-labels-heat-shrink-tubing（2026-11-18T00:01:26 → 2026-11-19T00:00:58）；heat-shrink-end-caps-sleeves-cones（2026-11-18T00:01:26 → 2026-11-19T00:00:58）；continuous-duct-rods-cobras-snjo3o（2026-11-18T00:01:26 → 2026-11-19T00:00:58）；landscape-garden（2026-11-18T00:01:26 → 2026-11-19T00:00:58）；safe-isolation（2026-11-18T00:01:26 → 2026-11-19T00:00:58）；special-offers（2026-11-18T00:01:26 → 2026-11-19T00:00:58）
+- PA-007 ALARM ABSOLON, spol. s r.o. · home（html）：内容变化：+120 −118 行
+  - `+GSM VT-11`
+  - `+Skladem`
+  - `+Deska GSM SMS modulu s externí anténou se 6 vstupy a 2x relé výstupem NO/NC, zajištění heslem, odpovídací SMS o stavu vstupů/výstupů, programovací kabel, vyžad`
+  - `+Pro zobrazení ceny se přihlaste`
+  - `+Akce`
+  - `+Propojovací box XtendLan Cat 5e nestíněný`
+- PA-008 Aspectis Informatikai és Bizto · sitemap（sitemap）：新增 459 条：2025-09-15T14:42:17 markaink；2021-09-02T11:01:01 megoldasaink；2018-12-06T09:07:29 szolgaltatasaink；2018-11-13T15:42:59 blog；2018-12-06T10:11:05 referenciak；2018-11-13T15:45:28 dijmentes-konzultacio；2025-09-15T14:55:11 axis；2024-12-03T11:02:05 hanwha-vision-3…
+- 更新 1 条：aspectis.hu（2026-11-18T11:50:05 → 2026-11-19T11:58:50）
+- PB-011 ProVu Communications Ltd · sitemap（sitemap）：新增 820 条：2023-09-26T09:02:39 2023-partner-day.html；2024-06-20T11:50:25 2n-access-commander-box.html；2022-05-25T14:45:25 2n-access-commander.html；2023-12-14T11:54:44 2n-access-unit-m.html；2024-10-03T08:49:25 2n-access-unit-qr.html；2023-08-31T08:28:14 2n-access-unit.html；2023-08-30T12:27:53 2n-advanced-replacement.html；2022-05-25T14:45:25 2n-analogue-force.html…
+- PB-033 Hasan Ergen – Ergen Elektronik · home（html）：内容变化：+1432 −605 行
+  - `-50,9500`
+  - `-56,1500`
+  - `+50,9800`
+  - `+56,0500`
+  - `-Sipariş No :120822`
+  - `-OXPC`
+- PB-040 H&V Security B.V. · home（html）：内容变化：+6 −6 行
+  - `-$920.81 $761.00`
+  - `+$922.02 $762.00`
+  - `-$869.99 $719.00`
+  - `+$871.20 $720.00`
+  - `-$600.16 $496.00 Incl. VAT Excl. VAT`
+  - `+$601.37 $497.00 Incl. VAT Excl. VAT`
+- PC-011 Akçaba Communications · home（html）：内容变化：+114 −1 行
+  - `-`
+  - `+Akçaba Communications | Fiber Optik Çözümler | KKTC`
+  - `+Ağ Güvenliği ÇözümleriİletişimVitalPBX Sanal Santral SistemiİletişimDijital Güvenlik SistemleriİletişimIP Telefon ve Ses ÇözümleriSnomAkıllı Kilit Sistemleriİl`
+  - `+"/>`
+  - `+Hizmetlerimiz`
+  - `+İş Ortaklarımız`
+- PC-011 Akçaba Communications · feed_auto（rss）：首轮基线
+- PB-059 Europ Computer Performance SAR · home（html）：内容变化：+288 −1 行
+  - `-SY`
+  - `+SYNOLOGY`
+  - `+Réf ECP : SYN00054343`
+  - `+Réf constructeur : DS1525NEO+`
+  - `+EAN : 4711174727209`
+  - `+Disponibilité : En stock`
+- PA-016 VOIP24SKLEP.PL Sp. z o.o. · home（html）：内容变化：+307 −13 行
+  - `-Przyciski wyjścia`
+  - `+Przyciski wyjścia`
+  - `+Akcesoria`
+  - `-Akcesoria`
+  - `-Nowość`
+  - `-EPOS ADP002`
+- PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1（html）：内容变化：+153 −31 行
+  - `+Bezprzewodowe prezentacje`
+  - `+Telewizory`
+  - `-Bezprzewodowe prezentacje`
+  - `-Telewizory`
+  - `-Biznesowe`
+  - `-Hotelowe`
+- PB-082 Snugfort Limited · home（html）：内容变化：+165 −1 行
+  - `-Commercial D`
+  - `+Commercial Displays`
+  - `+Reliable displays for retail, reception and corporate communications.`
+  - `+Explore displays →`
+  - `+Touch collaboration`
+  - `+Interactive Displays`
+- PB-082 Snugfort Limited · news_1（html）：内容变化：+83 −1 行
+  - `+November 19, 2026`
+  - `+What Is a Video Wall for Business? Buyer’s Guide`
+  - `+Learn what is a video wall, how commercial video wall displays work, where they perform best, and what UK buyers should specify before installation begins.`
+  - `+Read now`
+  - `-Ch`
+  - `+Choose Samsung commercial displays with confidence: compare brightness, operating hours, CMS options and installation needs for busy UK business sites.`
+- PB-049 Intermédia – Informática, Lda · home（html）：内容变化：+1 −1 行
+  - `-293356 produtos em tabela, outros milhares por consulta.`
+  - `+293397 produtos em tabela, outros milhares por consulta.`
+- XC-M095 GOMA ELETTRONICA SpA · home（html）：内容变化：+3 −3 行
+  - `-Computer Embedded 130`
+  - `+Computer Embedded 131`
+  - `-Computer Embedded 130`
+  - `+Computer Embedded 131`
+  - `-488 prodotti →`
+  - `+489 prodotti →`
+- XC-M185 Koning & Hartman B.V. · sitemap（sitemap）：新增 91 条： guntermann-en-drunck； iei-integration-corp； innodisk； lunatone； mean-well； microsoft； neousys-technology； nexcom-group…
+- XC-M186 SmartSD B.V. · home（html）：内容变化：+29 −34 行
+  - `-Stid Secard training`
+  - `-18 November`
+  - `-@ SmartSD Merchtem (BE)`
+  - `-18 November`
+  - `-@ SmartSD Merchtem (BE)`
+  - `-Hikvision HCSA-CCTV Certification Training`
+- XC-M112 E.V.D.I. SAS · sitemap（sitemap）：新增 820 条：2026-10-03T22:49:43 amg-amg260m-1f-1s；2026-10-03T22:49:43 amg-amg260m-1f-1s；2026-10-03T22:49:43 amg-amg260m-1g-1s；2026-10-03T22:49:43 amg-amg260m-1g-1s；2026-10-03T22:49:43 amg-amg265m-1f-1s；2026-10-03T22:49:43 amg-amg265m-1f-1s；2026-10-03T22:49:43 amg-amg265m-1f-1s-t；2026-10-03T22:49:43 amg-amg265m-1f-1s-t…
+- 更新 12 条：evdi.fr（2026-11-18T10:26:52 → 2026-11-19T10:56:18）；en（2026-11-18T10:26:52 → 2026-11-19T10:56:18）；products（2026-11-18T10:26:52 → 2026-11-19T10:56:18）；products（2026-11-18T10:26:52 → 2026-11-19T10:56:18）；cgv（2026-11-18T10:26:52 → 2026-11-19T10:56:18）；cgv（2026-11-18T10:26:52 → 2026-11-19T10:56:18）；mentions-legales（2026-11-18T10:26:52 → 2026-11-19T10:56:18）；mentions-legales（2026-11-18T10:26:52 → 2026-11-19T10:56:18）
+- XC-M117 SPHINX CONNECT FRANCE · home（html）：内容变化：+28 −28 行
+  - `-Cybersécurité des équipements électriques`
+  - `+Cybersécurité des équipements électriques critiques`
+  - `-Moxa NPort 5650-8 – Serveur de port série 8 ports`
+  - `-1 184,00 €*`
+  - `-Moxa Nport 5600 - Convertisseur série vers Ethernet`
+  - `-Moxa PWR-300 - Alimentation pour les Switches Moxa MRX-G4000/Q4000`
+- XC-M187 MVA - Electrotécnia, Lda. · sitemap（sitemap）：新增 595 条：2017-01-02 pt；2017-01-02 en；2020-07-11 automacao；2020-07-11 comunicacoes；2020-08-09 energia-alta-tensao；2017-01-09 documentacao； interfaces；2017-01-02 home…
+- XC-M103 Last Mile Communication AS · sitemap（sitemap）：新增 34 条：2026-03-27T09:20:21 search；2026-03-27T08:03:07 video-i-maritime-miljoer；2026-03-27T10:06:52 zero-trust-rollebasert-tilgangskontroll；2026-03-27T10:08:13 monitorering-ids；2026-03-27T10:09:01 brannmursikkerhet；2026-03-27T10:10:12 isolasjonsovervaking-i-ot-nett；2026-03-27T10:10:34 sikring-av-endepunkt-edr；2026-03-27T08:01:59 ot-cybersikkerhet…
+- 更新 1 条：uhf-vhf（2026-04-03T10:35:06 → 2026-11-18T11:28:48）
+- XC-E060 Delta Computer Products GmbH · home（html）：内容变化：+101 −7 行
+  - `-D23z-M4-ZT-8xGPU Ab 39.314,25 €`
+  - `+D23z-M4-ZT-8xGPU Ab 39.385,99 €`
+  - `-D22x-M4-SP-8xGPU Ab 30.147,82 €`
+  - `+D22x-M4-SP-8xGPU Ab 30.202,85 €`
+  - `-D22x-M2-SP-4xGPU Ab 22.388,32 €`
+  - `+D22x-M2-SP-4xGPU Ab 22.429,19 €`
+- XC-M158 Santa Clara Systems, Inc. · home（html）：内容变化：+19 −19 行
+  - `-WL27-3P3402S13`
+  - `-Sick`
+  - `-FNQ-R-20`
+  - `-Bussmann`
+  - `-ZBV G1`
+  - `+800F-N3W`
+- XC-M168 Marshall Wolf Automation, Inc. · home（html）：内容变化：+23 −24 行
+  - `+Fuji Electric`
+  - `+FRN0006E3S-2G`
+  - `+VFD, 1hp/1.5hp, 200VAC, 3 Phase, Dynamic Torque Vector Control, High Performance`
+  - `+$339.32`
+  - `+Add to Cart`
+  - `+$339.32`
+- XC-M177 Distec Ltd · home（html）：内容变化：+0 −1 行
+  - `-Mobile Computers`
+- XC-E068 Vesper Technologies Ltd. · home（html）：内容变化：+1 −1 行
+  - `-Name`
+  - `+URL`
+- XC-M100 Adeptor AS · feed_auto（rss）：新增 20 条：19.11.2026 10:20:59 Chalmit Protecta IV LED 07 EM；03.11.2026 12:35:18 Fluke ii1050/TC03A/SB140 akustisk kamera；03.11.2026 11:19:54 Fluke ii1050/TC03A/SB140 akustisk kamera；03.11.2026 11:00:59 Fluke ii1050/TC03A/FPC3 akustisk kamera；03.11.2026 10:45:27 Fluke ii1050/TC03A/FPC1 akustisk kamera；03.11.2026 10:36:38 Fluke ii1050/TC03A akustisk kamera + IR；02.11.2026 16:08:01 Fluke ii1050/TC03A akustisk kamera + IR；02.11.2026 15:57:15 Fluke ii1050/FPC3 akustisk kamera…
+- XC-M101 Autic System AS · home（html）：内容变化：+2 −0 行
+  - `+Corvina Cloud`
+  - `+Corvina Cloud`
+- XC-M174 Control Technologies UK Ltd · home（html）：内容变化：+9 −9 行
+  - `-Regular price $706.00 (Excl VAT)`
+  - `+Regular price $704.00 (Excl VAT)`
+  - `-Regular price $143.00 (Excl VAT)`
+  - `+Regular price $142.00 (Excl VAT)`
+  - `-Regular price $92.00 (Excl VAT)`
+  - `+Regular price $91.00 (Excl VAT)`
+- XC-M189 Ekanet Soluciones, S.L. · home（html）：内容变化：+4 −6 行
+  - `-Latiguillos monomodo UPC/UPC`
+  - `+Latiguillos monomodo Dúplex UPC`
+  - `+Latiguillos monomodo Simplex UPC`
+  - `-Latiguillos Dúplex`
+  - `-Latiguillos Simplex`
+  - `-Latiguillos monomodo UPC/UPC`
+- XC-M140 CBT Company · sitemap（sitemap）：新增 893 条：2026-11-19 cbtcompany.com；2026-11-19 search；2026-11-19 contactus；2026-11-19 allproducts；2026-11-19 blog；2024-02-20 events-2；2019-03-04 product-feature；2019-03-12 success-story…
+- 消失 80 条（RSS 窗口滚动属正常）：www.cbtcompany.com；search；contactus；allproducts；blog
+- XC-M164 TMMI, LLC · home（html）：内容变化：+2 −0 行
+  - `+SCADA System Health Check`
+  - `+SCADA System Health Check`
+- XC-M164 TMMI, LLC · news_1（html）：内容变化：+2 −0 行
+  - `+SCADA System Health Check`
+  - `+SCADA System Health Check`
+- XC-C1449 EFCO Electronics GmbH · home（html）：内容变化：+3 −0 行
+  - `+Teltonika Weihnachtsspecial`
+  - `+Entdecken Sie ausgewählte Teltonika-Produkte mit bis zu 30 % Preisnachlass. Nur solange der Vorrat reicht. Aktion gültig bis einschließlich 10.12.2026.`
+  - `+Jetzt Angebote entdecken`
+- XC-C1449 EFCO Electronics GmbH · home_2（html）：内容变化：+3 −0 行
+  - `+Teltonika Weihnachtsspecial`
+  - `+Entdecken Sie ausgewählte Teltonika-Produkte mit bis zu 30 % Preisnachlass. Nur solange der Vorrat reicht. Aktion gültig bis einschließlich 10.12.2026.`
+  - `+Jetzt Angebote entdecken`
+- XC-C1431 HOTEL CARE · home（html）：内容变化：+160 −160 行
+  - `-avions`
+  - `-besoin`
+  - `-d’un`
+  - `-système`
+  - `-de`
+  - `+cherchions`
+- XC-M152 Power Motion Sales Inc. · home（html）：内容变化：+6 −6 行
+  - `-Servo Motors`
+  - `+I/O Systems`
+  - `-Robot Arms`
+  - `+IIoT`
+  - `-Fixed-Mount Barcode Readers`
+  - `+Pick-to-Light Systems`
+- 本轮抓取失败 10：XC-M092/home：HTTP 403；PB-003/home_2：ConnectionError: HTTPSConnectionPool(host='planet.fen.pl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='planet.fen.pl', port=443): Failed to resolve 'planet.fen.pl'；PB-009/home：HTTP 403；XC-M115/home：SSLError: HTTPSConnectionPool(host='phoebe.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certifica；XC-M115/home_2：HTTP 404；XC-E063/home：ConnectionError: HTTPSConnectionPool(host='xentech.nl', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='xentech.nl', port=443): Failed to resolve 'xentech.nl' ([Errno ；XC-M097/home：HTTP 403；XC-E059/home_2：ConnectionError: HTTPSConnectionPool(host='infra.alyseo.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='infra.alyseo.com', port=443): Failed to resolve 'infra.al；XC-M149/home：HTTP 403；XC-M133/home：HTTP 403

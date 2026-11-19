@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,13 +40,13 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2747)
-Wszystkie 2747
+Urządzenia (2749)
+Wszystkie 2749
 Switche 1019
 Access Pointy 187
 Routery WiFi 391
 Routery zaawansowane 109
-Routery LTE/5G 219
+Routery LTE/5G 221
 Adaptery PowerLine 21
 Urządzenia klienckie CPE 78
 Radiolinie 80
@@ -61,13 +61,13 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5088)
-Wszystkie 5088
+Światłowody (5108)
+Wszystkie 5108
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1028
 Patchcordy światłowodowe 1331
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 361
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 381
 Adaptery światłowodowe 128
 Budowa sieci optotelekomunikacyjnej 367
 Spawarki światłowodowe i akcesoria 50
@@ -87,8 +87,8 @@ GPON/GEPON 173
 CWDM Mux/Demux 9
 Szybkozłączki, spawy mechaniczne, złącza światłowodowe 62
 Stojaki kablowe 16
-Monitoring (2606)
-Wszystkie 2606
+Monitoring (2611)
+Wszystkie 2611
 Systemy IP 999
 Systemy HD-TVI 115
 Systemy hybrydowe 242
@@ -97,7 +97,7 @@ Switche POE 146
 Zasilanie CCTV 314
 Dyski twarde do CCTV 20
 Zabezpieczenia CCTV 237
-Obudowy i puszki CCTV 110
+Obudowy i puszki CCTV 115
 Szafy RACK 135
 Transformatory video 9
 Uchwyty i adaptery dla kamer 58
@@ -245,14 +245,14 @@ Wszystkie 66
 Komputer i biuro (15)
 Wszystkie 15
 Produkty ergonomiczne 15
-Komputery, serwery i storage (248)
-Wszystkie 248
+Komputery, serwery i storage (256)
+Wszystkie 256
 Komputery 1
 Karty pamięci 5
 Akcesoria 11
 Licencje 12
 Pamięci RAM 6
-Dyski twarde 66
+Dyski twarde 74
 Dyski sieciowe NAS 147
 Inteligentny dom (494)
 Wszystkie 494
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Adapter do kamer HikVision DS-1280ZJ-DM46 czarny
-51.56 zł netto
+Kamera IP Hikvision DS-2CD2T63G2-LIS2U/SL(2.8mm) 6 MP
+770.85 zł netto
 Do koszyka
-Ubiquiti UniFi Relay USL-Relay – przekaźnik SuperLink
-149.36 zł netto
+FS SFP-10GSR-85 wkładka SFP+ 10GBASE-SR 850 nm do 300 m (kompatybilny z Juniper Networks EX-SFP-10GE-SR)
+136.58 zł netto
 Do koszyka
-Teltonika Networks RUT145 router przemysłowy Ethernet z RS485 i Wi-Fi (RUT145000000)
-293.06 zł netto
+FS SFP-10GSR-85 – moduł światłowodowy 10G SFP+ 850 nm (kompatybilny z Arista Networks SFP-10G-SR)
+136.58 zł netto
 Do koszyka
-Teltonika Networks RUT261 router 4G LTE Cat 6 (RUT261AAAAA0)
-849.12 zł netto
+FS SFP-10GSR-85 moduł SFP+ 10GBASE-SR 850 nm, 300 m (kompatybilny z Dell Networking 407-BBOU)
+136.58 zł netto
 Do koszyka
-MEAN WELL PCD-60-1050B – zasilacz stałoprądowy LED 1050 mA, 59,85 W
-81.92 zł netto
+FS SFP-10GSR-85 – moduł światłowodowy 10GBASE-SR SFP+ (kompatybilny z NVIDIA/Mellanox Ethernet MFM1T02A-SR)
+136.58 zł netto
 Do koszyka
-MEAN WELL PCD-40-1050B – zasilacz LED stałoprądowy 1050 mA
-61.42 zł netto
+FS SFP-10GSR-85 – moduł światłowodowy SFP+ 10GBASE-SR (kompatybilny z Extreme Networks 10301)
+136.58 zł netto
 Do koszyka
-MEAN WELL PCD-40-700B – zasilacz stałoprądowy LED 700 mA 39,9 W
-74.3 zł netto
+FS SFP-10GSR-85 – moduł SFP+ 10GBASE-SR, 850 nm, (kompatybilny z HPE Aruba J9150D)
+177.55 zł netto
 Do koszyka
-Adapter światłowodowy LC/APC duplex SM
-2.78 zł netto
+FS SFP-10GSR-85 – moduł światłowodowy SFP+ 10GBASE-SR 850 nm (kompatybilny z HPE ProCurve J9150A)
+177.55 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

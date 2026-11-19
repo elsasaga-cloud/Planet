@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · news_2 · https://lan.hu/hirek_1/viharok-es-aramszunetek-ups-blog · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-1052 lan.hu · news_2 · https://lan.hu/hirek_1/viharok-es-aramszunetek-ups-blog · fetched 2026-11-19T10:30:38Z · HTTP 200
 UPS áramszünet ellen – Védd eszközeidet a viharok idején
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -89,7 +89,7 @@ Cikkszám: PW-VI2200RLE
 Ár:
 107.000 Ft + ÁFA
 (135.890 Ft)
-2 db raktáron
+3 db raktáron
 db
 Kosárba
 Részletek
@@ -159,7 +159,7 @@ Cikkszám: PW-VI750R1U
 Ár:
 75.480 Ft + ÁFA
 (95.860 Ft)
-3 db raktáron
+Előrendelhető
 db
 Kosárba
 Részletek

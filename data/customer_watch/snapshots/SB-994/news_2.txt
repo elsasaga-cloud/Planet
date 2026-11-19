@@ -1,4 +1,4 @@
-# SB-994 accuratetechnologies.com · news_2 · https://www.accuratetechnologies.com/blog · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-994 accuratetechnologies.com · news_2 · https://www.accuratetechnologies.com/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
 Blog Skip to search Skip to main content
 Electric Vehicle Development
 Our Products ECU Calibration
@@ -61,6 +61,11 @@ System Integration
 Test Cell Instruments
 Cables & Accessories
 Blog
+Why MDF4 Works for Large and Complex Measurement Data
+November 18, 2026  - By Rachael - Comment(s)
+Now, we'll look at how MDF4 handles the growing volume and complexity of measurement data, including its storage structure, compression capabilities, and the considerations involved in working with large recordings. Read more
+Tags : ASAM, MDF4, Large Measurement Datasets, MDF4 Compression, MDF4 Data Analysis, Measurement Data Format
+Categories : Application Knowledge Base
 From Raw Measurement to Engineering Signal: How MDF4 Turns Recorded Data into Useful Information
 October 19, 2026  - By Rachael - Comment(s)
 MDF4 provides the information needed to transform recorded data into meaningful engineering signals and place those signals in the correct relationship to time. Let's follow that journey. Read more
@@ -156,17 +161,12 @@ August 13, 2025  - By Rachael - Comment(s)
 In this post, we take a closer look at the physical layer of a CAN network, which plays a vital role in ensuring reliable communication. Read more
 Tags : CAN, CANbus
 Categories : Application Knowledge Base
-Part 3: Understanding CAN Frames and Message Structure
-July 18, 2025  - By Rachael - Comment(s)
-In this blog, we will examine the structure of CAN frames, the differences between frame types, and how tools like Accurate Technologies' CANLab software can be used to decode, visualize, and analyze CAN traffic effectively. Read more
-Tags : CAN, CANLab
-Categories : Application Knowledge Base
 Next
 Subscribe to RSS Feed
 Categories
 Uncategorized (5)
 Company News (11)
-Application Knowledge Base (52)
+Application Knowledge Base (53)
 Case Studies (0)
 ATI Events (1)
 Product Updates (1)

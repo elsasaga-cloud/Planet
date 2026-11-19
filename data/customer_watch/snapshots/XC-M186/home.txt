@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-18T10:22:47Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-19T10:30:38Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -1218,16 +1218,6 @@ Within the VUPoint range, RISCO is expanding its portfolio with a wide selection
 Inferno sirens & strobes
 Alarmtech introduces a new generation of sirens and strobes.
 SmartSD trainings
-Stid Secard training
-18 November
-@ SmartSD Merchtem (BE)
-18 November
-@ SmartSD Merchtem (BE)
-Hikvision HCSA-CCTV Certification Training
-18 November
-@ SmartSD Breda (NL)
-2 December
-@ SmartSD Merchtem (BE)
 Acre ACTpro Access Control
 19 November
 @ SmartSD Breda (NL)
@@ -1240,13 +1230,6 @@ Risco LightSYS+ Technical/Commercial Introduction & Expert Session
 @ SmartSD Merchtem (BE)
 16 December
 @ SmartSD Breda (NL)
-Dahua Frontier Innovation Event 2026
-19 November
-@ Online
-19 November
-@ Online
-19 November
-@ Online
 Basic Networking Knowledge
 20 November
 @ SmartSD Breda (NL)
@@ -1263,17 +1246,6 @@ Dahua Basic Training & Hands-on
 @ SmartSD Breda (NL)
 10 December
 @ SmartSD Saint-herblain (FR)
-Akuvox Intercom Basics
-23 November
-@ SmartSD Merchtem (BE)
-24 November
-@ SmartSD Lisses (FR)
-3 December
-@ SmartSD Portet-sur-garonne (FR)
-13 January
-@ SmartSD Breda (NL)
-1 February
-@ SmartSD Merchtem (BE)
 Bandit Fog Generators
 24 November
 @ SmartSD Merchtem (BE)
@@ -1288,6 +1260,15 @@ Bandit Fog Generators
 @ SmartSD Merchtem (BE)
 12 January
 @ SmartSD Breda (NL)
+Akuvox Intercom Basics
+24 November
+@ SmartSD Lisses (FR)
+3 December
+@ SmartSD Portet-sur-garonne (FR)
+13 January
+@ SmartSD Breda (NL)
+1 February
+@ SmartSD Merchtem (BE)
 acre Access Control Basics
 25 November
 @ SmartSD Merchtem (BE)
@@ -1313,6 +1294,11 @@ Acre SPCevo
 16 December
 @ SmartSD Saint-herblain (FR)
 20 January
+@ SmartSD Breda (NL)
+Hikvision HCSA-CCTV Certification Training
+2 December
+@ SmartSD Merchtem (BE)
+15 December
 @ SmartSD Breda (NL)
 Network Optix Nx Witness VMS
 4 December
@@ -1360,4 +1346,13 @@ Spain - T +34961594646
 E info@smartsd.com
 France - T +33160914249
 E info@smartsd.fr
-Contact and
+Contact and Our stores
+Overview of our branches and contact form
+About SmartSD
+Terms of sale
+Netherlands - SmartSD BV (NL)
+BeLux - SmartSD NV/SA (NL)
+BeLux - SmartSD NV/SA (FR)
+France - SmartSD SARL (FR)
+Spain - SmartSD SL (ES)
+© 2026 Smart

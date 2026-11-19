@@ -1,4 +1,4 @@
-# SB-590 carritech.com · home · https://carritech.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-590 carritech.com · home · https://carritech.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Carritech | Your Complete Telecoms Network Support Provider
 Skip to content
 Keep your network running.
@@ -15,7 +15,7 @@ We keep telecom equipment working, and recover its value when it's retired.
 Every service can be used independently and in any combination — from supporting equipment while your network needs it, to recovering its value when it no longer does.
 While your network needs it
 Keep your network running
-L3 Technical Support
+L3 Remote Technical Support
 Learn more →
 Equipment Supply
 Learn more →
@@ -76,21 +76,22 @@ How can we support your network?
 Tell us about your platforms and we’ll point you in the right direction.
 Talk to Carritech →
 Free Network Assessment
-Independent support for legacy, end-of-life and multi-vendor telecom networks.
+Keep your network running. Turn surplus equipment into value.
 Carritech Limited
 124 City Road, London, EC1V 2NX, United Kingdom
 UK +44 203 006 1170
 Spain +34 915 511 534
 [email protected]
-Support and lifecycle
-Lifecycle Extension Programme
+Services
 L3 Remote Technical Support
-Legacy Network Assessment
-Spare Part Supply
-Repair and Refurbishment
+Equipment Supply
+Hardware Repair
+Lifecycle Extension Programme
+Free Network Assessment
 Asset Management
+Equipment Purchase
 Deinstallation
-Telecom Recycling
+Responsible Recycling
 Products
 Search All Telecom Parts
 Supported Products

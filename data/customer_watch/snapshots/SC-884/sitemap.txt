@@ -1,4 +1,4 @@
-# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-884 novicam.ru · sitemap · https://www.novicam.ru/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 	https://www.novicam.ru/doorphones/doorphones_accessories/2-pin-wire-v-4042
 	https://www.novicam.ru/doorphones/doorphones_accessories/4-pin-wire-v-4043
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/impulse-7-ip-wifi-black-v-4552
@@ -74,7 +74,6 @@
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-22m-v-1105v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-22m-black-v-6040s
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-23m-v-1106v
-	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-27-v-1103v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-28-v-1104v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-52m-v-1107v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip/lux-52mx-v-1045v
@@ -103,7 +102,6 @@
 	https://www.novicam.ru/doorphones/doorphones_accessories/ndbox-v-4152
 	https://www.novicam.ru/ndm7q
 	https://www.novicam.ru/access-control/terminal-raspoznavaniya-lic-4788
-	https://www.novicam.ru/sistemy-videonablyudeniya/ip/novicam-nc4007-ver-4007
 	https://www.novicam.ru/novihome-koti-v-8001l
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip-recorders/nr1604x-v-3011v
 	https://www.novicam.ru/sistemy-videonablyudeniya/ip-recorders/nr1604x-p4-v-3012v
@@ -152,4 +150,7 @@
 	https://www.novicam.ru/doorphones/doorphones_accessories/relay-ip-mod-v-4443
 	https://www.novicam.ru/doorphones/doorphones_accessories/smile-4-7-bracket-v-4149
 	https://www.novicam.ru/doorphones/videodomofony-i-komplekty/strict-mr-ip-black-v-4052
-	https://www.novicam.ru/sistemy-kontrolya-dostupa/contr
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/controllers/se120w-v-4025
+	https://www.novicam.ru/tmp4114
+	https://www.novicam.ru/sistemy-kontrolya-dostupa/locks/novicam-uh280-ver-4164
+	https://www.

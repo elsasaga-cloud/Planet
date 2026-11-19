@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-19T10:30:38Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -47,11 +47,14 @@ Uranium
 2010 · PSU, kasa
 Sensei
 2010 · Çevre birimi
-131 markanın tamamı A'dan Z'ye.
+132 markanın tamamı A'dan Z'ye.
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 64 içerik).
+Sektörden güncel haberler ve analizler ( 65 içerik).
+İnceleme ASUS GoogleBook 14 incelendi: Gerçek mi vaat mi?
+ASUS GoogleBook 14, Level1Techs incelemesinde mercek altında. Donanım ve yazılım deneyimi nasıl?
+19 Kasım 2026
 İnceleme Dell Pro Precision 5 16, Intel ile İş Başında
 Dell Pro Precision 5 16'nın Intel versiyonu incelendi: performans, AI özellikleri ve Linux uyumluluğu masaya yatırıldı.
 18 Kasım 2026
@@ -139,9 +142,6 @@ Lawrence Systems'in Hermes Agent testi, AI aboneliği iptal edilince sistem yön
 İnceleme Dell Pro Precision 9 T2: Xeon 6 ve DDR5-6400 testte
 Dell Pro Precision 9 T2, Intel Xeon 6 ve DDR5-6400 desteğiyle test edildi; çok çekirdekli performansta büyük fark öne çıktı.
 23 Ekim 2026
-Marka Duyurusu IBM Bob artık air-gapped ortamlarda çalışıyor
-IBM, agentic yazılım geliştirme platformu Bob için self-hosted ve air-gapped dağıtım seçeneğini duyurdu.
-20 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal

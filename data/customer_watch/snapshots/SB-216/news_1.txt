@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · news_1 · https://www.ltsecurityinc.com.au/news/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · news_1 · https://www.ltsecurityinc.com.au/news/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 News
 Trade Register
 Products
@@ -103,14 +103,13 @@ News
 Contact Us
 Support
 Webinars
-Kits & Bundles
-Ajax Alarm
-Ajax CCTV
-Akuvox Intercom
-LTS Intercom
-LTS Platinum CCTV
-LTS PRO-X CCTV
+Power, Storage & Batteries
 Solar
+Batteries
+Hard Drives
+Power Supplies
+SD Cards
+UPS
 Alarms & Home Automation
 Ajax Wireless
 Accessories
@@ -198,6 +197,14 @@ IP
 Video Doorbell
 Access Control
 Universal / Lift Controllers
+Kits & Bundles
+Ajax Alarm
+Ajax CCTV
+Akuvox Intercom
+LTS Intercom
+LTS Platinum CCTV
+LTS PRO-X CCTV
+Solar
 Monitors & Displays
 Advertising Screens
 LCD Brackets
@@ -214,13 +221,6 @@ LTS Industrial
 Networking Accessories
 Switches / POE
 Wi-Fi
-Power, Storage & Batteries
-Batteries
-Hard Drives
-Power Supplies
-SD Cards
-Solar
-UPS
 Categories
 Alarms & Home Automation
 Ajax Wireless

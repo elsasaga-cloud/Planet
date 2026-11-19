@@ -1,4 +1,4 @@
-# SB-094 maxcomcorp.com · news_1 · https://www.maxcomcorp.com/events-and-news/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-094 maxcomcorp.com · news_1 · https://www.maxcomcorp.com/events-and-news/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Events and News - Maxcom, Inc. - Manufacturer of fiber optic transport equipment and digital TV equipment
 HOME
 PRODUCTS
@@ -26,20 +26,20 @@ Events and News
 CONTACT
 Search
 Filter by Product Categories
-Archived Past Products
-ASI-SDI-MPEG-HDTV
-Audio / Video
-CATV / RF Over Fiber
-Data / Ethernet
-Drop Amplifiers - RF
-EDFA – Optical Amplifiers
-Featured on Home Page
 FTTx / PON / RFoG
-L Band Satellite over Fiber
-Passive Devices
 RF Overlay
-Test Equipment
+EDFA – Optical Amplifiers
+Passive Devices
 Transmitters - CATV
+CATV / RF Over Fiber
+Test Equipment
+ASI-SDI-MPEG-HDTV
+L Band Satellite over Fiber
+Audio / Video
+Drop Amplifiers - RF
+Data / Ethernet
+Archived Past Products
+Featured on Home Page
 Contact Maxcom
 6105 Main Avenue, Suite 14, Orangevale, CA 95662
 1-209-339-2333
@@ -51,20 +51,20 @@ Events and News
 It seems we can’t find what you’re looking for. Perhaps searching can help.
 Search
 Filter by Product Categories
-Archived Past Products
-ASI-SDI-MPEG-HDTV
-Audio / Video
-CATV / RF Over Fiber
-Data / Ethernet
-Drop Amplifiers - RF
-EDFA – Optical Amplifiers
-Featured on Home Page
 FTTx / PON / RFoG
-L Band Satellite over Fiber
-Passive Devices
 RF Overlay
-Test Equipment
+EDFA – Optical Amplifiers
+Passive Devices
 Transmitters - CATV
+CATV / RF Over Fiber
+Test Equipment
+ASI-SDI-MPEG-HDTV
+L Band Satellite over Fiber
+Audio / Video
+Drop Amplifiers - RF
+Data / Ethernet
+Archived Past Products
+Featured on Home Page
 About Maxcom
 Since its foundation in January 2000, Maxcom has been a leader in the telecommunications fiber optic industry. We design and manufacture fiber optic, long and short distance transport solutions for the following signals:
 Audio and Video (Composite Baseband, Component, HDMI, SDI, ASI)
@@ -83,20 +83,20 @@ maxcomcorp@yahoo.com
 support@maxcomcorp.com
 Search
 Filter by Product Categories
-Archived Past Products
-ASI-SDI-MPEG-HDTV
-Audio / Video
-CATV / RF Over Fiber
-Data / Ethernet
-Drop Amplifiers - RF
-EDFA – Optical Amplifiers
-Featured on Home Page
 FTTx / PON / RFoG
-L Band Satellite over Fiber
-Passive Devices
 RF Overlay
-Test Equipment
+EDFA – Optical Amplifiers
+Passive Devices
 Transmitters - CATV
+CATV / RF Over Fiber
+Test Equipment
+ASI-SDI-MPEG-HDTV
+L Band Satellite over Fiber
+Audio / Video
+Drop Amplifiers - RF
+Data / Ethernet
+Archived Past Products
+Featured on Home Page
 Copyright © 2026 Maxcom, Inc.
 Opt-out preferences
 Privacy Statement

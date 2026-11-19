@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-977 eltrox.cz · home · https://www.eltrox.cz/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Eltrox.cz | Zabezpečovací systémy a chytrá domácnost
 Cookie consent
 Používáme cookies, abychom Vám umožnili pohodlné prohlížení webu a díky analýze provozu webu neustále zlepšovali jeho funkce, výkon a použitelnost. Více informací
@@ -117,7 +117,7 @@ Telefony ,
 Digitální a elektronická kukátka na dveře ,
 Elektromagnetické zámky, závory a příslušenství ,
 Domácí interkomové systémy ,
-Videozvončeky
+Videozvonky
 Automatické brány FAV
 Garážová vrata ,
 Posuvné brány ,
@@ -360,11 +360,9 @@ Svorkovnice.
 Instalační trubky a chráničky.
 Příslušenství ke kamerám.
 Napájecí zdroje.
-Zásuvky.
 Bleskosvody a uzemnění –
 Technické rozvaděče a speciální racky.
 DC/DC měniče napětí –
-Inteligentní vytápění.
 Elektromagnetické zámky.
 Svodiče přepětí, chrániče.
 Příslušenství ke dronům.
@@ -373,8 +371,6 @@ Analogové záznamníky.
 Rozdělovače napájení.
 Herní příslušenství –
 Instalační krabice.
-Audio systémy.
-Mikrofony.
 Příslušenství pro mobily a tablety.
 Příslušenství pro domácí interkomy.
 Příslušenství pro instalaci. ,
@@ -382,7 +378,6 @@ Napájecí zdroje.
 Příslušenství pro videotelefony.
 Venkovní panely pro interkomy.
 Jednotlivé telefony pro domácí interkomy.
-Počítače.
 PCI karty.
 Síťové karty USB a PCI.
 Ostatní příslušenství.
@@ -402,9 +397,7 @@ Síťové mosty –
 Příslušenství pro síťová zařízení –
 Mechanické zámky a dveřní kování –
 Fotografické osvětlení a stativy –
-Stahovací pásky.
 Chladiče SSD a teplovodivé pasty –
-Pojistky a držáky pojistek.
 Sport.
 Čisticí přípravky na elektroniku –
 Prezentéry –
@@ -413,23 +406,16 @@ Příslušenství, prodlužovací kabely, lišty.
 Objektivy pro kamery –
 Chladiče procesorů –
 Příslušenství pro závory –
-Tlačítka pro odchod z domu.
-Klávesnice.
 Hodiny a meteorologické stanice –
-Tlačítka.
-Senzory PIR.
-Videozvončeky.
 Bezdrátové domovní zvonky.
 Bezdotykové transpondéry.
 Bezpečnostní pomůcky pro děti –
 Napájecí zdroje a transformátory.
 Ostatní příslušenství křídlové brány.
 Značkovače a popisovače –
-Relé a časová relé.
 Kabely reproduktorů.
 Elektrické kabely, příslušenství.
 Wattmetry, měřiče spotřeby energie.
-Multimediální přehrávače.
 Venkovní panely pro videotelefony.
 Náplně a barvy do tiskáren.
 Herní konzole.
@@ -449,20 +435,14 @@ Video dekodéry –
 Detektory kovů –
 Příslušenství pro sportovní kamery –
 Digitální mikroskopy –
-Teplotní čidla.
 Příslušenství pro montáž.
 Vzduchové ústředny, digitální, klávesnice.
 Příslušenství pro zásuvky a vypínače.
 Fotovoltaické konektory –
-Svítidla.
-Elektrické rozvaděče.
 Montážní kotvy a upevňovací prvky –
 Interkomy a elektrické stávky.
 Příslušenství pro instalaci.
-Elektronické otevírání dveří.
-Projekční plátna.
 Přepěťové ochrany.
-PoE Switche.
 Koaxiální kabely a konektory.
 Propojovací lišty.
 Osobní alarmy –
@@ -476,7 +456,6 @@ Kuchyňské spotřebiče a vybavení.
 Modulární odpojovače a odpínače.
 Systémy pro záznam času a řízení přístupu.
 UPS 3-fázové.
-Magnetické, jazýčkové senzory.
 Kempování a outdoor –
 Počítačové servery –
 Prodlužovací šňůry a přepěťové ochrany.
@@ -485,26 +464,41 @@ Fotoaparáty –
 Optické mechaniky –
 Svářečky a svařovací příslušenství –
 IP kamery.
-Reproduktory.
 Nabíječky USB.
-Vláknová optika.
-Patchcordy.
-Příslušenství pro domovní zvonky –
-Senzory pro markýzy a venkovní stínění –
-Kontejnery pro systémy řízení přístupu.
 Laminátory a fólie –
 Měřicí přístroje do dílny –
-Kabelové lišty a kanály.
 Softwarové licence –
 Měniče napětí.
 Diktafony –
 Fotovoltaické rozvaděče a ochrany –
 Montážní chemie –
-Napájecí zdroje na DIN lištu.
 Podložky a stojany k notebookům.
-Počítače, notebooky a příslušenství.
-Tísňová tlačítka.
-Kryty.
 Papír do tiskáren –
-Patch panely.
-Konektory, z
+Konektory, zástrčky, zásuvky.
+HDD.
+Další příslušenství garážových vrat.
+Biometrické čtečky a programátory –
+Řídicí jednotky pro brány –
+Mobilní monitorovací věže a přívěsy –
+NAS servery –
+Internetová rádia.
+Rádiové vysílače a přijímače, soupravy.
+Reflektometry.
+Hasicí prostředky –
+WiFi kamery.
+PoE extendery –
+Úklidové pomůcky –
+Sestavy garážových vrat.
+Tepelná čerpadla –
+Obvodová ochrana a plotové detektory –
+Servery pro kamerové systémy –
+Solární regulátory nabíjení –
+Servis a technická podpora –
+Přepínače, rozvaděče, rozvodná zařízení.
+Ultrazvukové čističky –
+KVM přepínače –
+Vrátnické stanice –
+Vysílačky –
+Zvukové karty –
+Robotické sekačky –
+Automatizácia budov Termostat

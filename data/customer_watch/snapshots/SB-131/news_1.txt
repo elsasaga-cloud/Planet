@@ -1,4 +1,4 @@
-# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Blog | Desecure Technology
 İçeriğe geç 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
 444 76 49
@@ -68,6 +68,50 @@ Kaynaklar
 Blog
 Güvenlik teknolojileri, alarm izleme, video analiz ve enerji tesisi güvenliği üzerine saha diliyle yazılmış teknik yazılar.
 Yazılar
+Mevzuat ve rehber · 18 Kasım 2026
+7/24 tek nokta için kaç güvenlik görevlisi gerekir; 12 saat çalışma sınırı nedir?
+Kesintisiz korunan tek bir nöbet noktası haftada 168 saat demektir. 4857 sayılı İş Kanununun 63. maddesindeki haftalık 45 saatle bölündüğünde sonuç 3,73 çıkar; izin, rapor ve eğitim günleri hiç sayılmadan dört görevli eder. Dört, hesabın alt sınırıdır; mevzuatta yazılı bir asgari sayı değildir. Yıllık izin ve devamsızlık eklendiğinde sonuç dördün üstüne çıkabilir.
+-> Yazıyı oku
+Mevzuat ve rehber · 18 Kasım 2026
+Enerji santralinde özel güvenlik zorunlu mu: mevzuat ne diyor, izin nasıl alınır?
+5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunun metninde "enerji" ve "santral" kelimeleri geçmiyor. Kanun özel güvenliği bir izin olarak düzenliyor: özel güvenlik birimi kurmak ya da hizmeti bir şirkete gördürmek, metnin ifadesiyle "özel güvenlik komisyonunun kararı üzerine valinin iznine bağlıdır" (m.3). Enerji santralini adıyla sayan metin 1988 tarihli Sabotajlara Karşı Koruma Yönetmeliğidir. O metin bir koruma planından söz eder ve kapsama girecek kuruluşların tespitini bir komisyona bırakır.
+-> Yazıyı oku
+Mevzuat ve rehber · 18 Kasım 2026
+Güvenlik firmasından teklifle birlikte hangi belgeler istenir; izin nasıl doğrulanır?
+Güvenlik firmasından teklifle birlikte üç belgenin sureti istenebilir: İçişleri Bakanlığının verdiği faaliyet izin belgesi, izleme hizmeti varsa valiliğin verdiği alarm izleme merkezi yeterlilik belgesi ve özel güvenlik mali sorumluluk sigortası poliçesi. İlk ikisinin dayanağı 5188 sayılı Kanunun 5. maddesi, üçüncüsünün dayanağı 21. maddesidir. Faaliyet izni alan şirketlerin listesini Emniyet Genel Müdürlüğü kendi sitesinde yayımlıyor; şirket adı oradan kontrol edilebilir.
+-> Yazıyı oku
+Mevzuat ve rehber · 18 Kasım 2026
+Sözleşme yenileme döneminde güvenlik hizmeti nasıl değerlendirilir?
+Güvenlik hizmeti, yenileme döneminde biten dönemin kayıtları üzerinden değerlendirilir. Bakılacak beş başlık var: olay kayıtları, nöbet sürekliliği, mülki idare denetimi (5188 sayılı Kanun m.6), sağlayıcının izin ve sigorta belgeleri (m.5, m.21), kamera kayıtlarına erişim. Bu liste bizim yöntem önerimizdir; alıntıladığımız maddeler değerlendirmenin nasıl yapılacağını anlatmaz.
+-> Yazıyı oku
+Teknik sözlük · 18 Kasım 2026
+Güvenlik standartları sözlüğü: EN 50518, BS 8418, CLC/TS 50131-9 ve AVS-01 nedir, kim yayımlar, Türkiye'de geçerli mi?
+EN 50518 ve CLC/TS 50131-9 Avrupa belgeleridir: ilki alarm alma merkezlerinin asgari şartlarını belirleyen bir standart, ikincisi alarm doğrulama için öneriler sunan bir teknik şartnamedir. BS 8418'i Birleşik Krallık'ta BSI dedektörle tetiklenen kamera sistemleri için, AVS-01'i ABD'de The Monitoring Association alarm seviyeleri için yayımlar. Türkiye'de alarm izleme merkezini düzenleyen Uygulama Yönetmeliğinin 23. maddesi bu belgelerin hiçbirinin adını saymaz; başvuruda teknik teçhizat için bir taahhütname ister.
+-> Yazıyı oku
+Mevzuat ve rehber · 18 Kasım 2026
+Uluslararası finansmanlı projede güvenlik için ne istenir: IFC ve EBRD ne der?
+IFC Performans Standardı 4 (2012) ve EBRD'nin Çevresel ve Sosyal Gereklilik 4'ü (2024), güvenlik yükümlülüğünü güvenlik firmasına yazmaz. Muhatap, metinlerdeki adıyla "client"tır: IFC'nin tanımıyla, finanse edilen projeyi uygulayan ve işleten ya da finansmanı alan taraf. Bu yazı o tarafa kısaca yatırımcı diyor. Yatırımcı, güvenlik düzeninin saha içindekiler ve dışındakiler için doğurduğu riski değerlendirir, görevlilerin geçmişini araştırır, eğitimlerini sağlar, şikayet mekanizması kurar ve iddiaları inceler.
+-> Yazıyı oku
+Mevzuat ve rehber · 18 Kasım 2026
+İş yerinde güvenlik kamerası: KVKK ne ister, kayıt ne kadar saklanır?
+Kişisel Verileri Koruma Kurumunun 8 Haziran 2026 tarihli kamuoyu duyurusu, iş yerinde güvenlik kamerası için amacın baştan belirlenmesini, çalışanların bilgilendirilmesini ve kayıtlara yalnız yetkili kişilerin erişmesini ister. Saklama süresi için gün sayısı vermez; metindeki ifade "mümkün olan en kısa süre yeterli görülmeli, sistemde otomatik imha mekanizması bulunmalıdır" cümlesidir. Kameranın devam ve performans izleme için kullanılmasından kaçınılması gerektiğini de yazar. Duyurunun saydığı koşullar bunlarla sınırlı değildir; hepsi aşağıda, metnin kendi cümleleriyle duruyor.
+-> Yazıyı oku
+Enerji · 18 Kasım 2026
+Rüzgar santralinde ne korunur: giriş yolu, şalt sahası, türbin girişi?
+Uluslararası Finans Kurumunun (IFC) rüzgar enerjisi kılavuzu, halkın erişimi başlığında üç yeri adıyla sayar: erişim yolu, şalt sahası ve kule merdiveni. Yola kapı, şalt sahasının çevresine tırmanmayı önleyici boyalı ve uyarı levhalı çit yazar; kule merdivenine erişimin engellenmesini ister. Sahanın tamamının ya da tek tek türbinlerin çitlenmesi koşula bağlı bir seçenektir (7 Ağustos 2015 tarihli kılavuz, par. 74-75) [1].
+-> Yazıyı oku
+Mevzuat ve rehber · 18 Kasım 2026
+Enerji ve sanayi sahasında güvenlik mevzuatı: incelediğimiz metinlerde hangi kural nerede?
+Enerji ve sanayi sahasının güvenliğini tek başına düzenleyen bir metin bulamadık; kurallar birden çok metne dağılmış. Özel güvenlik izni 5188 sayılı Kanunda, alarm izleme merkezi Uygulama Yönetmeliğinde, iş sağlığı ve güvenliği 6331 sayılı Kanunda, kamera kaydı 6698 sayılı Kanunda ve Kurum duyurusunda, YEKA sahası yarışma şartnamesinde yazılı. Bu dizin incelediğimiz metinleri, maddeleri ve bakmadıklarımızı listeler.
+-> Yazıyı oku
+Enerji · 18 Kasım 2026
+YEKA sahasında güvenlik ne zaman planlanır? Tahsisten işletmeye takvim
+YEKA şartnamesi güvenlik için ayrı bir tarih vermez; verdiği tarih iş programının tarihidir. YEKA GES-2026 ve YEKA RES-2026 şartnamelerinin 4.1 maddesine göre sözleşmeyi imzalayan şirket (şartnamedeki adıyla "Yarışmayı Kazanan"), imzadan sonraki 30 gün içinde iş programını Enerji İşleri Genel Müdürlüğüne sunar [1][2]. 2025 ihalelerinde ihale günü ile sözleşme imzası arasında 42 ve 38 gün geçti.
+-> Yazıyı oku
+Mevzuat ve rehber · 18 Kasım 2026
+YEKA şartnamesi saha güvenliğini kime yüklüyor; 7.5 maddesi ne diyor, ne demiyor?
+YEKA GES-2026 ve YEKA RES-2026 şartnamelerinin 7.5 maddesi, can, mal ve çevre emniyetine yönelik her türlü güvenliğin sağlanmasını sözleşmeyi imzalayan şirketin sorumluluğuna bırakır. Şartname bu güvenliğin nasıl sağlanacağını tarif etmez: 12 Kasım 2026 itibarıyla incelediğimiz üç şartnamede (GES-2026, RES-2026, RES-2025) kamera, çit, özel güvenlik, güvenlik görevlisi ve bekçi kelimeleri geçmiyor.
+-> Yazıyı oku
 Enerji · 4 Ekim 2026
 EIF 2026 Antalya enerji fuarında Desecure Technology standında neler var?
 EIF Energy Expo 2026, enerji sektörünün buluştuğu fuardır ve 5-7 Kasım 2026'da ANFAŞ Antalya'da düzenlenir; önceki dönemde İstanbul'da yapılan fuar bu yıl Antalya'ya taşındı. Desecure Technology standında iki Mobil İzleme Kulesi, bir Mobil Alarm Standı, Desecure Vision V10 ve Desecure One sergileniyor. Bu yazı standdaki senaryo bazlı deneyimi, sahadan merkeze yaklaşımı ve enerjide odaklanılan alanları anlatır.
@@ -130,68 +174,4 @@ DVR (Digital Video Recorder), güvenlik kameralarından gelen görüntüyü diji
 -> Yazıyı oku
 Teknik sözlük · 20 Ağustos 2024
 NVR kayıt cihazı nedir ve IP kameralarla nasıl çalışır?
-NVR (Network Video Recorder), IP kameralardan gelen görüntüyü ağ üzerinden alıp dijital olarak kaydeden video kayıt cihazıdır. Analog sinyali dönüştüren DVR'den farkı, görüntünün kameradan kayda kadar dijital kalmasıdır. Bu yazı NVR'nin nasıl çalıştığını, büyük ve çok lokasyonlu tesislerde neden tercih edildiğini ve kayıt cihazının merkezî izlemeye nasıl bağlandığını anlatır.
--> Yazıyı oku
-Sektör ve çözüm · 31 Temmuz 2024
-Video analiz güvenlik sistemleri nasıl çalışır?
-Video analiz güvenlik sistemi, kamera görüntüsünü yapay zeka destekli algoritmalarla anlık değerlendiren ve olağan dışı bir durumda uyarı üreten gözetim teknolojisidir. Bu yazı, video analizin teknik temellerini, sistem seçerken bakılacak ölçütleri, kurumlara sağladığı faydaları ve lojistikten kritik altyapıya kadar farklı tesislerdeki kullanımını anlatır.
--> Yazıyı oku
-Teknik sözlük · 3 Temmuz 2024
-Termal kamera nedir, ne işe yarar?
-Termal kamera, nesnelerin yaydığı kızılötesi ışınımı algılayarak sıcaklık farklarını görüntüye çeviren kameradır. Görünür ışığa ihtiyaç duymadığı için karanlıkta ve düşük görüş koşullarında görüntü üretir. Bu yazı termal kameranın çalışma prensibini, tesis güvenliğinde hangi işlerde kullanıldığını ve seçimde hangi özelliklere bakıldığını anlatır.
--> Yazıyı oku
-Yangın · 2 Temmuz 2024
-Yangın alarm sistemleri ne işe yarar, hangi türleri vardır?
-Yangın alarm sistemi, duman ve ısı sensörleriyle yangını erken aşamada tespit eden ve hızlı müdahaleyi başlatan güvenlik sistemidir. Erken uyarı, can ve mal kaybını en aza indirmenin temel koşuludur. Bu yazı sistemin endüstriyel tesislerdeki önemini, başlıca sistem türlerini ve bir sistemi değerlendirirken bakılması gereken ölçütleri anlatır.
--> Yazıyı oku
-Sektör ve çözüm · 29 Mayıs 2024
-Endüstriyel tesisler için ileri düzey VMS çözümleri ne sağlar?
-Video yönetim sistemi (VMS), çoklu kamera sistemlerini ve üçüncü parti yazılımları tek platformda birleştiren yazılımdır. Bu yazı, geniş alanlara yayılan endüstriyel tesislerde VMS'in izleme kapsamını, entegrasyonu, operasyonel verimliliği ve gece izlemesini nasıl etkilediğini; enerji tesisleri dahil kritik sahalarda neden temel bir bileşen olduğunu anlatır.
--> Yazıyı oku
-Alarm ve izleme · 29 Mayıs 2024
-Gelişmiş alarm sistemleri işletmelere ne sağlar?
-Gelişmiş alarm sistemleri, hırsızlık, vandalizm ve sabotaj gibi tehditleri erken algılayan ve bir izleme merkeziyle birlikte çalıştığında olay yönetimini de üstlenen güvenlik sistemleridir. Bu yazı, gelişmiş alarm sistemlerinin sağladığı faydaları, izleme hizmetinin sisteme ne eklediğini ve sistemin kapsamını belirleyen unsurları işletme bakış açısıyla anlatır.
--> Yazıyı oku
-Teknik sözlük · 29 Mayıs 2024
-Güvenlik teknolojileri nedir, hangi alanlarda kullanılır?
-Güvenlik teknolojileri; video gözetim, erişim kontrol, alarm ve yangın alarm sistemleri gibi tesisleri ve insanları korumak için kullanılan sistemlerin bütünüdür. Her sistem grubunda birden fazla seçenek bulunur ve doğru seçim tesisin gereksinimine bağlıdır. Bu yazı dört ana sistem grubunu ve her birindeki temel seçenekleri karşılaştırmalı olarak anlatır.
--> Yazıyı oku
-Yeni yazılar düzenli olarak eklenir.
-Tesisinizin risk profilini birlikte çıkaralım
-Teklif Al 444 76 49
-444 76 49 ara Teklif al
-Site haritası ve künye
-Çözümler
-AI Güvenlik Teknolojileri
-Video Gözetim ve Akıllı Kamera
-Çevre Güvenliği
-Yangın Algılama ve Erken Uyarı
-IoT ve Entegrasyon
-Giriş Kontrol Sistemleri
-Hizmetler ve Teknolojiler
-Alarm İzleme Merkezi
-Uzaktan Video İzleme
-Mobil Güvenlik Sistemleri
-Canlı İletişim
-Kurumsal
-Hakkımızda
-Neden Desecure
-Yaklaşımımız
-Basında Biz
-Sektörler
-İletişim
-Teklif Al
-Kaynaklar ve Yasal
-Blog
-Sıkça Sorulan Sorular
-KVKK
-Kişisel Verilerin Korunması ve İşlenmesi Politikası
-KVKK Aydınlatma Metni
-Çerez Politikası
-İlgili Kişi Başvuru Formu
-Desecure Teknoloji A.Ş.
-Genel Müdürlük Vadistanbul, Ayazağa Mah. Azerbaycan Cad. 3/I 2A Blok No: 89, Sarıyer 34396 , İstanbul
-Operasyon ve Teknoloji Merkezi Desecure Plaza, Topraklık Mah. İzmir Bulvarı No: 17, Pamukkale 20150 , Denizli
-444 76 49 bilgi@desecuretechnology.com LinkedIn ->
-Desecure grubu şirketi. Fiziki güvenlik hizmetleri: desecure.com.tr
-Çerez tercihleri
+NVR (Network Video Recorder), IP kameralardan gelen görüntüyü ağ üzerinden alıp diji

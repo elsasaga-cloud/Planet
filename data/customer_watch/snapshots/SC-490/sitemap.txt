@@ -1,4 +1,4 @@
-# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 2023-06-29	https://www.hattelandtechnology.com/news/chance-to-win-an-award-winning-series-2-display
 2026-11-12	https://www.hattelandtechnology.com/view_product/p020518_accessory_488
 2021-09-08	https://www.hattelandtechnology.com/blog/slik-kobler-du-legacy-enheter-opp-mot-iiot
@@ -104,7 +104,6 @@
 2026-11-17	https://www.hattelandtechnology.com/view_product/ht-00264-opt_accessory_437
 2023-06-28	https://www.hattelandtechnology.com/news/ecdis-calibration-verification
 2026-06-16	https://www.hattelandtechnology.com/products/marine-computers
-2026-02-06	https://www.hattelandtechnology.com/products/marine-monitors/series-x
 2023-06-29	https://www.hattelandtechnology.com/news/visions-issue-1-2013
 2026-10-21	https://www.hattelandtechnology.com/view_product/hd-12t21-mmd_monitor_202
 2023-06-29	https://www.hattelandtechnology.com/news/welcome-to-the-january-2009-edition-of-visions
@@ -134,4 +133,5 @@
 2026-11-13	https://www.hattelandtechnology.com/view_product/ht-b04cm_computer_181
 2023-06-28	https://www.hattelandtechnology.com/news/display-of-innovation
 2026-11-16	https://www.hattelandtechnology.com/view_product/hd-24t21-mmc_panel-computer_306
-2021-04-28	https://www.h
+2021-04-28	https://www.hattelandtechnology.com/news/integrated-navigation-tactical-system
+2023-06-28	http

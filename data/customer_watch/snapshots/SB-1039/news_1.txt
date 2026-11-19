@@ -1,4 +1,4 @@
-# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-1039 ico.de · news_1 · https://www.ico.de/news/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Innovative News - ICO Innovative Computer GmbH
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -87,6 +87,10 @@ Anfahrt
 Startseite
 ICO NEWS
 Hier finden Sie Neuigkeiten und aktuelle Artikel rund um unser Sortiment und unser Unternehmen
+Industrieller Embedded-PC für KI-Anwendungen direkt an der Maschine
+KI-Anwendungen benötigen Rechenleistung und Zugang zu den Daten aus dem laufenden Betrieb. Der PicoSYS 5662 von ICO Innovative Computer GmbH verbindet dafür einen Intel Core i7 mit industriellen Schnittstellen und Erweiterungsmöglichkeiten für Grafikkarten. Mit entsprechender Software verarbeitet der Embedded-PC Bild- und Sensordaten direkt an der Anlage.
+(mehr …)
+19.11.2026
 Preise und Verfügbarkeit: Aktuelle Marktlage bei Servern, Desktop PCs und Industriesystemen
 Stand: November 2026
 Im Markt für IT Systeme ist derzeit eine deutlich erhöhte Preisdynamik zu beobachten. Einzelne chipbasierte Bauteile sind zeitweise nur eingeschränkt verfügbar. Betroffen sind damit je nach Ausstattung Server, Desktop PCs und Industriesysteme, weil zentrale Komponenten wie Arbeitsspeicher, CPU und Storage häufig identisch oder sehr ähnlich sind. In der Praxis führt das dazu, dass identische Konfigurationen je nach Verfügbarkeit kurzfristig teurer werden können oder sich Liefertermine verschieben.
@@ -124,10 +128,6 @@ Self-Scanning im Handel: Zebra PS30 Personal Shopper bei ICO
 Mobiler Computer für digitale Einkaufsprozesse, Self-Scanning und personalisierte Services direkt auf der Verkaufsfläche.
 (mehr …)
 19.10.2026
-Vom kompakten Bedienpanel bis zur großen Prozessansicht: Vier Panelmaster für die Industrie
-10,1 bis 23,8 Zoll, kapazitive Touchbedienung und lüfterlose Technik für HMI, Maschinensteuerung und Visualisierung.
-(mehr …)
-15.10.2026
 1
 2
 3

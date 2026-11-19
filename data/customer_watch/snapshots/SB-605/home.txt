@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -47,9 +47,9 @@ Otevřeno do
 Hustopeče
 Otevřeno do
 Chotěboř
-Otevíráme za 20 minut
+Otevíráme za 10 minut
 Jevíčko
-Zavíráme za 20 minut
+Zavíráme za 10 minut
 Kladno
 Otevřeno do
 Kroměříž
@@ -67,7 +67,7 @@ Otevřeno do
 Prostějov
 Otevřeno do
 Rychnov nad Kněžnou
-Otevíráme za 20 minut
+Otevíráme za 10 minut
 Sokolov
 Otevřeno do
 Svitavy
@@ -87,7 +87,7 @@ Otevřeno do
 Velké Meziříčí
 Otevřeno do
 Vysoké Mýto
-Otevíráme za 50 minut
+Otevíráme za 40 minut
 20. 11. od 11 hod. ZAVŘENO
 Zábřeh
 Otevřeno do
@@ -486,12 +486,12 @@ Pohony vrat a bran
 Pro dvoukřídlá vrata
 Příslušenství k pohonům vrat
 Pro posuvná vrata
-Chytré zámky Nuki
-Chytré termostaty tado°
 Chytrá domácnost Sonoff
 Inteligentní ovládání
 Home Assistant
 Chytrá domácnost Homey
+Chytré zámky Nuki
+Chytré termostaty tado°
 iNELS Smart Home
 Chytrá domácnost Shelly
 Chytré jističe

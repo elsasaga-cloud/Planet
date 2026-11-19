@@ -1,4 +1,4 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 	https://market-telecom.kz/
 2026-11-18	https://market-telecom.kz/blog
 2026-11-09	https://market-telecom.kz/services
@@ -9,7 +9,7 @@
 2026-11-09	https://market-telecom.kz/oplata
 2026-11-09	https://market-telecom.kz/contact
 2026-11-09	https://market-telecom.kz/asterisk
-2026-11-09	https://market-telecom.kz/office_ats
+2026-11-19	https://market-telecom.kz/office_ats
 2026-11-09	https://market-telecom.kz/virtual-ats
 2026-11-09	https://market-telecom.kz/ivr
 2026-11-10	https://market-telecom.kz/mailserver
@@ -40,7 +40,7 @@
 2026-11-09	https://market-telecom.kz/asterisk/dial-plan
 2026-11-09	https://market-telecom.kz/asterisk/conference
 2026-11-09	https://market-telecom.kz/asterisk/security
-2026-11-09	https://market-telecom.kz/video-systems
+2026-11-18	https://market-telecom.kz/video-systems
 2026-11-09	https://market-telecom.kz/video-for-home
 2026-11-09	https://market-telecom.kz/video-for-build
 2026-11-09	https://market-telecom.kz/partners

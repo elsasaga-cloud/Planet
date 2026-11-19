@@ -1,4 +1,5 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-18T10:22:47Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-19T10:30:38Z · HTTP 200
+19.11.2026 10:20:59	Chalmit Protecta IV LED 07 EM	https://www.adeptor.no/chalmit/pr4b-07l-le-l3/chalmit-protecta-iv-led-07-em-pr4b-07l-le-em-3h-lbe-m20
 17.11.2026 15:19:32	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2040-32/grs2000-ethernet-switch-grs2040-f0000-00000-a00-sffv9hhe2s99
 16.11.2026 12:52:01	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-07/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcy99hhseaxx-dot-x-dot-xx
 11.11.2026 08:57:52	Spider III Standard Line,100mbit 5-port	https://www.adeptor.no/hirschmann/sl20-04t1m49999tz9/spider-iii-standard-line-100mbit-5-port-spider-sl-20-04t1m49999tz9hhhh
@@ -87,5 +88,4 @@
 15.09.2026 13:00:41	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2120-03/grs2000-ethernet-switch-grs2120-gf8f8-ff800-000-skkv9hhe2s99
 09.09.2026 14:39:53	Fluke-TC03A 9HZ infrarødt kamera iSee	https://www.adeptor.no/fluke/fluke-tc03a-9hz/fluke-tc03a-9hz-infrar%c3%b8dt-kamera-isee-jq2-9hz-384x288px-for-android-usb-c
 09.09.2026 12:28:31	Hirschmann BOBCAT 12xTX	https://www.adeptor.no/hirschmann/brs20-12009999-06/hirschmann-bobcat-12xtx-brs20-12009999-ttcy99hhsesxx-dot-x-dot-xx
-09.09.2026 09:48:08	Fluke-ii01, iSee akustisk kamera	https://www.adeptor.no/fluke/fluke-ii01/fluke-ii01-isee-akustisk-kamera-for-android-16-mems-mikrofoner
-08.09.2026 15:36:25	Hirschmann OpenRail RSP35, 8x FE 3x GE	https://www.adeptor.no/hirschmann/rsp35-08033o6zts-27/hirschmann-
+09.09.2026 09:48:08	Fluke-ii01, iSee akustisk kamera	https://www.adeptor.no/fluke/fluke-ii01/fluke-ii01-isee-akustisk-kamera-for

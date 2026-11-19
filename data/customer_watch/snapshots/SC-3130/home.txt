@@ -1,4 +1,4 @@
-# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-3130 tvc.mx · home · https://tvc.mx/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 TVCenLínea.com Mayorista Soluciones de Seguridad Electrónica
 Ingresa a
 tu cuenta
@@ -11,37 +11,18 @@ Menú de navegación
 ⭐ Recomendados
 Eventos y certificaciones
 Ver todas
-18 de noviembre
--
-IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
-Taller
-Presencial
-MEX-IZTACALCO
-CAFETAL 445, GRANJAS MEXICO
-18 de noviembre
--
-ZKTECO | SOLUCIONES DE ASISTENCIA EN LA NUBE (1 DÍA)
-Roadshow
-Presencial
-CHIHUAHUA
-AV. DE LAS INDUSTRIAS 3704, NOMBRE DE DIOS
-18 de noviembre
--
-DSC | CERTIFICACIÓN POWER SERIES NEO (3 DÍAS)
-Certificación
-Presencial
-JAL-GUADALAJARA
-PROGRESO 73, AMERICANA
-18 de noviembre
--
-IMOU | NUEVOS MODELOS AURORA Y FUNCIONES DE IA MEJORADAS
-Capacitación Técnico - Comercial
-En línea
 19 de noviembre
 -
 COMMAX | DOMINA EL SISTEMA DE LLAMADO DE ENFERMERÍA IMPLEMENTACIÓN CONEXIÓN Y CONFIGURACIÓN
 Capacitación Técnico - Comercial
 En línea
+19 de noviembre
+-
+IMOU | TALLER: APRENDE CCTV IP CON IMOU POE (1 DÍA)
+Taller
+Presencial
+JAL-ZAPOPAN
+INDUSTRIAL TEXTIL 2360, ZAPOPAN INDUSTRIAL
 19 de noviembre
 -
 TP-LINK | CERTIFICACIÓN OCNA (1 DÍA)
@@ -95,6 +76,13 @@ Presencial
 SAN LUIS
 24 de noviembre
 -
+ZKTECO | SOLUCIONES DE ASISTENCIA EN LA NUBE (1 DÍA)
+Roadshow
+Presencial
+QRO - QUERETARO
+AV 5 DE FEBRERO 1716, BENITO JUAREZ
+24 de noviembre
+-
 VIVOTEK | HYBRID SOLUTIONS
 Capacitación Comercial
 En línea
@@ -117,6 +105,13 @@ Capacitación Técnico - Comercial
 En línea
 26 de noviembre
 -
+AJAX | TALLER: DISEÑO, CONFIGURACIÓN E INSTALACIÓN DE SISTEMAS DE ALARMA (1 DÍA)
+Capacitación Comercial
+Presencial
+TORREON
+RIO CONCHOS 1456, MAGDALENAS
+26 de noviembre
+-
 GRANDSTREAM | ROADMAP COMERCIAL (1 DÍA)
 Taller
 Presencial
@@ -129,6 +124,13 @@ Taller
 Presencial
 VERACRUZ
 AV. PINO SUAREZ 2488, VERACRUZ CENTRO
+26 de noviembre
+-
+DSC | TALLER DSC NEO CON LE4050M (2 DÍAS)
+Taller
+Presencial
+LEÓN
+BLVD. VICENTE VALTIERRA 6606, SAM MIGUEL DE RENTERIA
 No hay eventos que coincidan con los filtros seleccionados.
 Ver todas
 ☁️ ¡Respaldo en la nube!

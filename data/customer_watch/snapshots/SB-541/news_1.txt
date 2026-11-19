@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
 KBC Networks - BLOG
 PRODUCTS
 NETWORK SWITCHES
@@ -193,7 +193,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Email
+First Name
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -341,5 +341,4 @@ Madagascar
 Malawi
 Malaysia
 Maldives
-Mali
 Ma

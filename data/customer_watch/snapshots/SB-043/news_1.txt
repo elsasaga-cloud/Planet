@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-043 Euro Technology · news_1 · https://www.netontechnologies.com/blog.html · fetched 2026-11-19T10:30:38Z · HTTP 200
 IT and Telecom Blog for Dubai and UAE Businesses | NETON
 Home
 About Us
@@ -32,6 +32,11 @@ Odoo
 What this blog covers. Practical guides for IT managers, operations heads and business owners in Dubai and the UAE who are choosing, upgrading or securing their phone systems and IT. We explain business phone systems and SIP trunks, Wildix and x-bees, Microsoft Teams calling and session border controllers, cloud infrastructure, cybersecurity and backup, and Odoo ERP.
 Every article is written by the NETON Technologies LLC team in Dubai and focuses on what is different in the UAE: licensed carriers, TDRA and DNCR rules, data protection and local support. Browse by topic with the filters above, or start with our guides to business phone systems , SIP trunks and cybersecurity .
 Articles
+Telephony
+What Is CTI? Connecting Your Phone System to Your CRM in the UAE
+What is CTI? Computer telephony integration links your phone system to your CRM. How it works, which CRMs Wildix lists, and what…
+19 Nov 2026 · 9 min read
+Read more →
 IT Support
 How to Plan Reliable Office Wi-Fi in Dubai
 How to plan office Wi-Fi in Dubai: site survey, access points per user, 6 GHz rules in the UAE, PoE cabling, guest VLANs, WPA3…
@@ -70,11 +75,6 @@ Read more →
 Telephony
 Keeping Your Number: How Portability Works in the UAE
 Number portability in the UAE moves fixed and 800 numbers between e& and du. Most phone system changes keep the carrier. Which…
-7 Nov 2026 · 10 min read
-Read more →
-Microsoft Teams
-Why Teams Cannot Make Phone Calls in the UAE
-No dial pad in Teams, or no calls to mobiles and landlines? Why Microsoft Teams phone calls fail in the UAE, and the licence…
 7 Nov 2026 · 10 min read
 Read more →
 1

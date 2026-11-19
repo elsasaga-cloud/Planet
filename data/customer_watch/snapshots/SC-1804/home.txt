@@ -1,4 +1,4 @@
-# SC-1804 indraheera.com · home · https://indraheera.org/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-1804 indraheera.com · home · https://indraheera.org/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Indra Heera Group
 Home
 Products
@@ -27,13 +27,13 @@ Read More...
 Designed & IPR Make in India...
 "Where Innovation Meets Craftsmanship, Building a Self-Reliant Nation, Empowering Local Talent, Showcasing India's Global Excellence, and Paving the Way for Sustainable Growth and Leadership on the World Stage."
 Read More...
-1073292 +
+1073293 +
 Total Reach
-1574 +
+1575 +
 Happy Clients
-51040 +
+51103 +
 Completed Inventories
-1332 +
+1333 +
 Completed Projects
 Indra Heera Group
 The Indra Heera Group is a corporate consortium in India, Manufacturer & RDI (Research, Design & Innovation) in the fields of Telecommunication, Networking & Internet of Things. Its entity has been designated as " Trusted Source " under the Government of India’s National Security Directive on Telecom Sector ( NSDTS ) and has also been recognized by the Department for Promotion of Industry and Internal Trade ( DPIIT ) for its pioneering contributions to product development. The Group consistently delivers high-quality, reliable, and customized solutions across its domains. By strategically leveraging platforms such as Government e-Marketplace ( GeM ) & Open Network for Digital Commerce ( ONDC ), the Group serves B2G, PSU, B2B & D2C sectors across the nation.....
@@ -47,6 +47,9 @@ Our products are meticulously designed and developed to ensure seamless compatib
 Cyber Security...
 Each of our products is meticulously designed and rigorously tested to ensure full compliance with stringent cybersecurity parameters, safeguarding against vulnerabilities and potential threats . We prioritize the highest standards of security to protect sensitive data and maintain the integrity of your systems. Furthermore, our commitment to quality ensures that every product is free from bugs, delivering a seamless and reliable user experience. By adhering to robust testing protocols and leveraging advanced development practices, we guarantee that our solutions are not only secure but also optimized for peak performance, providing you with peace of mind and unwavering trust in our technology...
 What's new
+Networking Switch (SW3246TMP) (V3)
+₹4,00,000.00
+View Product
 Networking Switch (SW2082MP) (V2)
 ₹30,000.00
 View Product
@@ -73,9 +76,6 @@ IP Phone (PHS126GP)
 View Product
 Industrial Networking Switch (SW2082MPI) (V2)
 ₹48,000.00
-View Product
-TDMoIP FXO/S Gateway (VG1216OSAD)
-₹1,20,000.00
 View Product
 Notifications
 Contact Us

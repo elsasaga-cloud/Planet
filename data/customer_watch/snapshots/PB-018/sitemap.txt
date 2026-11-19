@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 	https://powerbizt.hu/termekek/2044
 	https://powerbizt.hu/termekek/2052f
 	https://powerbizt.hu/termekek/2052m
@@ -20,7 +20,6 @@
 	https://powerbizt.hu/termekek/flex-adventi-naptar-2025
 	https://powerbizt.hu/termekek/fusion-pro-2-5g
 	https://powerbizt.hu/termekek/fusion-pro-2-5g-poe
-	https://powerbizt.hu/termekek/gazpaka-hegy02mm-toolcraft
 	https://powerbizt.hu/termekek/gl-heat
 	https://powerbizt.hu/termekek/gl-pkey
 	https://powerbizt.hu/termekek/hr6-80
@@ -66,7 +65,6 @@
 	https://powerbizt.hu/termekek/ac302-02
 	https://powerbizt.hu/termekek/ac405-01
 	https://powerbizt.hu/termekek/ac408-02
-	https://powerbizt.hu/termekek/ac520-01
 	https://powerbizt.hu/termekek/ac620-01
 	https://powerbizt.hu/termekek/am35-1017
 	https://powerbizt.hu/termekek/am35-1017e
@@ -101,20 +99,6 @@
 	https://powerbizt.hu/termekek/api-amc2-16ioe
 	https://powerbizt.hu/termekek/api-amc2-4we
 	https://powerbizt.hu/termekek/api-amc2-8ioe
-	https://powerbizt.hu/termekek/cambium-networks-epmp-5ghz-force-300-19r-apkliens
-	https://powerbizt.hu/termekek/cambium-networks-epmp3000-radio
-	https://powerbizt.hu/termekek/cambium-networks-epmp3000l-radio
-	https://powerbizt.hu/termekek/cambium-networks-c050910a233a
-	https://powerbizt.hu/termekek/cambium-networks-epmp-5-ghz-force-300-16-apkliens
-	https://powerbizt.hu/termekek/cambium-networks-epmp-5ghz-force-300-csm-apkliens
-	https://powerbizt.hu/termekek/cambium-networks-epmp3000-sector-antenna
-	https://powerbizt.hu/termekek/cn-c050910m203b
-	https://powerbizt.hu/termekek/cn-c050940a223a
-	https://powerbizt.hu/termekek/cn-c050940a263d
-	https://powerbizt.hu/termekek/cn-c050940f253a
-	https://powerbizt.hu/termekek/cambium-networks-epmp-5-ghz-force-425-sm-2-pack
-	https://powerbizt.hu/termekek/cambium-networks-c050940m253a
-	https://powerbizt.hu/termekek/cambium-networks-cv-c19rpeua-eu
 	https://powerbizt.hu/termekek/cambium-networks-pl-e505x00a-eu
 	https://powerbizt.hu/termekek/canfor-behuzo-nylon-30m
 	https://powerbizt.hu/termekek/canfor-behuzo-uveg-15m-3mm
@@ -348,4 +332,25 @@
 	https://powerbizt.hu/termekek/asc1204c-s
 	https://powerbizt.hu/termekek/asc2102b-t
 	https://powerbizt.hu/termekek/asc2202b-d-3
-	h
+	https://powerbizt.hu/termekek/asc2202b-s-3
+	https://powerbizt.hu/termekek/asc2202c-d-3
+	https://powerbizt.hu/termekek/asc2202c-s-3
+	https://powerbizt.hu/termekek/asc2204b-s-3
+	https://powerbizt.hu/termekek/asc2204c-d-3
+	https://powerbizt.hu/termekek/asc2204c-h
+	https://powerbizt.hu/termekek/dahua-asc2204c-d-belepteto-terminal
+	https://powerbizt.hu/termekek/asc3202b
+	https://powerbizt.hu/termekek/asc4202b-d-1
+	https://powerbizt.hu/termekek/asc4202c-d
+	https://powerbizt.hu/termekek/asc4204b-s
+	https://powerbizt.hu/termekek/asc4204c-d
+	https://powerbizt.hu/termekek/dh-awa6220
+	https://powerbizt.hu/termekek/dh-awa6220-o
+	https://powerbizt.hu/termekek/dh-awa6220-w
+	https://powerbizt.hu/termekek/dh-awa6330-c
+	https://powerbizt.hu/termekek/dahua-ax15m
+	https://powerbizt.hu/termekek/dahua-ax18
+	https://powerbizt.hu/termekek/ax18-v2-eurde
+	https://powerbizt.hu/termekek/dahua-dh-ax30-ax3000-wireless-router
+	https://powerbizt.hu/termekek/chs4106-4et-60
+	https://powerbizt.hu/termekek/dahua-

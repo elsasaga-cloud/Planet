@@ -1,4 +1,4 @@
-# SB-712 maplesystems.com · home · https://maplesystems.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-712 maplesystems.com · home · https://maplesystems.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Industrial Automation Control Solutions
 Skip to content
 Login/Register
@@ -20,7 +20,7 @@ Web HMIs
 Secondary Displays for cMT Series
 21.5″ Capacitive Touch HMIs
 Compare HMI Models
-Popular comparisons: cMT2078X , cMT2108x2 , HMI5070Bv3
+Popular comparisons: cMT2078Xv2 , cMT2108X2v2 , HMI5070Bv4
 FREE HMI Software (EBPro)
 Powerful, full-version HMI programming—no contracts or subscriptions. Get started fast—even without prior experience!
 Learn More about HMI Configuration Software
@@ -162,6 +162,7 @@ Latching Pushbuttons
 2-Position Selector Switches
 3-Position Selector Switches
 Latching E-Stop
+Control Station Kits
 Need Help Choosing a Pushbutton ?
 Let our team help you choose the right solution for your industry.
 Contact Our Pushbutton Experts
@@ -439,5 +440,4 @@ PLCs & Control
 Fixed I/O PLCs
 Expandable I/O PLCs
 Remote I/O
-PLC Software (MapleLogic)
-Comp
+PLC S

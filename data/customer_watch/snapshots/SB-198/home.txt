@@ -1,4 +1,4 @@
-# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Nauji produktai - Katalita.lt
 0
 Turite klausimų? Tel: +370 603 03213 ,
@@ -347,6 +347,9 @@ TELTONIKA ENERGY, UAB
 TELTONIKA TELEMATICS, UAB
 Your browser does not support the video tag.
 Nauji produktai
+2026-11-18
+TP-LINK VIGI 5MP Full-Color Turret Network Camera, 2.8mm (VIGI-InSightS455-2.8)
+5MP Super-High Definition | 1/2.65” Progressive Scan CMOS | Aperture: F1.6 | H.265+ | SD card slot (up to 512 GB) | Smart Detection | Human & Vehicle Classification | PoE/12V DC | Full-Color Night Vision (30m) | Active Defense and Two-Way Audio | IP67 Waterproof | DIY Installation | Supports ONVIF | 2.8mm lens
 2026-11-17
 TP-LINK Omada 5-Port 2.5G BASE-T and 1-Port 10GE SFP+ Easy Managed Switch with 4-Port PoE++ (ES206XPP-M2)
 24x 2.5G RJ45 Ports (8x PoE++ and 16x PoE+) | 4x 10G SFP+ Slots | 1x RJ45 Console Port | 1x Micro-USB Console Port | 500 W total PoE budget | Integrated into Omada SDN
@@ -382,9 +385,4 @@ MIKROTIK Air Quality Monitor CLAIRÉ, White (IAQM-THC2PV-W)
 Wireless Protocols: Matter over Thread, Bluetooth (device setup only) | Monitors temperature, humidity, carbon dioxide (CO₂) and VOC concentration in real time | Particulate matter sensors (PM2.5 and PM10) | Temperature Range: 0° – +50°C | Humidity Range and Precision: 0 – 100% RH | VOC Detection Range : 1~500 index points | Full-color 2" display | Powering: USB Type-C socket or 5VDC terminal connector for LPS adapter
 2026-10-23
 MIKROTIK Air Quality Monitor CLAIRÉ, Gray (IAQM-THC2PV-G)
-Wireless Protocols: Matter over Thread, Bluetooth (device setup only) | Monitors temperature, humidity, carbon dioxide (CO₂) and VOC concentration in real time | Particulate matter sensors (PM2.5 and PM10) | Temperature Range: 0° – +50°C | Humidity Range and Precision: 0 – 100% RH | VOC Detection Range : 1~500 index points | Full-color 2" display | Powering: USB Type-C socket or 5VDC terminal connector for LPS adapter
-2026-10-19
-MIKROTIK IoT Gateway KNOT LR8 (L14G-2ax-BT5-LR8&EG800K)
-LoRa® 868MHz | CAT1 bis LTE modem | nanoSIM/eSIM | Wi-Fi 6 2.4 GHz wireless (802.11b/g/n/ax) | Bluetooth (V5.1) | Gigabit Ethernet | PoE-In (af/at) & surge protection | Multi- GNSS GPS | IP66 | Router OS (Licence level 4)
-2026-10-16
-AQARA Sm
+Wireless Protocols: Matter over Thread, Bluetooth (device setup only) | Monitors temperature, humidity, carbon dioxide (CO₂) and VOC concentration in real time | Particulate matter sensors (PM2.5 and PM10) | Temperature Range: 0° – +50°C | Humidity Range and Precision: 0 – 100% RH | VOC Detection Range : 1~500 index points | 

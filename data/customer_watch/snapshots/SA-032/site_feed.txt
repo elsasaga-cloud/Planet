@@ -1,11 +1,11 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+Thu, 19 Nov 2026 06:13:42 +0000	STS DEMONSTRATES BIDIRECTIONAL MQTT–IIoT COMMUNICATION	https://sundartechno.com/2026/11/19/bi-directional-mqtt-iiot-gateway/
+Thu, 19 Nov 2026 06:02:11 +0000	SMART PARCEL DIMENSIONING WITH STS 10.1″ FULL HD INDUSTRIAL PANEL PC	https://sundartechno.com/2026/11/19/smart-parcel-dimensioning-10-1-industrial-panel-pc/
+Thu, 19 Nov 2026 05:36:14 +0000	21.5-Inch Industrial Touchscreen for CNC Machine Retrofits	https://sundartechno.com/2026/11/19/21-5-inch-industrial-touch-display-cnc-retrofit/
+Wed, 18 Nov 2026 12:58:07 +0000	RUGGED COMPUTING FOR DISASTER RESPONSE	https://sundartechno.com/2026/11/18/rugged-computing-for-disaster-response/
+Wed, 18 Nov 2026 12:34:35 +0000	What happens between a passenger looking at a camera and an airport gate opening?	https://sundartechno.com/2026/11/18/sts-sbc-n305-3-5-inch-industrial-sbc/
 Tue, 17 Nov 2026 06:28:36 +0000	STS HIGH-REFRESH INDUSTRIAL DISPLAY FOR ROBOTIC AI PAINT-SURFACE INSPECTION	https://sundartechno.com/2026/11/17/robotic-ai-paint-surface-inspection-industrial-display/
 Tue, 17 Nov 2026 06:11:39 +0000	FANLESS POWER FOR EVERY DCS	https://sundartechno.com/2026/11/17/fanless-industrial-computer-dcs-pci-pcie/
 Tue, 17 Nov 2026 05:56:14 +0000	FANLESS COMPUTING FOR CHLORINE PLANTS	https://sundartechno.com/2026/11/17/fanless-industrial-computer-chlorine-plants/
 Tue, 17 Nov 2026 05:42:34 +0000	INDUSTRIAL KEPWARE SERVER – CONNECTING PLCs, METERS AND SENSORS TO SCADA, MES & CLOUD	https://sundartechno.com/2026/11/17/industrial-kepware-server-ptc-connectivity/
 Tue, 17 Nov 2026 05:16:44 +0000	STS RUGGED TABLETS FOR SMART POLICE PATROL	https://sundartechno.com/2026/11/17/sts-rugged-tablets-smart-police-patrol/
-Tue, 17 Nov 2026 05:02:35 +0000	STS IPC AS SOFT PLC WITH CODESYS Control RTE SL	https://sundartechno.com/2026/11/17/sts-ipc-soft-plc-codesys-control-rte-sl/
-Tue, 17 Nov 2026 04:46:00 +0000	STS BOX PC AS SOFT PLC WITH OpenPLC & USB DAQ	https://sundartechno.com/2026/11/17/sts-box-pc-soft-plc-with-openplc-usb-daq/
-Mon, 16 Nov 2026 12:56:51 +0000	AI-CHAT BOT INDUSTRIAL COMPUTER FOR INDUSTRIAL AUTOMATION	https://sundartechno.com/2026/11/16/ai-chat-bot-industrial-computer-industrial-automation/
-Mon, 16 Nov 2026 12:36:20 +0000	AI COMPUTING – FROM EDGE TO DATA CENTER	https://sundartechno.com/2026/11/16/ai-computing-gpu-servers-edge-box-pc/
-Mon, 16 Nov 2026 12:20:57 +0000	ATEX ZONE 1 HART + FOUNDATION FIELDBUS COMMUNICATION SOLUTION	https://sundartechno.com/2026/11/16/atex-zone-1-hart-foundation-fieldbus-transmitter/

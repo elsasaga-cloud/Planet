@@ -1,4 +1,5 @@
-# SB-1002 amplicon.com · sitemap · https://www.amplicon.com/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-1002 amplicon.com · sitemap · https://www.amplicon.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+2026-11-18	https://www.amplicon.com/form/2027-planning/
 2026-10-22	https://www.amplicon.com/offers/keysight-hd304mso-3-upgrades/
 2026-10-15	https://www.amplicon.com/brands/keysight/waveform-function-generators/
 2026-10-16	https://www.amplicon.com/brands/keysight/digital-multimeters/
@@ -160,5 +161,4 @@
 2024-02-08	https://www.amplicon.com/offers/
 2020-07-31	https://www.amplicon.com/account/
 2025-04-01	https://www.amplicon.com/brands/keysight/
-2022-04-06	https://www.amplicon.com/brands/moxa/
-2022-07-29	https://www.amplicon.c
+2022-04-06	https://www.amp

@@ -1,4 +1,4 @@
-# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,21 +150,21 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-EC33P - Centrala IP pentru controlul accesului la lift, 32 de etaje, extensibila pana la 128 de etaje, montaj pe sina DIN
-CY-SOFT-ONPREM|SUBSCRIPTION - Abonament anual On-Premise: acces la upgrade-uri software
-GL-QM6-219 - Bolard auto hidraulic din Inox cu diametru de 219mm si inaltime utila de 600mm cu iluminare LED, IP68
-BXB-S18NCB01VF-I-GY-L - Corp bariera de acces auto cu motor BRUSHLESS pe 24Vcc, viteza reglabila 2–6 secunde, brat de pana la 8 metri, reversibila
-CY-SL-INT-EEC - Terminal intrare/iesire parcare interfon, scaner QR, ecran LCD 10", controler EEC, RJ45 10/100MBPS; IP54
-YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
-EC33 - Centrala IP pentru controlul accesului la lift, cu 32 de iesiri releu, extensibila
-GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
-BXB-S18NDZ04-VF-OR-L - Corp bariera de acces auto cu motor BRUSHLESS pe 24Vcc, viteza reglabila 1.5–6 secunde, brat de pana la 6 metri, reversibila
 S535(BRAK.S) - Suport montare aplicata pentru videointerfoanele IP Akuvox S535
-YP-902-24-3 - Sursa de alimentare neintreruptibila, pentru control acces, 24Vcc/3A
-S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
-BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
-S535(BRAK.F.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535
+CY-SOFT-ONPREM|UPGRADE - Upgrade software On-Premise, la cerere
+BXB-S18NDZ04-VF-OR-L - Corp bariera de acces auto cu motor BRUSHLESS pe 24Vcc, viteza reglabila 1.5–6 secunde, brat de pana la 6 metri, reversibila
+CY-SL-INT-EEC - Terminal intrare/iesire parcare interfon, scaner QR, ecran LCD 10", controler EEC, RJ45 10/100MBPS; IP54
+GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
 S535 - Video interfon IP SIP, post de apel cu ecran touchscreen de 5”, Linux, BLE 5.0, recunoaștere facială, NFC, cod QR
+CY-SUNV3-4G-6100077 - Terminal portabil parcare, taxare parcare, ecran touch 5.5", Android, imprimanta termica 58mm inclusa, scanner QR inclus, POS MYPos NFC
+EC33P - Centrala IP pentru controlul accesului la lift, 32 de etaje, extensibila pana la 128 de etaje, montaj pe sina DIN
+S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
+YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
+S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
+CY-SOFT-ONPREM|SUBSCRIPTION - Abonament anual On-Premise: acces la upgrade-uri software
+BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
+EC33 - Centrala IP pentru controlul accesului la lift, cu 32 de iesiri releu, extensibila
+BXB-S18NCB01VF-I-GY-L - Corp bariera de acces auto cu motor BRUSHLESS pe 24Vcc, viteza reglabila 2–6 secunde, brat de pana la 8 metri, reversibila
 Noutati
 Supraveghere video Dahua
 YLI CONTROL ACCES anunță cu plăcere parteneriatul de distribuție cu Zhejiang Dahua Technology Co., Ltd. (Dahua Technology), unul din liderii mondiali furnizor de serv....

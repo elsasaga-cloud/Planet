@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3967)
+Svi proizvodi (3966)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -350,14 +350,14 @@ Fiber šasije
 Fiber-coax konverteri
 Industrijska oprema (5)
 GPON / EPON Fiber (2)
-Kartice - PC adapteri (147)
+Kartice - PC adapteri (146)
 10/100Mb/s kartice (4)
 PCI (3)
 USB (1)
 PCMCIA
-10/100/1000 Gigabit (17)
+10/100/1000 Gigabit (16)
 PCI
-PCI Express (11)
+PCI Express (10)
 PCI-X / PCI
 PCMCIA
 Serverske kartice

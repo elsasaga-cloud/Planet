@@ -1,4 +1,4 @@
-# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 อุปกรณ์ Fiber Optic สายไฟเบอร์ออฟติก อุปกรณ์เครือข่าย Network อื่นๆ ราคาปลีก-ส่ง
 จัดส่งด่วนทั่วไทย
 ของแท้ 100%
@@ -23,7 +23,7 @@ sitemap
 ทะเบียนพานิชย์
 วิธีชำระเงิน
 แจ้งชำระเงิน
-สินค้าอัพเดท
+สินค้า
 บทความ
 ดาวน์โหลด
 หมวดสินค้า
@@ -62,23 +62,23 @@ ADSS
 ARSS
 อุปกรณ์เสริม
 PATCH CORD FIBER
-Patch Cord SM 1M
-Patch Cord SM 3M
-Patch Cord SM 5M
-Patch Cord SM 10M
-Patch Cord SM 15M
-Patch Cord SM 20M
-Patch Cord SM 30M
-Patch Cord MM OM2
-Patch Cord MM OM3
-Patch Cord MM OM4
-Patch Cord MM OM5
+1M
+3M
+5M
+10M
+15M
+20M
+30M
+OM2
+OM3
+OM4
+OM5
 PIGTAIL FIBER
-Pigtail SM
-Pigtail OM2
-Pigtail OM3
-Pigtail OM4
-Pigtail OM5
+SM
+OM2
+OM3
+OM4
+OM5
 MEDIA CONVERTER
 10/100 Media
 Gigabit Media
@@ -94,10 +94,10 @@ Can-Bus To Fiber
 Dry To Fiber
 PCM To Fiber
 SFP MODULE
-SFP 1.25Gbps
-SFP 1.25Gbps (Aruba)
-SFP+ 10Gbps
-SFP+ 10Gbps (Aruba)
+1.25G
+1.25G (Aruba)
+10G
+10G (Aruba)
 DAC & AOC
 SFP OLT
 PON NETWORK
@@ -183,7 +183,7 @@ Network Card
 วิธีจัดส่ง
 วิธีชำระเงิน
 แจ้งชำระเงิน
-สินค้าอัพเดท
+สินค้า
 บทความ
 ดาวน์โหลด
 หมวดหมู่สินค้า
@@ -222,23 +222,23 @@ ADSS
 ARSS
 อุปกรณ์เสริม
 PATCH CORD FIBER
-Patch Cord SM 1M
-Patch Cord SM 3M
-Patch Cord SM 5M
-Patch Cord SM 10M
-Patch Cord SM 15M
-Patch Cord SM 20M
-Patch Cord SM 30M
-Patch Cord MM OM2
-Patch Cord MM OM3
-Patch Cord MM OM4
-Patch Cord MM OM5
+1M
+3M
+5M
+10M
+15M
+20M
+30M
+OM2
+OM3
+OM4
+OM5
 PIGTAIL FIBER
-Pigtail SM
-Pigtail OM2
-Pigtail OM3
-Pigtail OM4
-Pigtail OM5
+SM
+OM2
+OM3
+OM4
+OM5
 MEDIA CONVERTER
 10/100 Media
 Gigabit Media
@@ -254,10 +254,10 @@ Can-Bus To Fiber
 Dry To Fiber
 PCM To Fiber
 SFP MODULE
-SFP 1.25Gbps
-SFP 1.25Gbps (Aruba)
-SFP+ 10Gbps
-SFP+ 10Gbps (Aruba)
+1.25G
+1.25G (Aruba)
+10G
+10G (Aruba)
 DAC & AOC
 SFP OLT
 PON NETWORK
@@ -443,6 +443,76 @@ Gigabit Switch SFP 4 Port + 2RJ45 Uplink แบรนด์ SDT-TECH รุ่�
 ราคาไม่รวมภาษี: ฿1,300
 มีสินค้า
 สินค้าอัพเดท
+1.25G SFP LC-BIDI 1310/1550 DDM SM 10KM
+1.25G SFP LC-BIDI 1310/1550 DDM SM 10KM แบรนด์ SDT-TECH รุ่น SDT-1G-LC10 (A..
+฿690 ฿940
+ราคาไม่รวมภาษี: ฿690
+มีสินค้า
+สายไฟเบอร์ออฟติก SM 2C FRP, LSZH Flat Type (1KM)
+สายไฟเบอร์ออฟติกภายนอกอาคาร (FTTH Outdoor Drop Cable) แบรนด์ Spring ความยาว 1,00..
+฿3,200 ฿4,730
+ราคาไม่รวมภาษี: ฿3,200
+มีสินค้า
+HDMI Extender 1080p (150M)
+HDMI Extender 1080p ตัวส่งมีช่องเสียบ HDMI 2 ช่อง 1 ช่องสำหรับ INPUT ปกติ ส่วนอี..
+฿1,090 ฿1,480
+ราคาไม่รวมภาษี: ฿1,090
+มีสินค้า
+DIN-rail 5-port MINI Gigabit industrial switch
+สวิตช์เครือข่ายเกรดอุตสาหกรรม (Industrial Switch) ขนาดมินิกะทัดรัด แบรนด์ HM รุ่..
+฿550 ฿880
+ราคาไม่รวมภาษี: ฿550
+มีสินค้า
+PoE Extender (10/100) IN1 OUT3 (Outdoor)
+PoE Extender outdoor (กันน้ำ) ความเร็ว 10/100 Mbps เข้า 1 ออก 3 รุ่น AT13FV..
+฿390 ฿530
+ราคาไม่รวมภาษี: ฿390
+มีสินค้า
+GLINK (GLT-106) ล้อวัดระยะทางแบบดิจิตอล
+ล้อวัดระยะทางแบบดิจิตอล แบรนด์ GLINK รุ่น GLT-106 ล้อวัดระยะทางแบบเดินตาม รองรับ..
+฿850 ฿1,150
+ราคาไม่รวมภาษี: ฿850
+มีสินค้า
+HDMI To Fiber 4K@30Hz SM LC-BIDI 10G 10KM
+HDMI To Fiber Extender 4K Uncompressed SM BIDI 10KM ตัวนี้ใช้โมดูล SFP+ (10G) ชน..
+฿3,700 ฿5,000
+ราคาไม่รวมภาษี: ฿3,700
+สินค้าหมด
+PoE Switch 4 Port 10/100 + 2 LAN RJ45
+Fast Ethernet PoE Switch 4 Port (10/100) + 2 LAN 10/100 RJ45 สำหรับ Uplink เป็นอ..
+฿590 ฿800
+ราคาไม่รวมภาษี: ฿590
+มีสินค้า
+PoE Switch 12 Port 10/100 + 2 LAN RJ45
+Fast Ethernet PoE Switch 12 Port (10/100) + 2 LAN 10/100 RJ45 สำหรับ Uplin..
+฿1,600 ฿2,160
+ราคาไม่รวมภาษี: ฿1,600
+มีสินค้า
+GLINK (GLC-010) Contact Cleanner ขนาด (200ml)
+Contact Cleaner แบรนด์ GLINK รุ่น GLC-010 ขนาดบรรจุ 200ml เป็นสเปรย์ หรือน้ำยาทำ..
+฿65 ฿85
+ราคาไม่รวมภาษี: ฿65
+มีสินค้า
+GLINK (GL-201) สาย HDMI V2.0 4K@60Hz ยาว 10 เมตร
+สาย HDMI 4K@60Hz แบรนด์ GLINK รุ่น GL-201 ยาว 10 เมตร ใช้สำหรับส่งสัญญาณภาพแบบ 4..
+฿350 ฿480
+ราคาไม่รวมภาษี: ฿350
+มีสินค้า
+PoE Extender 10/100 IN1 OUT2 รุ่น 102JL (Indoor)
+PoE Extender หรือ PoE Repeater เข้า 1 ออก 2 สำหรับแยกสาย PoE รุ่น 102JL (Indoor)..
+฿290 ฿400
+ราคาไม่รวมภาษี: ฿290
+มีสินค้า
+POE Switch 16 Port 10/100 + 2 Gigabit RJ45 (small)
+Fast Ethernet PoE Switch 16 Port (10/100) + 2 Gigabit RJ45 สำหรับ Uplink เป็นอุป..
+฿1,750 ฿2,370
+ราคาไม่รวมภาษี: ฿1,750
+มีสินค้า
+PoE Switch 8 Port 10/100 + 2 Gigabit RJ45
+Fast Ethernet PoE Switch 8 Port (10/100) + 2 Gigabit RJ45 สำหรับ Uplink เป็นอุปก..
+฿950 ฿1,290
+ราคาไม่รวมภาษี: ฿950
+มีสินค้า
 LINK (US-6620A) Plug Boots CAT6 สีใส (10pcs)
 LINK US-6620A ยางท้ายหัวแลน หรือ บู้ทหัวแลน CAT6 CRYSTAL LOCKING PLUG BOOT (สีขา..
 ฿55 ฿80
@@ -467,16 +537,6 @@ POE Switch 24 Port 10/100 + 2GE + 1SFP Port (Rack)
 Rack Mount PoE Switch 24 Port (24 PoE) ความเร็ว 10/100Mbps เพิ่ม 2 Port LAN Giga..
 ฿2,800 ฿3,780
 ราคาไม่รวมภาษี: ฿2,800
-มีสินค้า
-POE Switch 16 Port 10/100 + 2 Gigabit RJ45 (small)
-Fast Ethernet PoE Switch 16 Port (10/100) + 2 Gigabit RJ45 สำหรับ Uplink เป็นอุป..
-฿1,750 ฿2,370
-ราคาไม่รวมภาษี: ฿1,750
-มีสินค้า
-PoE Switch 8 Port 10/100 + 2 Gigabit RJ45
-Fast Ethernet PoE Switch 8 Port (10/100) + 2 Gigabit RJ45 สำหรับ Uplink เป็นอุปก..
-฿950 ฿1,290
-ราคาไม่รวมภาษี: ฿950
 มีสินค้า
 Gigabit Media 1310nm DX 20KM รุ่น HM-2F-G
 Gigabit Media Converter SM, MM สำหรับ Network Internet และ Cctv IP Camera เพื่อแ..
@@ -509,49 +569,4 @@ RS485/422/232 to Fiber Converter SM DX 20KM
 ราคาไม่รวมภาษี: ฿1,300
 มีสินค้า
 Germany ตู้แร็คติดผนัง 6U รุ่น G1-60506 ลึก 50 ซม.
-ตู้แร็คเก็บอุปกรณ์ Germany Wall Rack รุ่น G1-60506 ขนาดหน้ากว้าง 19 นิ้ว/6U ลึก ..
-฿3,390 ฿4,580
-ราคาไม่รวมภาษี: ฿3,390
-สินค้าหมด
-LINK (UFH9522) FTTH SM 2 Core Flat Type 1KM
-LINK UFH9522 | สายไฟเบอร์ออฟติก Single Mode 2 Core ชนิด Flat Type ยาว 1000 เมตร ..
-฿5,500 ฿7,020
-ราคาไม่รวมภาษี: ฿5,500
-สินค้าหมด
-Gigabit SFP Media Converter รุ่น SDT-SFP-1G
-Gigabit SFP Fiber Media Converter (10/100/1000 Mbps) แบรนด์ SDTTECH รุ่น SD..
-฿900 ฿1,220
-ราคาไม่รวมภาษี: ฿900
-สินค้าหมด
-Wireless HDMI Extender 1080P@60Hz 5.8GHz
-Wireless HDMI Extender Full HD (1920X1080) 1080P@60Hz เปลี่ยนบ้านหรือออฟฟิศของคุ..
-฿1,650 ฿2,370
-ราคาไม่รวมภาษี: ฿1,650
-มีสินค้า
-Wireless HDMI Extender 4K@30Hz Ultra HD 5.8GHz
-HDMI Wireless Extender 4K Ultra HD (Local Loop Out) อุปกรณ์ส่งสัญญาณภาพแบบไร้สาย..
-฿2,450 ฿3,310
-ราคาไม่รวมภาษี: ฿2,450
-มีสินค้า
-สายไฟเบอร์ออฟติก SM 2C FRP, LSZH Flat Type (1KM)
-สายไฟเบอร์ออฟติกภายนอกอาคาร (FTTH Outdoor Drop Cable) แบรนด์ Spring ความยาว 1,00..
-฿3,200 ฿4,730
-ราคาไม่รวมภาษี: ฿3,200
-มีสินค้า
-Gigabit Industrial Media 1X4 Port SM BIDI 20KM
-Gigabit Industrial Media Converter 1X4 Port เป็นอุปกรณ์แปลงและรับส่งสัญญาณ Netwo..
-฿1,450 ฿1,960
-ราคาไม่รวมภาษี: ฿1,450
-มีสินค้า
-Gigabit Industrial Media Converter SM BIDI 20KM
-Gigabit Industrial Media Converter SC-BIDI SM 20Km เป็นอุปกรณ์แปลงและรับส่งสัญญา..
-฿1,250 ฿1,690
-ราคาไม่รวมภาษี: ฿1,250
-มีสินค้า
-10G SFP+ Network Card PCIE x8 รุ่น X520
-10G SFP+ Network Card PCI Express x8 รุ่น X520 เป็น Network Card เป็นสินค้ามือสอ..
-฿1,700 ฿2,300
-ราคาไม่รวมภาษี: ฿1,700
-มีสินค้า
-SFP+ 10G LC-DX 1310 DDM SM 20KM (AR)
-SFP+ 10G LC-DX 1310 DDM SM 20KM Compatible Aruba แบรนด
+ตู้แร็คเก็บอุปกรณ์ Germany Wall Rack รุ่น G1-60506 ขนาดหน้ากว้าง 19 นิ้ว/6U

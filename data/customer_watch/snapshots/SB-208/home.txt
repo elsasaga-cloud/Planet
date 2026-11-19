@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-19T10:30:38Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,43 +66,49 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-CoreParts 73Wh, 9 Cell Li-ion 11.1V 6.6Ah Dell akku
-Yhteensopiva
-Dell Latitude E6320 E5430 E6230 E6330 E6220...
-65,00 €
-HP 659A W2010A musta laserkasetti
-Yhteensopiva
-HP Color LaserJet Enterprise M856dn (T3U51A) HP Color LaserJet Enterprise Flow MFP M776z (3WT91A) HP...
-233,00 €
-Herma tarra-arkki irroitettava 25,4mmx16,9mm, tarroja 2800 kpl
-Herma tarra kooltaan 25,4mmx16,9mm
-Yhdellä A4...
-12,90 €
+Canon PGI-570 PGBK musta mustekasetti
+Canon PGI-570PGBK - Musta - alkuperäinen - mustekasetti Mustekapasiteetti: 15 ml Yhteensopivuus:: Canon PIXMA MG5750, MG5751, MG5752, MG5753, MG6851, MG6852, MG6853, MG7750, MG7751, MG7752, MG7753, TS5050, TS5051, TS5053, TS5055, TS6050, TS6051, TS6052, TS8050, TS8051, TS8052, TS8053, TS9050, TS9055...
+23,00 €
+Delock M12 X-coded 8-pin uros - RJ45 Cat.6a S/FTP kulma ylös, 1 m, oranssi
+Tätä Delockin teollisuus-Ethernet-kaapelia voidaan...
+19,50 €
+-80 %
+USB Type B M, Mini 5 pin M, Hirose 4 pin M, Mitsumi 4 pin M adapteri
+Kätevä USB adapteri, jossa liitännät: USB Type B uros, Mini 5 pin uros, Hirose...
+3,00 €
+norm.
+14,90 €
+alennus
+80 %
+säästö
+11,90 €
+Saatavilla 5 kpl
+Logilink "slatwall" 13"-27" monitoripidike kaasujousella
+LogiLinkin järjestävä paneeli, jota kutsutaan myös "slatwall", tarjoaa...
+34,00 €
+Delock 5G LTE -antenni SMA-liittimellä, 3-5 dBi, kiinteä, monisuuntainen, valkoinen
+Delock 5G LTE -antenni SMA-liittimellä, 3-5...
+39,90 €
+Kierretyn parin (RJ45 ethernetkaapeli) erotustyökalu, (0,8 mm - 1,8 mm)
+Täydellinen valmistelutyökalu toimii kierretyissä UTP/STP-johtimissa...
+9,80 €
 Saatavilla 2 kpl
-Delock paneelikiinnike ST Simplex naaras - naaras, hopea / valkoinen
-Tätä Delockin valokuitupaneelikiinnikettä voidaan käyttää valokuitukaapeleiden...
-8,20 €
-Delock RJ45-jatkoliitin pölysuojalla DIN-kiskoon, suojaamaton, harmaa
-Tätä Delockin jatkopala-adapteria voidaan käyttää kahden...
-7,55 €
-Saatavilla 0 kpl
-Mousetrapper Lite musta
-Mousetrapper Lite Keskelle näppäimistön eteen sijoitettava Mousetrapper mahdollistaa hyvän ergonomisen...
-350,00 €
-CoreParts HP 14.4V 4400mAh 8Cell Black
-MicroBattery -akku HP Probook 4XXX-sarjan kannettaville ja yhteensopiville laitteille. Yhteensopivat tuotteet:
-HP/Compaq ProBook...
-52,00 €
-LogiLink PCI USB 2.0 4+1 lisäkortti
-USB 2.0 PCI -kortti
-4 x ulkoinen USB 2.0 Type A -naaras
-1 x...
-9,90 €
-Ethernetkaapeli Cat.6A 10G S/FTP PIMF valkoinen 3m
-RJ45 Ethernet kaapeli Cat.6A S/FTP, tuplasuojaus, myös parit
-10...
-8,90 €
-Saatavilla 9 kpl
+CoreParts 40W 20V 2A Lenovo Yoga 3/4 Pro virtalähde
+Lenovo Yoga 3 ja 4 Pro, Yoga 500, 700, 900 yhteensopiva virtalähde.
+Teho...
+28,00 €
+Saatavilla 1 kpl
+Sisäänkelautuva USB-C lataus- ja synkronointikaapeli 1m
+USB A uros - USB-C uros
+USB 2.0
+Lataus max...
+11,90 €
+Saatavilla 8 kpl
+Riviliitin adapteri 10 pin 3.81mm - DB9 uros/RS232
+10 pin riviliitinadapteri - uros sarjaporttiliitin Kuvaus
+Tämä sarjaliitäntään...
+10,50 €
+Saatavilla 4 kpl
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

@@ -1,4 +1,4 @@
-# SB-196 extradigital.eu · sitemap · https://www.extradigital.eu/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-196 extradigital.eu · sitemap · https://www.extradigital.eu/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 2026-11-17T09:00:00+03:00	https://www.extradigital.eu/
 2026-10-12T09:00:00+03:00	https://www.extradigital.eu/smartphone-accessories
 2025-10-23T09:00:00+03:00	https://www.extradigital.eu/smartphone-accessories/tempered-glass-screen-protectors

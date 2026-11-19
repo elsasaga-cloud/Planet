@@ -1,4 +1,4 @@
-# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-1064 portdepo.ru · home · https://portdepo.ru/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Беспроводное Wi-Fi оборудование Ubiquiti, MikroTik в России
 РЕГИСТРИРУЙСЯ И ПОЛУЧИ СКИДКУ СЕЙЧАС
 ×
@@ -294,7 +294,7 @@ Ubiquiti UniFi 5G Max Outdoor — Мощный уличный 5G-модемОб�
 Модель: U7-Outdoor
 Точка доступа Ubiquiti UniFi U7 Outdoor (U7-Outdoor)
 Ubiquiti U7 Outdoor — Точка доступа Wi‑Fi 7 (UniFi)ОбзорU7 Outdoor — это мощная уличная точка доступа Wi‑Fi 7 от Ubiquiti Inc., созданная для развёрты..
-26800 руб.
+26100 руб.
 В корзину ">
 В корзину
 В закладки
@@ -365,7 +365,7 @@ Ubiquiti airFiber 60 XG (AF60-XG) — магистральный радиомо�
 Модель: U7-Pro-XG-B
 Точка доступа Ubiquiti UniFi U7 Pro XG Black (U7-Pro-XG-B)
 Ubiquiti UniFi U7-Pro-XG — Потолочная 6-потоковая точка доступа Wi‑Fi 7 (10/5/2.5/1 GbE)ОбзорU7‑Pro‑XG — это потолочная 6-потоковая точка доступа Wi‑F..
-30500 руб.
+31700 руб.
 В корзину ">
 В корзину
 В закладки
@@ -374,7 +374,7 @@ Ubiquiti UniFi U7-Pro-XG — Потолочная 6-потоковая точк�
 Модель: RD-5G31-AC
 Антенна Ubiquiti RocketDish 5G-31 AC (RD-5G31-AC)
 Ubiquiti airMAX AC RocketDish 5 ГГц 31 дБи (RD-5G31-AC) — параболическая антенна для радиомостовОбзорUbiquiti RD-5G31-AC — это параболическая антенна ..
-43300 руб.
+44700 руб.
 В корзину ">
 В корзину
 В закладки
@@ -437,7 +437,7 @@ Ubiquiti UniFi Dream Machine Pro (UDM-Pro) — Корпоративное сет
 Модель: U7-Pro-Outdoor
 Точка доступа UBIQUITI UniFi U7 Pro Outdoor (U7-Pro-Outdoor)
 Ubiquiti U7-Pro-Outdoor — Всепогодная точка доступа Wi‑Fi 7 (UniFi)ОбзорU7-Pro-Outdoor — высокопроизводительная всепогодная точка доступа Wi‑Fi 7 от U..
-38400 руб.
+37800 руб.
 В корзину ">
 В корзину
 В закладки
@@ -456,7 +456,7 @@ MikroTik DISC Lite5 (RBDisc-5nD) — уличная точка доступа/к
 Модель: U7-Pro
 Точка доступа Ubiquiti UniFi U7 Pro (U7-Pro)
 Ubiquiti UniFi U7 Pro (U7-Pro) — потолочная точка доступа Wi-Fi 7 с поддержкой 6 ГГц, 6 пространственных потоков и аплинком 2,5 GbEОбзорUbiquiti UniFi..
-24100 руб.
+23600 руб.
 В корзину ">
 В корзину
 В закладки
@@ -484,7 +484,7 @@ Ubiquiti PowerBeam M2 400 (PBE-M2-400) — направленная антенн
 Быстрый просмотр
 Точка доступа Ubiquiti UniFi U6 Pro (U6-Pro)
 Ubiquiti U6 Professional (U6-Pro) — Высокопроизводительная точка доступа WiFi 6 (UniFi)ОбзорU6 Professional (U6-Pro) — это высокопроизводительная точк..
-20100 руб.
+19700 руб.
 В корзину ">
 В корзину
 В закладки
@@ -493,7 +493,7 @@ Ubiquiti U6 Professional (U6-Pro) — Высокопроизводительна
 Бестселлер
 Радиомост Ubiquiti LiteBeam 5AC Gen2 (LBE-5AC-Gen2)
 Ubiquiti airMAX LiteBeam 5AC Gen2 (LBE-5AC-Gen2) — компактная направленная антенна-радио 5 ГГц airMAX AC с усилением 23 dBi, пропускной способностью 4..
-10300 руб.
+9900 руб.
 В корзину ">
 В корзину
 В закладки
@@ -501,7 +501,7 @@ Ubiquiti airMAX LiteBeam 5AC Gen2 (LBE-5AC-Gen2) — компактная нап
 Быстрый просмотр
 Коммутатор Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE)
 Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE) — Управляемый L2-коммутатор с 8 портами Gigabit и 4 портами PoE+ОбзорUbiquiti UniFi Switch Lite 8 Po..
-14800 руб.
+14400 руб.
 В корзину ">
 В корзину
 В закладки
@@ -510,3 +510,4 @@ Ubiquiti UniFi Switch Lite 8 PoE (USW-Lite-8-POE) — Управляемый L2-
 MikroTik hAP ax Lite (L41G-2axD)
 MikroTik hAP ax lite (L41G-2axD) — Компактный Wi-Fi 6 роутер с RouterOS v7, 4 гигабитными портами и питанием USB-CОбзорMikroTik hAP ax lite — это идеа..
 Купить сейчас ">
+

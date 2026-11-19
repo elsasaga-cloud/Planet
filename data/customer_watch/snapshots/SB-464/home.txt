@@ -1,4 +1,4 @@
-# SB-464 HAMDAZTECH TECHNOLOGIES INC LLC · home · https://hamdaz.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-464 HAMDAZTECH TECHNOLOGIES INC LLC · home · https://hamdaz.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Hamdaz Technologies | IT, AI, Cybersecurity & ELV in Abu Dhabi
 Skip to content
 Technologies
@@ -213,7 +213,7 @@ View all services
 03 Business Process Automation and Digital Transformation Services Our consultancy focuses on driving business efficiency and innovation.
 04 Data Center/Infrastructure Services Our consultancy excels in providing robust Data Center and Infrastructure Services, ensuring reliability and scalability.
 05 Cloud Services & Migration Our consultancy excels in Cloud Services and Migration, ensuring seamless transitions and optimized cloud environments.
-06 Partner Services – MSFT Azure, AWS, GCP, OCI Specializing in partner services, our consultancy ensures optimal utilization of cloud platforms.
+06 Partner Services – Microsoft Azure, AWS, GCP, OCI Specializing in partner services, our consultancy ensures optimal utilization of cloud platforms.
 +32 More services
 Generative AI
 In the realm of Generative AI, our consultancy specializes in harnessing cutting-edge technologies to create intelligent and innovative solutions.
@@ -255,7 +255,7 @@ Cloud Migration Services
 Multi-Cloud Management
 Serverless Architecture Implementation
 Latest Technologies
-Partner Services – MSFT Azure, AWS, GCP, OCI
+Partner Services – Microsoft Azure, AWS, GCP, OCI
 Specializing in partner services, our consultancy ensures optimal utilization of cloud platforms.
 What's included
 Cloud Consultation and Adoption Planning
@@ -302,7 +302,7 @@ Ask on WhatsApp
 Send an enquiry
 3 services for “move to the cloud”
 Cloud Services & Migration Our consultancy excels in Cloud Services and Migration, ensuring seamless transitions and optimized cloud environments.
-Partner Services – MSFT Azure, AWS, GCP, OCI Specializing in partner services, our consultancy ensures optimal utilization of cloud platforms.
+Partner Services – Microsoft Azure, AWS, GCP, OCI Specializing in partner services, our consultancy ensures optimal utilization of cloud platforms.
 Data Center/Infrastructure Services Our consultancy excels in providing robust Data Center and Infrastructure Services, ensuring reliability and scalability.
 Ask on WhatsApp
 Send an enquiry
@@ -311,4 +311,4 @@ Managed AI SecOps (24/7 SOC) AI-native detection, decision and response around t
 Cybersecurity Assessment & Audit Risk and gap analysis against ISO/IEC 27001 and NIST CSF 2.0, penetration testing and a board-ready roadmap.
 Zero Trust, Identity & Data Security Zero Trust, SASE, identity, data loss prevention, email and web application security.
 Ransomware Resilience & Recovery Close the gap between endpoint controls and backups, with recovery assurance behind it.
-Information Security Servic
+Information 

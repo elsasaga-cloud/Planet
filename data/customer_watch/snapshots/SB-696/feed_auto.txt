@@ -1,4 +1,5 @@
-# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-17T10:52:12Z · HTTP 200
+# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+Tue, 17 Nov 2026 11:22:00 +0000	NEW!!!! VECOW SPC-8000: Ultra-Compact Fanless Computing for Edge AI and Industrial Applications	https://aironix.co.il/articles/new-vecow-spc-8000-ultra-compact-fanless-computing-for-edge-ai-and-industrial-applications/
 Mon, 16 Nov 2026 13:49:58 +0000	MOXA EDS-4000/G4000 Series: Secure and Resilient Industrial Networking	https://aironix.co.il/articles/moxa-eds-4000-g4000-series-secure-and-resilient-industrial-networking/
 Sun, 15 Nov 2026 07:57:28 +0000	NEW Winmate L156MT – 15.6″ Ultra-Rugged Laptop	https://aironix.co.il/articles/new-winmate-l156mt-15-6-ultra-rugged-laptop/
 Thu, 12 Nov 2026 08:14:28 +0000	Embedded Computing: 8 Trends Shaping the Industry in 2026–2030	https://aironix.co.il/articles/embedded-computing-8-trends-shaping-the-industry-in-2026-2030/
@@ -8,4 +9,3 @@ Sun, 08 Nov 2026 11:05:55 +0000	VECOW TGS-2000 – THE NEXT GENERATION OF EDGE A
 Sun, 18 May 2025 13:30:39 +0000	ORing & AIRONIX – Industrial Networking That Lasts	https://aironix.co.il/articles/oring-aironix-industrial-networking-that-lasts/
 Sun, 27 Apr 2025 12:22:19 +0000	Arestech’s IP66/IP69K Panel PC’s	https://aironix.co.il/articles/arestechs-ip66-ip69k-panel-pc/
 Sun, 27 Apr 2025 11:30:40 +0000	Rugged Robotic Controller Solutions	https://aironix.co.il/articles/rugged-robotic-controller-solutions/
-Tue, 12 Apr 2022 10:02:41 +0000	Rugged Notebook	https://aironix.co.il/articles/rugged-notebook/

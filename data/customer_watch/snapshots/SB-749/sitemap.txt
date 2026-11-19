@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -111,6 +111,16 @@
 	https://www.ecin.ca/shop/en-qsfp28-sr4-100g-sr4-qsfp28-850nm-mmf-100m-mpo-4785
 	https://www.ecin.ca/shop/cvr-qsfp28-sfp28-eci-100g-40g-to-25g-10g-qsfp28-to-sfp28-adapter-with-eeprom-cisco-compatible-3885
 	https://www.ecin.ca/shop/qsa-qsfp28-sfp28-100g-40g-to-25g-10g-qsfp28-to-sfp28-universal-qsa-adapter-multi-vendor-10802
+	https://www.ecin.ca/shop/en-sfp10g-bxu100-10g-bidi-sfp-100km-smf-simplex-lc-tx1490-rx1550-7726
+	https://www.ecin.ca/shop/en-sfp10g-bxd100-10g-bidi-sfp-100km-smf-simplex-lc-tx1550-rx1490-7727
+	https://www.ecin.ca/shop/en-sfp10g-bxu20-10g-bidi-sfp-20km-smf-simplex-lc-tx1270-rx1330-4834
+	https://www.ecin.ca/shop/en-sfp10g-bxd20-10g-bidi-sfp-20km-smf-simplex-lc-tx1330-rx1270-4835
+	https://www.ecin.ca/shop/en-sfp10g-bxu40-10g-bidi-sfp-40km-smf-simplex-lc-tx1270-rx1330-4836
+	https://www.ecin.ca/shop/en-sfp10g-bxd40-10g-bidi-sfp-40km-smf-simplex-lc-tx1330-rx1270-4837
+	https://www.ecin.ca/shop/en-sfp10g-bxu60-10g-bidi-sfp-60km-smf-simplex-lc-tx1270-rx1330-4838
+	https://www.ecin.ca/shop/en-sfp10g-bxd60-10g-bidi-sfp-60km-smf-simplex-lc-tx1330-rx1270-4839
+	https://www.ecin.ca/shop/en-sfp10g-bxu80-10g-bidi-sfp-80km-smf-simplex-lc-tx1490-rx1550-4840
+	https://www.ecin.ca/shop/en-sfp10g-bxd80-10g-bidi-sfp-80km-smf-simplex-lc-tx1550-rx1490-4841
 	https://www.ecin.ca/shop/7326-56x-o-ac-f-us-10g-25g-data-center-switch-dcs203-as7326-56x-48x25g-8x100g-ports-ac-psu-port-to-power-f2b-5318
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-ac-12-slot-mini-media-converter-rack-with-dual-ac-psu-input-ac100-240v-10740
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-dc-12-slot-mini-media-converter-rack-with-dual-dc-psu-8566
@@ -120,7 +130,7 @@
 	https://www.ecin.ca/shop/en-ymtp8f-om4-4m-1x-mtp-8f-female-to-2x-mtp-4-fibers-female-om4-polarity-b-breakout-length-0-5m-4m-5743
 	https://www.ecin.ca/shop/en-ymtp8f-om4-1m-1xmtp-8f-female-to-2xmtp-4-fibers-female-om4-polarity-b-1m-10229
 	https://www.ecin.ca/shop/en-itaprmc-2-2-tap-1u-rack-mount-chassis-2-slots-w-t-en-itap1l1g-rj45-87
-	https://www.ecin.ca/shop/en-q112-200-dr2-200g-qsfp112-dr2-optical-transceiver-nic-rhs-flat-top-2-100g-pam4-1310nm-500m-smf-mpo-12-2-100g-dr1-breakout-11180
+	https://www.ecin.ca/shop/en-q112-200-dr2-200g-qsfp112-dr2-transceiver-nic-flat-top-1310nm-500m-smf-mpo-12-2-100g-dr1-breakout-11180
 	https://www.ecin.ca/shop/en-s28-dac-2m-co-25g-sfp28-to-sfp28-passive-dac-2m-cisco-1116
 	https://www.ecin.ca/shop/en-s28-dac-3m-co-25g-sfp28-to-sfp28-passive-dac-3m-cisco-1117
 	https://www.ecin.ca/shop/en-s28-dac-5m-co-25g-sfp28-to-sfp28-passive-dac-5m-cisco-1119
@@ -132,13 +142,4 @@
 	https://www.ecin.ca/shop/en-qdd-srbd-400g-qsfp-dd-bidi-multimode-transceiver-sr4-2-srbd-mpo-100m-5720
 	https://www.ecin.ca/shop/en-q112-400-dr4-400g-qsfp112-dr4-transceiver-10927
 	https://www.ecin.ca/shop/en-q112-400-fr4-400g-qsfp112-fr4-transceiver-10928
-	https://www.ecin.ca/shop/en-q112-400-sr4-400g-qsfp112-sr4-transceiver-10926
-	https://www.ecin.ca/shop/en-q112-400-vr4-400g-qsfp112-vr4-transceiver-10925
-	https://www.ecin.ca/shop/en-osfp-sr4-rhs-400g-sr4-osfp-rhs-flat-top-pam4-850nm-100m-mtp-12-mmf-transceiver-10852
-	https://www.ecin.ca/shop/en-qdd-lr4-400g-lr4-qsfp-dd-10km-smf-fiber-lc-msa-5713
-	https://www.ecin.ca/shop/en-qdd-plr4-400g-plr4-xcvr-qsfp-dd-4x100g-lr1-10km-smf-fiber-mpo-mtp-msa-9280
-	https://www.ecin.ca/shop/en-osfp-sr8-400g-sr8-osfp-finned-top-pam4-850nm-100m-mpo-16-mmf-transceiver-5714
-	https://www.ecin.ca/shop/en-qdd-sr8-400g-sr8-qsfp-dd-xcvr-850nm-100m-mmf-mpo-16-apc-msa-5709
-	https://www.ecin.ca/shop/en-qdd-xdr4-400g-xdr4-qsfp-dd-dr4-2km-smf-mpo-12-apc-msa-5711
-	https://www.ecin.ca/shop/en-qdd-dco-zr-400g-zr-qsfp-dd-coherent-dco-up-to-120km-smf-fiber-lc-msa-8278
-	https://www.ecin.ca/shop/en-qdd-dco-zr-p-400g-zr-pro-qsfp-dd-coherent-dco-smf-fiber-lc-450km-80km-unamplified-r
+	https://www.ecin.ca/shop/en-q112-400

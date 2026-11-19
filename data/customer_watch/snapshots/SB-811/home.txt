@@ -1,4 +1,4 @@
-# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 eSoft – Verkkokauppa – eSoft – Verkkokauppa
 Siirry sisältöön
 eSoft - Verkkokauppa
@@ -18,10 +18,10 @@ Ale
 Asiakaspalvelu
 Kirjaudu
 TUOTEKATEGORIAT
-ADSL/VDSL/G.shdsl ( 35 ) ADSL-päätelaitteet ( 3 )
+ADSL/VDSL/G.shdsl ( 34 ) ADSL-päätelaitteet ( 3 )
 DSL/Telco tarvikkeet ( 9 )
 G.SHDSL-päätelaitteet ( 2 )
-VDSL-tuotteet ( 21 )
+VDSL-tuotteet ( 20 )
 Alennustuotteet ( 5 ) Esittely- ja poistotuotteet ( 5 )
 AV-tiedonsiirto ( 65 ) HDMI-jakajat ( 5 )
 HDMI-matriisikytkimet/kytkimet ( 6 )
@@ -136,81 +136,78 @@ WLAN-kaapelit ( 33 )
 WLAN-sovittimet ( 22 )
 WLAN-tukiasemat ( 4 )
 WLAN-ulkotukiasemat ( 6 )
-Näytetään tulokset 1–24 / 1974
+Näytetään tulokset 1–24 / 1968
 Lajittelu, oletustapa
 Lajittelu: ostetuin ensin
 Järjestä uusimman mukaan
 Lajittelu: halvin ensin
 Lajittelu: kallein ensin
-39,90 € veroton hinta 31,79 €
-One-Click fiber renser for LC 1.25mm LC/MU 800x cleans
-DatoLink DTL-ONE-CLICK-LC on valokuitujen puhdistuskynä LC/MU-liittimille. Helppokäyttöisellä kynällä voidaan puhdistaa naaras- ja uros- sekä eri hionnan (UPC/APC) liittimet. Puhdistuskynän kärjessä on leveä pölyämätön puhdistusliina, joka riittää yli 80
-7,90 € veroton hinta 6,29 €
-CAT6 U/UTP RJ45 2m RED Patch Cable, 24AWG LSZH
+220,00 € veroton hinta 175,30 €
+8x 10/100/1000, -40…+75C Industrial Switch, IP30
+PLANET IGS-801T on 8-porttinen teollisuus käyttöön suunniteltu Gigabitin Ethernet-kytkin laajennetulla käyttölämpötila-alueella. Tekniset tiedot: • 8x 10/100/1000Base-TX RJ-45 auto MDI/MDI-X • IP30 metallikotelo, DIN-kisko ja seinäkiinnitys • Käyttöjänni
+28,90 € veroton hinta 23,03 €
+TOPICA CCTV Camera Lens 6-60mm F:1.6, Auto Iris, CS-kierteet
+TOPICA VF660A on japanilaisvalmisteinen 6-60mm varifocal polttovälillä varustettu optiikka analogisiin runkokameroihin. CS-kierteillä varustettu linssi on varustettu lisäksi Auro Iris- toiminnolla.
+9,90 € veroton hinta 7,89 €
+RJ45 Coupler 1-to-2, black
+AVEC RJ45-COUPLER on muoviin valettu RJ-45 haaroituskappale kaikille RJ-45 kaapeleille. Suojatun sovittimen avulla saadaan esim. Ethernet-kaapelia helposti jatkettua tai jaettua fyysinen kaapeli kahteen eri pisteeseen. Huom: Sovitin on mekaaninen haaroiti
+131,90 € veroton hinta 105,10 €
+4x 10/100T PoE+ 2x100Base SFP -40…+85C Industrial PoE Switch, IP40
+AOA IES1204P-SFP on teollisuuskäyttöön suunniteltu 6-porttinen DIN-kiskoon asennettava Ethernet PoE kytkin laajennetulla käyttölämpötila-alueella. Ethernet-kytkin on varustettu 4x 10/100Base-T PoE+ kupariportilla sekä 2x 100Base-FX SFP-portilla. Tekniset
+13,90 € veroton hinta 11,08 €
+BIAODA virtakaapeli CEE 7/7-C13 3m Musta 16A/250V
+BIAODA D03-B-C13-3M on maadoitettu laitekaapeli suoralla shuko-pistokkeella laitteen ja seinärasian välille. Tuote on merkattu ja yksittäispakattu muovipussiin. Tekniset tiedot: • Liittimet: CEE 7/7 (suora), IEC 60320 C13 (suora) • Pituus: 3m • Väri: Mus
+274,90 € veroton hinta 219,04 €
+IQsocket Ethernet / IP Weather Station
+IQWS-4000 is a weather station with STORM detector and ethernet interface and embedded WEB server. Supported M2M communication protocols include SNMP, UDP and HTTP get. Unique features include: • M2M protocol compatibility with previous model GIOM 3000 •
+143,90 € veroton hinta 114,66 €
+Primeda Ethernet over TP Extender Kit 300-500m, w/o PSU
+Primeda PMD-IP-E-500M on VDSL-laitepari, jonka muodostaa siltaavan Ethernet-yhteyden puhelinkaapelissa 300-500m etäisyyksille kaapelityypistä riippuen jopa 100Mbit/s nopeudella. VDSL-tekniikan käyttökohteita ovat mm. teollisuusautomaatio, kulunvalvonta, k
+139,90 € veroton hinta 111,47 €
+SUNLUX 2D Scanner Industrial USB 40-470mm, 60 scan/s, IP54
+SUNLUX IH50 on teollisuuskäyttöön tarkoitettu johdollinen 1D/2D-viivakoodinlukija. Lukijassa on tarkka 1280×800 @ 60fps CMOS-kuvasensori edistyksellinen virheenkorjausominaisuus. IP65-suojaluokka ja iskunkestävä rakenne suojaavat laitetta pölyltä, roiskei
+24,90 € veroton hinta 19,84 €
+SC/LC/SM 9/125 OS2 10m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink PCSULU2SM-10 on laadukas 10m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuituparit
+8,90 € veroton hinta 7,09 €
+CAT6 U/UTP RJ45 3m PURPLE Patch Cable, 24AWG LSZH
 Laadukas Cat 6 Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 6-kaapeli soveltuu nopeisiin Gigabit Ethernet-yhteyksiin, mutta pienemmän vaimennuksen myötä tuo lisävarmuutta myös hitaampiin yhteyksiin. RoHS-sertifioitu tuote on yksittäispakattu muo
+43,90 € veroton hinta 34,98 €
+Shelly BLU Motion liike/valaisuusanturi Bluetooth
+Shelly BLU Motion on bluetooth-tekniikalla varustettu liiketunnistin, joka toimii yhdessä Shelly Plus ja Shelly Pro älyreleiden kanssa. Anturi tarjoaa nopean vasteajan sekä pitkäkestoista paristonkestoa (jopa 5v), joiden avulla voit olla aina ajan tasalla
+185,90 € veroton hinta 148,13 €
+8×10/100/1000(8x PoE+)+2xGb SFP/TP 120W LCD PoE Monitor
+PLANET GSD-1222VHP on 12-porttinen Ethernet PoE-kytkin, jossa on 8x 10/100/1000 Ethernet-porttia PoE+ virransyöttötuella, 2x 10/100/1000 kupariporttia sekä 2x SFP-moduulipaikkaa kuituyhteyksille. Selainhallittavassa kytkimessä on lisäksi LCD näyttö PoE v
 288,90 € veroton hinta 230,20 €
 ZEBEX Handsfree 2D Image USB, White
 ZEBEX Z-8062 on 2D-viivakoodinlukija, joka on suunniteltu lukemaan viivakoodeja älypuhelinten näytöiltä myös heikolla taustavalolla. Edistyksellisen optiikan ansiosta Z-8062 tulkitsee vaivattomasti suurimman osan 1D- ja 2D-viivakoodeista. Laajat skannaus
-259,90 € veroton hinta 207,09 €
-NANO PC J6412/2.0GHz, DDR4, 2x LAN 8x USB, RS-232, 2x HDMI, SIM, Audio, M.2
-IWILL N1221 on Intel Celeron J6412 -suorittimella varustettuerittäin pienikokoinen tietokone, jossa on 2x Gigabit LAN – kupariporttia, 8x USB ja 2x HDMI-porttia ja laajennusmahdollisuus Mini PCIe -moduuleille. Suorituskyvystä vastaa integroitu Intel Cel
-107,90 € veroton hinta 85,98 €
-USB 2.0 Hub 7-port 301-2010-27
-Tuotekoodi:DIGI-HUBPORT-7C : Valmistajan koodi:301-2010-27 : Tuotteen nimi:USB 2.0 Hub 7-port 301-2010-27 : Tuoteryhmä:Muut USB : Valmistaja:Digi International : Takuuaika:60 kk : Lisätiedot:Tuotesivu : Tuote-esite :
-114,90 € veroton hinta 91,55 €
-PLANET 1x RS-232/422/485 RJ45 Device Server -10…+60C Modbus
-PLANET ICS-110 on Ethernet-lähiverkkoon kytkettävä pienikokoinen sarjaporttipalvelin (Serial-over-IP) yhdellä RS-232/422/485-portilla ja Modbus tuella. Laitteen sarjaportti voidaan kytkeä mink hyvänsä sarjaliikennelaitteeseen tai-porttiin. PLANETin tieto
-47,90 € veroton hinta 38,17 €
-Temperature sensor for ZA10/ZA20 2m
-RGB-TEMP-2M on lämpötila-anturi 2m kaapelilla RGB ZA10/ZA20 NTP kellomalleihin.
-20,90 € veroton hinta 16,65 €
-LC/LC/MM 62.5/125 OM1 7m Duplex-kuitukaapeli Multimode
-DatoLink DTL-PCLULU2MMOM1-07 on laadukas valokuitulaitekaapeli ristikytkentätiloihin mediamuuntimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuituparit on merkattu kumm
-466,90 € veroton hinta 372,03 €
-NTP-aikakello 6-digit + Text, musta Ethernet/PoE 802.3af
-GlobalTime GT-D366-6SR on Ethernet-lähiverkkoon kytkettävä aluminikoteloitu 6-digitin (hh:mm:ss) LED-näytöllä varustettu kello, joka aikasynkronoi itsensä automaattisestiinternetin NTP-aikapalvelimilta. Kelloon voidaan ohjelmoida automaattiset aikavyöhykk
-34,90 € veroton hinta 27,81 €
-SimPal Ovianturi 434M FSK V2 Langaton
-SimPal WDS-051-V2 on langaton 434MHz-taajuudella toimiva magneettianturi puisille oville ja ikkunoille. Anturi toimii uusien SimPal-T40-V2, W230-V2, W240-V2, G212- V2 mallien kanssa. Anturin avulla SimPal tuotteista saadaan tehtyä varashälytinlaite kiinte
-46,90 € veroton hinta 37,37 €
-ZEBEX Z-3172/3272 Plus Stand Black
-ZEBEX ZEBEX-Z-3172+STAND-B on säädettävä pöytäteline (musta)ZEBEX Z-3172 ja Z-3272 Plus -viivakoodinlukijoille.
-126,90 € veroton hinta 101,12 €
-10/100/1000TX – 100/1000SFP -40…+75C Industrial Converter, IP-30
-PLANET IGT-805AT on teollisuuskäyttöön suunniteltu mediamuunnin yhdellä 10/100/1000Base-T portilla sekä yhdellä 100/1000Base-X SFP-moduulipaikalla. Tekniset tiedot: • 1x 10/100/1000BASE-T RJ45 with auto MDI / MDI-X function • 1x SFP interface, 100/1000BA
-75,90 € veroton hinta 60,48 €
-RaZberry 2 EU 868MHz
-RaZberry 2 muuttaa Raspberry Pi -tietokoneen täysiveriseksi Z-Wave-kotiautomaatio-ohjaimeksi. Pieni lisäkortti asennetaan suoraan Raspberry Pi:n GPIO-liittimeen, joten erillistä USB-ohjainta ei tarvita. Kortti saa käyttöjännitteensä Raspberry Pi:ltä ja ko
-61,90 € veroton hinta 49,32 €
-Mairdi Call Center Headset Binaural USB Noise Cancelling, black
-MAIRDI MRD-890DUC on entistä kehittyneempi USB-liitäntäinen Kevlar-vahvistettu sankaluuri kahdella kuulokkeella. MRD- 890DUC soveltuu niin toimistokäyttöön, etätyöskentelyyn kuinammattimaiseen call center käyttöympäristöön. MRD-890DUC on varustettu puheoh
-94,90 € veroton hinta 75,62 €
-Din-Rail Power Supply 48VDC 5A 240W
-WEHO DRP-240-48 on teollisuuskäyttöön suunniteltu DIN- kiskoon asennettava 48VDC virtalähde 240W tehonsyötöllä. Tekniset tiedot: • Ulostulojännite: 48VDC @ 5A, 240W – säädettävä: 43.2-52.8VDC • Sisääntulojännite: 88-264VAC tai 120-370VDC • Suojaukset: oi
-10,90 € veroton hinta 8,69 €
-CAT6A S/FTP Thin RJ45 3m GREY Patch Cable Latch Protection 30AWG, LSOH
-AVEC 6A30RSSTPZ on ohut ja elastisempi suojattu (S/FTP) CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715) RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. Suojattu kaapeli (S/FTP) käyttö estää ulkopuolisia häiriöiden lisäksi tehokkaasti parien väli
-119,90 € veroton hinta 95,54 €
-HENEX H310RC Wireless 2D Scanner USB/Cradle Bluetooth/WiFi, 640×480 @ 30scan/s, White
-HENEX H310RC on langaton akulla varustettu 1D/2D- viivakoodinlukija USB-liitännäisellä lataustelakalla. Lataustelakassa on sisäänrakennettu Bluetooth / 2.4GHz – tukiasema itse lukijalle ja se kytketään tietokoneeseen mukana toimitettavalla USB-kaapelilla.
+132,90 € veroton hinta 105,90 €
+Shelly PRO 4PM WiFi/LAN rele 4x 230VAC @ 16A Max load 40A
+Shelly Pro 4PM (V2) on älykkäästi ohjelmoitava ja etähallittava neljän (4x) vaiheen sähkökeskukseen asennettava (DIN) relekytkin, joka kytketään WiFi- tai LAN- verkkoon. Relekytkimen avulla voidaan ohjata verkkovirtoja päälle tai pois sähkölaitteissa kute
+18,90 € veroton hinta 15,06 €
+USB 2.0 Cable USB-A to USB-B 3m
+LS-USB-A-B-3M on laadukas USB 2.0 standardin mukainen välikaapeli, joka sopii esimerkiksi kiintolevylle, tulostimelle tai skannerille. Kaapelirakenne koostuu paksuista metallijohtimista sekä suojavaipasta, joita tarvitaan virtaa kuluttavien laitteiden kan
 24,90 € veroton hinta 19,84 €
-SMA(M)-N(M) välikaapeli 3m, low-loss
-ARRONNA SMAM-NM-3M on ulkokäyttöön soveltuva 3m antennikaapeli SMA(M) ja N(M)-liittimillä. Kaapelin valmistuksessa on käytetty laadukkaita liittimiä sekä RG- 159/U kaapelia, joilla tehohävikki on saatu minimoitua. Tekniset tiedot: • Pituus: 3m • Kaapelin
-185,90 € veroton hinta 148,13 €
-Netsys HomePNA 3.1 over Coax 200M CO 4x 10/100BaseT, 2x F-type Coax
-Netsys H-310H on keskusyksikkö kiinteistön TV- antennikaapelia hyödyntävä lähiverkon rakentamisessa. Laitetukee 61x asuntoa, joten se soveltuu useimpien taloyhtiöiden, yrityskiinteistöjen ja pienempien hotellien tietoliikenneverkkojen rakentamiseen. Tekn
-51,90 € veroton hinta 41,35 €
-Irroitettava yleistarra 54x101mm, 220 tarraa (rulla)
-Seiko SmartLabels SLP-RSRL on retail-paketoitu 220 irrotettavan tarran osoitetarrarulla, joka sopii Seikon SLP-600- ja SLP-800-sarjan tulostimiin. Tekniset tiedot: • Rullassa on 220 kpl 54 x 101 mm osoitetarraa. • Sopii mm. pakkaus- ja osoitemerkintöihi
-52,90 € veroton hinta 42,15 €
-LVSUN USB Charger 6-port, 51W/10.2A Desk-mount, Black
-LVSUN LS-6U on 6-porttinen pyöreä pöytämallinen USB-laturi 51W virransyöttökapasiteetilla. Laitteen USB-portit toimivatitsenäisesti ja se pystyy lataamaan 6x älypuhelinta (1A) tai 3x Tablettia (2.4A) + 3x älypuhelinta (1A) samanaikaisesti. Retailpakattu t
-30,90 € veroton hinta 24,62 €
-HEYI Langaton ovimagneetti-anturi 433MHz
-HEYI HY-20B on langaton ovimagneettianturi HEYI- varashälyttimiin. Omninaisuudet: • Taajuusalue: 433.92MHz • Kantama: 100m (avoin tila) • Automaattinen patterien testausmekanistmi • Hälyttää patterien matalasta jännitetasosta • Automaattinen lämpötilan k
-28,90 € veroton hinta 23,03 €
-LC/LC/SM 9/125 OS2 15m Duplex-kuitukaapeli Singlemode
-DatoLink PCLULU2SM-15 on laadukas 15m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuituparit
-41,90 € veroton hinta 33,39 €
-Kestävä osoitetarra 28x89mm, 260 tarraa (2x 130 rullaa)
-Seiko SmartLabels SLP-TML on retail-paketoitu 130 kestotarran osoitetarrarulla, joka sopii Seikon SLP-600- ja SLP-800-sarjan
+Wired Door Magnet NC/NO
+Tuotekoodi:KINGPIGEON-DM-01 : Valmistajan koodi:DM-01 : Tuotteen nimi:Wired Door Magnet NC/NO : Tuoteryhmä:Anturit/tarvikkeet hälyttimiin : Valmistaja:King Pigeon : Takuuaika:12 kk : Lisätiedot:Tuotesivu :
+10,90 € veroton hinta 8,69 €
+LC/LC/SM 9/125 OS2 1m Simplex Kytkentäkuitu Singlemode
+DatoLink PCLULU1SM-01 on laadukas 1m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) simplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuituparit
+17,90 € veroton hinta 14,26 €
+SC/LC/MM 50/125 OM3 2m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink PCSULU2MMOM3-02 on laadukas 2m OM3 monimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuitu
+136,00 € veroton hinta 108,37 €
+4×10/100+100Base-FX MM Industrial Switch, IP30
+PLANET ISW-511 on 5-porttinen Ethernet-kytkin teollisuusympäristöihin. DIN-kiskoon asennettavassa kytkimessä on 4x 10/100 Ethernet-porttia sekä1x multimode 100M-kuituportti. Tekniset tiedot: • 4x 10/100Base-TX RJ-45 with auto MDI/MDI-X function • 1x 100B
+6,90 € veroton hinta 5,50 €
+CAT5E U/UTP RJ45 3m RED Patch Cable 24AWG
+Laadukas Cat 5e Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 5e-kaapeli soveltuu nopeisiin Fast Ethernet- sekä Gigabit-verkkoihin. RoHS-sertifioitu tuote on yksittäispakattu muovipussiin tuotekoodi- ja tuotetyyppimerkinnöillä. Kaikkien Microdata
+113,90 € veroton hinta 90,76 €
+10/100/1000TX-100/1000SFP -40…+75C Industrial Converter, IP-30 compact size
+PLANET IGT-815AT on teollisuuskäyttöön suunniteltu mediamuunnin yhdellä 10/100/1000Base-T portilla sekä yhdellä SFP-moduulipaikalla (100/1000). Tekniset tiedot: • 1x 10/100/1000BASE-T RJ45 • 1x SFP slot, supporting 1000BASE-X and 100BASE-FX transceiver d
+43,90 € veroton hinta 34,98 €
+DTECH USB 2.0 10m Extension Cable (active) A Male – A Female
+DTECH DT-5026 on akviitinen 10m USB 2.0-kaapeli, joka signaalia vahvistavan mikropiirin avulla mahdollistaa USB- standardia pidemmät kaapeliyhteydet. Kaapeli on 100% yhteensopiva kaikkien tietokoneiden, käyttöjärjestelmien sekä USB-porttien ja -laitteiden
+61,90 € veroton hinta 49,32 €
+2G/LTE 3-4dBi Omni antenna 700-2700M 2x SMA 30cm, MIMO
+Kompakti ja tehokas MIMO-ominaisuuksilla varustettu ympärisäteilevä antenni, joka tarjoaa paremman 3G/LTE- signaalin kattavuuden ja luotettavuuden. Sopii erityisesti reitittimille ja IoT-laitteille, joissa tarvitaan vakaa m

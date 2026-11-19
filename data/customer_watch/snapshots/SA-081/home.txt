@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,37 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-Pigtail Multimod fibra 62,5/125
-Sc Pigtail 900Um Fiber 62,5/125 1,5 Mt
-Esegui l'accesso per visualizzare i prezzi
-+
-Connettori Keystone RJ45
-Keystone Cat. 6A UTP giallo Toolless / Punch Down 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-Passacavi, Pannelli ciechi e Barra di alimentazione
-Accoppiatore per Armadio a Pavimento RAL 9004 | 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-25 GB
-PLANET CB-DASFP25G-3M: cavo DAC SFP28 25G da 3 m
-Esegui l'accesso per visualizzare i prezzi
-+
 Esaurito
-Antenne e Cavi
-PLANET CB-QSFP100G-5M: cavo DAC QSFP28 100G da 5 m
+Olt
+PLANET XGPL-16000 OLT XGS-PON fibra FTTH 16 porte
 Esegui l'accesso per visualizzare i prezzi
 +
-Tappi per Frontalini
-Tappo cieco frontalino SC Simplex/LC Duplex, 20 pezzi | 4Net
+Bussole
+Adattatore per bussola LC duplex per supporto RJ45 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-Consumabili Fibra Ottica
-Alcool isopropilico spray per fibra ottica 200 ml | 4Net
+Accessori
+Gpon Olt Sfp Transceiver (Class C++, Optical Power: 4.5Dbm~10Dbm, Download 2.5G/Upload 1.25G, Tx: 1490Nm, Rx: 1310Nm) – 20Km
 Esegui l'accesso per visualizzare i prezzi
 +
-Stabilizzatori elettromeccanici monofase
-Stabilizzatore monofase 4 kVA ±20% | Eurogroup ORV420
+Muffole e Vassoi
+Vassoio portagiunti 24 FO impilabile 4Net | 92259
+Esegui l'accesso per visualizzare i prezzi
++
+Bretelle Multimodali Zip Duplex 62,5/125 OM1
+Bretella Fibra OM1 LC-SC 10m | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Box Ottici
+Csoe Box 48 Porte
+Esegui l'accesso per visualizzare i prezzi
++
+Bretelle Multimodali Zip Duplex 50/125 OM3
+Bretella Fibra OM3 SC-SC 30m | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Lunga Distanza
+4Net 4N-02GPEX30: Estensore PoE Gigabit 200mt – PoE extender doppia porta IEEE 802.3at/af per videosorveglianza e networking
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta

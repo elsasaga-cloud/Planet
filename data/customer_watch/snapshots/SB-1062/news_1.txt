@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -173,19 +173,22 @@ All
 Customer Reviews
 Employee Testimonials
 Partner Stories
-Odoo News
 Business Hacks
+Odoo News
 Success Stories
 Blogs
 All
 Customer Reviews
 Employee Testimonials
 Partner Stories
-Odoo News
 Business Hacks
+Odoo News
 Success Stories
 Loading...
-1796 result(s)
+1797 result(s)
+Odoo Africa and KPMG Nigeria partner to make premium ERP solutions accessible for mid-tier corporates
+Nov 18, 2026
+Odoo News
 Odoo expands partnership with Salt Edge and is the first to go live with Bulk Payments
 Nov 17, 2026
 Odoo News
@@ -205,13 +208,13 @@ The Pre-Shutdown Spring Clean for SMEs
 Nov 11, 2026
 Business Hacks
 Odoo Africa and USIU-Africa Sign MoU to Prepare Students for Jobs with ERP Skills
-Nov 10, 2026
+Nov 11, 2026
 Odoo News
 Digital from Day One: How Ding-Mu Leverages Odoo to Drive Precise Inventory and Agile Operations
-Nov 9, 2026
+Nov 10, 2026
 Customer Reviews
 Subscription Business Model: Definition & How to Manage It Right
-Nov 9, 2026
+Nov 10, 2026
 Business Hacks
 Payday Super and the December Squeeze
 Nov 9, 2026
@@ -219,9 +222,6 @@ Business Hacks
 Caelum Pets & Odoo: Efficient Centralization
 Nov 9, 2026
 Customer Reviews
-Odoo Launches Education Program in Sri Lanka
-Nov 8, 2026
-Odoo News
 1
 2
 3

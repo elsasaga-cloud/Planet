@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-19T10:30:38Z · HTTP 200
+Thu, 19 Nov 2026 09:00:00 +0000	Teltonika amplía su oferta de conectividad IoT con tres nuevos planes de datos: Global Plus, EuroCore y EuroCore+UK	https://www.davantel.com/planes-datos-iot-teltonika-global-plus-eurocore
 Wed, 18 Nov 2026 09:00:00 +0000	De sensor LoRaWAN a BMS BACnet: Una guía práctica con LG3120e + E2C en campo	https://www.davantel.com/de-sensor-lorawan-a-bms-bacnet-una-guia-practica-con-lg3120e-e2c-en-campo
 Tue, 17 Nov 2026 09:00:00 +0000	Despliegue masivo de routers: clonar configuraciones y provisionar 50 equipos sin ir uno a uno	https://www.davantel.com/despliegue-masivo-de-routers-clonar-configuraciones-y-provisionar-50-equipos-sin-ir-uno-a-uno
 Mon, 16 Nov 2026 09:00:00 +0000	Node-RED en Gateways Industriales de Edge Computing: Cómo Encaja en Proyectos de IIoT	https://www.davantel.com/node-red-en-gateways-industriales-de-edge-computing-como-encaja-en-proyectos-de-iiot
@@ -55,5 +56,4 @@ Wed, 12 Aug 2026 08:00:00 +0000	Edge control: ¿Cómo implementar Docker en rout
 Mon, 10 Aug 2026 08:00:00 +0000	Edge Router vs. Firewall: Construyendo un Perímetro Industrial Ágil y Seguro	https://www.davantel.com/edge-router-vs-firewall-construyendo-un-perimetro-industrial-agil-y-seguro
 Fri, 07 Aug 2026 08:00:00 +0000	Redundancia Sin Interrupciones en Redes Industriales: PRP y HSR frente a RSTP, MRP y ERPS	https://www.davantel.com/redundancia-sin-interrupciones-en-redes-industriales-prp-y-hsr-frente-a-rstp-mrp-y-erps
 Wed, 05 Aug 2026 08:00:00 +0000	¿Cómo elegir el mejor protocolo VPN en los routers Teltonika?	https://www.davantel.com/como-elegir-el-mejor-protocolo-vpn-en-los-routers-teltonika
-Mon, 03 Aug 2026 08:00:00 +0000	¿Qué es el protocolo LLDP y LLDP-MED?	https://www.davantel.com/que-es-el-protocolo-lldp-y-lldp-med
-Fri, 31 Jul 2026 07:47:48 +0000	¿Cómo configurar un PLC Siemens para que se pueda configurar remotamente con TIA Portal a través de un router con una IP pública fija y accesible?	https://www.davantel.com/como-conf
+Mon, 03 Aug 2026 08:00:00 +0000	¿Qué es el protocolo LLDP y LLDP-MED?	https://www.davantel.com/que-es-el-protocolo-lldp-y-l

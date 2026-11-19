@@ -1,4 +1,4 @@
-# SC-485 fxc.jp · news_2 · https://www.fxc.jp/engineer_blog/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-485 fxc.jp · news_2 · https://www.fxc.jp/engineer_blog/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 エンジニアブログ
 Engineer Blog - index.txt
 _
@@ -6,6 +6,11 @@ _
 ×
 FXC Engineer Blog
 // Main Index
+USBについて超詳しく
+USBの基礎知識編
+USBコネクタについて
+USBの電源供給編
+USBの転送方式編
 IPv6 編
 第一章: IPv6ってなに？IPv4との違いは？
 第二章: IPの歴史、インターネットの歴史
@@ -24,4 +29,4 @@ IPv6サブネット計算機
 FXCホームに戻る
 READY.
 SECTION: Article Topic
-UPDATE: 2026/04/02
+UPDATE: 2026/11/19

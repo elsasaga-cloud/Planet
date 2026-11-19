@@ -1,4 +1,4 @@
-# SB-652 comxus.com · home · https://comxus.com/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SB-652 comxus.com · home · https://comxus.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Comxus | Complete Networking Solutions For Harsh Environment
 Skip to content
 Home
@@ -158,23 +158,23 @@ CX-NA-24GS40I-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
+Name Email Company
 Company Name *
-Email Company Name
 Email *
 Submit
 CX-NPA-48GS4D-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
-Email Company Name
 Name *
+Email Company Name
 Company Name *
 Email *
 Submit
 CX-NPA-24GS4I-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
-Name Name Company
 Name *
+Name Company Name
 Company Name *
 Email *
 Submit
@@ -183,13 +183,13 @@ Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
 Company Name *
-Email Name Name
+Email Company Name
 Email *
 Submit
 CX-NPA-16GS4I-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
-Name Email Name
+Email Name Name
 Name *
 Company Name *
 Email *
@@ -197,15 +197,15 @@ Submit
 CX-SPD01-40K2P DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
+Email Company Name
 Name *
 Company Name *
-Company Name Email
 Email *
 Submit
 CX-SPDP02-10KS1 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
-Name Name Email
+Name Name Company
 Name *
 Company Name *
 Email *
@@ -220,15 +220,40 @@ CX-NMS DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
-Name Company Email
+Name Email Name
 Company Name *
 Email *
 Submit
 CX-PS-485-D DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
+Name Email Company
 Name *
-Company Email Name
+Company Name *
+Email *
+Submit
+CX-PS-487-R DATASHEET DOWNLOAD
+Enter your details to receive the datasheet instantly in your email.
+Please enable JavaScript in your browser to complete this form.
+Name *
+Name Company Email
+Company Name *
+Email *
+Submit
+Get A Quote
+Please fill this form to get best price for projects.
+Please enable JavaScript in your browser to complete this form.
+Company Name Email
+Name *
+Company Name *
+Email *
+Your Message
+Submit
+CX-ND-0GSF24S20-L3 DATASHEET DOWNLOAD
+Enter your details to receive the datasheet instantly in your email.
+Please enable JavaScript in your browser to complete this form.
+Email Company Name
+Name *
 Company Name *
 Email *
 Submit
@@ -237,31 +262,6 @@ Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
 Name Name Company
-Company Name *
-Email *
-Submit
-Get A Quote
-Please fill this form to get best price for projects.
-Please enable JavaScript in your browser to complete this form.
-Name *
-Company Name *
-Your Name Message
-Email *
-Your Message
-Submit
-CX-ND-0GSF24S20-L3 DATASHEET DOWNLOAD
-Enter your details to receive the datasheet instantly in your email.
-Please enable JavaScript in your browser to complete this form.
-Email Name Name
-Name *
-Company Name *
-Email *
-Submit
-CX-PS-487-R DATASHEET DOWNLOAD
-Enter your details to receive the datasheet instantly in your email.
-Please enable JavaScript in your browser to complete this form.
-Name *
-Company Name Name
 Company Name *
 Email *
 Submit
@@ -269,8 +269,8 @@ CX-PS-482-D DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
+Email Name Company
 Company Name *
-Name Company Email
 Email *
 Submit
 CX-nPA-4GS2I-L2 DATASHEET DOWNLOAD
@@ -278,48 +278,48 @@ Enter your details to receive the datasheet instantly in your email.
 CX-NPA-8GS4I-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
+Company Email Name
 Name *
 Company Name *
-Name Company Name
 Email *
 Submit
 CX-NPA-16GS2I-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
+Email Name Company
 Name *
 Company Name *
-Name Email Company
 Email *
 Submit
 CX-NA-8GSF24S40-L3 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
-Name Name Company
 Company Name *
+Company Name Email
 Email *
 Submit
 CX-NPA-1GS1l-MC DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
-Name Email Company
 Name *
 Company Name *
+Name Name Company
 Email *
 Submit
 CX-NPA-8GS2I-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
+Email Name Company
 Name *
 Company Name *
-Name Company Name
 Email *
 Submit
 CX-NA-0GSF12S0-L3 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
-Name Company Name
+Name Email Name
 Company Name *
 Email *
 Submit
@@ -328,7 +328,7 @@ Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
 Company Name *
-Company Email Name
+Email Name Name
 Email *
 Submit
 CX-NA-0GSF48S60-L3 DATASHEET DOWNLOAD
@@ -336,7 +336,7 @@ Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
 Company Name *
-Company Email Name
+Name Name Email
 Email *
 Submit
 CX-NPA-4GS2D-L2 DATASHEET DOWNLOAD
@@ -351,10 +351,10 @@ CX-NPA-8GS2D-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
 Please enable JavaScript in your browser to complete this form.
 Name *
-Email Name Company
+Name Email Name
 Company Name *
 Email *
 Submit
 CX-NPA-8GS4D-L2 DATASHEET DOWNLOAD
 Enter your details to receive the datasheet instantly in your email.
-Please enable JavaScript in your browser to com
+Please enable JavaScript in your browser to compl

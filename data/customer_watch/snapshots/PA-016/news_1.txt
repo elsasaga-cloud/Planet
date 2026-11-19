@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-18T10:22:47Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -74,14 +74,15 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
+Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
+Jednostki główne
+Licencje
+Akcesoria
 Lampowe
 Laserowe
 Akcesoria
@@ -89,32 +90,34 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
-Grabbery
+Splittery HDMI
+Stacje dokujące
 Uchwyty do projektorów
 Kable
 Extendery
-Splittery HDMI
-Stacje dokujące
 Uchwyty do monitorów
 HDMI
-USB
 USB A
 USB C
+Przedłużacze USB A
+HDMI
+USB
 Stałe
 Uchylne
 Na ramieniu
 Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
-Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -140,11 +143,11 @@ Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Higiena
 Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
-Higiena
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
@@ -196,13 +199,13 @@ Wróć do:
 Przewodowe
 Bezprzewodowe
 Interkomy
+Karty i breloki
+Elektrozaczepy
+Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
 Daszki
-Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -361,14 +364,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
-Głośniki
-Wzmacniacze
-Miksery
-Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
+Głośniki
+Wzmacniacze
+Miksery
+Matryce
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,14 +384,15 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
+Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
+Jednostki główne
+Licencje
+Akcesoria
 Lampowe
 Laserowe
 Akcesoria
@@ -396,32 +400,34 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
-Grabbery
+Splittery HDMI
+Stacje dokujące
 Uchwyty do projektorów
 Kable
 Extendery
-Splittery HDMI
-Stacje dokujące
 Uchwyty do monitorów
 HDMI
-USB
 USB A
 USB C
+Przedłużacze USB A
+HDMI
+USB
 Stałe
 Uchylne
 Na ramieniu
 Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
-Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -452,11 +458,11 @@ Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Higiena
 Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
-Higiena
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
@@ -516,13 +522,13 @@ Wielorodzinne
 Przewodowe
 Bezprzewodowe
 Interkomy
+Karty i breloki
+Elektrozaczepy
+Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
 Daszki
-Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -1007,11 +1013,4 @@ zestaw
 helpdesk
 biuro obsługi klienta
 call center
-sprzęt telekomunikacyjny
-open space
-Jabra
-seria Evolve
-redukcja szumów
-PLANET
-Grandstream
-outs
+sprzęt telek

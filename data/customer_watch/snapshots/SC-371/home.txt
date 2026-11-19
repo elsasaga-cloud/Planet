@@ -1,4 +1,4 @@
-# SC-371 Visiotech · home · https://www.visiotechsecurity.com/en/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# SC-371 Visiotech · home · https://www.visiotechsecurity.com/en/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Visiotech | Security Systems Supplier
 Products IP
 Analogue CCTV
@@ -241,6 +241,11 @@ Detector testers
 Standalone Anka
 Ajax
 X-Sense
+Kilsen Central
+Detectors
+Sirens
+Modules
+Axendis
 ZKTeco Controllers
 Readers
 Standalone
@@ -345,9 +350,9 @@ Panels
 Accessories
 Accessories Electric strikes
 Door closers and springs
+Cards and Key Rings
 Push buttons
 Cables
-Cards and key rings
 Safire Smart Panels
 Monitors
 Nivian

@@ -1,4 +1,4 @@
-# XC-M189 Ekanet Soluciones, S.L. · home · https://ekanet.es/ · fetched 2026-11-18T10:22:47Z · HTTP 200
+# XC-M189 Ekanet Soluciones, S.L. · home · https://ekanet.es/ · fetched 2026-11-19T10:30:38Z · HTTP 200
 Ekanet, mayorista de material para redes de voz y datos, fibra óptica.
 usuario
 Dirección de correo electrónico
@@ -178,13 +178,12 @@ Fibra óptica
 Cable de fibra óptica
 Latiguillos de fibra óptica
 Latiguillo Monomodo APC (PAU / FTTH)
-Latiguillos monomodo UPC/UPC
 Latiguillos monomodo UPC/APC
+Latiguillos monomodo Dúplex UPC
+Latiguillos monomodo Simplex UPC
 Latiguillos OM3 MM 50/125
 Latiguillos OM4 MM 50/125
 Latiguillos OM5 MM 50/125
-Latiguillos Dúplex
-Latiguillos Simplex
 Bandejas fibra óptica
 cajas de fibra óptica
 PAU de fibra óptica
@@ -572,13 +571,12 @@ Fibra óptica
 Cable de fibra óptica
 Latiguillos de fibra óptica
 Latiguillo Monomodo APC (PAU / FTTH)
-Latiguillos monomodo UPC/UPC
 Latiguillos monomodo UPC/APC
+Latiguillos monomodo Dúplex UPC
+Latiguillos monomodo Simplex UPC
 Latiguillos OM3 MM 50/125
 Latiguillos OM4 MM 50/125
 Latiguillos OM5 MM 50/125
-Latiguillos Dúplex
-Latiguillos Simplex
 Bandejas fibra óptica
 cajas de fibra óptica
 PAU de fibra óptica
