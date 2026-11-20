@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 2026-11-19T02:03:31+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
 2026-11-19T02:04:28+00:00	https://www.xlrsecurity.com/hdd-calculator/
@@ -35,13 +35,19 @@
 2025-04-17T19:27:42+00:00	https://www.xlrsecurity.com/warehouses-factories/
 2023-03-17T18:33:16+00:00	https://www.xlrsecurity.com/alarm-intrusion/
 2023-02-01T22:26:43+00:00	https://www.xlrsecurity.com/access-control/
+2026-11-19T21:28:29+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky8tb/
+2026-11-19T21:28:28+00:00	https://www.xlrsecurity.com/product/hdd-wd-pur8tb/
+2026-11-19T18:12:03+00:00	https://www.xlrsecurity.com/product/tr-se45-a/
+2026-11-19T18:09:25+00:00	https://www.xlrsecurity.com/product/ae-tr-ce45/
+2026-11-19T08:25:37+00:00	https://www.xlrsecurity.com/product/ipc3608sb-adf16km-i0/
+2026-11-19T08:25:37+00:00	https://www.xlrsecurity.com/product/ipc6324lwh-ax5c-vg2/
+2026-11-19T08:25:36+00:00	https://www.xlrsecurity.com/product/ipc94144sfw-x25-f40c/
 2026-11-18T23:34:17+00:00	https://www.xlrsecurity.com/product/cpe5/
 2026-11-18T23:34:04+00:00	https://www.xlrsecurity.com/product/l6lite/
 2026-11-18T23:33:46+00:00	https://www.xlrsecurity.com/product/lcs-8gs-p/
 2026-11-18T21:25:22+00:00	https://www.xlrsecurity.com/product/unv-kit-301-p4-4t4dl-1tb/
 2026-11-18T18:25:42+00:00	https://www.xlrsecurity.com/product/ec-t4f28m-dl/
 2026-11-18T00:41:06+00:00	https://www.xlrsecurity.com/product/ipc6612sr-x33-vg/
-2026-11-17T16:25:45+00:00	https://www.xlrsecurity.com/product/ipc94144sfw-x25-f40c/
 2026-11-17T16:25:45+00:00	https://www.xlrsecurity.com/product/cab-lc2100a-cmp-wh-in/
 2026-11-17T15:25:20+00:00	https://www.xlrsecurity.com/product/ipc2318sr-adf28km-wp/
 2026-11-17T15:25:19+00:00	https://www.xlrsecurity.com/product/ae-tr-jb05-b-in/
@@ -64,12 +70,10 @@
 2026-11-14T08:25:41+00:00	https://www.xlrsecurity.com/product/ipc3224ss-adf28k-i1/
 2026-11-14T08:25:41+00:00	https://www.xlrsecurity.com/product/mw-lc22-uniview-22-inch-led-monitor/
 2026-11-14T08:25:40+00:00	https://www.xlrsecurity.com/product/ae-tr-jb03-i-in/
-2026-11-12T15:25:22+00:00	https://www.xlrsecurity.com/product/ipc3608sb-adf16km-i0/
 2026-11-11T14:25:20+00:00	https://www.xlrsecurity.com/product/ipc3534sr4-adzk-h/
 2026-11-11T09:26:14+00:00	https://www.xlrsecurity.com/product/ipc3628sr-adf40km-wp/
 2026-11-11T09:26:13+00:00	https://www.xlrsecurity.com/product/nvr501-08b-p8/
 2026-11-10T23:07:23+00:00	https://www.xlrsecurity.com/product/l6pro-t/
-2026-11-10T22:40:24+00:00	https://www.xlrsecurity.com/product/ipc6324lwh-ax5c-vg2/
 2026-11-10T21:25:20+00:00	https://www.xlrsecurity.com/product/xvr302-32q4/
 2026-11-10T16:25:41+00:00	https://www.xlrsecurity.com/product/pw2020-4tenc11-ex/
 2026-11-10T08:26:43+00:00	https://www.xlrsecurity.com/product/l7-w/
@@ -118,7 +122,6 @@
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-wm03-d-bk/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-jb07-d-in-bk/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-jb03-i-in-bk/
-2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-se45-a/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-up06-c-in/
 2026-10-31T04:25:49+00:00	https://www.xlrsecurity.com/product/ipc3628sr-adf28km-wp/
 2026-10-29T20:25:37+00:00	https://www.xlrsecurity.com/product/xvr301-08q4/
@@ -126,7 +129,6 @@
 2026-10-28T16:25:23+00:00	https://www.xlrsecurity.com/product/tic2a32sa-f10-4f8ac-i1/
 2026-10-28T05:25:42+00:00	https://www.xlrsecurity.com/product/ipc3k28se-adf28kmc-dl-i0/
 2026-10-27T17:25:32+00:00	https://www.xlrsecurity.com/product/xlr-pwr-24vac/
-2026-10-26T21:26:14+00:00	https://www.xlrsecurity.com/product/ae-tr-ce45/
 2026-10-26T19:36:04+00:00	https://www.xlrsecurity.com/product/ipc3618sr-adf40km-h/
 2026-10-25T21:01:13+00:00	https://www.xlrsecurity.com/blog/how-to-capture-license-plates-with-univiews-8mp-owlview-plus/
 2026-10-24T23:25:25+00:00	https://www.xlrsecurity.com/product/ipc3638ss-adf28kmc-i1-bk/
@@ -153,6 +155,4 @@
 2026-10-14T14:25:24+00:00	https://www.xlrsecurity.com/product/ipc3635ss-adf28kmc-i1/
 2026-10-11T07:26:01+00:00	https://www.xlrsecurity.com/product/ed-r1/
 2026-10-09T21:25:18+00:00	https://www.xlrsecurity.com/product/ipc325ss-adf40k-i1/
-2026-10-09T21:00:27+00:00	https://www.xlrsecurity.com/product/ipc2a14lp-adf40kc-4g-us/
-2026-10-09T13:25:27+00:00	https://www.xlrsecurity.com/product/ipc816sb-adf16kmc-i1/
-2026-10-09T12:25:33+00:00	
+2026-10-09T21:00:27+00:00	https://www.xlrse

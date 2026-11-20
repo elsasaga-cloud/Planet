@@ -1,5 +1,6 @@
-# SB-974 b-plus.com · youtube · https://www.youtube.com/@b-plus-group · fetched 2026-11-19T10:30:38Z · HTTP 200
-2026-11-17T13:57:37+00:00	b-plus LOGifyer Erklärvideo	https://www.youtube.com/watch?v=3SgZ1AzR-_o
+# SB-974 b-plus.com · youtube · https://www.youtube.com/@b-plus-group · fetched 2026-11-20T10:12:13Z · HTTP 200
+2026-11-19T13:12:38+00:00	LOGifyer - the all-in-one logging solution from b-plus	https://www.youtube.com/watch?v=h-oaFg0Q5XA
+2026-11-19T10:57:45+00:00	TechTalk mit b-plus - Podcast Folge1 Automotive Ethernet Überblick 2026 mit Experte Erick Parra	https://www.youtube.com/watch?v=U6NbJL-NJAI
 2026-10-02T10:06:34+00:00	Closing the Real-to-Sim Gap – Turning Highway Drives into Simulation-Ready Datasets	https://www.youtube.com/watch?v=51Wo8qeIn4o
 2026-09-10T10:27:26+00:00	Livestream von b-plus Group	https://www.youtube.com/watch?v=A0uYYJE0UF0
 2026-08-31T14:16:41+00:00	Experience CONiX Testflleet V3.10 - Recordings Feature	https://www.youtube.com/watch?v=2ABw2xaSnx0
@@ -13,4 +14,3 @@
 2024-09-26T06:31:39+00:00	b-plus CONiX Testfleet Solution (Learning) - Functionality and user-friendliness	https://www.youtube.com/watch?v=pm-4K81jfNQ
 2023-11-24T07:01:46+00:00	RAW Data Logging Solution AVETO.dps	https://www.youtube.com/watch?v=e3SKFoluLaM
 2023-11-02T09:54:19+00:00	NETLion 10G – Automotive Ethernet Converter for Networking up to 10 Gbit/s for 2,5/5/10GBASE-T1	https://www.youtube.com/watch?v=E_9eU03qAdg
-2023-10-31T12:30:51+00:00	b-plus walkaround at Intergeo 2023	https://www.youtube.com/shorts/UqxUxPpW1H0

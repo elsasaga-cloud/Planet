@@ -1,6 +1,6 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 	https://market-telecom.kz/
-2026-11-18	https://market-telecom.kz/blog
+2026-11-20	https://market-telecom.kz/blog
 2026-11-09	https://market-telecom.kz/services
 2026-11-09	https://market-telecom.kz/products
 2026-11-09	https://market-telecom.kz/about_shop
@@ -82,7 +82,7 @@
 2026-09-03	https://market-telecom.kz/blog/kolichestvi-tochek-dostupa-wi-fi
 2026-10-06	https://market-telecom.kz/blog/stabilizator-na-dom
 2026-09-08	https://market-telecom.kz/blog/kak-vybrat-videonablyudenie
-2026-09-15	https://market-telecom.kz/blog/invertor-akkumulyator-raschet
+2026-11-20	https://market-telecom.kz/blog/invertor-akkumulyator-raschet
 2026-08-15	https://market-telecom.kz/blog/uchet-vremeni-skud
 2026-09-02	https://market-telecom.kz/blog/stabilizatory
 2026-10-06	https://market-telecom.kz/blog/low-dc
@@ -157,8 +157,8 @@
 2025-10-25	https://market-telecom.kz/blog/public-wifi
 2026-10-20	https://market-telecom.kz/blog/utp-305
 2026-11-10	https://market-telecom.kz/blog/nfc-mfu
-2026-09-29	https://market-telecom.kz/blog/game-ups
-2025-09-25	https://market-telecom.kz/blog/sfp-blog
+2026-11-20	https://market-telecom.kz/blog/game-ups
+2026-11-20	https://market-telecom.kz/blog/sfp-blog
 2025-10-28	https://market-telecom.kz/blog/dahua-sklad
 2026-09-26	https://market-telecom.kz/blog/o-standarte-19-dyujmov
 2026-11-10	https://market-telecom.kz/blog/kak-vybrat-mfu-dlya-nebolshogo-ofisa-na-35-sotrudnikov
@@ -166,7 +166,7 @@
 2026-02-02	https://market-telecom.kz/blog/ups-med
 2025-10-01	https://market-telecom.kz/blog/ucheba-isss
 2025-11-27	https://market-telecom.kz/blog/raciya-pole
-2026-11-05	https://market-telecom.kz/blog/business-ups
+2026-11-20	https://market-telecom.kz/blog/business-ups
 2026-04-25	https://market-telecom.kz/blog/speed-internet
 2026-05-28	https://market-telecom.kz/blog/skud-vybor
 2026-05-30	https://market-telecom.kz/blog/hdd-archive

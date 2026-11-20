@@ -1,4 +1,4 @@
-# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy
 Pn–Pt – · +48 504 500 007 info@ctr.pl
 O nas Pomoc i FAQ
@@ -19,8 +19,8 @@ PoE: tak 270
 Kanały: 4 116
 Kanały: 8 160
 Kanały: 16 202
-Switche PoE / Sieć 438 Typ: niezarządzalny 141
-Typ: przemysłowe 79
+Switche PoE / Sieć 437 Typ: niezarządzalny 141
+Typ: przemysłowe 78
 Prędkość: Gigabit 222
 Porty: 8 79
 Porty: 16 53
@@ -43,9 +43,9 @@ Zestawy monitoringu analogowego 65 Standard: AHD 32
 Ilość kamer: 4 22
 Ilość kamer: 8 24
 Polecane Kamery IP Zestawy gotowe
-Monitoring analogowy 966 › Monitoring analogowy
-Zobacz całą kategorię (966) →
-Kamery analogowe (4w1 / AHD / TVI / CVI) 653 Kamery analogowe zewnętrzne 599
+Monitoring analogowy 965 › Monitoring analogowy
+Zobacz całą kategorię (965) →
+Kamery analogowe (4w1 / AHD / TVI / CVI) 652 Kamery analogowe zewnętrzne 598
 Kamery analogowe wewnętrzne 79
 Kamery analogowe PTZ 47
 Rejestratory DVR/XVR 361 Hybryda: analog+IP 186
@@ -86,15 +86,15 @@ Manipulatory / klawiatury 98 Manipulatory LCD 63
 Manipulatory LED 35
 Manipulatory dotykowe 34
 Polecane Kamery IP Zestawy gotowe
-Wideodomofony i kontrola dostępu 970 › Wideodomofony i kontrola dostępu
-Zobacz całą kategorię (970) →
+Wideodomofony i kontrola dostępu 971 › Wideodomofony i kontrola dostępu
+Zobacz całą kategorię (971) →
 Wideodomofony IP/Wi-Fi 161 Stacje bramowe 92
 Monitory wewnętrzne 56
 Zestawy wideodomofonowe IP 25
 Wideodomofony 2-żyłowe 47 Zestawy 2-żyłowe 24
 Monitory 2-żyłowe 27
 Stacje bramowe 2-żyłowe 17
-Elektrozaczepy / zwory 95 Zwory elektromagnetyczne 32
+Elektrozaczepy / zwory 96 Zwory elektromagnetyczne 32
 Zamki elektryczne 22
 Akcesoria montażowe do zamków 37
 Kontrola dostępu 733 Kontrolery dostępu 331
@@ -201,7 +201,7 @@ Cenniki Baza wiedzy Instalacje Kontakt O nas
 Monitoring IP Zestawy monitoringu Monitoring analogowy Alarmy Wideodomofony i kontrola dostępu
 Cenniki Instalacje Kontakt Baza wiedzy
 Kategorie
-Monitoring IP 5045 Zestawy monitoringu 196 Monitoring analogowy 966 Alarmy 625 Wideodomofony i kontrola dostępu 970 Akcesoria 2778 Marki
+Monitoring IP 5045 Zestawy monitoringu 196 Monitoring analogowy 965 Alarmy 625 Wideodomofony i kontrola dostępu 971 Akcesoria 2778 Marki
 ◆ Promocja tygodnia
 LC-CUBE PTZ
 -35%
@@ -314,11 +314,11 @@ Monitoring IP
 → Zestawy monitoringu
 196 produktów
 → Monitoring analogowy
-966 produktów
+965 produktów
 → Alarmy
 625 produktów
 → Wideodomofony i kontrola dostępu
-970 produktów
+971 produktów
 → Akcesoria
 2778 produktów
 → Marki
@@ -397,7 +397,7 @@ Technologie i Sprzęt 15 min czytania
 Rozpoznawanie tablic rejestracyjnych przez kamery IP
 07.11.2025
 Technologie i Sprzęt 4 min czytania
-Nowa kamera GeoVision GeoVision GV-GBLN4800 – Kamera IP Bullet 4MP z Full Color AI - co musisz wiedzieć
+Nowa kamera GeoVision GV-GBLN4800 – Kamera IP Bullet 4MP z Full Color AI - co musisz wiedzieć
 02.11.2025
 Instalacja i Praktyczne Porady 15 min czytania
 Instalacja kamer kopułkowych Hanwha Vision: Przewodnik krok po kroku

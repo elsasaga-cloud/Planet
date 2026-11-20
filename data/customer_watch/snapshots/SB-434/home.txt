@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -100,6 +100,7 @@ WIFI industrial y puntos de acceso
 Extensor Ethernet
 Procesamiento de datos
 Panel PC
+Terminales de cabecera
 Panel PC Advantech
 Panel PC Android
 Pantalla táctil industrial
@@ -275,17 +276,17 @@ ADDERLink INFINITY 2122T - IP KVM extender Transmisor
 1.516,00 €*
 Barix RetailPlayer M400 - IP Audio Decoder
 Descubrir
+Niseva XE33-1C-LoRa - Gateway LoRa
+Milesight UG65-L04EU-868M-EA - LoRaWAN Gateway semi-industrial
+0,00 €*
+Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor
+Kerlink Wirnet iStation M2 - LoRaWAN Gateway
+Kerlink Wirnet iEdge - LoRaWAN Gateway para Smart Building
 Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor
-Milesight UG67 - LoRaWAN Gateway Outdoor
-Gateway de red privada Advantech WISE-3610 Wireless IoT LoRa
-Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor en Helium
-Milesight UG56 - LoRaWAN Gateway industrial
 Kerlink Wirnet iStation - LoRaWAN Gateway outdoor
-Milesight SG50 - LoRaWAN Gateway solar
-Milesight UG63 - Mini LoRaWAN Gateway
-LoRaWAN gateway outdoor MultiTech Conduit IP67
-193,00 €*
-Kerlink Wirnet iZeptoCell Ethernet - LoRaWAN Gateway indoor Ethernet
+Kerlink Wirnet iZeptoCell Cellular - LoRaWAN Gateway indoor celular
+Kerlink Wirnet iFemtoCell - LoRaWAN Gateway indoor en Helium
+Kerlink Wirnet iFemtoCell-evolution - LoRaWAN Gateway indoor
 Moxa MPC-3070W - Panel PC fanless de 7"
 Moxa MPC-3100 - Panel PC fanless de 10.4"
 Moxa MPC-3120 - Panel PC fanless de 12.1"

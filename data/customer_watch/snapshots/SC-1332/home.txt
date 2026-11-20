@@ -1,16 +1,16 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-Indoor Access Points
 WiFi & Home Networking
+Indoor Access Points
 Outdoor Access Points
 Fibre Networking
 Audio Visual
@@ -31,13 +31,13 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
-Indoor Access Points
 WiFi & Home Networking
+Indoor Access Points
 Outdoor Access Points
 Fibre Networking
 Audio Visual

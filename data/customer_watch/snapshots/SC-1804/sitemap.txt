@@ -1,4 +1,4 @@
-# SC-1804 indraheera.com · sitemap · https://indraheera.org/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1804 indraheera.com · sitemap · https://indraheera.org/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 	https://indraheera.org/
 	https://indraheera.org/shop
 	https://indraheera.org/blog
@@ -125,7 +125,7 @@
 	https://indraheera.org/shop/fiber-optic-patch-cord-coc9fcfc10s
 	https://indraheera.org/shop/fiber-optic-patch-cord-coc9fc5s
 	https://indraheera.org/shop/cat6-utp-patch-cord-cuc5g
-	https://indraheera.org/shop/networking-switch-sw3246tm
+	https://indraheera.org/shop/networking-switch-sw3246tm-v2
 	https://indraheera.org/shop/kvm-switch-kv1708ms
 	https://indraheera.org/shop/fiber-patch-panel-fd148slc
 	https://indraheera.org/shop/networking-switch-sw3x24t2hm
@@ -218,4 +218,4 @@
 	https://indraheera.org/shop/lan-tester-lt4511
 	https://indraheera.org/shop/wire-tracker-wt4511
 	https://indraheera.org/shop/digital-multimeter-dm3a
-	https:
+	htt

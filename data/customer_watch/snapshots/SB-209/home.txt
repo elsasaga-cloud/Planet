@@ -1,5 +1,5 @@
-# SB-209 denwaip.com · home · https://denwaip.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
-Denwa Voice AI
+# SB-209 denwaip.com · home · https://denwaip.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+Denwa Voice AI | Agentes de voz con IA para empresas
 Productos
 Inteligencia Artificial
 Tono Agentes de IA para llamadas salientes
@@ -97,6 +97,32 @@ ES — Español
 EN — English
 La era agéntica tiene contexto voz criterio acción
 Crea e implementa agentes de voz inteligentes que entienden, razonan y actúan para alcanzar resultados reales , a la escala que tu operación necesita.
+Elige qué quieres que resuelva el agente
+Atender una consulta
+Resolver un problema
+Gestionar un pago
+Derivar una llamada
+Confirmar una cita
+Iniciar llamada
+Volver
+Tono
+Caso de uso
+Objetivo de la llamada
+Tocá el ícono para finalizar la llamada
+Probar otra demo
+Volver a la home
+Producto
+—
+Caso de uso
+—
+Objetivo
+—
+Estado
+—
+No pudimos acceder al micrófono
+Para iniciar la demo necesitamos tu permiso para usar el micrófono.
+Reintentar
+Volver a la home
 Tono Llamadas salientes
 Llamadas salientes con IA que convierten conversaciones en resultados
 Automatiza cobranzas, confirmaciones y seguimientos con agentes que comprenden cada respuesta, ejecutan acciones en tus sistemas y registran el resultado de cada llamada.

@@ -1,4 +1,6 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-20T10:12:13Z · HTTP 200
+20.11.2026 10:40:48	Outlet Switch Horisontal	https://www.alcadon.no/austin-hughes/iats-8xc13-plus-2xc19/outlet-switch-horisontal-8xc13-plus-2xc19-16a-m-2x3m-ledning-c20
+20.11.2026 08:37:36	AH IPDU Vertikal Switched+Monitored, S	https://www.alcadon.no/austin-hughes/ipdu20xc13-plus-4xc19-zsi/ah-ipdu-vertikal-switched-plus-monitored-s-20xc13-plus-4xc19-16a-230v-1-fas-iec60309-3m
 18.11.2026 10:04:43	NTT OPTIPOP RS-1 refillbånd, 6 stk/pk	https://www.alcadon.no/ntt-at/atc-rs-01/ntt-optipop-rs-1-refillb%c3%a5nd-6-stk-pk-for-optipop-1-2-3-og-4
 18.11.2026 09:30:37	NTT OPTIPOP R2 Two-slot type SC, LC	https://www.alcadon.no/ntt-at/atc-re-02/ntt-optipop-r2-two-slot-type-sc-lc--gt-400-click-single-connector
 18.11.2026 09:19:15	NTT OPTIPOP R3 for MPO with pins	https://www.alcadon.no/ntt-at/atc-re-03/ntt-optipop-r3-for-mpo-with-pins--gt-400-click
@@ -10,7 +12,7 @@
 16.11.2026 14:34:47	NTT NEOCLEAN-F25 for SC, FC, ST, E2000	https://www.alcadon.no/ntt-at/atc-nf-25/ntt-neoclean-f25-for-sc-fc-st-e2000-mer-enn-1000-klikk
 16.11.2026 14:00:54	NTT NEOCLEAN-F12 for LC and MU	https://www.alcadon.no/ntt-at/atc-nf-12/ntt-neoclean-f12-for-lc-and-mu-mer-enn-1000-klikk
 16.11.2026 13:22:53	NTT CLETOP-MPO rensekassett	https://www.alcadon.no/ntt-at/14110611/ntt-cletop-mpo-rensekassett-for-mpo-uten-styrepinne-fin-duk
-16.11.2026 13:10:44	NTT CLETOP Refillkassett Hvit 6st/fp	https://www.alcadon.no/alcadon/14100710/ntt-cletop-refillkassett-hvit-6st-fp-hvit-tape-fine-weave
+16.11.2026 13:10:44	NTT CLETOP Refillkassett Hvit 6st/fp	https://www.alcadon.no/ntt-at/14100710/ntt-cletop-refillkassett-hvit-6st-fp-hvit-tape-fine-weave
 16.11.2026 13:02:46	NTT CLETOP-S Refillkassett Hvit 6st/fp	https://www.alcadon.no/ntt-at/14110710/ntt-cletop-s-refillkassett-hvit-6st-fp-hvit-tape-fine-weave
 16.11.2026 12:56:10	NTT CLETOP-S Refillkassett Blå 6st/fp	https://www.alcadon.no/ntt-at/14110700/ntt-cletop-s-refillkassett-bl%c3%a5-6st-fp-bl%c3%a5-tape-mid-weave
 15.11.2026 11:14:40	Enoc Lås adapter Trykk knapp Ikke lås	https://www.alcadon.no/enoc/50844/enoc-l%c3%a5s-adapter-trykk-knapp-ikke-l%c3%a5s-ls95-kun-trykk-knapp
@@ -69,6 +71,4 @@
 18.08.2026 09:25:10	AH IPDU Vertikal Switched+Monitored, Rød	https://www.alcadon.no/austin-hughes/vp18l13-6l19-en-3t-3/ah-ipdu-vertikal-switched-plus-monitored-r%c3%b8d-18xc13-plus-6xc19-16a-400v-3-fas-iec60309-3m
 13.08.2026 10:30:55	Festebånd med borrelås, 10mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-10-22-dot-5-wh/festeb%c3%a5nd-med-borrel%c3%a5s-10mm-22-5m-hvit-kappes-etter-eget-%c3%b8nske
 13.08.2026 10:27:34	Festebånd med borrelås, 10mm/22,5m Svart	https://www.alcadon.no/velcro/kbbr-10-22-dot-5-bk/festeb%c3%a5nd-med-borrel%c3%a5s-10mm-22-5m-svart-kappes-etter-eget-%c3%b8nske
-13.08.2026 10:23:47	Festebånd med borrelås, 20mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-wh/festeb%c3%a5nd-med-borrel%c3%a5s-20mm-22-5m-hvit-kappes-etter-eget-%c3%b8nske
-13.08.2026 10:19:17	Festebånd med borrelås, 20mm/22,5m Svart	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-bk/festeb%c3%a5nd-med-borrel%c3%a5s-20mm-22-5m-svart-kappes-etter-eget-%c3%b8nske
-31.07.2026 13:40:52	Prolabs TAA QSFP28 100GBase-ER1 40km DOM	https://www.alcadon.no/prolabs/qsfp-100gb-er1-c-c/prolabs-t
+13.08.2026 10:23:47	Festebånd med borrelås, 20mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-wh/festeb%c3%

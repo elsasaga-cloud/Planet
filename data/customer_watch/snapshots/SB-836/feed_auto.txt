@@ -1,4 +1,23 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-20T10:12:13Z · HTTP 200
+20.11.2026 10.45.54	Miller FOJST Fiberoptisk jakkesplitter	https://www.fiberworks.no/ripley-tools-miller/sp-rip-fojst-12/miller-fojst-fiberoptisk-jakkesplitter-for-mikrokabel-diameter-%c3%b8-1-dot-2-1-dot-8-3-3-dot-mm
+19.11.2026 23.05.32	Fiberworks 16+1 ch. DWDM Mux+Demux, Low	https://www.fiberworks.no/fiberworks-as/f-dmux-16-plus-2-2136-mlu/fiberworks-16-plus-1-ch-dot--dwdm-mux-plus-demux-low-itu-ch-dot--21-36-100-ghz-1310-upg--and--mon-dot-
+19.11.2026 16.40.35	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-5760/fiberworks-8-ch-dot--compact-dwdm-oadm-c57-c60-drop-and-continue-900-um
+19.11.2026 16.40.35	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-5356/fiberworks-8-ch-dot--compact-dwdm-oadm-c53-c56-drop-and-continue-900-um
+19.11.2026 16.40.34	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-4952/fiberworks-8-ch-dot--compact-dwdm-oadm-c49-c52-drop-and-continue-900-um
+19.11.2026 16.40.34	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-4548/fiberworks-8-ch-dot--compact-dwdm-oadm-c45-c48-drop-and-continue-900-um
+19.11.2026 16.40.34	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-4144/fiberworks-8-ch-dot--compact-dwdm-oadm-c41-c44-drop-and-continue-900-um
+19.11.2026 16.40.34	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-3740/fiberworks-8-ch-dot--compact-dwdm-oadm-c37-c40-drop-and-continue-900-um
+19.11.2026 16.40.34	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-3336/fiberworks-8-ch-dot--compact-dwdm-oadm-c33-c36-drop-and-continue-900-um
+19.11.2026 16.40.33	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-2932/fiberworks-8-ch-dot--compact-dwdm-oadm-c29-c32-drop-and-continue-900-um
+19.11.2026 16.40.33	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-2528/fiberworks-8-ch-dot--compact-dwdm-oadm-c25-c28-drop-and-continue-900-um
+19.11.2026 16.40.33	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-2124/fiberworks-8-ch-dot--compact-dwdm-oadm-c21-c24-drop-and-continue-900-um
+19.11.2026 16.40.32	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-xxyy/fiberworks-8-ch-dot--compact-dwdm-oadm-cxx-cyy-drop-and-continue-900-um
+19.11.2026 16.34.26	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-8dc-o9-5360/fiberworks-8-ch-dot--compact-dwdm-oadm-c53-c60-drop-and-continue-900-um
+19.11.2026 16.34.26	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-8dc-o9-4552/fiberworks-8-ch-dot--compact-dwdm-oadm-c45-c52-drop-and-continue-900-um
+19.11.2026 16.34.26	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-8dc-o9-3744/fiberworks-8-ch-dot--compact-dwdm-oadm-c37-c44-drop-and-continue-900-um
+19.11.2026 16.34.25	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-8dc-o9-2936/fiberworks-8-ch-dot--compact-dwdm-oadm-c29-c36-drop-and-continue-900-um
+19.11.2026 16.34.25	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-8dc-o9-2128/fiberworks-8-ch-dot--compact-dwdm-oadm-c21-c28-drop-and-continue-900-um
+19.11.2026 16.34.24	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-8dc-o9-xxyy/fiberworks-8-ch-dot--compact-dwdm-oadm-cxx-cyy-drop-and-continue-900-um
 18.11.2026 12.44.33	Futura Launch Fiber OM3 SC/PC-SC/PC	https://www.fiberworks.no/fibernet/tm-blf-om3-150-sc-sc/futura-launch-fiber-om3-sc-pc-sc-pc-150-meter-armoured-fibers
 17.11.2026 14.42.21	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-23-e/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1270-1330nm-12db
 17.11.2026 14.41.14	SFP28, BiDi, 25Gbps, DDM, SM, 20km	https://www.fiberworks.no/fiberworks-as/sfp28-bx20d-32-e/sfp28-bidi-25gbps-ddm-sm-20km-tx-rx1330-1270nm-12db-extreme
@@ -45,23 +64,4 @@
 09.11.2026 22.16.46	QSFP28 to 4 SFP28 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28d-1-dot-5-u/qsfp28-to-4-sfp28-twinax-cable-dac-100gbase-cr4-passive-1-dot-5-m-fiberworks
 09.11.2026 22.13.09	QSFP28 to 4 SFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28a-15m-u/qsfp28-to-4-sfp28-active-optical-cable-100gbase-sr4-aoc-15-meter-fiberworks
 09.11.2026 22.07.14	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-2-dot-5m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-2-dot-5-meter-fiberworks
-09.11.2026 22.06.44	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-20m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-20-meter-fiberworks
-09.11.2026 22.06.13	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-25m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-25-meter-fiberworks
-09.11.2026 22.05.38	QSFP+ 40G Active Optical Cable (AOC)	https://www.fiberworks.no/fiberworks-as/qsfp-40g-aoc-1-dot-5m-u/qsfp-plus--40g-active-optical-cable-aoc-40gbase-sr4-aoc-1-dot-5-meter-fiberworks
-09.11.2026 22.03.26	QSFP28 to 4 SFP28 Active Optical Cable	https://www.fiberworks.no/fiberworks-as/qsfp28-4sfp28a-2m-u/qsfp28-to-4-sfp28-active-optical-cable-100gbase-sr4-aoc-2-meter-fiberworks
-09.11.2026 20.10.20	SFP+ Active Optical cable (AOC)	https://www.fiberworks.no/fiberworks-as/sfp-10gb-aoc-7m-u/sfp-plus--active-optical-cable-aoc-10gbps-aoc-7-meter-fiberworks
-09.11.2026 20.09.44	SFP+ Active Optical cable (AOC)	https://www.fiberworks.no/fiberworks-as/sfp-10gb-aoc-0-dot-5m-u/sfp-plus--active-optical-cable-aoc-10gbps-aoc-0-dot-5-meter-fiberworks
-09.11.2026 20.06.37	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2-dot-5m-u/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2-dot-5m-fiberworks
-09.11.2026 20.06.09	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-2m-u/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-2m-fiberworks
-09.11.2026 20.05.32	QSFP-DD to 4 QSFP56 Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/qdd-4qsfp56d-1m-u/qsfp-dd-to-4-qsfp56-twinax-cable-dac-4x-100gbase-cr4-dac-1m-fiberworks
-09.11.2026 12.05.18	SFP+ BiDi, 10 GE, DDM, SM, 10km	https://www.fiberworks.no/fiberworks-as/sfp-10ge-bx10d-32-ho/sfp-plus--bidi-10-ge-ddm-sm-10km-tx-rx1330-1270nm-9db-lc-hp-instant-on
-09.11.2026 12.03.56	SFP+ BiDi, 10 GE, DDM, SM, 10km	https://www.fiberworks.no/fiberworks-as/sfp-10ge-bx10d-23-ho/sfp-plus--bidi-10-ge-ddm-sm-10km-tx-rx1270-1330nm-9db-lc-hp-instant-on
-09.11.2026 10.20.06	Preterm SM G48 QXAI LC/UPC-SC/UPC 22 m	https://www.fiberworks.no/fiberworks-as/pk-y48lt-lcu-scu-022/preterm-sm-g48-qxai-lc-upc-sc-upc-22-m-9-os2-g-dot-657-dot-a1-900%c2%b5m-haler-l1-8-1-8-m
-06.11.2026 09.16.36	QSFP28, 100G/40G SRBD, 2x50 Gbps, 150m	https://www.fiberworks.no/fiberworks-as/qsfp28-sr-bd-ar/qsfp28-100g-40g-srbd-2x50-gbps-150m-850-910-nm-3db-mm-lc-arista
-04.11.2026 12.40.58	Patch SM MPO/APC8(m)/(m), pol B, 12 m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mbm8m-12/patch-sm-mpo-apc8m-m-pol-b-12-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
-04.11.2026 12.36.59	Patch SM MPO/APC8 Hann-Hann, pol B xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mbm8m-xx/patch-sm-mpo-apc8-hann-hann-pol-b-xx-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
-04.11.2026 10.25.31	SFP Copper Twinax cable (DAC)	https://www.fiberworks.no/fiberworks-as/sfp-1g-dac-3m-u/sfp-copper-twinax-cable-dac-passive-3-meter-fiberworks
-04.11.2026 10.17.49	Patch SM MPO/APC8 Hann-Hann, pol A xx m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mam8m-xx/patch-sm-mpo-apc8-hann-hann-pol-a-xx-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
-04.11.2026 10.04.05	Patch SM MPO/APC8(m)/(m), pol A, 12 m	https://www.fiberworks.no/fiberworks-as/p-sm9-m3y-m8mam8m-12/patch-sm-mpo-apc8m-m-pol-a-12-m-9-os2-g-dot-657-dot-a1-base-8-%c3%b83mm-gul-elite
-02.11.2026 13.19.29	Fiberworks 8+1 ch. 800G DWDM Mux+Demux	https://www.fiberworks.no/fiberworks-as/f-d2mux-8-plus-1-2135-l3/fiberworks-8-plus-1-ch-dot--800g-dwdm-mux-plus-demux-itu-ch-dot--21-35-200-ghz-upg-1310wb-lgx3
-02.11.2026 13.13.52	Fiberworks 2 c
+09.11.2026 22.06.44	QSFP+ 40G Active Optical Cable (AOC)	https://www

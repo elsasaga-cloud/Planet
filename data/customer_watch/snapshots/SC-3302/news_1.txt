@@ -1,174 +1,52 @@
-# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-19T10:30:38Z · HTTP 200
-News – Niveo Professional
+# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+News & Blog | Niveo Professional
 Skip to content
-Home
+Menu
+Products ⌄ Products overview Niveo AV Series Broadcast & Data Center Series Enterprise Series NRS Series Fiber Modules UPS Wi-Fi PDUs & PoE Injectors
+Solutions ⌄ Solutions overview Pro AV Pro Audio Broadcast Custom Integration
+Design Tools ⌄ Switch Selector Configurator App Instruction Videos Technical Guides
+News & Blog
+Support ⌄ Product Archive Warranty and Services Privacy Statement Website Disclaimer
+Niveo Academy
+Where to Buy
+Get Design Help Subscribe
+Home / News & Blog FIELD NOTES News & Blog
+Niveo news, technical articles, and design evidence for AV and broadcast projects.
+All News Design Guide Troubleshooting Design Evidence
+Subscribe via RSS
+News · February 2–5, 2027 Meet Niveo at ISE 2027
+Meet Niveo Professional at ISE 2027 in Barcelona to discuss switching and network design for professional AV and broadcast.
+View event
+Design Guide · 5 min read How to size uplinks for an SDVoE network
+Count the flows that can cross each link at the same time. A device count alone cannot tell you where the network will run out of capacity.
+Read article
+Troubleshooting · 4 min read A practical multicast commissioning checklist
+Verify where multicast should go, who maintains group membership, and what changes when an endpoint or uplink goes offline.
+Read article
+Design Guide · 5 min read What to bring to a broadcast IP design review
+A topology, traffic matrix, and failure scenarios make it possible to review a media fabric before the equipment is ordered.
+Read article
+Design Evidence · Project story Qatar Development Bank
+Sonic Electronics upgraded the Qatar Development Bank auditorium for presentations, training, webinars, and executive meetings.
+Read article
+Design Evidence · Partner compatibility Just Add Power AMP
+Check listed Niveo models, system limits, and minimum firmware on the partner's own compatibility table.
+Check supported models
+IN YOUR INBOX Get Niveo Field Notes
+A monthly email with design guides, lab notes, and product updates for AV and broadcast teams.
+Email address
+Interest (optional) Choose a topic
+Pro AV
+Pro Audio
+Broadcast
+Custom Integration
+Subscribe
+Receive Niveo Field Notes by email. Privacy statement
+Network switching for professional AV and broadcast.
 Products
-AV- Switches
-1Gb AV Layer 3 Gigabit Switches
-2,5Gb AV Layer 3 Gigabit Switches
-10Gb AV Layer 3 Gigabit Switches
-AVB/MILAN-Switches
-10G Switches
-Broadcast & Data Centre
-Business Switches
-Wireless & Controllers
-Enterprise Grade Switches
-Fiber Modules/Media Converters
-Legacy Products
-POE Injectors
-Power distribution units
-UPS Systems
-Tools & Support
-Download Center (firmware/drivers)
-Instruction Video’s
-Niveo Professional Academy
-RMA request / procedure
-White Papers & Step by Step Guides
-Warranty
-Warranty terms
-Product Registration
-Privacy Statement
-General Terms and conditions of sale
-About Niveo
-Company
-Managed Services
-We build solid partnerships
-Where to buy
-News
-Contact
-Home
-Products
-AV- Switches
-1Gb AV Layer 3 Gigabit Switches
-2,5Gb AV Layer 3 Gigabit Switches
-10Gb AV Layer 3 Gigabit Switches
-AVB/MILAN-Switches
-10G Switches
-Broadcast & Data Centre
-Business Switches
-Wireless & Controllers
-Enterprise Grade Switches
-Fiber Modules/Media Converters
-Legacy Products
-POE Injectors
-Power distribution units
-UPS Systems
-Tools & Support
-Download Center (firmware/drivers)
-Instruction Video’s
-Niveo Professional Academy
-RMA request / procedure
-White Papers & Step by Step Guides
-Warranty
-Warranty terms
-Product Registration
-Privacy Statement
-General Terms and conditions of sale
-About Niveo
-Company
-Managed Services
-We build solid partnerships
-Where to buy
-News
-Contact
-Latest news
-IC 2026 | Niveo Professional – Scaling SDVoE from Meeting Rooms to Broadcast
-At InfoComm 2026, Arthur De Jager from Niveo Professional joins Melissa, Product Manager at the SDVoE Alliance, to showcase their expanded switch portfolio covering SDVoE deployments of every size. Highlights
-Read More »
-11/11/2026
-Sonic Electronics upgrades Qatar Development Bank
-QATAR: Sonic Electronics has delivered a comprehensive AV solution for Qatar Development Bank’s (QDB) main auditorium. The system has been designed to support a variety of events and functions, including
-Read More »
-07/31/2025
-Just Add Power to Amp Up the AV-Over-IP Experience at ISE 2025
-Just Add Power Will Debut Its New MC-USB MaxColor Series Device With KVM Support, Continue to Showcase Award-Winning 4K60 MaxColor Series SEMINOLE, Fla. — Jan. 9, 2025 — Just Add Power, a leader in
-Read More »
-03/04/2025
-Just Add Power AMP Now Supports Select Niveo Professional Switches
-https://www.justaddpower.com/news/just-add-power-amp-now-supports-select-niveo-professional-switches/
-Read More »
-03/04/2025
-Niveo AVB pre-configured switch
-NGSME9AVB 9-PORT AVB POE+ SWITCH The EASY option for AVB https://www.youtube.com/watch?v=Byq6gW9w8KY NGSME9AVB 9-PORT AVB POE+ SWITCH The EASY option for AVB Niveo Professional introduces the brand new NGSME9AVB switch, offering
-Read More »
-04/25/2024
-Niveo Professional at Hamburg open
-Niveo professional was of course present at the 15 and 16 January HAMBURG OPEN, Germany’s Innovation and Networking Event for Broadcast and AV Technology Professionals. Here is a short impression
-Read More »
-01/26/2024
-SDVoE Academy course. Must see!
-This can not be missed! Super interesting explanation about the unparalleled benefits of the 10G switch from Niveo Professional. In this #SDVoE Academy course, David Stephens, CTS (Niveo Professional) unveils
-Read More »
-08/18/2023
-Niveo Professional joins SDVoE Alliance
-The SDVoE Alliance has announced that Niveo Professional has joined the SDVoE Alliance as an adopting member. Niveo Professional designs, builds, tests and manufactures AVoIP switching solutions for commercial and
-Read More »
-07/19/2023
-Niveo Professional – nowa marka w ofercie Konsbud Audio
-Niveo Professional to marka skierowana, między innymi, do profesjonalnych instalatorów sprzętu audio-wideo. Firma została założona w 2009 roku w odpowiedzi na zapotrzebowanie branży AV. Portfolio jest specjalnie skonfigurowane, aby zaspokoić
-Read More »
-07/19/2023
-INFOCOMM 2023: NIVEO PROFESSIONAL REVEALS L2 FULL MANAGEMENT ETHERNET POE SWITCH AT LIBERTY AV BOOTH
-Arthur is at Infocomm23.Click on this link for the message!
-Read More »
-06/23/2023
-New AVB Switch
-The already extensive range of excellent Enterprise Grade Switches from Niveo Professional has now been expanded with a new product: Niveo Professional is proud to announce our new NGSME9AVB switch.
-Read More »
-05/05/2022
-Let's keep In Touch
-Subscribe to our newsletter to hear the latest news
-Name
-Company Name
-Email
-subscribe
-Contact us / sign up
-Navigation
-Home
-Company
-Where to buy
-News
-Contact
-General Terms and conditions of sale
-RMA request / procedure
-Home
-Company
-Where to buy
-News
-Contact
-General Terms and conditions of sale
-RMA request / procedure
-Linkedin
-Envelope
-GLOBAL HEAD OFFICE
-Olympia 2D
-1213 NT Hilversum
-The Netherlands
-+31 (0)85 060 45 66
-info@niveoprofessional.com
-NORTH AMERICAN HEADQUARTERS
-855 406 4836
-You don’t have to settle for less as long as there are NIVEO products.
-Privacy Statement
-Warranty
-Website disclaimer
-2026 – All rights reserved, Niveo Professional
-Welcome to Niveo Professional
-This website uses cookies. For details, see ‘ privacy statement ’.
-Privacy & Cookies Policy
-Close
-Privacy Overview
-This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
-Necessary
-Always Enabled
-Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
-Non-necessary
-Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
-SAVE & ACCEPT
-✕
-Stay in the loop!
-Subscribe for exclusive offers, remarkable info and updates on new products.
-Name
-Company Name
-Email
-subsribe
+Niveo AV Series Broadcast & Data Center Series Enterprise Series NRS Series Fiber Modules UPS Wi-Fi PDUs & PoE Injectors
+Solutions
+Pro AV Pro Audio Broadcast Custom Integration Switch Selector Configurator App Instruction Videos Technical Guides
+Resources
+News & Blog RSS feed Product Archive Niveo Academy Where to Buy Contact engineering Stacking BattleSwitch Cablebite
+© 2026 Netstar Ventures BV · Niveo Professional Privacy Statement Website Disclaimer

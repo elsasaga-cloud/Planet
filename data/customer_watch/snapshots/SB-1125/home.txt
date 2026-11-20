@@ -1,4 +1,4 @@
-# SB-1125 globall.ca · home · https://www.globall.ca/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1125 globall.ca · home · https://www.globall.ca/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Home
 Skip to content
 Home page
@@ -85,6 +85,10 @@ Epos
 Sale price $227.95
 Regular price $239.95
 Sold out
+Signamax
+PSI-6ODB-SH CAT6e SHIELDED OUTDOOR WATERBLOCK DB 550MHZ 1000 Ft Reel
+Sale price $319.99
+Sold out
 Save $15.04
 Globall
 GDWBCA17 Shelf Wide for Rack with 1U Hight Black
@@ -95,10 +99,6 @@ Planet
 IPX-2200 Internet Telephony PBX System - (V3) - Planet
 Sale price $1,459.99
 Re-stocking soon
-Signamax
-PSI-6ODB-SH CAT6e SHIELDED OUTDOOR WATERBLOCK DB 550MHZ 1000 Ft Reel
-Sale price $319.99
-Sold out
 Save $39.00
 Globall
 GDWB66093NB Indoor 9U Wall Cabinet Black

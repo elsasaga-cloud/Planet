@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,85 +75,85 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-MikroTik HS-55DLC80D, SFP optický modul, Single-Mode, 80km, 2.5G, 1550nm
-Průmyslový optický SFP modul pro single-mode vlákno přenáší data rychlostí 1 nebo 2,5 Gb/s až na 80 km při 1550 nm. Dvojici LC konektorů s broušením UPC doplňuje diagnostika DDM sledující optický výkon, napětí, teplotu a proud laseru.
-615 Kč bez DPH
-744 Kč s DPH
+Cudy R700 Gigabit Multi-WAN VPN Router
+Gigabitový VPN router pro menší firmy a kanceláře s až 4 WAN porty rozděluje provoz mezi více internetových linek a podporuje záložní připojení. Nabízí VPN protokoly PPTP, L2TP, OpenVPN, WireGuard a IPsec a správu přes webové rozhraní.
+767 Kč bez DPH
+928 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-SOLARFAM AST-H5 Sodium-Ion autobaterie 12V 45Ah Start-Stop
-Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 242 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
-3 750 Kč bez DPH
-4 538 Kč s DPH
+Cudy M1300S Wi-Fi Mesh System, AC1200, 1 pack
+Dvoupásmový mesh systém Wi-Fi 5 AC1200 s jednou jednotkou, rychlostmi 300 + 866 Mb/s a roamingem. Každá jednotka má gigabitový LAN a LAN/WAN port. Režimy router/AP/klient a VPN včetně OpenVPN a WireGuard; vzdálená správa TR069.
+699 Kč bez DPH
+846 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-MikroTik L14G-2ax-BT5-HL9&EG800Q, KNOT Gateway HL9
-Venkovní IoT gateway s Wi-Fi HaLow 915 MHz, Bluetooth 5.1, Wi-Fi 2,4 GHz až 287 Mb/s, Ethernetem a GNSS. LTE Cat1 až 10/5 Mb/s, nanoSIM i eSIM. Krytí IP66, napájení přes PoE nebo DC svorkovnici; montáž na stožár či stěnu.
-2 684 Kč bez DPH
-3 248 Kč s DPH
-Novinka
-Porovnat
-Není skladem
-Přidat do košíku
-Teltonika Security SMK205, Bezdrátový detektor kouře
-Bateriový detektor kouře pro montáž na strop v interiéru komunikuje na frekvenci 868 MHz. Integrovanou sirénu doplňují vzdálená upozornění v mobilní aplikaci a propojení se systémem Teltonika Security Systems.
-1 189 Kč bez DPH
-1 439 Kč s DPH
+TP-Link Tapo C250 Domácí bezpečnostní Wi-Fi kamera s naklápěním, 8Mpx
+Domácí Wi-Fi kamera s rozlišením 8 Mpx při 30 sn./s nabízí otáčení 360°, náklon 116° a IR noční vidění do 12 m. Detekci pohybu s AI doplňuje zvukový a světelný alarm, obousměrný zvuk a ukládání na microSD kartu až 512 GB.
+1 111 Kč bez DPH
+1 344 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Cudy WR21000 Multi-Gigabit Tri-Band Wi-Fi 7 Mesh Router, BE21000
-Třípásmový mesh router Wi-Fi 7 BE21000 s rychlostmi až 688/8640/11 520 Mb/s. Port 10G SFP+ LAN/WAN, tři 2,5G LAN, 2,5G WAN a USB 3.0. Čtyřjádrový procesor 1,5 GHz a osm antén podporují až 100 připojených zařízení.
-5 383 Kč bez DPH
-6 513 Kč s DPH
+Cudy M1300S Wi-Fi Mesh System, AC1200, 2 pack
+Dvoupásmový mesh systém Wi-Fi 5 AC1200 se dvěma jednotkami, rychlostmi 300 + 866 Mb/s a roamingem. Každá jednotka má gigabitový LAN a LAN/WAN port. Režimy router/AP/klient a VPN včetně OpenVPN a WireGuard; vzdálená správa TR069.
+1 483 Kč bez DPH
+1 794 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti UniFi Switch USW-Ultra-60W
-Gigabitový PoE switch s 8 LAN porty, z toho 7 s PoE výstupem až 30 W na port. Přiložený 60W adaptér umožňuje celkový PoE výkon až 52 W. Správa přes UniFi Network, napájení přes 54V DC konektor nebo PoE vstup 802.3at/bt, montáž na stůl či zeď.
-3 343 Kč bez DPH
-4 045 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UACC-Cable-USB-100W-0.3M-BK, USB-C kabel s displejem, 0.3m
-USB-C kabel délky 0,3 m s podporou Power Delivery až 100 W pro nabíjení telefonů, notebooků a powerbank. Integrovaný displej zobrazuje aktuální nabíjecí výkon, opletený plášť kombinuje materiály PP a PET.
-419 Kč bez DPH
-507 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UACC-Cable-USB-100W-2M-BK, USB-C kabel s displejem, 2m
-USB-C kabel délky 2 m s podporou Power Delivery až 100 W pro nabíjení telefonů, notebooků a powerbank. Integrovaný displej zobrazuje aktuální nabíjecí výkon, opletený plášť kombinuje materiály PP a PET.
-642 Kč bez DPH
-777 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-MikroTik G1317-0600W - Hot Swap 600W napájecí DC zdroj pro CRS320
-Výměnný DC/DC napájecí zdroj 600 W pro switch MikroTik CRS320-8P-8B-4S+RM. Přijímá vstup 36–72 V DC a poskytuje výstup 54,5 V / 10,35 A. Funkce Hot Swap umožňuje výměnu za provozu při dostatečném výkonu druhého zdroje.
-4 090 Kč bez DPH
-4 949 Kč s DPH
+Huawei Aura10, Dual-Band Wi-Fi 7 router
+Dvoupásmový Wi-Fi 7 mesh router s rychlostí až 3,6 Gb/s v pásmech 2,4 a 5 GHz. Má 2,5Gb/s LAN/WAN port, další gigabitové porty a podporu MLO, 4K-QAM i Smart Mesh pro propojení až 8 jednotek. Správa přes Huawei eKit.
+2 993 Kč bez DPH
+3 622 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-TP-Link Fusion G+, Omada gateway
-Moderní řešení pro firemní i náročné síťové prostředí spojuje funkce routeru a kontroleru do jediného zařízení, které umožňuje pohodlnou správu celé infrastruktury bez licenčních poplatků. Díky 5 portům 1G a 2.5G RJ45 poskytuje dostatek výkonu pro rychlé
-3 818 Kč bez DPH
-4 620 Kč s DPH
+Ubiquiti USL-Gateway, UniFi Protect SuperLink Gateway
+Brána pro UniFi Protect senzory s podporou až 96 SuperLink klientů a dosahem 2 km při přímé viditelnosti. Bluetooth připojí až sedm UP-Sense. Ethernet 100 Mb/s, napájení PoE 802.3af či USB-C; montáž na zeď nebo DIN lištu.
+3 029 Kč bez DPH
+3 665 Kč s DPH
 Novinka
 Porovnat
-Není skladem
+skladem
+Přidat do košíku
+Cudy LT700 Outdoor Bezdrátový 4G LTE Router, AC1200
+Venkovní 4G LTE Cat 6 router s krytím IP65 a nano SIM slotem dosahuje až 300/50 Mb/s pro stahování a odesílání. Wi-Fi 2,4 a 5 GHz nabízí až 300 + 866 Mb/s. Má gigabitový LAN/WAN port, odnímatelné LTE antény a PoE adaptér v balení.
+2 508 Kč bez DPH
+3 035 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Cudy LT400E Bezdrátový 4G LTE router, N300
+4G LTE router s nano SIM slotem a rychlostí až 150/50 Mb/s pro stahování a odesílání. Wi-Fi 2,4 GHz dosahuje až 300 Mb/s. Připojení kabelem zajišťují 3× LAN a 1× LAN/WAN 10/100 Mb/s. Podporuje VPN klienta OpenVPN a WireGuard.
+759 Kč bez DPH
+918 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+TINKO bateriový článek 18650, Li-Ion 3,7 V, 2200 mAh
+Nabíjecí Li-Ion článek 18650 s napětím 3,7 V a kapacitou 2200 mAh pro akupacky s řízeným nabíjením, svítilny či powerbanky. Rozměry 18 × 65 mm, vybíjecí proud 5 A trvale a až 10 A krátkodobě.
+65 Kč bez DPH
+79 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Ubiquiti UACC-WP-TH, Univerzální přetíratelná kabelová průchodka, 2-pack
+Přetíratelná nástěnná kabelová průchodka pro čisté zakončení kabeláže. Kryt z polykarbonátu a oceli o rozměrech 82 × 112 × 3,2 mm se hodí ke krabicím 2? × 4?, 86 × 86 mm i kulatým 60 mm. Balení 2 kusů.
+334 Kč bez DPH
+404 Kč s DPH
+Novinka
+Porovnat
+skladem
 Přidat do košíku
 Přejít do poradny
 Aktuality

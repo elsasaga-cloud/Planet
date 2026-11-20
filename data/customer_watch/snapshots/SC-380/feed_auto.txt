@@ -1,6 +1,7 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 Thu, 19 Nov 2026 05:24:18 GMT	[ipTIME NAS] NAS에서 파일을 실수로 삭제했어요, 복구할 수 있을까요?	https://iptime.com/support/faq/27974
 Thu, 19 Nov 2026 01:13:55 GMT	[ipTIME 카메라] 홈캠 실시간 화면이 간헐적으로 오프라인으로 표시되거나 끊길 때	https://iptime.com/support/faq/27973
+Thu, 19 Nov 2026 01:09:03 GMT	[ipTIME 공유기] 기가인터넷인데 유선, 와이파이 속도가 100Mbps 정도만 나올 때	https://iptime.com/support/faq/27972
 Thu, 19 Nov 2026 01:07:24 GMT	[ipTIME 공유기] 인터넷 설정 정보에서 허브/AP 모드로 설정하는 방법 (펌웨어 15.29.0 이상)	https://iptime.com/support/faq/27971
 Thu, 19 Nov 2026 00:54:16 GMT	[ipTIME 공유기] 공유기 USB 외장 하드를 RaiDrive로 연결하기	https://iptime.com/support/faq/27970
 Thu, 19 Nov 2026 00:51:05 GMT	11월 20일(금) 기술지원 업무마감시간 임시변경 안내	https://iptime.com/notices/27969
@@ -48,4 +49,3 @@ Mon, 16 Nov 2026 01:24:16 GMT	[ipTIME 컨트롤러] 블루투스 동글이 인�
 Mon, 16 Nov 2026 01:11:04 GMT	[고객지원] 단종 공유기·NAS의 펌웨어와 A/S는 어떻게 되나요?	https://iptime.com/support/faq/27905
 Mon, 16 Nov 2026 01:11:04 GMT	[ipTIME 컨트롤러] 블루투스 동글 현행 모델 한눈에 보기	https://iptime.com/support/faq/27904
 Mon, 16 Nov 2026 01:08:47 GMT	[ipTIME PoE 허브] Ring AP·Outdoor AP를 PoE 허브에 연결해 Easy Mesh 구성하는 방법	https://iptime.com/support/faq/27903
-Mon, 16 Nov 2026 01:03:08 GMT	[ipTIME 컨트롤러] USB-C 멀티 허브와 USB 허브 선택 가이드	https://iptime.com/support/faq/27902

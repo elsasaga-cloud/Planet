@@ -1,4 +1,4 @@
-# SC-1691 alfacomp.net · home · https://www.alfacomp.net/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1691 alfacomp.net · home · https://www.alfacomp.net/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Automação Industrial em Porto Alegre | Alfacomp
 Soluções Completas em Automação Industrial
 Fale por WhatsApp
@@ -82,7 +82,6 @@ Servidor Serial & Gateway Modbus
 Gateway Modbus e Servidor Ethernet conversor RS232 e RS485 - MPORT3101R
 Ver todos
 Rádio de Comando
-Telecomando de bombeamento
 Remota de telemetria - RT304
 Remota de telemetria - RT308
 Telecomando Alfacomp - TC3172
@@ -294,4 +293,4 @@ As IHMs Haiwell possuem acesso remoto? Como acesso meus dispositivos remotamente
 Sim. Através do Haiwell Cloud , você consegue acessar, monitorar e até programar remotamente seus dispositivos via PC, tablet ou smartphone (iOS e Android).
 05
 Quais protocolos de comunicação a Alfacomp trabalha?
-A Alfacomp trabalha com os principais prot
+A Alfacomp trabalha com os principais protocolos industriais: Modbus 

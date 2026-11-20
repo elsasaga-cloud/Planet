@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-19T10:30:38Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-20T10:12:13Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -429,7 +429,6 @@ Dotworkz
 EIZO
 Hanwha
 Hikvision
-Honeywell Security
 Inim
 IQsight
 Mobotix
@@ -829,6 +828,7 @@ Alpha
 ASSA ABLOY
 Axis Communications
 Bysecur
+Dahua
 Eden Innovations
 Fargo
 HID
@@ -955,7 +955,6 @@ RWA
 Emergency lighting
 Bysecur
 Inim Addressable Fire
-Kidde
 Lixit Lighting
 Universal dialers
 Honeywell Fire
@@ -1103,6 +1102,7 @@ Hikvision
 Inim
 IQsight
 Mobotix
+Morley
 NVT
 Paxton
 Politec
@@ -1201,12 +1201,14 @@ Power Supplies & Batteries
 Cable & Installation
 New
 SmartSD News
+Network Optix innovation in video management
+At Network Optix, video management goes beyond technology alone.
 SmartSD Spain expands IP intercom and access control portfolio with 2N
 SmartSD Spain has added 2N to its portfolio of manufacturers, expanding its range of IP intercom and access control solutions for installers and systems integrators.
 SmartSD Spain strengthens its portfolio with Hanwha Vision
 This addition strengthens our offering in video surveillance, artificial intelligence, cybersecurity and advanced video management.
 Inim Home 3.0: Faster and More User-Friendly
-Inim a lancé Inim Home 3.0 pour Android.
+Inim has launched Inim Home 3.0 for Android.
 Paxton introduces the new PaxLock Pro2
 Paxton introduces the new PaxLock Pro2. Wireless door furniture reinvented!
 Your training certificates always at hand
@@ -1215,16 +1217,7 @@ New relay controller and AI cameras
 New from Akuvox: the WR01 Intelligent Edge Web Relay Controller and the VC50B/VC50T 5MP AI IP cameras.
 VUPoint AI cameras in black
 Within the VUPoint range, RISCO is expanding its portfolio with a wide selection of cameras in black housings.
-Inferno sirens & strobes
-Alarmtech introduces a new generation of sirens and strobes.
 SmartSD trainings
-Acre ACTpro Access Control
-19 November
-@ SmartSD Breda (NL)
-30 November
-@ SmartSD Merchtem (BE)
-14 December
-@ SmartSD Merchtem (BE)
 Risco LightSYS+ Technical/Commercial Introduction & Expert Session
 19 November
 @ SmartSD Merchtem (BE)
@@ -1246,21 +1239,9 @@ Dahua Basic Training & Hands-on
 @ SmartSD Breda (NL)
 10 December
 @ SmartSD Saint-herblain (FR)
-Bandit Fog Generators
-24 November
-@ SmartSD Merchtem (BE)
-4 December
-@ SmartSD Merchtem (BE)
-18 December
-@ SmartSD Breda (NL)
-2N CIP Certified Training
-24 November
-@ SmartSD Breda (NL)
-10 December
-@ SmartSD Merchtem (BE)
-12 January
-@ SmartSD Breda (NL)
 Akuvox Intercom Basics
+23 November
+@ SmartSD Merchtem (BE)
 24 November
 @ SmartSD Lisses (FR)
 3 December
@@ -1269,6 +1250,13 @@ Akuvox Intercom Basics
 @ SmartSD Breda (NL)
 1 February
 @ SmartSD Merchtem (BE)
+2N CIP Certified Training
+24 November
+@ SmartSD Breda (NL)
+10 December
+@ SmartSD Merchtem (BE)
+12 January
+@ SmartSD Breda (NL)
 acre Access Control Basics
 25 November
 @ SmartSD Merchtem (BE)
@@ -1284,6 +1272,11 @@ Ajax Hands-On Training
 Genetec System Design Training
 26 November
 @ SmartSD Breda (NL)
+Acre ACTpro Access Control
+30 November
+@ SmartSD Merchtem (BE)
+14 December
+@ SmartSD Merchtem (BE)
 Acre SPCevo
 30 November
 @ SmartSD Lisses (FR)
@@ -1302,6 +1295,11 @@ Hikvision HCSA-CCTV Certification Training
 @ SmartSD Breda (NL)
 Network Optix Nx Witness VMS
 4 December
+@ SmartSD Breda (NL)
+Bandit Fog Generators
+4 December
+@ SmartSD Merchtem (BE)
+18 December
 @ SmartSD Breda (NL)
 Ajax EN54 Hands-On Training
 8 December
@@ -1349,10 +1347,12 @@ E info@smartsd.fr
 Contact and Our stores
 Overview of our branches and contact form
 About SmartSD
+Management
+Jobs
 Terms of sale
 Netherlands - SmartSD BV (NL)
 BeLux - SmartSD NV/SA (NL)
 BeLux - SmartSD NV/SA (FR)
 France - SmartSD SARL (FR)
 Spain - SmartSD SL (ES)
-© 2026 Smart
+© 2026 SmartS

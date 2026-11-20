@@ -1,4 +1,4 @@
-# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1074 setik.biz · home · https://www.setik.biz/en/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 CCTV Cameras, Alarm Systems and Security Kits | Setik - Setik.biz
 
 Menu
@@ -361,10 +361,9 @@ SERVICES
 BRAND PRICELISTS
 Download OFFICIAL PRICELISTS of our brands!
 PROMO SETIK
-VIGI & OMADA | PROMOTIONS
-OMADA: SPEDIZIONE GRATUITA*
-* Su una selezione di prodotti e raggiungendo la spesa minima di 100€
-...
+AJAX SYSTEMS | PROMOTIONS
+Discover all the official AJAX Systems promotions available on our e-commerce site:
+alarm control panels, motion sensors, magnetic contacts, sirens, ...
 CCTV cameras, alarm systems and security kits
 BEST SELLER
 BEST PRICE
@@ -530,5 +529,4 @@ Aggiunta al Carrello
 This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Find out more here .
 Accept
 
-×
-
+

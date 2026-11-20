@@ -1,4 +1,8 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-19T10:30:38Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-20T10:12:13Z · HTTP 200
+20.11.2026 11:15:23	Apto Kabelhylle Sølv, 147cm	https://www.leteng.no/apto-plus/3070-0002-9006/apto-kabelhylle-s%c3%b8lv-147cm
+20.11.2026 11:13:39	AVer PTZ Kamera kontroller	https://www.leteng.no/aver/cl02/aver-ptz-kamera-kontroller-rs-232-rs-422-rs-485
+20.11.2026 10:51:28	Apto Kabelhylle Sølv, 115cm	https://www.leteng.no/apto-plus/3070-0001-9006/apto-kabelhylle-s%c3%b8lv-115cm
+20.11.2026 09:53:06	LD Systems HDMI Extender VEX 50 4K	https://www.leteng.no/ld-systems/ldvex50/ld-systems-tiva-extender-vex-50-4k-hdmi-over-cat-poc-ir-50-m
 19.11.2026 11:16:51	LD Systems MAUI 44 G3	https://www.leteng.no/ld-systems/ldmaui44g3/ld-systems-maui-44-g3-s%c3%b8yle-pa-med-bluetooth-stk-dot-
 19.11.2026 10:34:48	Aten Switch 8x1 HDMI 4K	https://www.leteng.no/aten/vs0801hb-at-g/aten-switch-8x1-hdmi-4k
 19.11.2026 09:57:20	Cypress MultiViewer Prosessor 4K UHD	https://www.leteng.no/cypress/sc-vpr-3421/cypress-multiviewer-prosessor-4k-uhd-18gbps-600mhz-pip-pop
@@ -95,7 +99,3 @@
 10.09.2026 14:55:51	Strømkabel C13 C14 - 1,2 m	https://www.leteng.no/act/ak5109/str%c3%b8mkabel-c13-c14-1-2-m-3x0-75mm-bl%c3%a5
 10.09.2026 14:53:50	Strømkabel C13 C14 - 0,6 m	https://www.leteng.no/act/ak5108/str%c3%b8mkabel-c13-c14-0-6-m-3x0-75mm-bl%c3%a5
 10.09.2026 14:44:03	Strømkabel C13 C14 - 1,8 m	https://www.leteng.no/act/ak5114/str%c3%b8mkabel-c13-c14-1-8-m-3x0-75mm-gr%c3%b8nn
-10.09.2026 14:39:56	Strømkabel C13 C14 - 1,2 m	https://www.leteng.no/act/ak5113/str%c3%b8mkabel-c13-c14-1-2-m-3x0-75mm-gr%c3%b8nn
-10.09.2026 14:36:01	Strømkabel C13 C14 - 0,6 m	https://www.leteng.no/act/ak5112/str%c3%b8mkabel-c13-c14-0-6-m-3x0-75mm-gr%c3%b8nn
-10.09.2026 11:29:20	Aten KVM Switch 2-Port DP USB3 8K	https://www.leteng.no/aten/cs1922a-at-g/aten-kvm-switch-2-port-dp-usb3-8k-mst-displayport-usb3-hd-audio
-09.09.2026 12:29:13	Kramer EXT3-H-POE-T	https://www.leteng.no/kramer/ext3-h-poe-t/kramer-ext3-h-poe-t-hdbaset-3-dot-0-extender-4k60-poe

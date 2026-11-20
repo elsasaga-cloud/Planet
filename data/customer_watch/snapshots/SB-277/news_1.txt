@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+UniFi Access: Ubiquiti corrige siete vulnerabilidades, cinco críticas, en la versión 4.3.24
+19 de noviembre de 2026
+Conoce
+Ubiquiti publica el boletín 073 con siete CVE en UniFi Access Application, la más grave de CVSS 9.9 con ejecución de código como root. Afecta a la 4.3.22 y anteriores; se corrige en la 4.3.24 o posterior.
+Read More
 Certificación oficial Grandstream GCPNS en Madrid: 25, 26 y 27 de noviembre
 18 de noviembre de 2026
 Formación
@@ -67,11 +72,6 @@ Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inal�
 3 de noviembre de 2026
 Conoce
 Grandstream presenta los teléfonos IP GRP2615 Pro y GRP2624 Pro, con mangueta Bluetooth inalámbrica, botón de IA, Wi-Fi y PoE. Conoce sus diferencias y aplicaciones profesionales.
-Read More
-Grandstream confirma que sus productos y servicios no están afectados por PHP2Shell
-29 de octubre de 2026
-Conoce
-Según el comunicado de Grandstream del 27 de octubre, sus equipos, firmware, aplicaciones y servicios cloud no utilizan PHP. No se requiere ninguna acción específica en despliegues Grandstream por CVE-2026-109618 y CVE-2026-109619; conviene revisar por separado otros sistemas que sí usen PHP.
 Read More
 Paginación de entradas
 1
@@ -631,4 +631,8 @@ comunicación empresas
 comunicacion unificada
 comunicacion unificada grandstream
 comunicaciones
-comuni
+comunicaciones unificadas
+comunicado
+conectar gds con gswave
+conectividad
+conectivida

@@ -1,2 +1,5 @@
-# SC-2383 3grouterstore.co.uk · sitemap · https://routerstore.com/sitemap_index.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
-
+# SC-2383 3grouterstore.co.uk · sitemap · https://routerstore.com/sitemap_index.xml · fetched 2026-11-20T10:12:13Z · HTTP 508
+508 Insufficient Resource
+508
+Insufficient Resource
+The website is temporarily unable to service your request as it exceeded resource limit. Please try again later.

@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-20T10:12:13Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -74,15 +74,14 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
+Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
 Ekrany projekcyjne
-Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Jednostki główne
-Licencje
-Akcesoria
+Biznesowe
+Hotelowe
 Lampowe
 Laserowe
 Akcesoria
@@ -90,34 +89,33 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Mediakonwertery
 Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
-Mediakonwertery
+Extendery
 Splittery HDMI
 Stacje dokujące
 Uchwyty do projektorów
 Kable
-Extendery
 Uchwyty do monitorów
-HDMI
 USB A
 USB C
-Przedłużacze USB A
 HDMI
-USB
+USB A
+Przedłużacze USB A
+Mobilne wózki
 Stałe
 Uchylne
 Na ramieniu
-Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla placówek medycznych
 Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
-Dla placówek medycznych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -136,22 +134,21 @@ Dwuuszne
 Przewodowe
 Bezprzewodowe
 Jednouszne
-Dwuuszne
 Kable przyłączeniowe
 Gąbki
 Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Walizki/Torby Transportowe
 Higiena
 Słuchawki
 Mikrofony
 Ładowarki
-Walizki/Torby Transportowe
+Akcesoria
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
-Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -177,10 +174,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
+Morskie
 Analogowe
 Cyfrowe
 Akcesoria
-Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -199,13 +196,13 @@ Wróć do:
 Przewodowe
 Bezprzewodowe
 Interkomy
+Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
-Daszki
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -291,13 +288,13 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Panele krosowe
 Wtyki i gniazda sieciowe
+Panele krosowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
-Łączniki kabli
-Wtyki
+Kategorii 5
+Kategorii 6
+Puste
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -364,6 +361,7 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
+Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
@@ -371,7 +369,6 @@ Akcesoria
 Głośniki
 Wzmacniacze
 Miksery
-Matryce
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -384,15 +381,14 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
+Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
 Ekrany projekcyjne
-Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Jednostki główne
-Licencje
-Akcesoria
+Biznesowe
+Hotelowe
 Lampowe
 Laserowe
 Akcesoria
@@ -400,34 +396,33 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Mediakonwertery
 Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
-Mediakonwertery
+Extendery
 Splittery HDMI
 Stacje dokujące
 Uchwyty do projektorów
 Kable
-Extendery
 Uchwyty do monitorów
-HDMI
 USB A
 USB C
-Przedłużacze USB A
 HDMI
-USB
+USB A
+Przedłużacze USB A
+Mobilne wózki
 Stałe
 Uchylne
 Na ramieniu
-Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla placówek medycznych
 Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
-Dla placówek medycznych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -451,22 +446,21 @@ Dwuuszne
 Przewodowe
 Bezprzewodowe
 Jednouszne
-Dwuuszne
 Kable przyłączeniowe
 Gąbki
 Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Walizki/Torby Transportowe
 Higiena
 Słuchawki
 Mikrofony
 Ładowarki
-Walizki/Torby Transportowe
+Akcesoria
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
-Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -498,10 +492,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
+Morskie
 Analogowe
 Cyfrowe
 Akcesoria
-Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -522,13 +516,13 @@ Wielorodzinne
 Przewodowe
 Bezprzewodowe
 Interkomy
+Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
-Daszki
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -558,9 +552,9 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
+Na kartę SIM
 Bezprzewodowe
 Przewodowe
-Na kartę SIM
 Przemysłowe
 Zewnętrzne
 Wewnętrzne
@@ -628,13 +622,13 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Panele krosowe
 Wtyki i gniazda sieciowe
+Panele krosowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
-Łączniki kabli
-Wtyki
+Kategorii 5
+Kategorii 6
+Puste
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -1013,4 +1007,10 @@ zestaw
 helpdesk
 biuro obsługi klienta
 call center
-sprzęt telek
+sprzęt telekomunikacyjny
+open space
+Jabra
+seria Evolve
+redukcja szumów
+PLANET
+Grandstr

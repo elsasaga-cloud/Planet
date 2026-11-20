@@ -1,4 +1,4 @@
-# XC-M154 Pulse Supply · home · https://pulsesupply.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# XC-M154 Pulse Supply · home · https://pulsesupply.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Telecommunications & WAN Equipment Supplier – Pulse Supply
 Email: Sales and Support
 410.583.1701
@@ -340,9 +340,13 @@ Adtran FSP 150-XG400 Series
 Enormous bandwidth growth in fixed, mobile and cable networks is forcing service providers to take the next step in scaling their metro networks.
 The move to 100Gbit/s aggregated capacity in the access network enables reliable aggregation of multiple 10Gbit/s streams, but at the same time increases the need for 100Gbit/s bandwidth services.
 Our FSP 150-XG400 Series is the ultimate tool for scaling edge networks. For the first time, fixed and mobile operators can deploy a MEF 3.0-certified 100Gbit/s demarcation device that enables a seamless expansion of their access networks. This breakthrough technology provides the improved distribution of precise synchronization needed for 5G applications.
-Learn more abou t
-A True Value-Added Distributor
-Where Legacy Networks Meet Modern Networking
+Ruggedized Communications - Nuclear and Data Center
+Legacy Serial and Cellular Communications Solutions
+Legacy serial and cellular communications are not going away any time soon
+With the proliferation of the Internet, IP, and now AI, many industrial, government, and business applications don't require the latest communications solutions. They have worked for decades with incredible reliability and simplicity. All the while maintaining enhanced security and protection. In addition, the return on investment continues to increase. The modern communications offering ignore these older technologies, but Pulse Supply does not.
+Pulse Supply delivers carrier-grade legacy serial and cellular industrial communications solutions and products to address the interconnection to legacy hardware.
+Pulse Supply is a leading provider of industrial and ruggedized communications equipment in North America. Call for a free consultation.
+Click here to solve legacy serial communications!
 Ruggedized Communications - Nuclear and Data Center
 Small Module Reactor Solutions from Pulse Supply
 Mini nuclear reactor plants require rugged, high-integrity, secure communications and power generation safety systems.
@@ -368,6 +372,9 @@ Let us show you what we can do for your company or organization:
 - Carrier Grade, Large Area Cellular Extender and Repeater Extends cellular reception to large areas, valleys, and tunnels where existing cell towers are inadequate
 - Leading Edge Communications Cellular and SMS Gateways
 - Tap into the world of VoIP/SIP to save money and improve network efficiency
+Learn more abou t
+A True Value-Added Distributor
+Where Legacy Networks Meet Modern Networking
 Leading Edge Solutions.
 Hosted PBX/UCaaS/Class 5 Softswitch Replacement
 We provide the ioTRAN Cloud Communications Platform for SaaS, Hybrid, or On-premise.
@@ -408,29 +415,3 @@ Suppose you are an IT solutions or technology provider, VAR, distributor, resell
 - Access to thousands of specialized communications and networking products
 - Pre-sales support to make sure it’s the right solution
 - Work with people who care about seeing your business succeed
-- Your customers require products that fall outside of your expertise. Fill technology and product gaps
-- Choose between agent or reseller programs for maximum flexibility
-Get started today!
-Navigate.
-Home
-Products
-Manufacturers
-Solutions
-Services
-Contact Us
-Company.
-About Us
-What We Do
-Mission Statement
-Contact.
-Offices
-Email
-Support
-Careers.
-Employment
-Sales Positions
-Partner Program
-Terms & Privacy.
-Terms & Conditions
-Social.
-Copyright © 2026 Pulse Supply. All Rights Reserved. .

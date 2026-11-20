@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-20T10:12:13Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -23,42 +23,41 @@ Automatización 144
 #telefonía #networking #CallCenter 138
 Incendio 114
 Blog SYSCOM
+BioStation 3 Max: rostro, huella, QR y tarjetas en una sola terminal de acceso
+La terminal insignia de Suprema combina reconocimiento facial y huella dactilar potenciados por IA con RFID multitecnología, credenciales móviles NFC/BLE y QR opcional, administrada desde BioStar X.
+ZR
+Zaira Romero · Hoy
+ROKU SmartTV QLED 58 pulgadas: 4K UHD y Dolby Audio para espacios que exigen presencia
+Cecilia Martinez · Hoy
 Amplificador EPW240E de 240W: red, WiFi y Bluetooth para audio comercial
-El EPW240E de EPCOM PROAUDIO concentra 240W, salida de 100V y baja impedancia, entrada XLR con phantom de 48V y streaming por WiFi y Bluetooth 5.0 en un chasis de escritorio de 1 kg. Una sola pieza resuelve música ambiental y voceo en cafeterías, consultorios, tiendas y salas de juntas.
-AC
-Adan Corona · Hoy
+Adan Corona · Ayer
 LP1TVBOX: el set-top box Android TV 14 que lleva 4K y gestión remota a tu red IPTV
-Adan Corona · Hoy
+Adan Corona · Ayer
 NAS Synology DS925+: 4 bahías, doble 2.5GbE y DSM para centralizar datos críticos
-Adan Corona · Hoy
+Adan Corona · Ayer
 Networking TP-Link
 Omada SD-WAN: cómo conectar sucursales sin depender de MPLS
-Víctor Villarreal · Hoy
+Víctor Villarreal · Ayer
 Networking TP-Link
 Caso de éxito: cómo Margaritaville Island Reserve unificó su red con TP-Link Omada
-Víctor Villarreal · Hoy
+Víctor Villarreal · Ayer
 Energía Solar shelly
 Victron Energy + Shelly: cuando sobra sol, la casa lo aprovecha sola
-MARVIN IRAM BARRIO GARCIA · Ayer
+MARVIN IRAM BARRIO GARCIA · hace 2 días
 Videovigilancia Sistemas de Seguridad
 El poder que tu VMS necesita ya está en stock: THINKP2U9, THINKP2U7, THINKP2U7V2 y THINKP3U5
-Alfonso Berumen · Ayer
+Alfonso Berumen · hace 2 días
 Sistemas de Seguridad Control de acceso
 Adiós a los Cables y a la Incertidumbre: 4 Soluciones de Yonusa que Revolucionan el Control y la Seguridad
-VICTOR MANUEL VEGA GONZALEZ · Ayer
+VICTOR MANUEL VEGA GONZALEZ · hace 2 días
 Sistemas de Seguridad Detección de Incendios
 Cirrus Hybrid: el detector por aspiración que ve el humo invisible
-MARIO ALBERTO HERNANDEZ REYNOSA · Ayer
+MARIO ALBERTO HERNANDEZ REYNOSA · hace 2 días
 Videovigilancia GPS y M2M
 Cámara inalámbrica CA42 de Streamax: 1080p en el exterior del vehículo sin pasar un cable
-Alfonso Berumen · Ayer
+Alfonso Berumen · hace 2 días
 TPMe de AIRBUS: radio móvil de nueva generación para flotas profesionales
-Dsanchez · hace 5 días
-Video wall 2x2 de 109 pulgadas: cuatro pantallas Samsung VM55BU que se leen como una sola
-Cecilia Martinez · hace 5 días
-Videovigilancia redes
-WI-LTE117-O V2: router 4G LTE exterior con PoE de salida para cámaras
-FERNANDO OROZCO LOPEZ · hace 5 días
+Dsanchez · hace 6 días
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

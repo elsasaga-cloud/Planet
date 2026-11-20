@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_2 · https://www.discomp.cz/default.asp?Show=WebNews&WenId=-1&WenTagC=wnNews · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1335 discomp.cz · news_2 · https://www.discomp.cz/default.asp?Show=WebNews&WenId=-1&WenTagC=wnNews · fetched 2026-11-20T10:12:13Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -7,6 +7,10 @@ News
 Informations
 Products tip
 Events
+Huawei eKit Discount: Reward for Cooperation – Free Headphones!
+News 20.11.2026
+Take advantage of special promotional prices on Huawei eKit products. Purchase the complete Bundle 1 between 20 November and 20 December 2026 and, if you are a registered HUAWEI eKit Installer Partner in your local Huawei region with a valid Partner Code and meet the campaign conditions, you may also qualify for a free pair of Huawei FreeBuds NEO wireless earphones (approx. value: EUR 100).
+Read more
 New Wi-Fi 6 LHG Models Are Here!
 News 23.5.2025
 The long-awaited continuation of the popular LHG series has arrived! Discover the new LHG 5 ax (24.5 dBi) and LHG XL 5 ax (27 dBi) models, now with Wi-Fi 6 technology for even greater speed and stability over long distances.
@@ -77,7 +81,4 @@ News 19.4.2022
 The most affordable imaginary gateway to 100 Gigabit networks is coming to the market. The MikroTik manufacturer has released the CCR2216-1G-12XS-2XQ to the world, which has 4x higher power than the CCR1072 and is equipped with 12x SFP28 (25 Gbps), 2x QSFP28 (100 Gbps), 2 Hot-Swap power sources and 4 fans. Another key device for building such a fast network is the Switch CRS504-4XQ-IN with 4x QSFP28 (100 Gbps), in a rack design and 2 Hot-Swap power sources.
 MikroTik 60GHz news with 802.11ay support
 News 10.3.2022
-MikroTik has released 3 new 60GHz innovations to the world which have the latest 802.11ay standard and 5GHz backup (802.11a/n/ac) connectivity. These units have a Gigabit LAN port with extensive PoE support, a robust adjustable bracket, an L4 license and an 11° antenna for a client station or 60° for a sector. All units have TDMA sync using GPS and a range of 1000 m for PtMP or up to 2400 m for PTP.
-New UniFi Access Point WiFi 6 Pro - U6-Pro
-News 25.1.2022
-The king is dead, long live the king! After a long time, there is a new and incredibly
+MikroTik has released 3 new 60GHz innovations to the world whic

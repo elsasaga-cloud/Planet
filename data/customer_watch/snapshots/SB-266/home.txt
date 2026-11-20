@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,41 +41,43 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Seagate HDD Exos M, 3.5", 32TB, SATA
-34 301 Kč bez DPH
-41 504 Kč s DPH
-QuWireless Anténa QuSpot pro Teltonika RUTX11
-3 832 Kč bez DPH
-4 637 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, bílý
-62 Kč bez DPH
-75 Kč s DPH
-Ubiquiti UniFi patch kabel, 1m, Cat5e, černý
+Samsung 990 NVMe SSD, M.2, 1TB
+4 135 Kč bez DPH
+5 003 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý
 91 Kč bez DPH
 110 Kč s DPH
-Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 1m, 50 pack
-2 664 Kč bez DPH
-3 223 Kč s DPH
+Conexpro napájecí kabel 230V AC s oholeným koncem, 3x1 mm2, 3m
+78 Kč bez DPH
+94 Kč s DPH
+MEAN WELL DDR-60L-24 Step-down měnič napětí DC/DC, 60W
+743 Kč bez DPH
+899 Kč s DPH
+TP-Link Tapo T150 Smart senzor lidské přítomnosti
+977 Kč bez DPH
+1 183 Kč s DPH
+Ubiquiti UX7, UniFi Express 7, 3 pack
+14 313 Kč bez DPH
+17 318 Kč s DPH
+Hikvision AX PRO Bezdrátový detektor rozbití skla
+Hikvision IP bullet kamera DS-2CD1047G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
+DEYE Nabíjecí stanice pro elektromobily s LoRa, 11kW, 3 fáze, Type 2
+6 630 Kč bez DPH
+8 023 Kč s DPH
+Hikvision IP bullet kamera DS-2CD2T43G2-4LI(4mm), 4Mpx, 4mm, 80m LED/IR, AcuSense
+Teltonika Telematics FMC927, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1
+1 482 Kč bez DPH
+1 793 Kč s DPH
 MEAN WELL HDR-60-15 Průmyslový zdroj na DIN lištu, 60W, 15V
 509 Kč bez DPH
 616 Kč s DPH
-Teltonika Security GSVPg, Komunikační rozhraní s 4G Cat 1 pro P64
-1 623 Kč bez DPH
-1 964 Kč s DPH
-MERCUSYS MR78X Wi-Fi 6 Router
-814 Kč bez DPH
-985 Kč s DPH
-Ubiquiti UniFi patch kabel, 15m, Cat5e, černý
-477 Kč bez DPH
-577 Kč s DPH
-Triton 19" stojanový rack 22U/600x600 prosklené dveře, černý
-8 276 Kč bez DPH
-10 014 Kč s DPH
-Teltonika Security S32GE, Hybridní zabezpečovací ústředna s 2G/LTE Cat 1 a eSIM, 32 zón + 10let eSIM
-3 806 Kč bez DPH
-4 605 Kč s DPH
-Hikvision DS-2FA1205-C8 Vícekanálový spínaný zdroj 12V/5A, 8x výstup
-Hikvision IP bullet kamera DS-2CD1T27G3-LIU(2.8mm), 2Mpx, 2.8mm, ColorVu 3.0
+Conexpro sada 4 plastových vyvazovacích háčků do racku pro kabely 37 x 39mm, bílý
+69 Kč bez DPH
+83 Kč s DPH
+Teltonika Napájecí zdroj na DIN lištu, 12V, 20W
+455 Kč bez DPH
+550 Kč s DPH
+Hikvision IP turret hybrid kamera DS-2CD2383G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

@@ -1,4 +1,4 @@
-# SB-919 Bismon Co.,Ltd · home · https://www.bismon.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-919 Bismon Co.,Ltd · home · https://www.bismon.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 BISMON | Communication Products - Fiber Optic, Industrial Switch, UTP Cable, OTDR Thailand
 [email protected]
 +662-563-5000
@@ -120,6 +120,7 @@ Fiber Patch Others
 - Dispatching Patch cord
 - Flex angle boot & Mini boot
 - (POF) Plastic Optical Fiber Cable
+- Waterproof Armored Fiber Patch LP-24 Series
 Fiber Optic Cable Stripper
 - Ideal Cable Strippers
 - Miller Cable Strippers
@@ -274,6 +275,7 @@ Cabinet Outdoor for Fiber Optic
 - 15U Premium Rack
 - 27U Premium Rack
 - 45U Premium Rack
+- 42U Premium Server Rack
 Tools
 - Rachet Puller
 - Safety Belt
@@ -459,5 +461,4 @@ CANBus to Fiber
 Data Center and Cloud Computing Switch
 Broadcom Series
 Marvell Series
-Surge Protection for CCTV&Network Camera
-- Surge Protection for CCTV (HD-AHD, T
+Surge P

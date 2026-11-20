@@ -1,7 +1,8 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
-2026-11-19	https://www.streakwave.com/
-2026-11-19	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+2026-11-20	https://www.streakwave.com/
+2026-11-20	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
+2026-11-19	https://www.streakwave.com/all-products
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
 2026-07-28	https://www.streakwave.com/memory-surcharge
 2026-07-28	https://www.streakwave.com/antennas
@@ -67,7 +68,7 @@
 2026-07-28	https://www.streakwave.com/licenses-software
 2026-07-28	https://www.streakwave.com/warranties-support-plans
 2026-07-28	https://www.streakwave.com/power-supplies-adapters
-2026-07-28	https://www.streakwave.com/closeout-deals
+2026-11-19	https://www.streakwave.com/closeout-deals
 2026-01-19	https://www.streakwave.com/9dot
 2026-01-19	https://www.streakwave.com/algo
 2026-01-19	https://www.streakwave.com/arc-wireless
@@ -131,6 +132,8 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-19	https://www.streakwave.com/16-port-gigabit-l2-lite-managed-poe-switch
+2026-11-18	https://www.streakwave.com/24-port-gigabit-l2-lite-managed-poe-switch
 2026-11-13	https://www.streakwave.com/clairé-lite-indoor-air-quality-monitor-white
 2026-11-12	https://www.streakwave.com/600w-hot-swap-dc-dc-power-supply-for-crs320
 2026-11-12	https://www.streakwave.com/ubiquiti-ua-g3-fingerprint-w-g3-reader-fingerprint-white
@@ -191,7 +194,4 @@
 2026-10-08	https://www.streakwave.com/2x2-wifi-6-ap-1g-lan-dual-optimized-antenna-nebulaflex-pro-1-year
 2026-10-08	https://www.streakwave.com/wifi-6-wall-plate-ap-poe-passthrough-nebulaflex-pro-1y
 2026-10-08	https://www.streakwave.com/wall-mount-arm-for-zyxel-aps
-2026-10-08	https://www.streakwave.com/45w-usb-c-pd-power-adapter-for-zyxel-aps
-2026-10-08	https://www.streakwave.com/t-bar-mounting-bracket-kit-5-sets-for-aps
-2026-10-08	https://www.streakwave.com/1310nm-10km-single-mode550m-multi-mode-gigabit-transciever
-2026-10-08	https://www.streakwave.
+2026-10-08	https://www.streakwave.com/45w-usb-c-pd-power-adapter-for-zyxel-ap

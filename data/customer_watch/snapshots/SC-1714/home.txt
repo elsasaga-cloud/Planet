@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Omni Ray AG | Ihr Automationspartner | E-Shop | Top Preise
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -129,6 +129,9 @@ Bestellstatus im Blick und Favoriten speichern.
 Sparen Sie Zeit dank schnellerer Checkout.
 Jetzt anmelden
 Produkt-News
+RSK-3200: Kontaktloser Winkelsensor für anspruchsvolle Anwendungen
+Der RSK-3200 von Novotechnik ermöglicht kontaktlose Winkelmessungen bis 360°. Robust, redundant und für mobile Maschinen geeignet.
+20.11.2026
 Einfache SSI-Integration für zuverlässige Neigungsmessung
 Der neue POSITAL TILTIX Neigungssensor mit SSI-Schnittstelle ermöglicht eine präzise Erfassung von Neigung und Position – ideal für die Fabrikautomation, Produktionsmaschinen und weitere anspruchsvolle industrielle Anwendungen.
 17.11.2026
@@ -144,9 +147,6 @@ Die industriellen Secure Router Moxa EDR-G9004 bieten eine wirkungsvolle Lösung
 Sichere SHDSL-Verbindungen mit XSLAN-Extendern von Etic Telecom
 Die XSLAN-Produktfamilie von Etic Telecom ermöglicht die zuverlässige Vernetzung dezentraler Ethernet-Netzwerke über bestehende zweiadrige Kupferleitungen. Damit können Betreiber industrieller Anlagen und Kritischer Infrastrukturen ihre vorhandene Leitung
 06.11.2026
-TWS-3010-SPE: Single Pair Ethernet managed Switch von Moxa
-Mit dem TWS-3010-SPE Gerät präsentiert Moxa einen managed Ethernet-Switch, der Single Pair Ethernet (SPE) und Power over Data Line (PoDL) kombiniert. Damit ermöglicht das Gerät die gleichzeitige Übertragung von Daten und Strom über ein einziges verdrillte
-05.11.2026
 Previous slide
 Next slide
 Marken
@@ -470,4 +470,12 @@ Streamer - Verstärker
 Lautsprecher
 Modulor von laboratorioaudio
 Omni / Iride von laboratorioaudio
-SUB
+SUB von laboratorioaudio
+Zubehör
+Sonstiges
+Busleitung und Klemme
+Ventile
+Zonenventile
+Zubehör
+Stellantriebe
+Ventilstella

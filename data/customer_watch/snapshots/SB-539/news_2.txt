@@ -1,4 +1,4 @@
-# SB-539 ipcomm.de · news_2 · https://www.ipcomm.de/reference_en.html · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-539 ipcomm.de · news_2 · https://www.ipcomm.de/reference_en.html · fetched 2026-11-20T10:12:13Z · HTTP 200
 IPCOMM, References Worldwide
 The perfect gateway in a snap!
 "> Product Wizard
@@ -32,8 +32,6 @@ Video Tutorials
 References Worldwide
 Product Wizard
 To the Gateway in a snap
-News and events
-Meet us at stand 2045!
 Get in touch!
 Customer support
 +49 911 18 07 91 - 0

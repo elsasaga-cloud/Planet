@@ -1,4 +1,8 @@
-# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-20T10:12:13Z · HTTP 200
+2026-11-19T12:06:34+00:00	Cihazın ağ ayarları: tahmin etmez, sorar | AeroDiagram Teknik Eğitim 04	https://www.youtube.com/watch?v=4_PaNqd1znU
+2026-11-19T12:04:42+00:00	Modbus register tablosu PDF'ten: adresleri tek tek girmeden | AeroDiagram Teknik Eğitim 03	https://www.youtube.com/watch?v=q0tr50NcMAg
+2026-11-19T12:02:29+00:00	IEC 61850 istemcisi: AI ile Hızlı Konfigürasyon | AeroDiagram Teknik Eğitim 02	https://www.youtube.com/watch?v=fWK5I9YriVM
+2026-11-19T11:59:43+00:00	IEC 104 nokta tablosu: sinyal girer, nokta çıkar | AeroDiagram Teknik Eğitim 01	https://www.youtube.com/watch?v=8vTHFFNRDOM
 2026-11-16T16:00:09+00:00	FBD, Ladder ve Structured Text Tek Bir Projede | AeroDiagram	https://www.youtube.com/shorts/bm-vYuY7I9Q
 2025-09-24T11:49:26+00:00	DNP3 Slave Protokol Tanımlamaları (Firmware versiyon 19.05 ve üzeri için)	https://www.youtube.com/watch?v=2eCD7ejVBhk
 2025-09-24T11:49:04+00:00	DNP3 Slave Protocol Definitions (for firmware version 19.05 and above)	https://www.youtube.com/watch?v=UB9DqjramDU
@@ -10,7 +14,3 @@
 2024-06-07T12:22:58+00:00	18 FBD Macro Applicationsproje	https://www.youtube.com/watch?v=jXof4RAFMBA
 2024-06-07T12:22:28+00:00	17 FBD Data Event Logging, System, Calendar Applications	https://www.youtube.com/watch?v=9fhjrNDYjTY
 2024-06-07T12:22:03+00:00	16 FBD HVAC Applications	https://www.youtube.com/watch?v=8g30RZR0gio
-2024-06-07T12:18:20+00:00	15 FBD Controller Applications	https://www.youtube.com/watch?v=VnDpKLcZmSE
-2024-06-07T12:17:53+00:00	14 FBD Table Applications	https://www.youtube.com/watch?v=u_OmGjBQ7cI
-2024-06-07T12:17:25+00:00	13 FBD GSM, String Applications	https://www.youtube.com/watch?v=UZR1CyxCWk0
-2024-06-07T12:17:00+00:00	12 FBD MODBUS, Communication Applications	https://www.youtube.com/watch?v=_nP38FZej5g

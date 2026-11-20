@@ -1,4 +1,4 @@
-# SB-432 qubix.it · home · https://www.qubix.it/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-432 qubix.it · home · https://www.qubix.it/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 QUBIX – Networking Solution
 ×
 Area riservata: login
@@ -262,6 +262,15 @@ Scopri di più
 Sei un Installatore ?
 QUBIX S.p.A . mette a disposizione per te sul nostro portale una serie di PLUS per rendere le tue operatività più semplici ed assistite dal nostro staff competente e sempre a tua disposizione.
 Scopri di più
+È arrivato CuBLU di AEM Networks
+18 Novembre 2026
+Continua a leggere
+https://www.qubix.it/wp-content/uploads/2026/12/CuBLU_16-9-News-sito.jpg
+366
+900
+Alessandro
+https://www.qubix.it/wp-content/uploads/2022/01/Logo-QUBIX-rettangolare-homepage-QBX.png
+Alessandro 2026-11-18 2026-11-20 È arrivato CuBLU di AEM Networks
 Vi aspettiamo a Smart Building Levante 2026 il 18 e 19 novembre
 19 Ottobre 2026
 Continua a leggere
@@ -298,15 +307,6 @@ https://www.qubix.it/wp-content/uploads/2026/08/net-260576-it-eur-emea-copper-fi
 Alessandro
 https://www.qubix.it/wp-content/uploads/2022/01/Logo-QUBIX-rettangolare-homepage-QBX.png
 Alessandro 2026-09-01 2026-08-28 Nuova promo Fluke: Testati. Affidabili. Pronti a tutto.
-Qubix festeggia 25 anni: due giornate di squadra a Venezia
-2 Luglio 2026
-Continua a leggere
-https://www.qubix.it/wp-content/uploads/2026/07/Qubix-SpA-Team-202606-1.jpg
-244
-600
-Alessandro
-https://www.qubix.it/wp-content/uploads/2022/01/Logo-QUBIX-rettangolare-homepage-QBX.png
-Alessandro 2026-07-02 2026-07-02 Qubix festeggia 25 anni: due giornate di squadra a Venezia
 Anteriore Posteriore
 Sei un Progettista ?
 Sviluppare progetti tecnici con noi è semplice. QUBIX S.p.A . ti propone alcune specifiche funzionalità per ottenere rapidamente supporto tecnico e la documentazione necessaria per le tue attività.
@@ -335,6 +335,9 @@ Strumenti di misura
 Strumenti per la certifica e la verifica di impianti dati.
 Networking
 Apparato attivi per reti LAN e sistemi di videosorveglianza.
+È arrivato CuBLU di AEM Networks
+Read more
+18 Novembre 2026
 Novità Qubix: apparati attivi, cavo Long Reach e strumenti per la fibra ottica
 Read more
 24 Settembre 2026
@@ -362,9 +365,6 @@ Read more
 EXFO EX10, tester di velocità WiFi e Ethernet
 Read more
 10 Novembre 2022
-Nuovo cavo fibra ottica in Euroclasse Cca
-Read more
-7 Novembre 2022
 Qubix
 Qubix SpA
 Via Canada, 22/A
@@ -437,4 +437,5 @@ Multimodali 50/125 OM2 (3)
 Multimodali 50/125 OM3 (3)
 Multimodali 50/125 OM4 (3)
 Multimodali 62,5/125 (2)
-Cavi per i
+Cavi per interno/esterno con armatura dielettrica (28)
+Monomodali 9/12

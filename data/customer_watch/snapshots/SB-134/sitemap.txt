@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/4mpx-wifi-kamera-s-mikrofon-i-cvetno-nostno-vizdane
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -106,6 +106,7 @@
 	https://www.kassabasystems.com/4MPX-IP-komplekt-s-4-kameri-TRX-4IPDAW
 	https://www.kassabasystems.com/nov-4k-komplekt-s-4br-8mpx-ip-poe-vanshni-kameri-sony-imx412-matritsa-dual-light-podsvetka-4k-nvr-i-poe-suich-4ip8adl-poe
 	https://www.kassabasystems.com/8ip4mda-4mpx-komplekt-za-videonablyudenie-ot-visok-klas-s-8br-vandaloustoichivi-kameri-s-mikrofon-i-10-kanalen-4k-nvr
+	https://www.kassabasystems.com/komplekt-za-videonablyudenie-ot-4-broya-wifi-kameri-i-edin-nvr-4br50wca
 	https://www.kassabasystems.com/4dir4k-8mpx-komplekt-za-videonablyudenie-s-4-br-4k-ultra-hd-kameri-i-xibriden-xvr
 	https://www.kassabasystems.com/6ip4m-poe-tsifrov-ip-komplekt-s-6br-poe-kameri-4mpx-dual-light-s-mikrofoni-i-tsvetno-noshtno-vizhdane-4k-10-kanalen-nvr-i-poe-suich
 	https://www.kassabasystems.com/trx-robot-dc-3mpx-dvoina-vanshna-wifi-kamera-s-mikrofon
@@ -140,4 +141,4 @@
 	https://www.kassabasystems.com/ip-kamera-trx-dcs13-a
 	https://www.kassabasystems.com/4robot25-3mp-wifi-bezzhichen-tsifrov-komplekt-s-4br-wifi-3mpx-upravlyaemi-vanshni-kameri-i-nvr-videorekorder-ultra-hd
 	https://www.kassabasystems.com/4dlf-5mpx-palen-komplekt-za-videonablyudenie-s-4-kameri-i-dvr
-	https://www.kassabasystems.com/2hik4kb-4-kanalen-komplekt-s-4br-ip-kupolni-kameri-4k-8mpx-dual-light-mikrofon-i-tsvetno-noshtno
+	https://www.kassabasyst

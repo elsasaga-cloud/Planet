@@ -1,4 +1,5 @@
-# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-20T10:12:13Z · HTTP 200
+Thu, 19 Nov 2026 15:33:23 +0000	Plenum vs Riser Cable: What’s the Difference?	https://52networks.com/plenum-vs-riser-cable/
 Wed, 18 Nov 2026 18:13:41 +0000	Cat6A Plenum 1000ft Cost: What to Expect in 2026	https://52networks.com/cat6a-plenum-1000ft-cost/
 Sun, 15 Nov 2026 16:51:34 +0000	Cat6A vs Cat6 Plenum Price: Is the Upgrade Worth It?	https://52networks.com/cat6-vs-cat6a-plenum-cable/
 Thu, 12 Nov 2026 16:32:47 +0000	The Future of Network Cabling: Trends in Ethernet, CCTV, and Audio Systems	https://52networks.com/the-future-of-network-cabling-trends-in-ethernet-cctv-and-audio-systems/
@@ -8,4 +9,3 @@ Thu, 29 Oct 2026 14:53:37 +0000	How to Build a Reliable Network Infrastructure f
 Thu, 29 Oct 2026 14:50:53 +0000	Complete Structured Cabling Guide for Small Businesses	https://52networks.com/complete-structured-cabling-guide-for-small-businesses/
 Wed, 21 Oct 2026 03:43:11 +0000	What Is PoE? A Complete Guide to Power over Ethernet	https://52networks.com/what-is-poe-a-complete-guide-to-power-over-ethernet/
 Wed, 21 Oct 2026 03:40:28 +0000	How Long Can an Ethernet Cable Run? Cat5e, Cat6 & Cat6A Maximum Distances	https://52networks.com/how-long-can-an-ethernet-cable-run-cat5e-cat6-cat6a-maximum-distances/
-Tue, 13 Oct 2026 14:44:00 +0000	Solid vs Stranded Ethernet Cable: Which One Should You Use?	https://52networks.com/solid-vs-stranded-ethernet-cable-which-one-should-you-use/

@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -24,10 +24,10 @@ Serwis
 Kontakt
 Kategorie
 Access Pointy (659)
-Akcesoria (439)
+Akcesoria (440)
 Akcesoria GSM/LTE (375)
 Anteny (376)
-Automatyka i Przemysł (443)
+Automatyka i Przemysł (447)
 Części serwisowe (161)
 Elektryka (13)
 Inteligentny dom (92)
@@ -35,26 +35,26 @@ Karty sieciowe (85)
 Komputery (152)
 Kontrolery sieciowe (31)
 Media konwertery (76)
-Monitoring (314)
+Monitoring (315)
 Okablowanie (698)
 Platformy WLAN (2)
 Radiolinie (85)
 Routery (183)
 Routery ADSL (5)
 Światłowody (1707)
-Switche (681)
+Switche (682)
 Szafy rack 10/19 cali (500)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
 Zasilanie (832)
 Zdrowie (10)
-Złącza (245)
+Złącza (248)
 MikroTik (406)
 Solarix (140)
-Teltonika (392)
+Teltonika (396)
 Tenda (175)
 TP-Link (479)
-Ubiquiti (803)
+Ubiquiti (805)
 ♻️ Towary refurbished (2)
 Wybierz producenta
 Wybierz
@@ -135,12 +135,12 @@ Joinwit (2)
 Kemot (2)
 Kingston (12)
 Kruger&Matz (4)
-Lanberg (153)
+Lanberg (155)
 LeoLabs (8)
 LH (1)
 Logitech (2)
 LR-Link (14)
-Mantar (102)
+Mantar (103)
 Mastech (2)
 Master Connectors (5)
 Maxcable (22)
@@ -191,7 +191,7 @@ StalFlex (279)
 TechnicLan (23)
 Telcoline (98)
 Telcom (8)
-Teltonika (307)
+Teltonika (311)
 Tenda (222)
 Tinycontrol (71)
 Tonze (1)
@@ -204,7 +204,7 @@ TrendNet (3)
 TriBrer (5)
 Triset (4)
 TVIP (1)
-Ubiquiti (863)
+Ubiquiti (865)
 UltiPulse (4)
 UNI-T (4)
 UPLink (27)
@@ -291,42 +291,42 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Sektor Tornado Pro 18 SH
-129,15 zł z VAT
-221,40 zł
-105,00 zł netto
+Daszek Orno OR-Dom-RL-901DN/G
+55,35 zł z VAT
+61,49 zł
+45,00 zł netto
 szt
-Najniższa cena z 30 dni: 221,40 zł
+Najniższa cena z 30 dni: 61,49 zł
+Quectel EM160R-GL Modem M.2 LTE Cat.16
+736,77 zł z VAT
+1 105,77 zł
+599,00 zł netto
+szt
+Najniższa cena z 30 dni: 1 105,77 zł
+MikroTik wAP LR2 kit (RBwAPR-2nD&R11e-LR2)
+479,70 zł z VAT
+558,83 zł
+390,00 zł netto
+szt
+Najniższa cena z 30 dni: 558,83 zł
 Wisnetworks WIS-L5800N Hi-Power Base Station
 356,70 zł z VAT
 431,73 zł
 290,00 zł netto
 szt
 Najniższa cena z 30 dni: 431,73 zł
-MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ)
-6 765,00 zł z VAT
-7 405,85 zł
-5 500,00 zł netto
+ExtraLink 8F Cable (FRP indoor/ outdoor)
+0,98 zł z VAT
+1,29 zł
+0,80 zł netto
 szt
-Najniższa cena z 30 dni: 7 405,85 zł
-Pigtail U.FL - N/m (20 cm)
-8,49 zł z VAT
-18,91 zł
-6,90 zł netto
+Najniższa cena z 30 dni: 1,29 zł
+Pigtail N/m kątowe - RP-SMA/m kątowe (25 cm)
+12,18 zł z VAT
+27,96 zł
+9,90 zł netto
 szt
-Najniższa cena z 30 dni: 18,91 zł
-TP-Link Deco E4
-178,35 zł z VAT
-195,57 zł
-145,00 zł netto
-szt
-Najniższa cena z 30 dni: 195,57 zł
-ALFA Network AWPCI085S
-23,37 zł z VAT
-95,94 zł
-19,00 zł netto
-szt
-Najniższa cena z 30 dni: 95,94 zł
+Najniższa cena z 30 dni: 27,96 zł
 Najnowsze propozycje
 NOWOŚĆ
 Moduł keystone 10G RJ-45 UTP kat.6a, samozaciskowy, kolorowe moduły (SXKJ-10G-UTP-RAL-SA)
@@ -339,8 +339,8 @@ Obudowa rack 19", 1U, szara dla splittera PLC SM 3x 1:8 SC/APC
 85,77 zł netto
 szt
 Teltonika RMS Management Pack, licencja na 3 lata + Rozszerzona gwarancja na 3 lata (grupa G)
-647,96 zł z VAT
-526,80 zł netto
+653,87 zł z VAT
+531,60 zł netto
 szt
 NOWOŚĆ
 TP-Link EAP727
@@ -354,23 +354,23 @@ TP-Link Fusion 2.5G PoE
 szt
 NOWOŚĆ
 Ubiquiti Access Fail-Safe Strike Lock (UACC-Lock-Strike-Safe-15mm)
-422,71 zł z VAT
-343,67 zł netto
+426,95 zł z VAT
+347,11 zł netto
 szt
 NOWOŚĆ
 Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
-97,91 zł z VAT
-79,60 zł netto
+97,86 zł z VAT
+79,56 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 774,28 zł z VAT
-6 320,55 zł netto
+7 852,11 zł z VAT
+6 383,83 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect G6 Pro 360 (UVC-G6-Pro-360-B)
-2 605,32 zł z VAT
-2 118,15 zł netto
+2 631,41 zł z VAT
+2 139,36 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
@@ -380,6 +380,4 @@ Tenda CP6 obrotowa kamera do monitoringu domowego
 64,55 zł netto
 more
 WYSYŁKA
-Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
-Koszty przesyłki:
-DHL
+Zamówienia złożone i potwierdzone do godz. 15-tej są realizo

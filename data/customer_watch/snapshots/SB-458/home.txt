@@ -1,4 +1,4 @@
-# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 อุปกรณ์ Fiber Optic สายไฟเบอร์ออฟติก อุปกรณ์เครือข่าย Network อื่นๆ ราคาปลีก-ส่ง
 จัดส่งด่วนทั่วไทย
 ของแท้ 100%
@@ -134,10 +134,10 @@ FiBER Switch
 POE SWITCH
 10/100 PoE
 GIGABIT PoE
-2.5Gbps PoE
+2.5G PoE
 INDUSTRIAL PoE
 FiBER PoE
-อุปกรณ์เสริม
+อุปกรณ์เสริม PoE
 สายแลน
 LAN Cat5E
 LAN CAT6
@@ -294,10 +294,10 @@ FiBER Switch
 POE SWITCH
 10/100 PoE
 GIGABIT PoE
-2.5Gbps PoE
+2.5G PoE
 INDUSTRIAL PoE
 FiBER PoE
-อุปกรณ์เสริม
+อุปกรณ์เสริม PoE
 สายแลน
 LAN Cat5E
 LAN CAT6
@@ -372,7 +372,7 @@ USB 2.0 To Fiber Extender 4 Port อุปกรณ์เชื่อมต่�
 ราคาไม่รวมภาษี: ฿2,850
 มีสินค้า
 DIN-rail 5-port MINI Gigabit industrial switch
-สวิตช์เครือข่ายเกรดอุตสาหกรรม (Industrial Switch) ขนาดมินิกะทัดรัด แบรนด์ HM รุ่..
+DIN-rail 5-port MINI Gigabit industrial switch ขนาดมินิกะทัดรัด แบรนด์ HM รุ่น I..
 ฿550 ฿880
 ราคาไม่รวมภาษี: ฿550
 มีสินค้า
@@ -380,11 +380,6 @@ IP (EOC) Over Coaxial ตัวแปลง IP ผ่านสาย RG6
 IP Over Coaxial Extender (EOC) สำหรับแปลงสัญญาณกล้องวงจรปิด IP Camera ผ่านสาย Co..
 ฿1,450 ฿1,890
 ราคาไม่รวมภาษี: ฿1,450
-มีสินค้า
-CISCO (GLC-T) SFP Copper RJ45 To LAN 1G
-อุปกรณ์แปลงพอร์ต SFP เป็น RJ45 (Copper) ความเร็ว Gigabit 1 Gbps แบรนด์ CISCO รุ่..
-฿350 ฿480
-ราคาไม่รวมภาษี: ฿350
 มีสินค้า
 สายไฟเบอร์ออฟติก SM 2C FRP, LSZH Flat Type (1KM)
 สายไฟเบอร์ออฟติกภายนอกอาคาร (FTTH Outdoor Drop Cable) แบรนด์ Spring ความยาว 1,00..
@@ -400,6 +395,11 @@ PON Meter รุ่น AUA-350A สำหรับวัด 3 ค่าแสง
 PON Power Meter รุ่น AUA-350A หัวเชื่อต่อแบบ SC/APC และ FC เป็นเครื่องมือวัดค่าส..
 ฿2,950 ฿3,720
 ราคาไม่รวมภาษี: ฿2,950
+มีสินค้า
+GLINK (GLC-010) Contact Cleanner ขนาด (200ml)
+Contact Cleaner แบรนด์ GLINK รุ่น GLC-010 ขนาดบรรจุ 200ml เป็นสเปรย์ หรือน้ำยาทำ..
+฿65 ฿85
+ราคาไม่รวมภาษี: ฿65
 มีสินค้า
 แนะนำ
 10G Media Converter (SFP) รุ่น HM-SFP-10G
@@ -443,6 +443,71 @@ Gigabit Switch SFP 4 Port + 2RJ45 Uplink แบรนด์ SDT-TECH รุ่�
 ราคาไม่รวมภาษี: ฿1,300
 มีสินค้า
 สินค้าอัพเดท
+Video 8CH To Fiber Converter 1080P SM BIDI 20KM
+Fiber Optic Video Converter 8 Channel 1080p อุปกรณ์แปลงสัญญาณกล้องวงจรปิดระบบ An..
+฿6,500 ฿8,580
+ราคาไม่รวมภาษี: ฿6,500
+สินค้าหมด
+Cable Marker EC-1 (0-9) ตัวมาร์คสายไฟ สายแลน ชุด 10 ตัวเลข
+ปลอกมาร์คสายไฟและสายแลน Cable Marker รุ่น EC-1 ขนาด 2.5 sq.mm. (ชุดตัวเลข 0-9) อ..
+฿380 ฿520
+ราคาไม่รวมภาษี: ฿380
+มีสินค้า
+Patch Cord SC-SC (UPC) SM Duplex ยาว 1 เมตร
+Patch Cord Fiber Optic SC/UPC Single Mode Duplex แบรนด์ OWIRE ความยาว 1 เมตร สาย..
+฿85 ฿120
+ราคาไม่รวมภาษี: ฿85
+สินค้าหมด
+TP-Link Gigabit Switch 8 Port รุ่น TL-SG108
+TP-Link TL-SG108 เป็นอุปกรณ์ Gigabit Switch ขนาด 8 พอร์ต ที่ช่วยให้คุณขยายเครือข..
+฿850 ฿1,150
+ราคาไม่รวมภาษี: ฿850
+มีสินค้า
+DIN-rail 5-port MINI Gigabit industrial switch
+DIN-rail 5-port MINI Gigabit industrial switch ขนาดมินิกะทัดรัด แบรนด์ HM รุ่น I..
+฿550 ฿880
+ราคาไม่รวมภาษี: ฿550
+มีสินค้า
+Power Supply 52V/95W สำหรับ POE Switch 8 Port
+อะไหล่ Power Supply สำหรับ POE Switch 8 Port แรงดันไฟ 52V กำลังไฟ 95 วัตต์ ใช้สำ..
+฿300 ฿410
+ราคาไม่รวมภาษี: ฿300
+มีสินค้า
+Power Supply 52V/150W สำหรับ POE Switch 16 Port
+อะไหล่ Power Supply สำหรับ PoE Switch 16 Port แรงดันไฟ 52V กำลังไฟ 150 วัตต์ ใช้..
+฿350 ฿480
+ราคาไม่รวมภาษี: ฿350
+มีสินค้า
+Adapter 52V/2.3A 120W สำหรับ PoE Switch
+Adapter PoE Switch 52V/2.3A (120W) (อย่างดี) รองรับช่วงแรงดันไฟตั้งแต่ 110-264VA..
+฿380 ฿480
+ราคาไม่รวมภาษี: ฿380
+มีสินค้า
+Dahua Adapter 53V/1.8A สำหรับ PoE Switch 8 Port
+Dahua Adapter 53V/1.81A รุ่น ADS-110DL-48N-1 เป็น Adapter ของแท้จาก Dahua ออกแบบ..
+฿850 ฿1,150
+ราคาไม่รวมภาษี: ฿850
+มีสินค้า
+Adapter 53V/1.2A สำหรับ PoE Switch Dahua 4 Port
+Dahua Adapter 53V/1.22A รุ่น S065-1A530122B3 เป็น Adapter ของแท้จาก Dahua ออกแบบ..
+฿650 ฿880
+ราคาไม่รวมภาษี: ฿650
+มีสินค้า
+Adapter 52V/1.25A สำหรับ PoE Switch 4 Port
+Adapter PoE Switch 52V/1.25A (65W) (อย่างดี) รองรับช่วงแรงดันไฟตั้งแต่ 110-264VA..
+฿280 ฿340
+ราคาไม่รวมภาษี: ฿280
+มีสินค้า
+ปลั๊กไฟ 5 ช่อง 10A LumiRa รุ่น LS-805 สายไฟ 3 เมตร
+ปลั๊กไฟ 5 ช่อง แบรนด์ LumiRa รุ่น LS-805 มาตรฐาน มอก. ความยาวสายไฟ 3 เมตร สำหรับ..
+฿250 ฿340
+ราคาไม่รวมภาษี: ฿250
+มีสินค้า
+CISCO (GLC-T) SFP Copper RJ45 To LAN 1G
+อุปกรณ์แปลงพอร์ต SFP เป็น RJ45 (Copper) ความเร็ว Gigabit 1 Gbps แบรนด์ CISCO รุ่..
+฿350 ฿480
+ราคาไม่รวมภาษี: ฿350
+มีสินค้า
 1.25G SFP LC-BIDI 1310/1550 DDM SM 10KM
 1.25G SFP LC-BIDI 1310/1550 DDM SM 10KM แบรนด์ SDT-TECH รุ่น SDT-1G-LC10 (A..
 ฿690 ฿940
@@ -457,11 +522,6 @@ HDMI Extender 1080p (150M)
 HDMI Extender 1080p ตัวส่งมีช่องเสียบ HDMI 2 ช่อง 1 ช่องสำหรับ INPUT ปกติ ส่วนอี..
 ฿1,090 ฿1,480
 ราคาไม่รวมภาษี: ฿1,090
-มีสินค้า
-DIN-rail 5-port MINI Gigabit industrial switch
-สวิตช์เครือข่ายเกรดอุตสาหกรรม (Industrial Switch) ขนาดมินิกะทัดรัด แบรนด์ HM รุ่..
-฿550 ฿880
-ราคาไม่รวมภาษี: ฿550
 มีสินค้า
 PoE Extender (10/100) IN1 OUT3 (Outdoor)
 PoE Extender outdoor (กันน้ำ) ความเร็ว 10/100 Mbps เข้า 1 ออก 3 รุ่น AT13FV..
@@ -509,64 +569,4 @@ Fast Ethernet PoE Switch 16 Port (10/100) + 2 Gigabit RJ45 สำหรับ Up
 ราคาไม่รวมภาษี: ฿1,750
 มีสินค้า
 PoE Switch 8 Port 10/100 + 2 Gigabit RJ45
-Fast Ethernet PoE Switch 8 Port (10/100) + 2 Gigabit RJ45 สำหรับ Uplink เป็นอุปก..
-฿950 ฿1,290
-ราคาไม่รวมภาษี: ฿950
-มีสินค้า
-LINK (US-6620A) Plug Boots CAT6 สีใส (10pcs)
-LINK US-6620A ยางท้ายหัวแลน หรือ บู้ทหัวแลน CAT6 CRYSTAL LOCKING PLUG BOOT (สีขา..
-฿55 ฿80
-ราคาไม่รวมภาษี: ฿55
-มีสินค้า
-1.25G SFP LC-DX 1310 DDM SM 10KM
-1.25G SFP LC-DX 1310 DDM SM 10KM แบรนด์ SDT-TECH รุ่น SDT-1G-10 เป็นโมดูลแสงไฟเบ..
-฿690 ฿940
-ราคาไม่รวมภาษี: ฿690
-มีสินค้า
-Comptyco คีมปอกสายไฟเบอร์ออฟติก 3 รู รุ่น CFS-3
-คีมปอกสายไฟเบอร์ออฟติก (Fiber Optic Stripper) แบรนด์ Comptyco รุ่น CFS-3 มี 3 รู..
-฿190 ฿270
-ราคาไม่รวมภาษี: ฿190
-มีสินค้า
-10/100 Fiber PoE Switch 1X8 Port 20KM
-Fiber PoE Switch 1X8 Port 10/100Mbps ระยะ 20 กิโลเมตร สำหรับกล้องวงจรปิด IP Came..
-฿1,750 ฿2,370
-ราคาไม่รวมภาษี: ฿1,750
-มีสินค้า
-POE Switch 24 Port 10/100 + 2GE + 1SFP Port (Rack)
-Rack Mount PoE Switch 24 Port (24 PoE) ความเร็ว 10/100Mbps เพิ่ม 2 Port LAN Giga..
-฿2,800 ฿3,780
-ราคาไม่รวมภาษี: ฿2,800
-มีสินค้า
-Gigabit Media 1310nm DX 20KM รุ่น HM-2F-G
-Gigabit Media Converter SM, MM สำหรับ Network Internet และ Cctv IP Camera เพื่อแ..
-฿650 ฿880
-ราคาไม่รวมภาษี: ฿650
-มีสินค้า
-PON Meter รุ่น AUA-350A สำหรับวัด 3 ค่าแสงพร้อมกัน
-PON Power Meter รุ่น AUA-350A หัวเชื่อต่อแบบ SC/APC และ FC เป็นเครื่องมือวัดค่าส..
-฿2,950 ฿3,720
-ราคาไม่รวมภาษี: ฿2,950
-มีสินค้า
-สายแยกคอร์ไฟเบอร์ชนิด Flat Type 4 Core (30CM)
-สายแยกคอร์ไฟเบอร์ออฟติก สำหรับสายไฟเบอร์ออฟติกชนิด Flat Type แบบ 4 Core ความยาวส..
-฿40 ฿60
-ราคาไม่รวมภาษี: ฿40
-มีสินค้า
-สายแยกคอร์ไฟเบอร์ชนิด Flat Type 2 Core (30CM)
-สายแยกคอร์ไฟเบอร์ออฟติก (FTTH Tube 2C) สำหรับสายไฟเบอร์ออฟติกชนิด Flat Type แบบ ..
-฿30 ฿50
-ราคาไม่รวมภาษี: ฿30
-มีสินค้า
-Gigabit (SFP) Switch 16 Port + 2 Gigabit RJ45
-Gigabit Switch SFP 16 Port Uplink 2 Gigabit LAN สำหรับการใช้งานที่หลากหลายม..
-฿4,600 ฿6,350
-ราคาไม่รวมภาษี: ฿4,600
-มีสินค้า
-RS485/422/232 to Fiber Converter SM DX 20KM
-อุปกรณ์แปลงรับส่งคำสั่ง RS485 RS422 และ RS422 (Serial Port To Fiber) รองรับ 3 คำ..
-฿1,300 ฿1,960
-ราคาไม่รวมภาษี: ฿1,300
-มีสินค้า
-Germany ตู้แร็คติดผนัง 6U รุ่น G1-60506 ลึก 50 ซม.
-ตู้แร็คเก็บอุปกรณ์ Germany Wall Rack รุ่น G1-60506 ขนาดหน้ากว้าง 19 นิ้ว/6U
+Fast Ethernet PoE Switch 8 Port (10/100) + 2 Gigabit RJ45 สำ

@@ -1,4 +1,4 @@
-# SB-861 bimel.com.tr · home · http://www.bimel.com.tr/tr · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-861 bimel.com.tr · home · http://www.bimel.com.tr/tr · fetched 2026-11-20T10:12:13Z · HTTP 200
 bimel :: Anasayfa
 Aten Distribitörü
 Aten ToptancısıBimel
@@ -119,13 +119,11 @@ IP30 Endüstriyel 1-Port RS232/RS422/RS485 Serial Device Sunucu (IP30 Industrial
 1 x 100FX SC, SM/30km
 -40~75 derece C
 Ürünü İncele
-Aten - ATEN-2X-EA14
-C14 Akıllı Kilit Fiş Konnektörü (PE5342T ve PE5221T modelleri için)
-C14 Smart-Lock Plug Connector (for PE5342T & PE5221T)
+Planet - PL-MGB-TLB10
+SFP-Port 1000BASE-BX (WDM, TX:1550nm) mini-GBIC module - 10km (-40~85 degrees C)
 Ürünü İncele
-Aten - ATEN-2X-EA13
-C14 Akıllı Kilitli Fiş Konnektörü
-C14 Smart-Lock Plug Connector
+Planet - PL-MGB-TLA10
+SFP-Port 1000BASE-BX (WDM, TX:1310nm) mini-GBIC module - 10km (-40~85 degrees C)
 Ürünü İncele
 Ürünler
 Bilgisayar Yan Ürünleri

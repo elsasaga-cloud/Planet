@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-19T10:30:38Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-20T10:12:13Z · HTTP 200
 Centrale telefoniczne voip, Telefony ip i Bramki - voip24sklep.pl - Sklep telekomunikacyjny
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -74,14 +74,15 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
-Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
+Systemy rezerwacji sal
 Projektory
 Monitory Wielkoformatowe
-Biznesowe
-Hotelowe
+Jednostki główne
+Licencje
+Akcesoria
 Lampowe
 Laserowe
 Akcesoria
@@ -89,32 +90,34 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
 Mediakonwertery
-Grabbery
+Splittery HDMI
+Stacje dokujące
 Uchwyty do projektorów
 Kable
 Extendery
-Splittery HDMI
-Stacje dokujące
 Uchwyty do monitorów
 HDMI
-USB
 USB A
 USB C
+Przedłużacze USB A
+HDMI
+USB
 Stałe
 Uchylne
 Na ramieniu
 Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
-Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -140,11 +143,11 @@ Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Higiena
 Słuchawki
 Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
-Higiena
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
@@ -196,13 +199,13 @@ Wróć do:
 Przewodowe
 Bezprzewodowe
 Interkomy
+Karty i breloki
+Elektrozaczepy
+Przyciski wyjścia
 Elementy montażowe
 Ramki
 Moduły
 Daszki
-Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -361,14 +364,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
-Akcesoria
-Głośniki
-Wzmacniacze
-Miksery
 Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
+Akcesoria
+Głośniki
+Wzmacniacze
+Miksery
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,10 +384,10 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
 Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
 Projektory
 Monitory Wielkoformatowe
 Biznesowe
@@ -396,32 +399,33 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Mediakonwertery
+Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
-Mediakonwertery
-Grabbery
-Uchwyty do projektorów
-Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
+Uchwyty do projektorów
+Kable
 Uchwyty do monitorów
-HDMI
-USB
 USB A
 USB C
+HDMI
+USB A
+Przedłużacze USB A
+Mobilne wózki
 Stałe
 Uchylne
 Na ramieniu
-Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla placówek medycznych
+Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
-Dla placówek medycznych
-Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -445,22 +449,21 @@ Dwuuszne
 Przewodowe
 Bezprzewodowe
 Jednouszne
-Dwuuszne
 Kable przyłączeniowe
 Gąbki
 Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Walizki/Torby Transportowe
+Higiena
 Słuchawki
 Mikrofony
 Ładowarki
-Walizki/Torby Transportowe
-Higiena
+Akcesoria
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
-Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -492,10 +495,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
+Morskie
 Analogowe
 Cyfrowe
 Akcesoria
-Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -516,13 +519,13 @@ Wielorodzinne
 Przewodowe
 Bezprzewodowe
 Interkomy
-Elementy montażowe
-Ramki
-Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
+Elementy montażowe
+Ramki
+Moduły
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -552,9 +555,9 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
+Na kartę SIM
 Bezprzewodowe
 Przewodowe
-Na kartę SIM
 Przemysłowe
 Zewnętrzne
 Wewnętrzne
@@ -622,13 +625,13 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Panele krosowe
 Wtyki i gniazda sieciowe
+Panele krosowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
-Łączniki kabli
-Wtyki
+Kategorii 5
+Kategorii 6
+Puste
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -846,4 +849,4 @@ W tym blogu rozważamy korzyści wynikające z używania projektora w porównani
 Czytaj całość
 18-11-2024
 Rozwiązanie konferencyjne CA400 od Fanvila
-Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa się z trzech części: kamery CM70 4K UHD, RC10, koncentratora odbiornika i MS10, głośnika do współdzielenia ekranu. Doskonale rozwiązuje problemy, które trapią IT i użytkowników, takie jak skomplikowane wdrażanie, niezgodność urządzeń i zagrożenia bezpieczeństwa sieci. Przyjrzyjmy się bliżej jego różnym funkc
+Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa się z trzech części: kamery CM70 4K UHD, RC10, koncentratora odbiornika i MS10, głośnika do współdzielenia ekranu. Doskonale rozwiązuje problemy, które trapią IT i użytkowników, takie jak skomplikowane wdrażanie, niezgodność urządzeń i zagrożenia bezpieczeństwa si

@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -138,6 +138,61 @@ Előrendelhető h
 db
 Kosárba
 Részletek
+Industrial 4+2 port Gigabit PoE switch DN-651149
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651149
+Ár:
+43.785 Ft + ÁFA
+(55.607 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651107
+Ár:
+36.839 Ft + ÁFA
+(46.786 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port Gigabit Switch DN-651150
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651150
+Ár:
+59.314 Ft + ÁFA
+(75.329 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit Switch DN-651156
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651156
+Ár:
+85.484 Ft + ÁFA
+(108.565 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit PoE DN-651157
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651157
+Ár:
+99.034 Ft + ÁFA
+(125.773 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial 8 + 4 10G Gigabit PoE switch DN-651161
 ÚJDONSÁG!
 Villámnézet
@@ -182,50 +237,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 16 port Gigabit Switch DN-651129
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651129
-Ár:
-80.982 Ft + ÁFA
-(102.847 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16+2 port Gigabit Switch DN-651138
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651138
-Ár:
-108.615 Ft + ÁFA
-(137.941 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 4+2 port Gigabit PoE switch DN-651149
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651149
-Ár:
-43.785 Ft + ÁFA
-(55.607 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651107
-Ár:
-36.839 Ft + ÁFA
-(46.786 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Industrial 8-port Gigabit Switch DN-651108
 ÚJDONSÁG!
 Villámnézet
@@ -248,35 +259,24 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8+2-Port Gigabit Switch DN-651150
+Industrial 16 port Gigabit Switch DN-651129
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIG-DN-651150
+Cikkszám: HDIG-DN-651129
 Ár:
-59.314 Ft + ÁFA
-(75.329 Ft)
+80.982 Ft + ÁFA
+(102.847 Ft)
 Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8+2-Port L2 Gigabit Switch DN-651156
+Industrial 16+2 port Gigabit Switch DN-651138
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIG-DN-651156
+Cikkszám: HDIG-DN-651138
 Ár:
-85.484 Ft + ÁFA
-(108.565 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit PoE DN-651157
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651157
-Ár:
-99.034 Ft + ÁFA
-(125.773 Ft)
+108.615 Ft + ÁFA
+(137.941 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -289,6 +289,39 @@ Cikkszám: HOBHTC-0022
 28.640 Ft + ÁFA
 (36.373 Ft)
 2 db raktáron
+db
+Kosárba
+Részletek
+1U panel for D-type modules, 12-port DN-97696
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97696
+Ár:
+2.480 Ft + ÁFA
+(3.150 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+2U panel for D-type modules, 24-port DN-97697
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97697
+Ár:
+4.380 Ft + ÁFA
+(5.563 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+8P8C Cat6a UTP toolless mod. dugó DN-93633
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: K289543TD
+Ár:
+810 Ft + ÁFA
+(1.029 Ft)
+60 db raktáron
 db
 Kosárba
 Részletek
@@ -336,39 +369,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-1U panel for D-type modules, 12-port DN-97696
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97696
-Ár:
-2.480 Ft + ÁFA
-(3.150 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-2U panel for D-type modules, 24-port DN-97697
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97697
-Ár:
-4.380 Ft + ÁFA
-(5.563 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-8P8C Cat6a UTP toolless mod. dugó DN-93633
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: K289543TD
-Ár:
-810 Ft + ÁFA
-(1.029 Ft)
-60 db raktáron
-db
-Kosárba
-Részletek
 8P8C mod.dugasz,árnyékolt Cat.6 átmenő P88R5Z50V2ST
 ÚJDONSÁG!
 Villámnézet
@@ -376,18 +376,7 @@ Cikkszám: K288542-EASY
 Ár:
 110 Ft + ÁFA
 (140 Ft)
-190 db raktáron
-db
-Kosárba
-Részletek
-Fix tálca 10" szekrényhez fekete DN-10-TRAY-1-B
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: TO-TÁL10F
-Ár:
-2.500 Ft + ÁFA
-(3.175 Ft)
-39 db raktáron
+690 db raktáron
 db
 Kosárba
 Részletek
@@ -410,6 +399,17 @@ Cikkszám: DGYÜZMF
 1.990 Ft + ÁFA
 (2.527 Ft)
 4 db raktáron
+db
+Kosárba
+Részletek
+Fix tálca 10" szekrényhez fekete DN-10-TRAY-1-B
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TO-TÁL10F
+Ár:
+2.500 Ft + ÁFA
+(3.175 Ft)
+37 db raktáron
 db
 Kosárba
 Részletek
@@ -497,7 +497,7 @@ Cikkszám: K11310743
 Ár:
 199 Ft + ÁFA
 (253 Ft)
-15617 m raktáron
+15312 m raktáron
 m
 Kosárba
 Részletek
@@ -517,7 +517,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-4760 m raktáron
+9810 m raktáron
 m
 Kosárba
 Részletek

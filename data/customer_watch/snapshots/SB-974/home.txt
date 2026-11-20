@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-20T10:12:13Z · HTTP 200
 Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996
 DE EN
 Suche
@@ -103,6 +103,10 @@ Classic ECU Development
 Validierung & Verifikation
 Mobile Automatisierung
 NEWS
+Erstellt von Christian Wolf
+|
+19.11.2026
+Direkter ECU Speicherzugriff über PCIe-Technologie zur Messdatenerfassung
 Erstellt von Robert Pletz
 |
 19.10.2026
@@ -113,10 +117,6 @@ Erstellt von Robert Pletz
 |
 31.08.2026
 CONiX Testfleet 3.10 mit neuem Recordings-Feature
-Erstellt von Laura Kalka
-|
-06.08.2026
-LOGifyer B1 SE: kompakter Datenlogger für die ADAS- und AD-Sensordatenerfassung
 EVENTS
 Automotive Ethernet Congress
 Di 23.02.2027

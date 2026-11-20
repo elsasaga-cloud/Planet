@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-20T10:12:13Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -119,6 +119,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+FTTA (Fiber-to-the-Antenna): A Key Pillar of Modern 5G Networks
+The world of telecommunications is undergoing a major transformation. While base stations in the 3G era and the early days of 4G/LTE relied heavily on traditional coaxial cabling, today’s demands for speed, capacity, and low latency have introduced a new standard: FTTA – Fiber-to-the-Antenna.
+Read more
 Invisible Monitoring & Tamper-Proof Data Backup: Optical Port Tapping combined with a mechanically keyed adapter
 In modern cybersecurity, one rule stands above all: anything controlled by software can be compromised or manipulated. If an attacker gains access to an active network device—such as a switch or router—they can disable logging, alter SPAN port mirroring, or erase tracks of their intrusion.
 Read more
@@ -201,7 +204,4 @@ Foss successfully completes circuit integrity test according to Metro curve (750
 Foss has once again demonstrated the reliability of its DB4678 fiber optic cables by successfully completing circuit integrity testing in combination with the KOPOS cable support system. The test was conducted under demanding fire conditions following the Metro curve (750°C), confirming the system’s performance in critical environments.
 Read more
 Presentation at the Event: The Future of Wireless Microphones – The Next Level
-On February 11, 2026, the Foss team took part in an event hosted by G‑Tec Professional s.r.o., a company specializing in the sale, installation, and service of professional audio equipment.
-Read more
-Wall Box Flexi
-Wall Box Flexi from Foss Fiberoptikk is designed to make fiber installation easier, faster, and more adaptable – whether for small residential setups or larger professional applications. The box has a modular structure, allowing you to 
+On February 11, 2026, the Foss team took part in an event hosted by G‑Tec Professio

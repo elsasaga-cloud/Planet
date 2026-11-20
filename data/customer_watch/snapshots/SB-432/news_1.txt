@@ -1,4 +1,4 @@
-# SB-432 qubix.it · news_1 · https://www.qubix.it/sezione-news/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-432 qubix.it · news_1 · https://www.qubix.it/sezione-news/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 News – QUBIX
 ×
 Area riservata: login
@@ -199,6 +199,15 @@ News
 Novità ed Eventi
 Nell’area “News” troverai tutti gli aggiornamenti, le novità di prodotto , gli eventi a cui partecipiamo e le nostre pubblicazioni su argomenti normativi e tecnici.
 News Prodotto News Eventi Pubblicazioni
+È arrivato CuBLU di AEM Networks
+18 Novembre 2026
+AEM Network presenta CuBLU, la nuova soluzione per la verifica dei cablaggi in rame Continua a leggere
+https://www.qubix.it/wp-content/uploads/2026/12/CuBLU_16-9-News-sito.jpg
+366
+900
+Alessandro
+https://www.qubix.it/wp-content/uploads/2022/01/Logo-QUBIX-rettangolare-homepage-QBX.png
+Alessandro 2026-11-18 2026-11-19 È arrivato CuBLU di AEM Networks
 Novità Qubix: apparati attivi, cavo Long Reach e strumenti per la fibra ottica
 24 Settembre 2026
 Novità Qubix! Disponibili tre novità prodotto: apparati attivi, cavo in rame per le lunghe distanze e strumenti per la fibra ottica. Continua a leggere
@@ -244,20 +253,12 @@ https://www.qubix.it/wp-content/uploads/2023/07/Hero_racks_v5.jpg
 Alessandro
 https://www.qubix.it/wp-content/uploads/2022/01/Logo-QUBIX-rettangolare-homepage-QBX.png
 Alessandro 2023-07-21 2025-04-28 Scopri la nuova gamma Armadi TECH
-Nuovo confezionamento sostenibile per le patch cord
-16 Giugno 2023
-Un nuovo confezionamento sostenibile per le patch cord QUBIX. Continua a leggere
-https://www.qubix.it/wp-content/uploads/2023/06/News-Banner-patchcord-1e2-495x258-1.jpg
-258
-495
-Alessandro
-https://www.qubix.it/wp-content/uploads/2022/01/Logo-QUBIX-rettangolare-homepage-QBX.png
-Alessandro 2023-06-16 2025-04-28 Nuovo confezionamento sostenibile per le patch cord
 Tutte le news prodotto
 Cerca tra i prodotti
 Cerca... ×
 Archivio News
 Seleziona il mese
+Novembre 2026
 Ottobre 2026
 Settembre 2026
 Luglio 2026
@@ -376,6 +377,7 @@ Cerca tra i prodotti
 Cerca... ×
 Archivio News
 Seleziona il mese
+Novembre 2026
 Ottobre 2026
 Settembre 2026
 Luglio 2026
@@ -430,4 +432,4 @@ Febbraio 2019
 Dicembre 2018
 Novembre 2018
 Ottobre 2018
-Sett
+Sette

@@ -1,4 +1,4 @@
-# SB-1002 amplicon.com · sitemap · https://www.amplicon.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1002 amplicon.com · sitemap · https://www.amplicon.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 2026-11-18	https://www.amplicon.com/form/2027-planning/
 2026-10-22	https://www.amplicon.com/offers/keysight-hd304mso-3-upgrades/
 2026-10-15	https://www.amplicon.com/brands/keysight/waveform-function-generators/

@@ -1,4 +1,4 @@
-# SB-566 PCG Bilgisayar LTD.STI. · news_2 · https://pcgbilgisayar.com/kategori/haberler/yapay-zeka · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-566 PCG Bilgisayar LTD.STI. · news_2 · https://pcgbilgisayar.com/kategori/haberler/yapay-zeka · fetched 2026-11-20T10:12:13Z · HTTP 200
 Yapay Zeka - PCG Bilgisayar
 İçeriğe atla Türkiye Resmi Gigabyte Enterprise Distribütörü | NVIDIA Compute Partner
 ANA SAYFA
@@ -10,7 +10,7 @@ Gigabyte Anakartlar
 Gigabyte İş İstasyonları
 Gigabyte AI Mini PC Çözümleri
 Gigabyte Data Center Çözümleri
-NVIDIA GPU ÇÖZÜMLERİ
+NVIDIA ÇÖZÜMLERİ
 E-VIEW ÇÖZÜMLERİ E-View İş İstasyonları
 E-View Sunucular
 E-View Network & Firewall Çözümleri
@@ -45,7 +45,7 @@ Gigabyte Anakartlar
 Gigabyte İş İstasyonları
 Gigabyte AI Mini PC Çözümleri
 Gigabyte Data Center Çözümleri
-NVIDIA GPU ÇÖZÜMLERİ
+NVIDIA ÇÖZÜMLERİ
 E-VIEW ÇÖZÜMLERİ E-View İş İstasyonları
 E-View Sunucular
 E-View Network & Firewall Çözümleri

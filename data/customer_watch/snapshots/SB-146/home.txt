@@ -1,3 +1,295 @@
-# SB-146 exsys.it · home · https://exsys.it/ · fetched 2026-11-19T10:30:38Z · HTTP 403
-Wait a moment...
-Aruba S.p.A.- P.I. 01573850516 - Copyright ©2025 All rights reserved
+# SB-146 exsys.it · home · https://exsys.it/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+EXSYS ITALIA S.R.L. | Produzione Articoli per il mondo informatico SHOP
+perm_phone_msg +39 031 526901
+person
+Mio Account
+local_shipping
+Spedizioni in 24/48 ore
+home
+Novità
+Categorie prodotti
+Charging Stations and cable
+Hub Usb
+USB 3.1 (Gen2)
+Usb 3.0/3.1 (Gen1)
+Basic
+Premiums
+Industriale
+HUB with PD Power
+Hub 2.0
+Basic usb 2.0
+Premiums usb 2.0
+Industriale usb 2.0
+Usb 1.0/2.0/3.0/3.1
+USB 1.1
+Usb 2.0
+Hub 2.0
+Usb PCI + PCIe
+Ethernet
+Modem USB
+Card Reader
+Cavi prolunga Usb attivi
+Adattatori usb 2.0
+USB 3.0
+Hub Usb
+Schede PCI+PCIe 3
+Ethernet 3
+Card Reader 3
+Switch 3
+Prolunghe 3
+Usb 3.1
+USB 3.1 (Gen1)
+USB 3.1 (Gen2)
+Adattatori USB
+Modem USB
+Usb a Seriale RS-232
+1 RS-232
+2 RS-232
+4 RS-232
+8 RS-232
+16 RS-232
+Usb a Seriale RS-422/485
+Usb a Parallela
+FireWire A+B
+Mini schede PCIe
+Schede Bus PCIe
+Seriale PCIe
+1 RS-232
+2 RS-232
+4 RS-232
+8 RS-232
+16 RS-232
+32 RS-232
+Schede RS-422/485 PCIe
+1 RS-422/485
+2 RS-422/485
+4 RS-422/485
+rs-232-422-485 pcie
+Parallela PCIe
+Multi I/O PCIe
+USB 2.0 PCIe
+USB 3.0 PCIe
+USB 3.1 PCIe
+Usb/FireWire PCIe
+FireWire (A) PCIe
+FireWire (B) PCIe
+SATA 2 & 3 PCIe
+Ethernet PCIe
+Schede Bus Pci
+Seriale RS-232 PCI
+1S RS-232
+2S RS-232
+4S RS-232
+8S RS-232
+16S RS-232
+RS-232-422-485 PCI
+RS-232/422/485
+2 RS-422/485 PCI
+4 RS-422/485 PCI
+8 RS-422/485 PCI
+Parallela PCI
+Multi I/O PCI
+Usb/FireWire PCI
+FireWire 1394 A
+FireWire 1394 B
+USB 2.0 PCI
+USB 3.0 PCI
+SATA 1 PCI
+SATA 2 PCI
+Ethernet PCI
+Schede Bus ISA
+EIDE controller
+Ethernet-Switch
+Ethernet USB 2.0/3.0
+Ethernet – RS232
+Ethernet – RS422 / 485
+Ethernet PCIe
+Ethernet PCI
+Ethernet expresscard
+Ethernet Pcmcia
+Ethernet – IO digitale
+Minuteria
+ExpressCard
+Seriale RS-232/422/485 e
+Parallela e
+Multi I/O e
+Usb2.0 e
+Usb3.0/3.1
+Usb/FireWire e
+FireWire A&B e
+SATA e
+Ethernet expresscard
+Accessori e
+Pcmcia
+Usb 2.0
+Usb/FireWire
+FireWire A/B
+Seriale RS-232
+Seriale RS-422/485
+Parallela
+Sata
+Ethernet Pcmcia
+Scheda Grafica
+Sata 1, 2 + 3
+Controller
+HUBs
+Switches
+Adattatori
+Convertitori sata
+Modem
+BOX esterno d’espansione
+M.2 NGFF & mSATA
+M.2 NGFF
+SATA (M.2 NGFF)
+PCIe (M.2 NGFF)
+Sata
+Sata (mSATA)
+PCIe (mSATA)
+USB 3.1 gen1+2 (mSata)
+Convertitori
+Miscellaneo
+Cavi interni alimentazione
+CAVI Alimentazione
+Staffe
+DIN-Rail Kit´s
+Terminal Block
+Alimentazione
+Lampadine LED
+Attacco E27
+Attacco E14
+Faretti
+OUTLET art. fine serie
+Articoli MOXA
+Articoli B&B
+Il mio account
+Cassa
+Ordini
+Dettagli account
+0
+EXSYS home
+Home
+EXSYS home
+TANTI NUOVI ARTICOLI PROFESSIONALI VI ASPETTANO nella sezione
+Novità EXSYS >
+SEI UN OPERATORE DEL SETTORE?
+ALLORA RICHIEDICI UN PREVENTIVO
+EXSYS ITALIA SRL MANUFACTERED WITH PASSIONS
+Schede PCI/PCIe e articoli per SOHO e Industriali
+PRODUCIAMO E COMMERCIALIZZIAMO ARTICOLI PER IL MONDO INFORMATICO
+con oltre 600 modelli di schede per computer, con Bus ISA, Bus PCI e Bus PCIe
+ARTICOLI PROFESSIONALI
+100% made in Taiwan / Marchio CE e RoHS / Garanzia 24 mesi per le schede 12 mesi Altri
+LA TECNOLOGIA AL TUO SERVIZIO
+Cerchiamo sul mercato il meglio che la tecnologia ci offre
+Su di noi
+Exsys Italia è una piccola società nata nel 1998 a Como che produce e commercializza articoli per il mondo informatico , un approccio internazionale è nel suo DNA. Nasce da un’esperienza ben più lontana: infatti la sua sede storica è sita in Germania ed è accompagnata da un’altra in Svizzera; a oggi la sede italiana è punto di riferimento per tutta la fascia mediterranea.
+È specializzata nella produzione di articoli ADD-On , HUB SOHO e INDUSTRIALI , con a catalogo oltre 600 modelli di schede per computer, Bus ISA, Bus PCI. È specializzata inoltre nella produzione di schede più performanti con Bus PCI express .
+La capacità di Exsys di stare sempre a fianco dei suoi rivenditori, installatori e sub-distributori costituisce il suo punto di forza. Exsys è in grado di REALIZZARE qualsiasi tipo di scheda Add-On PERSONALIZZATA , in base alle particolari esigenze del cliente, grazie ai suoi ottimi produttori situati a TAIPEI, Taiwan, nota come L’eccellenza nell’informatica. Oltre all’immediatezza nell’evasione del materiale entro le 24 ore, con le nostre consociate società site in Germania e in Svizzera siamo in grado di evadere il materiale in 2-4 giorni lavorativi per quantità extra.
+Perchè sceglierci
+La chiave del nostro successo è da attribuire alla cooperazione dei nostri produttori sempre all’avanguardia coi tempi, nuovi design, e soprattutto la qualità degli articoli. Ciò che ci contraddistingue è la professionalità e l’amore che trasmettiamo verso questo lavoro.
+Digitale
+Gli articoli da noi trattati sono stati studiati e progettati per soddisfare al meglio le vostre esigenze
+Innovazione
+Sempre innovativi
+Tecnologia
+Cerchiamo sul mercato il meglio che la tecnologia ci può offrire
+Creatività
+Siamo sempre alla ricerca di prodotti di elevata qualità nel rispetto dell’ambiente
+Su misura
+Siamo in grado di produrre qualsiasi tipo di scheda Add-On, su vostre specifiche e/o su vostre particolari esigenze
+Articoli professionali
+100% made in Taiwan Marchio CE e RoHS Garanzia 12-24 mesi, 24 mesi solo su schede (tutti i marchi citati sul sito sono dei legittimi proprietari)
+Schede PCI /PCIe e articoli per SOHO e Industriali
+Mini schede PCIe, USB 3.1, USB 3.2, Adattatori
+Novità
+EX-11017 Stazione di ricarica ad alta potenza USB-C a 16 porte 1008W
+460,90 € Prezzi IVA esclusa
+Acquista
+EX-1116HMVS-PWR HUB USB 3.2 Gen 1 a 16 porte (DIN-Rail) con protezione da sovratensioni da 15KV incluso alimentatore (24V/6A)
+398,50 € Prezzi IVA esclusa
+Acquista
+EX-1110HMVS-WT HUB in metallo USB 3.2 Gen 1 a 10 porte con protezione da sovratensioni ESD da 15 KV e intervallo di temperatura esteso
+393,70 € Prezzi IVA esclusa
+Acquista
+EX-6226-PoE Switch PoE industriale Gigabit Ethernet non gestito a 8 porte
+368,80 € Prezzi IVA esclusa
+Acquista
+USB | USB 3.1 (Gen2)
+Usb 3.0/3.1 (Gen1) Hub 2.0
+Cavi, supporti, adattatori
+EHTERNET Ethernet PCI
+Ethernet USB 2.0/3.0
+Ethernet – RS232
+Ethernet – RS422 / 485
+Ethernet PCIe
+Ethernet expresscard
+Ethernet Pcmcia
+Ethernet – IO digitale
+Minuteria
+Schede e Mini Schede
+Usb 3.0/3.1 (Gen1) Hub 2.0
+PCIe, Pic, ISA, USB 3.0 PCI
+SATA 1 PCI
+SATA 2 PCI
+Ethernet PCI
+EXPRESSCARD
+Seriale RS-232/422/485 e
+Parallela e
+Multi I/O e
+Usb2.0 e
+Usb3.0/3.1
+Usb/FireWire e
+FireWire A&B e
+SATA e
+Ethernet expresscard accessori
+In offerta
+In offerta!
+EX-11065 Scheda USB 2.0 PCIe 3+1 porte basso profilo (NEC)
+44,90 € Il prezzo originale era: 44,90 €. 38,16 € Il prezzo attuale è: 38,16 €. Prezzi IVA esclusa
+Acquista
+In offerta!
+C38 – Led 5.5W 470lm 4000K candela
+2,99 € Il prezzo originale era: 2,99 €. 2,20 € Il prezzo attuale è: 2,20 €. Prezzi IVA esclusa
+Acquista
+In offerta!
+FSL 100W Faro esterno e interno Impermeabile IP65 LED 100W
+45,00 € Il prezzo originale era: 45,00 €. 40,50 € Il prezzo attuale è: 40,50 €. Prezzi IVA esclusa
+Acquista
+In offerta!
+C38 – Led 5.5W 460lm 3000K candela
+2,99 € Il prezzo originale era: 2,99 €. 2,20 € Il prezzo attuale è: 2,20 €. Prezzi IVA esclusa
+Acquista
+workspace_premium
+GARANZIA
+I nostri articoli sono garantiti 24 mesi dalla data di acquisto
+verified
+QUALITÀ E PROFESSIONALITÀ
+I nostri articoli vengono testati e controllati uno ad uno
+credit_score
+PAGAMENTI
+Pagamenti sicuri/carte di credito
+local_shipping
+SPEDIZIONE
+Mediante corrieri
+expressi in 24/48 ore
+Exsys Italia Srl
+Via Belvedere, 45/B
+I-22100 Como
+Tel. +39 031526901
+Tel. +39 031589896
+E-mail: exsys@exsys.it
+Servizio Clienti
+METODI DI SPEDIZIONE
+GARANZIA E RESO
+MODALITÀ DI PAGAMENTO
+SUPPORTO
+QUOTAZIONE PER RIVENDITORE
+Pagamenti
+INFORMAZIONE SU DI NOI
+NOVITA'
+TERMINI E CONDIZIONI
+CONTATTACI
+INFORMATIVA PRIVACY
+INFORMATIVA COOKIE
+spedizioni
+Copyright © 2026 Exsys Italia S.R.L. | P.IVA & C.F. 02375220130 - Articoli per il mondo informatico.

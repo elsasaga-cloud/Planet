@@ -1,4 +1,4 @@
-# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-20T10:12:13Z · HTTP 200
 100MEGA Distribution s.r.o.
 [email protected]
 (+420) 548 220 077
@@ -74,13 +74,13 @@ Software
 AXAGON
 Čtečky paměťových karet, Chladiče, Kabely, Nabíječky, Notebooky, Periferie, Pevné disky, Řadiče, Síťové prvky aktivní, Zvukové karty
 BE QUIET
-Cooler - CPU, Kabely, Periferie, Skříně (case), Ventilátory, Zdroje
+Chladiče, Cooler - CPU, Kabely, Periferie, Skříně (case), Ventilátory, Zdroje
 BELDEN
 Kabely
 BENQ
 Osvětlení, Periferie, Počítače, Media Player, Síťové prvky aktivní, Software
 BITFENIX
-Cooler - CPU, Skříně (case), Zdroje
+Chladiče, Cooler - CPU, Skříně (case), Zdroje
 BROTHER
 Periferie, Spotřební materiál
 CANON
@@ -118,7 +118,7 @@ Baterie, Fotovoltaika, Služby
 ELITE SCREENS
 Periferie
 ENDORFY
-Cooler - CPU, Kabely, Nábytek, Periferie, Skříně (case), Ventilátory, Zdroje
+Chladiče, Cooler - CPU, Kabely, Nábytek, Periferie, Skříně (case), Ventilátory, Zdroje
 ENERGIZER
 Baterie
 EPEVER
@@ -141,6 +141,8 @@ GENIUS
 Herní ovladače, Kabely, Mobilní telefony - příslušenství, Nabíječky, Notebooky, Periferie
 GIGABYTE
 Grafické karty, Počítače, Síťové prvky aktivní, Skříně (case), Základní desky, Zdroje
+GOODWE
+Fotovoltaika
 GOOWEI ENERGY
 Baterie, Domácí elektro, Fotovoltaika, Záložní zdroje
 Grandstream
@@ -348,4 +350,4 @@ Domácí elektro, Fotoaparáty, Fotoaparáty - příslušenství, Hodinky, Kabel
 UBIQUITI
 Dům a zahrada, Elektroinstalace, Fotovoltaika, HiFi, Kabely, Kamery IP a CCTV, Nabíječky, Periferie, Pevné disky, Přístupové systémy, Síťová úložiště (NAS), Síťové prvky aktivní, Síťové prvky optické, Síťové prvky ostatní, Síťové prvky pasivní, Služby, Telefony (IP, ISDN, analogové), Video intercom - IP, Záložní zdroje, Zdroje
 UMAX
-Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství, Notebooky, Osvětlení, Outdoor, Periferie, Počíta
+Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství

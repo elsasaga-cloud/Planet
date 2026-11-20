@@ -1,4 +1,4 @@
-# SB-764 ifotec.com · news_1 · https://www.ifotec.com/actualites/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-764 ifotec.com · news_1 · https://www.ifotec.com/actualites/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 ﻿
 Actualités - IFOTEC
 FR
@@ -14,6 +14,9 @@ Développement sur mesure
 Produits
 Références
 Actualités
+Partenariat technologique sur mesure
+Comment concevoir une solution ?
+En savoir plus
 Cybersécurité
 6 réflexes essentiels
 En savoir plus
@@ -46,9 +49,6 @@ L’expertise OEM IFOTEC
 En savoir plus
 Switch 10G PoE++ 10 ports : INet10X++
 Puissant et compact
-En savoir plus
-Solutions optiques manageables
-Simplifiez vos déploiements
 En savoir plus
 Suivant
 Nous suivre

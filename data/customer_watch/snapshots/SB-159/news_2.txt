@@ -1,4 +1,4 @@
-# SB-159 elmospa.com · news_2 · https://www.elmospa.com/en/project-designer · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-159 elmospa.com · news_2 · https://www.elmospa.com/en/project-designer · fetched 2026-11-20T10:12:13Z · HTTP 200
 EL.MO. S.p.A - Project designer
 Skip to main content
 Target audience
@@ -138,8 +138,6 @@ Company profile
 Solutions for residential buildings
 Download Area
 →
-Integrazioni
-Genetec
 Download
 Catalogue
 Login
@@ -208,4 +206,4 @@ Document illustrating the connections between elements
 To support the documentation, a more advanced block diagram can be provided, showing the structure of the wired connections of the entire proposed system. It indicates some basic features, such as cable thickness or type (e.g., RS-485). This information represents highly valued support for those who will later install the system. This type of document makes the basic structure of a system even clearer and allows for quick understanding.
 Systems that pay for themselves over time
 Intrusion detection
-We protect all spaces from intrusions, theft, and vandalism . Whether it’s residential or business premises, our detection systems, based on 100% Made in Italy professional
+We protect all spaces from intrusions, theft, and vandalism . Whether it’s residential or business premises, our detection systems, based on 100% Made in Italy professional products, ensure max

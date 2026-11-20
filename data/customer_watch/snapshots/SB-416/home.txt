@@ -1,4 +1,4 @@
-# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV
 Przejdź do głównej treści
 polski
@@ -59,8 +59,8 @@ Akumulatory i baterie
 RACK 19" i 10"
 Wideodomofony, domofony, interkomy
 HDMI / WIDEO / USB
-Światłowody
 Sieci LAN i Wi-Fi
+Światłowody
 Kable, wtyki, gniazda i inne
 Obudowy, skrzynki
 Maszty, obejmy, uchwyty
@@ -101,10 +101,10 @@ Rejestratory 8-kanałowe
 Rejestratory 16 i więcej kanałów
 Kamery
 Rejestratory
+Rejestratory AHD 4 kanałowe
 Rejestratory AHD 8 kanałowe
 Rejestratory AHD 16 kanałowe
 Rejestratory AHD 24-32 kanałowe
-Rejestratory AHD 4 kanałowe
 Monitory samochodowe
 Kamery samochodowe i kamery cofania
 Rejestratory Mobilne
@@ -131,10 +131,10 @@ Obiektywy do przetwornika 1/2,5"
 Obiektywy do przetwornika 1/2.7"
 Obiektywy do przetwornika 1/2.8"
 Obiektywy do przetwornika 1/3"
+Obrotnice do kamer
 Sterowniki obrotnic i obiektywów motozoom
 Klawiatury sterujące
 Specjalizowane sterowniki
-Obrotnice do kamer
 Konwertery sygnałowe
 Przełączniki i rozgałęźniki VGA
 Przełączniki KVM
@@ -143,8 +143,8 @@ Generatory znaków (OSD)
 Wzmacniacze wideo
 Rozgałęźniki wideo
 Separatory wideo i zasilania
-Reflektory światła białego
 Reflektory IR
+Reflektory światła białego
 Transmisja wideo i audio po skrętce (pasywna, jednokanałowa)
 Transmisja wideo i audio po skrętce (pasywna, wielokanałowa)
 Transmisja wideo i audio po skrętce (aktywna)
@@ -183,27 +183,27 @@ HD-TVI 3 MPx
 HD-TVI 5 MPx
 HD-TVI 8 MPx
 Akcesoria HD-TVI
-Kamery Bullet HD-TVI 720p
-Kamery kopułkowe HD-TVI 720p
-Kamery SpeedDome HD-TVI 720p
-Kamery pinhole HD-TVI 720p
-Rejestratory HD-TVI 1080p
+Rejestratory 4CH HD-TVI 720p
+Rejestratory 8CH HD-TVI 720p
+Rejestratory 16CH HD-TVI 720p
+Rejestratory 24-32CH HD-TVI 720p
 Kamery HD-TVI 1080p
-Kamery Bullet HD-TVI 1080p
-Kamery BOX HD-TVI 1080p
-Kamery kopułkowe HD-TVI 1080p
-Kamery SpeedDome HD-TVI 1080p
-Kamery pinhole HD-TVI 1080p
-Kamery Cube HD-TVI 1080p
-Rejestratory HD-TVI 3 MPx
+Rejestratory HD-TVI 1080p
+Rejestratory 4CH HD-TVI 1080p
+Rejestratory 8CH HD-TVI 1080p
+Rejestratory 16CH HD-TVI 1080p
+Rejestratory 24-32CH HD-TVI 1080p
 Kamery HD-TVI 3 MPx
-Kamery kopułkowe HD-TVI 3 MPx
-Kamery Bullet HD-TVI 3 MPx
-Rejestratory HD-TVI 5 MPx
+Rejestratory HD-TVI 3 MPx
+Rejestratory 4CH HD-TVI 3 MPx
+Rejestratory 8CH HD-TVI 3 MPx
+Rejestratory 16CH HD-TVI 3 MPx
+Rejestratory 24-32CH HD-TVI 3 Mpx
 Kamery HD-TVI 5 MPx
-Kamery Bullet HD-TVI 5 MPx
-Kamery kopułkowe HD-TVI 5 MPx
-Kamery Fisheye HD-TVI 5 MPx
+Rejestratory HD-TVI 5 MPx
+Rejestratory 4CH HD-TVI 5 MPx
+Rejestratory 8CH HD-TVI 5 MPx
+Rejestratory 16CH HD-TVI 5 MPx
 Kamery HD-TVI 8 MPx
 Rejestratory HD-TVI 8 MPx
 Rejestratory 4CH HD-TVI 8 MPx
@@ -218,8 +218,8 @@ Karty pamięci
 Transmisja LAN po kablu koncentrycznym
 Moduły audio (mikrofony)
 Okablowanie
-Akcesoria
 Centrale i kontrolery
+Akcesoria
 Czytniki zbliżeniowe
 Czytniki biometryczne
 Karty i breloki
@@ -301,9 +301,9 @@ Czujniki EvoLiNK
 Sygnalizatory EvoLiNK
 Akcesoria systemowe
 Powiadomienie GSM/LTE
+Centrale alarmowe
 Manipulatory
 Moduły i ekspandery
-Centrale alarmowe
 PARADOX
 Risco
 DSC
@@ -317,17 +317,17 @@ Moduły kontroli dostępu
 Moduły radiowe
 Moduły rozszerzeń
 Moduły specjalne
-Czujki ruchu
-Klawiatury LCD
-Moduły
-Czujki pozostałe
 Płyty główne
 Centrale alarmowe
 Akcesoria
 Zestawy alarmowe
+Czujki ruchu
+Klawiatury LCD
+Moduły
+Czujki pozostałe
+Centrale alarmowe
 Manipulatory
 Moduły i ekspandery
-Centrale alarmowe
 Czujniki PIR
 Czujniki dualne PIR+MW
 Czujniki zalania i temperatury
@@ -339,10 +339,10 @@ Czujniki zbicia szyby
 Czujki wibracyjne
 Czujniki gazów
 Akcesoria do czujek
+Nawierzchniowe
 Wpuszczane
 Bramowe
 Akcesoria do kontaktronów
-Nawierzchniowe
 Bariery podczerwieni
 Bariery podczerwieni SATEL
 Bariery podczerwieni OPTEX
@@ -367,8 +367,8 @@ Czytniki i zamki szyfrowe
 Czytniki biometryczne
 Przyciski
 Automatyka do bram
-Uchwyty do zwór
 Zwory elektromagnetyczne
+Uchwyty do zwór
 RACS_5
 RACS_4
 Kontrolery dostępu
@@ -397,8 +397,8 @@ Akcesoria
 Zasilacze PPOŻ
 Moduły zasilaczy
 Akcesoria do zasilaczy PPOŻ
-Puszki rozgałęźne
 Puszki przelotowe
+Puszki rozgałęźne
 Akcesoria
 Bezpieczniki
 Zasilacze wewnętrzne DC
@@ -465,9 +465,9 @@ Szuflady
 Szyny i listwy montażowe
 Szyny montażowe wysuwne
 Transformatory i separatory video
+Wentylatory
 Termostaty
 Panele wentylacyjne
-Wentylatory
 Obudowy stałe
 Obudowy do central alarmowych
 Obudowy z szyną DIN
@@ -480,8 +480,8 @@ Interkomy
 Wideodomofony bezprzewodowe
 Obudowy, daszki, osłony i ramki
 Akcesoria
-Wideodomofony Vidos 2IP
 Wideodomofony 2-przewodowe Vidos
+Wideodomofony Vidos 2IP
 Wideodomofony analogowe Vidos
 Kable HDMI
 Przełączniki HDMI
@@ -495,6 +495,44 @@ Akcesoria USB
 Czytniki kart pamięci USB
 Adaptery LAN USB
 Obudowy dysków USB
+Switche
+Switche PoE
+Routery
+Routery 4G LTE / 5G
+Access Pointy
+Kontrolery
+Kable LAN
+Patchcordy RJ45
+Zabezpieczenia przeciwprzepięciowe LAN
+Karty WiFi USB i PCI-E
+Karty LAN PCI-E
+Wzmacniacze i repeatery Wi-Fi
+Złącza 50 Ω
+Anteny
+Switche do 7 portów PoE
+Switche 8 - 15 portów PoE
+Switche 16 - 23 porty PoE
+Switche 24 porty PoE
+Switche 48 portów PoE
+Routery z WiFi
+Routery przewodowe
+Routery przemysłowe
+Routery GPON/EPON
+Systemy WiFi Mesh
+MikroTik
+Kategoria 5e
+Kategoria 6
+Kategoria 6A
+Kategoria 7
+Kategoria 7A
+Kategoria 8
+Typu N
+Typu SMA
+Typu TNC
+Typu FME
+Przejścia i łączniki
+2.4GHz
+5.0GHz
 Mufy światłowodowe
 Przełącznice światłowodowe
 Puszki abonenckie
@@ -514,43 +552,6 @@ Patchcordy wielomodowe
 Pigtaile wielomodowe
 Pigtaile jednomodowe
 Rozbiegówki światłowodowe
-Switche
-Switche PoE
-Routery
-Routery 4G LTE / 5G
-Access Pointy
-Kontrolery
-Kable LAN
-Patchcordy RJ45
-Zabezpieczenia przeciwprzepięciowe LAN
-Karty WiFi USB i PCI-E
-Karty LAN PCI-E
-Wzmacniacze i repeatery Wi-Fi
-Złącza 50 Ω
-Anteny
-Switche PoE do 7 portów
-Switche PoE 8 - 15 portów
-Switche PoE 16 - 23 porty
-Switche PoE 24 porty i więcej
-Routery z WiFi
-Routery przewodowe
-Routery przemysłowe
-Routery GPON/EPON
-Systemy WiFi Mesh
-MikroTik
-Kategoria 5e
-Kategoria 6
-Kategoria 6A
-Kategoria 7
-Kategoria 7A
-Kategoria 8
-Typu N
-Typu SMA
-Typu TNC
-Typu FME
-Przejścia i łączniki
-5.0GHz
-2.4GHz
 Kable
 Złącza i akcesoria Keystone
 Przewody połączeniowe
@@ -586,12 +587,9 @@ Przejścia i łączniki JACK
 Przejścia i łączniki F
 Przejścia i łączniki IEC
 Pozostałe
-Gniazda BNC
-Gniazda CINCH (RCA)
-Gniazda koncentryczne IEC
-Gniazda JACK
 Gniazda RJ
 Gniazda pozostałe
 Antenowe
-Obudowy do rejestratorów
-Metalowe natyn
+Gniazda BNC
+Gniazda CINCH (RCA)
+Gniazda koncentryczn

@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · news_1 · https://www.omniray.ch:443/news-1 · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1714 omniray.ch · news_1 · https://www.omniray.ch:443/news-1 · fetched 2026-11-20T10:12:13Z · HTTP 200
 Omni Ray AG | Informieren Sie sich über die neusten Produktenews
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -175,6 +175,9 @@ Mitsubishi Electric hat Cybersecurity bereits seit vielen Jahren als festen Best
 Previous slide
 Next slide
 Sensorik
+RSK-3200: Kontaktloser Winkelsensor für anspruchsvolle Anwendungen
+Der RSK-3200 von Novotechnik ermöglicht kontaktlose Winkelmessungen bis 360°. Robust, redundant und für mobile Maschinen geeignet.
+20.11.2026
 Einfache SSI-Integration für zuverlässige Neigungsmessung
 Der neue POSITAL TILTIX Neigungssensor mit SSI-Schnittstelle ermöglicht eine präzise Erfassung von Neigung und Position – ideal für die Fabrikautomation, Produktionsmaschinen und weitere anspruchsvolle industrielle Anwendungen.
 17.11.2026
@@ -190,9 +193,6 @@ Er überzeugt mit einer hohen Auflösung von bis zu 3,2 Megapixeln und erstklass
 Fusspedale von FSG Fernsteuergeräte
 Bediengeräte von FSG haben sich in vielen Industriebranchen etabliert, das gilt auch für die Fußpedale. Ihre Varianten sind so vielfältig wie ihre Einsatzgebiete
 05.08.2026
-Explosionsgeschützte Neigungssensoren für Ex-Bereiche
-POSITAL erweitert die TILTIX-Familie um explosionsgeschützte Neigungssensoren für den sicheren Einsatz in anspruchsvollen Industrieumgebungen. Zertifiziert nach ATEX und IECEx, robust und präzise.
-29.07.2026
 Previous slide
 Next slide
 Elektromechanik
@@ -274,4 +274,6 @@ Bildverarbeitungs- und Identifikationssensoren
 Sensoren diverses
 Elektromechanik
 Beleuchtungen
-Lüften /
+Lüften / Kühlen
+Verbindungstechnik
+Leiterplatten-Steckverbind

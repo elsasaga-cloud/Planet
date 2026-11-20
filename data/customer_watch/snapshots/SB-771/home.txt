@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Contacto magnetico Slim inalambrico AX PRO, HIKVISION DS-PDMCS-EG2-WB(O-STD)
-$ 17 + IVA
-Sensor contacto piso cortina arrollable inalambrico 868 mhz, LANTEK SEN.212R
-$ 24 + IVA
+Sirena double luz, tweeter 2 vias, LANTEK SIR.327R
+$ 67 + IVA
+Conector de Cables UY para Cable Calibre 24, CROW LTK-UY2
+$ 1 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,13 +202,6 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
-CONTROL DE ACCESO
-Soporte en GZ chapas magn?ticas con alarma sigue a...
-$ 28 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
 ACCESORIOS CCTV
 Extension coax RG59 + Corriente 20m, 65ft, EPCOM D...
 $ 16 + IVA
@@ -216,23 +209,30 @@ Añadir al carrito
 Compare
 Quick view
 Add to wishlist
+CONTROL DE ACCESO
+Cobertor superior para puertas de vidrio 1 metro, ...
+$ 62 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
 CCTV , ACCESORIOS CCTV
-Cable HDMI 4k Ultra HD 5 mts Fibra Optica macho a ...
-$ 30 + IVA
+Cable HDMI de 1 m (3.28 ft), LANTEK TTHDMI1M
+$ 5 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-SEGURIDAD , CONTROL DE ACCESO
-Control de acceso y asistencia 1000 usuarios huell...
-$ 64 + IVA
+ESTRUCTURADO , CANALIZACION
+Tapas ciegas placas pared faceplate por unidad, LA...
+$ 1 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-SEGURIDAD , CONTROL DE ACCESO
-Control de acceso y asistencia SaaS WiFi, Facial h...
-$ 102 + IVA
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4K Ultra HD 30 mts Fibra optica macho a...
+$ 51 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,36 +266,36 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch L3 NeverDie/ 24 GE/ 4 x SFP+/ VSU, RIP, OSP...
-$ 437 + IVA
+Switch Agregacion 8 SFP / 2GE uplink, 6KV No admin...
+$ 74 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Fuente Poder 370w RG-S2910C-24GT2XS-HP-E and RG-S2...
-$ 302 + IVA
+Switch L3 Lite Core / 24 GE / 4 x GE SFP+ QoS, RUI...
+$ 579 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch 24 GE PoE+ L2 / 4SFP uplink, 370W 6KV Cloud...
-$ 385 + IVA
+Switch PoE+ L2 8 GE (2.5GB) 2 uplink SFP+10GE, Max...
+$ 329 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Protector de voltaje 12VDC Din Rail, LANTEK 12V SP...
-$ 24 + IVA
+Switch Distribucion L2+ / 48 GE / 4 x SFP+ / PoE 7...
+$ 1,271 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
-SWITCHES
-Switch Acceso L2 / 24 GE / 4 SFP+, REYEE RG-NBS320...
-$ 365 + IVA
+REDES , SWITCHES
+Switch Industrial PoE administrable 10 GE / 1 PoE+...
+$ 170 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

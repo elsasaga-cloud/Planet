@@ -1,6 +1,7 @@
-# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Strona główna | Getfort
 O marce
+Aktualności
 Produkty
 Okablowanie
 Audio-wideo
@@ -11,8 +12,8 @@ Zasilanie
 CCTV
 Elektryka i narzędzia
 Wsparcie
-Centrum pobierania
 Kontakt
+Centrum pobierania
 Gdzie kupić
 Poznaj Nowe Szafy Rack
 Teraz jeszcze więcej przestrzeni – 47U

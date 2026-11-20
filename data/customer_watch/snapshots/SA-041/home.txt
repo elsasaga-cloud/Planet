@@ -1,9 +1,8 @@
-# SA-041 lightoptics.pl · home · https://fibermarkt.com/pl · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SA-041 lightoptics.pl · home · https://fibermarkt.com/pl · fetched 2026-11-20T10:12:13Z · HTTP 200
 Urządzenia światłowodowe - Postaw na Fibermarkt
 Sklep nie będzie działał poprawnie w przypadku wyłączenia obsługi plików cookies.
 Język Język:
-.options", "triggerTarget":"#switcher-language-trigger", "closeOnMouseLeave": false, "triggerClass":"active", "parentClass":"active", "buttons":null}}'>
-angielski
+.options", "triggerTarget":"#switcher-language-trigger", "closeOnMouseLeave": false, "triggerClass":"active", "parentClass":"active", "buttons":null}}'> angielski
 niemiecki
 francuski
 hiszpański

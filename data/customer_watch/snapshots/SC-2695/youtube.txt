@@ -1,4 +1,6 @@
-# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-2695 everfocus.com · youtube · https://www.youtube.com/@EverFocusIP · fetched 2026-11-20T10:12:13Z · HTTP 200
+2026-11-19T11:00:16+00:00	What Is Quantum Computing and How Does It Work? | Intel	https://www.youtube.com/watch?v=BJg4H7LLBZE
+2026-11-19T11:00:12+00:00	What Is Quantum Computing and How Does It Work? | Intel	https://www.youtube.com/shorts/qiDI2MpbAKA
 2026-11-13T19:49:32+00:00	McLaren Mastercard F1 Team's Oscar Piastri on Using Simulators to Calidate Upgrades | Intel	https://www.youtube.com/shorts/b_27txmMlEo
 2026-11-09T15:00:24+00:00	Spot fake video and audio in real time | Intel	https://www.youtube.com/shorts/NjfkgG1oSmQ
 2026-11-06T15:00:17+00:00	The technology behind McLaren performance with Oscar Piastri | McLaren Mastercard F1 Team x Intel	https://www.youtube.com/watch?v=HVg1rNAV99w
@@ -12,5 +14,3 @@
 2026-10-26T14:42:39+00:00	Arizona: Build the future of technology with Intel Foundry | Intel	https://www.youtube.com/watch?v=HT-eFYNxTio
 2026-10-26T14:39:11+00:00	New Mexico: Build the future of technology with Intel Foundry | Intel	https://www.youtube.com/watch?v=dds9h6jVzfw
 2026-10-26T14:37:26+00:00	Oregon: Build the future of technology with Intel Foundry | Intel	https://www.youtube.com/watch?v=87waGoxmUl8
-2026-10-21T15:00:13+00:00	Building America's Capacity to Innovate | Intel	https://www.youtube.com/watch?v=CBv6WuKH25A
-2026-10-20T16:50:18+00:00	How Stadiums Use Intel Edge AI to Boost Revenue & Fan Experience | Intel	https://www.youtube.com/shorts/USu6GeQZGkM

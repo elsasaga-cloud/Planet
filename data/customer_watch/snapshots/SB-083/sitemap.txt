@@ -1,4 +1,4 @@
-# SB-083 MERIT LILIN ENT. CO., LTD. · sitemap · https://meritlilin.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-083 MERIT LILIN ENT. CO., LTD. · sitemap · https://meritlilin.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 	https://meritlilin.com/tw
 	https://meritlilin.com/tw/support
 	https://meritlilin.com/tw/worldwide
@@ -111,6 +111,8 @@
 	https://meritlilin.com/tw/aida-apps
 	https://meritlilin.com/en/camera-resolution-calculator
 	https://meritlilin.com/tw/camera-resolution-calculator
+	https://meritlilin.com/en/lpkg
+	https://meritlilin.com/tw/lpkg
 	https://meritlilin.com/en/findManual
 	https://meritlilin.com/tw/findManual
 	https://meritlilin.com/en/product-finder
@@ -240,11 +242,10 @@
 2026-08-12	https://meritlilin.com/en/product/category/183
 2025-01-07	https://meritlilin.com/tw/product/category/184
 2025-01-07	https://meritlilin.com/en/product/category/184
-2023-08-31	https://meritlilin.com/tw/product/category/187
-2023-08-31	https://meritlilin.com/en/product/category/187
+2026-11-20	https://meritlilin.com/tw/product/category/187
+2026-11-20	https://meritlilin.com/en/product/category/187
 2024-01-11	https://meritlilin.com/tw/product/category/188
 2026-08-12	https://meritlilin.com/en/product/category/188
 2023-08-31	https://meritlilin.com/tw/product/category/190
 2023-08-31	https://meritlilin.com/en/product/category/190
-2023-10-31	https://meritlilin.com/tw/product/category/191
-2023-10-31	
+2023-

@@ -1,18 +1,28 @@
-# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/broadband/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/fixed-wireless-access/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/geolinks/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/corporate/newsroom/press/2026_nov_18/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/corporate/newsroom/press/2026_nov_18_el/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/licensed-spectrum/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/mmwave/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/multi-gigabit-connectivity/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/network-automation/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/spectrum-as-a-service/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/unims/
+2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/wibas-g5/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/building-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/coaxial-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/copper-switch-off/
-2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/fixed-wireless-access/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/fwa/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/g.hn/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/gigabit-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/in-building-broadband/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/mdu/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/mduconnect/
-2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/mmwave/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/multi-dwelling-unit/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/multi-tenant-building/
-2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/twisted-pair-connectivity/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/products/wns/home-business_fwa/wibasg5_mduconnect/
 2026-10-12T09:24:59+03:00	https://www.intracom-telecom.com/tags/wireless-broadband/
@@ -26,7 +36,6 @@
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/promo/event/broadbandNation26/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/gigabit-fwa/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/microwave-backhaul/
-2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/network-automation/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/promo/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/wireless-isps/
 2026-10-07T12:06:10+03:00	https://www.intracom-telecom.com/tags/wispapalooza-2026/
@@ -49,7 +58,6 @@
 2026-09-24T15:13:32+03:00	https://www.intracom-telecom.com/promo/campaign/smartCity/
 2026-09-09T15:53:26+03:00	https://www.intracom-telecom.com/tags/5g/
 2026-09-09T15:53:26+03:00	https://www.intracom-telecom.com/tags/beamforming/
-2026-09-09T15:53:26+03:00	https://www.intracom-telecom.com/tags/broadband/
 2026-09-09T15:53:26+03:00	https://www.intracom-telecom.com/corporate/newsroom/articles/2026_09_01/
 2026-09-09T15:53:26+03:00	https://www.intracom-telecom.com/tags/spectral-efficiency/
 2026-09-09T15:53:26+03:00	https://www.intracom-telecom.com/tags/wibas/
@@ -59,10 +67,8 @@
 2026-08-02T00:00:00+03:00	https://www.intracom-telecom.com/tags/network-management/
 2026-08-02T00:00:00+03:00	https://www.intracom-telecom.com/tags/rf-planning/
 2026-08-02T00:00:00+03:00	https://www.intracom-telecom.com/tags/service-qualification/
-2026-08-02T00:00:00+03:00	https://www.intracom-telecom.com/tags/unims/
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/5g-backhaul/
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/corporate/newsroom/articles/2026_08_01/
-2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/licensed-spectrum/
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/microwave/
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/omnibas/
 2026-08-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/unlicensed-spectrum/
@@ -157,7 +163,6 @@
 2026-02-03T00:00:00+03:00	https://www.intracom-telecom.com/corporate/newsroom/articles/2026_02_03/
 2026-02-03T00:00:00+03:00	https://www.intracom-telecom.com/tags/mmwave-fwa/
 2026-02-03T00:00:00+03:00	https://www.intracom-telecom.com/tags/mu-mimo/
-2026-02-03T00:00:00+03:00	https://www.intracom-telecom.com/tags/wibas-g5/
 2026-02-02T00:00:00+03:00	https://www.intracom-telecom.com/tags/ai/
 2026-02-02T00:00:00+03:00	https://www.intracom-telecom.com/tags/bigstreamer/
 2026-02-02T00:00:00+03:00	https://www.intracom-telecom.com/tags/generative-ai/
@@ -183,9 +188,4 @@
 2026-01-19T16:03:34+03:00	https://www.intracom-telecom.com/corporate/newsroom/press/2026_jan_19/
 2026-01-19T16:03:34+03:00	https://www.intracom-telecom.com/corporate/newsroom/press/2026_jan_19_el/
 2026-01-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/fiber-alternative/
-2026-01-01T00:00:00+03:00	https://www.intracom-telecom.com/tags/gigabit-access/
-2026-01-01T00:00:00+03:00	https://www.intracom-telecom.com/corporate/newsroom/newsletter/issue43/
-2025-12-04T15:35:56+03:00	https://www.intracom-telecom.com/tags/broadband-expansion/
-2025-12-04T15:35:56+03:00	https://www.intracom-telecom.com/tags/digital-inclusion/
-2025-12-04T15:35:56+03:00	https://www.intracom-telecom.com/tags/fiber-like-broadband/
-2025-12-04T15:35:56+03:00
+2026-01

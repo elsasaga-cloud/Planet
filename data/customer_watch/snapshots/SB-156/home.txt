@@ -1,4 +1,4 @@
-# SB-156 cyberteam.pl · home · https://www.cyberteam.pl · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-156 cyberteam.pl · home · https://www.cyberteam.pl · fetched 2026-11-20T10:12:13Z · HTTP 200
 Cyberteam dostawca producent: urządzenia światłowodowe ,kable, osłony antyzakłóceniowe, szafy RACK, obudowy, netprotectory, MikroTik, Ubiquiti,moduły SFP, patchcordy, monitoring, GHz
 Rejestracja
 Logowanie
@@ -168,9 +168,9 @@ Kontakt
 /
 Producenci
 Aktualności
-Nowe Olty
+Nowości w naszej ofercie OLT: XGS-PON 10G oraz mini OLT serii FD160X-C2
 2026-11-19
-...
+Poszerzamy ofertę urządzeń OLT o nowe modele w technologii XGS-PON (10G) oraz kompaktowe mini OLT z serii FD160X-C2. Modele XGS-PON w pełni spełniają wymagania normy ITU-T G....
 więcej...
 OLT GPON / XGS-PON
 2026-05-28
@@ -211,4 +211,4 @@ Cyberteam Sp. z o.o.
 ul. Strefowa 8,
 22-400 Zamość
 E-mail: cyberteam(at)cyberteam.pl
-0.0470
+0.0533

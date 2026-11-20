@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · news_1 · https://tipteh.com/current-news/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1088 tipteh.com · news_1 · https://tipteh.com/current-news/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Current News - Tipteh
 Search for: Search Button
 Skip to content
@@ -77,6 +77,8 @@ You will receive only quality news and webinar reminders about leading automatio
 I have read and agree with terms.
 ×
 Read the latest news
+Turck I/O Modules and TAS 2.2 Data Processing
+Explore Turck's new IP67 I/O modules and TAS 2.2 with no-code data preprocessing for flexible connectivity and smarter industrial automation.
 Basler: Simplified Lens and Lighting Control
 Basler enables lens and lighting control directly via the camera using one SDK. Simplify machine vision integration with fewer components.
 Turck MARGEE Programmable Block I/O Modules
@@ -93,8 +95,6 @@ Turck TAS Edge – Smart OT Data Processing for Industrial IoT
 TAS Edge captures, filters, and processes OT data locally, reducing network traffic while accelerating Industrial IoT integration.
 Turck Inductive Ring Sensors with IO-Link
 Turck BIxR-W20 smart inductive ring sensors provide reliable metal part detection and counting while enabling machine condition monitoring and predictive maintenance.
-Leuze AMS 100i Compact Laser Positioning System
-Discover the compact Leuze AMS 100i laser positioning system for AGVs, stacker cranes, and intralogistics applications up to 120 m.
 1 2 Next
 Load More Posts
 Subscribe to our newsletter!

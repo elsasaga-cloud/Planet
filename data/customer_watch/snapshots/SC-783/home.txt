@@ -1,4 +1,4 @@
-# SC-783 expressalarm.cz · home · https://www.expressalarm.cz/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-783 expressalarm.cz · home · https://www.expressalarm.cz/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Express Alarm - Velkoobchod - autorizovaný distributor Hikvision | Kamery Hikvision | Express Alarm
 Toggle navigation
 0
@@ -72,6 +72,7 @@ další...
 Kamery IP - AJAX Systems
 Baseline |
 Superior
+Kamery IP - Youkey
 Kamery HDTVI - Hikvision
 Řada Standard |
 Řada PROFI |
@@ -98,6 +99,7 @@ Záznam videa - AJAX Systems
 NVR AJAX Systems Baseline - IP kamery |
 NVR AJAX Systems Superior - IP kamery |
 Příslušenství k NVR AJAX
+Záznam videa - Youkey
 Klávesnice k PTZ+NVR
 Switche+PoE
 Switche s PoE |
@@ -399,6 +401,7 @@ Turret kamery
 Bullet kamery
 Dome kamery
 Turret kamery
+Kamery IP - Youkey
 Kamery HDTVI - Hikvision
 Řada Standard
 8MP (4K)
@@ -536,6 +539,7 @@ pro 8 kamer
 pro 16 kamer
 pro 32 kamer
 Příslušenství k NVR AJAX
+Záznam videa - Youkey
 Klávesnice k PTZ+NVR
 Switche+PoE
 Switche s PoE
@@ -767,9 +771,4 @@ Akustické detektory
 Termální detektory přítomnosti
 Otřesové detektory
 Tísňové hlásiče + PANIK
-Požární a speciální detektory
-Magnetické kontakty
-Povrchové
-Povrchové polarizované
-Závrtné
-Závrtné 
+Požární a speciál

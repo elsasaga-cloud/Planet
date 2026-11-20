@@ -1,4 +1,4 @@
-# SC-2957 conexpro.com · sitemap · https://conexpro.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-2957 conexpro.com · sitemap · https://conexpro.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 	https://conexpro.com
 	https://conexpro.com/where-to-buy
 	https://conexpro.com/about
@@ -75,6 +75,7 @@
 	https://conexpro.com/tools-and-installation-material-access-cards-1058/category
 	https://conexpro.com/tools-and-installation-material-other-material-343/category
 	https://conexpro.com/tools-and-installation-material-usb-converters-1091/category
+	https://conexpro.com/conexpro-desktop-holder-for-wap-ax-lte7-kit-white-12235/product
 	https://conexpro.com/conexpro-10g-sfpplus-optical-module-wdmbidi-sm-tx1550rx1490nm-80km-1x-lc-ddm-12082/product
 	https://conexpro.com/conexpro-10g-sfpplus-optical-module-wdmbidi-sm-tx1330rx1270nm-60km-1x-lc-ddm-12081/product
 	https://conexpro.com/conexpro-10g-sfpplus-optical-module-wdmbidi-sm-tx1330rx1270nm-40km-1x-lc-ddm-12080/product
@@ -144,5 +145,4 @@
 	https://conexpro.com/conexpro-125g-sfp-optical-module-sm-1310nm-20km-2x-lc-ddm-hpe-9508/product
 	https://conexpro.com/conexpro-outdoor-utp-coupler-ip66-cat5e-rj45-9489/product
 	https://conexpro.com/conexpro-gnt-5303-waterproof-optical-coupler-sc-sc-9487/product
-	https://conexpro.com/conexpro-spacer-between-tpa-rbc-and-mikrotik-l11ug-5haxd-9355/product
-	https://conexpro.com/conexpro-opte-48fv2-fiber-optic-splice-closure-4
+	https://conexpro.com/conexpro-spacer-between-tpa-rbc-and-mikrotik-l11ug-5ha

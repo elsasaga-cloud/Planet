@@ -1,4 +1,4 @@
-# SB-159 elmospa.com · news_1 · https://www.elmospa.com/en/company/news · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-159 elmospa.com · news_1 · https://www.elmospa.com/en/company/news · fetched 2026-11-20T10:12:13Z · HTTP 200
 EL.MO. S.p.A - News
 Skip to main content
 Target audience
@@ -138,8 +138,6 @@ Company profile
 Solutions for residential buildings
 Download Area
 →
-Integrazioni
-Genetec
 Download
 Catalogue
 Login

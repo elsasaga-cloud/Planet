@@ -1,4 +1,4 @@
-# SB-1016 cae-groupe.com · home · https://www.cae-groupe.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1016 cae-groupe.com · home · https://www.cae-groupe.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Adaltra (ex CAE GROUPE) - We-make-the-connection
 The store will not work correctly when cookies are disabled.
 Nous rencontrons actuellement des problèmes techniques sur la vente de nos câbles à la coupe. En cas de difficulté,
@@ -110,6 +110,12 @@ PDF • EN 50575
 Guide des équivalences CPR
 Tableau exhaustif de correspondance vers les Euroclasses CPR (Eca, Dca, Cca, B2ca).
 Télécharger le guide
+25 & 26 nov. 2026
+Salon JTSE Paris
+Spectacle vivant, broadcast 12G-SDI, câbles audio & DMX pour l'intégration AV.
+Dock Pullman • Stand 23
+Docks de Paris • Aubervilliers
+Rejoindre le Stand 23 →
 Disponibilité
 + de 8 000 références en stock.
 Livraison 24/72H
@@ -136,29 +142,68 @@ Sonorisation & Audio Pro
 Coffrets de Communication
 Câbles Audio & DMX
 Câbles Manutention & Levage
-Notre présence sur les prochains salons
-Paris Expo • Porte de Versailles
-SALON DATA CENTRE WORLD
-Infrastructures Fibre Optique • Datacenters • Baies Serveurs
-Découvrez nos solutions MPO/MTP ultra-haute densité, câbles Euroclasses B2ca/Cca et baies préconnectorisées pour datacenters et salles serveurs.
-Dates
-18 & 19 novembre 2026
-Emplacement
-Hall 5.3 • Stand K105
-Lieu
-Paris - Porte de Versailles
-REJOINDRE LE STAND K105 →
-Docks de Paris • Aubervilliers
-SALON JTSE PARIS
-Spectacle Vivant • Broadcast 12G-SDI • Audio & DMX
-Retrouvez nos gammes de câbles scéniques haute résistance, cordons vidéo 12G-SDI, enrouleurs et liaisons hybrides pour l'intégration audiovisuelle.
-Dates
-25 & 26 novembre 2026
-Emplacement
-Dock Pullman • Stand 23
-Lieu
-Docks de Paris - Aubervilliers
-REJOINDRE LE STAND 23 →
+Nos gammes phares & références associées
+Retrouvez nos 2 univers produits clés : présentation technique de la gamme et sélection directe de nos références incontournables en stock.
+Câble audio
+Câbles microphones symétriques, liaisons numériques AES/EBU 110 Ω, multipaires audio LSZH et câbles haut-parleurs pour le broadcast et la scène.
+Découvrir la gamme →
+‹
+1 / 2
+›
+Syndex • 0.22 mm²
+DUAL22HQ - Câble Audio Asymétrique
+Câble double méplat 0.22 mm² blindage guipage cuivre pour liaisons RCA/Jack en studio et rack.
+Voir le produit →
+Instrument • Souple
+COBRA - Câble Instrument 0.22 mm²
+Faible capacité linéique et écran double couche contre les bruits de manipulation sur scène.
+Voir le produit →
+AES/EBU 110 Ω
+DIGIMIC - Câble Micro Numérique
+Câble 1 paire 0.22 mm² 110 Ω conçu pour signaux audio numériques AES/EBU et protocole DMX512.
+Voir le produit →
+Multipaire • LSZH
+DIGIBxxLSZH - Multipaires 2 à 32 P
+Liaisons multi-canaux blindées paire par paire avec gaine sans halogène pour installations ERP.
+Voir le produit →
+Micro • 2x0.40 mm²
+FMR240 - Câble Micro Double Guipage
+Conducteurs 0.40 mm² à double guipage cuivre inversé assurant une immunité CEM exceptionnelle.
+Voir le produit →
+Haut-Parleur • FRNC
+FHPxxFRNC - Câbles Haut-Parleurs
+Câbles multiconducteurs gaine FRNC retardatrice à la flamme pour systèmes de sonorisation fixes.
+Voir le produit →
+Câble fibre optique
+Liaisons optiques monomodes OS2 (G657A2) et multimodes OM3/OM4/OM5, structures serrées ou libres armées pour le tertiaire, l'industrie et l'extérieur.
+Découvrir la gamme →
+‹
+1 / 2
+›
+OS2 G657A2 • LSZH
+Câble fibre optique 36 brins G657A2 LSZH
+Colonne montante et câblage intérieur haute densité à faible rayon de courbure, gaine sans halogène ivoire.
+Voir le produit →
+Duplex • Serrée
+Fibre optique duplex structure serrée LSZH
+Câble optique duplex T4000 avec renfort aramide pour brassage direct de baies et liaisons intérieures.
+Voir le produit →
+CPR B2ca • Armé
+Fibre optique armée OS2 double gaine B2ca
+Structure libre multitube avec armure anti-rongeur et double gaine ignifugée LSZH conforme ERP/IGH.
+Voir le produit →
+Extérieur • PEHD
+Fibre optique armée tube central PEHD
+Liaison extérieure enterrée ou en fourreau avec protection feuillard acier ondulé contre les rongeurs.
+Voir le produit →
+Multitube • PEHD
+Fibre optique armée multitube PEHD
+Câble optique haute capacité pour réseaux campus, datacenters et liaisons inter-bâtiments sévères.
+Voir le produit →
+Hybride SMPTE 311M
+Câble optique Hybride - SMPTE311M
+Réunit fibres monomodes, conducteurs de puissance et contrôle pour caméras HD/4K broadcast et scène.
+Voir le produit →
 SÉLECTION DE CÂBLES HAUTE SÉCURITÉ CPR : B2ca (s1a, d1, a1)
 Conformité stricte aux arrêtés ERP & IGH. Émission minimale de fumées, zéro gouttelette enflammée et acidité contrôlée pour sécuriser au maximum vos chantiers tertiaires et sensibles.
 DÉCOUVRIR LES CÂBLES B2ca →
@@ -275,44 +320,4 @@ Découvrez notre solution WiFi6
 LIVRES BLANCS
 Guides pratiques, conseils techniques, informations légales, et dernières pépites en terme d'innovation…
 Retrouvez ci-dessous l'ensemble de nos livres blancs.
-Voir tous les livres blancs
-Ils nous font confiance
-Livraison en 24H / 72H
-Tarifs personnalisés
-Paiement sécurisé
-Retrait entrepôt IDF
-+33 1 69 74 74 80
-Newsletter
-Actus clé du marché, dernières sorties produits, tutos et outils... Inscrivez-vous à notre newsletter trimestrielle !
-En cochant cette case, j’accepte de recevoir des informations et offres promotionnelles par email de la part de CAE GROUPE.
-Je m'inscris
-Retrouvez-nous sur
-Rejoignez-nous sur les réseaux sociaux pour suivre l'actualité d'Adaltra
-facebook
-linkedin
-youtube
-we-make-the-connection
-LE GROUPE
-Adaltra
-Nos produits
-Marchés
-Espace presse
-Blog
-SERVICES
-Logistique
-Customisation
-Bureau d'études
-Déclaration administrateur
-NF C 15-100
-CONTACTEZ-NOUS
-Contact
-Rejoignez-nous
-Notre présence
-LÉGALES
-Mentions légales
-Données personnelles
-Gestion des cookies
-CGV - CGU
-CGV - Commerce
-Plan du site
-© Copyright Adaltra 2025
+Voir tous le

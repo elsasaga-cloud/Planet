@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · home · https://tipteh.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1088 tipteh.com · home · https://tipteh.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Tipteh - your automation partner
 Search for: Search Button
 Skip to content
@@ -76,14 +76,14 @@ In Tipteh, automation is our passion and your success!
 Tipteh is a leading Distribution Sales Representative of industrial automation components, systems, and solutions. In 30 years of experience we helped more then 14.000 partners develop new competitive advantage. Our wide range of automation products and our skilled engineers will help you solve your most demanding applications.
 Be on top of industrial automation. Stay informed!
 Check out the latest news to gain experience, identify opportunities and get a competitive edge.
+Turck I/O Modules and TAS 2.2 Data Processing
+Explore Turck's new IP67 I/O modules and TAS 2.2 with no-code data preprocessing for flexible connectivity and smarter industrial automation.
 Basler: Simplified Lens and Lighting Control
 Basler enables lens and lighting control directly via the camera using one SDK. Simplify machine vision integration with fewer components.
 Turck MARGEE Programmable Block I/O Modules
 Turck MARGEE turns compatible block I/O modules into controllers with Structured Text, Visual Studio Code, Git and web visualization.
 XDR-E DIN Rail Power Supplies MEAN WELL
 The XDR-E Series is economical power supply solution for industrial applications. Benefit from its slim design and save space inside cabinets.
-Basler 10GigE Cameras and Components for High-Speed Machine Vision
-Discover Basler ace 2 10GigE cameras with RDMA and PoE for high-speed machine vision, reduced CPU load and easier integration.
 More News
 Subscribe to our newsletter!
 You will receive only quality news and webinar reminders about leading automation equipment so you can crush your competition.

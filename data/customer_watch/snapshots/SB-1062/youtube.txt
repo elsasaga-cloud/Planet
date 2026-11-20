@@ -1,6 +1,10 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-20T10:12:13Z · HTTP 200
+2026-11-19T22:47:48+00:00	Beyond the Books: AI Meets Odoo Accounting	https://www.youtube.com/watch?v=CSm_guuDFNU
+2026-11-19T21:09:27+00:00	Odoo Market Analysis for California	https://www.youtube.com/watch?v=UbTmikePhfc
+2026-11-19T16:43:24+00:00	Das Ende der Insellösungen Folge 7	https://www.youtube.com/watch?v=NQ47OO3uHlU
+2026-11-19T15:40:07+00:00	Webinar - How to successfully implement Odoo with an Odoo integration partner	https://www.youtube.com/watch?v=4BMkSDZsrXY
 2026-11-19T08:49:26+00:00	Industry Webinar - Property management & Real Estate	https://www.youtube.com/watch?v=g6x2Ieg6Mxg
-2026-11-19T05:38:58+00:00	Stop Losing Margin on Installs: Real-Time Job Profitability for Wholesalers	https://www.youtube.com/watch?v=InEWB2SJLSk
+2026-11-19T05:38:58+00:00	Mastering Real-Time Profitability with Odoo	https://www.youtube.com/watch?v=InEWB2SJLSk
 2026-11-19T04:51:08+00:00	Unify Multi-Company Operations on One ERP	https://www.youtube.com/watch?v=7i7bkcUoNoc
 2026-11-18T18:10:45+00:00	Webinar - Come il fotovoltaico cresce con dati e tecnologia	https://www.youtube.com/watch?v=vSFpgqcPkDg
 2026-11-18T15:56:29+00:00	Webinaire - Découvrez les nouvelles innovations qui révolutionnent les Ventes et Abonnements Odoo 20	https://www.youtube.com/watch?v=zAII2XM1cZ4
@@ -10,7 +14,3 @@
 2026-11-17T19:52:37+00:00	Odoo BI: From Data to Decisions	https://www.youtube.com/watch?v=R_RbXnVolZA
 2026-11-17T15:54:37+00:00	Webinaire - Transformez votre cabinet comptable et gérez votre portefeuille clients avec Odoo 20	https://www.youtube.com/watch?v=4UiUHT4vXGo
 2026-11-17T10:12:26+00:00	Webinaire - Simplifiez votre reporting ESG grâce aux données intégrées d’Odoo 20	https://www.youtube.com/watch?v=fikL4DHzMyk
-2026-11-16T23:00:04+00:00	More Tools or Better Systems? WAO Group’s Odoo Journey	https://www.youtube.com/watch?v=1eLY3ElrTi4
-2026-11-16T15:30:01+00:00	Odoo Point of Sale: Mollie	https://www.youtube.com/watch?v=fIoW4prnvdc
-2026-11-16T14:45:24+00:00	Webinaire - Pourquoi vous n'avez plus besoin de 10 outils marketing	https://www.youtube.com/watch?v=rVgqZeVrblg
-2026-11-14T00:00:29+00:00	Clear Answers at Every Step: How ONYX Transformed the Customer Journey with Odoo	https://www.youtube.com/watch?v=6LPrxjHJEXU

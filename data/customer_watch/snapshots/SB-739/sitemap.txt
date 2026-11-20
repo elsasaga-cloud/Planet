@@ -1,4 +1,4 @@
-# SB-739 arcdyn.com · sitemap · https://arcdyn.com/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-739 arcdyn.com · sitemap · https://arcdyn.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 	https://arcdyn.com/
 2026-09-28T18:04:31+00:00	https://arcdyn.com/ip-cameras.html
 2026-09-03T14:26:47+00:00	https://arcdyn.com/nvr.html
@@ -48,7 +48,7 @@
 2017-01-19T21:03:11+00:00	https://arcdyn.com/security-camera-systems/8-camera-security-systems.html
 2017-01-19T21:03:16+00:00	https://arcdyn.com/security-camera-systems/16-camera-security-systems.html
 2026-11-19T05:41:26+00:00	https://arcdyn.com/resources/learning-center/arcdyn-technical-guides/how-to-use-a-poe-injector-and-ip-security-camera.html
-2026-09-28T18:04:28+00:00	https://arcdyn.com/solutions/commercial-security-cameras.html
+2026-11-19T17:04:30+00:00	https://arcdyn.com/solutions/commercial-security-cameras.html
 2026-06-19T05:27:56+00:00	https://arcdyn.com/access-control.html
 2017-12-28T20:37:48+00:00	https://arcdyn.com/access-control/multi-door-controllers.html
 2017-02-11T02:00:19+00:00	https://arcdyn.com/access-control/card-readers.html

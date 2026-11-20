@@ -1,4 +1,4 @@
-# SB-419 avproglobal.com · news_1 · https://www.avproglobal.com/blogs/news · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-419 avproglobal.com · news_1 · https://www.avproglobal.com/blogs/news · fetched 2026-11-20T10:12:13Z · HTTP 200
 News
 – AVPro Global
 AVPro Edge
@@ -106,6 +106,16 @@ ThenAudio
 AVPro Global
 All
 News
+November 19 2026 ,
+by Ashley Stuntebeck
+Industry 48Gbps HDMI 2.1 Scaler and Down-Mixer Solutions
+AVPro Edge (www.avproedge.com) has introduced two full-specification 48Gbps HDMI 2.1 AV integration solutions that address connectivity challenges for integrators while delivering unmatched performance. Compatible with...
+Read more
+November 19 2026 ,
+by Ashley Stuntebeck
+Introducing MXnet 10G-MSE High-Performance - Multi-Stream AV over IP Encoder
+AVPro Edge Introduces the MXnet 10G-MSE High-Performance Multi-Stream AV over IP Encoder Designed for hybrid AV over IP systems, the 10G multi-stream encoder...
+Read more
 October 29 2026 ,
 by Steve Chase
 Hyperion APR-16: Firmware v1.2.0 Released
@@ -171,21 +181,11 @@ by Steve Chase
 STILE App: Complete Setup Walkthrough
 Managing multiple HDMI sources, displays, and audio systems has never been simpler. The STILE app from AVPro brings everything together through the AVPro Edge AC-MV-41...
 Read more
-February 04 2026 ,
-by Ashley Stuntebeck
-RTI Appoints Avation as Distributor for Australia
-RTI Appoints Avation as Distributor for Australia Please Visit RTI at the 2026 ISE Show FEB 3-6 in Barcelona Booth 2H150 (Residential AV Solutions)...
-Read more
-February 02 2026 ,
-by Ashley Stuntebeck
-AudioControl Pro Appoints Habitech, LTD as Master Distributor for the UK
-FOR IMMEDIATE RELEASE AudioControl Pro Appoints Habitech, LTD as Master Distributor for the UK Please Visit AudioControl at the 2026 ISE...
-Read more
-15 out of 615 Blog posts
+15 out of 617 Blog posts
 1
 2
 …
-41
+42
 Next
 Login
 Log In with AVPro Connect

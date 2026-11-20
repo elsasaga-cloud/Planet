@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Blog
 Destek
 Teknik Destek Talep Formu
@@ -407,6 +407,7 @@ Mustafa Kemal Mah. 2140. Sk. Gökçen Life Plaza A Blok Daire:2, No:17, 06510 Ç
 [email protected]
 29/2 Niyazbek Road ,Yunusabod, Tashkent, Uzbekistan
 AI Workstation
+NVIDIA DGX Spark GB10
 NVIDIA N1X RTX Spark
 NVIDIA DGX Spark
 NVIDIA DGX Station GB300
@@ -416,7 +417,6 @@ Technopc Epiczone İş İstasyonu
 Technopc Powerzone İş İstasyonu
 AI Server
 AI GPU Server
-NVIDIA Vera Rubin NVL72
 AI Workstation Notebook
 AI Endüstriyel Ürünler
 Technopc AI Endüstriyel Notebook TPN14AW
@@ -489,4 +489,4 @@ Medikal El Terminali
 Özel Sipariş Ürünleri Kurumsal Ürünler
 Endüstriyel Ürünler
 Yapay Zeka (AI) Donanım Çözümleri AI Workstation
-AI 
+AI Se

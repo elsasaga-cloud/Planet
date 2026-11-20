@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -98,8 +98,8 @@
 	https://www.ecin.ca/shop/en-qsfp28-bxd10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1331nm-tx-1271nm-rx-8478
 	https://www.ecin.ca/shop/en-qsfp28-bxu20-100g-bidi-pam4-qsfp28-single-lambda-xcvr-20km-1291nm-tx-1311nm-rx-8693
 	https://www.ecin.ca/shop/en-qsfp28-bxd20-100g-bidi-pam4-qsfp28-single-lambda-xcvr-20km-1311nm-tx-1291nm-rx-8694
-	https://www.ecin.ca/shop/en-qsfp28-bxu80-100g-bidi-qsfp28-lan-wdm-xcvr-80km-tx-1273-54nm-1277-89nm-1282-26nm-1286-66nm-rx-1295-56nm-1300-05nm-1304-58nm-1309-14nm-11176
-	https://www.ecin.ca/shop/en-qsfp28-bxd80-100g-bidi-qsfp28-lan-wdm-xcvr-80km-tx-1295-56nm-1300-05nm-1304-58nm-1309-14nm-rx-1273-54nm-1277-89nm-1282-26nm-1286-66nm-11177
+	https://www.ecin.ca/shop/en-qsfp28-bxd80-100g-bidi-qsfp28-lan-wdm-xcvr-80km-bxd80-11177
+	https://www.ecin.ca/shop/en-qsfp28-bxu80-100g-bidi-qsfp28-lan-wdm-xcvr-80km-bxu80-11176
 	https://www.ecin.ca/shop/en-qsfp28-bxu40-100g-bidi-qsfp28-single-lambda-xcvr-40km-tx-1304-58nm-rx-1309-14nm-11178
 	https://www.ecin.ca/shop/en-qsfp28-bxd40-100g-bidi-qsfp28-single-lambda-xcvr-40km-tx-1309-14nm-rx-1304-58nm-11179
 	https://www.ecin.ca/shop/en-qsfp28-cw4-100g-cwdm4-qsfp28-4-x-25g-nrz-1310nm-2km-duplex-lc-upc-smf-transceiver-4788
@@ -142,4 +142,6 @@
 	https://www.ecin.ca/shop/en-qdd-srbd-400g-qsfp-dd-bidi-multimode-transceiver-sr4-2-srbd-mpo-100m-5720
 	https://www.ecin.ca/shop/en-q112-400-dr4-400g-qsfp112-dr4-transceiver-10927
 	https://www.ecin.ca/shop/en-q112-400-fr4-400g-qsfp112-fr4-transceiver-10928
-	https://www.ecin.ca/shop/en-q112-400
+	https://www.ecin.ca/shop/en-q112-400-sr4-400g-qsfp112-sr4-transceiver-10926
+	https://www.ecin.ca/shop/en-q112-400-vr4-400g-qsfp112-vr4-transceiver-10925
+	https://www.ecin.ca/shop/en-osfp-sr4-rhs-4

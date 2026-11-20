@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-20T10:12:13Z · HTTP 200
+Fri, 20 Nov 2026 09:00:00 +0000	Recopilación de datos BMS, PCS y EMS: cómo fluye la información de un sistema BESS desde los equipos de campo hasta las plataformas de monitorización	https://www.davantel.com/recopilacion-de-datos-bms-pcs-y-ems-como-fluye-la-informacion-de-un-sistema-bess-desde-los-equipos-de-campo-hasta-las-plataformas-de-monitorizacion
 Thu, 19 Nov 2026 09:00:00 +0000	Teltonika amplía su oferta de conectividad IoT con tres nuevos planes de datos: Global Plus, EuroCore y EuroCore+UK	https://www.davantel.com/planes-datos-iot-teltonika-global-plus-eurocore
 Wed, 18 Nov 2026 09:00:00 +0000	De sensor LoRaWAN a BMS BACnet: Una guía práctica con LG3120e + E2C en campo	https://www.davantel.com/de-sensor-lorawan-a-bms-bacnet-una-guia-practica-con-lg3120e-e2c-en-campo
 Tue, 17 Nov 2026 09:00:00 +0000	Despliegue masivo de routers: clonar configuraciones y provisionar 50 equipos sin ir uno a uno	https://www.davantel.com/despliegue-masivo-de-routers-clonar-configuraciones-y-provisionar-50-equipos-sin-ir-uno-a-uno
@@ -54,6 +55,4 @@ Mon, 17 Aug 2026 08:00:00 +0000	Más Allá de la Conectividad: Robustel EG5120 v
 Fri, 14 Aug 2026 08:00:00 +0000	CARP (Common Address Redundancy Protocol): redundancia de alta disponibilidad en servidores de tiempo Elproma NTS-3000/4000/5000	https://www.davantel.com/carp-common-address-redundancy-protocol-redundancia-de-alta-disponibilidad-en-servidores-de-tiempo-elproma-nts-3000-4000-5000
 Wed, 12 Aug 2026 08:00:00 +0000	Edge control: ¿Cómo implementar Docker en routers celulares industriales?	https://www.davantel.com/edge-control-como-implementar-docker-en-routers-celulares-industriales
 Mon, 10 Aug 2026 08:00:00 +0000	Edge Router vs. Firewall: Construyendo un Perímetro Industrial Ágil y Seguro	https://www.davantel.com/edge-router-vs-firewall-construyendo-un-perimetro-industrial-agil-y-seguro
-Fri, 07 Aug 2026 08:00:00 +0000	Redundancia Sin Interrupciones en Redes Industriales: PRP y HSR frente a RSTP, MRP y ERPS	https://www.davantel.com/redundancia-sin-interrupciones-en-redes-industriales-prp-y-hsr-frente-a-rstp-mrp-y-erps
-Wed, 05 Aug 2026 08:00:00 +0000	¿Cómo elegir el mejor protocolo VPN en los routers Teltonika?	https://www.davantel.com/como-elegir-el-mejor-protocolo-vpn-en-los-routers-teltonika
-Mon, 03 Aug 2026 08:00:00 +0000	¿Qué es el protocolo LLDP y LLDP-MED?	https://www.davantel.com/que-es-el-protocolo-lldp-y-l
+Fri, 07 Aug 2026 08:00:00 +0000	Redundancia Sin Interrupciones en Redes Industriales: PRP y HSR frente a RSTP, MRP y ERPS	https://www.davantel.com/redundancia-sin-interrupciones-en-r

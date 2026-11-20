@@ -1,4 +1,6 @@
-# SB-885 riverplus.com · youtube · https://www.youtube.com/c/RiverplusChannelTH · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-885 riverplus.com · youtube · https://www.youtube.com/c/RiverplusChannelTH · fetched 2026-11-20T10:12:13Z · HTTP 200
+2026-11-20T07:01:03+00:00	Milesight 4G Router เลือกรุ่นไหนดี? เปรียบเทียบ 3 รุ่น UR32S, UR32 และ UR35	https://www.youtube.com/watch?v=Zv2o2C58h0M
+2026-11-20T06:48:20+00:00	Milesight 4G Router เลือกรุ่นไหนดี? เปรียบเทียบ 3 รุ่น UR32S, UR32 และ UR35	https://www.youtube.com/shorts/9mQC1rmW3JA
 2026-11-05T04:41:45+00:00	Milesight UR32S | เชื่อมต่ออินเทอร์เน็ตผ่าน 4G โดยไม่ต้องเดินสายอินเทอร์เน็ต	https://www.youtube.com/watch?v=KiMA_Moz2L0
 2026-11-05T04:40:18+00:00	Milesight UR32S | เชื่อมต่ออินเทอร์เน็ตผ่าน 4G โดยไม่ต้องเดินสายอินเทอร์เน็ต	https://www.youtube.com/shorts/jrwFoDw7NEk
 2026-11-03T02:20:21+00:00	Assembly Inspection | ตรวจสอบความถูกต้องของงานประกอบ	https://www.youtube.com/shorts/2jscnDZXrUU
@@ -12,5 +14,3 @@
 2026-08-13T04:07:11+00:00	Date Code Inspection Machine | ตรวจสอบ Date Code วันที่ผลิต–วันหมดอายุ ของผลิตภัณฑ์	https://www.youtube.com/shorts/fnNx-8OVqec
 2026-08-13T04:03:47+00:00	Date Code Inspection Machine | ตรวจสอบ Date Code วันที่ผลิต–วันหมดอายุ ของผลิตภัณฑ์	https://www.youtube.com/watch?v=VI95GZU3Iok
 2026-08-10T02:14:41+00:00	วิธีการส่งค่า Sensors ผ่าน MQTT PROTOCOL | Teltonika	https://www.youtube.com/watch?v=3DzBKQ1J75g
-2026-08-07T03:12:32+00:00	C100 Series | AMR สำหรับคลังสินค้าอัตโนมัติ | Under-Ride Lifting	https://www.youtube.com/watch?v=alyOYPuTKNA
-2026-07-27T06:39:41+00:00	จัด 500 ออเดอร์/วัน คนแค่ 3 คน — ทำยังไง (AMR)	https://www.youtube.com/shorts/nH7vjHsWwac

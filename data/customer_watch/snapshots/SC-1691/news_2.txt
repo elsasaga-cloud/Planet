@@ -1,4 +1,4 @@
-# SC-1691 alfacomp.net · news_2 · https://www.alfacomp.net/tp20-transmissor-de-pressao · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-1691 alfacomp.net · news_2 · https://www.alfacomp.net/tp20-transmissor-de-pressao · fetched 2026-11-20T10:12:13Z · HTTP 200
 Transmissor de pressão - TP20
 Soluções Completas em Automação Industrial
 Fale por WhatsApp
@@ -82,7 +82,6 @@ Servidor Serial & Gateway Modbus
 Gateway Modbus e Servidor Ethernet conversor RS232 e RS485 - MPORT3101R
 Ver todos
 Rádio de Comando
-Telecomando de bombeamento
 Remota de telemetria - RT304
 Remota de telemetria - RT308
 Telecomando Alfacomp - TC3172
@@ -408,4 +407,5 @@ Segmentos e Aplicações
 Soluções de Engenharia
 Contato
 Unidade Porto Alegre/RS:
-Rua Cel. Dico de Barros, 67, Bairro Na
+Rua Cel. Dico de Barros, 67, Bairro Navegantes. CEP 90.240-090
+Po

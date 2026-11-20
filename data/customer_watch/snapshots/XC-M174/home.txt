@@ -1,4 +1,4 @@
-# XC-M174 Control Technologies UK Ltd · home · https://controltech.uk.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# XC-M174 Control Technologies UK Ltd · home · https://controltech.uk.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Control Technologies UK | Webshop
 Skip to content 🎓 The CT-UK Academy is LIVE! Our first specialist course, CAN Physical Layer, is now available. Develop your CAN expertise. Explore now →
 Menu
@@ -66,12 +66,13 @@ Floomli
 QuWireless
 Teltonika
 CANtrol Kits
+About the Kits
 CANtrol Basic Auto Kit
 CANtrol Auto FD Kit
 CANtrol Basic Industry Kit
 CANtrol Industry FD Kit
-CANtrol Complete Software Kit
 CANtrol Simulation Kit
+PCAN-Explorer 7 Full Bundle
 Engineering Support
 CT-UK Academy
 About the Academy
@@ -609,12 +610,13 @@ Floomli
 QuWireless
 Teltonika
 CANtrol Kits
+About the Kits
 CANtrol Basic Auto Kit
 CANtrol Auto FD Kit
 CANtrol Basic Industry Kit
 CANtrol Industry FD Kit
-CANtrol Complete Software Kit
 CANtrol Simulation Kit
+PCAN-Explorer 7 Full Bundle
 Engineering Support
 CT-UK Academy
 About the Academy
@@ -633,25 +635,25 @@ Training & knowledge CT-UK Academy
 View More Brands
 Explore all PEAK products
 PCAN-USB XL
-Regular price $704.00 (Excl VAT)
+Regular price $702.00 (Excl VAT)
 PCAN-MicroMod FD
 Regular price $176.00 (Excl VAT)
 PCAN-USB Adapter
-From $284.00 (Excl VAT)
+From $283.00 (Excl VAT)
 Explore all Teltonika products
 FMC650
-Regular price $220.00 (Excl VAT)
+Regular price $219.00 (Excl VAT)
 FMC225
 Regular price $142.00 (Excl VAT)
 FMB204
 Regular price $91.00 (Excl VAT)
 Explore all CSS Electronics products
 CANsub
-From $557.00 (Excl VAT)
+From $555.00 (Excl VAT)
 CANedge3: 2x CAN Bus Data Logger (SD + 3G/4G + GPS/IMU)
-From $958.00 (Excl VAT)
+From $955.00 (Excl VAT)
 CANedge2: 2x CAN Bus Data Logger (SD + WiFi + GPS/IMU)
-From $934.00 (Excl VAT)
+From $931.00 (Excl VAT)
 Explore all Topcon products
 Opus A8 Standard Basic with CoDeSys Programming
 Opus A6 2nd Generation Standard Full with CoDeSys programming
@@ -659,17 +661,17 @@ Opus A3 Standard Full Projektor 4.3” TFT colour display
 Most Popular
 Explore all
 PCAN-USB Adapter
-From $284.00 (Excl VAT)
+From $283.00 (Excl VAT)
 PCAN-Explorer 6
-Regular price $762.00 (Excl VAT)
+Regular price $760.00 (Excl VAT)
 PCAN Repeater DR
-Regular price $351.00 (Excl VAT)
+Regular price $349.00 (Excl VAT)
 PCAN-Explorer 7
-From $822.00 (Excl VAT)
+From $820.00 (Excl VAT)
 PCAN-Explorer 7: Bus Descriptions Add-in 7
-From $249.00 (Excl VAT)
+From $248.00 (Excl VAT)
 MU-Thermocouple1 CAN
-Regular price $944.00 (Excl VAT)
+Regular price $941.00 (Excl VAT)
 Explore all
 Our Reviews
 Industry-leading engineering and technology solutions. We create the world of tomorrow through solving the issues of today.

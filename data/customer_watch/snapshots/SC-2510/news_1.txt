@@ -1,6 +1,7 @@
-# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SC-2510 getfort.com · news_1 · https://getfort.com/blog · fetched 2026-11-20T10:12:13Z · HTTP 200
 Aktualności | Getfort
 O marce
+Aktualności
 Produkty
 Okablowanie
 Audio-wideo
@@ -11,8 +12,8 @@ Zasilanie
 CCTV
 Elektryka i narzędzia
 Wsparcie
-Centrum pobierania
 Kontakt
+Centrum pobierania
 Gdzie kupić
 Strona główna | Blog
 Aktualności
@@ -21,9 +22,9 @@ Najnowsze
 Najstarsze
 Alfabetycznie
 Szafy stojące RACK GetFort
-Szafy stojące RACK GetFort – profesjonalne obudowy serwerowe i teleinformatyczne Szafy serwerowe i sieciowe z serii stojącej GetFort zostały zaprojektowane specjalnie z myślą o profesjonalnych wdrożeniach teleinformatycznych, serwerowych oraz w centrach danych. Zapewniają bezpieczne i uporządkowane miejsce na switche sieciowe, serwery oraz pozostały sprzęt aktywny, optymalizując wykorzystanie przestrzeni w pomieszczeniach IT. Sztywna konstrukcja ramowa gwarantuje […]
+Drzwi perforowane czy szklane? Szerokość 600 czy 800 mm? Sprawdź, jak dobrać szafę stojącą RACK GetFort do swojej serwerowni, a przy okazji dowiedz się, jak działa jej system chłodzenia i dlaczego montaż z płaskich paczek jest tak szybki.
 Nowe 16-portowe switche GetFort
-Nowości GetFort: 16-portowe switche PoE 240W z portami SFP 2.5G W ofercie marki GetFort pojawiły się dwa nowe modele switchy PoE, zaprojektowane z myślą o profesjonalnych instalacjach monitoringu IP. Pozwalają one na bezpieczne zasilanie wielu urządzeń IP w jednej instalacji dzięki całkowitemu budżetowi mocy do 240W. Cechy wspólne obu modeli switchy GetFort Oba nowe switche […]
+Nowe 16-portowe switche PoE GetFort z budżetem 240 W, portami 60 W i SFP 2.5G? Sprawdź, czym różnią się modele GF-120G-16P-240 i GF-220G-16P-240 oraz jak AI Watchdog 2.0 ogranicza wyjazdy serwisowe w instalacjach monitoringu.
 Nowa seria uchwytów TV GetFort
 Nowa seria uchwytów TV GetFort – bezpieczny i stabilny montaż w każdym pomieszczeniu Planujesz montaż telewizora na ścianie, ale obawiasz się trudnych narożników, nietypowych wnęk lub po prostu szukasz uchwytu najwyższej jakości dla ekranu o dużej przekątnej? Marka GetFort poszerza swoją ofertę o nową linię regulowanych uchwytów telewizyjnych typu Full-Motion: GF-FM5590-80, GF-FM3786-60, GF-FM3275-40 oraz GF-FM2365-35. […]
 Nowość w ofercie: Szafy Rack 47U

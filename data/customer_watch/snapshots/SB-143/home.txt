@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
 Bulk Fiber Internet, TV and Phone for Florida Communities | Broadstar
 Skip to content
 Menu
@@ -170,7 +170,6 @@ Please enable JavaScript in your browser to complete this form.
 Your Name * First
 Last
 Email *
-Email else Current
 Phone *
 Community or Property Name *
 Your Role * Board President
@@ -178,6 +177,7 @@ Board Member
 Property Manager
 Owner or Developer
 Other
+Phone Anything Contract
 Number of Units *
 Property Location * --- Select Choice ---
 West Palm Beach area
