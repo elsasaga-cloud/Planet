@@ -1,4 +1,4 @@
-# SB-877 ltv-cctv.ru · sitemap · https://ltv-cctv.ru/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-877 ltv-cctv.ru · sitemap · https://ltv-cctv.ru/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
 	https://ltv-cctv.ru/
 	https://ltv-cctv.ru/links-page/
 	https://ltv-cctv.ru/contacts/
@@ -36,6 +36,7 @@
 	https://ltv-cctv.ru/links-page/ulichnye-kommutatory/
 	https://ltv-cctv.ru/links-page/multigibridnoe-videonablyudenie/
 	https://ltv-cctv.ru/links-page/2-series-multigibrid/
+	https://ltv-cctv.ru/links-page/analogovye-videokamery/prochie-tovary/
 	https://ltv-cctv.ru/links-page/videokamery-2-series/
 	https://ltv-cctv.ru/links-page/m-b-series/
 	https://ltv-cctv.ru/links-page/videokamery-m-series/
@@ -82,6 +83,9 @@
 	https://ltv-cctv.ru/links-page/g2/
 	https://ltv-cctv.ru/links-page/g3/
 	https://ltv-cctv.ru/links-page/g4/
+	https://ltv-cctv.ru/links-page/vzryvozashchishchennoe-oborudovanie/prochie-tovary/
+	https://ltv-cctv.ru/links-page/termokozhukhi/prochie-tovary/
+	https://ltv-cctv.ru/links-page/ip-e-series/prochie-tovary/
 	https://ltv-cctv.ru/links-page/ip-videokameri/ltv-gicdm4-e901-f1-g/
 	https://ltv-cctv.ru/links-page/ptz-1s/ltv-1cnsd20-z5-w/
 	https://ltv-cctv.ru/links-page/ip-videokameri/ltv-gicdm2-e900-f1-g/
@@ -179,7 +183,4 @@
 	https://ltv-cctv.ru/links-page/3-series/ltv-3s24g4c-mp/
 	https://ltv-cctv.ru/links-page/ip-videokameri/ltv-gicdm2-e402-v3/
 	https://ltv-cctv.ru/links-page/ip-5-series/ltv-5cns50-ru-korpusnaya-ip-videokamera/
-	https://ltv-cctv.ru/links-page/kronshteyny-dlya-kamer/ltv-bmt-p-01-kronshteyn-shtanga-dlya-krepleniya-povorotnykh-kamer-na-potolok/
-	https://ltv-cctv.ru/links-page/ip-videokameri/ltv-gicdm2-e601-v1-g/
-	https://ltv-cctv.ru/links-page/kronshteyny-dlya-kamer/ltv-bmb-175-ltv-bmw-175/
-	https://ltv-cctv.ru/links-page/o
+	https://ltv-cctv.ru/links-page/kronsh

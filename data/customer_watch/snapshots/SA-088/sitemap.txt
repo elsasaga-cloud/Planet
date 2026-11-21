@@ -1,4 +1,4 @@
-# SA-088 ute.de · sitemap · https://www.ute.de/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SA-088 ute.de · sitemap · https://www.ute.de/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
 	https://www.ute.de/
 	https://www.ute.de/adder-produkte
 	https://www.ute.de/adder-produkte/adderlink-kvm-extender

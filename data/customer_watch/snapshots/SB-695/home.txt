@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -108,7 +108,7 @@ ISA Multifuncional
 ISA Saída Analógica
 ISA Digital E/S
 ISA Controle Movimento / Watch Dog
-Condicionador de Sinal
+Condicionador de Sinal e Isolador de Sinal
 USB/Ethernet
 Multifunction DAQ
 GPIB / IEEE 488
@@ -179,7 +179,6 @@ AAEON
 NK Technologies
 Meanwell
 Ebyte
-Moxa
 ICP DAS
 MCC DAQ
 ORing
@@ -306,7 +305,7 @@ ISA Multifuncional
 ISA Saída Analógica
 ISA Digital E/S
 ISA Controle Movimento / Watch Dog
-Condicionador de Sinal
+Condicionador de Sinal e Isolador de Sinal
 USB/Ethernet
 Multifunction DAQ
 GPIB / IEEE 488
@@ -375,7 +374,6 @@ AAEON
 NK Technologies
 Meanwell
 Ebyte
-Moxa
 ICP DAS
 MCC DAQ
 ORing
@@ -425,6 +423,14 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
+LRS-450 Fonte CA/CC 450 Watts Alta Eficiência MeanWell
+A partir de
+R$ 520,82
+R$
+505 , 20
+à vista
+com desconto Pix - Vindi
+Ver opções
 Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
 R$ 990,00
 R$
@@ -433,37 +439,30 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
--50%
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 24V - LRI-PS6524
-R$ 255,00
-R$ 127,50
+MDR-60, Fonte CA/CC 60W, Compatível com Trilho DIN MeanWell
+R$ 205,66
 R$
-123 , 68
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-LRS-350 - Fonte CA/CC até 350,4W, 8 saídas de 3,3 a 48Vcc Mean Well
-A partir de
-R$ 348,13
-R$
-337 , 69
+199 , 49
 à vista
 com desconto Pix - Vindi
 Ver opções
-LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
-R$ 499,00
+Inversor Industrial CC/CA 600W 48Vcc Saída 127 Vca LRI48-600-127T2-V3
+R$ 990,00
 R$
-484 , 03
+960 , 30
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
-1-Wire Sensor de Temperatura TST100
-Sob consulta
-Saiba mais
-Pedir cotação
+LRI-CON-7562 Módulo Conversor Isolado USB para RS-232/RS-422/RS-485/TTL
+R$ 499,00
+R$
+484 , 03
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
 LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
 R$ 499,00
 R$
@@ -472,18 +471,18 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Módulo S0 Contador de Pulsos com Interface Modbus RTU TDI340
-R$ 1.080,91
-R$
-1.048 , 48
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-1-Wire Sensor de Corrente Isolado TSC201
+Módulo de Controle de Relé Remoto TCW122B-RR
 Sob consulta
 Saiba mais
 Pedir cotação
+LRS-450 Fonte CA/CC 450 Watts Alta Eficiência MeanWell
+A partir de
+R$ 520,82
+R$
+505 , 20
+à vista
+com desconto Pix - Vindi
+Ver opções
 Depoimentos
 Nome: Manoel
 Avaliação: Positivo
@@ -551,5 +550,5 @@ Sfera Labs
 Ebyte
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 2.056 secs - 20-11-2026  - node: commerce-web5-bot-lw - store
+Load time: 1.581 secs - 21-11-2026  - node: commerce-web5-bot-lw - store
 ×

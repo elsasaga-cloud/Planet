@@ -1,4 +1,4 @@
-# SB-271 dodicelettronica.it · news_1 · https://www.dodicgroup.it/news/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-271 dodicelettronica.it · news_1 · https://www.dodicgroup.it/news/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 News - Dodic Group
 0775 840029
 marketing@dodic.it
@@ -159,6 +159,9 @@ Novità
 Eventi
 Corsi di formazione
 Editoriali
+Corso FAAC – Casoria
+Partecipa al nostro corso formativo dedicato alle soluzioni FAAC nella loro sede di Casoria.
+Scopri di più
 Presentazione Arteco – Latina
 Partecipa alla presentazione Arteco in data 18 Novembre presso la nostra sede di Latina!
 Scopri di più
@@ -174,9 +177,6 @@ Scopri di più
 Percorso formativo – CNA Roma
 Partecipa al nostro percorso formativo dedicato al fotovoltaico in collaborazione con CNA Roma.
 Scopri di più
-Corso Hikvision – Latina
-Scopri le potenzialità dei sistemi Hikvision MX Pro il 23 Ottobre 2026.
-Scopri di più
 Scopri i meno recenti
 Fine articolo
 Scopri il nostro Company Profile
@@ -189,10 +189,10 @@ Linkedin-in
 Categorie
 Altro (Non Pubblicato) (2)
 Comunicazioni (8)
-Corsi di formazione (54)
+Corsi di formazione (55)
 Editoriali (6)
 Eventi (32)
-Non Pubblicati (6)
+Non Pubblicati (5)
 Novità (4)
 Sede di Casoria (7)
 Sede di Fiumicino (12)
@@ -286,10 +286,10 @@ Sede di Casoria
 Novità
 Comunicazioni
 Corsi di formazione
+Corso FAAC – Casoria
+Novembre 10, 2026
 Presentazione Arteco – Latina
 Novembre 2, 2026
 Corso Ajax – Roma Nord
-Ottobre 26, 2026
-Corso Ajax – Latina
 Ottobre 26, 2026
 Torna in alto

@@ -1,4 +1,4 @@
-# SB-664 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-664 jm.pl · sitemap · https://jm.pl/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
 	https://jm.pl/pl/baza-wiedzy-7-wip/
 	https://jm.pl/pl/baza-wiedzy-1-wip/
 	https://jm.pl/pl/specjalista-ds-sprzedazy-led-sektor-b2b/
@@ -63,6 +63,7 @@
 	https://jm.pl/pl/ogloszenie-spec-sprzedazy-iit/
 	https://jm.pl/pl/dane-gospodarcze/
 	https://jm.pl/pl/ogloszenie-monter-ka-urzadzen-elektronicznych/
+	https://jm.pl/pl/ogloszenie-spec-iit-junior/
 	https://jm.pl/pl/spec-ds-sprzedazy-elementy-elektroniczne-account-manager/
 	https://jm.pl/pl/asystent-w-dziale-technologii-procesow/
 	https://jm.pl/pl/komponenty-led-lighting-oferta/
@@ -182,4 +183,4 @@
 	https://jm.pl/pl/przystepne-cenowo-obudowy-do-komputerow-jednoplytkowych-produkcji-iei/339/aktualnosc/
 	https://jm.pl/pl/przedstawiamy-mustanga-200-produkcji-iei---wszechstronny_-kompaktowy-akcelerator_-przeznaczony-do-przyspieszenia-pracy-komputera-i-systemu_/97/aktualnosc/
 	https://jm.pl/pl/hyper-bw-___-miniaturowy_-wydajny_-ekonomiczny-komputer-single-board/94/aktualnosc/
-	https://jm.pl/pl/certyfikowany-komputer-produkcji-iei-dla-transportu-szyn
+	https://jm.pl/pl/certyfikow

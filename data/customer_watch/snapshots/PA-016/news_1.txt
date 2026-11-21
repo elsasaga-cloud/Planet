@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-20T10:12:13Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · news_1 · https://www.voip24sklep.pl/pl/blog · fetched 2026-11-21T09:58:28Z · HTTP 200
 | voip24sklep.pl - Better communication
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -23,6 +23,70 @@ Produkty w koszyku: 0. Zobacz szczegóły
 Koszyk
 Twój koszyk jest pusty
 Wstecz
+TELEFONY
+Wszystko z
+TELEFONY
+TELEFONY VOIP
+TELEFONY ANALOGOWE
+TELEFONY SYSTEMOWE
+BIURKOWE TELEFONY GSM
+RADIOTELEFONY
+ZESTAWY CALL CENTER
+Wróć do:
+Słuchawki
+Stacje bazowe
+Zasilacze
+Baterie
+Uchwyty montażowe
+Mikrofony
+Moduły sekretarskie
+Repeatery
+Pokrowce
+Przewodowe
+Bezprzewodowe
+Słuchawki
+Analogowe
+Cyfrowe
+Akcesoria
+Morskie
+Telefon przewodowy i przewodowe słuchawki
+Telefon przewodowy i bezprzewodowe słuchawki
+Telefon bezprzewodowy i słuchawki
+DOMOFONY IP
+Wszystko z
+DOMOFONY IP
+BEZ KAMERY
+Z KAMERĄ
+MONITORY
+ZESTAWY
+SYSTEMY PRZYWOŁAWCZE
+LICENCJE
+UNIFONY IP
+AKCESORIA
+Wróć do:
+Przewodowe
+Bezprzewodowe
+Interkomy
+Elementy montażowe
+Ramki
+Moduły
+Daszki
+Karty i breloki
+Elektrozaczepy
+Przyciski wyjścia
+BRAMY VOIP
+Wszystko z
+BRAMY VOIP
+BRAMY ANALOGOWE
+BRAMY CYFROWE
+BRAMY GSM
+BRAMY HYBRYDOWE
+AKCESORIA
+USŁUGI
+Wróć do:
+Bramy ISDN E1 (PRA/PRI)
+Bramy ISDN BRI (BRA)
+SIM banki
 CENTRALE TELEFONICZNE IP PBX
 Wszystko z
 CENTRALE TELEFONICZNE IP PBX
@@ -74,10 +138,10 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
+Ekrany projekcyjne
 Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
-Ekrany projekcyjne
 Projektory
 Monitory Wielkoformatowe
 Biznesowe
@@ -89,33 +153,32 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Mediakonwertery
-Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
+Mediakonwertery
+Grabbery
+Uchwyty do projektorów
+Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
-Uchwyty do projektorów
-Kable
 Uchwyty do monitorów
+HDMI
+USB
 USB A
 USB C
-HDMI
-USB A
-Przedłużacze USB A
-Mobilne wózki
 Stałe
 Uchylne
 Na ramieniu
+Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla placówek medycznych
-Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
+Dla placówek medycznych
+Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -134,88 +197,25 @@ Dwuuszne
 Przewodowe
 Bezprzewodowe
 Jednouszne
+Dwuuszne
 Kable przyłączeniowe
 Gąbki
 Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Walizki/Torby Transportowe
-Higiena
 Słuchawki
 Mikrofony
 Ładowarki
-Akcesoria
+Walizki/Torby Transportowe
+Higiena
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
+Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
-TELEFONY
-Wszystko z
-TELEFONY
-TELEFONY VOIP
-TELEFONY ANALOGOWE
-TELEFONY SYSTEMOWE
-BIURKOWE TELEFONY GSM
-RADIOTELEFONY
-ZESTAWY CALL CENTER
-Wróć do:
-Słuchawki
-Stacje bazowe
-Zasilacze
-Baterie
-Uchwyty montażowe
-Mikrofony
-Moduły sekretarskie
-Repeatery
-Pokrowce
-Przewodowe
-Bezprzewodowe
-Słuchawki
-Morskie
-Analogowe
-Cyfrowe
-Akcesoria
-Telefon przewodowy i przewodowe słuchawki
-Telefon przewodowy i bezprzewodowe słuchawki
-Telefon bezprzewodowy i słuchawki
-DOMOFONY IP
-Wszystko z
-DOMOFONY IP
-BEZ KAMERY
-Z KAMERĄ
-MONITORY
-ZESTAWY
-SYSTEMY PRZYWOŁAWCZE
-LICENCJE
-UNIFONY IP
-AKCESORIA
-Wróć do:
-Przewodowe
-Bezprzewodowe
-Interkomy
-Daszki
-Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
-Elementy montażowe
-Ramki
-Moduły
-BRAMY VOIP
-Wszystko z
-BRAMY VOIP
-BRAMY ANALOGOWE
-BRAMY CYFROWE
-BRAMY GSM
-BRAMY HYBRYDOWE
-AKCESORIA
-USŁUGI
-Wróć do:
-Bramy ISDN E1 (PRA/PRI)
-Bramy ISDN BRI (BRA)
-SIM banki
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -288,13 +288,13 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Wtyki i gniazda sieciowe
 Panele krosowe
+Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Kategorii 5
-Kategorii 6
-Puste
+Gniazda Keystone
+Łączniki kabli
+Wtyki
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -317,6 +317,80 @@ Blog
 Kontakt
 Projekty
 Wstecz
+TELEFONY
+Wszystko z
+TELEFONY
+TELEFONY VOIP
+TELEFONY ANALOGOWE
+TELEFONY SYSTEMOWE
+BIURKOWE TELEFONY GSM
+RADIOTELEFONY
+ZESTAWY CALL CENTER
+Wróć do:
+Przewodowe IP
+Bezprzewodowe IP
+Wideotelefony IP
+Sekretarskie
+Akcesoria
+Refurbished
+Słuchawki
+Stacje bazowe
+Zasilacze
+Baterie
+Uchwyty montażowe
+Mikrofony
+Moduły sekretarskie
+Repeatery
+Pokrowce
+Przewodowe
+Bezprzewodowe
+Słuchawki
+Analogowe
+Cyfrowe
+Akcesoria
+Morskie
+Telefon przewodowy i przewodowe słuchawki
+Telefon przewodowy i bezprzewodowe słuchawki
+Telefon bezprzewodowy i słuchawki
+DOMOFONY IP
+Wszystko z
+DOMOFONY IP
+BEZ KAMERY
+Z KAMERĄ
+MONITORY
+ZESTAWY
+SYSTEMY PRZYWOŁAWCZE
+LICENCJE
+UNIFONY IP
+AKCESORIA
+Wróć do:
+Jednorodzinne
+Wielorodzinne
+Przewodowe
+Bezprzewodowe
+Interkomy
+Elementy montażowe
+Ramki
+Moduły
+Daszki
+Karty i breloki
+Elektrozaczepy
+Przyciski wyjścia
+BRAMY VOIP
+Wszystko z
+BRAMY VOIP
+BRAMY ANALOGOWE
+BRAMY CYFROWE
+BRAMY GSM
+BRAMY HYBRYDOWE
+AKCESORIA
+USŁUGI
+Wróć do:
+Bramy FXS
+Bramy FXO
+Bramy ISDN E1 (PRA/PRI)
+Bramy ISDN BRI (BRA)
+SIM banki
 CENTRALE TELEFONICZNE IP PBX
 Wszystko z
 CENTRALE TELEFONICZNE IP PBX
@@ -361,14 +435,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
+Głośniki
+Wzmacniacze
+Miksery
 Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
-Głośniki
-Wzmacniacze
-Miksery
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,10 +455,10 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
+Ekrany projekcyjne
 Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
-Ekrany projekcyjne
 Projektory
 Monitory Wielkoformatowe
 Biznesowe
@@ -396,33 +470,32 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Mediakonwertery
-Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
+Mediakonwertery
+Grabbery
+Uchwyty do projektorów
+Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
-Uchwyty do projektorów
-Kable
 Uchwyty do monitorów
+HDMI
+USB
 USB A
 USB C
-HDMI
-USB A
-Przedłużacze USB A
-Mobilne wózki
 Stałe
 Uchylne
 Na ramieniu
+Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla placówek medycznych
-Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
+Dla placówek medycznych
+Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -446,98 +519,25 @@ Dwuuszne
 Przewodowe
 Bezprzewodowe
 Jednouszne
+Dwuuszne
 Kable przyłączeniowe
 Gąbki
 Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Walizki/Torby Transportowe
-Higiena
 Słuchawki
 Mikrofony
 Ładowarki
-Akcesoria
+Walizki/Torby Transportowe
+Higiena
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
+Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
-TELEFONY
-Wszystko z
-TELEFONY
-TELEFONY VOIP
-TELEFONY ANALOGOWE
-TELEFONY SYSTEMOWE
-BIURKOWE TELEFONY GSM
-RADIOTELEFONY
-ZESTAWY CALL CENTER
-Wróć do:
-Przewodowe IP
-Bezprzewodowe IP
-Wideotelefony IP
-Sekretarskie
-Akcesoria
-Refurbished
-Słuchawki
-Stacje bazowe
-Zasilacze
-Baterie
-Uchwyty montażowe
-Mikrofony
-Moduły sekretarskie
-Repeatery
-Pokrowce
-Przewodowe
-Bezprzewodowe
-Słuchawki
-Morskie
-Analogowe
-Cyfrowe
-Akcesoria
-Telefon przewodowy i przewodowe słuchawki
-Telefon przewodowy i bezprzewodowe słuchawki
-Telefon bezprzewodowy i słuchawki
-DOMOFONY IP
-Wszystko z
-DOMOFONY IP
-BEZ KAMERY
-Z KAMERĄ
-MONITORY
-ZESTAWY
-SYSTEMY PRZYWOŁAWCZE
-LICENCJE
-UNIFONY IP
-AKCESORIA
-Wróć do:
-Jednorodzinne
-Wielorodzinne
-Przewodowe
-Bezprzewodowe
-Interkomy
-Daszki
-Karty i breloki
-Elektrozaczepy
-Przyciski wyjścia
-Elementy montażowe
-Ramki
-Moduły
-BRAMY VOIP
-Wszystko z
-BRAMY VOIP
-BRAMY ANALOGOWE
-BRAMY CYFROWE
-BRAMY GSM
-BRAMY HYBRYDOWE
-AKCESORIA
-USŁUGI
-Wróć do:
-Bramy FXS
-Bramy FXO
-Bramy ISDN E1 (PRA/PRI)
-Bramy ISDN BRI (BRA)
-SIM banki
 SPRZĘT IT
 Wszystko z
 SPRZĘT IT
@@ -552,9 +552,9 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
-Na kartę SIM
 Bezprzewodowe
 Przewodowe
+Na kartę SIM
 Przemysłowe
 Zewnętrzne
 Wewnętrzne
@@ -622,13 +622,13 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Wtyki i gniazda sieciowe
 Panele krosowe
+Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
-Kategorii 5
-Kategorii 6
-Puste
+Gniazda Keystone
+Łączniki kabli
+Wtyki
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -647,119 +647,147 @@ Dyski
 Switche POE
 Nowe produkty
 Nowość
-JABRA EVOLVE3 45 MONO LINK 390C (USB-C)
+JABRA EVOLVE3 45 STEREO MS USB-C + STACJA ŁADUJĄCA
 Producent Jabra
 Cena
-887,16 zł
+899,00 zł
 Cena
-721,27 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-GRANDSTREAM GRP2602LG
-Producent Grandstream
-Cena
-0,00 zł
-Cena
-0,00 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-GRANDSTREAM GRP2602LP
-Producent Grandstream
-Cena
-0,00 zł
-Cena
-0,00 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-GRANDSTREAM GRP2601LW
-Producent Grandstream
-Cena
-0,00 zł
-Cena
-0,00 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-GRANDSTREAM GRP2601LP
-Producent Grandstream
-Cena
-0,00 zł
-Cena
-0,00 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-GRANDSTREAM GRP2601L
-Producent Grandstream
-Cena
-0,00 zł
-Cena
-0,00 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-Fanvil Linkvil W626W
-Producent Fanvil
-Cena
-898,57 zł
-Cena
-730,54 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-Yealink W59R PRO
-Producent Yealink
-Cena
-782,21 zł
-Cena
-635,94 zł
-bez VAT
-Powiadom mnie o dostępności
-Zrezygnuj z powiadomień
-Nowość
-Grandstream GSC3575
-Producent Grandstream
-Cena
-1 049,00 zł
-Cena
-852,85 zł
+730,89 zł
 bez VAT
 Do koszyka
 Nowość
-Grandstream GSC3574
-Producent Grandstream
+JABRA EVOLVE3 45 STEREO UC USB-C + STACJA ŁADUJĄCA
+Producent Jabra
 Cena
-1 049,00 zł
+899,00 zł
 Cena
-852,85 zł
+730,89 zł
 bez VAT
 Do koszyka
 Nowość
-Jabra EVOLVE 30 II MS Mono
+JABRA EVOLVE3 45 STEREO UC USB-A + STACJA ŁADUJĄCA
 Producent Jabra
 Cena
-305,65 zł
+899,00 zł
 Cena
-248,50 zł
+730,89 zł
 bez VAT
 Do koszyka
 Nowość
-Jabra EVOLVE 30 II MS Duo
+JABRA EVOLVE3 45 STEREO MS USB-A + STACJA ŁADUJĄCA
 Producent Jabra
 Cena
-282,56 zł
+899,00 zł
 Cena
-229,72 zł
+730,89 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 STEREO MS USB-A
+Producent Jabra
+Cena
+699,00 zł
+Cena
+568,29 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 STEREO UC USB-A
+Producent Jabra
+Cena
+699,00 zł
+Cena
+568,29 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 STEREO UC USB-C
+Producent Jabra
+Cena
+699,00 zł
+Cena
+568,29 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 STEREO MS USB-C
+Producent Jabra
+Cena
+699,00 zł
+Cena
+568,29 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO UC USB-A
+Producent Jabra
+Cena
+649,00 zł
+Cena
+527,64 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO MS USB-A
+Producent Jabra
+Cena
+649,00 zł
+Cena
+527,64 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO UC USB-C
+Producent Jabra
+Cena
+649,00 zł
+Cena
+527,64 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO MS USB-C
+Producent Jabra
+Cena
+649,00 zł
+Cena
+527,64 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO UC USB-C + STACJA ŁADUJĄCA
+Producent Jabra
+Cena
+799,00 zł
+Cena
+649,59 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO UC USB-A + STACJA ŁADUJĄCA
+Producent Jabra
+Cena
+799,00 zł
+Cena
+649,59 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO MS USB-A + STACJA ŁADUJĄCA
+Producent Jabra
+Cena
+799,00 zł
+Cena
+649,59 zł
+bez VAT
+Do koszyka
+Nowość
+JABRA EVOLVE3 45 MONO MS USB-C + STACJA ŁADUJĄCA
+Producent Jabra
+Cena
+799,00 zł
+Cena
+649,59 zł
 bez VAT
 Do koszyka
 Promocje
@@ -988,29 +1016,4 @@ nowoczesna firma
 zarządzanie czasem
 moduł hotelowy
 IoT
-Plantronics
-Sennheiser
-konftel
-konferencja
-słuchawki przewodowe
-słuchawki bezprzewodowe
-Centrala
-Datera
-infolinia
-provisioning
-sprzedaż
-zakupy
-polska dystrybucja
-Helios
-2N
-zestaw
-helpdesk
-biuro obsługi klienta
-call center
-sprzęt telekomunikacyjny
-open space
-Jabra
-seria Evolve
-redukcja szumów
-PLANET
-Grandstr
+Plantroni

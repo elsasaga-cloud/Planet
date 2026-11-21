@@ -1,4 +1,4 @@
-# SC-1492 dssl.ru · home · https://www.dssl.ru/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SC-1492 dssl.ru · home · https://www.dssl.ru/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Системы видеонаблюдения: проектирование, производство, продажа оборудования для охранных CCTV
 Ваш город
 Москва
@@ -348,7 +348,6 @@ Uniview
 Подробнее
 ПО TRASSIR в подарок!
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Uniview IPC328LE-ADF28K-G
 20 630 р.
 24 270 р.
@@ -362,7 +361,6 @@ IP-камера Uniview IPC328LE-ADF28K-G
 55 790 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 Видеорегистратор HikVision DS-7616NXI-K2
 28 560 р.
 33 600 р.
@@ -372,13 +370,11 @@ IP-камера Uniview IPC328LE-ADF28K-G
 37 830 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Uniview IPC2122LB-ADF28KM-G
 8 228 р.
 9 680 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Uniview IPC3612LB-SF28-A
 4 590 р.
 5 400 р.
@@ -388,19 +384,16 @@ IP-камера Hikvision DS-2CD2723G2-IZS
 33 550 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Hikvision DS-2CD2643G2-IZS
 30 252 р.
 35 590 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Hikvision DS-2CD2623G2-IZS
 28 518 р.
 33 550 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Hikvision DS-2DE5432IW-AE (T5)
 91 112 р.
 107 190 р.
@@ -438,14 +431,12 @@ IP-видеорегистратор TRASSIR MiniNVR 3216R AnyIP
 Подробнее
 ПО TRASSIR в подарок!
 Поддерживает TRASSIR Cloud
-Акция
 IP-камера TRASSIR TR-D2123ZCL6
 13 473 р.
 15 850 р.
 Подробнее
 Снимается с производства
 Поддерживает TRASSIR Cloud
-Акция
 IP-камера TRASSIR TR-D2D2 v2
 11 059 р.
 13 010 р.
@@ -498,7 +489,6 @@ IP-камера Hikvision DS-2DE3A404IWG-E
 55 790 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 Видеорегистратор HikVision DS-7616NXI-K2
 28 560 р.
 33 600 р.
@@ -516,19 +506,16 @@ IP-камера Hikvision DS-2CD2723G2-IZS
 33 550 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Hikvision DS-2CD2643G2-IZS
 30 252 р.
 35 590 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Hikvision DS-2CD2623G2-IZS
 28 518 р.
 33 550 р.
 Подробнее
 Скидки до 60% на Hikvision и UNV
-Акция
 IP-камера Hikvision DS-2DE5432IW-AE (T5)
 91 112 р.
 107 190 р.
@@ -570,10 +557,14 @@ IP-видеорегистратор HiWatch DS-N316 (D)
 IP-видеорегистратор HiWatch DS-N308 (D) на 8 каналов
 16 290 р.
 Подробнее
-Акция
 IP-камера HiWatch DS-I225(D)
 51 077 р.
 60 090 р.
 Подробнее
 IP-камера HiWatch PT-N2400L-DE
-19 
+19 780 р.
+Подробнее
+IP-камера HiWatch PTZ-Y2404I-DE
+22 840 р.
+Подробнее
+Поворотная IP-к

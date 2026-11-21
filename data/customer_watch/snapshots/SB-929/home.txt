@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -171,11 +171,6 @@ Sold Out
 판매가 : 724,900원
 LIKE IT ! 0
 Sold Out
-에시르 SG-SB5418 500X400X180 CCTV SUS 스텐 폴 지붕형 함체
-상품요약정보 : 지붕형 500X400X180 손잡이형
-판매가 : 104,000원
-LIKE IT ! 0
-Sold Out
 애니포트 LD-PH750 미니 허브랙 H750xD560xW560 9U 아이보리
 상품요약정보 : 사이즈 750 x 560 x 560 mm / 슬림너트 타입 / 선반 1개 / 냉각팬 1개(120mm) / 4구 멀티탭 1개 포함 / 바퀴 포함 / 열쇠 포함
 판매가 : 300,000원
@@ -186,15 +181,20 @@ Sold Out
 판매가 : 553,300원
 LIKE IT ! 0
 Sold Out
+에시르 SG-SB5418 500X400X180 CCTV SUS 스텐 폴 지붕형 함체
+상품요약정보 : 지붕형 500X400X180 손잡이형
+판매가 : 104,000원
+LIKE IT ! 0
+Sold Out
 광케이블 SM-1C[FTTH · G657 · B3]
 상품요약정보 : 다량의 정보를 신속히 보내기 위하여 광섬유로 만든 케이블, 미터당 단가
 소비자가 : 300,000원
 판매가 : 330,000원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC2000-TS 멀티모드 1Gbps 광컨버터
-상품요약정보 : 멀티모드, 220m, 850nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
-판매가 : 118,800원
+솔텍 SFC300-SFP 산업용 스위치 (100Mbps TP 4포트/100Mbps SFP 2슬롯)
+상품요약정보 : 동작온도: -40 ~ 80ºC / 41(W) x 103(D) x 133(H)mm
+판매가 : 216,700원
 FiberMart 특가
 더보기
 LIKE IT ! 0

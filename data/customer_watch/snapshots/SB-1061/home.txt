@@ -1,4 +1,4 @@
-# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-11-19T10:30:38Z · HTTP 200
+# SB-1061 obserwuj.pl · home · https://obserwuj.pl/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Systemy zabezpieczeń i monitoringu CCTV - Sklep internetowy obserwuj.pl
 obserwujpl
 Zapraszamy na nasz kanał
@@ -281,17 +281,6 @@ Cena: 59.04 zł
 Zapytaj o produkt
 Nowość
 VIDOS
-VIDOS P12-15 – Dopuszkowy zasilacz impulsowy 14,5 V DC, IP65
-VIDOS-1495
-14,5 V DC, 0,83 A
-Wejście 100–240 V AC
-Do puszki Ø60 mm
-Stopień ochrony IP65
-50 × 49 × 25 mm
-Cena: 41.82 zł
-Zapytaj o produkt
-Nowość
-VIDOS
 VIDOS P12-12 – Dopuszkowy zasilacz impulsowy 12 V DC, IP65
 VIDOS-1494
 12 V DC, 1 A
@@ -300,17 +289,6 @@ Wejście 100–240 V AC
 Do puszki Ø60 mm
 Stopień ochrony IP65
 Cena: 41.82 zł
-Zapytaj o produkt
-Nowość
-VIDOS
-VIDOS P60-15 – Zasilacz impulsowy na szynę DIN 14–16 V DC, 60 W
-VIDOS-1493
-Wyjście regulowane 14–16 V DC
-Moc 60 W, prąd do 4 A
-Wejście 230 V AC
-Montaż na szynie DIN
-Szerokość 77 mm
-Cena: 104.55 zł
 Zapytaj o produkt
 Nowość
 VIDOS
@@ -323,12 +301,34 @@ Kolor czarny
 312 × 127 × 56 mm
 Cena: 405.90 zł
 Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS S111 – Stacja zewnętrzna IP X z ekranem 7″ i rozpoznawaniem twarzy
+VIDOS-1491
+Ekran dotykowy 7″
+Kamera Full HD, kąt 116°
+Twarz, RFID, PIN i QR
+PoE 48 V lub 12 V DC
+Obudowa IP64, IK09
+Cena: 2927.40 zł
+Zapytaj o produkt
+Nowość
+VIDOS
+VIDOS P60-15 – Zasilacz impulsowy na szynę DIN 14–16 V DC, 60 W
+VIDOS-1490
+Wyjście regulowane 14–16 V DC
+Moc 60 W, prąd do 4 A
+Wejście 230 V AC
+Montaż na szynie DIN
+Szerokość 77 mm
+Cena: 104.55 zł
+Zapytaj o produkt
 Najciekawsze oferty w kategoriach
 Monitoring CCTV
 0
 -73%
-Kamera tuba 6M DAHUA IPC-HFW1639TC-A-IL-0280B-S6
-DH-1967
+Kamera kopułka 6M DAHUA IPC-HDW1639T-A-IL-0280B-S6
+DH-1914
 1/2.7" 6Mpx PS CMOS
 Technologia Dual Illumination
 Obiektyw 2.8mm

@@ -1,4 +1,4 @@
-# SB-699 ccdact.com.au · home · https://ccd.au/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-699 ccdact.com.au · home · https://ccd.au/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 CCD Networking - Computer Networking Products Australia
 Skip to content
 Home
@@ -121,6 +121,13 @@ Red
 Black + Aqua Boots
 Black
 +6
+Multi-Mode OM1 Fibre Optic Cable
+From $8.80 AUD
+Aqua
+Black
+Blue
+Red
++2
 CCD MPO-12 Multimode OM4 Fibre Optic Cable
 From $50.00 AUD
 Multi-Mode OM3 Fibre Optic Cable
@@ -130,13 +137,6 @@ Blue
 Black + Aqua Boots
 Black
 +6
-Multi-Mode OM1 Fibre Optic Cable
-From $8.80 AUD
-Aqua
-Black
-Blue
-Red
-+2
 CCD MPO-16 Multimode OM4 Fibre Optic Cable
 From $85.00 AUD
 CCD MPO-12 Singlemode OS2 Fibre Optic Cable

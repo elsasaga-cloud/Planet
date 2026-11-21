@@ -1,4 +1,4 @@
-# XC-M119 "MARITEX" Leszek Łosin Sp.j. · home · https://www.maritex.eu/en · fetched 2026-11-20T10:12:13Z · HTTP 200
+# XC-M119 "MARITEX" Leszek Łosin Sp.j. · home · https://www.maritex.eu/en · fetched 2026-11-21T09:58:28Z · HTTP 200
 Maritex
 Call us: +48 58 6228900
 Feedback
@@ -88,7 +88,7 @@ Type of packaging:
 cardboard
 Quantity
 Order
-Total 59,46 PLN net
+Total 60,11 PLN net
 34.51.7.005.4010
 Electromagnetic relay; contact rating current 6A; coil voltage 5VDC; 1 changeover contact (1C); coil power 170mW; 6A/30VDC; 6A/230VAC
 Maritex code: 34.51.7.005.4010

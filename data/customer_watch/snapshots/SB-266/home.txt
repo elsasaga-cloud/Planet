@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,43 +41,42 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Samsung 990 NVMe SSD, M.2, 1TB
-4 135 Kč bez DPH
-5 003 Kč s DPH
-Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý
-91 Kč bez DPH
-110 Kč s DPH
-Conexpro napájecí kabel 230V AC s oholeným koncem, 3x1 mm2, 3m
-78 Kč bez DPH
-94 Kč s DPH
-MEAN WELL DDR-60L-24 Step-down měnič napětí DC/DC, 60W
-743 Kč bez DPH
-899 Kč s DPH
-TP-Link Tapo T150 Smart senzor lidské přítomnosti
-977 Kč bez DPH
-1 183 Kč s DPH
-Ubiquiti UX7, UniFi Express 7, 3 pack
-14 313 Kč bez DPH
-17 318 Kč s DPH
-Hikvision AX PRO Bezdrátový detektor rozbití skla
-Hikvision IP bullet kamera DS-2CD1047G3-LIU(4mm), 4Mpx, 4mm, ColorVu 3.0
-DEYE Nabíjecí stanice pro elektromobily s LoRa, 11kW, 3 fáze, Type 2
-6 630 Kč bez DPH
-8 023 Kč s DPH
-Hikvision IP bullet kamera DS-2CD2T43G2-4LI(4mm), 4Mpx, 4mm, 80m LED/IR, AcuSense
-Teltonika Telematics FMC927, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1
-1 482 Kč bez DPH
-1 793 Kč s DPH
-MEAN WELL HDR-60-15 Průmyslový zdroj na DIN lištu, 60W, 15V
-509 Kč bez DPH
-616 Kč s DPH
-Conexpro sada 4 plastových vyvazovacích háčků do racku pro kabely 37 x 39mm, bílý
-69 Kč bez DPH
-83 Kč s DPH
-Teltonika Napájecí zdroj na DIN lištu, 12V, 20W
-455 Kč bez DPH
-550 Kč s DPH
-Hikvision IP turret hybrid kamera DS-2CD2383G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+Ubiquiti UniFi Premium Etherlighting patch kabel, 1m, Cat6A, bílý, 24 pack
+3 071 Kč bez DPH
+3 716 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD1043G3-LIU(4mm), 4Mpx, 4mm
+Hikvision DS-DM1940W Nástěnný vesa držák pro monitory 19 až 40"
+Conexpro držák na stůl pro wAP ax LTE7 kit, bílý
+206 Kč bez DPH
+249 Kč s DPH
+Triton 19" stojanový rack 22U/600x600 prosklené dveře, černý
+8 276 Kč bez DPH
+10 014 Kč s DPH
+Samsung 870 EVO SSD, 2.5", 8TB
+60 161 Kč bez DPH
+72 795 Kč s DPH
+Triton 19" stojanový rack 15U/600x1000 prosklené dveře, šedý
+8 960 Kč bez DPH
+10 842 Kč s DPH
+Ubiquiti UniFi Premium Etherlighting patch kabel, 30cm, Cat6A, bílý, 24 pack
+2 631 Kč bez DPH
+3 184 Kč s DPH
+DEYE GE-F256-BC-A3 Bateriové uložiště, 256 kWh, HV
+892 780 Kč bez DPH
+1 080 264 Kč s DPH
+DEYE hybridní měnič 125 kW, 3 fázový, HV
+160 992 Kč bez DPH
+194 800 Kč s DPH
+MEAN WELL DDR-120B-24 Měnič napětí DC/DC, 120W
+1 809 Kč bez DPH
+2 189 Kč s DPH
+Hikvision DS-KAB86, Instalační zápustná krabice pro IP videotelefony
+Triton 19" stojanový rack 15U/600x600 prosklené dveře, šedý
+7 291 Kč bez DPH
+8 822 Kč s DPH
+Cudy P2 ODU 5G NR SA/NSA Outdoor Unit
+7 120 Kč bez DPH
+8 615 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

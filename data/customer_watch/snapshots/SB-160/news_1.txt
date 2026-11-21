@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -173,18 +173,18 @@ X
 Blog
 RISES IN COPPER PRICES
 / June 28, 2021
-Views: 775
+Views: 776
 Featured post
 We all know the rise in copper prices has made it difficult for SME to compete with larger corporations. Having received feedback from our clients, we’ve had an extensive look
 Read More
 TIGHT-BUFFERED CABLE VS LOOSE TUBE GEL FILLED
 / October 4, 2021
-Views: 3,257
+Views: 3,258
 Tight-buffered cable was considered best for indoor applications whilst loose-tube cable was best for outdoor applications. Many places avoiding using them as alternatives due to their material features. Despite this,
 Read More
 AWG CONVERSION GUIDE
 / September 20, 2021
-Views: 628
+Views: 629
 American Wire Gauge or AWG is the US standard measure for the diameter of cable electrical conductors. This AWG chart is based on the number of dies originally required to
 Read More
 HOW ARE TWISTED PAIR CABLES TERMINATED?
@@ -219,12 +219,12 @@ As technology develops we are seeing a rise in wireless connectivity. Most citie
 Read More
 RJ45 CONNECTOR: WHAT IS IT AND HOW DOES IT DIFFER FROM RJ11?
 / August 2, 2021
-Views: 15,248
+Views: 15,249
 Since the old days of analogue telephones and faxes, cables and connectors have been an integral part of a network communication. By now, everyone has seen an RJ45 connector, it’s
 Read More
 WHY ARE CABLES BRAIDED?
 / July 26, 2021
-Views: 1,334
+Views: 1,336
 When ordering a cable you may be tempted to consider whether or not to have it braided. Cables are braided for either of these reasons: To electrostatically screen the cable
 Read More
 CABLE BENDING RADIUS- SHOULD I BE CONCERNED?
@@ -234,7 +234,7 @@ You’ll often see ‘bending radius’ on our cable product datasheets and wond
 Read More
 FIBRE OPTIC CABLE TYPES- SINGLEMODE VS MULTIMODE
 / July 12, 2021
-Views: 879
+Views: 880
 Despite single mode fibre (SMF) and multimode fibre (MMF) being used in diverse applications, the difference between single mode and multimode are still confusing. With many decisions coming into play
 Read More
 Post navigation

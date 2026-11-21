@@ -1,4 +1,4 @@
-# SB-1088 tipteh.com · feed_auto · https://tipteh.com/feed/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-1088 tipteh.com · feed_auto · https://tipteh.com/feed/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Fri, 20 Nov 2026 08:08:29 +0000	Turck I/O Modules and TAS 2.2 Data Processing	https://tipteh.com/plc-controllers/i-o-modules-for-industrial-field-buses/turck-i-o-modules-and-tas-2-2-data-processing/
 Wed, 18 Nov 2026 13:09:06 +0000	Basler: Simplified Lens and Lighting Control	https://tipteh.com/machine-vision/industrial-cameras/basler-lens-lighting-control/
 Fri, 30 Oct 2026 06:48:54 +0000	Turck MARGEE Programmable Block I/O Modules	https://tipteh.com/plc-controllers/i-o-modules-for-industrial-field-buses/turck-margee-programmable-block-io-modules/

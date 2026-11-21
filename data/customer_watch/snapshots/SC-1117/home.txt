@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,52 +170,60 @@ Carrito
 Productos
 Noticias
 Ver todas
-Cesar · 10h · Redes
+Sylvia · 8h · Alarmas e Intrusión
+Tu vehículo, bajo control: alarmas e inmovilizadores Teltonika
+IMB5 identifica por RFID 2.4 GHz con hasta 5 tarjetas ID-TAG. GN7C.HP suma relé de 25 A y CAN bus para más de 800 modelos. El kit GN7C.HUPS.KRH agrega sensor ultrasónico volumétrico. Los tres operan de -40 a +85 °C.
+Conoce las alarmas Teltonika 1
+Victor · 10h · Control de Acceso
+El control de acceso ya no se queda sin credenciales.
+El M2M AXS sube a 4,000 credenciales en un solo controlador IP de una puerta: Wi-Fi, 4G LTE y Bluetooth como respaldo, RFID y NFC para abrir con tarjeta o celular, y la app RControl para gestionar todo desde el teléfono. Incluye un año de 4G LTE ilimitado.
+Conoce el M2M AXS de 4,000 credenciales
+Leopoldo · 18h · Audio e Intercom
+El HDMI no falla por la distancia. Falla por la compresión.
+El TT672PRO de EPCOM Titanium lleva 4K@60 Hz hasta 70 m sobre Cat 6, 6a o 7 con IPColor: cero latencia y sin comprimir. Salida Loop para monitoreo local, control IR bidireccional y PoC — un solo cable alimenta el receptor.
+Conoce el extensor de 70 m sin compresión
+Luis · 19h · Audio e Intercom
+El cable que falla no avisa: se va a media prueba de sonido
+La línea Cosmiconn resuelve el tendido completo: XLR de 1 a 10 m con contactos dorados y triple blindaje, XLR a plug 1/4, plug a plug estéreo y mono, 2 RCA y 3.5 mm a 2 RCA hasta 10 m. Conectores Seetronic Serie M y stock en la mayoría de las medidas.
+Conoce los cables Cosmiconn 1
+Rafael · 19h · Redes
+400 Mbps sobre 5 GHz con 25 dBi y hasta 10 km de alcance
+El ePMP Force 300-25L trabaja en 4910–6200 MHz con antena integrada de 25 dBi y latencia baja, pensado para zonas donde el espectro ya está peleado. Un suscriptor que sostiene la tasa de subida en horas pico sin sacrificar alcance.
+Conoce el Force 300-25L
+Cesar · 1d · Redes
 ¿Listo para ver todo el poder de UniFi trabajando en tiempo real?
 Ven a conocer en vivo el poder de UniFi Full Stack: una sola plataforma para Redes, Videovigilancia y Control de Acceso funcionando en tiempo real.
 📍 San Luis Potosí: 24 de noviembre
 📍 Guadalajara: 26 de noviembre
 ⏰ Horario: a.m. a p.m.
 Asiste en el horario que mejor te acomode. ¡Te esperamos!
-Conoce UniFi Full Stack
-Leopoldo · 15h
+Conoce UniFi Full Stack 2 1
+Leopoldo · 1d
 4K@60Hz 4: 4:4. 18 Gbps. HDCP 2.2. HDR. Sin compresión y sin letras chiquitas.
 La línea completa de cables HDMI Kramer, de 0.9 a 100 m: pasivos hasta 15.2 m, ultradelgados en cuatro colores, activos hasta 30 m, ópticos híbridos y un AOC blindado de 100 m. Conectores K-Lock de 15 lbs y certificación Premium HDMI.
 30 modelos en catálogo.
-Mira los 30 cables HDMI Kramer
-Fernando · 18h · Redes
+Mira los 30 cables HDMI Kramer 1
+Fernando · 1d · Redes
 70 switches industriales en una planta que no puede apagarse
 Umm Al Houl Power, en Qatar, genera 2,520 MW y surte 40% del agua potable del país. Ahí operan 70 switches Wi-Tek SP3010F: PoE industrial, rango de temperatura extendido y sin ventilador. La red no se cae porque el equipo aguanta.
 Conoce el switch que aguantó Qatar
-Leopoldo · 18h · Audio e Intercom
+Leopoldo · 1d · Audio e Intercom
 El HDMI se ve bien en el anaquel y falla a los 7 metros
 El C-HM/HM-25 de Kramer entrega 4K@60 (4:2:0) y 18 Gbps en 7.6 m con cable pasivo: sin chip, sin alimentación, sin firmware. Triple blindaje contra EMI y conectores K-Lock de 15 lbs que no se aflojan con el peso del cable. Certificación Premium HDMI.
 Conoce el C-HM/HM-25 de Kramer
-Rafael · 19h · Redes
+Rafael · 1d · Redes
 Donde el espectro está saturado, el Force 200L sigue entregando
 Radio suscriptor de 5 GHz con antena integrada de 25 dBi y hasta 200 Mbps en 802.11n. Diseñado para zonas de alta interferencia, con latencia baja y operación estable en 4910–5970 MHz. La opción de entrada para sumar suscriptores sin comprometer el enlace.
 Conoce el ePMP Force 200L
-Arath · 1d · GPS y M2M
-Yobi estrena panel de suscripciones y cuatro nuevos planes de datos
-Administra tus líneas Yobi desde el panel de suscripciones: revisa vigencia, capacidad y renueva con activación en minutos. Los planes nuevos llegan en cuatro versiones —SIM anual, SIM mensual, renovación anual y renovación mensual— de 1 GB a 10 GB sobre red Telcel.
-Conoce los nuevos planes Yobi 1
-Mario · 1d · Lanzamiento
-SUNMI continúa en El Buen Fin con nueve kits de punto de venta
-La promoción reúne las terminales móviles L2s Pro, L3 y V3, la terminal de escritorio D3 Mini, el pad comercial de 11 pulgadas, la impresora térmica de cocina de 80 mm y un escáner 2D. Android 13 y 14, NFC SoftPOS, IP68 y conectividad 4G para retail, logística y punto de venta.
-Mira los 9 kits SUNMI del Buen Fin 1
-Elesban · 1d · Videovigilancia
-Cámaras IP Honeywell Serie 25: NDAA y ya en stock en SYSCOM
-La línea HC25 suma micrófono integrado, Dual Light con IR y luz blanca, SMD que distingue personas de vehículos y ONVIF para plataformas de terceros. Carcasa IP67 y antivandálica para exterior.
-Demos habilitados: https://www.syscom.mx/demos?marcas%5B0%5D=HONEYWELL
-Conoce la Serie 25 de Honeywell 3
-Rafael · 1d · Redes
-El espectro de 6 GHz ya tiene suscriptor: Force 4616 de Cambium
-Entrega hasta 1 Gbps con antena integrada de 16 dBi y canales de 160 MHz, en la banda de 6 GHz donde todavía no hay interferencia. IP55, PoE incluido y gestión gratuita desde cnMaestro. Para WISP que necesitan más capacidad sin cambiar de torre.
-Conoce el Force 4616 de 6 GHz
-Fernando · 1d · Redes
-El PoE se corta a los 100 metros. La cámara estaba a 180.
-El modo Extend del WI-PCES206 de Wi-Tek lleva datos y energía hasta 250 m por el mismo par trenzado: sin repetidor, sin fibra y sin fuente en el poste. Cuatro puertos PoE+ 802.3af/at con 60 W, PoE Watchdog y gestión cloud con ONVIF. A 250 m entrega 10 Mbps y 7 W por puerto: cámaras con PoE estándar, no equipos de PoE pasivo 24 V.
-Mira el switch de 250 metros
 Videos
 Ver todos
-¡Toda la familia de reveladores inteligentes SwitchBot en un solo lugar! Modelos: SWITCHBOTRE
+¡Encontrar errores que ni el ojo humano puede notar
+Ver producto
+¿Cuál OLT de VSOL elegir? 🏻
+Ver producto
+INGESSS ¿Ya jugaron?
+Ver producto
+¿Más días de grabación? Conoce los grabadores con la tecnología GUANLAN de #HIKVISION
+Ver producto
+¿Ya jugaron? Así los días de los Inges
+Ver pr

@@ -1,4 +1,4 @@
-# XC-M185 Koning & Hartman B.V. · sitemap · https://www.koningenhartman.com/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+# XC-M185 Koning & Hartman B.V. · sitemap · https://www.koningenhartman.com/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
 	https://www.koningenhartman.com/nl/
 	https://www.koningenhartman.com/en/
 	https://www.koningenhartman.com/fr/
@@ -43,8 +43,6 @@
 	https://www.koningenhartman.com/nl/partners/partnergroep-niveaumeting/
 	https://www.koningenhartman.com/nl/partners/schaefer/
 	https://www.koningenhartman.com/nl/partners/supermicro/
-	https://www.koningenhartman.com/nl/werken-bij/order-en-supply-chain-specialist/
-	https://www.koningenhartman.com/nl/werken-bij/sales-desk-representative/
 	https://www.koningenhartman.com/nl/werken-bij/logistiek-medewerker/
 	https://www.koningenhartman.com/nl/werken-bij/stagiaire-marketing-en-communicatie/
 	https://www.koningenhartman.com/nl/kennisbank/
@@ -96,8 +94,6 @@
 	https://www.koningenhartman.com/en/partners/partner-group-level-measurement/
 	https://www.koningenhartman.com/en/partners/schaefer/
 	https://www.koningenhartman.com/en/partners/supermicro/
-	https://www.koningenhartman.com/en/work-at/order-en-supply-chain-specialist/
-	https://www.koningenhartman.com/en/work-at/sales-desk-representative/
 	https://www.koningenhartman.com/en/work-at/logistiek-medewerker/
 	https://www.koningenhartman.com/en/work-at/marketing-en-communication-internship/
 	https://www.koningenhartman.com/en/resources/
@@ -149,8 +145,6 @@
 	https://www.koningenhartman.com/fr/partenaires/groupe-de-partenaires-pour-la-mesure-de-niveau/
 	https://www.koningenhartman.com/fr/partenaires/schaefer/
 	https://www.koningenhartman.com/fr/partenaires/supermicro/
-	https://www.koningenhartman.com/fr/travailler-a/order-en-supply-chain-specialist/
-	https://www.koningenhartman.com/fr/travailler-a/sales-desk-representative/
 	https://www.koningenhartman.com/fr/travailler-a/logistiek-medewerker/
 	https://www.koningenhartman.com/fr/travailler-a/stagiaire-marketing-en-communicatie/
 	https://www.koningenhartman.com/fr/perspectives/

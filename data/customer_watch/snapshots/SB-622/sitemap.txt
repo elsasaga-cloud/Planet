@@ -1,6 +1,6 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
 	https://market-telecom.kz/
-2026-11-20	https://market-telecom.kz/blog
+2026-11-21	https://market-telecom.kz/blog
 2026-11-09	https://market-telecom.kz/services
 2026-11-09	https://market-telecom.kz/products
 2026-11-09	https://market-telecom.kz/about_shop
@@ -11,7 +11,7 @@
 2026-11-09	https://market-telecom.kz/asterisk
 2026-11-19	https://market-telecom.kz/office_ats
 2026-11-09	https://market-telecom.kz/virtual-ats
-2026-11-09	https://market-telecom.kz/ivr
+2026-11-21	https://market-telecom.kz/ivr
 2026-11-10	https://market-telecom.kz/mailserver
 2026-11-09	https://market-telecom.kz/city_phones
 2026-11-09	https://market-telecom.kz/crm
@@ -53,7 +53,7 @@
 2026-11-09	https://market-telecom.kz/news
 2026-11-09	https://market-telecom.kz/gsm-lte
 2026-11-09	https://market-telecom.kz/trunk
-2026-11-09	https://market-telecom.kz/call-center-create
+2026-11-21	https://market-telecom.kz/call-center-create
 2026-11-09	https://market-telecom.kz/wi-fi-network
 2026-11-09	https://market-telecom.kz/skud
 2026-11-09	https://market-telecom.kz/domophon
@@ -68,12 +68,13 @@
 2026-11-09	https://market-telecom.kz/entry-control
 2026-11-09	https://market-telecom.kz/fire-alarm
 2026-11-09	https://market-telecom.kz/video-for-shop
+2026-11-21	https://market-telecom.kz/blog/wwwwww
 2026-11-03	https://market-telecom.kz/blog/office-2024-home-business-ili-ltsc-standard
 2026-10-24	https://market-telecom.kz/blog/priemka-sks-testirovanie
 2026-10-22	https://market-telecom.kz/blog/adresnaya-ili-neadresnaya-pozharnaya-signalizatsiya
 2026-11-07	https://market-telecom.kz/blog/tsd-wifi-sklad
 2026-10-19	https://market-telecom.kz/blog/litsenzii-windows-11-pro-chem-otlichayutsya-oem-doem-box-i-legalization
-2026-10-01	https://market-telecom.kz/blog/trebovaniya-pozharnaya-signalizatsiya-kazakhstan
+2026-11-20	https://market-telecom.kz/blog/trebovaniya-pozharnaya-signalizatsiya-kazakhstan
 2026-09-16	https://market-telecom.kz/news/trebovaniya-videonablyudenie-kazakhstan
 2026-09-09	https://market-telecom.kz/blog/stabilizator-dlya-otopleniya
 2026-09-07	https://market-telecom.kz/blog/zachem-hipoe
@@ -94,7 +95,7 @@
 2026-05-27	https://market-telecom.kz/blog/internet-na-transporte
 2026-05-22	https://market-telecom.kz/news/fanvil-avantage
 2026-05-21	https://market-telecom.kz/blog/rabota-podavitelya
-2026-11-09	https://market-telecom.kz/blog/em-zamok
+2026-11-20	https://market-telecom.kz/blog/em-zamok
 2026-11-09	https://market-telecom.kz/blog/freeze-camera
 2026-10-06	https://market-telecom.kz/blog/ups-gaz
 2026-11-17	https://market-telecom.kz/blog/ubiquiti-and-video
@@ -140,13 +141,13 @@
 2026-10-06	https://market-telecom.kz/blog/power-ups
 2026-10-20	https://market-telecom.kz/blog/awg-cable
 2025-12-10	https://market-telecom.kz/blog/raciya-off
-2026-10-20	https://market-telecom.kz/blog/utp-cat5e-cat6
+2026-11-20	https://market-telecom.kz/blog/utp-cat5e-cat6
 2026-09-26	https://market-telecom.kz/blog/bybor-shkaf
 2025-11-19	https://market-telecom.kz/blog/build-wifi
 2025-11-17	https://market-telecom.kz/blog/dacha-ups
 2026-05-15	https://market-telecom.kz/blog/network-2026
 2026-10-20	https://market-telecom.kz/blog/lan-6a
-2026-10-21	https://market-telecom.kz/blog/smart-lan-switch
+2026-11-20	https://market-telecom.kz/blog/smart-lan-switch
 2025-11-05	https://market-telecom.kz/blog/dahua5e
 2025-11-01	https://market-telecom.kz/blog/network-24
 2026-05-28	https://market-telecom.kz/blog/turniket-fitness
@@ -214,5 +215,4 @@
 2025-10-24	https://market-telecom.kz/news/wizcolor-dahua
 2024-10-18	https://market-telecom.kz/news/tp-link-omadacloud
 2026-10-19	https://market-telecom.kz/blog/windows-11-pro
-2025-09-09	https://market-telecom.kz/blog/vybor-camera
-2025-09-09
+2025-09-09	https

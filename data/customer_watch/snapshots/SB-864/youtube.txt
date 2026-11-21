@@ -1,4 +1,4 @@
-# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-21T09:58:28Z · HTTP 200
 2026-11-19T14:00:39+00:00	PLC Programlama Nasıl Yapılır? Bir Cümle Programa Nasıl Dönüşür?	https://www.youtube.com/shorts/9jx776Y0_s0
 2026-11-17T14:00:39+00:00	PLC Scan Cycle Nedir? Sensör Gördü de PLC Neden Saymadı?	https://www.youtube.com/shorts/mWmORRLMu6s
 2026-11-15T14:00:33+00:00	PLC Röle ve Transistör Çıkış Farkı Nedir? Servoyu Hangisi Sürer?	https://www.youtube.com/shorts/-r5-BHbZQiw

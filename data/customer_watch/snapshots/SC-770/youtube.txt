@@ -1,4 +1,6 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-21T09:58:28Z · HTTP 200
+2026-11-20T14:00:33+00:00	MGate 5119: konwersja DNP3 i Modbus TCP na IEC 61850 MMS	https://www.youtube.com/shorts/9V1jKlYjPj8
+2026-11-20T13:00:22+00:00	MGate 5119: konwersja DNP3 i Modbus TCP na IEC 61850 MMS	https://www.youtube.com/watch?v=BkDBZ2jDEIM
 2026-11-20T07:30:19+00:00	PRP i HSR: bezstratna rekonfiguracja w sieciach OT stacji IEC 61850	https://www.youtube.com/shorts/dtLMW4YGXpw
 2026-11-19T15:07:08+00:00	PRP i HSR: bezstratna rekonfiguracja w sieciach OT stacji IEC 61850	https://www.youtube.com/watch?v=ruB-cqGs1JY
 2026-11-19T14:56:04+00:00	Modernizacja oczyszczalni: 7 mln zł zamiast 15 mln	https://www.youtube.com/shorts/VmIBl0Iaaws
@@ -12,5 +14,3 @@
 2026-11-04T10:16:55+00:00	Pierwsze uruchomienie serwa Elmatic: podłączenie i test JOG	https://www.youtube.com/watch?v=ftsKRTgqmXA
 2026-11-04T09:50:57+00:00	Tryb momentowy serwonapędu Elmatic z potencjometru lub PLC	https://www.youtube.com/watch?v=bpvppkz49os
 2026-11-04T08:48:47+00:00	Etykietowanie palet cobotem: Universal Robots UR7e, UR12e i UR20	https://www.youtube.com/watch?v=aEZnxZCkhvg
-2026-11-04T08:44:12+00:00	Konfiguracja zasilaczy DALI-2 MEAN WELL SPWM - webinar 17 listopada	https://www.youtube.com/shorts/6uMz1KP6NQs
-2026-11-03T11:38:29+00:00	Analityka wideo AI: dlaczego CPU nie wystarcza?	https://www.youtube.com/shorts/lriFFPmaYnU

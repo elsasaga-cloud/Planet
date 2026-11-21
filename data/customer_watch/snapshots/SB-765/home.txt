@@ -1,4 +1,4 @@
-# SB-765 inv-technology.com · home · https://inv-technology.com/en/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-765 inv-technology.com · home · https://inv-technology.com/en/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Video surveillance and security in Corsica - Dynavision
 
 
@@ -84,31 +84,31 @@ New products
 Best Sellers
  Quick view
  Add to cart
-Panneau de brassage
-€26.40
+Détecteur CAM PIR
+€394.80
  Quick view
  Add to cart
-Caméra Turret panoramique
-€978.00
+Panneau de gestion de câbles
+€54.00
  Quick view
  Add to cart
-Bullet 5MP camera
-€446.40
-Bullet 3 axis, 1/2.8" SONY 5MP MSTAR MC328Q+IMX335, 5MP/4MP@25fps, F2.8-12mm autofocus, H265 / H264, WDR, POE and 12VDC, IR range 40M (20PCS 14μ SMD Array IR LEDs), IP66, masking areas, ONVIF.
+IP Recorder 8 POE
+€462.00
+Digital network recorder POE with license plate recognition function, (compatible Camera DY-B2ANPR-xx), for 8 IP cameras ONVIF H265, 1080P @50 ips. (cameras supported up to 8 Megapixels H265, maximum data rate 50Mbps), 1 x audio voice IN, 1 x audio voice NVR OUT, 2 x USB 2.0 port (backup and mouse), 1 x internal DDSATA capacity of 8TB Max. 1 x HDMI output, 1 x VGA output, delivered without HDD, Conforms to the decree of 03 August 2007.
  Quick view
  Add to cart
-Reversible face plate
-€17.40
-Reversible stainless steel face plate 250 mm 1 hole 24mm wide
+Power supply RAIL-DIN 24VDC
+€50.40
+Power supply RAIL-DIN 24VDC 60VA - 2,5A - voltage presence indicator.
  Quick view
  Add to cart
-no-touch button
-€138.00
-Flush mount "no touch" button, stainless steel panel, Infrared sensor adjustable from 5 to 15cm, NO/C/NF 3A@12~24VDC MAX, power supply 12VDC, dimensions: H86 x W86 x D29(mm), weight 95g.
+Centrale d'alarme
+€1,106.40
  Quick view
  Add to cart
-Caméra Bullet
-€1,794.00
+1GB POE Rejector
+€104.40
+POE REJECTOR 1 Gb>1 Gb+1 2/24VDC (provide Switch or Poe+ 30W injector) for powering IP cameras up to 25W
 See all products 
  Quick view
  Add to cart
@@ -150,7 +150,7 @@ our blogs
 20
 févr.,
 2026
-2676 Hit
+2682 Hit
 Test actu DYNAVISION
 Read more...
 Les produits DYNAVISION by INV-TECHNOLOGY intègrent les dernières technologies du marché de la vidéo surveillance, alliant performances, design et prix très compétitifs.

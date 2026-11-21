@@ -1,4 +1,4 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-21T09:58:28Z · HTTP 200
 Fri, 20 Nov 2026 09:00:00 +0000	Recopilación de datos BMS, PCS y EMS: cómo fluye la información de un sistema BESS desde los equipos de campo hasta las plataformas de monitorización	https://www.davantel.com/recopilacion-de-datos-bms-pcs-y-ems-como-fluye-la-informacion-de-un-sistema-bess-desde-los-equipos-de-campo-hasta-las-plataformas-de-monitorizacion
 Thu, 19 Nov 2026 09:00:00 +0000	Teltonika amplía su oferta de conectividad IoT con tres nuevos planes de datos: Global Plus, EuroCore y EuroCore+UK	https://www.davantel.com/planes-datos-iot-teltonika-global-plus-eurocore
 Wed, 18 Nov 2026 09:00:00 +0000	De sensor LoRaWAN a BMS BACnet: Una guía práctica con LG3120e + E2C en campo	https://www.davantel.com/de-sensor-lorawan-a-bms-bacnet-una-guia-practica-con-lg3120e-e2c-en-campo

@@ -1,5 +1,5 @@
-# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-20T10:12:13Z · HTTP 200
-ADDER AKCP HW-group kvm-tec Moxa Neol - Leunig
+# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+ADDER KVM, AKCP & HW group, Moxa, Delta USV - Leunig
 sales@leunig.de
 0800 40 77 88 1 ( +49 8631 986000 )
 Kontakt
@@ -34,12 +34,9 @@ DVI, HDMI, DP Extender
 KVM Extender
 KVM Extender anzeigen
 4K Extender
-DualHead Extender
 KVM CAT5 Extender
 KVM LWL Extender
 KVM over IP Extender
-Matrix über IP Funktionalität
-PS/2, Audio, RS232 Extender
 USB Extender
 Extender anzeigen
 Serverraum Überwachung
@@ -55,14 +52,15 @@ HW group
 Serverraum Überwachung anzeigen
 Industrie-Komponenten
 Industrie-Komponenten anzeigen
-Controllers & I/Os
-Controllers & I/Os anzeigen
-Mit Programmierschnittstelle
-SNMP fähig
-Embedded Computer
 Industrial Displays
+Industrie-IP-Kameras (VPort)
+Industrie-PC & Embedded Computer
 IP WatchDog
 Netzwerk Relais
+Remote I/O & Controller
+Remote I/O & Controller anzeigen
+Mit Programmierschnittstelle
+SNMP fähig
 Industrie-Komponenten anzeigen
 Power
 Power anzeigen
@@ -74,17 +72,19 @@ Watchdog Funktion
 Power anzeigen
 Netzwerktechnik
 Netzwerktechnik anzeigen
-Accesspoints/Clients
 Ethernet Extender
 Industrial Ethernet Switches
 Industrial Ethernet Switches anzeigen
 Gigabit
-Managed
-PoE
-SFP- und Ethernet Module
+Managed Switches
+PoE Switches
+SFP-Module & Switch-Module
 Smart
-Unmanaged
-Media Converter
+Unmanaged Switches
+Industrie-Router & Firewalls
+Industrie-WLAN
+Medienkonverter
+Modbus- & Protokoll-Gateways
 Network Management Software
 Network Security
 Patchkabel
@@ -92,22 +92,20 @@ Patchkabel anzeigen
 CAT5e
 CAT6
 CAT6a
-Protocol Gateways
-Routers/Gateways/Secure Routers
 Wireless
 Netzwerktechnik anzeigen
 Serielle Kommunikation
 Serielle Kommunikation anzeigen
-Device Server
-Device Server anzeigen
+Schnittstellenwandler
+Serial Device Server
+Serial Device Server anzeigen
 1 - 4 Port Device Server
 5 - 32 Port Device Server
-USB Device Server
 Wireless Device Server
-Multiport Serial Cards
-Serial Converter
-Terminal Server
+Serielle Schnittstellenkarten
+Serielle Terminal-Server
 USB Hub
+USB-Seriell-Adapter
 Serielle Kommunikation anzeigen
 USV
 USV anzeigen
@@ -137,12 +135,12 @@ Menü
 Startseite
 Unsere Empfehlungen
 TOP
--1%
+-7%
 Adder CCS-PRO4 Command and Control Switch,...
 Command-and-Control-KM-Switch: eine Tastatur und Maus für bis zu vier Rechner mit eigenen Bildschirmen. Umschalten per Free-Flow über den Bildschirmrand, Hotkey, Ethernet oder RS232.
 Lieferzeit:
 1-3 Tage
-Nur 729,00 EUR
+Nur 687,31 EUR
 Lieferzeit:
 1-3 Tage
 Command-and-Control-KM-Switch: eine Tastatur und Maus für bis zu vier Rechner mit eigenen Bildschirmen. Umschalten per Free-Flow über den Bildschirmrand, Hotkey, Ethernet oder RS232.
@@ -166,11 +164,12 @@ Lieferzeit:
 1-3 Tage
 1-Port Modbus Gateway. Konvertiert zwischen Modbus TCP, Modbus ASCII und Modbus RTU. RS-232/422/485. Lagernd, Versand 1–3 Tage.
 TOP
+-6%
 AdderLink XD641P-DP, DisplayPort-KVM-Extender,...
 4K-KVM-Extender-Set für einen DisplayPort-Monitor: 4096x2160 bei 60 Hz, 24 Bit, 4:4:4, USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km, Punkt-zu-Punkt ohne Netzwerkeinrichtung.
 Lieferzeit:
 1-3 Tage
-1.950,00 EUR
+Nur 1.815,04 EUR
 Lieferzeit:
 1-3 Tage
 4K-KVM-Extender-Set für einen DisplayPort-Monitor: 4096x2160 bei 60 Hz, 24 Bit, 4:4:4, USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km, Punkt-zu-Punkt ohne Netzwerkeinrichtung.
@@ -244,6 +243,43 @@ return;
 }
 window.addEventListener('JSENGINE_INIT_FINISHED', initialize);" />
 Angebote
+-3%
+AdderLink Infinity Single TRANSMITTER
+Sender der ADDERLink-INFINITY-1002-Serie: ein DVI-Monitor, USB 2.0, Audio und RS232, lüfterlos, über Standard-Gigabit-Ethernet, matrixfähig mit AIM.
+Lieferzeit:
+1-3 Tage
+Nur 1.225,97 EUR
+Lieferzeit:
+1-3 Tage
+Sender der ADDERLink-INFINITY-1002-Serie: ein DVI-Monitor, USB 2.0, Audio und RS232, lüfterlos, über Standard-Gigabit-Ethernet, matrixfähig mit AIM.
+-3%
+Adderlink Infinity Dual, Dual Head Single...
+Sender der INFINITY-Dual-2020-Serie: Dual-Head Single-Link, USB, Audio und RS232 über Gigabit-Ethernet, matrixfähig.
+Lieferzeit:
+1-3 Tage
+Nur 1.299,92 EUR
+Lieferzeit:
+1-3 Tage
+Sender der INFINITY-Dual-2020-Serie: Dual-Head Single-Link, USB, Audio und RS232 über Gigabit-Ethernet, matrixfähig.
+TOP
+-6%
+AdderLink XD641P-DP, DisplayPort-KVM-Extender,...
+4K-KVM-Extender-Set für einen DisplayPort-Monitor: 4096x2160 bei 60 Hz, 24 Bit, 4:4:4, USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km, Punkt-zu-Punkt ohne Netzwerkeinrichtung.
+Lieferzeit:
+1-3 Tage
+Nur 1.815,04 EUR
+Lieferzeit:
+1-3 Tage
+4K-KVM-Extender-Set für einen DisplayPort-Monitor: 4096x2160 bei 60 Hz, 24 Bit, 4:4:4, USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km, Punkt-zu-Punkt ohne Netzwerkeinrichtung.
+-7%
+AdderLink XD612P-DP, DisplayPort-KVM-Extender,...
+DisplayPort-KVM-Extender-Set für ein oder zwei Full-HD-Monitore (1920x1200 bei 60 Hz, DP 1.2 MST), USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km.
+Lieferzeit:
+1-3 Tage
+Nur 1.612,52 EUR
+Lieferzeit:
+1-3 Tage
+DisplayPort-KVM-Extender-Set für ein oder zwei Full-HD-Monitore (1920x1200 bei 60 Hz, DP 1.2 MST), USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km.
 -16%
 Opal8GL-8GE-LV-LV, 8-Port unmanaged GB DIN-Rail...
 Der unmanaged 8-Port-Switch Opal8GL, 8 Ports, Gigabit, erweiterter Temperaturbereich
@@ -303,42 +339,6 @@ Nur 135,00 EUR
 Lieferzeit:
 1-3 Tage
 1-Port Device Server, RS-232 auf Ethernet, DB9 male, mit verschraubbarem Netzteil. Bis 921,6 kbps. Lagernd, Versand 1–3 Tage.
--11%
-1 Port Device Server, 10/100M Ethernet, RS-232,...
-Moxa NPort 5110 device Server, 1 Port RS-232 auf Ethernet
-Lieferzeit:
-1-3 Tage
-Nur 141,00 EUR
-Lieferzeit:
-1-3 Tage
-Moxa NPort 5110 device Server, 1 Port RS-232 auf Ethernet
--8%
-Industrial RS-232/422/485 Converter.
-TCC-100 konvertiert RS-232 zu RS-422 und RS-485
-Lieferzeit:
-1-3 Tage
-Nur 79,00 EUR
-Lieferzeit:
-1-3 Tage
-TCC-100 konvertiert RS-232 zu RS-422 und RS-485
--22%
-DELTA Amplon RT-1K, 1kVA, 6,5Min., einphasig,...
-Delta RT-1K Online Dauerwandler USV 19" Gehäuse 2HE, 1/0,9 kVA/kW, 6,5' Autonomie
-Lieferzeit:
-1-3 Tage
-Nur 465,00 EUR
-Lieferzeit:
-1-3 Tage
-Delta RT-1K Online Dauerwandler USV 19" Gehäuse 2HE, 1/0,9 kVA/kW, 6,5' Autonomie
--19%
-DELTA Amplon RT-3K, 3kVA, 7Min., einphasig,...
-DELTA Amplon RT-3K, Double-Conversion-ONLINE Dauerwandler gemäß VFI, inkl. Rackmountkit
-Lieferzeit:
-1-3 Tage
-Nur 796,80 EUR
-Lieferzeit:
-1-3 Tage
-DELTA Amplon RT-3K, Double-Conversion-ONLINE Dauerwandler gemäß VFI, inkl. Rackmountkit
 {
 window.gambio.widgets.init($(swiperElement));
 window.gambio.widgets.init($(hoverElement));
@@ -350,8 +350,9 @@ return;
 }
 window.addEventListener('JSENGINE_INIT_FINISHED', initialize);" />
 Herzlich Willkommen im B2B Shop der LEUNIG GmbH, Ihrem Distributions-Partner für Gewerbe, Industrie, öffentliche Auftraggeber (ö.A.) und Wiederverkäufer.
-Seit nunmehr nahezu 40 Jahren ist LEUNIG Ihr kompetenter und freundlicher Ansprechpartner. Dafür sagen wir ein herzliches „Dankeschön“!
-Wir versuchen in diesem Shop verwandte Produkte, das passende Zubehör usw. so vernünftig wie möglich zu listen und darzustellen, trotzdem freuen wir uns auf jeden Anruf um persönlich alle offen gebliebenen Fragen zu klären und natürlich um uns kennen zu lernen.
+Seit 1980 ist LEUNIG Ihr kompetenter und freundlicher Ansprechpartner. Dafür sagen wir ein herzliches „Dankeschön“!
+Wir waren der erste ADDER-Partner in Deutschland und sind der älteste AKCP-Partner in Deutschland. Gängige Modelle haben wir in der Regel ab Lager.
+Wir versuchen in diesem Shop verwandte Produkte, das passende Zubehör usw. so vernünftig wie möglich zu listen und darzustellen. Trotzdem freuen wir uns auf jeden Anruf, um persönlich alle offen gebliebenen Fragen zu klären und natürlich, um uns kennenzulernen. Rufen Sie an – wir kennen die Stolperfallen.
 Unser Portfolio in aller Kürze:
 Serial Connectivity
 Device Server, seriell auf Ethernet, Consoleserver, Terminalserver, USB auf Ethernet
@@ -360,14 +361,8 @@ I/O Controller, I/O für SCADA, HMI, wireless I/O, Modbus, Fieldbus, Profibus, e
 Industrial Ethernet
 Industrie Netzwerk Switches, Hutschiene, erweiterte Temperaturbereiche, LwL Mediakonverter, Management Gateways MGate, etc.
 KVM und Pro AV
-KVM Switches und Extender, AV über IP und HDBaseT, Kreuzschienen und Konverter, USB Extender
+KVM Switches und KVM Extender von ADDER, KVM over IP und Matrix, Video- und USB Extender
 Power Management
 Intelligente PDUs und Stromverteilsysteme mit Auswertefunktion für DCIM
 Serverraum-Überwachung
-IP Thermometer, Serverraumüberwachung, Sensorik, Cloudservices
-Unterbrechungsfreie Stromversorgung USV
-USV Anlagen verschiedener Hersteller, von Line-Interactive bis hin zur Doppelwandleranlage, 1- und 3phasig, auch Großanlagen lagernd
-Hier bei LEUNIG suchen wir langfristige Geschäftsbeziehungen - denn wir sind der Überzeugung, dass gegenseitiger Respekt, vielleicht Freundschaft, auf jeden Fall aber tiefe Dankbarkeit, für das was wir gemeinsam erleben und füreinander tun dürfen - nur gut werden kann.
-Wir versprechen immer ein offenes Ohr für Ihre Anliegen zu haben, sind bemüht eine passende und ehrliche Lösung für Ihre Anwendung zu erarbeiten und bilden uns dafür ständig und intensiv fort.
-Unsere Expertise ist einzigartig und unsere Preise können sich sehen lassen, sowohl in der Serverraum Überwachung, als auch bei ProAV und Rechenzentrums- Lösungen, sowie der seriellen Datenkommunikation sind wir ziemlich weit vorne.
-Bitte testen Sie uns, ein freundliches Telefonat kostet
+IP Thermometer, Serverraumüberwachung, Sensorik und Cloudservices von AKCP und 

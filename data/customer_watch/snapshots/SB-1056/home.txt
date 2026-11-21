@@ -1,4 +1,4 @@
-# SB-1056 mikrodev.com · home · https://www.mikrodev.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-1056 mikrodev.com · home · https://www.mikrodev.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Mikrodev
 Company
 About
@@ -40,6 +40,10 @@ Search
 How To Buy
 EN
 TR
+New Software
+AeroDiagram: AI-Assisted PLC and RTU Engineering
+Build protocols, signals, device settings and logic in one project. Structured Text, FBD and Ladder, tested in the built-in simulator.
+> FOR MORE DETAILS
 Products
 Industrial Automation And Communication
 Distributed Control System (DCS), Programmable Logic Controller (PLC), IoT Protocol Gateway, Operator Control & Monitoring System (SCADA), I/O Module
@@ -288,4 +292,4 @@ To ensure the legal and commercial security of the Website, you and the Authorit
 To fulfill its legal and contractual obligations, especially those arising from the Law No. 5651 on the Regulation of Publications on the Internet and the Fight Against Crimes Committed Through These Publications and the Regulation on the Procedures and Principles for the Regulation of Publications on the Internet.
 3. TYPES OF COOKIES USED ON OUR WEBSITE
 3.1. Session Cookies
-Session cookies ensure that the website functions properly during your visit. They are used for purposes such as ensuring the security and continuity of our sites and you during your visit. Session cookies are temporar
+Se

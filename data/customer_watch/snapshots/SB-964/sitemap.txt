@@ -1,14 +1,14 @@
-# SB-964 uplinker.ru · sitemap · https://uplinker.ru/sitemap.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-964 uplinker.ru · sitemap · https://uplinker.ru/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
 	https://uplinker.ru/
 	https://uplinker.ru/about/
 	https://uplinker.ru/contacts/
-	https://uplinker.ru/opticheskie_filtri_dlya_setey_ktv/
-	https://uplinker.ru/edfa_catv_usiliteli/
 	https://uplinker.ru/adapteri_opticheskie/
 	https://uplinker.ru/planarnie_plc/
 	https://uplinker.ru/svarnie_fbt/
 	https://uplinker.ru/cat5e_cat6_cat6e_cat7/
-	https://uplinker.ru/aksessuari/
+	https://uplinker.ru/opticheskie_filtri_dlya_setey_ktv/
+	https://uplinker.ru/edfa_catv_usiliteli/
+	https://uplinker.ru/aksessuari_optics/
 	https://uplinker.ru/abonentskie_modemi_epon_ont/
 	https://uplinker.ru/shassi-2-5_10_unit/
 	https://uplinker.ru/opticheskie_transponderi/
@@ -33,6 +33,8 @@
 	https://uplinker.ru/shkafi/
 	https://uplinker.ru/karta_gpon/
 	https://uplinker.ru/sluzhebniy_kanal_osc/
+	https://uplinker.ru/servernie_aksessuari/
+	https://uplinker.ru/dell/
 	https://uplinker.ru/ethernet_mediakonverteri/
 	https://uplinker.ru/dwdm_multipleksori/
 	https://uplinker.ru/sx_dx_shnuri_opticheskie/
@@ -63,7 +65,7 @@
 	https://uplinker.ru/10g_sfp-to_sfp/
 	https://uplinker.ru/komponenti_mpo/
 	https://uplinker.ru/kabel_opticheskiy/
-	https://uplinker.ru/aksessuary/
+	https://uplinker.ru/aksessuary_kross/
 	https://uplinker.ru/10g_xfp_to_xfp/
 	https://uplinker.ru/25g_sfp28_transiveri/
 	https://uplinker.ru/10g_16g_8g_sfp-transiveri/
@@ -204,5 +206,4 @@
 	https://uplinker.ru/item/twinax_kabel_uplink_dac_sfp-10g_2/
 	https://uplinker.ru/item/multipleksor_vvoda_vivoda_dwdm_md-1f_16ch_21-36_45-60_111/
 	https://uplinker.ru/item/multipleksor_vvoda_vivoda_dwdm_md-2f_16ch_45-60_111_rb/
-	https://uplinker.ru/item/multipleksor_vvoda_vivoda_dwdm_md-2f_16ch_30-37_50-57_111/
-	https://uplinker.ru/item/multiplek
+	https://uplinker.ru/item/multiplekso

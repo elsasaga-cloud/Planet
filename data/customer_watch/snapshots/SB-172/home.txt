@@ -1,4 +1,4 @@
-# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-172 consteel-electronics.com · home · https://consteel-electronics.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Automatyka i elektronika przemysłowa - CONSTEEL Electronics
 Menu
 Twój koszyk
@@ -276,6 +276,18 @@ Podgląd
 Nowość
 2 lata gwarancji
 3-4 dni
+HD67G34-G43-E-VPN-B2 konwerter EtherNet/IP Slave do klienta HTTP/REST z LTE, eSIM i VPN
+HD67G34-G43-E-VPN-B2 integruje urządzenia EtherNet/IP z zewnętrznymi serwerami HTTP/REST, zapewniając komunikację przez Ethernet, SIM LTE i eSIM z obs..
+3 479,96 zł
+Kup teraz! "> Kup teraz!
+Dodaj do listy życzeń
+Porównaj ten produkt
+Negocjuj cenę ">
+Negocjuj cenę
+Podgląd
+Nowość
+2 lata gwarancji
+3-4 dni
 HD67G34-G43-VPN-B2 konwerter EtherNet/IP Slave do klienta HTTP/REST z LTE i VPN
 HD67G34-G43-VPN-B2 umożliwia integrację urządzeń EtherNet/IP z zewnętrznymi serwerami HTTP/REST przez Ethernet i SIM LTE, z obsługą usługi VPN.
 ..
@@ -479,16 +491,4 @@ Nowość
 5-7 dni
 KLIC-TS – bramka KNX do klimatyzacji Toshiba z interfejsem A/B i 3 wejściami, Zennio
 KLIC-TS – bramka KNX do klimatyzacji Toshiba z interfejsem A/B i sterowaniem nawiewem.KLIC-TS firmy Zennio to bramka komunikacyjna KNX przeznaczon..
-814,00 zł
-Kup teraz! "> Kup teraz!
-Dodaj do listy życzeń
-Porównaj ten produkt
-Negocjuj cenę ">
-Negocjuj cenę
-Podgląd
-Nowość
-5-7 dni
-KLIC-FJ – bramka KNX do klimatyzacji Fujitsu, General i Hiyasu z interfejsem RWB Zennio
-KLIC-FJ – bramka KNX do klimatyzacji Fujitsu, General i Hiyasu z interfejsem RWB.KLIC-FJ firmy Zennio to bramka komunikacyjna KNX przeznaczona do ..
-814,00 zł
-Kup teraz! ">
+

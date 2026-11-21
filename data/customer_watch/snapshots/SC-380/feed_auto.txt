@@ -1,4 +1,4 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
 Thu, 19 Nov 2026 05:24:18 GMT	[ipTIME NAS] NAS에서 파일을 실수로 삭제했어요, 복구할 수 있을까요?	https://iptime.com/support/faq/27974
 Thu, 19 Nov 2026 01:13:55 GMT	[ipTIME 카메라] 홈캠 실시간 화면이 간헐적으로 오프라인으로 표시되거나 끊길 때	https://iptime.com/support/faq/27973
 Thu, 19 Nov 2026 01:09:03 GMT	[ipTIME 공유기] 기가인터넷인데 유선, 와이파이 속도가 100Mbps 정도만 나올 때	https://iptime.com/support/faq/27972

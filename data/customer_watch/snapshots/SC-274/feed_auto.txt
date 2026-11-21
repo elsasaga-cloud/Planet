@@ -1,4 +1,4 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-21T09:58:28Z · HTTP 200
 20.11.2026 10:40:48	Outlet Switch Horisontal	https://www.alcadon.no/austin-hughes/iats-8xc13-plus-2xc19/outlet-switch-horisontal-8xc13-plus-2xc19-16a-m-2x3m-ledning-c20
 20.11.2026 08:37:36	AH IPDU Vertikal Switched+Monitored, S	https://www.alcadon.no/austin-hughes/ipdu20xc13-plus-4xc19-zsi/ah-ipdu-vertikal-switched-plus-monitored-s-20xc13-plus-4xc19-16a-230v-1-fas-iec60309-3m
 18.11.2026 10:04:43	NTT OPTIPOP RS-1 refillbånd, 6 stk/pk	https://www.alcadon.no/ntt-at/atc-rs-01/ntt-optipop-rs-1-refillb%c3%a5nd-6-stk-pk-for-optipop-1-2-3-og-4

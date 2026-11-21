@@ -1,4 +1,4 @@
-# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-771 lanprosa.com · home · https://lanprosa.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 lanprosa - Lanprosa
 Skip to navigation
 Skip to main content
@@ -52,10 +52,10 @@ SEGURIDAD
 ALARMAS
 CONTROL DE ACCESO
 VEHICULAR
-Sirena double luz, tweeter 2 vias, LANTEK SIR.327R
-$ 67 + IVA
-Conector de Cables UY para Cable Calibre 24, CROW LTK-UY2
-$ 1 + IVA
+HIKVISION DS-PMA-BELL, Sirena 5W 110dB 12VDC (SIRENAS)
+$ 14 + IVA
+Cable de alarma 22/2 Solido CM CL2 1000FT Gris UL, VERTICAL 210-222SO/GY
+$ 66 + IVA
 OTROS
 ENERGIA
 Search
@@ -202,37 +202,37 @@ Todos los productos
 Compare
 Quick view
 Add to wishlist
+ACCESORIOS CCTV , ENERGIA
+Fuente de poder 12vdc 1amp, LANTEK LTK-PS01V2
+$ 3 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+SEGURIDAD , CONTROL DE ACCESO
+Kit Videoportero Analógico Pantalla LCD Color 7 I...
+$ 104 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+SEGURIDAD , ALARMAS
+Expansor de señal inalámbrico AX PRO, HIKVISION ...
+$ 76 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+CCTV , ACCESORIOS CCTV
+Cable HDMI 4k Ultra HD 5 mts Fibra Optica macho a ...
+$ 30 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
 ACCESORIOS CCTV
-Extension coax RG59 + Corriente 20m, 65ft, EPCOM D...
-$ 16 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CONTROL DE ACCESO
-Cobertor superior para puertas de vidrio 1 metro, ...
-$ 62 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI de 1 m (3.28 ft), LANTEK TTHDMI1M
-$ 5 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-ESTRUCTURADO , CANALIZACION
-Tapas ciegas placas pared faceplate por unidad, LA...
-$ 1 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-CCTV , ACCESORIOS CCTV
-Cable HDMI 4K Ultra HD 30 mts Fibra optica macho a...
-$ 51 + IVA
+Cable HDMI 4K Ultra HD 3 mts cobre macho a macho, ...
+$ 7 + IVA
 Añadir al carrito
 Ofertas limitadas!
 ¡Aprovecha estos productos con descuento por tiempo limitado!
@@ -266,6 +266,13 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
+Switch 16 GE PoE+ / 2GE + 2SFP uplink, 250W 4KV Vl...
+$ 225 + IVA
+Añadir al carrito
+Compare
+Quick view
+Add to wishlist
+REDES , SWITCHES
 Switch Agregacion 8 SFP / 2GE uplink, 6KV No admin...
 $ 74 + IVA
 Añadir al carrito
@@ -273,29 +280,22 @@ Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch L3 Lite Core / 24 GE / 4 x GE SFP+ QoS, RUI...
-$ 579 + IVA
+Switch Acceso L2 / 48 GE / 4 x SFP+ / PoE 370w, RE...
+$ 806 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch PoE+ L2 8 GE (2.5GB) 2 uplink SFP+10GE, Max...
-$ 329 + IVA
+Protector de voltaje 12VDC Din Rail, LANTEK 12V SP...
+$ 24 + IVA
 Añadir al carrito
 Compare
 Quick view
 Add to wishlist
 REDES , SWITCHES
-Switch Distribucion L2+ / 48 GE / 4 x SFP+ / PoE 7...
-$ 1,271 + IVA
-Añadir al carrito
-Compare
-Quick view
-Add to wishlist
-REDES , SWITCHES
-Switch Industrial PoE administrable 10 GE / 1 PoE+...
-$ 170 + IVA
+Switch L2 / 8 RJ45 x 1GE / Gestion en la nube / DH...
+$ 39 + IVA
 Añadir al carrito
 Accesorios de Fibra Óptica
 Todos los productos

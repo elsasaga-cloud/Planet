@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-20T10:12:13Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-21T09:58:28Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -1218,27 +1218,6 @@ New from Akuvox: the WR01 Intelligent Edge Web Relay Controller and the VC50B/VC
 VUPoint AI cameras in black
 Within the VUPoint range, RISCO is expanding its portfolio with a wide selection of cameras in black housings.
 SmartSD trainings
-Risco LightSYS+ Technical/Commercial Introduction & Expert Session
-19 November
-@ SmartSD Merchtem (BE)
-16 December
-@ SmartSD Breda (NL)
-Basic Networking Knowledge
-20 November
-@ SmartSD Breda (NL)
-27 November
-@ SmartSD Merchtem (BE)
-16 December
-@ SmartSD Merchtem (BE)
-28 January
-@ SmartSD Merchtem (BE)
-Dahua Basic Training & Hands-on
-20 November
-@ SmartSD Merchtem (BE)
-3 December
-@ SmartSD Breda (NL)
-10 December
-@ SmartSD Saint-herblain (FR)
 Akuvox Intercom Basics
 23 November
 @ SmartSD Merchtem (BE)
@@ -1250,6 +1229,13 @@ Akuvox Intercom Basics
 @ SmartSD Breda (NL)
 1 February
 @ SmartSD Merchtem (BE)
+Bandit Fog Generators
+24 November
+@ SmartSD Merchtem (BE)
+4 December
+@ SmartSD Merchtem (BE)
+18 December
+@ SmartSD Breda (NL)
 2N CIP Certified Training
 24 November
 @ SmartSD Breda (NL)
@@ -1272,6 +1258,13 @@ Ajax Hands-On Training
 Genetec System Design Training
 26 November
 @ SmartSD Breda (NL)
+Basic Networking Knowledge
+27 November
+@ SmartSD Merchtem (BE)
+16 December
+@ SmartSD Merchtem (BE)
+28 January
+@ SmartSD Merchtem (BE)
 Acre ACTpro Access Control
 30 November
 @ SmartSD Merchtem (BE)
@@ -1293,13 +1286,13 @@ Hikvision HCSA-CCTV Certification Training
 @ SmartSD Merchtem (BE)
 15 December
 @ SmartSD Breda (NL)
+Dahua Basic Training & Hands-on
+3 December
+@ SmartSD Breda (NL)
+10 December
+@ SmartSD Saint-herblain (FR)
 Network Optix Nx Witness VMS
 4 December
-@ SmartSD Breda (NL)
-Bandit Fog Generators
-4 December
-@ SmartSD Merchtem (BE)
-18 December
 @ SmartSD Breda (NL)
 Ajax EN54 Hands-On Training
 8 December
@@ -1311,6 +1304,9 @@ Axis Webinars
 @ Online
 15 December
 @ Online
+Risco LightSYS+ Technical/Commercial Introduction & Expert Session
+16 December
+@ SmartSD Breda (NL)
 Inim SmartLine
 17 December
 @ SmartSD Merchtem (BE)
@@ -1355,4 +1351,4 @@ BeLux - SmartSD NV/SA (NL)
 BeLux - SmartSD NV/SA (FR)
 France - SmartSD SARL (FR)
 Spain - SmartSD SL (ES)
-© 2026 SmartS
+© 2026 SmartSD

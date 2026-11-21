@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-409 xlrsecurity.com · news_2 · https://www.xlrsecurity.com/blog/how-far-can-a-ptz-camera-see/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 How Far Can a PTZ Camera See? | XLR Security
 Skip to main content
 Skip to footer
@@ -18,9 +18,9 @@ Power & PoE
 Petenet PoE Switches 12V Power Supplies PoE Extenders PoE Splitters Injectors
 New arrivals
 Shop All
-Seagate HDD-SG-SKY8TB – 8TB SkyHawk Surveillance HDD
+Uniview NVR508-64E-IM – 64ch AI NVR, 8-Bay
 Login for Pricing
-Seagate HDD-SG-SKY4TB – 4TB SkyHawk Surveillance HDD
+Seagate HDD-SG-SKY8TB – 8TB SkyHawk Surveillance HDD
 Login for Pricing
 New Arrivals Clearance
 Become a Dealer
@@ -111,15 +111,15 @@ Be sure to contact us if you have any questions regarding Uniview, especially if
 Jaeden Wiens
 Jaeden has been working in the CCTV industry since 2018. He started with technical support, then quickly moved into sales and marketing. When he’s not writing articles or optimizing the performance of his website, you can find him listening to music or practicing piano at home. You can follow him here on LinkedIn .
 You Might Also Like
-Uniview 5MP Analog Camera Review: Worth it in 2023?
-This review takes a deep dive into Uniview's latest release; a 5MP HD Analog ColorHunter camera with a powerful white…
-June 7, 2023
-Do Security Cameras Work Without Internet?
-While shopping around for a security camera, you may have noticed that a lot of them offer remote viewing functionality.…
-March 27, 2024
-Which is the Best Resolution for a Security Camera?
-Understanding Mega Pixels and Resolution There are a lot of options to choose from when purchasing security cameras. A common…
-January 23, 2023
+5 Alternatives to Hikvision with Similar Features & Pricing
+Hikvision is the largest security manufacturer – but what are the alternatives choices? In this article, we cover five brands…
+February 12, 2024
+How Long Do Security Cameras Typically Last?
+If you install security cameras for your home or business, how long should they last? And what is the difference…
+September 11, 2024
+Case Study: Uniview protects St. Norbert’s Church in Toronto
+Uniview cameras were chosen to protect St. Norbert's Roman Catholic church in North York, Ontario. The project was a definitive…
+November 17, 2023
 Our Company
 About Us Contact Us Our Partners Warranty & Returns Uniview Distributor Information
 Blog Gallery FAQ Security Camera Installers My Account

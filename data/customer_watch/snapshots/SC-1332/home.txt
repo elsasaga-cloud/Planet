@@ -1,4 +1,4 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
@@ -217,8 +217,8 @@ Range Extenders 3 products
 Sirens 3 products
 Relays & Accessories 3 products
 Shop All AJAX Products
-Axxe Dash Cameras 3 products
 Axxe Cables 4 products
+Axxe Dash Cameras 3 products
 Shop All Axxe Products
 Cudy Access Points 2 products
 Cudy WiFi Routers 8 products
@@ -273,7 +273,7 @@ Reolink WiFi Cameras 16 products
 Reolink PoE Cameras 20 products
 Reolink Home Hub 1 products
 Reolink NVR 7 products
-Reolink Accessories 14 products
+Reolink Accessories 13 products
 Shop All Reolink Products
 Ruijie Reyee Home Routers (EW Series) 7 products
 Ruijie Reyee Gateway Routers (EG Series) 10 products
@@ -293,6 +293,10 @@ Tenda xPON Fibre Products 2 products
 Tenda WiFi USB Adapters 2 products
 Tenda Switches 7 products
 Shop All Tenda Products
+Ubiquiti UniFi Protect 3 products
+Ubiquiti UniFi Access 0 products
+Ubiquiti UniFi SuperLink 0 products
+Ubiquiti UniFi Integrations 0 products
 Ubiquiti UniFi Access Points 16 products
 Ubiquiti UniFi Switches 25 products
 Ubiquiti UniFi Gateways 9 products
@@ -304,14 +308,14 @@ Ubiquiti UISP Fibre 11 products
 Ubiquiti PoE injectors 6 products
 Ubiquiti Accessories 1 products
 Shop All Ubiquiti Products
-Screwdrivers & Tool Sets 7 products
 Ratchet Sets 3 products
 Miscellaneous Tools 2 products
+Screwdrivers & Tool Sets 7 products
 Shop All UF-Tools Products
 UltraLAN Antennas 5 products
 UltraLAN Brackets 10 products
-UltraLAN Cabinet Accessories 28 products
-UltraLAN Cabinets & Racks 36 products
+UltraLAN Cabinet Accessories 33 products
+UltraLAN Cabinets & Racks 37 products
 UltraLAN Coaxial Cable (RG59) 4 products
 UltraLAN Consumables 33 products
 UltraLAN Ethernet Patch Cords 3 products
@@ -324,13 +328,13 @@ UltraLAN Outdoor Ethernet Cabling 6 products
 UltraLAN Passive PoE Injector Strips 6 products
 UltraLAN PoE Extender Switches 3 products
 UltraLAN PoE Injectors 4 products
-UltraLAN PoE Splitters 7 products
+UltraLAN PoE Splitters 8 products
 UltraLAN Power Cables 0 products
 UltraLAN Power Extension Cords 6 products
 UltraLAN Power Supplies 3 products
 UltraLAN Structured Cabling Products 35 products
 UltraLAN Switches 18 products
-UltraLAN Tools & Tool Kits 38 products
+UltraLAN Tools & Tool Kits 37 products
 Shop All UltraLAN Products
 Yeelight Desk Light 1 products
 Yeelight Motion Sensor Light 1 products
@@ -478,19 +482,3 @@ Consumables Show All
 Shop All Installation Essentials Products
 Software Show All
 Deals and Clearance Items Show All
-New Arrivals Show All
-Shop All Products
-Brands
-AJAX
-Axxe
-Cudy
-DTECH
-Fanvil
-GOLF
-MikroTik
-Mimosa
-Optcore
-Reolink
-Reyee / Ruijie
-Tenda
-Ubiquiti

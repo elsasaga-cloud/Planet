@@ -1,4 +1,4 @@
-# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-458 satsdigital.com · home · https://www.satsdigital.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 อุปกรณ์ Fiber Optic สายไฟเบอร์ออฟติก อุปกรณ์เครือข่าย Network อื่นๆ ราคาปลีก-ส่ง
 จัดส่งด่วนทั่วไทย
 ของแท้ 100%
@@ -443,6 +443,16 @@ Gigabit Switch SFP 4 Port + 2RJ45 Uplink แบรนด์ SDT-TECH รุ่�
 ราคาไม่รวมภาษี: ฿1,300
 มีสินค้า
 สินค้าอัพเดท
+Dahua Adapter 53V/1.8A สำหรับ PoE Switch 8 Port
+Dahua Adapter 53V/1.81A รุ่น ADS-110DL-48N-1 เป็น Adapter ของแท้จาก Dahua ออกแบบ..
+฿850 ฿1,150
+ราคาไม่รวมภาษี: ฿850
+มีสินค้า
+MINI HDMI To Fiber Extender 1080P SM BIDI 20KM
+MINI HDMI To Fiber อุปกรณ์ส่งสัญญาณภาพระยะไกล 0-20 กิโลเมตร ผ่านสายไฟเบอร์ออฟติก..
+฿1,450 ฿1,960
+ราคาไม่รวมภาษี: ฿1,450
+สินค้าหมด
 Video 8CH To Fiber Converter 1080P SM BIDI 20KM
 Fiber Optic Video Converter 8 Channel 1080p อุปกรณ์แปลงสัญญาณกล้องวงจรปิดระบบ An..
 ฿6,500 ฿8,580
@@ -482,11 +492,6 @@ Adapter 52V/2.3A 120W สำหรับ PoE Switch
 Adapter PoE Switch 52V/2.3A (120W) (อย่างดี) รองรับช่วงแรงดันไฟตั้งแต่ 110-264VA..
 ฿380 ฿480
 ราคาไม่รวมภาษี: ฿380
-มีสินค้า
-Dahua Adapter 53V/1.8A สำหรับ PoE Switch 8 Port
-Dahua Adapter 53V/1.81A รุ่น ADS-110DL-48N-1 เป็น Adapter ของแท้จาก Dahua ออกแบบ..
-฿850 ฿1,150
-ราคาไม่รวมภาษี: ฿850
 มีสินค้า
 Adapter 53V/1.2A สำหรับ PoE Switch Dahua 4 Port
 Dahua Adapter 53V/1.22A รุ่น S065-1A530122B3 เป็น Adapter ของแท้จาก Dahua ออกแบบ..
@@ -564,9 +569,4 @@ PoE Extender หรือ PoE Repeater เข้า 1 ออก 2 สำหร�
 ราคาไม่รวมภาษี: ฿290
 มีสินค้า
 POE Switch 16 Port 10/100 + 2 Gigabit RJ45 (small)
-Fast Ethernet PoE Switch 16 Port (10/100) + 2 Gigabit RJ45 สำหรับ Uplink เป็นอุป..
-฿1,750 ฿2,370
-ราคาไม่รวมภาษี: ฿1,750
-มีสินค้า
-PoE Switch 8 Port 10/100 + 2 Gigabit RJ45
-Fast Ethernet PoE Switch 8 Port (10/100) + 2 Gigabit RJ45 สำ
+Fast Ethernet PoE Switch 16 Port (10/100) + 2 Gigabit 

@@ -1,4 +1,4 @@
-# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Best online Shopping in Saudi Arabia, Riyadh KSA
 Archives
 November 2026
@@ -362,45 +362,38 @@ Accessories
 COMMSCOPE – Faceplate Kit, universal, two ports, British Standard style, shuttered, white
 ⃁ 20.25
 Copper
-RAMCRO – Security & Amp; Sound (#18-4c-BC-CMR)
+Rj45 Crimp Tool, 8P/RJ45 6P/RJ12 RJ11 Cat5e Cat6 Crimping Tool, Cut, Strip Tool
 Copper
-Corning – VOLOCK6UHV Cat6 UTP RJ45 Jack ? 3 Entry White Module
-⃁ 8.97
+Belden – 7860ENH Category 6 F/UTP LSZH Cable
 Copper
-SIEMON – Cat 6 UTP Stranded Modular Patch Cord, 3 Mtr, White
+CABCOMM – 332 Coaxial Cable Stripper
+Copper
+HUBBELL – SC6GY05 Category 6 UTP Patch Cord 5ft (1.5m) Grey
+Copper
+BUINE NETWORKS – RG11 Compression Connector (B-RG11/6C)
 ⃁ 45.00
 Copper
-HUBBELL – Speed Gain Category 6 Slim Patch Cord, 7ft (2.1m), Blue
-⃁ 16.00
+LEVITON Cat6Plus Snap-In Jack ? UTP, Tool-Free Termination
+⃁ 22.50
 Copper
-COMMSCOPE – GigaSPEED X10D? 360GS10E-LBL-10FT Solid Low Smoke Zero Halogen Cordage Modular Patch Cord ,10 Feet, White
-Copper
-LEVITON – eXtreme? 6+ Cat 6 UTP Patch Cord, RJ45 to RJ45, 3 ft (0.9 m), Grey
-⃁ 13.50
-Adaptors
-LEVITON – Fiber-to-the-Home Point of Entry Box, SC/APC Adapter
-⃁ 30.00
+RAMCRO – R1190 RS-485 Data Cable ? 2 Pair, 24 AWG, Shielded, PVC Jacket, 305m Reel
 Cabinet Accessories
-BUINE NETWORKS – M3 Stainless Steel Cage Nut Set – 50 Pieces
+LEGRAND – 310954 Additional 1000W Charger for Daker DK UPS
+⃁ 1,400.00
 CCTV
-VIVOTEK – CC9391-HV
-⃁ 3,206.00
+QRN-820S
+⃁ 1,515.00
 CCTV
-VIVOTEK – AO-006 IO Cable for Multi-Sensor Cameras
-⃁ 75.00
+VIVOTEK – AT-PSP-001 Surge Protector
+⃁ 180.00
 CCTV
-VIVOTEK – AM-51G Adapting Plate for 3.5″ Electrical Octagon Box
-⃁ 90.00
+VIVOTEK – AM-52B Mounting Adapter (3/4″ NPT Female Connector)
+⃁ 127.50
 Shop and SAVE BIG
 on hottest camera
 SAVE
 $80.000
 Top 20
-Cabinet Accessories
-LEGRAND – 33246 1U 19-Inch Rack Mount Front Plate for Patch Panels
-Quick View
-Wishlist
-Add to cart
 Cabinet Accessories
 COMMSCOPE – 1U Patchcord Management (HCM-19-SS-1U)
 ⃁ 105.00
@@ -442,6 +435,12 @@ Wishlist
 Add to cart
 Cabinet Accessories
 CABCOMM 2U Solid 19 inch Rack Blank Panel
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+Cisco – CP-PWR-CORD-UK UK Power Cord for Cisco IP Phones and Network Devices
+⃁ 12.00
 Quick View
 Wishlist
 Add to cart
@@ -500,70 +499,66 @@ Wishlist
 Add to cart
 Top Selling Product
 CCTV
-VIVOTEK – CU9183-H Fisheye Network Camera
-⃁ 1,031.00
+VIVOTEK – VIVOTEK FD9365-EHTV-V2: Enhanced Outdoor Surveillance
+⃁ 3,825.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-71G Outdoor Conduit Box
-⃁ 255.00
+VIVOTEK – AO-009 Combo Cable for Indoor Speed Dome
+⃁ 60.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-312 (60mm)
-⃁ 277.50
+VIVOTEK – AM-520 Mounting Adapter for Dome/Fisheye
+⃁ 300.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – IB9387-LPR-V2-W 5MP AI License Plate Recognition Bullet Network Camera with White LED
-⃁ 2,803.25
+VIVOTEK – AM-10G (SC9133) Recessed Kit for SC9133
+⃁ 300.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-LND-6010R
-⃁ 387.50
+CP PLUS 4MP Wi-Fi Full Color PT Camera
+⃁ 290.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AT-SWH-000 Power Safety Kit
-⃁ 997.50
+QNO-8010R
 Quick View
 Wishlist
 Add to cart
 On-Sale Product
 Equipment’s
+Huawei – S110-8P2ST (8*10/100/1000BASE-T ports
+⃁ 556.00
+Quick View
+Wishlist
+Add to cart
+Equipment’s
+Huawei – OSX040N01 10GBASE-ER SFP+ Transceiver Module
+Quick View
+Wishlist
+Add to cart
+Huawei
+Huawei – PAC240S56-CN 240W PoE AC Power Module
+⃁ 885.00
+Quick View
+Wishlist
+Add to cart
+Equipment’s
+HUAWEI – 2*GE combo WAN 1*10GE(SFP+) WAN 8*GE LAN
+⃁ 3,275.00
+Quick View
+Wishlist
+Add to cart
+Equipment’s
 Huawei – Data Communication, S220-48T4X, S220-48T4X, S220-48T4X
-Quick View
-Wishlist
-Add to cart
-Equipment’s
-Huawei S-SFP-GE-LH80-SM1550 1000BASE-ZX Single-Mode Fiber Optic Transceiver Module
-Quick View
-Wishlist
-Add to cart
-Equipment’s
-Huawei eKitEngine – AP271E Wi-Fi 7 Wall-Plate Access Point
-Quick View
-Wishlist
-Add to cart
-Equipment’s
-Huawei eKitEngine – S630-24X6Q 24-Port 10GE Managed Layer 3 Optical Switch
-Quick View
-Wishlist
-Add to cart
-Equipment’s
-Huawei – Data Communication, S310-48T4X, S310-48T4X, S310-48T4X
-Quick View
-Wishlist
-Add to cart
-Equipment’s
-Huawei – S310-24ST4X Gigabit Ethernet Switch
-⃁ 1,925.00
 Quick View
 Wishlist
 Add to cart

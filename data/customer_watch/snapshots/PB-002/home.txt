@@ -1,4 +1,4 @@
-# PB-002 W3CAM SAS · home · https://www.w3cam.fr/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# PB-002 W3CAM SAS · home · https://www.w3cam.fr/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Caméras de surveillance, alarmes & interphones | W3CAM
 Spécialiste en vidéosurveillance, caméra de surveillance, alarme et contrôle d’accès
 Depuis plus de 20 ans
@@ -180,7 +180,7 @@ Kits Vidéosurveillance Dôme
 Kits Vidéosurveillance PTZ
 Kits Alarme
 Kits Contrôle d'Accès
-Configurer mon système
+Configurateur de système de vidéosurveillance
 Accessoires
 Catégories Tout voir
 PC de Visualisation
@@ -252,6 +252,8 @@ Accès Pro
 Menu
 Mon compte
 0
+Créez votre système vidéo facilement, étape par étape
+NOUVEAU CONFIGURATEUR VIDÉOSURVEILLANCE
 Intelligentes & durables avec de puissantes capacités d'imagerie
 NOUVELLE GAMME DE CAMÉRAS TP-LINK
 Objectif varifocal, éclairage hybride, IA & microphone intégré
@@ -264,6 +266,9 @@ Caméra professionnel de 8 MP avec IA et IR
 AXIS M2048-LE
 Système d'alarme sans fil
 HIKVISION AX PRO
+Nouveau configurateur Vidéosurveillance
+Créez votre système vidéo facilement, étape par étape
+Lancer le configurateur
 Nouvelle gamme de caméras TP-Link
 Intelligentes et durables, avec de puissantes capacités d’imagerie
 Découvrir
@@ -373,4 +378,4 @@ Appel gratuit, du lundi au vendredi.
 Qui est W3CAM ?
 W3CAM est une entreprise française installée à Lorient, dans le Morbihan, spécialisée dans la sécurité sur IP : vidéosurveillance, alarme, contrôle d’accès et interphonie. Revendeur et intégrateur, nous conseillons, vendons, installons et assurons la maintenance des systèmes, pour les particuliers comme pour les professionnels. En savoir plus sur W3CAM .
 Depuis quand W3CAM est-il spécialisé dans la sécurité ?
-Depuis 2005, soit plus de 20 ans d’expérience dans la sécurité électronique. Sur cette période, nous avons équipé plus de 20 000 clients, vendu plus de 100 000 caméras et réalisé plus de 1 500 installations. Nos clients nous attribuent la note de 4,8/5 sur Avi
+Depuis 2005, soit plus de

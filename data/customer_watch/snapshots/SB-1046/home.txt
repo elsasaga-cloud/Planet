@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Systemy alarmowe i monitoringu CCTV | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -54,16 +54,12 @@ W sklepie iVolta.pl znajdziesz bogatą ofertę rozwiązań z zakresu systemów a
 Współpracujemy z instalatorami, inwestorami oraz biurami projektowymi, aby dobierać systemy zabezpieczeń najlepiej dopasowane do Twoich potrzeb. Bogata oferta produktowa oraz rozbudowany magazyn gwarantują szeroki wybór rozwiązań z zakresu systemów alarmowych i monitoringu. Zapewnimy Ci również doradztwo oraz pomoc w zakupach. Nasz zespół to ponad 70 osób w centrali firmy w Warszawie oraz 10 oddziałach regionalnych, dbających o wysoki poziom obsługi na terenie całej Polski. Bezstresowy zwrot zakupionego towaru w ciągu 14 dni oraz własny dział serwisowy to gwarancja Twojej satysfakcji na każdym etapie realizacji zamówienia. Zapraszamy do zakupów.
 Nowości
 zobacz wszystkie
-Bezprzewodowa dualna czujka ruchu z kamerą AOCAM-210 SET (Outdoor Motion Detector Cam SET) SATEL
-1 014,75 zł brutto
-Dostępność: Na zamówienie
-Dodaj do koszyka
-Moduł interfejsu IO - 4 wejścia 2 wyjścia FLM-430-I4R2 BOSCH
-1 585,47 zł brutto
+Autonomiczna czujka dymu, bateria 9V SHS-05 SAFEMI
+39,36 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL
-662,97 zł brutto
+H01Z1Z1-U B2ca LSZH, SA-YTDY 8x0.5, 100m YTDY 8x05 B2ca (100m) SATEC
+418,20 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Kurtynowa zew. czujka PIR wysokiego montażu do 4m TXI-ST OPTEX
@@ -74,24 +70,32 @@ Centrala pożarowa EN54 Fire Hub (8EU) PL BLACK AJAX
 3 665,40 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-Kabel wielożyłowy, YTDY 6x05, 100m YTDY 6x05 MROWIEC
-152,52 zł brutto
+Centrala systemu BE WAVE, moduł komórkowy (2G/4G) HYBRID 128 Plus SATEL
+1 709,70 zł brutto
+Dostępność: Chwilowy brak
+Dodaj do koszyka
+Moduł interfejsu IO - 2 wejścia 1 wyjście FLM-430-I2M1 BOSCH
+1 316,10 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Akademia zabezpieczeń – szkolenia
 Akademia Zabezpieczeń Volta to cykl szkoleń, webinarów i warsztatów z zakresu systemów alarmowych i monitoringu prowadzonych przez naszych ekspertów oraz przedstawicieli firm z branży zabezpieczeń, takich jak Bosch, Axxon, Satel, Dahua czy Hikvision. Dlaczego warto do nas dołączyć? Zaprezentujemy Wam najnowsze technologie z dziedziny systemów alarmowych i monitoringu CCTV, a na naszych warsztatach dowiecie się jak je poprawnie skonfigurować i dlaczego warto je wybrać. Na szkoleniach podzielimy się z Wami wiedzą nie tylko techniczną, ale również handlową - nauczycie się jak pozyskać klienta, jak z nim rozmawiać oraz jak efektywnie z nim pracować. Różne poziomy zaawansowania oraz bogata oferta tematyczna szkoleń z pewnością zaspokoją Wasz głód wiedzy!
 Zobacz aktualne szkolenia
-Szkolenie CCTV Uniview - Szczecin
-20.11.2026, Szczecin
-Sprawdź
 Szkolenie warsztatowe ROGER - System kontroli dostępu i automatyki budynkowej RACS 5 - Rzeszów
 24.11.2026, Rzeszów
 Sprawdź
 Szkolenie warsztatowe ROGER - System kontroli dostępu i automatyki budynkowej RACS 5 - Lublin
 25.11.2026, Lublin
 Sprawdź
+Szkolenie HCSA VIS Hikvision - Warszawa
+25.11.2026, Warszawa
+Sprawdź
 Promocje
 zobacz wszystkie
+Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
+1 665,42 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
 141,45 zł brutto
 Dostępność: Dostępny
@@ -100,12 +104,12 @@ Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
 613,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
-1 665,42 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Wyprzedaże
 zobacz wszystkie
+Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
+5 535,00 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
 1 105,77 zł brutto
 Dostępność: Dostępny
@@ -114,34 +118,30 @@ Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
 1 843,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
-5 535,00 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 W zestawie taniej
 zobacz wszystkie
-Radiolinia dwukanałowa TI-982 YOTOGI
-159,90 zł brutto
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_42 TAVIO
+349,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw 2xZW600R i 5xAPWK ZZ_2xZW600R_5xAPWK YOTOGI
-1 002,45 zł brutto
+Zestaw do monitoringu ZZUNV_8 UNIVIEW
+400,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw 10 x MC 270 ZZ_10x_MC 270 ALARMTECH
-769,98 zł brutto
-Dostępność: Na zamówienie
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_40 TAVIO
+509,00 zł brutto
+Dostępność: Dostępny
 Dodaj do koszyka
 Zetaw do monitoringu ZZUNV_9 UNIVIEW
 400,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw 2xZW600R i 2xTZ600 ZZ_2xZW600R_2xTZ600 YOTOGI
-785,97 zł brutto
-Dostępność: Dostępny
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_45 TAVIO
+819,00 zł brutto
+Dostępność: Na zamówienie
 Dodaj do koszyka
-Zestaw wideodomofonowy Genway ZZF-S7V11-2W GENWAY
-1 999,00 zł brutto
+Zestaw do monitoringu ZZUNV_6 UNIVIEW
+769,99 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
 Zostań naszym
@@ -248,4 +248,7 @@ Więcej informacji uzyskasz tutaj .
 * Pole obowiązkowe
 Informacja systemowa
 Niniejszym informujemy, iż pobranie faktury korygującej w formie elektronicznej przez Klienta poprzez kliknięcie w link "Tak potwierdzam", jest równoznaczne z potwierdzeniem przez Klienta otrzymania przedmiotowej faktury. Dziękujemy i zapraszamy do ewentualnego kontaktu pod numerem 22 295 06 06.
-Nie zgadzam się Tak potwierdz
+Nie zgadzam się Tak potwierdzam
+Drogi Użytkowniku!
+×
+Dziękujemy z

@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-21T09:58:28Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,14 +321,21 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Le marché de la mémoire se dirige-t-il vers une baisse des prix DDR4 et DDR5 ?
+Le marché de la mémoire montre des signes de correction. Analyse des tendances DDR4, DDR5, NAND et SSD et des risques...
 RF modulaire et radio logicielle SDR : solutions et applications
 Explorez les solutions SDR, RF modulaire, beamforming et instrumentation PXI proposées par ES France pour la...
 Courantomètres et débitmètres pour la mesure des écoulements
 Découvrez les courantomètres à hélice, sondes électromagnétiques et solutions de jaugeage pour mesurer la vitesse et...
-Automatisez vos tests et mesures avec NI InstrumentStudio
-Découvrez NI InstrumentStudio, le logiciel pour configurer vos instruments PXI, réaliser des mesures interactives et...
 Ressources
 Il y a 406 Actualités.
+Le marché de la mémoire se dirige-t-il vers une baisse des prix DDR4 et DDR5 ?
+Posté le: 20/11/26
+|
+Catégories:
+Ressources , MOBILITÉ & SYSTÈMES EMBARQUÉS
+Le marché de la mémoire montre des signes de correction. Analyse des tendances DDR4, DDR5, NAND et SSD et des risques liés à la demande en IA.
+Lire plus
 Comment mesurer la puissance acoustique des outils électriques selon les normes ISO 374x ?
 Posté le: 13/11/26
 |
@@ -370,13 +377,6 @@ Posté le: 03/11/26
 Catégories:
 Ressources , NI
 Découvrez les solutions de mesure, d'acquisition de données et de télémétrie proposées par ES France. Téléchargez la présentation technique.
-Lire plus
-Le marché de la mémoire se dirige-t-il vers une baisse des prix DDR4 et DDR5 ?
-Posté le: 03/11/26
-|
-Catégories:
-Ressources , MOBILITÉ & SYSTÈMES EMBARQUÉS
-Le marché de la mémoire montre des signes de correction. Analyse des tendances DDR4, DDR5, NAND et SSD et des risques liés à la demande en IA.
 Lire plus
 Resilient PNT : maintenir la synchronisation en cas de perte GNSS
 Posté le: 02/11/26

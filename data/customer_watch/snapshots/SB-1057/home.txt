@@ -1,4 +1,4 @@
-# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-1057 mondoplast.ro · home · https://www.mondoplast.ro/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Mondo Plast - Cabluri si echipamente pentru telecomunicatii
 Cariere
 Produse
@@ -44,190 +44,159 @@ Producatori
 Galerie foto
 Diplome si premii
 Curs valutar
-20-Nov-2026
+21-Nov-2026
 1 EURO = 5.3498 RON
 1 USD = 4.8428 RON
 Mondo Plast
 fibra optica switch router poe gigabit router wireless switch gigabit ap sfp stabilizator de tensiune ceiling tavan cablu utp z-wave switch cu management industrial cabinet 19" 10g statie radio cb
 ANPC
-Pagini produse: 1 2 3 4 5 6 7 8 9 10 11 12
-L3 14-Port 100/1G SFP with 4 shared 10/100/1000T + 10-Port 1G/2.5G SFP + 4-Port 10G SFP+ Metro Ethernet Switch
-Planet - MGSW-28240F
-3,389.96 LEI
-fara TVA
-2,711.97 LEI
+Pagini produse: 1 2 3 4 5 6 7 8 9 10 11
+HUB USB 3.0, carcasa Aluminiu, 4 porturi Type A fem ( 1 x USB 3.0 5Gbsp, 3 x USB 2.0), blister, USB4AHUB
+na - USB4A HUB A-809
+18.72 LEI
 pret fara TVA
-cuTVA: 3,281.48 LEI
-Switch POE+ Gigabit 24-port + 4-port Combo TP/SFP (650W)
-Planet - GS-4210-24PL4C
-2,140.52 LEI
+cuTVA: 22.66 LEI
+Type C to USB2.0 -cablu calitate, USB 3.1 high speed 10GBps certified, 5A fast charge, material DPE 10X stronger, 1.2m
+Stonet - C3-TypeC SuperSpeed+
+26.79 LEI
 fara TVA
-1,709.51 LEI
+18.72 LEI
 pret fara TVA
-cuTVA: 2,068.51 LEI
-Switch Gigabit IPv4/IPv6, 16-Port 10/100/1000Base-T + 2-Port 100/1000MBPS SFP L2/L4 Management SNMP
-Planet - GS-4210-16T2S
-765.16 LEI
+cuTVA: 22.66 LEI
+Cablu 3RCA (tata) la 3 RCA (tata) audio/video, 1.8m
+Braun Group - E04363
+4.96 LEI
 fara TVA
-605.35 LEI
+2.17 LEI
 pret fara TVA
-cuTVA: 732.47 LEI
-Switch PoE 24-port 10/100/1000T 802.3at +2-port SFP Management (300W)
-Planet - GS-4210-24P2S
-1,629.60 LEI
+cuTVA: 2.63 LEI
+Mini PC Optiplex 3050 MICRO, Intel Core i5-7500T, 16GB RAM, 256GB SSD
+Dell - Optiplex 3050 I5-7500T
+1,176.96 LEI
+pret fara TVA
+cuTVA: 1,424.12 LEI
+Cable USB 3.0 type c male to USB C,0.5m
+Braun Group - USB3-1A-05M
+0.80 LEI
+pret fara TVA
+cuTVA: 0.97 LEI
+Jack Power USB cable,type A male to standard Jack 5.5/2.5 mm,1A,1m
+Braun Group - POWER-TA-1A 1m
+2.19 LEI
+pret fara TVA
+cuTVA: 2.65 LEI
+Cablu USB - Micro USB v.2.0, 2m
+Braun Group - E04349
+5.90 LEI
 fara TVA
-1,302.71 LEI
+2.48 LEI
 pret fara TVA
-cuTVA: 1,576.28 LEI
-8-Port 10/100TX 802.3at PoE + 1-Port 10/100/1000T + 1-Port 100/1000X SFP Desktop Switch (120 watts)
-Planet - FGSD-1011HP
-344.57 LEI
+cuTVA: 3.00 LEI
+LED Flood Light
+Braun Group - GT-LED-FL-003-50W-WW
+144.01 LEI
 fara TVA
-266.35 LEI
+70.74 LEI
 pret fara TVA
-cuTVA: 322.29 LEI
-Switch Industrial Gigabit 5 port 10/100/1000M
-Planet - IGS-501T
-392.02 LEI
+cuTVA: 85.59 LEI
+LED Flood Light
+Braun Group - GT-LED-FL-003-30W-PW
+86.52 LEI
 fara TVA
-302.68 LEI
+46.74 LEI
 pret fara TVA
-cuTVA: 366.24 LEI
-Switch POE Gigabit 24 port + 2 port Gigabit SFP si montor LCD (300W)
-Planet - GSW-2620VHP
-1,360.83 LEI
+cuTVA: 56.56 LEI
+LED Flood Light
+Braun Group - GT-LED-FL-003-10W-PW
+39.16 LEI
 fara TVA
-1,079.94 LEI
+22.74 LEI
 pret fara TVA
-cuTVA: 1,306.73 LEI
-24-Port 10/100/1000T + 4-Port 100/1000X SFP Managed Gigabit Switch
-Planet - GS-4210-24T4S
-954.03 LEI
+cuTVA: 27.51 LEI
+LED Underground Light
+Braun Group - GT-LED-UGL-001-5W
+113.68 LEI
 fara TVA
-755.48 LEI
+86.52 LEI
 pret fara TVA
-cuTVA: 914.13 LEI
-Switch Gigabit IPv6/IPv4, 16-Port 802.3at POE+ plus 2-Port 100/1000X SFP, Management (220W)
-Planet - GS-4210-16P2S
-1,394.73 LEI
+cuTVA: 104.69 LEI
+Bec led glob 5x1W- E14
+Braun Group - BZ5-QP539e14-5W
+24.67 LEI
 fara TVA
-1,113.84 LEI
-pret per bucata
+15.23 LEI
 pret fara TVA
-cuTVA: 1,347.75 LEI
-Switch Gigabit 16-Port 802.3at POE+ plus 2-Port 10/100/1000T + 2-Port 1000X SFP (185W)
-Planet - GSD-2022P
-716.73 LEI
+cuTVA: 18.43 LEI
+Bec led glob 12W- E27
+Braun Group - BZ12-QP544-12W
+56.53 LEI
 fara TVA
-571.45 LEI
-pret per bucata
+35.42 LEI
 pret fara TVA
-cuTVA: 691.45 LEI
-Switch Smart PoE Gigabit 8-Port 10/100/1000T 802.3at PoE + 2-Port 10/100/1000T+ 2-Port 100/1000X SFP
-Planet - GS-4210-8P2C
-803.90 LEI
+cuTVA: 42.85 LEI
+Spot E27 cu bec LED 5 watt
+Light Net - TD2501-lamp E27
+23.02 LEI
+pret fara TVA
+cuTVA: 27.86 LEI
+Display metalic rack cu 4 rafturi basculante, expozor prospecte show room, asamblat
+Mondo Plast - SE-MC1357
+1,497.94 LEI
 fara TVA
-629.56 LEI
+1,176.96 LEI
 pret fara TVA
-cuTVA: 761.77 LEI
-Switch Desktop 16-Port 10/100TX 802.3at PoE + 2-Port 10/100/1000T + 1-Port shared 1000X SFP (185W)
-Planet - FGSD-1821P
-537.55 LEI
+cuTVA: 1,424.12 LEI
+Amplificator optic EDFA 16dB
+nextraCOM - EDFA 16DB
+3,635.19 LEI
+pret fara TVA
+cuTVA: 4,398.58 LEI
+OTDR, Optical Power Meter
+Braun Group - OTDR LOT 5200–ST46
+23,100.00 LEI
+pret fara TVA
+cuTVA: 27,951.00 LEI
+OTDR, Optical Power Meter
+Braun Group - OTDR LOT 5200–SD45
+19,700.00 LEI
+pret fara TVA
+cuTVA: 23,837.00 LEI
+Power Meter 8 lungimi de unda, Normal
+Braun Group - HS-FCPM
+85.60 LEI
+pret fara TVA
+cuTVA: 103.57 LEI
+Electronic Fiber Microscope
+Braun Group - EFM-400
+3,691.36 LEI
+pret fara TVA
+cuTVA: 4,466.55 LEI
+Optical Fiber Microscope
+Braun Group - OFM-400
+454.73 LEI
 fara TVA
-411.64 LEI
+379.84 LEI
 pret fara TVA
-cuTVA: 498.08 LEI
-Switch Smart Web Management 8-port 10/100/1000T 802.3at PoE + 2-port 1000X SFP (120W)
-Planet - GS-2210-8P2S
-566.61 LEI
+cuTVA: 459.60 LEI
+Optical Fiber Microscope
+Braun Group - OFM-200
+444.03 LEI
 fara TVA
-447.96 LEI
+379.84 LEI
 pret fara TVA
-cuTVA: 542.03 LEI
-Switch Smart Web Management 16-Port 10/100/1000T 802.3at PoE + 2-Port 1000X SFP (240W)
-Planet - GS-2210-16P2S
-978.25 LEI
-fara TVA
-774.85 LEI
-pret per bucata
+cuTVA: 459.60 LEI
+Optical Light Source
+Braun Group - BG-35-PON
+1,294.65 LEI
 pret fara TVA
-cuTVA: 937.57 LEI
-Switch Smart Web Management 24-port 10/100/1000T 802.3at PoE +2-port 1000X SFP (260W)
-Planet - GS-2210-24P2S
-1,341.46 LEI
-fara TVA
-1,065.42 LEI
-pret per bucata
+cuTVA: 1,566.53 LEI
+PON Power Meter
+Braun Group - HS-PONPM
+433.33 LEI
 pret fara TVA
-cuTVA: 1,289.15 LEI
-Switch Smart Web Management 8-Port 10/100/1000T + 2-Port 100/1000X SFP
-Planet - GS-2210-8T2S
-363.21 LEI
-fara TVA
-290.57 LEI
-pret fara TVA
-cuTVA: 351.59 LEI
-Switch Smart Web Management 16-Port 10/100/1000Base-T + 2-Port 1000X SFP
-Planet - GS-2210-16T2S
-464.91 LEI
-fara TVA
-368.05 LEI
-pret per bucata
-pret fara TVA
-cuTVA: 445.34 LEI
-Switch Smart Web Management 24-port 10/100/1000T + 2-port 1000X SFP
-Planet - GS-2210-24T2S
-556.92 LEI
-fara TVA
-445.54 LEI
-pret per bucata
-pret fara TVA
-cuTVA: 539.10 LEI
-Access Point Omada BE9300 Tri-Band Wi-Fi 7
-TP-Link - EAP772
-1,017.00 LEI
-fara TVA
-756.84 LEI
-pret fara TVA
-cuTVA: 915.78 LEI
-Access Point Omada BE3600 Tri-Band Wi-Fi 7
-TP-Link - EAP723
-547.00 LEI
-fara TVA
-406.80 LEI
-pret fara TVA
-cuTVA: 492.23 LEI
-Access Point Wireless Dual Band AX3000 Gigabit
-TP-Link - EAP650
-508.00 LEI
-fara TVA
-378.42 LEI
-pret fara TVA
-cuTVA: 457.89 LEI
-Switch Desktop 24-Port 10/100TX 802.3at PoE + 2-Port 10/100/1000T + 1-Port shared 1000X SFP (185W)
-Planet - FGSD-2621P
-653.78 LEI
-fara TVA
-508.49 LEI
-pret fara TVA
-cuTVA: 615.28 LEI
-Switch POE Gigabit 16-Port 10/100/1000T 802.3at PoE + 2-Port 1000X SFP (250W)
-Planet - GSW-1820HP
-692.52 LEI
-fara TVA
-542.39 LEI
-pret fara TVA
-cuTVA: 656.30 LEI
-Omada Switch Industrial 6-Port Gigabit Easy Managed
-TP-Link - IES206G
-795.00 LEI
-fara TVA
-591.29 LEI
-pret per bucata
-pret fara TVA
-cuTVA: 715.46 LEI
-Pagini produse: 1 2 3 4 5 6 7 8 9 10 11 12
-Pagina generata in : 0.162 s
+cuTVA: 524.33 LEI
+Pagini produse: 1 2 3 4 5 6 7 8 9 10 11
+Pagina generata in : 0.137 s
 ©2004 - 2026 mondo plast srl (cod fiscal RO-12755240 / Reg. Com. J 11/53/2000) . Toate drepturile rezervate. Termeni si conditii .
 Pentru orice problema referitoare la acest site contactati webmaster
 Utilizăm cookie-uri pentru a îmbunătăți experiența site-ului și pentru a analiza traficul și publicul pe site. Continuând să navigați pe site-ul nostru, sunteți de acord cu acceptarea utilizării cookie-urilor în conformitate cu Politica de utilizare a cookie-urilor, de acord cu Politica de prelucrare a datelor personale și ați notat Notă de procesare a informațiilor personale. Accept

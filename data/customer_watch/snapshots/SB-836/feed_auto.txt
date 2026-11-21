@@ -1,4 +1,4 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-21T09:58:28Z · HTTP 200
 20.11.2026 10.45.54	Miller FOJST Fiberoptisk jakkesplitter	https://www.fiberworks.no/ripley-tools-miller/sp-rip-fojst-12/miller-fojst-fiberoptisk-jakkesplitter-for-mikrokabel-diameter-%c3%b8-1-dot-2-1-dot-8-3-3-dot-mm
 19.11.2026 23.05.32	Fiberworks 16+1 ch. DWDM Mux+Demux, Low	https://www.fiberworks.no/fiberworks-as/f-dmux-16-plus-2-2136-mlu/fiberworks-16-plus-1-ch-dot--dwdm-mux-plus-demux-low-itu-ch-dot--21-36-100-ghz-1310-upg--and--mon-dot-
 19.11.2026 16.40.35	Fiberworks 8 ch. Compact DWDM OADM	https://www.fiberworks.no/fiberworks-as/f-cdoadm-4dc-o9-5760/fiberworks-8-ch-dot--compact-dwdm-oadm-c57-c60-drop-and-continue-900-um

@@ -1,4 +1,4 @@
-# SB-1056 mikrodev.com · news_1 · https://www.mikrodev.com/blog/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-1056 mikrodev.com · news_1 · https://www.mikrodev.com/blog/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Blog - Mikrodev
 Company
 About
@@ -133,7 +133,7 @@ The Website Privacy Policy is dated 01/11/2022. In the event that all or certain
 Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.
 Address: Cumhuriyet Mh. Turgut Özal Cd. No:26 41420 Çayırova – Kocaeli/ TURKEY
 Phone: +90 850 217 34 28
-Email: info@mikrodev.com
+Email: [email protected]
 Web Site: www.mikrodev.com
 How To Buy
 Get an offer about our products

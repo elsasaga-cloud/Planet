@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-20T10:12:13Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · home · https://www.goma.it/it · fetched 2026-11-21T09:58:28Z · HTTP 200
 Soluzioni Embedded per Edge Computing | GOMA
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -120,12 +120,12 @@ Oltre 2.000 prodotti dei principali partners internazionali, organizzati per tro
 Sistemi e Piattaforme
 Edge AI, computer embedded e sistemi rugged COTS pronti all'impiego.
 Computer Embedded 132
-Server, Workstation e PC Industriali 107
+Server, Workstation e PC Industriali 108
 Server e Workstation Rugged 88
 Computer Embedded 132
-Server, Workstation e PC Industriali 107
+Server, Workstation e PC Industriali 108
 Server e Workstation Rugged 88
-490 prodotti →
+491 prodotti →
 HMI e Panel PC
 Monitor industriali e rugged, panel PC, tastiere, consolle e cassetti KVM da rack.
 Monitor Industriali 195

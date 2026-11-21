@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -25,9 +25,9 @@ Kontakt
 Kategorie
 Access Pointy (659)
 Akcesoria (440)
-Akcesoria GSM/LTE (375)
+Akcesoria GSM/LTE (379)
 Anteny (376)
-Automatyka i Przemysł (447)
+Automatyka i Przemysł (451)
 Części serwisowe (161)
 Elektryka (13)
 Inteligentny dom (92)
@@ -39,11 +39,11 @@ Monitoring (315)
 Okablowanie (698)
 Platformy WLAN (2)
 Radiolinie (85)
-Routery (183)
+Routery (185)
 Routery ADSL (5)
 Światłowody (1707)
 Switche (682)
-Szafy rack 10/19 cali (500)
+Szafy rack 10/19 cali (501)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
 Zasilanie (832)
@@ -51,7 +51,7 @@ Zdrowie (10)
 Złącza (248)
 MikroTik (406)
 Solarix (140)
-Teltonika (396)
+Teltonika (400)
 Tenda (175)
 TP-Link (479)
 Ubiquiti (805)
@@ -135,7 +135,7 @@ Joinwit (2)
 Kemot (2)
 Kingston (12)
 Kruger&Matz (4)
-Lanberg (155)
+Lanberg (156)
 LeoLabs (8)
 LH (1)
 Logitech (2)
@@ -191,7 +191,7 @@ StalFlex (279)
 TechnicLan (23)
 Telcoline (98)
 Telcom (8)
-Teltonika (311)
+Teltonika (314)
 Tenda (222)
 Tinycontrol (71)
 Tonze (1)
@@ -291,42 +291,43 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Daszek Orno OR-Dom-RL-901DN/G
-55,35 zł z VAT
-61,49 zł
-45,00 zł netto
-szt
-Najniższa cena z 30 dni: 61,49 zł
 Quectel EM160R-GL Modem M.2 LTE Cat.16
 736,77 zł z VAT
 1 105,77 zł
 599,00 zł netto
 szt
 Najniższa cena z 30 dni: 1 105,77 zł
-MikroTik wAP LR2 kit (RBwAPR-2nD&R11e-LR2)
-479,70 zł z VAT
-558,83 zł
-390,00 zł netto
+Pigtail U.FL - N/m (20 cm)
+8,49 zł z VAT
+18,91 zł
+6,90 zł netto
 szt
-Najniższa cena z 30 dni: 558,83 zł
-Wisnetworks WIS-L5800N Hi-Power Base Station
-356,70 zł z VAT
-431,73 zł
-290,00 zł netto
+Najniższa cena z 30 dni: 18,91 zł
+Tenda N3L-16H 16-kanałowy sieciowy rejestrator wideo HD
+276,75 zł z VAT
+308,79 zł
+225,00 zł netto
 szt
-Najniższa cena z 30 dni: 431,73 zł
-ExtraLink 8F Cable (FRP indoor/ outdoor)
-0,98 zł z VAT
-1,29 zł
-0,80 zł netto
+Najniższa cena z 30 dni: 308,79 zł
+WYPRZEDAŻ
+Grandstream HT881 analogowa bramka FXO
+699,87 zł z VAT
+974,33 zł
+569,00 zł netto
 szt
-Najniższa cena z 30 dni: 1,29 zł
-Pigtail N/m kątowe - RP-SMA/m kątowe (25 cm)
-12,18 zł z VAT
-27,96 zł
-9,90 zł netto
+Najniższa cena z 30 dni: 974,33 zł
+Wisnetworks WIS-L5818S Sector Base Station
+367,77 zł z VAT
+575,64 zł
+299,00 zł netto
 szt
-Najniższa cena z 30 dni: 27,96 zł
+Najniższa cena z 30 dni: 575,64 zł
+Wisnetworks WIS-ANS2417-90 MIMO Sector
+244,77 zł z VAT
+420,22 zł
+199,00 zł netto
+szt
+Najniższa cena z 30 dni: 420,22 zł
 Najnowsze propozycje
 NOWOŚĆ
 Moduł keystone 10G RJ-45 UTP kat.6a, samozaciskowy, kolorowe moduły (SXKJ-10G-UTP-RAL-SA)
@@ -359,8 +360,8 @@ Ubiquiti Access Fail-Safe Strike Lock (UACC-Lock-Strike-Safe-15mm)
 szt
 NOWOŚĆ
 Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
-97,86 zł z VAT
-79,56 zł netto
+98,28 zł z VAT
+79,90 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
@@ -375,9 +376,9 @@ szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Tenda CP6 obrotowa kamera do monitoringu domowego
-79,40 zł z VAT
-64,55 zł netto
+Cudy BU530
+20,75 zł z VAT
+16,87 zł netto
 more
 WYSYŁKA
-Zamówienia złożone i potwierdzone do godz. 15-tej są realizo
+Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym d

@@ -1,4 +1,4 @@
-# SB-791 wachendorff-prozesstechnik.de · home · https://www.wachendorff-prozesstechnik.de/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SB-791 wachendorff-prozesstechnik.de · home · https://www.wachendorff-prozesstechnik.de/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Wachendorff Prozesstechnik GmbH & Co. KG : Industrie-Elektronik
 Wachendorff Unternehmen Wachendorff-Gruppe
 Unternehmenswerte: R O S E
@@ -365,18 +365,18 @@ Gateways und Protokollwandler
 Industrial Ethernet und Wireless
 Einbaumessgeräte
 Aktuelles
+SPS - Smart Production Solutions Nürnberg 2026 24.11.2026 - 26.11.2026
 MATCH CONTROL Displays für die perfekte Visualisierung im System
 IO-Link Gateways: Direkt in Modbus und BACnet integrieren
 Neue IPC-Serie: WACHENDORFF MATCH CONTROL Industrie-PC
 Neue IPC-Serie: BASIC Industrie-PC
 Cyber Resilience Act - Wachendorff informiert
 Neues Gehäuse bei Gateways (A1-Bauform)
-Alles aus einer Hand
-Wir bieten Ihnen ein abgerundetes Programm an Produkten für das Messen, Regeln, Steuern, Übertragen und Wandeln in rauer Industrieumgebung. Mit einheitlichen Projektier- und Bedienkonzepten erreichen Sie schnellere Inbetriebnahmen und sehr kurze Einarbeitungszeiten.
+Moderne Visualisierung trifft Cybersecurity
+Unsere WebPanels der Serie 3 bringen moderne Web-Technologien an die Maschine und verbinden leistungsfähige Visualisierung mit einer Plattform, die auf zukünftige Security- und CRA-Anforderungen ausgerichtet ist.
 Mehr Informationen
-Testen mit Originalgeräten
-Probieren Sie unsere Geräte aus. Viele unserer Produkte können Sie kostenlos für 4 Wochen testen. Sie bestellen das Gerät telefonisch unter +49 6722 996530 als Muster. Wir senden Ihnen das Gerät auf Lieferschein kostenlos zu. Falls das Gerät Ihre Aufgabe nicht zufriedenstellend lösen kann, rufen Sie uns einfach an. Wir haben bestimmt eine passende Alternative. Ansonsten schicken Sie das Gerät einfach an uns zurück.
-Für einige Produktgruppen bieten wir Ihnen sehr lukrative Starterkits an. Sprechen Sie uns an! Wir finden gemeinsam die optimale Lösung.
+NAT und Firewall für die Serienmaschine
+Maschinen einfach in unterschiedliche Kundennetzwerke integrieren und gleichzeitig sicher abgrenzen. Die Kombination aus NAT-Funktion und Industrial Firewall schafft dafür eine kompakte Lösung direkt in der Maschine.
 Mehr Informationen
 nach oben
 Service

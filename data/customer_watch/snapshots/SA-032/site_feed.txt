@@ -1,4 +1,4 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-20T10:12:13Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-21T09:58:28Z · HTTP 200
 Thu, 19 Nov 2026 06:13:42 +0000	STS DEMONSTRATES BIDIRECTIONAL MQTT–IIoT COMMUNICATION	https://sundartechno.com/2026/11/19/bi-directional-mqtt-iiot-gateway/
 Thu, 19 Nov 2026 06:02:11 +0000	SMART PARCEL DIMENSIONING WITH STS 10.1″ FULL HD INDUSTRIAL PANEL PC	https://sundartechno.com/2026/11/19/smart-parcel-dimensioning-10-1-industrial-panel-pc/
 Thu, 19 Nov 2026 05:36:14 +0000	21.5-Inch Industrial Touchscreen for CNC Machine Retrofits	https://sundartechno.com/2026/11/19/21-5-inch-industrial-touch-display-cnc-retrofit/
