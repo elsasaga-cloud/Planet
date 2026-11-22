@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -31,79 +31,78 @@ Kontakty
 Přihlásit se
 Vyberte si pobočku
 Brno - Kšírova (centrála)
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Brno - Řečkovice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Blansko
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Bystřice nad Pernštejnem
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Čáslav
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Česká Třebová
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Hradec Králové
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Hustopeče
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Chotěboř
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Jevíčko
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Kladno
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Kroměříž
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Liberec
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 27. 11. INVENTURA | ZAVŘENO
 Pardubice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 13 - Stodůlky
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Praha 4 - Spořilov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 27. 11. INVENTURA | ZAVŘENO
 Praha 9 - Horní Počernice
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Prostějov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Rychnov nad Kněžnou
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Sokolov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Svitavy
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Šenov u Nového Jičína
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Tišnov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 4. 12. od 11.00 hod INVENTURA
 Trutnov
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Třebíč
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Uherské Hradiště
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Uherské Hradiště - Jaktáře
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Velké Meziříčí
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Vysoké Mýto
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zábřeh
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zastávka u Brna
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Zlín
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Žďár nad Sázavou
-Zavřeno · otevíráme v pondělí od
+Zavřeno · otevíráme zítra od
 Mapa poboček
 Hledat
 Zapnout/vypnout vyhledávací panel
 Přihlásit/registrovat účet
-Zabezpečení
 AKČNÍ NABÍDKA
 Ďábelská nadílka
 ABB výprodej
@@ -122,8 +121,8 @@ Solární svítidla exteriérová
 Svítidla s krytím IP65
 Příslušenství a náhradní díly pro exteriérová svítidla
 Interiérová svítidla
-Dle místnosti
 Bodová svítidla interiérová
+Dle místnosti
 Dětská interiérová svítidla
 Koupelnová interiérová svítidla
 Kuchyňská interiérová svítidla
@@ -138,7 +137,6 @@ Zápustná, vestavná interiérová svítidla
 Závěsná interiérová svítidla
 Ostatní interiérová svítidla
 Náhradní díly ke svítidlům
-Prokognitivní LED osvětlení
 Kancelářská svítidla
 Downlight svítidla
 Přisazená/závěsná svítidla
@@ -151,6 +149,7 @@ Eglo connect
 Immax Neo
 Ledvance
 Ostatní výrobci inteligentního osvětlení
+Prokognitivní LED osvětlení
 LED pásky a příslušenství
 LED pásky
 Napájecí zdroje LED pásky
@@ -287,26 +286,21 @@ Ochrana hlavy
 Ochrana sluchu
 Ochrana zraku
 Domovní spínače a zásuvky
-Kliklap spínače a zásuvky
-Spínače Kliklap
-Rámečky Kliklap
-Zásuvky Kliklap
-Sdělovací a datová technika Kliklap
 ABB spínače a zásuvky
 Přístroje
+Neo, Neo Tech ABB
 Zoni ABB
 Busch-axcent
 Levit, Levit M ABB
 Element ABB
-Time, Time Arbo
 Další kategorie
+Time, Time Arbo
 Tango ABB
 Swing, Swing L ABB
 Solo, Solo carat ABB
 Future linear ABB
 Classic ABB
 Decento ABB
-Neo, Neo Tech ABB
 Bezdrátové ovládání ABB
 Pohybová čidla ABB
 Přístroje do hořlavých podkladů
@@ -367,11 +361,11 @@ Asfora Schneider
 Cedar plus
 Merten Schneider
 Mureva Styl - IP55
-Sedna Design & Elements
 Sedna Schneider
+Sedna Design & Elements
 Další kategorie
-Unica Schneider
 Nová Unica Schneider
+Unica Schneider
 Ostatní řady Schneider
 Mechanické časové spínače
 Šňůrové spínače
@@ -470,11 +464,6 @@ Podpěry vedení
 Ostatní příslušenství pro hromosvody a uzemnění
 Vodiče HVI
 Chytrá domácnost
-Chytrá domácnost SOMFY
-Chytrá domácnost
-Vrata a brány
-Ovladače a čidla
-Zabezpečení
 Chytré osvětlení
 Chytré stmívače a spínače
 Chytré zásuvky
@@ -553,4 +542,20 @@ Kabely textilní
 Vodiče
 Vodiče instalační
 Autovodiče
-Vodiče spe
+Vodiče speciální
+Holé vodiče
+Propojovací vodiče
+Přípojnicové systémy
+Kabelové příslušenství
+Značení vodičů kabelové příslušenství
+Ostatní kabelové příslušenství
+Svazkovací spirály
+Kabelová oka
+Kabelové spojky
+Izolační pásky
+Další kategorie
+Kabelové vidlice
+Ochranné oplety
+Sady koncovek a konektorů
+Cupalové podložky a plechy
+Teplem smrštitelné tr

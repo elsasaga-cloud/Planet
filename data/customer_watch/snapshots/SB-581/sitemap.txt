@@ -1,2 +1,2 @@
-# SB-581 sheildify.com · sitemap · https://sheildify.com/sitemap_index.xml · fetched 2026-11-21T09:58:28Z · HTTP 500
-{"code":"wp_die","message":" Error establishing a database connection ","data":{"status":500},"additional_errors":[]}
+# SB-581 sheildify.com · sitemap · https://sheildify.com/sitemap_index.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
+

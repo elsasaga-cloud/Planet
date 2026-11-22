@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,43 +291,44 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Quectel EM160R-GL Modem M.2 LTE Cat.16
-736,77 zł z VAT
-1 105,77 zł
-599,00 zł netto
+Przejściówka (beczka) N/m - N/m kątowe
+12,18 zł z VAT
+18,08 zł
+9,90 zł netto
 szt
-Najniższa cena z 30 dni: 1 105,77 zł
-Pigtail U.FL - N/m (20 cm)
-8,49 zł z VAT
-18,91 zł
-6,90 zł netto
-szt
-Najniższa cena z 30 dni: 18,91 zł
-Tenda N3L-16H 16-kanałowy sieciowy rejestrator wideo HD
-276,75 zł z VAT
-308,79 zł
-225,00 zł netto
-szt
-Najniższa cena z 30 dni: 308,79 zł
-WYPRZEDAŻ
-Grandstream HT881 analogowa bramka FXO
-699,87 zł z VAT
-974,33 zł
-569,00 zł netto
-szt
-Najniższa cena z 30 dni: 974,33 zł
+Najniższa cena z 30 dni: 18,08 zł
 Wisnetworks WIS-L5818S Sector Base Station
 367,77 zł z VAT
 575,64 zł
 299,00 zł netto
 szt
 Najniższa cena z 30 dni: 575,64 zł
-Wisnetworks WIS-ANS2417-90 MIMO Sector
-244,77 zł z VAT
-420,22 zł
-199,00 zł netto
+Szafkowy zasilacz buforowy ZBF-R35E
+183,27 zł z VAT
+232,47 zł
+149,00 zł netto
 szt
-Najniższa cena z 30 dni: 420,22 zł
+Najniższa cena z 30 dni: 232,47 zł
+Drzwiczki rewizyjne, 400x300
+60,27 zł z VAT
+70,11 zł
+49,00 zł netto
+szt
+Najniższa cena z 30 dni: 70,11 zł
+WYPRZEDAŻ
+Uchwyt kablowy KO16, na przewód okrągły ø 16 mm
+4,80 zł z VAT
+14,76 zł
+3,90 zł netto
+szt
+Najniższa cena z 30 dni: 14,76 zł
+WYPRZEDAŻ
+Uchwyt kablowy KO10, na przewód okrągły ø 10 mm
+4,92 zł z VAT
+9,84 zł
+4,00 zł netto
+szt
+Najniższa cena z 30 dni: 9,84 zł
 Najnowsze propozycje
 NOWOŚĆ
 Moduł keystone 10G RJ-45 UTP kat.6a, samozaciskowy, kolorowe moduły (SXKJ-10G-UTP-RAL-SA)
@@ -360,8 +361,8 @@ Ubiquiti Access Fail-Safe Strike Lock (UACC-Lock-Strike-Safe-15mm)
 szt
 NOWOŚĆ
 Ubiquiti Bullet Camera Angled Base (UACC-Bullet-AB-B)
-98,28 zł z VAT
-79,90 zł netto
+98,24 zł z VAT
+79,87 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
@@ -381,4 +382,5 @@ Cudy BU530
 16,87 zł netto
 more
 WYSYŁKA
-Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym d
+Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
+Koszt

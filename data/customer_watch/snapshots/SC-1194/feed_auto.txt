@@ -1,4 +1,4 @@
-# SC-1194 eldi.no · feed_auto · https://www.eldi.no/feed/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SC-1194 eldi.no · feed_auto · https://www.eldi.no/feed/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 Wed, 18 Nov 2026 06:41:22 +0000	Trykksensor 10 Bar G1/2 med Display	https://www.eldi.no/trykksensor-10-bar-g1-2-med-display/
 Wed, 18 Nov 2026 06:40:08 +0000	Trykksensor 5 Bar G1/2 med Display	https://www.eldi.no/trykksensor-5-bar-g1-2-med-display/
 Tue, 17 Nov 2026 09:38:51 +0000	Trykksensor 10 Bar G1/4 med Display	https://www.eldi.no/trykksensor-10-bar-med-display/

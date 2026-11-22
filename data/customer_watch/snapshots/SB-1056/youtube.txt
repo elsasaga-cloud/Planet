@@ -1,4 +1,4 @@
-# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-1056 mikrodev.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC-67KqN9lzKKQUuZaMt3Zhg · fetched 2026-11-22T09:57:04Z · HTTP 200
 2026-11-19T12:06:34+00:00	Cihazın ağ ayarları: tahmin etmez, sorar | AeroDiagram Teknik Eğitim 04	https://www.youtube.com/watch?v=4_PaNqd1znU
 2026-11-19T12:04:42+00:00	Modbus register tablosu PDF'ten: adresleri tek tek girmeden | AeroDiagram Teknik Eğitim 03	https://www.youtube.com/watch?v=q0tr50NcMAg
 2026-11-19T12:02:29+00:00	IEC 61850 istemcisi: AI ile Hızlı Konfigürasyon | AeroDiagram Teknik Eğitim 02	https://www.youtube.com/watch?v=fWK5I9YriVM

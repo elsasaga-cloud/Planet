@@ -1,4 +1,4 @@
-# SC-1689 abovenet.com.br · feed_auto · https://abovenet.com.br/feed/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SC-1689 abovenet.com.br · feed_auto · https://abovenet.com.br/feed/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 Mon, 16 Nov 2026 13:30:46 +0000	BridgePTT: como a comunicação inteligente amplia a segurança das equipes de campo	https://abovenet.com.br/blog-geral/bridgeptt-homem-ao-chao-seguranca-equipes-de-campo/
 Fri, 21 Aug 2026 18:06:17 +0000	BridgePTT: a evolução da comunicação para operações críticas	https://abovenet.com.br/blog-geral/bridgeptt-a-evolucao-da-comunicacao-para-operacoes-criticas/
 Mon, 15 Jun 2026 13:56:13 +0000	Monitoramento de Vibração Industrial: antecipando falhas e aumentando a confiabilidade dos ativos	https://abovenet.com.br/blog-geral/manutencao-preditiva-monitoramento-vibracao-industrial/

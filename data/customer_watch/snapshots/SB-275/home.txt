@@ -1,4 +1,4 @@
-# SB-275 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-275 gelecekbt.com · home · https://gelecekbt.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 GelecekBT Bilgi ve İletişim Teknolojileri
 E-Posta
 İletişim
@@ -430,73 +430,95 @@ ONET
 Ağ Güvenliği
 Fieldbus
 Son Eklenenler
-Cloud Endüstriyel PoE Switch 8 Gigabit RJ45 PoE + 2 SFP @ CLR-IES-2510P
-CLR-IES-2510P # 8 Port Gigabit PoE + 2 Port SFP Endüstriyel Cloud PoE Switch&nb..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-8 Port PoE Switch RJ45 PoE + 2 Port Uplink CLR-SWF-820P
-CLR-SWF-820P 8 Port 10/100M PoE RJ45 +2 Port 10/100M non-PoE RJ45 PoE Switch 12..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-PoE Switch 24 Port RJ45 PoE + 2 Port SFP @ CLR-SWG-2402P
-CLR-SWG-2402P # 24 Port 10/100/1000M PoE RJ45 +2 Port Gigabit SFP, PoE Ethernet Switc..
+İletişime Geçiniz
+EWS360AP @ Wireless AC1750 WiFi Access Point
+Engenius EWS360AP Wireless AC1750 Wi-Fi İç Ortam Dual-band Access Point
+..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-S2700-9TP-PWR-EI @ Huawei 9 Port POE Yönetilebilir Switch
-Huawei S2700-9TP-PWR-EI 9-Port POE Yönetilebilir Switch8Port 10/100M PO..
+2 Kanal Koaksiyel Kablo Ethernet Çevirici # CLR-EOC-12
+Koaksiyel Kablo Üzerinden Ethernet # CLR-EOC-12Asansörlerdeki CCTV IP kamera..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-Endüstriyel POE Switch 8 RJ45 POE + 2 RJ45/SFP Yönetilebilir @ EDS-P510A-8PoE-2GTXSFP-T
-Moxa EDS-P510A-8PoE-2GTXSFP-T Managed Ethernet PoE Switch with 8 PoE+ Ports 2 co..
+M12 Endüstriyel Switch 8 Port POE Gigabit M12 Yönetilemez Railway EN50155 @ CLR-RWS-6208P
+CLR-RWS-6208P @ 8 port 10/100/1000Base-T POE M12 Yönetilemez Railway E..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-Endüstriyel Switch 4 Port RJ45 + 2 Port SFP Yönetilemez @ CLR-IES-G42S
-CLR-IES-G42S 4-Port Port 10/100/1000Base-TX RJ45 ve 1-Port 1000Base-FX SFP Slot..
+PoE Switch 4 Port RJ45 POE + 4 Port RJ45 Uplink @ CLR-SWG-440P
+CLR-SWG-440P # 4 Port 10/100/1000M PoE RJ45 +4 Port 10/100/1000M non-PoE RJ45 Switch ..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-Ön Sipariş Veriniz
-100G QSFP28 to 4 x 25G SFP28 AOC OM4 Fiber Breakout Cable
-AOC (Active Optical Cable) 100G QSFP28 to 4x25G SFP28 Multimode OM4 Fiber Kablo ..
+VC-231G @ 1-Port 10/100/1000Base-T Ethernet to VDSL2 Converter
+Planet VC-231G 1-Port 10/100/1000T Ethernet to VDSL2 Converter -30a profile w/ G.vectoring..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+PoE Switch 10 Port RJ45 [8 POE] + 2 Port SFP @ CLR-SWG-2912P
+CLR Networks CLR-SWG-2912P 8-Port 10/100/1000M PoE RJ45 + 2-Port 10/100/1000M RJ45 +..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-CPRI-S1060A @ 10G CPRI Endüstriyel Bidi SFP+ Modül 60km
+CLR-CPRI-S1060A @ 10GBase-LR SFP+ CPRI Endüstriyel Bidi Modül 60km..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-TGS-B80B @ Tek Core BiDi SFP+ Modül 10GBase-BX LC Simplex SM 80km
+CLR-TGS-B80B # 10 Gigabit SFP+ transceiver modül 10GBase-ZR, tek kıl BiDi SFP TX..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+ON-DAC-CH13M @ 100Gbps QSFP28 DAC Bakır Kablo 30AWG 3m
+ON-DAC-CH13M # DAC (Direct Attached Cable) QSFP28 100G 30 AWG 3m Bakır Kablo&nb..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-400G MPO16 APC F/F MM OM4 16-Fiber PB Unpinned Fiber Kablo
-ON-MPO16-F4XXA Serisi 400Gbps Multimode OM4 16-Core MPO APC Polarite B Kabl..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-GES-B20 Bidi Single Fiber Gigabit SFP Modül Seti
-CLR Networks Bidi Single Fiber Gigabit SFP Modül Seti [SM Singlemode LC Simplex..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-ON-MPO-F410C @ 40/100Gbps Multimode OM4 8-Core MPO PB Kablo 10m
-ONET ON-MPO-F410C 40/100Gbps Multimode OM4 8-Core MPO Polarite B Kablo 10M..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-TGS-C80H 10GBase-T RJ45 Bakır SFP+ Modül 80m HP Uyumlu
-CLR-TGS-C80H 10Gb/s 10GBase-T Bakır RJ45 SFP+ Modül 80Metre HP Aruba U..
+400G QSFP-DD - 4x100G QSFP28 Breakout AOC Kablo 5m CLR-400G-A40005
+CLR-400G-A40005 400G QSFP-DD - 4x100G QSFP28 Breakout AOC Active Optical Cable 5m&nb..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
 İletişime Geçiniz
-R9D18A @ Aruba Instant On 10G SFP+ LC SR 300m OM3 MMF XCVR Modül
-R9D18A 10 Gigabit SFP+ Transceiver Modül 10GBase-SR MMF 300m [Aruba In..
+CLR-SFP-P2500 GPON ONU SFP Modül 1.25G Tx / 2.5G Rx Class B+ SC/APC 20km DDM
+CLR-SFP-P2500 GPON ONU SFP Modül 1.25G Tx / 2.5G Rx Class B+ SC/APC 20km DDMCLR-SFP-P2500..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-CLR-HDMI-LLT @ HDMI TCPIP Extender HDbitT 150m Transmitter Lokal HDMI Çıkışlı
-CLR-HDMI-LLT # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 150m Transmitter (TX)&..
+ON-AOC-F1420M @ 100G QSFP28 QSFP28 MM OM4 AOC Kablo 20m
+ON-AOC-F1420M # AOC (Active Optical Cable) 100G QSFP28 QSFP28 Multimode OM4 Kabl..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+İletişime Geçiniz
+Wireless HDMI Extender 200m CLR-WHD-K1200
+CLR-WHD-K1200 Wireless HDMI Extender 1920x1080p/60Hz 200 Metre Kablosuz HDM..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+CLR-HDMI-L20 @ HDMI TCPIP Ethernet Extender 200m Seti
+CLR-HDMI-L20 # HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı 200m, Transmitter - Receiver ..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+4Kx2K HDMI 1.4 Extender 60 Metre # CLR-HDMI-E603
+CLR-HDMI-E603 4K*2K@30Hz HDMI 1.4 Cat6 Extender Seti 60Metre CLR-HDMI-E603,..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+4Kx2K HDMI 2.0 Extender Lokal HDMI Çıkışlı Kaskat Bağlantı CLR-HDMI-E606
+CLR-HDMI-E606 # 4K@60Hz HDMI2.0 Cat6 Extender Seti 60 Metre, Lokal Loop IR uzaktan kumanda..
+Sepete Ekle
+Favorilere Ekle
+Karşılaştırma listesine ekle
+HDMI Cat6 Extender 60 Metre IR Destekli – CLR-HDMI-E60
+CLR-HDMI-E60 # HDMI Cat6 Extender 60m, IR uzaktan kumanda, SETCLR-HDMI-E60, set halinde, ..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
@@ -506,40 +528,15 @@ CLR-WHD-S1050 Full HD 1080P HDMI Kablosuz Mesafe Uzatıcı Extender Seti 50Metre
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-WHD-K1050 @ Wireless HDMI KVM Extender 50m
-CLR-WHD-K1050 HDMI + USB Kablosuz Mesafe Uzatıcı KVM Extender Seti 50Metre..
+CLR-MCF-B13 10/100Base-T Fast Ethernet BiDi Fiber Optik Media Converter SM 20km
+CLR-MCF-B13 # 1 Port Fast Ethernet BiDi Fiber Optik Media Converter TX:1310nm ve RX:1..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-İletişime Geçiniz
-HDMI Cat6 Mesafe Uzatıcı 50Metre CM196
-CM196 Ugreen HDMI Cat6 Extender 50metre 1080P Cat5 ve cat6 bakır ..
+Canbus Fiber Optik Çevirici Singlemode SC Simplex 1310nm @ CLR-CAN-F11A
+CLR-CAN-F11A # Canbus Fiber Optik Çevirici, Singlemode, SC Simplex, 1310nm..
 Sepete Ekle
 Favorilere Ekle
 Karşılaştırma listesine ekle
-CLR-HDMI-L10R @ 4K*2K 30Hz HDMI Ethernet Extender HDbitT 120m Receiver
-CLR-HDMI-L10R # 4K*2K 30Hz HDMI TCP/IP Cat6 Ethernet Mesafe Uzatıcı HDbitT 120m ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-WHD-151 @ Wireless SDI/HDMI Extender 150m
-CLR-WHD-151 # SDI/HDMI Kablosuz Mesafe Uzatıcı Extender Seti 150m CLR-WHD-151..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-MCG-21SC 2 Port Gigabit Ethernet Fiber Optik Media Converter SC SM 20km
-CLR-MCG-21SC # 2 Port Gigabit Ethernet Fiber Optik Media Çevirici. Single Mode..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-CLR-BAF-12B @ 2 Kanal Balanced XLR Audio SM Fiber optik Çift Yönlü Çevirici
-CLR-BAF-12B # 2 Kanal Audio Balanced XLR Singlemode SC Mesafe Uzatıcı, Bidirectional ..
-Sepete Ekle
-Favorilere Ekle
-Karşılaştırma listesine ekle
-İletişime Geçiniz
-CLR-MCG-POF @ Gigabit Ethernet POF Media Converter
-CLR-MCG-POF Gigabit Ethernet POF Polimer Optical Fi
+CLR-MCG-B13 @ Gigabit Ethernet Fiber Optik Media Converter 1 core SM 20km
+CLR-MCG-B13 Gigabit Ethernet BiDi Fiber Opti

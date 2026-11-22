@@ -1,4 +1,4 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-22T09:57:04Z · HTTP 200
 2026-11-20T14:00:33+00:00	MGate 5119: konwersja DNP3 i Modbus TCP na IEC 61850 MMS	https://www.youtube.com/shorts/9V1jKlYjPj8
 2026-11-20T13:00:22+00:00	MGate 5119: konwersja DNP3 i Modbus TCP na IEC 61850 MMS	https://www.youtube.com/watch?v=BkDBZ2jDEIM
 2026-11-20T07:30:19+00:00	PRP i HSR: bezstratna rekonfiguracja w sieciach OT stacji IEC 61850	https://www.youtube.com/shorts/dtLMW4YGXpw

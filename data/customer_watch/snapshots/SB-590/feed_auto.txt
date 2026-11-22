@@ -1,4 +1,4 @@
-# SB-590 carritech.com · feed_auto · https://carritech.com/feed/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-590 carritech.com · feed_auto · https://carritech.com/feed/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 Tue, 17 Nov 2026 10:01:37 +0000	Asset Register Reconciliation: Making Records Match the Racks	https://carritech.com/telecom-asset-register-reconciliation/
 Tue, 17 Nov 2026 10:01:35 +0000	No Fault Found: Why Units Come Back Working, and What to Do	https://carritech.com/no-fault-found-telecom-repairs/
 Tue, 17 Nov 2026 10:01:33 +0000	Writing a Legacy Network Runbook That Outlasts the Engineer	https://carritech.com/legacy-network-runbook/

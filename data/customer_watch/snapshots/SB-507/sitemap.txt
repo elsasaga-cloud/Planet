@@ -1,4 +1,4 @@
-# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-507 fibreoptic.com.au · sitemap · https://www.fibreoptic.com.au/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
 2026-05-21	https://www.fibreoptic.com.au
 2026-05-28	https://www.fibreoptic.com.au/cookies
 2026-06-25	https://www.fibreoptic.com.au/fos-insights/fibre-vs-copper-understanding-the-true-cost-of-network-infrastructure

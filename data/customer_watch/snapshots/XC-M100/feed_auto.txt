@@ -1,4 +1,4 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-21T09:58:28Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-22T09:57:04Z · HTTP 200
 19.11.2026 10:20:59	Chalmit Protecta IV LED 07 EM	https://www.adeptor.no/chalmit/pr4b-07l-le-l3/chalmit-protecta-iv-led-07-em-pr4b-07l-le-em-3h-lbe-m20
 17.11.2026 15:19:32	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2040-32/grs2000-ethernet-switch-grs2040-f0000-00000-a00-sffv9hhe2s99
 16.11.2026 12:52:01	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-07/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcy99hhseaxx-dot-x-dot-xx

@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -39,6 +39,17 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+Industrial Power Supply 48V DC, 240W DN-PWR-STD-24048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSTD24048
+Ár:
+24.746 Ft + ÁFA
+(31.427 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial Power Supply 48V DC DN-PWR12048
 ÚJDONSÁG!
 Villámnézet
@@ -127,57 +138,13 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial Power Supply 48V DC, 240W DN-PWR-STD-24048
+Industrial 4 port Gigabit PoE Switch DN-651135
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIGPWRSTD24048
+Cikkszám: HDIG-DN-651135
 Ár:
-24.746 Ft + ÁFA
-(31.427 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16+2 port Gigabit Switch DN-651138
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651138
-Ár:
-108.615 Ft + ÁFA
-(137.941 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 4+2 port Gigabit PoE switch DN-651149
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651149
-Ár:
-43.785 Ft + ÁFA
-(55.607 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit PoE DN-651157
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651157
-Ár:
-99.034 Ft + ÁFA
-(125.773 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8 + 4 10G Gigabit PoE switch DN-651161
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651161
-Ár:
-161.135 Ft + ÁFA
-(204.641 Ft)
+41.879 Ft + ÁFA
+(53.186 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -200,6 +167,61 @@ Cikkszám: HDIG-DN-651159
 Ár:
 150.393 Ft + ÁFA
 (190.999 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8-port Gigabit Switch DN-651108
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651108
+Ár:
+47.378 Ft + ÁFA
+(60.170 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 5 port Gigabit Switch Flat DN-651126
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651126
+Ár:
+32.432 Ft + ÁFA
+(41.189 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 16 port Gigabit Switch DN-651129
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651129
+Ár:
+80.982 Ft + ÁFA
+(102.847 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 16+2 port Gigabit Switch DN-651138
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651138
+Ár:
+108.615 Ft + ÁFA
+(137.941 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 4+2 port Gigabit PoE switch DN-651149
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651149
+Ár:
+43.785 Ft + ÁFA
+(55.607 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -237,46 +259,24 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 4 port Gigabit PoE Switch DN-651135
+Industrial 8+2-Port L2 Gigabit PoE DN-651157
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIG-DN-651135
+Cikkszám: HDIG-DN-651157
 Ár:
-41.879 Ft + ÁFA
-(53.186 Ft)
+99.034 Ft + ÁFA
+(125.773 Ft)
 Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8-port Gigabit Switch DN-651108
+Industrial 8 + 4 10G Gigabit PoE switch DN-651161
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIG-DN-651108
+Cikkszám: HDIG-DN-651161
 Ár:
-47.378 Ft + ÁFA
-(60.170 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 5 port Gigabit Switch Flat DN-651126
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651126
-Ár:
-32.432 Ft + ÁFA
-(41.189 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16 port Gigabit Switch DN-651129
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651129
-Ár:
-80.982 Ft + ÁFA
-(102.847 Ft)
+161.135 Ft + ÁFA
+(204.641 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -380,17 +380,6 @@ Cikkszám: K288542-EASY
 db
 Kosárba
 Részletek
-Fésűs panel mini szekrényhez fekete DN-10-ORG-1-2U-B
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: DFÉSMF
-Ár:
-1.550 Ft + ÁFA
-(1.969 Ft)
-8 db raktáron
-db
-Kosárba
-Részletek
 Gyűrűs panel mini szekrényhez 10" fekete DN-10-ORG-1U-B
 ÚJDONSÁG!
 Villámnézet
@@ -410,6 +399,17 @@ Cikkszám: TO-TÁL10F
 2.500 Ft + ÁFA
 (3.175 Ft)
 37 db raktáron
+db
+Kosárba
+Részletek
+Fésűs panel mini szekrényhez fekete DN-10-ORG-1-2U-B
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: DFÉSMF
+Ár:
+1.550 Ft + ÁFA
+(1.969 Ft)
+8 db raktáron
 db
 Kosárba
 Részletek

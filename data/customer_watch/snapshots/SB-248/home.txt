@@ -1,4 +1,4 @@
-# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 Nelly's Security | CCTV, Access Control, and Intrusion Alarms
 Skip to content
 855-340-9999 / 9AM - 5PM CST / Monday - Friday
@@ -186,13 +186,6 @@ $579.00
 Unit price
 /
 per
-UNV 4MP IP Weatherproof IR Turret Camera with Built-in Mic and 2.8mm Fixed Lens (IPC3614SR-ADF28KM-H)
-Translation missing: en.products.product.sku: SKU# 3434
-Vendor:
-Uniview
-UNV 4MP IP Weatherproof IR Turret Camera with Built-in Mic and 2.8mm Fixed Lens (IPC3614SR-ADF28KM-H)
-Regular price
-$399.00
 L-Series 5MP Ultra HD Weatherproof Smart Hybrid Light Turret IP Security Camera with AI Smart Events, Active Deterrence, White Lights for 24/7 Color Night, IR Lights for Night Vision & Built-in Mic (L5TW)
 Translation missing: en.products.product.sku: SKU# 3920
 Vendor:
@@ -207,6 +200,13 @@ $159.99
 Unit price
 /
 per
+UNV 4MP IP Weatherproof IR Turret Camera with Built-in Mic and 2.8mm Fixed Lens (IPC3614SR-ADF28KM-H)
+Translation missing: en.products.product.sku: SKU# 3434
+Vendor:
+Uniview
+UNV 4MP IP Weatherproof IR Turret Camera with Built-in Mic and 2.8mm Fixed Lens (IPC3614SR-ADF28KM-H)
+Regular price
+$399.00
 OwlView 4MP Wise-ISP Turret IP Security Camera with a 2.8mm Fixed Lens (IPC3624SR-ADF28KM-WP)
 Translation missing: en.products.product.sku: SKU# 3830
 Vendor:

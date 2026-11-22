@@ -1,4 +1,4 @@
-# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-106 citicalls.com · home · https://citicalls.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 citiCalls
 – citiCALLS
 Skip to content
@@ -41,8 +41,6 @@ Barcode Scanner
 Barcode Stand
 Barcoding
 Base Stand
-Bundle-Keyboard & Mouse
-Busylight
 COmputer Cooler
 CPU
 Cable
@@ -769,4 +767,4 @@ Lexuary
 Kitchen Appliances
 View details
 Latest Gadgets
-Your Truste
+Your Trusted Source of Technology Essentials!

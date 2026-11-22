@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-22T09:57:04Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -193,10 +193,10 @@ Digital Cash Register Mandate 2028: What German Businesses Should Know
 Nov 20, 2026
 Odoo News
 How to Prepare Your E-Commerce Store for Black Friday
-Nov 20, 2026
+Nov 19, 2026
 Business Hacks
 How to Upgrade Odoo With Customizations Without Breaking Workflows
-Nov 20, 2026
+Nov 19, 2026
 Business Hacks
 What if you chose the Accounting app for your Odoo One App Free?
 Nov 19, 2026
@@ -205,7 +205,7 @@ Odoo and Namirial partner to secure electronic invoicing in France
 Nov 19, 2026
 Odoo News
 Odoo Africa and KPMG Nigeria partner to make premium ERP solutions accessible for mid-tier corporates
-Nov 19, 2026
+Nov 18, 2026
 Odoo News
 Odoo expands partnership with Salt Edge and is the first to go live with Bulk Payments
 Nov 17, 2026

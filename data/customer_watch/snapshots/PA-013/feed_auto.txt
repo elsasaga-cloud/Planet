@@ -1,4 +1,4 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-21T09:58:28Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-22T09:57:04Z · HTTP 200
 20.11.2026 11:15:23	Apto Kabelhylle Sølv, 147cm	https://www.leteng.no/apto-plus/3070-0002-9006/apto-kabelhylle-s%c3%b8lv-147cm
 20.11.2026 11:13:39	AVer PTZ Kamera kontroller	https://www.leteng.no/aver/cl02/aver-ptz-kamera-kontroller-rs-232-rs-422-rs-485
 20.11.2026 10:51:28	Apto Kabelhylle Sølv, 115cm	https://www.leteng.no/apto-plus/3070-0001-9006/apto-kabelhylle-s%c3%b8lv-115cm

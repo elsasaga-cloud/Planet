@@ -1,11 +1,2 @@
-# SC-1297 winncom.com · feed_auto · https://www.winncom.com/feed · fetched 2026-11-21T09:58:28Z · HTTP 200
-Fri, 30 Oct 2026 15:47:41 +0000	Cambium Questions? Join Winncom & Ceragon for Answers!	https://www.winncom.com/online-videos-webinars/cambium-questions-join-winncom-ceragon-for-answers
-Wed, 28 Oct 2026 15:27:17 +0000	Proxim's fixed wireless portfolio for WISPs, enterprise, video security, and smart city	https://www.winncom.com/online-videos-webinars/proxims-fixed-wireless-portfolio-for-wisps-enterprise-video-security-and-smart-city
-Thu, 13 Aug 2026 19:45:43 +0000	A Deep dive into Reducing Churn Diagnosing Subscriber Experience with Actionable Insights	https://www.winncom.com/online-videos-webinars/a-deep-dive-into-reducing-churn-diagnosing-subscriber-experience-with-actionable-insights
-Thu, 25 Jun 2026 20:14:12 +0000	Reducing the Churn A Winning Recipe for Regional ISPs to Retain Subscribers	https://www.winncom.com/online-videos-webinars/reducing-the-churn-a-winning-recipe-for-regional-isps-to-retain-subscribers
-Thu, 18 Jun 2026 16:30:08 +0000	What is Currently the Biggest Trend in the Broadband Market? ~ Nokia	https://www.winncom.com/online-videos-webinars/what-is-currently-the-biggest-trend-in-the-broadband-market-nokia
-Thu, 04 Jun 2026 20:25:08 +0000	Solar Powered Networking for Remote and Smart Infrastructure, by Fuzion	https://www.winncom.com/online-videos-webinars/solar-powered-networking-for-remote-and-smart-infrastructure-by-fuzion
-Tue, 26 May 2026 20:26:13 +0000	BEAD Award to Contract Execution: Prepare Engineering, Match Documentation, & Compliance Packages	https://www.winncom.com/online-videos-webinars/bead-award-to-contract-execution-prepare-engineering-match-documentation-compliance-packages
-Thu, 30 Apr 2026 20:08:04 +0000	Winning Without BEAD Practical Strategies for ISPs Competing in Subsidized Markets	https://www.winncom.com/online-videos-webinars/winning-without-bead-practical-strategies-for-isps-competing-in-subsidized-markets
-Tue, 28 Apr 2026 20:25:57 +0000	SAF Tehnika Microwave Radios for Backhaul Infrastructure – Connect and Protect what Matters	https://www.winncom.com/online-videos-webinars/saf-tehnika-microwave-radios-for-backhaul-infrastructure-connect-and-protect-what-matters
-Tue, 10 Mar 2026 20:40:15 +0000	Tech Talks by Intracom Telecom Ep 3 Breaking the Limits of Wireless Connectivity	https://www.winncom.com/online-videos-webinars/tech-talks-by-intracom-telecom-ep-3-breaking-the-limits-of-wireless-connectivity
+# SC-1297 winncom.com · feed_auto · https://www.winncom.com/feed · fetched 2026-11-22T09:57:04Z · HTTP 403
+Just a moment...

@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-22T09:57:04Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -54,11 +54,11 @@ Obrotowe (2)
 Kompaktowe (1)
 Puszki i uchwyty (148)
 Obiektywy megapikselowe (6)
-Rejestratory Rejestratory (192)
-Rejestratory IP (166) 4-kanałowe (23)
+Rejestratory Rejestratory (191)
+Rejestratory IP (165) 4-kanałowe (23)
 8-kanałowe (34)
 9-kanałowe (2)
-16-kanałowe (36)
+16-kanałowe (35)
 32-kanałowe (31)
 Wszystkie kategorie ›
 Rejestratory analogowe HD 5w1 (18) 4-kanałowe (4)
@@ -126,7 +126,7 @@ BCS (75)
 BCS Basic (40)
 BCS Flex (35)
 BCS Line (551)
-BCS Point (277)
+BCS Point (276)
 BCS Ultra (74)
 BCS Universal (116)
 BCS View (52)
@@ -203,28 +203,24 @@ BCS-L-NVR3202-A-4KE(2) BCS Line rejestrator IP dwudyskowy 32 ...
 Do koszyka
 2 039,71 zł
 pokaż więcej
-BCS-P-NVR0801-4K(3) BCS Point rejestrator 8 kanałowy IP 8mpx
+BCS-P-NVR1601-4K(3) BCS Point rejestrator 16 kanałowy IP 8mpx...
 Do koszyka
-953,00 zł
-BCS-L-EIP14FCR3L3-AI1 BCS Line kamera kopułowa IP NightColor ...
-Do koszyka
-1 437,00 zł
-BCS-IP8/E-S System zasilania do 9 kamer IP ze switchem PoE w ...
-Do koszyka
-1 199,00 zł
-BCS-L-EIP16FCR3L3-AI kamera kopułowa IP 6Mpx NightColor mikrofon ...
-1 014,00 zł
-Do koszyka
-379,00 zł
-BCS-P-NVR0401-4K(3) BCS Point rejestrator 4 kanałowy IP 8mpx
-Do koszyka
-822,00 zł
-BCS-P-NVR0401-4KE-III BCS Point sieciowy rejestrator 4 kanałowy ...
-478,00 zł
-Do koszyka
-235,00 zł
-BCS-L-TIP14FCL5-Ai1 BCS Line kamera tubowa IP NightColor 4Mpx ...
+1 044,00 zł
+BCS-P-TIP25FSR4-AI2-G BCS Point kamera tubowa IP 5Mpx IR 40M ...
 Zobacz warianty
+BCS-L-TIP16FCR3L3 BCS Line kamera tubowa IP NightColor 6Mpx LED ...
+Do koszyka
+921,00 zł
+BCS-P-EIP25FSR3-AI2 BCS Point kamera inteligentna 5Mpx IR 30M ...
+Zobacz warianty
+BCS-P-EIP28FWR3-AI2 BCS Point kamera kopułowa 8Mpx IR 30M WDR...
+Zobacz warianty
+Przewód NETSET BOX UTP 5e skrętka wewnętrzna [305m]
+Do koszyka
+651,00 zł
+BCS-P-NVR0801-4K-8P(3) BCS Point rejestrator 8 kanałowy IP 8mpx ...
+Do koszyka
+1 597,00 zł
 BCS-P-TIP58VSR5-AI2 BCS Point kamera tubowa IP 8Mpx IR 50m WDR...
 Zobacz warianty
 BCS-L-EIP14FSR3L3-AI BCS Line kamera kopułowa IP 4Mpx LED 30M ...
@@ -255,7 +251,7 @@ Do koszyka
 519,00 zł
 pokaż więcej
 Aktualności
-Wczoraj Black Week 2026: Kod rabatowy -10% na cały monitoring
+Przedwczoraj Black Week 2026: Kod rabatowy -10% na cały monitoring
 Łącz okazje i kupuj sprzęt BCS jeszcze taniej! W dniach 20–30.11.2026 r. odbierz rabat -10% na całe zamówienie od 1 zł. Użyj kodu BLACKWEEK2026 podczas finalizacji zakupów.
 Czytaj więcej
 wtorek, 19 maja 2026r. Jaka kamera do monitoringu w nocy sprawdzi się najlepiej? Test BCS NightColor

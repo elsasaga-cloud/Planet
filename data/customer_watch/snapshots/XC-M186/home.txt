@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-21T09:58:28Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-22T09:57:04Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Intruder
@@ -612,7 +612,6 @@ Axis Communications
 ComNet
 Davantis
 Dell
-elbaC - Alpha
 Genetec
 Hikvision
 Infosec
@@ -1028,7 +1027,6 @@ Network Optix
 Neutronic
 NVT
 Optex
-Paradox
 Paxton
 Politec
 Pulsar

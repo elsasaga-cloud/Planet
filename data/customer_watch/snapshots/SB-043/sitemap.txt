@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-11-21T09:58:28Z · HTTP 200
+# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
 2026-11-04	https://www.netontechnologies.com/
 2026-11-04	https://www.netontechnologies.com/contact-us
 2026-11-04	https://www.netontechnologies.com/about-us
@@ -40,7 +40,7 @@
 2026-11-02	https://www.netontechnologies.com/odoo-erp-partner-ai-automation-uae
 2026-11-17	https://www.netontechnologies.com/sbc-session-border-controller-dubai-uae
 2026-11-02	https://www.netontechnologies.com/anynode-software-sbc-teams-direct-routing
-2026-11-02	https://www.netontechnologies.com/genesys-contact-center-cx-uae
+2026-11-21	https://www.netontechnologies.com/genesys-contact-center-cx-uae
 2026-11-04	https://www.netontechnologies.com/teams-google-voice-local-numbers-uae
 2026-11-02	https://www.netontechnologies.com/privacy-policy
 2026-11-02	https://www.netontechnologies.com/terms-and-conditions
@@ -51,7 +51,7 @@
 2026-11-02	https://www.netontechnologies.com/what-is-sip-trunk-uae
 2026-11-17	https://www.netontechnologies.com/what-is-sbc-uae
 2026-11-02	https://www.netontechnologies.com/cloud-pbx-vs-on-premise-pbx-uae
-2026-11-02	https://www.netontechnologies.com/contact-centre-vs-call-centre-uae
+2026-11-21	https://www.netontechnologies.com/contact-centre-vs-call-centre-uae
 2026-11-02	https://www.netontechnologies.com/wildix-partner-dubai-uae
 2026-11-02	https://www.netontechnologies.com/x-bees-partner-dubai-uae
 2026-11-07	https://www.netontechnologies.com/microsoft-teams-phone-calls-uae
@@ -65,3 +65,5 @@
 2026-11-17	https://www.netontechnologies.com/cctv-planning-small-business-dubai
 2026-11-17	https://www.netontechnologies.com/office-wifi-planning-dubai
 2026-11-19	https://www.netontechnologies.com/cti-phone-crm-integration-uae
+2026-11-21	https://www.netontechnologies.com/case-studies
+2026-11-21	https://www.netontechnologies.com/case-studies/genesys-cloud-byoc-migration-uae
