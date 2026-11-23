@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-23T10:56:18Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,20 +321,20 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
-Le marché de la mémoire se dirige-t-il vers une baisse des prix DDR4 et DDR5 ?
-Le marché de la mémoire montre des signes de correction. Analyse des tendances DDR4, DDR5, NAND et SSD et des risques...
+Le marché de la mémoire se dirige-t-il vers une baisse des prix ?
+Sur le marché de la mémoire, si les prix ne montent pas, ils chutent !
 RF modulaire et radio logicielle SDR : solutions et applications
 Explorez les solutions SDR, RF modulaire, beamforming et instrumentation PXI proposées par ES France pour la...
 Courantomètres et débitmètres pour la mesure des écoulements
 Découvrez les courantomètres à hélice, sondes électromagnétiques et solutions de jaugeage pour mesurer la vitesse et...
 Ressources
 Il y a 406 Actualités.
-Le marché de la mémoire se dirige-t-il vers une baisse des prix DDR4 et DDR5 ?
+Le marché de la mémoire se dirige-t-il vers une baisse des prix ?
 Posté le: 20/11/26
 |
 Catégories:
-Ressources , MOBILITÉ & SYSTÈMES EMBARQUÉS
-Le marché de la mémoire montre des signes de correction. Analyse des tendances DDR4, DDR5, NAND et SSD et des risques liés à la demande en IA.
+Actualités , Ressources , MOBILITÉ & SYSTÈMES EMBARQUÉS , MOBILITÉ & SYSTÈMES EMBARQUÉS
+Sur le marché de la mémoire, si les prix ne montent pas, ils chutent !
 Lire plus
 Comment mesurer la puissance acoustique des outils électriques selon les normes ISO 374x ?
 Posté le: 13/11/26

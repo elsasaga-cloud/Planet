@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-23T10:56:18Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,13 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 65 içerik).
+Sektörden güncel haberler ve analizler ( 67 içerik).
+Marka Duyurusu Micron, G10'u Atlayıp G11 NAND'ı Duyurdu
+Micron, G9'dan sonra G10'u atlayarak G11 NAND'ı duyurdu; 400+ katman, 2 kat yoğunluk ve 512TB SSD vaadi 2027'de geliyor.
+23 Kasım 2026
+İnceleme Lenovo'dan Hibrit ThinkPad: T1g Gen 9'da RTX 5070
+Lenovo ThinkPad T1g Gen 9, iş sınıfı dayanıklılığı GeForce RTX 5070 ile birleştiriyor. StorageReview testlerinde dikkat çeken sonuçlar çıktı.
+22 Kasım 2026
 İnceleme ASUS GoogleBook 14 incelendi: Gerçek mi vaat mi?
 ASUS GoogleBook 14, Level1Techs incelemesinde mercek altında. Donanım ve yazılım deneyimi nasıl?
 19 Kasım 2026
@@ -136,12 +142,6 @@ Intel, OCP Global Summit'te Crescent Island adını verdiği Xe3P tabanlı GPU D
 Yapay Zekâ Google Gemini 4 Argon Modelini Tanıttı
 Google DeepMind, yeni yapay zeka modeli Gemini 4 Argon'u duyurdu. Model, performans ve güvenlik testlerinde dikkat çekiyor.
 26 Ekim 2026
-Yapay Zekâ AI Aboneliği Bitince Elde Ne Kalıyor?
-Lawrence Systems'in Hermes Agent testi, AI aboneliği iptal edilince sistem yöneticisinin elinde gerçekte ne kaldığını gündeme taşıdı.
-26 Ekim 2026
-İnceleme Dell Pro Precision 9 T2: Xeon 6 ve DDR5-6400 testte
-Dell Pro Precision 9 T2, Intel Xeon 6 ve DDR5-6400 desteğiyle test edildi; çok çekirdekli performansta büyük fark öne çıktı.
-23 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal

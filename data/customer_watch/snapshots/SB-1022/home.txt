@@ -1,4 +1,4 @@
-# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Danbit - Leverandør af IT-produkter til professionelle
 Velkommen til DANBIT - Dansk Binær Teknik A/S
 B2B – Kun handel med virksomheder
@@ -40,22 +40,22 @@ Vi tilbyder blandt andet:
 - Projektstøtte og projektarbejde
 - Faglig support gennem hele projektforløbet
 Kontakt Os
-13MP 4K Industrikamera Dual Band Wifi, POE, Fast fokus med M12 linsefatning
-0,00 kr
-NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
-0,00 kr
 26" ECDIS DNVGL-CG-0339, IACS-E10 Marine godkendt Panel-Monitor, 24VDC, PCAP Touch, format
 28.485,00 kr
-Armeret fiberkabel, Multi mode, SC-SC, 50m, 50/125my, OM3, Aquafarvet, LSZH
-1.457,00 kr
-2 x 1-Way Digital I/O over Single Mode eller Multi Mode Fiberkabel (simplex - 1 fiber) (Dry contact)
-2.240,00 kr
 21,5" CPU I5, PCAP Panel PC FULD IP69K, SUS316/ASIS316 rustfrit stål 250 nits eller 1500 nits version
 0,00 kr
-Wi-Fi 7 5100MBPS Dual Band Access Point, udendørs, Eksterne antenner, PoE
-2.300,00 kr
-8-ports Managed Switch RJ45, PoE++ 2-ports 100 / 1000Mbit og 2-ports 10Gbit SFP-slot, DIN, 48 - 56VDC
-6.527,00 kr
+15U Støjsvag 19" rackskab, 650 x 650 mm udv. mål, lydsvag Fan + Digital temp. regulering, sort
+14.924,00 kr
+NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
+0,00 kr
+13MP 4K Industrikamera Dual Band Wifi, POE, Fast fokus med M12 linsefatning
+0,00 kr
+27" touchskærm med høj lysstyrke, 1000 nits, IP65, HDMI/VGA/USB-C
+7.245,00 kr
+Armeret fiberkabel, Multi mode, SC-SC, 50m, 50/125my, OM3, Aquafarvet, LSZH
+1.457,00 kr
+15,6" 12. gen. notebook, Intel® Alder Lake-processo, i5, TPM 2.0, RS232, 2xRJ45, 3xUSB 3.0, IP65 800Nits
+0,00 kr
 Erfaring & ekspertise
 50+ års erfaring med tekniske løsninger og rådgivning.
 Kvalitetsprodukter
@@ -102,26 +102,26 @@ Adgangskontrol med brik: kort, læsere og låse
 Hvilken brik er sikker, hvordan forbindes læseren, og hvornår skal låsen være fail-safe? En faglig gennemgang af adgangskontrol til erhverv.
 Magnetkort, Strekkode, NFC
 Nye produkter
-Sikkerhedsgateway med IPS/IDS og Zero Trust, 10G RJ45 + 10G SFP+, 4 x Gigabit LAN
-7.600,00 kr
-Zero Trust VPN-gateway med MFA og ZTNA, 10G RJ45 + 10G SFP+, 4 x Gigabit LAN
-5.500,00 kr
-Post-kvante sikkerhedsgateway med PUF-hardwarebeskyttelse, IPS/IDS og Zero Trust, 10G RJ45 + 10G SFP+
+4-ports USB KM-switch med USB HID-understøttelse og Mouse Roaming, deler tastatur og mus på tværs af 4 pc'er
+988,00 kr
+USB-C/DisplayPort KVM Extender 4K60Hz, 100W PD 3.0, 160m CAT5e/6 eller 20km fiber
 Ring +45 56 66 20 20 for pris
-Sikkerhedsgateway med IPS/IDS, Zero Trust og Wi-Fi 7, 10G RJ45 + 10G SFP+, 4 x Gigabit LAN
+12.2 Robust Tablet-PC med Windows 11 Pro, Intel Core i5-1235U, Touchskærm til industri og jernbane
 Ring +45 56 66 20 20 for pris
-VPN-router med firewall, fiber (SFP) og 4 x PoE+ (120 W), 4 x Gigabit RJ45 + 1 x SFP
+Trådløs trackball mus, 6 programmerbare knapper, 34 mm kugle, 750/1500 DPI, ergonomisk, sort
+650,00 kr
+UA I/O-modul med 16 x digital indgang, OPC UA, MQTT, RESTful API, 2-ports Ethernet-switch, PoE 802.3af
+3.240,00 kr
+RFID-kortlæser 125KHz / 13.56MHz Dual Frekvens, USB, 0-80mm Læseafstand
+700,00 kr
+Netværkskabel-tracer og tester til RJ45/RJ11 med anti-interferens, PoE-test og scanning
+1.250,00 kr
+Mini dome-netværkskamera 8MP, IR 15 m, fast linse 2.8 mm, mikrofon, IP66
+1.830,00 kr
+19 Open Frame Touch Monitor, TFT-LCD med projiceret kapacitiv touch, 1x DisplayPort, 1x HDMI®, 1x VGA
 Ring +45 56 66 20 20 for pris
-10G VPN-router med firewall, WireGuard og dual-WAN, 10G RJ45 + 10G SFP+, 4 x Gigabit LAN
-4.800,00 kr
-5G VPN-router med Wi-Fi 6 (AX1800), firewall og fiber (SFP), 5 x Gigabit RJ45
-7.550,00 kr
-5G VPN-router med Wi-Fi 7 (BE5100), 10G RJ45 + 10G SFP+, firewall og WireGuard
+Fanless Edge AI Box PC med NVIDIA Jetson AGX Orin 32GB, 4x PoE+, 8K-skærm (64GB-version på bestilling)
 Ring +45 56 66 20 20 for pris
-Industriel VPN-router med RS485, digital I/O og dual-WAN, 5 x Gigabit RJ45, DIN-skinne
-3.900,00 kr
-Industriel VPN-router med 4 x PoE+ (120 W), fiber (SFP) og RS485, DIN-skinne, -40 til 75 °C
-4.950,00 kr
 Levering
 Salgs og leveringsbetingelser
 Om os

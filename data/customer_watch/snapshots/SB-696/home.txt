@@ -1,4 +1,4 @@
-# SB-696 aironix.co.il · home · https://aironix.co.il/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-696 aironix.co.il · home · https://aironix.co.il/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Home - Aironix Systems
 Skip to main content
 Aironix Systems
@@ -108,11 +108,11 @@ Diagnostic testing is performed on integrated products and test reports issued.
 Previous
 Next
 Our Blog
-NEW!!!! VECOW SPC-8000: Ultra-Compact Fanless Computing for Edge AI and Industrial Applications
-VECOW SPC-8000: Efficient embedded computing. Industrial connectivity. Compact design. As intelligent systems continue to evolve, more processing is moving closer to the source of data. Industrial automation, machine vision, smart infrastructure, and AI-enabled applications increasingly require compact computing platforms capable
+CTC Union: Building Reliable Networks for Demanding Environments
+Building Reliable Networks for Demanding Environments Industrial networks are the backbone of modern automation, infrastructure and connected systems. From factory floors and transportation networks to power substations and intelligent surveillance, reliable communication between devices is essential for safe, efficient and
 Read More »
-MOXA EDS-4000/G4000 Series: Secure and Resilient Industrial Networking
-Building reliable network infrastructure for demanding industrial and mission-critical applications Modern industrial systems increasingly depend on connected devices, distributed control systems, real-time data exchange, and remote monitoring. As these networks grow in complexity, the demands placed on their underlying infrastructure
+NEW!!!! VECOW SPC-8000
+VECOW SPC-8000: Efficient embedded computing. Industrial connectivity. Compact design. As intelligent systems continue to evolve, more processing is moving closer to the source of data. Industrial automation, machine vision, smart infrastructure, and AI-enabled applications increasingly require compact computing platforms capable
 Read More »
 More Acticles
 About

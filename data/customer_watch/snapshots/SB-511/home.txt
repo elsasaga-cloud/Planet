@@ -1,4 +1,4 @@
-# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 리버샵 - Rivershop
 {#item} {#html}
 {#item}
@@ -107,9 +107,8 @@ USB
 넥시 20핀 더미 DP 파인골드 케이블 V1.2
 상품요약정보 : 1M, 2M, 3M, 5M
 판매가 : 6,600원
-넥시 ULTRA HIGH SPEED HDMI 2.1 인증 케이블
-상품요약정보 : 0.5M, 1M, 1.5M, 2M, 3M, 5M
-판매가 : 4,300원
+[리퍼제품] 넥시 NX1480 USB3.1 C타입 5G 유선랜카드
+판매가 : 16,900원
 1 / 2
 SHORTS
 흥미로운 쇼츠와 소식을 한눈에 확인하세요.

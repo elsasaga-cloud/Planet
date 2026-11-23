@@ -1,4 +1,4 @@
-# SB-674 noxel.pl · home · https://noxel.pl/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-674 noxel.pl · home · https://noxel.pl/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Noxel.pl | Monitoring IP, szafy rack, termowizja, wideodomofony
 Zwroty i reklamacje: reklamacje@noxel.pl
 Skorzystaj z darmowej dostawy powyżej 299zł
@@ -64,7 +64,6 @@ Darmowa wycena
 Zestawy monitoringu od największego producenta
 branży monitoringu!
 Sprawdź
-WIDEOMONITORING
 Szafy rack
 Zasilacze UPS
 Polecane produkty
@@ -92,7 +91,7 @@ EAST
 289,00 zł
 Zasilacz UPS EAST 1200VA/720W UPST1200VAL-LCD z akumulatorem 2x 7Ah/12V
 EAST
-319,00 zł
+319,00 zł Pierwotna cena wynosiła: 319,00 zł. 289,00 zł Aktualna cena wynosi: 289,00 zł.
 Zestaw monitoringu Dahua 2 kamery 8MPx IP PoE IPC-HFW1839TC-A-IL-0280B-S6
 Dahua
 1899,00 zł

@@ -1,4 +1,4 @@
-# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1009 arasvarel.com · news_1 · https://varelalarm.com/?page=blog · fetched 2026-11-23T10:56:18Z · HTTP 200
 Blog | Varel Alarm
 Kurumsal expand_more
 Hakkımızda
@@ -164,6 +164,10 @@ Devamını Oku arrow_forward
 News
 CCTV Sisteminde Görüntü Var, Sistem Hazır mı? Sahne, Kayıt ve Video Analitik
 Kameranın görüntü vermesi, CCTV projesinin bittiği anlamına gelmez. Sahne, ışık, kayıt süresi ve video analitik kurgusunu bu yazıda ele alıyoruz.
+Devamını Oku arrow_forward
+News
+EN 54-24 Sertifikalı Hoparlör: Teklif İncelerken Bakılması Gereken Üç Kontrol
+"EN 54 uyumlu" ile "EN 54-24 sertifikalı" aynı şey değil. Acil anons hoparlörü seçerken belge, ortam tipi ve hat tasarımı nasıl kontrol edilir?
 Devamını Oku arrow_forward
 A member of
 VAG Group

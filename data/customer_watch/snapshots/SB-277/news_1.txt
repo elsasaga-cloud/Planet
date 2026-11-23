@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,16 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+RouterOS 7.25: más control en bridge, VTI para IPsec y cliente SSH reforzado
+23 de noviembre de 2026
+Conoce
+MikroTik RouterOS 7.25 incorpora controles de seguridad en bridge, VTI para IPsec y verificación de huella en SSH. Repasamos las novedades en español y las precauciones antes de actualizar.
+Read More
+Webinar práctico: conecta edificios sin desplegar fibra con Grandstream GWN7302
+23 de noviembre de 2026
+Webinar
+Aprende a desplegar y configurar un enlace inalámbrico entre edificios con dos equipos Grandstream GWN7302, sin nuevas canalizaciones ni fibra óptica.
+Read More
 UniFi Access: Ubiquiti corrige siete vulnerabilidades, cinco críticas, en la versión 4.3.24
 19 de noviembre de 2026
 Conoce
@@ -62,16 +72,6 @@ Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18
 11 de noviembre de 2026
 Formación
 Tres certificaciones oficiales Ubiquiti en un curso presencial de tres días en Barcelona: UFSP, UWA y URSCA. Consulta programa, horarios e inscripción.
-Read More
-Webinar práctico: Megafonía IP con Grandstream | 20 de noviembre
-9 de noviembre de 2026
-Webinar
-Descubre cómo desplegar una solución profesional de megafonía IP con Grandstream UCM y altavoces GSC35XX. Inscríbete al webinar del 20 de noviembre a las h.
-Read More
-Grandstream GRP Pro: GRP2615 Pro y GRP2624 Pro, teléfonos IP con mangueta inalámbrica y botón de IA
-3 de noviembre de 2026
-Conoce
-Grandstream presenta los teléfonos IP GRP2615 Pro y GRP2624 Pro, con mangueta Bluetooth inalámbrica, botón de IA, Wi-Fi y PoE. Conoce sus diferencias y aplicaciones profesionales.
 Read More
 Paginación de entradas
 1
@@ -635,4 +635,4 @@ comunicaciones unificadas
 comunicado
 conectar gds con gswave
 conectividad
-conectivida
+conectividad 

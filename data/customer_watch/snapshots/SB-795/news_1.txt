@@ -1,9 +1,13 @@
-# SB-795 yachtgurus.us · news_1 · https://yachtgurus.us/blogs/news · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-795 yachtgurus.us · news_1 · https://yachtgurus.us/blogs/news · fetched 2026-11-23T10:56:18Z · HTTP 200
 News
 – Yacht Gurus, inc
 Skip to content
 Home
 Catalog
+Interior
+Decor
+Table Settings
+Uniforms
 News
 Contact Us
 Log in
@@ -728,6 +732,10 @@ USD
 $
 Home
 Catalog
+Interior
+Decor
+Table Settings
+Uniforms
 News
 Contact Us
 Country/region
@@ -1614,14 +1622,3 @@ XAF
 CFA
 Canada
 CAD
-$
-Cape Verde
-CVE
-$
-Caribbean Netherlands
-USD
-$
-Cayman Islands
-KYD
-$
-Central A

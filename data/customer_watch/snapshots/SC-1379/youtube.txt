@@ -1,4 +1,4 @@
-# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-23T10:56:18Z · HTTP 200
 2026-11-19T11:30:29+00:00	Redundância fácil de configurar e escalar com o PK600 #shorts	https://www.youtube.com/shorts/UsgcnWfKs6I
 2026-11-18T14:49:30+00:00	OLT Fiberlink 40001 de Uma Porta: A Solução de Baixo Custo para Redes Internas #shorts	https://www.youtube.com/shorts/KxHCQMFfjQM
 2026-11-18T11:09:21+00:00	TR-369 conecta sensores com privacidade #shorts	https://www.youtube.com/shorts/2qLkUhQsb_I

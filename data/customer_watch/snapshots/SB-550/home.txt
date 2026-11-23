@@ -1,4 +1,4 @@
-# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 notebooks, PC components, harddrives and electronic at reichelt
 Please choose your location:
 Austria
@@ -323,14 +323,14 @@ Electromobility without compromise
 with NRGkicks intelligent and mobile charging solutions.
 Durable and energy-efficient solutions
 pneumatic and electric drive systems.
-EFB
-the leading network specialist for structured IT infrastructure.
-Small modules, big possibilities.
-With M5Stack, IoT projects and smart control systems can be implemented easily and flexibly.
 The heart of every efficient NAS environment
 Specifically designed for 24/7 performance and reliability.
 Approved Reseller
 The compact all-rounder with countless application possibilities. From HD media players and multimedia PCs to home automation and a wide variety of DIY projects.
+EFB
+the leading network specialist for structured IT infrastructure.
+Small modules, big possibilities.
+With M5Stack, IoT projects and smart control systems can be implemented easily and flexibly.
 Magazine
 Bringing Fibre into the Home: The Optical Termination Point as a Key Component
 Read now ►

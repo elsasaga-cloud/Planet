@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -423,69 +423,61 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-LRS-450 Fonte CA/CC 450 Watts Alta Eficiência MeanWell
-A partir de
-R$ 520,82
+-50%
+Fonte de Alimentação Chaveada Industrial para Trilho DIN 24W, 12V - LRI-PS2412
+R$ 165,00
+R$ 82,50
 R$
-505 , 20
-à vista
-com desconto Pix - Vindi
-Ver opções
-Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Monomodo SC 20km - LRI-MC-1G1SM20
-R$ 375,00
-R$
-363 , 75
+80 , 03
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
-R$ 396,00
+Switch Ethernet não Gerenciável 5 Portas Gigabit com PoE, Trilho DIN LRI-SWI-5GP
+R$ 549,00
 R$
-384 , 12
+532 , 53
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-MDR-60, Fonte CA/CC 60W, Compatível com Trilho DIN MeanWell
-R$ 205,66
+LRI-CON-7520A Conversor Industrial Isolado RS-232 para RS-485/RS-422
+R$ 549,00
 R$
-199 , 49
+532 , 53
+à vista
+com desconto Pix - Vindi
+Comprar
+Ver ficha técnica
+MDR-10 Fonte CA/CC 10 Watts Trilho DIN Compacta para Automação Industrial MeanWell
+R$ 120,83
+R$
+117 , 21
 à vista
 com desconto Pix - Vindi
 Ver opções
 Lançamentos
-Sensor Magnético de Porta TSD800
+1-Wire Sensor de Pressão Barométrica TSP200
 Sob consulta
 Saiba mais
 Pedir cotação
-Módulo de Entrada 60V TSA202-60
+1-Wire Transmissor PT100 TST200
 Sob consulta
 Saiba mais
 Pedir cotação
-Módulo de Monitoramento de Energia TCW260
-R$ 3.703,08
+Módulo de Monitoramento IP Watchdog TCW122B-WD
+R$ 1.348,47
 R$
-3.591 , 99
+1.308 , 02
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Transdutor de Tensão CA/CC com Interface MODBUS RTU TSV300
+1-Wire Sensor de Umidade e Temperatura TSH202
 Sob consulta
 Saiba mais
 Pedir cotação
 Depoimentos
-Nome: Djalma Filho
-Avaliação: Positivo
-Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
-Comentado em: 09/01/2024
-LRI Automação Industrial
-Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
-Written by: Djalma Filho
-LRI Automação Industrial
-1 / 1 stars
-1255
 Nome: Manoel
 Avaliação: Positivo
 Depoimento: Atendimento/entrega rápida e eficiente
@@ -496,6 +488,16 @@ Written by: Manoel
 LRI Automação Industrial
 1 / 1 stars
 1200
+Nome: Djalma Filho
+Avaliação: Positivo
+Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
+Comentado em: 09/01/2024
+LRI Automação Industrial
+Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
+Written by: Djalma Filho
+LRI Automação Industrial
+1 / 1 stars
+1255
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -542,5 +544,5 @@ Sfera Labs
 Ebyte
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.069 secs - 22-11-2026  - node: commerce-web5-bot-lw - store
+Load time: 1.515 secs - 23-11-2026  - node: commerce-web4-tiny-lw - store
 ×

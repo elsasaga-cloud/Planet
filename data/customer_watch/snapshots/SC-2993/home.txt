@@ -1,4 +1,4 @@
-# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Cables N More
 Create Account
 Log in
@@ -380,5 +380,6 @@ Copyright © 2026 Cables N More™. All rights reserved.
 Your Privacy Choices
 We use cookies and similar technologies for analytics and advertising. Check the box below to opt out of the sale or sharing of your personal information and non-essential tracking on this site.
 Do not sell or share my personal information
+Your browser is sending a Global Privacy Control signal, so you are already opted out on this device. Turn that setting off if you want to change this choice here.
 Cancel
 Save

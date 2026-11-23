@@ -1,18 +1,8 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-22T09:57:04Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-23T10:56:18Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
-Intruder
-Video
-IT & Network
-Intercom
-Perimeter
-Access control
-Fire
-Power Supplies & Batteries
-Cable & Installation
 Menu
 Products
-Categories
 Our brands
 2N
 acre
@@ -111,6 +101,7 @@ STI
 STid
 Tecnovideo
 Tedee
+Tele2 IoT
 Thermocable
 TVT
 Uhlmann & Zacher
@@ -159,6 +150,7 @@ Prodatec
 Pulsar
 RISCO
 Sensomag
+Tele2 IoT
 UTC-Carrier
 Venitem
 Yuasa
@@ -344,6 +336,7 @@ Seagate
 SeeEyes
 SEWOSY
 Tecnovideo
+Tele2 IoT
 TVT
 VDL Masten
 Veracity
@@ -454,6 +447,7 @@ Iiyama
 Neomounts
 Netgear
 Seagate
+Tele2 IoT
 TVT
 Western Digital
 Wi-Tek
@@ -630,6 +624,7 @@ Hanwha
 Hikvision
 Mobotix
 Paxton
+Tele2 IoT
 TVT
 Door stations
 2N
@@ -688,6 +683,7 @@ IQsight
 Optex
 Politec
 Prodatec
+Tele2 IoT
 TVT
 Controllers
 GJD
@@ -732,6 +728,7 @@ SEWOSY
 Snelpas
 STid
 Tedee
+Tele2 IoT
 Vauban Systems
 Controllers
 acre
@@ -870,6 +867,7 @@ RWA
 Sensomag
 SEWOSY
 STI
+Tele2 IoT
 Thermocable
 X-Sense
 Panels
@@ -1149,6 +1147,27 @@ Pulsar
 SeeEyes
 STid
 Veracity
+Brands
+Our brands
+Intruder
+Video
+IT & Network
+Intercom
+Perimeter
+Access control
+Fire
+Power Supplies & Batteries
+Cable & Installation
+Catalogue
+Intruder
+Video
+IT & Network
+Intercom
+Perimeter
+Access control
+Fire
+Power Supplies & Batteries
+Cable & Installation
 New
 Trainingen
 Training
@@ -1316,8 +1335,8 @@ SmartSD is a distributor of camera security, access control, and intrusion and f
 SmartSD employs more than 110 security professionals and represents more than 70 A-brands.
 Battery price list
 Price list with technical information about batteries
-Sales Managers
-Who are our Sales Managers and in which areas are they working? Here an overview.
+Contact us
+Do you have a question, need advice, or are you looking for the right contact person? Our team will be happy to help. View our contact details and find the SmartSD office for your region.
 SmartSD Management
 Our company is shaped by the people who work here, they ultimately make all the difference.
 Ordered today delivered tomorrow Support you can count on SmartSD app
@@ -1339,14 +1358,4 @@ E info@smartsd.com
 France - T +33160914249
 E info@smartsd.fr
 Contact and Our stores
-Overview of our branches and contact form
-About SmartSD
-Management
-Jobs
-Terms of sale
-Netherlands - SmartSD BV (NL)
-BeLux - SmartSD NV/SA (NL)
-BeLux - SmartSD NV/SA (FR)
-France - SmartSD SARL (FR)
-Spain - SmartSD SL (ES)
-© 2026 SmartSD
+Overview of

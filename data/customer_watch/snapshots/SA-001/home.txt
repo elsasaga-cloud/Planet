@@ -1,4 +1,4 @@
-# SA-001 Astel Digicom Electronics LLC（迪拜 Deira 卫星市场，线缆/光纤/FTTH 批发） · home · https://asteldigicom.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SA-001 Astel Digicom Electronics LLC（迪拜 Deira 卫星市场，线缆/光纤/FTTH 批发） · home · https://asteldigicom.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Astel Digicom I House of all kinds of cables and connectors
 The store will not work correctly when cookies are disabled.
 X
@@ -45,7 +45,7 @@ IPTV & Digital HE Encoders and Modulators
 Cables All products
 Cable Pulling and Duct Rod
 Coaxial Cables RG59 Series
-Coaxial Cables RG6 Series
+RG6 Coaxial Cables
 Coaxial Cables RG11 and RG500 Series
 Coaxial Cables for GSM, Wireless & VSAT
 Flexible Feeder Cables 50 ohms
@@ -83,7 +83,7 @@ Media Converter Video to Fiber V2F
 Fiber optic SFP Modules
 Fiber optic Patch Cords and Pig Tails
 Fiber optic Connectors Adapters Attenuators
-Patch Panels, ODF, Splice Enclosures
+Fiber Optic Patch Panels, ODF & Splice Enclosures
 Fiber optic Cable Pulling and Installation
 Networking & Telecom All products
 Telecom Cables
@@ -103,7 +103,7 @@ Compression Tools
 Punch Down Tools
 Solar Energy All Products
 Solar Panels
-Solar Invertors
+Solar Inverters
 Solar Cables
 ESS-Energy Storage Systems
 Contact Us
@@ -112,14 +112,14 @@ WORLDWIDE DELIVERY
 ONE STOP SHOP
 FREE TECHNICAL SUPPORT
 New Products
+Deye 80kW Three-Phase High-Voltage Hybrid Solar Inverter
 Deye Off Grid Single Phase LV 6.6 KW
 Deye 125kW Three-Phase High Voltage Hybrid Solar Inverter
 Deye 12kW Single-Phase Hybrid Solar Inverter
-Deye 80kW Three-Phase High-Voltage Hybrid Solar Inverter
+Deye SE-F12 ESS 12kWh LV LiFePO4 Battery
 Deye BOS-B Pro-C&I ESS Solution HV 16.08kWh LiFePO4 Battery
 Deye SE-F5 Plus 5kWh LV LiFePO4 Battery
 Deye ESS 16kWh LV LiFePO4 Battery
-Inverex Solar Air Conditioner with Built-in Solar MPPT Inverter
 Best Sellers
 Video to Fiber Converter 4V1D 5MP
 HOT

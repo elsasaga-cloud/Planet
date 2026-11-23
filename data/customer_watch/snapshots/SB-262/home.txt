@@ -1,4 +1,4 @@
-# SB-262 Software Effect Enterprises, Inc · home · https://www.seei.biz/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-262 Software Effect Enterprises, Inc · home · https://www.seei.biz/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Software Effect Enterprises, Inc
 ↓
 Search for:
@@ -10,11 +10,11 @@ If you have an idea for a tool that could help you in the operation of your netw
 Search for:
 Let's Encrypt
 Recent Posts
+Juniper SRX and EX Switch Routing Engine Temperature
 Set Linux CPU Speed
 Configure BIND to prefer IPv4 without disabling IPv6
 GrapheneOS / Pixel 9a – screen turning on every time you move phone
 Calculate power from falling water
-Steps to Enable Pop-Ups in Brave Browser
 Categories
 3d Printer
 Active Directory
@@ -35,6 +35,7 @@ Debian
 Dell
 DHCP
 Encryption
+EX3300
 fail2ban
 Fedora
 Fedora 31

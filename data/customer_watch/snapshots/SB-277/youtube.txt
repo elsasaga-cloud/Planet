@@ -1,4 +1,5 @@
-# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-23T10:56:18Z · HTTP 200
+2026-11-23T08:00:18+00:00	RouterOS 7.25 en español: seguridad en bridge, VTI para IPsec y cliente SSH	https://www.youtube.com/watch?v=eanoKkMnRkY
 2026-11-16T08:00:36+00:00	RouterOS 7.24: VRF por hardware, LLDP PoE, Preamble Puncturing y más | MikroTik en español	https://www.youtube.com/watch?v=I25nOuhVvrM
 2026-11-13T19:52:12+00:00	Webinar Grandstream | Control de accesos y videoporteros IP: GDS372X, UCM y GDMS	https://www.youtube.com/watch?v=1gPNlXYNMfU
 2026-11-12T07:45:22+00:00	Grandstream GRP2600 Lite: teléfonos IP esenciales | Instant Byte	https://www.youtube.com/watch?v=gzusSmRngik
@@ -13,4 +14,3 @@
 2026-10-07T16:00:07+00:00	¿Tienes un proyecto Wireless Enterprise? Expertos en Instant Byte #Shorts	https://www.youtube.com/shorts/rl6BpwaMCbo
 2026-09-24T10:32:26+00:00	Webinar Grandstream: Novedades y Lanzamientos 2026	https://www.youtube.com/watch?v=DPmGsL-wVmQ
 2026-09-09T20:37:25+00:00	NETGEAR Pro AV: la red detrás del AV sobre IP	https://www.youtube.com/shorts/VNjCO1swv_4
-2026-09-07T16:56:20+00:00	SolidRACK 5 Mini de MikroTik: rack compacto de 10 pulgadas y 5U #Shorts	https://www.youtube.com/shorts/_FEQJjuOo9s

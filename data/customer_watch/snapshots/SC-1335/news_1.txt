@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1335 discomp.cz · news_1 · https://www.discomp.cz/default.asp?cls=stoitems&catalog=scategory&status=1&setstiordercook=stic_desc · fetched 2026-11-23T10:56:18Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -114,6 +114,34 @@ Most expensive
 Bestsellers
 Latest
 141 items
+Ubiquiti Industrial DIN 8
+USW-Industrial-DIN-8
+268.86 EUR excl. VAT
+325.39 EUR incl. VAT
+Add to cart
+stiqtyfree:0
+_17:
+avail:0
+infocode: avail
+queu:
+shipmin:
+Not in stock
+Product description prepares.
+New product
+Ubiquiti Industrial DIN 8 PoE
+USW-Industrial-DIN-8-PoE
+317.00 EUR excl. VAT
+383.64 EUR incl. VAT
+Add to cart
+stiqtyfree:0
+_17:
+avail:0
+infocode: avail
+queu:
+shipmin:
+Not in stock
+Product description prepares.
+New product
 Ubiquiti 1G Bidirectional Single-Mode Optical Module Industrial
 UACC-OM-SM-1G-S-I-2
 29.38 EUR excl. VAT
@@ -380,20 +408,6 @@ shipmin: 20.12.2026
 Expected 20.12.2026
 The Ubiquiti UACC-LR-Endpoint is an outdoor endpoint with an IPX5 rating designed to extend data and PoE connectivity up to 800m when used with a UniFi long-range switch and a suitable cable. It is equipped with (2) 10/100Mbps
 New product
-Ubiquiti USW-LR-Switch-8-PoE, UniFi long-range PoE switch
-USW-LR-Switch-8-PoE
-237.47 EUR excl. VAT
-287.41 EUR incl. VAT
-Add to cart
-stiqtyfree:0
-_17:
-avail:0
-infocode: avail
-queu:
-shipmin: 20.12.2026
-Expected 20.12.2026
-The Ubiquiti USW-LR-Switch-8-PoE is a UniFi PoE switch with a switching capacity of 3.6Gbps, (8) 10/100Mbps PoE+++ ports, (1) 1Gbps SFP/RJ45 combo uplink and a total PoE budget of up to 630W. When used in combination
-New product
 UNV IP bullet hybrid camera IPC2124LB-AF28K-DL2, 4MP, 2.8mm, LED/IR 30m, Easy
 IPC2124LB-AF28K-DL2
 Price after login
@@ -462,4 +476,5 @@ New product
 UNV IP turret hybrid camera IPC3634LE-ADZK-DL3, 4MP, 2.8-12mm, LED/IR 50m, Easy
 IPC3634LE-ADZK-DL3
 Price after login
-Lo
+Login
+stiqtyfree:

@@ -1,5 +1,5 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-22T09:57:04Z · HTTP 200
-20.11.2026 10:40:48	Outlet Switch Horisontal	https://www.alcadon.no/austin-hughes/iats-8xc13-plus-2xc19/outlet-switch-horisontal-8xc13-plus-2xc19-16a-m-2x3m-ledning-c20
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-23T10:56:18Z · HTTP 200
+20.11.2026 10:40:48	Outlet Switch & Metered Horisontal	https://www.alcadon.no/austin-hughes/iats-8xc13-plus-2xc19/outlet-switch-horisontal-8xc13-plus-2xc19-16a-m-2x3m-ledning-c20
 20.11.2026 08:37:36	AH IPDU Vertikal Switched+Monitored, S	https://www.alcadon.no/austin-hughes/ipdu20xc13-plus-4xc19-zsi/ah-ipdu-vertikal-switched-plus-monitored-s-20xc13-plus-4xc19-16a-230v-1-fas-iec60309-3m
 18.11.2026 10:04:43	NTT OPTIPOP RS-1 refillbånd, 6 stk/pk	https://www.alcadon.no/ntt-at/atc-rs-01/ntt-optipop-rs-1-refillb%c3%a5nd-6-stk-pk-for-optipop-1-2-3-og-4
 18.11.2026 09:30:37	NTT OPTIPOP R2 Two-slot type SC, LC	https://www.alcadon.no/ntt-at/atc-re-02/ntt-optipop-r2-two-slot-type-sc-lc--gt-400-click-single-connector
@@ -71,4 +71,4 @@
 18.08.2026 09:25:10	AH IPDU Vertikal Switched+Monitored, Rød	https://www.alcadon.no/austin-hughes/vp18l13-6l19-en-3t-3/ah-ipdu-vertikal-switched-plus-monitored-r%c3%b8d-18xc13-plus-6xc19-16a-400v-3-fas-iec60309-3m
 13.08.2026 10:30:55	Festebånd med borrelås, 10mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-10-22-dot-5-wh/festeb%c3%a5nd-med-borrel%c3%a5s-10mm-22-5m-hvit-kappes-etter-eget-%c3%b8nske
 13.08.2026 10:27:34	Festebånd med borrelås, 10mm/22,5m Svart	https://www.alcadon.no/velcro/kbbr-10-22-dot-5-bk/festeb%c3%a5nd-med-borrel%c3%a5s-10mm-22-5m-svart-kappes-etter-eget-%c3%b8nske
-13.08.2026 10:23:47	Festebånd med borrelås, 20mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-wh/festeb%c3%
+13.08.2026 10:23:47	Festebånd med borrelås, 20mm/22,5m Hvit	https://www.alcadon.no/velcro/kbbr-20-22-dot-5-wh/

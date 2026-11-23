@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Omni Ray AG | Ihr Automationspartner | E-Shop | Top Preise
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -129,6 +129,9 @@ Bestellstatus im Blick und Favoriten speichern.
 Sparen Sie Zeit dank schnellerer Checkout.
 Jetzt anmelden
 Produkt-News
+Temposonics® G-Serie V GT5: Redundante Positionssensoren für sicherheitskritische Anwendungen
+Die Temposonics G-Serie V GT5 bietet doppelte oder dreifache Redundanz, einfache Migration und komfortable Diagnose für sicherheitskritische Anwendungen.
+23.11.2026
 RSK-3200: Kontaktloser Winkelsensor für anspruchsvolle Anwendungen
 Der RSK-3200 von Novotechnik ermöglicht kontaktlose Winkelmessungen bis 360°. Robust, redundant und für mobile Maschinen geeignet.
 20.11.2026
@@ -144,9 +147,6 @@ Die industrielle Firewall Moxa EDF-G1002-BP bietet hier eine wirkungsvolle Lösu
 Industrielle Netzwerke wirksam schützen mit dem Secure Router EDR-G9004 von Moxa
 Die industriellen Secure Router Moxa EDR-G9004 bieten eine wirkungsvolle Lösung, um Netzwerke gezielt abzusichern. Durch die Netzwerksegmentierung werden unterschiedliche Anlagenteile und Sicherheitszonen voneinander getrennt.
 09.11.2026
-Sichere SHDSL-Verbindungen mit XSLAN-Extendern von Etic Telecom
-Die XSLAN-Produktfamilie von Etic Telecom ermöglicht die zuverlässige Vernetzung dezentraler Ethernet-Netzwerke über bestehende zweiadrige Kupferleitungen. Damit können Betreiber industrieller Anlagen und Kritischer Infrastrukturen ihre vorhandene Leitung
-06.11.2026
 Previous slide
 Next slide
 Marken
@@ -478,4 +478,7 @@ Ventile
 Zonenventile
 Zubehör
 Stellantriebe
-Ventilstella
+Ventilstellantriebe
+Thermischer Stellantrieb
+Elektromechanische Stellantriebe
+Zubehö

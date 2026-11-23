@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -582,14 +582,13 @@ Předchozí nejnižší cena: 503,36 Kč
 419,90 Kč bez DPH
 Zobrazit všechny
 V posledním zpravodaji
-Čína uvedla do provozu nejvýše položenou solární elektrárnu na světě.
-V Tibetu, v nadmořské výšce přibližně 4 300 m n. m., byl uveden do provozu první blok solární elektrárny vybavený systémem pro akumulaci tepelné energie. 6. listopadu 2026 byla elektrárna poprvé připojena k elektrické síti a stala se tak nejvýše položeným zařízením tohoto typu na světě. Investice realizovaná společností China General Nuclear Power Group (CGN) se nachází v okrese Gar, v západní části Tibetské náhorní plošiny....
+Tapeta, která vyrábí elektřinu z vlhkosti ve vzduchu.
+Vědci z Binghamtonské univerzity ve Spojených státech vyvinuli inovativní tapetu, která dokáže přeměňovat vlhkost obsaženou ve vzduchu na elektřinu. Tato technologie využívá malé generátory elektrické energie z vlhkosti vzduchu (MEG – Moisture Electric Generators), které pohlcují molekuly vody z okolí, čímž vyvolávají pohyb iontů a vznik rozdílu elektrických potenciálů. Toto nové řešení může v budoucnu představovat dodatečný zdroj napájení pro malá elektronická zařízení používaná v inteligentní...
 Pokračovat ve čtení
-Řada kabelů typu Tri-shield značky TRISET-302.
-Řada kabelů značky TRISET-302 představuje sérii vysoce kvalitních koaxiálních kabelů typu RG-6 , určených pro přenos televizních signálů DVB-T2 a satelitních signálů DVB-S/S2. Vyznačují se nízkým útlumem, vysokou odolností proti rušení a robustní konstrukcí, díky čemuž jsou ideální volbou pro malé domácí instalace i profesionální kolektivní instalace. Jedná se o kabely typu Tri-Shield s třídou stínění A+ a měděným jádrem o ...
+Jaký zesilovač zvolit pro televizní antény typu „combo“?
+V případě televizních antén typu combo , které umožňují příjem signálů v pásmech UHF a VHF, se doporučuje používat zesilovače s nezávislým nastavením zesílení pro oba frekvenční rozsahy. To je obzvláště důležité, protože úroveň signálu přijímaného jednotlivými částmi antény se může výrazně lišit. Nezávislé nastavení umožňuje odpovídajícím způsobem přizpůsobit zesílení UHF a VHF pásma, aniž by došlo k zbytečnému zesílení silnějšíh...
 Pokračovat ve čtení
-Vandalodolná vchodová stanice v systému IP videotelefonů Hikvision.
-Jednouživatelská vchodová stanice systému IP Villa DS-KB8113-IME1 G73619 v vandalodolném provedení (IK09) představuje vynikající řešení pro instalaci v místech ohrožených vandalismem. Stanice je vybavena barevnou kamerou s rozlišením 2 Mpix a širokými úhly záběru (88° (H) / 45° (V)), která spolu s infračerveným osvětlením IR s dosahem až 3 m zajišťuje správný dohled po celý den. Panel disponuje 1 alarmovým vstupem a 1 reléovým výstupem (bez možnosti rozšíření), určenými k otevírání branky. Ve...
+Je možné ovládat více než dvě brány v IP videotelefonním systému Hikvision pomocí jedné bránové stanice?
+Bránové stanice IP/2-Wire videotelefonního systému Hikvision mají v závislosti na modelu maximálně dva reléové výstupy určené k ovládání boční branky a vjezdové brány. K bránovým stanicím lze sice připojit přídavný řídicí modul DS-K2M061 G77253 přes sběrnici RS-485, tento modul však slouží k nahrazení druhého reléového výstupu v bránové stanici za účelem zvýšení bezpečnosti otevírání, nikoli k přidání dalšího výstupu. Řešením tohoto problému může být využití reléových výstupů na monitoru videot...
 Pokračovat ve čtení
-Barvy adaptérů v optických instalacích.
-Optický adaptér je plastový konektor typu zásuvka-zásuvka, který umožňuje 
+HiTo

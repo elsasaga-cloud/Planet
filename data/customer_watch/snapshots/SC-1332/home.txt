@@ -1,18 +1,18 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Outdoor Access Points
 Fibre Networking
+Outdoor Access Points
 Audio Visual
 Switching
 Power & UPS
@@ -31,15 +31,15 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Outdoor Access Points
 Fibre Networking
+Outdoor Access Points
 Audio Visual
 Switching
 Power & UPS
@@ -293,10 +293,10 @@ Tenda xPON Fibre Products 2 products
 Tenda WiFi USB Adapters 2 products
 Tenda Switches 7 products
 Shop All Tenda Products
-Ubiquiti UniFi Integrations 0 products
 Ubiquiti UniFi Protect 3 products
 Ubiquiti UniFi Access 0 products
 Ubiquiti UniFi SuperLink 0 products
+Ubiquiti UniFi Integrations 0 products
 Ubiquiti UniFi Access Points 16 products
 Ubiquiti UniFi Switches 25 products
 Ubiquiti UniFi Gateways 9 products
@@ -308,9 +308,9 @@ Ubiquiti UISP Fibre 11 products
 Ubiquiti PoE injectors 6 products
 Ubiquiti Accessories 1 products
 Shop All Ubiquiti Products
+Miscellaneous Tools 2 products
 Screwdrivers & Tool Sets 7 products
 Ratchet Sets 3 products
-Miscellaneous Tools 2 products
 Shop All UF-Tools Products
 UltraLAN Antennas 5 products
 UltraLAN Brackets 10 products

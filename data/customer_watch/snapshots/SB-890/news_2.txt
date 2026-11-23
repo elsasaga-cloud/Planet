@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Blog
 Destek
 Teknik Destek Talep Formu
@@ -72,7 +72,7 @@ Blog
 Anasayfa
 Blog
 Mini PC Nedir? Kurumsal Kullanım Avantajları ve 2026 Rehberi
-Mini PC nedir? Kurumsal kullanım için mini PC avantajları, kullanım alanları ve 2026 mini PC trendlerini detaylı şekilde inceleyin.
+Mini PC seçimi için donanım, enerji tüketimi ve kurumsal kullanım rehberi.
 Devamını Oku
 Teknik Destek
 Telefon:
@@ -407,14 +407,14 @@ Mustafa Kemal Mah. 2140. Sk. Gökçen Life Plaza A Blok Daire:2, No:17, 06510 Ç
 [email protected]
 29/2 Niyazbek Road ,Yunusabod, Tashkent, Uzbekistan
 AI Workstation
-NVIDIA DGX Spark GB10
-NVIDIA N1X RTX Spark
-NVIDIA DGX Spark
 NVIDIA DGX Station GB300
 Technopc Pro Workstation WSTW3XW9W7D5
-Technopc Neuralzone İş İstasyonu
+NVIDIA DGX Spark GB10
+NVIDIA DGX Spark
+NVIDIA N1X RTX Spark
 Technopc Epiczone İş İstasyonu
 Technopc Powerzone İş İstasyonu
+Technopc Neuralzone İş İstasyonu
 AI Server
 AI GPU Server
 AI Workstation Notebook
@@ -423,18 +423,18 @@ Technopc AI Endüstriyel Notebook TPN14AW
 Technopc AI Endüstriyel PC TPCAI-50SB
 AI Medikal Endüstriyel PC
 Profesyonel Ekran Kartları
-NVIDIA RTX 6000 Ada Generation
 NVIDIA RTX PRO 5000 Blackwell
-NVIDIA RTX A5000
-NVIDIA® RTX™ A4500
+NVIDIA RTX 6000 Ada Generation
 NVIDIA RTX PRO 4000 Blackwell
+NVIDIA RTX A5000
+NVIDIA RTX A4500
 NVIDIA RTX A4000
-NVIDIA DGX GB200
 NVIDIA RTX 2000 Ada Generation
-NVIDIA A2 Tensor Core GPU
 NVIDIA H200 Tensor Core GPU
-NVIDIA A30 Tensor Core GPU
 NVIDIA A30X Tensor Core GPU
+NVIDIA A30 Tensor Core GPU
+NVIDIA A2 Tensor Core GPU
+NVIDIA DGX GB200
 İstanbul Genel Müdürlüğü
 +90 216 329 39 99
 [email protected]
@@ -489,4 +489,6 @@ Medikal El Terminali
 Özel Sipariş Ürünleri Kurumsal Ürünler
 Endüstriyel Ürünler
 Yapay Zeka (AI) Donanım Çözümleri AI Workstation
-AI Se
+AI Server AI GPU Server
+AI Workstation Notebook
+AI Endüstriyel Ü

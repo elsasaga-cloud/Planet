@@ -1,2 +1,6 @@
-# SC-2609 partizanstore.eu · sitemap · https://www.partizanstore.eu/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
-
+# SC-2609 partizanstore.eu · sitemap · https://www.partizanstore.eu/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 403
+Access temporarily blocked
+has been temporarily blocked because of suspicious activity that looked like an attack. The block will be lifted automatically within a few hours.
+If you think this is a mistake, please contact support at info@shoptet.cz and include the details below.
+Details for support :
+IP 3.42.157.114 · ·

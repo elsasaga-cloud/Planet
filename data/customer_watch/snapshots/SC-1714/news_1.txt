@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · news_1 · https://www.omniray.ch:443/news-1 · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1714 omniray.ch · news_1 · https://www.omniray.ch:443/news-1 · fetched 2026-11-23T10:56:18Z · HTTP 200
 Omni Ray AG | Informieren Sie sich über die neusten Produktenews
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -175,6 +175,9 @@ Mitsubishi Electric hat Cybersecurity bereits seit vielen Jahren als festen Best
 Previous slide
 Next slide
 Sensorik
+Temposonics® G-Serie V GT5: Redundante Positionssensoren für sicherheitskritische Anwendungen
+Die Temposonics G-Serie V GT5 bietet doppelte oder dreifache Redundanz, einfache Migration und komfortable Diagnose für sicherheitskritische Anwendungen.
+23.11.2026
 RSK-3200: Kontaktloser Winkelsensor für anspruchsvolle Anwendungen
 Der RSK-3200 von Novotechnik ermöglicht kontaktlose Winkelmessungen bis 360°. Robust, redundant und für mobile Maschinen geeignet.
 20.11.2026
@@ -190,9 +193,6 @@ Die Serie CMIX3 ist ein magnetisches Messsystem für lineare und rotative Anwend
 di-soric CS-52: Flexible Vision Sensoren für unterschiedlichste Anforderungen
 Er überzeugt mit einer hohen Auflösung von bis zu 3,2 Megapixeln und erstklassigen Bildverarbeitung mit der nahtlos skalierbaren Software nVision-i auf Smart Kamera-Niveau.
 13.08.2026
-Fusspedale von FSG Fernsteuergeräte
-Bediengeräte von FSG haben sich in vielen Industriebranchen etabliert, das gilt auch für die Fußpedale. Ihre Varianten sind so vielfältig wie ihre Einsatzgebiete
-05.08.2026
 Previous slide
 Next slide
 Elektromechanik
@@ -274,6 +274,4 @@ Bildverarbeitungs- und Identifikationssensoren
 Sensoren diverses
 Elektromechanik
 Beleuchtungen
-Lüften / Kühlen
-Verbindungstechnik
-Leiterplatten-Steckverbind
+Lüften / Kü

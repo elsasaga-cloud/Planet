@@ -1,4 +1,4 @@
-# XC-M095 GOMA ELETTRONICA SpA · news_1 · https://www.goma.it/it/insight · fetched 2026-11-22T09:57:04Z · HTTP 200
+# XC-M095 GOMA ELETTRONICA SpA · news_1 · https://www.goma.it/it/insight · fetched 2026-11-23T10:56:18Z · HTTP 200
 Approfondimenti tecnici: norme, architetture, progettazione | GOMA
 +39 011 7725024 info@goma.it
 Contatti Supporto Richiesta RMA Lavora con noi IT | EN
@@ -35,7 +35,7 @@ Quattro sigle che nei capitolati stanno spesso sulla stessa riga e rispondono a 
 Leggi l'approfondimento →
 Dove il discorso continua
 Gli approfondimenti attraversano il catalogo. Le due sezioni che lo percorrono per intero sono le guide per architettura e le pagine di mercato: stessa disciplina, perimetro diverso.
-19 guide
+18 guide
 Le guide per architettura
 Storia dello standard, enti che lo governano, perimetro di catalogo: una guida per famiglia.
 Vai alla sezione →

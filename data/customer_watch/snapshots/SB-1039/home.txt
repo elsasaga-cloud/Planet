@@ -1,4 +1,4 @@
-# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-1039 ico.de · home · https://www.ico.de/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 ICO Innovative Computer GmbH- Server, Storage, Industrie-PC, Panel PCs, Embeddedsysteme, Barcodescanner, Kassensysteme, PC-Systeme
 Cookies & Datenschutz
 Um die ordnungsgemäße Funktion unserer Website sicherzustellen (z. B. Warenkorb, Merkzettel und Kundenkonto), verwenden wir Cookies (Notwendig).
@@ -255,6 +255,9 @@ Wincomm
 Winmate
 Zebra
 News
+Holz, Metall und KI: Zwei Workstations zum individuellen Konfigurieren
+Eine Front mit Echtholzlamellen, ein schwarzes Metallgehäuse und dahinter Rechenleistung für KI-Anwendungen: Die TensorMaster K55W und K55T von ICO Innovative Computer GmbH verbinden eine...
+Mehr
 Industrieller Embedded-PC für KI-Anwendungen direkt an der Maschine
 KI-Anwendungen benötigen Rechenleistung und Zugang zu den Daten aus dem laufenden Betrieb. Der PicoSYS 5662 von ICO Innovative Computer GmbH verbindet dafür einen Intel Core i7 mit industriellen...
 Mehr
@@ -263,9 +266,6 @@ Stand: November 2026 Im Markt für IT Systeme ist derzeit eine deutlich erhöhte
 Mehr
 High-End-Embedded-PC mit dreimal 2,5-Gigabit-LAN und optionalem RAID 1
 ICO Innovative Computer GmbH bietet mit dem PicoSYS 3610-i5 einen Embedded-PC für industrielle Steuerungs- und Datenverarbeitungsaufgaben. Drei 2,5-Gigabit-LAN-Anschlüsse ermöglichen die...
-Mehr
-Industrielle Touch-Bedienung von 10,1 bis 23,8 Zoll
-Fünf neue Panel-PCs von ICO verbinden unterschiedliche Displayformate mit Intel Core i5- und Celeron-Prozessoren. Vom kompakten Maschinenbedienfeld bis zur großflächigen Prozessanzeige: Die ICO...
 Mehr
 Verpassen Sie nichts mehr!
 Abonnieren Sie unseren Newsletter und seien Sie immer informiert über neue Produkte und tolle Angebote. Unser Newsletter ist natürlich kostenlos und jederzeit kündbar.

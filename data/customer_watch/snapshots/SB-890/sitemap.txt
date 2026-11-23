@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · sitemap · https://technopc.com.tr/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-890 technopc.com.tr · sitemap · https://technopc.com.tr/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
 	https://technopc.com.tr/
 	https://technopc.com.tr/hakkimizda/
 	https://technopc.com.tr/kurumsal-urunler/
@@ -44,11 +44,11 @@
 	https://technopc.com.tr/arge-merkezi/
 	https://technopc.com.tr/kisisel-verilerin-korunmasi/
 	https://technopc.com.tr/sertifikalar/
-	https://technopc.com.tr/her-yil-60-milyondan-fazla-yolcu-iga-da-technopc-teknolojileriyle-bulusuyor/
-	https://technopc.com.tr/technopc-ile-dt-cloud-tan-stratejik-is-birligi-teknolojinin-yerli-uretim-gucu-bulut-altyapisi-ile-bulustu/
-	https://technopc.com.tr/technopc-x-innova-business-meet-up/
-	https://technopc.com.tr/turkiye-egitim-teknolojileri-zirvesi-ndeyiz/
-	https://technopc.com.tr/technopc-kamu-bilisim-zirvesi-nde-yerli-teknoloji-gucunu-sergiledi/
+	https://technopc.com.tr/technopc-iga-istanbul-havalimani/
+	https://technopc.com.tr/technopc-dt-cloud-is-birligi/
+	https://technopc.com.tr/technopc-innova-is-birligi-bulusmasi/
+	https://technopc.com.tr/technopc-tetz-stand-ziyaretleri/
+	https://technopc.com.tr/technopc-kamu-bilisim-zirvesi-yerli-teknoloji/
 	https://technopc.com.tr/donanim-cozumleri/
 	https://technopc.com.tr/selcuk-ecza-deposu/
 	https://technopc.com.tr/garanti-bbva-arac-ici-guvenlik-cozumu/
@@ -230,4 +230,6 @@
 	https://technopc.com.tr/technopc-medikal-md50/
 	https://technopc.com.tr/technopc-powerzone-is-istasyonu/
 	https://technopc.com.tr/technopc-epiczone-is-istasyonu/
-	https://technopc.com.tr/technopc
+	https://technopc.com.tr/technopc-ai-server-srv-g-serisi/
+	https://technopc.com.tr/technopc-ai-endustriyel-pc-tpcai-50sb/
+	https://technopc.com.tr/technopc-ai-endustriyel-notebook-tpn1

@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Systemy alarmowe i monitoringu CCTV | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -48,7 +48,7 @@ konfiguratory
 szkolenia
 zwroty
 Menu
-Już od ponad 20 lat razem z firmą Bosch Uniview - światowy lider monitoringu Zestawy czujek z wiertłami Bosch gratis Jesienne okazje Dahua Postaw na UPSy Armac w promocyjnej cenie Hikvision - Promocja listopad 2026 Dahua Promocja CCTV listopad 2026 Listopadowa promocja Uniview Optiva - listopadowe przeceny Texecom - wiodąca firma zabezpieczeń Promocja na centrale Ropam Niezawodna marka taniej w zestawach Nowość - Artykuły Elektryczne
+Już od ponad 20 lat razem z firmą Bosch Mega okazje na Black Week! Uniview - światowy lider monitoringu Zestawy czujek z wiertłami Bosch gratis Jesienne okazje Dahua Postaw na UPSy Armac w promocyjnej cenie Hikvision - Promocja listopad 2026 Dahua Promocja CCTV listopad 2026 Listopadowa promocja Uniview Optiva - listopadowe przeceny Texecom - wiodąca firma zabezpieczeń Promocja na centrale Ropam Niezawodna marka taniej w zestawach Nowość - Artykuły Elektryczne
 Systemy alarmowe i monitoringu CCTV
 W sklepie iVolta.pl znajdziesz bogatą ofertę rozwiązań z zakresu systemów alarmowych i monitoringu . Od 25 lat kreujemy rynek w Polsce, przez co proponujemy naszym Klientom najlepsze rozwiązania stosowane w systemach zabezpieczeń. Jesteśmy autoryzowanym dystrybutorem systemów alarmowych firmy Satel i systemów monitoringu Hikvision oraz Dahua - dzięki temu masz pewność, że sprzęt, który u nas znajdziesz spełni Twoje oczekiwania. Dostarczamy urządzenia do systemów telewizji przemysłowej CCTV, systemów sygnalizacji włamania i napadu SSWIN, systemów kontroli dostępu KD i systemów sygnalizacji pożaru SSP. Posiadamy szeroki asortyment produktów do systemów nagłośnieniowych i DSO.
 Współpracujemy z instalatorami, inwestorami oraz biurami projektowymi, aby dobierać systemy zabezpieczeń najlepiej dopasowane do Twoich potrzeb. Bogata oferta produktowa oraz rozbudowany magazyn gwarantują szeroki wybór rozwiązań z zakresu systemów alarmowych i monitoringu. Zapewnimy Ci również doradztwo oraz pomoc w zakupach. Nasz zespół to ponad 70 osób w centrali firmy w Warszawie oraz 10 oddziałach regionalnych, dbających o wysoki poziom obsługi na terenie całej Polski. Bezstresowy zwrot zakupionego towaru w ciągu 14 dni oraz własny dział serwisowy to gwarancja Twojej satysfakcji na każdym etapie realizacji zamówienia. Zapraszamy do zakupów.
@@ -58,21 +58,21 @@ Centrala pożarowa EN54 Fire Hub (8EU) PL BLACK AJAX
 3 665,40 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-CZUJKA POGODOWA DESZCZ-WIATR CDW-04 AFG
-1 168,50 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Kabel wielożyłowy, YTDY 6x05, 100m YTDY 6x05 MROWIEC
 152,52 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Centrala systemu BE WAVE, moduł komórkowy (2G/4G) HYBRID 128 Plus SATEL
+1 709,70 zł brutto
+Dostępność: Chwilowy brak
+Dodaj do koszyka
+Moduł interfejsu IO - 4 wejścia 2 wyjścia FLM-430-I4R2 BOSCH
+1 585,47 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Kurtynowa zew. czujka PIR wysokiego montażu do 4m TXI-ST OPTEX
 418,20 zł brutto
 Dostępność: Dostępny
-Dodaj do koszyka
-Bezprzewodowa dualna czujka ruchu z kamerą AOCAM-210 SET (Outdoor Motion Detector Cam SET) SATEL
-1 014,75 zł brutto
-Dostępność: Na zamówienie
 Dodaj do koszyka
 Moduł interfejsu IO - 2 wejścia 1 wyjście FLM-430-I2M1 BOSCH
 1 316,10 zł brutto
@@ -92,10 +92,6 @@ Szkolenie HCSA VIS Hikvision - Warszawa
 Sprawdź
 Promocje
 zobacz wszystkie
-Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
-613,77 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
 141,45 zł brutto
 Dostępność: Dostępny
@@ -104,8 +100,16 @@ Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
 1 665,42 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
+Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
+429,27 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 Wyprzedaże
 zobacz wszystkie
+Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
+1 105,77 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
 1 843,77 zł brutto
 Dostępność: Dostępny
@@ -114,34 +118,30 @@ Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
 5 535,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
-1 105,77 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 W zestawie taniej
 zobacz wszystkie
-Zestaw 10 x MC 440 ZZ_10x_MC 440 ALARMTECH
-412,05 zł brutto
+Zestaw 10 x MC 470 ZZ_10x_MC 470 ALARMTECH
+821,64 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Papier termoczuły do drukarek 112mm x 20m, 10 rolek ZZ_papier termiczny 112mm x 20m MEFA
-110,70 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Gotowy zestaw do monitoringu Tavio ZZTAVIO_38 TAVIO
-349,00 zł brutto
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_39 TAVIO
+509,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Gotowy zestaw do monitoringu Tavio ZZTAVIO_43 TAVIO
 1 279,00 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
-Zestaw wideodomofonowy jednorodzinny+ latarka ZZ_GUARDO_LT9 ORNO
-1 843,77 zł brutto
+ROP do obszarów zagrożonych eksplozją DM1103B-EX BOSCH
+836,40 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Radiolinia dwukanałowa TI-982 YOTOGI
-159,90 zł brutto
+Zestaw 2xZW600 i 5xAPWK ZZ_2xZW600_5xAPWK YOTOGI
+928,65 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_40 TAVIO
+509,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Zostań naszym
@@ -247,4 +247,5 @@ Masz prawo dostępu do Twoich danych osobowych i ich sprostowania, usunięcia lu
 Więcej informacji uzyskasz tutaj .
 * Pole obowiązkowe
 Informacja systemowa
-Niniejszym informujemy, iż pobranie faktury korygującej w formie elektronicznej przez Klienta poprzez kliknięcie w link "Tak potwierdzam", jest równoznaczne z potwierdzeniem przez Klienta otrzymania przedmiotowej faktury. Dziękujemy i zapraszamy do ewentualnego kontaktu pod numerem 22 295 06 
+Niniejszym informujemy, iż pobranie faktury korygującej w formie elektronicznej przez Klienta poprzez kliknięcie w link "Tak potwierdzam", jest równoznaczne z potwierdzeniem przez Klienta otrzymania przedmiotowej faktury. Dziękujemy i zapraszamy do ewentualnego kontaktu pod numerem 22 295 06 06.
+Nie zgadza

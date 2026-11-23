@@ -1,4 +1,4 @@
-# SB-452 espuk.com · news_2 · https://espuk.com/news-page?type=news · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-452 espuk.com · news_2 · https://espuk.com/news-page?type=news · fetched 2026-11-23T10:56:18Z · HTTP 200
 ESP | Latest News
 Scolmore Group Sites
 Click
@@ -147,9 +147,9 @@ Next
 Showing -
 1
 to
-10
+9
 of
-10
+9
 results
 Area Sales Manager - East Midlands
 Find out more
@@ -165,8 +165,6 @@ Technical Support Engineer
 Find out more
 Group Specification Manager - London
 Find out more
-Product Manager
-Find out more
 Area Sales Manager - South West
 Find out more
 Project Manager
@@ -177,9 +175,9 @@ Next
 Showing -
 1
 to
-10
+9
 of
-10
+9
 results
 Your trusted partner for innovative and advanced fire &
 security solutions, ensuring protection, peace of mind,

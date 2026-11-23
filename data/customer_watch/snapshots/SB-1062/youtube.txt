@@ -1,4 +1,6 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-23T10:56:18Z · HTTP 200
+2026-11-23T09:07:44+00:00	Odoo Insider - Questions-Réponses en français avec Louis	https://www.youtube.com/watch?v=LQwEoDraRZI
+2026-11-23T08:28:50+00:00	Working at Odoo: Careers, Teams & Life in Our Belgian Offices	https://www.youtube.com/watch?v=Bn7ZgsZ_SX4
 2026-11-21T00:00:19+00:00	From Silos to One Source of Truth: How KUCHT Gained Real-Time Visibility with Odoo	https://www.youtube.com/watch?v=N5TSIUYH0W4
 2026-11-20T14:30:29+00:00	Odoo Point of Sale: Android POS system device	https://www.youtube.com/watch?v=pSehp8HQYA0
 2026-11-20T12:24:17+00:00	Odoo Quick Tips - Save quotation sections as templates [Sales]	https://www.youtube.com/watch?v=3XdkroEM5sY
@@ -12,5 +14,3 @@
 2026-11-19T05:38:58+00:00	Mastering Real-Time Profitability with Odoo	https://www.youtube.com/watch?v=InEWB2SJLSk
 2026-11-19T04:51:08+00:00	Unify Multi-Company Operations on One ERP	https://www.youtube.com/watch?v=7i7bkcUoNoc
 2026-11-18T18:10:45+00:00	Webinar - Come il fotovoltaico cresce con dati e tecnologia	https://www.youtube.com/watch?v=vSFpgqcPkDg
-2026-11-18T15:56:29+00:00	Webinaire - Découvrez les nouvelles innovations qui révolutionnent les Ventes et Abonnements Odoo 20	https://www.youtube.com/watch?v=zAII2XM1cZ4
-2026-11-18T15:47:34+00:00	Webinar - What's new in Odoo 20: Contabilità	https://www.youtube.com/watch?v=ECoMCyT0rTk

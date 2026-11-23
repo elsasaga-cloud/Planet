@@ -1,4 +1,4 @@
-# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
 	https://iptime.com/
 	https://iptime.com/products
 	https://iptime.com/notices
@@ -21,7 +21,7 @@
 	https://iptime.com/store/dealer
 	https://iptime.com/products?cat=all
 	https://iptime.com/products?cat=nas
-2026-11-19T05:05:28.840Z	https://iptime.com/products?cat=cam
+2026-11-23T00:23:55.984Z	https://iptime.com/products?cat=cam
 2026-11-13T02:27:29.136Z	https://iptime.com/products?cat=router_be
 2026-11-12T07:26:45.619Z	https://iptime.com/products?cat=router_ax
 2026-11-12T07:27:02.627Z	https://iptime.com/products?cat=router_ac

@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -51,7 +51,7 @@ EDS-G512E Series 4
 EDS-P206A Series 0
 EDS-P500 Series 12
 ICS-G7000 Series 9
-IKS-6728A Series 22
+IKS-6700 Series 22
 MDS-G4000 Series 24
 PT-G7000 Series 8
 PWR (Power Modules) Series 0
@@ -67,7 +67,7 @@ TN-G4500 Series 0
 TN-G6500 Series 0
 Rackmount Ethernet Switches 228
 ICS-G7000A Series 26
-IKS-6700A Series 0
+IKS-6700 Series 0
 IKS-G6000A Series 12
 IM Module Series 0
 MDS-G4000 Series 0
@@ -536,4 +536,4 @@ DeviceNet Power Supply 2
 C-Series 0
 DC/DC Converter 12
 Power Supply with Integrated Decoupling Function 9
-
+DI

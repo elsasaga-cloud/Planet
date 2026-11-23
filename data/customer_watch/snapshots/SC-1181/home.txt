@@ -1,4 +1,4 @@
-# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1181 agendaage.hu · home · https://agendaage.hu/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Agenda-Age Kft. | A hálózatspecialista
 Belépés
 Regisztráció
@@ -59,6 +59,9 @@ Saját fiók Kosár Írjon nekünk! Nyitott ügyek Lezárt ügyek Kedvencek Fió
 Üdvözöljük webáruházunkban!
 Cégünk hálózatinformatikai nagykereskedés, ezért kizárólag jogi személyeket, szerződött viszonteladókat és hivatalos telepítőket áll módunkban kiszolgálni! Magánszemélyeket nem!
 Webáruházban történő rendelés leadásához előzetes regisztráció szükséges, melyet kollégáink ellenőriznek és hagynak jóvá!
+Kedves ügyfeleink!
+A futárszolgálatok túlterheltsége miatt sajnos nem tudjuk garantálni az egy munkanapos szállítást.
+Köszönjük türelmüket és megértésüket!
 Termékeink
 AKCIÓ
 HÁLÓZATI aktív eszközök
@@ -94,12 +97,3 @@ Lezárt ügyek
 Kedvencek
 Fiók adatok
 Információk
-Vásárlási feltételek
-Adatkezelési tájékoztató
-Házhoz szállítás
-Tanfolyamaink
-Partnereink
-Apower | Grandway
-EXW Magyarország
-Optical | Signalfire
-Noyafa | Z

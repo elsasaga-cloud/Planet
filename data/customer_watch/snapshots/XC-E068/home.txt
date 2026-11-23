@@ -1,5 +1,5 @@
-# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
-Infrastructure decisions start here - Vespertec Skip to content Skip to main content
+# XC-E068 Vesper Technologies Ltd. · home · https://vespertec.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+Vespertec – Infrastructure decisions start here Skip to content Skip to main content
 Products
 Services
 NVIDIA
@@ -123,7 +123,7 @@ info@vespertec.com
 LinkedIn
 Stay Updated
 Subscribe to our newsletter for the latest updates and insights.
-Phone
+Email
 This field is for validation purposes and should be left unchanged.
 Email Address (Required)
 Subscribe

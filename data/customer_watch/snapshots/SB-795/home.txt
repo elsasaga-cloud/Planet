@@ -1,9 +1,13 @@
-# SB-795 yachtgurus.us · home · https://yachtgurus.us/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-795 yachtgurus.us · home · https://yachtgurus.us/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Your local boat and yacht supplier.
 – Yacht Gurus, inc
 Skip to content
 Home
 Catalog
+Interior
+Decor
+Table Settings
+Uniforms
 News
 Contact Us
 Log in
@@ -728,6 +732,10 @@ USD
 $
 Home
 Catalog
+Interior
+Decor
+Table Settings
+Uniforms
 News
 Contact Us
 Country/region
@@ -1595,8 +1603,6 @@ Unit price
 /
 per
 Custom Branded Towels (Bath Sheet)
-Sold out
-Custom Branded Towels (Bath Sheet)
 Regular price
 $75.00 USD
 Regular price
@@ -1625,9 +1631,6 @@ $75.00 USD
 Unit price
 /
 per
-Sold out
-Custom Coasters
-Sold out
 Custom Coasters
 Regular price
 $3.50 USD
@@ -1637,9 +1640,8 @@ $3.50 USD
 Unit price
 /
 per
-Sold out
-Crystal & Porclean Cabinet Fixtures - Custom
-Sold out
+Decrease quantity for Default Title
+Increase quantity for Default Title
 Crystal & Porclean Cabinet Fixtures - Custom
 Regular price
 $50.00 USD
@@ -1649,9 +1651,10 @@ $50.00 USD
 Unit price
 /
 per
-Sold out
+Decrease quantity for Default Title
+Increase quantity for Default Title
 Custom Name Sign - Yacht Name
-Sold out
+Sale
 Custom Name Sign - Yacht Name
 Regular price
 $1,450.00 USD
@@ -1662,8 +1665,5 @@ $1,450.00 USD
 Unit price
 /
 per
-Sold out
-TEAK CLEAN - Environmentally Friendly Alternative To Phosphoric Acid or other Caustic Cleaners
-Regular price
-From $28.95 USD
-Re
+Decrease quantity for Default Title
+Increase quantity for Default Ti

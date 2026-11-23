@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
 value && Livewire.dispatch('category:selected', { category_id: value }))"
 x-on:force:open.window="forceOpen = $event.detail.open"
@@ -223,6 +223,10 @@ Különböző márkájú kamerák, egy rögzítő! Hikvision + ONVIF bemutató
 Hozd ki a legtöbbet Hikvision kamerádból! ONVIF felhasználó létrehozása és aktiválása
 Legfrissebb cikkek
 Összes
+GLOBAL FIRE – CHAMELOEN NETWORK – Új funkció a GF világában, Új Chameleon Connector és FW!
+A Chameleon Network egy elosztott intelligenciájú és az objektum méretéhez rugalmasan alakítható hálózat, melybe Global Fire új generációs tűzjelző központjait és bővítőit fűzhetjük össze, ezzel költséghatékony elemek bevonásával hozhatunk létre akár 128 hurokból álló rendszert is. Így a hálózat egyik legnagyobb előnye, hogy ha egy központ meghibásodik mindegyik központ jelezni fogja, de a rendszer tovább működik. Egy hálózat 32 eszközt tartalmazhat. melynek része lehet a GEKKO, OCTO+ központ, a NODE+ bővítő és a Chameleon Repeater másodkezelő is.
+Tovább
+2026. 11. 23.
 Megújult a TechSon SmartStart sorozat: EL2 kamerák immár 6 és 8 megapixeles felbontásban
 A TechSon frissítette belépő szintű EL2 termékvonalát, amely a korábbi 2 megapixeles felbontást és műanyag burkolatot hátrahagyva, jelentős technikai fejlesztéseken esett át. Az új modellek a magasabb kategóriákból ismert intelligens funkciókat teszik elérhetővé a költséghatékony projektek számára.
 Tovább
@@ -240,10 +244,6 @@ GLOBAL FIRE – KOMMUNIKÁCIÓS MODULOK a „chameleon network” hálózatban
 A Chameleon Network egy elosztott intelligenciájú és az objektum méretéhez rugalmasan alakítható hálózat, melybe a Global Fire új generációs tűzjelző központjait és bővítőit fűzhetjük össze, így költséghatékony elemek bevonásával hozhatunk létre akár 128 hurokból álló rendszert is. Minden panel osztozik az „ok-okozati” konfiguráción, mint egy globális rendszer. Minden alkalommal, amikor egy panelen esemény történik, a panel továbbítja az eseményt a hálózaton és rögzíti az eseményt a helyi „eseménynaplójában”, majd végrehajtja az adott eseményre meghatározott ok-okozati összefüggést (vezérlést és hangjelzők indítását).
 Tovább
 2026. 10. 26.
-Bemutatkozik a Hik Connect 7
-A Hikvision 2026. szeptember 29 én bemutatta a Hik Connect 7 alkalmazást, amely a vállalat eddigi legnagyobb ugrása a felhőalapú biztonsági menedzsmentben. A friss verzió központi eleme a HIKO, egy új mesterséges intelligencia motor, amely teljesen átalakítja a rendszer működését: a hagyományos, manuális keresésre épülő felügyeletből egy proaktív, nyelvi utasításokat értő, összefüggéseket felismerő platformot hoz létre.
-Tovább
-2026. 10. 20.
 Elérhetőség
 Tájékoztatjuk Önöket, hogy a POWER Biztonságtechnikai Kft. nagykereskedés, így csak telepítőket és viszonteladókat áll módunkban kiszolgálni. Megértésüket köszönjük.
 info@powerbizt.hu

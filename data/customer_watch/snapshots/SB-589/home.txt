@@ -1,4 +1,4 @@
-# SB-589 bydemes.com · home · https://bydemes.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-589 bydemes.com · home · https://bydemes.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 The leading distributor in security technologies | By Demes Group
 Company About us Solutions Top brands Employment
 News News Newsletters
@@ -111,6 +111,9 @@ Networking
 IoT SmartHome
 All All CCTV Video Door Phones Access Control Intrusion Fire Networking IoT SmartHome
 News
+VESTA-426
+VESTA IP+2G intrusion alar...
+View price
 TPLINK-343
 TL-WPA4220 KIT
 TP-Link AV600 Powerline ki...
@@ -138,10 +141,6 @@ View price
 TPLINK-336
 EAP783
 TP-Link Omada BE19000 tri-...
-View price
-TPLINK-335
-SG3428XMPP
-TP-Link Omada L2+ managed ...
 View price
 Brands catalogue
 All All CCTV Video Door Phones Access Control Intrusion Fire Networking IoT SmartHome

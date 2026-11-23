@@ -1,4 +1,4 @@
-# SB-794 wut.de · home · https://www.wut.de/e-wwwww-ww-hpus-000.php · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-794 wut.de · home · https://www.wut.de/e-wwwww-ww-hpus-000.php · fetched 2026-11-23T10:56:18Z · HTTP 200
 Wiesemann & Theis GmbH - WuT connects
 Wiesemann & Theis GmbH
 Networking, sensors and interface technology for industry, office and IT
@@ -88,7 +88,7 @@ Time Switch and SIP Ring Switch
 Switching via calendar or phone call
 Networking
 IT security / Microwall
-Firewalls, VPN and islandization
+Industrial Firewalls with VPN
 Edge computing / rule.box
 Node-RED | MQTT broker | logic.hub
 IP Watcher

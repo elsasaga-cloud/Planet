@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-974 b-plus.com · news_1 · https://www.b-plus.com/de/newsroom/events · fetched 2026-11-23T10:56:18Z · HTTP 200
 Events
 DE EN
 Suche
@@ -92,6 +92,26 @@ Erfahren Sie mehr
 DSEI Germany
 09. - 12. März 2027
 Messeglände, Hannover
+Erfahren Sie mehr
+Instrumentation, Analysis and Testing Exhibition 2027
+13. April 2027
+Silverstone Circuit
+Erfahren Sie mehr
+VECS
+25. - 26. Mai 2027
+Svenska Mässan, Göteborg
+Erfahren Sie mehr
+Automotive Testing Expo
+02. - 03. Juni 2027
+Messegelände, Stuttgart
+Erfahren Sie mehr
+Intelligent Vehicle Expo
+02. - 03. Juni 2027
+Messegelände, Stuttgart
+Erfahren Sie mehr
+Industrial Vehicle Technologies Expo Europe
+09. - 10. Juni 2027
+Köln Messe
 Erfahren Sie mehr
 b-plus GmbH
 Ulrichsberger Str. 17

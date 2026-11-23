@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,45 +41,43 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Ubiquiti UniFi patch kabel, 1m, Cat5e, černý, 10 pack
-825 Kč bez DPH
-998 Kč s DPH
-Hikvision AX PRO Bezdrátové přenosné tísňové tlačítko
-Kingston Micro SDXC Canvas Select Plus Gen3 512GB
-1 943 Kč bez DPH
-2 352 Kč s DPH
-Hikvision IP turret hybrid kamera DS-2CD2383G2-LI2U(4mm), 8Mpx, 4mm, AcuSense
-Samsung 9100 PRO NVMe SSD, M.2, 2TB
-11 271 Kč bez DPH
-13 638 Kč s DPH
-Triton 19" stojanový rack 47U/600x900 prosklené dveře, šedý
-15 300 Kč bez DPH
-18 513 Kč s DPH
-Triton 19" stojanový rack 47U/800x900 prosklené dveře, šedý
-16 880 Kč bez DPH
-20 425 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD2043G2-LI2U(2.8mm)(BLACK), 4Mpx, 2.8mm, AcuSense, Černá
+Hikvision IP bullet kamera DS-2CD1023G2-LIU(4mm), 2Mpx, 4mm, ColorVu
+Kingston Micro SDXC Canvas Select Plus Gen3 256GB
+1 041 Kč bez DPH
+1 260 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD1023G3-LIU(2.8mm), 2Mpx, 2.8mm
 Ubiquiti UniFi Premium Etherlighting patch kabel, 3m, Cat6A, bílý, 10 pack
 2 102 Kč bez DPH
 2 544 Kč s DPH
-SanDisk Extreme PRO Micro SDXC 128GB + SD adaptér
-1 107 Kč bez DPH
-1 340 Kč s DPH
-DEYE hybridní měnič 3,6 kW, 1 fázový, LV, 6.generace
-16 904 Kč bez DPH
-20 454 Kč s DPH
-Triton 19" stojanový rack 15U/800x900 prosklené dveře, šedý
-9 718 Kč bez DPH
-11 759 Kč s DPH
-WD Ultrastar DC HA340, 3.5", 6TB, SATA
-8 479 Kč bez DPH
-10 260 Kč s DPH
-TP-Link Tapo C250 Domácí bezpečnostní Wi-Fi kamera s naklápěním, 8Mpx
-1 344 Kč bez DPH
-1 626 Kč s DPH
-Ubiquiti Externí přísvit pro G6 180 kameru, černý
-2 919 Kč bez DPH
-3 532 Kč s DPH
+Triton 19" stojanový rack 45U/600x1000 prosklené dveře, šedý
+15 370 Kč bez DPH
+18 598 Kč s DPH
+Kingston Micro SDXC Canvas Select Plus Gen3 128B + SD adaptér
+736 Kč bez DPH
+891 Kč s DPH
+Ubiquiti UniFi patch kabel, 2m, Cat5e, černý
+115 Kč bez DPH
+139 Kč s DPH
+MikroTik LtAP-5HaxT2HaxD&EG120K-EA, LtAP LTE12 ax
+5 838 Kč bez DPH
+7 064 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+Triton 19" stojanový rack 42U/600x1000 prosklené dveře, šedý
+14 470 Kč bez DPH
+17 509 Kč s DPH
+Ubiquiti UniFi Premium Etherlighting patch kabel, 30cm, Cat6A, bílý, 24 pack
+2 631 Kč bez DPH
+3 184 Kč s DPH
+Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 3m, 50 pack
+2 863 Kč bez DPH
+3 464 Kč s DPH
+Hikvision IP bullet kamera DS-2CD2087G3-LI2UY(2.8mm), 8Mpx, 2.8mm, ColorVu 3.0
+Triton 19" stojanový rack 37U/800x900 prosklené dveře, šedý
+15 270 Kč bez DPH
+18 477 Kč s DPH
+TP-Link Tapo RVA110, Náhradní sada pro Tapo robotické vysavače Tapo
+1 464 Kč bez DPH
+1 771 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

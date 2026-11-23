@@ -1,5 +1,5 @@
-# SB-1084 targoncavilla.com · home · https://www.frekvent.com/Villa · fetched 2026-11-22T09:57:04Z · HTTP 200
-Targoncavilla - Targonca alkatrész - frekvent
+# SB-1084 targoncavilla.com · home · https://www.frekvent.com/Villa · fetched 2026-11-23T10:56:18Z · HTTP 200
+Targoncavilla - Targonca alkatrész
 Viszonteladói árakért keresse munkatársunkat!
 Érdekel
 Keresés
@@ -209,4 +209,5 @@ Raktáron
 Alkatrésztípus:
 Targoncavilla
 ISO/FEM osztály <p>AZ ISO/FEM osztály határozza meg a villapajzs magasságát, így azt is, hogy melyik villát vagy adaptert lehet felhúzni a villatartó pajzsra.</p>
-<p>Akasztási magasságok:<br />ISO/FEM2: 407 mm<br />ISO/FEM3: 508 mm<br />ISO/FEM4: 635 mm</p>">ISO/FEM
+<p>Akasztási magasságok:<br />ISO/FEM2: 407 mm<br />ISO/FEM3: 508 mm<br />ISO/FEM4: 635 mm</p>">ISO/FEM osztály :
+

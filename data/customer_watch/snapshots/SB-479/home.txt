@@ -1,4 +1,4 @@
-# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-479 ezy.hr · home · https://ezy.hr/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 EZY Infotech d.o.o.
 PRIJAVA
 *
@@ -590,6 +590,9 @@ Mailing lista
 5
 6
 ARTIKLI NA AKCIJI
+XIA-53602
+Xiaomi Watch 2, Black
+--,-- EUR
 LEN-R20X1S0EM00-S
 Lenovo reThink ThinkPad L14 G2 i5-1135G7/8GB/...
 --,-- EUR
@@ -598,9 +601,6 @@ Xiaomi Bluetooth Speaker Mini, 6W
 --,-- EUR
 LEN-R20T0004MGE-B
 Lenovo reThink ThinkPad T14s G1 i5-10210U/16G...
---,-- EUR
-NTC-NOC-NH-D15-CHBL
-Noctua NH-D15 chromax.black, CPU Cooler
 --,-- EUR
 XIA-BHR9186GL
 Xiaomi LED Desk Lamp 2

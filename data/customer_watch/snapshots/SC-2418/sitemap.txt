@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
-2026-11-22	https://www.streakwave.com/
-2026-11-22	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+2026-11-23	https://www.streakwave.com/
+2026-11-23	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-11-19	https://www.streakwave.com/all-products
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise

@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -39,17 +39,6 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
-Industrial Power Supply 48V DC, 240W DN-PWR-STD-24048
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIGPWRSTD24048
-Ár:
-24.746 Ft + ÁFA
-(31.427 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Industrial Power Supply 48V DC DN-PWR12048
 ÚJDONSÁG!
 Villámnézet
@@ -134,6 +123,72 @@ Cikkszám: HDIGPWRSTD12024
 Ár:
 14.178 Ft + ÁFA
 (18.006 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Power Supply 48V DC, 240W DN-PWR-STD-24048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGPWRSTD24048
+Ár:
+24.746 Ft + ÁFA
+(31.427 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651107
+Ár:
+36.839 Ft + ÁFA
+(46.786 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port Gigabit Switch DN-651150
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651150
+Ár:
+59.314 Ft + ÁFA
+(75.329 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit Switch DN-651156
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651156
+Ár:
+85.484 Ft + ÁFA
+(108.565 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit PoE DN-651157
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651157
+Ár:
+99.034 Ft + ÁFA
+(125.773 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8 + 4 10G Gigabit PoE switch DN-651161
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651161
+Ár:
+161.135 Ft + ÁFA
+(204.641 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -226,61 +281,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651107
-Ár:
-36.839 Ft + ÁFA
-(46.786 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port Gigabit Switch DN-651150
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651150
-Ár:
-59.314 Ft + ÁFA
-(75.329 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit Switch DN-651156
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651156
-Ár:
-85.484 Ft + ÁFA
-(108.565 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit PoE DN-651157
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651157
-Ár:
-99.034 Ft + ÁFA
-(125.773 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8 + 4 10G Gigabit PoE switch DN-651161
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651161
-Ár:
-161.135 Ft + ÁFA
-(204.641 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Tooltest - 4p,6p,8p fogó + teszter
 ÚJDONSÁG!
 Villámnézet
@@ -289,6 +289,28 @@ Cikkszám: HOBHTC-0022
 28.640 Ft + ÁFA
 (36.373 Ft)
 2 db raktáron
+db
+Kosárba
+Részletek
+2U panel for D-type modules, 24-port DN-97697
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97697
+Ár:
+4.380 Ft + ÁFA
+(5.563 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+8P8C Cat6a UTP toolless mod. dugó DN-93633
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: K289543TD
+Ár:
+810 Ft + ÁFA
+(1.029 Ft)
+60 db raktáron
 db
 Kosárba
 Részletek
@@ -347,28 +369,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-2U panel for D-type modules, 24-port DN-97697
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97697
-Ár:
-4.380 Ft + ÁFA
-(5.563 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-8P8C Cat6a UTP toolless mod. dugó DN-93633
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: K289543TD
-Ár:
-810 Ft + ÁFA
-(1.029 Ft)
-60 db raktáron
-db
-Kosárba
-Részletek
 8P8C mod.dugasz,árnyékolt Cat.6 átmenő P88R5Z50V2ST
 ÚJDONSÁG!
 Villámnézet
@@ -377,6 +377,17 @@ Cikkszám: K288542-EASY
 110 Ft + ÁFA
 (140 Ft)
 690 db raktáron
+db
+Kosárba
+Részletek
+Fésűs panel mini szekrényhez fekete DN-10-ORG-1-2U-B
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: DFÉSMF
+Ár:
+1.550 Ft + ÁFA
+(1.969 Ft)
+8 db raktáron
 db
 Kosárba
 Részletek
@@ -399,17 +410,6 @@ Cikkszám: TO-TÁL10F
 2.500 Ft + ÁFA
 (3.175 Ft)
 37 db raktáron
-db
-Kosárba
-Részletek
-Fésűs panel mini szekrényhez fekete DN-10-ORG-1-2U-B
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: DFÉSMF
-Ár:
-1.550 Ft + ÁFA
-(1.969 Ft)
-8 db raktáron
 db
 Kosárba
 Részletek

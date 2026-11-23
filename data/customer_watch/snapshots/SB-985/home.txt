@@ -1,4 +1,4 @@
-# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Informática industrial, IA y automatización | QNV
 Saltar al contenido
 Buscar por:
@@ -130,12 +130,12 @@ ROS 2
 Robots Autónomos
 PRODUCTOS DESTACADOS
 Vista Rápida
-Comunicaciones Industriales
-EPS-9905 + EPS-6000
-Chasis EtherCAT con acoplador de bus Ethercat EPS-6000
+Industria 4.0/IoT/Cloud
+MXE-100i
+Gateway para M2M basado en equipo embedded fanless
 ×
 Solicitar oferta para
-EPS-9905 + EPS-6000
+MXE-100i
 Nombre y apellidos
 Empresa
 Correo electrónico
@@ -170,12 +170,12 @@ Enviar
 ¡Gracias!
 Solicitar oferta
 Vista Rápida
-Industria 4.0/IoT/Cloud
-MXE-100i
-Gateway para M2M basado en equipo embedded fanless
+Comunicaciones Industriales
+Talos-3012
+Controlador EtherCAT Master basado en procesador Intel Atom E3845 a 1.9GHz
 ×
 Solicitar oferta para
-MXE-100i
+Talos-3012
 Nombre y apellidos
 Empresa
 Correo electrónico
@@ -191,11 +191,11 @@ Enviar
 Solicitar oferta
 Vista Rápida
 Comunicaciones Industriales
-Talos-3012
-Controlador EtherCAT Master basado en procesador Intel Atom E3845 a 1.9GHz
+EPS-9905 + EPS-6000
+Chasis EtherCAT con acoplador de bus Ethercat EPS-6000
 ×
 Solicitar oferta para
-Talos-3012
+EPS-9905 + EPS-6000
 Nombre y apellidos
 Empresa
 Correo electrónico

@@ -1,4 +1,4 @@
-# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-2510 getfort.com · home · https://getfort.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Strona główna | Getfort
 O marce
 Aktualności
@@ -63,36 +63,36 @@ Dowiedz się więcej
 Rozwiązania oferowane przez Getfort
 Nasze produkty
 Oferujemy nowoczesne systemy infrastruktury IT przeznaczone dla domów, firm oraz obiektów przemysłowych.
-Szafa Rack GETFORT 19 cali 47U 800x800 Stojąca perforowana
-SGF47-88EH-SPB
 Szafa Rack GETFORT 19 cali 47U 800x1000 Stojąca perforowana
 SGF47-80EH-SPB
+Szafa Rack GETFORT 19 cali 47U 800x800 Stojąca perforowana
+SGF47-88EH-SPB
 Szafa Rack GETFORT 19 cali 47U 800x800 Stojąca
 SGF47-88EH-SGB
 Szafa Rack GETFORT 19 cali 47U 800x1000 Stojąca
 SGF47-80EH-SGB
-Panel 4 wentylatorów z termostatem Rack 1U
-GF-FAN4TR
-Panel 2 wentylatorów z termostatem Rack 1U
-GF-FAN2TR
-Blacha montażowa do szaf multimedialnych gniazda F
-GF-S9F
-Blacha montażowa do szaf multimedialnych gniazda światłowodowe
-GF-S6ŚW
 Moduł RJ45-RJ45 do szaf multimedialnych KAT.5E UTP
 GF-S2G5E-UTP
+Blacha montażowa do szaf multimedialnych gniazda F
+GF-S9F
+Panel 2 wentylatorów z termostatem Rack 1U
+GF-FAN2TR
+Panel 4 wentylatorów z termostatem Rack 1U
+GF-FAN4TR
+Blacha montażowa do szaf multimedialnych gniazda światłowodowe
+GF-S6ŚW
 Blacha montażowa do szaf multimedialnych gniazda RJ45
 GF-S4RJ45
 Moduł RJ45-RJ45 do szaf multimedialnych KAT.6 UTP
 GF-S2G6-UTP
 Obudowa Getfort Hermetyczna słupowa 400x350x600
 HGF-40/35/60
-SZAFA RACK GETFORT 19 CALI 32U 600X1000 Stojąca
-SGF32-60-SGB
+SZAFA RACK GETFORT 19 CALI 12U 600X600 WISZĄCA SZARA
+WGF12-66EH-WGG
 SZAFA RACK GETFORT 19 CALI 18U 600X600 WISZĄCA SZARA
 WGF18-66EH-WGG
-SZAFA RACK GETFORT 19 CALI 15U 600X450 WISZĄCA SZARA
-WGF15-64EH-WGG
+SZAFA RACK GETFORT 19 CALI 32U 600X1000 Stojąca
+SGF32-60-SGB
 SWITCH POE GETFORT 16GE+2GE+2SFP 240W
 GF-220G-16P-240
 SWITCH POE GETFORT 16FE+2GE+2SFP 240W

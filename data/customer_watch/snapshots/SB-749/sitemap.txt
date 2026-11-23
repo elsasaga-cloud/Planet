@@ -1,4 +1,4 @@
-# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-749 ecin.ca · sitemap · https://www.ecin.ca/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
 2026-09-23	https://www.ecin.ca/about-us
 2026-09-23	https://www.ecin.ca/ai-datacenter
 2026-11-03	https://www.ecin.ca/blog-400g-qsfpdd-to-100g-breakout-all-practical-options-explained
@@ -92,7 +92,7 @@
 2026-08-04	https://www.ecin.ca/warranty-and-returns
 2025-11-11	https://www.ecin.ca/web/login
 	https://www.ecin.ca/terms
-	https://www.ecin.ca/shop/en-sfp28-sr-10g-25g-sfp28-25g-sr-mmf-850nm-100m-lc-4817
+	https://www.ecin.ca/shop/en-sfp28-sr-10g-25g-sfp28-sr-850nm-100m-om4-mmf-duplex-lc-4817
 	https://www.ecin.ca/shop/en-sfp1g-ex-1-25g-sfp-1310nm-40km-duplex-lc-upc-smf-transceiver-4897
 	https://www.ecin.ca/shop/en-qsfp28-bxu10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1271nm-tx-1331nm-rx-8477
 	https://www.ecin.ca/shop/en-qsfp28-bxd10-100g-bidi-pam4-qsfp28-single-lambda-xcvr-10km-1331nm-tx-1271nm-rx-8478
@@ -122,6 +122,11 @@
 	https://www.ecin.ca/shop/en-sfp10g-bxu80-10g-bidi-sfp-80km-smf-simplex-lc-tx1490-rx1550-4840
 	https://www.ecin.ca/shop/en-sfp10g-bxd80-10g-bidi-sfp-80km-smf-simplex-lc-tx1550-rx1490-4841
 	https://www.ecin.ca/shop/7326-56x-o-ac-f-us-10g-25g-data-center-switch-dcs203-as7326-56x-48x25g-8x100g-ports-ac-psu-port-to-power-f2b-5318
+	https://www.ecin.ca/shop/en-sfp28-bxid20-10g-25g-sfp28-bidi-d-tx1330-rx1270nm-20km-smf-simplex-lc-industrial-8555
+	https://www.ecin.ca/shop/en-sfp28-bxiu20-10g-25g-sfp28-bidi-u-tx1270-rx1330nm-20km-smf-simplex-lc-industrial-8554
+	https://www.ecin.ca/shop/en-sfp28-er-10g-25g-sfp28-er-1310nm-40km-smf-duplex-lc-4820
+	https://www.ecin.ca/shop/en-sfp28-lr-10g-25g-sfp28-lr20-extended-reach-20km-smf-duplex-lc-4819
+	https://www.ecin.ca/shop/en-sfp28-esr-10g-25g-sfp28-esr-extended-reach-850nm-300m-mmf-duplex-lc-4818
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-ac-12-slot-mini-media-converter-rack-with-dual-ac-psu-input-ac100-240v-10740
 	https://www.ecin.ca/shop/en-mcrck-12s1ru-dc-12-slot-mini-media-converter-rack-with-dual-dc-psu-8566
 	https://www.ecin.ca/shop/en-sfp1g-zx-1g-sfp-1550nm-80km-duplex-lc-upc-smf-transceiver-4899
@@ -131,17 +136,11 @@
 	https://www.ecin.ca/shop/en-ymtp8f-om4-1m-1xmtp-8f-female-to-2xmtp-4-fibers-female-om4-polarity-b-1m-10229
 	https://www.ecin.ca/shop/en-itaprmc-2-2-tap-1u-rack-mount-chassis-2-slots-w-t-en-itap1l1g-rj45-87
 	https://www.ecin.ca/shop/en-q112-200-dr2-200g-qsfp112-dr2-transceiver-nic-flat-top-1310nm-500m-smf-mpo-12-2-100g-dr1-breakout-11180
+	https://www.ecin.ca/shop/en-sfp28-bxd40-25g-sfp28-bidi-d-tx1310-rx1270nm-40km-smf-simplex-lc-4824
+	https://www.ecin.ca/shop/en-sfp28-bxd10-25g-sfp28-bidi-d-tx1330-rx1270nm-10km-smf-simplex-lc-4822
+	https://www.ecin.ca/shop/en-sfp28-bxu40-25g-sfp28-bidi-u-tx1270-rx1310nm-40km-smf-simplex-lc-4823
+	https://www.ecin.ca/shop/en-sfp28-bxu10-25g-sfp28-bidi-u-tx1270-rx1330nm-10km-smf-simplex-lc-4821
+	https://www.ecin.ca/shop/en-sfp28-zr-25g-sfp28-zr-80km-smf-duplex-lc-8602
 	https://www.ecin.ca/shop/en-s28-dac-2m-co-25g-sfp28-to-sfp28-passive-dac-2m-cisco-1116
 	https://www.ecin.ca/shop/en-s28-dac-3m-co-25g-sfp28-to-sfp28-passive-dac-3m-cisco-1117
-	https://www.ecin.ca/shop/en-s28-dac-5m-co-25g-sfp28-to-sfp28-passive-dac-5m-cisco-1119
-	https://www.ecin.ca/shop/exp100-32x-32-port-100g-qsfp28-programmable-switch-11049
-	https://www.ecin.ca/shop/exp400-32x-32-port-400g-qsfp112-qsfp56-qsfp28-programmable-switch-11012
-	https://www.ecin.ca/shop/en-qdd-dr4-400g-dr4-qsfp-dd-1310nm-500m-dom-mpo-12-apc-smf-transceiver-msa-compatible-5710
-	https://www.ecin.ca/shop/en-osfp-fr4-400g-fr4-osfp-finned-top-pam4-1310nm-2km-duplex-lc-smf-transceiver-5717
-	https://www.ecin.ca/shop/en-osfp-lr4-400g-lr4-osfp-finned-top-pam4-1310nm-10km-duplex-lc-smf-optical-transceiver-10850
-	https://www.ecin.ca/shop/en-qdd-srbd-400g-qsfp-dd-bidi-multimode-transceiver-sr4-2-srbd-mpo-100m-5720
-	https://www.ecin.ca/shop/en-q112-400-dr4-400g-qsfp112-dr4-transceiver-10927
-	https://www.ecin.ca/shop/en-q112-400-fr4-400g-qsfp112-fr4-transceiver-10928
-	https://www.ecin.ca/shop/en-q112-400-sr4-400g-qsfp112-sr4-transceiver-10926
-	https://www.ecin.ca/shop/en-q112-400-vr4-400g-qsfp112-vr4-transceiver-10925
-	https://www.ecin.ca/shop/en-osfp-sr4-rhs-4
+	https://www.ecin.ca/shop/en-s28-dac-5m-co-25g-sfp28-to-sfp28-passive-dac-5m-c

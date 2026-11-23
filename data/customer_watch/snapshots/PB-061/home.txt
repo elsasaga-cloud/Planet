@@ -1,20 +1,20 @@
-# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy
 Pn–Pt – · +48 504 500 007 info@ctr.pl
 O nas Pomoc i FAQ
 Sklep
 Szukaj Zaloguj Ulubione Porównaj 0 Koszyk
 Wszystkie kategorie
-▾ Monitoring IP 5042 › Monitoring IP
-Zobacz całą kategorię (5042) →
-Kamery IP 3153 Kamery IP zewnętrzne 2675
+▾ Monitoring IP 5034 › Monitoring IP
+Zobacz całą kategorię (5034) →
+Kamery IP 3144 Kamery IP zewnętrzne 2668
 Kamery IP PTZ 483
 Kamery samochodowe 71
 Kamery IP fisheye 76
 Kamery IP mini/ukryte 140
-Kamery IP wewnętrzne 727
-Kamery IP wandaloodporne 1039
-Rejestratory NVR 1249 AI 233
+Kamery IP wewnętrzne 726
+Kamery IP wandaloodporne 1038
+Rejestratory NVR 1250 AI 233
 PoE: tak 270
 Kanały: 4 116
 Kanały: 8 160
@@ -43,13 +43,13 @@ Zestawy monitoringu analogowego 66 Standard: AHD 32
 Ilość kamer: 4 22
 Ilość kamer: 8 24
 Polecane Kamery IP Zestawy gotowe
-Monitoring analogowy 965 › Monitoring analogowy
-Zobacz całą kategorię (965) →
+Monitoring analogowy 966 › Monitoring analogowy
+Zobacz całą kategorię (966) →
 Kamery analogowe (4w1 / AHD / TVI / CVI) 652 Kamery analogowe zewnętrzne 598
 Kamery analogowe wewnętrzne 79
 Kamery analogowe PTZ 47
-Rejestratory DVR/XVR 361 Hybryda: analog+IP 186
-Ilość kanałów: 16-kanałowy 105
+Rejestratory DVR/XVR 362 Hybryda: analog+IP 186
+Ilość kanałów: 16-kanałowy 106
 Ilość kanałów: 32-kanałowy 30
 Ilość kanałów: 4-kanałowy 87
 Ilość kanałów: 8-kanałowy 76
@@ -104,10 +104,10 @@ Przyciski wyjścia 21
 Zamki i zwory 51
 Akcesoria SKD 254
 Polecane Kamery IP Zestawy gotowe
-Akcesoria 2778 › Akcesoria
-Zobacz całą kategorię (2778) →
-Dyski do monitoringu 215 Dyski HDD CCTV 51
-Dyski HDD do NVR/DVR 120
+Akcesoria 2783 › Akcesoria
+Zobacz całą kategorię (2783) →
+Dyski do monitoringu 214 Dyski HDD CCTV 51
+Dyski HDD do NVR/DVR 119
 Dyski do NAS / archiwizacji 72
 Karty pamięci microSD 22
 Okablowanie 95 Patchcordy 3
@@ -117,17 +117,17 @@ Kable koncentryczne 27
 Kable combo (video + zasilanie) 11
 Kable zewnętrzne 26
 Kable wewnętrzne 47
-Akcesoria pozostałe 325 Zobacz wszystkie →
+Akcesoria pozostałe 326 Zobacz wszystkie →
 Zasilanie CCTV 386 Akumulatory 88
 Zasilacze impulsowe 113
 Zasilacze buforowe 91
 Zasilacze na szynę DIN 53
 UPS / zasilanie awaryjne 36
 Ochrona przepięciowa 110
-Montaż (uchwyty / puszki / obudowy) 1031 Uchwyty montażowe 701
+Montaż (uchwyty / puszki / obudowy) 1036 Uchwyty montażowe 702
 Puszki montażowe 228
 Adaptery montażowe 396
-Obudowy kamer 180
+Obudowy kamer 181
 Maszty / wysięgniki 42
 Szafy RACK 315 Szafy RACK wiszące 105
 Szafy RACK stojące 164
@@ -201,7 +201,7 @@ Cenniki Baza wiedzy Instalacje Kontakt O nas
 Monitoring IP Zestawy monitoringu Monitoring analogowy Alarmy Wideodomofony i kontrola dostępu
 Cenniki Instalacje Kontakt Baza wiedzy
 Kategorie
-Monitoring IP 5042 Zestawy monitoringu 197 Monitoring analogowy 965 Alarmy 625 Wideodomofony i kontrola dostępu 971 Akcesoria 2778 Marki
+Monitoring IP 5034 Zestawy monitoringu 197 Monitoring analogowy 966 Alarmy 625 Wideodomofony i kontrola dostępu 971 Akcesoria 2783 Marki
 ◆ Promocja tygodnia
 LC-CUBE PTZ
 -35%
@@ -310,17 +310,17 @@ Dodaj do porównania
 Wybierz po kategorii
 Kategorie monitoringu
 Monitoring IP
-5042 produktów
+5034 produktów
 → Zestawy monitoringu
 197 produktów
 → Monitoring analogowy
-965 produktów
+966 produktów
 → Alarmy
 625 produktów
 → Wideodomofony i kontrola dostępu
 971 produktów
 → Akcesoria
-2778 produktów
+2783 produktów
 → Marki
 →
 Świeżo na półkach

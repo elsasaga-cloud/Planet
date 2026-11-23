@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-23T10:56:18Z · HTTP 200
 Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996
 DE EN
 Suche
@@ -133,6 +133,31 @@ Di 09.03.2027
 -
 Fr 12.03.2027
 Messegelände, Hannover
+Instrumentation, Analysis and Testing Exhibition 2027
+Di 13.04.2027
+-
+Di 13.04.2027
+Silverstone Circuit
+VECS
+Di 25.05.2027
+-
+Mi 26.05.2027
+Svenska Mässan, Göteborg
+Intelligent Vehicle Expo
+Mi 02.06.2027
+-
+Do 03.06.2027
+Messegelände, Stuttgart
+Automotive Testing Expo
+Mi 02.06.2027
+-
+Do 03.06.2027
+Messegelände, Stuttgart
+iVT Expo
+Mi 09.06.2027
+-
+Do 10.06.2027
+Köln Messe
 PARTNER
 JETZT KOSTENLOS FÜR DEN NEWSLETTER REGISTRIEREN
 Mit dem b-plus Newsletter bleiben Sie up-to-date zu unseren Themen rund um die Validierung und Analyse von autonomen Fahrsystemen und der Entwicklung von Technologielösungen für autonomes Fahren.

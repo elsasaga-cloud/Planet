@@ -1,4 +1,4 @@
-# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Streakwave Wireless
 Skip to main content
 Menu
@@ -19,7 +19,7 @@ All Categories
 Back Antennas
 Back Omni Antennas (85) Directional Antennas (392) Sector Antennas (92) Antenna Accessories (273)
 Wireless
-Back Point-to-Point (214) Point-to-Multipoint (163)
+Back Point-to-Point (214) Point-to-Multipoint (164)
 Wi-Fi
 Back Indoor Access Points (170) Outdoor Access Points (44) Wi-Fi Accessories (24)
 Networking

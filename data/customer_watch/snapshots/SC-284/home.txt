@@ -1,28 +1,20 @@
-# SC-284 dcbnet.com · home · https://dcbnet.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
-Encryption, Multiplexer, IAD, Remote Access, Ethernet, Voice & Data, RS-232, LAN & WAN Connection Products
-Encryption, Multiplexer, Remote Access, Ethernet, Voice & Data, RS-232, LAN & WAN Connection Products">
-Providing Innovative, Cost Effective Communications Solutions Since 1981!
---
-No PHP vulnerabilities in DCB products! Motorola Quantar Remote Links and the EST-9600 ! New XT-6615 Encrypted Ethernet Tunnel.
-New Application Note -"Adding a Self-Signed Cert to the Certificate Store"!
-New FT-6615 FIPS Encrypter!
-.
-Innovative communications products, outstanding support. Find us in the office, factory, substation, vehicle, ship, aircraft, on utility poles and wind turbines, your home town, the desert or Antartica. From low speed serial to T1, gigabit ethernet and OC-48.
-Illinois Campus
-Data Comm for Business Inc.
-2949 County Road 1000 E
-Dewey, Il 61840
-Plano Campus
-Data Comm for Business Inc.
-2000 G Avenue Suite 800
-Plano, Texas 75074
-Voice:
-217-897-6600
-Toll Free: 800-4-DCB-NET
-Toll Free: 800-432-2638
-Email: Contact Page
-Web: www.dcbnet.com
-Fax: 217-897-8023
-All DCB web pages copyright ©1995- Data Comm for
-Business, All rights reserved.
-EtherPath®, EtherSeries®, EtherPoll®, EtherBridge® and EtherModem® are Registered Trademarks of Data Comm for Business, Inc.
+# SC-284 dcbnet.com · home · https://dcbnet.com/ · fetched 2026-11-23T10:56:18Z · HTTP 502
+Error
+An error occurred.
+Sorry, the page you are looking for is currently unavailable. Please try again later.
+If you are the system administrator of this resource then you should check the error log for details.
+Commercial support is available at openresty.com .
+OpenResty YouTube Channel
+OpenResty Blog
+OpenResty Inc. Products
+We solve your unique and complex web problems with our layers of solutions and expertise from over a decade of experience.
+OpenResty XRay
+Troubleshooting and profiling tool
+OpenResty Edge
+Modern web application server
+OpenResty's Official Blog for Technologies & Products.
+How to deploy the on-premises version of OpenResty XRay on Microsoft's Azure cloud
+Real-Time Request Counting against Nginx Processes via YSQL
+High-Performance Web Application Firewall (WAF) in OpenResty Edge
+The EdgeLang DSL in OpenResty Edge
+How to pass the real client IP addresses to backend servers via special request headers

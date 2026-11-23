@@ -1,4 +1,4 @@
-# SB-773 microseven.com · home · http://www.microseven.com/index.html · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-773 microseven.com · home · http://www.microseven.com/index.html · fetched 2026-11-23T10:56:18Z · HTTP 200
 microseven wi-fi and wired poe security camera
 LIVE CAM
 STORE
@@ -77,14 +77,12 @@ Sign in
 Sign up
 Sign in ›
 LIVE CAM STORE
+$109.99
+Microseven 4K 8 Channel Network Video Recorder NVR for Security Camera (1080p/3MP/4MP/5MP/6MP/4K) Supports up to 8 x 8-Megapixel IP Cameras, Max. 10TB HDD 1 x SATA (Not Included) 1 VGA, 1 HDMI
+SHOP NOW
 $399.00 Sale $499.99
 M7B4K-WPSAA-H
 (4 Pack) M7B4K-WPSAA-H | 4K (8MP) IP PoE + Wi-Fi Camera, 30 FPS, Dual-Band Wi-Fi (2.4/5GHz), Outdoor-Rated, Open Platform
-SHOP NOW
-$199.99 $229.99
-Save: $30.00 (13.04%)
-M7D4K-PTZH14X-WPSAA
-Microseven M7D4K-PTZH14X-WPSAA | 4K (8MP) PTZ Security Dome Camera, 30 FPS | PoE + Dual-Band Wi-Fi | 14× Optical Zoom | Active Deterrence, Outdoor-Rated
 SHOP NOW
 $109.99 Sale $149.99
 M7B4K-WPSAA-H
@@ -136,10 +134,6 @@ $110.00
 M7NVR-4K10CH-HTL
 M7NVR-4K10CH-HTL | 10-Channel 4K Network Video Recorder, H.265/H.264, HDMI + VGA, Open Platform
 SHOP NOW
-$159.99
-M7B4K-WPUNC
-M7B4K-WPUNC | 4K (8MP) IP Camera, PoE + Dual-Band Wi-Fi (2.4/5GHz), SuperVision Firmware, Outdoor-Rated, Open Platform ( Pre Order Only )
-SHOP NOW
 $199.99
 M7NVR-4K16CH-HTL
 M7NVR-4K16CH-HTL | 16-Channel 4K Network Video Recorder, H.265/H.264, HDMI + VGA, Open Platform
@@ -183,7 +177,7 @@ Profile
 Change Password
 Apps
 Patents: US9774767, US9712733, US9510034, US9124946
-Stream views: 13,041,705
+Stream views: 13,041,801
 Microseven® is a registered brand of Microseven Systems LLC.
 © 2026 Microseven Systems LLC. All rights reserved.
 home security, professional poe camera, IP camera, Cloud, live, streaming, hls, wi-fi camera, security Camera

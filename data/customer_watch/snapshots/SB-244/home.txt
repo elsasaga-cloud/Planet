@@ -1,4 +1,4 @@
-# SB-244 innowatt.it · home · https://www.innowatt.it/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-244 innowatt.it · home · https://www.innowatt.it/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Innowatt - Tecnologia innovativa al tuo servizio
 Vai direttamente ai contenuti
 Il tuo carrello è vuoto
@@ -173,7 +173,7 @@ Telecamere IP e WiFi, videoregistratori, monitor
 Sicurezza
 e allarmi
 Antifurto Ajax, controllo accessi, videocitofoni
-666 articoli
+665 articoli
 Reti
 e smart home
 Switch PoE, WiFi, Shelly, Aqara, domotica

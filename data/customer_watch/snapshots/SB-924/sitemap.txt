@@ -1,4 +1,4 @@
-# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-924 Intracom Middle East FZ-LLC · sitemap · https://intracom-telecom.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
 2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/broadband/
 2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/fixed-wireless-access/
 2026-11-18T14:02:59+02:00	https://www.intracom-telecom.com/tags/geolinks/

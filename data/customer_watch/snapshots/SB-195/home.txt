@@ -1,4 +1,4 @@
-# SB-195 bkgrupe.lt · home · https://bkgrupe.lt/ · fetched 2026-11-22T09:57:04Z · HTTP 403
+# SB-195 bkgrupe.lt · home · https://bkgrupe.lt/ · fetched 2026-11-23T10:56:18Z · HTTP 403
 Attention Required! | Cloudflare
 Please enable cookies.
 Sorry, you have been blocked
@@ -10,6 +10,6 @@ You can email the site owner to let them know you were blocked. Please include w
 Cloudflare
 •
 Click to reveal
-3.42.157.43
+3.42.157.114
 •
 Performance & security by Cloudflare

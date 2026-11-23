@@ -1,4 +1,4 @@
-# SB-464 HAMDAZTECH TECHNOLOGIES INC LLC · home · https://hamdaz.com/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SB-464 HAMDAZTECH TECHNOLOGIES INC LLC · home · https://hamdaz.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Hamdaz Technologies | IT, AI, Cybersecurity & ELV in Abu Dhabi
 Skip to content
 Technologies
@@ -57,6 +57,11 @@ Smart Farming
 Staffing & Outsourcing
 IT Staffing & Resident Engineers
 IT Outsourcing & Operations
+Industrial Supply
+Instrumentation
+Electrical
+HSE & Safety
+Mechanical & Other
 Not sure where to start?
 Tell us your goal and see the services that fit.
 Find the right service
@@ -83,6 +88,7 @@ Networking & Wi-Fi
 Software Development
 Industry Solutions
 Staffing & Outsourcing
+Industrial Supply
 All 38 services >>
 How We Do
 Oil and Gas Industry
@@ -310,5 +316,4 @@ Send an enquiry
 Managed AI SecOps (24/7 SOC) AI-native detection, decision and response around the clock, with human expertise in the loop.
 Cybersecurity Assessment & Audit Risk and gap analysis against ISO/IEC 27001 and NIST CSF 2.0, penetration testing and a board-ready roadmap.
 Zero Trust, Identity & Data Security Zero Trust, SASE, identity, data loss prevention, email and web application security.
-Ransomware Resilience & Recovery Close the gap between endpoint controls and backups, with recovery assurance behind it.
-Information 
+Ransomware Resilience & Recovery Close

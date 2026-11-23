@@ -1,4 +1,4 @@
-# SC-1867 vienthonghanoi.vn · home · https://vienthonghanoi.vn/ · fetched 2026-11-22T09:57:04Z · HTTP 200
+# SC-1867 vienthonghanoi.vn · home · https://vienthonghanoi.vn/ · fetched 2026-11-23T10:56:18Z · HTTP 200
 Trang chủ | Viễn Thông VTHN | VIENTHONGHANOI.VN
 Skip to content
 CHUYÊN MỤC CHUYÊN MỤC
@@ -400,9 +400,6 @@ Máy in nhãn Brother
 Các phụ kiện khác
 Khuyến mãi hấp dẫn Xem thêm
 Sản phẩm hot Xem thêm
-Sale!
-Máy đo cáp quang OTDR JW3302L Mini 29/27dB Giá Tốt Ở Hà Nội
-8.000.000 ₫ 7.800.000 ₫
 Converter 3ONEDATA 3012-SS-SC-20KM 1 sợi 1Gbs
 2.300.000 ₫
 Sale!
@@ -427,6 +424,9 @@ Rulo cuốn cáp tín hiệu truyền hình, angten Mã: RXP-2
 Sale!
 Máy test mạng Noyafa NF-8209S POE dùng sạc Type C
 2.000.000 ₫ 1.600.000 ₫
+Sale!
+Máy đo cáp quang OTDR JW3302L Mini 29/27dB Giá Tốt Ở Hà Nội
+8.000.000 ₫ 7.800.000 ₫
 Sản phẩm giảm giá Xem thêm
 Sale!
 Máy test mạng NF-468 Noyafa đa năng
@@ -437,15 +437,6 @@ Bút soi quang 10Km – Bút laser dò lỗi cáp quang giá rẻ
 Sale!
 Bộ kéo dài HDMI to LAN 60m qua cáp mạng Lan RJ45 có USB
 1.150.000 ₫ 900.000 ₫
-Sale!
-Converter quang BTon BT-950SM-25 A-B 1 sợi 10/100M
-700.000 ₫ 550.000 ₫
-Sale!
-Bộ chuyển đổi HDMI sang LAN 100m 4K dùng dây cáp mạng RJ45
-1.250.000 ₫ 890.000 ₫
-Sale!
-Tool nhấn phiến Krone – Dao dập phiến Krone LSA Chính hãng
-390.000 ₫ 350.000 ₫
 Sale!
 Dao cắt quang FC-6S Sumitomo
 550.000 ₫ 350.000 ₫
@@ -464,6 +455,15 @@ Khay nguồn tập trung Converter 14 khe cắm lắp tủ rack
 Sale!
 Wifi Mercury MWB201 – Bộ thu phát Wifi không dây 2.4GHz 1Km
 1.500.000 ₫ 1.250.000 ₫
+Sale!
+Dao dọc vỏ cáp quang SI-01 – Dụng cụ xẻ dọc tước cáp quang
+700.000 ₫ 510.000 ₫
+Sale!
+Doa Đầu Cáp Feeder 1/2 | Tạo rãnh cáp feeder 1/2
+400.000 ₫ 350.000 ₫
+Sale!
+Converter quang Optone OPT-1100S25 2 sợi 10/100M
+385.000 ₫ 305.000 ₫
 Tin tức - Giải pháp
 Danh mục sản phẩm
 Sản phẩm Hot
@@ -475,13 +475,13 @@ Cáp sợi quang
 Thiết bị cáp quang
 208 Products
 Phụ kiện cáp quang
-255 Products
+257 Products
 Dây cáp mạng
 22 Products
 Thiết bị mạng
 90 Products
 Phụ kiện mạng
-100 Products
+101 Products
 Cáp thông tin
 46 Products
 Tủ mạng - Tủ rack
